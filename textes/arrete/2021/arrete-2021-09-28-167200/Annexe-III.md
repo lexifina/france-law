@@ -816,70 +816,408 @@ Q. II. Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-R. Fiche d'opération standardisée BAR-TH-106-Chaudière individuelle HPE :
+R. Fiche d'opération standardisée BAR-TH-106 " Chaudière individuelle à haute performance énergétique " :
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+Doivent être vérifiés lors des contrôles par contact :
 
-S. Fiche d'opération standardisée BAR-TH-107-Chaudière collective HPE :
+-l'existence de la chaudière installée ;
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
 
-T. Fiche d'opération standardisée BAR-TH-107-SE-Chaudière collective HPE avec contrat conduite :
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+S. Fiche d'opération standardisée BAR-TH-107 " Chaudière collective haute performance énergétique " :
 
-U. Fiche d'opération standardisée BAR-TH-118-Système de régulation par programmateur d'intermittence :
+Doivent être vérifiés lors des contrôles par contact :
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+-l'existence de la chaudière installée ;
 
-V. Fiche d'opération standardisée BAR-TH-127-VMC simple flux hygroréglable :
+-le nombre d'appartements ;
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
 
-W. Fiche d'opération standardisée BAR-TH-158-Emetteur électrique (NF performance 3* oeil) :
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+T. Fiche d'opération standardisée BAR-TH-107-SE " Chaudière collective haute performance énergétique avec contrat assurant la conduite de l'installation " :
 
-X. Fiche d'opération standardisée BAT-TH-102-Chaudière collective HPE :
+Doivent être vérifiés lors des contrôles par contact :
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+-l'existence de la chaudière installée ;
+
+-le nombre d'appartements ;
+
+-l'existence et la durée du contrat assurant la conduite de l'installation ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+U. Fiche d'opération standardisée BAR-TH-118 " Système de régulation par programmateur d'intermittence " :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+-l'existence d'un système de régulation par programmateur d'intermittence installé ;
+
+-pour un système de chauffage individuel, l'énergie de chauffage (combustible ; électricité) ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+V. Fiche d'opération standardisée BAR-TH-127 " Ventilation mécanique simple flux hygroréglable (France métropolitaine) " (installations collectives uniquement) :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en " non satisfaisant ".
+
+V. I. Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations :
+
+S'agissant de critères directement liés à la fiche :
+
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ou le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
+
+2) L'équipement installé ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération telles qu'exigées par la fiche d'opération standardisée ou, à défaut, aux mentions indiquées sur le document issu du fabricant ;
+
+3) Le système de ventilation mécanique hygroréglable ne bénéficie pas d'un avis technique de la Commission chargée de formuler des Avis Techniques (CCFAT) en cours de validité à la date d'engagement de l'opération, et ne possède pas des caractéristiques de performance et de qualité équivalentes établies par un organisme implanté dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ CEI 17065 par le comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation ;
+
+4) L'équipement installé n'est ni une ventilation mécanique contrôlée simple flux hygroréglable, ni une ventilation mécanique basse pression simple flux hygroréglable ;
+
+Dans le cas d'une ventilation mécanique contrôlée simple flux hygroréglable :
+
+5) La puissance électrique absorbée pondérée du caisson de ventilation est supérieure à 0,25 WThC/ (m3/ h) ;
+
+Dans le cas d'une ventilation mécanique basse pression simple flux hygroréglable :
+
+6) La puissance électrique absorbée pondérée du caisson de ventilation est supérieure à 0,12 WThC/ (m3/ h) ;
+
+S'agissant d'autres critères :
+
+Entrées d'air :
+
+7) Les entrées d'air neuf ne sont pas présentes dans toutes les pièces de vie (séjour, chambre et bureau) ou sont présentes dans certaines pièces de service (cuisine, salle d'eau et WC) ;
+
+8) Les entrées d'air ne sont pas installées en partie haute ;
+
+Bouches d'extraction :
+
+9) Certaines pièces de service (cuisine, salle d'eau et WC) ne sont pas équipées d'une bouche d'extraction ;
+
+Réseau d'extraction :
+
+10) En combles (ou tout autre volume non chauffé), la surface extérieure des conduits de ventilation n'est pas intégralement recouverte par un isolant, ou présente des discontinuités (notamment pour les traversées de plancher) ;
+
+11) Certains conduits souples sont percés ou écrasés ou étranglés ;
+
+12) Les diamètres de certains conduits sont inférieurs au diamètre de sortie de l'appareil (caisson d'extraction), sauf préconisation fabricant ;
+
+Unité de ventilation :
+
+13) Des dispositifs mécaniques individuels (hotte notamment) sont raccordés sur le réseau de ventilation ;
+
+Prise d'air et rejet d'air :
+
+14) La prise d'air ne se fait pas directement sur l'extérieur (elle se fait, par exemple, dans les combles, le garage ou le vide sanitaire) ou conduit à un court-circuit avec le rejet.
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : pour une installation individuelle : zone climatique et surface habitable en m2 ; pour une installation collective : zone climatique ; nombre de logements ; type d'installation (A ou B) ; type de caisson (basse consommation, standard ou basse pression).
+
+V. II. Doivent être vérifiés lors des contrôles par contact :
+
+-l'existence d'une ventilation mécanique simple flux hygroréglable installée ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+W. Fiche d'opération standardisée BAR-TH-158 " Emetteur électrique à régulation électronique à fonctions avancées " :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+-le nombre d'émetteurs électriques à régulation électronique installés ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+X. Fiche d'opération standardisée BAT-TH-102 " Chaudière collective à haute performance énergétique " :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+-l'existence de la chaudière installée ;
+
+-l'usage de la chaudière (chauffage ou chauffage et eau chaude sanitaire) ;
+
+-la surface chauffée ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
 Y. Fiche d'opération standardisée BAT-TH-113-Pompe à chaleur de type air/ eau ou eau/ eau :
 
 Doivent être vérifiés les éléments mentionnés au I de l'article 7.
 
-Z. Fiche d'opération standardisée BAT-TH-157-Chaudière collective biomasse :
+Z. Fiche d'opération standardisée BAT-TH-157 " Chaudière biomasse collective " :
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en " non satisfaisant ".
 
-AA. Fiche d'opération standardisée BAT-EQ-127-Luminaire d'éclairage général à modules LED :
+Z. I. A. Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations :
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu le devis ;
 
-AB. Fiche d'opération standardisée BAT-EQ-133-Systèmes hydro-économes :
+2) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : la preuve de la réalisation de l'opération, l'étude de dimensionnement ;
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+3) La preuve de la réalisation de l'opération ne comporte pas les mentions prévues par la fiche d'opération standardisée ou, le cas échéant, n'est pas accompagnée du document issu du fabricant indiquant les caractéristiques de l'équipement ;
 
-AC. Fiche d'opération standardisée IND-UT-134-Système de mesure d'indicateurs perf. Energétique :
+4) La chaudière ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération (marque, référence) ; le rapport est accompagné d'une photo de la plaque signalétique ;
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+5) La chaudière est installée pour un système de chauffage qui n'est pas central collectif ;
 
-AD. Fiche d'opération standardisée TRA-EQ-101-Unité de transport intermodal rail-route :
+6) La chaudière n'utilise pas de la biomasse ligneuse notamment à base de bûches de bois, de copeaux de bois, de bois comprimé sous forme de granulés, de bois comprimé sous forme de briquettes ou de sciure de bois ;
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+7) La chaudière n'est pas équipée d'un régulateur de classe IV minimum ;
 
-AE. Fiche d'opération standardisée TRA-EQ-107-Unité de transport intermodal fluvial-route :
+8) Dans le cas d'une chaudière à alimentation automatique, celle-ci est associée à un silo d'un volume inférieur à 225 litres ;
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+9) Dans le cas d'une chaudière à alimentation manuelle, celle-ci n'est pas associée à un ballon tampon ;
 
-AF. Fiche d'opération standardisée TRA-EQ-108-Wagon d'autoroute ferroviaire :
+10) La chaleur nette utile produite par l'ensemble des chaudières biomasse installées est supérieure ou égale à 12 GWh/ an ;
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+Dans le cas où la puissance thermique nominale de la chaudière est inférieure ou égale à 500 kW :
 
-AG. Fiche d'opération standardisée TRA-EQ-124-Branchement électrique navires et bateaux à quai
+11) L'efficacité énergétique saisonnière (η s) de la chaudière selon le règlement (UE) n° 2015/1189 de la commission du 28 avril 2015 est inférieure à 83 % ;
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+Dans le cas où la puissance thermique nominale de la chaudière est supérieure à 500 kW :
 
-NOTA :
+12) Le rendement PCI à pleine charge est inférieur à 92 % ;
 
-Conformément à l'article 3 de l'arrêté du 7 octobre 2022 (NOR : ENER2228676A), ces dispositions s'appliquent aux opérations engagées à compter du 1er novembre 2022.
+Z. I. B. Autres critères :
+
+S'agissant du dimensionnement :
+
+13) Il est constaté l'absence d'une étude de dimensionnement remise au bénéficiaire et le bénéficiaire atteste par écrit ne pas avoir reçu cette note ;
+
+14) L'étude de dimensionnement ne comporte pas les éléments mentionnés dans la fiche d'opération standardisée ;
+
+15) La puissance (ou plage de puissance, si modulant) de l'appareil est manifestement surdimensionnée par rapport aux pièces à chauffer, au vu de la note de dimensionnement ;
+
+S'agissant du silo, pour une chaudière à alimentation automatique, hors bûches de bois :
+
+16) Il est constaté la présence d'un dispositif électrique dans le silo (lampe, prise, commutateur ou boîte de distribution) ;
+
+S'agissant du conduit de raccordement pour l'évacuation des fumées :
+
+17) Dans le cas d'une installation à tirage naturel, en présence d'un modérateur de tirage, celui-ci n'est pas situé dans la même pièce que l'appareil ;
+
+18) Le diamètre du conduit de raccordement ne correspond pas a minima à celui de la buse de l'appareil ;
+
+19) La partie horizontale du conduit de raccordement ne possède pas une pente ascendante vers le conduit de fumée (minimum 3 %) ;
+
+S'agissant des circuits hydrauliques :
+
+20) L'installation ne possède pas un système de protection contre les retours d'eau froide dans le corps de chauffe de la chaudière ;
+
+21) Le ou les circuit (s) ne sont pas protégé (s) par un vase d'expansion ;
+
+22) Le (s) vase (s) d'expansion ne sont manifestement pas correctement dimensionné (s) ;
+
+23) Il est constaté l'absence d'une soupape de sécurité sur le ou les circuit (s).
+
+L'organisme d'inspection indique, dans son rapport, le paramètre nécessaire au calcul du montant de certificats d'économies d'énergie : chaleur nette utile produite par la chaudière biomasse installée en kWh/ an.
+
+Z. II. Doivent être vérifiés lors des contrôles par contact :
+
+-l'existence d'une chaudière collective à haute performance énergétique installée ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AA. Fiche d'opération standardisée BAT-EQ-127 " Luminaire à modules LED " :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+-le nombre de luminaires reçus ;
+
+-l'installation de tous les luminaires par un professionnel ;
+
+-l'existence d'une étude préalable de dimensionnement de l'éclairage ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AB. Fiche d'opération standardisée BAT-EQ-133 " Systèmes hydro-économes (France métropolitaine) " :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+-l'installation de tous les systèmes hydro-économes par un professionnel ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AC. Fiche d'opération standardisée IND-UT-134 " Système de mesurage d'indicateurs de performance énergétique " :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en " non satisfaisant ".
+
+AC. I. Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations :
+
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu le devis ;
+
+2) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : la preuve de la réalisation de l'opération, l'étude préalable à l'intégration du système de mesurage ;
+
+3) La preuve de la réalisation de l'opération ne comporte pas les mentions prévues par la fiche d'opération standardisée ;
+
+4) L'équipement installé ne correspond pas aux mentions indiquées sur la preuve de réalisation
+
+5) Le système de mesurage n'est pas mis en place sur les équipements ou ensembles d'équipements constituant un des usages énergétiques suivants : production et distribution de chaleur, production et distribution d'air comprimé, production et distribution de froid, procédé industriel thermique ou électrique, autres systèmes motorisés ;
+
+6) Le système de mesurage est mis en place sur un équipement de secours ;
+
+7) La puissance nominale d'un équipement ou d'un ensemble d'équipements constituant un usage énergétique faisant l'objet de mesures nécessaires au calcul d'un indicateur de performance énergétique (IPE) est supérieure ou égale à 10 MW ;
+
+8) L'étude préalable à l'intégration du système de mesurage ne comporte pas les éléments de contenu indiqués dans la fiche d'opération standardisée ;
+
+9) Les IPE ne sont pas calculés sous forme d'une fonction dépendant d'une part de la mesure de la consommation d'énergie d'un équipement ou d'un ensemble d'équipements constituant un usage énergétique et d'autre part de la mesure de la production ou le niveau de service assuré par l'équipement ou l'ensemble d'équipements constituant un usage énergétique sur une même période de temps ;
+
+10) Le système installé ne permet pas de mesurer, relever et conserver les données nécessaires au calcul des IPE ;
+
+11) Le système installé ne permet pas de communiquer vers l'utilisateur les résultats obtenus afin de réaliser un suivi des IPE ;
+
+12) Le système installé ne permet pas d'alerter l'utilisateur en cas de dérive des IPE ;
+
+13) Le système collecte les consommations issues des compteurs de fournisseurs d'énergie pour le calcul d'IPE ;
+
+14) A l'exception de l'usage " Procédé industriel thermique ou électrique ", le système de mesurage ne permet pas de mesurer et collecter les grandeurs de consommations d'un équipement ou d'un ensemble d'équipements constituant les IPE à un pas de temps inférieur ou égal à dix minutes ;
+
+15) Pour l'usage " Procédé industriel thermique ou électrique ", le système de mesurage ne permet pas de mesurer et collecter les grandeurs de consommations d'un équipement ou d'un ensemble d'équipements constituant les IPE à un pas de temps inférieur ou égal à une journée ;
+
+16) Le logiciel de gestion énergétique est un outil de bureautique classique type " tableur " ;
+
+17) Le logiciel de gestion énergétique n'a fait l'objet, de la part du bénéficiaire, ni d'un achat, ni d'une location, ni d'un abonnement ;
+
+18) Le système de mesurage ne permet pas de calculer les IPE correspondant aux usages énergétiques, tels que mentionnés dans la fiche d'opération standardisée ;
+
+19) Les informations et statistiques restituées par le système de mesurage d'IPE et portées à la connaissance de l'utilisateur ne comprennent pas les éléments suivants :
+
+a. affichage des IPE sur l'intervalle de temps entre deux pas de délivrance ;
+
+b. possibilité d'accès par l'utilisateur à différents cumuls des IPE (heure/ journée/ semaine/ mois/ année) ;
+
+c. historique de tous les cumuls, disponible sur une année glissante ;
+
+d. historique des cumuls, pour une durée supérieure ou égale à la journée, disponible pendant la durée du contrat de location du logiciel ou à défaut la durée de vie conventionnelle (6 ans) ;
+
+e. réalisation de calculs statistiques pertinents (moyenne, valeur minimale, valeur maximale) sur les différents cumuls des IPE ;
+
+f. élaboration de synthèses sous forme de rapports périodiques de suivi des IPE ;
+
+g. comparaison des IPE à des valeurs de référence et à des seuils. A minima, la comparaison est effectuée par rapport à des statistiques de consommations extraites de l'historique disponible. En cas de dépassement d'un seuil fixé, le système de mesurage émet une alarme explicite (par exemple SMS, courriel, notification …) ;
+
+h. Le système de mesurage ne permet pas l'affichage des IPE sur au moins un support numérique tel qu'un écran dédié, un site web, une tablette ou Smartphone (applications) ou une application logicielle dédiée ;
+
+20) Le mode de fonctionnement du site industriel (1 × 8 h, 2 × 8 h, 3 × 8 h avec arrêt le week-end ou 3 × 8 h sans arrêt le week-end), vérifié au moyen de toute pièce pertinente communiquée par l'entreprise (règlement intérieur …), ne correspond manifestement pas au mode de fonctionnement indiqué dans l'attestation sur l'honneur (ex. : l'attestation sur l'honneur indique : " 3 × 8 h avec arrêt le week-end ", alors que le règlement intérieur ou d'autres pièces montrent qu'il n'y a pas de travail la nuit ou que le travail la nuit ne concerne qu'une partie de l'année ; l'attestation sur l'honneur indique ; " 3 × 8 h sans arrêt le week-end ", alors que le règlement intérieur ou d'autres pièces montrent qu'il n'y a pas de travail le week-end ou que le travail le week-end ne concerne qu'une partie de l'année).
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : mode de fonctionnement du site industriel ; puissance nominale (en kW) de l'ensemble des équipements faisant l'objet d'un suivi d'un IPE ; valeur du facteur correctif.
+
+AC. II. Doivent être vérifiés lors des contrôles par contact :
+
+-l'existence d'un système de mesurage d'indicateurs de performance énergétique installé ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AD. Fiche d'opération standardisée TRA-EQ-101 " Unité de transport intermodal pour le transport combiné rail-route " :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+-l'acquisition de l'unité ou des unités de transport intermodal neuves dédiées au transport combiné rail-route ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur ces équipements.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AE. Fiche d'opération standardisée TRA-EQ-107 " Unité de transport intermodal pour le transport combiné fluvial-route " :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+-l'acquisition (achat ou location) de l'unité ou des unités de transport intermodal neuves dédiées au transport combiné fluvial-route ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur ces équipements.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AF. Fiche d'opération standardisée TRA-EQ-108 " Wagon d'autoroute ferroviaire " :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+-l'acquisition (achat ou location) d'un ou de plusieurs wagons d'autoroute ferroviaire neufs ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur ces équipements.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AG. Fiche d'opération standardisée TRA-EQ-124 " Branchement électrique des navires et bateaux à quai " :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en " non satisfaisant ".
+
+AG. I. Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations (à l'exception du point 1, ayant un avis " non accessible/ non vérifiable ", lequel n'influe pas sur la conclusion du rapport) :
+
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu le devis ;
+
+2) Le bénéficiaire atteste, par écrit, ne pas avoir reçu la preuve de la réalisation de l'opération ;
+
+3) La preuve de la réalisation de l'opération ne comporte pas les mentions prévues par la fiche d'opération standardisée ;
+
+4) L'infrastructure d'alimentation électrique n'est pas raccordée à un compteur individualisé de distribution d'électricité ;
+
+5) Le numéro du compteur de distribution d'électricité ne correspond pas à celui indiqué dans le relevé de consommation d'électricité ;
+
+6) L'infrastructure permet l'alimentation électrique lors des opérations de mise en cale sèche et de réparation des navires ;
+
+7) Le relevé de consommation d'électricité fait apparaître des bateaux ou navires à propulsion 100 % électrique.
+
+L'organisme d'inspection indique, dans son rapport, le paramètre nécessaire au calcul du montant de certificats d'économies d'énergie : consommation d'énergie électrique, exprimée en kWh, relevée sur six mois consécutif maximum, délivrée par l'infrastructure d'alimentation électrique à quai.
+
+AG. II. Doivent être vérifiés lors des contrôles par contact :
+
+-l'existence d'une infrastructure d'alimentation électrique à quai permettant l'approvisionnement en électricité d'un navire ou d'un bateau fluvial en escale ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AH. Fiche d'opérations standardisée TRA-SE-114 " Covoiturage de longue distance " :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+-le numéro du permis de conduire du bénéficiaire,
+
+-les nom et prénom du bénéficiaire de l'opération,
+
+-l'adresse du bénéficiaire de l'opération,
+
+-la date du trajet de l'opération,
+
+-la ville de départ du trajet,
+
+-la ville d'arrivée du trajet.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AI. Fiche d'opérations standardisée TRA-SE-115 " Covoiturage de courte distance " :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+-le numéro du permis de conduire du bénéficiaire,
+
+-les nom et prénom du bénéficiaire de l'opération,
+
+-l'adresse du bénéficiaire de l'opération,
+
+-la date du trajet de l'opération,
+
+-la ville de départ du trajet lié à l'opération,
+
+-la ville d'arrivée du trajet lié à l'opération.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
