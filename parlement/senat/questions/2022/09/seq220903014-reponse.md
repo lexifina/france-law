@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220903014
+
+- Question : [SEQ220903014](seq220903014.md) — Compétence des régions en matière de sécurité
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2022-12-29, page 6816*
+
+En l'état actuel du droit, l'article L. 4221-1 du code général des collectivités territoriales (CGCT) limite l'intervention du conseil régional aux domaines de compétences qui lui ont été strictement attribués par la loi. Or, les dispositions des articles L. 4211-1 et L. 4221-1 du CGCT, relatives aux attributions et compétences du conseil régional, n'attribuent à celui-ci aucune compétence en matière de sécurité, d'ordre public ou de forces de police. Le conseil régional a en effet pour attribution générale de « contribuer au développement économique, social et culturel de la région ». Le président du conseil régional ne dispose donc d'aucune compétence qui justifierait l'octroi de subventions aux communes dans le but de financer le recrutement d'agents de police municipale ou le matériel communal de vidéoprotection sur la voie publique. Le juge administratif a déjà eu l'occasion de reconnaître l'incompétence du conseil régional (TA Marseille, 17 décembre 2019, requête n° 1703337) en annulant une délibération décidant de la mise en place de subventions aux communes pour financer l'équipement des polices municipales et l'équipement communal en vidéoprotection. Une telle annulation pourrait conduire à l'annulation subséquente des décisions individuelles prises par ledit conseil régional pour accorder des subventions aux communes sur le fondement de la délibération annulée, les décisions étant dès lors privées de base légale. Ces annulations pourraient ainsi conduire jusqu'au remboursement par les communes des sommes déjà versées par le conseil régional, sous réserve de la possibilité pour le juge de moduler les effets dans le temps de sa décision d'annulation.
