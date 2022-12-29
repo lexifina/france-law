@@ -26,6 +26,8 @@ Conformément à l’article 2 de l’arrêté du 8 octobre 2020 (NOR : TRER2027
 
 Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d'opération standardisée d'économies d'énergie est remplacée à compter du 1er novembre 2021 par la version portant les mêmes références en annexe C dudit arrêté.
 
+Conformément à l’article 1er de l’arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d'opération standardisée d'économies d'énergie est remplacée à compter du 1er avril 2023 par la version portant les mêmes références en annexe C dudit arrêté.
+
 - Isolation de points singuliers sur un réseau de chaleur / Fiche d’opération n° RES-CH-107
 
 Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la version portant les mêmes références en annexe 5 dudit arrêté.
@@ -49,6 +51,10 @@ Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRE
 - Horloge astronomique pour l’éclairage extérieur / Fiche d’opération n° RES-EC-107 (Abrogée à compter du 1er janvier 2022)
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28/12/2022, texte n° 71, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=W8WsfNOlOI6RDy-wPtZgP3DdH2qFDNV7z33iieedbY4=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 301 du 28/12/2021, texte nº 7, accessible à l’adresse suivante :
 

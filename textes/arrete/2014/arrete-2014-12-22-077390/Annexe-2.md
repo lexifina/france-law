@@ -180,9 +180,13 @@ Conformément à l’article 1 de l’arrêté du 18 février 2022 (NOR : TRER22
 
 Conformément à l’article 2 de l’arrêté du 20 juillet 2022 (NOR : ENER2218620A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er novembre 2022.
 
+Conformément à l'article 1 de l'arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2023.
+
 - Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire / Fiche d’opération standardisée n°BAR-TH-160
 
 Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
+
+Conformément à l'article 1 de l'arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2023.
 
 - Isolation des points singuliers d’un réseau / Fiche d’opération standardisée n°BAR-TH-161
 
@@ -239,6 +243,8 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 - Désembouage d'un réseau hydraulique individuel de chauffage en France métropolitaine / Fiche d’opération standardisée n° BAR-SE-108
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28/12/2022, texte n° 71, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=W8WsfNOlOI6RDy-wPtZgP3DdH2qFDNV7z33iieedbY4=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0238 du 13/10/2022, texte n° 26, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=IfPCTOBZvUbd24vn3kDNUKFvGs9WK7QfWI-0Yygfd_k=
 
@@ -303,7 +309,3 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0179 du 04/08/2022, texte n° 35, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-us85fgyoEk=
-
-NOTA :
-
-Conformément à l’article 2 de l’arrêté du 25 juillet 2022 (NOR : ENER2221632A), ces dispositions entrent en vigueur à compter du 1er octobre 2022.

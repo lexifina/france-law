@@ -154,6 +154,8 @@ Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : TRER2
 
 Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER1923457A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
 
+Conformément à l’article 1 de de l’arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté.
+
 -Système de confinement des allées froides et allées chaudes dans un Data center / Fiche d’opération standardisée n° BAT-TH-153
 
 -Récupération instantanée de chaleur sur eaux grises / Fiche d’opération standardisée n° BAT-TH-154
@@ -163,6 +165,8 @@ Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER
 -Freecooling par eau de refroidissement en substitution d’un groupe froid pour la climatisation / Fiche d’opération standardisée n° BAT-TH-156
 
 -Chaudière biomasse collective / Fiche d’opération standardisée n° BAT-TH-157
+
+Conformément à l’article 1 de de l’arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté.
 
 -Pompe à chaleur réversible de type air/air / Fiche d’opération standardisée n° BAT-TH-158
 
@@ -212,6 +216,8 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28/12/2022, texte n° 71, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=W8WsfNOlOI6RDy-wPtZgP3DdH2qFDNV7z33iieedbY4=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0178 du 03/08/2022, texte n° 40, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=oQu3Y-LjnZuzins8OYKWD9e28XWm-Rn2rXJfi6SAZBY=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0025 du 30/01/2022, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=9om9gBs9-ut8a9bWqWwfqkmtqoLOiPab_gT-xvWbPuE=
@@ -255,7 +261,3 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Conformément à l’article 2 de l’arrêté du 25 juillet 2022 (NOR : ENER2221632A), ces dispositions entrent en vigueur à compter du 1er octobre 2022.
