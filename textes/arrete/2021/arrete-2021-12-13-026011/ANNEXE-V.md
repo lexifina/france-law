@@ -264,7 +264,7 @@ L'immersion en office notarial
 
 Le stage obligatoire en milieu professionnel se déroule au sein d'un ou de plusieurs offices notariaux. En cas d'empêchement résultant de maladie ou de force majeure dûment constatée, une dérogation doit être sollicitée auprès des services académiques compétents. Le jury est informé de cette dérogation.
 
-Il est d'une durée de 12 semaines à temps plein (soit 70 jours) réparties sur l'ensemble de la formation. Le stage peut être découpé en plusieurs périodes ne pouvant être inférieures à 5 jours consécutifs. Dans une optique pédagogique, il est fortement conseillé d'opter pour un découpage en deux ou trois périodes.
+Il est d'une durée de 12 semaines à temps plein (soit 60 jours) réparties sur l'ensemble de la formation. Le stage peut être découpé en plusieurs périodes ne pouvant être inférieures à 5 jours consécutifs. Dans une optique pédagogique, il est fortement conseillé d'opter pour un découpage en deux ou trois périodes.
 
 Ces périodes peuvent être effectuées en partie pendant les vacances scolaires sous réserve du respect d'une période de 4 semaines consécutives de repos pendant les vacances d'été. La convention de stage en précise les modalités.
 
