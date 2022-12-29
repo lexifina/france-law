@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700712
+
+- Question : [SEQ220700712](seq220700712.md) — Rédaction du décret n° 2022-406 du 21 mars 2022 sur l'évolution de l'accès aux archives
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2022-12-29, page 6879*
+
+Le décret no 2022-406 du 21 mars 2022 pris pour l'application de la loi no 2021 998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement a pour but de préciser les services de renseignement mentionnés à l'article L. 811-4 du Code de la sécurité intérieure pour lesquels le délai de communication de plein droit des archives publiques est prolongé pour les documents dont la communication porte atteinte aux intérêts mentionnés au premier alinéa du 3°de l'article L. 213­2 du Code du patrimoine, et révèlent des procédures opérationnelles ou des capacités techniques desdits services. Les services désignés par ce décret sont les services du renseignement territorial de la direction générale de la police nationale (direction centrale de la sécurité publique) et la direction du renseignement de la préfecture de police. La formulation retenue dans ce décret, qui désigne « les services du renseignement territorial », n'entre pas en contradiction avec l'engagement pris par le Gouvernement lors de la discussion de la loi. Le service central du renseignement territorial bénéfice en effet d'une organisation déconcentrée : il est composé d'un service central et de services territoriaux en métropole, qui en sont des services déconcentrés (cf. art. 4 du décret n°2008-633 du 27 juin 2008 modifié relatif à l'organisation déconcentrée de la direction centrale de la sécurité publique). La protection des procédures opérationnelles et des capacités techniques du service central et de ses services déconcentrés sont indissociables et partagées entre les deux niveaux central et territorial.
