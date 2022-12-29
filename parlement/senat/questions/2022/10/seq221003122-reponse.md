@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003122
+
+- Question : [SEQ221003122](seq221003122.md) — Arrêtés de police du maire
+
+## Réponse
+
+*Justice, JO du 2022-12-29, page 6889*
+
+L'article R 48-1 du code de procédure pénale énumère les contraventions des quatre premières classes pour lesquelles l'action publique est éteinte par le paiement d'une amende forfaitaire. L'infraction de « violation d'une interdiction ou manquement à une obligation édictée par décret ou arrêté de police pour assurer la tranquillité, la sécurité ou la salubrité publique », qui sanctionne le non-respect d'un arrêté de police du maire, ne figure pas dans ces dispositions et ne peut donc pas faire l'objet d'une verbalisation par procès-verbal électronique via un terminal NEO. Sa constatation nécessite donc l'établissement d'une procédure par les voies ordinaires, à savoir un procès-verbal papier dressé par la police municipale localement compétente, la police nationale ou la gendarmerie nationale. Si l'argument lié à la simplification du formalisme procédural peut être entendu, le ministère de la justice n'est pas favorable à la forfaitisation de cette infraction pour des raisons notamment opérationnelles. En effet, le fondement de ces infractions à l'arrêté du maire étant un texte local adopté par l'autorité municipale, cette base légale ne peut être renseigné dans la base nationale, qui sert notamment de répertoire des infractions pour les procès-verbaux électroniques. Dès lors, le procès-verbal électronique qui serait édité en cas de forfaitisation de cette contravention verrait sa sécurité juridique affectée en cas de contestation. Enfin, les perspectives de recouvrement de ces amendes forfaitaires seraient également altérées dès lors que les données qui seraient transmises à la DGFIP, elles-mêmes extraites de cette base, ne permettraient pas d'identifier exactement l'infraction ayant justifié la verbalisation.
