@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003453
+
+- Question : [SEQ221003453](seq221003453.md) — Expérimentation du renouvellement des titres d'identité sans comparution
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2022-12-29, page 6866*
+
+En décembre 2021, le ministère de l'intérieur a autorisé le projet d'expérimentation du renouvellement dématérialisé des passeports à l'étranger. Cette expérimentation concernera les demandes de renouvellement des passeports pour les personnes majeures, et doit être mise en œuvre pour les usagers résidant au Canada et au Portugal. Elle est particulièrement complexe à mettre en œuvre, car elle déroge au principe de la double comparution personnelle qui s'applique pour l'instruction des demandes de passeport. Elle nécessite l'élaboration de contrôles pour faire face au risque d'usurpation d'identité, les usagers concernés par cette expérimentation n'effectuant plus de comparution personnelle dans les consulats, ni au moment du dépôt de la demande de renouvellement, ni au moment du retrait du passeport. Cette expérimentation nécessite également plusieurs évolutions réglementaires dans le cadre du décret du 30 décembre 2005 relatif aux passeports, et plusieurs aménagements techniques pour l'intégrer dans le système de recueil des demandes de passeports (Registre et système TES). En l'absence d‘une solution d'identité numérique fiable, il convient aussi de prévoir la mise en place d'une procédure de rendez-vous à distance suffisamment sécurisée et déployable à l'échelle du réseau, ainsi que d'une solution de télépaiement. Les services du ministère de l'Europe et des affaires étrangères étudient avec les autres administrations concernées la possibilité d'utilisation du timbre fiscal en ligne comme moyen de paiement. Ces différentes adaptations conduisent à prévoir une mise en œuvre de cette expérimentation au Canada et au Portugal durant le premier semestre de l'année 2023.
