@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204611
+
+- Question : [SEQ221204611](seq221204611.md) — Soutien aux Iraniennes
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2022-12-29, page 6864*
+
+La France réitère sa condamnation la plus ferme de la répression qui s'abat sur les Iraniennes et les Iraniens qui manifestent. Leurs aspirations à plus de liberté et au respect de leurs droits sont légitimes et doivent être entendues. Le Président de la République a reçu, le 11 novembre 2022, plusieurs femmes iraniennes, pour leur témoigner notre soutien et notre respect, au plus haut niveau. Le Conseil de l'Union européenne (UE) a adopté des sanctions, le 17 octobre, le 14 novembre, et à nouveau le 12 décembre, contre des entités et individus directement responsables de violations graves des droits de l'Homme dans la répression violente en cours. Ces mesures consistent en une interdiction d'entrer sur le territoire de l'UE, un gel des avoirs financiers et une interdiction de mettre des fonds ou des ressources économiques à disposition des personnes et entités listées. La France agit également aux Nations unies avec ses partenaires internationaux, et au Conseil des droits de l'Homme. À l'initiative de la France et de l'Allemagne, une mission d'établissement des faits a été créée, le 24 novembre. Elle permettra à la communauté internationale de collecter des preuves, de manière indépendante, impartiale, publique, transparente, sur les violations commises par le régime. C'est un pas important dans la lutte contre l'impunité. La France poursuivra son action dans les enceintes internationales et européennes pour lutter contre l'impunité des responsables de la répression et de la mort de Mahsa Amini et pour demander à l'Iran de cesser cette répression, de respecter ses engagements au titre du droit international, notamment le droit de manifester pacifiquement, et l'égalité de droit entre les femmes et les hommes.
