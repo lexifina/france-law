@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701534
+
+- Question : [SEQ220701534](seq220701534.md) — Prisonniers d'opinion en Arabie Saoudite
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2022-12-29, page 6859*
+
+La France suit avec attention la situation des droits de l'Homme en Arabie saoudite, en particulier toutes les questions relatives à l'égalité entre les femmes et les hommes. Elle aborde la situation des droits de l'Homme, notamment les cas individuels de défenseurs des droits emprisonnés, dans sa relation bilatérale avec l'Arabie saoudite à tous les niveaux, ainsi que dans les enceintes telles que le Conseil des droits de l'Homme des Nations unies. Ainsi, le Président de la République a rappelé à ses homologues, au cours du sommet du G20 présidé par l'Arabie saoudite les 21 et 22 novembre 2020, que la protection des droits fondamentaux, et notamment de la liberté d'expression, était au coeur des valeurs communes et de la Charte des Nations unies et que leur protection était de la responsabilité de l'ensemble des États, notamment ceux du G20. La France aborde également la situation des droits de l'Homme avec le président de la commission saoudienne des droits de l'Homme, avec lequel plusieurs entretiens par an sont organisés. La France, en lien avec ses partenaires, a notamment été très active dans les efforts qui ont permis, le 10 février 2021, la libération de Loujain al-Hathloul, militante saoudienne pour les droits des femmes. Enfin, l'Union européenne (UE) a également initié un dialogue informel UE-Arabie saoudite sur les droits de l'Homme en 2021, lors duquel elle a rappelé l'importance du respect de la liberté d'expression. Ce dialogue informel, qui doit se tenir annuellement, est l'occasion d'aborder d'autres questions, notamment les droits des femmes, le droit à un procès équitable, et l'abolition de la peine de mort.
