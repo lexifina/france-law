@@ -1,5 +1,0 @@
-# Article 1er
-
-Étant rappelé qu'aux termes de l'accord collectif national susvisé, toutes les entreprises relevant du champ d'application de la convention collective nationale susvisée sont tenues de cotiser au fonds HDS de la pharmacie d'officine, les parties signataires s'accordent pour que le versement de leurs cotisations puisse s'effectuer soit directement auprès de l'APGIS, gestionnaire désigné de ce fonds par l'accord collectif national du 2 octobre 2017 étendu précité, soit auprès de tout autre collecteur expressément mandaté à cet effet par ce gestionnaire.
-
-Conformément à l'accord collectif national susvisé, la convention de mandat conclue à cet effet doit, sous peine de nullité, être soumise par l'organisme gestionnaire à l'accord préalable de la CPPNI de la pharmacie d'officine qui se détermine conformément aux dispositions de l'article 30 « Commission paritaire permanente de négociation et d'interprétation » des dispositions générales de la convention collective nationale susvisée.
