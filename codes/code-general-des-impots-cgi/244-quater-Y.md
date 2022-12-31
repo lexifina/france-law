@@ -6,6 +6,8 @@ I.-A.-1. Les entreprises soumises à l'impôt sur les sociétés peuvent bénéf
 
 2° Les investissements sont exploités par l'entreprise locataire pour l'exercice d'une activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B, à l'exception des activités mentionnées aux I ter et I quater du même article 199 undecies B ;
 
+Pour les investissements réalisés dans le secteur du transport aérien ou maritime, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au I bis de l'article 199 undecies B. Pour les investissements afférents aux équipements et opérations de pose de câbles sous-marins de communication ou de secours mentionnés au I ter du même article 199 undecies B, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au même I ter. Pour les investissements afférents aux navires de croisière mentionnés au I quater de l'article 199 undecies B, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au même I quater ;
+
 3° L'entreprise locataire aurait pu bénéficier de la déduction prévue à l'article 217 undecies si, imposable en France, elle avait acquis directement le bien. Pour l'appréciation de cette condition, le seuil de chiffre d'affaires prévu à la première phrase du premier alinéa du I du même article 217 undecies est réputé satisfait quelle que soit l'entreprise locataire ;
 
 4° L'entreprise propriétaire de l'investissement est exploitée en France métropolitaine ou dans un département d'outre-mer au sens du I de l'article 209 ;
@@ -192,4 +194,4 @@ B.-Un décret fixe les conditions d'application du présent article.
 
 NOTA :
 
-Se reporter aux conditions d’application prévues par le III de l’article 16 de la loi n° 2021-1900 du 30 décembre 2021.
+Conformément au II de l'article 72 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2022.

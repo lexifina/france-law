@@ -1,6 +1,6 @@
 # Article 244 quater W
 
-I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A et 44 duodecies à 44 septdecies, exerçant une activité agricole ou une activité industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B, à l'exception des activités mentionnées au I quater du même article 199 undecies B.
+I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A et 44 duodecies à 44 septdecies, exerçant une activité agricole ou une activité industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B, à l'exception des activités mentionnées au I quater du même article 199 undecies B. Pour les investissements afférents aux navires de croisière mentionnés au I quater de l'article 199 undecies B, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au même I quater. Pour les investissements réalisés dans le secteur du transport aérien ou maritime, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au I bis de l'article 199 undecies B.
 
 Le crédit d'impôt prévu au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés lorsque ces travaux constituent des éléments de l'actif immobilisé.
 
@@ -118,4 +118,4 @@ X. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect 
 
 NOTA :
 
-Conformément au B du XXI de l'article 35 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent à compter du premier exercice suivant celui au cours duquel l'exonération prévue à l'article 44 septies du code général des impôts, dans sa rédaction antérieure à la présente loi, cesse de s'appliquer.
+Conformément au II de l'article 72 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2022.

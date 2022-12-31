@@ -70,7 +70,11 @@ Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les co
 
 Lorsque la réduction d'impôt mentionnée au présent I est acquise dans les conditions prévues aux vingt-sixième et vingt-neuvième alinéas et que la fraction de la réduction d'impôt rétrocédée à l'entreprise locataire est de 56 %, les taux de 38,25 % et 45,9 % mentionnés au dix-septième alinéa sont, respectivement, portés à 44,12 % et 52,95 % et les taux de 45,9 % et 53,55 % mentionnés à la cinquième phrase du même alinéa sont, respectivement, portés à 52,95 % et 61,77 %. Dans les mêmes conditions, le taux de 53,55 % mentionné au dix-huitième alinéa est porté à 61,77 %.
 
-I bis. – (Périmé)
+I bis.-Pour les investissements réalisés dans le secteur du transport aérien ou maritime, le bénéfice de la réduction d'impôt prévue au I est subordonné au respect des conditions suivantes :
+
+1° Les investissements sont exploités exclusivement pour effectuer des liaisons au départ ou à destination de la Guadeloupe, de la Guyane, de la Martinique, de La Réunion, de Mayotte, de la Polynésie française, de Saint-Barthélemy, de Saint-Martin, de Saint-Pierre-et-Miquelon, des îles Wallis et Futuna ou de la Nouvelle-Calédonie. Ces territoires ne doivent pas constituer une simple escale ;
+
+2° Des activités de maintenance des investissements sont réalisées dans l'un des territoires mentionnés au 1° du présent I bis.
 
 I ter. – Le I s'applique aux équipements et opérations de pose de câbles sous-marins de communication desservant pour la première fois la Guadeloupe, la Guyane, la Martinique, La Réunion, Mayotte, la Polynésie française, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, les îles Wallis et Futuna, la Nouvelle-Calédonie ou les Terres australes et antarctiques françaises lorsque, parmi les options techniques disponibles pour développer les systèmes de communication outre-mer, le choix de cette technologie apparaît le plus pertinent.
 
@@ -113,3 +117,7 @@ IV. – Un décret en Conseil d'Etat précise, en tant que de besoin, les modali
 V. – Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements d'outre-mer et à Saint-Martin, au respect de l'article 14 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 VI. – Le présent article est applicable aux investissements mis en service jusqu'au 31 décembre 2025 en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion et à Saint-Martin, et jusqu'au 31 décembre 2025 à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Barthélemy et dans les îles Wallis et Futuna, aux travaux de réhabilitation hôtelière achevés au plus tard à cette date et aux acquisitions d'immeubles à construire et aux constructions d'immeubles dont les fondations sont achevées au plus tard à cette date.
+
+NOTA :
+
+Conformément au II de l'article 72 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2022.
