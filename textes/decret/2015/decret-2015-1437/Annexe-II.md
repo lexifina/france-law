@@ -32,7 +32,7 @@ D. - Un ou plusieurs documents attestant des activités professionnelles parmi l
 
 2. L'extrait K ou K bis du registre du commerce et des sociétés datant de moins de trois mois pour une entreprise commerciale.
 
-3. L'extrait D 1 original du registre des métiers de moins de trois mois pour un artisan.
+3. La fiche d'immatriculation au Registre national des entreprises de moins de trois mois pour une entreprise du secteur des métiers et de l'artisanat.
 
 4. La copie du certificat d'identification de l'INSEE, comportant les numéros d'identification, pour un travailleur indépendant.
 
@@ -53,3 +53,7 @@ E. - Un ou plusieurs documents attestant des ressources parmi les documents suiv
 5. Justificatif de versement des indemnités, retraites, pensions, prestations sociales et familiales et allocations perçues lors des trois derniers mois ou justificatif de l'ouverture des droits, établis par l'organisme payeur.
 
 6. Justificatif de revenus fonciers, de rentes viagères ou de revenus de valeurs et capitaux mobiliers.
+
+NOTA :
+
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
