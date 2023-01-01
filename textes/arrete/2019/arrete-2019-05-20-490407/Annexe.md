@@ -2,246 +2,230 @@
 
 Force armée
 
-ou formation rattachée |
+ou formation
 
-Type d'engagement |
+rattachée |
+
+Type
+
+d'engagement |
 
 Nombre
 
-maximum
+de primes
 
-de primes |
+attribuables
 
-Montant
+en 2023 |
+
+Montant individuel
 
 minimum
 
-de la prime
+de la prime (€) |
 
-(€) |
-
-Montant
+Montant individuel
 
 maximum
 
-de la prime
+de la prime (€) |
 
-(€) |
+Montant maximum
 
-Montant
+de primes
 
-des primes
+attribuable
 
-attribuées
-
-en 2022 |
-
-Montant
-
-des primes
-
-attribuées
-
-et versées
-
-en 2022
+en 2023
 
 (M €) |
 
-Familles professionnelles/ filières professionnelles concernées |
+Montant maximum
+
+de primes payable
+
+en 2023
+
+(M €) |
+
+Familles professionnelles/ filières
+
+professionnelles concernées |
 
 Armée de terre |
 
 Engagement à servir général (ESG) |
 
-8 072 |
+6 637 |
 
-1 000 |
+4 000 |
 
 5 000 |
 
-33,53 |
+28,9 |
 
-20,73 |
+31,22 |
 
 Toutes |
 
 Engagement à servir spécifique (ESS) |
 
-1 374 |
+1 713 |
 
 5 000 |
 
-20 000 |
+50 000 |
 
-12,20 |
+14,89 |
 
-5,63 |
+Commandement et contrôle aérospatial ; conduite des aéronefs ; maintenance des matériels terrestres ; maintien en condition opérationnelle aéronautique ; renseignement ; gestion des ressources humaines ; systèmes d'information et de communication ; logistique et chaîne logistique ; aide à la décision ; affaires juridiques ; communication ; soutien munitions et pyrotechnie ; restauration hôtellerie et loisirs, opérations en milieu terrestre ; infrastructures et politiques immobilières, sécurité secours incendie, environnement social et sciences humaines, systèmes de forces, systèmes d'armes et équipement ; santé et sécurité au travail ; entrainement physique et sportif ; finances ; achats ; santé ; administration management transverses ; musique ; soutien de l'homme. |
 
-Commandement et contrôle aérospatial ; Conduite des aéronefs ; Maintenance des matériels terrestres ; Maintien en condition opérationnelle aéronautique ; Renseignement ; Gestion des ressources humaines ; Systèmes d'information et de communication ; Logistique et chaîne logistique ; Aide à la décision ; Affaires juridiques ; Communication ; Soutien munitions et pyrotechnie ; Restauration Hôtellerie et Loisirs, Opérations en milieu terrestre ; Infrastructures et politiques immobilières, Sécurité secours incendie, Environnement social et sciences humaines, Systèmes de forces, systèmes d'armes et équipement ; Santé et sécurité au travail ; Entrainement physique et sportif ; Finances ; Achats ; Santé ; Administration management transverses ; Musique ; Soutien de l'homme. |
+Armée de l'air
 
-Armée de l'air et de l'espace |
+et de l'espace |
 
 ESS |
 
-4 914 |
+5 058 |
 
 600 |
 
 25 000 |
 
-15,43 |
+18,43 |
 
-7,48 |
+17,3 |
 
-Conduite des aéronefs ; Commandement et contrôle aérospatial ; Maintien en condition opérationnelle aéronautique ; Systèmes d'information et de communication ; Renseignement ; Munitions et pyrotechnie ; Opérations en milieu terrestre ; Infrastructures et politique immobilière. ; Sécurité secours incendie ; Gestion des ressources humaines. |
+Conduite des aéronefs ; commandement et contrôle aérospatial ; maintien en condition opérationnelle aéronautique ; systèmes d'information et de communication ; renseignement ; munitions et pyrotechnie ; opérations en milieu terrestre ; infrastructures et politique immobilière. ; sécurité secours incendie ; gestion des ressources humaines. |
 
 Marine nationale |
 
 ESS |
 
-2 898 |
+3252 |
 
 600 |
 
-25 000 |
+50 000 |
 
-13,65 |
+14,99 |
 
-3,58 |
+14,45 |
 
-Opérations en milieu maritime ; Exploitation nucléaire de défense ; Systèmes de forces, systèmes d'armes et équipement ; Renseignement ; Infrastructures et politique immobilière ; Opérations en milieu terrestre ; Commandement et contrôle aérospatial ; Systèmes d'information et de communication ; Logistique et chaîne logistique ; Maintien en condition opérationnelle aéronautique ; Munitions et pyrotechnie ; Maintenance des matériels terrestres ; Conduite des aéronefs ; Soutien pétrolier ; Enseignement général ; Restauration, hôtellerie et loisirs. |
+Opérations en milieu maritime ; exploitation nucléaire de défense ; systèmes de forces, systèmes d'armes et équipement ; renseignement ; infrastructures et politique immobilière ; opérations en milieu terrestre ; commandement et contrôle aérospatial ; systèmes d'information et de communication ; logistique et chaîne logistique ; maintien en condition opérationnelle aéronautique ; munitions et pyrotechnie ; maintenance des matériels terrestres ; conduite des aéronefs ; soutien pétrolier ; enseignement général ; restauration, hôtellerie et loisirs. |
 
 Service du commissariat des armées |
 
 ESS |
 
-8 |
+6 |
 
 10 000 |
 
-10 000 |
+20 000 |
 
 0,08 |
 
-0,07 |
+0,08 |
 
-Achats, Logistique et chaîne logistique ; Systèmes d'information et de communication/ management des systèmes d'information, Gestion des ressources humaines/ droits financiers individuels. |
+Achats, logistique et chaîne logistique ; systèmes d'information et de communication/ management des systèmes d'information, gestion des ressources humaines/ droits financiers individuels. |
 
 Service de l'énergie opérationnelle |
 
 ESS |
 
-97 |
+88 |
 
 3 000 |
 
-10 000 |
+25 000 |
 
-0,40 |
+0,41 |
 
-0,35 |
+0,41 |
 
-Soutien pétrolier/ maintenance matériels pétroliers ; Opérations en milieu terrestre |
+Soutien pétrolier/ maintenance matériels pétroliers ; opérations en milieu terrestre |
 
-Service de santé des armées |
+Service de santé
 
-ESG (praticiens officiers) |
+des armées |
 
-25 |
+ESG |
+
+171 |
+
+1 000 |
 
 25 000 |
 
-25 000 |
+1,06 |
 
-0,63 |
-
-0,18 |
+3,12 |
 
 Santé :
 
 Profession médicale
 
--Médecine des forces ;
+-médecine des forces ;
 
--Anesthésie-réanimation ;
+-anesthésie-réanimation ;
 
--Chirurgie orthopédique ;
+-chirurgie orthopédique ;
 
--Chirurgie viscérale, vasculaire, thoracique, urologique,
+-chirurgie viscérale, vasculaire, thoracique, urologique,
 
--Chirurgies " tête et cou " (1) ;
+-chirurgies "tête et cou" (1) ;
 
--Médecine d'urgence ;
+-médecine d'urgence ;
 
--Psychiatrie.
+-psychiatrie.
 
 Profession paramédicales et péri médicales :
 
--Assistant médico administratif ;
+-assistant médico administratif ;
 
--Technicien de laboratoire ;
+-technicien de laboratoire ;
 
--Préparateur en pharmacie ;
+-préparateur en pharmacie ;
 
--Technicien supérieur hospitalier ;
+-technicien supérieur hospitalier ;
 
--Infirmier (de soins généraux, de bloc opératoire, anesthésiste) ;
+-infirmier (de soins généraux, de bloc opératoire, anesthésiste) ;
 
--Manipulateur en radiologie ;
+-manipulateur en radiologie ;
 
--Masseur kinésithérapeute. |
+-masseur kinésithérapeute.
 
-ESS (praticiens officiers) |
-
-31 |
-
-25 000 |
-
-25 000 |
-
-0,77 |
-
-0,77 |
-
-ESG (MITHA sous-officiers) |
-
-195 |
-
-1 000 |
-
-5 000 |
-
-0,44 |
-
-0,18 |
-
-ESS (MITHA sous-officiers) |
-
-185 |
-
-5 000 |
-
-10 000 |
-
-0,92 |
-
-0,60 |
-
-Service de justice militaire |
+(1) Neurochirurgie, ORL, chirurgies maxillo-faciale et plastique. |
 
 ESS |
 
-4 |
+225 |
 
-9 000 |
+5000 |
 
-9 000 |
+25 000 |
 
-0,04 |
+1,95 |
 
-0,01 |
+Service de justice
+
+militaire |
+
+ESS |
+
+7 |
+
+5 295 |
+
+18 000 |
+
+0,05 |
+
+0,03 |
 
 Juridique |
 
-(1) Neurochirurgie, ORL, chirurgies maxillo-faciale et plastique.
+NOTA :
+
+Conformément à l’article 4 de l’arrêté du 21 décembre 2022 (NOR : ARMH2235851A), ces dispositions entrent en vigueur le 1er janvier 2023.
