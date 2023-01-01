@@ -24,12 +24,12 @@ Si le paiement par le subrogé a lieu sans émission de titre exécutoire prévu
 
 7. En cas de procédures de sauvegarde, de redressement ou de liquidation judiciaires du redevable ou d'un tiers tenu légalement au paiement des sommes visées au 1, le Trésor ou son subrogé ne peut exercer son privilège pour les créances qui étaient soumises à titre obligatoire à la publicité prévue aux 1 à 5 et dont l'inscription n'a pas été régulièrement requise à l'encontre du redevable.
 
-8. Les inscriptions prises en application des 1 à 5 se prescrivent par quatre ans, sauf renouvellement.
+8. (Abrogé)
 
 8 bis. Le comptable compétent demande, dans un délai d'un mois, la radiation totale de l'inscription devenue sans objet, dès lors que le débiteur s'est acquitté de sa dette.
 
-9. Les modalités d'application du présent article et notamment les formes et délais des inscriptions et de leur radiation sont fixées par un décret en conseil d'Etat pris sur le rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice.
+9. Les modalités d'application du présent article et notamment les formes et délais des inscriptions et de leur radiation sont fixées par un décret en conseil d'Etat.
 
 NOTA :
 
-Conformément au III de l’article 61 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions s'appliquent aux créances exigibles à compter d'une date fixée par décret, et au plus tard à compter du 1er janvier 2020.
+Conformément au I de l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entreront en vigueur à une date qui sera fixée par décret et qui ne pourra être postérieure au 1er janvier 2023.
