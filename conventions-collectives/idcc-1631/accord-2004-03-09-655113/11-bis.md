@@ -1,0 +1,37 @@
+# Article 11 bis
+
+Suspension du contrat de travail rémunérée ou indemnisée
+
+Le bénéfice des garanties est maintenu au salarié dont le contrat de travail est suspendu notamment suite à une maladie, une maternité ou un accident, ainsi qu'en cas d'activité partielle et d'activité partielle de longue durée sans limite de durée, moyennant le paiement des cotisations, s'il bénéficie :
+
+– soit d'un maintien total ou partiel de rémunération ;
+
+– soit d'indemnités journalières ou d'une rente d'invalidité, complémentaires financées au moins pour partie par l'employeur, qu'elles soient versées directement par l'employeur ou pour son compte par l'intermédiaire d'un tiers ;
+
+– soit de toute période de congé rémunéré par l'employeur (reclassement, mobilité …).
+
+Ce maintien donne lieu à paiement des cotisations excepté pour le salarié en incapacité de travail ou en invalidité exonéré de ce paiement dans les conditions prévues contractuellement.
+
+Assiette des cotisations
+
+Le salarié dont le contrat de travail est suspendu qui bénéficie d'un maintien total de salaire cotise sur la base de celui-ci.
+
+À l'exception des salariés bénéficiant d'un maintien total de salaire versé par l'employeur, le salaire de référence servant de base à l'assiette des cotisations s'entend de la rémunération perçue au cours des 12 mois civils précédant la suspension du contrat de travail.
+
+Si le salarié ne compte pas 12 mois de présence à la date de suspension de son contrat de travail, le salaire de référence pris en compte le cas échéant pour le calcul des prestations et des cotisations est celui figurant au contrat de travail.
+
+Suspension du contrat de travail non rémunérée ou non indemnisée
+
+Les garanties sont suspendues de plein droit pour les salariés qui sont, notamment, dans les cas suivants :
+
+– congé de formation ;
+
+– congé parental d'éducation ;
+
+– congé sabbatique ;
+
+– congé pour création d'entreprise.
+
+Pendant la période de suspension des garanties, aucune cotisation n'est due au titre du salarié concerné.
+
+Cependant, les garanties décès peuvent être maintenues pendant la suspension de leur contrat de travail à la demande du salarié concerné moyennant le paiement des cotisations correspondantes sur la base du dernier salaire d'activité. Ce maintien donne lieu à paiement à la charge exclusive du salarié des cotisations relatives aux garanties maintenues.

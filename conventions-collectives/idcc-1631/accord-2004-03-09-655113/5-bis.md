@@ -1,0 +1,9 @@
+# Article 5 bis
+
+Conformément à l'article L. 912-1 du code de la sécurité sociale, la commission paritaire de gestion du régime de prévoyance de la convention collective nationale de l'hôtellerie de plein air met en place des garanties prévoyance présentant un degré élevé de solidarité, qui comprennent à ce titre des prestations à caractère non directement contributif.
+
+Un prélèvement annuel de 2 % des cotisations des régimes conventionnels d'assurance collective est affecté aux prestations à caractère non directement contributif, conformément à l'article R. 912-1 du code de la sécurité sociale.
+
+Les salariés dont l'employeur adhère au régime de branche via l'un des assureurs recommandés bénéficieront des actions financées sur le fonds du degré élevé de solidarité mutualisé.
+
+Les salariés dont l'employeur n'adhère pas au régime conventionnel bénéficieront également de ces actions via l'organisme assureur retenu par leur employeur. L'employeur veillera dans ce cas au respect du financement et des actions spécifiques du régime conventionnel auprès de son organisme assureur.
