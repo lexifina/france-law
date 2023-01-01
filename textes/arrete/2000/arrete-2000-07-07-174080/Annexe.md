@@ -12,13 +12,29 @@ ont été manipulées des sacs d'amiante
 
 de périodes étant incluses) |
 
+Ajaccio |
+
+de 1980 à 2004 |
+
 Bastia |
 
 de 1959 à 2004 |
 
+Bayonne |
+
+de 1980 à 2004 |
+
 Bordeaux |
 
 de 1961 à 2004 |
+
+Boulogne-Sur-Mer |
+
+de 1980 à 2004 |
+
+Brest |
+
+de 1980 à 2004 |
 
 Calais |
 
@@ -36,6 +52,10 @@ Le Havre |
 
 de 1949 à 2004 |
 
+Lorient |
+
+de 1980 à 2004 |
+
 Marseille |
 
 de 1957 à 2004 |
@@ -44,9 +64,25 @@ Nantes-Saint-Nazaire |
 
 de 1960 à 2004 |
 
+Nice |
+
+de 1980 à 2004 |
+
+Port-La-Nouvelle |
+
+de 1980 à 2004 |
+
+Port-Vendres |
+
+de 1980 à 2004 |
+
 La Rochelle-La Pallice |
 
 de 1974 à 2004 |
+
+Roscoff |
+
+de 1980 à 2004 |
 
 Rouen |
 
