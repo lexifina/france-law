@@ -1,0 +1,9 @@
+# Article Annexe C
+
+LISTE DES SERVICES DÉCONCENTRÉS DISPOSANT D'UNE FORMATION SPÉCIALISÉE EN MATIÈRE DE SANTÉ, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL AU SEIN DE LEUR COMITÉ SOCIAL D'ADMINISTRATION DE SERVICE DÉCONCENTRÉ
+
+(créée en application de l' article 9 du décret n° 2020-1427 du 20 novembre 2020 et du deuxième alinéa du III de l'article 15 de la loi n° 84-16 du 11 janvier 1984 )
+
+SERVICES DÉCONCENTRÉS |
+
+DREAL Corse |
