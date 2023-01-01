@@ -1,10 +1,10 @@
 # Article 244 quater L
 
-I. – Les entreprises agricoles bénéficient d'un crédit d'impôt au titre de chacune des années 2011 à 2022 au cours desquelles au moins 40 % de leurs recettes proviennent d'activités mentionnées à l'article 63 relevant du mode de production biologique conformément aux règles fixées dans le règlement (UE) 2018/848 du Parlement européen et du Conseil du 30 mai 2018 relatif à la production biologique et à l'étiquetage des produits biologiques, et abrogeant le règlement (CE) n° 834/2007 du Conseil.
+I. – Les entreprises agricoles bénéficient d'un crédit d'impôt au titre de chacune des années 2011 à 2025 au cours desquelles au moins 40 % de leurs recettes proviennent d'activités mentionnées à l'article 63 relevant du mode de production biologique conformément aux règles fixées dans le règlement (UE) 2018/848 du Parlement européen et du Conseil du 30 mai 2018 relatif à la production biologique et à l'étiquetage des produits biologiques, et abrogeant le règlement (CE) n° 834/2007 du Conseil.
 
-II. – 1. Le montant du crédit d'impôt mentionné au I s'élève à 3 500 €.
+II. – 1. Le montant du crédit d'impôt mentionné au I s'élève à 4 500 €.
 
-2. Les entreprises qui bénéficient d'une aide à la conversion à l'agriculture biologique ou d'une aide au maintien de l'agriculture biologique, en application du règlement (UE) n° 1305/2013 du Parlement européen et du Conseil du 17 décembre 2013 relatif au soutien au développement rural par le Fonds européen agricole pour le développement rural (Feader) et abrogeant le règlement (CE) n° 1698/2005 du Conseil, peuvent bénéficier du crédit d'impôt prévu au I du présent article lorsque le montant résultant de la somme de ces aides et de ce crédit d'impôt n'excède pas 4 000 € au titre de chacune des années mentionnées au même I. Le montant du crédit d'impôt mentionné audit I est diminué, le cas échéant, pour que le montant résultant de la somme des aides et du crédit d'impôt ne dépasse pas 4 000 €.
+2. Les entreprises qui bénéficient d'une aide à la conversion à l'agriculture biologique ou d'une aide au maintien de l'agriculture biologique, en application du règlement (UE) n° 1305/2013 du Parlement européen et du Conseil du 17 décembre 2013 relatif au soutien au développement rural par le Fonds européen agricole pour le développement rural (Feader) et abrogeant le règlement (CE) n° 1698/2005 du Conseil, peuvent bénéficier du crédit d'impôt prévu au I du présent article lorsque le montant résultant de la somme de ces aides et de ce crédit d'impôt n'excède pas 5 000 € au titre de chacune des années mentionnées au même I. Le montant du crédit d'impôt mentionné audit I est diminué, le cas échéant, pour que le montant résultant de la somme des aides et du crédit d'impôt ne dépasse pas 5 000 €.
 
 3. Pour le calcul du crédit d'impôt des groupements agricoles d'exploitation en commun, les montants mentionnés aux 1 et 2 sont multipliés par le nombre d'associés, sans que le montant du crédit d'impôt ainsi obtenu puisse excéder quatre fois le crédit d'impôt calculé dans les conditions prévues aux mêmes 1 et 2.
 
@@ -14,4 +14,4 @@ IV. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au res
 
 NOTA :
 
-Conformément au II de l’article 150 de la loi n° 2020-1721 du 29 décembre 2020, le 2° du I entre en vigueur le 1er janvier 2022.
+Conformément au II de l’article 84 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
