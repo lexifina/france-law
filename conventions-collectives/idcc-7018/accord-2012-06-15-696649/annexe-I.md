@@ -2,45 +2,47 @@
 
 Annexe I
 
-Taux contractuels et ventilation des cotisations (en vigueur au 1er janvier 2018)
-
-(En pourcentage.)
+Taux contractuels et ventilation des cotisations (en pourcentage)
 
 |
 
-TA
+TA |
 
-Tranche de salaire inférieure ou égale
+TB – TC |
+
+Tranche de salaire
+
+inférieure ou égale
 
 au plafond ASA |
 
-TB-TC
+Tranche de salaire
 
-Tranche de salaire comprise
+comprise entre 1 et 8 fois
 
-entre 1 et 8 fois le plafond ASA |
+le plafond ASA |
+
+Part employeur |
+
+Part salarié |
+
+Total |
+
+Part employeur |
+
+Part salarié |
+
+Total |
+
+Décès
 
 |
 
-Part employeur |
+0,99 |
 
-Part salarié |
+|
 
-Total |
-
-Part employeur |
-
-Part salarié |
-
-Total |
-
-Décès |
-
-1,01 |
-
-– |
-
-1,01 |
+0,99 |
 
 0,495 |
 
@@ -50,31 +52,31 @@ Décès |
 
 Capital décès |
 
-0,31 |
+0,32 |
 
-– |
+|
 
-0,31 |
+0,32 |
 
-0,155 |
+0,16 |
 
-0,155 |
+0,16 |
 
-0,31 |
+0,32 |
 
 Indemnité frais d'obsèques |
 
-0,02 |
+0,01 |
 
-– |
+|
 
-0,02 |
+0,01 |
 
-– |
+0,005 |
 
-– |
+0,005 |
 
-– |
+0,01 |
 
 Rente éducation |
 
@@ -92,19 +94,21 @@ Rente éducation |
 
 Rente de conjoint |
 
-0,61 |
+0,59 |
 
-– |
+|
 
-0,61 |
+0,59 |
 
-0,305 |
+0,295 |
 
-0,305 |
+0,295 |
 
-0,61 |
+0,59 |
 
-Incapacité temporaire |
+Incapacité temporaire de travail
+
+|
 
 0,35 |
 
@@ -122,13 +126,13 @@ Mensualisation |
 
 0,35 |
 
-– |
+|
 
 0,35 |
 
 0,56 |
 
-– |
+|
 
 0,56 |
 
@@ -140,17 +144,19 @@ Relais mensualisation |
 
 0,29 |
 
-– |
+|
 
 0,81 |
 
 0,81 |
 
-Incapacité permanente |
+Incapacité permanente de travail
+
+|
 
 0,41 |
 
-– |
+|
 
 0,41 |
 
@@ -164,7 +170,7 @@ Incapacité permanente privée |
 
 0,36 |
 
-– |
+|
 
 0,36 |
 
@@ -178,23 +184,23 @@ Incapacité permanente professionnelle |
 
 0,05 |
 
-– |
+|
 
 0,05 |
 
 0,10 |
 
-– |
+|
 
 0,10 |
 
 Total prévoyance |
 
-1,77 |
+1,75 |
 
 0,29 |
 
-2,06 |
+2,04 |
 
 1,65 |
 
@@ -204,9 +210,9 @@ Total prévoyance |
 
 (Soit en répartition employeur salarié) |
 
-85,92 |
+85,78 |
 
-14,08 |
+14,22 |
 
 100 |
 
@@ -215,56 +221,20 @@ Total prévoyance |
 50,00 |
 
 100 |
-
-|
-
-Frais de santé |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Assiette salaire (avec cotisation minimum 1,89 % PMSS) |
-
-1,305 |
-
-1,305 |
-
-2,61 |
-
-– |
-
-– |
-
-– |
-
-Assiette plafond sécurité sociale |
-
-0,63 |
-
-0,63 |
-
-1,26 |
-
-– |
-
-– |
-
-– |
-
-|
 
 Frais de santé
 
-Régime local Alsace-Moselle |
+|
+
+|
+
+En pourcentage du PMSS [1] |
+
+1,998 |
+
+1,332 |
+
+3,33 |
 
 |
 
@@ -272,36 +242,24 @@ Régime local Alsace-Moselle |
 
 |
 
+Frais de santé régime local Alsace-Moselle
+
+|
+
+|
+
+En pourcentage du PMSS [1] |
+
+1,494 |
+
+0,996 |
+
+2,49 |
+
 |
 
 |
 
 |
 
-Assiette salaire (avec cot mini 1,23 % PMSS) |
-
-0,85 |
-
-0,85 |
-
-1,70 |
-
-– |
-
-– |
-
-– |
-
-Assiette plafond sécurité sociale |
-
-0,57 |
-
-0,57 |
-
-1,14 |
-
-– |
-
-– |
-
-– |
+[1] PMSS = plafond mensuel de la sécurité sociale. |
