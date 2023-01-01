@@ -32,9 +32,7 @@ f) Précisions complémentaires relatives à certaines catégories de contrats :
 
 -autres contrats comportant des valeurs de rachat : frais prélevés en cas de rachat et autres frais ;
 
--contrats comportant des garanties exprimées en unités de compte : énonciation des unités de compte de référence et pour chaque unité de compte sélectionnée par le souscripteur ou, en cas de contrat de groupe à adhésion facultative, par l'adhérent, indication des caractéristiques principales, et en l'absence d'insertion de l'encadré mentionné à l'article
-
-L. 132-5-2 d'une part, des frais prélevés par l'entreprise d'assurance sur la provision mathématique ou le capital garanti et, d'autre part, des frais pouvant être supportés par l'unité de compte ainsi que des modalités de versement du produit des droits attachés à la détention de l'unité de compte. Pour chaque unité de compte constituée sous la forme d'une part ou d'une action d'organisme de placement collectif mentionné aux 3°, 7°, 7° quater, 8°, 9° ter, 9° quater ou 9° sexies de l'article R. 332-2, l'indication des caractéristiques principales peut être valablement effectuée par la remise du document d'information clé pour l'investisseur. Pour chaque unité de compte constituée sous la forme d'une part ou d'une action d'organisme de placement collectif mentionné au 7° ter de l'article R. 332-2, l'indication des caractéristiques principales peut être valablement effectuée par la remise de la note détaillée. En cas de non-remise du document d'information clé pour l'investisseur ou, le cas échéant, de la note détaillée, le souscripteur ou adhérent est informé de ses modalités d'obtention ainsi que, le cas échéant, de l'adresse électronique où se procurer ce document ou, le cas échéant, cette note ;
+-contrats comportant des garanties exprimées en unités de compte : énonciation des unités de compte de référence et pour chaque unité de compte sélectionnée par le souscripteur ou, en cas de contrat de groupe à adhésion facultative, par l'adhérent, indication des caractéristiques principales qui peut être valablement effectuée par la remise du document d'informations clés ou du document d'informations spécifiques prévus par le règlement (UE) n° 1286/2014 du Parlement européen et du Conseil du 26 novembre 2014 et le règlement délégué (UE) n° 2017/653 de la Commission du 8 mars 2017, et en l'absence d'insertion de l'encadré mentionné à l'article L. 132-5-2 d'une part, des frais prélevés par l'entreprise d'assurance sur la provision mathématique ou le capital garanti et, d'autre part, des frais pouvant être supportés par l'unité de compte ainsi que des modalités de versement du produit des droits attachés à la détention de l'unité de compte. En cas de non-remise du document d'informations clés ou du document d'information spécifiques, le souscripteur ou adhérent est informé de ses modalités d'obtention ainsi que, le cas échéant, de l'adresse électronique où se procurer ces documents ;
 
 -contrats de groupe à adhésion facultative : nom et adresse du souscripteur, formalités de résiliation et de transfert ;
 
@@ -61,3 +59,7 @@ Modalités d'examen des réclamations pouvant être formulées au sujet du contr
 Existence, le cas échéant, d'une instance chargée en particulier de cet examen.
 
 5° Le cas échéant, référence expresse au rapport sur la solvabilité et la situation financière prévu à l'article L. 355-5, qui permet au souscripteur d'accéder facilement à ces informations.
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 22 décembre 2022 (NOR : ECOT2237322A), ces dispositions entrent en vigueur le 1er janvier 2023.
