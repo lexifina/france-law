@@ -58,7 +58,9 @@ Activités du domaine 4 : tâches et exigences générales, relations avec autru
 
 – gérer sa sécurité ;
 
-– maîtriser son comportement dans ses relations avec autrui.
+– maîtriser son comportement.
+
+– entreprendre des tâches multiples.
 
 Ces activités sont ainsi définies :
 
@@ -88,7 +90,7 @@ Exclusion : Courir, sauter, faire ses transferts, se déplacer dans le logement,
 
 Se déplacer (dans le logement, à l'extérieur)
 
-Définition : Se déplacer d'un endroit à un autre, sans utiliser de moyen de transport.
+Définition : Se déplacer d'un endroit à un autre, utiliser un moyen de transport.
 
 Inclusion : Se déplacer d'une pièce à l'autre, changer de niveau, se déplacer d'un étage à l'autre notamment en utilisant un escalier, se déplacer dans d'autres bâtiments, se déplacer à l'extérieur des bâtiments, se déplacer dans la rue, sauter, ramper …
 
@@ -196,11 +198,17 @@ Inclusion : Eviter un danger, l'anticiper, réagir, s'en soustraire, ne pas se m
 
 Exclusion : Prendre soin de sa santé (assurer son confort physique, son bien-être physique et mental, avoir un régime approprié, avoir un niveau d'activité physique approprié, se tenir au chaud ou au frais, avoir des rapports sexuels protégés …).
 
-Maîtriser son comportement dans ses relations avec autrui
+Maîtriser son comportement
 
-Définition : Maîtriser ses émotions et ses pulsions, son agressivité verbale ou physique dans ses relations avec autrui, selon les circonstances et dans le respect des convenances. Entretenir et maîtriser les relations avec autrui selon les circonstances et dans le respect des convenances, comme maîtriser ses émotions et ses pulsions, maîtriser son agressivité verbale et physique, agir de manière indépendante dans les relations sociales, et agir selon les règles et conventions sociales.
+Définition : Gérer le stress, y compris pour faire face à des situations impliquant de la nouveauté ou de l'imprévu. Gérer les habiletés sociales. Maîtriser ses émotions et ses pulsions, son agressivité verbale ou physique dans ses relations avec autrui, selon les circonstances et dans le respect des convenances. Entretenir et maîtriser les relations avec autrui selon les circonstances et dans le respect des convenances, comme maîtriser ses émotions et ses pulsions, maîtriser son agressivité verbale et physique, agir de manière indépendante dans les relations sociales, et agir selon les règles et conventions sociales.
 
-Inclusion : Comportement provoqué ou induit par un traitement ou une pathologie, y compris repli sur soi et inhibition.
+Inclusion : Comportement provoqué ou induit par une altération de fonctions, un traitement ou une pathologie, une situation inhabituelle, y compris repli sur soi et inhibition.
+
+Entreprendre des tâches multiples
+
+Définition : Entreprendre des actions simples ou complexes et coordonnées, qui sont les composantes de tâches multiples, intégrées ou complexes, réalisées l'une après l'autre ou simultanément.
+
+Inclusion : effectuer des tâches multiples ; les mener à terme ; les entreprendre de manière indépendante ou en groupe, les réaliser dans des délais contraints ou dans l'urgence, incluant anticiper, planifier, exécuter et vérifier des tâches, acquérir un savoir-faire, gérer son temps, résoudre des problèmes.
 
 2. Détermination du niveau des difficultés
 
@@ -246,15 +254,17 @@ c) Le projet de vie exprimé par la personne.
 
 Chapitre 2 : Aides humaines
 
-Les besoins d'aides humaines peuvent être reconnus dans les quatre domaines suivants :
+Les besoins d'aides humaines peuvent être reconnus dans les cinq domaines suivants :
 
 1° Les actes essentiels de l'existence ;
 
 2° La surveillance régulière ;
 
-3° Les frais supplémentaires liés à l'exercice d'une activité professionnelle ou d'une fonction élective.
+3° Le soutien à l'autonomie ;
 
-4° L'exercice de la parentalité.
+4° Les frais supplémentaires liés à l'exercice d'une activité professionnelle ou d'une fonction élective.
+
+5° L'exercice de la parentalité.
 
 Section 1
 
@@ -306,13 +316,29 @@ Les déplacements à l'extérieur exigés par des démarches liées au handicap 
 
 Seuls les déplacements extérieurs mentionnés à l'alinéa précédent sont intégrés dans les temps de déplacement prévus au présent b, les autres déplacements extérieurs relèvent d'autres actes (participation à la vie sociale et surveillance).
 
-c) La participation à la vie sociale
+c) la maîtrise de son comportement
+
+Le temps quotidien d'aide humaine nécessaire pour la mise en œuvre de cette activité est évalué dans le cadre de l'appréciation des besoins au titre des sections 2 et 3 du présent chapitre.
+
+Définition : Gérer son stress, y compris pour faire face à des situations impliquant de la nouveauté ou de l'imprévu. Gérer les habiletés sociales. Maîtriser ses émotions et ses pulsions, son agressivité verbale ou physique dans ses relations avec autrui, selon les circonstances et dans le respect des convenances. Entretenir et maîtriser les relations avec autrui selon les circonstances et dans le respect des convenances, comme maîtriser ses émotions et ses pulsions, maîtriser son agressivité verbale et physique, agir de manière indépendante dans les relations sociales, et agir selon les règles et conventions sociales.
+
+Inclusion : Comportement provoqué ou induit par une altération de fonction, un traitement ou une pathologie, une situation inhabituelle, y compris un comportement de repli sur soi ou d'inhibition.
+
+d) La réalisation des tâches multiples
+
+Le temps quotidien d'aide humaine nécessaire pour la mise en œuvre de cette activité est évalué dans le cadre de l'appréciation des besoins au titre des sections 2 et 3 du présent chapitre.
+
+Définition : Réaliser des actions simples ou complexes et coordonnées, qui sont les composantes de tâches multiples, intégrées ou complexes, réalisées l'une après l'autre ou simultanément.
+
+Inclusion : réaliser des tâches multiples ; les mener à terme ; les entreprendre de manière indépendante ou en groupe, les réaliser dans des délais contraints ou dans l'urgence, réaliser des tâches liées à la prise, l'organisation et l'effectivité des rendez-vous médicaux. Cela inclut anticiper, planifier, exécuter et vérifier des tâches, acquérir un savoir-faire, gérer son temps, résoudre des problèmes.
+
+e) La participation à la vie sociale
 
 La notion de participation à la vie sociale repose, fondamentalement, sur les besoins d'aide humaine pour se déplacer à l'extérieur et pour communiquer afin d'accéder notamment aux loisirs, à la culture, à la vie associative, etc.
 
 Le temps d'aide humaine pour la participation à la vie sociale peut atteindre 30 heures par mois. Il est attribué sous forme de crédit temps et peut être capitalisé sur une durée de 12 mois. Ce temps exclut les besoins d'aide humaine qui peuvent être pris en charge à un autre titre, notamment ceux liés à l'activité professionnelle, à des fonctions électives, à des activités ménagères, etc.
 
-d) Les besoins éducatifs :
+f) Les besoins éducatifs :
 
 La prise en compte des besoins éducatifs des enfants et des adolescents soumis à l'obligation scolaire pendant la période nécessaire à la mise en œuvre d'une décision de la commission des droits et de l'autonomie d'orientation à temps plein ou à temps partiel vers un établissement mentionné au 2° du I de l'article L. 312-1 du présent code donne lieu à l'attribution d'un temps d'aide humaine de 30 heures par mois.
 
@@ -338,11 +364,11 @@ Les temps indiqués au 1 de la présente section sont des temps plafonds dans la
 
 Facteurs en rapport avec le handicap de la personne
 
-Des symptômes tels que douleurs, spasticité, ankylose de grosses articulations, mouvements anormaux, obésité importante, etc., tout autant que certains troubles du comportement, difficultés de compréhension, lenteur … peuvent avoir un impact et rendre plus difficiles les interventions des aidants pour la réalisation de tout ou partie des actes essentiels.
+Des symptômes tels que douleurs, spasticité, ankylose de grosses articulations, mouvements anormaux, obésité importante, etc., tout autant que certains troubles du comportement, difficultés de compréhension, lenteur, difficulté à établir un lien de confiance, la fatigabilité, les troubles anxieux, phobiques, mnésiques ou de l'estime de soi, la désinhibition, difficultés de concentration et à fixer son attention, difficulté à se motiver, l'auto stigmatisation, la vulnérabilité émotionnelle ou l'extrême sensibilité émotionnelle, les troubles psycho-traumatiques … peuvent avoir un impact et rendre plus difficiles les interventions des aidants pour la réalisation de tout ou partie des actes essentiels.
 
 Facteurs en rapport avec l'environnement
 
-Un logement adapté ou, au contraire, un logement inadapté, de même que le recours à certaines aides techniques, notamment lorsqu'elles ont été préconisées pour faciliter l'intervention des aidants, peuvent avoir un impact sur le temps de réalisation des activités.
+Un logement adapté ou, au contraire, un logement inadapté, de même que le recours à certaines aides techniques, notamment lorsqu'elles ont été préconisées pour faciliter l'intervention des aidants et l'absence de lien social, peuvent avoir un impact sur le temps de réalisation des activités.
 
 4. Compensation et autres modes de prise en charge financière
 
@@ -370,7 +396,7 @@ Le besoin de surveillance s'apprécie au regard des conséquences que des troubl
 
 – utiliser des appareils et techniques de communication ;
 
-– maîtriser son comportement dans ses relations avec autrui.
+– maîtriser son comportement.
 
 Il s'apprécie aussi, de façon complémentaire, au regard de la capacité à faire face à un stress, à une crise, à des imprévus, ou d'autres troubles comportementaux particuliers comme ceux résultant de troubles neuropsychologiques.
 
@@ -396,6 +422,32 @@ Dans ce cas, le cumul des temps d'aide humaine pour les actes essentiels et la s
 
 Section 3
 
+Le soutien à l'autonomie
+
+La notion de soutien à l'autonomie s'entend comme l'accompagnement d'une personne dans l'exercice de l'autonomie dans le respect de ses aspirations personnelles.
+
+Pour être pris en compte au titre de l'élément aide humaine, ce besoin de soutien à l'autonomie doit être durable ou survenir fréquemment et concerne les personnes présentant notamment une ou plusieurs altérations des fonctions mentales, cognitives ou psychiques.
+
+Le besoin de soutien à l'autonomie s'apprécie au regard de l'hypersensibilité à l'anxiété, au stress et au contexte ainsi que des conséquences que des altérations des fonctions peuvent avoir dans différentes situations :
+
+- pour planifier, organiser, entamer, exécuter, et gérer le temps des activités (habituelles ou inhabituelles) en s'adaptant au contexte dans les actes nécessaires pour vivre dans un logement, pour se déplacer en dehors de ce logement, y compris pour prendre les transports, et participer à la vie en société ;
+
+- pour interagir avec autrui, comprendre ses intentions et ses émotions ainsi que s'adapter aux codes sociaux et à la communication afin de pouvoir avoir des relations avec autrui, y compris en dehors de sa famille proche ou de ses aidants ;
+
+- évaluer ses capacités, la qualité de ses réalisations et connaitre ses limites, afin notamment d'être capable d'identifier ses besoins d'aide, de prendre des décisions adaptées et de prendre soin de sa santé ;
+
+- pour traiter les informations sensorielles (notamment hypo ou hyper sensorialité, recherche ou évitement des sensations, hallucinations, difficulté à identifier une douleur, difficulté à évoluer dans certains environnements) afin notamment de mettre en œuvre les habiletés de la vie quotidienne, la communication, les compétences sociales.
+
+Le temps d'aide humaine pour le soutien à l'autonomie peut atteindre trois heures par jour. Il est attribué sous forme de crédit temps et peut être capitalisé sur une durée de douze mois.
+
+Ce temps consiste à accompagner la personne dans la réalisation de ses activités, sans les réaliser à sa place, notamment s'agissant des activités ménagères.
+
+Il exclut les besoins d'aide humaine qui peuvent être pris en charge à un autre titre, notamment ceux liés à l'activité professionnelle, à des fonctions électives et à la participation à la vie sociale.
+
+Lorsque le handicap d'une personne requiert du soutien à l'autonomie, il est possible de cumuler le temps d'aide qui lui est attribué à ce titre avec celui attribuable au titre des actes essentiels mentionnés aux a, b et e du 1 de la section 1 du présent chapitre et de la surveillance régulière.
+
+Section 4
+
 Frais supplémentaires liés à l'exercice d'une activité professionnelle ou d'une fonction élective
 
 L'aide liée spécifiquement à l'exercice d'une activité professionnelle ou d'une fonction élective est apportée directement à la personne. Elle peut porter notamment sur des aides humaines assurant des interfaces de communication lorsque des solutions d'aides techniques ou d'aménagements organisationnels n'ont pas pu être mises en place. Toutefois, elle exclue :
@@ -406,7 +458,7 @@ L'aide liée spécifiquement à l'exercice d'une activité professionnelle ou d'
 
 Le nombre maximum d'heures est fixé à 156 heures pour 12 mois. Les heures peuvent être réparties dans l'année, en fonction des besoins. Dans ce cas, le programme prévisionnel doit figurer dans le plan de compensation.
 
-Section 4
+Section 5
 
 La parentalité
 
@@ -420,7 +472,7 @@ Cet élément est majoré de 50 % lorsque le bénéficiaire est en situation de 
 
 Cet élément peut être attribué pour une durée inférieure à un an pour la durée restant à courir entre l'âge de l'enfant et les limites d'âges définies à la présente section.
 
-Section 5
+Section 6
 
 Dispositions communes aux aides humaines
 
@@ -428,11 +480,11 @@ Dispositions communes aux aides humaines
 
 Cet accès est subordonné :
 
-– à la reconnaissance d'une difficulté absolue pour la réalisation d'un des actes ou d'une difficulté grave pour la réalisation de deux des actes tels que définis aux a et b du 1 de la section 1 ou, à défaut
+– à la reconnaissance d'une difficulté absolue pour la réalisation d'un des actes ou d'une difficulté grave pour la réalisation de deux des actes tels que définis aux a, b, c et d du 1 de la section 1 ou, à défaut
 
-– à la constatation que le temps d'aide nécessaire apporté par un aidant familial pour des actes relatifs aux a et b du 1 de la section 1 ou au titre d'un besoin de surveillance atteint 45 minutes par jour.
+– à la constatation que le temps d'aide nécessaire apporté par un aidant familial pour des actes relatifs aux a, b, c et d du 1 de la section 1 ou au titre d'un besoin de surveillance ou de soutien à l'autonomie atteint 45 minutes par jour.
 
-Dans des situations exceptionnelles, la commission des droits et de l'autonomie ou le président du conseil général statuant en urgence dans les conditions fixées par l'article R. 245-36 peut porter le temps d'aide attribué au titre des actes essentiels ou de la surveillance au-delà des temps plafonds.
+Dans des situations exceptionnelles, la commission des droits et de l'autonomie ou le président du conseil départemental statuant en urgence dans les conditions fixées par l'article R. 245-36 peut porter le temps d'aide attribué au titre des actes essentiels, de la surveillance ou du soutien à l'autonomie au-delà des temps plafonds.
 
 2. Quantification des temps d'aide
 
@@ -570,4 +622,4 @@ Lorsque la personne juge que l'adaptation du logement n'est pas techniquement ou
 
 NOTA :
 
-Conformément à l'article 5 du décret n° 2020-1826 du 31 décembre 2020, les présentes dispositions sont applicables aux demandes de la prestation de compensation du handicap déposées à compter du 1er janvier 2021, ainsi qu'aux demandes en cours d'instruction devant la commission des droits et de l'autonomie des personnes handicapées à la date d'entrée en vigueur du décret précité.
+Conformément à l'article 4 du décret n° 2022-570 du 19 avril 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
