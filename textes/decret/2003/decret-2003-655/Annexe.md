@@ -32,11 +32,11 @@ CORPS DE CATÉGORIE C
 
 CAP n° 7 : personnels de la filière ouvrière et technique
 
-Agents de maîtrise principaux ; agent de maîtrise ; conducteurs ambulanciers principaux ; dessinateurs principaux ; ouvriers principaux de 1re classe ; ouvriers principaux de 2e classe ; agents d'entretien qualifiés ; agents de service mortuaire et de désinfection de 1re catégorie (corps placé en voie d'extinction) ; dessinateurs (corps placé en voie d'extinction) ; conducteurs ambulanciers ; agents des services logistiques de Mayotte.
+Agents de maîtrise principaux ; agent de maîtrise ; dessinateurs principaux ; ouvriers principaux de 1re classe ; ouvriers principaux de 2e classe ; agents d'entretien qualifiés ; agents de service mortuaire et de désinfection de 1re catégorie (corps placé en voie d'extinction) ; dessinateurs (corps placé en voie d'extinction) ; agents des services logistiques de Mayotte.
 
 CAP n° 8 : personnels des services de soins, des services médico techniques et des services sociaux
 
-Moniteurs d'atelier (corps placé en voie d'extinction) ; aides techniques d'électroradiologie (corps placé en voie d'extinction) ; aides préparateurs (corps placé en voie d'extinction) ; aides de laboratoire de classe supérieure (corps placé en voie d'extinction) ; aides de pharmacie de classe supérieure (corps placé en voie d'extinction) ; aides d'électroradiologie de classe supérieure (corps placé en voie d'extinction) ; aides de laboratoire de classe normale (corps placé en voie d'extinction) ; aides de pharmacie de classe normale (corps placé en voie d'extinction) ; aides techniques de laboratoire (corps placé en voie d'extinction) ; aides d'électroradiologie de classe normale (corps placé en voie d'extinction) ; agents des services hospitaliers qualifiés ; agents des services hospitaliers qualifiés de classe supérieure ; adjoints d'internat (corps placé en voie d'extinction) ; agents des services hospitaliers (corps placé en voie d'extinction) ; agents des services hospitaliers de Mayotte ; accompagnants éducatifs et sociaux ; accompagnants éducatifs et sociaux principaux.
+Moniteurs d'atelier (corps placé en voie d'extinction) ; aides techniques d'électroradiologie (corps placé en voie d'extinction) ; aides préparateurs (corps placé en voie d'extinction) ; aides de laboratoire de classe supérieure (corps placé en voie d'extinction) ; aides de pharmacie de classe supérieure (corps placé en voie d'extinction) ; aides d'électroradiologie de classe supérieure (corps placé en voie d'extinction) ; aides de laboratoire de classe normale (corps placé en voie d'extinction) ; aides de pharmacie de classe normale (corps placé en voie d'extinction) ; aides techniques de laboratoire (corps placé en voie d'extinction) ; aides d'électroradiologie de classe normale (corps placé en voie d'extinction) ; agents des services hospitaliers qualifiés ; agents des services hospitaliers qualifiés de classe supérieure ; adjoints d'internat (corps placé en voie d'extinction) ; agents des services hospitaliers (corps placé en voie d'extinction) ; agents des services hospitaliers de Mayotte ; accompagnants éducatifs et sociaux ; accompagnants éducatifs et sociaux principaux ; ambulanciers ; ambulanciers principaux.
 
 CAP n° 9 : personnels administratifs
 
@@ -48,4 +48,4 @@ Sages-femmes des hôpitaux du deuxième grade ; sages-femmes des hôpitaux du pr
 
 NOTA :
 
-Conformément à l’article 35 du décret n° 2022-857 du 7 juin 2022, ces dispositions entrent en vigueur en vue du prochain renouvellement général des instances de dialogue social dans la fonction publique.
+Conformément à l’article 27 du décret n° 2022-1658 du 26 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

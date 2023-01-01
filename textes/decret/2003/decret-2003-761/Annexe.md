@@ -52,12 +52,16 @@ CORPS DE CATÉGORIE C
 
 CAP n° 12 : Personnels techniques et ouvriers de catégorie C
 
-Agent de maîtrise principal ; agent technique spécialisé principal ; ouvrier principal de 1re classe ; conducteur ambulancier principal ; blanchisseur principal de 1re classe ; agent de maîtrise ; ouvrier principal de 2e classe ; blanchisseur principal de 2e classe ; conducteur ambulancier ; agent technique spécialisé ; agent d'entretien qualifié ; blanchisseur ; prothésiste dentaire (corps placé en voie d'extinction) ; chauffeur installateur de collecte (corps placé en voie d'extinction).
+Agent de maîtrise principal ; agent technique spécialisé principal ; ouvrier principal de 1re classe ; blanchisseur principal de 1re classe ; agent de maîtrise ; ouvrier principal de 2e classe ; blanchisseur principal de 2e classe ; agent technique spécialisé ; agent d'entretien qualifié ; blanchisseur ; prothésiste dentaire (corps placé en voie d'extinction) ; chauffeur installateur de collecte (corps placé en voie d'extinction).
 
 CAP n° 13 : personnels des services de soins, des services médico-techniques et des services sociaux de catégorie C
 
-Accompagnant éducatif et social principal ; accompagnant éducatif et social ; aide-préparateur (corps placé en voie d'extinction) ; aide technique d'électroradiologie (corps placé en voie d'extinction) ; moniteur d'atelier (corps placé en voie d'extinction) ; agent des services hospitaliers qualifié de classe supérieure ; agent des services hospitaliers qualifié de classe normale ; aide de pharmacie de classe supérieure (corps placé en voie d'extinction) ; aide de laboratoire de classe normale (corps placé en voie d'extinction) ; aide de laboratoire de classe supérieure (corps placé en voie d'extinction) ; préleveur (corps placé en voie d'extinction).
+Accompagnant éducatif et social principal ; accompagnant éducatif et social ; aide-préparateur (corps placé en voie d'extinction) ; aide technique d'électroradiologie (corps placé en voie d'extinction) ; moniteur d'atelier (corps placé en voie d'extinction) ; agent des services hospitaliers qualifié de classe supérieure ; agent des services hospitaliers qualifié de classe normale ; aide de pharmacie de classe supérieure (corps placé en voie d'extinction) ; aide de laboratoire de classe normale (corps placé en voie d'extinction) ; aide de laboratoire de classe supérieure (corps placé en voie d'extinction) ; préleveur (corps placé en voie d'extinction) ; ambulancier ; ambulancier principal.
 
 CAP n° 14 : Personnels administratifs de catégorie C
 
 Adjoint administratif principal de 1re classe ; permanencier auxiliaire de régulation médicale de 1re classe (corps placé en voie d'extinction) ; adjoint administratif principal de 2e classe ; permanencier auxiliaire de régulation médicale de 2e classe (corps placé en voie d'extinction) ; adjoint administratif ; inspecteur de service intérieur et du matériel de classe exceptionnelle de l'Assistance publique-hôpitaux de Paris (corps placé en voie d'extinction).
+
+NOTA :
+
+Conformément à l’article 27 du décret n° 2022-1658 du 26 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
