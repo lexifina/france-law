@@ -1,0 +1,3 @@
+# Article 1er
+
+Le champ d'application du présent accord est celui défini à l'article 1er de la convention collective nationale de la charcuterie de détail du 1er décembre 1977 réécrite par avenant n° 113 en date du 4 avril 2007 (IDCC 953). En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de cinquante salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où la branche est majoritairement composée de TPE avec un effectif moyen de 5 salariés.
