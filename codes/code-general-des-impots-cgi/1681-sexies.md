@@ -2,7 +2,7 @@
 
 1. Sous réserve des 2,3 et 4, lorsque leur montant excède 50 000 €, les impôts exigibles dans les conditions fixées à l'article 1663 sont acquittés, au choix du contribuable, par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France ou par prélèvements opérés à l'initiative de l'administration fiscale sur un compte visé à l'article 1680 A.
 
-2. Lorsque leur montant excède 300 €, l'impôt sur le revenu, la taxe d'habitation, les taxes foncières ainsi que les impositions recouvrées selon les mêmes règles que ces impositions sont acquittés par prélèvements opérés à l'initiative du Trésor public sur un compte mentionné à l'article 1680 A. Les contribuables qui résident dans un Etat figurant sur une liste établie par arrêté conjoint du ministre des affaires étrangères et du ministre chargé du budget peuvent acquitter ces impôts, quel que soit leur montant, par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.
+2. Lorsque leur montant excède 300 €, l'impôt sur le revenu, la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale, les taxes foncières ainsi que les impositions recouvrées selon les mêmes règles que ces impositions sont acquittés par prélèvements opérés à l'initiative du Trésor public sur un compte mentionné à l'article 1680 A. Les contribuables qui résident dans un Etat figurant sur une liste établie par arrêté conjoint du ministre des affaires étrangères et du ministre chargé du budget peuvent acquitter ces impôts, quel que soit leur montant, par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.
 
 3. La cotisation foncière des entreprises, ses taxes additionnelles, l'imposition forfaitaire sur les entreprises de réseaux, les frais mentionnés sur le rôle ainsi que leur acompte sont acquittés par prélèvements opérés à l'initiative du Trésor public sur un compte mentionné aux 1° ou 2° de l'article 1680 A.
 
@@ -10,4 +10,4 @@
 
 NOTA :
 
-Conformément au A du VIII de l’article 6 de la loi n° 2022-1157 du 16 août 2022, ces dispositions s'appliquent à compter du 1er janvier 2022.
+Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent à compter des impositions établies au titre de 2023.
