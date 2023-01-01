@@ -1,26 +1,18 @@
 # Article Annexe III
 
-Caractéristiques de performance des méthodes d'analyse des eaux destinées à la consommation humaine (à l'exclusion des eaux minérales naturelles) et des eaux brutes (eaux douces superficielles et eaux souterraines) utilisées pour la production d'eaux destinées à la consommation humaine
+CARACTÉRISTIQUES DE PERFORMANCE DES MÉTHODES D'ANALYSE DES EAUX DESTINÉES À LA CONSOMMATION HUMAINE (À L'EXCLUSION DES EAUX MINÉRALES NATURELLES) ET DES EAUX BRUTES (EAUX DOUCES SUPERFICIELLES ET EAUX SOUTERRAINES) UTILISÉES POUR LA PRODUCTION D'EAUX DESTINÉES À LA CONSOMMATION HUMAINE
 
-A. Caractéristiques de performances des méthodes d'analyse des eaux destinées à la consommation humaine (à l'exclusion des eaux minérales naturelles) et des eaux brutes utilisées pour la production d'eaux destinées à la consommation humaine
+A.-Caractéristiques de performances des méthodes d'analyse des eaux destinées à la consommation humaine (à l'exclusion des eaux minérales naturelles) et des eaux brutes utilisées pour la production d'eaux destinées à la consommation humaine
 
-Les méthodes d'analyse des paramètres dans les eaux destinées à la consommation humaine (à l'exclusion des eaux minérales naturelles) et dans les eaux brutes utilisées pour la production d'eaux destinées à la consommation humaine respectent les caractéristiques de performances spécifiées dans le tableau ci-après.
+Les méthodes d'analyse des paramètres dans les eaux destinées à la consommation humaine (à l'exclusion des eaux minérales naturelles) et dans les eaux brutes utilisées pour la production d'eaux destinées à la consommation humaine respectent les caractéristiques de performances spécifiées dans le tableau ci-après . Les limites et références de qualité sont fixées à l'arrêté du 11 janvier 2007 relatif aux limites et références de qualité des eaux brutes et des eaux destinées à la consommation humaine mentionnées aux articles R. 1321-2, R. 1321-3, R. 1321-7 et R. 1321-38 du code de la santé publique visé dans cet arrêté.
 
 Paramètres à analyser |
 
-Valeur de la limite
-
-ou de la référence
-
-de qualité |
-
 Limite de quantification (note 1) |
 
-Incertitude de la mesure
+Incertitude de la mesure en %
 
-en % exprimée
-
-à la valeur de la limite
+exprimée à la valeur de la limite
 
 ou de la référence de qualité
 
@@ -28,31 +20,45 @@ ou de la référence de qualité
 
 Conditions |
 
-Acrylamide |
+Acides haloacétiques |
 
-0,1 µg/L |
+4 µg/ L
 
-0,1 µg/L |
+A compter du 1er janvier 2026
 
-40 |
+(Par substance individuelle) |
+
+50
+
+(Par substance individuelle) |
 
 |
 
-Aluminium total |
+Acrylamide |
 
-200 µg/L |
+0,05 µg/ L
 
-60 µg/L |
+Jusqu'au 31 décembre 2025
+
+0,03 µg/ L
+
+A compter du 1er janvier 2026 |
+
+30 |
+
+|
+
+Aluminium |
+
+60 µg/ L |
 
 25 |
 
 |
 
-Ammonium (NH4 +) |
+Ammonium |
 
-0,1 mg/L |
-
-0,05 mg/L |
+0,05 mg/ L |
 
 40 |
 
@@ -60,11 +66,13 @@ Ammonium (NH4 +) |
 
 Antimoine |
 
-5 µg/L |
+5 µg/ L
 
-5 µg/L jusqu'au 31 décembre 2019
+Jusqu'au 31 décembre 2019
 
-1,5 µg/L à partir du 1er janvier 2020 |
+1,5 µg/ L
+
+A compter du 1er janvier 2020 |
 
 40 |
 
@@ -72,11 +80,13 @@ Antimoine |
 
 Arsenic |
 
-10 µg/L |
+10 µg/ L
 
-10 µg/L jusqu'au 31 décembre 2019
+Jusqu'au 31 décembre 2019
 
-3 µg/L à partir du 1er janvier 2020 |
+3 µg/ L
+
+A compter du 1er janvier 2020 |
 
 30 |
 
@@ -84,9 +94,7 @@ Arsenic |
 
 Baryum |
 
-0,7 mg/L |
-
-0,1 mg/L |
+0,1 mg/ L |
 
 25 |
 
@@ -94,11 +102,11 @@ Baryum |
 
 Benzène |
 
-1 µg/L |
+1 µg/ L jusqu'au 31 décembre 2019
 
-1 µg/L jusqu'au 31 décembre 2019
+0,3 µg/ L
 
-0,3 µg/L à partir du 1er janvier 2020 |
+A compter du 1er janvier 2020 |
 
 40 |
 
@@ -106,11 +114,19 @@ Benzène |
 
 Benzo (a) pyrène |
 
-0,01 µg/L |
+0,01 µg/ L Jusqu'au 31 décembre 2019
 
-0,01 µg/L jusqu'au 31 décembre 2019
+0,003 µg/ L
 
-0,003 µg/L à partir du 1er janvier 2020 |
+A compter du 1er janvier 2020 |
+
+50 |
+
+Si la valeur de l'incertitude ne peut être atteinte, la meilleure technique disponible devrait être retenue (jusqu'à 60 %) |
+
+Bisphénol A |
+
+0,050 µg/ l |
 
 50 |
 
@@ -118,9 +134,7 @@ Benzo (a) pyrène |
 
 Bore |
 
-1 mg/L |
-
-0,3 mg/L |
+0,3 mg/ L |
 
 25 |
 
@@ -128,33 +142,31 @@ Bore |
 
 Bromates |
 
-10 µg/L |
+10 µg/ L
 
-10 µg/L jusqu'au 31 décembre 2019
+Jusqu'au 31 décembre 2019
 
-3 µg/L à partir du 1er janvier 2020 |
+3 µg/ L
 
-40 jusqu'au 31 décembre 2019
+A compter du 1er janvier 2020 |
 
-30 à partir du 1er janvier 2020 |
+40
+
+A compter du 1er janvier 2023 |
 
 |
 
 Carbone Organique Total (COT) |
 
-2 mg/L |
-
-0,5 mg/L |
+0,5 mg/ L |
 
 30 |
 
-|
+L'incertitude de mesures devrait être estimée au niveau de 2 mg/ L du COT. La norme EN 1484 est utilisée pour la spécification de l'incertitude de la méthode d'essai |
 
 Cadmium |
 
-5 µg/L |
-
-1 µg/L |
+1 µg/ L |
 
 25 |
 
@@ -162,43 +174,49 @@ Cadmium |
 
 Chlore libre et total |
 
-- |
-
-0,05 mg/L |
+0,05 mg/ L |
 
 30 |
 
 |
 
+Chlorates |
+
+0,1 mg/ L |
+
+40 |
+
+|
+
 Chlorites |
 
-0,2 mg/L |
+0,1 mg/ L |
 
-0,1 mg/L |
+40 |
 
-40 jusqu'au 31 décembre 2019
-
-30 à partir du 1er janvier 2020 |
-
-Selon les caractéristiques de l'eau, un dégazage du bioxyde de chlore peut être nécéssaire. |
+|
 
 Chlorure de vinyle |
 
-0,5 µg/L |
+0,5 µg/ L
 
-0,5 µg/L |
+Jusqu'au 31 décembre 2025
+
+0,2 µg/ L
+
+A compter du 1er janvier 2026 |
 
 50 jusqu'au 31 décembre 2019
 
-40 à partir du 1er janvier 2020 |
+40
+
+A compter du 1er janvier 2020 |
 
 |
 
 Chlorures |
 
-250 mg/L |
-
-10 mg/L |
+10 mg/ L |
 
 15 |
 
@@ -206,19 +224,29 @@ Chlorures |
 
 Chrome |
 
-50 µg/L |
-
-6 µg/L |
+6 µg/ L |
 
 30 |
 
 |
 
+Chrome VI |
+
+5 µg/ L
+
+A compter du 1er janvier 2023
+
+2 µg/ L
+
+A compter du 1er janvier 2026 |
+
+40 |
+
+|
+
 Conductivité |
 
-- |
-
-sans objet |
+Sans objet |
 
 20 |
 
@@ -226,21 +254,17 @@ sans objet |
 
 Cuivre |
 
-1 mg/L |
-
-0,05 mg/L |
+0,05 mg/ L |
 
 25 |
 
 |
 
-Cyanures totaux (CN-) |
+Cyanures totaux |
 
-50 µg/L |
+20 µg/ L jusqu'au 31 décembre 2019
 
-20 µg/L jusqu'au 31 décembre 2019
-
-15 µg/L à partir du 1er janvier 2020 |
+15 µg/ L à partir du 1er janvier 2020 |
 
 30 |
 
@@ -248,11 +272,11 @@ Cyanures totaux (CN-) |
 
 1,2-dichloroéthane |
 
-3 µg/L |
+3 µg/ L jusqu'au 31 décembre 2019
 
-3 µg/L jusqu'au 31 décembre 2019
+1 µg/ L
 
-1 µg/L à partir du 1er janvier 2020 |
+A compter du 1er janvier 2020 |
 
 40 |
 
@@ -260,21 +284,25 @@ Cyanures totaux (CN-) |
 
 Epichlorydrine |
 
-0,1 µg/L |
+0,1 µg/ L
 
-0,1 µg/L |
+Jusqu'au 31 décembre 2025
+
+0,03 µg/ L
+
+A compter du 1er janvier 2026 |
 
 50 jusqu'au 31 décembre 2019
 
-40 à partir du 1er janvier 2020 |
+40 à partir du 1er janvier 2020
+
+30 à compter du 1er janvier 2023 |
 
 |
 
-Fer total |
+Fer |
 
-200 µg/L |
-
-60 µg/L |
+60 µg/ L |
 
 30 |
 
@@ -282,33 +310,31 @@ Analyse effectuée sur un échantillon non filtré acidifié à pH < ou égal à
 
 Fluorures |
 
-1,5 mg/L |
-
-0,2 mg/L |
+0,2 mg/ L |
 
 20 |
 
 |
 
-Hydrocarbures aromatiques polycycliques (benzo (b) fluoranthène, benzo (ghi) pérylène, benzo (k) fluoranthène et indéno (1,2,3-cd) pyrène) |
+Hydrocarbures aromatiques polycycliques (HAP) |
 
-0,1 µg/L |
+0,01 µg/ L
 
-0,01 µg/L
-
-par substance individuelle |
+(Par substance individuelle) |
 
 50 |
 
-L'incertitude est exprimée pour chacun des paramètres identifiés à 25 % de la limite de qualité soit 0,025 µg/L. |
+Les caractéristiques de performances s'appliquent à chacune des substances précisées à hauteur de 25 % de la valeur paramétrique |
 
 Manganèse |
 
-50 µg/L |
+25 µg/ L
 
-25 µg/L jusqu'au 31 décembre 2019
+Jusqu'au 31 décembre 2019
 
-15 µg/L à partir du 1er janvier 2020 |
+15 µg/ L
+
+À compter du 1er janvier 2020 |
 
 30 |
 
@@ -316,21 +342,19 @@ Manganèse |
 
 Mercure |
 
-1 µg/L |
-
-0,3 µg/L |
+0,3 µg/ L |
 
 30 |
 
 |
 
-Microcystines totales (YR, LR, RR a minima) |
+Total microcystines |
 
-1 µg/L |
+0.1 µg/ L lorsque l'analyse est réalisée par LC/ MS-MS)
 
-0,5 µg/L
+0.2 µg/ L par méthode ELISA
 
-Par substance individuelle |
+(Par variant) |
 
 50 |
 
@@ -338,109 +362,125 @@ Par substance individuelle |
 
 Nickel |
 
-20 µg/L |
+10 µg/ L
 
-10 µg/L jusqu'au 31 décembre 2019
+Jusqu'au 31 décembre 2019
 
-6 µg/L à partir du 1er janvier 2020 |
+6 µg/ L
+
+A compter du 1er janvier 2020 |
 
 25 |
 
 |
 
-Nitrates (NO3-) |
+Nitrates |
 
-50 mg/L |
-
-5 mg/L |
+5 mg/ L |
 
 15 |
 
 |
 
-Nitrites (NO2-) |
+Nitrites |
 
-0,5 mg/L ou 0,1 mg/L selon les dispositions de l'annexe I de l'arrêté du 11 janvier 2007 modifié |
-
-0,05 mg/L |
+0,05 mg/ L |
 
 20 |
 
 |
 
-Oxydabilité au permanganate de potassium mesurée après 10 minutes en milieu acide |
+Somme des substances alkylées per et polyfluorées |
 
-5 mg/L |
+|
 
-1 mg/L |
+|
+
+Au plus tard le 12 janvier 2024, la Commission établit des lignes directrices techniques relatives aux méthodes d'analyse pour la surveillance des substances alkylées per-et polyfluorés en vertu des paramètres total PFAS et Somme PFAS , y compris concernant les limites de détection, les valeurs paramétriques et la fréquence d'échantillonnage. |
+
+Indice permanganate |
+
+1 mg/ L |
 
 50 |
 
-|
+La détermination de l'indice permanganate n'est pas nécessaire si le COT est analysé. |
 
-Pesticides (par substance individuelle y compris les métabolites, produits de dégradation et de réaction pertinents) |
+Pesticides |
 
-0,1 µg/L |
+0,05 µg/ L
 
-0,05 µg/L jusqu'au 31 décembre 2019
+Jusqu'au 31 décembre 2019
 
-0, 03* µg/L à partir du 1er janvier 2020 |
+0, 03* µg/ L
 
-30* * |
+A compter du 1er janvier 2020 |
 
-* jusqu'à 0,05 µg/L si le laboratoire justifie qu'une limite de quantification de 0,03 µg/L ne peut être respectée
+30 ** |
 
-* * jusqu'à 50 % si le laboratoire justifie qu'une incertitude de 30 % ne peut pas être respectée |
+* jusqu'à 0,05 µg/ L si le laboratoire justifie qu'une limite de quantification de 0,03 µg/ L ne peut être respectée
+
+** jusqu'à 50 % si le laboratoire justifie qu'une incertitude de 30 % ne peut pas être respectée |
 
 AMPA, glufosinate et glyphosate |
 
-0,1 µg/L |
+0,10 µg/ L
 
-0,1 µg/L |
+Jusqu'au 31 décembre 2025
 
-30* * |
+0,03 µg/ L
+
+A compter du 1er janvier 2026
+
+(Par substance individuelle) |
+
+30 ** |
 
 Aldrine, dieldrine, heptachlore, heptachlore époxyde |
 
-0,03 µg/L |
+0,02 µg/ L
 
-0,02 µg/L
+(Par substance individuelle) |
 
-par substance individuelle |
-
-30* * |
+30 ** |
 
 pH |
 
-|
+Sans objet |
 
-sans objet |
-
-0, 2* ** |
+0, 2*** |
 
 Incertitude en unité pH
 
-* ** : une tolérance de 0,5 est acceptée pour les eaux présentant un pH alcalin |
+*** : une tolérance de 0,5 est acceptée pour les eaux présentant un pH alcalin |
 
 Plomb |
 
-10 µg/L |
+5 µg/ L
 
-5 µg/L jusqu'au 31 décembre 2019
+Jusqu'au 31 décembre 2019
 
-3 µg/L à partir du 1er janvier 2020 |
+3 µg/ L
 
-25 |
+A compter du 1er janvier 2020
+
+1,5 µg/ L
+
+A compter du 1er janvier 2036 |
+
+30 |
 
 |
 
 Sélénium |
 
-10 µg/L |
+5 µg/ L
 
-5 µg/L jusqu'au 31 décembre 2019
+Jusqu'au 31 décembre 2019
 
-3 µg/L à partir du 1er janvier 2020 |
+3 µg/ L
+
+À compter du 1er janvier 2020 |
 
 40 |
 
@@ -448,9 +488,7 @@ Sélénium |
 
 Sodium |
 
-200 mg/L |
-
-1 mg/L |
+1 mg/ L |
 
 15 |
 
@@ -458,9 +496,7 @@ Sodium |
 
 Sulfates |
 
-250 mg/L |
-
-10 mg/L |
+10 mg/ L |
 
 15 |
 
@@ -472,47 +508,47 @@ Température |
 
 |
 
-|
-
 Dispositif de mesure raccordé aux étalons de référence internationaux |
 
 Tétrachloroéthylène et trichloroéthylène |
 
-10 µg/L (somme des concentrations des paramètres spécifiés) |
+2 µg/ L
 
-2 µg/L
+(Par substance individuelle) |
 
-par substance individuelle |
-
-Tétrachloro éthylène : 30
+Tétrachloro éthylène : 40
 
 Trichloro éthylène : 40 |
 
-L'incertitude est exprimée pour chacun des paramètres identifiés à 50 % de la limite de qualité soit 5 µg/L |
+Les caractéristiques de performance s'appliquent à chacune des substances précisées à hauteur de 50 % de la limite de qualité, soit 5 µg/ L |
 
-Trihalométhanes (chloroforme, bromoforme, dibromochlorométhane et bromodichlorométhane) |
+Total trihalométhanes (THM) |
 
-100 µg/L |
+5 µg/ L
 
-5 µg/L
-
-par substance individuelle |
+(Par substance individuelle) |
 
 40 |
 
-L'incertitude est exprimée pour chacun des paramètres identifiés à 25 % de la limite de qualité soit 25 µg/L |
+Les caractéristiques de performances s'appliquent à chacune des substances précisées à hauteur de 25 % de la limite de qualité soit 25 µg/ L |
 
 Turbidité |
-
-0,5 ou 1 ou 2 FNU ou NFU selon les dispositions de l'annexe I de l'arrêté modifié du 11 janvier 2007 modifié |
 
 0,5 |
 
 30 |
 
-L'incertitude de la mesure doit être estimée au niveau de 1,0 NFU (unités néphélométriques formazine) |
+L'incertitude de la mesure doit être estimée au niveau de 1,0 NFU (unités néphélométriques formazine) conformément à la norme EN ISO 7027 ou à une autre méthode standard équivalente |
 
-B. Caractéristiques de performance des méthodes d'analyse des paramètres recherchés spécifiquement dans les eaux brutes
+Uranium |
+
+10 µg/ L |
+
+30 |
+
+|
+
+B.-Caractéristiques de performance des méthodes d'analyse des paramètres recherchés spécifiquement dans les eaux brutes
 
 Paramètres à analyser |
 
@@ -522,72 +558,54 @@ ou valeur guide |
 
 Limite de quantification (note 1) |
 
-Agents de surface réagissant au bleu de méthylène (lauryl sulfate de sodium) |
+Indice hydrocarbures |
 
-0,5 mg/L |
+1 mg/ L |
 
-0,1 mg/L |
+0,1 mg/ L |
 
-Azote Kjeldahl |
+C.-Caractéristiques de performance des méthodes d'analyse des eaux destinées à la consommation humaine (à l'exclusion des eaux minérales naturelles) des paramètres de la liste de vigilance
 
-A1 : 1 mg/L A2 : 2 mg/L A3 : 3 mg/ L |
+Paramètres |
 
-1 mg/L |
+Valeurs de vigilance |
 
-Demande biochimique en oxygène (DBO5) à 20° C |
+Limite de quantification (1) (Note 1) |
 
-A1 : 3 mg/L A2 : 5 mg/L A3 : 7 mg/L |
+Incertitude de la mesure
 
-3 mg/L |
+en % exprimée à la valeur
 
-Demande chimique en Oxygène (DCO) (O2) |
+de la limite
 
-30 mg/L |
+ou de la référence
 
-30 mg/L |
+de qualité
 
-Fer dissous (Fe) (sur échantillon filtré à 0,45 µm) |
+(Note 2) |
 
-2 mg/L |
+Notes |
 
-0,1 mg/L |
+17 béta estradiol |
 
-Hydrocarbures dissous ou émulsionnés |
+1 ng/ L |
 
-1 mg/L |
-
-0,1 mg/L |
-
-Matières totales en suspension |
-
-25 mg/L |
-
-2 mg/L |
-
-Phosphore total (P2O5) |
-
-A1 : 0,4 mg/L
-
-A2 : 0,7 mg/L
-
-A3 : 0,7 mg/L |
-
-0,2 mg/L |
-
-Silice dissoute* |
+≤ 1 ng/ L |
 
 |
 
-5,5 mg/L |
+|
 
-Phénols (indice phénol) (C6H5OH) |
+Nonylphénol |
 
-0,1 mg/L |
+300 ng/ L |
 
-0,03 mg/L |
+≤ 300 ng/ L |
 
-* La concentration en silice dissoute peut être obtenue à partir du dosage du silicium dissous par une méthode instrumentale. Dans ce cas, une étape de filtration doit précéder l'analyse.
+|
 
-Note 1 : La limite de quantification correspond à la concentration de l'analyte qui peut raisonnablement être déterminée avec un degré d'exactitude et de précision acceptable. Le respect de la norme NF T90-210 dont le millésime figure dans un avis au Journal officiel de la République française est réputé satisfaire à l'obtention d'une limite de quantification telle que définie dans cette note 1.
+N° CAS 84852-15-3 |
 
-Note 2 : L'incertitude de la mesure est la valeur absolue du paramètre caractérisant la dispersion des valeurs quantitatives attribuées à un mesurande, sur la base des informations utilisées. Elle est calculée à partir des résultats du laboratoire avec un facteur d'élargissement k pris égal à 2 par analogie avec un niveau de confiance de 95 %. Le respect de la norme NF ISO 11352 dont le millésime figure dans un avis au Journal officiel de la République française est réputé satisfaire à l'obtention d'une incertitude telle que définie dans cette note 2.
+Note 1.-La limite de quantification correspond à la concentration de l'analyte qui peut raisonnablement être déterminée avec un degré d'exactitude et de précision acceptable. Le respect de la norme NF T90-210 dont le millésime figure dans un avis au Journal officiel de la République française est réputé satisfaire à l'obtention d'une limite de quantification telle que définie dans cette note 1.
+
+Note 2.-L'incertitude de la mesure est la valeur absolue du paramètre caractérisant la dispersion des valeurs quantitatives attribuées à un mesurande, sur la base des informations utilisées. Le critère de performance de l'incertitude de mesure (k = 2) est le pourcentage de la valeur paramétrique indiquée dans le tableau ou une valeur plus stricte. L'incertitude de mesure est estimée au niveau de la valeur paramétrique, sauf indication contraire. Le respect de la norme NF ISO 11352 dont le millésime figure dans un avis au Journal officiel de la République française est réputé satisfaire à l'obtention d'une incertitude telle que définie dans cette note 2.

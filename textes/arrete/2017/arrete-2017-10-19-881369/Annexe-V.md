@@ -82,8 +82,8 @@ Uranium (U) 234 |
 
 0,02 Bq/L |
 
-Note 1. La limite de détection est calculée avec des probabilités d'erreurs du 1er et du 2e type de 0,05 chacune au maximum selon la norme NF ISO 11929 dont le millésime est précisé dans un avis publié au Journal officiel de la République française ou selon toute autre méthode considérée comme équivalente.
+Note 1. La limite de détection est calculée avec des probabilités d'erreurs du 1er et du 2e type de 0,05 chacune au maximum selon les normes NF EN ISO 11929 (parties 1 à 3) et NF ISO 11929-4 dont les millésimes sont précisés dans un avis publié au Journal officiel de la République française ou selon toute autre méthode considérée comme équivalente.
 
-Note 2. Les incertitudes de mesure sont calculées et rapportées sous forme d'incertitudes types complètes ou d'incertitudes types élargies avec un facteur d'élargissement de 1,96 au minimum selon le guide NF ISO/ CEI 98-3 dont le millésime est précisé dans un avis publié au Journal officiel de la République française ou selon tout autre référentiel considéré comme équivalent.
+Note 2. Les incertitudes de mesure sont calculées et rapportées sous forme d'incertitudes types complètes ou d'incertitudes types élargies avec un facteur d'élargissement de 1,96 au minimum selon la norme NF ISO/ IEC 98-3 dont le millésime est précisé dans un avis publié au Journal officiel de la République française ou selon tout autre référentiel considéré comme équivalent.
 
 Note 3. Cette limite de détection s'applique uniquement au contrôle initial de la dose indicative (DI) pour une nouvelle ressource en eau ; si le contrôle initial indique qu'il n'est pas plausible que le Ra-228 dépasse 20 % de la concentration dérivée, la limite de détection peut être portée à 0,08 Bq/L pour les mesures spécifiques de routine du Ra-228, jusqu'à ce qu'un éventuel nouveau contrôle de la DI soit requis.
