@@ -1,11 +1,7 @@
 # Article Tableau
 
-Régime frais de santé ensemble du personnel
+Grille de garanties du régime frais de santé
 
-(Tableau (1) non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+(Tableaux non reproduits, consultables en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)
 
-https :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2020/0014/ boc _ 20200014 _ 0000 _ 0010. pdf
-
-(1) Dans le tableau de garanties, les termes : « N° Tél 01 40 25 57 74 - N° Convention : 921215/ 921089 - MERCER ASSISTANCE » sont exclus de l'extension en tant qu'ils sont contraires à la décision n° 2013-672 DC du 13 juin 2013 du Conseil constitutionnel.
-
-(Arrêté du 18 septembre 2020 - art. 1)
+https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230002 _ 0000 _ 0010. pdf/ BOCC
