@@ -910,9 +910,7 @@ Décisions relatives à l'inscription au registre prévu au II de l'article L. 5
 
 Décret n° 2017-1119 modifié par le décret n° 2021-1477 du 10 novembre 2021
 
-Articles 2 (II), 5,6,8,9 et 17 ;
-
-|
+Articles 2 (II), 5,6,8,9 et 17 ; |
 
 Ministre chargé de la mer |
 
@@ -1644,7 +1642,7 @@ Ministre chargé de l'énergie |
 
 18 |
 
-Autorisations d'importation et d'exportation de matières nucléaires, suspension ou retrait de ces mesures. |
+Autorisation d'activités associées à des matières nucléaires et sanctions administratives les concernant |
 
 Code de la défense Articles L. 1333-2, L. 1333-3, R. 1333-3 et R. 1333-6. |
 
@@ -1724,7 +1722,7 @@ Ministre chargé de l'énergie |
 
 24 |
 
-Supprimé |
+Supprimé. |
 
 |
 
@@ -1900,7 +1898,7 @@ Ministre chargé des mines et ministre chargé de l'énergie pour les autres sub
 
 42 |
 
-Supprimé |
+Supprimé. |
 
 |
 
@@ -2105,6 +2103,24 @@ Code de l'énergie
 Articles R. 353-4-7 et R. 641-27 |
 
 Ministre chargé de l'énergie |
+
+[64] |
+
+Mise en demeure et sanctions relatives à l'affirmation dans une publicité qu'un produit ou service est neutre en carbone |
+
+Code de l'environnement
+
+Article R. 229-110 |
+
+Ministre chargé de l'environnement |
+
+[65] |
+
+Mise en demeure et sanctions relatives aux obligations de déclaration sur la plateforme numérique prévue par l'article L. 229-67 du code de l'environnement |
+
+Code de l'environnement article R. 229-127 |
+
+Ministre chargé de l'environnement |
 
 |
 
@@ -2608,11 +2624,13 @@ Ministre chargé du logement |
 
 19 |
 
-(Supprimée) |
+Décision d'attribution prise par le ministre chargé de l'urbanisme en vue de la cession au gré à gré des immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère chargé de l'urbanisme. |
 
-(Supprimée) |
+Code général de la propriété des personnes publiques
 
-(Supprimée) |
+Article R. 3211-28. |
+
+Ministre chargé de l'urbanisme |
 
 20 |
 
@@ -2816,4 +2834,8 @@ Décisions relatives aux personnes morales placées sous la tutelle ou le contr�
 
 NOTA :
 
-Conformément à l’article 3 du décret n° 2022-797 du 11 mai 2022, ces dispositions entrent en vigueur le 1er juin 2022.
+Conformément aux articles 13 et 14 du décret n° 2021-713 du 3 juin 2021, ces dispositions entrent en vigueur à la date prévue par leurs arrêtés d'application et, au plus tard, le 1er janvier 2023, sous réserve des dispositions transitoires prévues par le titre III du décret précité. Ces dispositions s'appliquent aux déclarations comptables relatives aux opérations physiques qui sont réalisées sur des matières nucléaires à partir du 1er janvier 2023.
+
+Conformément à l’article 3 du décret n° 2022-538 du 13 avril 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Conformément à l'article 3 du décret n° 2022-1377 du 29 octobre 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.
