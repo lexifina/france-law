@@ -30,9 +30,7 @@ Code de l'environnement-Article R. 542-59 et R. 542-60 |
 
 Demande d'autorisation pour les activités de pêche de navires étrangers dans les eaux sous souveraineté ou juridiction françaises-pêche maritime et aquaculture |
 
-Code rural et de la pêche maritime-Article L. 921-9
-
-|
+Code rural et de la pêche maritime-Article L. 921-9 |
 
 2. Pour motif de défense et sécurité nationale
 
@@ -50,23 +48,19 @@ Dérogation Défense dans le cadre des biocides |
 
 Code de l'environnement-Article L. 522-1 et R. 522-1 |
 
-Accords d'exécution des transports de matières nucléaires |
+Accords d'exécution des transports de matières nucléaires (non affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion) |
 
-Code de la défense-Article R. 1333-17-VI |
+Code de la défense-Article R. 1333-17 |
 
-Autorisation d'importation, d'exportation, d'élaboration, de détention, de transfert d'utilisation et de transport de matières nucléaires |
+Autorisation d'activités associées à des matières nucléaires |
 
 Code de la défense-Articles R. 1333-3 à R. 1333-10 |
 
-Accords d'exécution de transports pour les catégories de matières nucléaires (non affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion de catégories I et II) |
+Agréments de véhicules de transport des matières nucléaires |
 
-Code de la défense-Article R. 1333-17 |
+Code de la défense-Article R. 1333-18 |
 
-Agréments de véhicules de transport des matières nucléaires de catégories I et II |
-
-Code de la défense-Article R. 1333-17 |
-
-Conventionnement des sites d'étape pour les transports routiers de matières nucléaires civiles des catégories I et II |
+Conventionnement des sites d'étape pour les transports routiers de matières nucléaires civiles |
 
 Code de la défense-Article R. 1333-18
 
@@ -74,7 +68,7 @@ Arrêté du 26 décembre 2012 relatif aux conditions des sites d'étape pour ces
 
 Approbation des protocoles portant sur les mouvements de plutonium ou d'uranium enrichi à 20 % ou plus en uranium 235 |
 
-Code de la défense-Article R. 1333-11
+Code de la défense- articles R. 1333-11 et R. 1333-13
 
 Arrêté du 9 juin 2011 |
 
@@ -134,15 +128,11 @@ Décrets n° 2004-250 du 19 mars 2004 relatif à l'autorisation de fourniture de
 
 Autorisation d'exploiter une installation de production électrique |
 
-Code de l'énergie-Article L. 311-1
-
-|
+Code de l'énergie-Article L. 311-1 |
 
 Transfert des autorisations d'exploiter une installation de production électrique |
 
-Code de l'énergie-Article L. 311-5
-
-|
+Code de l'énergie-Article L. 311-5 |
 
 Agrément des réseaux de contrôle technique de véhicules |
 
@@ -216,9 +206,7 @@ Arrêté du 23 juillet 2012 modifié (article 11) |
 
 Demande d'approbation du règlement de sécurité de l'exploitation des voies ferrées portuaires-sécurité ferroviaire |
 
-Code des transports-Article R. 5352-3
-
-|
+Code des transports-Article R. 5352-3 |
 
 Demande de circulation exceptionnelle-sécurité ferroviaire |
 
@@ -298,9 +286,7 @@ Demande d'autorisation de construction, d'exploitation, de modification, d'exten
 
 Code de l'environnement-Articles L. 555-1 et L. 555-3
 
-Articles R. 555-2 et R. 555-24
-
-|
+Articles R. 555-2 et R. 555-24 |
 
 Demandes d'autorisations environnementales de construction, de réalisation, d'exploitation, de modification et de transfert d'activités, installations, ouvrages et travaux et de projets relevant de l'article L. 122-1-1 du code de l'environnement |
 
@@ -336,4 +322,4 @@ Articles L. 121-19, R. 121-26 et R. 121-28 |
 
 NOTA :
 
-Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves d'entrée en vigueur.
+Conformément aux articles 13 et 14 du décret n° 2021-713 du 3 juin 2021, ces dispositions entrent en vigueur à la date prévue par leurs arrêtés d'application et, au plus tard, le 1er janvier 2023, sous réserve des dispositions transitoires prévues par le titre III du décret précité. Ces dispositions s'appliquent aux déclarations comptables relatives aux opérations physiques qui sont réalisées sur des matières nucléaires à partir du 1er janvier 2023.
