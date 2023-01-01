@@ -1,5 +1,9 @@
 # Article 40 bis
 
-Lorsqu'une chambre ou un conseil, siégeant ou non en comité mixte ne peut, par suite de vacances auxquelles il n'a pas été pourvu dans les formes et délais réglementaires, prendre faute de quorum, des délibérations valables, le premier président, à la requête du procureur général, transfère les attributions desdits organismes, ainsi qu'il est dit à l'article 43 de l'ordonnance du 28 juin 1945. Il est alors fait application des règles posées aux articles 43 (alinéas 2 et suivants) et 44 de ladite ordonnance.
+Lorsqu'une chambre ou un conseil, siégeant ou non en comité mixte ne peut, par suite de vacances auxquelles il n'a pas été pourvu dans les formes et délais réglementaires, prendre faute de quorum, des délibérations valables, le premier président, à la requête du procureur général, transfère les attributions desdits organismes, conformément au second alinéa de l'article 6-6 de l'ordonnance du 2 novembre 1945 susvisée.
 
 Le corps électoral est convoqué à l'époque fixée pour les élections normales subséquentes afin de pourvoir à toutes les vacances existant au jour desdites élections.
+
+NOTA :
+
+Conformément au I de l’article 12 du décret n° 2022-1743 du 29 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023. Se reporter aux modalités d’application prévues audit article.
