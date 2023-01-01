@@ -150,7 +150,7 @@ Par conséquent, les tarifs applicables à ces anciens salariés :
 
 Conformément aux dispositions de l'article L. 862-4 du code de la sécurité sociale, les cotisations ne sont pas fixées en fonction de l'état de santé des bénéficiaires du régime.
 
-La cotisation mensuelle s'élève à 44 euros pour les salariés relevant du régime général de sécurité sociale et à 26,40 euros pour les salariés relevant du régime local d'Alsace-Moselle. Elle est prise pour moitié par l'employeur et pour moitié par le salarié.
+La cotisation mensuelle s'élève à 49 euros pour les salariés relevant du régime général de sécurité sociale et à 29,40 euros pour les salariés relevant du régime local d'Alsace-Moselle. Elle est prise pour moitié par l'employeur et pour moitié par le salarié.
 
 6.   Règlement des prestations
 
@@ -194,7 +194,7 @@ Ont la qualité d'ayant droit au titre des présentes dispositions le conjoint o
 
 7.3.   Couverture santé des anciens salariés
 
-Les partenaires sociaux considèrent que la solidarité doit non seulement être professionnelle mais également intergénérationnelle et entendent favoriser l'accès des retraités à une couverture santé. Dans cette perspective, l'employeur souscrit un contrat d'assurance prévoyant qu'à l'expiration de la période de 3 ans visée par le décret n° 90-769 du 30 août 1990, l'organisme assureur propose, aux anciens salariés retraités, un contrat prévoyant des garanties identiques à celles en vigueur pour les salariés. Le souscripteur organise chaque année avec l'assureur l'affectation des résultats bénéficiaires des actifs de manière à obtenir un lissage de la cotisation des anciens salariés retraités dans l'objectif de limiter la cotisation appelée auprès de ces derniers à 200 % de celle des actifs.
+Les partenaires sociaux considèrent que la solidarité doit non seulement être professionnelle mais également intergénérationnelle et entendent favoriser l'accès des retraités à une couverture santé. Dans cette perspective, l'employeur souscrit un contrat d'assurance prévoyant qu'à l'expiration de la période de 3 ans visée par le décret n° 90-769 du 30 août 1990, l'organisme assureur propose, aux anciens salariés retraités, un contrat prévoyant des garanties identiques à celles en vigueur pour les salariés. Le souscripteur organisme chaque année avec l'assureur l'affectation des résultats bénéficiaires des actifs de manière à obtenir un lissage de la cotisation des anciens salariés retraités dans l'objectif de limiter la cotisation appelée auprès de ces derniers à 300 % de celle des actifs.
 
 7.4.   Fonds de solidarité
 
