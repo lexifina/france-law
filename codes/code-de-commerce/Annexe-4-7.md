@@ -484,7 +484,7 @@ Prestations relatives au registre
 
 des bénéficiaires effectifs |
 
-Déclaration relative au bénéficiaire effectif mentionné au deuxième alinéa de l'article L. 561-46 du code monétaire et financier, lors de la demande d'immatriculation à un registre de publicité légale ou au plus tard dans les quinze jours à compter de la délivrance du récépissé de dépôt de dossier de création d'entreprise |
+Déclaration relative au bénéficiaire effectif mentionné au deuxième alinéa de l'article L. 561-46 du code monétaire et financier, lors de la demande d'immatriculation à un registre de publicité légale |
 
 84-2 |
 
@@ -940,7 +940,7 @@ Signification au débiteur, à la société et aux autres créanciers opposants,
 
 Mesures d'expulsion |
 
-Signification au débiteur ou au créancier saisissant du procès-verbal d'expulsion, prévue aux articles R. 432-2et R. 433-7du code des procédures civiles d'exécution |
+Signification au débiteur ou au créancier saisissant du procès-verbal d'expulsion, prévue aux articles R. 432-2 et R. 433-7 du code des procédures civiles d'exécution |
 
 19 |
 
@@ -996,7 +996,7 @@ Signification au tiers détenteur de l'acte de conversion en saisie-vente de la 
 
 28 |
 
-Dénonciation au créancier premier saisissant de la saisie conservatoire de meubles, prévue aux articles R. 522-11et R. 522-12du code des procédures civiles d'exécution |
+Dénonciation au créancier premier saisissant de la saisie conservatoire de meubles, prévue aux articles R. 522-11 et R. 522-12 du code des procédures civiles d'exécution |
 
 29 |
 
@@ -1068,7 +1068,7 @@ Dénonciation au débiteur de la saisie-revendication entre les mains d'un tiers
 
 40 |
 
-Signification d'une proposition de redressement prévue aux articles L. 57et L. 76du livre des procédures fiscales |
+Signification d'une proposition de redressement prévue aux articles L. 57 et L. 76 du livre des procédures fiscales |
 
 41 |
 
@@ -1100,7 +1100,7 @@ Commandement de payer les loyers et les charges, prévu à l'article 24 de la lo
 
 Charges de copropriété |
 
-Commandement de payer les charges de copropriété, prévu à l'article 19 de la loi n° 65-557 du 10 juillet 1965fixant le statut de la copropriété des immeubles bâtis |
+Commandement de payer les charges de copropriété, prévu à l'article 19 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis |
 
 46 |
 
@@ -1286,7 +1286,7 @@ et aéronefs
 
 |
 
-Acte de saisie, prévu aux articles L. 123-2et R. 123-9du code de l'aviation civile, aux articles L. 5114-22 à L. 5114-25, et L. 5114-27 à L. 5114-29du code des transports, et aux articles 30,32 à 35,37 à 39,42,43,45 à 47,50, et 52 à 58 décret n° 67-967 du 27 octobre 1967 relatif au statut des navires et autres bâtiments de mer |
+Acte de saisie, prévu aux articles L. 123-2 et R. 123-9 du code de l'aviation civile, aux articles L. 5114-22 à L. 5114-25, et L. 5114-27 à L. 5114-29 du code des transports, et aux articles 30,32 à 35,37 à 39,42,43,45 à 47,50, et 52 à 58 décret n° 67-967 du 27 octobre 1967 relatif au statut des navires et autres bâtiments de mer |
 
 69 |
 
@@ -1300,7 +1300,7 @@ Acte de saisie-contrefaçon, prévu aux articles L. 521-1, L. 615-5, L. 716-4-6 
 
 Saisie immobilière |
 
-Commandement de payer valant saisie, prévu aux articles R. 321-1et R. 321-5du code des procédures civiles d'exécution |
+Commandement de payer valant saisie, prévu aux articles R. 321-1 et R. 321-5 du code des procédures civiles d'exécution |
 
 71 |
 
@@ -1320,7 +1320,7 @@ Saisie des fruits prévue à l'article R. 321-18 du code des procédures civiles
 
 Oppositions |
 
-Opposition au paiement du prix de cession d'un lot de copropriété, prévue à l'article 20 de la loi n° 65-557 du 10 juillet 1965fixant le statut de la copropriété des immeubles bâtis |
+Opposition au paiement du prix de cession d'un lot de copropriété, prévue à l'article 20 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis |
 
 75 |
 
@@ -1370,7 +1370,7 @@ du véhicule
 
 |
 
-Dénonciation au débiteur du procès-verbal d'immobilisation du véhicule avec injonction, prévue aux articles R. 223-12et R. 223-13du code des procédures civiles d'exécution |
+Dénonciation au débiteur du procès-verbal d'immobilisation du véhicule avec injonction, prévue aux articles R. 223-12 et R. 223-13 du code des procédures civiles d'exécution |
 
 82 |
 
@@ -1454,11 +1454,11 @@ Mise en vente forcée des biens saisis |
 
 Saisie-vente |
 
-Certification d'accomplissement des formalités de publicité de vente, prévue aux articles R. 221-34et R. 221-60du code des procédures civiles d'exécution |
+Certification d'accomplissement des formalités de publicité de vente, prévue aux articles R. 221-34 et R. 221-60 du code des procédures civiles d'exécution |
 
 94 |
 
-Acte de vérification et d'enlèvement, prévu aux articles L. 221-3, R. 221-36et R. 522-8du code des procédures civiles d'exécution |
+Acte de vérification et d'enlèvement, prévu aux articles L. 221-3, R. 221-36 et R. 522-8 du code des procédures civiles d'exécution |
 
 95 |
 
@@ -1468,13 +1468,13 @@ dans un coffre-fort.
 
 |
 
-Acte d'inventaire et d'enlèvement des biens placés dans un coffre-fort, prévu aux articles R. 224-5et R. 224-7du code des procédures civiles d'exécution |
+Acte d'inventaire et d'enlèvement des biens placés dans un coffre-fort, prévu aux articles R. 224-5 et R. 224-7 du code des procédures civiles d'exécution |
 
 96 |
 
 Saisie immobilière |
 
-Procès-verbal d'apposition d'avis, prévu aux articles R. 322-32et R. 322-33du code des procédures civiles d'exécution |
+Procès-verbal d'apposition d'avis, prévu aux articles R. 322-32 et R. 322-33 du code des procédures civiles d'exécution |
 
 97 |
 
@@ -1578,7 +1578,7 @@ Congés et les demandes de renouvellement de bail commercial, prévus aux articl
 
 |
 
-Congés et les offres de renouvellement de bail rural, prévus à l'article 1775 du code civilet à la section 8 du chapitre Ier du Titre Ier du Livre IV du code rural et de la pêche maritime
+Congés et les offres de renouvellement de bail rural, prévus à l'article 1775 du code civil et à la section 8 du chapitre Ier du Titre Ier du Livre IV du code rural et de la pêche maritime
 
 |
 
@@ -1596,7 +1596,7 @@ Constatation de l'abandon du local d'habitation avec inventaire des meubles lais
 
 Constats |
 
-Établissement par l'huissier d'un état des lieux à frais partagés entre le bailleur et le locataire, prévu à l'article 3-2 de la loi n° 89-462 du 6 juillet 1989tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 |
+Établissement par l'huissier d'un état des lieux à frais partagés entre le bailleur et le locataire, prévu à l'article 3-2 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 |
 
 113 |
 
@@ -1866,7 +1866,7 @@ Recherche des informations |
 
 |
 
-Requête aux fins de recherche des informations, prévue aux articles L. 152-1et L. 152-2du code des procédures civiles d'exécution |
+Requête aux fins de recherche des informations, prévue aux articles L. 152-1 et L. 152-2 du code des procédures civiles d'exécution |
 
 152 |
 
@@ -1918,7 +1918,7 @@ Incidents et difficultés d'exécution |
 
 |
 
-Saisine du juge de l'exécution sur la difficulté d'exécution, prévue aux articles R. 151-2, R. 221-53et R. 442-1du code des procédures civiles d'exécution |
+Saisine du juge de l'exécution sur la difficulté d'exécution, prévue aux articles R. 151-2, R. 221-53 et R. 442-1 du code des procédures civiles d'exécution |
 
 159 |
 
@@ -2054,7 +2054,7 @@ Expulsion |
 
 |
 
-Notification au représentant de l'Etat de l'assignation aux fins de constat de la résiliation, prévue à l'article 24 de la loi n° 89-462 du 6 juillet 1989tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 |
+Notification au représentant de l'Etat de l'assignation aux fins de constat de la résiliation, prévue à l'article 24 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 |
 
 179 |
 
@@ -2072,7 +2072,7 @@ Notification à la personne expulsée de la mise sous enveloppe scellée des pap
 
 182 |
 
-Notification du procès-verbal d'expulsion au percepteur, prévue aux articles 1686et 1687du code général des impôts. |
+Notification du procès-verbal d'expulsion au percepteur, prévue aux articles 1686 et 1687 du code général des impôts. |
 
 183 |
 
@@ -2120,7 +2120,7 @@ ou de faire
 
 |
 
-Requête aux fins d'injonction de payer ou de faire, prévue aux articles 1407et 1425-1du code de procédure civile |
+Requête aux fins d'injonction de payer ou de faire, prévue aux articles 1407 et 1425-1 du code de procédure civile |
 
 189 |
 
@@ -2164,7 +2164,7 @@ Réquisitions d'état civil |
 
 196 |
 
-Appels de cause, prévus à l'article 11 du décret n° 56-222 du 29 février 1956pris pour l'application de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice |
+Appels de cause, prévus à l'article 11 du décret n° 56-222 du 29 février 1956 pris pour l'application de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice |
 
 197 |
 
@@ -2172,7 +2172,7 @@ Appels de cause, prévus à l'article 11 du décret n° 56-222 du 29 février 19
 
 |
 
-Actes du palais, prévus à l'article 11 du décret mentionné au 196, et aux articles 671et 982du code de procédure civile |
+Actes du palais, prévus à l'article 11 du décret mentionné au 196, et aux articles 671 et 982 du code de procédure civile |
 
 198 |
 
@@ -2188,15 +2188,15 @@ Paiement direct des pensions alimentaires |
 
 |
 
-Demande de paiement direct, prévue aux articles L. 213-5et R. 213-7du code des procédures civiles d'exécution |
+Demande de paiement direct, prévue aux articles L. 213-5 et R. 213-7 du code des procédures civiles d'exécution |
 
 200 |
 
-Demande de paiement direct faute d'accord entre les parties, prévue aux articles L. 213-5et R. 213-7du code des procédures civiles d'exécution |
+Demande de paiement direct faute d'accord entre les parties, prévue aux articles L. 213-5 et R. 213-7 du code des procédures civiles d'exécution |
 
 201 |
 
-Notification de la modification ou de la mainlevée de la demande, prévue aux articles L. 213-5et R. 213-7du code des procédures civiles d'exécution |
+Notification de la modification ou de la mainlevée de la demande, prévue aux articles L. 213-5 et R. 213-7 du code des procédures civiles d'exécution |
 
 202 |
 
@@ -2540,7 +2540,7 @@ Déclaration d'emploi par acte séparé |
 
 30 |
 
-Constitution de pension alimentaire et rente indexée en vertu des articles 205et 373-2-3du code civil |
+Constitution de pension alimentaire et rente indexée en vertu des articles 205 et 373-2-3 du code civil |
 
 31 |
 
@@ -2712,7 +2712,7 @@ Ventes, cessions à titre gratuit ou apports de terrains à bâtir, équipés ou
 
 66 |
 
-Conclusion du contrat initial de location-accession régie par la loi n° 84-595 du 12 juillet 1984définissant la location-accession à la propriété immobilière |
+Conclusion du contrat initial de location-accession régie par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière |
 
 67 |
 
@@ -2822,7 +2822,7 @@ Actes relatifs principalement au patrimoine et la propriété de l'activité éc
 
 |
 
-Convention d'indivision mentionnée aux articles 815-1et 1873-1 à 1873-18du code civil |
+Convention d'indivision mentionnée aux articles 815-1 et 1873-1 à 1873-18 du code civil |
 
 90 |
 
@@ -3066,7 +3066,7 @@ Révocation de la renonciation mentionnée au numéro 140, prévue à la quatri�
 
 142 |
 
-Endossement de copie exécutoire à ordre mentionnée dans la loi n° 76-519 du 15 juin 1976relative à certaines formes de transmission des créances sans négociation |
+Endossement de copie exécutoire à ordre mentionnée dans la loi n° 76-519 du 15 juin 1976 relative à certaines formes de transmission des créances sans négociation |
 
 143 |
 
@@ -3286,7 +3286,7 @@ Vérification auprès du casier judiciaire de la situation pénale de l'acquére
 
 182 |
 
-Vérification du respect des dispositions de l'article L. 711-2 du code de la construction et de l'habitationdans le cadre de l'élaboration de l'acte authentique mentionné au premier alinéa de l'article L. 711-5 du même code |
+Vérification du respect des dispositions de l'article L. 711-2 du code de la construction et de l'habitation dans le cadre de l'élaboration de l'acte authentique mentionné au premier alinéa de l'article L. 711-5 du même code |
 
 183 |
 
@@ -3342,7 +3342,7 @@ Forfait pour les actes destinés à être publiés au fichier immobilier, compre
 
 195 |
 
-Transmission au Conseil supérieur du notariat des informations relatives aux mutations d'immeubles à titre onéreux nécessaires à l'exercice de la mission de service public prévue à l'article 6-1 de l'ordonnance n° 45-2590 du 2 novembre 1945relative au statut du notariat |
+Transmission au Conseil supérieur du notariat des informations relatives aux mutations d'immeubles à titre onéreux nécessaires à l'exercice de la mission de service public prévue à l'article 6-1 de l'ordonnance n° 45-2590 du 2 novembre 1945 relative au statut du notariat |
 
 196 |
 
@@ -4034,7 +4034,7 @@ Réquisitions et demandes de renseignements sur l'immeuble saisi |
 
 7 |
 
-Rédaction du bordereau de publication et éventuellement du bordereau rectificatif, en application des articles R. 321-6et R. 321-7du code des procédures civiles d'exécution |
+Rédaction du bordereau de publication et éventuellement du bordereau rectificatif, en application des articles R. 321-6 et R. 321-7 du code des procédures civiles d'exécution |
 
 8 |
 
@@ -4068,7 +4068,7 @@ Rédaction du cahier des conditions de la vente ou du cahier des charges |
 
 14 |
 
-Dépôt au greffe du cahier des conditions de la vente ou du cahier des charges, de la copie de l'assignation et du procès-verbal de descriptif de l'immeuble saisi, en application des articles R. 322-10et R. 322-11du code des procédures civiles d'exécution |
+Dépôt au greffe du cahier des conditions de la vente ou du cahier des charges, de la copie de l'assignation et du procès-verbal de descriptif de l'immeuble saisi, en application des articles R. 322-10 et R. 322-11 du code des procédures civiles d'exécution |
 
 15 |
 
@@ -4106,7 +4106,7 @@ Lettre en recommandé avec accusé de réception au locataire ou, si l'immeuble 
 
 23 |
 
-Rédaction d'une notification aux fins de purge des droits de préemption et de substitution, en application de l'article 10 de la loi n° 75-1351 du 31 décembre 1975relative à la protection des occupants de locaux à usage d'habitation |
+Rédaction d'une notification aux fins de purge des droits de préemption et de substitution, en application de l'article 10 de la loi n° 75-1351 du 31 décembre 1975 relative à la protection des occupants de locaux à usage d'habitation |
 
 24 |
 
@@ -4166,7 +4166,7 @@ Notification de la demande de la déclaration actualisée des créances, en appl
 
 34 |
 
-Notification du projet de distribution du prix aux créanciers, en application des articles R. 332-4et R. 332-5du code des procédures civiles d'exécution |
+Notification du projet de distribution du prix aux créanciers, en application des articles R. 332-4 et R. 332-5 du code des procédures civiles d'exécution |
 
 35 |
 
@@ -4210,7 +4210,9 @@ Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire avec
 
 42 |
 
-Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire ou légale sans demande d'obtention d'un titre exécutoire en application de l'article R. 531-1 du code des procédures civiles d'exécutionou en application de l'article 2401 du code civil |
+Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire ou légale sans demande d'obtention d'un titre exécutoire en application de l'article R. 531-1 du code des procédures civiles d'exécution ou en application de l'article 2401 du code civil
+
+|
 
 43 |
 
@@ -4244,4 +4246,4 @@ Actes et formalités de procédure réalisés en matière d'incidents (incidents
 
 NOTA :
 
-Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
