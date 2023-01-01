@@ -34,7 +34,7 @@ dans le milieu naturel
 
 2.1.1. Description du contexte géologique et hydrogéologique.
 
-2.1.2. Informations permettant d'évaluer la qualité de la ressource utilisée. L'évaluation de la vulnérabilité de la ressource, notamment en fonction des conditions de la protection naturelle, de la nature de la ressource, des caractéristiques des formations de recouvrement, du mode d'écoulement des eaux, de la nature géologique et pédologique du bassin versant, des échanges entre réservoirs aquifères de surface et souterrain.
+2.1.2. Informations permettant d'évaluer la qualité de la ressource utilisée ainsi que sa vulnérabilité,, notamment en fonction des conditions de la protection naturelle, de la nature de la ressource, des caractéristiques des formations de recouvrement, du mode d'écoulement des eaux, de la nature géologique et pédologique du bassin versant, des échanges entre réservoirs aquifères de surface et souterrain.
 
 2.1.3. Caractérisation des dangers susceptibles d'altérer la qualité de l'eau, en dressant l'inventaire des sources de pollution potentielles de la ressource en eau et une hiérarchisation des risques à prendre en considération dans la protection des points d'eau et notamment les installations présentant une activité à risque, les installations classées, d'élevage, d'assainissement et les rejets d'effluents, le lieu de stockage de produits polluants ou dangereux, de déchets, les modes d'occupation des sols ainsi que, le cas échéant, les éléments sur le fonctionnement et les matières potentiellement polluantes utilisées dans ces installations actualisés à la date de la demande.
 
@@ -50,7 +50,7 @@ dans le milieu naturel
 
 2.2.2. Description des travaux de forage : débit sollicité et la coupe hydrogéologique ainsi que les résultats des pompages d'essai.
 
-2.2.3. Pour les eaux rendues potables par traitement d'origine superficielle, l'indication du débit du cours d'eau sur douze mois.
+2.2.3. Pour les eaux rendues potables par traitement d'origine superficielle, l'indication du débit du cours d'eau sur douze mois consécutifs.
 
 2.2.4. Justification des démarches engagées ou abouties au titre de la police de l'eau (art. L. 214-1 du code de l'environnement).
 
@@ -130,6 +130,10 @@ DE L'EAU CONDITIONNÉE
 
 Deux analyses représentatives de deux situations saisonnières différentes sur le plan quantitatif.
 
+Vous pouvez consulter le tableau dans le JO
+
+n° 158 du 10/07/2007 texte numéro 16
+
 5.2. Eau rendue potable par traitement d'origine superficielle :
 
 Les deux analyses prévues au point 5.1 sont complétées par la recherche des paramètres suivants :
@@ -149,3 +153,7 @@ Les analyses des paramètres mentionnés au point 5.1, effectuées sur des écha
 - chlorates ;
 
 - iodates.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 30 décembre 2022 (NOR : SPRP2222070A), ces dispositions entrent en vigueur le 1er janvier 2023.
