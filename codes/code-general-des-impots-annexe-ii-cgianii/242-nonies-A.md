@@ -12,6 +12,8 @@ I. – Les mentions obligatoires qui doivent figurer sur les factures en applica
 
 5° Lorsque le redevable de la taxe est un représentant fiscal au sens de l'article 289 A du code précité, le numéro individuel d'identification attribué à ce représentant fiscal en application de l'article 286 ter du même code, ainsi que son nom complet et son adresse ;
 
+5° bis Lorsque la livraison de biens ou la prestation de services est effectuée par le membre d'un assujetti unique constitué en application de l'article 256 C du code général des impôts, la mention “Membre d'un assujetti unique” ainsi que le nom, l'adresse et le numéro individuel d'identification à la taxe sur la valeur ajoutée de ce membre ;
+
 6° Sa date d'émission ;
 
 7° Un numéro unique basé sur une séquence chronologique et continue ; la numérotation peut être établie dans ces conditions par séries distinctes lorsque les conditions d'exercice de l'activité de l'assujetti le justifient ; l'assujetti doit faire des séries distinctes un usage conforme à leur justification initiale ;
@@ -55,6 +57,8 @@ b) Aux livraisons de biens exonérées en application du I de l'article 262 ter 
 c) Aux livraisons de biens et prestations de services visées au 1° du II de l'article 289-0 du code précité pour lesquelles, toutefois, la facture peut ne pas comporter les mentions visées au 9° du I du présent article, le prix unitaire hors taxe, le taux de la taxe applicable et son montant.
 
 NOTA :
+
+Conformément à l'article 3 du décret n° 2022-1033 du 20 juillet 2022, ces dispositions entrent en vigueur après consultation du comité consultatif de la taxe sur la valeur ajoutée mentionné à l'article 398 de la directive 2006/112/CE du Conseil du 28 novembre 2006 et, au plus tôt, le 1er janvier 2023.
 
 Conformément à l'article 3 du décret n° 2022-1299 du 7 octobre 2022, dans sa rédaction issue de l'article 2 du décret n° 2024-266 du 25 mars 2024 :
 
