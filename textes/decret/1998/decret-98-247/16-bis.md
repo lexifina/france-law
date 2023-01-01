@@ -1,6 +1,6 @@
 # Article 16 bis
 
-I.-Lorsqu'il en est rendu destinataire par le président du tribunal, le président de la chambre procède d'office à la mention au répertoire des métiers des décisions intervenues dans les procédures de sauvegarde ou de redressement judiciaire ou de liquidation judiciaire des entreprises et ouvertes à compter du 1er janvier 2006 :
+I.-Lorsqu'il en est rendu destinataire par l'organisme unique mentionné à l'article R. 123-1 du code de commerce, le président de la chambre procède d'office à la mention au répertoire des métiers des décisions intervenues dans les procédures de sauvegarde ou de redressement judiciaire ou de liquidation judiciaire des entreprises et ouvertes à compter du 1er janvier 2006 :
 
 1° Ouvrant la procédure de sauvegarde ou de redressement judiciaire avec l'indication du nom des mandataires de justice désignés et, le cas échéant, des pouvoirs conférés à l'administrateur ;
 
@@ -71,3 +71,7 @@ III.-Sont radiées d'office les mentions relatives aux décisions mentionnées a
 5° Le plan de redressement est toujours en cours à l'expiration d'un délai de cinq ans à compter de son arrêté.
 
 Les radiations prévues aux 4° et 5° font obstacle à toute nouvelle mention intéressant l'exécution du plan de sauvegarde ou de redressement, sauf si celle-ci est relative à une mesure d'inaliénabilité décidée par le tribunal ou à une décision prononçant la résolution du plan.
+
+NOTA :
+
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
