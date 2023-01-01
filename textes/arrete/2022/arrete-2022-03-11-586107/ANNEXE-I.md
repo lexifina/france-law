@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-LISTE DES ESPACES NATURELS PROTÉGÉS CONCERNÉS, DES BUREAUX DE DOUANE CHARGÉS DE RECEVOIR LA DÉCLARATION ET DES POSTES COMPTABLES DES DOUANES CHARGÉS DE LA PERCEPTION DE LA TAXE SUR LES PASSAGERS MARITIMES PRÉVUE PAR L'ARTICLE 285 QUATER DU CODE DES DOUANES
+LISTE DES ESPACES NATURELS PROTÉGÉS CONCERNÉS, DES BUREAUX DE DOUANE CHARGÉS DE RECEVOIR LA DÉCLARATION ET DES POSTES COMPTABLES DES DOUANES CHARGÉS DE LA PERCEPTION DE LA TAXE SUR LE TRANSPORT MARITIME DE PASSAGERS À DESTINATION D'ESPACES NATURELS PROTÉGÉS PRÉVUE PAR LES ARTICLES L. 423-47 À L. 423-56 DU CODE DES IMPOSITIONS SUR LES BIENS ET SERVICES
 
 ESPACE NATUREL PROTÉGÉ |
 
@@ -18,17 +18,21 @@ Parc national de la Guadeloupe : Îlet pigeon, îlets du Grand Cul de Sac marin,
 
 Bureau de Pointe-à-Pitre port
 
-Immeuble Lysa Impasse André Ampère
+Immeuble Lysa
+
+Impasse André Ampère
 
 97196 Jarry |
 
-Guadeloupe RR
+Guadeloupe RR Immeuble Bougainvilliers
 
-Immeuble Bougainvilliers 32 Cité Guillard
+32 Cité Guillard
 
 97100 Basse-Terre |
 
-Parc national des Calanques (Bouches-du-Rhône) |
+Parc national des Calanques
+
+(Bouches-du-Rhône) |
 
 Bureau de Toulon-la-Seyne
 
@@ -46,9 +50,11 @@ Marseille RI
 
 Réserve naturelle nationale du Banc d'Arguin (Gironde) |
 
-Bureau de Bordeaux - Port de Bassens
+Bureau de Bordeaux-Port de Bassens
 
-5, rue Franklin - Bassens Cedex/BP 20078
+5, rue Franklin-Bassens
+
+Cedex/ BP 20078
 
 33563 Carbon Blanc |
 
@@ -62,7 +68,9 @@ CS 21895
 
 Réserve naturelle nationale des Bouches de Bonifacio (Corse-du-Sud) |
 
-Bureau d'Ajaccio Bd Sampiero
+Bureau d'Ajaccio
+
+Bd Sampiero
 
 BP 99
 
@@ -78,23 +86,35 @@ Réserve naturelle nationale de Saint-Martin (Guadeloupe) |
 
 Bureau de Pointe-à-Pitre port
 
-Immeuble Lysa Impasse André Ampère
+Immeuble Lysa
+
+Impasse André Ampère
 
 97196 Jarry |
 
 Guadeloupe RR
 
-Immeuble Bougainvilliers 32 Cité Guillard
+Immeuble Bougainvilliers
+
+32 Cité Guillard
 
 97100 Basse-Terre |
 
 Réserve naturelle nationale de la Désirade et le port de la désirade (Guadeloupe) |
 
-Bureau de Pointe-à-Pitre port Immeuble Lysa Impasse André Ampère 97196 Jarry |
+Bureau de Pointe-à-Pitre port
+
+Immeuble Lysa
+
+Impasse André Ampère
+
+97196 Jarry |
 
 Guadeloupe RR
 
-Immeuble Bougainvilliers 32 Cité Guillard
+Immeuble Bougainvilliers
+
+32 Cité Guillard
 
 97100 Basse-Terre |
 
@@ -116,7 +136,9 @@ Guyane RR
 
 Réserve naturelle nationale marine de Cerbère-Banyuls (Pyrénées Orientales) |
 
-Bureau de Perpignan Immeuble Le Carré
+Bureau de Perpignan
+
+Immeuble Le Carré
 
 3, avenue de Rome BP 5156
 
@@ -132,7 +154,9 @@ Cedex 02
 
 Réserve naturelle nationale marine de la Réunion (La Réunion) |
 
-Bureau de Saint Pierre 61, route de l'Entre-Deux
+Bureau de Saint Pierre
+
+61, route de l'Entre-Deux
 
 BP 70460
 
@@ -152,13 +176,13 @@ Sites classés de l'île de Bréhat et port de Bréhat (Côtes-d'Armor) |
 
 Bureau de Saint-Brieuc
 
-3, impasse des Longs-Réages
-
-22193 Plérin |
+3, impasse des Longs-Réages 22193 Plérin |
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
@@ -172,29 +196,33 @@ Bureau de Brest
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
 Sites classés de l'île d'Yeu (côte sauvage et bois de la Citadelle) (Vendée) |
 
-Bureau des Sables-d'Olonne
+Bureau de la Roche-sur-Yon
 
-11, rue Alain Gautier Parc Actilone
+ZA Bell, 43, rue Charles Bourseul
 
-BP 40378 CEDEX
-
-85108 LES SABLES D'OLONNE |
+BP 333 85008 La Roche-sur-Yon Cedex |
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
 Sites classés des îles de Lérins :
 
-îles Sainte-Marguerite et Saint-Honorat (Alpes-Maritimes) |
+îles Sainte-Marguerite et Saint-Honorat
+
+(Alpes-Maritimes) |
 
 Bureau de Cannes
 
@@ -206,7 +234,9 @@ CS 80047
 
 Marseille RI
 
-48, avenue Robert Schuman 13224 Marseille Cedex 2 |
+48, avenue Robert Schuman
+
+13224 Marseille Cedex 2 |
 
 Sites classés des îles Sanguinaires (Corse-du-Sud) |
 
@@ -220,19 +250,25 @@ BP 99
 
 Marseille RI
 
-48, avenue Robert Schuman 13224 Marseille Cedex 2 |
+48, avenue Robert Schuman
+
+13224 Marseille Cedex 2 |
 
 Sites classés du Pain de sucre et de la baie de Pompierre à Terre-de-Haut et port de Terre-de-Haut (archipel des Saintes à la Guadeloupe) |
 
 Bureau de Pointe-à-Pitre port
 
-Immeuble Lysa Impasse André Ampère
+Immeuble Lysa
+
+Impasse André Ampère
 
 97196 Jarry |
 
 Guadeloupe RR
 
-Immeuble Bougainvilliers 32 Cité Guillard
+Immeuble Bougainvilliers
+
+32 Cité Guillard
 
 97100 Basse-Terre |
 
@@ -240,13 +276,17 @@ Sites classés des falaises nord-est de Marie-Galante et les ports de Marie-Gala
 
 Bureau de Pointe-à-Pitre port
 
-Immeuble Lysa Impasse André Ampère
+Immeuble Lysa
+
+Impasse André Ampère
 
 97196 Jarry |
 
 Guadeloupe RR
 
-Immeuble Bougainvilliers 32 Cité Guillard
+Immeuble Bougainvilliers
+
+32 Cité Guillard
 
 97100 Basse-Terre |
 
@@ -254,7 +294,9 @@ Sites classés du Cap Oullestrell situés sur les communes de Banyuls-sur-mer et
 
 (Pyrénées Orientales) |
 
-Bureau de Perpignan Immeuble Le Carré
+Bureau de Perpignan
+
+Immeuble Le Carré
 
 3, avenue de Rome BP 5156
 
@@ -270,7 +312,9 @@ Cedex 02
 
 Sites classés du Cap de l'Abeille (Pyrénées Orientales) |
 
-Bureau de Perpignan Immeuble Le Carré
+Bureau de Perpignan
+
+Immeuble Le Carré
 
 3, avenue de Rome BP 5156
 
@@ -286,9 +330,11 @@ Cedex 02
 
 Sites classés de l'île aux oiseaux (Gironde) |
 
-Bureau de Bordeaux - Port de Bassens
+Bureau de Bordeaux-Port de Bassens
 
-5, rue Franklin - Bassens Cedex/BP 20078
+5, rue Franklin-Bassens
+
+Cedex/ BP 20078
 
 33563 Carbon Blanc |
 
@@ -304,13 +350,17 @@ CS 21895
 
 Ile d'Arz (Morbihan) |
 
-Bureau de Lorient 94, avenue de la Perrière
+Bureau de Lorient
+
+94, avenue de la Perrière
 
 56100 Lorient |
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
@@ -326,11 +376,9 @@ BP 81005
 
 Martinique RR
 
-Centre d'Affaires Agora bât. D ZAC Etang Z'abricot
+Centre d'Affaires Agora bât. D
 
-BP 81005 CEDEX
-
-97247 FORT DE FRANCE |
+ZAC Etang Z'abricot BP 81005 CEDEX 97247 FORT DE FRANCE |
 
 4. Terrains du Conservatoire de l'espace littoral et des rivages lacustres |
 
@@ -338,11 +386,15 @@ Ile Tatihou (Manche) |
 
 Bureau de Cherbourg
 
-1, quai du Général Lawton-Collins 50107 Cherbourg |
+1, quai du Général Lawton-Collins
+
+50107 Cherbourg |
 
 Le Havre RI
 
-195 chaussée du 24e territorial 76083 Le Havre |
+195 chaussée du 24e territorial
+
+76083 Le Havre |
 
 Ile-aux-Moines du golfe du Morbihan (Morbihan) |
 
@@ -354,13 +406,17 @@ Bureau de Lorient
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
 Désert des Agriates et plage du Loto (Haute-Corse) |
 
-Bureau d'Ajaccio Bd Sampiero
+Bureau d'Ajaccio
+
+Bd Sampiero
 
 BP 99
 
@@ -368,19 +424,25 @@ BP 99
 
 Marseille RI
 
-48, avenue Robert Schuman 13224 Marseille Cedex 2 |
+48, avenue Robert Schuman
+
+13224 Marseille Cedex 2 |
 
 Iles de Petite-Terre (Guadeloupe) |
 
 Bureau de Pointe-à-Pitre port
 
-Immeuble Lysa Impasse André Ampère
+Immeuble Lysa
+
+Impasse André Ampère
 
 97196 Jarry |
 
 Guadeloupe RR
 
-Immeuble Bougainvilliers 32 Cité Guillard
+Immeuble Bougainvilliers
+
+32 Cité Guillard
 
 97100 Basse-Terre |
 
@@ -412,7 +474,9 @@ CS 61821
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
@@ -428,7 +492,9 @@ BP 404
 
 Mayotte RR
 
-Zone portuaire Longoni BP 404
+Zone portuaire Longoni
+
+BP 404
 
 97600 Longoni |
 
@@ -444,13 +510,15 @@ CS 60020
 
 Bordeaux RI
 
-66 Rue Lafaurie De Monbadon CS 21895 Cedex
+66 Rue Lafaurie De Monbadon CS 21895
+
+Cedex
 
 33081 Bordeaux |
 
 5. Espaces naturels bénéficiant de plusieurs protections |
 
-Espaces terrestres et marins classés au titre de l'article L341-2 de Porto et de Girolata et territoires classés de la réserve naturelle de la presqu'île de Scandola (Corse-du-Sud) |
+Espaces terrestres et marins classés au titre de l'article L. 341-2 de Porto et de Girolata et territoires classés de la réserve naturelle de la presqu'île de Scandola (Corse-du-Sud) |
 
 Bureau d'Ajaccio
 
@@ -466,21 +534,21 @@ Marseille RI
 
 13224 Marseille Cedex 2 |
 
-Espaces terrestres et marins classés en réserve naturelle nationale des Sept-Iles et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île-aux- Moines (Côtes-d'Armor) |
+Espaces terrestres et marins classés en réserve naturelle nationale des Sept-Iles et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île-aux-Moines (Côtes-d'Armor) |
 
 Bureau de Saint-Brieuc
 
-3, impasse des Longs-Réages
-
-22193 Plérin |
+3, impasse des Longs-Réages 22193 Plérin |
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
-Espaces terrestres et marins classés au titre de l'article L341-2, territoires classés de la réserve naturelle d'Iroise situés dans l'archipel de Molène et port de Molène (Finistère) |
+Espaces terrestres et marins classés au titre de l'article L. 341-2, territoires classés de la réserve naturelle d'Iroise situés dans l'archipel de Molène et port de Molène (Finistère) |
 
 Bureau de Brest
 
@@ -490,11 +558,13 @@ Bureau de Brest
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
-Espaces terrestres et marins classés au titre de l'article L341-2 et territoires classés de la réserve naturelle nationale de Saint-Nicolas- de-Glénan situés sur l'archipel de Glénan, ainsi que le port de l'île de Saint-Nicolas (Finistère) |
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et territoires classés de la réserve naturelle nationale de Saint-Nicolas-de-Glénan situés sur l'archipel de Glénan, ainsi que le port de l'île de Saint-Nicolas (Finistère) |
 
 Bureau de Lorient
 
@@ -504,23 +574,29 @@ Bureau de Lorient
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
 Espaces terrestres et marins classés au titre de l'article L. 341-1 et terrains du Conservatoire de l'espace littoral et des rivages lacustres sur l'île de Batz (Finistère) |
 
-Bureau de Brest 14, quai de la Douane
+Bureau de Brest
+
+14, quai de la Douane
 
 29229 Brest |
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
-Espaces terrestres et marins classés au titre de l'article L341-2, territoires classés de la réserve naturelle nationale François-le-Bail, port Tudy, port Lay, port Mélite et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île de Groix (Morbihan) |
+Espaces terrestres et marins classés au titre de l'article L. 341-2, territoires classés de la réserve naturelle nationale François-le-Bail, port Tudy, port Lay, port Mélite et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île de Groix (Morbihan) |
 
 Bureau de Lorient
 
@@ -530,11 +606,13 @@ Bureau de Lorient
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
-Espaces terrestres et marins classés au titre de l'article L341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur Belle-Ile, ainsi que port du Palais et port de Sauzon (Morbihan) |
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur Belle-Ile, ainsi que port du Palais et port de Sauzon (Morbihan) |
 
 Bureau de Lorient
 
@@ -544,11 +622,13 @@ Bureau de Lorient
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
-Espaces terrestres et marins classés au titre de l'article L341-2, terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île d'Hoëdic, ainsi que le port de l'île d'Hoëdic (Morbihan) |
+Espaces terrestres et marins classés au titre de l'article L. 341-2, terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île d'Hoëdic, ainsi que le port de l'île d'Hoëdic (Morbihan) |
 
 Bureau de Lorient
 
@@ -558,11 +638,13 @@ Bureau de Lorient
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
-Espaces terrestres et marins classés au titre de l'article L341-2, terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île de Houat, ainsi que le port de Saint-Gildas (Morbihan) |
+Espaces terrestres et marins classés au titre de l'article L. 341-2, terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île de Houat, ainsi que le port de Saint-Gildas (Morbihan) |
 
 Bureau de Lorient
 
@@ -572,11 +654,13 @@ Bureau de Lorient
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
-Espaces terrestres classés au titre de l'article L341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'archipel de Chausey (Manche) |
+Espaces terrestres classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'archipel de Chausey (Manche) |
 
 Bureau de Cherbourg
 
@@ -586,9 +670,11 @@ Bureau de Cherbourg
 
 Le Havre RI
 
-195 chaussée du 24e territorial 76083 Le Havre |
+195 chaussée du 24e territorial
 
-Espaces terrestres et marins classés au titre de l'article L341-2, terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île d'Aix, ainsi que le port de la Rade (Charente-Maritime) |
+76083 Le Havre |
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2, terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île d'Aix, ainsi que le port de la Rade (Charente-Maritime) |
 
 Bureau de La Rochelle
 
@@ -598,15 +684,17 @@ Bureau de La Rochelle
 
 Bordeaux RI
 
-66 Rue Lafaurie De Monbadon CS 21895 Cedex
+66 Rue Lafaurie De Monbadon CS 21895
+
+Cedex
 
 33081 Bordeaux |
 
 Parc national de Port-Cros :
 
-- île de Port-Cros (dont le port de Port- Cros), île de Bagaud, île de la Gabinière, classés en cœur de parc national, ainsi que l'aire maritime adjacente (Var) ;
+-île de Port-Cros (dont le port de Port-Cros), île de Bagaud, île de la Gabinière, classés en cœur de parc national, ainsi que l'aire maritime adjacente (Var) ;
 
-- espaces terrestres et maritimes situés sur l'île de Porquerolles et classés en cœur de parc national, en aire maritime adjacente (dont le port de Porquerolles) et en site classé au titre de l'article L.341-2 du code de l'environnement (Var) |
+-espaces terrestres et maritimes situés sur l'île de Porquerolles et classés en cœur de parc national, en aire maritime adjacente (dont le port de Porquerolles) et en site classé au titre de l'article L. 341-2 du code de l'environnement (Var) |
 
 Bureau de Toulon-la-Seyne
 
@@ -620,9 +708,7 @@ Marseille RI
 
 13224 Marseille Cedex 2 |
 
-Espaces terrestres et marins classés au titre de l'article L341-1 et terrains du
-
-Conservatoire de l'espace littoral et des rivages lacustres situés sur les sites de Campumoru-Senesota (Corse-du-Sud) |
+Espaces terrestres et marins classés au titre de l'article L. 341-1 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur les sites de Campumoru-Senesota (Corse-du-Sud) |
 
 Bureau d'Ajaccio
 
@@ -638,9 +724,11 @@ Marseille RI
 
 13224 Marseille Cedex 2 |
 
-Sites de la pointe du Cap Corse (Haute- Corse) |
+Sites de la pointe du Cap Corse (Haute-Corse) |
 
-Bureau d'Ajaccio Bd Sampiero
+Bureau d'Ajaccio
+
+Bd Sampiero
 
 BP 99
 
@@ -648,36 +736,44 @@ BP 99
 
 Marseille RI
 
-48, avenue Robert Schuman 13224 Marseille Cedex 2 |
+48, avenue Robert Schuman
 
-Espaces terrestres et marins classés au titre de l'article L341-1 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur les sites de l'île d'Ouessant et port de Lampaul (Finistère) |
+13224 Marseille Cedex 2 |
 
-Bureau de Brest 14, quai de la Douane
+Espaces terrestres et marins classés au titre de l'article L. 341-1 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur les sites de l'île d'Ouessant et port de Lampaul (Finistère) |
+
+Bureau de Brest
+
+14, quai de la Douane
 
 29229 Brest |
 
 Nantes RI
 
-105, rue des français libres CS 46312
+105, rue des français libres
+
+CS 46312
 
 44263 Nantes |
 
-Espaces terrestres et marins classés au titre de l'article L341-1 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur les sites du Cap Béar et ses abords (Pyrénées Orientales) |
+Espaces terrestres et marins classés au titre de l'article L. 341-1 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur les sites du Cap Béar et ses abords (Pyrénées Orientales) |
 
 Bureau de Perpignan
 
-Immeuble Le Carré 3, avenue de Rome
+Immeuble Le Carré
 
-BP 5156
+3, avenue de Rome BP 5156
 
 66031 Perpignan Cedex |
 
 Montpellier RI
 
-1107 Avenue De Toulouse
-
-CS 70743
+1107 Avenue De Toulouse CS 70743
 
 Cedex 02
 
 34967 Montpellier |
+
+NOTA :
+
+Conformément aux dispositions de l’article 3 de l’arrêté du 7 octobre 2022 (NOR : ECOD2228905A), les dispositions suivantes entrent en vigueur le 1er janvier 2023.
