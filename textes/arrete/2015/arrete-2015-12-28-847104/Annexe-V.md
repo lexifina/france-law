@@ -2,31 +2,87 @@
 
 LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE DE LA CATÉGORIE V
 
-1° A la direction générale de la gendarmerie nationale, le chef du :
+1° A la direction générale de la gendarmerie nationale :
 
--bureau de l'action sociale, des blessés et du handicap
+-le chef du service d'exploitation et de soutien des télécommunications et de l'informatique
 
--bureau des équipements de proximité
+-Adjoint au chef du pôle des perspectives professionnelles
 
--bureau des équipements périphériques
+-Adjoint au chef du bureau :
 
--bureau des études d'organisation
+-des actes de gestion et des études
 
--bureau image
+-de l'action sociale, des blessés et du handicap
 
--bureau du pilotage des services
+-agorha des ressources humaines droits individuels
 
--bureau des référentiels métiers
+-agorha études et qualités
 
--bureau des salles de crise et de commandement
+-du budget et de la réglementation
 
--bureau de la santé et de la sécurité au travail
+-du contrôle opérationnel des fichiers
 
--bureau des utilisateurs et du pilotage
+-criminalité organisée et de la délinquance spécialisée
 
--service d'exploitation et de soutien des télécommunications et de l'informatique
+-de la délinquance générale
 
--Adjoint au chef du bureau suivi synthèse veille opérationnelle
+-des effectifs et des référentiels
+
+-des équipements de proximité
+
+-des équipements périphériques
+
+-des études d'organisation
+
+-de la formation
+
+-des généraux de la gendarmerie
+
+-image
+
+-de la lutte anti-terroriste
+
+-médias
+
+-de la mobilité et de la proximité numérique
+
+-de l'organisation
+
+-du pilotage des services
+
+-de la préparation et du pilotage de la masse salariale
+
+-de la prospective, de la programmation et du pilotage immobilier
+
+-prospective radiocommunication
+
+-des recours et de la protection fonctionnelle
+
+-du recrutement, des concours et des examens
+
+-des référentiels métiers
+
+-de la réglementation et de la fonction militaire
+
+-des ressources financières
+
+-des salles de crise et de commandement
+
+-de la santé et de la sécurité au travail
+
+-des utilisateurs et du pilotage
+
+-du suivi de la synthèse et de la veille opérationnelle
+
+-des systèmes d'aide à l'enquête
+
+-Au sein du commandement de la gendarmerie pour les réserves et la jeunesse :
+
+-chef du bureau de l'accompagnement et de la conformité
+
+-chef du bureau des réserves pour le numérique et le cyber
+
+-Chargé de mission au commandement de la gendarmerie pour les réserves et la jeunesse (1 emploi)
 
 -Au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, le chef du :
 
@@ -34,33 +90,23 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -bureau des marchés immobiliers et des moyens généraux
 
--Commandant du centre de production multimédia de la gendarmerie nationale
-
 -Chargé de projet au sein d'une sous-direction de la direction des opérations et de l'emploi (3 emplois)
 
 -Chargé de projet au sein d'une sous-direction de la direction des personnels militaires (3 emplois)
 
-2° A l'inspection générale de la gendarmerie nationale, le chef du :
+2° A l'inspection générale de la gendarmerie nationale :
 
--bureau de l'audit de la santé et la sécurité au travail
+-chef du bureau de l'audit de la santé et la sécurité au travail
 
--bureau de l'audit de la sécurité des systèmes d'information
-
--bureau des signalements et des réclamations
+-chef du bureau des signalements et des réclamations
 
 -chargé de projets auprès du chef de la division des signalements et de la déontologie (1 emploi)
 
-Chef de l'antenne déconcentrée de l'inspection générale de la gendarmerie nationale de :
+-Adjoint au chef de l'antenne déconcentrée de l'inspection générale de la gendarmerie nationale de :
 
--Lyon
+-Lyon (1 emploi)
 
--Marseille
-
--Rennes
-
--Metz
-
--Lille
+-Rennes (1 emploi)
 
 3° Gendarmerie départementale :
 
@@ -68,47 +114,205 @@ Chef de l'antenne déconcentrée de l'inspection générale de la gendarmerie na
 
 -Officier adjoint soutien finances d'une région de gendarmerie non zonale (6 emplois)
 
+-Chef d'un bureau de la gestion du personnel militaire d'une région de gendarmerie zonale (7 emplois)
+
 -Commandant d'un groupe interministériel de recherches
 
-Commandant de la section de recherches en second :
+-Commandant de la section de recherches en second de Bourges
 
--d'Ajaccio
+-Officier adjoint de police judiciaire du groupement de gendarmerie départementale :
 
--d'Amiens
+-de l'Ariège
 
--de Bordeaux
+-du Cantal
 
--de Dijon
+-de la Creuse
 
--de Lille-Villeneuve-d'Ascq
+-du Gers
 
--de Lyon
+-de la Haute-Loire
 
--de Marseille
+-de la Haute-Marne
 
--de Montpellier
+-des Hautes-Alpes
 
--d'Orléans
+-des Hautes-Pyrénées
 
--de Paris
+-de l'Indre
 
--de Reims
+-du Lot
 
--de Strasbourg
+-de la Lozère
 
--de Toulouse
+-de la Mayenne
 
--de Versailles
+-de la Meuse
 
--Chef des opérations de la région de gendarmerie de :
+-de Tarn-et-Garonne
 
--Bourgogne
+-du Territoire-de-Belfort
 
--Centre-Val de Loire
+-Officier adjoint commandement du groupement de gendarmerie départementale :
 
--Corse
+-du Cantal
 
--Normandie
+-de la Haute-Loire
+
+-de la Haute-Marne
+
+-de l'Indre
+
+-de la Mayenne
+
+-de la Meuse
+
+-du Territoire-de-Belfort
+
+-Officier adjoint renseignement du groupement de gendarmerie départementale :
+
+-de l'Ain
+
+-de l'Aisne
+
+-des Alpes-Maritimes
+
+-de l'Ardèche
+
+-de l'Aude
+
+-du Bas-Rhin
+
+-des Bouches-du-Rhône
+
+-du Calvados
+
+-de la Charente-Maritime
+
+-des Côtes-d'Armor
+
+-de Dordogne
+
+-du Doubs
+
+-de la Drôme
+
+-de l'Essonne
+
+-de l'Eure
+
+-d'Eure-et-Loir
+
+-du Finistère
+
+-du Gard
+
+-de Gironde
+
+-du Haut-Rhin
+
+-de la Haute-Savoie
+
+-de l'Hérault
+
+-de l'Ille-et-Vilaine
+
+-d'Indre-et-Loire
+
+-de l'Isère
+
+-des Landes
+
+-de la Loire
+
+-du Maine-et-Loire
+
+-de la Manche
+
+-de la Marne
+
+-de Meurthe-et-Moselle
+
+-du Morbihan
+
+-de Moselle
+
+-du Nord
+
+-de l'Oise
+
+-du Pas-de-Calais
+
+-du Puy-de-Dôme
+
+-des Pyrénées-Atlantiques
+
+-des Pyrénées-Orientales
+
+-du Rhône
+
+-de la Saône-et-Loire
+
+-de la Sarthe
+
+-de la Savoie-de Seine-et-Marne
+
+-de la Somme
+
+-du Val-d'Oise
+
+-du Var
+
+-du Vaucluse
+
+-de la Vendée
+
+-de la Vienne
+
+-de l'Yonne
+
+-des Yvelines
+
+-Chef du groupe de soutien ressources humaines du groupement de gendarmerie départementale :
+
+-des Alpes-Maritime
+
+-du Bas-Rhin
+
+-des Bouches-du-Rhône
+
+-du Calvados
+
+-de l'Eure
+
+-du Finistère
+
+-de la Gironde
+
+-du Gard
+
+-du Haut-Rhin
+
+-de la Haute-Savoie
+
+-de l'Hérault
+
+-de l'Ille-et-Vilaine
+
+-de l'Isère
+
+-de l'Oise
+
+-de la Moselle
+
+-du Nord
+
+-du Pas-de-Calais
+
+-du Rhône
+
+-de la Seine-et-Marne
+
+-du Var
 
 -Commandant de la compagnie de gendarmerie départementale :
 
@@ -262,7 +466,9 @@ Commandant de la section de recherches en second :
 
 -de Digne-les-Bains
 
--de Dijon de Dinan
+-de Dijon
+
+-de Dinan
 
 -de Dole
 
@@ -416,11 +622,15 @@ Commandant de la section de recherches en second :
 
 -de Nogent-sur-Seine
 
--de Nontron de Nyons
+-de Nontron
+
+-de Nyons
 
 -d'Oloron-Sainte-Marie
 
--d'Orange d'Orthez
+-d'Orange
+
+-d'Orthez
 
 -de Pamiers
 
@@ -560,13 +770,15 @@ Commandant de la section de recherches en second :
 
 -de la Tour-du-Pin
 
--de Tours d'Ussel
+-de Tours
+
+-d'Ussel
 
 -de Val-de-Briey
 
 -de Valenciennes
 
--de la Valette-du-Var
+-de la Valette du Var
 
 -de Vendôme
 
@@ -656,27 +868,21 @@ Commandant de la section de recherches en second :
 
 -du Var
 
-4° Gendarmerie mobile Garde républicaine :
+4° Gendarmerie mobile-Garde républicaine :
 
--Commandant de la compagnie de sécurité :
-
--de la présidence de la République
-
--de l'hôtel Matignon
+-Commandant de la compagnie de sécurité de la présidence de la République
 
 5° Ecoles :
 
+-Chef du cabinet du commandement des écoles de la gendarmerie nationale
+
+-Officier adjoint ressources humaines du groupe de soutien opérationnel des écoles
+
+-Officier adjoint soutien finances du groupe de soutien opérationnel des écoles
+
 -Commandant du centre national de formation :
 
--à la police judiciaire
-
--à la sécurité routière
-
 -aux langues et à l'international de la gendarmerie
-
--au renseignement opérationnel
-
--aux systèmes d'information et de communication de la gendarmerie
 
 -à la sécurité publique
 
@@ -694,21 +900,27 @@ Commandant de la section de recherches en second :
 
 -Chef de la division de la formation d'une école de gendarmerie (7 emplois)
 
--Chef de la division de la formation du centre national d'entraînement des forces de gendarmerie
+-Chef de la division de l'appui à la formation d'une école de gendarmerie (7 emplois) à l'exception de l'école des officiers de la gendarmerie nationale
 
--Chef de la division de l'appui à la formation d'une école de gendarmerie (8 emplois)
+-Chef de la division de la formation du centre national d'entraînement des forces de gendarmerie
 
 -Chef de la division de l'appui à la formation du centre national d'entraînement des forces de gendarmerie
 
--Officier adjoint ressources humaines du groupe de soutien opérationnel des écoles
-
--Officier adjoint soutien finances du groupe de soutien opérationnel des écoles
-
 6° Gendarmeries spécialisées :
 
--Commandant de la section de recherches de la gendarmerie de l'air
+-Commandant en second de la section de recherches de la gendarmerie de l'armement
 
--Commandant de la section de recherches de la gendarmerie maritime
+-Au sein des forces aériennes de la gendarmerie nationale :
+
+-Commandant d'un groupement des forces aériennes de gendarmerie
+
+-Commandant du groupement d'instruction
+
+-Commandant du groupement de maintien en condition opérationnelle
+
+-Chargé de mission auprès du commandement des forces aériennes de la gendarmerie nationale (1 emploi)
+
+-Commandant du centre d'instruction de la gendarmerie maritime
 
 -Commandant d'une compagnie de gendarmerie de l'armement
 
@@ -720,25 +932,7 @@ Commandant de la section de recherches en second :
 
 -Commandant d'une antenne spéciale de sécurité de la gendarmerie de la sécurité des armements nucléaires
 
--Commandant du centre d'instruction de la gendarmerie maritime
-
--Chargé de mission auprès du commandement des forces aériennes de la gendarmerie nationale (1 emploi)
-
 7° Outre-mer :
-
-Commandant de la compagnie de gendarmerie départementale :
-
--d'Archipels-Papeete de Fort-de-France des Iles-du-vent-Faaa
-
--de Koné
-
--de Koungou de Kourou de La-Foa du Marin de Matoury du Moule de Nouméa
-
--de Poindimié de Pointe-à-Pitre
-
--de Saint-Benoît de Saint-Claude (Guadeloupe)
-
--de Saint-Laurent-du-Maroni de Saint-Martin-Saint-Barthélemy de la Trinité
 
 -Commandant de la gendarmerie pour Wallis-et-Futuna
 
@@ -758,27 +952,79 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de la Réunion
 
+-Commandant de la section de recherches prévôtales en second
+
+-Commandant de la section de recherches en second de :
+
+-Mamoudzou
+
+-Nouméa
+
+-Officier adjoint en charge de la police judiciaire au sein du commandement la gendarmerie de :
+
+-la Guadeloupe
+
+-la Guyane
+
+-la Martinique
+
+-Mayotte
+
+-la Nouvelle-Calédonie
+
+-la Polynésie-française
+
+-la Réunion
+
+-Commandant de la compagnie de gendarmerie départementale :
+
+-d'Archipels-Papeete
+
+-de Fort-de-France
+
+-des Iles-du-vent-Faaa
+
+-de Koné
+
+-de Koungou
+
+-de Kourou
+
+-de La-Foa
+
+-du Marin
+
+-de Matoury
+
+-du Moule
+
+-de Nouméa
+
+-de Poindimié
+
+-de Pointe-à-Pitre
+
+-de Saint-Benoît
+
+-de Saint-Claude (Guadeloupe)
+
+-de Saint-Laurent-du-Maroni
+
+-de Saint-Martin-Saint-Barthélemy
+
+-de la Trinité
+
 8° Autres emplois :
 
 -Commandant du centre national de soutien logistique
 
--Chef de bureau au sein du commandement de la gendarmerie pour les réserves et la jeunesse (2 emplois)
-
--Au sein des forces aériennes de la gendarmerie nationale, le chef :
-
--de la division des opérations
-
--de la division de l'appui opérationnel
-
--Commandant d'un groupement des forces aériennes de gendarmerie
-
--Commandant du groupement d'instruction
-
--Commandant du groupement de maintien en condition opérationnelle
-
 -Chef du service de soutien à la projection opérationnelle du commandement du soutien opérationnel de la gendarmerie
 
 -Chef du bureau du système des opérations et du renseignement du commandement du soutien opérationnel de la gendarmerie
+
+-Chef du bureau concepts cohérence au sein du commandement spécialisé pour la sécurité nucléaire
+
+-Chef du bureau suivi et analyse de la réponse au sein du commandement spécialisé pour la sécurité nucléaire
 
 -Directeur au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
 
@@ -789,6 +1035,8 @@ Commandant de la compagnie de gendarmerie départementale :
 -Commandant du groupement de sécurité et d'appui d'Issy-les-Moulineaux
 
 -Commandant du groupement de sécurité et d'appui de Beynes
+
+-Adjoint au chef de département au service central du renseignement territorial (1 emploi)
 
 -Chef d'état-major soutien finances du groupe d'intervention de la gendarmerie nationale
 
@@ -802,15 +1050,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -Chef du centre national de formation en intervention spécialisée du groupe d'intervention de la gendarmerie nationale
 
--Adjoint au chef de département au service central du renseignement territorial (1 emploi)
-
--Chef du bureau concepts cohérence au sein du commandement spécialisé pour la sécurité nucléaire
-
--Chef du bureau suivi et analyse de la réponse au sein du commandement spécialisé pour la sécurité nucléaire
-
 -Chef de la division technique du groupe d'intervention de la gendarmerie nationale
-
--Chargé de mission au commandement de la gendarmerie pour les réserves et la jeunesse (1 emploi)
 
 NOTA :
 

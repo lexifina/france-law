@@ -4,17 +4,29 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Administration centrale :
 
--Chargé de mission auprès du directeur général de la gendarmerie nationale (6 emplois)
-
 -Chef d'état-major auprès de l'inspecteur général des armées-gendarmerie
+
+-Adjoint à un sous-directeur au sein du service des technologies et des systèmes d'information de la sécurité intérieure
+
+-Adjoint au chef de la mission du système d'information Agorha
 
 -Chef de pôle auprès de l'inspecteur général des armées-gendarmerie (2 emplois)
 
+-Chef de cabinet du directeur général de la gendarmerie nationale
+
+-Chef de la cellule management de l'information
+
+-Chef de la mission logistique de la direction des soutiens et des finances
+
+-Chargé de mission auprès du directeur général de la gendarmerie nationale (6 emplois)
+
 -Chargé de mission auprès de l'inspecteur général des armées-gendarmerie (1 emploi)
 
--Chargé de mission auprès du directeur des personnels militaires de la gendarmerie nationale (2 emplois)
+-Chargé de mission auprès du directeur des personnels militaires de la gendarmerie nationale (3 emplois)
 
--Chargé de mission auprès du directeur des opérations et de l'emploi (7 emplois)
+-Chargé de mission auprès du directeur des opérations et de l'emploi (9 emplois)
+
+-Chargé de mission responsable du pôle international auprès du directeur des opérations et de l'emploi (1 emploi)
 
 -Chargé de mission auprès du directeur des soutiens et des finances (5 emplois)
 
@@ -22,27 +34,33 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Chargé de mission auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (2 emplois)
 
+-Chargé de mission au sein du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi)
+
+-Chargé de mission à la mission des hauts potentiels (2 emplois)
+
+-Chargé de mission auprès du commandement de la gendarmerie dans le cyberespace (2 emplois)
+
+-Chargé de fonction auprès du directeur des personnels militaires de la gendarmerie nationale (1 emploi)
+
+-Chargé de fonction auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (2 emplois)
+
+-Chargé de la fonction ressources humaines, cabinet du directeur général de la gendarmerie nationale (1 emploi)
+
 -Directeur de projet auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (1 emploi)
 
 -Directeur de projet à la mission LOG-MI du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi)
 
--Chargé de mission au sein du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi)
-
--Adjoint à un sous-directeur de la direction générale de la gendarmerie nationale
-
 -Chef d'état-major du centre national des opérations au sein de la direction générale de la gendarmerie nationale
 
--Sous-directeur adjoint au sein du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (3 emplois)
+-Coordonnateur des programmes judiciaires à la direction des opérations et de l'emploi (1 emploi)
 
--Adjoint à un sous-directeur au sein du service des technologies et des systèmes d'information de la sécurité intérieure
+-Adjoint au chef de la fonction opérations emploi, cabinet du directeur général de la gendarmerie nationale (1 emploi)
 
--Chargé de mission à la mission des hauts potentiels (2 emplois)
+-Sous-chef conduite du centre national des opérations au sein de la direction générale de la gendarmerie nationale
 
--Adjoint au chef de la mission du système d'information Agorha
+-Sous-chef veille du centre national des opérations au sein de la direction générale de la gendarmerie nationale
 
--Adjoint au chef du département du personnel officier
-
--Chargé de mission auprès du commandement de la gendarmerie dans le cyberespace (2 emplois)
+-Sous-chef planification du centre national des opérations au sein de la direction générale de la gendarmerie nationale
 
 2° Inspection générale de la gendarmerie nationale :
 
@@ -52,27 +70,23 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Adjoint au chef de la fonction retour d'expérience auprès de l'inspection générale de la gendarmerie nationale (1 emploi)
 
--Chef du bureau :
+-Chef du bureau des enquêtes administratives
 
--des enquêtes administratives
-
--des enquêtes judiciaires
+-Adjoint au chef du bureau des enquêtes judiciaires (1 emploi)
 
 3° Gendarmerie départementale :
+
+-Officier adjoint en charge de la police judiciaire au sein d'une région zonale de gendarmerie (7 emplois)
 
 -Officier adjoint commandement de la région zonale de gendarmerie de :
 
 -Bretagne
 
--Nord-Pas-de-Calais (jusqu'au 31 août 2022)
-
--Hauts-de-France (à partir du 1er septembre 2022)
+-Hauts de France
 
 -Chef d'une division zonale opérations emploi (7 emplois)
 
 -Chef de la division de l'appui opérationnel d'une région de gendarmerie zonale (7 emplois)
-
--Commandant en second d'un groupement de gendarmerie départementale ayant le statut de formation administrative (jusqu'au 31 août 2022)
 
 -Commandant du groupement de gendarmerie départementale :
 
@@ -88,6 +102,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -des Ardennes
 
+-de l'Ariège
+
 -de l'Aube
 
 -de l'Aude
@@ -95,6 +111,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -de l'Aveyron
 
 -du Calvados
+
+-du Cantal
 
 -de la Charente
 
@@ -106,13 +124,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -des Côtes-d'Armor
 
+-de la Creuse
+
 -des Deux-Sèvres
 
 -de la Dordogne
 
 -de la Drôme
 
--du Doubs (à compter du 1er septembre 2022)
+-du Doubs
 
 -de l'Essonne
 
@@ -120,11 +140,23 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Eure-et-Loir
 
+-du Gers
+
 -du Haut-Rhin
 
 -de la Haute-Corse
 
+-de Haute-Loire
+
+-de Haute-Marne
+
 -de la Haute Saône
+
+-des Hautes-Alpes
+
+-des Hautes-Pyrénées
+
+-de l'Indre
 
 -d'Indre-et-Loire
 
@@ -136,15 +168,23 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Loire
 
+-du Lot
+
 -de Lot-et-Garonne
+
+-de la Lozère
 
 -de Maine-et-Loire
 
 -de la Manche
 
--de la Marne (à compter du 1er septembre 2022)
+-de la Marne
+
+-de Mayenne
 
 -de Meurthe-et-Moselle
+
+-de la Meuse
 
 -du Morbihan
 
@@ -152,7 +192,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de l'Orne
 
--du Puy-de-Dôme (à compter du 1er septembre 2022)
+-du Puy de Dôme
 
 -des Pyrénées-Atlantiques
 
@@ -166,11 +206,17 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Tarn
 
+-du Tarn-et-Garonne
+
+-du Territoire-de-Belfort
+
 -du Val-d'Oise
 
 -de Vaucluse
 
 -de Vendée
+
+-de la Vienne
 
 -des Vosges
 
@@ -180,13 +226,25 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant en second du groupement de gendarmerie départementale :
 
--des Bouches-du-Rhône
+-Ain
+
+-du Bas-Rhin
+
+-des Bouches du Rhône
+
+-Finistère
 
 -de la Gironde
 
--de l'Hérault (à compter du 1er septembre 2022)
+-Haute-Savoie
+
+-de l'Hérault
+
+-Ille et Vilaine
 
 -de l'Isère
+
+-de Moselle
 
 -du Nord
 
@@ -194,41 +252,51 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Pas-de-Calais
 
--Commandant de la section de recherches :
+-du Rhône
 
--d'Ajaccio
+-Seine et Marne
+
+-Var
+
+-Commandant de la section de recherches :
 
 -d'Amiens
 
--de Bordeaux
-
--de Dijon
-
--de Lille-Villeneuve-d'Ascq
+-de Grenoble
 
 -de Lyon
-
--de Marseille
 
 -de Montpellier
 
 -d'Orléans
 
--de Paris
-
--de Reims
+-de Rennes
 
 -de Strasbourg
 
--de Toulouse
+-Commandant de la section de recherches en second de :
 
--de Versailles
+-Ajaccio
+
+-Bordeaux
+
+-Lille-Villeneuve d'Ascq
+
+-Marseille
+
+-Paris
+
+-Toulouse
+
+-Versailles
 
 4° Gendarmerie mobile-Garde républicaine :
 
--Commandant du groupement de gendarmerie mobile de Maisons-Alfort (à compter du 1er septembre 2022)
+-Commandant du groupement de gendarmerie mobile de Maisons-Alfort
 
 5° Gendarmeries spécialisées :
+
+-Commandant en second de la gendarmerie de l'armement
 
 -Commandant en second de la gendarmerie de l'air
 
@@ -236,29 +304,57 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant en second de la gendarmerie des transports aériens
 
+-Commandant en second des forces aériennes de la gendarmerie nationale
+
 -Chargé de mission au commandement des forces aériennes de la gendarmerie nationale (1 emploi)
 
-6° Autres emplois :
+-Commandant de la section de recherches des transports aériens
+
+-Commandant de la section de recherches de la gendarmerie maritime
+
+6° Outre-mer :
+
+-Commandant de la gendarmerie prévôtale
+
+-Commandant en second de la gendarmerie :
+
+-de Guadeloupe
+
+-de Guyane française
+
+-de Martinique
+
+-de Mayotte
+
+-pour la Nouvelle-Calédonie
+
+-pour la Polynésie française
+
+-de la Réunion
+
+-Commandant de la section de recherches de Pointe-à-Pitre
+
+7° Autres emplois :
+
+-Commandant en second de l'office central de lutte contre :
+
+-la délinquance itinérante
+
+-le travail illégal
+
+-les atteintes à l'environnement et à la santé publique
+
+-les crimes contre l'humanité, les génocides et les crimes de guerre
 
 -Chef de l'unité de coordination des forces d'intervention
 
 -Chef de l'unité de coordination pour la lutte contre l'insécurité routière
 
--Commandant en second des forces aériennes de la gendarmerie nationale
-
 -Chef du service du traitement de l'information de la gendarmerie
 
--Commandant du service central de renseignement criminel de la gendarmerie nationale
-
--Directeur de l'institut de recherches criminelles de la gendarmerie nationale
-
--Commandant de la gendarmerie prévôtale
-
--Commandant en second du groupe d'intervention de la gendarmerie nationale
-
--Commandant en second du soutien opérationnel de la gendarmerie nationale
-
 -Directeur adjoint du commandement spécialisé pour la sécurité nucléaire
+
+-Directeur de l'enseignement et de recherche au pôle de judiciaire de la gendarmerie nationale
 
 -Chargé de mission action territoriale auprès de l'agence nationale de la sécurité des systèmes d'information (1 emploi)
 
@@ -268,41 +364,37 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Secrétaire général adjoint du conseil supérieur de la garde nationale
 
--Adjoint gendarmerie au chef du service central du renseignement territorial
-
 -Adjoint au délégué ministériel aux partenariats, aux stratégies et aux innovations de sécurité
-
--Officier de liaison auprès du haut fonctionnaire de défense du ministère de la transition écologique et solidaire (1 emploi)
 
 -Adjoint gendarmerie et conseiller sécurité intérieure du chef du cabinet militaire du ministre des armées
 
 -Officier de liaison auprès du préfet chargé de la lutte contre la cyber-criminalité (1 emploi)
 
--Conseiller affaires intérieures auprès du secrétaire général de la Défense et de la Sécurité nationale
+-Officier de liaison au sein du pôle " prospective et stratégie militaire " au cabinet du major général des armées (1 emploi)
 
--Officier de liaison à la sous-direction de l'architecture et des infrastructures techniques au sein de la direction du numérique (1 emploi)
+-Officier de liaison au centre de planification et de conduite des opérations de l'état-major des armées (2 emploi)
 
--Haut fonctionnaire de défense et de sécurité adjoint au secrétariat général du ministère de la justice (1 emploi)
-
--Officier de liaison au sein du pôle prospective et stratégie militaire au cabinet du major général des armées (1 emploi)
-
--Commandant militaire de la Présidence de la République
-
--Commandant militaire de l'hôtel de Matignon
-
--Officier de liaison au centre de préparation et de conduite des opérations de l'état-major des armées (1 emploi)
+-Officier de liaison à la coordination nationale du renseignement et de la lutte contre le terrorisme (1 emploi)
 
 -Chargé de mission Jeux olympiques 2024 affecté à la région de gendarmerie d'Ile-de-France (1 emploi)
 
--Directeur de l'enseignement et de recherche au pôle de judiciaire de la gendarmerie nationale
+-Chargé de mission " grands évènements " affecté à la région de gendarmerie d'Ile-de-France
 
--Officier de liaison auprès de la préfecture de Paris (1 emploi)
-
--Chargé de mission grands évènements affecté à la région de gendarmerie d'Ile-de-France
-
-7° Ecoles :
+8° Ecoles :
 
 -Adjoint au directeur de l'enseignement du centre de recherche de l'école des officiers de la gendarmerie nationale
+
+-Commandant de groupement de l'école de guerre
+
+-Commandant de la division des compétences au commandement des écoles de la gendarmerie nationale
+
+-Commandant de la division du recrutement, des concours et des examens au commandement des écoles de la gendarmerie nationale
+
+-Commandant de la division des compétences et de l'ingénierie pédagogique à l'école des officiers de la gendarmerie nationale
+
+-Commandant de la division de la formation initiale à l'école des officiers de la gendarmerie nationale
+
+-Chef de la division de l'appui à la formation de l'école des officiers de la gendarmerie nationale
 
 NOTA :
 

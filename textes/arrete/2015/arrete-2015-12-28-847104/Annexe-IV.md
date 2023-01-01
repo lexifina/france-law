@@ -4,29 +4,43 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° A la direction générale de la gendarmerie nationale, le chef du bureau :
 
+-de l'action sociale, des blessés et du handicap
+
+-agorha des ressources humaines droits individuels
+
+-agorha études et qualités
+
 -du budget et de la réglementation
 
 -du contrôle opérationnel des fichiers
 
 -des effectifs et des référentiels
 
+-des équipements de proximité
+
+-des équipements périphériques
+
+-des études d'organisation
+
 -de la formation
+
+-des généraux de la gendarmerie
+
+-image
 
 -de la lutte anti-terroriste
 
--de la criminalité organisée et de la délinquance spécialisée
+-du management de l'information opérationnelle
 
 -médias
-
--agorha des ressources humaines droits individuels
-
--agorha études et qualités
 
 -de la mobilité et de la proximité numérique
 
 -de l'organisation
 
--de la délinquance générale
+-du pilotage des services
+
+-de la police judiciaire
 
 -de la préparation et du pilotage de la masse salariale
 
@@ -38,17 +52,35 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du recrutement, des concours et des examens
 
+-des référentiels métiers
+
 -de la réglementation et de la fonction militaire
 
--des ressources financières
+-des salles de crise et de commandement
 
--de la sécurité des mobilités
-
--du management de l'information opérationnelle
+-bureau de la santé et de la sécurité au travail
 
 -du suivi de la synthèse et de la veille opérationnelle
 
 -des systèmes d'aide à l'enquête
+
+-des utilisateurs et du pilotage
+
+-de l'emploi, des soutiens et des finances au sein du commandement de la gendarmerie pour les réserves et la jeunesse
+
+-Secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
+
+-Chargé de mission auprès du directeur des soutiens et des finances (1 emploi)
+
+-Chargé de mission au cabinet du directeur général de la gendarmerie nationale (1 emploi)
+
+-Chargé de mission au sein du commandement de la gendarmerie pour les réserves et la jeunesse (1 emploi)
+
+-Chargé de projet auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (3 emplois)
+
+-chef du pôle appui au commandement du cabinet du directeur général de la gendarmerie nationale
+
+-Chef du pôle des perspectives professionnelles au département du personnel officier
 
 -chef J1 du centre national des opérations
 
@@ -66,8 +98,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef J9 du centre national des opérations
 
--chef du pôle appui au commandement du cabinet du directeur général de la gendarmerie nationale
-
 Au service de la transformation, le chef du département :
 
 -de l'accompagnement et de la conformité
@@ -76,21 +106,11 @@ Au service de la transformation, le chef du département :
 
 -de l'évaluation et de la valorisation
 
--Chargé de mission auprès du directeur des soutiens et des finances (1 emploi)
-
--Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
-
--Chef d'une division à la direction de la coopération internationale de sécurité
-
--Secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
-
 -Chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure
 
--Chef du centre sécurité économique et protection des entreprises
-
--Chargé de projet auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (3 emplois)
-
 -Chef de bureau à la direction du numérique (4 emplois)
+
+-Chef du centre sécurité économique et protection des entreprises
 
 -Chef du centre national d'expertise numérique auprès du commandement de la gendarmerie dans le cyberespace
 
@@ -104,17 +124,55 @@ Au service de la transformation, le chef du département :
 
 -logistique des équipements
 
--du pilotage de la gouvernance
+-logistique de la mobilité
+
+-Adjoint au chef du bureau :
+
+-de l'analyse et de l'anticipation
+
+-de la stratégie et de l'innovation
+
+-du cabinet
+
+-de la chancellerie
+
+-de la défense et sécurité nationale
+
+-de la rémunération et des pensions militaires
+
+-opérateur des réseaux radiocommunication
+
+-des outils de soutien et des statistiques
+
+-parcours mobilité
+
+-de la préparation et du pilotage du fonctionnement et de l'investissement
+
+-de la sécurité et de l'ordre publics
+
+-de la sécurité des mobilités
+
+-de la synthèse budgétaire
+
+-du personnel sous-officier de gendarmerie et volontaire
+
+-du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale
 
 2° Inspection générale de la gendarmerie nationale :
 
--Chef du bureau :
+-Chef du bureau de l'audit de la sécurité des systèmes d'information
 
--d'audit financier, administratif et technique
+-Adjoint au chef de l'antenne déconcentrée de l'inspection générale de la gendarmerie nationale de :
 
--de l'audit, de la protection et la gouvernance des données
+-Bordeaux (1 emploi)
 
--Coordonnateur national de la prévention des risques professionnels
+-Lille (1 emploi)
+
+-Metz (1 emploi)
+
+-Montpellier (1 emploi)
+
+-Lyon (1 emploi)
 
 3° Gendarmerie départementale :
 
@@ -126,37 +184,67 @@ Au service de la transformation, le chef du département :
 
 -d'Occitanie
 
+-Bourgogne
+
+-Centre-Val de Loire
+
+-Corse
+
+-Normandie
+
 -Chef de la division de l'emploi de la région de gendarmerie de :
 
 -Bourgogne
 
 -Corse
 
--Centre-Val de Loire
+-Centre Val de Loire
 
 -Normandie
 
 -Pays de la Loire
 
--Chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative (jusqu'au 31 août 2022) :
+-Commandant de la section de recherches de Bourges
 
--du Puy-de-Dôme
+-Commandant de la section de recherches en second de :
 
--de la Marne
+-Angers
 
--du Doubs
+-Besançon
 
--de la Haute-Vienne
+-Caen
 
--de la Somme
+-Chambéry
 
--de la Vienne
+-Clermont-Ferrand
+
+-Dijon
+
+-Limoges
+
+-Metz
+
+-Nancy
+
+-Nantes
+
+-Nimes
+
+-Pau
+
+-Poitiers
+
+-Reims
+
+-Rouen
 
 -Officier adjoint soutien finances d'une région de gendarmerie zonale (7 emplois)
 
 -Officier adjoint ressources humaines d'une région de gendarmerie zonale (7 emplois)
 
--Commandant en second du groupement de gendarmerie départementale
+-Officier adjoint de police judiciaire ou officier adjoint commandement du groupement de gendarmerie départementale :
+
+-de l'Ain
 
 -de l'Aisne
 
@@ -170,17 +258,17 @@ Au service de la transformation, le chef du département :
 
 -des Ardennes
 
--de l'Ariège
-
 -de l'Aube
 
 -de l'Aude
 
 -de l'Aveyron
 
--du Calvados
+-du Bas-Rhin
 
--du Cantal
+-des Bouches-du-Rhône
+
+-du Calvados
 
 -de la Charente
 
@@ -188,21 +276,21 @@ Au service de la transformation, le chef du département :
 
 -du Cher
 
--de la Corrèze
+-de Corrèze
 
 -des Côtes-d'Armor
 
--de la Creuse
-
 -des Deux-Sèvres
 
--de la Dordogne
+-de Dordogne
+
+-du Doubs
 
 -de la Drôme
 
--du Doubs (à compter du 1er septembre 2022)
-
 -de l'Essonne
+
+-du Finistère
 
 -de l'Eure
 
@@ -210,87 +298,87 @@ Au service de la transformation, le chef du département :
 
 -du Gard
 
--du Gers
+-de Gironde
 
 -du Haut-Rhin
 
--de la Haute-Corse
+-de Haute-Corse
 
--de la Haute-Loire
-
--de la Haute-Marne
+-de la Haute-Savoie
 
 -de la Haute-Saône
 
--de la Haute-Vienne (à compter du 1er septembre 2022)
+-de la Haute-Vienne
 
--des Hautes-Alpes
+-de l'Hérault
 
--des Hautes-Pyrénées
-
--de l'Indre
+-de l'Ille-et-Vilaine
 
 -d'Indre-et-Loire
+
+-de l'Isère
 
 -du Jura
 
 -des Landes
 
--de Loir-et-Cher
-
 -de la Loire
 
--du Lot
+-du Loire-et-cher
 
--de Lot-et-Garonne
+-du Lot-et-Garonne
 
--de la Lozère
-
--de Maine-et-Loire
+-du Maine-et-Loire
 
 -de la Manche
 
--de la Marne (à compter du 1er septembre 2022)
-
--de la Mayenne
+-de la Marne
 
 -de Meurthe-et-Moselle
 
--de la Meuse
-
 -du Morbihan
+
+-de Moselle
 
 -de la Nièvre
 
--de la Orne
+-du Nord
 
--du Puy-de-Dôme (à compter du 1er septembre 2022)
+-de l'Oise
+
+-de l'Orne
+
+-du Pas-de-Calais
+
+-du Puy-de-Dôme
 
 -des Pyrénées-Atlantiques
 
 -des Pyrénées-Orientales
 
--de Saône-et-Loire
+-du Rhône
+
+-de la Saône-et-Loire
 
 -de la Sarthe
 
 -de la Savoie
 
--de la Somme (à compter du 1er septembre 2022)
+-de Seine-et-Marne
+
+-de la Somme
 
 -du Tarn
 
--de Tarn-et-Garonne
-
--du Territoire de Belfort
-
 -du Val-d'Oise
 
--de Vaucluse
+-du Var
+
+-du Vaucluse
 
 -de la Vendée
 
--de la Vienne (à compter du 1er septembre 2022)
+-de la Vienne
 
 -des Vosges
 
@@ -510,49 +598,31 @@ Au service de la transformation, le chef du département :
 
 -de Vitré
 
--Commandant de la section de recherches :
-
--d'Angers
-
--de Besançon
-
--de Caen
-
--de Chambéry
-
--de Clermont-Ferrand
-
--de Grenoble
-
--de Limoges
-
--de Metz
-
--de Nancy
-
--de Nantes
-
--de Nîmes
-
--de Pau
-
--de Poitiers
-
--de Rennes
-
--de Rouen
+-Commandant de la compagnie fluviale de gendarmerie de Strasbourg
 
 4° Outre-mer :
 
--Commandant de la section de recherche :
+-Commandant en second de la gendarmerie prévôtale
 
--de Cayenne
+-Chargé de mission au commandement de la gendarmerie d'outre-mer (1 emploi)
 
--de Fort-de-France
+-Commandant de la section de recherches prévôtales
 
--de Pointe-à-Pitre
+-Commandant de la section de recherche de :
 
--de Saint-Denis
+-de Mamoudzou
+
+-Nouméa
+
+-Commandant de la section de recherches en second de :
+
+-Cayenne
+
+-Fort-de-France
+
+-Papeete
+
+-Saint-Denis
 
 -Commandant de la compagnie de gendarmerie départementale de :
 
@@ -562,6 +632,18 @@ Au service de la transformation, le chef du département :
 
 5° Gendarmeries spécialisées :
 
+-Chef d'état-major de la gendarmerie de l'armement
+
+-Chef de la division des opérations de la gendarmerie de l'air
+
+-Chef de la division des opérations de la gendarmerie maritime
+
+-Au sein des forces aériennes de la gendarmerie nationale, le chef :
+
+-de la division des opérations
+
+-de la division de l'appui opérationnel
+
 -Commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
 
 -Commandant en second d'un groupement de gendarmerie de l'air
@@ -570,21 +652,23 @@ Au service de la transformation, le chef du département :
 
 -Commandant en second d'un groupement de la gendarmerie des transports aériens
 
--Commandant de la section de recherches de la gendarmerie des transports aériens
+-Commandant de la section de recherches de la gendarmerie de l'armement
 
--Chef de la division des opérations de la gendarmerie de l'air
-
--Chef de la division des opérations de la gendarmerie maritime
-
--Chef d'état-major de la gendarmerie de l'armement
+-Commandant de la section de recherches en second de la gendarmerie de l'air
 
 6° Autres emplois :
 
+-Commandant de la gendarmerie des voies navigables
+
 -Chef du service de développement et de mise en œuvre des logiciels
 
--Commandant en second de la gendarmerie prévôtale
+-Chef du bureau des systèmes d'information opérationnels du commandement du soutien opérationnel de la gendarmerie nationale
 
--Commandant du groupe de sécurité de la présidence de la République
+-Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
+
+-Chef de département au commandement spécialisé pour la sécurité nucléaire
+
+-Chef d'une division à la direction de la coopération internationale de sécurité
 
 -Chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale
 
@@ -592,57 +676,31 @@ Au service de la transformation, le chef du département :
 
 -Chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale
 
--Chef du bureau des systèmes d'information opérationnels du commandement du soutien opérationnel de la gendarmerie nationale
-
 -Chef de la trésorerie militaire pour l'activité des forces de la gendarmerie
 
--Officier de liaison auprès de l'association des maires de France
-
--Officier de liaison référent intelligence économique à l'assemblée des départements de France
-
--Chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi)
-
--Commandant en second de l'office central de lutte contre la délinquance itinérante
-
--Commandant en second de l'office central de lutte contre le travail illégal
-
--Commandant en second de l'office central de lutte contre les atteintes à l'environnement et à la santé publique
-
--Commandant en second de l'office central de lutte contre les crimes contre l'humanité les génocides et les crimes de guerre
-
--Chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
-
 -Chef de la trésorerie militaire de la solde gendarmerie
-
--Chef de division au service central du renseignement territorial (2 emplois)
-
--Chef de division à la direction de la coopération internationale de sécurité
-
--Chef de département au commandement spécialisé pour la sécurité nucléaire
-
--Officier de liaison, chef du secteur sécurité de l'espace européen du secrétariat général des affaires européennes (1 emploi)
 
 -Adjoint au chef de la cellule expertise nucléaire au sein du cabinet du ministère des armées (1 emploi)
 
 -Adjoint au chef de la cellule numérique au sein du cabinet du ministère des armées (1 emploi)
 
+-Officier de liaison auprès de l'association des maires de France
+
+-Officier de liaison référent intelligence économique à l'assemblée des départements de France
+
+-Officier de liaison, chef du secteur sécurité de l'espace européen du secrétariat général des affaires européennes (1 emploi)
+
 -Officier de liaison au bureau réservé au sein du cabinet du ministère des armées (1 emploi)
 
--Chef d'état-major auprès du commandement de la gendarmerie dans le cyberespace
+-Officier de liaison à l'Agence nationale de la cohésion des territoires (1 emploi)
 
-7° Ecoles :
+-Officier de liaison chargé de mission à la direction des ressources humaines du ministère de la défense (1 emploi)
 
--Commandant de groupement à l'école des officiers de la gendarmerie nationale
+-Chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi)
 
--Commandant du groupement de l'école de guerre
+-Chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
 
--Commandant de la division des compétences au commandement des écoles de la gendarmerie nationale
-
--Commandant de la division du recrutement, des concours et des examens au commandement des écoles de la gendarmerie nationale
-
--Commandant de la division des compétences et de l'ingénierie pédagogique à l'école des officiers de la gendarmerie nationale
-
--Commandant de la division de la formation initiale à l'école des officiers de la gendarmerie nationale
+-Conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi)
 
 NOTA :
 

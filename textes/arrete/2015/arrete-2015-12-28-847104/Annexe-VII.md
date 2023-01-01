@@ -4,91 +4,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Gendarmerie départementale :
 
--Commandant en second de la section de recherches :
-
--d'Angers
-
--de Besançon
-
--de Bourges
-
--de Caen
-
--de Chambéry
-
--de Clermont-Ferrand
-
--de Grenoble
-
--de Limoges
-
--de Metz
-
--de Nancy
-
--de Nantes
-
--de Nîmes
-
--de Pau
-
--de Poitiers
-
--de Rennes
-
--de Rouen
-
--Commandant de l'escadron départemental de sécurité routière :
-
--des Alpes-de-Haute-Provence
-
--de l'Ardèche
-
--des Ardennes
-
--de l'Ariège
-
--de l'Aveyron
-
--du Cantal
-
--de la Charente
-
--de la Creuse
-
--des Deux-Sèvres
-
--de l'Essonne
-
--du Gers
-
--de la Guadeloupe
-
--de la Haute-Loire
-
--de la Haute-Saône
-
--des Hautes-Alpes
-
--des Hautes-Pyrénées
-
--de la Lozère
-
--de la Martinique
-
--de la Mayenne
-
--de la Meuse
-
--de la Nièvre
-
--du Sud-Océan-Indien
-
--de Tarn-et-Garonne
-
--du Val-d'Oise
-
--des Vosges
+-Commandant en second de la section d'appui judiciaire de la région de gendarmerie d'Ile-de-France
 
 -Commandant en second de l'escadron départemental de sécurité routière :
 
@@ -350,7 +266,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Cherbourg-en-Cotentin
 
--de Chinon de Cholet
+-de Chinon
+
+-de Cholet
 
 -de Clermont
 
@@ -686,9 +604,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Valenciennes
 
--de la Valette
-
--du Var
+-de la Valette du Var
 
 -de Vendôme
 
@@ -724,8 +640,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Chef de centre d'opérations de la gendarmerie
 
--Chef de détachement territorial au sein d'une section de recherche
-
 -Commandant d'un peloton de gendarmerie de montagne
 
 -Commandant d'un détachement de peloton de gendarmerie de haute montagne
@@ -746,9 +660,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant d'un peloton de surveillance et d'intervention gendarmerie
 
--Commandant de la brigade numérique de Rennes
-
-2° Gendarmerie mobile Garde républicaine :
+2° Gendarmerie mobile-Garde républicaine :
 
 -Commandant d'un peloton d'intervention au sein d'un escadron de gendarmerie mobile
 
@@ -758,19 +670,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant d'un peloton de véhicules blindés
 
--Commandant de la compagnie de soutien opérationnel de la garde républicaine
-
--Commandant de l'escadron de sécurité et d'appui du groupement blindé de gendarmerie mobile
-
--Commandant en second de la section d'appui judiciaire de la région de gendarmerie d'Ile-de-France
-
 3° Gendarmeries spécialisées :
 
 -Commandant de la section de recherches de la gendarmerie des voies navigables
 
 -Commandant en second de la section de recherche de la gendarmerie de l'air
-
--Commandant en second de la section de recherche de la gendarmerie de l'armement
 
 -Commandant en second de la section de recherche de la gendarmerie maritime
 
@@ -784,9 +688,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant en second d'une compagnie de la gendarmerie de l'air
 
--Commandement des forces aériennes de la gendarmerie :
+Au sein du commandement des forces aériennes de la gendarmerie :
 
--Commandant de la section aérienne (13 emplois) :
+-Commandant de la section aérienne (22 emplois) :
 
 -d'Ajaccio
 
@@ -813,8 +717,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -Toulouse
 
 -Tours
-
--Commandant du détachement aérien de la gendarmerie (9 emplois) :
 
 -de Bayonne
 
@@ -858,113 +760,55 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Paris-Orly
 
-4° Ecoles :
+4° Outre-mer :
 
--Chef d'une classe Prépa Talents de la gendarmerie nationale (4 emplois)
+-Commandant d'une section d'appui judiciaire
 
-5° Outre-mer :
+Commandant en second de la compagnie de gendarmerie départementale :
 
--Commandant en second de la compagnie de gendarmerie départementale :
-
--d'Archipels-Papeete de Fort-de-France des Iles-du-vent-Faaa
-
--de Koné
-
--de Koungou de Kourou de La-Foa du Marin de Matoury du Moule de Nouméa de Pointe-à-Pitre
-
--de Saint-Benoît de Saint-Claude (Guadeloupe)
-
--de Saint-Laurent-du-Maroni de Saint-Martin-Saint-Barthélemy de la Trinité
-
--Chef d'état-major du commandement de la gendarmerie pour Wallis-et-Futuna
-
--Commandant en second de la section de recherches :
-
--de Cayenne
+-d'Archipels-Papeete
 
 -de Fort-de-France
 
--de Mamoudzou
+-des Iles-du-vent-Faaa
+
+-de Koné
+
+-de Koungou
+
+-de Kourou
+
+-de La-Foa
+
+-du Marin
+
+-de Matoury
+
+-du Moule
 
 -de Nouméa
 
--de Papeete
-
 -de Pointe-à-Pitre
 
--de Saint-Denis
+-de Saint-Benoît
 
--Commandant d'une brigade de renseignements et d'investigations judiciaires
+-de Saint-Claude (Guadeloupe)
 
--Chef du service départemental de renseignement territorial de Cayenne
+-de Saint-Laurent-du-Maroni
 
-6° Autres emplois :
+-de Saint-Martin-Saint-Barthélemy
 
--Commandant en second de la gendarmerie des voies navigables
+-de la Trinité
 
--Commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc
-
--Commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-Sous-Bois
-
--Commandant de la compagnie de sécurité et d'accueil du camp de Beynes
-
--Commandant de la compagnie de soutien opérationnel du groupement de sécurité et d'appui d'Issy-les-Moulineaux
-
--Commandant de compagnie de sûreté et de sécurité du groupement de sécurité et d'appui d'Issy-les-Moulineaux
-
--Chef d'un service expert ressources humaines
-
--Chef de service de permanence au sein du cabinet du Premier ministre
-
--Aide de camp du secrétariat général de la défense et de la sécurité nationale (1 emploi)
-
--Officier de liaison au centre de préparation et de conduite des opérations de l'état-major des armées (1 emploi)
-
--Conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi)
-
--Chef de la mission protection du ministère de la transition écologique (1 emploi)
+5° Autres emplois :
 
 -Officier de liaison au département de la sécurité nucléaire au ministère de la transition écologique (2 emplois)
 
--Conseiller technique à la division de la sûreté générale du ministère de l'Europe et des affaires étrangères (1 emploi)
-
--Conseiller PSDC et OPEX à la direction des affaires européennes et internationales du ministère de l'intérieur (1 emploi)
-
--Officier de liaison à la sous-direction défense technologie prolifération de la direction générale des relations internationales et de la stratégie (1 emploi)
-
--Chargé de mission sécurité au cabinet de la direction générale des outre-mer (1 emploi)
-
 -Officier analyste au centre de veille du cabinet du ministère de l'intérieur (2 emplois)
-
--Officier de liaison au cabinet du ministère de l'éducation nationale (1 emploi)
-
--Officier de liaison auprès du haut fonctionnaire de défense et de sécurité du ministère de l'éducation nationale, de la jeunesse et des sports (1 emploi)
-
--Officier de liaison en charge de la prévention de la radicalisation du ministère des sports (1 emploi)
 
 -Officier de liaison auprès d'une préfecture maritime (3 emplois)
 
--Chef de l'unité d'investigations et d'identification à l'institut de recherche criminelle de la gendarmerie nationale
-
--Commandant de la compagnie de sécurité et d'appui de l'école des officiers de la gendarmerie nationale
-
 -Officier de liaison à la direction interministérielle de la transformation publique (1 emploi)
-
--Chef de section de l'école spéciale militaire de Saint-Cyr Coëtquidan (3 emplois)
-
--Commandant d'une compagnie de l'Ecole Polytechnique (2 emplois)
-
--Officier de liaison à la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur (2 emplois)
-
--Officier rapporteur à la commission des recours des militaires (3 emplois)
-
--Officier de liaison affecté au comité interministériel de prévention de la délinquance et de la radicalisation (1 emploi)
-
--Officier de liaison, adjoint au chef du secteur sécurité de l'espace européen du secrétariat général des affaires européennes (1 emploi)
-
--Chef de l'antenne de l'inspection générale de la gendarmerie nationale de Montpellier
-
--Commandant de la section de recherches prévôtales
 
 -Directeur du cercle mixte de gendarmerie de (25 emplois) :
 
@@ -1006,7 +850,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Rochefort
 
--Rosny-sous-Bois
+-Rosny-Sous-Bois
 
 -Saint-Astier
 
