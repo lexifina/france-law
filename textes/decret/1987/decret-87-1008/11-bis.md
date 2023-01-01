@@ -10,4 +10,8 @@ Ce conseil est composé comme suit :
 
 -deux ouvriers en fonction dans l'établissement, membres.
 
-Les membres représentant le personnel sont désignés par les syndicats les plus représentatifs au vu des élections organisées pour constituer le comité technique de l'établissement.
+Les membres représentant le personnel sont désignés par les syndicats les plus représentatifs au vu des élections organisées pour constituer le comité social d'administration de l'établissement.
+
+NOTA :
+
+Conformément à l’article 110 du décret n° 2020-1427 du 20 novembre 2020, ces dispositions entrent en vigueur le 1er janvier 2023.
