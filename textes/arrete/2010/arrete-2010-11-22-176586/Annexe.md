@@ -8,9 +8,9 @@ Nom substance |
 
 n° CAS |
 
-(*) |
+* |
 
-reglement |
+Règlement |
 
 6-benzyladénine |
 
@@ -31,6 +31,14 @@ exclusion |
 Abamectine |
 
 71751-41-2 |
+
+|
+
+540/2011 |
+
+Acétamipride |
+
+135410-20-7 |
 
 |
 
@@ -116,11 +124,19 @@ Benfluraline |
 
 540/2011 |
 
+Bentazone |
+
+25057-89-0 |
+
+|
+
+540/2011 |
+
 Benthiavalicarbe |
 
 177406-68-7 |
 
-|
+exclusion |
 
 540/2011 |
 
@@ -252,9 +268,49 @@ exclusion |
 
 540/2011 |
 
+Cyprosulfamide |
+
+221667-31-8 |
+
+|
+
+540/2011 |
+
+Daminozide |
+
+1596-84-5 |
+
+|
+
+540/2011 |
+
+Desmediphame |
+
+13684-56-5 |
+
+|
+
+540/2011 |
+
 Difénacoum |
 
 56073-07-5 |
+
+exclusion |
+
+540/2011 |
+
+Difénoconazole |
+
+119446-68-3 |
+
+|
+
+540/2011 |
+
+Diméthomorphe |
+
+110488-70-5 |
 
 exclusion |
 
@@ -327,6 +383,14 @@ Flumioxazine |
 Fluométuron |
 
 2164-17-2 |
+
+|
+
+540/2011 |
+
+Fluopicolide |
+
+239110-15-7 |
 
 |
 
@@ -409,6 +473,14 @@ Imazalil |
 35554-44-0 |
 
 |
+
+540/2011 |
+
+Imazamox |
+
+114311-32-9 |
+
+substitution |
 
 540/2011 |
 
@@ -636,6 +708,14 @@ Penconazole |
 
 540/2011 |
 
+Pendiméthaline |
+
+40487-42-1 |
+
+substitution |
+
+540/2011 |
+
 Penflufen |
 
 494793-67-8 |
@@ -812,6 +892,334 @@ exclusion |
 
 540/2011 |
 
+Mancozèbe |
+
+8018-01-7 |
+
+exclusion |
+
+540/2011 |
+
+Manèbe |
+
+12427-38-2 |
+
+|
+
+540/2011 |
+
+Mepanipyrim |
+
+110235-47-7 |
+
+|
+
+540/2011 |
+
+Mésotrione |
+
+104206-82-8 |
+
+|
+
+540/2011 |
+
+Métaldéhyde |
+
+108-62-3 |
+
+|
+
+540/2011 |
+
+Métazachlore |
+
+67129-08-2 |
+
+|
+
+540/2011 |
+
+Metconazole |
+
+125116-23-6 |
+
+|
+
+540/2011 |
+
+Métobromuron |
+
+3060-89-7 |
+
+|
+
+540/2011 |
+
+Métosulam |
+
+139528-85-1 |
+
+|
+
+540/2011 |
+
+Molinate |
+
+2212-67-1 |
+
+|
+
+540/2011 |
+
+Myclobutanil |
+
+88671-89-0 |
+
+|
+
+540/2011 |
+
+Oryzalin |
+
+19044-88-3 |
+
+|
+
+540/2011 |
+
+Oxadiargyl |
+
+39807-15-3 |
+
+|
+
+540/2011 |
+
+Oxyde d'éthylene |
+
+75-21-8 |
+
+exclusion |
+
+540/2011 |
+
+Oxyfluorfène |
+
+42874-03-3 |
+
+|
+
+540/2011 |
+
+Paclobutrazol |
+
+76738-62-0 |
+
+|
+
+540/2011 |
+
+Penconazole |
+
+66246-88-6 |
+
+|
+
+540/2011 |
+
+Pendiméthaline |
+
+40487-42-1 |
+
+substitution |
+
+540/2011 |
+
+Penflufen |
+
+494793-67-8 |
+
+|
+
+540/2011 |
+
+Phosmet |
+
+732-11-6 |
+
+|
+
+540/2011 |
+
+Picoxystrobine |
+
+117428-22-5 |
+
+|
+
+540/2011 |
+
+Pinoxaden |
+
+243973-20-8 |
+
+|
+
+540/2011 |
+
+Profoxydim |
+
+139001-49-3 |
+
+|
+
+540/2011 |
+
+Propiconazole |
+
+60207-90-1 |
+
+exclusion |
+
+540/2011 |
+
+Propyzamide |
+
+23950-58-5 |
+
+substitution |
+
+540/2011 |
+
+Proquinazid |
+
+189278-12-4 |
+
+|
+
+540/2011 |
+
+Pymétrozine |
+
+123312-89-0 |
+
+|
+
+540/2011 |
+
+Pyrimicarbe |
+
+23103-98-2 |
+
+|
+
+540/2011 |
+
+Pyriofénone |
+
+688046-61-9 |
+
+|
+
+540/2011 |
+
+Quinoclamine |
+
+2797-51-5 |
+
+|
+
+540/2011 |
+
+Quizalofop-P-tefuryl |
+
+200509-41-7 |
+
+exclusion |
+
+540/2011 |
+
+Sedaxane |
+
+874967-67-6 |
+
+|
+
+540/2011 |
+
+Spinetoram |
+
+935545-74-7 |
+
+|
+
+540/2011 |
+
+Spirodiclofen |
+
+148477-71-8 |
+
+exclusion |
+
+540/2011 |
+
+Spirotetramat |
+
+203313-25-1 |
+
+|
+
+540/2011 |
+
+Spiroxamine |
+
+118134-30-8 |
+
+|
+
+540/2011 |
+
+Sulcotrione |
+
+99105-77-8 |
+
+|
+
+540/2011 |
+
+Tébuconazole |
+
+107534-96-3 |
+
+|
+
+540/2011 |
+
+Tembotrione |
+
+335104-84-2 |
+
+|
+
+540/2011 |
+
+Thiaclopride |
+
+111988-49-9 |
+
+exclusion |
+
+540/2011 |
+
+Thiaméthoxam |
+
+153719-23-4 |
+
+|
+
+540/2011 |
+
 Thiophanate-méthyl |
 
 23564-05-8 |
@@ -840,6 +1248,14 @@ Triflusulfuron-méthyl |
 
 126535-15-7 |
 
+exclusion |
+
+540/2011 |
+
+Triticonazole |
+
+131983-72-7 |
+
 |
 
 540/2011 |
@@ -858,9 +1274,9 @@ Nom substance |
 
 n° CAS |
 
-(*) |
+* |
 
-classement |
+Reglement |
 
 1,3-dichloropropène |
 
@@ -1102,6 +1518,14 @@ Gamma-cyhalothrine |
 
 540/2011 |
 
+Imidaclopride |
+
+138261-41-3 |
+
+|
+
+540/2011 |
+
 Indoxacarbe |
 
 173584-44-6 |
@@ -1230,6 +1654,14 @@ Triazoxide |
 
 540/2011 |
 
+Trifloxystrobine |
+
+141517-21-7 |
+
+|
+
+540/2011 |
+
 Zétacyperméthrine |
 
 52315-07-8 |
@@ -1252,9 +1684,9 @@ Nom substance |
 
 n° CAS |
 
-(*) |
+* |
 
-reglement |
+Reglement |
 
 (Z)-8-dodecenol |
 
@@ -1600,14 +2032,6 @@ Décane-1-ol |
 
 540/2011 |
 
-Desmediphame |
-
-13684-56-5 |
-
-|
-
-540/2011 |
-
 Diclofop méthyl |
 
 51338-27-3 |
@@ -1616,17 +2040,17 @@ Diclofop méthyl |
 
 540/2011 |
 
-Difénoconazole |
+Diflubenzuron |
 
-119446-68-3 |
+35367-38-5 |
 
 |
 
 540/2011 |
 
-Diflubenzuron |
+Diflufénicanil |
 
-35367-38-5 |
+83164-33-4 |
 
 |
 
@@ -1645,14 +2069,6 @@ Diméthénamide-p (DMTA-P) |
 163515-14-8 |
 
 |
-
-540/2011 |
-
-Diméthomorphe |
-
-110488-70-5 |
-
-exclusion |
 
 540/2011 |
 
@@ -1808,14 +2224,6 @@ substitution |
 
 540/2011 |
 
-Fluopicolide |
-
-239110-15-7 |
-
-|
-
-540/2011 |
-
 Fluopyram |
 
 658066-35-4 |
@@ -1912,25 +2320,9 @@ Hypochlorite de sodium |
 
 540/2011 |
 
-Imazamox |
-
-114311-32-9 |
-
-substitution |
-
-540/2011 |
-
 Imazaquine |
 
 81335-37-7 |
-
-|
-
-540/2011 |
-
-Imidaclopride |
-
-138261-41-3 |
 
 |
 
@@ -1971,6 +2363,14 @@ Lufénuron |
 Malathion |
 
 121-75-5 |
+
+|
+
+540/2011 |
+
+Mandestrobine |
+
+173662-97-0 |
 
 |
 
@@ -2141,14 +2541,6 @@ Pencycuron |
 66063-05-6 |
 
 |
-
-540/2011 |
-
-Pendiméthaline |
-
-40487-42-1 |
-
-substitution |
 
 540/2011 |
 
@@ -2440,14 +2832,6 @@ Thiabendazole |
 
 540/2011 |
 
-Thiaméthoxam |
-
-153719-23-4 |
-
-|
-
-540/2011 |
-
 Thiencarbazone-méthyl |
 
 317815-83-1 |
@@ -2504,25 +2888,9 @@ Tribénuron-méthyle |
 
 540/2011 |
 
-Trifloxystrobine |
-
-141517-21-7 |
-
-|
-
-540/2011 |
-
 Trinexapac-éthyl |
 
 95266-40-3 |
-
-|
-
-540/2011 |
-
-Triticonazole |
-
-131983-72-7 |
 
 |
 
@@ -2552,27 +2920,19 @@ Zoxamide |
 
 540/2011 |
 
-4. Appartenant, en raison de leur toxicité chronique pour le milieu aquatique de 4. catégorie 3 ou 4, à une classe de danger prévue par le règlement (CE) n° 1272/2008
+4. Appartenant, en raison de leur toxicité chronique pour le milieu aquatique de catégorie 3 ou 4, à une classe de danger prévue par le règlement (CE) n° 1272/2008
 
 Nom substance |
 
 n° CAS |
 
-(*) |
+* |
 
-reglement |
+Reglement |
 
 2,4-d |
 
 94-75-7 |
-
-|
-
-540/2011 |
-
-Acétamipride |
-
-135410-20-7 |
 
 |
 
@@ -2594,14 +2954,6 @@ Acide octanoïque |
 
 540/2011 |
 
-Bentazone |
-
-25057-89-0 |
-
-|
-
-540/2011 |
-
 Cléthodime |
 
 99129-21-2 |
@@ -2613,14 +2965,6 @@ Cléthodime |
 Dicamba |
 
 1918-00-9 |
-
-|
-
-540/2011 |
-
-Diflufénicanil |
-
-83164-33-4 |
 
 |
 
@@ -2682,8 +3026,6 @@ Triclopyr |
 
 540/2011 |
 
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention exclusion et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention substitution et soumises aux taux additionnels prévus au III du même article.
-
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 19 décembre 2021, ces dispositions sont applicables à compter du 1er janvier 2022.
+Conformément à l’article 2 de l’arrêté du 22 décembre 2022 (NOR : TREL2235282A), ces dispositions sont applicables à compter du 1er janvier 2023.
