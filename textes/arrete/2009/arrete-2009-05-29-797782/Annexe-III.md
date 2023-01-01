@@ -8,7 +8,7 @@ DANGEREUSES PAR VOIES DE NAVIGATION INTÉRIEURES (ADN)
 
 1.1. La présente annexe est composée :
 
-- de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2021, tels que visés à la section III. 1 de l'annexe III de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive (UE) 2020/1833. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.html ;
+- de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2023, tels que visés à la section III. 1 de l'annexe III de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive déléguée (UE) 2022/2407. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.html ;
 
 - des dispositions particulières qui complètent notamment le règlement annexé à l'ADN et en précisent les modalités d'application aux transports nationaux ou internationaux de marchandises dangereuses par voies de navigation intérieures effectués en France.
 
@@ -18,7 +18,7 @@ Dispositions particulières applicables à tous les transports par voies de navi
 
 Ces dispositions précisent les dispositions particulières applicables concernant les points suivants :
 
-- missions respectives des différents intervenants lors des opérations de chargement et de déchargement et avant envoi des bateaux (paragraphe 2. 1) ;
+- missions respectives des différents intervenants lors des opérations de chargement, de remplissage et de déchargement et avant envoi des bateaux (paragraphe 2. 1) ;
 
 - chargement, déchargement (paragraphe 2. 2) ;
 
@@ -230,6 +230,6 @@ Huit leçons
 
 NOTA :
 
-Conformément à l'article 17 de l'arrêté du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.
+Conformément à l’article 20 de l’arrêté du 19 décembre 2022 (NOR : TREP2235813A), ces dispositions entrent en vigueur le 1er janvier 2023.
 
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2021.
+Toutefois, les dispositions du présent arrêté applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2023.

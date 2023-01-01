@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT FERROVIAIRE DE MARCHANDISES DAN
 
 1.1. La présente annexe est composée :
 
-- de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le RID, tel que visé à la section II. 1 de l'annexe II de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive (UE) 2020/1833 susvisée. Ce règlement, y compris les amendements en vigueur au 1er janvier 2021, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30,3006 Berne, Suisse. Il est disponible sur le site internet de l'OTIF à l'adresse suivante : http://www.otif.org/.
+- de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le RID, tel que visé à la section II. 1 de l'annexe II de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive déléguée (UE) 2022/2407 susvisée. Ce règlement, y compris les amendements en vigueur au 1er janvier 2023, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30,3006 Berne, Suisse. Il est disponible sur le site internet de l'OTIF à l'adresse suivante : http://www.otif.org/.
 
 - des dispositions particulières qui complètent notamment l'annexe du RID et en précisent les modalités d'application aux transports nationaux ou internationaux ferroviaires de marchandises dangereuses effectués en France.
 
@@ -44,7 +44,7 @@ Lorsqu'il est fait référence à une partie, section, sous-section ou à un par
 
 2.1. Missions respectives des différents intervenants lors des opérations de chargement, de déchargement, de remplissage et de vidange, avant acceptation des envois par le transporteur ferroviaire.
 
-Outre les dispositions prévues par d'autres textes pour le chargement, le remplissage et le déchargement de marchandises ou d'unités de transport, les mesures ci-après doivent être observées :
+Outre les dispositions prévues par d'autres textes pour le chargement, le déchargement, le remplissage et la vidange de marchandises ou d'unités de transport, les mesures ci-après doivent être observées :
 
 2.1.1. Transport en colis et en vrac.
 
@@ -224,7 +224,7 @@ a) Transport en citerne, ou véhicule-citerne en ferroutage :
 
 - suintement ou goutte à goutte provenant d'une pièce mobile sauf si la matière dangereuse concernée se caractérise par l'un des numéros d'identification du danger suivants : 20,22,30,33,40,50,80,90 et 99.
 
-b) Transport en vrac, ou véhicule pour vrac en ferroutage :
+b) Transport en vrac, ou véhicule pour le transport en vrac en ferroutage :
 
 Ecoulement en provenance des trappes de déchargement lorsque ce dernier est supérieur à 2 litres par minute ou tout épandage provenant du corps du wagon, du conteneur ou d'un véhicule pour vrac.
 
@@ -240,15 +240,15 @@ a) Choc anormal (on entend par choc anormal, un accostage brutal ou un choc lat�
 
 - un wagon-citerne ou un wagon pour le transport multimodal chargé de conteneur (s)-citerne (s), citerne (s) mobile (s), CGEM ou véhicule (s)-citerne (s) ayant pour conséquences une déformation du réservoir ou une dégradation des équipements de service ou de structure de la citerne, ou ;
 
-- un wagon transportant des marchandises dangereuses en vrac (wagon-trémie, conteneur pour vrac, véhicule pour vrac) ayant pour conséquences une déformation de l'enceinte de rétention, ou des équipements de celle-ci, rendant le contenant structurellement impropre à l'emploi, selon le 7.3.1.13 du RID.
+- un wagon transportant des marchandises dangereuses en vrac (wagon-trémie, conteneur ou véhicule pour le transport en vrac) ayant pour conséquences une déformation de l'enceinte de rétention, ou des équipements de celle-ci, rendant le contenant structurellement impropre à l'emploi, selon le 7.3.1.13 du RID.
 
 b) Déraillement sans renversement :
 
 - d'un wagon-citerne ou d'un wagon pour le transport multimodal chargé de conteneur (s)-citerne (s), citerne (s) mobile (s), CGEM ou véhicule (s)-citerne (s) ayant pour conséquences une déformation du réservoir ou une dégradation des équipements de service ou de structure de la citerne, ou ;
 
-- d'un wagon transportant des marchandises dangereuses en vrac (wagon-trémie, conteneur pour vrac, véhicule pour vrac) ayant pour conséquences une déformation de l'enceinte de rétention, ou des équipements de celle-ci, rendant le contenant structurellement impropre à l'emploi, selon le 7.3.1.13 du RID.
+- d'un wagon transportant des marchandises dangereuses en vrac (wagon-trémie, conteneur ou véhicule pour le transport en vrac) ayant pour conséquences une déformation de l'enceinte de rétention, ou des équipements de celle-ci, rendant le contenant structurellement impropre à l'emploi, selon le 7.3.1.13 du RID.
 
-c) Renversement d'un wagon-citerne ou d'un conteneur-citerne, citerne mobile, CGEM, ou véhicule-citerne, ou d'un wagon transportant des marchandises dangereuses en vrac (wagon-trémie, conteneur pour vrac, véhicule pour vrac).
+c) Renversement d'un wagon-citerne ou d'un conteneur-citerne, citerne mobile, CGEM, ou véhicule-citerne, ou d'un wagon transportant des marchandises dangereuses en vrac (wagon-trémie, conteneur ou véhicule pour le transport en vrac).
 
 d) Tout événement qui a rendu impropre à l'emploi une UTI ou un compartiment de charge contenant des colis de marchandises de la classe 1 ou de matières radioactives, ou qui a permis d'observer une dégradation de l'intégrité d'un colis, l'ayant rendu impropre à la poursuite du transport sans mesure de sécurité complémentaire.
 
@@ -286,7 +286,7 @@ Lorsque cette remise en conformité nécessite des mesures pour lesquelles toute
 
 2.3.3.7. Bilans annuels.
 
-Les gestionnaires d'infrastructure et les transporteurs établissent, chacun pour ce qui les concerne, un bilan annuel des événements relevant respectivement des 2.3.3.1,2.3.3.2 et 2.3.3.3, et de leur traitement. Ce bilan est transmis, au plus tard le 30 avril suivant l'exercice, à la Mission Transport de matières dangereuses (Ministère de la transition écologique) , 92055 La Défense Cedex.
+Les gestionnaires d'infrastructure et les transporteurs établissent, chacun pour ce qui les concerne, un bilan annuel des événements relevant respectivement des 2.3.3.1,2.3.3.2 et 2.3.3.3, et de leur traitement. Ce bilan est transmis, au plus tard le 30 avril suivant l'exercice, à la Mission Transport de matières dangereuses (Ministère de la transition écologique et de la cohésion des territoires) , 92055 La Défense Cedex.
 
 2.3.4. Plan d'urgence interne des gares de triage.
 
@@ -374,7 +374,7 @@ Elle garantit en permanence le respect des consignes opérationnelles suivantes 
 
 - la masse maximale des coupes est définie par le gestionnaire de l'infrastructure visée au 2.6.1.2 en fonction des paramètres opérationnels de l'installation de tri à la bosse, de façon à ce qu'elle permette en toute circonstance le fonctionnement optimal des dispositifs de freinage automatique de l'installation de tri ;
 
-- les dispositifs de freinage automatique ainsi que les aiguillages font l'objet d'une maintenance régulière de façon à rester opérationnels en permanence. En cas de leur dysfonctionnement, les voies concernés sont neutralisées jusqu'à réparation ces matériels et il n'est pas effectué de triage sur ces voies.
+- les dispositifs de freinage automatique ainsi que les aiguillages font l'objet d'une maintenance régulière de façon à rester opérationnels en permanence. En cas de leur dysfonctionnement, les voies concernées sont neutralisées jusqu'à réparation de ces matériels et il n'est pas effectué de triage sur ces voies.
 
 Ces consignes s'appliquent également à la coupe de wagons suivant immédiatement une coupe de wagons transportant une marchandise visée au 2.6.1.1 ci-dessus.
 
@@ -394,7 +394,7 @@ Les incidents ou accidents survenus pendant les opérations de débranchements v
 
 - la description de mesures correctives destinées à remédier à ces causes mises en œuvre sur l'infrastructure.
 
-Ces rapports sont joints au bilan annuel prévu au 2.3.3.7 ci dessus.
+Ces rapports sont joints au bilan annuel prévu au 2.3.3.7 ci-dessus.
 
 2.6.1.6. Bilan de l'application de l'instruction particulière
 
@@ -456,6 +456,6 @@ Les matières des n° ONU 3082 et 3077 de la classe 9 bénéficiant d'autorisati
 
 NOTA :
 
-Conformément à l'article 17 de l'arrêté du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.
+Conformément à l’article 20 de l’arrêté du 19 décembre 2022 (NOR : TREP2235813A), ces dispositions entrent en vigueur le 1er janvier 2023.
 
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2021.
+Toutefois, les dispositions du présent arrêté applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2023.

@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGE
 
 1.1. La présente annexe est composée :
 
-- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive (UE) 2020/1833 susvisée. Cet accord, y compris les amendements en vigueur au 1er janvier 2021, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.htm;
+- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive déléguée (UE) 2022/2407 susvisée. Cet accord, y compris les amendements en vigueur au 1er janvier 2023, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.htm;
 
 - des dispositions particulières qui complètent notamment les annexes A et B de l'ADR et en précisent les modalités d'application aux transports nationaux ou internationaux par route de marchandises dangereuses effectués sur le territoire national.
 
@@ -46,9 +46,11 @@ Ces dispositions précisent les dispositions particulières applicables concerna
 
 - dispositions spéciales relatives à la livraison de certaines marchandises en colis (paragraphe 3.7) ;
 
-- dispositions spéciales relatives à la classe 7 (paragraphe 3.8).
+- dispositions spéciales relatives à la classe 7 (paragraphe 3.8) ;
 
-- dispositions spéciales relatives aux transports de certains déchets contaminés par de l'amiante non lié (paragraphe 3.9).
+- dispositions spéciales relatives aux transports de certains déchets contaminés par de l'amiante non lié (paragraphe 3.9) ;
+
+- dispositions spéciales relatives aux livraisons assurées par les entreprises mentionnées au 5° de l'article R. 5124-2 du code de la santé publique (paragraphe 3.10).
 
 Dispositions particulières relatives à la formation de l'équipage du véhicule (paragraphe 4).
 
@@ -212,7 +214,7 @@ Est autorisée, sous réserve de la décision préfectorale prévue au 2.2.1.4, 
 
 Le moteur de propulsion du véhicule doit être arrêté lorsque la vidange des citernes est effectuée par gravité ou à l'aide d'un groupe motopompe indépendant du véhicule. Toutefois, l'utilisation du moteur de propulsion est autorisée pour la vidange des citernes basculantes.
 
-La vidange des citernes par pression de gaz n'est autorisé que si on utilise la pression de la phase gazeuse du produit à transférer ou bien si on utilise un gaz depuis une source externe sous une pression n'excédant pas 4 bar. Dans le cas où le point d'éclair du produit à transférer est inférieur à 23° C :
+La vidange des citernes par pression de gaz n'est autorisée que si on utilise la pression de la phase gazeuse du produit à transférer ou bien si on utilise un gaz depuis une source externe sous une pression n'excédant pas 4 bar. Dans le cas où le point d'éclair du produit à transférer est inférieur à 23° C :
 
 - pour les citernes à déchets visées au 6.10, la pression ne doit pas excéder 1 bar, conformément au 4.5.2.3 ;
 
@@ -598,7 +600,7 @@ Le transport simultané de personnes et de marchandises dangereuses autres que c
 
 3.2.1. Le transport pour compte propre de marchandises dangereuses autres que les artifices de divertissement selon le 3.4.2 de la présente annexe I et les matières radioactives, en quantités n'excédant pas les limites fixées au 1.1.3.6, n'est pas soumis à l'obligation du document de transport prévu au 5.4.1.
 
-3.2.2. Pour les contenants vides (emballages, récipients, GRV, grands emballages, citernes, véhicules pour vrac et conteneurs pour vrac), la désignation des marchandises prévue au 5.4.1.1.6.2.3 peut être portée sur le document de transport ayant accompagné le véhicule en charge. La date à partir de laquelle débute le retour à vide doit être mentionnée sur le même document de transport.
+3.2.2. Pour les contenants vides (emballages, récipients, GRV, grands emballages, citernes, véhicules et conteneurs pour le transport en vrac), la désignation des marchandises prévue au 5.4.1.1.6.2.3 peut être portée sur le document de transport ayant accompagné le véhicule en charge. La date à partir de laquelle débute le retour à vide doit être mentionnée sur le même document de transport.
 
 3.2.3. Les transports de marchandises dangereuses effectués à partir du lieu de déchargement des navires les ayant transportées par voie maritime en vrac (c'est-à-dire dans des espaces à cargaison d'un navire sans être retenues par aucune forme de dispositif intermédiaire) jusqu'au lieu de leur stockage ou dépotage ne sont pas soumis à l'obligation du document de transport prévu au 5.4.1 sous réserve que :
 
@@ -1160,6 +1162,6 @@ Pour chaque année calendaire et au plus tard douze mois après l'écoulement de
 
 NOTA :
 
-Conformément à l'article 17 de l'arrêté du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.
+Conformément à l’article 20 de l’arrêté du 19 décembre 2022 (NOR : TREP2235813A), ces dispositions entrent en vigueur le 1er janvier 2023.
 
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2021.
+Toutefois, les dispositions du présent arrêté applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2023.

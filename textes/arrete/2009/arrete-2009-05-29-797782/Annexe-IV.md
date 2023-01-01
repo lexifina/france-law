@@ -104,7 +104,7 @@ Les flexibles réalisés à partir de tuyaux qui ne sont pas en caoutchouc répo
 
 2.3. Flexibles pour les gaz de pétrole liquéfiés (GPL) de la classe 2.
 
-Les flexibles sont d'un seul tenant. Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1762 : 2017.
+Les flexibles sont d'un seul tenant. Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1762 : 2018.
 
 2.4. Flexibles pour les gaz liquéfiés réfrigérés de la classe 2.
 
@@ -112,11 +112,11 @@ Les flexibles sont conformes à la norme NF EN ISO 21012 : 2018 . Toutefois les 
 
 2.5. Flexibles pour les carburants de la classe 3.
 
-Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 1360 : 2013, ou à la norme NF EN 1761 : 1999, ou à la norme NF EN 1765 : 2005, ou à la norme NF EN 13765 : 2018, ou à la norme NF EN ISO 1825 : 2011.
+Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 1360 : 2013, ou à la norme NF EN 1761 : 1999, ou à la norme NF EN 1765 : 2016, ou à la norme NF EN 13765 : 2018, ou à la norme NF EN ISO 1825 : 2017.
 
 2.6. Flexibles pour les matières chimiques liquides.
 
-Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 12115 : 2011, ou à la norme NF EN 13765 : 2018.
+Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme norme EN NF 12115 : 2021, ou à la norme NF EN 13765 : 2018.
 
 2.7. Les flexibles réalisés à partir de tuyaux métalliques onduleux peuvent être conformes aux types 1 ou 2 selon la norme NF EN ISO 10380 : 2012.
 
@@ -146,7 +146,7 @@ Agrément de type (1.8.7.2) |
 
 Xa |
 
-Supervision de la fabrication (1.8.7.3) |
+Suivi de fabrication (1.8.7.3) |
 
 Xa ou IS |
 
@@ -154,7 +154,7 @@ Contrôles et épreuves initiaux (1.8.7.4) |
 
 Xa ou IS |
 
-Un fabricant de flexible peut mettre en place un service interne d'inspection IS conformément au 1.8.7.6 sous réserve :
+Un fabricant de flexible peut mettre en place un service interne d'inspection IS conformément au 1.8.7.7 sous réserve :
 
 - d'avoir une activité mensuelle de fabrication et de contrôle ;
 
@@ -162,7 +162,7 @@ Un fabricant de flexible peut mettre en place un service interne d'inspection IS
 
 - qu'en cas de sous-traitance, il s'assure et est à même de démontrer que son sous-traitant possède les compétences voulues pour effectuer l'opération en question, assume l'entière responsabilité de cette sous-traitance, et que les essais prévus aux 1.8.7.3 et 1.8.7.4 sont réalisés par l'IS.
 
-L'organisme Xa doit en plus du cadre de la surveillance des activités d'un IS défini au 1.8.7.6 :
+L'organisme Xa doit en plus du cadre de la surveillance des activités d'un IS défini au 1.8.7.7 :
 
 - procéder à un nombre suffisant de visites de surveillance permettant de garantir que les flexibles fabriqués sont conformes aux dispositions du présent appendice ;
 
@@ -198,7 +198,7 @@ Les flexibles sont soumis à un contrôle visuel annuel. Ce contrôle donne lieu
 
 4.2. Contrôle périodique.
 
-Les dispositions du 1.8.7.5 s'appliquent aux cas suivants sous le contrôle d'un organisme Xa :
+Les dispositions du 1.8.7.6 s'appliquent aux cas suivants sous le contrôle d'un organisme Xa :
 
 (1) Les flexibles pour l'ammoniac du n° ONU 1005 de la classe 2 sont soumis à une épreuve d'étanchéité au plus tard dix-huit mois après la date d'épreuve initiale.
 
@@ -206,7 +206,7 @@ Les dispositions du 1.8.7.5 s'appliquent aux cas suivants sous le contrôle d'un
 
 4.3. Réparations et transformations.
 
-Un flexible ne peut donner lieu qu'à une seule réparation ou transformation. Celle-ci doit être réalisée par le fabricant du flexible du ou un réparateur habilité par lui. Les dispositions du 1.8.7.5 s'appliquent sous le contrôle d'un organisme Xa.
+Un flexible ne peut donner lieu qu'à une seule réparation ou transformation. Celle-ci doit être réalisée par le fabricant du flexible du ou un réparateur habilité par lui. Les dispositions du 1.8.7.6 s'appliquent sous le contrôle d'un organisme Xa.
 
 Après réparation ou transformation, l'épreuve de pression hydraulique initiale est renouvelée à une pression égale à la pression d'épreuve initiale. Mention en est portée sur la fiche de suivi.
 
@@ -257,8 +257,6 @@ Pour les tuyaux métalliques ou composites recouverts d'une tresse ou d'une hél
 6.3. Un dispositif de protection des flexibles contre les chocs et les frottements doit être prévu lors des opérations de transport.
 
 6.4. Tout utilisateur de flexible qui constate des détériorations ou usures anormales doit le signaler sans délai à la personne chargée des contrôles annuels.
-
-6.5. Les flexibles construits avant le 1er janvier 2014 selon les prescriptions de l'appendice IV.1 applicables avant cette date peuvent continuer à être utilisés dans les conditions des 4.2 à 4.4 ci-dessus.
 
 APPENDICE IV.2 : LISTE DE CONTRÔLE (Voir 5.3 de l'annexe I du présent arrêté)
 
@@ -2596,13 +2594,13 @@ Examen visuel |
 
 Contrôle de l'attestation de montage |
 
-9.2.4.7 |
+9.2.4.8 |
 
 6.4. Frein d'endurance (ralentisseur) |
 
 Examen visuel et, le cas échéant, en visite initiale, contrôle des attestations |
 
-9.2.4.6 |
+9.2.4.7 |
 
 6.5. Dispositif d'échappement |
 
@@ -2850,7 +2848,7 @@ Avant leur remplissage, l'emballeur procède à une vérification des GRV afin d
 
 -qui sont détenteurs d'une autorisation nominative à effectuer ces opérations, délivrée par le chef de l'entreprise de transport ;
 
--qui ont reçu, outre les formations obligatoires prévues par l'ADR, une formation spécifique conformément au point 6 ci-après.
+-qui ont reçu, outre les formations obligatoires prévues par l'ADR, une formation spécifique conformément au point 5 ci-après.
 
 4.2. Lorsqu'elle est effectuée sur la voie publique telle qu'autorisée au 2.2.1.2, l'opération de vidange s'effectue obligatoirement en présence, pendant toute la durée, d'une personne techniquement compétente représentant le destinataire exploitant de l'installation réceptionnaire dont dépendent les réservoirs destinés à recueillir les produits déchargés (nommée ci-après “ exploitant ”).
 
@@ -3104,10 +3102,10 @@ Un document décrivant de manière détaillée les consignes de remplissage et d
 
 8. Formation de l'équipage.
 
-Le conducteur est titulaire d'un certificat correspondant à la formation de base ainsi qu'à la spécialisation “ produits pétroliers ” au sens du 4.3 c) de l'annexe I du présent arrêté.
+Le conducteur est titulaire d'un certificat correspondant à la formation de base ainsi qu'à la spécialisation “ produits pétroliers ” au sens du 4.3 b) de l'annexe I du présent arrêté.
 
 NOTA :
 
-Conformément à l'article 17 de l'arrêté du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.
+Conformément à l’article 20 de l’arrêté du 19 décembre 2022 (NOR : TREP2235813A), ces dispositions entrent en vigueur le 1er janvier 2023.
 
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2021.
+Toutefois, les dispositions du présent arrêté applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2023.
