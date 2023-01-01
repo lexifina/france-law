@@ -2,7 +2,7 @@
 
 ANNEXE LÉGISLATIVE
 
-Sont ressortissants de l'Office national des anciens combattants et victimes de guerre :
+Sont ressortissants de l'Office national des combattants et des victimes de guerre :
 
 1° Les invalides pensionnés de guerre et des opérations extérieures ;
 
@@ -41,3 +41,7 @@ Sont ressortissants de l'Office national des anciens combattants et victimes de 
 18° Les conjoints ou partenaires survivants de titulaires de la carte du combattant ou de bénéficiaires du présent code.
 
 Les invalides pensionnés de guerre ou au titre des opérations extérieures dont la pension viendrait à être supprimée demeurent ressortissants de l'Office.
+
+NOTA :
+
+Conformément au IV de l'article unique de la loi n° 2022-297 du 2 mars 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
