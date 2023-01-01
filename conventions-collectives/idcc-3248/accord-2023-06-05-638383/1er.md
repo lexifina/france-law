@@ -1,0 +1,7 @@
+# Article 1er
+
+Il est institué dans le cadre de la convention collective des industries métallurgiques des Deux-Sèvres un barème des taux effectifs garantis annuels applicable à l'ensemble des catégories de personnel visées à l'accord national du 21 juillet 1975 sur les classifications, modifié par les avenants du 30 janvier 1980, 21 avril 1981, 4 février 1983, 25 janvier 1990 et 10 juillet 1992.
+
+Les taux effectifs garantis représentent le montant des salaires pour chaque niveau de classification au-dessous duquel les salariés ne peuvent être rémunérés, sous réserve des dispositions de l'article 29 de la convention collective concernant les salariés de moins de dix-huit ans.
+
+Les taux effectifs garantis ne serviront pas de base de calcul à la prime d'ancienneté prévue par la convention collective.
