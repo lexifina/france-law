@@ -4,7 +4,7 @@ LISTE DES EMPLOIS OUVERTS À LA MOBILITÉ AUX PERSONNES VISÉES AUX 1° ET 2° D
 
 a) Pour le régime général :
 
-― agent comptable d'organisme de catégorie D ;
+― directeur comptable et financier d'organisme de catégorie D ;
 
 ― directeur adjoint de niveau 3 d'organisme de catégorie D ;
 
@@ -51,3 +51,7 @@ h) Pour les organismes agréés à l'article R. 382-6 du code de la sécurité s
 i) Pour la Caisse nationale de solidarité pour l'autonomie (CNSA) :
 
 ― sous-directeur.
+
+NOTA :
+
+Conformément au I de l’article 2 de l’arrêté du 21 décembre 2022, ces dispositions prennent effet au 1er janvier 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.
