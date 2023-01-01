@@ -10,28 +10,32 @@ NOMBRE MAXIMAL D'EMPLOIS |
 
 Catégorie I |
 
-54 |
+90 |
 
 Catégorie II |
 
-173 |
+230 |
 
 Catégorie III |
 
-192 |
+302 |
 
 Catégorie IV |
 
-330 |
+430 |
 
 Catégorie V |
 
-465 |
+571 |
 
 Catégorie VI |
 
-460 |
+680 |
 
 Catégorie VII |
 
-4130 |
+4 030 |
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 22 décembre 2022 (NOR : IOMJ2226989A), ces dispositions entrent en vigueur le 1er janvier 2023.
