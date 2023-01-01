@@ -1,0 +1,19 @@
+# Article 1er
+
+L'article 20-3-G « Cotisations » est modifié comme suit :
+
+« Les cotisations sont établies sur la base de la législation de l'assurance maladie et de la réglementation sociale et fiscale en vigueur au moment de la prise d'effet du présent régime. Les cotisations seront revues sans délai en cas de changement de ces textes.
+
+La cotisation du régime “ remboursement complémentaire de frais de soins de santé ” est mensuelle et forfaitaire.
+
+La cotisation mensuelle, exprimée en euros, est fixée et détaillée ci-dessous :
+
+– salarié relevant du régime général de la sécurité sociale : 50,00 € ;
+
+– salarié relevant du régime local Alsace-Moselle : 32,00 €.
+
+La contribution de l'employeur devra être au minimum de 50 % de la cotisation.
+
+Les cotisations sont dues pour la totalité du mois au cours duquel les garanties sont accordées.
+
+En cas d'arrêt de travail pour accident du travail ou maladie professionnelle de plus de 8 mois, le salarié bénéficiera du maintien des garanties sans paiement des cotisations pendant 12 mois à compter du 1er jour du 9e mois d'arrêt de travail ».
