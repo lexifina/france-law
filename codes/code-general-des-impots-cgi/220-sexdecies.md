@@ -18,9 +18,9 @@ b) Constituer la première exploitation d'un spectacle caractérisé par une mis
 
 c) Etre interprété par une équipe d'artistes composée à 90 % au moins de professionnels ;
 
-d) Disposer d'au moins six artistes au plateau ;
+d) Disposer d'au moins six artistes au plateau justifiant chacun d'au moins vingt services de répétition ;
 
-e) Etre programmé pour plus de vingt dates sur une période de douze mois consécutifs dans au moins deux lieux différents.
+e) Etre programmé pour plus de vingt dates, dont la moitié au moins sur le territoire français, sur une période de douze mois consécutifs dans au moins deux lieux différents.
 
 III.-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant des dépenses suivantes, engagées jusqu'au 31 décembre 2024, pour des spectacles mentionnés au II effectués en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
@@ -78,4 +78,4 @@ IX.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect
 
 NOTA :
 
-Conformément au III, B de l'article 22 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux demandes d'agrément provisoire déposées à compter du 1er janvier 2021.
+Conformément au II de l’article 39 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux demandes d'agrément provisoire déposées à compter du 1er janvier 2023.

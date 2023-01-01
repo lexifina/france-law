@@ -12,8 +12,4 @@ III. – Le crédit d'impôt calculé par les sociétés de personnes mentionné
 
 III bis.-Le bénéfice du crédit d'impôt déterminé dans les conditions prévues au I bis est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis, du règlement (UE) n° 1408/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture ou du règlement (UE) n° 717/2014 de la Commission du 27 juin 2014 concernant l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de la pêche et de l'aquaculture.
 
-IV. – Les I et I bis s'appliquent aux heures de formation effectuées jusqu'au 31 décembre 2022.
-
-NOTA :
-
-Conformément au IV de l'article 19 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux heures de formation effectuées à compter du 1er janvier 2022.
+IV. – Les I et I bis s'appliquent aux heures de formation effectuées jusqu'au 31 décembre 2024.

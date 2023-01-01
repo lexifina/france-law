@@ -48,8 +48,6 @@ VII. – Les redevables déposent une déclaration selon les modalités prévues
 
 VIII. – Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à la taxe sont régis par les règles applicables en matière de taxe sur les salaires jusqu'au 31 décembre 2003.
 
-Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le recouvrement de la taxe.
-
 IX.-Le produit annuel de la taxe est affectée à la région d'Ile-de-France, retracée dans la section d'investissement de son budget, en vue de financer les dépenses d'investissement en faveur des transports en commun, dans la limite du montant prévu à l'article L. 4414-5 du code général des collectivités territoriales. Le solde de ce produit est affecté à l'établissement public Société du Grand Paris mentionné à l'article 7 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
 NOTA :

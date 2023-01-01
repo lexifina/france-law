@@ -24,7 +24,7 @@ B.-La réduction d'impôt prévue au A du présent I s'applique également aux t
 
 C.-La réduction d'impôt prévue au A du présent I s'applique également aux investissements affectés plus de cinq ans par le concessionnaire à l'exploitation d'une concession de service public local à caractère industriel et commercial et réalisés dans des secteurs éligibles.
 
-Pour l'application du présent article, les références aux restaurants dont le dirigeant ou un salarié est titulaire du titre de maître-restaurateur mentionné à l'article 244 quater Q, aux restaurants de tourisme classés et aux hôtels classés prévues au I de l'article 199 undecies B s'apprécient au regard de la réglementation propre à chaque collectivité d'outre-mer.
+Pour l'application du présent article, les références aux restaurants dont le dirigeant ou un salarié est titulaire du titre de maître-restaurateur défini à l'article L. 122-21 du code de la consommation, aux restaurants de tourisme classés et aux hôtels classés prévues au I de l'article 199 undecies B s'apprécient au regard de la réglementation propre à chaque collectivité d'outre-mer.
 
 D.-La réduction d'impôt prévue au A du présent I s'applique également aux acquisitions ou constructions de logements neufs à usage locatif situés à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna, lorsque les conditions suivantes sont réunies :
 
@@ -56,7 +56,7 @@ e) Une fraction, définie par décret, du prix de revient d'un ensemble d'invest
 
 f) 80 % de l'avantage en impôt procuré par la réduction d'impôt pratiquée au titre de l'investissement et par l'imputation du déficit provenant de la location du bien acquis et de la moins-value réalisée lors de la cession de ce bien ou des titres de la société bailleresse sont rétrocédés à l'organisme de logement social locataire sous forme de diminution du loyer et du prix de cession du bien ;
 
-g) Au terme de la période de location mentionnée au b du présent 2°, les logements ou les parts ou actions des sociétés qui en sont propriétaires sont cédés, dans des conditions, notamment de prix, définies par une convention conclue entre leur propriétaire et l'organisme locataire au plus tard lors de la conclusion du bail, à l'organisme locataire ou à des personnes physiques choisies par celui-ci et dont les ressources, au titre de l'année précédant celle de la première occupation du logement, n'excèdent pas des plafonds fixés par décret en fonction du nombre de personnes destinées à occuper à titre principal le logement et de la localisation de celui-ci ;
+g) Au terme de la période de location mentionnée au a du présent 2°, les logements ou les parts ou actions des sociétés qui en sont propriétaires sont cédés, dans des conditions, notamment de prix, définies par une convention conclue entre leur propriétaire et l'organisme locataire au plus tard lors de la conclusion du bail, à l'organisme locataire ou à des personnes physiques choisies par celui-ci et dont les ressources, au titre de l'année précédant celle de la première occupation du logement, n'excèdent pas des plafonds fixés par décret en fonction du nombre de personnes destinées à occuper à titre principal le logement et de la localisation de celui-ci ;
 
 3° Pour les logements faisant l'objet d'un contrat de location-accession à la propriété immobilière :
 
@@ -98,15 +98,15 @@ Pour les souscriptions mentionnées au B du II, la réduction d'impôt est assis
 
 B.-Pour les projets d'investissement comportant l'acquisition, l'installation ou l'exploitation d'équipements de production d'énergie renouvelable, ce montant est pris en compte dans la limite d'un montant par watt installé, fixé par arrêté conjoint des ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant prend en compte les coûts d'acquisition et d'installation directement liés à ces équipements.
 
-C.-Pour les équipements et opérations de pose de câbles sous-marins de communication mentionnés au I ter de l'article 199 undecies B desservant pour la première fois la Polynésie française, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, les îles Wallis et Futuna, la Nouvelle-Calédonie ou les Terres australes et antarctiques françaises, l'assiette de la réduction d'impôt est égale à la moitié du montant déterminé en application du A du présent III.
+C.-Pour les équipements et opérations de pose de câbles sous-marins de communication mentionnés au I ter de l'article 199 undecies B desservant pour la première fois la Polynésie française, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, les îles Wallis et Futuna, la Nouvelle-Calédonie ou les Terres australes et antarctiques françaises, l'assiette de la réduction d'impôt est égale à la moitié du coût de revient déterminé en application du 1 du A du présent III et diminuée du montant des aides publiques accordées pour leur financement.
 
-Pour les équipements et opérations de pose du câble de secours mentionnés au dernier alinéa du I ter de l'article 199 undecies B, l'assiette de la réduction d'impôt est égale au quart du montant déterminé en application du A du présent III.
+Pour les équipements et opérations de pose du câble de secours mentionnés au dernier alinéa du I ter de l'article 199 undecies B, l'assiette de la réduction d'impôt est égale au quart du coût de revient déterminé en application du 1 du A du présent III et diminuée du montant des aides publiques accordées pour leur financement.
 
 Pour l'application du présent C, le montant de l'aide fiscale peut être réduit de moitié au plus, compte tenu du besoin de financement de la société exploitante pour la réalisation de ce projet et de l'impact de l'aide sur les tarifs.
 
-D.-Pour les investissements mentionnés au I quater de l'article 199 undecies B, l'assiette de la réduction d'impôt est égale à 20 % du montant déterminé en application du A du présent III.
+D.-Pour les investissements mentionnés au I quater de l'article 199 undecies B, l'assiette de la réduction d'impôt est égale à 20 % du coût de revient déterminé en application du 1 du A du présent III et diminuée du montant des aides publiques accordées pour leur financement.
 
-E.-Pour les travaux mentionnés au B du I, la réduction d'impôt est assise sur le prix de revient de l'hôtel, de la résidence de tourisme ou du village de vacances classés après réalisation des travaux, diminué du prix de revient de ces mêmes biens avant réalisation des travaux et de la fraction du prix de revient des travaux financée par une aide publique.
+E.-(Abrogé).
 
 F.-Pour les logements mentionnés au D du I, la réduction d'impôt est assise sur le prix de revient des logements, minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des aides publiques reçues.
 
@@ -158,7 +158,7 @@ Si, dans le délai prévu au premier alinéa du présent 2°, cet engagement ou 
 
 Ces dispositions ne sont pas applicables si les immobilisations en cause sont comprises dans un apport partiel d'actif réalisé sous le régime de l'article 210 B ou si la société qui en est propriétaire fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la condition que la société bénéficiaire de l'apport ou la société absorbante, selon le cas, réponde aux mêmes conditions d'activité et reprenne, sous les mêmes conditions et sanctions, les mêmes engagements pour la fraction du délai restant à courir ;
 
-3° En cas de cession dans le délai prévu au 2° du présent B de tout ou partie des droits sociaux souscrits, la réduction d'impôt dont a bénéficié le souscripteur fait l'objet d'une reprise au titre de l'exercice au cours duquel la cession est intervenue.
+3° En cas de cession dans le délai prévu au premier alinéa du 2° du présent B de tout ou partie des droits sociaux souscrits, la réduction d'impôt dont a bénéficié le souscripteur fait l'objet d'une reprise au titre de l'exercice au cours duquel la cession est intervenue.
 
 Ces dispositions ne sont pas applicables dans le cas où l'entreprise propriétaire des titres fait l'objet d'une transmission dans le cadre des dispositions prévues aux articles 210 A et 210 B, si l'entreprise qui devient propriétaire des titres remplit les conditions nécessaires pour bénéficier de cette réduction d'impôt et s'engage à conserver les titres pendant la fraction du délai de conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission ou, à défaut, par acte sous seing privé ayant date certaine, établi à cette occasion.
 
@@ -174,7 +174,7 @@ A défaut, la réduction d'impôt acquise au titre de cet investissement ou de c
 
 Toutefois, la reprise de la réduction d'impôt n'est pas effectuée lorsque, en cas de défaillance de l'entreprise ou de l'organisme, les logements ayant ouvert droit à la réduction d'impôt sont repris par une autre entreprise ou organisme qui s'engage à louer les logements, dans les conditions prévues au même D, pour la fraction de la durée minimale de location restant à courir.
 
-D.-Les associés ou membres de sociétés ou groupement mentionnés au A du II doivent conserver les parts de cette société ou de ce groupement pendant un délai de cinq ans à compter de la date de réalisation de l'investissement. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans.
+D.-Les associés ou membres de sociétés ou groupement mentionnés au A du II doivent conserver les parts de cette société ou de ce groupement pendant un délai de cinq ans à compter de la date de réalisation de l'investissement. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans. Pour les investissements réalisés dans le secteur du logement en application du D du I, les associés ou membres de sociétés ou de groupements mentionnés au A du II conservent la totalité de leurs parts ou actions jusqu'au terme de la période de location mentionnée au a des 1° et 2° du D du I.
 
 A défaut, la réduction d'impôt qu'ils ont pratiquée fait l'objet d'une reprise au titre de l'exercice au cours duquel la cession est intervenue.
 
@@ -194,4 +194,4 @@ B.-Un décret fixe les conditions d'application du présent article.
 
 NOTA :
 
-Conformément au II de l'article 72 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2022.
+Conformément au A du II de l’article 14 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux investissements réalisés à compter du 1er janvier 2023.

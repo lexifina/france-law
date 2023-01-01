@@ -30,4 +30,4 @@ Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des
 
 5. (abrogé) ;
 
-6. Les sommes mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt, sous réserve que le contribuable soit en mesure de présenter, à la demande de l'administration fiscale, les pièces justifiant du paiement des salaires et des cotisations sociales, de l'identité du bénéficiaire, de la nature et du montant des prestations réellement effectuées payées à l'association, l'entreprise ou l'organisme définis au 1.
+6. Les sommes mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt, sous réserve que le contribuable indique, dans la déclaration prévue à l'article 170 du présent code, les services à la personne relevant de l'article D. 7231-1 du code du travail au titre desquels elles ont été versées et qu'il soit en mesure de présenter, à la demande de l'administration fiscale, les pièces justifiant du paiement des salaires et des cotisations sociales, de l'identité du bénéficiaire, de la nature et du montant des prestations réellement effectuées payées à l'association, l'entreprise ou l'organisme définis au 1 du présent article.

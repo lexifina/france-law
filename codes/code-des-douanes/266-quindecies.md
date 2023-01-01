@@ -12,11 +12,15 @@ Pour l'application du présent article :
 
 4° La directive ENR s'entend de la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables, dans sa rédaction en vigueur au 1er janvier de l'année au cours de laquelle intervient l'exigibilité de la taxe ;
 
-5° Les cultures destinées à l'alimentation humaine ou animale et résidus assimilés s'entendent des cultures définies au 40 de l'article 2 de la directive ENR ainsi que des résidus définis au 43 du même article 2, lorsqu'ils sont issus des plantes mentionnées au 40 dudit article 2 et ne sont pas des matières premières avancées ;
+5° Les cultures destinées à l'alimentation humaine ou animale et résidus assimilés s'entendent des cultures définies au 40 de l'article 2 de la directive ENR ainsi que des résidus définis au 43 du même article 2, lorsqu'ils sont issus des plantes mentionnées au 40 dudit article 2 et ne sont pas des matières premières avancées. Un décret détermine les conditions dans lesquelles les cultures intermédiaires doivent être regardées, pour l'application du présent article, comme n'entrant pas dans le champ du même 40 ;
 
 6° Les matières premières avancées s'entendent des produits mentionnés à la partie A de l'annexe IX de la directive ENR ;
 
-7° Les graisses et huiles usagées s'entendent des produits mentionnés à la partie B de l'annexe IX de la directive ENR. ;
+7° Les graisses et huiles usagées s'entendent des produits mentionnés à la partie B de l'annexe IX de la directive ENR ;
+
+8° L'hydrogène renouvelable s'entend de celui défini au deuxième alinéa de l'article L. 811-1 du code de l'énergie ;
+
+9° La biomasse s'entend de celle définie au 24 de l'article 2 de la directive ENR.
 
 Par dérogation aux 1° et 2° du présent I, l'éthanol diesel mentionné à l'article L. 312-80 du code des impositions sur les biens et services est pris en compte comme une essence.
 
@@ -40,19 +44,19 @@ Pourcentage cible |
 
 Essences |
 
-104 |
+140 |
 
-9,2 % |
+9,5 % |
 
 Gazoles |
 
-104 |
+140 |
 
-8,4 % |
+8,6 % |
 
 Carburéacteurs |
 
-125 |
+168 |
 
 1 % |
 
@@ -62,21 +66,31 @@ Ces quantités sont évaluées en pouvoir calorifique inférieur.
 
 B.-1.-La quantité d'énergie renouvelable mentionnée au A est égale à la somme des quantités suivantes :
 
-1° Les quantités d'énergies produites à partir de sources renouvelables contenues dans les carburants inclus dans l'assiette de la taxe que le redevable doit ;
+1° Les quantités d'énergies produites à partir de sources renouvelables contenues dans les carburants inclus dans l'assiette de la taxe que le redevable doit, à l'exception de celles mentionnées au b du 3° du présent 1 ;
 
-2° Les quantités d'électricité d'origine renouvelable en France pour l'alimentation de véhicules routiers au moyen d'infrastructures de recharge ouvertes au public que le redevable exploite.
+2° Les quantités d'électricité d'origine renouvelable utilisées pour l'alimentation, en France, de véhicules routiers au moyen d'infrastructures de recharge ouvertes au public que le redevable exploite.
 
-Les quantités d'énergie produites à partir de sources renouvelables et les quantités d'électricité d'origine renouvelable correspondant aux droits de comptabilisation acquis par le redevable conformément au VI sont ajoutées au montant obtenu. Celles cédées par le redevable conformément au même VI sont soustraites du montant obtenu.
+3° Les quantités d'énergie contenues dans l'hydrogène renouvelable et utilisé dans l'une des conditions suivantes :
 
-Les quantités mentionnées au 2° du présent 1 peuvent être comptabilisées indifféremment pour la liquidation de la taxe incitative relative aux essences ou pour celle relative aux gazoles, une même quantité ne pouvant être prise en compte qu'une seule fois.
+a) L'hydrogène est fourni par le redevable en France pour l'alimentation des piles à combustible des moteurs électriques servant à la propulsion des véhicules ;
 
-2. Les quantités mentionnées au 1 du présent B sont comptabilisées pour leur valeur réelle, sous réserve des règles prévues aux C à E pour certaines matières premières et catégories d'énergie.
+b) L'hydrogène est utilisé pour la production de produits inclus dans l'assiette de la taxe que le redevable doit, y compris pour la production de produits intermédiaires, dans la mesure où il contribue à leur contenu énergétique ;
 
-Ne sont pas considérés comme des biocarburants les produits à base d'huile de soja et d'huile de palme incluant les PFAD.
+c) L'hydrogène est utilisé par le redevable en France pour les besoins du raffinage de produits pétroliers ou de l'hydrotraitement de la biomasse.
+
+Les quantités d'énergie produites à partir de sources renouvelables et les quantités d'électricité d'origine renouvelable ainsi que les quantités d'énergies contenues dans l'hydrogène renouvelable, correspondant aux droits de comptabilisation acquis par le redevable conformément au VI sont ajoutées au montant obtenu. Celles cédées par le redevable conformément au même VI sont soustraites du montant obtenu.
+
+Les quantités mentionnées aux 2° et 3° du présent 1 peuvent être comptabilisées indifféremment pour la liquidation de la taxe incitative relative aux essences ou pour celle relative aux gazoles, une même quantité ne pouvant être prise en compte qu'une seule fois.
+
+2. Les quantités mentionnées au 1 du présent B sont comptabilisées pour leur valeur réelle, sous réserve des règles prévues aux C à E pour certaines matières premières et catégories d'énergie. Ne sont pas considérés comme des biocarburants les produits à base d'huile de soja et d'huile de palme incluant les PFAD.
 
 3. Les sources renouvelables sont celles mentionnées au 1 de l'article 2 de la directive ENR.
 
-L'électricité mentionnée au 2° du 1 du présent B qui n'est pas fournie à partir d'une connexion directe à une installation produisant de l'électricité renouvelable est réputée être renouvelable à hauteur de la proportion moyenne d'énergie renouvelable constatée en France par la Commission européenne sur les deux années précédant l'exigibilité.
+L'électricité qui n'est pas fournie à partir d'une connexion directe à une installation produisant de l'électricité renouvelable est réputée être renouvelable à hauteur de la proportion moyenne d'énergie renouvelable constatée par la Commission européenne :
+
+1° Pour l'électricité mentionnée au 2° du 1 du présent B, en France, sur les deux années précédant l'exigibilité ;
+
+2° Pour l'électricité utilisée pour produire de l'hydrogène par électrolyse, dans l'Etat de production de l'hydrogène, sur la deuxième année précédant l'exigibilité. ;
 
 4. Pour l'application du 1, l'énergie renouvelable est comptabilisée uniquement lorsque les conditions suivantes sont remplies :
 
@@ -140,7 +154,7 @@ aucun seuil |
 
 0,9 % |
 
-0,9 % |
+1 % |
 
 aucun seuil |
 
@@ -154,7 +168,7 @@ b) Les amidons résiduels sont pris en compte à hauteur de 100 % de leur conten
 
 2° Les quantités qui conduisent à excéder le seuil prévu pour la catégorie 2 sont prises en compte à hauteur de 100 % de leur contenu énergétique pour l'application du seuil prévu à la catégorie 1.
 
-D.-Pour l'application des 1° et 2° du 1 du B, ne sont pas prises en compte les quantités d'énergie autres que celles issues des matières premières avancées contenues dans les produits inclus dans l'assiette et conduisant à excéder la différence entre le pourcentage cible mentionné au IV et le montant indiqué dans le tableau suivant :
+D.-Pour l'application des 1° à 3° du 1 du B, ne sont pas prises en compte les quantités d'énergie autres que celles issues des matières premières avancées contenues dans les produits inclus dans l'assiette et conduisant à excéder la différence entre le pourcentage cible mentionné au IV et le montant indiqué dans le tableau suivant :
 
 Essences |
 
@@ -162,13 +176,13 @@ Gazoles |
 
 Carburéacteurs |
 
-1 % |
+1,2 % |
 
-0,2 % |
+0,4 % |
 
 0 % |
 
-E.-Pour l'application des 1° et 2° du 1 du B, les quantités d'énergie sont comptabilisées après application du coefficient indiqué dans le tableau suivant, pour une fraction qui ne peut, après application de ce coefficient, excéder le seuil indiqué dans le même tableau. Au delà de ce seuil, les quantités d'énergie sont comptabilisées à leur valeur réelle, le cas échéant dans les limites prévues aux C ou D.
+E.-Pour l'application des 1° à 3° du 1 du B, les quantités d'énergie sont comptabilisées après application du coefficient indiqué dans le tableau suivant, pour une fraction qui ne peut, après application de ce coefficient, excéder le seuil indiqué dans le même tableau. Au delà de ce seuil, les quantités d'énergie sont comptabilisées à leur valeur réelle, le cas échéant dans les limites prévues aux C ou D.
 
 Énergie |
 
@@ -210,7 +224,19 @@ aucun |
 
 sans objet |
 
-VI.-1. Le redevable de la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports peut acquérir, y compris à titre onéreux, des droits de comptabilisation de quantités d'énergie renouvelable additionnelles, dans les conditions prévues au B du V, auprès des autres redevables de cette taxe ou des personnes qui exploitent des infrastructures de recharge ouvertes au public qui fournissent en France de l'électricité pour l'alimentation de véhicules routiers.
+Hydrogène
+
+|
+
+2 |
+
+aucun |
+
+aucun |
+
+sans objet |
+
+VI.-1. Le redevable de la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports peut acquérir, y compris à titre onéreux, des droits de comptabilisation de quantités d'énergie renouvelable additionnelles, dans les conditions prévues au B du V, auprès des autres redevables de cette taxe ou des personnes qui exploitent des infrastructures de recharge ouvertes au public qui fournissent en France de l'électricité pour l'alimentation de véhicules routiers, qui fournissent de l'hydrogène pour les besoins mentionnés au a du 3° du 1 du B du V ou qui utilisent de l'hydrogène pour ceux mentionnés au c du même 3°.
 
 Les droits ainsi cédés sont comptabilisés pour la détermination de la quantité d'énergie renouvelable selon les modalités, prévues aux B à E du même V, applicables au titre de la même année aux matières sur lesquelles ces droits portent.
 
@@ -239,3 +265,7 @@ Toutefois, en cas de cessation définitive d'activité taxable, elle est déclar
 La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que l'accise sur les énergies mentionnée à l'article L. 312-1 du code des impositions sur les biens et services et perçue sur les produits relevant des catégories fiscales des gazoles, des essences et des carburéacteurs. Les réclamations sont présentées, instruites et jugée selon les règles applicables à cette même taxe.
 
 X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte.
+
+NOTA :
+
+Conformément au A du II de l’article 67 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

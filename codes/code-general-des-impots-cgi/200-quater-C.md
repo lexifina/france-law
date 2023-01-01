@@ -1,6 +1,6 @@
 # Article 200 quater C
 
-1. Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses effectivement supportées, entre le 1er janvier 2021 et le 31 décembre 2023, pour l'acquisition et la pose d'un système de charge pour véhicule électrique dans le logement dont ils sont propriétaires, locataires ou occupants à titre gratuit et qu'ils affectent à leur habitation principale et à leur résidence secondaire exclusivement, dans la limite d'une résidence secondaire par contribuable.
+1. Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses effectivement supportées, entre le 1er janvier 2021 et le 31 décembre 2025, pour l'acquisition et la pose d'un système de charge pour véhicule électrique dans le logement dont ils sont propriétaires, locataires ou occupants à titre gratuit et qu'ils affectent à leur habitation principale et à leur résidence secondaire exclusivement, dans la limite d'une résidence secondaire par contribuable.
 
 2. Les dépenses d'acquisition et de pose de systèmes de charge mentionnées au 1 du présent article n'ouvrent droit au crédit d'impôt que si elles sont facturées par l'entreprise :
 

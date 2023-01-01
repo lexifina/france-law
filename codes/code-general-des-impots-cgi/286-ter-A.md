@@ -10,7 +10,9 @@ II.-Ne sont pas non plus tenus de s'identifier les assujettis qui effectuent exc
 
 3° Des ventes à distance de biens importés soumises au régime particulier prévu à l'article 298 sexdecies H ainsi que des importations effectuées dans le cadre de ce régime ;
 
-4° Lorsque les assujettis ne sont pas établis en France, des livraisons de biens ou des prestations de services pour lesquelles ils ont recours, dans un autre Etat membre, à l'un des régimes particuliers prévus aux sections 2 à 4 du chapitre VI du titre XII de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.
+4° Lorsque les assujettis ne sont pas établis en France, des livraisons de biens ou des prestations de services pour lesquelles ils ont recours, dans un autre Etat membre, à l'un des régimes particuliers prévus aux sections 2 à 4 du chapitre VI du titre XII de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée ;
+
+5° Des importations de biens ne donnant lieu à aucun paiement de la taxe sur la valeur ajoutée, déterminées par décret.
 
 NOTA :
 

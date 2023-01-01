@@ -1,6 +1,6 @@
 # Article 238 bis AB
 
-Les entreprises qui achètent, à compter du 1er janvier 2002 et avant le 31 décembre 2022, des œuvres originales d'artistes vivants et les inscrivent à un compte d'actif immobilisé peuvent déduire du résultat de l'exercice d'acquisition et des quatre années suivantes, par fractions égales, une somme égale au prix d'acquisition.
+Les entreprises qui achètent, à compter du 1er janvier 2002 et avant le 31 décembre 2025, des œuvres originales d'artistes vivants et les inscrivent à un compte d'actif immobilisé peuvent déduire du résultat de l'exercice d'acquisition et des quatre années suivantes, par fractions égales, une somme égale au prix d'acquisition.
 
 La déduction ainsi effectuée au titre de chaque exercice ne peut excéder la limite mentionnée au premier alinéa du 3 de l'article 238 bis, minorée du total des versements mentionnés au même article.
 
@@ -11,7 +11,3 @@ Sont également admises en déduction dans les conditions prévues au premier al
 L'entreprise doit inscrire à un compte de réserve spéciale au passif du bilan une somme égale à la déduction opérée en application du premier alinéa. Cette somme est réintégrée au résultat imposable en cas de changement d'affectation ou de cession de l'œuvre ou de l'instrument ou de prélèvement sur le compte de réserve.
 
 L'entreprise peut constituer une provision pour dépréciation lorsque la dépréciation de l'œuvre excède le montant des déductions déjà opérées au titre des premier à quatrième alinéas.
-
-NOTA :
-
-Conformément au III de l’article 134 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux versements effectués au cours des exercices clos à compter du 31 décembre 2020.

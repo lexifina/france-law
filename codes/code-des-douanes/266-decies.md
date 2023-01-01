@@ -6,12 +6,8 @@
 
 3. (Abrogé)
 
-4. Les personnes mentionnées au 1 du I de l'article 266 sexies répercutent la taxe afférente dans les contrats conclus avec les personnes physiques ou morales dont ils réceptionnent les déchets. Elles adressent chaque année auxdites personnes physiques ou morales une copie des éléments d'assiette et de tarifs déclarés à l'administration des douanes.
+4. Les personnes mentionnées au 1 du I de l'article 266 sexies répercutent la taxe afférente dans les contrats conclus avec les personnes physiques ou morales dont ils réceptionnent les déchets. Elles adressent chaque année auxdites personnes physiques ou morales une copie des éléments d'assiette et de tarifs déclarés à l'administration des finances publiques.
 
 5. Les personnes mentionnées au 5 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus avec les personnes physiques ou morales auxquelles elles vendent les produits correspondants.
 
 6. (Abrogé)
-
-NOTA :
-
-Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 266 decies telles qu'elles résultent du e du 2° du I dudit article entrent en vigueur le 1er janvier 2020.

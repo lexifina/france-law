@@ -46,13 +46,13 @@ II. – 1. Le crédit d'impôt est assis sur le montant, hors taxes et hors frai
 
 Pour les projets d'investissement comportant l'acquisition, l'installation ou l'exploitation d'équipements de production d'énergie renouvelable, ce montant est pris en compte dans la limite d'un montant par watt installé, fixé par arrêté conjoint des ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant prend en compte les coûts d'acquisition et d'installation directement liés à ces équipements.
 
-Pour les investissements mentionnés au I quater de l'article 199 undecies B, l'assiette du crédit d'impôt est égale à 20 % de leur coût de revient, hors taxes et hors frais de toute nature, notamment les commissions d'acquisition et les frais de transport de ces investissements, diminuée du montant des subventions publiques accordées pour leur financement.
+Pour les investissements mentionnés au I quater de l'article 199 undecies B, l'assiette du crédit d'impôt est égale à 20 % de leur coût de revient, hors taxes et hors frais de toute nature, notamment les commissions d'acquisition et les frais de transport de ces investissements, diminuée du montant des aides publiques accordées pour leur financement.
 
 2. Lorsque l'investissement a pour objet de remplacer un investissement ayant bénéficié de l'un des dispositifs définis aux articles 199 undecies B et 217 undecies ou du crédit d'impôt défini au présent article, l'assiette du crédit d'impôt telle que définie au 1 est diminuée de la valeur réelle de l'investissement remplacé.
 
-3. Pour les travaux mentionnés au deuxième alinéa du 1 du I, le crédit d'impôt est assis sur le prix de revient de l'hôtel, de la résidence de tourisme ou du village de vacances classés après réalisation des travaux, diminué du prix de revient de ces mêmes biens avant réalisation des travaux et de la fraction du prix de revient des travaux financée par une aide publique.
+3. (Abrogé).
 
-4. Pour les logements mentionnés au 4 du I, le crédit d'impôt est assis sur le prix de revient des logements, minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite mentionnée au 5 de l'article 199 undecies A appréciée par mètre carré de surface habitable.
+4. Pour les logements mentionnés au 4 du I, le crédit d'impôt est assis sur le prix de revient des logements, minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des aides publiques reçues. Ce montant est retenu dans la limite mentionnée au 5 de l'article 199 undecies A appréciée par mètre carré de surface habitable. Un décret précise la nature des sommes retenues pour l'appréciation du prix de revient des logements.
 
 5. Lorsque l'entreprise qui réalise l'investissement bénéficie d'une souscription au capital mentionnée au II ou II ter de l'article 217 undecies et à l'article 199 undecies A ou de financements, apports en capital et prêts participatifs, apportés par les sociétés de financement définies au g du 2 du même article 199 undecies A, l'assiette du crédit d'impôt est minorée du montant de ces apports et financements.
 
@@ -106,6 +106,8 @@ A défaut, le crédit d'impôt acquis au titre de cet investissement fait l'obje
 
 En outre, lorsque l'investissement porte sur la construction ou l'acquisition d'un logement neuf, le crédit d'impôt acquis au titre de cet investissement fait l'objet d'une reprise au titre de l'année au cours de laquelle l'une des conditions prévues au 4 du I n'est plus respectée. Toutefois, la reprise du crédit d'impôt n'est pas effectuée lorsque, en cas de défaillance de l'entreprise ou de l'organisme, les logements ayant ouvert droit au crédit d'impôt sont repris par une autre entreprise ou organisme qui s'engage à louer les logements, dans les conditions prévues au même 4, pour la fraction de la durée minimale de location restant à courir.
 
+2 bis. Lorsque l'investissement est réalisé par une société ou un groupement mentionnés au VI, les associés ou membres conservent les parts ou actions de cette société ou de ce groupement pendant un délai de cinq ans à compter de la réalisation de l'investissement, ou pendant la durée normale d'utilisation de l'investissement si celle-ci est inférieure. A défaut, le crédit d'impôt qu'ils ont imputé fait l'objet d'une reprise au titre de l'exercice ou de l'année de la cession.
+
 3. Le crédit d'impôt prévu au présent article est subordonné au respect par les entreprises exploitantes et par les organismes mentionnés au 4 du I de leurs obligations fiscales et sociales et de l'obligation de dépôt de leurs comptes annuels selon les modalités prévues aux articles L. 232-21 à L. 232-23 du code de commerce à la date de réalisation de l'investissement.
 
 Sont considérés comme à jour de leurs obligations fiscales et sociales les employeurs qui, d'une part, ont souscrit et respectent un plan d'apurement des cotisations restant dues et, d'autre part, acquittent les cotisations en cours à leur date normale d'exigibilité.
@@ -118,4 +120,6 @@ X. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect 
 
 NOTA :
 
-Conformément au II de l'article 72 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2022.
+Conformément au A du II de l’article 14 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux investissements réalisés à compter du 1er janvier 2023.
+
+Conformément au B du II de l’article 14 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux investissements mis en service à La Réunion à compter d'une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat. Conformément à l'article 1 du décret n° 2024-270 du 26 mars 2024, cette date est fixée au lendemain de la publication du décret précité au Journal officiel de la République française, soit le 29 mars 2024.

@@ -68,6 +68,30 @@ b) Soit a fait l'objet d'une autorisation pour le stockage de déchets, mais n'e
 
 1 sexdecies. Aux réceptions, autres que celles relevant du 1 nonies du présent II, de déchets en vue de les transformer, par traitement thermique, en combustibles qui sont destinés soit à cesser d'être des déchets au sens de l'article L. 541-4-3 du code de l'environnement, soit à être utilisés dans une installation autorisée de co-incinération ;
 
+1 septdecies. A la réception, dans une installation de stockage, de déchets dangereux de résidus issus du traitement de déchets, lorsque les conditions suivantes sont cumulativement remplies :
+
+a) L'installation de stockage des résidus et celle de traitement des déchets dont ils sont issus sont situées sur une même emprise foncière ;
+
+b) Les déchets traités relèvent des catégories suivantes listées à l'annexe de la décision 2000/532/ CE de la Commission du 3 mai 2000 remplaçant la décision 94/3/ CE établissant une liste de déchets en application de l'article 1er, point a, de la directive 75/442/ CEE du Conseil relative aux déchets et la décision 94/904/ CE du Conseil établissant une liste de déchets dangereux en application de l'article 1er, paragraphe 4, de la directive 91/689/ CEE du Conseil relative aux déchets dangereux :
+
+-les boues de forage et les autres déchets de forage, à l'exception de ceux réalisés à l'eau douce ;
+
+-les terres, y compris les déblais provenant de sites contaminés, les cailloux et les boues de dragage ;
+
+-les déchets de dessablage provenant d'installations de traitement des eaux usées ;
+
+-les minéraux, par exemple le sable ou les cailloux, constituant des déchets provenant du traitement mécanique des déchets, par exemple du tri, du broyage, du compactage ou de la granulation ;
+
+-les boues provenant de la décontamination des sols ;
+
+-les terres et les pierres constituant des déchets des jardins et des parcs ;
+
+c) L'installation de traitement des déchets répond aux caractéristiques suivantes :
+
+-ses émissions de substance dans l'atmosphère sont inférieures aux seuils prévus au 2 du I du présent article ;
+
+-à l'issue de l'opération de traitement, le quotient entre, au numérateur, la masse de l'ensemble des produits ayant fait l'objet au cours de l'année civile d'une valorisation matière au sens de l'article L. 541-1-1 du code de l'environnement et, au dénominateur, la masse de l'ensemble des déchets réceptionnés par l'installation de traitement durant la même période, telles que constatées par l'inspection des installations classées compétente, est au moins égal à 70 % ;
+
 2. Aux installations d'injection d'effluents industriels autorisées en application de l'article 84 de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages ;
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur produit sec d'au moins 97 % d'oxyde de silicium ;

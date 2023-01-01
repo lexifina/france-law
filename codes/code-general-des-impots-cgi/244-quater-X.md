@@ -42,15 +42,15 @@ d) Les conditions mentionnées au 3 du VIII de l'article 244 quater W sont égal
 
 6. Ouvrent également droit au bénéfice du crédit d'impôt les travaux de démolition préalables à la construction de logements neufs réalisée dans les conditions prévues au 1 lorsque l'achèvement des fondations de l'immeuble intervient dans un délai de deux ans suivant la date de fin des travaux de démolition.
 
-II. – 1. Le crédit d'impôt est assis sur le prix de revient des logements, minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite mentionnée au 5 de l'article 199 undecies A, appréciée par mètre carré de surface habitable et, dans le cas des logements mentionnés au second alinéa du a du 1 du I, par mètre carré de surface des parties communes dans lesquelles des prestations de services sont proposées.
+II. – 1. Le crédit d'impôt est assis sur le prix de revient des logements, minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des aides publiques reçues. Ce montant est retenu dans la limite mentionnée au 5 de l'article 199 undecies A, appréciée par mètre carré de surface habitable et, dans le cas des logements mentionnés au second alinéa du a du 1 du I, par mètre carré de surface des parties communes dans lesquelles des prestations de services sont proposées.
 
 Un décret précise, en tant que de besoin, la nature des sommes retenues pour l'appréciation du prix de revient mentionné au premier alinéa.
 
-2. Dans le cas mentionné au 3 du I, le crédit d'impôt est assis sur le prix de revient des logements, majoré du coût des travaux de réhabilitation et minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. La limite mentionnée au 1 est applicable.
+2. Dans le cas mentionné au 3 du I, le crédit d'impôt est assis sur le prix de revient des logements, majoré du coût des travaux de réhabilitation et minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des aides publiques reçues. La limite mentionnée au 1 est applicable.
 
-3. Dans le cas mentionné au 4 du I, le crédit d'impôt est assis sur le prix de revient des travaux de réhabilitation minoré, d'une part, des taxes versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite d'un plafond de 50 000 € par logement.
+3. Dans le cas mentionné au 4 du I, le crédit d'impôt est assis sur le prix de revient des travaux de réhabilitation minoré, d'une part, des taxes versées et, d'autre part, des aides publiques reçues. Ce montant est retenu dans la limite d'un plafond de 50 000 € par logement.
 
-4. Dans le cas mentionné au 6 du I, le crédit d'impôt est assis sur le prix de revient des travaux de démolition minoré, d'une part, des taxes versées et, d'autre part, des subventions publiques reçues au titre de ces mêmes travaux. Ce montant est retenu dans la limite d'un plafond de 25 000 € par logement démoli.
+4. Dans le cas mentionné au 6 du I, le crédit d'impôt est assis sur le prix de revient des travaux de démolition minoré, d'une part, des taxes versées et, d'autre part, des aides publiques reçues au titre de ces mêmes travaux. Ce montant est retenu dans la limite d'un plafond de 25 000 € par logement démoli.
 
 III. – Le taux du crédit d'impôt est fixé à 40 %.
 
@@ -88,4 +88,4 @@ IX. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect
 
 NOTA :
 
-Conformément au II de l'article 88 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent au nombre de logements agréés par les représentants de l'Etat au titre d'une année, à compter du 1er janvier 2022.
+Conformément au A du II de l’article 14 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux investissements réalisés à compter du 1er janvier 2023.

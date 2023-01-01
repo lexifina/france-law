@@ -10,9 +10,9 @@ b) Soit lorsque l'immeuble est localisé dans le périmètre de ce site couvert 
 
 c) Soit, à défaut, lorsque la restauration de l'immeuble a été déclarée d'utilité publique en application de l'article L. 313-4 du code de l'urbanisme ;
 
-2° – jusqu'au 31 décembre 2022, situé dans un quartier ancien dégradé délimité en application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion lorsque la restauration a été déclarée d'utilité publique ;
+2° – jusqu'au 31 décembre 2023, situé dans un quartier ancien dégradé délimité en application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion lorsque la restauration a été déclarée d'utilité publique ;
 
-2° bis – Jusqu'au 31 décembre 2022, situé dans un quartier présentant une concentration élevée d'habitat ancien dégradé et faisant l'objet d'une convention pluriannuelle prévue à l'article 10-3 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, lorsque la restauration a été déclarée d'utilité publique. Les ministres chargés de la ville et de la culture arrêtent la liste des quartiers présentant une concentration élevée d'habitat ancien dégradé, sur proposition de l'Agence nationale pour la rénovation urbaine ;
+2° bis – Jusqu'au 31 décembre 2023, situé dans un quartier présentant une concentration élevée d'habitat ancien dégradé et faisant l'objet d'une convention pluriannuelle prévue à l'article 10-3 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, lorsque la restauration a été déclarée d'utilité publique. Les ministres chargés de la ville et de la culture arrêtent la liste des quartiers présentant une concentration élevée d'habitat ancien dégradé, sur proposition de l'Agence nationale pour la rénovation urbaine ;
 
 3° (Abrogé) ;
 
@@ -69,7 +69,3 @@ VI. – La réduction d'impôt obtenue fait l'objet d'une reprise au titre de l'
 VII. – Un décret précise, en tant que de besoin, les modalités d'application du présent article.
 
 VIII. – (Abrogé).
-
-NOTA :
-
-Modifications effectuées en conséquence de l’article 70-I-13° de la loi n°2016-925 du 7 juillet 2016.

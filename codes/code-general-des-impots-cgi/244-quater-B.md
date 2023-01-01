@@ -1,6 +1,6 @@
 # Article 244 quater B
 
-I. – Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies, 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Le premier de ces deux taux est porté à 50 % pour les dépenses de recherche exposées dans des exploitations situées dans un département d'outre-mer. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %. Ce taux est porté à 40 % pour les dépenses mentionnées au même k exposées dans des exploitations situées dans un département d'outre-mer. Ce même taux est porté respectivement à 35 % pour les moyennes entreprises et à 40 % pour les petites entreprises pour les dépenses mentionnées audit k exposées dans des exploitations situées sur le territoire de la collectivité de Corse.
+I. – Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies, 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Le premier de ces deux taux est porté à 50 % pour les dépenses de recherche exposées dans des exploitations situées dans un département d'outre-mer. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 30 %. Ce taux est porté à 60 % pour les dépenses mentionnées au même k exposées dans des exploitations situées dans un département d'outre-mer. Ce même taux est porté respectivement à 35 % pour les moyennes entreprises et à 40 % pour les petites entreprises pour les dépenses mentionnées audit k exposées dans des exploitations situées sur le territoire de la collectivité de Corse.
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater, 239 quater B, 239 quater C et 239 quater D ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des dispositions prévues au dernier alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements.
 
@@ -48,7 +48,7 @@ g) Les dépenses de normalisation afférentes aux produits de l'entreprise, déf
 
 3° Dans des conditions fixées par décret, les dépenses exposées par le chef d'une entreprise individuelle, les personnes mentionnées au I de l'article 151 nonies et les mandataires sociaux pour leur participation aux réunions officielles de normalisation, à concurrence d'un forfait journalier de 450 € par jour de présence auxdites réunions ;
 
-h) Jusqu'au 31 décembre 2022, les dépenses liées à l'élaboration de nouvelles collections exposées par les entreprises industrielles du secteur textile-habillement-cuir et définies comme suit :
+h) Jusqu'au 31 décembre 2024, les dépenses liées à l'élaboration de nouvelles collections exposées par les entreprises industrielles du secteur textile-habillement-cuir et définies comme suit :
 
 1° Les dépenses de personnel afférentes aux stylistes et techniciens des bureaux de style directement et exclusivement chargés de la conception de nouveaux produits et aux ingénieurs et techniciens de production chargés de la réalisation de prototypes ou d'échantillons non vendus ;
 
@@ -60,17 +60,17 @@ h) Jusqu'au 31 décembre 2022, les dépenses liées à l'élaboration de nouvell
 
 5° Les frais de défense des dessins et modèles, dans la limite de 60 000 € par an ;
 
-i) Jusqu'au 31 décembre 2022, les dépenses liées à l'élaboration de nouvelles collections confiée par les entreprises industrielles du secteur textile-habillement-cuir à des stylistes ou bureaux de style agréés selon des modalités définies par décret ;
+i) Jusqu'au 31 décembre 2024, les dépenses liées à l'élaboration de nouvelles collections confiée par les entreprises industrielles du secteur textile-habillement-cuir à des stylistes ou bureaux de style agréés selon des modalités définies par décret ;
 
 j) Les dépenses de veille technologique exposées lors de la réalisation d'opérations de recherche, dans la limite de 60 000 € par an.
 
-k) Jusqu'au 31 décembre 2022, les dépenses exposées par les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité et définies comme suit :
+k) Jusqu'au 31 décembre 2024, les dépenses exposées par les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité et définies comme suit :
 
 1° Les dotations aux amortissements des immobilisations créées ou acquises à l'état neuf et affectées directement à la réalisation d'opérations de conception de prototypes ou installations pilotes de nouveaux produits autres que les prototypes et installations pilotes mentionnés au a ;
 
 2° Les dépenses de personnel directement et exclusivement affecté à la réalisation des opérations mentionnées au 1° ;
 
-3° Les autres dépenses de fonctionnement exposées à raison des opérations mentionnées au 1° ; ces dépenses sont fixées forfaitairement à la somme de 75 % des dotations aux amortissements mentionnées au 1° et de 43 % des dépenses de personnel mentionnées au 2° ;
+3° (Abrogé) ;
 
 4° Les dotations aux amortissements, les frais de prise et de maintenance de brevets et de certificats d'obtention végétale ainsi que les frais de dépôt de dessins et modèles relatifs aux opérations mentionnées au 1° ;
 
@@ -117,9 +117,3 @@ Sur la base des informations contenues dans les états mentionnés aux deux prem
 IV., IV. bis, IV. ter, V. (Dispositions périmées).
 
 VI. – Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de durée inégale ou ne coïncidant pas avec l'année civile.
-
-NOTA :
-
-Conformément au B du XXI de l'article 35 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent à compter du premier exercice suivant celui au cours duquel l'exonération prévue à l'article 44 septies du code général des impôts, dans sa rédaction antérieure à la présente loi, cesse de s'appliquer.
-
-Conformément au III de l'article 69 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux dépenses facturées au titre des contrats de collaboration conclus à compter du 1er janvier 2022.

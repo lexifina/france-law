@@ -1,18 +1,18 @@
 # Article 244 quater E
 
-I. – 1° Les petites et moyennes entreprises relevant d'un régime réel d'imposition peuvent bénéficier d'un crédit d'impôt au titre des investissements, autres que de remplacement, financés sans aide publique pour 25 % au moins de leur montant, réalisés jusqu'au 31 décembre 2023 et exploités en Corse pour les besoins d'une activité industrielle, commerciale, artisanale, libérale ou agricole autre que :
+I. – 1° Les petites et moyennes entreprises relevant d'un régime réel d'imposition peuvent bénéficier d'un crédit d'impôt au titre des investissements, autres que de remplacement, financés sans aide publique pour 25 % au moins de leur montant, réalisés jusqu'au 31 décembre 2027 et exploités en Corse pour les besoins d'une activité industrielle, commerciale, artisanale, libérale ou agricole autre que :
 
 a. la gestion ou la location d'immeubles lorsque les prestations ne portent pas exclusivement sur des biens situés en Corse, ainsi que l'exploitation de jeux de hasard et d'argent ;
 
-a bis. la gestion et la location de meublés de tourisme situés en Corse ;
+a bis. la gestion et la location de meublés de tourisme situés en Corse ; Toutefois, ne sont pas concernés par cette exclusion les établissements de tourisme gérés par un exploitant unique, comportant des bâtiments d'habitation individuels ou collectifs dotés d'un minimum d'équipements et de services communs et regroupant, en un ensemble homogène, des locaux à usage collectif et des locaux d'habitation meublés loués à une clientèle touristique qui n'y élit pas domicile. Pour les établissements de tourisme répondant à ces conditions, aucun critère relatif au nombre minimal de lits n'est requis ;
 
-b. l'agriculture ainsi que la transformation ou la commercialisation de produits agricoles, sauf lorsque le contribuable peut bénéficier des aides à l'investissement au titre du règlement (CE) n° 1257/1999 du Conseil, du 17 mai 1999, concernant le soutien au développement rural par le Fonds européen d'orientation et de garantie agricole (FEOGA) et modifiant et abrogeant certains règlements, la production ou la transformation de houille et lignite, la sidérurgie, l'industrie des fibres synthétiques, la pêche, le transport, la construction et la réparation de navires d'au moins 100 tonnes de jauge brute, la construction automobile.
+b. l'agriculture ainsi que la transformation ou la commercialisation de produits agricoles, sauf lorsque le contribuable peut bénéficier des aides à l'investissement au titre du règlement (CE) n° 1257/1999 du Conseil, du 17 mai 1999, concernant le soutien au développement rural par le Fonds européen d'orientation et de garantie agricole (FEOGA) et modifiant et abrogeant certains règlements, la production ou la transformation de houille et lignite, la sidérurgie, l'industrie des fibres synthétiques, la pêche, le transport, à l'exception des transports aériens visant à assurer les évacuations sanitaires d'urgence faisant l'objet d'un marché public avec les centres hospitaliers d'Ajaccio et de Bastia, la construction et la réparation de navires d'au moins 100 tonnes de jauge brute, la construction automobile.
 
 Les petites et moyennes entreprises mentionnées au premier alinéa du présent 1° répondent à la définition de l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aide compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 2° (Abrogé).
 
-3° Le crédit d'impôt prévu au 1° est égal à 20 % du prix de revient hors taxes, à l'exclusion des meublés de tourisme :
+3° Le crédit d'impôt prévu au 1° est égal à 20 % du prix de revient hors taxes :
 
 a. Des biens d'équipement amortissables selon le mode dégressif en vertu des 1 et 2 de l'article 39 A et des agencements et installations de locaux commerciaux habituellement ouverts à la clientèle créés ou acquis à l'état neuf ;
 
@@ -36,7 +36,7 @@ Lorsqu'une entreprise constate, à la date de la clôture de son exercice, un d�
 
 L'agrément mentionné au premier alinéa est accordé si l'octroi du crédit d'impôt aux investissements prévus dans le cadre du plan de restructuration présenté par l'entreprise n'altère pas les échanges dans une mesure contraire à l'intérêt commun.
 
-II. – Les dispositions du présent article s'appliquent sur option de l'entreprise à compter du premier jour de l'exercice ou de l'année au titre duquel elle est exercée. Cette option emporte renonciation au bénéfice des régimes prévus aux articles 44 sexies, 44 sexies A, 44 quindecies, 44 sexdecies, 44 septdecies et 208 sexies. Elle est irrévocable.
+II. – Les dispositions du présent article s'appliquent sur option de l'entreprise à compter du premier jour de l'exercice ou de l'année au titre duquel elle est exercée. Cette option emporte renonciation au bénéfice des régimes prévus aux articles 44 sexies, 44 sexies A, 44 quindecies, 44 sexdecies et 44 septdecies. Elle est irrévocable.
 
 Lorsque les investissements sont réalisés par les sociétés soumises au régime d'imposition de l'article 8 ou par les groupements mentionnés aux articles 239 quater ou 239 quater C, le crédit d'impôt peut être utilisé par leurs associés, proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 

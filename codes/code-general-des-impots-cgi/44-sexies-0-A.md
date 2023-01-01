@@ -4,7 +4,7 @@ Une entreprise est qualifiée de jeune entreprise innovante réalisant des proje
 
 1° elle est une petite ou moyenne entreprise, c'est-à-dire employant moins de 250 personnes, et qui a soit réalisé un chiffre d'affaires inférieur à 50 millions d'euros au cours de l'exercice, ramené ou porté le cas échéant à douze mois, soit un total du bilan inférieur à 43 millions d'euros. L'effectif de l'entreprise est apprécié par référence au nombre moyen de salariés employés au cours de cet exercice ;
 
-2° elle est créée depuis moins de onze ans ;
+2° elle est créée depuis moins de huit ans ;
 
 3° a. elle a réalisé des dépenses de recherche, définies aux a à g du II de l'article 244 quater B et au 1 du A du II de l'article 244 quater B bis, représentant au moins 15 % des charges, à l'exception des pertes de change et des charges nettes sur cessions de valeurs mobilières de placement, fiscalement déductibles au titre de cet exercice. Pour le calcul de ce ratio, il n'est pas tenu compte des charges engagées auprès d'autres jeunes entreprises innovantes réalisant des projets de recherche et de développement ;
 
@@ -26,4 +26,4 @@ e. ou par des établissements publics de recherche et d'enseignement ou leurs fi
 
 NOTA :
 
-Conformément au III de l'article 69 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux dépenses facturées au titre des contrats de collaboration conclus à compter du 1er janvier 2022.
+Conformément au III de l'article 33 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier 2023.

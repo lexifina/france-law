@@ -10,15 +10,13 @@ b) Pour les autres contribuables, celle définie à l'article 1586 sexies.
 
 La valeur ajoutée prise en compte est celle produite au cours de la période mentionnée au I de l'article 1586 quinquies. En l'absence de cession ou de cessation d'entreprise au cours de l'année d'imposition, le montant de la valeur ajoutée mentionnée au b est corrigé pour correspondre à une année pleine.
 
-Le taux de plafonnement est fixé à 2 % de la valeur ajoutée.
+Le taux de plafonnement est fixé à 1,625 % de la valeur ajoutée.
 
 II. ― Le plafonnement prévu au I s'applique sur la cotisation foncière des entreprises et la cotisation sur la valeur ajoutée des entreprises diminuées, le cas échéant, de l'ensemble des réductions et dégrèvements dont ces cotisations peuvent faire l'objet, à l'exception du crédit d'impôt prévu à l'article 1647 C septies et des dégrèvements prévus aux articles 1647 C quinquies B et 1647 C quinquies C.
 
 Il ne s'applique pas aux taxes visées aux articles 1600 à 1601-0 A ni aux prélèvements opérés par l'Etat sur ces taxes en application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D.
 
-La cotisation foncière des entreprises s'entend de la somme des cotisations de chaque établissement établies au titre de l'année d'imposition. La cotisation de chaque établissement est majorée du montant des taxes spéciales d'équipement additionnelles à la cotisation foncière des entreprises prévues aux articles 1607 bis,
-
-1607 ter et 1609 B à 1609 D, calculées dans les mêmes conditions.
+La cotisation foncière des entreprises s'entend de la somme des cotisations de chaque établissement établies au titre de l'année d'imposition. La cotisation de chaque établissement est majorée du montant de la taxe prévue à l'article 1530 bis et des taxes spéciales d'équipement additionnelles à la cotisation foncière des entreprises prévues aux articles 1599 quater D, 1607 bis, 1607 ter et 1609 B à 1609 H, calculées dans les mêmes conditions.
 
 III. ― Le dégrèvement s'impute sur la cotisation foncière des entreprises.
 
@@ -32,6 +30,6 @@ NOTA :
 
 Dans sa décision n° 2014-413 QPC du 19 septembre 2014 (NOR : CSCX1422266S), le Conseil constitutionnel a déclaré le dernier alinéa du paragraphe II de l'article 1647 B sexies du code général des impôts contraire à la Constitution. La déclaration d'inconstitutionnalité prend effet dans les conditions prévues au considérant 8.
 
-Modification effectuée en conséquence de l'article 44-II-3° de la loi n° 2017-1837 du 30 décembre 2017.
+Conformément au II de l'article 103 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent à compter de l'année suivant celle de la création de l'établissement public qui a pour mission de contribuer au financement de l'infrastructure ferroviaire dénommée "grand projet ferroviaire du Sud-Ouest". Se reporter aux dispositions prévues par l'article 1 de l'ordonnance n°2022-307 du 2 mars 2022 relative à la Société du Grand Projet du Sud-Ouest.
 
-Conformément au D du VI de l’article 8 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, ces dispositions s'appliquent à la contribution économique territoriale due au titre de 2021 et des années suivantes.
+Conformément au F du XXVII de l’article 55 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent à la cotisation foncière des entreprises due au titre de 2023.

@@ -64,7 +64,7 @@ Les 2,2 bis et 3 du VI du présent article et les a, b et avant-dernier alinéas
 
 Les réductions d'impôt prévues au VI du présent article et au présent VI ter A sont exclusives les unes des autres pour les souscriptions dans un même fonds.
 
-VI quater. – Les réductions d'impôt mentionnées aux I, VI, VI ter et VI ter A ne s'appliquent pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D, dans un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux f ou g du 2 de l'article 199 undecies A, aux articles 199 undecies B, 199 terdecies-0 B, 199 unvicies, 199 quatervicies ou 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017 du présent code.
+VI quater. – Les réductions d'impôt mentionnées aux I, VI, VI ter et VI ter A ne s'appliquent pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D, dans un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux f ou g du 2 de l'article 199 undecies A, aux articles 199 undecies B, 199 terdecies-0 B, 199 unvicies ou 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017 du présent code.
 
 Pour le bénéfice de la réduction d'impôt mentionnée au I du présent article, les deuxième et troisième alinéas du V de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017 sont applicables.
 
@@ -77,11 +77,3 @@ Le montant des frais et commissions directs et indirects imputés au titre d'un 
 Par dérogation au deuxième alinéa du présent VII, le montant des frais et commissions directs et indirects imputés au titre d'un même versement peut, dans des circonstances exceptionnelles, excéder ce plafond lorsque le dépassement correspond en totalité à des frais engagés pour faire face à une situation non prévisible indépendante de la volonté des personnes mentionnées au même deuxième alinéa et dans l'intérêt des investisseurs ou porteurs de parts.
 
 Sans préjudice des sanctions que l'Autorité des marchés financiers peut prononcer, tout manquement à ces interdictions est passible d'une amende dont le montant ne peut excéder dix fois les frais indûment perçus.
-
-NOTA :
-
-Conformément à l'article 1 du décret n° 2021-371 du 16 mars 2022 :
-
-Les dispositions du I de l'article 19 de la loi n° 2021-953 du 19 juillet 2021 de finances rectificative pour 2021 s'appliquent aux versements effectués à compter du lendemain de la publication du présent décret au Journal officiel de la République française.
-
-Conformément au III de l'article 19 de la loi n° 2021-953 du 19 juillet 2021, ces dispositions s'appliquent aux versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de plus de deux mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne, ou aux versements effectués à compter du 1er janvier 2022 si cette réception a lieu avant cette date.
