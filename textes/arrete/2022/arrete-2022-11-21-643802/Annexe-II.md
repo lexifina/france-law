@@ -1,8 +1,6 @@
-# Article LEGIARTI000045016959
+# Article Annexe II
 
-ANNEXE II
-
-NATURE DES ÉPREUVES DES CONCOURS OUVERTS AU TITRE DU 2O DE L'ARTICLE 4 DU DÉCRET NO 2008-940 DU 12 SEPTEMBRE 2008 SUSVISÉ
+NATURE DES ÉPREUVES DES CONCOURS OUVERTS AU TITRE DU 2° DE L'ARTICLE 4 DU DÉCRET N° 2008-940 DU 12 SEPTEMBRE 2008 SUSVISÉ
 
 L'ensemble des épreuves d'admissibilité et d'admission de ce concours est repris dans le tableau synoptique de l'article 18 du présent arrêté.
 
