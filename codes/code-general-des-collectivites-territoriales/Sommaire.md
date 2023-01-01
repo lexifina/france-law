@@ -176,8 +176,12 @@ Les principes de mise en œuvre de la présente liste des pièces justificatives
 
 -l'exhaustivité : Lorsqu'une dépense est répertoriée dans la liste, les pièces justificatives nécessaires au paiement de cette dépense y sont toutes énumérées. Lorsqu'une dépense n'est pas répertoriée dans la liste, le comptable doit demander, en se référant si possible à une dépense similaire répertoriée, les pièces justificatives qui lui permettent d'effectuer ses contrôles.
 
--le caractère obligatoire : La liste est obligatoire en ce qu'elle constitue à la fois le minimum et le maximum des pièces justificatives exigibles par le comptable. Elle s'impose à la fois aux ordonnateurs, aux comptables et aux juges des comptes.
+-le caractère obligatoire : La liste est obligatoire en ce qu'elle constitue à la fois le minimum et le maximum des pièces justificatives exigibles par le comptable. Elle s'impose à la fois aux ordonnateurs, aux comptables.
 
 Le contrôle hiérarchisé de la dépense permet au comptable de moduler ses contrôles en fonction des risques et des enjeux identifiés dans le respect des normes définies par le ministre en charge du budget. Cette modulation porte sur le moment du contrôle (contrôle a priori ou a posteriori) le champ du contrôle (contrôle exhaustif ou par échantillon) et l'intensité des contrôles (réaliser tout ou partie des contrôles), conformément aux dispositions émanant de l'arrêté du 25 juillet 2013 portant application du premier alinéa de l'article 42 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et encadrant le contrôle sélectif de la dépense.
 
 En complément du contrôle hiérarchisé de la dépense, le comptable et l'ordonnateur peuvent convenir de mettre en place un dispositif de contrôle allégé partenarial, selon la procédure décrite à l'arrêté du 11 mai 2011 pris en application du préambule de l'annexe I du code général des collectivités territoriales portant fixation des modalités de justification des dépenses des collectivités territoriales, de leurs établissements publics et des établissements publics de santé.
+
+NOTA :
+
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

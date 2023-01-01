@@ -360,9 +360,9 @@ Décompte.
 
 3. Si la convention ne le précise pas, arrêté fixant le taux individuel de l'indemnité complémentaire.
 
-2155. Indemnité de responsabilité des régisseurs
+2155. indemnité de maniement de fonds des régisseurs
 
-1. Délibération fixant le taux de l'indemnité de responsabilité susceptible d'être allouée aux régisseurs.
+1. Délibération fixant le taux de l'indemnité de maniement de fonds susceptible d'être allouée aux régisseurs.
 
 2. Arrêté fixant le montant de l'indemnité (20).
 
@@ -798,7 +798,7 @@ Etat de liquidation précisant les mois concernés, s'il s'agit d'un rappel, et 
 
 - et, pour la prime de service, décompte précisant les modalités de détermination du crédit global affecté au paiement de la prime.
 
-(33) Cette décision peut être constituée par l'acte de nomination des régisseurs, s'agissant de l'indemnité de responsabilité qui leur est versée.
+(33) Cette décision peut être constituée par l'acte de nomination des régisseurs, s'agissant de l'indemnité de maniement de fonds qui leur est versée.
 
 220224. Service de permanence (personnels médicaux)
 
@@ -1361,3 +1361,7 @@ Décompte.
 1. Convention de mise à disposition.
 
 2. Etats liquidatifs.
+
+NOTA :
+
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.
