@@ -1,0 +1,23 @@
+# Article 1er
+
+L'article 12.1 de l'accord du 7 février 2022 relatif à la gouvernance et aux garanties contributives et non-contributives du régime de protection sociale complémentaire de la branche de la métallurgie est rédigé comme suit :
+
+« • Cas général :
+
+L'assiette de cotisations afférentes au présent régime correspond à l'assiette des cotisations de sécurité sociale, au sens de l'article L. 242-1 du code de la sécurité sociale.
+
+L'assiette des cotisations précitée est limitée aux deux tranches suivantes :
+
+– T1 : de 0 à 1 PASS ;
+
+– T2 : de 1 à 8 PASS.
+
+• Cas particulier des salariés percevant un revenu de remplacement versé par l'employeur conformément à l'article 15.2. a de l'annexe 9 à la convention collective nationale de la métallurgie relative à la définition d'un socle minimal de garanties en frais de santé et en prévoyance de la branche métallurgie.
+
+Pour la garantie incapacité
+
+L'assiette des cotisations des salariés en suspension du contrat de travail indemnisé (activité partielle, activité partielle de longue durée, congé de reclassement et congé de mobilité …), pour la garanties incapacité, est égale au montant brut dudit revenu de remplacement, le cas échéant complétée d'une indemnisation complémentaire ou conventionnelle versée par l'employeur.
+
+Pour les garanties décès et invalidité
+
+L'assiette des cotisations pour les garanties invalidité et décès des salariés en suspension indemnisée du contrat de travail (activité partielle, activité partielle de longue durée, congé de reclassement et congé de mobilité …) est la rémunération antérieure (salaire des douze derniers mois) à la suspension indemnisée du contrat de travail du salarié telle que définie au point précédent “cas général”. »
