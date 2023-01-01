@@ -44,8 +44,12 @@ Histoire des techniques et patrimoine industriel.
 
 Patrimoine et sciences de la nature.
 
-C. - Epreuve proposée aux candidats concourant pour la spécialité Archives :
+C. - Options proposées aux candidats concourant pour la spécialité Archives :
 
-Documents d'archives du Moyen Age à nos jours (analyse et commentaire historique et diplomatique).
+Documents d'archives du Moyen Age à la fin du 18e siècle (analyse et commentaire historique et diplomatique). Cette option fait appel à des connaissances en paléographie, en latin et en ancien français.
 
-Cette épreuve fait appel à des connaissances en paléographie, en latin et en ancien français.
+Documents d'archives du 19e siècle à nos jours.
+
+NOTA :
+
+Conformément à l’article 9 de l’arrêté du 15 avril 2022 (NOR : MICB2121603A), ces dispositions sont applicables aux concours ouverts au titre de l’année 2023.
