@@ -8,6 +8,6 @@ Corps de l'inspection générale de l'agriculture.
 
 Corps des inspecteurs généraux des affaires culturelles.
 
-Emploi de chef du service de l'inspection générale des affaires culturelles.
+NOTA :
 
-Emplois d'inspecteur général et d'inspecteur de la justice.
+Conformément à l’article 7 de l’arrêté du 23 novembre 2022 (NOR : PRMX2233010A) , ces dispositions entrent en vigueur le 1er janvier 2023.
