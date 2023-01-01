@@ -40,9 +40,11 @@ d) Le détail de toutes les prestations (personnels et moyens techniques) et, en
 
 13° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
 
-14° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services dans laquelle celui-ci manifeste expressément son engagement financier ;
+14° Tout contrat d'achat de droits de mise à disposition du public sur un service de médias audiovisuels à la demande mentionnant la durée des droits acquis à titre exclusif et non-exclusif. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir ce contrat, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services, dans laquelle celui-ci manifeste expressément son engagement financier ainsi que la durée des droits acquis à titre exclusif et non-exclusif ;
 
-15° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel.
+15° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel ;
+
+16° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-10.
 
 II.-Animation :
 
@@ -82,11 +84,13 @@ c) Le détail de toutes les prestations (personnels et moyens techniques) ;
 
 15° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
 
-16° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services dans laquelle celui-ci manifeste expressément son engagement financier ;
+16° Tout contrat d'achat de droits de mise à disposition du public sur un service de médias audiovisuels à la demande mentionnant la durée des droits acquis à titre exclusif et non-exclusif. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir ce contrat, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services, dans laquelle celui-ci manifeste expressément son engagement financier ainsi que la durée des droits acquis à titre exclusif et non-exclusif ;
 
 17° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel ;
 
-18° Le cas échéant, tout contrat de prévente internationale ou tout document contractuel attestant de l'intention de conclure un tel contrat.
+18° Le cas échéant, tout contrat de prévente internationale ou tout document contractuel attestant de l'intention de conclure un tel contrat ;
+
+19° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-10.
 
 III.-Documentaire de création :
 
@@ -126,11 +130,13 @@ d) Le détail de toutes les prestations (personnels et moyens techniques) et, en
 
 13° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son engagement financier et la nature de celui-ci, ainsi qu'un document attestant de la case prévisionnelle de programmation de l'œuvre ;
 
-14° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services dans laquelle celui-ci manifeste expressément son engagement financier ;
+14° Tout contrat d'achat de droits de mise à disposition du public sur un service de médias audiovisuels à la demande mentionnant la durée des droits acquis à titre exclusif et non-exclusif. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir ce contrat, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services, dans laquelle celui-ci manifeste expressément son engagement financier ainsi que la durée des droits acquis à titre exclusif et non-exclusif ;
 
 15° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel ;
 
-16° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts en intégrant leur bibliographie sur le sujet traité.
+16° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts en intégrant leur bibliographie sur le sujet traité ;
+
+17° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-10.
 
 IV.-Adaptation audiovisuelle de spectacle vivant :
 
@@ -176,6 +182,12 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 16° bis Tout contrat d'achat de droits de diffusion conclu avec un ou plusieurs éditeurs de services de télévision établis à l'étranger ;
 
-17° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services dans laquelle celui-ci manifeste expressément son engagement financier ;
+17° Tout contrat d'achat de droits de mise à disposition du public sur un service de médias audiovisuels à la demande mentionnant la durée des droits acquis à titre exclusif et non-exclusif. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir ce contrat, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services, dans laquelle celui-ci manifeste expressément son engagement financier ainsi que la durée des droits acquis à titre exclusif et non-exclusif ;
 
-18° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel.
+18° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel ;
+
+19° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-10.
+
+NOTA :
+
+Conformément à l'article 10 de la délibération n° 2022/CA/32 du 8 décembre 2022 (NOR : MICA2235401X), ces dispositions s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter du 1er janvier 2023.

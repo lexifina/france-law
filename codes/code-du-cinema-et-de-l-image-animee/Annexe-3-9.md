@@ -32,11 +32,13 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 10° Le contrat du réalisateur technicien en cas de travaux de repérages ;
 
-11° La convention de développement conclue avec un éditeur de services de télévision ou de médias audiovisuels à la demande ;
+11° La convention de développement prévoyant l'apport initial provenant d'un éditeur de services de télévision ou de médias audiovisuels à la demande ;
 
 12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 
-13° Toute pièce justificative d'un financement public ou privé.
+13° Toute pièce justificative d'un financement public ou privé ;
+
+14° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-10.
 
 II.-Animation :
 
@@ -66,9 +68,11 @@ c) Le détail de toutes les prestations (personnels et moyens techniques) ;
 
 10° Les contrats du ou des auteurs, scénaristes, et réalisateurs ;
 
-11° La convention de développement conclue avec un éditeur de services de télévision ou de médias audiovisuels à la demande ;
+11° La convention de développement prévoyant l'apport initial provenant d'un éditeur de services de télévision ou de médias audiovisuels à la demande ;
 
-12° Toute pièce justificative d'un financement public ou privé.
+12° Toute pièce justificative d'un financement public ou privé ;
+
+13° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-10.
 
 III.-Documentaire de création :
 
@@ -98,11 +102,13 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 10° Le contrat du réalisateur technicien en cas de travaux de repérages ;
 
-11° La convention de développement conclue avec un éditeur de services de télévision ou de médias audiovisuels à la demande, ainsi qu'un document attestant de la case prévisionnelle de programmation de l'œuvre ;
+11° La convention de développement prévoyant l'apport initial provenant d'un éditeur de services de télévision ou de médias audiovisuels à la demande, ainsi qu'un document attestant de la case prévisionnelle de programmation de l'œuvre ;
 
 12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement.
 
-13° Toute pièce justificative d'un financement public ou privé.
+13° Toute pièce justificative d'un financement public ou privé ;
+
+14° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-10.
 
 IV.-Adaptation audiovisuelle de spectacle vivant :
 
@@ -134,8 +140,14 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 11° Le contrat du réalisateur technicien en cas de travaux de repérages ;
 
-12° La convention de développement conclue avec un éditeur de services de télévision ou de médias audiovisuels à la demande ;
+12° La convention de développement prévoyant l'apport initial provenant d'un éditeur de services de télévision ou de médias audiovisuels à la demande ;
 
 13° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 
-14° Toute pièce justificative d'un financement public ou privé.
+14° Toute pièce justificative d'un financement public ou privé ;
+
+15° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-10.
+
+NOTA :
+
+Conformément à l'article 10 de la délibération n° 2022/CA/32 du 8 décembre 2022 (NOR : MICA2235401X), ces dispositions s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter du 1er janvier 2023.
