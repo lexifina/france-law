@@ -26,6 +26,104 @@ Certificat d'agrément de type de CGEM
 
 (Formulaire non reproduit).
 
+CERTIFICAT DE CONFORMITÉ AU CODE IMDG D'UN CHASSIS POUR CITERNE DE TYPE OMI 9
+
+[Ministère chargé du transport maritime de matières dangereuses (organisme agréé) Mettre la désignation officielle]
+
+Numéro de châssis :
+
+|
+
+|
+
+|
+
+|
+
+Date de construction :
+
+|
+
+|
+
+|
+
+|
+
+Nom du constructeur :
+
+|
+
+|
+
+Adresse :
+
+|
+
+|
+
+|
+
+|
+
+Nom du propriétaire :
+
+|
+
+|
+
+Adresse : |
+
+|
+
+|
+
+|
+
+Certificat ADR N°
+
+|
+
+Délivré le :
+
+|
+
+|
+
+Par :
+
+|
+
+|
+
+|
+
+|
+
+Signature du constructeur
+
+|
+
+Ce châssis a été contrôlé par [nom de l'organisme], convient au transport des matières décrites dans la case "Matière(s) transportable(s)" du tableau ci-dessus et répond aux dispositions générales de la division 411 du règlement relatif à la sécurité des navires et à la prévention de la pollution qui lui sont applicables.
+
+|
+
+|
+
+|
+
+A :
+
+|
+
+Le :
+
+|
+
+Signature et cachet de l'organisme
+
+|
+
 Partie B
 
 La présente annexe fixe les informations devant figurer sur les certificats d'inspection initiale, périodique ou exceptionnelle des conteneurs à gaz à éléments multiples (CGEM).
@@ -119,3 +217,7 @@ En outre, le certificat doit préciser si les visites et épreuves suivantes ont
 - Epreuve de pression (préciser s'il s'agit d'une épreuve de pression hydraulique ou non, si non, donner des précisions), préciser la pression d'épreuve (en bar) et date de l'épreuve
 
 - Autres visites ou épreuves éventuelles s'il s'agit d'une inspection exceptionnelle.
+
+NOTA :
+
+Conformément à l'article 11 de l'arrêté du 23 novembre 2022 (NOR : TREP2231316A), ces dispositions entrent en vigueur le 1er janvier 2023.
