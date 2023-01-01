@@ -1,6 +1,6 @@
 # Article 1518 A quinquies
 
-I. – 1. En vue de l'établissement de la taxe foncière sur les propriétés bâties, de la cotisation foncière des entreprises, de la taxe d'habitation et de la taxe d'enlèvement des ordures ménagères, la valeur locative des propriétés bâties mentionnées au I de l'article 1498 est corrigée par un coefficient de neutralisation.
+I. – 1. En vue de l'établissement de la taxe foncière sur les propriétés bâties, de la cotisation foncière des entreprises, de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et de la taxe d'enlèvement des ordures ménagères, la valeur locative des propriétés bâties mentionnées au I de l'article 1498 est corrigée par un coefficient de neutralisation.
 
 Ce coefficient est égal, pour chaque taxe et chaque collectivité territoriale, au rapport entre, d'une part, la somme des valeurs locatives non révisées au 1er janvier 2017 des propriétés bâties mentionnées au même I de l'article 1498 imposables au titre de cette année dans son ressort territorial, à l'exception de celles mentionnées au 2 du présent I, et, d'autre part, la somme des valeurs locatives révisées de ces mêmes propriétés à la date de référence du 1er janvier 2013.
 
@@ -40,4 +40,4 @@ V. – Le 3 des I et III ne s'applique pas pour l'établissement de la base d'im
 
 NOTA :
 
-Conformément au B du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du 2° du D du II dudit article, s’appliquent à compter des impositions établies au titre de 2021.
+Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du 24° du E du I dudit article, s’appliquent à compter des impositions établies au titre de 2023.
