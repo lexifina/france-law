@@ -10,7 +10,9 @@ a) Aux installations de production d'électricité utilisant l'énergie mécaniq
 
 b) Aux installations de production d'électricité d'origine nucléaire ou thermique à flamme, prévue à l'article 1519 E ;
 
-c) Aux centrales de production d'énergie électrique d'origine photovoltaïque ou hydraulique, prévue à l'article 1519 F ;
+c) Aux centrales de production d'énergie électrique d'origine photovoltaïque installées avant le 1er janvier 2023 ou d'origine hydraulique, prévue à l'article 1519 F ;
+
+Pour les centrales de production d'énergie électrique d'origine photovoltaïque installées à compter du 1er janvier 2023, les établissements publics de coopération intercommunale mentionnés au I de l'article 1379-0 bis sont substitués aux communes membres à hauteur de 60 % du produit de la composante de l'imposition forfaitaire sur les entreprises de réseaux perçu par ces dernières. Ils perçoivent également 20 % du produit total de la même composante ;
 
 d) Aux transformateurs électriques, prévue à l'article 1519 G ;
 
@@ -19,6 +21,8 @@ e) Aux stations radioélectriques, prévue à l'article 1519 H ;
 f) Aux installations de gaz naturel liquéfié, aux stockages souterrains de gaz naturel, aux canalisations de transport de gaz naturel, aux stations de compression du réseau de transport de gaz naturel, aux canalisations de transport d'autres hydrocarbures et aux canalisations de transport de produits chimiques prévue à l'article 1519 HA ;
 
 1 bis. Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives aux installations de production d'électricité utilisant l'énergie mécanique du vent, installées à compter du 1er janvier 2019, prévue à l'article 1519 D ;
+
+1 ter. Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives aux centrales de production d'énergie électrique d'origine photovoltaïque installées à compter du 1er janvier 2023, prévue à l'article 1519 F ;
 
 2. Du produit de la taxe additionnelle à la taxe foncière sur les propriétés non bâties, prévue à l'article 1519 I ;
 
@@ -32,9 +36,9 @@ I quater. – Par exception au I de l'article 1639 A bis, l'établissement publi
 
 II. – Le conseil des établissements publics de coopération intercommunale mentionnés au I vote les taux de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale, de la taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties.
 
-La première année d'application du présent article, ainsi que l'année qui suit celle au titre de laquelle l'établissement public de coopération intercommunale a voté un taux égal à zéro pour ces deux taxes, les rapports entre les taux des taxes foncières votés par le conseil de l'établissement public de coopération intercommunale sont égaux aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des communes membres.
+La première année d'application du présent article, ainsi que l'année qui suit celle au titre de laquelle l'établissement public de coopération intercommunale a voté un taux égal à zéro pour ces trois taxes, les rapports entre les taux de taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et des taxes foncières votés par le conseil de l'établissement public de coopération intercommunale sont égaux aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des communes membres.
 
-Par dérogation, lorsque l'établissement public de coopération intercommunale percevait une fiscalité additionnelle l'année précédant celle de l'application de ces dispositions, les rapports entre les taux des taxes foncières établis par l'établissement public de coopération intercommunale peuvent être égaux aux rapports entre les taux de taxes foncières votés par lui l'année précédente.
+Par dérogation, lorsque l'établissement public de coopération intercommunale percevait une fiscalité additionnelle l'année précédant celle de l'application de ces dispositions, les rapports entre les taux de taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et des taxes foncières établis par l'établissement public de coopération intercommunale peuvent être égaux aux rapports entre les taux de taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et de taxes foncières votés par lui l'année précédente.
 
 III. – 1° a) Le taux de la cotisation foncière des entreprises est voté par le conseil mentionné au II dans les limites fixées à l'article 1636 B decies.
 
@@ -178,4 +182,4 @@ IX. – Les dispositions des I à VIII sont applicables aux communautés de comm
 
 NOTA :
 
-Modifications effectuées en conséquence de l’article 197-II de la loi n° 2021-1900 du 30 décembre 2021.
+Conformément au II de l’article 14 du décret n° 2022-1499 du 1er décembre 2022, ces dispositions s’appliquent aux centrales de production d'énergie électrique d'origine photovoltaïque installées à compter du 1er janvier 2023.
