@@ -6,7 +6,7 @@ Base fixe + (Valeur du point ETAM × coefficient de la position)
 
 En application de la formule ci-dessus, les valeurs des salaires minimaux hiérarchiques mensuels bruts sont les suivantes :
 
-Grille « ETAM » |
+Grille “ ETAM ” |
 
 Position |
 
@@ -20,43 +20,33 @@ Salaires minimaux |
 
 1.1 |
 
-230 |
+240 |
 
-3,441 € |
+3,602 € |
 
-843,50 € |
+850,50 € |
 
-1 635 € |
+1 715 € |
 
 1.2 |
 
-240 |
-
-3,331 € |
-
-843,50 € |
-
-1 643 € |
-
-1.3 |
-
 250 |
 
-3,262 € |
+3,578 € |
 
-843,50 € |
+850,50 € |
 
-1 659 € |
+1 745 € |
 
 2.1 |
 
 275 |
 
-3,183 € |
+3,361 € |
 
 850,50 € |
 
-1 726 € |
+1 775 € |
 
 2.2 |
 
