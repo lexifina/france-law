@@ -58,7 +58,7 @@ III. - Analyse et maîtrise des dangers mises en œuvre
 
 par le responsable de la production ou de la distribution d'eau
 
-L'analyse des dangers se fonde sur les principes généraux définis dans les documents internationaux de référence. L'application des lignes directrices en matière de sécurité de l'alimentation en eau potable, pour la gestion des risques et des crises-Partie 2 : gestion des risques, précisées dans la norme NF EN 15975-2 : 2013, est réputée satisfaire aux principes généraux précités.
+L'analyse des dangers et la maîtrise des risques, réalisées au titre du R. 1321-22-1 du code de la santé publique, se fondent sur les principes généraux définis dans les documents internationaux de référence. L'application des lignes directrices en matière de sécurité de l'alimentation en eau potable, pour la gestion des risques et des crises-Partie 2 : gestion des risques, précisées dans la norme NF EN 15975-2 : 2013, est réputée satisfaire aux principes généraux précités.
 
 III-1. Description de l'eau et des usages particuliers.
 
@@ -122,14 +122,16 @@ Description du dispositif de surveillance et de la conception du programme de su
 
 IV-2. Laboratoire d'analyses.
 
-Conditions à respecter par le (ou les) laboratoire(s) réalisant les analyses de surveillance prises en compte dans le cadre du contrôle sanitaire au regard des dispositions de l'arrêté du 12 février 2007 susvisé,
+Conditions à respecter par le (ou les) laboratoire(s) réalisant les analyses de surveillance prises en compte dans le cadre du contrôle sanitaire au regard des dispositions de l'arrêté du 30 décembre 2022 relatif au programme de tests et d'analyses à réaliser dans le cadre de la surveillance exercée par la personne responsable de la production ou de la distribution d'eau et aux conditions auxquelles doivent satisfaire les laboratoires réalisant ce programme, en application des articles R. 1321-23 et R. 1321-24 du code de la santé publique,
+
+Certificat/ numéro d'accréditation du laboratoire,
 
 Informations relatives aux laboratoires intervenant en cas de crise.
 
 IV-3. Demande de substitution d'analyses.
 
-Description détaillée des analyses pour lesquelles la demande de substitution à celles réalisées dans le cadre du contrôle sanitaire est sollicitée.
+Description détaillée des analyses pour lesquelles une demande de prise en compte de la surveillance dans le cadre du contrôle sanitaire est sollicitée.
 
-IV-4. Transmission des informations issues de la surveillance au préfet.
+IV-4. Transmission des informations issues de la surveillance au directeur général de l'agence régionale de santé.
 
-Description des modalités de transmission des informations pour chaque type de données transmises au préfet.
+Description des modalités de transmission des informations pour chaque type de données transmises au directeur général de l'agence régionale de santé.
