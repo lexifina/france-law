@@ -1,379 +1,241 @@
 # Article Annexe II
 
-LIMITES DE QUALITÉ DES EAUX BRUTES DE TOUTE ORIGINE UTILISÉES POUR LA PRODUCTION D’EAU DESTINÉE À LA CONSOMMATION HUMAINE, À L’EXCLUSION DES EAUX DE SOURCE CONDITIONNÉES, FIXÉES POUR L’APPLICATION DES DISPOSITIONS PRÉVUES AUX ARTICLES R. 1321-7 (II), R. 1321-17 ET R. 1321-42
+LIMITES DE QUALITÉ DES EAUX BRUTES DE TOUTES ORIGINES UTILISÉES POUR LA PRODUCTION D'EAU DESTINÉE À LA CONSOMMATION HUMAINE, À L'EXCLUSION DES EAUX DE SOURCE CONDITIONNÉES, FIXÉES POUR L'APPLICATION DES DISPOSITIONS PRÉVUES AUX ARTICLES R. 1321-7 (II), R. 1321-17 ET R. 1321-38 À R. 1321-42
 
-GROUPES DE PARAMÈTRES
+PARAMÈTRES |
 
-|
+LIMITES de qualité |
 
-PARAMÈTRES
+UNITÉS |
 
-|
+Ammonium |
 
-LIMITES
+4 |
 
-de qualité
+mg/ L |
 
-|
+Arsenic |
 
-UNITÉS
+100 |
 
-|
+µg/ L |
 
-Paramètres organoleptiques.
+Bore (1) |
 
-|
+1,5 |
 
-Couleur (Pt) (1).
+mg/ L |
 
-|
+Cadmium |
 
-200
+5 |
 
-|
+µg/ L |
 
-mg/L
+Carbone organique total (COT) (2) |
 
-|
+10 |
 
-Paramètres physico-chimiques liés à la structure naturelle des eaux.
+mg/ L |
 
-|
+Chlorures |
 
-Chlorures (CI-) (1).
+200 |
 
-|
+mg/ L |
 
-200
+Chrome total |
 
-|
+50 |
 
-mg/L
+µg/ L |
 
-|
+Couleur (Pt) |
 
-Sodium (Na*) (1).
+200 |
 
-|
+mg/ L |
 
-200
+Cyanures totaux |
 
-|
+50 |
 
-mg/L
+µg/ L |
 
-|
+Entérocoques intestinaux |
 
-Sulfates (SO4
-
-2-) (1).
+10 000/100 mL |
 
 |
 
-250
+Escherichia coli |
+
+20 000/100 mL |
 
 |
 
-mg/L
+Fluorures |
 
-|
+1,5 |
 
-Taux de saturation en oxygène dissous pour les eaux superficielles (O2) (1) (4).
+mg/ L |
 
-|
+Hydrocarbures aromatiques polycycliques (HAP) : Somme des composés suivants : fluoranthène, benzo [b] fluoranthène, benzo [k] fluoranthène, benzo [a] pyrène, benzo [g, h, i] pérylène et indéno [1,2,3-cd] pyrène. |
+
+1 |
+
+µg/ L |
+
+Indice hydrocarbures |
+
+1 |
+
+mg/ L |
+
+Mercure |
+
+1 |
+
+µg/ L |
+
+Nickel |
+
+20 |
+
+µg/ L |
+
+Nitrates pour les eaux souterraines |
+
+100 |
+
+mg/ L |
+
+Nitrates pour les eaux superficielles |
+
+50 |
+
+mg/ L |
+
+Par substance individuelle, y compris les métabolites pertinents |
+
+2 |
+
+µg/ L |
+
+Total des pesticides et métabolites pertinents (3) |
+
+5 |
+
+µg/ L |
+
+Plomb |
+
+50 |
+
+µg/ L |
+
+Sélénium (4) |
+
+20 |
+
+µg/ L |
+
+Sodium |
+
+200 |
+
+mg/ L |
+
+Somme des substances alkylées per et polyfluorées (5) |
+
+2 |
+
+µg/ L |
+
+Sulfates |
+
+250 |
+
+mg/ L |
+
+Taux de saturation en oxygène dissous pour les eaux superficielles (6) |
 
 > 30 |
 
-%
+% |
 
-|
+(1) La limite de qualité est fixée à 2,4 mg/ L lorsque l'eau dessalée est la principale ressource en eau utilisée ou dans les zones géographiques où les conditions géologiques pourraient occasionner des niveaux élevés de bore dans les eaux souterraines.
 
-Température (1) (2).
+(2) Le plan de gestion des ressources en eau prévu à l'article R. 1321-42 n'est pas requis.
 
-|
+(3) Par pesticides, on entend :
 
-25
+-les insecticides organiques ;
 
-|
+-les herbicides organiques ;
 
-oC
+-les fongicides organiques ;
 
-|
+-les nématocides organiques ;
 
-Paramètres concernant les substances indésirables.
+-les acaricides organiques ;
 
-|
+-les algicides organiques ;
 
-Agents de surface réagissant au bleu de méthylène (lauryl-sulfate de sodium).
+-les rodenticides organiques ;
 
-|
+-les produits antimoisissures organiques ;
 
-0,50
+-les produits apparentés (notamment les régulateurs de croissance)
 
-|
+et leurs métabolites, tels que définis à l'article 3, point 32), du règlement (CE) n° 1107/2009 du Parlement européen et du Conseil, qui sont considérés comme pertinents pour les eaux destinées à la consommation humaine.
 
-mg/L
+Un métabolite de pesticide est jugé pertinent pour les eaux destinées à la consommation humaine s'il y a lieu de considérer qu'il possède des propriétés intrinsèques comparables à celles de la substance mère en ce qui concerne son activité cible pesticide ou qu'il fait peser (par lui-même ou par ses produits de transformation) un risque sanitaire pour les consommateurs.
 
-|
+(4) La limite de qualité est fixée à 30 µg/ L dans les zones géographiques où les conditions géologiques pourraient occasionner des niveaux élevés de sélénium dans les eaux souterraines.
 
-Ammonium (NH4
+(5) On entend par la somme des substances alky perfluorées, les substances qui sont considérées comme préoccupantes pour les EDCH et dont la liste figure ci-dessous :
 
-+).
+-Acide perfluorobutanoïque (PFBA) ;
 
-|
+-Acide perfluoropentanoïque (PFPeA) ;
 
-4,0
+-Acide perfluorohexanoïque (PFHxA) ;
 
-|
+-Acide perfluoroheptanoïque (PFHpA) ;
 
-mg/L
+-Acide perfluoroctanoïque (PFOA) ;
 
-|
+-Acide perfluorononanoïque (PFNA) ;
 
-Baryum (Ba) pour les eaux superficielles.
+-Acide perfluorodécanoïque (PFDA) ;
 
-|
+-Acide perfluoroundécanoïque (PFUnDA) ;
 
-1,0
+-Acide perfluorododécanoïque (PFDoDA) ;
 
-|
+-Acide perfluorotridécanoïque (PFTrDA) ;
 
-mg/L
+-Acide perfluorobutanesulfonique (PFBS) ;
 
-|
+-Acide perfluoropentanesulfonique (PFPeS) ;
 
-Carbone organique total (COT) (1) (3).
+-Acide perfluorohexane sulfonique (PFHxS) ;
 
-|
+-Acide perfluoroheptane sulfonique (PFHpS) ;
 
-10
+-Acide perfluorooctane sulfonique (PFOS) ;
 
-|
+-Acide perfluorononane sulfonique (PFNS) ;
 
-mg/L
+-Acide perfluorodécane sulfonique (PFDS) ;
 
-|
+-Acide perfluoroundécane sulfonique (PFUnDS) ;
 
-Hydrocarbures dissous ou émulsionnés.
+-Acide perfluorododécane sulfonique (PFDoDS) ;
 
-|
+-Acide perfluorotridécane sulfonique (PFTrDS).
 
-1,0
+Il s'agit d'un sous-ensemble des substances alkylés per et polyfluorés, qui contiennent un groupement de substances perfluoroalkylées comportant trois atomes de carbone ou plus (à savoir,-CnF2n-, n ≥ 3) ou un groupement de perfluoroalkyléthers comportant deux atomes de carbone ou plus (à savoir,-CnF2nOCmF2m −, n et m ≥ 1).
 
-|
-
-mg/L
-
-|
-
-Nitrates pour les eaux superficielles (NO3
-
--).
-
-Nitrates pour les autres eaux (NO3
-
--).
-
-|
-
-50
-
-100
-
-|
-
-mg/L
-
-|
-
-Phénols (indice phénol) (C6H5OH).
-
-|
-
-0,10
-
-|
-
-mg/L
-
-|
-
-Zinc (Zn).
-
-|
-
-5,0
-
-|
-
-mg/L
-
-|
-
-Paramètres concernant les substances toxiques.
-
-|
-
-Arsenic (As).
-
-|
-
-100
-
-|
-
-µg/L
-
-|
-
-Cadmium (Cd).
-
-|
-
-5,0
-
-|
-
-µg/L
-
-|
-
-Chrome total (Cr).
-
-|
-
-50
-
-|
-
-µg/L
-
-|
-
-Cyanures (CN-).
-
-|
-
-50
-
-|
-
-µg/L
-
-|
-
-Hydrocarbures aromatiques polycycliques (HAP) :
-
-Somme des composés suivants : fluoranthène, benzo[b]fluoranthène, benzo[k]fluoranthène, benzo[a]pyrène, benzo[g,h,i]pérylène et indéno[1,2,3-cd]pyrène.
-
-|
-
-1,0
-
-|
-
-µg/L
-
-|
-
-Mercure (Hg)
-
-|
-
-1,0
-
-|
-
-µg/L
-
-|
-
-Plomb (Pb)
-
-|
-
-50
-
-|
-
-µg/L
-
-|
-
-Sélénium (Se)
-
-|
-
-10
-
-|
-
-µg/L
-
-|
-
-Pesticides
-
-|
-
-Par substances individuelles, y compris les métabolites
-
-|
-
-2,0
-
-|
-
-µg/L
-
-|
-
-Total
-
-|
-
-5,0
-
-|
-
-µg/L
-
-|
-
-Paramètres microbiologiques
-
-|
-
-Entérocoques
-
-|
-
-10 000
-
-|
-
-/100 mL
-
-|
-
-Escherichia coli
-
-|
-
-20 000
-
-|
-
-/100 mL
-
-|
-
-(1) L'avis de l'Agence de sécurité sanitaire des aliments mentionné à l'article R. 1321-7 (III) n'est pas requis pour les paramètres notés (1). Toutefois, l'avis de l'Agence française de sécurité sanitaire des aliments est sollicité lorsque la ressource en eau utilisée est de l'eau de mer.
-
-(2) La limite de qualité pour le paramètre température ne s'applique pas dans les départements d'outre-mer.
-
-(3) Le plan de gestion des ressources en eau prévu à l'article R. 1321-42 n'est pas requis pour les paramètres notés (3).
-
-(4) Le taux de saturation en oxygène dissous pour les eaux superficielles (O2) doit être supérieur à la limite indiquée.
-
-|
+(6) Le taux de saturation en oxygène dissous pour les eaux superficielles (O2) doit être supérieur à la limite indiquée.
