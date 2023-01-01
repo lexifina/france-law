@@ -36,7 +36,7 @@ II. - Prestations d'accueil hôtelier :
 
 8° Mise à disposition des connectiques nécessaires pour recevoir la télévision et installer le téléphone dans la chambre ;
 
-9° Accès aux moyens de communication, y compris Internet, dans toute ou partie de l'établissement.
+9° Accès aux moyens de communication, y compris Internet, dans les chambres et dans les espaces communs de l'établissement.
 
 III. - Prestation de restauration :
 
@@ -44,12 +44,18 @@ III. - Prestation de restauration :
 
 2° Fourniture de trois repas, d'un goûter et mise à disposition d'une collation nocturne.
 
-IV. - Prestation de blanchissage :
+IV.-Prestations de blanchissage :
 
-Fourniture et pose du linge plat et du linge de toilette, son renouvellement et son entretien.
+1° Fourniture et pose du linge de toilette, du linge relatif à l'entretien et à l'usage du lit et du linge de table ainsi que, le cas échéant, leur renouvellement et leur entretien ;
+
+2° Marquage et entretien du linge personnel des résidents.
 
 V. - Prestation d'animation de la vie sociale :
 
 1° Accès aux animations collectives et aux activités organisées dans l'enceinte de l'établissement ;
 
 2° Organisation des activités extérieures.
+
+NOTA :
+
+Conformément au III de l’article 3 du décret n° 2022-734 du 28 avril 2022, ces dispositions entrent en vigueur le 1er janvier 2023, pour les contrats conclus à compter de cette date ou pour les documents individuels de prise en charge remis à compter de cette même date.
