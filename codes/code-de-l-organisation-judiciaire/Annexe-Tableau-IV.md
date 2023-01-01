@@ -434,7 +434,7 @@ Bordeaux |
 
 |
 
-Cantons d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er Canton, Bordeaux 2e Canton, Bordeaux 3e Canton, Bordeaux 4e Canton, Bordeaux 5e Canton, Bordeaux 6e Canton, Bordeaux 7e Canton, Bordeaux 8e Canton, Cadillac, Captieux, Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, Grignols, La Brède, La Réole, Langon, Le Bouscat, Lesparre-Médoc, Lormont, Mérignac 1er Canton, Mérignac 2e Canton, Monségur, Pauillac, Pellegrue, Pessac 1er Canton, Pessac 2e Canton, Podensac, Saint-Laurent-Médoc, Saint-Macaire, Saint-Médard-en-Jalles, Saint-Symphorien, Saint-Vivien-de-Médoc, Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon. |
+Cantons d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er Canton, Bordeaux 2e Canton, Bordeaux 3e Canton, Bordeaux 4e Canton, Bordeaux 5e Canton, Bordeaux 6e Canton, Bordeaux 7e Canton, Bordeaux 8e Canton, Cadillac-sur-Garonne, Captieux, Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, Grignols, La Brède, La Réole, Langon, Le Bouscat, Lesparre-Médoc, Lormont, Mérignac 1er Canton, Mérignac 2e Canton, Monségur, Pauillac, Pellegrue, Pessac 1er Canton, Pessac 2e Canton, Podensac, Saint-Laurent-Médoc, Saint-Macaire, Saint-Médard-en-Jalles, Saint-Symphorien, Saint-Vivien-de-Médoc, Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon. |
 
 |
 
@@ -828,9 +828,9 @@ Cantons de Boulogne-sur-Mer-Nord-Est, Boulogne-sur-Mer-Nord-Ouest, Boulogne-sur-
 
 |
 
-Montreuil |
+Montreuil-sur-Mer |
 
-Cantons de Berck, Campagne-lès-Hesdin, Étaples, Fruges, Hesdin, Hucqueliers et Montreuil. |
+Cantons de Berck, Campagne-lès-Hesdin, Étaples, Fruges, Hesdin, Hucqueliers et Montreuil-sur-Mer. |
 
 |
 
@@ -2119,7 +2119,3 @@ Saint-Pierre
 Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 |
-
-NOTA :
-
-Conformément à l’article 2 du décret n° 2022-685 du 26 avril 2022, ces dispositions sont applicables aux procédures introduites à compter du 1er mai 2022.
