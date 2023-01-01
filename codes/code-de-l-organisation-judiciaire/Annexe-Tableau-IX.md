@@ -1412,43 +1412,13 @@ Hauts-de-Seine |
 
 Antony |
 
-Ressort de la chambre de proximité d'Antony. |
+Ressort des chambres de proximité d'Antony, Boulogne-Billancourt et Vanves. |
 
 |
 
 Asnières-sur-Seine |
 
-Ressort de la chambre de proximité d'Asnières-sur-Seine. |
-
-|
-
-Boulogne-Billancourt |
-
-Ressort de la chambre de proximité de Boulogne-Billancourt. |
-
-|
-
-Colombes |
-
-Ressort de la chambre de proximité de Colombes. |
-
-|
-
-Courbevoie |
-
-Ressort de la chambre de proximité de Courbevoie. |
-
-|
-
-Puteaux |
-
-Ressort de la chambre de proximité de Puteaux. |
-
-|
-
-Vanves |
-
-Ressort de la chambre de proximité de Vanves. |
+Ressort des chambres de proximité d'Asnières-sur-Seine, Colombes, Courbevoie et Puteaux. |
 
 Val-d'Oise |
 
@@ -1520,4 +1490,4 @@ Ressort du tribunal de première instance de Saint-Pierre. |
 
 NOTA :
 
-Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.
+Conformément à l'article 2 du décret n° 2022-918 du 21 juin 2022, ces dispositions s'appliquent aux demandes formées ou aux procédures introduites à compter du 1er janvier 2023.

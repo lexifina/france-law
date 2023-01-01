@@ -102,9 +102,17 @@ Hauts-de-Seine |
 
 |
 
+Anthony |
+
+Ressort des chambres de proximité d'Antony, Boulogne-Billancourt et Vanves.
+
+|
+
+|
+
 Asnières-sur-Seine |
 
-Ressort du tribunal judiciaire de Nanterre |
+Ressort des chambres de proximité d'Asnières-sur-Seine, Colombes, Courbevoie et Puteaux. |
 
 Val-d'Oise |
 
@@ -124,4 +132,4 @@ Ressort du tribunal judiciaire de Versailles à l'exception du ressort de la cha
 
 NOTA :
 
-Conformément à l’article 2 du décret n° 2021-439 du 13 avril 2021, ces dispositions sont applicables aux instances introduites à compter du 1er juillet 2021.
+Conformément à l'article 2 du décret n° 2022-918 du 21 juin 2022, ces dispositions s'appliquent aux demandes formées ou aux procédures introduites à compter du 1er janvier 2023.
