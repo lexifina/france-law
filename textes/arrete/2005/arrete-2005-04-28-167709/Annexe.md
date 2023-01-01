@@ -16,7 +16,7 @@ Le système national de pharmacovigilance repose sur :
 
 - l'emploi d'une méthode d'imputabilité commune imposant de facto un contrôle de qualité des informations recueillies ;
 
-- la centralisation et l'évaluation de l'ensemble des informations sur le risque médicamenteux par le comité technique et la Commission nationale de pharmacovigilance, afin de donner un avis au directeur général de l'AFSSAPS sur les mesures à prendre, pour informer sur le risque de survenue d'effets indésirables liés au(x) médicament(s), pour prévenir ce risque ou pour en diminuer la gravité.
+- la centralisation et l'évaluation de l'ensemble des informations sur le risque médicamenteux par le comité social et la Commission nationale de pharmacovigilance, afin de donner un avis au directeur général de l'AFSSAPS sur les mesures à prendre, pour informer sur le risque de survenue d'effets indésirables liés au(x) médicament(s), pour prévenir ce risque ou pour en diminuer la gravité.
 
 La pharmacovigilance s'implique fortement dans la gestion de la iatrogénie médicamenteuse, en prenant en compte l'ensemble des risques médicamenteux tant dans le cadre de l'utilisation normale du médicament que dans celui du mésusage ou de l'abus de médicament. Elle contribue au bon usage du médicament.
 
@@ -196,7 +196,7 @@ Comité des médicaments à usage humain
 
 Instance scientifique, constituée de membres nommés par chaque Etat membre de la Communauté européenne, qui relève de l'agence européenne des médicaments. Ce comité est notamment chargé de préparer l'avis scientifique sur les dossiers soumis à l'agence et de faciliter l'adoption par les Etats membres de recommandations communes concernant l'autorisation de mise sur le marché et l'évaluation du risque des médicaments à usage humain.
 
-Comité technique de pharmacovigilance
+Comité social de pharmacovigilance
 
 Constitué des membres de droit de la Commission nationale de pharmacovigilance et d'un représentant de chacun des CRPV et présidé par le président (ou, en son absence, par le vice-président) de la Commission nationale de pharmacovigilance, il est chargé notamment de :
 
@@ -478,7 +478,7 @@ Elle assure la mise en oeuvre du système national de pharmacovigilance, défini
 
 Elle participe aux décisions et à l'élaboration des textes réglementaires nationaux, communautaires et internationaux concernant la pharmacovigilance.
 
-Ces missions sont assurées, conformément aux réglementations nationales et communautaires en vigueur, par l'AFSSAPS, notamment par l'unité de pharmacovigilance. Cette unité est chargée de coordonner l'activité des centres régionaux de pharmacovigilance (CRPV) et d'assurer le secrétariat du comité technique et de la Commission nationale de pharmacovigilance. Elle est destinataire des déclarations et des rapports périodiques actualisés de pharmacovigilance transmis par les responsables de la mise sur le marché des médicaments ou produits ainsi que de toutes informations sur le risque médicamenteux émanant des autres Etats membres de la Communauté européenne ou parties à l'Accord sur l'Espace économique européen, de l'Agence européenne des médicaments ou d'un pays tiers.
+Ces missions sont assurées, conformément aux réglementations nationales et communautaires en vigueur, par l'AFSSAPS, notamment par l'unité de pharmacovigilance. Cette unité est chargée de coordonner l'activité des centres régionaux de pharmacovigilance (CRPV) et d'assurer le secrétariat du comité social et de la Commission nationale de pharmacovigilance. Elle est destinataire des déclarations et des rapports périodiques actualisés de pharmacovigilance transmis par les responsables de la mise sur le marché des médicaments ou produits ainsi que de toutes informations sur le risque médicamenteux émanant des autres Etats membres de la Communauté européenne ou parties à l'Accord sur l'Espace économique européen, de l'Agence européenne des médicaments ou d'un pays tiers.
 
 Organisation
 
@@ -514,7 +514,7 @@ c) D'analyser les rapports périodiques actualisés de pharmacovigilance pour v�
 
 6. De promouvoir les études sur la sécurité après autorisation de mise sur le marché ainsi que toute autre étude permettant d'améliorer la connaissance et de prévenir la survenue des effets indésirables. Disposer des résultats d'études de pharmacovigilance réalisées par le responsable de la mise sur le marché ;
 
-7. D'apprécier l'opportunité de toute demande d'ouverture d'enquête émanant du comité technique ou de la Commission nationale de pharmacovigilance, du comité des médicaments à usage humain ou de toute autre autorité compétente, et de prendre toute mesure nécessaire pour la réalisation de cette enquête ; de communiquer, dans les plus brefs délais, toute information utile au CRPV chargé de l'enquête et qu'elle a désigné ;
+7. D'apprécier l'opportunité de toute demande d'ouverture d'enquête émanant du comité social ou de la Commission nationale de pharmacovigilance, du comité des médicaments à usage humain ou de toute autre autorité compétente, et de prendre toute mesure nécessaire pour la réalisation de cette enquête ; de communiquer, dans les plus brefs délais, toute information utile au CRPV chargé de l'enquête et qu'elle a désigné ;
 
 8. De prendre les mesures qui s'imposent en matière de santé publique au vu des avis émis par les commissions consultatives compétentes, en informer le ministre chargé de la santé et s'assurer de leur application ;
 
@@ -586,7 +586,7 @@ Elle comprend :
 
 - six membres de droit : les directeurs généraux de la santé, de l'AFSSAPS, de l'Institut national de la santé et de la recherche médicale, le directeur de l'hospitalisation et de l'organisation des soins, le président de la Commission nationale de pharmacovigilance vétérinaire et le président de la Commission nationale des stupéfiants et des psychotropes, ou leurs représentants ;
 
-- trente-trois membres nommés par le ministre chargé de la santé pour une durée de trois ans. Il s'agit de cliniciens, de toxicologues, de pharmacologues, de pharmaciens, de personnalités compétentes en pharmaco-épidémiologie, ainsi que de représentants des associations de personnes malades et d'usagers du système de santé, des associations de consommateurs, de l'industrie pharmaceutique et du comité technique de toxicovigilance.
+- trente-trois membres nommés par le ministre chargé de la santé pour une durée de trois ans. Il s'agit de cliniciens, de toxicologues, de pharmacologues, de pharmaciens, de personnalités compétentes en pharmaco-épidémiologie, ainsi que de représentants des associations de personnes malades et d'usagers du système de santé, des associations de consommateurs, de l'industrie pharmaceutique et du comité social de toxicovigilance.
 
 Trente-trois suppléants sont désignés dans les mêmes conditions que les membres titulaires. Ils remplacent ces derniers en cas d'empêchement et leur succèdent s'il se produit une vacance en cours de mandat, pour la durée du mandat restant à courir.
 
@@ -594,7 +594,7 @@ Le président et le vice-président sont désignés par le ministre chargé de l
 
 Fonctionnement
 
-Sauf cas d'urgence, la commission se prononce sur les conclusions des dossiers préparés par le comité technique, notamment les enquêtes de pharmacovigilance. Elle a la faculté d'entendre toute personne qualifiée afin de bénéficier d'une expérience et d'une compétence utiles à l'instruction des dossiers qui lui sont soumis pour avis. En pratique, après avoir entendu le rapporteur du dossier et les représentants des entreprises ou organismes concernés, la commission délibère et rend un avis sur les mesures à prendre pour assurer la sécurité d'emploi des médicaments ou produits (voir chapitre 7 : Procédure d'enquête et de suivi de pharmacovigilance).
+Sauf cas d'urgence, la commission se prononce sur les conclusions des dossiers préparés par le comité social, notamment les enquêtes de pharmacovigilance. Elle a la faculté d'entendre toute personne qualifiée afin de bénéficier d'une expérience et d'une compétence utiles à l'instruction des dossiers qui lui sont soumis pour avis. En pratique, après avoir entendu le rapporteur du dossier et les représentants des entreprises ou organismes concernés, la commission délibère et rend un avis sur les mesures à prendre pour assurer la sécurité d'emploi des médicaments ou produits (voir chapitre 7 : Procédure d'enquête et de suivi de pharmacovigilance).
 
 Règles déontologiques
 
@@ -896,11 +896,11 @@ Les objectifs de l'enquête de pharmacovigilance sont définis dans le courrier 
 
 - le nom du ou des responsables de l'enquête. Dans le cas où plusieurs rapporteurs associés ont été désignés, les attributions de chacun doivent être précisées.
 
-1.2. Missions du rapporteur, du comité technique et de la Commission nationale de pharmacovigilance :
+1.2. Missions du rapporteur, du comité social et de la Commission nationale de pharmacovigilance :
 
-Le rapporteur rassemble, valide et analyse les données, dans le but d'évaluer le risque lié à l'utilisation du ou des médicaments ou produits concernés. Il recherche et identifie les facteurs de risque et justifie, devant le comité technique, les propositions visant à diminuer ou à supprimer le risque. Il coordonne, le cas échéant, le travail des centres de pharmacovigilance associés.
+Le rapporteur rassemble, valide et analyse les données, dans le but d'évaluer le risque lié à l'utilisation du ou des médicaments ou produits concernés. Il recherche et identifie les facteurs de risque et justifie, devant le comité social, les propositions visant à diminuer ou à supprimer le risque. Il coordonne, le cas échéant, le travail des centres de pharmacovigilance associés.
 
-Le comité technique de pharmacovigilance s'assure de la bonne conduite de l'enquête et en valide les conclusions et propositions avant son examen par la Commission nationale de pharmacovigilance. Il peut également proposer d'éventuels compléments d'enquête.
+Le comité social de pharmacovigilance s'assure de la bonne conduite de l'enquête et en valide les conclusions et propositions avant son examen par la Commission nationale de pharmacovigilance. Il peut également proposer d'éventuels compléments d'enquête.
 
 La Commission nationale de pharmacovigilance prend connaissance des données et des conclusions de l'enquête présentées par le rapporteur et propose si nécessaire au directeur général de l'AFSSAPS des mesures de nature à diminuer ou supprimer le risque du ou des médicaments ou produits, avec saisie éventuelle de la Commission d'autorisation de mise sur le marché en vue de réévaluer le rapport bénéfice/risque de ces médicaments ou produits.
 
@@ -914,7 +914,7 @@ Si le médicament ou produit faisant l'objet de l'enquête est autorisé mais no
 
 Après réception du courrier du directeur général de l'AFSSAPS, le(s) CRPV désigné(s) comme rapporteur(s) envoie(nt) dans les 15 jours un courrier accompagné du formulaire de demande d'informations dûment complété (voir formulaire ci-après) au responsable de la mise sur le marché concerné. Ce dernier doit fournir au(x) rapporteur(s) l'ensemble des données demandées dans un délai de 45 jours à compter de la date de réception du courrier du ou des rapporteurs.
 
-Un calendrier est établi en accord entre le(s) rapporteur(s) et le responsable de la mise sur le marché afin que l'enquête soit présentée au comité technique au plus tard 6 mois après la réception des documents par le(s) rapporteur(s). Ce délai peut être prorogé de 6 mois par l'AFSSAPS. En cas d'urgence, l'AFSSAPS peut imposer un délai plus court.
+Un calendrier est établi en accord entre le(s) rapporteur(s) et le responsable de la mise sur le marché afin que l'enquête soit présentée au comité social au plus tard 6 mois après la réception des documents par le(s) rapporteur(s). Ce délai peut être prorogé de 6 mois par l'AFSSAPS. En cas d'urgence, l'AFSSAPS peut imposer un délai plus court.
 
 Le rapporteur de l'enquête fixe avec le responsable de la mise sur le marché, le calendrier et la date des réunions, au cours desquelles est analysé l'ensemble des données disponibles en rapport avec l'enquête. Ce travail de collaboration se déroule en principe dans les locaux du responsable de l'enquête ou à l'AFSSAPS. Un travail commun avec plusieurs responsables de la mise sur le marché du ou des médicaments, le cas échéant, est possible s'ils en donnent leur accord écrit. Un compte rendu des réunions est rédigé et validé par les parties concernées.
 
@@ -1014,9 +1014,9 @@ Avec l'aide du ou des responsables de la mise sur le marché, le responsable de 
 
 Un rapport est rédigé par le responsable de l'enquête reprenant les constatations et les réflexions menées sur les différents points précités. Il doit contenir une synthèse résumant les données présentées dans les différentes rubriques du rapport.
 
-Le rapport d'enquête doit être transmis au(x) responsable(s) de la mise sur le marché et à l'AFSSAPS une semaine avant la réunion du comité technique puis avant celle de la Commission nationale de pharmacovigilance. Lorsque plusieurs responsables de la mise sur le marché sont concernés par l'enquête, le rapporteur doit veiller à occulter les données relevant du secret industriel et commercial des spécialités exploitées par le(s) concurrent(s) (notamment le nombre d'unités vendues ou les données permettant d'estimer ces chiffres) lors de la transmission de son rapport aux responsables de la mise sur le marché des différents médicaments ou produits concernés par l'enquête.
+Le rapport d'enquête doit être transmis au(x) responsable(s) de la mise sur le marché et à l'AFSSAPS une semaine avant la réunion du comité social puis avant celle de la Commission nationale de pharmacovigilance. Lorsque plusieurs responsables de la mise sur le marché sont concernés par l'enquête, le rapporteur doit veiller à occulter les données relevant du secret industriel et commercial des spécialités exploitées par le(s) concurrent(s) (notamment le nombre d'unités vendues ou les données permettant d'estimer ces chiffres) lors de la transmission de son rapport aux responsables de la mise sur le marché des différents médicaments ou produits concernés par l'enquête.
 
-Après examen du dossier, le comité technique le transmet, si nécessaire, à la Commission nationale de pharmacovigilance pour avis.
+Après examen du dossier, le comité social le transmet, si nécessaire, à la Commission nationale de pharmacovigilance pour avis.
 
 A l'issue de l'enquête et préalablement au passage en Commission nationale de pharmacovigilance, une réunion de concertation avec le ou les responsables de la mise sur le marché peut être organisée à l'AFSSAPS. Elle a pour but de prendre connaissance des propositions communes du rapporteur et du responsable de la mise sur le marché ainsi que de discuter des éventuelles propositions divergentes.
 
@@ -1054,7 +1054,7 @@ La date d'ouverture du suivi de pharmacovigilance est celle du courrier adressé
 
 Une première réunion est organisée, en général à l'AFSSAPS, avec le(s) responsable(s) de la mise sur le marché, le rapporteur et les représentants de l'AFSSAPS. Le but de cette réunion est de déterminer les informations et documents à échanger entre les différents intervenants et de fixer le calendrier des réunions ultérieures. Un compte rendu de cette réunion est rédigé et validé par les parties concernées.
 
-Lors de chaque réunion, le rapporteur présente, sous la forme d'un rapport, un bilan actualisé des données. Si nécessaire, ce rapport peut être présenté en comité technique et, le cas échéant, en Commission nationale de pharmacovigilance.
+Lors de chaque réunion, le rapporteur présente, sous la forme d'un rapport, un bilan actualisé des données. Si nécessaire, ce rapport peut être présenté en comité social et, le cas échéant, en Commission nationale de pharmacovigilance.
 
 Il conviendra de se référer à la procédure d'enquête de pharmacovigilance décrite ci-dessus pour les points suivants :
 
@@ -1074,7 +1074,7 @@ Avec l'aide du (des) responsable(s) de la mise sur le marché, le responsable du
 
 2.4. Propositions/avis :
 
-En cas de problème émergent, le suivi peut faire l'objet d'une présentation en comité technique et en Commission nationale de pharmacovigilance selon les modalités prévues pour l'enquête de pharmacovigilance décrites ci-dessus.
+En cas de problème émergent, le suivi peut faire l'objet d'une présentation en comité social et en Commission nationale de pharmacovigilance selon les modalités prévues pour l'enquête de pharmacovigilance décrites ci-dessus.
 
 Pour les médicaments enregistrés selon une procédure européenne, les conclusions du suivi peuvent être transmises, si nécessaire, à l'Agence européenne des médicaments, au rapporteur ou à l'Etat membre de référence.
 
@@ -1230,4 +1230,8 @@ Si le médecin qui a prescrit le médicament suspecté n'est pas le même que ce
 
 Vous pouvez consulter le cliché dans le
 
-JO n° 136 du 12/06/2011 texte numéro 19
+JOn° 136 du 12/06/2011 texte numéro 19
+
+NOTA :
+
+Conformément à l'article 88 du décret n° 2021-1570 du 3 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
