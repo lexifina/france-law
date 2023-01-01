@@ -1,6 +1,6 @@
 # Article Annexe V
 
-RUBRIQUES DU DOSSIER DE RECONNAISSANCE DES ACQUIS DE L'EXPÉRIENCE PROFESSIONNELLE (RAEP)
+LANGUES VIVANTES ETRANGÈRES PROPOSÉES AU CHOIX DU CANDIDAT POUR LA TROISIÈME ÉPREUVE D'ADMISSION DU CONCOURS EXTERNE
 
 Identification du candidat
 
@@ -50,4 +50,4 @@ Accusé de réception.
 
 NOTA :
 
-Décret n° 2011-1100 du 9 septembre 2011 article 8 : Les dispositions du présent décret sont applicables aux concours organisés à compter de l'année 2012.
+Conformément à l'article 7 du décret n° 2022-282 du 28 février 2022, ces dispositions sont applicables aux concours ouverts à compter de l'année 2023.
