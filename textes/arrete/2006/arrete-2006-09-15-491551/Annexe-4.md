@@ -138,6 +138,8 @@ Pour figurer dans cette annexe, les gestionnaires de réseaux doivent faire parv
 
 Pour les réseaux de chaleur ou de froid qui ne figurent pas à l'annexe 7, la valeur est fixée par défaut au contenu CO2 le plus élevé, celui du charbon.
 
+Pour la réalisation d'un diagnostic de performance énergétique pour les maisons individuelles neuves et pour les bâtiments ou parties de bâtiments neufs à usage d'habitation, détaillée dans le titre III de l'arrêté du 31 mars 2021 relatif au diagnostic de performance énergétique pour les bâtiments ou parties de bâtiments à usage d'habitation en France métropolitaine susvisé, et pour la réalisation d'un diagnostic de performance énergétique pour les bâtiments ou parties de bâtiment autres que d'habitation neufs, détaillée dans l'arrêté du 21 septembre 2007 relatif au diagnostic de performance énergétique pour les bâtiments ou parties de bâtiment autres que d'habitation neufs en France métropolitaine, les facteurs de conversion des énergies finales en émission de gaz à effet de serre et taux d'énergies renouvelables et de récupération des réseaux de chaleur et de froid sont ceux issus du récapitulatif standardisé d'étude thermique ou énergétique.
+
 2. Echelle des émissions de gaz à effet de serre
 
 2.1. Généralités
@@ -374,4 +376,4 @@ Strictement supérieur à 95 |
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 31 mars 2021 (NOR : LOGL2107220A), ces dispositions entrent en vigueur le 1er juillet 2021.
+Conformément à l’article 4 de l’arrêté du 3 novembre 2022 (NOR : TREL2227760A), ces dispositions entrent en vigueur le 1er janvier 2023.
