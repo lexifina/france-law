@@ -138,11 +138,19 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
-- Fret ferroviaire / Fiche d'opération n° TRA-SE-116
+- Covoiturage de longue distance / Fiche d’opération n° TRA-SE-114
+
+Conformément à l’article 2 de l’arrêté du 2 décembre 2022 (NOR : ENER2232310A), les mots : " trois ans " mentionnés à l'annexe 1 définissant le contenu de la partie A de l'attestation sur l'honneur de la fiche d'opération standardisée TRA-SE-114 sont remplacés par les mots : " douze ans ".
+
+- Covoiturage de courte distance / Fiche d’opération n° TRA-SE-115
+
+Conformément à l’article 2 de l’arrêté du 2 décembre 2022 (NOR : ENER2232310A), les mots : " trois ans " mentionnés à l'annexe 1 définissant le contenu de la partie A de l'attestation sur l'honneur de la fiche d'opération standardisée TRA-SE-115 sont remplacés par les mots : " cinq ans ".
 
 Liens :
 
-Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 251 du 28/10/2022, texte nº 43, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=NULsg1-fB0anaNgJkb9lF9THx2jwEjlJhjdepQdGsns=
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 233 du 07/10/2022, texte nº 23, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=Y7BCQu5aRgPWWPC6K-CR-ysmOZV06kSmwy-5YKhibI4=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 44 du 22/02/2022, texte nº 6, accessible à l’adresse suivante :
 
@@ -211,3 +219,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 24/12/2014, texte nº 18, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Conformément à l'article 2 de l’arrêté du 2 décembre 2022 (NOR : ENER2232310A), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

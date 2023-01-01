@@ -90,7 +90,7 @@ Les documents de preuve de réalisation de l'opération comportent :
 
 La preuve du rôle actif et incitatif est apportée par l'un des éléments ou ensemble d'éléments décrits ci-après.
 
-Lorsque le bénéficiaire est une personne physique ou un syndicat de copropriétaires, le cadre CONTRIBUTION défini à l'annexe 8 est inséré dans le contrat ou l'engagement, annexé, ou joint à celui-ci.
+Lorsque le bénéficiaire est une personne physique ou un syndicat de copropriétaires, le cadre CONTRIBUTION défini à l'annexe 8 est inséré dans le contrat ou l'engagement, annexé, ou joint à celui-ci. Toutefois, pour les opérations de covoiturage relevant des fiches d'opérations standardisées TRA-SE-114 ou TRA-SE-115, le cadre CONTRIBUTION défini à l'annexe 8 bis est inséré dans le contrat ou l'engagement, annexé, ou joint à celui-ci, en lieu et place du cadre CONTRIBUTION défini à l'annexe 8.
 
 Si la contribution est un audit ou conseil personnalisé, celui-ci prend la forme d'un document écrit remis au bénéficiaire et dont une copie est archivée par le demandeur.
 
@@ -470,4 +470,4 @@ g) Les pénalités en cas de non-atteinte de la performance garantie par le cont
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 28 septembre 2021, ces dispositions s'appliquent aux opérations engagées à compter du 1er janvier 2021.
+Conformément à l'article 2 de l’arrêté du 2 décembre 2022 (NOR : ENER2232310A), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
