@@ -694,7 +694,7 @@ Montant (en points majorés)
 
 |
 
-Chargé de mission ou chef de bureau : agent chargé de mission auprès d'un directeur, d'un chef de service ou d'un sous-directeur ou chef de bureau (1)
+Chargé de mission ou chef de bureau : agent chargé de mission auprès d'un directeur, d'un chef de service ou d'un sous-directeur ou chef de bureau
 
 |
 
@@ -702,11 +702,11 @@ A
 
 |
 
-70
+67
 
 |
 
-De 20 à 30 points d'indice (dans la limite de 1500 points)
+De 20 à 30 points d'indice dans la limite de 1410 points)
 
 |
 
@@ -734,11 +734,11 @@ B
 
 |
 
-106
+105
 
 |
 
-De 15 à 20 points d'indice (dans la limite de 1800 points)
+De 15 à 20 points d'indice dans la limite de 1785 points)
 
 |
 
@@ -750,11 +750,11 @@ C
 
 |
 
-205
+203
 
 |
 
-De 10 à 15 points d'indice (dans la limite de 2 400 points)
+De 10 à 15 points d'indice dans la limite de 2380 points)
 
 |
 
@@ -904,6 +904,4 @@ B
 
 NOTA :
 
-Décret n° 2009-235 du 27 février 2009 art 7 : Les présentes dispositions prennent effet dans chaque région à la date de nomination du directeur régional de l'environnement, de l'aménagement et du logement et au plus tard le 1er janvier 2011.
-
-Conformément à son article 10, le présent décret ne s'applique ni à la région Ile-de-France, ni aux régions d'outre-mer.
+Conformément à l'article 3 de l'arrêté du 15 mai 2023 (NOR : AGRS2310828A), ces dispositions entrent en vigueur au 1er janvier 2023.

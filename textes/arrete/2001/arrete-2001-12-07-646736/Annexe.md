@@ -44,6 +44,10 @@ Nombre de points
 
 |
 
-53 633
+53 758
 
 |
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 15 mai 2023 (NOR : AGRS2310828A), ces dispositions entrent en vigueur au 1er janvier 2023.

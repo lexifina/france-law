@@ -2,56 +2,84 @@
 
 ANNEXE
 
-Force armée ou formation
+Force armée
 
-rattachée |
+ou formation rattachée |
 
 Type d'engagement |
 
-Nombre maximum de primes |
+Nombre
 
-Montant minimum de la prime (€) |
+de primes
 
-Montant maximum de la prime (€) |
+attribuables en 2023 |
 
-Montant maximum des primes attribuées en 2022 |
+Montant
 
-Montant maximum des primes attribuées et versées en 2022 |
+individuel
+
+minimum
+
+de la prime (€) |
+
+Montant
+
+individuel
+
+maximum
+
+de la prime (€) |
+
+Montant
+
+maximum
+
+de primes
+
+attribuables en 2023 |
+
+Montant
+
+maximum
+
+de primes
+
+payables en 2023 |
 
 Familles professionnelles/ filières
 
 professionnelles |
 
-Armée de Terre/ Brigade de sapeurs-pompiers de Paris |
+Armée de terre (brigade de sapeurs-pompiers de Paris) |
 
 Engagement à servir général (ESG) |
 
-383 |
+450 |
 
 4 000 |
 
 4 000 |
 
-1 532 000 € |
+1 800 000 € |
 
-1 532 000 € |
+1 800 000 € |
 
 Toutes. |
 
 Engagement à servir spécifique (ESS) |
 
-160 |
+121 |
 
 4 000 |
 
-10 000 |
+15 000 |
 
-968 000 € |
+978 300 € |
 
-968 000 € |
+978 300 € |
 
-Achats ; Communication ; Entraînement militaire physique et sportif ; Finances ; Infrastructure et politique immobilière ; Logistique supply chain ; Maintenance des matériels terrestres ; Musique ; Opérations en milieu terrestre ; Gestion des ressources humaines ; Restauration hôtellerie et loisirs ; Santé ; Sécurité secours incendie ; Systèmes d'information et de communication. |
+Achats ; communication ; entraînement militaire physique et sportif ; finances ; infrastructure et politique immobilière ; logistique et chaîne logistique ; maintenance des matériels terrestres ; musique ; opérations en milieu terrestre ; gestion des ressources humaines ; restauration hôtellerie et loisirs ; santé sécurité au travail ; sécurité secours incendie ; systèmes d'information et de communication. |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 24 décembre 2021 (NOR : ARMH2136967A), ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 3 de l'arrêté du 25 janvier 2023 (NOR : ARMH2237028A), ces dispositions entrent en vigueur le 1er janvier 2023.
