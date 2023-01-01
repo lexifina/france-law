@@ -1310,6 +1310,46 @@ Chef de la cellule des matériels |
 
 1 |
 
+57 |
+
+Région de gendarmerie Est - cercle mixte Metz
+
+|
+
+Chef de cuisine |
+
+1 |
+
+69 |
+
+Région de gendarmerie Rhône-Alpes - cercle mixte Sathonay
+
+|
+
+Adjoint au chef de cuisine |
+
+1 |
+
+92 |
+
+Garde républicaine - cercle mixte Nanterre
+
+|
+
+Chef de cuisine |
+
+1 |
+
+94 |
+
+Région de gendarmerie d'Ile-de-France - cercle mixte Maisons-Alfort
+
+|
+
+Gérant du cercle mixte |
+
+1 |
+
 Périmètre police nationale
 
 Compagnies républicaines de sécurité
@@ -1533,3 +1573,7 @@ Direction des systèmes d'information et de communication/Lognes |
 Responsable de la cellule "fabrication CNI" |
 
 1 |
+
+NOTA :
+
+Conformément au c) du 1° de l'article 2 de l'arrêté du 16 décembre 2022 (NOR : IOMA2229904A) ces dispositions entrent en vigueur le 1er janvier 2023.

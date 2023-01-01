@@ -298,6 +298,14 @@ Adjoint au chef de cuisine |
 
 1 |
 
+29 |
+
+Ecole de gendarmerie de Châteaulin - cercle mixte |
+
+Chef de cuisine |
+
+1 |
+
 75 |
 
 Garde républicaine-cercle mixte Tournon |
@@ -393,3 +401,7 @@ Direction du numérique/ SDES/ CNPT/ Limoges |
 Adjoint au responsable de la cellule exploitation |
 
 1 |
+
+NOTA :
+
+Conformément au b) du 1° de l'article 1 de l'arrêté du 16 décembre 2022 (NOR : IOMA2229904A) ces dispositions entrent en vigueur le 1er janvier 2023.
