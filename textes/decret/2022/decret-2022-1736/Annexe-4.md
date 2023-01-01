@@ -1,0 +1,299 @@
+# Article Annexe 4
+
+Désignation des ministres disposant des crédits ouverts par programme sur les comptes de concours financiers pour 2023
+
+INTITULÉS DU COMPTE
+
+et du programme |
+
+NUMÉRO
+
+du programme |
+
+MINISTRE DISPOSANT DES CRÉDITS
+
+du programme |
+
+ACCORDS MONÉTAIRES INTERNATIONAUX |
+
+|
+
+|
+
+Relations avec l'Union monétaire ouest-africaine |
+
+811 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Relations avec l'Union monétaire d'Afrique centrale |
+
+812 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Relations avec l'Union des Comores |
+
+813 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+AVANCES À L'AUDIOVISUEL PUBLIC |
+
+|
+
+|
+
+France Télévisions |
+
+841 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+ARTE France |
+
+842 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Radio France |
+
+843 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+France Médias Monde |
+
+844 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Institut national de l'audiovisuel |
+
+845 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+TV5 Monde |
+
+847 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+AVANCES AUX COLLECTIVITÉS TERRITORIALES |
+
+|
+
+|
+
+Avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie |
+
+832 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes |
+
+833 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Avances remboursables de droits de mutation à titre onéreux destinées à soutenir les départements et d'autres collectivités affectés par les conséquences économiques de l'épidémie de covid-19 |
+
+834 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+PRÊTS À DES ÉTATS ÉTRANGERS |
+
+|
+
+|
+
+Prêts du Trésor à des États étrangers en vue de faciliter la vente de biens et de services concourant au développement du commerce extérieur de la France |
+
+851 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Prêts à des États étrangers pour consolidation de dettes envers la France |
+
+852 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Prêts à l'Agence française de développement en vue de favoriser le développement économique et social dans des États étrangers |
+
+853 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Prêts aux États membres de l'Union européenne dont la monnaie est l'euro |
+
+854 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+PRÊTS ET AVANCES À DES PARTICULIERS
+
+OU À DES ORGANISMES PRIVÉS |
+
+|
+
+|
+
+Prêts et avances pour le logement des agents de l'État |
+
+861 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Prêts pour le développement économique et social |
+
+862 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Soutien à la filière nickel en Nouvelle Calédonie |
+
+878 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Prêts octroyés dans le cadre des programmes des investissements d'avenir |
+
+876 |
+
+Première ministre |
+
+Prêts à la société concessionnaire de la liaison express entre Paris et l'aéroport Paris-Charles de Gaulle |
+
+869 |
+
+Ministre de la transition écologique et de la cohésion des territoires |
+
+Avances remboursables et prêts bonifiés aux entreprises touchées par la crise de la covid-19 |
+
+877 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+PRÊTS ET AVANCES À DIVERS SERVICES DE L'ÉTAT
+
+OU ORGANISMES GÉRANT DES SERVICES PUBLICS |
+
+|
+
+|
+
+Avances à l'Agence de services et de paiement, au titre du préfinancement des aides communautaires de la politique agricole commune |
+
+821 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Avances à des organismes distincts de l'État et gérant des services publics |
+
+823 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Prêts et avances à des services de l'État |
+
+824 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Avances à l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (ONIAM) au titre de l'indemnisation des victimes du Benfluorex |
+
+825 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Prêts aux exploitants d'aéroports touchés par la crise de covid-19 au titre des dépenses de sûreté-sécurité |
+
+826 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Prêts destinés à soutenir Île-de-France Mobilités à la suite des conséquences de l'épidémie de la covid-19 |
+
+827 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Prêts destinés à soutenir les autorités organisatrices de la mobilité à la suite des conséquences de l'épidémie de la covid-19 |
+
+828 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Prêts destinés au financement des infrastructures de transports collectifs du quotidien de la métropole d'Aix-Marseille-Provence |
+
+829 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
+
+Prêts à FranceAgriMer au titre des préfinancements de fonds européens |
+
+830 |
+
+Ministre de l'économie, des finances et de la souveraineté industrielle
+
+et numérique |
