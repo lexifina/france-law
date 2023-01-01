@@ -260,7 +260,7 @@ NIVEAU BON :
 
 -respect des contraintes identifiées et adéquation du matériel d'épandage à ces contraintes ;
 
--les sols sont constamment en équilibre hydrique, les volumes apportés ne dépassant jamais les possibilités d'évapotranspiration et d'absorption des sols sans saturation de leur couche superficielle. La pluviométrie et les volumes d'effluents épandus ne dépassent jamais la réserve utile des sols après déduction de l'évapotranspiration, et les lames d'eau par passage prescrites dans l'étude de périmètre sont respectées ou à défaut d'étude ne dépassent pas 20 et 60 mm/ mois respectivement sur les périodes d'excédents et de déficits hydriques.
+-les sols sont constamment en équilibre hydrique, les volumes apportés ne dépassant jamais les possibilités d'évapotranspiration et d'absorption des sols sans saturation de leur couche superficielle. La pluviométrie et les volumes d'effluents épandus ne dépassent jamais la réserve utile des sols après déduction de l'évapotranspiration, et les lames d'eau par passage prescrites dans l'étude de périmètre sont respectées ou, à défaut d'étude, ne dépassent pas 20 et 60 mm/ mois respectivement sur les périodes d'excédents et de déficits hydriques. La pluviométrie et les volumes d'effluents épandus ne dépassent jamais la réserve utile des sols après déduction de l'évapotranspiration, et les lames d'eau par passage prescrites dans l'étude de périmètre sont respectées ou à défaut d'étude ne dépassent pas 20 et 60 mm/ mois respectivement sur les périodes d'excédents et de déficits hydriques.
 
 -en cas de stockage des effluents, un bilan hydrique met en évidence des pertes au plus égales à 5 %, ce taux pouvant être porté à 10 % si l'analyse de prélèvements sur piézomètre ne met pas en évidence d'impact significatif du stockage sur la qualité de la nappe
 
@@ -1618,6 +1618,4 @@ La valeur du coefficient d'élimination des boues issues du dispositif d'épurat
 
 NOTA :
 
-Arrêté du 16 mars 2011 article 6 : Les dispositions du présent arrêté s'appliquent à la redevance déclarée au titre de l'année 2011 et des années suivantes, sauf les articles 1er, 3 et 4 qui s'appliquent également à la redevance déclarée au titre de l'année 2010.
-
-(1) Au lieu de " du point c du 2 ci-dessus" il convient de lire " du point b du 2 ci-dessus".
+Conformément à l’article 2 de l’arrêté du 16 novembre 2020 (NOR : TREL2028824A), ces dispositions entrent en vigueur le 1er janvier 2023.
