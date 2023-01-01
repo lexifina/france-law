@@ -28,18 +28,6 @@ Ménages aux ressources supérieures |
 
 |
 
-Chaudières à très haute performance énergétique, à l'exception de celles utilisant le fioul comme source d'énergie, mentionnées au 1 de l'annexe 1 |
-
-1 200 € |
-
-800 € |
-
-X |
-
-X |
-
-4 000 € |
-
 Chaudières à alimentation automatique fonctionnant au bois ou autres biomasse, mentionnées au a du 2 de l'annexe 1 |
 
 11 000 € |
@@ -222,7 +210,9 @@ X |
 
 4 000 € |
 
-Systèmes de ventilation mécanique contrôlée double flux autoréglables ou hygroréglables, mentionnés au 7 de l'annexe 1 |
+Systèmes de ventilation mécanique contrôlée double flux autoréglables ou hygroréglables, mentionnés au 7 de l'annexe 1
+
+|
 
 3 000 € |
 
@@ -434,6 +424,6 @@ Somme forfaitaire mentionnée à l'article 13-4 de l'arrêté précité |
 
 NOTA :
 
-Conformément au II de l'article 2 de l'arrêté du 20 octobre 2022 (NOR : TRER2229324A), ces dispositions entrent en vigueur le lendemain de la publication de l'arrêté et s'appliquent aux dossiers déposés à compter du 15 novembre 2022.
+Conformément au II de l'article 3 de l'arrêté du 7 avril 2022 (NOR : LOGL2210444A), ces dispositions s'appliquent aux demandes de prime déposées à compter du 1er janvier 2023.
 
 Se reporter aux modalités d'application prévues au I de l'article 3 de l'arrêté du 7 avril 2022 (NOR : LOGL2210444A), dans leur rédaction issue de l'arrêté du 29 décembre 2022 (NOR : TREL2234391A).
