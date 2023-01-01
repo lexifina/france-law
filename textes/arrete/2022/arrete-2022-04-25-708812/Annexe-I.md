@@ -116,7 +116,7 @@ D. - Emplois relevant du groupe 2 :
 
 20° Directeur du service industriel de l'aéronautique ;
 
-21° Chef de la division " énergie opérationnelle " de l'état-major des armées, directeur du service de l'énergie opérationnelle ;
+21° Directeur du service de l'énergie opérationnelle ;
 
 22° Chargé de mission auprès du chef d'état-major des armées ;
 
@@ -276,7 +276,7 @@ E. - Emplois relevant du groupe 3 :
 
 75° Directeur central adjoint de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense ;
 
-76° Adjoint au directeur du service de l'énergie opérationnelle ;
+76° Chef de la division “ énergie opérationnelle ” de l'état-major des armées ;
 
 77° Officier général, directeur de projet " défense et sécurité " auprès du sous-chef d'état-major " opérations " de l'état-major des armées ;
 
@@ -300,7 +300,7 @@ E. - Emplois relevant du groupe 3 :
 
 87° Chef de la division " organisation ressources humaines " de l'état-major des armées ;
 
-88° Chef de la division " munitions " de l'état-major des armées, directeur du service interarmées des munitions ;
+88° Directeur du service interarmées des munitions ;
 
 89° Officier général " relations internationales militaires " de l'état-major des armées ;
 
@@ -600,7 +600,7 @@ G. - Emplois relevant du groupe 5 :
 
 6° Directeur de la navigabilité à la direction de la sécurité aéronautique d'Etat ;
 
-7° Chargé de mission auprès du chef d'état-major des armées ;
+7° Adjoint au directeur du service de l'énergie opérationnelle ;
 
 8° Officier général chargé des fréquences de la direction générale du numérique et des systèmes d'information et de communication ;
 
@@ -836,4 +836,4 @@ G. - Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 7 décembre 2022 (NOR : ARMH2235120A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de décembre 2022.
+Conformément à l’article 2 de l’arrêté du 28 décembre 2022 (NOR : ARMH2236235A), ces dispositions s'appliquent aux rémunérations versées, à compter du mois de janvier 2023.
