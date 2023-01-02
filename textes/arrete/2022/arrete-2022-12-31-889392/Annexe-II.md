@@ -1,6 +1,6 @@
-# Article Annexe 1
+# Article Annexe II
 
-MODALITÉS DE DÉTERMINATION DE LA PART PAYÉE PAR L'ASSURANCE MALADIE SELON LE CAS-PRESTATIONS RELEVANT DU CHAMP MCO
+MODALITÉS DE DÉTERMINATION DE LA PART PAYÉE PAR L'ASSURANCE MALADIE SELON LE CAS-PRESTATIONS RELEVANT DU CHAMP MCO EN CE QUI CONCERNE LES HÔPITAUX DU SERVICE DE SANTÉ DES ARMÉES
 
 DONNÉES |
 
@@ -34,9 +34,9 @@ Taux de ticket modérateur TM |
 
 = 1-TR |
 
-Ticket modérateur forfaitaire TMF 18 euros |
+Ticket modérateur forfaitaire TMF 24 euros |
 
-18 euros |
+24 euros |
 
 Coefficient géographique CG |
 
@@ -49,6 +49,10 @@ CP |
 Coefficient relatif aux allègements de charges CAC |
 
 CAC |
+
+Coefficient relatif aux dispositifs de revalorisation salariale des personnels médicaux et non médicaux (coefficient Ségur) |
+
+CS |
 
 CAS DE PATIENT AVEC UN TICKET MODÉRATEUR À 20 % |
 
@@ -68,11 +72,11 @@ Montant payé par l'assurance maladie AMO : |
 
 -si M _ TM < M _ FJH |
 
-M _ AMO = (GHS × CG x CP x CAC) × TR-(M _ FJ-M _ TM) |
+M _ AMO = (GHS × CG x CP x CAC x CS) × TR-(M _ FJ-M _ TM) |
 
 -si M _ TM > M _ FJH |
 
-M _ AMO = (GHS × CG × x CP x CAC) × TR |
+M _ AMO = (GHS × CG × x CP x CAC x CS) × TR |
 
 (1) Le patient acquitte le forfait journalier le jour de sortie. |
 
@@ -90,7 +94,7 @@ M _ FJH = (FJ × DS) + FJ |
 
 Montant payé par l'assurance maladie AMO |
 
-M _ AMO = (GHS × CG x CP x CAC)-((FJ × DS) + FJ) |
+M _ AMO = (GHS × CG x CP x CAC x CS)-((FJ × DS) + FJ) |
 
 CAS DE PATIENT EXONÉRÉ DU TM ET DU FORFAIT JOURNALIER |
 
@@ -104,15 +108,15 @@ Forfait journalier hospitalier M _ FJH |
 
 Montant payé par l'assurance maladie AMO |
 
-M _ AMO = GHS × CG x CP x CAC |
+M _ AMO = GHS × CG x CP x CAC x CS |
 
 CAS DE PATIENT PRIS EN CHARGE À 100 %
 
-soumis au TM de 18 € et non exonéré du forfait journalier |
+soumis au TM de 24 € et non exonéré du forfait journalier |
 
 Ticket modérateur forfaitaire M _ TMF |
 
-18 euros |
+24 euros |
 
 Forfait journalier hospitalier M _ FJH |
 
@@ -120,15 +124,15 @@ M _ FJ = (FJ × DS) + FJ |
 
 Montant payé par l'assurance maladie AMO |
 
-M _ AMO = (GHS × CG x CP x CAC)-((FJ × DS) + FJ)-18 |
+M _ AMO = (GHS × CG x CP x CAC x CS)-((FJ × DS) + FJ)-24 |
 
 CAS DE PATIENT PRIS EN CHARGE À 100 %
 
-soumis au TM de 18 € et exonéré du forfait journalier |
+soumis au TM de 24 € et exonéré du forfait journalier |
 
 Ticket modérateur forfaitaire M _ TMF |
 
-18 euros |
+24 euros |
 
 Forfait journalier hospitalier M _ FJH |
 
@@ -136,4 +140,4 @@ Forfait journalier hospitalier M _ FJH |
 
 Montant payé par l'assurance maladie AMO |
 
-M _ AMO = (GHS × CG x CP x CAC)-18 |
+M _ AMO = (GHS × CG x CP x CAC x CS)-24 |
