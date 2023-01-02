@@ -1,83 +1,81 @@
 # Article Annexe II
 
-PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PREVUS A L'ARTICLE R. 331-12 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS MENTIONNES AU II DE L'ARTICLE R. 331-1 DU CCH (PLA D'INTEGRATION)
+PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS A L'ARTICLE D. 331-12 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS MENTIONNÉS AU II DE L'ARTICLE D. 331-1 DU CCH (PLA D'INTÉGRATION)
 
-Catégorie
+CATÉGORIE
 
 de ménages |
 
-Paris
+PARIS
 
 et communes limitrophes
 
 (en euros) |
 
-Ile-de-France
+ILE-DE-FRANCE hors Paris
 
-hors Paris
+et communes limitrophes (en euros) |
 
-et communes limitrophes
-
-(en euros) |
-
-Autres
-
-régions
+AUTRES RÉGIONS
 
 (en euros) |
 
 1 |
 
-13 378 |
+13 845 |
 
-13 378 |
+13 845 |
 
-11 626 |
+12 032 |
 
 2 |
 
-21 805 |
+22 567 |
 
-21 805 |
+22 567 |
 
-16 939 |
+17 531 |
 
 3 |
 
-28 582 |
+29 581 |
 
-26 210 |
+27 126 |
 
-20 370 |
+21 082 |
 
 4 |
 
-31287 |
+32 380 |
 
-28 779 |
+29 784 |
 
-22 665 |
+23 457 |
 
 5 |
 
-37 218 |
+38 518 |
 
-34 071 |
+35 261 |
 
-26 519 |
+27 445 |
 
 6 |
 
-41 884 |
+43 347 |
 
-38 339 |
+39 678 |
 
-29 886 |
+30 930 |
 
 Par personne supplémentaire |
 
-4 666 |
+4 829 |
 
-4 270 |
+4 419 |
 
-3 333 |
+3 449 |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 27 décembre 2022 (NOR : TREL2235781A), ces dispositions entrent en vigueur le 1er janvier 2023.
