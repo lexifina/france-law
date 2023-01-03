@@ -1,0 +1,9 @@
+# Réponse à la question n° 1172
+
+- Question : [1172](1172.md) — Question n° 1172 — Pupille de l'État et allocation de rentrée scolaire.
+
+## Réponse
+
+*JO du 2023-01-03, page 77*
+
+L'article 19 de la loi n° 2015-297 du 14 mars 2016 a prévu le versement de l'allocations de rentrée scolaire (ARS) sur un compte bloqué jusqu'à la majorité du mineur protégé dans la perspective de lui constituer un pécule pour l'aider dans son parcours d'insertion et d'autonomie. La loi a confié à la Caisse des dépôts la mission de gestion des ARS des enfants confiés au service de l'aide à l'enfance conformément aux 3° ou 5° de l'article 375-3 ou en application de l'article 375-5 du même code. Les sommes sont versées sur un compte de dépôt spécialisé et sont conservées jusqu'à leur majorité, ou le cas échéant, jusqu'à leur émancipation. A cette date, le pécule est attribué et versé à l'enfant (article L. 543-3 du code de la sécurité sociale). A leurs 18 ans, les jeunes confiés à l'aide sociale à l'enfance peuvent réaliser leur demande en ligne de restitution de leurs allocations de rentrée scolaire à la Caisse des dépôts. Les pupilles de l'Etat ne sont pas bénéficiaires de l'ARS. En effet, ils n'ont pas de parents allocataires et sont pris en charge pour l'ensemble de leurs frais, notamment d'éducation, par le Conseil départemental. Ils ne peuvent, de ce fait, pas constituer de pécule à l'instar des autres mineurs accueillis en protection de l'enfance. Les seuls fonds dont ils disposeront résulteront de leurs parcours de vie, plus particulièrement s'ils sont orphelins et acceptent la succession. Pour les aides, la loi du 7 février 2022 prévoit désormais l'accompagnement obligatoire des jeunes majeurs, cette disposition devrait leur permettre en lien avec le tuteur et le conseil de famille de construire un projet d'autonomie structuré.
