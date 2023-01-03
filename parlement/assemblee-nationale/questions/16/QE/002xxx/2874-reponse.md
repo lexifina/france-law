@@ -1,0 +1,9 @@
+# Réponse à la question n° 2874
+
+- Question : [2874](2874.md) — Question n° 2874 — Situation d'extrême urgence de l'ONG SOS méditerranée
+
+## Réponse
+
+*JO du 2023-01-03, page 93*
+
+Dans le respect de ses engagements internationaux et à titre humanitaire, la France a accepté que l'Ocean Viking puisse débarquer les personnes secourues dans le port de Toulon. 11 Etats européens nous ont apporté leur aide pour procéder à des relocalisations. La France a également mis en œuvre les mesures afin que les demandes d'asile des personnes éligibles à la protection internationale soient examinées tout en organisant les retours dans leur pays d'origine des rescapés non éligibles. Les autorités françaises ont rappelé à plusieurs reprises que la solidarité entre Etats membres en matière migratoire n'est possible que dans le respect de nos engagements respectifs. En ce sens, les relocalisations de demandeurs d'asile au bénéfice de l'Italie, prévues dans le cadre du mécanisme de solidarité européen, ont été suspendues jusqu'à-ce qu'une solution soit trouvée. La réunion extraordinaire des ministres de l'intérieur des Etats membres de l'Union européenne du 25 novembre 2022 a permis de dresser les grandes lignes d'une solution à 27, incluant Malte et l'Italie, sur la base d'une proposition de plan d'action de la Commission européenne. Ces propositions ont fait l'objet d'échanges supplémentaires lors du Conseil "Justice et affaires intérieures" des 8 et 9 décembre 2022. Un premier groupe de contact entre les Etats et les acteurs privés réalisant des missions de sauvetage en mer sera également organisé prochainement par la Commission afin de fixer un cadre commun. Les avancées des négociations sur le Pacte « asile et migrations » européen ainsi que le renforcement de la dimension externe des migrations par les Etats membres et l'Union afin de traiter les causes profondes et prévenir les migrations sont également des éléments primordiaux de notre réponse commune.
