@@ -1,0 +1,9 @@
+# Réponse à la question n° 3423
+
+- Question : [3423](3423.md) — Question n° 3423 — Accès et utilisation des fonds du programme Leader pour les petites communes
+
+## Réponse
+
+*JO du 2023-01-03, page 61*
+
+Le dispositif liaison entre actions de développement de l'économie rurale (LEADER) cofinancé par l'Union européenne via le fonds européen agricole pour le développement rural (FEADER) constitue un volet important de la mise en œuvre des politiques publiques locales et nationales. Il permet de financer des projets s'inscrivant dans des stratégies locales de développement à travers une mise en œuvre par des groupes d'action locale (GAL). Depuis 2014, la mise en œuvre du programme LEADER relève de la responsabilité des conseils régionaux, autorités de gestion du FEADER et mobilise un peu plus de 5 % de l'enveloppe pour la période 2014-2022. Sur cette période, les conseils régionaux ont sélectionné et ont signé des conventions avec 338 GAL. Au total au 30 novembre 2022, 65,6 % de l'enveloppe LEADER est engagée et 39,5 % des paiements ont été effectués. Pour la programmation 2023-2027, conformément à la répartition entre l'État et les régions qui a été fixée par la loi du 27 janvier 2014 modifiée relative à la modernisation de l'action publique territoriale et d'affirmation des métropole (loi MAPTAM), le dispositif LEADER reste de la pleine compétence des conseils régionaux. Concernant son financement, il s'inscrit dans la continuité de la programmation actuelle avec 5 % de l'enveloppe FEADER, conformément à la fiche intervention élaborée par les régions et inscrite dans le plan stratégique national (PSN). La Commission européenne a validé le PSN de la France le 31 août 2022. Concernant les règles de financement des « petits » projets, elles relèvent des choix stratégiques des autorités de gestion régionales dans la définition de leurs dispositifs (plafonds, règles d'éligibilité, etc.).
