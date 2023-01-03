@@ -1,0 +1,9 @@
+# Réponse à la question n° 2581
+
+- Question : [2581](2581.md) — Question n° 2581 — Situation des cinq Français détenus arbitrairement en Iran
+
+## Réponse
+
+*JO du 2023-01-03, page 91*
+
+Sept ressortissants français sont désormais détenus arbitrairement en Iran. Deux nouveaux cas ont en effet été confirmés récemment ; nous ne donnons pas leurs noms pour des raisons de confidentialité. Cette situation est inacceptable. Le Président de la République a dénoncé ces prises d'otage inadmissibles, et appelé Téhéran à revenir à l'esprit de coopération et à respecter les ressortissants français. Nous réitérons aux autorités iraniennes la demande de leur libération immédiate et l'accès à la protection consulaire pour chacun d'entre eux, conformément aux obligations internationales auxquelles a souscrit l'Iran au titre de la Convention de Vienne du 24 avril 1963. Avec la Première ministre, la ministre a rencontré des membres de la famille Kohler, le 22 novembre 2022 à l'occasion d'un déplacement à Strasbourg. L'ambassadeur de France en Iran a été en mesure de s'entretenir, très brièvement, avec nos deux compatriotes Cécile Kohler et Jacques Paris le 23 novembre 2022. Cette première visite consulaire a été obtenue après plus de 6 mois de détention arbitraire, un délai inacceptable au regard de la Convention de Vienne. La France continue d'exiger, pour tous ses compatriotes détenus, un accès consulaire régulier, des informations sur leurs conditions de détention, ainsi que la possibilité pour eux de communiquer avec leurs familles en France. Nous tenons les autorités iraniennes responsables du sort et du traitement de l'ensemble des ressortissants français détenus arbitrairement en Iran. La mobilisation des autorités françaises pour obtenir leur libération et soutenir leurs familles et leurs proches reste totale. La politique d'otages d'État menée par l'Iran ne détourne pas l'attention internationale des aspirations légitimes du peuple iranien.
