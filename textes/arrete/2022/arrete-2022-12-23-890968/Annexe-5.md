@@ -1,0 +1,1111 @@
+# Article Annexe 5
+
+Prestations dérogatoires financées pour les établissements " ex-OQN " employeurs de personnels réquisitionnés
+
+Région |
+
+N° caisse relai |
+
+N° caisse pivot |
+
+Finess
+
+géographique
+
+établissement |
+
+Finess
+
+juridique
+
+établissement |
+
+Raison sociale |
+
+Vecteur de
+
+financement
+
+mobilisé |
+
+Période
+
+de
+
+référence |
+
+Renfort
+
+pour mobiliser
+
+des professionnels
+
+de santé
+
+pour venir en soutien aux équipes locales aux Antilles |
+
+Montant
+
+des versements |
+
+Auvergne-Rhône-Alpes |
+
+00072 |
+
+33 672 010 700 018 |
+
+070780424 |
+
+070000245 |
+
+HOPITAL PRIVE DROME ARDECHE |
+
+AC MCO |
+
+2021 |
+
+35 487,00 |
+
+Auvergne-Rhône-Alpes |
+
+00731 |
+
+54 582 007 800 024 |
+
+730007978 |
+
+730011731 |
+
+SAS CLINIQUE LE SERMAY |
+
+Autres produits d'assurance maladie |
+
+2021 |
+
+5 153,44 |
+
+Auvergne-Rhône-Alpes |
+
+00741 |
+
+30 116 075 001 154 |
+
+740014519 |
+
+920030269 |
+
+PIERRE DE SOLEIL |
+
+AC SSR |
+
+2021 |
+
+13 984,76 |
+
+Auvergne-Rhône-Alpes |
+
+00741 |
+
+32 582 111 400 015 |
+
+740780986 |
+
+740000195 |
+
+CHÂTEAU DE BON ATTRAIT |
+
+AC SSR |
+
+2021 |
+
+2 621,52 |
+
+Auvergne-Rhône-Alpes |
+
+01422 |
+
+77 200 000 000 000 |
+
+010780195 |
+
+010780195 |
+
+CLINIQUE CONVERT |
+
+AC MCO |
+
+2021 |
+
+3 964,56 |
+
+Auvergne-Rhône-Alpes |
+
+01422 |
+
+37 800 000 000 000 |
+
+420782310 |
+
+420000853 |
+
+CLINIQUE DU RENAISON |
+
+AC MCO |
+
+2021 |
+
+7 107,77 |
+
+Auvergne-Rhône-Alpes |
+
+01422 |
+
+70 450 100 600 057 |
+
+420011413 |
+
+420011405 |
+
+HOPITAL PRIVE DE LA LOIRE |
+
+AC MCO |
+
+2021 |
+
+21 109,38 |
+
+Auvergne-Rhône-Alpes |
+
+01422 |
+
+39 970 678 700 013 |
+
+420783102 |
+
+420000929 |
+
+CENTRE LA MUSADIERE |
+
+Autres produits d'assurance maladie |
+
+2021 |
+
+3 871,67 |
+
+Bourgogne-Franche-Compté |
+
+00211 |
+
+77 567 227 202 377 |
+
+710002288 |
+
+750721334 |
+
+SSR MARGUERITE BOUCICAUT |
+
+AC SSR |
+
+2021 |
+
+2 978,77 |
+
+Bretagne |
+
+00291 |
+
+63 582 045 900 041 |
+
+290000140 |
+
+290000447 |
+
+CLINIQUE PATSEUR-LANROZE |
+
+AC MCO |
+
+2021 |
+
+5 183,08 |
+
+Bretagne |
+
+00291 |
+
+30 116 075 000 271 |
+
+290003953 |
+
+920030269 |
+
+CRF TRÉBOUL DOUARNENEZ |
+
+AC SSR |
+
+2021 |
+
+7 382,02 |
+
+Bretagne |
+
+00351 |
+
+|
+
+350000196 |
+
+350000311 |
+
+CLINIQUE DE LA CÔTE D'EMERAUDE |
+
+AC MCO |
+
+2021 |
+
+7 401,69 |
+
+Bretagne |
+
+00561 |
+
+48 858 000 000 000 |
+
+560018509 |
+
+560018459 |
+
+HAD DE L'AVEN A ETEL |
+
+AC MCO |
+
+2021 |
+
+22 903,90 |
+
+Bretagne |
+
+01561 |
+
+45 054 793 000 013 |
+
+560008799 |
+
+560013989 |
+
+HÔPITAL PRIVÉ OCÉANE |
+
+AC MCO |
+
+2021 |
+
+3 196,80 |
+
+Bretagne |
+
+01561 |
+
+53 862 992 400 027 |
+
+560007510 |
+
+560001307 |
+
+POLYCLINIQUE DE KÉRIO |
+
+AC MCO |
+
+2021 |
+
+3 921,23 |
+
+Centre-Val de Loire |
+
+00181 |
+
+37 778 838 500 021 |
+
+180000358 |
+
+180000739 |
+
+CLINIQUE DES GRAINETIERES |
+
+AC MCO |
+
+2021 |
+
+10 516,98 |
+
+Centre-Val de Loire |
+
+00281 |
+
+47 763 730 000 013 |
+
+280505777 |
+
+280001199 |
+
+HOPITAL PRIVE D'EURE ET LOIR |
+
+AC MCO |
+
+2021 |
+
+4 920,35 |
+
+Centre-Val de Loire |
+
+00361 |
+
+81 672 000 000 000 |
+
+360000129 |
+
+360000269 |
+
+CLINIQUE SAINT FRANCOIS |
+
+AC MCO |
+
+2021 |
+
+3 037,65 |
+
+Centre-Val de Loire |
+
+00451 |
+
+39 054 135 700 021 |
+
+450012968 |
+
+450001474 |
+
+CLINIQUE DE MONTARGIS |
+
+AC MCO |
+
+2021 |
+
+5 127,76 |
+
+Grand Est |
+
+00673 |
+
+81 791 571 300 025 |
+
+670018068 |
+
+670017847 |
+
+CLINIQUE RHENA GCS |
+
+AC MCO |
+
+2021 |
+
+5 665,16 |
+
+Grand Est |
+
+01511 |
+
+|
+
+100011477 |
+
+100010347 |
+
+GCS CRF PASTEUR 2 |
+
+AC SSR |
+
+2021 |
+
+4 759,98 |
+
+Grand Est |
+
+01511 |
+
+|
+
+100000124 |
+
+100009075 |
+
+CLINIQUE DE MONTIER LA CELLE |
+
+AC MCO |
+
+2021 |
+
+6 116,83 |
+
+Hauts-de-France |
+
+00599 |
+
+32 262 352 100 018 |
+
+590000675 |
+
+590782298 |
+
+POLYCLINIQUE DU PARC DE SAINT SAULVE |
+
+AC MCO |
+
+2021 |
+
+3 573,76 |
+
+Hauts-de-France |
+
+00624 |
+
+36 820 046 500 020 |
+
+620100750 |
+
+620000273 |
+
+CLINIQUE AMBROISE PARÉ |
+
+AC MCO |
+
+2021 |
+
+3 140,16 |
+
+Hauts-de-France |
+
+00801 |
+
+|
+
+800015729 |
+
+800015729 |
+
+SAS CARDIOLOGIE ET URGENCES |
+
+AC MCO |
+
+2021 |
+
+4 048,08 |
+
+Hauts-de-France |
+
+00801 |
+
+|
+
+020010047 |
+
+020010047 |
+
+HOPITAL PRIVE ST CLAUDE |
+
+AC MCO |
+
+2021 |
+
+11 652,12 |
+
+Hauts-de-France |
+
+00801 |
+
+|
+
+600110175 |
+
+600110175 |
+
+CLINIQUE PARC ST LAZARE BEAUVAIS |
+
+AC MCO |
+
+2021 |
+
+15 417,45 |
+
+Hauts-de-France |
+
+00801 |
+
+|
+
+800002503 |
+
+800002503 |
+
+CLINIQUE ST ISABELLE |
+
+AC MCO |
+
+2021 |
+
+4 419,79 |
+
+Hauts-de-France |
+
+01599 |
+
+41 490 897 000 026 |
+
+590008041 |
+
+590008033 |
+
+POLYCLINIQUE VAUBAN |
+
+AC MCO |
+
+2021 |
+
+9 120,00 |
+
+Hauts-de-France |
+
+01599 |
+
+32 262 352 100 018 |
+
+590782298 |
+
+590000675 |
+
+POLYCLINIQUE DU PARC DE SAINT SAULVE |
+
+AC MCO |
+
+2021 |
+
+3 576,73 |
+
+Ile-de-France |
+
+00911 |
+
+32 620 619 000 018 |
+
+910300151 |
+
+910300151 |
+
+CENTRE DE REEDUCATION KORIAN L'OBSERVATOIRE |
+
+AC SSR |
+
+2021 |
+
+3 373,30 |
+
+Ile-de-France |
+
+01931 |
+
+32 780 710 300 012 |
+
+930300645 |
+
+930300645 |
+
+CENTRE CARDIOLOGIQUE DU NORD |
+
+AC MCO |
+
+2021 |
+
+2 060,66 |
+
+Martinique |
+
+01972 |
+
+31 094 157 000 015 |
+
+970202313 |
+
+970200168 |
+
+CLINIQUE SAINT-PAUL |
+
+AC MCO |
+
+2021 |
+
+41 061,00 |
+
+Normandie |
+
+00141 |
+
+39 393 231 400 031 |
+
+500002357 |
+
+500002233 |
+
+POLYCLINIQUE COTENTIN |
+
+AC MCO |
+
+2021 |
+
+6 381,27 |
+
+Normandie |
+
+00141 |
+
+94 658 004 000 016 |
+
+140000290 |
+
+140000449 |
+
+CLINIQUE NOTRE DAME VIRE |
+
+AC MCO |
+
+2021 |
+
+3 136,81 |
+
+Normandie |
+
+00763 |
+
+|
+
+760021329 |
+
+760021329 |
+
+HOPITAL PRIVE DE L'ESTUAIRE |
+
+AC MCO |
+
+2021 |
+
+663,84 |
+
+Normandie |
+
+00763 |
+
+|
+
+760034637 |
+
+760034637 |
+
+SSR PETIT COLMOULINS |
+
+AC SSR |
+
+2021 |
+
+2 690,14 |
+
+Normandie |
+
+00764 |
+
+|
+
+760027292 |
+
+760027292 |
+
+CLINIQUE MEGIVAL |
+
+AC MCO |
+
+2021 |
+
+4 068,93 |
+
+Nouvelle Aquitaine |
+
+00331 |
+
+|
+
+330782582 |
+
+330000928 |
+
+POLYCLINIQUE JEAN VILLAR |
+
+AC MCO |
+
+2021 |
+
+7 095,74 |
+
+Nouvelle Aquitaine |
+
+00331 |
+
+|
+
+330781402 |
+
+330000670 |
+
+NOUVELLE CLINIQUE BORDEAUX TONDU |
+
+AC MCO |
+
+2021 |
+
+9 874,86 |
+
+Nouvelle Aquitaine |
+
+00331 |
+
+|
+
+330780354 |
+
+330000225 |
+
+POLYCLINIQUE BORDEAUX-CAUDERAN |
+
+AC MCO |
+
+2021 |
+
+8 004,78 |
+
+Nouvelle Aquitaine |
+
+00331 |
+
+|
+
+330780206 |
+
+330000126 |
+
+CLINIQUE ARCACHON |
+
+AC MCO |
+
+2021 |
+
+5 452,99 |
+
+Pays-de-la-Loire |
+
+44070 |
+
+53 406 257 500 020 |
+
+440033819 |
+
+440006344 |
+
+SANTE ATLANTIQUE |
+
+AC MCO |
+
+2021 |
+
+8 055,58 |
+
+Pays-de-la-Loire |
+
+44070 |
+
+41 430 447 700 055 |
+
+440041580 |
+
+440041572 |
+
+HOPITAL PRIVE CONFLUENT |
+
+AC MCO |
+
+2021 |
+
+23 579,38 |
+
+Pays-de-la-Loire |
+
+44070 |
+
+86 680 067 500 021 |
+
+440000412 |
+
+440000412 |
+
+CLINIQUE BRÉTÉCHÉ VIAUD |
+
+AC MCO |
+
+2021 |
+
+28 459,01 |
+
+Pays-de-la-Loire |
+
+44070 |
+
+82 303 628 000 019 |
+
+440002020 |
+
+440001386 |
+
+POLYCLINIQUE DE L'EUROPE |
+
+AC MCO |
+
+2021 |
+
+4 489,60 |
+
+Auvergne-Rhône-Alpes |
+
+00691 |
+
+77 972 575 300 015 |
+
+690780663 |
+
+690000385 |
+
+CLINIQUE TRENEL |
+
+AC MCO |
+
+2022 |
+
+4 080,93 |
+
+Auvergne-Rhône-Alpes |
+
+00691 |
+
+50 967 400 800 024 |
+
+690780648 |
+
+690036900 |
+
+CLINIQUE DE LA SAUVEGARDE |
+
+AC MCO |
+
+2022 |
+
+2 676,32 |
+
+Auvergne-Rhône-Alpes |
+
+00691 |
+
+75 405 149 800 022 |
+
+690780226 |
+
+690039870 |
+
+CLINIQUE DE LA PART DIEU |
+
+AC MCO |
+
+2022 |
+
+6 319,00 |
+
+Auvergne-Rhône-Alpes |
+
+00691 |
+
+97 250 050 800 031 |
+
+690025366 |
+
+690025366 |
+
+CLINIQUE IRIS LYON 8EM |
+
+AC SSR |
+
+2022 |
+
+3 463,08 |
+
+Auvergne-Rhône-Alpes |
+
+00691 |
+
+97 250 050 800 023 |
+
+690803044 |
+
+690803044 |
+
+CLINIQUE IRIS MARCY L'ETOILE |
+
+AC SSR |
+
+2022 |
+
+6 392,85 |
+
+Auvergne-Rhône-Alpes |
+
+00691 |
+
+30 511 102 300 019 |
+
+690807367 |
+
+690003447 |
+
+POLYCLINIQUE DU BEAUJOLAIS |
+
+AC MCO |
+
+2022 |
+
+4 292,74 |
+
+Centre-Val de Loire |
+
+00371 |
+
+81 002 306 900 026 |
+
+370000093 |
+
+370013468 |
+
+NCT+ ST GATIEN ALLIANCE |
+
+AC MCO |
+
+2022 |
+
+13 725,29 |
+
+Centre-Val de Loire |
+
+00371 |
+
+48 006 490 600 021 |
+
+370007569 |
+
+370007528 |
+
+POLE SANTE LEONARD DE VINCI |
+
+AC MCO |
+
+2022 |
+
+9 067,35 |
+
+Centre-Val de Loire |
+
+00451 |
+
+3 905 413 700 021 |
+
+450012968 |
+
+450001474 |
+
+CLINIQUE DE MONTARGIS |
+
+AC MCO |
+
+2022 |
+
+5 127,76 |
+
+Hauts-de-France |
+
+00624 |
+
+57 708 008 800 021 |
+
+620006049 |
+
+620000331 |
+
+CLINIQUE CHIRURGICALE DE SAINT OMER |
+
+AC MCO |
+
+2022 |
+
+3 999,72 |
+
+Nouvelle Aquitaine |
+
+00642 |
+
+|
+
+|
+
+640780938 |
+
+POLYCLINIQUE MARZET |
+
+AC MCO |
+
+2022 |
+
+3 423,97 |
+
+Nouvelle Aquitaine |
+
+00642 |
+
+|
+
+640780946 |
+
+640000469 |
+
+POLYCLINIQUE NAVARRE |
+
+AC MCO |
+
+2022 |
+
+11 808,91 |
+
+Nouvelle Aquitaine |
+
+00643 |
+
+|
+
+|
+
+640780672 |
+
+CLINIQUE DE MÉDECINE PHYSIQUE MARIENIA |
+
+AC MCO |
+
+2022 |
+
+9 287,71 |

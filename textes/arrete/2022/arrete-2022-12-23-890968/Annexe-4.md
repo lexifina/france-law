@@ -1,0 +1,2335 @@
+# Article Annexe 4
+
+Prestations dérogatoires financées pour les établissements " ex-DG " employeurs de personnels réquisitionnés
+
+Région |
+
+N° caisse relai |
+
+N° caisse pivot |
+
+Finess
+
+géographique
+
+établissement |
+
+Finess
+
+juridique
+
+établissement |
+
+Raison sociale |
+
+Vecteur de
+
+financement
+
+mobilisé |
+
+Période
+
+de
+
+référence |
+
+Renfort
+
+pour mobiliser
+
+des professionnels
+
+de santé
+
+pour venir en soutien aux équipes locales aux Antilles |
+
+Montant
+
+des versements |
+
+Auvergne-Rhône-Alpes |
+
+72 |
+
+72 |
+
+070000609 |
+
+070005566 |
+
+CH ARDECHE MERIDIONALE |
+
+AC MCO |
+
+2021 |
+
+6 728,96 |
+
+Auvergne-Rhône-Alpes |
+
+261 |
+
+261 |
+
+260000013 |
+
+260000021 |
+
+CENTRE HOSPITALIER DE VALENCE |
+
+AC MCO |
+
+2021 |
+
+38 249,27 |
+
+Auvergne-Rhône-Alpes |
+
+261 |
+
+261 |
+
+260000138 |
+
+260000047 |
+
+GROUPEMENT HOSPITALIER PORTES DE PROVENCE |
+
+AC MCO |
+
+2021 |
+
+37 252,15 |
+
+Auvergne-Rhône-Alpes |
+
+261 |
+
+261 |
+
+260016910 |
+
+260000120 |
+
+HÔPITAUX DRÔME-NORD |
+
+AC MCO |
+
+2021 |
+
+24 681,10 |
+
+Auvergne-Rhône-Alpes |
+
+381 |
+
+381 |
+
+380780049 |
+
+380780049 |
+
+CH PIERRE OUDOT |
+
+AC MCO |
+
+2021 |
+
+9 752,87 |
+
+Auvergne-Rhône-Alpes |
+
+381 |
+
+381 |
+
+380000059 |
+
+380780072 |
+
+CH RIVES |
+
+AC MCO |
+
+2021 |
+
+7 061,87 |
+
+Auvergne-Rhône-Alpes |
+
+422 |
+
+422 |
+
+420000234 |
+
+420780652 |
+
+CH LE CORBUSIER |
+
+AC MCO |
+
+2021 |
+
+8 248,13 |
+
+Auvergne-Rhône-Alpes |
+
+631 |
+
+631 |
+
+630000438 |
+
+630781011 |
+
+CH GUY THOMAS RIOM |
+
+AC MCO |
+
+2021 |
+
+3 299,45 |
+
+Auvergne-Rhône-Alpes |
+
+1070 |
+
+1070 |
+
+010008407 |
+
+010008407 |
+
+CH DU HAUT-BUGEY |
+
+AC MCO |
+
+2021 |
+
+11 037,29 |
+
+Auvergne-Rhône-Alpes |
+
+1422 |
+
+1422 |
+
+420002495 |
+
+420002495 |
+
+HOPITAL DU GIER |
+
+AC MCO |
+
+2021 |
+
+11 398,51 |
+
+Auvergne-Rhône-Alpes |
+
+1422 |
+
+1422 |
+
+420013492 |
+
+420013492 |
+
+GCS-ES INSTITUT CANCEROLOGIE LUCIEN NEUWIRTH |
+
+AC MCO |
+
+2021 |
+
+3 264,95 |
+
+Auvergne-Rhône-Alpes |
+
+1422 |
+
+1422 |
+
+420013831 |
+
+420013831 |
+
+CH DU FOREZ (FEURS/MONTBRISON) |
+
+AC MCO |
+
+2021 |
+
+24 343,75 |
+
+Auvergne-Rhône-Alpes |
+
+1422 |
+
+1422 |
+
+420784878 |
+
+420784878 |
+
+CHU SAINT-ETIENNE |
+
+AC MCO |
+
+2021 |
+
+36 051,25 |
+
+Auvergne-Rhône-Alpes |
+
+1631 |
+
+MSA |
+
+630781755 |
+
+630781755 |
+
+CM INFANTIL DE ROMAGNAT |
+
+AC SSR |
+
+2021 |
+
+3 299,45 |
+
+Auvergne-Rhône-Alpes |
+
+1631 |
+
+MSA |
+
+630781003 |
+
+630781003 |
+
+CH ISSOIRE (PAUL ARDIER) |
+
+AC MCO |
+
+2021 |
+
+111 719,34 |
+
+Auvergne-Rhône-Alpes |
+
+1741 |
+
+1741 |
+
+740000237 |
+
+740781133 |
+
+CH ANNECY GENEVOIS |
+
+AC MCO |
+
+2021 |
+
+86 566,99 |
+
+Auvergne-Rhône-Alpes |
+
+1741 |
+
+1741 |
+
+740780192 |
+
+740780168 |
+
+FONDATION ALIA |
+
+AC MCO |
+
+2021 |
+
+12 584,13 |
+
+Auvergne-Rhône-Alpes |
+
+1741 |
+
+1741 |
+
+740781224 |
+
+740001839 |
+
+HOPITAUX DU MT-BLANC |
+
+AC MCO |
+
+2021 |
+
+6 015,10 |
+
+Auvergne-Rhône-Alpes |
+
+1741 |
+
+1741 |
+
+740000328 |
+
+740790381 |
+
+HOPITAUX DU LEMAN |
+
+AC MCO |
+
+2021 |
+
+14 895,00 |
+
+Auvergne-Rhône-Alpes |
+
+3070 |
+
+3070 |
+
+|
+
+030780118 |
+
+CH VICHY |
+
+AC MCO |
+
+2021 |
+
+8 710,33 |
+
+Auvergne-Rhône-Alpes |
+
+69070 |
+
+69070 |
+
+690029194 |
+
+690781810 |
+
+HCL |
+
+AC MCO |
+
+2021 |
+
+587 957,09 |
+
+Auvergne-Rhône-Alpes |
+
+69070 |
+
+69070 |
+
+690780143 |
+
+690796727 |
+
+CH ST JEAN DE DIEU |
+
+DAF psychiatrie |
+
+2021 |
+
+8 707,43 |
+
+Bourgogne-Franche-Comté |
+
+581 |
+
+581 |
+
+580972693 |
+
+580780039 |
+
+HOPITAL PIERRE BEREGOVOY |
+
+AC MCO |
+
+2021 |
+
+4 288,72 |
+
+Bourgogne-Franche-Comté |
+
+891 |
+
+891 |
+
+890000037 |
+
+890000037 |
+
+CH AUXERRE |
+
+AC MCO |
+
+2021 |
+
+4 524,68 |
+
+Bretagne |
+
+221 |
+
+1221 |
+
+220000368 |
+
+220000103 |
+
+CH LANNION |
+
+AC MCO |
+
+2021 |
+
+3 124,19 |
+
+Bretagne |
+
+221 |
+
+1221 |
+
+220000020 |
+
+220000012 |
+
+CH SAINT BRIEUC |
+
+AC MCO |
+
+2021 |
+
+16 380,06 |
+
+Bretagne |
+
+221 |
+
+MSA |
+
+220000095 |
+
+220000046 |
+
+CH DINAN |
+
+AC MCO |
+
+2021 |
+
+18 530,48 |
+
+Bretagne |
+
+1561 |
+
+1561 |
+
+560023210 |
+
+560023210 |
+
+CHBA |
+
+AC MCO |
+
+2021 |
+
+8 040,38 |
+
+Bretagne |
+
+1561 |
+
+1561 |
+
+560014748 |
+
+560014748 |
+
+CHCB |
+
+AC MCO |
+
+2021 |
+
+35 803,48 |
+
+Bretagne |
+
+35070 |
+
+351 |
+
+350002200 |
+
+350029948 |
+
+CLINIQUE ST YVES |
+
+AC MCO |
+
+2021 |
+
+11 784,00 |
+
+Centre-Val de Loire |
+
+451 |
+
+451 |
+
+450000088 |
+
+450000088 |
+
+CHR ORLEANS |
+
+AC MCO |
+
+2021 |
+
+20 360,26 |
+
+Centre-Val de Loire |
+
+181 |
+
+181 |
+
+180000028 |
+
+180000028 |
+
+CENTRE HOSPITALIER "JACQUES CŒUR" À BOURGES |
+
+AC MCO |
+
+2021 |
+
+15 146,19 |
+
+Centre-Val de Loire |
+
+181 |
+
+281 |
+
+180000069 |
+
+180000069 |
+
+CENTRE HOSPITALIER DE ST AMAND |
+
+AC MCO |
+
+2021 |
+
+3 771,04 |
+
+Centre-Val de Loire |
+
+281 |
+
+281 |
+
+280000134 |
+
+280000134 |
+
+CH CHARTRES |
+
+AC MCO |
+
+2021 |
+
+65 889,57 |
+
+Centre-Val de Loire |
+
+281 |
+
+281 |
+
+280000589 |
+
+280000589 |
+
+CH DE NOGENT LE ROTROU |
+
+AC MCO |
+
+2021 |
+
+2 690,80 |
+
+Centre-Val de Loire |
+
+371 |
+
+371 |
+
+370000374 |
+
+750721334 |
+
+CRF BEL AIR |
+
+AC MCO |
+
+2021 |
+
+5 573,71 |
+
+Centre-Val de Loire |
+
+371 |
+
+MSA |
+
+370000564 |
+
+370000564 |
+
+CH AMBOISE |
+
+AC MCO |
+
+2021 |
+
+2 101,54 |
+
+Centre-Val de Loire |
+
+1361 |
+
+1361 |
+
+360000053 |
+
+360000053 |
+
+CENTRE HOSPITALIER DE CHÂTEAUROUX- LE BLANC |
+
+AC MCO |
+
+2021 |
+
+4 885,83 |
+
+Grand Est |
+
+81 |
+
+81 |
+
+080011174 |
+
+|
+
+CHI NORD ARDENNES |
+
+AC MCO |
+
+2021 |
+
+32 115,45 |
+
+Grand Est |
+
+81 |
+
+81 |
+
+080000086 |
+
+|
+
+CHS BELAIR |
+
+DAF psychiatrie |
+
+2021 |
+
+79 417,98 |
+
+Grand Est |
+
+571 |
+
+571 |
+
+570026252 |
+
+570023630 |
+
+UNEOS |
+
+AC MCO |
+
+2021 |
+
+8 809,23 |
+
+Grand Est |
+
+571 |
+
+571 |
+
+570000885 |
+
+570000133 |
+
+CH LORQUIN |
+
+DAF psychiatrie |
+
+2021 |
+
+3 120,00 |
+
+Grand Est |
+
+571 |
+
+571 |
+
+570005165 |
+
+570005165 |
+
+CHR METZ THIONVILLE |
+
+AC MCO |
+
+2021 |
+
+54 691,17 |
+
+Grand Est |
+
+673 |
+
+673 |
+
+670000025 |
+
+670780055 |
+
+HÔPITAUX UNIVERSITAIRES DE STRASBOURG |
+
+AC MCO |
+
+2021 |
+
+108 913,87 |
+
+Grand Est |
+
+673 |
+
+682 |
+
+670000165 |
+
+670780345 |
+
+CENTRE HOSPITALIER DE SAVERNE |
+
+AC MCO |
+
+2021 |
+
+2 766,52 |
+
+Grand Est |
+
+682 |
+
+682 |
+
+680001195 |
+
+680016011 |
+
+HOPITAL ALBERT SCHWEITZER |
+
+AC MCO |
+
+2021 |
+
+4 408,23 |
+
+Grand Est |
+
+682 |
+
+682 |
+
+680020336 |
+
+680020336 |
+
+GROUPE HOSP REGION MULHOUSE |
+
+AC MCO |
+
+2021 |
+
+39 091,15 |
+
+Grand Est |
+
+682 |
+
+682 |
+
+680000874 |
+
+680001179 |
+
+CHS ROUFFACH |
+
+AC MCO |
+
+2021 |
+
+10 681,23 |
+
+Grand Est |
+
+1511 |
+
+1511 |
+
+510002447 |
+
+510000029 |
+
+CHRU REIMS |
+
+AC MCO |
+
+2021 |
+
+110 749,17 |
+
+Grand Est |
+
+1511 |
+
+1511 |
+
+510000169 |
+
+510000037 |
+
+CHG CHALONS |
+
+AC MCO |
+
+2021 |
+
+7 272,01 |
+
+Grand Est |
+
+1521 |
+
+MSA |
+
+520780057 |
+
+520780057 |
+
+CENTRE HOSPITALIER DE LANGRES |
+
+AC MCO |
+
+2021 |
+
+3 453,17 |
+
+Grand Est |
+
+1521 |
+
+1521 |
+
+520780073 |
+
+520780073 |
+
+CH DE SAINT DIZIER |
+
+AC MCO |
+
+2021 |
+
+3 096,92 |
+
+Hauts-de-France |
+
+21 |
+
+21 |
+
+020000063 |
+
+020000063 |
+
+CH DE ST QUENTIN |
+
+AC MCO |
+
+2021 |
+
+42 437,71 |
+
+Hauts-de-France |
+
+21 |
+
+21 |
+
+020000022 |
+
+020000022 |
+
+CH DE GUISE |
+
+AC MCO |
+
+2021 |
+
+16 903,67 |
+
+Hauts-de-France |
+
+21 |
+
+21 |
+
+020009684 |
+
+020009684 |
+
+USLD BOHAIN |
+
+Dotation USLD |
+
+2021 |
+
+15 892,65 |
+
+Hauts-de-France |
+
+21 |
+
+MSA |
+
+020000287 |
+
+020000287 |
+
+CH CHAUNY |
+
+AC MCO |
+
+2021 |
+
+18 514,87 |
+
+Hauts-de-France |
+
+599 |
+
+599 |
+
+590000436 |
+
+590781621 |
+
+CH LE CATEAU CAMBRESIS |
+
+AC MCO |
+
+2021 |
+
+13 730,99 |
+
+Hauts-de-France |
+
+801 |
+
+801 |
+
+800000119 |
+
+800000119 |
+
+EPSM DE LA SOMME |
+
+DAF psychiatrie |
+
+2021 |
+
+28 294,81 |
+
+Hauts-de-France |
+
+1594 |
+
+1594 |
+
+590781415 |
+
+590781415 |
+
+CH DUNKERQUE |
+
+AC MCO |
+
+2021 |
+
+27 092,40 |
+
+Hauts-de-France |
+
+01594 |
+
+01594 |
+
+590001749 |
+
+590788956 |
+
+POLYCLINIQUE DE GRANDE SYNTHE |
+
+AC MCO |
+
+2021 |
+
+5 447,60 |
+
+Hauts-de-France |
+
+1597 |
+
+1597 |
+
+590801106 |
+
+590782421 |
+
+CH ROUBAIX |
+
+AC MCO |
+
+2021 |
+
+44 530,71 |
+
+Hauts-de-France |
+
+1599 |
+
+1599 |
+
+590782215 |
+
+590782215 |
+
+CH VALENCIENNES |
+
+AC MCO |
+
+2021 |
+
+12 991,05 |
+
+Hauts-de-France |
+
+1599 |
+
+1599 |
+
+590781621 |
+
+590000436 |
+
+HOPITAL LE CATEAU CAMBRESIS |
+
+AC MCO |
+
+2021 |
+
+13 730,99 |
+
+Hauts-de-France |
+
+1601 |
+
+1601 |
+
+600000194 |
+
+600100713 |
+
+HOP BEAUVAIS |
+
+AC MCO |
+
+2021 |
+
+127 997,63 |
+
+Ile-de-France |
+
+781 |
+
+781 |
+
+780000337 |
+
+780001236 |
+
+CHIC POISSY SAINT GERMAIN (CHIC PSG) |
+
+AC MCO |
+
+2021 |
+
+24 182,00 |
+
+Ile-de-France |
+
+911 |
+
+911 |
+
+910000298 |
+
+910110055 |
+
+CENTRE HOSPITALIER NORD ESSONNE |
+
+AC MCO |
+
+2021 |
+
+6 797,88 |
+
+Ile-de-France |
+
+951 |
+
+951 |
+
+950000323 |
+
+950013870 |
+
+GHEM |
+
+AC MCO |
+
+2021 |
+
+2 576,15 |
+
+Ile-de-France |
+
+01-751 |
+
+01-751 |
+
+750150237-750150260 |
+
+750006728 |
+
+GRPE HOSP DIACONESSES-CROIX ST-SIMON |
+
+AC MCO |
+
+2021 |
+
+9 879,47 |
+
+Ile-de-France |
+
+01-751 |
+
+01-751 |
+
+750712184 |
+
+750712184 |
+
+ASSISTANCE PUBLIQUE-HOPITAUX DE PARIS |
+
+AC MCO |
+
+2021 |
+
+113 021,52 |
+
+Ile-de-France |
+
+01-751 |
+
+01-751 |
+
+750150286 |
+
+570010181 |
+
+HÔPITAL JEAN JAURÈS |
+
+AC MCO |
+
+2021 |
+
+3 200,00 |
+
+Normandie |
+
+141 |
+
+141 |
+
+140024886 |
+
+140000092 |
+
+CH AUNAY-BAYEUX |
+
+AC MCO |
+
+2021 |
+
+22 148,46 |
+
+Normandie |
+
+141 |
+
+141 |
+
+610787285 |
+
+140017278 |
+
+IMPR LEBISEY |
+
+AC SSR |
+
+2021 |
+
+2 039,31 |
+
+Normandie |
+
+1271 |
+
+1271 |
+
+270000425 |
+
+270000102 |
+
+CH DE LA RISLE PONT-AUDEMER |
+
+AC MCO |
+
+2021 |
+
+5 870,92 |
+
+Normandie |
+
+76070 |
+
+76070 |
+
+760000166 |
+
+760780247 |
+
+CRLCC HENRI BECQUEREL |
+
+AC MCO |
+
+2021 |
+
+2 661,32 |
+
+Normandie |
+
+76070 |
+
+76070 |
+
+760000463 |
+
+760024042 |
+
+CHI ELBEUF LOUVIERS |
+
+AC MCO |
+
+2021 |
+
+43 250,25 |
+
+Normandie |
+
+76070 |
+
+76070 |
+
+760000158 |
+
+760780239 |
+
+CHU ROUEN |
+
+AC MCO |
+
+2021 |
+
+122 851,00 |
+
+Normandie |
+
+76070 |
+
+76070 |
+
+760000182 |
+
+760780262 |
+
+CH BELVEDERE |
+
+AC MCO |
+
+2021 |
+
+16 764,76 |
+
+Nouvelle-Aquitaine |
+
+231 |
+
+871 |
+
+230780066 |
+
+230780066 |
+
+CH BERNARD DESPLAS BOURGANEUF |
+
+AC MCO |
+
+2021 |
+
+4 320,00 |
+
+Nouvelle-Aquitaine |
+
+231 |
+
+871 |
+
+230780512 |
+
+230780512 |
+
+CENTRE HOSPITALIER MLS EVAUX |
+
+AC SSR |
+
+2021 |
+
+2 573,17 |
+
+Nouvelle-Aquitaine |
+
+641 |
+
+641 |
+
+640780557 |
+
+640000238 |
+
+CENTRE MEDICAL TOKI EDER |
+
+AC MCO |
+
+2021 |
+
+7 336,21 |
+
+Nouvelle-Aquitaine |
+
+1171 |
+
+1171 |
+
+170000152 |
+
+170780225 |
+
+CENTRE HOSPITALIER ROCHEFORT |
+
+AC MCO |
+
+2021 |
+
+9 253,28 |
+
+Nouvelle-Aquitaine |
+
+1171 |
+
+1171 |
+
+170000038 |
+
+170780050 |
+
+CENTRE HOSPITALIER JONZAC |
+
+AC MCO |
+
+2021 |
+
+9 055,35 |
+
+Nouvelle-Aquitaine |
+
+1191 |
+
+1191 |
+
+|
+
+190000042 |
+
+CENTRE HOSPITALIER BRIVE |
+
+AC MCO |
+
+2021 |
+
+7 619,30 |
+
+Nouvelle-Aquitaine |
+
+1331 |
+
+1331 |
+
+330000332 |
+
+330780545 |
+
+HÔPITAL SUBURBAIN DU BOUSCAT |
+
+AC MCO |
+
+2021 |
+
+15 858,48 |
+
+Nouvelle-Aquitaine |
+
+1331 |
+
+1331 |
+
+330781139 |
+
+330056540 |
+
+TOUR DE GASSIES |
+
+AC MCO |
+
+2021 |
+
+22 859,25 |
+
+Nouvelle-Aquitaine |
+
+1331 |
+
+1331 |
+
+|
+
+330781196 |
+
+CHU BORDEAUX |
+
+AC MCO |
+
+2021 |
+
+147 025,56 |
+
+Nouvelle-Aquitaine |
+
+1331 |
+
+1331 |
+
+|
+
+330000647 |
+
+CH CADILLAC |
+
+DAF psychiatrie |
+
+2021 |
+
+15 691,68 |
+
+Nouvelle-Aquitaine |
+
+1331 |
+
+MSA |
+
+|
+
+330000605 |
+
+CH LIBOURNE |
+
+AC MCO |
+
+2021 |
+
+4 960,00 |
+
+Nouvelle-Aquitaine |
+
+1401 |
+
+1401 |
+
+400015236 |
+
+400015236 |
+
+GCS DU MARSAN |
+
+AC MCO |
+
+2021 |
+
+6 282,19 |
+
+Nouvelle-Aquitaine |
+
+1471 |
+
+MSA |
+
+|
+
+470000324 |
+
+CENTRE HOSPITALIER DE VILLENEUVE |
+
+AC MCO |
+
+2021 |
+
+3 305,21 |
+
+Nouvelle-Aquitaine |
+
+1642 |
+
+1642 |
+
+640000600 |
+
+640781290 |
+
+CHG PAU |
+
+AC MCO |
+
+2021 |
+
+19 639,63 |
+
+Nouvelle-Aquitaine |
+
+2331 |
+
+1331 |
+
+330000605 |
+
+330781253 |
+
+CENTRE HOSPITALIER LIBOURNE |
+
+AC MCO |
+
+2021 |
+
+4 960,00 |
+
+Nouvelle-Aquitaine |
+
+6421 |
+
+6421 |
+
+640000436 |
+
+640780862 |
+
+CENTRE HOSPITALIER DES PYRENEES |
+
+AC MCO |
+
+2021 |
+
+4 693,00 |
+
+Nouvelle-Aquitaine |
+
+87070 |
+
+87070 |
+
+870000015 |
+
+870000064 |
+
+CHU LIMOGES |
+
+AC MCO |
+
+2021 |
+
+4 469,78 |
+
+Nouvelle-Aquitaine |
+
+87070 |
+
+87070 |
+
+870004231 |
+
+870004074 |
+
+HAD SSL |
+
+AC MCO |
+
+2021 |
+
+7 537,74 |
+
+Nouvelle-Aquitaine |
+
+01-171 |
+
+02-171 |
+
+170000129 |
+
+170780191 |
+
+CENTRE HOSPITALIER DE ROYAN |
+
+AC MCO |
+
+2021 |
+
+7 170,41 |
+
+Occitanie |
+
+311 |
+
+311 |
+
+310000484 |
+
+310781406 |
+
+CHU DE TOULOUSE |
+
+AC MCO |
+
+2021 |
+
+41 154,40 |
+
+Occitanie |
+
+01321 |
+
+MSA |
+
+320000102 |
+
+320780133 |
+
+CH DE CONDOM |
+
+AC MCO |
+
+2021 |
+
+3 973,19 |
+
+Occitanie |
+
+30070 |
+
+30070 |
+
+300782117 |
+
+300780038 |
+
+CH NIMES |
+
+AC MCO |
+
+2021 |
+
+21 864,67 |
+
+Occitanie |
+
+30070 |
+
+481 |
+
+300780079 |
+
+300780079 |
+
+CH PONT ST ESPRIT |
+
+AC MCO |
+
+2021 |
+
+4 793,90 |
+
+Pays de la Loire |
+
+1491 |
+
+1491 |
+
+490531910 |
+
+490531910 |
+
+CENTRE RÉGIONAL DE RÉÉDUCATION ET DE RÉADAPTATION FONCTIONNELLE - LES CAPUCINS |
+
+AC SSR |
+
+2021 |
+
+19 285,68 |
+
+Pays de la Loire |
+
+1491 |
+
+1491 |
+
+490000031 |
+
+490000031 |
+
+CENTRE HOSPITALIER UNIVERSITAIRE D'ANGERS |
+
+AC MCO |
+
+2021 |
+
+8 362,41 |
+
+Pays de la Loire |
+
+1851 |
+
+1851 |
+
+850009010 |
+
+850009010 |
+
+CH LOIRE VENDÉE OCÉAN |
+
+AC MCO |
+
+2021 |
+
+13 272,26 |
+
+Pays de la Loire |
+
+1851 |
+
+1851 |
+
+850000035 |
+
+850000035 |
+
+CH FONTENAY LE COMTE |
+
+AC MCO |
+
+2021 |
+
+3 261,27 |
+
+Pays de la Loire |
+
+1851 |
+
+MSA |
+
+850000019 |
+
+850000019 |
+
+CENTRE HOSPITALIER DÉPARTEMENTAL |
+
+AC MCO |
+
+2021 |
+
+33 753,41 |
+
+Pays de la Loire |
+
+44070 |
+
+44070 |
+
+440000180 |
+
+440000263 |
+
+EPSYLAN |
+
+DAF psychiatrie |
+
+2021 |
+
+1 977,58 |
+
+Pays de la Loire |
+
+44070 |
+
+44070 |
+
+440018661 |
+
+440053387 |
+
+CMPR COTE D'AMOUR |
+
+AC SSR |
+
+2021 |
+
+16 145,39 |
+
+Pays de la Loire |
+
+44070 |
+
+44070 |
+
+440000503 |
+
+440000313 |
+
+CNP |
+
+AC MCO |
+
+2021 |
+
+3 794,91 |
+
+Pays de la Loire |
+
+44070 |
+
+44070 |
+
+440000016 |
+
+440000057 |
+
+HOP ST NAZAIRE |
+
+AC MCO |
+
+2021 |
+
+3 466,14 |
+
+Auvergne-Rhône-Alpes |
+
+381 |
+
+381 |
+
+380780080 |
+
+380780080 |
+
+CHU GRENOBLE ALPES |
+
+AC MCO |
+
+2022 |
+
+62 626,02 |
+
+Auvergne-Rhône-Alpes |
+
+381 |
+
+381 |
+
+380780049 |
+
+380780049 |
+
+CH BOURGOIN-JALLIEU |
+
+AC MCO |
+
+2022 |
+
+9 752,87 |
+
+Auvergne-Rhône-Alpes |
+
+381 |
+
+381 |
+
+380780072 |
+
+380780072 |
+
+CH RIVES |
+
+AC MCO |
+
+2022 |
+
+7 061,87 |
+
+Auvergne-Rhône-Alpes |
+
+381 |
+
+731 |
+
+730000015 |
+
+730000015 |
+
+CH METROPOLE SAVOIE |
+
+AC MCO |
+
+2022 |
+
+54 725,89 |
+
+Bourgogne-Franche-Comté |
+
+01901 |
+
+01901 |
+
+900000365 |
+
+900000365 |
+
+HOPITAL NORD FRANCHE-COMTE - TREVENANS |
+
+AC MCO |
+
+2022 |
+
+5 261,02 |
+
+Centre-Val de Loire |
+
+451 |
+
+451 |
+
+450000104 |
+
+450000104 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION MONTARGOISE |
+
+AC MCO |
+
+2022 |
+
+3 440,35 |
+
+Centre-Val de Loire |
+
+1371 |
+
+1371 |
+
+370000481 |
+
+370000481 |
+
+CH DE TOURS |
+
+AC MCO |
+
+2022 |
+
+72 894,87 |
+
+Centre-Val de Loire |
+
+1371 |
+
+1371 |
+
+370000531 |
+
+370000606 |
+
+CH DU CHINONAIS |
+
+AC MCO |
+
+2022 |
+
+18 384,27 |
+
+Hauts-de-France |
+
+1594 |
+
+1594 |
+
+590781415 |
+
+590781415 |
+
+CH DUNKERQUE |
+
+AC MCO |
+
+2022 |
+
+27 092,40 |
+
+Hauts-de-France |
+
+1594 |
+
+1594 |
+
+590782645 |
+
+590782645 |
+
+CH BAILLEUL |
+
+AC MCO |
+
+2022 |
+
+14 426,88 |
+
+Normandie |
+
+141 |
+
+141 |
+
+140000456 |
+
+140000316 |
+
+EPSM CAEN |
+
+Dotation provisionnelle psychiatrie |
+
+2022 |
+
+33 032,19 |
+
+Normandie |
+
+141 |
+
+141 |
+
+140000340 |
+
+140025800 |
+
+BETHARAM CAEN |
+
+AC MCO |
+
+2022 |
+
+5 752,40 |
+
+Normandie |
+
+271 |
+
+271 |
+
+270000425 |
+
+270000102 |
+
+CENTRE HOSPITALIER DE LA RISLE |
+
+AC MCO |
+
+2022 |
+
+2 125,91 |
+
+Normandie |
+
+764 |
+
+764 |
+
+760780247 |
+
+760780247 |
+
+CH BECQUEREL |
+
+AC MCO |
+
+2022 |
+
+2 661,82 |
+
+Nouvelle-Aquitaine |
+
+642 |
+
+642 |
+
+640000600 |
+
+640000600 |
+
+CH PAU |
+
+AC MCO |
+
+2022 |
+
+14 946,63 |
+
+Nouvelle-Aquitaine |
+
+642 |
+
+642 |
+
+640780862 |
+
+640780862 |
+
+CH PYRENEES |
+
+AC MCO |
+
+2022 |
+
+4 693,00 |
+
+Occitanie |
+
+30070 |
+
+30070 |
+
+300782117 |
+
+300780038 |
+
+CH NIMES |
+
+AC MCO |
+
+2022 |
+
+21 864,67 |
+
+Pays de la Loire |
+
+44070 |
+
+44070 |
+
+440000016 |
+
+440000057 |
+
+CH ST NAZAIRE |
+
+AC MCO |
+
+2022 |
+
+3 466,14 |
