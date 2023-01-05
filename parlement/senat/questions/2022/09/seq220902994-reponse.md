@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902994
+
+- Question : [SEQ220902994](seq220902994.md) — Pouvoirs du maire sur les usoirs en Moselle
+
+## Réponse
+
+*Transition écologique et cohésion des territoires, JO du 2023-01-05, page 65*
+
+Selon une coutume dont les règles ont fait l'objet de la « codification des usages locaux à caractère agricole du département de la Moselle », approuvée par le Conseil général le 9 janvier 1961, l'usoir est une bande de terrain située le long des routes à la traversée des localités jusqu'aux immeubles construits. En application de l'article 58 de la codification précitée, l'usoir est propriété de la commune. Il relève de son domaine public (CAA Nancy, 8 avril 1993, n° 91NC00673 ; Tribunal des conflits, 22 septembre 2003, M. Grandidier c/ commune de Juville, n° C3369). Aux termes de l'article 60 de cette même codification, « les riverains dont les immeubles sont attenants directement à l'usoir, ont la faculté de se servir des usoirs, principalement comme chemins d'accès vers leurs immeubles, comme lieu de dépôt pour leur fumier, leur bois et autres matériaux, pour leurs instruments d'exploitation agricole, commerciale, artisanale ou autres ». Il résulte de ces dispositions que les droits des riverains relatifs à l'utilisation des usoirs à des fins de circulation ou de dépôt sont limités à la surface des usoirs, à l'exclusion d'implantations à demeure d'ouvrages dans leur sous-sol (CE, 28 juin 1996, n° 149938). Les riverains ne peuvent ainsi y installer en sous-sol une cuve ou encore une fosse septique. En application des dispositions de l'article 62 de la codification, les « non riverains » peuvent circuler sur les usoirs. Le riverain doit exploiter l'usoir « sans que cette utilisation interdise de façon permanente la circulation des autres usagers » (CE, 24 février 2020, n° 434021). Il ne peut ainsi clore l'usoir, même avec l'accord du maire.
