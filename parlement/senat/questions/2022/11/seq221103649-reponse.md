@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103649
+
+- Question : [SEQ221103649](seq221103649.md) — Application de la loi visant à améliorer le système de santé par la confiance et la simplification
+
+## Réponse
+
+*Santé et prévention, JO du 2023-01-05, page 58*
+
+Créées en 2018, les pratiques avancées visent à ouvrir aux professionnels notamment les infirmiers, la possibilité d'accéder, au-delà de leur métier socle, à des compétences élargies relevant habituellement des prérogatives médicales. Dans la poursuite des conclusions du Ségur de la santé qui prévoyaient d'accélérer le déploiement des infirmiers en pratique avancée (IPA) (mesure n° 6), l'ouverture de la primo-prescription aux IPA s'inscrit dans une volonté d'amélioration de la prise en charge, de qualité et de sécurité des soins pour les populations au sein des différents territoires. Deux missions IGAS-IGESR ont été déployées entre 2021 et 2022. La première s'inscrit dans le cadre de l'article 1er de la loi Rist du 26 avril 2021, intitulée "trajectoires pour de nouveaux partages de compétences entre professionnels de santé". Ses résultats ont été rendus publics en janvier 2022 et seront transmis formellement au Parlement. Elle a été complétée par une mission de "concertation sur la pratique avancée", avec un rapport rendu en août 2022 et en cours d'analyse. Les conclusions de ces missions permettront de répondre à la question de l'accompagnement des changements pour les spécialités infirmières dans la pratique avancée. Dans ce contexte, des concertations continuent d'être menées avec les acteurs des spécialités. Le ministère de la santé et de la prévention est attentif à la situation et à l'écoute des propositions pour faciliter l'accès à un professionnel de santé notamment des infirmiers en pratique avancée. Le projet de loi de financement de la sécurité sociale 2023 prévoit par ailleurs, l'exercice en première ligne de l'IPA dans les structures d'exercice coordonnées dans un cadre expérimental.
