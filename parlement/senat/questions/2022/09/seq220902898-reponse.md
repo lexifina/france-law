@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902898
+
+- Question : [SEQ220902898](seq220902898.md) — Incertitudes pour l'emploi et l'activité issues de la cession de la Fonderie de Bretagne par le groupe Renault à un fonds de capital-investissement
+
+## Réponse
+
+*Industrie, JO du 2023-01-05, page 46*
+
+L'offre du fonds Callista est adossée à un projet industriel ambitieux, qui comprend un effort d'investissement de 32 millions d'euros intégralement financé par le groupe Renault, pour moderniser et compléter l'outil industriel. En particulier, il s'agit d'améliorer la performance économique et énergétique de l'usine, à travers le financement de nouveaux fours, ainsi que de diversifier la production vers des pièces plus complexes et plus lourdes. Le fonds Callista a pris l'engagement de ne procéder à aucun licenciement économique et de ne pas verser de dividendes pendant toute la durée du plan d'investissement, soit jusqu'en 2025. Renault s'engage au service du projet de reprise à hauteur de 32 millions d'euros pour les investissements, mais aussi de 11 millions d'euros pour couvrir les coûts d'exploitation, 14 millions pour couvrir les aléas et 140 millions d'euros de recapitalisation de l'entreprise et d'apurement de son passif. L'ensemble des financements du groupe Renault seront placés sous le contrôle d'un fiduciaire. Concernant les interrogations que soulève l'activité du fonds Callista, il ressort que Callista a su mener des projets de reprise avec succès et que, s'agissant des Fonderies de Bretagne, un engagement 0 licenciement a été homologué dans le cadre de la procédure de conciliation qui a conduit à la cession. Par ailleurs, Renault garantit à Callista un niveau de marge brute, générée par ses commandes dans les années à venir, ce qui est de nature à préserver l'entreprise de trop forts aléas, sans compter l'effort d'investissement. Le Gouvernement restera vigilant sur la bonne tenue de ces engagements.
