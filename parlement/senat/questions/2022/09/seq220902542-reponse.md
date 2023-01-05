@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902542
+
+- Question : [SEQ220902542](seq220902542.md) — Pouvoir d'achat des recrutés locaux du lycée Jean Mermoz de Buenos Aires
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2023-01-05, page 45*
+
+Le ministère de l'Europe et des affaires étrangères veille, dans le cadre de la tutelle exercée sur l'Agence pour l'enseignement français à l'étranger (AEFE), à ce que celle-ci accorde une grande attention à la situation des personnels recrutés locaux exerçant dans les établissements en gestion directe situés dans des pays qui connaissent une forte inflation. Il revient alors aux chefs d'établissement, en fonction des conventions collectives dont dépendent les personnels de droit local, variables selon les pays, de proposer au directeur général de l'AEFE la mise en place de dispositifs visant à ajuster les salaires de ces personnels. De nombreuses décisions de rémunération sont régulièrement prises en ce sens par l'AEFE. Dans le cas du lycée franco-argentin Jean Mermoz à Buenos Aires, plusieurs mesures ont été récemment prises en faveur des personnels de droit local : indemnité exceptionnelle de 14% indexée sur les salaires de février 2022 et versée le 1er août 2022 ; augmentation de 30% des salaires au 1er septembre 2022, par anticipation des augmentations à venir décidées par les organismes paritaires, pour les personnels autres que surveillants et périscolaires (pour lesquels les salaires ont été augmentés par anticipation de 15% à cette même date) ; triplement de la prime de transport au 1er août 2022. Il importe que les situations des personnels de droit local soient traitées au cas par cas par les établissements, en liaison avec l'AEFE, car elles dépendent fortement des contextes locaux et individuels. Les dispositions locales ne sont donc pas de nature à faire l'objet de mesures ou de préconisations générales au conseil d'administration de l'AEFE.
