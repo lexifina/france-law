@@ -4,7 +4,7 @@ Les vaccins mentionnés à l'article 5 sont les suivants :
 
 I. - Vaccins à acide ribonucléique (ARN) messager :
 
-- les vaccins à ARNm COMIRNATY des laboratoires Pfizer/ BioNTech ;
+- les vaccins à ARNm COMIRNATY 30 microgrammes/ dose et 15/15 microgrammes/ dose, des laboratoires Pfizer/ BioNTech ;
 
 - les vaccins à ARNm SPIKEVAX du laboratoire Moderna.
 
