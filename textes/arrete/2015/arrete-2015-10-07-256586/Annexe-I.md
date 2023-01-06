@@ -2,6 +2,10 @@
 
 Annexe 1 - Documents transmis annuellement par les sociétés d'économie mixte agréées au ministre du logement, conformément à l'article R. 481-14 du code de la construction et de l'habitation
 
+Annexe modifiée conformément à l'arrêté du 14 décembre 2022 (NOR : TREL2226992A).
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à cette adresse : https://www.legifrance.gouv.fr/download/pdf?id=dtA951eqcVeE8Ir4pK1-5JH5qO1QTg2VZoj1b1RFD7U=
+
 Sommaire :
 
 Fiche 1 - Renseignements généraux
@@ -44,4 +48,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=ubB_A-cNDGDG0l-z5OwjfNpbpMGytxJiY
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 1er avril 2019 (NOR : LOGL1832869A), ces dispositions s'appliquent à compter de l'exercice comptable ouvert le 1er janvier 2018.
+Conformément à l'article 8 de l'arrêté du 14 décembre 2022 (NOR : TREL2226992A), le présent article s'applique à compter de l'exercice comptable ouvert le 1er janvier 2022, sous réserve des dispositions l'article 7 dudit arrêté.
