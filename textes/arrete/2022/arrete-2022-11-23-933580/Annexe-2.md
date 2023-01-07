@@ -346,16 +346,6 @@ CLICHY |
 
 Val-de-Marne |
 
-094036 |
-
-SGC |
-
-CRETEIL |
-
-01/09/2023 |
-
-Val-de-Marne |
-
 094047 |
 
 SIE |
@@ -363,6 +353,16 @@ SIE |
 NOGENT-SUR-MARNE |
 
 01/01/2023 |
+
+Val-de-Marne |
+
+094036 |
+
+SGC |
+
+CRETEIL |
+
+15/01/2023 |
 
 Val-d'Oise |
 
