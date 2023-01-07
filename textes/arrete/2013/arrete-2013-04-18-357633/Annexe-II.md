@@ -1,22 +1,26 @@
 # Article Annexe II
 
-ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
+ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ETAT (MINISTÈRES CIVILS)
 
-A-Ministère de l'Europe et des affaires étrangères
+A.-Ministère de l'Europe et des affaires étrangères
 
 Catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnels en fonctions sur le territoire national |
 
 Étranger |
 
-B-Ministère de la culture
+B.-Ministère de la culture
 
 Catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnels affectés dans les directions régionales des affaires culturelles |
 
@@ -24,17 +28,19 @@ Paris |
 
 Personnels affectés à Mayotte |
 
-Paris à compter du 1er janvier 2022 |
+Paris |
 
 Personnels des Écoles Normales Supérieures d'Architecture |
 
 Paris |
 
-C-Ministère de l'agriculture et de la souveraineté alimentaire
+C.-Ministère de l'agriculture et de la souveraineté alimentaire
 
 Catégorie de personnels |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnels des services centraux |
 
@@ -48,7 +54,13 @@ Ingénieurs des ponts, des eaux et des forêts relevant du centre interministér
 
 Hauts-de-Seine |
 
-D-Ministère de l'éducation nationale et de la jeunesse, ministère de l'enseignement supérieur et de la recherche, ministère des sports, des jeux Olympiques et Paralympiques
+Personnels des services déconcentrés en poste à Mayotte |
+
+Hauts-de-Seine
+
+à compter du 1er janvier 2023 |
+
+D.-Ministère de l'éducation nationale et de la jeunesse, ministère de l'enseignement supérieur et de la recherche, ministère des sports, des jeux olympiques et paralympiques
 
 1° Enseignement
 
@@ -56,7 +68,9 @@ Population ou région académique (académie) |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Recteurs de région académique, recteurs d'académie, recteurs délégués pour l'enseignement supérieur, la recherche et l'innovation |
 
@@ -146,7 +160,9 @@ Population ou région académique (académie) |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Île-de-France (Paris, Versailles, Créteil) |
 
@@ -194,9 +210,7 @@ Yvelines |
 
 Service interacadémique des examens et concours d'Arcueil |
 
-Seine-Saint-Denis à compter
-
-du 1er octobre 2022 |
+Seine-Saint-Denis |
 
 La Réunion |
 
@@ -210,15 +224,13 @@ Martinique |
 
 Martinique |
 
-Normandie |
+Mayotte |
 
-Calvados, Manche, Orne |
+Mayotte |
 
-Calvados |
+La Réunion
 
-Eure, Seine-Maritime |
-
-Seine-Maritime |
+à compter du 1er janvier 2023 |
 
 Nouvelle-Aquitaine (Bordeaux, Limoges, Poitiers) |
 
@@ -238,7 +250,9 @@ Population ou région académique (académie) |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Occitanie (Montpellier, Toulouse) |
 
@@ -256,7 +270,7 @@ Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée |
 
 Loire-Atlantique |
 
-Provence-Alpes-Côte d'Azur (Marseille, Nice) |
+Provence-Alpes-Côte d'Azur (Aix-Marseille, Nice) |
 
 Alpes de Haute-Provence, Hautes-Alpes, Bouches-du-Rhône, Vaucluse |
 
@@ -266,83 +280,285 @@ Alpes-Maritimes, Var |
 
 Alpes-Maritimes |
 
-2° Jeunesse et sports
+2° Corps des conseillers d'éducation populaire et de jeunesse, des conseillers techniques et pédagogiques supérieurs, des inspecteurs de la jeunesse et des sports, des professeurs de sport rémunérés sur le programme 214 soutien de la politique de l'éducation nationale et conseillers techniques sportifs rémunérés sur le programme 219 sport
 
-Population |
+Région académique (académie) |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
 
-Corps de professeurs de sport |
-
-Administration centrale et Île-de-France |
-
-Paris |
-
-Autres affectations |
-
-Seine-Saint-Denis |
-
-Corps des conseillers d'éducation populaire et de jeunesse |
-
-Administration centrale et Île-de-France |
-
-Paris |
-
-Autres affectations |
-
-Seine-Saint-Denis |
-
-Corps des conseillers techniques et pédagogiques supérieurs |
-
-Administration centrale et Île-de-France |
-
-Paris |
-
-Autres affectations |
-
-Seine-Saint-Denis |
-
-Corps des inspecteurs de la jeunesse et des sports |
-
-Administration centrale et Île-de-France |
-
-Paris |
-
-Autres affectations |
-
-Seine-Saint-Denis |
-
-Agents contractuels exerçant les fonctions de préparateur olympique ou de directeur technique national auprès des fédérations sportives |
-
-Toutes affectations |
-
-Seine-Saint-Denis |
-
-Agents contractuels exerçant les fonctions de conseiller technique national ou régional |
-
-Toutes affectations |
-
-Seine-Saint-Denis |
-
-Autres personnels |
+sans ordonnancement préalable |
 
 Administration centrale |
 
 Paris |
 
-Autres affectations |
+Seine-Saint-Denis |
 
-Se reporter au tableau mentionné au 1° |
+Auvergne-Rhône-Alpes (Clermont-Ferrand, Grenoble, Lyon) |
 
-E-Ministère de l'économie, des finances et de la souveraineté industrielle et numérique
+Allier, Cantal, Haute-Loire, Puy-de-Dôme |
+
+Rhône
+
+à compter du 1er janvier 2023 |
+
+Ardèche, Drôme, Isère, Savoie, Haute-Savoie |
+
+Ain, Loire, Rhône |
+
+Bourgogne-Franche-Comté (Besançon, Dijon) |
+
+Doubs, Jura, Haute-Saône, territoire-de-Belfort |
+
+Doubs
+
+à compter du 1er janvier 2023 |
+
+Côte-d'Or, Nièvre, Saône-et-Loire, Yonne |
+
+Bretagne (Rennes) |
+
+Côtes d'Armor, Finistère, Ille-et-Vilaine, Morbihan |
+
+Ille-et-Vilaine
+
+à compter du 1er janvier 2023 |
+
+Centre-Val de Loire (Orléans-Tours) |
+
+Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret |
+
+Indre-et-Loire
+
+à compter du 1er janvier 2023 |
+
+Corse |
+
+Corse-du-Sud, Haute-Corse |
+
+Bouches-du-Rhône
+
+à compter du 1er janvier 2023 |
+
+Grand Est (Nancy-Metz, Reims, Strasbourg) |
+
+Meurthe-et-Moselle, Meuse, Moselle, Vosges |
+
+Moselle
+
+à compter du 1er janvier 2023 |
+
+Ardennes, Aube, Marne, Haute-Marne |
+
+Bas-Rhin, Haut-Rhin |
+
+Région académique (académie) |
+
+Service ou département d'affectation |
+
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
+
+Guadeloupe |
+
+Guadeloupe, Saint-Barthélemy, Saint-Martin |
+
+Martinique
+
+à compter du 1er janvier 2023 |
+
+Guyane |
+
+Guyane |
+
+Martinique
+
+à compter du 1er janvier 2023 |
+
+Hauts-de-France (Amiens, Lille) |
+
+Aisne, Oise, Somme |
+
+Nord
+
+à compter du 1er janvier 2023 |
+
+Nord, Pas-de-Calais |
+
+Île-de-France (Paris, Versailles, Créteil) |
+
+Paris |
+
+Seine-Saint-Denis
+
+à compter du 1er janvier 2023 |
+
+Yvelines, Essonne, Hauts-de-Seine, Val d'Oise |
+
+Seine-et-Marne, Seine-Saint-Denis, Val de Marne |
+
+La Réunion |
+
+La Réunion |
+
+La Réunion
+
+à compter du 1er janvier 2023 |
+
+Martinique |
+
+Martinique |
+
+Martinique
+
+à compter du 1er janvier 2023 |
+
+Mayotte |
+
+Mayotte |
+
+La Réunion
+
+à compter du 1er janvier 2023 |
+
+Nouvelle-Aquitaine (Bordeaux, Limoges, Poitiers) |
+
+Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques |
+
+Gironde
+
+à compter du 1er janvier 2023 |
+
+Creuse, Corrèze, Haute-Vienne |
+
+Charente, Charente-Maritime, Deux-Sèvres, Vienne |
+
+Occitanie (Montpellier, Toulouse) |
+
+Aude, Gard, Hérault, Pyrénées-Orientales |
+
+Hérault
+
+à compter du 1er janvier 2023 |
+
+Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne |
+
+Pays de la Loire (Nantes) |
+
+Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée |
+
+Loire-Atlantique
+
+à compter du 1er janvier 2023 |
+
+Provence-Alpes-Côte d'Azur (Aix-Marseille, Nice) |
+
+Alpes de Haute-Provence, Hautes-Alpes, Bouches-du-Rhône, Vaucluse |
+
+Bouches-du-Rhône
+
+à compter du 1er janvier 2023 |
+
+Alpes-Maritimes, Var |
+
+3° Agents affectés dans le ressort territorial de la région académique de Normandie
+
+Population |
+
+Service ou département d'affectation |
+
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
+
+Personnels enseignants titulaires et contractuels du 1er degré public, maîtres et documentalistes de l'enseignement privé sous contrat du 1er degré, contractuels alternants de l'enseignement public ou privé du 1er degré |
+
+Calvados, Manche, Orne |
+
+Calvados |
+
+Eure, Seine-Maritime |
+
+Calvados
+
+à compter du 1er janvier 2023 |
+
+Personnels enseignants titulaires et contractuels du 2nd degré public, maîtres et documentalistes de l'enseignement privé sous contrat du 2nd degré, contractuels alternants de l'enseignement public ou privé du 2nd degré |
+
+Calvados, Manche, Orne |
+
+Seine-Maritime
+
+à compter du 1er janvier 2023 |
+
+Eure, Seine-Maritime |
+
+Seine-Maritime |
+
+Personnels d'encadrement supérieur, personnels de direction, personnels d'inspection, ingénieurs et personnels techniques de recherche et de formation |
+
+Calvados, Manche, Orne |
+
+Seine-Maritime
+
+à compter du 1er janvier 2023 |
+
+Eure, Seine-Maritime |
+
+Seine-Maritime |
+
+Personnels titulaires et contractuels des filières administrative, technique et médico-sociale, ouvriers, de service |
+
+Calvados, Manche, Orne |
+
+Seine-Maritime
+
+à compter du 1er mars 2023 |
+
+Eure, Seine-Maritime |
+
+Seine-Maritime |
+
+Conseillers d'éducation populaire et de jeunesse, conseillers techniques et pédagogiques supérieurs, inspecteurs de la jeunesse et des sports, professeurs de sport |
+
+Calvados, Manche, Orne |
+
+Seine-Maritime
+
+à compter du 1er janvier 2023 |
+
+Eure, Seine-Maritime |
+
+Seine-Maritime
+
+à compter du 1er janvier 2023 |
+
+Conseillers techniques sportifs |
+
+Calvados, Manche, Orne |
+
+Seine-Maritime
+
+à compter du 1er janvier 2023 |
+
+Eure, Seine-Maritime |
+
+Seine-Maritime
+
+à compter du 1er janvier 2023 |
+
+E.-Ministère de l'économie, des finances et de la souveraineté industrielle et numérique
 
 1° Direction générale de la concurrence de la consommation et de la répression des fraudes
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques
+
+chargée de la paye sans ordonnancement préalable |
 
 Services déconcentrés de métropole et des collectivités d'outre-mer régies par l'article 73 de la Constitution hors Mayotte |
 
@@ -350,7 +566,7 @@ Hauts-de-Seine |
 
 Personnels affectés à Mayotte |
 
-Hauts-de-Seine à compter du 1er janvier 2022 |
+Hauts-de-Seine |
 
 Personnels affectés au Service commun des laboratoires des ministères économiques et financiers |
 
@@ -360,7 +576,9 @@ Hauts-de-Seine |
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques
+
+chargée de la paye sans ordonnancement préalable |
 
 Direction nationale garde-côtes des douanes |
 
@@ -416,7 +634,7 @@ Gironde |
 
 Direction régionale des douanes et droits indirects de Mayotte |
 
-Gironde à compter du 1er janvier 2022 |
+Gironde |
 
 Centre informatique des douanes d'Osny |
 
@@ -444,7 +662,9 @@ Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Services centraux |
 
@@ -454,9 +674,15 @@ Noisy-le-Grand |
 
 Paris |
 
-Corps des administrateurs des finances publiques (toutes affectations) |
+Corps des administrateurs des finances publiques en extinction (toutes affectations) |
 
-Bureau des politiques sociales et des rémunérations |
+Bureau rémunération et reconnaissance |
+
+Paris |
+
+Corps des administrateurs de l'État détachés sur emploi fonctionnel relevant de la direction générale des finances publiques (toutes affectations) |
+
+Bureau rémunération et reconnaissance |
 
 Paris |
 
@@ -466,7 +692,9 @@ Ain |
 
 Saint-Étienne |
 
-Isère |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Aisne |
 
@@ -484,19 +712,25 @@ Alpes de-Haute-Provence |
 
 Saint-Étienne |
 
-Isère |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Hautes-Alpes |
 
 Saint-Étienne |
 
-Isère |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Alpes-Maritimes |
 
 Montpellier |
 
-Hérault |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Ardèche |
 
@@ -526,7 +760,9 @@ Aude |
 
 Montpellier |
 
-Hérault |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Aveyron |
 
@@ -538,7 +774,9 @@ Bouches-du-Rhône |
 
 Montpellier |
 
-Hérault |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Calvados |
 
@@ -568,7 +806,9 @@ Cher |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Corrèze |
 
@@ -606,12 +846,6 @@ Clermont-Ferrand |
 
 Puy-de-Dôme |
 
-Service ou catégorie de personnel |
-
-Centre de services de ressources humaines |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
 Dordogne |
 
 Bordeaux |
@@ -628,21 +862,23 @@ Drôme |
 
 Saint-Étienne |
 
-Isère |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Eure |
 
 Arras |
 
-Puy-de-Dôme à compter
-
-du 1er octobre 2022 |
+Puy-de-Dôme |
 
 Eure-et-Loir |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Finistère |
 
@@ -654,7 +890,9 @@ Gard |
 
 Montpellier |
 
-Hérault |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Haute-Garonne |
 
@@ -678,7 +916,9 @@ Hérault |
 
 Montpellier |
 
-Hérault |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Ille-et-Vilaine |
 
@@ -690,25 +930,33 @@ Indre |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Indre-et-Loire |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Isère |
 
 Saint-Étienne |
 
-Isère |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Jura |
 
 Saint-Étienne |
 
-Isère |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Landes |
 
@@ -716,17 +964,29 @@ Bordeaux |
 
 Gironde |
 
+Service ou catégorie de personnel |
+
+Centre de services de ressources humaines |
+
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
+
 Loir-et-Cher |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Loire |
 
 Saint-Étienne |
 
-Isère |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Haute-Loire |
 
@@ -744,7 +1004,9 @@ Loiret |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Lot |
 
@@ -768,7 +1030,9 @@ Maine-et-Loire |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Manche |
 
@@ -792,7 +1056,9 @@ Mayenne |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Meurthe-et-Moselle |
 
@@ -822,7 +1088,9 @@ Nièvre |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Nord |
 
@@ -834,23 +1102,21 @@ Oise |
 
 Arras |
 
-Puy-de-Dôme à compter
-
-du 1er octobre 2022 |
+Puy-de-Dôme |
 
 Orne |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Pas-de-Calais |
 
 Arras |
 
-Puy-de-Dôme à compter
-
-du 1er octobre 2022 |
+Puy-de-Dôme |
 
 Puy-de-Dôme |
 
@@ -874,7 +1140,9 @@ Pyrénées-Orientales |
 
 Montpellier |
 
-Hérault |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Bas-Rhin |
 
@@ -892,7 +1160,9 @@ Rhône |
 
 Saint-Étienne |
 
-Isère |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Haute-Saône |
 
@@ -904,25 +1174,33 @@ Saône-et-Loire |
 
 Saint-Étienne |
 
-Isère |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Sarthe |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Savoie |
 
 Saint-Étienne |
 
-Isère |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Haute-Savoie |
 
 Saint-Étienne |
 
-Isère |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Paris |
 
@@ -934,37 +1212,35 @@ Seine-Maritime |
 
 Arras |
 
-Puy-de-Dôme à compter
-
-du 1er octobre 2022 |
+Puy-de-Dôme |
 
 Seine-et-Marne |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Yvelines |
 
 Arras |
 
-Puy-de-Dôme à compter
-
-du 1er octobre 2022 |
+Puy-de-Dôme |
 
 Deux-Sèvres |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Somme |
 
 Arras |
 
-Puy-de-Dôme à compter
-
-du 1er octobre 2022 |
+Puy-de-Dôme |
 
 Tarn |
 
@@ -982,13 +1258,17 @@ Var |
 
 Montpellier |
 
-Hérault |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Vaucluse |
 
 Montpellier |
 
-Hérault |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Vendée |
 
@@ -1000,7 +1280,9 @@ Vienne |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Haute-Vienne |
 
@@ -1018,7 +1300,9 @@ Yonne |
 
 Tours |
 
-Indre-et-Loire |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Territoire-de-Belfort |
 
@@ -1036,9 +1320,7 @@ Hauts-de-Seine |
 
 Arras |
 
-Puy-de-Dôme à compter
-
-du 1er octobre 2022 |
+Puy-de-Dôme |
 
 Seine-Saint-Denis |
 
@@ -1056,9 +1338,7 @@ Val-d'Oise |
 
 Arras |
 
-Puy-de-Dôme à compter
-
-du 1er octobre 2022 |
+Puy-de-Dôme |
 
 Guadeloupe |
 
@@ -1134,12 +1414,6 @@ Noisy-le-Grand |
 
 Paris |
 
-Service ou catégorie de personnel |
-
-Centre de services de ressources humaines |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
 Direction des vérifications nationales et internationales (Pantin) |
 
 Noisy-le-Grand |
@@ -1158,99 +1432,19 @@ Noisy-le-Grand |
 
 Paris |
 
-Service national de documentation du cadastre (Saint-Germain-en-Laye) |
-
-Noisy-le-Grand |
-
-Paris |
-
-Service des retraites de l'État (Nantes) |
-
-Noisy-le-Grand |
-
-Paris |
-
-Directions des services informatiques |
-
-Grand-Est (Strasbourg) |
-
-Lille |
-
-Nord |
-
-Nord (Lille) |
-
-Lille |
-
-Nord |
-
-Centre-Ouest (Nantes) |
-
-Clermont-Ferrand |
-
-Puy-de-Dôme |
-
-Île-de-France (Versailles) |
-
-Lille |
-
-Nord |
-
-Rhône Alpes Auvergne Bourgogne (Lyon) |
-
-Clermont-Ferrand |
-
-Puy-de-Dôme |
-
-Sud-Est Outre-mer (Marseille) |
-
-Clermont-Ferrand |
-
-Puy-de-Dôme |
-
-Sud-Ouest (Bordeaux) |
-
-Clermont-Ferrand |
-
-Puy-de-Dôme |
-
-Directions et services spécialisés |
-
-Agence comptable des services industriels de l'armement (Noisy-le-Grand) |
-
-Noisy-le-Grand |
-
-Paris |
-
-Direction des créances spéciales du Trésor (Châtellerault) |
-
-Bordeaux |
-
-Gironde |
-
-Direction spécialisée des finances publiques pour l'Assistance publique-Hôpitaux de Paris |
-
-Noisy-le-Grand |
-
-Paris |
-
-Direction spécialisée des finances publiques pour l'Étranger (Nantes) |
-
-Saint-Brieuc |
-
-Ille-et-Vilaine |
-
-Service ou catégorie de personnel |
-
-Centre de services de ressources humaines |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
 Services de contrôle budgétaire et comptable ministériels |
 
 Noisy-le-Grand |
 
 Paris |
+
+Service ou catégorie de personnel |
+
+Centre de services de ressources humaines |
+
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Directions de contrôle fiscal |
 
@@ -1258,7 +1452,9 @@ Centre-Est (Lyon) |
 
 Saint-Étienne |
 
-Isère |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Centre-Ouest (Rennes) |
 
@@ -1288,7 +1484,9 @@ Sud-Est (Marseille) |
 
 Montpellier |
 
-Hérault |
+Puy-de-Dôme
+
+à compter du 1er janvier 2023 |
 
 Sud-Ouest (Bordeaux) |
 
@@ -1300,9 +1498,11 @@ Sud-Pyrénées (Toulouse) |
 
 Montpellier |
 
-Hérault |
+Puy-de-Dôme
 
-F-Ministère de l'intérieur
+à compter du 1er janvier 2023 |
+
+F.-Ministère de l'intérieur et de l'outre-mer
 
 1° Administration territoriale de l'Etat
 
@@ -1310,7 +1510,9 @@ Service ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Corps préfectoral |
 
@@ -1390,7 +1592,9 @@ Service ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Aveyron |
 
@@ -1582,7 +1786,9 @@ Service ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Loire |
 
@@ -1944,7 +2150,9 @@ Zone de sécurité et de défense ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Est (Bourgogne-Franche-Comté Grand Est) |
 
@@ -2038,11 +2246,15 @@ La Réunion |
 
 3° Personnels civils de la direction générale de la gendarmerie nationale
 
-Zone de sécurité et de défense ou catégorie de personnel |
+Zone de sécurité et de défense ou catégorie
+
+de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Est (Bourgogne-Franche-Comté Grand Est) |
 
@@ -2120,7 +2332,9 @@ La Réunion |
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Bureau des cultes du Bas-Rhin et du Haut-Rhin |
 
@@ -2138,7 +2352,7 @@ Personnels navigants contractuels relevant du groupement des moyens aériens du 
 
 Paris |
 
-G-Ministère de la justice
+G.-Ministère de la justice
 
 1° Services judiciaires
 
@@ -2146,7 +2360,9 @@ Cour d'Appel |
 
 Ressort |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Agen |
 
@@ -2170,13 +2386,17 @@ Angers |
 
 Maine-et-Loire, Mayenne, Sarthe |
 
-Loire-Atlantique |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 Basse-Terre |
 
 Guadeloupe |
 
-Martinique |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 Bastia |
 
@@ -2200,7 +2420,9 @@ Bourges |
 
 Cher, Indre, Nièvre |
 
-Indre-et-Loire |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 Caen |
 
@@ -2212,7 +2434,9 @@ Cayenne |
 
 Guyane |
 
-Martinique |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 Chambéry |
 
@@ -2224,7 +2448,9 @@ Colmar |
 
 Bas-Rhin, Haut-Rhin |
 
-Bas-Rhin |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 Dijon |
 
@@ -2236,13 +2462,17 @@ Douai |
 
 Nord, Pas-de-Calais |
 
-Nord |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 Fort-de-France |
 
 Martinique |
 
-Martinique |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 Grenoble |
 
@@ -2272,15 +2502,15 @@ Cour d'Appel |
 
 Ressort |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Montpellier |
 
 Aude, Aveyron, Hérault, Pyrénées-Orientales |
 
-Doubs à compter
-
-du 1er octobre 2022 |
+Doubs |
 
 Nancy |
 
@@ -2292,21 +2522,23 @@ Nîmes |
 
 Ardèche, Gard, Lozère, Vaucluse |
 
-Doubs à compter
-
-du 1er octobre 2022 |
+Doubs |
 
 Orléans |
 
 Indre-et-Loire, Loir-et-Cher, Loiret |
 
-Indre-et-Loire |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 Paris |
 
 Paris, Seine-et-Marne, Yonne, Essonne, Seine-Saint-Denis, Val-de-Marne |
 
-Paris |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 Pau |
 
@@ -2342,31 +2574,37 @@ Rouen |
 
 Eure, Seine-Maritime |
 
-Seine-Maritime |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 Saint-Denis de La Réunion |
 
 La Réunion |
 
-La Réunion |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 Mayotte |
 
-La Réunion |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 Toulouse |
 
 Ariège, Haute-Garonne, Tarn, Tarn-et-Garonne |
 
-Doubs à compter
-
-du 1er octobre 2022 |
+Doubs |
 
 Versailles |
 
 Eure-et-Loir, Yvelines, Hauts-de-Seine, Val d'Oise |
 
-Yvelines |
+Doubs
+
+à compter du 1er janvier 2023 |
 
 2° Services pénitentiaires
 
@@ -2374,7 +2612,9 @@ Direction interrégionale des services pénitentiaires |
 
 Ressort |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Bordeaux |
 
@@ -2392,7 +2632,9 @@ Lille |
 
 Aisne, Nord, Oise, Pas-de-Calais, Somme |
 
-Nord |
+Haute-Vienne
+
+à compter du 1er janvier 2023 |
 
 Lyon |
 
@@ -2410,7 +2652,9 @@ Paris |
 
 Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val d'Oise |
 
-Paris |
+Haute-Vienne
+
+à compter du 1er janvier 2023 |
 
 Rennes |
 
@@ -2422,35 +2666,49 @@ Strasbourg |
 
 Ardennes, Aube, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Bas-Rhin, Haut-Rhin, Vosges |
 
-Bas-Rhin |
+Haute-Vienne
+
+à compter du 1er janvier 2023 |
 
 Direction interrégionale des services pénitentiaires |
 
 Ressort |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Toulouse |
 
 Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Lozère, Hautes-Pyrénées, Pyrénées-Orientales, Tarn, Tarn-et-Garonne |
 
-Haute-Vienne à compter
-
-du 1er octobre 2022 |
+Haute-Vienne |
 
 Mission outre-mer |
 
 Guadeloupe, Guyane, Martinique |
 
-Martinique |
+Haute-Vienne
+
+à compter du 1er janvier 2023 |
 
 La Réunion |
 
-La Réunion |
+Haute-Vienne
+
+à compter du 1er janvier 2023 |
 
 Mayotte |
 
-La Réunion |
+Haute-Vienne
+
+à compter du 1er janvier 2023 |
+
+Val-de-Marne (siège) |
+
+Haute-Vienne
+
+à compter du 1er janvier 2023 |
 
 3° Protection judiciaire de la jeunesse
 
@@ -2458,7 +2716,9 @@ Direction interrégionale de la protection judiciaire de la jeunesse |
 
 Ressort |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Centre-Est (Lyon) |
 
@@ -2482,7 +2742,17 @@ Grand Nord (Lille) |
 
 Aisne, Nord, Oise, Pas-de-Calais, Somme |
 
-Nord |
+Haute-Vienne
+
+à compter du 1er janvier 2023 |
+
+Direction interrégionale de la protection judiciaire de la jeunesse |
+
+Ressort |
+
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Grand Ouest (Rennes) |
 
@@ -2490,37 +2760,37 @@ Calvados, Côtes d'Armor, Eure, Finistère, Ille-et-Vilaine, Loire-Atlantique, M
 
 Haute-Vienne |
 
-Direction interrégionale de la protection judiciaire de la jeunesse |
-
-Ressort |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
 Île-de-France/ Outre-Mer (Paris) |
 
 Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val d'Oise |
 
-Paris |
+Haute-Vienne
+
+à compter du 1er janvier 2023 |
 
 Guadeloupe, Guyane, Martinique |
 
-Martinique |
+Haute-Vienne
+
+à compter du 1er janvier 2023 |
 
 La Réunion |
 
-La Réunion |
+Haute-Vienne
+
+à compter du 1er janvier 2023 |
 
 Mayotte |
 
-La Réunion |
+Haute-Vienne
+
+à compter du 1er janvier 2023 |
 
 Sud (Toulouse) |
 
 Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Lozère, Hautes-Pyrénées, Pyrénées-Orientales, Tarn, Tarn-et-Garonne |
 
-Haute-Vienne à compter
-
-du 1er octobre 2022 |
+Haute-Vienne |
 
 Sud-Est (Marseille) |
 
@@ -2538,19 +2808,21 @@ Haute-Vienne |
 
 Services |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Services centraux |
 
-Paris |
+Doubs à compter du 1er janvier 2023 |
 
 Conseil supérieur de la magistrature |
 
-Paris |
+Doubs à compter du 1er janvier 2023 |
 
 Cour de Cassation |
 
-Paris |
+Doubs à compter du 1er janvier 2023 |
 
 École nationale de l'administration pénitentiaire d'Agen |
 
@@ -2564,19 +2836,17 @@ Doubs |
 
 Doubs |
 
-Services |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
 École nationale de la protection judiciaire de la jeunesse de Roubaix |
 
-Nord |
+Haute-Vienne à compter du 1er janvier 2023 |
 
-H-Services de la Première ministre-juridictions administratives et financières
+H.-Services de la Première ministre-Juridictions administratives et financières
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Magistrats des tribunaux administratifs et cours administratives d'appel |
 
@@ -2592,15 +2862,17 @@ Paris |
 
 Personnels en poste à Mayotte |
 
-Paris à compter du 1er janvier 2022 |
+Paris |
 
-I-Ministère de la transition écologique et de la cohésion des territoires
+I.-Ministère de la transition écologique et de la cohésion des territoires
 
 Service |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Services centraux |
 
@@ -2619,6 +2891,14 @@ Directions départementales interministérielles et préfectures hors Mayotte |
 Tous départements |
 
 Val-de-Marne |
+
+Personnels en poste à Mayotte |
+
+Mayotte |
+
+Val-de-Marne
+
+à compter du 1er janvier 2023 |
 
 Autorité de contrôle des nuisances aéroportuaires (ACNUSA) |
 
@@ -2702,40 +2982,32 @@ Isère |
 
 Val-de-Marne |
 
-J-Ministère de la santé et de la prévention, du travail, du plein emploi et de l'insertion et ministère des solidarités, de l'autonomie et des personnes handicapées
+J.-Ministère de la santé et de la prévention, ministère du travail, du plein emploi et de l'insertion et ministère des solidarités, de l'autonomie et des personnes handicapées
 
 Service |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Services centraux |
 
-Somme à compter du 1er octobre 2022 |
+Somme |
 
 Directions régionales de l'économie, de l'emploi, du travail et des solidarités de métropole |
 
-Somme à compter du 1er octobre 2022 |
+Somme |
 
 Directions de l'économie, de l'emploi, du travail et des solidarités de Guadeloupe, de Martinique et de La Réunion |
 
-Somme à compter du 1er octobre 2022 |
+Somme |
 
 Direction générale des populations de Guyane |
 
-Somme à compter du 1er octobre 2022 |
+Somme |
 
-NOTA :
+Direction de l'économie, de l'emploi, du travail et des solidarités de Mayotte |
 
-Conformément à l'article 6 de l'arrêté du 17 décembre 2021 (NOR : CCPE2138397A), ces dispositions prennent effet au 1er janvier 2022.
+Somme
 
-Cette date est reportée au 1er janvier 2023 pour les agents relevant des ministères :
-
-1° De l'agriculture et de l'alimentation ;
-
-2° De l'éducation nationale, de la jeunesse et des sports ;
-
-3° De la transition écologique ;
-
-4° Du travail, de l'emploi et de l'insertion ;
-
-5° Des solidarités et de la santé.
+à compter du 1er janvier 2023 |

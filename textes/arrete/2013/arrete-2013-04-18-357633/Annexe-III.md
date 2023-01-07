@@ -2,13 +2,15 @@
 
 ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRE DES ARMÉES)
 
-A-Centre ministériel de gestion d'Arcueil
+A.-Centre ministériel de gestion d'Arcueil
 
 Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnel civil et militaire relevant des cabinets |
 
@@ -20,9 +22,7 @@ Officiers généraux de première section |
 
 Tous départements |
 
-Paris à compter
-
-du 1er septembre 2022 |
+Paris |
 
 Officiers généraux de 2e section effectuant des vacations |
 
@@ -48,19 +48,19 @@ Tous départements |
 
 Paris |
 
-Personnel civil affecté au comité d'indemnisation des victimes des essais nucléaires français (CIVEN) |
+Personnel civil affecté au comité d'indemnisation des victimes des essais nucléaires (CIVEN) |
 
 Tous départements |
 
 Paris |
 
-Personnel civil mis à disposition de la Présidence de la République, des services du Premier ministre, du Cercle national des armées, de la Fondation France libre, de la Mutuelle civile de la défense de la Mutuelle nationale militaire, |
-
-Tous départements |
+Personnel civil du service de l'énergie opérationnelle affecté en administration centrale |
 
 Paris |
 
-Personnel civil et militaire relevant du commissariat des armées |
+Paris |
+
+Personnel civil mis à disposition de la Présidence de la République, des services du Premier ministre, du Cercle national des armées, de la Fondation de la France libre, de la Mutuelle civile de la défense de la Mutuelle nationale militaire, |
 
 Tous départements |
 
@@ -70,7 +70,15 @@ Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
+
+Personnel civil et militaire relevant du service du commissariat des armées |
+
+Tous départements |
+
+Paris |
 
 Personnel civil du ministère des armées mis à disposition d'organismes d'administration centrale de la gendarmerie nationale |
 
@@ -96,9 +104,9 @@ Tous départements |
 
 Paris |
 
-Personnels militaires de la direction générale de l'armement |
+Personnel civil et militaire |
 
-En poste à l'étranger |
+En poste à l'étranger hors réseau diplomatique |
 
 Paris |
 
@@ -108,13 +116,15 @@ Tous départements |
 
 Paris |
 
-B-Centre ministériel de gestion de Bordeaux
+B.-Centre ministériel de gestion de Bordeaux
 
 Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnel civil affecté en administration centrale et services déconcentrés |
 
@@ -122,21 +132,15 @@ Ariège, Aveyron, Charente, Charente-Maritime, Corrèze, Creuse, Dordogne, Haute
 
 Gironde |
 
-Catégorie de personnel |
-
-Service ou département d'affectation |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
 Personnel civil exerçant les fonctions d'agent du culte et affecté hors administration centrale |
 
 Tous départements |
 
 Gironde |
 
-Personnel civil du service industriel de l'aéronautique |
+Personnel civil du service industriel de l'aéronautique et des ateliers industriels de l'aéronautique |
 
-Gironde, Meurthe-et-Moselle, Moselle, Puy-de-Dôme et Var |
+Ain, Finistère, Gironde, Landes, Loiret, Haute-Marne, Meurthe-et-Moselle, Morbihan Moselle, Puy-de-Dôme, Haute-Saône et Var |
 
 Gironde |
 
@@ -146,13 +150,15 @@ Tous départements |
 
 Gironde |
 
-C-Centre ministériel de gestion de Metz
+C.-Centre ministériel de gestion de Metz
 
 Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnel civil affecté en administration centrale et services déconcentrés |
 
@@ -160,19 +166,27 @@ Aisne, Ardennes, Aube, Côte-d'Or, Doubs, Jura, Marne, Haute-Marne, Meurthe-et-M
 
 Paris |
 
-Personnel civil hors administration centrale dans un établissement du service des essences des armées |
+Personnel civil hors administration centrale dans un établissement du service de l'énergie opérationnelle |
 
 Tous départements |
 
 Paris |
 
-D-Centre ministériel de gestion de Rennes
+Autres personnels civils |
+
+En poste à l'étranger hors réseau diplomatique |
+
+Paris |
+
+D.-Centre ministériel de gestion de Rennes
 
 Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnel civil affecté en administration centrale et services déconcentrés |
 
@@ -180,25 +194,15 @@ Calvados, Cher, Côtes d'Armor, Eure, Eure-et-Loir, Finistère, Ille-et-Vilaine,
 
 Gironde |
 
-Catégorie de personnel |
-
-Service ou département d'affectation |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
-Personnel civil du service industriel de l'aéronautique |
-
-Ain, Finistère, Morbihan |
-
-Gironde |
-
-E-Centre ministériel de gestion de Saint-Germain-en-Laye
+E.-Centre ministériel de gestion de Saint-Germain-en-Laye
 
 Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnel civil affecté en administration centrale et services déconcentrés |
 
@@ -206,7 +210,7 @@ Oise, Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Deni
 
 Gironde |
 
-Personnel civil affecté hors administration centrale et appartenant aux corps des fonctionnaires paramédicaux du ministère de la défense |
+Corps des fonctionnaires paramédicaux du ministère des armées |
 
 Tous départements |
 
@@ -223,12 +227,6 @@ Personnel civil affecté hors administration centrale dans un établissement du 
 Tous départements |
 
 Gironde |
-
-Catégorie de personnel |
-
-Service ou département d'affectation |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Personnel civil à statut ouvrier des branches professionnelles 9 et 15 affecté hors administration centrale dans un établissement du service de santé des armées |
 
@@ -248,55 +246,69 @@ Djibouti, Dakar |
 
 Gironde |
 
-F-Centre ministériel de gestion de Toulon
+F.-Centre ministériel de gestion de Toulon
 
 Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnel civil affecté en administration centrale et services déconcentrés |
 
 Ain, Allier, Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ardèche, Aude, Bouches-du-Rhône, Cantal, Corse-du-Sud, Haute-Corse, Drôme, Gard, Hérault, Isère, Loire, Haute-Loire, Lozère, Puy-de-Dôme, Pyrénées-Orientales, Rhône, Savoie, Haute-Savoie, Var, Vaucluse |
 
-Ille-et-Vilaine |
+Marne
+
+à compter du 1er janvier 2023 |
 
 Personnel civil affecté hors administration centrale dans un établissement de la direction générale de l'armement |
 
 Tous départements |
 
-Ille-et-Vilaine |
+Marne
+
+à compter du 1er janvier 2023 |
 
 Personnel civil relevant du corps des ingénieurs civils des travaux maritimes |
 
 Tous départements |
 
-Ille-et-Vilaine |
+Marne
 
-G-Naval Group
+à compter du 1er janvier 2023 |
+
+G.-Naval Group
 
 Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnel à statut ouvrier mis à disposition de l'entreprise Naval Group |
 
 Toutes affectations |
 
-Ille-et-Vilaine |
+Marne
 
-H-Directions des commissariats outre-mer
+à compter du 1er janvier 2023 |
+
+H.-Directions des commissariats outre-mer
 
 Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
 
-Directions des commissariats outre-mer |
+sans ordonnancement préalable |
+
+Personnel civil affecté dans les directions des commissariats outre-mer Directions des commissariats outre-mer |
 
 Guadeloupe, Guyane, Martinique |
 
@@ -309,19 +321,3 @@ La Réunion |
 Mayotte |
 
 La Réunion |
-
-NOTA :
-
-Conformément à l'article 6 de l'arrêté du 17 décembre 2021 (NOR : CCPE2138397A), ces dispositions prennent effet au 1er janvier 2022.
-
-Cette date est reportée au 1er janvier 2023 pour les agents relevant des ministères :
-
-1° De l'agriculture et de l'alimentation ;
-
-2° De l'éducation nationale, de la jeunesse et des sports ;
-
-3° De la transition écologique ;
-
-4° Du travail, de l'emploi et de l'insertion ;
-
-5° Des solidarités et de la santé.
