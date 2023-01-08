@@ -1730,23 +1730,7 @@ France |
 
 |
 
-JUNIOR |
-
-France |
-
-15.07.2017 |
-
-|
-
-REKOR |
-
-France |
-
-15.07.2017 |
-
-|
-
-LABEL 48 |
+THOR (LABEL 48) |
 
 France |
 
@@ -1776,29 +1760,29 @@ France |
 
 15.07.2017 |
 
-BRETAGNE PORC SÉLECTION
-
-Route de Saint-Brieuc
-
-22800 Saint-Donan
-
-Date d'agrément : 01.07.2014 |
+GAMMA |
 
 |
 
-LARGE WHITE X LANDRACE FRANÇAIS |
-
 France |
 
-01.07.2014 |
+29.12.2022 |
 
 |
 
-PIÉTRAIN X LARGE WHITE |
+AXA |
 
 France |
 
-01.07.2014 |
+29.12.2022 |
+
+|
+
+VENUS |
+
+France |
+
+29.12.2022 |
 
 CHOICE GENETICS FRANCE
 
@@ -1881,54 +1865,6 @@ France |
 |
 
 TITAN |
-
-France |
-
-01.07.2014 |
-
-DANAVL FRANCE
-
-52 boulevard de Sébastopol
-
-75003 PARIS
-
-Date d'agrément : 15.07.2017 |
-
-DANBRED LANDRACE |
-
-|
-
-France |
-
-15.07.2017 |
-
-DANBRED YORKSHIRE |
-
-|
-
-France |
-
-15.07.2017 |
-
-|
-
-DANBRED HYBRID |
-
-France |
-
-15.07.2017 |
-
-HORIZON +
-
-ZA La Bourdinière
-
-28330 Coudray au Perche
-
-Date d'agrément : 01.07.2014 |
-
-PIÉTRAIN HORIZON + |
-
-|
 
 France |
 
