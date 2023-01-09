@@ -1,0 +1,54 @@
+# Fusion des filières à responsabilité élargie des producteurs d’emballages ménagers et des producteurs de papier
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N46965
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/fusion_filieres_responsabilite_elargie_emballages_menagers
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl22-305.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-01-09 : 1er dépôt d'une initiative. (PIONANR5L16B0676)
+  - 2023-01-10 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-01-09 : Renvoi en commission au fond
+      - 2023-01-12 : Nomination de rapporteur
+      - 2023-01-25 : Réunion de commission
+      - 2023-01-25 : Réunion de commission
+      - 2023-01-31 : Réunion de commission
+      - 2023-01-25 : Dépôt de rapport (RAPPANR5L16B0763, PIONANR5L16BTC0763)
+    - Travaux d'une commission saisie pour avis
+      - 2023-01-10 : Saisine pour avis d'une commission
+      - 2023-01-17 : Nomination de rapporteur
+      - 2023-01-17 : Réunion de commission
+      - 2023-01-24 : Réunion de commission
+  - Discussion en séance publique
+    - 2023-01-31 : Discussion en séance publique
+    - 2023-01-31 : Discussion en séance publique
+    - 2023-01-31 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-02-01 : Dépôt d'une initiative en navette (PIONSNR5S399B0305)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-02-01 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-03-15 : Dépôt de rapport (RAPPSNR5S399B0425, PIONSNR5S399BTC0426)
+  - Discussion en séance publique
+    - 2023-03-21 : Décision
+- Commission Mixte Paritaire
+  - 2023-03-22 : Dépôt d'un projet de loi (PIONANR5L16B1002)
+  - 2023-03-22 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2023-03-30 : Nomination de rapporteur
+    - 2023-03-30 : Dépôt du rapport d'une CMP (RAPPSNR5S399B0485, PIONSNR5S399BTC0486)
+    - 2023-03-30 : Dépôt du rapport d'une CMP (RAPPANR5L16B1029, PIONANR5L16BTC1029)
+  - Discussion en séance publique
+    - 2023-04-11 : Discussion en séance publique
+    - 2023-04-11 : Décision
+  - Discussion en séance publique
+    - 2023-04-13 : Décision
+  - 2023-03-30 : Décision de la CMP
+- Promulgation de la loi
+  - 2023-04-24 : Promulgation d'une loi
