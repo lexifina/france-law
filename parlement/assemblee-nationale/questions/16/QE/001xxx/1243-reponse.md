@@ -1,0 +1,9 @@
+# Réponse à la question n° 1243
+
+- Question : [1243](1243.md) — Question n° 1243 — Lutte contre la désinformation relative à la guerre en Ukraine
+
+## Réponse
+
+*JO du 2023-01-10, page 251*
+
+Depuis le début de sa guerre d'agression contre l'Ukraine, la Russie a renforcé sa stratégie de désinformation offensive. Ces campagnes de désinformation contre l'État et la population ukrainienne visent notamment à légitimer l'usage illégal et immoral de la force par la Russie et à masquer ses violations graves du droit international humanitaire. Ces actions s'ajoutent aux manipulations de l'information menées par la Russie depuis plusieurs années, et qui visent également la France. Le centre de lutte contre la désinformation au Conseil national de sécurité et de défense de l'Ukraine a été établi au printemps 2021 pour contrer la propagande et les campagnes de désinformation qui portent atteinte à la sécurité nationale de l'Ukraine, en particulier depuis 2014. Sa mise en place constitue un instrument supplémentaire dont l'Ukraine à souhaité se doter pour répondre au nombre croissant d'attaques hybrides dont elle fait l'objet de la part de la Russie. Il ne revient pas au ministère de l'Europe et des affaires étrangères de commenter les analyses émises par ce centre. La France, en coopération avec ses partenaires internationaux, est déterminée à combattre la désinformation à travers le monde et à promouvoir le renforcement de la résilience des démocraties face à la désinformation. Comme l'a souligné à plusieurs reprises le Président de la République lors de ses échanges avec son homologue ukrainien, la France est pleinement solidaire de l'Ukraine et continuera de la soutenir, aussi longtemps qu'il le faudra, dans les domaines politique, militaire, financier, humanitaire, mais également en matière de résilience, de reconstruction et de lutte contre l'impunité pour les responsables de crimes.
