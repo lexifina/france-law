@@ -1,0 +1,9 @@
+# Réponse à la question n° 2657
+
+- Question : [2657](2657.md) — Question n° 2657 — Revalorisation des pensions militaires d'invalidité
+
+## Réponse
+
+*JO du 2023-01-10, page 219*
+
+Les modalités d'actualisation annuelle de la valeur du point d'indice des pensions militaires d'invalidité (PMI) sont fixées à l'article R. 125-1 du code des pensions militaires d'invalidité et des victimes de guerre (CPMIVG), dans sa version issue du décret n° 2022-128 du 4 février 2022. Il était ainsi prévu que la valeur du point PMI soit réévaluée à partir du 1er janvier 2024 au vu de l'évolution cumulée de l'indice de traitement brut – grille indiciaire de la fonction publique de l'État (ITB-GI) constatée du troisième trimestre de l'année N-2 au deuxième trimestre de l'année N-1 inclus. Pour l'année 2023, le décret du 4 février 2022 prévoyait un dispositif transitoire avec une revalorisation au 1er janvier sur la base de l'évolution cumulée de l'ITB-GI sur les deux premiers trimestres de l'année 2022, sans rétroactivité. L'application de cette règle aurait dû porter la valeur du point de PMI au 1er janvier 2023 à 15,13 euros. Toutefois, afin de répondre à la problématique de hausse de l'inflation dans le contexte économique actuel, le Gouvernement a décidé de prendre en compte l'évolution de l'ITB-GI du troisième trimestre 2022 dès le 1er janvier 2023, au lieu du 1er janvier 2024. Cela permet de répercuter sur la valeur du point PMI, avec un an d'avance, l'augmentation de la valeur du point d'indice de la fonction publique de 3,5 % intervenue le 1er juillet 2022. Ainsi, conformément à l'arrêté du 23 décembre 2022 pris en application du décret n° 2022-128 du 4 février 2022 modifiant les modalités de fixation de la valeur du point de pension militaire d'invalidité, également publié au Journal officiel du 27 décembre dernier, la valeur du point PMI s'élève depuis le 1er janvier 2023 à 15,59 euros.
