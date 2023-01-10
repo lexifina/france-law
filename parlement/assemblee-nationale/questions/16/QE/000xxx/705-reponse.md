@@ -1,0 +1,9 @@
+# Réponse à la question n° 705
+
+- Question : [705](705.md) — Question n° 705 — Aide exceptionnelle de 200 euros pour le BAFA
+
+## Réponse
+
+*JO du 2023-01-10, page 255*
+
+Consciente du nombre insuffisant de personnels de l'animation au sein des accueils collectifs de mineurs et du coût financier des formations qui peut être un obstacle pour accéder aux qualifications, la secrétaire d'État chargée de la jeunesse et du service national universel a réuni les acteurs du champ de l'animation lors des Assises de l'animation d'octobre 2021 à février 2022 dans l'objectif, notamment, d'en favoriser l'accès aux jeunes. De manière exceptionnelle et afin de répondre à l'urgence de la situation, le ministère de l'éducation nationale et de la jeunesse a lancé une campagne nationale de soutien aux parcours de formation BAFA, en proposant une aide universelle exceptionnelle de 200 € à destination des stagiaires en cours de formation BAFA qui s'inscriraient à une session d'approfondissement ou de qualification entre le 1er janvier et le 31 décembre 2022. Afin d'assurer le financement de cette mesure, 4 M€ ont été délégués aux délégations régionales académiques à la jeunesse, à l'engagement et aux sports (DRAJES). Cette délégation a permis un versement, sous forme de subvention aux organismes de formation, permettant à ces derniers de décompter du coût de la formation les 200 €. Les montants mobilisés étant consommés au 30 juin 2022, il a été procédé à une délégation complémentaire de crédits. Au-delà de l'aide exceptionnelle, et donc en vue d'apporter une réponse structurelle à la pénurie d'animateurs, la secrétaire d'État a installé un comité de filière animation le 20 octobre. Ce sont ainsi tous les acteurs de l'animation qui sont rassemblés pour déployer une stratégie coordonnée. Pour mémoire, l'Etat n'est pas l'employeur des animateurs. Son rôle est donc de piloter la structuration du secteur. Il le joue pleinement.
