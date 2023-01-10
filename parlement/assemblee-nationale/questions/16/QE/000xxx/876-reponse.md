@@ -1,0 +1,9 @@
+# Réponse à la question n° 876
+
+- Question : [876](876.md) — Question n° 876 — Revalorisation des retraites agricoles
+
+## Réponse
+
+*JO du 2023-01-10, page 221*
+
+Le complément différentiel de points de retraite complémentaire obligatoire (CD de RCO), prévu à l'article L. 732-63 du code rural et de la pêche maritime, a pour objet de porter le total des droits propres, de base et complémentaires, des chefs d'exploitation ou d'entreprise agricole, ayant eu une carrière complète en cette qualité, à un montant minimal. Outre la perception d'une pension tous régimes inférieure à 85% du SMIC, l'éligibilité au CD de RCO est soumise à trois conditions : la liquidation intégrale des droits personnels à retraite, une durée d'assurance en qualité de chef d'exploitation ou d'entreprise agricole supérieure à 17,5 ans et l'obtention du taux plein par la durée d'assurance. À l'inverse, en application de l'article L. 781-40 du code rural et de la pêche maritime, dans les territoires ultra-marins, l'obtention du taux plein par l'âge ou par le statut, comme l'obtention du taux plein par la durée d'assurance, permet de bénéficier du CD de RCO. Cet aménagement s'explique par la situation particulière de ces territoires et notamment un contexte économique moins favorable qu'en métropole. Au deuxième trimestre de 2022 le taux de chômage s'établit dans les quatre DOM historiques (Guadeloupe, Martinique, Guyane et La Réunion) entre 13,1 % et 18,8 %, contre 7,2 % en France métropolitaine (INSEE) ; et les carrières heurtées y sont plus nombreuses et plus pénalisantes. La concertation en cours menée par Olivier Dussopt avec les partenaires sociaux sur le projet de réforme des retraites sera l'occasion d'une réflexion sur la simplification des conditions d'accès au CD de RCO en France métropolitaine.
