@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701818
+
+- Question : [SEQ220701818](seq220701818.md) — Secret professionnel des psychologues
+
+## Réponse
+
+*Santé et prévention, JO du 2023-01-12, page 209*
+
+Le secret professionnel constitue une obligation et peut également constituer une infraction pénale, en cas de violation de cette obligation, ainsi que le dispose l'article 226-13 du code pénal. Le cadre légal posé par l'article 226-13 du code pénal prévoit qu'il est possible d'être soumis au secret professionnel soit par état ou par profession, soit en raison d'une fonction ou d'une mission temporaire. Conformément à l'article L. 121-6 du code général de la fonction publique, les psychologues appartenant à la fonction publique, en tant qu'agents publics, sont tenus au secret professionnel dans le respect des articles 226-13 et 226-14 du code pénal. A l'instar des psychologues agents publics, les psychologues libéraux sont tenus au secret professionnel, au sens de l'article 226-13 du code pénal. Cette disposition s'applique par conséquent aux psychologues de manière générale, ainsi que l'estime la Cour de cassation (Crim., 5 janvier 2011, n° 10-84.136). Bien que les psychologues libéraux ne soient pas soumis au secret professionnel par état, dès lors qu'aucun élément légal ne le prévoit, ils peuvent néanmoins l'être « par profession », ou en raison d'une « fonction ou mission temporaire ». Ce dernier cas intervient de manière ponctuelle et quand la loi le prévoit. Il s'agira en effet notamment d'activités dans le cadre d'une commission ou d'une instance. En conséquence, en dehors des cas où la loi impose ou autorise la révélation du secret et des cas énumérés à l'article 226-14 du code pénal, l'obligation de respecter le secret professionnel, au sens de l'article 226-13 du code pénal, s'applique aux psychologues, non en raison de leur titre, mais par profession, ou en raison d'une fonction ou d'une mission temporaire.
