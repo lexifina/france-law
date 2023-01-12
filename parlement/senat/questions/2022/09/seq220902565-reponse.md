@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902565
+
+- Question : [SEQ220902565](seq220902565.md) — Maintien de la marque Sud-de-France pour les productions viti-vinicoles
+
+## Réponse
+
+*Agriculture et souveraineté alimentaire, JO du 2023-01-12, page 157*
+
+La réglementation européenne relative aux indications géographiques dans le secteur viticole est très restrictive. Elle réserve ainsi l'utilisation d'une mention géographique aux seules étiquettes des vins bénéficiant d'une appellation d'origine protégée (AOP) ou d'une indication géographique protégée (IGP) dont le cahier des charges prévoit la référence spécifique à une unité géographique plus grande que celle de l'AOP ou de l'IGP. Cette notion d'unité géographique est précisément définie à l'article 55 du règlement délégué (UE) n° 2019/33. Cette réglementation protectrice des efforts des opérateurs sous IG est historiquement le fruit de longs débats au niveau européen, sur lesquels la France a toujours été en première ligne et qu'elle continue à porter depuis au niveau international. La dénomination « Sud de France » ne correspond pas à une unité géographique au sens du règlement précité. Il n'est donc pas possible de l'intégrer dans les cahiers des charges des AOP ou IGP concernées, ni de la faire figurer par conséquent sur l'étiquetage de bouteilles de vin. Elle peut toutefois continuer à être utilisée en tant que bannière collective visant à promouvoir des produits sur des salons, sous forme de stands notamment. Les services de l'État, en lien avec l'institut national de l'origine et de la qualité, échangent actuellement de façon étroite avec les services de la région Occitanie pour normaliser la situation et définir les conditions de poursuite de la promotion d'une marque d'identité régionale qui soit compatible avec la réglementation européenne sur les IG viticoles.
