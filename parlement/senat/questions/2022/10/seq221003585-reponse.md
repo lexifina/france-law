@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003585
+
+- Question : [SEQ221003585](seq221003585.md) — Communication numérique des documents d'urbanisme par les communes et exemptions tolérées
+
+## Réponse
+
+*Transition écologique et cohésion des territoires, JO du 2023-01-12, page 234*
+
+La publication dématérialisée des documents d'urbanisme sur le portail national de l'urbanisme est une obligation depuis le 1er janvier 2020. Le site internet « Géoportail de l'urbanisme » constitue ce portail national. Il est accessible à cette adresse : https://www.geoportail-urbanisme.gouv.fr/ L'ordonnance n° 2021-1310 du 7 octobre 2021, dont les dispositions en matière d'urbanisme entrent en vigueur au 1er janvier 2023, est venue renforcer cette obligation en procédant à la réécriture des articles L. 143-24 et L. 153-23 du code de l'urbanisme. Ainsi, à compter du 1er janvier 2023, la publication des schémas de cohérence territoriale (SCoT) et des plans locaux d'urbanisme (PLU) sur le portail national de l'urbanisme devient, avec la transmission au préfet au titre du contrôle de légalité, la condition qui confère à l'acte son caractère exécutoire. L'absence de publication d'un SCoT ou d'un PLU approuvé sur le portail national de l'urbanisme après le 1er janvier 2023 ne permettra pas à ces documents d'être exécutoires. Aucune sanction financière n'est en revanche prévue. L'ordonnance n° 2021-1310 prévoit qu'en cas de publication électronique empêchée pour des raisons liées au fonctionnement du portail national de l'urbanisme ou à des difficultés techniques avérées, les documents d'urbanisme peuvent être rendus publics dans les conditions du droit commun prévues par le code général des collectivités territoriales. La collectivité locale dispose ensuite de 6 mois pour publier son document d'urbanisme au format électronique sur le portail national de l'urbanisme.
