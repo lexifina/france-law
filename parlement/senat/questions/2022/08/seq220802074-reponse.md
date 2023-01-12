@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802074
+
+- Question : [SEQ220802074](seq220802074.md) — Panneaux routiers en rase campagne
+
+## Réponse
+
+*Transition écologique et cohésion des territoires, JO du 2023-01-12, page 233*
+
+De manière générale, des panneaux souhaitant la bienvenue dans une région ou indiquant l'arrivée dans une intercommunalité répondent à la définition de la publicité figurant à l'article L. 581-3 du code de l'environnement, s'agissant d'inscriptions destinées à attirer l'attention du public. Les dispositions dudit code régissant l'affichage publicitaire leur sont donc applicables, notamment l'article L. 581-7 de ce code interdisant la publicité hors agglomération. Dans le cadre du code de la route, des panneaux spécifiques sont toutefois prévus pour permettre à l'usager de se situer sur l'itinéraire qu'il s'est fixé ou de l'informer qu'il a atteint sa destination en lui donnant des éléments de repérage pour faire le lien entre la carte et la situation sur le terrain, comme le nom d'une agglomération ou d'une région. Ainsi, le panneau de localisation d'entrée d'agglomération, dit EB10, est défini à l'article 99-2 de l'instruction interministérielle sur la signalisation routière du 22 octobre 1963. À ce jour, aucune autre mention que le nom de l'agglomération, et éventuellement celui de commune s'il est différent, n'est autorisée. La signalisation d'une intercommunalité n'est pas prévue. L'article 99-3 de l'instruction précitée prévoit quant à lui des panneaux dits E30 pour signaler le nom des lieux traversés par la route, à l'exclusion des agglomérations. Plus précisément, le panneau dit E36 est utilisé pour localiser un département ou une région administrative. Le dessin identifiant la région ou le département est libre et le mot « bienvenue » est toléré dans ce cas.
