@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204559
+
+- Question : [SEQ221204559](seq221204559.md) — Dispositif Pass'sport pour les foyers ruraux
+
+## Réponse
+
+*Sports, jeux Olympiques et Paralympiques, JO du 2023-01-12, page 228*
+
+Favoriser la pratique d'une activité physique et sportive pour tous est une priorité pour le ministère des sports et des jeux Olympiques et Paralympiques (MSJOP) et le dispositif Pass'Sport participe à l'atteinte de cet objectif. Le dispositif Pass'Sport s'adresse aujourd'hui aux seules associations sportives affiliées aux fédérations agréées par le ministère ainsi qu'aux associations sportives agréées domiciliées dans les quartiers prioritaires de la ville (QPV) pour soutenir, en sortie de la crise sanitaire du covid-19, le mouvement sportif affaibli et la demande sur les QPV. En 2022, le dispositif a été élargi aux étudiants boursiers et, pour ce public, au secteur loisir sportif marchand dans cinq départements (Nord, Pas-de-Calais, Essonne, Seine-Saint-Denis et Seine-et-Marne) afin d'expérimenter une nouvelle offre sportive. Un bilan du dispositif 2022 sera réalisé avant de décider d'éventuels ajustements du dispositif en 2023 et, peut-être, de l'ouvrir à l'ensemble des associations agréées « jeunesse éducation populaire » ou « sport » sur la France entière, s'il apparaît effectivement que l'accueil sur certains territoires est insuffisant pour répondre aux attentes des bénéficiaires. Il est par ailleurs à noter qu'au vu des premières données collectées, les meilleurs taux de recours au Pass'Sport sont situés dans des départements ruraux : Lozère, Hautes-Alpes, Ardèche, Ariège, Mayenne, etc.
