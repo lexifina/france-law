@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701627
+
+- Question : [SEQ220701627](seq220701627.md) — Relogement de locataires suite à arrêté de péril
+
+## Réponse
+
+*Transition écologique et cohésion des territoires, JO du 2023-01-12, page 231*
+
+Si le risque de glissement de terrain émane, à titre prépondérant, de causes qui sont propres à l'immeuble, l'autorité locale compétente (le maire ou le président de l'établissement public de coopération intercommunale (EPCI) à fiscalité propre) peut mobiliser les procédures de la police spéciale de lutte contre l'habitat indigne qui sont tirées des articles L. 511-1 et suivants du code de la construction et de l'habitation (CCH) (CE, 28 septembre 2022, n° 465405 qui a confirmé l'arrêt de principe CE, 31 mars 2006, n° 279664, consorts Perone). Un arrêté de mise en sécurité avec interdiction d'habiter (à titre temporaire ou définitif) devra être pris à l'encontre - selon le contexte - du propriétaire occupant, du propriétaire bailleur ou de l'exploitant. Si la personne tenue de réaliser les mesures prescrites est le propriétaire bailleur, ce dernier a alors l'obligation d'héberger ou de reloger les occupants conformément aux dispositions de l'article L. 511-18 du CCH. L'autorité locale compétente peut prendre en charge le relogement des locataires dans deux hypothèses : d'une part, en cas de défaillance du propriétaire, elle peut agir par substitution en application de l'article L. 521-3-2 du CCH et les frais engagés feront alors l'objet d'un titre de perception à l'encontre de ce dernier ; d'autre part, lorsque le risque de glissement de terrain n'émane pas à titre prépondérant de causes qui sont propres à l'immeuble ou lorsque la situation présente une urgence créant un péril particulièrement grave et imminent, le maire peut faire usage des pouvoirs de police administrative générale définis par les articles L. 2212-2 (notamment son 5°) et L. 2212-4 du code général des collectivités territoriales.
