@@ -1,0 +1,5 @@
+# Article 1er
+
+Le champ d'application du présent accord est celui défini à l'article 1er de la convention collective nationale de la charcuterie de détail (IDCC 953 Journal officiel, brochure n° 3133).
+
+La branche de la charcuterie de détail étant majoritairement constituée de TPE-PME dont l'effectif moyen est de 5 salariés au vu des données statistiques dont elle dispose, les partenaires sociaux conviennent qu'il n'y a pas lieu de prévoir de dispositions spécifiques aux entreprises de moins de 50 salariés.
