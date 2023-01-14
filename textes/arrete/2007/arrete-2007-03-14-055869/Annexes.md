@@ -4,203 +4,99 @@ CRITÈRES DE QUALITÉ DE L'EAU MINÉRALE NATURELLE, DE L'EAU DE SOURCE ET DE L'E
 
 A. - Limites de qualité microbiologiques
 
-PARAMÈTRES (**)
+PARAMÈTRES (*) |
 
-|
+LIMITES
 
-LIMITES DE QUALITÉ
+DE QUALITÉ |
 
-|
+UNITÉS |
 
-UNITÉS
+NOTES |
 
-|
+Escherichia coli. |
 
-NOTES
+0 |
 
-|
+Nombre par 250 mL |
 
-Escherichia coli.
+A l'émergence (***) et au cours de la commercialisation. |
 
-|
+Entérocoques intestinaux. |
 
-0
+0 |
 
-|
+Nombre par 250 mL |
 
-Nombre par
+A l'émergence (***) et au cours de la commercialisation. |
 
-250 ml
+Spores de micro-organismes anaérobies sulfito-réducteurs. |
 
-|
+0 |
 
-A l'émergence (***) et au cours de la commercialisation.
+Nombre par 50 mL |
 
-|
+A l'émergence (***) et au cours de la commercialisation. |
 
-Entérocoques.
+Pseudomonas aeruginosa. |
 
-|
+0 |
 
-0
-
-|
-
-Nombre par
-
-250 ml
-
-|
+Nombre par 250 mL |
 
 A l'émergence (***) et au cours de la commercialisation.
 
-|
+Les analyses sont commencées au moins trois jours après le prélèvement au captage, le conditionnement et les échantillons conservés à température ambiante. |
 
-Bactéries sulfito-réductrices, y compris les spores.
+Coliformes totaux. |
 
-|
+0 |
 
-0
+Nombre par 250 mL |
 
-|
+A l'émergence (***) et au cours de la commercialisation. |
 
-Nombre par
+Numération de germes aérobies revivifiables mesurés à 22° C. |
 
-50 ml
+- |
 
-|
+Nombre par mL |
 
-A l'émergence (***) et au cours de la commercialisation.
+A l'émergence (***), la numération de germes aérobies revivifiables mesurés à 22° C devrait être inférieure à 20 par millilitre. |
 
-|
+100 |
 
-Pseudomonas aeruginosa.
+Nombre par mL |
 
-|
+Au cours de la commercialisation, la teneur doit être mesurée dans les 12 heures suivant le conditionnement. |
 
-0
+Numération de germes aérobies revivifiables mesurés à 36° C. |
 
-|
+- |
 
-Nombre par
+Nombre par mL |
 
-250 ml
+A l'émergence (***), la numération de germes aérobies revivifiables mesurés à 36° C devrait être inférieure à 5 par millilitre. |
 
-|
+20 |
 
-A l'émergence (***) et au cours de la commercialisation.
+Nombre par mL |
 
-Les analyses sont commencées au moins trois jours après le prélèvement au captage, le conditionnement et les échantillons conservés à température ambiante.
+Au cours de la commercialisation, la teneur doit être mesurée dans les 12 heures suivant le conditionnement. |
 
-|
+Microorganismes pathogènes (**) : Cryptosporidium, Giardia, Legionella species et Legionella pneumophila. |
 
-Coliformes totaux.
+Non détectés |
 
-|
+Nombre par volume filtré |
 
-0
+A l'émergence (***) et au cours de la commercialisation. Le volume filtré doit être celui préconisé dans la méthode normalisée lorsqu'elle existe. |
 
-|
+(*) Paramètres analysés selon les méthodes fixées dans l'arrêté du 19 octobre 2017 modifié relatif aux méthodes d'analyse utilisées dans le cadre du contrôle sanitaire des eaux.
 
-Nombre par
+(**) A rechercher en cas de suspicion de contamination.
 
-250 ml
-
-|
-
-A l'émergence (***) et au cours de la commercialisation.
-
-|
-
-Numération de germes aérobies revivifiables mesurés à 22 oC.
-
-|
-
--
-
-|
-
-Nombre
-
-par ml
-
-|
-
-A l'émergence (***).
-
-|
-
-100
-
-|
-
-Nombre
-
-par ml
-
-|
-
-Au cours de la commercialisation, la teneur doit être mesurée dans les 12 heures suivant le conditionnement, l'eau étant maintenue à 4 degrés Celsius (+/- 1 degré Celsius) pendant cette période de douze heures.
-
-|
-
-Numération de germes aérobies revivifiables mesurés à 37 oC.
-
-|
-
--
-
-|
-
-Nombre
-
-par ml
-
-|
-
-A l'émergence (***).
-
-|
-
-20
-
-|
-
-Nombre
-
-par ml
-
-|
-
-Au cours de la commercialisation, la teneur doit être mesurée dans les 12 heures suivant le conditionnement, l'eau étant maintenue à 4 degrés Celsius (+/- 1 degré Celsius) pendant cette période de douze heures.
-
-|
-
-Microorganismes pathogènes (*) : Cryptosporidium, Giardia, Legionella species et Legionella pneumophila.
-
-|
-
-Non détectés
-
-|
-
-Nombre par
-
-volume filtré
-
-|
-
-A l'émergence (***) et au cours de la commercialisation. Le volume filtré doit être celui préconisé dans la méthode normalisée lorsqu'elle existe.
-
-|
-
-(*) A rechercher en cas de suspicion de contamination.
-
-(**) Arrêté du 17 septembre 2003 relatif aux méthodes d'analyse des échantillons d'eau et à leurs caractéristiques de performance.
-
-(***) Ne s'applique pas aux eaux brutes utilisées pour la production d'eau rendue potable par traitements conditionnée.
-
-|
+(***) Ne s'applique pas aux eaux brutes utilisées pour la production d'eau rendue potable par traitements conditionnée. |
 
 B. - Paramètres physico-chimiques
 
@@ -482,435 +378,377 @@ Tableau B-2. Limites de qualité physico-chimiques pour l'eau de source
 
 et de l'eau rendue potable par traitement conditionnées
 
-PARAMÈTRES
+PARAMÈTRES |
 
-|
-
-LIMITES DE QUALITÉ
-
-|
-
-UNITÉS
-
-|
-
-NOTES
-
-|
-
-Acrylamide.
-
-|
-
-0,10
-
-|
-
-µg/l
-
-|
-
-La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau, calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
-
-|
-
-Antimoine.
-
-|
-
-5,0
-
-|
-
-µg/l
-
-|
+LIMITES
 
-|
-
-Arsenic.
-
-|
-
-10
-
-|
+DE QUALITÉ |
 
-µg/l
+UNITÉS |
 
-|
-
-|
-
-Benzène.
+NOTES |
 
-|
-
-1,0
+Acides haloacétiques. |
 
-|
+60 |
 
-µg/l
+µg/ L |
 
-|
+On entend la somme des 5 paramètres suivants : acide chloroacétique, dichloroacétique et trichloroacétique, et acide bromoacétique et dibromoacétique. |
 
-|
+Acrylamide. |
 
-Benzo[a]pyrène.
+0,10 |
 
-|
+µg/ L |
 
-0,010
+. |
 
-|
+Antimoine. |
 
-µg/l
+10 |
 
-|
+µg/ L |
 
 |
 
-Bore.
+Arsenic. |
 
-|
+10 |
 
-1,0
+µg/ L |
 
 |
-
-mg/l
 
-|
+Benzène. |
 
-|
+1,0 |
 
-Bromates.
+µg/ L |
 
 |
 
-3 pour les eaux de source
+Benzo [a] pyrène. |
 
-10 pour les eaux rendues
+0,010 |
 
-potables par traitement
+µg/ L |
 
 |
 
-µg/l
+Bisphénol A. |
 
-|
-
-Pour les eaux rendues potables par traitement, la valeur la plus faible possible inférieure à cette limite doit être visée sans pour autant compromettre la désinfection.
-
-|
+2,5 |
 
-Cadmium.
+µg/ L |
 
 |
 
-5,0
+Bore. |
 
-|
-
-µg/l
+1,5 |
 
-|
+mg/ L |
 
-|
+La limite de qualité est fixée à 2,4 mg/ L lorsque de l'eau dessalée est principalement utilisée ou dans les zones géographiques où les conditions géologiques pourraient occasionner des niveaux élevés de bore dans les eaux souterraines. |
 
-Chlorure de vinyle.
+Bromates. |
 
-|
+3 pour les eaux de source 10 pour les eaux rendues potables par traitement |
 
-0,5
+µg/ L |
 
-|
+Pour les eaux rendues potables par traitement, la valeur la plus faible possible inférieure à cette limite doit être visée sans pour autant compromettre la désinfection. |
 
-µg/l
+Cadmium. |
 
-|
+5,0 |
 
-La limite de qualité se réfère également à la concentration résiduelle en monomères dans l'eau, calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
+µg/ L |
 
 |
 
-Chrome.
+Chlorates. |
 
-|
+0,25 |
 
-50
+mg/ L |
 
-|
+Pour les eaux rendues potables par traitement conditionnées, la limite de qualité est fixée à 0,70 mg/ L lorsqu'une méthode de désinfection qui génère des chlorates est utilisée.
 
-µg/l
+La valeur la plus faible possible inférieure à cette limite doit être visée sans pour autant compromettre la désinfection. |
 
-|
+Chlorites. |
 
-|
+0,25 |
 
-Cuivre.
+mg/ L |
 
-|
+Pour les eaux rendues potables par traitement conditionnées, la limite de qualité est fixée à 0,70 mg/ L lorsqu'une méthode de désinfection qui génère des chlorates est utilisée.
 
-2,0
+La valeur la plus faible possible inférieure à cette limite doit être visée sans pour autant compromettre la désinfection. |
 
-|
+Chlorure de vinyle. |
 
-mg/l
+0,5 |
 
-|
+µg/ L |
 
-|
+. |
 
-Cyanures totaux.
+Chrome. |
 
-|
+25 |
 
-50
+µg/ L |
 
-|
+La limite de qualité est fixée à 50 µg/ L jusqu'au 31 décembre 2035.
 
-µg/l
+En cas de valeur supérieure à 6 µg/ L, il est procédé à l'analyse du chrome VI. |
 
-|
+Chrome VI. |
 
-|
+6 |
 
-1,2-dichloroéthane.
+µg/ L |
 
 |
 
-3,0
+Cuivre. |
 
-|
-
-µg/l
+2,0 |
 
-|
+mg/ L |
 
 |
 
-Epichlorhydrine.
+Cyanures totaux. |
 
-|
+50 |
 
-0,10
+µg/ L |
 
 |
 
-µg/l
+1,2-dichloroéthane. |
 
-|
+3,0 |
 
-La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau, calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
+µg/ L |
 
 |
 
-Fluorures.
+Epichlorhydrine. |
 
-|
+0,10 |
 
-1,5
+µg/ L |
 
 |
 
-mg/l
-
-|
+Fluorures. |
 
-|
+1,5 |
 
-Hydrocarbures aromatiques polycycliques (HAP).
+mg/ L |
 
 |
 
-0,10
+Hydrocarbures aromatiques polycycliques (HAP). |
 
-|
+0,10 |
 
-µg/l
+µg/ L |
 
-|
+Pour la somme des composés suivants : benzo [b] fluoranthène, benzo [k] fluoranthène, benzo [ghi] pérylène, indéno [1,2,3-cd] pyrène. |
 
-Pour la somme des composés suivants : benzo[b]fluoranthène, benzo[k]fluoranthène, benzo[ghi]pérylène, indéno[1,2,3-cd]pyrène.
+Mercure. |
 
-|
+1,0 |
 
-Mercure.
+µg/ L |
 
 |
 
-1,0
+Total microcystines (*). |
 
-|
+1,0 |
 
-µg/l
+µg/ L |
 
-|
+Par total microcystines, on entend la somme de toutes les microcystines quantifiées, en considérant l'ensemble des variants, intra et extracellulaires.
 
-|
+La limite de qualité s'applique uniquement aux eaux rendues potables par traitement conditionnées d'origine superficielle. |
 
-Nickel.
+Nickel. |
 
-|
+20 |
 
-20
+µg/ L |
 
 |
 
-µg/l
+Nitrates. |
 
-|
+50 |
 
-|
+mg/ L |
 
-Nitrates.
+La somme de la concentration en nitrates divisée par 50 et de celle en nitrites divisée par 3 doit rester inférieure ou égale à 1. |
 
-|
+Nitrites. |
 
-50
+0,50 |
 
-|
+mg/ L |
 
-mg/l
+La somme de la concentration en nitrates divisée par 50 et de celle en nitrites divisée par 3 doit rester inférieure ou égale à 1.
 
-|
+Pour les eaux rendues potables par traitement, en sortie des installations de traitement, la concentration en nitrites doit être inférieure ou égale à 0,10 mg/ L. |
 
-La somme de la concentration en nitrates divisée par 50 et de celle en nitrites divisée par 3 doit rester inférieure à 1.
+Somme des
 
-|
+substances alkylées
 
-Nitrites.
+per et polyfluorées |
 
-|
+0,10 |
 
-0,1
+µg/ L |
 
-|
+On entend par la somme des substances alkylées per et polyfluorées, les substances qui sont considérées comme préoccupantes pour les EDCH et dont la liste figure ci-dessous :
 
-mg/l
+-Acide perfluorobutanoïque (PFBA)
 
-|
+-Acide perfluoropentanoïque (PFPeA)
 
-Pesticides (par substance individuelle).
+-Acide perfluorohexanoïque (PFHxA)
 
-Aldrine, dieldrine, heptachlore, heptachlorépoxyde (par substance individuelle).
+-Acide perfluoroheptanoïque (PFHpA)
 
-|
+-Acide perfluoroctanoïque (PFOA)
 
-0,10
+-Acide perfluorononanoïque (PFNA)
 
-0,03
+-Acide perfluorodécanoïque (PFDA)
 
-|
+-Acide perfluoroundécanoïque (PFUnDA)
 
-µg/l
+-Acide perfluorododécanoïque (PFDoDA)
 
-µg/l
+-Acide perfluorotridécanoïque (PFTrDA)
 
-|
+-Acide perfluorobutanesulfonique (PFBS)
 
-Par "pesticides", on entend :
+-Acide perfluoropentanesulfonique (PFPeS)
 
-- les insecticides organiques ;
+-Acide perfluorohexane sulfonique (PFHxS)
 
-- les herbicides organiques ;
+-Acide perfluoroheptane sulfonique (PFHpS)
 
-- les fongicides organiques ;
+-Acide perfluorooctane sulfonique (PFOS)
 
-- les nématocides organiques ;
+-Acide perfluorononane sulfonique (PFNS)
 
-- les acaricides organiques ;
+-Acide perfluorodécane sulfonique (PFDS)
 
-- les algicides organiques ;
+-Acide perfluoroundécane sulfonique
 
-- les rodenticides organiques ;
+-Acide perfluorododécane sulfonique
 
-- les produits antimoisissures organiques ;
+-Acide perfluorotridécane sulfonique
 
-- les produits apparentés (notamment les régulateurs de croissance) ;
+Il s'agit d'un sous-ensemble des substances alkylés per et polyfluorés qui contiennent un groupement de substances perfluoroalkylées comportant trois atomes de carbone ou plus (à savoir,-CnF2n-, n ≥ 3) ou un groupement de perfluoroalkyléthers comportant deux atomes de carbone ou plus (à savoir,-CnF2nOCmF2m −, n et m ≥ 1). |
 
-- leurs métabolites, produits de dégradation et de réaction pertinents.
+Pesticides (par substance individuelle). |
 
-|
+0,10 |
 
-Total pesticides.
+µg/ L |
 
-|
+Par pesticides, on entend :
 
-0,50
+-les insecticides organiques ;
 
-|
+-les herbicides organiques ;
 
-µg/l
+-les fongicides organiques ;
 
-|
+-les nématocides organiques ;
 
-Par total pesticides , on entend la somme de tous les pesticides individualisés détectés et quantifiés.
+-les acaricides organiques ;
 
-|
+-les algicides organiques ;
 
-Plomb.
+-les rodenticides organiques ;
 
-|
+-les produits antimoisissures organiques ;
 
-10
+-les produits apparentés (notamment les régulateurs de croissance)
 
-|
+et leurs métabolites, tels que définis à l'article 3, point 32), du règlement (CE) n° 1107/2009 du Parlement européen et du Conseil, qui sont considérés comme pertinents pour les eaux destinées à la consommation humaine.
 
-µg/l
+Un métabolite de pesticide est jugé pertinent pour les eaux destinées à la consommation humaine s'il y a lieu de considérer qu'il possède des propriétés intrinsèques comparables à celles de la substance mère en ce qui concerne son activité cible pesticide ou qu'il fait peser (par lui-même ou par ses produits de transformation) un risque sanitaire pour les consommateurs. |
 
-|
+Aldrine, dieldrine, heptachlore, heptachlorépoxyde (par substance individuelle) |
 
-|
+0,03 |
 
-Sélénium.
+µg/ L |
 
 |
 
-10
+Total pesticides |
 
-|
+0,50 |
 
-µg/l
+µg/ L |
 
-|
+Par total pesticides, on entend la somme de tous les pesticides individuels quantifiés. |
 
-|
+Plomb. |
 
-Tétrachloroéthylène et trichloroéthylène.
+5 |
 
-|
+µg/ L |
 
-10
+La limite de qualité est fixée à 10 µg/ L jusqu'au 31 décembre 2035. |
 
-|
+Sélénium. |
 
-µg/l
+20 |
 
-|
+µg/ L |
 
-Somme des concentrations.
+La limite de qualité est fixée à 30 µg/ L dans les zones géographiques où les conditions géologiques pourraient occasionner des niveaux élevés de sélénium dans les eaux souterraines |
 
-|
+Tétrachloroéthylène et trichloroéthylène. |
 
-Total trihalométhanes (THM).
+10 |
 
-|
+µg/ L |
 
-100
+Somme des concentrations des paramètres spécifiés. |
 
-|
+Total trihalométhanes (THM). |
 
-µg/l
+100 |
 
-|
+µg/ L |
 
 Pour les eaux rendues potables par traitement, la valeur la plus faible possible inférieure à cette valeur doit être visée sans pour autant compromettre la désinfection.
 
-Par "total trihalométhanes", on entend la somme de : chloroforme, bromoforme, dibromochlorométhane et bromodichlorométhane.
+Par " total trihalométhanes ", on entend la somme de : chloroforme, bromoforme, dibromochlorométhane et bromodichlorométhane. |
+
+Uranium |
+
+30 |
+
+µg/ L |
 
 |
+
+(*) Ne s'applique pas aux eaux de source conditionnées. |
 
 Tableau B-3. Références de qualité de l'eau de source
 
@@ -918,382 +756,222 @@ et de l'eau rendue potable par traitement conditionnées
 
 a) Paramètres chimiques et organoleptiques
 
-PARAMÈTRES
+PARAMÈTRES |
 
-|
-
-REFERENCES DE QUALITÉ
-
-|
-
-UNITÉS
-
-|
-
-NOTES
-
-|
-
-Aluminium total.
-
-|
-
-200
-
-|
-
-µg/l
-
-|
-
-|
-
-Ammonium.
-
-|
-
-0,1
-
-|
-
-mg/l
-
-|
-
-|
-
-Baryum.
-
-|
-
-0,70
-
-|
-
-mg/l
-
-|
-
-|
-
-Carbone organique total (COT).
-
-|
-
-2,0 et aucun changement anormal
-
-|
-
-mg/l
-
-|
-
-|
-
-Oxydabilité au permanganate de potassium mesurée après 10 minutes en milieu acide.
-
-|
-
-5,0
-
-|
-
-mg/l O2
-
-|
-
-Ce paramètre ne doit pas être mesuré si le paramètre COT est analysé.
-
-|
-
-Chlorites.
-
-|
-
-0,2
-
-|
-
-mg/l
-
-|
-
-|
-
-Chlorures.
-
-|
-
-250
+REFERENCES
 
-|
-
-mg/l
-
-|
-
-|
-
-Conductivité.
-
-|
-
-2 500 ou 2 800
-
-|
+DE QUALITÉ |
 
-µS/cm à 20 oC
+UNITÉS |
 
-µS/cm à 25 oC
+NOTES |
 
-|
-
-|
+Aluminium total. |
 
-Couleur.
-
-|
+200 |
 
-Aucun changement anormal notamment une couleur inférieure ou égale à 15
+µg/ L |
 
 |
 
-mg/l (Pt)
+Ammonium. |
 
-|
+0,10 |
 
-Au cours de la commercialisation.
+mg/ L |
 
-|
+S'il est démontré que l'ammonium a une origine naturelle, la valeur à respecter est de 0,50 mg/ L pour les eaux souterraines. |
 
-Cuivre.
+Baryum. |
 
-|
+0,70 |
 
-1,0
+mg/ L |
 
 |
-
-mg/l
 
-|
+Carbone organique total (COT). |
 
-|
+2 et aucun changement anormal |
 
-Fer total.
+mg/ L |
 
 |
 
-200
-
-|
+Indice permanganate. |
 
-µg/l
+5,0 |
 
-|
+mg/ L O2 |
 
-|
+Ce paramètre ne doit pas être mesuré si le paramètre COT est analysé. |
 
-Manganèse.
+Chlorures. |
 
-|
+250 |
 
-50
+mg/ L |
 
 |
 
-µg/l
+Conductivité. |
 
-|
+2 500 ou 2 800 |
 
-|
+µS/ cm à 20° C
 
-Odeur.
+µS/ cm à 25° C |
 
 |
-
-Aucun changement anormal notamment pas d'odeur détectée pour un taux de dilution de 3 à 25 oC.
 
-|
+Couleur. |
 
-|
+Acceptable pour les consommateurs et aucun changement anormal, notamment une couleur inférieure ou égale à 15 |
 
-Au cours de la commercialisation.
+mg/ L (Pt) |
 
-|
+Au cours de la commercialisation. |
 
-pH (concentration en ions hydrogène).
+Cuivre. |
 
-|
+1,0 |
 
-≥ 4,5 et ≤ 9
+mg/ L |
 
 |
 
-unités pH
-
-|
+Fer total. |
 
-|
+200 |
 
-Sodium.
+µg/ L |
 
 |
 
-200
+Manganèse. |
 
-|
+50 |
 
-mg/l
+µg/ L |
 
 |
 
-|
+Odeur. |
 
-Saveur.
+Acceptable pour les consommateurs et aucun changement anormal, notamment absence d'odeur détectée pour un taux de dilution de 3 à 25° C. |
 
 |
-
-Aucun changement anormal
 
-notamment pas de saveur
+Au cours de la commercialisation. |
 
-détectée pour un taux de
+pH |
 
-dilution de 3 à 25 oC
+≥ 4,5 et ≤ 9,5 |
 
-|
-
-|
+unités pH |
 
-Au cours de la commercialisation.
+Pour les eaux conditionnées naturellement riches ou enrichies artificiellement en dioxyde de carbone, la valeur minimale peut être inférieure. |
 
-|
+Saveur. |
 
-Sulfates.
+Acceptable pour les consommateurs et aucun changement anormal, notamment absence de saveur détectée pour un taux de dilution de 3 à 25° C |
 
 |
 
-250
+Au cours de la commercialisation. |
 
-|
+Sodium. |
 
-mg/l
+200 |
 
-|
+mg/ L |
 
 |
 
-Turbidité.
+Sulfates. |
 
-|
+250 |
 
-0,5
+mg/ L |
 
 |
 
-NFU
+Turbidité. |
 
-|
+0,5 |
 
-Pour les eaux rendues potables par traitement, cette valeur est applicable si elles sont issues d'eau de surface ou d'eaux d'origine souterraine provenant de milieux fissurés présentant une turbidité périodique importante et supérieure à 2 NTU. En cas de mise en œuvre d'un traitement de neutralisation ou de reminéralisation, la référence de qualité s'applique hors augmentation éventuelle de turbidité due au traitement.
+NFU |
 
-|
+Pour les eaux rendues potables par traitement conditionnées, cette valeur est applicable si elles sont issues d'eau de surface ou d'eaux d'origine souterraine provenant de milieux fissurés présentant une turbidité périodique importante et supérieure à 2 NFU. En cas de mise en œuvre d'un traitement de neutralisation ou de reminéralisation, la référence de qualité s'applique hors augmentation éventuelle de turbidité due au traitement. |
 
 b) Paramètres indicateurs de radioactivité
 
-PARAMÈTRES
+PARAMÈTRES |
+
+REFERENCES
+
+DE QUALITÉ |
+
+UNITÉS |
+
+NOTES |
+
+Activité alpha globale. |
 
 |
 
-REFERENCES DE QUALITÉ
+|
+
+En cas de valeur supérieure à 0,1 Bq/ L, il est procédé à l'analyse des radionucléides spécifiques définis dans l'arrêté mentionné à l'article R. 1321-20 du CSP. |
+
+Activité bêta globale résiduelle. |
 
 |
 
-UNITÉS
+|
+
+En cas de valeur supérieure à 1,0 Bq/ L, il est procédé à l'analyse des radionucléides spécifiques définis dans l'arrêté mentionné à l'article R. 1321-20 du CSP. |
+
+Dose indicative (DI). |
+
+0,10 |
+
+mSv/ an |
+
+Le calcul de la DI est effectué selon les modalités définies à l'article R. 1321-20 du CSP. |
+
+Radon. |
+
+100 |
+
+Bq/ L |
+
+S'applique uniquement aux eaux d'origine souterraine. |
+
+Activité tritium. |
+
+100 |
+
+Bq/ L |
+
+La présence de concentrations élevées de tritium dans l'eau peut être le témoin de la présence d'autres radionucléides artificiels. Si la concentration en tritium dépasse le niveau de référence, il est procédé à la recherche de la présence éventuelle de radionucléides artificiels définis dans l'arrêté mentionné à l'article R. 1321-20 du CSP. |
+
+Tableau B-4. Valeurs indicatives pour l'eau de source et l'eau rendue potable par traitement conditionnées
+
+PARAMÈTRES |
+
+VALEURS INDICATIVES |
+
+UNITÉS |
+
+NOTES |
+
+Métabolites de pesticides non pertinents (par substance individuelle) (1) |
+
+0,9 |
+
+µg/ L |
 
 |
 
-NOTES
-
-|
-
-Activité alpha globale.
-
-|
-
-0,1
-
-|
-
-Bq/l
-
-|
-
-En cas de dépassement, il est procédé à l'analyse des radionucléides spécifiques définis dans l'arrêté mentionné à l'article R. 1321-20 du CSP.
-
-|
-
-Activité bêta globale résiduelle.
-
-|
-
-1
-
-|
-
-Bq/l
-
-|
-
-En cas de dépassement, il est procédé à l'analyse des radionucléides spécifiques définis dans l'arrêté mentionné à l'article R. 1321-20 du CSP.
-
-|
-
-Tritium.
-
-|
-
-100
-
-|
-
-Bq/l
-
-|
-
-La présence de concentrations élevées de tritium dans l'eau peut être le témoin de la présence d'autres radionucléides artificiels. Si la concentration en tritium dépasse le niveau de référence, il est procédé à la recherche de la présence éventuelle de radionucléides artificiels.
-
-|
-
-Dose indicative (DI).
-
-|
-
-0,10
-
-|
-
-mSv/an
-
-|
-
-Le calcul de la DI est effectué selon les modalités définies à l'article R. 1321-20 du CSP.
-
-|
-
-Radon.
-
-|
-
-100
-
-|
-
-Bq/l
-
-|
-
-S'applique uniquement aux eaux d'origine souterraine.
-
-|
+(1) Après évaluation de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail |

@@ -4,714 +4,402 @@ EXIGENCES DE QUALITÉ ET MENTIONS D'ÉTIQUETAGE
 
 RELATIVES À L'ALIMENTATION DES NOURRISSONS
 
-L'eau minérale naturelle et l'eau de source, non effervescente, doivent être conformes aux critères de qualité microbiologiques mentionnées dans le tableau A de l'annexe I de l'arrêté du 14 mars 2007 et respecter les valeurs limites suivantes :
+L'eau minérale naturelle et l'eau de source conditionnées, non effervescente, doivent être conformes aux critères de qualité microbiologiques mentionnées dans le tableau A de l'annexe I du présent arrêté et respecter les valeurs limites suivantes :
 
-PARAMETRES
+PARAMETRES |
 
-|
-
-LIMITES DE QUALITE
-
-|
-
-UNITES
-
-|
-
-NOTES
-
-|
-
-Antimoine.
-
-|
-
-5,0
-
-|
-
-µg/l
-
-|
-
-|
-
-Arsenic.
-
-|
-
-10
-
-|
-
-µg/l
-
-|
-
-|
-
-Baryum.
-
-|
-
-0,7
-
-|
-
-mg/l
-
-|
-
-|
-
-Bore.
-
-|
-
-0,3
-
-|
-
-mg/l
-
-|
-
-|
-
-Cadmium.
-
-|
-
-3,0
-
-|
-
-µg/l
-
-|
-
-|
-
-Chrome.
-
-|
-
-5,0
-
-|
-
-µg/l
-
-|
-
-|
-
-Cuivre.
-
-|
-
-0,2
-
-|
-
-mg/l
-
-|
-
-|
-
-Cyanures totaux.
-
-|
-
-10
-
-|
-
-µg/l
-
-|
-
-|
-
-Fluorures.
-
-|
-
-0,3
-
-|
-
-mg/l
-
-|
-
-En cas de supplémentation médicale en fluor.
-
-|
-
-0,5
-
-|
-
-mg/l
-
-|
-
-En l'absence de supplémentation médicale en fluor.
-
-|
-
-Manganèse.
-
-|
-
-50
-
-|
-
-µg/l
-
-|
-
-|
-
-Mercure.
-
-|
-
-1,0
-
-|
-
-µg/l
-
-|
-
-|
-
-Nickel.
-
-|
-
-2,0
-
-|
-
-µg/l
-
-|
-
-|
-
-Nitrates.
-
-|
-
-10
+LIMITES
 
-|
-
-mg/l
-
-|
-
-|
-
-Nitrites.
-
-|
-
-0,05
-
-|
-
-mg/l
-
-|
-
-|
-
-Plomb.
-
-|
-
-10
-
-|
-
-µg/l
-
-|
-
-|
-
-Sélénium.
-
-|
-
-10
-
-|
-
-µg/l
-
-|
-
-|
+DE QUALITE |
 
-Turbidité.
+UNITES |
 
-|
-
-0,50
-
-|
-
-NFU
-
-|
-
-|
-
-Couleur.
-
-|
-
-Aucun changement anormal, notamment une couleur inférieure ou égale à 15.
-
-|
-
-mg/l(Pt)
-
-|
-
-Au cours de la commercialisation.
+NOTES |
 
-|
-
-Odeur et saveur.
-
-|
-
-Aucun changement anormal, notamment pas d'odeur détectée pour un taux de dilution de 3 °C à 25 °C.
+Antimoine. |
 
-|
-
-|
+5,0 |
 
-Au cours de la commercialisation.
+µg/ L |
 
 |
 
-Acrylamide.
+Arsenic. |
 
-|
+10 |
 
-0,10
+µg/ L |
 
 |
 
-µg/l
+Baryum. |
 
-|
+0,7 |
 
-La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau, calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
+mg/ L |
 
 |
 
-Aluminium.
+Bore. |
 
-|
+0,3 |
 
-200
+mg/ L |
 
 |
-
-µg/l
 
-|
+Cadmium. |
 
-|
+3,0 |
 
-Ammonium.
+µg/ L |
 
 |
-
-100
 
-|
+Chrome. |
 
-µg/l
+5,0 |
 
-|
+µg/ L |
 
 |
 
-Benzène.
+Cuivre. |
 
-|
+0,2 |
 
-0,3
+mg/ L |
 
 |
 
-µg/l
-
-|
+Cyanures totaux. |
 
-|
+10 |
 
-Benzo(a) pyrène.
+µg/ L |
 
 |
-
-0,003
 
-|
+Fluorures. |
 
-µg/l
+0,3 |
 
-|
+mg/ L |
 
-|
+En cas de supplémentation médicale en fluor. |
 
-Bromates.
+0,5 |
 
-|
+mg/ L |
 
-3,0
+En l'absence de supplémentation médicale en fluor. |
 
-|
+Manganèse. |
 
-µg/l
+50 |
 
-|
+µg/ L |
 
 |
 
-Bromoforme.
+Mercure. |
 
-|
+1,0 |
 
-1,0
+µg/ L |
 
 |
 
-µg/l
+Nickel. |
 
-|
-
-|
+2,0 |
 
-Calcium.
+µg/ L |
 
 |
 
-100
-
-|
+Nitrates. |
 
-mg/l
+10 |
 
-|
+mg/ L |
 
 |
 
-Chlorites.
+Nitrites. |
 
-|
+0,05 |
 
-0,03
+mg/ L |
 
 |
 
-mg/l
+Plomb. |
 
-|
-
-|
+5 |
 
-Chlorure de vinyle.
+µg/ L |
 
-|
+La limite de qualité est fixée à 10 µg/ L jusqu'au 31 décembre 2035. |
 
-0,5
+Sélénium. |
 
-|
+10 |
 
-µg/l
+µg/ L |
 
 |
 
-La limite de qualité se réfère également à la concentration résiduelle en monomères dans l'eau, calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
+Turbidité. |
 
-|
+0,50 |
 
-Chlorures.
+NFU |
 
 |
 
-250
+Couleur. |
 
-|
+Aucun changement anormal, notamment une couleur inférieure ou égale à 15. |
 
-mg/l
+mg/ L (Pt) |
 
-|
+Au cours de la commercialisation. |
 
-|
+Odeur et saveur. |
 
-1,2 - Dichloroéthane.
+Aucun changement anormal, notamment pas d'odeur détectée pour un taux de dilution de 3° C à 25° C. |
 
 |
 
-0,9
+Au cours de la commercialisation. |
 
-|
+Acrylamide. |
 
-µg/l
+0,10 |
 
-|
+µg/ L |
 
 |
 
-Dioxyde de carbone.
+Aluminium. |
 
-|
+200 |
 
-250
+µg/ L |
 
 |
-
-mg/l
 
-|
+Ammonium. |
 
-|
+100 |
 
-Epichlorhydrine.
+µg/ L |
 
 |
 
-0,1
+Benzène. |
 
-|
+0,3 |
 
-µg/l
+µg/ L |
 
 |
 
-La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau, calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
+Benzo [a] pyrène. |
 
-|
+0,003 |
 
-Hydrocarbures aromatiques polycycliques.
+µg/ L |
 
 |
 
-0,03
+Bromates. |
 
-|
+3,0 |
 
-µg/l
+µg/ L |
 
 |
 
-Somme totale.
+Bromoforme. |
 
-|
+1,0 |
 
-Magnésium.
+µg/ L |
 
 |
-
-50
 
-|
+Calcium. |
 
-mg/l
+100 |
 
-|
+mg/ L |
 
 |
 
-Pesticides.
+Chlorites. |
 
-|
+0,03 |
 
-0,03
+mg/ L |
 
 |
 
-µg/l
+Chlorure de vinyle. |
 
-|
+0,5 |
 
-Pour les substances suivantes : aldrine, dieldrine, heptachlore, heptachloépoxyde.
+µg/ L |
 
-|
+. |
 
-0,1
+Chlorures. |
 
-|
+250 |
 
-µg/l
+mg/ L |
 
 |
-
-Somme des pesticides.
 
-|
+1,2-Dichloroéthane. |
 
-Radioactivité :
+0,9 |
 
-|
+µg/ L |
 
 |
 
-|
+Dioxyde de carbone. |
 
-|
+250 |
 
-Activité alpha globale.
+mg/ L |
 
 |
 
-0,1
+Epichlorhydrine. |
 
-|
+0,1 |
 
-Bq/l
+µg/ L |
 
 |
 
-|
+Hydrocarbures aromatiques polycycliques. |
 
-Activité bêta globale résiduelle.
+0,03 |
 
-|
+µg/ L |
 
-1,0
+Somme totale. |
 
-|
+Magnésium. |
 
-Bq/l
+50 |
 
-|
+mg/ L |
 
 |
 
-Dose indicative.
+Pesticides. |
 
-|
+0,03 |
 
-0,1
+µg/ L |
 
-|
+Pour les substances suivantes : aldrine, dieldrine, heptachlore, heptachloépoxyde. |
 
-mSv/an
+0,1 |
 
-|
+µg/ L |
 
-|
+Par total pesticides, on entend la somme de tous les pesticides individuels quantifiés. |
 
-Tritium.
+Sodium. |
 
-|
+200 |
 
-100
+mg/ L |
 
 |
-
-Bq/l
 
-|
+Tétrachloroéthylène. |
 
-|
+0,5 |
 
-Sodium.
+µg/ L |
 
 |
 
-200
+Trichloroéthylène. |
 
-|
+0,5 |
 
-mg/l
+µg/ L |
 
 |
 
-|
+Trihalométhanes. |
 
-Tétrachloroéthylène.
+1,0 |
 
-|
+µg/ L |
 
-0,5
+Par substance identifiée. |
 
-|
+Sulfates. |
 
-µg/l
+140 |
 
-|
+mg/ L |
 
 |
 
-Trichloroéthylène.
+Zinc. |
 
-|
+0,10 |
 
-0,5
+mg/ L |
 
 |
 
-µg/l
-
-|
+Radioactivité : |
 
 |
 
-Trihalométhanes.
-
 |
-
-1,0
 
 |
 
-µg/l
+Activité alpha globale. |
 
-|
+0,1 |
 
-Par substance identifiée.
+Bq/ L |
 
 |
 
-Sulfates.
+Activité bêta globale résiduelle. |
 
-|
+1,0 |
 
-140
+Bq/ L |
 
 |
-
-mg/l
 
-|
+Dose indicative. |
 
-|
+0,1 |
 
-Zinc.
+mSv/ an |
 
 |
 
-0,10
+Tritium. |
 
-|
+100 |
 
-mg/l
-
-|
+Bq/ L |
 
 |
