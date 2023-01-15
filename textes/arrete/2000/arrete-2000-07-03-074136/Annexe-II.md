@@ -418,7 +418,9 @@ Entreprise Damette/ Sockeel A et J, 45, rue de la Sous-Préfecture, 59190 Hazebr
 
 Entreprise générale d'isolation Poujaud, rue Gabriel-Péri, ZI de la Samaritaine, BP 53,59430 Saint-Pol-sur-Mer : de 1977 à 1987 ; Poujaud SA : depuis 1987 jusqu'à 2006 ;
 
-Entreprise Vanpeene Albert, rue Rolls, 62231 Sangatte, de 1979 à 1994.
+Entreprise Vanpeene Albert, rue Rolls, 62231 Sangatte, de 1979 à 1994 ;
+
+Etablissement PONTICELLI, 603, rue de la Fontaine, 62110 HENIN-BEAUMONT, puis Rue des anciens de l'AFN, BP 10, 59630 BOURBOURG : de 1960 à 1997 ;
 
 Etablissements G. Meigneux, NRJ Meigneux SA (nouvelles réalisations Jean-Meigneux), 4, rue Gérhard-Hansen, 62200 Boulogne-sur-Mer, de 1958 à 1994 ;
 
@@ -876,7 +878,7 @@ JST/ Vatech, 84, avenue Paul-Santy, 69008 Lyon : de 1949 à 1988 ;
 
 Loire Fonte Industrie (LFI, ex-Fonderie Jurine), 97, rue de la République, 42500 Le Chambon-Feugerolles : de 1920 à 1995 ;
 
-Pavailler, puis Pavailler BP, puis APV Pavailler Equipement, puis Pavailler Equipement, 555, rue Benoît-Frachon, 26800 Porte-lès-Valence : de 1950 à 1996 ;
+PAVAILLER, PAVAILLER EQUIPEMENT, 26500 Bourg-lès-Valence et 555, rue Benoît-Frachon, 26800 Portes-lès-Valence : de 1950 à 1996 ;
 
 PRODUITS CHIMIQUES UGINE KUHLMANN puis ATOCHEM puis ELF ATOCHEM (usine de Brignoud), 14, avenue Robert-Huant, 38190 Brignoud : de 1951 à 1996 ;
 
