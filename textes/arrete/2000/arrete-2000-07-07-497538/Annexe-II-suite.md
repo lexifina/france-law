@@ -950,7 +950,7 @@ Société marseillaise du froid :
 
 - 200, avenue Roger-Salengro, 13015 Marseille : de 1950 à 1995.
 
-Société Matalinox, 1, boulevard Philippe-Giovannini, 83500 La Seyne-sur-Mer : de 1990 à 1995.
+SOCIETE METALUNOX, 1247, route du Faron, 83200 Toulon, 1, boulevard Toussaint-Merle, 83500 La Seyne-sur-Mer et 1 boulevard Philippe-Giovannini, 83500 La Seyne-sur-Mer : de 1990 à 1995.
 
 Société mécanique générale du Sud-Est Impasse Gozza 83000 Toulon De 1965 à 1967
 
