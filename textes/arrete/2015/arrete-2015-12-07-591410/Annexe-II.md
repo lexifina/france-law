@@ -20,7 +20,7 @@ Centre parachutiste d'instruction spécialisée.
 
 Commandos de marine.
 
-Commando parachutiste de l'air n° 10.
+Commandos parachutistes de l'air n° 10 et n° 30.
 
 Escadron de transport Poitou 3/61.
 
