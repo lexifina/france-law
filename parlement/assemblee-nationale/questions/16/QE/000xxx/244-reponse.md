@@ -1,0 +1,9 @@
+# Réponse à la question n° 244
+
+- Question : [244](244.md) — Question n° 244 — Prise en charge des enfants accidentés à l'hôpital
+
+## Réponse
+
+*JO du 2023-01-17, page 457*
+
+Les passages aux urgences des moins de 18 ans représentaient environ 25% des passages annuels aux urgences en 2021, soit 5,2 millions de passages. Dans la majorité des cas, les enfants sont pris en charge dans des structures d'urgences proposant un accueil spécifique des enfants. Lorsque les urgences pédiatriques sont prises en charge par des urgentistes polyvalents, l'enjeu est d'assurer leur parfaite formation aux prises en charge pédiatriques en urgence et, lorsque nécessaire, les modalités du recours aux pédiatres en appui de leur prise en charge. En cas d'hospitalisation, les enfants sont ensuite réorientés vers des structures dédiées à l'hospitalisation des petits patients. Ces services de pédiatrie disposent de professionnels spécifiquement formés à la prise en charge des enfants, et notamment de la douleur. S'agissant plus spécifiquement de la santé de l'enfant, et pour améliorer encore l'organisation de notre système de santé, le ministre de la santé et de la prévention a souhaité l'organisation d'assises de la pédiatrie et de la santé de l'enfant, dont l'un des 6 axes est notamment de garantir à tous les enfants un parcours de santé de qualité et sans rupture, dans le cadre duquel de nombreux sujets seront débattus dont l'accès aux consultations non programmées et aux urgences ou encore la permanence des soins. Les travaux préparatoires aux assises de la pédiatrie et de la santé de l'enfant (qui devraient intervenir au printemps 2023) ont été lancés mercredi 7 décembre 2022 avec l'installation du comité d'orientation des assises. Toutes les parties prenantes sont dès à présent appelées à faire part de leurs propositions pour co-construire les réponses nouvelles aux difficultés du secteur.
