@@ -1,0 +1,51 @@
+# Renforcer la protection des familles d’enfants touchés par une affection de longue durée
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N47037
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/protection_enfants_ald
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl22-393.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-01-17 : 1er dépôt d'une initiative. (PIONANR5L16B0742)
+  - 2023-02-28 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-01-17 : Renvoi en commission au fond
+      - 2023-02-01 : Nomination de rapporteur
+      - 2023-02-01 : Réunion de commission
+      - 2023-02-15 : Réunion de commission
+      - 2023-03-01 : Réunion de commission
+      - 2023-02-15 : Dépôt de rapport (RAPPANR5L16B0861, PIONANR5L16BTC0861)
+  - Discussion en séance publique
+    - 2023-03-02 : Discussion en séance publique
+    - 2023-03-02 : Discussion en séance publique
+    - 2023-03-02 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-03-03 : Dépôt d'une initiative en navette (PIONSNR5S399B0393)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-03-03 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-06-28 : Dépôt de rapport (RAPPSNR5S399B0786, PIONSNR5S399BTC0787)
+  - Discussion en séance publique
+    - 2023-07-04 : Décision
+- Commission Mixte Paritaire
+  - 2023-07-04 : Dépôt d'un projet de loi (PIONANR5L16B1503)
+  - 2023-07-05 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2023-07-06 : Nomination de rapporteur
+    - 2023-07-06 : Dépôt du rapport d'une CMP (RAPPSNR5S399B0853, PIONSNR5S399BTC0854)
+    - 2023-07-06 : Dépôt du rapport d'une CMP (RAPPANR5L16B1508, PIONANR5L16BTC1508)
+  - Discussion en séance publique
+    - 2023-07-12 : Discussion en séance publique
+    - 2023-07-12 : Décision
+  - Discussion en séance publique
+    - 2023-07-12 : Discussion en séance publique
+    - 2023-07-12 : Discussion en séance publique
+    - 2023-07-12 : Décision
+  - 2023-07-06 : Décision de la CMP
+- Promulgation de la loi
+  - 2023-07-19 : Promulgation d'une loi
