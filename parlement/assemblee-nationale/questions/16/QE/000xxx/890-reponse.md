@@ -1,0 +1,9 @@
+# Réponse à la question n° 890
+
+- Question : [890](890.md) — Question n° 890 — Gestion des Ehpad par les centres d'action sociale
+
+## Réponse
+
+*JO du 2023-01-17, page 403*
+
+Les établissements mentionnés au 6° de l'article L. 312-1 du Code de l'action sociale et des familles (CASF), parmi lesquels figurent les établissements d'hébergement pour personnes âgées dépendantes (EHPAD), ne peuvent pas être gérés directement par des collectivités ou leurs groupements. En application de l'article L. 315-7 du CASF, ces établissements sont en effet érigés en établissements publics, entendu au sens d'établissement public social et médico-social, régi par les dispositions des articles L. 315-9 et suivants du CASF. Conformément à l'article L. 315-1 du CASF, les interventions à but social et médico-social des personnes morales de droit public peuvent être assurées par des établissements publics communaux, intercommunaux, départementaux, interdépartementaux ou nationaux. Au niveau d'un groupement de communes, un EHPAD peut donc être géré par un centre intercommunal d'action sociale (CIAS) qui a le statut d'établissement public administratif intercommunal au sens de l'article L. 123-6 du CASF. L'article L. 123-4-1 du CASF précise qu'un CIAS peut lui-même être créé par un établissement public de coopération intercommunale (EPCI) à fiscalité propre compétent. Par ailleurs, le V de l'article 60 de la loi du 18 janvier 2005 de programmation pour la cohésion sociale prévoit la continuité des CIAS créés avant l'entrée en vigueur de la loi par des EPCI ne disposant pas de la fiscalité propre. En conséquence, il n'est plus possible, depuis l'entrée en vigueur de la loi du 18 janvier 2005, à un syndicat de communes de créer un CIAS. En revanche, les CIAS créés antérieurement à cette date par de tels organismes de coopération intercommunale peuvent continuer de gérer les EHPAD. Il n'est pas envisagé de modifier la loi à cet égard.
