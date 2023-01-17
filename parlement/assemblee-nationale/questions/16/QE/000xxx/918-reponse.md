@@ -1,0 +1,9 @@
+# Réponse à la question n° 918
+
+- Question : [918](918.md) — Question n° 918 — Application de la loi littoral
+
+## Réponse
+
+*JO du 2023-01-17, page 509*
+
+La loi littoral s'efforce d'apporter un juste équilibre entre développement et protection du littoral, permettant une conciliation de ces enjeux. Elle opère en effet une protection graduée du littoral en fonction de la proximité avec le rivage et de la fragilité des milieux. S'agissant spécifiquement du régime applicable dans la bande des 100 mètres, l'article L. 121-16 du code de l'urbanisme dispose qu'en dehors des espaces urbanisés, les constructions ou installations y sont interdites. De ce fait, ce principe d'interdiction ne s'applique pas aux espaces urbanisés de la bande littorale des 100 mètres. Une exception à ce principe d'interdiction, fixée à l'article L. 121-17, existe pour les constructions et installations nécessaires à des services publics ou à des activités économiques nécessitant la proximité immédiate de l'eau. Cette exception offre des possibilités pour accueillir des activités nautiques qui nécessitent la proximité du rivage. En revanche, les activités de restauration ou de buvette sont proscrites lorsqu'elles ne sont pas l'accessoire indispensable d'une activité balnéaire (CAA Marseille, 30 septembre 2013, n° 11MA00434 ; CE, 9 octobre 1996, n° 161555). Concernant les conditions d'installation en espaces remarquables et caractéristiques du littoral, ces espaces sont soumis, en raison de leur intérêt écologique ou de leur haute valeur patrimoniale, à un régime d'interdiction de construire assorti d'exceptions pour certains aménagements légers limitativement énumérés (articles L. 121-24 et R. 121-5 du code de l'urbanisme). Toutefois, l'implantation d'un établissement de restauration de plage, même lorsqu'il présente un caractère démontable, n'entre dans le champ d'aucune des exceptions énumérées par l'article R. 121-5 du code de l'urbanisme.
