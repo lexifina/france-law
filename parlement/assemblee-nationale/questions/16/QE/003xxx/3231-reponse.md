@@ -1,0 +1,9 @@
+# Réponse à la question n° 3231
+
+- Question : [3231](3231.md) — Question n° 3231 — La PAC 2023 menace la cohérence agricole
+
+## Réponse
+
+*JO du 2023-01-17, page 392*
+
+Le plan stratégique national (PSN) validé par la Commission européenne le 31 août 2022 est le fruit d'une riche et large concertation. Le PSN propose une vision partagée et équilibrée des différents soutiens destinés aux professionnels agricoles en réponse aux grands objectifs assignés à la politique agricole commune, dont le soutien aux revenus des agriculteurs et la contribution à l'atteinte des objectifs environnementaux et sociétaux de la France et de l'Union européenne. L'éco-régime est une nouvelle aide qui vise à rémunérer les agriculteurs qui s'engagent à mettre en œuvre des pratiques agronomiques plus favorables au climat et à l'environnement. Cette aide est conçue comme un dispositif inclusif visant à accompagner dans la transition le plus grand nombre possible d'exploitations agricoles, tout en reconnaissant différents niveaux de services environnementaux rendus par les différentes exigences pour y avoir accès. Les critères proposés, par leur grande diversité, ont vocation à permettre à tout agriculteur d'accéder à l'éco-régime moyennant un effort qui reste mesuré. À cet égard, l'accent est mis sur les principaux leviers agronomiques au service de la transition agro-écologique tels que l'implantation de légumineuses, la diversification des cultures, le non labour des prairies ou la valorisation des haies et autres éléments favorables à la biodiversité. Avec un effort mesuré et sur la base de pratiques accessibles, une très grande majorité des agriculteurs devraient donc pouvoir accéder à l'éco-régime, qui contribuera au revenu de l'exploitation tout en soutenant la transition vers des pratiques et une agriculture durables.
