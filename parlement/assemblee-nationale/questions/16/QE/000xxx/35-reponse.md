@@ -1,0 +1,9 @@
+# Réponse à la question n° 35
+
+- Question : [35](35.md) — Question n° 35 — Constructeurs de maisons individuelles
+
+## Réponse
+
+*JO du 2023-01-17, page 435*
+
+L'attention est appelée sur la mise en place d'un système de suspension des sanctions contractuelles comme celui mis en place pendant la pandémie de Covid-19. Ce mécanisme était instauré par les articles 4 et 5 de l'ordonnance n° 2020-306 du 25 mars 2020. La loi n° 2020-290 du 23 mars 2020 d'urgence pour faire face à l'épidémie de Covid-19 avait, en effet, permis au Gouvernement d'adapter par ordonnance les obligations des personnes morales de droit privé exerçant une activité économique à l'égard de leurs clients et fournisseurs, notamment en termes de délais de paiement et pénalités. Ce contexte inédit et d'une gravité toute particulière de crise sanitaire justifiait l'atteinte portée à la liberté contractuelle par le législateur, au demeurant proportionnée (la neutralisation des clauses était temporaire). Les conditions qui ont justifié l'atteinte à cette liberté constitutionnellement garantie n'apparaissent toutefois plus réunies pour justifier une suspension des sanctions contractuelles. Au demeurant, des marges de manœuvre existent déjà en l'état actuel du droit. D'une part, en vertu du principe de la liberté des prix, l'exercice de la liberté contractuelle permet de s'entendre sur d'éventuelles incidences contractuelles d'une hausse ou d'une baisse des prix qui n'est pas un événement inédit. D'autre part, s'agissant des difficultés d'approvisionnement, il est également loisible aux cocontractants de fixer les délais de livraison, sous réserve de la disponibilité des matériaux, ou de donner la faculté au constructeur de substituer librement tout matériau par un matériau équivalent, pour tenir les délais fixés. Dans ces conditions, un nouveau dispositif de suspension des sanctions contractuelles n'apparaît pas souhaitable.
