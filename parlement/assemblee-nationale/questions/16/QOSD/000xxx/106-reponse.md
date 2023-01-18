@@ -1,0 +1,29 @@
+# Réponse à la question n° 106
+
+- Question : [106](106.md) — Question n° 106 — Abandon du projet d'extension de la ligne de métro 11 jusqu'à Noisy-Champs
+
+## Réponse
+
+*JO du 2023-01-18, page 419*
+
+EXTENSION DE LA LIGNE 11 JUSQU'À NOISY-CHAMPS
+
+Mme la présidente. La parole est à M. Thomas Portes, pour exposer sa question, n° 106, relative à l'extension de la ligne 11 jusqu'à Noisy-Champs.
+
+M. Thomas Portes. Ma question porte sur l'abandon du projet d'extension de la ligne 11 du métro jusqu'à Noisy-Champs, commune située dans ma circonscription. Le prolongement de cette ligne, inscrit dans le cadre du projet Grand Paris Express, était prévu jusqu'à Champs-sur-Marne, avec la desserte de deux gares à Neuilly-sur-Marne en 2025, mais il apparaît que cette extension est remise en cause et ne figure plus dans le calendrier de réalisation du Gouvernement.
+
+Ce projet est pourtant indispensable à l'équilibre urbain de l'est parisien. L'extension de la ligne 11 avait pour objectif de désengorger la fréquentation des RER A et E – déjà saturés comme nous le mesurons chaque jour –, de décharger les axes routiers et d'offrir une solution alternative aux usagers de la ligne de bus 113 qui est, elle aussi, surchargée. Dans la commune de Neuilly-sur-Marne, près de 7 000 logements, dont plus de 4 000 dans le quartier de Maison Blanche, ont été programmés avec l'engagement de leur proximité d'une future station de métro. En effet, ce nouveau quartier, très enclavé, accueillera à terme, sur une superficie de 58 hectares, près de 10 000 nouveaux habitants, alors qu'il n'est desservi actuellement que par la seule ligne de bus 113. Il n'est pas acceptable que des habitants, qui ont fait le choix de s'installer dans ce quartier en raison de la proximité d'une future ligne de métro, soient pénalisés par des choix politiques incohérents. L'abandon de ce projet porte un coup d'arrêt certain à l'amélioration de leurs conditions de transport et, de facto, de leurs conditions de vie.
+
+L'extension de la ligne répond également à un enjeu de transition écologique impératif au moment même où Météo-France vient d'annoncer que l'année 2022 a été la plus chaude jamais enregistrée dans notre pays. En France, le transport est la première source d'émission de gaz à effet de serre et, dans ce secteur, la voiture représente 57 % des émissions. Le prolongement de la ligne 11 comptait parmi ses objectifs la réduction des émissions et de la consommation d'énergie.
+
+L'abandon du projet préoccupe les maires des communes concernées, ainsi que les promoteurs des programmes immobiliers en cours de réalisation. En mai 2018 déjà, près de 200 élus locaux de l'Établissement public territorial Grand Paris-Grand Est s'étaient réunis à Neuilly-sur-Marne pour exiger que le dossier soit enfin accéléré et que les financements nécessaires à sa réalisation soient mobilisés. Sur ce point, il apparaît que ni l'État ni la région n'entendent se porter garant du financement. La contre-expertise menée par le secrétariat général pour l'investissement a indiqué que le bilan socio-économique de ce projet devait être complété, compte tenu des nouveaux développements urbains attendus et des attentes exprimées par les communes du secteur. Dans la réponse de M. le ministre délégué chargé des transports à ma question écrite à ce sujet en date du 20 décembre dernier, le ministère indiquait que ces éléments plaidaient en faveur d'une reprise des études afin d'éclairer les suites à donner au projet.
+
+Monsieur le ministre, la reprise des études doit avoir lieu rapidement. Pouvez-vous prendre cet engagement ? C'est une nécessité, à la fois eu regard à l'urgence écologique et pour les habitants, qui ont acheté un appartement en raison de sa proximité d'une future ligne de métro afin d'utiliser les transports en commun plutôt que leur voiture.
+
+Mme la présidente. La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.
+
+M. Christophe Béchu, ministre de la transition écologique et de la cohésion des territoires. Comme vous le savez, la ligne 11 du métro fait actuellement l’objet de travaux pour un premier prolongement jusqu’à Rosny-Bois-Perrier, dont la mise en service devrait intervenir à la fin de l'année 2023. Un second prolongement de Rosny-Bois-Perrier vers Noisy-Champs a fait l’objet d’études par Île-de-France Mobilités (IDFM) en 2017. Celles-ci ont conclu à un bilan socio-économique négatif du projet, du fait de la faible fréquentation attendue au regard de l’estimation de son coût, estimé à l'époque à plus de 1,5 milliard.
+
+La contre-expertise menée par le secrétariat général pour l’investissement a maintenu un avis réservé, indiquant toutefois que le bilan socio-économique présenté mériterait d’être complété, compte tenu en particulier des nouveaux développements urbains attendus dans le secteur du projet, notamment à Neuilly-sur-Marne. Dans cette perspective, l'augmentation du nombre de passagers permettrait d'éviter l'émission de plusieurs tonnes de CO2. Le bilan socio-économique de l'opération – comparaison des bénéfices pour la transition énergétique avec le niveau d'investissement – pourrait donc être révisé à la hausse. Ces éléments plaident en faveur d’une reprise des études préalables par Île-de-France Mobilités, qui a été sollicitée en ce sens. Cette reprise des études éclairera les suites à donner au projet, dans l'optique des objectifs que vous indiquez, ceux de l'accélération de la transition écologique et de l'amélioration du maillage.
+
+Pour finir, je rappelle, mais cela n'enlève rien à ce que je viens de dire sur la reprise des études, que les communes de Noisy-le-Grand et de Champs-sur-Marne seront desservies à l’horizon 2025 par la ligne 15 sud du Grand Paris Express, puis par la ligne 16 à l’horizon 2030, grâce à la future station de métro Noisy-Champs, qui offrira aux voyageurs l’interconnexion avec la ligne RER A.
