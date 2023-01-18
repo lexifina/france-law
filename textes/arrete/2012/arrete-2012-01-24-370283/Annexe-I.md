@@ -11,3 +11,7 @@ c) La proportion maximale d'espèces et, le cas échéant, de sous-espèces qui 
 d) L'absence d'Avena fatua, Avena sterilis et Cuscuta spp. est requise.
 
 e) La proportion maximale de Rumex spp., autre que Rumex acetosella et Rumex maritimus, ne peut pas dépasser 0,05 % en poids.
+
+f) Le lieu de collecte est situé dans la zone source et cette zone source est située dans la région d'origine ;
+
+g) Les constituants du mélange sont collectés sur un site qui n'a pas été ensemencé au cours de quarante années précédant la date de la demande introduite par le producteur.
