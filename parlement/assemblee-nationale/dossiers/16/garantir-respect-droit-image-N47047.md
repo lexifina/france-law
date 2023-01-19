@@ -1,0 +1,72 @@
+# Garantir le respect du droit à l'image des enfants
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N47047
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/garantir_respect_droit_image
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl22-396.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-01-19 : 1er dépôt d'une initiative. (PIONANR5L16B0758)
+  - 2023-03-04 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-01-19 : Renvoi en commission au fond
+      - 2023-02-07 : Nomination de rapporteur
+      - 2023-02-07 : Réunion de commission
+      - 2023-02-28 : Réunion de commission
+      - 2023-03-06 : Réunion de commission
+      - 2023-02-28 : Dépôt de rapport (RAPPANR5L16B0908, PIONANR5L16BTC0908)
+  - Discussion en séance publique
+    - 2023-03-06 : Discussion en séance publique
+    - 2023-03-06 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-03-06 : Dépôt d'une initiative en navette (PIONSNR5S399B0396)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-03-06 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-05-03 : Dépôt de rapport (RAPPSNR5S399B0560, PIONSNR5S399BTC0561)
+  - Discussion en séance publique
+    - 2023-05-10 : Décision
+- Commission Mixte Paritaire
+  - 2023-05-11 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2023-06-01 : Nomination de rapporteur
+    - 2023-06-01 : Dépôt du rapport d'une CMP (RAPPANR5L16B1308)
+    - 2023-06-01 : Dépôt du rapport d'une CMP (RAPPSNR5S399B0674, PIONSNR5S399BTC0675)
+  - 2023-06-01 : Décision de la CMP
+- Nouvelle Lecture
+  - 2023-05-11 : Dépôt d'une initiative en navette (PIONANR5L16B1229)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-05-11 : Renvoi en commission au fond
+      - 2023-10-04 : Réunion de commission
+      - 2023-10-10 : Réunion de commission
+      - 2023-10-04 : Dépôt de rapport (RAPPANR5L16B1693, PIONANR5L16BTC1693)
+  - Discussion en séance publique
+    - 2023-10-10 : Discussion en séance publique
+    - 2023-10-10 : Décision
+- Nouvelle Lecture
+  - 2023-10-11 : Dépôt d'une initiative en navette (PIONSNR5S419B0027)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-10-11 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-12-13 : Dépôt de rapport (RAPPSNR5S419B0198, PIONSNR5S419BTC0199)
+  - Discussion en séance publique
+    - 2023-12-19 : Décision
+- Lecture définitive
+  - 2023-12-20 : Dépôt d'une initiative en navette (PIONSNR5S419BTA0042)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-12-20 : Renvoi en commission au fond
+      - 2024-02-06 : Réunion de commission
+      - 2024-02-06 : Dépôt de rapport (RAPPANR5L16B2148)
+  - Discussion en séance publique
+    - 2024-02-06 : Discussion en séance publique
+    - 2024-02-06 : Décision
+- Promulgation de la loi
+  - 2024-02-19 : Promulgation d'une loi
