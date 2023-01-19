@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701643
+
+- Question : [SEQ220701643](seq220701643.md) — Opportunité pour les communes de rendre la déclaration domiciliaire obligatoire
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-01-19, page 350*
+
+Si le Gouvernement comprend le souhait des communes de disposer d'un état des lieux détaillé de leur population pour faciliter la gestion des services publics locaux, il n'est pas favorable à l'instauration d'une déclaration domiciliaire qui obligerait tout nouvel habitant d'une commune à déclarer son domicile à la mairie de cette commune. Il relève à cet égard qu'aucune demande en ce sens ne lui a été adressée par les associations nationales d'élus. Cette obligation générale de déclaration domiciliaire se traduirait par la constitution d'un fichier de données à caractère personnel, ce qui pose nécessairement la question du respect des exigences constitutionnelles relatives à la protection des libertés individuelles, et notamment les principes constitutionnels de liberté d'aller et venir et de respect de la vie privée. Comme l'a souligné le Conseil constitutionnel (Conseil constitutionnel, décision n° 2014-690 DC du 13 mars 2014), la création d'un traitement de données à caractère personnel doit être justifiée par un motif d'intérêt général précis et d'une importance suffisante, afin d'aboutir à une conciliation équilibrée avec la protection des libertés individuelles. Or, en l'espèce, la création d'un fichier d'une telle ampleur, non motivée par un intérêt général précis comme les situations d'urgence ou des circonstances exceptionnelles par exemple, pourrait soulever une difficulté sérieuse au regard de ces exigences constitutionnelles. Enfin, une telle obligation créerait des charges peu justifiées pour les communes. Celles-ci seraient contraintes de s'organiser pour recevoir les déclarations de domicile, délivrer des récépissés et tenir un registre de la population communale.
