@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — TERRITOIRE NUMÉRIQUE ÉDUCATIF (TNE) PHASE 2 : ÉQUIPEMENT ÉCOLES MATERNELLES AUPRÈS DU CONSEIL DÉPARTEMENTAL AU TITRE DE L'AIDE AU DÉVELOPPEMENT DE LA PROVENCE NUMÉRIQUE ET AUPRÈS DES AUTRES PARTENAIRES INSTITUTIONNELS
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2023-01-20
+- Séance : Conseil Municipal 1CA
+- Objet : TERRITOIRE NUMÉRIQUE ÉDUCATIF (TNE) PHASE 2 : ÉQUIPEMENT ÉCOLES MATERNELLES AUPRÈS DU CONSEIL DÉPARTEMENTAL AU TITRE DE L'AIDE AU DÉVELOPPEMENT DE LA PROVENCE NUMÉRIQUE ET AUPRÈS DES AUTRES PARTENAIRES INSTITUTIONNELS
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-15262-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
