@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SA HLM CDC HABITAT SOCIAL - OPÉRATION C'UR DURANNE PP - ACQUISITION EN VEFA DE 13 LOGEMENTS LOCATIFS SOCIAUX (8 PLAI - 5 PLUS) - EMPRUNT DE 1 165 897 EUROS SOUSCRIT AUPRÈS DE LA CAISSE DES DÉPÔTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 50 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2023-01-20
+- Séance : Conseil Municipal 1CA
+- Objet : SA HLM CDC HABITAT SOCIAL - OPÉRATION C'UR DURANNE PP - ACQUISITION EN VEFA DE 13 LOGEMENTS LOCATIFS SOCIAUX (8 PLAI - 5 PLUS) - EMPRUNT DE 1 165 897 EUROS SOUSCRIT AUPRÈS DE LA CAISSE DES DÉPÔTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 50 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-15223-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
