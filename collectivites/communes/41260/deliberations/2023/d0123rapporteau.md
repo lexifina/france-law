@@ -1,0 +1,10 @@
+# COMMUNE DE THOURY : délibération D0123RAPPORTEAU — COMMUNICATION DU RAPPORT ANNUEL SUR LE PRIX DE L’EAU ET LA QUALITE DU SERVICE PUBLIC D’EAU ET D’ASSAINISSEMENT 2021
+
+- Collectivité : COMMUNE DE THOURY
+- SIREN : 214102600
+- Code INSEE : 41260
+- Date : 2023-01-20
+- Matière : 5.7 Institutions et vie politique/Intercommunalite
+- Objet : COMMUNICATION DU RAPPORT ANNUEL SUR LE PRIX DE L’EAU ET LA QUALITE DU SERVICE PUBLIC D’EAU ET D’ASSAINISSEMENT 2021
+- Acte publié : https://publication-actes.fr/OpenData/214102600/Deliberation/2023/41b5971afcea3c77c99d56ea341bac4d02f7e41983bbf21e756fa302923fe82a.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
