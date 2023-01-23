@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_004 — DÉLIBÉRATION 2023-04 ADOPTION DU RÈGLEMENT RELATIF A L’INSTAURATION D’UN BUDGET PARTICIPATIF
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-01-23
+- Matière : 7.10 Finances locales/Divers
+- Objet : DÉLIBÉRATION 2023-04 ADOPTION DU RÈGLEMENT RELATIF A L’INSTAURATION D’UN BUDGET PARTICIPATIF
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/8603e06186e96ba51b880afeea037cbfbb6cb0e592b2e19368a6d06a2c74fe8a.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
