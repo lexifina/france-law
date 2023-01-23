@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_007 — DELIBERATION 2023-07 ADOPTION D’UNE CONVENTION DE SUBVENTION AVEC L'ALERTE SPORTIVE DE MONTLOUIS
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-01-23
+- Matière : 1.3 Commande Publique/Conventions de Mandat
+- Objet : DELIBERATION 2023-07 ADOPTION D’UNE CONVENTION DE SUBVENTION AVEC L'ALERTE SPORTIVE DE MONTLOUIS
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/92b775e3decba060d45bf65ee661fca7ec80ccf350fe334a65d8f342fc009de3.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
