@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_005 — DELIBERATION 2023-05 CREATION D’UN POSTE D’ADJOINT TECHNIQUE PRINCIPAL DE 2EME CLASSE ET d’UN POSTE D’ADJOINT TECHNIQUE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-01-23
+- Matière : 4.1.1 Fonction publique/Personnel titulaires et stagiaires de la F.P.T.
+- Objet : DELIBERATION 2023-05 CREATION D’UN POSTE D’ADJOINT TECHNIQUE PRINCIPAL DE 2EME CLASSE ET d’UN POSTE D’ADJOINT TECHNIQUE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/122cb92d2844b79f3bcf59d4a6262563d3e61f1af5e688e5a66104e2321ec94f.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
