@@ -1,0 +1,99 @@
+# Projet de loi de financement rectificative de la sécurité sociale pour 2023
+
+- Procédure : Projet de loi de financement de la sécurité sociale
+- Législature : 16
+- Identifiant : DLR5L16N47066
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/plrfss_pour_2023
+- Sénat : https://www.senat.fr/dossier-legislatif/pjl22-368.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-01-23 : 1er dépôt d'une initiative. (PRJLANR5L16B0760)
+  - 2023-01-23 : Etude d'impact (ETDIANR5L16B0760)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-01-23 : Renvoi en commission au fond
+      - 2023-01-23 : Nomination de rapporteur
+      - 2023-01-30 : Réunion de commission
+      - 2023-01-30 : Réunion de commission
+      - 2023-01-30 : Réunion de commission
+      - 2023-01-31 : Réunion de commission
+      - 2023-01-31 : Réunion de commission
+      - 2023-01-31 : Réunion de commission
+      - 2023-02-01 : Réunion de commission
+      - 2023-02-01 : Réunion de commission
+      - 2023-02-06 : Réunion de commission
+      - 2023-02-10 : Réunion de commission
+      - 2023-02-01 : Dépôt de rapport (RAPPANR5L16B0814)
+    - Travaux d'une commission saisie pour avis
+      - 2023-01-23 : Saisine pour avis d'une commission
+      - 2023-01-25 : Nomination de rapporteur
+      - 2023-01-25 : Réunion de commission
+      - 2023-01-27 : Réunion de commission
+      - 2023-01-27 : Réunion de commission
+      - 2023-01-27 : Dépôt de rapport (AVISANR5L16B0771)
+    - Travaux d'une commission saisie pour avis
+      - 2023-01-26 : Saisine pour avis d'une commission
+      - 2023-01-31 : Nomination de rapporteur
+      - 2023-01-31 : Réunion de commission
+      - 2023-01-31 : Réunion de commission
+      - 2023-02-03 : Dépôt de rapport (AVISANR5L16B0819)
+  - Discussion en séance publique
+    - 2023-02-06 : Discussion en séance publique
+    - 2023-02-06 : Discussion en séance publique
+    - 2023-02-07 : Discussion en séance publique
+    - 2023-02-07 : Discussion en séance publique
+    - 2023-02-08 : Discussion en séance publique
+    - 2023-02-08 : Discussion en séance publique
+    - 2023-02-10 : Discussion en séance publique
+    - 2023-02-10 : Discussion en séance publique
+    - 2023-02-10 : Discussion en séance publique
+    - 2023-02-13 : Discussion en séance publique
+    - 2023-02-13 : Discussion en séance publique
+    - 2023-02-14 : Discussion en séance publique
+    - 2023-02-14 : Discussion en séance publique
+    - 2023-02-15 : Discussion en séance publique
+    - 2023-02-15 : Discussion en séance publique
+    - 2023-02-16 : Discussion en séance publique
+    - 2023-02-16 : Discussion en séance publique
+    - 2023-02-16 : Discussion en séance publique
+    - 2023-02-17 : Discussion en séance publique
+    - 2023-02-17 : Discussion en séance publique
+    - 2023-02-17 : Discussion en séance publique
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-02-18 : Dépôt d'une initiative en navette (PRJLSNR5S399B0368)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-02-18 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-02-28 : Dépôt de rapport (RAPPSNR5S399B0375)
+  - Discussion en séance publique
+    - 2023-03-11 : Décision
+- Commission Mixte Paritaire
+  - 2023-03-13 : Dépôt d'un projet de loi (PRJLANR5L16B0945)
+  - 2023-03-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2023-03-15 : Nomination de rapporteur
+    - 2023-03-15 : Dépôt du rapport d'une CMP (RAPPANR5L16B0950, PRJLANR5L16BTC0950)
+    - 2023-03-15 : Dépôt du rapport d'une CMP (RAPPSNR5S399B0435, PRJLSNR5S399BTC0436)
+  - Discussion en séance publique
+    - 2023-03-16 : Décision
+  - Discussion en séance publique
+    - 2023-03-16 : Discussion en séance publique
+  - Discussion en séance publique
+    - 2023-03-20 : Discussion en séance publique
+    - 2023-03-20 : Discussion en séance publique
+    - 2023-03-20 : Décision
+  - 2023-03-15 : Décision de la CMP
+  - 2023-03-16 : Dépôt d'une déclaration du gouvernement (DECLANR5L16B0950)
+  - 2023-03-17 : Motion de censure
+  - 2023-03-17 : Motion de censure
+- Conseil constitutionnel
+  - 2023-03-21 : Saisine du conseil constitutionnel
+  - 2023-03-21 : Saisine du conseil constitutionnel
+  - 2023-03-22 : Saisine du conseil constitutionnel
+  - 2023-03-23 : Saisine du conseil constitutionnel
+  - 2023-04-14 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2023-04-14 : Promulgation d'une loi
