@@ -1,0 +1,9 @@
+# Réponse à la question n° 1365
+
+- Question : [1365](1365.md) — Question n° 1365 — Augmentation des frais de chauffage des gendarmes logés dans le parc domanial
+
+## Réponse
+
+*JO du 2023-01-24, page 676*
+
+Depuis fin 2021, les militaires souscrivant directement leur contrat de gaz bénéficient du dispositif du bouclier tarifaire, qu'ils soient logés dans le parc domanial ou locatif. Par décret du 9 avril 2022, le Gouvernement a étendu le dispositif sur le gaz naturel à l'habitat collectif. Toutefois, les dispositions initiales du texte ne permettaient pas aux titulaires d'un logement concédé par nécessité absolue de service (LCNAS) en chauffage collectif, d'en bénéficier. Aussi, la DGGN est intervenue auprès de ses partenaires interministériels pour proposer des dispositions visant à modifier le décret du 9 avril 2022. Tous les militaires de la gendarmerie, quelle que soit leur affectation, qu'ils occupent un LCNAS ou un logement militaire familial (LMF), seront désormais éligibles au bouclier tarifaire, selon le décret no 2022-1430 du 14 novembre 2022, lorsque le tarif souscrit par l'État ou par le bailleur est supérieur au tarif réglementé. Les militaires, dont le contrat est éligible, n'ont aucune démarche à effectuer pour bénéficier de la compensation. La Direction des achats de l'État (DAE), chargée de la mise en œuvre des marchés publics interministériels auxquels la gendarmerie a souscrit, a confirmé que les tarifs en 2022 étaient inférieurs de 50 % au Tarif réglementé de vente (TRV). Pour 2023, les marchés interministériels augmenteront de 98 % pour absorber le coût de l'énergie, tout en restant en deçà du TRV. La gendarmerie programme chaque année, en fonction des crédits ouverts en loi de finances initiale (LFI), des opérations de réhabilitation et de traitement du clos et du couvert incluant l'isolation et la reprise des systèmes de chauffage.
