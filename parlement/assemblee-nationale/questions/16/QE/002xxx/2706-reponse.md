@@ -1,0 +1,9 @@
+# Réponse à la question n° 2706
+
+- Question : [2706](2706.md) — Question n° 2706 — Implantation de pigeonnier en milieu urbanisé
+
+## Réponse
+
+*JO du 2023-01-24, page 628*
+
+Le ministère de l'agriculture et de la souveraineté alimentaire défend le principe d'une cohabitation harmonieuse entre les activités agricoles, ancrées dans les territoires et essentielles à la France et les habitants de ces territoires. La prévention des troubles de voisinage et des conflits qui peuvent apparaître relèvent, selon les cas, du code de la santé publique ou du code de l'urbanisme. Ainsi à l'échelon départemental, le règlement sanitaire départemental (RSD), arrêté par le préfet, fixe des distances d'éloignement des bâtiments d'élevage, des zones d'habitation, ainsi que des règles d'entretien destinées à assurer l'hygiène générale des installations concernées et à éviter la prolifération de nuisibles. La bonne application du RSD relève de la compétence du maire de la commune, dans le cadre des pouvoirs de police générale que lui confère l'article L. 2212-2 du code général des collectivités territoriales. À l'échelon communal, le maire dispose également, en vertu de l'article R. 111-2 du code de l'urbanisme, d'un pouvoir de police spécial qui peut être mis en œuvre dans le cadre de la délivrance d'autorisations d'urbanisme, sous réserve de l'appréciation souveraine des tribunaux. Ce texte d'ordre public, a vocation à s'appliquer sur le territoire de l'ensemble des communes qu'elles soient ou non dotées d'un document d'urbanisme approuvé. Cette disposition prévoit en effet que « Le projet peut être refusé ou n'être accepté que sous réserve de l'observation de prescriptions spéciales s'il est de nature à porter atteinte à la salubrité ou à la sécurité publique du fait de sa situation, de ses caractéristiques, de son importance ou de son implantation à proximité d'autres installations. ».
