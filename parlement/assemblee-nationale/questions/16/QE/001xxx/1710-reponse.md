@@ -1,0 +1,9 @@
+# Réponse à la question n° 1710
+
+- Question : [1710](1710.md) — Question n° 1710 — Avenir du Pays d'Arles et de la métropole Aix-Marseille-Provence (AMP)
+
+## Réponse
+
+*JO du 2023-01-24, page 732*
+
+La Métropole d'Aix-Marseille-Provence (MAMP) a été créée au 1er janvier 2016 par la loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles, par la fusion de six établissements publics de coopération intercommunale à fiscalité propre. L'article 181 de la loi n° 2022-2017 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale (dite « 3DS ») simplifie la gouvernance de cette métropole et restitue aux communes des compétences de proximité. Il appartient aux élus locaux de mettre en oeuvre ces dispositions législatives, en particulier en définissant l'intérêt métropolitain de certaines compétences. Ce même article a par ailleurs prévu la remise, avant le 1er septembre 2022, d'un avis de la chambre régionale des comptes sur les relations financières entre la métropole et ses communes membres, notamment s'agissant du niveau des attributions de compensation versées aux communes par la métropole et les établissements publics de coopération intercommunale préexistants. Aux termes de l'article 181 de la loi précitée, le président du conseil de la métropole doit organiser un débat visant à se prononcer sur ce rapport et sur les conséquences que le conseil métropolitain souhaite en tirer. L'avis de la chambre régionale des comptes a été publié le 29 août 2022, et des débats sont en cours. L'intention du législateur n'était donc pas de procéder à une modification du périmètre de la métropole d'Aix-Marseille-Provence, considérant que les principaux enjeux actuels consistent à mettre en place les réformes de sa gouvernance et de son financement.
