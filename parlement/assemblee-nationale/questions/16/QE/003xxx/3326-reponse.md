@@ -1,0 +1,9 @@
+# Réponse à la question n° 3326
+
+- Question : [3326](3326.md) — Question n° 3326 — Non-prise en charge vétérinaire des chiens réformés de la gendarmerie
+
+## Réponse
+
+*JO du 2023-01-24, page 687*
+
+La circulaire 800/DEF/GEND/OE/EMP/PACR du 29 janvier 1999 précise les modalités de réforme et de cession des chiens de la gendarmerie. Elle consacre notamment la compétence exclusive du Centre national d'instruction cynophile de la gendarmerie (CNICG) pour apprécier l'opportunité de réformer des chiens gendarmes. Seuls les chiens réformés peuvent être cédés à des tiers à l'administration. À l'instar du matériel de droit commun, les chiens réformés sont remis aux domaines (Direction nationale d'interventions domaniales) afin que le montant de vente (ou éventuellement sa gratuité) du chien soit fixé. Les cessions peuvent se réaliser au profit : – du maître de chien, qui dispose d'un droit prioritaire à l'acquisition ; – ou d'un particulier (vente classique aux domaines). Une fois réformés, les chiens quittent le patrimoine de la gendarmerie, qui n'a donc plus à assurer le suivi de l'animal ou son maintien en condition opérationnelle (vaccin, soins, etc.). Cette situation s'applique aussi bien lorsque les chiens sont remis au maître de chien ou à un tiers particulier. Les nouveaux maîtres peuvent alors contracter à titre personnel une assurance/mutuelle spécifique. Toutefois, le CNICG participe à la réflexion sur les modalités et dispositifs d'aide pouvant être apportés pour pallier ces frais et des fondations/œuvres peuvent prendre en compte cette problématique. A titre d'exemple, une aide financière, basée sur le reste à vivre de la famille, a été proposée par l'œuvre des Bleuets de France pour aider les foyers ayant adopté un chien militaire réformé à prendre en compte les frais du chien. Cette prestation, en test sur 2022, devrait être prolongée sur 2023.
