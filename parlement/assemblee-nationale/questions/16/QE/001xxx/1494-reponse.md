@@ -1,0 +1,9 @@
+# Réponse à la question n° 1494
+
+- Question : [1494](1494.md) — Question n° 1494 — Échelon grand or à la médaille d'honneur régionale, départementale, communale
+
+## Réponse
+
+*JO du 2023-01-24, page 676*
+
+Instituée en 1987, la médaille d'honneur régionale, départementale et communale est destinée à récompenser les personnes qui ont manifesté une réelle compétence et un dévouement constant au service des régions, des départements, des communes et de leurs établissements publics ainsi que des offices publics d'habitation à loyer modéré et des caisses de crédit municipal. Les personnes éligibles sont les titulaires et anciens titulaires de mandats électifs des régions, des départements et des communes, les agents et anciens agents de ces collectivités ainsi que les agents de l'État ayant rendu des services pour le compte de ces collectivités locales et établissements publics. À ce jour, cette distinction comporte trois échelons : argent, vermeil et or dont la durée des services requis est similaire à celle attendue pour la médaille d'honneur du travail. Toutefois, à la différence de celle-ci, elle ne comporte pas d'échelon permettant de récompenser quarante années de service. La création d'un quatrième échelon, correspondant à quarante années de service, permettrait légitimement d'harmoniser la récompense des fonctionnaires territoriaux avec celle dont peuvent bénéficier les salariés, et serait ainsi l'occasion de tenir compte des carrières longues dans les collectivités ou organismes publics. Elle est souhaitée par les élus locaux et les organisations syndicales représentatives des agents publics territoriaux. Le Gouvernement y est également favorable. En conséquence, il engagera prochainement la réforme réglementaire nécessaire à la création d'un nouvel échelon « Grand or » à la médaille d'honneur régionale, départementale et communale.
