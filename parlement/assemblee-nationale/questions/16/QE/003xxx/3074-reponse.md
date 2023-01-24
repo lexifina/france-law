@@ -1,0 +1,9 @@
+# Réponse à la question n° 3074
+
+- Question : [3074](3074.md) — Question n° 3074 — Vulnérabilité des logements face au retrait-gonflement des sols argileux
+
+## Réponse
+
+*JO du 2023-01-24, page 685*
+
+Une réforme législative du régime de la garantie catastrophe naturelle a été adoptée par le Parlement et promulguée le 28 décembre 2021. Le texte renforce notamment la transparence des décisions prises pour l'ensemble des phénomènes concernés par la garantie, y compris le phénomène de sécheresse-réhydratation des sols. Par ailleurs, l'article 161 de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale, habilite le Gouvernement à entreprendre par voie d'ordonnance, dans un délai d'un an, une réforme des modalités d'indemnisation du phénomène sécheresse-réhydratation des sols au sein du régime de la garantie catastrophe naturelle. Les travaux du Gouvernement sont en cours pour mettre en œuvre cette réforme. Par ailleurs, le Gouvernement souhaite rappeler la mise en œuvre en 2020 d'une aide aux sinistrés les plus affectés par l'épisode de sécheresse de l'année 2018 dont les communes n'avaient pas été reconnues en état de catastrophe naturelle. Le dispositif a été précisé par les décrets n° 2020-1423 du 19 novembre 2020, n° 2021-640 du 21 mai 2021 et n° 2021-1278 du 29 septembre 2021 publiés aux Journal officiel. De plus, le décret n° 2022-1737 du 30 décembre 2022 relatif à l'indemnisation des catastrophes naturelles permet d'améliorer les conditions de prises en charge des sinistrés. Conscient des limites du dispositif actuel de prise en charge des désordres provoqués par le retrait-gonflement des argiles et des enjeux dans le contexte de réchauffement climatique, le Gouvernement se mobilise pour travailler à l'amélioration de l'indemnisation de ce phénomène complexe.
