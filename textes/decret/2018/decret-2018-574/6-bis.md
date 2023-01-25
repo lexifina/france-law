@@ -55,3 +55,9 @@ Par dérogation à l'article 3, le montant de l'aide apportée aux représentati
 Lorsqu'au moins un technicien est attaché à la production de la représentation, le nombre d'emplois pris en compte pour le calcul de l'aide est majoré d'une unité par technicien dans la limite de deux unités.
 
 IV.-Les aides visées au présent article 6 bis sont versées sous réserve du respect du plafond de deux cent mille (200 000) euros sur trois exercices fiscaux prévu par le règlement du 18 décembre 2013 susvisé.
+
+V.-Pour l'application des dispositions du présent article, les dispositions des articles auxquels il est fait référence sont celles applicables dans leur version antérieure à l'entrée en vigueur du décret n° 2023-21 du 23 janvier 2023 relatif à la prolongation et à l'adaptation du Fonds national pour l'emploi pérenne dans le spectacle (FONPEPS), du dispositif de soutien à l'emploi du plateau artistique de spectacles vivants diffusés dans des salles de petite jauge et du dispositif de soutien à l'emploi dans le secteur de l'édition phonographique.
+
+NOTA :
+
+Se reporter aux conditions d'application prévues à l'article 14 du décret n° 2023-21 du 23 janvier 2023.
