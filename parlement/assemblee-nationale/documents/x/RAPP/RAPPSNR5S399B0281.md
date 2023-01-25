@@ -1,0 +1,10 @@
+# rapport sur la proposition de loi de M. Bernard Jomier, Mmes Catherine Conconne, Corinne Féret, MM. Jean-Luc Fichet, Jean-Luc Fichet, Mmes Victoire Jasmin, Annie Le Houerou, Monique Lubin, Michelle Meunier, Émilienne Poumirol, Laurence Rossignol, Laurence Rossignol, MM. Maurice Antiste, David Assouline, Joël Bigot, Mme Nicole Bonnefoy, MM. Hussein Bourgi, Rémi Cardon, Mme Marie-Arlette Carlotti, MM. Yan Chantrel, Gilbert-Luc Devinaz, Gilbert-Luc Devinaz, Rémi Féraud, Mmes Martine Filleul, Laurence Harribey, M. Éric Kerrouche, Mmes Marie-Pierre de la Gontrie, Marie-Pierre Monier, M. Franck Montaugé, Mme Angèle Préville, MM. Christian Redon-Sarrazy, Gilbert Roger, Lucien Stanzione, Jean-Pierre Sueur, Rachid Temal, Jean-Claude Tissot, Jean-Marc Todeschini, Mickaël Vallet et Mme Sabine Van Heghe relative à l'instauration d'un nombre minimum de soignants par patient hospitalisé (105).
+
+- Type : Rapport
+- Dénomination : Rapport
+- Provenance : Commission
+- Titre court : rapport sur la proposition de loi de M. Bernard Jomier, Mmes Catherine Conconne, Corinne Féret, MM. Jean-Luc Fichet, Jean-Luc Fichet, Mmes Victoire Jasmin, Annie Le Houerou, Monique Lubin, Michelle Meunier, Émilienne Poumirol, Laurence Rossignol, Laurence Rossignol, MM. Maurice Antiste, David Assouline, Joël Bigot, Mme Nicole Bonnefoy, MM. Hussein Bourgi, Rémi Cardon, Mme Marie-Arlette Carlotti, MM. Yan Chantrel, Gilbert-Luc Devinaz, Gilbert-Luc Devinaz, Rémi Féraud, Mmes Martine Filleul, Laurence Harribey, M. Éric Kerrouche, Mmes Marie-Pierre de la Gontrie, Marie-Pierre Monier, M. Franck Montaugé, Mme Angèle Préville, MM. Christian Redon-Sarrazy, Gilbert Roger, Lucien Stanzione, Jean-Pierre Sueur, Rachid Temal, Jean-Claude Tissot, Jean-Marc Todeschini, Mickaël Vallet et Mme Sabine Van Heghe relative à l'instauration d'un nombre minimum de soignants par patient hospitalisé (105).
+- Déposé le : 2023-01-25
+- Dossier : DLR5L16N46650
+- Auteurs : Mme Laurence Rossignol (rapporteur), Commission des affaires sociales
+- Identifiant : RAPPSNR5S399B0281
