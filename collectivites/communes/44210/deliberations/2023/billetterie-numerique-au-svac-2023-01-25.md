@@ -1,0 +1,11 @@
+# Trignac : délibération — Billetterie numérique au SVAC
+
+- Collectivité : Trignac
+- SIREN : 214402109
+- Code INSEE : 44210
+- Date : 2023-01-25
+- Matière : 8.9 Domaine de compétence par thème,Culture
+- Objet : Billetterie numérique au SVAC
+- Transmis à la préfecture : 2023-01-27
+- Acte publié : https://www.mairie-trignac.fr/medias/2023/02/Tamponne_Ss_Pref_DEL_20230125_11_Billetterie_numerique_changement_option.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/66fb3b9df38a0ba45a679c34
