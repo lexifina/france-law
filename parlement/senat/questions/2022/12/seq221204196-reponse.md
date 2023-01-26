@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204196
+
+- Question : [SEQ221204196](seq221204196.md) — Recouvrement de sommes engagées par une commune suite à procédure de péril imminent
+
+## Réponse
+
+*Ville et logement, JO du 2023-01-26, page 624*
+
+L'ordonnance n° 2020-1141 du 16 septembre 2020 relative à l'harmonisation et à la simplification des polices des immeubles, locaux et installations a créé une police de la sécurité et de la salubrité des immeubles locaux et installations en remplacement de plus d'une dizaine de procédures dont celle du péril imminent. Son régime est fixé par les articles L.511-1 et suivants du code de la construction et de l'habitation (CCH). Ainsi, conformément à ces dispositions, un maire peut prendre un arrêté de mise en sécurité en procédure d'urgence pour un immeuble qui expose ses occupants ou les tiers à un risque imminent pour leur sécurité. À ce titre, si l'immeuble est en indivision, les co-indivisaires sont solidairement responsables de réaliser les mesures prescrites. De même, en cas d'exécution d'office des mesures prescrites par la commune, ils sont solidairement responsables du remboursement des dépenses engagées par la commune. De plus, l'article L.541-1 du CCH dispose que « n'est pas suspensive l'opposition introduite devant le juge administratif au titre exécutoire émis par (…) la commune (…) en paiement d'une créance résultant : (…) 2° De l'exécution d'office décidée en application de l'article L. 511-16 (…) ». Par ailleurs, il convient de rappeler que le non-respect d'un arrêté de mise en sécurité est constitutif d'une infraction pénale. En effet, l'article L.511-22 du CCH dispose que « I.-Est puni d'un an d'emprisonnement et d'une amende de 50 000 € le refus délibéré et sans motif légitime d'exécuter les travaux et mesures prescrits en application du présent chapitre. (…) »
