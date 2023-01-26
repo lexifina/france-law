@@ -232,6 +232,8 @@ Directeur de la police aux frontières des aérodromes parisiens et directeur de
 
 Chef d'état-major.
 
+Chef de l'office de lutte contre le trafic illicite de migrants.
+
 9. Direction centrale des compagnies républicaines de sécurité :
 
 Chef d'état-major.
