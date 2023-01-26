@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700595
+
+- Question : [SEQ220700595](seq220700595.md) — Travaux réalisés en méconnaissance des règles d'urbanisme
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-01-26, page 510*
+
+L'article L. 480-1 du code de l'urbanisme dispose que « Lorsque l'autorité administrative et, au cas où il est compétent pour délivrer les autorisations, le maire ou le président de l'établissement public de coopération intercommunale compétent ont connaissance d'une infraction de la nature de celles que prévoient les articles L. 480-4 et L. 610-1, ils sont tenus d'en faire dresser procès-verbal. ». En vertu de cette disposition, lorsqu'il a connaissance de la réalisation de travaux en méconnaissance des règles d'urbanisme, le maire est en situation de compétence liée. En effet, la constatation de l'infraction relève d'une mission de police judiciaire exercé au nom de l'État (Conseil d'État, 10 décembre 2004, n° 266424). Toutefois, le code de l'urbanisme prévoit une possibilité de régularisation après mise en demeure. Le maire d'une commune peut, une fois le procès-verbal d'infraction établi, mettre en demeure la personne responsable d'une infraction d'urbanisme de régulariser la situation, en précisant les opérations nécessaires à cette mise en conformité dans un délai déterminé par les services instructeurs en fonction de la nature de l'infraction et des moyens d'y remédier. Cette mise en demeure peut être assortie d'une astreinte d'un montant maximal de 500 euros par jour de retard (article L. 481-1 du code de l'urbanisme). La procédure de constatation d'infraction constitue ainsi un préalable à la procédure de mise en demeure sous astreinte. Cette dernière « ne se substitue pas aux poursuites pénales qui peuvent être engagées mais en est le complément (…) » (Conseil d'État, 5 septembre 2019, n° 398312).
