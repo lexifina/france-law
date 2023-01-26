@@ -1632,7 +1632,7 @@ Opposition à mariage, prévue à l'article 176 du code civil
 
 Actes en provenance et à destination d'un autre Etat |
 
-Signification en provenance d'un autre Etat, prévue dans le Règlement (CE) n° 1393/2007 du Parlement européen et du Conseil du 13 novembre 2007 relatif à la signification et à la notification dans les Etats membres des actes judiciaires et extrajudiciaires en matière civile ou commerciale, et abrogeant le règlement (CE) n° 1348/2000 du Conseil et à l'article 688-2 du code de procédure civile
+Signification en provenance d'un autre Etat, prévue dans le Règlement (UE) 2020/1784 du Parlement européen et du Conseil du 25 novembre 2020 relatif à la signification et à la notification dans les Etats membres des actes judiciaires et extrajudiciaires en matière civile ou commerciale (signification ou notification des actes) (refonte) et à l'article 688-2 du code de procédure civile
 
 |
 
@@ -4243,7 +4243,3 @@ Incidents |
 Incidents |
 
 Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 789 du code de procédure civile et contestations et demandes incidentes mentionnées à l'article R. 311-6 du code des procédures civiles d'exécution) |
-
-NOTA :
-
-Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
