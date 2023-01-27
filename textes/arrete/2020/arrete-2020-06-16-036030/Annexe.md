@@ -418,9 +418,9 @@ Toulon la Seyne bureau
 
 |
 
-Du 1er juillet 2022
+Du 1er juillet 2022 au 30 juin 2025.
 
-au 30 juin 2025. |
+|
 
 Opération :
 
@@ -430,9 +430,9 @@ Service concerné :
 
 Bureau de Papeete-Port. |
 
-Du 1er juillet 2022
+Du 1er juillet 2022 au 30 juin 2025.
 
-au 30 juin 2025. |
+|
 
 Opération :
 
@@ -442,9 +442,9 @@ Service concerné :
 
 Unité information passagers (UIP). |
 
-Du 1er juillet 2022
+Du 1er juillet 2022 au 30 juin 2025.
 
-au 30 juin 2025. |
+|
 
 Opération :
 
@@ -454,9 +454,9 @@ Service concerné :
 
 Service grands comptes (SGC). |
 
-Du 1er juillet 2022
+Du 1er juillet 2022 au 29 février 2024.
 
-au 29 février 2024. |
+|
 
 Opération :
 
@@ -466,6 +466,38 @@ Agent concerné :
 
 L'EMC tabac de la BSI de Toulon. |
 
-Du 1er juillet 2022
+Du 1er juillet 2022 au 29 février 2024
 
-au 29 février 2024 |
+|
+
+Opération :
+
+Déménagement de la brigade de surveillance navale (BSN) de Bayonne à Hendaye.
+
+Service concerné :
+
+BSN d'Hendaye (anciennement BSN de Bayonne). |
+
+Du 1er janvier 2022 au 31 décembre 2022
+
+|
+
+Opération :
+
+Reprise du dédouanement des envois postaux par le groupe La Poste.
+
+Services concernés :
+
+Saint Denis aéroport
+
+Degrad des Cannes port bureau
+
+Fort de France messageries bureau
+
+Le Raizet bureau
+
+L'antenne CDP de Kaweni du bureau de Longoni port. |
+
+Du 1er octobre 2021 au 31 mai 2023
+
+|
