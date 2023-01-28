@@ -13,3 +13,5 @@ Les montants mentionnés aux deux alinéas précédents sont revalorisés dans l
 § 3 - Dans le cadre du droit d'option mentionné au §3 de l'article 26, le choix effectué par l'intéressé en faveur du droit qui aurait été servi en l'absence de reliquat fait repartir le délai de 182 jours mentionné au premier alinéa du §1er à compter de la date d'ouverture du nouveau droit.
 
 § 4 - La révision du droit mentionnée à l'article 34 fait repartir le délai de 182 jours mentionné au premier alinéa du §1er à compter de la date de révision du droit.
+
+§ 5.-La prolongation du droit dans les conditions prévues au 2° du § 1er de l'article 9 ou au § 7 du même article ne fait pas repartir le délai de 182 jours mentionné au premier alinéa du § 1er.
