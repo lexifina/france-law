@@ -1,0 +1,10 @@
+# COMMUNE DE BROUALAN : délibération BROUALAN202304D — DELIBERATION AUTORISANT LE MAIRE A ENGAGER LIQUIDER ET MANDATER LES DEPENSES D INVESTISSEMENT
+
+- Collectivité : COMMUNE DE BROUALAN
+- SIRET : 21350044000010
+- Code INSEE : 35044
+- Date : 2023-01-30
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : DELIBERATION AUTORISANT LE MAIRE A ENGAGER LIQUIDER ET MANDATER LES DEPENSES D INVESTISSEMENT
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500440/Deliberation/2023/329352/f8a76f34e176acb90f599fde0db8d87d8cddbf01e4b4b5c18d9c7e6827308ec9.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
