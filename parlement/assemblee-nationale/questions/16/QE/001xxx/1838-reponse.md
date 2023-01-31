@@ -1,0 +1,9 @@
+# Réponse à la question n° 1838
+
+- Question : [1838](1838.md) — Question n° 1838 — Accès des jeunes aux contenus pornographiques
+
+## Réponse
+
+*JO du 2023-01-31, page 927*
+
+L'ensemble du gouvernement est fortement mobilisé pour lutter contre l'exposition des mineurs aux contenus violents et pornographiques. Il s'agit tout d'abord de généraliser l'usage des dispositifs de contrôle parental : la loi n° 2022-300 du 2 mars 2022 rend obligatoire la pré-installation d'un dispositif de contrôle parental sur les appareils connectés vendus en France : l'activation de ce dispositif devra être proposée à l'utilisateur dès la première mise en service de l'équipement. Un décret d'application sera publié au premier trimestre 2023. Par ailleurs, il s'agit de renforcer la responsabilité des sites pornographiques sur l'accès des mineurs aux contenus pornographiques. La loi n° 2020-936 du 30 juillet 2020 a complété l'article 227-24 du code pénal afin de préciser que le fait de déclarer volontairement son âge en ligne ne constitue pas une protection suffisante pour les mineurs. Les missions de l'ARCOM ont été également renforcées en introduisant un pouvoir de sanction financière à l'égard des plateformes d'échanges de vidéo qui ne mettraient pas en place de mesures de protection appropriées. Ces mesures doivent aussi permettre de doter le juge des fondements juridiques nécessaires pour procéder aux blocage des sites contrevenants. Enfin, il s'agit de sensibiliser les parents et de prévenir les effets néfastes d'une consultation de contenus pornographiques par un meilleur accompagnement des mineurs eux-mêmes et de leurs parents. Dans ce cadre, la plateforme jeprotegemonenfant.gouv.fr, lancée en 2021, propose des outils, des conseils et des ressources pratiques pour mieux informer et accompagner les parents pour qu'ils protègent leurs enfants. Une campagne de sensibilisation à destination des parents a également eu lieu en février 2021.
