@@ -1,0 +1,9 @@
+# Réponse à la question n° 4507
+
+- Question : [4507](4507.md) — Question n° 4507 — Fonctionnement de l'aide sociale à l'enfance (ASE)
+
+## Réponse
+
+*JO du 2023-01-31, page 929*
+
+La secrétaire d'Etat auprès de la première ministre, chargée de l'enfance, est pleinement mobilisée pour améliorer le dispositif de protection de l'enfance, en particulier celui, indispensable, de la mise en œuvre des mesures d'assistance éducative en milieu ouvert. Dès janvier 2023, débutera l'expérimentation des comités départementaux de protection de l'enfance, dont la mission sera d'assurer la cohérence des politiques publiques mises en œuvre dans le département en matière de protection de l'enfance. Il constitue une instance stratégique de coordination et de décision pour l'ensemble des acteurs de la protection de l'enfance sur le territoire concerné. En son sein, l'ensemble des acteurs concernés, institutionnels, associatifs, ou professionnels, doivent se coordonner, échanger et répondre aux besoins des enfants, qui sont au centre de nos préoccupations. Le comité devra permettre à chacun, dans le cadre de ses responsabilités propres, de partager des problématiques – tout particulièrement d'inadéquation entre les besoins et l'offre en terme de mesures d'assistance éducative en milieu ouvert - et de trouver des solutions au niveau local, comme de nombreux départements confrontés à des retards importants ont pu déjà le faire, avec des résultats significatifs. En 2023 sera aussi poursuivie la contractualisation avec les départements, assortie de crédits dédiés, fixés à 140 millions d'euros dans la loi de finances pour 2023 (programme 304), outre les crédits mobilisables au titre des FIR et de l'ONDAM. Dans le cadre de ces contrats, il pourra être envisagé d'accentuer l'effort pour améliorer les délais de mise en œuvre des mesures d'assistance éducative en milieu ouvert.
