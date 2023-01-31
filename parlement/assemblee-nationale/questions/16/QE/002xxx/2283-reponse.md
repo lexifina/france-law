@@ -1,0 +1,9 @@
+# Réponse à la question n° 2283
+
+- Question : [2283](2283.md) — Question n° 2283 — Rétablissement de la franchise de 30 euros à l'aide médicale d'État
+
+## Réponse
+
+*JO du 2023-01-31, page 951*
+
+Au lieu de générer des économies, l'instauration d'une franchise ou d'un droit de timbre pour bénéficier de l'aide médicale de l'Etat (AME) contribue à la hausse des dépenses publiques. En effet, les personnes qui ne peuvent payer ce droit d'entrée renoncent à leurs soins. Elles se présentent à l'hôpital quand elles n'ont plus d'autre choix, avec des pathologies aggravées, qui coûtent plus cher à soigner. Outre les risques engendrés pour la santé publique, cela entraîne des transferts de charge sur les hôpitaux et les dépenses de soins urgents. L'instauration d'un droit de timbre de 30 € entre 2011 et 2012, malgré 7 M€ de recettes fiscales et la baisse des effectifs de bénéficiaires AME sur la période, a entrainé : - la hausse de 10 % de la dépense moyenne par bénéficiaire (708 € de dépense trimestrielle en 2011, par rapport à 640 € en 2010) ; - un report sur les « soins urgents », dont les dépenses ont augmenté de 18 % en 2011 (+ 14 M€), de 33 % en 2012 (+30 M€) et de 7,5 % en 2013 (+ 9 M€), passant ainsi de 76 à 129 M€ entre 2010 et 2013. Par ailleurs, il convient de rappeler que d'après l'enquête « Premiers Pas » de l'institut de recherche et documentation en économie de la santé et l'université de Bordeaux, menée en 2019 auprès de plus 1 200 personnes sans-papiers à Paris et Bordeaux, le recours à l'AME par les personnes qui y sont éligibles demeure faible, et augmente avec la durée du séjour et la maîtrise de la langue française, ce qui n'accrédite pas l'idée d'un recours massif à l'AME à l'arrivée sur le territoire. Seules 24 % des personnes éligibles à l'AME, vivant en France depuis moins d'1 an, y ont effectivement recouru et au total, seules 51 % des personnes éligibles à l'AME en sont effectivement bénéficiaires.
