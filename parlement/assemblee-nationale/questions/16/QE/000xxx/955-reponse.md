@@ -1,0 +1,9 @@
+# Réponse à la question n° 955
+
+- Question : [955](955.md) — Question n° 955 — Inventaire des sites souterrains de stockage d'eau
+
+## Réponse
+
+*JO du 2023-01-31, page 904*
+
+En France chaque année l'ensemble des dommages occasionnés par des mouvements de terrain liés à des cavités souterraines (effondrements), ont des conséquences humaines et socio-économiques considérables. Dans le cadre de la politique de prévention des risques naturels, le Bureau de recherches géologiques et minières recense les cavités au sein de la base de donnée « Cavité » à des fins de recueil, d'analyse et de restitution des informations de base nécessaires à la connaissance et à l'étude préalable des phénomènes liés à la présence de cavités. La base BDCavité mémorise de façon homogène, l'ensemble des informations disponibles en France et contribue au porté à connaissance, qui relève du rôle de l'État en matière de prévention des risques. En effet, qu'elles soient d'origine naturelle (creusées par l'eau en milieu soluble), ou anthropique (marnières, tunnels…), les cavités souterraines peuvent affecter la stabilité des sols. Ces informations sont d'ailleurs également disponibles sur le site. La base n'est pas nécessairement exhaustive mais contient un grand nombre de cavités naturelles ou anthropiques, les cavités citées pourraient ainsi y être renseignées, si tel n'est pas déjà le cas. Néanmoins l'exploitation de telles cavités pose de réelles questions de risques liés à l'ennoiement ou la remise en pompage et de variation des niveaux de remplissage, qui dépendent de la nature des terrains. En outre, au-delà de ces risques de mouvement de terrain, les prélèvements devront être considérés au regard des réglementations les encadrant, notamment en matière de risque sanitaire en fonction de l'utilisation qui serait faite de l'eau. Il conviendrait ainsi d'analyser l'opportunité de cette exploitation au cas par cas.
