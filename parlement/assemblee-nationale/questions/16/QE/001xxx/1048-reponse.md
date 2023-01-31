@@ -1,0 +1,9 @@
+# Réponse à la question n° 1048
+
+- Question : [1048](1048.md) — Question n° 1048 — Pénurie de pneumatiques
+
+## Réponse
+
+*JO du 2023-01-31, page 933*
+
+Pour améliorer la sécurité des usagers de la route en période hivernale et éviter les situations de blocage de routes enneigées, une obligation de détention d'équipements adaptés s'applique en France depuis le 1er novembre 2021. Le décret no 2020-1264 du 16 octobre 2020 relatif à l'obligation d'équipement de certains véhicules en période hivernale prévoit que, dans les massifs mentionnés à l'article 5 de la loi no 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne, le préfet de département détermine, par arrêté pris après avis du comité de massif, la liste des communes sur lesquelles des obligations d'équipement des véhicules en circulation s'appliquent en période hivernale. La concertation locale a donc été menée sur l'ensemble des 48 départements appartenant à des massifs montagneux mais l'obligation d'équipement ne s'applique qu'à une liste limitée de communes. Les conducteurs de véhicules légers et d'utilitaires, de camping-cars, d'autocars, d'autobus et de poids lourds sans remorque ni semi-remorque, ont le choix entre détenir des dispositifs antidérapants amovibles (chaînes à neige métalliques ou textiles) permettant d'équiper au moins deux roues motrices, ou être équipés de quatre pneus hiver. Les poids lourds avec remorque ou semi-remorque doivent quant à eux détenir des chaînes à neige permettant d'équiper au moins deux roues motrices, même s'ils sont équipés de pneus hiver. L'alternative laissée entre le port de pneus prévus en déclinaison de la loi Montagne en hiver et la détention de chaînes ou chaussettes à neige permet de pallier d'éventuelles difficultés en matière d'approvisionnement de pneus prévus en déclinaison de la loi Montagne.
