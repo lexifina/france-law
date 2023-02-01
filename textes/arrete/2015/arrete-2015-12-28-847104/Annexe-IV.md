@@ -28,7 +28,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -image
 
--de la lutte anti-terroriste
+-de la lutte antiterroriste
 
 -du management de l'information opérationnelle
 
@@ -40,9 +40,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du pilotage des services
 
--de la police judiciaire
+-de la délinquance générale
 
 -de la préparation et du pilotage de la masse salariale
+
+-de la prévention et des partenariats de sécurité
 
 -de la prospective, de la programmation et du pilotage immobilier
 
@@ -68,35 +70,29 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de l'emploi, des soutiens et des finances au sein du commandement de la gendarmerie pour les réserves et la jeunesse
 
--Secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
-
--Chargé de mission auprès du directeur des soutiens et des finances (1 emploi)
-
 -Chargé de mission au cabinet du directeur général de la gendarmerie nationale (1 emploi)
 
 -Chargé de mission au sein du commandement de la gendarmerie pour les réserves et la jeunesse (1 emploi)
 
 -Chargé de projet auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (3 emplois)
 
--chef du pôle appui au commandement du cabinet du directeur général de la gendarmerie nationale
-
 -Chef du pôle des perspectives professionnelles au département du personnel officier
 
--chef J1 du centre national des opérations
+-Chef J1 du centre national des opérations
 
--chef J3 du centre national des opérations
+-Chef J3 du centre national des opérations
 
--chef J4 du centre national des opérations
+-Chef J4 du centre national des opérations
 
--chef J5 du centre national des opérations
+-Chef J5 du centre national des opérations
 
--chef J6 du centre national des opérations
+-Chef J6 du centre national des opérations
 
--chef J7 du centre national des opérations
+-Chef J7 du centre national des opérations
 
--chef J8 du centre national des opérations
+-Chef J8 du centre national des opérations
 
--chef J9 du centre national des opérations
+-Chef J9 du centre national des opérations
 
 Au service de la transformation, le chef du département :
 
@@ -116,7 +112,7 @@ Au service de la transformation, le chef du département :
 
 -Chef du centre national d'assistance cyber auprès du commandement de la gendarmerie dans le cyberespace
 
--Chef de division au service central de renseignement criminel de la gendarmerie nationale (3 emplois)
+-Chef de division au service central de renseignement criminel de la gendarmerie nationale (4 emplois)
 
 -Chef de division à l'institut de recherches criminelles de la gendarmerie nationale (4 emplois)
 
@@ -162,35 +158,15 @@ Au service de la transformation, le chef du département :
 
 -Chef du bureau de l'audit de la sécurité des systèmes d'information
 
--Adjoint au chef de l'antenne déconcentrée de l'inspection générale de la gendarmerie nationale de :
-
--Bordeaux (1 emploi)
-
--Lille (1 emploi)
-
--Metz (1 emploi)
-
--Montpellier (1 emploi)
-
--Lyon (1 emploi)
+-Adjoint au chef de l'antenne déconcentrée de l'inspection générale de la gendarmerie nationale (6 emplois)
 
 3° Gendarmerie départementale :
 
 -Chef d'un centre zonal des opérations (7 emplois)
 
--Chef opérations de la région de gendarmerie :
+-Officier adjoint soutien finances d'une région de gendarmerie zonale (7 emplois)
 
--des Pays de la Loire
-
--d'Occitanie
-
--Bourgogne
-
--Centre-Val de Loire
-
--Corse
-
--Normandie
+-Officier adjoint ressources humaines d'une région de gendarmerie zonale (7 emplois)
 
 -Chef de la division de l'emploi de la région de gendarmerie de :
 
@@ -198,7 +174,7 @@ Au service de la transformation, le chef du département :
 
 -Corse
 
--Centre Val de Loire
+-Centre-Val de Loire
 
 -Normandie
 
@@ -218,8 +194,6 @@ Au service de la transformation, le chef du département :
 
 -Clermont-Ferrand
 
--Dijon
-
 -Limoges
 
 -Metz
@@ -228,21 +202,183 @@ Au service de la transformation, le chef du département :
 
 -Nantes
 
--Nimes
+-Nîmes
 
 -Pau
 
 -Poitiers
 
--Reims
-
 -Rouen
 
--Officier adjoint soutien finances d'une région de gendarmerie zonale (7 emplois)
+-Chef opérations du groupement de gendarmerie départementale :
 
--Officier adjoint ressources humaines d'une région de gendarmerie zonale (7 emplois)
+-de la Loire-Atlantique
 
--Officier adjoint de police judiciaire ou officier adjoint commandement du groupement de gendarmerie départementale :
+-de la Haute-Garonne
+
+-de la Côte-d'Or
+
+-du Loiret
+
+-de la Corse-du-Sud
+
+-de la Seine-Maritime
+
+-Officier adjoint de police judiciaire du groupement de gendarmerie départementale (1 emploi) :
+
+-de l'Ain
+
+-de l'Aisne
+
+-de l'Allier
+
+-des Alpes-de-Haute-Provence
+
+-des Alpes-Maritimes
+
+-de l'Ardèche
+
+-des Ardennes
+
+-de l'Aube
+
+-de l'Aude
+
+-de l'Aveyron
+
+-du Bas-Rhin
+
+-des Bouches-du-Rhône
+
+-du Calvados
+
+-de la Charente
+
+-de la Charente-Maritime
+
+-du Cher
+
+-de Corrèze
+
+-de la Côte-d'Or
+
+-des Côtes-d'Armor
+
+-des Deux-Sèvres
+
+-de Dordogne
+
+-du Doubs
+
+-de la Drôme
+
+-de l'Essonne
+
+-du Finistère
+
+-de l'Eure
+
+-d'Eure-et-Loir
+
+-du Gard
+
+-de Gironde
+
+-du Haut-Rhin
+
+-de Haute-Corse
+
+-de la Haute-Garonne
+
+-de la Haute-Savoie
+
+-de la Haute-Saône
+
+-de la Haute-Vienne
+
+-de l'Hérault
+
+-de l'Ille-et-Vilaine
+
+-d'Indre-et-Loire
+
+-de l'Isère
+
+-du Jura
+
+-des Landes
+
+-de la Loire
+
+-de la Loire-Atlantique
+
+-du Loir-et-Cher
+
+-du Loiret
+
+-du Lot-et-Garonne
+
+-du Maine-et-Loire
+
+-de la Manche
+
+-de la Marne
+
+-de Meurthe-et-Moselle
+
+-du Morbihan
+
+-de Moselle
+
+-de la Nièvre
+
+-du Nord
+
+-de l'Oise
+
+-de l'Orne
+
+-du Pas-de-Calais
+
+-du Puy-de-Dôme
+
+-des Pyrénées-Atlantiques
+
+-des Pyrénées-Orientales
+
+-du Rhône
+
+-de la Saône-et-Loire
+
+-de la Sarthe
+
+-de la Savoie
+
+-de Seine-et-Marne
+
+-de la Seine-Maritime
+
+-de la Somme
+
+-du Tarn
+
+-du Val-d'Oise
+
+-du Var
+
+-du Vaucluse
+
+-de la Vendée
+
+-de la Vienne
+
+-des Vosges
+
+-de l'Yonne
+
+-des Yvelines
+
+-Officier adjoint commandement du groupement de gendarmerie départementale (1 emploi) :
 
 -de l'Ain
 
@@ -324,7 +460,7 @@ Au service de la transformation, le chef du département :
 
 -de la Loire
 
--du Loire-et-cher
+-du Loir-et-Cher
 
 -du Lot-et-Garonne
 
@@ -470,7 +606,7 @@ Au service de la transformation, le chef du département :
 
 -d'Evry
 
--de la Flèche
+-de La Flèche
 
 -de Gex
 
@@ -548,7 +684,7 @@ Au service de la transformation, le chef du département :
 
 -de Rezé
 
--de la Roche-sur-Yon
+-de La Roche-sur-Yon
 
 -de Rochefort
 
@@ -602,8 +738,6 @@ Au service de la transformation, le chef du département :
 
 4° Outre-mer :
 
--Commandant en second de la gendarmerie prévôtale
-
 -Chargé de mission au commandement de la gendarmerie d'outre-mer (1 emploi)
 
 -Commandant de la section de recherches prévôtales
@@ -632,7 +766,9 @@ Au service de la transformation, le chef du département :
 
 5° Gendarmeries spécialisées :
 
--Chef d'état-major de la gendarmerie de l'armement
+-Chef de la division de l'emploi de la gendarmerie de l'armement
+
+-Chef de la division de l'appui opérationnel de la gendarmerie de l'armement
 
 -Chef de la division des opérations de la gendarmerie de l'air
 
@@ -652,21 +788,19 @@ Au service de la transformation, le chef du département :
 
 -Commandant en second d'un groupement de la gendarmerie des transports aériens
 
--Commandant de la section de recherches de la gendarmerie de l'armement
-
 -Commandant de la section de recherches en second de la gendarmerie de l'air
 
-6° Autres emplois :
+6° Ecoles :
 
--Commandant de la gendarmerie des voies navigables
+-Chef de la division de la formation d'une école de gendarmerie (7 emplois)
 
--Chef du service de développement et de mise en œuvre des logiciels
+7° Autres emplois :
 
 -Chef du bureau des systèmes d'information opérationnels du commandement du soutien opérationnel de la gendarmerie nationale
 
 -Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
 
--Chef de département au commandement spécialisé pour la sécurité nucléaire
+-Chef de département au commandement spécialisé pour la sécurité nucléaire (1 emploi)
 
 -Chef d'une division à la direction de la coopération internationale de sécurité
 
@@ -680,17 +814,7 @@ Au service de la transformation, le chef du département :
 
 -Chef de la trésorerie militaire de la solde gendarmerie
 
--Adjoint au chef de la cellule expertise nucléaire au sein du cabinet du ministère des armées (1 emploi)
-
--Adjoint au chef de la cellule numérique au sein du cabinet du ministère des armées (1 emploi)
-
--Officier de liaison auprès de l'association des maires de France
-
 -Officier de liaison référent intelligence économique à l'assemblée des départements de France
-
--Officier de liaison, chef du secteur sécurité de l'espace européen du secrétariat général des affaires européennes (1 emploi)
-
--Officier de liaison au bureau réservé au sein du cabinet du ministère des armées (1 emploi)
 
 -Officier de liaison à l'Agence nationale de la cohésion des territoires (1 emploi)
 
@@ -704,4 +828,4 @@ Au service de la transformation, le chef du département :
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 27 juillet 2022 (NOR : IOMJ2222025A), ces dispositions entrent en vigueur le 1er août 2022.
+Conformément à l’article 2 de l’arrêté du 31 janvier 2023 (NOR : IOMJ2302669A), ces dispositions entrent en vigueur le 1er février 2023.

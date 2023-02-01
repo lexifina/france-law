@@ -32,7 +32,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Corrèze
 
--des Côtes d'Armor
+-des Côtes-d'Armor
 
 -de Côte-d'Or
 
@@ -432,9 +432,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Mortagne-au-Perche
 
--de Moulins
-
--de la Mure
+-de Moulins-de-La-Mure
 
 -de Neufchâteau
 
@@ -518,7 +516,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Roanne
 
--de la Rochelle
+-de La Rochelle
 
 -de Romorantin-Lanthenay
 
@@ -594,7 +592,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Toul
 
--de la Tour-du-Pin
+-de La Tour-du-Pin
 
 -de Tours
 
@@ -604,7 +602,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Valenciennes
 
--de la Valette du Var
+-de La Valette-du-Var
 
 -de Vendôme
 
@@ -674,11 +672,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant de la section de recherches de la gendarmerie des voies navigables
 
--Commandant en second de la section de recherche de la gendarmerie de l'air
-
--Commandant en second de la section de recherche de la gendarmerie maritime
-
--Commandant en second de la section de recherches de la gendarmerie des transports aériens
+-Commandant en second de la section de recherches de la gendarmerie de l'armement
 
 -Commandant en second d'une compagnie de gendarmerie maritime
 
@@ -764,7 +758,7 @@ Au sein du commandement des forces aériennes de la gendarmerie :
 
 -Commandant d'une section d'appui judiciaire
 
-Commandant en second de la compagnie de gendarmerie départementale :
+-Commandant en second de la compagnie de gendarmerie départementale :
 
 -d'Archipels-Papeete
 
@@ -828,7 +822,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -Fontainebleau
 
--Issy-Les-Moulineaux
+-Issy-les-Moulineaux
 
 -Le Blanc
 
@@ -850,7 +844,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -Rochefort
 
--Rosny-Sous-Bois
+-Rosny-sous-Bois
 
 -Saint-Astier
 
@@ -864,4 +858,4 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 27 juillet 2022 (NOR : IOMJ2222025A), ces dispositions entrent en vigueur le 1er août 2022.
+Conformément à l’article 2 de l’arrêté du 31 janvier 2023 (NOR : IOMJ2302669A), ces dispositions entrent en vigueur le 1er février 2023.

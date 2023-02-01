@@ -8,7 +8,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Chef du pôle des expérimentations et des projets de sécurité
 
--Chargé de fonction au bureau du cabinet du directeur général de la gendarmerie nationale (10 emplois)
+-Chargé de fonction au bureau du cabinet du directeur général de la gendarmerie nationale (11 emplois)
 
 -Chargé de fonction auprès du commandement de la direction des opérations et de l'emploi (1 emploi)
 
@@ -42,7 +42,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Auvergne-Rhône-Alpes
 
--Officier adjoint renseignement au sein du groupement de gendarmerie départementale de :
+-Officier adjoint renseignement au sein du groupement de gendarmerie départementale de (1 emploi) :
 
 -de l'Allier
 
@@ -88,7 +88,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Jura
 
--du Loire-et-cher
+-du Loir-et-Cher
 
 -du Lot
 
@@ -108,9 +108,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Tarn-et-Garonne
 
--du Territoire-de-Belfort
+-du Territoire de Belfort
 
 -des Vosges
+
+-Chef du bureau renseignements d'Ajaccio
 
 -Chef du groupe de soutien ressources humaines du groupement de gendarmerie départementale :
 
@@ -118,7 +120,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de l'Allier
 
--des Alpes de Haute-Provence
+-des Alpes-de-Haute-Provence
 
 -de l'Ardèche
 
@@ -142,7 +144,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Corrèze
 
--des Côtes d'Armor
+-des Côtes-d'Armor
 
 -de la Creuse
 
@@ -156,7 +158,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de l'Essonne
 
--de l'Eure-et-Loir
+-de l'Eure-et-Loire
 
 -du Gers
 
@@ -228,7 +230,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Tarn-et-Garonne
 
--du Territoire-de-Belfort
+-du Territoire de Belfort
 
 -du Val d'Oise
 
@@ -254,7 +256,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Annecy
 
--de l'Arbresle
+-de L'Arbresle
 
 -d'Arles
 
@@ -328,7 +330,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Evry
 
--de la Flèche
+-de La Flèche
 
 -de Gex
 
@@ -406,7 +408,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Rezé
 
--de la Roche-sur-Yon
+-de La Roche-sur-Yon
 
 -de Rochefort
 
@@ -646,7 +648,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Chef d'état-major du commandement de la gendarmerie pour Wallis-et-Futuna
 
--Chef d'état-major du commandement de la gendarmerie pour Saint Pierre et Miquelon
+-Chef d'état-major du commandement de la gendarmerie pour Saint-Pierre-et-Miquelon
 
 -Commandant du centre de conduite des opérations du commandement de la gendarmerie de la Guyane française
 
@@ -666,7 +668,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -la Polynésie-française
 
--la Réunion
+-La Réunion
 
 -Commandant de l'escadron départemental de sécurité routière :
 
@@ -674,7 +676,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Martinique
 
--du Sud-Océan-Indien
+-du Sud-océan Indien
 
 -Commandant en second de la compagnie de gendarmerie départementale :
 
@@ -686,6 +688,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant d'un patrouilleur de la gendarmerie maritime
 
+-Commandant de la section de recherches de la gendarmerie de l'armement
+
 -Commandant du groupe de protection de la gendarmerie de l'armement
 
 8° Autres emplois :
@@ -694,7 +698,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc
 
--Commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-Sous-Bois
+-Commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-sous-Bois
 
 -Commandant de la compagnie de sécurité et d'accueil du camp de Beynes
 
@@ -758,4 +762,4 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 27 juillet 2022 (NOR : IOMJ2222025A), ces dispositions entrent en vigueur le 1er août 2022.
+Conformément à l’article 2 de l’arrêté du 31 janvier 2023 (NOR : IOMJ2302669A), ces dispositions entrent en vigueur le 1er février 2023.
