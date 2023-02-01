@@ -1,0 +1,191 @@
+# Article 1er
+
+L'annexe 1 de la convention collective est modifiée ainsi qu'il suit :
+
+(En euros.)
+
+Coefficient |
+
+Salaire horaire |
+
+Salaire mensuel
+
+(base 151,67 heures mensuelles) |
+
+Emplois techniques |
+
+Emploi exécutant |
+
+1 |
+
+11,27 |
+
+1 709,28 |
+
+2 |
+
+11,53 |
+
+1 748,72 |
+
+Emploi spécialisé |
+
+1 |
+
+11,71 |
+
+1 776,02 |
+
+2 |
+
+11,82 |
+
+1 792,70 |
+
+Emploi qualifié |
+
+1 |
+
+12,05 |
+
+1 827,58 |
+
+2 |
+
+12,33 |
+
+1 870,05 |
+
+Emploi hautement qualifié |
+
+1 |
+
+12,76 |
+
+1 935,27 |
+
+2 |
+
+13,31 |
+
+2 018,68 |
+
+Technicien agent de maitrise – 1 |
+
+1 |
+
+13,99 |
+
+2 121,82 |
+
+2 |
+
+14,75 |
+
+2 237,08 |
+
+Technicien agent de maitrise – 2 |
+
+1 |
+
+15,44 |
+
+2 341,73 |
+
+2 |
+
+16,17 |
+
+2 452,45 |
+
+Cadre 1 |
+
+|
+
+18,05 |
+
+2 737,58 |
+
+Cadre 2 |
+
+|
+
+21,39 |
+
+3 244,15 |
+
+Emplois administratifs |
+
+Emploi administratif exécutant |
+
+1 |
+
+11,27 |
+
+1 709,28 |
+
+2 |
+
+11,54 |
+
+1 750,23 |
+
+Emploi qualifié |
+
+1 |
+
+11,92 |
+
+1 807,87 |
+
+2 |
+
+12,19 |
+
+1 848,82 |
+
+Emplois hautement qualifié |
+
+1 |
+
+12,62 |
+
+1 914,03 |
+
+2 |
+
+13,12 |
+
+1 989,87 |
+
+Technicien administratif et comptable |
+
+1 |
+
+13,82 |
+
+2 096,03 |
+
+2 |
+
+14,59 |
+
+2 212,82 |
+
+Cadre 1 |
+
+|
+
+18,05 |
+
+2 737,58 |
+
+Cadre 2 |
+
+|
+
+21,39 |
+
+3 244,15 |
+
+Selon les dispositions de l'article L. 2261-23-1 du code du travail ces barèmes s'appliquent également aux entreprises de moins de 50 salariés.
