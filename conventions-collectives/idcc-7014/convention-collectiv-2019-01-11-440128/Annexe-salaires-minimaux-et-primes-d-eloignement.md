@@ -1,50 +1,56 @@
 # Article Annexe salaires minimaux et primes d'éloignement
 
-Annexe salaires minimaux et primes d'éloignement au 1er septembre 2022
+Annexe salaires minimaux et primes d'éloignement au 1er février 2023
 
 1. Les montants des salaires minimaux prévus à l'article 5 de l'annexe cadres sont les suivants :
 
-GV 1 |
+|
 
-coef. 320 |
+Salaire horaire |
 
-2 162,73 € |
+Salaire mensuel |
 
-GV 2 |
+GV 1, coef. 320 |
 
-coef. 330 |
+14,52 €/heure |
 
-2 229,53 € |
+2 202,25 € |
 
-GV 3 |
+GV 2, coef. 330 |
 
-coef. 340 |
+14,96 € |
 
-2 308,01 € |
+2 268,98 € |
 
-PG 1 |
+GV 3, coef. 340 |
 
-coef. 345 |
+15,48 € |
 
-2 331,59 € |
+2 347,85 € |
 
-PG 2 |
+PG 1, coef. 345 |
 
-coef. 355 |
+15,64 € |
 
-2 397,31 € |
+2 372,12 € |
 
-PG 3 |
+PG 2, coef. 355 |
 
-coef. 375 |
+16,08 € |
 
-2 533,29 € |
+2 438,85 € |
 
-AE |
+PG 3, coef. 375 |
 
-coef. 400 |
+17,00 € |
 
-2 703,26 € |
+2 578,39 € |
+
+AE, coef. 400 |
+
+18,14 € |
+
+2 751,29 € |
 
 Les montants des primes forfaitaires d'éloignement prévues à l'article 8 de l'annexe cadres sont les suivants (au 1er janvier 2022) :
 
