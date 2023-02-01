@@ -66,9 +66,9 @@ Equipements de chauffage ou de fourniture d'eau chaude sanitaire indépendants f
 
 Poêles à granulés, cuisinières à granulés |
 
-3 000 € |
-
 2 500 € |
+
+2 000 € |
 
 1 500 € |
 
@@ -214,9 +214,9 @@ Systèmes de ventilation mécanique contrôlée double flux autoréglables ou hy
 
 |
 
-3 000 € |
-
 2 500 € |
+
+2 000 € |
 
 1 500 € |
 
@@ -366,9 +366,9 @@ X |
 
 X |
 
-7 000 € |
+10 000 € |
 
-3 500 € |
+5 000 € |
 
 50 000 € |
 
@@ -424,6 +424,6 @@ Somme forfaitaire mentionnée à l'article 13-4 de l'arrêté précité |
 
 NOTA :
 
-Conformément au II de l'article 3 de l'arrêté du 7 avril 2022 (NOR : LOGL2210444A), ces dispositions s'appliquent aux demandes de prime déposées à compter du 1er janvier 2023.
+Conformément à l’article 8 de l’arrêté du 29 décembre 2022 (NOR : TREL2234391A), ces dispositions entrent en vigueur le 1er février 2023.
 
 Se reporter aux modalités d'application prévues au I de l'article 3 de l'arrêté du 7 avril 2022 (NOR : LOGL2210444A), dans leur rédaction issue de l'arrêté du 29 décembre 2022 (NOR : TREL2234391A).
