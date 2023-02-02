@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103995
+
+- Question : [SEQ221103995](seq221103995.md) — Application de dispositions du code de l'urbanisme
+
+## Réponse
+
+*Transition écologique et cohésion des territoires, JO du 2023-02-02, page 820*
+
+Les mesures codifiées aux articles L. 481-1 à L. 481-3 du code de l'urbanisme mettent en place une astreinte administrative avec pour objectif de compléter les instruments existants dans la lutte contre les constructions illégales. L'astreinte peut être prononcée à l'encontre de toutes les personnes susceptibles d'être pénalement poursuivies pour une infraction au droit de l'urbanisme. En effet, en vertu de l'article L. 480-4 alinéa 2 du code de l'urbanisme, dont le champ d'application est identique à celui de l'article L. 481-1, ces personnes peuvent être les utilisateurs du sol, les bénéficiaires des travaux, les architectes, les entrepreneurs ou d'autres personnes responsables de l'exécution desdits travaux. L'article L.481-1 exigeant qu'un procès-verbal d'infraction soit dressé pour mettre en œuvre la procédure d'astreinte administrative, c'est ce dernier qui permettra d'identifier la ou les personnes pénalement responsables, lesquelles pourront donc également être visées par l'astreinte administrative. Il n'est en revanche pas possible d'engager une astreinte administrative à l'encontre d'une personne qui n'aurait pas été visée par ce procès-verbal. Si toutes les personnes identifiées par le procès-verbal peuvent être visées par la mise en demeure de régulariser la situation sous astreinte administrative, il appartient à l'autorité administrative qui met en place la procédure d'astreinte de désigner précisément parmi celles-ci, la ou les personnes (physique ou morale) pouvant effectivement effectuer les travaux de mise en conformité. Ce sera ainsi généralement le titulaire de l'autorisation de construire, également propriétaire du terrain dans une majorité de cas, qui sera désigné.
