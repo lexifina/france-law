@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701920
+
+- Question : [SEQ220701920](seq220701920.md) — Saisie de l'autorité préfectorale pour le mandatement d'office d'une condamnation au paiement de frais irrépétibles
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-02-02, page 770*
+
+La loi du 16 juillet 1980 n° 80-539 relativeaux astreintes prononcées en matière administrative et à l'exécution des jugements par les personnes morales de droit public prévoit des procédures spécifiques d'inscription et de mandatement d'office pour les dépenses obligatoires résultant d'une décision juridictionnelle. Selon l'article L. 761-1 du code de justice administratif, le juge peut condamner une partie au paiement des frais irrépétibles : « dans toutes les instances, le juge condamne la partie tenue aux dépens ou, à défaut, la partie perdante, à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ». A ce titre, les frais irrépétibles font partie des sommes que peut être condamnée à payer une collectivité perdante à une instance. Ainsi, en cas de carence de la collectivité à payer les sommes décidées par le juge administratif, la décision juridictionnelle étant passée en force de chose jugée et le montant des sommes dues étant précisé dans la décision, le préfet peut être saisi par le créancier de la collectivité. Conformément aux dispositions de la loi du 16 juillet 1980 et selon ses modalités d'application précisées dans le décret du décret 2008-479 du 20 mai 2008 relatif à l'exécution des condamnations pécuniaires prononcées à l'encontre des collectivités publiques, le préfet est tenu de mettre en œuvre les procédures d'inscription et de mandatement d'office spéciales. Ces procédures sont obligatoirement mises en œuvre dès lors que le préfet fait l'objet d'une saisine au risque de voir sa responsabilité engagée pour faute lourde (Conseil d'Etat, n° 271898, 18 novembre 2005, Société Fermière de Campoloro).
