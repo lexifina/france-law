@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204360
+
+- Question : [SEQ221204360](seq221204360.md) — Usoirs devenus dépotoirs
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-02-02, page 791*
+
+En vertu des articles 59 à 62 de la « codification des usages locaux à caractère agricole du département de la Moselle », approuvée par le Conseil général le 9 janvier 1961, l'usoir sert principalement au riverain pour accéder à son immeuble et comme lieu de dépôt pour son activité agricole, artisanale, commerciale ou autre, sans interdire la circulation des autres riverains ou usagers. Le stationnement des véhicules du riverain ou le dépôt de son matériel a ainsi vocation à servir l'activité du riverain. De par cette utilité, cela exclut en principe de garer les véhicules sans ou hors d'usage ou de stocker des biens à long terme, a fortiori s'ils sont détériorés. En tout état de cause, si les droits d'usage du riverain sont « opposables à l'autorité chargée de la gestion du domaine » (CE, 24 février 2020, n° 434021), cela n'empêche pas le maire d'exercer ses pouvoirs de police générale pour réglementer les usoirs. Il est courant que, par arrêté, le maire interdise le dépôt de fumier ou d'épaves sur les usoirs et impose à chaque riverain de les nettoyer régulièrement. Le non-respect de ces mesures de police est passible d'une contravention de 2e classe (article R. 610-5 du Code pénal). En outre, si les dépôts sur l'usoir peuvent être qualifiés de déchets, en application de l'article L. 541-3 du Code de l'environnement, « l'autorité investie des pouvoirs de police municipale doit prendre les mesures nécessaires pour assurer l'élimination des déchets dont l'abandon, le dépôt ou le traitement présente des dangers pour l'environnement », (CE, 13 octobre 2017, n° 397031). L'article L. 541-3 précité prévoit, au terme d'une procédure rapide, une palette de mesures dissuasives dont l'exécution d'office aux frais de la personne responsable.
