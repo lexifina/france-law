@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802302
+
+- Question : [SEQ220802302](seq220802302.md) — Entretien des véhicules hybrides dans les transports publics
+
+## Réponse
+
+*Transports, JO du 2023-02-02, page 829*
+
+Les véhicules munis de batterie, que ce soient des véhicules purs électriques, hybrides rechargeables et hybrides simples, doivent se conformer pour obtenir leur homologation sur le territoire européen aux dispositions du règlement de la CEE-ONU n° 100 relatif à la sécurité électrique. Ce règlement technique contient des prescriptions concernant les risques que présentent les véhicules à batteries, en service ou après un choc, notamment les risques de choc électrique en cas de contact avec des circuits haute tension, ainsi que les risques liés aux accumulateurs lithium-ion et aux autres systèmes rechargeables de stockage de l'énergie électrique, en particulier lorsqu'ils contiennent un électrolyte inflammable, afin de s'assurer qu'une utilisation normale ne peut conduire à un risque d'accident, ou en cas de soucis sur la batterie, le conducteur et les passagers en soient informés afin d'avoir suffisamment de temps pour évacuer le véhicule en toute sécurité. En France, l'ensemble des véhicules utilisés dans les transports publics doivent être homologués, et donc doivent être conformes au règlement de sécurité électrique cité ci-dessus. Enfin, les véhicules électriques ou hybrides rechargeables font l'objet d'un contrôle technique périodique comprenant des points supplémentaires de contrôle portant sur l'installation électrique et les batteries de traction. L'essentiel de ces points de contrôle supplémentaires a pour conséquence, en cas de défaillances relevées, de soumettre le véhicule à contre-visite et de ce fait, d'obliger le propriétaire à faire les réparations nécessaires afin de garantir la sécurité routière.
