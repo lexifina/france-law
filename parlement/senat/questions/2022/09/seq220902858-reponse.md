@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902858
+
+- Question : [SEQ220902858](seq220902858.md) — Réforme de la publicité des actes des collectivités territoriales
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-02-02, page 779*
+
+L'article L. 2121-15 du code général des collectivités territoriales (CGCT) tel que modifié par la réforme de la publicité des actes locaux dispose que les délibérations sont signées par le maire et le ou les secrétaires de séance. Le défaut de signature des délibérations constitue donc un vice de forme. Ce même article précise que les secrétaires de séance sont nommés par le conseil municipal parmi ses membres. Il incombe donc au conseil municipal de désigner les secrétaires de séances qui soient les plus susceptibles d'être disponibles au moment de la signature des délibérations. En revanche, le défaut de signature d'une délibération par l'exécutif local ou les secrétaires de séance est sans incidence sur son caractère exécutoire, qui ne résulte que de l'accomplissement des formalités de publicité et de transmission au préfet prévues aux articles L. 2131-1 et suivants du code général des collectivités territoriales. Il convient enfin de noter que le juge administratif fait preuve d'une certaine souplesse dans l'appréciation du contenu et de la forme des délibérations. En particulier, celui-ci a considéré que l'inobservation des dispositions sur la signature n'entrainait pas la nullité de la délibération (CE, 3 octobre 1990, commune de Lignières, n° 90679). Le juge administratif a également admis que toute irrégularité affectant la procédure d'élaboration d'un acte administratif n'entraîne pas systématiquement et nécessairement son annulation. Tel est le cas de la méconnaissance des règles de désignation du secrétaire de séance dès lors que ce vice de forme n'a pas exercé une influence sur le sens de la décision prise et que cette formalité n'a pas le caractère d'une garantie (CAA de Lyon, 21 novembre 2017, n° 16LY00082).
