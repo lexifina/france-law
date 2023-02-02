@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003348
+
+- Question : [SEQ221003348](seq221003348.md) — Label « Greenfin » et énergie nucléaire
+
+## Réponse
+
+*Transition énergétique, JO du 2023-02-02, page 826*
+
+Premier label d'État dédié à la finance verte, le label Greenfin (anciennement label « Transition énergétique et écologique pour le climat ») a été lancé fin 2015 au moment de la COP 21. Ce label s'appuie sur un décret et un arrêté publiés en décembre 2015 qui actent la création du label et définissent son cahier des charges et ses modalités de contrôle. Le label Greenfin a vocation à évoluer en cohérence avec la Taxonomie européenne conformément à l'article 4 du règlement 2020/852 [1] qui prévoit « l'application des critères de durabilité environnementale des activités économiques dans les mesures publiques, les normes et les labels ». Le comité du label Greenfin est attentif aux travaux menés dans ce contexte. Les critères d'exclusion seront ainsi réévalués en cohérence avec ceux fixés dans le cadre européen des activités durables sur le plan environnemental, une fois ce dernier abouti. En effet, l'acte délégué de la Taxonomie européenne sur les quatre objectifs environnementaux autres que le climat n'est à ce jour pas publié [2]. [1] RÈGLEMENT (UE) 2020/852 DU PARLEMENT EUROPÉEN ET DU CONSEIL du 18 juin 2020 sur l'établissement d'un cadre visant à favoriser les investissements durables et modifiant le règlement (UE) 2019/2088 [2] La Taxonomie européenne couvre six objectifs environnementaux : l'atténuation du changement climatique, l'adaptation, l'eau, l'économie circulaire, la pollution et la biodiversité. L'Acte Délégué Climat sur les deux premiers objectifs climatique été adopté en 2021. L'Acte Délégué sur les quatre autres objectifs environnementaux est en cours d'élaboration.
