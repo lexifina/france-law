@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902726
+
+- Question : [SEQ220902726](seq220902726.md) — Difficultés de recrutement dans les transports scolaires en région Nouvelle Aquitaine
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2023-02-02, page 760*
+
+Dans le contexte actuel de grande tension dans le secteur du transport de personnes, le ministre de l'éducation nationale et de la jeunesse est tout particulièrement sensibilisé aux difficultés de recrutement des conducteurs de car ou de bus pour effectuer les transports scolaires, spécialement dans les zones rurales. Le décret n° 2021-542 du 30 avril 2021 ayant abaissé l'âge minimal pour la conduite de certains véhicules lourds de transport en commun,il est dorénavant possible d'intégrer la préparation à la conduite et le passage du permis de conduire de catégorie D dans la formation à un certificat d'aptitude professionnelle (CAP), sur le modèle des diplômes de la conduite en transport de marchandises. La rénovation du CAP « Agent d'accueil conduite routière transport de voyageurs » a été engagée en ce sens dès 2021 et le nouveau diplôme qui en résultera devrait être mis en œuvre à la rentrée 2023 et ainsi ouvrir la profession plus largement aux jeunes, sous réserve des avis que rendront le Conseil supérieur de l'éducation (CSE) et la Commission professionnelle consultative (CPC) Mobilité et logistique. L'ouverture de formations à ce nouveau CAP dès la rentrée 2023 peut d'ores et déjà être envisagée entre rectorats et conseils régionaux, notamment dans les lycées proposant déjà les formations du transport de marchandises, qui disposent d'une bonne partie des compétences et moyens matériels nécessaires. Cette évolution doit permettre à moyen terme le développement d'un vivier de futurs conducteurs dans le secteur des transports scolaires. Ce sujet est suivi avec la plus grande attention en lien avec le ministère en charge des transports et les représentants des collectivités territoriales.
