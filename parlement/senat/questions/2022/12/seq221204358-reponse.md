@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204358
+
+- Question : [SEQ221204358](seq221204358.md) — Résiliation de marché public
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-02-02, page 791*
+
+Il convient de rappeler, en premier lieu, que le titulaire d'un marché à bons de commande ne peut augmenter ses prix au-delà des limites prévues par l'accord-cadre qui le lie à l'acheteur public, sauf accord de ce dernier pour modifier le contrat dans le respect des conditions prévues par le code de la commande publique, telles que rappelées notamment par le Conseil d'Etat dans son avis n° 405540 du 15 septembre 2022. Par ailleurs, une personne publique dispose toujours, au cours de l'exécution d'un marché public, d'un droit de résiliation unilatérale pour un motif d'intérêt général et ce, même en l'absence de faute du cocontractant de l'administration (CE, 2 mai 1958, Distillerie de Magnac-Laval, n° 32401). Un simple bouleversement de l'équilibre de la convention peut constituer un motif d'intérêt général (CE, 27 février 2015, Commune de Béziers, n° 357028). La contrepartie de ce droit de résiliation dans l'intérêt du service public réside dans l'indemnisation du titulaire du marché, comme le prévoit l'article L. 6 du code de la commande publique. Cette indemnisation doit couvrir l'intégralité du dommage subi par le cocontractant, à condition qu'il puisse en justifier le montant, et que cela n'aboutisse pas à un enrichissement indu. Elle prend en compte les dépenses engagées (CE, 18 novembre 1988, Ville d'Amiens, n° 61871) ainsi que le gain manqué par le titulaire (CE, 16 février 1996, Syndicat intercommunal de l'arrondissement de Pithiviers, n° 61871). Toutefois, il convient de noter que la résiliation des marchés à bons de commande et des accords-cadres passés sans minimum ne donne pas droit à indemnisation, car l'administration ne s'est engagée sur aucun montant de commande.
