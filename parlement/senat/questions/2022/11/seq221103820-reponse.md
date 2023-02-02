@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103820
+
+- Question : [SEQ221103820](seq221103820.md) — Sites internet des communes
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-02-02, page 788*
+
+Les mentions devant obligatoirement figurer sur les sites internet des communes sont celles applicables à toute personne morale éditrice de site internet. Elles sont prévues à l'article 6 de la loi du 21 juin 2004 pour la confiance dans l'économie numérique et concernent les informations relatives à l'identité et aux coordonnées de la commune (adresse et numéro de téléphone) et de l'hébergeur du site, ainsi qu'au nom du directeur ou du codirecteur de la publication. Ces mentions légales doivent permettre d'identifier facilement les responsables du site, afin de garantir à chacun de pouvoir contacter son propriétaire en cas de dysfonctionnement ou de publication de contenu illicite par exemple. Le manquement à cette obligation d'information expose à des sanctions pouvant aller jusqu'à un an d'emprisonnement et 375 000 euros d'amende pour les personnes morales. Les sites internet des communes doivent également faire apparaitre les mentions relatives à la propriété intellectuelle en cas d'utilisation d'œuvres soumises aux droits d'auteur (images, illustrations, photographies, etc.). Enfin, les communes sont tenues de respecter la réglementation en matière de protection des données personnelles. Ainsi, en cas de collecte de données personnelles, elles ont, en tant que responsables de traitement, un devoir de transparence imposant d'obtenir le consentement de l'internaute et de l'informer concernant le motif et l'usage des données collectées. Devront ainsi être mises à la disposition de celui-ci les informations relatives aux modalités de traitement et de conservation des données collectées qui sont énumérées à l'article 104 de la n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
