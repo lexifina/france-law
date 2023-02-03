@@ -1,17 +1,21 @@
 # Article Annexe 4
 
-BTSA option analyses agricoles, biologiques et biotechnologiques
+BTSA spécialité analyses biologiques, biotechnologiques, agricoles et environnementales
 
--S'intéresser aux biotechnologies et aux activités expérimentales pratiquées en laboratoire d'analyse ou de recherche ou en entreprise.
+Intérêts :
 
--S'intéresser aux démarches d'analyses relatives à la santé humaine, animale, à l'alimentation et à l'environnement.
+-s'intéresser aux biotechnologies et aux activités expérimentales pratiquées en laboratoire d'analyse, de recherche ou en entreprise ;
 
--S'intéresser aux activités pratiques et aux technologies d'analyses scientifiques (biochimie, microbiologie, biologie, biotechnologie, sciences physiques et chimie).
+-s'intéresser aux démarches d'analyses relatives à la santé humaine, animale, à l'alimentation, à l'agriculture et à l'environnement ;
 
--Disposer de compétences permettant d'adopter des comportements et des codes professionnels.
+-s'intéresser aux activités pratiques, aux technologies d'analyses scientifiques et à leurs évolutions (biochimie, microbiologie, biologie, biotechnologie, sciences physiques et chimie).
 
--Disposer de capacités de prise de décisions, d'organisation et d'autonomie.
+Capacités et connaissances attendues :
 
--Disposer de compétences en matière d'expression écrite et orale pour communiquer et argumenter.
+-disposer de compétences permettant d'adopter des comportements et des codes professionnels ;
 
--Disposer de compétences collaboratives et d'animation d'équipe dans le cadre d'une démarche de projet.
+-disposer de capacités de prise de décisions, d'organisation et d'autonomie ;
+
+-disposer de compétences en matière d'expression écrite et orale pour communiquer et argumenter ;
+
+-disposer de compétences collaboratives et d'animation d'équipe dans le cadre d'une démarche de projet.

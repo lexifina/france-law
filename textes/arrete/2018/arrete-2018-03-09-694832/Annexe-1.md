@@ -1,15 +1,19 @@
 # Article Annexe 1
 
-BTSA option agronomie : productions végétales
+BTSA spécialité Agronomie et cultures durables
 
--S'intéresser à l'agriculture et l'agroécologie, plus particulièrement pour le domaine végétal en lien avec les enjeux sociétaux et environnementaux.
+Intérêts :
 
--S'intéresser aux processus biologiques, écologiques et techniques en relation avec le fonctionnement des sols, des végétaux et de la biodiversité.
+-s'intéresser à l'agriculture, à l'agro-écologie, à la production alimentaire et aux enjeux sociétaux et environnementaux ;
 
--S'intéresser aux activités expérimentales pratiquées sur le terrain ou en laboratoire et à la mise en œuvre des agroéquipements.
+-s'intéresser aux processus biologiques, écologiques et techniques en relation avec le fonctionnement des sols, des végétaux et la préservation de la biodiversité ;
 
--Disposer de compétences dans les disciplines scientifiques et technologiques : biologie, physique-chimie.
+-s'intéresser aux activités expérimentales pratiquées sur le terrain ou en laboratoire et à la mise en œuvre des agroéquipements.
 
--Disposer de capacités de prise de décisions, d'organisation et d'autonomie.
+Capacités et connaissances attendues :
 
--Disposer de compétences en matière d'expression écrite et orale pour communiquer et argumenter.
+-disposer de compétences dans les disciplines scientifiques et technologiques : biologie, physique-chimie ;
+
+-disposer de capacités de prise de décisions, d'organisation et d'autonomie ;
+
+-disposer de compétences en matière d'expression écrite et orale pour communiquer et argumenter.

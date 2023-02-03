@@ -1,17 +1,23 @@
 # Article Annexe 12
 
-BTSA option production horticole
+BTSA spécialité Métiers du végétal : alimentation, ornement et environnement
 
--S'intéresser au végétal et à l'agroécologie en lien avec les enjeux sociétaux et environnementaux.
+Intérêt :
 
--S'intéresser aux processus biologiques, écologiques et techniques en relation avec le fonctionnement des sols, les végétaux et de la biodiversité.
+-s'intéresser au végétal et à l'agro-écologie en lien avec les enjeux sociétaux et environnementaux ;
 
--Disposer de compétences scientifiques pour interpréter et exploiter des données obtenues et ainsi produire des références technico-économiques dans un contexte donné.
+-s'intéresser à la production en vue de l'alimentation (maraîchage et arboriculture) ou de l'ornement (fleurs et plantes).
 
--Disposer de compétences en matière de communication technique pour décrire un processus, un système, une stratégie, une solution.
+Capacités et connaissances attendues :
 
--Disposer de capacités de prise de décisions, d'organisation et d'autonomie.
+-disposer de compétences scientifiques pour s'approprier les processus biologiques, écologiques et techniques en relation avec le fonctionnement des sols, les végétaux spécialisés et de la biodiversité ;
 
--Disposer de compétences en matière d'expression écrite et orale pour communiquer et argumenter.
+-disposer de compétences scientifiques et de gestion économique pour interpréter et exploiter des données obtenues et ainsi produire des références technico-économiques dans un contexte donné ;
 
--Disposer de compétences collaboratives et d'animation d'équipe.
+-disposer de compétences en matière de communication technique pour accompagner un processus, un système, une stratégie, une solution ;
+
+-disposer de capacités de prise de décisions, d'organisation et d'autonomie ;
+
+-disposer de compétences en matière d'expression écrite et orale pour communiquer et argumenter ;
+
+-disposer de compétences collaboratives et d'animation d'équipe.
