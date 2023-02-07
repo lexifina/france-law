@@ -1,0 +1,9 @@
+# Réponse à la question n° 4083
+
+- Question : [4083](4083.md) — Question n° 4083 — Différenciation du cumul emploi-retraite et cumul emploi-retraite progressive
+
+## Réponse
+
+*JO du 2023-02-07, page 1267*
+
+La loi de financement de la sécurité sociale pour 2020 a limité le versement des indemnités journalières pour maladie à 60 jours pour les assurés bénéficiant d'un avantage vieillesse. L'objectif était alors de permettre aux personnes concernées de pouvoir bénéficier d'indemnités journalières pour des arrêts ponctuels, mais sans maintenir une indemnisation des arrêts de longue durée qui, dans la majorité des cas, ne conduiront pas à une reprise d'activité. En l'état du droit, la disposition est indifféremment appliquée aux assurés en cumul emploi-retraite et aux assurés en retraite progressive. Or leur situation est différente et mérite de faire l'objet d'un traitement distinct pour permettre aux assurés en retraite progressive d'être en arrêt maladie de longue durée si leur état de santé le nécessite. Le projet de loi de financement rectificative de la Sécurité sociale, présenté le 23 janvier 2023, prévoit ainsi de limiter la durée de versement des indemnités journalières aux seuls assurés en cumul emploi-retraite et non plus aux assurés en retraite progressive afin de ne pas pénaliser ces derniers, tout en favorisant les situations de maintien en activité des assurés en cumul emploi-retraite. Cette mesure s'inscrit dans l'objectif d'amélioration et de généralisation des dispositifs de transition entre l'activité et la retraite afin de mieux préparer les fins de carrières, de favoriser des transitions douces et de permettre à ceux qui le souhaitent de travailler plus longtemps. Les améliorations du cumul emploi-retraite et de la retraite progressive portées par le projet de loi sont au cœur de notre stratégie en faveur de l'emploi des seniors.
