@@ -1,0 +1,9 @@
+# Réponse à la question n° 1185
+
+- Question : [1185](1185.md) — Question n° 1185 — Évolution du statut des ATSEM
+
+## Réponse
+
+*JO du 2023-02-07, page 1113*
+
+Les missions des agents territoriaux spécialisés des écoles maternelles (ATSEM) ont été redéfinies afin de prendre en compte leur appartenance à la communauté éducative par le décret n° 2018-152 du 1er mars 2018, à la suite d'une concertation menée sur la base d'un rapport des inspections générales de l'administration et de l'éducation nationale, avec l'association des maires de France et les représentants du personnel. Dans le même sens, un projet de charte nationale, portant engagement pour une meilleure reconnaissance des compétences professionnelles des ATSEM, a été négocié entre l'État, l'association des maires de France et les représentants des employeurs territoriaux. La charte a pour objet de favoriser la reconnaissance du rôle joué par les ATSEM pendant le temps scolaire, de faciliter la relation avec les personnels enseignants et plus globalement d'améliorer la qualité de vie au travail des agents. Elle viendrait ainsi s'inscire en complémentarité des chartes internes établies par les collectivités territoriales qui régissent l'organisation des missions exercées par les ATSEM pendant et en dehors des temps scolaires, en lien avec les inspecteurs de l'Éducation nationale. Le ministre de la transformation et de la fonction publiques entend qu'elle soit finalisée dans les meilleurs délais possibles. S'agissant du reclassement des ATSEM dans un cadre d'emplois de la catégorie B de la filière médico-sociale, cette réforme statutaire n'est, à ce stade, pas envisagée. Sur ce plan, le décret du 1er mars 2018 a créé un concours interne dédié pour l'accès des ATSEM au cadre d'emplois des animateurs territoriaux, classés en catégorie B, favorisant ainsi leur déroulé et perspectives de carrière.
