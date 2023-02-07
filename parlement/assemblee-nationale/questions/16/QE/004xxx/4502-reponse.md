@@ -1,0 +1,9 @@
+# Réponse à la question n° 4502
+
+- Question : [4502](4502.md) — Question n° 4502 — Financement des communes à la scolarisation d'enfants en famille d'accueil
+
+## Réponse
+
+*JO du 2023-02-07, page 1156*
+
+Depuis la loi du 30 octobre 1886 portant sur l'organisation de l'enseignement primaire, les communes ont une compétence obligatoire en matière d'instruction primaire publique. À ce titre et comme le précisent les articles L. 212-5 du code de l'éducation et L. 2321- 2 du code général des collectivités territoriales (CGCT), elles supportent notamment les dépenses de construction, d'entretien des bâtiments et d'acquisition de mobiliers scolaires. Les assistants familiaux accueillent à leur domicile un ou plusieurs enfants, pris en charge par l'aide sociale à l'enfance, afin de leur offrir des conditions de vie permettant de poursuivre leur développement physique, psychique, affectif et leur socialisation. En raison de sa mission d'accompagnement éducatif de l'enfant accueilli, l'assistant familial s'assure de sa scolarité au sein de l'école communale où il réside. En l'espèce, les dépenses de fonctionnement supportées par les communes du fait de la scolarisation des enfants confiés à un assistant familial entrent dans le champ commun du code de l'éducation et du code général des collectivités territoriales. Celles-ci correspondent aux frais ordinaires induits par la scolarisation de tout enfant. Dès lors, les conséquences financières pour les communes du fait de ce dispositif d'accueil ne sauraient constituer des charges nouvelles imposant une compensation par l'Etat. En l'absence d'un texte de nature législative prévoyant un transfert, une création ou une extension de la compétence dévolue aux communes ou de nature réglementaire constituant une modification des conditions d'exercice de cette dernière, les articles L. 1614-1 et suivants du CGCT ne trouvent pas à s'appliquer.
