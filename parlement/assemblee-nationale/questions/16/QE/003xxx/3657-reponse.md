@@ -1,0 +1,9 @@
+# Réponse à la question n° 3657
+
+- Question : [3657](3657.md) — Question n° 3657 — Stop à la détérioration du réseau ferroviaire français
+
+## Réponse
+
+*JO du 2023-02-07, page 1254*
+
+Le Gouvernement est très soucieux de la qualité des services ferroviaires dans les Hauts-de-France comme dans l'ensemble des régions de France. Depuis plusieurs mois, les TER des Hauts-de-France connaissent des difficultés de production, entraînant une régularité dégradée ou des trains supprimés. Les problèmes ont notamment trait à l'indisponibilité de rames et de personnels, avec des difficultés de recrutement et des formations retardées pendant la crise sanitaire. Concernant le matériel roulant, SNCF Voyageurs a adapté l'organisation de la maintenance des rames afin de retrouver la disponibilité attendue. Concernant les effectifs, l'entreprise a lancé un plan exceptionnel de recrutement de 440 agents en 2022, dont 110 agents de conduite. À ce jour, plus des trois quarts des recrutements sont couverts. En renfort, des conducteurs d'autres régions et des volontaires récemment partis à la retraite sont sollicités. Néanmoins, il faut être conscient que, la formation durant au minimum un an, le manque de conducteurs ne peut être absorbé que progressivement. Depuis fin octobre, un plan de transport adapté a été mis en place pour sécuriser la circulation des trains les plus fréquentés et réduire le nombre de trains supprimés au dernier moment. Grâce à l'arrivée de nouveaux conducteurs, l'entreprise assure déjà 90 % des trains prévus au plan de transport nominal, et compte résorber progressivement les trains manquants d'ici au troisième trimestre de 2023. Le Gouvernement souhaite que les efforts soient encore intensifiés afin d'envisager une date de retour à la normale anticipée. De surcroît, l'entreprise s'est engagée à communiquer régulièrement les résultats de ce plan de redressement aux associations de voyageurs et aux élus.
