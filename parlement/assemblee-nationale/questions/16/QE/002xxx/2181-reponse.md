@@ -1,0 +1,9 @@
+# Réponse à la question n° 2181
+
+- Question : [2181](2181.md) — Question n° 2181 — Approvisionnement en gazole des transporteurs routiers en Hauts-de-France
+
+## Réponse
+
+*JO du 2023-02-07, page 1250*
+
+Si aujourd'hui l'approvisionnement en produits pétroliers est revenu à la normale sur l'ensemble du territoire, des tensions d'approvisionnement ont été constatées, de manière plus ou moins marquée, dans les régions de France métropolitaine durant le mois d'octobre. Ces tensions ont été causées par différents facteurs. Un mouvement de grèves a touché les groupes TotalEnergies et ExxonMobil, avec des conséquences sur le fonctionnement des raffineries et des dépôts. La demande en produits pétroliers était, de plus, extrêmement élevée, compte tenu notamment d'une demande agricole forte en lien avec l'activité saisonnière et des achats de précaution de la part de certains consommateurs. Par ailleurs, la remise sur les prix des carburants en stations-services mise en place par le Gouvernement et TotalEnergies a induit, notamment dans les zones frontalières, des tensions logistiques et une augmentation des délais d'approvisionnement. Le Gouvernement a été en contact permanent avec les opérateurs pour fluidifier la logistique d'approvisionnement et rechercher, le cas échéant, des solutions alternatives pour que les produits puissent être acheminés jusqu'aux lieux de consommation. Des stocks stratégiques ont par ailleurs été mobilisés afin d'assurer la disponibilité des produits. Le secteur du transport routier a fait l'objet d'une attention toute particulière et il a été demandé, tant au niveau national que dans les zones en tension, par exemple dans la région Hauts-de-France, aux opérateurs pétroliers d'y veiller particulièrement, que ce soit pour les livraisons directes chez les fournisseurs ou dans les stations-service, dont le réseau spécialisé AS 24, dans lequel TotalEnergies a pu rétablir assez vite une situation satisfaisante.
