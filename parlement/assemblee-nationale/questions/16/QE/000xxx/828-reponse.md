@@ -1,0 +1,9 @@
+# Réponse à la question n° 828
+
+- Question : [828](828.md) — Question n° 828 — Interdiction de la pêche au vif
+
+## Réponse
+
+*JO du 2023-02-07, page 1116*
+
+La réglementation nationale de la pêche en eau douce, qu'elle soit professionnelle ou de loisir, s'attache essentiellement à encadrer cette activité de manière à ce qu'elle soit compatible avec la préservation du patrimoine piscicole. La réglementation ne comporte pas explicitement de disposition tendant à limiter la souffrance du poisson. Elle restreint cependant les appâts utilisables, notamment l'article R. 436-35 du code de l'environnement, qui interdit l'emploi de certaines espèces pour appâter les hameçons ou tout type d'engin de pêche. En particulier, cet article interdit d'utiliser comme « vif » tout amphibien protégé par l'arrêté ministériel du 8 janvier 2021, ainsi que tout spécimen d'une espèce exotique envahissante mentionnée sur les listes prévues par les 1° et 2° de l'article L. 432-10 du code de l'environnement. En outre, l'article L. 214-3 du code rural et de la pêche maritime interdit l'utilisation comme « vif » de toute espèce domestique, dont la liste est fixée par l'arrêté ministériel du 11 août 2006, et dont fait partie le poisson rouge (Carassius auratus). De plus le préfet peut interdire l'emploi de certains modes ou procédés de pêche dans certaines parties de cours d'eau ou de plans d'eau et à titre exceptionnel, en application du IV de l'article R. 436-23 du code de l'environnement. L'opportunité d'une interdiction générale de la pêche au vif avait déjà été examinée dans le cadre de l'adoption du décret n° 2016-417 du 7 avril 2016 modifiant diverses dispositions du code de l'environnement relatives à la pêche en eau douce. Un nouvel encadrement des pratiques de pêche pourrait faire l'objet d'un réexamen dédié dans le cadre d'une réforme de modernisation du droit de la pêche en eau douce.
