@@ -1,0 +1,9 @@
+# Réponse à la question n° 4521
+
+- Question : [4521](4521.md) — Question n° 4521 — Arrivée de Delta Airlines en Polynésie française
+
+## Réponse
+
+*JO du 2023-02-07, page 1261*
+
+L'accord aérien signé le 18 juillet 1998 entre la France et les États-Unis d'Amérique permet à toutes les compagnies aériennes françaises et américaines d'opérer et de commercialiser des vols sans restriction entre les territoires français, dont la Polynésie française, et les États-Unis. La compagnie Air France reprend progressivement son exploitation vers la Polynésie française après la crise sanitaire liée à la covid-19. Dans le cadre des choix commerciaux qui sont les siens, elle pourrait, à une échéance rapprochée, revenir au niveau des cinq fréquences hebdomadaires exploitées avant la crise. Elle n'a donc pas l'intention de se désengager de la desserte de la Polynésie. De leur côté, des transporteurs aériens américains desservent aussi la Polynésie. La compagnie United Airlines, depuis 2018 et American Airlines, partenaire d'Air Tahiti Nui, via un accord de partages de code, depuis 2012. En décembre 2022, la compagnie Delta Airlines, membre avec Air France de l'alliance SkyTeam a débuté des vols entre Los Angeles et Papeete. L'accroissement de la fréquence des vols depuis Los Angeles pourrait se traduire par un élargissement du marché, avec un impact positif sur le tourisme et l'activité économique polynésienne. Chaque nouvelle compagnie, étant dotée de son réseau, attire en effet une clientèle touristique additionnelle, participant ainsi de la promotion de la Polynésie française à l'étranger. La diversité des prix pratiqués est susceptible de toucher de nouvelles catégories de voyageurs, qu'il s'agisse de la clientèle d'affaires, de tourisme haut gamme ou intermédiaire tout en améliorant la connectivité de l'archipel au bénéfice des Polynésiens.
