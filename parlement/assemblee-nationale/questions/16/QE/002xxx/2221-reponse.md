@@ -1,0 +1,9 @@
+# Réponse à la question n° 2221
+
+- Question : [2221](2221.md) — Question n° 2221 — Financement de la DFCI par les propriétaires forestiers
+
+## Réponse
+
+*JO du 2023-02-07, page 1105*
+
+L'été 2022 a été particulièrement intense au niveau des incendies de forêt avec un bilan final de plus de 72 000 hectares incendiés, soit six fois plus que la moyenne des dix dernières années, plus de cinquante départements concernés et des territoires qui n'avaient pas connu l'épreuve du feu avec une telle intensité durant ces dernières décennies. Les effets du changement climatique (hausse des températures et baisse des précipitations estivales) devraient conduire, d'une part à une extension des zones sensibles aux incendies estivaux en France, et d'autre part à une élévation du niveau de danger dans les zones déjà exposées (tant en intensité qu'en durée). Ce contexte réinterroge nécessairement les moyens financiers, privés et publics, consacrés à la défense des forêts contre les incendies (DFCI) pour les années qui viennent. Les propriétaires forestiers des Landes de Gascogne cotisent historiquement à des associations syndicales libres ou autorisées de DFCI prévues par le code forestier, afin de mutualiser la gestion des équipements de DFCI dans le cadre de l'intérêt commun à ces propriétaires au sein d'un même massif, et ainsi réduire le risque d'incendie. Ce dispositif est spécifique à ce territoire. Une mission conjointe a été confiée aux inspections générales des ministères chargés de l'intérieur, de la forêt et de l'écologie afin d'analyser les impacts de cette augmentation du risque incendie sur l'organisation de la prévention (surveillance, équipement des massifs) et les moyens associés pour les territoires déjà exposés et les zones nouvellement concernées. Le rapport de cette mission est attendu pour mars 2023.
