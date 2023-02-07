@@ -1,0 +1,9 @@
+# Réponse à la question n° 639
+
+- Question : [639](639.md) — Question n° 639 — Budgets des collectivités territoriales
+
+## Réponse
+
+*JO du 2023-02-07, page 1127*
+
+Pour le gouvernement, l'objectif d'évolution des dépenses de fonctionnement des collectivités territoriales n'est pas une baisse des dépenses de fonctionnement, mais bien une hausse moindre que l'inflation de 0,5 point. Il tient donc pleinement compte du contexte d'inflation et serait en outre révisé annuellement. A travers ce dispositif, il est prévu, comme pour l'ensemble des administrations publiques, que les collectivités territoriales contribuent à l'effort de réduction du déficit public et de maîtrise de la dépense publique. En effet, les principaux indicateurs montrent que la situation financière des collectivités locales s'est rétablie en 2021 par rapport à 2020 et même améliorée par rapport à 2019. Si la situation financière des collectivités est plus incertaine du fait de l'inflation en 2022, l'État est présent pour aider celles qui sont mises en difficulté. Dans ce contexte, la première loi de finances rectificatives de l'année a prévu une enveloppe de 570 M€ dédiés au dispositif de compensation des effets induits par l'inflation sur les dépenses de fonctionnement des collectivités au titre de l'exercice 2022. Le projet de loi de finances pour 2023 prévoit une augmentation de la dotation globale de fonctionnement de 320 M€ ainsi qu'un filet de sécurité et un dispositif d'amortisseur électricité destinés au soutien des collectivités locales d'un montant total de 2,5 Md€. En outre, la création d'un fonds d'accélération de la transition écologique dans les territoires, aussi appelé « fonds vert » est inscrit au projet de loi de finances 2023. Ce fonds, doté de 2,0 Md€ d'autorisations d'engagement pour l'année 2023, permettra de soutenir les projets des collectivités territoriales en faveur de la transition écologique.
