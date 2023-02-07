@@ -1,0 +1,9 @@
+# Réponse à la question n° 1669
+
+- Question : [1669](1669.md) — Question n° 1669 — Problèmes de transports scolaires en Moselle
+
+## Réponse
+
+*JO du 2023-02-07, page 1247*
+
+Les difficultés de recrutement de conducteurs dans les transports scolaires pèsent sur leur organisation depuis plusieurs années sur l'ensemble du territoire. Ce phénomène a pris une acuité particulière suite à la crise sanitaire, qui a accentué la pénurie de chauffeurs. L'organisation des transports scolaires relève en premier lieu de la responsabilité des autorités organisatrices de la mobilité, intercommunalités et régions, et les conditions de rémunération des conducteurs, élément essentiel de l'attractivité du métier, de celle des employeurs. Un certain nombre de mesures d'urgence a permis de diminuer la pression pour la rentrée 2022 et de limiter au maximum le nombre de services non assurés. La mobilisation de l'ensemble des parties prenantes (départements ministériels concernés, autorités organisatrices, organisations professionnelles) sur le long terme est toutefois nécessaire pour résorber durablement les tensions et garantir la qualité des services de transport scolaire. C'est pourquoi le Gouvernement a engagé un plan d'action global, qui vise notamment à réduire les délais de délivrance des documents nécessaires à la conduite, à faciliter le cumul entre un emploi public et une activité de conduite d'un véhicule de transport scolaire, et à renforcer l'attractivité des marchés de transport scolaire. Ce plan d'action spécifique au transport scolaire constitue par ailleurs l'un des volets d'un plan d'action d'ensemble en faveur de l'attractivité des métiers du transport routier qui a été présenté aux partenaires sociaux le 25 octobre dernier. Ainsi, il vient en complément du plan de réduction des tensions de recrutement porté par le ministère du travail, du plein emploi et de l'insertion.
