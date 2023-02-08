@@ -1,0 +1,21 @@
+# Réponse à la question n° 153
+
+- Question : [153](153.md) — Question n° 153 — Transfert des routes nationales non concédées aux départements
+
+## Réponse
+
+*JO du 2023-02-08, page 943*
+
+ROUTES NATIONALES NON CONCÉDÉES AUX DÉPARTEMENTS
+
+Mme la présidente. La parole est à Mme Danielle Brulebois, pour exposer sa question, n° 153, relative aux routes nationales non concédées aux départements.
+
+Mme Danielle Brulebois. J'appelle en effet votre attention, monsieur le ministre délégué, sur le transfert par l'État aux départements ou aux régions de la propriété de certaines autoroutes, routes ou portions de voies relevant du domaine routier national, comme le prévoit la loi du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l’action publique locale, dite loi 3DS. Afin que la cession soit financièrement neutre, ce transfert est assorti d'une compensation annuelle égale à la moyenne des dépenses actualisées sur une période maximale de trois ans précédant le transfert ; or, la crise de la covid-19 ayant ralenti l'entretien et la maintenance de la voirie, ces dernières années ne sont pas représentatives. De plus, en matière d'investissement, la loi retient une période d'au moins cinq ans précédant le transfert des compétences, alors que la durée d'amortissement du bien transféré est de sept ans.
+
+Dans le Jura sont concernées la RN83 et la RN5, celle-ci constituant un axe essentiel au développement économique. La plus grande partie de ces routes nationales, principales voies d'accès aux plateaux d'un département très industriel, et où les poids lourds circulent donc en nombre, est située dans des zones géologiquement sensibles, de plus en plus exposées au changement climatique qui, en montagne, entraîne glissements de terrains marneux et chutes de pierres. Ainsi, ma question est la suivante : en cas de transfert, comment l'État entend-il contribuer aux potentiels travaux structurants d’aménagement, de reconstruction, voire d’extension, dont le montant dépasserait de loin les capacités budgétaires du département ?
+
+Mme la présidente. La parole est à M. le ministre délégué chargé des outre-mer.
+
+M. Jean-François Carenco, ministre délégué chargé des outre-mer. Par principe, madame la députée, tout accroissement de charges résultant d'un transfert de compétences entre État et collectivités territoriales – soit dit en passant, celui dont nous parlons a été récemment adopté par l'Assemblée, c'est-à-dire par vous – est accompagné concomitamment du transfert par l'État aux collectivités ou à leurs groupements des ressources nécessaires à l'exercice normal de ces compétences. C'est pourquoi l'article 150 de la loi « 3DS » détaille très clairement le dispositif de compensation des charges induites par le transfert de certaines autoroutes, routes ou portions de voies non concédées relevant du domaine routier national. Les durées de référence en vue de l'évaluation des charges, qui détermine le montant de cette compensation, ont été fixées à trois ans pour les dépenses de fonctionnement, cinq ans pour les dépenses d'investissement, par un décret du 29 décembre 2022 : elles sont identiques à celles retenues pour les précédents transferts, notamment celui du réseau routier départemental prévu par la loi du 13 août 2004 relative aux libertés et responsabilités locales. Le droit à compensation des charges de fonctionnement est ainsi égal à la moyenne des dépenses sur les trois années précédant le transfert, en l'occurrence de 2021 à 2023, ce qui prend en compte le rattrapage de retards causés par la pandémie.
+
+Concernant l'investissement, la moyenne des dépenses précédant le transfert est calculée sur une période de cinq ans, de 2019 à 2023 : elle tient compte des investissements engagés à partir de 2021 dans le cadre du plan de relance. La compensation égale à la moyenne des investissements passés doit permettre de financer les investissements futurs ; s'y ajoutent de nombreux investissements de l'État, la loi du 24 décembre 2019 ayant établi un programme d'investissements prioritaires en vue de l'entretien et de la modernisation du domaine routier. Tout cela est de nature à rassurer les collectivités locales, même si le fait d'investir dans leur propre réseau routier demeure de leur ressort.
