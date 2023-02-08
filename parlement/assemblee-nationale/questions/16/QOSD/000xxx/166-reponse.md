@@ -1,0 +1,33 @@
+# Réponse à la question n° 166
+
+- Question : [166](166.md) — Question n° 166 — Situation des écoles et collèges des quartiers sud du Mans
+
+## Réponse
+
+*JO du 2023-02-08, page 926*
+
+ÉCOLES ET COLLÈGES DES QUARTIERS SUD DU MANS
+
+Mme la présidente. La parole est à Mme Marietta Karamanli, pour exposer sa question, n° 166, relative aux écoles et collèges des quartiers sud du Mans.
+
+Mme Marietta Karamanli. Ma question s’adressait à M. le ministre de l’éducation nationale et de la jeunesse, mais votre portefeuille vous permettra d’y répondre plus largement encore. Elle concerne la situation des écoles primaires et des collèges des quartiers sud du Mans. Six écoles du même secteur ont un indice de position sociale des élèves (IPS) inférieur à 68 ; trois collèges proches – Costa-Gavras, Joséphine-Baker et Alain-Fournier – ont un indice inférieur à 75. Même lorsque ces établissements appartiennent à un réseau d’éducation prioritaire (REP), les effectifs des classes restent trop importants. De plus, les moyens pédagogiques adaptés aux enfants à besoins particuliers manquent.
+
+Au collège Costa-Gavras, les heures de français pour les élèves allophones sont moins nombreuses qu'elles le devraient et sont allouées avec retard ; les élèves venant de territoires non métropolitains, qui parlent mais n’écrivent pas le français, n’ont pas de soutien particulier. Les élèves pour qui les actions d'aide scolaire et de soutien ne suffisent pas à résoudre les difficultés ne peuvent pas bénéficier d’un dispositif de type Segpa – section d’enseignement général et professionnel adapté – à proximité de leur habitation.
+
+De façon générale, le suivi des enfants suppose un soutien pédagogique actif et spécialisé. Surtout, les élèves ont besoin d'un suivi médical et social, qu’en l’état les projets transversaux, comme les cités éducatives, n'assurent pas automatiquement. Les enseignants sont mobilisés pour déployer des projets innovants : Costa-Gavras, par exemple, accueille la première classe à horaires aménagés cinéma de France. Ils ne peuvent cependant pas résoudre seuls les difficultés qu'ils rencontrent.
+
+Une déclinaison territoriale des mesures, menée avec les collectivités compétentes, à savoir la ville et le département, est nécessaire pour conduire une action résolue en faveur notamment de la santé, de l'alimentation et d'un suivi social des familles désemparées au quotidien. À situation mauvaise, il faut des moyens nouveaux et durables. Je souhaite que les moyens des écoles et des collèges concernés soient renforcés et que l'État, dont c'est la responsabilité, engage un programme de réussite, après concertation avec l'ensemble de la communauté éducative et avec les collectivités compétentes en matières sociale et scolaire. Ce programme comprendra des engagements dans les domaines du français, de l'accompagnement en faveur de la santé et de l'aide sociale aux élèves et aux familles. Je vous remercie de votre réponse, que je souhaite positive.
+
+Mme la présidente. La parole est à Mme la ministre déléguée chargée des personnes handicapées.
+
+Mme Geneviève Darrieussecq, ministre déléguée chargée des personnes handicapées. Offrir à chaque élève les conditions d'apprentissage qui lui permettent de réaliser toutes ses potentialités est un objectif sur lequel nous ne transigerons pas. Améliorer les résultats scolaires, lutter contre toutes les formes d'inégalité et promouvoir le bien-être de nos élèves sont les trois exigences qui guident l'action du ministère de l'éducation nationale et de la jeunesse et du ministre qui m'a chargée de répondre à votre question.
+
+Le premier principe de l'éducation prioritaire est de donner plus à ceux qui en ont le plus besoin. Il reste donc d'actualité, et le classement en réseau d'éducation prioritaire renforcé (REP+) des collèges Costa-Gavras, Joséphine-Baker et Alain-Fournier et de leurs écoles de secteur prouve bien l'attention portée à la réussite des élèves de ces établissements.
+
+Les mesures mises en œuvre depuis 2017, particulièrement le dédoublement des classes en éducation prioritaire, et leur renforcement, permettent de progresser. Les évaluations montrent que les écarts de réussite entre les établissements REP+ et les autres se réduisent progressivement : nous allons dans le bon sens.
+
+Le ministère de l'éducation nationale et de la jeunesse a également lancé une réflexion sur la révision de la carte de l'éducation prioritaire. Les éventuelles nouvelles difficultés et les enjeux identifiés, notamment ceux que vous évoquez, devront être examinés dans ce cadre.
+
+La démarche École promotrice de santé, instaurée en 2020 par le ministère de l'éducation nationale et de la jeunesse, constitue un levier puissant pour améliorer la santé des élèves. Elle contribue à lutter contre les inégalités de santé en améliorant le pouvoir d'agir des élèves qui apprennent les bonnes pratiques en matière de santé.
+
+Enfin, le rôle primordial du ministère dans la stratégie multisectorielle de développement des compétences psychosociales chez les enfants et les jeunes contribuera, grâce à la feuille de route attendue avant l'été, à fournir des outils pour accompagner les établissements dans cette démarche de promotion de la santé.
