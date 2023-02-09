@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701719
+
+- Question : [SEQ220701719](seq220701719.md) — Très forte hausse des abandons de nouveaux animaux de compagnie en France
+
+## Réponse
+
+*Écologie, JO du 2023-02-09, page 962*
+
+La détention d'animaux d'espèces non domestiques est encadrée réglementairement et soumise à des conditions strictes (arrêté du 8 octobre 2018 fixant les règles générales de détention d'animaux d'espèces non domestiques), dont celle d'identification afin d'assurer la traçabilité de l'animal tout au long de sa vie. Pour certaines espèces, notamment dangereuses ou pour lesquelles les conditions d'élevage sont complexes, la réglementation dispose de l'obligation de détenir un certificat de capacité pour son détenteur et une autorisation d'ouverture pour le lieu d'hébergement de l'animal. Ces contraintes réglementaires restreignent déjà fortement la détention de telles espèces. En outre, la loi n° 2021-1539 du 30 novembre 2021 visant à lutter contre la maltraitance animale renforce également ces contraintes par l'établissement d'une liste positive mentionnée en son article 14. Ainsi, parmi les animaux d'espèces non domestiques, seuls les animaux relevant d'espèces figurant sur une liste fixée par arrêté ministériel pourront être détenus comme animaux de compagnie ou dans le cadre d'élevages d'agrément. Cette liste sera publiée dans les prochains mois, après concertation avec les parties prenantes. Par conséquent, bien que la détention d'un NAC figurant dans la liste des espèces animales domestiques (arrêté du 11 août 2006 fixant la liste des espèces, races ou variétés d'animaux domestiques) reste libre, ceux considérés comme animaux non domestiques sont soumis à un régime d'autorisation de détention spécifique, voire seront interdits de détention par les particuliers, ce qui devrait diminuer sensiblement l'achat impulsif et l'abandon.
