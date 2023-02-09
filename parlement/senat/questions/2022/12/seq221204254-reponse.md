@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204254
+
+- Question : [SEQ221204254](seq221204254.md) — Séquelles du transfert de la compétence transports scolaires
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-02-09, page 956*
+
+La loi nº 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, puis la loi nº 2019-1428 du 24 décembre 2019 d'orientation des mobilités ont confié l'organisation des services de mobilité aux régions dans un but de rationalisation des compétences. Ainsi, aux termes de l'article L. 3111-7 du Code des transports, la région a la responsabilité de l'organisation et du fonctionnement des transports scolaires. « Elle consulte à leur sujet les conseils départementaux de l'éducation nationale intéressés. (…) L'autorité organisatrice apprécie l'opportunité de recourir à des services de transport scolaire ou à d'autres services réguliers de transport public de personnes, en tenant compte des enjeux de qualité et de sécurité du transport des élèves ». Cette réorganisation des compétences en matière de transports scolaires a déjà fait l'objet d'un premier bilan, réalisé par l'Inspection générale de l'administration et le Conseil général de l'environnement et du développement durable. Le rapport intitulé « Évaluation de la mise en œuvre de la compétence transports scolaires » a été remis en juillet 2020 et est disponible sur le site internet du ministère de l'intérieur et des outre-mer. Les auteurs de ce rapport ont constaté que les régions s'étaient clairement et massivement saisies de la compétence transports scolaires au point que la majorité des départements ne considère plus comme un enjeu de la récupérer. Ils remarquent, en outre, que les régions sont demeurées soucieuses de la proximité et mettent en œuvre une harmonisation progressive des règles sur leur territoire. Ces conclusions confortent la pertinence de la réforme qui a eu lieu en ce domaine.
