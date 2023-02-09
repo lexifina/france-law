@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902838
+
+- Question : [SEQ220902838](seq220902838.md) — Lycéens sans affectation
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2023-02-09, page 996*
+
+La carte des formations est anticipée chaque année grâce à un travail conjoint de la région et de la région académique. Il en est de même pour le schéma régional des formations technologiques de l'enseignement scolaire et supérieur et la sectorisation est ajustée régulièrement en conséquence. Toutefois, les taux d'orientation vers la voie professionnelle après la classe de 3e et vers la première technologique sciences et technologies du management et de la gestion (STMG) après la classe de seconde ont connu une hausse inédite en 2022. L'affectation relève de l'IA-DASEN (inspecteur d'académie-directeur académique des services de l'éducation nationale), qui met en œuvre les mesures pour proposer une solution à chaque élève en fonction des spécificités locales et de la demande sociale pour chaque voie de formation. Sous l'effet de la poussée démographique dans plusieurs départements franciliens, de l'évolution des taux d'orientation et de la difficulté de la région à augmenter les capacités d'accueil des équipements scolaires, il a été nécessaire d'adapter les modalités de réponses pour proposer une affectation à chaque élève, générant un retard dans l'affectation de certains élèves présentant des fragilités scolaires. Afin de répondre à leurs besoins, plusieurs divisions de seconde professionnelle ont été créées dont deux regroupant plusieurs secteurs professionnels pour permettre aux élèves de construire leurs choix progressivement en perspective de l'entrée en première professionnelle en fin d'année tout en favorisant la mixité fille-garçon. À ce jour, une proposition a pu être faite à chaque jeune en fonction de sa situation individuelle.
