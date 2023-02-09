@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701836
+
+- Question : [SEQ220701836](seq220701836.md) — Atteinte au libre exercice d'un mandat et liberté fondamentale
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-02-09, page 952*
+
+Le principe du libre exercice des mandats par les élus locaux a effectivement été reconnu comme une liberté fondamentale au sens de l'article L. 521-2 du Code de justice administrative (CJA) par le juge administratif. Ainsi, le juge a par exemple considéré que la note du directeur général des services d'une commune qui, à la demande du maire, donnait instruction aux agents du service du courrier d'ouvrir et d'enregistrer l'ensemble des courriers adressés aux adjoints au maire ainsi qu'à certains conseillers municipaux, méconnaissait ce principe ainsi que le principe du secret des correspondances (qui est également reconnu comme une liberté fondamentale au sens de l'article L. 521-2 du CJA) (CE, ord., 9 avril 2004, Vast, n° 263759). De même, le juge a estimé, dans le cadre d'une procédure en référé-liberté, que le refus du président de la Polynésie française de donner suite à la lettre de démission d'un des ministres du Gouvernement polynésien dans un délai raisonnable, l'empêchant ainsi de retrouver son siège au sein de l'assemblée de la Polynésie française et de faire acte de candidature à l'élection du président de l'assemblée et de son bureau, méconnaissait le principe de libre exercice des mandats par les élus locaux (CE, ord., 11 avril 2006, Tefaarere, n° 292029). Ces jurisprudences sont transposables au mandat de conseiller départemental ou régional. Par conséquent, un élu local pourra se prévaloir, à l'occasion de l'exercice d'un référé-liberté, de l'atteinte au libre exercice de son mandat, liberté fondamentale au sens de l'article L. 521-2 du CJA.
