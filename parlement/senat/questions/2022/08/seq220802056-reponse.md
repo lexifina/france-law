@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802056
+
+- Question : [SEQ220802056](seq220802056.md) — Attribution des pensions de réversion
+
+## Réponse
+
+*Travail, plein emploi et insertion, JO du 2023-02-09, page 1048*
+
+La pension de réversion correspond à une partie de la retraite dont bénéficiait ou aurait pu bénéficier l'assuré décédé. Elle est versée au conjoint survivant et aux-conjoints divorcés sous des conditions qui varient en fonction du régime d'affiliation du défunt. L'obtention d'une pension de réversion doit faire l'objet d'une demande : il s'agit d'une prestation quérable. Dans le régime général, sous réserve d'éligibilité, lorsqu'une demande de liquidation de pension de réversion est déposée dans le délai d'un an qui suit le décès, l'entrée en jouissance intervient rétroactivement le premier jour du mois suivant le décès (article R. 353-7 du code de la sécurité sociale). Lorsqu'elle est déposée après ce délai, elle intervient au plus tôt au premier jour du mois suivant la date de réception de la demande. Depuis juillet 2020, la demande unique de retraite de réversion en ligne a été mise en place afin de simplifier les démarches des assurés (www.info-retraite.fr). Ce téléservice permet de collecter les données utiles au traitement de la demande de pension de réversion et d'assurer l'envoi de ces données aux régimes où l'assuré dispose de droits au vu de la réglementation en vigueur. Une seule demande permet donc que les droits soient étudiés dans chaque régime concerné. Les mairies, guichets sociaux départementaux et maisons France services peuvent également accompagner les assurés dans la réalisation de cette démarche. Par ailleurs, les organismes, dans le cadre de la lutte contre le non-recours, mettent en place des opérations permettant de contacter les bénéficiaires potentiels de pension de réversion. Ces opérations demeurent pour autant complexes du fait de la méconnaissance par les caisses des coordonnées des assurés concernés.
