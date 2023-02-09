@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700116
+
+- Question : [SEQ220700116](seq220700116.md) — Utilisation du compte personnel de formation pour les Français de l'étranger
+
+## Réponse
+
+*Enseignement et formation professionnels, JO du 2023-02-09, page 999*
+
+Conformément à l'article L. 5151-3 du code du travail, les droits inscrits sur le compte personnel d'activité et par conséquent au titre du compte personnel de formation (CPF), y compris en cas de départ du titulaire à l'étranger, demeurent acquis par leur titulaire jusqu'à leur utilisation ou à la fermeture du compte. Par conséquent, en cas de départ du titulaire de compte personnel de formation à l'étranger, les droits acquis demeurent inscrits sur le CPF de ces personnes et peuvent être utilisés à tout moment. Cependant, et face à l'augmentation des cas de fraude constatés via l'utilisation par certains organismes de démarchages de pratiques commerciales illicites concernant le CPF, la caisse des dépôts et consignations a restreint l'utilisation de la plateforme mon compte formation (MCF) pour les adresses situées hors de France. En effet, certains organismes de démarchages frauduleux basés à l'étranger tentaient de subtiliser les informations personnelles ou professionnelles des titulaires de compte CPF afin de faire un usage de leurs droits sans le consentement de ces derniers. Afin de préserver l'accès à la formation en toute sécurité pour l'usager comme le dispositif, l'inscription des titulaires de CPF domiciliés hors de France sur la plateforme MCF reste possible sous certaines conditions. Pour cela, le titulaire doit contacter le support informatique du site internet moncompteformation.gouv afin que les services de la caisse des dépôts et consignations puissent leur ouvrir personnellement l'accès à la plateforme ainsi qu'à tous les autres services associés (connexion, consultation des offres de formation et souscription à une action de formation).
