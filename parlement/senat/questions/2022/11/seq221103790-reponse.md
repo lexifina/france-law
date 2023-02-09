@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103790
+
+- Question : [SEQ221103790](seq221103790.md) — Subventions américaines aux entreprises
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2023-02-09, page 981*
+
+L'Inflation Reduction Act prévoit d'importantes subventions, sous la forme de crédits d'impôt à la consommation ou à la production, dans les énergies et les mobilités propres, dont certains sont conditionnés à des exigences de contenu national. Ces dernières subventions apparaissent manifestement incompatibles avec les règles de l'Organisation mondiale du commerce (OMC). Si nous partageons les ambitions climatiques de l'administration Biden, nous sommes très attentifs à ce que les dispositifs de verdissement ne créent pas un désavantage compétitif pour les entreprises européennes, en particulier s'agissant de secteurs d'avenir. Afin de trouver une solution négociée à cet irritant sans alimenter le risque d'une guerre commerciale, le Gouvernement soutient pleinement les efforts de la Commission européenne dans le cadre d'une Task Force qui se réunit à un rythme hebdomadaire avec la Maison Blanche. La visite d'État du Président de la République aux États-Unis a ainsi permis de faire entendre à haut niveau les préoccupations françaises et européennes et a été saluée par la Commission européenne et plusieurs États membre de l'UE. Les premiers résultats de cette Task Force sont attendus pour le 1er trimestre 2023. S'agissant de l'enjeu plus global de la défense et du soutien aux secteurs industriels nécessaires à la transition verte, le Gouvernement soutient une approche européenne forte, mobilisant l'ensemble des instruments commerciaux et industriels adéquats. À cet effet, la Commission devrait présenter ses propositions au Conseil européen dans les prochaines semaines.
