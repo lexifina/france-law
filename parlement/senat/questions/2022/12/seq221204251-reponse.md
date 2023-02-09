@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204251
+
+- Question : [SEQ221204251](seq221204251.md) — Renoncement à l'élargissement de l'A46 sud
+
+## Réponse
+
+*Transports, JO du 2023-02-09, page 1044*
+
+Conscient des problématiques de congestion, de nuisances et de risques caractérisant le nœud de Ternay-Chasse sur Rhône-Givors et plus largement de la nécessité de porter une réflexion sur les mobilités dans le sud-est lyonnais, le ministre délégué chargé des transports a suspendu, pour une durée d'un an, les études relatives au projet d'élargissement de l'autoroute A46 au sud de Lyon. Dans la continuité de la concertation menée en 2021 sous l'égide de garants désignés par la Commission Nationale du Débat Public, il a souhaité mettre en place un cadre de concertation dans le souci de co-construire, avec l'ensemble des acteurs du territoire, les solutions à apporter aux nombreuses et complexes problématiques de mobilité de ce secteur du quart sud-est lyonnais. Cette concertation doit permettre d'interroger la pertinence de l'ensemble des projets d'infrastructures routière et d'étudier dans ce secteur toutes les opportunités alternatives au tout routier (ferroviaire et fluvial). Cette nouvelle phase d'échanges sera conduite par la préfète de région. L'objectif est de proposer des solutions tenant compte de l'ensemble des modes de transport, et d'associer l'ensemble des parties prenantes, les collectivités locales bien sûr et notamment les autorités organisatrices des mobilités, mais également la société civile : associations, riverains, milieux économiques. Les réponses aux problématiques évoquées dans la question, qu'il convient de bâtir, doivent également prendre en compte leurs impacts pour les populations locales (nuisances sonores, environnementales, « coupure » territoriale notamment). Toutes les parties prenantes sont invitées à participer activement à cette concertation élargie.
