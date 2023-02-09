@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204512
+
+- Question : [SEQ221204512](seq221204512.md) — Bien-fondé de la participation de l'agence française de développement au projet dit du pôle Austerlitz à Paris
+
+## Réponse
+
+*Développement, francophonie et partenariats internationaux, JO du 2023-02-09, page 959*
+
+En janvier 2020, le Conseil d'administration de l'Agence française de développement (AFD) a donné son accord au projet d'achat du futur siège de l'AFD, basé à proximité de la gare d'Austerlitz. Cette opération est entièrement financée par un emprunt de l'Agence sur les marchés et ne mobilise pas d'argent public. Ce projet a bénéficié d'un accompagnement rigoureux par la direction de l'immobilier de l'État et par les ministeres de tutelle de l'AFD pour en maîtriser les coûts et assurer son parfait alignement avec la politique immobilière de l'État. Il était nécessaire pour absorber la croissance de l'activité, l'intégration d'Expertise France et fédérer l'ensemble du Groupe AFD au sein d'un site unique. Il permettra donc de renforcer les synergies et in fine de créer des économies d'echelle. Le site retenu comporte également des surfaces excédentaires qui permettront potentiellement de constituer une « Cité du Développement durable » fédérant une diversité d'acteurs impliqués dans le domaine de la coopération internationale et du développement durable, et en premier lieu des organisations internationales et les ONG impliquées dans la réalisation de l'Agenda 2030. Ce projet, qui offre des perspectives d'hébergement d'organisations internationales à Paris, est en cohérence avec le renforcement de la politique d'attractivité de la France à l'égard des organisations internationales, objectif figurant dans la loi de programmation du 4 août 2021. Le bâtiment devrait être livré au premier semestre 2026. La recherche de locataires se fera en amont de la livraison, courant 2023, en lien étroit avec les services de l'État.
