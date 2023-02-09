@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103734
+
+- Question : [SEQ221103734](seq221103734.md) — Réglementation de la pose de panneaux en entrée et sortie de ville ou village hors panneaux type EB 10 ou EB 20
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-02-09, page 1012*
+
+La signalisation routière a pour objet de rendre plus sûre la circulation routière, de faciliter cette circulation, d'indiquer ou de rappeler diverses prescriptions particulières de police et de donner des informations relatives à l'usage de la route. Les caractéristiques et les conditions d'implantation des panneaux d'entrée d'agglomération (EB10) sont définies à l'article 5-8 de l'arrêté du 24 novembre 1967 sur la signalisation routière et aux articles 99-1 et 99-2 de l'instruction interministérielle sur la signalisation routière (IISR). Seul le nom de l'agglomération doit figurer sur les panneaux EB10. Le cas échéant, le nom de la commune peut compléter celui de l'agglomération lorsque le nom de cette dernière est différent. Ces panneaux ne doivent comporter ni logotype, ni idéogramme. Il est prévu que le panneau EB10 puisse être complété par les panneaux AB6 (route à caractère prioritaire) ou AB7 (fin de route à caractère prioritaire), B14 (limitation de vitesse), E31 (lieu-dit) et E32 (cours d'eau). Certains autres panonceaux sont tolérés sur le même support que le panneau EB10, sous réserve qu'ils ne nuisent pas à la lisibilité et à la compréhension de la signalisation. Néanmoins, lorsqu'une commune dispose d'un certain nombre de labels par exemple, il est préférable que ceux-ci soient rassemblés sur un autre support, posé après le panneau EB10 ou sur des panneaux de relais d'information service (RIS), qui présentent déjà une nomenclature des voiries et des activités, des services et des équipements de la commune.
