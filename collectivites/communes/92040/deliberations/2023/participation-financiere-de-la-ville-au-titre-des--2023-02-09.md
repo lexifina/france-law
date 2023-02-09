@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Participation financière de la Ville au titre des actions de prévention pour l’année 2023 dans le cadre de la Stratégie Territoriale de Sécurité et de Prévention de la Délinquance (STSPD)
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-02-09
+- Matière : PREVENTION ET SECURITE
+- Objet : Participation financière de la Ville au titre des actions de prévention pour l’année 2023 dans le cadre de la Stratégie Territoriale de Sécurité et de Prévention de la Délinquance (STSPD)
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NzIsInB1ciI6ImJsb2JfaWQifX0=--e6be84a1eb48507dffacc4e6bd0cb76ca78af65f/090223_07.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
