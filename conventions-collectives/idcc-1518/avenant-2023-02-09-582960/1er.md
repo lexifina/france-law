@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent avenant est conclu entre organisations syndicales de salariés et organisations professionnelles d'employeurs représentatives au sein de la convention collective nationale des métiers de l'éducation, de la culture, des loisirs et de l'animation agissant pour l'utilité sociale et environnementale, au service des territoires (ÉCLAT), dont le numéro IDCC est le 1518, d'une part, et celles représentatives au sein de la convention collective nationale des associations familles rurales dont le numéro IDCC est le 1031 et au sein de la convention collective nationale des structures associatives de pêche de loisir et de protection du milieu aquatique dont le numéro est le 3203, d'autre part.
