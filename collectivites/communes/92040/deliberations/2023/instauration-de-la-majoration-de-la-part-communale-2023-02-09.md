@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Instauration de la majoration de la part communale de la cotisation de taxe d’habitation due au titre des logements meublés non affectés à l'habitation principale
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-02-09
+- Matière : FINANCES
+- Objet : Instauration de la majoration de la part communale de la cotisation de taxe d’habitation due au titre des logements meublés non affectés à l'habitation principale
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NzEsInB1ciI6ImJsb2JfaWQifX0=--50f7058106ac80a9a450d1a523d680a25df4ca17/090223_04.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
