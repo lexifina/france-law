@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700264
+
+- Question : [SEQ220700264](seq220700264.md) — Éligibilité des formations au compte personnel de formation
+
+## Réponse
+
+*Enseignement et formation professionnels, JO du 2023-02-09, page 999*
+
+Poursuivant un objectif de sécurisation des parcours professionnels, le compte personnel de formation (CPF), ne peut être mobilisé via la plateforme Mon Compte Formation (MCF) que pour certaines actions définies à l'article L. 6323-6 du code du travail et notamment sanctionnées par une certification ou habilitation enregistrée au Répertoire national des certifications professionnelles (RNCP) ou au Répertoire spécifique (RS). Conformément aux articles L.6113-5 et L. 6113-6 du code du travail, les certifications professionnelles et les certifications et habilitations correspondants à des compétences professionnelles sont enregistrées, une fois validée par la commission de certification, pour une durée maximale de cinq ans dans les répertoires nationaux établis par France compétences. Pour que leur formation soit éligible au financement CPF et soient certifiantes, les organismes de formation peuvent recourir à des organismes certificateurs qui leur délivrent des habilitations à former au lieu de déposer une demande de certification directement auprès de France compétences. Cette habilitation relève du droit des contrats et prévoit l'ensemble des modalités d'utilisation de la certification octroyées ainsi que la durée de certification qui peut être plus limitée que les cinq ans mentionnés dans la loi et sui concernent la durée d'inscription des certifications validées par France compétences et inscrites sur les répertoires nationaux. La certification doit donc périodiquement faire l'objet d'un réexamen pour s'assurer qu'elle est toujours en adéquation avec le marché de l'emploi. Pour ces raisons, aucune certification n'a de durée illimitée et sa présence sur le CPF n'est pas permanente.
