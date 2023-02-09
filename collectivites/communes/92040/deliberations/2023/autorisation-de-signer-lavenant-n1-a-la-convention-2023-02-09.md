@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de signer l’avenant n°1 à la convention de sous-traitance avec la Caisse nationale des allocations familiales pour l’attribution des places en crèche dans le cadre de la recherche « Investissement Social dans l’Accueil du Jeune Enfant » dite projet ISAJE pour l’année 2023
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-02-09
+- Matière : PETITE ENFANCE
+- Objet : Autorisation de signer l’avenant n°1 à la convention de sous-traitance avec la Caisse nationale des allocations familiales pour l’attribution des places en crèche dans le cadre de la recherche « Investissement Social dans l’Accueil du Jeune Enfant » dite projet ISAJE pour l’année 2023
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3MTEsInB1ciI6ImJsb2JfaWQifX0=--3640ab14479598a137c5d69f378058aa75cacfdf/090223_23.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
