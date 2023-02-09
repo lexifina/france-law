@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement de la procédure de délégation de service public pour l’exploitation de la crèche « Les Petits Zouaves »
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-02-09
+- Matière : PETITE ENFANCE
+- Objet : Lancement de la procédure de délégation de service public pour l’exploitation de la crèche « Les Petits Zouaves »
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0MjQsInB1ciI6ImJsb2JfaWQifX0=--cd307421732ddce6089300f5dd3a7ef95b67b6c9/090223_21.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
