@@ -1,14 +1,12 @@
 # Article Annexe II
 
-Normes de production d'azote épandable par espèce animale
-
-pour la mise en œuvre du 5 de l'annexe I du présent arrêté
+NORMES DE PRODUCTION D'AZOTE ÉPANDABLE PAR ESPÈCE ANIMALE POUR LA MISE EN ŒUVRE DU V DE L'ANNEXE I DU PRÉSENT ARRÊTÉ
 
 Rappel :
 
-L'azote épandable est défini comme étant l'azote excrété par un animal d'élevage en bâtiment et à la pâture duquel est soustrait l'azote volatilisé lors de la présence de l'animal en bâtiment et lors du stockage des effluents. L'azote volatilisé à la pâture n'est pas soustrait de l'azote excrété (jurisprudence de la Cour de justice de l'Union européenne concernant la mise en œuvre de la directive 91/676/CEE dite directive nitrates ).
+L'azote épandable est défini comme étant l'azote excrété par un animal d'élevage en bâtiment et à la pâture duquel est soustrait l'azote volatilisé lors de la présence de l'animal en bâtiment et lors du stockage des effluents. L'azote volatilisé à la pâture n'est pas soustrait de l'azote excrété (Jurisprudence de la Cour de justice de l'Union européenne concernant la mise en œuvre de la directive 91/676/ CEE dite directive " nitrates ").
 
-A. - Production d'azote épandable par les herbivores, hors vaches laitières
+A.-Production d'azote épandable par les herbivores, hors vaches laitières
 
 Animaux |
 
@@ -16,7 +14,7 @@ Production N unitaire |
 
 Herbivores |
 
-(kg d'azote/animal présent/an) |
+(kg d'azote/ animal présent/ an) |
 
 Vache nourrice, sans son veau |
 
@@ -108,7 +106,7 @@ Poney CD (400 kg) |
 
 |
 
-(kg d'azote/place) |
+(kg d'azote/ place) |
 
 Place veau de boucherie |
 
@@ -116,7 +114,7 @@ Place veau de boucherie |
 
 |
 
-(kg d'azote / animal produit) |
+(kg d'azote/ animal produit) |
 
 Agneau engraissé produit |
 
@@ -126,93 +124,71 @@ Chevreau engraissé produit |
 
 0,07 |
 
-B. ― Production d'azote épandable par les vaches laitières
-
-(kg d'azote/an/animal présent)
+B.-Production d'azote épandable par les vaches laitières (kg d'azote/ an/ animal présent)
 
 L'azote épandable des vaches laitières varie significativement selon le temps passé à l'extérieur des bâtiments et notamment à la pâture (volatilisation non soustraite de l'azote excrété et régime alimentaire riche en azote) et selon le niveau de production laitière.
 
 La production laitière en kg est obtenue à partir de la quantité annuelle de lait livrée, y compris en vente directe, exprimée en litres, divisée par le nombre de vaches laitières présentes dans l'année puis divisée par le coefficient 0,92 afin de prendre en compte la différence entre lait produit et lait livré et la conversion des litres en kg.
 
-Production d'azote épandable par les vaches laitières
+Production d'azote épandable par les vaches laitières (kg d'azote/ an/ animal présent)
 
-(kg d'azote/an/animal présent)
+Temps passé à l'extérieur des bâtiments (mois) |
 
-TEMPS PASSÉ
+" Petit format " :
 
-à l'extérieur des bâtiments
+production laitière
 
-|
+< 4500 kg lait/ vache/ an
 
-PRODUCTION LAITIÈRE
+et
 
-(kg lait/vache/an)
+poids vif adulte moyen
 
-|
+< 500 kg (1) |
 
-< 6 000 kg
+Format " standard "
 
-|
+Production laitière (kg lait/ vache/ an) |
 
-6 000
+< 6000 kg |
 
-à 8 000 kg
+6000 à 8000 kg |
 
-|
+> 8000 kg |
 
-> 8 000 kg
+< 4 mois |
 
-|
+62 |
 
-< 4 mois
+75 |
 
-|
+83 |
 
-75
+91 |
 
-|
+4 à 7 mois |
 
-83
+76 |
 
-|
+92 |
 
-91
+101 |
 
-|
+111 |
 
-4 à 7 mois
+> 7 mois |
 
-|
+86 |
 
-92
+104 |
 
-|
+115 |
 
-101
+126 |
 
-|
+(1) Poids vif adulte moyen des vaches de race laitière de " petit format " du troupeau.
 
-111
-
-|
-
-> 7 mois
-
-|
-
-104
-
-|
-
-115
-
-|
-
-126
-
-|
-
-C. ― Production d'azote épandable pour les volailles
+C. - Production d'azote épandable pour les volailles
 
 ANIMAUX |
 
@@ -222,7 +198,7 @@ Production d'azote |
 
 Caille |
 
-Future reproductrice (œufs et chair) |
+Future reproductrice (oeufs et chair) |
 
 12 |
 
@@ -492,19 +468,19 @@ Pondeuse (reproductrice ponte) (1) |
 
 324 |
 
-Pondeuse biologique (œufs) |
+Pondeuse biologique (oeufs) |
 
 365 |
 
-Pondeuse label (œufs) |
+Pondeuse label (oeufs) |
 
 373 |
 
-Pondeuse plein air (œufs) |
+Pondeuse plein air (oeufs) |
 
 365 |
 
-Pondeuse sol (œufs) |
+Pondeuse sol (oeufs) |
 
 413 |
 
@@ -556,33 +532,33 @@ Future reproductrice (ponte) |
 
 92 |
 
-Œufs-label, bio et plein air |
+Œufs - label, bio et plein air |
 
 79 |
 
-Œufs-standard sol |
+Œufs - standard sol |
 
 82 |
 
-Œufs-standard cage |
+Œufs - standard cage |
 
 77 |
 
 (1) Les résultats sont exprimés par femelle présente (la part de l'excrétion du mâle est compris dans le résultat et donc à multiplier par le nombre de femelles).
 
-(2) Les résultats sont exprimés par animal présent (donc à multiplier par le nombre total d'animaux (mâles + femelles).
+(2) Les résultats sont exprimés par animal présent (donc à multiplier par le nombre total d'animaux (mâles + femelles)) |
+
+Nota. - Comme indiqué au V de l'annexe I du présent arrêté, afin d'estimer la production d'azote des volailles de son exploitation, un éleveur de volailles peut utiliser, en lieu et place des valeurs du tableau ci-dessus, le résultat d'un bilan réel simplifié. Le calcul du bilan réel simplifié doit être réalisé à l'aide de l'un des outils de calcul cité dans la brochure du Réseau Mixte Technologique " élevages et environnement " relative aux rejets d'azote des volailles la plus récente, et l'éleveur doit tenir à disposition de l'administration les états de sortie de l'outil de calcul du bilan réel simplifié, ainsi que tout élément justifiant la pertinence des données saisies dans l'outil de calcul (en particulier la gestion technico-économique ou les pièces comptables et bordereaux d'enlèvement des animaux et les factures d'aliments).
+
+D. - Production d'azote épandable par les lapins
+
+Lapins |
+
+Production d'azote |
 
 |
 
-D. ― Production d'azote épandable par les lapins
-
-LAPINS |
-
-PRODUCTION D'AZOTE |
-
-|
-
-(kg d'azote/animal présent/an) |
+(kg d'azote / animal présent / an) |
 
 Lapine et sa suite, élevage naisseur engraisseur |
 
@@ -594,7 +570,7 @@ Lapine et sa suite, élevage naisseur |
 
 |
 
-(kg d'azote/animal produit) |
+(kg d'azote / animal produit) |
 
 Lapin produit, élevage engraisseur |
 
@@ -604,25 +580,19 @@ E. - Production d'azote épandable pour les porcins
 
 La production d'azote épandable par les porcins varie significativement selon le type d'alimentation et selon le type de logement et de système de gestion des déjections.
 
-Production d'azote épandable par les porcins (kg d'azote/animal)
+Animaux, par type de logement
 
-Animaux, par type de logement et de système de gestion des déjections
+et de système de gestion des déjections |
 
-|
+Production d'azote
 
-Production d'azote |
+(kg d'azote/animal) |
 
-Alimentation Standard
+Alimentation Standard |
 
-|
+Alimentation Biphase (1) |
 
-Alimentation Biphase (1)
-
-|
-
-Caillebotis seul (lisier standard)
-
-|
+Caillebotis seul (lisier standard) |
 
 Truie reproductrice (kgN/animal présent/an) |
 
@@ -644,9 +614,7 @@ Porcelet post-sevrage (8 à 31 kg) (kgN/ animal produit) |
 
 Porc à l'engraissement produit (31 à 118 kg)
 
-(kgN/ animal produit)
-
-|
+(kgN/ animal produit) |
 
 3,17 |
 
@@ -658,31 +626,19 @@ Correction par kg de différence de poids d'abattage (2) |
 
 0,030 |
 
-Caillebotis et raclage en V
+Caillebotis et raclage en V |
 
-|
+(3) Sans compostage |
 
-(3) Sans compostage
+(3) Avec compostage |
 
-|
+(3) Sans compostage |
 
-(3) Avec compostage
-
-|
-
-(3) Sans compostage
-
-|
-
-(3) Avec
-
-compostage |
+(3) Avec compostage |
 
 Porc à l'engraissement produit (31 à 118 kg)
 
-(kgN/ animal produit)
-
-|
+(kgN/ animal produit) |
 
 3,38 |
 
@@ -722,25 +678,15 @@ Correction par kg de différence de poids d'abattage (2) |
 
 0,027 |
 
-Litière de paille accumulée
+Litière de paille accumulée |
 
-|
+Sans compostage |
 
-Sans compostage
+Avec compostage |
 
-|
+Sans compostage |
 
-Aveccompostage
-
-|
-
-Sanscompostage
-
-|
-
-Aveccompostage
-
-|
+Avec compostage |
 
 Truie reproductrice (kgN/animal présent/an) |
 
@@ -774,9 +720,7 @@ Porcelet post-sevrage (8 à 31 kg) (kgN/ animal produit) |
 
 Porc à l'engraissement produit (31 à 118 kg)
 
-(kgN/ animal produit)
-
-|
+(kgN/ animal produit) |
 
 2,23 |
 
@@ -796,25 +740,15 @@ Correction par kg de différence de poids d'abattage (2) |
 
 0,015 |
 
-Litière de sciure accumulée
+Litière de sciure accumulée |
 
-|
+Sans compostage |
 
-Sans compostage
+Avec compostage |
 
-|
+Sans compostage |
 
-Avec compostage
-
-|
-
-Sans compostage
-
-|
-
-Avec compostage
-
-|
+Avec compostage |
 
 Porcelet post-sevrage (8 à 31 kg) (kgN/ animal produit) |
 
@@ -828,9 +762,7 @@ Porcelet post-sevrage (8 à 31 kg) (kgN/ animal produit) |
 
 Porc à l'engraissement produit (31 à 118 kg)
 
-(kgN/ animal produit)
-
-|
+(kgN/ animal produit) |
 
 1,35 |
 
@@ -850,22 +782,22 @@ Correction par kg de différence de poids d'abattage (2) |
 
 0,011 |
 
-(1) Teneurs maximales en protéines des aliments à respecter pour utiliser les références relatives à l'alimentation biphase : |
+(1) Teneurs maximales en protéines des aliments à respecter pour utiliser les références relatives à l'alimentation biphase :
 
 Biphase : teneurs maximales en protéines des aliments |
 
-Truies : Gestation : 14,0 % - Lactation : 16,5 %
+Truies: Gestation : 14,0% - Lactation : 16,5% |
 
-Post-sevrage : 1er âge : 20,0 % - 2e âge : 18,0 %
+Post-sevrage : 1er âge : 20,0% - 2e âge : 18,0% |
 
-Engraissement : Croissance : 16,0 % - Finition : 15,0 % (60 % d'aliment de finition)
-
-|
+Engraissement: Croissance : 16,0% - Finition : 15,0% (60% d'aliment de finition) |
 
 (2) Correction à apporter à la production d'azote épandable lorsque le poids d'abattage est supérieur à 118 kg, en kg d'azote épandable par kg poids supplémentaire à l'abattage.
 
 (3) Avec ou sans compostage de la phase solide.
 
-|
+Nota. - Comme indiqué au V de l'annexe I du présent arrêté, afin d'estimer la production d'azote des porcins de son exploitation, un éleveur de porc peut utiliser, en lieu et place des valeurs du tableau ci-dessus, le résultat d'un bilan réel simplifié. Le calcul du bilan réel simplifié doit être réalisé à l'aide de l'un des outils de calcul cité dans la brochure du Réseau Mixte Technologique " élevages et environnement " relative aux rejets d'azote des porcs la plus récente, et l'éleveur doit tenir à disposition de l'administration les états de sortie de l'outil de calcul du bilan réel simplifié, ainsi que tout élément justifiant la pertinence des données saisies dans l'outil de calcul (en particulier la gestion technico-économique ou les pièces comptables et bordereaux d'enlèvement des animaux et les factures d'aliments).
 
-Nota. - Comme indiqué au V de l'annexe I du présent arrêté, afin d'estimer la production d'azote des porcins de son exploitation, un éleveur de porc peut utiliser, en lieu et place des valeurs du tableau ci-dessus, le résultat d'un bilan réel simplifié. Le calcul du bilan réel simplifié doit être réalisé à l'aide de l'un des outils de calcul cité dans la brochure du réseau mixte technologique élevages et environnement relative aux rejets d'azote des porcs la plus récente, et l'éleveur doit tenir à disposition de l'administration les états de sortie de l'outil de calcul du bilan réel simplifié, ainsi que tout élément justifiant la pertinence des données saisies dans l'outil de calcul (en particulier la gestion technico-économique ou les pièces comptables et bordereaux d'enlèvement des animaux et les factures d'aliments).
+NOTA :
+
+Se reporter aux conditions d'application prévues à l'article 2 de l'arrêté du 30 janvier 2023 (NOR : TREL2237332A).

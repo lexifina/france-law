@@ -1,6889 +1,4327 @@
 # Article Annexe III
 
-Définition des zones A, B, C et D pour la mise en oeuvre du 1° du II de l'annexe I du présent arrêté
+DÉFINITION DES ZONES A, B, C ET D POUR LA MISE EN ŒUVRE DU 1° DU II DE L'ANNEXE I DU PRÉSENT ARRÊTÉ
 
-RÉGIONS, DÉPARTEMENTS, RÉGIONS AGRICOLES (PETITES)
+REGIONS, DEPARTEMENTS, PETITES REGIONS AGRICOLES |
 
-|
+ZONE |
 
-ZONE
+AUVERGNE-RHONE-ALPES |
 
-|
+AIN |
 
-ALSACE
+01 |
 
-|
+Vallée de la Saône |
 
-BAS-RHIN
+01195 |
 
-|
+B |
 
-67
+01 |
 
-|
+Dombes |
 
-Plaine du Rhin
+01198 |
 
-|
+B |
 
-67301
+01 |
 
-|
+Côteaux en bordure des Dombes |
 
-B
+01201 |
 
-|
+B |
 
-Ried
+01 |
 
-|
+Zone forestière du pays de Gex (1ère zone) |
 
-67302
+01215 |
 
-|
+C |
 
-B
+01 |
 
-|
+Zone d'élevage du pays de Gex (2ème zone) |
 
-Région sous-vosgienne
+01216 |
 
-|
+C |
 
-67304
+01 |
 
-|
+Bresse |
 
-B
+01446 |
 
-|
+C |
 
-Montagne vosgienne
+01 |
 
-|
+Haut-Bugey |
 
-67307
+01449 |
 
-|
+D |
 
-D
+01 |
 
-|
+Bugey |
 
-Plateau lorrain nord
+01451 |
 
-|
+D |
 
-67473
+ALLIER |
 
-|
+03 |
 
-C
+Bocage Bourbonnais |
 
-|
+03178 |
 
-HAUT-RHIN
+C |
 
-|
+03 |
 
-68
+Montagne Bourbonnaise |
 
-|
+03425 |
 
-Hardt
+C |
 
-|
+03 |
 
-68001
+Val d'Allier |
 
-|
+03426 |
 
-B
+B |
 
-|
+03 |
 
-Ochsenfeld
+Combraille Bourbonnaise |
 
-|
+03428 |
 
-68002
+C |
 
-|
+03 |
 
-B
+Sologne Bourbonnaise |
 
-|
+03429 |
 
-Plaine du Rhin
+C |
 
-|
+ARDECHE |
 
-68301
+07 |
 
-|
+Coiron |
 
-B
+07169 |
 
-|
+D |
 
-Ried
+07 |
 
-|
+Plateaux du haut et du moyen vivarais |
 
-68302
+07171 |
 
-|
+D |
 
-B
+07 |
 
-|
+Bas Vivarais |
 
-Sundgau
+07422 |
 
-|
+B |
 
-68303
+07 |
 
-|
+Massif du Mézenc-Meygal |
 
-B
+07423 |
 
-|
+D |
 
-Collines sous-vosgiennes
+07 |
 
-|
+Velay basaltique |
 
-68304
+07424 |
 
-|
+D |
 
-B
+07 |
 
-|
+Monts du Forez |
 
-Montagne sous-vosgienne
+07425 |
 
-|
+D |
 
-68307
+07 |
 
-|
+Vallée du Rhône |
 
-D
+07465 |
 
-|
+B |
 
-Jura
+CANTAL |
 
-|
+15 |
 
-68450
+Bassin d'Aurillac |
 
-|
+15163 |
 
-C
+D |
 
-|
+15 |
 
-AQUITAINE
+Bassin de Massiac |
 
-|
+15164 |
 
-DORDOGNE
+D |
 
-|
+15 |
 
-24
+Planèze de Saint Flour |
 
-|
+15167 |
 
-Ribéracois
+D |
 
-|
+15 |
 
-24158
+Châtaigneraie |
 
-|
+15409 |
 
-B
+C |
 
-|
+15 |
 
-Causses
+Cézallier |
 
-|
+15417 |
 
-24394
+D |
 
-|
+15 |
 
-B
+Margeride |
 
-|
+15418 |
 
-Bergeracois
+D |
 
-|
+15 |
 
-24401
+Aubrac |
 
-|
+15419 |
 
-B
+D |
 
-|
+15 |
 
-Périgord blanc
+Cantal |
 
-|
+15420 |
 
-24403
+D |
 
-|
+15 |
 
-B
+Artense |
 
-|
+15421 |
 
-Périgord noir
+D |
 
-|
+15 |
 
-24404
+Plateau du Sud-Est Limousin |
 
-|
+15433 |
 
-B
+C |
 
-|
+DROME |
 
-Double périgourdine
+26 |
 
-|
+Région de Royans |
 
-24405
+26221 |
 
-|
+B |
 
-B
+26 |
 
-|
+Diois |
 
-Landais
+26234 |
 
-|
+B |
 
-24406
+26 |
 
-|
+Plaines rhodaniennes |
 
-B
+26240 |
 
-|
+B |
 
-Nontronnais
+26 |
 
-|
+Valloire |
 
-24432
+26241 |
 
-|
+B |
 
-C
+26 |
 
-|
+Gallaure et herbasse |
 
-GIRONDE
+26242 |
 
-|
+B |
 
-33
+26 |
 
-|
+Pays de Bourdeaux |
 
-|
+26243 |
 
-|
+B |
 
-B
+26 |
 
-|
+Vercors |
 
-LANDES
+26453 |
 
-|
+D |
 
-40
+26 |
 
-|
+Bochaine |
 
-|
+26461 |
 
-|
+D |
 
-B
+26 |
 
-|
+Baronnies |
 
-LOT-ET-GARONNE
+26463 |
 
-|
+B |
 
-47
+26 |
 
-|
+Tricastin |
 
-|
+26464 |
 
-|
+B |
 
-B
+ISERE |
 
-|
+38 |
 
-PYRENÉES-ATLANTIQUES
+Bas Dauphiné |
 
-|
+38199 |
 
-64
+B |
 
-|
+38 |
 
-Côte basque
+Vallée du Grésivaudan |
 
-|
+38217 |
 
-64138
+B |
 
-|
+38 |
 
-C
+Préalpes |
 
-|
+38453 |
 
-Coteaux du Pays basque
+D |
 
-|
+38 |
 
-64139
+Région Haute-Alpine |
 
-|
+38457 |
 
-C
+D |
 
-|
+38 |
 
-Montagne basque
+Vallée du Rhône |
 
-|
+38465 |
 
-64140
+B |
 
-|
+LOIRE |
 
-D
+42 |
 
-|
+Mont du Jarez et bassin houiller |
 
-Coteaux entre les Gaves
+42168 |
 
-|
+C |
 
-64141
+42 |
 
-|
+Monts du Pilat |
 
-C
+42170 |
 
-|
+D |
 
-Montagnes du Béarn
+42 |
 
-|
+Plateau de Neulisse |
 
-64142
+42189 |
 
-|
+C |
 
-D
+42 |
 
-|
+Plaine Roannaise |
 
-Vallée de l'Adour
+42190 |
 
-|
+C |
 
-64143
+42 |
 
-|
+Côte Roannaise |
 
-C
+42191 |
 
-|
+C |
 
-Vallée du gave d'Oloron
+42 |
 
-|
+Monts de la Madeleine |
 
-64379
+42192 |
 
-|
+D |
 
-C
+42 |
 
-|
+Plaine du Forez |
 
-Vallée du gave de Pau
+42193 |
 
-|
+C |
 
-64380
+42 |
 
-|
+Monts du Forez |
 
-B
+42425 |
 
-|
+D |
 
-Coteaux du Béarn
+42 |
 
-|
+Monts du Lyonnais |
 
-64381
+42445 |
 
-|
+C |
 
-B
+42 |
 
-|
+Vallée du Rhône |
 
-Chalosse
+42465 |
 
-|
+B |
 
-64382
+HAUTE-LOIRE |
 
-|
+43 |
 
-B
+Bassin du Puy |
 
-|
+43172 |
 
-Vic-Bilh
+D |
 
-|
+43 |
 
-64386
+Brivadois |
 
-|
+43177 |
 
-B
+D |
 
-|
+43 |
 
-AUVERGNE
+Cézallier |
 
-|
+43417 |
 
-ALLIER
+D |
 
-|
+43 |
 
-3
+Margeride |
 
-|
+43418 |
 
-Bocage bourbonnais
+D |
 
-|
+43 |
 
-03178
+Massif du Mezenc Meygal |
 
-|
+43423 |
 
-C
+D |
 
-|
+43 |
 
-Montagne bourbonnaise
+Velay Basaltique |
 
-|
+43424 |
 
-03425
+D |
 
-|
+43 |
 
-C
+Monts du Forez |
 
-|
+43425 |
 
-Val d'Allier
+D |
 
-|
+43 |
 
-03426
+Limagne |
 
-|
+43427 |
 
-B
+B |
 
-|
+PUY-DE-DOME |
 
-Combraille bourbonnaise
+63 |
 
-|
+Périphérie des Dômes |
 
-03428
+63165 |
 
-|
+D |
 
-C
+63 |
 
-|
+Dômes |
 
-Sologne bourbonnaise
+63166 |
 
-|
+D |
 
-03429
+63 |
 
-|
+Plaine d'Ambert |
 
-C
+63173 |
 
-|
+D |
 
-CANTAL
+63 |
 
-|
+Livradois |
 
-15
+63174 |
 
-|
+D |
 
-Bassin d'Aurillac
+63 |
 
-|
+Plaine de la Dore |
 
-15163
+63175 |
 
-|
+D |
 
-D
+63 |
 
-|
+Limagne viticole |
 
-Bassin de Massiac
+63176 |
 
-|
+B |
 
-15164
+63 |
 
-|
+Combraille |
 
-D
+63181 |
 
-|
+D |
 
-Planèze de Saint-Flour
+63 |
 
-|
+Cézallier |
 
-15167
+63417 |
 
-|
+D |
 
-D
+63 |
 
-|
+Artense |
 
-Châtaigneraie
+63421 |
 
-|
+D |
 
-15409
+63 |
 
-|
+Monts du Forez |
 
-C
+63425 |
 
-|
+D |
 
-Cézallier
+63 |
 
-|
+Limagne Agricole |
 
-15417
+63426 |
 
-|
+B |
 
-D
+63 |
 
-|
+Plaine de Lembron |
 
-Margeride
+63427 |
 
-|
+B |
 
-15418
+63 |
 
-|
+Combraille Bourbonnaise |
 
-D
+63428 |
 
-|
+C |
 
-Aubrac
+RHONE |
 
-|
+69 |
 
-15419
+Plateau du Lyonnais |
 
-|
+69194 |
 
-D
+C |
 
-|
+69 |
 
-Cantal
+Vallée de la Saône |
 
-|
+69195 |
 
-15420
+B |
 
-|
+69 |
 
-D
+Zone Maraîchère de Lyon |
 
-|
+69196 |
 
-Artense
+B |
 
-|
+69 |
 
-15421
+Zone de grande culture entre Saône et Beaujolais |
 
-|
+69197 |
 
-D
+B |
 
-|
+69 |
 
-Plateau du Sud-Est limousin
+Bas-Dauphiné |
 
-|
+69199 |
 
-15433
+B |
 
-|
+69 |
 
-C
+Zone fruitière et viticole du Lyonnais |
 
-|
+69200 |
 
-HAUTE-LOIRE
+B |
 
-|
+69 |
 
-43
+Beaujolais viticole |
 
-|
+69444 |
 
-Bassin du Puy
+B |
 
-|
+69 |
 
-43172
+Monts du Lyonnais |
 
-|
+69445 |
 
-D
+C |
 
-|
+69 |
 
-Brivadois
+Vallée du Rhône |
 
-|
+69465 |
 
-43177
+B |
 
-|
+SAVOIE |
 
-D
+73 |
 
-|
+Chautagne |
 
-Cézallier
+73213 |
 
-|
+C |
 
-43417
+73 |
 
-|
+Combe de Savoie |
 
-D
+73219 |
 
-|
+C |
 
-Margeride
+73 |
 
-|
+Cluze de Chambéry |
 
-43418
+73220 |
 
-|
+C |
 
-D
+73 |
 
-|
+Maurienne |
 
-Massif du Mezenc-Meygal
+73229 |
 
-|
+D |
 
-43423
+73 |
 
-|
+Beaufortin |
 
-D
+73230 |
 
-|
+D |
 
-Velay basaltique
+73 |
 
-|
+Les Quatre cantons |
 
-43424
+73451 |
 
-|
+C |
 
-D
+73 |
 
-|
+Chartreuse |
 
-Monts du Forez
+73453 |
 
-|
+D |
 
-43425
+73 |
 
-|
+Le Val d'Arly |
 
-D
+73454 |
 
-|
+D |
 
-Limagne de Lembron et Brioude
+73 |
 
-|
+Albanais |
 
-43427
+73455 |
 
-|
+C |
 
-B
+73 |
 
-|
+Bauges |
 
-PUY-DE-DÔME
+73456 |
 
-|
+D |
 
-63
+73 |
 
-|
+Tarentaise |
 
-Périphérie des Dômes
+73458 |
 
-|
+D |
 
-63165
+HAUTE-SAVOIE |
 
-|
+74 |
 
-D
+Bas Genevois |
 
-|
+74208 |
 
-Dômes
+C |
 
-|
+74 |
 
-63166
+La Semine |
 
-|
+74210 |
 
-D
+C |
 
-|
+74 |
 
-Plaine d'Ambert
+Vallée des Usses |
 
-|
+74211 |
 
-63173
+C |
 
-|
+74 |
 
-D
+Région d'Annemasse |
 
-|
+74214 |
 
-Livradois
+C |
 
-|
+74 |
 
-63174
+Région d'Annecy |
 
-|
+74218 |
 
-D
+C |
 
-|
+74 |
 
-Plaine de la Dore
+Cluse d'Arve |
 
-|
+74222 |
 
-63175
+C |
 
-|
+74 |
 
-D
+Giffre |
 
-|
+74223 |
 
-Limagne viticole
+D |
 
-|
+74 |
 
-63176
+Chablais |
 
-|
+74224 |
 
-B
+D |
 
-|
+74 |
 
-Combraille
+Plateau des Dranses |
 
-|
+74225 |
 
-63181
+D |
 
-|
+74 |
 
-D
+Bas Chablais |
 
-|
+74226 |
 
-Cézallier
+C |
 
-|
+74 |
 
-63417
+Pays de Thônes |
 
-|
+74227 |
 
-D
+D |
 
-|
+74 |
 
-Artense
+Plateau des Bornes |
 
-|
+74228 |
 
-63421
+D |
 
-|
+74 |
 
-D
+Sillon-Alpin |
 
-|
+74454 |
 
-Monts du Forez
+D |
 
-|
+74 |
 
-63425
+Albanais |
 
-|
+74455 |
 
-D
+C |
 
-|
+74 |
 
-Limagne agricole
+Bauges |
 
-|
+74456 |
 
-63426
+D |
 
-|
+74 |
 
-B
+Grandes Alpes |
 
-|
+74458 |
 
-Plaine de Lembron
+D |
 
-|
+BOURGOGNE-FRANCHE-COMTE |
 
-63427
+COTE-D'OR |
 
-|
+21 |
 
-B
+Tonnerois |
 
-|
+21010 |
 
-Combraille bourbonnaise
+B |
 
-|
+21 |
 
-63428
+Val de Saône |
 
-|
+21204 |
 
-C
+B |
 
-|
+21 |
 
-BASSE-NORMANDIE
+Plateau Langrois Montagne |
 
-|
+21311 |
 
-CALVADOS
+B |
 
-|
+21 |
 
-14
+Vingeanne |
 
-|
+21312 |
 
-Bessin
+B |
 
-|
+21 |
 
-14085
+La Vallée |
 
-|
+21322 |
 
-A
+B |
 
-|
+21 |
 
-Pays d'Auge
+La Plaine |
 
-|
+21440 |
 
-14353
+B |
 
-|
+21 |
 
-A
+Côte viticole et arrière côte de Bourgogne |
 
-|
+21441 |
 
-Bocage
+B |
 
-|
+21 |
 
-14354
+Auxois |
 
-|
+21442 |
 
-A
+C |
 
-|
+21 |
 
-Plaine de Caen et de Falaise
+Morvan |
 
-|
+21443 |
 
-14355
+C |
 
-|
+DOUBS |
 
-B
+25 |
 
-|
+Zone des plaines et des basses vallées |
 
-MANCHE
+25447 |
 
-|
+C |
 
-50
+25 |
 
-|
+Montagne du Jura |
 
-|
-
-|
-
-A
-
-|
-
-ORNE
-
-|
-
-61
-
-|
-
-Merlerault
-
-|
-
-61088
-
-|
-
-A
-
-|
-
-Perche ornais
-
-|
-
-61351
-
-|
-
-B
-
-|
-
-Pays d'Ouche
-
-|
-
-61352
-
-|
-
-A
-
-|
-
-Pays d'Auge
-
-|
-
-61353
-
-|
-
-A
-
-|
-
-Bocage ornais
-
-|
-
-61354
-
-|
-
-A
-
-|
-
-Plaines d'Alençon et d'Argentan
-
-|
-
-61355
-
-|
-
-B
-
-|
-
-BOURGOGNE
-
-|
-
-CÔTE-D'OR
-
-|
-
-21
-
-|
-
-Tonnerois
-
-|
-
-21010
-
-|
-
-B
-
-|
-
-Val de Saône
-
-|
-
-21204
-
-|
-
-B
-
-|
-
-Plateau langrois montagne
-
-|
-
-21311
-
-|
-
-B
-
-|
-
-Vingeanne
-
-|
-
-21312
-
-|
-
-B
-
-|
-
-La Vallée
-
-|
-
-21322
-
-|
-
-B
-
-|
-
-La Plaine
-
-|
-
-21440
-
-|
-
-B
-
-|
-
-Côte viticole et arrière-côte de Bourgogne
-
-|
-
-21441
-
-|
-
-B
-
-|
-
-Auxois
-
-|
-
-21442
-
-|
-
-C
-
-|
-
-Morvan
-
-|
-
-21443
-
-|
-
-C
-
-|
-
-NIÈVRE
-
-|
-
-58
-
-|
-
-Entre Loire et Allier
-
-|
-
-58180
-
-|
-
-C
-
-|
-
-Bourgogne nivernaise
-
-|
-
-58185
-
-|
-
-B
-
-|
-
-Nivernais central
-
-|
-
-58188
-
-|
-
-C
-
-|
-
-Puisaye
-
-|
-
-58340
-
-|
-
-B
-
-|
-
-Sologne bourbonnaise
-
-|
-
-58429
-
-|
-
-C
-
-|
-
-Morvan
-
-|
-
-58443
-
-|
-
-C
-
-|
-
-SAÔNE-ET-LOIRE
-
-|
-
-71
-
-|
-
-Brionnais
-
-|
-
-71183
-
-|
-
-C
-
-|
-
-Clunysois
-
-|
-
-71184
-
-|
-
-C
-
-|
-
-Charollais
-
-|
-
-71187
-
-|
-
-C
-
-|
-
-Bresse châlonnaise
-
-|
-
-71202
-
-|
-
-B
-
-|
-
-Sologne bourbonnaise
-
-|
-
-71429
-
-|
-
-C
-
-|
-
-Châlonnais
-
-|
-
-71440
-
-|
-
-B
-
-|
-
-Côte châlonnaise
-
-|
-
-71441
-
-|
-
-C
-
-|
-
-Autunois
-
-|
-
-71442
-
-|
-
-C
-
-|
-
-Morvan
-
-|
-
-71443
-
-|
-
-C
-
-|
-
-Mâconnais
-
-|
-
-71444
-
-|
-
-B
-
-|
-
-Bresse louhannaise
-
-|
-
-71446
-
-|
-
-C
-
-|
-
-YONNE
-
-|
-
-89
-
-|
-
-Plateaux de Bourgogne
-
-|
-
-89186
-
-|
-
-B
-
-|
-
-Champagne crayeuse
-
-|
-
-89317
-
-|
-
-B
-
-|
-
-Pays d'Othe
-
-|
-
-89319
-
-|
-
-B
-
-|
-
-Basse Yonne
-
-|
-
-89320
-
-|
-
-B
-
-|
-
-Vallées
-
-|
-
-89322
-
-|
-
-B
-
-|
-
-Gâtinais pauvre
-
-|
-
-89338
-
-|
-
-B
-
-|
-
-Puisaye
-
-|
-
-89340
-
-|
-
-B
-
-|
-
-Terre Plaine
-
-|
-
-89442
-
-|
-
-C
-
-|
-
-Morvan
-
-|
-
-89443
-
-|
-
-C
-
-|
-
-BRETAGNE
-
-|
-
-CÔTES-D'ARMOR
-
-|
-
-22
-
-|
-
-|
-
-|
-
-A
-
-|
-
-FINISTÈRE
-
-|
-
-29
-
-|
-
-|
-
-|
-
-A
-
-|
-
-ILLE-ET-VILAINE
-
-|
-
-35
-
-|
-
-|
-
-|
-
-A
-
-|
-
-MORBIHAN
-
-|
-
-56
-
-|
-
-|
-
-|
-
-A
-
-|
-
-CENTRE
-
-|
-
-CHER
-
-|
-
-18
-
-|
-
-Val de Loire
-
-|
-
-18066
-
-|
-
-B
-
-|
-
-Vallée de Germigny
-
-|
-
-18179
-
-|
-
-C
-
-|
-
-Sologne
-
-|
-
-18343
-
-|
-
-B
-
-|
-
-Champagne berrichonne
-
-|
-
-18434
-
-|
-
-B
-
-|
-
-Boischaut du Sud
-
-|
-
-18436
-
-|
-
-C
-
-|
-
-Marche bas Berry
-
-|
-
-18437
-
-|
-
-C
-
-|
-
-Pays fort et Sancerrois
-
-|
-
-18439
-
-|
-
-B
-
-|
-
-EURE-ET-LOIR
-
-|
-
-28
-
-|
-
-|
-
-|
-
-B
-
-|
-
-INDRE
-
-|
-
-36
-
-|
-
-Champagne berrichonne
-
-|
-
-36434
-
-|
-
-B
-
-|
-
-Boischaut du Nord
-
-|
-
-36435
-
-|
-
-B
-
-|
-
-Boischaut du Sud
-
-|
-
-36436
-
-|
-
-C
-
-|
-
-Brenne, Petite Brenne, Brandes et Brenne
-
-|
-
-36438
-
-|
-
-C
-
-|
-
-INDRE-ET-LOIRE
-
-|
-
-37
-
-|
-
-|
-
-|
-
-B
-
-|
-
-LOIR-ET-CHER
-
-|
-
-41
-
-|
-
-|
-
-|
-
-B
-
-|
-
-LOIRET
-
-|
-
-45
-
-|
-
-|
-
-|
-
-B
-
-|
-
-CHAMPAGNE-ARDENNE
-
-|
-
-ARDENNES
-
-|
-
-8
-
-|
-
-Ardenne
-
-|
-
-08021
-
-|
-
-C
-
-|
-
-Crêtes préardennaises
-
-|
-
-08022
-
-|
-
-C
-
-|
-
-Argonne
-
-|
-
-08315
-
-|
-
-C
-
-|
-
-Champagne crayeuse
-
-|
-
-08317
-
-|
-
-B
-
-|
-
-Thiérache
-
-|
-
-08323
-
-|
-
-A
-
-|
-
-AUBE
-
-|
-
-10
-
-|
-
-|
-
-|
-
-B
-
-|
-
-MARNE
-
-|
-
-51
-
-|
-
-Vallée de la Marne
-
-|
-
-51016
-
-|
-
-B
-
-|
-
-Vignoble
-
-|
-
-51017
-
-|
-
-B
-
-|
-
-Pays rémois
-
-|
-
-51018
-
-|
-
-B
-
-|
-
-Argonne
-
-|
-
-51315
-
-|
-
-C
-
-|
-
-Champagne crayeuse
-
-|
-
-51317
-
-|
-
-B
-
-|
-
-Champagne humide
-
-|
-
-51318
-
-|
-
-B
-
-|
-
-Perthois
-
-|
-
-51321
-
-|
-
-B
-
-|
-
-Brie champenoise
-
-|
-
-51335
-
-|
-
-B
-
-|
-
-Tardenois
-
-|
-
-51336
-
-|
-
-B
-
-|
-
-HAUTE-MARNE
-
-|
-
-52
-
-|
-
-Plateau langrois Apance
-
-|
-
-52008
-
-|
-
-C
-
-|
-
-Plateau langrois Amance
-
-|
-
-52009
-
-|
-
-C
-
-|
-
-Vallage
-
-|
-
-52012
-
-|
-
-B
-
-|
-
-Bassigny
-
-|
-
-52310
-
-|
-
-C
-
-|
-
-Plateau langrois montagne
-
-|
-
-52311
-
-|
-
-B
-
-|
-
-Vingeanne
-
-|
-
-52312
-
-|
-
-C
-
-|
-
-Barrois
-
-|
-
-52314
-
-|
-
-B
-
-|
-
-Champagne humide
-
-|
-
-52318
-
-|
-
-C
-
-|
-
-Perthois
-
-|
-
-52321
-
-|
-
-B
-
-|
-
-Barrois Vallée
-
-|
-
-52322
-
-|
-
-B
-
-|
-
-CORSE
-
-|
-
-CORSE-DU-SUD
-
-|
-
-2A
-
-|
-
-Littoral corse
-
-|
-
-2A258
-
-|
-
-B
-
-|
-
-côteaux corse
-
-|
-
-2A259
-
-|
-
-B
-
-|
-
-Montagne corse
-
-|
-
-2A260
-
-|
-
-D
-
-|
-
-HAUTE-CORSE
-
-|
-
-2B
-
-|
-
-Littoral corse
-
-|
-
-2B258
-
-|
-
-B
-
-|
-
-Coteaux corse
-
-|
-
-2B259
-
-|
-
-B
-
-|
-
-Montagne corse
-
-|
-
-2B260
-
-|
-
-D
-
-|
-
-FRANCHE-COMTÉ
-
-|
-
-DOUBS
-
-|
-
-25
-
-|
-
-Zone des plaines et des basses vallées
-
-|
-
-25447
-
-|
-
-C
-
-|
-
-Montagne du Jura
-
-|
-
-25449
-
-|
-
-D
-
-|
-
-Plateaux moyens du Jura
-
-|
-
-25450
-
-|
-
-D
-
-|
-
-Plateaux supérieurs du Jura
-
-|
-
-25452
-
-|
-
-D
-
-|
-
-JURA
-
-|
-
-39
-
-|
-
-Val d'Amour et forêt de Chaux
-
-|
-
-39203
-
-|
-
-B
-
-|
-
-Finage
-
-|
-
-39206
-
-|
-
-B
-
-|
-
-Vignoble du Jura
-
-|
-
-39207
-
-|
-
-C
-
-|
-
-Combe d'Ain
-
-|
-
-39209
-
-|
-
-C
-
-|
-
-Plateau inférieur du Jura
-
-|
-
-39212
-
-|
-
-C
-
-|
-
-Bresse
-
-|
-
-39446
-
-|
-
-C
-
-|
-
-Plaine doloise
-
-|
-
-39447
-
-|
-
-B
-
-|
-
-Haut Jura
-
-|
-
-39449
-
-|
-
-D
-
-|
-
-Petite Montagne
-
-|
-
-39451
-
-|
-
-D
-
-|
-
-Deuxième plateau
-
-|
-
-39452
-
-|
-
-D
-
-|
-
-HAUTE-SAÔNE
-
-|
-
-70
-
-|
-
-Région sous-vosgienne Haute-Saône
-
-|
-
-70005
-
-|
-
-C
-
-|
-
-Région vosgienne de Haute-Saône
-
-|
-
-70006
-
-|
-
-D
-
-|
-
-Région des plateaux
-
-|
-
-70007
-
-|
-
-C
-
-|
-
-Plaine grayloise
-
-|
-
-70205
-
-|
-
-B
-
-|
-
-Hautes Vosges
-
-|
-
-70307
-
-|
-
-D
-
-|
-
-Voge
-
-|
-
-70309
-
-|
-
-C
-
-|
-
-Plaines et basses vallées du Doubs et de l'Ognon
-
-|
-
-70447
-
-|
-
-C
-
-|
-
-Trouée de Belfort
-
-|
-
-70448
-
-|
-
-C
-
-|
-
-TERRITOIRE DE BELFORT
-
-|
-
-90
-
-|
-
-Sundgau
-
-|
-
-90303
-
-|
-
-C
-
-|
-
-Montagne vosgienne
-
-|
-
-90307
-
-|
-
-D
-
-|
-
-Trouée de Belfort
-
-|
-
-90448
-
-|
-
-C
-
-|
-
-Plateaux moyens du Jura
-
-|
-
-90450
-
-|
-
-C
-
-|
-
-HAUTE-NORMANDIE
-
-|
-
-EURE
-
-|
-
-27
-
-|
-
-Vexin normand
-
-|
-
-27044
-
-|
-
-B
-
-|
-
-Pays de Lyons
-
-|
-
-27050
-
-|
-
-B
-
-|
-
-Marais Vernier
-
-|
-
-27051
-
-|
-
-A
-
-|
-
-Roumois
-
-|
-
-27052
-
-|
-
-B
-
-|
-
-Lieuvin
-
-|
-
-27077
-
-|
-
-A
-
-|
-
-Plateau du Neubourg
-
-|
-
-27078
-
-|
-
-B
-
-|
-
-Plateau d'Evreux - Saint-André
-
-|
-
-27079
-
-|
-
-B
-
-|
-
-Plateau de Madrie
-
-|
-
-27080
-
-|
-
-B
-
-|
-
-Vexin bossu
-
-|
-
-27330
-
-|
-
-B
-
-|
-
-Vallée de la Seine
-
-|
-
-27332
-
-|
-
-B
-
-|
-
-Perche
-
-|
-
-27351
-
-|
-
-B
-
-|
-
-Pays d'Ouche
-
-|
-
-27352
-
-|
-
-B
-
-|
-
-Pays d'Auge
-
-|
-
-27353
-
-|
-
-A
-
-|
-
-SEINE-MARITIME
-
-|
-
-76
-
-|
-
-Pays de Caux
-
-|
-
-76046
-
-|
-
-B
-
-|
-
-Petit Caux
-
-|
-
-76047
-
-|
-
-B
-
-|
-
-Entre Bray et Picardie
-
-|
-
-76048
-
-|
-
-A
-
-|
-
-Entre Caux et Vexin
-
-|
-
-76049
-
-|
-
-B
-
-|
-
-Pays de Bray
-
-|
-
-76331
-
-|
-
-A
-
-|
-
-Vallée de la Seine
-
-|
-
-76332
-
-|
-
-A
-
-|
-
-ÎLE-DE-FRANCE
-
-|
-
-ESSONNE
-
-|
-
-91
-
-|
-
-|
-
-|
-
-B
-
-|
-
-HAUTS-DE-SEINE
-
-|
-
-92
-
-|
-
-|
-
-|
-
-B
-
-|
-
-PARIS
-
-|
-
-75
-
-|
-
-|
-
-|
-
-B
-
-|
-
-SEINE-ET-MARNE
-
-|
-
-77
-
-|
-
-|
-
-|
-
-B
-
-|
-
-SEINE-SAINT-DENIS
-
-|
-
-93
-
-|
-
-|
-
-|
-
-B
-
-|
-
-VAL-D'OISE
-
-|
-
-95
-
-|
-
-|
-
-|
-
-B
-
-|
-
-VAL-DE-MARNE
-
-|
-
-94
-
-|
-
-|
-
-|
-
-B
-
-|
-
-YVELINES
-
-|
-
-78
-
-|
-
-|
-
-|
-
-B
-
-|
-
-LANGUEDOC-ROUSSILLON
-
-|
-
-AUDE
-
-|
-
-11
-
-|
-
-Lauragais
-
-|
-
-11391
-
-|
-
-B
-
-|
-
-Razès
-
-|
-
-11392
-
-|
-
-B
-
-|
-
-Montagne Noire
-
-|
-
-11413
-
-|
-
-D
-
-|
-
-Région viticole
-
-|
-
-11470
-
-|
-
-B
-
-|
-
-Narbonnais
-
-|
-
-11471
-
-|
-
-B
-
-|
-
-Pays de Sault
-
-|
-
-11472
-
-|
-
-D
-
-|
-
-GARD
-
-|
-
-30
-
-|
-
-|
-
-|
-
-B
-
-|
-
-HÉRAULT
-
-|
-
-34
-
-|
-
-Plateaux du Somail et de l'Espinouse
-
-|
-
-34412
-
-|
-
-D
-
-|
-
-Causse du Larzac
-
-|
-
-34414
-
-|
-
-B
-
-|
-
-Soubergues
-
-|
-
-34415
-
-|
-
-B
-
-|
-
-Garrigues
-
-|
-
-34416
-
-|
-
-B
-
-|
-
-Minervois
-
-|
-
-34470
-
-|
-
-B
-
-|
-
-Plaine viticole
-
-|
-
-34471
-
-|
-
-B
-
-|
-
-LOZÈRE
-
-|
-
-48
-
-|
-
-Cévennes
-
-|
-
-48410
-
-|
-
-B
-
-|
-
-Causses
-
-|
-
-48411
-
-|
-
-B
-
-|
-
-Margeride
-
-|
-
-48418
-
-|
-
-D
-
-|
-
-Aubrac
-
-|
-
-48419
-
-|
-
-D
-
-|
-
-PYRÉNÉES-ORIENTALES
-
-|
-
-66
-
-|
-
-Plaine du Roussillon
-
-|
-
-66252
-
-|
-
-B
-
-|
-
-Vallespir et les Albères
-
-|
-
-66253
-
-|
-
-D
-
-|
-
-Cru Banyuls
-
-|
-
-66254
-
-|
+25449 |
 
-B
+D |
 
-|
-
-Conflent
-
-|
-
-66255
-
-|
-
-D
-
-|
-
-Cerdagne
-
-|
-
-66256
-
-|
-
-D
-
-|
-
-Capcir
-
-|
-
-66257
-
-|
-
-D
-
-|
-
-Corbières du Roussillon
-
-|
-
-66470
-
-|
-
-B
-
-|
-
-Fenouillèdes
-
-|
-
-66472
-
-|
-
-B
-
-|
-
-LIMOUSIN
-
-|
-
-CORRÈZE
-
-|
-
-19
-
-|
-
-Causses
-
-|
-
-19394
-
-|
-
-B
-
-|
-
-Périgord blanc
-
-|
-
-19403
-
-|
-
-B
-
-|
-
-Bas pays de Brive
-
-|
-
-19408
-
-|
-
-C
-
-|
-
-Xaintrie, Ségala et Châtaigneraie
-
-|
-
-19409
-
-|
-
-C
-
-|
-
-Cantal
-
-|
-
-19420
-
-|
-
-C
-
-|
-
-Artense
-
-|
-
-19421
-
-|
-
-D
-
-|
-
-Plateau de Millevaches
-
-|
-
-19430
-
-|
-
-D
-
-|
-
-Haut Limousin
-
-|
-
-19432
-
-|
-
-C
-
-|
-
-Plateau du Sud-Est limousin
+25 |
 
-|
-
-19433
-
-|
-
-C
-
-|
-
-CREUSE
-
-|
-
-23
-
-|
-
-Combraille bourbonnaise
-
-|
-
-23428
-
-|
-
-C
-
-|
-
-Plateau de Millevaches
-
-|
-
-23430
-
-|
-
-D
-
-|
-
-Marche
-
-|
-
-23431
-
-|
-
-C
-
-|
-
-Haut Limousin
-
-|
-
-23432
-
-|
-
-C
-
-|
-
-Bas Berry
-
-|
-
-23437
-
-|
-
-C
-
-|
-
-HAUTE-VIENNE
-
-|
-
-87
-
-|
+Plateaux moyens du Jura |
 
-Plateau de Millevaches
+25450 |
 
-|
-
-87430
-
-|
-
-D
-
-|
-
-Marche
-
-|
-
-87431
-
-|
-
-C
-
-|
+D |
 
-Haut Limousin
+25 |
 
-|
+Plateaux supérieurs du Jura |
 
-87432
+25452 |
 
-|
+D |
 
-C
+JURA |
 
-|
+39 |
 
-LORRAINE
+Val d'Amour et forêt de Chaux |
 
-|
+39203 |
 
-MEURTHE-ET-MOSELLE
+B |
 
-|
+39 |
 
-54
+Finage |
 
-|
+39206 |
 
-La Haye
+B |
 
-|
+39 |
 
-54305
+Vignoble du Jura |
 
-|
+39207 |
 
-B
+C |
 
-|
+39 |
 
-Plateau lorrain
+Combe d'Ain |
 
-|
+39209 |
 
-54306
+C |
 
-|
+39 |
 
-C
+Plateau inférieur du Jura |
 
-|
+39212 |
 
-Montagne vosgienne
+C |
 
-|
+39 |
 
-54307
+Bresse |
 
-|
+39446 |
 
-D
+C |
 
-|
+39 |
 
-Pays haut lorrain
+Plaine doloise |
 
-|
+39447 |
 
-54308
+B |
 
-|
+39 |
 
-B
+Hauts Jura |
 
-|
+39449 |
 
-Côtes de Meuse
+D |
 
-|
+39 |
 
-54313
+Petite Montagne |
 
-|
+39451 |
 
-C
+D |
 
-|
+39 |
 
-La Woëvre
+Deuxième plateau |
 
-|
+39452 |
 
-54316
+D |
 
-|
+NIEVRE |
 
-C
+58 |
 
-|
+Entre Loire et Allier |
 
-MEUSE
+58180 |
 
-|
+C |
 
-55
+58 |
 
-|
+Bourgogne nivernaise |
 
-Pays de Montmédy
+58185 |
 
-|
+B |
 
-55308
+58 |
 
-|
+Nivernais central |
 
-C
+58188 |
 
-|
+C |
 
-Barrois
+58 |
 
-|
+Puisaye |
 
-55314
+58340 |
 
-|
+B |
 
-B
+58 |
 
-|
+Sologne bourbonnaise |
 
-Argonne
+58429 |
 
-|
+C |
 
-55315
+58 |
 
-|
+Morvan |
 
-C
+58443 |
 
-|
+C |
 
-La Woëvre
+HAUTE-SAONE |
 
-|
+70 |
 
-55316
+Région sous vosgienne Haute Saône |
 
-|
+70005 |
 
-C
+C |
 
-|
+70 |
 
-MOSELLE
+Région vosgienne de Haute Saône |
 
-|
+70006 |
 
-57
+D |
 
-|
+70 |
 
-Warndt
+Région des plateaux |
 
-|
+70007 |
 
-57003
+C |
 
-|
+70 |
 
-B
+Plaine grayloise |
 
-|
+70205 |
 
-Vallée de la Moselle
+B |
 
-|
+70 |
 
-57004
+Hautes vosges |
 
-|
+70307 |
 
-B
+D |
 
-|
+70 |
 
-Plateau lorrain sud
+Voge |
 
-|
+70309 |
 
-57306
+C |
 
-|
+70 |
 
-B
+Plaines et basses vallées du Doubs et de l'Ognon |
 
-|
+70447 |
 
-Montagne vosgienne
+C |
 
-|
+70 |
 
-57307
+Trouée de Belfort |
 
-|
+70448 |
 
-D
+C |
 
-|
+SAONE-ET-LOIRE |
 
-Pays haut lorrain
+71 |
 
-|
+Brionnais |
 
-57308
+71183 |
 
-|
+C |
 
-B
+71 |
 
-|
+Clunysois |
 
-Plateau lorrain nord
+71184 |
 
-|
+C |
 
-57473
+71 |
 
-|
+Charollais |
 
-C
+71187 |
 
-|
+C |
 
-VOSGES
+71 |
 
-|
+Bresse Châlonnaise |
 
-88
+71202 |
 
-|
+B |
 
-La Haye
+71 |
 
-|
+Sologne Bourbonnaise |
 
-88305
+71429 |
 
-|
+C |
 
-C
+71 |
 
-|
+Châlonnais |
 
-Plateau lorrain
+71440 |
 
-|
+B |
 
-88306
+71 |
 
-|
+Côte châlonnaise |
 
-C
+71441 |
 
-|
+C |
 
-Montagne vosgienne
+71 |
 
-|
+Autunois |
 
-88307
+71442 |
 
-|
+C |
 
-D
+71 |
 
-|
+Morvan |
 
-Voge
+71443 |
 
-|
+C |
 
-88309
+71 |
 
-|
+Mâconnais |
 
-C
+71444 |
 
-|
+B |
 
-Châtenois
+71 |
 
-|
+Bresse Louhannaise |
 
-88310
+71446 |
 
-|
+C |
 
-C
+YONNE |
 
-|
+89 |
 
-Côtes de Meuse
+Plateaux de Bourgogne |
 
-|
+89186 |
 
-88313
+B |
 
-|
+89 |
 
-C
+Champagne crayeuse |
 
-|
+89317 |
 
-Barrois
+B |
 
-|
+89 |
 
-88314
+Pays d'Othe |
 
-|
+89319 |
 
-B
+B |
 
-|
+89 |
 
-MIDI-PYRÉNÉES
+Basse Yonne |
 
-|
+89320 |
 
-ARIÈGE
+B |
 
-|
+89 |
 
-9
+Vallées |
 
-|
+89322 |
 
-Plaine de l'Ariège
+B |
 
-|
+89 |
 
-09390
+Gâtinais pauvre |
 
-|
+89338 |
 
-B
+B |
 
-|
+89 |
 
-Coteaux de l'Ariège
+Puisaye |
 
-|
+89340 |
 
-09392
+B |
 
-|
+89 |
 
-B
+Terre Plaine |
 
-|
+89442 |
 
-Région sous-pyrénéenne Plantaurel
+C |
 
-|
+89 |
 
-09393
+Morvan |
 
-|
+89443 |
 
-B
+C |
 
-|
+TERRITOIRE DE BELFORT |
 
-Région pyrénéenne
+90 |
 
-|
+Sundgau |
 
-09472
+90303 |
 
-|
+C |
 
-D
+90 |
 
-|
+Montagne vosgienne |
 
-AVEYRON
+90307 |
 
-|
+D |
 
-12
+90 |
 
-|
+Trouée de Belfort |
 
-Rougier de Marcillac
+90448 |
 
-|
+C |
 
-12161
+90 |
 
-|
+Plateaux moyens du Jura |
 
-C
+90450 |
 
-|
+C |
 
-Lévézou
+BRETAGNE |
 
-|
+COTES-D'ARMOR |
 
-12162
+22 |
 
 |
-
-D
 
 |
 
-Bas Quercy
+A |
 
-|
+FINISTERE |
 
-12397
+29 |
 
 |
-
-B
 
 |
 
-Viadène et vallée du Lot
+A |
 
-|
+ILLE-ET-VILAINE |
 
-12407
+35 |
 
 |
-
-C
 
 |
 
-Ségala
+A |
 
-|
+MORBIHAN |
 
-12409
+56 |
 
 |
-
-C
 
 |
 
-Grandes Causses
+A |
 
-|
+CENTRE-VAL DE LOIRE |
 
-12411
+CHER |
 
-|
+18 |
 
-B
+Val de Loire |
 
-|
+18066 |
 
-Monts Lacaune
+B |
 
-|
+18 |
 
-12412
+Vallée de Germigny |
 
-|
+18179 |
 
-B
+C |
 
-|
+18 |
 
-Aubrac
+Sologne |
 
-|
+18343 |
 
-12419
+B |
 
-|
+18 |
 
-D
+Champagne berrichonne |
 
-|
+18434 |
 
-HAUTE-GARONNE
+B |
 
-|
+18 |
 
-31
+Boischaut |
 
-|
+18436 |
 
-Coteaux du Gers
+C |
 
-|
+18 |
 
-31385
+Marche |
 
-|
+18437 |
 
-B
+C |
 
-|
+18 |
 
-Coteaux de Gascogne
+Pays fort et Sancerrois |
 
-|
+18439 |
 
-31389
+B |
 
-|
+EURE-ET-LOIR |
 
-B
+28 |
 
 |
 
-Les Vallées
-
 |
 
-31390
+B |
 
-|
+INDRE |
 
-B
+36 |
 
-|
+Champagne berrichonne |
 
-Lauragais
+36434 |
 
-|
+B |
 
-31391
+36 |
 
-|
+Boischaut du Nord |
 
-B
+36435 |
 
-|
+B |
 
-Volvestre
+36 |
 
-|
+Boischaut du Sud |
 
-31392
+36436 |
 
-|
+C |
 
-B
+36 |
 
-|
+Brenne-Petite Brenne |
 
-La rivière Plantaurel
+36438 |
 
-|
+C |
 
-31393
+INDRE-ET-LOIRE |
 
-|
+37 |
 
-C
+|
 
 |
 
-Pyrénées centrales
+B |
 
-|
+LOIR-ET-CHER |
 
-31472
+41 |
 
 |
-
-D
 
 |
 
-GERS
+B |
 
-|
+LOIRET |
 
-32
+45 |
 
 |
 
 |
 
-|
+B |
 
-B
+CORSE |
 
-|
+CORSE-DU-SUD |
 
-LOT
+2A |
 
-|
+Littoral Corse |
 
-46
+2A258 |
 
-|
+B |
 
-Bourianne
+2A |
 
-|
+Côteaux Corse |
 
-46159
+2A259 |
 
-|
+B |
 
-B
+2A |
 
-|
+Montagne Corse |
 
-Vallée de la Dordogne
+2A260 |
 
-|
+D |
 
-46160
+HAUTE-CORSE |
 
-|
+2B |
 
-C
+Littoral Corse |
 
-|
+2B258 |
 
-Causses
+B |
 
-|
+2B |
 
-46394
+Côteaux Corse |
 
-|
+2B259 |
 
-B
+B |
 
-|
+2B |
 
-Quercy blanc
+Montagne Corse |
 
-|
+2B260 |
 
-46396
+D |
 
-|
+GRAND EST |
 
-B
+ARDENNES |
 
-|
+08 |
 
-Vallée du Lot
+Ardenne |
 
-|
+8021 |
 
-46407
+C |
 
-|
+08 |
 
-B
+Crêtes préardennaises |
 
-|
+8022 |
 
-Limargue
+C |
 
-|
+08 |
 
-46408
+Argonne |
 
-|
+8315 |
 
-B
+C |
 
-|
+08 |
 
-Ségala
+Champagne crayeuse |
 
-|
+8317 |
 
-46409
+B |
 
-|
+08 |
 
-C
+Thiérache |
 
-|
+8323 |
 
-HAUTES-PYRÉNÉES
+A |
 
-|
+AUBE |
 
-65
+10 |
 
 |
-
-Montagne de Bigorre
 
 |
 
-65146
+B |
 
-|
+MARNE |
 
-D
+51 |
 
-|
+Vallée de la Marne |
 
-Coteaux de Bigorre
+51016 |
 
-|
+B |
 
-65148
+51 |
 
-|
+Vignoble |
 
-C
+51017 |
 
-|
+B |
 
-Haute vallée de l'Adour
+51 |
 
-|
+Pays Rèmois |
 
-65150
+51018 |
 
-|
+B |
 
-B
+51 |
 
-|
+Argonne |
 
-Coteaux Nord
+51315 |
 
-|
+C |
 
-65381
+51 |
 
-|
+Champagne crayeuse |
 
-B
+51317 |
 
-|
+B |
 
-Astarac
+51 |
 
-|
+Champagne humide |
 
-65383
+51318 |
 
-|
+B |
 
-B
+51 |
 
-|
+Perthois |
 
-Vic-Bilh et Madiran
+51321 |
 
-|
+B |
 
-65386
+51 |
 
-|
+Brie champenoise |
 
-B
+51335 |
 
-|
+B |
 
-Rivière basse
+51 |
 
-|
+Tardenois |
 
-65387
+51336 |
 
-|
+B |
 
-B
+HAUTE-MARNE |
 
-|
+52 |
 
-Coteaux de Gascogne
+Plateau Langrois Apance |
 
-|
+52008 |
 
-65389
+C |
 
-|
+52 |
 
-B
+Plateau Langrois Amance |
 
-|
+52009 |
 
-TARN
+C |
 
-|
+52 |
 
-81
+Vallage |
 
-|
+52012 |
 
-Gaillacois
+B |
 
-|
+52 |
 
-81151
+Bassigny |
 
-|
+52310 |
 
-B
+C |
 
-|
+52 |
 
-Coteaux mollassiques
+Plateau Langrois Montagne |
 
-|
+52311 |
 
-81152
+B |
 
-|
+52 |
 
-B
+Vingeanne |
 
-|
+52312 |
 
-Plaine de l'Albigeois et du Castrais
+C |
 
-|
+52 |
 
-81153
+Barrois |
 
-|
+52314 |
 
-B
+B |
 
-|
+52 |
 
-Lauragais
+Champagne humide |
 
-|
+52318 |
 
-81391
+C |
 
-|
+52 |
 
-B
+Perthois |
 
-|
+52321 |
 
-Causses du Quercy
+B |
 
-|
+52 |
 
-81395
+Barrois Vallée |
 
-|
+52322 |
 
-B
+B |
 
-|
+MEURTHE-ET-MOSELLE |
 
-Ségala
+54 |
 
-|
+La Haye |
 
-81409
+54305 |
 
-|
+B |
 
-C
+54 |
 
-|
+Plateau lorrain sud |
 
-Monts de Lacaune
+54306 |
 
-|
+C |
 
-81412
+54 |
 
-|
+Montagne Vosgienne |
 
-D
+54307 |
 
-|
+D |
 
-Montagne Noire
+54 |
 
-|
+Pays-haut-lorrain |
 
-81413
+54308 |
 
-|
+B |
 
-D
+54 |
 
-|
+Côtes de Meuse |
 
-TARN-ET-GARONNE
+54313 |
 
-|
+C |
 
-82
+54 |
 
-|
+La Woëvre |
 
-|
+54316 |
 
-|
+C |
 
-B
+MEUSE |
 
-|
+55 |
 
-NORD - PAS-DE-CALAIS
+Pays de Montmédy |
 
-|
+55308 |
 
-NORD
+C |
 
-|
+55 |
 
-59
+Barrois |
 
-|
+55314 |
 
-Flandre intérieure
+B |
 
-|
+55 |
 
-59025
+Argonne |
 
-|
+55315 |
 
-B
+C |
 
-|
+55 |
 
-Région de Lille
+La Woëvre |
 
-|
+55316 |
 
-59026
+C |
 
-|
+MOSELLE |
 
-B
+57 |
 
-|
+Warndt |
 
-Pévèle
+57003 |
 
-|
+B |
 
-59027
+57 |
 
-|
+Vallée de la Moselle |
 
-B
+57004 |
 
-|
+B |
 
-Plaine de la Scarpe
+57 |
 
-|
+Plateau lorrain sud |
 
-59028
+57306 |
 
-|
+B |
 
-B
+57 |
 
-|
+Montagne Vosgienne |
 
-Hainaut
+57307 |
 
-|
+D |
 
-59033
+57 |
 
-|
+Pays-Haut lorrain |
 
-A
+57308 |
 
-|
+B |
 
-Thiérache
+57 |
 
-|
+Plateau lorrain nord |
 
-59323
+57473 |
 
-|
+C |
 
-A
+BAS-RHIN |
 
-|
+67 |
 
-Plaine de la Lys
+Plaine du Rhin |
 
-|
+67301 |
 
-59324
+B |
 
-|
+67 |
 
-B
+Ried |
 
-|
+67302 |
 
-Flandre maritime
+B |
 
-|
+67 |
 
-59325
+Région sous vosgienne |
 
-|
+67304 |
 
-B
+B |
 
-|
+67 |
 
-Cambrésis
+Montagne vosgienne |
 
-|
+67307 |
 
-59326
+D |
 
-|
+67 |
 
-B
+Plateau lorrain nord |
 
-|
+67473 |
 
-PAS-DE-CALAIS
+C |
 
-|
+HAUT-RHIN |
 
-62
+68 |
 
-|
+Hardt |
 
-Pays d'Aire
+68001 |
 
-|
+B |
 
-62023
+68 |
 
-|
+Ochsenfeld |
 
-B
+68002 |
 
-|
+B |
 
-Collines guinoises
+68 |
 
-|
+Plaine du Rhin |
 
-62024
+68301 |
 
-|
+B |
 
-B
+68 |
 
-|
+Ried |
 
-Boulonnais
+68302 |
 
-|
+B |
 
-62029
+68 |
 
-|
+Sundgau |
 
-A
+68303 |
 
-|
+B |
 
-Haut pays d'Artois
+68 |
 
-|
+Collines sous vosgiennes |
 
-62030
+68304 |
 
-|
+B |
 
-B
+68 |
 
-|
+Montagne sous vosgienne |
 
-Béthunois
+68307 |
 
-|
+D |
 
-62031
+68 |
 
-|
+Jura |
 
-B
+68450 |
 
-|
+C |
 
-Ternois
+VOSGES |
 
-|
+88 |
 
-62032
+La Haye |
 
-|
+88305 |
 
-B
+C |
 
-|
+88 |
 
-Pays de Montreuil
+Plateau lorrain sud |
 
-|
+88306 |
 
-62039
+C |
 
-|
+88 |
 
-B
+Montagne Vosgienne |
 
-|
+88307 |
 
-Bas-champs picards
+D |
 
-|
+88 |
 
-62040
+Voge |
 
-|
+88309 |
 
-B
+C |
 
-|
+88 |
 
-Plaine de la Lys
+Chatenois |
 
-|
+88310 |
 
-62324
+C |
 
-|
+88 |
 
-B
+Côtes de Meuse |
 
-|
+88313 |
 
-Wateringues
+C |
 
-|
+88 |
 
-62325
+Barrois |
 
-|
+88314 |
 
-B
+B |
 
-|
+HAUTS-DE-FRANCE |
 
-Artois
+AISNE |
 
-|
+02 |
 
-62326
+Saint Quentinois et Laonnois |
 
-|
+2034 |
 
-B
+B |
 
-|
+02 |
 
-PAYS DE LA LOIRE
+Champagne crayeuse |
 
-|
+2317 |
 
-LOIRE-ATLANTIQUE
+B |
 
-|
+02 |
 
-44
+Thiérache |
 
-|
+2323 |
 
-|
+A |
 
-|
+02 |
 
-A
+Soissonnais |
 
-|
+2328 |
 
-MAINE-ET-LOIRE
+B |
 
-|
+02 |
 
-49
+Valois |
 
-|
+2329 |
 
-Vallée de la Loire
+B |
 
-|
+02 |
 
-49344
+Tardenois et Brie |
 
-|
+2336 |
 
-B
+B |
 
-|
+NORD |
 
-Beaugeois
+59 |
 
-|
+Flandre intérieure |
 
-49345
+59025 |
 
-|
+B |
 
-B
+59 |
 
-|
+Région de Lille |
 
-Saumurois
+59026 |
 
-|
+B |
 
-49347
+59 |
 
-|
+Pévèle |
 
-B
+59027 |
 
-|
+B |
+
+59 |
+
+Plaine de la Scarpe |
+
+59028 |
 
-Bocage angevin
+B |
 
-|
+59 |
 
-49356
+Hainaut |
 
-|
+59033 |
 
-A
+A |
 
-|
+59 |
 
-Choletais
+Thiérache |
 
-|
+59323 |
 
-49373
+A |
 
-|
+59 |
 
-A
+Plaine de la Lys |
 
-|
+59324 |
 
-MAYENNE
+B |
 
-|
+59 |
 
-53
+Flandre maritime |
 
-|
+59325 |
 
-|
+B |
 
-|
+59 |
 
-A
+Cambrésis |
 
-|
+59326 |
 
-SARTHE
+B |
 
-|
+OISE |
 
-72
+60 |
 
-|
+Pays de Thelle |
 
-Vallée de la Sarthe et région mancelle
+60041 |
 
-|
+B |
 
-72089
+60 |
 
-|
+Clermontois |
 
-B
+60042 |
 
-|
+B |
 
-Bélinois
+60 |
 
-|
+Noyonnais |
 
-72090
+60043 |
 
-|
+B |
 
-B
+60 |
 
-|
+Plateau Picard |
 
-Plateau calaisien
+60327 |
 
-|
+B |
 
-72091
+60 |
 
-|
+Soissonnais |
 
-B
+60328 |
 
-|
+B |
 
-Champagne mancelle
+60 |
 
-|
+Valois et Multien |
 
-72092
+60329 |
 
-|
+B |
 
-B
+60 |
 
-|
+Vexin français |
 
-Bocage sabolien
+60330 |
 
-|
+B |
 
-72093
+60 |
 
-|
+Pays de Bray |
 
-A
+60331 |
 
-|
+A |
 
-Saosnois
+PAS-DE-CALAIS |
 
-|
+62 |
 
-72094
+Pays d'Aire |
 
-|
+62023 |
 
-B
+B |
 
-|
+62 |
 
-Beaugeois
+Collines guinoises |
 
-|
+62024 |
 
-72345
+B |
 
-|
+62 |
 
-B
+Boulonnais |
 
-|
+62029 |
 
-Vallée du Loir
+A |
 
-|
+62 |
 
-72350
+Haut-Pays d'Artois |
 
-|
+62030 |
 
-B
+B |
 
-|
+62 |
 
-Perche
+Béthunois |
 
-|
+62031 |
 
-72351
+B |
 
-|
+62 |
 
-B
+Ternois |
 
-|
+62032 |
 
-Bocage des Alpes mancelles
+B |
 
-|
+62 |
 
-72354
+Pays de Montreuil |
 
-|
+62039 |
 
-A
+B |
 
-|
+62 |
 
-Plaine d'Alençon
+Bas-champs picards |
 
-|
+62040 |
 
-72355
+B |
 
-|
+62 |
 
-B
+Plaine de la Lys |
 
-|
+62324 |
 
-VENDÉE
+B |
 
-|
+62 |
 
-85
+Wateringues |
 
-|
+62325 |
 
-Bocage de Chantonnay
+B |
 
-|
+62 |
 
-85110
+Artois |
 
-|
+62326 |
 
-A
+B |
 
-|
+SOMME |
 
-Marais breton
+80 |
 
 |
-
-85365
 
 |
 
-A
+B |
 
-|
+ILE-DE-FRANCE |
 
-Entre plaine et bocage
+PARIS |
 
-|
+75 |
 
-85366
+|
 
 |
 
-B
+B |
 
-|
+SEINE-ET-MARNE |
 
-Bas bocage
+77 |
 
 |
 
-85368
-
 |
 
-A
+B |
 
-|
+YVELINES |
 
-Marais poitevin desséché
+78 |
 
 |
 
-85369
-
 |
 
-B
+B |
 
-|
+ESSONNE |
 
-Marais poitevin mouillé
+91 |
 
 |
 
-85370
-
 |
 
-B
+B |
 
-|
+HAUTS-DE-SEINE |
 
-Plaine vendéenne
+92 |
 
 |
 
-85371
-
 |
 
-B
+B |
 
-|
+SEINE-SAINT-DENIS |
 
-Haut bocage
+93 |
 
 |
 
-85373
-
 |
 
-A
+B |
 
-|
+VAL-DE-MARNE |
 
-PICARDIE
+94 |
 
 |
 
-AISNE
-
 |
 
-2
+B |
 
-|
+VAL-D'OISE |
 
-Saint-Quentinois et Laonnois
+95 |
 
 |
 
-02034
-
 |
 
-B
+B |
 
-|
+NORMANDIE |
 
-Champagne crayeuse
+CALVADOS |
 
-|
+14 |
 
-02317
+Bessin |
 
-|
+14085 |
 
-B
+A |
 
-|
+14 |
 
-Thiérache
+Pays d'Auge |
 
-|
+14353 |
 
-02323
+A |
 
-|
+14 |
 
-A
+Bocage |
 
-|
+14354 |
 
-Soissonnais
+A |
 
-|
+14 |
 
-02328
+Plaine de Caen et de Falaise |
 
-|
+14355 |
 
-B
+B |
 
-|
+EURE |
 
-Valois
+27 |
 
-|
+Vexin Normand |
 
-02329
+27044 |
 
-|
+B |
 
-B
+27 |
 
-|
+Pays de Lyons |
 
-Tardenois et Brie
+27050 |
 
-|
+B |
 
-02336
+27 |
 
-|
+Marais Vernier |
 
-B
+27051 |
 
-|
+A |
 
-OISE
+27 |
 
-|
+Roumois |
 
-60
+27052 |
 
-|
+B |
 
-Pays de Thelle
+27 |
 
-|
+Lieuvin |
 
-60041
+27077 |
 
-|
+A |
 
-B
+27 |
 
-|
+Plateau du Neubourg |
 
-Clermontois
+27078 |
 
-|
+B |
 
-60042
+27 |
 
-|
+Plateau d'Evreux Saint André |
 
-B
+27079 |
 
-|
+B |
 
-Noyonnais
+27 |
 
-|
+Plateau de Madrie |
 
-60043
+27080 |
 
-|
+B |
 
-B
+27 |
 
-|
+Vexin bossu |
 
-Plateau picard
+27330 |
 
-|
+B |
 
-60327
+27 |
 
-|
+Vallée de la Seine |
 
-B
+27332 |
 
-|
+B |
 
-Soissonnais
+27 |
 
-|
+Perche |
 
-60328
+27351 |
 
-|
+B |
 
-B
+27 |
 
-|
+Pays d'Ouche |
 
-Valois et Multien
+27352 |
 
-|
+B |
 
-60329
+27 |
 
-|
+Pays d'Auge |
 
-B
+27353 |
 
-|
+A |
 
-Vexin français
+MANCHE |
 
-|
+50 |
 
-60330
+|
 
 |
 
-B
+A |
 
-|
+ORNE |
 
-Pays de Bray
+61 |
 
-|
+Merlerault |
 
-60331
+61088 |
 
-|
+A |
 
-A
+61 |
 
-|
+Perche Ornais |
 
-SOMME
+61351 |
 
-|
+B |
 
-80
+61 |
 
-|
+Pays d'Ouche |
 
-|
+61352 |
 
-|
+A |
 
-B
+61 |
 
-|
+Pays d'Auge |
 
-POITOU-CHARENTES
+61353 |
 
-|
+A |
 
-CHARENTE
+61 |
 
-|
+Bocage ornais |
 
-16
+61354 |
 
-|
+A |
 
-Montmorélien
+61 |
 
-|
+Plaines d'Alençon et d'Argentan |
 
-16112
+61355 |
 
-|
+B |
 
-B
+SEINE-MARITIME |
 
-|
+76 |
 
-Angoûmois-Ruffecois
+Pays de Caux |
 
-|
+76046 |
 
-16113
+B |
 
-|
+76 |
 
-B
+Petit Caux |
 
-|
+76047 |
 
-Plaine de la Mothe Lezay
+B |
 
-|
+76 |
 
-16367
+Entre Bray et Picardie |
 
-|
+76048 |
 
-B
+A |
 
-|
+76 |
 
-Plaine de Niort-Brioux
+Entre Caux et Vexin |
 
-|
+76049 |
 
-16371
+B |
 
-|
+76 |
 
-B
+Pays de Bray |
 
-|
+76331 |
 
-Terres rouges à châtaigniers
+A |
 
-|
+76 |
 
-16372
+Vallée de la Seine |
 
-|
+76332 |
 
-B
+A |
 
-|
+NOUVELLE-AQUITAINE |
 
-Saintonge agricole
+CHARENTE |
 
-|
+16 |
 
-16375
+Montmorélien |
 
-|
+16112 |
 
-B
+B |
 
-|
+16 |
 
-Cognaçais
+Angoûmois-Ruffecois |
 
-|
+16113 |
 
-16377
+B |
 
-|
+16 |
 
-B
+Plaine de la Mothe Lezay |
 
-|
+16367 |
 
-Confolentais
+B |
 
-|
+16 |
 
-16432
+Plaine de Niort-Brioux |
 
-|
+16371 |
 
-C
+B |
 
-|
+16 |
 
-Brandes
+Terres rouges à Chataigniers |
 
-|
+16372 |
 
-16438
+B |
 
-|
+16 |
 
-C
+Saintonge agricole |
 
-|
+16375 |
 
-CHARENTE-MARITIME
+B |
 
-|
+16 |
 
-17
+Cognaçais |
 
-|
+16377 |
 
-|
+B |
 
-|
+16 |
 
-B
+Confolentais |
 
-|
+16432 |
 
-DEUX-SÈVRES
+C |
 
-|
+16 |
 
-79
+Brandes |
 
-|
+16438 |
 
-Plateau mellois
+C |
 
-|
+CHARENTE-MARITIME |
 
-79109
+17 |
 
 |
 
-B
-
 |
 
-Plaine de Thouars
+B |
 
-|
+CORREZE |
 
-79349
+19 |
 
-|
+Causses |
 
-B
+19394 |
 
-|
+B |
 
-Entre plaine et Gâtine
+19 |
 
-|
+Périgord blanc |
 
-79366
+19403 |
 
-|
+B |
 
-A
+19 |
 
-|
+Bas Pays de Brive |
 
-Plaine de la Mothe Lezay
+19408 |
 
-|
+C |
 
-79367
+19 |
 
-|
+Xaintrie |
 
-B
+19409 |
 
-|
+C |
 
-Gâtine
+19 |
 
-|
+Cantal |
 
-79368
+19420 |
 
-|
+C |
 
-A
+19 |
 
-|
+Artense |
 
-Marais poitevin mouillé
+19421 |
 
-|
+D |
 
-79370
+19 |
 
-|
+Plateau de Millevaches |
 
-B
+19430 |
 
-|
+D |
 
-Plaine de Niort-Brioux
+19 |
 
-|
+Haut Limousin |
 
-79371
+19432 |
 
-|
+C |
 
-B
+19 |
 
-|
+Plateau du Sud-Est Limousin |
 
-Bocage
+19433 |
 
-|
+C |
 
-79373
+CREUSE |
 
-|
+23 |
 
-A
+Combraille bourbonnaise |
 
-|
+23428 |
 
-VIENNE
+C |
 
-|
+23 |
 
-86
+Plateau de Millevaches |
 
-|
+23430 |
 
-Confins granitiques du Limousin
+D |
 
-|
+23 |
 
-86182
+Marche |
 
-|
+23431 |
 
-C
+C |
 
-|
+23 |
 
-Saumurois
+Haut-Limousin |
 
-|
+23432 |
 
-86347
+C |
 
-|
+23 |
 
-B
+Bas Berry |
 
-|
+23437 |
 
-Plaine de Loudun-Richelieu et Châtellerault
+C |
 
-|
+DORDOGNE |
 
-86348
+24 |
 
-|
+Ribéracois |
 
-B
+24158 |
 
-|
+B |
 
-Plaine de Thouars-Moncontour
+24 |
 
-|
+Causses |
 
-86349
+24394 |
 
-|
+B |
 
-B
+24 |
 
-|
+Bergeracois |
 
-Gâtine
+24401 |
 
-|
+B |
 
-86368
+24 |
 
-|
+Périgord Blanc |
 
-B
+24403 |
 
-|
+B |
 
-Terres rouges à châtaigniers
+24 |
 
-|
+Périgord Noir |
 
-86372
+24404 |
 
-|
+B |
 
-B
+24 |
 
-|
+Double périgourdine |
 
-Région des Brandes
+24405 |
 
-|
+B |
 
-86438
+24 |
 
-|
+Landais |
 
-B
+24406 |
 
-|
+B |
 
-PROVENCE-ALPES-CÔTE D'AZUR
+24 |
 
-|
+Nontronnais |
 
-ALPES-DE-HAUTE-PROVENCE
+24432 |
 
-|
+C |
 
-4
+GIRONDE |
 
-|
+33 |
 
-Plateau de Valensole
+|
 
 |
 
-04233
+B |
 
-|
+LANDES |
 
-B
+40 |
 
 |
 
-Sisteronnais
-
 |
 
-04459
+B |
 
-|
+LOT-ET-GARONNE |
 
-B
+47 |
 
 |
 
-Montagne de Haute Provence
-
 |
 
-04460
+B |
 
-|
+PYRENEES-ATLANTIQUES |
 
-D
+64 |
 
-|
+Côte Basque |
 
-Plateau de Forcalquier
+64138 |
 
-|
+C |
 
-04462
+64 |
 
-|
+Coteaux du Pays basque |
 
-B
+64139 |
 
-|
+C |
 
-Val de Durance
+64 |
 
-|
+Montagne basque |
 
-04466
+64140 |
 
-|
+D |
 
-B
+64 |
 
-|
+Coteaux entre les Gaves |
 
-HAUTES-ALPES
+64141 |
 
-|
+C |
 
-5
+64 |
 
-|
+Montagnes du Béarn |
 
-Queyras
+64142 |
 
-|
+D |
 
-05231
+64 |
 
-|
+Vallée de l'Adour |
 
-D
+64143 |
 
-|
+C |
 
-Haut Embrunnais
+64 |
 
-|
+Vallée du gave d'Oloron |
 
-05232
+64379 |
 
-|
+C |
 
-D
+64 |
 
-|
+Vallée du gave de Pau |
 
-Champsaur
+64380 |
 
-|
+B |
 
-05235
+64 |
 
-|
+Coteaux du Béarn |
 
-D
+64381 |
 
-|
+B |
 
-Dévoluy
+64 |
 
-|
+Chalosse |
 
-05236
+64382 |
 
-|
+B |
 
-D
+64 |
 
-|
+Vic-Bilh |
 
-Embrunnais
+64386 |
 
-|
+B |
 
-05237
+DEUX-SEVRES |
 
-|
+79 |
 
-D
+Plateau mellois |
 
-|
+79109 |
 
-Gapençais
+B |
 
-|
+79 |
 
-05239
+Plaine de Thouars |
 
-|
+79349 |
 
-D
+B |
 
-|
+79 |
 
-Briançonnais
+Entre plaine et Gâtine |
 
-|
+79366 |
 
-05457
+A |
 
-|
+79 |
 
-D
+Plaine de la Mothe Lezay |
 
-|
+79367 |
 
-Laragnais
+B |
 
-|
+79 |
 
-05459
+Gâtine |
 
-|
+79368 |
 
-B
+A |
 
-|
+79 |
 
-Bochaine
+Marais poitevin mouillé |
 
-|
+79370 |
 
-05461
+B |
 
-|
+79 |
 
-B
+Plaine de Niort-Brioux |
 
-|
+79371 |
 
-Serrois-Rosannais
+B |
 
-|
+79 |
 
-05463
+Bocage |
 
-|
+79373 |
 
-B
+A |
 
-|
+VIENNE |
 
-ALPES-MARITIMES
+86 |
 
-|
+Confins granitiques du Limousin |
 
-6
+86182 |
 
-|
+C |
 
-Coteaux niçois
+86 |
 
-|
+Saumurois |
 
-06245
+86347 |
 
-|
+B |
 
-B
+86 |
 
-|
+Plaine de Loudun Richelieu et Chatellerault |
 
-Littoral niçois
+86348 |
 
-|
+B |
 
-06249
+86 |
 
-|
+Plaine de Thouars-Moncontour |
 
-B
+86349 |
 
-|
+B |
 
-Alpes niçoises
+86 |
 
-|
+Gâtine |
 
-06250
+86368 |
 
-|
+B |
 
-D
+86 |
 
-|
+Terres rouges à Chataigniers |
 
-BOUCHES-DU-RHÔNE
+86372 |
 
-|
+B |
 
-13
+86 |
 
-|
+Région des Brandes |
 
-|
+86438 |
 
-|
+B |
 
-B
+HAUTE-VIENNE |
 
-|
+87 |
 
-VAR
+Plateau de Millevaches |
 
-|
+87430 |
 
-83
+D |
 
-|
+87 |
 
-|
+Marche |
 
-|
+87431 |
 
-B
+C |
 
-|
+87 |
 
-VAUCLUSE
+Haut-Limousin |
 
-|
+87432 |
 
-84
+C |
 
-|
+OCCITANIE |
 
-|
+ARIEGE |
 
-|
+09 |
 
-B
+Plaine de l'Ariège |
 
-|
+9390 |
 
-RHÔNE-ALPES
+B |
 
-|
+09 |
 
-AIN
+Coteaux de l'Ariège |
 
-|
+9392 |
 
-1
+B |
 
-|
+09 |
 
-Vallée de la Saône
+Région sous-pyrénéenne Plantaurel |
 
-|
+9393 |
 
-01195
+B |
 
-|
+09 |
 
-B
+Région Pyrénéenne |
 
-|
+9472 |
 
-Dombes
+D |
 
-|
+AUDE |
 
-01198
+11 |
 
-|
+Lauragais |
 
-B
+11391 |
 
-|
+B |
 
-Côteaux en bordure des Dombes
+11 |
 
-|
+Razès |
 
-01201
+11392 |
 
-|
+B |
 
-B
+11 |
 
-|
+Montagne Noire |
 
-Zone forestière du pays de Gex
+11413 |
 
-|
+D |
 
-01215
+11 |
 
-|
+Région viticole |
 
-C
+11470 |
 
-|
+B |
 
-Zone d'élevage du pays de Gex
+11 |
 
-|
+Narbonnais |
 
-01216
+11471 |
 
-|
+B |
 
-C
+11 |
 
-|
+Pays de Sault |
 
-Bresse
+11472 |
 
-|
+D |
 
-01446
+AVEYRON |
 
-|
+12 |
 
-C
+Rougier de Marcillac |
 
-|
+12161 |
 
-Haut-Bugey
+C |
 
-|
+12 |
 
-01449
+Lévezou |
 
-|
+12162 |
 
-D
+D |
 
-|
+12 |
 
-Bugey
+Bas-Quercy |
 
-|
+12397 |
 
-01451
+B |
 
-|
+12 |
 
-D
+Viadène et Vallée du Lot |
 
-|
+12407 |
 
-ARDÈCHE
+C |
 
-|
+12 |
 
-7
+Ségala |
 
-|
+12409 |
 
-Coiron
+C |
 
-|
+12 |
 
-07169
+Grandes Causses |
 
-|
+12411 |
 
-D
+B |
 
-|
+12 |
 
-Plateaux du Haut et du Moyen Vivarais
+Monts Lacaune |
 
-|
+12412 |
 
-07171
+B |
 
-|
+12 |
 
-D
+Aubrac |
 
-|
+12419 |
 
-Bas Vivarais
+D |
 
-|
+GARD |
 
-07422
+30 |
 
 |
 
-B
-
 |
 
-Massif du Mézenc-Meygal
+B |
 
-|
+HAUTE-GARONNE |
 
-07423
+31 |
 
-|
+Côteaux du Gers |
 
-D
+31385 |
 
-|
+B |
 
-Velay basaltique
+31 |
 
-|
+Coteaux de Gascogne |
 
-07424
+31389 |
 
-|
+B |
 
-D
+31 |
 
-|
+Les Vallées |
 
-Monts du Forez
+31390 |
 
-|
+B |
 
-07425
+31 |
 
-|
+Lauragais |
 
-D
+31391 |
 
-|
+B |
 
-Vallée du Rhône
+31 |
 
-|
+Volvestre |
 
-07465
+31392 |
 
-|
+B |
 
-B
+31 |
 
-|
+La Rivière Plantaurel |
 
-DRÔME
+31393 |
 
-|
+C |
 
-26
+31 |
 
-|
+Pyrénées centrales |
 
-Région de Royans
+31472 |
 
-|
+D |
 
-26221
+GERS |
 
-|
+32 |
 
-B
+|
 
 |
 
-Diois
+B |
 
-|
+HERAULT |
 
-26234
+34 |
 
-|
+Plateaux du Somail et de l'Espinouse |
 
-B
+34412 |
 
-|
+D |
 
-Plaines rhodaniennes
+34 |
 
-|
+Causses du Larzac |
 
-26240
+34414 |
 
-|
+B |
 
-B
+34 |
 
-|
+Soubergues |
 
-Valloire
+34415 |
 
-|
+B |
 
-26241
+34 |
 
-|
+Garrigues |
 
-B
+34416 |
 
-|
+B |
 
-Galaure et Herbasse
+34 |
 
-|
+Minervois |
 
-26242
+34470 |
 
-|
+B |
 
-B
+34 |
 
-|
+Plaine Viticole |
 
-Pays de Bourdeaux
+34471 |
 
-|
+B |
 
-26243
+LOT |
 
-|
+46 |
 
-B
+Bourianne |
 
-|
+46159 |
 
-Vercors
+B |
 
-|
+46 |
 
-26453
+Vallée de la Dordogne |
 
-|
+46160 |
 
-D
+C |
 
-|
+46 |
 
-Bochaine
+Causses |
 
-|
+46394 |
 
-26461
+B |
 
-|
+46 |
 
-D
+Quercy blanc |
 
-|
+46396 |
 
-Baronnies
+B |
 
-|
+46 |
 
-26463
+Vallée du Lot |
 
-|
+46407 |
 
-B
+B |
 
-|
+46 |
 
-Tricastin
+Limargue |
 
-|
+46408 |
 
-26464
+B |
 
-|
+46 |
 
-B
+Ségala |
 
-|
+46409 |
 
-ISÈRE
+C |
 
-|
+LOZERE |
 
-38
+48 |
 
-|
+Cévennes |
 
-Bas Dauphiné
+48410 |
 
-|
+B |
 
-38199
+48 |
 
-|
+Causses |
 
-B
+48411 |
 
-|
+B |
 
-Vallée du Grésivaudan
+48 |
 
-|
+Margeride |
 
-38217
+48418 |
 
-|
+D |
 
-B
+48 |
 
-|
+Aubrac |
 
-Préalpes
+48419 |
 
-|
+D |
 
-38453
+HAUTES-PYRENEES |
 
-|
+65 |
 
-D
+Montagne de Bigorre |
 
-|
+65146 |
 
-Région haute alpine
+D |
 
-|
+65 |
 
-38457
+Coteaux de Bigorre |
 
-|
+65148 |
 
-D
+C |
 
-|
+65 |
 
-Vallée du Rhône
+Haute vallée de l'Adour |
 
-|
+65150 |
 
-38465
+B |
 
-|
+65 |
 
-B
+Côteaux Nord |
 
-|
+65381 |
 
-LOIRE
+B |
 
-|
+65 |
 
-42
+Astarac |
 
-|
+65383 |
 
-Mont du Jarez et bassin houiller
+B |
 
-|
+65 |
 
-42168
+Vic-Bilh et Madiran |
 
-|
+65386 |
 
-C
+B |
 
-|
+65 |
 
-Monts du Pilat
+Rivière basse |
 
-|
+65387 |
 
-42170
+B |
 
-|
+65 |
 
-D
+Côteaux de Gascogne |
 
-|
+65389 |
 
-Plateau de Neulisse
+B |
 
-|
+PYRENEES-ORIENTALES |
 
-42189
+66 |
 
-|
+Plaine du Roussillon |
 
-C
+66252 |
 
-|
+B |
 
-Plaine roannaise
+66 |
 
-|
+Vallespir et les Albères |
 
-42190
+66253 |
 
-|
+D |
 
-C
+66 |
 
-|
+Cru Banyuls |
 
-Côte roannaise
+66254 |
 
-|
+B |
 
-42191
+66 |
 
-|
+Conflent |
 
-C
+66255 |
 
-|
+D |
 
-Monts de la Madeleine
+66 |
 
-|
+Cerdagne |
 
-42192
+66256 |
 
-|
+D |
 
-D
+66 |
 
-|
+Capcir |
 
-Plaine du Forez
+66257 |
 
-|
+D |
 
-42193
+66 |
 
-|
+Corbières du Roussillon |
 
-C
+66470 |
 
-|
+B |
 
-Monts du Forez
+66 |
 
-|
+Fenouillède |
 
-42425
+66472 |
 
-|
+B |
 
-D
+TARN |
 
-|
+81 |
 
-Monts du Lyonnais
+Gaillacois |
 
-|
+81151 |
 
-42445
+B |
 
-|
+81 |
 
-C
+Coteaux mollassiques |
 
-|
+81152 |
 
-Vallée du Rhône
+B |
 
-|
+81 |
 
-42465
+Plaine de l'albigeois et du Castrais |
 
-|
+81153 |
 
-B
+B |
 
-|
+81 |
 
-RHÔNE
+Lauragais |
 
-|
+81391 |
 
-69
+B |
 
-|
+81 |
 
-Plateau du Lyonnais
+Causses du Quercy |
 
-|
+81395 |
 
-69194
+B |
 
-|
+81 |
 
-C
+Ségala |
 
-|
+81409 |
 
-Vallée de la Saône
+C |
 
-|
+81 |
 
-69195
+Monts de Lacaune |
 
-|
+81412 |
 
-B
+D |
 
-|
+81 |
 
-Zone maraîchère de Lyon
+Montagne noire |
 
-|
+81413 |
 
-69196
+D |
 
-|
+TARN-ET-GARONNE |
 
-B
+82 |
 
 |
 
-Zone de grande culture entre Saône et Beaujolais
-
 |
 
-69197
+B |
 
-|
+PAYS DE LA LOIRE |
 
-B
+LOIRE-ATLANTIQUE |
 
-|
+44 |
 
-Bas Dauphiné
+|
 
 |
 
-69199
+A |
 
-|
+MAINE-ET-LOIRE |
 
-B
+49 |
 
-|
+Vallée de la Loire |
 
-Zone fruitière et viticole du Lyonnais
+49344 |
 
-|
+B |
 
-69200
+49 |
 
-|
+Beaugeois |
 
-B
+49345 |
 
-|
+B |
 
-Beaujolais viticole
+49 |
 
-|
+Saumurois |
 
-69444
+49347 |
 
-|
+B |
 
-B
+49 |
 
-|
+Bocage angevin |
 
-Monts du Lyonnais
+49356 |
 
-|
+A |
 
-69445
+49 |
 
-|
+Choletais |
 
-C
+49373 |
 
-|
+A |
 
-Vallée du Rhône
+MAYENNE |
 
-|
+53 |
 
-69465
+|
 
 |
 
-B
+A |
 
-|
+SARTHE |
 
-SAVOIE
+72 |
 
-|
+Vallée de la Sarthe et région mancelle |
 
-73
+72089 |
 
-|
+B |
 
-Chautagne
+72 |
 
-|
+Bélinois |
 
-73213
+72090 |
 
-|
+B |
 
-C
+72 |
 
-|
+Plateau calaisien |
 
-Combe de Savoie
+72091 |
 
-|
+B |
 
-73219
+72 |
 
-|
+Champagne mancelle |
 
-C
+72092 |
 
-|
+B |
 
-Cluze de Chambéry
+72 |
 
-|
+Bocage sabolien |
 
-73220
+72093 |
 
-|
+A |
 
-C
+72 |
 
-|
+Saosnois |
 
-Maurienne
+72094 |
 
-|
+B |
 
-73229
+72 |
 
-|
+Beaugeois |
 
-D
+72345 |
 
-|
+B |
 
-Beaufortin
+72 |
 
-|
+Vallée du Loir |
 
-73230
+72350 |
 
-|
+B |
 
-D
+72 |
 
-|
+Perche |
 
-Les Quatre Cantons
+72351 |
 
-|
+B |
 
-73451
+72 |
 
-|
+Bocage des Alpes mancelles |
 
-C
+72354 |
 
-|
+A |
 
-Chartreuse
+72 |
 
-|
+Plaine d'Alençon |
 
-73453
+72355 |
 
-|
+B |
 
-D
+VENDEE |
 
-|
+85 |
 
-Le Val d'Arly
+Bocage de Chantonnay |
 
-|
+85110 |
 
-73454
+A |
 
-|
+85 |
 
-D
+Marais breton |
 
-|
+85365 |
 
-Albanais
+A |
 
-|
+85 |
 
-73455
+Entre plaine et bocage |
 
-|
+85366 |
 
-C
+B |
 
-|
+85 |
 
-Bauges
+Bas-bocage |
 
-|
+85368 |
 
-73456
+A |
 
-|
+85 |
 
-D
+Marais poitevin desséché |
 
-|
+85369 |
 
-Tarentaise
+B |
 
-|
+85 |
 
-73458
+Marais poitevin mouillé |
 
-|
+85370 |
 
-D
+B |
 
-|
+85 |
 
-HAUTE-SAVOIE
+Plaine vendéenne |
 
-|
+85371 |
 
-74
+B |
 
-|
+85 |
 
-Bas Genevois
+Haut bocage |
 
-|
+85373 |
 
-74208
+A |
 
-|
+PROVENCE-ALPES-COTE D'AZUR |
 
-C
+ALPES-DE-HAUTE-PROVENCE |
 
-|
+04 |
 
-La Semine
+Plateau de Valensole |
 
-|
+4233 |
 
-74210
+B |
 
-|
+04 |
 
-C
+Sisteronnais |
 
-|
+4459 |
 
-Vallée des Usses
+B |
 
-|
+04 |
 
-74211
+Montagne de Haute Provence |
 
-|
+4460 |
 
-C
+D |
 
-|
+04 |
 
-Région d'Annemasse
+Plateau de Forcalquier |
 
-|
+4462 |
 
-74214
+B |
 
-|
+04 |
 
-C
+Val de Durance |
 
-|
+4466 |
 
-Région d'Annecy
+B |
 
-|
+HAUTES-ALPES |
 
-74218
+05 |
 
-|
+Queyras |
 
-C
+5231 |
 
-|
+D |
 
-Cluse d'Arve
+05 |
 
-|
+Haut-Embrunnais |
 
-74222
+5232 |
 
-|
+D |
 
-C
+05 |
 
-|
+Champsaur |
 
-Giffre
+5235 |
 
-|
+D |
 
-74223
+05 |
 
-|
+Dévoluy |
 
-D
+5236 |
 
-|
+D |
 
-Chablais
+05 |
 
-|
+Embrunnais |
 
-74224
+5237 |
 
-|
+D |
 
-D
+05 |
 
-|
+Gapençais |
 
-Plateau des Dranses
+5239 |
 
-|
+D |
 
-74225
+05 |
 
-|
+Briançonnais |
 
-D
+5457 |
 
-|
+D |
 
-Bas Chablais
+05 |
 
-|
+Laragnais |
 
-74226
+5459 |
 
-|
+B |
 
-C
+05 |
 
-|
+Bochaine |
 
-Pays de Thônes
+5461 |
 
-|
+B |
 
-74227
+05 |
 
-|
+Serrois-Rosannais |
 
-D
+5463 |
 
-|
+B |
 
-Plateau des Bornes
+ALPES-MARITIMES |
 
-|
+06 |
 
-74228
+Côteaux niçois |
 
-|
+6245 |
 
-D
+B |
 
-|
+06 |
 
-Sillon alpin
+Littoral niçois |
 
-|
+6249 |
 
-74454
+B |
 
-|
+06 |
 
-D
+Alpes niçoises |
 
-|
+6250 |
 
-Albanais
+D |
 
-|
+BOUCHES-DU-RHONE |
 
-74455
+13 |
 
 |
-
-C
 
 |
 
-Bauges
+B |
 
-|
+VAR |
 
-74456
+83 |
 
 |
-
-D
 
 |
 
-Grandes Alpes
+B |
 
-|
+VAUCLUSE |
 
-74458
+84 |
 
 |
 
-D
-
 |
+
+B |
 
 La liste des petites régions agricoles de chaque région peut être consultée auprès de la direction régionale de l'alimentation, de l'agriculture et de la forêt.
+
+NOTA :
+
+Se reporter aux conditions d'application prévues à l'article 2 de l'arrêté du 30 janvier 2023 (NOR : TREL2237332A).
