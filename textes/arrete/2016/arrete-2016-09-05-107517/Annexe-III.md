@@ -76,8 +76,4 @@ La séance d'entraînement est suivie d'un entretien de trente minutes maximum :
 
 -quinze minutes maximum avec les deux évaluateurs portant sur la progression et la pertinence du cycle d'entraînement figurant dans le dossier transmis par le candidat.
 
-L'échange avec les évaluateurs permet également de vérifier les compétences du candidat à encadrer en sécurité les activités gymniques acrobatiques notamment au regard des caractéristiques singulières des différents publics.
-
-NOTA :
-
-Conformément à l'article 9 de l'arrêté du 21 novembre 2022 (NOR : SPOV2233521A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er janvier 2023.
+L'échange avec les évaluateurs permet également de vérifier les compétences du candidat à encadrer en sécurité la gymnastique rythmique notamment au regard des caractéristiques singulières des différents publics.
