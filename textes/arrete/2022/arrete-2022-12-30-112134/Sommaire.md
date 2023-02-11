@@ -1,0 +1,45 @@
+# Article Sommaire
+
+ANNEXE I.-Présentation du diplôme
+
+I. 1.-Présentation
+
+I. 2.-Tableau de synthese
+
+ANNEXE II.-Référentiel des activités professionnelles
+
+II. 1.-Insertion professionnelle visée
+
+II. 1.1.-Types d'emplois accessibles
+
+II. 1.2.-Secteurs d'activité
+
+II. 2.-Description des activités professionnelles
+
+II. 2.1.-Présentation des pôles d'activités
+
+II. 2.2.-Définition des activités professionnelles
+
+ANNEXE III.-Référentiel de compétences
+
+III. 1.-Définition des blocs de compétences
+
+III. 1.1.-Liste des compétences
+
+III. 1.2.-Blocs de compétences
+
+III. 1.3.-Unités certificatives
+
+III. 2.-Définition des compétences et connaissances associées
+
+ANNEXE IV.-Référentiel d'évaluation
+
+IV. 1.-Unités constitutives du diplôme
+
+IV. 2.-Réglement d'examen
+
+IV. 3.-Définition des épreuves
+
+ANNEXE V.-Périodes de formation en milieu professionnel
+
+ANNEXE VI.-Correspondances épreuves/ unités de l'ancien et du nouveau diplôme

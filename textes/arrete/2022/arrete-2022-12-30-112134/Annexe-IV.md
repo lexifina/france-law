@@ -1,0 +1,461 @@
+# Article Annexe IV
+
+RÉFÉRENTIEL D'ÉVALUATION
+
+IV. 1.-Unités constitutives du diplôme
+
+Certificat d'aptitude professionnelle spécialité " carrossier automobile "
+
+Les unités d'enseignement professionnel sont présentées dans le tableau des unités professionnelles certificatives (III. 1.3).
+
+Les unités d'enseignement général sont présentées ci-dessous avec leurs références règlementaires.
+
+UNITÉ UG1-Français et histoire-géographie-Enseignement moral et civique
+
+Les programmes sur lesquels reposent l'unité sont définis par :
+
+Arrêté du 3 avril 2019 fixant le programme d'enseignement de français des classes préparant au certificat d'aptitude professionnelle (BOEN spécial n° 5 du 11 avril 2019).
+
+Arrêté du 3 avril 2019 fixant le programme d'enseignement d'histoire-géographie des classes préparant au certificat d'aptitude professionnelle (BOEN spécial n° 5 du 11 avril 2019).
+
+Arrêté du 3 avril 2019 fixant le programme d'enseignement moral et civique des classes préparant au certificat d'aptitude professionnelle (BOEN spécial n° 5 du 11 avril 2019).
+
+UNITÉ UG2-Mathématiques et physique-chimie
+
+Les programmes sur lesquels reposent l'unité sont définis par :
+
+Arrêté du 3 avril 2019 fixant Le programme d'enseignement de mathématiques des classes préparant au certificat d'aptitude professionnelle (BOEN spécial n° 5 du 11 avril 2019).
+
+Arrêté du 3 avril 2019 fixant Le programme d'enseignement de physique-chimie des classes préparant au certificat d'aptitude professionnelle (BOEN spécial n° 5 du 11 avril 2019).
+
+La spécialité " carrossier automobile " du certificat d'aptitude professionnelle est rattachée au groupement 1 en mathématique.
+
+UNITÉ UG3-Education physique et sportive
+
+Le programme sur lequel repose l'unité est défini par :
+
+Arrêté du 3 avril 2019 fixant le programme d'enseignement d'éducation physique et sportive des classes préparant au certificat d'aptitude professionnelle et des classes préparant au baccalauréat professionnel (BOEN spécial n° 5 du 11 avril 2019).
+
+UNITÉ UG4-Prévention-santé-environnement
+
+Le programme sur lequel repose l'unité est défini par :
+
+Arrêté du 3 avril 2019 fixant le programme d'enseignement de prévention-santé-environnement des classes préparant au certificat d'aptitude professionnelle (BOEN spécial n° 5 du 11 avril 2019).
+
+UNITÉ FACULTATIVE UF1-Langue vivante
+
+Le programme sur lequel repose l'unité facultative de langue vivante est défini par :
+
+Arrêté du 3 avril 2019 fixant le programme d'enseignement de langues vivantes des classes préparant au certificat d'aptitude professionnelle professionnel et des classes préparant au baccalauréat professionnel (BOEN spécial n° 5 du 11 avril 2019).
+
+UNITÉ FACULTATIVE UF2-Arts appliqués et cultures artistiques
+
+Le programme sur lequel repose l'unité facultative d'arts appliqués et cultures artistiques est défini par :
+
+Arrêté du 3 avril 2019 fixant le programme d'enseignement d'arts appliqués et cultures artistiques des classes préparant au certificat d'aptitude professionnelle (BOEN spécial n° 5 du 11 avril 2019).
+
+IV. 2.-Règlement d'examen
+
+Certificat d'aptitude professionnelle spécialité " carrossier automobile "
+
+Spécialité carrossier automobile
+
+de certificat d'aptitude professionnelle |
+
+Scolaires
+
+(Établissements publics
+
+et privés sous contrat)
+
+Apprentis
+
+(CFA habilité ou CFA porté par un EPLE, GRETA ou GIP-FCIP assurant toute la formation théorique)
+
+Formation professionnelle continue
+
+(Établissements publics) |
+
+Scolaires
+
+(Établissements privés hors contrat)
+
+Apprentis
+
+(CFA et sections d'apprentissage
+
+non habilités)
+
+Formation professionnelle continue
+
+(Établissements privés)
+
+Enseignement à distance
+
+Candidats individuels |
+
+Épreuves |
+
+Unités |
+
+Coeff. |
+
+Mode |
+
+Mode |
+
+Durée |
+
+UNITÉS PROFESSIONNELLES |
+
+EP1-Intervention et réparation sur élément |
+
+UP1 |
+
+7 (1) |
+
+CCF |
+
+Ponctuel pratique |
+
+3 h |
+
+EP2-Préparation des fonds et des surfaces |
+
+UP2 |
+
+3 |
+
+CCF |
+
+Ponctuel pratique |
+
+1 h |
+
+EP3 Intervention sur les inamovibles et les vitrages |
+
+UP3 |
+
+5 |
+
+CCF |
+
+Ponctuel pratique |
+
+4 h |
+
+UNITÉS D'ENSEIGNEMENT GÉNÉRAL |
+
+EG1-Français et histoire-géographie-enseignement moral et civique |
+
+UG1 |
+
+3 |
+
+CCF |
+
+Ponctuel écrit et oral |
+
+2 h 25
+
+(2 h + 10 min) + 15 min (2) |
+
+EG2-Mathématiques et physique-chimie |
+
+UG2 |
+
+2 |
+
+CCF |
+
+Ponctuel écrit |
+
+1 h 30 |
+
+EG3-Éducation physique et sportive |
+
+UG3 |
+
+1 |
+
+CCF |
+
+Ponctuel |
+
+EG4-Prévention santé environnement |
+
+UG4 |
+
+1 |
+
+CCF |
+
+Ponctuel écrit |
+
+1 h |
+
+UNITÉS FACULTATIVES |
+
+EF Langue vivante |
+
+UF1 |
+
+1 |
+
+Ponctuel oral |
+
+12 min |
+
+Ponctuel
+
+oral |
+
+12 min |
+
+EF Arts appliqués et cultures artistiques |
+
+UF2 |
+
+1 |
+
+Ponctuel écrit |
+
+1 h 30 |
+
+Ponctuel
+
+écrit |
+
+1 h 30 |
+
+(1) Dont coefficient 1 pour l'évaluation du chef d'œuvre, uniquement pour les scolaires et les apprentis.
+
+L'évaluation s'effectue conformément à l'arrêté du 28 novembre 2019 définissant les modalités d'évaluation du chef d'œuvre prévue à l'examen du CAP par l'article D337-3-1 du code de l'éducation.
+
+(2) Dont 5 minutes de préparation pour oral HGEMC
+
+Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme. |
+
+IV. 3.-Définition des épreuves Certificat d'aptitude professionnelle spécialité " carrossier automobile "
+
+ÉPREUVE EP1
+
+Intervention et réparation sur un élément
+
+Unité UP1
+
+Coefficient 7
+
+1. Objectif de l'épreuve
+
+L'épreuve a pour objectif l'évaluation de tout ou partie des compétences du pôle 1 " intervention et réparation sur un élément " :
+
+-C1. 1 Collecter les informations nécessaires à l'intervention ;
+
+-C1. 2 Appliquer la méthodologie de réparation ;
+
+-C1. 3 Remettre en conformité ;
+
+-C1. 4 Contrôler la qualité de son intervention.
+
+Les compétences sont évaluées dans un contexte professionnel conforme aux conditions de réalisation (secteurs d'activité, éléments d'environnement, ressources disponibles).
+
+Les critères d'évaluation sont ceux définis dans le référentiel de compétences et se rapportant aux limites de connaissances des savoirs associés du pôle 1 " intervention et réparation sur un élément ". L'évaluation des candidats sur ces critères s'appuie sur toutes les dimensions (savoirs, savoir-faire, attitudes) de la compétence.
+
+Certaines autres compétences peuvent être mobilisées ; ces dernières ne sont alors pas évaluées.
+
+2. Contenu de l'épreuve
+
+La situation EP1 se deroule en centre de formation et/ ou en entreprise. Pour cette épreuve, les candidats sont placés en situation de réaliser tout ou partie des tâches relatives au pôle 1 " intervention et réparation sur un élément " ; les moyens et ressources, le niveau d'autonomie ainsi que les résultats attendus sont ceux définis dans le référentiel d'activités professionnelles.
+
+3. Modalités d'évaluation
+
+3.1. Contrôle en cours de formation
+
+L'évaluation s'appuie sur plusieurs activités permettant d'établir un suivi et un bilan des compétences visées par l'épreuve. Les activités sont menées en entreprise et/ ou en centre de formation.
+
+Le suivi, les bilans intermédiaires et le bilan final sont établis :
+
+-par l'équipe pédagogique du domaine professionnel, le tuteur ou maître d'apprentissage et le candidat dans le cas où l'activité est menée conjointement avec une entreprise ;
+
+-par l'équipe pédagogique du domaine professionnel dans le cas où l'activité est menée en centre de formation.
+
+Les candidats sont positionnés par l'équipe pédagogique à leur niveau de maîtrise des compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen.
+
+A l'issue du positionnement, l'équipe pédagogique de l'établissement de formation constitue, pour chaque candidat, un dossier comprenant :
+
+-le livret de suivi de développement des compétences ;
+
+-les bilans intermédiaires formalisés d'évaluation des compétences ;
+
+-la grille nationale d'évaluation renseignée ayant permis la proposition de note.
+
+3.2. Forme ponctuelle
+
+L'évaluation se déroule sous la forme d'une épreuve pratique d'une durée de trois heures.
+
+Elle évalue la maîtrise des compétences du candidat se rapportant au pôle 1 " intervention et réparation sur un élément " sur les quatre activités suivantes :
+
+-A1. 1 Dépose et repose d'éléments amovibles ;
+
+-A1. 2 Remise en forme d'éléments de carrosserie ;
+
+-A1. 3 Réparation des matériaux plastiques ;
+
+-A1. 4 Dépose et repose des éléments mécaniques de collisions et électroniques.
+
+Les candidats sont positionnés à leur niveau de maîtrise des compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen.
+
+Cette situation d'évaluation est construite et organisée par les professeurs d'enseignement professionnel de réparation des carrosseries du centre d'examen.
+
+La commission d'évaluation est composée d'un enseignant du domaine professionnel.
+
+ÉPREUVE EP2
+
+Préparation et application des peintures
+
+Unité UP2
+
+Coefficient 3
+
+1. Objectif de la sous-épreuve
+
+L'épreuve a pour objectif l'évaluation de tout ou partie des compétences du pôle 2 " préparation et application des peintures " :
+
+-C2. 1 Réaliser la préparation des fonds et des surfaces.
+
+Les compétences sont évaluées dans un contexte professionnel conforme aux conditions de réalisation (secteurs d'activité, éléments d'environnement, ressources disponibles). Les compétences intègrent les savoirs associés.
+
+Les critères d'évaluation sont ceux définis dans le référentiel de compétences et se rapportant aux limites de connaissances des savoirs associés du pôle 2. L'évaluation du candidat sur ces critères s'appuie sur toutes les dimensions (savoirs, savoir-faire, attitudes) de la compétence et en aucun cas sur les seuls savoirs associés.
+
+Certaines autres compétences peuvent être mobilisées ; ces dernières ne sont alors pas évaluées.
+
+2. Contenu de l'épreuve
+
+La situation EP2 se deroule en centre de formation et/ ou en entreprise. Pour cette épreuve, les candidats sont placés en situation de réaliser tout ou partie des tâches relatives au pôle 2 " préparation et application des peintures " ; les moyens et ressources, le niveau d'autonomie ainsi que les résultats attendus sont ceux définis dans le référentiel d'activités professionnelles.
+
+3. Modalités d'évaluation
+
+3.1. Contrôle en cours de formation
+
+L'évaluation s'appuie sur plusieurs activités permettant d'établir un suivi et un bilan des compétences visées par l'épreuve. Les activités sont menées en entreprise et/ ou en centre de formation.
+
+Le suivi, les bilans intermédiaires et le bilan final sont établis :
+
+-par l'équipe pédagogique du domaine professionnel, le tuteur ou maître d'apprentissage et le candidat dans le cas où l'activité est menée conjointement avec une entreprise ;
+
+-par l'équipe pédagogique du domaine professionnel dans le cas où l'activité est menée en centre de formation.
+
+Les candidats sont positionnés par l'équipe pédagogique à leur niveau de maîtrise des compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen.
+
+A l'issue du positionnement, l'équipe pédagogique de l'établissement de formation constitue, pour chaque candidat, un dossier comprenant :
+
+-le livret de suivi de développement des compétences ;
+
+-les bilans intermédiaires formalisés d'évaluation des compétences ;
+
+-la grille nationale d'évaluation renseignée ayant permis la proposition de note.
+
+3.2. Forme ponctuelle
+
+L'évaluation se déroule sous la forme d'une épreuve pratique d'une durée d'une heure.
+
+Elle évalue la maîtrise des compétences du candidat se rapportant au pôle 2 " intervention et réparation sur un élément " sur l'activité suivante :
+
+-A2. 1 Préparation des fonds et des surfaces.
+
+Les candidats sont positionnés à leur niveau de maîtrise des compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen.
+
+Cette situation d'évaluation est construite et organisée par les professeurs d'enseignement professionnel de réparation des carrosseries du centre d'examen.
+
+La commission d'évaluation est composée d'un enseignant du domaine professionnel.
+
+ÉPREUVE EP3
+
+Intervention sur les inamovibles et les vitrages
+
+Unité UP3
+
+Coefficient 5
+
+1. Objectif de la sous-épreuve
+
+L'épreuve a pour objectif l'évaluation de tout ou partie des compétences du pôle 3 " Intervention sur les inamovibles et les vitrages " :
+
+-C3. 1 Remplacer un élément de structure ;
+
+-C3. 2 Mettre en conformité un vitrage.
+
+Les compétences sont évaluées dans un contexte professionnel conforme aux conditions de réalisation (secteurs d'activité, éléments d'environnement, ressources disponibles). Les compétences intègrent les savoirs associés.
+
+Les critères d'évaluation sont ceux définis dans le référentiel de compétences et se rapportant aux limites de connaissances des savoirs associés du pôle 3. L'évaluation du candidat sur ces critères s'appuie sur toutes les dimensions (savoirs, savoir-faire, attitudes) de la compétence et en aucun cas sur les seuls savoirs associés.
+
+Certaines autres compétences peuvent être mobilisées ; ces dernières ne sont alors pas évaluées.
+
+2. Contenu de l'épreuve
+
+La situation EP3 se deroule en centre de formation et/ ou en entreprise. Pour cette épreuve, les candidats sont placés en situation de réaliser tout ou partie des tâches relatives au pôle 3 " Intervention sur les inamovibles et les vitrages " ; les moyens et ressources, le niveau d'autonomie ainsi que les résultats attendus sont ceux définis dans le référentiel d'activités professionnelles.
+
+3. Modalités d'évaluation
+
+3.1. Contrôle en cours de formation
+
+L'évaluation s'appuie sur plusieurs activités permettant d'établir un suivi et un bilan des compétences visées par l'épreuve. Les activités sont menées en entreprise et/ ou en centre de formation.
+
+Le suivi, les bilans intermédiaires et le bilan final sont établis :
+
+-par l'équipe pédagogique du domaine professionnel, le tuteur ou maître d'apprentissage et le candidat dans le cas où l'activité est menée conjointement avec une entreprise ;
+
+-par l'équipe pédagogique du domaine professionnel dans le cas où l'activité est menée en centre de formation.
+
+Les candidats sont positionnés par l'équipe pédagogique à leur niveau de maîtrise des compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen.
+
+A l'issue du positionnement, l'équipe pédagogique de l'établissement de formation constitue, pour chaque candidat, un dossier comprenant :
+
+-le livret de suivi de développement des compétences ;
+
+-les bilans intermédiaires formalisés d'évaluation des compétences ;
+
+-la grille nationale d'évaluation renseignée ayant permis la proposition de note.
+
+3.2. Forme ponctuelle
+
+L'évaluation se déroule sous la forme d'une épreuve pratique d'une durée de quatre heures.
+
+Elle évalue la maîtrise des compétences du candidat se rapportant au pôle 3 " Intervention sur les inamovibles et les vitrages " sur les deux activités suivantes :
+
+-A3. 1 Remplacement d'éléments inamovibles ;
+
+-A3. 2 Remplacement et réparation de vitrages.
+
+Les candidats sont positionnés à leur niveau de maîtrise des compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen.
+
+Cette situation d'évaluation est construite et organisée par les professeurs d'enseignement professionnel de réparation des carrosseries du centre d'examen.
+
+La commission d'évaluation est composée d'un enseignant du domaine professionnel.
+
+Références réglementaires pour les épreuves transversales
+
+Epreuve EG1-Français et histoire-géographie et enseignement moral et civique-coefficient 3
+
+L'épreuve de français et histoire-géographie-enseignement moral et civique est définie par l'arrêté du 30 août 2019 fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation des épreuves d'enseignement général. (BO n° 35 du 26 septembre 2019).
+
+Epreuve EG2-Mathématiques et physique-chimie-coefficient 2
+
+L'épreuve de mathématiques et physique-chimie est définie par l'arrêté du 30 août 2019 fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation des épreuves d'enseignement général. (BO n° 35 du 26 septembre 2019).
+
+Epreuve EG3-Education physique et sportive-coefficient 1
+
+L'épreuve d'éducation physique et sportive est définie par l'arrêté du 30 août 2019 fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation des épreuves d'enseignement général. (BO n° 35 du 26 septembre 2019).
+
+Epreuve EG4-Prévention-santé-environnement-coefficient 1
+
+L'épreuve de prévention-santé-environnement est définie par l'arrêté du 30 août 2019 fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation des épreuves d'enseignement général. (BO n° 35 du 26 septembre 2019).
+
+Epreuve facultative-Langue vivante
+
+L'épreuve facultative de langue vivante est définie par l'arrêté du 30 août 2019 fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation des épreuves d'enseignement général. (BO n° 35 du 26 septembre 2019).
+
+Epreuve facultative-Arts appliqués et cultures artistiques
+
+L'épreuve facultative d'arts appliqués et cultures artistiques est définie par l'arrêté du 30 août 2019 fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation des épreuves d'enseignement général. (BO n° 35 du 26 septembre 2019).
