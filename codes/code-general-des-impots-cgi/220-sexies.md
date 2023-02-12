@@ -50,7 +50,7 @@ Le montant cumulé des rémunérations mentionnées au a et des salaires mention
 
 - 5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure à 10 000 000 €.
 
-Pour l'adaptation audiovisuelle de spectacles, les dépenses éligibles sont celles exposées jusqu'au 31 décembre 2022.
+Pour l'adaptation audiovisuelle de spectacles, les dépenses éligibles sont celles exposées jusqu'au 31 décembre 2024.
 
 Le taux mentionné au premier alinéa du présent 1 est porté à 25 % en ce qui concerne les œuvres audiovisuelles de fiction et d'animation et les œuvres audiovisuelles documentaires. Il est porté à 30 % pour les œuvres cinématographiques d'animation et pour les œuvres cinématographiques autres que d'animation réalisées intégralement ou principalement en langue française ou dans une langue régionale en usage en France.
 
@@ -106,6 +106,6 @@ VIII. – Un décret fixe les conditions d'application du présent article.
 
 NOTA :
 
-Conformément au III de l'article 118 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s’appliquent aux exercices clos à compter du 31 décembre 2021, sous réserve de la réception préalable par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l’Union européenne en matière d’aides d’Etat.
+Conformément au II de l’article 38 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus d'un mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
 
-Conformément aux II et III de l'article 145 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2021 et entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne en matière d'aides d'Etat.
+Conformément à l'article 1 du décret n° 2023-85 du 10 février 2023, ces dispositions entrent en vigueur le lendemain de la publication dudit décret, à savoir le 12 février 2023.
