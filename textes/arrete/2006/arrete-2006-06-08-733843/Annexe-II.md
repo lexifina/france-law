@@ -184,8 +184,6 @@ Les modalités du contrôle interne doivent être conformes aux dispositions de 
 
 La procédure de contrôle interne doit prévoir des mesures de surveillance par les opérateurs, de vérification sous la responsabilité du RPA et l'exploitation des résultats de ces mesures dans le but de l'amélioration continue de la protection animale au sein de l'abattoir.
 
-Lorsque l'abattoir est équipé d'un dispositif de surveillance par vidéo, filmant les animaux vivants au cours d'une ou plusieurs étapes depuis l'introduction dans l'enceinte de l'abattoir et jusqu'à la première opération d'habillage, les images filmées sont intégrées dans le contrôle interne régulier effectué sous la responsabilité du RPA. L'intégration de ce dispositif dans le contrôle interne s'effectue au titre de la vérification, en vue de la détection d'éventuelles dérives et d'amélioration continue, et pas uniquement au titre de la gestion ponctuelle de non conformités.
-
 8° Cas particulier des abattoirs - Exigences relatives aux mesures de biosécurité
 
 Conformément aux dispositions du règlement (CE) n° 853/2004 du Parlement européen et du Conseil du 29 avril 2004 susvisé et du règlement (UE) n° 2016/429 du Parlement européen et du Conseil du 9 mars 2016 et en application de l'article L. 221-1-1 du code rural et de la pêche maritime, les mesures de biosécurité visant à prévenir et à réduire le risque de propagation des maladies par des véhicules, équipements et contenants (de transport d'animaux vivants, de sous-produits animaux, du personnel et intervenants, ou tout autre matériel identifié comme susceptible de propager les maladies animales) sont décrites au moyen de procédures comprenant notamment :
