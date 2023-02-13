@@ -4,7 +4,7 @@ I. – Lorsque le service de suivi informatique des mouvements de marchandises s
 
 1° L'expéditeur informe l'administration des douanes et droits indirects avant l'expédition des marchandises, dans les conditions et les modalités qu'elle détermine ;
 
-2° Les produits sont accompagnés d'un document papier contenant les mêmes données que le projet de document administratif électronique mentionné à l'article 302 M ter du code précité.
+2° Les produits sont accompagnés d'un document papier contenant les mêmes données que le projet de document administratif électronique mentionné à l'article 302 M du code précité.
 
 Il en est de même lorsque l'expéditeur ne peut se connecter au service suite à une indisponibilité de son propre système informatique. Dans ce cas, il informe également le service des douanes et droits indirects territorialement compétent des motifs de cette indisponibilité.
 
@@ -21,3 +21,7 @@ II. – Si le service de suivi informatique des mouvements de marchandises soumi
 Il en est de même lorsque l'expéditeur ne peut se connecter au service suite à une indisponibilité de son propre système informatique. Dans ce cas, il informe également le service des douanes et droits indirects territorialement compétent des motifs de cette indisponibilité.
 
 Lorsque l'expéditeur a présenté un projet de document administratif électronique conformément aux dispositions du I ou lorsque le destinataire peut à nouveau se connecter au service de suivi informatique des mouvements de marchandises soumises à accise, il établit un accusé de réception par voie électronique conformément aux dispositions du présent article 111 H quaterdecies
+
+NOTA :
+
+Conformément à l’article 5 du décret n°2023-82 du 9 février 2023, ces dispositions entrent en vigueur le 13 février 2023.
