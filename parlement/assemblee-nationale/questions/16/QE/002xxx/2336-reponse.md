@@ -1,0 +1,9 @@
+# Réponse à la question n° 2336
+
+- Question : [2336](2336.md) — Question n° 2336 — Effectifs de la brigade territoriale de gendarmerie de la ville de La Possession
+
+## Réponse
+
+*JO du 2023-02-14, page 1483*
+
+La lutte contre toutes les formes de délinquance, notamment dans les territoires d'Outre-mer, est une priorité du Gouvernement. Depuis 2017, la Réunion a bénéficié d'un abondement de 215 policiers et gendarmes qui a également profité à la brigade de La Possession, renforcée de 2 militaires. Pour accroître la visibilité de la gendarmerie et la présence de voie publique sur la commune, les gendarmes bénéficient également du concours des 17 militaires du peloton de surveillance et d'intervention de Saint-Paul. Ces effectifs sont complétés par des renforts ponctuels, composés de gendarmes mobiles ou de réservistes. La brigade de recherches de Saint-Paul et la maison de protection des familles de Saint-Denis apportent également leur concours à la brigade territoriale de la Possession dans la lutte contre la délinquance, ainsi que pour la prévention et le traitement des violences intrafamiliales. En ce qui concerne la situation particulière du cirque de Mafate, la gendarmerie y intervient régulièrement en sécurité publique générale et en mission de secours grâce aux hélicoptères de la section aérienne et aux 17 militaires du peloton de gendarmerie de haute montagne de Sainte-Marie. L'ensemble de ce dispositif permet ainsi d'enregistrer des résultats encourageants dans la lutte contre la délinquance sur la commune de La Possession. Pour prendre en compte le développement démographique de la commune comme celui des autres villes de l'Ouest réunionnais, une concertation associant l'ensemble des élus - dans le cadre du plan de création des 200 brigades - a été lancée le 5 décembre dernier. Elle permettra d'étudier finement toutes les propositions faites pour renforcer encore les capacités d'action de la Gendarmerie dans le département.
