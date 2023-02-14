@@ -1,0 +1,9 @@
+# Réponse à la question n° 3288
+
+- Question : [3288](3288.md) — Question n° 3288 — Ouverture du champ de l'agrément RGE des formations en photovoltaïque
+
+## Réponse
+
+*JO du 2023-02-14, page 1545*
+
+Afin de garantir un développement exemplaire de la filière photovoltaïque dans un contexte de déploiement rapide sur le territoire, le dispositif de soutien aux petites et moyennes installations mises en œuvre sur bâtiment, hangar et ombrière exige la qualification ou certification des entreprises réalisant les installations. Ces signes de qualité doivent, pour être efficaces, respecter plusieurs critères définis par le dispositif de soutien. Parmi ceux-ci, les responsables techniques des entreprises candidates à l'obtention d'un signe de qualité doivent avoir suivi avec succès une formation initiale qualifiante et/ou diplômante ou une formation continue auprès d'un organisme de formation agréé par un organisme ayant passé une convention avec l'Etat, appelé « organisme de contrôle de la formation », dont le rôle est de vérifier la qualité de formation donnée. Cette architecture, similaire à celle qui a été mise en place pour les signes de qualité « Reconnu Garant de l'Environnement », est essentielle pour assurer l'adéquation des formations avec le champ technique couvert par le dispositif, et ainsi la maitrise par l'entreprise des compétences techniques requises. En l'absence de contrôle de la qualité des formations suivies par les responsables techniques, les éventuels sinistres et contre-références risqueraient d'augmenter. Hormis Qualit'ENR, tout organisme ayant le souhait de devenir organisme de contrôle de la formation et disposant des moyens et des compétences suffisantes peut déposer une demande de conventionnement auprès de l'Etat. Ses missions seront alors régies par le dispositif de soutien précité.
