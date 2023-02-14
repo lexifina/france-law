@@ -1,0 +1,9 @@
+# Réponse à la question n° 4973
+
+- Question : [4973](4973.md) — Question n° 4973 — Engagement des sapeurs pompiers volontaires sur des missions non sanitaires.
+
+## Réponse
+
+*JO du 2023-02-14, page 1490*
+
+Les sapeurs-pompiers sont soumis à l'obligation vaccinale depuis la loi n° 2021-1040 du 5 août 2021 relative à la gestion de la crise sanitaire, obligation maintenue par la loi n° 2022-1089 du 30 juillet 2022 mettant fin aux régimes d'exception créés pour lutter contre l'épidémie liée à la Covid-19. Dans l'exercice de leurs missions, quelles qu'elles soient, ils sont amenés à secourir des publics fragiles et vulnérables et cette obligation est justifiée, comme pour le personnel soignant, par la nécessité de protéger non seulement les agents, mais aussi les tiers, contre les risques de la Covid-19. Alors que les missions de secours et de soins d'urgence représentent plus de 86 % de l'activité des services d'incendie et de secours et que les sapeurs-pompiers volontaires composent à plus de 82 % les effectifs de sapeurs-pompiers, une distinction entre professionnels et volontaires dans ce domaine ne répondrait pas aux impératifs opérationnels, notamment d'évolution de la mission ou encore de nécessité de porter secours à ses propres collègues, qui peuvent conduire à la prise en charge de victimes par tout sapeur-pompier présent sur une opération de secours. De plus, au vu du faible nombre de sapeurs-pompiers qui ont fait le choix de ne pas entrer dans le schéma vaccinal, ces suspensions n'ont pas d'incidence sur la capacité opérationnelle des services d'incendie et de secours. Force est d'ailleurs de constater que ces suspensions n'ont en rien entravé la capacité des services d'incendie et de secours à mobiliser leurs effectifs, dans la durée, pour faire face notamment aux besoins exceptionnels de cet été. En l'absence de levée de l'obligation vaccinale, il n'est pas envisagé de réintégrer les sapeurs-pompiers non vaccinés.
