@@ -1,0 +1,9 @@
+# Réponse à la question n° 3560
+
+- Question : [3560](3560.md) — Question n° 3560 — TIPCE - Situation des entreprises de terrassement
+
+## Réponse
+
+*JO du 2023-02-14, page 1449*
+
+La fiscalité des produits énergétiques est encadrée par les dispositions de la directive 2003/96/CE du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité. L'article 7 définit la notion de « gazole à usage commercial », ce qui permet de différencier le tarif applicable au gazole utilisé pour un usage particulier de celui applicable au transport de marchandises. Ainsi, le droit français prévoit des tarifs réduits d'accise sur les produits énergétiques du secteur routier au bénéfice des transporteurs de voyageurs et aux entreprises de transports routiers de marchandises utilisant des véhicules de plus de 7,5 tonnes. Le tarif réduit bénéficiant au transport routier de marchandises permet de préserver ce secteur professionnel dans un contexte de très forte concurrence internationale. Les véhicules pouvant bénéficier de ce tarif réduit sont ceux destinés au transport de marchandises dont la masse est égale ou supérieure à 7,5 tonnes et qui sont immatriculés dans l'un des pays de l'Union européenne. Les catégories de véhicules concernées sont les catégories N2 et N3, qui ciblent des véhicules généralement utilisés sur de longues distances à l'échelle européenne. Les véhicules des entreprises ne répondant pas à ces caractéristiques sont exclus du bénéfice du tarif réduit notamment les véhicules de taille plus petite ou ayant des usages spécifiques. Inversement, le secteur des travaux publics n'est soumis ni aux mêmes contraintes, ni au même cadre juridique. Il bénéficie historiquement, pour les engins non routiers, d'un tarif réduit très favorable de 18,82 €/hL de gazole, dont la suppression a été reportée au 1er janvier 2024.
