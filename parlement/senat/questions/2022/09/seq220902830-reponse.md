@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902830
+
+- Question : [SEQ220902830](seq220902830.md) — Durée des contrats de raccordement, d'accès et d'exploitation et rachat de l'énergie produite chez les possesseurs de panneaux photovoltaïques
+
+## Réponse
+
+*Transition énergétique, JO du 2023-02-16, page 1241*
+
+L'article 314-1 du code de l'énergie dispose que sous réserve de la nécessité de préserver le fonctionnement des réseaux, Electricité de France et, si les installations de production sont raccordées aux réseaux publics de distribution dans leur zone de desserte, les entreprises locales de distribution chargées de la fourniture sont tenues de conclure, lorsque les producteurs intéressés en font la demande, un contrat pour l'achat de l'électricité produite par des panneaux photovoltaïques répondant aux critères précisés dans l'arrêté du 6 octobre 2021 fixant les conditions d'achat de l'électricité produite par les installations implantées sur bâtiment, hangar ou ombrière utilisant l'énergie solaire photovoltaïque, d'une puissance crête installée inférieure ou égale à 500 kilowatts telles que visées au 3° de l'article D. 314-15 du code de l'énergie et situées en métropole continentale. La réglementation ne prévoit pas de critère d'âge pour les producteurs d'électricité. Si une discrimination liée à l'âge est constatée, il convient de saisir le défenseur des droits (https://www.defenseurdesdroits.fr/fr/saisir-le-defenseur-des-droits) Par ailleurs, chaque producteur a la possibilité de contractualiser la vente de l'énergie électrique produite avec un autre fournisseur que l'acheteur obligé prévu par l'article 314-1 du code de l'énergie. L'autoconsommation collective peut être également être envisagée. Elle permet à un groupe de consommateurs et de producteurs d'électricité de s'associer, au sein d'une même entité, autour d'un projet commun de production d'électricité renouvelable locale.
