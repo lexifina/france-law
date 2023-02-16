@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003309
+
+- Question : [SEQ221003309](seq221003309.md) — Difficultés des Français nés en Algérie pour renouveler leurs papiers d'identité
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-02-16, page 1192*
+
+Comme tous les Français dont le titre d'identité est expiré depuis plus de cinq ans, les Français nés en Algérie avant 1962 peuvent se voir demander la production d'un certificat de nationalité française à l'occasion du renouvellement de leur titre. En effet, les éléments fournis pour une demande de titre ne sont plus conservés dans le traitement de données passée une certaine durée. De la même manière, dans le cadre d'une première demande de titre (l'usager ne dispose ni d'un passeport ni d'une CNI) ou si le demandeur n'est pas en mesure de produire une CNI ou un passeport (à la suite d'une perte ou d'un vol), la production de justificatifs établissant l'état civil et la nationalité demeure nécessaire. Si l'acte de naissance produit ne constitue pas une preuve suffisante de la nationalité française du demandeur, les services préfectoraux chargés d'instruire les demandes de cartes nationales d'identité et de passeports peuvent demander des pièces complémentaires pour savoir si le demandeur, ou son ascendant, justifie d'une possession d'état de Français depuis plus de dix ans (au moins deux documents tels qu'un titre d'identité non sécurisé : CNI cartonnée ou passeport manuscrit, même périmés, accompagné d'une carte militaire). En revanche, et ainsi qu'il a déjà été indiqué par le ministère de l'Intérieur et des Outre-mer, les Français nés en Algérie avant 1962 n'ont pas à produire de certificat de nationalité française lorsque leurs documents d'identité à renouveler sont valides ou périmés depuis moins de cinq ans. Aussi, s'il est constaté, s'agissant des Français nés en Algérie avant 1962, des manquements à ces directives de renouvellement simplifié, des consignes seront rediffusées aux services instructeurs.
