@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204148
+
+- Question : [SEQ221204148](seq221204148.md) — Maternité de Ganges
+
+## Réponse
+
+*Santé et prévention, JO du 2023-02-16, page 1212*
+
+Les services du ministère de la santé et de la prévention ont été régulièrement en lien, tout au long du processus qui a conduit à la fermeture temporaire de la maternité de Ganges, avec l'agence régionale de santé d'Occitanie très investie, aux côtés du groupe Cap Santé et des établissements environnants (CHU de Montpellier et de Nîmes en particulier) afin d'organiser une réponse adaptée aux femmes enceintes du territoire. Il est essentiel, pour ce territoire relativement isolé, qu'un socle de prestations soit assuré aux femmes enceintes et c'est l'objectif poursuivi avec la mise en place, depuis le 20 décembre 2022, d'un centre périnatal de proximité (CPP). Ce dernier est à même d'assurer le suivi de grossesse et le suivi postpartum des femmes en bénéficiant d'une présence de sages-femmes et d'un gynécologue-obstétricien. Le lien étroit établi avec le CHU de Montpellier permet également d'assurer la qualité du suivi au sein de cette structure de proximité et de l'orientation des femmes, dans de bonnes conditions, vers leur maternité d'accouchement. D'autres outils sont également mobilisables pour améliorer le parcours des femmes enceintes de ce territoire, comme celui institué par le décret n° 2022-555 du 14 avril 2022 permettant un hébergement des femmes enceintes en proximité de leur lieu d'accouchement en amont de celui-ci, voire, pour les grossesses pathologiques, tout au long de la grossesse. L'organisation temporaire mise en place donnera aux acteurs locaux le temps de travailler à la reconstitution d'une équipe médicale à même de permettre, si les conditions de sécurité sont à nouveau réunies, la réouverture éventuelle de la maternité.
