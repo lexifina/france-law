@@ -88,33 +88,23 @@ Administrativement, 20 % des puissances sont hors de la concession française et
 
 Les puissances se décomposent en :
 
-CENTRALE
+CENTRALE |
 
-|
-
-PMB (*)
-
-|
+PMB (*) |
 
 PMB (*)
 
-part française
-
-|
+part française |
 
 PND (**)
 
-(début de la concession)
-
-|
+(début de la concession) |
 
 PND (**)
 
 début de concession
 
-part française)
-
-|
+part française) |
 
 PND (**)
 
@@ -122,9 +112,7 @@ PND (**)
 
 enveloppe maximale
 
-de débit réservée)
-
-|
+de débit réservée) |
 
 PND (**)
 
@@ -134,99 +122,53 @@ enveloppe maximale
 
 de débit réservé
 
-part française)
+part française) |
 
-|
+Centrale de Kembs |
 
-Centrale de Kembs
+184 173 kW |
 
-|
+147 338 kW |
 
-184 173 kW
+98 496 kW |
 
-|
+78 797 kW |
 
-147 338 kW
+95 364 kW |
 
-|
+76 291 kW |
 
-98 496 kW
+Centrales de restitution |
 
-|
+12 970 kW |
 
-78 797 kW
+10 376 kW |
 
-|
+6 067 kW |
 
-95 364 kW
+4 854 kW |
 
-|
+6 669 kW |
 
-76 291 kW
+5 335 kW |
 
-|
+Total |
 
-Centrales de restitution
+197 143 kW |
 
-|
+157 714 kW |
 
-12 970 kW
+104 563 kW |
 
-|
+83 650 kW |
 
-10 376 kW
+102 033 kW |
 
-|
-
-6 067 kW
-
-|
-
-4 854 kW
-
-|
-
-6 669 kW
-
-|
-
-5 335 kW
-
-|
-
-Total
-
-|
-
-197 143 kW
-
-|
-
-157 714 kW
-
-|
-
-104 563 kW
-
-|
-
-83 650 kW
-
-|
-
-102 033 kW
-
-|
-
-81 626 kW
-
-|
+81 626 kW |
 
 (*) Puissance maximale brute.
 
-(**) Puissance normale disponible.
-
-|
+(**) Puissance normale disponible. |
 
 Ainsi, la puissance maximale brute de la chute concédée (total des centrales) est évaluée à 157 714 kilowatts, ce qui correspond, compte tenu du rendement normal des appareils d'utilisation, du débit moyen turbinable et des pertes de charge, à une puissance normale disponible de 83 650 kilowatts (ces valeurs sont celles du début de la concession).
 
@@ -628,101 +570,57 @@ Débit dans le Rhin = débit plancher + facteur de variation × (débit réel en
 
 b) Tableau récapitulatif des valeurs de débit restitué au Vieux Rhin :
 
-PÉRIODE
-
-|
+PÉRIODE |
 
 DÉBIT PLANCHER
 
-(m ³ / s)
-
-|
+(m ³ / s) |
 
 DÉBIT PLAFOND
 
-(m ³ / s)
-
-|
+(m ³ / s) |
 
 COEFFICIENT
 
-de proportion
-
-|
+de proportion |
 
 PIVOT
 
-(m ³ / s)
+(m ³ / s) |
 
-|
+Novembre à mars |
 
-Novembre à mars
+Débit constant à 52 |
 
-|
+Avril-mai |
 
-Débit constant à 52
+54 |
 
-|
+80 |
 
-Avril-mai
+0, 2 |
 
-|
+1 000 |
 
-54
+Juin-juillet-août |
 
-|
+95 |
 
-80
+150 |
 
-|
+0, 2 |
 
-0, 2
+1 200 |
 
-|
+Septembre-octobre |
 
-1 000
+54 |
 
-|
+80 |
 
-Juin-juillet-août
+0, 2 |
 
-|
-
-95
-
-|
-
-150
-
-|
-
-0, 2
-
-|
-
-1 200
-
-|
-
-Septembre-octobre
-
-|
-
-54
-
-|
-
-80
-
-|
-
-0, 2
-
-|
-
-1 000
-
-|
+1 000 |
 
 c) Corrections des valeurs de débits pour les transitions entre printemps et été et entre été et automne.
 
@@ -779,6 +677,12 @@ d) Date de la clause de rendez-vous.
 La clause de rendez-vous pourra être mise en œuvre à partir du 1er janvier 2020.
 
 IV.-Moyens de contrôle : le concessionnaire sera tenu d'établir et d'entretenir, à ses frais, des repères et dispositifs destinés à permettre la vérification sur place du respect des niveaux et débits mentionnés au présent article ; l'emplacement et le détail de ces repères et dispositifs seront définis par le règlement d'eau.
+
+III-4. Dérogation pour l'hiver 2022-2023
+
+Par dérogation au paragraphe III-2, jusqu'au 31 mars 2023 au plus tard, la valeur des débits restitués dans le Vieux-Rhin de novembre à mars inclus est fixée à 40 m3/ s pour les jours où le système électrique est tendu, après signal du gestionnaire du réseau électrique. Cette valeur est temporairement fixée à 30 m3/ s pour les jours où le système électrique est très tendu et que des coupures sont inévitables sans réduction de la consommation d'électricité, après signal du gestionnaire du réseau électrique.
+
+La production de l'énergie électrique nette supplémentaire générée par l'abaissement de la valeur du débit restitué au Vieux-Rhin au niveau des aménagements hydroélectriques de Kembs, Ottmarsheim, Fessenheim et Vogelgrun fait l'objet d'une comptabilisation séparée par le concessionnaire.
 
 Article 18 : Ouvrages relatifs aux poissons
 
