@@ -1,57 +1,283 @@
-# Article Annexe
+# Article Annexe I
 
-SITUATION D'ÉVALUATION CERTIFICATIVE DES UC3 ET UC4 DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “PERFECTIONNEMENT SPORTIF” MENTION “MOTOCYCLISME”
+RÉFÉRENTIEL D'ACTIVITÉS, DE COMPÉTENCES ET D'ÉVALUATION DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ”, MENTION “ MOTOCYCLISME ”
 
-Les épreuves certificatives sont évaluées dans les conditions prévues à l'article A. 212-26 du code du sport par au moins deux évaluateurs dont au moins un expert choisi sur la liste des experts établie par le directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale (DRDJSCS), par le directeur régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par le directeur de la jeunesse, des sports et de la cohésion sociale (DJSCS).
+Le titulaire du DEJEPS motocyclisme a vocation à intervenir notamment dans le domaine de l'enseignement et de l'entraînement sportif, de la formation dans le champ motocyclisme sur tout type de véhicule motorisé à guidon, mais aussi dans le développement de l'activité.
 
-Le directeur technique national du motocyclisme propose au DRDJSCS, au DRJSCS ou au DJSCS les noms des personnes qualifiées qu'il souhaite faire figurer sur ladite liste.
+L'activité économique du titulaire du DEJEPS motocyclisme se développe principalement dans les champs du tourisme sportif et de l'entraînement sportif.
 
-Epreuve certificative de l'UC 3 :
+Le titulaire du DE JEPS motocyclisme :
 
-L'épreuve est composée des trois modalités suivantes (A, B et C) :
+-enseigne et entraîne dans tout type de structure ;
 
-Modalités A : production et soutenance d'un dossier portant sur un cycle d'entraînement suivi d'un entretien :
+-coordonne les actions des encadrants d'une structure associative ou d'une entreprise ;
 
-Dans les conditions fixées par le directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale (DRDJSCS), par le directeur régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par le directeur de la jeunesse, des sports et de la cohésion sociale (DJSCS), le candidat transmet :
+-participe à des actions de formation fédérales ou professionnelles ;
 
-- un document écrit personnel de vingt pages, hors annexes, qui porte sur l'analyse d'une expérience de conception, de mise en œuvre et d'évaluation d'un cycle d'entraînement sportif pour la saison en cours, dans une spécialité du sport motocycliste, choisie par le candidat.
+-développe sa structure et contribue au développement durable des différentes disciplines du motocyclisme sur son territoire.
 
-Le cycle d'entraînement s'adresse à un public âgé de 12 ans et plus, composé de compétiteur(s) engagé(s) dans un programme sportif de niveau régional au minimum.
+Les structures employeuses des titulaires du DEJEPS motocyclisme sont des associations sportives, des structures commerciales, des centres de vacances, des collectivités territoriales et des gestionnaires d'espaces de pratique. |
 
-Le document constitue le support d'un entretien d'une durée de 40 minutes au maximum dont une soutenance orale par le candidat pendant une durée de 20 minutes au maximum.
+RÉFÉRENTIEL D'ACTIVITÉS
 
-L'entretien est réalisé au sein de la structure d'alternance pédagogique du candidat ou du centre de formation.
+Décrit les situations de travail et les activités exercées, les métiers ou emplois visés. |
 
-Modalités B : conduite d'une séance d'entraînement suivie d'un entretien.
+RÉFÉRENTIEL DE COMPÉTENCES
 
-La conduite de la séance d'entraînement est réalisée au sein de la structure d'alternance pédagogique du candidat. Elle s'adresse à un public composé à minima de 2 pilotes et au maximum de 6 pilotes, âgés de 12 ans et plus et d'un niveau régional au minimum.
+Identifie les compétences et les connaissances, y compris transversales, qui découlent du référentiel d'activités. |
 
-Le candidat présente aux évaluateurs le groupe de sportifs (âge, niveau sportif, …) et annonce le thème de la séance et remet aux évaluateurs une préparation de sa séance d'entraînement qui précise les objectifs visés ainsi que le déroulé de la séance. Le candidat conduit la séance d'entraînement d'une durée comprise entre 1 heure minimum à 2 heures maximum. La séance d'entraînement est suivie d'un entretien de 30 minutes maximum.
+RÉFÉRENTIEL D'ÉVALUATION
 
-Modalités C : conduite d'une action de formation suivie d'un entretien.
+Définit les critères et les modalités d'évaluation des acquis
 
-La conduite d'une action de formation est réalisée au sein de la structure d'alternance pédagogique du candidat ou du centre de formation.
+Les modalités d'évaluation des unités capitalisables (UC) 1 et 2 sont définies à l'article A. 212-52 du code du sport
 
-Elle consiste à conduire une action de formation fédérale ou professionnelle de formation en face-à-face pédagogique dans le domaine du sport motocycliste d'une durée comprise entre 1 heure minimum à 2 heures maximum, pour un public de 4 stagiaires minimum.
+Les modalités d'évaluation des unités capitalisables (UC) 3 et 4 sont définies à l'annexe III du présent arrêté. |
 
-Le candidat remet aux évaluateurs une préparation de son action de formation qui précise notamment le positionnement de son action dans le cursus de formation des stagiaires et les objectifs de son action. L'action de formation est suivie d'un entretien de 30 minutes maximum.
+|
 
-Epreuve certificative de l'UC 4 :
+|
 
-L'épreuve porte sur la conduite d'une séance d'enseignement avec un public composé a minima de 4 pratiquants à 8 pratiquants maximum, non compétiteurs, suivie d'un entretien. Elle est réalisée en centre ou au sein de la structure d'alternance du candidat.
+MODALITÉS D'ÉVALUATION |
 
-Elle permet de vérifier les compétences en matière de sécurité au regard des situations proposées aux pratiquants et du niveau de prise de risque maîtrisé.
+CRITÈRES D'ÉVALUATION |
 
-Le jour de l'épreuve, les caractéristiques du public (nombre, âge, niveau de pratique…), les machines utilisées, ainsi que le site de pratique et le matériel pédagogique mis à disposition, sont portés à la connaissance du candidat.
+UC1-CONCEVOIR UN PROJET D'ACTION |
 
-Les évaluateurs informent le candidat du thème de la séance, fixé en cohérence avec le public présent, les machines utilisées et le site de pratique, et en concertation avec le responsable du centre de formation ou de la structure d'alternance.
+Participation à la conception de projets et à la direction d'une structure de motocyclisme
 
-Le candidat dispose de 30 minutes maximum pour préparer sur un support écrit, une séance d'enseignement d'une durée comprise entre 30 minutes au minimum à 40 minutes maximum. Le support écrit de la séance décrivant le déroulé de la séance, est remis aux évaluateurs en début de séance.
+Contribution à l'analyse des attentes des prescripteurs en prenant en compte les caractéristiques physiques, cognitives et psychiques des publics impliqués
 
-Le candidat dispose de 15 minutes maximum pour mettre en place la séance avant de la débuter.
+Participation au temps de concertation avec les instances dirigeantes en adaptant les modalités de communication de l'information aux singularités de son interlocuteur pour favoriser l'intégration de tous
 
-La séance est suivie d'un entretien d'une durée de 30 minutes maximum.
+Proposition d'actions dans le cadre des objectifs de la structure de motocyclisme en lien avec les spécificités des publics encadrés
 
-NOTA :
+Élaboration et partage de programmes sportifs en motocyclisme adaptés aux caractéristiques et besoins de chacun
 
-Conformément à l'article 5 II de l'arrêté du 28 janvier 2019, les présentes dispositions s'appliquent à toute nouvelle demande d'habilitation déposée à compter de la date de publication dudit arrêté.
+Anticipation des évolutions possibles du projet d'action en prenant en compte les caractéristiques singulières des différents publics notamment ceux en situation de handicap |
+
+C1. 1-Analyser les enjeux du contexte socioprofessionnel en tenant compte des particularités des publics impliqués
+
+C1. 2-Formaliser les éléments d'un projet d'action en lien avec les caractéristiques physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués
+
+C1. 3-Définir les moyens nécessaires à la mise en œuvre d'un projet d'action en prenant en compte les spécificités physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués |
+
+Une seule situation d'évaluation permet d'évaluer de façon distincte les UC 1 et 2.
+
+La situation d'évaluation certificative est réalisée au moyen de :
+
+-un document écrit analysant une expérience de conception et de coordination de la mise en œuvre de programmes de perfectionnement sportif en motocyclisme,
+
+-une soutenance orale. |
+
+Le candidat :
+
+-Inscrit son action dans le cadre des orientations et des valeurs de la structure de motocyclisme, dans une perspective éducative et intégrative
+
+-Participe à des diagnostics sur un territoire
+
+-Inscrit son action dans le cadre des politiques publiques locales
+
+-Prend en compte les réalités sociales, éducatives et culturelles des publics concernés et leurs caractéristiques spécifiques
+
+-Agit dans le cadre des réseaux professionnels et institutionnels locaux
+
+-Implique les bénévoles dans la conception en prenant en compte les caractéristiques spécifiques de chacun afin de favoriser la dimension collective du travail en équipe et l'intégration de tous
+
+-Définit les objectifs d'un projet d'action
+
+-Propose les démarches pédagogiques adaptées aux objectifs et aux publics pour répondre aux objectifs et aux besoins particuliers des publics.
+
+-Organise la mise en œuvre de démarches participatives
+
+-Conçoit des démarches d'évaluation
+
+-Compose une équipe d'intervenants en favorisant la dimension collective du travail en équipe et l'intégration de tous
+
+-Élabore un budget prévisionnel
+
+-Négocie avec sa hiérarchie les financements du projet d'action
+
+-Prend en compte l'impact de son action sur l'environnement professionnel |
+
+UC2 : COORDONNER LA MISE EN ŒUVRE D'UN PROJET D'ACTION |
+
+Coordination d'une équipe bénévole et professionnelle au sein d'une structure de motocyclisme
+
+Organisation des collaborations entre professionnels et bénévoles en adaptant les modalités de communication, les objectifs, les moyens et outils aux particularités de chaque membre de l'équipe pour favoriser l'intégration de tous
+
+Gestion de la dynamique de groupe en incluant chaque membre au regard de ses caractéristiques et besoins particuliers
+
+Définition des choix techniques et stratégiques
+
+Conception de la communication adaptée aux caractéristiques singulières du public visé
+
+Représentation de la structure auprès des différents acteurs et partenaires |
+
+C2. 1-Animer une équipe de travail en favorisant la dimension collective et l'intégration de tous
+
+C2. 2-Promouvoir les actions programmées en adaptant les modalités de communication aux singularités de son interlocuteur
+
+C2. 3-Gérer la logistique des programmes d'action
+
+C2. 4-Animer la démarche qualité |
+
+Une seule situation d'évaluation permet d'évaluer de façon distincte les UC 1 et 2.
+
+La situation d'évaluation certificative est réalisée au moyen de :
+
+-un document écrit analysant une expérience de conception et de coordination de la mise en œuvre de programmes de perfectionnement sportif en motocyclisme,
+
+-une soutenance orale. |
+
+Le candidat :
+
+-Participe au recrutement en veillant à respecter l'intégration de tous
+
+-Anime les réunions au sein de la structure de motocyclisme en adaptant les objectifs, plan d'actions, démarches et outils aux particularités de chaque membre de l'équipe pour favoriser l'intégration de tous
+
+-Met en œuvre les procédures de travail adaptées aux caractéristiques spécifiques des acteurs
+
+-Participe aux actions de tutorat dans la structure de motocyclisme en prenant en compte les caractéristiques spécifiques du tutoré
+
+-Facilite les démarches participatives au sein de la structure de motocyclisme afin de favoriser l'intégration de tous
+
+-Accompagne le développement des membres de l'équipe en prenant en compte les caractéristiques et besoins particuliers de manière à favoriser l'intégration
+
+-Représente la structure de motocyclisme
+
+-Conçoit une démarche de communication
+
+-Participe aux actions des réseaux partenaires
+
+-Contrôle le budget des actions programmées
+
+-Gère les partenariats financiers
+
+-Planifie l'utilisation des espaces de pratiques et des moyens matériels adaptés aux caractéristiques des publics
+
+-Rend compte de l'utilisation des moyens financiers
+
+-Anticipe les besoins en termes logistique
+
+-Organise la maintenance technique
+
+-Veille au respect des procédures de travail
+
+-Adapte le programme d'action en cas de nécessité
+
+-Effectue le bilan des actions réalisées |
+
+UC3 : CONDUIRE UNE DÉMARCHE DE PERFECTIONNEMENT SPORTIF EN MOTOCYCLISME |
+
+Encadrement d'activités d'enseignement et d'entraînement de perfectionnement sportif en motocyclisme
+
+Proposition de programme de perfectionnement sportif dans le cadre des objectifs de la structure de motocyclisme adapté aux caractéristiques spécifiques des publics encadrés
+
+Définition des modes d'intervention à caractère technique adaptées au niveau de progression technique et aux caractéristiques spécifiques des pratiquants
+
+Proposition des démarches d'entrainement adaptés aux objectifs et aux caractéristiques spécifiques des compétiteurs
+
+Encadrement des apprentissages techniques en motocyclisme en prenant en compte les caractéristiques spécifiques des pratiquants
+
+Conduite des temps de perfectionnement en motocyclisme en lien avec les singularités des pratiquants
+
+Analyse les potentiels et les limites des compétiteurs en lien avec leurs spécificités
+
+Accompagnement des compétiteurs dans l'analyse de leur pratique en adaptant les démarches et outils pédagogiques à leurs caractéristiques spécifiques
+
+Conception d'interventions dans le champ de la formation en motocyclisme à partir des singularités des stagiaires
+
+Mise en œuvre de situations formatives en motocyclisme à partir des singularités des stagiaires |
+
+C3. 1-Conduire une démarche d'enseignement en motocyclisme en prenant en compte les particularités physiques, motrices, sensorielles, cognitives et psychiques de tous les pratiquants
+
+C3. 2-Conduire une démarche d'entraînement en motocyclisme à partir des caractéristiques singulières adaptées aux objectifs de perfectionnement sportif des pratiquants
+
+C3. 3-Conduire des actions de formation en motocyclisme en prenant en compte les singularités physiques, motrices, sensorielles, cognitives et psychiques des pratiquants |
+
+La situation d'évaluation certificative est réalisée au moyen de :
+
+1) Une épreuve certificative commune aux UC 3 et 4 réalisée au moyen d'une mise en situation professionnelle relative à une conduite de séance d'entraînement dans l'une des disciplines du motocyclisme pour un public compétiteur suivie d'un entretien.
+
+2) Une épreuve certificative composée de :
+
+A°-un document personnel écrit portant sur un cycle de séances d'entraînement dans l'une des disciplines du motocyclisme et une séance d'enseignement dans l'une des disciplines du motocyclisme,
+
+-un entretien.
+
+B°-un document personnel écrit portant sur un cycle de séquences de formation fédérale dans l'une des disciplines du motocyclisme,
+
+-un entretien. |
+
+Le candidat :
+
+-Définit une progression pédagogique en motocyclisme adaptée aux caractéristiques spécifiques des publics encadrés
+
+-Conduit un enseignement en motocyclisme adapté aux caractéristiques spécifiques des publics encadrés
+
+-Régule son intervention en fonction des réactions du public
+
+-Évalue un cycle d'enseignement en motocyclisme notamment au regard de la prise en compte des caractéristiques et des besoins particuliers des pratiquants
+
+-Définit le plan d'entraînement en motocyclisme adapté aux spécificités des publics encadrés
+
+-Conduit l'entraînement en motocyclisme en prenant en compte les caractéristiques physiques, motrices, sensorielles, cognitives et psychiques des pratiquants
+
+-Encadre un groupe dans le cadre de la compétition en motocyclisme en prenant en compte la singularité de chaque pratiquant
+
+-Évalue le cycle d'entraînement en motocyclisme
+
+-Élabore des scénarios pédagogiques en motocyclisme adapté au caractéristiques singulières de chaque stagiaire
+
+-Prépare les supports de ses interventions en motocyclisme en adaptant les modalités de transmission de l'information aux singularités de son public afin de s'assurer de sa compréhension par tous
+
+-Met en œuvre une situation formative en motocyclisme en prenant en compte les singularités motrices, sensorielles, cognitives et psychiques des pratiquants et des stagiaires
+
+-Adapte son intervention aux réactions et aux caractéristiques spécifiques des stagiaires en motocyclisme
+
+-Évalue des actions de formation en motocyclisme au regard de la prise en compte des caractéristiques et des besoins particuliers des stagiaires |
+
+UC 4 : ENCADRER LE MOTOCYCLISME EN SÉCURITÉ |
+
+Encadrement du motocyclisme en assurant la sécurité des pratiquants, des tiers et de lui-même
+
+Encadrement du motocyclisme en assurant la sécurité des pratiquants et des tiers, et en préservant l'intégrité physique et psychique des pratiquants au regard de leurs singularités
+
+Vérification de la conformité du materiel technique necessaire à la realisation de l'activité motocyclisme en prenant en compte les caractéristiques singulières des pratiquants
+
+Vérification de la conformité des lieux de travail au regard des normes d'hygiène et de sécurité en motocyclisme |
+
+C4. 1-Réaliser en sécurité les démonstrations techniques en motocyclisme
+
+C4. 2-Adapter sa posture pédagogique et les démarches d'intervention afin que chaque sportif évolue en sécurité
+
+C4. 3-Réaliser les gestes professionnels nécessaires à la sécurité des pratiquants de motocyclisme en prenant en compte leurs caractéristiques singulières physiques, motrices, sensorielles, cognitives et psychiques
+
+C4. 4-Assurer la sécurité des pratiquants et des tiers en motocyclisme tout en impliquant les pratiquants dans la gestion de leur propre sécurité et de celle des tiers |
+
+Une épreuve certificative commune permet d'évaluer de façon distincte les UC 3 et 4.
+
+L'épreuve certificative est réalisée au moyen d'une mise en situation professionnelle relative à une conduite de séance d'entraînement dans l'une des disciplines du motocyclisme pour un public compétiteur suivie d'un entretien. |
+
+Le candidat :
+
+-Évalue ses propres capacités à effectuer une démonstration technique en motocyclisme
+
+-Explicite les différents éléments de la démonstration technique en motocyclisme en choisissant des moyens de transmission de l'information adaptés aux caractéristiques des pratiquants
+
+-Met en œuvre des démarches pédagogiques adaptées permettant au pratiquant d'expérimenter la discipline en sécurité
+
+-Évalue et anticipe les risques objectifs et potentiels liés à la pratique du motocyclisme pour le pratiquant en accordant une vigilance particulière à ses caractéristiques singulières (physiques, motrices, sensorielles, cognitives et psychiques)
+
+-Maîtrise le comportement et les gestes à réaliser en cas d'incident ou d'accident en motocyclisme en prenant en compte les singularités du pratiquant
+
+-Évalue les risques objectifs liés au contexte de pratique du motocyclisme
+
+-Anticipe les risques juridiques liés à la pratique du motocyclisme et au milieu dans lequel il se pratique
+
+-Assure la sécurité passive des équipements de motocyclisme
+
+-Prévient les comportements à risque en motocyclisme
+
+-Agit ou fait appel à un tiers lorsqu'il rencontre ses propres limites, pour préserver l'intégrité physique et psychique en cas de maltraitance des mineurs et des personnes vulnérables |
