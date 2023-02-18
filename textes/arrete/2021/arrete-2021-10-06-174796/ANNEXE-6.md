@@ -2,6 +2,30 @@
 
 MÉTHODOLOGIE DE L'ÉVALUATION CARBONE SIMPLIFIÉE
 
+Cette évaluation est réalisée par un organisme certificateur disposant d'une accréditation selon la norme EN ISO 17065 ainsi qu'une accréditation EN ISO 17025 portant sur le produit module photovoltaïque (IEC 61215 et IEC 61730 en cours de validité), délivrées par l'instance nationale d'accréditation, ou l'instance nationale d'accréditation d'un autre Etat membre de l'Union européenne, membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux.
+
+Pour que l'évaluation carbone simplifiée soit considérée comme valide, l'approvisionnement et l'origine de chacun des matériaux nécessaires à la fabrication des modules ou des films photovoltaïques devra être documenté lors de sa réalisation.
+
+Le certificat doit mentionner a minima :
+
+- pour les modules photovoltaïques en silicium cristallin, le caractère (numéro ou lettre) d'identification, présent également dans le code produit de chaque module, et comportant a minima les éléments suivants :
+
+- la référence des plaquettes de silicium utilisées dans le module, cette référence devant comporter le caractère (numéro ou lettre) d'identification unique du site de fabrication des plaquettes de silicium ;
+
+- la référence des cellules utilisées dans le module, cette référence devant comporter le caractère(numéro ou lettre) d'identification unique du site de fabrication des cellules ;
+
+- le caractère (numéro ou lettre) d'identification unique du site d'assemblage du module ; ˗pour les modules photovoltaïques en couche mince, le caractère (numéro ou lettre) d'identification unique du site d'assemblage du module.
+
+Le certificat doit également mentionner :
+
+- le nom et l'adresse des sites de production susmentionnés ;
+
+- pour chacun de ces sites de production, les étapes de production réalisées sur le site de production ;
+
+- la date du dernier audit réalisé sur le site d'assemblage du module.
+
+Si l'installation comporte plusieurs types de modules, la valeur carbone considérée sera la moyenne des bilans carbone de chaque type de module pondérée par les puissances crêtes de ces différents types de modules ;
+
 1. Hypothèses et périmètre d'évaluation de la méthode d'évaluation carbone simplifiée
 
 L'évaluation carbone simplifiée de la centrale photovoltaïque se fonde uniquement sur l'évaluation carbone simplifiée du laminé photovoltaïque (module photovoltaïque sans cadre). Les émissions de gaz à effet de serre liées aux autres composants de la centrale ne sont pas considérées.
@@ -186,7 +210,7 @@ Unité |
 
 |
 
-Le document confirmant la validation de l'ADEME pour la nouvelle valeur de GWPij unitaire doit être joint à l'évaluation carbone simplifiée. Le document confirmant la validation de l'ADEME pour la nouvelle valeur de GWPij unitaire est valable pendant toute la durée et toutes les périodes de dépôt du présent appel d'offres. Au vu du changement de méthode, les attestations délivrées par l'ADEME dans le cadre d'appels d'offres antérieurs ne sont pas applicables pour le présent appel d'offres, à l'exception de la dérogation prévue au 3.2.5 pour la première, la deuxième, troisième et quatrième période de candidature. A partir de la septième période, l'évaluation carbone simplifiée du laminé photovoltaïque ne peut prendre en compte un taux de silicium recyclé (valeurs de GWPij obtenu par la 2e méthode de calcul, cf. supra) supérieur à :
+Le document confirmant la validation de l'ADEME pour la nouvelle valeur de GWPij unitaire doit être joint à l'évaluation carbone simplifiée. L'évaluation carbone simplifiée du laminé photovoltaïque ne peut prendre en compte un taux de silicium recyclé (valeurs de GWPij obtenu par la 2e méthode de calcul, cf. supra) supérieur à :
 
 -25 % dans le cas des panneaux photovoltaïques polycristallins (famille " Multi ") ;
 

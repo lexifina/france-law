@@ -386,6 +386,8 @@ Le contrôle individuel des connaissances pratiques est réalisé, de manière p
 
 -le cas échéant, une synthèse des jurys d'agrément de formateurs.
 
+Les organismes souhaitant devenir organisme de contrôle de la formation adressent une demande de conventionnement au ministre chargé de l'énergie.
+
 6. Exigences quant aux contrôles de réalisation
 
 L'auditeur devra vérifier les points suivants :

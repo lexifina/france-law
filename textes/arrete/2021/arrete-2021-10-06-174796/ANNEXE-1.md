@@ -4,7 +4,7 @@ TARIFS D'ACHAT ET PRIMES
 
 1. Conformément à l'article R. 314-17 du code de l'énergie, l'énergie active est facturée à l'acheteur obligé sur la base des tarifs définis ci-dessous. Ils sont exprimés en c€/kWh hors TVA.
 
-2. Pour chaque trimestre civil, représenté par l'indice i, il est défini un coefficient Si et un coefficient S'i en fonction de la somme des puissances crête des demandes complètes de raccordement pour des installations de puissance inférieure ou égale à 9 kWc sur l'ensemble du territoire métropolitain durant le trimestre civil, selon les dispositions suivantes :
+2. Pour chaque trimestre civil, représenté par l'indice i, il est défini un coefficient Si et un coefficient S'i en fonction de la somme des puissances crête des demandes complètes de raccordement pour des installations éligibles au tarif Ta ou à la prime Pa sur l'ensemble du territoire métropolitain durant le trimestre civil, selon les dispositions suivantes :
 
 Puissance crête cumulée des installations souhaitant bénéficier du tarif Ta ou de la prime Pa pour lesquelles une demande complète de raccordement a été effectuée durant le trimestre civil i, pour i supérieur ou égal à 1 |
 
@@ -18,7 +18,7 @@ du coefficient S'i |
 
 Supérieure à 84 MWc |
 
-0, 00113* (PDCR-42) + 0,0125 |
+0,00035* (PDCR-42) + 0,0125 |
 
 0,102 |
 
@@ -46,7 +46,7 @@ PDCR est la puissance crête cumulée des installations souhaitant bénéficier 
 
 Par dérogation, les coefficients S1, S2, S3, S'1, S'2, S'3 et S'4 sont égaux à 0.
 
-3. Pour chaque trimestre civil, représenté par l'indice i, il est défini un coefficient Vi et un coefficient V'i en fonction de la somme des puissances crête des demandes complètes de raccordement pour des installations de puissance strictement supérieure à 9 kWc et inférieure ou égale à 100 kWc effectuées sur l'ensemble du territoire métropolitain durant le trimestre civil, selon les dispositions suivantes :
+3. Pour chaque trimestre civil, représenté par l'indice i, il est défini un coefficient Vi et un coefficient V'i en fonction de la somme des puissances crête des demandes complètes de raccordement pour des installations éligibles au tarif Tb ou à la prime Pb effectuées sur l'ensemble du territoire métropolitain durant le trimestre civil, selon les dispositions suivantes :
 
 Puissance crête cumulée des installations souhaitant bénéficier du tarif Tb ou de la prime Pb pour lesquelles une demande complète de raccordement a été effectuée durant le trimestre civil i pour i supérieur ou égal à 1 |
 
@@ -88,7 +88,7 @@ PDCR est la puissance crête cumulée des installations souhaitant bénéficier 
 
 Par dérogation, les coefficients V1, V2, V3, V'1, V'2, V'3 et V'4 sont égaux à 0.
 
-4. Pour chaque trimestre civil, représenté par l'indice i, il est défini un coefficient Wi et un coefficient W'i en fonction de la somme des puissances crête des demandes complètes de raccordement pour des installations de puissance strictement supérieure à 100 kWc et inférieure ou égale à 500 kWc effectuées sur l'ensemble du territoire métropolitain durant le trimestre civil, selon les dispositions suivantes :
+4. Pour chaque trimestre civil, représenté par l'indice i, il est défini un coefficient Wi et un coefficient W'i en fonction de la somme des puissances crête des demandes complètes de raccordement pour des installations éligibles au tarif Tc effectuées sur l'ensemble du territoire métropolitain durant le trimestre civil, selon les dispositions suivantes :
 
 Puissance crête cumulée des installations souhaitant bénéficier du tarif Tc pour lesquelles une demande complète de raccordement a été effectuée durant le trimestre civil i pour i supérieur ou égal à 2 |
 
@@ -108,7 +108,7 @@ Supérieure à 530 MWc |
 
 Supérieure à 265 MW et inférieure ou égale à 530 MWc |
 
-0, 00035* (PDCR-265) + 0,0125 |
+0,0001796* (PDCR-265) + 0,0125 |
 
 0 |
 
@@ -120,7 +120,7 @@ Supérieure à 132,5 MW et inférieure ou égale à 265 MWc |
 
 Inférieure ou égale à 132,5 MWc |
 
-0, 00035* (PDCR-132,5) + 0,0125 |
+0,0001796* (PDCR-132,5) + 0,0125 |
 
 0 |
 
@@ -178,17 +178,31 @@ est égal à 1 lorsque N est inférieur ou égal 5, et est égal au produit des 
 
 Le paramètre KN est un coefficient d'indexation établi comme suit lorsque la demande complète de raccordement est effectuée durant le trimestre tarifaire qui suit le trimestre civil d'indice N :
 
-KN = 0,5 × ICHTrev-TS/ ICHTrev-TSo + 0,5 × FM0ABE0000/ FM0ABE0000o
+KN = K3 × (1 + 4 × (TauxDette-TauxDette0)) × (0,35 × (ICHTREV-TS/ ICHTREV-TS0) + 0,54 × (FM0ABE0000/ FM0ABE00000) + 0,04 × (IndexAlu/ IndexAlu0) + 0,01 × (InexCu/ IndexCu0) + 0,05 × (IndexAcier/ IndexAcier0) + 0,01 × (IndexTransport/ IndexTransport0)
 
 Formule dans laquelle :
 
-1° ICHTrev-TS est la dernière valeur définitive connue au premier jour du trimestre civil d'indice N, de l'indice du coût horaire du travail révisé (tous salariés) dans les industries mécaniques et électriques ;
+1° K3 le coefficient d'indexation calculé pour le trimestre civil N = 3 avec la formule d'indexation en vigueur dans la version antérieure de l'arrêté du 6 octobre 2021 ;
 
-2° FM0ABE0000 est la dernière valeur définitive connue au premier jour du trimestre civil d'indice N, de l'indice des prix à la production de l'industrie française pour le marché français, ensemble de l'industrie, A10 BE, prix départ usine ;
+2° TauxDette est la moyenne des dernières valeurs définitives connues des indices Iboxx Corporates 10-15 ans sur les 3 mois civils précédents le premier jour du trimestre civil d'indice N-1 ;
 
-3° ICHTrev-TSo et FM0ABE0000o sont les valeurs définitives correspondant au mois de septembre 2020.
+3° ICHTrev-TS est la dernière valeur définitive connue au premier jour du trimestre civil d'indice N, de l'indice du coût horaire du travail révisé (tous salariés) dans les industries mécaniques et électriques ;
 
-Par exception, pour N inférieur ou égal à 0, KN est pris égal à 1.
+4° FM0ABE0000 est la dernière valeur définitive connue au premier jour du trimestre civil d'indice N, de l'indice des prix à la production de l'industrie française pour le marché français, ensemble de l'industrie, A10 BE, prix départ usine ;
+
+5° IndexAlu est la dernière valeur définitive connue au premier jour du trimestre civil d'indice N, de l'indice de prix de production de l'industrie française pour le marché français − CPF 24.42 − Aluminium 010534657 ;
+
+6° IndexCu est la dernière valeur définitive connue au premier jour du trimestre civil d'indice N, de l'indice de prix de production de l'industrie française pour le marché français − CPF 24.44 − Cuivre 010534659 ;
+
+7° IndexAcier est la dernière valeur définitive connue au premier jour du trimestre civil d'indice N, de l'indice de prix de production de l'industrie française pour le marché français − CPF 24.10 − Acier pour la construction 010536462 ;
+
+8° IndexTransport est la dernière valeur définitive connue au premier jour du trimestre civil d'indice N, de l'indice des prix de production des services français aux entreprises françaises (BtoB) − CPF 50A − Transport maritime et côtier 010546102 ;
+
+9° TauxDette0 est la dernière valeur définitive connue de l'indice TauxDette au 1er avril 2022 ;
+
+10° ICHTrev-TSo, FM0ABE00000, IndexAlu0, IndexCu0, IndexAcier0 et IndexTransport0 sont les dernières valeurs définitives de ces indices au 1er juillet 2022.
+
+Cette formule s'applique aux projets pour lesquels la demande complète de raccordement a été déposée à partir du 1er novembre 2022 et pour les projets éventuellement modifiées dans les conditions indiquées au 10° du I de l'article 7 lorsque la demande de modification intervient après le 1er novembre 2022. Pour les autres projets, ce sont les dispositions de l'arrêté du 6 octobre 2021 dans sa version antérieure qui s'appliquent.
 
 Le cas échéant, les valeurs du tarif Ta et de la prime Pa, calculées sans arrondi intermédiaire, sont arrondies à la seconde décimale.
 
@@ -278,28 +292,28 @@ Segment de puissance (kWc) |
 
 prime à l'intégration paysagère (€/Wc) |
 
-Pour les installation dont la demande complète de raccordement a été déposée à compter de la date d'entrée en vigueur de l'arrêté et jusqu'à la veille de la première date anniversaire de son entrée en vigueur, tant que la puissance crête cumulée n'excède pas 30 MW. |
+Pour les installations dont la demande complète de raccordement a été déposée à compter de la date d'entrée en vigueur de l'arrêté et jusqu'à la veille de la première date anniversaire de son entrée en vigueur, dans la limite d'un volume de 30 MW. |
 
-Pour les installation dont la demande complète de raccordement a été déposée à compter de la première date anniversaire d'entrée en vigueur de l'arrêté et jusqu'à la veille de la seconde date anniversaire de son entrée en vigueur tant que la puissance crête cumulée n'excède pas 115 MW. |
+Pour les installations dont la demande complète de raccordement a été déposée à compter de la première date anniversaire d'entrée en vigueur de l'arrêté et jusqu'à la veille de la seconde date anniversaire de son entrée en vigueur dans la limite d'un volume de 115 MW. |
 
-< 100 kWc |
+inférieure ou égale à 100 kWc |
 
 0,238 |
 
 0,133 |
 
-100 à 250 kWc |
+supérieure strictement à 100 et inférieure ou égale à 250 kWc |
 
 0,235 |
 
 0,128 |
 
-250 à 500 kWc |
+supérieure strictement à 250 et inférieure ou égale à 500 kWc |
 
 0,233 |
 
 0,125 |
 
-NOTA :
+La puissance prise en compte pour déterminer le niveau de la prime est la puissance de l'installation cumulée avec les puissances installées de l'ensemble des autres installations raccordées ou en projet sur le même site d'implantation qui bénéficient également de la prime à l'intégration paysagère au titre d'une demande déposée dans le même intervalle de temps entre deux dates anniversaires de la date d'entrée en vigueur du présent arrêté.
 
-Se reporter aux modalités d'application prévues par l'article 3 de l'arrêté du 28 juillet 2022 (NOR : ENER2221742A).
+La notion de “même site” est évaluée au regard des définitions de l'article 2 et des dispositions de l'annexe 3 du présent arrêté.
