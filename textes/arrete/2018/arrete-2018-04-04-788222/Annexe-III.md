@@ -34,7 +34,7 @@ Le candidat conduit en sécurité dans sa structure d'alternance pédagogique la
 
 La séance est suivie d'un entretien de trente minutes au maximum portant sur la conception, la conduite et l'évaluation de la séance ainsi que sur le cycle en y intégrant la progression envisagée pour la prochaine séance.
 
-L'échange avec les évaluateurs permet également de vérifier la capacité du candidat à adopter une démarche intégrative des différents publics dans ses séances d'animation des activités physiques pour tous.
+L'échange avec les évaluateurs permet également de vérifier la capacité du candidat à adopter une démarche intégrative des différents publics dans ses séances d'animation en surf et disciplines associées.
 
 Epreuve certificative de l'unité capitalisable 4
 
