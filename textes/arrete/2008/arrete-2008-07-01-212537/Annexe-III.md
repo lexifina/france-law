@@ -1,12 +1,16 @@
 # Article Annexe III
 
-Tableau récapitulatif des dispenses et équivalences d'unité capitalisable (UC) avec le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité “ perfectionnement sportif ”, mention “ hockey ”
+TABLEAU RÉCAPITULATIF DES DISPENSES DES EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION (EPEF) ET, DES EXIGENCES PRÉALABLES À LA MISE EN SITUATION PROFESSIONNELLE (EPMSP) AINSI QUE DES ÉQUIVALENCES D'UNITÉ CAPITALISABLE (UC) AVEC LE DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ”, MENTION “ HOCKEY ”
 
 |
 
-EPEF* |
+EPEF (*) visés
 
-EPMSP* |
+à l'article 3 |
+
+EPMSP (*) visées
+
+à l'article 5 |
 
 UC 1 |
 
@@ -16,23 +20,9 @@ UC 3 |
 
 UC 4 |
 
-Diplôme défini à l'article L. 212-1 du code du sport ouvrant droit à l'enseignement, à l'animation ou à l'encadrement du hockey ou à l'entrainement de ses pratiquants |
+Sportif de haut niveau en hockey inscrit ou ayant été inscrit sur les listes ministérielles mentionnées à l'article L. 221-2 du code du sport |
 
-X |
-
-X |
-
-|
-
-|
-
-|
-
-|
-
-Sportif de haut niveau en hockey inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l'article L. 221-2 du code du sport. |
-
-X |
+x |
 
 |
 
@@ -44,11 +34,23 @@ X |
 
 |
 
-BEES1 (*) option “ hockey ” ou option “ hockey sur gazon ” |
+Diplôme défini à l'article L. 212-1 du code du sport ouvrant droit à l'enseignement, à l'animation ou à l'encadrement du hockey ou à l'entrainement de ses pratiquants justifiant d'une expérience d'encadrement en hockey d'une année minimum au cours des cinq dernières années |
 
-X |
+x |
 
-X |
+x |
+
+|
+
+|
+
+|
+
+|
+
+BEES (*) 1er degré option “ hockey ” ou option " hockey sur gazon ” |
+
+x |
 
 |
 
@@ -56,13 +58,27 @@ X |
 
 |
 
-X |
+|
+
+|
+
+BEES (*) 1er degré option “ hockey ” ou option “ hockey sur gazon ” justifiant d'une expérience d'encadrement en hockey d'une année minimum au cours des cinq dernières années |
+
+x |
+
+x |
+
+|
+
+|
+
+|
+
+x |
 
 BPJEPS (*) spécialité “ activités sports collectifs ” mention “ hockey ” ou mention “ hockey sur gazon ” |
 
-X |
-
-X |
+x |
 
 |
 
@@ -70,81 +86,27 @@ X |
 
 |
 
-X |
+|
+
+|
+
+BPJEPS (*) spécialité “ activités sports collectifs ” mention “ hockey ” ou mention “ hockey sur gazon ” justifiant d'une expérience d'encadrement en hockey d'une année minimum au cours des cinq dernières années |
+
+x |
+
+x |
+
+|
+
+|
+
+|
+
+x |
 
 BPJEPS (*) spécialité “ activités physiques pour tous ” assorti du certificat de spécialisation “ hockey ”. |
 
-X |
-
-X |
-
-|
-
-|
-
-|
-
-X |
-
-BPJEPS (*) spécialité “ éducateur sportif ” mention “ hockey ”. |
-
-X |
-
-X |
-
-|
-
-|
-
-|
-
-X |
-
-BPJEPS (*) spécialité “ activités physiques pour tous ” assorti du certificat de spécialisation “ hockey ” et diplôme fédéral 3 délivré par la FFH (*) |
-
-X |
-
-X |
-
-X |
-
-X |
-
-|
-
-X |
-
-BPJEPS (*) spécialité “ activités sports collectifs ” mention “ hockey ” ou mention hockey sur gazon et diplôme fédéral 3 délivré par la FFH (*) |
-
-X |
-
-X |
-
-X |
-
-X |
-
-|
-
-X |
-
-BPJEPS (*) spécialité “ éducateur sportif ” mention “ hockey ” et diplôme fédéral 3 délivré par la FFH (*) |
-
-X |
-
-X |
-
-X |
-
-X |
-
-|
-
-X |
-
-Animateur fédéral délivré par la FFH (*) |
-
-X |
+x |
 
 |
 
@@ -156,39 +118,11 @@ X |
 
 |
 
-Entraîneur fédéral délivré par la FFH (*) |
+BPJEPS (*) spécialité “ activités physiques pour tous ” assorti du certificat de spécialisation “ hockey ” justifiant d'une expérience d'encadrement en hockey d'une année minimum au cours des cinq dernières années |
 
-X |
+x |
 
-X |
-
-|
-
-|
-
-|
-
-X |
-
-Entraîneur fédéral expert délivré par la FFH (*) |
-
-X |
-
-X |
-
-X |
-
-X |
-
-|
-
-X |
-
-Diplôme fédéral 3 délivré par la FFH (*) |
-
-X |
-
-X |
+x |
 
 |
 
@@ -196,14 +130,86 @@ X |
 
 |
 
-X |
+x |
+
+BPJEPS (*) spécialité “ éducateur sportif ” mention “ hockey ” |
+
+x |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+BPJEPS (*) spécialité “ éducateur sportif ” mention “ hockey ” justifiant d'une expérience d'encadrement en hockey d'une année minimum au cours des cinq dernières années |
+
+x |
+
+x |
+
+|
+
+|
+
+|
+
+x |
+
+Diplôme fédéral 2 ou Animateur fédéral délivré par la FFH (*) |
+
+x |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Diplôme fédéral 3 ou Entraîneur fédéral délivré par la FFH (*) |
+
+x |
+
+x |
+
+|
+
+|
+
+|
+
+x |
+
+Entraîneur fédéral expert délivré par la FFH (*) délivré avant le 1er janvier 2014 |
+
+x |
+
+x |
+
+x |
+
+x |
+
+|
+
+x |
+
+UC : unité capitalisable.
 
 (*) EPEF : exigences préalables à l'entrée en formation.
 
-(*) EPMSP : exigences préalables à la mise en situation pédagogique.
+(*) EPMSP : exigence préalable à la mise en situation professionnelle.
 
-(*) BEES1 : brevet d'Etat d'éducateur sportif du premier degré.
+(*) BEES : brevet d'Etat d'éducateur sportif.
 
 (*) BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
 
-(*) FFH : Fédération française de hockey. |
+(*) FFH : Fédération française de hockey.
