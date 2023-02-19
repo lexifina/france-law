@@ -44,39 +44,43 @@ Chargé de mission adjoint au secrétariat général du Gouvernement
 
 |
 
-Chef de projet chargé de la modernisation de la chaîne numérique de production normative |
+Chef de projet chargé de la modernisation de la chaîne numérique de production normative
+
+|
 
 1 |
-
-Cabinet du Premier ministre
-
-|
-
-Chef de la section des interventions
-
-|
-
-1
-
-|
 
 Secrétariat général de la défense et de la sécurité nationale |
 
-Chef du service technique du groupement interministériel de contrôle |
+Chef de la division des ressources humaines (Agence nationale de la sécurité des systèmes d'information)
+
+|
 
 1 |
 
-Chef du service de la gestion et du contrôle des techniques de renseignement et référent juridique du groupement interministériel de contrôle |
+Chef du service de la gestion et du contrôle des techniques de renseignement et référent juridique du groupement interministériel de contrôle
+
+|
 
 1 |
 
 Commissariat général à l'égalité des territoires |
 
-Responsable du pôle pilotage, contrats de ville et coordination |
+Responsable du pôle pilotage, contrats de ville et coordination
+
+|
 
 1 |
 
 Direction des services administratifs et financiers
+
+|
+
+Chef du service de la correspondance du Premier ministre
+
+|
+
+1
 
 |
 
@@ -96,15 +100,15 @@ Chef du bureau du budget
 
 |
 
-Chef du bureau de la gestion des emplois déconcentrés
+Chef du bureau de la gestion des personnels titulaires
 
 |
 
-1
+1 |
+
+Chef du bureau de l'audiovisuel, de l'édition et de la communication
 
 |
-
-Chef du bureau de la gestion des personnels titulaires, de l'expertise de la paie et de la réglementation |
 
 1 |
 
@@ -124,7 +128,7 @@ Direction de l'information légale et administrative
 
 |
 
-Responsable du département de la qualité et du contrôle interne
+Adjoint au responsable du département des ressources humaines
 
 |
 
@@ -140,7 +144,7 @@ Responsable du département de l'information régalienne et économique
 
 |
 
-Responsable du département de l'édition et du débat public
+Adjoint au responsable du département de la logistique, de l'immobilier et des services
 
 |
 
@@ -148,7 +152,7 @@ Responsable du département de l'édition et du débat public
 
 |
 
-Responsable du département de la communication
+Adjoint au responsable du centre d'appels interministériel
 
 |
 
@@ -164,7 +168,7 @@ Responsable du département des ressources humaines
 
 |
 
-Directeur du centre d'appels interministériel
+Responsable du centre d'appels interministériel
 
 |
 

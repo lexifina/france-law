@@ -2,82 +2,46 @@
 
 LISTE DES EMPLOIS ÉLIGIBLES À L'ÉCHELON SPÉCIAL
 
-SERVICES ET DIRECTIONS
+SERVICES ET DIRECTIONS |
 
-|
+FONCTIONS |
 
-FONCTIONS
+Nombre
 
-|
+d'emplois |
 
-NOMBRE
+Secrétariat général du Gouvernement |
 
-d'emplois
+Chef du cabinet du secrétaire général du Gouvernement |
 
-|
+1 |
 
-Secrétariat général du Gouvernement
+Chef de projet modernisation de la chaine numérique de production normative |
 
-|
+1 |
 
-Chef du cabinet du secrétaire général du Gouvernement
+Direction des services administratifs et financiers |
 
-|
+Chef du bureau de la gestion des personnels titulaires |
 
-1
+1 |
 
-|
+Chef du bureau du budget |
 
-Direction des services administratifs et financiers
+1 |
 
-|
+Direction de l'information légale et administrative |
 
-Chef du bureau des achats ministériels
+Responsable du département des ressources humaines |
 
-|
+1 |
 
-1
+Responsable du centre d'appels interministériel |
 
-|
-
-Chef du bureau du budget
-
-|
-
-1
-
-|
-
-Direction de l'information légale et administrative
-
-|
-
-Responsable du département de la qualité et du contrôle interne
-
-|
-
-1
-
-|
-
-Responsable du département de l'édition
-
-|
-
-1
-
-|
-
-Directeur du centre d'appels interministériel
-
-|
-
-1
-
-|
+1 |
 
 Secrétariat général de la défense et de la sécurité nationale |
 
-Chef du service technique du groupement interministériel de contrôle |
+Chef de la division des ressources humaines (Agence nationale de la sécurité des systèmes d'information) |
 
 1 |
