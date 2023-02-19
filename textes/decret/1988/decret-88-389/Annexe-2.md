@@ -8,4 +8,4 @@ Délai minimum pour une demande de mise à disposition.
 
 Assurances (à la charge du bénéficiaire de la mise à disposition).
 
-Modalités d'instruction des demandes (par la direction régionale des affaires culturelles) ; décision.
+Modalités d'instruction des demandes (par la direction régionale des affaires culturelles) : décision.
