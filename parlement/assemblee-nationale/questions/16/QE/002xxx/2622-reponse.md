@@ -1,0 +1,9 @@
+# Réponse à la question n° 2622
+
+- Question : [2622](2622.md) — Question n° 2622 — Financement de l'entretien des réseaux de télécommunication
+
+## Réponse
+
+*JO du 2023-02-21, page 1803*
+
+Dans le cadre de ses lignes directrices de 2015, l'Autorité de régulation des communications électroniques et des postes (ARCEP) a règlementé le tarif sur le segment situé entre le point de mutualisation (PM) et les points de branchements optiques (PBO). Ce tarif se décompose en : un tarif dit « non-récurrent », généralement facturé en deux parties, la première facturation ayant lieu immédiatement après la pose du PM, au moment de sa mise à disposition de l'ensemble des opérateurs commerciaux, et la seconde étant plus progressivement répartie au fur et à mesure de la pose des PBO et de leur mise à disposition ; un tarif dit « récurrent » payé mensuellement par accès mis en service en aval du PM, qui permet de recouvrer la part non cofinancée des coûts de construction du réseau déjà encourus, appelée la réserve, ainsi que les coûts de location du génie civil et les charges d'exploitation. Ce tarif, dit récurrent, fixé aux alentours de 5 euros par ligne et par mois se décompose de la manière suivante : 2 euros de financement de la réserve; 2 euros de financement du génie civil; 1 euro de financement de la maintenance. Ce tarif de gros destiné au cofinancement est pratiqué sur les tous les réseaux FttH, tant en zone privée qu'en zone de réseau d'initiative publique (RIP). Il vise ainsi à couvrir les coûts d'exploitation et de réinvestissements courants. Le gouvernement et l'ARCEP sont attentifs à l'équilibre économique de long terme des RIP. C'est la raison pour laquelle une réflexion est mené par l'ARCEP, l'Agence nationale de la cohésion des territoires (ANCT), et la Direction générale des entreprises (DGE) afin de mieux connaitre les couts d'exploitation et de réinvestissements et élaborer au besoin des adaptations pour assurer une bonne qualité de service.
