@@ -1,0 +1,9 @@
+# Réponse à la question n° 3979
+
+- Question : [3979](3979.md) — Question n° 3979 — Renforcer la sécurité sur les créations d'entreprises frauduleuses
+
+## Réponse
+
+*JO du 2023-02-21, page 1780*
+
+Le Gouvernement est très attaché à la liberté d'entreprendre en France, la simplification administrative et la création d'entreprise. En conséquence, il n'existe pas de délai légal entre la création de deux entreprises par un même entrepreneur ; celui-ci est libre de se lancer dans les activités de son choix à la date qu'il souhaite. Toutefois, le Gouvernement est conscient des faits pénalement répréhensibles constatés qui concernent la fraude à la création d'entreprise et qui pénalisent les concitoyens. Lors de la réalisation de la formalité de création d'entreprise, le dossier fait l'objet d'une validation par un organisme habilité à vérifier les pièces et les mentions déclarées. L'organisme valideur vérifie la validité de la pièce d'identité des entrepreneurs individuels et des dirigeants de société, l'absence d'interdiction de ces personnes à gérer une entreprise qui ferait suite à une condamnation en ce sens, ainsi que la conformité des documents permettant de constituer une société. Cet organisme est le greffe du tribunal de commerce pour les commerçants, les sociétés, les groupements d'intérêt économique -GIE- et les agents commerciaux. Il s'agit aussi de la chambre des métiers et de l'artisanat pour les artisans et de la mutualité sociale agricole pour les entreprises agricoles. D'autres contrôles peuvent être organisés par les URSSAF et les services des impôts des entreprises en lien avec TRACFIN. Le Gouvernement a par ailleurs simplifié l'accès à l'information et au dépôt de plainte : les informations sont désormais accessibles sur le site servcie-public.fr pour déposer plainte pour escroquerie et informer la direction générale de la concurrence, de la consommation et la répression des fraudes (DGCCRF) des faits de fraudes.
