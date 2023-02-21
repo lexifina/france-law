@@ -1,0 +1,9 @@
+# Réponse à la question n° 3668
+
+- Question : [3668](3668.md) — Question n° 3668 — Priorisation de l'agriculture nourricière dans les zones A des PLU
+
+## Réponse
+
+*JO du 2023-02-21, page 1719*
+
+Le ministère de l'agriculture et de la souveraineté alimentaire est particulièrement attentif à l'importance de préserver la souveraineté alimentaire de la France, laquelle ne doit pas conduire à opposer pour autant les différentes formes d'agriculture. Si la vocation première de l'agriculture est productive et nourricière, toutes les activités agricoles contribuent, y compris par leur production non alimentaire issus de filières diverses (bois-énergie, textile, matériaux de construction…) et par les services rendus, à répondre aux enjeux économiques, culturels et environnementaux du territoire. Par ailleurs, les activités de préparation et l'entraînement des équidés domestiques en vue de leur exploitation, à l'exclusion des activités de spectacle, sont réputées agricoles, conformément à l'article L. 311-1 du code rural et de la pêche maritime. Il est en outre impossible de contraindre les exploitants agricoles à réserver les terres à usage ou vocation agricole à un type particulier de mise en valeur agricole de ces espaces. Une telle option n'est pas envisageable au regard de la valeur constitutionnelle de la liberté d'entreprendre. Enfin, en matière de planification de l'urbanisme, l'article L. 101-3 du code de l'urbanisme dispose que « la réglementation de l'urbanisme régit l'utilisation qui est faite du sol, en dehors des productions agricoles, notamment la localisation, la desserte, l'implantation et l'architecture des constructions ». Introduire une possibilité de limitation de l'usage agricole de parcelles agricoles dans les documents d'urbanisme reviendrait à réglementer l'activité agricole, objectif qui n'entre pas dans le domaine d'intervention du plan local d'urbanisme.
