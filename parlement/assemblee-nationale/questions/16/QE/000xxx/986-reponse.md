@@ -1,0 +1,9 @@
+# Réponse à la question n° 986
+
+- Question : [986](986.md) — Question n° 986 — Signalement des anomalies dans la formation des prix
+
+## Réponse
+
+*JO du 2023-02-21, page 1735*
+
+Les anomalies dans la formation des prix que les entreprises sont en mesure de signaler via le point de contact unique qui a été mis en place le 6 juillet 2022 à l'attention de leurs fédérations sur décision du ministre de l'économie, des finances, et de la souveraineté industrielle et numérique, pourraient principalement résulter de pratiques qui seraient contraires aux dispositions des articles L. 420-1 et L. 420-2 du code de commerce. L'article L. 420-1 du code de commerce prohibe les actions concertées, conventions, ententes expresses ou tacites ou coalition ayant pour objet ou pour effet d'empêcher, de restreindre ou de fausser le jeu de la concurrence, notamment lorsqu'elles tendent à « faire obstacle à la fixation des prix par le libre jeu du marché en favorisant artificiellement leur hausse ou leur baisse ». L'article L. 420-2 du code de commerce prohibe les pratiques abusives émanant d'entreprises qui sont en position dominante, qui peuvent notamment être les prix excessivement élevés. Ces deux séries d'interdictions de pratiques anticoncurrentielles édictées par le droit national trouvent leur pendant dans le droit européen de la concurrence aux articles 101 (pour les pratiques visées à l'article L. 420-1 du code de commerce) et 102 (pour celles visées à l'article L. 420-2 de ce code) du Traité sur le fonctionnement de l'Union européenne (TFUE). Le montant maximal de la sanction pécuniaire qui peut être infligée à une entreprise ayant commis un pratique anti-concurrentielle est de 10 % du montant du chiffre d'affaires mondial hors taxes le plus élevé réalisé au cours d'un des exercices clos depuis l'exercice précédant celui au cours duquel les pratiques ont été mises en œuvre.
