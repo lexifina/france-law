@@ -1,0 +1,9 @@
+# Réponse à la question n° 4427
+
+- Question : [4427](4427.md) — Question n° 4427 — Régularité décret 2022-1549 du 8/12/2022 sur les chambres régionales des comptes
+
+## Réponse
+
+*JO du 2023-02-21, page 1773*
+
+L'article 1er du décret n° 2022-1549 du 8 décembre 2022, codifié à l'article R. 245-1-1 du Code des juridictions financières prévoit que « la chambre régionale des comptes peut, de sa propre initiative, procéder à l'évaluation d'une politique publique relevant des collectivités territoriales et organismes soumis à sa compétence de contrôle des comptes et de la gestion. ». Ce décret en Conseil d'État a été publié en application de l'article 229 de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale (loi "3DS"). Cet article de la loi "3DS" a institué un article L. 211-15 dans le Code des juridictions financières précisant que « la chambre régionale des comptes contribue, dans son ressort, à l'évaluation des politiques publiques ». Cette disposition est une reprise à l'identique de l'article L. 111-13 du même code, disposant que « La Cour des comptes contribue à l'évaluation des politiques publiques ». Sur le fondement de cette disposition législative de principe, et sans autre précision dans la partie règlementaire du Code des juridictions financières, la Cour des comptes peut réaliser, de sa propre initiative, une évaluation de politiques publiques. Par suite, l'article L. 211-15 du Code des juridictions financières permet, dans les conditions prévues à l'article R. 245-1-1 du Code des juridictions financières, aux chambres régionales des comptes de procéder, de leur propre initiative, à l'évaluation d'une politique publique sur son ressort territorial. Le décret du 8 décembre 2022 n'outrepasse donc pas l'habilitation législative prévue à l'article 229 de la loi "3DS".
