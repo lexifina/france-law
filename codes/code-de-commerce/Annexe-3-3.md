@@ -30,7 +30,7 @@ Réglementation professionnelle :
 
 Statut des opérateurs de ventes volontaires de meubles aux enchères publiques et des personnes habilitées à diriger des ventes volontaires ;
 
-Organisation et attributions du conseil des ventes volontaires de meubles aux enchères publiques ;
+Organisation et attributions du conseil des maisons de vente ;
 
 Déontologie et discipline ;
 
@@ -94,9 +94,9 @@ Comptabilité de gestion :
 
 Notion de coût :
 
-― coût direct/coût indirect ;
+― coût direct/ coût indirect ;
 
-― coût variable/coût fixe.
+― coût variable/ coût fixe.
 
 Détermination du seuil de rentabilité :
 
@@ -185,7 +185,3 @@ Espagnol.
 Italien.
 
 Russe.
-
-NOTA :
-
-Conformément à l'arrêté du 19 mars 2014, art. 18, les dispositions introduites par le 3° dudit article sont applicables à compter du 1er janvier 2015.

@@ -8,39 +8,39 @@ Droit civil :
 
 Notions générales sur :
 
-- les biens : la classification des biens, les meubles, les modes d'acquisition de la propriété, la possession, l'usufruit ;
+-les biens : la classification des biens, les meubles, les modes d'acquisition de la propriété, la possession, l'usufruit ;
 
 ― les obligations : sources, preuve, effets, extinction ;
 
-- la responsabilité civile ;
+-la responsabilité civile ;
 
-- le contrat : classification, formation et effets ;
+-le contrat : classification, formation et effets ;
 
-- les contrats spéciaux : la vente (réglementation générale et réglementation particulière des ventes de meubles aux enchères publiques), le dépôt, le séquestre, le mandat, le crédit-bail et la location-vente ;
+-les contrats spéciaux : la vente (réglementation générale et réglementation particulière des ventes de meubles aux enchères publiques), le dépôt, le séquestre, le mandat, le crédit-bail et la location-vente ;
 
-- les sûretés : le cautionnement, le gage, les privilèges mobiliers ;
+-les sûretés : le cautionnement, le gage, les privilèges mobiliers ;
 
-- la prescription ;
+-la prescription ;
 
-- les personnes ;
+-les personnes ;
 
-- la famille : le mariage, le divorce, la séparation de corps, la filiation, les régimes matrimoniaux ;
+-la famille : le mariage, le divorce, la séparation de corps, la filiation, les régimes matrimoniaux ;
 
-- les successions et les libéralités.
+-les successions et les libéralités.
 
 Droit commercial :
 
 Notions générales sur :
 
-- les moyens de paiement et de crédit ;
+-les moyens de paiement et de crédit ;
 
-- le gage commercial ;
+-le gage commercial ;
 
-- le nantissement de l'outillage et du matériel d'équipement ;
+-le nantissement de l'outillage et du matériel d'équipement ;
 
-- le fonds de commerce : éléments constitutifs, nantissement, vente ;
+-le fonds de commerce : éléments constitutifs, nantissement, vente ;
 
-- les sociétés commerciales.
+-les sociétés commerciales.
 
 Droit de la vente de meubles aux enchères publiques :
 
@@ -60,7 +60,7 @@ La lutte contre le blanchiment des capitaux et le financement du terrorisme.
 
 Statut des opérateurs de ventes volontaires de meubles aux enchères publiques et des personnes habilitées à diriger des ventes volontaires.
 
-Organisation et attributions du conseil des ventes volontaires de meubles aux enchères publiques.
+Organisation et attributions du conseil des maisons de vente.
 
 Déontologie et discipline.
 
@@ -70,69 +70,69 @@ Economie et comptabilité :
 
 Le fonctionnement des marchés :
 
-- la délimitation du marché pertinent ;
+-la délimitation du marché pertinent ;
 
-- la fonction d'offre ;
+-la fonction d'offre ;
 
-- la fonction de demande ;
+-la fonction de demande ;
 
-- l'équilibre du marché en concurrence.
+-l'équilibre du marché en concurrence.
 
 Les marchés imparfaits :
 
-- les marchés de monopole ;
+-les marchés de monopole ;
 
-- les marchés d'oligopole ;
+-les marchés d'oligopole ;
 
-- le rôle des asymétries d'informations ;
+-le rôle des asymétries d'informations ;
 
-- les marchés d'enchères.
+-les marchés d'enchères.
 
 Les stratégies de concurrence :
 
-- la tentation de l'entente ;
+-la tentation de l'entente ;
 
-- les stratégies de différenciation ;
+-les stratégies de différenciation ;
 
-- les stratégies d'exclusion.
+-les stratégies d'exclusion.
 
 Comptabilité et finance :
 
-- principes comptables ;
+-principes comptables ;
 
-- notion d'amortissement et de provisions.
+-notion d'amortissement et de provisions.
 
 Compréhension des principaux documents comptables :
 
-- bilan ;
+-bilan ;
 
-- compte de résultat ;
+-compte de résultat ;
 
-- tableau de flux de trésorerie.
+-tableau de flux de trésorerie.
 
 Analyse des comptes à travers les principaux ratios :
 
-- performance économique ;
+-performance économique ;
 
-- performance financière ;
+-performance financière ;
 
-- délais de stockage et de paiement clients et fournisseurs.
+-délais de stockage et de paiement clients et fournisseurs.
 
 Comptabilité de gestion :
 
-- objectifs du calcul des coûts.
+-objectifs du calcul des coûts.
 
 Notion de coût :
 
-- coût direct/coût indirect ;
+-coût direct/ coût indirect ;
 
-- coût variable/coût fixe.
+-coût variable/ coût fixe.
 
 Détermination du seuil de rentabilité
 
-- méthodes de coûts partiels ;
+-méthodes de coûts partiels ;
 
-- méthode du coût complet (cas simple de répartition des charges indirectes).
+-méthode du coût complet (cas simple de répartition des charges indirectes).
 
 Epreuve arts et techniques
 
@@ -146,29 +146,29 @@ Connaissance des arts et techniques :
 
 Histoire et technique :
 
-- des meubles et des sièges ;
+-des meubles et des sièges ;
 
-- de la peinture, des estampes et des dessins ;
+-de la peinture, des estampes et des dessins ;
 
-- de la gravure ;
+-de la gravure ;
 
-- de la sculpture ;
+-de la sculpture ;
 
-- de la céramique ;
+-de la céramique ;
 
-- de l'orfèvrerie et de la bijouterie ;
+-de l'orfèvrerie et de la bijouterie ;
 
-- des livres, manuscrits et autographes ;
+-des livres, manuscrits et autographes ;
 
-- des tapis et tapisseries ;
+-des tapis et tapisseries ;
 
-- des armes de collection et souvenirs historiques ;
+-des armes de collection et souvenirs historiques ;
 
-- des monnaies ;
+-des monnaies ;
 
-- de l'archéologie ;
+-de l'archéologie ;
 
-- des arts d'Afrique, d'Amériques, d'Asie, d'Europe et d'Océanie.
+-des arts d'Afrique, d'Amériques, d'Asie, d'Europe et d'Océanie.
 
 Marques et poinçons, titres et alliages.
 

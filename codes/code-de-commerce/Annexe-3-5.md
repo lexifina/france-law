@@ -48,7 +48,7 @@ Réglementation professionnelle
 
 Statut des sociétés de ventes volontaires de meubles aux enchères publiques et des personnes habilitées à diriger des ventes volontaires.
 
-Organisation et attributions du conseil des ventes volontaires de meubles aux enchères publiques.
+Organisation et attributions du conseil des maisons de vente.
 
 Déontologie et discipline.
 
@@ -278,8 +278,8 @@ Cocher les cases correspondantes.
 
 APPRECIATIONS COMPLEMENTAIRES DU MAITRE DE STAGE |
 
-A leSignature |
+A leSignatureOBSERVATIONS |
 
-OBSERVATIONS DU STAGIAIRE |
+DU STAGIAIREA |
 
-A leSignature |
+leSignature |
