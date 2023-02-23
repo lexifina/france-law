@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700739
+
+- Question : [SEQ220700739](seq220700739.md) — Manque de sécurité des titres d'identité des mineurs liée à l'obsolescence de la photo d'identité
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-02-23, page 1389*
+
+L'article 4 du règlement (UE) 2019/1157 du Parlement européen et du Conseil du 20 juin 2019 relatif au renforcement de la sécurité des cartes d'identité des citoyens de l'Union et des documents de séjour délivrés aux citoyens de l'Union et aux membres de leur famille exerçant leur droit à la libre circulation précise, au paragraphe 1, que les cartes d'identité ont une durée de validité minimale de 5 ans et une durée de validité maximale de 10 ans. Le paragraphe 2 de ce même article prévoit plusieurs cas de dérogation à ces durées de validité, avec en particulier la possibilité pour les Etats membres de prévoir une durée de validité de moins de cinq ans pour les cartes d'identité délivrées aux mineurs. Les travaux menés dans le cadre de la mise en œuvre des dispositions du règlement (UE) 2019/1157 n'ont toutefois pas fait apparaître la nécessité de modifier la durée de validité des cartes nationales d'identité des mineurs, qui a donc été maintenue à 10 ans. C'est pourquoi l'article 1er du décret n° 55-1397 du 22 octobre 1955 instituant la carte nationale d'identité, dans sa rédaction actuelle résultant du décret n° 2021-279 du 13 mars 2021, fixe la durée de validité de la carte nationale d'identité à 10 ans, sans distinction entre majeurs et mineurs, ce qui favorise la lisibilité de la règlementation. Dans la mesure où cette situation n'a pas été identifiée comme posant des difficultés pour l'usager ni soulevant de problématiques majeures en termes de fraude documentaire ou d'usurpation d'identité, le Gouvernement n'envisage pas de modifier cette règlementation.
