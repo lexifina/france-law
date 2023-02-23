@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003018
+
+- Question : [SEQ221003018](seq221003018.md) — Vers une diminution de la température de l'eau dans les piscines publiques
+
+## Réponse
+
+*Sports, jeux Olympiques et Paralympiques, JO du 2023-02-23, page 1421*
+
+Le point n° 9 du plan de sobriété énergétique du 6 octobre 2022 incite les gestionnaires de piscine à réduire le chauffage des équipements sportifs en diminuant d'1°C la température de l'eau des piscines, comme le recommande l'Association nationale des élus du sport. L'application de cette mesure tiendra évidemment compte du type de bassin, des usages prévus et des publics concernés. Concernant les piscines, de nombreux guides ont été édités par les Agences régionales de Santé (ARS Auvergne, Rhône, Bretagne, etc.). A ce jour, il n'existe pas de températures minimales ou maximales règlementairement requises pour l'eau des piscines publiques. Par contre, des températures de confort sont recommandées par les ARS : 32°C pour les bébés nageurs (circulaire du ministère jeunesse et sports n° 75-141 du 3 juin 1975) ; 25 à 27°C pour les bassins couverts (cours de natation et nage sportive) ; 24°C pour les bassins extérieurs (cours de natation et nage sportive). En effet, on estime que la température idéale en piscine doit se situer à environ 10°C en dessous de la température du corps soit environ 27°C. A ce jour, il existe donc des recommandations nationales « de confort » pour la température de l'eau des bassins publiques mais il n'existe pas de règle nationale. A noter que les mesures 31 à 35 proposées au plan de sobriété énergétique du sport, publié le 13 octobre 2022, présentent d'autres pistes de réduction de la facture énergétique des piscines. Depuis le 1er janvier 2023, un amortisseur électricité est mis en place pour les entreprises et les collectivités.
