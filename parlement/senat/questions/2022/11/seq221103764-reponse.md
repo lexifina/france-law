@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103764
+
+- Question : [SEQ221103764](seq221103764.md) — Financement du raccordement d'une maison aux réseaux d'assainissement et téléphonique
+
+## Réponse
+
+*Ville et logement, JO du 2023-02-23, page 1443*
+
+Par principe, le financement des équipements publics et de leur prolongement est assuré par le budget des collectivités locales. Par exception, les articles L. 332-6 et L. 332-6-1 du code de l'urbanisme énumèrent de manière exhaustive les contributions pouvant être mises à la charge des constructeurs pour contribuer à financer les équipements publics d'infrastructures induits par l'urbanisation ainsi que les équipements propres aux opérations d'aménagement prévus à l'article L. 332-15 du code de l'urbanisme. Ce dernier article prévoit ainsi la possibilité d'imposer via l'autorisation d'urbanisme, la réalisation et le financement de certains équipements propres à l'opération, ainsi que leur branchement aux équipements publics existants au droit du terrain. Il prévoit également pour les seuls réseaux d'eau et d'électricité, la possibilité de demander au constructeur le financement du raccordement à usage individuel sur les réseaux d'eau potable ou d'électricité existants situés sur des emprises publiques, dans une limite de distance de 100 mètres. Ce raccordement ne doit pas permettre de desservir d'autres constructions existantes ou futures, au risque de devenir un équipement public. Dans tous les cas, l'autorité compétente doit indiquer dans l'arrêté d'autorisation les équipements qui devront être financés et réalisés par le seul bénéficiaire de l'autorisation. Concernant le réseau téléphonique, c'est l'opérateur Orange qui assure la gestion, le développement et la maintenance du réseau de téléphonie. Toute demande de raccordement est à adresser à l'opérateur. La charge financière est à assurer par le demandeur.
