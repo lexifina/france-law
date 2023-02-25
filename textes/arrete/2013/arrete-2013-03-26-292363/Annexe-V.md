@@ -2,79 +2,59 @@
 
 FORMATION DE SPÉCIALISTE : LA FORMATION D'ADAPTATION À LA SPÉCIALITÉ
 
-1. Spécialité "administration et gestion du personnel"
+1. Spécialités " administration et gestion du personnel " et " gestion logistique et financière "
 
 1.1. Le programme
 
-Gestion des ressources humaines
+Les fonctions opérationnelles et de soutien
 
-Droits individuels
+La chancellerie
 
-Déplacements et changement de résidence
+La gestion des ressources humaines
 
-Activités professionnelles bureautique et informatique
+La solde
 
-Structure de commandement et d'administration de la gendarmerie
+Les pensions
 
-La mise en œuvre du système informatique en matière de RH (Agorha, Agorha FD/CR...)
+La commande publique
+
+Les finances publiques
+
+La gestion du matériel
+
+Bureautique et logiciels
+
+Les affaires immobilières
+
+Les progiciels de la gendarmerie départementale
 
 1.2. Les épreuves
 
-Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent :
+Les épreuves des formations " administration et gestion du personnel " et " gestion logistique et financière " couvrent la totalité du programme et comprennent :
 
-- un ensemble d'épreuves de contrôle continu (coefficient 60) ;
+-un ensemble d'épreuves de contrôle continu (coefficient 60) ;
 
-- un examen final constitué entre autres de la résolution d'un cas concret (durée : 3 heures ; coefficient 40).
+-un examen final (coefficient 40).
 
 Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-2. Spécialité "gestion logistique et financière"
+2. Spécialité " auto-engins blindés "
 
 2.1. Le programme
-
-Contrôle de gestion
-
-Comptabilité générale de l'Etat
-
-Achats-marchés
-
-Comptabilité générale
-
-Gestion des matériels-tenue des stocks
-
-Gestion des matériels-gestion logistique
-
-Activités professionnelles bureautique et informatique
-
-La mise en œuvre du système informatique en matière de gestion des matériels
-
-2.2. Les épreuves
-
-Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent :
-
-- un ensemble d'épreuves de contrôle continu (coefficient 60) ;
-
-- un examen final constitué entre autres de la résolution d'un cas concret (durée : 3 heures ; coefficient 40).
-
-Une note moyenne inférieure à 8 sur 20 est éliminatoire.
-
-3. Spécialité "auto-engins blindés"
-
-3.1. Le programme
 
 La technique automobile
 
 L'environnement administratif et réglementaire
 
-3.2. Les épreuves
+2.2. Les épreuves
 
 Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus.
 
 Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-4. Spécialité "affaires immobilières"
+3. Spécialité " affaires immobilières "
 
-4.1. Le programme
+3.1. Le programme
 
 La maîtrise d'ouvrage
 
@@ -90,15 +70,15 @@ Activités professionnelles bureautique et informatique
 
 La mise en œuvre du système informatique en matière de gestion du parc immobilier et des charges
 
-4.2. Les épreuves
+3.2. Les épreuves
 
 Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus.
 
 Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-5. Spécialité "restauration collective"
+4. Spécialité " restauration collective "
 
-5.1. Le programme
+4.1. Le programme
 
 Achats-marchés
 
@@ -124,7 +104,7 @@ Direction et fonctionnement d'un cercle mixte
 
 Management
 
-5.2. Les épreuves
+4.2. Les épreuves
 
 Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus.
 
@@ -132,9 +112,9 @@ L'obtention d'une note inférieure à 8 sur 20 aux épreuves de budget et de mé
 
 Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-6. Spécialité "imprimerie"
+5. Spécialité " imprimerie "
 
-6.1. Le programme
+5.1. Le programme
 
 Achats-marchés
 
@@ -152,19 +132,19 @@ La mise en œuvre du système informatique en matière de gestion des matériels
 
 Sécurité santé au travail dans un atelier d'imprimerie
 
-6.2. Les épreuves
+5.2. Les épreuves
 
 Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent :
 
-- quatre épreuves de contrôle continu (durée : 2 heures ; coefficient 15 chacune) ;
+-quatre épreuves de contrôle continu (coefficient 15 chacune) ;
 
-- un examen final constitué entre autres de la résolution d'un cas concret (durée : 3 heures ; coefficient 40).
+-un examen final constitué entre autres de la résolution d'un cas concret (coefficient 40).
 
 Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-7. Spécialité "armurerie pyrotechnie"
+6. Spécialité " armurerie pyrotechnie "
 
-7.1. Le programme
+6.1. Le programme
 
 Domaine commun armement-pyrotechnie
 
@@ -176,11 +156,9 @@ Domaine gestion et comptabilité des matériels
 
 Domaine activités professionnelles bureautique et informatique
 
-7.2. Les épreuves
+6.2. Les épreuves
 
-Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent :
-
-- des évaluations certificatives et des contrôles continus (coefficient 100).
+Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus (coefficient 100).
 
 Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
