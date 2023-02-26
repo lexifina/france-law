@@ -214,25 +214,25 @@ Administration centrale |
 
 Enseignement supérieur agricole |
 
-Adjoint au directeur général d'Agrosup Dijon en charge du pôle ressource et ingénierie |
+Directeur de la mission d'appui à l'enseignement technique agricole |
 
-Agrosup Dijon site de Dijon |
+Institut Agro site de Dijon |
 
 Responsable Eduter Ingénierie |
 
-Agrosup Dijon site de Dijon |
+Institut Agro site de Dijon |
 
-Directeur d'Eduter-CNPR |
+Directeur de l'enseignement à distance de l'enseignement technique agricole |
 
-Agrosup Dijon site de Marmilhat |
+Institut Agro site de Marmilhat |
 
 Directeur de l'enseignement et de la vie étudiante |
 
-Agrosup Dijon site de Dijon |
+Institut Agro site de Dijon |
 
-Directeur de la formation des agents de l'Etat |
+Directeur de la formation professionnelle |
 
-Agrosup Dijon site de Dijon |
+Institut Agro site de Dijon |
 
 Direction régionale de l'alimentation, de l'agriculture et de la forêt |
 
@@ -1392,4 +1392,4 @@ Site de Périgueux du CFPPA de la Dordogne |
 
 NOTA :
 
-Conformément au second alinéa de l'article 2 de l'arrêté du 9 août 2022 (NOR : AGRS2206861A), ces dispositions s'appliquent à compter du 1er septembre 2022.
+Conformément à l'article 2 de l'arrêté du 21 février 2023 (NOR : AGRS2305585A), ces dispositions s'appliquent à compter du 1er mars 2023.
