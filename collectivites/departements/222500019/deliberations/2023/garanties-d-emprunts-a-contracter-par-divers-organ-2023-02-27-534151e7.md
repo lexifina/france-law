@@ -1,0 +1,11 @@
+# Département du Doubs : délibération — Garanties d'emprunts à contracter par divers organismes : Néolia - quartier des Arbues à Vieux-Charmont
+
+- Collectivité : Département du Doubs
+- SIREN : 222500019
+- Date : 2023-02-27
+- Séance : Commission Permanente
+- Matière : 7.3 Emprunts
+- Objet : Garanties d'emprunts à contracter par divers organismes : Néolia - quartier des Arbues à Vieux-Charmont
+- Publié / affiché : 2023-03-03
+- Acte publié : https://download.doubs.fr/mohican/deliberations/Délibération-5479-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/63cb2b58c030d08b7b40440d
