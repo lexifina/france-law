@@ -1,0 +1,12 @@
+# Ville d'Angers : délibération DEL-2023-41 — Association Solidarifood - Convention - Approbation
+
+- Collectivité : Ville d'Angers
+- SIREN : 244900015
+- Date : 2023-02-27
+- Nature : Délibération
+- Séance : Conseil municipal
+- Matière : 7.5.3 finances locales/subventions/subventions accordées aux autres personnes morales de droit privé (associations¿)
+- Objet : Association Solidarifood - Convention - Approbation
+- Transmis à la préfecture : 2023-03-03
+- Acte publié : https://www.angers.fr/ressources_opendata/actes/117736.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6774be58fc17a376fbe53631
