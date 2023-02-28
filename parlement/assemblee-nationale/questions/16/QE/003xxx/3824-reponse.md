@@ -1,0 +1,9 @@
+# Réponse à la question n° 3824
+
+- Question : [3824](3824.md) — Question n° 3824 — Suspension des droits des allocataires du revenu de solidarité active
+
+## Réponse
+
+*JO du 2023-02-28, page 2025*
+
+Le revenu de solidarité active (RSA) est un minimum social qui vise à assurer à ses bénéficiaires des moyens convenables d'existence, de lutter contre la pauvreté et de favoriser l'insertion sociale et professionnelle. A ce titre, et parce qu'il est le dernier filet de sécurité, l'ensemble des ressources du foyer est pris en compte pour son calcul. Les revenus salariaux, les revenus de remplacement et les prestations sociales sont notamment à déclarer par l'allocataire. Le montant des droits est calculé sur la base de la moyenne mensuelle des ressources perçues au cours des trois mois précédent la demande, ou des trois mois précédent la déclaration trimestrielle de ressources pour les allocataires ayant un droit ouvert. Néanmoins, par dérogation, les revenus exceptionnels issus d'un héritage ne sont pas pris en compte sur le trimestre de perception, mais pour les trimestres suivants en appliquant les règles applicables : ainsi, si l'argent est placé, seront pris en compte 0,75% du montant du capital chaque trimestre ; si l'héritage est constitué de capital immobilier, le montant brut des loyers, si le bien est loué, sera pris en compte pour le calcul du droit. Le Gouvernement ne prévoit pas de modifier le principe d'une prise en compte des ressources issues d'un héritage pour le calcul des droits au RSA. Toutefois, le projet de solidarité à la source vise à simplifier l'accès au RSA et à la prime d'activité, notamment par une simplification des bases-ressources. Des réflexions sont en cours sur les modalités de prise en compte des revenus exceptionnels, des revenus du patrimoine ou encore des pensions alimentaires.
