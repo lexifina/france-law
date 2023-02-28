@@ -1,0 +1,9 @@
+# Réponse à la question n° 1709
+
+- Question : [1709](1709.md) — Question n° 1709 — Moyens d'urgences après l'incendie de la Montagnette
+
+## Réponse
+
+*JO du 2023-02-28, page 1969*
+
+Entre le 14 et le 18 juillet 2022, plus de 1 700 hectares de forêts ont été détruits par un incendie affectant les communes rurales de Barbentane, Boulbon, Graveson et Tarascon. Compte tenu de l'ampleur de l'incendie dans le massif de la Montagnette et de sa vulnérabilité actuelle, des risques que représente la chute d'arbres calcinés et de la nécessité de réaliser d'importants travaux, l'accès et la circulation ont été interdits dans le périmètre incendié du massif forestier de la Montagnette jusqu'au 31 mai 2023 inclus. Dans ce cadre, les travaux d'urgence vont mobiliser les communes susceptibles de bénéficier de subventions du département et de la région conformément à l'article L. 1111-10 du Code général des collectivités territoriales. Les projets d'investissement destinés à réparer les dégâts causés par des calamités publiques, comme cet incendie, peuvent faire l'objet de dérogations à la règle de participation minimale du maître d'ouvrage fixée à 20 % accordées par le représentant de l'Etat dans le département, au regard de l'importance des dégâts et de la capacité financière des collectivités territoriales ou groupements de collectivités territoriales intéressés. Les communes peuvent ainsi solliciter à ce titre le représentant de l'Etat ce qui permettrait de réduire leur participation au financement des travaux. Par ailleurs, une part des dépenses engagées par les communes pour faire face aux conséquences des incendies peut correspondre à des charges de fonctionnement qui, par nature sont exceptionnelles, peuvent fragiliser la capacité de certaines d'entre elles à financer leur fonctionnement courant. Celles-ci pourront demander à bénéficier de la possibilité d'étaler ces charges exceptionnelles sur plusieurs exercices.
