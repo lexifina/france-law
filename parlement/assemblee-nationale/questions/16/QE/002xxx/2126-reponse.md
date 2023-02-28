@@ -1,0 +1,9 @@
+# Réponse à la question n° 2126
+
+- Question : [2126](2126.md) — Question n° 2126 — Permettre l'extension des AESH pour les activités périscolaires
+
+## Réponse
+
+*JO du 2023-02-28, page 1954*
+
+L'inclusion des élèves en situation de handicap est une priorité pour l'Agence pour l'enseignement français à l'étranger (AEFE). Leur nombre s'élève à environ 1800 dans le réseau, dont 60% sollicitent l'aide d'un accompagnant d'élève en situation de handicap (AESH) qui, à l'étranger, est rémunéré par les familles. Depuis septembre 2021, le financement des AESH durant le temps scolaire est pris en charge par l'Etat pour les élèves français, sous condition d'une décision de la Maison départementale pour les personnes handicapées (MDPH). Les crédits alloués au financement des AESH pour les élèves français dans le réseau des établissements d'enseignement français à l'étranger s'élèvent à 1,3 million d'euros par an. Or, en France, la MDPH n'a pas de compétences décisionnelles sur l'accompagnement humain en dehors du temps scolaire, comme l'a confirmé l'arrêt du Conseil d'Etat du 20 novembre 2020 (CE, Section, 20 novembre 2020, ministre de l'éducation nationale c/ M. B…, n° 422248 : « Il résulte … que lorsque la commission des droits et de l'autonomie des personnes handicapées constate qu'un enfant en situation de handicap scolarisé en milieu ordinaire doit bénéficier d'une aide humaine, elle lui alloue l'aide individuelle prévue à l'article L. 351-3 du code de l'éducation, (…), ne peut concerner que le temps dédié à la scolarité (…) ». Il n'est donc pas possible d'obtenir cette aide en dehors du temps scolaire à l'étranger. D'autres formes d'accompagnement peuvent être utilement expérimentées, notamment par les pairs, ce qui permet de faire vivre concrètement les valeurs inclusives au sein de la communauté scolaire, ou de manière ponctuelle par les familles concernées.
