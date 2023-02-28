@@ -1,0 +1,9 @@
+# Réponse à la question n° 650
+
+- Question : [650](650.md) — Question n° 650 — Mise à disposition de kits hydro-économes
+
+## Réponse
+
+*JO du 2023-02-28, page 1938*
+
+Les économies d'eau représentent une préoccupation majeure du Gouvernement, renforcée par la sécheresse de cet été qui montre la nécessité de poursuivre les efforts vers plus de sobriété. Depuis les Assises de l'eau (2018/2019), un objectif de réduction des prélèvements d'eau a été fixé : 10 % en 5 ans et 25% en 15 ans. À la suite des Assises, le ministère a confié à la Fédération nationale des collectivités concédantes et régies (FNCCR) l'animation du Club des bonnes pratiques d'économies d'eau et de tarification. Ouvert à toute partie prenante du cycle de l'eau, ce Club a pour objectif de recueillir des retours d'expériences d'actions pour favoriser les économies d'eau auprès des usagers domestiques, mais aussi dans les établissements collectifs et les collectivités. Les expériences les plus prometteuses pour réduire les consommations d'eau sont récompensées et mises en valeur dans le catalogue de recommandations du Club en tant qu'exemples pour favoriser et intensifier les économies d'eau dans les territoires. Cette année, le Club a décerné un trophée à une communauté d'agglomération ayant mis à disposition de ses usagers du matériel hydro-économe, valorisant ainsi auprès de différents acteurs cet outil pour son efficacité, son abordabilité et la simplicité de sa mise en œuvre. Par ailleurs, un kit de communication « Sécheresse : ayons les bons réflexes pour économiser l'eau », rappelant la nécessité d'installer des équipements économes en eau est disponible sur le site du ministère. Enfin, dans le cadre de la stratégie de planification écologique pilotée par la Première ministre, un chantier « eau » a été engagé en collaboration avec le Comité national de l'eau. Le plan d'action devrait être publié dans les prochaines semaines.
