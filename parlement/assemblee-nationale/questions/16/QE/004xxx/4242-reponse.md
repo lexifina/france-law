@@ -1,0 +1,9 @@
+# Réponse à la question n° 4242
+
+- Question : [4242](4242.md) — Question n° 4242 — Reconnaissance des couples séparés et non divorcés - Demandes de logement social
+
+## Réponse
+
+*JO du 2023-02-28, page 2054*
+
+L'article L. 441-1 du code de la construction et de l'habitation dispose que : « Lorsque le demandeur de logement est l'un des conjoints d'un couple en instance de divorce, cette situation étant attestée, par une copie de l'acte de saisine du juge aux affaires familiales dans les conditions prévues au code de procédure civile ou par un justificatif d'un avocat attestant que la procédure de divorce par consentement mutuel extrajudiciaire est en cours, (…), ou lorsque le demandeur est une personne mariée bénéficiaire de la protection internationale qui réside seule sur le territoire français, les seules ressources à prendre en compte sont celles du requérant. (…) » L'article précité est donc clair en ce qu'il prévoit qu'une procédure de divorce doit être en cours pour établir que le demandeur puisse prétendre à un logement en son nom propre donc seul. Ainsi, le demandeur ayant engagé une procédure de divorce judiciaire ou extra-judiciaire est forcément en mesure de présenter un document attestant de l'engagement de cette procédure. Dans ces conditions, les bailleurs ne peuvent se prévaloir du fait que le divorce n'ait pas été prononcé si la procédure est en cours pour refuser l'attribution d'un logement social au demandeur. Le cas de personnes qui refusent de divorcer pour des raisons personnelles mais qui, pour autant, souhaitent vivre séparées, n'est pas prévu dans les textes régissant la demande de logement social, en particulier pour éviter les cas de fraude (par exemple par reprise de la vie commune suite à l'obtention d'un logement social). Il n'est donc effectivement pas possible aux personnes concernées de faire une demande de logement social séparé.
