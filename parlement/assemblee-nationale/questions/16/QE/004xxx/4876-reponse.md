@@ -1,0 +1,9 @@
+# Réponse à la question n° 4876
+
+- Question : [4876](4876.md) — Question n° 4876 — Conséquences du changement de nom d'un père pour ses enfants mineurs
+
+## Réponse
+
+*JO du 2023-02-28, page 1999*
+
+Les effets du changement de nom s'étendent aux enfants du bénéficiaire, qu'ils soient mineurs ou majeurs, dès lors qu'ils portent le nom ou une partie du nom de ce dernier. Cette extension agit de plein droit lorsque les enfants ont moins de treize ans au moment du dépôt de la demande de changement de nom. Le changement de nom s'impose à eux. Cet effet collectif du changement de nom du parent sur le nom de l'enfant mineur ne prive pas ce dernier, à sa majorité, du bénéfice de la procédure simplifiée du changement de nom. Ainsi, l'enfant âgé de moins de 13 ans qui se serait vu imposer un changement de nom pourra, à sa majorité, recourir pour lui-même à la procédure simplifiée de changement de nom pour recouvrer le nom qui lui avait été transmis à la naissance. Dans l'attente de recourir pour eux-mêmes à la procédure simplifiée de changement de nom, les enfants mineurs du bénéficiaire peuvent porter, à titre d'usage, le nom qui leur avait été transmis à la naissance. Le choix de ce nom d'usage doit résulter d'un accord conjoint des parents lorsqu'ils exercent tous les deux l'autorité parentale. En cas de désaccord entre les parents, l'autorisation du juge aux affaires familiales doit être sollicitée sur le fondement de l'article 373-2-6 du code civil. Par ailleurs, la Chancellerie entend publier prochainement une nouvelle version de la circulaire de présentation des dispositions issues de la loi n° 2022-301 du 2 mars 2022, relative au choix du nom issu de la filiation afin de recommander au parent qui change de nom d'informer l'autre parent des conséquences que ce changement emporte sur le nom de leur enfant commun mineur âgé de moins de treize ans.
