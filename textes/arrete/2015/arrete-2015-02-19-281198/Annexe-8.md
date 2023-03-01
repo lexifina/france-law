@@ -6,9 +6,7 @@ CODES CIM-10 |
 
 LIBELLÉS CIM-10 |
 
-CODES ACTES
-
-CCAM |
+CODES ACTES CCAM |
 
 EXT. PMSI |
 
@@ -214,7 +212,7 @@ Sepsis à Candida |
 
 |
 
-D61.0 |
+D61. 0 |
 
 Aplasie médullaire constitutionnelle |
 
@@ -224,7 +222,7 @@ Aplasie médullaire constitutionnelle |
 
 |
 
-D61.1 |
+D61. 1 |
 
 Aplasie médullaire d'origine médicamenteuse |
 
@@ -234,7 +232,7 @@ Aplasie médullaire d'origine médicamenteuse |
 
 |
 
-D61.2 |
+D61. 2 |
 
 Aplasie médullaire due à d'autres agents externes |
 
@@ -244,7 +242,7 @@ Aplasie médullaire due à d'autres agents externes |
 
 |
 
-D61.3 |
+D61. 3 |
 
 Aplasie médullaire idiopathique |
 
@@ -254,7 +252,7 @@ Aplasie médullaire idiopathique |
 
 |
 
-D61.8 |
+D61. 8 |
 
 Autres aplasies médullaires précisées |
 
@@ -264,7 +262,7 @@ Autres aplasies médullaires précisées |
 
 |
 
-D61.9 |
+D61. 9 |
 
 Aplasie médullaire, sans précision |
 
@@ -284,7 +282,7 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-E10.0 |
+E10. 0 |
 
 Diabète sucré de type 1, avec coma |
 
@@ -294,7 +292,7 @@ Diabète sucré de type 1, avec coma |
 
 |
 
-E10.1 |
+E10. 1 |
 
 Diabète sucré de type 1, avec acidocétose |
 
@@ -304,7 +302,7 @@ Diabète sucré de type 1, avec acidocétose |
 
 |
 
-E11.00 |
+E11. 00 |
 
 Diabète sucré de type 2, insulinotraité, avec coma |
 
@@ -314,7 +312,7 @@ Diabète sucré de type 2, insulinotraité, avec coma |
 
 |
 
-E11.08 |
+E11. 08 |
 
 Diabète sucré de type 2 non insulinotraité ou sans précision, avec coma |
 
@@ -324,7 +322,7 @@ Diabète sucré de type 2 non insulinotraité ou sans précision, avec coma |
 
 |
 
-E11.10 |
+E11. 10 |
 
 Diabète sucré de type 2 insulinotraité, avec acidocétose |
 
@@ -334,7 +332,7 @@ Diabète sucré de type 2 insulinotraité, avec acidocétose |
 
 |
 
-E11.18 |
+E11. 18 |
 
 Diabète sucré de type 2 non insulinotraité ou sans précision, avec acidocétose |
 
@@ -344,7 +342,7 @@ Diabète sucré de type 2 non insulinotraité ou sans précision, avec acidocét
 
 |
 
-E12.0 |
+E12. 0 |
 
 Diabète sucré de malnutrition, avec coma |
 
@@ -354,7 +352,7 @@ Diabète sucré de malnutrition, avec coma |
 
 |
 
-E12.1 |
+E12. 1 |
 
 Diabète sucré de malnutrition, avec acidocétose |
 
@@ -364,7 +362,7 @@ Diabète sucré de malnutrition, avec acidocétose |
 
 |
 
-E13.0 |
+E13. 0 |
 
 Autres diabètes sucrés précisés, avec coma |
 
@@ -374,7 +372,7 @@ Autres diabètes sucrés précisés, avec coma |
 
 |
 
-E13.1 |
+E13. 1 |
 
 Autres diabètes sucrés précisés, avec acidocétose |
 
@@ -384,7 +382,7 @@ Autres diabètes sucrés précisés, avec acidocétose |
 
 |
 
-E14.0 |
+E14. 0 |
 
 Diabète sucré, sans précision, avec coma |
 
@@ -394,7 +392,7 @@ Diabète sucré, sans précision, avec coma |
 
 |
 
-E14.1 |
+E14. 1 |
 
 Diabète sucré, sans précision, avec acidocétose |
 
@@ -404,7 +402,7 @@ Diabète sucré, sans précision, avec acidocétose |
 
 |
 
-E27.1 |
+E27. 1 |
 
 Insuffisance corticosurrénale primaire |
 
@@ -414,7 +412,7 @@ Insuffisance corticosurrénale primaire |
 
 |
 
-E27.2 |
+E27. 2 |
 
 Crise addisonienne |
 
@@ -424,7 +422,7 @@ Crise addisonienne |
 
 |
 
-E27.3 |
+E27. 3 |
 
 Insuffisance corticosurrénale médicamenteuse |
 
@@ -434,7 +432,7 @@ Insuffisance corticosurrénale médicamenteuse |
 
 |
 
-E27.4 |
+E27. 4 |
 
 Insuffisances corticosurrénales, autres et sans précision |
 
@@ -444,7 +442,7 @@ Insuffisances corticosurrénales, autres et sans précision |
 
 |
 
-E83.50 |
+E83. 50 |
 
 Hypercalcémie supérieure à 3 millimoles [mmol] par litre |
 
@@ -454,7 +452,7 @@ Hypercalcémie supérieure à 3 millimoles [mmol] par litre |
 
 |
 
-E83.51 |
+E83. 51 |
 
 Hypocalcémie inférieure à 1,5 millimoles [mmol] par litre |
 
@@ -464,7 +462,7 @@ Hypocalcémie inférieure à 1,5 millimoles [mmol] par litre |
 
 |
 
-E87.00 |
+E87. 00 |
 
 Hypernatrémie supérieure à 150 millimoles [mmol] par litre |
 
@@ -474,7 +472,7 @@ Hypernatrémie supérieure à 150 millimoles [mmol] par litre |
 
 |
 
-E87.10 |
+E87. 10 |
 
 Hyponatrémie inférieure à 120 millimoles [mmol] par litre |
 
@@ -484,7 +482,7 @@ Hyponatrémie inférieure à 120 millimoles [mmol] par litre |
 
 |
 
-E87.50 |
+E87. 50 |
 
 Hyperkaliémie supérieure à 6,5 millimoles [mmol] par litre |
 
@@ -494,7 +492,7 @@ Hyperkaliémie supérieure à 6,5 millimoles [mmol] par litre |
 
 |
 
-E87.60 |
+E87. 60 |
 
 Hypokaliémie inférieure à 2,5 millimoles [mmol] par litre |
 
@@ -504,7 +502,7 @@ Hypokaliémie inférieure à 2,5 millimoles [mmol] par litre |
 
 |
 
-E89.6 |
+E89. 6 |
 
 Hypofonctionnement corticosurrénal (de la médullaire) après un acte à visée diagnostique et thérapeutique |
 
@@ -514,7 +512,7 @@ Hypofonctionnement corticosurrénal (de la médullaire) après un acte à visée
 
 |
 
-F10.4 |
+F10. 4 |
 
 Troubles mentaux et du comportement liés à l'utilisation d'alcool : syndrome de sevrage avec delirium |
 
@@ -524,7 +522,7 @@ Troubles mentaux et du comportement liés à l'utilisation d'alcool : syndrome d
 
 |
 
-F10.40 |
+F10. 40 |
 
 Syndrome de sevrage de l'alcool avec délirium, sans convulsion |
 
@@ -534,7 +532,7 @@ Syndrome de sevrage de l'alcool avec délirium, sans convulsion |
 
 |
 
-F10.41 |
+F10. 41 |
 
 Syndrome de sevrage de l'alcool avec délirium, avec convulsions |
 
@@ -544,7 +542,7 @@ Syndrome de sevrage de l'alcool avec délirium, avec convulsions |
 
 |
 
-F11.0 |
+F11. 0 |
 
 Troubles mentaux et du comportement liés à l'utilisation d'opiacés : intoxication aiguë |
 
@@ -554,7 +552,7 @@ Troubles mentaux et du comportement liés à l'utilisation d'opiacés : intoxica
 
 |
 
-F11.00 |
+F11. 00 |
 
 Troubles mentaux et du comportement dus à une intoxication aigüe par les opiacés, sans complication |
 
@@ -564,7 +562,7 @@ Troubles mentaux et du comportement dus à une intoxication aigüe par les opiac
 
 |
 
-F11.01 |
+F11. 01 |
 
 Troubles mentaux et du comportement dus à une intoxication aigüe par les opiacés, avec traumatismes ou autres blessures physiques |
 
@@ -574,7 +572,7 @@ Troubles mentaux et du comportement dus à une intoxication aigüe par les opiac
 
 |
 
-F11.02 |
+F11. 02 |
 
 Troubles mentaux et du comportement dus à une intoxication aigüe par les opiacés, avec d'autres complications médicales |
 
@@ -584,7 +582,7 @@ Troubles mentaux et du comportement dus à une intoxication aigüe par les opiac
 
 |
 
-F11.03 |
+F11. 03 |
 
 Troubles mentaux et du comportement dus à une intoxication aigüe par les opiacés, avec délirium |
 
@@ -594,7 +592,7 @@ Troubles mentaux et du comportement dus à une intoxication aigüe par les opiac
 
 |
 
-F11.04 |
+F11. 04 |
 
 Troubles mentaux et du comportement dus à une intoxication aigüe par les opiacés, avec distorsion des perceptions |
 
@@ -604,7 +602,7 @@ Troubles mentaux et du comportement dus à une intoxication aigüe par les opiac
 
 |
 
-F11.05 |
+F11. 05 |
 
 Troubles mentaux et du comportement dus à une intoxication aigüe par les opiacés, avec coma |
 
@@ -614,7 +612,7 @@ Troubles mentaux et du comportement dus à une intoxication aigüe par les opiac
 
 |
 
-F11.06 |
+F11. 06 |
 
 Troubles mentaux et du comportement dus à une intoxication aigüe par les opiacés, avec convulsions |
 
@@ -624,7 +622,7 @@ Troubles mentaux et du comportement dus à une intoxication aigüe par les opiac
 
 |
 
-F11.07 |
+F11. 07 |
 
 Troubles mentaux et du comportement dus à une intoxication aigüe pathologique par les opiacés |
 
@@ -634,7 +632,7 @@ Troubles mentaux et du comportement dus à une intoxication aigüe pathologique 
 
 |
 
-G00.0 |
+G00. 0 |
 
 Méningite à Haemophilus |
 
@@ -644,7 +642,7 @@ Méningite à Haemophilus |
 
 |
 
-G00.1 |
+G00. 1 |
 
 Méningite à pneumocoques |
 
@@ -654,7 +652,7 @@ Méningite à pneumocoques |
 
 |
 
-G00.2 |
+G00. 2 |
 
 Méningite à streptocoques |
 
@@ -664,7 +662,7 @@ Méningite à streptocoques |
 
 |
 
-G00.3 |
+G00. 3 |
 
 Méningite à staphylocoques |
 
@@ -674,7 +672,7 @@ Méningite à staphylocoques |
 
 |
 
-G00.8 |
+G00. 8 |
 
 Autres méningites bactériennes |
 
@@ -684,7 +682,7 @@ Autres méningites bactériennes |
 
 |
 
-G00.9 |
+G00. 9 |
 
 Méningite bactérienne, sans précision |
 
@@ -704,7 +702,7 @@ Méningite au cours d'affections bactériennes classées ailleurs |
 
 |
 
-G04.0 |
+G04. 0 |
 
 Encéphalite aiguë disséminée |
 
@@ -714,7 +712,7 @@ Encéphalite aiguë disséminée |
 
 |
 
-G04.1 |
+G04. 1 |
 
 Myélopathies associées au virus HTLV-1 |
 
@@ -724,7 +722,7 @@ Myélopathies associées au virus HTLV-1 |
 
 |
 
-G04.2 |
+G04. 2 |
 
 Méningo-encéphalite et méningomyélite bactériennes, non classées ailleurs |
 
@@ -734,7 +732,7 @@ Méningo-encéphalite et méningomyélite bactériennes, non classées ailleurs 
 
 |
 
-G04.8 |
+G04. 8 |
 
 Autres encéphalites, myélites et encéphalomyélites |
 
@@ -744,7 +742,7 @@ Autres encéphalites, myélites et encéphalomyélites |
 
 |
 
-G04.9 |
+G04. 9 |
 
 Encéphalite, myélite et encéphalomyélite, sans précision |
 
@@ -754,7 +752,7 @@ Encéphalite, myélite et encéphalomyélite, sans précision |
 
 |
 
-G05.0 |
+G05. 0 |
 
 Encéphalite, myélite et encéphalomyélite au cours d'infections bactériennes classées ailleurs |
 
@@ -764,7 +762,7 @@ Encéphalite, myélite et encéphalomyélite au cours d'infections bactériennes
 
 |
 
-G05.1 |
+G05. 1 |
 
 Encéphalite, myélite et encéphalomyélite au cours d'infections virales classées ailleurs |
 
@@ -774,7 +772,7 @@ Encéphalite, myélite et encéphalomyélite au cours d'infections virales class
 
 |
 
-G05.2 |
+G05. 2 |
 
 Encéphalite, myélite et encéphalomyélite au cours d'autres maladies infectieuses et parasitaires classées ailleurs |
 
@@ -784,7 +782,7 @@ Encéphalite, myélite et encéphalomyélite au cours d'autres maladies infectie
 
 |
 
-G05.8 |
+G05. 8 |
 
 Encéphalite, myélite et encéphalomyélite au cours d'autres affections classées ailleurs |
 
@@ -804,7 +802,7 @@ Phlébite et thrombophlébite intracrâniennes et intrarachidiennes |
 
 |
 
-G41.0 |
+G41. 0 |
 
 État de grand mal épileptique |
 
@@ -814,7 +812,7 @@ G41.0 |
 
 |
 
-G41.1 |
+G41. 1 |
 
 État de petit mal épileptique |
 
@@ -824,7 +822,7 @@ G41.1 |
 
 |
 
-G41.2 |
+G41. 2 |
 
 État de mal épileptique partiel complexe |
 
@@ -834,7 +832,7 @@ G41.2 |
 
 |
 
-G41.8 |
+G41. 8 |
 
 Autres états de mal épileptique |
 
@@ -844,7 +842,7 @@ Autres états de mal épileptique |
 
 |
 
-G61.0 |
+G61. 0 |
 
 Syndrome de Guillain-Barré |
 
@@ -854,7 +852,7 @@ Syndrome de Guillain-Barré |
 
 |
 
-G70.0 |
+G70. 0 |
 
 Myasthénie |
 
@@ -864,7 +862,7 @@ Myasthénie |
 
 |
 
-G70.2 |
+G70. 2 |
 
 Myasthénie congénitale au cours du développement |
 
@@ -874,7 +872,7 @@ Myasthénie congénitale au cours du développement |
 
 |
 
-G73.0 |
+G73. 0 |
 
 Syndrome myasthénique au cours de maladies endocriniennes |
 
@@ -884,17 +882,17 @@ Syndrome myasthénique au cours de maladies endocriniennes |
 
 |
 
-G73.1 |
+G73. 1 |
 
-Syndrome de Lambert-Eaton (C00-D48+) |
-
-|
+Syndrome de Lambert-Eaton (C00-D48 +) |
 
 |
 
 |
 
-G73.2 |
+|
+
+G73. 2 |
 
 Autres syndromes myasthéniques au cours de maladies tumorales (C00-D48) |
 
@@ -904,7 +902,7 @@ Autres syndromes myasthéniques au cours de maladies tumorales (C00-D48) |
 
 |
 
-G73.3 |
+G73. 3 |
 
 Syndrome myasthénique au cours d'autres maladies classées ailleurs |
 
@@ -914,7 +912,7 @@ Syndrome myasthénique au cours d'autres maladies classées ailleurs |
 
 |
 
-I20.0 |
+I20. 0 |
 
 Angine de poitrine instable |
 
@@ -924,7 +922,7 @@ Angine de poitrine instable |
 
 |
 
-I20.1 |
+I20. 1 |
 
 Angine de poitrine avec spasme coronaire vérifié |
 
@@ -934,7 +932,7 @@ Angine de poitrine avec spasme coronaire vérifié |
 
 |
 
-I21.00 |
+I21. 00 |
 
 Infarctus (transmural aigu) du myocarde (de la paroi) antérieure, prise en charge initiale |
 
@@ -944,7 +942,7 @@ Infarctus (transmural aigu) du myocarde (de la paroi) antérieure, prise en char
 
 |
 
-I21.000 |
+I21. 000 |
 
 Infarctus (transmural aigu) du myocarde (de la paroi antérieure), prise en charge initiale, infarctus de 24 heures ou moins |
 
@@ -954,7 +952,7 @@ Infarctus (transmural aigu) du myocarde (de la paroi antérieure), prise en char
 
 |
 
-I21.10 |
+I21. 10 |
 
 Infarctus (transmural aigu) du myocarde (de la paroi inférieure), prise en charge initiale |
 
@@ -964,7 +962,7 @@ Infarctus (transmural aigu) du myocarde (de la paroi inférieure), prise en char
 
 |
 
-I21.100 |
+I21. 100 |
 
 Infarctus (transmural aigu) du myocarde de la paroi inférieure, prise en charge initiale, infarctus de 24 heures ou moins |
 
@@ -974,7 +972,7 @@ Infarctus (transmural aigu) du myocarde de la paroi inférieure, prise en charge
 
 |
 
-I21.20 |
+I21. 20 |
 
 Infarctus (transmural aigu) du myocarde d'autres localisations, prise en charge initiale |
 
@@ -984,7 +982,7 @@ Infarctus (transmural aigu) du myocarde d'autres localisations, prise en charge 
 
 |
 
-I21.200 |
+I21. 200 |
 
 Infarctus (transmural aigu) du myocarde d'autres localisations, prise en charge initiale, infarctus de 24 heures ou moins |
 
@@ -994,7 +992,7 @@ Infarctus (transmural aigu) du myocarde d'autres localisations, prise en charge 
 
 |
 
-I21.30 |
+I21. 30 |
 
 Infarctus (transmural aigu) du myocarde de localisation non précisée, prise en charge initiale |
 
@@ -1004,7 +1002,7 @@ Infarctus (transmural aigu) du myocarde de localisation non précisée, prise en
 
 |
 
-I21.300 |
+I21. 300 |
 
 Infarctus (transmural aigu) du myocarde de localisation non précisée, prise en charge initiale, infarctus de 24 heures ou moins |
 
@@ -1014,7 +1012,7 @@ Infarctus (transmural aigu) du myocarde de localisation non précisée, prise en
 
 |
 
-I21.40 |
+I21. 40 |
 
 Infarctus sous-endocardique (aigu du myocarde), prise en charge initiale |
 
@@ -1024,7 +1022,7 @@ Infarctus sous-endocardique (aigu du myocarde), prise en charge initiale |
 
 |
 
-I21.400 |
+I21. 400 |
 
 Infarctus sous-endocardique (aigu du myocarde), prise en charge initiale, infarctus de 24 heures ou moins |
 
@@ -1034,7 +1032,7 @@ Infarctus sous-endocardique (aigu du myocarde), prise en charge initiale, infarc
 
 |
 
-I21.90 |
+I21. 90 |
 
 Infarctus (aigu) du myocarde sans précision, prise en charge initiale |
 
@@ -1044,7 +1042,7 @@ Infarctus (aigu) du myocarde sans précision, prise en charge initiale |
 
 |
 
-I21.900 |
+I21. 900 |
 
 Infarctus (aigu) du myocarde sans précision, prise en charge initiale, infarctus de 24 heures ou moins |
 
@@ -1054,7 +1052,7 @@ Infarctus (aigu) du myocarde sans précision, prise en charge initiale, infarctu
 
 |
 
-I22.00 |
+I22. 00 |
 
 Infarctus du myocarde à répétition (de la paroi) antérieure, prise en charge initiale |
 
@@ -1064,7 +1062,7 @@ Infarctus du myocarde à répétition (de la paroi) antérieure, prise en charge
 
 |
 
-I22.000 |
+I22. 000 |
 
 Infarctus du myocarde à répétition (de la paroi antérieure), prise en charge initiale, infarctus de 24 heures ou moins |
 
@@ -1074,7 +1072,7 @@ Infarctus du myocarde à répétition (de la paroi antérieure), prise en charge
 
 |
 
-I22.10 |
+I22. 10 |
 
 Infarctus du myocarde à répétition, de la paroi inférieure, prise en charge initiale |
 
@@ -1084,7 +1082,7 @@ Infarctus du myocarde à répétition, de la paroi inférieure, prise en charge 
 
 |
 
-I22.100 |
+I22. 100 |
 
 Infarctus du myocarde à répétition (de la paroi inférieure), prise en charge initiale, infarctus de 24 heures ou moins |
 
@@ -1094,7 +1092,7 @@ Infarctus du myocarde à répétition (de la paroi inférieure), prise en charge
 
 |
 
-I22.80 |
+I22. 80 |
 
 Infarctus du myocarde à répétition d'autres localisations, prise en charge initiale |
 
@@ -1104,7 +1102,7 @@ Infarctus du myocarde à répétition d'autres localisations, prise en charge in
 
 |
 
-I22.800 |
+I22. 800 |
 
 Infarctus du myocarde à répétition d'autres localisations, prise en charge initiale, infarctus de 24 heures ou moins |
 
@@ -1114,7 +1112,7 @@ Infarctus du myocarde à répétition d'autres localisations, prise en charge in
 
 |
 
-I22.90 |
+I22. 90 |
 
 Infarctus du myocarde à répétition de localisation non précisée, prise en charge initiale |
 
@@ -1124,7 +1122,7 @@ Infarctus du myocarde à répétition de localisation non précisée, prise en c
 
 |
 
-I22.900 |
+I22. 900 |
 
 Infarctus du myocarde à répétition de localisation non précisée, prise en charge initiale, infarctus de 24 heures ou moins |
 
@@ -1134,7 +1132,7 @@ Infarctus du myocarde à répétition de localisation non précisée, prise en c
 
 |
 
-I23.0 |
+I23. 0 |
 
 Hémopéricarde comme complication récente d'un infarctus aigu du myocarde |
 
@@ -1144,7 +1142,7 @@ Hémopéricarde comme complication récente d'un infarctus aigu du myocarde |
 
 |
 
-I23.1 |
+I23. 1 |
 
 Communication interauriculaire comme complication récente d'un infarctus aigu du myocarde |
 
@@ -1154,7 +1152,7 @@ Communication interauriculaire comme complication récente d'un infarctus aigu d
 
 |
 
-I23.2 |
+I23. 2 |
 
 Communication interventriculaire comme complication récente d'un infarctus aigu du myocarde |
 
@@ -1164,7 +1162,7 @@ Communication interventriculaire comme complication récente d'un infarctus aigu
 
 |
 
-I23.3 |
+I23. 3 |
 
 Rupture de la paroi cardiaque sans hémopéricarde comme complication récente d'un infarctus aigu du myocarde |
 
@@ -1174,7 +1172,7 @@ Rupture de la paroi cardiaque sans hémopéricarde comme complication récente d
 
 |
 
-I23.4 |
+I23. 4 |
 
 Rupture des cordages tendineux comme complication récente d'un infarctus aigu du myocarde |
 
@@ -1184,7 +1182,7 @@ Rupture des cordages tendineux comme complication récente d'un infarctus aigu d
 
 |
 
-I23.5 |
+I23. 5 |
 
 Rupture du muscle papillaire comme complication récente d'un infarctus aigu du myocarde |
 
@@ -1194,7 +1192,7 @@ Rupture du muscle papillaire comme complication récente d'un infarctus aigu du 
 
 |
 
-I23.6 |
+I23. 6 |
 
 Thrombose de l'oreillette, de l'auricule et du ventricule comme complication récente d'un infarctus aigu du myocarde |
 
@@ -1204,7 +1202,7 @@ Thrombose de l'oreillette, de l'auricule et du ventricule comme complication ré
 
 |
 
-I23.8 |
+I23. 8 |
 
 Autres complications récentes d'un infarctus aigu du myocarde |
 
@@ -1214,7 +1212,7 @@ Autres complications récentes d'un infarctus aigu du myocarde |
 
 |
 
-I24.0 |
+I24. 0 |
 
 Thrombose coronaire n'entraînant pas un infarctus du myocarde |
 
@@ -1224,7 +1222,7 @@ Thrombose coronaire n'entraînant pas un infarctus du myocarde |
 
 |
 
-I24.1 |
+I24. 1 |
 
 Syndrome de Dressler |
 
@@ -1234,7 +1232,7 @@ Syndrome de Dressler |
 
 |
 
-I26.0 |
+I26. 0 |
 
 Embolie pulmonaire, avec mention de coeur pulmonaire aigu |
 
@@ -1244,7 +1242,7 @@ Embolie pulmonaire, avec mention de coeur pulmonaire aigu |
 
 |
 
-I30.0 |
+I30. 0 |
 
 Péricardite idiopathique aiguë non spécifique |
 
@@ -1254,7 +1252,7 @@ Péricardite idiopathique aiguë non spécifique |
 
 |
 
-I30.1 |
+I30. 1 |
 
 Péricardite infectieuse |
 
@@ -1264,7 +1262,7 @@ Péricardite infectieuse |
 
 |
 
-I31.1 |
+I31. 1 |
 
 Péricardite constrictive chronique |
 
@@ -1274,7 +1272,7 @@ Péricardite constrictive chronique |
 
 |
 
-I33.0 |
+I33. 0 |
 
 Endocardite infectieuse (aiguë et subaiguë) |
 
@@ -1284,7 +1282,7 @@ Endocardite infectieuse (aiguë et subaiguë) |
 
 |
 
-I33.9 |
+I33. 9 |
 
 Endocardite aiguë, sans précision |
 
@@ -1294,7 +1292,7 @@ Endocardite aiguë, sans précision |
 
 |
 
-I41.1 |
+I41. 1 |
 
 Myocardite au cours de maladies virales classées ailleurs |
 
@@ -1304,7 +1302,7 @@ Myocardite au cours de maladies virales classées ailleurs |
 
 |
 
-I42.1 |
+I42. 1 |
 
 Myocardiopathie obstructive hypertrophique |
 
@@ -1314,7 +1312,7 @@ Myocardiopathie obstructive hypertrophique |
 
 |
 
-I44.2 |
+I44. 2 |
 
 Bloc auriculoventriculaire complet |
 
@@ -1324,7 +1322,7 @@ Bloc auriculoventriculaire complet |
 
 |
 
-I45.5 |
+I45. 5 |
 
 Autre bloc cardiaque précisé |
 
@@ -1334,7 +1332,7 @@ Autre bloc cardiaque précisé |
 
 |
 
-I45.8 |
+I45. 8 |
 
 Autres troubles précisés de la conduction |
 
@@ -1344,7 +1342,7 @@ Autres troubles précisés de la conduction |
 
 |
 
-I47.2 |
+I47. 2 |
 
 Tachycardie ventriculaire |
 
@@ -1354,7 +1352,7 @@ Tachycardie ventriculaire |
 
 |
 
-I50.1 |
+I50. 1 |
 
 Insuffisance ventriculaire gauche |
 
@@ -1364,7 +1362,7 @@ GLLD003 |
 
 Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures |
 
-I50.1 |
+I50. 1 |
 
 Insuffisance ventriculaire gauche |
 
@@ -1374,7 +1372,7 @@ GLLD017 |
 
 Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures |
 
-I50.10 |
+I50. 10 |
 
 Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] supérieure ou égale à 50 |
 
@@ -1384,7 +1382,7 @@ GLLD003 |
 
 Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures |
 
-I50.10 |
+I50. 10 |
 
 Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] supérieure ou égale à 50 |
 
@@ -1394,7 +1392,7 @@ GLLD017 |
 
 Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures |
 
-I50.11 |
+I50. 11 |
 
 Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] inférieure à 50 et supérieure ou égale à 40 |
 
@@ -1404,7 +1402,7 @@ GLLD003 |
 
 Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures |
 
-I50.11 |
+I50. 11 |
 
 Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] inférieure à 50 et supérieure ou égale à 40 |
 
@@ -1414,7 +1412,7 @@ GLLD017 |
 
 Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures |
 
-I50.12 |
+I50. 12 |
 
 Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] inférieure à 40 |
 
@@ -1424,7 +1422,7 @@ GLLD003 |
 
 Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures |
 
-I50.12 |
+I50. 12 |
 
 Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] inférieure à 40 |
 
@@ -1434,7 +1432,7 @@ GLLD017 |
 
 Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures |
 
-I50.19 |
+I50. 19 |
 
 Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] non précisée |
 
@@ -1444,7 +1442,7 @@ GLLD003 |
 
 Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures |
 
-I50.19 |
+I50. 19 |
 
 Insuffisance ventriculaire gauche, avec fraction d'éjection ventriculaire gauche [FEVG] non précisée |
 
@@ -1454,7 +1452,7 @@ GLLD017 |
 
 Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures |
 
-I67.4 |
+I67. 4 |
 
 Encéphalopathie hypertensive |
 
@@ -1464,7 +1462,7 @@ Encéphalopathie hypertensive |
 
 |
 
-I85.0 |
+I85. 0 |
 
 Varices oesophagiennes hémorragiques |
 
@@ -1474,7 +1472,7 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-I98.3 |
+I98. 3 |
 
 Varices oesophagiennes hémorragiques au cours de maladies classées ailleurs |
 
@@ -1494,7 +1492,7 @@ J46 |
 
 |
 
-J68.0 |
+J68. 0 |
 
 Bronchite et pneumopathie dues à des agents chimiques, des émanations, des fumées et des gaz |
 
@@ -1524,7 +1522,7 @@ GGJB001 |
 
 Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage |
 
-J93.0 |
+J93. 0 |
 
 Pneumothorax spontané avec pression positive |
 
@@ -1534,7 +1532,7 @@ GGJB001 |
 
 Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage |
 
-J93.1 |
+J93. 1 |
 
 Autres pneumothorax spontanés |
 
@@ -1544,7 +1542,7 @@ GGJB001 |
 
 Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage |
 
-J93.8 |
+J93. 8 |
 
 Autres pneumothorax |
 
@@ -1554,7 +1552,7 @@ GGJB001 |
 
 Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage |
 
-J93.9 |
+J93. 9 |
 
 Pneumothorax, sans précision |
 
@@ -1564,7 +1562,7 @@ GGJB001 |
 
 Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage |
 
-J96.0 |
+J96. 0 |
 
 Insuffisance respiratoire aiguë |
 
@@ -1574,7 +1572,7 @@ GLLD003 |
 
 Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures |
 
-J96.0 |
+J96. 0 |
 
 Insuffisance respiratoire aiguë |
 
@@ -1582,9 +1580,9 @@ GLLD015 |
 
 |
 
-Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60%, par 24 heures |
+Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60 %, par 24 heures |
 
-J96.0 |
+J96. 0 |
 
 Insuffisance respiratoire aiguë |
 
@@ -1594,7 +1592,7 @@ GLLD017 |
 
 Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures |
 
-J96.00 |
+J96. 00 |
 
 Insuffisance respiratoire aigüe de type I [hypoxique] |
 
@@ -1604,7 +1602,7 @@ GLLD003 |
 
 Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures |
 
-J96.00 |
+J96. 00 |
 
 Insuffisance respiratoire aigüe de type I [hypoxique] |
 
@@ -1612,9 +1610,9 @@ GLLD015 |
 
 |
 
-Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60%, par 24 heures |
+Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60 %, par 24 heures |
 
-J96.00 |
+J96. 00 |
 
 Insuffisance respiratoire aigüe de type I [hypoxique] |
 
@@ -1624,7 +1622,7 @@ GLLD017 |
 
 Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures |
 
-J96.01 |
+J96. 01 |
 
 Insuffisance respiratoire aigüe de type II [hypercapnique] |
 
@@ -1634,7 +1632,7 @@ GLLD003 |
 
 Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures |
 
-J96.01 |
+J96. 01 |
 
 Insuffisance respiratoire aigüe de type II [hypercapnique] |
 
@@ -1642,9 +1640,9 @@ GLLD015 |
 
 |
 
-Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60%, par 24 heures |
+Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60 %, par 24 heures |
 
-J96.01 |
+J96. 01 |
 
 Insuffisance respiratoire aigüe de type II [hypercapnique] |
 
@@ -1654,7 +1652,7 @@ GLLD017 |
 
 Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures |
 
-J96.09 |
+J96. 09 |
 
 Insuffisance respiratoire aigüe, type non précisé |
 
@@ -1664,7 +1662,7 @@ GLLD003 |
 
 Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures |
 
-J96.09 |
+J96. 09 |
 
 Insuffisance respiratoire aigüe, type non précisé |
 
@@ -1672,9 +1670,9 @@ GLLD015 |
 
 |
 
-Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60%, par 24 heures |
+Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60 %, par 24 heures |
 
-J96.09 |
+J96. 09 |
 
 Insuffisance respiratoire aigüe, type non précisé |
 
@@ -1684,7 +1682,7 @@ GLLD017 |
 
 Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures |
 
-K25.0 |
+K25. 0 |
 
 Ulcère de l'estomac aigu, avec hémorragie |
 
@@ -1694,7 +1692,7 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-K25.2 |
+K25. 2 |
 
 Ulcère de l'estomac aigu, avec hémorragie et perforation |
 
@@ -1704,7 +1702,7 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-K25.4 |
+K25. 4 |
 
 Ulcère de l'estomac chronique ou non précisé, avec hémorragie |
 
@@ -1714,7 +1712,7 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-K26.0 |
+K26. 0 |
 
 Ulcère du duodénum aigu, avec hémorragie |
 
@@ -1724,7 +1722,7 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-K26.2 |
+K26. 2 |
 
 Ulcère du duodénum aigu, avec hémorragie et perforation |
 
@@ -1734,7 +1732,7 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-K26.4 |
+K26. 4 |
 
 Ulcère du duodénum chronique ou non précisé, avec hémorragie |
 
@@ -1744,7 +1742,7 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-K50.0 |
+K50. 0 |
 
 Maladie de Crohn de l'intestin grêle |
 
@@ -1752,29 +1750,29 @@ HSLF001 |
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K50.0 |
-
-Maladie de Crohn de l'intestin grêle |
-
-HSLF002 |
-
-|
-
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
-
-K50.0 |
+K50. 0 |
 
 Maladie de Crohn de l'intestin grêle |
 
+HSLF002 |
+
+|
+
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
+
+K50. 0 |
+
+Maladie de Crohn de l'intestin grêle |
+
 HSLF003 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K50.1 |
+K50. 1 |
 
 Maladie de Crohn du gros intestin |
 
@@ -1782,29 +1780,29 @@ HSLF001 |
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K50.1 |
-
-Maladie de Crohn du gros intestin |
-
-HSLF002 |
-
-|
-
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
-
-K50.1 |
+K50. 1 |
 
 Maladie de Crohn du gros intestin |
 
+HSLF002 |
+
+|
+
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
+
+K50. 1 |
+
+Maladie de Crohn du gros intestin |
+
 HSLF003 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K50.8 |
+K50. 8 |
 
 Autres formes de la maladie de Crohn |
 
@@ -1812,29 +1810,29 @@ HSLF001 |
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K50.8 |
-
-Autres formes de la maladie de Crohn |
-
-HSLF002 |
-
-|
-
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
-
-K50.8 |
+K50. 8 |
 
 Autres formes de la maladie de Crohn |
 
+HSLF002 |
+
+|
+
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
+
+K50. 8 |
+
+Autres formes de la maladie de Crohn |
+
 HSLF003 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K50.9 |
+K50. 9 |
 
 Maladie de Crohn, sans précision |
 
@@ -1842,29 +1840,29 @@ HSLF001 |
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K50.9 |
-
-Maladie de Crohn, sans précision |
-
-HSLF002 |
-
-|
-
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
-
-K50.9 |
+K50. 9 |
 
 Maladie de Crohn, sans précision |
 
+HSLF002 |
+
+|
+
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
+
+K50. 9 |
+
+Maladie de Crohn, sans précision |
+
 HSLF003 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.0 |
+K51. 0 |
 
 Pancolite ulcéreuse (chronique) |
 
@@ -1872,29 +1870,29 @@ HSLF001 |
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.0 |
-
-Pancolite ulcéreuse (chronique) |
-
-HSLF002 |
-
-|
-
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
-
-K51.0 |
+K51. 0 |
 
 Pancolite ulcéreuse (chronique) |
 
+HSLF002 |
+
+|
+
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
+
+K51. 0 |
+
+Pancolite ulcéreuse (chronique) |
+
 HSLF003 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.2 |
+K51. 2 |
 
 Rectite ulcéreuse (chronique) |
 
@@ -1902,29 +1900,29 @@ HSLF001 |
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.2 |
-
-Rectite ulcéreuse (chronique) |
-
-HSLF002 |
-
-|
-
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
-
-K51.2 |
+K51. 2 |
 
 Rectite ulcéreuse (chronique) |
 
+HSLF002 |
+
+|
+
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
+
+K51. 2 |
+
+Rectite ulcéreuse (chronique) |
+
 HSLF003 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.3 |
+K51. 3 |
 
 Recto-sigmoïdite ulcéreuse (chronique) |
 
@@ -1932,29 +1930,29 @@ HSLF001 |
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.3 |
-
-Recto-sigmoïdite ulcéreuse (chronique) |
-
-HSLF002 |
-
-|
-
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
-
-K51.3 |
+K51. 3 |
 
 Recto-sigmoïdite ulcéreuse (chronique) |
 
+HSLF002 |
+
+|
+
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
+
+K51. 3 |
+
+Recto-sigmoïdite ulcéreuse (chronique) |
+
 HSLF003 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.4 |
+K51. 4 |
 
 Polypes coliques inflammatoires |
 
@@ -1962,29 +1960,29 @@ HSLF001 |
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.4 |
-
-Polypes coliques inflammatoires |
-
-HSLF002 |
-
-|
-
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
-
-K51.4 |
+K51. 4 |
 
 Polypes coliques inflammatoires |
 
+HSLF002 |
+
+|
+
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
+
+K51. 4 |
+
+Polypes coliques inflammatoires |
+
 HSLF003 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.5 |
+K51. 5 |
 
 Colite ulcéreuse gauche |
 
@@ -1992,9 +1990,9 @@ HSLF001 |
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.5 |
+K51. 5 |
 
 Colite ulcéreuse gauche |
 
@@ -2002,9 +2000,9 @@ HSLF002 |
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.5 |
+K51. 5 |
 
 Colite ulcéreuse gauche |
 
@@ -2012,9 +2010,9 @@ HSLF003 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.8 |
+K51. 8 |
 
 Autres recto-colites hémorragiques |
 
@@ -2022,9 +2020,9 @@ HSLF001 |
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.8 |
+K51. 8 |
 
 Autres recto-colites hémorragiques |
 
@@ -2032,9 +2030,9 @@ HSLF002 |
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.8 |
+K51. 8 |
 
 Autres recto-colites hémorragiques |
 
@@ -2042,9 +2040,9 @@ HSLF003 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.9 |
+K51. 9 |
 
 Recto-colite hémorragique, sans précision |
 
@@ -2052,9 +2050,9 @@ HSLF001 |
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.9 |
+K51. 9 |
 
 Recto-colite hémorragique, sans précision |
 
@@ -2062,9 +2060,9 @@ HSLF002 |
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K51.9 |
+K51. 9 |
 
 Recto-colite hémorragique, sans précision |
 
@@ -2072,9 +2070,9 @@ HSLF003 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-K85.0 |
+K85. 0 |
 
 Pancréatite aiguë idiopathique |
 
@@ -2084,7 +2082,7 @@ Pancréatite aiguë idiopathique |
 
 |
 
-K85.1 |
+K85. 1 |
 
 Pancréatite aiguë d'origine biliaire |
 
@@ -2094,7 +2092,7 @@ Pancréatite aiguë d'origine biliaire |
 
 |
 
-K85.2 |
+K85. 2 |
 
 Pancréatite aiguë d'origine alcoolique |
 
@@ -2104,7 +2102,7 @@ Pancréatite aiguë d'origine alcoolique |
 
 |
 
-K85.3 |
+K85. 3 |
 
 Pancréatite aiguë médicamenteuse |
 
@@ -2114,7 +2112,7 @@ Pancréatite aiguë médicamenteuse |
 
 |
 
-K85.8 |
+K85. 8 |
 
 Autres pancréatites aiguës |
 
@@ -2124,7 +2122,7 @@ Autres pancréatites aiguës |
 
 |
 
-K85.9 |
+K85. 9 |
 
 Pancréatite aiguë, sans précision |
 
@@ -2134,7 +2132,7 @@ Pancréatite aiguë, sans précision |
 
 |
 
-K92.0 |
+K92. 0 |
 
 Hématémèse |
 
@@ -2144,7 +2142,7 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-K92.1 |
+K92. 1 |
 
 Mélaena |
 
@@ -2154,7 +2152,7 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-K92.2 |
+K92. 2 |
 
 Hémorragie gastro-intestinale, sans précision |
 
@@ -2164,19 +2162,9 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-L51.20 |
+L51. 20 |
 
-Épidermolyse nécrosante suraiguë [Lyell] avec décollement égal ou supérieur à 30% (de la surface du corps) |
-
-|
-
-|
-
-|
-
-L51.29 |
-
-Épidermolyse nécrosante suraiguë [Lyell] avec décollement inférieur à 30% (de la surface du corps) et sans précison |
+Épidermolyse nécrosante suraiguë [Lyell] avec décollement égal ou supérieur à 30 % (de la surface du corps) |
 
 |
 
@@ -2184,7 +2172,17 @@ L51.29 |
 
 |
 
-M72.6 |
+L51. 29 |
+
+Épidermolyse nécrosante suraiguë [Lyell] avec décollement inférieur à 30 % (de la surface du corps) et sans précison |
+
+|
+
+|
+
+|
+
+M72. 6 |
 
 Fasciite nécrosante |
 
@@ -2194,19 +2192,9 @@ Fasciite nécrosante |
 
 |
 
-M72.60 |
+M72. 60 |
 
-Fasciite nécrosante - Sièges multiples |
-
-|
-
-|
-
-|
-
-M72.61 |
-
-Fasciite nécrosante - Région scapulaire |
+Fasciite nécrosante-Sièges multiples |
 
 |
 
@@ -2214,19 +2202,9 @@ Fasciite nécrosante - Région scapulaire |
 
 |
 
-M72.62 |
+M72. 61 |
 
-Fasciite nécrosante - Bras |
-
-|
-
-|
-
-|
-
-M72.63 |
-
-Fasciite nécrosante - Avant-bras |
+Fasciite nécrosante-Région scapulaire |
 
 |
 
@@ -2234,19 +2212,9 @@ Fasciite nécrosante - Avant-bras |
 
 |
 
-M72.64 |
+M72. 62 |
 
-Fasciite nécrosante - Main |
-
-|
-
-|
-
-|
-
-M72.65 |
-
-Fasciite nécrosante - Région pelvienne et cuisse |
+Fasciite nécrosante-Bras |
 
 |
 
@@ -2254,19 +2222,9 @@ Fasciite nécrosante - Région pelvienne et cuisse |
 
 |
 
-M72.66 |
+M72. 63 |
 
-Fasciite nécrosante - Jambe |
-
-|
-
-|
-
-|
-
-M72.67 |
-
-Fasciite nécrosante - Cheville et pied |
+Fasciite nécrosante-Avant-bras |
 
 |
 
@@ -2274,19 +2232,9 @@ Fasciite nécrosante - Cheville et pied |
 
 |
 
-M72.68 |
+M72. 64 |
 
-Fasciite nécrosante - Autres localisations |
-
-|
-
-|
-
-|
-
-M72.69 |
-
-Fasciite nécrosante - Siège non précisé |
+Fasciite nécrosante-Main |
 
 |
 
@@ -2294,7 +2242,57 @@ Fasciite nécrosante - Siège non précisé |
 
 |
 
-N17.0 |
+M72. 65 |
+
+Fasciite nécrosante-Région pelvienne et cuisse |
+
+|
+
+|
+
+|
+
+M72. 66 |
+
+Fasciite nécrosante-Jambe |
+
+|
+
+|
+
+|
+
+M72. 67 |
+
+Fasciite nécrosante-Cheville et pied |
+
+|
+
+|
+
+|
+
+M72. 68 |
+
+Fasciite nécrosante-Autres localisations |
+
+|
+
+|
+
+|
+
+M72. 69 |
+
+Fasciite nécrosante-Siège non précisé |
+
+|
+
+|
+
+|
+
+N17. 0 |
 
 Insuffisance rénale aiguë avec nécrose tubulaire |
 
@@ -2304,7 +2302,7 @@ Insuffisance rénale aiguë avec nécrose tubulaire |
 
 |
 
-N17.1 |
+N17. 1 |
 
 Insuffisance rénale aiguë avec nécrose corticale aiguë |
 
@@ -2314,7 +2312,7 @@ Insuffisance rénale aiguë avec nécrose corticale aiguë |
 
 |
 
-N17.2 |
+N17. 2 |
 
 Insuffisance rénale aiguë avec nécrose médullaire |
 
@@ -2324,7 +2322,7 @@ Insuffisance rénale aiguë avec nécrose médullaire |
 
 |
 
-O14.1 |
+O14. 1 |
 
 Prééclampsie sévère |
 
@@ -2334,7 +2332,7 @@ Prééclampsie sévère |
 
 |
 
-O15.0 |
+O15. 0 |
 
 Éclampsie au cours de la grossesse |
 
@@ -2344,7 +2342,7 @@ O15.0 |
 
 |
 
-O15.1 |
+O15. 1 |
 
 Éclampsie au cours du travail |
 
@@ -2354,7 +2352,7 @@ O15.1 |
 
 |
 
-O15.2 |
+O15. 2 |
 
 Éclampsie au cours de la puerpéralité |
 
@@ -2364,7 +2362,7 @@ O15.2 |
 
 |
 
-O15.9 |
+O15. 9 |
 
 Éclampsie, sans précision quant à la période |
 
@@ -2374,7 +2372,7 @@ O15.9 |
 
 |
 
-O72.0 |
+O72. 0 |
 
 Hémorragie de la délivrance (troisième période) |
 
@@ -2384,7 +2382,7 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-O72.1 |
+O72. 1 |
 
 Autres hémorragies immédiates du post-partum |
 
@@ -2394,7 +2392,7 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
-O72.2 |
+O72. 2 |
 
 Hémorragie du post-partum, tardive et secondaire |
 
@@ -2414,7 +2412,7 @@ Sepsis puerpéral |
 
 |
 
-R40.20 |
+R40. 20 |
 
 État végétatif chronique |
 
@@ -2424,7 +2422,7 @@ R40.20 |
 
 |
 
-R40.28 |
+R40. 28 |
 
 Coma, autre et sans précision |
 
@@ -2434,7 +2432,7 @@ Coma, autre et sans précision |
 
 |
 
-R57.0 |
+R57. 0 |
 
 Choc cardiogénique |
 
@@ -2442,9 +2440,9 @@ EQLF001 |
 
 |
 
-Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 microgrammes par kilogramme par minute [µg/kg/min], ou de dopexamine en dehors de la période néonatale, par 24 heures |
+Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 microgrammes par kilogramme par minute [µg/ kg/ min], ou de dopexamine en dehors de la période néonatale, par 24 heures |
 
-R57.1 |
+R57. 1 |
 
 Choc hypovolémique |
 
@@ -2454,7 +2452,7 @@ ENLF001 |
 
 Pose de dispositif intraartériel de surveillance de la pression intraartérielle |
 
-R57.1 |
+R57. 1 |
 
 Choc hypovolémique |
 
@@ -2464,7 +2462,7 @@ EPLF002 |
 
 Pose d'un cathéter veineux central, par voie transcutanée |
 
-R57.1 |
+R57. 1 |
 
 Choc hypovolémique |
 
@@ -2472,9 +2470,9 @@ EQLF002 |
 
 |
 
-Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/kg] en moins de 24 heures, chez l'adulte |
+Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/ kg] en moins de 24 heures, chez l'adulte |
 
-R57.2 |
+R57. 2 |
 
 Choc septique |
 
@@ -2484,7 +2482,7 @@ Choc septique |
 
 |
 
-R57.8 |
+R57. 8 |
 
 Autres chocs |
 
@@ -2492,9 +2490,9 @@ EQLF001 |
 
 |
 
-Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 microgrammes par kilogramme par minute [µg/kg/min], ou de dopexamine en dehors de la période néonatale, par 24 heures |
+Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 microgrammes par kilogramme par minute [µg/ kg/ min], ou de dopexamine en dehors de la période néonatale, par 24 heures |
 
-R65.3 |
+R65. 3 |
 
 Syndrome de réponse inflammatoire systémique d'origine non infectieuse avec défaillance d'organe |
 
@@ -2504,7 +2502,7 @@ Syndrome de réponse inflammatoire systémique d'origine non infectieuse avec d�
 
 |
 
-S06.00 |
+S06. 00 |
 
 Commotion cérébrale, sans plaie intracrânienne |
 
@@ -2514,7 +2512,7 @@ Commotion cérébrale, sans plaie intracrânienne |
 
 |
 
-S06.10 |
+S06. 10 |
 
 Oedème cérébral traumatique, sans plaie intracrânienne |
 
@@ -2524,7 +2522,7 @@ Oedème cérébral traumatique, sans plaie intracrânienne |
 
 |
 
-S06.20 |
+S06. 20 |
 
 Lésion traumatique cérébrale diffuse, sans plaie intracrânienne |
 
@@ -2534,7 +2532,7 @@ Lésion traumatique cérébrale diffuse, sans plaie intracrânienne |
 
 |
 
-S06.30 |
+S06. 30 |
 
 Lésion traumatique cérébrale en foyer, sans plaie intracrânienne |
 
@@ -2544,7 +2542,7 @@ Lésion traumatique cérébrale en foyer, sans plaie intracrânienne |
 
 |
 
-S06.40 |
+S06. 40 |
 
 Hémorragie épidurale, sans plaie intracrânienne |
 
@@ -2554,7 +2552,7 @@ Hémorragie épidurale, sans plaie intracrânienne |
 
 |
 
-S06.50 |
+S06. 50 |
 
 Hémorragie sous-durale traumatique, sans plaie intracrânienne |
 
@@ -2564,7 +2562,7 @@ Hémorragie sous-durale traumatique, sans plaie intracrânienne |
 
 |
 
-S06.60 |
+S06. 60 |
 
 Hémorragie sous-arachnoïdienne traumatique, sans plaie intracrânienne |
 
@@ -2574,7 +2572,7 @@ Hémorragie sous-arachnoïdienne traumatique, sans plaie intracrânienne |
 
 |
 
-S06.70 |
+S06. 70 |
 
 Lésion traumatique intracrânienne avec coma prolongé, sans plaie intracrânienne |
 
@@ -2584,7 +2582,7 @@ Lésion traumatique intracrânienne avec coma prolongé, sans plaie intracrânie
 
 |
 
-S06.80 |
+S06. 80 |
 
 Autres lésions traumatiques intracrâniennes, sans plaie intracrânienne |
 
@@ -2594,7 +2592,7 @@ Autres lésions traumatiques intracrâniennes, sans plaie intracrânienne |
 
 |
 
-S12.00 |
+S12. 00 |
 
 Fracture fermée de la première vertèbre cervicale |
 
@@ -2604,7 +2602,7 @@ Fracture fermée de la première vertèbre cervicale |
 
 |
 
-S12.10 |
+S12. 10 |
 
 Fracture fermée de la deuxième vertèbre cervicale |
 
@@ -2614,7 +2612,7 @@ Fracture fermée de la deuxième vertèbre cervicale |
 
 |
 
-S12.20 |
+S12. 20 |
 
 Fracture fermée d'autres vertèbres cervicales précisées |
 
@@ -2624,7 +2622,7 @@ Fracture fermée d'autres vertèbres cervicales précisées |
 
 |
 
-S12.70 |
+S12. 70 |
 
 Fractures fermées multiples du rachis cervical |
 
@@ -2634,7 +2632,7 @@ Fractures fermées multiples du rachis cervical |
 
 |
 
-S13.4 |
+S13. 4 |
 
 Entorse et foulure du rachis cervical |
 
@@ -2644,7 +2642,7 @@ Entorse et foulure du rachis cervical |
 
 |
 
-S27.00 |
+S27. 00 |
 
 Pneumothorax traumatique, sans plaie intrathoracique |
 
@@ -2654,7 +2652,7 @@ AFLB007 |
 
 Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans guidage |
 
-S27.00 |
+S27. 00 |
 
 Pneumothorax traumatique, sans plaie intrathoracique |
 
@@ -2664,7 +2662,7 @@ AFLB017 |
 
 Administration péridurale [épidurale] d'agent pharmacologique au long cours |
 
-S27.00 |
+S27. 00 |
 
 Pneumothorax traumatique, sans plaie intrathoracique |
 
@@ -2674,7 +2672,7 @@ GGJB001 |
 
 Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage |
 
-S27.10 |
+S27. 10 |
 
 Hémothorax traumatique, sans plaie intrathoracique |
 
@@ -2684,7 +2682,7 @@ AFLB007 |
 
 Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans guidage |
 
-S27.10 |
+S27. 10 |
 
 Hémothorax traumatique, sans plaie intrathoracique |
 
@@ -2694,7 +2692,7 @@ AFLB017 |
 
 Administration péridurale [épidurale] d'agent pharmacologique au long cours |
 
-S27.10 |
+S27. 10 |
 
 Hémothorax traumatique, sans plaie intrathoracique |
 
@@ -2704,7 +2702,7 @@ GGJB001 |
 
 Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage |
 
-S27.20 |
+S27. 20 |
 
 Hémopneumothorax traumatique, sans plaie intrathoracique |
 
@@ -2714,7 +2712,7 @@ AFLB007 |
 
 Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans guidage |
 
-S27.20 |
+S27. 20 |
 
 Hémopneumothorax traumatique, sans plaie intrathoracique |
 
@@ -2724,7 +2722,7 @@ AFLB017 |
 
 Administration péridurale [épidurale] d'agent pharmacologique au long cours |
 
-S27.20 |
+S27. 20 |
 
 Hémopneumothorax traumatique, sans plaie intrathoracique |
 
@@ -2734,7 +2732,7 @@ GGJB001 |
 
 Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage |
 
-S27.30 |
+S27. 30 |
 
 Autres lésions traumatiques du poumon, sans plaie intrathoracique |
 
@@ -2744,7 +2742,7 @@ AFLB007 |
 
 Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans guidage |
 
-S27.30 |
+S27. 30 |
 
 Autres lésions traumatiques du poumon, sans plaie intrathoracique |
 
@@ -2754,7 +2752,7 @@ AFLB017 |
 
 Administration péridurale [épidurale] d'agent pharmacologique au long cours |
 
-S27.30 |
+S27. 30 |
 
 Autres lésions traumatiques du poumon, sans plaie intrathoracique |
 
@@ -2764,7 +2762,7 @@ GGJB001 |
 
 Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage |
 
-S36.00 |
+S36. 00 |
 
 Lésion traumatique de la rate, sans plaie intra-abdominale |
 
@@ -2774,7 +2772,7 @@ Lésion traumatique de la rate, sans plaie intra-abdominale |
 
 |
 
-S36.01 |
+S36. 01 |
 
 Lésion traumatique de la rate, avec plaie intra-abdominale |
 
@@ -2784,7 +2782,7 @@ Lésion traumatique de la rate, avec plaie intra-abdominale |
 
 |
 
-S36.10 |
+S36. 10 |
 
 Lésion traumatique du foie et de la vésicule biliaire, sans plaie intra-abdominale |
 
@@ -2794,7 +2792,7 @@ Lésion traumatique du foie et de la vésicule biliaire, sans plaie intra-abdomi
 
 |
 
-S36.11 |
+S36. 11 |
 
 Lésion traumatique du foie et de la vésicule biliaire, avec plaie intra-abdominale |
 
@@ -2804,7 +2802,7 @@ Lésion traumatique du foie et de la vésicule biliaire, avec plaie intra-abdomi
 
 |
 
-S47.+0 |
+S47. + 0 |
 
 Écrasement de la région scapulaire |
 
@@ -2814,7 +2812,7 @@ S47.+0 |
 
 |
 
-S77.0 |
+S77. 0 |
 
 Écrasement de la hanche |
 
@@ -2824,7 +2822,7 @@ S77.0 |
 
 |
 
-S77.1 |
+S77. 1 |
 
 Écrasement de la cuisse |
 
@@ -2834,7 +2832,7 @@ S77.1 |
 
 |
 
-S77.2 |
+S77. 2 |
 
 Écrasement de la hanche avec la cuisse |
 
@@ -2844,7 +2842,7 @@ S77.2 |
 
 |
 
-T20.2 |
+T20. 2 |
 
 Brûlure du second degré de la tête et du cou |
 
@@ -2854,7 +2852,7 @@ GELD005 |
 
 Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures |
 
-T20.3 |
+T20. 3 |
 
 Brûlure du troisième degré de la tête et du cou |
 
@@ -2864,7 +2862,7 @@ GELD005 |
 
 Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures |
 
-T20.6 |
+T20. 6 |
 
 Corrosion du second degré de la tête et du cou |
 
@@ -2874,7 +2872,7 @@ GELD005 |
 
 Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures |
 
-T20.7 |
+T20. 7 |
 
 Corrosion du troisième degré de la tête et du cou |
 
@@ -2884,7 +2882,7 @@ GELD005 |
 
 Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures |
 
-T27.0 |
+T27. 0 |
 
 Brûlure du larynx et de la trachée |
 
@@ -2894,7 +2892,7 @@ Brûlure du larynx et de la trachée |
 
 |
 
-T27.1 |
+T27. 1 |
 
 Brûlure comprenant le larynx et la trachée avec les poumons |
 
@@ -2904,7 +2902,7 @@ Brûlure comprenant le larynx et la trachée avec les poumons |
 
 |
 
-T28.0 |
+T28. 0 |
 
 Brûlure de la bouche et du pharynx |
 
@@ -2914,59 +2912,59 @@ Brûlure de la bouche et du pharynx |
 
 |
 
-T31.1 |
+T31. 1 |
 
-Brûlures couvrant entre 10 et moins de 20% de la surface du corps |
-
-EQLF002 |
-
-|
-
-Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/kg] en moins de 24 heures, chez l'adulte |
-
-T31.1 |
-
-Brûlures couvrant entre 10 et moins de 20% de la surface du corps |
-
-HSLD002 |
-
-|
-
-Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
-
-T31.2 |
-
-Brûlures couvrant entre 20 et moins de 30% de la surface du corps |
-
-|
-
-|
-
-|
-
-T32.1 |
-
-Corrosions couvrant entre 10 et moins de 20% de la surface du corps |
+Brûlures couvrant entre 10 et moins de 20 % de la surface du corps |
 
 EQLF002 |
 
 |
 
-Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/kg] en moins de 24 heures, chez l'adulte |
+Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/ kg] en moins de 24 heures, chez l'adulte |
 
-T32.1 |
+T31. 1 |
 
-Corrosions couvrant entre 10 et moins de 20% de la surface du corps |
+Brûlures couvrant entre 10 et moins de 20 % de la surface du corps |
 
 HSLD002 |
 
 |
 
-Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-T32.2 |
+T31. 2 |
 
-Corrosions couvrant entre 20 et moins de 30% de la surface du corps |
+Brûlures couvrant entre 20 et moins de 30 % de la surface du corps |
+
+|
+
+|
+
+|
+
+T32. 1 |
+
+Corrosions couvrant entre 10 et moins de 20 % de la surface du corps |
+
+EQLF002 |
+
+|
+
+Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/ kg] en moins de 24 heures, chez l'adulte |
+
+T32. 1 |
+
+Corrosions couvrant entre 10 et moins de 20 % de la surface du corps |
+
+HSLD002 |
+
+|
+
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
+
+T32. 2 |
+
+Corrosions couvrant entre 20 et moins de 30 % de la surface du corps |
 
 |
 
@@ -2974,7 +2972,7 @@ Corrosions couvrant entre 20 et moins de 30% de la surface du corps |
 
 |
 
-T37.2 |
+T37. 2 |
 
 Intoxication par antipaludiques et médicaments agissant sur d'autres protozoaires du sang |
 
@@ -2984,7 +2982,7 @@ Intoxication par antipaludiques et médicaments agissant sur d'autres protozoair
 
 |
 
-T38.3 |
+T38. 3 |
 
 Intoxication par insuline et hypoglycémiants oraux [antidiabétiques] |
 
@@ -2994,7 +2992,7 @@ Intoxication par insuline et hypoglycémiants oraux [antidiabétiques] |
 
 |
 
-T39.1 |
+T39. 1 |
 
 Intoxication par dérivés du 4-aminophénol |
 
@@ -3004,7 +3002,7 @@ Intoxication par dérivés du 4-aminophénol |
 
 |
 
-T44.7 |
+T44. 7 |
 
 Intoxication par bêta-bloquants, non classés ailleurs |
 
@@ -3014,7 +3012,7 @@ Intoxication par bêta-bloquants, non classés ailleurs |
 
 |
 
-T46.1 |
+T46. 1 |
 
 Intoxication par inhibiteurs calciques |
 
@@ -3024,7 +3022,7 @@ Intoxication par inhibiteurs calciques |
 
 |
 
-T75.4 |
+T75. 4 |
 
 Effets du courant électrique |
 
@@ -3032,9 +3030,9 @@ DEQP007 |
 
 |
 
-Surveillance continue de l'électrocardiogramme par oscilloscopie et/ou télésurveillance, avec surveillance continue de la pression intraartérielle et/ou de la saturation artérielle en oxygène par méthodes non effractives, par 24 heures |
+Surveillance continue de l'électrocardiogramme par oscilloscopie et/ ou télésurveillance, avec surveillance continue de la pression intraartérielle et/ ou de la saturation artérielle en oxygène par méthodes non effractives, par 24 heures |
 
-T78.0 |
+T78. 0 |
 
 Choc anaphylactique dû à une intolérance alimentaire |
 
@@ -3044,7 +3042,7 @@ Choc anaphylactique dû à une intolérance alimentaire |
 
 |
 
-T78.2 |
+T78. 2 |
 
 Choc anaphylactique, sans précision |
 
@@ -3054,7 +3052,7 @@ Choc anaphylactique, sans précision |
 
 |
 
-T78.3 |
+T78. 3 |
 
 Oedème angioneurotique |
 
@@ -3064,7 +3062,7 @@ Oedème angioneurotique |
 
 |
 
-T80.5 |
+T80. 5 |
 
 Choc anaphylactique dû au sérum |
 
@@ -3074,7 +3072,7 @@ Choc anaphylactique dû au sérum |
 
 |
 
-T88.2 |
+T88. 2 |
 
 Choc anesthésique |
 
@@ -3084,7 +3082,7 @@ Choc anesthésique |
 
 |
 
-T88.6 |
+T88. 6 |
 
 Choc anaphylactique dû à des effets indésirables d'une substance médicamenteuse appropriée et correctement administrée |
 
@@ -3096,4 +3094,4 @@ Choc anaphylactique dû à des effets indésirables d'une substance médicamente
 
 NOTA :
 
-Conformément à l’article 14 de l’arrêté du 1er mars 2022 (SSAH2207477A), ces dispositions entrent en vigueur au 1er mars 2022.
+Conformément à l’article 3 de l’arrêté du 1er mars 2023 (SPRH2305803A), ces dispositions entrent en vigueur au 1er mars 2023.

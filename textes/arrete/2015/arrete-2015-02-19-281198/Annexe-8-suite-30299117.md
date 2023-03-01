@@ -1,2243 +1,1937 @@
 # Article Annexe 8 (suite)
 
-DGFA017 |
+LISTE 3 : DIAGNOSTICS ET ACTES ASSOCIÉS AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE POUR LES ENFANTS DE MOINS DE 18 ANS
 
-|
-
-Résection-anastomose de l'aorte thoracique descendante ou de l'aorte juxtadiaphragmatique, par thoracotomie avec CEC |
-
-DGFA018 |
+CODES CIM-10 |
 
-|
+LIBELLÉS CIM-10 |
 
-Résection-anastomose de l'isthme de l'aorte, par thoracotomie avec CEC |
+CODES ACTES CCAM |
 
-DGFA019 |
+EXT. PMSI |
 
-|
+LIBELLÉS CCAM |
 
-Résection-anastomose de l'aorte thoracique descendante ou de l'aorte juxtadiaphragmatique, par thoracotomie sans dérivation vasculaire ni CEC |
+A37. 0 |
 
-DGFA020 |
+Coqueluche à Bordetella pertussis |
 
 |
-
-Résection-anastomose de l'isthme de l'aorte, par thoracotomie sans CEC, avant l'âge de 3 ans |
 
-DGGA001 |
+|
 
 |
 
-Ablation d'un dispositif de contrepulsion diastolique intraaortique, par thoracotomie |
+A37. 1 |
 
-DGGA004 |
+Coqueluche à Bordetella parapertussis |
 
 |
 
-Ablation d'un dispositif de contrepulsion diastolique intraaortique avec rétablissement de la continuité artérielle, par abord artériel périphérique |
-
-DGKA001 |
+|
 
 |
 
-Remplacement de l'aorte thoracique ascendante et de l'aorte horizontale sans remplacement de la valve aortique, sans réimplantation des artères coronaires, par thoracotomie avec CEC |
+A37. 8 |
 
-DGKA002 |
+Coqueluche due à d'autres espèces de Bordetella |
 
 |
 
-Remplacement de l'isthme de l'aorte, par thoracotomie sans dérivation vasculaire ni CEC |
-
-DGKA003 |
+|
 
 |
 
-Remplacement de l'aorte thoracique ascendante sans remplacement de la valve aortique, avec réimplantation des artères coronaires, par thoracotomie avec CEC |
+A37. 9 |
 
-DGKA005 |
+Coqueluche, sans précision |
 
 |
-
-Remplacement de l'aorte thoracique horizontale, par thoracotomie avec CEC |
 
-DGKA006 |
+|
 
 |
 
-Remplacement de l'aorte thoracique descendante et de l'aorte juxtadiaphragmatique, par thoraco-phréno-laparotomie sans dérivation vasculaire ni CEC |
+A39. 2 |
 
-DGKA007 |
+Méningococcémie aiguë |
 
 |
 
-Remplacement de l'aorte thoracique descendante, par thoracotomie avec CEC |
-
-DGKA008 |
+|
 
 |
 
-Remplacement de l'aorte thoracique descendante et de l'aorte juxtadiaphragmatique, par thoraco-phréno-laparotomie avec CEC |
+B01. 0 |
 
-DGKA009 |
+Méningite varicelleuse (G02. 0*) |
 
 |
 
-Remplacement de l'aorte thoracique descendante, par thoracotomie sans CEC |
-
-DGKA010 |
+|
 
 |
 
-Remplacement de l'aorte juxtadiaphragmatique, par thoraco-phréno-laparotomie avec CEC |
+B01. 1 |
 
-DGKA011 |
+Encéphalite varicelleuse (G05. 1*) |
 
 |
-
-Remplacement de l'aorte thoracique ascendante avec remplacement de la valve aortique, sans réimplantation des artères coronaires, par thoracotomie avec CEC |
 
-DGKA012 |
+|
 
 |
 
-Remplacement de l'ensemble de l'aorte thoracique, par thoraco-phréno-laparotomie avec CEC |
+B01. 2 |
 
-DGKA013 |
+Pneumopathie varicelleuse (J17. 1*) |
 
 |
 
-Remplacement de l'aorte juxtadiaphragmatique, par thoraco-phréno-laparotomie sans dérivation vasculaire ni CEC |
-
-DGKA014 |
+|
 
 |
 
-Remplacement de l'aorte thoracique ascendante et de l'aorte horizontale avec remplacement de la valve aortique, avec réimplantation des artères coronaires, par thoracotomie avec CEC |
+B01. 8 |
 
-DGKA015 |
+Varicelle avec autres complications |
 
 |
 
-Remplacement de l'aorte thoracique ascendante avec remplacement de la valve aortique, avec réimplantation des artères coronaires, par thoracotomie avec CEC |
-
-DGKA016 |
+|
 
 |
 
-Remplacement de l'aorte juxtadiaphragmatique, par thoraco-phréno-laparotomie avec dérivation vasculaire |
+B50. 0 |
 
-DGKA017 |
+Paludisme à Plasmodium falciparum avec complications cérébrales |
 
 |
-
-Remplacement de l'aorte thoracique descendante pour sténose congénitale, par thoracotomie sans CEC |
 
-DGKA018 |
+|
 
 |
 
-Remplacement de l'aorte thoracique ascendante et de l'aorte horizontale avec remplacement de la valve aortique, sans réimplantation des artères coronaires, par thoracotomie avec CEC |
+B50. 8 |
 
-DGKA019 |
+Autres formes sévères et compliquées de paludisme à Plasmodium falciparum |
 
 |
 
-Remplacement de l'isthme de l'aorte, par thoracotomie avec dérivation vasculaire |
-
-DGKA020 |
+|
 
 |
 
-Remplacement de l'aorte thoracique descendante et de l'aorte juxtadiaphragmatique, par thoraco-phréno-laparotomie avec dérivation vasculaire |
+B51. 0 |
 
-DGKA021 |
+Paludisme à Plasmodium vivax, avec rupture de la rate |
 
 |
 
-Remplacement de l'aorte thoracique descendante pour sténose congénitale, par thoracotomie avec CEC |
-
-DGKA022 |
+|
 
 |
 
-Remplacement de l'isthme de l'aorte pour coarctation, par thoracotomie sans CEC |
+B51. 8 |
 
-DGKA023 |
+Paludisme à Plasmodium vivax, avec autres complications |
 
 |
-
-Remplacement de l'isthme de l'aorte, par thoracotomie avec CEC |
 
-DGKA024 |
+|
 
 |
 
-Remplacement de l'isthme de l'aorte pour coarctation, par thoracotomie avec CEC |
+B52. 0 |
 
-DGKA025 |
+Paludisme à Plasmodium malariae, avec atteinte rénale |
 
 |
 
-Remplacement de l'aorte thoracique ascendante sans remplacement de la valve aortique, sans réimplantation des artères coronaires, par thoracotomie avec CEC |
-
-DGKA026 |
+|
 
 |
 
-Remplacement de l'aorte thoracique ascendante et de l'aorte horizontale sans remplacement de la valve aortique, avec réimplantation des artères coronaires, par thoracotomie avec CEC |
+B52. 8 |
 
-DGKA027 |
+Paludisme à Plasmodium malariae, avec autres complications |
 
 |
 
-Remplacement de l'aorte thoracique descendante pour rupture d'anévrisme, par thoracotomie avec CEC |
-
-DGKA028 |
+|
 
 |
 
-Remplacement de l'aorte thoracique ascendante pour rupture d'anévrisme, par thoracotomie avec CEC |
+C40. 2 |
 
-DGKA029 |
+Tumeur maligne des os longs du membre inférieur |
 
 |
-
-Remplacement de l'aorte juxtadiaphragmatique pour rupture d'anévrisme, par thoraco-phréno-laparotomie avec CEC |
 
-DGLA002 |
+|
 
 |
 
-Pose d'un ballon de contrepulsion diastolique intraaortique, par abord artériel périphérique |
+D57. 0 |
 
-DGLF003 |
+Anémie à hématies falciformes [anémie drépanocytaire] avec crises |
 
 |
 
-Pose d'endoprothèse couverte dans l'aorte thoracique, par voie artérielle transcutanée |
-
-DGLF006 |
+|
 
 |
 
-Pose d'un ballon de contrepulsion diastolique intraaortique, par voie artérielle transcutanée |
+D59. 3 |
 
-DGMA001 |
+Syndrome hémolytique urémique |
 
 |
 
-Correction d'une interruption de l'aorte thoracique horizontale avec prothèse, par thoracotomie sans CEC |
-
-DGMA002 |
+|
 
 |
 
-Correction d'une interruption de l'aorte thoracique horizontale sans prothèse, avec réparation du tronc artériel commun [truncus arteriosus], par thoracotomie avec CEC |
+D65 |
 
-DGMA005 |
+Coagulation intravasculaire disséminée [syndrome de défibrination] |
 
 |
-
-Correction d'une interruption de l'aorte thoracique horizontale avec réparation de lésion intracardiaque associée, par thoracotomie avec CEC |
 
-DGMA009 |
+|
 
 |
 
-Plastie d'une sténose supraorificielle de l'aorte, par thoracotomie avec CEC |
+D70 |
 
-DGMA010 |
+Agranulocytose |
 
 |
 
-Correction d'une interruption de l'aorte thoracique horizontale avec prothèse, par thoracotomie avec CEC |
-
-DGMA011 |
+|
 
 |
 
-Correction d'une interruption de l'aorte thoracique horizontale sans prothèse, par thoracotomie sans CEC |
+E16. 0 |
 
-DGMA012 |
+Hypoglycémie médicamenteuse, sans coma |
 
 |
 
-Correction d'une interruption de l'aorte thoracique horizontale sans prothèse, par thoracotomie avec CEC |
-
-DGPA001 |
+|
 
 |
 
-Mise à plat d'un anévrisme aorto-ilio-fémoral avec remplacement prothétique bifurqué aorto-ilio-fémoral, par laparotomie avec clampage suprarénal |
+E16. 1 |
 
-DGPA008 |
+Autres hypoglycémies |
 
 |
 
-Mise à plat d'un anévrisme aortique infrarénal ou aortobisiliaque non rompu avec remplacement prothétique aortobisiliaque, par laparotomie avec clampage suprarénal |
-
-DGPA013 |
+|
 
 |
 
-Mise à plat d'un anévrisme aortique infrarénal ou aortobisiliaque non rompu avec remplacement prothétique aortobifémoral, par laparotomie avec clampage suprarénal |
+E16. 2 |
 
-DGPA014 |
+Hypoglycémie, sans précision |
 
 |
 
-Désobstruction d'une prothèse de l'aorte thoracique, par thoracotomie |
-
-DGPA017 |
+|
 
 |
 
-Mise à plat d'un anévrisme aortique infrarénal non rompu avec remplacement prothétique aortoaortique infrarénal, par laparotomie avec clampage suprarénal |
+E22. 2 |
 
-DGPA018 |
+Syndrome de sécrétion anormale de l'hormone antidiurétique |
 
 |
 
-Mise à plat d'un anévrisme aortique infrarénal ou aortobisiliaque rompu avec remplacement prothétique, par laparotomie |
+|
 
-DGPC807 |
+|
 
--01 |
+E23. 0 |
 
-Mise à plat d'un anévrisme aortique infrarénal ou aortobisiliaque non rompu avec pose d'élément prothétique aortobifémoral, par coelioscopie avec clampage suprarénal |
+Hypopituitarisme |
 
-DGPC810 |
+|
 
--01 |
+|
 
-Mise à plat d'un anévrisme aortique infrarénal ou aortobisiliaque non rompu avec pose d'élément prothétique aortobisiliaque, par coelioscopie avec clampage suprarénal |
+|
 
-DGPC858 |
+E23. 2 |
 
--01 |
+Diabète insipide |
 
-Mise à plat d'un anévrisme aorto-ilio-fémoral avec avec pose d'élément prothétique bifurqué aorto-ilio-fémoral, par coelioscopie avec clampage suprarénal |
+|
 
-DGSA001 |
+|
 
 |
 
-Fermeture de fistule aortodigestive ou iliodigestive avec pontage non anatomique de l'aorte abdominale, par abord direct |
+E43 |
 
-DGSA002 |
+Malnutrition protéino-énergétique grave, sans précision |
 
 |
 
-Fermeture de fistule artérioveineuse aortocave, iliocave ou ilio-iliaque avec pontage artériel, par laparotomie |
-
-DGSA003 |
+|
 
 |
 
-Fermeture d'une fenêtre [fistule] aortopulmonaire, par thoracotomie avec CEC |
+E66. 24 |
 
-DGSA004 |
+Obésité (extrême) avec hypoventilation alvéolaire de l'adulte avec indice de masse corporelle [IMC] égal ou supérieur à 30 kg/ m ² et inférieur à 35 kg/ m ², ou obésité (extrême) avec hypoventilation alvéolaire de l'enfant |
 
 |
-
-Fermeture de fistule aortodigestive ou iliodigestive avec pontage aortoaortique abdominal, par laparotomie |
 
-DGSA005 |
+|
 
 |
 
-Hémostase secondaire à un acte sur l'aorte abdominale ou ses branches, par laparotomie |
+E71. 0 |
 
-DHCA001 |
+Maladie des urines à odeur de sirop d'érable |
 
 |
 
-Suture de plaie de la veine cave inférieure rétrohépatique ou suprahépatique, ou des veines hépatiques, par laparotomie |
-
-DHCA002 |
+|
 
 |
 
-Pontage de la veine brachiocéphalique ou de la veine cave supérieure, par thoracotomie |
+E71. 1 |
 
-DHCA003 |
+Autres anomalies du métabolisme des acides aminés à chaîne ramifiée |
 
 |
 
-Suture de plaie de la veine brachiocéphalique ou de la veine cave supérieure, par thoracotomie |
-
-DHFA001 |
+|
 
 |
 
-Résection de la veine cave inférieure suprarénale rétrohépatique et/ou suprahépatique avec reconstruction, par laparotomie |
+E72. 2 |
 
-DHFA002 |
+Anomalies du cycle de l'uréogenèse |
 
 |
-
-Résection de la veine cave inférieure infrarénale sans reconstruction, par laparotomie |
 
-DHFA003 |
+|
 
 |
 
-Thrombectomie des veines iliaques et/ou de la veine cave inférieure, par laparotomie |
+E74. 3 |
 
-DHFA004 |
+Autres anomalies de l'absorption intestinale des hydrates de carbone |
 
+HSLF003 |
+
 |
 
-Résection de la veine cave inférieure suprarénale infrahépatique sans reconstruction, par laparotomie |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-DHFA005 |
+E84. 0 |
 
-|
+Fibrose kystique avec manifestations pulmonaires |
 
-Résection de la veine cave inférieure suprarénale rétrohépatique et/ou suprahépatique sans reconstruction, par laparotomie |
+|
 
-DHFA006 |
+|
 
 |
 
-Résection de la veine cave inférieure suprarénale infrahépatique avec reconstruction, par laparotomie |
+E84. 1 |
 
-DHFA007 |
+Fibrose kystique avec manifestations intestinales |
 
 |
-
-Résection de la veine cave inférieure infrarénale avec reconstruction, par laparotomie |
 
-DHGA001 |
+|
 
 |
 
-Ablation d'un filtre de la veine cave inférieure sans reconstruction de la veine, par laparotomie |
+F10. 0 |
 
-DHGA002 |
+Troubles mentaux et du comportement liés à l'utilisation d'alcool : intoxication aiguë |
 
 |
 
-Ablation d'un filtre de la veine cave inférieure avec reconstruction de la veine, par laparotomie |
-
-DHNF005 |
+|
 
 |
 
-Fibrinolyse in situ de la veine cave supérieure, par voie veineuse transcutanée |
+F10. 00 |
 
-DHPA001 |
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, sans complication |
 
 |
 
-Désobstruction de la veine cave supérieure, par thoracotomie |
-
-DHSA001 |
+|
 
 |
 
-Oblitération partielle de la veine cave inférieure, par laparotomie |
+F10. 01 |
 
-DHSA002 |
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec traumatismes ou autres blessures physiques |
 
 |
-
-Ligature de la veine cave inférieure et/ou de l'une de ses branches viscérales, par laparotomie |
 
-DKMD001 |
+|
 
 |
 
-Ressuscitation cardiorespiratoire avec intubation trachéale, en dehors d'un bloc médicotechnique |
+F10. 02 |
 
-DKMD002 |
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec d'autres complications médicales |
 
 |
 
-Ressuscitation cardiorespiratoire avec intubation trachéale, dans un bloc médicotechnique |
-
-DZEA001 |
+|
 
 |
 
-Transplantation itérative du coeur, par thoracotomie avec CEC |
+F10. 03 |
 
-DZEA002 |
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec délirium |
 
 |
 
-Transplantation orthotopique du coeur, par thoracotomie avec CEC |
-
-DZEA003 |
+|
 
 |
 
-Transplantation hétérotopique du coeur, par thoracotomie avec CEC |
+F10. 04 |
 
-DZEA004 |
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec distorsion des perceptions |
 
 |
-
-Transplantation du bloc coeur-poumons, par thoracotomie avec CEC |
 
-DZFA004 |
+|
 
 |
 
-Exérèse d'un greffon de transplantation du coeur avec pose d'une assistance circulatoire mécanique biventriculaire interne, par thoracotomie avec CEC |
+F10. 05 |
 
-DZMA001 |
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec coma |
 
 |
 
-Réparation d'une malposition des gros vaisseaux avec communication interventriculaire, sans conduit extracardiaque ni mobilisation de l'artère pulmonaire, par thoracotomie avec CEC |
-
-DZMA002 |
+|
 
 |
 
-Réparation anatomique de la discordance atrioventriculaire et de la transposition ou malposition des gros vaisseaux avec communication interventriculaire et sténose pulmonaire à l'étage ventriculaire et atrial, par thoracotomie avec CEC |
+F10. 06 |
 
-DZMA003 |
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec convulsions |
 
 |
 
-Réparation anatomique à l'étage artériel et atrial de la discordance atrioventriculaire et de la transposition ou malposition des gros vaisseaux avec communication interventriculaire, par thoracotomie avec CEC |
-
-DZMA004 |
+|
 
 |
 
-Réparation à l'étage artériel d'une transposition ou d'une malposition des gros vaisseaux avec fermeture d'une communication interventriculaire, par thoracotomie avec CEC |
+F10. 07 |
 
-DZMA005 |
+Troubles mentaux et du comportement dus à une intoxication aigüe pathologique par l'alcool |
 
 |
-
-Réparation de la tétralogie de Fallot sans section de l'anneau pulmonaire, par thoracotomie avec CEC |
 
-DZMA006 |
+|
 
 |
 
-Réparation à l'étage atrial d'une transposition ou d'une malposition des gros vaisseaux avec fermeture d'une communication interventriculaire, par thoracotomie avec CEC |
+G06. 0 |
 
-DZMA007 |
+Abcès et granulome intracrâniens |
 
 |
 
-Réparation à l'étage artériel de la transposition des gros vaisseaux, par thoracotomie avec CEC |
-
-DZMA009 |
+|
 
 |
 
-Réparation du tronc artériel commun [truncus arteriosus], par thoracotomie avec CEC |
+G47. 3 |
 
-DZMA010 |
+Apnée du sommeil |
 
 |
 
-Réparation d'une malposition des gros vaisseaux avec communication interventriculaire, par pose de conduit extracardiaque ou mobilisation de l'artère pulmonaire, par thoracotomie avec CEC |
-
-DZMA011 |
+|
 
 |
 
-Réparation de la tétralogie de Fallot avec section de l'anneau pulmonaire, par thoracotomie avec CEC |
+G91. 1 |
 
-DZMA012 |
+Hydrocéphalie obstructive (non communicante) |
 
 |
 
-Réparation à l'étage atrial de la transposition des gros vaisseaux, par thoracotomie avec CEC |
-
-DZSA001 |
+|
 
 |
 
-Suppression d'une anastomose palliative pour cardiopathie congénitale, avec angioplastie d'agrandissement d'une branche de l'artère pulmonaire, par thoracotomie avec CEC |
+G92 |
 
-DZSA002 |
+Encéphalopathie toxique |
 
 |
 
-Hémostase secondaire à un acte sur le cœur et/ou les vaisseaux intrathoraciques, par thoracotomie |
-
-EAAF002 |
+|
 
 |
 
-Dilatation intraluminale du tronc de l'artère carotide interne intracrânienne avec pose d'endoprothèse, par voie artérielle transcutanée |
+G93. 2 |
 
-EAAF004 |
+Hypertension intracrânienne bénigne |
 
 |
-
-Dilatation intraluminale du tronc de l'artère carotide interne intracrânienne sans pose d'endoprothèse, par voie artérielle transcutanée |
 
-EABA001 |
+|
 
 |
 
-Enrobage d'un anévrisme artériel intracrânien, par craniotomie |
+G93. 4 |
 
-EACA001 |
+Encéphalopathie, sans précision |
 
+HSLD002 |
+
 |
 
-Exclusion de fistule artérioveineuse de la faux du cerveau ou de la tente du cervelet, par craniotomie |
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-EACA002 |
+G93. 5 |
 
-|
+Compression du cerveau |
 
-Exclusion d'anévrismes artériels intracrâniens multiples, par craniotomie unique |
+|
 
-EACA003 |
+|
 
 |
 
-Exclusion d'un anévrisme artériel intracrânien d'un diamètre supérieur à 20 mm, par craniotomie |
+I15. 0 |
 
-EACA004 |
+Hypertension vasculo-rénale |
 
 |
-
-Exclusion d'un anévrisme artériel vertébrobasilaire d'un diamètre inférieur ou égal à 20 mm, par craniotomie |
 
-EACA005 |
+|
 
 |
 
-Exclusion de fistule artérioveineuse d'un sinus veineux dural [fistule ostéodurale], par craniotomie |
+I62. 0 |
 
-EACA006 |
+Hémorragie sousdurale non traumatique |
 
 |
 
-Exclusion de fistule artérioveineuse durale de la convexité, par craniotomie |
-
-EACA007 |
+|
 
 |
 
-Exclusion d'un anévrisme artériel supratentoriel d'un diamètre inférieur ou égal à 20 mm, par craniotomie |
+I62. 1 |
 
-EAFA001 |
+Hémorragie extradurale non traumatique |
 
 |
 
-Embolectomie ou thromboendartériectomie de vaisseau intracrânien, par craniotomie |
-
-EAFA003 |
+|
 
 |
 
-Exérèse de malformation artérioveineuse cérébrale superficielle supratentorielle d'un diamètre inférieur ou égal à 30 mm, par craniotomie |
+I62. 9 |
 
-EAFA004 |
+Hémorragie intracrânienne (non traumatique), sans précision |
 
 |
-
-Exérèse d'une tumeur du glomus [corpuscule] tympanojugulaire étendue à la fosse postérieure, par craniotomie |
 
-EAFA005 |
+|
 
 |
 
-Exérèse de malformation artérioveineuse encéphalique infratentorielle, par craniotomie |
+I98. 3 |
 
-EAFA008 |
+Varices oesophagiennes hémorragiques au cours de maladies classées ailleurs |
 
 |
 
-Exérèse de malformation artérioveineuse cérébrale profonde supratentorielle, par craniotomie |
-
-EAFA009 |
+|
 
 |
 
-Exérèse de malformation artérioveineuse cérébrale superficielle supratentorielle d'un diamètre supérieur à 30 mm, par craniotomie |
+J05. 0 |
 
-EAJF341 |
+Laryngite obstructive (aiguë) [croup] |
 
 |
 
-Évacuation de thrombus d'artère intracrânienne par voie artérielle transcutanée |
-
-EANF002 |
+|
 
 |
+
+J18. 8 |
 
-Fibrinolyse in situ suprasélective d'artère intracrânienne, par voie artérielle transcutanée |
+Autres pneumopathies, micro-organisme non précisé |
 
-EASA001 |
+GEQE004 |
 
 |
 
-Ligature de vaisseau intracrânien supratentoriel, par craniotomie |
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique |
 
-EASA002 |
+J21. 0 |
 
-|
+Bronchiolite aiguë due au virus respiratoire syncytial [VRS] |
 
-Ligature de vaisseau intracrânien infratentoriel, par craniotomie |
+|
 
-EASF001 |
+|
 
 |
 
-Oblitération de plusieurs anévrismes sacculaires artériels intracrâniens en dehors d'une période aigüe hémorragique, par voie artérielle transcutanée |
+J21. 1 |
 
-EASF004 |
+Bronchiolite aigüe due à métapneumovirus humain |
 
 |
 
-Embolisation suprasélective unilatérale ou bilatérale de branche de l'artère carotide interne, par voie artérielle transcutanée |
-
-EASF005 |
+|
 
 |
 
-Embolisation d'une fistule artérioveineuse durale cranioencéphalique multipédiculaire, par voie artérielle et par voie veineuse transcutanées |
+J21. 8 |
 
-EASF007 |
+Bronchiolite aiguë due à d'autres micro-organismes précisés |
 
 |
-
-Oblitération intraluminale d'une artère intracrânienne porteuse d'un anévrisme en période aigüe hémorragique, par voie artérielle transcutanée |
 
-EASF010 |
+|
 
 |
 
-Oblitération d'un anévrisme sacculaire artériel intracrânien en période aigüe hémorragique, par voie artérielle transcutanée |
+J21. 9 |
 
-EASF011 |
+Bronchiolite (aiguë), sans précision |
 
 |
 
-Oblitération d'un anévrisme sacculaire artériel intracrânien en dehors d'une période aigüe hémorragique, par voie artérielle transcutanée |
-
-EASF012 |
+|
 
 |
 
-Occlusion intraluminale d'un vaisseau intracrânien, par voie vasculaire transcutanée |
+J38. 4 |
 
-EASF013 |
+Oedème du larynx |
 
 |
 
-Oblitération de plusieurs anévrismes sacculaires artériels intracrâniens en période aigüe hémorragique, par voie artérielle transcutanée |
-
-EASF014 |
+|
 
 |
 
-Embolisation sélective ou hypersélective unilatérale ou bilatérale de branche de l'artère carotide interne, par voie artérielle transcutanée |
+J84. 0 |
 
-EASF015 |
+Pneumopathies alvéolaires et pariéto-alvéolaires |
 
-|
+GEQE004 |
 
-Embolisation d'une fistule artérioveineuse durale cranioencéphalique multipédiculaire, par voie artérielle ou veineuse transcutanée |
+|
 
-EBAA002 |
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique |
 
-|
+J84. 1 |
 
-Angioplastie d'élargissement de la bifurcation carotidienne sans thromboendartériectomie, par cervicotomie |
+Autres affections pulmonaires interstitielles avec fibrose |
 
-EBAF001 |
+GEQE004 |
 
 |
-
-Dilatation intraluminale de l'artère carotide interne extracrânienne avec pose d'endoprothèse, par voie artérielle transcutanée |
 
-EBAF004 |
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique |
 
-|
+J84. 8 |
 
-Dilatation intraluminale de l'artère carotide commune cervicale sans pose d'endoprothèse, par voie artérielle transcutanée |
+Autres affections pulmonaires interstitielles précisées |
 
-EBAF010 |
+GEQE004 |
 
 |
 
-Dilatation intraluminale de l'artère carotide commune cervicale avec pose d'endoprothèse, par voie artérielle transcutanée |
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique |
 
-EBAF011 |
+J86. 0 |
 
-|
+Pyothorax avec fistule |
 
-Dilatation intraluminale de la bifurcation carotidienne avec pose d'endoprothèse, par voie artérielle transcutanée |
+|
 
-EBCA001 |
+|
 
 |
 
-Pontage croisé carotidosubclavier ou carotidoaxillaire, par cervicotomie |
+J86. 9 |
 
-EBCA003 |
+Pyothorax sans fistule |
 
 |
 
-Suture de plaie de l'artère carotide commune, par cervicotomie et par thoracotomie |
-
-EBCA004 |
+|
 
 |
 
-Pontage croisé intercarotidien, par cervicotomie |
+J94. 0 |
 
-EBCA005 |
+Épanchement chyleux |
 
 |
 
-Pontage carotidovertébral distal ou subclaviovertébral distal, par cervicotomie |
-
-EBCA008 |
+|
 
 |
 
-Pontage homolatéral carotidosubclavier ou carotidoaxillaire, par cervicotomie |
+J95. 0 |
 
-EBCA010 |
+Fonctionnement défectueux d'une trachéostomie |
 
 |
-
-Pontage artériel extra-intracrânien sans autogreffe, par craniotomie et par cervicotomie |
 
-EBCA011 |
+|
 
 |
 
-Pontage artériel extra-intracrânien avec autogreffe, par craniotomie et par cervicotomie |
+J95. 5 |
 
-EBCA013 |
+Sténose sous-glottique après un acte à visée diagnostique et thérapeutique |
 
 |
-
-Pontage carotidohuméral ou subclaviohuméral, par abord direct |
 
-EBCA014 |
+|
 
 |
 
-Pontage carotidovertébral proximal ou subclaviovertébral proximal, par cervicotomie |
+J96. 0 |
 
-EBCA015 |
+Insuffisance respiratoire aiguë |
 
-|
+GLLD019 |
 
-Pontage aortocarotidien, par cervicotomie et par thoracotomie |
+|
 
-EBCA016 |
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe |
 
-|
+J96. 00 |
 
-Suture de plaie de l'artère vertébrale proximale, par cervicotomie |
+Insuffisance respiratoire aigüe de type I [hypoxique] |
 
-EBCA017 |
+GLLD019 |
 
 |
-
-Pontage entre l'artère carotide commune et l'artère carotide interne homolatérale, par cervicotomie |
 
-EBEA002 |
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe |
 
-|
+J96. 01 |
 
-Réimplantation de l'artère vertébrale proximale dans l'artère subclavière ou dans l'artère carotide commune, par cervicotomie |
+Insuffisance respiratoire aigüe de type II [hypercapnique] |
 
-EBEA004 |
+GLLD019 |
 
 |
 
-Réimplantation de l'artère vertébrale distale dans l'artère carotide interne ou dans l'artère carotide externe, par cervicotomie |
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe |
 
-EBEA005 |
-
-|
+J96. 09 |
 
-Réimplantation de l'artère carotide commune dans l'artère subclavière, par cervicotomie |
+Insuffisance respiratoire aigüe, type non précisé |
 
-EBFA001 |
+GLLD019 |
 
 |
 
-Exérèse d'une tumeur du glomus [corpuscule] carotidien avec conservation de l'axe carotidien, par cervicotomie |
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe |
 
-EBFA003 |
+J98. 60 |
 
-|
+Paralysie du diaphragme |
 
-Thromboendartériectomie de l'artère carotide commune, par cervicotomie |
+|
 
-EBFA004 |
+|
 
 |
 
-Thrombectomie d'un pontage ou d'une thromboendartériectomie des troncs supraaortiques, par thoracotomie |
+K22. 0 |
 
-EBFA008 |
+Achalasie du cardia |
 
-|
+HSLD002 |
 
-Thromboendartériectomie de la bifurcation carotidienne par retournement, par cervicotomie sans dérivation vasculaire |
+|
 
-EBFA010 |
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-|
+K22. 4 |
 
-Thromboendartériectomie de l'artère carotide commune, par cervicotomie et par thoracotomie |
+Dyskinésie de l'oesophage |
 
-EBFA011 |
+HSLD002 |
 
 |
 
-Exérèse d'une tumeur du glomus [corpuscule] carotidien avec reconstruction de l'axe carotidien, par cervicotomie |
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-EBFA013 |
+K29. 0 |
 
-|
+Gastrite hémorragique aiguë |
 
-Thrombectomie d'un pontage ou d'une thromboendartériectomie d'artère à destination cervicocéphalique, par cervicotomie |
+|
 
-EBFA014 |
+|
 
 |
 
-Résection de l'artère carotide interne avec réimplantation dans l'artère carotide commune, par cervicotomie |
+K35. 2 |
 
-EBFA015 |
+Appendicite aigüe avec péritonite généralisée |
 
 |
 
-Thromboendartériectomie de la bifurcation carotidienne par retournement, par cervicotomie avec dérivation vasculaire |
-
-EBFA019 |
+|
 
 |
 
-Résection-anastomose de l'artère carotide interne, par cervicotomie |
+K52. 3 |
 
-EBFA020 |
+Colite non infectieuse indéterminée |
 
-|
+HSLF003 |
 
-Résection-anastomose de l'artère carotide commune, par cervicotomie et par thoracotomie |
+|
 
-EBFA021 |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-|
+K52. 9 |
 
-Résection-anastomose de l'artère carotide commune, par cervicotomie |
+Gastro-entérite et colite non infectieuses, sans précision |
 
-EBKA001 |
+HSLF003 |
 
 |
-
-Remplacement de l'artère carotide commune, par cervicotomie |
 
-EBKA002 |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-|
+K56. 0 |
 
-Remplacement de l'artère carotide interne, par cervicotomie |
+Iléus paralytique |
 
-EBKA003 |
+HSLF002 |
 
 |
-
-Remplacement de l'artère carotide commune, par cervicotomie et par thoracotomie |
 
-EBNF001 |
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-|
+K56. 0 |
 
-Fibrinolyse in situ sélective ou hypersélective d'une artère extracrânienne à destination cervicocéphalique, par voie artérielle transcutanée |
+Iléus paralytique |
 
-EBNF002 |
+HSLF003 |
 
 |
 
-Fibrinolyse in situ suprasélective d'une artère extracrânienne à destination cervicocéphalique, par voie artérielle transcutanée |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-EBSA005 |
+K56. 1 |
 
-|
+Invagination (intestinale) |
 
-Occlusion progressive de l'artère carotide commune ou de l'artère carotide interne par pose de clamp, par cervicotomie |
+|
 
-EBSA011 |
+|
 
 |
 
-Hémostase secondaire, par reprise de cervicotomie |
+K56. 2 |
 
-EBSA012 |
+Volvulus (intestinal) |
 
 |
-
-Hémostase secondaire à un acte sur les vaisseaux cervicocéphaliques, par cervicotomie |
 
-ECAF003 |
+|
 
 |
 
-Dilatation intraluminale du tronc artériel brachiocéphalique ou de l'artère carotide commune intrathoracique sans pose d'endoprothèse, par voie artérielle transcutanée |
+K56. 5 |
 
-ECAF004 |
+Adhérences de l'intestin (brides), avec occlusion |
 
 |
 
-Dilatation intraluminale du tronc artériel brachiocéphalique ou de l'artère carotide commune intrathoracique avec pose d'endoprothèse, par voie artérielle transcutanée |
-
-ECCA006 |
+|
 
 |
 
-Suture de plaie du tronc artériel brachiocéphalique, par thoracotomie |
+K56. 6 |
 
-ECFA001 |
+Occlusions intestinales, autres et sans précision |
 
 |
 
-Thromboendartériectomie du tronc artériel brachiocéphalique, par thoracotomie |
-
-ECKA001 |
+|
 
 |
 
-Remplacement du tronc artériel brachiocéphalique, par thoracotomie |
+K63. 1 |
 
-ECPA003 |
+Perforation de l'intestin (non traumatique) |
 
 |
-
-Section-anastomose d'un vaisseau pour anomalie des arcs aortiques, par thoracotomie sans CEC |
 
-ECSA002 |
+|
 
 |
 
-Ligature du tronc artériel brachiocéphalique, par thoracotomie |
+K65. 0 |
 
-EDCA002 |
+Péritonite aiguë |
 
 |
 
-Suture de plaie de l'artère rénale, par laparotomie ou par lombotomie |
-
-EDEA001 |
+|
 
 |
 
-Réimplantation ou pontage de l'artère iliaque interne ou d'une de ses branches, par laparotomie |
+K66. 1 |
 
-EDEA004 |
+Hémopéritoine |
 
 |
 
-Réimplantation de l'artère rénale dans l'aorte, par laparotomie ou par lombotomie |
-
-EDEA005 |
+|
 
 |
 
-Réimplantation d'une artère digestive dans l'aorte, par laparotomie |
+K72. 0 |
 
-EDFA001 |
+Insuffisance hépatique aiguë et subaiguë |
 
 |
-
-Thromboendartériectomie de l'artère rénale par artériotomie rénale, par laparotomie ou par lombotomie |
 
-EDFA002 |
+|
 
 |
 
-Thrombectomie d'artère digestive, par laparotomie |
+K83. 0 |
 
-EDFA004 |
+Angiocholite [cholangite] |
 
 |
 
-Thromboendartériectomie des artères rénales par aortotomie, par laparotomie |
-
-EDFA005 |
+|
 
 |
 
-Thromboendartériectomie de l'artère mésentérique supérieure et/ou du tronc coeliaque ou de ses branches, par thoraco-phréno-laparotomie |
+K90. 4 |
 
-EDFA008 |
+Malabsorption due à une intolérance, non classée ailleurs |
 
-|
+HSLF003 |
 
-Thrombectomie de l'artère rénale, par laparotomie ou par lombotomie |
+|
 
-EDFA009 |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-|
+K90. 8 |
 
-Résection-anastomose de l'artère rénale, par laparotomie ou par lombotomie |
+Autres malabsorptions intestinales |
 
-EDKA002 |
+HSLF003 |
 
 |
 
-Remplacement de l'artère rénale, par laparotomie ou par lombotomie |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-EDMA001 |
+K91. 2 |
 
-|
-
-Revascularisation de l'artère rénale à partir d'une artère digestive, par laparotomie ou par lombotomie |
+Malabsorption post-chirurgicale, non classée ailleurs |
 
-EDMA003 |
+HSLF003 |
 
 |
 
-Revascularisation des branches de l'artère rénale sur le rein in situ, par laparotomie ou par lombotomie |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-EDMA004 |
+K91. 3 |
 
-|
+Occlusion intestinale post-opératoire, non classée ailleurs |
 
-Réparation de l'artère rénale et/ou de ses branches sur le rein ex situ avec autotransplantation du rein, par laparotomie ou par lombotomie |
+|
 
-EDSF011 |
+|
 
 |
 
-Embolisation des artères iliaques internes [hypogastriques] et/ou de ses branches pour hémorragie du post-partum, par voie artérielle transcutanée |
+K92. 2 |
 
-EFFA002 |
+Hémorragie gastro-intestinale, sans précision |
 
 |
 
-Résection de la veine brachiocéphalique, par thoracotomie |
-
-EGCA002 |
+|
 
 |
 
-Suture de plaie du tronc ou des branches viscérales de la veine iliaque et/ou de la veine cave inférieure infrahépatique, par laparotomie |
+K93. 828 |
 
-EGCA003 |
+Atteintes de l'intestin au cours d'autres maladies classées ailleurs |
 
+HSLF003 |
+
 |
 
-Pontage veineux fémoro-iliaque homolatéral, fémorocave ou fémororénal, par abord direct |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-EHAA001 |
+L03. 2 |
 
-|
+Phlegmon de la face |
 
-Recalibrage d'une anastomose portocave, par laparotomie |
+|
 
-EHCA001 |
+|
 
 |
 
-Pontage veineux mésentéricoatrial, par thoracotomie et par laparotomie |
+L51. 1 |
 
-EHCA002 |
+Érythème polymorphe bulleux |
 
 |
 
-Anastomose veineuse splénorénale distale sélective avec déconnexion portosystémique, par laparotomie |
-
-EHCA003 |
+|
 
 |
 
-Anastomose portocave tronculaire ou portorénale, par laparotomie |
+M31. 1 |
 
-EHCA004 |
+Microangiopathie thrombotique |
 
 |
 
-Anastomose veineuse splénorénale distale sélective sans déconnexion portosystémique, par laparotomie |
-
-EHCA005 |
+|
 
 |
 
-Anastomose entre une branche du système porte autre que la veine splénique ou la veine mésentérique supérieure et le système cave inférieur, par laparotomie |
+P27. 1 |
 
-EHCA006 |
+Dysplasie broncho-pulmonaire survenant pendant la période périnatale |
 
 |
-
-Anastomose mésentéricocave inférieure, par laparotomie |
 
-EHCA007 |
+|
 
 |
 
-Anastomose veineuse splénorénale centrale avec splénectomie, par laparotomie |
+P36. 00 |
 
-EHCA008 |
+Sepsis du nouveau-né à streptocoques, groupe B |
 
 |
 
-Suture de plaie de la veine porte et/ou de l'une de ses branches principales, par laparotomie |
-
-EHCA009 |
+|
 
 |
 
-Anastomose mésentérico-ilio-cave, par laparotomie |
+P36. 10 |
 
-EHCA010 |
+Sepsis du nouveau-né à streptocoques, autres et sans précision |
 
 |
 
-Anastomose entre une branche du système porte et le système cave supérieur, par abord direct |
-
-EHFA001 |
+|
 
 |
 
-Thrombectomie de la veine porte et/ou de l'un de ses affluents principaux, par laparotomie |
+P36. 20 |
 
-ELFA001 |
+Sepsis du nouveau-né à staphylocoques dorés |
 
 |
-
-Résection du tronc de la veine porte, des vaisseaux mésentériques supérieurs et/ou de l'artère hépatique avec rétablissement de la continuité vasculaire, au cours d'une exérèse du foie ou du pancréas |
 
-EMLA001 |
+|
 
 |
 
-Pose d'une dérivation artérioveineuse fémorale, par abord direct |
+P36. 30 |
 
-ENCA001 |
+Sepsis du nouveau-né à staphylocoques, autres et sans précision |
 
 |
 
-Exclusion de malformation artérioveineuse durale rachidienne, par abord direct |
-
-ENFA007 |
+|
 
 |
 
-Exérèse de malformation artérioveineuse intraparenchymateuse de la moelle épinière, par abord direct |
+P36. 40 |
 
-ENSF003 |
+Sepsis du nouveau-né à Escherichia coli |
 
 |
 
-Embolisation de malformation artérioveineuse durale spinale, par voie vasculaire transcutanée |
-
-EPLA002 |
+|
 
 |
 
-Pose d'un cathéter veineux central tunnellisé à double courant pour circulation extracorporelle, par abord direct |
+P36. 50 |
 
-EPLB002 |
+Sepsis du nouveau-né à anaérobies |
 
 |
-
-Pose d'un cathéter central dans 2 veines différentes pour circulation extracorporelle, par voie transcutanée |
 
-EPLF003 |
+|
 
 |
 
-Pose d'un cathéter veineux central tunnellisé pour circulation extracorporelle, par voie transcutanée |
+P36. 80 |
 
-EPLF004 |
+Sepsis du nouveau-né à autres bactéries |
 
 |
 
-Pose de 2 cathéters centraux tunnellisés dans une seule veine pour circulation extracorporelle, par voie transcutanée |
-
-EPLF005 |
+|
 
 |
 
-Pose d'un cathéter veineux central non tunnellisé pour circulation extracorporelle, par voie transcutanée |
+P36. 90 |
 
-EPMA001 |
+Sepsis du nouveau-né, bactérie non précisée |
 
 |
 
-Correction d'une anomalie du retour veineux systémique sans prothèse, par thoracotomie avec CEC |
-
-EPMA002 |
+|
 
 |
 
-Correction d'une anomalie du retour veineux systémique avec prothèse, par thoracotomie avec CEC |
+Q32. 0 |
 
-EPPP003 |
+Trachéomalacie congénitale |
 
 |
-
-Désobstruction locale d'un cathéter veineux pour circulation extracorporelle |
 
-EQCF001 |
+|
 
 |
 
-Circulation extracorporelle pour réchauffement d'une hypothermie accidentelle |
+Q39. 1 |
 
-EQGA001 |
+Atrésie de l'oesophage avec fistule trachéo-oesophagienne |
 
 |
 
-Ablation d'une circulation extracorporelle [CEC] établie sur les vaisseaux périphériques |
-
-EQGA002 |
+|
 
 |
 
-Ablation d'une circulation extracorporelle [CEC] pour assistance circulatoire de longue durée, par thoracotomie |
+Q43. 1 |
 
-EQGA003 |
+Maladie de Hirschsprung |
 
-|
+HSLF003 |
 
-Ablation d'un dispositif d'assistance circulatoire interne ou externe, en dehors d'un dispositif de contrepulsion diastolique intraaortique, par thoracotomie sans CEC |
+|
 
-EQGA004 |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-|
+Q43. 2 |
 
-Ablation d'un dispositif d'assistance circulatoire interne ou externe, en dehors d'un dispositif de contrepulsion diastolique intraaortique, par thoracotomie avec CEC |
+Autres anomalies fonctionnelles congénitales du côlon |
 
-EQKA002 |
+HSLF003 |
 
 |
 
-Changement d'un système d'assistance circulatoire mécanique ventriculaire, par thoracotomie avec CEC |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-EQKA003 |
+Q79. 0 |
 
-|
+Hernie diaphragmatique congénitale |
 
-Changement d'un système d'assistance circulatoire mécanique ventriculaire, par thoracotomie sans CEC |
+|
 
-EQLA001 |
+|
 
 |
 
-Pose d'une circulation extracorporelle pour assistance circulatoire de longue durée, par thoracotomie |
+Q79. 3 |
 
-EQLA002 |
+Gastroschisis |
 
-|
+HSLF003 |
 
-Pose d'une circulation extracorporelle en urgence pour assistance circulatoire, par abord vasculaire périphérique |
+|
 
-EQLA003 |
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures |
 
-|
+R04. 0 |
 
-Pose d'une assistance circulatoire mécanique monoventriculaire externe, par thoracotomie sans CEC |
+Épistaxis |
 
-EQLA004 |
+GABD001 |
 
 |
 
-Pose d'une assistance circulatoire mécanique monoventriculaire externe, par thoracotomie avec CEC |
+Tamponnement nasal antérieur et postérieur |
 
-EQLA005 |
+R04. 0 |
 
-|
+Épistaxis |
 
-Pose d'une assistance circulatoire mécanique biventriculaire externe, par thoracotomie sans CEC |
+GASE001 |
 
-EQLA006 |
-
 |
-
-Pose d'une assistance circulatoire mécanique biventriculaire externe, par thoracotomie avec CEC |
 
-EQLA007 |
+Hémostase intranasale par cautérisation ou électrocoagulation, par endoscopie |
 
-|
+R04. 0 |
 
-Pose d'une assistance circulatoire mécanique monoventriculaire interne, par thoracotomie sans CEC |
+Épistaxis |
 
-EQLA008 |
+GASE002 |
 
 |
 
-Pose d'une assistance circulatoire mécanique monoventriculaire interne, par thoracotomie avec CEC |
+Hémostase intranasale par injection unilatérale ou bilatérale transmuqueuse d'agent pharmacologique, par endoscopie |
 
-EQLA009 |
+R04. 2 |
 
-|
+Hémoptysie |
 
-Pose d'une assistance circulatoire mécanique biventriculaire interne, par thoracotomie sans CEC |
+|
 
-EQLA010 |
+|
 
 |
 
-Pose d'une prothèse mécanique biventriculaire orthotopique, par thoracotomie avec CEC |
+R09. 2 |
 
-EQLA011 |
+Arrêt respiratoire |
 
 |
 
-Pose d'un dispositif interne d'assistance circulatoire, en dehors de la circulation extracorporelle [CEC] et de ventricule artificiel, par thoracotomie sans CEC |
-
-EQLF005 |
+|
 
 |
 
-Administration intraveineuse continue d'agent pharmacologique vasoactif chez le nouveau-né pour suppléance hémodynamique, par 24 heures |
+R10. 0 |
 
-EQMF003 |
+Syndrome abdominal aigu |
 
 |
-
-Suppléance hémodynamique et ventilatoire d'un patient en état de mort encéphalique, en vue de prélèvement d'organe |
 
-EQMP001 |
+|
 
 |
 
-Suppléance hémodynamique par dispositif de contrepulsion diastolique intraaortique, par 24 heures |
+R40. 10 |
 
-EQQF004 |
+État paucirelationnel |
 
 |
 
-Mesure et enregistrement des pressions du coeur droit, de l'artère pulmonaire et du coeur gauche, sans injection de produit de contraste, par voie veineuse transcutanée avec perforation du septum interatrial |
-
-EQQH004 |
+|
 
 |
 
-Mesure et enregistrement des pressions du coeur droit, de l'artère pulmonaire et du coeur gauche, avec injection de produit de contraste, par voie veineuse transcutanée avec perforation du septum interatrial |
+R40. 18 |
 
-EQQH005 |
+Stupeur, autre et sans précision |
 
 |
 
-Mesure et enregistrement des pressions du coeur droit, de l'artère pulmonaire et du coeur gauche, avec injection de produit de contraste, par voie veineuse transcutanée et par voie artérielle transcutanée ou cathétérisme du foramen ovale, avant l'âge de 24 |
-
-EQQP004 |
+|
 
 |
 
-Suppléance hémodynamique par circulation extracorporelle, par 24 heures |
+R52. 10 |
 
-EQQP012 |
+Douleur neuropathique |
 
 |
-
-Surveillance continue des pressions du coeur droit avec mesure du débit cardiaque ou de la fraction d'éjection du ventricule droit, par 24 heures |
 
-EQQP013 |
+|
 
 |
 
-Suppléance hémodynamique par assistance circulatoire mécanique ventriculaire, par 24 heures |
+R52. 18 |
 
-EQQP014 |
+Douleurs chroniques irréductibles, autres et non précisées |
 
 |
 
-Surveillance continue des pressions du coeur droit avec mesure du débit cardiaque ou de la fraction d'éjection du ventricule droit, avec surveillance continue de la pression intraartérielle par méthode effractive, par 24 heures |
-
-EZKA001 |
+|
 
 |
 
-Changement de la membrane d'un site d'accès vasculaire implanté pour circulation extracorporelle |
+R55 |
 
-EZLA001 |
+Syncope et collapsus (sauf choc) |
 
 |
 
-Implantation souscutanée d'un site d'accès vasculaire pour circulation extracorporelle |
-
-EZMA004 |
+|
 
 |
 
-Création d'une fistule artérioveineuse pour accès vasculaire par abord direct sans superficialisation veineuse, chez un sujet de moins de 20 kg |
+R56. 0 |
 
-EZSA005 |
+Convulsions fébriles |
 
 |
-
-Fermeture d'une communication artérioveineuse tronculaire congénitale [d'un shunt artérioveineux tronculaire congénital], par abord direct |
 
-FBFA003 |
+|
 
 |
 
-Exérèse du thymus vestigial, par thoracotomie |
+R56. 8 |
 
-FBFA900 |
+Convulsions, autres et non précisées |
 
 |
 
-Exérèse du thymus vestigial, par thoracotomie avec préparation par thoracoscopie |
-
-FCFA003 |
+|
 
 |
 
-Exérèse de lymphangiome cervical avec extension médiastinale, par cervicotomie |
+R57. 1 |
 
-FCFA004 |
+Choc hypovolémique |
 
 |
 
-Curage lymphonodal [ganglionnaire] médiastinal unilatéral ou bilatéral, par thoracotomie |
-
-FCFA014 |
+|
 
 |
 
-Exérèse de lymphangiome cervicoparotidien avec extension buccopharyngée |
+R57. 8 |
 
-FCFA015 |
+Autres chocs |
 
 |
-
-Exérèse de lymphangiome cervicoparotidien |
 
-FCFA017 |
+|
 
 |
 
-Curage lymphonodal du hile du poumon et du médiastin, au cours d'une intervention pleuropulmonaire |
+R65. 2 |
 
-FCFA023 |
+Syndrome de réponse inflammatoire systémique d'origine non infectieuse sans défaillance d'organe |
 
 |
-
-Exérèse de lymphangiome cervicoparotidien avec extension buccopharyngée et médiastinale, par cervicotomie |
 
-FCFC002 |
+|
 
 |
 
-Exérèse de noeud [ganglion] lymphatique du médiastin, par thoracoscopie ou par médiastinoscopie |
+R65. 9 |
 
-FCSA001 |
+Syndrome de réponse inflammatoire systémique, sans précision |
 
 |
-
-Fermeture de fistule ou ligature du conduit thoracique, par thoracotomie |
 
-FCSC001 |
+|
 
 |
 
-Fermeture de fistule ou ligature du conduit thoracique, par thoracoscopie |
+S02. 10 |
 
-FEJF002 |
+Fracture fermée de la base du crâne |
 
 |
 
-Séance non programmée de soustraction thérapeutique de plasma avec perfusion de produit de substitution [échange plasmatique] pour affection aigüe |
-
-FEJF009 |
+|
 
 |
 
-Séance d'ultrafiltration plasmatique |
+S02. 11 |
 
-FELF003 |
+Fracture ouverte de la base du crâne |
 
 |
 
-Administration intraveineuse simultanée de deux des produits sanguins suivants : plasma frais congelé, plaquettes, facteur antihémophilique, fibrinogène, antithrombine III pour suppléance de coagulopathie, par 24 heures |
-
-FELF004 |
+|
 
 |
 
-Transfusion de concentré de globules rouges d'un volume supérieur à une demimasse sanguine chez l'adulte ou à 40 millilitres par kilogramme [ml/kg] chez le nouveau-né en moins de 24 heures |
+S14. 0 |
 
-FEPF004 |
+Commotion et oedème de la moelle cervicale |
 
 |
-
-Séance non programmée de leucaphérèse thérapeutique pour affection aigüe |
 
-FFSA001 |
+|
 
 |
 
-Hémostase splénique avec conservation de la rate, par laparotomie |
+S14. 1 |
 
-FFSC272 |
+Lésions traumatiques de la moelle cervicale, autres et non précisées |
 
 |
 
-Hémostase splénique avec conservation de la rate, par coelioscopie |
-
-GCMA001 |
+|
 
 |
 
-Plastie des choanes par abord transpalatin, pour imperforation unilatérale ou bilatérale |
+S21. 1 |
 
-GDCA002 |
+Plaie ouverte de la paroi thoracique antérieure |
 
 |
 
-Exclusion du larynx |
-
-GDFA001 |
+|
 
 |
 
-Hyo-thyro-épiglottectomie |
+S22. 40 |
 
-GDFA003 |
+Fractures fermées multiples de côtes |
 
 |
-
-Glottectomie horizontale |
 
-GDFA005 |
+|
 
 |
 
-Laryngectomie totale |
+S22. 50 |
 
-GDFA006 |
+Volet costal, avec fracture fermée |
 
 |
 
-Laryngectomie partielle verticale |
-
-GDFA007 |
+|
 
 |
 
-Exérèse de lésion laryngée infraglottique, par laryngotomie |
+S22. 51 |
 
-GDFA008 |
+Volet costal, avec fracture ouverte |
 
 |
 
-Laryngectomie supraglottique étendue à la base de langue |
-
-GDFA009 |
+|
 
 |
 
-Laryngectomie supracricoïdienne avec cricohyoïdopexie |
+S24. 0 |
 
-GDFA011 |
+Commotion et oedème de la moelle dorsale |
 
 |
-
-Laryngectomie supracricoïdienne avec crico-hyoïdo-épiglottopexie |
 
-GDFA012 |
+|
 
 |
 
-Laryngopharyngectomie supracricoïdienne avec cricohyoïdopexie |
+S24. 1 |
 
-GDFA013 |
+Lésions traumatiques autres et non précisées de la moelle dorsale |
 
 |
 
-Hémilaryngopharyngectomie |
-
-GDFA014 |
+|
 
 |
 
-Laryngectomie supraglottique |
+S32. 70 |
 
-GDFA015 |
+Fractures fermées multiples du rachis lombaire et du bassin |
 
 |
 
-Exérèse de lésion du larynx, par thyrotomie latérale extramuqueuse |
-
-GDFA016 |
+|
 
 |
 
-Laryngectomie frontale antérieure avec épiglottoplastie |
+S34. 0 |
 
-GDFA017 |
+Commotion et oedème de la moelle lombaire |
 
 |
 
-Laryngopharyngectomie supraglottique |
-
-GDFA018 |
+|
 
 |
 
-Laryngectomie totale étendue à la base de langue |
+S34. 1 |
 
-GDFE016 |
+Autres lésions traumatiques de la moelle lombaire |
 
 |
 
-Dilatation et/ou résection de sténose du larynx, par endoscopie avec laser |
-
-GDMA001 |
+|
 
 |
 
-Laryngoplastie, par cervicotomie |
+S36. 2 |
 
-GDMA002 |
+Lésion traumatique du pancréas |
 
 |
-
-Laryngotrachéoplastie, par cervicotomie |
 
-GDMA003 |
+|
 
 |
 
-Réparation de fracas du larynx |
+S36. 20 |
 
-GDNE001 |
+Lésion traumatique du pancréas, sans plaie intra-abdominale |
 
 |
 
-Coagulation d'un oedème du larynx, par laryngoscopie directe avec laser |
-
-GDNE004 |
+|
 
 |
 
-Coagulation d'un oedème du larynx, par laryngoscopie directe sans laser |
+S36. 21 |
 
-GDPE001 |
+Lésion traumatique du pancréas, avec plaie intra-abdominale |
 
 |
 
-Désobstruction du larynx, par laryngoscopie directe avec laser |
-
-GDSA001 |
+|
 
 |
 
-Fermeture d'un diastème laryngé congénital |
+S36. 3 |
 
-GDSA002 |
+Lésion traumatique de l'estomac |
 
 |
-
-Fermeture d'un diastème laryngotrachéal congénital |
 
-GDSA003 |
+|
 
 |
 
-Fermeture d'une fente laryngo-trachéo-pharyngo-oesophagienne congénitale, par cervicotomie et par thoracotomie |
+S36. 30 |
 
-GDSA004 |
+Lésion traumatique de l'estomac, sans plaie intra-abdominale |
 
 |
 
-Fermeture d'une fente laryngo-trachéo-pharyngo-oesophagienne congénitale, par cervicotomie |
-
-GECA001 |
+|
 
 |
 
-Suture de plaie ou de rupture de bronche, par thoracotomie |
+S36. 31 |
 
-GECA002 |
+Lésion traumatique de l'estomac, avec plaie intra-abdominale |
 
 |
 
-Suture de plaie ou de rupture de la trachée, par cervicothoracotomie ou par thoracotomie |
-
-GECA003 |
+|
 
 |
 
-Suture de plaie ou de rupture de la trachée, par cervicotomie |
+S36. 4 |
 
-GEFA001 |
+Lésion traumatique de l'intestin grêle |
 
 |
-
-Résection-anastomose de la trachée sans mobilisation viscérale cardiopulmonaire par thoracotomie, avec abaissement du larynx par cervicotomie |
 
-GEFA002 |
+|
 
 |
 
-Résection-anastomose cricotrachéale, par cervicotomie |
+S36. 40 |
 
-GEFA003 |
+Lésion traumatique de l'intestin grêle, sans plaie intra-abdominale |
 
 |
 
-Résection-anastomose de la trachée avec abaissement du larynx, par cervicothoracotomie |
-
-GEFA004 |
+|
 
 |
 
-Résection-anastomose de la bifurcation trachéale, par thoracotomie |
+S36. 41 |
 
-GEFA005 |
+Lésion traumatique de l'intestin grêle, avec plaie intra-abdominale |
 
 |
 
-Résection-anastomose de la trachée avec mobilisation viscérale cardiopulmonaire par thoracotomie, avec abaissement du larynx par cervicotomie |
-
-GEFA006 |
+|
 
 |
 
-Résection-anastomose de la trachée sans abaissement du larynx, par thoracotomie |
+S36. 5 |
 
-GEFA007 |
+Lésion traumatique du côlon |
 
 |
-
-Résection-anastomose de la trachée avec abaissement du larynx, par cervicotomie |
 
-GEFA008 |
+|
 
 |
 
-Résection-anastomose de la trachée sans abaissement du larynx, par cervicothoracotomie |
+S36. 50 |
 
-GEFA009 |
+Lésion traumatique du côlon, sans plaie intra-abdominale |
 
 |
 
-Résection-anastomose de la trachée avec mobilisation viscérale cardiopulmonaire sans abaissement du larynx, par thoracotomie |
-
-GEFA010 |
+|
 
 |
 
-Résection-anastomose thyrotrachéale, par cervicotomie |
+S36. 51 |
 
-GEFA011 |
+Lésion traumatique du côlon, avec plaie intra-abdominale |
 
 |
 
-Résection-anastomose bronchique, par thoracotomie |
-
-GEFA012 |
+|
 
 |
 
-Résection-anastomose de la trachée sans abaissement du larynx, par cervicotomie |
+S36. 6 |
 
-GEFA013 |
+Lésion traumatique du rectum |
 
 |
-
-Résection-anastomose de la trachée pour sténose congénitale de la trachée, par thoracotomie avec CEC |
 
-GEFE001 |
+|
 
 |
 
-Séance de résection et/ou de dilatation de sténose de la trachée, par endoscopie avec laser |
+S36. 60 |
 
-GEFE002 |
+Lésion traumatique du rectum, sans plaie intra-abdominale |
 
 |
 
-Séance de résection et/ou de dilatation de sténose de la trachée, par endoscopie sans laser |
-
-GEGA001 |
+|
 
 |
 
-Ablation de corps étranger intrabronchique, par thoracotomie |
+S36. 61 |
 
-GEJD002 |
+Lésion traumatique du rectum, avec plaie intra-abdominale |
 
 |
 
-Lavage pulmonaire unilatéral à visée thérapeutique pour protéinose alvéolaire, par sonde d'intubation à double lumière |
-
-GEJE002 |
+|
 
 |
 
-Lavage pulmonaire unilatéral à visée thérapeutique pour protéinose alvéolaire, par endoscopie |
+S37. 0 |
 
-GEKA001 |
+Lésion traumatique du rein |
 
 |
-
-Remplacement de la trachée par prothèse, par cervicotomie ou par thoracotomie |
 
-GELA001 |
+|
 
 |
 
-Pose de tuteur trachéal, par cervicotomie |
+S37. 00 |
 
-GELD001 |
+Lésion traumatique du rein, sans plaie intra-abdominale |
 
 |
 
-Instillation de surfactant exogène chez un nouveau-né en ventilation mécanique |
-
-GELD003 |
+|
 
 |
 
-Intubation trachéale avec instillation de surfactant exogène |
+S37. 01 |
 
-GELE002 |
+Lésion traumatique du rein, avec plaie intra-abdominale |
 
 |
 
-Instillation intrabronchique d'agent pharmacologique à visée thérapeutique, par bronchoscopie au tube rigide |
-
-GELE006 |
+|
 
 |
 
-Pose de tuteur trachéal, par endoscopie |
+T17. 5 |
 
-GELE007 |
+Corps étranger dans les bronches |
 
 |
-
-Pose intrabronchique de matériel à visée hémostatique, par bronchoscopie au tube rigide |
 
-GELE008 |
+|
 
 |
 
-Pose d'une endoprothèse trachéobronchique, par endoscopie |
+T31. 1 |
 
-GELE133 |
+Brûlures couvrant entre 10 et moins de 20 % de la surface du corps |
 
 |
 
-Pose de spirales endobronchiques par endoscopie |
-
-GELF001 |
+|
 
 |
 
-Pose de cathéter laryngé ou de cathéter trachéal, par voie transcutanée |
+T40. 3 |
 
-GEMA002 |
+Intoxication par méthadone |
 
 |
 
-Plastie de la trachée par autogreffe ou lambeau, par cervicotomie ou par thoracotomie |
-
-GESA003 |
+|
 
 |
 
-Fermeture de fistule bronchique, par thoracotomie |
+T40. 5 |
 
-GFBA001 |
+Intoxication par cocaïne |
 
 |
-
-Réduction bilatérale de volume pulmonaire, par thoracotomie unique |
 
-GFBA002 |
+|
 
 |
 
-Réduction unilatérale de volume pulmonaire, par thoracotomie |
+T40. 6 |
 
-GFBA003 |
+Intoxication par narcotiques, autres et sans précision |
 
 |
-
-Réduction bilatérale de volume pulmonaire, par thoracotomie bilatérale |
 
-GFBA004 |
+|
 
 |
 
-Réduction de volume pulmonaire, par thoracoscopie ou par thoracotomie avec préparation par thoracoscopie |
+T43. 0 |
 
-GFCA001 |
+Intoxication par antidépresseurs tricycliques et tétracycliques |
 
 |
-
-Suture de plaie pleuropulmonaire, par thoracotomie |
 
-GFCC001 |
+|
 
 |
 
-Suture de plaie pleuropulmonaire, par thoracoscopie |
+T43. 1 |
 
-GFFA001 |
+Intoxication par antidépresseurs inhibiteurs de la mono-amine-oxydase |
 
 |
 
-Pneumonectomie avec exérèse totale de la plèvre [Pleuropneumonectomie], par thoracotomie |
-
-GFFA002 |
+|
 
 |
 
-Pneumonectomie avec résection et remplacement prothétique de la veine cave supérieure, par thoracotomie |
+T43. 2 |
 
-GFFA003 |
+Intoxication par antidépresseurs, autres et non précisés |
 
 |
 
-Exérèse de kyste bronchogénique, par thoracotomie |
-
-GFFA004 |
+|
 
 |
 
-Lobectomie pulmonaire avec résection-anastomose ou réimplantation de bronche, par thoracotomie |
+T46. 0 |
 
-GFFA005 |
+Intoxication par glucosides cardiotoniques et médicaments d'action similaire |
 
 |
-
-Résection de bulle d'emphysème pulmonaire, par thoracotomie |
 
-GFFA006 |
+|
 
 |
 
-Lobectomie pulmonaire avec résection et remplacement prothétique de la veine cave supérieure, par thoracotomie |
+T46. 4 |
 
-GFFA007 |
+Intoxication par inhibiteurs de l'enzyme de conversion |
 
 |
 
-Pneumonectomie avec résection d'organe et/ou de structure de voisinage, par thoracotomie |
-
-GFFA008 |
+|
 
 |
 
-Lobectomie pulmonaire supérieure avec résection de côte et libération du plexus brachial, par thoracotomie |
+T46. 5 |
 
-GFFA009 |
+Intoxication par autres antihypertenseurs, non classés ailleurs |
 
 |
 
-Lobectomie pulmonaire, par thoracotomie avec préparation par thoracoscopie |
-
-GFFA009 |
-
--30 |
+|
 
-Lobectomie pulmonaire, par thoracotomie avec préparation par thoracoscopie |
+|
 
-GFFA009 |
+T46. 9 |
 
--40 |
+Intoxication par substances agissant essentiellement sur le système cardio-vasculaire, autres et sans précision |
 
-Lobectomie pulmonaire, par thoracotomie avec préparation par thoracoscopie |
+|
 
-GFFA010 |
+|
 
 |
 
-Bilobectomie pulmonaire avec résection de la paroi thoracique, par thoracotomie |
+T68. + 0 |
 
-GFFA011 |
+Hypothermie, température corporelle égale ou inférieure à 32° C |
 
 |
 
-Pneumonectomie avec résection-anastomose de la bifurcation trachéale, par thoracotomie |
-
-GFFA012 |
+|
 
 |
+
+T75. 1 |
 
-Pneumonectomie, par thoracotomie avec préparation par thoracoscopie |
+Noyade et submersion non mortelle |
 
-GFFA012 |
+|
 
--30 |
+|
 
-Pneumonectomie, par thoracotomie avec préparation par thoracoscopie |
+|
 
-GFFA012 |
+T80. 0 |
 
--40 |
+Embolie gazeuse consécutive à une injection thérapeutique, une perfusion et une transfusion |
 
-Pneumonectomie, par thoracotomie avec préparation par thoracoscopie |
+|
 
-GFFA013 |
+|
 
 |
 
-Lobectomie pulmonaire, par thoracotomie |
+T80. 3 |
 
-GFFA014 |
+Réaction d'incompatibilité ABO |
 
 |
 
-Exérèse de kyste hydatique du poumon, par thoracotomie |
-
-GFFA015 |
+|
 
 |
 
-Bilobectomie pulmonaire avec résection et remplacement prothétique de la veine cave supérieure, par thoracotomie |
+T81. 1 |
 
-GFFA016 |
+Choc pendant ou après un acte à visée diagnostique et thérapeutique, non classé ailleurs |
 
 |
 
-Lobectomie pulmonaire avec résection-anastomose de la veine cave supérieure ou résection de l'oreillette gauche, par thoracotomie |
-
-GFFA017 |
+|
 
 |
 
-Exérèse partielle non anatomique unique du poumon, par thoracotomie |
+T85. 0 |
 
-GFFA018 |
+Complication mécanique d'un shunt ventriculaire intracrânien (communication) |
 
 |
-
-Bilobectomie pulmonaire, par thoracotomie |
 
-GFFA019 |
+|
 
 |
 
-Exérèse de lobe pulmonaire restant [Totalisation de pneumonectomie], par thoracotomie |
+Z43. 0 |
 
-GFFA021 |
+Surveillance de trachéostomie |
 
 |
 
-Exérèses partielles non anatomiques multiples du poumon, par thoracotomie |
-
-GFFA022 |
+|
 
 |
 
-Lobectomie pulmonaire avec résection d'organe et/ou de structure de voisinage, par thoracotomie |
+Z45. 84 |
 
-GFFA023 |
+Ajustement et entretien d'une prothèse interne du système nerveux central |
 
 |
 
-Bilobectomie pulmonaire avec résection-anastomose ou réimplantation de bronche, par thoracotomie |
-
-GFFA024 |
+|
 
 |
 
-Pneumonectomie, par thoracotomie |
+Z99. 1 |
 
-GFFA025 |
+Dépendance envers un respirateur |
 
 |
-
-Pneumonectomie avec résection de la paroi thoracique, par thoracotomie |
 
-GFFA026 |
+|
 
 |
 
-Lobectomie pulmonaire avec résection-anastomose de la bifurcation trachéale, par thoracotomie |
+Z99. 1 + 0 |
 
-GFFA027 |
+Dépendance envers un respirateur : ventilation par trachéostomie |
 
 |
 
-Lobectomie pulmonaire avec résection de la paroi thoracique, par thoracotomie |
-
-GFFA028 |
+|
 
 |
 
-Pneumonectomie avec résection-anastomose de la veine cave supérieure ou résection de l'oreillette gauche, par thoracotomie |
+Z99. 1 + 1 |
 
-GFFA029 |
+Dépendance envers un respirateur : ventilation par masque nasal |
 
 |
 
-Segmentectomie pulmonaire unique ou multiple, par thoracotomie |
-
-GFFA030 |
+|
 
 |
 
-Lobectomie pulmonaire supérieure avec résection de côte et libération du plexus brachial, par cervicothoracotomie |
+Z99. 1 + 8 |
 
-GFFA031 |
+Dépendance envers un respirateur : ventilation par un autre moyen |
 
 |
-
-Bilobectomie pulmonaire avec résection-anastomose de la veine cave supérieure ou résection de l'oreillette gauche, par thoracotomie |
 
-GFFA032 |
+|
 
 |
 
-Résection de bulle d'emphysème avec réduction de volume pulmonaire, par thoracotomie |
+Z99. 2 |
 
-GFFA033 |
+Dépendance envers une dialyse rénale |
 
 |
 
-Lobectomie pulmonaire supérieure avec résection de côte, de vertèbre, de vaisseau subclavier, exérèse de noeud [ganglion] lymphatique cervical et libération du plexus brachial, par cervicothoracotomie |
-
-GFFA034 |
+|
 
 |
 
-Bilobectomie pulmonaire avec résection d'organe et/ou de structure de voisinage, par thoracotomie |
+Z99. 2 + 0 |
 
-GFFA035 |
+Dépendance envers une hémodialyse (rénale) |
 
 |
 
-Exérèse de séquestration extralobaire, par thoracotomie |
-
-GFFC002 |
+|
 
 |
 
-Exérèse partielle non anatomique du poumon, par thoracoscopie |
+Z99. 2 + 1 |
 
-GFFC002 |
+Dépendance envers une dialyse péritonéale |
 
--30 |
+|
 
-Exérèse partielle non anatomique du poumon, par thoracoscopie |
+|
 
-GFFC002 |
+|
 
--40 |
+Z99. 2 + 8 |
 
-Exérèse partielle non anatomique du poumon, par thoracoscopie |
+Dépendance envers une dialyse rénale, autre |
 
-GFFC003 |
+|
 
 |
 
-Exérèse de séquestration extralobaire, par thoracoscopie |
+|
 
 NOTA :
 
-Conformément à l’article 14 de l’arrêté du 1er mars 2022 (SSAH2207477A), ces dispositions entrent en vigueur au 1er mars 2022.
+Conformément à l’article 3 de l’arrêté du 1er mars 2023 (SPRH2305803A), ces dispositions entrent en vigueur au 1er mars 2023.

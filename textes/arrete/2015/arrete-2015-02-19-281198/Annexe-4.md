@@ -1,333 +1,215 @@
 # Article Annexe 4
 
-Liste 1. Actes permettant la valorisation d'une séance de radiothérapie en sus du GHS couvrant les prestations de séjour et de soins délivrées au patient
+LISTE 1 : ACTES PERMETTANT LA VALORISATION D'UNE SÉANCE DE RADIOTHÉRAPIE EN SUS DU GHS COUVRANT LES PRESTATIONS DE SÉJOUR ET DE SOINS DÉLIVRÉES AU PATIENT
 
-ACTES DE RADIOTHÉRAPIE DE LA CCAM
+CODE |
 
-|
-
-Code
-
-|
-
-Libellé de l'acte
-
-|
-
-ZZNL061-00
-
-|
-
-Séance d'irradiation externe par machine de puissance inférieure à 5 mégavolts [MV]
-
-|
-
-ZZNL053-00
-
-|
-
-Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], sans système de contrôle du positionnement
-
-|
-
-ZZNL064-00
-
-|
-
-Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'imagerie portale
-
-|
-
-ZZNL048-00
-
-|
-
-Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'un collimateur multilame
-
-|
-
-ZZNL065-00
-
-|
-
-Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'un collimateur multilame et d'imagerie portale
-
-|
-
-ZZNL062-00
-
-|
-
-Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'un système de repositionnement
-
-|
-
-ZZNL063-00
-
-|
-
-Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'un système de repositionnement guidé par imagerie [IGRT]
-
-|
-
-ZZNL050-00
-
-|
-
-Séance d'irradiation externe par accélérateur linéaire avec modulation d'intensité, sans contrôle de la position de la cible
-
-|
-
-ZZNL054-00
-
-|
-
-Séance d'irradiation externe par accélérateur linéaire avec modulation d'intensité, avec contrôle de la position de la cible
-
-|
+EXT. PMSI |
 
-ZZNL051-00
-
-|
+LIBELLÉ DE L'ACTE |
 
-Séance d'irradiation externe par machine dédiée produisant des photons avec modulation d'intensité et contrôle de la position de la cible par imagerie [IGRT]
+AZNL001 |
 
 |
 
-ZZNL058-00
+Séance d'irradiation externe du névraxe [irradiation craniospinale] |
 
-|
-
-Séance d'irradiation externe en conditions stéréotaxiques par machine produisant des photons avec guidage par imagerie, sans synchronisation avec la respiration
+QZNL001 |
 
 |
 
-ZZNL052-00
-
-|
+Séance d'irradiation cutanée totale |
 
-Séance d'irradiation externe en conditions stéréotaxiques par machine produisant des photons avec guidage par imagerie, avec synchronisation avec la respiration
+ZZNL045 |
 
 |
 
-ZZNL059-00
+Séance d'irradiation externe par protons |
 
-|
-
-Séance d'irradiation externe en conditions stéréotaxiques par machine dédiée produisant des photons avec guidage par imagerie, sans synchronisation avec la respiration
+ZZNL046 |
 
 |
 
-ZZNL060-00
-
-|
+Séance d'irradiation externe par neutrons |
 
-Séance d'irradiation externe en conditions stéréotaxiques par machine dédiée produisant des photons avec guidage par imagerie, avec synchronisation avec la respiration
+ZZNL047 |
 
 |
 
-AZNL001-00
+Séance d'irradiation corporelle totale [ICT] |
 
-|
-
-Séance d'irradiation externe du névraxe [irradiation craniospinale]
+ZZNL048 |
 
 |
 
-ZZNL045-00
-
-|
+Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'un collimateur multilame |
 
-Séance d'irradiation externe par protons
+ZZNL050 |
 
 |
 
-ZZNL046-00
+Séance d'irradiation externe par accélérateur linéaire avec modulation d'intensité, sans contrôle de la position de la cible |
 
-|
+ZZNL051 |
 
-Séance d'irradiation externe par neutrons
-
 |
-
-ZZNL047-00
 
-|
+Séance d'irradiation externe par machine dédiée produisant des photons avec modulation d'intensité et contrôle de la position de la cible par imagerie [IGRT] |
 
-Séance d'irradiation corporelle totale [ICT]
+ZZNL052 |
 
 |
-
-QZNL001-00
 
-|
+Séance d'irradiation externe en conditions stéréotaxiques par machine produisant des photons avec guidage par imagerie, avec synchronisation avec la respiration |
 
-Séance d'irradiation cutanée totale
+ZZNL053 |
 
 |
-
-ZZNL066-00
 
-|
+Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], sans système de contrôle du positionnement |
 
-Séance d'irradiation de contact endocavitaire
+ZZNL054 |
 
 |
 
-Liste 2. GHS excluant le paiement des actes de radiothérapie en sus
+Séance d'irradiation externe par accélérateur linéaire avec modulation d'intensité, avec contrôle de la position de la cible |
 
-GHM
+ZZNL058 |
 
 |
-
-LIBELLÉ DU GHM
 
-|
+Séance d'irradiation externe en conditions stéréotaxiques par machine produisant des photons avec guidage par imagerie, sans synchronisation avec la respiration |
 
-GHS
+ZZNL059 |
 
 |
-
-28Z19Z
 
-|
+Séance d'irradiation externe en conditions stéréotaxiques par machine dédiée produisant des photons avec guidage par imagerie, sans synchronisation avec la respiration |
 
-Préparations à une irradiation externe par RCMI ou techniques spéciales
+ZZNL060 |
 
 |
-
-9626
 
-|
+Séance d'irradiation externe en conditions stéréotaxiques par machine dédiée produisant des photons avec guidage par imagerie, avec synchronisation avec la respiration |
 
-9627
+ZZNL061 |
 
 |
-
-28Z20Z
 
-|
+Séance d'irradiation externe par machine de puissance inférieure à 5 mégavolts [MV] |
 
-Préparations à une irradiation externe avec dosimétrie tridimensionnelle avec HDV
+ZZNL062 |
 
 |
 
-9628
-
-|
+Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'un système de repositionnement |
 
-28Z21Z
+ZZNL063 |
 
 |
 
-Préparations à une irradiation externe avec dosimétrie tridimensionnelle sans HDV
+Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'un système de repositionnement guidé par imagerie [IGRT] |
 
-|
-
-9629
+ZZNL064 |
 
 |
 
-28Z22Z
-
-|
+Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'imagerie portale |
 
-Autres préparations à une irradiation externe
+ZZNL065 |
 
 |
 
-9630
+Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'un collimateur multilame et d'imagerie portale |
 
-|
-
-28Z10Z
+ZZNL066 |
 
 |
 
-Curiethérapie, en séances
+Séance d'irradiation de contact endocavitaire |
 
-|
+LISTE 2 : GHS EXCLUANT LE PAIEMENT DES ACTES DE RADIOTHÉRAPIE EN SUS
 
-9609
+GHM |
 
-|
+LIBELLÉ DU GHM |
 
-28Z11Z
+GHS |
 
-|
+28Z10Z |
 
-Techniques spéciales d'irradiation externe, en séances
+Curiethérapie, en séances |
 
-|
+9609 |
 
-9610
+28Z11Z |
 
-|
+Techniques spéciales d'irradiation externe, en séances |
 
-9619
+9610 |
 
-|
+9619 |
 
-9620
+9620 |
 
-|
+9621 |
 
-9621
+9623 |
 
-|
+9639 |
 
-9623
+28Z18Z |
 
-|
+Radiothérapie conformationnelle avec modulation d'intensité, en séances |
 
-28Z23Z
+9622 |
 
-|
+9625 |
 
-Techniques complexes d'irradiation externe avec repositionnement, en séances
+28Z19Z |
 
-|
+Préparations à une irradiation externe par RCMI ou techniques spéciales |
 
-9631
+9626 |
 
-|
+9627 |
 
-28Z24Z
+28Z20Z |
 
-|
+Préparations à une irradiation externe avec dosimétrie tridimensionnelle avec HDV |
 
-Techniques complexes d'irradiation externe sans repositionnement, en séances
+9628 |
 
-|
+28Z21Z |
 
-9632
+Préparations à une irradiation externe avec dosimétrie tridimensionnelle sans HDV |
 
-|
+9629 |
 
-28Z25Z
+28Z22Z |
 
-|
+Autres préparations à une irradiation externe |
 
-Autres techniques d'irradiation externe, en séances
+9630 |
 
-|
+28Z23Z |
 
-9633
+Techniques complexes d'irradiation externe avec repositionnement, en séances |
 
-|
+9631 |
 
-28Z18Z
+28Z24Z |
 
-|
+Techniques complexes d'irradiation externe sans repositionnement, en séances |
 
-Radiothérapie conformationnelle avec modulation d'intensité, en séances
+9632 |
 
-|
+28Z25Z |
 
-9622
+Autres techniques d'irradiation externe, en séances |
 
-|
+9633 |
 
-9625
+NOTA :
 
-|
+Conformément à l’article 3 de l’arrêté du 1er mars 2023 (SPRH2305803A), ces dispositions entrent en vigueur au 1er mars 2023.
