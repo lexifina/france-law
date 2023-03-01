@@ -1,0 +1,29 @@
+# Réponse à la question n° 180
+
+- Question : [180](180.md) — Question n° 180 — Financement des AESH sur les temps méridiens
+
+## Réponse
+
+*JO du 2023-03-01, page 1880*
+
+FINANCEMENT DES ACCOMPAGNANTS D'ÉLÈVES EN SITUATION DE HANDICAP SUR LES TEMPS MÉRIDIENS
+
+Mme la présidente. La parole est à Mme Stella Dupont, pour exposer sa question, n° 180, relative au financement des accompagnants d'élèves en situation de handicap sur les temps méridiens.
+
+Mme Stella Dupont. J'ai déjà appelé l'attention du ministre de l'éducation nationale sur le financement de l'accompagnement, pendant le temps méridien, des élèves en situation de handicap scolarisés dans l'enseignement public et dans l'enseignement privé sous contrat d'association. C'est sur ce deuxième point que je souhaite revenir aujourd'hui.
+
+Dans le Maine-et-Loire, parmi les 1 888 élèves notifiés pour un accompagnement humain, 594 sont scolarisés dans l'enseignement privé. Juridiquement, il incombe à l'État de rémunérer les accompagnants d'élèves en situation de handicap (AESH) sur le temps scolaire. S'agissant du temps périscolaire et du temps méridien, le Conseil d'État a statué, dans une décision du 20 novembre 2020, qu'« il revient à la collectivité territoriale d'assurer la charge financière de cette mise à disposition ». Il ne s'est toutefois pas prononcé, dans cette décision, sur le cas des établissements scolaires privés sous contrat. Dans le privé, le mode de financement est strictement encadré. Il se compose de fonds privés et du forfait d'externat versé par les collectivités locales et l'État. Aucun abondement de ce forfait n'est prévu pour permettre une éventuelle rémunération des personnels dans le cadre de l'accompagnement humain durant la pause méridienne. C'est ainsi aux familles que revient la charge de payer lorsque les enfants bénéficient de services comme la cantine, la garderie ou l'étude. Il semble inconcevable qu'elles aient en outre à payer l'accompagnement dont a besoin leur enfant en situation de handicap pendant les temps méridien et périscolaire.
+
+L'accueil de tous les enfants et jeunes constitue la clé de voûte de la mise en œuvre de l'école inclusive prônée par le Président de la République depuis six ans. Il vise à assurer un suivi de qualité des enfants en situation de handicap et à éviter toute rupture d'égalité, afin d'assurer une continuité scolaire et périscolaire pour tous les élèves, indépendamment du lieu où ils sont scolarisés. Des clarifications sont-elles envisagées, madame la secrétaire d'État, quant au financement des temps périscolaires dans les établissements scolaires sous contrat d'association avec l'État ?
+
+Mme la présidente. La parole est à Mme la secrétaire d'État chargée de la jeunesse et du service national universel.
+
+Mme Sarah El Haïry, secrétaire d'État chargée de la jeunesse et du service national universel. Dans sa décision en date du 20 novembre 2020, que vous avez rappelée madame la députée, le Conseil d'État statue qu'il n'appartient pas à l'État mais aux collectivités d'assurer la prise en charge d'un éventuel accompagnement humain des enfants en situation de handicap hors temps scolaire, c'est-à-dire au moment du déjeuner et des activités périscolaires. Vous connaissez la lecture que je fais du continuum éducatif : celui-ci intègre le temps scolaire mais aussi les temps périscolaire et méridien, qui peuvent être considérés comme des temps d'éducation informelle.
+
+Si le Conseil d'État ne s'est pas prononcé sur le cas des établissements d'enseignement privé sous contrat, il apparaît qu'un raisonnement similaire doit être appliqué : si la prise en charge de l'accompagnement d'un élève en situation de handicap ne relève de la compétence de l'État que pendant le temps scolaire, il appartient à la structure gestionnaire de l'établissement compétent de prendre les mesures nécessaires pour permettre l'accès effectif de l'enfant aux services de restauration ; ces mesures peuvent prendre la forme d'un accompagnement individuel.
+
+Compte tenu des difficultés que l'application de la décision du Conseil d'État est susceptible d'engendrer, quel que soit le lieu de scolarité de l'enfant, et de la grande variété des conditions de prise en charge de l'aide humaine, il est plus que nécessaire que des échanges aient lieu. Certains ont commencé, au niveau local principalement, entre les services du ministère de l'éducation nationale et les collectivités territoriales, afin de trouver des solutions et de s'assurer notamment que la même AESH accompagne l'élève pendant le temps pédagogique et pendant le temps du déjeuner lorsque les prescriptions le prévoient. Une circulaire en ce sens a d'ailleurs été envoyée aux recteurs en janvier dernier. Le ministre de l'éducation nationale souhaite ainsi permettre que les AESH aient un employeur unique, l'État – à charge pour la collectivité ou l'établissement privé de le rembourser au prorata du temps non scolaire. Entre temps, le ministre a passé une consigne de souplesse visant à éviter une rupture dans la continuité de la prise en charge, dans l'attente de la mise en place des nouveaux contrats et de modalités de remboursement plus claires. Je crois, madame la députée, que dans le cadre de l'école inclusive, qui est une nécessité, nous sommes en voie de trouver une solution dans l'intérêt des enfants et plus spécifiquement de ceux qui sont en situation de handicap.
+
+Mme la présidente. La parole est à Mme Stella Dupont.
+
+Mme Stella Dupont. Merci de nous avoir apporté ces précisions sur une question majeure pour l'inclusion des enfants. Le financement de ce type de personnels, induit par la décision du Conseil d'État, n'est pas prévu par le forfait d'externat. Nous devons donc être attentifs à sa faisabilité juridique. Par ailleurs, il implique que les collectivités consentent un effort financier complémentaire, ce qui devra faire l'objet de négociations avec l'État et les établissements.
