@@ -134,7 +134,7 @@ Sous-directeur du développement des compétences.
 
 4. Inspection générale de la police nationale :
 
-Chef de l'unité de coordination des enquêtes.
+Sous-directeur des enquêtes.
 
 Chef de la délégation de l'inspection générale de la police nationale Marseille.
 
@@ -310,4 +310,4 @@ Secrétaire général adjoint pour l'administration du ministère de l'intérieu
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 12 octobre 2022 (NOR : IOMC2225427A), ces dispositions entrent en vigueur le 31 octobre 2022.
+Conformément à l’article 2 de l’arrêté du 3 février 2023 (NOR : IOMC2234935A), ces dispositions entrent en vigueur à compter du premier jour du mois suivant sa publication au Journal officiel de la République française.
