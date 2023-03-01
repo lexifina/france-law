@@ -150,6 +150,8 @@ Conformément à l’article 5 de du 20 octobre 2016 (NOR : DEVR1627593A), la fi
 
 - Système solaire combiné (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-143
 
+Conformément à l’article 1er de l’arrêté du 21 décembre 2022 (NOR : ENER2235115A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mars 2023.
+
 - Rénovation globale d’un bâtiment résidentiel (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-145
 
 Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté, à compter du 1er avril 2020.
@@ -244,6 +246,8 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0011 du 13/01/2023, texte n° 17, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=gsXRq2HI5C12ytBpBuSJe-wD-lQnj8EG78BD08U7ANE=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28/12/2022, texte n° 71, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=W8WsfNOlOI6RDy-wPtZgP3DdH2qFDNV7z33iieedbY4=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0238 du 13/10/2022, texte n° 26, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=IfPCTOBZvUbd24vn3kDNUKFvGs9WK7QfWI-0Yygfd_k=
@@ -309,3 +313,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0179 du 04/08/2022, texte n° 35, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-us85fgyoEk=
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 21 décembre 2022 (NOR : ENER2235115A), ces dispositions entrent en vigueur à compter du 1er mars 2023.
