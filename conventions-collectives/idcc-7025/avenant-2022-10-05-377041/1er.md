@@ -1,0 +1,5 @@
+# Article 1er
+
+Le présent avenant ne s'applique que dans le champ professionnel visé à l'article 1.1 de la convention collective nationale de travail étendue des entreprises de travaux et services agricoles, des entreprises de travaux et services ruraux et des entreprises de travaux et services forestiers (ETARF) du 8 octobre 2020, sur le département de l'Isère, à l'exclusion des autres secteurs d'activité de la production agricole et des CUMA couverts par la convention collective des productions agricoles et travaux agricoles de l'Isère (IDCC 9383).
+
+La convention collective des productions agricoles et travaux agricoles de l'Isère (IDCC 9383) sera désormais considérée, dans le champ professionnel visés à l'article 1.1 de la convention collective nationale de travail étendue des entreprises de travaux et services agricoles, des entreprises de travaux et services ruraux et des entreprises de travaux et services forestiers (ETARF) du 8 octobre 2020, sur le département de l'Isère, comme un accord collectif départemental étendu, conformément à l'article L. 2232-5-2 du code du travail.
