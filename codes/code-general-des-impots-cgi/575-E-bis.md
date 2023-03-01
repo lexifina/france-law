@@ -6,11 +6,7 @@ II.-Pour les différents produits du tabac, le prix de vente au détail appliqu�
 
 Groupe de produits |
 
-Du 1er janvier 2022
-
-au 31 décembre 2022 |
-
-Du 1er janvier 2023
+Du 1er mars 2023
 
 au 31 décembre 2023 |
 
@@ -24,8 +20,6 @@ au 31 décembre 2025 |
 
 Cigarettes |
 
-80 % |
-
 85 % |
 
 90 % |
@@ -33,8 +27,6 @@ Cigarettes |
 95 % |
 
 Cigares et cigarillos |
-
-85 % |
 
 91 % |
 
@@ -44,8 +36,6 @@ Cigares et cigarillos |
 
 Tabacs fine coupe destinés à rouler les cigarettes |
 
-80 % |
-
 85 % |
 
 90 % |
@@ -54,17 +44,33 @@ Tabacs fine coupe destinés à rouler les cigarettes |
 
 Autres tabacs à fumer |
 
-80 % |
-
 85 % |
 
 90 % |
 
 95 % |
 
-Tabacs à priser |
+Tabacs à chauffer commercialisés en bâtonnets |
 
-80 % |
+85 % |
+
+90 % |
+
+95 %
+
+|
+
+Autres tabacs à chauffer |
+
+85 % |
+
+90 % |
+
+95 %
+
+|
+
+Tabacs à priser |
 
 85 % |
 
@@ -73,8 +79,6 @@ Tabacs à priser |
 95 % |
 
 Tabacs à mâcher |
-
-80 % |
 
 85 % |
 
@@ -86,4 +90,4 @@ III à VI.- (Abrogés).
 
 NOTA :
 
-Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément au A du III de l'article 15 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er mars 2023.
