@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103815
+
+- Question : [SEQ221103815](seq221103815.md) — Traitement des dossiers relatifs au remboursement de la contribution sociale généralisée et de la contribution au remboursement de la dette sociale
+
+## Réponse
+
+*Comptes publics, JO du 2023-03-02, page 1534*
+
+Les contentieux fondés sur la non-conformité au droit de l'Union européenne des prélèvements sociaux, en raison de leur affectation budgétaire issue de la loi de financement de la sécurité sociale pour 2016, sont en voie d'apurement complet, puisque près de 97 % des 35 800 réclamations reçues par les différents services de la direction générale des finances publiques ont fait l'objet d'une prise de décision. Pour mémoire, ces contentieux concernent exclusivement les impositions établies avant le 1er janvier 2019, la loi de financement de la sécurité sociale pour 2019 ayant introduit une exonération de contribution sociale généralisée (CSG) et de contribution au remboursement de la dette sociale (CRDS), pour les personnes qui, par application des dispositions du règlement (CE) n° 883/2004 du Parlement européen et du Conseil du 29 avril 2004 sur la coordination des systèmes de sécurité sociale, relèvent en matière d'assurance maladie d'une législation soumise à ces dispositions et qui ne sont pas à la charge d'un régime obligatoire de sécurité sociale français. S'agissant spécifiquement de la situation des personnes non domiciliées en France, la direction des impôts des non-résidents (DINR) a enregistré un peu plus de 14 500 réclamations, pour un enjeu global de 90 millions d'euros. Ces réclamations, traitées à plus de 92 %, ont donné lieu à des dégrèvements à concurrence de 54 millions d'euros. Le bien-fondé d'une partie des impositions a en revanche été confirmé à hauteur d'un montant total de 30 millions d'euros. Moins de 900 des 4 500 décisions de rejet prononcées ont fait l'objet d'un recours devant le juge de l'impôt.
