@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204337
+
+- Question : [SEQ221204337](seq221204337.md) — Relations entre l'agence pour l'enseignement français à l'étranger et des groupes scolaires privés
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2023-03-02, page 1552*
+
+Dans le cadre du plan de développement de l'enseignement français voulu par le Président de la République, le nombre d'établissements homologués par le ministère de l'Éducation nationale est passé de 495 en 2018 à 567 en 2022. En tant qu'opérateur public sous la tutelle du ministère de l'Europe et des affaires étrangères, l'Agence pour l'enseignement français à l'étranger (AEFE) est la colonne vertébrale de l'enseignement français à l'étranger et le garant de la cohérence d'un réseau en développement. C'est dans cette logique que l'AEFE a signé un accord-cadre avec de nouveaux groupes éducatifs comme Odyssey et IEG. Ces accords-cadres s'appliquent sur les niveaux homologués des établissements et ont pour objectif de structurer le dialogue, comme l'AEFE le fait avec des structures associatives telles que la Mission Laïque française (MLF). Ces accords engagent les groupes éducatifs à promouvoir l'enseignement français à l'étranger, à contribuer à son développement, en étroite coopération et coordination avec les postes diplomatiques et l'AEFE, et à participer aux actions de l'AEFE dans les domaines de la formation et des ressources humaines. Pour sa part, l'AEFE met ses ressources, dans les services centraux et dans le réseau, à la disposition des établissements de ces groupes, comme de tout établissement homologué, quel que soit son statut, en particulier dans le domaine de la formation des personnels. S'agissant des établissements en gestion directe (EGD), leur nombre n'a diminué qu'en apparence, avec l'intégration d'annexes considérées auparavant comme des établissements à part entière. Depuis 2021, il y a même un EGD supplémentaire, à titre transitoire, à Varsovie.
