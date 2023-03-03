@@ -10,8 +10,6 @@ Brevet de technicien supérieur agricole " gestion et protection de la nature ",
 
 Brevet de technicien supérieur agricole " sciences et technologies des aliments ",
 
-Conseiller en droit rural et économie agricole (niveau II), délivré par l'Institut des hautes études de droit rural et d'économie agricole (IHEDREA),
-
 Diplôme d'ingénieur délivré par l'Ecole nationale du génie de l'eau et de l'environnement de Strasbourg,
 
 Diplôme d'ingénieur délivré par l'Ecole nationale supérieure d'horticulture de Versailles,

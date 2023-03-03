@@ -1,6 +1,6 @@
 # Article ANNEXE 1
 
-LISTE DES DIPLÔMES, TITRES ET CERTIFICATS PERMETTANT DE SATISFAIRE À LA CONDITION DE DIPLÔME DE LA CAPACITÉ PROFESSIONNELLE AGRICOLE PRÉVUE AU DEUXIÈME ALINÉA DU 4O DE L'ARTICLE D. 343-4 DU CODE RURAL ET DE LA PÊCHE MARITIME ET CONFÉRANT LA CAPACITÉ PROFESSIONNELLE PRÉVUE AU 1O DE L'ARTICLE R. 331-2 DU MÊME CODE
+LISTE DES DIPLÔMES, TITRES ET CERTIFICATS PERMETTANT DE SATISFAIRE À LA CONDITION DE DIPLÔME DE LA CAPACITÉ PROFESSIONNELLE AGRICOLE PRÉVUE AU DEUXIÈME ALINÉA DU 4° DE L'ARTICLE D. 343-4 DU CODE RURAL ET DE LA PÊCHE MARITIME ET CONFÉRANT LA CAPACITÉ PROFESSIONNELLE PRÉVUE AU 1° DE L'ARTICLE R. 331-2 DU MÊME CODE
 
 1. Diplômes, titres et certificats de niveau 4
 
@@ -201,6 +201,12 @@ Diplôme d'établissement ayant obtenu un grade licence, tel que prévu par l'ar
 -Ecole supérieur d'agricultures d'Angers-bachelor science et ingénierie-agroécologie et systèmes alimentaires ;
 
 -Institut supérieur d'agriculture de Lille (Junia Isa)-bachelor en sciences et ingénierie, spécialité transition numérique, énergétique et environnementale.
+
+3.2. Titres et certificats
+
+-Conseiller en droit rural et économie agricole
+
+-Institut des hautes études de droit rural et d'économie agricole (IHEDREA)
 
 4. Diplômes, titres et certificats de niveau 7
 
