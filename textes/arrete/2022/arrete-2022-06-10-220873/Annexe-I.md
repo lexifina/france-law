@@ -198,9 +198,13 @@ Tout détenteur ménager et tout détenteur professionnel doit pouvoir accéder 
 
 Pour l'élaboration du projet de maillage l'éco-organisme inclut toute installation qui répond aux conditions minimales prévues à l'article R. 543-290-5 et au présent paragraphe 3.2 lorsque le gestionnaire de l'installation en fait la demande.
 
-3.3. Dispositions complémentaires relatives à la prise en charge des coûts de gestion des déchets issus de PMCB
+3.3. Dispositions complémentaires relatives à la prise en charge des déchets issus de PMCB
 
 Les contrats-types prévus en application de l'article R. 543-290-8 précisent les clauses de respect des prescriptions législatives et réglementaires relatives à la gestion des déchets issus de PMCB et en particulier celles relatives à la gestion des déchets dangereux, ainsi que les modalités de contrôle par l'éco-organisme de la conformité de la gestion de ces déchets jusqu'à leur traitement final, incluant tous les opérateurs de gestion auxquels sont remis les déchets de PMCB.
+
+Lorsque l'éco-organisme pourvoit à l'enlèvement et au traitement de déchets issus de PMCB, il s'engage à fournir ses meilleurs efforts pour prendre en charge ces déchets dans un délai raisonnable et en tout état de cause n'excédant pas 60 jours à compter de la date de signature par le gestionnaire de l'installation de reprise du contrat établi en application de l'article R. 541-105 du code de l'environnement.
+
+Lorsque l'éco-organisme couvre les coûts de gestion des déchets issus de PMCB, il est tenu de couvrir ces coûts au plus tard le lendemain de la signature par le gestionnaire de l'installation de reprise du contrat établi en application de l'article R. 541-104 du code de l'environnement.
 
 3.4. Reprise des déchets de PMCB issus des catastrophes naturelles ou accidentelles
 
@@ -350,7 +354,9 @@ Les dispositions du présent paragraphe sont établies en application de l'artic
 
 L'éco-organisme s'organise pour préparer la prise en charge des déchets et des coûts de gestion qui en résultent dans les conditions de progressivité prévues au présent chapitre.
 
-6.1. Déploiement progressif du maillage territorial des installations de reprise des déchets du bâtiment
+6.1. Déploiement progressif des installations de reprise sans frais des déchets du bâtiment
+
+6.1.1. Installations de reprise relevant du maillage territorial selon les critères prévus à l'article R. 543-290-5
 
 L'éco-organisme transmet pour accord le projet de maillage territorial des installations de reprise des déchets du bâtiment à l'autorité administrative compétente pour délivrer l'agrément conformément aux dispositions du III de l'article R. 543-290-5. Ce projet est établi pour chaque région et peut être présenté à l'autorité administrative au fur à mesure de son élaboration.
 
@@ -365,6 +371,32 @@ Ces installations nouvelles ou aménagées pour être conformes aux critères du
 L'éco-organisme, le cas échéant sous l'égide de l'organisme coordonnateur, réalise pour le 1er janvier 2024 un bilan de l'avancement du maillage et peut proposer une révision des échéances précitées en fonction notamment des accords obtenus.
 
 L'éco-organisme rend compte chaque année au comité des parties prenantes et à l'autorité administrative de l'avancement du déploiement du maillage des points de reprise.
+
+6.1.2. Autres installations de reprise
+
+L'éco-organisme couvre les coûts supportés par les gestionnaires des installations de reprise ou pourvoit à cette reprise selon les modalités du tableau ci-dessous :
+
+|
+
+Nombre minimal de points de reprise hors SPGD
+
+(déchèteries privées et distributeurs) |
+
+Au plus tard le 31 mars 2023 |
+
+515 |
+
+Au plus tard le 30 juin 2023 |
+
+1096 |
+
+Au plus tard le 30 septembre 2023 |
+
+1516 |
+
+Au plus tard le 31 décembre 2023 |
+
+2419 |
 
 6.2. Entrée en vigueur échelonnée de l'obligation de reprise sans frais des déchets
 
@@ -416,7 +448,7 @@ En complément des dispositions prévues à l'article R. 543-290-12, les éco-or
 
 - les campagnes d'information et de communication réalisées par les éco-organismes ;
 
-- la mise à disposition du public des données prévues à l'article L. 541-10-15 ;
+- la mise à disposition du public des données prévues à l'article L. 541-10-15, notamment par la mise en place avant le 30 avril 2023 d'un site internet commun aux éco-organismes agréés indiquant les informations prévues au 3° de l'article L. 541-10-15 ;
 
 - les études prévues aux chapitres 2, 3 et 4 ;
 

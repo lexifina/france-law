@@ -22,7 +22,7 @@ L'organisme coordonnateur organise les travaux communs entre les éco-organismes
 
 - les campagnes d'information et de communication réalisées par les éco-organismes ;
 
-- la mise à disposition des informations mentionnées à l'article L. 541-10-15 ;
+- la mise à disposition des informations mentionnées à l'article L. 541-10-15 notamment par la mise en place avant le 30 avril 2023 d'un site internet commun aux éco-organismes agréés indiquant les informations prévues au 3° de l'article L. 541-10-15 ;
 
 - les études prévues aux chapitres 2, 3 et 4 de l'annexe I ;
 
