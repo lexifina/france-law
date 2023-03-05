@@ -1,8 +1,8 @@
 # Article ANNEXE III
 
-INSTALLATIONS ET ÉQUIPEMENTS DE PRÉVENTION ET DE SURVEILLANCE DES RISQUES MINIERS, RELEVANT DES ARTICLES L. 174-1 ET L. 174-2 DU CODE MINIER GÉRÉS PAR LE DPSM (BRGM) AU 1ER JANVIER 2022
+INSTALLATIONS ET ÉQUIPEMENTS DE PRÉVENTION ET DE SURVEILLANCE DES RISQUES MINIERS, RELEVANT DES ARTICLES L. 174-1 ET L. 174-2 DU CODE MINIER GÉRÉS PAR LE DPSM (BRGM) AU 1ER JANVIER 2023
 
-Bassin minier Centre-Ouest |
+Bassin minier Centre Ouest |
 
 Concession |
 
@@ -22,11 +22,11 @@ Pont-du-Château (63) |
 
 Cavités |
 
-Forage Champ des Poix |
+forage Champ des Poix |
 
 Barbery |
 
-Saint Germain le Vasson |
+Saint-Germain le Vasson |
 
 (vide) |
 
@@ -36,7 +36,7 @@ GER6 |
 
 Barbery |
 
-Saint Germain le Vasson |
+Saint-Germain le Vasson |
 
 (vide) |
 
@@ -114,19 +114,9 @@ Cavités |
 
 Circuit Flanc Sud Orne |
 
-May sur Orne |
+Saint-André sur Orne |
 
-May sur Orne |
-
-(vide) |
-
-Cavités |
-
-Sondage D03 bis |
-
-Saint André sur Orne |
-
-Saint André sur Orne-Saint Martin de Fontenay |
+Saint-André sur Orne-Saint Martin de Fontenay |
 
 (vide) |
 
@@ -134,7 +124,7 @@ Cavités |
 
 Circuit Flanc Nord Orne |
 
-Saint André sur Orne |
+Saint-André sur Orne |
 
 Fontenay le Marmion |
 
@@ -144,7 +134,7 @@ Cavités |
 
 Sondage D43 |
 
-Saint André sur Orne |
+Saint-André sur Orne |
 
 Saint Martin de Fontenay |
 
@@ -154,7 +144,7 @@ Cavités |
 
 D41 bis |
 
-Saint André sur Orne |
+Saint-André sur Orne |
 
 Saint Martin de Fontenay |
 
@@ -164,7 +154,7 @@ Cavités |
 
 Circuit Flanc Nord Puits D27 |
 
-Saint André sur Orne |
+Saint-André sur Orne |
 
 Saint Martin de Fontenay |
 
@@ -193,16 +183,6 @@ Saint Rémy |
 Cavités |
 
 SR12 |
-
-Soumont |
-
-Soumont Saint Quentin |
-
-(vide) |
-
-Cavités |
-
-SOU3 |
 
 Urville |
 
@@ -330,6 +310,26 @@ Lavaveix Les Mines |
 
 Quartier du Centre |
 
+Cavités |
+
+2022-152-bis |
+
+Le Plessis |
+
+Le Plessis-Lastelle |
+
+Parcelle |
+
+Cavités |
+
+Puits Sainte Barbe |
+
+Ahun |
+
+Lavaveix Les Mines |
+
+Quartier du Centre |
+
 Fissuromètre |
 
 Bâtiment 241 |
@@ -376,13 +376,13 @@ Bâtiment 241 |
 
 Barbery |
 
-Saint Germain le Vasson |
+Saint-Germain le Vasson |
 
 (vide) |
 
 Réseaux de nivellement |
 
-Saint Germain le Vasson |
+Saint-Germain le Vasson |
 
 Bully |
 
@@ -454,9 +454,9 @@ Réseaux de nivellement |
 
 Rocquancourt Est |
 
-May sur Orne-Saint André sur Orne |
+May sur Orne-Saint-André sur Orne |
 
-May sur Orne-Saint Martin de Fontenay |
+May-sur-Orne-Saint-Martin de Fontenay |
 
 (vide) |
 
@@ -492,17 +492,7 @@ Soumont Saint Quentin |
 
 Réseaux de nivellement |
 
-Saint Quentin |
-
-Gargenville |
-
-Gargenville, Issou, Porcheville |
-
-Dépôt TOTAL, Domaine Public |
-
-Réseaux de nivellement |
-
-Nivel |
+Saint-Quentin |
 
 l'Huisserie |
 
@@ -552,7 +542,7 @@ Buxières les Mines |
 
 Dépôt de minerai ou de résidus |
 
-Saint Martin |
+Saint-Martin |
 
 Bassin minier Est |
 
@@ -638,16 +628,6 @@ Hayange Côte d'Hayange |
 
 De Wendel F |
 
-Hayange |
-
-(vide) |
-
-Cavités |
-
-Hayange Côte Dupont |
-
-De Wendel F |
-
 Moyeuvre Grande |
 
 (vide) |
@@ -694,7 +674,7 @@ Thil |
 
 Cavités |
 
-277 Rue du Petit Bois |
+Forage 277 Rue du Petit Bois |
 
 Godbrange |
 
@@ -704,7 +684,7 @@ Thil |
 
 Cavités |
 
-290 rue du Petit Bois |
+Forage 290 rue du Petit Bois |
 
 Godbrange |
 
@@ -714,7 +694,7 @@ Thil |
 
 Cavités |
 
-SD3 Rue du Petit Bois |
+Forage SD3 Rue du Petit Bois |
 
 Godbrange-Hussigny |
 
@@ -726,7 +706,7 @@ Cavités |
 
 Hussigny Entrée DW |
 
-Godbrange-Hussigny |
+Hussigny-Godbrange |
 
 Hussigny Godbrange |
 
@@ -734,7 +714,7 @@ Hussigny Godbrange |
 
 Cavités |
 
-Hussigny Mouty |
+Hussigny Entrée Mouty |
 
 Godbrange-Hussigny |
 
@@ -806,7 +786,7 @@ Cavités |
 
 Forage S9H Rue Mouty |
 
-Godbrange-Hussigny |
+Hussigny-Godbrange |
 
 Hussigny Godbrange |
 
@@ -824,7 +804,7 @@ Hussigny Godbrange |
 
 Cavités |
 
-S7H Bis |
+Forage S7H Bis Rue Mouty |
 
 Godbrange-Villerupt |
 
@@ -834,7 +814,7 @@ Thil |
 
 Cavités |
 
-289 Bis |
+Forage 289 Bis rue du Petit Bois |
 
 Godbrange-Villerupt |
 
@@ -884,7 +864,7 @@ Entrange |
 
 Cavités |
 
-Carreau d'Entrange |
+Tunnel d'Entrange galerie Charles Ferdinand |
 
 Moselle |
 
@@ -914,7 +894,7 @@ Moyeuvre Petite |
 
 Cavités |
 
-Forage 185 R063 156 158A1 E2 |
+Forage 185 |
 
 Ottange 1-Ottange 2-Ottange 3 |
 
@@ -936,7 +916,7 @@ Cavités |
 
 Réhon Rue de Longwy |
 
-Sainte Barbe |
+Sainte-Barbe |
 
 Algrange |
 
@@ -1604,7 +1584,7 @@ Petite Rosselle |
 
 Exutoires de gaz de mine |
 
-PCS Gargan 1-2 |
+PCS GARGAN 1-2 |
 
 De Wendel H |
 
@@ -1614,7 +1594,7 @@ Petite Rosselle |
 
 Exutoires de gaz de mine |
 
-PCS Saint Charles 1 |
+PCS SAINT CHARLES 1 |
 
 De Wendel H |
 
@@ -1624,7 +1604,7 @@ Petite Rosselle |
 
 Exutoires de gaz de mine |
 
-PCS Saint Charles 3 |
+PCS SAINT CHARLES 3 |
 
 De Wendel H |
 
@@ -1634,7 +1614,7 @@ Petite Rosselle |
 
 Exutoires de gaz de mine |
 
-PCS Vuillemin 1-2 |
+PCS VUILLEMIN 1-2 |
 
 De Wendel H |
 
@@ -1644,7 +1624,7 @@ Petite Rosselle |
 
 Exutoires de gaz de mine |
 
-PCS Wendel 1-2 |
+PCS WENDEL 1-2 |
 
 De Wendel H |
 
@@ -1654,7 +1634,7 @@ Petite Rosselle |
 
 Exutoires de gaz de mine |
 
-PCS Wendel 3 |
+PCS WENDEL 3 |
 
 De Wendel H |
 
@@ -1774,7 +1754,7 @@ Schoeneck |
 
 Exutoires de gaz de mine |
 
-PCS Simon 4 |
+PCS SIMON 4 |
 
 De Wendel H |
 
@@ -1844,7 +1824,7 @@ Carling |
 
 Exutoires de gaz de mine |
 
-PCS Puits Max |
+PCS PUITS MAX |
 
 Sarre et Moselle |
 
@@ -1864,7 +1844,7 @@ Freyming Merlebach |
 
 Exutoires de gaz de mine |
 
-PCS Reumaux |
+PCS REUMAUX |
 
 Sarre et Moselle |
 
@@ -1874,7 +1854,7 @@ Freyming Merlebach |
 
 Exutoires de gaz de mine |
 
-PCS Vouters 2 |
+PCS VOUTERS 2 |
 
 Sarre et Moselle |
 
@@ -1904,7 +1884,7 @@ L'hopital |
 
 Exutoires de gaz de mine |
 
-PCS L'Hopital 1-2 |
+PCS L'HOPITAL 1-2 |
 
 Sarre et Moselle |
 
@@ -1914,47 +1894,67 @@ L'hopital |
 
 Exutoires de gaz de mine |
 
-Puits L'Hopital 1 et 2 |
+Puits L'HOPITAL 1 et 2 |
 
 Sarre et Moselle |
 
-Saint Avold |
+Saint-Avold |
 
 (vide) |
 
 Exutoires de gaz de mine |
 
-PCS Saint Avold |
+PCS SAINT-AVOLD |
 
 Sarre et Moselle |
 
-Saint Avold |
+Saint-Avold |
 
 (vide) |
 
 Exutoires de gaz de mine |
 
-PCS Sainte Fontaine |
+PCS SAINTE FONTAINE |
 
 Sarre et Moselle |
 
-Saint Avold |
+Saint-Avold |
 
 (vide) |
 
 Exutoires de gaz de mine |
 
-Puits Saint Avold |
+Puits Saint-Avold |
 
 Sarre et Moselle |
 
-Saint Avold |
+Saint-Avold |
 
 (vide) |
 
 Exutoires de gaz de mine |
 
 Puits Sainte Fontaine |
+
+Sarre et Moselle |
+
+Cocheren |
+
+Mont du Hérapel |
+
+Fissuromètres |
+
+Dispositif de suivi de crevasses-Mont Hérapel |
+
+Hors concession |
+
+Lochwiller |
+
+Lochwiller |
+
+Forages de rabattement |
+
+FRAB-1 |
 
 Mont Rouge |
 
@@ -1976,7 +1976,7 @@ Ouvrages nécessaires à l'aérage de galeries (en vue de leur inspection) |
 
 Puits 2 d'Ottange 2 |
 
-Saint Michel |
+Saint-Michel |
 
 Audun le Tiche |
 
@@ -1984,23 +1984,233 @@ Audun le Tiche |
 
 Ouvrages nécessaires à l'aérage de galeries (en vue de leur inspection) |
 
-Puits 2 de Saint Michel |
+Puits 2 de Saint-Michel |
+
+Hors concession |
+
+Lochwiller |
+
+Lochwiller |
+
+Piézomètres |
+
+PKA |
+
+Hors concession |
+
+Lochwiller |
+
+Lochwiller |
+
+Piézomètres |
+
+PMS |
+
+Hors concession |
+
+Lochwiller |
+
+Lochwiller |
+
+Piézomètres |
+
+PL |
+
+Hors titre minier |
+
+Alsting |
 
 (vide) |
 
-Lochwiller |
+Piézomètre |
 
-Lochwiller |
+E _ ALL _ ALS _ 1 |
 
-Réseaux de nivellement |
+Hors titre minier |
 
-Lochwiller |
+Alsting |
+
+(vide) |
+
+Piézomètre |
+
+E _ GTI _ ALS _ 1 |
+
+Sarre et Moselle |
+
+Bisten en Lorraine |
 
 (vide) |
 
-Lochwiller |
+Piézomètre |
+
+929 Bisten |
+
+Sarre et Moselle |
+
+Cocheren |
 
 (vide) |
+
+Piézomètre |
+
+715 de Cocheren |
+
+Dalem |
+
+Falck |
+
+(vide) |
+
+Piézomètre |
+
+SC Grossbach 1 |
+
+Sarre et Moselle |
+
+Freyming-Merlebach |
+
+(vide) |
+
+Piézomètre |
+
+SC Merle 1 |
+
+Sarre et Moselle |
+
+Hombourg-Haut |
+
+(vide) |
+
+Piézomètre |
+
+SC Rosselle 2 |
+
+Saint-Avold1 |
+
+Longeville-lès-Saint-Avold |
+
+(vide) |
+
+Piézomètre |
+
+SC Rosselle 1 |
+
+Dalem |
+
+Merten |
+
+(vide) |
+
+Piézomètre |
+
+SC Grossbach 2 |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètre |
+
+930 Boucheporn |
+
+Hors titre minier |
+
+Wittelsheim |
+
+(vide) |
+
+Piézomètres |
+
+04131X0422/ F10A |
+
+Hors titre minier |
+
+Blodelsheim |
+
+(vide) |
+
+Prélèvement d'eaux de surface |
+
+Station de Blodelsheim |
+
+Hors titre minier |
+
+Ensisheim |
+
+(vide) |
+
+Prélèvement d'eaux de surface |
+
+Point zéro saumoduc |
+
+Hors titre minier |
+
+Fessenheim |
+
+(vide) |
+
+Prélèvement d'eaux de surface |
+
+Fessenheim (amont rejet) |
+
+Hors titre minier |
+
+Vogelgrun |
+
+Amélie |
+
+Prélèvement d'eaux de surface |
+
+Vogelgrun (aval rejet) |
+
+Hors concession |
+
+Lochwiller |
+
+Lochwiller |
+
+Prélèvements d'eaux de surface |
+
+Amont Dachsgraben |
+
+Hors concession |
+
+Lochwiller |
+
+Lochwiller |
+
+Prélèvements d'eaux de surface |
+
+Aval Dachsgraben |
+
+Hors concession |
+
+Lochwiller |
+
+Lochwiller |
+
+Prélèvements d'eaux de surface |
+
+Amont Mossel |
+
+Hors concession |
+
+Lochwiller |
+
+Lochwiller |
+
+Prélèvements d'eaux de surface |
+
+Aval Mossel |
+
+Hors concession |
+
+Lochwiller |
+
+Lochwiller |
 
 Réseaux de nivellement |
 
@@ -2014,7 +2224,7 @@ Bouligny |
 
 Réseaux de nivellement |
 
-Bouligny Cité Saint Pierre |
+Bouligny Cité Saint-Pierre |
 
 Amermont Dommary |
 
@@ -2148,7 +2358,7 @@ Moutiers bas |
 
 Auboué Moineville-Sainte Marie |
 
-Auboué-Homécourt-Sainte Marie aux Chênes |
+Auboué-Homécourt-Sainte-Marie aux Chênes |
 
 (vide) |
 
@@ -2176,7 +2386,7 @@ Réseaux de nivellement |
 
 Moineville Aire de jeux |
 
-Aumetz-Saint Michel |
+Aumetz-Saint-Michel |
 
 Audun le Tiche |
 
@@ -2498,7 +2708,7 @@ Bouligny Cité de Joudreville |
 
 La Houve-Berviller-Bisten 1 et 2-Coume 1,2,3,4 et 5-Dalem-Niedervisse 1,3 et 6-Sarre et Moselle-Teterchen |
 
-Berviller-Bisten en Lorraine-Boucheporn-Château Rouge-Coume-Creutzwald-Dalem-Diesen-Falck-Guerting-Ham sous Varsberg-Hargarten aux Mines-Merten-Niedervisse-Obervisse-Porcelette-Rémering les Hargarten-Saint Avold-Tromborn-Varsberg-Villing |
+Berviller-Bisten en Lorraine-Boucheporn-Château Rouge-Coume-Creutzwald-Dalem-Diesen-Falck-Guerting-Ham sous Varsberg-Hargarten aux Mines-Merten-Niedervisse-Obervisse-Porcelette-Rémering les Hargarten-Saint-Avold-Tromborn-Varsberg-Villing |
 
 (vide) |
 
@@ -2526,15 +2736,15 @@ Réseaux de nivellement |
 
 Mont Bonvillers 054G |
 
-Mont Saint Martin |
+Mont Saint-Martin |
 
-Mont Saint Martin |
+Mont Saint-Martin |
 
 (vide) |
 
 Réseaux de nivellement |
 
-Mont Saint Martin Le Plateau |
+Mont Saint-Martin Le Plateau |
 
 Moutiers-Auboué Moineville |
 
@@ -2646,7 +2856,7 @@ Réseaux de nivellement |
 
 Saint Privat village |
 
-Saint Michel-Aumetz-Butte |
+Saint-Michel-Aumetz-Butte |
 
 Audun le Tiche |
 
@@ -2678,17 +2888,17 @@ Mancieulles |
 
 Sainte Barbe N |
 
-Auboué-Sainte Marie aux Chênes |
+Auboué-Sainte-Marie aux Chênes |
 
 (vide) |
 
 Réseaux de nivellement |
 
-Sainte Marie aux Chênes R164D |
+Sainte-Marie aux Chênes R164D |
 
 Sainte Barbe N |
 
-Saint Ail-Sainte Marie aux Chênes |
+Saint Ail-Sainte-Marie aux Chênes |
 
 (vide) |
 
@@ -2698,15 +2908,15 @@ Sainte Marie aux Chênes autoroute |
 
 Sainte Barbe N |
 
-Sainte Marie aux Chênes |
+Sainte-Marie aux Chênes |
 
 (vide) |
 
 Réseaux de nivellement |
 
-Sainte Marie ancienne Mine |
+Sainte-Marie, ancienne Mine |
 
-Sainte Barbe N-Bassompierre |
+Sainte-Barbe N-Bassompierre |
 
 Fontoy-Havange |
 
@@ -2728,7 +2938,7 @@ Sancy |
 
 Sarre et Moselle-De Wendel H-Allemagne |
 
-Béning les Saint Avold-Betting les Saint Avold-Cocheren-Freyming Merlebach-Hombourg Haut-L'Hôpital-Morsbach-Rosbruck-Saint Avold-Sankt Nikolaus |
+Béning les Saint-Avold-Betting les Saint-Avold-Cocheren-Freyming Merlebach-Hombourg Haut-L'Hôpital-Morsbach-Rosbruck-Saint-Avold-Sankt Nikolaus |
 
 (vide) |
 
@@ -2810,7 +3020,7 @@ De Wendel H |
 
 Petite Rosselle |
 
-Bassin Saint Charles |
+Bassin Saint-Charles |
 
 Réseaux de nivellement |
 
@@ -2838,7 +3048,7 @@ Wendel |
 
 Sarre et Moselle |
 
-Freyming Merlebach-Saint Avold |
+Freyming Merlebach-Saint-Avold |
 
 (vide) |
 
@@ -2874,11 +3084,11 @@ Petite Rosselle |
 
 Stations de captage et de compression de gaz de mine |
 
-Saint Charles |
+Saint-Charles |
 
 Sarre et Moselle |
 
-Saint Avold |
+Saint-Avold |
 
 (vide) |
 
@@ -3028,7 +3238,7 @@ Puits 2 |
 
 Saint Privat |
 
-Sainte Marie aux Chênes |
+Sainte-Marie aux Chênes |
 
 (vide) |
 
@@ -3366,46 +3576,6 @@ Têtes de puits matérialisées |
 
 Puits Alex |
 
-Alex Ouest |
-
-Ungersheim |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Ungersheim 1 |
-
-Alex Ouest |
-
-Ungersheim |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Ungersheim 2 |
-
-Amélie |
-
-Wittelsheim |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Amélie 1 |
-
-Amélie |
-
-Wittelsheim |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Amélie 2 |
-
 Anna |
 
 Wittenheim |
@@ -3456,26 +3626,6 @@ Têtes de puits matérialisées |
 
 Puits Marie |
 
-Marie |
-
-Wittenheim |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Schoenensteinbach |
-
-Marie-Louise |
-
-Berrwiller |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Berrwiller |
-
 Marie-Louise |
 
 Staffelfelden |
@@ -3485,16 +3635,6 @@ Staffelfelden |
 Têtes de puits matérialisées |
 
 Puits Louise |
-
-Marie-Louise |
-
-Staffelfelden |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Staffelfelden |
 
 Max |
 
@@ -3524,27 +3664,7 @@ Ensisheim |
 
 Têtes de puits matérialisées |
 
-Puits Ensisheim 1 |
-
-Rodolphe Est |
-
-Ensisheim |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
 Puits Ensisheim 2 |
-
-Rodolphe Est |
-
-Pulversheim |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Ensisheim 3 |
 
 Rodolphe Ouest |
 
@@ -3585,16 +3705,6 @@ Blodelsheim |
 Têtes de puits matérialisées |
 
 Puits Nord |
-
-Blodelsheim |
-
-Blodelsheim |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Sud |
 
 Bassin minier Nord |
 
@@ -3790,7 +3900,7 @@ S17 AZ 05 |
 
 Bruay |
 
-Bruay La Buissière |
+Bruay-La-Buissière |
 
 (vide) |
 
@@ -3900,7 +4010,7 @@ S13bis DE 02 |
 
 Dourges |
 
-Montigny en Gohelle |
+Montigny-en-Gohelle |
 
 (vide) |
 
@@ -3950,7 +4060,7 @@ S57 FS 02 |
 
 Grenay |
 
-Bully les Mines |
+Bully-les-Mines |
 
 (vide) |
 
@@ -3980,7 +4090,7 @@ S65 GR 02 |
 
 Hors concession |
 
-Saint Amand les Eaux |
+Saint-Amand-les-Eaux |
 
 (vide) |
 
@@ -4130,7 +4240,7 @@ S29 NX 02 |
 
 Noeux |
 
-Noeux les Mines |
+Nœux-les-Mines |
 
 (vide) |
 
@@ -4228,7 +4338,7 @@ Exutoires de gaz de mine |
 
 S52 RA 05 |
 
-Saint Saulve |
+Saint-Saulve |
 
 Bruay sur Escaut |
 
@@ -4258,9 +4368,9 @@ Exutoires de gaz de mine |
 
 S34 VG 02 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Condé sur l'Escaut |
+Condé-sur-l'Escaut |
 
 (vide) |
 
@@ -4268,7 +4378,7 @@ Exutoires de gaz de mine |
 
 S07 VC 02 |
 
-Vieux Condé |
+Vieux-Condé |
 
 Hergnies |
 
@@ -4278,9 +4388,9 @@ Exutoires de gaz de mine |
 
 S46 VC 04 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -4288,9 +4398,9 @@ Exutoires de gaz de mine |
 
 S04 VC 01 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -4298,9 +4408,9 @@ Exutoires de gaz de mine |
 
 S47 VC 05 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -4308,9 +4418,9 @@ Exutoires de gaz de mine |
 
 S48 VC 06 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -4368,9 +4478,9 @@ Piézomètres |
 
 PP 2 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -4390,7 +4500,7 @@ Wallers Arenberg |
 
 Bruay-Beugin |
 
-Beugin-Bruay La Buissière-Houdain |
+Beugin-Bruay-La-Buissière-Houdain |
 
 (vide) |
 
@@ -4400,7 +4510,7 @@ Bruay |
 
 Courrières-Dourges |
 
-Billy Montigny-Hénin Beaumont-Méricourt-Montigny en Gohelle-Sallaumines |
+Billy Montigny-Hénin-Beaumont-Méricourt-Montigny-en-Gohelle-Sallaumines |
 
 (vide) |
 
@@ -4506,7 +4616,7 @@ Aniche |
 
 Têtes de puits matérialisées |
 
-Sainte Barbe |
+Sainte-Barbe |
 
 Aniche |
 
@@ -4516,7 +4626,7 @@ Aniche |
 
 Têtes de puits matérialisées |
 
-Sainte Catherine |
+Sainte-Catherine |
 
 Aniche |
 
@@ -4526,7 +4636,7 @@ Aniche |
 
 Têtes de puits matérialisées |
 
-Sainte Thérèse |
+Sainte-Thérèse |
 
 Aniche |
 
@@ -4556,7 +4666,7 @@ Auberchicourt |
 
 Têtes de puits matérialisées |
 
-Sainte Marie 1 |
+Sainte-Marie 1 |
 
 Aniche |
 
@@ -4566,7 +4676,7 @@ Auberchicourt |
 
 Têtes de puits matérialisées |
 
-Sainte Marie 2 |
+Sainte-Marie 2 |
 
 Aniche |
 
@@ -4740,7 +4850,7 @@ Roucourt 2 |
 
 Aniche |
 
-Sin le Noble |
+Sin-le-Noble |
 
 (vide) |
 
@@ -4750,7 +4860,7 @@ Midi |
 
 Aniche |
 
-Sin le Noble |
+Sin-le-Noble |
 
 (vide) |
 
@@ -4760,7 +4870,7 @@ Déjardin 1 |
 
 Aniche |
 
-Sin le Noble |
+Sin-le-Noble |
 
 (vide) |
 
@@ -5366,7 +5476,7 @@ Valenciennes |
 
 Têtes de puits matérialisées |
 
-Saint Charles |
+Saint-Charles |
 
 Anzin |
 
@@ -5376,7 +5486,7 @@ Valenciennes |
 
 Têtes de puits matérialisées |
 
-Saint Christophe |
+Saint-Christophe |
 
 Anzin |
 
@@ -5386,7 +5496,7 @@ Valenciennes |
 
 Têtes de puits matérialisées |
 
-Saint Pierre |
+Saint-Pierre |
 
 Anzin |
 
@@ -5516,7 +5626,7 @@ Aniche |
 
 Têtes de puits matérialisées |
 
-Sainte Marie |
+Sainte-Marie |
 
 Azincourt |
 
@@ -5546,11 +5656,11 @@ Monchecourt |
 
 Têtes de puits matérialisées |
 
-Saint Roch 1 |
+Saint-Roch 1 |
 
 Bruay |
 
-Bruay La Buissière |
+Bruay-La-Buissière |
 
 (vide) |
 
@@ -5560,7 +5670,7 @@ Têtes de puits matérialisées |
 
 Bruay |
 
-Bruay La Buissière |
+Bruay-La-Buissière |
 
 (vide) |
 
@@ -5570,7 +5680,7 @@ Têtes de puits matérialisées |
 
 Bruay |
 
-Bruay La Buissière |
+Bruay-La-Buissière |
 
 (vide) |
 
@@ -5580,7 +5690,7 @@ Têtes de puits matérialisées |
 
 Bruay |
 
-Bruay La Buissière |
+Bruay-La-Buissière |
 
 (vide) |
 
@@ -5590,7 +5700,7 @@ Têtes de puits matérialisées |
 
 Bruay |
 
-Bruay La Buissière |
+Bruay-La-Buissière |
 
 (vide) |
 
@@ -5600,7 +5710,7 @@ Têtes de puits matérialisées |
 
 Bruay |
 
-Bruay La Buissière |
+Bruay-La-Buissière |
 
 (vide) |
 
@@ -5610,7 +5720,7 @@ Têtes de puits matérialisées |
 
 Bruay |
 
-Bruay La Buissière |
+Bruay-La-Buissière |
 
 (vide) |
 
@@ -5620,7 +5730,7 @@ Têtes de puits matérialisées |
 
 Bruay |
 
-Bruay La Buissière |
+Bruay-La-Buissière |
 
 (vide) |
 
@@ -5630,7 +5740,7 @@ Têtes de puits matérialisées |
 
 Bruay |
 
-Bruay La Buissière |
+Bruay-La-Buissière |
 
 (vide) |
 
@@ -6206,7 +6316,7 @@ Lourches |
 
 Têtes de puits matérialisées |
 
-Schneider Sainte Barbe |
+Schneider Sainte-Barbe |
 
 Douchy |
 
@@ -6250,7 +6360,7 @@ Têtes de puits matérialisées |
 
 Dourges |
 
-Hénin Beaumont |
+Hénin-Beaumont |
 
 (vide) |
 
@@ -6260,7 +6370,7 @@ Têtes de puits matérialisées |
 
 Dourges |
 
-Hénin Beaumont |
+Hénin-Beaumont |
 
 (vide) |
 
@@ -6270,7 +6380,7 @@ Têtes de puits matérialisées |
 
 Dourges |
 
-Hénin Beaumont |
+Hénin-Beaumont |
 
 (vide) |
 
@@ -6280,7 +6390,7 @@ Têtes de puits matérialisées |
 
 Dourges |
 
-Hénin Beaumont |
+Hénin-Beaumont |
 
 (vide) |
 
@@ -6290,7 +6400,7 @@ Têtes de puits matérialisées |
 
 Dourges |
 
-Hénin Beaumont |
+Hénin-Beaumont |
 
 (vide) |
 
@@ -6300,7 +6410,7 @@ Têtes de puits matérialisées |
 
 Dourges |
 
-Hénin Beaumont |
+Hénin-Beaumont |
 
 (vide) |
 
@@ -6310,7 +6420,7 @@ Têtes de puits matérialisées |
 
 Dourges |
 
-Montigny en Gohelle |
+Montigny-en-Gohelle |
 
 (vide) |
 
@@ -6320,7 +6430,7 @@ Têtes de puits matérialisées |
 
 Dourges |
 
-Montigny en Gohelle |
+Montigny-en-Gohelle |
 
 (vide) |
 
@@ -6380,7 +6490,7 @@ Têtes de puits matérialisées |
 
 Drocourt |
 
-Hénin Beaumont |
+Hénin-Beaumont |
 
 (vide) |
 
@@ -6390,7 +6500,7 @@ Têtes de puits matérialisées |
 
 Drocourt |
 
-Hénin Beaumont |
+Hénin-Beaumont |
 
 (vide) |
 
@@ -6400,7 +6510,7 @@ Têtes de puits matérialisées |
 
 Drocourt |
 
-Hénin Beaumont |
+Hénin-Beaumont |
 
 (vide) |
 
@@ -6410,7 +6520,7 @@ Têtes de puits matérialisées |
 
 Drocourt |
 
-Hénin Beaumont |
+Hénin-Beaumont |
 
 (vide) |
 
@@ -6780,7 +6890,7 @@ Têtes de puits matérialisées |
 
 Grenay |
 
-Auchy les Mines |
+Auchy-les-Mines |
 
 (vide) |
 
@@ -6790,7 +6900,7 @@ Têtes de puits matérialisées |
 
 Grenay |
 
-Auchy les Mines |
+Auchy-les-Mines |
 
 (vide) |
 
@@ -6800,7 +6910,7 @@ Têtes de puits matérialisées |
 
 Grenay |
 
-Bully les Mines |
+Bully-les-Mines |
 
 (vide) |
 
@@ -6810,7 +6920,7 @@ Têtes de puits matérialisées |
 
 Grenay |
 
-Bully les Mines |
+Bully-les-Mines |
 
 (vide) |
 
@@ -6820,7 +6930,7 @@ Têtes de puits matérialisées |
 
 Grenay |
 
-Bully les Mines |
+Bully-les-Mines |
 
 (vide) |
 
@@ -6830,7 +6940,7 @@ Têtes de puits matérialisées |
 
 Grenay |
 
-Bully les Mines |
+Bully-les-Mines |
 
 (vide) |
 
@@ -7950,7 +8060,7 @@ Têtes de puits matérialisées |
 
 Noeux |
 
-Noeux les Mines |
+Nœux-les-Mines |
 
 (vide) |
 
@@ -7960,7 +8070,7 @@ Têtes de puits matérialisées |
 
 Noeux |
 
-Noeux les Mines |
+Nœux-les-Mines |
 
 (vide) |
 
@@ -7970,7 +8080,7 @@ Têtes de puits matérialisées |
 
 Noeux |
 
-Noeux les Mines |
+Nœux-les-Mines |
 
 (vide) |
 
@@ -7980,7 +8090,7 @@ Têtes de puits matérialisées |
 
 Noeux |
 
-Noeux les Mines |
+Nœux-les-Mines |
 
 (vide) |
 
@@ -8186,7 +8296,7 @@ Anzin |
 
 Têtes de puits matérialisées |
 
-Saint Jean |
+Saint-Jean |
 
 Raismes |
 
@@ -8298,7 +8408,7 @@ Têtes de puits matérialisées |
 
 Saint Aybert |
 
-Saint Saulve |
+Saint-Saulve |
 
 Bruay sur Escaut |
 
@@ -8308,7 +8418,7 @@ Têtes de puits matérialisées |
 
 Thiers 1 |
 
-Saint Saulve |
+Saint-Saulve |
 
 Bruay sur Escaut |
 
@@ -8318,7 +8428,7 @@ Têtes de puits matérialisées |
 
 Thiers 2 |
 
-Saint Saulve |
+Saint-Saulve |
 
 Onnaing |
 
@@ -8328,7 +8438,7 @@ Têtes de puits matérialisées |
 
 Cuvinot 1 |
 
-Saint Saulve |
+Saint-Saulve |
 
 Onnaing |
 
@@ -8346,7 +8456,7 @@ Thivencelle |
 
 Têtes de puits matérialisées |
 
-Saint Pierre Grand puits |
+Saint-Pierre, Grand puits |
 
 Thivencelle |
 
@@ -8356,7 +8466,7 @@ Thivencelle |
 
 Têtes de puits matérialisées |
 
-Saint Pierre Petit puits |
+Saint-Pierre, Petit puits |
 
 Vendin lez Béthune |
 
@@ -8408,9 +8518,9 @@ Têtes de puits matérialisées |
 
 Le Bret 4 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Condé sur l'Escaut |
+Condé-sur-l'Escaut |
 
 (vide) |
 
@@ -8418,9 +8528,9 @@ Têtes de puits matérialisées |
 
 Chabaud la Tour 1 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Condé sur l'Escaut |
+Condé-sur-l'Escaut |
 
 (vide) |
 
@@ -8428,9 +8538,9 @@ Têtes de puits matérialisées |
 
 Chabaud la Tour 2 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Condé sur l'Escaut |
+Condé-sur-l'Escaut |
 
 (vide) |
 
@@ -8438,9 +8548,9 @@ Têtes de puits matérialisées |
 
 Chabaud la Tour 3 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Condé sur l'Escaut |
+Condé-sur-l'Escaut |
 
 (vide) |
 
@@ -8448,9 +8558,9 @@ Têtes de puits matérialisées |
 
 Ledoux 1 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Condé sur l'Escaut |
+Condé-sur-l'Escaut |
 
 (vide) |
 
@@ -8458,7 +8568,7 @@ Têtes de puits matérialisées |
 
 Ledoux 2 |
 
-Vieux Condé |
+Vieux-Condé |
 
 Hergnies |
 
@@ -8468,7 +8578,7 @@ Têtes de puits matérialisées |
 
 Amaury |
 
-Vieux Condé |
+Vieux-Condé |
 
 Hergnies |
 
@@ -8478,7 +8588,7 @@ Têtes de puits matérialisées |
 
 Hergnies |
 
-Vieux Condé |
+Vieux-Condé |
 
 Hergnies |
 
@@ -8488,7 +8598,7 @@ Têtes de puits matérialisées |
 
 Laurent |
 
-Vieux Condé |
+Vieux-Condé |
 
 Hergnies |
 
@@ -8498,9 +8608,9 @@ Têtes de puits matérialisées |
 
 Sophie |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -8508,9 +8618,9 @@ Têtes de puits matérialisées |
 
 Huvelle épuisement |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -8518,9 +8628,9 @@ Têtes de puits matérialisées |
 
 Léonard |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -8528,9 +8638,9 @@ Têtes de puits matérialisées |
 
 Mon Désir Nord |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -8538,9 +8648,9 @@ Têtes de puits matérialisées |
 
 Mon Désir Sud |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -8548,9 +8658,9 @@ Têtes de puits matérialisées |
 
 Neuve Machine |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -8558,29 +8668,29 @@ Têtes de puits matérialisées |
 
 Pied |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Saint Jean |
-
-Vieux Condé |
-
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
 Têtes de puits matérialisées |
 
-Saint Roch |
+Saint-Jean |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Saint-Roch |
+
+Vieux-Condé |
+
+Vieux-Condé |
 
 (vide) |
 
@@ -8588,9 +8698,9 @@ Têtes de puits matérialisées |
 
 Trois Arbres épuisement |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -8598,9 +8708,9 @@ Têtes de puits matérialisées |
 
 Trois Arbres extraction |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -8608,9 +8718,9 @@ Têtes de puits matérialisées |
 
 Trou Martin |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -8618,9 +8728,9 @@ Têtes de puits matérialisées |
 
 Vieille Machine 1 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -8628,25 +8738,25 @@ Têtes de puits matérialisées |
 
 Vieille Machine 2 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Vieux Condé 1 |
-
-Vieux Condé |
-
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
 Têtes de puits matérialisées |
 
-Vieux Condé 2 |
+Vieux-Condé 1 |
+
+Vieux-Condé |
+
+Vieux-Condé |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Vieux-Condé 2 |
 
 Anzin |
 
@@ -8846,7 +8956,7 @@ Fresnes sur Escaut |
 
 Têtes de puits non matérialisées |
 
-Saint Pierre |
+Saint-Pierre |
 
 Fresnes |
 
@@ -8998,9 +9108,9 @@ Têtes de puits non matérialisées |
 
 Rivierette 2 |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -9008,9 +9118,9 @@ Têtes de puits non matérialisées |
 
 Balive |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -9018,9 +9128,9 @@ Têtes de puits non matérialisées |
 
 Gaspard |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -9028,9 +9138,9 @@ Têtes de puits non matérialisées |
 
 Gros Caillou |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -9038,19 +9148,19 @@ Têtes de puits non matérialisées |
 
 Huvelle extraction |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
 Têtes de puits non matérialisées |
 
-Marie Louise |
+Marie-Louise |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -9080,7 +9190,7 @@ Dépôt de minerai ou de résidus |
 
 Bruay |
 
-Bruay La Buissière |
+Bruay-La-Buissière |
 
 (vide) |
 
@@ -9100,7 +9210,7 @@ Dépôt de minerai ou de résidus |
 
 Dourges |
 
-Hénin Beaumont |
+Hénin-Beaumont |
 
 (vide) |
 
@@ -9110,7 +9220,7 @@ Dépôt de minerai ou de résidus |
 
 Dourges-Courrières-Drocourt |
 
-Billy Montigny-Hénin Beaumont-Rouvroy |
+Billy Montigny-Hénin-Beaumont-Rouvroy |
 
 (vide) |
 
@@ -9148,9 +9258,9 @@ Dépôt de minerai ou de résidus |
 
 70 C |
 
-Vieux Condé |
+Vieux-Condé |
 
-Condé sur l'Escaut |
+Condé-sur-l'Escaut |
 
 (vide) |
 
@@ -9176,7 +9286,7 @@ St Etienne (42) |
 
 Rue Charras |
 
-réseau de nivellement |
+Réseaux de nivellement |
 
 Puits Robert |
 
@@ -9189,6 +9299,36 @@ Quartier des Espeyroux |
 Réseau de cannes de convergence |
 
 Espeyroux |
+
+Coudoux |
+
+Ventabren |
+
+Ventabren |
+
+Cavités |
+
+Ventabren |
+
+Aubin |
+
+Cransac |
+
+Mine du Mas de Mouly |
+
+Cavités |
+
+Sondages CRA-5022 CRA 5023 CRA 5024 CRA 5025 CRA 5028 |
+
+Aubin |
+
+Aubin |
+
+Mine des Escabrins |
+
+Cavités |
+
+Sondage AUB-4003 |
 
 Mondalazac et Solsac |
 
@@ -9262,7 +9402,7 @@ TB Saint-Jacques |
 
 La Motte d'Aveillans |
 
-La Motte Saint Martin |
+La Motte Saint-Martin |
 
 Plateau Matheysin |
 
@@ -9272,7 +9412,7 @@ Galerie de la Faurie |
 
 La Motte d'Aveillans |
 
-La Motte Saint Martin |
+La Motte Saint-Martin |
 
 Plateau Matheysin |
 
@@ -9282,7 +9422,7 @@ Galerie N6 Comberamis |
 
 La Motte d'Aveillans |
 
-La Motte Saint Martin |
+La Motte Saint-Martin |
 
 Plateau Matheysin |
 
@@ -9292,7 +9432,7 @@ Galerie N10bis |
 
 La Motte d'Aveillans |
 
-La Motte Saint Martin |
+La Motte Saint-Martin |
 
 Plateau Matheysin |
 
@@ -9302,7 +9442,7 @@ Galerie N14 |
 
 La Motte d'Aveillans |
 
-La Motte Saint Martin |
+La Motte Saint-Martin |
 
 Plateau Matheysin |
 
@@ -9558,7 +9698,7 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-La Motte d'Aveillans |
+MD 03 |
 
 La Motte d'Aveillans |
 
@@ -9568,7 +9708,7 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-La Motte d'Aveillans |
+MD 09 |
 
 La Motte d'Aveillans |
 
@@ -9578,7 +9718,7 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-La Motte d'Aveillans |
+MD 12 |
 
 La Motte d'Aveillans |
 
@@ -9588,7 +9728,7 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-La Motte d'Aveillans |
+MD 25 |
 
 La Motte d'Aveillans |
 
@@ -9598,7 +9738,7 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-La Motte d'Aveillans |
+MD 30 |
 
 La Motte d'Aveillans |
 
@@ -9608,7 +9748,7 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-La Motte d'Aveillans |
+MC 04 |
 
 Peychagnard Nouvelle |
 
@@ -9618,7 +9758,7 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-Susville |
+VD 2 |
 
 Peychagnard Nouvelle |
 
@@ -9628,7 +9768,7 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-Susville |
+VD 20 BIS |
 
 Peychagnard Nouvelle |
 
@@ -9638,7 +9778,7 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-Susville |
+VD 21 BIS |
 
 Peychagnard Nouvelle |
 
@@ -9648,7 +9788,7 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-Susville |
+VD 22 |
 
 Peychagnard Nouvelle |
 
@@ -9658,7 +9798,7 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-Susville |
+VD 24 |
 
 Peychagnard Nouvelle |
 
@@ -9668,7 +9808,7 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-Susville |
+VD 24 BIS |
 
 Peychagnard Nouvelle |
 
@@ -9678,7 +9818,17 @@ Plateau Matheysin |
 
 Exutoires de gaz de mine |
 
-Susville |
+VD 33 |
+
+Beaubrun |
+
+Saint-Etienne |
+
+Quartier St Just |
+
+Piézomètres |
+
+S2 |
 
 Montrambert |
 
@@ -9736,9 +9886,39 @@ Le Thoronet |
 
 Le Thoronet |
 
-réseau de nivellement |
+Réseaux de nivellement |
 
 Nivellement Peygros-Blanquette |
+
+Boussagues |
+
+Camplong |
+
+Verse des Brouttes |
+
+Réseaux de nivellement |
+
+Réseau de nivellement |
+
+Escaro |
+
+Souanyas |
+
+Dépôt San Culgat |
+
+Réseaux de nivellement |
+
+Réseau de nivellement de San Culgat |
+
+Côte Thiollière |
+
+Villars |
+
+Charras |
+
+Réseaux de nivellement |
+
+Réseau fontis rue Charras |
 
 C4-C2-C3-C6-C8-C9-C10-C14-EG |
 
@@ -9746,7 +9926,7 @@ Aix en Provence-Allauch-Belcodène-Bouc Bel Air-Cadolive-Fuveau-Gardanne-Gréasq
 
 (vide) |
 
-réseau de nivellement |
+Réseaux de nivellement |
 
 Provence |
 
@@ -9762,7 +9942,7 @@ Bois d'Asson |
 
 Quartier Gaillard |
 
-Saint Etienne |
+Saint-Étienne |
 
 (vide) |
 
@@ -9898,7 +10078,7 @@ Meyreuil |
 
 Dépôt de minerai ou de résidus |
 
-Le Défends |
+Le Défens |
 
 C 2 |
 
@@ -9932,7 +10112,7 @@ Les Sauvaires |
 
 Dourdel Montsalson |
 
-Saint Etienne |
+Saint-Étienne |
 
 (vide) |
 
@@ -9942,7 +10122,7 @@ Couriot A |
 
 Dourdel Montsalson-Beaubrun |
 
-Saint Etienne |
+Saint-Étienne |
 
 (vide) |
 
@@ -9952,7 +10132,7 @@ Couriot B |
 
 La Talaudière Chazotte |
 
-Saint Jean Bonnefonds |
+Saint-Jean Bonnefonds |
 
 (vide) |
 
@@ -9964,7 +10144,7 @@ Boussagues |
 
 Camplong |
 
-(vide) |
+Verse des Brouttes |
 
 Dépôt |
 
@@ -10029,3 +10209,23 @@ Le Thoronet |
 Inclinomètre |
 
 I12C |
+
+La Plagne |
+
+Mâcot-La Plagne |
+
+Cavité Secteur Belambra |
+
+Sondage |
+
+S2D4 |
+
+Coudoux |
+
+Ventabren |
+
+Ventabren |
+
+Sondage |
+
+SD1 |

@@ -1,8 +1,8 @@
 # Article ANNEXE II
 
-INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2022
+INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER, GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2023
 
-Bassin minier Centre-Ouest |
+Bassin minier Centre Ouest |
 
 Concession |
 
@@ -22,7 +22,7 @@ Bromont Lamothe |
 
 Canalisations |
 
-Puits Ste Barbe |
+puits Ste Barbe |
 
 La Vernade |
 
@@ -66,7 +66,7 @@ Les Mouillères |
 
 Barbery |
 
-Saint Germain le Vasson |
+Saint-Germain le Vasson |
 
 (vide) |
 
@@ -82,7 +82,7 @@ Soumont Saint Quentin |
 
 Emergences minières |
 
-Galerie de Saint Quentin (flanc Sud) |
+Galerie de Saint-Quentin (flanc Sud) |
 
 Jurques |
 
@@ -116,33 +116,33 @@ TB 220 |
 
 Le Périmètre de l'Aumance |
 
-Saint Hilaire |
+Saint-Hilaire |
 
 (vide) |
 
 Piézomètres |
 
-Saint Charles |
+Saint-Charles |
 
 Le Périmètre de l'Aumance |
 
-Saint Hilaire |
+Saint-Hilaire |
 
 (vide) |
 
 Piézomètres |
 
-Sainte Marie |
+Sainte-Marie |
 
 Le Périmètre de l'Aumance |
 
-Saint Hilaire |
+Saint-Hilaire |
 
 (vide) |
 
 Piézomètres |
 
-Saint Hilaire |
+Saint-Hilaire |
 
 Le Périmètre de l'Aumance |
 
@@ -163,6 +163,16 @@ Messeix |
 Stations de traitement des eaux |
 
 Les Mouillères |
+
+La Bellière |
+
+Montrevault-sur-Evre |
+
+(vide) |
+
+Stations de traitement des eaux |
+
+La Bellière |
 
 Bodennec |
 
@@ -200,7 +210,7 @@ De Wendel H |
 
 Petite Rosselle |
 
-Bassin Saint Charles |
+Bassin Saint-Charles |
 
 Canalisations |
 
@@ -214,7 +224,7 @@ Petite Rosselle |
 
 Digues |
 
-Bassin St Charles |
+Bassin Saint-Charles |
 
 De Wendel H |
 
@@ -308,16 +318,6 @@ CREU _ PUITS _ R _ Gare |
 
 Sarre et Moselle |
 
-Rosbruck |
-
-(vide) |
-
-Stations de relevage des eaux |
-
-ROS _ Puits _ 30Paix |
-
-Sarre et Moselle |
-
 Ham sous Varsberg |
 
 (vide) |
@@ -325,16 +325,6 @@ Ham sous Varsberg |
 Stations de relevage des eaux |
 
 CREU _ PUITS _ R _ Eglise |
-
-Sarre et Moselle |
-
-Lochwiller |
-
-(vide) |
-
-Forages de rabattement |
-
-FRAB-1 |
 
 Sarre et Moselle |
 
@@ -598,7 +588,7 @@ LH 2017 01 |
 
 Sarre et Moselle |
 
-Betting les Saint Avold |
+Betting les Saint-Avold |
 
 (vide) |
 
@@ -608,7 +598,7 @@ BET ALL 1 |
 
 Sarre et Moselle |
 
-Betting les Saint Avold |
+Betting les Saint-Avold |
 
 (vide) |
 
@@ -618,7 +608,7 @@ BET ALL 2 |
 
 Sarre et Moselle |
 
-Betting les Saint Avold |
+Betting les Saint-Avold |
 
 (vide) |
 
@@ -628,7 +618,7 @@ BET ALL 3 |
 
 Sarre et Moselle |
 
-Betting les Saint Avold |
+Betting les Saint-Avold |
 
 (vide) |
 
@@ -638,7 +628,7 @@ BET GTI 1 |
 
 Sarre et Moselle |
 
-Betting les Saint Avold |
+Betting les Saint-Avold |
 
 (vide) |
 
@@ -1208,37 +1198,7 @@ Puits 2 |
 
 Sarre et Moselle |
 
-Lochwiller |
-
-(vide) |
-
-Piézomètres |
-
-PKA |
-
-Sarre et Moselle |
-
-Lochwiller |
-
-(vide) |
-
-Piézomètres |
-
-PMS |
-
-Sarre et Moselle |
-
-Lochwiller |
-
-(vide) |
-
-Piézomètres |
-
-PL |
-
-Sarre et Moselle |
-
-Saint Avold |
+Saint-Avold |
 
 (vide) |
 
@@ -1248,7 +1208,7 @@ STAV ALL 2 |
 
 Sarre et Moselle |
 
-Saint Avold |
+Saint-Avold |
 
 (vide) |
 
@@ -1656,7 +1616,7 @@ Pecquencourt |
 
 Stations de relevage des eaux |
 
-Lemay Sainte Marie |
+Lemay Sainte-Marie |
 
 Aniche |
 
@@ -1690,7 +1650,7 @@ Larentis |
 
 Aniche |
 
-Sin le Noble |
+Sin-le-Noble |
 
 (vide) |
 
@@ -1700,7 +1660,7 @@ Berg ob Zoom |
 
 Aniche |
 
-Sin le Noble |
+Sin-le-Noble |
 
 (vide) |
 
@@ -1710,7 +1670,7 @@ Bois des Retz |
 
 Aniche |
 
-Sin le Noble |
+Sin-le-Noble |
 
 (vide) |
 
@@ -1720,7 +1680,7 @@ Godion |
 
 Aniche |
 
-Sin le Noble |
+Sin-le-Noble |
 
 (vide) |
 
@@ -2046,9 +2006,9 @@ Thivencelle |
 
 Stations de relevage des eaux |
 
-Saint Pierre bis |
+Saint-Pierre bis |
 
-Saint Saulve |
+Saint-Saulve |
 
 Onnaing |
 
@@ -2058,7 +2018,7 @@ Stations de relevage des eaux |
 
 Alouettes |
 
-Saint Saulve |
+Saint-Saulve |
 
 Onnaing |
 
@@ -2068,7 +2028,7 @@ Stations de relevage des eaux |
 
 Petit Diable |
 
-Saint Saulve |
+Saint-Saulve |
 
 Onnaing |
 
@@ -2078,7 +2038,7 @@ Stations de relevage des eaux |
 
 Pré le Comte |
 
-Saint Saulve |
+Saint-Saulve |
 
 Vicq |
 
@@ -2088,7 +2048,7 @@ Stations de relevage des eaux |
 
 Gros Charles |
 
-Saint Saulve |
+Saint-Saulve |
 
 Vicq |
 
@@ -2098,9 +2058,9 @@ Stations de relevage des eaux |
 
 Landimoret |
 
-Vieux Condé |
+Vieux-Condé |
 
-Condé sur l'Escaut |
+Condé-sur-l'Escaut |
 
 (vide) |
 
@@ -2108,9 +2068,9 @@ Stations de relevage des eaux |
 
 Canarderie |
 
-Vieux Condé |
+Vieux-Condé |
 
-Condé sur l'Escaut |
+Condé-sur-l'Escaut |
 
 (vide) |
 
@@ -2118,9 +2078,9 @@ Stations de relevage des eaux |
 
 Moulineaux |
 
-Vieux Condé |
+Vieux-Condé |
 
-Vieux Condé |
+Vieux-Condé |
 
 (vide) |
 
@@ -2348,7 +2308,7 @@ Alès |
 
 Emergences minières |
 
-Galerie Saint Pierre |
+Galerie Saint-Pierre |
 
 Rochebelle |
 
@@ -2604,7 +2564,7 @@ Côte en Velin |
 
 Fourneaux |
 
-(vide) |
+Côte en Velin |
 
 Emergences minières |
 
@@ -2682,7 +2642,7 @@ Galerie N6 Comberamis |
 
 La Motte d'Aveillans |
 
-La Motte Saint Martin |
+La Motte Saint-Martin |
 
 (vide) |
 
@@ -2692,7 +2652,7 @@ Galerie de la Faurie |
 
 La Motte d'Aveillans |
 
-La Motte Saint Martin |
+La Motte Saint-Martin |
 
 (vide) |
 
@@ -2792,7 +2752,7 @@ Villars |
 
 Terrenoire |
 
-Saint Etienne |
+Saint-Étienne |
 
 (vide) |
 
