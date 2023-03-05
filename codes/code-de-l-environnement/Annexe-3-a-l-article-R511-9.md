@@ -1948,7 +1948,7 @@ D
 
 |
 
-Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés
+Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés, à l'exclusion des installations classées au titre de la rubrique 3700, la quantité maximale de produits susceptible d'être présente dans les installations étant :
 
 |
 
@@ -1956,19 +1956,19 @@ Installations de mise en œuvre de produits de préservation du bois et matéria
 
 |
 
-1. La quantité susceptible d'être présente dans l'installation étant supérieure à 1 000 l
+1. Supérieure à 1 000 L
 
 |
 
-A
+E
 
 |
 
-3
+-
 
 |
 
-2. La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 200 l ou la quantité de solvants consommée étant supérieure à 25 t/ an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure à 1 000 l
+2. Supérieure ou égale à 200 L, mais inférieure ou égale à 1 000 L
 
 |
 
@@ -1976,7 +1976,7 @@ DC
 
 |
 
-|
+- |
 
 2420
 
