@@ -520,43 +520,31 @@ C
 
 Direction départementale de l'équipement et de l'agriculture (2) des Landes
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau
 
-NIVEAU
+de qualification
 
-de qualification de l'emploi
+de l'emploi |
 
-|
+Nombre
 
-NOMBRE
+d'emplois |
 
-d'emplois
+Nombre
 
-|
+de points (IM)
 
-NOMBRE DE POINTS (IM)
+par emploi |
 
-par emploi
+Adjoint au chef du service construction et habitat |
 
-|
+A |
 
-Correspondant de la politique de la ville
+1 |
 
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
+20 |
 
 Direction départementale de l'équipement et de l'agriculture (2) de la Loire
 
@@ -867,3 +855,5 @@ NOTA :
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
 
 Se reporter aux conditions d'application prévues à l'article 1 de l'arrêté du 10 octobre 2022 (NOR: TREK2228924A).
+
+Se reporter aux conditions d'application prévues à l'article 1 de l'arrêté du 14 février 2023 (NOR: TREK2304665A).
