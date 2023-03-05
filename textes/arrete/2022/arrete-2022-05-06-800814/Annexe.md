@@ -148,7 +148,7 @@ Ecole nationale supérieure Louis Lumière (ENSLL) |
 
 56,72% |
 
-Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés (INSHEA) et COMUE Paris Lumière |
+Institut national supérieur de formation et de recherche pour l'éducation inclusive et COMUE Paris Lumière |
 
 135 |
 

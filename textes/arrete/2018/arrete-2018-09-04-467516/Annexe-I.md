@@ -1114,7 +1114,7 @@ Institut national du travail, de l'emploi et de la formation professionnelle
 
 Institut national polytechnique de Toulouse
 
-Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés
+Institut national supérieur de formation et de recherche pour l'éducation inclusive
 
 Institut national supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (AGROCAMPUS OUEST)
 

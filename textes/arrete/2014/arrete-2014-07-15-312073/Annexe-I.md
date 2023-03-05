@@ -256,7 +256,7 @@ Ecole nationale supérieure Louis Lumière.
 
 Ecole nationale supérieure de la nature et du paysage de Blois.
 
-Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés.
+Institut national supérieur de formation et de recherche pour l'éducation inclusive.
 
 Institut français de mécanique avancée.
 

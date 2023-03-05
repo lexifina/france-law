@@ -172,7 +172,7 @@ Emploi de président de l'Agence nationale de la recherche mentionné au décret
 
 Emploi de directeur de l'Institut des hautes études pour la science et la technologie mentionné au décret n° 2007-634 du 27 avril 2007 modifié portant création de l'Institut des hautes études pour la science et la technologie |
 
-Emploi de directeur de l'Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés mentionné au décret n° 2005-1754 du 30 décembre 2005 modifié relatif à l'Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés |
+Emploi de directeur de l'Institut national supérieur de formation et de recherche pour l'éducation inclusive mentionné au décret n° 2005-1754 du 30 décembre 2005 modifié relatif à l'Institut national supérieur de formation et de recherche pour l'éducation inclusive |
 
 Emploi de directeur général de l'Institut national du sport, de l'expertise et de la performance mentionné à l'article R. 211-8 du code du sport |
 
@@ -180,4 +180,4 @@ Emploi de directeur de l'Ecole nationale de voile et des sports nautiques mentio
 
 Emploi de directeur général de l'Ecole nationale des sports de montagne mentionné à l'article D. 211-61 du code du sport |
 
-Emplois de directeur de centre de ressources, d'expertise et performance sportives mentionnés à l' article R. 114-11 du code du sport |
+Emplois de directeur de centre de ressources, d'expertise et performance sportives mentionnés à l'article R. 114-11 du code du sport |

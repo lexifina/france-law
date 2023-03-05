@@ -234,7 +234,7 @@ Université de Lyon
 
 |
 
-Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés
+Institut national supérieur de formation et de recherche pour l'éducation inclusive
 
 |
 
