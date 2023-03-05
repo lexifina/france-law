@@ -1992,7 +1992,7 @@ A
 
 |
 
-Sous-produits animaux (dépôt ou transit de), à l'exclusion des dépôts visés par les rubriques 2171 et 2355, des dépôts associés aux activités des établissements de diagnostic, de recherche et d'enseignement, des dépôts de biodéchets au sens de l'article R. 541-8 du code de l'environnementet des dépôts annexés et directement liés aux installations dont les activités sont visées par les rubriques 2101 à 2150,2170,2210,2221,2230,2240,2350,2690,2740,2780,2781,3532,3630,3641,3642,3643 et 3660 :
+Sous-produits animaux (dépôt ou transit de), à l'exclusion des dépôts visés par les rubriques 2171 et 2355, des dépôts associés aux activités des établissements de diagnostic, de recherche et d'enseignement, des dépôts de biodéchets au sens de l'article L. 541-1-1 du code de l'environnement et des dépôts annexés et directement liés aux installations dont les activités sont visées par les rubriques 2101 à 2150, 2170, 2210, 2221, 2230, 2240, 2350, 2690, 2740, 2780, 2781, 783, 3532,3630, 3641, 3642, 3643 et 3660 :
 
 |
 
@@ -2000,27 +2000,25 @@ Sous-produits animaux (dépôt ou transit de), à l'exclusion des dépôts visé
 
 |
 
-1. Dépôt ou transit de sous-produits animaux dans des conteneurs étanches et couverts sans manipulation des sous-produits animaux.
+1. Dépôt ou transit de sous-produits animaux dans des conteneurs étanches et couverts sans manipulation des sous-produits animaux :
+
+La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg et inférieure à 30 tonnes
 
 |
 
-|
+E
 
 |
 
-La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg et inférieure à 30 tonnes |
-
-E |
-
-- |
-
-2. Autres installations que celles visées au 1 : |
+-
 
 |
 
-|
+2. Autres installations que celles visées au 1 :
 
-La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg |
+La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg
+
+|
 
 A |
 
@@ -2378,6 +2376,30 @@ A
 
 |
 
+2783 |
+
+Installation de déconditionnement de biodéchets ayant fait l'objet d'un tri à la source en vue de leur valorisation organique : |
+
+|
+
+|
+
+La quantité de biodéchets déconditionnés étant :
+
+1. Supérieure ou égale à 30 t/ j |
+
+E |
+
+- |
+
+2. Inférieure à 30 t/ j
+
+|
+
+DC |
+
+- |
+
 2790
 
 |
@@ -2394,7 +2416,7 @@ A |
 
 |
 
-Installation de traitement de déchets non dangereux, à l'exclusion des installations visées aux rubriques 2515, 2711, 2713, 2714, 2716, 2720, 2760, 2771, 2780, 2781, 2782, 2794, 2795 et 2971.
+Installation de traitement de déchets non dangereux, à l'exclusion des installations classées au titre des rubriques 2515, 2711, 2713, 2714, 2716, 2720, 2760, 2771, 2780, 2781, 2782, 2783, 2794, 2795 ou 2971 :
 
 |
 
@@ -2404,23 +2426,13 @@ Installation de traitement de déchets non dangereux, à l'exclusion des install
 
 La quantité de déchets traités étant :
 
-|
-
-|
-
-|
-
 1. Supérieure ou égale à 10 t/j
 
 |
 
-A
+A |
 
-|
-
-2
-
-|
+2 |
 
 2. Inférieure à 10 t/j
 
@@ -3340,7 +3352,7 @@ A
 
 2971 |
 
-Installation de production de chaleur ou d'électricité à partir de déchets non dangereux préparés sous forme de combustibles solides de récupération dans une installation prévue à cet effet, associés ou non à un autre combustible.
+Installation de production d'énergie, telle que la production de chaleur, d'électricité ou de gaz, à partir de déchets non dangereux préparés sous forme de combustibles solides de récupération dans une installation prévue à cet effet, associés ou non à un autre combustible :
 
 |
 
@@ -6637,7 +6649,3 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
 
 Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
-
-NOTA :
-
-Conformément à l'article 2 du décret n° 2021-976 du 21 juillet 2021, ces dispositions entrent en vigueur le 1er septembre 2021.
