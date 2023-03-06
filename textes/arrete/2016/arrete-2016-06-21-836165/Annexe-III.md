@@ -36,7 +36,7 @@ L'échange avec les évaluateurs permet également de vérifier la capacité du 
 
 2 - Seconde modalité d'évaluation sur la deuxième famille d'activités du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité " éducateur sportif " mention " activités physiques pour tous " choisie par le candidat :
 
-Cette situation d'évaluation se déroule en structure d'alternance pédagogique et se décompose comme suit :
+Cette situation d'évaluation se déroule en organisme de formation ou en structure d'alternance pédagogique et se décompose comme suit :
 
 - production d'un document :
 
