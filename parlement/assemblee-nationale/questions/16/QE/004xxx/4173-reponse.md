@@ -1,0 +1,9 @@
+# Réponse à la question n° 4173
+
+- Question : [4173](4173.md) — Question n° 4173 — État des stocks d'armes des armées françaises
+
+## Réponse
+
+*JO du 2023-03-07, page 2170*
+
+L'enveloppe budgétaire de 3 milliards d'euros de ressources supplémentaires en loi de finance initiale (LFI) pour 2023 par rapport à la LFI 2022 se décompose notamment en 669 millions d'euros au profit de la masse salariale, 550 millions d'euros pour l'entretien programmé du matériel, 455 millions d'euros pour les programmes d'armement et 318 millions d'euros pour la dissuasion. Le reste de la hausse budgétaire se répartit entre différents postes de dépense, tels que les infrastructures, le carburant opérationnel, les coûts de l'énergie, les soutiens interarmées ou encore le renseignement. La pérennité des chaînes de production et d'approvisionnement en armement est naturellement liée aux commandes reçues et à cet égard les lois de programmation militaire et les commandes pluriannuelles offrent une visibilité indispensable à leur maintien. Cependant, les commandes françaises ne constituent qu'une partie de l'activité des entreprises de défense françaises. La filière munitionnaire française dépend également des commandes à l'export. Les industriels peuvent compter sur les acteurs publics, notamment la direction générale de l'armement, pour les soutenir dans leurs exportations. Les projets de modernisation des armements jouent également un rôle essentiel, au travers d'actions d'innovation ou de post-développement, ce qui permet de maintenir un haut niveau de performance de nos armements pour répondre aux évolutions des besoins capacitaires de nos forces armées, et de proposer une offre également attractive à l'exportation. Le ministère porte enfin une attention soutenue à l'ensemble de la chaîne d'approvisionnement, notamment aux PME et ETI, bien au-delà des chaînes d'assemblage finales des grands maîtres d'œuvre industriels.
