@@ -1,0 +1,9 @@
+# Réponse à la question n° 2868
+
+- Question : [2868](2868.md) — Question n° 2868 — Droits indemnités maladie pour un nouvel auto entrepreneur
+
+## Réponse
+
+*JO du 2023-03-07, page 2261*
+
+Les micro-entrepreneurs peuvent prétendre à une indemnisation en cas d'arrêt de travail pour maladie s'ils justifient soit d'avoir rempli une condition de versement de cotisations soit d'avoir rempli une condition de durée de travail. Ces conditions dérogent aux conditions prévues pour les assurés du régime général afin d'être adaptées au caractère saisonnier ou discontinu des activités des travailleurs indépendants. Ainsi ces assurés doivent soit avoir cotisé sur une rémunération à hauteur de 2030 fois le smic horaire au cours des 12 mois précédents, soit avoir travaillé au moins 600 heures dans les 12 mois civils ou 365 jours précédents. Pour autant, il est des situations où les travailleurs changent de régime d'affiliation et n'ont pas encore suffisamment travaillé et cotisé pour ouvrir droit à une indemnisation au titre de ce nouveau régime. Dans ces cas, afin de ne pas pénaliser le travailleur concerné, la réglementation est adaptée afin de permettre un maintien du droit aux indemnités journalières (en application des articles L. 161-8 et R. 161-3 du code de la sécurité sociale). Ainsi, les personnes qui cessent de remplir les conditions pour relever du régime auquel leurs droits sont attachés bénéficient du maintien de leurs droits aux indemnités journalières pendant 12 mois à compter de la date à laquelle ces conditions ne sont plus remplies. La caisse primaire d'assurance maladie de l'assuré peut le renseigner quant à l'indemnisation et les conditions dans lesquelles il peut la percevoir. Enfin, le Gouvernement est particulièrement attentif à la situation des travailleurs indépendants et mène des travaux dans l'objectif d'améliorer les modalités de versement des indemnités journalières des assurés en cas d'arrêt maladie.
