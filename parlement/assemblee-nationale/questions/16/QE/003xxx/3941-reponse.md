@@ -1,0 +1,9 @@
+# Réponse à la question n° 3941
+
+- Question : [3941](3941.md) — Question n° 3941 — Facturation d'honoraires dans le cadre d'un contrat de révélation de succession
+
+## Réponse
+
+*JO du 2023-03-07, page 2216*
+
+Le contrat de révélation de succession est le contrat par lequel un généalogiste successoral propose à une personne qu'il a identifiée comme héritière de lui révéler ses droits successoraux, moyennant rémunération. Ce contrat obéit aux dispositions du code de la consommation qui régissent le démarchage à domicile (Civ. 1ère, 29 octobre 2002, pourvoi n° 00-15.729). La fixation de la rémunération relève de la liberté contractuelle et est donc librement négociable. La Cour de cassation considère toutefois que le juge peut réduire les honoraires considérés comme excessifs au regard des services rendus par le généalogiste (Civ. 1ère, 5 mai 1998, pourvoi n° 96-14.328). Dès lors, si en application de l'article L. 132-12 du code des assurances, le capital ou la rente stipulés payables lors du décès de l'assuré à un bénéficiaire déterminé ou à ses héritiers ne font pas partie de la succession de l'assuré, rien n'empêche les parties au contrat de révélation de succession de convenir que la rémunération du généalogiste dépendra non seulement de l'actif net de succession, mais également du montant du capital des contrats d'assurance-vie. En revanche, si le bénéficiaire d'une assurance-vie a connaissance de ses droits sans l'intervention du généalogiste, il peut refuser de signer le contrat de révélation de succession. Dans ce cas, le professionnel ne pourra être indemnisé que sur le fondement de la gestion d'affaires, uniquement à hauteur des dépenses utiles ou nécessaires qu'il a faites pour la recherche de l'héritier considéré et la détermination de ses droits successoraux (Civ. 1ère, 18 novembre 2020, pourvoi n° 19-10.965).
