@@ -1,0 +1,9 @@
+# Réponse à la question n° 3456
+
+- Question : [3456](3456.md) — Question n° 3456 — Interprétation à retenir d'un arrêt du Conseil d'État - Permis de construire
+
+## Réponse
+
+*JO du 2023-03-07, page 2212*
+
+La division d'un fonds en lotissement n'est pas réalisée par la seule délivrance de l'autorisation de lotir. Le lotissement nait du transfert de propriété ou de jouissance d'un lot à construire. Les enjeux de cette qualification sont, d'une part, le rattachement ou non de l'opération à un régime spécifique, qui permet de se prévaloir du mécanisme de cristallisation de certaines règles d'urbanisme, et d'autre part l'appréciation de la conformité du projet de construction au regard des règles particulières applicables aux lotissements, ou à défaut de rattachement au régime du lotissement, aux règles de droit commun. Dans son arrêt du 13 juin 2022 n° 452457, le Conseil d'Etat se borne à rappeler qu'une opération n'est pas qualifiée de lotissement en l'absence de division effective. Sous réserve de l'interprétation souveraine des juridictions qui pourraient être saisies de cette question, il pourrait effectivement être soutenu que l'autorité administrative ne peut présumer de l'intention prochaine du pétitionnaire de « consommer » son autorisation de lotir pour apprécier la demande de permis de construire qui lui est adressée à l'aune des règles applicables aux lotissements, dès lors qu'elle ne s'est pas déjà manifestée par une vente effective. Néanmoins, rien n'indique que la solution dégagée par le Conseil d'Etat dans l'arrêt susmentionné, appliquée dans le cas d'un propriétaire souhaitant ouvertement conserver la propriété de l'intégralité de la parcelle, doit nécessairement s'appliquer au cas où le propriétaire aurait engagé des démarches actives pour diviser (telle que la signature d'un compromis de vente).
