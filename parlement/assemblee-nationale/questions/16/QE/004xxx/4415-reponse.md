@@ -1,0 +1,9 @@
+# Réponse à la question n° 4415
+
+- Question : [4415](4415.md) — Question n° 4415 — Niveau d'orthographe élèves français-rapport-propositions
+
+## Réponse
+
+*JO du 2023-03-07, page 2190*
+
+La note d'information n° 22.37 publiée en décembre 2022 par la direction de l'évaluation, de la prospective et de la performance (DEPP) révèle une baisse continue des performances en orthographe des élèves en fin d'école primaire. Les erreurs les plus courantes concernent les accords au pluriel des noms communs et des verbes ; elles sont en augmentation. Cependant, le nombre moyen d'erreurs observées en 2015 et 2021 est deux fois moins important que celui observé entre 2007 et 2015, ce qui montre que les actions engagées depuis 2017 en faveur de l'acquisition des savoirs fondamentaux commencent à produire leurs effets. Dès la rentrée 2017, la mesure de dédoublement des classes de grande section de maternelle, de CP et de CE1 dans les écoles de REP et REP+ a permis un meilleur accompagnement lors de l'entrée dans les apprentissages fondamentaux en français. Un ensemble d'outils pédagogiques est mis à la disposition des enseignants : les évaluations nationales CP, CE1, 6ème, étendues aux classes de CM1 et de 4ème à la rentrée 2023 et, en complément du programme d'enseignement, des recommandations nationales et des repères annuels de progression exigeants. La note de service portant sur le cycle 3 (CM1, CM2, 6ème) récemment publiée indique des objectifs très clairs (100 % de maîtrise des savoirs fondamentaux par les élèves) et des leviers pour y parvenir. Il est recommandé de consacrer au moins deux heures par jour à un enseignement structuré de la langue dont fait partie l'orthographe. Les exercices de copie et de dictée se pratiquent quotidiennement à l'école élémentaire. La publication d'une grammaire des cycles 2 et 3, est un outil précieux pour les élèves.
