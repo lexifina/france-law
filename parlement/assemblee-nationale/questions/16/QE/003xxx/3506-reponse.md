@@ -1,0 +1,9 @@
+# Réponse à la question n° 3506
+
+- Question : [3506](3506.md) — Question n° 3506 — Réglementation et information des consommateurs étiquetage DLC
+
+## Réponse
+
+*JO du 2023-03-07, page 2186*
+
+Les dispositions concernant l'étiquetage alimentaire sont harmonisées à l'échelle européenne par le règlement de l'Union européenne n° 1169/2011 concernant l'information du consommateur sur les denrées alimentaires (règlement INCO). La Commission européenne travaille à une révision de ce règlement, dont le projet devrait être prochainement communiqué aux États membres. Cette révision portera notamment sur l'expression des dates de péremption, qu'il s'agisse de la date de durabilité minimale ou, pour les denrées microbiologiquement périssables, d'une date limite de consommation. L'objectif de cette révision, qui s'inscrit dans le cadre de la lutte contre le gaspillage alimentaire, est d'améliorer la compréhension du consommateur, y compris en lui donnant une information plus directement accessible, lui permettant de distinguer de façon immédiate les 2 types de produits. Les critères de visibilité de ces mentions, notamment l'utilisation de pictogrammes ou de codes couleurs, seront examinés dans le cadre de ces travaux auxquels la France, particulièrement sensible au gaspillage alimentaire, prendra une part active. Sans attendre et dans les limites permises par le règlement INCO, la France a d'ores et déjà pris l'initiative, au travers du décret n° 2022-1440 du 17 novembre 2022 relatif aux modalités de l'information des consommateurs au sujet du caractère consommable des denrées alimentaires, de permettre aux opérateurs l'apposition d'une information complémentaire de la date de durabilité minimale. Cette information permet au consommateur d'appréhender plus directement le fait que les produits dont la date de durabilité minimale est dépassée peuvent être consommés sans risque.
