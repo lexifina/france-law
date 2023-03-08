@@ -1,0 +1,19 @@
+# Réponse à la question n° 224
+
+- Question : [224](224.md) — Question n° 224 — Travaux de rénovation de la caserne Deflandre
+
+## Réponse
+
+*JO du 2023-03-08, page 2214*
+
+TRAVAUX DE RÉNOVATION DE LA CASERNE DEFLANDRE
+
+M. le président. La parole est à M. Benoît Bordat, pour exposer sa question, n° 224, relative aux travaux de rénovation de la caserne Deflandre.
+
+M. Benoît Bordat. La caserne Deflandre, à Dijon, dans ma circonscription, est la plus importante de la Côte-d'Or. Elle compte plus de 461 logements vétustes habités par plus de 450 familles. J'étais jusqu'en juin 2022 adjoint au maire de Dijon chargé des anciens combattants et de la défense nationale ; j'ai également été réserviste opérationnel de la gendarmerie et ai pu fréquenter ce site à de nombreuses reprises. L'urgence est là car cette caserne, construite en 1971, est dans un état très vétuste. L'isolation des bâtiments n'est plus du tout en adéquation avec les enjeux climatiques de notre époque. La phase des appels d'offres pour le marché public de la rénovation des logements s'est achevée en septembre 2022, ce qui devrait permettre de débuter au plus vite les travaux.
+
+Je souhaiterais des précisions sur les modalités de mise en œuvre des travaux, notamment les différents aménagements prévus dans le cadre de cette rénovation d'ampleur. Je souhaite aussi que ce projet de rénovation soit en adéquation avec les enjeux énergétiques et climatiques, et que les locaux deviennent suffisamment confortables pour permettre à l'ensemble du personnel de la caserne de gendarmerie d'assurer le très honorable travail qu'est la défense et la sécurité de nos concitoyens. Par ailleurs, comment sera organisé le relogement du personnel pendant la rénovation ? Il faut permettre à ce dernier de poursuivre ses missions dans les meilleures conditions. Enfin, je souhaite connaître le calendrier prévisionnel des travaux. Une première phase était prévue dès 2022, mais elle a été retardée. Quelle est désormais la date retenue pour débuter les travaux ? Plus globalement, quelles sont les informations que je peux apporter à l'ensemble du personnel de gendarmerie de cette caserne si importante pour le département ?
+
+M. le président. La parole est à Mme la ministre déléguée chargée des collectivités territoriales et de la ruralité.
+
+Mme Dominique Faure, ministre déléguée chargée des collectivités territoriales et de la ruralité. La qualité de vie et les conditions de travail des militaires de la gendarmerie et de leurs familles demeurent une préoccupation majeure du Gouvernement. Il continuera à investir massivement, à l’image du quartier Deflandre à Dijon, dont le coût de réhabilitation des logements et des locaux de service est estimé à 78 millions d'euros. Le projet de traitement des 461 logements de cette emprise en est au stade de la conception, pour des travaux envisagés de début 2025 à fin 2028. Les travaux porteront sur la performance énergétique, le traitement complet du clos et du couvert des bâtiments, mais également la rénovation intérieure des logements – désamiantage, réfection des pièces sèches et humides. Au titre de la phase préparatoire à cette opération complexe et de grande envergure, la livraison d’un bâtiment tertiaire de 1 900 mètres carrés, fin 2023-début 2024, libérera vingt-huit logements actuellement déclassés en bureaux qui, une fois réhabilités, permettront de réaliser une opération en tiroir et de reloger les gendarmes au fur et à mesure des travaux. En complément de la rénovation des logements, la réhabilitation de onze bâtiments de bureaux ou à usage technique existants est programmée sur la période 2028-2030. Enfin, pour optimiser l’occupation du site, des locaux tertiaires et des logements seront construits sur le foncier disponible de la caserne pour accueillir un nouvel escadron de gendarmerie mobile, et ce pour un coût supplémentaire de 30 millions d'euros.
