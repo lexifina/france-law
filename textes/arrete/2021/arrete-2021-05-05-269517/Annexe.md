@@ -58,7 +58,7 @@ Sommaire
 
 5.5. Avances aux collectivités territoriales (programme 833)
 
-5.6. Dépenses directes (Bourses, allocations, secours, prestations au bénéfice de tiers…)
+5.6. Dépenses directes (Bourses, allocations, secours, prestations au bénéfice de tiers …)
 
 5.7. Rentes mutualistes
 
@@ -76,7 +76,7 @@ Sommaire
 
 7.3. Transaction (hors commande publique)
 
-7.4. Paiement à des compagnies ou à des sociétés d'assurance à la suite de sinistres matériels et/ou corporels
+7.4. Paiement à des compagnies ou à des sociétés d'assurance à la suite de sinistres matériels et/ ou corporels
 
 8. Frais de justice
 
@@ -104,31 +104,29 @@ Sommaire
 
 10.1. Dépenses de personnel
 
-10.2. Autres dépenses
+10.2. Dépenses de fonctionnement spécifiques
 
-10.3. Marchés publics : Contrats, marchés de droit local, lettres de commande, devis
+10.3. Commande publique
 
-10.4. Achats sur factures et mémoires
+10.4. Opérations immobilières
 
-10.5. Acquisitions immobilières
+10.5. Dépenses d'intervention
 
-10.6. Paiements à des tiers
+Annexe A-Mentions devant figurer sur les factures ou les mémoires
 
-10.7. Interventions
+Annexe B-Mentions devant figurer sur l'état liquidatif pour le paiement d'un acompte
 
-Annexe A - Mentions devant figurer sur les factures ou les mémoires
+Annexe C-Mentions devant figurer sur l'état liquidatif des révisions et/ ou de l'actualisation des prix
 
-Annexe B - Mentions devant figurer sur l'état liquidatif pour le paiement d'un acompte
+Annexe D-Mentions relatives à l'affacturage
 
-Annexe C - Mentions devant figurer sur l'état liquidatif des révisions et/ou de l'actualisation des prix
+Annexe E-Mentions devant figurer dans un marché de partenariat
 
-Annexe D - Mentions relatives à l'affacturage
+Annexe F-Mentions devant figurer dans un marché public faisant l'objet d'un écrit
 
-Annexe E - Mentions devant figurer dans un marché de partenariat
+Annexe G-Mentions devant figurer dans un contrat de concession
 
-Annexe F - Mentions devant figurer dans un marché public faisant l'objet d'un écrit
-
-Annexe G - Mentions devant figurer dans un contrat de concession
+Annexe H-Validité des signatures
 
 NATURE DES DÉPENSES |
 
@@ -400,35 +398,41 @@ Le paiement d'une somme dépendant d'une succession nécessite de déterminer au
 
 ou
 
-- Livret de famille. |
+- Livret de famille mis à jour. |
 
 |
 
 1.2.2.2. Paiement aux héritiers |
 
-- Certificat de propriété (délivré par le tribunal ou le notaire) ;
+-Certificat de propriété (délivré par le tribunal ou le notaire) ;
 
 ou
 
-- Jugement d'envoi en possession ;
+-Jugement d'envoi en possession ;
 
 ou
 
-- Acte de notoriété (établi par un notaire) ;
+-Acte de notoriété (établi par un notaire) ;
 
 ou
 
-- Intitulé d'inventaire (établi par un notaire) ;
+-Intitulé d'inventaire (établi par un notaire) ;
+
+ou
+
+-Attestation successorale européenne ;
 
 ou, le cas échéant,
 
-- Attestation sur l'honneur de la qualité de l'héritier accompagnée d'une pièce justifiant du lien de parenté lorsque le montant de la dépense est inférieur ou égal à 1 500 €. |
+-Attestation sur l'honneur de la qualité de l'héritier accompagnée d'une pièce justifiant du lien de parenté lorsque le montant de la dépense est inférieur ou égal à 5 000 €. |
 
 La preuve de la qualité d'héritiers peut être apportée par tout moyen (article 730 du code civil). Toutefois, les pièces ci-contre permettent d'apporter facilement cette preuve.
 
 L'acte de notoriété ne peut plus être délivré par le greffe du tribunal d'instance (loi n° 2007-1787 du 20 décembre 2007 relative à la simplification du droit). L'acte doit être mentionné en marge de l'acte de décès.
 
-Article 1359 du code civil et décret n° 2004-836 du 20 août 2004 portant modification de la procédure civile. |
+Décret n° 2004-836 du 20 août 2004 portant modification de la procédure civile.
+
+Règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes authentiques en matière de successions et à la création d'un certificat successoral européen. |
 
 1.2.2.3. Paiement aux légataires |
 
@@ -1430,31 +1434,31 @@ Le comptable public ne s'assure pas du rattachement effectif de la dépense au s
 
 2.3.2.1.1. Remboursement aux candidats des frais d'impression et d'affichage |
 
-- Factures libellées au nom du candidat ou du candidat tête de liste ;
+-Factures libellées au nom du candidat ou du candidat tête de liste ;
 
 et,
 
-- Etat liquidatif ;
+-Etat liquidatif ;
 
-et, le cas échéant, |
+et, le cas échéant,
 
-Ces frais ne peuvent concerner que des dépenses effectuées par des entreprises professionnelles. Les prestations bénévoles, associatives ou militantes n'ouvrent pas droit à remboursement. |
-
-- Subrogation du candidat au fournisseur ; |
-
-Un arrêté fixe, pour chaque élection, les tarifs maxima de remboursement de ces frais. |
+-Subrogation du candidat au fournisseur ;
 
 ou, lorsque le candidat a procédé à un recrutement de personnels,
 
-- Attestation du candidat ou de son mandataire ;
+-Attestation du candidat ou de son mandataire ;
 
-et |
+et
 
-|
+-Pièces justifiant le recrutement. |
 
-- Pièces justifiant le recrutement. |
+Ces frais ne peuvent concerner que des dépenses effectuées par des entreprises professionnelles. Les prestations bénévoles, associatives ou militantes n'ouvrent pas droit à remboursement.
 
-Par exemple, contrat de travail, bulletin de paye, déclaration préalable d'embauche. |
+Un arrêté fixe, pour chaque élection, les tarifs maxima de remboursement de ces frais.
+
+Par exemple, contrat de travail, bulletin de paye, déclaration préalable d'embauche.
+
+Cf. Annexe D-Mentions relatives à l'affacturage |
 
 2.3.2.1.2. Frais d'adressage, de mise sous pli et d'acheminement des documents électoraux |
 
@@ -3104,17 +3108,15 @@ Décret n° 2010-1690 du 30 décembre 2010 relatif aux procédures financières 
 
 4. COMMANDE PUBLIQUE |
 
-Conformément à l'article 3 du présent arrêté, pour toutes les pièces justificatives de cette rubrique, la transmission de copies est acceptée par le comptable public sous réserve qu'elles soient rattachées respectivement à l'engagement juridique (EJ) pour les pièces initiales du marché public ou du contrat ou à la demande de paiement (DP) pour les pièces d'exécution et de facturation. Le rattachement des pièces justificatives aux DP peut être opérée par le service facturier ou le centre de gestion de financière.
+Conformément à l'article 3 du présent arrêté, pour toutes les pièces justificatives de cette rubrique, la transmission de copies est acceptée par le comptable public sous réserve qu ‘ elles soient rattachées respectivement à l'engagement juridique (EJ) pour les pièces initiales du marché public ou du contrat ou à la demande de paiement (DP) pour les pièces d'exécution et de facturation. Le rattachement des pièces justificatives aux DP peut être opéré par le service facturier ou le centre de gestion de financière.
 
 Par exception, l'exemplaire unique ou le certificat de cessibilité afférent à une cession ou un nantissement ne peut faire l'objet de copies.
 
 Les contrats visés à la présente rubrique, passés sous forme dématérialisée et signés électroniquement par les parties, font l'objet, au titre du contrôle de la régularité externe de la pièce justificative, d'un contrôle de la présence des signatures des cocontractants.
 
-Les comptables publics étant tenus d'exercer le contrôle de la qualité de l'ordonnateur s'agissant uniquement des ordres de payer, ils n'ont pas à contrôler la compétence du signataire du contrat.
+Les comptables publics étant tenus d'exercer le contrôle de la qualité de l'ordonnateur s ‘ agissant uniquement des ordres de payer, ils n'ont pas à contrôler la compétence du signataire du contrat.
 
-Le contrôle de la présence des signatures des cocontractants et de leur lien avec le contrat peut être satisfait par la production du rapport de vérification de signature issu de la plate-forme PLACE ou du portail Chorus Pro. À défaut, et en cas d'impossibilité de satisfaire ce contrôle, la pièce justificative " contrat " est accompagnée d'un certificat administratif de l'ordonnateur attestant la présence des signatures et leur lien avec le contrat.
-
-Toute pièce référencée dans un document produit au comptable (contrat, marché, CCAP, facture…) ayant des incidences financières, doit lui être transmise. |
+Toute pièce référencée dans un document produit au comptable (contrat, marché, CCAP, facture …) ayant des incidences financières, doit lui être transmise. |
 
 4.1. MARCHÉS PUBLICS |
 
@@ -4234,7 +4236,9 @@ Dans le cas d'un arrêté, la pièce justificative dématérialisée peut être 
 
 Article 33 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
-La décision attributive de subvention vise les textes de référence et précise l'objet, le bénéficiaire, le montant, les modalités de versement et les conditions d'utilisation de la subvention.
+Compte tenu de l'obligation de contrôle par le comptable du caractère suffisamment précis et complet des pièces fournies, et afin de disposer de la base juridique de l'acte, la décision attributive de subvention vise les textes de référence et en précise l'objet.
+
+La décision précise également le bénéficiaire, le montant, les modalités de versement et les conditions d'utilisation de la subvention.
 
 Pour les subventions de l'Etat aux associations, voir la circulaire du Premier ministre du 29 septembre 2015 relative aux nouvelles relations entre les pouvoirs publics et les associations. |
 
@@ -4294,7 +4298,9 @@ et, le cas échéant,
 
 Décret n° 2018-514 du 25 juin 2018 relatif aux subventions de l'Etat pour des projets d'investissement.
 
-La décision attributive de subvention vise les textes de référence et précise le bénéficiaire, les caractéristiques du projet, la nature et le montant de la dépense subventionnable, le montant maximum de la subvention et ses modalités de calcul, les modalités de versement de la subvention ainsi que les conditions de son reversement. |
+Compte tenu de l'obligation de contrôle par le comptable du caractère suffisamment précis et complet des pièces fournies, et afin de disposer de la base juridique de l'acte, la décision attributive de subvention vise les textes de référence et en précise l'objet.
+
+La décision précise également le bénéficiaire, les caractéristiques du projet, la nature et le montant de la dépense subventionnable, le montant maximum de la subvention et ses modalités de calcul, les modalités de versement de la subvention ainsi que les conditions de son reversement. |
 
 5.2.2.1. Avance |
 
@@ -5684,141 +5690,41 @@ Exception : arrêt du Conseil d'Etat n° 303624 du 10 décembre 2008. Le pension
 
 |
 
-|
-
-9.6.1. Arrêt de la pension |
-
-- Certificat de rejet ou d'annulation établi par le service des retraites de l'Etat ou l'Office Nationale des Anciens Combattants (ONAC) ;
-
-ou
-
-- Acte ou bulletin de décès du pensionné, ou jugement déclaratif d'absence délivré par le greffe. |
-
-|
-
-9.6.2. Paiement des derniers arrérages en cas de décès |
-
-|
+Cf. Rubrique 1.2.2. relative aux héritiers.
 
 Article L. 91 du code des pensions civiles et militaires de retraite.
 
-Note de service 1D/13-24055 du 23 août 2013 sur les pièces justificatives de la qualité d'héritiers dans le cadre du paiement d'arrérages décès. |
+Note de service 1D/13-24055 du 23 août 2013 sur les pièces justificatives de la qualité d'héritiers dans le cadre du paiement d'arrérages décès.
 
-9.6.2.1. Au conjoint survivant |
+Pour le paiement des derniers arrérages en cas de décès, le conjoint survivant n'est pas prioritaire pour percevoir les arrérages en cas de décès. |
 
-- Livret de famille mis à jour. |
+9.6.1. Arrêt de la pension |
 
-Le conjoint survivant n'est pas prioritaire pour percevoir les arrérages en cas de décès. |
+-Certificat de rejet ou d'annulation établi par le service des retraites de l'Etat ou l'Office national des anciens combattants (ONAC) ;
 
-9.6.2.2. Aux héritiers ou créanciers |
+ou
 
-Article 8 de l'arrêté du 24 décembre 2012 portant application des articles 25, 26, 32, 34, 35, 39 et 43 du décret GBCP.
+-Acte ou bulletin de décès du pensionné, ou jugement déclaratif d'absence délivré par le greffe. |
 
-La preuve de la qualité d'héritiers peut être apportée par tout moyen (article 730 du code civil). Toutefois, les pièces ci-contre permettent d'apporter facilement cette preuve.
+À l'exception des radiations suite à réception du flux informatique INSEE ou SNGI. |
 
-Il est rappelé que nul texte législatif ou réglementaire n'impose aux maires la délivrance de tels certificats ; c'est seulement dans le souci de simplifier les règles de preuve et d'éviter aux héritiers la production d'actes authentiques plus onéreux que la production de tels actes a été admise.
+9.6.2. Prélèvement de frais d'obsèques sur les derniers arrérages de pension |
 
-L'acte de notoriété ne peut plus être délivré par le greffe du tribunal d'instance (loi n° 2007-1787 du 20 décembre 2007). L'acte doit être mentionné en marge de l'acte de décès. |
-
-9.6.2.2.1. Le montant des arrérages décès est inférieur ou égal à 2 500 € |
-
-- Relevé d'identité bancaire (au nom du porte-fort le cas échéant) ;
+-Demande de prélèvement sur les arrérages ;
 
 et
 
-- En cas de pluralité d'héritiers, attestation de porte-fort ;
-
-et
-
-- Livret de famille mis à jour ;
-
-ou
-
-- Certificat d'hérédité ;
-
-ou
-
-- Certificat de notoriété établi par le notaire ;
-
-ou
-
-- Certificat de propriété (établi par le notaire ou le tribunal d'instance). |
-
-|
-
-9.6.2.2.2. Le montant des arrérages décès est supérieur à 2 500 € et inférieur à 5 335,72 € |
-
-- Relevé d'identité bancaire (au nom du mandataire le cas échéant) ;
-
-et
-
-- En cas de pluralité d'héritiers, mandat sous-seing privé signé par l'ensemble des cohéritiers ;
-
-et
-
-- Certificat d'hérédité ;
-
-ou
-
-- Certificat de notoriété (établi par le notaire) ;
-
-ou
-
-- Certificat de propriété (établi par le notaire ou le tribunal d'instance). |
-
-|
-
-9.6.2.2.3. Le montant des arrérages décès est supérieur à 5 335,72 € |
-
-- Relevé d'identité bancaire (au nom du mandataire le cas échéant) ;
-
-et
-
-- En cas de pluralité d'héritiers, mandat sous-seing privé signé par l'ensemble des cohéritiers ;
-
-et
-
-- Certificat de notoriété (établi par le notaire) ;
-
-ou
-
-- Certificat de propriété (établi par le notaire ou le tribunal d'instance) ;
-
-ou
-
-- Intitulé d'inventaire (établi par le notaire) ;
-
-ou
-
-- Jugement d'envoi en possession. |
-
-|
-
-9.6.2.3. Notaires |
-
-|
-
-Se reporter au point 1.2. Paiement à des représentants qualifiés. |
-
-9.6.2.4. Prélèvement de frais d'obsèques sur les derniers arrérages de pension |
-
-- Demande de prélèvement sur les arrérages ;
-
-et
-
-- Factures acquittées. |
+-Factures acquittées. |
 
 Remboursement des frais funéraires plafonné à 3 048,98 €.
 
-Instruction n° 79-70-B3 du 28 mai 1979.
-
-Instruction n° 86-62-B3 du 16 mai 1986. |
+Instruction n° 79-70-B3 du 28 mai 1979. Instruction n° 86-62-B3 du 16 mai 1986. |
 
 10. DÉPENSES À L'ÉTRANGER |
 
-Dans un souci de simplification, les dispositions du décret n° 2001-899 du 1er octobre 2001, relatives à l'abrogation des certifications conformes des copies de documents délivrés par les autorités administratives aux usagers, sont étendues aux dépenses à l'étranger. Mais, lorsqu'un texte législatif ou réglementaire l'exige, la copie certifiée conforme doit être conservée.Pour les seules dépenses à l'étranger, une simplification est mise en œuvre s'agissant des autorisations qui étaient exigées des bénéficiaires par les comptables pour certaines catégories de dépenses. La présentation de la dépense au comptable dispense l'ordonnateur de produire l'autorisation qui pouvait être exigée à l'appui de celle-ci. Toutefois, en application de la réglementation ou en raison de contraintes de gestion, les services ordonnateurs continueront à établir de telles autorisations au profit de leurs agents.
+Lorsqu'un texte législatif ou réglementaire l'exige, la copie certifiée conforme est conservée.
 
-Pour les dépenses à l'étranger, la traduction littérale des pièces en français est un principe de base pour les contrats et les marchés (cf. circulaire du 19 mars 1996 concernant l'application de la loi n° 94-665 du 4 août 1994 relative à l'emploi de la langue française). Pour les autres pièces, une traduction sommaire est la règle, en particulier si les documents sont rédigés en anglais. Le principe d'une traduction systématique des pièces est exclu mais le comptable peut demander la traduction d'une pièce spécifique. |
+Pour les dépenses à l'étranger, la traduction des pièces en français est un principe de base pour les contrats et les marchés (cf. circulaire du 19 mars 1996 concernant l'application de la loi n° 94-665 du 4 août 1994 relative à l'emploi de la langue française). Pour les autres pièces, une traduction sommaire est la règle. Le principe d'une traduction systématique des pièces est exclu mais le comptable peut demander la traduction d'une pièce spécifique. |
 
 10.1. DÉPENSES DE PERSONNEL |
 
@@ -5830,57 +5736,59 @@ Pour les dépenses à l'étranger, la traduction littérale des pièces en fran�
 
 |
 
-|
+Textes locaux d'ordre général (textes législatifs ou réglementaires locaux, règlement intérieur, convention collective …). |
 
 10.1.1.1. Premier paiement |
 
-- Contrat de travail ;
+-Contrat de travail ;
 
-- Avenant éventuel ;
+-Avenant éventuel ;
 
-- Etat détaillé des salaires (+ acquit si paiement en numéraire) ;
+-Etat détaillé des salaires (et acquit libératoire si paiement en numéraire) ;
 
-- RIB ou document équivalent. |
+-RIB ou document équivalent. |
 
 |
 
 10.1.1.2. Payes ultérieures |
 
-- Etat détaillé des salaires (+ acquit si paiement en numéraire) ;
+-Etat détaillé des salaires (et acquit libératoire si paiement en numéraire) ;
 
-- Décision ou avenant ayant une incidence financière (promotion, primes, heures supplémentaires…). |
+-Décision ou avenant ayant une incidence financière (promotion, primes, heures supplémentaires …). |
 
 |
 
 10.1.1.3. Acomptes |
 
-- Décompte liquidatif signé par l'ordonnateur. |
+-Décompte liquidatif signé par l'ordonnateur ;
+
+-Acquit libératoire si paiement en numéraire. |
 
 |
 
 10.1.2. Avantages familiaux et sociaux |
 
-- Justificatifs de la situation familiale ouvrant droit aux avantages ;
+-Justificatifs de la situation familiale ouvrant droit aux avantages ;
 
-- Document retraçant l'adhésion volontaire à une caisse d'assurances sociales ;
+-Document retraçant l'adhésion volontaire à une caisse d'assurances sociales ;
 
-- Congés de maladie : décompte liquidatif des indemnités. |
+-Congés de maladie : décompte liquidatif des indemnités. |
 
 |
 
 10.1.3. Cessation d'emploi |
 
-- Etat liquidatif de l'indemnité de fin de fonction, décompte du pécule signé par l'ordonnateur. |
+-Etat liquidatif de l'indemnité de fin de fonction, décompte du pécule signé par l'ordonnateur. |
 
 |
 
-10.2. AUTRES DÉPENSES |
+10.2. DÉPENSES DE FONCTIONNEMENT SPÉCIFIQUES |
 
 |
 
 |
 
-10.2.1. Aide aux Français de passage en difficulté |
+10.2.1. Aide aux Français de passage en difficulté et dispositifs de provisions |
 
 |
 
@@ -5888,35 +5796,47 @@ Pour les dépenses à l'étranger, la traduction littérale des pièces en fran�
 
 10.2.1.1. Avances remboursables |
 
-- Imprimé 74 A ou 74 B (ou autorisation du MAE au-dessus d'un certain seuil). |
+-Imprimé 74 ;
+
+-ou autorisation du ministère chargé des affaires étrangères. |
 
 |
 
 10.2.1.2. Paiements sur provisions |
 
-- Décision du MAE ;
+-Autorisation du ministère chargé des affaires étrangères ;
 
-- Le cas échéant, factures. |
+ou
 
-|
+-Autorisation de la DSFiPE ;
+
+-Le cas échéant, factures. |
+
+Opérations de trésorerie visées au 8° de l'article 2 du décret n° 2016-49 du 27 janvier 2016 relatif aux missions des comptables publics et des régisseurs chargés d'exécuter les opérations de l'Etat à l'étranger. |
+
+10.2.1.3. Paiements sur provisions ONG |
+
+-Convention tripartite conclue entre le ministère chargé des affaires étrangères, l'organisation non gouvernementale et la DSFiPE. |
+
+Opérations de trésorerie visées au 9° de l'article 2 du décret n° 2016-49 du 27 janvier 2016 relatif aux missions des comptables publics et des régisseurs chargés d'exécuter les opérations de l'Etat à l'étranger. |
 
 10.2.2. Rapatriements |
 
-- Décision du MAE ;
+-Décision du ministère chargé des affaires étrangères ;
 
-- Factures. |
+-Factures. |
 
 |
 
 10.2.3. Protection des citoyens de l'Union européenne par les représentations diplomatiques et consulaires de France |
 
-- Autorisation des autorités de l'Etat membre dont le ressortissant a la nationalité ;
+-Autorisation des autorités de l'Etat membre dont le ressortissant a la nationalité ;
 
-- Pièces justifiant les dépenses engagées à son profit à envoyer au MAEE en vue du remboursement de l'avance effectuée par l'Etat membre. |
+-Pièces justifiant les dépenses engagées à son profit à envoyer au ministère chargé des affaires étrangères en vue du remboursement de l'avance effectuée par l'Etat membre. |
 
-Décret n° 2002-701 du 29 avril 2002. |
+Décret n° 2018-336 du 4 mai 2018 relatif à la protection consulaire des citoyens de l'Union européenne dans les pays tiers. |
 
-10.2.4. Escales des bâtiments de la Marine Nationale, des appareils des armées |
+10.2.4. Escales des bâtiments de la Marine nationale et des appareils des armées |
 
 |
 
@@ -5924,21 +5844,21 @@ Décret n° 2002-701 du 29 avril 2002. |
 
 10.2.4.1. Dépenses payables en espèces par le responsable de bord selon la procédure des avances consulaires |
 
-- Décision du ministère de la défense ;
+-Décision du ministère de la défense ;
 
-- Reçu provisoire établi lors du versement de l'avance ;
+-Reçu provisoire établi lors du versement de l'avance ;
 
-- Liste des dépenses engagées ou des fournitures livrées, payées par le bord ;
+-Liste des dépenses engagées ou des fournitures livrées, payées par le bord ;
 
-- Reçu définitif lors du reversement des fonds non employés. |
+-Reçu définitif lors du reversement des fonds non employés. |
 
 |
 
 10.2.4.2. Dépenses payables sur factures remises au poste |
 
-- Liste certifiée par le bord des dépenses engagées ou fournitures livrées et non payées ;
+-Liste certifiée par le bord des dépenses engagées ou fournitures livrées et non payées ;
 
-- Factures originales liquidées et certifiées par le commissaire de bord ou l'attaché de défense du poste ou par l'autorité diplomatique. |
+-Factures liquidées et certifiées par le commissaire de bord ou l'attaché de défense du poste ou par l'autorité diplomatique. |
 
 |
 
@@ -5950,317 +5870,297 @@ Décret n° 2000-1159 du 30 novembre 2000 pris pour l'application des dispositio
 
 10.2.5.1. Visite médicale de fin de séjour |
 
-- Note d'honoraires du médecin ;
+-Note d'honoraires du médecin ;
 
-- Décision d'affectation. |
+-Décision d'affectation et, le cas échéant, décision de prolongation. |
 
 |
 
-10.2.5.2. Frais de déplacement des volontaires (voyage aller/retour) |
+10.2.5.2. Frais de déplacement des volontaires |
 
-- Décision d'affectation ;
-
-ou
-
-- Ordre de mission de changement de résidence ;
-
-- Facture ;
+-Décision d'affectation ;
 
 ou
 
-- Titre de transport. |
+-Ordre de mission ;
+
+-Facture ;
+
+ou
+
+-Titre de transport. |
 
 |
 
 10.2.5.3. Prise en charge du transport de bagages |
 
-- Décision d'affectation ;
+-Décision d'affectation ;
 
 ou
 
-- Ordre de mission de changement de résidence ;
+-Ordre de mission ;
 
-- Factures. |
-
-|
-
-10.2.6. Baux immobiliers |
+-Factures. |
 
 |
 
+10.2.5.4. Déplacements au sein du pays d'affectation |
+
+-Ordre de mission ;
+
+-État de frais. |
+
+Arrêté du 3 juillet 2006 fixant les taux des indemnités de mission prévues à l'article 3 du décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'État. |
+
+10.3. COMMANDE PUBLIQUE |
+
 |
 
-10.2.6.1. Au premier paiement |
+|
 
-- Bail et sa traduction ;
+10.3.1. MARCHÉS PUBLICS PASSÉS SOUS FORME ÉCRITE |
 
-- Projet d'inscription ou référence à l'inventaire physique des propriétés de l'Etat tenu dans Chorus ;
+|
 
-- Fiche de présentation ou fiche descriptive ;
+Lorsque le marché est passé et exécuté en application de la circulaire du 3 mai 1988 relative à la passation des marchés publics à l'étranger, le code de la commande publique ne s'applique pas de plein droit. Les services de l'État à l'étranger sont incités à s'y référer expressément
 
-- Avis de la commission interministérielle si le montant annuel est supérieur au montant fixé par arrêté, charges non comprises, des immeubles pris à bail dans les pays étrangers. |
+Dans ce cas, il convient de se référer à la rubrique 4 de la présente nomenclature.
 
-Dans certains pays, les baux peuvent être conclus oralement. Produire le cas échéant une attestation de l'ambassadeur).
+Dans le cas contraire, en l'absence de référence au code de la commande publique, les pièces listées aux présentes rubriques 10.3. et 10.4. constituent les pièces nécessaires aux contrôles du comptable, en matière de justification de la dépense et de vérification de l'exactitude des calculs de liquidation. |
 
-Si l'avis de la commission n'est pas requis, la fiche de présentation peut être remplacée par une décision interne.
+10.3.1.1. Pièces générales |
 
-L'avis de la commission peut figurer sur la fiche de présentation. |
-
-10.2.6.2. Paiements ultérieurs |
-
-- Appel de fonds du propriétaire ;
+-Contrat et sa traduction ;
 
 ou
 
-- Fiche liquidative établie par le service. |
-
-|
-
-10.3. MARCHÉS PUBLICS : CONTRATS, MARCHÉS DE DROIT LOCAL, LETTRES DE COMMANDE, DEVIS |
-
-|
-
-Se référer à la rubrique 4 Commande publique : liste des pièces justificatives pour les dépenses en métropole.
-
-Rappel : Lorsque le marché est passé et exécuté en application de la circulaire du 3 mai 1988, le code des marchés publics ne s'applique pas de plein droit. Les services de l'Etat à l'étranger sont incités à s'y référer expressément. |
-
-10.3.1. Pièces générales |
-
-- Contrat et sa traduction ;
+-Lettre de commande ;
 
 ou
 
-- Lettre de commande ;
+-Devis ;
 
-ou
-
-- Devis ;
-
-- Toute pièce constitutive du contrat : cahier des charges, bordereau des prix ;
+-Toute pièce constitutive du contrat : cahier des charges, bordereau des prix ;
 
 et
 
-- Caution bancaire ou engagement de la caution solidaire s'il y a lieu. |
+-Caution bancaire ou engagement de la caution solidaire s ‘ il y a lieu. |
+
+Dans le système d'information Crocus, la certification du service fait est opérée électroniquement (cf. rubrique 10.3.2.6.). |
+
+10.3.1.2. Avance |
+
+-Etat liquidatif. |
 
 |
 
-10.3.2. Avance |
+10.3.1.3. Acompte |
 
-- Etat liquidatif. |
+-Facture, demande de versement de l'acompte ;
 
-|
+-Etat liquidatif de l'acompte ;
 
-10.3.3. Acompte |
+Le cas échéant :
 
-- Facture, demande de versement de l'acompte ;
+-Certification du service fait ;
 
-- Etat liquidatif de l'acompte ;
+-Etat des révisions de prix, actualisation et intérêts moratoires le cas échéant ;
 
-- Certification du service fait ;
+-Parutions locales des index de révision et/ ou d'actualisation des prix ;
 
-- Etat des révisions de prix, actualisation et intérêts moratoires le cas échéant ;
-
-- Parutions locales des index de révision et/ou d'actualisation des prix ;
-
-- Si monnaie de paiement différente de la monnaie de facturation, joindre les éléments de liquidation. |
+-Si monnaie de paiement différente de la monnaie de facturation, joindre les éléments de liquidation. |
 
 Si le versement d'un acompte est prévu au marché. |
 
-10.3.4. Paiement unique et/ou solde au titre des dépenses de fournitures |
+10.3.1.4. Paiement unique et/ ou solde au titre des dépenses de fournitures |
 
-- Facture ou mémoire indiquant le détail des fournitures, les prix unitaires, la date de livraison et la somme à payer ;
+-Facture ou mémoire indiquant le détail des fournitures, les prix unitaires, la date de livraison et la somme à payer ;
 
-- Certificat du service fait ;
+Le cas échéant :
 
-- Etat liquidatif des pénalités de retard, des intérêts moratoires, des révisions ou d'actualisation des prix, le cas échéant ;
+-Certificat du service fait ;
 
-- Attestation de l'ordonnateur qu'il s'agit d'un paiement pour solde si tel est le cas. |
+-Etat liquidatif des pénalités de retard, des intérêts moratoires, des révisions ou d'actualisation des prix ;
+
+-Attestation de l'ordonnateur s'il s'agit d'un paiement pour solde. |
 
 Si le versement d'un acompte est prévu au marché. |
 
-10.3.5. Paiement unique et/ou solde pour les autres dépenses |
+10.3.1.5. Paiement unique et/ ou solde pour les autres dépenses |
 
-- Décompte ou facture ;
+-Décompte ou facture ;
 
-- Certificat du service fait ;
+Le cas échéant :
 
-- Procès-verbal de réception pour les travaux ;
+-Certificat du service fait ;
 
-- Etat liquidatif des pénalités de retard, des intérêts moratoires, des révisions ou actualisation des prix. |
+-Si le marché le prévoit, procès-verbal de réception pour les travaux ;
+
+ou
+
+-Attestation de l ‘ ordonnateur qu'il s'agit d'un paiement pour solde si tel est le cas pour les marchés de prestations ;
+
+-Etat liquidatif des pénalités de retard, des intérêts moratoires, des révisions ou actualisation des prix. |
 
 |
 
-10.4. ACHATS SUR FACTURES ET MÉMOIRES |
+10.3.2. MARCHES PUBLICS NE FAISANT PAS L'OBJET D'UN ÉCRIT |
 
 |
 
+Le représentant du pouvoir adjudicateur est seul responsable de la computation des seuils prévus par le code de la commande publique, notamment au regard du caractère de similitude et d'homogénéité des prestations ou, s'agissant des travaux, de l'ensemble des dépenses concourant à une même opération. |
+
+10.3.2.1. Pièces générales |
+
+-Facture ou mémoire. |
+
+Si le versement d'un acompte est prévu au marché. |
+
+10.3.2.2. Pour le paiement des denrées périssables |
+
+-Toute pièce ayant une incidence financière. |
+
 |
 
-10.4.1. Pièces générales |
+10.3.2.3. Mentions obligatoires d'identification du créancier |
 
-- Facture ou mémoire. |
+-Nom ou raison sociale du créancier ;
+
+Le cas échéant :
+
+-Référence d'inscription au répertoire du commerce ou au répertoire des métiers ;
+
+-N° SIREN ou SIRET. |
+
+Dans certains pays, certaines mentions ne peuvent être exigées. |
+
+10.3.2.4. Domiciliation |
+
+-Mention de la domiciliation du fournisseur dans le corps de la facture claire et lisible ;
+
+-Si elle n ‘ y figure pas, production d'un RIB du fournisseur ou tout document en tenant lieu. |
+
+|
+
+10.3.2.5. Éléments de liquidation |
+
+-Nature des fournitures ou services ;
+
+-Prix unitaire et quantité, le cas échéant ;
+
+-Mention d'un avoir, le cas échéant ;
+
+-Mention d'une variation de prix, le cas échéant : dans ce cas, nécessité de produire l'engagement contractuel correspondant ;
+
+-Mention de frais de facturation ;
+
+-La date de livraison de fournitures ;
+
+ou
+
+-en l'absence de cette date sur la facture, un bon de livraison. |
 
 Aucune présentation particulière n'est requise.
 
 Décret n° 80-393 du 2 juin 1980 portant à 230 € la limite jusqu'à laquelle les fournisseurs sont dispensés de produire des mémoires ou des factures. |
 
-10.4.2. Pour le paiement des denrées périssables |
+10.3.2.6. Certification du service fait |
 
-- Bon de livraison. |
-
-|
-
-10.4.3. Mentions obligatoires d'identification |
-
-- Nom ou raison sociale du créancier ;
-
-- Référence d'inscription au répertoire du commerce ou au répertoire des métiers ;
-
-- N° SIREN ou SIRET, le cas échéant. |
-
-Dans certains pays, certaines mentions ne peuvent être exigées. |
-
-10.4.4. Domiciliation |
-
-- Mention de la domiciliation du fournisseur dans le corps de la facture claire et lisible ;
-
-- Si elle n'y figure pas, production d'un RIB du fournisseur ou tout document en tenant lieu. |
-
-|
-
-10.4.5. Éléments de liquidation |
-
-- Nature des fournitures ou services ; |
-
-|
-
-- Prix unitaire et quantité, le cas échéant ;
-
-- Mention d'un avoir, le cas échéant ; |
-
-Il s'agit des cas d'erreur matérielle, des cas de refus d'une partie d'une prestation. |
-
-- Mention d'une variation de prix, le cas échéant ; dans ce cas, nécessité de produire l'engagement contractuel correspondant ;
-
-- Mention de frais de facturation ;
-
-- La date de livraison de fournitures ;
+-Mention du service fait avec signature de l'ordonnateur ou de son représentant habilité à cet effet ;
 
 ou
 
-- en l'absence de cette date sur la facture, un bon de livraison ;
+-Certificat de service fait établi par l'ordonnateur ou son représentant. Dans ce cas, le certificat devra comporter les références de la facture correspondante. |
 
-- Montant hors taxe, montant de la TVA, montant toutes taxes comprises ;
+Dans le système d'information Crocus, la validation d'un acte de gestion par un acteur " ordonnateur secondaire (OS)/ délégataire de l'ordonnateur secondaire (DELOS) " authentifié et dûment habilité emporte signature de celui-ci et certification du service fait.
 
-- Arrêté par le créancier de la facture soit en toutes lettres, soit en chiffres sauf quand elle est établie au moyen d'un procédé mécanographique ;
+Dans le système d'information Chorus, les règles de droit commun de dématérialisation relatives aux modalités de certification du service fait s'appliquent. |
 
-- Arrêté en lettres ou en chiffres de l'ordonnateur si celui-ci a procédé à des rectifications d'erreur matérielle sur la facture, le cas échéant. |
-
-Il s'agit des cas de paiement de denrées périssables. |
-
-10.4.6. Certification du service fait |
-
-- Mention du service fait avec signature de l'ordonnateur ou de son représentant habilité à cet effet ;
-
-ou éventuellement,
-
-- Certificat de service fait établi par l'ordonnateur ou son représentant ;
-
-Dans ce cas, le certificat devra comporter :
-
-- Les références de la facture correspondante. |
-
-Dans COREGE :
-
-Depuis 2011, la signature de l'ordonnateur sur le bordereau récapitulatif de dépenses (validation de l'ensemble des PJ de la DP collective), aux fins de certification de service fait, est admise pour les dépenses saisies dans COREGE.
-
-Cette pièce peut faire l'objet d'une dématérialisation, dans le cadre d'un protocole validé par la DGFiP.
-
-Dans CHORUS :
-
-Les règles de droit commun de dématérialisation relatives aux modalités de certification du service fait s'appliquent. |
-
-10.5. ACQUISITIONS IMMOBILIÈRES |
+10.4. OPÉRATIONS IMMOBILIÈRES |
 
 |
 
 |
 
-10.5.1. Pièces à produire par l'administration centrale |
-
-- Décision d'acquisition du ministère concerné ;
-
-- Avis de la commission ministérielle s'il y a lieu. |
-
-Articles D. 36 et A. 122 du code du domaine de l'Etat.
-
-Décret n° 2011-1612 du 22 novembre 2011 relatif au code général des propriétés des personnes publiques et, plus particulièrement les articles R. 1221-1 et suivants du titre II " Biens situés à l'étranger " du livre II " Procédures d'acquisition ". |
-
-10.5.2. Pièces à produire par le poste |
-
-- Expédition certifiée conforme de l'acte d'achat/vente approuvé des deux parties ;
-
-- Preuve que le bien acquis n'est pas grevé d'hypothèques, de charges ou de droits réels susceptibles de mettre en cause la responsabilité de l'Etat français, certificat (notarié ou établi par le représentant des domaines) de non hypothèque ou de levée d'hypothèque en fonction de la réglementation locale ;
-
-- Fiche de renseignements modèle A ;
-
-- Projet d'inscription à l'inventaire physique des propriétés de l'Etat tenu dans Chorus ;
-
-- Tout document justifiant du règlement entre les mains du véritable créancier indiqué dans l'acte de vente comme le vendeur ou à un tiers habilité à le représenter, le cas échéant. |
-
-|
-
-10.6. PAIEMENTS À DES TIERS |
-
-S'inspirer autant que possible de la nomenclature applicable en métropole en tenant compte de la réglementation locale justifiant le droit des tiers. |
-
-|
-
-10.7. INTERVENTIONS |
+10.4.1. Acquisitions immobilières |
 
 |
 
 |
 
-10.7.1. Premier paiement ou paiement unique |
+10.4.1.1. Pièces à produire par l'administration centrale |
 
-- Décision attributive de subvention (décision, arrêté ou convention) précisant l'objet, le montant et les modalités du règlement. |
+-Décision d'acquisition du ministère concerné. |
+
+Articles R. 1221-1et R. 1221-2 du code général des propriétés des personnes publiques. |
+
+10.4.1.2. Pièces à produire par le poste |
+
+-Expédition certifiée conforme de l'acte d'achat/ vente approuvé des deux parties ;
+
+-Preuve que le bien acquis n'est pas grevé d'hypothèques, de charges ou de droits réels susceptibles de mettre en cause la responsabilité de l'Etat français, certificat (notarié ou établi par le représentant des domaines) de non hypothèque ou de levée d'hypothèque en fonction de la réglementation locale ;
+
+-Projet d'inscription à l'inventaire physique des propriétés de l'Etat tenu dans Chorus ;
+
+-Tout document justifiant du règlement entre les mains du véritable créancier indiqué dans l'acte de vente comme le vendeur ou à un tiers habilité à le représenter, le cas échéant (séquestre, avocat …). |
 
 |
 
-10.7.2. Paiements ultérieurs |
-
-- Etat liquidatif établi par l'ordonnateur certifiant que les conditions d'octroi prévues dans la convention, l'arrêté ou la décision sont remplies. |
+10.4.2. Titres d'occupation |
 
 |
 
-Cas particulier des subventions en nature |
+|
 
-- Attestation du bénéficiaire de la réalisation de la prestation ;
+10.4.2.1. Au premier paiement |
+
+-Titre d'occupation et sa traduction ou, dans le cas d'un titre oral, attestation de l'ambassadeur ;
+
+-Projet d'inscription ou référence à l'inventaire physique des propriétés de l'État tenu dans Chorus ;
 
 ou
 
-- Reçu du bien. |
+fiche de présentation ou fiche descriptive. |
 
 |
 
-10.7.3. Paiement direct et appui logistique |
+10.4.2.2. Paiements ultérieurs |
 
-- Décision de l'ordonnateur rattachant la dépense à un projet ;
+-Appel de fonds du propriétaire ;
 
 ou
 
-- Accord de coopération ;
-
-- Facture du fournisseur ou marché s'il y a lieu. |
+-Fiche liquidative établie par le service. |
 
 |
 
-10.7.4. Assistance technique |
+10.5. DÉPENSES D'INTERVENTION |
 
-- Décision de l'ordonnateur secondaire fixant le barème d'indemnisation relatif aux missions des assistants techniques dans le cadre de leurs fonctions. |
+|
 
-Lettre DGCP n° 23768 du 26 avril 2001 adressée au MAEE. |
+|
+
+10.5.1. Paiement direct et appui logistique |
+
+-Décision ou convention de l'ordonnateur rattachant la dépense à un projet ;
+
+ou
+
+-Accord de coopération ;
+
+-Facture du fournisseur ou marché s'il y a lieu. |
+
+-Dépenses dans le cadre du fonds de solidarité prioritaire (FSP), qui relèvent de l'aide au développement ;
+
+-Dépenses au profit des EAF (cf. TD n° 2013-006989 du 12 avril 2013) ;
+
+-Dépenses au profit de la coopération militaire (cf. note n° 1104/ DCMD/ MS/ BJF du 6 mai 2008). |
+
+10.5.2. Assistance technique |
+
+-Décision de l'ordonnateur secondaire fixant le barème d'indemnisation relatif aux missions des assistants techniques dans le cadre de leurs fonctions. |
+
+Lettre DGCP n° 23768 du 26 avril 2001 adressée au ministère chargé des affaires étrangères. |
 
 ANNEXE A
 
@@ -6461,3 +6361,41 @@ Un contrat de concession est nécessairement écrit et contient les mentions sui
 (1) Articles L. 3114-7, L. 3114-8, R. 3114-1, R. 3114-2 et D. 3114-3 du code de la commande publique.
 
 (2) Articles L. 3114-4 et L. 3114-5 du code de la commande publique. |
+
+ANNEXE H
+
+VALIDITÉ DES SIGNATURES
+
+Au titre de l'examen de la régularité externe des pièces justificatives, les comptables publics doivent contrôler la présence des signatures manuscrites ou électroniques, lorsque celles-ci sont requises. En revanche, ils n'ont pas à contrôler la compétence du signataire de l'acte qui constitue le fondement juridique de la dépense. Le contrôle de la qualité de l'ordonnateur ne porte que sur les ordres de payer.
+
+1. Les signatures manuscrites
+
+Les comptables contrôlent la présence des signatures sur les actes qui constituent le fondement juridique de la dépense (décisions, contrats …) ainsi que sur les actes dont la valeur et la qualité ne sont reconnues que par la présence des signatures (décompte global et définitif, états liquidatifs …).
+
+2. Les signatures électroniques
+
+Les comptables ne vérifient pas la validité des certificats de signature électroniques.
+
+a) La signature électronique " simple " (niveau 1)
+
+La signature électronique " simple " est recevable et a force probante identique à celle d'une signature manuscrite, à condition que :
+
+-le signataire soit identifié ;
+
+-l'écrit soit établi et conservé dans des conditions de nature à en garantir l'intégrité ;
+
+-le signataire soit lié de façon indissociable à la signature.
+
+b) La signature électronique " avancée " (niveau 2)
+
+La signature électronique " avancée " est recevable à condition :
+
+-d'être liée au signataire de manière univoque ;
+
+-de permettre d'identifier le signataire ;
+
+-d'avoir été créée à l'aide de données de création de signature électronique que le signataire peut, avec un niveau de confiance élevé, utiliser sous son contrôle exclusif et être liée aux données associées à cette signature, de telle sorte que toute modification ultérieure des données soit détectable.
+
+c) La signature électronique " qualifiée " (niveau 3)
+
+L'effet juridique d'une signature électronique " qualifiée " est équivalent à celui d'une signature manuscrite. Au même titre que la signature électronique " simple " ou " avancée ", la signature " qualifiée " est recevable. La signature " qualifiée " est associée à un certificat qualifié qui apporte les garanties nécessaires, tant sur l'authentification du signataire que sur le respect des normes de stockage et d'intégrité de l'acte. |
