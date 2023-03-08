@@ -1,0 +1,33 @@
+# Réponse à la question n° 215
+
+- Question : [215](215.md) — Question n° 215 — Zéro artificialisation nette (ZAN) dans les territoires de la montagne
+
+## Réponse
+
+*JO du 2023-03-08, page 2198*
+
+ZÉRO ARTIFICIALISATION NETTE DANS LES TERRITOIRES DE LA MONTAGNE
+
+Mme la présidente. La parole est à M. Vincent Rolland, pour exposer sa question, n° 215, relative à l'objectif zéro artificialisation nette dans les territoires de montagne.
+
+M. Vincent Rolland. Je souhaite appeler l'attention du Gouvernement sur le dispositif Zéro artificialisation nette (ZAN) et sur ses conséquences dans les territoires de montagne. Issu de la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets – loi « climat et résilience » –, l'objectif de zéro artificialisation nette d'ici à 2050 suscite des craintes légitimes de la part des collectivités territoriales et des Français. Il restreint en effet le développement foncier des entreprises et la construction de nouveaux logements, ce qui affecte directement la vie économique des territoires et le quotidien des Français.
+
+L'application uniforme d'une telle obligation accentuerait nécessairement la pression immobilière dans les zones déjà sous tension, notamment en matière de logement. C'est le cas des territoires de montagne, qui présentent des particularités géographiques notables : la géomorphologie y est telle que les terrains constructibles sont limités. Alors que les gens du pays sont déjà confrontés à une rareté du foncier, l'application indifférenciée de l'obligation de zéro artificialisation nette reviendrait à pénaliser les emplois et le pouvoir d'achat, davantage encore qu'ailleurs en métropole. L'absence de prise en considération des particularités locales est d'autant plus regrettable et l'incompréhension semble d'autant plus grande qu'au sein même des zones de montagne, les communes qui étaient déjà vertueuses sur le plan foncier avant l'application de la loi verront leur développement beaucoup plus limité que les autres.
+
+Sans remettre en cause la démarche de sobriété foncière dont le pays a besoin, les communes doivent pouvoir jouer un rôle dans la maîtrise du foncier, et non se voir imposer des règles inadaptées – comme ce pourrait être le cas dans les vallées du Beaufortain, du Val d'Arly et de la Tarentaise, et dans le bassin d'Albertville-Ugine. Les habitants des zones de montagne risquent, sinon, de faire face à une hausse considérable du coût de la vie locale, déjà élevé. La réduction de l'offre foncière entraînera une hausse significative des prix de l'immobilier. Ce serait envoyer un signal inquiétant aux familles du pays, qui devront revoir leurs projets d'installation. Quelles réponses comptez-vous apporter à ces questions parfaitement légitimes, monsieur le ministre délégué ? Quels aménagements envisagez-vous ?
+
+Mme la présidente. La parole est à M. le ministre délégué chargé des transports.
+
+M. Clément Beaune, ministre délégué chargé des transports. Vous l'avez rappelé : la loi « climat et résilience » a fixé un objectif de zéro artificialisation nette des sols en 2050, avec une étape prévoyant la réduction de moitié de la consommation d'espaces naturels, agricoles et forestiers dans les dix prochaines années. Il s'agit d'une exigence extrêmement forte, parfois difficile. L'enjeu est d'inciter les territoires, dans leur diversité, à développer de nouvelles formes d'aménagement conciliant la qualité et la sobriété foncière.
+
+La trajectoire de réduction progressive de l'artificialisation des sols doit être conciliée avec l'objectif de soutien de la construction durable, en particulier dans les territoires où l'offre de logements et de surfaces économiques reste insuffisante ou tendue au regard de la demande. J'insiste sur le fait que le ZAN ne signifie pas l'arrêt de toute construction – Mme la Première ministre et M. le ministre de la transition écologique et de la cohésion des territoires ont d'ailleurs eu l'occasion d'annoncer des flexibilités pour de grands projets d'infrastructure. Cependant, l'un des objectifs de la loi est de privilégier la mobilisation du foncier déjà artificialisé – notamment des friches ou des logements vacants, quand ils sont disponibles –, pour garantir la préservation des sols et la qualité du cadre de vie des habitants dans tous les territoires.
+
+Dans le cas spécifique des territoires de montagne, la loi du 9 janvier 1985 relative au développement et à la protection de la montagne – loi « montagne » – a rendu inconstructibles certaines zones, en vertu du principe d'urbanisation en continuité. Selon ce principe – qui est, lui aussi, exigeant –, il n'est possible de construire que dans les zones déjà urbanisées ou dans leur continuité. Parallèlement, le législateur a pris soin de laisser aux collectivités montagnardes la possibilité de s'exonérer de cette règle de principe, en réalisant une étude de discontinuité dans leurs documents d'urbanisme, afin de tenir compte au mieux des spécificités locales.
+
+S'agissant du ZAN, la territorialisation de la trajectoire de réduction du rythme d'artificialisation des sols doit prendre en considération la diversité et la spécificité des territoires, notamment en montagne. M. le ministre de la transition écologique et de la cohésion des territoires et Mme la ministre déléguée chargée des collectivités territoriales et de la ruralité, à mes côtés, sont à votre disposition pour mieux analyser et prendre en compte certaines spécificités, notamment pour les communes et les territoires de montagne.
+
+J'en viens à l'inquiétude que vous exprimez s'agissant de la spéculation foncière et de la maîtrise du foncier. De nombreux outils permettent de réguler le marché immobilier, tels que le droit de préemption urbain, la constitution de réserves foncières ou la création de zones d'aménagement différé en vue d'un aménagement public par une collectivité locale. Nous devons mieux intégrer les spécificités territoriales dans l'application du ZAN. Nous y sommes engagés, et nous nous tenons à votre disposition pour approfondir la réflexion.
+
+Mme la présidente. La parole est à M. Vincent Rolland.
+
+M. Vincent Rolland. Merci pour votre réponse, monsieur le ministre délégué. Je suis presque rassuré – si j'ose dire – par vos propos. La rareté du foncier dans les territoires montagnards doit être intégrée dans les calculs des prochains aménagements liés à l'objectif de zéro artificialisation nette. La mission d'information que je mène actuellement au sein de la commission des affaires économiques sur le logement démontre que la rareté du foncier induit une cherté de l’immobilier : les familles ont alors du mal à se loger et les entreprises à s'installer.
