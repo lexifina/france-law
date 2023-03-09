@@ -1,28 +1,28 @@
 # Article Annexe
 
-LISTE DES DIRECTIONS ZONALES DE POLICE AUX FRONTIÈRES (DZPAF) ET DES DIRECTIONS DÉPARTEMENTALES DE POLICE AUX FRONTIÈRES (DDPAF) AUPRÈS DESQUELLES EST INSTITUÉE UNE RÉGIE D'AVANCES ET DE RECETTES
+Liste des directions zonales de la police aux frontières (DZPAF), de la direction centrale (DCPAF), de la direction des aérodromes parisiens, des directions départementales (DDPAF) et interdépartementales de la police aux frontières (DIDPAF) auprès desquelles est instituée une régie d'avances et de recettes relevant de la police nationale du ministère de l'intérieur et des outre-mer.
 
 STRUCTURES |
 
 ABRÉVIATION |
 
-Montant de l'avance
+MONTANT DE L'AVANCE
 
 (en euros) |
 
-Montant maximum
+MONTANT MAXIMUM
 
 du fonds de caisse
 
 (en euros) |
 
-Montant maximum
+MONTANT MAXIMUM
 
 de l'encaisse
 
 (en euros) |
 
-Direction centrale de Police aux Frontières |
+Direction centrale de la Police aux Frontières |
 
 DCPAF |
 
@@ -32,9 +32,13 @@ DCPAF |
 
 1 000 |
 
-Direction départementale de l'aéroport de Roissy Charles de Gaulle |
+Direction des aérodromes parisiens |
 
-DDPAF ROISSY-CDG |
+|
+
+Direction de la police aux frontières de l'aéroport de Roissy Charles de Gaulle et du Bourget |
+
+DPAF ROISSY-CDG |
 
 50 000 |
 
@@ -42,9 +46,9 @@ DDPAF ROISSY-CDG |
 
 60 000 |
 
-Direction départementale de l'aéroport d'Orly |
+Direction de la police aux frontières de l'aéroport d'Orly |
 
-DDPAF ORLY |
+DPAF ORLY |
 
 1 000 |
 
@@ -52,7 +56,7 @@ DDPAF ORLY |
 
 25 000 |
 
-Direction zonale de Police aux Frontières Nord |
+Direction zonale de la Police aux Frontières Nord |
 
 DZPAF NORD |
 
@@ -62,7 +66,7 @@ DZPAF NORD |
 
 60 000 |
 
-Direction zonale de Police aux Frontières Est |
+Direction zonale de la Police aux Frontières Est |
 
 DZPAF EST |
 
@@ -72,7 +76,7 @@ DZPAF EST |
 
 1 000 |
 
-Direction zonale de Police aux Frontières Sud-Est |
+Direction zonale de la Police aux Frontières Sud-Est |
 
 DZPAF SUD-EST |
 
@@ -82,7 +86,7 @@ DZPAF SUD-EST |
 
 2 000 |
 
-Direction interdépartementale de Police aux Frontières de Marseille |
+Direction interdépartementale de la Police aux Frontières de Marseille |
 
 DIDPAF 13 |
 
@@ -92,7 +96,7 @@ DIDPAF 13 |
 
 60 000 |
 
-Direction interdépartementale de Police aux Frontières de Toulouse |
+Direction interdépartementale de la Police aux Frontières de Toulouse |
 
 DIDPAF 31 |
 
@@ -102,7 +106,7 @@ DIDPAF 31 |
 
 1 000 |
 
-Direction zonale de Police aux Frontières Sud-Ouest |
+Direction zonale de la Police aux Frontières Sud-Ouest |
 
 DZPAF SUD-OUEST |
 
@@ -112,7 +116,7 @@ DZPAF SUD-OUEST |
 
 1 000 |
 
-Direction zonale de Police aux Frontières Ouest |
+Direction zonale de la Police aux Frontières Ouest |
 
 DZPAF OUEST |
 
