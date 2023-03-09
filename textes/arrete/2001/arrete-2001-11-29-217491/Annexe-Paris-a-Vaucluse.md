@@ -904,7 +904,9 @@ Direction départementale des territoires de Vaucluse (6)
 
 Fonctions exercées |
 
-Niveau de qualification
+Niveau
+
+de qualification
 
 de l'emploi |
 
@@ -918,23 +920,23 @@ de points (IM)
 
 par emploi |
 
-Chef de l'unité connaissance politique de la ville et du foncier (COVIF)-service ville logement habitat |
+Chef de l'unité Logement Social-Unité Logement Social-Pôle habitat et territoire de solidarité-Service Politiques d'Aménagement et d'Habitat |
 
 A |
 
 1 |
 
-23 |
+20 |
 
-Chef de l'unité logement social-service ville logement habitat |
+Chef de l'unité territoires Ouest-Unité territoires Ouest-Service Développement de la Cohésion des Territoires |
 
 A |
 
 1 |
 
-17 |
+20 |
 
-Adjoint au chef d'unité, renouvellement urbain et habitat (RUHA), responsable financier et contrôle interne-service ville logement habitat |
+Chef de l'unité habitat privé-Unité habitat privé-Service Développement de la Cohésion des Territoires |
 
 B |
 
@@ -942,7 +944,7 @@ B |
 
 15 |
 
-Assistant des unités COVIF et RUHA-service ville logement habitat |
+Assistant pôle stratégie territoriale-Unité soutien et performance-Service Politiques d'Aménagement et d'Habitat |
 
 C |
 
@@ -962,4 +964,4 @@ NOTA :
 
 (5) Arrêté du 27 avril 2022, art. 1 (NOR : TERK2213005A) : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2021 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'hébergement, et du logement.
 
-(6) Arrêté du 12 décembre 2019, art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2019 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Vaucluse.
+(6) Arrêté du 14 février 2023 (NOR : TREK2304634A) : les modifications insérées par le présent arrêté sont à effet du 1er février 2022 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Vaucluse.
