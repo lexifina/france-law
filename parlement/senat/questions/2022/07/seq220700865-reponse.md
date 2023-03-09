@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700865
+
+- Question : [SEQ220700865](seq220700865.md) — Application du décret n°2017-890 du 6 mai 2017 concernant les tables annuelles des actes de l'état civil
+
+## Réponse
+
+*Justice, JO du 2023-03-09, page 1737*
+
+Conformément à l'article 17 du décret n° 2017-890 du 6 mai 2017 modifié relatif à l'état civil, il est établi, tous les ans, dans chaque commune une table alphabétique des actes de l'état civil. Les tables annuelles sont dressées par les officiers de l'état civil dans le mois qui suit la clôture du registre de l'année précédente. Elles sont établies soit à partir de fiches rédigées d'après les actes de l'état civil et classées par ordre alphabétique, soit à partir des données de l'état civil enregistrées dans le traitement automatisé. Si le décret n° 51-284 du 3 mars 1951 relatif aux tables annuelles et décennales de l'état civil, aujourd'hui abrogé, prévoyait que la table annuelle était intégrée au registre concerné, le décret n° 2017-890 du 6 mai 2017 relatif à l'état civil prévoit, désormais, que la table annuelle est établie « sur un ou plusieurs registres distincts » (article 18). Cette règle a été retenue pour permettre la consultation des tables annuelles dès leur établissement. Conserver les tables annuelles en fin de registre ne permettait pas leur consultation puisque les registres de naissance et de mariage ne sont communicables qu'à l'issue d'un délai de soixante-quinze ans. Lorsque les tables annuelles sont établies dans un registre unique, elles recensent séparément, les unes à la suite des autres : 1° Les naissances, les reconnaissances, les adoptions ; 2° Les mariages ; 3° Les décès et les actes d'enfant sans vie. Lorsque les registres de l'état civil sont tenus en double exemplaire, les tables annuelles le sont également.
