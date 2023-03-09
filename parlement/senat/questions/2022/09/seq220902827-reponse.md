@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902827
+
+- Question : [SEQ220902827](seq220902827.md) — Coûts des débours pour accueillir des élèves qui partent en dérogation scolaire dans une autre commune
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2023-03-09, page 1730*
+
+Lorsque les personnes responsables d'un enfant soumis à l'obligation scolaire souhaitent le faire inscrire dans une école publique en dehors de leur commune de résidence, cette dernière doit participer aux dépenses de fonctionnement de la commune d'accueil lorsque la demande d'inscription est justifiée par les obligations professionnelles des parents, des raisons médicales ou un regroupement de fratrie dans les conditions prévues par l'article R. 212-21 du code de l'éducation, d'un enseignement de langue régionale ou en l'absence de capacité d'accueil suffisante dans la ou les écoles de leur commune de résidence. À défaut d'accord entre les communes intéressées sur la répartition des dépenses, la contribution de chaque commune est fixée par le représentant de l'État dans le département après avis du conseil départemental de l'éducation nationale. La commune de résidence doit également participer financièrement aux dépenses de la commune d'accueil si elle émet un avis favorable à l'inscription alors qu'elle dispose des capacités d'accueil. Ainsi, l'inscription d'un enfant dans une école d'une commune qui n'est pas celle de sa résidence pour des motifs autres que ceux prévus par la loi, notamment des motifs de convenance personnelle, ne donne pas lieu à une participation financière obligatoire à la scolarisation de l'enfant de la commune de résidence. La commune d'accueil peut donc refuser la demande d'inscription. En tout état de cause et compte tenu du principe de gratuité de l'École publique, une telle inscription ne peut donner lieu à une participation financière des familles.
