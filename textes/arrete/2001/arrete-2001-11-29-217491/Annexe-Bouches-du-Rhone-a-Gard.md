@@ -832,79 +832,53 @@ B |
 
 20 |
 
-Direction départementale de l'équipement de la Drôme
+Direction départementale de l'équipement de la Drôme (11)
 
-FONCTIONS EXERCEES
+Fonctions exercées |
 
-|
+Niveau de
 
-NIVEAU
+qualification
 
-de qualification
+de l'emploi |
 
-de l'emploi
+Nombre
 
-|
+d'emplois |
 
-NOMBRE
+Nombre
 
-d'emplois
+de points (IM)
 
-|
+par emploi |
 
-NOMBRE DE POINTS (IM)
+Chef du service Logement, Ville et Rénovation Urbaine |
 
-par emploi
+A |
 
-|
+1 |
 
-Responsable du service politique de la ville
+40 |
 
-|
+Adjoint au chef du service Logement, Ville et Rénovation Urbaine-
 
-A
+Responsable de Pôle Politique de la Ville et Rénovation Urbaine |
 
-|
+A |
 
-1
+1 |
 
-|
+20 |
 
-40 points
+Chargé territorial rénovation urbaine et politique de la ville-Pôle Politique de la Ville
 
-|
+et Rénovation Urbaine-Service Logement, Ville et Rénovation Urbaine |
 
-Chef de projet politique de la ville
+B |
 
-|
+1 |
 
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Gestion du suivi de la politique de la ville
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
+30 |
 
 Direction départementale de l'équipement de l'Eure
 
@@ -1183,3 +1157,5 @@ NOTA :
 (9) Conformément à l'article 1er de l'arrêté du 22 février 2019, les dispositions de l'annexe dudit arrêté pour ce qui concerne la direction départementale des territoires et de la mer des Bouches-du-Rhône prennent effet au 1er janvier 2017.
 
 (10) En application de l'article 1 de l'arrêté du 10 octobre 2022, la présente annexe est remplacée à effet du 1er mars 2021, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la mer des Bouches-du-Rhône.
+
+(11) En application de l'article 1 de l'arrêté du 14 février 2023 (NOR : TREK2304656A), la présente annexe est remplacée à effet du 1er février 2022, pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement de la Drôme.
