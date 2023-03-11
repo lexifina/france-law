@@ -8,7 +8,7 @@ b) A titre individuel et facultatif aux contrats souscrits dans le cadre de rég
 
 c) Au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la fonction publique ainsi qu'aux autres régimes de retraite complémentaire, auxquels les dispositions du 1° bis de l'article 83, en vigueur jusqu'au 1er janvier 2004, avaient été étendues avant cette date, constitués au profit des fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics soit auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises régies par le code des assurances, ou institués par les organismes mentionnés au VII de l'article 5 de l'ordonnance n° 2001-350 du 19 avril 2001 relative au code de la mutualité et transposant les directives 92/49/ CEE et 92/96/ CEE du Conseil, des 18 juin et 10 novembre 1992, pour leurs opérations collectives visées à l'article L. 222-1 du code de la mutualité ;
 
-d) Sauf application de l'option prévue au deuxième alinéa de l'article L. 224-20 du code monétaire et financier, aux plans d'épargne retraite mentionnés à l'article L. 224-1 du même code, qui correspondent à des versements mentionnés au 1° de l'article L. 224-2 dudit code et qui ne sont pas déduits en application des articles 154 bis ou 154 bis-0 A.
+d) Sauf application de l'option prévue au deuxième alinéa de l'article L. 224-20 du code monétaire et financier, aux plans d'épargne retraite mentionnés à l'article L. 224-1 du même code ou aux sous-comptes français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 dudit code, qui correspondent à des versements mentionnés au 1° de l'article L. 224-2 dudit code et qui ne sont pas déduits en application des articles 154 bis ou 154 bis-0 A.
 
 2. – a) Les cotisations ou les primes mentionnées au 1 sont déductibles pour chaque membre du foyer fiscal dans une limite annuelle égale à la différence constatée au titre de l'année précédente ou, pour les personnes qui n'ont pas été fiscalement domiciliées en France au cours des trois années civiles précédant celle au cours de laquelle elles s'y domicilient, au titre de cette dernière année, entre :
 
@@ -31,11 +31,3 @@ II. – Les revenus d'activité professionnelle mentionnés au 1° du a du 2 du 
 2. – Des bénéfices industriels et commerciaux définis aux articles 34 et 35, des bénéfices agricoles mentionnés à l'article 63 et des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92, pour leur montant imposable.
 
 Les revenus exonérés en application des articles 44 sexies à 44 nonies, 44 terdecies à 44 septdecies ou au 9 de l'article 93 ainsi que les abattements prévus à l'article 73 B sont retenus pour l'appréciation du montant des revenus définis au premier alinéa. Sont également retenus les revenus imposés dans les conditions prévues à l'article 151-0 pour leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou au 1 de l'article 102 ter. Il n'est pas tenu compte des plus-values et moins-values professionnelles à long terme.
-
-NOTA :
-
-Conformément au IV de l’article 126 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 163 quatervicies telles qu'elles résultent du III dudit article s’appliquent au bénéfice des exploitants qui bénéficient de dotations d'installation aux jeunes agriculteurs octroyées à compter du 1er janvier 2019.
-
-Conformément au I de l’article 9 de l’ordonnance n° 2019-766 du 24 juillet 2019, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2020.
-
-Aux termes du II de l'article 9 du décret n° 2019-807 du 30 juillet 2019, la date d'entrée en vigueur mentionnée au I de l'article 9 de l'ordonnance n° 2019-766 du 24 juillet 2019 portant réforme de l'épargne retraite est fixée au 1er octobre 2019.

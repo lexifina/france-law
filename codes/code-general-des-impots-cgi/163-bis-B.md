@@ -6,16 +6,8 @@ II. - Les revenus des titres détenus dans l'un des plans d'épargne mentionnés
 
 Cette exonération est maintenue tant que les salariés et anciens salariés ne demandent pas la délivrance des parts ou actions acquises pour leur compte.
 
-II bis. - Les revenus des titres détenus dans un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier sont exonérés s'ils sont réemployés dans ce plan et frappés de la même indisponibilité que les titres auxquels ils se rattachent.
+II bis. - Les revenus des titres détenus dans un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier ou dans un sous-compte français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 du même code sont exonérés s'ils sont réemployés dans ce plan ou ce sous-compte et frappés de la même indisponibilité que les titres auxquels ils se rattachent.
 
 II ter. - Par dérogation aux dispositions de l'article 199 ter, les crédits d'impôt attachés aux revenus mentionnés au II et II bis sont restituables. Ils sont exonérés dans les mêmes conditions que ces revenus.
 
 III. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
-
-NOTA :
-
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
-
-Conformément au I de l’article 9 de l’ordonnance n° 2019-766 du 24 juillet 2019, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2020.
-
-Aux termes du II de l'article 9 du décret n° 2019-807 du 30 juillet 2019, la date d'entrée en vigueur mentionnée au I de l'article 9 de l'ordonnance n° 2019-766 du 24 juillet 2019 portant réforme de l'épargne retraite est fixée au 1er octobre 2019.
