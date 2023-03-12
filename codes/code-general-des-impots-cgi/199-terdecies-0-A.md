@@ -2,7 +2,7 @@
 
 I. 1° Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 18 % des versements effectués au titre de souscriptions en numéraire réalisées dans les mêmes conditions que celles prévues aux 1 et 2 du I de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017.
 
-Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2022.
+Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2023.
 
 2° Le bénéfice de l'avantage fiscal prévu au 1° du présent I est subordonné au respect, par la société bénéficiaire de la souscription, des conditions prévues au 1 bis du I de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017.
 
@@ -42,7 +42,7 @@ V. Un décret fixe les modalités d'application du présent article, notamment l
 
 VI. – 1. Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 18 % des versements effectués au titre de souscriptions en numéraire de parts de fonds ou d'organismes mentionnés au 1 du III de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017, sous réserve du respect des conditions prévues au même 1.
 
-Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2022.
+Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2023.
 
 2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 du présent VI sont retenus, après imputation des droits ou frais d'entrée et à proportion du quota d'investissement mentionné au premier alinéa du c du 1 du III de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017, que le fonds s'engage à atteindre, dans les limites annuelles de 12 000 € pour les contribuables célibataires, veufs ou divorcés et de 24 000 € pour les contribuables mariés ou pour ceux liés par un pacte civil de solidarité et soumis à imposition commune.
 
@@ -77,3 +77,9 @@ Le montant des frais et commissions directs et indirects imputés au titre d'un 
 Par dérogation au deuxième alinéa du présent VII, le montant des frais et commissions directs et indirects imputés au titre d'un même versement peut, dans des circonstances exceptionnelles, excéder ce plafond lorsque le dépassement correspond en totalité à des frais engagés pour faire face à une situation non prévisible indépendante de la volonté des personnes mentionnées au même deuxième alinéa et dans l'intérêt des investisseurs ou porteurs de parts.
 
 Sans préjudice des sanctions que l'Autorité des marchés financiers peut prononcer, tout manquement à ces interdictions est passible d'une amende dont le montant ne peut excéder dix fois les frais indûment perçus.
+
+NOTA :
+
+Conformément au III de l’article 17 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s’appliquent aux versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de plus de deux mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne.
+
+Conformément à l'article 1er du décret n° 2023-176 du 10 mars 2023, les dispositions du I de l'article 17 de la loi n° 2022-1726 du 30 décembre 2023 de finances pour 2023 s'appliquent aux versements effectués à compter du lendemain de la publication dudit décret au Journal officiel de la République française.
