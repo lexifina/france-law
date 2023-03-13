@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_028 — DELIBERATION 2023-28 ACQUISITION PLEIN DROIT PARCELLE BA 23 QUALITE BIEN ISSU SUCCESSION VACANTE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-03-13
+- Matière : 3.1 Domaine et patrimoine/Acquisitions
+- Objet : DELIBERATION 2023-28 ACQUISITION PLEIN DROIT PARCELLE BA 23 QUALITE BIEN ISSU SUCCESSION VACANTE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/63ccba207a8e8033ae5d1785de500bdb8c060dcf0c5f1ab8449b39f78efa88ac.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
