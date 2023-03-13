@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_030 — DELIBERATION 2023-30 INCORPORATION PATRIMOINE COMMUNAL PRIVE PARCELLE I 2438 QUALITE BIEN PRESUME SANS MAITRE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-03-13
+- Matière : 3.5 Domaine et patrimoine/Autres actes de gestion du domaine public
+- Objet : DELIBERATION 2023-30 INCORPORATION PATRIMOINE COMMUNAL PRIVE PARCELLE I 2438 QUALITE BIEN PRESUME SANS MAITRE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/ee1a2254b079fb04ed8f683f626edf720d64d46586db61f0d6ff6628d44dd045.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
