@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_022 — DELIBERATION 2023-22 ADOPTION DU REGLEMENT INTERIEUR DE LA MAISON DES ASSOCIATIONS SOLIDAIRES
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-03-13
+- Matière : 1.7 Commande Publique/Actes speciaux et divers
+- Objet : DELIBERATION 2023-22 ADOPTION DU REGLEMENT INTERIEUR DE LA MAISON DES ASSOCIATIONS SOLIDAIRES
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/e913b2d54f5c332a7aae6d837f7fcd652d6766efdf7db9556deb7102c11d5ff7.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
