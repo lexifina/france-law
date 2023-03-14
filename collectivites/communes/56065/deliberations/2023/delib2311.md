@@ -1,0 +1,10 @@
+# COMMUNE DE GOURHEL : délibération DELIB2311 — BATIMENT COMMUNAL ASSOCIATIF - CHOIX DU BUREAU DE CONTROLE TECHNIQUE EST SECURITE PROTECTION DE LA SANTE
+
+- Collectivité : COMMUNE DE GOURHEL
+- SIRET : 21560065100016
+- Code INSEE : 56065
+- Date : 2023-03-14
+- Matière : 1.6 Commande Publique/Actes relatifs a la maitrise d oeuvre
+- Objet : BATIMENT COMMUNAL ASSOCIATIF - CHOIX DU BUREAU DE CONTROLE TECHNIQUE EST SECURITE PROTECTION DE LA SANTE
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/215600651/Deliberation/2023/375678/501e47b4e4915a6234e50b4ab662d770039b3e6d137c61bd5283e7ad7ecf8876.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
