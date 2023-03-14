@@ -1,0 +1,9 @@
+# Réponse à la question n° 3383
+
+- Question : [3383](3383.md) — Question n° 3383 — Accompagnement des élèves handicapés dans leur parcours scolaire
+
+## Réponse
+
+*JO du 2023-03-14, page 2418*
+
+L'enjeu d'égalité et la question de la justice sociale sont placés au cœur des priorités de l'éducation nationale avec l'ambition que chaque élève en situation de handicap bénéficie des conditions permettant sa réussite. Le décret n° 2020-515 du 4 mai 2020 instaure dans chaque département un comité de suivi de l'école inclusive. Il établit un état des lieux des moyens consacrés à l'école inclusive et à l'accompagnement des élèves en situation de handicap par les différentes autorités compétentes, ainsi qu'un bilan annuel des résultats qualitatifs et quantitatifs au regard des objectifs et des moyens. Il n'est actuellement pas envisagé de mettre en place la mention « élève en situation de handicap » sur les bulletins de notes, ce qui pourrait être considéré comme discriminatoire par les familles et les équipes éducatives. Des dispositifs dédiés d'accompagnement de ces élèves à besoins éducatifs particuliers leur permettent d'avoir, à toutes les étapes d'admission au lycée ou dans l'enseignement supérieur, des modalités de traitement de leurs dossiers adaptées, s'ils en font la demande. Pour l'entrée au lycée, une priorité d'affectation dérogatoire à la carte scolaire peut être accordée à un élève lorsqu'il nécessite une prise en charge à proximité de l'établissement demandé. La plateforme Parcoursup met à disposition des candidats pour chaque offre de formation des informations concernant les modalités d'accueil et d'accompagnement des étudiants en situation de handicap, ainsi que les coordonnées d'un référent handicap de l'établissement d'accueil. La procédure prévoit également un droit au réexamen de la candidature qui permet aux jeunes en situation de handicap de faire valoir leur situation particulière.
