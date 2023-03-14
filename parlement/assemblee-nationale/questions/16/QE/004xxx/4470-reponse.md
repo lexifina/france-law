@@ -1,0 +1,9 @@
+# Réponse à la question n° 4470
+
+- Question : [4470](4470.md) — Question n° 4470 — Démolition régulière des structures financées par l'UE en Cisjordanie
+
+## Réponse
+
+*JO du 2023-03-14, page 2433*
+
+La France condamne la démolition, par l'armée israélienne, des infrastructures financées par l'Union européenne en Cisjordanie et à Jérusalem-Est. Ces mesures de démolition, contraires au droit international humanitaire et en particulier à la IVe Convention de Genève, fragilisent les conditions de vie déjà très précaires des habitants des Territoires palestiniens. Les localités visées se situent, en outre, dans une zone essentielle à la continuité d'un futur État palestinien et donc à la viabilité de la solution des deux États, à laquelle la France reste profondément attachée. Nous poursuivons nos efforts, en lien avec nos partenaires européens, dans le cadre des groupes de coordination des 27 États membres à Bruxelles, ainsi que du groupe d'experts juridiques du consortium humanitaire en zone C composé de la Commission européenne et de dix pays bailleurs (France, Allemagne, Italie, Suède, Belgique, Luxembourg, Irlande, Finlande, Danemark, Royaume-Uni). Avec ces partenaires, nous faisons parvenir aux autorités israéliennes des lettres de contestation répertoriant les démolitions et les confiscations d'infrastructures humanitaires pour lesquelles nous leur demandons réparation. Sur place, des visites des ambassadeurs européens sont organisées régulièrement pour répertorier les violations commises et marquer notre soutien aux populations affectées. Dans ce contexte, la France appelle instamment les autorités israéliennes à ne pas mettre en œuvre les ordres de démolition et à s'abstenir de toute mesure visant à étendre ou pérenniser la colonisation dans les territoires occupés, contraire au droit international, comme l'a réaffirmé la résolution 2334 du Conseil de sécurité des Nations unies.
