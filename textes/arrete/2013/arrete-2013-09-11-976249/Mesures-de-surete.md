@@ -410,7 +410,7 @@ Section 1 : Exigences en matière de planification aéroportuaire
 
 Article 1-1-1 I-T - Exigences en matière de planification aéroportuaire
 
-I. - L'exploitant d'aérodrome ou la personne morale autorisée à occuper le côté piste est chargé de l'application du point 1.1.1 de l'annexe du règlement (UE) 2015/1998 susvisé.
+I. - L'exploitant d'aérodrome ou la personne morale autorisée à occuper le côté piste est chargé de l'application du point 1.1.1 de l'annexe du règlement (CE) 300/2008 susvisé.
 
 II. - Lorsque des créations ou modifications d'installations aéroportuaires concernent :
 
@@ -422,7 +422,13 @@ Les entités concernées mentionnées au I du présent article procèdent à ces
 
 Article 1-1-2 I-T - Limites entre les zones de l'aéroport
 
-L'exploitant d'aérodrome ou la personne morale autorisée à occuper le côté piste est responsable, selon le cas, de la mise en œuvre de la sous-section 1.1.1 de l'annexe du règlement (UE) 2015/1998 susvisé.
+I. - L'exploitant d'aérodrome ou la personne morale autorisée à occuper le côté piste est responsable, selon le cas, de la mise en œuvre de la sous-section 1.1.1 de l'annexe du règlement (UE) 2015/1998 susvisé.
+
+II. - L'exploitant d'aérodrome ou la personne morale autorisée à occuper le côté piste veille à l'installation et à la maintenance des clôtures ou des postes d'inspection filtrage délimitant le côté piste du côté ville pour interdire tout accès aux personnes non autorisées. Ces clôtures peuvent disposer, sous réserve de l'accord préalable des services de la direction générale de l'aviation civile, de dispositifs complémentaires de protection consistant en :
+
+1. Des systèmes de détection d'intrusion installés sur la clôture ;
+
+2. Des systèmes de ralentissement d'éventuelles intrusions installés à l'intérieur de la zone côté piste en supplément de la clôture.
 
 Article 1-1-3 I-T - Etablissement et fouille des zones de sûreté à accès réglementé et des parties critiques
 
@@ -466,11 +472,11 @@ Les personnes réputées détenir l'autorisation d'accès au côté piste prévu
 
 3. Les titulaires d'un titre de circulation mentionné à l'article 1-2-5-1 valable pour l'aérodrome ;
 
-4. Les titulaires d'un certificat de membre d'équipage ;
+4. Les titulaires d'une carte d'identification de membre d'équipage ;
 
 5. Les titulaires d'une licence de navigant ;
 
-6. Les élèves pilotes porteurs d'un document justifiant d'une entrée en formation.
+6. Les élèves pilotes sur présentation d'un document justificatif.
 
 Article 1-2-1-3 - Catégories de véhicules réputés détenir le laissez-passer pour l'accès au côté piste
 
@@ -492,13 +498,11 @@ Article 1-2-2-2 I-T - Obligations relatives à la mise en place du contrôle d'a
 
 Sur les aérodromes pour lesquels plus de 60 personnes détiennent un titre de circulation aéroportuaire, pour chaque accès à la zone de sûreté à accès réglementé, l'entité responsable de la mise en place et de l'exploitation du contrôle d'accès conserve la liste des personnes, détentrices d'un titre de circulation aéroportuaire au sens de l'article 1-2-5-1 de la présente annexe, ayant utilisé l'accès pendant les trente derniers jours.
 
-Article 1-2-2-3 I-T - Autorisations d'accès en zone de sûreté à accès réglementée pour les titulaires d'une licence de navigant et les élèves pilotes
+Article 1-2-2-3 I-T - Autorisation d'accès en zone de sûreté à accès règlementé pour les personnels navigants et les titulaires d'une licence de navigant.
 
-Les autorisations permettant d'accéder en zone de sûreté à accès réglementé en application du d du point 1.2.2.2 de l'annexe du règlement (UE) 2015/1998 susvisé sont :
+I.-Pour accéder sans accompagnement en zone de sûreté à accès réglementé d'un aérodrome, les personnels navigants employés ou utilisés par une entreprise de transport aérien titulaire d'une licence d'exploitation délivrée par la France ou disposant d'une base d'exploitation, au sens de l'article R. 330-2-1 du code de l'aviation civile, située sur le territoire national, présentent une carte d'identification de membre d'équipage : soit un certificat de membre d'équipage sécurisé biométrique répondant aux exigences de l'article 1-2-4-3 T, soit un certificat de membre d'équipage non biométrique répondant aux exigences de l'article 1-2-4-4 T.
 
-1. Les licences de navigants ;
-
-2. Un document justifiant d'une entrée en formation pour les élèves pilotes.
+II.-Pour accéder sans accompagnement en zone de sûreté à accès réglementé d'un aérodrome, les titulaires d'une licence de navigant autres que ceux mentionnés au I présentent une carte d'identification de membre d'équipage non biométrique répondant aux exigences mentionnées à l'article 1-2-4-5 T.
 
 Article 1-2-2-4 I-T - Obligations des personnes accédant en zone de sûreté à accès réglementé
 
@@ -536,15 +540,15 @@ Article 1-2-2-6 I-T - Exemptions de contrôle d'accès pour les personnes autres
 
 Les personnes autres que les passagers mentionnées au point 1.3.2.2 de l'annexe du règlement (UE) 2015/1998 susvisé sont exemptées de contrôle d'accès.
 
-Sous-section 3 : Certificats de membre d'équipage et titres de circulation aéroportuaire
+Sous-section 3 : Cartes d'identification de membre d'équipage et titres de circulation aéroportuaire
 
 Article 1-2-3-1
 
 Article laissé intentionnellement vide.
 
-Article 1-2-3-2 I-T - Obligations des entreprises de transport aérien établissant des certificats de membre d'équipage et des entités faisant la demande de titres de circulation aéroportuaire
+Article 1-2-3-2 I-T - Obligations des entreprises de transport aérien délivrant des certificats de membre d'équipage et des entités faisant la demande de titres de circulation aéroportuaire
 
-L'entreprise de transport aérien établissant des certificats de membre d'équipage ou l'entité faisant la demande de titres de circulation aéroportuaire :
+L'entreprise de transport aérien délivrant des certificats de membre d'équipage ou l'entité faisant la demande de titres de circulation aéroportuaire :
 
 1. Est responsable de la mise en œuvre des points a) et c) de la vérification des antécédents prévue au point 11.1.3 de l'annexe du règlement (UE) 2015/1998 susvisé, conformément au II de l'article R. 213-4-5 du code de l'aviation civile ;
 
@@ -556,45 +560,143 @@ a. Au service gestionnaire défini pour l'aérodrome, pour le titre de circulati
 
 b. Aux services compétents de l'Etat, pour le certificat de membre d'équipage.
 
-Article 1-2-3-3 I-T - Obligations des titulaires d'un certificat de membre d'équipage, d'un titre de circulation aéroportuaire, d'une licence de navigant et des élèves pilotes
+Article 1-2-3-3 I-T - Obligations des entités délivrant des cartes d'identification de membre d'équipage aux personnels navigants autres que ceux employés par des entreprises de transport aérien.
 
-Les titulaires d'un certificat de membre d'équipage, d'un titre de circulation aéroportuaire ou d'une licence de navigant ainsi que les élèves pilotes porteurs d'un document justifiant d'une entrée en formation :
+Les entités mentionnées aux 2 et 3 de l'article 1-2-4-1 T délivrant des cartes d'identification de membre d'équipage :
+
+1. Fournissent, dans le cadre de la vérification des antécédents prévue au point 11.1.3 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile, les informations mentionnées aux a et c de ce même point ;
+
+2. S'assurent que la personne qui demande à bénéficier d'une carte d'identification de membre d'équipage est, d'une part, titulaire d'une licence de navigant en cours de validité et, d'autre part, à jour de la formation mentionnée à la sous-section 11.2.6 de l'annexe mentionnée ci-dessus ;
+
+3. Notifient immédiatement la perte, le vol ou la non-restitution de la carte aux services compétents de l'Etat.
+
+Article 1-2-3-4 I-T - Obligations des titulaires d'une carte d'identification de membre d'équipage ou d'un titre de circulation aéroportuaire.
+
+Les titulaires d'une carte d'identification de membre d'équipage ou d'un titre de circulation aéroportuaire :
 
 1. Ne le prêtent pas à un tiers pour quelque motif que ce soit ;
 
-2. Sans préjudice du point 1.2.3.4 de l'annexe du règlement (UE) 2015/1998 susvisé, le présentent sur requête aux personnes en charge de la surveillance ou des rondes mentionnées au point 1.5.1 de ladite annexe.
+2. Sans préjudice du point 1.2.3.4 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile, le présentent sur requête aux personnes en charge de la surveillance ou des rondes mentionnées au point 1.5.1 de ladite annexe.
 
-Article 1-2-3-4 I-T - Obligations supplémentaires des titulaires d'une licence de navigant et des élèves pilotes
+Article 1-2-3-5 I-T - Conditions d'accès aux zones de sûreté à accès règlementé des titulaires d'une carte d'identification de membre d'équipage
 
-Les titulaires d'une licence de navigant, ainsi que les élèves pilotes porteurs d'un document justifiant d'une entrée en formation signalent immédiatement son vol ou sa perte aux services compétents de l'Etat.
-
-Article 1-2-3-5 I-T - Conditions d'accès des membres d'équipage, des titulaires d'une licence de navigants et des élèves pilotes accédant aux zones de sûreté à accès réglementé
-
-Les membres d'équipage, les personnes titulaires d'une licence de navigant et les élèves pilotes porteurs d'un document justifiant d'une entrée en formation, ne peuvent accéder aux zones listées au point 1.2.7.1 de l'annexe du règlement (UE) 2015/1998 susvisé que pour les besoins d'un vol.
+Les titulaires d'une carte d'identification de membre d'équipage, ne peuvent accéder aux zones listées au point 1.2.7.1 de l'annexe du règlement (UE) 2015/1998 susvisé que pour les besoins d'un vol.
 
 Article 1-2-3-6 I-T - Conditions d'accès aux zones de sûreté à accès réglementé des membres d'équipage titulaires d'un certificat de membre d'équipage sécurisé biométrique
 
-Les personnels navigants titulaires d'un certificat de membre d'équipage sécurisé biométrique peuvent accéder aux zones listées au point 1.2.7.1 de l'annexe du règlement (UE) 2015/1998 susvisé pour les besoins de leurs activités professionnelles.
+Par dérogation aux dispositions de l'article 1-2-3-5 I-T, les personnels navigants titulaires d'un certificat de membre d'équipage sécurisé biométrique peuvent accéder aux zones listées au point 1.2.7.1 de l'annexe du règlement (UE) 2015/1998 susvisé pour les besoins de leurs activités professionnelles.
 
-Sous-section 4 : Exigences supplémentaires applicables aux certificats de membres d'équipages
+Sous-section 4 : Exigences supplémentaires applicables aux cartes d'identification de membres d'équipages
 
-Article 1-2-4-1 I-T - Obligations supplémentaires des entreprises de transport aérien établissant des certificats de membre d'équipage
+Article 1-2-4-1 I-T - O Entités délivrant des cartes d'identification de membre d'équipage.
 
-L'entreprise de transport aérien délivre le certificat de membre d'équipage mentionné au b du 1.2.2.2 de l'annexe du règlement (UE) n° 2015/1998 susvisé pour chaque membre d'équipage rattaché à l'un de ses établissements situés sur le territoire national.
+Les entités suivantes délivrent la carte d'identification de membre d'équipage mentionnée au b du 1.2.2.2 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile :
 
-Elle s'assure que la personne qui demande à bénéficier d'un certificat de membre d'équipage possède l'habilitation prévue à l'article L. 6342-3 du code des transports. La durée de validité du certificat de membre d'équipage ne peut dépasser celle de cette habilitation.
+1. Les entreprises de transport aérien titulaires d'une licence d'exploitation délivrée par la France ou disposant d'une base d'exploitation située sur le territoire national, au sens de l'article R. 330-2-1 du code de l'aviation civile, pour chaque membre d'équipage rattaché à l'une de ses bases d'exploitation ;
 
-Elle ne remet le certificat de membre d'équipage que sur présentation d'un document attestant l'identité de son bénéficiaire.
+2. Les entreprises de travail aérien pour leurs employés effectuant des opérations de travail aérien ;
 
-Elle retire leur certificat aux personnels concernés à l'échéance de leur contrat de travail ou de ce certificat et procède à leur destruction.
+3. Les entités dont la liste est fixée par décision du ministre chargé de l'aviation civile pour les titulaires d'une licence de navigant.
 
-Article 1-2-4-2 I-T - Obligations supplémentaires des titulaires d'un certificat de membre d'équipage établi par une entreprise de transport aérien française
+Article 1-2-4-2 I-T - Obligations supplémentaires des entités délivrant des cartes d'identification de membre d'équipage.
 
-Le titulaire du certificat de membre d'équipage prévu par l'article 1-2-4-1 :
+Les entités établissant des cartes d'identification de membre d'équipage mentionnées à l'article 1-2-4-1 T de la présente annexe s'assurent que la personne qui demande à en bénéficier possède l'habilitation prévue à l'article L. 6342-3 du code des transports. La durée de validité de la carte d'identification de membre d'équipage ne peut dépasser celle de cette habilitation.
 
-1. Signale immédiatement son vol ou sa perte à l'entreprise de transport aérien qui l'a établi ou, si ce n'est pas possible, aux services compétents de l'Etat ;
+Elles ne remettent la carte d'identification de membre d'équipage que sur présentation d'un document attestant l'identité de son bénéficiaire.
 
-2. Dès la cessation de son activité, restitue celui-ci à l'entreprise de transport aérien qui l'a établi ou, si ce n'est pas possible, aux services compétents de l'Etat.
+Elles retirent leur carte aux personnes concernées et procèdent à leur destruction sans délai :
+
+1. A l'expiration de la carte ;
+
+2. A l'échéance de leur contrat de travail pour les personnes mentionnées aux 1 et 2 de l'article 1-2-4-1 T ; par dérogation, et lorsqu'il s'agit d'un certificat de membre d'équipage sécurisé biométrique, la carte retirée peut ne pas être détruite s'il est démontré que la conclusion ultérieure d'un nouveau contrat de travail est prévue ;
+
+3. En cas de retrait de l'habilitation mentionnée à l'article L. 6342-3 du code des transports, la destruction de la carte intervenant au terme de l'exercice des voies de recours ;
+
+4. En cas de suspension de l'habilitation mentionnée à l'article L. 6342-3 du code des transports ; la carte n'est toutefois pas détruite si la période de suspension n'excède pas la durée de validité de la carte ou l'échéance du contrat de travail mentionnée au 2 du présent article.
+
+Dans les cas mentionnés au présent article où une carte est retirée mais ne fait pas l'objet d'une destruction immédiate, l'entité qui l'a établie la conserve dans un endroit sécurisé pendant une durée d'un an. Lorsqu'il s'agit d'une carte sécurisée biométrique, celle-ci est désactivée pour toute la durée du retrait. Chaque entité tient à jour, sur un registre, les mouvements des cartes ainsi conservées. Elle les détruit au premier des termes échus : soit de la carte, soit du délai d'un an précité.
+
+Art. 1-2-4-3 T. -Exigences applicables au certificat de membre d'équipage sécurisé biométrique .
+
+Le certificat de membre d'équipage sécurisé biométrique est réalisé par l'Imprimerie nationale, conformément au décret n° 2010-1182 du 7 octobre 2010 relatif à l'impression par l'Imprimerie nationale de documents relevant du ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat. Il est conforme au modèle publié au Bulletin officiel du ministère de la transition écologique et de la cohésion des territoires.
+
+Art. 1-2-4-4 T.-Exigences applicables au certificat de membre d'équipage non biométrique délivré aux personnels navigants employés par des entreprises de transport aérien.
+
+Le certificat de membre d'équipage non biométrique délivré aux personnels navigants employés par des entreprises de transport aérien répond aux exigences de l'appendice 7 de l'annexe 9 “ Facilitation ” à la Convention relative à l'aviation civile internationale signée à Chicago le 7 décembre 1944. Il est au format ID-1 et comporte les mentions suivantes :
+
+1. Au recto :
+
+-le nom du pays dans lequel le certificat est émis ;
+
+-la mention “ certificat de membre d'équipage ” et le terme anglais “ crew ” ;
+
+-le nom, le prénom, le sexe, la nationalité, la date de naissance et une photographie conforme aux exigences réglementaires du personnel navigant titulaire du certificat ;
+
+-le nom de l'entreprise de transport aérien délivrant le certificat ;
+
+-la fonction occupée ;
+
+-les références de l'habilitation mentionnée à l'article L. 6342-3 du code des transports ;
+
+-le numéro du document, composé de la concaténation de l'année et du mois de délivrance suivi d'un numéro d'ordre à 5 caractères ;
+
+-la date d'expiration du certificat ;
+
+-la signature du titulaire ;
+
+2. Au verso :
+
+-la mention : “ Le titulaire peut, à tout moment, rentrer en France, sur production du présent certificat, au cours de sa période de validité. ” ;
+
+-le lieu de délivrance et la signature de l'agent émetteur ;
+
+-une zone lisible en machine construite conformément aux recommandations du DOC 9303 relatif aux documents de voyage lisibles en machine de l'organisation de l'aviation civile internationale.
+
+Art. 1-2-4-5 T.-Exigences applicables à la carte d'identification de membre d'équipage délivrée aux personnels navigants autres que ceux mentionnés à l'article 1-2-4-4 T.
+
+La carte d'identification de membre d'équipage non biométrique délivrée aux personnels navigants autres que ceux mentionnés à l'article 1-2-4-4 T est au format ID-1 et comporte les mentions suivantes :
+
+1. Au recto :
+
+-le nom du pays dans lequel la carte est émise ;
+
+-la mention “ carte d'identification de membre d'équipage ” ;
+
+-le nom, le prénom, le sexe, la nationalité, la date de naissance et une photographie conforme aux exigences réglementaires du titulaire de la carte ;
+
+-le nom de l'entité délivrant la carte ;
+
+-le cas échéant, la fonction occupée ;
+
+-les références de l'habilitation mentionnée à l'article L. 6342-3 du code des transports ;
+
+-le numéro du document, composé de la concaténation de l'année et du mois de délivrance suivi d'un numéro d'ordre à 5 caractères ;
+
+-la date d'expiration de la carte ;
+
+-la signature du titulaire ;
+
+2. Au verso :
+
+-la mention : “ Cette carte ne permet pas le franchissement des frontières sans visa ” ;
+
+-le lieu de délivrance et la signature de l'agent émetteur.
+
+Art. 1-2-4-6 I-T.-Obligations supplémentaires des titulaires d'une carte d'identification de membre d'équipage.
+
+Le titulaire d'une carte d'identification de membre d'équipage :
+
+1. Signale immédiatement son vol ou sa perte à l'entité qui l'a établie ou, si ce n'est pas possible, aux services compétents de l'Etat ;
+
+2. Dès la cessation de son activité, restitue celle-ci à l'entité qui l'a établie ou, si ce n'est pas possible, aux services compétents de l'Etat.
+
+Art. 1-2-4-7 T.-Obligations des exploitants d'aérodrome relatives au certificat de membre d'équipage sécurisé biométrique.
+
+I.-Les exploitants d'aérodrome dont le trafic annuel commercial, au sens du présent arrêté, atteint, au 31 décembre de l'année N, le seuil de 700 000 passagers, s'équipent de lecteurs permettant de lire les certificats de membre d'équipage sécurisés biométriques au plus tard le 31 décembre de l'année N + 1.
+
+L'alinéa précédent ne s'applique pas aux aérodromes non desservis par une compagnie délivrant à son personnel navigant des certificats de membre d'équipage sécurisés biométriques mentionnés à l'article 1-2-4-3 T.
+
+II.-L'approvisionnement en lecteurs de biométrie s'effectue auprès de l'Imprimerie nationale compte tenu de l'architecture de sécurité mise en œuvre, notamment en ce qui concerne les clés cryptographiques.
 
 Sous-section 5 : Exigences supplémentaires applicables aux titres de circulation aéroportuaire
 
@@ -728,9 +830,17 @@ Une personne ne disposant pas d'autorisation d'accès au côté piste peut y acc
 
 L'accompagnant respecte alors les c et d du point 1.2.7.3 de l'annexe du règlement (UE) 2015/1998 susvisé.
 
-Article 1-2-7-3 I-T - Titre de circulation accompagnée
+Article 1-2-7-3 I-T - Accès accompagné en zone de sûreté à accès réglementé
 
 Le préfet exerçant les pouvoirs de police sur l'aérodrome délivre les titres de circulation accompagnée en vue d'autoriser l'accès accompagné en zone de sûreté à accès réglementé aux personnes dépourvues de l'habilitation prévue au I. de l'article R. 213-3 du code de l'aviation civile. Cette délivrance peut donner lieu à l'enquête administrative prévue à l'article R. 114-4 du code de la sécurité intérieure.
+
+Par dérogation, uniquement pour les besoins d'un vol, dans les zones listées au point 1.2.7.1 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile, et sous réserve d'un accompagnement permanent réalisé par une personne titulaire d'une des autorisations d'accès mentionnées aux points 3 et 4 de l'article 1-2-1-2, un titre de circulation accompagné n'est pas requis pour :
+
+1. Les titulaires d'une licence de navigant qui ne détiennent pas de carte d'identification de membre d'équipage valable ;
+
+2. Les élèves pilotes sur présentation d'un document justificatif.
+
+Pour chaque dérogation mentionnée au présent article, un formulaire renseignant l'identité de la personne concernée, celle de son accompagnant, ainsi que le plan de vol est remis à l'exploitant d'aérodrome avant tout accès en zone de sûreté à accès réglementée. Ce formulaire est conservé pendant un an minimum par l'exploitant d'aérodrome et remis sans délai aux services compétents de l'Etat qui en font la demande.
 
 Article 1-2-7-4 I-T - Obligations des entités faisant la demande d'un titre de circulation accompagnée
 
@@ -1584,9 +1694,9 @@ Les informations relatives aux nouvelles menaces et aux nouvelles dispositions l
 
 Section 5 : Qualification des instructeurs
 
-Article 11-5-1 - Qualification des instructeurs des personnes relevant des points 11.2.3.6 à 11.2.3.10, 11.2.4 (supervisant directement les agents visées aux point 11.2.3.6 à 11.2.3.10), 11.2.6.2 et 11.2.7 de l'annexe du règlement (UE) 2015/1998 susvisé
+Article 11-5-1 - Qualification des instructeurs des personnes relevant des points 11.2.3.6 à 11.2.3.11, 11.2.4 (supervisant directement les agents visées aux point 11.2.3.6 à 11.2.3.11), 11.2.6.2 et 11.2.7 de l'annexe du règlement (UE) 2015/1998 susvisé
 
-L'employeur des agents qui suivent les formations liées aux tâches énumérées aux points 11.2.3.6 à 11.2.3.10, 11.2.4 (des agents qui supervisent directement les agents visés aux points 11.2.3.6 à 11.2.3.10), 11.2.6.2 et 11.2.7 de l'annexe du règlement (UE) 2015/1998 susvisé, s'assure que l'instructeur chargé de dispenser la formation est qualifié, avant de lui confier la réalisation d'une session de formation. Il tient à jour et à la disposition des services compétents de l'Etat la liste des instructeurs qualifiés auxquels il fait appel.
+L'employeur des agents qui suivent les formations liées aux tâches énumérées aux points 11.2.3.6 à 11.2.3.11, 11.2.4 (des agents qui supervisent directement les agents visés aux points 11.2.3.6 à 11.2.3.11), 11.2.6.2 et 11.2.7 de l'annexe du règlement (UE) 2015/1998 susvisé, s'assure que l'instructeur chargé de dispenser la formation est qualifié, avant de lui confier la réalisation d'une session de formation. Il tient à jour et à la disposition des services compétents de l'Etat la liste des instructeurs qualifiés auxquels il fait appel.
 
 Pour être qualifié, un instructeur doit posséder une expérience de formateur dans le domaine enseigné de la sûreté du transport aérien d'une durée d'au moins un an, ou satisfaire à chacun des 3 critères suivants :
 
@@ -1598,7 +1708,7 @@ Pour être qualifié, un instructeur doit posséder une expérience de formateur
 
 Article 11-5-2 - Formation des instructeurs certifiés
 
-Les instructeurs chargés de dispenser la formation prévue aux points 11.2.3.1 à 11.2.3.5 ainsi qu'aux points 11.2.4 (sauf s'il s'agit de la formation des agents qui supervisent directement les agents visés aux point 11.2.3.6 à 11.2.3.10) et 11.2.5 de l'annexe du règlement (UE) 2015/1998 susvisé et remplissant les conditions fixées au point 11.5.1 de ladite annexe suivent des formations initiales et périodiques délivrées sous l'autorité du ministre chargé des transports, pour chaque module de certification.
+Les instructeurs chargés de dispenser la formation prévue aux points 11.2.3.1 à 11.2.3.5 ainsi qu'aux points 11.2.4 (sauf s'il s'agit de la formation des agents qui supervisent directement les agents visés aux point 11.2.3.6 à 11.2.3.11) et 11.2.5 de l'annexe du règlement (UE) 2015/1998 susvisé et remplissant les conditions fixées au point 11.5.1 de ladite annexe suivent des formations initiales et périodiques délivrées sous l'autorité du ministre chargé des transports, pour chaque module de certification.
 
 L'instructeur suit une formation initiale avant de se présenter à un examen de certification initiale. Cette formation est réalisée dans les 6 mois précédant la date d'examen sollicitée.
 
@@ -1616,7 +1726,7 @@ Ces formations incluent notamment et en tant que de besoin :
 
 Article 11-5-3 - Certification des instructeurs
 
-La certification et le renouvellement de la certification pour les instructeurs chargés de dispenser la formation prévue aux points 11.2.3.1 à 11.2.3.5 ainsi qu'aux points 11.2.4 (sauf s'il s'agit de la formation des agents qui supervisent directement les agents visées aux points 11.2.3.6 à 11.2.3.10) et 11.2.5 de l'annexe du règlement (UE) 2015/1998 susvisé est organisée selon les modules suivants :
+La certification et le renouvellement de la certification pour les instructeurs chargés de dispenser la formation prévue aux points 11.2.3.1 à 11.2.3.5 ainsi qu'aux points 11.2.4 (sauf s'il s'agit de la formation des agents qui supervisent directement les agents visées aux points 11.2.3.6 à 11.2.3.11) et 11.2.5 de l'annexe du règlement (UE) 2015/1998 susvisé est organisée selon les modules suivants :
 
 - module général : pédagogie, connaissances réglementaires sûreté ;
 
@@ -1628,7 +1738,7 @@ La certification au module général ainsi que la certification au module " mana
 
 La durée de validité d'une certification d'instructeur est limitée à 5 ans.
 
-Article 11-5-4-T - Modalités de certification des instructeurs dispensant les formations mentionnées aux points 11.2.3.1 à 11.2.3.5, 11.2.4 (sauf s'il s'agit de la formation des agents qui supervisent directement les agents visées aux point 11.2.3.6 à 11.2.3.10) et 11.2.5 de l'annexe du règlement (UE) 2015/1998 susvisé
+Article 11-5-4-T - Modalités de certification des instructeurs dispensant les formations mentionnées aux points 11.2.3.1 à 11.2.3.5, 11.2.4 (sauf s'il s'agit de la formation des agents qui supervisent directement les agents visées aux point 11.2.3.6 à 11.2.3.11 ) et 11.2.5 de l'annexe du règlement (UE) 2015/1998 susvisé
 
 I. - En application de l'article R. 213-4-1 du code de l'aviation civile, l'ENAC est désignée pour organiser les examens de certification des instructeurs en sûreté de l'aviation civile relevant du point 11.5.1 de l'annexe du règlement (UE) 2015/1998 susvisé.
 
@@ -1964,17 +2074,19 @@ Formations délivrées par un instructeur certifié ou qualifié
 
 |
 
-11.2.3.10. : contrôles de sûreté sur le courrier et le matériel des transporteurs aériens, les approvisionnements de bord et les fournitures d'aéroport autre que l'inspection/le filtrage
-
-|
+11.2.3.10. : contrôles de sûreté sur le courrier et le matériel des transporteurs aériens, les approvisionnements de bord et les fournitures d'aéroport autre que l'inspection/le filtrage |
 
 03h30
 
 |
 
-11.2.4. : formation spécifique des personnes supervisant directement des personnes effectuant les contrôles de sûreté 11.2.3.6. à 11.2.3.10.
+11.2.3.11. : mesures de sûreté en vol mises en œuvre par les membres d'équipage commerciaux et techniques
 
 |
+
+03h30 |
+
+11.2.4. : formation spécifique des personnes supervisant directement des personnes effectuant les contrôles de sûreté 11.2.3.6. à 11.2.3.11. |
 
 10h30
 
@@ -2366,9 +2478,7 @@ Formations délivrées par un instructeur certifié ou qualifié
 
 |
 
-11.2.3.10 : contrôles de sûreté sur le courrier et le matériel des transporteurs aériens, les approvisionnements de bord et les fournitures d'aéroport autre que l'inspection/le filtrage
-
-|
+11.2.3.10. : contrôles de sûreté sur le courrier et le matériel des transporteurs aériens, les approvisionnements de bord et les fournitures d'aéroport autre que l'inspection/le filtrage |
 
 03h30
 
@@ -2378,7 +2488,15 @@ Formations délivrées par un instructeur certifié ou qualifié
 
 |
 
-11.2.4 : formation spécifique des personnes supervisant directement des personnes effectuant les contrôles de sûreté 11.2.3.6. à 11.2.3.10.
+11.2.3.11. : mesures de sûreté en vol mises en œuvre par les membres d'équipage commerciaux et techniques |
+
+03h30 |
+
+5 ans
+
+|
+
+11.2.4 : formation spécifique des personnes supervisant directement des personnes effectuant les contrôles de sûreté 11.2.3.6. à 11.2.3.11.
 
 |
 
