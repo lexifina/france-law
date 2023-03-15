@@ -20,12 +20,6 @@ France métropolitaine-Royaume-Uni.
 
 2. Liaisons internationales extracommunautaires :
 
-Jusqu'au 31 mars 2023
-
-Lyon-Djerba (Tunisie) ;
-
-Lyon-Tunis (Tunisie).
-
 Jusqu'au 31 mars 2024
 
 Lyon-Alger (Algérie) ;
@@ -138,7 +132,7 @@ Paris-Hammamet (Tunisie).
 
 Jusqu'au 31 juillet 2026
 
-Paris-Le Caire (Egypte), dans la limite de quatre (4) fréquences hebdomadaires jusqu'au 25 mars 2023, puis dans la limite de trois (3) fréquences hebdomadaires à compter du 26 mars 2023 ;
+Paris-Le Caire (Egypte), dans la limite de quatre (4) fréquences hebdomadaires jusqu'au 29 octobre 2023, puis dans la limite de trois (3) fréquences hebdomadaires à compter du 30 octobre 2023 ;
 
 Paris-Louqsor (Egypte) ;
 
@@ -185,3 +179,23 @@ Paris-Biskra (Algérie) ;
 Paris-El-Oued (Algérie) ;
 
 Paris-Charm El-Cheikh (Egypte).
+
+Jusqu'au 31 mars 2028 :
+
+Lyon-Djerba (Tunisie) ;
+
+Lyon-Tunis (Tunisie) ;
+
+Lyon-Tlemcen (Algérie) ;
+
+Bordeaux-Dakar (Sénégal) ;
+
+Toulouse-Dakar (Sénégal) ;
+
+Marseille-Dakar (Sénégal) ;
+
+Lyon-Antalya (Turquie) ;
+
+Nantes-Antalya (Turquie) ;
+
+Paris-Izmir (Turquie).
