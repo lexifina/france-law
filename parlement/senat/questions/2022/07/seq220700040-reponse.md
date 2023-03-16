@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700040
+
+- Question : [SEQ220700040](seq220700040.md) — Établissement des cartes d'identité des majeurs sous tutelle
+
+## Réponse
+
+*Justice, JO du 2023-03-16, page 1887*
+
+A la suite du rapport d'information sur les droits fondamentaux des majeurs protégés présenté par Caroline Abadie et Aurélien Pradié, les règles relatives à la délivrance des cartes nationales d'identité pour les majeurs en tutelle ont été modifiées par le décret n° 2021-279 du 13 mars 2021, entré en vigueur le 15 mars 2021 (article 5). Désormais, le majeur en tutelle peut présenter seul sa demande de carte nationale d'identité, à condition que son tuteur en soit préalablement informé. Le majeur protégé doit justifier qu'il a informé son tuteur de sa démarche en produisant une attestation en ce sens de la part de son tuteur. En cas d'impossibilité pour le majeur protégé de déposer lui-même la demande de carte nationale d'identité, les démarches sont effectuées par son tuteur. Le majeur en tutelle doit toutefois obligatoirement être présent lors du dépôt de la demande (article 4-4 du décret n° 55-1397 modifié du 22 octobre 1955 instituant la carte nationale d'identité). Lorsque le majeur en tutelle n'est pas en capacité de signer sa carte nationale d'identité, le tuteur signe à sa place (arrêté du 13 mars 2021 portant application de l'article 4-4 du décret précité du 22 octobre 1955). En ce qui concerne l'adresse figurant sur la carte nationale d'identité, l'article 1er du décret précité du 22 octobre 1955 prévoit par ailleurs que ce document mentionne « le domicile ou la résidence de l'intéressé ». Il n'est donc pas prévu que l'adresse sur la carte nationale d'identité soit celle du tuteur. Ces évolutions normatives renforcent ainsi l'autonomie des majeurs vulnérables, principe irriguant la protection juridique des majeurs depuis la loi n° 2007-308 du 5 mars 2007 portant réforme de la protection juridique des majeurs.
