@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103708
+
+- Question : [SEQ221103708](seq221103708.md) — Suivi des incidents ayant eu lieu au Stade de France lors de la finale de la ligue des champions
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-03-16, page 1884*
+
+À la suite des événements survenus au stade de France, le 28 mai dernier, lors de la finale de la Ligue des champions, la direction de l'ordre public et de la circulation (DOPC) de la Préfecture de Police a diligenté une enquête administrative contre un policier des compagnies d'intervention ayant fait un usage inapproprié de moyens lacrymogènes sur un supporter anglais. Une sanction administrative du premier groupe a été prononcée à son encontre. Cette sanction a fait l'objet d'une communication de la préfecture de police par voie de presse en date du 25 janvier 2023. Par ailleurs, dans le cadre d'une demande de la défenseure des droits en date du 7 octobre 2022, faisant suite à la réclamation de dix-huit supporters du club de Liverpool, la préfecture de police a communiqué tous les documents susceptibles d'éclairer la défenseure des droits sur les circonstances et le contexte des évènements. Comme le prévoit la loi organique n° 2011-333 du 29 mars 2011 relative au défenseur des droits, cette autorité demeure libre de communiquer ou non sur les dossiers dont elle est saisie. Enfin, il convient de noter que 62 plaintes ont été déposées par des supporters anglais et des enquêtes ont été initiées par les services de police. Elles ont permis l'interpellation le 30 mai 2022 de deux individus disposant de téléphones portables appartenant à des ressortissants anglais. Ils ont fait l'objet d'une convocation par officier de police judiciaire. Une personne ayant dérobé une montre de luxe à un supporter de Liverpool a également été interpellée le 20 octobre dernier. Formellement identifié par la victime, elle a été condamnée à 6 mois de prison ferme.
