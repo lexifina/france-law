@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — AUTORISATION D'ESTER EN JUSTICE : RECOURS EN ANNULATION À L'ENCONTRE DE LA DÉLIBÉRATION DU CONSEIL DE MÉTROPOLE EN DATE DU 15 DÉCEMBRE 2022 DÉCLARANT D'INTÉRÊT MÉTROPOLITAIN LES PARCS DE STATIONNEMENT DE LA VILLE D'AIX-EN-PROVENCE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2023-03-17
+- Séance : Conseil Municipal 1CA
+- Objet : AUTORISATION D'ESTER EN JUSTICE : RECOURS EN ANNULATION À L'ENCONTRE DE LA DÉLIBÉRATION DU CONSEIL DE MÉTROPOLE EN DATE DU 15 DÉCEMBRE 2022 DÉCLARANT D'INTÉRÊT MÉTROPOLITAIN LES PARCS DE STATIONNEMENT DE LA VILLE D'AIX-EN-PROVENCE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-15439-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
