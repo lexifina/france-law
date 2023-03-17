@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — AVENANT N°1 A LA CONVENTION DE GROUPEMENT DE COMMANDES PERMANENT CONCLU ENTRE LA COMMUNE D'AIX-EN-PROVENCE ET LE CENTRE COMMUNAL D'ACTION SOCIALE D'AIX-EN-PROVENCE PORTANT ADHÉSION DE L'ÉCOLE SUPÉRIEURE D'ART D'AIX-EN-PROVENCE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2023-03-17
+- Séance : Conseil Municipal 1CA
+- Objet : AVENANT N°1 A LA CONVENTION DE GROUPEMENT DE COMMANDES PERMANENT CONCLU ENTRE LA COMMUNE D'AIX-EN-PROVENCE ET LE CENTRE COMMUNAL D'ACTION SOCIALE D'AIX-EN-PROVENCE PORTANT ADHÉSION DE L'ÉCOLE SUPÉRIEURE D'ART D'AIX-EN-PROVENCE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-15391-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
