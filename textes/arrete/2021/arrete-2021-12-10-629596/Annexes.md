@@ -82,21 +82,21 @@ WEPA GREENFIELD |
 
 FR000000000000009 |
 
-VERALLIA FRANCE - Vauxrot |
+VERALLIA FRANCE-Vauxrot |
 
 Verallia Vauxrot |
 
 29115 |
 
-29115 |
+30305 |
 
-29115 |
+30305 |
 
-29115 |
+30305 |
 
-29115 |
+30305 |
 
-145575 |
+150335 |
 
 FR000000000000010 |
 
@@ -910,9 +910,9 @@ Smurfit Kappa Cellulose du Pin |
 
 FR000000000000079 |
 
-ENGIE ENERGIE SERVICES - SO Grand Parc 2 |
+Grand Parc Energies |
 
-ENGIE ENERGIE SERVICES |
+Grand Parc Energies |
 
 383 |
 
@@ -932,17 +932,17 @@ Etablissement de SAINT MEDARD |
 
 ARIANEGROUP SAS |
 
-2 270 |
+1963 |
 
-2 270 |
+1963 |
 
-2 270 |
+1963 |
 
-2 270 |
+1963 |
 
-2 270 |
+1963 |
 
-11 350 |
+9815 |
 
 FR000000000000084 |
 
@@ -2156,17 +2156,17 @@ ADISSEO SAS |
 
 ADISSEO SAS |
 
-20 101 |
+19586 |
 
-19 585 |
+34459 |
 
-19 068 |
+17721 |
 
-18 552 |
+17241 |
 
-18 035 |
+16761 |
 
-95 341 |
+105768 |
 
 FR000000000000195 |
 
@@ -2300,17 +2300,17 @@ SECANIM SUD EST BAYET |
 
 SECANIM SUD EST |
 
-6900 |
-
 5636 |
 
-5636 |
+6707 |
 
-5636 |
+6707 |
 
-5636 |
+6707 |
 
-29444 |
+6707 |
+
+32464 |
 
 FR000000000000217 |
 
@@ -2386,21 +2386,21 @@ EDILIANS |
 
 FR000000000000222 |
 
-OMYA - Usine d'Omey |
+OMYA-Usine d'Omey |
 
-OMYA SAS - Usine d'Omey |
+OMYA SAS-Usine d'Omey |
 
-16 247 |
+13673 |
 
-16 247 |
+16247 |
 
-16 247 |
+16247 |
 
-16 247 |
+16247 |
 
-16 247 |
+16247 |
 
-81 235 |
+78661 |
 
 FR000000000000223 |
 
@@ -2782,21 +2782,21 @@ SAICA PAPER FRANCE |
 
 FR000000000000251 |
 
-Cogénération - Réseau TCM La Chapelle Saint-Luc/ Les Noës-Près-Troyes |
+Cogénération-Réseau TCM La Chapelle Saint-Luc/ Les Noës-Près-Troyes |
 
 Troyes Champagne Métropole |
 
 732 |
 
-713 |
+888 |
 
-694 |
+865 |
 
-676 |
+842 |
 
-657 |
+818 |
 
-3 472 |
+4145 |
 
 FR000000000000253 |
 
@@ -4228,15 +4228,15 @@ CCIAG |
 
 7789 |
 
-7789 |
+6669 |
 
-7789 |
+6669 |
 
-7789 |
+6669 |
 
-7789 |
+6669 |
 
-38945 |
+34465 |
 
 FR000000000000380 |
 
@@ -4766,17 +4766,17 @@ HOSPICES CIVILS DE LYON |
 
 HOSPICES CIVILS DE LYON |
 
-1092 |
+40 |
 
-1092 |
+40 |
 
-1092 |
+40 |
 
-1092 |
+40 |
 
-1092 |
+40 |
 
-5460 |
+200 |
 
 FR000000000000431 |
 
@@ -5542,17 +5542,17 @@ Ineos Polymers Sarralbe |
 
 Ineos Polymers Sarralbe SAS |
 
-56 591 |
+56591 |
 
-56 591 |
+57233 |
 
-56 591 |
+57233 |
 
-56 591 |
+57233 |
 
-56 591 |
+57233 |
 
-282 955 |
+285523 |
 
 FR000000000000494 |
 
@@ -6006,9 +6006,9 @@ Huhtamaki La Rochelle |
 
 FR000000000000538 |
 
-Airbus Opérations SAS - établissement de Nantes |
+AIRBUS ATLANTIC-établissement de Nantes |
 
-Airbus Operations SAS |
+AIRBUS ATLANTIC |
 
 2739 |
 
@@ -6982,17 +6982,17 @@ ARCELORMITTAL MEDITERRANEE |
 
 ArcelorMittal méditérannée |
 
-6365796 |
+6328307 |
 
-6365796 |
+5251048 |
 
-6365796 |
+5251048 |
 
-6365796 |
+5251048 |
 
-6365796 |
+5251048 |
 
-31828980 |
+27332499 |
 
 FR000000000000629 |
 
@@ -7752,9 +7752,9 @@ GRAND PARIS SUD ENERGIE POSITIVE |
 
 FR000000000000705 |
 
-MAISON D'ARRET DE FLEURY-MEROGIS |
+Chaufferie de la maison d'arrêt de Fleury-Mérogis |
 
-Maison d'Arret de Fleury Merogis |
+SEER |
 
 1 227 |
 
@@ -8094,9 +8094,9 @@ Société des Pétroles Shell |
 
 FR000000000000743 |
 
-Chaufferie Urbaine CICEO |
+ENEBIO |
 
-CICEO |
+ENEBIO |
 
 2 220 |
 
@@ -8832,9 +8832,9 @@ GIE Chimie Salindres |
 
 FR000000000000808 |
 
-SETE |
+STRASBOURG CENTRE ENERGIES Esplanade |
 
-SETE |
+STRASBOURG CENTRE ENERGIES |
 
 355 |
 
@@ -9318,9 +9318,9 @@ Holcim Haut-Rhin |
 
 FR000000000000849 |
 
-CHALEUR Hautepierre |
+EVOS Chaufferie Hautepierre |
 
-Chaleur Hautepierre |
+EVOS |
 
 6 338 |
 
@@ -9390,9 +9390,9 @@ DALKIA |
 
 FR000000000000855 |
 
-STRASBOURG ENERGIE |
+STRASBOURG CENTRE ENERGIES Elsau |
 
-Strasbourg Energie |
+STRASBOURG CENTRE ENERGIES |
 
 4933 |
 
@@ -10060,17 +10060,17 @@ ASCOMETAL USINE DES DUNES |
 
 ASCOMETAL |
 
-12 913 |
+12913 |
 
-12 913 |
+6841 |
 
-12 913 |
+6841 |
 
-12 913 |
+6841 |
 
-12 913 |
+6841 |
 
-64 565 |
+40277 |
 
 FR000000000000928 |
 
@@ -10362,21 +10362,21 @@ Arcelormittal France |
 
 FR000000000000956 |
 
-Arcelormittal France - Site de Dunkerque |
+Arcelormittal France-Site de Dunkerque |
 
 Arcelormittal France |
 
 9379705 |
 
-9379705 |
+9331873 |
 
-9379705 |
+9331873 |
 
-9379705 |
+9331873 |
 
-9379705 |
+9331873 |
 
-46898525 |
+46707197 |
 
 FR000000000000958 |
 
@@ -11050,17 +11050,17 @@ BONILAIT PROTEINES |
 
 BONILAIT PROTEINES |
 
-7 688 |
+6879 |
 
-7 688 |
+7330 |
 
-7 688 |
+7330 |
 
-7 688 |
+7330 |
 
-7 688 |
+7330 |
 
-38 440 |
+36199 |
 
 FR000000000001021 |
 
@@ -11228,19 +11228,19 @@ FR000000000001037 |
 
 CHU Poitiers |
 
-CHU de poitiers |
+CHU de Poitiers |
 
-1 218 |
+1218 |
 
-1 186 |
+932 |
 
-1 155 |
+907 |
 
-1 124 |
+833 |
 
-1 092 |
+858 |
 
-5 775 |
+4798 |
 
 FR000000000001038 |
 
@@ -12684,9 +12684,9 @@ EDF SA |
 
 FR000000000001166 |
 
-TOTAL DIRECT ENERGIE-CENTRALE ELECTRIQUE BAYET |
+CENTRALE ELECTRIQUE BAYET |
 
-TOTAL DIRECT ENERGIE-CENTRALE ELECTRIQUE BAYET |
+TOTALENERGIES |
 
 / |
 
@@ -14610,21 +14610,21 @@ SOLVAY France |
 
 FR000000000205766 |
 
-IMERYS ALUMINATES - Usine du Teil |
+IMERYS ALUMINATES-Usine du Teil |
 
 IMERYS ALUMINATES SA |
 
 4 783 |
 
-4 783 |
+- |
 
-4 783 |
+- |
 
-4 783 |
+- |
 
-4 783 |
+- |
 
-23 915 |
+4783 |
 
 FR000000000205767 |
 
@@ -14814,15 +14814,15 @@ SOBEGI |
 
 7951 |
 
-7951 |
+8539 |
 
-7951 |
+8539 |
 
-7951 |
+8539 |
 
-7951 |
+8539 |
 
-39755 |
+42107 |
 
 FR000000000205870 |
 
@@ -15870,21 +15870,21 @@ ArcelorMittal Construction France Site 2 Contrisson |
 
 FR000000000206312 |
 
-Colas France - Centrale d'enrobage mobile - TSM25-1 |
+Colas France-Centrale d'enrobage mobile-TSM25-1 |
 
 Colas France |
 
-1160 |
+1242 |
 
-1160 |
+1142 |
 
-1160 |
+1142 |
 
-1160 |
+1142 |
 
-1160 |
+1142 |
 
-5800 |
+5810 |
 
 FR000000000206313 |
 
@@ -17726,21 +17726,21 @@ ALBIOMA SAINT-PIERRE |
 
 FR000000000210608 |
 
-NUTRI'BABIG - Usine de Carhaix |
+NUTRI'BABIG-Usine de Carhaix |
 
 NUTRI'BABIG |
 
-7 752 |
+7768 |
 
-7 752 |
+7970 |
 
-7 752 |
+7970 |
 
-7 752 |
+7970 |
 
-7 752 |
+7970 |
 
-38 760 |
+39648 |
 
 FR000000000210623 |
 
@@ -18182,17 +18182,17 @@ PLAINE DE GARONNE ENERGIES Centrale Géothermique COUSTEAU |
 
 PLAINE DE GARONNE ENERGIES |
 
-0 |
+920 |
 
-0 |
+897 |
 
-0 |
+873 |
 
-0 |
+849 |
 
-0 |
+826 |
 
-0 |
+4365 |
 
 FR000000000214000 |
 
@@ -18758,17 +18758,17 @@ WIZPAPER |
 
 WIZPAPER |
 
-/ |
+29030 |
 
-/ |
+28391 |
 
-/ |
+27753 |
 
-/ |
+27114 |
 
-/ |
+26475 |
 
-/ |
+138763 |
 
 FR000000000217520 |
 
@@ -18932,7 +18932,7 @@ INTERXION France |
 
 / |
 
-FR-new-06522360 |
+FR000000000217880 |
 
 DATA 4 SERVICES |
 
@@ -19112,7 +19112,7 @@ BOUYGUES TELECOM |
 
 / |
 
-FR-new-06521681 |
+FR000000000218080 |
 
 RUEIL-ENERGIE |
 
@@ -19130,7 +19130,7 @@ RUEIL-ENERGIE |
 
 / |
 
-FR-new-100002239 |
+FR000000000218100 |
 
 Biomasse Energie d'Alizay |
 
@@ -19148,7 +19148,7 @@ Biomasse Energie d'Alizay |
 
 / |
 
-FR-new-03802293 |
+FR000000000218040 |
 
 Amiens Energies Vauvoix |
 
@@ -19184,11 +19184,155 @@ GRTgaz |
 
 / |
 
-FR-new-05806000 |
+FR000000000218261 |
 
 BIOSYNERGY |
 
 BIOSYNERGY |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06523753 |
+
+CLOUDHQ FRANCE |
+
+CLOUDHQ FRANCE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06505248 |
+
+CYRUS ONE |
+
+CYRUS ONE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100000296 |
+
+DIGITAL LES ULIS |
+
+INTERXION FRANCE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100001053 |
+
+SUEZ RV France Neuvillette et Thenelles |
+
+SUEZ RV France |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06522004 |
+
+CENTRALE THERMIQUE GEOVIVA |
+
+GEOVIVA |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100002017 |
+
+Unité SMR Gonfreville l'Orcher |
+
+AIR LIQUIDE FRANCE INDUSTRIE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100001139 |
+
+CLOE |
+
+ENGIE Cofely |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100000434 |
+
+ACC Douvrin |
+
+Automotive Cells Compagny SE |
 
 / |
 
