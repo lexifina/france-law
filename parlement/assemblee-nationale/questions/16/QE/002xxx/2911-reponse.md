@@ -1,0 +1,9 @@
+# Réponse à la question n° 2911
+
+- Question : [2911](2911.md) — Question n° 2911 — Interdiction faite aux commerces de maintenir leurs portes ouvertes
+
+## Réponse
+
+*JO du 2023-03-21, page 2743*
+
+Le décret n° 2022-1295 du 5 octobre 2022 relatif à l'obligation de fermeture des ouvrants des bâtiments ou parties de bâtiments à usage tertiaire, chauffés ou refroidis rend obligatoire, sous peine de sanction, la fermeture des ouvrants des locaux chauffés ou refroidis donnant sur l'extérieur ou sur des locaux respectivement non chauffés ou non refroidis. Cette disposition s'applique en période de fonctionnement des équipements de chauffage ou de climatisation. Elle prévoit une exemption lorsque l'ouverture est rendue nécessaire par les exigences sanitaires de renouvellement d'air intérieur des locaux. L'installation d'un rideau d'air, lorsque celui-ci est adapté à l'ouverture et correctement programmé, réduit les déperditions de chaleur ou de froid d'un local par rapport à un local avec la porte ouverte. Néanmoins, ces systèmes consomment également de l'énergie et ne permettent pas d'atteindre une réduction de la consommation d'énergie équivalente à la fermeture de la porte. De plus, tous les bâtiments concernés par le décret susmentionné devant dorénavant conserver leur porte fermée, la présence d'une porte fermée n'affectera désormais plus la fréquentation et donc l'activité des commerces, en comparaison de leurs concurrents, comme cela pouvait être le cas par le passé. Ainsi, le Gouvernement n'a pas prévu d'ajouter de dérogation pour les locaux équipés d'un rideau d'air. Il est important de noter que l'utilisation d'un rideau d'air, en complément d'une porte fermée, n'est toutefois pas interdite : les bâtiments faisant face à un flux d'usagers important peuvent réduire davantage leur consommation grâce à ce système, s'il est adapté à l'ouverture et correctement programmé.
