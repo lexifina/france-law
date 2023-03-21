@@ -1,0 +1,9 @@
+# Réponse à la question n° 487
+
+- Question : [487](487.md) — Question n° 487 — Équivalence de diplôme d'infirmier pour étranger extracommunautaire
+
+## Réponse
+
+*JO du 2023-03-21, page 2714*
+
+Il n'existe actuellement pas de dispositif permettant l'exercice en France de professionnels non médicaux ayant été formés hors Union Européenne. En effet, la formation initiale en France permettant l'exercice est une formation de trois ans de grade licence. Tous les pays n'appliquent pas les mêmes durées de formation et n'aboutissent pas aux mêmes compétences. La garantie de qualité et de sécurité des soins du système de santé impose, par conséquent, à ces professionnels de santé de suivre la formation initiale en France. L'arrangement en vue de la reconnaissance mutuelle des qualifications professionnelles pour la profession infirmière entre la France et le Québec a demandé un long travail préalable de diagnostic et de comparaison des référentiels de formation entre les Ordres des infirmiers québécois et français. L'élaboration d'accords bilatéraux avec d'autres pays extracommunautaires requiert un travail d'analyse important, non envisagé à ce stade. A noter cependant, s'agissant de la profession d'infirmière, une convention entre la France et l'université Saint-Joseph de Beyrouth permet aux professionnels détenant une licence en sciences infirmières d'accéder au diplôme d'Etat français. Dans tous les autres cas, les équivalences de diplômes sont complexes tant les formations et les exercices professionnels sont variables d'un pays à l'autre. En complément, dans le cadre de la réingénierie de la profession infirmière (refonte du décret de compétences), une réflexion s'ouvrira prochainement sur la reconnaissance facilitée de briques de compétences, en particulier dans le cadre d'une organisation du métier par missions.
