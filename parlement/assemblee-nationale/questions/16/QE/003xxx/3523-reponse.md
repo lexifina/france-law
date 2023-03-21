@@ -1,0 +1,9 @@
+# Réponse à la question n° 3523
+
+- Question : [3523](3523.md) — Question n° 3523 — Révision de la formule du complément de rémunération pour l'hydroélectricité
+
+## Réponse
+
+*JO du 2023-03-21, page 2747*
+
+Les questions que soulèvent la formule de calcul du complément de rémunération pour les installations hydroélectriques dans cette période de volatilité importante des prix de l'électricité sont bien identifiées. Les services de l'Etat ont déjà apporté une première réponse à ces questions en faisant évoluer la formule de calcul du complément de rémunération dans le cahier des charges de la cinquième période de l'appel d'offres relatif à la petite hydroélectricité. Cette formule se base désormais sur un prix de marché de référence (M0) mensuel et non plus annuel. Il est d'ores et déjà envisagé que cette évolution soit prise en compte dans les prochains dispositifs de soutien qui pourraient être mis en place. Cependant, changer de référence pour les contrats en cours ou qui seraient pris en application des périodes précédentes de l'appel d'offres, peut poser un certain nombre de difficultés – notamment d'ordre juridique et concurrentiel - que les services du ministère de la transition énergétique examinent conjointement avec ceux de la Commission de régulation de l'énergie, tout en tenant compte de la spécificité du mécanisme de l'agrégation. En outre, un changement de référence pour tous les contrats pourrait aussi avoir un impact négatif sur les revenus de certains producteurs, pour qui le M0 annuel est plus favorable. Enfin, il convient de rappeler qu'un lauréat d'une période précédente de l'appel d'offres relatif à la petite hydroélectricité a, en cas d'impossibilité de faire aboutir son projet, la possibilité de demander à se désister. Il peut ensuite candidater de nouveau à la période en cours ou aux suivantes dans le but d'obtenir des conditions qu'il estime lui être plus favorables.
