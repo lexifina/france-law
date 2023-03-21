@@ -1,0 +1,9 @@
+# Réponse à la question n° 4051
+
+- Question : [4051](4051.md) — Question n° 4051 — Cadre réglementaire des habitats partagés séniors
+
+## Réponse
+
+*JO du 2023-03-21, page 2734*
+
+Les habitats partagés constituent une des réponses aux enjeux du bien-vieillir au domicile, qui correspond au souhait de l'immense majorité des personnes âgées. Ces formes d'habitat relèvent d'une façon générale du droit commun du logement, et cette souplesse permet une grande variété d'offres, pour qui répondent à la diversité des aspirations des personnes. La réglementation prévoit néanmoins spécifiquement le cas des habitats partagés qui, combinant un mode d'habitat partagé et un projet de vie sociale et partagée, sont des habitats dits « inclusifs » à destination des personnes âgées ou des personnes en situation de handicap. Ils doivent alors respecter la réglementation sur l'habitat inclusif précisée par le code de l'action sociale et des familles. S'il encourage le développement de ces alternatives à une prise en charge institutionnelle, le Gouvernement reste particulièrement vigilant à ce qu'elles relèvent d'un libre choix de la personne et que les protections appropriées soient garanties à cette dernière, comme locataire ou propriétaire, comme cliente de services proposés par le porteur du projet, ou comme usagère de services sanitaires ou médico-sociaux intervenant à son domicile. A cette fin, le Gouvernement mobilise à la fois les administrations en charge du traitement des réclamations et du contrôle : Départements et agences régionales de santé pour les prestations de nature médico-sociale, et les services de l'Etat en charge de la concurrence et de la répression des fraudes pour les autres liens contractuels. Il est demandé à ces services de prêter une attention particulière à ces nouvelles formes d'habitat dans leurs campagnes de contrôle.
