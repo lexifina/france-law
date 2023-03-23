@@ -1,0 +1,9 @@
+# COMMUNE DE LA CHAPELLE JANSON : délibération DELIBCOM23036 — PARTICIPATION DE LA COMMUNE AU FONCTIONNEMENT DES ECOLES PUBLIQUES ET PRIVEES POUR 2022-2023
+
+- Collectivité : COMMUNE DE LA CHAPELLE JANSON
+- SIRET : 21350062200013
+- Date : 2023-03-23
+- Matière : 8.1 Domaines de competences par themes/Enseignement
+- Objet : PARTICIPATION DE LA COMMUNE AU FONCTIONNEMENT DES ECOLES PUBLIQUES ET PRIVEES POUR 2022-2023
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500622/Deliberation/2023/368689/a02f09551bc42f45e8d4a08afeddb7e4cbcecf40a8a7051968a4bb298900c878.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
