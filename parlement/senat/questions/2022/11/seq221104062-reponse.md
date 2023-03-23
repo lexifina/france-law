@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221104062
+
+- Question : [SEQ221104062](seq221104062.md) — Recouvrement de créance
+
+## Réponse
+
+*Justice, JO du 2023-03-23, page 2041*
+
+La question porte sur la qualité à agir du défendeur à une contestation formée à l'encontre d'une saisie administrative à tiers détenteur. Le redevable d'une collectivité territoriale peut, en application des articles L. 1617-5 2° du code général des collectivités territoriales et L 281 du livre des procédures fiscales, contester devant les juridictions compétentes tant le bien-fondé de la créance (opposition à exécution) que la régularité des poursuites engagées à son encontre (opposition à poursuites). Le contentieux du recouvrement des créances non fiscales des collectivités territoriales relève de la compétence du juge de l'exécution en cas d'opposition à poursuites, dès lors que le redevable entend contester une mesure de poursuite exercée à son encontre, tandis que l'opposition à exécution de ces créances relève de la compétence de celle du juge apte à en connaître au fond, qui peut-être, en fonction de la nature de la créance, le tribunal judiciaire ou le tribunal administratif. L'opposition à exécution doit être introduite devant la juridiction compétente par le débiteur dans le délai de deux mois à compter soit de la réception du titre ou, à défaut, de la réception du premier acte qui en procède (par exemple une lettre de relance, une mise en demeure), soit de la notification d'un acte de poursuite telle une saisie administrative à tiers détenteur (CGCT., art. L 1617-5 1°). Les recours sont formés contre la collectivité créancière, l'exécutif de la collectivité étant chargé de la représenter (CGCT., art. L. 2122-21). Il appartient ainsi au maire de défendre à une contestation formée à l'encontre d'une saisie administrative à tiers détenteur lorsque l'ordonnateur est une commune.
