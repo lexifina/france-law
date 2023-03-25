@@ -498,25 +498,91 @@ C
 
 |
 
-Direction départementale des territoires et de la mer du Nord
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DU NORD
 
-FONCTIONS EXERCÉES |
+Fonction exercée |
 
-NIVEAU
+Niveau de qualification de l'emploi |
 
-de qualification
-
-de l'emploi |
-
-NOMBRE
+Nombre
 
 d'emplois |
 
-NOMBRE DE POINTS
+Nombre de points (IM) par emploi |
 
-(IM) par emploi |
+Chef du service renouvellement urbain durable |
 
-Adjoint au chef du service aménagement ville renouvellement urbain |
+A |
+
+1 |
+
+30 |
+
+Chef de projet référent habitat à la mission métropole |
+
+A |
+
+1 |
+
+20 |
+
+Chef du service habitat |
+
+A |
+
+1 |
+
+26 |
+
+Chargé de mission politiques locales habitat au sein du service habitat |
+
+A |
+
+1 |
+
+20 |
+
+Chef d'unité lutte contre l'habitat indigne au service habitat |
+
+A |
+
+1 |
+
+20 |
+
+Chef d'unité financements parc privé au service habitat |
+
+A |
+
+1 |
+
+29 |
+
+Chef d'unité suivi HLM au service habitat |
+
+A |
+
+1 |
+
+20 |
+
+Chargé de mission accompagnement au service renouvellement urbain durable |
+
+A |
+
+1 |
+
+20 |
+
+Chef d'unité habitat logement au service territorial Centre |
+
+A |
+
+1 |
+
+20 |
+
+Adjoint au chef de service renouvellement urbain durable |
 
 A |
 
@@ -524,7 +590,7 @@ A |
 
 25 |
 
-Chef de l'unité instruction administrative et financière-service aménagement ville renouvellement urbain |
+Chef de projet référent requalification urbaine à la mission métropole |
 
 A |
 
@@ -532,7 +598,7 @@ A |
 
 20 |
 
-Chef de l'unité volet social des projets de rénovation urbaine-service aménagement ville renouvellement urbain |
+Chef d'unité financement logement social au service habitat |
 
 A |
 
@@ -540,7 +606,7 @@ A |
 
 20 |
 
-Référent composition urbaine-service aménagement ville renouvellement urbain |
+Chargé de mission politiques d'attribution au service habitat |
 
 A |
 
@@ -548,7 +614,7 @@ A |
 
 20 |
 
-Référent programme national de requalification des quartiers anciens dégradés et aménagement-service aménagement ville renouvellement urbain |
+Chef d'unité droit au logement au service habitat |
 
 A |
 
@@ -556,7 +622,7 @@ A |
 
 20 |
 
-Responsable de projets ANRU en charge de l'élaboration de méthodologies-service aménagement ville renouvellement urbain |
+Chef d'unité d'instruction ANRU au service renouvellement urbain durable |
 
 A |
 
@@ -564,37 +630,29 @@ A |
 
 20 |
 
-Adjoint au chef de l'unité instruction administrative et financière, en charge du suivi de l'activité et instruction financière-service aménagement ville renouvellement urbain |
+Chef d'unité habitat logement au service territorial du Hainaut |
 
-B |
-
-1 |
-
-15 |
-
-Adjoint au responsable de projets ANRU-service aménagement ville renouvellement urbain |
-
-B |
+A |
 
 1 |
 
-15 |
+20 |
 
-Instructeur de subvention ANRU-service aménagement ville renouvellement urbain |
+Chargé de mission ville durable au service renouvellement urbain durable |
 
-B |
-
-4 |
-
-15 |
-
-Instructeur de subvention ANRU-service aménagement ville renouvellement urbain |
-
-C |
+A |
 
 1 |
 
-15 |
+20 |
+
+Chef d'unité projet de renouvellement urbain au service renouvellement urbain durable |
+
+A |
+
+1 |
+
+20 |
 
 Adjoint au chef du service habitat |
 
@@ -604,39 +662,7 @@ A |
 
 25 |
 
-Chef de l'unité suivi des organismes HLM-service habitat |
-
-A |
-
-1 |
-
-20 |
-
-Chef de l'unité droit au logement-éradication habitat indigne-service habitat |
-
-A |
-
-1 |
-
-20 |
-
-Chef de l'unité parc privé-service habitat |
-
-A |
-
-1 |
-
-29 |
-
-Chef de l'unité parc social-service habitat |
-
-A |
-
-1 |
-
-20 |
-
-Chargé de mission logement aide durable-service habitat |
+Responsable du CTT d'Avesnes au service habitat-site Avesnes |
 
 B |
 
@@ -644,7 +670,7 @@ B |
 
 15 |
 
-Adjoint au chef de l'unité parc privé-service habitat |
+Adjoint au chef d'unité financement du logement social au service de l'habitat |
 
 B |
 
@@ -652,23 +678,7 @@ B |
 
 15 |
 
-Adjoint au responsable de la délégation territoriale des Flandres |
-
-A |
-
-1 |
-
-25 |
-
-Chef de l'unité habitat aménagement constructions durables-délégation territoriale des Flandres |
-
-A |
-
-1 |
-
-25 |
-
-Chef du pôle DALO-plan départemental d'actions pour le logement des personnes défavorisées-délégation territoriale des Flandres |
+Référent projet ANRU au service renouvellement urbain durable |
 
 B |
 
@@ -676,23 +686,7 @@ B |
 
 15 |
 
-Adjoint au responsable de la délégation territoriale de Lille |
-
-A |
-
-1 |
-
-20 |
-
-Chef de l'unité habitat renouvellement urbain-délégation territoriale de Lille |
-
-A |
-
-1 |
-
-20 |
-
-Chargé d'études observations et suivi d'activité du peuplement-délégation territoriale de Lille |
+Instructeur ANRU au service renouvellement urbain durable |
 
 B |
 
@@ -700,7 +694,7 @@ B |
 
 15 |
 
-Chef du pôle DALO-plan départemental d'actions pour le logement des personnes défavorisées-délégation territoriale de Lille |
+Adjoint au chef d'unité parc privé au service habitat |
 
 B |
 
@@ -708,31 +702,7 @@ B |
 
 15 |
 
-Adjoint au responsable de la délégation territoriale Douaisis et Cambrésis |
-
-A |
-
-1 |
-
-20 |
-
-Chef de l'unité habitat ville-délégation territoriale Douaisis et Cambrésis |
-
-A |
-
-1 |
-
-20 |
-
-Chef de l'unité habitat ville-délégation territoriale de l'Avesnois |
-
-A |
-
-1 |
-
-20 |
-
-Chargé d'études habitat ville-délégation territoriale de l'Avesnois |
+Responsable du CTT de Douai au service habitat |
 
 B |
 
@@ -740,17 +710,49 @@ B |
 
 15 |
 
-Chef de l'unité logement construction ville-délégation territoriale du Valenciennois |
+Adjoint au chef d'unité instruction ANRU au service renouvellement urbain durable |
 
-A |
+B |
 
 1 |
 
-20 |
+15 |
 
-Chargé de mission DALO-plan départemental d'actions pour le logement des personnes défavorisées-logement et habitat privé-délégation territoriale du Valenciennois |
+Chef de pôle projets MEL CUD au service renouvellement urbain durable |
 
 B |
+
+1 |
+
+15 |
+
+Chef du pôle projets sud au service renouvellement urbain durable |
+
+B |
+
+1 |
+
+15 |
+
+Instructeur ANRU au service renouvellement urbain durable |
+
+B |
+
+1 |
+
+15 |
+
+Référents projet ANRU au service renouvellement urbain durable |
+
+B |
+
+3 |
+
+15 |
+
+Instructeur ANRU au service renouvellement urbain durable |
+
+C |
 
 1 |
 
@@ -975,3 +977,5 @@ Conformément à l'article 1er de l'arrêté du 7 mai 2019, les dispositions dud
 Conformément à l'article 1er de l'arrêté du 2 février 2022 (NOR : TERK2203563A), la présente annexe est remplacée, à effet du 1er janvier 2021, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Meurthe-et-Moselle.
 
 Conformément à l'article 1 de l'arrêté du 27 avril 2022 (NOR : TERK2212913A), la présente annexe est remplacée, à effet du 1er janvier 2020, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la Haute-Marne.
+
+Conformément à l'article 1 de l'arrêté du 15 mars 2023 (NOR : TREK2307418A), la présente annexe est remplacée, à effet du 1er janvier 2020, pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement du Nord.
