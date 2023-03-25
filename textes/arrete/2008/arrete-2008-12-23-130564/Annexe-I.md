@@ -70,7 +70,7 @@ Responsable de l'atelier reprographie |
 
 Préfecture de Loir-et-Cher |
 
-Chef de l'équipe logistique |
+Maître d'hôtel de la résidence du préfet |
 
 1 |
 
@@ -180,25 +180,25 @@ d'emplois
 
 06 |
 
-SGAMI de la zone de défense et de sécurité Sud/ Nice/ BMM |
+SGAMI de la zone de défense et de sécurité Sud/ DEL/Nice/ BMM |
 
-Adjoint au chef de l'atelier |
-
-1 |
-
-13 |
-
-SGAMI de la zone de défense et de sécurité Sud/ Marseille |
-
-Adjoint au chef de l'atelier mécanique |
+Responsable réception de l'atelier automobile |
 
 1 |
 
 13 |
 
-SGAMI de la zone de défense et de sécurité Sud/ Marseille/ BMM |
+SGAMI de la zone de défense et de sécurité Sud/ DEL/ BMM/atelier Colomiers |
 
-Chef de l'atelier carrosserie-peinture |
+Responsable de l'atelier mécanique |
+
+1 |
+
+13 |
+
+SGAMI de la zone de défense et de sécurité Sud/ Del/ BMM/atelier Marseille/ secteur automobile |
+
+Responsable de l'atelier mécanique |
 
 1 |
 
@@ -222,7 +222,7 @@ Chef du secteur carrosserie peinture |
 
 Zone de défense et de sécurité IDF/ Melun |
 
-Adjoint au chef de l'atelier avancé |
+Chef d'équipe de la section 2 roues |
 
 1 |
 
@@ -244,7 +244,7 @@ Adjoint au chef de l'équipe "mécanique générale" |
 
 95 |
 
-Zone de défense et de sécurité IDF/ Taverny |
+Zone de défense et de sécurité IDF/ Boissy-l'Aillerie |
 
 Adjoint au chef de l'atelier avancé |
 
@@ -364,9 +364,9 @@ Responsable de l'atelier reprographie |
 
 75 |
 
-Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier/ BGSAC/ Beauvau |
+Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau |
 
-Responsable du pôle " manutention " |
+Responsable de l'intendance des appartements de fonction |
 
 1 |
 
@@ -380,9 +380,9 @@ Responsable de l'entretien et de la lingerie du site de Beauvau |
 
 75 |
 
-Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier/ BGSAC/ Beauvau |
+Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau |
 
-Adjoint au chef des ateliers |
+Chef des ateliers |
 
 1 |
 
@@ -401,7 +401,3 @@ Direction du numérique/ SDES/ CNPT/ Limoges |
 Adjoint au responsable de la cellule exploitation |
 
 1 |
-
-NOTA :
-
-Conformément au b) du 1° de l'article 1 de l'arrêté du 16 décembre 2022 (NOR : IOMA2229904A) ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -70,7 +70,7 @@ Chef de l'équipe logistique |
 
 Préfecture de l'Ardèche |
 
-Maître d'hôtel de la résidence du préfet |
+Chef de garage-chauffeur automobile gestionnaire parc automobile |
 
 1 |
 
@@ -102,7 +102,7 @@ Chef d'équipe technique et logistique |
 
 Secrétariat général commun de l'Aube |
 
-Chef de l'équipe logistique |
+Cuisinier-responsable de l'encadrement de l'hôtel du préfet de l'Aube |
 
 1 |
 
@@ -150,7 +150,7 @@ Chef de garage |
 
 Préfecture de la Charente |
 
-Chef du garage |
+Intendant des résidences du préfet |
 
 1 |
 
@@ -246,7 +246,7 @@ Chef de garage |
 
 Secrétariat général commun du Finistère |
 
-Chef de l'équipe du service intérieur |
+Chef de garage |
 
 1 |
 
@@ -412,7 +412,7 @@ Intendant de la résidence du préfet |
 
 46 |
 
-Secrétariat général commun du Lot |
+Préfecture du Lot |
 
 Chef du garage |
 
@@ -510,7 +510,7 @@ Chef de garage |
 
 Secrétariat général commun de la Moselle |
 
-Responsable de l'atelier reprographie |
+Assistant d'administration logistique |
 
 1 |
 
@@ -718,7 +718,7 @@ Chef du garage |
 
 Préfecture des Yvelines |
 
-Maître d'hôtel de la résidence du préfet |
+Conducteur de travaux-Contremaître |
 
 1 |
 
@@ -726,7 +726,7 @@ Maître d'hôtel de la résidence du préfet |
 
 Préfecture des Yvelines |
 
-Chef de l'équipe logistique |
+Chef de la régie travaux |
 
 1 |
 
@@ -742,7 +742,7 @@ Chef du garage |
 
 Secrétariat général commun de la Somme |
 
-Chef de l'équipe logistique |
+Responsable de l'atelier technique |
 
 1 |
 
@@ -862,7 +862,7 @@ Chef du garage |
 
 Préfecture de l'Essonne |
 
-Responsable de l'atelier reprographie |
+Responsable du standard téléphonique pour les services de l'État en Essonne |
 
 1 |
 
@@ -878,7 +878,7 @@ Chef de garage |
 
 Préfecture des Hauts-de-Seine |
 
-Maître d'hôtel de la résidence du préfet |
+Gestionnaire logistique chargé du suivi fonctionnel du budget et des moyens généraux |
 
 1 |
 
@@ -900,7 +900,7 @@ Chef d'atelier |
 
 93 |
 
-Secrétariat général commun de la Seine-Saint-Denis |
+Préfecture de la Seine-Saint-Denis |
 
 Adjoint au chef de garage |
 
@@ -942,7 +942,7 @@ Chef de l'équipe du service intérieur |
 
 Préfecture de Saint-Pierre-et-Miquelon |
 
-Responsable de l'atelier reprographie |
+Coordinateur des travaux de la régie |
 
 1 |
 
@@ -964,15 +964,19 @@ d'emplois
 
 13 |
 
-SGAMI de la zone de défense et de sécurité Sud/Marseille |
+SGAMI de la zone de défense et de sécurité Sud/ Del/ BMM/
 
-Adjoint au chef de l'équipe logistique |
+Atelier avancé Fos-sur-Mer |
+
+Responsable de l'atelier mécanique |
 
 1 |
 
 13 |
 
-SGAMI de la zone de défense et de sécurité Sud/Marseille |
+SGAMI de la zone de défense et de sécurité Sud/ Del/ BMM/
+
+Atelier Noilly Prat |
 
 Chef du garage |
 
@@ -1056,7 +1060,7 @@ Responsable réception à l'atelier auto |
 
 SGAMI de la zone de défense et de sécurité Est/ Metz |
 
-Chef du pôle logistique |
+Armurier logisticien |
 
 1 |
 
@@ -1120,7 +1124,7 @@ Adjoint au chef du service rapide de l'atelier de Saint-Fons |
 
 SGAMI de la zone de défense et de sécurité Nord/ Lille |
 
-Responsable de l'unité tôlerie légère-sellerie |
+Adjoint au responsable de la mécanique automobile |
 
 1 |
 
@@ -1160,7 +1164,7 @@ Responsable du service mines-externalisations |
 
 Zone de défense et de sécurité IDF/Préfecture de police/DOSTL/parc Sud (94) |
 
-Adjoint au chef du service électricité automobile |
+Adjoint au chef de la cellule externalisation |
 
 1 |
 
@@ -1200,7 +1204,7 @@ Adjoint au chef de cuisine |
 
 RZG IdF/ EOGN Melun Musée |
 
-Responsable du pôle surveillance, logistique et matériel |
+Adjoint au chef de section sécurité et logistique du musée de la GN |
 
 1 |
 
@@ -1224,7 +1228,7 @@ Chef de cuisine |
 
 RZG METZ/RG Bourgogne/CM Dijon |
 
-Chef de cuisine |
+Adjoint au chef cuisinier |
 
 1 |
 
@@ -1452,7 +1456,15 @@ Zone Sud-Ouest |
 
 École Nationale de la Police |
 
-Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer |
+
+1 |
+
+Zone Sud-Est |
+
+Sous-direction des méthodes et de l'appui à Clermont-Ferrand |
+
+Responsable d'atelier imprimerie |
 
 1 |
 
@@ -1568,12 +1580,8 @@ Responsable des véhicules spéciaux |
 
 77 |
 
-Direction des systèmes d'information et de communication/Lognes |
+Direction du Numérique/ Lognes |
 
-Responsable de la cellule "fabrication CNI" |
+Agent d'exploitation au CNPT Limoges |
 
 1 |
-
-NOTA :
-
-Conformément au c) du 1° de l'article 2 de l'arrêté du 16 décembre 2022 (NOR : IOMA2229904A) ces dispositions entrent en vigueur le 1er janvier 2023.
