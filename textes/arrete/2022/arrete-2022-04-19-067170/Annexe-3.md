@@ -32,9 +32,9 @@ Direct |
 
 1 600 |
 
-74,60% |
+74,60 % |
 
-25,40% |
+25,40 % |
 
 CSA de la direction interrégionale des services
 
@@ -50,9 +50,9 @@ Direct |
 
 2178 |
 
-35,98% |
+35,98 % |
 
-64,02% |
+64,02 % |
 
 CSA de la direction interrégionale des services
 
@@ -68,9 +68,9 @@ Direct |
 
 1868 |
 
-38,49% |
+38,49 % |
 
-61,51% |
+61,51 % |
 
 CSA de la direction interrégionale des services
 
@@ -86,9 +86,9 @@ Direct |
 
 2863 |
 
-32,00% |
+32,00 % |
 
-68,00% |
+68,00 % |
 
 CSA de la direction interrégionale des services
 
@@ -104,9 +104,9 @@ Direct |
 
 2633 |
 
-38,80% |
+38,80 % |
 
-61,20% |
+61,20 % |
 
 CSA de la direction interrégionale des services
 
@@ -122,9 +122,9 @@ Direct |
 
 2750 |
 
-37,54% |
+37,54 % |
 
-62,46% |
+62,46 % |
 
 CSA de la direction interrégionale des services
 
@@ -140,9 +140,9 @@ Direct |
 
 4712 |
 
-39,42% |
+39,42 % |
 
-60,58% |
+60,58 % |
 
 CSA de la direction interrégionale des services
 
@@ -158,9 +158,9 @@ Direct |
 
 3112 |
 
-38,67% |
+38,67 % |
 
-61,33% |
+61,33 % |
 
 CSA de la direction interrégionale des services
 
@@ -176,9 +176,9 @@ Direct |
 
 2684 |
 
-33,89% |
+33,89 % |
 
-66,11% |
+66,11 % |
 
 CSA de la direction interrégionale des services
 
@@ -194,15 +194,13 @@ Direct |
 
 1978 |
 
-36,26% |
+36,26 % |
 
-63,74% |
+63,74 % |
 
-CSA de la mission des services
+CSA de la
 
-pénitentiaires
-
-de l'outre-mer |
+direction des services pénitentiaires d'outre-mer |
 
 Direct |
 
@@ -212,9 +210,9 @@ Direct |
 
 53 |
 
-51,82% |
+51,82 % |
 
-48,18% |
+48,18 % |
 
 CSA départemental de Guadeloupe |
 
@@ -226,9 +224,9 @@ Direct |
 
 254 |
 
-41,07% |
+41,07 % |
 
-58,93% |
+58,93 % |
 
 CSA départemental de Guyane |
 
@@ -240,9 +238,9 @@ Direct |
 
 174 |
 
-40,61% |
+40,61 % |
 
-59,39% |
+59,39 % |
 
 CSA départemental de Martinique |
 
@@ -254,9 +252,9 @@ Direct |
 
 207 |
 
-43,75% |
+43,75 % |
 
-56,25% |
+56,25 % |
 
 CSA départemental de Mayotte |
 
@@ -268,9 +266,9 @@ Direct |
 
 149 |
 
-19,46% |
+19,46 % |
 
-80,54% |
+80,54 % |
 
 CSA départemental de la Réunion |
 
@@ -282,9 +280,9 @@ Direct |
 
 489 |
 
-28,40% |
+28,40 % |
 
-71,60% |
+71,60 % |
 
 CSA territorial de Nouvelle Calédonie |
 
@@ -296,9 +294,9 @@ Direct |
 
 170 |
 
-30,04% |
+30,04 % |
 
-69,96% |
+69,96 % |
 
 CSA territorial de la Polynésie Française |
 
@@ -310,6 +308,6 @@ Direct |
 
 346 |
 
-24,29% |
+24,29 % |
 
-75,71% |
+75,71 % |

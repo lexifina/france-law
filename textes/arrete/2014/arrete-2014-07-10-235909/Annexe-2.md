@@ -40,7 +40,7 @@ COMITÉS D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL DE PROXIMITÉ AD
 
 7° Outre les comités techniques visés au 1°, le comité d'hygiène, de sécurité et des conditions de travail départemental du Val-de-Marne (94) apporte son concours au comité technique suivant :
 
--comité technique spécial de la mission des services pénitentiaires de l'outre-mer ;
+-comité technique spécial de la direction des services pénitentiaires d'outre-mer ;
 
 8° Le comité d'hygiène, de sécurité et des conditions de travail territorial de la Polynésie française (987) apporte son concours aux comités techniques suivants :
 
