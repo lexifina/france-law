@@ -16,7 +16,7 @@
 
 3. Description des conditions d'exploitation du système.
 
-3.1. Principes, règles de conduite et de circulation.
+3.1. Principes, règles de conduite et de circulation, y compris les modalités d'application de l'article 8-1.
 
 3.2. Véhicules.
 

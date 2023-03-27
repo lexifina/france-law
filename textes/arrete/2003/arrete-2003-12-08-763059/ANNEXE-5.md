@@ -28,7 +28,7 @@ Contrôles effectués au commencement de chaque journée d'exploitation.
 
 Circulation normale :
 
-Consignes générales de circulation.
+Consignes générales de circulation. Ces consignes comprennent notamment les modalités d'application de l'article 10.
 
 Régimes de circulation.
 
