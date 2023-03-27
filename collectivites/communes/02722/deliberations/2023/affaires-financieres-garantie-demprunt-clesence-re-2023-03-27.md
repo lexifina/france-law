@@ -1,0 +1,9 @@
+# Soissons : délibération — Affaires Financières – Garantie d’emprunt – CLESENCE - Réaménagement dette - Garanties d'emprunt déjà accordées par la ville de Soissons – Emprunt Banque Postale
+
+- Collectivité : Soissons
+- SIREN : 210206959
+- Code INSEE : 02722
+- Date : 2023-03-27
+- Matière : AFFAIRES FINANCIERES
+- Objet : Affaires Financières – Garantie d’emprunt – CLESENCE - Réaménagement dette - Garanties d'emprunt déjà accordées par la ville de Soissons – Emprunt Banque Postale
+- Jeu de données : https://www.data.gouv.fr/datasets/68590887f33937e0a896ffac
