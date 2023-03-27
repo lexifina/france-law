@@ -1,0 +1,9 @@
+# CENTRE COMMUNAL D ACTION SOCIALE : délibération DELIB112023CCAS — D- RESIDENCE AUTONOMIE LES HERMELLES - COMPTABILISATION DES AMORTISSEMENTS 2022
+
+- Collectivité : CENTRE COMMUNAL D ACTION SOCIALE
+- SIRET : 26350242900016
+- Date : 2023-03-27
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : D- RESIDENCE AUTONOMIE LES HERMELLES - COMPTABILISATION DES AMORTISSEMENTS 2022
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/263502429/Deliberation/2023/373253/1bbab98f8109a1051b921f06705b87ef9734a68c8d60737b25ba427630c98c4f.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
