@@ -1,0 +1,9 @@
+# Réponse à la question n° 4402
+
+- Question : [4402](4402.md) — Question n° 4402 — Vote du compte administratif en cas de maire absent
+
+## Réponse
+
+*JO du 2023-03-28, page 2880*
+
+L'article L. 2121-14 du code général des collectivités territoriales (CGCT) dispose que « le conseil municipal est présidé par le maire et, à défaut, par celui qui le remplace. Dans les séances où le compte administratif du maire est débattu, le conseil municipal élit son président. Dans ce cas, le maire peut, même s'il n'est plus en fonction, assister à la discussion ; mais il doit se retirer au moment du vote ». En principe, la présidence des séances consacrées à l'examen du compte administratif du maire est confiée à un président ad hoc désigné par le conseil municipal ; ce dernier peut être réuni ultérieurement dans l'hypothèse où le maire ne se serait pas retiré au moment du vote ou aurait présidé la séance (CE, 22 mars 1996, Commune de Puymirol, n° 115127). En cas d'absence, de suspension, de révocation ou de tout autre empêchement, l'article L. 2122-17 du CGCT précise que « le maire est provisoirement remplacé, dans la plénitude de ses fonctions, par un adjoint, dans l'ordre des nominations et, à défaut d'adjoint, par un conseiller municipal désigné par le conseil ou, à défaut, pris dans l'ordre du tableau ». L'expression « dans la plénitude de ses fonctions » signifie que l'adjoint remplace le maire pour les fonctions qu'il exerce au nom de la commune ou de l'Etat (CE, 18 juin 1969, Époux Mercier et autres, n° 73425, 73426), et ce, dans toutes ses attributions (CE, 25 juill. 1986, Élection du maire de Clichy, n° 67767). En revanche, seuls doivent être accomplis par le suppléant les actes « dont l'accomplissement s'impose normalement » (CE, 20 janv. 1926, Lajous, Lebon 98). Sous réserve de l'appréciation souveraine du juge, l'article L. 2122-17 précité implique que le suppléant du maire doit se retirer lors du vote du compte administratif du maire.
