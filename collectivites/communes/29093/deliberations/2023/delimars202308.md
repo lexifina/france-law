@@ -1,0 +1,10 @@
+# COMMUNE DE KERNILIS : délibération DELIMARS202308 — RENOVATION DE LA SALLE OMNISPORTS DEMANDE DE FONDS DE CONCOURS COMMUNAUTAIRE
+
+- Collectivité : COMMUNE DE KERNILIS
+- SIRET : 21290093000018
+- Code INSEE : 29093
+- Date : 2023-03-28
+- Matière : 7.8 Finances locales/Fonds de concours
+- Objet : RENOVATION DE LA SALLE OMNISPORTS DEMANDE DE FONDS DE CONCOURS COMMUNAUTAIRE
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212900930/Deliberation/2023/380718/aa0aa96d27d6512d006f4c71b406218b3a74b2ee3393a5990122c277833114ee.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
