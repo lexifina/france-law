@@ -1,0 +1,29 @@
+# Réponse à la question n° 249
+
+- Question : [249](249.md) — Question n° 249 — Réhabilitation du CHRU de Nancy à Brabois
+
+## Réponse
+
+*JO du 2023-03-29, page 3137*
+
+CHRU DE NANCY
+
+M. le président. La parole est à M. Emmanuel Lacresse, pour exposer sa question, n° 249, relative au CHRU de Nancy.
+
+M. Emmanuel Lacresse. Avant la fin de la décennie, la France aura reconstruit les grands immeubles des centres hospitaliers régionaux universitaires (CHRU) prévus par le plan Debré de 1958. Vous aurez donné un nouveau visage à ces lieux essentiels au triomphe de la science, aux moments forts de la vie familiale, à l’unité des métropoles universitaires et des régions qui les entourent.
+
+Près de Nancy, le plateau de Brabois constitue ainsi, depuis 1975, l'épicentre du développement de la métropole lorraine. Grâce à l'exceptionnelle concentration des talents, le CHRU de Nancy, doté de trente spécialités, 9 000 emplois et 1 300 étudiants, est classé cinquième des cinquante meilleurs hôpitaux français ; le projet d'institut hospitalo-universitaire de l'intestin n'attend qu'une validation pour s'inscrire dans la dynamique qu'il suscite déjà. Un budget de 420 millions d’euros, avec reprise de dette de 128 millions, a été annoncé le 19 mars 2021, en pleine crise sanitaire – tous se rappellent les circonstances de l'époque. Les documents prévoient un pôle des urgences pour 2025, et le schéma directeur immobilier décrit une réaffectation ambitieuse des emprises de l’hôpital central, situées depuis le XIXe siècle au cœur de Nancy.
+
+Ma question concerne le processus de conception du nouvel hôpital, celui-ci faisant également office de centre universitaire régional depuis la fondation en 1598 de la faculté de médecine. Les Nancéiens, madame la ministre déléguée chargée des personnes handicapées, sont reconnaissants à l'État d'avoir lancé une concertation ; ils souhaitent connaître rapidement les orientations administratives concernant les principaux enjeux de ce gigantesque puzzle, notamment savoir si la réhabilitation du bâtiment Philippe-Canton interviendra avant la deuxième phase du projet, et à quelle date cessera d'être utilisée la barre qui domine notre ville – comme d'autres villes françaises – depuis maintenant cinquante ans.
+
+En effet, le projet prévoit surtout une vaste déconstruction : le préfet a rallié les collectivités, au sein d'un groupement d’intérêt public (GIP), afin de dessiner un nouvel échangeur autoroutier allant de la patte-d’oie de Ludres à l’entrée de l’A31 dans Laxou. Le ministre délégué chargé des transports, Clément Beaune, est récemment venu à Nancy, pleinement conscient de cet objectif. Cependant, nous donnerez-vous l'assurance que l’accès à Brabois constitue une priorité d’investissement nationale ?
+
+M. le président. La parole est à Mme la ministre déléguée chargée des personnes handicapées.
+
+Mme Geneviève Darrieussecq, ministre déléguée chargée des personnes handicapées. De manière générale, la bonne desserte des hôpitaux et des lieux d’accès à la santé constitue un enjeu majeur de santé publique ; à ce titre, l’accessibilité du futur complexe hospitalier nancéien, qui ne se limite pas au seul aspect routier, doit être optimale. L'État a donc initié dans le bassin de vie de Nancy une démarche partenariale et multimodale, sollicitant les collectivités locales qui interviennent en matière de mobilité pour étudier avec elles, dans le respect des compétences de chacune, des solutions alternatives permettant de répondre aux enjeux. Cette démarche a vocation à se prolonger dans le cadre d’un GIP, dont le CHRU aura le statut de membre associé.
+
+La construction du CHRU dans le secteur de Brabois, en bordure de l'autoroute A33, figure au premier rang des projets pris en compte dans le cadre de cette démarche. Cette implantation, qui augmentera les besoins de déplacements, nécessite en effet une desserte multimodale efficace ainsi qu'une optimisation des aménagements routiers. Les résultats d'une première étude, lancée par l'État, seront présentés prochainement dans le cadre du comité de pilotage mis en place par le préfet. Cette étude vise à identifier, en tenant compte des projets d'aménagement et des politiques de transport locales bien entendu – il faut en effet que tout soit coordonné –, les points de congestion existants ou à venir sur le réseau routier et à proposer de premiers scénarios d'aménagement. Elle permettra d'engager les échanges sur les aménagements éventuellement nécessaires dans l'agglomération, y compris au droit de l'échangeur de Brabois. L'étude est en cours et la présentation de ses résultats, particulièrement importants, devrait intervenir très prochainement. Vous y serez sans aucun doute associé, monsieur le député.
+
+M. le président. La parole est à M. Emmanuel Lacresse.
+
+M. Emmanuel Lacresse. Je vous remercie, madame la ministre déléguée, pour votre réponse très détaillée, qui témoigne de l'engagement de l'État. L'année 2028 sera cruciale pour le projet, ce qui implique que des orientations soient données assez rapidement. Vous témoignez, sur ce point clé, de la façon dont les choses sont prises au sérieux. Le CHRU de Nancy-Brabois est plus qu'une fierté régionale : il marque un tournant pour notre État-providence, qui aborde de nouvelles décennies. Toutes les communes qui se trouvent au pied du plateau connaissent un changement démographique majeur. La prise en charge des aînés, qui devient une priorité absolue, fait partie des éléments pris en compte dans la conception du nouvel hôpital. Il me semble à cet égard qu'à l'occasion de la reconstruction de l'hôpital, et comme vous l'avez souligné au sujet de l'échangeur, les maires doivent être pleinement associés à la prise en compte des autres aspects de la vie des aînés, notamment à l'exercice de reconception de la chaîne de soins.
