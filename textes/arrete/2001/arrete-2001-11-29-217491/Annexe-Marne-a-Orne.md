@@ -758,6 +758,604 @@ C |
 
 15 |
 
+Création d'emploi éligible à la nouvelle bonification indiciaire au titre de la politique de la ville au sein de la direction départementale des territoires et de la mer du Nord
+
+Catégorie |
+
+Nombre
+
+d'emplois |
+
+Nombres de points attribués |
+
+Désignation de l'emploi |
+
+Date d'effet |
+
+A |
+
+1 |
+
+30 |
+
+Chef du service renouvellement urbain durable |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef de projet référent habitat à la mission métropole |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+26 |
+
+Chef du service habitat |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chargé de mission politiques locales habitat au sein du service habitat |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef d'unité lutte contre l'habitat indigne au service habitat |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+29 |
+
+Chef d'unité financements parc privé au service habitat |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef d'unité suivi HLM au service habitat |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chargé de mission accompagnement au service renouvellement urbain durable |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef d'unité habitat logement au service territorial centre |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+25 |
+
+Adjoint au chef du service renouvellement urbain durable |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef de projet référent requalification urbaine à la mission métropole |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef d'unité financement logement social au service habitat |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chargé de mission politiques d'attribution au service habitat |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef d'unité droit au logement au service habitat |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef d'unité d'instruction ANRU au service renouvellement urbain durable |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef d'unité habitat logement au service territorial du Hainaut |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chargé de mission ville durable au service renouvellement urbain durable |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef d'unité projet de renouvellement urbain au service renouvellement urbain durable |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Responsable du CTT d'Avesnes au service habitat-site Avesnes |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Adjoint au chef d'unité financement du logement social au service de l'habitat |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Référent projet ANRU au service renouvellement urbain durable |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Instructeur ANRU au service renouvellement urbain durable |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Responsable du CTT de Douai au service habitat |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Adjoint au chef d'unité instruction ANRU au service renouvellement urbain durable |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Chef de pôle projets MEL CUD au service renouvellement urbain durable |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Chef du pôle projets sud au service renouvellement urbain durable |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Instructeur ANRU au service renouvellement urbain durable |
+
+01/01/2020 |
+
+B |
+
+3 |
+
+15 |
+
+Référents projet ANRU au service renouvellement urbain durable |
+
+01/01/2020 |
+
+C |
+
+1 |
+
+15 |
+
+Instructeur ANRU au service renouvellement urbain durable |
+
+01/01/2020 |
+
+Suppression d'emploi éligible à la nouvelle bonification indiciaire au titre de la politique de la ville au sein de la direction départementale des territoires et de la mer du Nord
+
+Catégorie |
+
+Nombre
+
+d'emplois |
+
+Nombres de points attribués |
+
+Désignation de l'emploi |
+
+Date d'effet |
+
+A |
+
+1 |
+
+25 |
+
+Adjoint au chef du service aménagement ville renouvellement urbain |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef de l'unité instruction administrative et financière-service aménagement ville renouvellement urbain |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef de l'unité volet social des projets de rénovation urbaine-service aménagement ville renouvellement urbain |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Référent composition urbaine-service aménagement ville renouvellement urbain |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Référent programme national de requalification des quartiers anciens dégradés et aménagement-service aménagement ville renouvellement urbain |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Responsable de projets ANRU en charge de l'élaboration de méthodologies-service aménagement ville renouvellement urbain |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef de l'unité suivi des organismes HLM-service habitat |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef de l'unité droit au logement-éradication habitat indigne-service habitat |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+29 |
+
+Chef de l'unité parc privé-service habitat |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef de l'unité parc social-service habitat |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+25 |
+
+Adjoint au responsable de la délégation territoriale des Flandres |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+25 |
+
+Chef de l'unité habitat aménagement constructions durables-délégation territoriale des Flandres |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Adjoint au responsable de la délégation territoriale de Lille |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef de l'unité habitat renouvellement urbain-délégation territoriale de Lille |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Adjoint au responsable de la délégation territoriale Douaisis et Cambrésis |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef de l'unité habitat ville-délégation territoriale Douaisis et Cambrésis |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef de l'unité habitat ville-délégation territoriale de l'Avesnois |
+
+01/01/2020 |
+
+A |
+
+1 |
+
+20 |
+
+Chef de l'unité logement construction ville-délégation territoriale du Valenciennois |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Adjoint au chef de l'unité instruction administrative et financière, en charge du suivi de l'activité et instruction financière-service aménagement ville renouvellement urbain |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Adjoint au responsable de projets ANRU-service aménagement ville renouvellement urbain |
+
+01/01/2020 |
+
+B |
+
+4 |
+
+15 |
+
+Instructeur de subventions ANRU-service aménagement ville renouvellement urbain |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Chargé de mission logement aide durable-service habitat |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Chef du pôle DALO-plan départemental d'actions pour le logement des personnes défavorisées-délégation territoriale des Flandres |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Chargé d'études observations et suivi d'activité du peuplement-délégation territoriale de Lille |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Chef du pôle DALO-plan départemental d'actions pour le logement des personnes défavorisées-délégation territoriale de Lille |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Chargé d'études habitat ville-délégation territoriale de l'Avesnois |
+
+01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Chargé de mission DALO-plan départemental d'actions pour le logement des personnes défavorisées-logement et habitat privé-délégation territoriale du Valenciennois |
+
+01/01/2020 |
+
+C |
+
+1 |
+
+15 |
+
+Instructeur de subvention ANRU-service aménagement ville renouvellement urbain |
+
+01/01/2020 |
+
 Direction départementale de la cohésion sociale du Nord
 
 FONCTIONS EXERCÉES
