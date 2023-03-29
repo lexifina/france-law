@@ -1,0 +1,11 @@
+# COMMUNE DE SAINT BROLADRE : délibération DELIB19CORRIGEE — D- COMPTE ADMINISTRATIF - DELIBERATION QUI REMPLACE ET ANNULE LA PRECEDENTE - CORRECTION SUR LE NOMBRE DE PRESENTS ET VOTANTS
+
+- Collectivité : COMMUNE DE SAINT BROLADRE
+- SIRET : 21350259400012
+- Code INSEE : 35259
+- Date : 2023-03-29
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : D- COMPTE ADMINISTRATIF - DELIBERATION QUI REMPLACE ET ANNULE LA PRECEDENTE - CORRECTION SUR LE NOMBRE DE PRESENTS ET VOTANTS
+- Transmis à la préfecture : 2023-09-27 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213502594/Deliberation/2023/482195/aa71fd28c38da4f4a7e43f0d0a81e9fbda1c0fde3b3cfa5c57f0222ee2b09fde.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
