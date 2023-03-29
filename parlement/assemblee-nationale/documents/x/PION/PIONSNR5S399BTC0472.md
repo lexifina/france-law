@@ -1,0 +1,11 @@
+# proposition de loi constitutionnelle sur la proposition de loi constitutionnelle de M. Éric Kerrouche visant à créer une loi de financement des collectivités territoriales et de leurs groupements et à garantir la compensation financière des transferts de compétences (869).
+
+- Type : Proposition de loi
+- Sous-type : constitutionnelle
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : visant à créer une loi de financement des collectivités territoriales et de leurs groupements et à garantir la compensation financière des transferts de compétences
+- Déposé le : 2023-03-29
+- Dossier : DLR5L16N46133
+- Auteurs : Mme Agnès Canayer (rapporteur), Commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale
+- Identifiant : PIONSNR5S399BTC0472
