@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230205133
+
+- Question : [SEQ230205133](seq230205133.md) — Président de syndicat scolaire privé de sa délégation communale au sein du syndicat scolaire
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-03-30, page 2191*
+
+Le syndicat intercommunal à vocation scolaire est un syndicat intercommunal de droit commun qui, comme le prévoit l'article L. 5212-1 du code général des collectivités territoriales (CGCT), "[associe]des communes en vue d'œuvres ou de services d'intérêt intercommunal". L'article L. 5212-7 du CGCT précise que "chaque commune est représentée dans le comité par deux délégués titulaires. [...] Le choix du conseil municipal peut porter uniquement sur l'un de ses membres ». L'article L. 5211-2 du CGCT renvoie, pour l'élection du président d'un établissement public de coopération intercommunale (EPCI), aux règles applicables au maire et aux adjoints. Il résulte de la combinaison des articles L. 2121-33 et L. 5211-8 du CGCT que le conseil municipal peut procéder à tout moment au remplacement d'un délégué non démissionnaire auprès d'un syndicat intercommunal. A cet égard, le Conseil d'Etat indique que cette nouvelle désignation intervient lorsque le contexte politique local ou l'intérêt communal le justifie (CE, 5 juill. 2013, Commune d'Issoire, n° 363653). Le remplacement d'un délégué non démissionnaire par la commune dont il est issu n'est donc possible qu'à l'initiative du conseil municipal, et non du maire, et sous réserve de justifier d'un contexte politique local ou d'un intérêt communal. En dehors de cette faculté dont dispose le conseil municipal, la fin du mandat de délégué ne peut intervenir qu'en cas de démission de ce mandat ou en cas de fin du mandat de conseiller municipal, qu'elle résulte d'une annulation de l'élection ou d'une démission volontaire ou d'office.
