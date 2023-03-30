@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230104669
+
+- Question : [SEQ230104669](seq230104669.md) — Bénéfice du bouclier tarifaire pour les collectivités territoriales
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-03-30, page 2181*
+
+Pour aider les collectivités locales à faire face aux effet de la hausse des prix de l'énergie, le Gouvernement a mis en œuvre un ensemble inédit de mesures, tant pour garantir l'équilibre de leur section de fonctionnement que pour soutenir leur projet d'investissement en faveur notamment de la transition écologique et la rénovation énergétique de leurs bâtiments. Le bouclier tarifaire bénéficie aux collectivités territoriales employant moins de 10 ETP et disposant de moins de 2 millions de recettes conformément à l'article L337-3 du Code de l'énergie et à l'article 181 de la loi de finances pour 2023. Pour elles, le tarif règlementé de vente d'électricité (TRVe) permet de plafonner à 4 % la hausse du prix de l'électricité en 2022 et à 15 % en 2023. La révision des critères d'éligibilité au bouclier tarifaire n'est pas nécessaire. En effet, les autres collectivités et groupements qui ne sont pas éligibles aux TRVe bénéficient du dispositif de l'amortisseur électricité prévu à l'article 181 de loi de finances pour 2023. Ce soutien automatique directement appliqué par le fournisseur d'électricité conduit l'État à prendre à sa charge, sur 50 % des volumes consommés, hors coûts d'acheminement et hors taxes, la part comprise entre 180 €/MWh et 500 € /MWh. Il s'applique à l'ensemble des contrats de fourniture conclus au titre de l'année 2023, y compris ceux signés avant la promulgation de la loi de finances. Les conditions d'éligibilité et de mise en œuvre du dispositif sont précisées par le décret n° 2022-1774 du 31 décembre 2022. Celui-ci prévoit une éligibilité sans condition de masse salariale ou d'activité économique.
