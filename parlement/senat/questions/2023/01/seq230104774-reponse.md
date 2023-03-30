@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230104774
+
+- Question : [SEQ230104774](seq230104774.md) — Rapatriement des enfants de djihadistes français
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2023-03-30, page 2209*
+
+Tous les services de l'État concernés sont mobilisés pour suivre les ressortissants français qui se trouvent actuellement détenus ou retenus dans le Nord-Est syrien. Des personnes adultes, hommes et femmes, ont pris la décision de rejoindre Daech et de se battre dans une zone de guerre. Il convient, dans ce contexte, d'assurer la lutte contre l'impunité des crimes commis par les combattants de Daech qui doivent être jugés au plus près des lieux où ils ont perpétré leurs crimes. C'est à la fois une question de sécurité et un devoir de justice à l'égard des victimes. Cette position est étroitement concertée avec nos partenaires européens également concernés. La France s'est toujours efforcée de prendre en compte l'intérêt supérieur des enfants qui, à la différence de leurs parents, n'ont pas choisi de rejoindre l'Irak et la Syrie ni de rejoindre la cause d'une organisation terroriste. Rapatrier ces enfants est une priorité. Lorsque ce rapatriement implique celui de la mère de l'enfant et que cette dernière y consent en toute connaissance de cause, il est également procédé au rapatriement de la mère. Certaines refusent de revenir en France, même si cela implique le maintien de leur enfant dans le Nord-Est syrien. Les opérations de rapatriement sont extrêmement difficiles à mener, car il s'agit d'une zone de guerre, encore très dangereuse, sur laquelle l'État français n'exerce aucun contrôle effectif. Des opérations sont cependant organisées dès que les conditions le permettent. Depuis 2019, l'État a ainsi procédé à des opérations de rapatriement qui ont permis le retour, à ce jour, de 144 enfants français (et 2 néerlandais). La dernière opération a eu lieu le 24 janvier 2023.
