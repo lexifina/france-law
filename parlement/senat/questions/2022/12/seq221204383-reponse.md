@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204383
+
+- Question : [SEQ221204383](seq221204383.md) — Précisions sur les délégations de pouvoir au président du conseil départemental
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-03-30, page 2176*
+
+Une collectivité territoriale peut, dans le cadre de l'exercice de ses compétences, être amenée à conclure des conventions en vue de céder ou d'acquérir des droits d'auteur sur une œuvre. Il résulte de l'article L. 131-2 du code de la propriété intellectuelle que les contrats par lesquels sont transmis des droits d'auteur, qu'il s'agisse de contrats de représentation, d'édition ou de production audiovisuelle, doivent être constatés par écrit. La signature des contrats de cession de droits d'auteur ne figure pas, au titre de l'article L. 3211-2 du code général des collectivités territoriales (CGCT), parmi les compétences pouvant être déléguées par le conseil départemental à son président. En application de l'article L. 3221-11 du CGCT, le président du conseil départemental peut, par délégation du conseil départemental, « prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés et des accords-cadres, ainsi que toute décision concernant leurs avenants, lorsque les crédits sont inscrits au budget ». Aussi, lorsque la cession de droits d'auteur fait l'objet de clauses spécifiques d'un marché public, le président du conseil départemental peut bénéficier d'une délégation au titre de l'article L. 3221-11 du CGCT. Toutefois, en dehors de cette hypothèse spécifique, il ne résulte d'aucune disposition législative ou règlementaire que la signature d'une convention de cession de droits d'auteur puisse être déléguée par le conseil départemental à son président. Il ne peut en effet y avoir de délégation en l'absence de texte le prévoyant explicitement (CE, 25 fév. 1949, Roncin, Lebon 92).
