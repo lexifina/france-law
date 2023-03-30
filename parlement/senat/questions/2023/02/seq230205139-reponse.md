@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230205139
+
+- Question : [SEQ230205139](seq230205139.md) — Mentions et articles obligatoires dans les statuts du syndicat scolaire
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-03-30, page 2193*
+
+Le syndicat scolaire ne constitue pas, en tant que tel, une catégorie juridique autonome. Il relève de la catégorie des syndicats intercommunaux (qui peuvent être à vocation unique ou multiple, selon qu'ils exercent une ou plusieurs compétences). A ce titre, il est soumis aux dispositions applicables aux établissements publics de coopération intercommunale (articles L. 5211-1 et suivants du code général des collectivités territoriales - CGCT) et aux dispositions applicables aux syndicats intercommunaux (articles L. 5212-1 et suivants du même code). L'article L. 5211-5-1 du CGCT prévoit que les statuts d'un établissement public de coopération intercommunale doivent mentionner la liste des communes membres de l'établissement, le siège de celui-ci, ainsi que les compétences qui lui sont transférées. Lorsque le syndicat est créé pour une période limitée, les statuts doivent également mentionner cette durée. Un syndicat créé en 1970 était soumis à des obligations similaires. L'article 141 du code de l'administration communale applicable à cette date prévoyait en effet que la création d'un syndicat pouvait être autorisée par le préfet ou le ministre de l'Intérieur lorsque les communes avaient manifesté par des délibérations la volonté de s'associer en vue d'une oeuvre ou d'un service d'utilité commune. Par construction, la décision institutive devait donc mentionner les communes concernées et l'oeuvre commune pour laquelle le syndicat était constitué. Par ailleurs, l'article 145 du même code prévoyait que la commune siège du syndicat soit fixée dans cette même décision institutive.
