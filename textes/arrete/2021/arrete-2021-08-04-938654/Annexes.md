@@ -11,3 +11,7 @@ Conformément aux articles 2 à 7 de l'arrêté du 6 avril 2022 (NOR : LOGL21232
 Conformément à l'article 2 de l’arrêté du 20 octobre 2022 (NOR : TREL2223870A), le tableau à la fin de l'annexe II est remplacé. Conformément à l’article 3 de l’arrêté du 20 octobre 2022 (NOR : TREL2223870A), ces dispositions entrent en vigueur au 1er novembre 2022.
 
 Conformément aux articles 6 et 7 de l'arrêté du 22 décembre 2022 (NOR : TREL2221080A), les annexes II et III sont modifiées.
+
+Conformément au IV de l'article 4 de l'arrêté du 1er février 2023 (NOR : TREL2218747A), la partie 16 de l'annexe III est complétée par l'annexe à l'arrêté précité. Vous pouvez consulter l'intégralité du texte avec ses images à partir du Bulletin officiel du ministère de la transition écologique et de la cohésion des territoires, accessible à l'adresse suivante : https://www.bulletin-officiel.developpement-durable.gouv.fr/notice?id=Bulletinofficiel-0032859&reqId=2f61da62-a48e-4a2b-9286-628acf7ec8f7&pos=1.
+
+Conformément au V de l'article 4 de l'arrêté du 1er février 2023 (NOR : TREL2218747A), l'annexe X est modifiée.
