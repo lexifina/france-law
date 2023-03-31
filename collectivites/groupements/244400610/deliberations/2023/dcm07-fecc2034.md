@@ -1,0 +1,10 @@
+# LA BAULE : délibération DCM07 — Attribution d'une subvention d'investissement à la Société des concours hippiques de La Baule
+
+- Collectivité : LA BAULE
+- SIREN : 244400610
+- Date : 2023-03-31
+- Matière : 7.5 Finances locales,Subventions
+- Objet : Attribution d'une subvention d'investissement à la Société des concours hippiques de La Baule
+- Transmis à la préfecture : 2023-03-31
+- Acte publié : https://opendata.cap-atlantique.fr:4333/diffusion\delib\44055/fichier/99_de-mlb_dcm07_del_subventsteconcourshippiq_20230331.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5cb490839ce2e71686bc8899
