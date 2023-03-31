@@ -52,6 +52,18 @@ c) Les dispositions du paragraphe 11.4.1.2 et 11.4.2.4 des PANS-ATM de l'OACI, d
 
 Note. - Le format et l'emploi des messages de mouvement, de coordination et des messages complémentaires sont détaillés dans les publications d'information aéronautique (AIP), dans la partie ENR 1.11 - Acheminement des plans de vol.
 
+4) Coordination entre les autorités de la défense et les services de la circulation aérienne
+
+a) Les autorités des services de la circulation aérienne établissent et maintiennent une étroite coopération avec les autorités de la défense dont relèvent des activités qui peuvent affecter des vols d'aéronefs en CAG ;
+
+b) Les autorités des services de la circulation aérienne établissent conjointement avec les autorités de la défense des dispositions écrites afin que les renseignements nécessaires à l'accomplissement sûr et rapide des vols d'aéronefs en CAG soient échangés promptement entre les organismes des services de la circulation aérienne et les organismes militaires appropriés. Les organismes des services de la circulation aérienne fournissent aux organismes militaires appropriés, de façon régulière ou sur demande, selon des procédures adoptées sur le plan local, les plans de vol et autres données pertinentes relatives aux vols d'aéronefs en CAG. Afin d'éliminer ou de réduire la nécessité d'une interception, les autorités des services de la circulation aérienne désignent les zones ou routes où les dispositions des règles de l'air concernant les plans de vol, les communications bilatérales et les comptes rendus de position s'appliquent à tous les vols afin d'assurer que toutes les données pertinentes soient disponibles aux organismes appropriés des services de la circulation aérienne, dans le but précis de faciliter l'identification des aéronefs en CAG.
+
+Note.-Des exigences supplémentaires relatives à la coordination entre les autorités de la défense et les services de la circulation aérienne sont établies par l'article 3 ter du règlement d'exécution (UE) 2017/373 susvisé.
+
+5) Diffusions du service automatique d'information de région terminale par liaison vocale (ATIS-voix)
+
+Le message ATIS-voix diffusé ne dépasse pas, si possible, 45 secondes, et l'on veille à ce que la lisibilité du message ATIS ne soit pas affectée par la rapidité de la transmission ou par le signal d'identification d'une aide à la navigation utilisée pour la transmission des messages ATIS. Le message ATIS diffusé tient compte des performances humaines.
+
 Partie 2 : Service du contrôle de la circulation aérienne
 
 1. Procédures d'approche initiale et d'approche intermédiaire lors d'un guidage
