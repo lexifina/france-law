@@ -1,0 +1,229 @@
+# Article 1er
+
+L'article 5 « Cotisations » est modifié comme suit :
+
+« Le taux global de cotisation est fixé à :
+
+• Personnel non-cadre :
+
+0,85 % de la tranche 1 et 0,85 % de la tranche 2, dans la limite de 4 PASS.
+
+• Personnel cadre :
+
+1,60 % de la tranche 1 et 1,60 % de la tranche 2, dans la limite de 4 PASS.
+
+Il est réparti de la façon suivante :
+
+Personnel non-cadre :
+
+|
+
+Cotisation totale |
+
+À la charge de l'employeur |
+
+À la charge du salarié |
+
+T1 – T2 dans la limite de 4 PASS |
+
+T1 – T2 dans la limite de 4 PASS |
+
+T1 – T2 dans la limite de 4 PASS |
+
+Décès |
+
+0,09 % |
+
+0,08 % |
+
+0,01 % |
+
+Rente éducation |
+
+0,07 % |
+
+0,06 % |
+
+0,01 % |
+
+Obsèques |
+
+0,02 % |
+
+0,02 % |
+
+0 % |
+
+Maintien de salaire au 31e jour |
+
+0,08 % |
+
+0,08 % |
+
+0 % |
+
+Incapacité de travail en relais |
+
+0,36 % |
+
+0 % |
+
+0,36 % |
+
+Invalidité |
+
+0,23 % |
+
+0,22 % |
+
+0,01 % |
+
+Total |
+
+0,85 % |
+
+0,46 % |
+
+0,39 % |
+
+Personnel cadre :
+
+|
+
+Cotisation totale |
+
+À la charge de l'employeur |
+
+À la charge du salarié |
+
+T1 |
+
+T1 |
+
+T1 |
+
+Décès |
+
+0,53 % |
+
+0,53 % |
+
+0 % |
+
+Rente éducation |
+
+0,16 % |
+
+0,16 % |
+
+0 % |
+
+Rente de conjoint |
+
+0,11 % |
+
+0,11 % |
+
+0 % |
+
+Maintien de salaire au 31e jour |
+
+0,11 % |
+
+0,11 % |
+
+0 % |
+
+Incapacité de travail en relais |
+
+0,32 % |
+
+0,32 % |
+
+0 % |
+
+Invalidité |
+
+0,37 % |
+
+0,37 % |
+
+0 % |
+
+Total |
+
+1,60 % |
+
+1,60 % |
+
+0 % |
+
+|
+
+Cotisation totale |
+
+À la charge de l'employeur |
+
+À la charge du salarié |
+
+T2 dans la limite de 4 PASS |
+
+T2 dans la limite de 4 PASS |
+
+T2 dans la limite de 4 PASS |
+
+Décès |
+
+0,45 % |
+
+0,35 % |
+
+0,10 % |
+
+Rente éducation |
+
+0,16 % |
+
+0,11 % |
+
+0,05 % |
+
+Rente de conjoint |
+
+0,11 % |
+
+0,08 % |
+
+0,03 % |
+
+Maintien de salaire au 31e jour |
+
+0,11 % |
+
+0,11 % |
+
+0 % |
+
+Incapacité de travail en relais |
+
+0,37 % |
+
+0 % |
+
+0,37 % |
+
+Invalidité |
+
+0,40 % |
+
+0,24 % |
+
+0,16 % |
+
+Total |
+
+1,60 % |
+
+0,89 % |
+
+0,71 % |
