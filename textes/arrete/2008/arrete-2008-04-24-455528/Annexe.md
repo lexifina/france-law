@@ -302,10 +302,6 @@ Régularisation, rectification d'erreur matérielle, requête en relevé de déc
 
 78 |
 
-Enregistrement et gardiennage ou prorogation de gardiennage d'enveloppe spéciale |
-
-15 |
-
 6. Redevance commune aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels, marques, dessins et modèles - palmarès et récompenses |
 
 |
@@ -474,4 +470,4 @@ Demande de modification du cahier des charges homologué |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 6 mars 2020, ces dispositions entrent en vigueur le 1er avril 2020. Toutefois, sauf disposition contraire prévue dans les lois et décrets en vigueur, lorsqu'une notification ou un avertissement adressé avant l'entrée en vigueur du présent arrêté porte sur une redevance d'un montant inférieur à celui prévu par le présent arrêté, le montant en vigueur antérieurement continue à s'appliquer à cette notification ou à cet avertissement.
+Conformément à l'article 3 de l'arrêté du 24 mars 2023 (NOR : ECOI2234882A), ces dispositions entrent en vigueur le 1er avril 2023. Les dessins, modèles ou représentations graphiques qui se trouvent dans une enveloppe double spéciale mise à disposition par l'Institut national de la propriété industrielle avant le 1er avril 2023 et transmise à celui-ci au plus tard le 1er avril 2024, en vue d'assurer une date de priorité de création, en application de l'article R. 511-6 dans sa rédaction applicable avant l'entrée en vigueur du décret n° 2023-166 du 7 mars 2023, demeurent régis par les dispositions de l'arrêté du 24 avril 2008 relatif aux redevances de procédures perçues par l'Institut national de la propriété industrielle, dans sa rédaction antérieure à celle résultant dudit arrêté.
