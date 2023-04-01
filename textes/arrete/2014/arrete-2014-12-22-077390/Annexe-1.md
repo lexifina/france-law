@@ -44,6 +44,8 @@ Conformément à l'article 2 de l'arrêté du 24 juillet 2020 (NOR : TRER2020386
 
 - Stop & Start pour véhicules agricoles à moteur / Fiche d'opération n° AGRI-EQ-105
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° AGRI-EQ-105 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Régulation de la ventilation des silos et des installations de stockage en vrac de céréales / Fiche d'opération standardisée n° AGRI-EQ-106
 
 - Isolation des parois de serre / Fiche d'opération n° AGRI-EQ-107
@@ -69,6 +71,8 @@ Conformément à l'article 2 de l'arrêté du 2 juin 2016 (NOR : DEVR1611811A), 
 Conformément à l'article 4 de l'arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la fiche d’opération standardisée portant la référence AGRI-SE-101 figurant à l’annexe 1 de l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie est remplacée par la version figurant à l’annexe 4 du présent arrêté portant la même référence.
 
 Conformément à l'article 2 de l'arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d'opération n° AGRI-SE-101 remplace, à compter du 1er avril 2022, la fiche portant la même référence figurant en annexe 1 de l'arrêté du 22 décembre 2014 susvisé.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° AGRI-SE-101 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 Liens
 
@@ -127,3 +131,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0294 du 24/12/2014, texte nº 18
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Conformément à l'article 2 de l’arrêté du 18 mars 2023 (NOR : ENER2303227A), ces dispositions entrent en vigueur à compter du 1er avril 2023.

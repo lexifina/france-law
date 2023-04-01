@@ -6,21 +6,31 @@ Secteur transport
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-101 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Télématique embarquée pour le suivi de la conduite d’un véhicule / Fiche d’opération n° TRA-EQ-103
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-103 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Lubrifiant économiseur d’énergie pour véhicules légers / Fiche d’opération n° TRA-EQ-104
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-104 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Pneus de véhicules légers à basse résistance au roulement / Fiche d’opération n° TRA-EQ-106
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-106 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Unité de transport intermodal pour le transport combiné fluvial-route / Fiche d’opération n° TRA-EQ-107
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-107 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Wagon d’autoroute ferroviaire / Fiche d’opération n° TRA-EQ-108
 
@@ -34,35 +44,53 @@ Conformément à l’article 5 de l’arrêté du 6 décembre 2018 (NOR : TRER18
 
 Conformément à l’article 1 de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opération standardisée portant la même référence figurant à l'annexe D dudit arrêté, à compter du 1er avril 2020.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-108 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Barge fluviale / Fiche d’opération n° TRA-EQ-109
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-109 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Automoteur fluvial / Fiche d’opération n° TRA-EQ-110
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-110 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Groupe frigorifique autonome à haute efficacité énergétique pour camions, semi-remorques, remorques et caisse mobiles frigorifiques / Fiche d’opération n° TRA-EQ-111
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-111 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Lubrifiant économiseur d’énergie pour des véhicules de transport de personnes ou de marchandises / Fiche d’opération n° TRA-EQ-113
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-113 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Remplacement de véhicules par des véhicules neufs performants dans une flotte professionnelle / Fiche d’opération n° TRA-EQ-114
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-114 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Véhicule de transport de marchandises optimisé / Fiche d’opération n° TRA-EQ-115
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-115 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Remplacement de véhicules par des véhicules neufs performants pour les particuliers ou les collectivités / Fiche d’opération n° TRA-EQ-117
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-117 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Lubrifiant économiseur d’énergie pour la pêche professionnelle / Fiche d’opération n° TRA-EQ-118
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-118 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Optimisation de la combustion et de la propreté des moteurs Diesel / Fiche d’opération n° TRA-EQ-119
 
@@ -70,11 +98,17 @@ Conformément à l’article 8 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-119 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Hélice avec tuyère sur une unité de transport fluvial / Fiche d’opération n° TRA-EQ-120
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-120 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Vélo à assistance électrique / Fiche d’opération n° TRA-EQ-121
 
 - Stop & Start pour engins automoteurs non routiers neufs / Fiche d’opération n° TRA-EQ-122
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-122 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Simulateur de conduite / Fiche d’opération n° TRA-EQ-123
 
@@ -82,9 +116,13 @@ Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : TRER2
 
 - Branchement électrique des navires et bateaux à quai / Fiche d’opération n° TRA-EQ-124
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-124 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Stop & Start pour véhicules ferroviaires / Fiche d’opération n° TRA-EQ-125
 
 Conformément à l’article 2 de l’arrêté 17 décembre 2021 (NOR : TRER2137033A), la présente fiche d'opération standardisée est remplacée par la fiche portant la même référence figurant à l'annexe D dudit arrêté, à compter du 1er avril 2022.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-125 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Remotorisation en propulsion électrique ou hybride d’un bateau naviguant en eaux intérieures / Fiche d’opération n° TRA-EQ-126
 
@@ -92,17 +130,25 @@ Conformément à l’article 2 de l’arrêté 17 décembre 2021 (NOR : TRER2137
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-101 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Formation d’un chauffeur de véhicule léger à la conduite économe / Fiche d’opération n° TRA-SE-102
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-102 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Station de gonflage des pneumatiques / Fiche d’opération n° TRA-SE-104
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-104 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Recreusage des pneumatiques / Fiche d’opération n° TRA-SE-105
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-105 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Mesure et optimisation des consommations de carburant d’une unité de transport fluvial / Fiche d’opération n° TRA-SE-106
 
@@ -110,41 +156,61 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-106 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Carénage sur une unité de transport fluvial / Fiche d’opération n° TRA-SE-107
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-107 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de marchandises) / Fiche d’opération n° TRA-SE-108
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-108 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de personnes) / Fiche d’opération n° TRA-SE-109
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-109 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de marchandises) / Fiche d’opération n° TRA-SE-110
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-110 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de personnes) / Fiche d’opération n° TRA-SE-111
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-111 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Service d’autopartage en boucle / Fiche d’opération n° TRA-SE-112
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-112 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Suivi des consommations de carburants grâce à des cartes privatives / Fiche d’opération n° TRA-SE-113
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-113 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 - Covoiturage de longue distance / Fiche d’opération n° TRA-SE-114
 
 Conformément à l’article 2 de l’arrêté du 2 décembre 2022 (NOR : ENER2232310A), les mots : " trois ans " mentionnés à l'annexe 1 définissant le contenu de la partie A de l'attestation sur l'honneur de la fiche d'opération standardisée TRA-SE-114 sont remplacés par les mots : " douze ans ".
 
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-114 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
+
 - Covoiturage de courte distance / Fiche d’opération n° TRA-SE-115
 
 Conformément à l’article 2 de l’arrêté du 2 décembre 2022 (NOR : ENER2232310A), les mots : " trois ans " mentionnés à l'annexe 1 définissant le contenu de la partie A de l'attestation sur l'honneur de la fiche d'opération standardisée TRA-SE-115 sont remplacés par les mots : " cinq ans ".
+
+Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-115 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 Liens :
 
@@ -222,4 +288,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd
 
 NOTA :
 
-Conformément à l'article 2 de l’arrêté du 2 décembre 2022 (NOR : ENER2232310A), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+Conformément à l'article 2 de l’arrêté du 18 mars 2023 (NOR : ENER2303227A), ces dispositions entrent en vigueur à compter du 1er avril 2023.
