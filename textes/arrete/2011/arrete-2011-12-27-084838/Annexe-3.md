@@ -2,97 +2,97 @@
 
 BARÈME SERVANT À LA DÉTERMINATION DU CAPITAL REPRÉSENTATIF DES RENTES TEMPORAIRES D'AYANTS DROIT DES VICTIMES D'ACCIDENTS DU TRAVAIL
 
-A partir de la table de mortalité INSEE 2013-2015-Taux 0,24 %
+A partir de la table de mortalité INSEE 2013-2015-Taux 0,46 %
 
 SEXE MASCULIN |
 
 Age au jour de la liquidation du préjudice (*) |
 
-valeur de conversion rente-capital |
+Valeur de conversion rente-capital |
 
 0 |
 
-20,348 |
+19,879 |
 
 1 |
 
-19,475 |
+19,047 |
 
 2 |
 
-18,527 |
+18,139 |
 
 3 |
 
-17,575 |
+17,225 |
 
 4 |
 
-16,620 |
+16,305 |
 
 5 |
 
-15,661 |
+15,381 |
 
 6 |
 
-14,701 |
+14,453 |
 
 7 |
 
-13,738 |
+13,520 |
 
 8 |
 
-12,772 |
+12,583 |
 
 9 |
 
-11,804 |
+11,641 |
 
 10 |
 
-10,833 |
+10,695 |
 
 11 |
 
-9,859 |
+9,745 |
 
 12 |
 
-8,884 |
+8,790 |
 
 13 |
 
-7,906 |
+7,831 |
 
 14 |
 
-6,926 |
+6,867 |
 
 15 |
 
-5,944 |
+5,899 |
 
 16 |
 
-4,959 |
+4,927 |
 
 17 |
 
-3,972 |
+3,951 |
 
 18 |
 
-2,983 |
+2,970 |
 
 19 |
 
-1,991 |
+1,985 |
 
 20 |
 
-0,997 |
+0,995 |
 
 21 |
 
@@ -100,95 +100,95 @@ valeur de conversion rente-capital |
 
 (*) Liquidation du préjudice : date de l'accord amiable de versement ou date de la décision de justice ordonnant ce versement.
 
-SEXE FÉMININ |
+SEXE FEMININ |
 
-Age au jour de la liquidation du préjudice |
+Age au jour de la liquidation du préjudice (*) |
 
-valeur de conversion rente - capital |
+Valeur de conversion rente - capital |
 
 0 |
 
-20,368 |
+19,900 |
 
 1 |
 
-19,482 |
+19,054 |
 
 2 |
 
-18,534 |
+18,145 |
 
 3 |
 
-17,581 |
+17,231 |
 
 4 |
 
-16,625 |
+16,311 |
 
 5 |
 
-15,667 |
+15,387 |
 
 6 |
 
-14,706 |
+14,458 |
 
 7 |
 
-13,742 |
+13,525 |
 
 8 |
 
-12,776 |
+12,587 |
 
 9 |
 
-11,808 |
+11,645 |
 
 10 |
 
-10,837 |
+10,699 |
 
 11 |
 
-9,864 |
+9,749 |
 
 12 |
 
-8,888 |
+8,794 |
 
 13 |
 
-7,910 |
+7,834 |
 
 14 |
 
-6,930 |
+6,871 |
 
 15 |
 
-5,947 |
+5,903 |
 
 16 |
 
-4,962 |
+4,930 |
 
 17 |
 
-3,974 |
+3,953 |
 
 18 |
 
-2,985 |
+2,972 |
 
 19 |
 
-1,992 |
+1,986 |
 
 20 |
 
-0,997 |
+0,995 |
 
 21 |
 
