@@ -1,0 +1,9 @@
+# Réponse à la question n° 3314
+
+- Question : [3314](3314.md) — Question n° 3314 — Transcription d'un acte de naissance étranger dans les registres français
+
+## Réponse
+
+*JO du 2023-04-04, page 3137*
+
+Lors de la demande de transcription d'un acte de naissance auprès d'un de nos postes consulaires, la vérification de la nationalité française de l'enfant s'impose et l'officier d'Etat civil consulaire doit s'assurer que celui-ci est bien français par filiation et depuis sa naissance. A cet effet, les parents sont invités à produire les pièces et justificatifs nécessaires, en particulier la preuve de la nationalité française de l'enfant ainsi que l'acte étranger traduit, légalisé ou apostillé selon les termes de la rubrique 509 de l'Instruction générale relative à l'état civil (IGRECJ). Concernant la situation particulière à laquelle il est fait référence, et dont le Service central d'état civil n'a pas eu connaissance, il est difficile au ministère de l'Europe et des Affaires étrangères de se prononcer sans connaître les éléments du dossier. Il importe notamment de savoir si le blocage résulte d'une difficulté à établir la filiation ou d'une vérification d'acte auprès des autorités locales. S'agissant du formalisme évoqué pour la reconnaissance d'un enfant et de sa nationalité française, il convient de noter que la démarche de reconnaissance est la plus souple des procédures en matière d'état civil, puisqu'elle est recevable devant tout officier d'etat civil, indépendamment du lieu de naissance, en France ou à l'étranger. Enfin, en cas de doute sur la réalité de la filiation paternelle, nos postes consulaires peuvent procéder à des auditions. En revanche, seul le juge peut ordonner un test ADN, dans le cadre d'une procédure judiciaire, pour une recherche de paternité ou pour trancher un conflit de paternité.
