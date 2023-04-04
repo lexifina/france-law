@@ -1,0 +1,9 @@
+# Réponse à la question n° 2493
+
+- Question : [2493](2493.md) — Question n° 2493 — École à domicile - enfants malades
+
+## Réponse
+
+*JO du 2023-04-04, page 3105*
+
+L'enjeu d'égalité et la question de la justice sociale sont placés au cœur des priorités de l'éducation nationale avec l'ambition que chaque élève en situation de handicap ou souffrant d'une pathologie empêchant son retour dans la classe bénéficie des conditions permettant sa réussite. Conformément à la circulaire du 3 août 2020, l'accompagnement pédagogique à domicile, à l'hôpital ou à l'école (APADHE) a pour objectif principal de garantir à l'enfant ou l'adolescent empêché pour raison de santé, la poursuite de sa scolarité. Lorsqu'un besoin apparait, la direction des services départementaux de l'éducation nationale (DSDEN) du territoire concerné sollicite les enseignants pour une mise en œuvre du dispositif la plus rapide possible. Chaque département a un référent APADHE qui permet d'organiser le suivi de chaque situation. Il revient à chaque DSDEN de faire connaître le dispositif en lien avec les médecins de l'éducation nationale. Lorsqu'un besoin est identifié, le professeur de l'élève est sollicité, puis le cas échéant celui de l'établissement, un professeur en proximité ou au sein du département. En outre, chaque année, un comité de pilotage national évalue le dispositif avec une attention particulière sur l'équité d'accompagnement des élèves dans tous les territoires. Il recense les bonnes pratiques afin de permettre en retour l'amélioration du dispositif. Enfin, cette année une enquête nationale est réalisée pour obtenir des informations très précises sur les demandes et les mises en place d'APADHE, ce qui permettra également d'améliorer le pilotage du dispositif et, le cas échéant, de prendre des mesures correctrices afin d'améliorer ce dispositif.
