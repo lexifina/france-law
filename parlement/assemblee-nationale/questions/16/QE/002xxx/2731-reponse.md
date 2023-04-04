@@ -1,0 +1,9 @@
+# Réponse à la question n° 2731
+
+- Question : [2731](2731.md) — Question n° 2731 — Moyens des mouvements coopératifs agréés comme l'ICEM
+
+## Réponse
+
+*JO du 2023-04-04, page 3106*
+
+Le ministère de l'éducation nationale et de la jeunesse (MENJ) dispose de crédits annuels qui constituent un fonds de partenariat associatif pour cofinancer des actions proposées par des associations apportant leur concours à l'enseignement public par des interventions pendant le temps scolaire en appui aux activités d'enseignement, par l'organisation d'activités éducatives complémentaires en dehors du temps scolaire, par la contribution au développement de la recherche pédagogique ou par la formation des équipes pédagogiques et des autres membres de la communauté éducative. En 2022, 152 associations ont ainsi bénéficié d'un soutien financier pour un total de près de 60 M€. Les subventions du ministère n'ont pas vocation à financer directement le fonctionnement des associations, mais les projets qu'elles proposent en complément en faveur du service public de l'éducation nationale. Le soutien du MENJ est ainsi attribué après une analyse détaillée portant sur la cohérence entre les montants alloués et les actions présentées à l'appui de la demande de subvention. En 2022, les contraintes budgétaires et la nécessité d'assurer une répartition permettant de soutenir le plus grand nombre d'associations qui semblent mériter de l'être ont conduit à baisser le montant alloué à des associations partenaires historiques du ministère. Toutefois, le montant de 100 000 € accordé à l'Institut coopératif de l'école moderne (ICEM) la place parmi les associations les plus fortement subventionnées. Sur 132 associations financées par une subvention annuelle, 28 perçoivent un soutien du ministère supérieur à 50 000 €, dont l'ICEM.
