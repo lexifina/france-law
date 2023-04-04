@@ -1,0 +1,9 @@
+# Réponse à la question n° 5982
+
+- Question : [5982](5982.md) — Question n° 5982 — Liberté de circulation en Polynésie française
+
+## Réponse
+
+*JO du 2023-04-04, page 3141*
+
+Les autorités des Etats-Unis sont souveraines quant à l'exécution des procédures d'entrée et de sortie du territoire américain. Selon la loi américaine en vigueur, les voyageurs de 18 ans et plus à destination des États-Unis ou en transit par ce pays par voie aérienne doivent obligatoirement présenter une preuve de vaccination complète contre la Covid-19 pour être autorisés à embarquer, sauf s'ils sont de nationalité américaine, résidents légaux permanents ou immigrants. Il existe des exceptions à l'obligation de vaccination pour les ressortissants étrangers, à savoir : le personnel diplomatique, les personnes de moins de 18 ans, les participants à certains essais cliniques sur le vaccin contre la Covid-19, les personnes présentant des contre-indications médicales aux vaccins, les personnes devant voyager pour des raisons d'urgence ou humanitaires (avec une lettre émise par le gouvernement des États-Unis confirmant le besoin urgent de voyager), les personnes voyageant avec un visa non touristique en provenance de pays où la disponibilité des vaccins est faible. Pour ces catégories de personnes souhaitant entrer aux Etats-Unis ou transiter via ce pays, il n'est désormais plus exigé de produire un test négatif ni de remplir une attestation relative à leur statut vaccinal. Compte tenu de l'amélioration de la situation sanitaire en Europe, l'exigence de vaccination pour les voyageurs entrant sur le territoire français a été levée le 1er aout 2022. La France reste pleinement mobilisée pour encourager les Etats-Unis à un assouplissement des règles américaines encadrant l'entrée des voyageurs français sur le territoire américain, à titre de réciprocité.
