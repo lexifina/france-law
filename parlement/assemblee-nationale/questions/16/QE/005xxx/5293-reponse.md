@@ -1,0 +1,9 @@
+# Réponse à la question n° 5293
+
+- Question : [5293](5293.md) — Question n° 5293 — Difficultés des élèves dans les matières scientifiques
+
+## Réponse
+
+*JO du 2023-04-04, page 3114*
+
+À leur entrée en 6e, un tiers des élèves ne maitrise pas les compétences fondamentales pour réussir au collège. Les évaluations internationales notent par ailleurs qu'en français et en mathématiques, le nombre d'élèves performants ne cesse de diminuer. Ainsi, à la rentrée prochaine, pour élever le niveau général, mieux accompagner les élèves fragiles et permettre à chacun de cultiver ses excellences, tous les élèves de 6e bénéficieront d'une heure hebdomadaire de soutien ou d'approfondissement en français ou en mathématiques. Pour organiser cette heure hebdomadaire de soutien ou d'approfondissement sans allonger les 26 heures hebdomadaires de classe des élèves, l'enseignement de sciences et technologie en classe de 6e est ramené à trois heures hebdomadaires par la réduction d'une heure de technologie à l'intérieur du programme d'enseignement. Cette mesure permettra de concentrer cet enseignement de technologie sur les classes de 5e, 4e et 3e et de conforter sa place au collège car il est indispensable à la formation des élèves. Le conseil supérieur des programmes sera très prochainement saisi pour concevoir un programme de technologie renouvelé pour les classes de 5e, 4e et 3e, de sorte qu'à la rentrée 2024, l'enseignement de la technologie porte une nouvelle ambition pour le numérique. Concernant les professeurs de technologie, une attention toute particulière est portée à leur situation. Ils pourront bénéficier par ailleurs de formations durant l'année 2023-2024 afin de se préparer au nouveau programme. Cette transformation de la classe de 6e vise à renforcer les compétences des élèves en français et en mathématiques pour leur permettre d'être mieux armés afin d'affronter les défis du XXIe siècle grâce notamment à l'enseignement de la technologie.
