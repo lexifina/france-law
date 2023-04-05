@@ -1,20 +1,18 @@
 # Article Annexe II
 
-ANNEXE II
-
-LISTE DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
+TABLEAU DE L'ANNEXE II
 
 SERVICES OU DIRECTIONS |
 
 DÉSIGNATION DE L'EMPLOI |
 
-Administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivité territoriales : |
+Administration centrale du ministère de l'intérieur et des outre-mer : |
 
 |
 
 Cabinet du ministre |
 
-Chef du bureau des cabinets. |
+Chef du bureau des cabinets |
 
 Direction des libertés publiques et des affaires juridiques |
 
@@ -32,19 +30,15 @@ Direction générale des étrangers en France |
 
 Adjoint au sous-directeur de l'accès à la nationalité française au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
 
-Adjoint au sous-directeur de l'accueil et de l'accompagnement des étrangers |
+Adjoint au sous-directeur de l'intégration des étrangers au sein de la direction l'intégration et de l'accès à la nationalité |
 
 Préfecture de police et secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris : |
 
 |
 
-Direction des finances, de la commande publique et de la performance |
-
-Chef du centre de services partagés Chorus au sein du bureau du budget de l'Etat. |
-
 Direction des ressources humaines |
 
-Chef du bureau zonal des rémunérations et des pensions d'Ile-de-France. |
+Chef du bureau des rémunérations et des pensions au sein du service de gestion des personnels de la police nationale |
 
 Direction des transports et de la protection du public |
 
@@ -52,15 +46,15 @@ Chef du bureau des titres d'identité au sein du service des titres et des relat
 
 Délégation à l'immigration |
 
-Chef du 8e bureau au sein de la sous-direction de du département zonal de l'asile et de l'éloignement |
+Chef du bureau de la lutte contre l'immigration irrégulière |
 
 Direction de la sécurité de proximité de l'agglomération parisienne |
 
-Chef la du sous-direction service de gestion de la gestion opérationnelle des personnels et des équipements au sein de la sous-direction de la gestion opérationnelle. |
+Chef du service de gestion opérationnelle |
 
-Direction opérationnelle des services techniques et logistiques |
+Direction de l'innovation, de la logistique et des technologies |
 
-Chef du service des finances, de l'achat et des moyens, adjoint au sous-directeur des ressources et des compétences. |
+Secrétaire général |
 
 Secrétariat général pour l'administration du ministère de l'intérieur : |
 
@@ -72,7 +66,7 @@ Directeur des ressources humaines. |
 
 Zone de défense et de sécurité Ouest |
 
-Directeur des ressources humaines. |
+|
 
 Zone de défense et de sécurité Sud-Est |
 
@@ -106,7 +100,7 @@ Directeur de la coordination des services de l'Etat. |
 
 Yvelines |
 
-Directeur de la citoyenneté, de l'immigration et de l'intégration. |
+Directeur des migrations. |
 
 Directeur de la réglementation et des collectivités locales. |
 
@@ -118,8 +112,6 @@ Hauts-de-Seine |
 
 Directeur des migrations et de l'intégration. |
 
-- |
-
 Seine-Saint-Denis |
 
 Directeur des migrations et de l'intégration. |
@@ -128,7 +120,7 @@ Directeur de la citoyenneté et de la légalité. |
 
 Val-de-Marne |
 
-Directeur des migrations et de l'intégration. |
+|
 
 Directeur de la citoyenneté et de la légalité. |
 
@@ -136,7 +128,7 @@ Val-d'Oise |
 
 Directeur des migrations et de l'intégration. |
 
-Secrétariat général commun départemental |
+Secrétariat général commun départemental : |
 
 |
 
