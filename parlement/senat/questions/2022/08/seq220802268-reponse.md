@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802268
+
+- Question : [SEQ220802268](seq220802268.md) — Réforme du financement de la radiothérapie
+
+## Réponse
+
+*Santé et prévention, JO du 2023-04-06, page 2389*
+
+Le Gouvernement a affirmé son ambition en faveur d'une transformation du système de santé, et plus spécifiquement dans le cadre de la stratégie décennale de lutte contre le cancer, une attention particulière est portée sur l'évolution du mode de financement de la radiothérapie. Avant de s'interrompre en 2020 du fait de la crise sanitaire, les réflexions en matière d'évolution du mode de financement de la radiothérapie étaient menées en concertation avec l'ensemble des acteurs et institutionnels concernés. Ces travaux ont permis d'aboutir à un schéma de forfaits identifiés par technique de radiothérapie et modulés en fonction de la lourdeur de prise en charge du patient. Plusieurs enjeux et objectifs sont poursuivis, au nombre desquels l'amélioration de la prise en compte du parcours de soins du patient, une meilleure réponse aux enjeux de qualité et de sécurité du traitement, la prise en compte des évolutions technologiques et de l'innovation, l'harmonisation des modalités de financement entre les deux secteurs, hospitalier et libéral, ou encore l'enrichissement du suivi et des connaissances sur le traitement du cancer par radiothérapie. Plusieurs thématiques restent à instruire (par exemple reprise des groupes de travail sur la valorisation financière du modèle, adaptation des systèmes d'information, définition des indicateurs de qualité, poursuite des recommandations de bonnes pratiques etc.) et devront s'articuler avec la révision en cours de la nomenclature, mais également et surtout la réforme globale du financement voulue par le Président de la République dont le calendrier et les échéances seront fixées prochainement.
