@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation des contrats relatifs à la souscription des droits de raccordement et d’abonnement à la géothermie pour le Centre Administratif Municipal (CAM).
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-04-06
+- Matière : PATRIMOINE
+- Objet : Approbation des contrats relatifs à la souscription des droits de raccordement et d’abonnement à la géothermie pour le Centre Administratif Municipal (CAM).
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0MjgsInB1ciI6ImJsb2JfaWQifX0=--86f3cdc41d250125201409956be256464bf9a52a/060423_11.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
