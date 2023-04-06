@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de signer le marché relatif au contrat de vente de chaleur pour l’Ecole Françoise Giroud, la Salle polyvalente Micheline Ostermeyer, la Crèche Anne Sylvestre d'Issy-cœur-de-ville
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-04-06
+- Matière : PATRIMOINE
+- Objet : Autorisation de signer le marché relatif au contrat de vente de chaleur pour l’Ecole Françoise Giroud, la Salle polyvalente Micheline Ostermeyer, la Crèche Anne Sylvestre d'Issy-cœur-de-ville
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYwMjQsInB1ciI6ImJsb2JfaWQifX0=--79f134f841bdeea1151ba0fc7a4d09d45a37dca1/060423_10.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
