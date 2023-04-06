@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modification des seuils de participation de la protection sociale complémentaire des agents de la Ville
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-04-06
+- Matière : RESSOURCES HUMAINES
+- Objet : Modification des seuils de participation de la protection sociale complémentaire des agents de la Ville
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMjYsInB1ciI6ImJsb2JfaWQifX0=--065bcf40596d5e0c2e6107e8dd0af9ccfe0bd471/060423_16.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
