@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de signer le marché relatif à la gestion de la population animale et au traitement des nuisibles à Issy-les-Moulineaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-04-06
+- Matière : HYGIENE ET SECURITE
+- Objet : Autorisation de signer le marché relatif à la gestion de la population animale et au traitement des nuisibles à Issy-les-Moulineaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3MTYsInB1ciI6ImJsb2JfaWQifX0=--8adc023e130a50ea482fc713fadd60d7a9a0011f/060423_20.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
