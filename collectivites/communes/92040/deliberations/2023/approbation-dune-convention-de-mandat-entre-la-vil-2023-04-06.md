@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention de mandat entre la Ville et le CLAVIM relative à l’encaissement des recettes liées aux activités périscolaires et de loisirs.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-04-06
+- Matière : FINANCES
+- Objet : Approbation d’une convention de mandat entre la Ville et le CLAVIM relative à l’encaissement des recettes liées aux activités périscolaires et de loisirs.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMjQsInB1ciI6ImJsb2JfaWQifX0=--9798509b968c6e2390fb30a89d83a689b136ec0c/060423_06.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
