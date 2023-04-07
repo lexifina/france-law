@@ -560,6 +560,14 @@ s.o.
 
 |
 
+- Callosciurus finlaysonii (Ecureuil de Finlayson) (*) |
+
+s.o. |
+
+s. o. |
+
+1 et plus |
+
 - Toutes les autres espèces de Sciuridés (Écureuils, marmottes et chiens de prairie)
 
 |
@@ -1588,7 +1596,7 @@ s.o.
 
 |
 
-- Neovison vison = Mustela vison (Vison d'Amérique)
+- Neovison vison = Mustela vison (Vison d'Amérique) (*)
 
 |
 
@@ -1895,6 +1903,14 @@ s.o.
 1 et plus
 
 |
+
+-Axis axis (Cerf axis, Chital) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
 
 - Autres Cervidés (Cerfs, chevreuils, élans, rennes, etc.)
 
@@ -5296,6 +5312,14 @@ s.o.
 
 |
 
+- Pycnonotus cafer (Bulbul à ventre rouge) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
 - Autres Pycnonotidés (Bulbuls), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
 |
@@ -7008,6 +7032,14 @@ s.o.
 
 |
 
+- Lampropeltis getula (Serpent roi de Californie) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
 - Langaha spp. (Serpents à nez de feuille)
 
 |
@@ -8286,6 +8318,14 @@ s.o.
 
 |
 
+- Xenopus laevis (Xénope lisse) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
 - Pelophylax kl. esculentus = Rana esculenta (Grenouille verte)
 
 |
@@ -8778,6 +8818,22 @@ s.o.
 
 |
 
+- Channa argus (Poisson tête de serpent) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
+- Morone americana (Baret) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
 - Perccottus glenii (Goujon de l'Amour) (*)
 
 |
@@ -8852,6 +8908,32 @@ s.o.
 
 |
 
+- Fundulus heteroclitus (Choquemort) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
+|
+
+- Gambusia holbrooki (Gambusie) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
+- Gambusia affinis (Gambusie de l'Ouest) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
 - Pseudorasbora parva (Pseudorasbora ou goujon asiatique) (*)
 
 |
@@ -8883,6 +8965,22 @@ s.o.
 s.o.
 
 |
+
+4° Siluriformes |
+
+|
+
+|
+
+|
+
+-Ameiurus melas (Poisson-chat) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
 
 - Autres Ostéichtyens, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
@@ -8990,6 +9088,14 @@ s.o.
 
 |
 
+- Dreissena rostriformis (Moule quagga) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
 - Hapalochlaena maculosa (Pieuvre aux anneaux bleus)
 
 |
@@ -9021,6 +9127,14 @@ s.o.
 1 et plus
 
 |
+
+- Limnoperna fortunei (Moule dorée) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
 
 - Autres Mollusques, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
@@ -9058,7 +9172,7 @@ Decapoda (Crustacés)
 
 |
 
--Eriocheir sinensis (Crabe chinois) (*)
+- Eriocheir sinensis (Crabe chinois) (*)
 
 |
 
@@ -9073,6 +9187,14 @@ s. o
 1 et plus
 
 |
+
+- Faxonius rusticus (Ecrevisse à taches rouges) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
 
 - Orconectes limosus (Écrevisse américaine) (*)
 
@@ -9121,6 +9243,14 @@ s.o.
 1 et plus
 
 |
+
+- Portunus segnis (Crabe bleu) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
 
 - Procambarus clarkii (Écrevisse de Louisiane) (*)
 
@@ -9312,6 +9442,38 @@ Insecta : Hymenoptera (Abeilles, guêpes, fourmis)
 
 |
 
+- Solenopsis geminata (Fourmi de feu) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
+- Solenopsis invicta (Fourmi de feu) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
+- Solenopsis richteri (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
+- Vespa orientalis (Frelon oriental) (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
+
 - Vespa velunita nigrithorax (Frelon asiatique ou frelon à pattes jaunes) (*)
 
 |
@@ -9327,6 +9489,14 @@ s.o.
 1 et plus
 
 |
+
+- Wasmannia auropunctata (*) |
+
+s.o. |
+
+s.o. |
+
+1 et plus |
 
 - Autres Arthropodes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et hors espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
