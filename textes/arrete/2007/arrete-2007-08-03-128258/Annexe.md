@@ -2,31 +2,21 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 31 mars 2023 :
-
-Paris-Cotonou (Bénin).
-
-Jusqu'au 31 mars 2023 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires :
-
-Paris-Agadir (Maroc) ;
-
-Paris-Casablanca (Maroc) ;
-
-Paris-Fès (Maroc) ;
-
-Paris-Tanger (Maroc) ;
-
-Paris-Marrakech (Maroc) ;
-
-Paris-Oujda (Maroc) ;
-
-Paris-Rabat (Maroc).
-
 Jusqu'au 31 octobre 2023 :
 
 Paris-Abidjan (Côte d'Ivoire) ;
 
-Paris-Bamako (Mali).
+Paris-Bamako (Mali) ;
+
+Paris-Cotonou (Bénin) ;
+
+Paris-Tananarive (Madagascar) ;
+
+Saint-Denis de La Réunion-Tananarive (Madagascar).
+
+Jusqu'au 31 octobre 2023 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires :
+
+Liaisons entre la France métropolitaine et tout point du Royaume du Maroc.
 
 Jusqu'au 31 octobre 2024 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires :
 
