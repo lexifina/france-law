@@ -544,11 +544,13 @@ Ressort du tribunal judiciaire de Dunkerque, à l'exception du ressort de la cha
 
 Hazebrouck |
 
-Ressort de la chambre de proximité de Hazebrouck. |
+Ressort de la chambre de proximité de Hazebrouck.
+
+|
 
 Lille |
 
-Lannoy |
+Lys-Lez-Lannoy |
 
 Cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud. |
 
@@ -1546,6 +1548,4 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre. |
 
 NOTA :
 
-Conformément à l’article 2 du décret n° 2021-886 du 2 juillet 2021, ces dispositions entrent en vigueur le 1er septembre 2021.
-
-Conformément aux dispositions du II de l'article 18 du décret n° 2011-338 du 29 mars 2011 modifié en dernier lieu par le décret n° 2018-122 du 20 février 2018, l'installation du conseil des prud'hommes à Mayotte, créé par l'article 9 dudit décret, sera effective à compter d'une date fixée par décret et au plus tard à la date mentionnée au II de l'article 16 de l'ordonnance n° 2011-337 du 29 mars 2011 susvisée, c'est-à-dire au plus tard à compter du 1er janvier 2022.
+Conformément à l’article 2 du décret n° 2023-38 du 27 janvier 2023, ces dispositions entrent en vigueur le 9 avril 2023.
