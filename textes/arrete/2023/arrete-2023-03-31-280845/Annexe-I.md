@@ -1,8 +1,4 @@
-# Article LEGIARTI000049279478
-
-ANNEXES
-
-ANNEXE I
+# Article Annexe I
 
 MONTANTS RÉGIONAUX DES DOTATIONS ANNUELLES DE FINANCEMENT, DES DOTATIONS AFFECTÉES AUX MISSIONS D'INTÉRÊT GÉNÉRAL ET D'AIDE À LA CONTRACTUALISATION ET DES DOTATIONS URGENCES
 
@@ -10,17 +6,13 @@ Régions |
 
 MONTANT
 
-DE LA DOTATION
-
-POPULATIONNELLE URGENCES |
+DE LA DOTATION POPULATIONNELLE URGENCES |
 
 MONTANT DE LA DOTATION MIGAC |
 
 MONTANT
 
-DE LA DOTATION
-
-POVISIONNELLE DE PSYCHIATRIE |
+DE LA DOTATION POVISIONNELLE DE PSYCHIATRIE |
 
 MONTANT DE LA DOTATION DAF HORS USLD |
 
@@ -30,237 +22,237 @@ MONTANT DE LA DOTATION MIGAC SSR |
 
 MONTANT DE LA DOTATION DAF USLD |
 
-Auvergne - Rhône-Alpes |
+Auvergne-Rhône-Alpes |
 
-327 911 |
+331 547 |
 
-1 237 503 |
+1 286 525 |
 
-1 365 506 |
-
-0 |
-
-803 167 |
-
-72 430 |
-
-156 978 |
-
-Bourgogne - Franche-Comté |
-
-153 589 |
-
-469 671 |
-
-506 978 |
+1 380 089 |
 
 0 |
 
-246 109 |
+803 147 |
 
-21 759 |
+77 237 |
 
-54 725 |
+156 977 |
+
+Bourgogne-Franche-Comté |
+
+155 645 |
+
+493 824 |
+
+513 225 |
+
+0 |
+
+246 112 |
+
+24 272 |
+
+54 811 |
 
 Bretagne |
 
-130 020 |
+131 519 |
 
-472 187 |
+487 919 |
 
-621 833 |
+639 083 |
 
 0 |
 
-407 313 |
+409 599 |
 
-14 538 |
+15 350 |
 
-61 512 |
+61 448 |
 
 Centre-Val de Loire |
 
-124 656 |
+125 829 |
 
-341 104 |
+355 791 |
 
-414 358 |
+420 425 |
 
 0 |
 
-225 822 |
+225 622 |
 
-18 030 |
+20 881 |
 
-51 500 |
+51 508 |
 
 Corse |
 
-29 107 |
+29 633 |
 
-77 619 |
+82 062 |
 
-65 171 |
+66 121 |
 
 0 |
 
 24 351 |
 
-2 867 |
+2 876 |
 
 8 171 |
 
 Grand Est |
 
-246 509 |
+249 351 |
 
-860 851 |
+918 565 |
 
-936 837 |
+952 748 |
 
 0 |
 
 649 464 |
 
-34 744 |
+35 011 |
 
 114 278 |
 
 Hauts-de-France |
 
-278 751 |
+282 026 |
 
-919 878 |
+960 597 |
 
-1 050 378 |
+1 063 270 |
 
 0 |
 
-638 225 |
+638 224 |
 
-41 936 |
+45 323 |
 
-113 966 |
+113 981 |
 
 Ile-de-France |
 
-519 114 |
+524 306 |
 
-2 610 730 |
+2 718 856 |
 
-2 124 020 |
+2 153 430 |
 
 3 395 |
 
 1 286 244 |
 
-81 870 |
+92 487 |
 
-224 827 |
+224 821 |
 
 Normandie |
 
-173 804 |
+175 750 |
 
-498 848 |
+525 477 |
 
-583 134 |
+595 363 |
 
 0 |
 
-309 317 |
+309 627 |
 
-23 702 |
+26 274 |
 
 64 437 |
 
 Nouvelle Aquitaine |
 
-269 005 |
+272 237 |
 
-900 870 |
+941 501 |
 
-1 063 037 |
+1 077 482 |
 
 0 |
 
 546 449 |
 
-30 070 |
+30 565 |
 
 131 603 |
 
 Occitanie |
 
-244 774 |
+247 400 |
 
-928 291 |
+956 208 |
 
-970 564 |
+993 978 |
 
 8 842 |
 
-501 761 |
+504 426 |
 
-47 593 |
+50 867 |
 
-128 675 |
+128 704 |
 
 Pays-de-la-Loire |
 
-127 023 |
+128 129 |
 
-520 052 |
+530 019 |
 
-551 189 |
+572 181 |
 
 0 |
 
 393 710 |
 
-8 094 |
+9 153 |
 
 68 804 |
 
 Provence-Alpes-Côte d'Azur |
 
-239 252 |
+241 667 |
 
-786 875 |
+827 721 |
 
-865 899 |
+871 927 |
 
 0 |
 
-352 654 |
+351 686 |
 
-56 589 |
+62 258 |
 
-69 739 |
+69 746 |
 
 Guadeloupe |
 
-29 620 |
+29 973 |
 
-137 438 |
+142 055 |
 
-85 516 |
+87 010 |
 
 0 |
 
 38 484 |
 
-4 831 |
+5 020 |
 
 10 954 |
 
 Guyane |
 
-20 410 |
+20 623 |
 
-105 193 |
+107 459 |
 
-44 607 |
+45 807 |
 
 0 |
 
@@ -272,17 +264,17 @@ Guyane |
 
 Martinique |
 
-20 970 |
+21 189 |
 
-169 340 |
+172 216 |
 
-92 016 |
+93 071 |
 
 0 |
 
 58 809 |
 
-2 490 |
+3 352 |
 
 7 398 |
 
@@ -294,7 +286,7 @@ Mayotte |
 
 0 |
 
-276 855 |
+277 020 |
 
 0 |
 
@@ -304,16 +296,16 @@ Mayotte |
 
 La Réunion |
 
-38 306 |
+38 555 |
 
-124 825 |
+127 090 |
 
-160 519 |
+162 853 |
 
 0 |
 
-33 452 |
+33 193 |
 
-6 368 |
+7 928 |
 
 4 737 |
