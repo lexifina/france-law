@@ -76,7 +76,7 @@ Algérie :
 
 Lyon-Alger (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l'article R. 330-9 du code de l'aviation civile) ;
 
-Montpellier-Alger ;
+Montpellier-Alger (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l'article R. 330-9 du code de l'aviation civile) ;
 
 Nantes-Alger (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l'article R. 330-9 du code de l'aviation civile) ;
 
@@ -769,6 +769,10 @@ Paris-Victoria Falls ;
 Barbade :
 
 Fort-de-France-Bridgetown ;
+
+Brésil ;
+
+Cayenne-Belém ; y compris en continuation depuis Paris ;
 
 Canada :
 
