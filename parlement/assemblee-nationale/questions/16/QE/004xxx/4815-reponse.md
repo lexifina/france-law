@@ -1,0 +1,9 @@
+# Réponse à la question n° 4815
+
+- Question : [4815](4815.md) — Question n° 4815 — Liberté d'installation des notaires
+
+## Réponse
+
+*JO du 2023-04-11, page 3380*
+
+Les dispositions de la loi n° 2015 990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques fixent les règles d'établissement des tarifs et de l'installation des professions règlementées du droit. La périodicité de deux ans prévue pour les cartes d'installation des notaires et commissaires de justice a permis d'assurer un renforcement de la présence des professionnels sur l'ensemble du territoire national, ce qui était le but recherché par la loi du 6 aout 2015. Les effets positifs des trois premières révisions ont été nombreux : rajeunissement et féminisation de la profession, ajustement précis sur le nombre et la localisation des créations de nouveaux offices, réactivité et adaptation rapide aux situations particulières comme la crise sanitaire. Le délai actuel de 2 ans pour la révision des cartes d'installation des professionnels est en cohérence avec celui des révisions tarifaires qui, par l'application combinée des articles L. 444-3 et R.444-2 8° du code de commerce est également biennal. Trois périodes de révisions ont été couvertes depuis l'entrée en vigueur de la loi précitée. La périodicité de deux années a permis d'atteindre les objectifs assignés par cette loi. Toutefois, les travaux de l'Autorité de la concurrence portant sur la prochaine carte d'installation des professionnels concernés sont en cours. Ils vont permettre de dresser un bilan plus précis des effets de cette périodicité. Les recommandations de l'Autorité sur ce point seront essentielles aux ministères de la justice et de l'économie pour se prononcer conjointement sur l'intérêt de maintenir ou d'espacer la périodicité de révision des cartes.
