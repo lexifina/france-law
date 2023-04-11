@@ -1,0 +1,9 @@
+# Réponse à la question n° 2570
+
+- Question : [2570](2570.md) — Question n° 2570 — État des stocks de pastilles d'iode et répartition territoriale
+
+## Réponse
+
+*JO du 2023-04-11, page 3394*
+
+Conformément au plan national de réponse à un accident nucléaire ou radiologique majeur, les stocks stratégiques de l'Etat visent à permettre une distribution de comprimés d'iodure de potassium en tout point du territoire en situation d'urgence, que ce soit aux populations résidant dans ou en dehors des zones géographiques correspondantes aux plans particuliers d'intervention délimités principalement autour des centrales nucléaires de production d'électricité, c'est à dire à l'ensemble de la population française. L'état exact du stock de comprimés d'iodure de potassium ne peut être communiqué, étant couvert par le secret de la défense nationale. Conformément à l'article L. 1413-4, à la demande du ministère chargé de la santé, l'agence nationale de santé publique procède à l'acquisition, la fabrication, l'importation, le stockage, le transport, la distribution et l'exportation des produits et services nécessaires à la protection de la population face aux menaces sanitaires graves. Ce stock permet notamment de faire face aux risques radionucléaires. Ils sont détenus au sein des plateformes nationales, zonales et des départements et donc partout sur le territoire national. Dans le cas particulier de l'iode, qui, en cas de risques radionucléaires, doit être ingéré dans les heures qui suivent l'exposition, les modalités de distribution auprès des populations concernées sont organisées par le préfet, dans le cadre de la planification de l'organisation de la réponse de sécurité civile du dispositif (ORSEC-IODE). Au regard de son caractère insulaire, la Corse bénéfice à l'instar des territoires ultra-marins d'une adaptation de la quantité d'iode stockée sur le territoire, qui prend en compte les difficultés potentielles d'acheminement.
