@@ -1,0 +1,9 @@
+# Réponse à la question n° 2662
+
+- Question : [2662](2662.md) — Question n° 2662 — Difficulté relative à l'utilisation de la plateforme numérique AmeliPro
+
+## Réponse
+
+*JO du 2023-04-11, page 3394*
+
+Les travaux d'alignement de l'accès aux services patients entre les deux natures d'exercice d'un médecin, en libéral et en centre de santé, sont en cours. A date, un médecin en centre de santé dispose déjà de l'avis d'arrêt de travail, du service affection longue durée (protocole de soins), du bilan de soins infirmiers en consultation, de la déclaration simplifiée de grossesse, de la déclaration de médecin traitant, de la consultation de la patientèle médecin traitant, des échanges médicaux sécurisés (avec l'échelon local du service médical) et de la consultation d'historique des remboursements. Concernant précisément l'accès à la saisie du certificat médical d'accident du travail ou de maladie professionnelle, celui-ci est actuellement impossible pour les médecins en centre de santé du fait d'une anomalie technique, en cours de correction. Par ailleurs, des travaux informatiques sont bien identifiés afin d'ajouter la possibilité à un médecin en centre de santé de réaliser une demande d'accord préalable médicaments ainsi qu'une prescription de transport. Ces opérations permettront aux médecins en centre de santé de disposer des mêmes services patients que les médecins en exercice libéral. Concernant les rémunérations forfaitaires, des travaux sont nécessaires et parfaitement identifiés, pour permettre un affichage des indicateurs de suivi de la rémunération sur objectifs aux médecins d'un centre de santé. En effet, l'actuel service d'Amelipro pour un médecin libéral contient des informations propres à son exercice et nécessite qu'il soit adapté à l'activité salarié d'un médecin en centre de santé. Ainsi, la feuille de route pour les professionnels de santé tient compte de l'exercice en centre de santé.
