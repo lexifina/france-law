@@ -1,0 +1,9 @@
+# Réponse à la question n° 6058
+
+- Question : [6058](6058.md) — Question n° 6058 — Stationnement des soignants
+
+## Réponse
+
+*JO du 2023-04-11, page 3372*
+
+Les articles L. 417-1 et R. 417-1 et suivants du Code de la route précisent les règles générales en matière d'arrêt et de stationnement ainsi que les sanctions applicables en matière d'arrêt ou de stationnement payant, gênant, très gênant, dangereux ou abusif. Sur le fondement des articles L. 2213-2 et L. 2213-3 du Code général des collectivités territoriales, les maires peuvent notamment « par arrêté motivé, eu égard aux nécessités de la circulation et de la protection de l'environnement : (…) 2° Réglementer l'arrêt et le stationnement des véhicules ou de certaines catégories d'entre eux, ainsi que la desserte des immeubles riverains ; » ou « 2° Réserver des emplacements sur ces mêmes voies pour faciliter la circulation et le stationnement des transports publics de voyageurs et des taxis ainsi que des véhicules de transport de fonds, de bijoux ou de métaux précieux, dans le cadre de leurs missions, et l'arrêt des véhicules effectuant un chargement ou un déchargement de marchandises ; ». Au regard de ces dispositions, les maires peuvent donc réglementer l'arrêt et le stationnement des véhicules utilisés par les soignants et leur permettre d'utiliser les emplacements réservés, par exemple, à des véhicules effectuant un chargement ou un déchargement de marchandises. Une signalisation adaptée permettra la bonne information des acteurs concernés. La proposition consistant à modifier l'article R. 417-10 du Code de la route qui prévoit une interdiction générale, pour l'ensemble des usagers de la route, d'arrêt et de stationnement sur les aires de livraisons, assortie d'un possible régime dérogatoire en fonction d'horaires définis n'apparaît pas de nature à apporter une solution nouvelle au stationnement des soignants.
