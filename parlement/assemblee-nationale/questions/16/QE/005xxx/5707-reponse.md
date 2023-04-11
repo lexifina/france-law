@@ -1,0 +1,9 @@
+# Réponse à la question n° 5707
+
+- Question : [5707](5707.md) — Question n° 5707 — Obligation d'installation de composteurs en 2024
+
+## Réponse
+
+*JO du 2023-04-11, page 3408*
+
+La collecte séparée des biodéchets pour une valorisation, soit sous forme de compost, soit par méthanisation, est une source majeure de réduction de la quantité d'ordures ménagères résiduelles produites par les ménages. Les biodéchets représentent en effet environ un tiers de cette quantité. La loi relative à la lutte contre le gaspillage de février 2020 a rendu obligatoire, d'ici le 31 décembre 2023, la collecte séparée des biodéchets. Si pour les quartiers pavillonnaires ou les communes rurales, ce traitement pourra être assuré par l'installation de composteurs individuels, pour les quartiers urbanisés, et notamment avec un forte concentration d'immeubles, les collectivités devront mettre en place un service de collecte dédié, comme il en existe déjà depuis de nombreuses années pour les déchets d'emballage. Ces sont les établissements publics de coopération intercommunale chargés de la collecte, du tri et du traitement des ordures ménagères, qui sont responsables de la mise en place de ces modalités de collecte et de tri. Compte tenu de la proximité de l'échéance pour la mise en place de ces nouvelles modalités, le Gouvernement a renforcé de 90 millions d'euros le fonds de l'ADEME destiné à soutenir la mise en place des actions favorisant l'économie circulaire, doté en 2023 de 300 millions d'euros au total. Par ailleurs, les collectivités territoriales peuvent demander une aide au financement de certaines actions visant à la mise en place de la collecte séparée des biodéchets au fonds vert pour la transition écologique des collectivités, fonds doté de deux milliards d'euros en 2023 pour une quinzaine de mesures d'aides aux investissements des collectivités dont celles sur les biodéchets.
