@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_014B — ERREUR MATERIELLE DELIBERATION 2023-14BIS FIXATION TAUX IMPOSITION 2023
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-04-11
+- Matière : 7.2 Finances locales/Fiscalite
+- Objet : ERREUR MATERIELLE DELIBERATION 2023-14BIS FIXATION TAUX IMPOSITION 2023
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/2b8cd9120894778f29f80c53878a226479824329fe969acdd7774bb0c23dcf05.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
