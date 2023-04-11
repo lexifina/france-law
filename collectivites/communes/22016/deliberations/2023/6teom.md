@@ -1,0 +1,10 @@
+# COMMUNE D'ILE DE BREHAT : délibération 6TEOM — 6TEOM
+
+- Collectivité : COMMUNE D'ILE DE BREHAT
+- SIRET : 21220016600016
+- Code INSEE : 22016
+- Date : 2023-04-11
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : 6TEOM
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212200166/Deliberation/2023/397610/36b8111de064f67dbf6149d17aada578f3978c05d0ed3b6ed365c6db10e6ce90.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
