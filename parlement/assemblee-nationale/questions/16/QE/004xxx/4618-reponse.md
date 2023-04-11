@@ -1,0 +1,9 @@
+# Réponse à la question n° 4618
+
+- Question : [4618](4618.md) — Question n° 4618 — Situation préoccupante des kinésithérapeutes en milieu rural
+
+## Réponse
+
+*JO du 2023-04-11, page 3399*
+
+Le Gouvernement a pleinement conscience du rôle des masseurs-kinésithérapeutes dans la réponse aux besoins de santé de la population. Les négociations entre l'assurance maladie et les syndicats représentatifs de la profession avaient permis d'aboutir à un avenant ambitieux, correspondant à une enveloppe de 530 millions d'euros supplémentaires pour la profession, comprenant notamment la revalorisation des indemnités kilométriques. Néanmoins, suite à l'opposition de deux syndicats représentatifs, cet avenant ne sera pas appliqué. Il représentait pourtant un effort significatif pour améliorer les conditions de travail de la profession. Plusieurs mesures conventionnelles restent cependant applicables pour soutenir l'installation et l'exercice des masseurs-kinésithérapeutes en zones sous-dotées. Ainsi, les contrats d'aide à l'installation en zone sous-dotée prévus dans le cadre de l'avenant n° 5 restent applicables. Ils permettent aux masseurs-kinésithérapeutes d'obtenir une aide pouvant aller jusqu'à 49 000 euros pour la création d'un cabinet. En outre, sur le sujet plus spécifique du carburant, le Gouvernement avait mis en œuvre une remise à la pompe de 30 centimes d'euro par litre pour chaque conducteur entre le 1er septembre et le 15 novembre 2022. La remise carburant est passée à 10 centimes d'euro par litre du 16 novembre au 31 décembre 2022. Aussi, afin d'accompagner les professionnels de santé libéraux, l'assurance maladie finançait en sus une remise de 15 centimes d'euro par litre de carburant. Ces mesures ont pris fin le 31 décembre 2022 au profit d'une aide plus ciblée, sur critère de revenus, en 2023, l'indemnité carburant.
