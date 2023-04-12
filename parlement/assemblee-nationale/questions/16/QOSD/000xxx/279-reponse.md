@@ -1,0 +1,35 @@
+# Réponse à la question n° 279
+
+- Question : [279](279.md) — Question n° 279 — Établissements médico-sociaux
+
+## Réponse
+
+*JO du 2023-04-12, page 3713*
+
+PRISE EN CHARGE DES PERSONNES HANDICAPÉES
+
+Mme la présidente. La parole est à Mme Émilie Bonnivard, pour exposer sa question, n° 279, relative à la prise en charge des personnes handicapées.
+
+Mme Émilie Bonnivard. Monsieur le ministre de la santé et de la prévention, les établissements accueillant des enfants et adultes handicapés sont au bord de la rupture, à cause du manque de personnel formé et de moyens. Dans ma circonscription, le foyer d'accueil médicalisé du Noiray à Saint-Baldoph est en grande difficulté, comme tous les autres établissements de ce type.
+
+Le personnel et les familles concernés attendent des réponses claires à des questions précises. Comment entendez-vous revaloriser et renforcer l'attractivité de tous les métiers dédiés à l'accompagnement des personnes handicapées – soignants, moniteurs-éducateurs, personnels techniques et administratifs du secteur privé non lucratif, notamment ceux qui travaillent pour les associations regroupées au sein de l'Unapei, l'Union nationale des Apei, les associations de parents, de personnes handicapées mentales et de leurs amis ? Un moniteur-éducateur en début de carrière gagnait 1,8 Smic en 1989, c'est désormais 1,1 Smic. Les revalorisations récentes sont insuffisantes. Que pensez-vous de la création d'une prime « grande dépendance » de 200 euros, pour répondre à l'urgence du manque de personnel ?
+
+Vous le savez, depuis le Ségur de la santé, des écarts salariaux persistants ont aggravé la fuite des personnels de ces établissements. Pour les aides-soignantes et les infirmières, l'écart entre les salaires perçus dans le secteur public et dans le secteur privé à but non lucratif reste de plusieurs centaines d'euros par mois, malgré des efforts pour le réduire. Prévoyez-vous une revalorisation du salaire des personnels techniques et administratifs de ces établissements, laissés sur le bord de la route des revalorisations permises par le Ségur de la santé et la mission dite Laforcade ?
+
+Où en est l'élaboration d'une convention collective unique et ambitieuse pour le handicap, bénéficiant du nécessaire soutien de l'État ? Celle-ci est très attendue. Enfin, le Gouvernement compte-t-il répondre à la réalité des besoins d'accueil en institut médico-éducatif (IME) en Savoie ? Malgré le travail extraordinaire mené depuis des années par l'Apei de Chambéry notamment, le nombre de places attribuées en IME est affligeant : alors qu'il faudrait trente places, seulement six ont été accordées. Les blocages concernent notamment de jeunes adultes relevant de l'amendement Creton et laissent des dizaines de familles d'enfants handicapés et polyhandicapés sur le bord du chemin. Mme Cluzel, quand elle était secrétaire d'État chargée des personnes handicapées, m'avait promis que les Savoyards pourraient bénéficier de la création d'un nouvel établissement en Isère. J'étais certaine que ce ne serait pas le cas ; la situation actuelle me donne malheureusement raison. J'attends des réponses précises sur ces questions.
+
+Mme la présidente. La parole est à Mme la ministre déléguée chargée de l’organisation territoriale et des professions de santé.
+
+Mme Agnès Firmin Le Bodo, ministre déléguée chargée de l’organisation territoriale et des professions de santé. Je vous prie d'excuser l'absence du ministre des solidarités, de l'autonomie et des personnes handicapées, Jean-Christophe Combe, qui m'a demandé de vous transmettre sa réponse concernant la situation dans les établissements médico-sociaux accueillant des personnes en situation de handicap, affectés notamment par la vacance de certains postes. Le Gouvernement a défini comme politique prioritaire l’attractivité des métiers du soin et du « prendre soin », avec l'objectif de faciliter les recrutements et de fidéliser les professionnels en poste dans le secteur sanitaire et social.
+
+Grâce aux mesures prises, 700 000 salariés ont bénéficié d’une revalorisation de 183 euros net par mois : 500 000 au titre du Ségur de la santé et de la mission dite Laforcade et 200 000 à la suite des annonces de la conférence des métiers de l'accompagnement social et médico-social du 18 février 2022. Au total, cela représente un effort de près de 4 milliards d’euros, dont 3,2 milliards de la part de l’État et 800 millions de la part des départements. À la fin de l'année 2022, Jean-Christophe Combe a annoncé l’élargissement des mesures de revalorisation salariale prises dans la fonction publique à l’ensemble des salariés du secteur social et médico-social, soit un nouvel effort de 1 milliard d’euros.
+
+Quant à la future convention collective unique, celle-ci représente effectivement un passage souhaitable et même incontournable. Elle permettra d’agir auprès de l’ensemble des salariés en suivant une approche globale et systémique. Pour cela, nous avons conscience que les partenaires sociaux représentant les salariés et les employeurs doivent accélérer leur dialogue pour donner des perspectives claires aux salariés. L’État a fait sa part : la balle est désormais dans leur camp. Nous suivons bien entendu de près l’évolution des discussions et, si elles aboutissent, nous sommes prêts à abonder significativement la future convention collective unique.
+
+Enfin, nous voulons améliorer l’attractivité des métiers sociaux et médico-sociaux en transformant profondément les voies d'accès à ceux-ci et les carrières auxquelles ils donnent lieu. Pour attirer tous les talents que ce secteur mérite, nous engageons avec le ministre du travail, du plein emploi et de l'insertion une réforme profonde des dispositifs de validation des acquis de l’expérience (VAE).
+
+Soyez assurée que nous soutenons le développement massif de l’apprentissage, que nous adaptons les formations initiales et continues pour répondre aux évolutions des métiers et que nous mobilisons les acteurs du service public de l’emploi pour permettre l’orientation et la reconversion des demandeurs d’emploi. Quant à vos questions les plus précises, je les transmettrai à Mme la ministre déléguée chargée des personnes handicapées, Geneviève Darrieussecq.
+
+Mme la présidente. La parole est à Mme Émilie Bonnivard.
+
+Mme Émilie Bonnivard. Je vous remercie, madame la ministre déléguée. Toutefois, j'insiste sur deux points : il est urgent de fournir des places supplémentaires en IME en Savoie ; par ailleurs, il faut revaloriser le travail des personnels techniques et administratifs de ces établissements. Alors que le coût de la vie en Savoie est plus élevé qu'ailleurs, leur rémunération est extrêmement modeste. Ils tendent donc à quitter les établissements alors même que leur poste est essentiel. En outre, parce que les équipes de ces établissements fonctionnent comme des familles, ces personnels ont très mal vécu le fait que leurs collègues intervenant auprès des enfants soient revalorisés et eux non, d'autant que tous font preuve du même engagement auprès des familles et des enfants.
