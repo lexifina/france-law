@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700589
+
+- Question : [SEQ220700589](seq220700589.md) — Coût et financement des formations en masso-kinésithérapie
+
+## Réponse
+
+*Enseignement supérieur et recherche, JO du 2023-04-13, page 2516*
+
+A la suite de la décision du Conseil d'État du 7 octobre dernier relative à la fixation des droits d'inscription des étudiants en formation de masseur-kinésithérapeute dans les instituts de formation en masso-kinésithérapie (IFMK) publics, et conformément à l'article D. 4321-22 du code de la santé publique (CSP), un arrêté du ministère de la santé et de la prévention est en cours de publication. Il détermine ainsi les montants des droits d'inscription pour chaque année de formation en IFMK public, en se conformant aux montants définis dans l'arrêté du 19 avril 2019 relatif aux droits d'inscription dans les établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur : 170 € pour la 1ère et la 2ème année en IFMK, ce qui équivaut aux montants des droits d'inscription demandés en licence ; 243 € pour la 3ème et la 4ème année en IFMK, ce qui équivaut aux montants des droits d'inscription demandés en master. Il est également précisé qu'aucun frais de scolarité supplémentaire ne peut être demandé aux étudiants des IFMK publics. Ce projet d'arrêté a reçu un avis favorable du haut conseil des professions paramédicales (HCPP) et doit être examiné par le conseil national d'évaluation des normes (CNEN). En revanche, si le code de la santé publique prévoit une obligation pour les régions de financer les coûts pédagogiques des formations paramédicales qu'elles autorisent sur leur territoire lorsqu'elles sont délivrées par des instituts publics, les régions n'ont pas l'obligation de financer les instituts privés.
