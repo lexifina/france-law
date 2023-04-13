@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230104918
+
+- Question : [SEQ230104918](seq230104918.md) — Attractivité du métier de policier municipal
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-04-13, page 2536*
+
+La perte d'attractivité de certains métiers de la fonction publique, qui se traduit notamment depuis plusieurs années par une diminution des candidats au concours, constitue un sujet majeur pour le Gouvernement qui entend y remédier. Si la fonction publique territoriale n'échappe pas à cette tendance, tous les métiers ne sont toutefois pas concernés. Ainsi, les concours d'accès aux cadres d'emplois de la police municipale connaissent un nombre important d'inscrits sur les listes d'admission établies par les jurys. La difficulté tient ici plutôt à l'adéquation entre les souhaits de recrutement des collectivités et ceux d'affectation des lauréats, ce que démontre le grand nombre de lauréats encore inscrits sur les listes d'aptitude plusieurs années après le concours. Par ailleurs, le groupe de travail chargé, au sein du Conseil supérieur de la fonction publique territoriale, des concours dans la fonction publique territoriale conduit une réflexion afin de rénover, notamment, les épreuves sportives des concours, dont celles des concours de la police municipale. Le Gouvernement est ouvert à l'idée de développer les perspectives de carrière des policiers municipaux et, plus largement, des fonctionnaires de la fonction publique territoriale, notamment en assouplissant les règles de la promotion interne, ce qui permettrait de redonner des leviers managériaux aux employeurs territoriaux. Le chantier ouvert par le ministre de la transformation et de la fonction publiques sur l'accès, le parcours professionnel et les rémunérations dans la fonction publique sera l'occasion, dans le cadre d'une large concertation des employeurs territoriaux et des organisations syndicales, de concrétiser cet objectif dans le courant de l'année 2023.
