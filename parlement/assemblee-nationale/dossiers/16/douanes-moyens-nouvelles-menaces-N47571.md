@@ -1,0 +1,58 @@
+# Donner à la douane les moyens de faire face aux nouvelles menaces
+
+- Procédure : Projet de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N47571
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/douanes_moyens_nouvelles_menaces
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl22-531.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-04-13 : 1er dépôt d'une initiative. (PRJLSNR5S399B0531)
+  - 2023-04-13 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-04-13 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-05-17 : Dépôt de rapport (RAPPSNR5S399B0614, PRJLSNR5S399BTC0615)
+  - Discussion en séance publique
+    - 2023-05-30 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-05-31 : Dépôt d'une initiative en navette (PRJLANR5L16B1301)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-05-31 : Renvoi en commission au fond
+      - 2023-05-24 : Nomination de rapporteur
+      - 2023-06-13 : Réunion de commission
+      - 2023-06-14 : Réunion de commission
+      - 2023-06-19 : Réunion de commission
+      - 2023-06-14 : Dépôt de rapport (RAPPANR5L16B1352, PRJLANR5L16BTC1352)
+    - Travaux d'une commission saisie pour avis
+      - 2023-05-31 : Saisine pour avis d'une commission
+      - 2023-05-24 : Nomination de rapporteur
+      - 2023-05-24 : Réunion de commission
+      - 2023-06-13 : Réunion de commission
+      - 2023-06-13 : Réunion de commission
+  - Discussion en séance publique
+    - 2023-06-19 : Discussion en séance publique
+    - 2023-06-19 : Discussion en séance publique
+    - 2023-06-20 : Discussion en séance publique
+    - 2023-06-21 : Discussion en séance publique
+    - 2023-06-21 : Discussion en séance publique
+    - 2023-06-21 : Décision
+- Commission Mixte Paritaire
+  - 2023-06-22 : Dépôt d'un projet de loi (PRJLSNR5S399B0766)
+  - 2023-06-22 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2023-06-28 : Nomination de rapporteur
+    - 2023-06-28 : Dépôt du rapport d'une CMP (RAPPANR5L16B1451, PRJLANR5L16BTC1451)
+    - 2023-06-29 : Dépôt du rapport d'une CMP (RAPPSNR5S399B0803, PRJLSNR5S399BTC0804)
+  - Discussion en séance publique
+    - 2023-07-03 : Décision
+  - Discussion en séance publique
+    - 2023-07-05 : Discussion en séance publique
+    - 2023-07-05 : Décision
+  - 2023-06-29 : Décision de la CMP
+- Promulgation de la loi
+  - 2023-07-18 : Promulgation d'une loi
