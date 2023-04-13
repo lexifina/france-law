@@ -1,0 +1,9 @@
+# COMMUNE DE LA CHAPELLE JANSON : délibération DELIBCOM23046 — TRANSFERT TEMPORAIRE DU LIEU DE CELEBRATION DES MARIAGES PENDANT LES TRAVAUX DE LA MAIRIE
+
+- Collectivité : COMMUNE DE LA CHAPELLE JANSON
+- SIRET : 21350062200013
+- Date : 2023-04-13
+- Matière : 5.6 Institutions et vie politique/Exercice des mandats locaux
+- Objet : TRANSFERT TEMPORAIRE DU LIEU DE CELEBRATION DES MARIAGES PENDANT LES TRAVAUX DE LA MAIRIE
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500622/Deliberation/2023/400521/e067f4b99099416b17fb805da1832b152b092f034e5304daee97f2e961198c58.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
