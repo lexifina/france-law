@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700038
+
+- Question : [SEQ220700038](seq220700038.md) — Nécessité de dispositifs transfrontaliers de compensation financière et fiscale entre la France et le Luxembourg
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2023-04-13, page 2508*
+
+Les standards internationaux, traduits dans le modèle de convention fiscale de l'Organisation de coopération et de développement économiques (OCDE), prévoient que les revenus tirés d'une activité salariée sont imposés au lieu d'exercice de celle-ci. Cette règle figure dans la très grande majorité des conventions fiscales conclues par la France. Les régimes frontaliers qui existent entre la France et l'Allemagne, la Belgique et la Suisse dérogent à ce principe en prévoyant l'imposition des salaires des travailleurs frontaliers dans leur État de résidence. En contrepartie, une compensation financière est versée à l'État d'exercice de l'activité qui a renoncé à son droit d'imposer. Ainsi, en échange de leur renonciation à imposer les salaires des travailleurs frontaliers travaillant chez eux et qui résident en France, la France compense ces États à hauteur de la perte fiscale qui en découle pour eux. Dans le cas du Luxembourg, les règles d'imposition des revenus d'activité sont au contraire conformes aux standards internationaux et ne prévoient pas de régime frontalier. Un comité consultatif des élus a été instauré en décembre 2021 avec pour mission d'assurer le suivi de la relation bilatérale avec le Luxembourg. Réuni quatre fois par an sous la présidence du préfet de la Moselle, il associe des élus et des représentants de l'administration et est assisté dans ses missions par des groupes de travail. Une prochaine réunion de ce comité est ainsi prévue le 3 mars. Elle pourra donner l'occasion de dresser un bilan des projets cofinancés par le Luxembourg et de tracer de nouvelles perspectives dans un esprit de codéveloppement du bassin nord lorrain.
