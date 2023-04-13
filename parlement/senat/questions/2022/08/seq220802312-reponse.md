@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802312
+
+- Question : [SEQ220802312](seq220802312.md) — Plan d'évolution du site d'Oyonnax de l'INSA
+
+## Réponse
+
+*Enseignement supérieur et recherche, JO du 2023-04-13, page 2519*
+
+Le projet ambitieux de l'INSA de Lyon pour son campus d'Oyonnax est en complète adéquation avec les axes stratégiques du Schéma régional d'enseignement supérieur, de recherche et d'innovation (SRESRI) 2022-2028 de la région Auvergne-Rhône-Alpes. En effet, un des axes majeurs de ce schéma est d'investir pour l'équité territoriale et réussite. Avec ce projet ambitieux, l'INSA Lyon envoie un signal fort en faveur du développement de ce territoire en adaptant son offre de formation et ses structures aux besoins des étudiants et des entreprises du secteur. L'INSA Lyon, qui est fortement engagé en faveur du développement durable et de la responsabilité sociétale qui irrigue tous les niveaux du cursus ingénieur, permet donc à ses diplômés d'être en adéquation avec les besoins de la région. Le MESR porte une grande attention aux spécificités des territoires, afin d'accompagner ses opérateurs dans une définition de l'offre de formation qui corresponde pleinement aux besoins de recrutements locaux. C'est la raison pour laquelle, le projet de formation présenté par l'INSA Lyon a été élaboré a partir de l'analyse des besoins exprimés par les entreprises du territoire d'Oyonnax notamment par l'intermédiaire de POLYVIA, le syndicat professionnel de la filière plasturgie et composites. Il est important que les étudiants domiciliés sur le site d'Oyonnax puissent bénéficier de formations plus diversifiées et répondant à leurs attentes. Sur la question précise de savoir si le nouveau diplôme peut être proposé en 3ème année au lieu de la 5ème, il appartient évidemment à l'INSA de voir comment articuler au mieux cette offre, mais le MESR sera attentif à l'accompagner au mieux afin de répondre aux besoins du territoire.
