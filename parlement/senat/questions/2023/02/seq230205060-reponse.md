@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230205060
+
+- Question : [SEQ230205060](seq230205060.md) — Aide au financement du brevet d'aptitude aux fonctions d'animateur
+
+## Réponse
+
+*Jeunesse et service national universel, JO du 2023-04-13, page 2538*
+
+Dès octobre 2021, les assises de l'animation ont réuni tous les acteurs de la filière afin de répondre à la crise des vocations constatée. Les assises ont abouti en février 2022 à un plan pour le renouveau de l'animation en accueils collectifs de mineurs. Il consiste en vingt-cinq mesures visant à promouvoir la qualité éducative des activités, former des animateurs et renforcer l'attractivité des métiers. Un comité de filière animation composé des représentants des acteurs du champ des accueils collectifs de mineurs (fédérations d'éducation populaire, employeurs et salariés, État et collectivités territoriales) a été installé le 20 octobre afin d'assurer, dans le dialogue et la coopération, la mise en oeuvre de ce plan. Parmi les mesures du plan, et au regard du coût des formations pour les jeunes, a été créée une aide exceptionnelle de 200 € pour les stagiaires qui se trouvaient en cours de formation BAFA au 31 décembre 2021 et qui souhaitaient s'inscrire à une session d'approfondissement ou de qualification entre le 1er janvier et le 31 décembre 2022. L'aide était conçue pour 20 000 bénéficiaires. Au regard du succès de la mesure, des crédits complémentaires ont été mobilisés pour répondre à la demande. Ainsi, au final, elle a pu bénéficier à 27 000 jeunes. 5,4 M€ ont ainsi été consacrés à ce dispositif exceptionnel. En revanche, s'agissant d'une aide à la finalisation du parcours de formation, par définition, les candidats qui ont entamé un parcours de formation en 2022 n'ont pas pu être éligibles au dispositif. En tout état de cause, au-delà de cette mesure exceptionnelle en 2022, des réponses structurelles en vue de générer des vocations seront arrêtées à la lumière des travaux du comité de filière.
