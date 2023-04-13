@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103761
+
+- Question : [SEQ221103761](seq221103761.md) — Droits de succession
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2023-04-13, page 2511*
+
+À des fins budgétaires et de recherche d'une plus grande équité fiscale, l'article 5 de loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012 a aménagé la fiscalité applicable en matière de droits de mutation à titre gratuit (DMTG), notamment en allongeant le délai du rappel fiscal des donations antérieures prévu à l'article 784 du code général des impôts (CGI) de dix à quinze ans. La limitation du rappel des donations antérieures, instituée en 1991, conduit notamment à ce que, lorsqu'un contribuable a bénéficié d'un abattement au titre d'une donation, il peut à nouveau en bénéficier, pour l'intégralité de son montant, au titre d'une nouvelle transmission effectuée au moins quinze ans plus tard. Or, le montant de l'abattement applicable en ligne directe, soit 100 000 euros, est très proche du patrimoine net médian de l'ensemble des ménages, qui, selon l'INSEE (institut national de la statistique et des études économiques), s'élevait à 124 800 euros par foyer en 2021(Insee, enquête « Histoire de vie et patrimoine » publiée le 25 janvier 2023). L'abattement s'appliquant par parent et par donataire ou héritier, il aboutit à lui seul à ce qu'une très large majorité des transmissions s'effectue en franchise de droits. Au regard de cette situation, le délai de rappel fiscal de quinze ans aujourd'hui applicable, qui renforce l'effet des abattements en leur permettant de s'appliquer à nouveau au terme de cette durée, est suffisant. Dès lors, il n'y a pas lieu de diminuer ce délai de rappel fiscal, ce qui aurait pour effet de concentrer davantage encore le paiement des droits de donation et de succession sur un nombre restreint de contribuables.
