@@ -2,7 +2,7 @@
 
 LISTE DES PIÈCES JUSTIFICATIVES À TRANSMETTRE LORS DU DÉPÔT DU DOSSIER DE DEMANDE D'ARRÊT TEMPORAIRE
 
-Formulaire de demande d'aide complété et signé comprenant le formulaire de l'attestation sur l'honneur et l'engagement de rester à quai pendant la ou les périodes d'arrêt.
+Formulaire de la demande de subvention dématérialisé dans lequel le porteur s'engagera à respecter les termes de l'arrêté du 27 janvier 2023 modifié accompagné des annexes financières.
 
 Copie de l'autorisation nationale de pêche pour le stock de sole commune dans le Golfe de Gascogne.
 
