@@ -22,7 +22,7 @@ Français |
 
 4,5 heures |
 
-Histoire - Géographie - Enseignement moral et civique |
+Histoire-Géographie-Enseignement moral et civique |
 
 3 heures |
 
@@ -34,16 +34,26 @@ Mathématiques |
 
 4,5 heures |
 
-SVT, technologie,
+SVT,
 
 physique-chimie |
 
-4 heures |
+3 heures |
 
-Total (* *) |
+Soutien ou approfondissement |
 
-26 heures, dont 3 heures d'enseignements complémentaires |
+1 heure |
+
+Total (**) (***) |
+
+26 heures |
 
 (*) Chacun de ces enseignements peut être organisé à raison de 2 heures hebdomadaires sur un semestre.
 
-(* *) S'y ajoutent au moins 10 heures annuelles de vie de classe. |
+(**) S'y ajoutent au moins 10 heures annuelles de vie de classe.
+
+(***) S'y ajoute également l'accompagnement aux devoirs. |
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 7 avril 2023 (NOR : MENE2302486A), ces dispositions entrent en vigueur à compter de la rentrée scolaire 2023.
