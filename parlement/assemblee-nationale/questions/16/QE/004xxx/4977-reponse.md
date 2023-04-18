@@ -1,0 +1,9 @@
+# Réponse à la question n° 4977
+
+- Question : [4977](4977.md) — Question n° 4977 — SDIS et changement climatique
+
+## Réponse
+
+*JO du 2023-04-18, page 3673*
+
+Les services d'incendie et de secours (SIS) sont des établissements publics administratifs dotés de la personnalité juridique et de l'autonomie financière. Leur financement résulte d'un équilibre entre les contributions des départements, des établissements publics de coopération intercommunale et des communes. L'État apporte son concours au budget des services d'incendie et de secours à travers différentes dotations. La loi n° 2021-1520 du 25 novembre 2021 visant à consolider notre modèle de sécurité civile et valoriser le volontariat des sapeurs-pompiers et les sapeurs-pompiers professionnels prévoit dans son article 54 que le Gouvernement remette au Parlement un rapport portant sur le financement des services départementaux et territoriaux d'incendie et de secours avant le 1er janvier 2023. L'Inspection générale de l'administration (IGA) a été chargée de la rédaction de ce rapport, qui a fait l'objet d'une transmission au Parlement le 27 décembre 2022. Il est également disponible sur le site internet du ministère de l'Intérieur et des Outre-mer. L'IGA a mené ses travaux en y associant toutes les parties prenantes. Elle relève notamment que le développement d'un volet maîtrise de la dépense est à encourager, en favorisant notamment les mutualisations. En matière de ressources, elle note que la contribution du bloc communal et son plafonnement à l'inflation pourraient être remis à plat pour tenir compte de l'évolution de la population et des risques. Ce rapport nourrit les réflexions qui sont été engagées sur le modèle de financement des SIS. L'ensemble des préconisations fait aujourd'hui l'objet d'une étude, en collaboration avec les principales associations d'élus.
