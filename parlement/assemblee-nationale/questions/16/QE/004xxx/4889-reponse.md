@@ -1,0 +1,9 @@
+# Réponse à la question n° 4889
+
+- Question : [4889](4889.md) — Question n° 4889 — Inscription des enfants des gens du voyage au collège
+
+## Réponse
+
+*JO du 2023-04-18, page 3631*
+
+La situation des enfants des gens du voyage à l'âge d'entrer au collège en raison des nouvelles conditions relatives à l'instruction en famille est un point d'attention du ministère. Tous les enfants âgés de trois à seize ans présents sur le territoire national sont soumis à l'obligation d'instruction. Avec la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République, la scolarisation est la règle. En effet, l'enjeu pour la Nation est celui de viser l'émancipation individuelle et de lutter contre les replis identitaires et garantir à tous les enfants le droit à l'instruction qui leur est dû. Le législateur a toutefois prévu quatre motifs permettant une demande de dérogation à cette règle, dont celui de l'itinérance. En cas de refus des services de l'éducation nationale, la règle de scolarisation s'impose. Si la dérogation est accordée, le CNED peut être sollicité par les familles qui le souhaitent. Un dispositif dans un collège de la commune de Decazeville qui permet aux élèves inscrits au CNED de suivre des cours avec d'autres jeunes de leur âge inscrits au collège a été évoqué. Cette organisation particulière est issue d'une convention d'accueil des élèves inscrits au CNED. Il en existe 71 actuellement sur tout le territoire national, signée par la direction des services départementaux de l'éducation nationale (DSDEN), l'établissement et le CNED. Ces modalités d'accompagnement pédagogique, en lien avec le CNED et les établissements scolaires, constituent en effet, un levier pour favoriser l'assiduité scolaire et la continuité dans les apprentissages des enfants instruits en famille.
