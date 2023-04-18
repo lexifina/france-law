@@ -1,0 +1,9 @@
+# Réponse à la question n° 6565
+
+- Question : [6565](6565.md) — Question n° 6565 — Actes de corruption des ministères envers les membres de l'Assemblée nationale
+
+## Réponse
+
+*JO du 2023-04-18, page 3692*
+
+Dès l'automne 2022, le Gouvernement a souhaité consulter l'ensemble des groupes politiques, de l'Assemblée nationale et du Sénat, afin d'échanger sur les évolutions à apporter à notre système de retraite par répartition, pour assurer sa pérennité face aux tendances démographiques de long terme. À l'issue de ces discussions préalables, le projet de loi de financement rectificative de la sécurité sociale pour 2023, portant réforme du régime de retraite, a été élaboré puis présenté en Conseil des ministres le 23 janvier 2023 et transmis au Parlement. Dans le cadre du travail parlementaire, le projet de loi a fait l'objet d'un effort inédit de concertation avec la majorité présidentielle ainsi que l'ensemble des parlementaires de l'opposition disposés à l'enrichir, afin de travailler à des améliorations du texte. Lors de l'examen du texte en première lecture à l'Assemblée nationale puis au Sénat, cette démarche a permis de nombreuses avancées sur des sujets majeurs, tels que la prise en charge des carrières longues et des métiers difficiles, l'accès des femmes à la retraite, les petites pensions ou encore le soutien à l'emploi des seniors. Au terme de l'examen du texte en première lecture, et sur la base de l'accord trouvé entre les deux chambres en commission mixte paritaire, ce travail s'est poursuivi jusqu'au terme de la navette parlementaire afin de parvenir à l'accord le plus large possible sur cette réforme indispensable à l'avenir de notre pays et à l'adoption définitive du projet de loi, le 20 mars 2023. C'est guidé par les mêmes principes d'ouverture et de dialogue avec l'ensemble des groupes politiques disposés en ce sens que le Gouvernement poursuivra son action.
