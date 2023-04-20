@@ -38,7 +38,7 @@ Option tarifaire |
 
 EHPAD |
 
-Modalités de tarification |
+Modalité de tarification |
 
 EHPAD |
 
@@ -50,13 +50,21 @@ Date d'ouverture de la structure |
 
 Tout ESMS |
 
-Régime de l'ESMS au regard des obligations d'évaluation interne et d'évaluation externe |
-
-Tout ESMS |
-
-Autorisation spécifique - UHR / Unité Spécifique Alzheimer/ PASA / ESA |
+Autorisation spécifique-UHR/ Unité Spécifique Alzheimer/ PASA/ ESA/ Centre de ressource territorial pour personnes âgées |
 
 EHPAD + SSIAD + SPASAD |
+
+Plateforme d'accompagnement et de répit des aidants |
+
+EHPAD, IME, établissements pour enfants et adolescents polyhandicapés, ITEP, MAS, FAM, EAM, SPASAD, SSIAD, SESSAD, SAMSAH |
+
+Dispositifs spécifiques destinés aux enfants et adolescents handicapés |
+
+SESSAD, IME, ITEP |
+
+Dispositifs spécifiques destinés aux adultes handicapés |
+
+Tout ESMS pour adultes en situation de handicap |
 
 2. Contractualisation
 
@@ -418,46 +426,6 @@ Etablissement mono-bâtiment |
 
 Tout ESMS |
 
-Contraintes architecturales spécifiques |
-
-Tout ESMS |
-
-Date de construction de l'établissement ou date de la dernière grosse rénovation assimilable à une reconstruction |
-
-Tout ESMS |
-
-Réalisation du diagnostic accessibilité des bâtiments |
-
-Tout ESMS |
-
-Date de réalisation du diagnostic |
-
-Tout ESMS |
-
-Date de passage de la dernière commission de sécurité |
-
-Tout ESMS |
-
-Avis favorable de la commission de sécurité |
-
-Tout ESMS |
-
-Respect de la réglementation incendie |
-
-Tout ESMS |
-
-Respect de la réglementation relative à l'amiante |
-
-Tout ESMS |
-
-Respect de la réglementation énergétique |
-
-Tout ESMS |
-
-Respect de la réglementation accessibilité |
-
-Tout ESMS |
-
 Accès à un groupe électrogène |
 
 Tout ESMS |
@@ -474,65 +442,77 @@ Superficie des terrains hors emprise foncière en m2 |
 
 Tout ESMS |
 
-Nombre de chambres individuelles |
+Nombre de chambres individuelles au 31 décembre de l'année N-1 |
 
-Uniquement les établissements :
+IME, ITEP, IEM, IDA, EEAP, IDV, MAS, FAM/ EAM, CRP, EANM, EHPAD |
 
-- Institut médico-éducatif (I.M.E.)
+Nombre de chambres doubles au 31 décembre de l'année N-1 |
 
-- Institut thérapeutique éducatif et pédagogique (I.T.E.P.)
+IME, ITEP, IEM, IDA, EEAP, IDV, MAS, FAM/ EAM, CRP, EANM, EHPAD |
 
-- Etablissement pour déficient moteur (I.E.M.)
+Nombre de chambres supérieures à deux lits au 31 décembre de l'année N-1 |
 
-- Institut médico-pédagogique (I.M.P.)
+IME, ITEP, IEM, IDA, EEAP, IDV, MAS, FAM/ EAM, CRP, EANM, EHPAD |
 
-- Institut pour déficients auditifs
+Nombre total de bâtiments de l'établissement |
 
-- Etablissement pour enfants ou adolescents polyhandicapés
+Tout ESMS |
 
-- Institut pour déficients visuels
+Nombre total de chambres installées au 31 décembre de l'année N-1 |
 
-- Maison d'accueil spécialisée (M.A.S)
+IME, ITEP, IEM, IDA, EEAP, IDV, MAS, FAM/ EAM, CRP, EANM, EHPAD |
 
-- Foyer d'accueil médicalisé pour adultes Handicapés (F.A.M.)
+Caractéristiques de chaque bâtiment destiné à de l'hébergement permanent (jusqu'à 8 bâtiments) :
 
-- Centre rééducation professionnelle
+-Nom du bâtiment
 
-- Etablissement expérimental pour adultes handicapés
+-Numéro FINESS du bâtiment
 
-- Foyer hébergement adultes handicapés
+-Contrainte architecturale
 
-- Foyer de vie pour adultes handicapés (EHPAD) |
+-Date de construction
 
-Nombre total de chambres installées au 31.12 |
+-Date des derniers gros travaux
 
-Uniquement les établissements :
+-Date de passage de la dernière commission de sécurité
 
-- Institut médico-éducatif (I.M.E.)
+-Avis favorable de la commission de sécurité
 
-- Institut thérapeutique éducatif et pédagogique (I.T.E.P.)
+-Présente d'amiante
 
-- Etablissement pour déficient moteur (I.E.M.)
+-Règlementation énergétique appliquée à la construction
 
-Institut médico-pédagogique (I.M.P.)
+-Mode de chauffage principal
 
-- Institut pour déficients auditifs
+-Présence d'un système de rafraîchissement des locaux
 
-- Etablissement pour enfants ou adolescents polyhandicapés
+-Isolation des menuiseries extérieures de pièces de vie
 
-- Institut pour déficients visuels
+-Respect de la réglementation accessibilité
 
-- Maison d'accueil spécialisée (M.A.S)
+-Nature du droit d'occupation
 
-- Foyer d'accueil médicalisé pour adultes handicapés (F.A.M.)
+-Superficie des locaux en mètres carré (en Surface Dans Œuvre)
 
-- Centre rééducation professionnelle
+-Nombre de chambres individuelles
 
-- Etablissement expérimental pour adultes handicapés
+-Nombre de chambres doubles
 
-- Foyer hébergement adultes handicapés
+-Nombre de chambres supérieures à deux lits
 
-- Foyer de vie pour adultes handicapés (EHPAD) |
+-Nombre total de chambres
+
+-Nombre total de lits
+
+-Nombre de chambres avec sanitaire complet (lavabo, douche et toilettes)
+
+-Nombre de chambres avec sanitaires partiel (lavabo et toilettes)
+
+-Nombre de chambres sans sanitaire
+
+-Type d'ERP du bâtiment (J ou U) |
+
+IME, ITEP, IEM, IDA, EEAP, IDV, MAS, FAM/ EAM, CRP, EANM et EHPAD |
 
 Organisation des transports |
 
@@ -550,7 +530,7 @@ Accessibilité au transport collectif |
 
 Tout ESMS |
 
-Plateau technique / Equipement en propre |
+Plateau technique/ Equipement en propre |
 
 Tout ESMS |
 
@@ -572,19 +552,11 @@ Partenariat avec un réseau de santé |
 
 Tout ESMS |
 
-Type de réseau de santé |
-
-Tout ESMS |
-
 Raison sociale des réseaux de santé partenaires |
 
 Tout ESMS |
 
-Partenariat avec des acteurs de la coordination médico-sociale |
-
-Tout ESMS |
-
-Raison sociale de vos partenaires |
+Partenariat avec un ou des dispositifs d'appui à la coordination des parcours de santé mentionné à l'article L. 6327-1 du code de la santé publique |
 
 Tout ESMS |
 
@@ -614,45 +586,29 @@ Tout ESMS |
 
 (3) Hospitalisation à domicile.
 
-9. Démarche d'évaluation interne et externe
+9. Programmation du cycle des évaluations
+
+Le tableau est remplacé par le tableau suivant :
 
 Items |
 
 ESMS concernés |
 
-Cycle d'évaluation interne/évaluation externe |
+Pilotage de la démarche qualité :
 
-|
+-Votre établissement s'est-il organisé pour conduire la démarche d'amélioration de la qualité, en vue de la prochaine évaluation programmée par les autorités ?
 
-La programmation des cycles d'évaluation interne et externe est-elle réalisée ? |
+-Avez-vous engagé une démarche d'autoévaluation dans la perspective de la prochaine évaluation programmée par les autorités ?
 
-Tout ESMS |
-
-Date du dernier rapport d'évaluation interne |
+-Date du dernier rapport d'évaluation |
 
 Tout ESMS |
 
-Date du dernier rapport d'évaluation externe |
+Formalisation et suivi :
 
-Tout ESMS |
+-La politique d'amélioration continue de la qualité est-elle formalisée ?
 
-Méthodologie de la démarche d'EI / EE |
-
-|
-
-Méthodologie de l'EI |
-
-Tout ESMS |
-
-Formalisation et suivi |
-
-|
-
-La démarche d'évaluation continue est-elle formalisée ? |
-
-Tout ESMS |
-
-La démarche d'évaluation continue de la qualité est-elle retracée chaque année dans le rapport d'activité ? |
+-Les actions menées dans ce cadre sont-elles retracées chaque année dans le rapport d'activité de l'établissement ? |
 
 Tout ESMS |
 
@@ -684,13 +640,13 @@ Tout ESMS |
 
 Profil des personnes accompagnées : répartition en fonction des GIR (1 à 6) |
 
-EHPAD/SSIAD/SPASAD |
+EHPAD/ SSIAD/ SPASAD |
 
 Profil des personnes accompagnées : répartition en fonction des types de déficiences |
 
-Tous ESMS sauf EHPAD |
+Tout ESMS sauf EHPAD |
 
-Durée moyenne de séjour / d'accompagnement des personnes sorties définitivement au cours de l'année |
+Durée moyenne de séjour/ d'accompagnement des personnes sorties définitivement au cours de l'année |
 
 Tout ESMS |
 
@@ -704,7 +660,7 @@ EHPAD |
 
 Score moyen dépendance GMP (dernier validé et dernier connu) |
 
-EHPAD /SSIAD/SPASAD |
+EHPAD/ SSIAD/ SPASAD |
 
 Score moyen en soins requis PMP (dernier validé et dernier connu) |
 
@@ -720,7 +676,7 @@ Tout ESMS |
 
 Taux d'hospitalisation complète |
 
-Tout ESMS (hors SSIAD, SESSAD, SAMSAH, CMPP, CAMSP, SPASAD, SAVS, ESAT) |
+Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, CMPP, CAMSP, SPASAD, SAVS, ESAT) |
 
 Taux de réalisation de l'activité |
 
@@ -730,9 +686,7 @@ Taux de réalisation de l'activité |
 
 CAMSP et CMPP |
 
-Taux d'occupation des lits ou places autorisés
-
-(accompagnement permanent) |
+Taux d'occupation des lits ou places autorisés (accompagnement permanent) |
 
 Tout ESMS (Hors CAMSP et CMPP) |
 
@@ -746,9 +700,9 @@ Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, SPASAD, SAVS, CAMSP et CMPP) |
 
 Nombre moyen de journées d'absence de personnes accompagnées sur la période |
 
-Tout ESMS (hors SSIAD, SESSAD, SAMSAH, SPASAD, SAVS, CAMSP et CMPP) |
+Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, SPASAD, SAVS, CAMSP et CMPP) |
 
-Part des actes/séance programmées non réalisés |
+Part des actes/ séance programmées non réalisés |
 
 CAMSP, CMPP |
 
@@ -756,17 +710,29 @@ File active des personnes accompagnée sur la période |
 
 Tout ESMS |
 
-Taux d'admission sur les lits/places |
+Taux d'admission sur les lits/ places |
 
-Tout ESMS hors CAMSP et CMPP |
+Tout ESMS (Hors CAMSP et CMPP) |
+
+Taux d'admission sur lits ou places en accueil ou hébergement temporaire |
+
+Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, SAVS, SPASAD, CMPP et CAMSP |
+
+Taux d'admission sur places, en accueil de jour |
+
+Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, SAVS, SPASAD, CMPP et CAMSP |
 
 Taux de rotation des personnes accompagnées |
 
-Tout ESMS hors CAMSP et CMPP |
+Tout ESMS (Hors CAMSP et CMPP) |
+
+Taux de rotation des personnes accompagnées en hébergement temporaire |
+
+Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, SAVS, SPASAD, CMPP et CAMSP |
 
 Taux de rotation des personnes accompagnées en accueil de jour |
 
-EHPAD, MAS et FAM |
+EHPAD, MAS et FAM/ EAM |
 
 Axe 2 : Ressources humaines
 
@@ -797,6 +763,14 @@ Tout ESMS |
 Répartition du personnel par fonction |
 
 Tout ESMS |
+
+Présence d'un (e) infirmier (e) de nuit, éventuellement sous la forme d'une astreinte mutualisée entre plusieurs établissements |
+
+EHPAD |
+
+Présence effective d'un médecin coordonnateur au sein de l'établissement à hauteur de l'effectif minimal prévu par le code de l'action sociale et des familles |
+
+EHPAD |
 
 Pyramide des âges du personnel |
 
