@@ -16,9 +16,9 @@ L'année sociale commence le 1er juillet pour se terminer le 30 juin de l'année
 
 L'association est obligatoirement affiliée à la fédération départementale ou interdépartementale des chasseurs de... (1).
 
-Art. 4.-Est admis à adhérer à l'association de chasse avec droits et obligations définis aux articles ci-après et au règlement intérieur tout titulaire du permis de chasser ou d'une autorisation assimilée valable sur la portion de zone maritime où se trouve situé le territoire de l'association.
+Art. 4.-Est admis à adhérer à l'association de chasse avec droits et obligations définis aux articles ci-après et au règlement intérieur tout titulaire du permis de chasser ou d'une autorisation assimilée, y compris d'une autorisation de chasser, valable sur la portion de zone maritime où se trouve situé le territoire de l'association.
 
-Les demandes d'adhésion doivent être refusées à toute personne qui ne présenterait pas son permis de chasser validé pour la campagne de chasse considérée ou la période de validité ou qui ne déclarerait pas être exempt de condamnations pour infraction de chasse réprimées au minimum par une contravention de la 4e classe, depuis moins de cinq ans.
+Les demandes d'adhésion doivent être refusées à toute personne qui ne présenterait pas son permis de chasser validé pour la campagne de chasse considérée ou la période de validité ou une autorisation assimilée, y compris une autorisation de chasser ou qui ne déclarerait pas être exempt de condamnations pour infraction de chasse réprimées au minimum par une contravention de la 4e classe, depuis moins de cinq ans.
 
 Des cartes temporaires à tarif réduit peuvent être proposées pour une période limitée ou pour participer à la chasse de certaines espèces de gibier ou à la destruction de certaines espèces nuisibles.
 
