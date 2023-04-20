@@ -502,7 +502,11 @@ DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DU NORD
 
 Fonction exercée |
 
-Niveau de qualification de l'emploi |
+Niveau
+
+de qualification
+
+de l'emploi |
 
 Nombre
 
@@ -694,7 +698,7 @@ B |
 
 15 |
 
-Adjoint au chef d'unité parc privé au service habitat |
+Responsable du CTT de Dunkerque au service habitat |
 
 B |
 
@@ -750,7 +754,7 @@ B |
 
 15 |
 
-Instructeur ANRU au service renouvellement urbain durable |
+Instructeur ANRU au service renouvellement durable |
 
 C |
 
@@ -1044,6 +1048,18 @@ Instructeur ANRU au service renouvellement urbain durable |
 
 B |
 
+1
+
+|
+
+15 |
+
+Responsable du CTT de Dunkerque au service habitat |
+
+01/07/2021 |
+
+B |
+
 3 |
 
 15 |
@@ -1255,6 +1271,18 @@ A |
 Chef de l'unité logement construction ville-délégation territoriale du Valenciennois |
 
 01/01/2020 |
+
+B |
+
+1 |
+
+15 |
+
+Adjoint chef d'unité parc privé au service habitat
+
+|
+
+01/07/2021 |
 
 B |
 
@@ -1577,3 +1605,7 @@ Conformément à l'article 1er de l'arrêté du 2 février 2022 (NOR : TERK22035
 Conformément à l'article 1 de l'arrêté du 27 avril 2022 (NOR : TERK2212913A), la présente annexe est remplacée, à effet du 1er janvier 2020, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la Haute-Marne.
 
 Conformément à l'article 1 de l'arrêté du 15 mars 2023 (NOR : TREK2307418A), la présente annexe est remplacée, à effet du 1er janvier 2020, pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement du Nord.
+
+Conformément à l'article 1 de l'arrêté du 30 mars 2023 (NOR : TREK2309036A), la présente annexe est remplacée, à effet du 1er juillet 2021, pour ce qui conccerne la répartition de l'enveloppe de la direction départementale de l'équipement du Nord.
+
+Conformément aux articles 1 et 2 de l'arrêté du 30 mars 2023 (NOR : TREK2309024A), la présente annexe est remplacée, à effet du 1er juillet 2021, pour ce qui conccerne la répartition de l'enveloppe de la direction départementale de l'équipement du Nord.
