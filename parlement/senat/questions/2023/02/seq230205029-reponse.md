@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230205029
+
+- Question : [SEQ230205029](seq230205029.md) — Déséquilibre dans la répartition de l'offre de formation publique et privée pour les jeux vidéo
+
+## Réponse
+
+*Enseignement supérieur et recherche, JO du 2023-04-20, page 2678*
+
+Depuis 2015, le ministère de l'enseignement supérieur et de la recherche s'est engagé dans la rénovation de la filière design et des métiers d'arts, en ayant notamment pour objectif de former des professionnels à des métiers d'avenirs et innovants, dans de nouvelles industries telles que celle du jeu vidéo. Depuis la rentrée universitaire 2018, a ainsi été créé le diplôme national des métiers d'arts et du design (DNMADE). Conférant le grade de licence, ce diplôme permet de valider une formation post-baccalauréat, organisée en 180 crédits européens. Cette formation comporte 14 spécialités, dont deux (DNMADE animation et DNMADE numérique) certifient les compétences des futurs professionnels du secteur du jeux vidéo. A la rentrée 2022, 22 établissements répartis sur l'ensemble du territoire, dispensaient ces formations. Cette évolution s'inscrit également dans le plan global France 2030, dont l'axe stratégique premier du 8ème objectif est « adapter la formation aux nouveaux besoins des filières de l'image et du son » (cf : dossier de presse France 2030 « un an d'actions pour mieux vivre, mieux produire et mieux comprendre »), en donnant des moyens aux établissements de développer ces formations. Le ministère a également pour objectif de garantir un équilibre entre offre de formation publique et privée afin de permettre à chaque étudiant de se former dans le domaine qu'il souhaite et porte également un plan de lutte contre tous les types de violences, qu'il s'agisse de harcèlement ou de violences sexuelles et sexistes, au sein des établissements de formation.
