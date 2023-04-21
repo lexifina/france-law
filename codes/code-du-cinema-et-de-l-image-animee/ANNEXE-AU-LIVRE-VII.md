@@ -454,6 +454,8 @@ Autriche ;
 
 Bolivie ;
 
+Bosnie-Herzégovine ;
+
 Brésil ;
 
 Bulgarie ;
@@ -468,11 +470,15 @@ Colombie ;
 
 Corée du Sud ;
 
+Costa Rica ;
+
 Croatie ;
 
 Danemark ;
 
 Emirats Arabes Unis ;
+
+Equateur ;
 
 Espagne ;
 
@@ -484,9 +490,15 @@ Finlande ;
 
 Grèce ;
 
+Guatemala ;
+
+Honduras ;
+
 Hong-Kong ;
 
 Hongrie ;
+
+Irak ;
 
 Islande ;
 
@@ -494,23 +506,35 @@ Italie ;
 
 Japon ;
 
+Koweït ;
+
 Lettonie ;
 
 Liban ;
 
 Lituanie ;
 
+Malaisie ;
+
 Maroc ;
 
 Mexique ;
+
+Nicaragua ;
 
 Norvège ;
 
 Nouvelle-Zélande ;
 
+Oman ;
+
+Panama ;
+
 Paraguay ;
 
 Pays-Bas ;
+
+Pérou ;
 
 Pologne ;
 
@@ -525,6 +549,8 @@ Roumanie ;
 Royaume-Uni ;
 
 Russie ;
+
+Salvador ;
 
 Serbie ;
 
@@ -541,6 +567,8 @@ Suisse Alémanique ;
 Suisse Italienne ;
 
 Taïwan ;
+
+Thaïlande ;
 
 Turquie ;
 
