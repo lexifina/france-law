@@ -1738,14 +1738,6 @@ France |
 
 |
 
-STARGEN (2) |
-
-France |
-
-15.07.2017 |
-
-|
-
 YOULI |
 
 France |
@@ -2066,7 +2058,7 @@ France |
 
 |
 
-STARGEN (2) |
+STARGEN |
 
 France |
 
@@ -2171,5 +2163,3 @@ France |
 "3" accession à la section principale du livre généalogique de la descendance d'animaux enregistrés à la section annexe [annexe II, partie 1, chapitre III, point 2, du règlement (UE) 2016/1012] ;
 
 "4" programme de sélection réalisé sur une race menacée, telle que définie à l'article 2, point 24, du règlement (UE) 2016/1012.
-
-(2) Type génétique hybride commun aux organismes de sélection Axiom et PIC France.
