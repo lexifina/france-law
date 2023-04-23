@@ -1,0 +1,67 @@
+# Article 1er
+
+Les parties conviennent ainsi de compléter comme suit l'article 3 « Durée du dispositif Pro-A » de l'accord relatif à la mise en place de la reconversion ou la promotion par l'alternance (Pro-A) au sein du secteur de l'aérien.
+
+« Article 3
+
+Durée du dispositif Pro-A
+
+Conformément aux dispositions légales en vigueur, le dispositif Pro-A porte sur une durée de 6 à 12 mois et peut être :
+
+– pour les jeunes de 16 à 25 ans révolus, qui n'ont pas validé un second cycle de l'enseignement secondaire et qui ne sont pas titulaires d'un diplôme de l'enseignement technologique ou professionnel, portée à trente-six mois ;
+
+– pour les salariés placés en activité partielle et ceux bénéficiaires de l'allocation adultes handicapés, portée jusqu'à vingt-quatre mois lorsque la nature des qualifications prévues l'exige ;
+
+– pour les salariés qui visent l'acquisition d'un diplôme ou d'un titre à finalité professionnelle dont la formation exige une durée supérieure à douze mois, portée jusqu'à vingt-quatre mois.
+
+Parmi les formations listées en annexe de l'accord, les diplômes ou titres à finalité professionnelle concernés par cette durée sont les suivants :
+
+– le CAP aéronautique – 3 options ;
+
+– le BAC Pro aéronautique – 3 options ;
+
+– le BAC Pro aéronautique – Aviation Générale ;
+
+– le BTS aéronautique ;
+
+– la mention complémentaire aéronautique – 6 options ;
+
+– Licences Pro métiers de l'industrie ;
+
+– le BTS électrotechnique ;
+
+– la LP génie civil et construction ;
+
+– le CAP conducteur routier de marchandises ;
+
+– le BAC Pro logistique ;
+
+– la LP logistique et transports internationaux ;
+
+– la Licence gestion de la sécurité et exploitation aéronautique ;
+
+– le BUT – Techniques de commercialisation : business développement et management de la relation client ;
+
+– le BTS négociation et digitalisation de la relation client ;
+
+– opérateur en cybersécurité ;
+
+– expert en informatique et systèmes d'information ;
+
+– la LP management et gestion des organisations ;
+
+– DipVigrM – Diplôme visé du programme grande école ;
+
+– Coach professionnel ;
+
+– le DUT information communication option communication des organisations ;
+
+– le BTS comptabilité et gestion ;
+
+– le BTS métiers des services à l'environnement.
+
+Cette liste pourra évoluer en fonction de l'éventuelle mise à jour des certifications éligibles au dispositif Pro-A listées en annexe de l'accord. L'actualisation de cette liste de certifications fera l'objet d'un avenant au présent accord de branche, conformément aux dispositions de l'article L. 6324-3 du code du travail.
+
+La durée des actions de positionnement, d'évaluation et d'accompagnement ainsi que des enseignements généraux, professionnels et technologiques doit être comprise entre 15 et 25 % de la durée du dispositif sans être inférieure à 150 heures, sauf pour le dispositif CléA (certification du socle de connaissance et compétences professionnelles) et sauf en cas de recours à la VAE.
+
+La durée de formation peut être portée au-delà de 25 % pour les pour les salariés qui visent l'acquisition d'un diplôme ou d'un titre à finalité professionnelle, les formations diplômantes concernées étant celles visées en annexe du présent accord. »
