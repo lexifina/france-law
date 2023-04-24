@@ -12,9 +12,17 @@ Dans chaque région, un arrêté préfectoral précise les sous-zones départeme
 
 Tableau. - Montants unitaires uniformes maximaux pour les 25 premiers hectares de surfaces fourragères par sous-zone
 
-Montants en €/hectare maximaux pour les 25 premiers hectares
+Montants en €/
 
-de surfaces fourragères |
+hectare maximaux
+
+pour les 25
+
+premiers hectares
+
+de surfaces
+
+fourragères |
 
 Haute montagne |
 
@@ -28,9 +36,9 @@ Sèche |
 
 Hors sèche |
 
-Sec |
+Sèche |
 
-Hors sec |
+Hors sèche |
 
 Sec |
 
@@ -44,9 +52,9 @@ Hors sèche |
 
 382 |
 
-154 |
+316 |
 
-96 |
+235 |
 
 154 |
 
