@@ -1,0 +1,9 @@
+# Réponse à la question n° 6406
+
+- Question : [6406](6406.md) — Question n° 6406 — LGV Rennes-Redon : les communes rurales encore une fois sacrifiées !
+
+## Réponse
+
+*JO du 2023-04-25, page 3905*
+
+Le grand projet ferroviaire de liaisons nouvelles Ouest Bretagne - Pays de la Loire (LNOBPL) consiste à améliorer la performance des liaisons ferroviaires sur les axes Nantes - Rennes - Bretagne Sud et Rennes – Brest, à l'horizon 2035 et au-delà. Sur le périmètre du projet, les habitants effectuent une très large majorité de leurs déplacements, courte comme longue distance, en voiture et une minorité par le train. L'objectif du projet est donc d'améliorer l'attractivité du mode ferroviaire par des gains capacitaires et en temps de trajet afin, notamment, de répondre à l'enjeu d'améliorer et décarboner les mobilités du quotidien. Compte-tenu notamment des enjeux environnementaux relatifs à la consommation d'espace agricole, à la biodiversité et à l'objectif de lutte contre l'artificialisation, la priorité est bien de réaliser en premier lieu le traitement des nœuds ferroviaires autour de Rennes et Nantes ainsi que la modernisation du réseau existant pour permettre des améliorations des dessertes, sans attendre la création de lignes nouvelles. Néanmoins, sur le tronçon Rennes-Redon, la question de cette ligne nouvelle se posera inévitablement dans un second temps. Sur ce tronçon, les études menées antérieurement ont démontré que le tracé des voies existantes, qui suivent la topographie de la vallée de la Vilaine, ne permet pas de travaux de relèvements de vitesse apportant des gains de temps significatifs. C'est pourquoi le comité de pilotage du projet a souhaité retenir en janvier 2023 le lancement d'études préliminaires des différents aménagements sur ce tronçon, y compris relatives à la section de ligne nouvelle Rennes-Redon. Ces études prendront en compte les enjeux environnementaux.
