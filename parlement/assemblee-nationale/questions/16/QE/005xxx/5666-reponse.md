@@ -1,0 +1,9 @@
+# Réponse à la question n° 5666
+
+- Question : [5666](5666.md) — Question n° 5666 — Octroi titre de reconnaissance de la Nation - militaires en missions spéciales
+
+## Réponse
+
+*JO du 2023-04-25, page 3834*
+
+Dans le cadre des engagements du contrat d'objectifs et de performance 2020 – 2025, l'Office national des combattants et des victimes de guerre (ONaCVG) a signé des conventions avec les états-majors d'armées, la gendarmerie nationale, le service du commissariat et la direction générale de la sécurité extérieure (DGSE). Ces conventions ont notamment été établies pour améliorer la prise en compte des demandes de carte du combattant et de titre de reconnaissance de la Nation (TRN) pour les militaires ayant participé à des opérations extérieures (OPEX). Une procédure ad hoc a été mise en place avec la DGSE afin que les services particuliers de ses membres puissent être pris en compte dès lors que leurs missions les ont amenés à évoluer sur des théâtres d'opérations extérieurs. Cette procédure a déjà permis la délivrance de nombreuses cartes du combattant et TRN pour les militaires totalisant 120 jours de présence en OPEX. Il est néanmoins précisé que cette procédure ne déroge pas au cadre juridique fixé par la loi n° 93-7 du 4 janvier 1993 relative aux conditions d'attribution de la carte du combattant. Pour les OPEX, deux références demeurent pour fixer les périodes et territoires ouvrant droit au bénéfice de la carte du combattant : l'arrêté du 12 janvier 1994, modifié en dernier lieu le 12 décembre 2018, et les arrêtés pris en application de l'article L. 4123-4 du code de la défense. En conséquence, les demandes agréées ne peuvent concerner que les opérations ou missions menées sur des territoires et durant des périodes définis par ces textes. La délivrance de la carte du combattant et du TRN hors de ce cadre contreviendrait au principe d'équité.
