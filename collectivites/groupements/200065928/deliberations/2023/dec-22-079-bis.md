@@ -1,0 +1,9 @@
+# CA LANNION-TREGOR COMMUNAUTE : délibération DEC_22_079_BIS — attribution d'une aide à l'accession à la propriété annule et remplace
+
+- Collectivité : CA LANNION-TREGOR COMMUNAUTE
+- SIRET : 20006592800018
+- Date : 2023-04-25
+- Matière : 8.5 Domaines de competences par themes/Politique de la ville-habitat-logement
+- Objet : attribution d'une aide à l'accession à la propriété annule et remplace
+- Transmis à la préfecture : 2023-05-23 00:00:00
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
