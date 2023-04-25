@@ -1,0 +1,9 @@
+# Réponse à la question n° 1630
+
+- Question : [1630](1630.md) — Question n° 1630 — Adéquation législations retraite entre le Luxembourg et la France
+
+## Réponse
+
+*JO du 2023-04-25, page 3906*
+
+Au Luxembourg et en France, l'âge légal de départ à la retraite est fixé respectivement à 65 ans et 62 ans. Toutefois, au Luxembourg comme en France, il est possible de bénéficier d'une retraite anticipée sous conditions. Au Luxembourg, un départ anticipé à la retraite est possible dès 57 ans pour les assurés qui justifient d'une durée d'assurance obligatoire totale – c'est-à-dire au Luxembourg et dans tous les autres État membres de la Communauté européenne – de 40 ans. En France, le départ anticipé à la retraite pour carrière longue n'est possible qu'à partir de 58 ans et pour les assurés qui justifient non seulement d'une période d'assurance cotisée totale qui varie en fonction de l'âge de départ envisagé et de l'année de naissance, mais également d'un nombre minimum de trimestres validés en début de carrière. Le règlement (CE) n° 883/2004 du Parlement européen et du Conseil du 29 avril 2004 sur la coordination des systèmes de sécurité sociale, dont bénéficient les assurés ayant travaillé en France et au Luxembourg, permet de totaliser les périodes d'assurance cotisées dans chacun des pays pour les droits à la retraite. Pour le bénéfice du dispositif de retraite anticipée pour carrière longue applicable, les périodes cotisées au Luxembourg sont donc retenues comme les périodes cotisées en France. En l'absence de cotisations, celles-ci ne peuvent pour autant être prises en compte. Le mécanisme de coordination prévu par les règlements européens a pour ambition de ne pas désavantager les assurés ayant poursuivi une carrière en Europe. Pour autant, rien ne justifierait d'accorder à certains assurés un accès dérogatoire à la retraite anticipée, au seul motif qu'ils ont effectué une partie de leur carrière à l'étranger.
