@@ -1,0 +1,52 @@
+# Améliorant l'efficacité des dispositifs de saisie et de confiscation des avoirs criminels
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N47629
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/dispositifs_saisie
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl23-169.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-04-25 : 1er dépôt d'une initiative. (PIONANR5L16B1162)
+  - 2023-11-16 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-04-25 : Renvoi en commission au fond
+      - 2023-11-15 : Nomination de rapporteur
+      - 2023-11-22 : Réunion de commission
+      - 2023-12-04 : Réunion de commission
+      - 2023-11-22 : Dépôt de rapport (RAPPANR5L16B1911, PIONANR5L16BTC1911)
+  - Discussion en séance publique
+    - 2023-12-04 : Discussion en séance publique
+    - 2023-12-05 : Discussion en séance publique
+    - 2023-12-05 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-12-05 : Dépôt d'une initiative en navette (PIONSNR5S419B0169)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-12-05 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2024-03-20 : Dépôt de rapport (RAPPSNR5S419B0445, PIONSNR5S419BTC0446)
+  - Discussion en séance publique
+    - 2024-03-27 : Discussion en séance publique
+    - 2024-03-27 : Décision
+- Commission Mixte Paritaire
+  - 2024-03-28 : Dépôt d'un projet de loi (PIONANR5L16B2416)
+  - 2024-03-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2024-04-30 : Nomination de rapporteur
+    - 2024-04-30 : Dépôt du rapport d'une CMP (RAPPANR5L16B2536, PIONANR5L16BTC2536)
+    - 2024-04-30 : Dépôt du rapport d'une CMP (RAPPSNR5S419B0560, PIONSNR5S419BTC0561)
+  - Discussion en séance publique
+    - 2024-05-13 : Discussion en séance publique
+    - 2024-05-13 : Décision
+  - Discussion en séance publique
+    - 2024-05-15 : Décision
+  - 2024-04-30 : Décision de la CMP
+- Conseil constitutionnel
+  - 2024-05-22 : Saisine du conseil constitutionnel
+  - 2024-06-20 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2024-06-23 : Promulgation d'une loi
