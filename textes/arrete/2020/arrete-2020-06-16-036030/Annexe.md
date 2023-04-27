@@ -501,3 +501,15 @@ L'antenne CDP de Kaweni du bureau de Longoni port. |
 Du 1er octobre 2021 au 31 mai 2023
 
 |
+
+Opération :
+
+Fermeture du bureau de douane de Grandpuits raffinerie.
+
+Service concerné :
+
+Bureau de douane de Grandpuits raffinerie.
+
+|
+
+Du 1er mars 2023 au 31 octobre 2024 |
