@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701373
+
+- Question : [SEQ220701373](seq220701373.md) — Aide financière à la reprise d'un emploi en cas de mobilité géographique
+
+## Réponse
+
+*Travail, plein emploi et insertion, JO du 2023-04-27, page 2857*
+
+Depuis sa création Pôle emploi propose des aides à la mobilité. Elles sont attribuées dans la limite d'un plafond annuel de 5 000 euros sur 12 mois sous forme d'aides aux déplacements, à l'hébergement et à la garde d'enfants pour les parents isolés dans le cadre d'une recherche d'emploi, d'une entrée en formation ou d'une reprise d'emploi. Pôle emploi dispense également des aides au permis dans la limite de 1 200 euros. Ces aides peuvent être accordées aux demandeurs d'emploi non indemnisés ou à ceux qui sont indemnisés au titre d'une allocation chômage dont le montant est inférieur ou égal à l'allocation d'aide au retour à l'emploi minimale. Dans le cas d'une reprise d'emploi, elles peuvent être accordées pendant un mois maximum suivant la reprise d'emploi. En outre, Pôle emploi investigue le champ de la mobilité résidentielle depuis plusieurs années. Suite à un premier test, Pôle emploi a expérimenté en 2022 dans le cadre de la Stratégie Pauvreté le déploiement d'une prestation d'accompagnement à la mobilité résidentielle pour accompagner les demandeurs d'emploi les plus fragiles qui le souhaiteraient dans une mobilité vers une zone d'emploi en tension. Les bénéficiaires ont été accompagnés dans l'ensemble du processus de mobilité résidentielle : de l'intention initiale, à la mise en lien avec des entreprises en recherche de salariés jusqu'à l'installation effective dans un nouveau territoire d'accueil. Cette initiative n'a néanmoins pas connu un développement significatif, très peu de demandeurs d'emplois ont sollicité cette offre de service expérimentale. Une analyse est en cours pour identifier les freins à sa mobilisation et proposer des aménagements et simplifications du dispositif.
