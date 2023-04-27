@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003391
+
+- Question : [SEQ221003391](seq221003391.md) — Prise en charge par la sécurité sociale de l'assistance lors d'une téléconsultation
+
+## Réponse
+
+*Santé et prévention, JO du 2023-04-27, page 2839*
+
+L'avenant 9 à la convention médicale signé le 31 juillet 2021 prévoit effectivement qu'un médecin conventionné ne peut pas réaliser plus de 20 % de son volume d'activité globale conventionnée à distance sur une année civile. Cette règle est le fruit d'un accord entre les partenaires conventionnels et s'inscrit dans la continuité de la position du Conseil national de l'Ordre des médecins (CNOM - Rapport « mésusage de de la télémédecine » adopté lors de la Session du CNOM de décembre 2020, mis à jour le 8 octobre 2021 et le 4 février 2022) après interrogation des conseils nationaux professionnels. Le conseil de l'ordre des médecins a considéré que l'exercice exclusif de la télémédecine par un médecin ne pouvait être déontologiquement admis. La télésanté est un levier particulièrement important pour améliorer l'accès aux soins de tous. C'est d'ailleurs dans cet esprit qu'ont été adoptées dans le cadre de l'état d'urgence sanitaire des mesures dérogatoires afin d'assouplir le recours à la télésanté (prise en charge à 100 % des téléconsultations, prise en charge du télésoin pour les professions paramédicales) dont certaines sont désormais intégrées au droit commun ou en cours de négociation dans le cadre conventionnel. Par ailleurs, comme le Président de la République l'a souhaité dans ses voeux au monde de la santé le 6 janvier 2023, les services du ministère chargé de la santé étudient les modalités d'évolution de ce seuil de 20 % afin de répondre aux difficultés d'accès aux soins tout en garantissant la qualité et la pertinence des prises en charge.
