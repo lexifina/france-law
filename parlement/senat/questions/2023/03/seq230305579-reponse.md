@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305579
+
+- Question : [SEQ230305579](seq230305579.md) — Prise en compte des cotisations IRCANTEC des élus locaux ayant déjà pris une retraite professionnelle ou autre
+
+## Réponse
+
+*Travail, plein emploi et insertion, JO du 2023-04-27, page 2862*
+
+Une lettre interministérielle du 8 juillet 1996 prévoit que les élus locaux percevant une pension de retraite continuent à se créer des droits à retraite complémentaire à l'IRCANTEC au titre de leur mandat, nonobstant les dispositions de l'article L. 161-22-1 A du code de la sécurité sociale qui a généralisé l'application du principe de non-constitution de droits nouveaux à retraite en cas de cumul d'une activité et d'une retraite, pour les assurés dont la première pension prend effet à compter du 1er janvier 2015. Par ailleurs, cette lettre prévoit également la règle selon laquelle un élu ayant cessé de cotiser à l'Ircantec au titre d'un mandat peut liquider sa retraite afférente à la même catégorie de mandat. Cette liquidation n'entrave pas la constitution de nouveaux droits au titre d'un mandat d'une autre catégorie. A titre d'exemple, un conseiller départemental cotisant à l'IRCANTEC peut cumuler ses indemnités en tant qu'élu départemental ainsi qu'une retraite issue d'un premier mandat de maire. Cette instruction, ainsi que celle du 25 mars 2022 permettant de ne pas tenir compte des droits en cours de constitution à l'IRCANTEC des élus afin de leur permettre de bénéficier des minima de pension, ont reçu un fondement légal dans la loi portant mesures d'urgence pour la protection du pouvoir d'achat votée en août 2022. Ainsi, les cotisations actuellement versées par un maire bénéficiant déjà d'une retraite professionnelle et d'une retraite Ircantec au titre d'une autre catégorie de mandat, continuent de lui ouvrir des droits au sein du régime y compris pour la période 2020 à 2022.
