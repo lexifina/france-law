@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802221
+
+- Question : [SEQ220802221](seq220802221.md) — Régime minier
+
+## Réponse
+
+*Santé et prévention, JO du 2023-04-27, page 2841*
+
+En application des orientations que lui fixe l'Etat dans le cadre de sa convention d'objectifs et de gestion, la Caisse autonome nationale de la sécurité sociale dans les mines (CANSSM) ne cesse de moderniser son offre de santé de proximité (développée sous le nom de Filieris). Afin de proposer des cadres de travail rénovés, d'être attractive pour les médecins désireux d'un exercice plus regroupé, de lutter contre les déserts médicaux, de répondre aux exigences de l'accord national sur les centres de santé et d'optimiser les dépenses et les consommations d'énergie, la CANSSM adapte sa présence. Ce faisant, elle apporte une réponse ajustée et durable aux besoins de la population des territoires dans lesquels elle est historiquement implantée. Il est confirmé que l'offre de santé de Filieris est ouverte à toute la population. Ainsi, en Moselle, au cours des derniers mois, de nouveaux centres de santé ont ouvert à Behren-lès-Forbach et Forbach. S'agissant du centre de médecine spécialisée de Freyming-Merlebach, il s'agit, non d'une suppression, mais d'un transfert dans des locaux moins vétustes et mieux adaptés. Dans le même temps, plusieurs regroupements ont, en effet, été opérés (Diesen, Merten, Porcelette…) pour réduire les temps liés aux déplacements des médecins et permettre, le cas échéant, le recrutement d'une secrétaire qui décharge les praticiens des tâches administratives. La consultation secondaire de Bure est assurée par le médecin d'Ottange. Le centre de santé d'Hayange a été transféré à Algrange, localité voisine, dans des locaux modernes et facilement accessibles (parking gratuit, implantation au rez-de-chaussée). Ces différentes situations illustrent la volonté de la CANSSM, et de l'Etat, de maintenir une offre de santé de proximité et de qualité accessible à tous.
