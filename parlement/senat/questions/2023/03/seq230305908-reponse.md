@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305908
+
+- Question : [SEQ230305908](seq230305908.md) — Coupures volontaires d'électricité et exercice du droit de grève
+
+## Réponse
+
+*Transition énergétique, JO du 2023-04-27, page 2856*
+
+Au cours du mouvement social lié à la réforme du régime des retraites, plusieurs centaines d'actes de malveillance se sont produits sur les réseaux électriques, prenant le plus souvent la forme de coupures volontaires, ou de baisses de tension. Ce sont plusieurs milliers de foyers qui ont ainsi été privés d'alimentation électrique, ainsi que de nombreux consommateurs professionnels, bien que l'intervention des services concernés pour rétablir le courant ait été généralement rapide grâce à la mobilisation des gestionnaires de réseau et de leurs équipes. Le Gouvernement condamne ces actes de malveillance, individuels, affectant des infrastructures vitales pour la Nation qui sont également l'outil de travail de plusieurs dizaines de salariés. Si les coupures sauvages d'électricité ne relèvent pas d'une infraction spécifique prévue et réprimée en tant que telles par le code pénal, les gestionnaires de réseaux portent systématiquement plainte pour qu'une enquête soit diligentée par les services de Police ou de Gendarmerie lorsque le dit acte de malveillance est susceptible d'être qualifié pénalement. De plus, au regard du risque de multiplication de ce type d'actions, les sociétés Enedis et RTE ont par ailleurs mis en oeuvre une politique de sécurisation des emprises partagées. Par exemple, progressivement, les accès aux postes sources sont contrôlés par badge d'accès électronique, mesure permettant l'identification éventuelle des auteurs d'initiatives individuelles indésirées. Pour être pénalement reprimé, l'acte doit comme vous le relevez occasionner la dégradation, la détérioration d'un bien ou la mise en danger de la vie d'autrui.
