@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305709
+
+- Question : [SEQ230305709](seq230305709.md) — Couverture sociale des agriculteurs chefs d'exploitation et salariés frontaliers
+
+## Réponse
+
+*Agriculture et souveraineté alimentaire, JO du 2023-04-27, page 2811*
+
+En raison du principe de l'unicité de la législation de sécurité sociale applicable, posé par le règlement (CE) n° 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale, les personnes qui exercent une activité agricole non salariée en France et une activité salariée dans un autre État membre sont soumises à la législation de l'État membre dans lequel elles exercent normalement leur activité salariée. De ce fait les agriculteurs dans cette situation se trouvent ne plus relever de la législation française de sécurité sociale et en conséquence le régime de protection sociale des non-salariés des professions agricoles ne leur est plus applicable. Les services du ministère de l'agriculture et de la souveraineté alimentaire ont été alertés par des élus, ainsi que par la caisse centrale de la mutualité sociale agricole (CCMSA) des conséquences indirectes que pourraient avoir pour les agriculteurs dans cette situation, le fait de ne plus être affilié à la mutualité sociale agricole. Afin de répondre aux situations les plus urgentes, différentes solutions ont été expertisées en lien avec la CCMSA, la direction de la sécurité sociale et le centre des liaisons européennes et internationales de sécurité sociale. Des dispositions spécifiques ont ainsi pu être intégrées au dispositif réglementaire relatif aux aides du plan stratégique national de la politique agricole commune (PAC) pour 2023-2027 (décret n° 2022-1755 du 30 décembre 2022), afin que les personnes concernées puissent faire valoir leur qualité d'agriculteur actif et le cas échéant bénéficier des aides relevant de la PAC. Les autres sujets évoqués sont en cours d'expertise.
