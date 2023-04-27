@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230104947
+
+- Question : [SEQ230104947](seq230104947.md) — Accord de sécurité sociale France-Maroc et réunion de la commission mixte
+
+## Réponse
+
+*Commerce extérieur, attractivité et Français de l'étranger, JO du 2023-04-27, page 2814*
+
+Le ministère de l'Europe et des Affaires étrangères suit avec attention les questions relatives aux difficultés que rencontrent les particuliers pour l'application des différentes conventions de sécurité sociale qui lient la France à ses principaux partenaires. Dans ce cadre, il entretient un dialogue régulier avec les services compétents du ministère de la santé et de la prévention ainsi qu'avec le Centre des liaisons européennes et internationales de sécurité sociale (CLEISS), organisme de liaison désigné par ces conventions. S'agissant de l'accès aux soins de santé des résidents au Maroc qui sont titulaires à la fois d'une pension du régime français et d'une autre du régime marocain, le sujet a été évoqué lors de la dernière réunion de la commission mixte bilatérale de sécurité sociale franco-marocaine qui a pu se tenir à Casablanca en 2016. La divergence d'interprétation par la France et le Maroc des dispositions de la convention de sécurité sociale y avait été actée et les deux parties avaient alors convenu de travailler à une interprétation commune permettant de résoudre les difficultés rencontrées par ces personnes. Bien que le Gouvernement ait fait des propositions aux autorités marocaines, le sujet n'a pas connu d'avancées depuis. Le fait que la crise sanitaire n'ait pas permis l'organisation des instances de dialogue prévues par la convention bilatérale de sécurité sociale n'a pas facilité ce dialogue. L'organisation d'une nouvelle commission mixte réunissant les autorités compétentes de nos deux pays, prévue avant la fin du premier semestre 2023, doit permettre de revenir sur la question de l'accès aux soins des personnes concernées.
