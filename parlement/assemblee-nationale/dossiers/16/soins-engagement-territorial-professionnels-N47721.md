@@ -1,0 +1,55 @@
+# Améliorer l'accès aux soins par l'engagement territorial des professionnels
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N47721
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/soins_engagement_territorial_professionnels
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl22-747.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-04-28 : 1er dépôt d'une initiative. (PIONANR5L16B1175)
+  - 2023-05-09 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-04-28 : Renvoi en commission au fond
+      - 2023-05-09 : Nomination de rapporteur
+      - 2023-06-05 : Réunion de commission
+      - 2023-06-05 : Réunion de commission
+      - 2023-06-07 : Réunion de commission
+      - 2023-06-07 : Réunion de commission
+      - 2023-06-12 : Réunion de commission
+      - 2023-06-07 : Dépôt de rapport (RAPPANR5L16B1336, PIONANR5L16BTC1336)
+  - Discussion en séance publique
+    - 2023-06-12 : Discussion en séance publique
+    - 2023-06-13 : Discussion en séance publique
+    - 2023-06-13 : Discussion en séance publique
+    - 2023-06-14 : Discussion en séance publique
+    - 2023-06-15 : Discussion en séance publique
+    - 2023-06-15 : Discussion en séance publique
+    - 2023-06-15 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-06-16 : Dépôt d'une initiative en navette (PIONSNR5S399B0747)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-06-16 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-10-18 : Dépôt de rapport (RAPPSNR5S419B0048, PIONSNR5S419BTC0049)
+  - Discussion en séance publique
+    - 2023-10-25 : Décision
+- Commission Mixte Paritaire
+  - 2023-10-26 : Dépôt d'un projet de loi (PIONANR5L16B1809)
+  - 2023-10-26 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2023-12-07 : Nomination de rapporteur
+    - 2023-12-07 : Dépôt du rapport d'une CMP (RAPPSNR5S419B0186, PIONSNR5S419BTC0187)
+    - 2023-12-07 : Dépôt du rapport d'une CMP (RAPPANR5L16B1978, PIONANR5L16BTC1978)
+  - Discussion en séance publique
+    - 2023-12-12 : Discussion en séance publique
+    - 2023-12-12 : Décision
+  - Discussion en séance publique
+    - 2023-12-18 : Décision
+  - 2023-12-07 : Décision de la CMP
+- Promulgation de la loi
+  - 2023-12-27 : Promulgation d'une loi
