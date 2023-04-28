@@ -4,9 +4,7 @@ NATURE, FORME ET PROGRAMME DE L'ÉPREUVE ÉCRITE DE LA PREMIÈRE PHASE PAR SPÉC
 
 Spécialités : |
 
-Administration et gestion
-
-du personnel |
+Appui opérationnel transverse |
 
 Auto-engins
 
@@ -16,9 +14,7 @@ Affaires immobilières |
 
 Armurerie et pyrotechnie |
 
-Restauration
-
-collective |
+Restauration hôtellerie loisirs |
 
 Epreuve de mise en situation professionnelle
 
@@ -40,7 +36,7 @@ Epreuve visant à évaluer les connaissances techniques et professionnelles du c
 
 Cette épreuve porte sur le programme défini au IV de la présente annexe |
 
-Epreuve visant à évaluer les connaissances techniques et professionnelles du candidat dans le domaine de la restauration collective.
+Epreuve visant à évaluer les connaissances techniques et professionnelles du candidat dans le domaine de la restauration hôtellerie loisirs.
 
 Cette épreuve porte sur le programme défini au V de la présente annexe. |
 
@@ -290,7 +286,7 @@ III. - Programme relatif à l'épreuve de mise en situation professionnelle de l
 
 - l'identification d'une munition.
 
-IV. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité restauration collective
+IV. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité restauration hôtellerie loisirs
 
 1° Comptabilité et fiscalité :
 

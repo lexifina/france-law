@@ -4,9 +4,7 @@ NATURE ET FORME DES ÉPREUVES ORALES ET SPORTIVES DE LA DEUXIÈME PHASE
 
 Spécialités |
 
-Administration et gestion
-
-du personnel |
+Appui opérationnel transverse |
 
 Affaires immobilières |
 
@@ -14,7 +12,7 @@ Armurerie
 
 et pyrotechnie |
 
-Restauration collective |
+Restauration hôtellerie loisirs |
 
 Épreuve d'entretien avec un jury
 
