@@ -958,6 +958,26 @@ Chef d'unité projet de renouvellement urbain au service renouvellement urbain d
 
 01/01/2020 |
 
+A |
+
+1 |
+
+25 |
+
+Chef d'unité financements parc privé au service habitat |
+
+01/06/2022 |
+
+A |
+
+1 |
+
+30 |
+
+Chef du service habitat |
+
+01/06/2022 |
+
 B |
 
 1 |
@@ -1059,6 +1079,16 @@ B |
 Responsable du CTT de Dunkerque au service habitat |
 
 01/07/2021 |
+
+B |
+
+1 |
+
+15 |
+
+Responsable du CTT d'Avesnes au service habitat-site Valenciennes |
+
+01/06/2022 |
 
 B |
 
@@ -1273,6 +1303,26 @@ A |
 Chef de l'unité logement construction ville-délégation territoriale du Valenciennois |
 
 01/01/2020 |
+
+A |
+
+1 |
+
+26 |
+
+Chef du service habitat |
+
+01/06/2022 |
+
+A |
+
+1 |
+
+29 |
+
+Chef d'unité financements parc privé au service habitat |
+
+01/06/2022 |
 
 B |
 
