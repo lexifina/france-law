@@ -318,7 +318,7 @@ EPLEFPA de Perpignan Roussillon
 
 EPLEFPA de Poitiers Venours
 
-EPLEFPA de Pontivy
+EPLEFPA de Pontivy-Saint-Jean-Brévelay-Hennebont
 
 EPLEFPA de Rodez La Roque
 
@@ -466,8 +466,6 @@ EPLEFPA de Saint Aubin du Cormier
 
 EPLEFPA de Saint Genis Laval
 
-EPLEFPA de Saint Jean Brévelay Hennebont
-
 EPLEFPA de Saint Rémy de Provence
 
 EPLEFPA de Sartène
@@ -525,6 +523,8 @@ EPLEFPA de l'Hérault (Site de Pézenas)
 EPLEFPA de Limoges et du Nord Haute Vienne (Site de Magnac Laval)
 
 EPLEFPA de Nantes-Terre-Atlantique (Site du Grand Blottereau)
+
+EPLEFPA de Pontivy-Saint Jean-Brévelay-Hennebont (site de Saint-Jean-Brévelay)
 
 EPLEFPA de Quétigny Plombières-lès-Dijon (Site de Plombières-lès-Dijon)
 
@@ -584,7 +584,9 @@ EPLEFPA Terres de l'Yonne La Brosse (Site de Champs sur Yonne)
 
 EPLEFPA Vendôme (Site de Blois)
 
-EPLEFPA Vendôme (Site de Montoire) |
+EPLEFPA Vendôme (Site de Montoire)
+
+|
 
 Emplois du groupe III |
 
@@ -910,7 +912,7 @@ EPLEFPA de Poitiers Venours
 
 EPLEFPA de Poligny
 
-EPLEFPA de Pontivy
+EPLEFPA de Pontivy-Saint-Jean-Brévelay-Hennebont
 
 EPLEFPA de Quimper Brehoulou
 
@@ -1064,7 +1066,7 @@ EPLEFPA de Nîmes
 
 EPLEFPA de Pamiers
 
-EPLEFPA de Pontivy
+EPLEFPA de Pontivy-Saint-Jean-Brévelay-Hennebont
 
 EPLEFPA de Rennes Le Rheu
 
@@ -1389,7 +1391,3 @@ CFPPA de Vire
 CFPPA du Tarn et Garonne
 
 Site de Périgueux du CFPPA de la Dordogne |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 21 février 2023 (NOR : AGRS2305585A), ces dispositions s'appliquent à compter du 1er mars 2023.
