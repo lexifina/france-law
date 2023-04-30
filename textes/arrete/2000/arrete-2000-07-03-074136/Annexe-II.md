@@ -226,6 +226,10 @@ Société Procal/ Freudenberg SAS, ZI les Franchises, 52200 Langres : de 1960 à
 
 UFAM SA (Usines et fonderies Arthur Martin), Etablissements Soreman, 3, rue d'Archiac, 51000 Reims : de 1978 à 1980.
 
+Hauts-de-France
+
+Etablissement GLACERIE DE CHANTEREINE, rue du Maréchal Joffre et 1, rue de Montluçon 60150 Thourotte : de 1962 à 1994 ;
+
 Franche-Comté
 
 Allied Signal, 25790 Les Gras : de 1976 à 1993 ;
