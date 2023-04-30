@@ -1072,6 +1072,8 @@ STE Société technique d'entreprise 215, route de Marseille, 83200 Toulon De 19
 
 STS (Société thermodynamique service), 215, route de Marseille, 83200 Toulon, de 1960 à 1996.
 
+SOCIETE TOULONNAISE DE TÔLERIE (STT), 215. route de Marseille 83000 TOULON : de 1978 à 1996.
+
 Sud Marine/Brisard, Sud Marine/Marine Technologie, Entreprise/Marine Technologie, Associées/Marine Technologie SA, Marine Technologies Engineering - 9, boulevard Gay-Lussac, 13004 Marseille, puis Formes 8 et 9, enceinte portuaire, 13002 Marseille : depuis 1950 jusqu’au 31 décembre 2027.
 
 Sud Marine Industries, aire de Mourepiane, enceinte portuaire, 13002 Marseille ; aire de Mourepiane, enceinte portuaire, 4 cap Janet, 13002 Marseille ; aire de Mourepiane, enceinte portuaire, 4 cap Janet, 13014 Marseille, de 1988 à 1991.
