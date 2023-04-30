@@ -1300,6 +1300,10 @@ Baude Jean-Claude, puis Baude Electronique, 1, rue Albert-Ier, 59153 Grand-Fort-
 
 Beliard/France Dunkerque/Flandres Industrie/Beliard Crichton et Cie/Ateliers et chantiers Ziegler frères/Etablissements dunkerquois des AFO/Ateliers réunis Nord et Ouest (ARNO), route des Docks-Flottants, quai de la Câle sèche n° 4, rue Félix-Coquelle ; bassin de l'arrière Port, 2, quai de Mardyck, route de l'Ecluse-Watier, 59140 Dunkerque : depuis sa création à 1987.
 
+Cedex 1 : depuis 1987 .
+
+- route des Docks-Flottants, 59376 Dunkerque Cedex 1 : depuis sa création à 1987.
+
 Blitz Electricité, 32-36, quai Gustave-Lamarle, 62100 Calais : de 1963 à 1993.
 
 Boccard SA, rue Armand-Carrel, 59140 Dunkerque, de 1976 à 1978.
@@ -1432,7 +1436,7 @@ Etablissements Robert MEERSSEMAN et fils, puis SNM (Société nouvelle Meerssema
 
 Etablissements ROGLIANO - quai de la Vistule, 62100 Calais : depuis 1956 jusqu’au 31 décembre 2027.
 
-Etablissements SEMIL - rue des Verrotières, 62231 Calais : depuis 1977 jusqu’au 31 décembre 2027.
+Etablissement SIGNALISATION ELECTRICITE MONTAGE INDUSTRIELS DU LITTORAL (SEMIL), 44, rue Auguste Angelier, 62200 Boulogne-sur-Mer, puis, Rue de la Verrotières, ZI des Dunes, 62225 Calais cedex : depuis 1977 jusqu'au 31 décembre 2027.
 
 Etablissements Martin :
 
