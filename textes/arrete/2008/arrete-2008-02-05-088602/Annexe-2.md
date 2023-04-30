@@ -1,16 +1,18 @@
 # Article Annexe 2
 
-AU 1ER AVRIL 2022
+AU 1ER AVRIL 2023
 
-Pays de résidence (rythme sud) |
+Tableau 1.-Frais de scolarité
+
+Pays de résidence (rythme sud)
+
+Frais de scolarité (montants annuels) |
 
 Enfants de moins
 
 de 10 ans |
 
-Enfants
-
-de 10 à 15 ans |
+Enfants de 10 à 15 ans |
 
 Enfants de plus
 
@@ -18,162 +20,140 @@ de 15 ans |
 
 ARGENTINE |
 
-a) Montant annuel |
+7 785 |
 
-6 395 |
-
-6 703 |
-
-7 317 |
-
-b) Droits de première inscription |
-
-633 |
-
-633 |
-
-633 |
-
-BOLIVIE |
-
-a) Montant annuel |
-
-5 604 |
-
-6 413 |
-
-6 700 |
-
-b) Droits de première inscription |
-
-2 204 |
-
-2 204 |
-
-1 540 |
-
-BRESIL (Rio) |
-
-a) Montant annuel |
+8 240 |
 
 8 136 |
 
-8 289 |
+BOLIVIE |
 
-8 458 |
+5 933 |
 
-b) Droits de première inscription |
+6 620 |
 
-618 |
+6 917 |
 
-645 |
+BRESIL (Rio) |
 
-589 |
+9 404 |
+
+9 782 |
+
+9 782 |
 
 BRESIL (Sao Paulo) |
 
-a) Montant annuel |
+8 898 |
 
-7 687 |
+9 680 |
 
-8 354 |
-
-8 354 |
-
-b) Droits de première inscription |
-
-- |
-
-- |
-
-- |
+9 680 |
 
 CHILI |
 
-a) Montant annuel |
+7 953 |
 
-6 676 |
+7 953 |
 
-6 676 |
-
-6 676 |
-
-b) Droits de première inscription |
-
-3 427 |
-
-3 427 |
-
-3 427 |
+7 953 |
 
 COSTA RICA |
 
-a) Montant annuel |
+5 832 |
 
-4 875 |
+5 832 |
 
-4 875 |
-
-4 875 |
-
-b) Droits de première inscription |
-
-- |
-
-- |
-
-- |
+5 832 |
 
 PEROU |
 
-a) Montant annuel |
+7 413 |
 
-6 754 |
+7 165 |
 
-5 867 |
-
-5 867 |
-
-b) Droits de première inscription |
-
-966 |
-
-616 |
-
-346 |
+7 165 |
 
 URUGUAY |
 
-a) Montant annuel |
+8 891 |
 
-7 503 |
+9 637 |
 
-8 253 |
-
-8 606 |
-
-b) Droits de première inscription |
-
-240 |
-
-393 |
-
-393 |
+10 078 |
 
 VANUATU |
 
-a) Montant annuel |
+4 900 |
 
-4 496 |
+5 612 |
 
-5 095 |
+6 185 |
 
-5 626 |
+Tableau 2.-Droits de première inscription
 
-b) Droits de première inscription |
+Pays de résidence (rythme sud)
 
-630 |
+Droits de première inscription (montants annuels) |
 
-630 |
+Enfants de moins
 
-630 |
+de 10 ans |
+
+Enfants de 10 à 15 ans |
+
+Enfants de plus
+
+de 15 ans |
+
+ARGENTINE |
+
+581 |
+
+581 |
+
+581 |
+
+BOLIVIE |
+
+2 283 |
+
+2 283 |
+
+1 643 |
+
+BRESIL (Rio) |
+
+724 |
+
+755 |
+
+755 |
+
+CHILI |
+
+4 080 |
+
+4 080 |
+
+4 080 |
+
+PEROU |
+
+930 |
+
+558 |
+
+558 |
+
+VANUATU |
+
+648 |
+
+648 |
+
+648 |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 25 avril 2023 (NOR : EAEA2309047A), ces dispositions prennent effet le 1er avril 2023.
