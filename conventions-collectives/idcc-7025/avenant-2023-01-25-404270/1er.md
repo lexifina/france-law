@@ -1,0 +1,453 @@
+# Article 1er
+
+Modification de l'annexe II « Grilles de rémunérations de la convention collective nationale de travail concernant les entreprises de travaux et services agricoles, les entreprises de travaux et services ruraux et les entreprises de travaux et services forestiers ».
+
+Les stipulations relatives aux grilles de rémunérations visées à l'annexe II – « Grilles de rémunérations de la convention collective de travail concernant les entreprises de travaux et services agricoles, les entreprises de travaux et services ruraux et les entreprises de travaux et services forestiers » du 8 octobre 2020 (IDCC 7025), sont modifiées, pour les articles suivants comme suit :
+
+« 1.1.   Rémunérations concernant le personnel d'exécution des entreprises de travaux et services agricoles et ruraux
+
+(En euros.)
+
+Classification |
+
+Échelon |
+
+Salaire horaire |
+
+Emplois exécutants |
+
+1 |
+
+11,27 |
+
+2 |
+
+11,43 |
+
+Emplois spécialisés |
+
+1 |
+
+11,55 |
+
+2 |
+
+11,67 |
+
+Emplois qualifiés |
+
+1 |
+
+11,80 |
+
+2 |
+
+12,08 |
+
+Emplois hautement qualifiés |
+
+1 |
+
+12,50 |
+
+2 |
+
+13,03 |
+
+1.2.   Rémunérations concernant le personnel bénéficiant du statut de technicien, agent de maîtrise et cadre en entreprises de travaux et services agricoles et ruraux
+
+(En euros.)
+
+Classification |
+
+Échelon |
+
+Salaire horaire |
+
+Technicien agent de maîtrise TAM 1 |
+
+1 |
+
+13,69 |
+
+2 |
+
+14,47 |
+
+Technicien agent de maîtrise TAM 2 |
+
+1 |
+
+15,26 |
+
+2 |
+
+16,03 |
+
+Cadre I |
+
+|
+
+17,86 |
+
+Cadre II |
+
+|
+
+21,17 |
+
+2.1.   Rémunérations concernant le personnel d'exécution des emplois des entreprises et services forestiers en exploitation forestière
+
+(En euros.)
+
+Classification |
+
+Échelon |
+
+Salaire horaire |
+
+Emplois exécutants |
+
+1 |
+
+11,27 |
+
+2 |
+
+11,43 |
+
+Emplois spécialisés |
+
+1 |
+
+11,55 |
+
+2 |
+
+11,67 |
+
+Emplois qualifiés |
+
+1 |
+
+11,80 |
+
+2 |
+
+11,90 |
+
+3 |
+
+12,08 |
+
+Emplois hautement qualifiés |
+
+1 |
+
+12,50 |
+
+2 |
+
+12,71 |
+
+3 |
+
+13,03 |
+
+2.2.   Rémunérations concernant le personnel bénéficiant du statut de technicien, agent de maîtrise et cadre en entreprises de travaux et services forestiers en exploitation forestière
+
+(En euros.)
+
+Classification |
+
+Échelon |
+
+Salaire horaire |
+
+Technicien agent de maîtrise TAM 1 |
+
+1 |
+
+13,71 |
+
+2 |
+
+14,17 |
+
+Technicien agent de maîtrise TAM 2 |
+
+1 |
+
+14,78 |
+
+2 |
+
+15,39 |
+
+Cadre I |
+
+|
+
+16,62 |
+
+Cadre II |
+
+|
+
+17,85 |
+
+3.1.   Rémunérations concernant le personnel d'exécution dans les entreprises de travaux et services forestiers en sylviculture
+
+(En euros.)
+
+Classification |
+
+Échelon |
+
+Salaire horaire |
+
+Emplois exécutants |
+
+1 |
+
+11,27 |
+
+2 |
+
+11,43 |
+
+Emplois spécialisés |
+
+1 |
+
+11,55 |
+
+2 |
+
+11,67 |
+
+Emplois qualifiés |
+
+1 |
+
+11,80 |
+
+2 |
+
+12,08 |
+
+Emplois hautement qualifiés |
+
+1 |
+
+12,50 |
+
+2 |
+
+13,03 |
+
+3.2.   Rémunérations concernant le personnel bénéficiant du statut de technicien, agent de maîtrise et cadre en entreprises de travaux et services en sylviculture
+
+(En euros.)
+
+Classification |
+
+Échelon |
+
+Salaire horaire |
+
+Technicien agent de maîtrise TAM 1 |
+
+1 |
+
+13,71 |
+
+2 |
+
+14,17 |
+
+Technicien agent de maîtrise TAM 2 |
+
+1 |
+
+14,78 |
+
+2 |
+
+15,39 |
+
+Cadre I |
+
+|
+
+16,62 |
+
+Cadre II |
+
+|
+
+17,85 |
+
+4.1.   Rémunérations concernant le personnel chargé des travaux de mise en place ou d'enlèvement de volailles et des travaux d'intervention technique dans les entreprises de prestations de services à l'aviculture
+
+(En euros.)
+
+Classification |
+
+Échelon |
+
+Salaire horaire |
+
+Emplois exécutants |
+
+1 |
+
+11,27 |
+
+2 |
+
+11,43 |
+
+Emplois spécialisés |
+
+1 |
+
+11,55 |
+
+2 |
+
+11,67 |
+
+Emplois qualifiés |
+
+1 |
+
+11,80 |
+
+2 |
+
+12,08 |
+
+Emplois hautement qualifiés |
+
+1 |
+
+12,50 |
+
+2 |
+
+13,03 |
+
+4.2.   Rémunérations concernant le personnel bénéficiant du statut de technicien, agent de maîtrise et cadre en entreprises de prestations de services à l'aviculture
+
+(En euros.)
+
+Classification |
+
+Échelon |
+
+Salaire horaire |
+
+Technicien agent de maîtrise TAM 1 |
+
+1 |
+
+13,69 |
+
+2 |
+
+14,47 |
+
+Technicien agent de maîtrise TAM 2 |
+
+1 |
+
+15,26 |
+
+2 |
+
+16,03 |
+
+Cadre I |
+
+|
+
+17,86 |
+
+Cadre II |
+
+|
+
+21,17 |
+
+5.1.   Rémunérations concernant le personnel administratif d'exécution occupé dans les entreprises de travaux et services agricoles et ruraux, en entreprises de prestation de services à l'aviculture, entreprises de travaux et services forestiers en exploitation forestière, entreprises de travaux et services en sylviculture
+
+(En euros.)
+
+Classification |
+
+Échelon |
+
+Salaire horaire |
+
+Emplois administratifs exécutants |
+
+1 |
+
+11,27 |
+
+2 |
+
+11,43 |
+
+Emplois qualifiés |
+
+1 |
+
+11,80 |
+
+2 |
+
+12,08 |
+
+Emplois hautement qualifiés |
+
+1 |
+
+12,50 |
+
+2 |
+
+13,03 |
+
+5.2. Rémunérations concernant le personnel administratif technicien administratif et comptable et cadre occupé dans les entreprises de travaux et services agricoles et ruraux, en entreprises de prestation de services à l'aviculture, entreprises de travaux et services forestiers en exploitation forestière, entreprises de travaux et services en sylviculture
+
+(En euros.)
+
+Classification |
+
+Échelon |
+
+Salaire horaire |
+
+Technicien administratif et comptable |
+
+1 |
+
+13,69 |
+
+2 |
+
+14,47 |
+
+Cadre I |
+
+|
+
+17,86 |
+
+Cadre II |
+
+|
+
+21,17 |
