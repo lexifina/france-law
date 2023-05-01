@@ -1,0 +1,5 @@
+# Article 1er
+
+Le présent accord révisé par cet avenant est applicable dans le département de la Haute-Marne et concerne les rapports entre les employeurs et les salariés des exploitations agricoles de polyculture et d'élevage, des coopératives d'utilisation de matériel agricole (CUMA) ainsi que des exploitations viticoles (hors Champagne délimitée), horticoles ou maraîchères, les pépinières, les cultures sous serres situées dans le département de la Haute-Marne, ainsi que des établissements de toute nature dirigés par l'exploitant agricole en vue de la transformation, du conditionnement et de la commercialisation des produits agricoles lorsque ces activités constituent la prolongation de l'acte de production et des structures d'accueil touristiques situées sur l'exploitation ou dans les locaux de celle-ci, notamment d'hébergement et de restauration.
+
+Dans la mesure où le présent accord a vocation à s'appliquer essentiellement auprès de très petites entreprises, les partenaires sociaux estiment que ces dispositions leur sont particulièrement applicables et que par conséquent ils répondent à l'obligation issue de l'article L. 2261-23-1 du code du travail.
