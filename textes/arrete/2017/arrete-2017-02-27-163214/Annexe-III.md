@@ -26,7 +26,7 @@ UC 3 |
 
 UC 4 |
 
-Sportif de haut niveau inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l'article L. 221-2 du code du sport, en parachutisme. |
+Sportif de haut niveau inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l' article L. 221-2 du code du sport , en parachutisme. |
 
 X
 
@@ -138,7 +138,7 @@ X
 
 option C |
 
-Monitorat fédéral option "progression accompagnée en chute", délivré par la Fédération française de parachutisme en cours de validité. |
+Monitorat fédéral option " progression accompagnée en chute ", délivré par la Fédération française de parachutisme en cours de validité |
 
 X
 
@@ -154,7 +154,7 @@ X |
 
 X |
 
-|
+X |
 
 Monitorat fédéral option "suivi d'élèves en vidéo chute" délivré par la Fédération française de parachutisme en cours de validité. |
 
@@ -172,7 +172,7 @@ X |
 
 |
 
-Monitorat fédéral option "largage d'élèves en ouverture automatique" délivrée par la Fédération française de parachutisme en cours de validité. |
+Monitorat fédéral option " largage d'élèves en ouverture automatique " délivrée par la Fédération française de parachutisme en cours de validité. |
 
 X
 
@@ -188,7 +188,7 @@ X |
 
 X |
 
-|
+X |
 
 Brevet et licence de parachutiste professionnel assortis de la qualification biplace , délivrés par la DGAC depuis plus d'un an et justifier de 100 sauts biplace au moyen de la production de la copie intégrale des pages écrites de la licence de parachutiste professionnel et de la copie de la page du carnet de saut arrêté sur l'honneur par le navigant. |
 
@@ -237,3 +237,7 @@ option C |
 * BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport
 
 * DGAC : direction générale de l'aviation civile.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 30 janvier 2023 (NOR : SPOV2303509A), ces dispositions s'appliquent aux sessions de formation ouvertes à compter du 1er mai 2023.
