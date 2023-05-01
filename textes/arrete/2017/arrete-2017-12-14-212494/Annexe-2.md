@@ -200,8 +200,6 @@ Parties du système d’alarme (en cas de remplacement) :
 
 |
 
-Si remplacement : limite de 2500 euros tous les 4 ans.
-
 |
 
 Centrale.
@@ -522,16 +520,6 @@ Matériel destiné à la transmission et/ou à l’enregistrement d’images qui
 
 |
 
-|
-
-|
-
-|
-
-Si remplacement : limite de 2500 euros tous les 4 ans.
-
-|
-
 Enregistreur avec un disque dur.
 
 |
@@ -629,3 +617,7 @@ Il ne s’agit pas d’un distributeur automatique de tabac à destination du pu
 5 000 euros pièce
 
 |
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 26 avril 2023 (NOR : ECOD2310357A), ces dispositions entrent en vigueur le 1er mai 2023.
