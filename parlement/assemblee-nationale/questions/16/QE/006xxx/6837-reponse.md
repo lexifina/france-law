@@ -1,0 +1,9 @@
+# Réponse à la question n° 6837
+
+- Question : [6837](6837.md) — Question n° 6837 — Évolution des indémnités compensatoires de handicaps naturels
+
+## Réponse
+
+*JO du 2023-05-02, page 3998*
+
+Pour la politique agricole commune 2023-2027, à l'issue d'une concertation sans précédent des parties prenantes et de l'accord avec Régions de France sur le fonds européen agricole pour le développement rural régionalisé pour 2023-2027, le ministre chargé de l'agriculture a présenté les grands arbitrages du plan stratégique national (PSN) dans le cadre du comité État-régions et du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire des 21 et 22 mai 2021. Au cours de cette concertation, il a été demandé par les parties prenantes une stabilité globale du dispositif d'indemnité compensatoire de handicaps naturels (ICHN) permettant de conserver l'équilibre entre les territoires et les types d'exploitations et couvrant les différentiels de revenu entre les exploitations des zones soumises à des contraintes naturelles et les autres exploitations. Toutefois, la majorité des parties prenantes s'est exprimée pour un relèvement du seuil du nombre d'animaux pour accéder à l'ICHN de 3 à 5 unités de gros bétail (UGB) permettant d'assurer un meilleur ciblage de l'aide sur les élevages, ce qui constitue un élément fondamental de cette aide. Ainsi, à l'issue de la concertation, il a été décidé de maintenir le financement de l'ICHN avec une enveloppe annuelle globale de 1 100 millions d'euros (M€) (ce qui suppose un effort additionnel de l'État de 108 M€) et un relèvement du seuil d'accès à 5 UGB. Les autres paramètres de l'aide sont maintenus à l'identique de la programmation précédente. Ces modalités d'octroi de l'aide ont été inscrites dans le PSN français validé par la Commission européenne le 31 août 2022.
