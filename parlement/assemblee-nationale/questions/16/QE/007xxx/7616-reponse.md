@@ -1,0 +1,9 @@
+# Réponse à la question n° 7616
+
+- Question : [7616](7616.md) — Question n° 7616 — RER métropolitains
+
+## Réponse
+
+*JO du 2023-05-02, page 4055*
+
+Les RER métropolitains constituent une priorité pour le Gouvernement, afin d'améliorer la vie des Français tout en renforçant l'équilibre entre les territoires et mener à bien notre transition écologique. Conformément aux annonces de la Première ministre le 24 février dernier lors de la remise du rapport du Conseil d'Orientation des infrastructures, il est prévu que la Société du Grand Paris travaille aux côtés de SNCF Réseau pour mener le dialogue avec les territoires concernés, pour définir la maturité politique, technique et financière de chacun de ces projets et pour en mener ensuite les études et la réalisation. Pour ce faire, des dispositions législatives seront nécessaires : Il s'agira en effet d'élargir le principe de spécialité de la Société du Grand Paris à des projets de création et d'extension d'infrastructures de transport de personnes ou de marchandises contribuant notamment au développement urbain et périurbain des métropoles régionales, pour lui permettre de conduire des études et de devenir maître d'ouvrage de ces projets, aux côtés de SNCF Réseau. Elles devront également lui permettre de participer à la mise en place de nouvelles structures locales de coordination, avec SNCF Réseau, lesquelles permettront aux exécutifs locaux concernés de n'avoir, s'ils le souhaitent, qu'un seul interlocuteur, garant de la réalisation du projet. Elles devront enfin garantir à la Société du Grand Paris de réaliser ces missions dans le respect de sa règle d'or financière portant actuellement sur le Grand Paris Express et, le cas échéant, de mobiliser, par le recours à l'emprunt, des financements nouveaux au bénéfice de la réalisation de ces infrastructures. Le Gouvernement soutiendra toutes les initiatives allant en ce sens.
