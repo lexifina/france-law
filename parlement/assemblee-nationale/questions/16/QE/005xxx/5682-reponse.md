@@ -1,0 +1,9 @@
+# Réponse à la question n° 5682
+
+- Question : [5682](5682.md) — Question n° 5682 — Tarification des complémentaires santé pour les retraités
+
+## Réponse
+
+*JO du 2023-05-02, page 4047*
+
+Outre l'encadrement tarifaire par le décret n° 2017-372 du 1er juillet 2017 des mesures spécifiques sont prévues : - d'une part, pour les retraités du secteur privé, par les dispositions de l'article R. 912-2 du code de la sécurité sociales, qui prévoit que les branches recommandant un ou plusieurs organismes complémentaires peuvent notamment prévoir "une prise en charge, totale ou partielle, de la cotisation de tout ou partie […] des anciens salariés". Les services compétents procèdent actuellement au bilan de ce dispositif de recommandation pour en vérifier l'usage ; - d'autre part, pour les retraités de la fonction publique, par le décret n° 2022-633 du 22 avril 2022, lesquels pourront demander à être bénéficiaires du contrat collectif souscrit par le dernier employeur, avec un dispositif de plafonnement de leur cotisation et un encadrement de son évolution en fonction de l'âge.Par ailleurs, les dispositions du décret n° 2020-1438 du 24 novembre 2020 relatif au droit de résiliation sans frais de contrats de complémentaire santé doivent permettre d'augmenter la concurrence sur ce marché et à chaque retraité de quitter un contrat pour préférer un autre moins onéreux ou plus adapté à ses besoins. Pour éclairer le choix d'un nouveau contrat, la mise en œuvre de la résiliation infra-annuelle pour les contrats de complémentaire santé s'est accompagnée de travaux visant à améliorer la lisibilité et la comparabilité des contrats. Par conséquent, de nombreuses mesures ont été mises en place par le Gouvernement pour limiter l'augmentation relative des cotisations de complémentaires santé et permettre à chacun de choisir une couverture qui corresponde à ses besoins.
