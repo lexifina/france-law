@@ -1,0 +1,29 @@
+# Réponse à la question n° 299
+
+- Question : [299](299.md) — Question n° 299 — Continuité intérieure et continuité territoriale
+
+## Réponse
+
+*JO du 2023-05-03, page 4008*
+
+CONTINUITÉ TERRITORIALE
+
+M. le président. La parole est à M. Davy Rimane, pour exposer sa question, n° 299, relative à la continuité territoriale.
+
+M. Davy Rimane. Vous savez, monsieur le ministre délégué, qu'une commission d'enquête sur le coût de la vie outre-mer est en cours. La Guyane subit une triple peine en matière de continuité territoriale : rupture avec l’Hexagone, avec les autres territoires ultramarins et entre le littoral guyanais et l’intérieur du territoire. Les conséquences sur le pouvoir de vivre sont terribles – voyez le prix des billets d’avion pour l’Hexagone comme pour les Antilles, mais aussi pour les communes situées à l'intérieur des terres, sachant qu'aucune route ne les relie au littoral, ou encore le prix des matières premières et des produits de première nécessité. À titre d’exemple, une bouteille de gaz coûte aux alentours de 25 euros sur le littoral guyanais, mais son prix peut atteindre une centaine d’euros à Maripasoula. Il arrive par ailleurs fréquemment – ce fut notamment le cas durant la crise sanitaire – que les habitants de Guyane ne soient en mesure de subsister qu'en se fournissant en denrées alimentaires dans les pays voisins, le Brésil à l’est, le Suriname à l’ouest.
+
+Les dispositifs étatiques pour accompagner, aider, soulager partiellement ces situations assimilables à des pertes de chance de vivre, de travailler et de s’émanciper existent, mais restent insuffisants, de sorte que la rupture d'égalité dénoncée depuis des décennies est toujours bien présente. Cela se vérifie ne serait-ce qu’au regard des financements, pourtant nerf de la guerre, que le Gouvernement a jusqu'ici jugé utile d’injecter aussi bien directement, grâce à des bons, qu’indirectement, grâce à la réalisation ou l’entretien d’infrastructures permettant aux populations ultramarines de se déplacer à des prix raisonnables. Depuis 2003, l’effort budgétaire annuel de l’État est demeuré compris entre 35 et 52 millions d’euros et le délai entre deux demandes d’aide à la continuité territoriale est passé d'un à trois ans. Face à ce qui pourrait être assimilé à un statu quo en matière financière, les conditions d’accès aux différentes aides ont quant à elles été durcies, aboutissant à réduire le nombre de bénéficiaires, voire à décourager certains de se saisir de dispositifs auxquels ils pourraient pourtant prétendre.
+
+Devons-nous nous résigner à continuellement laisser une partie de la population être assignée à résidence ? À quand une réelle volonté politique de l’État de prendre les décisions qui permettront aux Guyanaises et aux Guyanais de se rendre dans l’Hexagone, dans d’autres territoires d’outre-mer et dans les communes enclavées de Guyane à des prix raisonnables ? De se rendre dans les autres villes de Guyane par voie terrestre ? De se nourrir, pour celles et ceux qui évoluent au quotidien dans des communes enclavées, à des prix identiques à ceux pratiqués sur le littoral ?
+
+M. le président. La parole est à M. le ministre délégué chargé des outre-mer.
+
+M. Jean-François Carenco, ministre délégué chargé des outre-mer. Merci, monsieur Rimane, pour cette question qui me permettra de clarifier la situation.
+
+Avant d'aborder le problème de la double voire de la triple insularité de la Guyane, je commencerai – pardonnez-moi ce détour – par la question globale de la desserte aérienne des territoires d'outre-mer. Avant tout, il faut se battre pour sauver les compagnies. On travaille ainsi pour secourir Air Austral ; j'appelle souvent les services et la présidente du conseil régional de La Réunion à ce propos. Nous sommes également en passe de sauver Corsair, d'une manière honnête et responsable. En effet, je le dis comme je le pense : je ne veux pas d'investisseurs qui fassent l'objet d'une attention de Tracfin.
+
+Pour les dessertes de longue distance, se pose le problème de la fréquence des vols, notamment pour Saint-Martin – je me suis entretenu ce matin avec Louis Mussington –, pour Saint-Barthélemy et pour Saint-Pierre-et-Miquelon où je me rendrai cette semaine – il est insupportable qu'un aller-retour entre cet archipel et l'Hexagone prenne six jours. La desserte de ces territoires est sans nul doute un sujet fort.
+
+Il faut aussi évoquer l'enjeu de la double insularité qui concerne Futuna, certaines îles de la Polynésie française et Marie-Galante pour la Guadeloupe. Les dessertes ne sont pas satisfaisantes non plus.
+
+Pour la Guyane, les vols long-courrier, que nous essayons de développer, sont assurés par Air Caraïbes, Corsair et Air France. S'agissant des liaisons intérieures, il est clair qu'il existe une double peine pour les habitants. J'ai évoqué, il y a quelques jours, la situation de l'aéroport de Maripasoula avec le directeur général de l'aviation civile : je souhaite que la réfection et l'allongement de la piste soient inscrits dans le contrat de plan afin que les avions puissent désormais l'emprunter tous les jours. Nous veillons à ce qu'Air Guyane soit une entreprise qui marche. Il importe que son capital soit restructuré et je souligne qu'elle a, à ma demande, saisi le comité interministériel de restructuration industrielle (Ciri). En outre, l'État travaille avec la collectivité territoriale, qui a parmi ses compétences le développement des liaisons aériennes. Je confirme devant la représentation nationale qu'il consacrera les moyens qu'il faut pour parvenir à une délégation de service public idéale. Il contribue financièrement aux liaisons intérieures et j'ai déjà indiqué que nous étions prêts à ajouter les fonds nécessaires pour améliorer ces dessertes. Mon déplacement en Guyane me permettra, je l'espère, d'avancer sur ce point.
