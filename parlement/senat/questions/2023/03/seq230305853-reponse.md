@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305853
+
+- Question : [SEQ230305853](seq230305853.md) — Complexités des demandes de subventions des associations
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-05-04, page 2941*
+
+Les associations jouent un rôle essentiel dans le développement des territoires. A ce titre, elles peuvent bénéficier de subventions octroyées par l'Etat, les collectivités territoriales et d'autres organismes, dans des conditions définies par la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations. Pour simplifier la demande de subvention, la loi précitée prévoit notamment la mise en place d'un formulaire unique (art. 10). Ce formulaire, sa notice d'utilisation ainsi que des modèles de pièces constitutives du dossier (modèle de compte-rendu financier, …), sont accessibles sur le site internet www.service-public.fr. Le secrétariat d'Etat chargé de l'économie sociale et solidaire et de la vie associative a également mis en place un site dédié aux associations (www.associations.gouv.fr), afin de faciliter la création, la gestion et le développement des associations. Au niveau local, les préfectures et les services départementaux à la jeunesse, à l'engagement et aux sports (SDJES), chargés de mettre en oeuvre notamment les politiques publiques relatives au développement de la vie associative, sont les interlocuteurs privilégiés des associations. Enfin, afin de faciliter la recherche de soutien, l'Etat a déployé la plateforme Aides- Territoires. Elle permet aux associations et plus largement à tous les acteurs locaux (collectivités territoriales, entreprises, …), de se renseigner sur les dispositifs d'aide dont ils peuvent bénéficier pour soutenir leurs projets. Chaque dispositif fait l'objet d'une fiche descriptive dans laquelle figure le contact de la structure chargée de sa mise en oeuvre.
