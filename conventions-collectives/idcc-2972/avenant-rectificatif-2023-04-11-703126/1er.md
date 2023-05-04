@@ -1,0 +1,25 @@
+# Article 1er
+
+L'article 1er du chapitre 2 sur la mise en place du télétravail prend la nouvelle rédaction suivante :
+
+« Le télétravail est mis en place dans le cadre d'un accord collectif d'entreprise ou, à défaut, dans le cadre d'une charte élaborée par l'employeur après avis du comité social et économique, s'il existe.
+
+En l'absence d'accord collectif ou de charte, la mise en place du télétravail est possible par accord de gré à gré entre le salarié et l'employeur. (1)
+
+Aux termes de la loi, l'accord collectif applicable ou, à défaut, la charte élaborée par l'employeur précise :
+
+– les conditions de passage en télétravail, en particulier en cas d'épisode de pollution mentionné à l'article L. 223-1 du code de l'environnement, et les conditions de retour à une exécution du contrat de travail sans télétravail ;
+
+– les modalités d'acceptation par le salarié des conditions de mise en œuvre du télétravail ;
+
+– les modalités de contrôle du temps de travail ou de régulation de la charge de travail ;
+
+– la détermination des plages horaires durant lesquelles l'employeur peut habituellement contacter le salarié en télétravail ;
+
+– les modalités d'accès des travailleurs handicapés à une organisation en télétravail, en application des mesures prévues à l'article L. 5213-6 ;
+
+– les modalités d'accès des salariées enceintes à une organisation en télétravail. »
+
+(1) Alinéa étendu sous réserve du respect des mentions obligatoires de l'article L. 1222-9 du code du travail.
+
+(Arrêté du 22 septembre 2023 - art. 1)
