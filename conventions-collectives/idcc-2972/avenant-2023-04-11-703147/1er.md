@@ -1,0 +1,29 @@
+# Article 1er
+
+L'article 6.2.2 portant sur le congé paternité est modifié pour prendre la rédaction suivante :
+
+« 6.2.2.   Le congé de paternité et d'accueil
+
+(a)
+
+Après la naissance ou l'adoption d'un ou plusieurs enfants, tout salarié vivant en couple avec la mère ou la personne adoptante bénéficie d'un congé de paternité et d'accueil de l'enfant de 25 jours calendaires ou de 32 jours calendaires en cas de naissances multiples ou de l'accueil de plus d'un enfant, et ce sans conditions d'ancienneté.
+
+Ce congé se compose de deux périodes :
+
+– une première période de 4 jours consécutifs qui fait immédiatement suite au congé de naissance (1), durant laquelle le salarié doit, sauf exceptions, interrompre son activité ;
+
+– une seconde période de 21 jours, ou 28 jours en cas de naissances multiples ou de l'adoption de plus d'un enfant, qui peut être fractionnée en deux périodes d'une durée minimale de 5 jours.
+
+Une prolongation de la période initiale de 4 jours du congé de paternité et d'accueil de l'enfant est prévue, à la demande du salarié, en cas d'hospitalisation immédiate de l'enfant après la naissance ou l'adoption, pendant toute la période d'hospitalisation et pour une durée maximale de 30 jours.
+
+Le salarié informe son employeur de la date prévisionnelle de l'accouchement ou de l'adoption au moins un mois avant celle-ci. Cette information doit se faire par lettre recommandée avec accusé de réception ou par lettre remise en main propre contre récépissé. Ce courrier devra mentionner, notamment la date de départ du congé de paternité et la date de retour du salarié dans l'entreprise.
+
+Par la suite, s'il souhaite bénéficier de la période de congé de 21 jours (ou 28 jours en cas de naissances multiples ou d'adoption de plus d'un enfant), éventuellement fractionnable, le salarié doit informer son employeur des dates de prise et des durées de cette ou de ces périodes de congés au moins un mois avant le début de chacune d'elles selon les modalités précisées ci-dessus.
+
+Les salariés ayant au moins 1 an d'ancienneté dans l'entreprise qui prennent leur congé de paternité dans les conditions énoncées ci-dessus bénéficient du maintien de leur salaire brut mensuel. Ils continuent également à bénéficier des couvertures complémentaires santé et prévoyance auxquelles ils sont affiliés. »
+
+(1) Conformément à l'article 7.1.2.2 de la présente convention collective, le nombre de jours de naissance accordé au salarié est de 4 jours rémunérés.
+
+(a) L'article 6.2.2 de la convention collective est étendu sous réserve du respect des articles L. 1225-35 et suivants et des articles L. 1225-37 et suivants du code du travail qui encadrent respectivement le congé de paternité et d'accueil de l'enfant et le congé d'adoption.
+
+(Arrêté du 30 juin 2023 - art. 1)
