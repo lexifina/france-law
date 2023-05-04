@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902999
+
+- Question : [SEQ220902999](seq220902999.md) — Modification de permis d'aménager
+
+## Réponse
+
+*Ville et logement, JO du 2023-05-04, page 3005*
+
+L'article R. 423-1 du code de l'urbanisme liste les personnes ayant qualité pour déposer une demande d'autorisation d'urbanisme. Cet article indique que plusieurs propriétaires peuvent déposer ensemble une demande d'autorisation d'urbanisme. Si l'un des propriétaires se retire après le dépôt d'une demande d'autorisation d'urbanisme et avant sa délivrance, les parcelles dont il est propriétaire doivent alors être retirées du terrain d'assiette du projet et ce dernier doit être modifié. Si le retrait de ces parcelles n'a pas pour effet de modifier l'économie générale du projet, les propriétaires restants pourront adresser à l'autorité d'urbanisme, en cours d'instruction de la demande d'autorisation, les pièces modifiées en conséquence. L'autorité compétente en urbanisme, bien souvent le maire, sera dans l'obligation d'accepter ces pièces et d'instruire le dossier au regard de ces nouvelles pièces (cour administrative d'appel de Paris, 15 décembre 2016, n° 15PA01824). Dans l'hypothèse en revanche où le retrait d'un ou plusieurs propriétaires modifierait l'économie générale du projet, une nouvelle demande d'autorisation d'urbanisme devrait alors être déposée pour les autres propriétaires restants. La situation sera la même, dans le cas où l'un des propriétaires se retire du projet après la délivrance de l'autorisation d'urbanisme : sauf si les modifications apportées au projet initial apportent « un bouleversement tel qu'il en changerait la nature même » (CE, 26 juillet 2022, n° 437765), ce qui imposerait le dépôt d'une nouvelle demande pour un nouveau projet, un permis modificatif devra être déposé par les propriétaires toujours intéressés par l'opération et délivré par l'autorité compétente.
