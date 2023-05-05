@@ -164,6 +164,20 @@ Haute-Garonne |
 
 Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins. |
 
+Centre hospitalier d'Ajaccio |
+
+Corse-du-Sud |
+
+Cette hélistation est réservée aux hélicoptères d'une masse maximale au décollage de 10,6 tonnes :
+
+1° Aux hélicoptères civils effectuant des vols de service médical d'urgence par hélicoptère (SMUH) ;
+
+2° Aux hélicoptères d'Etat.
+
+Elle est utilisable de jour par conditions météorologiques permettant le vol à vue (VMC) et de nuit pour des vols en régime VFR de nuit.
+
+|
+
 Champagnole-Crotenay |
 
 Jura |
@@ -1053,6 +1067,16 @@ Réservé aux pilotes répondant à l'une des conditions suivantes :
 |
 
 Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
+
+Strasbourg-Hautepierre |
+
+Bas-Rhin |
+
+Cette hélistation est réservée :
+
+1° Au centre hospitalier universitaire pour les besoins de transport de blessés et de malades ;
+
+2° Seuls sont autorisés à utiliser l'hélistation les appareils civils ou militaires accomplissant une mission en relation avec l'activité ou les besoins de l'hôpital. |
 
 Strasbourg-NHC |
 
