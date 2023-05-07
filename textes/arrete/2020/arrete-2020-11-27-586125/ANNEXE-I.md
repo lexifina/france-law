@@ -2,4 +2,4 @@
 
 CAHIER DES CHARGES RELATIF À L'EXPÉRIMENTATION
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : Légifrance - Publications officielles - Journal officiel - JORF n° 0289 du 29/11/2020 (legifrance.gouv.fr)
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0106 du 06/05/2023 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZWrHxITyYnd-Asz4h-nYNLLRPUtKNSw_DzSHjt1DoHk=
