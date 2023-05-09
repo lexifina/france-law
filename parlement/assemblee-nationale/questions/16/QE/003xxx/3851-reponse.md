@@ -1,0 +1,9 @@
+# Réponse à la question n° 3851
+
+- Question : [3851](3851.md) — Question n° 3851 — Protection de sites sensibles si menace d'ingérence de puissances étrangères
+
+## Réponse
+
+*JO du 2023-05-09, page 4200*
+
+Lorsque les opérateurs publics hébergent des informations et supports classifiés, la DGSI veille, par le biais de visites d'aptitude, à ce que leurs installations soient conformes aux dispositions de l'Instruction générale interministérielle (IGI) 1300 (dipositions relatives aux mesures de sécurité applicables aux personnes morales, à la sécurité des lieux et à la sécurité des systèmes d'informations classifiés). Dans ce cadre, la DGSI réalise une évaluation des dispositifs techniques mis en oeuvre, quelle que soit leur origine, afin d'éviter qu'ils ne soient exposés à des failles de sécurité. Cela comprend notamment une vigilance à l'encontre des technologies utilisées dans le cadre des dispositifs de vidéo-protection, qui doivent garantir un niveau de sécurité suffisant. La DGSI peut s'appuyer, le cas échéant, sur les recommandations pour la sécurisation des systèmes de contrôle d'accès physique et de vidéo-protection publiés par l'ANSSI, qui préconisent l'utilisation de solutions techniques garantissant un certain niveau de sécurité. Par ailleurs, la DGSI exerce une vigilance renforcée vis-à-vis de plusieurs sociétés étrangères qui multiplient les approches sur le marché des solutions de sécurité digitale et de traitement d'images de sécurité. Ces acteurs adoptent une stratégie commerciale offensive, pratiquant des prix inférieurs à ceux des entreprises françaises. Enfin, dans le cadre de ses nombreuses actions de sensibilisation, la DGSI s'attache à sensibiliser ses interlocuteurs sur les risques que peuvent présenter ces solutions étrangères, tant sur le plan de la sécurité, de la réputation que de la souveraineté.
