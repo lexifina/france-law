@@ -1,0 +1,9 @@
+# Réponse à la question n° 3995
+
+- Question : [3995](3995.md) — Question n° 3995 — Contribution supplémentaire à l'apprentissage pour les entreprises
+
+## Réponse
+
+*JO du 2023-05-09, page 4188*
+
+La question se pose en effet pour l'établissement du ratio d'alternants prévu à l'article L. 6242-1 du code du travail, de l'articulation entre les dispositions de l'article L. 130-1 du code de la sécurité sociale relatif au calcul des effectifs, et celles de l'article L.1253-8-1 du code du travail, issues de la loi du 8 août 2016, selon lesquelles « les salariés mis à la disposition, en tout ou partie, d'un ou de plusieurs de ses membres par un groupement d'employeurs ne sont pas pris en compte dans l'effectif de ce groupement d'employeurs. » A la suite du transfert du recouvrement de la contribution supplémentaire à l'apprentissage (CSA) au réseau des URSSAF et aux caisses de Mutualité sociale agricole (MSA) et du fait du fonctionnement de l'application utilisée pour le recouvrement et le contrôle de ladite contribution, l'alternant est aujourd'hui comptabilisé dans l'effectif de la structure qui signe le contrat correspondant, en cohérence avec les règles régissant la détermination des cotisations et contributions de sécurité sociale, c'est-à-dire, au cas particulier, au niveau du groupement d'employeurs et non pas au niveau de l'entreprise dans laquelle il est mis à disposition. Aussi, dans l'attente d'une clarification législative qui puisse prendre en compte les spécificités des groupements d'employeurs pour l'insertion et la qualification (GEIQ) et des entreprises adhérentes, en accord avec la direction de la sécurité sociale, il est admis que les entreprises de plus de 250 salariés adhérents des GEIQ déclarent leur CSA due en 2023 au titre de la période d'emploi 2022 en prenant en compte les alternants mis à disposition par le GEIQ.
