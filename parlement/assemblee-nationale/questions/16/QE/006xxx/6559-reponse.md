@@ -1,0 +1,9 @@
+# Réponse à la question n° 6559
+
+- Question : [6559](6559.md) — Question n° 6559 — Logiciels espions
+
+## Réponse
+
+*JO du 2023-05-09, page 4194*
+
+La France a publiquement fait savoir que l'utilisation de logiciels espions à des fins de surveillance ciblée illégale constituait un acte d'une extrême gravité. De telles pratiques peuvent en effet conduire à de sérieuses violations des droits de l'Homme et des libertés fondamentales et menacer la défense et la sécurité nationale. Dans ce contexte, la France a joué un rôle actif dans l'élaboration et l'adoption de la Déclaration conjointe relative aux efforts visant à lutter contre la prolifération et l'usage abusif des logiciels espions commerciaux, rendue publique le 30 mars 2023 à l'occasion du deuxième Sommet pour la démocratie. L'Australie, le Canada, le Costa Rica, le Danemark, les Etats-Unis, la Norvège, la Nouvelle-Zélande, le Royaume-Uni, la Suède et la Suisse ont également apporté leur signature. Au-delà des seuls logiciels espions, la France est vivement préoccupée par la multiplication de l'ensemble des offres de solutions cyber-offensives par certains acteurs du secteur privé. Ce phénomène de prolifération appelle une réponse internationale large, au-delà de l'Union européenne, tant sur le contrôle des exportations que sur l'usage de ces technologies. La France travaille à construire un consensus et à explorer les leviers actionnables pour limiter un marché en plein essor, par exemple en mobilisant la communauté de l'Appel de Paris pour la confiance et la sécurité dans le cyberespace, qui fédère plus de 80 Etats, 36 organismes publics et administrations territoriales, 390 organisations et membres de la société civile et plus de 700 entreprises et entités du secteur des technologies. Conformément aux conclusions du Sommet bilatéral du 10 mars 2023, le Royaume-Uni et la France lanceront prochainement une initiative internationale visant à renforcer ces efforts de régulation.
