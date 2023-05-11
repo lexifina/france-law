@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230205150
+
+- Question : [SEQ230205150](seq230205150.md) — Tenue des sites internet des postes diplomatiques et consulaires
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2023-05-11, page 3102*
+
+Le ministère de l'Europe et des Affaires étrangères est soucieux d'apporter constamment à nos compatriotes à l'étranger une information complète et actualisée sur l'ensemble de leurs droits, ainsi que sur les démarches administratives qu'ils peuvent ou doivent accomplir. Les sites internet de nos ambassades et consulats sont un des vecteurs de cette communication à destination de nos concitoyens et de tout usager du service public, aux côtés des autres sources d'information gouvernementales que sont les sites dédiés pour certaines démarches (service public, France Connect, France-visa, par ex.), les modes de communication directe entre les consulats et les personnes inscrites au registre des Français de l'étranger (envois de messages électroniques), les applications (Ariane) ou la communication sur les réseaux sociaux (réseaux des postes, FranceConsul@ire, CDCS). Dans ce cadre, le ministère de l'Europe et des Affaires étrangères confirme que des travaux ont été lancés pour homogénéiser l'information de service public disponible sur les sites internet de nos ambassades et consulats. L'actualisation de ces 220 sites, qui ont rassemblé en 2022 56 millions de visites pour 105 millions de pages vues, repose encore aujourd'hui sur les équipes des consulats et des ambassades, l'administration centrale assurant, pour sa part, un accompagnement éditorial, ainsi que la mise en place et la maintenance des sites. Cette réforme devrait permettre de recentraliser l'information pour en assurer une mise en à jour uniformisée en temps réel et pour améliorer l'ergonomie pour l'utilisateur, où qu'il se trouve dans le monde.
