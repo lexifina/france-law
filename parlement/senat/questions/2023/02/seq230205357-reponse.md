@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230205357
+
+- Question : [SEQ230205357](seq230205357.md) — Délais d'obtention de l'allocation de solidarité aux personnes âgées
+
+## Réponse
+
+*Solidarités, autonomie et personnes handicapées, JO du 2023-05-11, page 3124*
+
+Le principe de retraite par répartition place au coeur du système les valeurs de solidarité ; c'est pourquoi les personnes âgées percevant une pension personnelle ou de réversion de faibles montants peuvent en outre bénéficier de l'allocation de solidarité aux personnes âgées (ASPA) sous condition de ressources, d'âge et de résidence. Fin 2020, 635 000 pensionnés percevaient l'ASPA ou l'allocation supplémentaire du minimum vieillesse, qui précédait l'ASPA jusqu'en 2007, dont 56 % de femmes. Toutefois, la direction de la recherche, des études, de l'évaluation et des statistiques fait état d'un non-recours à la prestation important, estimé fin 2016 à 50 % des "éligibles", soit 321 000 potentiels bénéficiaires. Les taux de non-recours sont les plus élevés parmi les personnes devenues éligibles car leurs ressources ont moins augmenté que le barème revalorisé plusieurs fois ces dernières années et parmi les personnes éligibles du fait d'un veuvage. Conscients de l'enjeu existant en termes d'accès au droit, la lutte contre le non-recours figure parmi les missions de la caisse nationale d'assurance vieillesse (CNAV) depuis la loi de financement de la sécurité sociale de 2019 et fait à ce titre l'objet d'une vigilance particulière et d'un suivi des indicateurs. La CNAV déploie des actions d'amélioration du droit à l'information des citoyens en amont de la demande de liquidation de retraite et auprès des bénéficiaires de prestations. Enfin, le réseau des maisons France Services vise à lutter contre la fracture numérique et à faciliter les démarches administratives auprès d'un interlocuteur unique, avec désormais près de 2 500 implantations et le déploiement de bus pour atteindre les zones rurales.
