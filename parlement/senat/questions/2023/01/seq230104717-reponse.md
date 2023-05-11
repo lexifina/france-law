@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230104717
+
+- Question : [SEQ230104717](seq230104717.md) — Répertoire des territoires sans chasse
+
+## Réponse
+
+*Écologie, JO du 2023-05-11, page 3092*
+
+Le Gouvernement a présenté le lundi 9 janvier 2023 un plan pour mieux sécuriser la pratique de la chasse et réduire le nombre d'accidents. La priorité du plan « Sécurité à la chasse » est de garantir la sécurité pour tous, celle des chasseurs et des non-chasseurs, partout et tous les jours. Afin de garantir le partage des espaces naturels, le Gouvernement propose un plan constitué de quatorze mesures autour de trois axes : renforcer la formation et la sensibilisation des chasseurs, renforcer les règles de sécurité pendant la chasse, assurer le partage des espaces et une meilleure information des usagers de la nature. Afin d'assurer une meilleure information des usagers de la nature, une plateforme numérique d'État sur les lieux et temps de chasse sera lancée au cours de l'automne 2023. L'objectif de l'Etat est d'organiser la collecte des informations de chasse auprès des chasseurs et des structures cynégétiques (Associations Communales de Chasses Agrées, Fédérations Départementales des Chasseurs etc.), d'en organiser le traitement et la qualification puis de les mettre à disposition auprès des utilisateurs. Sur ce dernier point, les utilisateurs pourront accéder aux données par une application dédiée ou par d'autres applications déjà existantes sur le marché pour la pratique des sports de nature (randonnée, VTT, etc.). Une gouvernance associant l'ensemble des parties prenantes sera constituée. Pour atteindre cet objectif, les premières réflexions sont engagées avec l'appui de l'Institut national de l'information géographique et forestière, l'Office français de la biodiversité et la Fédération nationale des chasseurs. La cartographie des zones non chassées est incluse dans le cadre de ces travaux, en soulignant qu'elle recouvre des situations très différentes.
