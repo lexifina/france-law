@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103972
+
+- Question : [SEQ221103972](seq221103972.md) — Critères d'éligibilité aux aides à la rénovation des fenêtres
+
+## Réponse
+
+*Transition écologique et cohésion des territoires, JO du 2023-05-11, page 3133*
+
+En l'état actuel, en effet, les aides MaPrimeRénov'et le prêt Eco-PTZ sont mobilisables pour des travaux qui permettent uniquement le remplacement de simple vitrage. Dans une logique de concentration des moyens financiers de l'Etat à l'effort de rénovation du parc de logement, ces dispositifs ont été orientés vers les travaux qui permettent les gains énergétiques les plus significatifs au regard de leurs coûts. Sur le sujet spécifiquement des fenêtres double vitrages de première génération, si leurs coefficients de transmission thermique (U de l'ordre de 2,5 à 3 W/m2.K) n'est effectivement pas au niveau des fenêtres double vitrage de dernière génération (U de l'ordre de 1 W/m2.K), elles permettent déjà de diminuer grandement les déperditions thermiques par rapport à un simple vitrage (U de l'ordre de 6 W/m2.K). Selon l'ADEME, les fenêtres sont seulement à l'origine de 10 à 15% des déperditions d'un logement. Le remplacement de fenêtres double vitrage de première génération par des fenêtres double vitrage de dernière génération, ne permettrait une économie de chauffage que d'environ 3 à 4%. Un tel niveau ne justifie pas le financement de ce geste (hors rénovation plus complète), compte tenu de l'impact beaucoup plus important des travaux d'isolation des murs ou de la toiture ou d'un changement de système de chauffage. Ainsi à ce stade, pour rester cohérent avec les principes directeurs de ces aides et compte tenu du succès massif que rencontre MaPrimeRénov', le Gouvernement n'envisage pas de faire évoluer les critères techniques de ces aides.
