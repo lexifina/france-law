@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802436
+
+- Question : [SEQ220802436](seq220802436.md) — Indemnisation des dégâts de grand gibier dans la filière bio
+
+## Réponse
+
+*Écologie, JO du 2023-05-11, page 3091*
+
+L'indemnisation des dégâts causés par les sangliers et les cervidés est encadrée par les articles L.426-1 à L.426-6 du code de l'environnement. L'article L.426-5 précise que la fédération départementale des chasseurs instruit les demandes d'indemnisation et propose une indemnité aux réclamants selon un barème départemental d'indemnisation. Ce barème est fixé par la commission départementale compétente en matière de chasse et de faune sauvage. Son calcul est fondé sur les valeurs minimale et maximale des prix à prendre en compte définies chaque année, pour les principales denrées, par la commission nationale d'indemnisation des dégâts de gibier. Concernant la majoration applicable aux cultures biologiques, l'article R.426-8 du code de l'environnement précise que la commission départementale peut autoriser une indemnisation des dégâts occasionnés à des cultures sous contrat ou sous signe officiel de qualité et à des cultures biologiques à des prix plus élevés que ceux du barème départemental, sous réserve que l'exploitant produise, avec sa réclamation, les justificatifs nécessaires. La commission départementale peut ainsi autoriser une indemnisation des dégâts occasionnés à des cultures biologiques à des prix plus élevés que ceux du barème départemental, sous réserve que l'exploitant produise, avec sa réclamation, les justificatifs nécessaires. La commission départementale fixe une majoration correspondant à la valeur de la récolte en fonction des conditions locales du marché. Il n'est pas prévu une harmonisation nationale des barèmes d'indemnisation des dégâts de grand gibier pour les filières biologiques car il importe de garder la souplesse nécessaire à l'échelon local pour tenir compte des spécificités territoriales.
