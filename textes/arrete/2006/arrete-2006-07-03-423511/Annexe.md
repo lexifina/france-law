@@ -142,7 +142,7 @@ EURO
 
 |
 
-158
+337
 
 |
 
@@ -788,7 +788,7 @@ EURO
 
 |
 
-132
+212
 
 |
 
@@ -940,7 +940,7 @@ LIVRE STERLING
 
 |
 
-180
+210
 
 |
 
@@ -1390,7 +1390,7 @@ EURO
 
 |
 
-173
+227
 
 |
 
@@ -1486,7 +1486,7 @@ EURO
 
 |
 
-105
+200
 
 |
 
@@ -1618,9 +1618,7 @@ EURO
 
 |
 
-90
-
-|
+150 |
 
 NAURU
 
@@ -1670,7 +1668,7 @@ FRANC CFA
 
 |
 
-NIGERIA
+NIGERIA villes de ABUJA, LAGOS ET PORT-HARCOURT
 
 |
 
@@ -1678,9 +1676,15 @@ EURO
 
 |
 
-273
+230
 
 |
+
+NIGERIA AUTRES VILLES |
+
+EURO |
+
+160 |
 
 NIUE
 
@@ -1702,7 +1706,7 @@ COURONNE NORVEGIENNE
 
 |
 
-1 465
+2 700
 
 |
 
@@ -2056,11 +2060,11 @@ SINGAPOUR
 
 |
 
-EURO
+DOLLAR SINGAPOURIEN
 
 |
 
-200
+446
 
 |
 
