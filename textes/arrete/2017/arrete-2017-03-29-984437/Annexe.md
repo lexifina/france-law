@@ -10,6 +10,16 @@ Directeur de cabinet du directeur général de la police nationale.
 
 Préfigurateur de la formation spécialisée du conseil supérieur de l'appui territorial et de l'évaluation compétente pour la police nationale.
 
+Préfigurateur directeur zonal de la police nationale à Marseille.
+
+Préfigurateur directeur zonal de la police nationale à Bordeaux.
+
+Préfigurateur directeur zonal de la police nationale à Rennes.
+
+Préfigurateur directeur zonal de la police nationale à Metz.
+
+Préfigurateur directeur zonal de la police nationale à Lyon.
+
 2. Direction des ressources et des compétences de la police nationale :
 
 Directeur adjoint des ressources et des compétences de la police nationale.
@@ -123,6 +133,8 @@ Conseiller, chef du pôle judiciaire.
 Conseiller, chef du pôle des affaires internationales et européennes.
 
 Conseiller prospective et stratégie.
+
+Préfigurateur directeur zonal de la police nationale à Lille.
 
 2. Direction des ressources et des compétences de la police nationale :
 
@@ -304,10 +316,6 @@ Conseiller technique chargé des affaires de police.
 
 Adjoint au chef du service des technologies et des systèmes d'information de la sécurité intérieure.
 
-15. Divers :
-
-Secrétaire général adjoint pour l'administration du ministère de l'intérieur à Marseille.
-
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 3 février 2023 (NOR : IOMC2234935A), ces dispositions entrent en vigueur à compter du premier jour du mois suivant sa publication au Journal officiel de la République française.
+Conformément à l'article 3 de l'arrêté du 25 avril 2023 (NOR : IOMC2306022A), ces dispositions entrent en vigueur à compter du 15 mai 2023.
