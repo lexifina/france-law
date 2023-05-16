@@ -1,0 +1,9 @@
+# Réponse à la question n° 6905
+
+- Question : [6905](6905.md) — Question n° 6905 — Manque de personnels enseignants pour assurer les cours d'EPS
+
+## Réponse
+
+*JO du 2023-05-16, page 4457*
+
+Il convient de distinguer la situation du premier degré et celle du second degré. Dans le premier degré, les professeurs des écoles assurent la totalité des enseignements, dont l'EPS, pour une même classe tout au long de l'année. La suppression de postes n'entraîne aucune diminution des heures d'enseignement pour les élèves, qui resteront bénéficiaires des 3 heures hebdomadaires d'EPS. Par ailleurs, les 30 minutes d'activité quotidienne viennent renforcer le temps d'activité physique des élèves depuis la rentrée scolaire 2022, en complémentarité de l'EPS. Les ressources pédagogiques pour accompagner les professeurs des écoles ont vocation à être complétées au cours des prochains mois. Ainsi, la pratique sportive et physique des élèves s'en trouve confortée. Dans le second degré (collèges et lycées), les possibles suppressions de postes de professeurs d'EPS (liées aux évolutions des structures – nombre de classes, nombre d'options, nombre de spécialités en lycée) n'ont pas non plus d'incidence sur le nombre d'heures d'EPS dont bénéficient les élèves. Par ailleurs, le concours de professeur d'EPS est un des plus attractifs, avec un nombre de candidats par poste parmi les plus élevés et un nombre de contractuels (environ 3,5 %) parmi les plus faibles de toutes les disciplines. Les activités proposées dans le cadre complémentaire de l'association sportive (UNSS) rencontrent quant à elles un fort succès, avec plus d'un million d'élèves licenciés cette année. Enfin, l'expérimentation des 2 heures de sport en plus dans près de 170 collèges cette année, avec une extension prévue à 700 collèges à la rentrée 2023, complète l'offre sportive pour les élèves les plus éloignés de toute pratique et renforce les partenariats entre l'École et les clubs de sport.
