@@ -1,0 +1,9 @@
+# Réponse à la question n° 6725
+
+- Question : [6725](6725.md) — Question n° 6725 — La non-rémunération des stages obligatoires effectués par les étudiants de BTS
+
+## Réponse
+
+*JO du 2023-05-16, page 4458*
+
+Le principe de gratification du stage est consacré par l'article L. 124-6 du code de l'éducation, qui s'applique notamment aux étudiants de brevet de technicien supérieur (BTS). L'étudiant reçoit une gratification dès lors que la durée du stage dépasse deux mois (soit 44 jours). La gratification lui est alors due à compter de son tout premier jour de stage. La durée des stages à effectuer est fixée par chaque référentiel de spécialité de BTS. Cette durée est fixée en accord avec la branche professionnelle afin de répondre aux objectifs de la formation et de garantir l'insertion professionnelle des étudiants. Si certains référentiels de BTS prévoient des stages d'une durée inférieure à six semaines, il ne s'agit pas d'une généralité. De nombreux BTS fixent une durée de stage plus conséquente. Par exemple, le BTS Management en hôtellerie restauration prévoit une durée de stage de 16 semaines, dont 12 consécutives (soit 60 jours) et le BTS Collaborateur juriste notarial, une durée de stage de 12 semaines permettant à l'étudiant d'accéder à une gratification. Afin que tous les jeunes puissent trouver un stage adapté à leur parcours pédagogique et à leur projet professionnel, le Gouvernement a mis en place la plateforme « 1jeune1solution » (https://www.1jeune1solution.gouv.fr), qui a pour objet de recenser des offres de stage dans toute la France. Enfin, la voie de l'apprentissage, qui est l'une des voies de préparation à l'examen du BTS, est un moyen efficace pour que le candidat puisse obtenir une rémunération certaine en parallèle de sa formation, et ainsi s'insérer plus rapidement dans la vie active.
