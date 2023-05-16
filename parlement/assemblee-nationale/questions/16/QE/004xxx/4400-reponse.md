@@ -1,0 +1,9 @@
+# Réponse à la question n° 4400
+
+- Question : [4400](4400.md) — Question n° 4400 — Décharges plastiques de Danone et Nestlé
+
+## Réponse
+
+*JO du 2023-05-16, page 4430*
+
+Le Gouvernement n'a pas l'intention de faire des exceptions à la responsabilité des entreprises à l'origine des dépôts de déchets non autorisées. Concernant les sites Nestlé, deux dépôts de déchets ont été identifiés à They-sous-Monfort et Contrexeville. Les dépôts sont constitués de plastiques (PVC) et de débris de verre mélangés à de la terre pour un volume estimé à 350 000 m3. Des campagnes d'analyses des eaux de ruissellement ont été effectuées pour vérifier si ces dépôts génèrent des impacts environnementaux. A ce stade, l'analyse des résultats des prélèvements a montré à ce stade l'absence de substances dangereuses. Le Préfet a exigé de Nestlé la mise en place d'une surveillance renforcée et d'analyses complémentaires sur le sous-sol. Ces mesures seront mises en place par Nestlé dans les prochains mois et sous le contrôle du Préfet. Par ailleurs, au printemps 2022, des déchets ont été découverts sur des terrains appartenant à la Société des eaux de Volvic qui appartient au groupe Danone. Il s'agit également de déchets de PVC utilisé pour la production de bouteilles, avec présence de fragments de fibrociment. Le dépôt de déchets représenterait une surface d'environ 1 ha sur une épaisseur moyenne de 2,5 mètres. Le Préfet a demandé que des sondages approfondis soient réalisés pour définir les modalités de gestion de ces déchets et les risques de pollution. Les résultats seront disponibles dans les prochains mois. Les investigations sur ces dépôts de déchets historiques sont suivies de près par les autorités préfectorales. La responsabilité pollueur - payeur de Nestlé et de Danone sera pleinement recherchée et toutes les options seront mises sur la table pour supprimer tout risque d'impact sur l'environnement.
