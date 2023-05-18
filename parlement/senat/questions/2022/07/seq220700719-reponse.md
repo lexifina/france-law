@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700719
+
+- Question : [SEQ220700719](seq220700719.md) — Situation des centres de santé
+
+## Réponse
+
+*Santé et prévention, JO du 2023-05-18, page 3268*
+
+Le développement des centres de santé participe à l'objectif d'amélioration de l'accès aux soins de premier recours pour tous et partout sur le territoire et figure à ce titre parmi les politiques prioritaires du Gouvernement. Les pouvoirs publics soutiennent cette ambition en veillant à l'accompagnement des centres de santé par plusieurs dispositifs de financement indépendants des actes de soins réalisés, qui représentent en moyenne 20 % de l'ensemble de leurs recettes. En premier lieu, l'accord national des centres de santé signé le 8 juillet 2015 permet à ces structures de bénéficier chaque année de rémunérations spécifiques de l'Assurance maladie valorisant des actions de coordination, de coopération et d'échanges entre professionnels de santé. Les centres de santé bénéficient également de la subvention dite « Teulade » de l'Assurance maladie correspondant au remboursement d'une partie des cotisations sociales patronales liées à l'emploi des praticiens et des auxiliaires médicaux. De plus, les agences régionales de santé soutiennent financièrement ces structures en leur proposant notamment des aides au démarrage, au développement ou à l'investissement immobilier et en subventionnant les activités des centres de santé réalisées dans le cadre de leurs missions complémentaires. Enfin, les collectivités territoriales peuvent dans certaines circonstances apporter une aide financière aux centres de santé. Enfin, une mission de l'inspection générale des affaires sociales été lancée en mars 2023 sur la question du modèle économique des centres de santé. Un premier rapport est attendu pour fin juin afin d'anticiper le cadre d'évolutions à court terme, tandis qu'un rapport plus étayé est envisagé pour octobre.
