@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103906
+
+- Question : [SEQ221103906](seq221103906.md) — Rôle institutionnel des associations représentatives au niveau national des Français établis hors de France
+
+## Réponse
+
+*Commerce extérieur, attractivité et Français de l'étranger, JO du 2023-05-18, page 3232*
+
+Le décret du 3 novembre 2022, publié le 5 novembre 2022 au Journal officiel, accorde à la fédération internationale des accueils français et francophones d'expatriés (FIAFE) la reconnaissance d'utilité publique. En conséquence et en concertation avec la présidente de la FIAFE, un représentant de la fédération sera désigné par la présidente afin de siéger au sein des conseils consulaires, lorsque les textes réglementaires prévoient la participation d'un représentant d'association reconnue d'utilité publique. Conformément à l'article 7 du décret n° 2014-14 relatif aux conseils consulaires, à l'Assemblée des Français de l'étranger et à leurs membres, un représentant de la FIAFE est invité à siéger au sein du conseil consulaire lorsque celui-ci est réuni dans les trois formations suivantes : protection et action sociales ; travail, emploi, formation professionnelle et apprentissage ; enseignement français à l'étranger. En dehors des trois formations du conseil consulaire précitées, la participation des représentants d'association n'est pas prévue par le dispositif réglementaire. A l'instar des représentants de l'ADFE et de l'UFE, le représentant de la FIAFE ne dispose d'une voix délibérative que dans le cadre des conseils consulaires compétents en matière d'aide à la scolarité, conformément aux dispositions de l'article 6 du même décret. Au niveau national, les modalités de participation de la FIAFE à ces instances seront définies en concertation avec elle dans la perspective des prochaines commissions consultatives.
