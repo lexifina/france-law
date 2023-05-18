@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230506661
+
+- Question : [SEQ230506661](seq230506661.md) — Augmentation des prix des mutuelles et des complémentaires santé
+
+## Réponse
+
+*Santé et prévention, JO du 2023-05-18, page 3276*
+
+D'après les données de la direction de la recherche, des études, de l'évaluation et des statistiques, en 2021, les cotisations des mutuelles et des complémentaires santé ont augmenté de 3,1 % par rapport à 2020. Cette hausse a néanmoins été atténuée par la fin de montée en charge de la réforme de la complémentaire santé solidaire, qui a induit une baisse des cotisations perçues par les organismes complémentaires en 2021 par rapport à 2020. L'évolution de la masse des cotisations sur deux ans, entre 2019 et 2021, s'est ainsi élevée à + 2,8 %. Par ailleurs, la participation des employeurs au financement de la couverture complémentaire santé a été étendue, pour les salariés du secteur privé depuis l'Accord National Interprofessionnel de 2013 et au plus tard en 2026 pour les employeurs publics. En parallèle, les dispositions du décret n° 2020-1438 du 24 novembre 2020 relatif au droit de résiliation sans frais de contrats de complémentaire santé doivent permettre d'augmenter la concurrence sur ce marché et à chaque assuré de quitter un contrat pour préférer un autre moins onéreux ou plus adapté à ses besoins. Pour éclairer le choix d'un nouveau contrat, la mise en oeuvre de la résiliation infra-annuelle pour les contrats de complémentaire santé s'est accompagnée de travaux visant à améliorer la lisibilité et la comparabilité des contrats. Par conséquent, de nombreuses mesures ont été mises en place par le Gouvernement pour limiter l'augmentation relative des cotisations de complémentaires santé et permettre à chacun de choisir une couverture qui corresponde à ses besoins.
