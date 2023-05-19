@@ -102,7 +102,7 @@ DORADE ROSE/ PAGEOT ROSE |
 
 Pagellus bogaraveo |
 
-35 cm |
+40 cm |
 
 DORADE ROYALE |
 
@@ -276,7 +276,7 @@ SOLES |
 
 Solea spp. |
 
-Régions Hauts de France et Normandie, à l'Est du Cap de la Hague : 25 cm Autres zones : 24 cm |
+25 cm |
 
 THON ROUGE |
 
@@ -378,7 +378,7 @@ TOURTEAU au nord du 48e parallèle Nord |
 
 Cancer pagurus |
 
-14 cm |
+15 cm |
 
 TOURTEAU au sud du 48e parallèle Nord |
 
