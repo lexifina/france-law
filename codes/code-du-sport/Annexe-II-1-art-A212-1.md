@@ -1406,7 +1406,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Titres à finalité professionnelle délivrés par la fédération française d'équitation |
 
-Animateur d'équitation, délivré du 2 mars 2020 au 2 mars 2023. |
+Animateur d'équitation, délivré du 27 mars 2023 au 27 mars 2026. |
 
 3 |
 
@@ -1686,7 +1686,7 @@ Entraînement en football. |
 
 |
 
-Entraîneur formateur de football, délivré jusqu'au 19 mai 2023. |
+Entraîneur formateur de football, délivré du 27 mars 2023 au 27 mars 2025. |
 
 6 |
 
@@ -1694,7 +1694,7 @@ Encadrement et entraînement en football dans une structure de préformation ou 
 
 |
 
-Entraîneur professionnel de football, délivré jusqu'au 19 mai 2023. |
+Entraîneur professionnel de football, délivré du 27 mars 2023 au 27 mars 2025. |
 
 6 |
 
