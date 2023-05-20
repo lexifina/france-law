@@ -5220,6 +5220,118 @@ L'indicateur de dysfonctionnement fait état d'une défaillance du système |
 
 Majeure |
 
+7.13. ECALL
+
+7.13.1. MONTAGE ET CONFIGURATION
+
+7.13.1. a. 2 |
+
+Système ou tout composant manquant |
+
+|
+
+Majeure |
+
+7.13.1. b. 1 |
+
+Version du logiciel incorrecte |
+
+|
+
+Mineure |
+
+7.13.1. c. 1 |
+
+Codage du système incorrect |
+
+|
+
+Mineure |
+
+7.13.2. ETAT
+
+7.13.2. a. 1 |
+
+Système ou composants endommagés |
+
+|
+
+Mineure |
+
+7.13.2. b. 1 |
+
+L'indicateur de dysfonctionnement du système eCall fait état d'une défaillance du système |
+
+|
+
+Mineure |
+
+7.13.2. c. 1 |
+
+Défaillance de l'unité de commande électronique du système eCall |
+
+|
+
+Mineure |
+
+7.13.2. d. 1 |
+
+Défaillance du dispositif de communication par réseau mobile |
+
+|
+
+Mineure |
+
+7.13.2. e. 1 |
+
+Défaillance du signal GPS |
+
+|
+
+Mineure |
+
+7.13.2. f. 1 |
+
+Composants audio non connectés |
+
+|
+
+Mineure |
+
+7.13.2. g. 1 |
+
+Source d'alimentation non connectée ou charge insuffisante |
+
+|
+
+Mineure |
+
+7.13.2. h. 1 |
+
+Le système signale une défaillance via l'interface électronique du véhicule |
+
+|
+
+Mineure |
+
+7.13.3. PERFORMANCES
+
+7.13.3. a. 1 |
+
+Ensemble minimal de données (MSD) incorrect |
+
+|
+
+Mineure |
+
+7.13.3. b. 1 |
+
+Mauvais fonctionnement des composants audio |
+
+|
+
+Mineure |
+
 8. NUISANCES
 
 8.1. BRUIT
@@ -6236,4 +6348,4 @@ Dans tous les autres cas, lorsque le résultat d'un contrôle technique est déf
 
 NOTA :
 
-Conformément à l’article 13 de l’arrêté du 8 février 2022 (NOR : TRER2204042A), ces dispositions entrent en vigueur deux mois après la publication dudit arrêté.
+Conformément à l’article 13 de l’arrêté du 8 février 2022 (NOR : TRER2204042A), ces dispositions entrent en vigueur le 20 mai 2023.
