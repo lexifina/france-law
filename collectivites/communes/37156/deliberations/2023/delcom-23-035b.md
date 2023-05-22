@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_035B — DELIBERATION 2023-35 CA 2022 BUDGET PRINCIPAL - PIECES COMPLEMENTAIRES
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-05-22
+- Matière : 7.10 Finances locales/Divers
+- Objet : DELIBERATION 2023-35 CA 2022 BUDGET PRINCIPAL - PIECES COMPLEMENTAIRES
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/e9371c8252e8f15d9b5a21ed8b39e4eacf587f9081d9432180d570f49f001dd0.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
