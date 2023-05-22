@@ -658,125 +658,89 @@ B |
 
 15 |
 
-Direction départementale de l'équipement du Loiret
+Direction départementale des territoires du Loiret
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification de l'emploi |
 
-NIVEAU
+Nombre
 
-de qualification de l'emploi
+d'emplois |
 
-|
+Nombre de points (IM) par emploi |
 
-NOMBRE
+Chef de service-adjoint du service habitat et rénovation urbaine en charge du département habitat public et renouvellement urbain |
 
-d'emplois
+A |
 
-|
+1 |
 
-NOMBRE DE POINTS (IM)
+30 |
 
-par emploi
+Chef de pôle ANRU et logement social-service habitat et rénovation urbaine |
 
-|
+B |
 
-Chef du service habitat et bâtiments publics
+1 |
 
-|
+20 |
 
-A
+Chargé de mission études/ copropriétés-Habitat privé, bâtiment, qualité de la construction et accessibilité-service habitat et rénovation urbaine |
 
-|
+B |
 
-1
+1 |
 
-|
+20 |
 
-30 points
+Direction départementale de l'emploi, du travail et des solidarités du Loiret
 
-|
+Fonction exercée |
 
-Chef de la cellule mission politique de la ville
+Niveau de qualification
 
-|
+de l'emploi |
 
-A
+Nombre
 
-|
+d'emplois |
 
-1
+Nombre de points
 
-|
+(IM) par emploi |
 
-30 points
+Chef du service insertion et protection des personnes vulnérables |
 
-|
+A |
 
-Suivi du fonds de solidarité logement et pilotage de la section départementale d'aide personnalisée au logement
+1 |
 
-|
+30 |
 
-B
+Chargé du secrétariat de la commission de coordination des actions de prévention des expulsions locatives-unité maintien dans le logement-service insertion et protection des personnes vulnérables |
 
-|
+C |
 
-1
+1 |
 
-|
+10 |
 
-20 points
+Chargé de la gestion du contingent préfectoral de logements sociaux-unité accès au logement-service insertion et protection des personnes vulnérables |
 
-|
+C |
 
-Instruction des dossiers contrats de ville en liaison avec les associations
+1 |
 
-|
+10 |
 
-B
+Chargé de l'instruction des dossiers aide personnalisée au logement-unité hébergement et logement adapté-service insertion et protection des personnes vulnérables |
 
-|
+C |
 
-1
+1 |
 
-|
-
-20 points
-
-|
-
-Secrétariat et comptabilité dossiers ville
-
-|
-
-C
-
-|
-
-1
-
-|
-
-10 points
-
-|
-
-Instruction des dossiers aide personnalisée au logement
-
-|
-
-C
-
-|
-
-2
-
-|
-
-10 points
-
-|
+10 |
 
 Direction départementale de l'équipement et de l'agriculture (2) de Lot-et-Garonne
 
@@ -857,3 +821,5 @@ NOTA :
 Se reporter aux conditions d'application prévues à l'article 1 de l'arrêté du 10 octobre 2022 (NOR: TREK2228924A).
 
 Se reporter aux conditions d'application prévues à l'article 1 de l'arrêté du 14 février 2023 (NOR: TREK2304665A).
+
+Conformément à l'article 1 de l'arrêté du 11 mai 2023 (NOR : TREK2312890A), la présente annexe est remplacée, à effet du 4 mai 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Loiret.
