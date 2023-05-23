@@ -1,0 +1,69 @@
+# Maintenir provisoirement un dispositif de plafonnement de revalorisation de la variation annuelle des indices locatifs
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N47975
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/maintenir_provisoirement_plafonnement_indices_locatifs
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl22-667.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-05-23 : 1er dépôt d'une initiative. (PIONANR5L16B1262)
+  - 2023-05-24 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-05-23 : Renvoi en commission au fond
+      - 2023-05-24 : Nomination de rapporteur
+      - 2023-05-24 : Réunion de commission
+      - 2023-05-30 : Réunion de commission
+      - 2023-05-31 : Réunion de commission
+      - 2023-05-30 : Dépôt de rapport (RAPPANR5L16B1287, PIONANR5L16BTC1287)
+  - Discussion en séance publique
+    - 2023-05-31 : Discussion en séance publique
+    - 2023-05-31 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-06-01 : Dépôt d'une initiative en navette (PIONSNR5S399B0667)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-06-01 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-06-06 : Dépôt de rapport (RAPPSNR5S399B0681, PIONSNR5S399BTC0682)
+  - Discussion en séance publique
+    - 2023-06-07 : Discussion en séance publique
+    - 2023-06-07 : Décision
+- Commission Mixte Paritaire
+  - 2023-06-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2023-06-12 : Nomination de rapporteur
+    - 2023-06-12 : Dépôt du rapport d'une CMP (RAPPANR5L16B1341)
+    - 2023-06-12 : Dépôt du rapport d'une CMP (RAPPSNR5S399B0723, PIONSNR5S399BTC0724)
+  - 2023-06-12 : Décision de la CMP
+- Nouvelle Lecture
+  - 2023-06-08 : Dépôt d'une initiative en navette (PIONANR5L16B1338)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-06-08 : Renvoi en commission au fond
+      - 2023-06-14 : Dépôt de rapport (RAPPANR5L16B1348, PIONANR5L16BTC1348)
+  - Discussion en séance publique
+    - 2023-06-20 : Discussion en séance publique
+    - 2023-06-20 : Décision
+- Nouvelle Lecture
+  - 2023-06-20 : Dépôt d'une initiative en navette (PIONSNR5S399B0755)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-06-20 : Renvoi en commission au fond
+      - 2023-06-21 : Dépôt de rapport (RAPPSNR5S399B0759, PIONSNR5S399BTC0760)
+  - Discussion en séance publique
+    - 2023-06-22 : Décision
+- Lecture définitive
+  - 2023-06-23 : Dépôt d'une initiative en navette (PIONANR5L16BTA0139)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-06-23 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2023-06-28 : Discussion en séance publique
+    - 2023-06-28 : Discussion en séance publique
+    - 2023-06-28 : Décision
+- Promulgation de la loi
+  - 2023-07-07 : Promulgation d'une loi
