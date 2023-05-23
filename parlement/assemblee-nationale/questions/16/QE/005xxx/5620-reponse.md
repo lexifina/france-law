@@ -1,0 +1,9 @@
+# Réponse à la question n° 5620
+
+- Question : [5620](5620.md) — Question n° 5620 — Stratégie nationale de lutte contre l'infertiltié
+
+## Réponse
+
+*JO du 2023-05-23, page 4695*
+
+L'infertilité se définit comme l'incapacité de commencer une grossesse après 12 mois ou plus de rapports sexuels non protégés réguliers. Il s'agit d'un concept complexe en raison de la multiplicité de ses causes mais également parce qu'elle reste parfois inexpliquée. Si une prise en charge médicale peut résoudre un certain nombre de cas d'infertilité et que la procréation médicalement assistée permet de contourner certaines difficultés, agir en amont sur les différentes causes par des actions de prévention demeure indispensable. Plusieurs stratégies déjà portées par le ministère de la santé et de la prévention ont un rôle à jouer dans la prévention de l'infertilité puisque certaines de leurs actions contribuent à réduire l'impact sur la fertilité des facteurs de risque connus (tabagisme, obésité, infections sexuellement transmissibles, endométriose, perturbateurs endocriniens, etc.) mais aussi à mieux informer (Stratégie nationale de santé sexuelle 2017-2030 et ses feuilles de route (2018-2020 et 2021-2024), Programme national de lutte contre le tabac 2018-2022, Plan national santé environnement 2021-2025, Programme national nutrition santé 2019-2023, Stratégie décennale de lutte contre le cancer 2021-2030 et sa feuille de route 2021-2025, Stratégie nationale de lutte contre l'endométriose, etc.). Des travaux débuteront en 2023 afin de valoriser les actions déjà engagées pour les faire connaître du grand public et des professionnels de santé et d'identifier les nouvelles actions visant à couvrir les besoins nouveaux ou insuffisamment couverts au regard des dernières données fournies par le rapport Hamamah-Berlioux. Ils aboutiront à l'élaboration d'une feuille de route de prévention de l'infertilité.
