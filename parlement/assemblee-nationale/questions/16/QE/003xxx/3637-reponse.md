@@ -1,0 +1,9 @@
+# Réponse à la question n° 3637
+
+- Question : [3637](3637.md) — Question n° 3637 — Campagne de dépistage en faveur de la santé visuelle des jeunes enfants
+
+## Réponse
+
+*JO du 2023-05-23, page 4682*
+
+Le dépistage précoce des troubles visuels de l'enfant est un enjeu de santé publique. En effet, les anomalies de la vision sont pour la plupart réversibles lorsque celles-ci sont traitées dans les premières années de la vie. Aujourd'hui, les dépistages de l'amblyopie ou des troubles de la réfraction peuvent être réalisés par le médecin généraliste ou le pédiatre à l'occasion des examens obligatoires de l'enfant ou dans le cadre d'une consultation classique. Ce dépistage peut également être effectué en médecine scolaire. Si ces dépistages (amblyopie et troubles de la réfraction) sont des actes réalisables par les orthoptistes, le code de santé publique prévoit que les orthoptistes sont soumis au principe de prescription médicale pour voir leurs actes remboursés par l'Assurance maladie (base de remboursement AM à 60 %). La mesure adoptée en projet de loi de financement de la Sécurité sociale (PLFSS) 2022 vise à permettre un accès direct aux orthoptistes pour ces deux types de dépistages chez les jeunes enfants, c'est-à-dire sans prescription médicale. Ces dépistages seraient pris en charge, dans le cadre du dispositif MT'Yeux, à 100 % par l'Assurance maladie (60 % sur le risque et 40 % au travers du fonds national de prévention, d'éducation et d'information sanitaire (FNPEIS) ) et permettraient ainsi de dépister davantage d'enfants. Cette disposition a été mise en œuvre par l'avenant n° 15 à la convention nationale organisant les rapports entre les orthoptistes et l'union des caisses d'assurance maladie signé le 10 octobre 2022 approuvé par arrêté en date du 6 décembre 2022 qui prévoit la valorisation de l'implication des orthoptistes dans le dépistage visuel. Ces dispositions entreront en vigueur à l'issue du délai de 6 mois en juin 2023.
