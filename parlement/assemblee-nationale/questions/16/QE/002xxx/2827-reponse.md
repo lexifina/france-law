@@ -1,0 +1,9 @@
+# Réponse à la question n° 2827
+
+- Question : [2827](2827.md) — Question n° 2827 — Solution manque effectifs transport sanitaire
+
+## Réponse
+
+*JO du 2023-05-23, page 4679*
+
+Dans le cadre du Ségur de la santé, les travaux relatifs à la réingénierie du diplôme d'Etat d'ambulancier ont conduit à accroître les compétences reconnues aux ambulanciers notamment dans la participation aux soins apportés aux patients (arrêté du 11 avril 2022) ainsi que de nouveaux actes réalisés dans le cadre de l'aide médicale urgente (décret du 22 avril 2022 et arrêté du 31 octobre 2022). Ces différentes évolutions réglementaires ont permis de replacer l'ambulancier en tant que professionnel de santé et du transport sanitaire. Aujourd'hui, l'accès à la formation conduisant au diplôme d'Etat d'ambulancier est conditionné à différents critères dont le fait de disposer d'un permis de conduire hors période probatoire. Compte tenu des enjeux pour l'attractivité de cette profession, la possibilité de reconsidérer l'âge d'accès au métier d'ambulancier et de fait, de permettre à des personnes disposant d'un permis probatoire d'accéder à cette formation, fait actuellement l'objet de travaux préliminaires nécessaires sur lesquels le ministère de la santé et de la prévention est fortement engagé. Le chantier de mise en œuvre de la validation des acquis de l'expérience (VAE) pour les ambulanciers est également identifié par le ministère de la santé et de la prévention. Cependant, l'ensemble des nouvelles évolutions réglementaires concernant le métier d'ambulancier nécessite une application sereine et un retour d'expérience pour pouvoir par la suite s'attacher à entreprendre la création de la VAE pour les ambulanciers. Il est par ailleurs nécessaire de rappeler que la voie de l'apprentissage est possible pour les ambulanciers et qu'elle doit être mobilisée.
