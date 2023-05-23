@@ -1,0 +1,9 @@
+# Réponse à la question n° 6284
+
+- Question : [6284](6284.md) — Question n° 6284 — Situation de l'entreprise RFS de Trignac (44)
+
+## Réponse
+
+*JO du 2023-05-23, page 4659*
+
+L'entreprise "Radio Frequency System France" (RFS) intervient dans le domaine de la fourniture d'équipements matériels de radiofréquence destinés aux réseaux de télécommunications. Au début de l'année 2023, le groupe a annoncé un arrêt de l'activité du site ainsi que celle des fonctions support, principalement basées à Paris : 112 salariés à Trignac et 11 salariés à Paris. Dans ce contexte, les services de l'État (DREETS des Pays de la Loire et DDETS de Loire Atlantique) sont particulièrement mobilisés par le suivi de la procédure du plan de sauvegarde de l'emploide (PSE) ouverte le 13 janvier et visant la suppression de 123 emplois au titre d'une cessation totale d'activité ainsi que par la recherche de repreneurs. La direction départementale de l'emploi, du travail et des solidarités (DDETS), dans le cadre de son instruction, veille de manière attentive au déroulement de la négociation, la régularité de la procédure et la qualité des mesures du PSE. Les partenaires sociaux sont parvenus à la signature d'un accord portant PSE, qui sera prochainement soumis à la validation de la direction régionale de l'économie, de l'emploi, du travail et des solidarités (DREETS). Le commissaire aux restructurations et à la prévention des difficultés des entreprises des Pays de la Loire est quant à lui mobilisé dans le processus de recherche de repreneurs, qui s'inscrit dans le cadre de la "loi Florange". RFS a fait appel un cabinet spécialisé et ce, sans limiter dans le temps ledit travail de recherche aux seuls délais réglementaires. Cela a permis au cabinet de travailler une vingtaine de prospects qualifiés, qui ont eux mêmes débouché à ce jour sur 7 visites de site et 3 projets dont un avec une lettre d'intention reçue.
