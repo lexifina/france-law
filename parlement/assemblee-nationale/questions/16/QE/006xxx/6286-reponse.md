@@ -1,0 +1,9 @@
+# Réponse à la question n° 6286
+
+- Question : [6286](6286.md) — Question n° 6286 — Il y a urgence à lutter contre les fermetures de centres hospitaliers
+
+## Réponse
+
+*JO du 2023-05-23, page 4704*
+
+La fermeture en nuit profonde du groupe homogène de malades les Portes du Sud à Vénissieux depuis le 6 mars 2023 est due à une insuffisance de personnel médical et paramédical combinée à des difficultés pour attirer et pérenniser les urgentistes. Face à cette situation, des liens ont été développés avec les établissements de santé de la Métropole afin de faciliter l'accès aux soins de la population dans les services des urgences limitrophes et ainsi limiter l'impact de cette fermeture partielle. Si l'établissement reste mobilisé, force est de constater que la pérennisation de l'effectif médical demeure un enjeu majeur pour une reprise effective de l'activité du service en nuit profonde à compter de septembre 2023. L'organisation de parcours de soins adaptés, sans recourir aux urgences et s'appuyant sur l'ensemble des professionnels de santé du territoire et des acteurs locaux représente donc un enjeu majeur. Ainsi, la sensibilisation de la population à saisir en préalable le centre 15, désormais organisé dans le Rhône en service d'accès aux soins, semble fondamentale pour une orientation adéquate vers les dispositifs de la ville et ainsi éviter l'engorgement des services des urgences. Les communautés professionnelles territoriales de santé organisent en outre des plages de consultations non programmées. Enfin, le développement de centres de soins non programmés adossés aux établissements de santé (maison médicale du Val d'Ouest, Trauma Parc) permet un accès facilité aux soins et de prendre en charge des cas plus complexes de soins ambulatoires grâce au plateau technique à proximité. Ces modalités variées de réponse aux besoins de soins non programmés se déploient sur le territoire et sont complémentaires de l'offre des services d'urgence.
