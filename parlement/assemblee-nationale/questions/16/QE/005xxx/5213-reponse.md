@@ -1,0 +1,9 @@
+# Réponse à la question n° 5213
+
+- Question : [5213](5213.md) — Question n° 5213 — Financement des lignes ferroviaires Colmar-Fribourg et Haguenau-Rastatt
+
+## Réponse
+
+*JO du 2023-05-23, page 4723*
+
+Le traité d'Aix-la-Chapelle, signé le 22 janvier 2019, fait de l'amélioration des liaisons ferroviaires transfrontalières une priorité en prenant pour exemple la réouverture de la liaison Colmar-Fribourg. L'étude d'une réouverture possible de la ligne Haguenau-Rastatt est également identifiée dans les conclusions du Conseil des ministres franco-allemand du 31 mai 2021. Ainsi, les études relatives à ces deux projets se poursuivent. Les résultats des études préliminaires du projet de réouverture de la ligne Colmar-Fribourg et ceux des études d'opportunité du projet de réouverture de la ligne Haguenau-Rastatt sont attendus d'ici l'été 2023. Les retours intermédiaires de ces études indiquent un besoin d'investissement très élevé pour chacun des deux projets, qui devra être consolidé lors de la remise des résultats définitifs. La partie allemande ne souhaite pas l'inclusion de ces projets au RTE-T, notamment du fait des contraintes liées aux exigences européennes qui pourraient modifier le programme de travaux à mener avec une augmentation éventuelle des coûts, sans que l'inscription au RTE-T ne garantisse pour autant une subvention européenne. La question du financement, déjà abordée succinctement entre les parties française et allemande, ne pourra être étudiée plus finement qu'une fois tirés les enseignements des études en cours d'achèvement, qui permettront d'apporter un éclairage précis sur les besoins financiers et sur les bénéfices socio-économiques des deux projets. Elle devra être examinée au regard de l'ensemble des besoins ferroviaires en région Grand Est et des ressources budgétaires mobilisables.
