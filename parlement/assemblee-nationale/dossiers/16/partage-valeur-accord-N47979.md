@@ -1,0 +1,63 @@
+# Transposition de l’accord national interprofessionnel relatif au partage de la valeur au sein de l’entreprise
+
+- Procédure : Projet de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N47979
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/partage_valeur_accord
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl22-816.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-05-24 : 1er dépôt d'une initiative. (PRJLANR5L16B1272)
+  - 2023-05-24 : Etude d'impact (ETDIANR5L16B1272)
+  - 2023-05-24 : Avis du Conseil d'Etat (AVCEANR5L16B1272)
+  - 2023-05-24 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-05-24 : Renvoi en commission au fond
+      - 2023-05-30 : Nomination de rapporteur
+      - 2023-05-30 : Réunion de commission
+      - 2023-06-19 : Réunion de commission
+      - 2023-06-19 : Réunion de commission
+      - 2023-06-26 : Réunion de commission
+      - 2023-06-20 : Dépôt de rapport (RAPPANR5L16B1404, PRJLANR5L16BTC1404)
+    - Travaux d'une commission saisie pour avis
+      - 2023-06-14 : Saisine pour avis d'une commission
+      - 2023-06-13 : Nomination de rapporteur
+      - 2023-06-13 : Réunion de commission
+      - 2023-06-19 : Réunion de commission
+  - Discussion en séance publique
+    - 2023-06-26 : Discussion en séance publique
+    - 2023-06-26 : Discussion en séance publique
+    - 2023-06-27 : Discussion en séance publique
+    - 2023-06-27 : Discussion en séance publique
+    - 2023-06-28 : Discussion en séance publique
+    - 2023-06-28 : Discussion en séance publique
+    - 2023-06-29 : Discussion en séance publique
+    - 2023-06-29 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-06-29 : Dépôt d'une initiative en navette (PRJLSNR5S399B0816)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-06-29 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-10-11 : Dépôt de rapport (RAPPSNR5S419B0025, PRJLSNR5S419BTC0026)
+  - Discussion en séance publique
+    - 2023-10-17 : Décision
+- Commission Mixte Paritaire
+  - 2023-10-18 : Dépôt d'un projet de loi (PRJLANR5L16B1780)
+  - 2023-10-18 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2023-11-15 : Nomination de rapporteur
+    - 2023-11-15 : Dépôt du rapport d'une CMP (RAPPSNR5S419B0107, PRJLSNR5S419BTC0108)
+    - 2023-11-15 : Dépôt du rapport d'une CMP (RAPPANR5L16B1859, PRJLANR5L16BTC1859)
+  - Discussion en séance publique
+    - 2023-11-16 : Décision
+  - Discussion en séance publique
+    - 2023-11-22 : Discussion en séance publique
+    - 2023-11-22 : Discussion en séance publique
+    - 2023-11-22 : Décision
+  - 2023-11-15 : Décision de la CMP
+- Promulgation de la loi
+  - 2023-11-29 : Promulgation d'une loi
