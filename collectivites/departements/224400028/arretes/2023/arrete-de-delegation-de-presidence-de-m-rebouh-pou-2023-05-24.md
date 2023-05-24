@@ -1,0 +1,10 @@
+# Département de Loire-Atlantique : arrêté
+
+- Collectivité : Département de Loire-Atlantique
+- SIREN : 224400028
+- Date : 2023-05-24
+- Nature : Autres décisions
+- Objet : (non reproduit : désigne une personne ou une mesure individuelle / names a person or is an individual measure)
+- Publié / affiché : 2023-05-24
+- Acte publié : https://www.loire-atlantique.fr/upload/docs/application/pdf/2023-05/arrete_delegation_a._rebouh_2023-05-17_18-10-5_934.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6427ac9aa3f13bebbdad8f37
