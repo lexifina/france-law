@@ -1,5 +1,7 @@
 # Article Annexe
 
+ANNEXE
+
 DISPENSATEUR DE FORMATION |
 
 TYPES D'HABILITATION |
@@ -12,7 +14,7 @@ Jusqu'au |
 
 ADIV Association,
 
-10, rue Jacqueline Auriol,
+10, rue Jacqueline-Auriol,
 
 ZAC des Gravanches,
 
@@ -36,9 +38,7 @@ RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans
 
 ADOFIA,
 
-24, rue des Vignoles,
-
-75020 PARIS |
+24, rue des Vignoles, 75020 PARIS |
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -104,35 +104,29 @@ RPA, volailles, manipulations et soins, mise à mort, complément sans étourdis
 
 RPA, lagomorphes/ rongeurs, manipulations et soins, mise à mort, complément sans étourdissement |
 
-Avipole Formation,
-
-Zoopôle les Croix,
-
-rue Camille Guérin,
+Avipole Formation, Zoopôle les Croix, rue Camille-Guérin,
 
 22400 PLOUFRAGAN |
 
 RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
-1er février 2018 |
+1er mai 2023 |
 
-31 janvier 2023 |
+30 avril 2028 |
 
 Opérateur, ratites-manipulation et soins-mise à mort |
 
-15 décembre 2017 |
+1er mai 2023 |
 
-14 décembre 2022 |
+30 avril 2028 |
 
 RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort-complément sans étourdissement |
 
-15 octobre 2018 |
+15 octobre 2023 |
 
-14 octobre 2023 |
+14 octobre 2028 |
 
-CFPPA du Gers,
-
-Valentees,
+EPLEFPA de Mirande, Valentees,
 
 32300 MIRANDE |
 
@@ -142,11 +136,7 @@ Opérateur, volailles-manipulation et soins-mise à mort-complément sans étour
 
 14 octobre 2023 |
 
-Chêne Vert Conseil,
-
-ZI Bellevue II,
-
-35220 CHATEAUBOURG |
+Chêne Vert Conseil, ZI Bellevue II, 35220 CHATEAUBOURG |
 
 RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -156,23 +146,19 @@ RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans
 
 DEFI,
 
-109, rue Laënnec,
-
-69008 LYON |
+109, rue Laënnec, 69008 LYON |
 
 Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
 21 juillet 2020 |
 
-21 juillet 2025 |
+20 juillet 2025 |
 
 Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
 DUC,
 
-Grande Rue,
-
-89771 CHAILLEY Cedex |
+Grande Rue, 89771 CHAILLEY Cedex |
 
 Opérateur, volailles-manipulation et soins |
 
@@ -180,11 +166,7 @@ Opérateur, volailles-manipulation et soins |
 
 14 octobre 2023 |
 
-École des métiers BIGARD-EMB,
-
-Groupe Bigard,
-
-ZI de Kergostiou,
+École des métiers BIGARD-EMB, Groupe Bigard, ZI de Kergostiou,
 
 CS 70053,
 
@@ -226,11 +208,11 @@ RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans
 
 31 août 2024 |
 
-FT2A
+FT2A,
 
-ZA La Forêt
+ZA La Forêt,
 
-Impasse Leduc Ladevèze
+Impasse Leduc-Ladevèze,
 
 72470 CHAMPAGNE |
 
@@ -250,11 +232,7 @@ RPA, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdi
 
 RPA, porcins-manipulation et soins-mise à mort |
 
-Institut de l'élevage,
-
-149, rue de Bercy,
-
-75020 PARIS |
+Institut de l'élevage, 149, rue de Bercy, 75020 PARIS |
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -266,11 +244,7 @@ RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément
 
 RPA et opérateur, porcins-manipulation et soins-mise à mort |
 
-IFIP, Institut du porc,
-
-3-5, rue Lespagnol,
-
-75020 PARIS |
+IFIP, Institut du porc, 3-5, rue Lespagnol, 75020 PARIS |
 
 RPA et opérateur, porcins-manipulation et soins-mise à mort |
 
@@ -282,13 +256,9 @@ RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complém
 
 RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-Institut de formation des métiers
+Institut de formation des métiers du secteur associatif juif-SIF,
 
-du secteur associatif juif-SIF,
-
-9, rue Vauquelin,
-
-75005 PARIS |
+9, rue Vauquelin, 75005 PARIS |
 
 Opérateur, bovins-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -300,11 +270,7 @@ Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans �
 
 Opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
-JPA, Josselin Porc Abattage,
-
-ZI La belle alouette,
-
-56120 JOSSELIN |
+JPA, Josselin Porc Abattage, ZI La belle alouette, 56120 JOSSELIN |
 
 Opérateur, porcins-manipulation et soins-mise à mort |
 
@@ -312,11 +278,7 @@ Opérateur, porcins-manipulation et soins-mise à mort |
 
 20 septembre 2022 |
 
-NOE DEVELOPPEMENT,
-
-9 la grande Noë,
-
-35150 AMANLIS |
+NOE DEVELOPPEMENT, 9 la grande Noë, 35150 AMANLIS |
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -328,13 +290,7 @@ RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément
 
 RPA et opérateur, porcins-manipulation et soins-mise à mort |
 
-RCServices Formation,
-
-23, rue Olivier-de-Serres,
-
-ZAC de la Buzenière, BP 539,
-
-85500 LES HERBIERS |
+RCServices Formation, 23, rue Olivier-de-Serres, ZAC de la Buzenière, BP 539,85500 LES HERBIERS |
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -356,11 +312,7 @@ RPA et opérateur, ratite-manipulation et soins-mise à mort. |
 
 30 juin 2026 |
 
-RG Consulting France,
-
-La Martinais,
-
-22130 CORSEUL |
+RG Consulting France, La Martinais, 22130 CORSEUL |
 
 RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -370,7 +322,7 @@ RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans
 
 SDBF,
 
-1 Allée Frédéric Chopin,
+1, allée Frédéric-Chopin,
 
 35760 SAINT-GREGOIRE |
 
@@ -418,7 +370,7 @@ RPA et opérateur, porcins-manipulation et soins-mise à mort |
 
 SICABAT,
 
-3 & 5, Avenue Charles Isautier, ZI n° 3
+3 & 5, avenue Charles-Isautier, ZI n° 3,
 
 97410 SAINT-PIERRE |
 
@@ -434,9 +386,7 @@ Opérateur, porcins-manipulation et soins-mise à mort |
 
 SOCSA Agroalimentaire,
 
-11, rue d'Ariane,
-
-31240 L'UNION |
+11, rue d'Ariane, 31240 L'UNION |
 
 RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -460,13 +410,9 @@ RPA et opérateur, porcins-manipulation et soins, mise à mort |
 
 31 août 2024 |
 
-SVA Jean ROZÉ,
+SVA Jean ROZÉ, rue Victor-Baltard,
 
-rue Victor-Baltard,
-
-BP 90237,
-
-35500 VITRÉ |
+BP 90237,35500 VITRÉ |
 
 Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -476,13 +422,7 @@ Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément san
 
 Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-Zoopôle Développement, ISPAÏA,
-
-Zoopôle Les Croix,
-
-2, rue Jean Rostand, BP 7,
-
-22440 PLOUFRAGAN |
+INNHOZ, Rond-point du Zoopôle, 2, rue Jean-Rostand, 22440 PLOUFRAGAN |
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
