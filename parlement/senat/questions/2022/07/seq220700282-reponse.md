@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700282
+
+- Question : [SEQ220700282](seq220700282.md) — Avenir du système de santé et du secteur médico-social
+
+## Réponse
+
+*Santé et prévention, JO du 2023-05-25, page 3393*
+
+Les différents ministères concernés ont bien conscience des difficultés que rencontre le système de santé actuellement et c'est pourquoi ils travaillent étroitement avec les acteurs institutionnels, syndicaux et de terrain afin d'améliorer la situation, notamment au regard de la feuille de route définie par le Président de la République à l'occasion de ses voeux aux acteurs de la santé. Les ressources humaines étant la clef de voûte de notre système de santé, indispensables à la pérennité de ce dernier, plusieurs mesures visant à mieux les attirer et fidéliser dans leurs fonctions ont été et sont encore entreprises : qu'il s'agisse d'améliorer la formation initiale et continue des personnels soignants (création de places, réingénierie des formations, nouvelles maquettes pédagogiques, développement de l'apprentissage et de la VAE…), de sécuriser leurs parcours et conditions d'exercice, que ce soit en libéral, en structure publique ou privée (pratique avancée, protocoles de coopération, dispositifs de mobilité, assistants médicaux…), de revaloriser leurs statuts (indemnités de sujétions, régime indemnitaire, dispositifs de prévoyance et complémentaire) ou encore de faciliter leur quotidien (organisation du temps de travail, soutien à l'installation…), les équipes sont pleinement mobilisées dans la conduite et la mise en oeuvre de ces mesures d'attractivité. Concomitamment, des chantiers de grande ampleur sont conduits : à la fois une évolution des modalités de financement des établissements publics de santé afin de mieux tenir compte des aspects qualitatifs de leur activité, ainsi que la gouvernance pour repositionner notamment le service comme maillon principal du fonctionnement hospitlier.
