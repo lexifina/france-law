@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230205182
+
+- Question : [SEQ230205182](seq230205182.md) — Mise en place du bouclier tarifaire spécial « infrastructure de recharge de véhicules électriques »
+
+## Réponse
+
+*Transition énergétique, JO du 2023-05-25, page 3400*
+
+Pour faire face à l'augmentation sans précédent des prix des énergies, le Gouvernement est pleinement mobilisé et a mis en place différents dispositifs d'aide dont bénéficient les utilisateurs de véhicules électriques, et en particulier un bouclier tarifaire spécifique. D'une part le Gouvernement a décidé de maintenir en 2023 le niveau de la part de taxe dite accise sur l'électricité (ex-TICFE) au minimum communautaire pour tous les consommateurs sauf ceux qui bénéficient déjà de taux très réduits ou d'une exonération (très gros consommateurs). Pour les ménages et les microentreprises, le niveau de l'accise est ramené à 1 euros/MWh et à 0,5euros/MWh pour les autres entreprises. De plus, aux fins de réduire les prix de l'électricité pour tous les utilisateurs de véhicules électrifiés, une mesure d'aide est également instaurée au bénéfice de tous les aménageurs d'infrastructures de recharge électrique, à raison de l'électricité qu'ils achètent pour les services de recharge qu'ils proposent sur l'ensemble de l'année 2023, le cas échéant par l'intermédiaire d'un délégataire. Ce bouclier tarifaire dédié aux « infrastructures de recharge de véhicules électriques » (IRVE), ouvertes ou non au public, apporte une aide équivalente au bouclier pour l'électricité des particuliers et s'applique sur toute l'année 2023. L'aide est demandée par les fournisseurs d'électricité auprès de l'Agence de services et de paiement (ASP) pour le compte de leurs clients, aménageurs d'infrastructures de recharge électrique. Ces derniers sont tenus d'ajuster la tarification des services de recharge qu'ils proposent aux utilisateurs de véhicules électriques de manière à leur répercuter l'aide qu'ils perçoivent.
