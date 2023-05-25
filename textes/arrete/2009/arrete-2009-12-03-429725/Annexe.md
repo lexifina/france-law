@@ -1,7 +1,27 @@
 # Article Annexe
 
-Vous pouvez consulter les formulaires dans le JO n° 286 du 10/12/2009 texte numéro 5
+ANNEXE
 
-NOTA :
+Les spécialités mentionnées au premier alinéa de l'article 10 sont les suivantes :
 
-Arrêté du 3 décembre 2009 article 16 : Les dispositions du présent arrêté prennent effet pour les concours ouverts au titre de la session 2010.
+1° Sciences du vivant au service des transitions agroécologiques et alimentaires ;
+
+2° Connaissance et protection des écosystèmes ;
+
+3° Evaluation et gestion des risques sanitaires et technologiques ;
+
+4° Sciences humaines et sociales appliquées aux domaines d'activité du corps ;
+
+5° Gestion durable des ressources naturelles ;
+
+6° Sciences des territoires ;
+
+7° Sciences et technologies du développement durable ;
+
+8° Evaluation et gestion des risques naturels ;
+
+9° Numérique et science des données ;
+
+10° Décarbonation de l'énergie ;
+
+11° Infrastructures et services de transports terrestres, maritimes et aériens.
