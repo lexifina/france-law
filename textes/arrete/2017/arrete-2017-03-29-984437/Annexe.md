@@ -50,7 +50,7 @@ Directeur central adjoint chargé du renseignement et chef du service central du
 
 Directeur zonal de la sécurité publique Sud à Marseille (13)
 
-Directeur zonal de la sécurité publique Sud-Ouest à Bordeaux (33)
+Directeur départemental de la sécurité publique, commissaire central de Marseille (13)
 
 Directeur zonal de la sécurité publique Ouest à Rennes (35)
 
@@ -196,8 +196,6 @@ Chef de la division nationale de recherche et d'appui.
 
 Directeur départemental de la sécurité publique et commissaire central à Nice (06).
 
-Directeur départemental de la sécurité publique, commissaire central de Marseille (13).
-
 Directeur départemental de la sécurité publique et commissaire central à Toulouse (31).
 
 Directeur départemental de la sécurité publique et commissaire central à Montpellier (34).
@@ -315,7 +313,3 @@ Conseiller technique chargé des affaires de police.
 14. Service des technologies et des systèmes d'information de la sécurité intérieure
 
 Adjoint au chef du service des technologies et des systèmes d'information de la sécurité intérieure.
-
-NOTA :
-
-Conformément à l'article 3 de l'arrêté du 25 avril 2023 (NOR : IOMC2306022A), ces dispositions entrent en vigueur à compter du 15 mai 2023.
