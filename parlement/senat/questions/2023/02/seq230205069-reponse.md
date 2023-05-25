@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230205069
+
+- Question : [SEQ230205069](seq230205069.md) — Obligation de délivrer les certificats de décès par voie dématérialisée
+
+## Réponse
+
+*Santé et prévention, JO du 2023-05-25, page 3397*
+
+La dématérialisation du certificat de décès présente de nombreux avantages pour le professionnel de santé. En effet, le médecin n'a plus besoin de commander des certificats papier, dispose d'aides au remplissage du certificat, de la réglementation correspondant à certaines causes ou circonstances de décès, et a accès via le dossier patient informatisé notamment aux données du patient ou à celles de son établissement ou service. Aussi, le décret n° 2022-284 du 28 février 2022 relatif à l'établissement du certificat de décès précise en son article 1 que : A titre exceptionnel, lorsque le décès n'a pas eu lieu dans un établissement de santé public ou privé ou dans un établissement d'hébergement pour personnes âgées dépendantes mentionné à l'article L. 313-12 du code de l'action sociale et des familles, le certificat de décès peut être établi sur support papier et transmis, dans les meilleurs délais, selon les modalités suivantes : » ; Lorsque, pour des raisons techniques, le volet administratif du certificat électronique ne peut pas être transmis à la mairie par voie dématérialisée sécurisée, il est édité sous format papier et transmis à la mairie en quatre exemplaires signés par le médecin, l'étudiant ou le praticien. La régie, l'entreprise ou l'association habilitée dans les conditions définies à l'article L. 2223-23, chargée de pourvoir aux funérailles et, en cas de transport du corps, la mairie du lieu de dépôt du corps et le gestionnaire de la chambre funéraire sont chacun destinataires d'un de ces exemplaires. » Toutes les mesures sont ainsi prises afin de faciliter l'établissement du certificat de décès par le médecin qui en a la charge.
