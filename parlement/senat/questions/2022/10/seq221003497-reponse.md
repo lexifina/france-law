@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003497
+
+- Question : [SEQ221003497](seq221003497.md) — Réalité du lien entre la pénurie de carburant et la hausse des prix à la pompe
+
+## Réponse
+
+*Transports, JO du 2023-05-25, page 3402*
+
+L'approvisionnement en produit pétrolier est redevenu nominal en novembre 2022 sur l'ensemble de territoire, mais des tensions locales d'approvisionnement en produits pétroliers ont été constatées sur l'ensemble de la France métropolitaine durant le mois d'octobre. Ces tensions locales ont été causées par différents facteurs. Un mouvement de grèves a touché les groupes TotalEnergies et ExxonMobil et a eu des conséquences sur le fonctionnement des raffineries et des dépôts. La demande en produits pétroliers de plus était extrêmement élevée, compte tenu notamment d'une demande agricole forte en lien avec l'activité saisonnière et des achats de précaution de la part de certains consommateurs. Par ailleurs, la remise sur les prix des carburants en stations-services mise en place par le Gouvernement et TotalEnergies a induit, notamment dans les zones frontalières, une forte demande et donc des tensions logistiques et une augmentation des délais d'approvisionnement. Cependant, les difficultés rencontrées lors de ces semaines ont avant tout été de nature logistique. Le Gouvernement a été en contact permanent avec les opérateurs pour fluidifier cette logistique, mettre en place des approvisionnements alternatifs et prendre des actions complémentaires, afin que les produits puissent être acheminés au bon rythme jusqu'aux lieux de consommations. Des stocks stratégiques ont par ailleurs été mobilisés afin d'assurer la disponibilité des produits. Par ailleurs, les services de l'Etat suivent quotidiennement les fluctuations des prix des carburants à la pompe. Ce suivi est consultable sur le site https://www.prix-carburants.gouv.fr/.
