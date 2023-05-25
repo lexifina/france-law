@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230406496
+
+- Question : [SEQ230406496](seq230406496.md) — Modernisation du parc de logements sociaux
+
+## Réponse
+
+*Ville et logement, JO du 2023-05-25, page 3419*
+
+La production de nouveaux logements locatifs sociaux et la rénovation énergétique du parc existant sont des objectifs prioritaires de la politique du logement. Ainsi, le conseil d'administration du fonds national des aides à la pierre (FNAP) a voté pour 2023 une augmentation de 5,4% des montants moyens de subvention attribués au titre des aides à la pierre pour l'offre nouvelle. Cette revalorisation est modulée entre les régions, et à l'échelle infrarégionale, en fonction de la hausse des coûts de construction et de la tension sur le territoire. Cette augmentation doit permettre la production de 110 000 logements, objectif auquel s'ajoute environ 18 000 logements reconstruits au titre du Nouveau Programme National de Renouvellement Urbain (NPNRU). A la suite des mesures menées dans le cadre du Plan de relance, une enveloppe de 200 Meuros a été voté lors conseil d'administration du FNAP du 2 mars 2023 pour la rénovation énergétique des logements locatifs sociaux. Cette enveloppe sera répartie en fonction des besoins remontés par les services déconcentrés de l'Etat après enquête auprès des bailleurs sociaux. Elle doit permettre la rénovation de plus de 37 000 passoires thermiques du parc social sur l'année 2023. Enfin, dans le contexte actuel de remontée des taux d'intérêt, des mesures ont été prises pour préserver la capacité d'investissement du secteur. Le Gouvernement a ainsi limité la hausse du taux du livret A au 1er février 2023 à 3 %. La Banque des Territoires a également prévu de renforcer son soutien aux bailleurs dès 2023. Ces aides incluent notamment le déploiement d'un bouclier financier permettant aux nouvelles opérations de PLAI, PLUS et PLS de bénéficier en 2023 d'un taux réduit de 100 points de base à la première échéance annuelle du prêt.
