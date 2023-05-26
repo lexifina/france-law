@@ -14,7 +14,7 @@ II. - La fusion ou la scission entraîne la dissolution sans liquidation des ass
 
 Les membres des associations qui disparaissent acquièrent la qualité de membres de l'association résultant de la fusion ou de la scission.
 
-Les articles L. 236-14, L. 236-20 et L. 236-21 du code de commerce sont applicables aux fusions ou aux scissions d'associations.
+Les articles L. 236-15, L. 236-25 et L. 236-26 du code de commerce sont applicables aux fusions ou aux scissions d'associations.
 
 III. - Sauf stipulation contraire du traité d'apport, la fusion, la scission ou l'apport partiel d'actif prend effet :
 
@@ -33,3 +33,7 @@ IV. - Lorsqu'une association bénéficiant d'une autorisation administrative, d'
 Le présent IV n'est pas applicable à la reconnaissance d'utilité publique.
 
 V. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+NOTA :
+
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.
