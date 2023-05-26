@@ -1,0 +1,11 @@
+# COMMUNE DE PLOUGONVELIN : délibération DCM_AOT_TREZHIR — CONVENTION TEMPORAIRE DOCCUPATION DU DOMAINE PUBLIC POUR EXPLOITATION DUN ESPACE A PROXIMITE DE LA PLAGE DU TREZ-HIR
+
+- Collectivité : COMMUNE DE PLOUGONVELIN
+- SIRET : 21290190400012
+- Code INSEE : 29190
+- Date : 2023-05-26
+- Matière : 3.3 Domaine et patrimoine/Locations
+- Objet : CONVENTION TEMPORAIRE DOCCUPATION DU DOMAINE PUBLIC POUR EXPLOITATION DUN ESPACE A PROXIMITE DE LA PLAGE DU TREZ-HIR
+- Transmis à la préfecture : 2023-05-26 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212901904/Deliberation/2023/419634/bf92d167ad5fdf873ae4e4aa67c0bda6b3356c0be2dd600bd93ffc2ffe8df6a9.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
