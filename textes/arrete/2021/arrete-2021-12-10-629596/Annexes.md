@@ -640,9 +640,9 @@ Tereos Starch & Sweeteners |
 
 FR000000000000056 |
 
-SITPA - Usine de Rosières |
+Mousseline-Usine de Rosières en Santerre |
 
-SITPA SA |
+Mousline S. A. S. |
 
 13 898 |
 
@@ -748,9 +748,9 @@ EURENCO |
 
 FR000000000000068 |
 
-AHLSTROM-MUNKJSO ROTTERSAC SAS |
+AHLSTROM ROTTERSAC |
 
-AHLSTROM-MUNKSJO ROTTERSAC SAS |
+AHLSTROM ROTTERSAC |
 
 26441 |
 
@@ -824,17 +824,17 @@ Yara France Usine d'Ambès |
 
 Yara France |
 
-82060 |
+88101 |
 
-82060 |
+104293 |
 
-82060 |
+104293 |
 
-82060 |
+104293 |
 
-82060 |
+104293 |
 
-410300 |
+505273 |
 
 FR000000000000075 |
 
@@ -876,7 +876,7 @@ FR000000000000077 |
 
 PAPETERIE DE BEGLES |
 
-Papeterie de Bègles |
+AQUILA HYGIENE SAS |
 
 14 587 |
 
@@ -1994,17 +1994,17 @@ ENTREMONT ALLIANCE MONTAUBAN DE BRETAGNE |
 
 ENTREMONT ALLIANCE S.A.S. |
 
-2065 |
+3659 |
 
-2065 |
+4278 |
 
-2065 |
+4278 |
 
-2065 |
+4278 |
 
-2065 |
+4278 |
 
-10325 |
+20771 |
 
 FR000000000000183 |
 
@@ -2914,15 +2914,15 @@ TOTALENERGIES Raffinage France |
 
 916941 |
 
-916941 |
+855039 |
 
-916941 |
+855039 |
 
-916941 |
+855039 |
 
-916941 |
+855039 |
 
-4584705 |
+4 337 097 |
 
 FR000000000000267 |
 
@@ -3004,15 +3004,15 @@ SNC RENAULT SANDOUVILLE |
 
 6 659 |
 
-6 659 |
+6 893 |
 
-6 659 |
+5 419 |
 
-6 659 |
+5 419 |
 
-6 659 |
+5 419 |
 
-33 295 |
+29 809 |
 
 FR000000000000274 |
 
@@ -3202,15 +3202,15 @@ NESTLE France - Usine de Dieppe |
 
 10 282 |
 
-10 282 |
+10 449 |
 
-10 282 |
+10 449 |
 
-10 282 |
+10 449 |
 
-10 282 |
+10 449 |
 
-51 410 |
+52 078 |
 
 FR000000000000287 |
 
@@ -3434,17 +3434,17 @@ Verescence SAS - Usine de Mers les bains |
 
 Verescence SAS |
 
-51 523 |
+49 506 |
 
-51 523 |
+41 076 |
 
-51 523 |
+42 034 |
 
-51 523 |
+42 034 |
 
-51 523 |
+42 034 |
 
-257 615 |
+216 684 |
 
 FR000000000000306 |
 
@@ -4294,9 +4294,9 @@ Rhodia Opérations |
 
 FR000000000000387 |
 
-AHLSTROM-MUNKSJÖ LA GERE |
+AHLSTROM LA GERE |
 
-Ahlstrom-Munksjö La Gère |
+AHLSTROM LA GERE |
 
 34 912 |
 
@@ -4384,9 +4384,9 @@ CCIAG |
 
 FR000000000000393 |
 
-Ahlstrom Munksjo Brignoud |
+AHLSTROM BRIGNOUD |
 
-Ahlstrom Munksjo Brignoud |
+AHLSTROM BRIGNOUD |
 
 4 688 |
 
@@ -4786,15 +4786,15 @@ ELM OPERATIONS |
 
 4 371 |
 
-4 371 |
+4 718 |
 
-4 371 |
+4 718 |
 
-4 371 |
+4 718 |
 
-4 371 |
+4 718 |
 
-21 855 |
+23 243 |
 
 FR000000000000432 |
 
@@ -5220,15 +5220,15 @@ SAINT GOBAIN PAM CANALISATION |
 
 285780 |
 
-285780 |
+297867 |
 
-285780 |
+297867 |
 
-285780 |
+297867 |
 
-285780 |
+297867 |
 
-1428900 |
+1477248 |
 
 FR000000000000468 |
 
@@ -5322,9 +5322,9 @@ Carrières et Fours à Chaux de Dugny |
 
 FR000000000000475 |
 
-AHLSTROM MUNKSJÖ STENAY SAS |
+AHLSTROM STENAY |
 
-AHLSTROM MUNKSJÖ STENAY |
+AHLSTROM STENAY |
 
 19565 |
 
@@ -5544,7 +5544,7 @@ Ineos Polymers Sarralbe SAS |
 
 56591 |
 
-57233 |
+56312 |
 
 57233 |
 
@@ -5552,7 +5552,7 @@ Ineos Polymers Sarralbe SAS |
 
 57233 |
 
-285523 |
+284602 |
 
 FR000000000000494 |
 
@@ -5574,9 +5574,9 @@ DALKIA |
 
 FR000000000000497 |
 
-AHLSTROM-MUNKSJÖ ARCHES |
+AHLSTROM ARCHES |
 
-AHLSTROM-MUNKSJÖ ARCHES SAS |
+AHLSTROM ARCHES |
 
 11157 |
 
@@ -5598,15 +5598,15 @@ PAPETERIES DE CLAIREFONTAINE |
 
 38 685 |
 
-38 685 |
+38 579 |
 
-38 685 |
+38 579 |
 
-38 685 |
+38 579 |
 
-38 685 |
+38 579 |
 
-193 425 |
+193 001 |
 
 FR000000000000502 |
 
@@ -6820,17 +6820,17 @@ NAPHTACHIMIE - Usine de Lavéra |
 
 NAPHTACHIMIE |
 
-857694 |
+883323 |
 
-857694 |
+886659 |
 
-857694 |
+886659 |
 
-857694 |
+886659 |
 
-857694 |
+886659 |
 
-4288470 |
+4429959 |
 
 FR000000000000618 |
 
@@ -9390,7 +9390,7 @@ DALKIA |
 
 FR000000000000855 |
 
-STRASBOURG CENTRE ENERGIES Elsau |
+STRASBOURG CENTRE ENERGIES Meinau |
 
 STRASBOURG CENTRE ENERGIES |
 
@@ -11532,9 +11532,9 @@ ESSITY Operations France |
 
 FR000000000001072 |
 
-Établissements René MAINGOURD |
+D'Aucy Orléans |
 
-Ets René MAINGOURD |
+D'Aucy Orléans |
 
 1 218 |
 
@@ -11574,15 +11574,15 @@ Laboratoires SERVIER Industrie |
 
 1 532 |
 
-1 532 |
+- |
+
+- |
+
+- |
+
+- |
 
 1 532 |
-
-1 532 |
-
-1 532 |
-
-7 660 |
 
 FR000000000001077 |
 
@@ -13140,15 +13140,15 @@ MARCILLAT CORCIEUX |
 
 1 422 |
 
-1 422 |
+- |
+
+- |
+
+- |
+
+- |
 
 1 422 |
-
-1 422 |
-
-1 422 |
-
-7 110 |
 
 FR000000000204063 |
 
@@ -15316,8 +15316,6 @@ APPRYL SNC |
 
 APPRYL SNC |
 
-11 379 |
-
 - |
 
 - |
@@ -15326,7 +15324,9 @@ APPRYL SNC |
 
 - |
 
-11 379 |
+- |
+
+- |
 
 FR000000000206033 |
 
@@ -15586,8 +15586,6 @@ Usine Chimique de Lavéra |
 
 INEOS Chemicals Lavéra SAS |
 
-18 400 |
-
 - |
 
 - |
@@ -15596,7 +15594,9 @@ INEOS Chemicals Lavéra SAS |
 
 - |
 
-18 400 |
+- |
+
+- |
 
 FR000000000206166 |
 
@@ -19022,7 +19022,7 @@ CCIAG |
 
 7271 |
 
-FR-new-05602391 |
+FR000000000218742 |
 
 CLERVIA-CHAUFFERIE DE LA GAUTHIERE |
 
@@ -19094,7 +19094,7 @@ TOURS MÉTROPOLE ÉNERGIES DURABLES (TMED) |
 
 2239 |
 
-FR-new-07406134 |
+FR000000000218601 |
 
 BOUYGUES TELECOM-Meudon |
 
@@ -19274,7 +19274,7 @@ SUEZ RV France |
 
 / |
 
-FR-new-06522004 |
+FR000000000218741 |
 
 CENTRALE THERMIQUE GEOVIVA |
 
@@ -19292,7 +19292,7 @@ GEOVIVA |
 
 / |
 
-FR-new-100002017 |
+FR000000000218440 |
 
 Unité SMR Gonfreville l'Orcher |
 
@@ -19310,11 +19310,11 @@ AIR LIQUIDE FRANCE INDUSTRIE |
 
 / |
 
-FR-new-100001139 |
+FR000000000218481 |
+
+Chaufferie du Mont HERY |
 
 CLOE |
-
-ENGIE Cofely |
 
 / |
 
@@ -19333,6 +19333,24 @@ FR-new-100000434 |
 ACC Douvrin |
 
 Automotive Cells Compagny SE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR000000000218941 |
+
+Chaufferie urbaine de Belle-Beille |
+
+ALTER SERVICES |
 
 / |
 
