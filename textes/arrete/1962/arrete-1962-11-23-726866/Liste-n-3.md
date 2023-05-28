@@ -640,6 +640,12 @@ Bande en herbe : aux aéronefs de l'aéroclub de Lurcy-Lévis et, dans le cadre 
 
 Piste revêtue intégrée dans circuit auto : aux transports aériens privés ou pour les besoins de la société Danielson. |
 
+Luxeuil-Saint-Sauveur |
+
+Haute-Saône |
+
+Cet aérodrome est réservé aux aéronefs qui y sont basés ou aux pilotes autorisés par le directeur d'aérodrome. |
+
 Lyon-Brindas |
 
 Rhône |

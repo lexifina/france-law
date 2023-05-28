@@ -122,12 +122,6 @@ Finistère |
 
 |
 
-Luxeuil - Saint-Sauveur |
-
-Haute-Saône |
-
-|
-
 Metz-Frescaty |
 
 Moselle |
