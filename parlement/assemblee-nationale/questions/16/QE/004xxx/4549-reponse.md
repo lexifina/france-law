@@ -1,0 +1,9 @@
+# Réponse à la question n° 4549
+
+- Question : [4549](4549.md) — Question n° 4549 — Abandon simplifié des armes dans les armodromes
+
+## Réponse
+
+*JO du 2023-05-30, page 4876*
+
+L'opération de collecte d'armes non déclarées auprès des citoyens français, décidée par le Gouvernement, s'est déroulée du 25 novembre au 2 décembre 2022. Les lots ainsi recueillis regroupent aussi bien des armes modernes que des armes de collection. L'article L. 2331-1 du code de la défense classe les armes en fonction de leur dangerosité, selon quatre catégories allant de A à D. Les armes de collection relèvent toutes de la catégorie D, qui regroupe les spécimens dont le modèle date d'avant 1900, d'après 1900 lorsqu'il est mentionné dans une liste fixée par les ministères de l'intérieur et des outre-mer et de la défense, les matériels de guerre neutralisés et, enfin, les répliques d'armes historiques. Du fait de leur faible dangerosité, l'acquisition et la détention d'armes de catégorie D sont libres. Il s'ensuit que, sauf lorsqu'elles présentent une dangerosité avérée, il n'y a pas de nécessité de destruction systématique pour ce type d'armement, même en cas de remise volontaire par leur propriétaire, sans qu'ait pu être auparavant déterminé son intérêt patrimonial effectif. Il existe certainement, parmi les armes ainsi collectées, des spécimens anciens qui méritent d'être préservés. Les services du ministère de la culture vont solliciter ceux du ministère de l'intérieur et des outre-mer afin de déterminer si des armes protégées au titre des monuments historiques ne figureraient pas parmi les spécimens collectés. Pour ce qui est des armes non protégées à ce titre, il apparaît, eu égard à la spécificité de ce type de patrimoine, qu'un tel contrôle aurait avantage à être effectué par des personnels scientifiques relevant du ministère des armées, notamment du musée de l'Armée – Hôtel national des Invalides.
