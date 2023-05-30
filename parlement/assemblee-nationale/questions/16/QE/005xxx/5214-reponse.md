@@ -1,0 +1,9 @@
+# Réponse à la question n° 5214
+
+- Question : [5214](5214.md) — Question n° 5214 — Ne pas compromettre l'avenir de la ligne Capdenac-Cahors
+
+## Réponse
+
+*JO du 2023-05-30, page 4939*
+
+La liaison ferroviaire entre Cahors et Capdenac n'est plus exploitée par la SNCF depuis 1980 en ce qui concerne le trafic voyageurs et depuis 1989 pour le fret. Le dernier train touristique de l'association Quercyrail a circulé en 2003, faute de pouvoir financer le remplacement de traverses afin de conserver l'exploitabilité de la ligne. L'ex-Région Midi-Pyrénées avait délibéré favorablement en 2010 sur le dossier de fermeture de la ligne présenté par Réseau Ferré de France (RFF). Ce dossier n'identifiait pas de potentiel pour le fret ferroviaire en dehors du transit, déjà garanti à ce jour par d'autres dessertes. La ligne Cahors-Capdenac a ainsi fait l'objet d'une procédure de fermeture administrative et d'un déclassement par RFF en juillet 2011. Suite à cette fermeture, le tracé de la ligne a été intégré au projet de voie verte du département du Lot lancé en 2013, qui ambitionne de créer 219 km de voie verte entre les vallées de la Dordogne et du Lot d'ici à l'horizon 2030. Afin de lancer les travaux prévus pour la construction de la voie verte sur les 71 km de la ligne Cahors-Capdenac, le déferrement de la voie ferrée est nécessaire. Les travaux de déferrement sont prévus à partir du premier semestre 2023 avec un premier tronçon entre Cahors et Arcambal et un deuxième tronçon entre Cajarc et Toirac. Dans le cadre de ce projet, la convention de transfert de gestion de la ligne au Conseil départemental du Lot a été signée avec SNCF Réseau le 13 décembre 2022. Dès lors, les décisions quant à l'utilisation de la voie ferrée relèvent ainsi de la responsabilité du Conseil départemental du Lot que les parties intéressées doivent saisir si elles souhaitent aborder la question du déferrement.
