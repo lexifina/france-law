@@ -1,0 +1,9 @@
+# Réponse à la question n° 6530
+
+- Question : [6530](6530.md) — Question n° 6530 — Francophonie et créolophonie à base lexicale française
+
+## Réponse
+
+*JO du 2023-05-30, page 4880*
+
+L'Organisation internationale de la Francophonie (OIF) est attachée à la promotion de la langue française dans la diversité linguistique comme en témoigne la déclaration adoptée au Sommet de Djerba en novembre 2022. Mais cette défense du multilinguisme, et donc implicitement des créoles à base lexicale française, ne peut pas se substituer à la langue française pour rejoindre l'organisation. Le Sommet de Djerba a vu l'adoption du nouveau règlement relatif à la procédure d'adhésion ou de modification de statut d'un Etat ou gouvernement auprès de l'OIF. Ce règlement précise les critères permettant d'évaluer la volonté des États et gouvernements candidats (i) à renforcer la promotion de la langue française sur leur territoire et (ii) et à souscrire aux valeurs véhiculées par la Francophonie sur le plan politique. Les candidatures à une adhésion à l'OIF relèvent de décisions souveraines des États et gouvernements et doivent être adressées à l'organisation. En l'occurrence, la France n'a pas connaissance de demande d'adhésion formulée par les autorités des quatre États mentionnés, à savoir l'Amapá (État fédéré du Brésil), la Grenade, la République de Trinité-et-Tobago et la République bolivarienne du Venezuela. Conformément au Règlement unique des instances de la Francophonie, seuls les États et gouvernements membres de l'OIF participent au Sommet. En application du règlement des instances, l'OIF et le pays hôte du Sommet peuvent, à leur initiative conjointe, convier des invités spéciaux, dont des pays non membres comme cela fut le cas par le passé. À ce stade, il n'y a pas eu une telle concertation.
