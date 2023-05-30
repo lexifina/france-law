@@ -1,0 +1,9 @@
+# Réponse à la question n° 7361
+
+- Question : [7361](7361.md) — Question n° 7361 — Exonération du « permis de louer » pour les professionnels « Loi Hoguet »
+
+## Réponse
+
+*JO du 2023-05-30, page 4960*
+
+La lutte contre l'habitat indigne et dégradé constitue un enjeu essentiel des politiques nationales de l'habitat.Ce sont en effet 400 000 à 420 000 logements du parc privé qui sont aujourd'hui considérés comme potentiellement indignes en métropole (100 000 en outre-mer). Pour lutter contre ce fléau, un important arsenal de procédures et dispositifs, reposant la plupart du temps sur des partenariats locaux associant notamment les collectivités territoriales, a été développé, à l'amélioration constante duquel travaille le Gouvernement. Parmi les mesures prises, la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové (ALUR) a institué les dispositifs de déclaration (DML) et d'autorisation préalable de mise en location (APML) prévus aux articles L. 634-1 à L. 635-11 et R. 634-1 à R. 635-4 du code de la construction et de l'habitation. Ces dispositifs soumettent la location de logements situés dans certaines zones à un régime de déclaration ou d'autorisation préalable. La proposition d'exonérer les professionnels de l'immobilier des démarches d'autorisation préalable de mise en location et de déclaration de mise en location entrainerait une rupture d'égalité entre les propriétaires qui louent directement et ceux qui passent par une agence. Si le Gouvernement ne doute pas qu'une grande majorité des professionnels de l'immobilier sont attentifs à ces questions et ne souhaitent pas intervenir sur des biens très dégradés, toutefois le régime de responsabilité actuel des professionnels de l'immobilier ne permet pas de justifier une exception sur le permis de louer.
