@@ -2,7 +2,7 @@
 
 CARACTÉRISTIQUES DE COMBUSTIBILITÉ
 
-Les essais de combustibilité sont réalisés dans un crématorium habilité par le représentant de l'Etat dans le département conformément à l'article L. 2223-23 du code général des collectivités territoriales. L'habilitation délivrée par le représentant de l'Etat dans le département donne présomption de conformité de l'appareil de crémation aux exigences de l'article D. 2223-109 de ce même code.
+Les essais de combustibilité sont réalisés dans un crématorium habilité par le représentant de l'Etat dans le département conformément à l'article L. 2223-23 du code général des collectivités territoriales. L'habilitation délivrée par le représentant de l'Etat dans le département donne présomption de conformité de l'appareil de crémation aux exigences de l'article D. 2223-102 de ce même code.
 
 1. Inflammabilité
 
@@ -19,3 +19,7 @@ Les matériaux ne doivent pas produire de cendres volantes de taille visible, qu
 4. Quincailleries d'assemblage
 
 La masse totale des quincailleries de la caisse et du couvercle ne doit pas dépasser 750 grammes. La somme des dimensions de chacune des quincailleries doit être inférieure à 200 mm afin d'être compatibles avec les contraintes techniques de broyage et de récupération des cendres en fin de crémation. Les quincailleries doivent permettre leur tri magnétique ou être combustibles.
+
+NOTA :
+
+Conformément au premier alinéa de l'article 9 de l'arrêté du 11 avril 2023 (NOR : SPRP2219041A), ces dispositions entrent en vigueur le 1er juin 2023.
