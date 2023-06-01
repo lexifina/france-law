@@ -114,14 +114,16 @@ Signature du mandataire et du mandant |
 
 Demande de prime |
 
-Avis d'imposition pour tout demandeur
+Avis d'imposition à discrétion de l'Anah
 
 Un justificatif de propriété pour tout propriétaire bailleur, et, le cas échéant, pour les propriétaires occupants
 
-Pour les titulaires de droit réel immobilier, une copie de l'acte notarié (ou une attestation notariée de même nature) instituant le droit d'usage et d'habitation sur l'immeuble subventionné et indiquant le titulaire de ce droit |
+Pour les titulaires de droit réel immobilier, une copie de l'acte notarié (ou une attestation notariée de même nature) instituant le droit d'usage et d'habitation sur l'immeuble subventionné et indiquant le titulaire de ce droit
+
+|
 
 |
 
 NOTA :
 
-Conformément à l'article 7 de l'arrêté du 30 décembre 2021 (NOR : LOGL2135153A), ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2022.
+Conformément à l'article 4 de l'arrêté du 30 mai 2023 (NOR : TREL2310559A), ces dispositions entrent en vigueur le 1er juin 2023 et s'appliquent aux demandes de prime déposées à compter de cette même date.
