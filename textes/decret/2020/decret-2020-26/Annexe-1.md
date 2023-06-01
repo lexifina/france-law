@@ -38,7 +38,7 @@ c) Pompes à chaleur dédiées à la production d'eau chaude sanitaire ;
 
 7. Systèmes de ventilation mécanique contrôlée double flux autoréglables ou hygroréglables ;
 
-8. Réalisation, en dehors des cas où la réglementation le rend obligatoire, d'un audit énergétique. Pour un même logement, un seul audit énergétique ouvre droit à la prime de transition énergétique ;
+8. Réalisation, en dehors des cas où la réglementation le rend obligatoire, d'un audit énergétique, à la condition de l'attribution simultanée d'au moins une prime pour une dépense éligible prévue à la présente annexe, hors les dépenses prévues aux 6,8 et 14 de cette même annexe. Pour un même logement, un seul audit énergétique ouvre droit à la prime de transition énergétique ;
 
 9. Isolation thermique des parois vitrées, à la condition que les matériaux installés viennent en remplacement de parois en simple vitrage ;
 
@@ -60,4 +60,4 @@ c) Pompes à chaleur dédiées à la production d'eau chaude sanitaire ;
 
 NOTA :
 
-Conformément à l’article 2 du décret n° 2022-1718 du 29 décembre 2022, ces dispositions entrent en vigueur au 1er janvier 2023.
+Conformément à l’article 5 du décret n° 2023-416 du 30 mai 2023, ces dispositions entrent en vigueur le 1er juin 2023 et s'appliquent aux demandes de prime déposées à compter de cette même date.
