@@ -86,7 +86,7 @@ Les parties signataires conviennent de renforcer l'offre de service destinée à
 
 L'assurance maladie s'engage à accompagner la mise en œuvre du dispositif aussi bien auprès des professionnels de santé déjà installés que des professionnels ayant un projet d'installation.
 
-L'outil " c@rtosanté ", dès lors qu'il est opérationnel, permet ainsi d'aider les masseurs-kinésithérapeutes à établir une analyse de la zone où ils souhaitent s'installer en rendant disponibles en ligne des données concernant l'offre de soins et la consommation de soins dans la circonscription.
+L'outil " c @ rtosanté ", dès lors qu'il est opérationnel, permet ainsi d'aider les masseurs-kinésithérapeutes à établir une analyse de la zone où ils souhaitent s'installer en rendant disponibles en ligne des données concernant l'offre de soins et la consommation de soins dans la circonscription.
 
 Cet outil contribue à l'élaboration du projet du masseur-kinésithérapeute qui souhaite s'installer en libéral.
 
@@ -170,7 +170,7 @@ Les parties signataires souhaitent mettre en œuvre des mesures incitatives dans
 
 Les parties estiment en effet nécessaire, par des mesures structurantes favorisant le regroupement et la continuité des soins, de privilégier l'implantation des masseurs-kinésithérapeutes libéraux dans les zones " très sous-dotées " et " sous-dotées " et favoriser le maintien de l'activité des masseurs-kinésithérapeutes qui y sont d'ores et déjà installés. Elles souhaitent permettre à chaque masseur-kinésithérapeute de rompre son isolement, de limiter ses contraintes, de se former et ainsi de contribuer à la qualité des soins délivrés sur l'ensemble du territoire.
 
-Ces mesures font l'objet d'une option conventionnelle à adhésion individuelle appelée contrat incitatif masseur-kinésithérapeute , créée sur la base notamment des dispositions figurant aux articles L. 162-9 (7°) et L. 162-14-1 (4°) du code de la sécurité sociale . Dans le cadre de cette option, il est alloué une participation aux équipements et aux frais de fonctionnement en lien direct avec l'exercice professionnel ainsi qu'une participation adaptée des caisses aux cotisations sociales obligatoires. Les modalités de cette option sont définies aux annexes 1 à 3 du présent avenant.
+Ces mesures font l'objet d'une option conventionnelle à adhésion individuelle appelée contrat incitatif masseur-kinésithérapeute, créée sur la base notamment des dispositions figurant aux articles L. 162-9 (7°) et L. 162-14-1 (4°) du code de la sécurité sociale. Dans le cadre de cette option, il est alloué une participation aux équipements et aux frais de fonctionnement en lien direct avec l'exercice professionnel ainsi qu'une participation adaptée des caisses aux cotisations sociales obligatoires. Les modalités de cette option sont définies aux annexes 1 à 3 du présent avenant.
 
 1.3. Amélioration de l'efficience de la prise en charge des patients par une juste orientation vers les professionnels libéraux de ville
 
@@ -184,7 +184,7 @@ Cependant, en 2008, on estimait à 20 % la part de séjours en SSR inadéquats r
 
 Fort de ce constat, les partenaires conventionnels s'accordent pour rééquilibrer l'orientation des patients en privilégiant, lorsque l'état de santé et l'environnement des patients le permettent, leur prise en charge par des professionnels de santé libéraux.
 
-Dans ce contexte, la loi de financement de la sécurité sociale pour 2011 a prévu, à l'article 63, la possibilité de mettre sous accord préalable les prestations hospitalières de soins de suite et de réadaptation de certains établissements, au regard de leur activité et de certains actes.
+Dans ce contexte, la loi de financement de la sécurité sociale pour 2011 a prévu, à l'article 63, la possibilité de mettre sous accord préalable les prestations hospitalières de soins médicaux et de réadaptation de certains établissements, au regard de leur activité et de certains actes.
 
 Les partenaires conventionnels, convaincus des possibilités apportées par ce dispositif, mis en place en 2011 en liaison avec les agences régionales de santé (ARS), sur quatre pathologies, s'accordent pour suivre en commun les résultats de son déploiement en 2012.
 
@@ -306,13 +306,13 @@ Article 4
 
 Expérimentation d'un programme d'accompagnement de retour à domicile des patients après interventions orthopédiques
 
-Dans un contexte de diminution progressive des durées d'hospitalisation, et pour améliorer le suivi post-hospitalisation et la prise en charge des assurés pour lesquels une orientation en soins de suite et de réadaptation n'est pas nécessaire, en application des référentiels HAS, l'assurance maladie s'engage à expérimenter un programme d'accompagnement visant à organiser le retour à domicile des patients, en ciblant, dans un premier temps, les patients ayant subi certaines interventions orthopédiques.
+Dans un contexte de diminution progressive des durées d'hospitalisation, et pour améliorer le suivi post-hospitalisation et la prise en charge des assurés pour lesquels une orientation en soins médicaux et de réadaptation n'est pas nécessaire, en application des référentiels HAS, l'assurance maladie s'engage à expérimenter un programme d'accompagnement visant à organiser le retour à domicile des patients, en ciblant, dans un premier temps, les patients ayant subi certaines interventions orthopédiques.
 
 La HAS a déterminé une liste d'interventions chirurgicales et orthopédiques dont la rééducation, quand elle est requise, ne nécessite pas un recours de manière générale à une hospitalisation. Cette rééducation peut être prise en charge par un masseur-kinésithérapeute libéral.
 
 A l'appui de ces recommandations, l'assurance maladie s'engage à poursuivre l'accompagnement des prescripteurs afin de les aider dans l'orientation de leurs patients.
 
-Elle met également en œuvre un dispositif de mise sous accord préalable d'établissements de soins de suite et de réadaptation au regard de leur activité. Un suivi et un bilan de la mise en place de ce dispositif seront examinés au sein de l'observatoire.
+Elle met également en œuvre un dispositif de mise sous accord préalable d'établissements de soins médicaux et de réadaptation au regard de leur activité. Un suivi et un bilan de la mise en place de ce dispositif seront examinés au sein de l'observatoire.
 
 La nouvelle offre de service de retour à domicile permettra une mise en relation du patient avec les professionnels de son choix, dans le respect des prérogatives de chacun et prendra en compte l'état de santé du patient ainsi que les besoins tant sanitaires que sociaux à couvrir.
 
@@ -444,7 +444,7 @@ Compte tenu des engagements conventionnels pris par la profession dans le cadre 
 
 ― le montant de l'IFD, en la portant à 2,50 € au 15 juillet 2012.
 
-En fonction notamment du bilan de la mise en place du dispositif de mise sous accord préalable des établissements de soins de suite et de réadaptation visé à l'article 1.3 du présent avenant, et des marges de manœuvres dégagées, les parties conviennent de se réunir avant le 15 juillet 2013 pour examiner, le cas échéant, les évolutions ultérieures des lettres-clés.
+En fonction notamment du bilan de la mise en place du dispositif de mise sous accord préalable des établissements de soins médicaux et de réadaptation visé à l'article 1.3 du présent avenant, et des marges de manœuvres dégagées, les parties conviennent de se réunir avant le 15 juillet 2013 pour examiner, le cas échéant, les évolutions ultérieures des lettres-clés.
 
 Fait à Paris, le 30 novembre 2011.
 
@@ -463,5 +463,9 @@ Le directeur général,
 F. Van Roekeghem
 
 NOTA :
+
+Conformément au I de l'article 4 du décret n° 2022-24 du 11 janvier 2022, ces dispositions entrent en vigueur le 1er juin 2023.
+
+Se reporter aux II, III et IV du même article pour les conditions d'application.
 
 (1) Dans sa décision n° 357594 du 17 mars 2014, le Conseil d'Etat a annulé l'arrêté du 10 janvier 2012 en tant qu'il approuve le quatrième alinéa du point 1.2.1.1., les points 1.2.1.3. et 1.2.1.4. et l'annexe 5 de l'avenant n° 3 à la convention nationale des masseurs-kinésithérapeutes libéraux.

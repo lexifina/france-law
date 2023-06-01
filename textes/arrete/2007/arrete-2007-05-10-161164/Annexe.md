@@ -26,7 +26,7 @@ QUALITÉ DES SOINS DE MASSO-KINÉSITHÉRAPIE ET MAÎTRISE MÉDICALISÉE
 
 1.1. Les références et recommandations en masso-kinésithérapie.
 
-1.2. Optimisation du placement en soins de suite et de réadaptation et en centres de rééducation fonctionnelle et engagements de maîtrise médicalisée.
+1.2. Optimisation du placement en soins médicaux et de réadaptation et en centres de rééducation fonctionnelle et engagements de maîtrise médicalisée.
 
 1.3. Prévention en masso-kinésithérapie.
 
@@ -237,3 +237,9 @@ c) Traitement des incidents.
 d) Retours d'information.
 
 7.4. Règlements intérieurs types des instances conventionnelles (CSPN, CSPR ET CSPD).
+
+NOTA :
+
+Conformément au I de l'article 4 du décret n° 2022-24 du 11 janvier 2022, ces dispositions entrent en vigueur le 1er juin 2023.
+
+Se reporter aux II, III et IV du même article pour les conditions d'application.

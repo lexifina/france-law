@@ -194,7 +194,7 @@ Les connaissances spécifiques sont détaillées dans la plateforme numérique d
 
 -les indications de l'évaluation gériatrique ;
 
--l'utilisation adaptée de l'organisation de soins (filières, soins de suite et réadaptation, soins palliatifs, PPS)
+-l'utilisation adaptée de l'organisation de soins (filières, soins médicaux et réadaptation, soins palliatifs, PPS)
 
 Elles portent également sur :
 
@@ -212,7 +212,7 @@ Les compétences spécifiques sont détaillées dans la plateforme numérique du
 
 A.-Cliniques : être autonome dans l'élaboration et la présentation d'hypothèses diagnostiques, l'initiation du traitement en considération du risque iatrogène pour les pathologies fréquentes, argumenter une démarche diagnostique et thérapeutique, organiser une stratégie thérapeutique globale et la partager par écrit ; identifier les difficultés relevant d'une compétence extérieure et solliciter autrui de manière adaptée ; savoir argumenter et mettre en place la prévention et le dépistage de maladies associées à l'âge les plus fréquentes ; acquérir les données scientifiques nouvelles de manière critique (dont conférence de consensus) et les utiliser à l'échelle individuelle de façon adaptée au patient ; encadrer et enseigner ses connaissances à un interne de phase socle.
 
-B.-Techniques : appliquer les principes de l'éducation thérapeutique, suivre et anticiper le risque iatrogène, poser la bonne indication d'une hospitalisation en soins de suite et réadaptation et en hospitalisation en hôpital de jour gériatrique, d'une consultation mémoire.
+B.-Techniques : appliquer les principes de l'éducation thérapeutique, suivre et anticiper le risque iatrogène, poser la bonne indication d'une hospitalisation en soins médicaux et réadaptation et en hospitalisation en hôpital de jour gériatrique, d'une consultation mémoire.
 
 C.-Comportementales : veiller à communiquer les informations utiles à l'équipe de soins et organiser de manière collégiale un plan personnalisé de santé hospitalier et à domicile en collaboration tous les acteurs de santé.
 
@@ -220,7 +220,7 @@ C.-Comportementales : veiller à communiquer les informations utiles à l'équip
 
 -1 stage dans un lieu agréé à titre principal en gériatrie et ayant une activité de court-séjour gériatrique
 
--1 stage dans un lieu agréé à titre principal en gériatrie et ayant une activité en soins de suite et de réadaptation
+-1 stage dans un lieu agréé à titre principal en gériatrie et ayant une activité en soins médicaux et de réadaptation
 
 -2 stages libres dans des lieux agréés à titre en complémentaire en gériatrie et à titre principal dans l'une des spécialités de la discipline médicale et de préférence en médecine interne et immunologie clinique, en médecine cardiovasculaire, en pneumologie, en neurologie, en médecine intensive et de réanimation ou en rhumatologie, oncologie après accord du coordonnateur local.
 
@@ -232,7 +232,7 @@ En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant o
 
 -un encadrement suffisant
 
--la présence d'au moins 10 lits pour les services de court séjour gériatrique et d'au moins 15 lits pour les services de soins de suite et de réadaptation
+-la présence d'au moins 10 lits pour les services de court séjour gériatrique et d'au moins 15 lits pour les services de soins médicaux et de réadaptation
 
 3.5. Evaluation :
 
@@ -300,7 +300,7 @@ Nombre et durée des stages de niveau III :
 
 -sous la forme d'un stage mixte dans des lieux et/ ou auprès d'un praticien-maître de stage des universités agréés à titre principal en gériatrie
 
-Ces lieux ont notamment une activité orientée (unités thématiques de type ortho-gériatrie, onco-gériatrie, soins de suite et de réadaptation) et des unités d'activité ambulatoire (consultations mémoire/ centre mémoire de ressources et de recherche, d'évaluation gérontologique, hôpital de jour, équipe mobile …).
+Ces lieux ont notamment une activité orientée (unités thématiques de type ortho-gériatrie, onco-gériatrie, soins médicaux et de réadaptation) et des unités d'activité ambulatoire (consultations mémoire/ centre mémoire de ressources et de recherche, d'évaluation gérontologique, hôpital de jour, équipe mobile …).
 
 Critères d'agrément des stages de niveau III :
 
@@ -336,4 +336,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément au I de l'article 4 du décret n° 2022-24 du 11 janvier 2022, ces dispositions entrent en vigueur le 1er juin 2023.

@@ -100,7 +100,7 @@ A.-Cliniques : rassembler de façon cohérente les informations qu'il aura recue
 
 B.-Techniques : connaître les gestes techniques de base (nœuds, sutures, anesthésie locale, sondage urinaire, tamponnement, réalisation d'une trachéotomie, gestion d'une canule de trachéotomie, soins otologiques de base) ; effectuer seul un temps au moins d'une intervention (au minimum fermeture cutanée, trachéotomie chez l'adulte).
 
-C.-Transversales : connaître les ressources permettant d'améliorer et de coordonner la prise en charge des patients (en particulier les orthophonistes, les kinésithérapeutes, les assistantes sociales, l'hospitalisation à domicile, les soins de suite et de réadaptation, les soins palliatifs) ; connaître les outils développés pour améliorer la performance des soins (réunions de concertation pluridisciplinaire, réunions de morbi-mortalité, staffs, déclaration d'Evènements Indésirables, développement professionnel continu, accréditation, certification) ; trouver et utiliser les ressources pédagogiques (PubMed, congrès …).
+C.-Transversales : connaître les ressources permettant d'améliorer et de coordonner la prise en charge des patients (en particulier les orthophonistes, les kinésithérapeutes, les assistantes sociales, l'hospitalisation à domicile, les soins médicaux et de réadaptation, les soins palliatifs) ; connaître les outils développés pour améliorer la performance des soins (réunions de concertation pluridisciplinaire, réunions de morbi-mortalité, staffs, déclaration d'Evènements Indésirables, développement professionnel continu, accréditation, certification) ; trouver et utiliser les ressources pédagogiques (PubMed, congrès …).
 
 D.-Comportementales : faire preuve d'une dynamique d'auto-formation théorique (participation aux enseignements, suivi des cours en ligne …), pratique (participation aux séances de formation en centres de simulations, motivation à aller au bloc opératoire …) et institutionnel (participation aux réunions de concertation pluridisciplinaire, réunions de morbi-mortalité …) ; comprendre comment les erreurs ou les événements indésirables surviennent ; avoir un comportement adapté avec ses collègues, les autres intervenants (personnel médical et non-médical), les patients et leurs familles (et respecte en particulier leur intimité) ; faire preuve d'honnêteté, de discrétion (secret médical), de responsabilité, de disponibilité, de conscience professionnelle ; avoir des notions sur le métier de chirurgien et ses conséquences (responsabilité, fatigue, stress …).
 
@@ -507,7 +507,3 @@ Avoir réalisé au moins 10 tests ou manœuvres décrites pour chaque compétenc
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
 Réalisation d'un mémoire de recherche clinique sur les troubles labyrinthiques et leur analyse paraclinique (Surdités ou vertiges) ou sur les troubles de la voix et/ ou de la déglutition.
-
-NOTA :
-
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

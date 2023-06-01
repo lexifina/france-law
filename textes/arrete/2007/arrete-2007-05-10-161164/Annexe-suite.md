@@ -12,17 +12,17 @@ Les parties signataires se sont rencontrées à plusieurs reprises afin d'élabo
 
 Elles se sont engagées à concrétiser cette démarche par la conclusion d'une convention nationale innovante, intégrant notamment les thématiques suivantes :
 
-- une vie conventionnelle rénovée ;
+-une vie conventionnelle rénovée ;
 
-- un accès aux soins préservé et amélioré ;
+-un accès aux soins préservé et amélioré ;
 
-- une meilleure orientation des patients dans leur parcours de soins ;
+-une meilleure orientation des patients dans leur parcours de soins ;
 
-- un développement de la prévention et de la coordination des soins ;
+-un développement de la prévention et de la coordination des soins ;
 
-- une valorisation de la profession des masseurs-kinésithérapeutes au travers de la nomenclature de leurs actes et de la formation continue conventionnelle ;
+-une valorisation de la profession des masseurs-kinésithérapeutes au travers de la nomenclature de leurs actes et de la formation continue conventionnelle ;
 
-- une amélioration des relations entre les masseurs-kinésithérapeutes et les caisses.
+-une amélioration des relations entre les masseurs-kinésithérapeutes et les caisses.
 
 Les parties signataires conviennent par ailleurs de la nécessité d'une relation conventionnelle de qualité reposant sur des relations régulières permettant de tenir compte rapidement de l'adaptation des pratiques et des techniques masso-kinésithérapiques aux besoins de la population, de la profession et aux moyens de l'assurance maladie.
 
@@ -40,7 +40,7 @@ Ils s'accordent en premier lieu pour mettre en oeuvre, sans délai, les recomman
 
 En second lieu, ils définissent comme prioritaire la mise en oeuvre des recommandations de la Haute Autorité de santé de mai 2005 relatives à la prescription et à la prise en charge de la rééducation kinésithérapique dans la lombalgie commune.
 
-1.2. Optimisation du placement en soins de suite et de réadaptation et en centres de rééducation fonctionnelle et engagements de maîtrise médicalisée
+1.2. Optimisation du placement en soins médicaux et de réadaptation et en centres de rééducation fonctionnelle et engagements de maîtrise médicalisée
 
 A la suite de la publication par la HAS, conformément à l'article 29 de la loi de financement de la sécurité sociale pour 2006, le 29 mars 2006, de recommandations déterminant une liste d'interventions chirurgicales pour lesquelles la rééducation du patient peut être prise en charge de façon préférentielle en cabinet de ville par un masseur-kinésithérapeute libéral, des études médico-économiques ont été menées par l'UNCAM en fonction des données disponibles et des possibilités actuelles des systèmes d'information.
 
@@ -58,9 +58,9 @@ Elles conviennent de la diminution de la part des séjours MCO des patients de 1
 
 Les partenaires conventionnels se fixent pour 2008 l'objectif suivant :
 
-- de 4,9 % à 3,4 % pour le secteur privé ;
+-de 4,9 % à 3,4 % pour le secteur privé ;
 
-- de 8,7 % à 7,2 % pour le secteur public.
+-de 8,7 % à 7,2 % pour le secteur public.
 
 Au regard des résultats de ces évaluations annuelles, et sous réserve d'une concertation régulière avec les prescripteurs éventuellement concernés par ces thèmes, un bilan général sera réalisé pour permettre aux partenaires conventionnels de décider d'éventuelles mesures d'ajustement du dispositif.
 
@@ -122,15 +122,15 @@ Ce suivi sera réalisé sur un échantillon de patients ayant des soins de masso
 
 Les parties signataires conviennent de recueillir certains éléments permettant d'apprécier la qualité de la prise en charge et la continuité des soins en sortie d'hospitalisation, en faveur des patients :
 
-- pour le domaine médical notamment :
+-pour le domaine médical notamment :
 
-- la nature des actes ;
+-la nature des actes ;
 
-- le délai entre date de sortie d'hospitalisation et début des séances ;
+-le délai entre date de sortie d'hospitalisation et début des séances ;
 
-- pour le domaine économique notamment par l'évolution de la part de ces patients pris en charge par un masseur-kinésithérapeute ;
+-pour le domaine économique notamment par l'évolution de la part de ces patients pris en charge par un masseur-kinésithérapeute ;
 
-- pour le domaine social notamment par l'âge des patients, leur lieu de vie, la part de patients bénéficiant de la CMU, la part de patient exonérés du ticket modérateur.
+-pour le domaine social notamment par l'âge des patients, leur lieu de vie, la part de patients bénéficiant de la CMU, la part de patient exonérés du ticket modérateur.
 
 La méthode utilisée, les critères retenus ainsi que les informations à recueillir à des fins d'évaluation médicale, économique et sociale dans le cadre du suivi et de la régulation médicalisée individuelle feront l'objet d'une validation par la commission socioprofessionnelle nationale. Les conclusions de ce suivi permettront aux parties conventionnelles d'adopter conjointement des mesures de régulation pour optimiser la qualité et l'efficience des soins.
 
@@ -160,11 +160,11 @@ Pour être prises en charge dans le cadre de la convention, les prestations de m
 
 Sont exclus du champ d'application de la convention :
 
-- l'activité des masseurs-kinésithérapeutes exerçant dans des locaux commerciaux ;
+-l'activité des masseurs-kinésithérapeutes exerçant dans des locaux commerciaux ;
 
-- les masseurs-kinésithérapeutes salariés exclusifs exerçant dans un établissement public ou privé d'hospitalisation ou dans un centre de santé.
+-les masseurs-kinésithérapeutes salariés exclusifs exerçant dans un établissement public ou privé d'hospitalisation ou dans un centre de santé.
 
-Les masseurs-kinésithérapeutes sont tenus de faire connaître aux caisses leur numéro d'inscription à l'ordre des masseurs-kinésithérapeutes de leur département d'exercice, ainsi que l'adresse de leur lieu d'exercice professionnel principal et/ou secondaire.
+Les masseurs-kinésithérapeutes sont tenus de faire connaître aux caisses leur numéro d'inscription à l'ordre des masseurs-kinésithérapeutes de leur département d'exercice, ainsi que l'adresse de leur lieu d'exercice professionnel principal et/ ou secondaire.
 
 Il peut s'agir soit d'un cabinet personnel, soit d'un cabinet de groupe, soit d'une société. Les masseurs-kinésithérapeutes doivent faire connaître aux caisses les modifications intervenues dans leur mode d'exercice dans un délai de deux mois au maximum à compter de cette modification.
 
@@ -176,7 +176,7 @@ Pour donner lieu à remboursement sur la base des tarifs conventionnels, les soi
 
 3.2. La démographie des masseurs-kinésithérapeutes
 
-Les parties signataires soulignent que l'installation des masseurs-kinésithérapeutes libéraux - comme pour l'ensemble des professionnels de santé - est caractérisée par de fortes disparités géographiques. De ce fait, dans les zones à faible densité démographique, les patients peuvent rencontrer des difficultés d'accès aux soins, tandis que les conditions de travail des professionnels de santé sont dégradées.
+Les parties signataires soulignent que l'installation des masseurs-kinésithérapeutes libéraux-comme pour l'ensemble des professionnels de santé-est caractérisée par de fortes disparités géographiques. De ce fait, dans les zones à faible densité démographique, les patients peuvent rencontrer des difficultés d'accès aux soins, tandis que les conditions de travail des professionnels de santé sont dégradées.
 
 Afin de mettre en oeuvre une politique de gestion prévisionnelle de la démographie et de la répartition géographique de l'activité, en partenariat notamment avec l'Etat et les collectivités territoriales, les parties signataires estiment nécessaire d'obtenir un constat détaillé de l'état de la démographie des masseurs-kinésithérapeutes au niveau local.
 
@@ -184,15 +184,15 @@ Les missions régionales de santé (MRS), créées par la loi de réforme de l'a
 
 Dès publication de l'arrêté déterminant les zones déficitaires, les partenaires conventionnels conviennent de proposer des mesures structurantes pour remédier aux difficultés rencontrées dans ces zones.
 
-Les parties signataires mettront notamment en oeuvre des outils complémentaires qui permettront aux masseurs-kinésithérapeutes s'installant dans ces zones de bénéficier d'un accompagnement spécifique et adapté (développement des outils d'aide à l'installation inst@lsanté et c@rtosanté ).
+Les parties signataires mettront notamment en oeuvre des outils complémentaires qui permettront aux masseurs-kinésithérapeutes s'installant dans ces zones de bénéficier d'un accompagnement spécifique et adapté (développement des outils d'aide à l'installation inst @ lsanté et c @ rtosanté).
 
 En outre, sur les zones considérées comme déficitaires, les partenaires mèneront des réflexions autour du :
 
-- déploiement d'une offre de service globale dédiée à l'installation des jeunes masseurs-kinésithérapeutes ;
+-déploiement d'une offre de service globale dédiée à l'installation des jeunes masseurs-kinésithérapeutes ;
 
-- soutien au développement de cabinets pluridisciplinaires dans les zones sous-dotées ;
+-soutien au développement de cabinets pluridisciplinaires dans les zones sous-dotées ;
 
-- l'expérimentation de mesures liées aux dispositions législatives prévoyant la possibilité de moduler la participation des caisses aux avantages sociaux des professionnels installés en zone déficitaire.
+-l'expérimentation de mesures liées aux dispositions législatives prévoyant la possibilité de moduler la participation des caisses aux avantages sociaux des professionnels installés en zone déficitaire.
 
 Les parties signataires souhaitent évaluer la portée des mesures qui seront mises en place en termes de maintien et d'amélioration de l'offre de soins dans les zones déficitaires.
 
@@ -252,11 +252,11 @@ Les parties signataires à la présente convention s'engagent à porter à la co
 
 Lors de chaque acte, le masseur-kinésithérapeute porte sur la feuille de soins ou le document de facturation toutes les indications prévues par la réglementation en vigueur :
 
-- lorsqu'il réalise des actes ou prestations remboursables par l'assurance maladie, le masseur-kinésithérapeute est tenu de mentionner ces actes sur une feuille de soins ou tout autre support en tenant lieu ;
+-lorsqu'il réalise des actes ou prestations remboursables par l'assurance maladie, le masseur-kinésithérapeute est tenu de mentionner ces actes sur une feuille de soins ou tout autre support en tenant lieu ;
 
-- lorsque le masseur-kinésithérapeute réalise des actes ou prestations non remboursables par l'assurance maladie, ce dernier n'établit pas de feuille de soins ni d'autre support en tenant lieu, conformément à l'article L. 162-8 du code de la sécurité sociale ;
+-lorsque le masseur-kinésithérapeute réalise des actes ou prestations non remboursables par l'assurance maladie, ce dernier n'établit pas de feuille de soins ni d'autre support en tenant lieu, conformément à l'article L. 162-8 du code de la sécurité sociale ;
 
-- dans les situations où le masseur-kinésithérapeute réalise des actes ou prestations remboursables (y compris le DE) et non remboursables au cours de la même séance, il porte uniquement les premiers sur la feuille de soins.
+-dans les situations où le masseur-kinésithérapeute réalise des actes ou prestations remboursables (y compris le DE) et non remboursables au cours de la même séance, il porte uniquement les premiers sur la feuille de soins.
 
 La prestation des soins, y compris lorsqu'il s'agit d'actes en série, doit être mentionnée au jour le jour, en utilisant la cotation prévue à la nomenclature générale des actes professionnels.
 
@@ -274,11 +274,11 @@ En aucun cas, la feuille de soins acquittée ne doit être conservée par le mas
 
 Lorsque les actes sont effectués par un masseur-kinésithérapeute salarié d'un membre d'une profession médicale ou d'un auxiliaire médical :
 
-- les feuilles de maladie sur lesquelles sont inscrits les soins doivent permettre l'identification nominale et codée de l'employeur, suivie de l'identification nominale du masseur-kinésithérapeute salarié ;
+-les feuilles de maladie sur lesquelles sont inscrits les soins doivent permettre l'identification nominale et codée de l'employeur, suivie de l'identification nominale du masseur-kinésithérapeute salarié ;
 
-- le masseur-kinésithérapeute salarié atteste la prestation de l'acte et le professionnel de santé employeur le paiement des honoraires ; ils apposent respectivement leur signature dans la colonne réservée à l'exécution de l'acte et dans la colonne réservée à l'attestation du paiement des honoraires ;
+-le masseur-kinésithérapeute salarié atteste la prestation de l'acte et le professionnel de santé employeur le paiement des honoraires ; ils apposent respectivement leur signature dans la colonne réservée à l'exécution de l'acte et dans la colonne réservée à l'attestation du paiement des honoraires ;
 
-- la signature du professionnel de santé employeur, sur la feuille de soins, engage sa responsabilité sur l'application, par le masseur-kinésithérapeute salarié, des cotations de la nomenclature générale des actes professionnels et des tarifs en vigueur.
+-la signature du professionnel de santé employeur, sur la feuille de soins, engage sa responsabilité sur l'application, par le masseur-kinésithérapeute salarié, des cotations de la nomenclature générale des actes professionnels et des tarifs en vigueur.
 
 Ces différentes conditions doivent être obligatoirement remplies pour que ces actes donnent lieu à un remboursement par la caisse.
 
@@ -296,15 +296,15 @@ Actes réalisés dans un établissement de santé privé ne participant pas au s
 
 Pour les actes de masso-kinésithérapie effectués au cours d'une hospitalisation dans un établissement de santé privé ne participant pas au service public hospitalier, la part garantie par la caisse peut, dans les conditions prévues par la législation en vigueur, être versée selon le choix du professionnel :
 
-- soit globalement à un praticien, exerçant dans l'établissement, désigné par l'ensemble des dispensateurs de soins ;
+-soit globalement à un praticien, exerçant dans l'établissement, désigné par l'ensemble des dispensateurs de soins ;
 
-- soit individuellement, à chaque masseur-kinésithérapeute.
+-soit individuellement, à chaque masseur-kinésithérapeute.
 
 Dispense d'avance des frais :
 
 En dehors des cas de dispenses d'avance des frais légales (aide médicale d'Etat, CMU,...), le masseur-kinésithérapeute libéral peut accepter, dans des cas exceptionnels justifiés par des situations sociales particulières, le paiement différé de ses honoraires.
 
-Dans ce cas, le masseur-kinésithérapeute coche, sur la feuille de soins, la (les) case(s) suivante(s) : " l'assuré(e) n'a pas payé la part obligatoire " et/ou " l'assuré(e) n'a pas payé la part complémentaire ".
+Dans ce cas, le masseur-kinésithérapeute coche, sur la feuille de soins, la (les) case (s) suivante (s) : " l'assuré (e) n'a pas payé la part obligatoire " et/ ou " l'assuré (e) n'a pas payé la part complémentaire ".
 
 La procédure de paiement différé des honoraires s'applique pour les dépenses relevant des risques maladie et maternité, au sens du code de la sécurité sociale.
 
@@ -346,15 +346,15 @@ Les parties signataires s'accordent pour considérer que c'est par l'incitation 
 
 L'assurance maladie met en oeuvre les moyens nécessaires :
 
-- pour spécifier et organiser au mieux les évolutions du système SESAM-Vitale imposées par la réglementation, contraintes par des changements techniques ou demandées par les usagers ;
+-pour spécifier et organiser au mieux les évolutions du système SESAM-Vitale imposées par la réglementation, contraintes par des changements techniques ou demandées par les usagers ;
 
-- pour faciliter aux masseurs-kinésithérapeutes les opérations de mise à jour du système qui les concernent.
+-pour faciliter aux masseurs-kinésithérapeutes les opérations de mise à jour du système qui les concernent.
 
 Le masseur-kinésithérapeute met en oeuvre les moyens nécessaires :
 
-- pour intégrer en temps utile les évolutions de son équipement lui permettant de rester conforme à la réglementation et à la dernière version en vigueur du système SESAM-Vitale ;
+-pour intégrer en temps utile les évolutions de son équipement lui permettant de rester conforme à la réglementation et à la dernière version en vigueur du système SESAM-Vitale ;
 
-- pour assurer au mieux la continuité du service de la télétransmission au bénéfice des assurés sociaux et pour respecter les délais réglementaires de transmission des feuilles de soins électroniques, également en cas de dysfonctionnement de son équipement.
+-pour assurer au mieux la continuité du service de la télétransmission au bénéfice des assurés sociaux et pour respecter les délais réglementaires de transmission des feuilles de soins électroniques, également en cas de dysfonctionnement de son équipement.
 
 3.4.3. Aides à la télétransmission
 
@@ -402,23 +402,23 @@ b) Objectifs
 
 Le comité examinera, conjointement avec l'UNCAM, les propositions des services en ligne (SEL) sur :
 
-- la liste d'opposition ;
+-la liste d'opposition ;
 
-- la dématérialisation des supports papier (bordereaux tiers payant) ;
+-la dématérialisation des supports papier (bordereaux tiers payant) ;
 
-- la messagerie sécurisée permettant l'envoi électronique des fiches de synthèse des bilans ;
+-la messagerie sécurisée permettant l'envoi électronique des fiches de synthèse des bilans ;
 
-- le DMP ;
+-le DMP ;
 
-- etc.
+-etc.
 
 Le comité participera aux groupes techniques pour l'élaboration et l'adaptation de ces nouveaux services proposés aux masseurs-kinésithérapeutes afin d'assurer l'appropriation par la profession, notamment, de :
 
-- l'application de la norme Noémie 580 ;
+-l'application de la norme Noémie 580 ;
 
-- la liste d'opposition ;
+-la liste d'opposition ;
 
-- l'examen avec l'UNCAM des conditions et des modes d'exercice des masseurs-kinésithérapeutes pour satisfaire l'obligation de télétransmettre afin de déterminer les dérogations et les taux pour bénéficier de l'aide pérenne.
+-l'examen avec l'UNCAM des conditions et des modes d'exercice des masseurs-kinésithérapeutes pour satisfaire l'obligation de télétransmettre afin de déterminer les dérogations et les taux pour bénéficier de l'aide pérenne.
 
 Le comité définira les outils nécessaires pour télétransmettre ou utiliser les services en ligne.
 
@@ -428,7 +428,7 @@ Il examinera et évaluera les applications et les obligations de la MISS (missio
 
 Il procédera à un bilan annuel des actions pédagogiques menées par les CSPD sur le dispositif de télétransmission.
 
-Ce comité se réunira au moins deux fois par an et/ou à la demande d'une des parties en tant que de besoin.
+Ce comité se réunira au moins deux fois par an et/ ou à la demande d'une des parties en tant que de besoin.
 
 En annexe 7.3, est précisé l'ensemble des modalités pratiques relatives à la télétransmission.
 
@@ -458,17 +458,17 @@ Sont membres avec voix délibérative :
 
 Deux collèges comprenant autant de membres chacun :
 
-- le collège professionnel, composé de deux représentants pour chaque syndicat représentatif des masseurs-kinésithérapeutes, avec, pour chacun d'entre eux, un titulaire et un suppléant ;
+-le collège professionnel, composé de deux représentants pour chaque syndicat représentatif des masseurs-kinésithérapeutes, avec, pour chacun d'entre eux, un titulaire et un suppléant ;
 
-- le collège de l'UNCAM comprenant autant de membres (titulaires et suppléants) que le collège professionnel ;
+-le collège de l'UNCAM comprenant autant de membres (titulaires et suppléants) que le collège professionnel ;
 
-- un président désigné d'un commun accord par les membres de la commission.
+-un président désigné d'un commun accord par les membres de la commission.
 
 Peuvent assister aux travaux avec voix consultative :
 
-- un représentant de l'Agence technique de l'information sur l'hospitalisation (ATIH) et/ou de la direction de l'hospitalisation et de l'organisation des soins (DHOS) ;
+-un représentant de l'Agence technique de l'information sur l'hospitalisation (ATIH) et/ ou de la direction de l'hospitalisation et de l'organisation des soins (DHOS) ;
 
-- un représentant de la Haute Autorité de santé (HAS).
+-un représentant de la Haute Autorité de santé (HAS).
 
 Le secrétariat de cette commission est assuré par l'UNCAM.
 
@@ -493,3 +493,9 @@ Le masseur-kinésithérapeute s'interdit tout dépassement en dehors des cas ci-
 En cas de dépassement de tarifs, le masseur-kinésithérapeute fixe ses honoraires avec tact et mesure et indique le montant perçu sur la feuille de soins, ainsi que le motif (DE).
 
 Les parties signataires s'engagent à mettre en oeuvre les moyens de contrôle nécessaires à l'application du tact et de la mesure dans la fixation du DE et du bon usage de celui-ci.
+
+NOTA :
+
+Conformément au I de l'article 4 du décret n° 2022-24 du 11 janvier 2022, ces dispositions entrent en vigueur le 1er juin 2023.
+
+Se reporter aux II, III et IV du même article pour les conditions d'application.

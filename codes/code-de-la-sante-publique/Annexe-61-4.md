@@ -156,7 +156,7 @@ Produits de l'activité hospitalière
 
 7062232 : Spécialités très coûteuses
 
-706224 : Soins de suite et de réadaptation
+706224 : Soins médicaux et de réadaptation
 
 706228 : Lutte contre les maladies mentales (produit de la tarification en hospitalisation complète)
 
@@ -329,3 +329,9 @@ Transferts de charges
 796 : Transferts de charges financières
 
 797 : Transferts de charges exceptionnelles
+
+NOTA :
+
+Conformément au I de l'article 4 du décret n° 2022-24 du 11 janvier 2022, ces dispositions entrent en vigueur le 1er juin 2023.
+
+Se reporter aux II, III et IV du même article pour les conditions d'application.

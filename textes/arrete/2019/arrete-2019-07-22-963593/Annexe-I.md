@@ -8,23 +8,23 @@ Annexe Ia
 
 Référentiel des activités professionnelles
 
-Baccalauréat professionnel spécialité animation - enfance et personnes âgées
+Baccalauréat professionnel spécialité animation-enfance et personnes âgées
 
 1. CHAMP D'ACTIVITÉS
 
 1.1. Définition
 
-Le baccalauréat professionnel animation - enfance et personnes âgées a pour objet de former des animateurs généralistes (1) capables de concevoir et réaliser des activités d'animation de nature variée, notamment auprès d'un public jeune et de personnes âgées en perte d'autonomie.
+Le baccalauréat professionnel animation-enfance et personnes âgées a pour objet de former des animateurs généralistes (1) capables de concevoir et réaliser des activités d'animation de nature variée, notamment auprès d'un public jeune et de personnes âgées en perte d'autonomie.
 
 Dans l'exercice de son métier, l'animateur met en œuvre la démarche d'animation (2).
 
 Le point commun entre ces activités d'animation variées reste méthodologique : l'intervention se veut participative en répondant aux besoins et attentes exprimés ou potentiels, des individus et des groupes.
 
-Les activités du titulaire du baccalauréat professionnel Animation - enfance et personnes âgées peuvent être regroupées en deux grandes composantes :
+Les activités du titulaire du baccalauréat professionnel Animation-enfance et personnes âgées peuvent être regroupées en deux grandes composantes :
 
-- une composante méthodologique, autour de la conduite de projet (conception, organisation, réalisation, évaluation) ;
+-une composante méthodologique, autour de la conduite de projet (conception, organisation, réalisation, évaluation) ;
 
-- une composante relationnelle autour de l'accueil, de l'écoute, de la communication, de la dynamique de groupe.
+-une composante relationnelle autour de l'accueil, de l'écoute, de la communication, de la dynamique de groupe.
 
 1.2. Contexte professionnel
 
@@ -34,19 +34,19 @@ Il s'agit d'employés dont les appellations sont corrélées aux secteurs de leu
 
 Les secteurs d'intervention retenus (3) sont :
 
-- le secteur socioculturel et socioéducatif,
+-le secteur socioculturel et socioéducatif,
 
-- le secteur de l'animation sociale.
+-le secteur de l'animation sociale.
 
 Les appellations les plus fréquentes sont les suivantes :
 
-Secteurs d'intervention |
+Secteurs d'interventionAppellations |
 
-Appellations métier |
+métierSocioculturel |
 
-Socioculturel et socioéducatif |
+et socioéducatifAdjoint |
 
-Adjoint territorial d'animation
+territorial d'animation
 
 Animateur de séjour de vacances
 
@@ -60,11 +60,11 @@ Animateur périscolaire
 
 Animateur socioculturel
 
-Animateur socioéducatif |
+Animateur socioéducatifAnimation |
 
-Animation sociale |
+socialeAdjoint |
 
-Adjoint territorial d'animation
+territorial d'animation
 
 Animateur auprès de personnes âgées
 
@@ -74,21 +74,21 @@ Animateur en EHPAD
 
 Animateur en gérontologie
 
-Animateur social |
+Animateur socialCes |
 
-Ces appellations coexistent, chacune dépendant du secteur d'activité dans lequel l'animateur intervient, des populations auxquelles il s'adresse et surtout des missions qui lui sont dévolues.
+appellations coexistent, chacune dépendant du secteur d'activité dans lequel l'animateur intervient, des populations auxquelles il s'adresse et surtout des missions qui lui sont dévolues.
 
 1.2.2. Structures et services concernés
 
 L'animateur, titulaire de ce diplôme, exerce soit dans une structure publique relevant de la fonction publique territoriale ou hospitalière, soit dans une structure du secteur privé lucratif ou non lucratif.
 
-Secteurs d'intervention |
+Secteurs d'interventionStructures |
 
-Structures et services concernés (4) |
+et services concernés (4) |
 
-Socioculturel et socioéducatif |
+Socioculturel et socioéducatifAccueils |
 
-Accueils collectifs de mineurs (accueil de loisirs avec ou sans hébergement, accueil de scoutisme)
+collectifs de mineurs (accueil de loisirs avec ou sans hébergement, accueil de scoutisme)
 
 Centres sociaux, espaces de vie sociale
 
@@ -98,11 +98,11 @@ Maisons de quartiers
 
 Maisons pour tous
 
-Structures d'animation associatives et fédératives de jeunesse et d'éducation populaire |
+Structures d'animation associatives et fédératives de jeunesse et d'éducation populaireAnimation |
 
-Animation sociale |
+socialeEtablissements |
 
-Etablissements d'hébergement pour personnes âgées dépendantes
+d'hébergement pour personnes âgées dépendantes
 
 Centres sociaux, espaces de vie sociale
 
@@ -112,7 +112,7 @@ Résidences autonomie, résidences services
 
 Services d'aide et de maintien à domicile
 
-Services de gériatrie des hôpitaux (unités de soins de longue durée et unités de soins de suite et de réadaptation)
+Services de gériatrie des hôpitaux (unités de soins de longue durée et unités de soins médicaux et de réadaptation)
 
 Services personnes âgées des communes et des associations |
 
@@ -124,29 +124,29 @@ Cet animateur exerce de manière autonome les activités d'animation qui lui son
 
 Sa responsabilité s'exerce au regard :
 
-- des publics qu'il accueille et dont il a la charge,
+-des publics qu'il accueille et dont il a la charge,
 
-- des collaborateurs et bénévoles qui participent à son activité s'il y a lieu,
+-des collaborateurs et bénévoles qui participent à son activité s'il y a lieu,
 
-- des équipements et espaces nécessaires à la mise en œuvre des activités d'animation.
+-des équipements et espaces nécessaires à la mise en œuvre des activités d'animation.
 
 1.2.4. Facteurs d'évolution du secteur de l'animation
 
 Le contexte professionnel se caractérise par un certain nombre d'évolutions :
 
-- une demande accrue de loisirs de qualité, de sécurité, de professionnalité dans les activités proposées,
+-une demande accrue de loisirs de qualité, de sécurité, de professionnalité dans les activités proposées,
 
-- l'évolution du modèle des loisirs considéré comme source de sociabilité, d'expression, d'acquisition d'identité, de participation à la vie citoyenne et collective,
+-l'évolution du modèle des loisirs considéré comme source de sociabilité, d'expression, d'acquisition d'identité, de participation à la vie citoyenne et collective,
 
-- l'évolution démographique: d'ici à 2050, les personnes de plus de 60 ans représenteront un tiers de la population,
+-l'évolution démographique : d'ici à 2050, les personnes de plus de 60 ans représenteront un tiers de la population,
 
-- l'évolution des pratiques d'animation avec des personnes âgées en établissement, du fait de la prédominance des perturbations des fonctions cognitives, et de l'augmentation du nombre de personnes en perte d'autonomie,
+-l'évolution des pratiques d'animation avec des personnes âgées en établissement, du fait de la prédominance des perturbations des fonctions cognitives, et de l'augmentation du nombre de personnes en perte d'autonomie,
 
-- l'évolution des fonctions d'animation avec une plus grande prise en compte de la dimension individuelle tout en conservant prioritairement le collectif qui est à la racine de l'animation,
+-l'évolution des fonctions d'animation avec une plus grande prise en compte de la dimension individuelle tout en conservant prioritairement le collectif qui est à la racine de l'animation,
 
-- le soutien à l'animation de la vie sociale à domicile, car en maintenant des personnes qui hier entraient en établissement, les mêmes demandes d'animation s'expriment : le maintien à domicile des personnes âgées ne peut pas se résumer au seul projet médical,
+-le soutien à l'animation de la vie sociale à domicile, car en maintenant des personnes qui hier entraient en établissement, les mêmes demandes d'animation s'expriment : le maintien à domicile des personnes âgées ne peut pas se résumer au seul projet médical,
 
-- l'impact des politiques et des financements publics.
+-l'impact des politiques et des financements publics.
 
 1.2.5. Conditions générales d'exercice
 
@@ -158,47 +158,47 @@ Dans le second, la très grande majorité des animateurs est salariée, en emplo
 
 1.3. Délimitation et pondération des fonctions cœur du métier
 
-Le titulaire du baccalauréat professionnel Animation - enfance et personnes âgées intervient dans les fonctions suivantes :
+Le titulaire du baccalauréat professionnel Animation-enfance et personnes âgées intervient dans les fonctions suivantes :
 
-- la contribution au fonctionnement de la structure ou du service par la mise en œuvre d'un projet d'animation (5),
+-la contribution au fonctionnement de la structure ou du service par la mise en œuvre d'un projet d'animation (5),
 
-- l'animation visant le maintien de l'autonomie (6) et le bien-être personnel, en établissement ou à domicile,
+-l'animation visant le maintien de l'autonomie (6) et le bien-être personnel, en établissement ou à domicile,
 
-- l'animation visant l'épanouissement, la socialisation et l'exercice des droits citoyens.
+-l'animation visant l'épanouissement, la socialisation et l'exercice des droits citoyens.
 
 Leur mise en œuvre peut être différente selon la nature de la structure employeur, de son organisation et de sa taille, ainsi que du projet d'établissement, de service ou du projet éducatif et pédagogique dans lequel il évolue.
 
 2. ÉVOLUTION POSSIBLE DES DIPLÔMÉS DANS ET HORS DE L'EMPLOI
 
-Le titulaire du diplôme du baccalauréat professionnel animation - enfance et personnes âgées possède un niveau de compétences générales et professionnelles lui permettant, soit, de s'insérer professionnellement dans des emplois d'animateur de niveau IV, soit de poursuivre une formation d'études supérieures (Diplôme universitaire technologique) ou professionnelle en alternance (Diplômes professionnels de la jeunesse de l'éducation populaire et du sport).
+Le titulaire du diplôme du baccalauréat professionnel animation-enfance et personnes âgées possède un niveau de compétences générales et professionnelles lui permettant, soit, de s'insérer professionnellement dans des emplois d'animateur de niveau IV, soit de poursuivre une formation d'études supérieures (Diplôme universitaire technologique) ou professionnelle en alternance (Diplômes professionnels de la jeunesse de l'éducation populaire et du sport).
 
 3. DESCRIPTION DES FONCTIONS (7) ET DES ACTIVITÉS PROFESSIONNELLES (8)
 
-FONCTION 1 : Contribution au fonctionnement de la structure ou du service par la mise en œuvre d'un projet d'animation |
+FONCTION 1 : Contribution au fonctionnement de la structure ou du service par la mise en œuvre d'un projet d'animationA |
 
-A.1.1. Prise en compte du contexte d'exercice et du projet de la structure
+. 1.1. Prise en compte du contexte d'exercice et du projet de la structure
 
-A.1.2. Conception et réalisation d'un projet d'animation
+A. 1.2. Conception et réalisation d'un projet d'animation
 
-A.1.3. Communication professionnelle au sein de la structure et en direction des acteurs |
+A. 1.3. Communication professionnelle au sein de la structure et en direction des acteursFONCTION |
 
-FONCTION 2 : Animation visant le maintien de l'autonomie sociale et le bien-être personnel en établissement ou à domicile |
+2 : Animation visant le maintien de l'autonomie sociale et le bien-être personnel en établissement ou à domicileA |
 
-A.2.1. Identification des caractéristiques et des attentes des personnes en perte d'autonomie
+. 2.1. Identification des caractéristiques et des attentes des personnes en perte d'autonomie
 
-A.2.2. Conception d'activités de maintien de la vie relationnelle, sociale et culturelle
+A. 2.2. Conception d'activités de maintien de la vie relationnelle, sociale et culturelle
 
-A.2.3. Réalisation d'activités de maintien de la vie relationnelle, sociale et culturelle |
+A. 2.3. Réalisation d'activités de maintien de la vie relationnelle, sociale et culturelleFONCTION |
 
-FONCTION 3 : Animation visant l'épanouissement, la socialisation et l'exercice des droits citoyens |
+3 : Animation visant l'épanouissement, la socialisation et l'exercice des droits citoyensA |
 
-A.3.1. Conception d'activités socioéducatives et socioculturelles
+. 3.1. Conception d'activités socioéducatives et socioculturelles
 
-A.3.2. Réalisation d'activités socioéducatives et socioculturelles
+A. 3.2. Réalisation d'activités socioéducatives et socioculturelles
 
-A.3.3. Encadrement du public sur l'intégralité du temps d'accueil |
+A. 3.3. Encadrement du public sur l'intégralité du temps d'accueilLes |
 
-Les activités professionnelles sont décrites sous forme de tâches (9).
+activités professionnelles sont décrites sous forme de tâches (9).
 
 Les conditions d'exercice de l'activité sont indiquées : moyens et ressources, autonomie et responsabilité (10).
 
@@ -206,69 +206,69 @@ Fonction 1 : Contribution au fonctionnement de la structure ou du service par la
 
 |
 
-■ A.1.1. Prise en compte du contexte d'exercice et du projet de la structure
+■ A. 1.1. Prise en compte du contexte d'exercice et du projet de la structure
 
-□ A.1.2. Conception et réalisation d'un projet d'animation
+□ A. 1.2. Conception et réalisation d'un projet d'animation
 
-□ A.1.3. Communication professionnelle au sein de la structure et en direction des acteurs |
+□ A. 1.3. Communication professionnelle au sein de la structure et en direction des acteursTâches |
 
 |
 
-Tâches |
+|
 
-- Identification des caractéristiques de la structure et du public accueilli
+-Identification des caractéristiques de la structure et du public accueilli
 
-- Recueil des caractéristiques démographiques, sociologiques, culturelles et économiques du territoire d'exercice
+-Recueil des caractéristiques démographiques, sociologiques, culturelles et économiques du territoire d'exercice
 
-- Exploitation et analyse des données collectées
+-Exploitation et analyse des données collectées
 
-- Repérage du rôle des différents acteurs présents dans la structure et sur le territoire
+-Repérage du rôle des différents acteurs présents dans la structure et sur le territoire
 
-- Identification des axes et des enjeux du projet de la structure pour une prise en compte dans le projet d'animation
+-Identification des axes et des enjeux du projet de la structure pour une prise en compte dans le projet d'animation
 
-- Contribution à l'élaboration et à l'évolution du projet de la structure |
+-Contribution à l'élaboration et à l'évolution du projet de la structureConditions |
 
-Conditions d'exercice |
+d'exerciceMoyens |
 
-Moyens et ressources |
+et ressources |
 
-- Données et informations
+-Données et informations
 
-- projets de la structure (projet d'établissement, projet éducatif, projet pédagogique, projet d'animation, projet associatif) ou du service
+-projets de la structure (projet d'établissement, projet éducatif, projet pédagogique, projet d'animation, projet associatif) ou du service
 
-- organigramme
+-organigramme
 
-- rapports d'activités de la structure ou du service
+-rapports d'activités de la structure ou du service
 
-- études et bilans statistiques locaux, départementaux, nationaux
+-études et bilans statistiques locaux, départementaux, nationaux
 
-- diagnostic de territoire
+-diagnostic de territoire
 
-- indicateurs liés à la rencontre avec les publics accueillis
+-indicateurs liés à la rencontre avec les publics accueillis
 
-- Equipements
+-Equipements
 
-- matériel informatique et logiciels
+-matériel informatique et logiciels
 
-- Liaison - relations
+-Liaison-relations
 
-- avec le responsable de la structure ou le supérieur hiérarchique
+-avec le responsable de la structure ou le supérieur hiérarchique
 
-- avec les partenaires
+-avec les partenaires
 
-- avec les acteurs de la structure (professionnels, bénévoles, publics) |
+-avec les acteurs de la structure (professionnels, bénévoles, publics) |
 
-Autonomie et responsabilité |
+Autonomie et responsabilitéAutonomiePartielle |
 
-Autonomie |
+|
 
-Partielle ■ |
+■ |
 
 Totale □ |
 
-Responsabilité |
+ResponsabilitéDes |
 
-Des personnes □ |
+personnes □ |
 
 Des moyens ■ |
 
@@ -276,87 +276,87 @@ Du résultat ■ |
 
 Résultats attendus |
 
-- Appropriation des principes et des valeurs portées par la structure
+-Appropriation des principes et des valeurs portées par la structure
 
-- Positionnement adapté au sein de l'équipe de travail, dans le respect du périmètre de responsabilité
+-Positionnement adapté au sein de l'équipe de travail, dans le respect du périmètre de responsabilité
 
-- Repérage des potentialités et des contraintes liées au territoire |
+-Repérage des potentialités et des contraintes liées au territoireFonction |
 
-Fonction 1 : Contribution au fonctionnement de la structure ou du service par la mise en œuvre d'un projet d'animation |
-
-|
-
-□ A.1.1. Prise en compte du contexte d'exercice et du projet de la structure
-
-■ A.1.2. Conception et réalisation d'un projet d'animation
-
-□ A.1.3. Communication professionnelle au sein de la structure et en direction des acteurs |
+1 : Contribution au fonctionnement de la structure ou du service par la mise en œuvre d'un projet d'animation |
 
 |
 
-Tâches |
+□ A. 1.1. Prise en compte du contexte d'exercice et du projet de la structure
 
-- Formalisation du projet d'animation incluant :
+■ A. 1.2. Conception et réalisation d'un projet d'animation
 
-- identification et analyse des besoins et des demandes des publics
+□ A. 1.3. Communication professionnelle au sein de la structure et en direction des acteursTâches |
 
-- formulation des objectifs du projet d'animation
+|
 
-- proposition et hiérarchisation des réponses adaptées au besoin ou à la demande
+|
 
-- identification et mobilisation des moyens
+-Formalisation du projet d'animation incluant :
 
-- organisation des actions définies en collaboration avec d'autres acteurs
+-identification et analyse des besoins et des demandes des publics
 
-- élaboration des outils de suivi et d'évaluation
+-formulation des objectifs du projet d'animation
 
-- Réalisation des actions définies en collaboration avec d'autres acteurs
+-proposition et hiérarchisation des réponses adaptées au besoin ou à la demande
 
-- Adaptation et réajustement du projet en fonction des aléas rencontrés
+-identification et mobilisation des moyens
 
-- Evaluation du projet d'animation et rédaction d'un bilan |
+-organisation des actions définies en collaboration avec d'autres acteurs
 
-Conditions d'exercice |
+-élaboration des outils de suivi et d'évaluation
 
-Moyens et ressources |
+-Réalisation des actions définies en collaboration avec d'autres acteurs
 
-- Données et informations
+-Adaptation et réajustement du projet en fonction des aléas rencontrés
 
-- outils de recueil de données
+-Evaluation du projet d'animation et rédaction d'un bilanConditions |
 
-- références aux courants éducatifs
+d'exerciceMoyens |
 
-- contraintes et obligations (réglementaires, techniques, budgétaires)
+et ressources |
 
-- résultats d'enquête de l'institution ou des partenaires locaux
+-Données et informations
 
-- diagnostic de territoire
+-outils de recueil de données
 
-- bilan d'activités
+-références aux courants éducatifs
 
-- Equipements
+-contraintes et obligations (réglementaires, techniques, budgétaires)
 
-- matériel informatique
+-résultats d'enquête de l'institution ou des partenaires locaux
 
-- Liaison - relations
+-diagnostic de territoire
 
-- avec le responsable de la structure ou le supérieur hiérarchique
+-bilan d'activités
 
-- avec les partenaires locaux, les élus
+-Equipements
 
-- avec les publics |
+-matériel informatique
 
-Autonomie et responsabilité |
+-Liaison-relations
 
-Autonomie |
+-avec le responsable de la structure ou le supérieur hiérarchique
 
-Partielle □ |
+-avec les partenaires locaux, les élus
+
+-avec les publicsAutonomie |
+
+et responsabilitéAutonomiePartielle |
+
+|
+
+□ |
 
 Totale ■ |
 
-Responsabilité |
+ResponsabilitéDes |
 
-Des personnes ■ |
+personnes ■ |
 
 Des moyens ■ |
 
@@ -364,89 +364,89 @@ Du résultat ■ |
 
 Résultats attendus |
 
-- Propositions de projets d'animation réalistes, adaptés et innovants en lien avec le projet de la structure
+-Propositions de projets d'animation réalistes, adaptés et innovants en lien avec le projet de la structure
 
-- Respect des limites du champ de compétences et des contraintes repérées
+-Respect des limites du champ de compétences et des contraintes repérées
 
-- Organisation rigoureuse, gestion opérationnelle de la démarche de projet
+-Organisation rigoureuse, gestion opérationnelle de la démarche de projet
 
-- Choix pertinent des démarches éducatives
+-Choix pertinent des démarches éducatives
 
-- Suivi, adaptation et réajustement du projet avec les différents acteurs
+-Suivi, adaptation et réajustement du projet avec les différents acteurs
 
-- Satisfaction des publics concernés par le projet d'animation |
+-Satisfaction des publics concernés par le projet d'animationFonction |
 
-Fonction 1 : Contribution au fonctionnement de la structure ou du service par la mise en œuvre d'un projet d'animation |
-
-|
-
-□ A.1.1. Prise en compte du contexte d'exercice et du projet de la structure
-
-□ A.1.2. Conception et réalisation d'un projet d'animation
-
-■ A.1.3. Communication professionnelle au sein de la structure et en direction des acteurs |
+1 : Contribution au fonctionnement de la structure ou du service par la mise en œuvre d'un projet d'animation |
 
 |
 
-Tâches |
+□ A. 1.1. Prise en compte du contexte d'exercice et du projet de la structure
 
-- Communication interne
+□ A. 1.2. Conception et réalisation d'un projet d'animation
 
-- communication au sein de l'équipe professionnelle sur ses activités, ses projets
+■ A. 1.3. Communication professionnelle au sein de la structure et en direction des acteursTâches |
 
-- participation à l'élaboration d'une stratégie de communication
+|
 
-- actualisation des informations
+|
 
-- Communication externe
+-Communication interne
 
-- recueil des demandes, des besoins et des attentes du public
+-communication au sein de l'équipe professionnelle sur ses activités, ses projets
 
-- mise en œuvre d'actions de promotion et de valorisation des projets d'animation
+-participation à l'élaboration d'une stratégie de communication
 
-- contribution à la communication autour du projet de la structure
+-actualisation des informations
 
-- relations avec les acteurs participant à la mise en œuvre des projets d'animation |
+-Communication externe
 
-Conditions d'exercice |
+-recueil des demandes, des besoins et des attentes du public
 
-Moyens et ressources |
+-mise en œuvre d'actions de promotion et de valorisation des projets d'animation
 
-- Données et informations
+-contribution à la communication autour du projet de la structure
 
-- réglementation et principes d'élaboration des documents
+-relations avec les acteurs participant à la mise en œuvre des projets d'animationConditions |
 
-- stratégie de communication et circuits de l'information au sein de la structure
+d'exerciceMoyens |
 
-- sources d'information utilisées par le public
+et ressources |
 
-- Equipements
+-Données et informations
 
-- outils de communication
+-réglementation et principes d'élaboration des documents
 
-- matériel informatique et logiciels
+-stratégie de communication et circuits de l'information au sein de la structure
 
-- Liaison - relations
+-sources d'information utilisées par le public
 
-- avec le responsable de la structure ou le supérieur hiérarchique
+-Equipements
 
-- avec l'équipe de professionnels
+-outils de communication
 
-- avec les partenaires extérieurs : bénévoles, intervenants extérieurs, services supports de l'activité
+-matériel informatique et logiciels
 
-- avec les publics accueillis |
+-Liaison-relations
 
-Autonomie et responsabilité |
+-avec le responsable de la structure ou le supérieur hiérarchique
 
-Autonomie |
+-avec l'équipe de professionnels
 
-Partielle ■ |
+-avec les partenaires extérieurs : bénévoles, intervenants extérieurs, services supports de l'activité
+
+-avec les publics accueillisAutonomie |
+
+et responsabilitéAutonomiePartielle |
+
+|
+
+■ |
 
 Totale □ |
 
-Responsabilité |
+ResponsabilitéDes |
 
-Des personnes □ |
+personnes □ |
 
 Des moyens ■ |
 
@@ -454,91 +454,91 @@ Du résultat ■ |
 
 Résultats attendus |
 
-- Techniques et attitudes adaptées au recueil des besoins et des attentes du public
+-Techniques et attitudes adaptées au recueil des besoins et des attentes du public
 
-- Choix d'outils et modes de communication adaptés
+-Choix d'outils et modes de communication adaptés
 
-- Participation à des actions de promotion et de valorisation des activités
+-Participation à des actions de promotion et de valorisation des activités
 
-- Partage des informations entre les acteurs repérés
+-Partage des informations entre les acteurs repérés
 
-- Adaptation ou développement de moyens de communication pertinents au regard des technologies de l'information et de la communication
+-Adaptation ou développement de moyens de communication pertinents au regard des technologies de l'information et de la communication
 
-- Respect de l'éthique professionnelle et des règles de communication professionnelle. |
+-Respect de l'éthique professionnelle et des règles de communication professionnelle. |
 
 Fonction 2 : Animation visant le maintien de l'autonomie sociale et le bien-être personnel, en établissement ou à domicile |
 
 |
 
-■ A.2.1. Identification des caractéristiques et des attentes des personnes en perte d'autonomie
+■ A. 2.1. Identification des caractéristiques et des attentes des personnes en perte d'autonomie
 
-□ A.2.2. Conception d'activités de maintien de la vie relationnelle, sociale et culturelle
+□ A. 2.2. Conception d'activités de maintien de la vie relationnelle, sociale et culturelle
 
-□ A.2.3. Réalisation d'activités de maintien de la vie relationnelle, sociale et culturelle |
+□ A. 2.3. Réalisation d'activités de maintien de la vie relationnelle, sociale et culturelleTâches |
 
 |
 
-Tâches |
+|
 
-- Prise en compte des besoins identifiés, des potentialités et des difficultés liées à l'état de santé de la personne âgée
+-Prise en compte des besoins identifiés, des potentialités et des difficultés liées à l'état de santé de la personne âgée
 
-- Recueil des demandes, des attentes, des souhaits de la personne âgée
+-Recueil des demandes, des attentes, des souhaits de la personne âgée
 
-- Prise en compte, actualisation du projet personnel de la personne âgée
+-Prise en compte, actualisation du projet personnel de la personne âgée
 
-- Recueil d'informations auprès des autres professionnels
+-Recueil d'informations auprès des autres professionnels
 
-- Observation et prise en compte des espaces et cadres de vie de la personne âgée
+-Observation et prise en compte des espaces et cadres de vie de la personne âgée
 
-- Observation des attitudes, des comportements et des interactions sociales |
+-Observation des attitudes, des comportements et des interactions socialesConditions |
 
-Conditions d'exercice |
+d'exerciceMoyens |
 
-Moyens et ressources |
+et ressources |
 
-- Données et informations
+-Données et informations
 
-- projet d'accueil et d'accompagnement : projet de vie individualisé de la personne, projet d'accompagnement, projet d'accueil, projet personnalisé
+-projet d'accueil et d'accompagnement : projet de vie individualisé de la personne, projet d'accompagnement, projet d'accueil, projet personnalisé
 
-- ressources documentaires du secteur d'intervention (revues spécialisées…)
+-ressources documentaires du secteur d'intervention (revues spécialisées …)
 
-- documents de transmissions, de suivi, de bilans,
+-documents de transmissions, de suivi, de bilans,
 
-- plan des espaces de vie (privés, communs)
+-plan des espaces de vie (privés, communs)
 
-- données collectées par des services prestataires intervenant au domicile
+-données collectées par des services prestataires intervenant au domicile
 
-- fiches de recueil de données
+-fiches de recueil de données
 
-- Equipements
+-Equipements
 
-- matériel informatique
+-matériel informatique
 
-- logiciel de transmission
+-logiciel de transmission
 
-- Liaison - relations
+-Liaison-relations
 
-- avec la personne
+-avec la personne
 
-- avec le responsable de la structure
+-avec le responsable de la structure
 
-- avec l'équipe pluri professionnelle
+-avec l'équipe pluri professionnelle
 
-- avec les familles et l'entourage de la personne
+-avec les familles et l'entourage de la personne
 
-- avec les bénévoles et les partenaires du territoire |
+-avec les bénévoles et les partenaires du territoireAutonomie |
 
-Autonomie et responsabilité |
+et responsabilitéAutonomiePartielle |
 
-Autonomie |
+|
 
-Partielle ■ |
+■ |
 
 Totale □ |
 
-Responsabilité |
+ResponsabilitéDes |
 
-Des personnes □ |
+personnes □ |
 
 Des moyens ■ |
 
@@ -546,97 +546,97 @@ Du résultat ■ |
 
 Résultats attendus |
 
-- Prise en compte pertinente de la situation de la personne dans son environnement :
+-Prise en compte pertinente de la situation de la personne dans son environnement :
 
-- identification objective des besoins, des potentialités et des difficultés de la personne
+-identification objective des besoins, des potentialités et des difficultés de la personne
 
-- repérage précis et écoute active des demandes, des attentes, des souhaits
+-repérage précis et écoute active des demandes, des attentes, des souhaits
 
-- identification complète des espaces et du cadre de vie de la personne
+-identification complète des espaces et du cadre de vie de la personne
 
-- Communication adaptée et bienveillante
+-Communication adaptée et bienveillante
 
-- Travail effectif en équipe pluriprofessionnelle |
+-Travail effectif en équipe pluriprofessionnelleFonction |
 
-Fonction 2 : - Animation visant le maintien de l'autonomie sociale et le bien-être personnel, en établissement ou à domicile |
-
-|
-
-□ A.2.1. Identification des caractéristiques et des attentes des personnes en perte d'autonomie
-
-■ A.2.2. Conception d'activités de maintien de la vie relationnelle, sociale et culturelle
-
-□ A.2.3. Réalisation d'activités de maintien de la vie relationnelle, sociale et culturelle |
+2 :-Animation visant le maintien de l'autonomie sociale et le bien-être personnel, en établissement ou à domicile |
 
 |
 
-Tâches |
+□ A. 2.1. Identification des caractéristiques et des attentes des personnes en perte d'autonomie
 
-- Proposition d'activités diversifiées et adaptées aux besoins, attentes et demandes des personnes âgées ainsi qu'à leurs capacités motrices et cognitives
+■ A. 2.2. Conception d'activités de maintien de la vie relationnelle, sociale et culturelle
 
-- Mobilisation des ressources nécessaires à la conception des activités
+□ A. 2.3. Réalisation d'activités de maintien de la vie relationnelle, sociale et culturelleTâches |
 
-- Conception d'activités d'animation de la vie sociale, et/ou de maintien de l'autonomie sociale
+|
 
-- Conception d'activités adaptées avec l'équipe pluriprofessionnelle, les bénévoles, les partenaires
+|
 
-- Planification des activités à réaliser
+-Proposition d'activités diversifiées et adaptées aux besoins, attentes et demandes des personnes âgées ainsi qu'à leurs capacités motrices et cognitives
 
-- Gestion du budget de l'activité en lien avec l'équipe administrative |
+-Mobilisation des ressources nécessaires à la conception des activités
 
-Conditions d'exercice |
+-Conception d'activités d'animation de la vie sociale, et/ ou de maintien de l'autonomie sociale
 
-Moyens et ressources |
+-Conception d'activités adaptées avec l'équipe pluriprofessionnelle, les bénévoles, les partenaires
 
-- Données et informations
+-Planification des activités à réaliser
 
-- projets (d'établissement, d'animation) de la structure ou du service,
+-Gestion du budget de l'activité en lien avec l'équipe administrativeConditions |
 
-- projet d'accueil et d'accompagnement : projet de vie individualisé de la personne, projet d'accompagnement, projet d'accueil, projet personnalisé
+d'exerciceMoyens |
 
-- organigramme
+et ressources |
 
-- données actualisées sur les règles de sécurité et d'encadrement
+-Données et informations
 
-- ressources liées au partenariat local
+-projets (d'établissement, d'animation) de la structure ou du service,
 
-- documents de suivi, bilans, évaluations
+-projet d'accueil et d'accompagnement : projet de vie individualisé de la personne, projet d'accompagnement, projet d'accueil, projet personnalisé
 
-- Equipements
+-organigramme
 
-- outils informatiques
+-données actualisées sur les règles de sécurité et d'encadrement
 
-- espaces et matériels spécifiques aux activités
+-ressources liées au partenariat local
 
-- supports de communication : planning d'organisation des professionnels, planning d'occupation des salles…
+-documents de suivi, bilans, évaluations
 
-- Liaison - relations
+-Equipements
 
-- avec la personne, les personnes
+-outils informatiques
 
-- avec le responsable de la structure
+-espaces et matériels spécifiques aux activités
 
-- avec l'équipe pluriprofessionnelle
+-supports de communication : planning d'organisation des professionnels, planning d'occupation des salles …
 
-- avec les partenaires du territoire
+-Liaison-relations
 
-- avec les familles et l'entourage de la personne
+-avec la personne, les personnes
 
-- avec les bénévoles
+-avec le responsable de la structure
 
-- avec les intervenants |
+-avec l'équipe pluriprofessionnelle
 
-Autonomie et responsabilité |
+-avec les partenaires du territoire
 
-Autonomie |
+-avec les familles et l'entourage de la personne
 
-Partielle □ |
+-avec les bénévoles
+
+-avec les intervenantsAutonomie |
+
+et responsabilitéAutonomiePartielle |
+
+|
+
+□ |
 
 Totale ■ |
 
-Responsabilité |
+ResponsabilitéDes |
 
-Des personnes ■ |
+personnes ■ |
 
 Des moyens ■ |
 
@@ -644,103 +644,103 @@ Du résultat ■ |
 
 Résultats attendus |
 
-- Proposition d'activités d'animation de la vie sociale diversifiées et adaptées aux attentes, demandes, souhaits des personnes
+-Proposition d'activités d'animation de la vie sociale diversifiées et adaptées aux attentes, demandes, souhaits des personnes
 
-- Planification adaptée à l'organisation de la structure ou du service
+-Planification adaptée à l'organisation de la structure ou du service
 
-- Gestion rationnelle du matériel, des espaces et des moyens financiers de l'activité
+-Gestion rationnelle du matériel, des espaces et des moyens financiers de l'activité
 
-- Sécurité physique, morale et affective des personnes
+-Sécurité physique, morale et affective des personnes
 
-- Mise en place et entretien d'un partenariat actif |
+-Mise en place et entretien d'un partenariat actifFonction |
 
-Fonction 2 : Animation visant le maintien de l'autonomie sociale et le bien-être personnel, en établissement ou à domicile |
-
-|
-
-□ A.2.1. Identification des caractéristiques et des attentes des personnes en perte d'autonomie
-
-□ A.2.2. Conception d'activités de maintien de la vie relationnelle, sociale et culturelle
-
-■ A.2.3. Réalisation d'activités de maintien de la vie relationnelle, sociale et culturelle |
+2 : Animation visant le maintien de l'autonomie sociale et le bien-être personnel, en établissement ou à domicile |
 
 |
 
-Tâches |
+□ A. 2.1. Identification des caractéristiques et des attentes des personnes en perte d'autonomie
 
-- Sensibilisation et accompagnement de la personne vers l'activité
+□ A. 2.2. Conception d'activités de maintien de la vie relationnelle, sociale et culturelle
 
-- Mobilisation de techniques favorisant l'implication de la personne âgée dans l'activité
+■ A. 2.3. Réalisation d'activités de maintien de la vie relationnelle, sociale et culturelleTâches |
 
-- Animation d'activités favorisant le maintien du lien social
+|
 
-- Animation d'activités adaptées aux troubles cognitifs et aux capacités motrices de chaque personne
+|
 
-- Gestion du groupe dans sa diversité
+-Sensibilisation et accompagnement de la personne vers l'activité
 
-- Adaptation de l'activité en fonction des comportements des personnes
+-Mobilisation de techniques favorisant l'implication de la personne âgée dans l'activité
 
-- Gestion des temps transitionnels
+-Animation d'activités favorisant le maintien du lien social
 
-- Evaluation et bilan en équipe |
+-Animation d'activités adaptées aux troubles cognitifs et aux capacités motrices de chaque personne
 
-Conditions d'exercice |
+-Gestion du groupe dans sa diversité
 
-Moyens et ressources |
+-Adaptation de l'activité en fonction des comportements des personnes
 
-- Données et informations
+-Gestion des temps transitionnels
 
-- projet d'accueil et d'accompagnement
+-Evaluation et bilan en équipeConditions |
 
-- les attentes, les potentialités de la personne pour les activités d'animation
+d'exerciceMoyens |
 
-- moyens humains, techniques
+et ressources |
 
-- limites des champs de compétence de l'animateur
+-Données et informations
 
-- règles et consignes de sécurité
+-projet d'accueil et d'accompagnement
 
-- fiches d'activités
+-les attentes, les potentialités de la personne pour les activités d'animation
 
-- techniques spécifiques d'accompagnement pour personnes en perte d'autonomie
+-moyens humains, techniques
 
-- documents de suivi, bilans, évaluations
+-limites des champs de compétence de l'animateur
 
-- Equipements
+-règles et consignes de sécurité
 
-- espace et matériel spécifiques selon l'activité
+-fiches d'activités
 
-- outils de communication
+-techniques spécifiques d'accompagnement pour personnes en perte d'autonomie
 
-- appareil photo
+-documents de suivi, bilans, évaluations
 
-- site internet ou blog ou journal de la structure ou du service
+-Equipements
 
-- Liaison-relations
+-espace et matériel spécifiques selon l'activité
 
-- avec la personne, les personnes
+-outils de communication
 
-- avec le responsable de la structure
+-appareil photo
 
-- avec l'équipe pluriprofessionnelle
+-site internet ou blog ou journal de la structure ou du service
 
-- avec les familles et l'entourage de la personne
+-Liaison-relations
 
-- avec les bénévoles
+-avec la personne, les personnes
 
-- avec les intervenants |
+-avec le responsable de la structure
 
-Autonomie et responsabilité |
+-avec l'équipe pluriprofessionnelle
 
-Autonomie |
+-avec les familles et l'entourage de la personne
 
-Partielle □ |
+-avec les bénévoles
+
+-avec les intervenantsAutonomie |
+
+et responsabilitéAutonomiePartielle |
+
+|
+
+□ |
 
 Totale ■ |
 
-Responsabilité |
+ResponsabilitéDes |
 
-Des personnes ■ |
+personnes ■ |
 
 Des moyens ■ |
 
@@ -748,97 +748,97 @@ Du résultat ■ |
 
 Résultats attendus |
 
-- Utilisation de techniques d'animation adaptées
+-Utilisation de techniques d'animation adaptées
 
-- Régulation du groupe
+-Régulation du groupe
 
-- Valorisation des capacités, de la créativité, de la capacité à agir des personnes âgées
+-Valorisation des capacités, de la créativité, de la capacité à agir des personnes âgées
 
-- Satisfaction des personnes et implication des personnes dans l'activité
+-Satisfaction des personnes et implication des personnes dans l'activité
 
-- Mise en place d'une relation de confiance avec les personnes
+-Mise en place d'une relation de confiance avec les personnes
 
-- Propositions d'alternatives, d'axes d'évolution pertinents |
+-Propositions d'alternatives, d'axes d'évolution pertinentsFonction |
 
-Fonction 3 : Animation visant l'épanouissement, la socialisation et l'exercice des droits citoyens |
-
-|
-
-■ A.3.1. Conception d'activités socioéducatives et socioculturelles
-
-□ A.3.2. Réalisation d'activités socioéducatives et socioculturelles
-
-□ A.3.3. Encadrement du public sur l'intégralité du temps d'accueil |
+3 : Animation visant l'épanouissement, la socialisation et l'exercice des droits citoyens |
 
 |
 
-Tâches |
+■ A. 3.1. Conception d'activités socioéducatives et socioculturelles
 
-- Elaboration des activités socioéducatives dans le respect de la réglementation en vigueur et en lien avec le projet de la structure
+□ A. 3.2. Réalisation d'activités socioéducatives et socioculturelles
 
-- Elaboration d'activités adaptées aux caractéristiques, aux capacités, aux rythmes, aux besoins et aux demandes des publics
+□ A. 3.3. Encadrement du public sur l'intégralité du temps d'accueilTâches |
 
-- Choix de démarches et de méthodes éducatives visant la participation et l'implication des publics accueillis
+|
 
-- Choix d'activités au sein d'un répertoire d'activités d'expression, d'activités physiques ou scientifiques et techniques
+|
 
-- Soutien à l'émergence d'activités à l'initiative des publics
+-Elaboration des activités socioéducatives dans le respect de la réglementation en vigueur et en lien avec le projet de la structure
 
-- Elaboration ou adaptation des processus et des outils d'évaluation des activités
+-Elaboration d'activités adaptées aux caractéristiques, aux capacités, aux rythmes, aux besoins et aux demandes des publics
 
-- Planification et aménagement des activités dans l'espace et dans le temps
+-Choix de démarches et de méthodes éducatives visant la participation et l'implication des publics accueillis
 
-- Gestion du budget des activités en lien avec le responsable de la structure |
+-Choix d'activités au sein d'un répertoire d'activités d'expression, d'activités physiques ou scientifiques et techniques
 
-Conditions d'exercice |
+-Soutien à l'émergence d'activités à l'initiative des publics
 
-Moyens et ressources |
+-Elaboration ou adaptation des processus et des outils d'évaluation des activités
 
-- Données et informations
+-Planification et aménagement des activités dans l'espace et dans le temps
 
-- documents présentant les projets de la structure ou du service : projet d'établissement, projet social, projet éducatif, projet pédagogique, projet d'animation, outils de communication de la structure, etc.
+-Gestion du budget des activités en lien avec le responsable de la structureConditions |
 
-- références aux courants éducatifs (pédagogie active, éducation populaire…)
+d'exerciceMoyens |
 
-- contraintes et obligations (règlementaires, techniques, budgétaires)
+et ressources |
 
-- ressources documentaires
+-Données et informations
 
-- charte de déontologie pour l'accueil des personnes handicapées dans les structures de vacances et de loisirs non spécialisées
+-documents présentant les projets de la structure ou du service : projet d'établissement, projet social, projet éducatif, projet pédagogique, projet d'animation, outils de communication de la structure, etc.
 
-- projet d'intégration de l'enfant handicapé
+-références aux courants éducatifs (pédagogie active, éducation populaire …)
 
-- Equipements
+-contraintes et obligations (règlementaires, techniques, budgétaires)
 
-- matériel informatique
+-ressources documentaires
 
-- espace équipé dédié aux activités
+-charte de déontologie pour l'accueil des personnes handicapées dans les structures de vacances et de loisirs non spécialisées
 
-- ressources partenariales
+-projet d'intégration de l'enfant handicapé
 
-- Liaisons - relations
+-Equipements
 
-- avec le responsable de la structure, les élus
+-matériel informatique
 
-- avec le public
+-espace équipé dédié aux activités
 
-- avec l'équipe pluriprofessionnelle
+-ressources partenariales
 
-- avec les partenaires : bénévoles, intervenants, habitants
+-Liaisons-relations
 
-- avec les familles |
+-avec le responsable de la structure, les élus
 
-Autonomie et responsabilité |
+-avec le public
 
-Autonomie |
+-avec l'équipe pluriprofessionnelle
 
-Partielle □ |
+-avec les partenaires : bénévoles, intervenants, habitants
+
+-avec les famillesAutonomie |
+
+et responsabilitéAutonomiePartielle |
+
+|
+
+□ |
 
 Totale ■ |
 
-Responsabilité |
+ResponsabilitéDes |
 
-Des personnes □ |
+personnes □ |
 
 Des moyens ■ |
 
@@ -846,91 +846,91 @@ Du résultat ■ |
 
 Résultats attendus |
 
-- Propositions d'activités socioéducatives adaptées aux caractéristiques, aux capacités, aux rythmes, aux besoins et aux demandes des publics
+-Propositions d'activités socioéducatives adaptées aux caractéristiques, aux capacités, aux rythmes, aux besoins et aux demandes des publics
 
-- Choix d'activités cohérentes utilisant des techniques et des outils variés, en lien avec le programme d'activités et les projets de la structure
+-Choix d'activités cohérentes utilisant des techniques et des outils variés, en lien avec le programme d'activités et les projets de la structure
 
-- Implication et participation des publics à la conception d'activités, par des démarches éducatives sélectionnées
+-Implication et participation des publics à la conception d'activités, par des démarches éducatives sélectionnées
 
-- Identification pertinente des moyens nécessaires
+-Identification pertinente des moyens nécessaires
 
-- Fiche d'activité opérationnelle
+-Fiche d'activité opérationnelle
 
-- Planification adaptée à l'organisation et aux moyens financiers de la structure |
+-Planification adaptée à l'organisation et aux moyens financiers de la structureFonction |
 
-Fonction 3 : Animation visant l'épanouissement, la socialisation et l'exercice des droits citoyens |
-
-|
-
-□ A.3.1. Conception d'activités socioéducatives et socioculturelles
-
-■ A.3.2. Réalisation d'activités socioéducatives et socioculturelles
-
-□ A.3.3. Encadrement du public sur l'intégralité du temps d'accueil |
+3 : Animation visant l'épanouissement, la socialisation et l'exercice des droits citoyens |
 
 |
 
-Tâches |
+□ A. 3.1. Conception d'activités socioéducatives et socioculturelles
 
-- Mise en œuvre des conditions favorables à la participation et à l'implication du public accueilli
+■ A. 3.2. Réalisation d'activités socioéducatives et socioculturelles
 
-- Animation d'activités socioéducatives en assurant un cadre sécurisant
+□ A. 3.3. Encadrement du public sur l'intégralité du temps d'accueilTâches |
 
-- Gestion du groupe au cours de l'activité
+|
 
-- Observation et prise en compte des propositions du public au cours de l'activité
+|
 
-- Adaptation de l'activité en fonction des attitudes et des comportements des personnes ou des situations imprévues
+-Mise en œuvre des conditions favorables à la participation et à l'implication du public accueilli
 
-- Evaluation et bilan de l'activité |
+-Animation d'activités socioéducatives en assurant un cadre sécurisant
 
-Conditions d'exercice |
+-Gestion du groupe au cours de l'activité
 
-Moyens et ressources |
+-Observation et prise en compte des propositions du public au cours de l'activité
 
-- Données et informations
+-Adaptation de l'activité en fonction des attitudes et des comportements des personnes ou des situations imprévues
 
-- moyens humains, techniques, financiers
+-Evaluation et bilan de l'activitéConditions |
 
-- démarches participatives, techniques de pédagogies actives
+d'exerciceMoyens |
 
-- fiche d'activité, programme d'activités
+et ressources |
 
-- supports d'animation
+-Données et informations
 
-- cadre réglementaire d'encadrement et de sécurité des publics
+-moyens humains, techniques, financiers
 
-- documents de suivi et d'évaluation
+-démarches participatives, techniques de pédagogies actives
 
-- Equipements
+-fiche d'activité, programme d'activités
 
-- espace et matériel spécifiques selon l'activité
+-supports d'animation
 
-- outils de communication
+-cadre réglementaire d'encadrement et de sécurité des publics
 
-- Liaison-relations
+-documents de suivi et d'évaluation
 
-- avec le responsable de la structure, les élus
+-Equipements
 
-- avec le public
+-espace et matériel spécifiques selon l'activité
 
-- avec l'équipe pluriprofessionnelle,
+-outils de communication
 
-- avec les partenaires : bénévoles, intervenants, habitants
+-Liaison-relations
 
-- avec les familles |
+-avec le responsable de la structure, les élus
 
-Autonomie et responsabilité |
+-avec le public
 
-Autonomie |
+-avec l'équipe pluriprofessionnelle,
 
-Partielle □ |
+-avec les partenaires : bénévoles, intervenants, habitants
+
+-avec les famillesAutonomie |
+
+et responsabilitéAutonomiePartielle |
+
+|
+
+□ |
 
 Totale ■ |
 
-Responsabilité |
+ResponsabilitéDes |
 
-Des personnes ■ |
+personnes ■ |
 
 Des moyens ■ |
 
@@ -938,85 +938,85 @@ Du résultat ■ |
 
 Résultats attendus |
 
-- Epanouissement et socialisation des publics par la mise en place d'activités socioéducatives
+-Epanouissement et socialisation des publics par la mise en place d'activités socioéducatives
 
-- Sécurisation physique, morale et affective des personnes
+-Sécurisation physique, morale et affective des personnes
 
-- Gestion du groupe et du temps
+-Gestion du groupe et du temps
 
-- Respect du rythme, de l'initiative, de la créativité du public
+-Respect du rythme, de l'initiative, de la créativité du public
 
-- Satisfaction des participants |
+-Satisfaction des participantsFonction |
 
-Fonction 3 : Animation visant l'épanouissement, la socialisation et l'exercice des droits citoyens |
-
-|
-
-□ A.3.1. Conception d'activités socioéducatives et socioculturelles
-
-□ A.3.2. Réalisation d'activités socioéducatives et socioculturelles
-
-■ A.3.3. Encadrement du public sur l'intégralité du temps d'accueil |
+3 : Animation visant l'épanouissement, la socialisation et l'exercice des droits citoyens |
 
 |
 
-Tâches |
+□ A. 3.1. Conception d'activités socioéducatives et socioculturelles
 
-- Accueil du public dans sa diversité et au cours des différents temps de la journée
+□ A. 3.2. Réalisation d'activités socioéducatives et socioculturelles
 
-- Présentation au public des activités proposées au sein de la structure
+■ A. 3.3. Encadrement du public sur l'intégralité du temps d'accueilTâches |
 
-- Dialogue avec les acteurs éducatifs et/ou les partenaires
+|
 
-- Observation des attitudes, des comportements et des interactions sociales
+|
 
-- Repérage, traitement et/ou signalement des situations particulières au responsable
+-Accueil du public dans sa diversité et au cours des différents temps de la journée
 
-- Organisation et animation des temps transitionnels, informels et/ou de vie quotidienne dans un cadre sécurisant |
+-Présentation au public des activités proposées au sein de la structure
 
-Conditions d'exercice |
+-Dialogue avec les acteurs éducatifs et/ ou les partenaires
 
-Moyens et ressources |
+-Observation des attitudes, des comportements et des interactions sociales
 
-- Données et informations
+-Repérage, traitement et/ ou signalement des situations particulières au responsable
 
-- cadre règlementaire des accueils collectifs de mineurs
+-Organisation et animation des temps transitionnels, informels et/ ou de vie quotidienne dans un cadre sécurisantConditions |
 
-- ressources documentaires internes (projet de la structure, projet éducatif, projet pédagogique…)
+d'exerciceMoyens |
 
-- supports de communication : planning d'activités, documents de présentation, organigramme, outils de liaison, compte rendu de réunion
+et ressources |
 
-- fiches de poste de l'animateur
+-Données et informations
 
-- Equipements
+-cadre règlementaire des accueils collectifs de mineurs
 
-- matériel informatique et logiciels
+-ressources documentaires internes (projet de la structure, projet éducatif, projet pédagogique …)
 
-- outils de communication
+-supports de communication : planning d'activités, documents de présentation, organigramme, outils de liaison, compte rendu de réunion
 
-- Liaisons - relations
+-fiches de poste de l'animateur
 
-- avec le responsable de la structure
+-Equipements
 
-- avec le public
+-matériel informatique et logiciels
 
-- avec l'équipe pluriprofessionnelle
+-outils de communication
 
-- avec les partenaires : bénévoles, intervenants, les acteurs éducatifs
+-Liaisons-relations
 
-- avec les familles |
+-avec le responsable de la structure
 
-Autonomie et responsabilité |
+-avec le public
 
-Autonomie |
+-avec l'équipe pluriprofessionnelle
 
-Partielle □ |
+-avec les partenaires : bénévoles, intervenants, les acteurs éducatifs
+
+-avec les famillesAutonomie |
+
+et responsabilitéAutonomiePartielle |
+
+|
+
+□ |
 
 Totale ■ |
 
-Responsabilité |
+ResponsabilitéDes |
 
-Des personnes ■ |
+personnes ■ |
 
 Des moyens ■ |
 
@@ -1024,25 +1024,25 @@ Du résultat ■ |
 
 Résultats attendus |
 
-- Accueil adapté aux différents publics
+-Accueil adapté aux différents publics
 
-- Sécurité physique et affective continue en direction des publics accueillis
+-Sécurité physique et affective continue en direction des publics accueillis
 
-- Mise en œuvre d'attitudes éducatives auprès des publics
+-Mise en œuvre d'attitudes éducatives auprès des publics
 
-- Communication adaptée aux situations et aux différents interlocuteurs
+-Communication adaptée aux situations et aux différents interlocuteurs
 
-- Gestion des temps transitionnels, informels et de la vie quotidienne |
+-Gestion des temps transitionnels, informels et de la vie quotidienne |
 
-(1) La distinction opérée entre animateurs généralistes et animateurs spécialisés ou techniciens renvoie dans la pratique à un positionnement sur des situations d'animation exigeant des compétences générales d'un niveau important dans le premier cas et des compétences spécifiques très développées, liées directement à des activités (sportives, scientifiques, culturelles, techniques…) dont elles permettent la mise en œuvre, dans le second cas.
+(1) La distinction opérée entre animateurs généralistes et animateurs spécialisés ou techniciens renvoie dans la pratique à un positionnement sur des situations d'animation exigeant des compétences générales d'un niveau important dans le premier cas et des compétences spécifiques très développées, liées directement à des activités (sportives, scientifiques, culturelles, techniques …) dont elles permettent la mise en œuvre, dans le second cas.
 
 (2) La démarche d'animation consiste en la mobilisation de compétences générales et spécifiques autour d'un projet d'autonomisation et de socialisation d'un groupe d'individus en rapport avec leur milieu et leur environnement, à partir d'une activité ou d'un ensemble d'activités qui servent de supports et de moyens au projet proprement dit (Jean Claude Gillet, 1995).
 
-(3) On a exclu du spectre d'intervention l'animation dans le champ de l'insertion et de l'urgence sociale, dans le secteur de la formation - insertion, celui de la prévention spécialisée, ainsi que dans les établissements hospitaliers (autre que le service de gérontologie) et les structures d'accueil des personnes handicapées. En effet la réalité du travail des animateurs dans ces contextes professionnels nécessite soit une qualification professionnelle de niveau III de la filière Animation, soit un autre diplôme du travail social (éducateur de jeunes enfants, éducateur spécialisé, conseiller en économie sociale familiale, moniteur éducateur, etc.).
+(3) On a exclu du spectre d'intervention l'animation dans le champ de l'insertion et de l'urgence sociale, dans le secteur de la formation-insertion, celui de la prévention spécialisée, ainsi que dans les établissements hospitaliers (autre que le service de gérontologie) et les structures d'accueil des personnes handicapées. En effet la réalité du travail des animateurs dans ces contextes professionnels nécessite soit une qualification professionnelle de niveau III de la filière Animation, soit un autre diplôme du travail social (éducateur de jeunes enfants, éducateur spécialisé, conseiller en économie sociale familiale, moniteur éducateur, etc.).
 
-(5) Projet d'animation : principe d'action qui fonde le caractère spécifique du mode d'intervention de l'animateur et qui est au cœur de sa professionnalité. La méthode de base de l'animateur repose sur la notion de projet . Ce mot dont le sens initial signifie ce que l'on se propose de faire recouvre en fait chacune des étapes du processus d'animation, qui va de l'analyse du milieu, au bilan de (ou des activités) proposée(s), en passant par sa réalisation. L'activité proposée quelle qu'elle soit n'est jamais qu'un support. Le projet d'animation donne sens aux activités d'animation mises en œuvre. Généralement il s'inscrit dans un projet plus global (d'un établissement, d'un service ou d'un projet social de territoire). à un niveau inférieur, il peut se décliner en projets d'activités.
+(5) Projet d'animation : principe d'action qui fonde le caractère spécifique du mode d'intervention de l'animateur et qui est au cœur de sa professionnalité. La méthode de base de l'animateur repose sur la notion de projet. Ce mot dont le sens initial signifie ce que l'on se propose de faire recouvre en fait chacune des étapes du processus d'animation, qui va de l'analyse du milieu, au bilan de (ou des activités) proposée (s), en passant par sa réalisation. L'activité proposée quelle qu'elle soit n'est jamais qu'un support. Le projet d'animation donne sens aux activités d'animation mises en œuvre. Généralement il s'inscrit dans un projet plus global (d'un établissement, d'un service ou d'un projet social de territoire). à un niveau inférieur, il peut se décliner en projets d'activités.
 
-(6) L'animation visant le maintien de l'autonomie peut être considérée comme l'outil qui permet à l'individu âgé de vivre une existence citoyenne, soit en préservant l'activité qui était la sienne avant sa venue en établissement, soit en stimulant ses possibilités d'agir, soit encore en agissant sur la notion de plaisir qui lui est propre, et ne saurait être le plaisir de ceux qui les soignent ou de ceux qui organisent l'animation (B Hervy - R Vercauteren, 2011). Il s'agit donc de l'autonomie sociale, registre de compétences des intervenants sociaux auprès des personnes âgées en difficulté avec le lien social et nullement de l'autonomie fonctionnelle évaluée par le corps médical et compensée par des soins et autres services pertinents.
+(6) L'animation visant le maintien de l'autonomie peut être considérée comme l'outil qui permet à l'individu âgé de vivre une existence citoyenne, soit en préservant l'activité qui était la sienne avant sa venue en établissement, soit en stimulant ses possibilités d'agir, soit encore en agissant sur la notion de plaisir qui lui est propre, et ne saurait être le plaisir de ceux qui les soignent ou de ceux qui organisent l'animation (B Hervy-R Vercauteren, 2011). Il s'agit donc de l'autonomie sociale, registre de compétences des intervenants sociaux auprès des personnes âgées en difficulté avec le lien social et nullement de l'autonomie fonctionnelle évaluée par le corps médical et compensée par des soins et autres services pertinents.
 
 (7) Fonctions : ensemble d'activités, individuelles ou d'entreprise concourant à une même finalité.
 
@@ -1055,3 +1055,9 @@ Résultats attendus |
 Autonomie : latitude laissée au salarié de décider et d'agir pour exercer une influence sur son travail et sur les activités de la structure.
 
 Responsabilité : capacité à prendre des décisions à l'égard des personnes, des moyens, des produits, de l'environnement, sans en référer préalablement à la hiérarchie.
+
+NOTA :
+
+Conformément au I de l'article 4 du décret n° 2022-24 du 11 janvier 2022, ces dispositions entrent en vigueur le 1er juin 2023.
+
+Se reporter aux II, III et IV du même article pour les conditions d'application.
