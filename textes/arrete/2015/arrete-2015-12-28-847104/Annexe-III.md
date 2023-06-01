@@ -10,11 +10,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 - Chargé de mission auprès du directeur des soutiens et des finances (1 emploi)
 
-- Chargé de mission au sein de la sous-direction de la police judiciaire (1 emploi)
-
 - Chargé de projet au sein du département du personnel officier (1 emploi)
 
-- Chargé de projet au sein de la sous-direction de la police judiciaire (1 emploi)
+- Chargé de projet au sein de la sous-direction de la police judiciaire (2 emplois)
 
 - Commandant militaire du site de la direction générale de la gendarmerie nationale
 
@@ -470,4 +468,4 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 31 janvier 2023 (NOR : IOMJ2302669A), ces dispositions entrent en vigueur le 1er février 2023.
+Conformément à l’article 2 de l’arrêté du 10 mai 2023 (NOR : IOMJ2309237A), ces dispositions entrent en vigueur le 1er juin 2023.
