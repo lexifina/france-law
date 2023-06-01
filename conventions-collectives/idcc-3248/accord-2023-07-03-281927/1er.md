@@ -1,0 +1,3 @@
+# Article 1er
+
+Les dispositions du présent titre s'appliquent aux personnels ouvriers, administratifs et techniciens, agents de maîtrise, agents de maîtrise d'atelier.
