@@ -336,7 +336,7 @@ Pour les installations en libre service sans surveillance, le volume délivré p
 
 2.2.9. Les flexibles
 
-Les flexibles de distribution sont conformes à la norme NF EN 1360 de novembre 2005 (pour l'aviation, les flexibles sont conformes aux dispositions prévues dans la norme spécifique en vigueur). Les flexibles sont entretenus en bon état de fonctionnement et remplacés au plus tard six ans après leur date de fabrication. Dans le cas des installations exploitées en libre service, les flexibles autres que ceux présentant une grande longueur et destinés au transvasement de gazole et de carburants aviation sont équipés de dispositifs de manière à ce qu'ils ne traînent pas sur l'aire de distribution.
+Les flexibles de distribution sont conçus de sorte à assurer la sécurité de l'installation. Le respect de la norme NF EN 1360 est présumé satisfaire à cette exigence (pour l'aviation, les flexibles sont conformes aux dispositions prévues dans la norme spécifique en vigueur). Les flexibles sont entretenus en bon état de fonctionnement et remplacés au plus tard six ans après leur date de fabrication. Dans le cas des installations exploitées en libre service, les flexibles autres que ceux présentant une grande longueur et destinés au transvasement de gazole et de carburants aviation sont équipés de dispositifs de manière à ce qu'ils ne traînent pas sur l'aire de distribution.
 
 Les rapports d'entretien et de vérification sont tenus à la disposition de l'inspection des installations classées. Un dispositif approprié empêche que le flexible ne subisse une usure due à un contact répété avec le sol. Le flexible est changé après toute dégradation.
 
@@ -358,7 +358,7 @@ Dans les installations exploitées en libre service surveillé, l'agent d'exploi
 
 Pour la distribution et le stockage du superéthanol, des arrête-flammes sont systématiquement prévus en tous points où une transmission d'explosion vers les réservoirs est possible.
 
-Tous les arrête-flammes du circuit de récupération des vapeurs pour la distribution et le stockage de superéthanol respectent la norme NF EN 12874 de janvier 2001 ou toute norme équivalente en vigueur dans la Communauté européenne ou l'Espace économique européen.
+Tous les arrête-flammes du circuit de récupération des vapeurs pour la distribution et le stockage de superéthanol sont conçus de sorte à assurer la sécurité de l'installation. Le respect de la norme NF EN 12874 ou de la norme NF EN ISO 16852 est présumé satisfaire à cette exigence.
 
 Les opérations de dépotage de liquides inflammables ne peuvent être effectuées qu'après mise à la terre des camions citernes et connexion le cas échéant des systèmes de récupération de vapeurs entre le véhicule et les bouches de dépotage.
 
@@ -534,7 +534,7 @@ Dans le cas où les aires de dépotage et de distribution définies au point 1 d
 
 Les aires de dépotage, de remplissage et de distribution de liquides inflammables sont étanches aux produits susceptibles d'y être répandus et conçues de manière à permettre le drainage de ceux-ci. Dans le cas du ravitaillement bateau, l'étanchéité de l'aire de distribution se limite à la zone terrestre.
 
-Les liquides ainsi collectés sont traités au moyen d'un décanteur-séparateur d'hydrocarbures muni d'un dispositif d'obturation automatique. Ce décanteur-séparateur est conçu et dimensionné de façon à évacuer un débit minimal de 45 litres par heure, par mètre carré de l'aire considérée, sans entraînement de liquides inflammables. Le séparateur-décanteur est conforme à la norme NF EN 858-1, version novembre 2002.
+Les liquides ainsi collectés sont traités au moyen d'un décanteur-séparateur d'hydrocarbures muni d'un dispositif d'obturation automatique. Ce décanteur-séparateur est conçu et dimensionné de façon à évacuer un débit minimal de 45 litres par heure, par mètre carré de l'aire considérée, sans entraînement de liquides inflammables. Le séparateur-décanteur est conçu de sorte à assurer la sécurité et la performance de l'installation. Le respect de la norme NF EN 858-1 est présumé satisfaire à cette exigence.
 
 Le décanteur-séparateur est nettoyé par une entité habilitée aussi souvent que cela est nécessaire, et dans tous les cas au moins une fois par an. Ce nettoyage consiste en la vidange des hydrocarbures et des boues ainsi qu'en la vérification du bon fonctionnement de l'obturateur. L'entité habilitée fournit la preuve de la destruction ou du retraitement des déchets rejetés. Les fiches de suivi de nettoyage du séparateur-décanteur d'hydrocarbures sont tenues à disposition de l'inspecteur des installations classées.
 

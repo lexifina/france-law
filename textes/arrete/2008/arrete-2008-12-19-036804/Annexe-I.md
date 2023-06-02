@@ -642,13 +642,13 @@ Dans les installations déclarées après le 3 août 2003 et exploitées en libr
 
 Pour la distribution et le stockage du superéthanol, des arrête-flammes sont systématiquement prévus en tous points où une transmission d'explosion vers les réservoirs est possible.
 
-Tous les arrête-flammes du circuit de récupération des vapeurs pour la distribution et le stockage de superéthanol respectent la norme EN 12874 de janvier 2001 ou toute norme équivalente en vigueur dans la Communauté européenne ou l'Espace économique européen.
+Tous les arrête-flammes du circuit de récupération des vapeurs pour la distribution et le stockage de superéthanol sont conçus de sorte à assurer la sécurité de l'installation. Le respect de la norme NF EN 12874 ou de la norme NF EN ISO 16852 est présumé satisfaire à cette exigence.
 
 Objet du contrôle :
 
 -présence d'arrête-flammes ou, en cas d'impossibilité d'accès à ces derniers, présentation d'un document justifiant leur présence (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--présentation du justificatif de conformité à la norme NF EN 12874 de janvier 2001.
+-présentation du justificatif de conformité à la norme NF EN 12874 ou à un autre référentiel garantissant un niveau de sécurité au moins équivalent.
 
 4.10. Réservoirs et tuyauteries
 
@@ -916,7 +916,7 @@ Le retour des vapeurs dans les réservoirs fixes des stations-service s'effectue
 
 Le système de récupération de vapeurs nécessite la mise en place de dispositifs antiretour de flamme de part et d'autre de tout élément susceptible de générer une ignition du mélange gazeux.
 
-Les dispositifs arrête-flamme (aussi appelés antiretour de flamme) sont conformes à la norme NF EN 12874, ou aux normes ou spécifications techniques ou aux procédés de fabrication prévus dans les réglementations d'un État membre de l'Union européenne ou d'un autre Etat partie à l'accord instituant l'Espace économique européen, assurant un niveau de sécurité équivalent.
+Les dispositifs arrête-flamme (aussi appelés antiretour de flamme) sont conçus de sorte à assurer la sécurité de l'installation. Le respect de la norme NF EN 12874 ou de la norme NF EN ISO 16852 est présumé satisfaire à cette exigence.
 
 Le système de dépression, la connexion entre la sortie des vapeurs et le raccordement de l'équipement à la tuyauterie de retour des vapeurs d'essence vers le réservoir, notamment, sont considérés comme des éléments susceptibles de générer une ignition du mélange gazeux.
 

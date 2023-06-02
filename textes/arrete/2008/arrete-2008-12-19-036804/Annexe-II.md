@@ -28,7 +28,7 @@ Les émissions de base et résiduelles sont déterminées en collectant les vape
 
 3.2.1. Caractéristiques des pistolets de distribution
 
-Les émissions de base sont mesurées lors d'un remplissage avec un pistolet équipé d'un embout pour essence sans plomb conforme à la norme NF ISO 9158 et non équipé d'un système de récupération de vapeur.
+Les émissions de base sont mesurées lors d'un remplissage avec un pistolet équipé d'un embout pour essence sans plomb présentant toutes les garanties de sûreté, notamment en terme d'accrochage, lors du remplissage du réservoir et non équipé d'un système de récupération de vapeur. Le respect de la norme NF ISO 9158 est présumé satisfaire à cette exigence.
 
 Le pistolet équipé pour la récupération de vapeurs faisant partie du système à tester doit être capable de délivrer l'essence avec un débit égal à ± 0,5 1/mn à celui du pistolet de référence défini ci-dessus.
 

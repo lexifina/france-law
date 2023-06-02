@@ -414,7 +414,7 @@ Objet du contrôle du point 2.2.3 :
 
 Les locaux abritant le stockage de liquides inflammables aériens présentent les caractéristiques de réaction et de résistance au feu minimales suivantes :
 
-- les parois extérieures si elles existent, sont construites en matériaux de classe A1 selon la norme NF EN 13 501-1 (incombustible) ;
+- les parois extérieures si elles existent, sont construites en matériaux garantissant la sécurité de l'installation (incombustible). Le respect de la classe A1 de la norme NF EN 13501-1 est présumé satisfaire à cette exigence ;
 
 - murs extérieurs et murs séparatifs REI 120 ;
 
@@ -1004,7 +1004,7 @@ Objet du contrôle pour les évents :
 
 - présence d'arrête-flammes ou, en cas d'impossibilité d'accès à ces derniers, présentation d'un document justifiant leur présence (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présentation d'un justificatif de conformité des arrête-flammes à la norme NF EN 12874 de janvier 2001 (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présentation d'un justificatif de conformité des arrête-flammes à la norme NF EN 12874, à la norme NF EN ISO 16852 ou à tout autre référentiel garantissant un niveau de sécurité au moins équivalent (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - les évents des stockages de liquides inflammables soumis à la récupération des vapeurs sont séparés des autres évents (le non-respect de ce point relève d'une non-conformité majeure).
 
@@ -1048,7 +1048,7 @@ Objet du contrôle :
 
 5.2.1. Réservoirs
 
-Les réservoirs à axe horizontal sont conformes à la norme NF EN 12285-2 dans sa version en vigueur le jour de la mise en place du réservoir ou à toute norme équivalente en vigueur dans l'Union européenne ou l'Espace économique européen.
+Les réservoirs à axe horizontal sont conçus de sorte à garantir la sécurité de l'installation. Le respect de la norme NF EN 12285-2 est présumé satisfaire à cette exigence.
 
 Les réservoirs non conformes à la norme NF EN 12285-2 ou à toute norme équivalente en vigueur dans l'Union européenne ou l'Espace économique européen, installés avant la date de parution du présent arrêté augmentée de six mois sont stratifiés sur toute la surface en contact direct avec le sol avec une continuité de 70 centimètres minimum au-dessus de la ligne de contact avec le sol. Le matériau de stratification est compatible avec les produits susceptibles d'être contenus dans le réservoir et avec l'eau.
 
@@ -1100,7 +1100,7 @@ Objet du contrôle :
 
 5.2.5. Limiteur de remplissage
 
-Le limiteur de remplissage, lorsqu'il existe, est conforme à la norme NF EN 13616 dans sa version en vigueur le jour de la mise en place du dispositif ou à toute norme équivalente en vigueur dans l'Union européenne ou l'Espace économique européen.
+Le limiteur de remplissage, lorsqu'il existe, est conçu de sorte à assurer la sécurité de l'installation. Le respect des normes NF EN 13616-1 ou NF EN 13616-2 est présumé satisfaire à cette exigence.
 
 Sur chaque tuyauterie de remplissage et à proximité de l'orifice de remplissage du réservoir est mentionnée de façon apparente la pression maximale de service du limiteur de remplissage quand il y en a un.
 
@@ -1118,7 +1118,7 @@ Ils ont une section totale au moins égale à la moitié de la somme des section
 
 Dans tous les cas où le réservoir est sur rétention, les évents dudit réservoir débouchent au-dessus de la cuvette de rétention.
 
-Pour le stockage du superéthanol ou des dérivés d'éthanol, des arrête-flammes sont systématiquement prévus en tous points où une transmission d'explosion vers les réservoirs est possible. Ils sont conformes à la norme EN 12874 dans sa version en vigueur à la date de leur mise en service ou à toute norme équivalente en vigueur dans l'Union européenne ou l'Espace économique européen.
+Pour le stockage du superéthanol ou des dérivés d'éthanol, des arrête-flammes sont systématiquement prévus en tous points où une transmission d'explosion vers les réservoirs est possible. Ils sont conçus de sorte à assurer la sécurité de l'installation. Le respect de la norme NF EN 12874 ou de la norme NF EN ISO 16852 est présumé satisfaire à cette exigence.
 
 Les évents des réservoirs ou des compartiments d'un réservoir qui contiennent des produits non soumis aux dispositions de récupération des vapeurs débouchent à l'air libre et sont isolés des évents soumis aux dispositions de récupération des vapeurs qui les gardent confinés, y compris en cas de changement d'affectation des réservoirs.
 
@@ -1431,7 +1431,3 @@ Outre les dispositions prévues au point 1.7 de la présente annexe et sans pré
 - tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués vers des installations dûment autorisées ;
 
 - les réservoirs et les tuyauteries de liquides inflammables ou de tout autre produit susceptible de polluer les eaux ont été vidés, nettoyés, dégazés et, le cas échéant, décontaminés, puis neutralisés par un solide physique inerte, sauf s'ils ont été retirés, découpés et ferraillés vers des installations dûment autorisées au titre de la législation des installations classées.
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 22 septembre 2021 (NOR : TREP2128173A), ces dispositions entrent en vigueur le 1er janvier 2022.
