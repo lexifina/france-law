@@ -2,7 +2,7 @@
 
 I.-1. Sous réserve de l'article 1635 quater N, le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale à fiscalité propre vote le taux de taxe d'aménagement dans les conditions prévues au II de l'article 1639 A et dans les limites prévues au I de l'article 1635 quater M.
 
-Dans les communes et les établissements publics de coopération intercommunale mentionnés au 1° du I de l'article 1635 quater A, à défaut de délibération fixant le taux, ce dernier est fixé à 1 % ;
+Dans les communes et les établissements publics de coopération intercommunale mentionnés au 1° du I de l'article 1635 quater A, à défaut de délibération fixant le taux, ce dernier est fixé à 1 %.
 
 2. Les organes délibérants mentionnés au 1 du présent I peuvent fixer des taux différents par secteur de leur territoire, dans les limites prévues au I de l'article 1635 quater M.
 
@@ -14,6 +14,4 @@ III.-Le conseil régional d'Ile-de-France ayant institué la taxe d'aménagement
 
 NOTA :
 
-Conformément à l'article 16 de l'ordonnance n° 2022-883 du 14 juin 2022, ces dispositions s'appliquent à compter de la date résultant du B du VI de l'article 155 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021.
-
-Se reporter aux conditions d'application prévues à l’article 1er du décret n° 2022-1102 du 1er août 2022.
+Modifications effectuées en conséquence de l’article 1er de l'ordonnance n° 2022-883 du 14 juin 2022.

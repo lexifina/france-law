@@ -18,7 +18,7 @@ La taxe est liquidée selon les mêmes modalités que celles prévues au II du m
 
 V.-La taxe d'archéologie préventive est exigible à la date d'achèvement des opérations imposables dans les conditions prévues à l'article 1635 quater G.
 
-VI.-L'assiette de la taxe d'archéologie préventive est constituée par la valeur de l'ensemble immobilier servant d'assiette à la taxe d'aménagement déterminée selon les modalités prévues aux articles 1635 quater H à 1635 quater K ;
+VI.-L'assiette de la taxe d'archéologie préventive est constituée par la valeur de l'ensemble immobilier servant d'assiette à la taxe d'aménagement déterminée selon les modalités prévues aux articles 1635 quater H à 1635 quater K.
 
 Son taux est égal à 0,40 %.
 

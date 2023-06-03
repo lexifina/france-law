@@ -20,9 +20,9 @@ IV. – (Abrogé).
 
 V. – (Abrogé).
 
-VI. – Sans préjudice des dispositions du I, les fonctionnaires de la direction générale des finances publiques appartenant à des corps de catégorie C sont également compétents pour procéder au contrôle et proposer des rectifications de la taxe prévue au I de l'article 1605 du code général des impôts.
+VI. – (Sans objet).
 
-VII. – Par dérogation aux dispositions du II, les fonctionnaires compétents pour procéder au contrôle et proposer des rectifications de la taxe prévue au I de l'article 1605 précité exercent leurs attributions dans le ressort territorial de la région dans laquelle est situé le service auquel ils sont affectés ou, s'il est plus étendu, dans le ressort territorial de ce service.
+VII. – (Sans objet).
 
 VIII. – Par dérogation au II, les fonctionnaires mentionnés au premier alinéa du I peuvent exercer les attributions que cet alinéa leur confère pour le contrôle :
 
@@ -41,3 +41,9 @@ e) Les personnes transférant leur domicile hors de France, imposables en France
 2° Des déclarations souscrites et des retenues et perceptions à la source dues par les établissements payeurs et débiteurs divers à raison des rémunérations, revenus et gains de toute nature versés à des personnes physiques ou morales, groupements ou entités domiciliés ou établis en France ou hors de France ;
 
 3° Des exonérations, abattements, remboursements ou restitutions, quelle qu'en soit la nature, qui bénéficient aux personnes, groupements ou entités domiciliés ou établis en France ou hors de France ainsi qu'aux organisations internationales établies dans ce pays.
+
+NOTA :
+
+Les VI et VII deviennent sans objet.
+
+Modifications effectuées en conséquence de l'article 6-II-6° de la loi n° 2022-1157 du 16 août 2022.

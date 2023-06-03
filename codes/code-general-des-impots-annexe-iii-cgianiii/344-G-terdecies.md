@@ -56,7 +56,7 @@ a. Son nom et prénom ou sa raison sociale ;
 
 b. Son numéro international de compte bancaire (IBAN ou équivalent).
 
-II. - Lorsque l'Etat ou territoire duquel le vendeur ou prestataire est résident figure sur une liste fixée par arrêté du ministre chargé du budget précisant ceux de ces Etats ou territoires qui n'exigent pas que leur soit transmise cette information, l'opérateur de plateforme est dispensé de communiquer le numéro d'identification fiscal mentionné aux iv du a et iii du b du 2 du I.
+II. - Lorsque l'Etat ou territoire duquel le vendeur ou prestataire est résident figure sur une liste fixée par arrêté du ministre chargé du budget précisant ceux de ces Etats ou territoires qui n'exigent pas que leur soit transmise cette information, l'opérateur de plateforme est dispensé de communiquer le numéro d'identification fiscale mentionné aux iv du a et iii du b du 2 du I.
 
 III. - Lorsque l'opérateur de plateforme établit l'identité et la résidence fiscale du vendeur ou prestataire en s'appuyant sur une confirmation directe obtenue par l'intermédiaire d'un service d'identification mis à disposition par l'Union européenne, un Etat ou un territoire, l'opérateur de plateforme est dispensé de communiquer les informations mentionnées aux ii à v du a et aux ii à v du b du 2 du I.
 
@@ -66,4 +66,4 @@ V. - La liste des Etats ou territoires de résidence donnant lieu à déclaratio
 
 NOTA :
 
-Conformément à l'article 2 du décret n° 2022-1661 du 26 décembre 2022, ces dispositions entrent en vigueur au 1er janvier 2023.
+Modifications effectuées en conséquence du décret n° 2022-1661 du 26 décembre 2022.
