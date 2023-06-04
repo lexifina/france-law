@@ -1,11 +1,7 @@
 # Article 1er
 
-La présente convention règle les rapports entre les employeurs et les salariés de la couture.
+La présente convention collective nationale règle les rapports entre les employeurs et les salariés de la couture parisienne et des autres métiers de la mode, dans le cadre de la fusion conventionnelle organisée par le code du travail.
 
-Des annexes régleront les conditions particulières se rapportant aux ouvriers, employés, agents de maîtrise, cadres.
+L'annexe « travailleurs à domicile » règle en tant que de besoin, les conditions particulières se rapportant à cette catégorie de personnel.
 
-Une annexe détermine les conditions concernant le travail à domicile.
-
-NOTA :
-
-(1) L'avenant n°32 a été signé par FO, la CFDT, la CFTC et la CGC.
+Le cas échéant, toute référence à un texte de loi, règlement, code ou autre s'entend d'une référence à ce texte tel qu'ultérieurement modifié, complété ou remplacé.
