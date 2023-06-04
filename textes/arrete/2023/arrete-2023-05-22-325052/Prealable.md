@@ -1,0 +1,3 @@
+# Article Préalable
+
+Sont dénommées collectivités ou établissements publics délégataires pour l'ensemble du règlement général de l'agence les départements ou les établissements publics de coopération intercommunale (EPCI) ayant conclu la convention mentionnée à l'article L. 321-1-1 du code de la construction et de l'habitation (CCH), qui prévoit la possibilité de leur déléguer les crédits de l'ANAH et permet au président du conseil départemental ou de l'EPCI d'attribuer les subventions pour le compte de l'ANAH aux bénéficiaires mentionnés aux I et II de l'article R. 321-12 du CCH. Dans le présent document, on entend par " le délégataire ", le président de l'EPCI ou du conseil départemental.
