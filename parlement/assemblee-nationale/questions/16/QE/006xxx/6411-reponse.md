@@ -1,0 +1,9 @@
+# Réponse à la question n° 6411
+
+- Question : [6411](6411.md) — Question n° 6411 — Encadrement des coursiers des applications de livraison de plats cuisinés
+
+## Réponse
+
+*JO du 2023-06-06, page 5183*
+
+Une attestation de capacité professionnelle est nécessaire pour exercer la profession de dirigeant d'entreprise de transporteur routier de marchandises (léger ou lourd). Elle est délivrée par les services de la direction régionale de l'environnement, de l'aménagement et du logement. La délivrance de cette capacité permet aux services de l'Etat de s'assurer que la société est bien en règle et que le dirigeant a été formé afin de maitriser son métier (connaissances en acheminement des biens et des personnes, en mécanique et en entretien de véhicule, en gestion de transport et en manutention). Les coursiers de plateformes de mise en relation qui ont opté pour le statut social de travail indépendant ou auto-entrepreneur sont soumis à l'obtention de cette capacité en tant que dirigeant de leur société. La formation nécessaire à l'obtention de cette capacité est éligible au compte professionnel de formation. En date du 6 avril 2023, 4 certifications différentes, enregistrées au répertoire spécifique auprès de France compétences, sont proposées par 269 organismes de formations. L'offre proposée par ces organismes de formation sur la plateforme MonCompteFormation correspond à 840 formations différentes et à 6 998 sessions ouvertes dont 39,4 % sont proposées uniquement en présentiel, 50 % en mixte présentiel/distanciel et 10,6 % uniquement à distance. Le prix moyen relevé est de 1 369 euros. La Caisse des dépôts et consignations a recensé une consommation sur ces certifications de 29 560 dossiers de formations souscrites en 2022 et 10 311 dossiers en 2023 (fin avril). 36 % de ces stagiaires sont des demandeurs d'emploi. 3 170 dossiers sur la période 2022-2023 ont été réalisés dans la région Auvergne Rhône-Alpes.
