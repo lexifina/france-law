@@ -1,0 +1,9 @@
+# Réponse à la question n° 5184
+
+- Question : [5184](5184.md) — Question n° 5184 — Complexité des formalités relatives au pension de réversion
+
+## Réponse
+
+*JO du 2023-06-06, page 5114*
+
+La pension de réversion correspond à une partie de la retraite dont bénéficiait la personne décédée. Elle est reversée sous certaines conditions au conjoint survivant. La gestion de cette procédure relève du ministère du travail, du plein emploi et de l'insertion ainsi que des différents régimes de retraite, selon l'emploi qu'occupait l'ancien combattant décédé. Il est également rappelé que la retraite du combattant allouée aux anciens combattants est une allocation et est en cela distincte des pensions militaire ou civile de retraite qu'ils touchent au titre de leur carrière professionnelle. Elle n'est pas réversible au profit du conjoint survivant. Elle changera prochainement de nom pour devenir l'allocation de reconnaissance du combattant. Toutefois, conscients des difficultés que peuvent rencontrer les veuves d'anciens combattants au moment du décès de ces derniers, les services départementaux de l'Office national des combattants et des victimes de guerre (ONaCVG) leur viennent en aide durant cette période difficile. Chaque année, près de 12 millions d'euros sont consacrés au soutien des veuves et conjoints survivants en difficulté, soit près de la moitié du budget d'action sociale de l'ONaCVG. En effet, ne devenant ressortissantes de l'ONaCVG qu'au décès de leur conjoint, ces veuves font partie des ressortissants de l'Office ayant les plus faibles revenus en raison de parcours professionnels souvent écourtés ou chaotiques. L'ONaCVG leur accorde donc une attention toute particulière en les aidant à financer tout ou partie des frais d'obsèques de leur conjoint et en intervenant financièrement durant la période d'attente de la pension de réversion et au-delà si nécessaire.
