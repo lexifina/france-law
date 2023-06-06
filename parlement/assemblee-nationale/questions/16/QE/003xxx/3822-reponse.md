@@ -1,0 +1,9 @@
+# Réponse à la question n° 3822
+
+- Question : [3822](3822.md) — Question n° 3822 — Financements des centres sociaux en QPV et QVA
+
+## Réponse
+
+*JO du 2023-06-06, page 5187*
+
+Le Gouvernement est fortement mobilisé pour déployer la politique d'animation de la vie sociale dans les territoires. Les centres sociaux et les espaces d'animation de la vie sociale sont en effet des outils privilégiés pour faciliter l'intégration sociale des familles et des habitants dans leur environnement et contribuer à la cohésion sociale dans les territoires. Ainsi, la Convention d'Objectifs et de Gestion (COG) signée entre l'Etat et la Branche Famille pour la période 2018-2022 a prévu le soutien financier à la création de 260 structures nouvelles dans les quartiers prioritaires de la politique de la ville non couverts. Dans le cadre de la stratégie nationale de prévention et de lutte contre la pauvreté, lancée en 2018, l'accent a également été mis sur le développement des centres sociaux dans les quartiers prioritaires de la politique de la ville avec pour objectif la création de 300 centres sociaux dans ces territoires. Ces mesures de rééquilibrage territorial visent à garantir un soutien à toutes les familles, particulièrement les plus précaires ayant un moindre accès à leurs droits, aux services de soutien à la parentalité et aux lieux éducatifs pour les enfants. Sur la période 2018-2022, ces objectifs ont été atteints. 492 espaces de vie sociale et 94 centres sociaux ont été créés ou sont en cours de création. Le Gouvernement accorde une attention particulière au financement des centres sociaux : il fait l'objet de négociations dans le cadre de la future Convention d'Objectifs et de Gestion (COG) qui sera signée entre l'Etat et la Branche Famille sur la période 2023-2027 ainsi que dans le cadre du futur pacte des solidarités.
