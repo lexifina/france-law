@@ -2,9 +2,9 @@
 
 LISTE DES PERSONNES AYANT ACCÈS AUX DONNÉES À CARACTÈRE PERSONNEL ENREGISTRÉES DANS LE TRAITEMENT MENTIONNÉ À L'ARTICLE 1ER
 
-1° Les personnes et agents habilités par la délégation générale à l'emploi et à la formation professionnelle pour le pilotage des dispositifs, simplification des circuits, information des employeurs et alternants ;
+1° Les personnes et agents habilités par la délégation générale à l'emploi et à la formation professionnelle et ses sous-traitants ;
 
-2° Les personnes et agents habilités par les opérateurs de compétence pour le dépôt et financement des contrats ;
+2° Les personnes et agents habilités par les opérateurs de compétence ;
 
 3° Les personnes et agents habilités par l'agence de services et de paiement ;
 
@@ -14,4 +14,6 @@ LISTE DES PERSONNES AYANT ACCÈS AUX DONNÉES À CARACTÈRE PERSONNEL ENREGISTR�
 
 6° Les personnes et agents habilités par les directions régionales de l'économie, de l'emploi, du travail et des solidarités ;
 
-7° Les personnes et agents habilités par les directions départementales de l'emploi, du travail et des solidarités.
+7° Les personnes et agents habilités par les directions départementales de l'emploi, du travail et des solidarités ;
+
+8° Les personnes et agents habilités par les organismes gestionnaires des branches du régime général de la sécurité sociale.

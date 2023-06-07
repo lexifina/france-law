@@ -12,173 +12,203 @@ Employeur |
 
 Données d'identification |
 
-- Nom et prénom ou dénomination
+Nom et prénom ou dénomination
 
-- Adresse
+Courriel
 
-- Courriel
+Téléphone
 
-- Téléphone
+Adresse de l'établissement d'exécution du contrat
 
-- Adresse de l'établissement d'exécution du contrat
+Numéro d'identification technique
 
-- Numéro d'identification technique
+Type d'employeur
 
-- Type d'employeur
+Employeur spécifique
 
-- Employeur spécifique
+SIRET
 
-- SIRET |
+Effectif total salariés de l'entreprise
+
+Code identifiant de la convention collective (IDCC) applicable |
 
 Apprenti |
 
 Données d'identification dont le Numéro d'inscription au répertoire national d'identification des personnes physiques (NIR) |
 
-- Nom de naissance
+Nom de naissance
 
-- Prénom
+Nom d'usage
 
-- Sexe
+Premier prénom selon l'état civil
 
-- Nationalité
+Sexe
 
-- Date de naissance
+Nationalité
 
-- Lieu de naissance
+Date de naissance
 
-- Adresse
+Lieu de naissance
 
-- Téléphone
+Adresse
 
-- Courriel
+Téléphone
 
-- NIR
+Courriel
 
-- Numéro d'identification technique |
+Numéro d'inscription au répertoire national d'identification des personnes physiques (NIR)
+
+Numéro d'identification technique |
 
 Données relatives au parcours de formation et parcours professionnel |
 
-- Caisse de retraite complémentaire
+Caisse de retraite complémentaire-
 
-- Régime social
+Régime social
 
-- Adhésion au régime spécifique de l'assurance chômage
+Adhésion au régime spécifique de l'assurance chômage
 
-- Situation avant l'entrée en contrat
+Situation avant l'entrée en contrat
 
-- Dernier diplôme ou titre préparé
+Dernier diplôme ou titre préparé
 
-- Dernière classe/année suivie
+Dernière classe/ année suivie
 
-- Intitulé précis du dernier diplôme ou titre préparé
+Intitulé précis du dernier diplôme ou titre préparé
 
-- Diplôme ou titre le plus élevé obtenu
+Diplôme ou titre le plus élevé obtenu
 
-- Reconnaissance de la qualification de travailleur handicapé, le cas échéant
+Déclare être inscrit sur la liste des sportifs de haut niveau
 
-- Dénomination de l'employeur et lieu de travail - Nature du contrat de travail
+Reconnaissance de la qualification de travailleur handicapé, le cas échéant
 
-- Numéro du SIRET de l'établissement d'exécution du contrat
+Déclare avoir un projet de création ou de reprise d'entreprise
 
-- Code activité de l'entreprise (NAF)
+Dénomination de l'employeur et lieu de travail-Nature du contrat de travail
 
-- Date de début et de fin d'exécution de contrat ou de la période d'apprentissage
+Numéro du SIRET de l'établissement d'exécution du contrat
 
-- Durée hebdomadaire du travail
+Code activité de l'entreprise (NAF)
 
-- Code du diplôme ou titre visé par l'apprenti
+Date de début et de fin d'exécution de contrat ou de la période d'apprentissage
 
-- Catégorie par niveau du diplôme ou titre visé par l'apprenti
+Date de début de formation pratique chez l'employeur
 
-- Intitulé précis du diplôme ou titre visé par l'apprenti
+Durée hebdomadaire du travail
 
-- Dénomination de l'établissement de formation responsable
+Type de dérogation
 
-- Adresse du centre de formation
+Numéro du contrat précédent ou du contrat portant l'avenant
 
-- Déclare être inscrit sur la liste des sportifs, entraîneurs, arbitres et juges sportifs de haut niveau
+Date de conclusion
 
-- Code Répertoire National des Certifications Professionnelles (RNCP)
+Lieu de conclusion
 
-- Type de dérogation
+Date d'effet de l'avenant
 
-- Date de conclusion
+Code du diplôme ou titre visé par l'apprenti
 
-- Travail sur machines dangereuses ou exposition à des risques particuliers
+Code répertoire national des certifications professionnelles (RNCP)
 
-- N° SIRET du centre de formation des apprentis
+Catégorie par niveau du diplôme ou titre visé par l'apprenti
 
-- Code Unité Administrative Immatriculée (UAI)
+Intitulé précis du diplôme ou titre visé par l'apprenti
 
-- Numéro du contrat précédent ou du contrat portant l'avenant
+Dénomination du centre de formation des apprentis responsable
 
-- Date effet de l'avenant
+Adresse du centre de formation des apprentis responsable
 
-- Date prévue de fin des épreuves ou examens
+Numéro SIRET du centre de formation d'apprentis
 
-- Durée de la formation
+Code unité administrative immatriculée (UAI) du centre de formation d'apprentis
 
-- Date de début du cycle de formation
+Dénomination du lieu de formation principal
 
-- Nom de l'organisme
+Adresse du lieu de formation principal
 
-- Date de réception du dossier complet
+Numéro SIRET du lieu de formation principal
 
-- Numéro de dépôt
+Code unité administrative immatriculée (UAI) du lieu de formation principal
 
-- SIRET
+Travail sur machines dangereuses ou exposition à des risques particuliers
 
-- Date de décision
+Date de début de formation en centre de formation des apprentis
 
-- Décision de contrat
+Date prévue de fin des épreuves ou examens
 
-- Numéro de l'avenant
+Durée de la formation
 
-- Spécialité de formation du diplôme ou titre visé par l'alternant
+Spécialité de formation du diplôme ou titre visé par l'alternant
 
-- Code motif rupture
+Nom de l'organisme en charge du dépôt
 
-- Commentaire sur la rupture
+Date de réception du dossier complet
 
-- Date d'effet rupture
+Numéro de dépôt
 
-- Maintien du jeune en centre de formation des apprentis |
+Numéro de gestion interne du déposant
+
+SIRET de l'organisme
+
+Date de la décision
+
+Numéro d'avenant
+
+Statut du contrat
+
+Date de dépôt du contrat
+
+Date d'effet de la rupture
+
+Maintien du jeune en centre de formation des apprentis
+
+Code motif de la rupture
+
+Commentaire sur la rupture |
 
 Informations d'ordre économique et financier |
 
-- Salaire brut mensuel à l'embauche
+Salaire brut mensuel à l'embauche
 
-- Salaire mensuel pendant la période du contrat
+Salaire mensuel pendant la période du contrat
 
-- Nature et montant des avantages en nature éventuels |
+Nature et montant des avantages en nature éventuels |
 
 Maître d'apprentissage |
 
 Données d'identification |
 
-- Nom de naissance
+Nom de naissance
 
-- Prénom
+Prénom
 
-- Date de naissance
+Date de naissance
 
-- Dénomination et adresse de l'employeur
+Dénomination et adresse de l'employeur
 
-- Numéro d'identification technique |
+Numéro d'identification technique
+
+Courriel
+
+Emploi occupé
+
+Diplôme ou titre le plus élevé obtenu
+
+Niveau de diplôme ou titre le plus élevé obtenu |
 
 Représentant légal |
 
 Données d'identification |
 
-- Nom de naissance
+Nom de naissance
 
-- Prénom
+Prénom
 
-- Adresse
+Adresse
 
-- Qualité du tuteur
+Numéro d'identification technique
 
-- Numéro d'identification technique |
+Courriel |
 
 Pour tous publics précités |
 
