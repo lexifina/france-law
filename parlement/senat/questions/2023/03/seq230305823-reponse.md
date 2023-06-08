@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305823
+
+- Question : [SEQ230305823](seq230305823.md) — Réforme des indications géographiques
+
+## Réponse
+
+*Europe, JO du 2023-06-08, page 3668*
+
+La France, riche d'un patrimoine culturel, gastronomique et local d'exception, est le premier État membre de l'Union européenne en valeur de production sous indication géographique et le deuxième concernant le nombre d'indications. Les indications géographiques IGP et AOP sont un gage de maintien de la qualité et de protection des produits alimentaires européens : il s'agit d'outils majeurs pour le rayonnement de savoir-faire et terroirs français à l'international. Les autorités françaises suivent la révision législative européenne sur les indications géographiques avec attention et vigilance. Au sein du Conseil, elles ont insisté sur la protection de ces appellations et sur le fait de ne pas déléguer toutes les missions de contrôle à l'Office de l'Union européenne pour la propriété intellectuelle (EUIPO). Le Parlement européen a également supprimé la quasi-totalité des délégations à l'EUIPO dans son projet de rapport qui a été soumis au vote en séance plénière le 31 mai. Les trilogues entre le Parlement, le Conseil et la Commission devraient débuter sous Présidence suédoise courant juin. Au vu des mandats de négociation des deux co-législateurs, le texte final ne devrait pas prévoir de délégations à l'EUIPO, tout du moins pas sur des tâches d'instruction. Les autorités françaises ont également exprimé au Conseil leur réticence face à l'inclusion des indications géographiques (IG) vins dans ce nouveau règlement ; une position cependant peu partagée par l'ensemble des autres Etats membres. Cependant, le rapport du Parlement européen devrait limiter l'inclusion des IG vins dans le nouveau règlement et, en pareil cas, les autorités françaises inciteront la présidence du Conseil à se rapprocher de la position du Parlement sur ce point.
