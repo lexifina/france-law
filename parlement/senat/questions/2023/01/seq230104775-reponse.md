@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230104775
+
+- Question : [SEQ230104775](seq230104775.md) — Situation des brigades cynophiles en police municipale
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-06-08, page 3675*
+
+Avant l'entrée en vigueur du décret du 18 février 2022, aucun texte réglementaire n'encadrait la création, le fonctionnement et la formation des brigades cynophiles de police municipale, en dépit de leur développement croissant ces dernières années. Ce texte procède à cet encadrement des modalités de création, de formation et d'emploi des brigades cynophiles ainsi que des conditions de dressage, de propriété, de garde et de réforme des chiens. Plusieurs dispositions accordent également aux collectivités une marge de manoeuvre et de la souplesse dans la constitution de leurs brigades cynophiles. L'article R. 511-34-6 du Code de la sécurité intérieure (CSI) pris pour l'application de ce texte renvoie à un arrêté du ministre de l'Intérieur et des Outre-mer le soin de définir le contenu et la durée des formations préalables et d'entraînement qui doivent être suivies par les maîtres-chiens de police municipale. Cet arrêté, en cours d'élaboration, fait actuellement l'objet d'une concertation entre les services du ministère de l'Intérieur et des Outre-mer et le Centre national de la fonction publique territoriale (CNFPT). Néanmoins, les dispositions du premier alinéa de l'article R. 511-34-6 du CSI relatives à la formation préalable des maîtres-chiens de police municipale ne s'appliquent pas aux agents occupant cette fonction qui sont déjà détenteurs d'une attestation de réussite à une formation correspondant à la spécialité cynophile délivrée avant le 1er janvier 2025. L'absence de publication de l'arrêté relatif à la formation des maîtres-chiens de police municipale ne fait donc pas obstacle à la création de brigades cynophiles par les collectivités territoriales.
