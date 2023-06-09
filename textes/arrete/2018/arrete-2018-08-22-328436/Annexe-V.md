@@ -252,59 +252,39 @@ Un formateur ou un universitaire et un professionnel confirmé du secteur |
 
 Certification du DC 3 : moyenne des 2 notes |
 
-Modalités de certification du DC 4-Dynamiques interinstitutionnelles, partenariats et réseaux
+Modalités de certification du DC 4 - Dynamiques interinstitutionnelles, partenariats et réseaux
 
-Objectifs de l'épreuve |
+Objectifs
 
-Intitulé de l'épreuve |
+de l'épreuve |
 
-Définition de l'épreuve |
+Intitulé
 
-Organisation et cadre de l'épreuve |
+de l'épreuve |
 
-Durée de l'épreuve |
+Définition
 
-Examinateurs correcteurs |
+de l'épreuve |
 
-Bloc de compétences n° 7 : Mobilisation des acteurs et des partenaires |
+Organisation et cadre
 
-Evaluer la capacité du candidat à :
+de l'épreuve |
 
--Analyser un environnement institutionnel et partenarial
+Durée
 
--Se positionner dans un travail d'équipe et de partenariat
+de l'épreuve |
 
--Mobiliser les différentes ressources de l'environnement institutionnel et partenarial |
+Examinateurs,
 
-Analyse d'une situation partenariale |
+correcteurs |
 
-Note d'analyse d'une situation partenariale à partir d'une intervention sociale issue de la formation pratique de deuxième ou troisième année |
-
-Epreuve organisée par l'établissement de formation
-
-Ecrit : 8 à 10 pages
-
-Coefficients :
-
-Ecrit : 1
-
-Soutenance orale individuelle : 1 |
-
-Soutenance orale : 30 min dont :
-
--temps de présentation par le candidat : 10 min
-
--temps d'échanges avec les examinateurs : 20 min |
-
-Un formateur ou un universitaire et un professionnel confirmé du secteur |
-
-Bloc de compétences n° 8 : Connaissance et analyse des contextes institutionnels |
+Bloc de compétences n° 7 : Connaissance et analyse des contextes institutionnels |
 
 Evaluer la capacité du candidat à :
 
--Etudier et analyser les politiques sociales
+- Etudier et analyser les politiques sociales
 
--Se positionner dans un travail partenarial |
+- Se positionner dans un travail partenarial |
 
 Contrôle de connaissances sur les politiques sociales |
 
@@ -320,8 +300,44 @@ Ecrit : 1 |
 
 Un formateur ou un universitaire |
 
+Bloc de compétences n° 8 : Mobilisation des acteurs et des partenaires |
+
+Evaluer la capacité du candidat à :
+
+- Analyser un environnement institutionnel et partenarial
+
+- Se positionner dans un travail d'équipe et de partenariat
+
+- Mobiliser les différentes ressources de l'environnement institutionnel et partenarial |
+
+Analyse d'une situation partenariale |
+
+Note d'analyse d'une situation partenariale à partir d'une intervention sociale issue de la formation pratique de deuxième ou troisième année |
+
+Epreuve organisée par l'établissement de formation
+
+Ecrit : 8 à 10 pages
+
+Coefficients :
+
+Ecrit : 1
+
+Soutenance orale individuelle : 1 |
+
+Soutenance orale :
+
+30 min dont :
+
+- temps de présentation par le candidat : 10 min
+
+- temps d'échanges avec les examinateurs :
+
+20 min |
+
+Un formateur ou un universitaire et un professionnel confirmé du secteur |
+
 Certification du DC 4 : moyenne des 3 notes |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 9 août 2022 (NOR : APHA2223132A), ces dispositions entrent en vigueur à compter de la rentrée scolaire 2022-2023.
+Conformément à l'article 7 de l'arrêté du 23 mai 2023 (NOR : APHA2313967A), ces dispositions entrent en vigueur à compter de la rentrée scolaire et universitaire 2022-2023.

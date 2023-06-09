@@ -2,35 +2,47 @@
 
 RÉFÉRENTIEL DE CERTIFICATION
 
-Modalités de certification du DC 1-Conseil et expertise à visée socio-éducative dans les domaines de la vie quotidienne
+Modalités de certification du DC 1 - Conseil et expertise à visée socio-éducative dans les domaines de la vie quotidienne
 
 Bloc de compétences n° 1 : Analyse de situations sociales liées à la vie quotidienne |
 
-Objectifs de l'épreuve |
+Objectifs
 
-Intitulé de l'épreuve |
+de l'épreuve |
 
-Définition de l'épreuve |
+Intitulé
 
-Organisation et cadre de l'épreuve |
+de l'épreuve |
 
-Durée de l'épreuve |
+Définition
 
-Examinateurs correcteurs |
+de l'épreuve |
+
+Organisation et cadre
+
+de l'épreuve |
+
+Durée
+
+de l'épreuve |
+
+Examinateurs,
+
+correcteurs |
 
 Evaluer la capacité du candidat à :
 
 Objectifs généraux
 
--Analyser une question sociale ou un questionnement professionnel en montrant l'articulation entre théorie et pratique Mener une démarche rigoureuse et cohérente en s'appuyant sur une méthodologie de recherche
+- Analyser une question sociale ou un questionnement professionnel en montrant l'articulation entre théorie et pratique Mener une démarche rigoureuse et cohérente en s'appuyant sur une méthodologie de recherche
 
--Prendre de la distance vis-à-vis de la réalité sociale, déconstruire ses représentations et les reconstruire par rapport à des références théoriques et la réalité du terrain
+- Prendre de la distance vis-à-vis de la réalité sociale, déconstruire ses représentations et les reconstruire par rapport à des références théoriques et la réalité du terrain
 
 Objectifs spécifiques
 
--Interroger, dans une optique d'adaptation de la pratique ou de l'expertise professionnelle, la pratique professionnelle mise en œuvre ou observée
+- Interroger, dans une optique d'adaptation de la pratique ou de l'expertise professionnelle, la pratique professionnelle mise en œuvre ou observée
 
--Proposer des actions de conseils, d'informations ou d'expertise en lien avec la ou les situations professionnelles analysées |
+- Proposer des actions de conseils, d'informations ou d'expertise en lien avec la ou les situations professionnelles analysées |
 
 Mémoire de pratique professionnelle |
 
@@ -62,9 +74,9 @@ Note retenue pour l'épreuve Mémoire de pratique professionnelle
 
 Soutenance orale : 40 min dont :
 
--temps de présentation par le candidat : 10 min
+- temps de présentation par le candidat : 10 min
 
--temps d'échanges avec les examinateurs : 30 min |
+- temps d'échanges avec les examinateurs : 30 min |
 
 Un formateur ou un universitaire et un professionnel confirmé du secteur collective |
 
@@ -72,51 +84,63 @@ Bloc de compétences n° 2 : Conseil à visée sociale dans les domaines de la v
 
 Evaluer la capacité du candidat à :
 
--Mobiliser les connaissances théoriques de conseil à visée socio-éducative dans les domaines de la vie quotidienne en lien avec l'intervention sociale
+- Mobiliser les connaissances théoriques de conseil à visée socio-éducative dans les domaines de la vie quotidienne en lien avec l'intervention sociale
 
--Analyser son intervention professionnelle |
+- Analyser son intervention professionnelle |
 
 Analyse à visée socio-éducative dans les domaines de la vie quotidienne |
 
 A partir d'une problématique retenue de façon concertée entre l'étudiant et le référent professionnel, présentation orale d'une analyse d'une intervention socio-éducative dans les domaines de la vie quotidienne |
 
-Epreuve organisée par le l'établissement de formation
+Epreuve organisée par l'établissement de formation
 
 Coefficient : Soutenance orale : 1 |
 
 Soutenance orale : 30 min dont :
 
--temps de présentation : 10 min
+- temps de présentation : 10 min
 
--temps d'échanges avec les examinateurs : 20 min |
+- temps d'échanges avec les examinateurs : 20 min |
 
 Un formateur ou un universitaire et un professionnel confirmé du secteur |
 
-Certification du DC 1 : moyenne des 3 notes |
+Certification du DC 1 : moyenne des 2 notes |
 
-Modalités de certification du DC 2-Intervention sociale
+Modalités de certification du DC 2 - Intervention sociale
 
 Bloc de compétences n° 3 : Conduite de l'intervention sociale auprès des publics |
 
-Objectifs de l'épreuve |
+Objectifs
 
-Intitulé de l'épreuve |
+de l'épreuve |
 
-Définition de l'épreuve |
+Intitulé
 
-Organisation et cadre de l'épreuve |
+de l'épreuve |
 
-Durée de l'épreuve |
+Définition
 
-Examinateurs correcteurs |
+de l'épreuve |
+
+Organisation et cadre
+
+de l'épreuve |
+
+Durée
+
+de l'épreuve |
+
+Examinateurs,
+
+correcteurs |
 
 Evaluer la capacité du candidat à :
 
--Mettre en œuvre les méthodologies d'intervention
+- Mettre en œuvre les méthodologies d'intervention
 
--Mobiliser les connaissances théoriques en lien avec l'intervention sociale
+- Mobiliser les connaissances théoriques en lien avec l'intervention sociale
 
--Analyser son intervention professionnelle |
+- Analyser son intervention professionnelle |
 
 Intervention sociale individuelle ou collective |
 
@@ -136,9 +160,9 @@ Soutenance orale : 1 |
 
 Soutenance orale : 30 min dont :
 
--temps de présentation par le candidat : 10 min
+- temps de présentation par le candidat : 10 min
 
--temps d'échanges avec les examinateurs : 20 min |
+- temps d'échanges avec les examinateurs : 20 min |
 
 Un formateur ou un universitaire et un professionnel confirmé du secteur |
 
@@ -146,9 +170,9 @@ Bloc de compétences n° 4 : Accompagnement éducatif budgétaire |
 
 Evaluer la capacité du candidat à :
 
--Mettre en œuvre un accompagnement éducatif budgétaire
+- Mettre en œuvre un accompagnement éducatif budgétaire
 
--Analyser la mise en œuvre de l'accompagnement |
+- Analyser la mise en œuvre de l'accompagnement |
 
 Accompagnement éducatif budgétaire |
 
@@ -164,7 +188,7 @@ Ecrit : 1 |
 
 Un formateur ou un universitaire et un professionnel confirmé du secteur |
 
-Certification du DC 2 : moyenne des 2 notes |
+Certification du DC 2 : moyenne des 3 notes |
 
 Modalités de certification du DC 3-Communication professionnelle en travail social
 
@@ -258,4 +282,4 @@ Certification du DC 4 : moyenne des 2 notes |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 9 août 2022 (NOR : APHA2223132A), ces dispositions entrent en vigueur à compter de la rentrée scolaire 2022-2023.
+Conformément à l'article 7 de l'arrêté du 23 mai 2023 (NOR : APHA2313967A), ces dispositions entrent en vigueur à compter de la rentrée scolaire et universitaire 2022-2023.

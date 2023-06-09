@@ -188,61 +188,73 @@ Un formateur ou un universitaire et un professionnel confirmé du secteur |
 
 Certification du DC 2 : moyenne des 3 notes |
 
-Modalités de certification du DC 3-Travail en équipe pluri professionnelle et communication professionnelle
+Modalités de certification du DC 3 - Travail en équipe pluri professionnelle et communication professionnelle
 
-Objectifs de l'épreuve |
+Objectifs
 
-Intitulé de l'épreuve |
+de l'épreuve |
 
-Définition de l'épreuve |
+Intitulé
+
+de l'épreuve |
+
+Définition
+
+de l'épreuve |
 
 Organisation et cadre de l'épreuve |
 
-Durée de l'épreuve |
+Durée
 
-Examinateurs correcteurs |
+de l'épreuve |
 
-Bloc de compétences n° 5 : Communication professionnelle en travail social |
+Examinateurs,
+
+correcteurs |
+
+Bloc de compétences n° 5 : Expression et communication écrite et orale |
 
 Evaluer la capacité du candidat à :
 
--Comprendre et questionner une situation de communication professionnelle
+- Comprendre et questionner une situation de communication professionnelle
 
--Mobiliser les connaissances en matière de cadre organisationnel, juridique et budgétaire |
+- Adapter sa communication à un destinataire cible
+
+- Argumenter ses choix de communication |
 
 Elaboration d'une communication professionnelle |
 
 A partir du dossier de présentation de l'épreuve Analyse de situation d'accueil et d'accompagnement individuelle ou collective , élaboration d'une communication professionnelle à un destinataire cible. |
 
-Epreuve organisée par le l'établissement de formation
+Epreuve organisée par l'établissement de formation
 
 Coefficient :
 
-Soutenance orale individuelle : 1 |
+Soutenance orale
+
+individuelle : 1 |
 
 Soutenance orale : 30 min dont :
 
--temps de présentation par le candidat : 10 min
+- temps de présentation par le candidat : 10 min
 
--temps d'échanges avec les examinateurs : 20 min |
+- temps d'échanges avec les examinateurs : 20 min |
 
 Un formateur ou un universitaire et un professionnel confirmé du secteur |
 
-Bloc de compétences n° 6 : Expression et communication écrite et orale |
+Bloc de compétences n° 6 : Communication professionnelle en travail social |
 
 Evaluer la capacité du candidat à :
 
--Adapter sa communication à un destinataire cible
+- Mobiliser les connaissances en matière de cadre organisationnel, juridique et budgétaire
 
--Mobiliser des supports de communication adaptés
-
--Argumenter ses choix de communication |
+- Mobiliser des supports de communication adaptés |
 
 Dossier sur le travail d'équipe et les dynamiques institutionnelles |
 
 Dossier élaboré à partir de pratiques professionnelles sur les enjeux du travail d'équipe permettant de montrer les liens entre les dynamiques institutionnelles et le travail d'équipe et l'accompagnement des jeunes enfants et leurs familles |
 
-Epreuve organisée par le l'établissement de formation
+Epreuve organisée par l'établissement de formation
 
 Dossier de 8 à 10 pages
 
@@ -254,41 +266,75 @@ Soutenance orale individuelle : 1 |
 
 Soutenance orale : 30 min dont :
 
--temps de présentation par le candidat : 10 min
+- temps de présentation par le candidat : 10 min
 
--temps d'échanges avec les examinateurs : 20 min |
+- temps d'échanges avec les examinateurs : 20 min |
 
 Un formateur ou un universitaire et un professionnel confirmé du secteur |
 
 Certification du DC 3 : moyenne des 3 notes |
 
-Modalités de certification du DC 4-Dynamiques interinstitutionnelles, partenariats et réseaux
+Modalités de certification du DC 4 - Dynamiques interinstitutionnelles, partenariats et réseaux
 
-Objectifs de l'épreuve |
+Objectifs
 
-Intitulé de l'épreuve |
+de l'épreuve |
 
-Définition de l'épreuve |
+Intitulé
+
+de l'épreuve |
+
+Définition
+
+de l'épreuve |
 
 Organisation et cadre de l'épreuve |
 
-Durée de l'épreuve |
+Durée
 
-Examinateurs correcteurs |
+de l'épreuve |
 
-Bloc de compétences n° 7 : Mobilisation des acteurs et des partenaires |
+Examinateurs,
+
+correcteurs |
+
+Bloc de compétences n° 7 : Connaissance et analyse des contextes institutionnels |
 
 Evaluer la capacité du candidat à :
 
--Connaître, analyser un environnement institutionnel et à s'y situer en situation professionnelle
+- Connaître les politiques sociales
 
--Utiliser les différentes ressources de l'environnement institutionnel et partenarial en situation professionnelle (politiques sociales et dispositifs) |
+- Se positionner dans un travail partenarial |
+
+Contrôle de connaissances sur les politiques sociales |
+
+Epreuve mobilisant les connaissances des politiques sociales
+
+et présentant une proposition d'action partenariale ou d'aide à la décision |
+
+Epreuve organisée par l'établissement de formation
+
+Coefficient :
+
+Ecrit : 1 |
+
+4 heures |
+
+Un formateur ou un universitaire |
+
+Bloc de compétences n° 8 : Mobilisation des acteurs et des partenaires |
+
+Evaluer la capacité du candidat à :
+
+- Connaître, analyser un environnement institutionnel et s'y situer en situation professionnelle
+
+- Utiliser les différentes ressources de l'environnement institutionnel et partenarial en situation professionnelle (politiques sociales et dispositifs) |
 
 Dossier à partir d'une problématique territoriale ou partenariale |
 
 Dossier individuel ou collectif à partir d'un questionnement de terrain, d'une intervention observée ou à laquelle a participé l'étudiant en stage permettant une analyse d'un ou plusieurs enjeux des politiques sociales mobilisées et la place des acteurs |
 
-Epreuve organisée par le l'établissement de formation
+Epreuve organisée par l'établissement de formation
 
 Ecrit de 8 à 10 pages
 
@@ -300,38 +346,14 @@ Soutenance orale individuelle : 1 |
 
 Soutenance orale : 30 min dont :
 
--temps de présentation par le candidat : 10 min
+- temps de présentation par le candidat : 10 min
 
--temps d'échanges avec les examinateurs : 20 min |
+- temps d'échanges avec les examinateurs : 20 min |
 
 Un formateur ou un universitaire et un professionnel confirmé du secteur |
-
-Bloc de compétences n° 8 : Connaissance et analyse des contextes institutionnels |
-
-Evaluer la capacité du candidat à :
-
--Connaître les politiques sociales
-
--Se positionner dans un travail partenarial |
-
-Contrôle de connaissances |
-
-Epreuve mobilisant les connaissances des politiques sociales
-
-et présentant une proposition d'action partenariale ou d'aide à la décision |
-
-Epreuve organisée par le l'établissement de formation
-
-Coefficient :
-
-Ecrit : 1 |
-
-4 heures |
-
-Un formateur ou un universitaire |
 
 Certification du DC 4 : moyenne des 3 notes |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 9 août 2022 (NOR : APHA2223132A), ces dispositions entrent en vigueur à compter de la rentrée scolaire 2022-2023.
+Conformément à l'article 7 de l'arrêté du 23 mai 2023 (NOR : APHA2313967A), ces dispositions entrent en vigueur à compter de la rentrée scolaire et universitaire 2022-2023.
