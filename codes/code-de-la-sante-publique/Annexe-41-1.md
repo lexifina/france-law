@@ -20,7 +20,7 @@ A. - 4 spécifiques (1) dont 3 dans des services d'anesthésie et 1 dans un serv
 
 B. - 1 libre.
 
-IV. - Cardiologie et médecine des affections vasculaires ou pathologie cardio-vasculaire
+IV. - Médecine cardiovasculaire
 
 A. - 3 spécifiques (1).
 
@@ -32,17 +32,19 @@ B. - 2 dans des services agréés de :
 
 3. Néphrologie ;
 
-4. Médecine interne ;
+4. Médecine interne et immunologie clinique ;
 
 5. Pédiatrie ;
 
 6. Pneumologie ;
 
-7. Radiodiagnostic et imagerie médicale ;
+7. Radiologie et imagerie médicale ;
 
 8. Neurologie ;
 
-9. Réanimation.
+9. Médecine intensive réanimation ;
+
+10. Médecine vasculaire.
 
 V. - Dermato-vénéréologie ou dermatologie et vénéréologie
 
@@ -50,21 +52,41 @@ A. - 3 spécifiques (1).
 
 B. - 2 libres.
 
-VI. - Endocrinologie et métabolismes ou endocrinologie-maladies métaboliques
+VI. - Endocrinologie-diabétologie-nutrition
 
-A. - 2 spécifiques (1).
+A. - 3 spécifiques dont au moins un à orientation nutrition (1).
 
-B. - 2 dans des services agréés de :
+B. - 1 dans un service agréé à titre principal en :
 
-1. Gynécologie-obstétrique ;
+1. Hépatologie-gastro-entérologie ;
 
-2. Gastro-entérologie et hépatologie ;
+2. Médecine interne et immunologie clinique ;
 
-3. Néphrologie ;
+3. Pédiatrie ;
 
-4. Pédiatrie.
+4. Médecine intensive et réanimation ;
 
-5. Médecine interne.
+5. Gériatrie ;
+
+6. Oncologie ;
+
+7. Médecine cardio-vasculaire ;
+
+8. Neurologie ;
+
+9. Pneumologie ;
+
+10. Néphrologie ;
+
+11. Biologie médicale ;
+
+12. Santé publique ;
+
+13. Psychiatrie ;
+
+14. Médecine nucléaire ;
+
+15. Gynécologie médicale.
 
 C. - 1 libre.
 
