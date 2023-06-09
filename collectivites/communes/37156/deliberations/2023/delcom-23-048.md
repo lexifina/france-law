@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_048 — DELIBERATION 2023-48 APPROBATION DE LA CHARTE D'ENGAGEMENTS DES 1ERES ASSISES HANDISPORT 2021-2024
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-06-09
+- Matière : 8.9 Domaines de competences par themes/Culture
+- Objet : DELIBERATION 2023-48 APPROBATION DE LA CHARTE D'ENGAGEMENTS DES 1ERES ASSISES HANDISPORT 2021-2024
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/fd42c8c72cc2ee19fc601a14cc140bed050d5a47a8548ad30d7c577e792934a0.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
