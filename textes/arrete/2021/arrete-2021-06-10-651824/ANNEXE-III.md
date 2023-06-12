@@ -106,11 +106,13 @@ Module 10. - Travail en équipe pluri professionnelle, qualité et gestion des r
 
 La formation comporte 44 semaines de formation théorique et clinique soit 1 540 heures, se répartissant en 770 heures (22 semaines) de formation théorique et 770 heures (22 semaines) de formation clinique.
 
+Le dernier stage, y compris pour les élèves bénéficiant d'équivalences de compétences et d'allègements de formation, doit se terminer l'avant dernière semaine de formation. La dernière semaine de formation se déroule au sein de l'institut de formation ou, correspond, éventuellement, à une période de congés. Elle peut aussi comprendre des jours en institut de formation et d'autres en congés.
+
 Organisation de la formation théorique :
 
 - Accompagnement Pédagogique Individualisé (API) |
 
-35 h (dans les trois premiers mois de la formation) |
+35 h (dans les trois premiers mois de la formation). 35 heures complémentaires maximum s'ajoutent lorsqu'elles sont prescrites dans le contrat pédagogique aux apprenants bénéficiant d'équivalences de compétences et d'allégements de formation. |
 
 - Suivi pédagogique individualisé des apprenants |
 
@@ -174,11 +176,11 @@ Quatre périodes en milieu professionnel doivent être réalisées :
 
 - Période C de 5 semaines
 
-- Période D de 7 semaines : en fin de formation, période intégrative en milieu professionnel, correspondant au projet professionnel et/ou permettant le renforcement des compétences afin de valider l'ensemble des blocs de compétences
+- Période D de 7 semaines : en fin de formation, se terminant l'avant-dernière semaine de formation, période intégrative en milieu professionnel, correspondant au projet professionnel et/ou permettant le renforcement des compétences afin de valider l'ensemble des blocs de compétences
 
 L'ordre dans lequel les 3 périodes cliniques de 5 semaines sont réalisées est laissé à l'appréciation de chaque équipe pédagogique.
 
-Dans le cadre de la formation par la voie de l'apprentissage, ces périodes sont effectuées au sein ou en dehors de la structure employeur et sont complétées par un exercice en milieu professionnel, dont l'objet est également de développer les compétences afin de valider l'ensemble des blocs de compétences.
+Dans le cadre de la formation par la voie du contrat d'apprentissage ou de professionnalisation, ces périodes sont effectuées au sein ou en dehors de la structure employeur et sont complétées par un exercice en milieu professionnel, dont l'objet est également de développer les compétences afin de valider l'ensemble des blocs de compétences.
 
 Période |
 
@@ -248,7 +250,7 @@ La période D doit porter sur les 5 blocs de compétences de l'AP :
 
 - Bloc 5 : Travail en équipe pluri-professionnelle et traitement des informations liées aux activités de soins, à la qualité/gestion des risques |
 
-Au moins une période clinique doit être effectuée auprès d'enfants en situation de handicap physique ou psychique.
+Au moins une période clinique doit être effectuée auprès d'enfants en situation de handicap physique ou psychique. Elle couvre également les enfants en cours de détection de handicap ouvrant droit au bénéfice par l'établissement d'accueil du bonus handicap octroyé par la Caisse nationale des Allocations familiales (CNAF). Les jours de présence en établissement d'accueil de l'enfant concerné et ceux de l'élève en stage devront correspondre à un nombre suffisant permettant une progression de l'élève au regard des compétences exigées pour l'obtention du diplôme afin que le lieu de stage puisse être validé par le directeur (trice) de l'institut de formation d'auxiliaire de puériculture. L'encadrant facilite la progression de l'élève dans les missions de l'auxiliaire de puériculture. Il peut être issu d'une autre filière métier. La convention de stage précise la qualification de l'encadrant et les modalités d'encadrement.
 
 3 - Contenu des modules de formation en lien avec le référentiel de certification
 
@@ -1382,6 +1384,8 @@ L'accompagnement des apprenants s'appuie sur trois modalités d'intervention :
 
 Accompagnement Pédagogique Individualisé (API) : 35h (dans les trois premiers mois de la formation)
 
+Possibilité d'un accompagnement pédagogique individualisé complémentaire aux élèves bénéficiant d'équivalences de compétences et allégements de formation : 35 heures maximum complémentaires lorsqu'elles sont prescrites dans le contrat pédagogique
+
 Suivi pédagogique individualisé des apprenants : 7h (réparties tout au long de la formation)
 
 Travaux personnels guidés (TPG) : 35 h (réparties au sein des différents modules)
@@ -1414,7 +1418,7 @@ Les objectifs de ce module seront individualisés en fonction du positionnement 
 
 Ce module doit être organisé par l'équipe pédagogique mais peut faire appel à des formateurs spécialisés sur certaines problématiques, comme la maîtrise du français.
 
-Le suivi pédagogique prendra le relais de ce dispositif d'accompagnement. |
+Le suivi pédagogique prendra le relais de ce dispositif d'accompagnement. L'accompagnement pédagogique individualisé complémentaire d'une durée maximum de 35 heures aux apprenants bénéficiant d'équivalences de compétences et d'allégements de formation, lorsqu'il est prescrit dans le contrat pédagogique liant l'élève et le directeur de l'institut de formation, devient obligatoire. |
 
 Suivi pédagogique individualisé des apprenants |
 
