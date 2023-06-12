@@ -40,4 +40,4 @@ Direction de l'évaluation de la performance, de l'achat, des finances et de l'i
 
 Sous-direction des affaires immobilières |
 
-Chargé de mission auprès du sous-directeur des affaires immobilières et de son adjoint. |
+Chef de la cellule des méthodes et de la synthèse |

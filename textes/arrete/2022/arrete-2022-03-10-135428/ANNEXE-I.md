@@ -282,9 +282,9 @@ Chef de la division immobilier |
 
 Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier |
 
-Sous-direction des affaires immobilières - bureau de la synthèse, du patrimoine et de la stratégie |
+Sous-direction des affaires immobilières-bureau des affaires immobilières des préfectures, de la police et de la sécurité civile |
 
-Chef du pôle synthèse |
+Adjoint au chef du bureau des affaires immobilières des préfectures, de la police et de la sécurité civile |
 
 40 |
 
