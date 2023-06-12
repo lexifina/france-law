@@ -4,7 +4,9 @@ SÉLECTION DE L'APPRENTI
 
 Pièces à fournir pour la constitution du dossier
 
-Photocopie du brevet professionnel de préparateur en pharmacie.
+Pour les titulaires du brevet professionnel
+
+Photocopie du brevet professionnel de préparateur en pharmacie ou d'une attestation de réussite au diplôme délivrée par l'autorité administrative compétente.
 
 Photocopie du relevé des notes obtenues au brevet professionnel de préparateur en pharmacie.
 
@@ -13,6 +15,22 @@ Photocopie des bulletins scolaires des 2 années de préparation au brevet profe
 Photocopie du baccalauréat et des autres diplômes ou attestations obtenus.
 
 Photocopie recto/verso de la carte nationale d'identité.
+
+Curriculum vitae dactylographié.
+
+Lettre de motivation manuscrite.
+
+Lettre de préengagement du candidat en qualité d'apprenti, émanant de l'employeur.
+
+Pour les titulaires du diplôme d'études universitaires scientifiques et techniques, spécialité préparateur/ technicien en pharmacie
+
+Photocopie du diplôme d'études universitaires scientifiques et techniques, spécialité préparateur/ technicien en pharmacie ou d'une attestation de réussite au diplôme délivrée par l'autorité administrative compétente.
+
+Photocopie des relevés de notes semestrielles obtenues au diplôme d'études universitaires scientifiques et techniques, spécialité préparateur/ technicien en pharmacie.
+
+Photocopie du baccalauréat et des autres diplômes ou attestations obtenus.
+
+Photocopie recto/ verso de la carte nationale d'identité.
 
 Curriculum vitae dactylographié.
 
