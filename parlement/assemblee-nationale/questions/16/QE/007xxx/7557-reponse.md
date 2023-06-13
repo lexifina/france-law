@@ -1,0 +1,9 @@
+# Réponse à la question n° 7557
+
+- Question : [7557](7557.md) — Question n° 7557 — Pénurie de pilules abortives - comment garantir le droit à l'avortement ?
+
+## Réponse
+
+*JO du 2023-06-13, page 5389*
+
+L'interruption volontaire de grossesse (IVG) médicamenteuse consiste à prendre successivement deux médicaments, le misoprostol et la mifépristone. En France, deux spécialités à base de misoprostol sont autorisées. Elles sont fabriquées en France ou en Europe et commercialisées par le laboratoire Nordic Pharma. Il s'agit des spécialités GYMISO 200 microgrammes, comprimé (boite de deux comprimés) et MISOONE 400 microgrammes, comprimé sécable (boite de 1 comprimé) disponibles en ville et à l'hôpital. Il existe aussi des boîtes de la spécialité MISOONE contenant 16 comprimés disponibles uniquement à l'hôpital. En fin d'année 2022, l'ANSM a été informée d'un retard de fabrication pour la spécialité GYMISO 200 microgrammes, comprimé. Ce retard a entraîné une perturbation de la couverture des besoins, estimée à hauteur de 20 %, conduisant à un report d'utilisation vers la spécialité MISOONE 400 microgrammes, comprimé sécable. Dans ce contexte, afin de gérer au mieux les stocks disponibles, la distribution des boîtes de 1 comprimé de la spécialité MISOONE a été réservée exclusivement aux pharmacies de ville pour préserver l'accès à l'IVG médicamenteuse, les établissements hospitaliers ayant accès aux boîtes de 16 comprimés. L'ANSM a également autorisé l'importation de la spécialité MISOONE destinée à l'Italie. En outre, la vente et l'exportation vers l'étranger de ces médicaments par les grossistes répartiteurs ont été interdites dès l'identification du risque de tension d'approvisionnement. Cette mesure a été appliquée jusqu'à la remise à disposition normale du médicament afin de permettre de protéger l'approvisionnement continu et approprié du marché national. Depuis la fin avril, la situation est de nouveau revenue à la normale.
