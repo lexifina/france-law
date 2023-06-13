@@ -1,0 +1,9 @@
+# Réponse à la question n° 6673
+
+- Question : [6673](6673.md) — Question n° 6673 — Effectivité des sanctions concernant la diffusion de chaînes russes
+
+## Réponse
+
+*JO du 2023-06-13, page 5344*
+
+Les chaînes listées dans le règlement 833/2014 du 31 juillet 2014 concernant des mesures restrictives eu égard aux actions de la Russie déstabilisant la situation en Ukraine (dont RTR Planeta, Rossiya 24 et RT Arabic) ne peuvent plus être diffusées par EUTELSAT. L'interdiction de diffusion des chaînes désignées dans ce règlement s'applique sur le territoire de l'Union européenne et à tout opérateur européen, y compris si la diffusion a lieu dans des pays tiers. Les groupes médiatiques VGTRK, National Media Group et ANO-TV Novosti ne sont pas listées dans le règlement 833/2014. En revanche, ils ont été désignés, dans le règlement 269/2014 du 17 mars 2014 concernant des mesures restrictives eu égard aux actions compromettant ou menaçant l'intégrité territoriale, la souveraineté et l'indépendance de l'Ukraine. A ce titre, leurs avoirs et fonds sont gelés par les opérateurs économiques européens et sur l'ensemble du territoire de l'Union européenne. A ce jour, NTV Plus et Trikolor ne font l'objet d'aucune mesure restrictive. Le projet de loi portant sur la régulation de l'espace numérique élargit, dans son article 4, les compétences de l'Arcom à la mise en œuvre des sanctions européennes visant les médias. Le dispositif prévoit que l'Arcom puisse mettre en demeure les opérateurs de communication audiovisuelle, tels que les opérateurs satellitaires, de faire cesser la diffusion de contenus sanctionnés. En l'absence d'exécution, l'Arcom pourra prononcer une sanction ou mettre en œuvre la procédure de « référé audiovisuel », qui permet au président de la section du contentieux du Conseil d'État d'ordonner toute mesure propre à faire cesser un manquement.
