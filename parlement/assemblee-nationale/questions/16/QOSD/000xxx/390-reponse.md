@@ -1,0 +1,33 @@
+# Réponse à la question n° 390
+
+- Question : [390](390.md) — Question n° 390 — Gestion résiliente et concertée de l'eau
+
+## Réponse
+
+*JO du 2023-06-14, page 5792*
+
+GESTION DE L'EAU
+
+Mme la présidente. La parole est à M. Charles Fournier, pour exposer sa question, n° 390, relative à la gestion de l'eau.
+
+M. Charles Fournier. J'éprouve une certaine fierté à poser cette question, car elle a été élaborée par les soixante-quinze membres du parlement de circonscription que j'y ai réunis, après qu'ils ont mené des auditions sur l'eau. Cette initiative peut constituer une source d'inspiration pour redonner de la vitalité démocratique dans notre pays.
+
+En Indre-et-Loire, la situation est alarmante : le Bureau de recherches géologiques et minières nous a annoncé que les nappes phréatiques sont au plus bas. Le manque d’eau s'accentue mois après mois, avec un déficit de précipitation de près de 60 % pour le mois de février. Le débit des cours d’eau a diminué entre 60 % et 90 % et le niveau des nappes a baissé, deux évolutions très préoccupantes observées au cours de la période hivernale 2022-2023. En conséquence, le département d’Indre-et-Loire a été placé en vigilance sécheresse à compter du 16 mars 2023, un mois plus tôt que l’année précédente.
+
+Les citoyens composant le parlement de circonscription ont souhaité vous alerter, avec moi, au sujet des insuffisances du plan d’action du Gouvernement pour une gestion résiliente et concertée de l’eau. Premièrement, la qualité de l’eau est remise en cause par les pollutions chimiques qui affectent la santé de tous. En Indre-et-Loire, douze sites sont contaminés aux substances polyfluoroalkylées ou perfluoroalkylées (Pfas), des polluants dits éternels, selon une étude publiée par Forever Pollution Project en 2023. Or le sujet de la pollution de l’eau est le grand absent de votre plan d’action. Envisagez-vous d'appliquer le principe du pollueur-payeur, en taxant les pollutions agricoles et industrielles à la hauteur du coût des dommages environnementaux, sociaux et économiques qu'elles entraînent ?
+
+Deuxièmement, vous indiquez qu'en phase d’installation de nouveaux agriculteurs sur des aires d’alimentation et de captage, les projets s’inscrivant dans une démarche agroécologique et d’agriculture biologique seront favorisés. Mais s'il faut entendre par là l'agriculture à haute valeur environnementale, cela ne nous semble pas du tout satisfaisant. Du reste, même l’agriculture biologique ne garantit pas, par exemple, contre l'utilisation du cuivre pour contrôler diverses maladies fongiques ou bactériennes, qui entraîne de vrais problèmes. Prévoyez-vous un cahier des charges plus strict en matière environnementale qui exclurait tous les intrants lors de l'installation de nouveaux agriculteurs sur des aires d’alimentation et de captage ?
+
+Troisièmement, vous proposez une tarification progressive de l’eau, qui responsabilise ceux qui l'utilisent. Nous sommes d'accord avec le principe, mais nous pensons qu'il faut aller plus loin. Les premiers mètres cubes devraient être gratuits, comme dans la tarification progressive instaurée par la ville de Montpellier. Êtes-vous favorable à une telle tarification progressive ?
+
+Mme la présidente. La parole est à M. le ministre délégué chargé de la ville et du logement.
+
+M. Olivier Klein, ministre délégué chargé de la ville et du logement. Je vous félicite, monsieur le député, de votre méthode participative : je profite d'ailleurs de cette occasion pour saluer les élèves présents dans les tribunes. Je m'assiérai ce soir, en Seine-Saint-Denis, à une table de quartier : vous savez à quel point je suis attaché à cette pédagogie, à quel point je souhaite une politique de la ville coconstruite avec les habitants.
+
+Pour en revenir à notre sujet, vous savez qu'une large concertation auprès des parties prenantes a débouché sur un plan « eau » à trois axes : s'engager dans la sobriété, optimiser la disponibilité de la ressource et préserver sa qualité. La protection des ressources destinées à la production d'eau potable constitue une priorité du Gouvernement : une action forte et coordonnée est nécessaire pour que les aires d'alimentation et de captage soient pourvues d'outils visant à réduire la pression agricole sur les ressources utilisées pour la consommation humaine. Le plan « eau » met donc l'accent sur la prévention des pollutions agricoles au sein de ces aires, qui seront dotées d'ici à 2027 d'un plan de gestion de la sécurité sanitaire des eaux : cette démarche sera réalisée, en concertation avec les acteurs concernés, sous la responsabilité du responsable de la production et de la distribution de l'eau autour du captage. Le préfet prendra des mesures pour juguler le risque en cas de dépassement des seuils de qualité par un pesticide ou son métabolite, et pourra intervenir plus rapidement si les concentrations en nitrates s'approchent des seuils sanitaires. En outre, par l'intermédiaire des agences de l'eau, le soutien aux pratiques agricoles à bas niveau d'intrants sera renforcé, dans ces aires, de 100 millions d'euros.
+
+Je vous rappelle également qu'une ordonnance, assortie de textes réglementaires, a été prise en décembre 2022 afin de transposer la directive européenne « eau potable » du 16 décembre 2020. Elle réaffirme le droit de chacun à bénéficier d'un accès quotidien à l'eau potable, et le décret du 29 décembre 2022, pour la première fois, exprime en chiffres la « quantité suffisante d'eau destinée à la consommation humaine » : entre 50 et 100 litres par jour et par personne – d'après l'Organisation mondiale de la santé, 50 litres sont nécessaires à des conditions de vie décentes, 100 litres à un réel confort. La tarification de l'eau relevant des collectivités, celles-ci peuvent prendre des mesures afin d'aider les foyers précaires à régler leurs factures d'eau. Un décret visant à faciliter l'accès aux données nécessaires à la mise en œuvre d'une politique sociale de l'eau est en cours de finalisation. Enfin, le Conseil économique, social et environnemental sera prochainement saisi en vue de recommandations conciliant impératifs sociaux et écologiques en matière de tarification progressive de l'eau.
+
+Mme la présidente. La parole est à M. Charles Fournier.
+
+M. Charles Fournier. Je vous invite, monsieur le ministre délégué, à vous intéresser au conseil local de sobriété énergétique dont s'est dotée la métropole de Tours : s'agissant de gestion de l'eau, c'est non pas un plan descendant qui pourra fonctionner, mais une logique ascendante, à laquelle soient associés tous les acteurs locaux. Vous êtes favorable à la participation des citoyens : en voilà un exemple.
