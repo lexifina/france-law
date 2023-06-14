@@ -1,0 +1,25 @@
+# Réponse à la question n° 365
+
+- Question : [365](365.md) — Question n° 365 — Mise en oeuvre progressive d'un service express régional métropolitain à Rouen
+
+## Réponse
+
+*JO du 2023-06-14, page 5793*
+
+SERVICE EXPRESS RÉGIONAL MÉTROPOLITAIN À ROUEN
+
+Mme la présidente. La parole est à M. Hubert Wulfranc, pour exposer sa question, n° 365, relative au service express régional métropolitain à Rouen.
+
+M. Hubert Wulfranc. La loi du 24 décembre 2019 d'orientation des mobilités a fixé l'objectif d'un doublement de la part modale du ferroviaire dans les grands pôles urbains, d'où la priorité donnée au déploiement des services express régionaux métropolitains (Serm). La proposition de loi relative aux Serm, déposée le 25 avril par le président Zulesi et que notre assemblée examinera vendredi en séance publique, vise à leur conférer un statut, ainsi qu'un cadre de gouvernance propice à leur financement. La métropole rouennaise et sa périphérie sont directement concernées, puisque le Conseil d'orientation des infrastructures (COI) a retenu Rouen dans sa liste – mais la concrétisation de ce projet dépend de celle de la gare du quartier Saint-Sever, desservie par la future ligne nouvelle Paris-Normandie (LNPN). Une étude d'opportunité est en cours ; par ailleurs, un solide travail de diagnostic et de propositions de la part des organisations cheminotes et associations d'usagers a été rendu public.
+
+Les lignes de transport express régional permettent de commencer dès à présent, par étapes, à matérialiser un tel projet, qui pourrait être achevé d'ici à dix ans. Il existe à Rouen une étoile ferroviaire composée de trois lignes : des travaux de rénovation et d'électrification, la réouverture d'un nombre limité de gares de desserte, l'aménagement de quelques pôles multimodaux, des liaisons rapides par bus suffiraient, à brève échéance, à préfigurer le Serm. Ce projet pénètre d'ailleurs largement dans les territoires périurbains, notamment les pays de Caux et de Bray. Compte tenu de son opportunité, puisqu'il anticiperait des réalisations très attendues de la population urbaine, de l'examen imminent de la proposition de loi que j'ai mentionnée et du fait que vient de débuter la négociation du volet « mobilités » des contrats de plan État-région (CPER) 2023-2027, je vous demande de bien vouloir vous saisir de la possibilité de concrétiser ce projet de Serm, sans le faire dépendre plus longtemps de celui de la nouvelle gare de Rouen.
+
+Mme la présidente. La parole est à M. le ministre délégué chargé de la ville et du logement.
+
+M. Olivier Klein, ministre délégué chargé de la ville et du logement. Les Serm constituent une priorité du Gouvernement, comme l'a rappelé Mme la Première ministre, le 24 février, lors de la remise du rapport du COI. Bien que ce rapport ne le classe pas parmi les projets les plus matures, celui de Rouen fait partie des plus importants, ceux au sujet desquels ont été lancées des études financées par l'État aux côtés des collectivités. Le rapport rappelle également l'importance de son articulation avec la LNPN, nécessaire pour permettre à terme un véritable service de haut niveau. Cela n'empêche pas que les premières phases du projet, d'abord à infrastructures constantes, puis avec des aménagements de capacité de faible ampleur, soient prévues avant l'installation de la ligne et de la gare nouvelles. Les Serm constituant en premier lieu un projet de service, le fait de réaliser celui-ci de manière progressive, en commençant, lorsque cela est possible et pertinent, par accroître l'offre sans modifier les infrastructures, contribuera à ce que soit atteint l'objectif d'une concrétisation rapide.
+
+Dès lors, si les collectivités conçoivent un projet cohérent, consensuel et correspondant aux critères retenus dans le texte définitif de la future loi, ce projet pourra bénéficier de ces dispositions sans attendre la mise en service de la LNPN. L'État est prêt à le soutenir financièrement dans le cadre du volet « mobilités » des CPER 2023-2027, comme cela est indiqué au préfet de région dans le mandat qui lui a été transmis : l'État sera au rendez-vous, monsieur le député, et connaissant notre attachement commun au transport ferroviaire, je ne doute pas non plus de votre soutien.
+
+Mme la présidente. La parole est à M. Hubert Wulfranc.
+
+M. Hubert Wulfranc. Je vous remercie beaucoup, monsieur le ministre délégué, de cette réponse nette. La séquence qui s'ouvre permettra effectivement d'approfondir le travail engagé, et j'apprécie d'autant plus votre propos que les attentes et les besoins d'une population telle que celle de la métropole industrielle de Rouen sont particulièrement prégnants : d'autres projets ayant trait aux mobilités, comme celui de zone à faibles émissions mobilité, y perturbent lourdement l'appréciation, par les usagers des transports, des facilités dont ils bénéficient. Enfin, le projet de Serm pourrait constituer une solution de rechange décisive par rapport au projet de contournement routier de Rouen, qui continue de faire couler beaucoup d'encre.
