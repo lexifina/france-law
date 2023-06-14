@@ -1,0 +1,31 @@
+# Réponse à la question n° 386
+
+- Question : [386](386.md) — Question n° 386 — Réintégration au sein du FCTVA des dépenses relatives aux opérations sous-mandat
+
+## Réponse
+
+*JO du 2023-06-14, page 5783*
+
+FONDS DE COMPENSATION POUR LA TAXE SUR LA VALEUR AJOUTÉE
+
+Mme la présidente. La parole est à M. Joël Aviragnet, pour exposer sa question, n° 386, relative au fonds de compensation pour la taxe sur la valeur ajoutée.
+
+M. Joël Aviragnet. Ma question s'adresse au ministre délégué chargé des comptes publics. Depuis plusieurs mois, les petites communes rurales souffrent particulièrement de l'inflation galopante. Je souhaite appeler votre attention sur la non-intégration des dépenses relatives aux opérations sous mandat dans l'assiette du fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA). Cette exclusion nuit à de nombreuses communes et affecte dangereusement leur budget ; elle pose de graves problèmes pour les projets réalisés entre 2020 et 2022, pour lesquels les remboursements étaient prévus à l'origine.
+
+Prenons l'exemple de Beauchalot, une commune de 650 habitants de ma circonscription : le FCTVA y est automatisé depuis 2022, un an après les dépenses engagées par la commune pour les travaux de sécurisation et d'urbanisation de la route départementale 817 qui la traverse. Ces travaux d'urbanisation concernant son territoire, la commune les finance, par le biais d'un plan de financement qui intégrait le reversement du FCTVA à hauteur de 126 000 euros : c'est considérable, rapporté au budget d'une petite commune. S'agissant d'une opération sous mandat, puisque la route est départementale, les dépenses relatives à ces travaux sont imputées au compte 458, qui est désormais exclu de l'assiette du FCTVA. Cette situation déséquilibre fortement le plan de financement prévisionnel élaboré avant la réforme et met en péril le budget communal. De nombreuses communes de Haute-Garonne sont touchées par ce phénomène et j'imagine que la situation est similaire dans l'ensemble du pays.
+
+Il n'est pas normal que les communes portant des projets soutenus par ailleurs par l'État au titre de la dotation d'équipement des territoires ruraux se voient amputées d'un tel financement. Compte tenu de la situation budgétaire des petites communes, l'État ne peut pas donner d'une main et reprendre de l'autre, tout en changeant les règles en cours de route pour récupérer des fonds sur leur dos. Dans un contexte de crise économique et de ralentissement de la croissance, le soutien à l'investissement public local, notamment aux petites communes est une priorité. Les services déconcentrés de l'État, comme ceux du ministère chargé des comptes publics, n'apportent pas de réponse à ce sujet. Je vous le demande donc, monsieur le ministre délégué : le Gouvernement compte-t-il réintégrer ces dépenses dans l'assiette du FCTVA avant qu'il ne soit trop tard ?
+
+Mme la présidente. La parole est à M. le ministre délégué chargé de la transition numérique et des télécommunications.
+
+M. Jean-Noël Barrot, ministre délégué chargé de la transition numérique et des télécommunications. L'automatisation du FCTVA a conduit à revoir la définition de l'assiette des dépenses d'investissement éligibles. Pour permettre l'automatisation du calcul pour les travaux sous délégation de maîtrise d'ouvrage, il a été nécessaire de modifier l’attributaire du FCTVA. Désormais, lorsque les travaux sont, par exemple, délégués à une commune par un département, ce n’est plus la commune délégataire qui est bénéficiaire, mais le département qui a délégué les travaux.
+
+Le montant du FCTVA attribué au projet délégué reste le même. L'automatisation du FCTVA n'a donc pas revu à la baisse le montant, mais a conduit à verser directement à l'entité mandante le FCTVA, et non plus à l'entité délégataire. Par conséquent, les collectivités et groupements soumis aux délégations de maîtrise d'ouvrage doivent adapter les contrats stipulant le versement direct aux propriétaires des ouvrages, afin de prévoir l’ajustement du montant des remboursements effectués à l'entité délégataire par l'entité mandante.
+
+Prenons un exemple : si le conseil départemental a délégué les travaux à la commune sur son domaine routier, c'est lui qui bénéficiera directement du FCTVA, dans le cadre de l'automatisation du fonds. Il convient donc que le département rembourse la commune à due concurrence du FCTVA qu’il percevra dans le cadre de l'opération. Pour clarifier ce nouveau cadre de gestion, les services de la préfecture prendront attache auprès de la commune. Ce dispositif doit permettre de s'assurer que le montant dû pour l'opération est bien attribué à l'entité qui sera en mesure de rembourser la commune délégataire. Si la commune contribue pour tout ou partie au financement de l'opération déléguée, une partie de l'opération ne sera pas prise en considération par le traitement automatisé. Dans ce cas de figure, une procédure déclarative particulière a été instaurée, afin de garantir le versement de l'exhaustivité du montant du FCTVA. Ainsi, dans le cadre de ces projets délégués, il n'y a pas lieu de réintégrer les dépenses engagées qui n’ont pas été déduites de l'assiette du FCTVA.
+
+Par ailleurs, les simulations réalisées en amont de la réforme ont montré que, si celle-ci engendre un coût supplémentaire pour l'État, elle s'avère globalement favorable aux collectivités, notamment en ce qu’elle supprime les cas de non-recours au fonds, qui concernaient principalement les plus petites collectivités. La réforme a simplifié la gestion du FCTVA, en supprimant la quasi-totalité des obligations déclaratives, ce qui a conduit à une importante accélération des paiements. Dans sa globalité, elle s'avère donc favorable à l'investissement public local. Une évaluation du coût de ce dispositif est en cours, afin de garantir la bonne mise en œuvre de la réforme et de tirer pleinement profit des simplifications attendues.
+
+Mme la présidente. La parole est à M. Joël Aviragnet.
+
+M. Joël Aviragnet. J'ai bien entendu que les communes ne subiraient pas de pertes. Néanmoins, nous devons remédier à la situation transitoire. Au bout du compte, les communes doivent récupérer le montant prévu. Entre-temps, la loi a été modifiée. Nous devons veiller à ne pas mettre en difficulté les petites communes.
