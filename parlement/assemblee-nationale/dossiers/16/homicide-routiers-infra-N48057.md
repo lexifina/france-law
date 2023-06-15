@@ -1,0 +1,14 @@
+# Instaurer l’infraction d’homicide routier et modifiant les peines pour diverses infractions routières
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N48057
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/homicide_routiers_infra
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-06-15 : 1er dépôt d'une initiative. (PIONANR5L16B1373)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-06-15 : Renvoi en commission au fond
