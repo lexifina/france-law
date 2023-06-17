@@ -1086,6 +1086,16 @@ Par vent de force 3 Beaufort maximum sur le site d'évolution.
 
 |
 
+CQP "accompagnateur de raft et nage en eau vive", délivrée (**) du 24 avril 2023 au 24 avril 2026. |
+
+3 |
+
+Conduite de séance d'animation en nage en eau vive ou en raft au sein d'un convoi, à des fins de découverte ou d'initiation. |
+
+Sur des rivières naturelles jusqu'en classe 3 ;
+
+Sous la responsabilité d'un titulaire d'un diplôme a minima de niveau 4 présent dans le convoi. |
+
 CANOË-KAYAK-ENVIRONNEMENT SPÉCIFIQUE (rivière de classe supérieure à trois conformément aux normes de classement technique édictées par la fédération délégataire) |
 
 Diplômes délivrés par le ministère chargé des sports |
@@ -2730,6 +2740,18 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
+Certificat de qualification professionnelle délivré par l'organisme certificateur de la branche du sport (OC sport)
+
+|
+
+CQP "initiateur en motocyclisme", du 24 avril 2023 au 24 avril 2026 (**). |
+
+4 |
+
+Conduite de séances de découverte, d'initiation, d'apprentissage et accompagnement de randonnées dans les activités du motocyclisme, jusqu'à la maîtrise complète d'un véhicule terrestre motorisé à guidon (2,3,4 roues ou chenille) et conformément à l'article R. 221-1 du code de la route. |
+
+A l'exclusion des pratiques compétitives. |
+
 MOTONAUTISME
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -2940,7 +2962,23 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 |
 
-Diplômes délivrés par le ministère chargé des sports |
+Diplômes délivrés par le ministère chargé des sports
+
+|
+
+Certificat de qualification professionnelle délivré par l'organisme certificateur de la branche du sport (OC sport)
+
+|
+
+CQP "moniteur de parachutisme ascensionnel nautique", du 24 avril 2023 au 24 avril 2026 (**).
+
+|
+
+3 |
+
+Conduite de séance de découverte et d'initiation au parachutisme ascensionnel nautique |
+
+|
 
 PÊCHE
 
@@ -3145,6 +3183,20 @@ DES JEPS, spécialité " performance sportive " mention " roller-skating ", dél
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+Certificat de qualification professionnelle délivré par l'organisme certificateur de la branche du sport (OC sport)
+
+|
+
+CQP "moniteur de roller", du 24 avril 2023 au 24 avril 2026 (**). |
+
+3 |
+
+Conduite de séance de découverte, d'initiation et d'apprentissage aux activités du roller. |
+
+Dans la limite de 20 pratiquants sur une même séance et un même lieu
 
 |
 
@@ -4062,6 +4114,20 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
+Certificat de qualification professionnelle délivré par l'organisme certificateur de la branche du sport (OC sport)
+
+|
+
+CQP "moniteur de tir sportif", du 24 avril 2023 au 24 avril 2026 (**).
+
+|
+
+3 |
+
+Conduite de séance de découverte et d'initiation au tir sportif |
+
+Pour l'activité découverte : dans la limite de 6 pratiquants sur le même pas de tir. Pour l'activité d'initiation : dans la limite de 10 pratiquants sur le même pas de tir. |
+
 TRIATHLON
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -4465,3 +4531,5 @@ Moniteur professionnel de karaté wushu et disciplines associées, délivré jus
 Conduite de séances de découverte, d'initiation et d'apprentissage en karaté, wushu et disciplines associées. |
 
 |
+
+(**) La personne entrée en formation au plus tard à la date limite de l'inscription du CQP à l'annexe II-1 ou la personne titulaire d'un avis de recevabilité à la validation des acquis de l'expérience obtenu au plus tard jusqu'à cette même date limite peut, à l'obtention du CQP se prévaloir de l'inscription de celui-ci dans le répertoire national des certifications professionnelles et demander à obtenir une carte professionnelle d'éducateur sportif.
