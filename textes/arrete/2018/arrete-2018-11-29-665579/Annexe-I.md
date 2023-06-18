@@ -14,15 +14,13 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte responsabilité (EFR) |
-
 Nombre d'emplois
 
-de conseiller
+à forte responsabilité
 
-d'administration
+(EFR) |
 
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -30,7 +28,7 @@ et de l'outre-mer
 
 Cabinet du ministre |
 
-Chef du bureau des cabinets. |
+Chef du bureau des cabinets |
 
 60 |
 
@@ -84,7 +82,7 @@ Adjoint au chef du bureau de la gestion des autorités préfectorales et de l'en
 
 Direction des libertés publiques et des affaires juridiques |
 
-Chef du bureau des titres d'identité et de voyage au sein de la sous-direction des libertés publiques. |
+Chef du bureau des polices administratives à la sous-direction des polices administratives |
 
 60 |
 
@@ -92,7 +90,7 @@ Chef du bureau des titres d'identité et de voyage au sein de la sous-direction 
 
 1 |
 
-Chef du bureau du contentieux des étrangers au sein de la sous-direction du conseil juridique et du contentieux. |
+Chef du bureau du contentieux des étrangers au sein de la sous-direction du conseil juridique et du contentieux |
 
 60 |
 
@@ -100,7 +98,7 @@ Chef du bureau du contentieux des étrangers au sein de la sous-direction du con
 
 1 |
 
-Chef de la mission du pilotage et de l'appui juridique aux territoires au sein de la sous-direction du conseil juridique et du contentieux. |
+Chef de la mission du pilotage et de l'appui juridique aux territoires au sein de la sous-direction du conseil juridique et du contentieux |
 
 30 |
 
@@ -108,7 +106,7 @@ Chef de la mission du pilotage et de l'appui juridique aux territoires au sein d
 
 1 |
 
-Chef du bureau du droit et des procédures d'expulsion au sein de la sous-direction des polices administratives. |
+Chef du bureau du droit et des procédures d'expulsion au sein de la sous-direction des polices administratives |
 
 30 |
 
@@ -116,7 +114,7 @@ Chef du bureau du droit et des procédures d'expulsion au sein de la sous-direct
 
 1 |
 
-Chef du bureau des établissements de jeux au sein de la sous-direction des polices administratives. |
+Chef du bureau des établissements de jeux au sein de la sous-direction des polices administratives |
 
 30 |
 
@@ -124,7 +122,7 @@ Chef du bureau des établissements de jeux au sein de la sous-direction des poli
 
 1 |
 
-Chef de cabinet. |
+Chef de cabinet |
 
 30 |
 
@@ -132,7 +130,7 @@ Chef de cabinet. |
 
 1 |
 
-Chef du bureau du droit et du contentieux européen, international et institutionnel au sein de la sous-direction du conseil juridique et du contentieux. |
+Chef du bureau du droit et du contentieux européen, international et institutionnel au sein de la sous-direction du conseil juridique et du contentieux |
 
 30 |
 
@@ -142,7 +140,7 @@ Chef du bureau du droit et du contentieux européen, international et institutio
 
 Direction générale de la sécurité civile et de la gestion des crises |
 
-Chef du bureau du soutien logistique et juridique au sein de la sous-direction des affaires internationales, des ressources et de la stratégie. |
+Chef du bureau du soutien logistique et juridique au sein de la sous-direction des affaires internationales, des ressources et de la stratégie |
 
 50 |
 
@@ -150,7 +148,7 @@ Chef du bureau du soutien logistique et juridique au sein de la sous-direction d
 
 1 |
 
-Chef du bureau des sapeurs-pompiers professionnels au sein de la sous-direction de la doctrine et des ressources humaines. |
+Chef du bureau des sapeurs-pompiers professionnels au sein de la sous-direction de la doctrine et des ressources humaines |
 
 30 |
 
@@ -158,7 +156,7 @@ Chef du bureau des sapeurs-pompiers professionnels au sein de la sous-direction 
 
 1 |
 
-Chef des services administratifs et du soutien au sein du groupement des moyens aériens de la sous-direction des moyens nationaux. |
+Chef des services administratifs et du soutien au sein du groupement des moyens aériens de la sous-direction des moyens nationaux |
 
 30 |
 
@@ -166,7 +164,7 @@ Chef des services administratifs et du soutien au sein du groupement des moyens 
 
 1 |
 
-Adjoint au chef du groupement des moyens aériens à la sous-direction des moyens nationaux. |
+Adjoint au chef du groupement des moyens aériens à la sous-direction des moyens nationaux |
 
 30 |
 
@@ -174,7 +172,7 @@ Adjoint au chef du groupement des moyens aériens à la sous-direction des moyen
 
 1 |
 
-Chef du bureau de l'alerte, de la sensibilisation et de l'éducation des publics au sein de la sous-direction de la préparation à la gestion des crises. |
+Chef du bureau de l'alerte, de la sensibilisation et de l'éducation des publics au sein de la sous-direction de la préparation à la gestion des crises |
 
 30 |
 
@@ -182,7 +180,7 @@ Chef du bureau de l'alerte, de la sensibilisation et de l'éducation des publics
 
 1 |
 
-Chef de la mission catastrophes naturelles au sein de la sous-direction de la préparation à la gestion des crises. |
+Chef de la mission catastrophes naturelles au sein de la sous-direction de la préparation à la gestion des crises |
 
 30 |
 
@@ -192,7 +190,7 @@ Chef de la mission catastrophes naturelles au sein de la sous-direction de la pr
 
 Direction du numérique |
 
-Chef du bureau du budget et du contrôle de gestion au sein de la sous-direction des ressources. |
+Chef du bureau du budget et du contrôle de gestion au sein de la sous-direction des ressources |
 
 30 |
 
@@ -200,7 +198,7 @@ Chef du bureau du budget et du contrôle de gestion au sein de la sous-direction
 
 1 |
 
-Chef du bureau des ressources humaines au sein de la sous-direction des ressources. |
+Chef du bureau des ressources humaines au sein de la sous-direction des ressources |
 
 30 |
 
@@ -208,7 +206,7 @@ Chef du bureau des ressources humaines au sein de la sous-direction des ressourc
 
 1 |
 
-Chef du cabinet. |
+Chef du cabinet |
 
 30 |
 
@@ -218,7 +216,7 @@ Chef du cabinet. |
 
 Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier |
 
-Chef du bureau de la gestion des sites de l'administration centrale au sein de la sous-direction des affaires immobilières. |
+Chef du bureau de la gestion des sites de l'administration centrale au sein de la sous-direction des affaires immobilières |
 
 60 |
 
@@ -250,7 +248,7 @@ Chef du bureau de la synthèse budgétaire des opérateurs au sein de la sous-di
 
 1 |
 
-Chef du bureau de la synthèse, du patrimoine et de la stratégie au sein de la sous-direction des affaires immobilières. |
+Chef du bureau de la synthèse, du patrimoine et de la stratégie au sein de la sous-direction des affaires immobilières |
 
 30 |
 
@@ -258,7 +256,7 @@ Chef du bureau de la synthèse, du patrimoine et de la stratégie au sein de la 
 
 1 |
 
-Adjoint au chef du centre des prestations financières au sein de la sous-direction des programmes et de l'achat. |
+Adjoint au chef du centre des prestations financières au sein de la sous-direction de la performance financière |
 
 30 |
 
@@ -266,7 +264,7 @@ Adjoint au chef du centre des prestations financières au sein de la sous-direct
 
 1 |
 
-Chef du bureau de la coordination, des ressources humaines et des moyens. |
+Chef du bureau de la coordination, des ressources humaines et des moyens |
 
 30 |
 
@@ -274,17 +272,17 @@ Chef du bureau de la coordination, des ressources humaines et des moyens. |
 
 1 |
 
-Adjoint au sous-directeur de la coordination et des ressources |
+Adjoint au sous-directeur de la coordination et des ressources, chef du bureau de la performance et de la gestion des programmes |
 
 30 |
 
-|
+- |
 
 1 |
 
 Direction des ressources humaines |
 
-Chef du bureau du centre national de la formation au sein de la sous-direction du recrutement et de la formation. |
+Chef du bureau du centre national de la formation au sein de la sous-direction du recrutement et de la formation |
 
 50 |
 
@@ -292,7 +290,7 @@ Chef du bureau du centre national de la formation au sein de la sous-direction d
 
 1 |
 
-Chef du bureau des affaires financières et de l'évaluation de la dépense au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel. |
+Chef du bureau des affaires financières et de l'évaluation de la dépense au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel |
 
 50 |
 
@@ -302,7 +300,7 @@ Chef du bureau des affaires financières et de l'évaluation de la dépense au s
 
 Chef du bureau du pilotage des
 
-politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel. |
+politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel |
 
 50 |
 
@@ -310,7 +308,7 @@ politiques sociales au sein de la sous-direction de l'action sociale et de l'acc
 
 1 |
 
-Adjoint au chef du bureau des personnels administratifs au sein de la sous-direction des personnels. |
+Adjoint au chef du bureau des personnels administratifs au sein de la sous-direction des personnels |
 
 30 |
 
@@ -318,7 +316,7 @@ Adjoint au chef du bureau des personnels administratifs au sein de la sous-direc
 
 1 |
 
-Adjoint au chef du bureau des personnels techniques et spécialisés au sein de la sous-direction des personnels. |
+Adjoint au chef du bureau des personnels techniques et spécialisés au sein de la sous-direction des personnels |
 
 30 |
 
@@ -326,7 +324,7 @@ Adjoint au chef du bureau des personnels techniques et spécialisés au sein de 
 
 1 |
 
-Adjoint au chef du bureau des affaires générales, des études et des statuts au sein de la sous-direction des personnels. |
+Adjoint au chef du bureau des affaires générales, des études et des statuts au sein de la sous-direction des personnels |
 
 30 |
 
@@ -334,7 +332,7 @@ Adjoint au chef du bureau des affaires générales, des études et des statuts a
 
 1 |
 
-Adjoint au chef du bureau de la paie et des régimes indemnitaires au sein de la sous-direction des personnels. |
+Adjoint au chef du bureau de la paie et des régimes indemnitaires au sein de la sous-direction des personnels |
 
 30 |
 
@@ -342,7 +340,7 @@ Adjoint au chef du bureau de la paie et des régimes indemnitaires au sein de la
 
 1 |
 
-Chef de la mission pour l'innovation en ressources humaines au sein de la mission de gouvernance ministérielle des ressources humaines. |
+Chef de la mission pour l'innovation en ressources humaines au sein de la mission de gouvernance ministérielle des ressources humaines |
 
 30 |
 
@@ -350,7 +348,7 @@ Chef de la mission pour l'innovation en ressources humaines au sein de la missio
 
 - |
 
-Adjoint au directeur de l'application DIALOGUE 2 au sein de la mission de gouvernance ministérielle des ressources humaines. |
+Adjoint au directeur de l'application DIALOGUE 2 au sein de la mission de gouvernance ministérielle des ressources humaines |
 
 30 |
 
@@ -366,8 +364,6 @@ Chef de cabinet |
 
 1 |
 
-|
-
 Chef de mission des affaires budgétaires et des emplois de la fonction RH ministérielle |
 
 0 |
@@ -378,7 +374,7 @@ Chef de mission des affaires budgétaires et des emplois de la fonction RH minis
 
 Direction générale des collectivités locales |
 
-Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat au sein de la sous-direction des compétences et des institutions locales. |
+Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat au sein de la sous-direction des compétences et des institutions locales |
 
 30 |
 
@@ -386,7 +382,7 @@ Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat 
 
 1 |
 
-Chef du bureau de l'emploi territorial et de la protection sociale au sein de la sous-direction des élus locaux et de la fonction publique territoriale. |
+Chef du bureau de l'emploi territorial et de la protection sociale au sein de la sous-direction des élus locaux et de la fonction publique territoriale |
 
 30 |
 
@@ -394,7 +390,7 @@ Chef du bureau de l'emploi territorial et de la protection sociale au sein de la
 
 1 |
 
-Chef de cabinet. |
+Chef de cabinet |
 
 30 |
 
@@ -420,7 +416,7 @@ Chef du bureau de la relation avec les opérateurs et agences |
 
 Direction générale de la police nationale |
 
-Chef du bureau des affaires disciplinaires au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
+Chef du bureau des affaires disciplinaires au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale |
 
 60 |
 
@@ -428,7 +424,7 @@ Chef du bureau des affaires disciplinaires au sein de la sous-direction de l'adm
 
 1 |
 
-Chef du bureau des personnels administratifs, techniques et scientifiques au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
+Adjoint au chef du bureau des gradés et gardien de la paix au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale |
 
 50 |
 
@@ -444,7 +440,7 @@ Adjoint au directeur de projet-travaux préparatoire à la création de la nouve
 
 1 |
 
-Chef du département des réserves opérationnelles de la police nationale au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
+Chef du département des réserves opérationnelles de la police nationale au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale |
 
 60 |
 
@@ -452,7 +448,7 @@ Chef du département des réserves opérationnelles de la police nationale au se
 
 1 |
 
-Adjoint au chef du bureau des gradés et gardiens de la paix au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
+Adjoint au chef du bureau des personnels administratifs, techniques et scientifiques au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale |
 
 30 |
 
@@ -460,7 +456,7 @@ Adjoint au chef du bureau des gradés et gardiens de la paix au sein de la sous-
 
 1 |
 
-Chef du bureau de la prévention et de la qualité de vie au travail au sein de la sous-direction de la prévention, de l'accompagnement et du soutien de la direction des ressources et des compétences de la police nationale. |
+Chef du bureau de la prévention et de la qualité de vie au travail au sein de la sous-direction de la prévention, de l'accompagnement et du soutien de la direction des ressources et des compétences de la police nationale |
 
 50 |
 
@@ -468,7 +464,7 @@ Chef du bureau de la prévention et de la qualité de vie au travail au sein de 
 
 1 |
 
-Secrétaire adjoint pour l'administration générale au sein de la direction des ressources et des compétences de la police nationale. |
+Secrétaire adjoint pour l'administration générale au sein de la direction des ressources et des compétences de la police nationale |
 
 30 |
 
@@ -492,7 +488,7 @@ Chef de la division des ressources au Service de la protection/ SDRMM |
 
 1 |
 
-Adjoint au sous-directeur des ressources et des moyens de la direction centrale du recrutement et de la formation de la police nationale. |
+Adjoint au sous-directeur des ressources et des moyens de la direction centrale du recrutement et de la formation de la police nationale |
 
 50 |
 
@@ -500,7 +496,7 @@ Adjoint au sous-directeur des ressources et des moyens de la direction centrale 
 
 1 |
 
-Chef de cabinet du directeur général de la police nationale. |
+Chef de cabinet du directeur général de la police nationale |
 
 30 |
 
@@ -508,7 +504,7 @@ Chef de cabinet du directeur général de la police nationale. |
 
 1 |
 
-Chef de la division de l'organisation des concours et des dispositifs promotionnels à la sous-direction du recrutement et des dispositifs promotionnels de la direction centrale du recrutement et de la formation de la police nationale. |
+Chef de la division de l'organisation des concours et des dispositifs promotionnels à la sous-direction du recrutement et des dispositifs promotionnels de la direction centrale du recrutement et de la formation de la police nationale |
 
 50 |
 
@@ -524,7 +520,7 @@ Chef de bureau de l'analyse, de la synthèse et de l'animation de la performance
 
 1 |
 
-Chef de la division de la programmation budgétaire à la sous-direction des ressources et des moyens de la direction centrale du recrutement et de la formation de la police nationale. |
+Chef de la division de la programmation budgétaire à la sous-direction des ressources et des moyens de la direction centrale du recrutement et de la formation de la police nationale |
 
 50 |
 
@@ -532,7 +528,7 @@ Chef de la division de la programmation budgétaire à la sous-direction des res
 
 1 |
 
-Chef de la division de la formation aux fonctions administratives, techniques et scientifiques à la sous-direction du développement des compétences de la direction centrale du recrutement et de la formation de la police nationale. |
+Chef de la division de la formation aux fonctions administratives, techniques et scientifiques à la sous-direction du développement des compétences de la direction centrale du recrutement et de la formation de la police nationale |
 
 50 |
 
@@ -548,7 +544,7 @@ Chef du bureau des politiques ministérielles de l'enfance et du logement au sei
 
 1 |
 
-Chef du pôle administratif et technique à la sous-direction des méthodes et de l'appui de la direction centrale du recrutement et de la formation de la police nationale. |
+Chef du pôle administratif et technique à la sous-direction des méthodes et de l'appui de la direction centrale du recrutement et de la formation de la police nationale |
 
 30 |
 
@@ -556,7 +552,7 @@ Chef du pôle administratif et technique à la sous-direction des méthodes et d
 
 1 |
 
-Adjoint au chef de la division des finances et de la logistique à la sous-direction des ressources humaines et de la logistique de la direction centrale de la sécurité publique. |
+Adjoint au chef de la division des finances et de la logistique à la sous-direction des ressources humaines et de la logistique de la direction centrale de la sécurité publique |
 
 20 |
 
@@ -564,7 +560,7 @@ Adjoint au chef de la division des finances et de la logistique à la sous-direc
 
 1 |
 
-Chef de la division de la logistique au sein de la sous-direction de la lutte contre la criminalité organisée et de la délinquance financière. |
+Chef de la division de la logistique au sein de la sous-direction de la lutte contre la criminalité organisée et de la délinquance financière |
 
 30 |
 
@@ -580,7 +576,7 @@ Chef du bureau de la modernisation et de la valorisation des ressources humaines
 
 1 |
 
-Adjoint au chef de projet pilotage des emplois de la police nationale |
+Adjoint au chef de projet " pilotage des emplois de la police nationale " |
 
 0 |
 
@@ -616,7 +612,7 @@ Un poste |
 
 Direction générale des outre-mer |
 
-Chef du bureau des ressources et de la coordination. |
+Chef du bureau des ressources et de la coordination |
 
 30 |
 
@@ -624,7 +620,7 @@ Chef du bureau des ressources et de la coordination. |
 
 - |
 
-Adjoint au chef du bureau du droit public et des affaires institutionnelles à la sous-direction des affaires juridiques et institutionnelles. |
+Adjoint au chef du bureau du droit public et des affaires institutionnelles à la sous-direction des affaires juridiques et institutionnelles |
 
 30 |
 
@@ -632,7 +628,7 @@ Adjoint au chef du bureau du droit public et des affaires institutionnelles à l
 
 1 |
 
-Chef du bureau de la dépense de l'Etat à la sous-direction de l'évaluation, de la prospective et de la dépense de l'état. |
+Chef du bureau de la dépense de l'Etat à la sous-direction de l'évaluation, de la prospective et de la dépense de l'état |
 
 30 |
 
@@ -640,7 +636,7 @@ Chef du bureau de la dépense de l'Etat à la sous-direction de l'évaluation, d
 
 - |
 
-Chef du bureau de la vie économique, de l'emploi et de la formation à la sous-direction des politiques publiques. |
+Chef du bureau de la vie économique, de l'emploi et de la formation à la sous-direction des politiques publiques |
 
 30 |
 
@@ -652,7 +648,7 @@ Chef du bureau de la cohésion sociale, de la santé et de l'enseignement |
 
 0 |
 
-|
+- |
 
 1 |
 
@@ -660,13 +656,13 @@ Chef du bureau des politiques agricoles rurales et maritimes |
 
 0 |
 
-|
+- |
 
 1 |
 
 Direction générale des étrangers en France |
 
-Chef du département de l'accès à la procédure d'asile au sein de la direction de l'asile. |
+Chef du département de l'accès à la procédure d'asile au sein de la direction de l'asile |
 
 60 |
 
@@ -674,7 +670,7 @@ Chef du département de l'accès à la procédure d'asile au sein de la directio
 
 - |
 
-Chef du département de la performance et de la coordination |
+Chef du département de la coopération et de la dimension extérieure de l'asile au sein de la direction de l'asile |
 
 0 |
 
@@ -682,7 +678,7 @@ Chef du département de la performance et de la coordination |
 
 1 |
 
-Chef du bureau de la gestion mutualisée des fonds européens au sein du service du pilotage et des systèmes d'information. |
+Chef du bureau de la gestion mutualisée des fonds européens au sein du service du pilotage et des systèmes d'information |
 
 30 |
 
@@ -690,7 +686,7 @@ Chef du bureau de la gestion mutualisée des fonds européens au sein du service
 
 1 |
 
-Chef du bureau des décrets de naturalisation au sein de la direction de l'intégration et de la nationalité. |
+Chef du bureau des décrets et naturalisation au sein de la direction de l'intégration et de la nationalité |
 
 30 |
 
@@ -706,7 +702,7 @@ Adjoint au sous-directeur de l'accès à la nationalité française au sein de l
 
 1 |
 
-Adjoint au sous-directeur de l'intégration des étrangers au sein de la direction de l'intégration et de l'accès à la nationalité |
+Chef du bureau des processus et du pilotage au sein de la direction de l'immigration |
 
 - |
 
@@ -714,7 +710,7 @@ Adjoint au sous-directeur de l'intégration des étrangers au sein de la directi
 
 1 |
 
-Chef du bureau de l'appui au pilotage au sein de la direction l'intégration et de l'accès à la nationalité |
+Chef du bureau de l'appui au pilotage au sein de la direction de l'intégration et de l'accès à la nationalité |
 
 - |
 
@@ -722,7 +718,7 @@ Chef du bureau de l'appui au pilotage au sein de la direction l'intégration et 
 
 1 |
 
-Chef du bureau des ressources humaines au sein du service du pilotage et des systèmes d'information. |
+Chef du bureau des ressources humaines au sein du service du pilotage et des systèmes d'information |
 
 - |
 
@@ -730,7 +726,7 @@ Chef du bureau des ressources humaines au sein du service du pilotage et des sys
 
 1 |
 
-Adjoint au chef du bureau de la rétention et de l'éloignement au sein de la sous-direction de la lutte contre l'immigration irrégulière de la direction de l'immigration. |
+Adjoint au chef du bureau de la rétention et de l'éloignement au sein de la sous-direction de la lutte contre l'immigration irrégulière de la direction de l'immigration |
 
 - |
 
@@ -740,7 +736,7 @@ Adjoint au chef du bureau de la rétention et de l'éloignement au sein de la so
 
 Agence nationale des titres sécurisés |
 
-Responsable des ressources humaines, adjoint au secrétaire général. |
+Responsable des ressources humaines, adjoint au secrétaire général |
 
 30 |
 
@@ -750,7 +746,7 @@ Responsable des ressources humaines, adjoint au secrétaire général. |
 
 Direction générale de la gendarmerie nationale |
 
-Chef du bureau du personnel civil à la sous-direction de la gestion du personnel de la direction des personnels militaires de la gendarmerie nationale. |
+Chef du bureau du personnel civil à la sous-direction de la gestion du personnel de la direction des personnels militaires de la gendarmerie nationale |
 
 60 |
 
@@ -774,7 +770,7 @@ Chef du bureau de la reconversion et de la transition professionnelle à la sous
 
 1 |
 
-Chef du bureau de la stratégie de communication interne du service d'information et de relations publiques des armées. |
+Chef du bureau de la stratégie de communication interne du service d'information et de relations publiques des armées |
 
 50 |
 
@@ -782,7 +778,7 @@ Chef du bureau de la stratégie de communication interne du service d'informatio
 
 1 |
 
-Chef du bureau de la réglementation et de la fonction militaire au sein de la sous-direction de la politique des ressources humaines. |
+Chef du bureau de la réglementation et de la fonction militaire au sein de la sous-direction de la politique des ressources humaines |
 
 30 |
 
@@ -840,7 +836,7 @@ Adjoint au chef du bureau de la préparation et du pilotage de la masse salarial
 
 Délégation à la sécurité routière |
 
-Chef du bureau national des droits à conduire à la sous-direction de l'éducation routière et du permis de conduire. |
+Chef du bureau national des droits à conduire à la sous-direction de l'éducation routière et du permis de conduire |
 
 50 |
 
@@ -848,7 +844,7 @@ Chef du bureau national des droits à conduire à la sous-direction de l'éducat
 
 1 |
 
-Chef du bureau national de l'immatriculation des véhicules à la sous-direction de la protection des usagers de la route. |
+Chef du bureau national de l'immatriculation des véhicules à la sous-direction de la protection des usagers de la route |
 
 30 |
 
@@ -856,7 +852,7 @@ Chef du bureau national de l'immatriculation des véhicules à la sous-direction
 
 1 |
 
-Chef du bureau de la législation et de la réglementation à la sous-direction de la protection des usagers de la route. |
+Chef du bureau de la législation et de la réglementation à la sous-direction de la protection des usagers de la route |
 
 30 |
 
@@ -874,7 +870,7 @@ Chef du bureau de l'exécution financière et de la commande publique |
 
 Service national de police scientifique |
 
-Secrétaire général. |
+Secrétaire général |
 
 30 |
 
@@ -892,17 +888,11 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte
-
-responsabilité (EFR) |
-
 Nombre d'emplois
 
-de conseiller
+à forte responsabilité (EFR) |
 
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -910,7 +900,7 @@ et de l'outre-mer
 
 SGAMI de la zone de défense et de sécurité Sud. |
 
-Directeur de l'administration générale et des finances. |
+Directeur de l'administration générale et des finances |
 
 60 |
 
@@ -918,7 +908,7 @@ Directeur de l'administration générale et des finances. |
 
 1 |
 
-Directeur des ressources humaines. |
+Directeur des ressources humaines |
 
 60 |
 
@@ -926,9 +916,19 @@ Directeur des ressources humaines. |
 
 1 |
 
-Délégué territorial (délégation territoriale de Toulouse). |
+Délégué territorial (délégation territoriale de Toulouse) |
 
 50 |
+
+- |
+
+1 |
+
+|
+
+Un poste |
+
+20 |
 
 - |
 
@@ -936,7 +936,7 @@ Délégué territorial (délégation territoriale de Toulouse). |
 
 SGAMI de la zone de défense et de sécurité Sud-Ouest. |
 
-Directeur de l'administration générale et des finances. |
+Directeur de l'administration générale et des finances |
 
 50 |
 
@@ -944,7 +944,7 @@ Directeur de l'administration générale et des finances. |
 
 1 |
 
-Directeur des ressources humaines. |
+Directeur des ressources humaines |
 
 50 |
 
@@ -954,7 +954,7 @@ Directeur des ressources humaines. |
 
 SGAMI de la zone de défense et de sécurité Ouest. |
 
-Directeur de l'administration générale et des finances. |
+Directeur de l'administration générale et des finances |
 
 50 |
 
@@ -962,7 +962,7 @@ Directeur de l'administration générale et des finances. |
 
 - |
 
-Directeur des ressources humaines. |
+Directeur des ressources humaines |
 
 60 |
 
@@ -970,7 +970,7 @@ Directeur des ressources humaines. |
 
 - |
 
-Adjoint directeur de l'administration générale et des finances. |
+Adjoint directeur de l'administration générale et des finances |
 
 - |
 
@@ -978,9 +978,19 @@ Adjoint directeur de l'administration générale et des finances. |
 
 1 |
 
-Adjoint au directeur des ressources humaines du SGAMI de la zone de défense et de sécurité Ouest. |
+Adjoint au directeur des ressources humaines du SGAMI de la zone de défense et de sécurité Ouest |
 
 - |
+
+- |
+
+1 |
+
+|
+
+Un poste |
+
+20 |
 
 - |
 
@@ -988,7 +998,7 @@ Adjoint au directeur des ressources humaines du SGAMI de la zone de défense et 
 
 SGAMI de la zone de défense et de sécurité Est. |
 
-Directeur de l'administration générale et des finances. |
+Directeur de l'administration générale et des finances |
 
 50 |
 
@@ -996,7 +1006,7 @@ Directeur de l'administration générale et des finances. |
 
 1 |
 
-Directeur des ressources humaines. |
+Directeur des ressources humaines |
 
 50 |
 
@@ -1004,7 +1014,7 @@ Directeur des ressources humaines. |
 
 1 |
 
-Délégué régional (délégation régionale de Dijon). |
+Délégué régional (délégation régionale de Dijon) |
 
 30 |
 
@@ -1012,9 +1022,19 @@ Délégué régional (délégation régionale de Dijon). |
 
 1 |
 
+|
+
+Chef du pôle zonal des rémunérations |
+
+20 |
+
+- |
+
+1 |
+
 SGAMI de la zone de défense et de sécurité Nord. |
 
-Directeur de l'administration générale et des finances. |
+Directeur de l'administration générale et des finances |
 
 60 |
 
@@ -1022,7 +1042,7 @@ Directeur de l'administration générale et des finances. |
 
 - |
 
-Directeur des ressources humaines. |
+Directeur des ressources humaines |
 
 60 |
 
@@ -1030,7 +1050,7 @@ Directeur des ressources humaines. |
 
 1 |
 
-Chargé de mission auprès du préfet délégué pour la sécurité et de défense. |
+Chargé de mission auprès du préfet délégué pour la sécurité et de défense |
 
 60 |
 
@@ -1048,7 +1068,7 @@ Adjoint au directeur des ressources humaines |
 
 SGAMI de la zone de défense et de sécurité Sud-Est. |
 
-Directeur de l'administration générale et des finances. |
+Directeur de l'administration générale et des finances |
 
 60 |
 
@@ -1056,7 +1076,7 @@ Directeur de l'administration générale et des finances. |
 
 1 |
 
-Directeur des ressources humaines. |
+Directeur des ressources humaines |
 
 60 |
 
@@ -1074,17 +1094,11 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte
-
-responsabilité (EFR) |
-
 Nombre d'emplois
 
-de conseiller
+à forte responsabilité (EFR) |
 
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1102,7 +1116,7 @@ Adjoint au chef de service du cabinet |
 
 Service des affaires juridiques et du contentieux |
 
-Chef du bureau de la protection juridique, de l'assurance et de la réparation. |
+Chef du bureau de la protection juridique, de l'assurance et de la réparation |
 
 50 |
 
@@ -1114,13 +1128,13 @@ Chef du bureau du contentieux judiciaire et de l'excès de pouvoir |
 
 0 |
 
-|
+- |
 
 1 |
 
 Direction des finances, de la commande publique et de la performance |
 
-Adjoint au chef du bureau du budget de l'Etat, chef du pôle programmation. |
+Adjoint au chef du bureau du budget de l'Etat, chef du pôle programmation |
 
 30 |
 
@@ -1146,7 +1160,7 @@ Secrétaire général de la direction des ressources humaines |
 
 1 |
 
-Adjoint au chef du service de gestion des personnels de la police nationale au sein de la sous-direction des personnels. |
+Adjoint au chef du service de gestion des personnels de la police nationale au sein de la sous-direction des personnels |
 
 50 |
 
@@ -1154,7 +1168,7 @@ Adjoint au chef du service de gestion des personnels de la police nationale au s
 
 1 |
 
-Chef du service de gestion des personnels administratifs, techniques, scientifiques et spécialisés au sein de la sous-direction des personnels. |
+Chef du service de gestion des personnels administratifs, techniques, scientifiques et spécialisés au sein de la sous-direction des personnels |
 
 50 |
 
@@ -1186,7 +1200,7 @@ Adjoint au chef du service de recrutement |
 
 1 |
 
-Chef du bureau du corps d'encadrement et d'application et des policiers adjoints au sein de la sous-direction des personnels. |
+Chef du bureau du corps d'encadrement et d'application et des policiers adjoints au sein de la sous-direction des personnels |
 
 50 |
 
@@ -1266,7 +1280,7 @@ Chef de la cellule d'appui et de la coordination zonale |
 
 0 |
 
-|
+- |
 
 1 |
 
@@ -1288,7 +1302,7 @@ Chef du bureau de l'accueil de la demande d'asile |
 
 Direction des transports et de la protection du public |
 
-Chef du bureau des taxis et des transports publics au sein de la sous-direction des déplacements et de l'espace public. |
+Chef du bureau des taxis et des transports publics au sein de la sous-direction des déplacements et de l'espace public |
 
 50 |
 
@@ -1296,7 +1310,7 @@ Chef du bureau des taxis et des transports publics au sein de la sous-direction 
 
 1 |
 
-Chef du bureau des actions de prévention et de protection sanitaires au sein de la sous-direction des polices sanitaires, environnementales et de sécurité. |
+Chef du bureau des actions de prévention et de protection sanitaires au sein de la sous-direction des polices sanitaires, environnementales et de sécurité |
 
 50 |
 
@@ -1304,7 +1318,7 @@ Chef du bureau des actions de prévention et de protection sanitaires au sein de
 
 1 |
 
-Chef du bureau des actions de santé mentale au sein de la sous-direction des polices sanitaires, environnementales et de sécurité. |
+Chef du bureau des actions de santé mentale au sein de la sous-direction des polices sanitaires, environnementales et de sécurité |
 
 50 |
 
@@ -1312,7 +1326,7 @@ Chef du bureau des actions de santé mentale au sein de la sous-direction des po
 
 1 |
 
-Chef du bureau des établissements recevant du public au sein de la sous-direction de la sécurité du public. |
+Chef du bureau des établissements recevant du public au sein de la sous-direction de la sécurité du public |
 
 50 |
 
@@ -1320,7 +1334,7 @@ Chef du bureau des établissements recevant du public au sein de la sous-directi
 
 1 |
 
-Secrétaire général. |
+Secrétaire général |
 
 30 |
 
@@ -1328,7 +1342,7 @@ Secrétaire général. |
 
 1 |
 
-Chef du bureau des titres d'identité au sein du service des titres et des relations avec les usagers. |
+Chef du bureau des titres d'identité au sein du service des titres et des relations avec les usagers |
 
 60 |
 
@@ -1336,7 +1350,7 @@ Chef du bureau des titres d'identité au sein du service des titres et des relat
 
 1 |
 
-Chef du bureau des polices administratives de sécurité au sein de la sous-direction des polices sanitaires, environnementales et de sécurité. |
+Chef du bureau des polices administratives de sécurité au sein de la sous-direction des polices sanitaires, environnementales et de sécurité |
 
 50 |
 
@@ -1344,7 +1358,7 @@ Chef du bureau des polices administratives de sécurité au sein de la sous-dire
 
 1 |
 
-Chef du bureau des droits à conduire au sein du service des titres et relations avec les usagers. |
+Chef du bureau des droits à conduire au sein du service des titres et relations avec les usagers |
 
 50 |
 
@@ -1362,7 +1376,7 @@ Chef du service de gestion opérationnelle |
 
 1 |
 
-Chef du bureau de gestion opérationnelle au sein de la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis. |
+Chef du bureau de gestion opérationnelle au sein de la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis |
 
 30 |
 
@@ -1372,7 +1386,7 @@ Chef du bureau de gestion opérationnelle au sein de la direction territoriale d
 
 Direction de l'innovation, de la logistique et des technologies |
 
-Secrétaire général. |
+Secrétaire général |
 
 60 |
 
@@ -1420,23 +1434,19 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte
-
-responsabilité (EFR) |
-
 Nombre d'emplois
 
-de conseiller
+à forte responsabilité
 
-d'administration
+(EFR) |
 
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
 (CAIOM) |
 
-06 DDSP des Alpes Maritimes |
+06 DDSP des Alpes-Maritimes |
 
 Chef de service de gestion opérationnelle |
 
@@ -1458,7 +1468,7 @@ Chef de service zonal de gestion opérationnelle |
 
 13 DIPJ des Bouches-du-Rhône |
 
-Chef de la division de la logistique. |
+Chef de la division de la logistique |
 
 30 |
 
@@ -1496,7 +1506,7 @@ Chef de service de gestion opérationnelle |
 
 1 |
 
-31 DDSP Haute Garonne |
+31 DDSP Haute-Garonne |
 
 Chef de service de gestion opérationnelle |
 
@@ -1518,7 +1528,7 @@ Chef de service zonal de gestion opérationnelle |
 
 34 DDSP de l'Hérault |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1698,7 +1708,7 @@ Chef de service de gestion opérationnelle |
 
 95 DPAF Roissy |
 
-Chef de la division de l'administration et des finances. |
+Chef de la division de l'administration et des finances |
 
 30 |
 
@@ -1716,17 +1726,13 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte
-
-responsabilité (EFR) |
-
 Nombre d'emplois
 
-de conseiller
+à forte responsabilité
 
-d'administration
+(EFR) |
 
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1752,7 +1758,7 @@ Chef du bureau de l'immobilier et du logement |
 
 1 |
 
-33 Région zonale de gendarmerie Nouvelle Aquitaine |
+33 Région zonale de gendarmerie Nouvelle-Aquitaine |
 
 Chef du bureau de l'accompagnement du personnel |
 
@@ -1812,7 +1818,7 @@ Chef du bureau de la gestion du personnel |
 
 - |
 
-80 Région zonale de gendarmerie Hauts de France |
+80 Région zonale de gendarmerie Hauts-de-France |
 
 Chef du bureau des compétences |
 
@@ -1872,7 +1878,7 @@ Chef du bureau du budget et de l'administration à la division de l'appui opéra
 
 1 |
 
-94 Région zonale de gendarmerie d'Ile de France |
+94 Région zonale de gendarmerie d'Ile-de-France |
 
 Chef du bureau des compétences |
 
@@ -1906,17 +1912,13 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte
-
-responsabilité (EFR) |
-
 Nombre d'emplois
 
-de conseiller
+à forte responsabilité
 
-d'administration
+(EFR) |
 
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -2112,11 +2114,11 @@ Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
+|
+
 Total
 
-du nombre
-
-d'EFR |
+du nombre d'EFR |
 
 60 points |
 
@@ -2142,9 +2144,7 @@ de CAIOM |
 
 20 points |
 
-Sans point
-
-de NBI |
+Sans point de NBI |
 
 01 Ain |
 
@@ -2476,11 +2476,11 @@ de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
-|
+1 |
 
 15 Cantal |
 
@@ -3682,7 +3682,7 @@ de NBI |
 
 - |
 
-64 Pyrénées Atlantiques |
+64 Pyrénées-Atlantiques |
 
 - |
 
@@ -4308,7 +4308,7 @@ de NBI |
 
 90 Territoire de Belfort |
 
-- |
+1 |
 
 - |
 
@@ -4316,7 +4316,7 @@ de NBI |
 
 - |
 
-- |
+1 |
 
 2 |
 
@@ -4326,9 +4326,9 @@ de NBI |
 
 1 |
 
-1 |
-
 - |
+
+1 |
 
 91 Essonne |
 
@@ -4618,7 +4618,7 @@ de NBI |
 
 - |
 
-986 Wallis et Futuna |
+986 Wallis-et-Futuna |
 
 |
 
@@ -4728,9 +4728,7 @@ de CAIOM |
 
 20 points |
 
-Sans point
-
-de NBI |
+Sans point de NBI |
 
 01 Ain |
 
@@ -5062,11 +5060,11 @@ de NBI |
 
 - |
 
-- |
-
-- |
-
 1 |
+
+- |
+
+- |
 
 15 Cantal |
 
@@ -5236,7 +5234,7 @@ de NBI |
 
 1 |
 
-22 Côtes d'Armor |
+22 Côtes-d'Armor |
 
 - |
 
@@ -5452,7 +5450,7 @@ de NBI |
 
 1 |
 
-31 Haute Garonne |
+31 Haute-Garonne |
 
 - |
 
@@ -5740,7 +5738,7 @@ de NBI |
 
 - |
 
-44 Loire Atlantique |
+44 Loire-Atlantique |
 
 - |
 
@@ -6148,7 +6146,7 @@ de NBI |
 
 - |
 
-62 Pas de Calais |
+62 Pas-de-Calais |
 
 - |
 
@@ -6172,7 +6170,7 @@ de NBI |
 
 - |
 
-63 Puy de Dôme |
+63 Puy-de-Dôme |
 
 - |
 
@@ -6220,7 +6218,7 @@ de NBI |
 
 - |
 
-65 Hautes Pyrénées |
+65 Hautes-Pyrénées |
 
 - |
 
@@ -6244,7 +6242,7 @@ de NBI |
 
 - |
 
-66 Pyrénées Orientales |
+66 Pyrénées-Orientales |
 
 - |
 
@@ -6820,7 +6818,7 @@ de NBI |
 
 1 |
 
-94 Val de Marne |
+94 Val-de-Marne |
 
 - |
 
