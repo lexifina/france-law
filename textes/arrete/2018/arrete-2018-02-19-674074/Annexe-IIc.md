@@ -4,27 +4,23 @@ RÈGLEMENT D'EXAMEN
 
 BTS Métiers de l'eau |
 
-Scolaires
+Scolaires (établissements publics ou privés
 
-(établissements publics
+sous contrat)
 
-ou privés sous contrat)
+Apprentis (CFA
 
-Apprentis
-
-(CFA ou sections d'apprentissages habilités)
-
-Formation professionnelle continue dans les établissements publics habilités |
+ou sections d'apprentissages habilités)
 
 Formation professionnelle continue
 
-(établissements publics habilités
+dans les établissements publics habilités |
 
-à pratiquer le CCF) |
+Formation professionnelle continue
 
-Scolaires
+(établissements publics habilités à pratiquer le CCF) |
 
-(établissements privés hors contrat)
+Scolaires (établissements privés hors contrat)
 
 Apprentis
 
@@ -32,15 +28,13 @@ Apprentis
 
 non habilités)
 
-Formation professionnelle continue
-
-(établissement privé)
+Formation professionnelle continue (établissement privé)
 
 Au titre de l'expérience professionnelle
 
 Enseignement à distance |
 
-Epreuves |
+Épreuves |
 
 Unités |
 
@@ -58,15 +52,15 @@ Forme |
 
 Durée |
 
+ÉPREUVES GÉNÉRALES |
+
 E1-Culture générale et expression |
 
 U1 |
 
 2 |
 
-écrite
-
-ponctuelle |
+écrite ponctuelle |
 
 4 h |
 
@@ -76,9 +70,7 @@ CCF
 
 |
 
-écrite
-
-ponctuelle |
+écrite ponctuelle |
 
 4 h |
 
@@ -88,47 +80,55 @@ U2 |
 
 2 |
 
+écrite et orale ponctuelle |
+
+45 min
+
++
+
+15 min |
+
 CCF
 
 2 situations d'évaluation |
 
 |
 
-CCF
+écrite et orale ponctuelle |
 
-2 situations d'évaluation |
+45 min
+
++
+
+15 min |
+
+E3-Mathématiques et Physique-chimie |
 
 |
 
-orale
-
-ponctuelle |
-
-45 min |
-
-E3-Exploitation des unités de traitement et des réseaux |
-
-E31-Pilotage d'opérations de production, de traitement et de transfert des eaux |
+E31-Mathématiques |
 
 U31 |
 
-9 |
+1,5 |
 
-écrite et pratique ponctuelle |
-
-12 h |
-
-écrite et pratique ponctuelle |
-
-12 h |
-
-écrite et
-
-pratique
+écrite
 
 ponctuelle |
 
-12 h |
+2 h |
+
+écrite
+
+ponctuelle |
+
+2 h |
+
+écrite
+
+ponctuelle |
+
+2 h |
 
 E32-Physique-chimie |
 
@@ -148,79 +148,67 @@ CCF
 
 |
 
-pratique
-
-ponctuelle |
+pratique ponctuelle |
 
 2 h |
 
-E4-Démarche QSE et outils en milieu professionnel |
+ÉPREUVES PROFESSIONNELLES |
 
-E41-Projet technique et démarche QSE |
+E4-Exploitation des unités de traitement et des réseaux |
 
-U41 |
+U4 |
+
+9 |
+
+écrite ponctuelle et CCF |
+
+12 h |
+
+écrite ponctuelle et CCF |
+
+12 h |
+
+écrite et pratique ponctuelle |
+
+12 h |
+
+E5-Étude de l'environnement professionnel |
+
+E51-Projet technique et démarche QSE |
+
+U51 |
 
 4 |
 
-orale
-
-ponctuelle |
+orale ponctuelle |
 
 50 min |
 
-orale
-
-ponctuelle |
+orale ponctuelle |
 
 50 min |
 
-orale
-
-ponctuelle |
+orale ponctuelle |
 
 50 min |
 
-E42-Mathématiques |
+E52-Organisation, management et développement de l'activité |
 
-U42 |
-
-1,5 |
-
-écrite ponctuelle |
-
-2h |
-
-écrite ponctuelle |
-
-2h |
-
-écrite ponctuelle |
-
-2h |
-
-E5-Organisation, management et développement de l'activité |
-
-U5 |
+U52 |
 
 3 |
 
-orale (1)
+écrite ponctuelle |
 
-ponctuelle |
+4 h |
 
-20 min |
+écrite ponctuelle |
 
-orale (1)
+4 h |
 
-ponctuelle |
+écrite ponctuelle |
 
-20 min |
-
-orale (1)
-
-ponctuelle |
-
-20 min |
+4 h |
 
 E6-Conception des unités de traitement et des réseaux |
 
@@ -238,44 +226,58 @@ CCF
 
 1 situation d'évaluation |
 
-7 h |
+|
 
-pratique
-
-ponctuelle |
+pratique ponctuelle |
 
 7 h |
 
-Epreuve facultative (2) Langue vivante étrangère 2 (3) |
+ÉPREUVES FACULTATIVES |
+
+EF11
+
+Langue vivante étrangère 22 |
 
 UF1 |
 
-|
+1 |
 
-orale
+orale ponctuelle |
 
-ponctuelle |
+15 min, précédées de 15 min de préparation |
+
+orale ponctuelle |
+
+15 min, précédées de 15 min de préparation |
+
+orale ponctuelle |
+
+15 min, précédées de 15 min de préparation |
+
+EF21
+
+Engagement étudiant |
+
+UF2 |
+
+1 |
+
+orale ponctuelle |
 
 20 min |
 
-orale
-
-ponctuelle |
+orale ponctuelle |
 
 20 min |
 
-orale
-
-ponctuelle |
+orale ponctuelle |
 
 20 min |
 
-(1) L'épreuve E5, d'une durée de 20 minutes, est précédée de 2 heures de préparation.
+(1) Seuls les points au-dessus de la moyenne sont pris en compte.
 
-(2) Seuls les points au-dessus de la moyenne sont pris en compte.
-
-(3) La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire.
+(2) La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 2 mars 2020, les présentes dispositions s'appliquent à compter de la session 2020 à l'exception des dispositions relatives à l'unité U42 (Mathématiques) qui entreront en vigueur à compter de la session 2021.
+Conformément à l'article 8 de l'arrêté du 1er juin 2023 (NOR : ESRS2315390A), ces dispositions s'appliquent à compter de la session d'examen 2024.
