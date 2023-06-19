@@ -488,9 +488,15 @@ H. 2. Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-I. Fiche d'opération standardisée BAR-TH-112-Appareil indépendant de chauffage au bois :
+I. - Fiche d'opération standardisée BAR-TH-112 “Appareil indépendant de chauffage au bois” :
 
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
+Doivent être vérifiés lors des contrôles par contact :
+
+- l'existence d'un appareil indépendant de chauffage au bois installé ;
+
+- l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
 J. Fiche d'opération standardisée BAT-TH-139 Système de récupération de chaleur sur un groupe de production de froid :
 
@@ -1160,7 +1166,7 @@ AG. Fiche d'opération standardisée TRA-EQ-124 " Branchement électrique des na
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en " non satisfaisant ".
 
-AG. I. Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations (à l'exception du point 1, ayant un avis " non accessible/ non vérifiable ", lequel n'influe pas sur la conclusion du rapport) :
+AG.I. Les critères suivants doivent conduire à un classement “non satisfaisant” de l'opération pour les contrôles sur le lieu des opérations :
 
 1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu le devis ;
 

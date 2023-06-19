@@ -50,6 +50,8 @@ Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRE
 
 - Horloge astronomique pour l’éclairage extérieur / Fiche d’opération n° RES-EC-107 (Abrogée à compter du 1er janvier 2022)
 
+Conformément à l’article 1er de l’arrêté du 13 juin 2023 (NOR : ENER2313571A), la fiche d'opération standardisée d'économies d'énergie est remplacée, à compter du 1er octobre 2023, par la fiche portant les mêmes références en annexe 5 dudit arrêté.
+
 Liens :
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28/12/2022, texte n° 71, accessible à l’adresse suivante :
@@ -99,3 +101,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=ZucI2g3TB8391J-G1h9Dua3PzXyh2U2x_
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 24/12/2014, texte nº 18, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 140 du 18/06/2023, texte nº 46, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=iVuAD5uJii2qhcSZRN7xvb1VcLEUO_fLcFP_T3B1mvk=

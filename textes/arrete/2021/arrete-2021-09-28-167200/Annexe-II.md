@@ -2,9 +2,9 @@
 
 TAUX MINIMAUX DE CONTRÔLES SATISFAISANTS APPLICABLES AUX OPÉRATIONS STANDARDISÉES D'ÉCONOMIES D'ÉNERGIE ENGAGÉES À COMPTER DU 1ER JANVIER 2022
 
-Référence de la fiche d'opération
+Référence de la fiche
 
-standardisée |
+d'opération standardisée |
 
 Taux minimal de contrôles satisfaisants appliqué aux opérations réalisées |
 
@@ -12,7 +12,7 @@ Type de contrôles |
 
 Applicable
 
-aux opérations engagées : |
+aux opérations engagées |
 
 AGRI-TH-104 |
 
@@ -216,16 +216,6 @@ Par contact |
 
 BAR-TH-125 (uniquement les installations collectives) |
 
-10 % |
-
-Sur le lieu des opérations |
-
-Entre le 01/07/2023 et le 31/12/2023 |
-
-20 % (en sus des contrôles sur le lieu, ci-dessus) |
-
-Par contact |
-
 12,5 % |
 
 Sur le lieu des opérations |
@@ -266,13 +256,27 @@ Par contact |
 
 A compter du 01/01/2025 |
 
-BAR-EN-104, BAR-TH-112 |
+BAR-TH-112 |
 
 20 % |
 
 Par contact |
 
 Entre le 01/07/2023 et le 31/12/2023 |
+
+25 % |
+
+Par contact |
+
+Entre le 01/01/2024 et le 31/12/2024 |
+
+30 % |
+
+Par contact |
+
+A compter du 01/01/2025 |
+
+BAR-EN-104 |
 
 25 % |
 
@@ -403,16 +407,6 @@ A compter du 01/01/2025 |
 Par contact |
 
 BAT-TH-113 |
-
-10 % |
-
-Sur le lieu des opérations |
-
-Entre le 01/07/2023 et le 31/12/2023 |
-
-20 % (en sus des contrôles sur le lieu, ci-dessus) |
-
-Par contact |
 
 12,5 % |
 
@@ -641,3 +635,21 @@ Entre le 01/01/2024 et le 31/12/2024 |
 Par contact |
 
 A compter du 01/01/2025 |
+
+BAR-TH-160,
+
+BAR-TH-161,
+
+BAT-TH-146,
+
+BAT-TH-155,
+
+IND-UT-121,
+
+RES-CH-108 |
+
+100 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/10/2023 |
