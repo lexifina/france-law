@@ -38,7 +38,7 @@ Elle participe à la protection et à la gestion durable du milieu aquatique et 
 
 Elle peut élaborer, compte tenu de la fonction d'animation et d'orientation des associations agréées de pêche, une charte de la pêche en France pour exposer les principes d'un développement durable de la pêche et sa contribution à la conservation de la biodiversité. Ce document établit un code de bonnes pratiques et de gestion que chaque fédération départementale et ses adhérents doivent mettre en oeuvre.
 
-Elle peut créer un dispositif d'adhésion par internet mis à disposition des fédérations départementales et des AAPPMA.
+Elle gère le site Internet consacré à l'adhésion des pêcheurs aux AAPPMA et aux ADAPAEF et collecte le montant global de leurs cotisations. Dans ce cadre, elle reverse aux FDAAPPMA le produit des cotisations des pêcheurs, dont est déduit le montant de la cotisation “ pêche et milieux aquatiques ”.
 
 Elle peut créer, participer ou adhérer à une fondation, ou des opérations nationales en relation avec ses missions.
 
@@ -56,9 +56,9 @@ Article 3
 
 La Fédération nationale regroupe l'ensemble des fédérations départementales de métropole et d'outre-mer.
 
-L'adhésion résulte du paiement par chaque fédération départementale d'une cotisation obligatoire, prévue à l'article L. 434-5 du code de l'environnement, proportionnelle au nombre des pêcheurs adhérant aux associations que ces dernières regroupent, dont le montant est fixé par l'assemblée générale de la Fédération nationale, sur proposition de son conseil d'administration.
+L'adhésion résulte de la perception par la Fédération d'une cotisation obligatoire prévue à l'article L. 434-5 du code de l'environnement, due par les fédérations départementales proportionnellement au nombre des pêcheurs adhérant aux associations que ces dernières regroupent. Le montant de base de la cotisation “ pêche et milieux aquatiques ” est fixé par l'assemblée générale de la Fédération nationale, sur proposition de son conseil d'administration, conformément à l'article 10.
 
-Dans le cadre du dispositif d'adhésion par internet mentionné à l'article 2, le montant de la cotisation pêche et milieux aquatiques prévue à l'article 10 peut être perçu directement par la Fédération nationale de la pêche et de la protection des milieux aquatiques. Le montant restant des cotisations est reversé aux fédérations départementales.
+Dans le cadre du dispositif d'adhésion par internet mentionné à l'article 2, la cotisation “ pêche et milieux aquatiques ” est perçue directement par la Fédération nationale.
 
 Durée et siège social
 
@@ -192,6 +192,12 @@ Le secrétaire tient procès-verbal des séances du conseil d'administration.
 
 Les procès-verbaux sont signés par le président et le secrétaire. Ils sont établis sans blanc, ni rature, sur des feuillets numérotés dans un registre spécial conservé au siège de la Fédération nationale.
 
+Article 7 bis
+
+Le conseil d'administration statue sur le principe et les modalités de recours aux conférences téléphoniques ou audiovisuelles, pour les assemblées générales, les réunions du conseil d'administration et du bureau.
+
+En cas de recours à la conférence téléphonique ou audiovisuelle, les membres participant ou votant à distance sont réputés présents. Ils sont avisés par tout moyen des conditions dans lesquelles ils pourront exercer l'ensemble des droits attachés à leur qualité. Les décisions sont alors régulièrement prises.
+
 Article 8
 
 L'exercice social, fixé à douze mois, commence le 1er janvier et se termine le 31 décembre de l'année civile.
@@ -218,7 +224,7 @@ a) Les produits comprenant notamment :
 
 -les produits financiers ;
 
--le produit de la cotisation obligatoire proportionnelle au nombre des pêcheurs adhérant aux associations agréées que les fédérations départementales (FDAAPPMA) regroupent, appelée cotisation pêche et milieu aquatique (CPMA).
+-le produit de la cotisation pêche et milieu aquatique (CPMA).
 
 Son montant de base est arrêté chaque année par l'assemblée générale de la fédération nationale, sur proposition de son conseil d'administration, selon les catégories de cartes de pêche suivantes :
 
@@ -332,9 +338,9 @@ Une assemblée générale ordinaire se réunit au moins une fois par an dans les
 
 L'assemblée générale ordinaire entend le rapport de gestion du conseil d'administration, le rapport moral, le rapport d'activité du président, ainsi que le rapport financier du trésorier et le rapport du commissaire aux comptes. L'assemblée générale ordinaire statue sur ces rapports. L'assemblée générale ordinaire approuve les comptes de fin d'exercice sur proposition du conseil d'administration.
 
-L'assemblée générale ordinaire approuve ou redresse le budget de l'exercice débutant le 1er janvier de l'année suivante et fixe ainsi le montant de la cotisation obligatoire due par chaque fédération départementale.
+L'assemblée générale ordinaire approuve ou redresse le budget de l'exercice débutant le 1er janvier de l'année suivante et fixe ainsi le montant de la cotisation obligatoire perçue par la Fédération nationale.
 
-L'assemblée générale ordinaire détermine les montants nationaux des cotisations versées par les fédérations adhérentes proportionnellement au nombre de pêcheurs adhérant aux associations que ces dernières regroupent.
+L'assemblée générale ordinaire détermine les montants des cotisations “ pêche et milieux aquatiques ” dues par les fédérations adhérentes.
 
 L'assemblée générale ordinaire autorise toutes opérations d'acquisition, d'échange ou de vente d'immeuble nécessaires à l'accomplissement de l'objet de la fédération nationale ou à sa gestion et donne au conseil d'administration toutes les autorisations nécessaires à ces fins.
 
@@ -422,4 +428,4 @@ Déposé à la préfecture le
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 25 août 2020 la Fédération nationale de la pêche et de la protection du milieu aquatique met ses statuts en conformité avec le modèle ainsi modifié dans un délai de quatre mois à compter de la publication du présent arrêté.
+Se reporter aux modalités d'application prévues à l'article 2 de l'arrêté du 2 juin 2023 (NOR : TREL2308785A).
