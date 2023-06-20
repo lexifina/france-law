@@ -1,0 +1,9 @@
+# Réponse à la question n° 6904
+
+- Question : [6904](6904.md) — Question n° 6904 — Application de la proposition de loi créant la fonction de directeur d'école
+
+## Réponse
+
+*JO du 2023-06-20, page 5592*
+
+Le Gouvernement est pleinement conscient de l'ampleur des missions confiées aux directeurs d'école, essentiels au bon fonctionnement du service public de l'éducation. Leurs responsabilités sont multiples et se sont accrues au cours des dernières années (pilotage pédagogique, fonctionnement de l'école, relations avec les parents et les partenaires de l'école). Depuis 2019, l'amélioration des conditions d'exercice des directeurs d'école constitue l'un des principaux chantiers inscrit à l'agenda social du ministère. La loi n° 2021-1716 du 21 décembre 2021 créant la fonction de directrice ou de directeur d'école a été promulguée afin de préciser et de renforcer leur rôle. Elle reconnaît la spécificité de la fonction de directrice et directeur d'école et prévoit un meilleur accompagnement dans leurs missions. Cette loi nécessite en effet l'intervention de plusieurs décrets d'application. Certains décrets d'application de la loi ont d'ores et déjà fait l'objet d'une publication. Il s'agit du décret n° 2022-541 du 13 avril 2022 fixant le régime des décharges de service des directeurs d'école et du décret n° 2022-724 du 28 avril 2022 relatif à la mission de référent direction d'école. Les autres décrets d'application notamment celui relatif à l'avancement accéléré et aux conditions de nomination dans l'emploi de directeur d'école et celui relatif aux missions de directeur et directrice d'école dont les dispositions seront intégrées dans le code de l'éducation font actuellement l'objet de concertations avec les organisations syndicales représentatives. Leur publication aura lieu pour une entrée en vigueur à la rentrée scolaire 2023.
