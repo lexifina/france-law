@@ -1,0 +1,9 @@
+# Réponse à la question n° 3737
+
+- Question : [3737](3737.md) — Question n° 3737 — Systèmes de pilotage de consommation de l'énergie dans les politiques publiques
+
+## Réponse
+
+*JO du 2023-06-20, page 5635*
+
+Le plan de sobriété énergétique publié le 6 octobre 2022 a fait de la réduction des consommations de gaz et d'électricité dans les bâtiments une priorité. Le pilotage des consommations en est un levier important, que ce soit pour les entreprises avec les systèmes d'automatisation et de contrôle dans les bâtiments tertiaires ou pour les ménages avec les thermostats et système de régulation et de pilotage. Le plan de sobriété a tout d'abord fixé l'objectif d'installer des régulateurs automatiques de température dans tous les bâtiments : cette évolution réglementaire est en cours de finalisation et le décret sortira prochainement. Les ménages peuvent obtenir une aide du dispositif CEE d'un montant d'environ 65 € afin d'aider à l'installation de ces systèmes de régulation automatique de température. Dans les bâtiments tertiaires, la mise en œuvre du plan de sobriété a mené à la publication de décret n° 2023-259 du 7 avril 2023 relatif aux systèmes d'automatisation et de contrôle des bâtiments tertiaires (dit « décret BACS »). Ce décret renforce les exigences de pilotage des bâtiments tertiaires en élargissant le périmètre de l'obligation aux bâtiments avec une puissance de plus de 70 kW à partir de 2027 (contre uniquement les bâtiments avec une puissance de plus de 290 kW à partir de 2025 jusqu'alors), en restreignant les possibilités d'exemption et en introduisant un contrôle périodique obligatoire tous les cinq ans pour s'assurer du bon fonctionnement du système. Par ailleurs, dans le cadre du plan de sobriété, les aides CEE à l'installation de systèmes d'automatisation et de contrôle des bâtiments tertiaires ont été bonifiées de 50 à 100 % jusqu'à la fin de l'année 2023.
