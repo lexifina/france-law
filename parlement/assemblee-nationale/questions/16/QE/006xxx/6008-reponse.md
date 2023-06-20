@@ -1,0 +1,9 @@
+# Réponse à la question n° 6008
+
+- Question : [6008](6008.md) — Question n° 6008 — Statut de médecin coordonateur libéral
+
+## Réponse
+
+*JO du 2023-06-20, page 5632*
+
+Le médecin coordonnateur en établissement d'hébergement pour personnes âgées dépendantes (EHPAD) est en charge de l'élaboration et du suivi du projet de soins de l'établissement, de l'évaluation médicale des résidents et de l'animation de l'équipe soignante. Il n'est toutefois pas le médecin traitant des résidents. Les textes réglementaires fixent que le médecin coordonnateur fait partie de l'équipe de l'EHPAD sous la responsabilité du directeur d'établissement. Le bon exercice de la coordination et de l'encadrement des équipes soignantes est facilité par le fait que le médecin coordonnateur soit membre de l'établissement, sous la responsabilité du directeur d'établissement comme ses collaborateurs, et non un intervenant extérieur. Il est toutefois possible pour un médecin de mener deux activités en parallèle : une activité libérale et une activité salariée de médecin coordonnateur au sein d'un EHPAD. Les temps de présence du médecin coordonnateur dans les EHPAD prévus par l'article D. 312-156 du code de l'action sociale et des familles permettent tout à fait cette double activité. En effet, le temps de présence est inférieur à 0,60 équivalent temps plein pour les établissements comptant moins de 100 places. La réglementation facilite cette double activité avec la signature de deux contrats pour le médecin concerné : un contrat en tant que médecin coordonnateur avec le représentant de l'EHPAD qui mentionne les modalités d'exercice de ses missions et son temps d'activité ; un contrat en tant professionnel de santé avec le représentant de l'EHPAD dans le cas où il intervient au sein de l'EHPAD comme médecin traitant d'un résident.
