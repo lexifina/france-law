@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230104925
+
+- Question : [SEQ230104925](seq230104925.md) — Risque d'effondrement sur un terrain privé
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-06-22, page 3929*
+
+En application de l'article L. 2213-27 du Code général des collectivités territoriales (CGCT), « le maire peut prescrire aux propriétaires, usufruitiers, fermiers ou à tous autres possesseurs ou exploitants d'entourer d'une clôture suffisante les puits et les excavations présentant un danger pour la sécurité publique ». Toutefois, ces dispositions ne sont pas applicables dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, en application de l'article L. 2542-1 du CGCT. L'absence d'application de l'article L. 2213-27 en Alsace et en Moselle ne fait pas obstacle à ce que les maires de ces départements puissent prendre les mesures nécessaires à la sécurité publique, y compris à l'égard d'un terrain privé qui ne serait pas fermé et qui présenterait un danger. En effet, plusieurs des articles du CGCT qui sont particuliers aux pouvoirs de police des maires alsaciens et mosellans fondent bien la responsabilité de ces derniers : l'article L. 2542-3 (« Les fonctions propres au maire sont de faire jouir les habitants des avantages d'une bonne police, notamment de la propreté, de la salubrité, de la sûreté et de la tranquillité dans les rues, lieux et édifices publics. Il appartient également au maire de veiller à la tranquillité, à la salubrité et à la sécurité des campagnes. ») ; le quatrième alinéa de l'article L. 2542-4 (« Le maire a également le soin : […] de prévenir par des précautions convenables […] les accidents ») ; le 1° de l'article L. 2542-8 (« Le maire peut prendre des arrêtés : […] lorsqu'il s'agit d'ordonner les précautions locales sur les objets confiés à sa vigilance et à son autorité par […] les deuxième, troisième et quatrième alinéas de l'article L. 2542-4 »).
