@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230406236
+
+- Question : [SEQ230406236](seq230406236.md) — Application aux collectivités territoriales des règles de la prescription trentenaire
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-06-22, page 3928*
+
+L'usucapion permet d'acquérir le droit de propriété sur un bien immeuble par une possession prolongée de trente ans et, par exception, de dix ans en cas de justification d'un titre acquis de bonne foi. La Cour de cassation a jugé que « les personnes publiques peuvent acquérir par prescription » dès lors que les dispositions du Code général de la propriété des personnes publiques, qui définissent les modes spécifiques d'acquisition de la propriété immobilière par les personnes publiques, ne sont pas exhaustives ni exclusives des modes d'acquisition de droit commun de la propriété immobilière notamment de l'acquisition de la propriété d'une parcelle par prescription acquisitive trentenaire (Cass., 3e civ., 4 janvier 2023, n° 21-18.993). Ainsi, une commune, si elle s'y croit fondée, peut engager une action en revendication de propriété sur le fondement de la prescription acquisitive devant le juge judiciaire. Il revient à la personne qui se prévaut de la prescription acquisitive de prouver une « possession continue et non interrompue, paisible, publique, non équivoque, et à titre de propriétaire » (article 2261 du Code civil). Le juge dispose d'un pouvoir souverain pour caractériser les faits de possession invoqués en vue de la prescription (Cass., 3e civ., 7 mars 1972, n° 70-14.512). Le paiement de la taxe foncière par le « propriétaire », sans constituer un élément décisif, atteste néanmoins de l'absence d'abandon du bien et de l'affirmation de la qualité de propriétaire (CA d'Aix-en-Provence, 26 novembre 2020, n° 18/10552). En outre, ce paiement est susceptible d'entacher d'équivoque la possession (CA de Paris, 19 janvier 2018, n° 13/247947).
