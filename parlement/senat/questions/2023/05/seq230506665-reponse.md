@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230506665
+
+- Question : [SEQ230506665](seq230506665.md) — Financement des heures de soutien en classe de 6e
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2023-06-22, page 3925*
+
+La transformation du collège a pour objectif de donner à tous les élèves les moyens de réussir. Dans cette perspective et dans la continuité de l'école élémentaire, la classe de 6e doit assurer à chaque élève la maîtrise des savoirs fondamentaux. Ainsi à la rentrée 2023, tous les élèves entrant en classe de 6e bénéficieront d'une heure hebdomadaire de soutien ou d'approfondissement en français ou en mathématiques et d'un accompagnement aux devoirs, par le dispositif « Devoirs faits ». L'heure hebdomadaire de soutien ou d'approfondissement a pour objectif de consolider et d'approfondir les bases des élèves de 6e en français et en mathématiques. Elle vient en complément de l'accompagnement personnalisé intégré dans les différents enseignements. Elle est organisée autour de compétences précises et se caractérise par une offre pédagogique ajustée aux besoins de chaque élève. Selon les besoins des élèves et le projet d'apprentissage élaboré pour y répondre, l'heure hebdomadaire de soutien ou d'approfondissement peut être organisée avec des effectifs plus réduits. Le chef d'établissement peut mobiliser les moyens de la dotation horaire supplémentaire, sur la base de trois heures par semaine et par division, ou faire intervenir des professeurs des écoles. Dans le cadre du « PACTE 1er degré », les professeurs des écoles pourront assurer cette mission de type « face à face pédagogique » de soutien ou d'approfondissement en 6e, correspondant à une part fonctionnelle de 18 heures annuelles. Ce financement spécifique et complémentaire au redéploiement de l'heure de technologie permettra de répondre au besoin de constituer des groupes à effectifs réduits.
