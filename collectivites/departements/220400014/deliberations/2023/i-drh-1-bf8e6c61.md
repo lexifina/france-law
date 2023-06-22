@@ -1,0 +1,10 @@
+# DEPARTEMENT DES ALPES DE HAUTE PROVENCE : délibération I-DRH-1 — Créations, transformations,suppressions de postes et autres mesures de gestion
+
+- Collectivité : DEPARTEMENT DES ALPES DE HAUTE PROVENCE
+- SIREN : 220400014
+- Date : 2023-06-22
+- Séance : AD
+- Matière : Direction des Ressources Humaines
+- Objet : Créations, transformations,suppressions de postes et autres mesures de gestion
+- Acte publié : http://cga-prod-11.oxyd.net:8080/jsp/seance_agenda.jsp?date=22-06-2023&assembly=Assembl%C3%A9e%20d%C3%A9partementale&type=apres&role=usager
+- Jeu de données : https://www.data.gouv.fr/datasets/66fa9a1833b5afe2d5679c9f
