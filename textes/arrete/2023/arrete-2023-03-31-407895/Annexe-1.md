@@ -3373,3 +3373,53 @@ Sous-quota (tonnes) |
 3 683 |
 
 (1) Pour les navires titulaires de l'AEP thon blanc (Thunnus alalunga) avec l'engin chalut pélagique dans l'océan Atlantique au nord de 5° N, les captures sont autorisées dans la limite de 3 tonnes par navire et par marée.
+
+Libellé
+
+du quota |
+
+Zone de référence
+
+du Conseil international
+
+pour l'exploration
+
+de la mer (CIEM) |
+
+Code stock |
+
+|
+
+Navires titulaires d'une AEP
+
+"thon germon
+
+de Méditerranée" (1) |
+
+Navires non titulaires d'une AEP "thon germon de Méditerranée" (2) |
+
+Total |
+
+Albacore |
+
+Mer méditerranée |
+
+ALB/ MED |
+
+Sous-quota (tonnes) |
+
+13,5 |
+
+1,5 |
+
+15 |
+
+Thunnus alalunga |
+
+(1) Pour les navires titulaires de l'AEP thon germon (Thunnus alalunga) en Méditerranée les captures sont autorisées dans la limite de :
+
+-60 thons germon par marée et par navire dans la limite de 680 kg de thon germon par marée et par navire.
+
+(2) Pour les navires non titulaires de l'AEP thon germon (Thunnus alalunga) en Méditerranée les captures sont autorisées dans la limite de :
+
+-1 thon par jour et par navire et 5 thons germon par an et par navire dans la limite de 55 kg de thon germon par an et par navire.
