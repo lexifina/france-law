@@ -1,0 +1,39 @@
+# Article Annexe
+
+MODÈLE DE NOTIFICATION DE MISE EN JEU
+
+À l'attention de : [GARANT DU G7]
+
+[Date]
+
+Objet : Garantie du G7 en date du [•] 2022 entre [le GARANT] et la Banque européenne pour la reconstruction et le développement (ci-après dénommée la " Banque "), ci-après dénommée la " Garantie du G7 " (n° de l'opération : 53626)
+
+Madame/ Monsieur,
+
+1. Nous faisons référence à la Garantie du G7. Les termes en majuscules employés, mais non définis dans la présente, ont la même signification que dans la Garantie du G7. Ceci est une Notification de mise en jeu aux fins de la section 2.02 (Notification de mise en jeu) de la Garantie du G7.
+
+2. Nous certifions par la présente :
+
+(i) que [le DÉBITEUR] n'a pas réglé [une somme/ des sommes] relevant de ses Obligations garanties exigibles et qu'il aurait dû payer au titre [du Contrat de prêt]/ [de la Garantie de l'Ukraine]. À la date de la présente Notification de mise en jeu, le montant cumulé du principal et des intérêts dus et à payer au titre [du Contrat de Prêt]/ [de la Garantie de l'Ukraine] est en conséquence de [[•] €] ; et
+
+(ii) le montant exigé par la présente, s'il est réglé : (A) n'excède pas le Montant garanti proportionnel ; et (B) n'a pas pour conséquence pour le Garant du G7 d'avoir effectué des paiements au titre de la Garantie du G7 dont le total dépasse la Limite de garantie.
+
+3. Nous demandons par la présente le règlement de votre part de la somme de [[•] €] au titre de la Garantie du G7.
+
+4. Le règlement doit être fait en euros, sur le compte suivant, sous forme de fonds immédiatement disponibles, au plus tard le [trentième (30e)] jour calendaire suivant la réception de la présente Notification de mise en jeu :
+
+Nom auquel est établi le compte :
+
+IBAN :
+
+Banque :
+
+Nous vous prions d'agréer l'expression de nos sentiments distingués,
+
+LA BANQUE EUROPÉENNE POUR LA RECONSTRUCTION ET LE DÉVELOPPEMENT
+
+Par : _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Nom :
+
+Titre :
