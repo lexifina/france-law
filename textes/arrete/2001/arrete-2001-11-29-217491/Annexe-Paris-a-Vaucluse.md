@@ -554,107 +554,69 @@ C |
 
 Direction départementale de l'équipement et de l'agriculture (1) des Deux-Sèvres
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification de l'emploi
+Nombre
 
-|
+d'emplois |
 
-NOMBRE
+Nombre
 
-d'emplois
+de points (IM)
 
-|
+par emploi |
 
-NOMBRE DE POINTS (IM)
+Chef de service-service prospective planification et habitat |
 
-par emploi
+A |
 
-|
+1 |
 
-Chef du service de la prospective, de l'environnement, de l'habitat et de l'urbanisme
+30 |
 
-|
+Chef de l'unité habitat parc privé-unité habitat parc privé-service prospective planification et habitat |
 
-A
+A |
 
-|
+1 |
 
-1
+30 |
 
-|
+Chef de l'unité habitat parc public-unité habitat parc public-service prospective planification et habitat |
 
-30 points
+A |
 
-|
+1 |
 
-Adjoint au chef du service de la prospective, de l'environnement, de l'habitat et de l'urbanisme, responsable de la programmation des études du contrat de ville
+30 |
 
-|
+Chargé du renouvellement urbain en lien avec la politique de la ville et du financement du logement social-unité habitat parc public-service prospective planification et habitat |
 
-A
+B |
 
-|
+1 |
 
-1
+30 |
 
-|
+Chargé de l'habitat indigne-unité habitat parc privé-service prospective planification et habitat |
 
-30 points
+B |
 
-|
+1 |
 
-Chef de bureau habitat
+30 |
 
-|
+Chargé du conventionnement-unité habitat parc public-service prospective planification et habitat |
 
-A
+B |
 
-|
+1 |
 
-1
-
-|
-
-30 points
-
-|
-
-Adjoint au chef du bureau habitat, chargé de l'instruction des dossiers du fonds de solidarité logement
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Instruction des dossiers du fonds social du logement au sein du bureau habitat
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
+30 |
 
 Direction départementale des territoires et de la mer de la Somme (3)
 
@@ -965,3 +927,5 @@ NOTA :
 (5) Arrêté du 27 avril 2022, art. 1 (NOR : TERK2213005A) : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2021 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'hébergement, et du logement.
 
 (6) Arrêté du 14 février 2023 (NOR : TREK2304634A) : les modifications insérées par le présent arrêté sont à effet du 1er février 2022 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Vaucluse.
+
+(7) Arrêté du 31 mai 2023 (NOR : TREK2314645A) : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2023 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires des Deux-Sèvres.
