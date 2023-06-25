@@ -10,7 +10,7 @@ I. - Informations à transmettre pour chaque conducteur formé, nécessaires à 
 
 - secteur (marchandises ou voyageurs) et intitulé de la formation ou de la séquence de formation achevée
 
-- date d'achèvement de la formation ou de la séquence de formation correspondant, selon le cas, à la date de la validation finale, à la date de la délibération du jury ou au dernier jour de la formation ou de la séquence de formation suivie
+- date d'achèvement de la formation ou de la séquence de formation correspondant, selon le cas, à la date de délivrance de l'attestation de réussite intermédiaire ou de l'attestation similaire, à la date de la validation finale, à la date de la délibération du jury ou au dernier jour de la formation ou de la séquence de formation suivie
 
 II. - Informations à transmettre pour l'établissement d'une carte de qualification en vue de sa fourniture à un formateur ou à un moniteur :
 

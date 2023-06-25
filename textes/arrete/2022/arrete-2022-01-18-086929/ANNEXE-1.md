@@ -28,4 +28,4 @@ c) Les informations spécifiques suivantes :
 
 -les catégories de véhicules pour lesquelles le titulaire répond aux obligations de qualification initiale et de formation continue ;
 
-d) La mention : " Ce certificat, accompagné d'un titre d'identité, permet sur le territoire national de justifier de la régularité de sa situation au regard des obligations de qualification initiale ou de formation continue pendant une durée de quatre mois à compter de sa date d'établissement ".
+d) La mention : " Ce certificat, accompagné d'un titre d'identité, permet sur le territoire national de justifier de la régularité de sa situation au regard des obligations de qualification initiale ou de formation continue pendant une durée de quatre mois à compter de sa date d'établissement ou, pour les personnes mineures à la date d'établissement du certificat, pendant une durée de quatre mois à compter de leur majorité ".
