@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_061 — DELIBERATION 2023-61 APPROBATION DU BUDGET SUPPLEMENTAIRE 2023 DU BUDGET PRINCIPAL DE LA VILLE,
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-06-26
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : DELIBERATION 2023-61 APPROBATION DU BUDGET SUPPLEMENTAIRE 2023 DU BUDGET PRINCIPAL DE LA VILLE,
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/42bfe37f795b4850ec847e9aa8ae200b7d7c7bbb4dc98339e99f52b661e5759f.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
