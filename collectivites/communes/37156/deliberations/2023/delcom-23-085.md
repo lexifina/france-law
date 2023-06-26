@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_085 — DELIBERATION 2023-85 RAPPORT ANNUEL 2022 SUR LE PRIX ET LA QUALITE DES SERVICES DEAU POTABLE ET DASSAINISSEMENT
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-06-26
+- Matière : 8.8 Domaines de competences par themes/Environnement
+- Objet : DELIBERATION 2023-85 RAPPORT ANNUEL 2022 SUR LE PRIX ET LA QUALITE DES SERVICES DEAU POTABLE ET DASSAINISSEMENT
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/89884eafb4b21eaeeafa5055d452e0b5268b2be05175c6f3576dfdadca4696b0.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
