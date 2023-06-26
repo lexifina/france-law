@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_080 — DELIBERATION 2023-80 VENTE DE LA PARCELLE CC 491C SITUEE AU LIEUDIT « LES AUJOUX » A CHARLY ROBIN
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-06-26
+- Matière : 3.2 Domaine et patrimoine/Alienations
+- Objet : DELIBERATION 2023-80 VENTE DE LA PARCELLE CC 491C SITUEE AU LIEUDIT « LES AUJOUX » A CHARLY ROBIN
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/a39b7a88558fe64258c53c3f9a64045068a8dc4d910afee65e9272f10990104a.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
