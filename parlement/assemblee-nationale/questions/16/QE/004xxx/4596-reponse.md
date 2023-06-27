@@ -1,0 +1,9 @@
+# Réponse à la question n° 4596
+
+- Question : [4596](4596.md) — Question n° 4596 — Possibilité de visiter le SIAO
+
+## Réponse
+
+*JO du 2023-06-27, page 5951*
+
+En l'état actuel du droit, les Parlementaires se voient conférer une mission générale de contrôle des établissements pénitentiaires, consacrée par l'article 719 du code de procédure pénale issu de la loi présomption d'innocence du 15 juin 2000 et étendue aux représentants du Parlement européen élus en France par la loi pénitentiaire du 24 novembre 2009. Le texte énonce que les Parlementaires « sont autorisés à visiter à tout moment les locaux de garde à vue, les centres de rétention, les zones d'attente et les établissements pénitentiaires ». Ce droit relatif aux lieux de privation de liberté a progressivement été étendu. La loi du 27 septembre 2013 a ensuite prévu cette même possibilité, portée à l'article L. 3222-4-1 du code de la santé publique, s'agissant des établissements de santé chargés d'assurer des soins psychiatriques sans consentement. En 2015, ce champ a été à nouveau élargi pour inclure les centres éducatifs fermés et prévoir la présence de journalistes. Les services intégrés d'accueil et d'orientation (SIAO) auxquels la loi confie plusieurs missions structurantes dont la régulation des places d'hébergement et de logement adapté, la gestion du numéro d'urgence 115, le suivi des parcours des personnes, n'entrent pas dans le champ des structures pour lesquelles un droit de visite est reconnu aux parlementaires par la loi.. Dès lors, la visite d'un SIAO par des personnes extérieures nécessite l'accord préalable du directeur qui demeure libre d'accepter ou de refuser. Le directeur peut la conditionner au respect de règles de bon fonctionnement du service, notamment la confidentialité d'informations personnelles auxquelles le parlementaire aurait eu accès. Article L. 345-2-4 du code de l'action sociale et des familles
