@@ -1,0 +1,9 @@
+# Réponse à la question n° 8431
+
+- Question : [8431](8431.md) — Question n° 8431 — Augmentation des charges en HLM : les habitants de La Beaucaire pris à la gorge
+
+## Réponse
+
+*JO du 2023-06-27, page 5955*
+
+Afin de protéger les Français de la hausse sans précédent des prix du gaz naturel et de l'électricité, le Gouvernement a institué des boucliers tarifaires. Dès le mois de novembre 2021, un bouclier tarifaire pour les prix du gaz a été mis en place pour les particuliers. Il a été étendu en avril 2022, avec effet rétroactif au 1er novembre 2021, pour les immeubles d'habitat collectif chauffés collectivement au gaz. Ce bouclier « collectif gaz » a été prolongé pour l'année 2023. En outre, les ménages vivant dans des logements chauffés collectivement à l'électricité, situés notamment dans des immeubles en copropriété, vont pouvoir bénéficier d'une aide spécifique pour leurs consommations couvrant la période allant du 1er juillet au 31 décembre 2022, ainsi que pour leurs consommations sur toute l'année 2023. Ce « bouclier collectif électricité », qui s'inspire du fonctionnement du bouclier tarifaire électricité applicable aux particuliers, vise à couvrir la hausse des prix de l'électricité sur les marchés de gros et limiter ainsi les hausses de charges répercutées par les gestionnaires de logements collectifs aux résidents. Cette aide concerne aussi les consommations des parties communes. Enfin, pour renforcer le soutien aux structures qui ont été contraintes de souscrire des contrats d'électricité ou de gaz à prix très hauts au second semestre 2022, une aide complémentaire est mise en œuvre. Au-delà du TRV non gelé (part variable) majoré de 30 %, la facture sera prise en charge à hauteur de 75 % par l'État. Ces dispositions sont valables pour les copropriétés privées ainsi que pour les logements sociaux. Ces mesures de soutien exceptionnelles visent à limiter les hausses de charge liées à l'augmentation des coûts de l'énergie
