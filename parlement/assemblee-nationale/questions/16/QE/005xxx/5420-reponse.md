@@ -1,0 +1,9 @@
+# Réponse à la question n° 5420
+
+- Question : [5420](5420.md) — Question n° 5420 — Droit à réparation des veuves et des enfants des harkis
+
+## Réponse
+
+*JO du 2023-06-27, page 5791*
+
+La loi n° 2022-229 du 23 février 2022 voulue par le Président de la République et dont la secrétaire d'État auprès du ministre des armées, chargée des anciens combattants et de la mémoire, a été la rapporteure à l'Assemblée nationale, porte la reconnaissance de la Nation envers les Harkis. Cette loi historique ouvre le droit à réparation, par l'État, des préjudices subis par les harkis du fait de l'indignité de leur condition d'accueil en France. Cette réparation prend la forme d'une somme forfaitaire calculée en fonction de la durée de séjour des Harkis et de leur famille dans les camps de transit et les hameaux de forestage entre le 20 mars 1962 et le 31 décembre 1975. La commission nationale indépendante de reconnaissance et de réparation des préjudices subis par les Harkis et autres personnes rapatriées d'Algérie, installée le 11 avril 2022 et présidée par Monsieur Jean-Marie Bockel, est chargée de statuer sur les demandes de réparation. Elle a également présenté son premier rapport à la Première ministre le 15 mai 2023. À cette date, la commission nationale indépendante s'est réunie à 14 reprises depuis son installation en avril 2022 et a étudié 7 543 dossiers de demande de réparation, dont 7 071 ont fait l'objet d'une décision favorable. Le montant moyen attribué s'élève à 8 800 euros. Le montant total versé s'établit ainsi à ce jour à 59,2 millions d'euros. L'Office national des combattants et des victimes de guerre est chargé de l'instruction des dossiers de demande de réparation. Près de 26 000 dossiers ont été adressés au département reconnaissance et réparation à Caen, où leur instruction a été centralisée. La secrétaire d'État porte une attention particulière aux délais de traitement de ces dossiers.
