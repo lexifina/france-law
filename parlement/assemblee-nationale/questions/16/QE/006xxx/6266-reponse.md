@@ -1,0 +1,9 @@
+# Réponse à la question n° 6266
+
+- Question : [6266](6266.md) — Question n° 6266 — Placement d'enfants auprès d'un membre de famille ou un tiers digne de confiance
+
+## Réponse
+
+*JO du 2023-06-27, page 5837*
+
+Lorsqu'un mineur est en danger ou en risque de danger au sein de sa famille, et lorsque le maintien au domicile parental n'estplus indiqué, le juge des enfants peut décider de le confier à un tiers. Ce tiers est nécessairement une personne avec laquellele mineur entretient des liens d'attachement et de confiance.L'article 1er de la loi n° 2022-140 du 7 février 2022 relative à la protection des enfants précise que cette option doit êtresystématiquement explorée par les services éducatifs avant que le juge, s'il l'estime nécessaire, prononce une mesure deplacement auprès du service départemental de l'aide sociale à l'enfance (ASE), à un service ou un établissement habilité ou àun service ou établissement sanitaire ou d'éducation.Afin de mieux étayer le tiers, le législateur a prévu dans ce premier article une obligation d''information et d'accompagnementpar un référent du service de l'ASE ou un organisme public ou privé habilité auprès du membre de la famille ou la personnedigne de confiance à qui l'enfant a été confié par le juge des enfants.L'article 17 de cette loi prévoit également que chaque mineur bénéficiant d'une prestation d'ASE peut désigner une personnede confiance majeure, qui peut être un parent ou toute autre personne de son choix. La désignation de cette personne deconfiance est effectuée en concertation avec l'éducateur référent du mineur.Un décret viendra prochainement préciser les modalités de mise en œuvre de ces deux dispositions et adaptera cellesapplicables à l'accueil bénévole et durable afin de mettre en cohérence ces dispositions avec celles relatives àl'accompagnement du membre de la famille ou de la personne digne de confiance.
