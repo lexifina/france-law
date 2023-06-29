@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Constitution d’un groupement de commandes entre la commune d’Issy-les-Moulineaux, l’établissement public territorial Grand Paris Seine Ouest et les autres communes membres pour l’entretien des voiries et pour les travaux de rénovation des revêtements
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-06-29
+- Matière : ESPACES PUBLICS
+- Objet : Constitution d’un groupement de commandes entre la commune d’Issy-les-Moulineaux, l’établissement public territorial Grand Paris Seine Ouest et les autres communes membres pour l’entretien des voiries et pour les travaux de rénovation des revêtements
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMzMsInB1ciI6ImJsb2JfaWQifX0=--90c04d02715996b7ea9ea4d4cf858855e503be4e/290623_38.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
