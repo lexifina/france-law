@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Adhésion de la Commune à de nouvelles associations et organismes. Cotisations pour l’année 2023
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-06-29
+- Matière : DEVELOPPEMENT DURABLE
+- Objet : Adhésion de la Commune à de nouvelles associations et organismes. Cotisations pour l’année 2023
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3MjEsInB1ciI6ImJsb2JfaWQifX0=--214a599e09c894293db47f04564875e371920ad3/290623_12.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
