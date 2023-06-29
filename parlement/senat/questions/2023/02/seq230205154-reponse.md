@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230205154
+
+- Question : [SEQ230205154](seq230205154.md) — Tenue des journées défense et citoyenneté pour les Français établis hors de France
+
+## Réponse
+
+*Armées, JO du 2023-06-29, page 4055*
+
+Le ministère des armées (MINARM) et le ministère de l'Europe et des affaires étrangères (MEAE) souhaitent proposer un dispositif de journée défense et citoyenneté (JDC) numérique au profit des jeunes Français établis à l'étranger, dès lors que l'organisation d'une session de JDC en présentiel est impossible. La JDC numérique a pour objectif d'offrir aux Français de l'étranger des supports pédagogiques adaptés au contexte extra territorial, à l'instar de ceux déjà utilisés lors des JDC organisées en présentiel. Sa conception, tant juridique que technique, fait actuellement l'objet d'échanges entre la direction du service national et de la jeunesse (DSNJ) du MINARM et la direction des Français à l'étranger et de l'administration consulaire (DFAE) du MEAE. Ce nouveau dispositif suppose la modification préalable, par le MEAE, de l'arrêté du 11 janvier 2016 modifié relatif au recensement et à la participation des Français établis hors de France à la journée défense et citoyenneté, hors du territoire national. Les deux ministères ont défini les modalités pratiques de ce dispositif : après avoir procédé au recensement des jeunes établis à l'étranger, le MEAE transfèrera les données à la DSNJ, qui fera parvenir aux jeunes un ordre de convocation à une JDC en ligne. S'ils ont suivi l'ensemble des enseignements, les jeunes recevront, de la part du MEAE, leur certificat individuel de participation au terme de cette période. Compte tenu de la modification réglementaire à engager et des délais techniques incompressibles liés notamment à la vérification de l'outil informatique, la mise en place de la JDC numérique devrait intervenir dans le courant du second semestre 2023.
