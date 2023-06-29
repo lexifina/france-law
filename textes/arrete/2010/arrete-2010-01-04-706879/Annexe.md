@@ -76,7 +76,7 @@ Décide :
 
 Article 1er
 
-La présente décision fixe les limites relatives aux rejets directs d'effluents gazeux radioactifs ou non dans l'environnement auxquelles doit satisfaire le Commissariat à l'énergie atomique (CEA), dénommé ci-après l'exploitant, dont le siège social est situé bâtiment Le Ponant D, 25, rue Leblanc, 75015 Paris, pour l'exploitation des installations nucléaires de base n°s 18, 35, 40, 49, 50, 72, 77 et 101 situées sur les communes de Saclay, Saint-Aubin et Villiers-le-Bâcle (91). Ces limites figurent en annexe.
+La présente décision fixe les limites relatives aux rejets directs d'effluents gazeux radioactifs ou non dans l'environnement auxquelles doit satisfaire le Commissariat à l'énergie atomique (CEA), dénommé ci-après l'exploitant, dont le siège social est situé bâtiment Le Ponant D, 25, rue Leblanc, 75015 Paris, pour l'exploitation des installations nucléaires de base n°s 35, 40, 49, 50, 72, 77 et 101 situées sur les communes de Saclay, Saint-Aubin et Villiers-le-Bâcle (91). Ces limites figurent en annexe.
 
 La présente décision s'applique également aux équipements et installations implantés dans le périmètre de ces installations nucléaires de base et nécessaires à leur exploitation, au sens du premier alinéa du V de l'article 28 de la loi du 13 juin 2008 susvisée.
 
@@ -110,7 +110,7 @@ Dispositions générales
 
 Article 1er
 
-Les rejets directs d'effluents gazeux, qu'ils soient radioactifs ou non, doivent respecter les limites ci-après et sont réalisés dans les conditions techniques de la décision n° 2009-DC-0156 de l'Autorité de sûreté nucléaire en date du 15 septembre 2009.
+Les rejets directs d'effluents gazeux, qu'ils soient radioactifs ou non, doivent respecter les limites ci-après et sont réalisés dans les conditions techniques de la décision n° 2009-DC-0156 de l'Autorité de sûreté nucléaire en date du 15 septembre 2009 telle que modifiée par la décision n° 2023-DC-0753 de l'Autorité de sûreté nucléaire en date du 11 avril 2023.
 
 Section 2
 
@@ -124,71 +124,33 @@ Limites de rejets des effluents gazeux radioactifs
 
 INSTALLATION
 
-(n° INB)
-
-|
+(n° INB) |
 
 NUMÉRO
 
-émissaire
+émissaire |
 
-|
-
-LIMITES ANNUELLES EN GBq
-
-|
+LIMITES ANNUELLES EN GBq |
 
 |
 
 |
 
-14 C
+14 C |
 
-|
+³H |
 
-³H
+Iodes |
 
-|
-
-Iodes
-
-|
-
-Gaz rares
-
-|
+Gaz rares |
 
 Autres émetteurs
 
-b et g
+b et g |
 
 |
 
-18
-
-|
-
-E22
-
-|
-
-|
-
-10
-
-|
-
-|
-
-|
-
-3,0.10- 4
-
-|
-
-|
-
-E14
+E14 |
 
 |
 
@@ -200,37 +162,23 @@ E14
 
 |
 
-|
+35 |
 
-35
+E16 |
 
-|
+98,6 |
 
-E16
+1,0.10³ |
 
-|
-
-100
+0,10 |
 
 |
 
-1,0.10³
+2,0.10-³ |
 
 |
 
-0,10
-
-|
-
-|
-
-2,0.10-³
-
-|
-
-|
-
-E27
+E27 |
 
 |
 
@@ -242,63 +190,41 @@ E27
 
 |
 
-|
+40 |
 
-40
+E5 |
 
-|
-
-E5
-
-|
-
-20
-
-|
+20 |
 
 2,0.10³
 
-(a)
+(a) |
 
-|
-
-0,50
-
-|
+0,50 |
 
 1,0.10 4
 
 |
 
-1,0.10-²
+1,0.10-² |
 
-|
+49 |
 
-49
+E11 |
 
-|
+0,4 |
 
-E11
-
-|
-
-|
-
-900
+900 |
 
 |
 
 |
 
-|
-
-1,0.10-²
+1,0.10-² |
 
 |
 
-|
-
-E12
+E12 |
 
 |
 
@@ -310,53 +236,25 @@ E12
 
 |
 
-|
+50 |
 
-50
-
-|
-
-E2
+E2 |
 
 |
 
-|
+5,0.10-³ |
 
-5,0.10-³
-
-|
-
-0,10
-
-|
+0,10 |
 
 2,0.10 4
 
 |
 
-1,0.10-²
+1,0.10-² |
 
 |
 
-|
-
-E4
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-E17
+E4 |
 
 |
 
@@ -370,37 +268,37 @@ E17
 
 |
 
-72
-
-|
-
-E18
+E17 |
 
 |
 
 |
 
-2,4.10³
+|
 
 |
 
-2,0.10-²
-
 |
+
+72 |
+
+E18 |
+
+1 |
+
+2,4.10³ |
+
+2,0.10-² |
 
 1,8.10 4
 
 |
 
-5,0.10-³
+5,0.10-³ |
 
 |
 
-|
-
-E19
-
-|
+E19 |
 
 |
 
@@ -412,41 +310,27 @@ E19
 
 |
 
-101
+101 |
 
-|
+E7 |
 
-E7
-
-|
-
-10
-
-|
+10 |
 
 5,0.10³
 
-(b)
+(b) |
 
-|
-
-2,0.10-²
-
-|
+2,0.10-² |
 
 3,0.10 4
 
 |
 
-3,0.10-³
+3,0.10-³ |
 
 |
 
-|
-
-E28
-
-|
+E28 |
 
 |
 
@@ -460,79 +344,39 @@ E28
 
 (a) Cette limite annuelle est portée à 1,0.104 GBq en cas de réalisation d'expériences productrices de tritium.
 
-(b) Cette limite annuelle est portée à 9,0.10³ GBq en cas de traitement de l'eau lourde en provenance d'autres installations.
-
-|
+(b) Cette limite annuelle est portée à 9,0.10³ GBq en cas de traitement de l'eau lourde en provenance d'autres installations. |
 
 2. L'activité des effluents radioactifs gazeux rejetés à l'atmosphère sous forme gazeuse ou d'aérosols solides n'excède pas les limites mensuelles suivantes pour les installations ci-dessous :
 
 INSTALLATION
 
-(n° INB)
-
-|
+(n° INB) |
 
 NUMÉRO
 
-émissaire
+émissaire |
 
-|
-
-LIMITES ANNUELLES EN GBq
-
-|
+LIMITES ANNUELLES EN GBq |
 
 |
 
 |
 
-14 C
+14 C |
 
-|
+³H |
 
-³H
+Iodes |
 
-|
-
-Iodes
-
-|
-
-Gaz rares
-
-|
+Gaz rares |
 
 Autres émetteurs
 
-b et g
+b et g |
 
 |
 
-18
-
-|
-
-E22
-
-|
-
-|
-
-2
-
-|
-
-|
-
-|
-
-5,0.10- 5
-
-|
-
-|
-
-E14
+E14 |
 
 |
 
@@ -544,27 +388,15 @@ E14
 
 |
 
-|
+35 |
 
-35
+E16 |
 
-|
+19,72 |
 
-E16
+200 |
 
-|
-
-20
-
-|
-
-200
-
-|
-
-2,0.10-²
-
-|
+2,0.10-² |
 
 |
 
@@ -574,7 +406,7 @@ E16
 
 |
 
-E27
+E27 |
 
 |
 
@@ -586,41 +418,25 @@ E27
 
 |
 
-|
+40 |
 
-40
+E5 |
 
-|
-
-E5
-
-|
-
-4,0
-
-|
+4,0 |
 
 400
 
-(a)
+(a) |
+
+0,10 |
+
+2.10³ |
+
+2,0.10-³ |
 
 |
 
-0,10
-
-|
-
-2.10³
-
-|
-
-2,0.10-³
-
-|
-
-|
-
-E11
+E11 |
 
 |
 
@@ -632,33 +448,23 @@ E11
 
 |
 
-|
+49 |
 
-49
+E12 |
 
-|
+0,08 |
 
-E12
-
-|
-
-|
-
-200
+200 |
 
 |
 
 |
 
-|
-
-2,0.10-³
+2,0.10-³ |
 
 |
 
-|
-
-E2
+E2 |
 
 |
 
@@ -670,117 +476,75 @@ E2
 
 |
 
-|
+50 |
 
-50
-
-|
-
-E4
+E4 |
 
 |
 
+1,0.10³ |
+
+2,0.10-² |
+
+4,0.10³ |
+
+2,0.10-³ |
+
 |
+
+E17 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+72 |
+
+E18 |
+
+0,2 |
+
+400 |
+
+4,0.10-³ |
+
+3,0.10³ |
+
+1,0.10-³ |
+
+|
+
+E19 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+101 |
+
+E7 |
+
+2,0 |
 
 1,0.10³
 
-|
+(b) |
 
-2,0.10-²
+4,0.10-³ |
 
-|
-
-4,0.10³
-
-|
-
-2,0.10-³
-
-|
-
-|
-
-E17
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-72
-
-|
-
-E18
-
-|
-
-|
-
-400
-
-|
-
-4,0.10-³
-
-|
-
-3,0.10³
-
-|
-
-1,0.10-³
-
-|
-
-|
-
-E19
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-101
-
-|
-
-E7
-
-|
-
-2,0
-
-|
-
-1,0.10³
-
-(b)
-
-|
-
-4,0.10-³
-
-|
-
-5,0.10³
-
-|
+5,0.10³ |
 
 5,0.10- 4
 
@@ -788,9 +552,7 @@ E7
 
 |
 
-E28
-
-|
+E28 |
 
 |
 
@@ -804,9 +566,7 @@ E28
 
 (a) Cette limite mensuelle est portée à 2,0.10³ GBq en cas de réalisation d'expériences productrices de tritium.
 
-(b) Cette limite mensuelle est portée à 1,7.10³ GBq en cas de traitement de l'eau lourde en provenance d'autres installations.
-
-|
+(b) Cette limite mensuelle est portée à 1,7.10³ GBq en cas de traitement de l'eau lourde en provenance d'autres installations. |
 
 3. L'exploitant s'assure, par des méthodes garantissant des seuils de décision inférieurs à 1.10-4 Bq/m³, que les aérosols prélevés en continu sur filtre au niveau des émissaires E2, E5, E7, E11, E12, E14, E16, E17, E18, E19 et E27 ne présentent pas d'activité volumique alpha globale d'origine artificielle supérieure à ce seuil de décision.
 
@@ -820,54 +580,28 @@ Limites de rejets des effluents gazeux spécifiques à certaines installations n
 
 1. Les flux annuels et les concentrations volumiques des effluents radioactifs ou non radioactifs rejetés par l'installation nucléaire de base n° 35 dans l'atmosphère respectent les valeurs suivantes, pour les paramètres considérés :
 
-PARAMÈTRE
+PARAMÈTRE |
 
-|
+CONCENTRATION VOLUMIQUE |
 
-CONCENTRATION VOLUMIQUE
+FLUX ANNUEL |
 
-|
+NH³ |
 
-FLUX ANNUEL
+50 mg par m³ |
 
-|
-
-NH³
-
-|
-
-50 mg par m³
-
-|
-
-250 kg
-
-|
+250 kg |
 
 2. Les flux annuels et les concentrations volumiques des effluents gazeux rejetés par l'installation nucléaire de base n° 77 dans l'atmosphère respectent les valeurs suivantes, pour les paramètres considérés :
 
-PARAMÈTRE
+PARAMÈTRE |
 
-|
+CONCENTRATION VOLUMIQUE |
 
-CONCENTRATION VOLUMIQUE
+FLUX ANNUEL |
 
-|
+Ozone |
 
-FLUX ANNUEL
+24 mg par m³ |
 
-|
-
-Ozone
-
-|
-
-24 mg par m³
-
-|
-
-300 kg
-
-|
-
-3. Pour les effluents radioactifs ou non dont l'exploitant assure une autosurveillance permanente (à partir de mesures représentatives des rejets) sur des substances chimiques, 10 % de la série des résultats des mesures portant sur ces substances chimiques peuvent dépasser les valeurs limites prescrites, sans toutefois dépasser le double de ces valeurs. Ces 10 % sont comptés sur une base de vingt-quatre heures effectives de fonctionnement pour les effluents gazeux.
+300 kg |
