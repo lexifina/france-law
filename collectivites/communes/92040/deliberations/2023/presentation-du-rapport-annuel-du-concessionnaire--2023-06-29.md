@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel du concessionnaire pour l’exploitation du Palais des Arts et des Congrès d’Issy Charles Aznavour au titre de l’exercice 202
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-06-29
+- Matière : CULTURE
+- Objet : Présentation du rapport annuel du concessionnaire pour l’exploitation du Palais des Arts et des Congrès d’Issy Charles Aznavour au titre de l’exercice 202
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0MzUsInB1ciI6ImJsb2JfaWQifX0=--26b12327ab7ba20fbe2e9f19b3541b03afe542f1/290623_15.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
