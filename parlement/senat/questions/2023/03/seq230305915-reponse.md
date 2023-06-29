@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305915
+
+- Question : [SEQ230305915](seq230305915.md) — Panier anti-inflation et aggravation de la précarité alimentaire
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2023-06-29, page 4073*
+
+Dès l'automne 2021, le Gouvernement a pris face à l'inflation des mesures massives, aux effets concrets : mise en place d'un bouclier tarifaire (gaz et électricité) et d'une remise carburant dans un premier temps et versement d'une indemnité inflation et d'un chèque énergie dans un second temps. Soucieux d'apporter des réponses concrètes aux Français confrontés depuis plusieurs mois à une augmentation des prix alimentaires, Bruno LE MAIRE, ministre de l'économie, des finances et de la souveraineté industrielle et numérique et Olivia GREGOIRE, ministre déléguée chargée des PME, du commerce, de l'artisanat et du tourisme, ont mené un cycle de négociations qui a débouché sur la mise en place par les distributeurs français d'un dispositif « trimestre anti-inflation ». Dans le cadre de ce dispositif, ces distributeurs se sont engagés, pendant trois mois, sur une gamme de produits alimentaires du quotidien choisie librement, en allant au-delà de leurs promotions habituelles, à mettre en rayon des produits du quotidien à des prix préférentiels pour les consommateurs. Cette approche paraît préférable à la solution qui aurait consisté à fixer de façon rigide une liste contraignante de denrées à prix bloqués. Le Gouvernement, qui a salué cet accord et l'effort ainsi consenti par la grande distribution pour participer à l'action contre la vie chère, est bien entendu très attentif et le restera, à la bonne mise en oeuvre de ce dispositif. Il sera de même très attentif dans les semaines et mois à venir à ce que chaque fois que cela sera objectivement justifié, les baisses tarifaires permises par la détente attendue du contexte inflationniste soient restituées aux consommateurs.
