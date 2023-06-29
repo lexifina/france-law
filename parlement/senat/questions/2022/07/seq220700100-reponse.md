@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700100
+
+- Question : [SEQ220700100](seq220700100.md) — Droits des adhérents à la caisse autonome de retraite des élus locaux
+
+## Réponse
+
+*Travail, plein emploi et insertion, JO du 2023-06-29, page 4109*
+
+La loi n° 92-108 du 3 février 1992 relative aux conditions d'exercice des mandats locaux a instauré la possibilité pour les élus locaux percevant des indemnités de fonction d'adhérer à des régimes de retraite supplémentaire par rente, gérés par un organisme assureur, en capitalisation. La Caisse autonome de retraite des élus locaux (CAREL) fait partie des deux organismes ayant reçu un agrément ministériel. Ce contrat d'épargne retraite prévoit plusieurs possibilités de rachat, conformément à l'article L. 223-22 du code de la mutualité, pouvant intervenir dans les conditions suivantes : la fin des droits aux allocations chômage, la cessation d'activité non salariée, l'invalidité en deuxième ou troisième catégorie, le décès du conjoint ou une situation de surendettement, et ce durant toute la phase de constitution de la rente. L'objet même de ces contrats étant de permettre aux élus locaux de se constituer une rente de retraite supplémentaire, le Gouvernement a souhaité limiter les possibilités de rachat afin de respecter la philosophie de ce dispositif d'épargne retraite. Il en va de même pour la question de la liquidation, en rente ou en capital. Si à la date de conversion du capital acquis en rente, le montant de la rente annuelle sans réversion est inférieur ou égal à 1 200 euros, alors la sortie en capital est retenue. Pour tous les autres cas, la rente viagère est privilégiée, et ce conformément aux objectifs d'un plan d'épargne retraite, qui se distingue du produit de l'assurance vie. Par ailleurs, les contrats de type CAREL permettent au moment de la liquidation d'opter pour une rente viagère réversible à 100 % ou 50 % au bénéfice d'un ayant droit de son choix.
