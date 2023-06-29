@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003462
+
+- Question : [SEQ221003462](seq221003462.md) — Conditions de délivrance des orthèses de série
+
+## Réponse
+
+*Santé et prévention, JO du 2023-06-29, page 4105*
+
+La décision du Conseil d'Etat du 14 mars 2022 portant sur les conditions de délivrance et de remboursement des appareillages orthopédiques de série a mis fin à la prise en charge par l'Assurance maladie de la délivrance d'orthèses de série par des professionnels non habilités. En effet, les orthèses de série doivent être délivrées dans le respect des dispositions de la liste des produits et prestations (LPPr) mentionnée à l'article R. 165-1 du code de la sécurité sociale (CSS). Cet article subordonne le remboursement à une délivrance par les seuls professionnels qui y sont légalement habilités. L'arrêté du 1er février 2011 (articles 3, 4 et 7) précise en outre les conditions d'accès aux professions de prothésiste et d'orthésiste pour les personnes non titulaires du diplôme, afin de leur permettre notamment de délivrer les orthèses de série. A ce jour, les orthèses de série inscrites à la LPPr délivrées par les Prestataires de services et distributeurs de matériel (PSDM) peuvent être prises en charge par l'Assurance maladie si ces entreprises disposent de professionnels compétents au sens du CSS. Il convient de préciser que les entreprises PSDM ont la possibilité de former leur personnel, en recourant à la démarche de validation des acquis de l'expérience ou celle d'apprentissages spécialisés. Enfin, la délivrance des orthèses de série ne relève pas exclusivement des professions de prothésiste et orthésiste mais est également reconnue à d'autres professionnels, notamment aux pharmaciens d'officine, ce qui permet de disposer d'un réseau de plus de 20 000 officines qui s'ajoute aux prothésistes et orthésistes. Ce maillage au plus près des patients est une garantie d'accessibilité aux orthèses de série.
