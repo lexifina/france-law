@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de recrutement de sept nouveaux apprentis au sein de la Ville - année scolaire 2023/2024
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-06-29
+- Matière : RESSOURCES HUMAINES
+- Objet : Autorisation de recrutement de sept nouveaux apprentis au sein de la Ville - année scolaire 2023/2024
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3MjUsInB1ciI6ImJsb2JfaWQifX0=--b63e502f5d5245d65c61db5995612b939153a53f/290623_20.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
