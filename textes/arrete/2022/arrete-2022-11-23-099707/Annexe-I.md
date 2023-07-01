@@ -102,7 +102,9 @@ Matières premières issues du recyclage en boucle ouverte de déchets collecté
 
 La prime relative à l'intégration de matière issue du recyclage de déchets issus des TLC ne peut être octroyée lorsque la matière intégrée est issue de chutes de production résultant de la fabrication de TLC ou des produits invendus.
 
-La prime relative à l'intégration de matière issue du recyclage de déchets issus des TLC est octroyée selon des critères de proximité qui sont précisés par l'éco-organisme dans le contrat type prévu à l'article R. 541-119.
+La prime relative à l'intégration de matière issue du recyclage de déchets de TLC post-consommateur ou issue du recyclage en boucle ouverte de déchets est octroyée lorsque l'ensemble des étapes de tri, préparation au recyclage et de recyclage des déchets par incorporation des matières qui en sont issues, y compris l'effilochage, le défibrage et le filage, s'effectuent dans un rayon d'au plus 1 500 kilomètres depuis le point de collecte des déchets et dans des installations respectant des dispositions équivalentes à celles du titre Ier du livre V du présent code.
+
+Lorsque la traçabilité mise en place n'est pas possible depuis le point de collecte, la distance mentionnée à l'alinéa précédent est rapportée par simplification à 1 000 km depuis le centre de tri si celui-ci est situé en France ou à défaut depuis le barycentre de la France métropolitaine (46° 29 ʹ 38 ʺ N, 2° 36 ʹ 10 ʺ E, selon le calcul de l'IGN).
 
 L'éco-organisme remet au ministre de l'environnement, au plus tard deux ans après la date d'entrée en vigueur de son agrément, une étude visant à déterminer les surcoûts liés à l'incorporation de matières issues du recyclage des TLC usagés. Cette étude est accompagnée d'une proposition de primes si son contenu justifie des évolutions du barème.
 
@@ -583,3 +585,7 @@ Conformément à l'article R. 543-218, l'éco-organisme propose un barème de so
 (1) Anciennement dénommé " Soutien à la pérennisation ".
 
 (2) Anciennement dénommé " Soutien au tri matière ".
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 1er mars 2023 (NOR : TREP2302612A), ces dispositions, dans leur rédaction issue de l'article 1er de l'arrêté précité, entrent en vigueur le 1er juillet 2023.
