@@ -2041,3 +2041,9 @@ Majoration pour certaines consultations par les spécialistes en endocrinologie 
 22,00 |
 
 Les mesures tarifaires prévues au présent article entrent en vigueur au premier jour du mois suivant l'expiration du délai défini à l'article L. 162-14-1-1 du code de la sécurité sociale.
+
+La présente annexe est modifiée conformément à l'article 1 de l'arrêté du 20 avril 2023 (NOR : SPRS2311234A), consultable au lien suivant : https://www.legifrance.gouv.fr/download/pdf?id=MvuRpr9MWZCOH8gqRb9DJpgbHmZmQYi9rhA1hTn9xzg=
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 20 avril 2023 (NOR : SPRS2311234A), ces dispositions entrent en vigueur le 1er juillet 2023.
