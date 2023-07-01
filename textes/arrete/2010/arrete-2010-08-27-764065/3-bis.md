@@ -2,12 +2,16 @@
 
 Les fonctionnaires du corps de commandement et du corps d'encadrement et d'application de la police nationale ne peuvent être affectés dans une brigade de recherche et d'intervention qu'après avoir été déclarés médicalement aptes par l'administration aux missions définies à l'article 1er et avoir subi avec succès des épreuves de sélection.
 
-Ces épreuves sportives, psychologiques et psychotechniques sont organisées par la direction centrale de la police judiciaire en relation avec la direction des ressources et des compétences de la police nationale.
+Ces épreuves sportives, psychologiques et psychotechniques sont organisées par la direction nationale de la police judiciaire en relation avec la direction des ressources humaines, des finances et des soutiens de la police nationale.
 
 La durée de l'affectation est de cinq ans. Cette affectation peut être renouvelée, si les fonctionnaires reçoivent un agrément médical, après une évaluation prenant la forme d'un contrôle de leur aptitude physique et d'un entretien avec le chef de brigade destiné à évaluer leur motivation.
 
 Ils sont tenus de suivre la formation continue et les séances d'entraînement individuel et collectif.
 
-Les modalités des épreuves de sélection et de contrôle de l'aptitude professionnelle mentionnées au présent article sont précisées par une instruction du directeur central de la police judiciaire.
+Les modalités des épreuves de sélection et de contrôle de l'aptitude professionnelle mentionnées au présent article sont précisées par une instruction du directeur national de la police judiciaire.
 
 Les dispositions définies au présent article ne s'appliquent pas aux fonctionnaires exerçant des missions de soutien opérationnel au sein des brigades de recherche et d'intervention, ni aux fonctionnaires du corps de commandement exerçant des fonctions de chef de brigade.
+
+NOTA :
+
+Conformément à l'article 7 du décret n° 2023-530 du 29 juin 2023, ces dispositions entrent en vigueur le 1er juillet 2023.
