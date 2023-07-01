@@ -8,16 +8,18 @@
 
 (4) Le règlement pour le transport et la manutention des marchandises dangereuses dans les ports maritimes (règlement dit " RPM ") a été modifié par arrêté du 13 décembre 2018 portant modification du règlement annexé à l'arrêté du 18 juillet 2000 réglementant le transport et la manutention des matières dangereuses dans les ports maritimes.
 
-(5) Conformément à l'article 1er de l'arrêté du 17 novembre 2020 ( NOR : TREP2031022A ), le règlement annexé à l'arrêté du 18 juillet 2000 est modifié conformément aux articles 2 à 10, consultables à l'adresse suivante :
+(5) Conformément à l'article 1er de l'arrêté du 17 novembre 2020 (NOR : TREP2031022A), le règlement annexé à l'arrêté du 18 juillet 2000 est modifié conformément aux articles 2 à 10, consultables à l'adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=OZ2IOJqN0uEhYsZToYMbcKYUyqGrN5w6kiwFwB58MRk=
 
 (6) Le règlement pour le transport et la manutention des marchandises dangereuses dans les ports maritimes (règlement dit " RPM ") a été modifié par l’article 2 de l’arrêté du 28 mai 2021 (NOR : TREP2100412A), consultable à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=qj6_uzhOb87l0W1mVkFGPx4APX7KalcLgYeuznhj5ZE=
 
-(7) Conformément à l'article 1er de l'arrêté du 7 février 2022 ( NOR : TREP2203840A ), le règlement annexé à l'arrêté du 18 juillet 2000 est modifié conformément aux articles 2 à 3, consultables à l'adresse suivante :
+(7) Conformément à l'article 1er de l'arrêté du 7 février 2022 (NOR : TREP2203840A), le règlement annexé à l'arrêté du 18 juillet 2000 est modifié conformément aux articles 2 à 3, consultables à l'adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=A0vGEMnt-DpFy_u0kRdu8VW5kS9SQ-G5RyHd65U5QAE=
 
+(8) Conformément à l'article 1er de l'arrêté du 7 février 2022 (NOR : TREP2203844A), le règlement annexé à l'arrêté du 18 juillet 2000 est modifié conformément aux articles 2 à 6, consultables à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=D_XZ1pm0QgMfs64GDK3HuZamK3rPi_17RppCmjQKzcU=
+
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 7 février 2022, ces dispositions entrent en vigueur le 16 juillet 2022.
+Conformément à l’article 6 de l’arrêté du 7 février 2022 (TREP2203844A), ces dispositions entrent en vigueur à la date de publication aux actes administratifs de la préfecture du règlement local intégrant les protocoles mentionnés au III de l'article 5 dudit arrêté, et au plus tard le 1er juillet 2023.
