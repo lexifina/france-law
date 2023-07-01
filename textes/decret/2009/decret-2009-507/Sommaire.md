@@ -34,9 +34,11 @@ Articles
 
 1.09 Tenue de la barre.
 
-1.10 Documents de bord et autres papiers.
+1.10 Certificats et autres documents de bord.
 
-1.11 Règlement de police pour la navigation de la Moselle.
+1.10 bis Dérogations relatives aux certificats et autres documents de bord pour certains bâtiments.
+
+1.11 Présence à bord du Règlement de police pour la navigation de la Moselle et du Guide de radiocommunication pour la navigation intérieure.
 
 1.12 Dangers résultant d'objets se trouvant à bord ; pertes d'objets ; obstacles.
 
@@ -60,7 +62,7 @@ Articles
 
 1.22 Prescriptions de caractère temporaire de l'autorité compétente.
 
-1.22bis Prescriptions de caractère temporaire de la Commission de la Moselle.
+1.22 bis Prescriptions de caractère temporaire de la Commission de la Moselle.
 
 1.23 Autorisation de manifestation.
 
@@ -100,7 +102,7 @@ Généralités
 
 3.01 Définitions et application.
 
-3.02 Feux et fanaux.
+3.02 Feux.
 
 3.03 Pavillons, panneaux et flammes.
 
@@ -453,6 +455,8 @@ Annexe 9 : (sans objet).
 Annexe 10 : Modèle de carnet de contrôle des huiles usées.
 
 Annexe 12 : Liste des catégories de bâtiments et de convois.
+
+Annexe 13 : Liste des certificats et autres documents de bord visés à l'article 1.10 du RPNM.
 
 NOTA :
 
