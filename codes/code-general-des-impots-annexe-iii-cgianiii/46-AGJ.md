@@ -1,5 +1,9 @@
 # Article 46 AGJ
 
-I. – L'engagement de conservation des parts ou l'engagement de rester membre du groupement d'intérêt économique et environnemental forestier, prévus aux b et c du 2 de l'article 199 decies H du code général des impôts et au 2° du 2 de l'article 200 quindecies du même code, établi conformément à un modèle fixé par l'administration, est joint à la déclaration des revenus de l'année au cours de laquelle les parts ouvrant droit au bénéfice de la réduction d'impôt ont été souscrites ou acquises, ou au cours de laquelle le groupement ou la société d'épargne forestière a payé les dépenses de travaux forestiers qui ont ouvert droit au crédit d'impôt.
+I. – Les contribuables tiennent à la disposition de l'administration fiscale l'engagement de conservation des parts ou l'engagement de rester membre du groupement d'intérêt économique et environnemental forestier, prévus aux 2°, 3° et 5° du II de l'article 200 quindecies du code général des impôts, établi conformément à un modèle fixé par l'administration.
 
-II. – Les associés ou les membres joignent à cette déclaration le document mentionné au II de l'article 46 AGI.
+II. – Les associés ou les membres tiennent à la disposition de l'administration fiscale le document mentionné au II de l'article 46 AGI.
+
+NOTA :
+
+Conformément à l'article 2 du décret n° 2023-524 du 29 juin 2023, ces dispositions s'appliquent aux opérations forestières réalisées à compter du 1er janvier 2023.
