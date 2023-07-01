@@ -90,6 +90,8 @@ B. – Mines et carrières.
 
 Périmètres à l'intérieur desquels sont applicables les dispositions des articles L. 153-3 à L. 153-8, L. 153-14 et L. 153-15 du code minier ;
 
+Servitudes d'utilité publique prévues à l'article L. 174-5-1 du code minier ;
+
 Servitudes relatives à la protection des stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle prévues à l'article L. 264-1 du code minier.
 
 C. – Canalisations.
@@ -215,3 +217,7 @@ Servitudes d'utilité publique instituées en application de l'article L. 593-5 
 Servitudes d'utilité publique instituées en application de l'article L. 566-12-2 du code de l'environnement.
 
 Un arrêté du ministre chargé de l'urbanisme fixe la légende des différentes servitudes d'utilité publique figurant sur cette liste.
+
+NOTA :
+
+Conformément à l’article 10 du décret n° 2023-13 du 11 janvier 2023, ces dispositions entrent en vigueur le 1er juillet 2023. Se reporter aux modalités d’application prévues audit article.
