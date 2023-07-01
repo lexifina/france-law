@@ -18,11 +18,41 @@ En cas de doutes quant à la présence d'ORNQ figurant à l'annexe I, il est pro
 
 Prescriptions relatives au site de production, au lieu de production ou à la zone
 
+I. Cryphonectria parasitica (Murrill) Barr :
+
 i) Les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes de Cryphonectria parasitica (Murrill) Barr ; ou
 
 ii) Aucun symptôme de Cryphonectria parasitica (Murrill) Barr n'a été observé, sur le site de production, sur les matériels de multiplication et les plantes fruitières depuis le début du dernier cycle complet de végétation ; ou
 
 iii) Les matériels de multiplication et les plantes fruitières présentant des symptômes de Cryphonectria parasitica (Murrill) Barr ont été arrachés, et les matériels de multiplication et les plantes fruitières restants sont inspectés chaque semaine et aucun symptôme n'a été observé sur le site de production au cours des trois dernières semaines au moins avant l'expédition.
+
+II. Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld :
+
+i) Les matériels de multiplication et les plantes fruitières sont produits dans des zones déclarées exemptes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld ; ou
+
+ii) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'a été observé, sur le site de production, sur les matériels de multiplication et les plantes fruitières au cours du dernier cycle complet de végétation ; ou
+
+iii) Les matériels de multiplication et les plantes fruitières présentant des symptômes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld sur le site de production et tous les végétaux situés dans un rayon de 2 m des matériels de multiplication et des plantes fruitières symptomatiques sont arrachés et détruits, y compris la terre adhérente,
+
+et
+
+pour tous les végétaux situés dans un rayon de 10 m des matériels de multiplication et des plantes fruitières symptomatiques et pour tous les matériels de multiplication et plantes fruitières restants du lot contaminé :
+
+-dans les trois mois suivant la détection de matériels de multiplication et de plantes fruitières symptomatiques, aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est observé sur ces matériels de multiplication et plantes fruitières au cours d'au moins deux inspections effectuées à des moments opportuns pour détecter l'organisme nuisible et, au cours de ces trois mois, aucun traitement visant à supprimer les symptômes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est appliqué ; et
+
+-après ces trois mois :
+
+(i) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est observé sur ces matériels de multiplication et plantes fruitières sur le site de production ; ou
+
+(ii) Un échantillon représentatif de ces matériels de multiplication et plantes fruitières à déplacer est analysé et déclaré exempt de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld,
+
+et
+
+pour tous les autres matériels de multiplication et plantes fruitières sur le site de production :
+
+(i) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est observé, sur le site de production, sur ces matériels de multiplication et plantes fruitières ; ou
+
+(ii) Un échantillon représentatif de ces matériels de multiplication et plantes fruitières à déplacer a été analysé et déclaré exempt de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld.
 
 Citrus L., Fortunella Swingle et Poncirus Raf.
 
@@ -248,7 +278,7 @@ i) Candidatus Phytoplasma pyri Seemüller & Schneider
 
 -aucun symptôme de Candidatus Phytoplasma pyri Seemüller & Schneider n'a été observé sur le site de production au cours de la dernière saison végétative complète, et toutes les plantes symptomatiques situées à proximité immédiate ont été arrachées et immédiatement détruites ; ou
 
--des symptômes de Candidatus Phytoplasma pyri Seemüller & Schneider ont été observés sur 2 % au maximum des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, ces matériels de multiplication et ces plantes fruitières, de même que toutes les plantes symptomatiques situées à proximité immédiate, ont été arrachés et immédiatement détruits, et un échantillon représentatif de matériels de multiplication et de plantes fruitières asymptomatiques restants dans les lots dans lesquels des matériels de multiplication et des plantes fruitières symptomatiques ont été trouvés a été analysé et déclaré exempt de Candidatus Phytoplasma pyri Seemüller & Schneider ;
+-les matériels de multiplication et les plantes fruitières sur le site de production ainsi que tout végétal situé à proximité immédiate qui ont présenté des symptômes de Candidatus Phytoplasma pyri Seemüller & Schneider lors d'inspections visuelles effectuées au cours des trois dernières saisons végétatives sont arrachés et immédiatement détruits.
 
 ii) Erwinia amylovora (Burrill) Winslow et al.
 
@@ -289,3 +319,37 @@ Des inspections visuelles sont effectuées une fois par an.
 Echantillonnages et analyses
 
 En cas de doutes quant à la présence d'ORNQ figurant aux annexes I et II, il est procédé à des échantillonnages et à des analyses.
+
+Prescriptions relatives au site de production, au lieu de production ou à la zone
+
+Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld :
+
+i) Les matériels de multiplication et les plantes fruitières sont produits dans des zones déclarées exemptes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld ; ou
+
+ii) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'a été observé, sur le site de production, sur les matériels de multiplication et les plantes fruitières au cours du dernier cycle complet de végétation ; ou
+
+iii) Les matériels de multiplication et les plantes fruitières présentant des symptômes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld sur le site de production et tous les végétaux situés dans un rayon de 2 m des matériels de multiplication et des plantes fruitières symptomatiques sont arrachés et détruits, y compris la terre adhérente,
+
+et
+
+pour tous les végétaux situés dans un rayon de 10 m des matériels de multiplication et des plantes fruitières symptomatiques et pour tous les matériels de multiplication et plantes fruitières restants du lot contaminé :
+
+-dans les trois mois suivant la détection de matériels de multiplication et de plantes fruitières symptomatiques, aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est observé sur ces matériels de multiplication et plantes fruitières au cours d'au moins deux inspections effectuées à des moments opportuns pour détecter l'organisme nuisible et, au cours de ces trois mois, aucun traitement visant à supprimer les symptômes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est appliqué ; et
+
+-après ces trois mois :
+
+(i) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est observé sur ces matériels de multiplication et plantes fruitières sur le site de production ; ou
+
+(ii) Un échantillon représentatif de ces matériels de multiplication et plantes fruitières à déplacer est analysé et déclaré exempt de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld,
+
+et
+
+pour tous les autres matériels de multiplication et plantes fruitières sur le site de production :
+
+(i) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est observé, sur le site de production, sur ces matériels de multiplication et plantes fruitières ; ou
+
+(ii) Un échantillon représentatif de ces matériels de multiplication et plantes fruitières à déplacer a été analysé et déclaré exempt de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 9 juin 2023 (NOR : AGRG2311142A), ces dispositions entrent en vigueur le 1er juillet 2023.

@@ -6,6 +6,12 @@ Genres ou espèces |
 
 ORNQ |
 
+Castanea sativa Mill |
+
+Champignons et oomycètes
+
+Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld [PHYTRA] |
+
 Citrus L., Fortunella Swingle et Poncirus Raf. |
 
 Bactéries
@@ -64,9 +70,7 @@ Agent de la rugosité de l'écorce du poirier [PRRB00]
 
 Agent des pustules jaunes du cognassier [ARW000] |
 
-Fragaria L.
-
-|
+Fragaria L. |
 
 Bactéries
 
@@ -174,9 +178,7 @@ Virus du rabougrissement du prunier [PDV000]
 
 Virus des taches annulaires nécrotiques des Prunus [PNRSV0] |
 
-Prunus armeniaca L.
-
-|
+Prunus armeniaca L. |
 
 Bactéries
 
@@ -284,9 +286,7 @@ Virus des taches annulaires nécrotiques des Prunus [PNRSV0]
 
 Virus des taches annulaires latentes du fraisier [SLRSV0] |
 
-Pyrus L.
-
-|
+Pyrus L. |
 
 Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
@@ -362,6 +362,10 @@ Virus des anneaux noirs de la tomate [TBRV00] |
 
 Vaccinium L. |
 
+Champignons et oomycètes
+
+Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld [PHYTRA]
+
 Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
 Ophiovirus associé à Blueberry mosaic [BLMAV0]
@@ -380,4 +384,10 @@ Candidatus Phytoplasma pruni [PHYPPN]
 
 Candidatus Phytoplasma solani Quaglino et al. [PHYPSO]
 
-Cranberry false blossom phytoplasma [PHYPFB] |
+Cranberry false blossom phytoplasma [PHYPFB]
+
+|
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 9 juin 2023 (NOR : AGRG2311142A), ces dispositions entrent en vigueur le 1er juillet 2023.

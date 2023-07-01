@@ -182,8 +182,6 @@ Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
 Candidatus Phytoplasma asteris Lee et al. [PHYPAS]
 
-Candidatus Phytoplasma australiense Davis et al. [PHYPAU]
-
 Candidatus Phytoplasma fragariae Valiunas, Staniulis & Davis [PHYPFG]
 
 Candidatus Phytoplasma pruni [PHYPPN]
@@ -513,3 +511,7 @@ Exobasidium vaccinii (Fuckel) Woronin [EXOBVA]
 Godronia cassandrae (forme anamorphe Topospora myrtilli) Peck
 
 [GODRCA] |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 9 juin 2023 (NOR : AGRG2311142A), ces dispositions entrent en vigueur le 1er juillet 2023.
