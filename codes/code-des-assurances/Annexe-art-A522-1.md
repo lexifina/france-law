@@ -8,43 +8,21 @@ Libellé |
 
 Société de gestion |
 
-Performance brute de l'actif N-1
+Indicateur de risque de l'unité de compte (SRI) : 1 (faible) à 7 (élevé) |
 
-(A) |
+Performance de l'unité de compte (A) |
 
-Frais de
+Frais de gestion de l'unité de compte (B) dont frais rétrocédés (taux de rétrocessions de commissions) |
 
-gestion
+Performance nette de l'unité de compte (A-B) |
 
-de l'actif
+Frais de gestion du contrat (C) |
 
-(B) |
+Frais totaux (B + C) dont frais rétrocédés (taux de rétrocessions de commissions) |
 
-Performance nette de l'unité de compte
+Performance finale (A-B-C) |
 
-(A-B) |
-
-Frais de
-
-gestion du contrat
-
-(C) |
-
-Frais totaux
-
-(B + C) |
-
-Performance
-
-finale
-
-(A-B-C) |
-
-Taux de
-
-rétrocessions
-
-de commissions |
+Fonds actions |
 
 FRXX |
 
@@ -52,20 +30,174 @@ XXX |
 
 XXXX |
 
+6 |
+
 5 % |
 
-1,5 % |
+1,5 % (dont 1 %) |
 
 3,5 % |
 
 1 % |
 
+2,5 % (dont 1 %) |
+
 2,5 % |
 
-2,5 |
+Fonds obligations |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fonds mixtes |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fonds immobiliers |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fonds spéculatifs |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fonds de capital investissement |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fonds monétaires |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 24 février 2022 (ECOT2204216A), ces dispositions entrent en vigueur le 1er juillet 2022.
+Conformément à l'article 3 de l'arrêté du 4 avril 2023 (NOR : ECOT2304075A), ces dispositions entrent en vigueur le 1er juillet 2023.
 
-Par exception, les dispositions du présent arrêté entrent en vigueur le 1er janvier 2023 en ce qu'elles s'appliquent à l'information annuelle mentionnée à l'article L. 132-22 du code des assurances et à l'actualisation annuelle mentionnée l'article L. 224-7 du code monétaire et financier.
+Par exception, ces dispositions entrent en vigueur le 1er janvier 2024 en ce qu'elles s'appliquent à l'information annuelle mentionnée à l'article L. 132-22 du code des assurances et à l'actualisation annuelle mentionnée l'article L. 224-7 du code monétaire et financier.
