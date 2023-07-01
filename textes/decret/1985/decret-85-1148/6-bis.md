@@ -1,6 +1,6 @@
 # Article 6 bis
 
-Par dérogation à l'article 1er du décret du 23 décembre 1982 susvisé et à l'article 6 du présent décret, le traitement annuel des agents régis par les décrets mentionnés à l'annexe 2 du présent décret est calculé, lorsqu'il excède la valeur du traitement correspondant à l'indice brut 1027, par application du barème de correspondance entre indices bruts et majorés fixé à l'annexe 3.
+Par dérogation à l'article 1er du décret du 23 décembre 1982 susvisé et à l'article 6 du présent décret, le traitement annuel des agents régis par les décrets et les dispositions statutaires mentionnés à l'annexe 2 du présent décret est calculé, lorsqu'il excède la valeur du traitement correspondant à l'indice brut 1027, par application du barème de correspondance entre indices bruts et majorés fixé à l'annexe 3.
 
 NOTA :
 
