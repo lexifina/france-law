@@ -34,17 +34,17 @@ Etat-major des armées |
 
 2 998 |
 
-4 920 |
+4 919 |
 
-14 124 |
+14 127 |
 
 Secrétariat général de la défense et de la sécurité nationale |
 
 0 |
 
-4 |
+6 |
 
-25 |
+23 |
 
 43 |
 
@@ -52,7 +52,7 @@ Direction générale de l'armement |
 
 5 |
 
-16 |
+17 |
 
 14 |
 
@@ -60,13 +60,13 @@ Direction générale de l'armement |
 
 Secrétariat général pour l'administration |
 
-23 |
+22 |
 
-88 |
+87 |
 
-162 |
+165 |
 
-455 |
+451 |
 
 Cabinet militaire du Premier ministre |
 
@@ -90,23 +90,23 @@ Direction générale des relations internationales et de la stratégie |
 
 Direction générale du numérique et des systèmes d'information et de communication |
 
-0 |
+1 |
 
-3 |
+2 |
 
-4 |
+5 |
 
-11 |
+10 |
 
 Direction générale de la sécurité extérieure |
 
 14 |
 
-63 |
+62 |
 
-147 |
+144 |
 
-72 |
+76 |
 
 Contrôle général des armées |
 
@@ -124,9 +124,9 @@ Etat-major particulier du Président de la République |
 
 3 |
 
-0 |
+1 |
 
-31 |
+30 |
 
 Direction de la coopération de sécurité et de défense |
 
@@ -154,9 +154,9 @@ Délégation à l'information et à la communication de la défense |
 
 8 |
 
-1 |
+2 |
 
-6 |
+5 |
 
 Direction de la protection des installations, moyens et activités de la défense |
 
@@ -213,7 +213,3 @@ Bataillon de marins-pompiers de Marseille |
 TOTAL |
 
 270 |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 8 juillet 2022 (ARMH2220501A), ces dispositions entrent en vigueur le 1er septembre 2022.
