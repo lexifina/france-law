@@ -162,7 +162,7 @@ Régie supérieure à 18000 euros : 20
 
 13 |
 
-24. Chef d'agrès exerçant des fonctions de commandement de véhicules d'intervention comprenant au moins deux équipes, et d'une particulière technicité supposant une expérience de 7 ans au moins ou emploi équivalent supposant la même expérience et nécessitant l'encadrement de proximité d'au moins 5 sapeurs-pompiers.
+24. Chef d'agrès tout engin ou sous-officier de garde de sapeurs-pompiers professionnels ; Sous-officier expert ou adjoint au chef de salle opérationnelle de sapeurs-pompiers professionnels encadrant au moins 5 agents et justifiant de quatre ans de services effectifs dans le cadre d'emplois des sous-officiers de sapeurs-pompiers professionnels.
 
 |
 
