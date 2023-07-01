@@ -172,6 +172,20 @@ Délivrance des renseignements contraignants en matière d'origine (RCO) en appl
 
 Information en matière d'origine non préférentielle en vue d'un marquage de type " fabriqué en France " ou " made in France ". |
 
+Service " grands comptes " |
+
+DI Provence-Alpes-Côte d'Azur, Corse |
+
+France métropolitaine, Guadeloupe, Guyane, Martinique, La Réunion et Mayotte |
+
+-Délivrance, gestion et suivi de toutes les autorisations et procédures afférentes au dédouanement pour les entreprises relevant de sa compétence ;
+
+-Conseil à ces entreprises pour optimiser leur stratégie douanière ;
+
+-Expertise auprès des bureaux et services chargés du traitement et du contrôle des opérations liées au dédouanement de ces entreprises ;
+
+-Suivi de la mise en œuvre de ses orientations dans l'optique d'assurer la cohérence du dispositif mis en place pour les entreprises relevant de sa compétence. |
+
 NOTA :
 
-Conformément à l'article 3 du décret n° 2022-30 du 13 janvier 2022, ces dispositions entrent en vigueur le 1er mai 2022.
+Conformément à l'article 2 du décret n° 2023-429 du 1er juin 2023, ces dispositions entrent en vigueur le 1er juillet 2023.
