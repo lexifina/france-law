@@ -608,6 +608,8 @@ Paris-Punta Cana ;
 
 Paris-Saint-Domingue ;
 
+Paris-Santiago de los Caballeros ;
+
 Royaume-Uni :
 
 Nice-Jersey ;
