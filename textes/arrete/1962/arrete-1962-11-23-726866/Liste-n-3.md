@@ -570,6 +570,20 @@ Réservé aux avions et planeurs qui y sont basés ou aux pilotes qualifiés sur
 
 Utilisable dans des conditions définies par la direction da la sécurité de l'aviation civile Sud. |
 
+La Motte Chalancon |
+
+Drôme |
+
+Altiport de la Motte Chalancon.
+
+Pour pouvoir utiliser l'altiport, les pilotes d'avion ou de motoplaneur (TMG) se conforment aux dispositions de l'arrêté du 21 juin 2019 fixant les conditions relatives aux autorisations d'accès aux altiports.
+
+L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'altiport.
+
+Sans préjudice des dispositions prévues ci-dessus, cet altiport est utilisé dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.
+
+|
+
 Lasclaveries |
 
 Pyrénées-Atlantiques |
@@ -717,6 +731,18 @@ Montluçon-Domérat |
 Allier |
 
 Réservé aux aéronefs autorisés par le délégué régional Auvergne. |
+
+Morzine |
+
+Haute-Savoie |
+
+Hélistation de Morzine - Le Rocher Devant.
+
+Utilisable uniquement en vol à vue de jour.
+
+Réservée aux aéronefs basés, ainsi qu'aux aéronefs non-basés sous conditions contractualisées avec l'exploitant.
+
+|
 
 Nancy-Azelot |
 
