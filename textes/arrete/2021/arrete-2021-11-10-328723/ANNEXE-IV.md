@@ -4,7 +4,7 @@ SERVICE D'ORDRE ET DE SECOURS D'UNE MANIFESTATION AÉRIENNE SOUMISE À AUTORISAT
 
 ORS.005 - Champ d'application
 
-A l'exclusion des spectacles aériens publics d'aéromodélisme en intérieur (point SAPA.INT.125 de l'annexe III du présent arrêté), les dispositions de la présente annexe sont applicables indifféremment aux spectacles aériens publics et aux spectacles aériens public d'aéromodélisme, sauf mention explicite d'une différence.
+A l'exclusion des spectacles aériens publics d'aéronefs sans équipage à bord en intérieur (point SAPA.INT.125 de l'annexe III du présent arrêté), les dispositions de la présente annexe sont applicables indifféremment aux spectacles aériens publics et aux spectacles aériens public d'aéronefs sans équipage à bord, sauf mention explicite d'une différence.
 
 Les présentes dispositions s'appliquent sans préjudice d'autres dispositions législatives ou réglementaires et notamment celles prévues à l'article L. 211-11 et aux articles R. 211-22 et suivants du code de la sécurité intérieure.
 
@@ -14,7 +14,7 @@ I. - Le service d'ordre comprend :
 
 1° Le service d'ordre dans la zone côté piste ;
 
-2° Le service d'ordre dans la zone côté ville, et notamment dans l'enceinte réservée au public de la manifestation aérienne ;
+2° Le service d'ordre dans la zone côté ville, et notamment dans l'emplacement réservé au public de la manifestation aérienne ;
 
 3° Le service d'ordre sur les voies d'accès à l'aérodrome ou au lieu de la manifestation aérienne.
 
@@ -30,7 +30,7 @@ ORS.105 - Organisation du service d'ordre : cas des manifestations aériennes su
 
 Sur l'emprise des aérodromes civils, la sûreté, la sécurité de l'aviation civile, et le bon ordre sont organisés sous l'autorité du préfet, dans le cadre des dispositions des articles R. 213-1 à R. 213-6-1 du code de l'aviation civile.
 
-Dans l'enceinte réservée au public de la manifestation aérienne, ainsi que sur une plateforme hors aérodrome, l'organisateur assure l'organisation du service d'ordre dans le respect des conditions imposées par l'arrêté préfectoral d'autorisation.
+Dans l'emplacement réservé au public de la manifestation aérienne, ainsi que sur une plateforme hors aérodrome, l'organisateur assure l'organisation du service d'ordre dans le respect des conditions imposées par l'arrêté préfectoral d'autorisation.
 
 L'organisateur fait appel, en cas de nécessité, à l'autorité précisée par le préfet dans l'arrêté préfectoral d'autorisation (point ORS.100).
 
@@ -38,7 +38,7 @@ ORS.110 - Organisation du service d'ordre : cas des manifestations aériennes su
 
 Sur l'emprise des aérodromes militaires, l'organisation du service d'ordre incombe à l'autorité militaire.
 
-Dans l'enceinte réservée au public de la manifestation aérienne, l'organisateur assure lui-même ce service, suivant les modalités et dans les limites fixées en accord avec l'autorité précitée.
+Dans l'emplacement réservé au public de la manifestation aérienne, l'organisateur assure lui-même ce service, suivant les modalités et dans les limites fixées en accord avec l'autorité précitée.
 
 En cas de nécessité, l'organisateur fait appel à cette autorité militaire ou à ses représentants. Cette autorité militaire et l'autorité désignée par le préfet dans l'arrêté préfectoral d'autorisation (point ORS.100) se tiennent en liaison permanente.
 
