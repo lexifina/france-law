@@ -1,14 +1,18 @@
 # Article Annexe II
 
-EMOLUMENTS DES PRATICIENS HOSPITALIERS
+ÉMOLUMENTS DES PRATICIENS HOSPITALIERS
 
 Articles R. 6152-1 à R. 6152-98 du code de la santé publique
 
 PERSONNELS CONCERNÉS |
 
-Montants au 1er juillet 2022
+Montants
 
-(en euros) |
+au 1er juillet 2023
+
+(en euros)
+
+|
 
 I-Emoluments hospitaliers (montants bruts annuels) |
 
@@ -16,55 +20,55 @@ I-Emoluments hospitaliers (montants bruts annuels) |
 
 13e échelon |
 
-110 755,24 |
+112 416,56 |
 
 12e échelon |
 
-103 510,24 |
+105 062,89 |
 
 11e échelon |
 
-98 335,24 |
+99 810,26 |
 
 10e échelon |
 
-93 160,24 |
+94 557,64 |
 
 9e échelon |
 
-89 210,98 |
+90 549,14 |
 
 8e échelon |
 
-78 470,48 |
+79 647,54 |
 
 7e échelon |
 
-75 335,70 |
+76 465,74 |
 
 6e échelon |
 
-70 111,16 |
+71 162,83 |
 
 5e échelon |
 
-67 673,11 |
+68 688,21 |
 
 4e échelon |
 
-65 583,34 |
+66 567,09 |
 
 3e échelon |
 
-61 229,63 |
+62 148,07 |
 
 2e échelon |
 
-57 224,05 |
+58 082,41 |
 
 1er échelon |
 
-54 786,00 |
+55 607,79 |
 
 II-Indemnité d'engagement de service public exclusif |
 

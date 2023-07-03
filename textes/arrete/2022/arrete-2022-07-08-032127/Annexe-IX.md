@@ -6,9 +6,13 @@ Articles R. 6153-46 à R. 6153-62, articles R. 6153-63 à R. 6153-76 et articles
 
 PERSONNELS CONCERNES |
 
-Montants au 1er juillet 2022
+Montants
 
-(en euros) |
+au 1er juillet 2023
+
+(en euros)
+
+|
 
 I-Montants bruts annuels des émoluments alloués aux étudiants en médecine |
 
@@ -16,15 +20,15 @@ I-Montants bruts annuels des émoluments alloués aux étudiants en médecine |
 
 -troisième année du deuxième cycle |
 
-4 843,80 |
+4 916,46 |
 
 -deuxième année du deuxième cycle |
 
-3 974,40 |
+4 034,02 |
 
 -première année du deuxième cycle |
 
-3 229,20 |
+3 277,64 |
 
 |
 
@@ -36,15 +40,15 @@ II-Montants bruts annuels des émoluments alloués aux étudiants en odontologie
 
 -troisième cycle court |
 
-4 843,80 |
+4 916,46 |
 
 -deuxième année du deuxième cycle |
 
-3 974,40 |
+4 034,02 |
 
 -première année du deuxième cycle |
 
-3 229,20 |
+3 277,64 |
 
 |
 
@@ -52,4 +56,4 @@ II-Montants bruts annuels des émoluments alloués aux étudiants en odontologie
 
 III-Montants bruts annuels des émoluments alloués aux étudiants en pharmacie |
 
-3 974,40 |
+4 034,02 |

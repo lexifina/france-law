@@ -1,6 +1,6 @@
 # Article Annexe VI
 
-EMOLUMENTS DES PRATICIENS ATTACHÉS
+ÉMOLUMENTS DES PRATICIENS ATTACHÉS
 
 Articles R. 6152-601 à R. 6152-634 du code de la santé publique
 
@@ -8,63 +8,67 @@ Mesures permanentes
 
 PERSONNELS CONCERNES |
 
-Montants au 1er juillet 2022
+Montants
 
-(en euros) |
+au 1er juillet 2023
 
-I - Emoluments hospitaliers correspondant à 10 demi-journées hebdomadaires (montants bruts annuels) |
+(en euros)
+
+|
+
+I-Emoluments hospitaliers correspondant à 10 demi-journées hebdomadaires (montants bruts annuels) |
 
 |
 
 12e échelon |
 
-57 224,05 |
+58 082,41 |
 
 11e échelon |
 
-54 786,00 |
+55 607,79 |
 
 10e échelon |
 
-53 392,92 |
+54 193,81 |
 
 9e échelon |
 
-52 173,64 |
+52 956,24 |
 
 8e échelon |
 
-51 302,98 |
+52 072,53 |
 
 7e échelon |
 
-49 313,53 |
+50 053,23 |
 
 6e échelon |
 
-46 361,63 |
+47 057,06 |
 
 5e échelon |
 
-44 208,00 |
+44 871,12 |
 
 4e échelon |
 
-40 775,65 |
+41 387,28 |
 
 3e échelon |
 
-36 083,95 |
+36 625,21 |
 
 2e échelon |
 
-33 145,94 |
+33 643,13 |
 
 1er échelon |
 
-31 512,28 |
+31 984,97 |
 
-II - Indemnité d'engagement de service public exclusif des praticiens exerçant à temps plein (montant brut mensuel) |
+II-Indemnité d'engagement de service public exclusif des praticiens exerçant à temps plein (montant brut mensuel) |
 
 |
 
@@ -74,7 +78,7 @@ Indemnité mentionnée au 2° de l'article 1er de l'arrêté du 14 février 2013
 
 1010 |
 
-III - Prime d'exercice territorial (montant brut mensuel, en fonction du nombre moyen hebdomadaire de demi-journées passées en dehors du site principal d'exercice du praticien ainsi que du nombre de sites d'exercice différents le cas échéant) |
+III-Prime d'exercice territorial (montant brut mensuel, en fonction du nombre moyen hebdomadaire de demi-journées passées en dehors du site principal d'exercice du praticien ainsi que du nombre de sites d'exercice différents le cas échéant) |
 
 |
 

@@ -1,6 +1,6 @@
 # Article Annexe VIII
 
-EMOLUMENTS DES PRATICIENS ADJOINTS CONTRACTUELS
+ÉMOLUMENTS DES PRATICIENS ADJOINTS CONTRACTUELS
 
 Décret n° 95-569 du 6 mai 1995 modifié
 
@@ -8,7 +8,9 @@ Mesures permanentes
 
 PERSONNELS CONCERNES |
 
-Montants au 1er juillet 2022
+Montants
+
+au 1er juillet 2023
 
 (en euros) |
 
@@ -18,28 +20,28 @@ Emoluments hospitaliers (montants bruts annuels) |
 
 7e niveau |
 
-49 313,53 |
+50 053,23 |
 
 6e niveau |
 
-46 361,63 |
+47 057,06 |
 
 5e niveau |
 
-44 208,00 |
+44 871,12 |
 
 4e niveau |
 
-40 775,65 |
+41 387,28 |
 
 3e niveau |
 
-36 083,95 |
+36 625,21 |
 
 2e niveau |
 
-33 145,94 |
+33 643,13 |
 
 1er niveau |
 
-28 780,42 |
+29 212,13 |

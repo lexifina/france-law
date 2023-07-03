@@ -6,7 +6,9 @@ Articles R. 6152-401 à R. 6152-436
 
 PERSONNELS CONCERNES |
 
-Montants au 1er juillet 2022
+Montants
+
+au 1er juillet 2023
 
 (en euros) |
 
@@ -16,19 +18,19 @@ Emoluments hospitaliers |
 
 Niveau 4 |
 
-54 786,00 |
+55 607,79 |
 
 Niveau 3 |
 
-53 392,92 |
+54 193,81 |
 
 Niveau 2 |
 
-52 173,64 |
+52 956,24 |
 
 Niveau 1 |
 
-51 302,98 |
+52 072,53 |
 
 Ces émoluments peuvent être majorés dans la limite de 10 % |
 
