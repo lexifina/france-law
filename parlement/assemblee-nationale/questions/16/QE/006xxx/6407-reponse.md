@@ -1,0 +1,9 @@
+# Réponse à la question n° 6407
+
+- Question : [6407](6407.md) — Question n° 6407 — Question sur les bagages abandonnés dans les transports en commun
+
+## Réponse
+
+*JO du 2023-07-04, page 6252*
+
+L'abandon de bagages en gare ou dans les trains a un impact à la fois sur la sûreté du transport collectif, notamment ferroviaire, et sur la fluidité du trafic. Les bagages délaissés sont en effet aujourd'hui la première cause de retard des trains en France. L'amplification récente de ce phénomène est particulièrement préoccupante dans la perspective de l'organisation de grands évènements tels que les Jeux Olympiques et Paralympiques de 2024, générant de nombreux déplacements et pour lesquels la disponibilité des transports collectifs constitue un enjeu majeur. L'appel aux services de déminage en cas de découverte d'un bagage abandonné a pour corollaire l'établissement d'un périmètre de sécurité, avec de fortes conséquences sur le fonctionnement des services de transport. Afin d'introduire davantage de souplesse dans la procédure de traitement des bagages délaissés, un arrêté du 29 mars 2022, portant procédures d'intervention applicables aux équipes cynotechniques intervenant dans les services de transport public collectif de personnes, a modifié la procédure d'intervention des équipes cynotechniques et les autorise notamment à procéder à la qualification de l'objet délaissé avec intervention d'une équipe cynotechnique pendant un délai de 20 minutes avant l'appel aux services de déminage. Le concours d'une équipe cynotechnique permet ainsi de limiter les entraves à la fluidité du trafic. Par ailleurs, les services du ministère chargé des transports recherchent, en lien avec des opérateurs, des solutions techniques susceptibles de limiter les besoins de recours aux services de déminage tout en veillant à ne pas dégrader le dispositif de protection des voyageurs.
