@@ -1,0 +1,11 @@
+# COMMUNE DE FOUGERES : délibération D58DSTE_JUIL23 — DELIB CONCESSION MISE A DISPOSITION INSTALLATION MAINTENANCE ENTRETIEN EXPLOITATION MOBILIERS URBAINS
+
+- Collectivité : COMMUNE DE FOUGERES
+- SIRET : 21350115800017
+- Code INSEE : 35115
+- Date : 2023-07-04
+- Matière : 1.2 Commande Publique/Delegation de service public
+- Objet : DELIB CONCESSION MISE A DISPOSITION INSTALLATION MAINTENANCE ENTRETIEN EXPLOITATION MOBILIERS URBAINS
+- Transmis à la préfecture : 2023-07-11 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213501158/Deliberation/2023/452211/6b7dc651d559caed99956a11817f7cfbb529678bb3db0cbb21ffa26c0ae0218c.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
