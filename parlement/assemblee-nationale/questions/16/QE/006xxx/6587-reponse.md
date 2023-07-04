@@ -1,0 +1,9 @@
+# Réponse à la question n° 6587
+
+- Question : [6587](6587.md) — Question n° 6587 — Inflation au mois de mars 2023
+
+## Réponse
+
+*JO du 2023-07-04, page 6156*
+
+La députée demande à ce que le blocage des prix soit mis en place pour contenir l'inflation. Le Gouvernement n'a pas choisi cette option à la différence de la Hongrie qui l'a mis en place avec un résultat difficile pour l'économie hongroise et le quotidien des habitants : le blocage des prix ayant provoqué une inflation alimentaire atteignant 37,7 % et des pénuries d'aliments. De son côté, pour aider les Français à faire face à l'inflation, le Gouvernement a mis en place plusieurs mesures : o l'aide exceptionnelle de rentrée o la revalorisation des bourses étudiantes, des APL, des minimas sociaux et des retraites o le bouclier tarifaire sur les prix de l'électricité o le bouclier tarifaire sur les prix du gaz o l'indemnité carburant destinée aux travailleurs o la suppression de la redevance audiovisuelle Rien que la mise en place du bouclier tarifaire a permis à un ménage modeste de préserver 200 euros par mois. Cette politique conduite depuis fin 2021 permet à la France d'afficher un niveau d'inflation parmi les plus bas d'Europe. Le Gouvernement ne nie pas que la situation est compliquée notamment concernant les prix alimentaires. C'est pourquoi le ministre Bruno LE MAIRE a demandé aux distributeurs de contenir leurs marges pour lutter contre l'envolée des prix : c'est le but de l'opération dite « trimestre anti-inflation ». Résultat : depuis le début de l'opération, on constate une baisse de 13% sur les 1700 références concernées. Cette opération devait se terminer le 15 juin, elle est prolongée. Le ministre en charge de l'économie a par ailleurs convoqué les industriels et distributeurs et leur a demandé que les négociations commerciales. Les prix des matières premières sont à la baisse : cette baisse doit se répercuter très rapidement sur les prix dans les rayons.
