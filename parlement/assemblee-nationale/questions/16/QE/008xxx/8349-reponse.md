@@ -1,0 +1,9 @@
+# Réponse à la question n° 8349
+
+- Question : [8349](8349.md) — Question n° 8349 — Plafonnement de l'indexation des loyers commerciaux à 3,5%
+
+## Réponse
+
+*JO du 2023-07-04, page 6206*
+
+Le Gouvernement est très attentif à l'impact de l'inflation sur tous les commerces et les aide à surmonter le risque d'une augmentation trop forte des loyers commerciaux. La loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat a mis en place un plafonnement pendant un an de l'augmentation de l'indice des loyers commerciaux (ILC) à 3,5 %. Ce plafonnement s'applique à toutes les petites et moyennes entreprises (PME) au sens du droit européen jusqu'au premier trimestre 2023. Le Gouvernement a mis en ligne une foire aux questions sur le site de la direction générale des entreprises (DGE) afin de faciliter l'application du dispositif par les acteurs concernés. Alors que le niveau d'inflation reste élevé et que les prévisions de l'Insee prévoient que l'ILC reste au-dessus de 3,5 % jusqu'au milieu de l'année 2024, le Gouvernement est particulièrement attentif à la protection des PME dans le contexte économique actuel. C'est pourquoi le Gouvernement a engagé la procédure accélérée pour la proposition de loi n° 123 maintenant provisoirement un dispositif de plafonnement de revalorisation de la variation annuelle des indices locatifs, qui propose de reconduire le dispositif existant jusqu'au premier trimestre 2024. Cependant, la pertinence d'élargir le dispositif de plafonnement à toutes les entreprises quelle que soit leur taille doit être évaluée au regard des atteintes que le plafonnement porte à la liberté contractuelle et au droit de propriété. Le Gouvernement veillera à ce que le dispositif reste proportionné et adéquat au regard de l'objectif d'intérêt général poursuivi et prenne en compte la conjoncture économique qui pèse sur l'ensemble des acteurs.
