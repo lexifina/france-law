@@ -1,0 +1,9 @@
+# Réponse à la question n° 5638
+
+- Question : [5638](5638.md) — Question n° 5638 — Développement des mobilités entre la France et l'Espagne
+
+## Réponse
+
+*JO du 2023-07-04, page 6249*
+
+La réouverture intégrale de la ligne Pau-Canfranc est un projet d'intérêt local porté par la Région Nouvelle-Aquitaine et la Communauté Autonome d'Aragon. Les deux États y sont associés compte-tenu de sa dimension transfrontalière. Pour mémoire, cette ligne est fermée depuis 1970 sur le versant français entre Bedous (France) et Canfranc (Espagne) à la suite d'un accident ferroviaire ayant détruit un des ouvrages d'art de cette section montagneuse. En accord avec les conclusions du précédent rapport du Conseil d'Orientation des Infrastructures (COI), ce projet n'avait pas été inscrit dans la trajectoire financière des investissements de l'Etat définie par la loi d'orientation des mobilités. Le récent rapport du COI remis en février 2023 souligne que les études menées depuis 2018 n'ont pas apporté d'éléments nouveaux qui justifieraient une évolution de cette position. La France a néanmoins apporté son soutien pour l'obtention et le suivi des crédits européens dédiés au projet. C'est dans cet esprit que les Etats français et espagnol, la Région Nouvelle-Aquitaine et la Communauté Autonome d'Aragon ont pu obtenir plusieurs co-financements européens dans le cadre du Mécanisme d'Interconnexion pour l'Europe sur la période 2017 à 2023 pour l'ensemble de l'axe entre Pau et Saragosse, pour un montant de 10 M€ au global. Une nouvelle demande de subvention, à laquelle l'Etat français a apporté son soutien, portant sur des études complémentaires à réaliser dans l'objectif d'une enquête publique pour la partie française, et sur l'accès à la plateforme de Plasencia pour la partie espagnole, a été déposée en janvier 2023 dans le cadre de l'actuel appel à projets européen du MIE 2 et vient de se voir une décision positive à hauteur de 9 M€.
