@@ -1,0 +1,9 @@
+# Réponse à la question n° 5396
+
+- Question : [5396](5396.md) — Question n° 5396 — Les impayés doivent cesser pour les assistantes maternelles
+
+## Réponse
+
+*JO du 2023-07-04, page 6179*
+
+Concernant la possibilité de bénéficier d'une assistance juridique spécifique, en application de l'article 3 et suivants de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique, les personnes disposant de ressources insuffisantes peuvent formuler une demande d'aide juridictionnelle afin que leurs frais de justice (avocats, commissaires de justices, notaires…) soient pris en charge. L'aide peut être partielle ou totale, en fonction des ressources et de la situation personnelle de la personne la sollicitant. Le concours à l'aide juridictionnelle peut être demandé avant le commencement ou pendant la procédure judiciaire. Ainsi, une assistante maternelle en difficulté financière et souhaitant bénéficier de l'aide juridictionnelle pour couvrir les frais de commissaire de justice (anciennement dénommé huissier de justice) dans le but d'assurer l'exécution d'une décision de justice, peut se la voir accordée. En outre, les assistantes maternelles non éligibles à l'aide juridictionnelle peuvent se la voir attribuée de manière exceptionnelle si leur situation apparaît particulièrement digne d'intérêt, en vertu de l'article 6 de la loi précitée. Cette appréciation est réalisée par les bureaux d'aide juridictionnelle locaux, de manière concrète et circonstanciée, au regard de l'objet du litige ou des charges procédurales prévisibles. Les assistantes maternelles sont donc encouragées à solliciter le bénéfice de l'aide juridictionnelle, y compris lorsque leurs ressources financières dépassent le plafond prévu par le décret n° 2020-1717 du 28 décembre 2020. Les dispositifs existants permettent ainsi de prendre en compte les situations décrites. La création d'un fond d'indemnisation spécifique n'est pas envisagée.
