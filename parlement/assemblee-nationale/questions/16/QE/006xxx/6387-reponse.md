@@ -1,0 +1,9 @@
+# Réponse à la question n° 6387
+
+- Question : [6387](6387.md) — Question n° 6387 — Développement du don de plasma bénévole
+
+## Réponse
+
+*JO du 2023-07-04, page 6210*
+
+Le Gouvernement soutient les activités de l'Etablissement français du sang (EFS) et œuvre à la fois pour la préservation du modèle éthique français, la souveraineté et la pérennité de la filière plasma. L'organisation de la filière du plasma pour fractionnement en France vise historiquement à offrir un cadre de collecte éthique, performant et intégré. Cette filière fait en effet face à des problématiques diverses liées à un double contexte d'augmentation de la demande pour les médicaments dérivés du plasma et de forte pénétration des produits extra-européens sur le marché des médicaments dérivés du plasma. Les politiques en la matière ont toujours visé l'équilibre entre l'accès aux médicaments pour les patients et l'encouragement au développement de la filière éthique par le soutien au développement de la collecte par l'EFS, l'augmentation des tarifs et la prévention des pénuries de médicaments dérivés du plasma. La stratégie du Laboratoire de fractionnement et de biotechnologies (LFB) s'inscrit pleinement dans cet objectif, notamment par l'ouverture de l'usine d'Arras qui vise à développer la production de médicaments dérivés du plasma issus du plasma EFS. Face aux difficultés de la filière, une mission conjointe de l'Inspection générale des affaires sociales et de l'Inspection générale des finances a été mandatée. Ces conclusions seront rendues prochainement et constitueront la base d'une réflexion globale sur les orientations à prendre, en cohérence avec les objectifs qui fondent l'organisation actuelle de la filière. Le Gouvernement reste très attentif à la gestion des stocks de produits sanguins labiles indispensables à la prise en charge hospitalière des patients, et plus généralement, à la préservation du modèle français de la transfusion.
