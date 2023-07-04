@@ -1,0 +1,9 @@
+# Réponse à la question n° 5608
+
+- Question : [5608](5608.md) — Question n° 5608 — Ouverture du bénéfice de la pension de reversion aux partenaires PACS
+
+## Réponse
+
+*JO du 2023-07-04, page 6181*
+
+Les couples qui désirent une organisation juridique de leurs relations ont le choix entre trois statuts : le mariage, le partenariat civil de solidarité, et le concubinage. Ces trois régimes soumettent les couples à des droits et des obligations différents, sans que cela ne contrevienne au principe de l'égalité de traitement, ainsi que l'a rappelé le Conseil d'Etat dans un arrêt du 28 juin 2002, en précisant que les couples mariés et les partenaires de PACS étaient placés dans des situations juridiques différentes et que le principe d'égalité n'impose pas qu'ils soient traités dans tous les cas de manière identique (CE, ass., 28 juin 2002, req. n° 220361). S'agissant plus particulièrement du droit au bénéfice d'une pension de réversion reconnu au conjoint survivant et refusé au partenaire, le Conseil constitutionnel a considéré qu'en raison des devoirs particuliers qui naissent du mariage, de la protection que la loi assure à la famille, de celle qu'elle assure aux époux dans la dissolution de l'union, la différence de traitement entre les couples mariés et non mariés ne méconnaît pas le principe constitutionnel d'égalité (Cons. const. 29 juill. 2011, no 2011-155 QPC). En outre, les couples ont le libre de choix du statut qui leur convient et peuvent, en toute hypothèse, s'ils le désirent recourir aux outils juridiques qui sont à leur disposition. A cet égard, dans un arrêt du 23 juin 2014 (Cour de cassation, civile, Chambre civile 2, 23 janvier 2014, 13-11.362), la Cour de cassation, reprenant la solution du Conseil constitutionnel, a rappelé que l'option entre mariage et pacte civil de solidarité procède du libre choix des intéressés.
