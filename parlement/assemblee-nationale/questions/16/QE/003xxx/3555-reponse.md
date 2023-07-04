@@ -1,0 +1,9 @@
+# Réponse à la question n° 3555
+
+- Question : [3555](3555.md) — Question n° 3555 — Traitement suite à une promotion pour les fonctionnaires du groupe La Poste
+
+## Réponse
+
+*JO du 2023-07-04, page 6153*
+
+La difficulté rencontrée par l'agent cité par le député a bien été identifiée par le ministre de l'économie, des finances et de la souveraineté industrielle et numérique qui contribue à la politique des personnels de la Poste. Si l'application du régime indemnitaire du corps des cadres supérieurs conduit, dans la totalité des cas, à une hausse de la rémunération globale des agents promus pendant leur période d'activité, la structure des grilles peut conduire à ce que l'indice de liquidation de la pension d'un nombre très limité d'agents ayant bénéficié d'une promotion sans avoir la possibilité d'y dérouler une carrière soit inférieur à l'indice de liquidation des agents n'ayant pas été promus. C'est la raison pour laquelle un outil de gestion spécifique a été mis en place dans l'ensemble des services des ressources humaines (RH) du groupe La Poste visant à effectuer des simulations et à conseiller au mieux, au cas par cas, les agents susceptibles de bénéficier d'une promotion en fin de carrière. Cette expertise RH permet aux quelques agents concernés d'ajuster le cas échéant leur date de départ à la retraite. Une poursuite de la carrière dans le corps des cadres supérieurs permet en effet d'atteindre un niveau d'indice supérieur à celui des cadres. Chaque agent peut ainsi être en mesure de se positionner au regard du nombre d'années de services restant à accomplir avant la date envisagée de liquidation des droits à pension. De tels arbitrages individuels ont déjà cours dans d'autres corps ou cadres d'emplois pour lesquels une promotion intervenant à un âge proche du départ en retraite offre des perspectives moins intéressantes qu'un maintien dans le corps ou cadre d'emplois de niveau inférieur.
