@@ -1,0 +1,9 @@
+# Réponse à la question n° 6476
+
+- Question : [6476](6476.md) — Question n° 6476 — Pénuries de carburant et mobilité des personnes en situation de handicap
+
+## Réponse
+
+*JO du 2023-07-04, page 6197*
+
+Le Gouvernement est pleinement mobilisé pour garantir la liberté de se déplacer sans pour autant entraver le droit de grève. A ce titre, une cellule interministérielle de crise est activée dès lors qu'une pénurie de carburant est anticipée, afin de prendre en compte la situation des personnes en situation de handicap et des professionnels qui les accompagnent. Elles font l'objet d'un accompagnement particulier. Prioriser l'accès aux stations aux détenteurs d'une carte mobilité inclusion (CMI) ne permettrait cependant pas de garantir l'accès au carburant pour l'ensembles des personnes prioritaires (à savoir les personnes handicapées et les personnes accompagnantes, tels que les soignants ou les services de secours), dès lors que des millions de Français en bénéficient – les seuls détenteurs de la CMI droit à vie représentent 935 000 personnes. Pour autant, en lien avec les collectivités territoriales, nous veillons à ce que, à travers les services d'aide et d'accompagnement à domicile, les personnes pour qui la mobilité n'est pas garantie fassent l'objet d'un suivi attentif. Plusieurs mesures ont déjà été lancées qui participent à ce renforcement de la prise en charge : le soutien au transport à domicile, notamment, a été renforcé. Le gouvernement et les collectivités travaillent à la coconstruction de solutions de transport porte à porte pour les personnes à mobilité réduite. Enfin, la mise en accessibilité des transports demeure notre priorité. Les annonces faites en ce sens à l'occasion de la Conférence nationale du handicap d'avril 2023 témoignent de cette volonté : finalisation de la mise en accessibilité des gares prioritaires ; lancement de l'accessibilité partielle des métros ; mise en accessibilité de la voirie et des arrêts routiers.
