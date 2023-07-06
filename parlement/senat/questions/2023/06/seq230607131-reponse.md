@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607131
+
+- Question : [SEQ230607131](seq230607131.md) — Inquiétude concernant la fermeture de la maternité de Péronne et d'autres maternités en France
+
+## Réponse
+
+*Santé et prévention, JO du 2023-07-06, page 4239*
+
+S'agissant de la maternité de Péronne, c'est le défaut de praticiens anesthésistes-réanimateurs qui a conduit à la fermeture ponctuelle de cette maternité au cours du mois de juin 2023. L'établissement, en lien étroit avec l'agence régionale de santé des Hauts-de-France, est extrêmement mobilisé pour trouver une réponse à ces difficultés. Ces démarches seront poursuivies dans les jours et semaines à venir, avec la plus grande attention portée à la sécurité et qualité des soins dus aux femmes enceintes et nouveau-nés du territoire. Malgré la suspension des accouchements, des mesures ont été prises par ailleurs pour continuer d'assurer un socle de prestations de suivi de grossesse et pour orienter les femmes dont l'accouchement est programmé au cours de cette période de fermeture. Concernant le devenir des petites maternités de manière générale, le Gouvernement souhaite rappeler que les préconisations formulées par l'Académie de médecine, structure indépendante, dans son rapport relatif à la planification d'une politique en matière de périnatalité en France constituent un avis qui ne l'engage pas. Aucun objectif de fermeture d'établissement de santé ni politique volontariste de fermeture de service n'est aujourd'hui poursuivi au niveau national. Le Gouvernement est en revanche extrêmement attentif aux conditions de fonctionnement des maternités, dans le contexte actuel de tension sur la démographie des professions de santé et accorde la priorité au maintien de la sécurité et de la qualité de la prise en charge dus aux femmes enceintes et aux nouveaux-nés.
