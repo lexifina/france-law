@@ -1,0 +1,17 @@
+# Article 1er
+
+La période d'essai des contrats à durée indéterminée est fixée à :
+
+– 1 mois pour les employés, les ouvriers et le personnel d'immeubles relevant du premier coefficient hiérarchique de chacune des classifications ;
+
+– 2 mois pour les employés, les ouvriers, et le personnel d'immeubles relevant des autres coefficients hiérarchiques ;
+
+– 3 mois pour les agents de maîtrise ;
+
+– 4 mois pour les cadres. Le renouvellement de la période d'essai est possible dans la limite de 2 mois.
+
+Toutefois, s'il s'agit d'employés, d'ouvriers, de personnel d'immeubles, d'agents de maîtrise ou de cadres présentant de sérieuses références ou des qualifications techniques reconnues, l'essai qui est exigé pourra être réduit ou supprimé par l'employeur.
+
+Le salarié maintenu en fonction à la fin de la période d'essai bénéficie de la reprise de son ancienneté acquise lors de contrats antérieurs dans la société.
+
+Pendant la période d'essai, les droits découlant de la présente convention sont les mêmes que ceux des bénéficiaires de contrats à durée indéterminée et maintenus en fonction à l'issue de leur période d'essai ou exemptés de cette période, sauf en ce qui concerne le licenciement et le maintien du salaire en cas de maladie défini à l'article 29 ci-dessous.
