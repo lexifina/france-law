@@ -1,0 +1,11 @@
+# COMMUNE DE BROUALAN : délibération BROUALAN202324D — RENOUVELLEMENT DE DEMANDE D AVIS A LA CDPENAF : EMPRISE FONCIERE POUR CONSTRUCTIBILITE D UNE SALLE POLYVALENTE EN ENTREE DE BOURG
+
+- Collectivité : COMMUNE DE BROUALAN
+- SIRET : 21350044000010
+- Code INSEE : 35044
+- Date : 2023-07-06
+- Matière : 2.2 Urbanisme/Actes relatifs au droit d occupation ou d utilisation des sols
+- Objet : RENOUVELLEMENT DE DEMANDE D AVIS A LA CDPENAF : EMPRISE FONCIERE POUR CONSTRUCTIBILITE D UNE SALLE POLYVALENTE EN ENTREE DE BOURG
+- Transmis à la préfecture : 2023-07-12 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500440/Deliberation/2023/453258/86e3fa1d664d89a05522e6d69cec7a699e83698869b31fce57a058a52f479214.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
