@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230506902
+
+- Question : [SEQ230506902](seq230506902.md) — Mieux informer les usagers sur leurs droits
+
+## Réponse
+
+*Transformation et fonction publiques, JO du 2023-07-06, page 4246*
+
+Le décret pris en application de l'article 162 de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale, dite loi 3DS a été examiné par la section de l'administration du Conseil d'État le 21 mars 2023 et est paru au Journal officiel le 13 mai 2023. Il ouvre ainsi la voie aux démarches « proactives » pour simplifier les démarches administratives des citoyens en évitant de leur redemander des informations dont les administrations disposent déjà et d'informer les citoyens de leurs droits et des aides auxquels ils sont éligibles. Au-delà des travaux réglementaires engagés et de la mise en place de premières démarches proactives, il est indispensable d'accompagner les administrations pour que cette approche soit désormais systématique. Aussi, la direction interministérielle du numérique renouvelle actuellement l'observatoire de la qualité des démarches essentielles en ligne pour y intégrer directement comme critère de qualité la minimisation des demandes complémentaires adressées aux usagers. Des travaux sont d'ores et déjà en cours afin de procéder à une meilleure information des usagers sur les droits auxquels ils peuvent prétendre ou, dans certains cas comme le chèque énergie ou l'allocation de rentrée scolaire, pour attribuer directement les droits aux personnes qui sont éligibles sans qu'elles n'aient à les demander avec par exemple le renouvellement automatique des bourses scolaires dès la rentrée 2024 annoncé lors du comité interministériel de la transformation publique du 9 mai 2023.
