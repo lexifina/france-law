@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700848
+
+- Question : [SEQ220700848](seq220700848.md) — Déploiement de la fibre optique en milieu rural
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2023-07-06, page 4205*
+
+Dans le cadre de l'utilisation d'appuis communs, le gouvernement a oeuvré fin 2021 pour faciliter et accélérer le raccordement effectif des locaux à la fibre optique, grâce à la mutualisation des infrastructures en utilisant le réseau de distribution d'électricité. Dans cette optique la Ministre de la transition écologique et le secrétaire d'Etat chargé du numérique ont pris par arrêté une mesure de simplification de l'utilisation des poteaux électriques, afin d'encourager cette mutualisation et d'accélérer le déploiement de la fibre. L'arrêté du 24 décembre 2021 facilite ainsi l'utilisation des ouvrages basse tension du réseau public de distribution d'électricité pour le raccordement des locaux au réseau fibre, est susceptible d'accélérer de plusieurs semaines voire plusieurs mois ce raccordement. Ce texte apporte une simplification importante et attendue de longue date par les acteurs publics et privés impliqués dans l'aménagement numérique du territoire. Il est le résultat d'une intense mobilisation de toutes les parties prenantes sous l'égide du gouvernement et représente ainsi un consensus entre les opérateurs privés (représentés par la fédération InfraNum), ENEDIS et la Fédération nationale des collectivités concédantes et régies (FNCCR) pour accélérer l'arrivée de la fibre à l'intérieur des logements de nos concitoyens et des entreprises. Suite à cet arrêté la convention liant les opérateurs et ENEDIS, et datant de mars 2015, est en cours de modification. Les discussions sont bien avancées entre les acteurs et devraient se concrétiser prochainement.
