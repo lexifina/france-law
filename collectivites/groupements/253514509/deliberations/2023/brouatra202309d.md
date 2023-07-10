@@ -1,0 +1,10 @@
+# SYND INTERCOM REGROUPEMENT SCOL BROUALAN : délibération BROUATRA202309D — DISPOSITIF CANTINE A UN EURO MODIFICATION DES TARIFS
+
+- Collectivité : SYND INTERCOM REGROUPEMENT SCOL BROUALAN
+- SIRET : 25351450900012
+- Date : 2023-07-10
+- Matière : 7.10 Finances locales/Divers
+- Objet : DISPOSITIF CANTINE A UN EURO MODIFICATION DES TARIFS
+- Transmis à la préfecture : 2023-07-18 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/253514509/Deliberation/2023/457017/154034f3770a1d9b2a5031f70f8a7797282929811ad31d58991d0c173544e359.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
