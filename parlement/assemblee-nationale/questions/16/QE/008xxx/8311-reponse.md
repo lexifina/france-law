@@ -1,0 +1,9 @@
+# Réponse à la question n° 8311
+
+- Question : [8311](8311.md) — Question n° 8311 — Ligne nouvelle Montpellier-Perpignan
+
+## Réponse
+
+*JO du 2023-07-11, page 6594*
+
+Le projet de ligne nouvelle Montpellier-Perpignan (LNMP) vise à répondre durablement à la demande croissante de mobilité et aux problèmes de congestion actuels sur l'axe ferroviaire unique du Languedoc-Roussillon. Il permettra également de créer un service à haute fréquence le long de l'axe littoral et d'assurer la continuité de la grande vitesse ferroviaire entre la France et l'Espagne sur la façade méditerranéenne. En cohérence avec le constat de la saturation effective de la ligne classique entre Montpellier et Béziers, préjudiciable à la qualité de service des transports du quotidien, la réalisation de la LNMP sera phasée en commençant par l'engagement des travaux de la liaison mixte fret et voyageurs entre Montpellier et Béziers. Au bénéfice de tout l'arc méditerranéen, celle-ci permettra de gagner 18 minutes entre Montpellier et Perpignan, soit près de la moitié des gains de temps permis par l'ensemble du projet LNMP. À l'issue de plusieurs années de préparation, la première phase du projet LNMP, entre Montpellier et Béziers, a été déclarée d'utilité publique par décret de 16 février dernier, ce qui marque le franchissement d'une étape majeure pour le projet, tout comme la création en 2022 d'un établissement public local dédié à son financement, la Société de la LNMP. Sans préjudice des arbitrages que rendra prochainement le Gouvernement, le calendrier évoqué dans le récent rapport du Conseil d'Orientation des Infrastructures (COI) s'avère proche de celui prévu par la loi d'orientation des mobilités qui prévoyait que les travaux de la première phase entre Montpellier et Béziers débutent en 2029 et ceux de la seconde phase entre Béziers et Perpignan à l'horizon 2039.
