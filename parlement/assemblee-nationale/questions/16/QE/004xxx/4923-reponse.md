@@ -1,0 +1,9 @@
+# Réponse à la question n° 4923
+
+- Question : [4923](4923.md) — Question n° 4923 — Procédure de naturalisation - Délais de traitement
+
+## Réponse
+
+*JO du 2023-07-11, page 6486*
+
+L'article 21-25-1 du Code civil dispose que la réponse de l'autorité publique à une demande d'acquisition de la nationalité française par naturalisation doit intervenir dix-huit mois au plus tard après la date à laquelle a été délivré au demandeur le récépissé constatant la remise de toutes les pièces nécessaires à la constitution d'un dossier complet. Ce délai peut être prolongé une seule fois de trois mois par décision motivée. Depuis la crise sanitaire, le délai moyen national entre la délivrance du récépissé et l'inscription dans un décret de naturalisation a fortement diminué, de l'ordre de – 30 % : de 464 jours en 2020, il baisse à 398 jours en 2021 puis à 324 jours en 2022. Concernant les décisions défavorables, le délai moyen national, entre la délivrance du récépissé et la signature par le préfet territorialement compétent de la décision, a été ramené de 153 à 127 jours entre 2020 et 2022. Pour poursuivre cette dynamique, un accompagnement individualisé des plateformes d'instruction est mis en œuvre avec la réalisation d'audits sur sites, suivis de plans d'action triennaux accompagnés d'objectifs de réduction des délais et des stocks auxquels les préfets ont été sensibilisés. Des effectifs supplémentaires et de nombreux outils ont par ailleurs été mis à disposition afin d'aider les plateformes à optimiser leur fonctionnement (processus cible, guide des bonnes pratiques, etc.) Pour les naturalisations par décret, la dématérialisation des procédures d'accès à la nationalité française via le télé-service NATALI a été généralisée, le 6 février dernier. Ce développement permettra l'amélioration des délais de traitement des dossiers et de nouvelles modalités d'information des usagers sur l'avancement de l'instruction de leur demande.
