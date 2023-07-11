@@ -1,0 +1,9 @@
+# Réponse à la question n° 5088
+
+- Question : [5088](5088.md) — Question n° 5088 — Utilisation de ChatGPT dans l'enseignement supérieur
+
+## Réponse
+
+*JO du 2023-07-11, page 6471*
+
+Le développement de l'intelligence artificielle (IA) a connu des avancées très significatives notamment du fait des évolutions technologiques récentes, tant en matière de capacité à traiter des masses considérables de données que des modalités de ces traitements (deep learning et machine learning par exemple). Sa mise à disposition du grand public va nécessairement avoir progressivement un impact sur toutes les sphères de la société. Dans l'enseignement supérieur, comme ailleurs, ChatGPT - et les autres IA - bousculent les usages et drainent leur lot de mésusages, nécessitant que le sujet soit observé avec sérieux et pragmatisme tout en requérant une vigilance supplémentaire des enseignants. L'avènement de l'IA dans l'enseignement supérieur pose également, et nécessairement, la question de l'évolution des métiers et des compétences, avec, en arrière-fond, le sujet de l'évolution des formations et de l'évaluation des apprentissages. En conséquence, le secteur de l'enseignement supérieur doit pouvoir adapter ses méthodes d'apprentissage, d'enseignement et d'évaluation de sorte que l'IA soit utilisée de manière efficace et appropriée. Dans le cadre de leur liberté académique, il appartient aux enseignants-chercheurs de décider de la façon dont ils souhaitent mobiliser ou interdire ces outils conversationnels pour en adapter les usages à leurs enseignements. Les établissements d'enseignement supérieur ont également la responsabilité d'encourager et de synthétiser cette réflexion, pour adapter les méthodes d'apprentissage et d'évaluation, à l'image des règles que se sont fixés certains établissements comme Sciences Po Paris d'encadrer l'outil conversationnel.
