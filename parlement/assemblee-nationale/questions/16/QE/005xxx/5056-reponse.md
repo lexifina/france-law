@@ -1,0 +1,9 @@
+# Réponse à la question n° 5056
+
+- Question : [5056](5056.md) — Question n° 5056 — Enchérissement de l'hébergement en maison de retraite
+
+## Réponse
+
+*JO du 2023-07-11, page 6543*
+
+Afin de soutenir les résidents des établissements d'hébergement pour personnes âgées dépendantes (EHPAD) face à l'inflation, plusieurs mesures existent. Pour les personnes dont les ressources ne permettent pas de s'acquitter des frais liés à l'hébergement en EHPAD, il est possible de demander à percevoir l'aide sociale à l'hébergement (ASH), à condition de bénéficier d'une place habilitée à l'aide sociale. En 2020, 116 500 personnes de 60 ans ou plus bénéficient de l'ASH au titre d'un hébergement en établissement, soit un nombre près de 4 fois inférieur au nombre de places habilitées. A la suite de la mission confiée à la députée Christine Pires Beaune sur l'évaluation des soutiens publics permettant de limiter le reste à charge des personnes âgées en perte d'autonomie, un rapport explorant diverses pistes est en cours de rédaction et devrait être prochainement remis par la députée au Gouvernement. Il permettra d'identifier différentes voies d'amélioration de l'accessibilité financière des établissements, ainsi que les conséquences financières de ces potentielles voies d'amélioration. Dans le cadre de la proposition de loi portant mesures pour bâtir la société du bien vieillir en France, actuellement en cours d'examen à l'Assemblée nationale, un article prévoit par ailleurs la suppression de l'obligation alimentaire des petits-enfants et de leurs descendants dans le cadre de l'ASH. C Enfin, le Gouvernement a décidé de poursuivre son engagement dans la protection des EHPAD en étendant le bouclier tarifaire gaz et électricité en 2023 et en instaurant un amortisseur électricité pour 2023, avec l'objectif de pouvoir limiter la hausse des prix de l'électricité et du gaz à 15 % en 2023, et donc de limiter les coûts de l'hébergement.
