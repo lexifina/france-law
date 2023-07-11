@@ -1,0 +1,9 @@
+# Réponse à la question n° 2865
+
+- Question : [2865](2865.md) — Question n° 2865 — Projet d'autoroute A69 reliant les villes de Castres et de Verfeil
+
+## Réponse
+
+*JO du 2023-07-11, page 6574*
+
+Le projet d'autoroute A69 a fait l'objet, avant sa déclaration d'utilité publique en 2018, d'une large consultation de l'ensemble des acteurs concernés. Celle-ci aura permis notamment de faire évoluer le projet afin de répondre au plus près des besoins et attentes des populations. Dans le cadre des études préalables à la déclaration d'utilité publique du projet, différentes solutions alternatives ont été étudiées mais aucune d'entre elles n'a été jugée, à l'époque, en mesure d'assurer une poursuite satisfaisante du projet par rapport aux objectifs recherchés tout en présentant une atteinte significativement moindre sur les milieux et les espèces protégées. Le Conseil d'État a par ailleurs jugé, dans le cadre des recours contentieux sur la déclaration d'utilité publique du projet, que l'étude d'impact réalisée par l'État comprend une analyse suffisante des solutions alternatives et expose ainsi les raisons pour lesquelles le projet déclaré d'utilité publique a été retenu et non une solution alternative d'aménagement sur place. La Première ministre a toutefois décidé, lors de la remise du rapport du Comité d'orientation des infrasructures, de lancer une revue des projets autoroutiers, qui est en cours. L'objectif de cette revue est de réévaluer la pertinence des différents projets engagés, certains de longue date, notamment au regard de critères adaptés au nouveau contexte de lutte contre le changement climatique. L'A69 occupe une place particulière dans cet exercice puisque le projet fait l'objet d'un début de réalisation des travaux, dans le cadre d'un contrat de concession signé depuis un an. Les conditions d'une amélioration de la dimension environnementale du projet sont, notamment, actuellement examinées avec le concessionnaire.
