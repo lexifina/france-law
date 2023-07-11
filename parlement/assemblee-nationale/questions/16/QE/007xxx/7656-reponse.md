@@ -1,0 +1,9 @@
+# Réponse à la question n° 7656
+
+- Question : [7656](7656.md) — Question n° 7656 — Lycée autogéré de Paris (LAP)
+
+## Réponse
+
+*JO du 2023-07-11, page 6460*
+
+Le lycée autogéré de Paris (LAP), fondé en 1982, est installé depuis 1984 dans un bâtiment public du 15ème arrondissement. Il participe à la scolarisation d'élèves en situation de décrochage scolaire. Administrativement, il est rattaché au lycée polyvalent Jean Lurçat. Ce rattachement assure la personnalité juridique de l'établissement, préalable nécessaire à son existence même. De 2017 à 2022, une convention régissait le fonctionnement de cette « structure expérimentale » qui met en avant un « projet fondé sur l'autogestion ». La convention étant arrivée à son terme, la demande de son renouvellement a été formulée par les équipes du LAP auprès du rectorat de l'académie de Paris. Un bilan du fonctionnement du LAP a donc été réalisé par le rectorat. Il met en avant diverses difficultés et dysfonctionnements tels que l'absence de définition du périmètre de l'expérimentation, une organisation pédagogique réduisant les temps d'apprentissage disciplinaire en deçà des volumes horaires règlementaires, la possibilité affichée de ne pas s'inscrire au baccalauréat et des taux de réussite à l'examen très bas, même si le statut de candidat individuel rend le suivi difficile. L'absence d'obligation de présence pour les élèves se double d'une absence d'information aux familles. Il est aussi relevé des manquements en matière de sécurité dans les locaux. Par ailleurs, le contexte en matière de ressources humaines est très perturbé. Le statut particulier de cet établissement ne permettant guère une forme de régulation interne, ces situations pèsent sur son fonctionnement. Dans ce contexte, les services académiques poursuivent l'instruction de la demande de renouvellement de la convention et ont sollicité l'appui de l'inspection générale de l'éducation, du sport et de la recherche.
