@@ -1,0 +1,9 @@
+# Réponse à la question n° 7790
+
+- Question : [7790](7790.md) — Question n° 7790 — Contrat engagement jeune
+
+## Réponse
+
+*JO du 2023-07-11, page 6462*
+
+Afin de permettre le retour en formation dans un cursus du second degré des élèves déscolarisés, la prime de reprise d'études a été instaurée par arrêté du 19 août 2016 en faveur des élèves boursiers reprenant une formation sous statut scolaire après une interruption de leur scolarité. Toute formation scolaire sanctionnée par un diplôme inscrit au répertoire national des certifications professionnelles est éligible. Cette prime peut bénéficier aux jeunes de 16 à 18 ans révolus, déscolarisés depuis plus de 5 mois, et qui sont éligibles à une bourse nationale de lycée. Versée simultanément à la bourse, de manière trimestrielle et pour la première année de la reprise d'études, le montant de cette prime est de 600 € annuels afin de garantir à l'élève boursier une aide totale annuelle d'au moins 1 000 € par an, bourse et prime cumulées. Par ailleurs, indépendamment de leur statut de boursier, les élèves reprenant un cursus de formation dans un établissement du second degré sont, comme l'ensemble de leurs camarades, éligibles aux aides des fonds sociaux lycéen et des cantines. Régis par la circulaire n° 2017-122 du 22 août 2017, ces fonds sociaux permettent aux établissements d'apporter, de manière souple, adaptée et réactive, une aide directe à ces élèves, le cas échéant en complément de la prime de reprise d'études. Ces aides visent à faire face non seulement aux coûts de restauration scolaire ou d'internat, mais aussi à tout type de dépenses dans le but de favoriser une scolarité dans les meilleures conditions possibles (soins dentaires, lunetterie, paramédical, équipement scolaire, vestimentaire, voyages et sorties, transport scolaire…). Les fonds sociaux permettent donc de compléter la prime de reprise d'études et ainsi renforcer l'accompagnement de ces jeunes dans leur parcours.
