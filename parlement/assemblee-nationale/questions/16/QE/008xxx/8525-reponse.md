@@ -1,0 +1,9 @@
+# Réponse à la question n° 8525
+
+- Question : [8525](8525.md) — Question n° 8525 — Bénévoles des JO et accidents du travail
+
+## Réponse
+
+*JO du 2023-07-11, page 6557*
+
+Conformément aux dispositions de l'article 8 de la loi n° 2018-202 du 26 mars 2018 relative à l'organisation des jeux Olympiques et Paralympiques de Paris 2024, le comité d'organisation a élaboré et publié, après validation par les services de l'État, une charte du volontariat olympique et paralympique exposant les droits, devoirs, garanties, conditions de recours, catégories de missions confiées et conditions d'exercice qui s'appliquent, en vertu des dispositions législatives et réglementaires et de la jurisprudence en vigueur, aux volontaires bénévoles appelés à participer à la promotion, à la préparation, à l'organisation ou au déroulement des jeux Olympiques et des jeux Paralympiques de 2024. La charte du volontariat olympique et paralympique a été approuvée en juillet 2021 par tous les ministères concernés : santé, éducation nationale, jeunesse et sports, transports et travail, emploi et insertion. Cette charte prévoit que "Paris 2024 veille à la protection du volontaire olympique et paralympique en termes d'hygiène, de santé et de sécurité. Paris 2024 souscrit une couverture responsabilité civile permettant de couvrir le volontaire en cas de dommage subi par lui ou causé à des tiers au cours de l'exécution de sa mission, ainsi qu'une assurance volontaire couvrant le risque accident". En conséquence, le comité d'organisation Paris 2024 conclut avec son assureur, au-delà de la police en responsabilité civile, une couverture portant sur les frais médicaux et le rapatriement qui protègera les volontaires, et qui prévoit également, en cas d'accident, la possibilité de bénéficier d'un capital invalidité / décès. La conclusion par les volontaires d'une assurance individuelle n'apparaît donc pas nécessaire dans ce contexte.
