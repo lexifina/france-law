@@ -1,0 +1,9 @@
+# Réponse à la question n° 7097
+
+- Question : [7097](7097.md) — Question n° 7097 — Question sur la situation de la santé à l'école
+
+## Réponse
+
+*JO du 2023-07-11, page 6453*
+
+Le ministère de l'éducation nationale et de la jeunesse partage la reconnaissance du rôle majeur que jouent les professionnels de santé scolaire pour accompagner les élèves, prévenir et identifier les troubles de santé physique et mentale et contribuer à l'école inclusive. Il a fait de la revalorisation des personnels de santé une priorité de sa politique de ressources humaines, dans le but d'améliorer l'attractivité des concours et des emplois. Les mesures catégorielles pour 2021, dans le cadre du Grenelle de l'éducation, ont permis une revalorisation indemnitaire pour les personnels infirmiers. Il a permis une augmentation indemnitaire moyenne de 400 €. Dans le cadre de la transposition du Ségur de la santé, les infirmiers de l'éducation nationale et de l'enseignement supérieur ont en outre bénéficié d'une amélioration de leur déroulement de carrière à compter du 1er janvier 2022. La fusion de la classe normale et de la classe supérieure et l'alignement de la durée des échelons et des indices sur la grille des infirmiers de la fonction publique hospitalière ont permis un gain indiciaire pour ces personnels. A titre d'exemple, en fin de carrière, le gain de rémunération s'élève à 450 € bruts mensuels. La revalorisation du régime indemnitaire s'est poursuivie en 2022, pour un montant annuel brut de 700 € supplémentaires. L'agenda social ministériel pour 2023 et 2024 permet également de reprendre les discussions avec les organisations syndicales représentatives de cette profession, de reconnaître pleinement son classement en catégorie A, de poursuivre la convergence indemnitaire interministérielle et de garantir l'attractivité de la santé scolaire.
