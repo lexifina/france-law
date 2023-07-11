@@ -1,0 +1,9 @@
+# Réponse à la question n° 8608
+
+- Question : [8608](8608.md) — Question n° 8608 — Fin de l'enseignement de la technologie en classe de sixième
+
+## Réponse
+
+*JO du 2023-07-11, page 6470*
+
+La transformation du collège a pour objectif de donner à tous les élèves les moyens de réussir. Dans cette perspective et dans la continuité de l'école élémentaire, la classe de 6e doit assurer à chaque élève la maîtrise des savoirs fondamentaux. Ainsi à la rentrée 2023, tous les élèves entrant en classe de 6e bénéficieront d'une heure hebdomadaire de soutien ou d'approfondissement en français ou en mathématiques et d'un accompagnement aux devoirs, par le dispositif « Devoirs faits ». L'enseignement de la technologie au cycle 3 se concentrera sur les niveaux CM1 et CM2 au travers de la thématique « Les objets techniques au cœur de la société » du programme de sciences et technologie. Les acquis de ces deux niveaux seront réinvestis lors des enseignements de physique-chimie et de SVT en classe de 6e ainsi que le stipule le programme présenté devant le Conseil supérieur de l'éducation le 15 juin dernier. Ce programme s'enrichit d'une rubrique « Programmation d'objets techniques » pour mieux préparer les élèves aux enseignements du cycle 4, notamment pour l'environnement numérique. La nouvelle organisation de la classe de 6e ne remet pas en cause le développement des compétences technologiques numériques des élèves. En effet, toutes les disciplines contribuent à la formation et à l'évaluation des compétences numériques dans le second degré ainsi que le fixe le décret n° 2019-919 du 30 août 2019 relatif au développement des compétences numériques dans l'enseignement scolaire. D'autre part, les nouveaux programmes de technologie pour le cycle 4 viseront à renforcer les compétences technologique et numérique et, aussi, à mieux préparer leur orientation.
