@@ -1,0 +1,9 @@
+# Réponse à la question n° 1662
+
+- Question : [1662](1662.md) — Question n° 1662 — Fermeture d'une cinquantaine de guichets de gares en région SUD
+
+## Réponse
+
+*JO du 2023-07-11, page 6567*
+
+En vertu du principe constitutionnel de libre administration des collectivités territoriales, le Gouvernement ne saurait intervenir dans l'organisation du service des trains express régionaux, lesquels relèvent de la compétence des régions. La digitalisation de certaines procédures accroît notamment le nombre de possibilités d'accéder à un billet de train pour les voyageurs, qui peuvent accéder aux services 24h/24, 7j/7, sans avoir à se déplacer en gare. S'agissant précisément de l'achat des billets, 54% des voyageurs des trains régionaux les achètent aujourd'hui via le mode digital et 32% utilisent les distributeurs automatiques. Ce phénomène a été renforcé par la crise sanitaire. Dans le cadre de la convention qui la lie à la Région Sud, depuis 2019, SNCF Voyageurs TER Sud a commencé à adapter le schéma de distribution des billets pour tenir compte des nouveaux comportements d'achats des usagers et de leurs besoins avec le développement des services digitaux et la dématérialisation des titres de transport. Dans ce contexte, une présence régulière d'agents des équipes mobiles de ligne, qui gèrent les flux en heure de pointe, répondent aux demandes des voyageurs et orientent les passagers, permet également d'accompagner les voyageurs dans l'achat de billets lorsque les guichets en gare sont fermés du fait d'une faible fréquentation constatée. De plus, des partenariats extérieurs sont recherchés et contractualisés pour permettre la vente de billets sur tout le territoire (office du tourisme, buraliste, bureaux de poste…) notamment et prioritairement dans les gares où les guichets sont ou seront substitués par la présence d'équipes mobiles programmées et de distributeurs de billetterie régionale.
