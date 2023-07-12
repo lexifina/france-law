@@ -1,15 +1,25 @@
 # Article Annexe I
 
-A. : Fruits :
+Produits suivis par le Réseau national des marché (RNM) |
 
-Abricot : 2 ; bigarreau : 2 ; clémentine : 5 ; fraise : 2 ; kiwi :
+Durée minimale de constatation d'un indicateur de marché
 
-5 ; nectarine : 2 ; noix : 5 ; pêche : 2 ; poire d'été : 2 ; poire d'hiver : 5 ; pomme : 5 ; prune : 2 ; raisin : 2.
+anormalement bas (en nombre de jours ouvrés) |
 
-Légumes :
+Légumes : ail, oignon, noix, carotte, poireau, chou-fleur, artichaut
 
-Ail : 5 ; artichaut : 5 ; asperge : 2 ; carotte : 5 ; chicorée :
+Fruits : clémentine, kiwi, pomme, poire d'automne/ hiver |
 
-2 ; chou-fleur : 5 ; concombre : 5 ; courgette : 5 ; échalote : 5 ; endive : 2 ; laitue : 2 ; mâche : 2 ; melon : 2 ; oignon : 5 ; poireau : 5 ; tomate : 5.
+5 jours |
 
-B. : Autres fruits et légumes : 5 jours.
+Légumes : tomate, concombre, courgette, endive, laitue
+
+Fruits : poire d'été, raisin, cerise |
+
+3 jours |
+
+Légumes : asperge
+
+Fruits : pêche, abricot, prune, melon, fraise |
+
+2 jours |
