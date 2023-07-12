@@ -1,10 +1,10 @@
 # Article 200 quindecies
 
-I.-Les contribuables domiciliés en France au sens de l'article 4 B bénéficient d'un crédit d'impôt à raison des opérations forestières mentionnées au II du présent article qu'ils réalisent jusqu'au 31 décembre 2025.
+I.-Les contribuables domiciliés en France au sens de l'article 4 B bénéficient d'un crédit d'impôt à raison des opérations forestières mentionnées au II du présent article qu'ils réalisent jusqu'au 31 décembre 2027.
 
 II.-Le crédit d'impôt s'applique :
 
-1° Au prix d'acquisition de terrains en nature de bois et forêts ou de terrains nus à boiser lorsque la superficie de l'unité de gestion après acquisition est comprise entre 4 hectares et 25 hectares.
+1° Au prix d'acquisition de terrains en nature de bois et forêts ou de terrains nus à boiser lorsque la superficie de l'unité de gestion après acquisition est d'au moins 4 hectares.
 
 Lorsque les terrains sont acquis en nature de bois et forêts, le contribuable prend l'engagement de les conserver pendant quinze ans et d'y appliquer, pendant la même durée, un plan simple de gestion agréé par le centre régional de la propriété forestière. Si, au moment de l'acquisition, aucun plan simple de gestion n'est agréé pour la forêt en cause, le contribuable prend l'engagement d'en faire agréer un dans un délai de trois ans à compter de la date d'acquisition et de l'appliquer pendant quinze ans. Dans cette situation, le contribuable prend, en outre, l'engagement d'appliquer à la forêt le régime d'exploitation normale, prévu par le décret du 28 juin 1930 relatif aux conditions d'application de l'article 15 de la loi de finances du 16 avril 1930, jusqu'à la date d'agrément du plan simple de gestion de cette forêt. Lorsque les terrains sont acquis nus, le contribuable prend l'engagement de les reboiser dans un délai de trois ans, de les conserver par la suite pendant quinze ans et d'appliquer, pendant la même durée, un plan simple de gestion agréé.
 
@@ -14,9 +14,9 @@ Toutefois, lorsque les terrains boisés possédés et acquis par le contribuable
 
 3° Aux souscriptions en numéraire au capital initial ou aux augmentations de capital des sociétés d'épargne forestière définies à l'article L. 214-121 du code monétaire et financier et aux acquisitions en numéraire des parts de ces sociétés, lorsque la société et le souscripteur ou l'acquéreur prennent les engagements mentionnés au 2° du présent II ;
 
-4° Aux dépenses de travaux forestiers effectués dans une propriété présentant l'une des garanties de gestion durable prévues aux articles L. 124-1 et L. 124-3 du code forestier, sous réserve des deux conditions suivantes :
+4° Aux dépenses de travaux forestiers effectués dans une propriété présentant l'une des garanties de gestion durable prévues aux articles L. 124-1 et L. 124-3 du code forestier ou bénéficiant de la présomption des garanties de gestion durable prévue à l'article L. 124-2 du même code si le propriétaire a fait approuver un programme de coupes et de travaux par le Centre national de la propriété forestière, sous réserve des deux conditions suivantes :
 
-a) Le contribuable prend l'engagement de conserver cette propriété jusqu'au 31 décembre de la huitième année suivant celle des travaux et d'appliquer, pendant la même durée, l'une des garanties de gestion durable prévues aux mêmes articles L. 124-1 et L. 124-3 ;
+a) Le contribuable prend l'engagement de conserver cette propriété jusqu'au 31 décembre de la huitième année suivant celle des travaux et d'appliquer, pendant la même durée, l'une des garanties de gestion durable prévues aux articles L. 124-1 et L. 124-3 dudit code ou, si le propriétaire a fait approuver un programme de coupes et de travaux par le Centre national de la propriété forestière, de respecter les conditions mentionnées à l'article L. 124-2 du même code pour bénéficier de la présomption des garanties de gestion durable prévue au même article L. 124-2 ;
 
 b) Les travaux de plantation sont effectués avec des graines et des plants forestiers conformes aux prescriptions des arrêtés régionaux relatifs aux aides de l'Etat à l'investissement forestier pris conformément à la partie réglementaire du même code ;
 
@@ -92,4 +92,4 @@ IX.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect
 
 NOTA :
 
-Conformément au II de l’article 10 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s’appliquent aux opérations forestières réalisées à compter du 1er janvier 2023.
+Se reporter aux modalités d'application prévues aux II et III de l'article 34 de la loi n° 2023-580 du 10 juillet 2023.
