@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305903
+
+- Question : [SEQ230305903](seq230305903.md) — Accès au marché du travail des personnes atteintes de maladies chroniques
+
+## Réponse
+
+*Armées, JO du 2023-07-13, page 4376*
+
+Les conditions d'accès et de recrutement à la fonction militaire intègrent, au-delà du seul poste de travail en France métropolitaine, les contraintes induites par la fonction militaire, ses sujétions spécifiques, et leurs consquences sur la santé. En effet, le militaire peut être amené, notamment en opérations, à être éloigné de plateaux techniques performants, à ne pas avoir accès à l'ensemble de la pharmacopée disponible en officine, à ne pas avoir à disposition l'ensemble des spécialités hospitalières ou des examens paracliniques complémentaires indispensables au suivi d'une pathologie, et ce, dans un contexte d'engagement opérationnel marqué par une forte sollicitation de l'organisme. Par ailleurs, si les évolutions technologiques actuelles, portant notamment sur la mesure en continu de la glycémie interstitielle, avec ou sans asservissement d'une pompe à insuline, représentent un progrès majeur pour la prise en charge du patient, la résistance de ces équipements face aux conditions de vie, d'emploi, de missions, voire de combat, ne sont pas connues. Ainsi, les progrès technologiques et thérapeutiques concernant le diabète ne garantissent pas l'emploi en sécurité du patient militaire en toutes circonstances. La décision d'inaptitude à l'engagement pour les personnes diabétiques reste donc, en l'état actuel des connaissances techniques et scientifiques, justifiée et proportionnée. Les militaires développant un diabète en cours de carrière sont, par ailleurs, accompagnés et réorientés autant que possible vers des postes permettant de concilier le service de la Nation et la bonne prise en charge de la maladie.
