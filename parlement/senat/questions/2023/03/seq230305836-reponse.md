@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305836
+
+- Question : [SEQ230305836](seq230305836.md) — Simplification en matière de délégation pour les marchés publics
+
+## Réponse
+
+*Solidarités, autonomie et personnes handicapées, JO du 2023-07-13, page 4437*
+
+L'article R. 123-21 du code de l'action sociale et des familles (CASF) dispose que « le conseil d'administration peut donner délégation de pouvoirs à son président ou à son vice-président dans les matières suivantes : (…) 2° Préparation, passation, exécution et règlement des marchés de travaux, de fournitures, et de services passés selon la procédure adaptée prévue à l'article 26 du code des marchés publics ». Le régime juridique de la modification des marchés est prévu aux articles L. 2194-1 et suivants du code de la commande publique (CCP). Cet article dispose notamment que les marchés publics peuvent être modifiés « par voie conventionnelle », ce qui suppose la conclusion préalable d'un avenant. Ce régime juridique a été fixé dans le chapitre IV « modification du marché » du titre IX « exécution du marché » du CCP. Eu égard à ces éléments, il ne fait aucun doute que la modification conventionnelle par voie d'avenant d'un marché public constitue un acte d'exécution de marché. Dès lors, au regard de l'article R. 123-21 du CASF précité, dans le cadre de la gestion d'un centre communal d'action sociale (CCAS), le conseil d'administration peut donner délégation de pouvoir à son président ou à son vice-président pour la signature d'avenants, ces derniers étant des actes concourant à l'exécution des marchés publics. En conséquence, la délégation de pouvoir, du conseil d'administration du CCAS, à son président ou à son vice-président, pour la signature d'un avenant est déjà prévue. La publication d'un décret complétant en ce sens le 2° de l'article R. 123-21 du CASF n'apparait donc pas nécessaire.
