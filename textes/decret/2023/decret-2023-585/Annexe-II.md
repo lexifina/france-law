@@ -1,0 +1,441 @@
+# Article Annexe II
+
+PARTIS ET GROUPEMENTS POLITIQUES BÉNÉFICIAIRES DE LA SECONDE FRACTION DE L'AIDE PUBLIQUE POUR 2023
+
+PARTIS ET GROUPEMENTS POLITIQUES
+
+représentés au parlement |
+
+NOMBRE DE PARLEMENTAIRES
+
+ouvrant droit au versement de l'aide publique |
+
+MONTANT
+
+de la seconde fraction de l'aide publique attribuée pour 2023 |
+
+Nombre de députés |
+
+Nombre de sénateurs |
+
+Total |
+
+ENSEMBLE POUR LA MAJORITÉ PRÉSIDENTIELLE |
+
+248 |
+
+40 |
+
+288 |
+
+10 690 353,26 € |
+
+LES RÉPUBLICAINS |
+
+62 |
+
+139 |
+
+201 |
+
+7 460 975,71 € |
+
+RASSEMBLEMENT NATIONAL |
+
+89 |
+
+1 |
+
+90 |
+
+3 340 735,39 € |
+
+PARTI SOCIALISTE |
+
+27 |
+
+58 |
+
+85 |
+
+3 155 138,98 € |
+
+LA FRANCE INSOUMISE |
+
+72 |
+
+0 |
+
+72 |
+
+2 672 588,32 € |
+
+UNION DES DÉMOCRATES EUROPÉENS, CENTRISTES ET INDÉPENDANTS |
+
+7 |
+
+46 |
+
+53 |
+
+1 967 321,95 € |
+
+EUROPE ÉCOLOGIE LES VERTS |
+
+23 |
+
+11 |
+
+34 |
+
+1 262 055,59 € |
+
+PARTI COMMUNISTE FRANÇAIS |
+
+17 |
+
+15 |
+
+32 |
+
+1 187 817,03 € |
+
+ALLIANCE CENTRISTE |
+
+3 |
+
+13 |
+
+16 |
+
+593 908,51 € |
+
+RÉGIONS ET PEUPLES SOLIDAIRES |
+
+10 |
+
+2 |
+
+12 |
+
+445 431,39 € |
+
+PARTI RADICAL DE GAUCHE |
+
+4 |
+
+7 |
+
+11 |
+
+408 312,10 € |
+
+GAUCHE RÉPUBLICAINE ET SOCIALISTE |
+
+0 |
+
+6 |
+
+6 |
+
+222 715,69 € |
+
+PARTI PROGRESSISTE DÉMOCRATIQUE GUADELOUPÉEN |
+
+2 |
+
+2 |
+
+4 |
+
+148 477,13 € |
+
+PÉYI-A |
+
+3 |
+
+0 |
+
+3 |
+
+111 357,85 € |
+
+PARTI PROGRESSISTE MARTINIQUAIS |
+
+1 |
+
+1 |
+
+2 |
+
+74 238,56 € |
+
+POUR LA RÉUNION |
+
+2 |
+
+0 |
+
+2 |
+
+74 238,56 € |
+
+RECONQUÊTE |
+
+0 |
+
+2 |
+
+2 |
+
+74 238,56 € |
+
+RÉZISTAN'S ÉGALITÉ 974 |
+
+2 |
+
+0 |
+
+2 |
+
+74 238,56 € |
+
+ASSOCIATION AMBITION REUNION |
+
+1 |
+
+0 |
+
+1 |
+
+37 119,28 € |
+
+DEBOUT LA FRANCE |
+
+1 |
+
+0 |
+
+1 |
+
+37 119,28 € |
+
+LE RASSEMBLEMENT- LES RÉPUBLICAINS |
+
+0 |
+
+1 |
+
+1 |
+
+37 119,28 € |
+
+PARTI DU MOUVEMENT POPULAIRE FRANCISCAIN |
+
+0 |
+
+1 |
+
+1 |
+
+37 119,28 € |
+
+PROGRÈS 974 |
+
+1 |
+
+0 |
+
+1 |
+
+37 119,28 € |
+
+RÉUNION LIBRE |
+
+1 |
+
+0 |
+
+1 |
+
+37 119,28 € |
+
+TAPURA HUIRAATIRA |
+
+0 |
+
+1 |
+
+1 |
+
+37 119,28 € |
+
+A HERE IA PORINETIA |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+AMUITAHIRA'A O TE NUNA'A MAOHI |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+BÂTIR LE PAYS MARTINIQUE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+ÉCOLOGIE AU CENTRE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+HAU MA'OHI TI'AMA |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+LE MOUVEMENT DE LA RURALITÉ |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+LES ÉCOLOGISTES - MOUVEMENT ÉCOLOGISTE INDÉPENDANT |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+MOUVEMENT DES CITOYENS FRANÇAIS DE NOUVELLE-CALÉDONIE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+LES PATRIOTES |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+LUTTE OUVRIÈRE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+MOUVEMENT INDEPENDANTISTE MARTINIQUAIS |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+PARTI ANIMALISTE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+PARTI COMMUNISTE RÉUNIONNAIS |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+PARTI RADICAL |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+UNION DES DÉMOCRATES ET DES ÉCOLOGISTES DE MARTINIQUE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+TOTAL DES PARLEMENTAIRES RATTACHES |
+
+576 |
+
+346 |
+
+922 |
+
+34 223 978,10 € |
+
+PARLEMENTAIRES NON RATTACHÉS/NON DÉCLARÉS |
+
+1 |
+
+2 |
+
+3 |
+
+111 357,90 € |
