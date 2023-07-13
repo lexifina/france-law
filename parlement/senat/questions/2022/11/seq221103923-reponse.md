@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103923
+
+- Question : [SEQ221103923](seq221103923.md) — Promotion de la corrida dans certaines écoles de la région nîmoise
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2023-07-13, page 4392*
+
+Le ministère de l'éducation nationale et de la jeunesse est engagé dans la lutte contre la maltraitance animale et l'amélioration du bien-être animal. La maltraitance des animaux est considérée comme un marqueur important de la violence envers les humains et l'école de la République doit avant tout être un lieu de confiance, de respect et de bien-être. L'ensemble des activités proposées aux enfants dans le cadre des programmes d'enseignement doit donc s'inscrire dans ce cadre. L'intervention d'associations apporte une véritable contribution aux activités obligatoires d'enseignement, soit sur le temps scolaire dans les locaux scolaires, soit lors des sorties scolaires. Elle permet une ouverture de l'école sur son environnement économique, culturel ou patrimonial à travers un éclairage technique. Ces interventions sont encadrées et doivent faire l'objet d'une autorisation délivrée par le directeur d'école ou le chef d'établissement, après concertation avec les équipes éducatives, afin de déterminer les objectifs et les modalités d'intervention. De fait, chaque action prend en compte la spécificité de l'établissement et des publics rencontrés. Si la pratique de la tauromachie est autorisée par dérogation dans certains territoires au titre d'une pratique culturelle ininterrompue et qu'à ce titre, il peut être proposé aux élèves, en dehors du temps scolaire, des activités de découverte du phénomène culturel que constitue la corrida, il n'est pas en revanche dans le rôle de l'éducation nationale d'assurer la promotion de la corrida auprès des enfants. En particulier, il importe d'éviter tout prosélytisme, quel qu'en soit le vecteur.
