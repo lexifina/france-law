@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204392
+
+- Question : [SEQ221204392](seq221204392.md) — Simplification de la procédure d'attribution des logements accordés aux personnels de l'État dans les établissements publics locaux d'enseignement
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2023-07-13, page 4393*
+
+En vertu des dispositions combinées des articles R. 216-4, R. 216-16 et R. 216-17 du code de l'éducation, l'attribution des conventions de logement répond à une procédure faisant intervenir l'établissement public local d'enseignement (EPLE), l'État et la collectivité territoriale de rattachement. Dans l'objectif de réduire le délai qui permet à l'agent comptable de percevoir le loyer du bénéficiaire du logement dès la délivrance de son titre d'occupation, la proposition suggérée vise à modifier l'ordre des étapes du processus d'attribution des logements par concession relevant de la compétence de la collectivité de rattachement. La procédure d'attribution évoquée semble entrer en contradiction avec le principe selon lequel, selon les dispositions de l'article L. 721-1 du code général de la fonction publique, « l'autorité territoriale prend une décision individuelle en application » de la délibération de la collectivité, laquelle délibération fixe la liste des emplois pour lesquels un logement de fonction peut être attribué gratuitement ou moyennant une redevance par la collectivité. Plus globalement, les articles L. 3221-1 et L. 4231-1 du code général des collectivités territoriales précisent que les présidents des conseils départementaux et régionaux préparent et exécutent les délibérations de leurs conseils territoriaux respectifs. Et si les articles L. 3211-2 et L. 4221-5 du même code autorisent en effet ces conseils à déléguer certaines compétences à leurs exécutifs, il n'apparaît pas que cette autorisation soit prévue pour le cas d'espèce des concessions de logement de fonction.
