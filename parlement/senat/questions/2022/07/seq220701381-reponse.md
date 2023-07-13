@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701381
+
+- Question : [SEQ220701381](seq220701381.md) — Difficultés financières des fédérations de chasse à indemniser les agriculteurs des dégâts causés par le gibier
+
+## Réponse
+
+*Écologie, JO du 2023-07-13, page 4383*
+
+Suite à la hausse des cours des céréales, engendrée par la guerre en Ukraine, le ministère de la Transition Écologique et de la Cohésion des Territoires a souhaité sécuriser financièrement les fédérations départementales ou interdépartementales des chasseurs et le fonds départemental d'indemnisation en Alsace-Moselle, dans leur mission d'indemnisation des dégâts de grand gibier. Il a mis en place un dispositif de soutien pour l'année 2022. Dans cette optique, un montant de 18,6 millions d'euros a été engagé. Ce dispositif exceptionnel s'inscrit dans le plan de résilience économique et social présenté par le Premier ministre le 16 mars 2022. 70% de cette aide exceptionnelle ont pu être versés en décembre 2022 et les soldes le seront avant l'été 2023. Le Gouvernement s'attachant par ailleurs à une réduction significative des dégâts de gibier qui pénalisent les agriculteurs, un protocole d'accord sur ce sujet a été signé le 1er mars 2023 avec la Fédération Nationale des Chasseurs. Cet accord, à la fois technique et financier, prévoit la mise en place de mesures sur trois ans permettant d'obtenir une baisse durable de 20 % à 30 % des dégâts de gibier en France et de rendre ainsi viable le système actuel d'indemnisation à la fois pour les agriculteurs et pour les chasseurs. Cet accord se fonde sur une territorialisation importante des mesures techniques pour les adapter au contexte local et sur un dialogue renforcé entre les acteurs se fondant sur des données partagées sur les dégâts et les prélèvements. Les financements de l'Etat apportés pendant trois ans permettront d'outiller les fédérations de chasseurs pour la mise en oeuvre de cet accord.
