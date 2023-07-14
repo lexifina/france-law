@@ -1,14 +1,34 @@
 # Article 1er
 
-La présente convention collective ainsi que ses avenants et annexes sont conclus en application de la loi du 13 novembre 1982 modifiée et de la loi du 11 février 1950.
+La présente convention collective ainsi que ses avenants et annexes sont conclus afin de régler les rapports de travail entre les employeurs et les salariés des entreprises dont l'activité principale est :
 
-Ces textes règlent les rapports de travail entre les employeurs et les salariés des entreprises de vente à distance (VAD) dont l'activité principale est le commerce de détail de tout type de produits par tout média. Cette activité est généralement répertoriée aux numéros 52.6 A (vente par correspondance sur catalogue général) et 52.6 B (vente par correspondance spécialisée) de la nomenclature des activités françaises résultant du décret n° 2002-1622 du 31 décembre 2002 portant approbation des nomenclatures d'activités et de produits.
+Le commerce de détail de tous types de produits par tout média :
 
-Cette convention collective ainsi que ses avenants et annexes s'appliquent également aux personnels de ces entreprises travaillant dans tous centres liés à l'activité principale tels que entrepôts, centres d'appels, sièges sociaux.
+Cela inclut :
 
-Ces textes s'appliquent à l'ensemble des entreprises ci-dessus définies se situant sur le territoire national, y compris dans les départements et territoires (1) d'outre-mer.
+– le commerce de détail de tous types de produits par correspondance ;
 
-(1) Termes exclus de l'extension (arrêté du 22 avril 2005, art. 1er).
+– le commerce de détail de tous types de produits par Internet ;
+
+– la vente directe par téléphone ou par le truchement de la radio ou de la télévision ;
+
+– les activités de vente aux enchères au détail sur Internet ;
+
+– le commerce de détail spécialisé de produits par correspondance ;
+
+– le commerce de détail spécialisé de produits par Internet.
+
+Ces activités sont notamment répertoriées dans la nomenclature d'activités françaises avec les codes NAF 4791A et 4791B, sous réserve de toutes évolutions futures de la nomenclature.
+
+L'activité de services d'intermédiation en ligne pour le commerce, ce qui inclut :
+
+– les activités de services d'intermédiation électronique en ligne pour le commerce de détail non spécialisé ou spécialisé, telles que les plateformes électroniques de commerce sur Internet, dites “ Places de Marchés ” ou “ Market Place ”.
+
+L'activité de service d'intermédiation en ligne pour le commerce désigne tout site internet permettant à un tiers (personne morale ou personne physique) de proposer commercialement à la vente, ou à la location, des biens, produits ou services à des acheteurs potentiels (personnes physiques ou morales).
+
+Cette convention collective ainsi que ses avenants et annexes s'appliquent également aux personnels des entreprises dont l'activité principale est ci-dessus référencée qui travaillent dans tout établissement lié à l'activité principale (entrepôts, centres d'appels, sièges sociaux …).
+
+Ces textes s'appliquent à l'ensemble des entreprises ci-dessus définies se situant sur le territoire national, y compris dans les départements et régions d'outre-mer.
 
 NOTA :
 
