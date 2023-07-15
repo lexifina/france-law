@@ -4,7 +4,7 @@ RÈGLES POUR ÉTABLIR LES CONTOURS DES SITES D'IMPLANTATION
 
 En général, deux installations distantes de moins de cent (100) mètres sont considérées comme implantées sur un même site.
 
-Les installations réparties sur plusieurs bâtiments, éventuellement détenus par des propriétaires différents, peuvent être. Pour le calcul de la puissance Q, définie au 5. de l'annexe 1, et de la prime à l'intégration paysagère, ces différents bâtiments sont considérés comme un bâtiment unique, et l'indépendance des propriétaires de toitures d'installations distantes de moins de 100 m s'apprécie par rapport à tous les propriétaires de toitures du site concerné.
+Les installations réparties sur plusieurs bâtiments, éventuellement détenus par des propriétaires différents, peuvent être autorisées. Pour le calcul de la puissance Q, définie au 5. de l'annexe 1, et de la prime à l'intégration paysagère, ces différents bâtiments sont considérés comme un bâtiment unique, et l'indépendance des propriétaires de toitures d'installations distantes de moins de 100 m s'apprécie par rapport à tous les propriétaires de toitures du site concerné.
 
 Par exception aux alinéas précédents, deux installations photovoltaïques peuvent être considérées comme implantées sur des sites distincts :
 
@@ -17,3 +17,7 @@ Pour les personnes physiques, deux personnes distinctes sont réputées indépen
 Par exception au premier alinéa, deux bâtiments, hangars ou ombrières exclusivement destinés à l'usage d'habitation au sens de l'article R. 311-1-1 du code de la construction et de l'urbanisme et distants de moins de cent (100) mètres sont considérés comme des sites distincts dès lors que le demandeur présente un document émanant d'un architecte qui atteste que l'un et l'autre de ces bâtiments pourrait assurer ses fonctions en l'absence du deuxième bâtiment. Dans ce cas, le tarif auquel l'installation est éligible au sens de l'article 8 du présent arrêté est diminué de dix pourcents.
 
 L'usage d'habitation s'apprécie à la date de la demande complète de raccordement ou à la date d'achèvement pour les bâtiments à construire.
+
+NOTA :
+
+Conformément à l’article 6 de l’arrêté du 4 juillet 2023 (NOR : ENER2318758A), ces dispositions s’appliquent aux installations dont la demande complète de raccordement est postérieure au 30 avril 2023. Pour les installations dont la demande complète de raccordement est antérieure au 1er mai 2023, ce sont les dispositions dans la version antérieure qui s'appliquent.
