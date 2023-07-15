@@ -10,17 +10,13 @@ Montants
 
 au 1er juillet 2023
 
-(en euros)
-
-|
+(en euros) |
 
 I-Montants bruts annuels de la rémunération :
 
 . des internes en médecine, des internes en pharmacie et des internes en odontologie
 
-. des résidents en médecine
-
-|
+. des résidents en médecine |
 
 |
 
@@ -62,7 +58,7 @@ II-Emoluments forfaitaires alloués aux étudiants faisant fonction d'interne (m
 
 III-Montant brut annuel de la rémunération des étudiants effectuant une année de recherche |
 
-25 931,90 |
+27 596,01 |
 
 IV-Montants bruts annuels des indemnités compensatrices d'avantages en nature pour les internes et les résidents en en médecine et les étudiants en médecine et pharmacie désignées pour occuper provisoirement un poste d'interne : |
 
