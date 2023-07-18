@@ -1,0 +1,9 @@
+# Réponse à la question n° 7847
+
+- Question : [7847](7847.md) — Question n° 7847 — Taxe de séjour en Guadeloupe
+
+## Réponse
+
+*JO du 2023-07-18, page 6804*
+
+La transformation de la taxe de séjour en « taxe de visite » modifierait son objet. Cela revient à créer une nouvelle taxe, en ne modifiant pas simplement le mode de collecte, mais également le fait générateur de la taxe de séjour qui est le fait de séjourner dans un hébergement touristique ou assimilé. La proposition de faire payer la taxe par tous les voyageurs aériens ou maritimes entrant en Guadeloupe change la nature de cette fiscalité et revient de facto à créer une « taxe de débarquement ». Cette nouvelle taxe serait le pendant de la taxe d'embarquement déjà existante, qui a initialement été créée pour résoudre les difficultés des collectivités ultra-marines. Elle a été pérennisée malgré son faible rendement. A cet égard, l'inspection générale des finances (IGF) dans son rapport sur les taxes à faible rendement de 2014 préconisait de supprimer cette taxe d'embarquement en soulignant le partage de son produit entre plusieurs bénéficiaires et la non atteinte de l'objectif initial. Ainsi, la création d'une « taxe de débarquement », reviendrait à créer une deuxième taxe à faible rendement et à priver le bloc communal d'une ressource dynamique. En effet, l'affectation du produit au « Comité régional des industries touristiques », structure de nature associative, en lieu et place des collectivités du bloc communal qui perçoivent aujourd'hui la taxe de séjour nécessiterait une concertation auprès des associations représentatives du bloc communal. Cette proposition interroge également quant au principe d'égalité devant les charges publiques et à la particularité de la Guadeloupe comparée aux autres territoires ultramarins pour instaurer une telle taxe.
