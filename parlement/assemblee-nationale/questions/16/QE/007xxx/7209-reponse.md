@@ -1,0 +1,9 @@
+# Réponse à la question n° 7209
+
+- Question : [7209](7209.md) — Question n° 7209 — Lutte contre la pénurie de médecins du travail
+
+## Réponse
+
+*JO du 2023-07-18, page 6850*
+
+Le ministère de la santé et de la prévention, est mobilisé en faveur de la hausse du nombre de médecins, y compris de médecins du travail. Ainsi, à compter de la rentrée universitaire 2023, tout médecin en exercice pourra candidater au troisième cycle des études de médecine, avec à terme la possibilité d'un exercice complémentaire dans la spécialité d'origine, ou l'acquisition d'un second diplôme d'études spécialisées, dont la spécialité de médecine du travail, afin d'avoir un exercice plus varié. S'agissant de la réorganisation des études de médecine, celle-ci ne peut se faire au détriment de la qualité de la formation fournie aux étudiants. Divisée actuellement en trois cycles, les étudiants peuvent, à la fin du deuxième cycle de formation, à partir de la 6ème année, choisir une spécialité à étudier au cours du troisième cycle. Le choix de la durée des études de troisième cycle est aujourd'hui fonction de plusieurs facteurs : la modernisation du système de formation, l'acquisition progressive des connaissances et compétences professionnelles, la diversification des terrains de stage, la prise en compte des situations particulières d'étudiants et les nouveaux enjeux de santé publique et des besoins de santé. Pour ces raisons, la durée des études de médecine du travail est de quatre années. Dans le cadre de la réforme de 2017, révisant l'ensemble des maquettes de formation, il n'y a ainsi, après analyse des besoins d'apprentissage, pas eu de remise en cause la durée de la spécialité de médecine du travail. Les apports de la loi 2021-1018 du 2 août 2021 pour renforcer la prévention en santé au travail, notamment la création des médecins praticiens correspondant, sont des dispositifs qui permettront d'appuyer les actions des services de prévention et de santé au travail.
