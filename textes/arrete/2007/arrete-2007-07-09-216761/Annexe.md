@@ -132,8 +132,6 @@ Paris-Hammamet (Tunisie).
 
 Jusqu'au 31 juillet 2026
 
-Paris-Le Caire (Egypte), dans la limite de quatre (4) fréquences hebdomadaires jusqu'au 29 octobre 2023, puis dans la limite de trois (3) fréquences hebdomadaires à compter du 30 octobre 2023 ;
-
 Paris-Louqsor (Egypte) ;
 
 Paris-Hourghada (Egypte).
@@ -198,4 +196,28 @@ Lyon-Antalya (Turquie) ;
 
 Nantes-Antalya (Turquie) ;
 
-Paris-Izmir (Turquie).
+Paris-Izmir (Turquie) ;
+
+Jusqu'au 30 juin 2028 :
+
+Paris-Le Caire (Egypte) dans la limite de six (6) fréquences hebdomadaires ;
+
+Paris-Tozeur (Tunisie) ;
+
+Paris-Praia (Cap-Vert) ;
+
+Paris-Saint-Vincent (Cap-Vert) ;
+
+Jusqu'au 30 juin 2028 et dans la limite de six (6) fréquences hebdomadaires librement réparties entre les deux aéroports français :
+
+Lyon-Dubaï (Emirats Arabes Unis) ;
+
+Marseille-Dubaï (Emirats Arabes Unis) ;
+
+Jusqu'au 30 juin 2028 et dans la limite de trois (3) fréquences hebdomadaires librement réparties entre les trois aéroports français :
+
+Marseille-Le Caire (Egypte) ;
+
+Nantes-Le Caire (Egypte) ;
+
+Lyon-Le Caire (Egypte).
