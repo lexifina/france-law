@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204514
+
+- Question : [SEQ221204514](seq221204514.md) — Associations à caractère non lucratif et taux applicables à l'impôt sur les sociétés
+
+## Réponse
+
+*Comptes publics, JO du 2023-07-20, page 4544*
+
+Conformément aux dispositions du 1 de l'article 206 du code général des impôts (CGI), les établissements publics, les organismes de l'État jouissant de l'autonomie financière, les organismes des départements et des communes et toutes autres personnes morales se livrant à une exploitation ou à des opérations de caractère lucratif sont imposés au taux normal d'impôt sur les sociétés (IS). Le taux normal de l'IS a été progressivement abaissé depuis le 1er janvier 2019 et est à présent fixé à 25 % pour les exercices ouverts à compter du 1er janvier 2022, en application du deuxième alinéa du I de l'article 219 du CGI. Cette diminution progressive, qui représente une baisse de plus de 11 Mdeuros de la fiscalité des entreprises, visait à renforcer la compétitivité des entreprises françaises, en ramenant le taux normal d'IS au niveau de la moyenne des États de l'OCDE. Le 5 de l'article 206 du CGI prévoit que les établissements publics, autres que les établissements scientifiques, d'enseignement et d'assistance, ainsi que les associations et collectivités non soumis à l'IS sont assujettis à l'IS à un taux réduit en raison des revenus patrimoniaux (tels que des revenus fonciers, agricoles, mobiliers ou des dividendes) qui ne se rattachent pas à leurs activités lucratives. Les taux applicables (article 219 bis du CGI) sont de 24 % pour les revenus patrimoniaux, 15 % pour les dividendes et 10 % sur certains produits de titres de créances et revenus de titres. La trajectoire de baisse de l'IS constitue une mesure générale de compétitivité de l'économie française. Ces taux restent en vigueur et le Gouvernement n'entend pas les remettre en cause à ce jour.
