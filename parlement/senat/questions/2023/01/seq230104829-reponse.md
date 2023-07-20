@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230104829
+
+- Question : [SEQ230104829](seq230104829.md) — Pour une simplification du régime réel normal de déclaration de la TVA applicable aux entreprises
+
+## Réponse
+
+*Comptes publics, JO du 2023-07-20, page 4546*
+
+Le régime réel normal d'imposition s'applique aux entreprises réalisant un chiffre d'affaires supérieur à un certain seuil (247 000 euros pour les prestations de services, 818 000 euros pour les ventes) ou dont le montant de la TVA (taxe sur la valeur ajoutée) due est inférieur à 15 000 euros. Les entreprises soumises à ce régime doivent déposer des déclarations mensuelles retraçant les opérations réalisées au cours du mois précédent. Toutefois, si le montant annuel de TVA nette due est inférieur à 4 000 euros, les entreprises sont admises à déposer des déclarations trimestrielles. S'agissant de la proposition d'instaurer un prélèvement mensuel sur la base du montant de TVA acquitté le mois précédent, ceci entraînerait des opérations de suivi et de régularisation complexes tant pour les experts des chiffres que pour les entreprises. Surtout, ces prélèvements ne refléteraient pas la situation réelle de l'entreprise. Cette décorrélation entre le montant de TVA réellement collectée, et donc due, et celui à payer serait préjudiciable aux entreprises principalement lorsqu'elles seraient en situation créditrice de TVA et à l'État lorsqu'une entreprise aura collecté une TVA sur les consommateurs sans la lui reverser immédiatement. Dans ces conditions, l'évolution des modalités déclaratives pour les entreprises entrant dans le régime normal d'imposition en matière de TVA ne peut être envisagée. S'agissant de la proposition visant à modifier la date de déclaration de la TVA en la reportant à la fin du mois suivant, une réflexion est menée actuellement sur l'harmonisation des dates de dépôt des déclarations de TVA dans le cadre de la simplification des obligations fiscales des entreprises.
