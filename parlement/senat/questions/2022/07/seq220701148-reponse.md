@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701148
+
+- Question : [SEQ220701148](seq220701148.md) — Organisation de l'établissement français du sang
+
+## Réponse
+
+*Santé et prévention, JO du 2023-07-20, page 4569*
+
+L'Etablissement français du sang (EFS) a terminé en 2016 l'unification de son Logiciel médico-technique (LMT) sur le périmètre « donneurs » (les donneurs, les dons, la qualification biologique des dons, la préparation et l'approvisionnement des sites EFS en produits sanguins labiles). Le périmètre « patients » recouvrant la délivrance des produits sanguins et la réalisation des actes de biologie médicale (examens au sein de Laboratoire de Biologie Médicale LBM dits « receveurs » dont les examens d'immuno-hématologie), reste réalisé dans des instances régionales distinctes de son LMT. Entre 2016 et 2018, l'EFS a travaillé sur des scénarios pour unifier son LMT patients. La première phase retenue a été de construire une base nationale de consultation des patients d'intérêt transfusionnel (patients d'intérêt transfusionnel : patients transfusés depuis moins de 6 mois ou présentant des caractéristiques immuno-hématologiques ou des antécédents/pathologies importants en transfusion). Cette base est opérationnelle depuis 2021, elle est consultée par les régions lors de chaque acte de délivrance/biologie patient réalisé par l'EFS pour une meilleure connaissance et prise en charge des patients. Par ailleurs, les résultats de groupes sanguins réalisés par les laboratoires extérieurs (non EFS) sont bien récupérés dans les laboratoires régionaux de l'Etablissement via des liaisons informatiques dédiées (liaisons ERA). Enfin, une nouvelle phase est à l'étude et consistera à fusionner toutes les bases régionales « patients » afin de ne disposer à terme que d'une base unique. Ce projet aboutira à moyen terme dans les 5 ans à venir.
