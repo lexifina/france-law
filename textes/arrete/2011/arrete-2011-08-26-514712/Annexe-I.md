@@ -16,11 +16,11 @@ II.-Le coût unitaire forfaitaire d'un aérogénérateur (Cu) est fixé par les 
 
 a) lorsque la puissance unitaire installée de l'aérogénérateur est inférieure ou égale à 2,0 MW :
 
-Cu = 50 000
+Cu = 75 000
 
 b) lorsque sa puissance unitaire installée de l'aérogénérateur est supérieure à 2,0 MW :
 
-Cu = 50 000 + 25 000 × (P-2)
+Cu = 75 000 + 25 000 × (P-2)
 
 où :
 

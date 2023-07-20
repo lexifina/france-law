@@ -108,6 +108,14 @@ Non applicable |
 
 Applicable |
 
+4.1-VI
+
+|
+
+Applicable |
+
+Applicable |
+
 4.2-I |
 
 Applicable |
@@ -467,6 +475,12 @@ Non applicable |
 Non applicable |
 
 4.1-V |
+
+Non applicable |
+
+4.1-VI
+
+|
 
 Non applicable |
 
