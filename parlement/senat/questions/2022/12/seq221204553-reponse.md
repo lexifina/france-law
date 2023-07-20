@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204553
+
+- Question : [SEQ221204553](seq221204553.md) — Réforme de la protection sociale complémentaire à la fonction publique hospitalière
+
+## Réponse
+
+*Transformation et fonction publiques, JO du 2023-07-20, page 4593*
+
+La mise en place de la protection sociale complémentaire dans la fonction publique est un objectif prioritaire du ministre de la transformation et de la fonction publiques. L'ordonnance n° 2021-175 du 17 février 2021 relative à la protection sociale complémentaire dans la fonction publique définit un nouveau cadre afin de favoriser et d'améliorer la couverture sociale complémentaire des agents de la fonction publique. Elle prévoit également le recours à la négociation collective dans un esprit de dialogue et de responsabilité de l'ensemble des parties. Prenant appui sur ce nouveau cadre, les employeurs publics des trois versants se sont saisis de cet objet de négociation collective. Pour la fonction publique hospitalière (FPH), l'ordonnance du 17 février 2021 prévoit que la protection sociale complémentaire en vigueur au plus tard le 1er janvier 2026. Un premier cycle de concertations sur la protection sociale complémentaire dans la FPH a eu lieu de la fin d'année 2021 au début d'année 2022 pour les personnels non-médicaux. Les concertations reprendront dès la rentrée de septembre 2023, pour mettre en oeuvre dans les meilleurs délais les volets santé et prévoyance de ce chantier. Par ailleurs, pour prévenir les situations de pénibilité dans la FPH, le ministre a souhaité la création d'un fonds de prévention de l'usure professionnelle dans le cadre de la réforme du système des retraites. Deux personnalités qualifiées ont été missionnées en début d'année 2023 pour produire des préconisations sur le contenu et les modalités de fonctionnement de ce fonds. Les conclusions de cette mission seront rendues dans les prochaines semaines.
