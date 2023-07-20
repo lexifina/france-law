@@ -1,0 +1,52 @@
+# Soutenir l’engagement bénévole et simplifier la vie associative
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N48422
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/engagement_benevole
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl23-309.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-07-20 : 1er dépôt d'une initiative. (PIONANR5L16B1601)
+  - 2023-11-16 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-07-20 : Renvoi en commission au fond
+      - 2023-11-15 : Nomination de rapporteur
+      - 2023-11-15 : Réunion de commission
+      - 2023-11-28 : Réunion de commission
+      - 2023-12-04 : Réunion de commission
+      - 2024-01-29 : Réunion de commission
+      - 2023-11-28 : Dépôt de rapport (RAPPANR5L16B1925, PIONANR5L16BTC1925)
+  - Discussion en séance publique
+    - 2023-12-06 : Discussion en séance publique
+    - 2024-01-31 : Discussion en séance publique
+    - 2024-01-31 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2024-02-01 : Dépôt d'une initiative en navette (PIONSNR5S419B0309)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-02-01 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2024-03-06 : Dépôt de rapport (RAPPSNR5S419B0386, PIONSNR5S419BTC0387)
+  - Discussion en séance publique
+    - 2024-03-13 : Discussion en séance publique
+    - 2024-03-13 : Décision
+- Commission Mixte Paritaire
+  - 2024-03-14 : Dépôt d'un projet de loi (PIONANR5L16B2344)
+  - 2024-03-14 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2024-03-27 : Nomination de rapporteur
+    - 2024-03-28 : Dépôt du rapport d'une CMP (RAPPSNR5S419B0480, PIONSNR5S419BTC0481)
+    - 2024-03-28 : Dépôt du rapport d'une CMP (RAPPANR5L16B2415, PIONANR5L16BTC2415)
+  - Discussion en séance publique
+    - 2024-04-02 : Discussion en séance publique
+    - 2024-04-02 : Décision
+  - Discussion en séance publique
+    - 2024-04-08 : Discussion en séance publique
+    - 2024-04-08 : Décision
+  - 2024-03-28 : Décision de la CMP
+- Promulgation de la loi
+  - 2024-04-15 : Promulgation d'une loi
