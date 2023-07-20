@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305974
+
+- Question : [SEQ230305974](seq230305974.md) — Demande de publication d'un décret d'application de la loi dite « 3DS »
+
+## Réponse
+
+*Comptes publics, JO du 2023-07-20, page 4550*
+
+Afin de fluidifier la procédure d'admission en non-valeur des créances irrécouvrables de faible montant, l'article 173 de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale, ouvre la possibilité aux assemblées délibérantes des communes, départements et régions, de déléguer cette décision à leur exécutif. La loi renvoie à un décret le soin de fixer le seuil de cette délégation, et les modalités selon lesquelles l'exécutif rend compte de son exercice auprès de l'assemblée. L'élaboration du décret a impliqué une phase de consultation poussée auprès des associations d'élus locaux pour déterminer les seuils de délégation de manière concertée. En outre, l'applicabilité de ces dispositions en Polynésie française ainsi qu'en Nouvelle-Calédonie a nécessité la publication préalable de l'ordonnance n° 2022-1521 du 7 décembre 2022 étendant aux collectivités relevant de l'article 74 de la Constitution et à la Nouvelle-Calédonie les dispositions de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale. Le décret a reçu un avis favorable du Comité national d'évaluation des normes le 6 avril dernier. Il permet aux assemblées de déléguer l'admission en non-valeur des créances inférieures ou égales à 100 euros pour les communes et les départements et à 200 euros pour les régions. Les assemblées demeurent libres de fixer un seuil de délégation inférieur ou de limiter l'exercice de la délégation à certaines catégories de titres.
