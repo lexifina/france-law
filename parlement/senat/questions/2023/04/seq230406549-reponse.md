@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230406549
+
+- Question : [SEQ230406549](seq230406549.md) — Compensation de la perte de la taxe d'habitation sur les établissements d'hébergement pour personnes âgées dépendantes
+
+## Réponse
+
+*Comptes publics, JO du 2023-07-20, page 4553*
+
+Les résidents d'établissements d'hébergement pour personnes âgées dépendantes (EHPAD) qui ont la disposition privative de leur logement dans cette structure d'accueil sont personnellement assujettis à la taxe d'habitation dans les conditions de droit commun. Ils ne sont en revanche pas imposables si des restrictions importantes au droit de jouissance sont prévues par le règlement intérieur, telles que l'obligation pour les personnes valides de prendre leurs repas en commun, la limitation du droit de visite, le libre accès des chambres au personnel… L'imposition est alors établie au nom du gestionnaire de l'établissement, déjà imposé par ailleurs sur la valeur locative des locaux communs. Les locaux communs ou d'hébergement sont exonérés lorsque la maison de retraite est sans but lucratif ou gérée par un établissement public d'assistance. L'article 16 de la loi de finances pour 2020 a affecté aux communes la part de taxe foncière sur les propriétés bâties que percevaient les départements afin de compenser la suppression de la taxe d'habitation sur les résidences principales. Lorsque les conditions d'une taxation à la taxe d'habitation d'un hébergement en EHPAD à titre de résidence secondaire sont remplies, aucune compensation dans le cadre du dispositif de à l'article 16 précité ne doit être prévue. En effet, la taxe ainsi acquittée par les résidents ou le gestionnaire de l'établissement reste perçue par la commune et cette dernière ne constate donc aucune perte de ressource fiscale qui nécessiterait un dispositif de compensation, que ce soit par affectation d'une ressource fiscale ou d'une allocation compensatrice.
