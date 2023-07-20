@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607419
+
+- Question : [SEQ230607419](seq230607419.md) — Attribution de postes d'internes en gynécologie médicale et rentrée universitaire 2023
+
+## Réponse
+
+*Santé et prévention, JO du 2023-07-20, page 4593*
+
+Au 1er janvier 2022, le nombre de gynécologues médicaux était de 3 017. Malgré une diminution du nombre de praticiens dans cette spécialité, la part de gynécologues médicaux en activité de plus de 50 ans est passée de 69 % à 49 %, alors que parallèlement la part de professionnels de moins de 40 ans a augmenté de 17 % à 29 %. Pour renforcer cette évolution, le Gouvernement a augmenté le nombre de postes ouverts chaque année dans cette spécialité depuis 2012, passant de 30 à 87 postes. De surcroît, l'ensemble des postes ouverts ont été pourvus depuis 2010. Par ailleurs, d'autres dispositions permettent déjà de favoriser l'accès des femmes aux soins gynécologiques. Un grand nombre de médecins généralistes sont, par exemple, formés à l'exercice du frottis et à l'examen gynécologique médical. De même, les sages-femmes sont habilitées à suivre les femmes enceintes et celles qui ne le sont pas, dans le cadre d'un suivi régulier de la santé de la femme, notamment en matière de contraception. Le Gouvernement se mobilise, par la création de divers outils, pour améliorer l'accessibilité aux soins et l'installation des professionnels dans les zones rurales ou en sous densité médicale, à travers notamment du dispositif du contrat d'engagement de service public, allocation versée aux étudiants en santé en contrepartie d'une installation dans un territoire manquant de professionnels. Ce dispositif bénéficie notamment aux étudiants et internes en médecine souhaitant s'orienter vers l'exercice de la gynécologie médicale. Au total, depuis la mise en place du dispositif, plus de 3 000 étudiants se sont engagés.
