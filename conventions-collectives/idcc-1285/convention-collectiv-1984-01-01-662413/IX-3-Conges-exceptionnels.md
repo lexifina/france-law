@@ -2,8 +2,6 @@
 
 IX. 3.1 Congés exceptionnels de courte durée
 
-(1)
-
 Les congés exceptionnels de courte durée sont les suivants :
 
 Événement familial |
@@ -12,59 +10,59 @@ Durée du congé |
 
 Mariage ou conclusion d'un Pacs du salarié |
 
-5 jours ouvrés rémunérés à prendre au moment de l'événement ; ce congé ne pourra être décalé, sauf accord avec la direction ; |
+5 jours ouvrés rémunérés à prendre au moment de l'événement ; ce congé ne pourra être décalé, sauf accord avec la direction |
 
 Mariage ou Pacs d'un enfant |
 
 1 jour ouvré rémunéré |
 
-Décès du conjoint, du partenaire lié par un Pacs ou du concubin |
+Décès du conjoint, du partenaire lié par un PACS ou du concubin |
 
 5 jours ouvrés rémunérés |
 
 Décès d'un enfant âgé de 25 ans ou plus si l'enfant n'est pas lui-même parent |
 
-5 jours ouvrés rémunérés |
+12 jours ouvrés rémunérés |
 
 Décès d'un enfant quel que soit son âge si cet enfant décédé était lui-même parent |
 
-7 jours ouvrés rémunérés |
+14 jours ouvrés rémunérés |
 
-Décès d'un enfant de moins de 25 ans |
-
-7 jours ouvrés rémunérés cumulables avec 8 jours ouvrables rémunérés au titre du congé de deuil |
+Décès d'un enfant de moins de 25 ans
 
 Décès d'une personne de moins de 25 ans dont le salarié a la charge effective et permanente |
+
+14 jours ouvrés rémunérés cumulables avec 8 jours ouvrables rémunérés au titre du congé de deuil |
 
 Décès d'un ou des parents, de la belle-mère ou du beau-père, d'une sœur ou d'un frère, d'une demi-sœur, d'un demi-frère |
 
 3 jours ouvrés rémunérés |
 
-Annonce de la survenue d'un handicap chez un enfant |
+Annonce de la survenue d'un handicap, d'une pathologie chronique nécessitant un apprentissage thérapeutique ou d'un cancer chez un enfant |
 
-2 jours ouvrés rémunérés |
+5 jours ouvrés rémunérés |
 
 Maladie d'un enfant de moins d'1 an |
 
-4 jours rémunérés par an + 1 jour non rémunéré |
+4 jours rémunérés par an + 1 jour non rémunéré
 
 À la demande de l'employeur, le salarié doit pouvoir apporter la preuve de la maladie notamment par certificat médical – ce congé s'applique par salarié quel que soit le nombre d'enfants |
 
 Maladie d'un enfant d'1 an à moins de 10 ans |
 
-4 jours rémunérés par an |
+4 jours rémunérés par an
 
 À la demande de l'employeur, le salarié doit pouvoir apporter la preuve de la maladie à l'employeur, notamment par certificat médical – ce congé s'applique par salarié quel que soit le nombre d'enfants |
 
 Maladie d'un enfant âgé de 10 à moins de 16 ans |
 
-3 jours non rémunérés par an |
+3 jours non rémunérés par an
 
 À la demande de l'employeur, le salarié doit pouvoir apporter la preuve de la maladie à l'employeur, notamment par certificat médical – ce congé s'applique par salarié quel que soit le nombre d'enfants |
 
 Maladie d'un enfant de 10 ans à moins de 16 ans si le salarié assume la charge de trois enfants ou plus âgés de moins de 16 ans |
 
-5 jours par an non rémunérés |
+5 jours par an non rémunérés
 
 À la demande de l'employeur, le salarié doit pouvoir apporter la preuve de la maladie notamment par certificat |
 
@@ -72,9 +70,9 @@ La rémunération du ou des jour (s) d'absence définis au présent accord s'ent
 
 Ce ou ces jours d'absence sont assimilés à du travail effectif pour la détermination de la durée des congés payés.
 
-Il est précisé qu'en cas de survenance de l'évènement pendant une période de congés payés, le salarié ne pourra prétendre, à son retour, à ces congés exceptionnels.
+Il est précisé qu'en cas de survenance de l'événement pendant une période de congés payés, le salarié ne pourra prétendre, à son retour, à ces congés exceptionnels.
 
-Les congés exceptionnels bénéficient, de manière individuelle, au salarié ou à la salariée qui justifie de la survenance de l'un des évènements familiaux figurant ci-dessus, y compris pour les couples travaillant au sein de la même entreprise, qu'ils soient liés par un mariage, par un pacs ou vivant en concubinage.
+Les congés exceptionnels bénéficient, de manière individuelle, au salarié ou à la salariée qui justifie de la survenance de l'un des événements familiaux figurant ci-dessus, y compris pour les couples travaillant au sein de la même entreprise, qu'ils soient liés par un mariage, par un pacs ou vivant en concubinage.
 
 IX. 3.2. Congé de solidarité familiale
 
@@ -102,7 +100,7 @@ Ce congé ne peut faire l'objet de plus de 2 refus motivés, espacés d'au moins
 
 IX. 3.4. Congé proche aidant
 
-(2)
+(1)
 
 Le congé de proche aidant est ouvert à tout salarié, sans condition d'ancienneté, qui souhaite suspendre son contrat de travail pour s'occuper d'un proche, en vertu de la définition retenue par le code du travail, présentant un handicap ou une perte d'autonomie d'une particulière gravité.
 
@@ -172,7 +170,7 @@ b) Congé au moment de l'adoption
 
 La durée du congé au moment de l'adoption diffère selon le nombre d'enfants déjà à charge et le nombre d'enfants adoptés, conformément au tableau ci-dessous
 
-(3).
+(2).
 
 Enfants déjà à charge |
 
@@ -216,13 +214,13 @@ Le salarié ou la salariée, à qui un service départemental d'aide sociale à 
 
 Lorsque les deux conjoints travaillent,
 
-(4) le congé d'adoption peut être pris par l'un des parents, de manière indifférente.
+(3) le congé d'adoption peut être pris par l'un des parents, de manière indifférente.
 
-Le salarié ou la salariée doit envoyer par courrier recommandé avec avis de réception ou remise contre récépissé, dans un délai de 15 jours, l'attestation justifiant l'arrivée à son foyer du ou des enfants adopté (s).
+Le salarié ou la salariée doit envoyer par courrier recommandé avec avis de réception ou remise contre récépissé, dans un délai de 15 jours, l'attestation justifiant l'arrivée à son foyer du ou des enfants adopté(s).
 
 Pendant la durée de ce congé, le salarié ou la salariée peut percevoir des indemnités journalières versées par la caisse primaire d'assurance-maladie. L'employeur n'est pas tenu de maintenir le salaire durant ce congé.
 
-(5)
+(4)
 
 IX. 3.7. Congés pour PMA
 
@@ -252,22 +250,18 @@ Le congé parental ou la période d'activité à temps partiel prend fin au plus
 
 Le congé (total ou partiel) doit d'abord comprendre une phase initiale d'une durée d'un an maximum. Puis il peut être prolongé deux fois, chaque prolongation pouvant avoir une durée différente de celle de la phase initiale.
 
-(1) L'article IX. 3.1 est étendu sous réserve de l'application de l'article L. 3142-1 du code du travail, dans sa rédaction issue de la loi n° 2021-1678 du 17 décembre 2021 visant à l'accompagnement des enfants atteints de pathologie chronique ou de cancer.
+(1) L'article IX. 3.4 est étendu sous réserve de l'application de l'article L. 3142-16 du code du travail, dans sa rédaction issue de la loi n° 2021-1754 du 23 décembre 2021 de financement de la sécurité sociale pour 2022.
 
-(Arrêté du 1er avril 2022-art. 1)
+(Arrêté du 1er avril 2022 - art. 1)
 
-(2) L'article IX. 3.4 est étendu sous réserve de l'application de l'article L. 3142-16 du code du travail, dans sa rédaction issue de la loi n° 2021-1754 du 23 décembre 2021 de financement de la sécurité sociale pour 2022.
+(2) Le tableau du b de l'article IX. 3.6 est étendu sous réserve du respect de l'application de l'article L. 1225-40 du code du travail, dans sa rédaction issue de la loi n° 2020-1576 du 14 décembre 2020 de financement de la sécurité sociale pour 2021.
 
-(Arrêté du 1er avril 2022-art. 1)
+(Arrêté du 1er avril 2022 - art. 1)
 
-(3) Le tableau du b de l'article IX. 3.6 est étendu sous réserve du respect de l'application de l'article L. 1225-40 du code du travail, dans sa rédaction issue de la loi n° 2020-1576 du 14 décembre 2020 de financement de la sécurité sociale pour 2021.
+(3) Au 5e paragraphe du b de l'article IX. 3.6, les termes « Lorsque les deux conjoints travaillent, » sont exclus de l'extension en ce qu'ils sont contraires aux articles L. 1225-37 et L. 1225-40 du code du travail.
 
-(Arrêté du 1er avril 2022-art. 1)
+(Arrêté du 1er avril 2022 - art. 1)
 
-(4) Au 5e paragraphe du b de l'article IX. 3.6, les termes « Lorsque les deux conjoints travaillent, » sont exclus de l'extension en ce qu'ils sont contraires aux articles L. 1225-37 et L. 1225-40 du code du travail.
+(4) La dernière phrase du b de l'article IX.3.6 est étendue sous réserve de l'application de l'article L. 1225-45 du code du travail.
 
-(Arrêté du 1er avril 2022-art. 1)
-
-(5) La dernière phrase du b de l'article IX. 3.6 est étendue sous réserve de l'application de l'article L. 1225-45 du code du travail.
-
-(Arrêté du 1er avril 2022-art. 1)
+(Arrêté du 1er avril 2022 - art. 1)
