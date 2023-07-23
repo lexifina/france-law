@@ -36,7 +36,7 @@ Art. R. 4393-8. - Sous la responsabilité et le contrôle effectif du chirurgien
 
 2° L'accueil des patients et la communication à leur attention ;
 
-3° L'information et l'éducation des patients dans le champ de la santé bucco-dentaire ;
+3. Informations et éducation des personnes soignées dans le champ de la santé bucco-dentaire ;
 
 4° L'entretien de l'environnement de soins, des matériels liés aux activités et la gestion du risque infectieux ;
 
@@ -52,9 +52,9 @@ Activités :
 
 1. Assistance du praticien dans la réalisation des gestes avant, pendant et après les soins ;
 
-2. Accueil et communication auprès des patients ;
+2. Accueil et communication auprès des personnes dans les structures de soin ;
 
-3. Informations et éducation des patients dans le champ de la santé bucco- dentaire ;
+3. Informations et éducation des patients dans le champ de la santé bucco-dentaire ;
 
 4. Entretien de l'environnement de soins, des matériels liés aux activités et gestion du risque infectieux ;
 
@@ -68,9 +68,9 @@ Activités détaillées :
 
 1. Assistance du praticien dans la réalisation des gestes avant, pendant et après les soins :
 
-- préparation de l'environnement adapté aux soins à réaliser ;
+- préparation de l'environnement et des locaux adaptés aux soins à réaliser ;
 
-- installation du patient en appliquant les bonnes pratiques d'ergonomie ;
+- installation de la personne soignée en appliquant les bonnes pratiques d'ergonomie ;
 
 - préparation des matériaux, produits et matériels nécessaires aux soins ;
 
@@ -78,43 +78,43 @@ Activités détaillées :
 
 - assistance à la préparation, à la réalisation et au suivi des soins ;
 
-- suivi du patient pendant le déroulement du soin et après le soin ;
+- suivi de la personne pendant le déroulement du soin et après le soin ;
 
-- évaluation et suivi de la douleur du patient ;
+- évaluation et suivi de la douleur de la personne soignée ;
 
-- mise en œuvre de gestes de premiers secours.
+- mise en œuvre de gestes de premiers secours dans le respect du cadre légal et réglementaire.
 
-2. Accueil et communication auprès des patients :
+2. Accueil et communication auprès des personnes dans les structures de soin :
 
-- accueil des patients, écoute et apport d'une réponse adaptée, y compris en situation difficile ;
+- accueil des personnes, écoute et apport d'une réponse adaptée, y compris en situation difficile ;
 
-- apport d'informations accessibles et adaptées au patient en tenant compte de ses besoins, de ses demandes et de la situation ;
+- apport d'informations accessibles et adaptées à la personne en tenant compte de ses besoins, de ses demandes et de la situation ;
 
 - conduite d'un entretien de recueil de données médico-sociales nécessaires aux soins et à l'identification des situations d'urgence ;
 
-- observation de l'état général du patient ;
+- observation de l'état général de la personne ;
 
-- évaluation des capacités verbales et non verbales du patient ;
+- évaluation des capacités verbales et non verbales de la personne ;
 
 - traitement et transmission au praticien des données médico-sociales et des capacités verbales et non verbales du patient nécessaires aux soins ;
 
-- apport au patient d'explications sur le fonctionnement de la structure de soins ;
+- apport à la personne d'explications sur le fonctionnement de la structure de soins ;
 
 - utilisation des outils de communication mis à disposition par la structure de soins ;
 
 - organisation de l'espace d'accueil.
 
-3. Informations et éducation des patients dans le champ de la santé bucco-dentaire :
+3. Informations et éducation des personnes soignées dans le champ de la santé bucco-dentaire :
 
 - conduite d'un entretien d'éducation à la santé bucco-dentaire ;
 
-- apport de conseils aux patients dans le domaine de l'éducation à la santé. et de l'hygiène bucco-dentaire, de l'entretien des prothèses et orthèses bucco-dentaires, visant à promouvoir ou renforcer des comportements favorables à la santé ;
+- apport de conseils dans le domaine de l'éducation à la santé. et de l'hygiène bucco-dentaire, de l'entretien des prothèses et orthèses bucco-dentaires, visant à promouvoir ou renforcer des comportements favorables à la santé ;
 
-- apport aux patients de connaissances théoriques et pratiques relatives à l'hygiène bucco-dentaire, aux matériels et produits associés ;
+- apport de connaissances théoriques et pratiques relatives à l'hygiène bucco-dentaire, aux matériels et produits associés ;
 
 - présentation et explication des documents de prévention et d'éducation à la santé bucco-dentaire ;
 
-- apport d'éléments contributeurs à l'élaboration de documents d'information à la santé bucco-dentaire et de suivi de l'observance du patient ;
+- apport d'éléments contributeurs à l'élaboration de documents d'information à la santé bucco-dentaire et de suivi de l'observance de la personne ;
 
 - explication de modalités nécessaires à la réalisation du soin et de son suivi.
 
@@ -134,7 +134,7 @@ Activités détaillées :
 
 - tri et élimination des déchets dans les contenants appropriés en fonction des circuits définis par la réglementation en vigueur ;
 
-- contribution à l'élaboration et à la mise en œuvre des procédures de gestion du risque infectieux.
+- intervention dans le processus de rédaction des procédures de gestion du risque infectieux et mise en œuvre.
 
 5. Gestion et suivi du dossier du patient :
 
@@ -144,15 +144,15 @@ Activités détaillées :
 
 - modification de l'agenda en fonction des informations recueillies, du contexte, des situations et des imprévus ;
 
-- organisation du planning des soins du patient selon les consignes du praticien ;
+- organisation du planning des soins de la personne selon les consignes du praticien ;
 
-- création et suivi du dossier administratif du patient ;
+- création et suivi du dossier administratif de la personne ;
 
-- création et suivi du dossier médical du patient ;
+- création et suivi du dossier médical de la personne ;
 
 - utilisation de logiciels professionnels et métier ;
 
-- préparation, selon les indications du praticien, des documents et informations nécessaires à la prise en charge du patient ;
+- préparation, selon les indications du praticien, des documents et informations nécessaires à la prise en soins de la personne ;
 
 - apport d'explications sur les modalités de prise en charge des soins ;
 
@@ -170,15 +170,17 @@ Activités détaillées :
 
 - transmission d'informations lors de réunions dans la structure de soins ;
 
-- contribution à la coordination des soins des patients, dans le cadre de la structure de soins ;
+- coordination des soins des personnes, dans le cadre de la structure de soins avec les autres professionnels ;
 
-- préparation en vue de la transmission et réception des documents nécessaires aux autres professionnels de santé en relation avec les soins du patient ;
+- préparation en vue de la transmission et réception des documents nécessaires aux autres professionnels de santé en relation avec les soins de la personne ;
 
-- coordination et traçabilité avec les laboratoires de prothèse.
+- coordination et traçabilité avec les laboratoires de prothèse ;
+
+- utilisation de logiciels professionnels et métier.
 
 7. Accueil, accompagnement des assistants dentaires en formation ou nouveaux arrivants dans la structure et amélioration des pratiques professionnelles :
 
-- accueil des personnes en formation, des nouveaux arrivants ;
+- accueil des personnes en formation, des nouveaux arrivants (assistants dentaires et aides dentaires) ;
 
 - explication de l'organisation de la structure de soins et des fonctions de chaque professionnel ;
 
@@ -196,8 +198,12 @@ Activités détaillées :
 
 - détermination de ses besoins en formation continue ;
 
-- contribution à l'organisation ergonomique des postes de travail ;
+- propositions d'axes d'amélioration concernant l'organisation ergonomique des postes de travail ;
 
 - contribution à l'évaluation des risques professionnels au travail ;
 
 - connaissance et respect des limites légales de son champ d'activités.
+
+NOTA :
+
+Se reporter aux modalités d'application prévues à l'article 2 de l'arrêté du 19 juillet 2023 (NOR : SPRH2318610A).
