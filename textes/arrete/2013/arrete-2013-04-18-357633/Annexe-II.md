@@ -1,6 +1,6 @@
 # Article Annexe II
 
-ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ETAT (MINISTÈRES CIVILS)
+ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
 
 A.-Ministère de l'Europe et des affaires étrangères
 
@@ -22,17 +22,29 @@ Direction des finances publiques chargée de la paye
 
 sans ordonnancement préalable |
 
+Personnels des services centraux |
+
+Hauts-de-Seine
+
+à compter du 1er septembre 2023 |
+
 Personnels affectés dans les directions régionales des affaires culturelles |
 
-Paris |
+Hauts-de-Seine
+
+à compter du 1er septembre 2023 |
 
 Personnels affectés à Mayotte |
 
-Paris |
+Hauts-de-Seine
+
+à compter du 1er septembre 2023 |
 
 Personnels des Écoles Normales Supérieures d'Architecture |
 
-Paris |
+Hauts-de-Seine
+
+à compter du 1er septembre 2023 |
 
 C.-Ministère de l'agriculture et de la souveraineté alimentaire
 
@@ -58,25 +70,27 @@ Personnels des services déconcentrés en poste à Mayotte |
 
 Hauts-de-Seine |
 
-D.-Ministère de l'éducation nationale et de la jeunesse, ministère de l'enseignement supérieur et de la recherche, ministère des sports, des jeux Olympiques et Paralympiques
+D.-Ministère de l'éducation nationale et de la jeunesse, ministère de l'enseignement supérieur et de la recherche et ministère des sports, des jeux Olympiques et Paralympiques
 
 1° Enseignement
 
-Population ou région académique (académie) |
+Population ou région académique
+
+(académie) |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
 
-Administration centrale, recteurs de région académique, recteurs d'académie, recteurs délégués pour l'enseignement supérieur, la recherche et l'innovation |
+sans ordonnancement préalable |
 
-Services centraux, services déconcentrés de métropole et des collectivités d'outre-mer régies par l'article 73 de la Constitution hors Mayotte |
+Recteurs de région académique, recteurs d'académie, recteurs délégués pour l'enseignement supérieur, la recherche et l'innovation |
 
-Seine-Saint-Denis
+Services déconcentrés de métropole et des collectivités d'outre-mer régies par l'article 73 de la Constitution hors Mayotte |
 
-à compter du 1er avril 2023 |
+Paris |
 
 Auvergne-Rhône-Alpes (Clermont-Ferrand, Grenoble, Lyon) |
 
@@ -94,7 +108,7 @@ Rhône |
 
 Bourgogne-Franche-Comté (Besançon, Dijon) |
 
-Doubs, Jura, Haute-Saône, Territoire de Belfort |
+Doubs, Jura, Haute-Saône, territoire-de-Belfort |
 
 Doubs |
 
@@ -104,7 +118,7 @@ Côte-d'Or |
 
 Bretagne (Rennes) |
 
-Côtes d'Armor, Finistère, Ille-et-Vilaine, Morbihan |
+Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan |
 
 Ille-et-Vilaine |
 
@@ -156,15 +170,7 @@ Nord, Pas-de-Calais |
 
 Nord |
 
-Population ou région académique (académie) |
-
-Service ou département d'affectation |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
-
-Ile-de-France (Paris, Versailles, Créteil) |
+Île-de-France (Paris, Versailles, Créteil) |
 
 Paris (1er et 2nd degrés) |
 
@@ -172,7 +178,7 @@ Seine-Saint-Denis |
 
 |
 
-Paris (personnels de l'enseignement supérieur rémunérés sur le budget général de l'Etat) |
+Paris (personnels de l'enseignement supérieur rémunérés sur le budget général de l'État) |
 
 Paris |
 
@@ -182,7 +188,7 @@ Val-de-Marne |
 
 |
 
-Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (personnels de l'enseignement supérieur rémunérés sur le budget général de l'Etat et gérés par leur établissement d'affectation) |
+Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (personnels de l'enseignement supérieur rémunérés sur le budget général de l'État et gérés par leur établissement d'affectation) |
 
 Seine-Saint-Denis |
 
@@ -190,19 +196,19 @@ Seine-Saint-Denis |
 
 |
 
-Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (personnels de l'enseignement supérieur rémunérés sur le budget général de l'Etat et gérés par le rectorat de l'académie de Créteil) |
+Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (personnels de l'enseignement supérieur rémunérés sur le budget général de l'État et gérés par le rectorat de l'académie de Créteil) |
 
 Val-de Marne |
 
 |
 
-Yvelines, Essonne, Hauts-de-Seine, Val-d'Oise (1er et 2nd degrés) |
+Yvelines, Essonne, Hauts-de-Seine, Val d'Oise (1er et 2nd degrés) |
 
 Yvelines |
 
 |
 
-Yvelines, Essonne, Hauts-de-Seine, Val-d'Oise (1er et 2nd degrés) |
+Yvelines, Essonne, Hauts-de-Seine, Val d'Oise (1er et 2nd degrés) |
 
 Yvelines |
 
@@ -244,17 +250,9 @@ Charente, Charente-Maritime, Deux-Sèvres, Vienne |
 
 Haute-Vienne |
 
-Population ou région académique (académie) |
-
-Service ou département d'affectation |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
-
 Occitanie (Montpellier, Toulouse) |
 
-Aude, Gard, Hérault, Lozère, Pyrénées-Orientales |
+Aude, Gard, Hérault, Pyrénées-Orientales |
 
 Hérault |
 
@@ -278,15 +276,19 @@ Alpes-Maritimes, Var |
 
 Alpes-Maritimes |
 
-2° Corps des conseillers d'éducation populaire et de jeunesse, des conseillers techniques et pédagogiques supérieurs, des inspecteurs de la jeunesse et des sports, des professeurs de sport rémunérés sur le programme 214 " soutien de la politique de l'éducation nationale " et conseillers techniques sportifs rémunérés sur le programme 219 " sport "
+2° Corps des conseillers d'éducation populaire et de jeunesse, des conseillers techniques et pédagogiques supérieurs, des inspecteurs de la jeunesse et des sports, des professeurs de sport rémunérés sur le programme 214 &#171 soutien de la politique de l'éducation nationale &#187 et conseillers techniques sportifs rémunérés sur le programme 219 &#171 sport &#187
 
-Région académique (académie) |
+Région académique
+
+(académie) |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Administration centrale |
 
@@ -306,7 +308,7 @@ Ain, Loire, Rhône |
 
 Bourgogne-Franche-Comté (Besançon, Dijon) |
 
-Doubs, Jura, Haute-Saône, Territoire de Belfort |
+Doubs, Jura, Haute-Saône, territoire-de-Belfort |
 
 Doubs |
 
@@ -314,7 +316,7 @@ Côte-d'Or, Nièvre, Saône-et-Loire, Yonne |
 
 Bretagne (Rennes) |
 
-Côtes d'Armor, Finistère, Ille-et-Vilaine, Morbihan |
+Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan |
 
 Ille-et-Vilaine |
 
@@ -340,14 +342,6 @@ Ardennes, Aube, Marne, Haute-Marne |
 
 Bas-Rhin, Haut-Rhin |
 
-Région académique (académie) |
-
-Service ou département d'affectation |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
-
 Guadeloupe |
 
 Guadeloupe, Saint-Barthélemy, Saint-Martin |
@@ -368,15 +362,15 @@ Nord |
 
 Nord, Pas-de-Calais |
 
-Ile-de-France (Paris, Versailles, Créteil) |
+Île-de-France (Paris, Versailles, Créteil) |
 
 Paris |
 
 Seine-Saint-Denis |
 
-Yvelines, Essonne, Hauts-de-Seine, Val-d'Oise |
+Yvelines, Essonne, Hauts-de-Seine, Val d'Oise |
 
-Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne |
+Seine-et-Marne, Seine-Saint-Denis, Val de Marne |
 
 La Réunion |
 
@@ -408,7 +402,7 @@ Charente, Charente-Maritime, Deux-Sèvres, Vienne |
 
 Occitanie (Montpellier, Toulouse) |
 
-Aude, Gard, Hérault, Lozère, Pyrénées-Orientales |
+Aude, Gard, Hérault, Pyrénées-Orientales |
 
 Hérault |
 
@@ -434,9 +428,11 @@ Population |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnels enseignants titulaires et contractuels du 1er degré public, maîtres et documentalistes de l'enseignement privé sous contrat du 1er degré, contractuels alternants de l'enseignement public ou privé du 1er degré |
 
@@ -446,8 +442,6 @@ Calvados |
 
 Eure, Seine-Maritime |
 
-Calvados |
-
 Personnels enseignants titulaires et contractuels du 2nd degré public, maîtres et documentalistes de l'enseignement privé sous contrat du 2nd degré, contractuels alternants de l'enseignement public ou privé du 2nd degré |
 
 Calvados, Manche, Orne |
@@ -455,8 +449,6 @@ Calvados, Manche, Orne |
 Seine-Maritime |
 
 Eure, Seine-Maritime |
-
-Seine-Maritime |
 
 Personnels d'encadrement supérieur, personnels de direction, personnels d'inspection, ingénieurs et personnels techniques de recherche et de formation |
 
@@ -466,19 +458,13 @@ Seine-Maritime |
 
 Eure, Seine-Maritime |
 
-Seine-Maritime |
-
 Personnels titulaires et contractuels des filières administrative, technique et médico-sociale, ouvriers, de service |
 
 Calvados, Manche, Orne |
 
-Seine-Maritime
-
-à compter du 1er avril 2023 |
+Seine-Maritime |
 
 Eure, Seine-Maritime |
-
-Seine-Maritime |
 
 Conseillers d'éducation populaire et de jeunesse, conseillers techniques et pédagogiques supérieurs, inspecteurs de la jeunesse et des sports, professeurs de sport |
 
@@ -488,8 +474,6 @@ Seine-Maritime |
 
 Eure, Seine-Maritime |
 
-Seine-Maritime |
-
 Conseillers techniques sportifs |
 
 Calvados, Manche, Orne |
@@ -497,8 +481,6 @@ Calvados, Manche, Orne |
 Seine-Maritime |
 
 Eure, Seine-Maritime |
-
-Seine-Maritime |
 
 E.-Ministère de l'économie, des finances et de la souveraineté industrielle et numérique
 
@@ -612,9 +594,11 @@ Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Services centraux |
 
@@ -626,13 +610,13 @@ Paris |
 
 Corps des administrateurs des finances publiques en extinction (toutes affectations) |
 
-Bureau rémunération et reconnaissance |
+Bureau &#171 rémunération et reconnaissance &#187 |
 
 Paris |
 
-Corps des administrateurs de l'Etat détachés sur emploi fonctionnel relevant de la direction générale des finances publiques (toutes affectations) |
+Corps des administrateurs de l'État détachés sur emploi fonctionnel relevant de la direction générale des finances publiques (toutes affectations) |
 
-Bureau rémunération et reconnaissance |
+Bureau &#171 rémunération et reconnaissance &#187 |
 
 Paris |
 
@@ -690,7 +674,9 @@ Ariège |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Aube |
 
@@ -732,13 +718,17 @@ Charente |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Charente-Maritime |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Cher |
 
@@ -770,7 +760,7 @@ Metz |
 
 Moselle |
 
-Côtes d'Armor |
+Côtes-d'Armor |
 
 Saint-Brieuc |
 
@@ -786,7 +776,9 @@ Dordogne |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Doubs |
 
@@ -828,19 +820,25 @@ Haute-Garonne |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Gers |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Gironde |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Hérault |
 
@@ -882,7 +880,9 @@ Landes |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Loir-et-Cher |
 
@@ -918,7 +918,9 @@ Lot |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Lozère |
 
@@ -930,7 +932,9 @@ Lot-et-Garonne |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Maine-et-Loire |
 
@@ -949,14 +953,6 @@ Marne |
 Metz |
 
 Moselle |
-
-Service ou catégorie de personnel |
-
-Centre de services de ressources humaines |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
 
 Haute-Marne |
 
@@ -1034,13 +1030,17 @@ Pyrénées-Atlantiques |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Hautes-Pyrénées |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Pyrénées-Orientales |
 
@@ -1136,13 +1136,17 @@ Tarn |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Tarn-et-Garonne |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Var |
 
@@ -1172,7 +1176,9 @@ Haute-Vienne |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Vosges |
 
@@ -1186,7 +1192,7 @@ Tours |
 
 Puy-de-Dôme |
 
-Territoire de Belfort |
+Territoire-de-Belfort |
 
 Metz |
 
@@ -1296,14 +1302,6 @@ Noisy-le-Grand |
 
 Paris |
 
-Service ou catégorie de personnel |
-
-Centre de services de ressources humaines |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
-
 Direction des vérifications nationales et internationales (Pantin) |
 
 Noisy-le-Grand |
@@ -1348,7 +1346,7 @@ Metz |
 
 Moselle |
 
-Ile-de-France (La Plaine Saint-Denis) |
+Île-de-France (La Plaine Saint-Denis) |
 
 Noisy-le-Grand |
 
@@ -1370,7 +1368,9 @@ Sud-Ouest (Bordeaux) |
 
 Bordeaux |
 
-Gironde |
+Puy-de-Dôme
+
+à compter du 1er octobre 2023 |
 
 Sud-Pyrénées (Toulouse) |
 
@@ -1386,9 +1386,11 @@ Service ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Corps préfectoral |
 
@@ -1434,13 +1436,197 @@ Sud (Marseille) |
 
 Bouches-du-Rhône |
 
-Service ou catégorie de personnel |
+Ardèche |
 
-Secrétariat général pour l'administration |
+Sud-Est (Lyon) |
 
-Direction des finances publiques chargée
+Isère |
 
-de la paye sans ordonnancement préalable |
+Ardennes |
+
+Est (Metz) |
+
+Moselle |
+
+Ariège |
+
+Sud (Marseille) |
+
+Bouches-du-Rhône |
+
+Aube |
+
+Est (Metz) |
+
+Moselle |
+
+Aude |
+
+Sud (Marseille) |
+
+Bouches-du-Rhône |
+
+Aveyron |
+
+Sud (Marseille) |
+
+Bouches-du-Rhône |
+
+Bouches-du-Rhône |
+
+Sud (Marseille) |
+
+Bouches-du-Rhône |
+
+Calvados |
+
+Ouest (Rennes) |
+
+Ille-et-Vilaine |
+
+Cantal |
+
+Sud-Est (Lyon) |
+
+Isère |
+
+Charente |
+
+Sud-Ouest (Bordeaux) |
+
+Gironde |
+
+Charente-Maritime |
+
+Sud-Ouest (Bordeaux) |
+
+Gironde |
+
+Cher |
+
+Ouest (Rennes) |
+
+Ille-et-Vilaine |
+
+Corrèze |
+
+Sud-Ouest (Bordeaux) |
+
+Gironde |
+
+Corse-du-Sud |
+
+Sud (Marseille) |
+
+Bouches-du-Rhône |
+
+Haute-Corse |
+
+Sud (Marseille) |
+
+Bouches-du-Rhône |
+
+Côte-d'Or |
+
+Est (Metz) |
+
+Moselle |
+
+Côtes-d'Armor |
+
+Ouest (Rennes) |
+
+Ille-et-Vilaine |
+
+Creuse |
+
+Sud-Ouest (Bordeaux) |
+
+Gironde |
+
+Dordogne |
+
+Sud-Ouest (Bordeaux) |
+
+Gironde |
+
+Doubs |
+
+Est (Metz) |
+
+Moselle |
+
+Drôme |
+
+Sud-Est (Lyon) |
+
+Isère |
+
+Eure |
+
+Ouest (Rennes) |
+
+Ille-et-Vilaine |
+
+Eure-et-Loir |
+
+Ouest (Rennes) |
+
+Ille-et-Vilaine |
+
+Finistère |
+
+Ouest (Rennes) |
+
+Ille-et-Vilaine |
+
+Gard |
+
+Sud (Marseille) |
+
+Bouches-du-Rhône |
+
+Haute-Garonne |
+
+Sud (Marseille) |
+
+Bouches-du-Rhône |
+
+Gers |
+
+Sud (Marseille) |
+
+Bouches-du-Rhône |
+
+Gironde |
+
+Sud-Ouest (Bordeaux) |
+
+Gironde |
+
+Hérault |
+
+Sud (Marseille) |
+
+Bouches-du-Rhône |
+
+Ille-et-Vilaine |
+
+Ouest (Rennes) |
+
+Ille-et-Vilaine |
+
+Indre |
+
+Ouest (Rennes) |
+
+Ille-et-Vilaine |
+
+Indre-et-Loire |
+
+Ouest (Rennes) |
+
+Ille-et-Vilaine |
 
 Isère |
 
@@ -1666,7 +1852,7 @@ Isère |
 
 Paris |
 
-Ile-de-France (Paris-Versailles) |
+Île-de-France (Paris-Versailles) |
 
 Yvelines |
 
@@ -1678,13 +1864,13 @@ Ille-et-Vilaine |
 
 Seine-et-Marne |
 
-Ile-de-France (Paris-Versailles) |
+Île-de-France (Paris-Versailles) |
 
 Yvelines |
 
 Yvelines |
 
-Ile-de-France (Paris-Versailles) |
+Île-de-France (Paris-Versailles) |
 
 Yvelines |
 
@@ -1754,7 +1940,7 @@ Est (Metz) |
 
 Moselle |
 
-Territoire de Belfort |
+Territoire-de-Belfort |
 
 Est (Metz) |
 
@@ -1762,31 +1948,31 @@ Moselle |
 
 Essonne |
 
-Ile-de-France (Paris-Versailles) |
+Île-de-France (Paris-Versailles) |
 
 Yvelines |
 
 Hauts-de-Seine |
 
-Ile-de-France (Paris-Versailles) |
+Île-de-France (Paris-Versailles) |
 
 Yvelines |
 
 Seine-Saint-Denis |
 
-Ile-de-France (Paris-Versailles) |
+Île-de-France (Paris-Versailles) |
 
 Yvelines |
 
 Val-de-Marne |
 
-Ile-de-France (Paris-Versailles) |
+Île-de-France (Paris-Versailles) |
 
 Yvelines |
 
 Val-d'Oise |
 
-Ile-de-France (Paris-Versailles) |
+Île-de-France (Paris-Versailles) |
 
 Yvelines |
 
@@ -1822,13 +2008,17 @@ La Réunion |
 
 2° Direction générale de la police nationale
 
-Zone de sécurité et de défense ou catégorie de personnel |
+Zone de sécurité et de défense
+
+ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Est (Bourgogne-Franche-Comté Grand Est) |
 
@@ -1866,27 +2056,27 @@ Sud-Ouest (Bordeaux) |
 
 Gironde |
 
-Personnels du corps de commandement de la police nationale en poste en Ile-de-France |
+Personnels du corps de commandement de la police nationale en poste en Île-de-France |
 
-Ile-de-France (Paris-Versailles) |
-
-Paris |
-
-Personnels du corps d'encadrement et d'application de la police nationale en poste en Ile-de-France |
-
-Ile-de-France (Paris-Versailles) |
+Île-de-France (Paris-Versailles) |
 
 Paris |
 
-Personnels scientifiques et techniques de la police nationale en poste en Ile-de-France |
+Personnels du corps d'encadrement et d'application de la police nationale en poste en Île-de-France |
 
-Ile-de-France (Paris-Versailles) |
+Île-de-France (Paris-Versailles) |
+
+Paris |
+
+Personnels scientifiques et techniques de la police nationale en poste en Île-de-France |
+
+Île-de-France (Paris-Versailles) |
 
 Yvelines |
 
-Personnels administratifs de la police nationale en poste en Ile-de-France |
+Personnels administratifs de la police nationale en poste en Île-de-France |
 
-Ile-de-France (Paris-Versailles) |
+Île-de-France (Paris-Versailles) |
 
 Yvelines |
 
@@ -1895,14 +2085,6 @@ Guadeloupe |
 Guadeloupe |
 
 Martinique |
-
-Zone de sécurité et de défense ou catégorie de personnel |
-
-Secrétariat général pour l'administration |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
 
 Guyane |
 
@@ -1930,13 +2112,17 @@ La Réunion |
 
 3° Personnels civils de la direction générale de la gendarmerie nationale
 
-Zone de sécurité et de défense ou catégorie de personnel |
+Zone de sécurité et de défense
+
+ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Est (Bourgogne-Franche-Comté Grand Est) |
 
@@ -1956,9 +2142,9 @@ Nord (Lille) |
 
 Nord |
 
-Paris (Ile-de-France) |
+Paris (Île-de-France) |
 
-Ile-de-France (Paris-Versailles) |
+Île-de-France (Paris-Versailles) |
 
 Yvelines |
 
@@ -2042,9 +2228,11 @@ Cour d'Appel |
 
 Ressort |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Agen |
 
@@ -2084,7 +2272,7 @@ Doubs |
 
 Besançon |
 
-Doubs, Jura, Haute-Saône, Territoire de Belfort |
+Doubs, Jura, Haute-Saône, Territoire-de-Belfort |
 
 Doubs |
 
@@ -2216,7 +2404,7 @@ Doubs |
 
 Rennes |
 
-Côtes d'Armor, Finistère, Ille-et-Vilaine, Loire-Atlantique, Morbihan |
+Côtes-d'Armor, Finistère, Ille-et-Vilaine, Loire-Atlantique, Morbihan |
 
 Doubs |
 
@@ -2234,7 +2422,11 @@ Doubs |
 
 Saint-Denis de La Réunion |
 
-La Réunion, Mayotte |
+La Réunion |
+
+Doubs |
+
+Mayotte |
 
 Doubs |
 
@@ -2246,19 +2438,23 @@ Doubs |
 
 Versailles |
 
-Eure-et-Loir, Yvelines, Hauts-de-Seine, Val-d'Oise |
+Eure-et-Loir, Yvelines, Hauts-de-Seine, Val d'Oise |
 
 Doubs |
 
 2° Services pénitentiaires
 
-Direction interrégionale des services pénitentiaires |
+Direction interrégionale
+
+des services pénitentiaires |
 
 Ressort |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Bordeaux |
 
@@ -2268,7 +2464,7 @@ Haute-Vienne |
 
 Dijon |
 
-Cher, Côte-d'Or, Doubs, Eure-et-Loir, Indre, Indre-et-Loire, Jura, Loir-et-Cher, Loiret, Nièvre, Haute-Saône, Saône-et-Loire, Yonne, Territoire de Belfort |
+Cher, Côte-d'Or, Doubs, Eure-et-Loir, Indre, Indre-et-Loire, Jura, Loir-et-Cher, Loiret, Nièvre, Haute-Saône, Saône-et-Loire, Yonne, Territoire-de-Belfort |
 
 Haute-Vienne |
 
@@ -2292,13 +2488,13 @@ Haute-Vienne |
 
 Paris |
 
-Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise |
+Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val d'Oise |
 
 Haute-Vienne |
 
 Rennes |
 
-Calvados, Côtes d'Armor, Eure, Finistère, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Seine-Maritime, Vendée |
+Calvados, Côtes-d'Armor, Eure, Finistère, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Seine-Maritime, Vendée |
 
 Haute-Vienne |
 
@@ -2307,14 +2503,6 @@ Strasbourg |
 Ardennes, Aube, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Bas-Rhin, Haut-Rhin, Vosges |
 
 Haute-Vienne |
-
-Direction interrégionale des services pénitentiaires |
-
-Ressort |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
 
 Toulouse |
 
@@ -2342,13 +2530,17 @@ Haute-Vienne |
 
 3° Protection judiciaire de la jeunesse
 
-Direction interrégionale de la protection judiciaire de la jeunesse |
+Direction interrégionale
+
+de la protection judiciaire de la jeunesse |
 
 Ressort |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Centre-Est (Lyon) |
 
@@ -2358,7 +2550,7 @@ Haute-Vienne |
 
 Grand Centre (Dijon) |
 
-Cher, Côte-d'Or, Doubs, Eure-et-Loir, Indre, Indre-et-Loire, Jura, Loir-et-Cher, Loiret, Nièvre, Haute-Saône, Saône-et-Loire, Yonne, Territoire de Belfort |
+Cher, Côte-d'Or, Doubs, Eure-et-Loir, Indre, Indre-et-Loire, Jura, Loir-et-Cher, Loiret, Nièvre, Haute-Saône, Saône-et-Loire, Yonne, Territoire-de-Belfort |
 
 Haute-Vienne |
 
@@ -2376,21 +2568,13 @@ Haute-Vienne |
 
 Grand Ouest (Rennes) |
 
-Calvados, Côtes d'Armor, Eure, Finistère, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Seine-Maritime, Vendée |
+Calvados, Côtes-d'Armor, Eure, Finistère, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Seine-Maritime, Vendée |
 
 Haute-Vienne |
 
-Direction interrégionale de la protection judiciaire de la jeunesse |
+Île-de-France/ Outre-Mer (Paris) |
 
-Ressort |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
-
-Ile-de-France/ Outre-Mer (Paris) |
-
-Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise |
+Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val d'Oise |
 
 Haute-Vienne |
 
@@ -2490,9 +2674,9 @@ Service |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée
+Direction des finances publiques chargée de la paye
 
-de la paye sans ordonnancement préalable |
+sans ordonnancement préalable |
 
 Services centraux |
 
@@ -2526,7 +2710,7 @@ Val-de-Marne |
 
 Armement des Phares et Balises (APB) |
 
-Bouches-du-Rhône, Calvados, Charente-Maritime, Côtes d'Armor, Finistère, Corse-du-Sud, Haute-Corse, Gironde, Hauts-de-Seine, Hérault, Ille-et-Vilaine, Loire-Atlantique, Manche, Morbihan, Nord, Somme, Seine-Maritime, Vendée, Var, Guadeloupe, Guyane, Martinique, Saint-Pierre-et-Miquelon |
+Bouches-du-Rhône, Calvados, Charente-Maritime, Côtes-d'Armor, Finistère, Corse-du-Sud, Haute-Corse, Gironde, Hauts-de-Seine, Hérault, Ille-et-Vilaine, Loire-Atlantique, Manche, Morbihan, Nord, Somme, Seine-Maritime, Vendée, Var, Guadeloupe, Guyane, Martinique, Saint-Pierre-et-Miquelon |
 
 Val-de-Marne |
 
@@ -2588,7 +2772,7 @@ Bouches-du-Rhône, Nord |
 
 Val-de-Marne |
 
-École nationale des travaux publics de l'Etat (ENTPE) |
+École nationale des travaux publics de l'État (ENTPE) |
 
 Rhône |
 
