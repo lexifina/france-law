@@ -1,8 +1,6 @@
 # Article Annexe 1
 
-DÉPARTEMENT
-
-D'IMPLANTATION |
+DÉPARTEMENT D'IMPLANTATION |
 
 BRIGADE TERRITORIALE |
 
@@ -137,12 +135,6 @@ Aude (11). |
 Castelnaudary. |
 
 Aude (11), Haute-Garonne (31), Tarn (81). |
-
-DÉPARTEMENT D'IMPLANTATION |
-
-BRIGADE TERRITORIALE |
-
-ZONE DE COMPÉTENCE JUDICIAIRE |
 
 Aveyron (12). |
 
@@ -638,11 +630,9 @@ Void-Vacon, Gondrecourt-le-Château, Vaucouleurs, Ligny-en-Barrois,
 
 Ancerville, Saint-Mihiel, Lacroix-sur-Meuse, Vigneulles-lès-Hattonchâtel, Revigny-sur-Ornain, Commercy. |
 
-Haute-Marne (52), Meuse (55). |
+Marne (51), Haute-Marne (52), Meuse (55). |
 
-Morbihan (56).
-
-|
+Morbihan (56). |
 
 Josselin, Rohan, Saint-Jean-Brévelay. |
 
@@ -655,6 +645,8 @@ Côtes-d'Armor (22), Ille-et-Vilaine (35), Morbihan (56). |
 Le Faouët, Gourin. |
 
 Côtes d'Armor (22), Finistère (29), Morbihan (56). |
+
+Morbihan (56). |
 
 Plouay, Pont-Scorff. |
 
@@ -818,7 +810,7 @@ Le Tréport. |
 
 Seine-Maritime (76), Somme (80). |
 
-Seine-et-Marne (77) |
+Seine-et-Marne (77). |
 
 La Ferté-Gaucher, Rebais. |
 
@@ -832,7 +824,7 @@ Château-Landon, La Chapelle-la-Reine. |
 
 Loiret (45), Seine-et-Marne (77). |
 
-Somme (80) |
+Somme (80). |
 
 Poix-de-Picardie, Saint-Sauflieu. |
 

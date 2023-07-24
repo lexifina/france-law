@@ -1,99 +1,55 @@
 # Article Annexe 3
 
-DÉPARTEMENT
+DÉPARTEMENT D'IMPLANTATION |
 
-D'IMPLANTATION
+BRIGADE DE RECHERCHES |
 
-|
+ZONE DE COMPÉTENCE JUDICIAIRE |
 
-BRIGADE DE RECHERCHES
+Lot (46). |
 
-|
+Figeac. |
 
-ZONE DE COMPÉTENCE JUDICIAIRE
+Aveyron (12), Lot (46). |
 
-|
+Marne (51) |
 
-Lot (46).
+Vitry-le-François. |
 
-|
+Marne (51), Haute-Marne (52), Meuse (55). |
 
-Figeac.
+Haute-Marne (52). |
 
-|
+Saint-Dizier. |
 
-Aveyron (12), Lot (46).
+Marne (51), Haute-Marne (52), Meuse (55). |
 
-|
+Meuse (55). |
 
-Haute-Marne (52).
+Commercy. |
 
-|
+Marne (51), Haute-Marne (52), Meuse (55). |
 
-Saint-Dizier.
+Bas-Rhin (67). |
 
-|
+Sélestat. |
 
-Haute-Marne (52), Meuse (55).
+Bas-Rhin (67), Haut-Rhin (68). |
 
-|
+Haut-Rhin (68). |
 
-Meuse (55).
+Colmar. |
 
-|
+Bas-Rhin (67), Haut-Rhin (68). |
 
-Commercy.
+Seine-Maritime (76). |
 
-|
+Dieppe. |
 
-Haute-Marne (52), Meuse (55).
+Seine-Maritime (76), Somme (80). |
 
-|
+Vendée (85). |
 
-Bas-Rhin (67).
+Fontenay-le-Comte. |
 
-|
-
-Sélestat.
-
-|
-
-Bas-Rhin (67), Haut-Rhin (68).
-
-|
-
-Haut-Rhin (68).
-
-|
-
-Colmar.
-
-|
-
-Bas-Rhin (67), Haut-Rhin (68).
-
-|
-
-Seine-Maritime (76).
-
-|
-
-Dieppe.
-
-|
-
-Seine-Maritime (76), Somme (80).
-
-|
-
-Vendée (85).
-
-|
-
-Fontenay-le-Comte.
-
-|
-
-Charente-Maritime (17), Deux-Sèvres (79), Vendée (85).
-
-|
+Charente-Maritime (17), Deux-Sèvres (79), Vendée (85). |

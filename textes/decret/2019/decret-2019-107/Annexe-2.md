@@ -1,607 +1,305 @@
 # Article Annexe 2
 
-DÉPARTEMENT
+DÉPARTEMENT D'IMPLANTATION |
 
-D'IMPLANTATION
+PELOTON DE SURVEILLANCE
 
-|
+ET D'INTERVENTION DE LA GENDARMERIE |
 
-PELOTON DE SURVEILLANCE ET D'INTERVENTION DE LA GENDARMERIE
+ZONE DE COMPÉTENCE JUDICIAIRE |
 
-|
+Aisne (02). |
 
-ZONE DE COMPÉTENCE JUDICIAIRE
+Château-Thierry-Nogentel. |
 
-|
+Aisne (02), Marne (51), Seine-et-Marne (77). |
 
-Aisne (02).
+Hirson. |
 
-|
+Aisne (02), Ardennes (08). |
 
-Château-Thierry-Nogentel.
+Soissons, Laon. |
 
-|
+Aisne (02), Marne (51). |
 
-Aisne (02), Marne (51), Seine-et-Marne (77).
+Alpes-de-Haute-Provence (04). |
 
-|
+Castellane. |
 
-Hirson.
+Alpes-de-Haute-Provence (04), Var (83). |
 
-|
+Volx. |
 
-Aisne (02), Ardennes (08).
+Alpes-de-Haute-Provence (04), Bouches-du-Rhône (13), Var (83), Vaucluse (84). |
 
-|
+Hautes-Alpes (05). |
 
-Soissons, Laon.
+Gap. |
 
-|
+Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Isère (38). |
 
-Aisne (02), Marne (51).
+Briançon. |
 
-|
+Alpes-de-Haute-Provence (04), Hautes-Alpes (05). |
 
-Alpes-de-Haute-Provence (04).
+Ardennes (08). |
 
-|
+Vireux-Wallerand. |
 
-Castellane.
+Aisne (02), Ardennes (08). |
 
-|
+Aube (10). |
 
-Alpes-de-Haute-Provence (04), Var (83).
+Romilly-sur-Seine. |
 
-|
+Aube (10), Marne (51), Seine-et-Marne (77). |
 
-Volx.
+Dordogne (24). |
 
-|
+Bergerac. |
 
-Alpes-de-Haute-Provence (04), Bouches-du-Rhône (13), Var (83), Vaucluse (84).
+Dordogne (24), Gironde (33). |
 
-|
+Doubs (25). |
 
-Hautes-Alpes (05).
+Montbéliard. |
 
-|
+Doubs (25), Territoire de Belfort (90). |
 
-Gap.
+Drôme (26). |
 
-|
+Valence. |
 
-Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Isère (38).
+Ardèche (07), Drôme (26). |
 
-|
+Pierrelatte, Taulignan. |
 
-Briançon.
+Drôme (26), Vaucluse (84). |
 
-|
+Eure (27). |
 
-Alpes-de-Haute-Provence (04), Hautes-Alpes (05).
+Évreux. |
 
-|
+Eure (27), Eure-et-Loir (28). |
 
-Ardennes (08).
+Gard (30). |
 
-|
+Saint-Hippolyte-du-Fort. |
 
-Vireux-Wallerand.
+Gard (30), Hérault (34). |
 
-|
+Haute-Garonne (31). |
 
-Aisne (02), Ardennes (08).
+Saint-Gaudens. |
 
-|
+Haute-Garonne (31), Hautes-Pyrénées (65). |
 
-Aube (10).
+Gironde (33). |
 
-|
+Libourne. |
 
-Romilly-sur-Seine.
+Dordogne (24), Gironde (33). |
 
-|
+Ille-et-Vilaine (35). |
 
-Aube (10), Marne (51), Seine-et-Marne (77).
+Redon. |
 
-|
+Ille-et-Vilaine (35), Loire-Atlantique (44), Morbihan (56). |
 
-Dordogne (24).
+Jura (39). |
 
-|
+Dole. |
 
-Bergerac.
+Doubs (25), Jura (39). |
 
-|
+Lons-le-Saunier. |
 
-Dordogne (24), Gironde (33).
+Jura (39), Saône-et-Loire (71). |
 
-|
+Loiret (45). |
 
-Doubs (25).
+Pithiviers. |
 
-|
+Eure-et-Loir (28), Loiret (45), Seine-et-Marne (77). |
 
-Montbéliard.
+Lot (46). |
 
-|
+Figeac. |
 
-Doubs (25), Territoire de Belfort (90).
+Aveyron (12), Lot (46). |
 
-|
+Maine-et-Loire (49). |
 
-Drôme (26).
+Saumur. |
 
-|
+Indre-et-Loire (37), Maine-et-Loire (49), Sarthe (72), Deux-Sèvres (79), Vienne (86). |
 
-Valence.
+Marne (51). |
 
-|
+Reims. |
 
-Ardèche (07), Drôme (26).
+Aisne (02), Marne (51). |
 
-|
+Vitry-le-François. |
 
-Pierrelatte, Taulignan.
+Marne (51), Haute-Marne (52), Meuse (55). |
 
-|
+Épernay. |
 
-Drôme (26), Vaucluse (84).
+Aisne (02), Aube (10), Marne (51). |
 
-|
+Châlons-en-Champagne. |
 
-Eure (27).
+Marne (51), Meuse (55). |
 
-|
+Haute-Marne (52). |
 
-Évreux.
+Joinville, Saint-Dizier |
 
-|
+Marne (51), Haute-Marne (52), Meuse (55). |
 
-Eure (27), Eure-et-Loir (28).
+Mayenne (53). |
 
-|
+Mayenne. |
 
-Gard (30).
+Ille-et-Vilaine (35), Manche (50), Mayenne (53), Orne (61), Sarthe (72). |
 
-|
+Laval, Château-Gontier-sur-Mayenne. |
 
-Saint-Hippolyte-du-Fort.
+Ille-et-Vilaine (35), Loire-Atlantique (44), Maine-et-Loire (49), Mayenne (53), Sarthe (72). |
 
-|
+Meurthe-et-Moselle (54). |
 
-Gard (30), Hérault (34).
+Val de Briey. |
 
-|
+Meurthe-et-Moselle (54), Moselle (57). |
 
-Haute-Garonne (31).
+Meuse (55). |
 
-|
+Commercy. |
 
-Saint-Gaudens.
+Marne (51), Haute-Marne (52), Meuse (55). |
 
-|
+Bar-le-Duc. |
 
-Haute-Garonne (31), Hautes-Pyrénées (65).
+Marne (51), Haute-Marne (52), Meuse (55). |
 
-|
+Morbihan (56). |
 
-Gironde (33).
+Pontivy. |
 
-|
+Côtes-d'Armor (22), Finistère (29), Morbihan (56). |
 
-Libourne.
+Ploërmel. |
 
-|
+Côtes-d'Armor (22), Ille-et-Vilaine (35), Morbihan (56). |
 
-Dordogne (24), Gironde (33).
+Lorient. |
 
-|
+Finistère (29), Morbihan (56). |
 
-Ille-et-Vilaine (35).
+Vannes. |
 
-|
+Loire-Atlantique (44), Morbihan (56). |
 
-Redon.
+Moselle (57). |
 
-|
+Sarrebourg, Sarreguemines. |
 
-Ille-et-Vilaine (35), Loire-Atlantique (44), Morbihan (56).
+Moselle (57), Bas-Rhin (67). |
 
-|
+Thionville. |
 
-Jura (39).
+Meurthe-et-Moselle (54), Moselle (57). |
 
-|
+Orne (61). |
 
-Dole.
+Argentan. |
 
-|
+Orne (61), Sarthe (72). |
 
-Doubs (25), Jura (39).
+Pas-de-Calais (62). |
 
-|
+Arras. |
 
-Lons-le-Saunier.
+Nord (59), Pas-de-Calais (62). |
 
-|
+Bas-Rhin (67). |
 
-Jura (39), Saône-et-Loire (71).
+Saverne. |
 
-|
+Moselle (57), Bas-Rhin (67). |
 
-Loiret (45).
+Sélestat. |
 
-|
+Bas-Rhin (67), Haut-Rhin (68). |
 
-Pithiviers.
+Haut-Rhin (68). |
 
-|
+Colmar. |
 
-Eure-et-Loir (28), Loiret (45), Seine-et-Marne (77).
+Bas-Rhin (67), Haut-Rhin (68). |
 
-|
+Saône-et-Loire (71). |
 
-Lot (46).
+Louhans. |
 
-|
+Jura (39), Saône-et-Loire (71). |
 
-Figeac.
+Seine-Maritime (76). |
 
-|
+Dieppe. |
 
-Aveyron (12), Lot (46).
+Seine-Maritime (76), Somme (80). |
 
-|
+Seine-et-Marne (77). |
 
-Maine-et-Loire (49).
+Coulommiers. |
 
-|
+Aisne (02), Marne (51), Seine-et-Marne (77), |
 
-Saumur.
+Provins. |
 
-|
+Aube (10), Marne (51), Seine-et-Marne (77). |
 
-Indre-et-Loire (37), Maine-et-Loire (49), Sarthe (72), Deux-Sèvres (79), Vienne (86).
+Somme (80). |
 
-|
+Conty. |
 
-Marne (51).
+Seine-Maritime (76), Somme (80). |
 
-|
+Var (83). |
 
-Reims.
+Draguignan. |
 
-|
+Alpes-de-Haute-Provence (04), Var (83). |
 
-Aisne (02), Marne (51).
+Brignoles. |
 
-|
+Alpes-de-Haute-Provence (04), Bouches-du-Rhône (13), Var (83), Vaucluse (84). |
 
-Vitry-le-François.
+Vaucluse (84). |
 
-|
+Orange. |
 
-Marne (51), Haute-Marne (52).
+Drôme (26), Vaucluse (84). |
 
-|
+Pertuis. |
 
-Épernay.
+Alpes-de-Haute-Provence (04), Bouches-du-Rhône (13), Var (83), Vaucluse (84). |
 
-|
+Vendée (85). |
 
-Aisne (02), Aube (10), Marne (51).
+Fontenay-le-Comte. |
 
-|
+Charente-Maritime (17), Deux-Sèvres (79), Vendée (85). |
 
-Châlons-en-Champagne.
+La Roche-sur-Yon. |
 
-|
+Loire-Atlantique (44), Maine-et-Loire (49), Deux-Sèvres (79), Vendée (85). |
 
-Marne (51), Meuse (55).
+Territoire de Belfort (90). |
 
-|
+Belfort. |
 
-Haute-Marne (52).
-
-|
-
-Joinville.
-
-|
-
-Marne (51), Haute-Marne (52), Meuse (55).
-
-|
-
-Mayenne (53).
-
-|
-
-Mayenne.
-
-|
-
-Ille-et-Vilaine (35), Manche (50), Mayenne (53), Orne (61), Sarthe (72).
-
-|
-
-Laval, Château-Gontier-sur-Mayenne.
-
-|
-
-Ille-et-Vilaine (35), Loire-Atlantique (44), Maine-et-Loire (49), Mayenne (53), Sarthe (72).
-
-|
-
-Meurthe-et-Moselle (54).
-
-|
-
-Val de Briey.
-
-|
-
-Meurthe-et-Moselle (54), Moselle (57).
-
-|
-
-Meuse (55).
-
-|
-
-Commercy.
-
-|
-
-Marne (51), Haute-Marne (52), Meuse (55).
-
-|
-
-Bar-le-Duc.
-
-|
-
-Haute-Marne (52), Meuse (55).
-
-|
-
-Morbihan (56).
-
-|
-
-Pontivy.
-
-|
-
-Côtes-d'Armor (22), Finistère (29), Morbihan (56).
-
-|
-
-Ploërmel.
-
-|
-
-Côtes-d'Armor (22), Ille-et-Vilaine (35), Morbihan (56).
-
-|
-
-Lorient.
-
-|
-
-Finistère (29), Morbihan (56).
-
-|
-
-Vannes.
-
-|
-
-Loire-Atlantique (44), Morbihan (56).
-
-|
-
-Moselle (57).
-
-|
-
-Sarrebourg, Sarreguemines.
-
-|
-
-Moselle (57), Bas-Rhin (67).
-
-|
-
-Thionville.
-
-|
-
-Meurthe-et-Moselle (54), Moselle (57).
-
-|
-
-Orne (61).
-
-|
-
-Argentan.
-
-|
-
-Orne (61), Sarthe (72).
-
-|
-
-Pas-de-Calais (62).
-
-|
-
-Arras.
-
-|
-
-Nord (59), Pas-de-Calais (62).
-
-|
-
-Bas-Rhin (67).
-
-|
-
-Saverne.
-
-|
-
-Moselle (57), Bas-Rhin (67).
-
-|
-
-Sélestat.
-
-|
-
-Bas-Rhin (67), Haut-Rhin (68).
-
-|
-
-Haut-Rhin (68).
-
-|
-
-Colmar.
-
-|
-
-Bas-Rhin (67), Haut-Rhin (68).
-
-|
-
-Saône-et-Loire (71).
-
-|
-
-Louhans.
-
-|
-
-Jura (39), Saône-et-Loire (71).
-
-|
-
-Seine-Maritime (76).
-
-|
-
-Dieppe.
-
-|
-
-Seine-Maritime (76), Somme (80).
-
-|
-
-Seine-et-Marne (77).
-
-|
-
-Coulommiers.
-
-|
-
-Aisne (02), Marne (51), Seine-et-Marne (77),
-
-|
-
-Provins.
-
-|
-
-Aube (10), Marne (51), Seine-et-Marne (77).
-
-|
-
-Somme (80).
-
-|
-
-Conty.
-
-|
-
-Seine-Maritime (76), Somme (80).
-
-|
-
-Var (83).
-
-|
-
-Draguignan.
-
-|
-
-Alpes-de-Haute-Provence (04), Var (83).
-
-|
-
-Brignoles.
-
-|
-
-Alpes-de-Haute-Provence (04), Bouches-du-Rhône (13), Var (83), Vaucluse (84).
-
-|
-
-Vaucluse (84).
-
-|
-
-Orange.
-
-|
-
-Drôme (26), Vaucluse (84).
-
-|
-
-Pertuis.
-
-|
-
-Alpes-de-Haute-Provence (04), Bouches-du-Rhône (13), Var (83), Vaucluse (84).
-
-|
-
-Vendée (85).
-
-|
-
-Fontenay-le-Comte.
-
-|
-
-Charente-Maritime (17), Deux-Sèvres (79), Vendée (85).
-
-|
-
-La Roche-sur-Yon.
-
-|
-
-Loire-Atlantique (44), Maine-et-Loire (49), Deux-Sèvres (79), Vendée (85).
-
-|
-
-Territoire de Belfort (90).
-
-|
-
-Belfort.
-
-|
-
-Doubs (25), Territoire de Belfort (90).
-
-|
+Doubs (25), Territoire de Belfort (90). |
