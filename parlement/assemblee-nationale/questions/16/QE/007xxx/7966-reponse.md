@@ -1,0 +1,9 @@
+# Réponse à la question n° 7966
+
+- Question : [7966](7966.md) — Question n° 7966 — Construction du lycée du Pays de Fayence
+
+## Réponse
+
+*JO du 2023-07-25, page 7027*
+
+Aux termes de l'article L. 214-5 du code de l'éducation, le conseil régional établit, après accord de chacune des collectivités concernées par les projets situés sur leur territoire, le programme prévisionnel des investissements relatifs aux lycées, qui résulte du schéma prévisionnel des formations, prévu quant à lui à l'article L. 214-1 de ce même code. A ce titre, le conseil régional définit la localisation des établissements, leur capacité d'accueil et le mode d'hébergement des élèves. Cet article dispose aussi que les districts de recrutement des élèves pour les lycées de l'académie sont définis conjointement par l'autorité académique et le conseil régional, en tenant compte des critères d'équilibre démographique, économique et social et en veillant à la mixité sociale. Ainsi, la région Provence-Alpes-Côte d'Azur (PACA) est compétente pour ce qui concerne l'ouverture d'un lycée dans le département du Var. Les services de la région académique Provence-Alpes-Côte d'Azur et des académies collaborent avec les services de la collectivité territoriale afin de fournir les éléments les plus objectifs pouvant éclairer ce type de décision. Au printemps 2023, une étude a été lancée dans le cadre d'un partenariat entre l'INSEE, le conseil régional et la région académique PACA, afin d'établir des éléments prospectifs de démographie des jeunes potentiellement scolarisés en lycée dans les dix ou quinze ans à venir en région PACA. Par souci de robustesse méthodologique, la prospective est établie en découpant le territoire régional en zones de vie dont la population ne peut être inférieure à 50 000 habitants. L'une de ces zones contiendra notamment les communes du pays de Fayence. Les conclusions de cette étude devraient être livrées avant la fin de l'année 2023.
