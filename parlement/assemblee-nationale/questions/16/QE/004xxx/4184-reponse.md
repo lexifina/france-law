@@ -1,0 +1,9 @@
+# Réponse à la question n° 4184
+
+- Question : [4184](4184.md) — Question n° 4184 — Production électrique par panneaux photovoltaïques
+
+## Réponse
+
+*JO du 2023-07-25, page 7084*
+
+Dans le cadre du plan d'investissement « France 2030 », le Président de la République Emmanuel Macron a détaillé, lors de son discours de Belfort en février 2022, les orientations de la nouvelle politique énergétique nationale. Il fixe notamment à 100GW la puissance photovoltaïque installée d'ici 2050. Le développement du photovoltaïque est en effet important, tant pour l'atteinte de nos objectifs de développement des énergies renouvelables afin de lutter contre le réchauffement climatique que pour garantir notre souveraineté énergétique. Aujourd'hui la filière PV représente une puissance installée d'environ 16GW : l'effort d'accélération d'ici 2050 est donc extrêmement conséquent. Afin de concilier ces objectifs avec les autres enjeux, et notamment de biodiversité, le Gouvernement encourage le développement du photovoltaïque sur terrains anthropisés, en notamment sur parkings Dès lors, des dispositifs d'aide ont été mis en place afin de soutenir la filière, et notamment les installations d'ombrières sur parking : Les installations sur bâtiment d'une puissance inférieure à 500 kWc bénéficient d'un arrêté tarifaire, avec obligation d'achat des volumes produits par EDF OA. Les installations sur bâtiment d'une puissance supérieure à 500 kWc bénéficient d'un appel d'offres dédié. Ce dernier couvre les « Centrales sur bâtiments, serres agricoles, hangars et ombrières de puissance supérieure à 500 kWc ». Hors dispositifs de soutien, d'autres solutions de valorisation de l'électricité produite existent, et notamment les contrats de gré à gré, contrats d'électricité de droit privé entre un producteur et un consommateur, qui peuvent être de temps long et permettent au producteur et au consommateur d'avoir une visibilité à long terme sur le prix de l'électricité.
