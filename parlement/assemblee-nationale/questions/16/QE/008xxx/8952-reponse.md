@@ -1,0 +1,9 @@
+# Réponse à la question n° 8952
+
+- Question : [8952](8952.md) — Question n° 8952 — Persécution des chrétiens d'Iran
+
+## Réponse
+
+*JO du 2023-07-25, page 7041*
+
+Les autorités françaises sont préoccupées par toutes les discriminations, y compris celles fondées sur la religion ou la conviction, et les mauvais traitements subis par les personnes athées, de confession chrétienne ou appartenant aux autres confessions minoritaires, tels que les bahaïs, en Iran. Elles suivent avec attention les situations qui leur sont rapportées. L'ONG « Portes ouvertes », qui publie chaque année un index de persécution des chrétiens dans le monde, classe l'Iran au huitième rang mondial en 2023. La France est pleinement mobilisée sur la situation des droits de l'Homme en Iran. Elle se montre particulièrement vigilante en matière de respect de la liberté de religion et de conviction, notamment garantie par le pacte international pour les droits civils et politiques, que l'Iran a ratifié en 1975. Dans les enceintes multilatérales, la France met la question des droits de l'Homme en Iran à l'ordre du jour de l'Assemblée générale des Nations unies en portant, avec plusieurs États, la résolution annuelle sur la situation des droits de l'Homme en République islamique d'Iran, qui fait notamment état de notre grave préoccupation face aux discriminations dont sont victimes les personnes de confession baha'ie et des autres confessions non reconnues. La dernière résolution a été adoptée le 15 décembre 2022. Au Conseil des droits de l'Homme des Nations unies, le 4 avril 2023, la France a soutenu le renouvellement du mandat du Rapporteur spécial des Nations unies sur la situation des droits de l'Homme en République islamique d'Iran. La France restera particulièrement vigilante quant à la situation des droits de l'Homme en Iran et notamment à celle des chrétiens.
