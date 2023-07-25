@@ -1,0 +1,9 @@
+# Réponse à la question n° 6504
+
+- Question : [6504](6504.md) — Question n° 6504 — Bilan du « Rendez-vous Santé » pour les demandeurs d'asile
+
+## Réponse
+
+*JO du 2023-07-25, page 7056*
+
+867 demandeurs d'asile primo-arrivants et signataires du contrat d'intégration républicaine (CIR), considérés comme vulnérables, ont bénéficié d'un rendez-vous santé (RVS) entre le 1er juin 2021 et le 31 décembre 2021 (399 à Toulouse, 253 à Strasbourg, 215 à Marseille). Un rendez-vous dure en moyenne une heure avec, si nécessaire, interprétariat. Chaque consultant est pris en charge par un binôme infirmier-médecin, et se voit proposer outre un examen clinique, un questionnaire de santé mentale, des tests de dépistage pour le VIH et les hépatites, des vaccins, et se voit remettre des lettres d'orientations vers des structures de soins spécialisées (PASS, CEGIDD, CLAT, etc.). La très grande majorité des patients ayant bénéficié d'un RVS fait l'objet d'une orientation vers un service de soins, principalement pour la prise en charge des troubles de la santé mentale, de syndromes post-traumatiques ou de problèmes bucco-dentaires. Cette expérimentation se poursuit en 2023 : 11 directions territoriales de l'Office français de l'immigration et de l'intégration (OFII) ont mis en place le RVS en 2022 et 6 nouvelles directions devraient le proposer en 2023. Au premier trimestre 2023, le RVS a été proposé à 9 465 demandeurs d'asile, dont 3 937 se sont effectivement présentés. 70 % des refus ont pour motif l'absence de problèmes de santé. 38,4 % RVS concernent des femmes. L'âge moyen des personnes qui ont réalisé le RVS est de 29 ans. Le coût total de cette expérimentation est de 144 000€, réparti essentiellement en dépenses de personnel (médecins et infirmières), puis en radiographies pulmonaires, tests de dépistage (TROD) et vaccins.
