@@ -1,0 +1,108 @@
+# Résolutions
+
+- Nature : Informations Parlementaires
+- Publication : 2023-07-26
+- JO n° : 0171
+- NOR : INPS2321050X
+- Origine : JORF n°0171 du 26 juillet 2023
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047883083
+
+## Article
+
+Sénat
+
+Résolution adoptée en application de l'article 88-4 de la Constitution
+
+Est devenue résolution du Sénat le 25 juillet 2023, conformément à l'article 73 quinquies, alinéas 2 et 3, du Règlement du Sénat, la proposition de résolution européenne de la commission de l'aménagement du territoire et du développement durable dont la teneur suit :
+
+Résolution européenne sur la gestion des déchets dans les outre-mer
+
+Le Sénat,
+
+Vu l'article 88-4 de la Constitution ;
+
+Vu les articles 175 à 178, 192 et 349 du traité de fonctionnement sur l'Union européenne (TFUE) ;
+
+Vu la Convention de Bâle sur le contrôle des mouvements transfrontières de déchets dangereux et de leur élimination, entrée en vigueur le 5 mai 1992 ;
+
+Vu le règlement (CE) n° 1013/2006 du 14 juin 2006 concernant les transferts de déchets ;
+
+Vu le règlement (UE) 2021/1058 du Parlement européen et du conseil du 24 juin 2021 relatif au Fonds européen de développement régional et au Fonds de cohésion ;
+
+Vu la proposition de règlement du Parlement européen et du Conseil relatif aux transferts de déchets et modifiant les règlements (UE) n° 1257/2013 et (UE) 2020/1056, COM(2021) 709 final ;
+
+Vu le mandat de négociation adopté par le Conseil, le 24 mai 2023, sur la proposition de règlement du Parlement européen et du Conseil relatif aux transferts de déchets et modifiant les règlements (UE) n° 1257/2013 et (UE) 2020/1056 ;
+
+Vu le rapport du Parlement européen, adopté le 17 janvier 2023, sur la proposition de règlement du Parlement européen et du Conseil relatif aux transferts de déchets et modifiant les règlements (UE) n° 1257/2013 et (UE) 2020/1056 ;
+
+Vu la communication de la Commission au Parlement européen, au Conseil européen, au Conseil, au Comité économique et social européen et au Comité des régions du 3 mai 2022 intitulée : « Donner la priorité aux citoyens, assurer une croissance durable et inclusive, libérer le potentiel des régions ultrapériphériques de l'Union », COM(2022) 198 final ;
+
+Vu le mémorandum conjoint des Régions Ultrapériphériques intitulé : « Pour un nouvel élan dans la mise en œuvre de l'article 349 du Traité sur le fonctionnement de l'Union européenne », publié en mars 2017 ;
+
+Vu le document de position commune aux trois États membres et aux neufs Régions Ultrapériphériques, publié dans le cadre de l'actualisation du partenariat stratégique de la Commission européenne avec les Régions Ultrapériphériques, le 19 janvier 2022 ;
+
+Vu le premier paquet de mesures du nouveau plan d'action en faveur de l'économie circulaire (nCEAP), présenté par la Commission européenne, le 30 mars 2022, qui vise à renforcer l'écoconception des produits, en élargissant la gamme des produits visés et en renforçant les exigences en la matière ;
+
+Vu l'article 209 de la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte ;
+
+Vu le rapport d'information n° 195 (2022-2023) de Mmes Gisèle Jourda et Viviane Malet, fait au nom de la délégation sénatoriale aux outre-mer, déposé le 8 décembre 2022 ;
+
+Considérant que le flux croissant de déchets défigure les paysages, altère les conditions de vie et détruit la biodiversité ;
+
+Considérant les retards et les manquements majeurs en matière de gestion des déchets et l'ampleur de l'urgence sanitaire et environnementale induite, la nécessité d'un rattrapage massif par rapport à l'Hexagone et le besoin de politiques volontaristes et durables axées sur l'économie circulaire et la valorisation énergétique ;
+
+Considérant que cette crise des déchets est liée, d'une part, à un taux d'enfouissement écrasant, un taux de valorisation faible et une valorisation énergétique quasi nulle, et, d'autre part, à des gisements importants qui échappent aux flux de collecte (déchets des quartiers informels, dépôts sauvages ou décharges illégales), sans compter les stocks historiques de véhicules hors d'usage abandonnés qui ne sont pas résorbés à ce jour ;
+
+Considérant l'urgence sanitaire dont font état les outre-mer du fait des maladies favorisées par cette situation ;
+
+Considérant que les outre-mer abritent 80 % de la biodiversité française et que l'asphyxie des forêts tropicales (mangroves) par les déchets menace les espèces présentes ;
+
+Considérant les vingt-six propositions dans tous les domaines - financements, coûts, gouvernance, ingénierie, coopération régionale, filières à responsabilité élargie des producteurs (REP), modes de collecte et de traitement… - figurant dans le rapport d'information du Sénat n° 195 (2022-2023) précité afin de lutter contre ce fléau ;
+
+Sur le financement européen du traitement des déchets et sur la pérennité des aides européennes
+
+Considérant que, dans le cadre de la programmation 2021-2027, les fonds européens prévoient des adaptations pour les régions ultrapériphériques (RUP) en application de l'article 349 du traité sur le fonctionnement de l'Union européenne ;
+
+Considérant l'enjeu déterminant que représente le maintien d'un taux de cofinancement majoré dans les RUP, ces collectivités manquant de fonds propres ;
+
+Demande que les adaptations en vigueur des règles relatives aux fonds européens pour la période 2021-2027 au bénéfice des RUP soient préservées et reconduites pour la prochaine période, en particulier celles permettant :
+
+- de continuer à y financer des équipements structurants de base comme les centres, les incinérateurs ou les déchetteries ;
+
+- d'y assouplir l'application de la « concentration thématique », c'est-à-dire l'obligation faite aux États membres et aux régions d'utiliser prioritairement les crédits européens au service de l'objectif stratégique de « transformation économique innovante et intelligente », qui n'est pas adaptée aux besoins de rattrapage structurel des RUP françaises ;
+
+- de conserver des taux de cofinancement de 85 % ;
+
+Demande que ces adaptations soient reconduites après 2027 ;
+
+Attire l'attention sur d'éventuelles difficultés de versement des aides européennes en raison de l'impossibilité des RUP d'atteindre les objectifs européens de recyclage ou de valorisation fixés par le « Paquet Économie Circulaire » de 2018, transposé par la loi n° 2020-105 du 10 février 2020 relative à la lutte contre le gaspillage et à l'économie circulaire, ce qui pourrait avoir un impact sur leur accès aux fonds européens ;
+
+Sur les transferts de déchets vers et hors de l'Union européenne
+
+Considérant que la Convention de Bâle ainsi que la décision de l'Organisation de coopération et développement économiques (OCDE), dont les dispositions ont été introduites dans le droit de l'Union, encadrent strictement les transferts de déchets dangereux à des fins de traitement entre pays de l'OCDE ;
+
+Considérant que la Convention de Bâle autorise les accords régionaux de transferts de déchets entre États, tant qu'ils sont compatibles avec la gestion écologiquement rationnelle des déchets (dangereux et autres) ;
+
+Souligne que cet encadrement strict des transferts de déchets dangereux, conçu pour s'appliquer à de grandes économies développées fortement connectées (l'Union européenne, le Japon, les États-Unis, l'Australie), est inadapté et surdimensionné pour des petits territoires insulaires, éloignés des principales routes commerciales et produisant des quantités infinitésimales de tels déchets ;
+
+Regrette que l'accord politique intervenu au Conseil, concernant la révision du règlement sur les transferts de déchets, ne prévoit pas d'adapter les conditions d'exportation des déchets hors de l'Union européenne aux spécificités des régions ultrapériphériques, en particulier leur éloignement géographique ;
+
+Salue l'introduction, proposée par le Conseil et le Parlement européen, dans la proposition de règlement sur les transferts de déchets, d'une disposition favorable aux transferts de déchets entre une région ultrapériphérique et l'État membre dont elle ressort, à savoir la réduction, en cas de transit par un État membre, du délai au terme duquel le consentement tacite de cet État peut être présumé, ce qui contribuera à faciliter les exportations de déchets des outre-mer vers l'Hexagone, et appelle, en conséquence, à maintenir cette mesure dans le texte final ;
+
+S'inquiète également des discussions en cours sur la révision du règlement sur les transferts de déchets qui pourraient encore durcir les conditions d'exportation des déchets hors de l'Union européenne, y compris s'agissant des déchets non dangereux et recyclables comme les plastiques ;
+
+Appelle à tenir compte des spécificités des régions ultrapériphériques lors des prochaines révisions des règles européennes en vigueur afin de faciliter les exportations des déchets des outre-mer, notamment dans leur environnement régional, dans le respect de la Convention de Bâle ;
+
+Affirme qu'une facilitation des transferts de déchets dans l'environnement régional n'est pas contradictoire avec la stratégie de développement de filières locales de traitement, qui peut permettre une massification des flux à l'échelle régionale ;
+
+Estime indispensable de garder ouverts des exutoires potentiels pour les déchets des outre-mer, dans l'hypothèse de la survenue de crises imprévues exigeant d'exporter les déchets, sous réserve de s'assurer que les conditions de traitement dans les pays tiers de réception sont équivalentes à celles en vigueur dans l'Union européenne ;
+
+Invite à ouvrir des négociations afin de conclure des accords régionaux pour le traitement des déchets des outre-mer français dans le cadre de la Convention de Bâle ;
+
+Appelle plus généralement l'Union européenne, sur le fondement de l'article 349 du TFUE, à adapter les règlements en vigueur et à venir aux contraintes particulières des outre-mer pour y faciliter la gestion des déchets et y encourager l'économie circulaire ;
+
+Invite le Gouvernement à défendre ces orientations au Conseil.
+
+Travaux préparatoires :
+
+Sénat. - Proposition de résolution européenne n° 627 (2022-2023) - Rapport n° 762 (2022-2023) fait par Mmes Marta de CIDRAC et Gisèle JOURDA au nom de la commission des affaires européennes - Texte n° 763 (2022-2023) de la commission des affaires européennes - Est devenue résolution du Sénat le 25 juillet 2023 - T.A. n° 167 (2022-2023).
