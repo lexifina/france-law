@@ -2,384 +2,194 @@
 
 NORMES HARMONISEES APPLICABLES EN COMPLEMENT AUX EXIGENCES DE LA PRESENTE DIVISION
 
-DOMAINE
+DOMAINE |
 
-|
+ARTICLE |
 
-ARTICLE
+NORMES |
 
-|
+NORME OBLIGATOIRE |
 
-NORMES
+Dimensions |
 
-|
+245-1.02 |
 
-NORME OBLIGATOIRE
+EN ISO 8666 |
 
-|
+O |
 
-Dimensions
+Puissance de propulsion/ machines thermiques |
 
-|
+245-1.02 |
 
-245-1.02
+EN ISO 8665 |
 
-|
+O |
 
-EN ISO 8666
+Identification des navires |
 
-|
+245-2.01 |
 
-O
+EN ISO 10087 |
 
-|
+O |
 
-Puissance de propulsion/ machines thermiques
+Plaque signalétique |
 
-|
+245-2.02 |
 
-245-1.02
+EN ISO 14945 |
 
-|
+N |
 
-EN ISO 8665
+Prévention des chutes par-dessus bord |
 
-|
+245-2.03 |
 
-O
+EN ISO 15085 |
 
-|
+N |
 
-Identification des navires
+Visibilité depuis le poste de pilotage |
 
-|
+245-2.04 |
 
-245-2.01
+EN ISO 11591 |
 
-|
+N |
 
-EN ISO 10087
+Manuel d'utilisation |
 
-|
+245-2.05 |
 
-O
+EN ISO 10240 |
 
-|
+N |
 
-Plaque signalétique
+Solidité de la construction |
 
-|
+245-4.01 |
 
-245-2.02
+EN ISO 12215 |
 
-|
+N |
 
-EN ISO 14945
+Stabilité, franc-bord et flottabilité |
 
-|
+245-4.02 |
 
-N
+EN ISO 12217 |
 
-|
+O |
 
-Prévention des chutes par-dessus bord
+Caractéristiques des ouvertures extérieures |
 
-|
+245-4.04 |
 
-245-2.03
+EN ISO 12216 |
 
-|
+N |
 
-EN ISO 15085
+Cockpits et puits formés dans les ponts |
 
-|
+245-4.06 |
 
-N
+EN ISO 11812 |
 
-|
+N |
 
-Visibilité depuis le poste de pilotage
+Systèmes de pompes de cale |
 
-|
+245-4.07 |
 
-245-2.04
+EN ISO 15083 |
 
-|
+N |
 
-EN ISO 11591
+Nombre maximal de personnes et charge maximale |
 
-|
+245-4.08 |
 
-N
+EN ISO 14946 |
 
-|
+N |
 
-Manuel d'utilisation
+Ventilation locaux machine |
 
-|
+245-5.05 |
 
-245-2.05
+EN ISO 11105 |
 
-|
+N |
 
-EN ISO 10240
+Réservoirs de carburant |
 
-|
+245-5.08 |
 
-N
+EN ISO 21487 |
 
-|
+N |
 
-Solidité de la construction
+Essai des circuits de combustible |
 
-|
+245-5.11 |
 
-245-4.01
+EN ISO 21487 |
 
-|
+N |
 
-EN ISO 12215
+Caractéristiques générales des installations électriques |
 
-|
+245-5.14 |
 
-N
+EN ISO 10133 |
 
-|
+N |
 
-Stabilité, franc-bord et flottabilité
+Caractéristiques générales des installations électriques |
 
-|
+245-5.14 |
 
-245-4.02
+NF EN ISO 13297 ou NF EN 60092-507 |
 
-|
+N |
 
-EN ISO 12217
+Caractéristiques générales des installations électriques |
 
-|
+245-5.14 |
 
-O
+ISO/ IEC 16315 |
 
-|
+Oui, pour les installations électriques triphasées. |
 
-Caractéristiques des ouvertures extérieures
+Caractéristiques des circuits de gaz liquéfiés à usage domestique |
 
-|
+245-5.28 |
 
-245-4.04
+EN ISO 29591 |
 
-|
+N |
 
-EN ISO 12216
+Systèmes de direction |
 
-|
+245-5.25 |
 
-N
+EN ISO 8847, EN ISO 28848, EN ISO 29775, EN ISO 10592, EN ISO 10239 |
 
-|
+N |
 
-Cockpits et puits formés dans les ponts
+Extinction dans les locaux machines |
 
-|
+245-5.34 |
 
-245-4.06
+EN ISO 9094 |
 
-|
+N |
 
-EN ISO 11812
+Prévention de la pollution par les eaux usées |
 
-|
+245-5.37 |
 
-N
-
-|
-
-Systèmes de pompes de cale
-
-|
-
-245-4.07
-
-|
-
-EN ISO 15083
-
-|
-
-N
-
-|
-
-Nombre maximal de personnes et charge maximale
-
-|
-
-245-4.08
-
-|
-
-EN ISO 14946
-
-|
-
-N
-
-|
-
-Ventilation locaux machine
-
-|
-
-245-5.05
-
-|
-
-EN ISO 11105
-
-|
-
-N
-
-|
-
-Réservoirs de carburant
-
-|
-
-245-5.08
-
-|
-
-EN ISO 21487
-
-|
-
-N
-
-|
-
-Essai des circuits de combustible
-
-|
-
-245-5.11
-
-|
-
-EN ISO 21487
-
-|
-
-N
-
-|
-
-Caractéristiques générales des installations électriques
-
-|
-
-245-5.14
-
-|
-
-EN ISO 10133
-
-|
-
-N
-
-|
-
-Caractéristiques générales des installations électriques
-
-|
-
-245-5.14
-
-|
-
-EN ISO 13297 ou IEC 60092-507
-
-|
-
-Oui, pour les installations à courant alternatif
-
-|
-
-Caractéristiques générales des installations électriques
-
-|
-
-245-5.14
-
-|
-
-ISO/ IEC 16315
-
-|
-
-Oui, pour les installations électriques triphasées.
-
-|
-
-Caractéristiques des circuits de gaz liquéfiés à usage domestique
-
-|
-
-245-5.28
-
-|
-
-EN ISO 29591
-
-|
-
-N
-
-|
-
-Systèmes de direction
-
-|
-
-245-5.25
-
-|
-
-EN ISO 8847, EN ISO 28848, EN ISO 29775, EN ISO 10592, EN ISO 10239
-
-|
-
-N
-
-|
-
-Extinction dans les locaux machines
-
-|
-
-245-5.34
-
-|
-
-EN ISO 9094
-
-|
-
-N
-
-|
-
-Prévention de la pollution par les eaux usées
-
-|
-
-245-5.37
-
-|
-
-EN ISO 8099
-
-|
+EN ISO 8099 |
 
 N |

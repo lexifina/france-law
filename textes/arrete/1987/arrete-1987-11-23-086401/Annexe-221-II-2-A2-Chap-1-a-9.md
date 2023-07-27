@@ -810,7 +810,7 @@ Le tableau de contrôle du dispositif de détection de l'incendie doit être mis
 
 2.3.3. Câbles
 
-Les câbles utilisés dans les circuits électriques doivent être retardateurs de flamme conformément à la norme CEI 60332-1. A bord des navires à passagers, les câbles qui traversent des tranches verticales principales autres que celles qu'ils desservent et les câbles d'alimentation des tableaux de commande situés dans un poste de commande du matériel d'incendie qui n'est pas gardé doivent résister au feu conformément à la norme CEI 60331, à moins qu'ils ne soient installés en double et bien séparés.
+Les câbles utilisés dans les circuits électriques doivent être retardateurs de flamme conformément à la norme NF EN 60332-1-2 : 2005 + A1 : 2015 + A11 : 2017 + A12 : 2020. A bord des navires à passagers, les câbles qui traversent des tranches verticales principales autres que celles qu'ils desservent et les câbles d'alimentation des tableaux de commande situés dans un poste de commande du matériel d'incendie qui n'est pas gardé doivent résister au feu conformément à la norme CEI 60331, à moins qu'ils ne soient installés en double et bien séparés.
 
 2.4. Prescriptions concernant l'installation
 
