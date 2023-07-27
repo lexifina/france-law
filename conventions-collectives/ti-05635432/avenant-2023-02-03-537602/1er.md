@@ -1,0 +1,19 @@
+# Article 1er
+
+L'article 1er « Affectation de la contribution » est modifié comme suit :
+
+« Article 1er
+
+Affectation des contributions conventionnelles obligatoires
+
+La contribution de 0,3 % de la masse salariale des intérimaires est répartie de la manière suivante :
+
+– 0,15 % au profit du régime de prévoyance des intérimaires ;
+
+– 0,146 % au profit du FASTT ;
+
+– 0,004 % au financement du paritarisme pour les organisations représentatives dans la branche, des employeurs et des salariés, pour leur permettre d'assurer l'information des salariés ainsi que la préparation et le suivi des actions du FASTT.
+
+Dans le cadre de la mise en œuvre de ce qui précède, les sommes collectées au titre du 0,004 % affecté au financement du paritarisme pour le suivi des actions du FASTT sont reversées par le FASTT à l'AGF-CPPNTT.
+
+La contribution de 0,15 % affecté au régime de prévoyance des intérimaires est définitivement intégrée aux cotisations, à la charge des entreprises, du régime de prévoyance mis en place par la branche du travail temporaire au bénéfice des salariés intérimaires non-cadres et cadres. Elle ne fait donc pas l'objet d'un recouvrement spécifique autre que le dispositif d'appel de cotisations mis en œuvre par le ou les organismes assureurs auprès desquels l'ETT/ETTI affilie ses salariés intérimaires. »
