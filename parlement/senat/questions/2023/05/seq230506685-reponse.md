@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230506685
+
+- Question : [SEQ230506685](seq230506685.md) — Modalités de calcul et de versement de la dotation pour les collectivités territoriales subissant une hausse de leurs dépenses énergétiques
+
+## Réponse
+
+*Comptes publics, JO du 2023-07-27, page 4666*
+
+L'article 113 de la loi de finances pour 2023 reconduit, au titre de l'année 2023, le dispositif prévu à l'article 14 de la loi de finances rectificative pour 2022 du 16 août 2022 visant à compenser certaines augmentations de dépenses d'énergie dues aux effets de l'inflation. Par rapport au dispositif 2022, le champ des collectivités éligibles au dispositif est élargi en 2023 puisque pourront bénéficier de cette dotation l'ensemble des collectivités locales et les groupements des communes qui remplissent les conditions cumulatives suivantes fixées par la loi : une perte d'au moins 15 % d'épargne brute entre les exercices 2022 et 2023 du fait du renchérissement des coûts liés à l'énergie ; pour les communes et les établissements publics de coopération intercommunale à fiscalité propre et les départements, un potentiel financier inférieur au double de la moyenne de leur strate démographique en 2023 et, pour les établissements publics de coopération intercommunale à fiscalité propre, un potentiel fiscal inférieur au double de la moyenne de leur groupe en 2023. Le décret pris en application de l'article 113 précisera les modalités de calcul et de versement de la dotation. Pour répondre aux préoccupations exprimées par les régions en comité des finances locales, les hausses des contributions qu'elles versent à « SNCF Voyageurs » et qui sont imputables à l'augmentation des coûts de l'énergie ont été ajoutées aux dépenses prises en compte pour le calcul des dotations. Il n'est pas envisagé de nouvelles modifications du projet de décret.
