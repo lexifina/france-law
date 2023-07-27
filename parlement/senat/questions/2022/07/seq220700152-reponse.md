@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700152
+
+- Question : [SEQ220700152](seq220700152.md) — Concurrence entre la filière d'emballage en bois léger et les filières d'emballages plastiques
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2023-07-27, page 4667*
+
+Le gouvernement est bien entendu attentif à la situation de la filière de fabrication des emballages en bois, et au fait que celle-ci puisse développer son activité dans les meilleures conditions. Les pouvoirs publics resteront donc attentifs au respect des règles de concurrence par tous les acteurs de ce secteur et que des comportements qui seraient qualifiables de pratiques anticoncurrentielles ou restrictives de concurrence feraient l'objet des suites appropriées. En ce qui concerne les règles sectorielles applicables, qui relèvent plus particulièrement du ministère chargé de la transition écologique, le plastique ne peut plus être utilisé pour les conditionnements de moins de 1,5 kg fruits et légumes frais présentés à la vente au consommateur, en application d'un décret d'application de la loi relative à la lutte contre le gaspillage et à l'économie circulaire (décret du 20 juin 2023 relatif à l'obligation de présentation à la vente des fruits et légumes frais non transformés sans conditionnement composé pour tout ou partie de matière plastique). La problématique propre aux matériaux utilisés pour l'emballage dans le cadre du commerce de gros des fruits et légumes soulève des questions techniques spécifiques. Le gouvernement est ouvert à une réflexion exploratoire avec les professionnels au sujet des initiatives qui pourraient être prises pour promouvoir l'utilisation de contenants en bois pour l'emballage au stade du commerce de gros de fruits et légumes. Ces professionnels peuvent, dans cette optique, se rapprocher des services de l'État concernés, notamment ceux du ministère de la Transition Écologique et de la Cohésion des Territoires.
