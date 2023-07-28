@@ -232,7 +232,7 @@ La programmation de France 3 assure une information nationale, régionale et loc
 
 En journée, la programmation Okoo a pour vocation de s'adresser aux enfants, aux jeunes et à leurs parents en contribuant à renforcer le lien entre ces générations. Elle accorde une place privilégiée aux programmes français et particulièrement aux œuvres françaises d'animation. Ses programmes favorisent notamment l'éveil, la curiosité et l'apprentissage de la citoyenneté en conjuguant approche éducative et divertissement.
 
-En soirée, la programmation Culturebox est principalement composée de spectacles vivants dans toute leur diversité (spectacles de théâtre, danse, opéras, ballets, concerts, festivals, etc.). Elle peut également comporter des manifestations, magazines, documentaires et divertissements culturels ainsi que des œuvres cinématographiques d'art et d'essai. Cette programmation n'est pas soumise aux dispositions de l'article 6 du présent cahier des charges.
+En soirée, la programmation Culturebox est principalement composée de spectacles vivants dans toute leur diversité (spectacles de théâtre, danse, opéras, ballets, concerts, festivals, etc.). Elle peut également comporter des manifestations, magazines, documentaires et divertissements culturels ainsi que des œuvres cinématographiques d'art et d'essai.
 
 La programmation de France 4 ne comporte aucun message publicitaire
 
@@ -300,43 +300,43 @@ Article 5
 
 Les émissions musicales
 
-France Télévisions diffuse régulièrement des émissions à caractère musical. Le contenu de ces émissions doit permettre de faire connaître aux téléspectateurs les diverses formes de musique, de rendre compte de l'actualité musicale et de promouvoir les nouveaux talents.
+France Télévisions diffuse régulièrement des émissions à caractère musical et des concerts dont le contenu doit permettre de faire connaître aux téléspectateurs les diverses formes de musique, de rendre compte de l'actualité musicale et de promouvoir les nouveaux talents.
 
 Dans ses programmes de variétés, la société donne une place majoritaire à la chanson d'expression française et développe une politique de grands événements, de nouvelles écritures télévisuelles et d'émissions régulières.
 
 Elle s'attache à présenter les nouveaux talents et leur permet d'interpréter leur propre répertoire, notamment dans leur expression régionale sur France 3 et les Outre-mer La 1ère. Elle s'efforce de diversifier l'origine des œuvres étrangères diffusées.
 
-En outre, la société diffuse chaque année des concerts de musique classique interprétés par des orchestres européens et français, nationaux et régionaux, parmi lesquels figurent ceux de Radio France dans des conditions conjointement définies entre les deux sociétés.
-
-Elle veille à illustrer toutes les formes d'expression de la musique vivante en ouvrant largement ses programmes aux retransmissions de spectacles publics présentés en France.
-
 Article 6
 
-Les spectacles
+Les spectacles et concerts
 
-France Télévisions fait connaître les diverses formes de l'expression théâtrale, lyrique ou chorégraphique et rend compte de leur actualité.
-
-Le théâtre fait l'objet de retransmissions régulières en direct sur les services nationaux de la société.
-
-France Télévisions diffuse des spectacles lyriques, chorégraphiques et dramatiques en veillant à ce que cette programmation traite de manière équitable chacun de ces trois genres. Ces spectacles sont :
-
-― produits par les théâtres, festivals et organismes d'action culturelle ;
-
-― spécialement créés ou recréés pour la télévision et interprétés par des artistes professionnels ;
-
-― ou présentés dans le cadre de manifestations exceptionnelles, telles que des concerts ou des spectacles événements, et interprétés par des artistes professionnels.
+I.-France Télévisions diffuse des spectacles lyriques, chorégraphiques, dramatiques et de cirque de création et des concerts, en veillant à ce que cette programmation traite de manière équitable chacun de ces genres. Ces spectacles et concerts sont captés ou recréés pour la télévision et interprétés par des artistes professionnels.
 
 Elle diffuse également des émissions, d'une durée unitaire minimale de 52 minutes, qui présentent le florilège de tels spectacles. Ces émissions replacent les œuvres dans leur contexte historique et dans leur continuité dramatique et réservent une place significative à la diffusion d'extraits de ces spectacles.
 
-Le conseil d'administration de la société fixe une obligation annuelle de diffusion de ces spectacles et émissions en utilisant la méthode suivante :
+Le théâtre fait l'objet de retransmissions régulières en direct sur les services nationaux de la société.
 
-― lorsque la diffusion a lieu en première partie de soirée, les après-midi du samedi, du dimanche, des jours de vacances scolaires et des jours fériés, elle est valorisée à trois points ;
+France Télévisions rend compte de l'actualité des diverses formes de l'expression théâtrale, lyrique ou chorégraphique.
 
-― lorsqu'elle débute entre 10 heures et 22 h 45 et n'est pas valorisable à trois points, elle est valorisée à deux points ;
+La société diffuse chaque année des concerts de musique classique interprétés par des orchestres européens et français, nationaux et régionaux, parmi lesquels figurent ceux de Radio France dans des conditions conjointement définies entre les deux sociétés.
 
-― pour les autres jours et horaires, la diffusion est valorisée à un point.
+Elle conclut des accords avec des établissements publics du ministère de la culture proposant des concerts et des spectacles en vue de la diffusion de captations.
 
-L'obligation annuelle de diffusion de la société ne peut être inférieure à 100 points.
+Elle veille à illustrer toutes les formes d'expression de la musique vivante en ouvrant largement ses programmes aux retransmissions de spectacles publics présentés en France.
+
+II.-La société propose annuellement sur ses services nationaux de télévision, à l'exception des programmes régionaux ou locaux de France 3, au moins 390 diffusions ou rediffusions de spectacles, concerts ou émissions mentionnés au I.
+
+Au moins 60 de ces diffusions ou rediffusions interviennent sur France 2, France 3 et France 5. Une part significative de cette obligation doit intervenir sur les seuls services France 2 et France 3.
+
+Ces diffusions ou rediffusions respectent les conditions suivantes :
+
+-la diffusion débute entre 18 heures et 23 heures ainsi que, le mercredi, le samedi, le dimanche, les jours fériés et pendant les vacances scolaires, entre 14 heures et 18 heures ;
+
+-seuls les spectacles et concerts diffusés dans leur intégralité sont pris en compte pour le respect de l'obligation ;
+
+-les émissions mentionnées au I ne peuvent représenter que 10 % des obligations mentionnées aux premier et deuxième alinéas.
+
+III.-Sur ses services de médias audiovisuels à la demande mentionnés au 6° de l'article 3 du présent cahier des charges, France Télévisions met en valeur à tout moment les spectacles, concerts et émissions mentionnés aux premier et deuxième alinéas du I du présent article autrement que par la seule mention du titre. En tenant compte des capacités de personnalisation par les utilisateurs, France Télévisions assure cette mise en valeur sur la page d'accueil des services, par l'exposition de visuels et de rubriques spécifiques, dans les recommandations de contenus individualisés ou non suggérés à ses utilisateurs, dans les recherches de programmes initiés par l'utilisateur ainsi qu'au sein des campagnes promotionnelles de ses services.
 
 Article 7
 
