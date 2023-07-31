@@ -398,125 +398,77 @@ B |
 
 Direction départementale des territoires du Jura
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification de l'emploi
+Nombre
 
-|
+d'emplois |
 
-NOMBRE
+Nombre
 
-d'emplois
+de points (IM)
 
-|
-
-NOMBRE DE POINTS (IM)
-
-par emploi
-
-|
+par emploi |
 
 Chef du service connaissance prospective habitat |
 
-A
+A |
 
-|
+1 |
 
-1
+35 |
 
-|
+Chef du bureau habitat-Service connaissance prospective habitat |
 
-35
+A |
 
-|
+1 |
 
-Chef du pôle habitat - Service connaissance prospective habitat |
+35 |
 
-A
+Chargé des fonctions sociales du logement, gens du voyage-Bureau habitat-Service connaissance prospective habitat |
 
-|
+B |
 
-1
+1 |
 
-|
+25 |
 
-35
+Chargé de mission logement locatif social, programmation, délégations de compétences, tutelle HLM, renouvellement urbain-Bureau habitat-Service connaissance prospective habitat |
 
-|
+B |
 
-Chargé des fonctions sociales du logement, gens du voyage-Pôle habitat-Service connaissance prospective habitat |
+1 |
 
-B
+25 |
 
-|
+Chargé de mission aides du parc privé-Délégation locale de l'ANAH-Bureau habitat-Service connaissance prospective habitat |
 
-1
+B |
 
-|
+1 |
 
-25
+25 |
 
-|
+Assistant référent de communication-Service connaissance prospective habitat |
 
-Chargé de mission logement locatif programmation, délégation de compétences, tutelle HLM, renouvellement urbain-Pôle habitat-Service connaissance prospective habitat |
+C |
 
-B
+1 |
 
-|
+15 |
 
-1
+Secrétaire-Bureau habitat-Service connaissance prospective habitat |
 
-|
+C |
 
-25
+1 |
 
-|
-
-Chargé de mission aides du parc privé-Pôle habitat-Service connaissance prospective habitat |
-
-B
-
-|
-
-1
-
-|
-
-25
-
-|
-
-Chargé de la commission de conciliation, conventionnement Etat-Pôle habitat-Service connaissance prospective habitat |
-
-C
-
-|
-
-1
-
-|
-
-15
-
-|
-
-Secrétaire du pôle habitat-Pôle habitat-Service connaissance prospective habitat |
-
-C
-
-|
-
-1
-
-|
-
-15
-
-|
+15 |
 
 Direction départementale de l'équipement et de l'agriculture (2) des Landes
 
@@ -822,4 +774,6 @@ Se reporter aux conditions d'application prévues à l'article 1 de l'arrêté d
 
 Se reporter aux conditions d'application prévues à l'article 1 de l'arrêté du 14 février 2023 (NOR: TREK2304665A).
 
-Conformément à l'article 1 de l'arrêté du 11 mai 2023 (NOR : TREK2312890A), la présente annexe est remplacée, à effet du 4 mai 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Loiret.
+Conformément à l'article 1er de l'arrêté du 11 mai 2023 (NOR : TREK2312890A), la présente annexe est remplacée, à effet du 4 mai 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Loiret.
+
+Conformément à l'article 1er de l'arrêté du 20 juin 2023 (NOR : TREK2316871A), la présente annexe est remplacée, à effet du 1er mars 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Jura.
