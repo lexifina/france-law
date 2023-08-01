@@ -4,828 +4,828 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° A la direction générale de la gendarmerie nationale, le chef du bureau :
 
--de l'action sociale, des blessés et du handicap
+-de l'action sociale, des blessés et du handicap ;
 
--agorha des ressources humaines droits individuels
+-agorha des ressources humaines droits individuels ;
 
--agorha études et qualités
+-agorha études et qualités ;
 
--du budget et de la réglementation
+-du budget et de la réglementation ;
 
--du contrôle opérationnel des fichiers
+-du contrôle opérationnel des fichiers ;
 
--des effectifs et des référentiels
+-coordination et pilotage ;
 
--des équipements de proximité
+-des effectifs et des référentiels ;
 
--des équipements périphériques
+-des équipements de proximité ;
 
--des études d'organisation
+-des équipements périphériques ;
 
--de la formation
+-des études d'organisation ;
 
--des généraux de la gendarmerie
+-des généraux de la gendarmerie ;
 
--image
+-image ;
 
--de la lutte antiterroriste
+-de la lutte anti-terroriste ;
 
--du management de l'information opérationnelle
+-du management de l'information opérationnelle ;
 
--médias
+-médias ;
 
--de la mobilité et de la proximité numérique
+-de la mobilité et de la proximité numérique ;
 
--de l'organisation
+-de l'organisation ;
 
--du pilotage des services
+-du pilotage des services ;
 
--de la délinquance générale
+-de la délinquance générale ;
 
--de la préparation et du pilotage de la masse salariale
+-de la préparation et du pilotage de la masse salariale ;
 
--de la prévention et des partenariats de sécurité
+-de la prévention et des partenariats de sécurité ;
 
--de la prospective, de la programmation et du pilotage immobilier
+-de la prospective, de la programmation et du pilotage immobilier ;
 
--prospective radiocommunication
+-prospective radiocommunication ;
 
--des recours et de la protection fonctionnelle
+-des recours et de la protection fonctionnelle ;
 
--du recrutement, des concours et des examens
+-des référentiels métiers ;
 
--des référentiels métiers
+-de la réglementation et de la fonction militaire ;
 
--de la réglementation et de la fonction militaire
+-des salles de crise et de commandement ;
 
--des salles de crise et de commandement
+-bureau de la santé et de la sécurité au travail ;
 
--bureau de la santé et de la sécurité au travail
+-de la stratégie des compétences ;
 
--du suivi de la synthèse et de la veille opérationnelle
+-du suivi de la synthèse et de la veille opérationnelle ;
 
--des systèmes d'aide à l'enquête
+-des systèmes d'aide à l'enquête ;
 
--des utilisateurs et du pilotage
+-des utilisateurs et du pilotage ;
 
--de l'emploi, des soutiens et des finances au sein du commandement de la gendarmerie pour les réserves et la jeunesse
+-de l'emploi, des soutiens et des finances au sein du commandement de la gendarmerie pour les réserves et la jeunesse ;
 
--Chargé de mission au cabinet du directeur général de la gendarmerie nationale (1 emploi)
+-chargé de mission au sein du commandement de la gendarmerie pour les réserves et la jeunesse (1 emploi) ;
 
--Chargé de mission au sein du commandement de la gendarmerie pour les réserves et la jeunesse (1 emploi)
+-chargé de projet auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (3 emplois) ;
 
--Chargé de projet auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (3 emplois)
+-chef du pôle des perspectives professionnelles à la sous-direction du personnel officier ;
 
--Chef du pôle des perspectives professionnelles au département du personnel officier
+-au centre national des opérations, le chef du bureau :
 
--Chef J1 du centre national des opérations
+-J1 ;
 
--Chef J3 du centre national des opérations
+-J3 ;
 
--Chef J4 du centre national des opérations
+-J4 ;
 
--Chef J5 du centre national des opérations
+-J5 ;
 
--Chef J6 du centre national des opérations
+-J6 ;
 
--Chef J7 du centre national des opérations
+-J7 ;
 
--Chef J8 du centre national des opérations
+-J8 ;
 
--Chef J9 du centre national des opérations
+-J9 ;
 
-Au service de la transformation, le chef du département :
+-au service de la transformation, le chef du département :
 
--de l'accompagnement et de la conformité
+-de l'administration de la donnée ;
 
--de la prospective et de l'innovation
+-de la prospective et de l'innovation ;
 
--de l'évaluation et de la valorisation
+-de l'accompagnement et de la transformation ;
 
--Chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure
+-chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure ;
 
--Chef de bureau à la direction du numérique (4 emplois)
+-chef de bureau à la direction du numérique (4 emplois) ;
 
--Chef du centre sécurité économique et protection des entreprises
+-chef du centre sécurité économique et protection des entreprises ;
 
--Chef du centre national d'expertise numérique auprès du commandement de la gendarmerie dans le cyberespace
+-chef du centre national d'expertise numérique auprès du commandement de la gendarmerie dans le cyberespace ;
 
--Chef du centre national d'assistance cyber auprès du commandement de la gendarmerie dans le cyberespace
+-chef du centre national d'assistance cyber auprès du commandement de la gendarmerie dans le cyberespace ;
 
--Chef de division au service central de renseignement criminel de la gendarmerie nationale (4 emplois)
+-chef de division au service central de renseignement criminel de la gendarmerie nationale (4 emplois) ;
 
--Chef de division à l'institut de recherches criminelles de la gendarmerie nationale (4 emplois)
+-chef de division à l'institut de recherches criminelles de la gendarmerie nationale (4 emplois) ;
 
--Au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, chef du bureau :
+-au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, chef du bureau :
 
--logistique des équipements
+-logistique des équipements ;
 
--logistique de la mobilité
+-logistique de la mobilité ;
 
--Adjoint au chef du bureau :
+-adjoint au chef du bureau :
 
--de l'analyse et de l'anticipation
+-de l'analyse et de l'anticipation ;
 
--de la stratégie et de l'innovation
+-de la stratégie et de l'innovation ;
 
--du cabinet
+-du cabinet ;
 
--de la chancellerie
+-de la chancellerie ;
 
--de la défense et sécurité nationale
+-de la défense et sécurité nationale ;
 
--de la rémunération et des pensions militaires
+-de la rémunération et des pensions militaires ;
 
--opérateur des réseaux radiocommunication
+-opérateur des réseaux radiocommunication ;
 
--des outils de soutien et des statistiques
+-des outils de soutien et des statistiques ;
 
--parcours mobilité
+-parcours mobilité ;
 
--de la préparation et du pilotage du fonctionnement et de l'investissement
+-de la préparation et du pilotage du fonctionnement et de l'investissement ;
 
--de la sécurité et de l'ordre publics
+-de la sécurité et de l'ordre publics ;
 
--de la sécurité des mobilités
+-de la sécurité des mobilités ;
 
--de la synthèse budgétaire
+-de la synthèse budgétaire ;
 
--du personnel sous-officier de gendarmerie et volontaire
+-du personnel sous-officier de gendarmerie et volontaire ;
 
--du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale
+-du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale ;
 
 2° Inspection générale de la gendarmerie nationale :
 
--Chef du bureau de l'audit de la sécurité des systèmes d'information
+-chef du bureau de l'audit de la sécurité des systèmes d'information ;
 
--Adjoint au chef de l'antenne déconcentrée de l'inspection générale de la gendarmerie nationale (6 emplois)
+-adjoint au chef de l'antenne déconcentrée de l'inspection générale de la gendarmerie nationale (6 emplois) ;
 
 3° Gendarmerie départementale :
 
--Chef d'un centre zonal des opérations (7 emplois)
+-chef d'un centre zonal des opérations (7 emplois) ;
 
--Officier adjoint soutien finances d'une région de gendarmerie zonale (7 emplois)
+-officier adjoint soutien finances d'une région de gendarmerie zonale (7 emplois) ;
 
--Officier adjoint ressources humaines d'une région de gendarmerie zonale (7 emplois)
+-officier adjoint ressources humaines d'une région de gendarmerie zonale (7 emplois) ;
 
--Chef de la division de l'emploi de la région de gendarmerie de :
+-chef de la division de l'emploi de la région de gendarmerie de :
 
--Bourgogne
+-Bourgogne ;
 
--Corse
+-Corse ;
 
--Centre-Val de Loire
+-Centre-Val de Loire ;
 
--Normandie
+-Normandie ;
 
--Pays de la Loire
+-Pays de la Loire ;
 
--Commandant de la section de recherches de Bourges
+-commandant de la section de recherches de Bourges ;
 
--Commandant de la section de recherches en second de :
+-commandant de la section de recherches en second de :
 
--Angers
+-Angers ;
 
--Besançon
+-Besançon ;
 
--Caen
+-Caen ;
 
--Chambéry
+-Chambéry ;
 
--Clermont-Ferrand
+-Clermont-Ferrand ;
 
--Limoges
+-Limoges ;
 
--Metz
+-Metz ;
 
--Nancy
+-Nancy ;
 
--Nantes
+-Nantes ;
 
--Nîmes
+-Nîmes ;
 
--Pau
+-Pau ;
 
--Poitiers
+-Poitiers ;
 
--Rouen
+-Rouen ;
 
--Chef opérations du groupement de gendarmerie départementale :
+-chef opérations du groupement de gendarmerie départementale :
 
--de la Loire-Atlantique
+-de la Loire-Atlantique ;
 
--de la Haute-Garonne
+-de la Haute-Garonne ;
 
--de la Côte-d'Or
+-de la Côte-d'Or ;
 
--du Loiret
+-du Loiret ;
 
--de la Corse-du-Sud
+-de la Corse-du-Sud ;
 
--de la Seine-Maritime
+-de la Seine-Maritime ;
 
--Officier adjoint de police judiciaire du groupement de gendarmerie départementale (1 emploi) :
+-officier adjoint de police judiciaire du groupement de gendarmerie départementale (1 emploi) :
 
--de l'Ain
+-de l'Ain ;
 
--de l'Aisne
+-de l'Aisne ;
 
--de l'Allier
+-de l'Allier ;
 
--des Alpes-de-Haute-Provence
+-des Alpes-de-Haute-Provence ;
 
--des Alpes-Maritimes
+-des Alpes-Maritimes ;
 
--de l'Ardèche
+-de l'Ardèche ;
 
--des Ardennes
+-des Ardennes ;
 
--de l'Aube
+-de l'Aube ;
 
--de l'Aude
+-de l'Aude ;
 
--de l'Aveyron
+-de l'Aveyron ;
 
--du Bas-Rhin
+-du Bas-Rhin ;
 
--des Bouches-du-Rhône
+-des Bouches-du-Rhône ;
 
--du Calvados
+-du Calvados ;
 
--de la Charente
+-de la Charente ;
 
--de la Charente-Maritime
+-de la Charente-Maritime ;
 
--du Cher
+-du Cher ;
 
--de Corrèze
+-de Corrèze ;
 
--de la Côte-d'Or
+-de la Côte-d'Or ;
 
--des Côtes-d'Armor
+-des Côtes-d'Armor ;
 
--des Deux-Sèvres
+-des Deux-Sèvres ;
 
--de Dordogne
+-de Dordogne ;
 
--du Doubs
+-du Doubs ;
 
--de la Drôme
+-de la Drôme ;
 
--de l'Essonne
+-de l'Essonne ;
 
--du Finistère
+-du Finistère ;
 
--de l'Eure
+-de l'Eure ;
 
--d'Eure-et-Loir
+-d'Eure-et-Loir ;
 
--du Gard
+-du Gard ;
 
--de Gironde
+-de Gironde ;
 
--du Haut-Rhin
+-du Haut-Rhin ;
 
--de Haute-Corse
+-de Haute-Corse ;
 
--de la Haute-Garonne
+-de la Haute-Garonne ;
 
--de la Haute-Savoie
+-de la Haute-Savoie ;
 
--de la Haute-Saône
+-de la Haute-Saône ;
 
--de la Haute-Vienne
+-de la Haute-Vienne ;
 
--de l'Hérault
+-de l'Hérault ;
 
--de l'Ille-et-Vilaine
+-de l'Ille-et-Vilaine ;
 
--d'Indre-et-Loire
+-d'Indre-et-Loire ;
 
--de l'Isère
+-de l'Isère ;
 
--du Jura
+-du Jura ;
 
--des Landes
+-des Landes ;
 
--de la Loire
+-de la Loire ;
 
--de la Loire-Atlantique
+-de la Loire-Atlantique ;
 
--du Loir-et-Cher
+-du Loir-et-Cher ;
 
--du Loiret
+-du Loiret ;
 
--du Lot-et-Garonne
+-du Lot-et-Garonne ;
 
--du Maine-et-Loire
+-du Maine-et-Loire ;
 
--de la Manche
+-de la Manche ;
 
--de la Marne
+-de la Marne ;
 
--de Meurthe-et-Moselle
+-de Meurthe-et-Moselle ;
 
--du Morbihan
+-du Morbihan ;
 
--de Moselle
+-de Moselle ;
 
--de la Nièvre
+-de la Nièvre ;
 
--du Nord
+-du Nord ;
 
--de l'Oise
+-de l'Oise ;
 
--de l'Orne
+-de l'Orne ;
 
--du Pas-de-Calais
+-du Pas-de-Calais ;
 
--du Puy-de-Dôme
+-du Puy-de-Dôme ;
 
--des Pyrénées-Atlantiques
+-des Pyrénées-Atlantiques ;
 
--des Pyrénées-Orientales
+-des Pyrénées-Orientales ;
 
--du Rhône
+-du Rhône ;
 
--de la Saône-et-Loire
+-de la Saône-et-Loire ;
 
--de la Sarthe
+-de la Sarthe ;
 
--de la Savoie
+-de la Savoie ;
 
--de Seine-et-Marne
+-de la Seine-et-Marne ;
 
--de la Seine-Maritime
+-de la Seine-Maritime ;
 
--de la Somme
+-de la Somme ;
 
--du Tarn
+-du Tarn ;
 
--du Val-d'Oise
+-du Val-d'Oise ;
 
--du Var
+-du Var ;
 
--du Vaucluse
+-du Vaucluse ;
 
--de la Vendée
+-de la Vendée ;
 
--de la Vienne
+-de la Vienne ;
 
--des Vosges
+-des Vosges ;
 
--de l'Yonne
+-de l'Yonne ;
 
--des Yvelines
+-des Yvelines ;
 
--Officier adjoint commandement du groupement de gendarmerie départementale (1 emploi) :
+-officier adjoint commandement du groupement de gendarmerie départementale (1 emploi) :
 
--de l'Ain
+-de l'Ain ;
 
--de l'Aisne
+-de l'Aisne ;
 
--de l'Allier
+-de l'Allier ;
 
--des Alpes-de-Haute-Provence
+-des Alpes-de-Haute-Provence ;
 
--des Alpes-Maritimes
+-des Alpes-Maritimes ;
 
--de l'Ardèche
+-de l'Ardèche ;
 
--des Ardennes
+-des Ardennes ;
 
--de l'Aube
+-de l'Aube ;
 
--de l'Aude
+-de l'Aude ;
 
--de l'Aveyron
+-de l'Aveyron ;
 
--du Bas-Rhin
+-du Bas-Rhin ;
 
--des Bouches-du-Rhône
+-des Bouches-du-Rhône ;
 
--du Calvados
+-du Calvados ;
 
--de la Charente
+-de la Charente ;
 
--de la Charente-Maritime
+-de la Charente-Maritime ;
 
--du Cher
+-du Cher ;
 
--de Corrèze
+-de Corrèze ;
 
--des Côtes-d'Armor
+-des Côtes-d'Armor ;
 
--des Deux-Sèvres
+-des Deux-Sèvres ;
 
--de Dordogne
+-de Dordogne ;
 
--du Doubs
+-du Doubs ;
 
--de la Drôme
+-de la Drôme ;
 
--de l'Essonne
+-de l'Essonne ;
 
--du Finistère
+-du Finistère ;
 
--de l'Eure
+-de l'Eure ;
 
--d'Eure-et-Loir
+-d'Eure-et-Loir ;
 
--du Gard
+-du Gard ;
 
--de Gironde
+-de Gironde ;
 
--du Haut-Rhin
+-du Haut-Rhin ;
 
--de Haute-Corse
+-de Haute-Corse ;
 
--de la Haute-Savoie
+-de la Haute-Savoie ;
 
--de la Haute-Saône
+-de la Haute-Saône ;
 
--de la Haute-Vienne
+-de la Haute-Vienne ;
 
--de l'Hérault
+-de l'Hérault ;
 
--de l'Ille-et-Vilaine
+-de l'Ille-et-Vilaine ;
 
--d'Indre-et-Loire
+-d'Indre-et-Loire ;
 
--de l'Isère
+-de l'Isère ;
 
--du Jura
+-du Jura ;
 
--des Landes
+-des Landes ;
 
--de la Loire
+-de la Loire ;
 
--du Loir-et-Cher
+-du Loir-et-Cher ;
 
--du Lot-et-Garonne
+-du Lot-et-Garonne ;
 
--du Maine-et-Loire
+-du Maine-et-Loire ;
 
--de la Manche
+-de la Manche ;
 
--de la Marne
+-de la Marne ;
 
--de Meurthe-et-Moselle
+-de Meurthe-et-Moselle ;
 
--du Morbihan
+-du Morbihan ;
 
--de Moselle
+-de Moselle ;
 
--de la Nièvre
+-de la Nièvre ;
 
--du Nord
+-du Nord ;
 
--de l'Oise
+-de l'Oise ;
 
--de l'Orne
+-de l'Orne ;
 
--du Pas-de-Calais
+-du Pas-de-Calais ;
 
--du Puy-de-Dôme
+-du Puy-de-Dôme ;
 
--des Pyrénées-Atlantiques
+-des Pyrénées-Atlantiques ;
 
--des Pyrénées-Orientales
+-des Pyrénées-Orientales ;
 
--du Rhône
+-du Rhône ;
 
--de la Saône-et-Loire
+-de la Saône-et-Loire ;
 
--de la Sarthe
+-de la Sarthe ;
 
--de la Savoie
+-de la Savoie ;
 
--de Seine-et-Marne
+-de la Seine-et-Marne ;
 
--de la Somme
+-de la Somme ;
 
--du Tarn
+-du Tarn ;
 
--du Val-d'Oise
+-du Val-d'Oise ;
 
--du Var
+-du Var ;
 
--du Vaucluse
+-du Vaucluse ;
 
--de la Vendée
+-de la Vendée ;
 
--de la Vienne
+-de la Vienne ;
 
--des Vosges
+-des Vosges ;
 
--de l'Yonne
+-de l'Yonne ;
 
--des Yvelines
+-des Yvelines ;
 
--Commandant de la compagnie de gendarmerie départementale :
+-commandant de la compagnie de gendarmerie départementale :
 
--d'Aix-en-Provence
+-d'Aix-en-Provence ;
 
--d'Alès
+-d'Alès ;
 
--d'Angers
+-d'Angers ;
 
--d'Annecy
+-d'Annecy ;
 
--de l'Arbresle
+-de l'Arbresle ;
 
--d'Arles
+-d'Arles ;
 
--d'Arras
+-d'Arras ;
 
--d'Aubagne
+-d'Aubagne ;
 
--d'Auxerre
+-d'Auxerre ;
 
--d'Avesnes-sur-Helpe
+-d'Avesnes-sur-Helpe ;
 
--d'Avignon
+-d'Avignon ;
 
--de Bayonne
+-de Bayonne ;
 
--de Besançon
+-de Besançon ;
 
--de Béziers
+-de Béziers ;
 
--de Bonneville
+-de Bonneville ;
 
--de Bouliac
+-de Bouliac ;
 
--de Bourg-en-Bresse
+-de Bourg-en-Bresse ;
 
--de Bourgoin-Jallieu
+-de Bourgoin-Jallieu ;
 
--de Brignoles
+-de Brignoles ;
 
--de Brive-la-Gaillarde
+-de Brive-la-Gaillarde ;
 
--de Bron
+-de Bron ;
 
--de Caen
+-de Caen ;
 
--de Calais
+-de Calais ;
 
--de Cambrai
+-de Cambrai ;
 
--de Cannes
+-de Cannes ;
 
--de Carcassonne
+-de Carcassonne ;
 
--de Castelnau-le-Lez
+-de Castelnau-le-Lez ;
 
--de Castres
+-de Castres ;
 
--de Chambéry
+-de Chambéry ;
 
--de Chantilly
+-de Chantilly ;
 
--de Château-Gontier
+-de Château-Gontier ;
 
--de Colmar
+-de Colmar ;
 
--de Commercy
+-de Commercy ;
 
--de Compiègne
+-de Compiègne ;
 
--de Coulommiers
+-de Coulommiers ;
 
--de Crest
+-de Crest ;
 
--de Dax
+-de Dax ;
 
--de Douai
+-de Douai ;
 
--de Draguignan
+-de Draguignan ;
 
--d'Etampes
+-d'Etampes ;
 
--d'Evry
+-d'Evry ;
 
--de La Flèche
+-de la Flèche ;
 
--de Gex
+-de Gex ;
 
--de Givors
+-de Givors ;
 
--de Grenoble
+-de Grenoble ;
 
--de l'Isle-Adam
+-de l'Isle-Adam ;
 
--de Langon-Toulenne
+-de Langon-Toulenne ;
 
--de Libourne
+-de Libourne ;
 
--de Lille
+-de Lille ;
 
--de Lorient
+-de Lorient ;
 
--de Lunel
+-de Lunel ;
 
--de Lure
+-de Lure ;
 
--de Lyon
+-de Lyon ;
 
--du Mans
+-du Mans ;
 
--de Mantes-la-Jolie
+-de Mantes-la-Jolie ;
 
--de Marmande
+-de Marmande ;
 
--de Meaux
+-de Meaux ;
 
--de Mérignac
+-de Mérignac ;
 
--de Méru
+-de Méru ;
 
--de Metz
+-de Metz ;
 
--de Meylan
+-de Meylan ;
 
--de Montbéliard
+-de Montbéliard ;
 
--de Montbrison
+-de Montbrison ;
 
--de Montmorency
+-de Montmorency ;
 
--de Mulhouse
+-de Mulhouse ;
 
--de Muret
+-de Muret ;
 
--de Nancy
+-de Nancy ;
 
--de Nantes
+-de Nantes ;
 
--de Narbonne
+-de Narbonne ;
 
--de Nîmes
+-de Nîmes ;
 
--de Niort
+-de Niort ;
 
--d'Orléans
+-d'Orléans ;
 
--de Palaiseau
+-de Palaiseau ;
 
--de Perpignan
+-de Perpignan ;
 
--de Pertuis
+-de Pertuis ;
 
--de Pézenas
+-de Pézenas ;
 
--de Rambouillet
+-de Rambouillet ;
 
--de Remiremont
+-de Remiremont ;
 
--de Rennes
+-de Rennes ;
 
--de Rezé
+-de Rezé ;
 
--de La Roche-sur-Yon
+-de La Roche-sur-Yon ;
 
--de Rochefort
+-de Rochefort ;
 
--de Rodez
+-de Rodez ;
 
--de Romans-sur-Isère
+-de Romans-sur-Isère ;
 
--des Sables-d'Olonne
+-des Sables-d'Olonne ;
 
--de Saint-Brieuc
+-de Saint-Brieuc ;
 
--de Saint-Germain-en-Laye
+-de Saint-Germain-en-Laye ;
 
--de Saint-Nazaire
+-de Saint-Nazaire ;
 
--de Salon-de-Provence
+-de Salon-de-Provence ;
 
--de Senlis
+-de Senlis ;
 
--de Sens
+-de Sens ;
 
--de Soultz-Guebwiller
+-de Soultz-Guebwiller ;
 
--de Strasbourg
+-de Strasbourg ;
 
--de Thionville
+-de Thionville ;
 
--de Toulouse-Mirail
+-de Toulouse-Mirail ;
 
--de Toulouse-Saint-Michel
+-de Toulouse-Saint-Michel ;
 
--de Tournon-sur-Rhône
+-de Tournon-sur-Rhône ;
 
--de Trévoux
+-de Trévoux ;
 
--de Vannes
+-de Vannes ;
 
--du Vauvert
+-du Vauvert ;
 
--de Vesoul
+-de Vesoul ;
 
--de Vienne
+-de Vienne ;
 
--de Villefranche-de-Lauragais
+-de Villefranche-de-Lauragais ;
 
--de Villefranche-sur-Saône
+-de Villefranche-sur-Saône ;
 
--de Vitré
+-de Vitré ;
 
--Commandant de la compagnie fluviale de gendarmerie de Strasbourg
+-commandant de la compagnie de gendarmerie fluviale franco-allemande de Kehl ;
 
 4° Outre-mer :
 
--Chargé de mission au commandement de la gendarmerie d'outre-mer (1 emploi)
+-chargé de mission au commandement de la gendarmerie d'outre-mer (1 emploi) ;
 
--Commandant de la section de recherches prévôtales
+-commandant de la section de recherches prévôtales ;
 
--Commandant de la section de recherche de :
+-commandant de la section de recherche de :
 
--de Mamoudzou
+-Mamoudzou ;
 
--Nouméa
+-Nouméa ;
 
--Commandant de la section de recherches en second de :
+-commandant de la section de recherches en second de :
 
--Cayenne
+-Cayenne ;
 
--Fort-de-France
+-Fort-de-France ;
 
--Papeete
+-Papeete ;
 
--Saint-Denis
+-Saint-Denis ;
 
--Commandant de la compagnie de gendarmerie départementale de :
+-commandant de la compagnie de gendarmerie départementale de :
 
--de Saint-Paul
+-de Saint-Paul ;
 
--de Saint-Pierre
+-de Saint-Pierre ;
 
 5° Gendarmeries spécialisées :
 
--Chef de la division de l'emploi de la gendarmerie de l'armement
+-chef de la division de l'emploi de la gendarmerie de l'armement ;
 
--Chef de la division de l'appui opérationnel de la gendarmerie de l'armement
+-chef de la division de l'appui opérationnel de la gendarmerie de l'armement ;
 
--Chef de la division des opérations de la gendarmerie de l'air
+-chef de la division des opérations de la gendarmerie de l'air ;
 
--Chef de la division des opérations de la gendarmerie maritime
+-chef de la division des opérations de la gendarmerie maritime ;
 
--Au sein des forces aériennes de la gendarmerie nationale, le chef :
+-au sein des forces aériennes de la gendarmerie nationale, le chef :
 
--de la division des opérations
+-de la division des opérations ;
 
--de la division de l'appui opérationnel
+-de la division de l'appui opérationnel ;
 
--Commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
+-commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air ;
 
--Commandant en second d'un groupement de gendarmerie de l'air
+-commandant en second d'un groupement de gendarmerie de l'air ;
 
--Commandant en second d'un groupement de gendarmerie maritime
+-commandant en second d'un groupement de gendarmerie maritime ;
 
--Commandant en second d'un groupement de la gendarmerie des transports aériens
+-commandant en second d'un groupement de la gendarmerie des transports aériens ;
 
--Commandant de la section de recherches en second de la gendarmerie de l'air
+-commandant de la section de recherches en second de la gendarmerie de l'air ;
 
 6° Ecoles :
 
--Chef de la division de la formation d'une école de gendarmerie (7 emplois)
+-chef de la division de la formation d'une école de gendarmerie (7 emplois) ;
 
 7° Autres emplois :
 
--Chef du bureau des systèmes d'information opérationnels du commandement du soutien opérationnel de la gendarmerie nationale
+-chef du bureau des systèmes d'information opérationnels du commandement du soutien opérationnel de la gendarmerie nationale ;
 
--Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
+-chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières ;
 
--Chef de département au commandement spécialisé pour la sécurité nucléaire (1 emploi)
+-chef de département au commandement spécialisé pour la sécurité nucléaire (1 emploi) ;
 
--Chef d'une division à la direction de la coopération internationale de sécurité
+-chef d'une division à la direction de la coopération internationale de sécurité ;
 
--Chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale
+-chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale ;
 
--Chef du centre national d'administration de la solde gendarmerie
+-chef du centre national d'administration de la solde gendarmerie ;
 
--Chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale
+-chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale ;
 
--Chef de la trésorerie militaire pour l'activité des forces de la gendarmerie
+-chef de la trésorerie militaire pour l'activité des forces de la gendarmerie ;
 
--Chef de la trésorerie militaire de la solde gendarmerie
+-chef de la trésorerie militaire de la solde gendarmerie ;
 
--Officier de liaison référent intelligence économique à l'assemblée des départements de France
+-officier de liaison référent intelligence économique à l'assemblée des départements de France ;
 
--Officier de liaison à l'Agence nationale de la cohésion des territoires (1 emploi)
+-directeur de cabinet du directeur général de l'Agence nationale de la cohésion des territoires (1 emploi) ;
 
--Officier de liaison chargé de mission à la direction des ressources humaines du ministère de la défense (1 emploi)
+-officier de liaison chargé de mission à la direction des ressources humaines du ministère de la défense (1 emploi) ;
 
--Chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi)
+-chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi) ;
 
--Chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
+-chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur ;
 
--Conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi)
+-conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi).
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 31 janvier 2023 (NOR : IOMJ2302669A), ces dispositions entrent en vigueur le 1er février 2023.
+Conformément à l’article 2 de l’arrêté du 25 juillet 2023 (NOR : IOMJ2318598A), ces dispositions entrent en vigueur le 1er août 2023.
