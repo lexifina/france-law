@@ -1,0 +1,9 @@
+# Réponse à la question n° 9135
+
+- Question : [9135](9135.md) — Question n° 9135 — Projet d'extension des compétences du tribunal de commerce
+
+## Réponse
+
+*JO du 2023-08-01, page 7271*
+
+Le projet de loi d'orientation et de programmation du ministère de la Justice 2023-2027 a été adopté le 18 juillet 2023 par l'Assemblée Nationale. Son article 6 prévoit d'expérimenter une juridiction unique compétente pour la quasi intégralité des procédures collectives, le tribunal des activités économiques. La possibilité de désigner ponctuellement un magistrat du siège de l'ordre judiciaire pour composer la formation de jugement du tribunal des activités économiques, supprimée par la commission des lois du Sénat, ne constituait pas une expérimentation de l'échevinage. L'Assemblée nationale n'est pas revenue sur cette suppression votée par le Sénat. S'agissant des modalités d'évaluation du dispositif, le texte issu de la première lecture du parlement prévoit notamment que l'ensemble des acteurs judiciaires et économiques est associé à cette évaluation, laquelle associe également, dans le respect du principe de parité entre les femmes et les hommes, deux députés et deux sénateurs, dont au moins un député et un sénateur appartenant à un groupe d'opposition, désignés respectivement par le président de l'Assemblée nationale et le président du Sénat. L'évaluation porte notamment sur la durée des procédures de liquidation judiciaire, le taux de réformation des décisions, la qualité du service rendu au justiciable et l'appréciation des auxiliaires de justice, au vu des statistiques fournies par le ministère de la Justice, d'une part, et de questionnaires de satisfaction, d'autre part. La durée de l'expérimentation du tribunal des activités économiques, quatre ans, a été fixée au regard de la durée moyenne des procédures collectives, et doit ainsi permettre d'évaluer au mieux l'efficacité de la mesure.
