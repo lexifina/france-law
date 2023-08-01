@@ -1,0 +1,9 @@
+# Réponse à la question n° 9656
+
+- Question : [9656](9656.md) — Question n° 9656 — Renouvellement de l'agrément judiciaire de l'association Anticor
+
+## Réponse
+
+*JO du 2023-08-01, page 7236*
+
+Par un arrêté du 2 avril 2021, l'agrément de l'association ANTICOR a été renouvelé par M. Jean Castex, alors Premier ministre, en application du décret de déport du garde des sceaux. Le 23 juin 2023, le tribunal administratif de Paris, saisi le 2 juin 2021 par des membres et anciens membres de l'association ANTICOR, a annulé l'arrêté au motif qu'il avait été tenu compte de simples engagements de l'association pour estimer qu'elle remplissait deux des conditions de délivrance de l'agrément. L'association ANTICOR a annoncé avoir immédiatement fait appel de la décision du tribunal administratif et a formé une nouvelle demande d'agrément. S'il ne revient pas à la Première ministre de commenter cette décision de justice, elle précise que dès réception de la demande d'un nouvel agrément, elle a, en raison du déport du garde des Sceaux, transmis celle-ci aux services compétents du ministère de la Justice (secrétariat général et direction des affaires criminelles et des grâces). Cette demande est en cours d'instruction dans le délai des quatre mois impartis par les textes. Sur les effets de cette annulation, la perte de son agrément par l'association ANTICOR l'empêche seulement d'exercer les droits reconnus à la partie civile, ce qui sera apprécié, pour chacun des dossiers concernés, au jour où la décision de justice interviendra. La Première ministre souligne toutefois que les procédures pénales concernées ne sont pas remises en cause, si l'action publique a été mise en mouvement par le ministère public ce qui est le cas dans la très grande majorité d'entre elles. La Première ministre tient enfin à assurer de la détermination du Gouvernement à lutter contre la corruption, sous toutes ses formes.
