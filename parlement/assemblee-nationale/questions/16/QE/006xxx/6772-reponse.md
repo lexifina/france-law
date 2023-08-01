@@ -1,0 +1,9 @@
+# Réponse à la question n° 6772
+
+- Question : [6772](6772.md) — Question n° 6772 — Les rendez-vous médicaux non honorés
+
+## Réponse
+
+*JO du 2023-08-01, page 7275*
+
+Le Gouvernement partage pleinement les préoccupations qui sont les vôtres concernant le sujet des rendez-vous médicaux non-honorés et ces créneaux bloqués en vain, qui conduisent à gâcher un temps médical précieux, alors que certains de nos concitoyens peinent à obtenir un rendez-vous lorsqu'ils en ont réellement besoin. C'est un sujet complexe car il n'y a pas de solution évidente ou automatique qui nous permettrait de stopper totalement ce phénomène. Un oubli peut arriver. La répétition des oublis et des rendez-vous non honorés est en revanche beaucoup plus problématique. Lorsque cela devient une habitude, cela en devient inacceptable. In fine, ce sont les patients qui ont le plus besoin de consulter un médecin qui sont pénalisés, et les médecins eux-mêmes, qui souhaiteraient examiner plus de patients. Compte tenu des défis que nous devons relever pour notre système de santé et alors que tant de Français sont à la recherche d'un médecin traitant, nous devons veiller à la responsabilisation de tous, professionnels comme patients. L'une des clés est bien entendu la sensibilisation et l'information sur les conséquences d'un rendez-vous non honoré. Une campagne de communication dédiée est donc en cours de préparation en lien avec nos partenaires. Au-delà, c'est une réflexion globale sur le bon usage de notre système de santé que nous sommes en train de mener et qui aboutira dans les prochaines semaines. A cet effet, un travail est engagé en lien avec l'Assurance maladie, les plateformes de réservation de rendez-vous médicaux, les associations de patients et les médecins pour identifier les solutions les plus adaptées pour mettre un terme aux comportements manifestement abusifs.
