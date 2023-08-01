@@ -158,6 +158,8 @@ Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER200
 
 Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
+Conformément à l’article 1er de l’arrêté du 27 juin 2023 (NOR : ENER2315086A), les fiches d'opérations standardisées figurant en annexe A dudit arrêté remplacent, à compter du 1er août 2023, les fiches portant les mêmes références figurant en annexe 2 de l'arrêté du 22 décembre 2014 susvisé.
+
 - Chauffe-eau thermodynamique à accumulation / Fiche d’opération standardisée n°BAR-TH-148
 
 Conformément au 2° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
@@ -316,4 +318,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 21 décembre 2022 (NOR : ENER2235115A), ces dispositions entrent en vigueur à compter du 1er mars 2023.
+Conformément à l’article 1er de l’arrêté du 27 juin 2023 (ENER2315086A) : Les fiches d'opérations standardisées figurant en annexe A dudit arrêté remplacent, à compter du 1er août 2023, les fiches portant les mêmes références figurant en annexe 2 de l'arrêté du 22 décembre 2014 susvisé.
