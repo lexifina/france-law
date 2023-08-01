@@ -66,19 +66,21 @@ Directeur zonal de la sécurité publique Sud-Est à Lyon (69)
 
 Directeur national adjoint de la police aux frontières.
 
+9. Direction nationale du renseignement territorial :
+
+Directeur national adjoint du renseignement territorial.
+
 10. Direction centrale des compagnies républicaines de sécurité :
 
 Directeur central adjoint des compagnies républicaines de sécurité.
 
-11. Direction de la coopération internationale de sécurité :
+11. Service de la protection :
 
-Sous-directeur Monde.
+Chef du service de la protection.
 
-12. Service de la protection :
+12. Service national de police scientifique :
 
-Chef adjoint du service de la protection.
-
-Chef groupe de sécurité de la Présidence de la République et directeur de la sécurité de la Présidence de la République.
+Chef du service national de police scientifique
 
 13. Préfecture de police :
 
@@ -193,8 +195,6 @@ Sous-directeur du soutien opérationnel.
 Les postes de la direction générale de la sécurité intérieure font l'objet d'un arrêté distinct, non publié conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure.
 
 7. Direction nationale de la sécurité publique :
-
-Adjoint au chef du service central du renseignement territorial à la direction centrale de la sécurité publique.
 
 Directeur départemental de la sécurité publique et commissaire central à Nice (06).
 
@@ -332,4 +332,4 @@ Adjoint au chef du service des technologies et des systèmes d'information de la
 
 NOTA :
 
-Conformément à l'article 18 de l'arrêté du 30 juin 2023 (NOR : IOMC2313410A), ces dispositions entrent en vigueur à compter du 1er juillet 2023.
+Conformément à l'article 18 de l'arrêté du 30 juin 2023 (NOR : IOMC2313410A), ces dispositions entrent en vigueur à compter du 1er août 2023.
