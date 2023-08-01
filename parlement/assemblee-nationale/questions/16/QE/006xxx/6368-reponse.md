@@ -1,0 +1,9 @@
+# Réponse à la question n° 6368
+
+- Question : [6368](6368.md) — Question n° 6368 — Revalorisation des orthophonistes
+
+## Réponse
+
+*JO du 2023-08-01, page 7274*
+
+Le Gouvernement a pleinement conscience du rôle des orthophonistes dans la réponse aux besoins de santé, en particulier pour les personnes souffrant d'un handicap. C'est pourquoi l'Assurance maladie a conclu trois avenants au cours des deux dernières années représentant un montant de 70 millions d'euros d'honoraires sans dépassement (HSD) afin de revaloriser l'activité des orthophonistes. Ces avenants ont notamment pour objectifs de valoriser l'apport indispensable des orthophonistes dans la prise en charge des enfants présentant des troubles du neuro-développement (avenant n° 18 et n° 19) et de renforcer leur rôle important en termes de prévention (avenant n° 19). Par ailleurs, le zonage est actualisé avec les données d'activité 2019 afin que celui-ci soit plus adapté aux besoins des territoires et populations. Pleinement conscient en outre que l'inflation a également un impact sur la rémunération des paramédicaux libéraux, dont les orthophonistes, et conscient que les tarifs de ces professionnels sont fixés par la voie conventionnelle, le ministre de la santé et de la prévention a confié à l'Assurance maladie la mission d'ouvrir de nouvelles négociations courtes et rapides en ce sens. Ainsi les discussions entre l'Assurance Maladie et la fédération nationale des orthophonistes (FNO), seul syndicat reconnu représentatif, ont abouti le 22 juin 2023. Ainsi l'avenant n° 20 acte la revalorisation de 3 % de la lettre clé et intègre les dispositions récentes visant à permettre l'accès direct aux orthophonistes, dans les conditions prévues par la loi du 19 mai 2023 portant amélioration de l'accès aux soins par la confiance aux professionnels de santé, ainsi que la valorisation de l'accueil de stagiaires par les orthophonistes récemment installés en zones sous-denses.
