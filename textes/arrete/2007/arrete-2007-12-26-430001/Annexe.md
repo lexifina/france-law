@@ -8,13 +8,17 @@ Masseurs-kinésithérapeutes, psychomotriciens, orthophonistes, orthoptistes, ma
 
 13 |
 
-Infirmiers civils de soins généraux et infirmiers civils en soins généraux et spécialisés des grades d'infirmier en soins généraux de classe normale, d'infirmier en soins généraux de classe supérieure et d'infirmier de bloc opératoire ou puéricultrice de classe normale du corps des infirmiers civils en soins généraux et spécialisés exerçant leurs fonctions, à titre exclusif, dans les blocs opératoires |
+Infirmiers civils de soins généraux et infirmiers civils en soins généraux et spécialisés des grades d'infirmier en soins généraux de classe normale, d'infirmier en soins généraux de classe supérieure et d'infirmier de bloc opératoire ou puéricultrice de classe normale de classe supérieure relevant de la spécialité “ Bloc opératoire ” du corps des infirmiers civils en soins généraux et spécialisés exerçant leurs fonctions, à titre exclusif, dans les blocs opératoires |
 
 13 |
 
 Infirmiers civils de soins généraux et infirmiers civils en soins généraux et spécialisés des grades d'infirmier en soins généraux de classe normale, d'infirmier en soins généraux de classe supérieure et d'infirmier de bloc opératoire ou puéricultrice de classe normale du corps des infirmiers civils en soins généraux et spécialisés exerçant leurs fonctions auprès des personnes âgées relevant des sections de cure médicale, dans les services ou les unités de soins de longue durée auprès des personnes n'ayant pas leur autonomie de vie ou dans les établissements d'hébergement pour personnes âgées dépendantes |
 
 10 |
+
+Infirmiers anesthésistes du corps des infirmiers civils en soins généraux et spécialisés du ministère de la défense |
+
+15 |
 
 Masseurs-kinésithérapeutes et orthophonistes du corps des masseurs-kinésithérapeutes et orthophonistes du ministère de la défense |
 
@@ -23,3 +27,7 @@ Masseurs-kinésithérapeutes et orthophonistes du corps des masseurs-kinésithé
 Pédicures-podologues, ergothérapeutes, psychomotriciens, orthoptistes, diététiciens, préparateurs en pharmacie hospitalière, techniciens de laboratoire médical et manipulateurs d'électroradiologie médicale du corps des pédicures-podologues, ergothérapeutes, psychomotriciens, orthoptistes, diététiciens, préparateurs en pharmacie hospitalière, techniciens de laboratoire médical et manipulateurs d'électroradiologie médicale du ministère de la défense |
 
 13 |
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 20 juillet 2023 (NOR : ARMH2317923A), ces dispositions entrent en vigueur le 1er août 2023.
