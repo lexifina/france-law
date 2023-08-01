@@ -1,0 +1,9 @@
+# Réponse à la question n° 7459
+
+- Question : [7459](7459.md) — Question n° 7459 — Vacance du poste de Haut Commissaire à l'énergie atomique
+
+## Réponse
+
+*JO du 2023-08-01, page 7298*
+
+Le Président de la République a tenu le mercredi 19 juillet un nouveau Conseil de politique nucléaire (CPN), qui a pour fonction de définir et de mettre en œuvre les grandes orientations de la politique nucléaire française. Ce deuxième CPN en moins de 6 mois conforte un pilotage au plus haut niveau de l'Etat de la politique nucléaire, dans la continuité du discours de Belfort où le Président de la République a annoncé la poursuite d'exploitation des réacteurs existants, la construction de 6 nouveaux réacteurs de type EPR2, un effort de recherche inédit en faveur des petits réacteurs modulaires et innovants et le maintien et le renforcement d'une filière souveraine sur l'ensemble du cycle du combustible. Le CPN a décidé d'un renforcement significatif de la gouvernance du nucléaire. Le Conseil de politique nucléaire a décidé d'un renforcement significatif des effectifs et d'un renouvellement des installations de recherche de la branche nucléaire civil du Commissariat à l'Energie Atomique qui jouera un rôle central dans l'animation et le pilotage de la recherche. Ces moyens renforcés permettront à la fois d'attirer de nouveaux talents et de renforcer la recherche dans ce domaine d'excellence pour couvrir l'ensemble des sujets nécessaires à la prolongation du parc en garantissant un haut niveau de sureté de leur exploitation, à la maitrise du cycle du combustible, à la construction de nouvelles centrales, qu'ils s'agissent des EPR2 ou des petits réacteurs innovants. Pour renforcer le pilotage de la relance du nucléaire en France, le poste de Haut-Commissaire à l'Energie Atomique sera désormais rattaché à la Première ministre.
