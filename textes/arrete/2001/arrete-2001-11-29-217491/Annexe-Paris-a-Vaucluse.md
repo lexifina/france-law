@@ -430,61 +430,33 @@ A
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (1) de Seine-et-Marne
+Direction départementale des territoires de Seine-et-Marne (8)
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification de l'emploi |
 
-NIVEAU
+Nombre
 
-de qualification de l'emploi
+d'emplois |
 
-|
+Nombre de points (IM) par emploi |
 
-NOMBRE
+Chef du service de l'habitat et de la rénovation urbaine |
 
-d'emplois
+A |
 
-|
+1 |
 
-NOMBRE DE POINTS (IM)
+20 |
 
-par emploi
+Assistant du service de l'habitat et de la rénovation urbaine |
 
-|
+C |
 
-Chef du bureau "mission politique de la ville" au service de l'habitat
+1 |
 
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Gestionnaire comptable au service habitat
-
-|
-
-C
-
-|
-
-1
-
-|
-
-13 points
-
-|
+13 |
 
 Direction départementale des territoires des Yvelines
 
@@ -918,14 +890,16 @@ NOTA :
 
 (1) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
 
-(2) Arrêté du 12 mars 2014 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er juillet 2010 pour les directions départementales de l'équipement des Hauts-de-Seine et de la Seine-Saint-Denis.
+(2) Arrêté du 12 mars 2014 art. 1 : les modifications insérées par ledit arrêté sont à effet du 1er juillet 2010 pour les directions départementales de l'équipement des Hauts-de-Seine et de la Seine-Saint-Denis.
 
-(3) Arrêté du 17 mai 2016, art 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2015 pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement de la Somme.
+(3) Arrêté du 17 mai 2016, art 1 : les modifications insérées par ledit arrêté sont à effet du 1er janvier 2015 pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement de la Somme.
 
-(4) Arrêté du 10 avril 2017, art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er septembre 2016 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France.
+(4) Arrêté du 10 avril 2017, art. 1 : les modifications insérées par ledit arrêté sont à effet du 1er septembre 2016 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France.
 
-(5) Arrêté du 27 avril 2022, art. 1 (NOR : TERK2213005A) : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2021 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'hébergement, et du logement.
+(5) Arrêté du 27 avril 2022, art. 1 (NOR : TERK2213005A) : les modifications insérées par ledit arrêté sont à effet du 1er janvier 2021 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'hébergement, et du logement.
 
-(6) Arrêté du 14 février 2023 (NOR : TREK2304634A) : les modifications insérées par le présent arrêté sont à effet du 1er février 2022 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Vaucluse.
+(6) Arrêté du 14 février 2023 (NOR : TREK2304634A) : les modifications insérées par ledit arrêté sont à effet du 1er février 2022 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Vaucluse.
 
-(7) Arrêté du 31 mai 2023 (NOR : TREK2314645A) : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2023 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires des Deux-Sèvres.
+(7) Arrêté du 31 mai 2023 (NOR : TREK2314645A) : les modifications insérées par ledit arrêté sont à effet du 1er janvier 2023 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires des Deux-Sèvres.
+
+(8) Conformément à l'article 1 de l'arrêté du 18 juillet 2023 (NOR : TREK2320135A), la présente annexe est remplacée à effet du 1er février 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Seine-et-Marne.
