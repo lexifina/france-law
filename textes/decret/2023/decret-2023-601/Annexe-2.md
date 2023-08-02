@@ -16,680 +16,336 @@ Nom de la commune |
 
 Auvergne-Rhône-Alpes |
 
-63 |
+03 |
 
-63263 |
+03013 |
 
-ORCINES |
-
-Auvergne-Rhône-Alpes |
-
-63 |
-
-63345 |
-
-SAINT-GENES-CHAMPANELLE |
+AVERMES |
 
 Auvergne-Rhône-Alpes |
 
-74 |
+03 |
 
-74282 |
+03098 |
 
-FILLIERE |
+DESERTINES |
+
+Auvergne-Rhône-Alpes |
+
+03 |
+
+03101 |
+
+DOMERAT |
+
+Auvergne-Rhône-Alpes |
+
+03 |
+
+03321 |
+
+YZEURE |
+
+Auvergne-Rhône-Alpes |
+
+15 |
+
+15012 |
+
+ARPAJON-SUR-CERE |
+
+Auvergne-Rhône-Alpes |
+
+15 |
+
+15267 |
+
+YTRAC |
 
 Bourgogne-Franche-Comté |
 
-89 |
+25 |
 
-89464 |
+25048 |
 
-VILLENEUVE-SUR-YONNE |
+BAVANS |
 
-Bretagne |
+Bourgogne-Franche-Comté |
 
-22 |
+25 |
 
-22258 |
+25230 |
 
-QUESSOY |
+EXINCOURT |
 
-Bretagne |
+Bourgogne-Franche-Comté |
 
-22 |
+25 |
 
-22194 |
+25539 |
 
-PLESTIN-LES-GREVES |
+SELONCOURT |
 
-Bretagne |
+Bourgogne-Franche-Comté |
 
-22 |
+25 |
 
-22203 |
+25632 |
 
-PLOEUC-L'HERMITAGE |
+VOUJEAUCOURT |
 
-Bretagne |
+Bourgogne-Franche-Comté |
 
-22 |
+39 |
 
-22081 |
+39526 |
 
-HILLION |
+TAVAUX |
 
-Bretagne |
+Bourgogne-Franche-Comté |
 
-22 |
+58 |
 
-22055 |
+58088 |
 
-BINIC-ETABLES-SUR-MER |
+COULANGES-LES-NEVERS |
 
-Bretagne |
+Bourgogne-Franche-Comté |
 
-35 |
+58 |
 
-35125 |
+58121 |
 
-GUERCHE-DE-BRETAGNE |
+GARCHIZY |
 
-Bretagne |
+Bourgogne-Franche-Comté |
 
-56 |
+71 |
 
-56118 |
+71059 |
 
-LOCMIQUELIC |
+BREUIL |
 
-Grand Est |
+Bourgogne-Franche-Comté |
 
-08 |
+71 |
 
-08491 |
+71221 |
 
-VRIGNE AUX BOIS |
+GIVRY |
 
-Grand Est |
+Bourgogne-Franche-Comté |
+
+71 |
+
+71486 |
+
+SAINT-VALLIER |
+
+Bourgogne-Franche-Comté |
+
+90 |
+
+90032 |
+
+DANJOUTIN |
+
+Centre-Val de Loire |
+
+18 |
+
+18050 |
+
+CHAPELLE-SAINT-URSIN |
+
+Centre-Val de Loire |
+
+18 |
+
+18141 |
+
+MEHUN-SUR-YEVRE |
+
+Centre-Val de Loire |
+
+18 |
+
+18267 |
+
+TROUY |
+
+Centre-Val de Loire |
+
+36 |
+
+36005 |
+
+ARDENTES |
+
+Centre-Val de Loire |
+
+36 |
+
+36159 |
+
+POINCONNET |
+
+Centre-Val de Loire |
+
+36 |
+
+36202 |
+
+SAINT-MAUR |
+
+Centre-Val de Loire |
+
+41 |
+
+41149 |
+
+MONTOIRE-SUR-LE-LOIR |
+
+Grand-Est |
+
+51 |
+
+51242 |
+
+FAGNIERES |
+
+Grand-Est |
 
 57 |
 
-57628 |
+57336 |
 
-SARRALBE |
-
-Grand Est |
-
-67 |
-
-67372 |
-
-VAL-DE-MODER |
-
-Guadeloupe |
-
-971 |
-
-97106 |
-
-BOUILLANTE |
-
-Guadeloupe |
-
-971 |
-
-97121 |
-
-POINTE-NOIRE |
-
-Guadeloupe |
-
-971 |
-
-97107 |
-
-CAPESTERRE-BELLE-EAU |
-
-Guadeloupe |
-
-971 |
-
-97102 |
-
-ANSE-BERTRAND |
-
-Guadeloupe |
-
-971 |
-
-97111 |
-
-DESHAIES |
-
-Guadeloupe |
-
-971 |
-
-97129 |
-
-SAINTE-ROSE |
-
-Guyane |
-
-973 |
-
-97306 |
-
-MANA |
-
-Guyane |
-
-973 |
-
-97353 |
-
-MARIPASOULA |
-
-Guyane |
-
-973 |
-
-97360 |
-
-APATOU |
-
-Guyane |
-
-973 |
-
-97357 |
-
-GRAND-SANTI |
-
-Guyane |
-
-973 |
-
-97362 |
-
-PAPAICHTON |
-
-Hauts-de-France |
-
-59 |
-
-59260 |
-
-GHYVELDE |
-
-Hauts-de-France |
-
-59 |
-
-59107 |
-
-BRAY-DUNES |
-
-La Réunion |
-
-974 |
-
-97417 |
-
-SAINT-PHILIPPE |
-
-La Réunion |
-
-974 |
-
-97419 |
-
-SAINTE-ROSE |
-
-La Réunion |
-
-974 |
-
-97424 |
-
-CILAOS |
-
-La Réunion |
-
-974 |
-
-97423 |
-
-TROIS-BASSINS |
-
-Martinique |
-
-972 |
-
-97202 |
-
-ANSES-D'ARLET |
-
-Martinique |
-
-972 |
-
-97218 |
-
-MORNE-ROUGE |
-
-Martinique |
-
-972 |
-
-97214 |
-
-LORRAIN |
-
-Martinique |
-
-972 |
-
-97228 |
-
-SAINTE-MARIE |
-
-Martinique |
-
-972 |
-
-97206 |
-
-DIAMANT |
-
-Martinique |
-
-972 |
-
-97231 |
-
-TROIS-ILETS |
-
-Martinique |
-
-972 |
-
-97230 |
-
-TRINITE |
-
-Normandie |
-
-14 |
-
-14654 |
-
-SAINT-PIERRE-EN-AUGE |
-
-Normandie |
-
-14 |
-
-14371 |
-
-LIVAROT-PAYS-D'AUGE |
-
-Normandie |
-
-14 |
-
-14098 |
-
-THUE-ET-MUE |
-
-Normandie |
-
-27 |
-
-27213 |
-
-VEXIN-SUR-EPTE |
-
-Normandie |
-
-27 |
-
-27230 |
-
-EZY-SUR-EURE |
+HOPITAL |
 
 Normandie |
 
 50 |
 
-50139 |
+50041 |
 
-CONDE SUR VIRE |
+LA HAGUE |
 
 Normandie |
 
 50 |
 
-50601 |
+50082 |
 
-TORIGNY-LES-VILLES |
-
-Nouvelle-Aquitaine |
-
-16 |
-
-16061 |
-
-BRIE |
+BRICQUEBEC-EN-COTENTIN |
 
 Nouvelle-Aquitaine |
 
-16 |
+86 |
 
-16078 |
+86174 |
 
-CHAMPNIERS |
-
-Nouvelle-Aquitaine |
-
-16 |
-
-16287 |
-
-ROULLET-SAINT-ESTEPHE |
-
-Nouvelle-Aquitaine |
-
-17 |
-
-17407 |
-
-SAINTE-SOULLE |
-
-Nouvelle-Aquitaine |
-
-17 |
-
-17086 |
-
-CHANIERS |
-
-Nouvelle-Aquitaine |
-
-17 |
-
-17168 |
-
-FOURAS |
-
-Nouvelle-Aquitaine |
-
-19 |
-
-19153 |
-
-OBJAT |
-
-Nouvelle-Aquitaine |
-
-19 |
-
-19005 |
-
-ALLASSAC |
-
-Nouvelle-Aquitaine |
-
-24 |
-
-24026 |
-
-BASSILLAC ET AUBEROCHE |
-
-Nouvelle-Aquitaine |
-
-24 |
-
-24312 |
-
-SANILHAC |
+NAINTRE |
 
 Occitanie |
 
-31 |
+12 |
 
-31499 |
+12133 |
 
-SAINT-LYS |
+LUC-LA-PRIMAUBE |
 
-Pays de la Loire |
+Occitanie |
 
-44 |
+12 |
 
-44021 |
+12202 |
 
-VILLENEUVE-EN-RETZ |
+RODEZ |
 
-Pays de la Loire |
+Occitanie |
 
-44 |
+65 |
 
-44072 |
+65047 |
 
-HERBIGNAC |
+AUREILHAN |
 
-Pays de la Loire |
+Occitanie |
 
-44 |
+65 |
 
-44030 |
+65100 |
 
-CHAPELLE-DES-MARAIS |
+BORDERES-SUR-L'ECHEZ |
 
-Pays de la Loire |
+Occitanie |
 
-44 |
+65 |
 
-44175 |
+65235 |
 
-SAINT-LYPHARD |
+JUILLAN |
 
-Pays de la Loire |
+Occitanie |
 
-44 |
+65 |
 
-44120 |
+65286 |
 
-PELLERIN |
+LOURDES |
 
-Pays de la Loire |
+Occitanie |
 
-49 |
+65 |
 
-49023 |
+65417 |
 
-BEAUPREAU-EN-MAUGES |
-
-Pays de la Loire |
-
-49 |
-
-49069 |
-
-OREE-D'ANJOU |
+SEMEAC |
 
 Pays de la Loire |
 
-49 |
+72 |
 
-49261 |
+72008 |
 
-GENNES VAL DE LOIRE |
-
-Pays de la Loire |
-
-49 |
-
-49092 |
-
-CHEMILLE-EN-ANJOU |
+ARNAGE |
 
 Pays de la Loire |
 
-49 |
+72 |
 
-49218 |
+72054 |
 
-MONTREVAULT-SUR-EVRE |
-
-Pays de la Loire |
-
-49 |
-
-49244 |
-
-MAUGES-SUR-LOIRE |
+CHAMPAGNE |
 
 Pays de la Loire |
 
-49 |
+72 |
 
-49373 |
+72058 |
 
-LYS-HAUT LAYON |
-
-Pays de la Loire |
-
-49 |
-
-49193 |
-
-MAY-SUR-EVRE |
+CHANGE |
 
 Pays de la Loire |
 
-49 |
+72 |
 
-49301 |
+72213 |
 
-SEVREMOINE |
-
-Pays de la Loire |
-
-49 |
-
-49125 |
-
-DOUE-EN-ANJOU |
+MULSANNE |
 
 Pays de la Loire |
 
-53 |
+72 |
 
-53140 |
+72260 |
 
-LOUVERNE |
-
-Pays de la Loire |
-
-53 |
-
-53119 |
-
-HUISSERIE |
+RUAUDIN |
 
 Pays de la Loire |
 
-53 |
+72 |
 
-53034 |
+72329 |
 
-BONCHAMP-LES-LAVAL |
-
-Pays de la Loire |
-
-85 |
-
-85089 |
-
-FERRIERE |
-
-Pays de la Loire |
-
-85 |
-
-85213 |
-
-RIVES DE L'YON |
-
-Provence-Alpes-Côte d'Azur |
-
-06 |
-
-06075 |
-
-LEVENS |
-
-Provence-Alpes-Côte d'Azur |
-
-06 |
-
-06118 |
-
-SAINT-CEZAIRE-SUR-SIAGNE |
-
-Provence-Alpes-Côte d'Azur |
-
-06 |
-
-06136 |
-
-SOSPEL |
-
-Provence-Alpes-Côte d'Azur |
-
-13 |
-
-13082 |
-
-ROGNES |
-
-Provence-Alpes-Côte d'Azur |
-
-13 |
-
-13119 |
-
-CARNOUX-EN-PROVENCE |
-
-Provence-Alpes-Côte d'Azur |
-
-83 |
-
-83097 |
-
-POURRIERES |
-
-Provence-Alpes-Côte d'Azur |
-
-83 |
-
-83087 |
-
-NANS-LES-PINS |
-
-Provence-Alpes-Côte d'Azur |
-
-83 |
-
-83121 |
-
-SALERNES |
-
-Provence-Alpes-Côte d'Azur |
-
-84 |
-
-84065 |
-
-LAURIS |
+SAVIGNE-L'EVEQUE |
