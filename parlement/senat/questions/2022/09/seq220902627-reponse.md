@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902627
+
+- Question : [SEQ220902627](seq220902627.md) — Situation des salariés de l'Institut de radioprotection et de sûreté nucléaire
+
+## Réponse
+
+*Transition énergétique, JO du 2023-08-03, page 4809*
+
+La ministre de la transition énergétique est attentive à ce que l'ensemble des moyens alloués au contrôle, à l'expertise et à la recherche en sûreté nucléaire et en radioprotection soient suffisants pour l'exercice de ses missions. Sur les moyens budgétaires alloués en 2023 à l'IRSN, en ce qui concerne le programme 190 « Recherche dans le domaine de l'énergie, du développement et de l'aménagement durables », principal financement public de l'IRSN, il a été prévu, en loi de finances 2023, une subvention pour charge de service public (SCSP) brute de 179,4 M€, en hausse de 8,65 M€ par rapport à la loi de finances initiale de 2022. Pour le futur, le Conseil de politique nucléaire qui s'est tenu le 19 juillet dernier a pris connaissance du rapport parlementaire de l'Office parlementaire d'évaluation des choix scientifiques et technologiques, qui recommande de créer une grande autorité indépendante de la sureté nucléaire et de la radioprotection dont les moyens financiers et humains seraient renforcés. Cette nouvelle autorité permettra d'adapter la sureté nucléaire face aux 3 défis de la relance nucléaire que sont (i) la prolongation du parc existant, (ii) la construction de nouveaux EPR et (iii) le développement de petits réacteurs modulaires innovants. Le Conseil de politique nucléaire a confirmé la volonté du Gouvernement d'avancer en ce sens en veillant à ce que l'ensemble des missions de l'ASN et l'IRSN soient préservées et leurs moyens humains renforcés. Il a donné mission à la ministre de la Transition énergétique d'engager les concertations avec les parties prenantes et les parlementaires en vue de préparer un projet de loi d'ici l'automne.
