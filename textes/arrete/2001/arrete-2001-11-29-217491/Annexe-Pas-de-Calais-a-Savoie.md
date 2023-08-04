@@ -402,77 +402,47 @@ C |
 
 30 |
 
-Direction départementale des territoires de la Haute-Saône
+Direction départementale des territoires de la Haute-Saône (3)
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification de l'emploi |
 
-NIVEAU
+Nombre
 
-de qualification de l'emploi
+d'emplois |
 
-|
+Nombre de points (IM) par emploi |
 
-NOMBRE
-
-d'emplois
+Chef de la cellule habitat logement-Service urbanisme habitat et construction
 
 |
 
-NOMBRE DE POINTS (IM)
+A |
 
-par emploi
+1 |
 
-|
+15 |
 
-Chef de la cellule financement et droit du logement - service urbanisme habitat et constructions
-
-|
-
-A
+Chargé de mission politique sociale du logement-Cellule habitat logement-Service urbanisme habitat et construction
 
 |
 
-1
+B |
+
+1 |
+
+10 |
+
+Instructeur dossiers financement du logement social-Cellule habitat logement-Service urbanisme habitat et construction
 
 |
 
-15 points
+C |
 
-|
+1 |
 
-Chargé de mission politique sociale du logement - cellule financement et droit du logement - service urbanisme habitat et constructions
-
-|
-
-B
-
-|
-
-1
-
-|
-
-10 points
-
-|
-
-Instructeur dossiers financement du logement social - cellule financement et droit du logement - service urbanisme habitat et constructions
-
-|
-
-C
-
-|
-
-1
-
-|
-
-10 points
-
-|
+10 |
 
 Direction départementale des territoires de la Sarthe
 
@@ -600,4 +570,4 @@ B
 
 NOTA :
 
-Conformément à l'article 1er de l'arrêté du 7 septembre 2022 (NOR : TREK2225687A), la présente annexe est modifiée, à effet du 29 avril 2021, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la Sarthe.
+Conformément à l'article 1er de l'arrêté du 29 juin 2023 (NOR : TREK2318026A), la présente annexe est modifiée, à effet du 1er janvier 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la la Haute-Saône.
