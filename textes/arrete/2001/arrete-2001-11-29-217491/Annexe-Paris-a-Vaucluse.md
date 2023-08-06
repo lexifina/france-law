@@ -458,17 +458,19 @@ C |
 
 13 |
 
-Direction départementale des territoires des Yvelines
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES DES YVELINES
 
-FONCTIONS EXERCÉES |
+Fonction exercée |
 
 Niveau de qualification de l'emploi |
 
-Nombre d'emplois |
+Nombre
+
+d'emplois |
 
 Nombre de points (IM) par emploi |
 
-Chef d'unité rénovation urbaine - Service habitat et rénovation urbaine |
+Chef de l'unité rénovation urbaine-Unité rénovation urbaine-Service habitat et rénovation urbaine |
 
 A |
 
@@ -484,7 +486,7 @@ A |
 
 15 |
 
-Chef d'unité du Parc privé et résorption de l'habitat indigne - Service habitat et rénovation urbaine |
+Chef d'unité du Parc privé et résorption de l'habitat indigne-Unité parc privé et résorption de l'habitat indigne-Service habitat et rénovation urbaine |
 
 A |
 
@@ -492,7 +494,7 @@ A |
 
 15 |
 
-Adjoint au chef d'unité rénovation urbaine - Service habitat et rénovation urbaine |
+Adjoint au chef d'unité rénovation urbaine-Unité rénovation urbaine-Service habitat et rénovation urbaine |
 
 B |
 
@@ -500,7 +502,7 @@ B |
 
 20 |
 
-Chef de projet - Chargé de mission taxe foncière sur les propriétés bâties au sein de l'unité rénovation urbaine - Service habitat et rénovation urbaine |
+Chef de projet-Chargé de mission taxe foncière sur les propriétés bâties au sein de l'unité rénovation urbaine-Unité rénovation urbaine-Service habitat et rénovation urbaine |
 
 B |
 
@@ -508,7 +510,7 @@ B |
 
 20 |
 
-Assistant du chef de service chargé su secrétariat inter-unités - Service habitat et rénovation urbaine |
+Assistant chargé d'instruction des dossiers rénovation urbaine-Service habitat et rénovation urbaine |
 
 C |
 
@@ -516,7 +518,7 @@ C |
 
 10 |
 
-Assistant chargé d'instruction des dossiers rénovation urbaine au sein de l'unité rénovation urbaine - Service habitat et rénovation urbaine |
+Assistant de service-Pôle mutualisé de secrétariat |
 
 C |
 
@@ -903,3 +905,5 @@ NOTA :
 (7) Arrêté du 31 mai 2023 (NOR : TREK2314645A) : les modifications insérées par ledit arrêté sont à effet du 1er janvier 2023 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires des Deux-Sèvres.
 
 (8) Conformément à l'article 1 de l'arrêté du 18 juillet 2023 (NOR : TREK2320135A), la présente annexe est remplacée à effet du 1er février 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Seine-et-Marne.
+
+(9) Conformément à l'article 1 de l'arrêté du 18 juillet 2023 (NOR : TREK2320115A), la présente annexe est remplacée à effet du 1er janvier 2023 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires des Yvelines.
