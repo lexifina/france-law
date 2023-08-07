@@ -84,6 +84,8 @@ C. 2. En l'absence d'activité depuis plus d'un an, le réseau ou la personne ph
 
 Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 35 heures si la durée de l'absence d'activité est inférieure à trois ans et d'une durée minimale de 70 heures dans les autres cas et d'une partie pratique de 35 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
 
+Si la durée de l'absence d'activité est supérieure à cinq ans, cette remise à niveau consiste en une formation initiale telle que prévue au A. 2.2 de la présente annexe.
+
 C. 3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point B pour l'année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
 C.4. La délivrance de l'agrément ou la reprise d'activité du contrôleur sont assujetties à un examen pratique favorable, réalisé par le réseau de rattachement ou par un organisme d'audit agréé en application de l'article 26-3 du présent arrêté et portant sur la réalisation d'un contrôle technique dans des conditions identiques à celles d'un contrôle technique périodique, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé. L'examen pratique donne lieu à l'établissement d'une attestation par le réseau de rattachement ou l'organisme d'audit.

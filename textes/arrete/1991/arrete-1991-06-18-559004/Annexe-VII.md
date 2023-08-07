@@ -122,7 +122,7 @@ a) Une description de l'organisation et des moyens matériels, suivant le modèl
 
 b) Un plan de situation permettant d'identifier l'emprise immobilière et la zone de contrôle par rapport à l'environnement ;
 
-c) Un plan de masse à l'échelle 1/100e faisant apparaître l'ensemble des surfaces couvertes et indiquant la délimitation de la zone de contrôle et l'emplacement des matériels de contrôle ;
+c) Un plan de masse à l'échelle 1/ 100e ou 1/ 200e, côté faisant apparaître la dimension de l'ensemble des surfaces couvertes, les dimensions et la délimitation de la zone de contrôle, l'implantation et la distance entre les matériels de contrôle ;
 
 d) L'engagement du demandeur, suivant le modèle de l'appendice 4 de la présente annexe ;
 
@@ -194,7 +194,7 @@ a) Une description de l'organisation et des moyens matériels, suivant le modèl
 
 b) Un plan de situation permettant d'identifier l'emprise immobilière et la zone de contrôle par rapport à l'environnement ;
 
-c) Un plan de masse à l'échelle 1/100e faisant apparaître l'ensemble des surfaces couvertes et indiquant la délimitation de la zone de contrôle et l'emplacement des matériels de contrôle ;
+c) Un plan de masse à l'échelle 1/ 100e ou 1/ 200e, côté faisant apparaître la dimension de l'ensemble des surfaces couvertes, les dimensions et la délimitation de la zone de contrôle, l'implantation et la distance entre les matériels de contrôle ;
 
 d) L'engagement du demandeur, suivant le modèle de l'appendice 4 de la présente annexe :
 
@@ -376,7 +376,9 @@ APPENDICE 3 : AGREMENT D'UN CONTROLEUR DECLARATION SUR L'HONNEUR
 
 Adresse complète du domicile :
 
-Adresse électronique :
+Adresse électronique du centre de contrôle des véhicules légers de rattachement :
+
+Adresse électronique du contrôleur :
 
 APPENDICE 4 : AGREMENT DES INSTALLATIONS DE CONTROLE DE VEHICULES LEGERS
 
@@ -434,7 +436,9 @@ Nom commercial :
 
 Numéro d'identification unique :
 
-Adresse :
+Adresse postale :
+
+Adresse électronique du demandeur de l'agrément :
 
 Localisation de l'installation de contrôle :
 
@@ -601,7 +605,3 @@ Numéro d'agrément du centre de contrôle des véhicules légers :
 A, le
 
 Signature de l'exploitant
-
-NOTA :
-
-Conformément à l’article 13 de l’arrêté du 8 février 2022 (NOR : TRER2204042A), ces dispositions entrent en vigueur un mois après la publication dudit arrêté.

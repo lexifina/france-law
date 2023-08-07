@@ -5222,7 +5222,7 @@ Majeure |
 
 7.13. ECALL
 
-7.13.1. MONTAGE ET CONFIGURATION
+7.13.1. MONTAGE ET CONFIGURATION (ECALL)
 
 7.13.1. a. 2 |
 
@@ -5248,7 +5248,7 @@ Codage du système incorrect |
 
 Mineure |
 
-7.13.2. ETAT
+7.13.2. ÉTAT (ECALL)
 
 7.13.2. a. 1 |
 
@@ -5314,7 +5314,7 @@ Le système signale une défaillance via l'interface électronique du véhicule 
 
 Mineure |
 
-7.13.3. PERFORMANCES
+7.13.3. PERFORMANCES (ECALL)
 
 7.13.3. a. 1 |
 
@@ -5331,8 +5331,6 @@ Mauvais fonctionnement des composants audio |
 |
 
 Mineure |
-
-8. NUISANCES
 
 8.1. BRUIT
 
@@ -6345,7 +6343,3 @@ L'opacité des fumées en accélération libre, mesurée par leur coefficient d'
 -0,7 m-1 pour les véhicules réceptionnés selon la norme européenne d'émission Euro 6 .
 
 Dans tous les autres cas, lorsque le résultat d'un contrôle technique est défavorable au titre d'un point de contrôle, la contre-visite porte sur l'ensemble de points correspondant.
-
-NOTA :
-
-Conformément à l’article 13 de l’arrêté du 8 février 2022 (NOR : TRER2204042A), ces dispositions entrent en vigueur le 20 mai 2023.
