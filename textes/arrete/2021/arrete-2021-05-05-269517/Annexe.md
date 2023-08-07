@@ -5298,7 +5298,7 @@ Par exception, la somme revenant à l'avocat est payée par la CARPA (article 10
 
 9. PENSIONS DE L'ÉTAT, ACCESSOIRES DE PENSIONS ET ÉMOLUMENTS ASSIMILÉS |
 
-Par accessoires de pensions et émoluments assimilés, on entend allocations annuelles ou viagères, allocations temporaires d'invalidité, allocations diverses, retraites du combattant, traitements de la légion d'honneur et de la médaille militaire, etc. |
+Par accessoires de pensions et émoluments assimilés, on entend allocations annuelles ou viagères, allocations temporaires d'invalidité, allocations diverses, traitements de la légion d'honneur et de la médaille militaire, etc. |
 
 9.1. MISE EN PAIEMENT |
 
