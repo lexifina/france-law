@@ -1,0 +1,9 @@
+# Réponse à la question n° 9399
+
+- Question : [9399](9399.md) — Question n° 9399 — Opérations de revitalisation du territoire (ORT)
+
+## Réponse
+
+*JO du 2023-08-08, page 7399*
+
+L'opération de revitalisation de territoire (ORT) est une démarche intégratrice définissant une stratégie globale de développement du territoire, au service de la revitalisation des centres-villes, portée par la commune et l'établissement public de coopération intercommunale. Elle peut parfois s'appuyer sur les programmes nationaux « Action cœur de ville » ou « Petites villes de demain ». Les conventions porteuses de ces programmes sont pour la plupart récentes et encore en vigueur. Le cas échéant, leur renouvellement concerne, à ce jour, uniquement les premières conventions portant sur le programme « Action cœur de ville », initié avant la création des ORT par la loi du 23 novembre 2018. Ce renouvellement s'effectue par avenant, dont le modèle a été diffusé au printemps 2023 et conformément à l'instruction ministérielle du 24 mai 2023, relative à la prorogation de ce programme. L'ORT est en revanche un dispositif pérenne, codifié à l'article L. 303-2 du code de la construction et de l'habitation, qui peut prospérer indépendamment de tout programme national. La convention qui porte l'ORT, à l'issue de sa durée de validité, peut tout à fait être reconduite, dès lors que l'ensemble des signataires en partagent l'intérêt. S'agissant du dispositif « Denormandie », dispositif fiscal qui bénéficie aux communes signataires d'une convention ORT, dont l'échéance est, à ce jour, fixée au 31 décembre 2023, la loi de finances pour 2023 prévoit la remise, au plus tard le 30 septembre 2023, d'un rapport d'évaluation. Les éléments de ce rapport permettront d'éclairer l'opportunité, et le cas échéant, les modalités de sa prorogation par la loi, au-delà de cette échéance.
