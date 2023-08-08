@@ -1,0 +1,9 @@
+# Réponse à la question n° 6063
+
+- Question : [6063](6063.md) — Question n° 6063 — Accélérer la procédure d'acquisition des successions vacantes
+
+## Réponse
+
+*JO du 2023-08-08, page 7376*
+
+Le 1° de l'article L. 1123-1 du code général de la propriété des personnes publiques (CG3P), modifié par l'article 98 de la loi n° 2022-217 du 21 février 2022 dite « 3DS », permet pour certains biens de ramener de 30 à 10 ans le délai au terme duquel la commune ou subsidiairement, l'établissement public de coopération intercommunale (EPCI), acquiert le bien sans formalité. Le législateur a porté une attention particulière au respect du droit de propriété et au droit commun de la prescription trentenaire en réservant au propriétaire un droit de restitution ou d'indemnisation (article L. 2222-20 du CG3P) et en exigeant, conformément à la jurisprudence du Conseil constitutionnel, que la commune ou l'EPCI poursuive une fin d'intérêt général définie et utilise des moyens proportionnés à cet objectif. Le délai de 10 ans est ainsi réservé aux opérations d'aménagement du territoire et à la politique de la ville : grande opération d'urbanisme, opération de revitalisation de territoire, zone de revitalisation rurale ou quartiers prioritaires. La délimitation de tels périmètres constitue un encadrement minimal adapté au regard des exigences inhérentes au respect du droit de propriété. Le législateur, lors des débats de la loi « 3DS », a ainsi refusé de généraliser le délai de 10 ans à tout le territoire. Il a en revanche accepté l'amendement du Gouvernement, introduit en première lecture au Sénat, étendant le délai de 10 ans aux zones de revitalisation rurale et aux quartiers prioritaires, étant rappelé que les zones de revitalisation rurale couvrent 14 900 communes, soit près de 43% des communes.
