@@ -8,53 +8,45 @@ Spécialités de diplômes professionnels concernées par la formation définie 
 
 Spécialités de baccalauréat professionnel
 
-Menuiserie aluminium-verre
+Menuiserie aluminium-verre.
 
-Ouvrages du bâtiment : métallerie
+Ouvrages du bâtiment : métallerie.
 
-Technicien d'études du bâtiment, option A : études et économie
+Technicien d'études du bâtiment, option A : études et économie.
 
-Technicien d'études du bâtiment, option B : assistant en architecture
-
-Travaux publics
+Technicien d'études du bâtiment, option B : assistant en architecture.
 
 Spécialité de brevet professionnel
 
-Métiers de la pierre
+Métiers de la pierre.
+
+Tailleur de pierre : monuments historiques.
 
 Spécialités de certificat d'aptitude professionnelle
 
-Couvreur
+Couvreur.
 
-Marbrier du bâtiment et de la décoration
+Marbrier du bâtiment et de la décoration.
 
-Menuisier aluminium-verre
+Menuisier aluminium-verre.
 
-Métiers du plâtre et de l'isolation (première session d'examen 2021)
+Métiers du plâtre et de l'isolation (première session d'examen 2021).
 
-Serrurier-métallier
+Serrurier-métallier.
 
-Tailleur de pierre
+Etancheur du bâtiment et des travaux publics.
+
+Tailleur de pierre.
 
 Mention complémentaire de niveau 3
 
-Zinguerie
+Zinguerie (dernière session d'examen 2023).
+
+Zingueur (première session d'examen 2024).
 
 Mention complémentaire de niveau 4
 
-Peinture décoration
-
-Spécialités de brevet d'études professionnelles
-
-Aménagement finition
-
-Menuiserie aluminium-verre
-
-Réalisations du gros-œuvre
-
-Réalisation d'ouvrages de métallerie du bâtiment
-
-Travaux publics
+Peinture décoration.
 
 Groupe II
 
@@ -62,15 +54,15 @@ Spécialités de diplômes professionnels concernées par la formation définie 
 
 Spécialités de brevet professionnel
 
-Couvreur
+Couvreur.
 
-Métallier
+Métallier.
 
-Menuisier aluminium-verre
+Menuisier aluminium-verre.
 
 Mention complémentaire de niveau 4
 
-Technicien en énergies renouvelables
+Technicien en énergies renouvelables.
 
 Groupe III
 
@@ -78,19 +70,21 @@ Spécialités de diplômes professionnels concernées par la formation définie 
 
 Spécialités de certificat d'aptitude professionnelle
 
-Maçon
+Maçon.
 
-Constructeur en béton armé du bâtiment (dernière session d'examen 2020)
+Construction d'ouvrages en béton armé (première session d'examen 2021).
 
-Construction d'ouvrages en béton armé (première session d'examen 2021)
+Peintre-applicateur de revêtement.
 
-Constructeur en ouvrages d'art (dernière session d'examen 2020)
+Mention complémentaire de niveau 3
 
-Peintre-applicateur de revêtement
+Plaquiste (dernière session d'examen 2023).
+
+Plâtrier (première session d'examen 2024).
 
 Spécialité de brevet professionnel
 
-Métiers du plâtre et de l'isolation
+Métiers du plâtre et de l'isolation.
 
 Groupe IV
 
@@ -98,20 +92,20 @@ Diplômes professionnels concernés par la formation définie en annexes 3,4,5 d
 
 Spécialités de baccalauréat professionnel
 
-Aménagement et finition du bâtiment
+Aménagement et finition du bâtiment.
 
-Intervention sur le patrimoine bâti
+Intervention sur le patrimoine bâti.
 
-Technicien du bâtiment : organisation et réalisation du gros œuvre
+Technicien du bâtiment : organisation et réalisation du gros œuvre.
+
+Mention complémentaire de niveau 3
+
+Echafaudeur (première session d'examen 2025).
 
 Spécialités de brevet professionnel
 
-Etanchéité du bâtiment et des travaux publics (première session 2020)
+Etanchéité du bâtiment et des travaux publics (première session 2020).
 
-Maçon
+Maçon.
 
-Peinture applicateur de revêtements
-
-NOTA :
-
-Conformément à l'article 3 de l'arrêté du 22 juillet 2019, les dispositions prennent effet à compter de la session d'examen 2020.
+Peinture applicateur de revêtements.
