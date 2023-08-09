@@ -84,7 +84,7 @@ correspondant dans la classe normale |
 
 11e échelon avec majoration de 5 ans et 6 mois (2) |
 
-Echelon spécial |
+5e échelon |
 
 11e échelon avec majoration de 8 ans et 6 mois (3) |
 
@@ -96,4 +96,4 @@ Echelon spécial |
 
 NOTA :
 
-Conformément à l’article 10 du décret n° 2022-708 du 26 avril 2022, ces dispositions sont applicables aux décisions individuelles de classement prenant effet à compter du 1er septembre 2022.
+Conformément à l'article 25 du décret n° 2023-729 du 7 août 2023, ces dispositions sont applicables aux décisions individuelles de classement prenant effet à compter du 1er septembre 2023.
