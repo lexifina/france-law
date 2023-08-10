@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103806
+
+- Question : [SEQ221103806](seq221103806.md) — Dysfonctionnement d'un réseau d'assainissement pluvial ou d'eaux usées
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-08-10, page 4894*
+
+Les canalisations de collecte et d'évacuation des eaux constituent des ouvrages publics auxquels s'applique le régime de la responsabilité administrative du fait des travaux publics. Il résulte d'une jurisprudence constante que le maître de l'ouvrage est responsable, même en l'absence de faute, des dommages que les ouvrages publics dont il a la garde peuvent causer aux tiers tant en raison de leur existence que de leur fonctionnement. Le régime de responsabilité diffère selon que les inondations présentent un caractère répété, excédant les sujétions habituelles, ou bien qu'elles revêtent un caractère accidentel et ponctuel. Si, dans le premier cas, les dommages relèveront de la responsabilité sans faute pour dommages permanents (CAA Douai, 29 déc. 2005, n° 03DA00996, Commune de Fruges), dans le second cas, ils seront susceptibles d'engager la responsabilité sans faute pour dommage accidentels du maître de l'ouvrage (CAA Bordeaux, 3 janv. 2017, n° 14BX02632, Société Veolia eau - Compagnie générale des eaux). Le maître de l'ouvrage ne pourra dégager sa responsabilité que s'il est établi que ces dommages résultent de la faute de la victime ou d'un cas de force majeure (CAA Nantes, 21 oct. 2016, n° 15NT00876, Commune de Sigloy). En tout état de cause, il revient au requérant d'apporter la preuve de la réalité des préjudices subis, de déterminer la cause des inondations et d'apporter la preuve du lien de causalité direct entre les dommages allégués et l'existence et/ou le fonctionnement d'un ouvrage public (CAA Marseille, 9 nov. 2021, n° 20MA02377, Commune de Passa).
