@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305639
+
+- Question : [SEQ230305639](seq230305639.md) — Statut des voies et réseaux de desserte internes à un lotissement communal
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-08-10, page 4905*
+
+Le code de l'urbanisme explicite les possibilités offertes aux lotisseurs. En vertu de son article L. 442-1, un lotissement est une « division en propriété ou en jouissance d'une unité foncière ou de plusieurs unités foncières contiguës ayant pour objet de créer un ou plusieurs lots destinés à être bâtis. ». Le code de l'urbanisme ne distingue pas entre un lotissement privé et un lotissement communal. L'article R. 421-19 précise pour sa part qu'un lotissement est soumis à permis d'aménager lorsqu'il est prévu « la création ou l'aménagement de voies, d'espaces ou d'équipements communs à plusieurs lots destinés à être bâtis et propres au lotissement ». La gestion des équipements communs doit être précisée dans le dossier de demande. L'article R. 442-7 impose ainsi au lotisseur la constitution d'une association syndicale à laquelle sera dévolue la gestion et l'entretien des terrains et équipements communs. L'article R. 422-8 prévoit une exception à cette règle lorsqu'est prévu le transfert dans le domaine communal des équipements communs du lotissement une fois les travaux achevés. Quand le lotisseur est différent de la commune, une convention en ce sens est versée au dossier de demande du permis d'aménager. Dans le cas d'un lotissement communal, la commune pétitionnaire, qui ne va pas conclure une convention avec elle-même, devra simplement indiquer dans sa demande le mode de gestion des équipements commun choisi. En raison de l'indépendance des législations, cette indication ne la dispense pas de procéder au classement de ces voies dans la voirie communale, par délibération du conseil municipal.
