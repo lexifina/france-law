@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230707722
+
+- Question : [SEQ230707722](seq230707722.md) — Alignement des constructions dans l'objectif du zéro artificialisation nette
+
+## Réponse
+
+*Transition écologique et cohésion des territoires, JO du 2023-08-10, page 4946*
+
+Pour faciliter la mise en oeuvre de l'objectif de zéro artificialisation nette (ZAN) des sols d'ici à 2050, la loi n° 2021-1104 du 22 août 2021, portant sur la lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets, a renforcé les mesures en faveur de la densification dans le code de l'urbanisme. Ces mesures prévoient notamment de pouvoir déroger aux règles des plans locaux d'urbanisme en matière de retrait par rapport aux limites séparatives, pour favoriser la construction de logements dans les zones tendues, ceci dans un objectif de mixité sociale. La loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique a élargi ces dérogations aux règles de retrait et d'alignement des constructions à l'ensemble des constructions situées dans le périmètre des secteurs d'intervention des opérations de revitalisation de territoire, délimités en application de l'article L. 303-2 du code de la construction et de l'habitation. Ces dernières dérogations sont donc ciblées, afin de répondre à un objectif précis et n'ont pas vocation à être élargies en dehors de ce cadre. Par ailleurs, l'autorité compétente en charge de l'élaboration d'un document d'urbanisme est encouragée à prévoir des règles ou des orientations favorisant l'intensification urbaine dans son PLU, y compris en dehors des secteurs de dérogation, pour limiter l'extension urbaine et protéger les sols des espaces naturels, agricoles et forestiers.
