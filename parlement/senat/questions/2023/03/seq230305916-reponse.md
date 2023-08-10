@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305916
+
+- Question : [SEQ230305916](seq230305916.md) — Accès à un emploi dans la fonction publique territoriale pour les ressortissants suisses
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-08-10, page 4911*
+
+Aux termes de l'article L. 321-2 du code général de la fonction publique, l'accès aux corps, cadres d'emplois et emplois de la fonction publique est ouvert aux ressortissants d'un État membre de l'Union européenne et d'un État partie à l'accord sur l'Espace économique européen. Il est aussi ouvert aux ressortissants d'un État pour lequel un accord ou une convention l'a prévu. Tel est le cas de la Suisse, qui n'est ni membre de l'Union européenne ni partie à l'Espace économique européen, mais qui a conclu le 21 juin 1999 un accord sur la libre circulation des personnes avec la Communanuté européenne et ses États membres. Ratifié par la France dans le cadre de la loi n° 2001-1117 du 28 novembre 2001, cet accord permet aux ressortissants helvétiques de bénéficier des mêmes droits que les ressortissants de l'Union européenne et d'un État partie à l'accord sur l'Espace économique européen en ce qui concerne l'accès à la fonction publique. Un ressortissant de la Confédération suisse peut ainsi présenter un concours de la fonction publique territoriale ou être recruté comme agent contractuel par une collectivité territoriale. Toutefois, aux termes du même article L. 321-2, les intéressés n'ont pas accès aux emplois et ne peuvent en aucun cas se voir conférer des fonctions dont les attributions ne sont pas séparables de l'exercice de la souveraineté ou comportent une participation directe ou indirecte à l'exercice de prérogatives de puissance publique. Ainsi, par exemple, un ressortissant étranger ne saurait être recruté dans une collectivité territoriale comme policier municipal ou se voir confier des fonctions liées à l'état civil.
