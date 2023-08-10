@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204379
+
+- Question : [SEQ221204379](seq221204379.md) — Anonymisation des délibérations des collectivités territoriales avant leur communication au public
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-08-10, page 4896*
+
+Aux termes de l'article 4 du règlement n° 2016/679 du 27 avril 2016, dit règlement général sur la protection des données, constitue une donnée à caractère personnel « toute information se rapportant à une personne physique identifiée ou identifiable », directement ou indirectement. L'identité d'une personne physique bénéficiant d'une subvention entre ainsi dans cette définition. En outre, le deuxième alinéa de l'article L. 312-1-2 du code des relations entre le public et l'administration (CRPA) prévoit que « Sauf dispositions législatives contraires ou si les personnes intéressées ont donné leur accord, lorsque les documents et les données mentionnés aux articles L. 312-1 ou L. 312-1-1 comportent des données à caractère personnel, ils ne peuvent être rendus publics qu'après avoir fait l'objet d'un traitement permettant de rendre impossible l'identification de ces personnes. Une liste des catégories de documents pouvant être rendus publics sans avoir fait l'objet du traitement susmentionné est fixée par décret pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés ». Cette liste est fixée par l'article D. 312-1-3 du CRPA. Dans le cas des délibérations prévoyant l'attribution de subventions à des personnes physiques, aucune disposition contraire n'exempte la collectivité territoriale du respect de cette obligation (Commission d'accès aux documents administratifs, séance du 27/04/2017, n° 20164985). Ainsi, sauf accord du bénéficiaire de la subvention, une collectivité territoriale devra procéder, préalablement à toute publication, à un traitement permettant de rendre impossible l'identification de la personne physique concernée.
