@@ -6,39 +6,29 @@ Spécialités : |
 
 Appui opérationnel transverse |
 
-Auto-engins
-
-blindés |
+Auto-engins blindés |
 
 Affaires immobilières |
 
-Armurerie et pyrotechnie |
+Armurerie
 
-Restauration hôtellerie loisirs |
+et pyrotechnie |
 
-Epreuve de mise en situation professionnelle
+Restauration
 
-(durée 2 heures ; coefficient 2) :
+hôtellerie loisirs |
 
-Cette épreuve consiste pour le candidat à répondre à plusieurs questions ou commandes, avec ou sans documentation. Le candidat pourra être amené à produire des réponses ou des documents de différentes natures. |
+Epreuve de mise en situation professionnelle (durée 2 heures ; coefficient 2) : Cette épreuve consiste pour le candidat à répondre à plusieurs questions ou commandes, avec ou sans documentation. Le candidat pourra être amené à produire des réponses ou des documents de différentes natures. |
 
-Épreuve visant à évaluer les capacités d'analyse et de synthèse du candidat, ses qualités rédactionnelles et son niveau d'orthographe. Cette épreuve généraliste portant sur le domaine des ressources humaines, de la logistique et des finances ne requiert aucune connaissance préalable. Pas de programme particulier. |
+Epreuve visant à évaluer les capacités d'analyse et de synthèse du candidat, ses qualités rédactionnelles et son niveau d'orthographe. Cette épreuve généraliste portant sur le domaine des ressources humaines, de la logistique et des finances ne requiert aucune connaissance préalable. Pas de programme particulier. |
 
-Epreuve visant à évaluer les connaissances techniques et professionnelles du candidat dans le domaine des auto-engins blindés.
+Epreuve visant à évaluer les connaissances techniques et professionnelles du candidat dans le domaine des auto-engins blindés. Cette épreuve porte sur le programme défini au I de la présente annexe. |
 
-Cette épreuve porte sur le programme défini au II de la présente annexe. |
+Epreuve visant à évaluer les connaissances techniques et professionnelles du candidat dans le domaine des affaires immobilières. Cette épreuve porte sur le programme défini au II de la présente annexe. |
 
-Epreuve visant à évaluer les connaissances techniques et professionnelles du candidat dans le domaine des affaires immobilières.
+Epreuve visant à évaluer les connaissances techniques et professionnelles du candidat dans le domaine de l'armurerie et de la pyrotechnie. Cette épreuve porte sur le programme défini au III de la présente annexe |
 
-Cette épreuve porte sur le programme défini au III de la présente annexe. |
-
-Epreuve visant à évaluer les connaissances techniques et professionnelles du candidat dans le domaine de l'armurerie et de la pyrotechnie.
-
-Cette épreuve porte sur le programme défini au IV de la présente annexe |
-
-Epreuve visant à évaluer les connaissances techniques et professionnelles du candidat dans le domaine de la restauration hôtellerie loisirs.
-
-Cette épreuve porte sur le programme défini au V de la présente annexe. |
+Epreuve visant à évaluer les connaissances techniques et professionnelles du candidat dans le domaine de la restauration hôtellerie loisirs. Cette épreuve porte sur le programme défini au IV de la présente annexe. |
 
 I. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité auto-engins blindés
 
@@ -383,7 +373,3 @@ IV. - Programme relatif à l'épreuve de mise en situation professionnelle de la
 - les règles d'hygiène, de sécurité et de prévention des accidents du travail ;
 
 - les grands principes du droit du travail.
-
-NOTA :
-
-Conformément à l'article 4 de l'arrêté du 24 mars 2022 (NOR : INTJ2207720A), les dispositions du présent arrêté sont applicables à compter du recrutement organisé au titre de la session de septembre 2022.

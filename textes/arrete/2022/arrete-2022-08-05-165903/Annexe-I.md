@@ -1,16 +1,20 @@
 # Article Annexe I
 
-ÉPREUVES DES CONCOURS PRÉVUS AU 1° DE L'ARTICLE 6 DU DÉCRET DU 12 SEPTEMBRE 2008 SUSVISÉ (OUVERT AUX CANDIDATS TITULAIRES D'UN DIPLÔME OU TITRE CONFÉRANT LE GRADE DE MASTER OU D'UN DIPLÔME OU TITRE HOMOLOGUÉ OU ENREGISTRÉ AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES AU NIVEAU 7)-CONCOURS OFFICIER DE GENDARMERIE UNIVERSITAIRE ET AU 2° DE L'ARTICLE 6 DU MÊME DÉCRET SUSVISÉ (OUVERT AUX FONCTIONNAIRES DE CATÉGORIE A)
+Epreuves des concours prévus :
 
-I. - Epreuves d'admissibilité
+-au 1° de l'article 6 du décret du 12 septembre 2008 susvisé (ouvert aux candidats titulaires d'un diplôme ou titre conférant le grade de master ou d'un diplôme ou titre homologué ou enregistré au répertoire national des certifications professionnelles au niveau 7)-concours officier de gendarmerie universitaire ;
 
-1° Epreuve de culture générale (durée : cinq heures ; coefficient 5).
+-au 2° de l'article 6 du même décret susvisé (ouvert aux fonctionnaires de catégorie A).
+
+I.-Epreuves d'admissibilité
+
+1° Epreuve de culture générale (durée : cinq heures ; coefficient 5)
 
 Cette épreuve est destinée à mettre en relief, outre les connaissances et les idées personnelles des candidats, leurs qualités générales de style, de clarté d'esprit, de jugement et de méthode.
 
 Elle consiste à rédiger un devoir sur un sujet d'ordre général se rapportant à l'évolution des idées et des faits politiques, économiques et sociaux en France et dans le monde depuis le début du XXe siècle.
 
-2° Epreuve de synthèse de dossier (durée : quatre heures ; coefficient 5).
+2° Epreuve de synthèse de dossier (durée : quatre heures ; coefficient 5)
 
 Cette épreuve vise à déterminer l'aptitude des candidats à dégager les idées essentielles d'un dossier comprenant entre 30 et 40 pages et portant sur un sujet d'ordre général.
 
@@ -44,37 +48,37 @@ Rédaction de plus de 700 mots |
 
 moins 10 points |
 
-3° Epreuve à option (durée : quatre heures ; coefficient 5).
+3° Epreuve à option (durée : quatre heures ; coefficient 5)
 
 Cette épreuve porte, au choix du candidat, sur l'une des matières suivantes :
 
-- droit pénal ;
+-droit pénal ;
 
-- droit public ;
+-droit public ;
 
-- finances publiques ;
+-finances publiques ;
 
-- sciences économiques et de gestion ;
+-sciences économiques et de gestion ;
 
-- histoire-géographie.
+-histoire-géographie.
 
-A. - Option droit pénal
+A.-OPTION DROIT PÉNAL
 
 Cette épreuve consiste à rédiger une composition portant sur l'un des thèmes de droit pénal général, de procédure pénale ou de droit pénal spécial figurant au programme défini ci-après.
 
 Lors des épreuves, les candidats ne peuvent disposer que :
 
-- des codes (qui peuvent être annotés par l'éditeur, mais non commentés) ;
+-des codes (qui peuvent comporter des références d'articles de doctrine ou de jurisprudence) ;
 
-- des impressions du Journal officiel (non commenté).
+-des impressions du Journal officiel (non commenté).
 
 Il est interdit aux candidats, sous peine d'exclusion :
 
-- de détenir des documents imprimés ou manuscrits, autres que ceux cités aux alinéas précédents ;
+-de détenir des documents imprimés ou manuscrits, autres que ceux cités aux alinéas précédents ;
 
-- d'utiliser des codes ou impressions du Journal officiel surlignés, soulignés, annotés ou comportant des onglets, même vierges.
+-d'utiliser des codes ou impressions du Journal officiel comportant des annotations manuscrites ainsi que des codes annotés et commentés article par article par des praticiens du droit.
 
-I. - Droit pénal général
+I.-Droit pénal général
 
 Le phénomène criminel (le crime et la criminalité).
 
@@ -142,7 +146,7 @@ L'exécution des peines.
 
 L'extinction des peines.
 
-II. - Procédure pénale
+II.-Procédure pénale
 
 Définition et objet de la procédure pénale.
 
@@ -168,7 +172,7 @@ L'instruction préparatoire (caractères généraux ; saisine, pouvoirs et devoi
 
 Le jugement (procédure d'audience et voies de recours ; autorité de la chose jugée).
 
-III. - Droit pénal spécial
+III.-Droit pénal spécial
 
 a) Définition, objet et sources du droit spécial.
 
@@ -176,55 +180,55 @@ b) Les infractions contre les personnes :
 
 Les infractions de nature purement corporelle :
 
-- atteintes volontaires à la vie d'autrui (meurtre, empoisonnement) ;
+-atteintes volontaires à la vie d'autrui (meurtre, empoisonnement) ;
 
-- atteintes volontaires à l'intégrité d'autrui (violences) ;
+-atteintes volontaires à l'intégrité d'autrui (violences) ;
 
-- homicides involontaires ;
+-homicides involontaires ;
 
-- atteintes involontaires à l'intégrité d'autrui.
+-atteintes involontaires à l'intégrité d'autrui.
 
 Les infractions de mise en danger :
 
-- mise en danger délibérée d'autrui (délit de risques causés à autrui) ;
+-mise en danger délibérée d'autrui (délit de risques causés à autrui) ;
 
-- conduite en état alcoolique ;
+-conduite en état alcoolique ;
 
-- omission de porter secours à personne en péril.
+-omission de porter secours à personne en péril.
 
 Les infractions en matière de stupéfiants.
 
 Les infractions de nature sexuelle :
 
-- agressions sexuelles (viol et autres agressions, exhibition sexuelle, harcèlement sexuel) ;
+-agressions sexuelles (viol et autres agressions, exhibition sexuelle, harcèlement sexuel) ;
 
-- atteintes sexuelles non violentes sur mineur.
+-atteintes sexuelles non violentes sur mineur.
 
 Les infractions contre l'enfant et la famille :
 
-- non-respect d'obligations pécuniaires (abandon de famille) ;
+-non-respect d'obligations pécuniaires (abandon de famille) ;
 
-- non-respect de l'obligation de garde (non-représentation d'enfant) ;
+-non-respect de l'obligation de garde (non-représentation d'enfant) ;
 
-- atteintes à l'intégrité physique ou psychique ou à la moralité du mineur (privations d'aliments ou de soins, abandon moral, diffusion de messages pornographiques ou violents).
+-atteintes à l'intégrité physique ou psychique ou à la moralité du mineur (privations d'aliments ou de soins, abandon moral, diffusion de messages pornographiques ou violents).
 
 c) Les infractions contre les biens :
 
-- les incriminations fondamentales concernant les appropriations frauduleuses : vol, escroquerie, abus de confiance, recel de choses ;
+-les incriminations fondamentales concernant les appropriations frauduleuses : vol, escroquerie, abus de confiance, recel de choses ;
 
-- les destructions, détériorations et dégradations de biens.
+-les destructions, détériorations et dégradations de biens.
 
 d) Autres infractions :
 
-- infractions contre les intérêts publics : faux et usage de faux, corruption active et corruption passive, prise illégale d'intérêt ;
+-infractions contre les intérêts publics : faux et usage de faux, corruption active et corruption passive, prise illégale d'intérêt ;
 
-- infractions en matière de sociétés : abus de biens sociaux.
+-infractions en matière de sociétés : abus de biens sociaux.
 
-B. - Option droit public
+B.-OPTION DROIT PUBLIC
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, une composition portant sur l'un des thèmes de droit constitutionnel, de libertés publiques ou de droit administratif figurant au programme défini ci-après.
 
-I. - Droit constitutionnel
+I.-Droit constitutionnel
 
 1° Les principes fondamentaux du droit constitutionnel :
 
@@ -234,31 +238,33 @@ b) Etude de l'Etat unitaire et de l'Etat fédéral.
 
 Typologie des régimes politiques et formes d'Etat correspondantes :
 
-- forme monocratique ;
+-forme monocratique ;
 
-- forme oligarchique ;
+-forme oligarchique ;
 
-- forme démocratique.
+-forme démocratique.
 
 c) Les grands systèmes politiques contemporains :
 
-- les systèmes autoritaires, les systèmes totalitaires ;
+-les systèmes autoritaires, les systèmes totalitaires ;
 
-- les systèmes démocratiques modernes.
+-les systèmes démocratiques modernes.
 
-2° La notion de droit constitutionnel :
+2° Les sources du droit constitutionnel :
 
-a) Les sources du droit constitutionnel :
+a) L'histoire constitutionnelle française depuis la IIIe République.
 
-- les lois constitutionnelles ;
+b) La hiérarchie des normes :
 
-- la supériorité des lois constitutionnelles sur les lois ordinaires et le contrôle de la constitutionnalité des lois ;
+-le bloc de constitutionnalité ;
 
-- les déclarations de droit et leur valeur juridique.
+-la loi ;
 
-b) Les rapports du droit constitutionnel et du droit international.
+-les ordonnances ;
 
-c) L'histoire constitutionnelle française depuis la IIIe République.
+-le pouvoir réglementaire ;
+
+-les traités et actes de l'Union européenne.
 
 3° La Constitution de la Ve République :
 
@@ -266,45 +272,45 @@ a) Ses principes fondamentaux : souveraineté nationale et séparation des pouvo
 
 b) Les organes fondamentaux de l'Etat et leurs fonctions :
 
-- le Président de la République ;
+-le Président de la République ;
 
-- le Gouvernement ;
+-le Gouvernement ;
 
-- le Parlement ;
+-le Parlement ;
 
-- le Conseil constitutionnel et le contrôle de constitutionnalité ;
+-le Conseil constitutionnel et le contrôle de constitutionnalité ;
 
-- l'autorité judiciaire et son indépendance.
+-l'autorité judiciaire et son indépendance.
 
-II. - Libertés publiques
+II.-Libertés publiques
 
 1° Les principes généraux des libertés publiques :
 
 a) La notion de libertés publiques :
 
-- la liberté ;
+-la liberté ;
 
-- la classification bipartite des libertés publiques (libertés individuelles et libertés collectives).
+-la classification bipartite des libertés publiques (libertés individuelles et libertés collectives).
 
 b) Les sources des libertés publiques :
 
-- la source constitutionnelle ;
+-la source constitutionnelle ;
 
-- la source conventionnelle ;
+-la source conventionnelle ;
 
-- la source législative ;
+-la source législative ;
 
-- la source réglementaire ;
+-la source réglementaire ;
 
-- les sources jurisprudentielles ;
+-les sources jurisprudentielles ;
 
-- la hiérarchie des sources.
+-la hiérarchie des sources.
 
 c) La protection des libertés publiques :
 
-- le contrôle juridictionnel (la protection contre la loi et la protection contre les actes de l'administration) ;
+-le contrôle juridictionnel (la protection contre la loi et la protection contre les actes de l'administration) ;
 
-- le contrôle non juridictionnel (le Défenseur des droits et le renforcement de la garantie des administrés).
+-le contrôle non juridictionnel (le Défenseur des droits et le renforcement de la garantie des administrés).
 
 d) Les limites aux libertés publiques : les régimes exceptionnels (l'article 16 de la Constitution, l'état de siège, l'état d'urgence, la théorie des circonstances exceptionnelles).
 
@@ -312,31 +318,35 @@ d) Les limites aux libertés publiques : les régimes exceptionnels (l'article 1
 
 a) Les libertés individuelles :
 
-- la protection de la vie privée ;
+-la protection de la vie privée ;
 
-- la sûreté personnelle ;
+-la sûreté ;
 
-- la liberté d'aller et venir ;
+-la liberté d'aller et venir ;
 
-- le droit à la vie.
+-le droit à la vie.
 
 b) Les libertés collectives :
 
-- la liberté de réunion ;
+-la liberté de réunion ;
 
-- la liberté de manifestation ;
+-la liberté de manifestation ;
 
-- la liberté d'association ;
+-la liberté d'association ;
 
-- la liberté de la presse ;
+-la liberté de la presse ;
 
-- la liberté de communication audiovisuelle ;
+-la liberté de communication audiovisuelle ;
 
-- la liberté religieuse ;
+-la liberté de l'enseignement ;
 
-- la liberté de l'enseignement.
+-la liberté de conscience ;
 
-III. - Droit administratif
+-la liberté de religion ;
+
+-la liberté d'expression et d'information.
+
+III.-Droit administratif
 
 1° Les sources du droit administratif :
 
@@ -348,11 +358,11 @@ b) Les traités internationaux.
 
 a) L'administration d'Etat :
 
-- l'administration centrale, le Président de la République ;
+-l'administration centrale, le Président de la République ;
 
-- le Premier ministre, les ministres, l'administration consultative, les autorités administratives indépendantes ;
+-le Premier ministre, les ministres, l'administration consultative, les autorités administratives indépendantes ;
 
-- l'administration d'Etat déconcentrée (préfet, sous-préfet), les services extérieurs de l'Etat.
+-l'administration d'Etat déconcentrée (préfet, sous-préfet), les services extérieurs de l'Etat.
 
 b) Les collectivités territoriales : la région, le département, la commune, les groupements de collectivités territoriales, le statut de Paris-Lyon-Marseille, le contrôle administratif des collectivités territoriales.
 
@@ -366,25 +376,25 @@ a) Le principe de la légalité administrative.
 
 b) L'objet de l'action de l'administration :
 
-- la théorie générale des services publics ;
+-la théorie générale des services publics ;
 
-- la police administrative.
+-la police administrative.
 
 c) La responsabilité administrative extracontractuelle :
 
-- la responsabilité de l'administration : la responsabilité pour faute, la responsabilité sans faute ;
+-la responsabilité de l'administration : la responsabilité pour faute, la responsabilité sans faute ;
 
-- la responsabilité du fonctionnaire et ses rapports avec celle de l'administration.
+-la responsabilité du fonctionnaire et ses rapports avec celle de l'administration.
 
 4° La justice administrative :
 
 a) Les principales juridictions administratives :
 
-- le Conseil d'Etat ;
+-le Conseil d'Etat ;
 
-- les cours administratives d'appel ;
+-les cours administratives d'appel ;
 
-- les tribunaux administratifs.
+-les tribunaux administratifs.
 
 b) Le partage des compétences entre les juridictions administratives et judiciaires, le Tribunal des conflits.
 
@@ -396,11 +406,11 @@ a) La théorie générale du droit de la fonction publique : les sources, la com
 
 b) Le régime juridique de la fonction publique : la carrière du fonctionnaire, les droits et obligations du fonctionnaire.
 
-C. - Option finances publiques
+C.-OPTION FINANCES PUBLIQUES
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, une composition portant sur l'un des thèmes figurant au programme défini ci-après.
 
-I. - Le cadre général des finances publiques
+I.-Le cadre général des finances publiques
 
 1° Définitions, notions clés et principales masses financières :
 
@@ -424,7 +434,7 @@ a) Les administrations financières françaises : ministère de l'économie et d
 
 b) La Banque centrale européenne : rôle et organisation. La politique monétaire et le financement des administrations publiques dans la zone euro.
 
-II. - La politique budgétaire
+II.-La politique budgétaire
 
 1° Les notions d'équilibre et de déficit ; régimes juridiques applicables aux différentes collectivités publiques en matière d'équilibre. Les soldes structurel et conjoncturel. Le solde primaire. Le solde stabilisant. Notion de soutenabilité de la dette. Objectifs de la politique budgétaire.
 
@@ -432,9 +442,9 @@ II. - La politique budgétaire
 
 3° Notions sur les politiques de relance et de maîtrise des finances publiques. L'impact de la dette publique sur l'économie.
 
-III. - Eléments sur les prélèvements obligatoires et la politique fiscale
+III.-Eléments sur les prélèvements obligatoires et la politique fiscale
 
-1° Les grandes classifications fiscales : impôts directs/impôts indirects, impôts proportionnels/impôts progressifs, impôts sur la consommation/la production/le revenu/le patrimoine.
+1° Les grandes classifications fiscales : impôts directs/ impôts indirects, impôts proportionnels/ impôts progressifs, impôts sur la consommation/ la production/ le revenu/ le patrimoine.
 
 2° Les théories fiscales : la justification de l'impôt et des autres prélèvements obligatoires. La neutralité des prélèvements obligatoires. Le consentement à l'impôt. L'effet redistributif des prélèvements obligatoires. L'incidence des prélèvements obligatoires sur la croissance, l'emploi et le développement durable.
 
@@ -444,7 +454,7 @@ III. - Eléments sur les prélèvements obligatoires et la politique fiscale
 
 5° Principes généraux du contentieux de l'impôt.
 
-IV. - Les finances de l'Etat
+IV.-Les finances de l'Etat
 
 1° La structure du budget de l'Etat et des lois de finances (l'équilibre du budget, le tableau de financement, l'articulation première et seconde partie de la loi de finances). Les principales ressources et dépenses de l'Etat. Les principaux documents budgétaires.
 
@@ -458,7 +468,7 @@ IV. - Les finances de l'Etat
 
 6° La gestion publique issue de la loi organique relative aux lois de finances : règles de gestion et prise en compte de la performance. Les opérateurs de l'Etat.
 
-V. - Les finances locales
+V.-Les finances locales
 
 1° Le cadre général : grandes masses financières et leur évolution, relations financières entre l'Etat et les collectivités territoriales, notion d'autonomie financière des collectivités territoriales, principes budgétaires.
 
@@ -466,7 +476,7 @@ V. - Les finances locales
 
 3° Les ressources des collectivités territoriales ; les principales dépenses des collectivités territoriales ; les transferts de compétences de l'Etat aux collectivités territoriales et leur compensation.
 
-VI. - Les finances sociales
+VI.-Les finances sociales
 
 1° Le cadre général : notions sur les différents régimes, situation des finances sociales et masses financières en jeu, règles relatives au financement de la sécurité sociale, relations financières entre l'Etat et la sécurité sociale, comptes de la protection sociale.
 
@@ -474,7 +484,7 @@ VI. - Les finances sociales
 
 3° L'élaboration, l'adoption et l'exécution des lois de financement de la sécurité sociale.
 
-VII. - Les règles comptables
+VII.-Les règles comptables
 
 1° La comptabilité publique. Les principes. Les différentes comptabilités : comptabilité de caisse, comptabilité en droits constatés. L'organisation de la chaîne de la dépense.
 
@@ -482,23 +492,23 @@ VII. - Les règles comptables
 
 3° La certification des comptes publics.
 
-VIII. - Le contrôle des finances publiques
+VIII.-Le contrôle des finances publiques
 
-1° Les contrôles financiers internes aux administrations ; les contrôles financiers externes (Cour des comptes, chambres régionales des comptes…) ; la responsabilité du comptable public ; la protection pénale des finances publiques (saisine du juge pénal, Cour de discipline budgétaire et financière, délit de favoritisme).
+1° Les contrôles financiers internes aux administrations ; les contrôles financiers externes (Cour des comptes, chambres régionales des comptes …) ; la responsabilité du comptable public ; la protection pénale des finances publiques (saisine du juge pénal, Cour de discipline budgétaire et financière, délit de favoritisme).
 
 2° L'évaluation des politiques publiques : rôles respectifs du Parlement, de la Cour des comptes et des inspections générales.
 
-IX. - Les finances de l'Union européenne
+IX.-Les finances de l'Union européenne
 
 1° Le budget de l'Union européenne : les principes du droit budgétaire européen, la règle d'équilibre, le partage du pouvoir budgétaire entre les institutions de l'Union européenne.
 
 2° Ressources et dépenses du budget de l'Union européenne.
 
-D. - Option sciences économiques et de gestion
+D.-OPTION SCIENCES ÉCONOMIQUES ET DE GESTION
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, une composition portant sur l'un des thèmes de sciences économiques ou de sciences de gestion figurant au programme défini ci-après.
 
-I. - Sciences économiques
+I.-Sciences économiques
 
 1° La microéconomie :
 
@@ -518,17 +528,17 @@ f) Défaillances du marché et intervention publique.
 
 a) Les agents et les opérations comptables :
 
-- la comptabilité nationale ;
+-la comptabilité nationale ;
 
-- l'équilibre comptable et l'équilibre économique.
+-l'équilibre comptable et l'équilibre économique.
 
 b) L'équilibre macroéconomique avec des prix flexibles : l'approche classique et néoclassique.
 
 c) L'équilibre macroéconomique avec des prix rigides :
 
-- l'approche keynésienne ;
+-l'approche keynésienne ;
 
-- le modèle IS-LM.
+-le modèle IS-LM.
 
 d) La théorie du déséquilibre et les fondements microéconomiques de la macroéconomie.
 
@@ -564,7 +574,7 @@ a) Politique budgétaire et politique fiscale.
 
 b) Politique monétaire.
 
-II. - Sciences de gestion
+II.-Sciences de gestion
 
 1° La théorie des organisations :
 
@@ -608,9 +618,9 @@ a) Le diagnostic et la dynamique concurrentielle : l'analyse des forces concurre
 
 b) Le diagnostic et la dynamique organisationnelle :
 
-- l'analyse technologique ;
+-l'analyse technologique ;
 
-- l'analyse du potentiel de l'organisation (chaîne de valeur).
+-l'analyse du potentiel de l'organisation (chaîne de valeur).
 
 6° Les choix stratégiques :
 
@@ -632,11 +642,11 @@ d) La gestion de la flexibilité.
 
 e) La gestion de l'innovation et du changement.
 
-E. - Option histoire-géographie
+E.-OPTION HISTOIRE-GÉOGRAPHIE
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, une dissertation portant sur l'un des thèmes d'histoire ou de géographie figurant au programme défini ci-après.
 
-I. - Histoire
+I.-Histoire
 
 Le programme porte sur l'histoire de la France et du monde de 1945 à nos jours.
 
@@ -690,13 +700,13 @@ b) Les enjeux de la construction européenne.
 
 c) Les destins contrastés des anciens pays socialistes.
 
-d) La diversité des tiers-mondes : entre émergence(s) et domination(s).
+d) La diversité des tiers-mondes : entre émergence (s) et domination (s).
 
 e) Les contrastes de l'aire asiatique et le géant chinois.
 
 f) La percée de l'islam intégriste et la menace du terrorisme.
 
-II. - Géographie
+II.-Géographie
 
 1° Les milieux naturels :
 
@@ -758,7 +768,7 @@ b) Le développement régional.
 
 c) Les politiques urbaines et l'urbanisme.
 
-II. - Epreuves d'admission
+II.-Epreuves d'admission
 
 1° Epreuve d'aptitude générale (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 8).
 
@@ -766,7 +776,7 @@ Cette épreuve vise à mettre en valeur l'aptitude du candidat à l'état d'offi
 
 Elle comporte :
 
-a) Un entretien individuel, réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
+a) Un entretien individuel, réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral.
 
 b) Un entretien individuel du candidat avec le président du jury assisté de deux examinateurs. Il débute par un exposé d'une durée de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury. Le candidat tire au sort un sujet. Il peut, s'il le souhaite, tirer un second sujet. Le temps pris pour définitivement exprimer son choix est décompté de son temps de préparation de vingt minutes. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat.
 
@@ -780,37 +790,37 @@ L'épreuve porte sur le programme fixé ci-après. Un mémento est fourni aux ca
 
 a) Doctrine et enjeux :
 
-- la souveraineté nationale ;
+-la souveraineté nationale ;
 
-- la politique de défense et de sécurité de la France depuis 1945 ;
+-la politique de défense et de sécurité de la France depuis 1945 ;
 
-- les livres blancs relatifs à la défense et la sécurité ;
+-les livres blancs relatifs à la défense et la sécurité ;
 
-- le contexte géopolitique et stratégique ;
+-le contexte géopolitique et stratégique ;
 
-- les menaces et les risques ;
+-les menaces et les risques ;
 
-- la dissuasion nucléaire ;
+-la dissuasion nucléaire ;
 
-- la défense militaire, économique, civile ;
+-la défense militaire, économique, civile ;
 
-- Europe de la défense et de la sécurité ;
+-Europe de la défense et de la sécurité ;
 
-- le cadre juridique : les lois et règlements (notamment le code de la défense, le code de la sécurité intérieure, les lois relatives à la programmation militaire et les lois d'orientation et de programmation relatives à la sécurité intérieure) ;
+-le cadre juridique : les lois et règlements (notamment le code de la défense, le code de la sécurité intérieure, les lois relatives à la programmation militaire et les lois d'orientation et de programmation relatives à la sécurité intérieure) ;
 
-- les politiques publiques de sécurité intérieure ;
+-les politiques publiques de sécurité intérieure ;
 
-- la déontologie ;
+-la déontologie ;
 
-- l'intelligence économique ;
+-l'intelligence économique ;
 
-- économie de la défense et de la sécurité.
+-économie de la défense et de la sécurité.
 
 b) Organisation et acteurs :
 
-- l'organisation de la défense et de la sécurité : institutions et organisations ;
+-l'organisation de la défense et de la sécurité : institutions et organisations ;
 
-- les acteurs étatiques, territoriaux et privés et leurs missions.
+-les acteurs étatiques, territoriaux et privés et leurs missions.
 
 3° Epreuve de langue étrangère (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 3).
 
@@ -824,6 +834,6 @@ Cette épreuve débute par une version. Le candidat traduit tout ou partie d'un 
 
 Les épreuves sportives sont définies :
 
-a) A l'annexe VI pour le concours prévu au 1° de l'article 6 du même décret susvisé ;
+a) A l'annexe VI pour le concours prévu au 1° de l'article 6 du même décret susvisé.
 
 b) A l'annexe VII pour le concours prévu au 2° de l'article 6 du même décret susvisé.
