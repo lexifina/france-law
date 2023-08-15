@@ -1,0 +1,9 @@
+# Réponse à la question n° 8126
+
+- Question : [8126](8126.md) — Question n° 8126 — Contrôles des structures des exploitations agricoles
+
+## Réponse
+
+*JO du 2023-08-15, page 7490*
+
+La vente à la ferme répond à la nécessité de créer davantage de valeur ajoutée sur les exploitations agricoles, de diversifier les sources de revenus des exploitants et de raccourcir les circuits d'approvisionnement en favorisant les produits locaux et la vente directe. Les fermes pédagogiques qui dispensent des services au public (animation, éducation, culture) permettent également de diversifier les revenus des agriculteurs. C'est pourquoi le Gouvernement encourage ces activités qui sont à ce titre considérées comme agricoles dans le cadre de l'article L. 311-1 du code rural et de la pêche maritime (CRPM). Défini à l'article L. 312-1 du CRPM, le schéma directeur régional des exploitations agricoles (SDREA) est élaboré par le préfet de région avec l'appui des préfets des départements concernés. Conforme au modèle fixé par arrêté du 10 mars 2021, le SDREA établit l'ordre des priorités entre les différents types d'opérations concernées par une demande préalable d'exploiter au titre du contrôle des structures agricoles : installation, agrandissement ou réunion d'exploitations. Il précise les critères d'appréciation de l'intérêt économique et environnemental d'une opération. L'article L. 312-1 paragraphe III permet à cet égard d'affecter une priorité, éventuellement élevée, à « la contribution de l'opération envisagée à la diversité des productions agricoles régionales, à la diversité des systèmes de production agricole et au développement des circuits de proximité ». Chaque préfet de région, à la suite d'une concertation, est donc en mesure, à droit constant, d'élaborer et valider un schéma porteur des priorités les plus adaptées à la situation de l'économie agricole régionale et au développement des exploitations au sein de ce tissu économique local.
