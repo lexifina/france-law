@@ -1,0 +1,9 @@
+# Réponse à la question n° 6475
+
+- Question : [6475](6475.md) — Question n° 6475 — Implantation d'un nouveau parc éolien dit de l'Aronde-des-Vents
+
+## Réponse
+
+*JO du 2023-08-15, page 7585*
+
+La France s'est engagée résolument dans la diversification de ses modes de production d'électricité. Le développement des énergies renouvelables, et plus particulièrement de l'éolien terrestre, constitue un enjeu fort pour parvenir à l'évolution de notre mix énergétique et à la décarbonation de notre énergie. Ce développement doit toutefois être réalisé dans le respect des populations et de l'environnement. C'est pourquoi, l'implantation d'éoliennes est encadrée par une réglementation stricte et précise. En particulier, la construction d'une éolienne de plus de 50 mètres de hauteur est soumise à l'obtention d'une autorisation environnementale délivrée par le préfet sur la base d'une étude d'impacts réalisée par le demandeur, qui évalue les effets du projet sur l'environnement, notamment en termes de paysage et de biodiversité. Dans le cadre de l'instruction d'une demande d'autorisation, le projet est soumis à un processus de consultation des collectivités concernées ainsi que du public. Les projets d'implantation de parcs éoliens terrestres font l'objet d'une enquête publique sur un rayon de 6 kilomètres autour de leur lieu d'implantation projeté. L'instruction de la demande d'autorisation du projet de parc « L'Aronde des vents » est actuellement en cours. L'enquête publique s'est déroulée du 2 décembre 2022 au 5 janvier 2023. Le projet fera prochainement l'objet d'une présentation devant la commission départementale de la nature, du paysage et des sites (CDNPS). Les résultats de l'instruction et des consultations précitées seront pris en compte par la préfète de l'Oise pour décider d'autoriser ou de refuser l'exploitation du parc.
