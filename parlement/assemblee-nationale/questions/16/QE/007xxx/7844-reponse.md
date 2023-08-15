@@ -1,0 +1,9 @@
+# Réponse à la question n° 7844
+
+- Question : [7844](7844.md) — Question n° 7844 — Aquaculture marine outre-mer
+
+## Réponse
+
+*JO du 2023-08-15, page 7595*
+
+Les piscicultures d'eau douce et d'eau de mer sont régies par la législation relative aux installations classées pour la protection de l'environnement (ICPE) en fonction de leur capacité de production. Deux types de régime sont actuellement à distinguer : le régime de l'autorisation environnementale, pour les installations en eau douce et en eau de mer dont la capacité de production est supérieure à 20 tonnes par an, et le régime de la déclaration, pour les installations en eau de mer dont la capacité de production est supérieure à 5 tonnes par an et inférieure ou égale à 20 tonnes par an. Le Comité interministériel de la mer porte effectivement une mesure de création d'un régime d'enregistrement pour les piscicultures dont la capacité de production est supérieure à 20 tonnes par an et inférieure ou égale à 100 tonnes par an. Ce régime correspond à une autorisation simplifiée visant à réduire la charge administrative des exploitants d'installations dont les risques et les nuisances peuvent être réglementés via des prescriptions « standard » fixées au niveau national. Dans ce cadre, une simple consultation du public est nécessaire (sans commissaire enquêteur) alors qu'une enquête publique doit être menée dans le cadre d'une demande d'autorisation environnementale d'ICPE. La création de ce régime d'enregistrement va d'abord concerner les piscicultures d'eau douce, ce qui pourra faciliter le développement de cette activité dans les départements ultramarins. La présentation des projets de décret et d'arrêté ministériel est prévue pour le second semestre 2023. L'extension aux piscicultures d'eau de mer s'effectuera dans un deuxième temps.
