@@ -1,0 +1,9 @@
+# Réponse à la question n° 5585
+
+- Question : [5585](5585.md) — Question n° 5585 — Extension du Ségur de la santé aux assistants dentaires
+
+## Réponse
+
+*JO du 2023-08-15, page 7580*
+
+Institués par l'article 48 modifié de la loi n° 2020-1576 du 14 décembre 2020 de financement de la sécurité sociale (LFSS) pour 2021, un complément de traitement indiciaire (CTI) et une indemnité équivalente sont respectivement versés aux fonctionnaires et agents contractuels de droit public qui exercent certaines fonctions au sein de différents établissements, services ou centres sociaux et médico-sociaux et services départementaux. D'un montant fixé à 49 points d'indice majoré (soit 237,65 euros bruts mensuels), cette revalorisation significative met en œuvre l'engagement du Gouvernement de renforcer l'attractivité des métiers paramédicaux et socio-éducatifs et mieux reconnaître les compétences de ces professionnels. Le CTI et l'indemnité équivalente sont versés en application du B du I de l'article 48 modifié de la LFSS pour 2021 aux fonctionnaires et agents contractuels qui exercent notamment les fonctions d'aide-soignant ou d'auxiliaire de puériculture au sein de certains établissements, services ou centres sociaux et médico-sociaux et services départementaux. Ainsi le législateur n'a pas entendu étendre le bénéfice du CTI aux auxiliaires de soins exerçant les fonctions d'assistant dentaire. Plus globalement, la question de l'attractivité des métiers de la fonction publique s'inscrira dans le projet de refonte des rémunérations et des parcours de carrière annoncé par le ministre de la transformation et de la fonction publiques le 28 juin dernier. Engagés dès 2023, les travaux menés dans ce cadre permettront d'envisager les évolutions qui s'appliqueront à l'ensemble de la fonction publique.
