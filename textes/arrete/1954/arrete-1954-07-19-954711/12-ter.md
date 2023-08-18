@@ -6,9 +6,9 @@
 
 3. L'agrément de prototype s'applique au cas des transformations notables de véhicules usagés, telles que définies à l'article 13, effectuées au moyen de pièces fabriquées en série. Les véhicules usagés disposent d'une immatriculation nationale définitive autre que spécifique, telle que définie dans l'arrêté du 9 février 2009 modifié relatif aux modalités d'immatriculation des véhicules.
 
-L'agrément de prototype est soumis aux mêmes dispositions techniques et administratives que celles applicables à la réception par type complémentaire ou multi-étape.
+L'agrément de prototype est soumis aux mêmes dispositions que celles applicables à la réception par type complémentaire ou multi-étape mentionnées à l'article 12 bis.
 
-4. L'agrément de prototype est accordé aux transformateurs respectant soit les règles d'évaluation initiale prévues dans le point 2 de l'annexe IV du règlement UE 2018/858 précité, soit celles prévues à l'annexe 3 de l'arrêté du 3 novembre 2022 précité. Dans ce dernier cas, l'évaluation est prononcée par le laboratoire de l'Union technique de l'automobile, du motocycle et du cycle (UTAC SAS).
+4. L'agrément de prototype est accordé aux transformateurs respectant soit les règles d'évaluation initiale prévues dans le point 2 de l'annexe IV du règlement UE 2018/858 précité, ou dans le point 3 de l'annexe IV du règlement (UE) n° 1322/2014, ou dans l'annexe IV du règlement (UE) n° 44/2014, soit celles prévues à l'annexe 3 de l'arrêté du 3 novembre 2022 précité. Dans ce dernier cas, l'évaluation est prononcée par le laboratoire de l'Union technique de l'automobile, du motocycle et du cycle (UTAC SAS).
 
 Lorsque le transformateur dispose de plusieurs centres de montage, chacun d'entre eux fait l'objet d'une évaluation initiale.
 
@@ -30,4 +30,10 @@ En cas d'acceptation de l'agrément de prototype, le service en charge des réce
 
 6. Un certificat de conformité conforme au modèle ci-joint (annexe III ter) est délivré, pour chaque véhicule transformé, par le transformateur titulaire de l'agrément de prototype.
 
-7. Les règles techniques applicables aux agréments de prototype sont celles applicables dans le cadre des réceptions à titre isolé de véhicules usagés.
+7. Les parties modifiées des véhicules, systèmes, composants et entités techniques distinctes satisfont aux prescriptions des actes réglementaires applicables à la date de délivrance de la réception du véhicule de base, à l'exception des éléments suivants, qui satisfont aux prescriptions des actes réglementaires applicables à la date de la délivrance de l'agrément de prototype :
+
+-les nouveaux systèmes ou composants installés sur le véhicule inhérents à un domaine qui n'était pas réglementé au moment de la délivrance de la réception initiale du véhicule soit parce que le véhicule n'en était pas équipé soit parce qu'il est devenu réglementé avant la date de délivrance de l'agrément de prototype ;
+
+-les nouvelles fonctions ajoutées à des systèmes ou composants installés sur le véhicule, inhérentes à un domaine déjà réglementé dans la réception initiale du véhicule.
+
+Les actes réglementaires applicables pour chaque domaine réglementé sont listés aux annexes 2 et 2 bis de l'arrêté du 11 janvier 2021 précité.
