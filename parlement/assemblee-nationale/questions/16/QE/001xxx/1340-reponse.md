@@ -1,0 +1,9 @@
+# Réponse à la question n° 1340
+
+- Question : [1340](1340.md) — Question n° 1340 — Inégalités d'accès à la restauration scolaire
+
+## Réponse
+
+*JO du 2023-08-22, page 7671*
+
+Le Gouvernement est conscient des conséquences pour les communes des effets de l'inflation sur le dépenses de fonctionnement (électricité, gaz, chauffage, etc.) de certains de leurs équipements publics (piscines, cantines, etc.) et de la revalorisation du point d'indice découlant de la mise en œuvre du décret du 7 juillet 2022. La tension pesant sur les budgets alimentaires des collectivités est particulièrement importante et de nature à poser des difficultés aux communes notamment en termes d'approvisionnement des cantines scolaires. C'est pourquoi l'article 14 de la loi de finances rectificative du 16 août 2022 instaure un dispositif de soutien budgétaire pour accompagner les communes et leurs groupements et compenser partiellement, entre autres, la hausse des prix des produits alimentaires. Les collectivités ont pu bénéficié d'une une avance sur son montant en décembre 2022. La loi de finances pour 2023 a également mis en place un filet de sécurité en 2023 pour les collectivités territoriales confrontées à une baisse importante de leur épargne brute du fait de la hausse de leurs dépenses d'énergie. Ce filet concerne également les départements et les régions. Au-delà de ce soutien budgétaire, toutes les communes bénéficient de la revalorisation forfaitaire des bases d'imposition, indexée sur l'inflation. En 2022, cette revalorisation forfaitaire des bases sera de 3,4 %, soit le taux le plus élevé depuis plus de 30 ans. À elle seule, cette revalorisation forfaitaire devrait avoir pour effet d'augmenter de plus de 1,2 milliard d'euros la fiscalité locale des communes et de leurs groupements en 2022 et ainsi permettre à ceux-ci de retrouver des marges de manœuvre financières pour faire face aux surcoûts liés au contexte économique défavorable.
