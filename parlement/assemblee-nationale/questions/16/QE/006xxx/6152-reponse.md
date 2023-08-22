@@ -1,0 +1,9 @@
+# Réponse à la question n° 6152
+
+- Question : [6152](6152.md) — Question n° 6152 — Rupture d'égalité entre policiers municipaux ruraux et urbains
+
+## Réponse
+
+*JO du 2023-08-22, page 7662*
+
+Le Gouvernement examine les voies et moyens permettant de revaloriser la rémunération et les perspectives de carrière des policiers municipaux. Ces travaux s'inscrivent dans le cadre de la réforme de l'accès, des parcours et des rémunérations, initiée cette année par le ministère de la transformation et de la fonction publiques, afin de renforcer l'attractivité des métiers publics, dont ceux de policiers municipaux. S'agissant plus particulièrement de leur régime indemnitaire, les fonctionnaires de police municipale et les gardes champêtres peuvent bénéficier, sur délibération des collectivités territoriales et de leurs établissements publics, d'un régime qui leur est propre, dont les modalités et les taux sont définis par décret, conformément à l'article L. 714-3 du Code général de la fonction publique. Ce régime se compose de l'indemnité spéciale mensuelle de fonctions (ISMF) et, sous condition, de l'indemnité d'administration et de technicité (IAT). En raison de la spécificité des fonctions exercées par les fonctionnaires de police municipale et gardes champêtres, et de l'absence de corps équivalent au sein de la fonction publique de l'Etat, le RIFSEEP n'a pas été rendu applicable à ces fonctionnaires. Leur régime indemnitaire se caractérise ainsi par une structure complexe et des plafonds indemnitaires sensiblement inférieurs à ceux dont bénéficient la quasi-totalité des autres cadres d'emplois de la fonction publique territoriale éligibles au RIFSEEP et disposant de grilles indiciaires équivalentes.C'est la raison pour laquelle le Gouvernement envisage également de simplifier et de moderniser le régime indemnitaire dont peuvent bénéficier les fonctionnaires de police municipale et les gardes champêtres.
