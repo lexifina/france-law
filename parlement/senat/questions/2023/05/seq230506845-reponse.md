@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230506845
+
+- Question : [SEQ230506845](seq230506845.md) — Situation économique des cabinets de kinésithérapeutes
+
+## Réponse
+
+*Santé et prévention, JO du 2023-08-24, page 5091*
+
+Le Gouvernement a pleinement conscience du rôle des masseurs-kinésithérapeutes dans la réponse aux besoins de santé. Le 13 juillet 2023, l'Union nationale des caisses d'assurance maladie (Uncam), la Fédération française des masseurs-kinésithérapeutes rééducateurs (FFMKR) et le syndicat Alizé ont signé l'avenant 7 à la convention nationale des masseurs-kinésithérapeutes. Cet accord permet d'articuler la mise en oeuvre de la revalorisation souhaitée par le ministre de la Santé et de la prévention pour soutenir de manière transversale les professionnels de santé dans un contexte d'inflation avec un ensemble de mesures structurantes pour l'exercice des masseurs-kinésithérapeutes libéraux. Ces mesures s'appuient sur les propositions formulées lors des négociations de décembre 2022 et s'articulent autour de différents axes : - renforcer le rôle des masseurs-kinésithérapeutes en matière de prévention et de santé publique ; - poursuivre l'amélioration de l'accès territorial aux soins en renforçant le dispositif démographique initié en 2018 ; - renforcer l'attractivité du métier de masseur-kinésithérapeute, par une revalorisation significative des actes et la réduction des inégalités financières d'accès aux études. Les revalorisations tarifaires interviendront dès 2024 et se poursuivront jusqu'à la fin de la convention en 2027 : - pour la lettre clé, une revalorisation de 3 % en janvier 2024 ; - pour les actes actuellement cotés AMS 7,5, une revalorisation de 0,9 point en 2 étapes : 0,6 point de coefficient au 1er juillet 2025 puis 0,3 point au 1er juillet 2027 ; - pour les actes actuellement cotés AMS 9,5, une hausse de 0,3 point au 1er juillet 2026.
