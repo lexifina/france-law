@@ -1,0 +1,13 @@
+# Article Annexe
+
+LISTE DES COLLECTIVITES TERRITORIALES FRANCAISES DANS LESQUELLES LE PRÉSENT ACCORD S'APPLIQUE
+
+l. La Guadeloupe
+
+2. La Martinique
+
+3. La Réunion
+
+4. La Guyane
+
+5. Mayotte
