@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607346
+
+- Question : [SEQ230607346](seq230607346.md) — Dépôt préalable par écrit, des questions orales dans les collectivités territoriales
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-08-24, page 5077*
+
+L'article L. 2121-19 du Code général des collectivités territoriale (CGCT) dispose que « les conseillers municipaux ont le droit d'exposer en séance du conseil des questions orales ayant trait aux affaires de la commune. Dans les communes de 1 000 habitants et plus, le règlement intérieur fixe la fréquence ainsi que les règles de présentation et d'examen de ces questions. À défaut de règlement intérieur, celles-ci sont fixées par une délibération du conseil municipal ». Une disposition similaire est applicable aux conseillers départementaux et aux conseillers régionaux respectivement aux articles L. 3121-20 et L. 4132-20 du même code. Les conseillers municipaux, départementaux et régionaux disposent donc d'un droit à l'expression et de la faculté de disposer d'un temps de parole, qui se matérialise notamment par les questions orales. Le réglement intérieur peut imposer un délai de dépôt des questions orales au secrétariat de la mairie 24 heures avant le début de la séance (TA Versailles, 8 décembre 1992, Commune de Courcouronnes, n° 925961). Les conditions de dépôt ont ainsi vocation à être prévues par le règlement intérieur afin de sécuriser les procédures. Sous réserve de l'appréciation souveraine du juge administratif, à défaut de règles de présentation fixées par le règlement intérieur, il appartient à l'assemblée délibérante de la collectivité d'adopter une délibération fixant les conditions de présentation et dépôt des questions orales. Le maire ou le président ne peut de sa seule initiative imposer de telles conditions en l'absence de délibération expresse, sans méconnaitre le droit d'expression des membres de l'assemblée délibérante.
