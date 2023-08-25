@@ -132,7 +132,7 @@ RMO (Rectification mécanique de l'Ouest) :
 
 Robatel :
 
-- ZI de Digulleville, BP 703, 50447 Beaumont : depuis 1973.
+- ZI de Digulleville, BP 703, 50447 Beaumont : depuis 1973 jusqu'au 31 décembre 2027.
 
 SEPFA, 5, rue Dom-Pedro, 50100 Cherbourg : de 1974 à 1992.
 
@@ -192,7 +192,7 @@ Saône Peinture Rue Marc-Seguin, 71100 Chalon-sur-Saône De 1989 à 2001.
 
 SARL Navitour, 58800 Passy : de 1984 à 1990.
 
-Société Cornu frères/SARL Fluvial diesel/SA Atelier fluvial, quai du Canal, 21170 Saint-Usage : depuis sa création
+Société Cornu frères/SARL Fluvial diesel/SA Atelier fluvial, quai du Canal, 21170 Saint-Usage : depuis sa création jusqu'au 31 décembre 2027.
 
 M. Vahe Paul, 71100 Chalon-sur-Saône : de 1958 à 1962.
 
@@ -874,7 +874,7 @@ SPIE TRINDEL - 8, rue Théodore-Botrel, 29283 Brest Cedex, puis AMEC SPIE, 8, ru
 
 SPT-SPTMI (Phocéenne de travaux maritime et industriel) :
 
-- 34, quai du Commandant-Malbert et rue de Tréornou et 11, rue Nicéphore-Niepce, 29200 Brest : depuis 1987.
+- 34, quai du Commandant-Malbert et rue de Tréornou et 11, rue Nicéphore-Niepce, 29200 Brest : depuis 1987 jusqu'au 31 décembre 2027.
 
 STCN (Société de Tuyauterie et Chaudronnerie Navale) - 19, rue Poullaouec, 29200 Brest et 16, rue du Pont, 29247 Plougastel-Daoulas : depuis sa création jusqu’au 31 décembre 2027.
 
@@ -1104,7 +1104,9 @@ Société industrielle de Normandie- 3, rue Blasco-lbanez, 76600 Le Havre : depu
 
 SNEF ELECTRIC FLUX - 2, rue A.-Bréançon, 76140 Le Petit-Quevilly : depuis 1955 jusqu’au 31 décembre 2027.
 
-SPIRS - route du Pont-8, 76700 Gonfreville-l'Archer : depuis 1962 jusqu’au 31 décembre 2027.
+SPIRS :
+
+- route du Pont-8, 76700 Gonfreville-l'Archer : depuis 1962.
 
 STII - rue Méridienne, 76100 Rouen : depuis 1970 jusqu’au 31 décembre 2027.
 
@@ -1299,10 +1301,6 @@ Ateliers Willemsoone, 166, boulevard de la République, 59140 Dunkerque-Rosendae
 Baude Jean-Claude, puis Baude Electronique, 1, rue Albert-Ier, 59153 Grand-Fort-Philippe : de 1957 à 1994.
 
 Beliard/France Dunkerque/Flandres Industrie/Beliard Crichton et Cie/Ateliers et chantiers Ziegler frères/Etablissements dunkerquois des AFO/Ateliers réunis Nord et Ouest (ARNO), route des Docks-Flottants, quai de la Câle sèche n° 4, rue Félix-Coquelle ; bassin de l'arrière Port, 2, quai de Mardyck, route de l'Ecluse-Watier, 59140 Dunkerque : depuis sa création à 1987.
-
-Cedex 1 : depuis 1987 .
-
-- route des Docks-Flottants, 59376 Dunkerque Cedex 1 : depuis sa création à 1987.
 
 Blitz Electricité, 32-36, quai Gustave-Lamarle, 62100 Calais : de 1963 à 1993.
 
