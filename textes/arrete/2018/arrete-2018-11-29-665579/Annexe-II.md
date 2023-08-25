@@ -24,13 +24,13 @@ Chef du bureau de la gestion des sites de l'administration centrale au sein de l
 
 Direction générale de la police nationale |
 
-Chef du bureau des affaires disciplinaires au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale |
+Chef du bureau des affaires disciplinaires au sein de la sous-direction de la stratégie des ressources humaines de la direction des ressources humaines, des finances et des soutiens de la police nationale |
 
 Direction générale des étrangers en France |
 
-Adjoint au sous-directeur de l'accès à la nationalité française au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité |
+Adjoint au sous-directeur de l'accès à la nationalité française, chef du département ressources et modernisation au sein de la direction de l'intégration et de l'accès à la nationalité |
 
-Adjoint au sous-directeur de l'intégration des étrangers au sein de la direction l'intégration et de l'accès à la nationalité |
+Chef du bureau du pilotage et des processus au sein de la direction de l'immigration |
 
 Préfecture de police et secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris : |
 
@@ -120,6 +120,8 @@ Directeur de la citoyenneté et de la légalité |
 
 Val-de-Marne |
 
+|
+
 Directeur de la citoyenneté et de la légalité |
 
 Val-d'Oise |
@@ -132,4 +134,6 @@ Secrétariat général commun départemental |
 
 Yvelines |
 
-Directeur adjoint du secrétariat général commun départemental |
+Directeur adjoint du secrétariat général commun départemental
+
+|
