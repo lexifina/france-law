@@ -1,272 +1,152 @@
 # Article Annexe 130-A-6
 
-MODÈLE D'ATTESTATION D'INTERVENTION D'UNE SOCIÉTÉ DE CLASSIFICATION HABILITÉE
+MODÈLE DE CERTIFICAT D'INTERVENTION D'UNE SOCIÉTÉ DE CLASSIFICATION HABILITÉE
 
-Attestation d'intervention d'une société de classification habilitée
+Certificat d'intervention d'une société de classification habilitée
 
-Articles 31,32,33 et 34 de la division 130 du règlement
-
-annexé à l'arrêté du 23 novembre 1987 modifié relatif à la sécurité des navires
-
-Nom du navire
+Nom du navire |
 
 |
 
-. |
-
-Immatriculation
+Immatriculation |
 
 |
 
-. |
-
-Référence registre d'une société de classification (si requis)
+Référence registre d'une société de classification (si requis) |
 
 |
 
-. |
-
-Type de navire
+Type de navire |
 
 |
 
-. |
-
-Jauge brute
+Jauge brute |
 
 |
 
-. |
-
-Longueur hors tout
+Longueur Hors Tout |
 
 |
 
-. |
-
-Nombre équipage
+Nombre équipage |
 
 |
 
-. |
-
-Nombre passagers
+Nombre passager |
 
 |
 
-. |
-
-Nombre du personnel spécial
+Nombre personnel spécial et/ ou personnel industriel |
 
 |
 
-. |
-
-Date prévue de pose de quille
+Date prévue de pose de quille |
 
 |
 
-. |
-
-Type d'exploitation
+Type d'exploitation |
 
 |
 
-. |
-
-.
-
-Nom de la société de classification
+Nom de la société de classification habilitée |
 
 |
 
-. |
-
-Coordonnées de la société de classification
+Coordonnées de la société de classification habilitée |
 
 |
 
-. |
-
-Nom de l'exploitant du navire
+Nom de l'exploitant du navire |
 
 |
 
-. |
-
-Coordonnées de l'exploitant du navire
+Coordonnées de l'exploitant du navire |
 
 |
 
-. |
+Domaines techniques couverts par la première côte de la société de classification au titre de l'article 130.52 |
 
-.
-
-Domaines techniques couverts par la " première côte " de la société de classification au titre de l'article 130.32
+Construction de la coque |
 
 |
 
-Construction de la coque
+Compartimentage |
 
 |
 
-.
+Stabilité à l'état intact |
 
 |
 
-Compartimentage
+Stabilité après avarie |
 
 |
 
-.
+Installations de mouillage |
 
 |
 
-Stabilité à l'état intact
+Machine |
 
 |
 
-.
+Chaudières |
 
 |
 
-Stabilité après avarie
+Installations frigorifiques |
 
 |
 
-.
+Installations hydrauliques |
 
 |
 
-Installations de mouillage
+Installations électriques |
 
 |
 
-.
+Prévention contre l'incendie : protection |
 
 |
 
-Machine
+Prévention contre l'incendie : détection |
 
 |
 
-.
+Protection contre l'incendie : extinction |
 
 |
 
-Chaudières
+Prévention contre l'incendie : ventilation |
 
 |
 
-.
+Apparaux de levage |
 
 |
 
-Installations frigorifiques
-
-|
-
-.
-
-|
-
-Installations hydrauliques
-
-|
-
-.
-
-|
-
-Installations électriques
-
-|
-
-.
-
-|
-
-Prévention contre l'incendie : protection
-
-|
-
-.
-
-|
-
-Prévention contre l'incendie : détection
-
-|
-
-.
-
-|
-
-Prévention contre l'incendie : extinction
-
-|
-
-.
-
-|
-
-Prévention contre l'incendie : ventilation
-
-|
-
-.
-
-|
-
-Apparaux de levageEvacuation |
-
-|
-
-|
-
-.
-
-|
-
-Prévention de la pollution
-
-|
-
-.
-
-|
-
-.
-
-Etudes, inspections, visites et essais réalisés conformément à la résolution OMI A.1120 (30) au titre de l'article 130.32 |
+Etudes, inspections, visites et essais réalisés conformément au système HSSC |
 
 Evacuation |
 
+|
+
 Prévention de la pollution |
 
-Navires " délégués "
+|
+
+Navires " délégués " |
+
+Etudes et visites réalisées conformément à la division 215 |
 
 |
 
-Etudes et visites réalisées conformément à la division 215
+Etudes et visites réalisées conformément à la division 217 |
 
 |
 
-.
-
-|
-
-Etudes et visites réalisées conformément à la division 217
-
-|
-
-.
-
-|
-
-.
-
-Approbation de la structure au titre de l'article 130.33
+Approbation de la structure au titre de l'article 130.53
 
 La structure et l'échantillonnage du navire sont approuvés en tenant compte des éléments suivants : |
 
@@ -282,78 +162,36 @@ Référence et puissance propulsive |
 
 |
 
-.
+Navires à passagers suivis par la société de classification habilitée au titre de l'article 130.54 |
 
-Navires à passagers suivis par la société de classification au titre de l'article 130.34
-
-|
-
-Construction et entretien de la coque
+Construction et entretien de la coque |
 
 |
 
-.
+Machines principales et auxiliaires |
 
 |
 
-Machines principales et auxiliaires
+Installation électriques |
 
 |
 
-.
+Automatismes |
 
 |
 
-Installations électriques
+Visa de la société
+
+de classification habilitée |
 
 |
 
-.
+Date |
 
 |
 
-Automatismes
+Lieu |
 
 |
 
-.
-
-|
-
-.
-
-Visa de la société de classification
-
-|
-
-.
-
-|
-
-.
-
-|
-
-Date
-
-|
-
-.
-
-|
-
-.
-
-|
-
-Lieu
-
-|
-
-.
-
-|
-
-.
-
-|
+Nota.-Le certificat d'intervention délivré par la société de classification habilitée en application de l'article 42-3 du décret n° 84-810 défini le périmètre et atteste de l'intervention de la société de classification dans ce périmètre. Ce certificat n'est émis qu'une seule fois ou en cas de changement du périmètre d'intervention.
