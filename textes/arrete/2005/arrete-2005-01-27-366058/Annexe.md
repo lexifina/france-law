@@ -390,12 +390,6 @@ Mécaniciens navigants, ingénieurs navigants et navigateurs.
 
 Le certificat médical est valide à compter de la date de l'examen médical d'admission et jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, quel que soit l'âge.
 
-Parachutistes professionnels.
-
-Le certificat médical est valide à compter de la date de l'examen médical d'admission et jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi.
-
-Toutefois, lorsque le parachutiste a atteint l'âge de 45 ans, le certificat médical est valide à compter de la date de l'examen médical d'admission et jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi..
-
 (2) (Réservé.)
 
 (3) La date d'expiration du certificat médical est déterminée à partir des informations contenues en (l).
@@ -500,13 +494,13 @@ Durée de validité des certificats médicaux de classe 1
 
 (a) Sous réserve des autres conditions spécifiées dans la réglementation, un certificat médical de classe 1 restera valide aussi longtemps que :
 
-- avant l'âge de 40 ans ou l'âge de 45 ans pour les parachutistes professionnels :
+- avant l'âge de 40 ans :
 
 (i) L'examen médical précédent a eu lieu dans les 12 derniers mois ;
 
 (ii) L'examen approfondi précédent ou l'examen d'admission a eu lieu dans les 60 derniers mois ;
 
-- à partir de l'âge de 40 ans ou l'âge de 45 ans pour les parachutistes professionnels :
+- à partir de l'âge de 40 ans :
 
 (iii) L'examen médical précédent a eu lieu :
 
@@ -1170,7 +1164,7 @@ Décision à prendre par le CMAC : le candidat ayant rempli les conditions ci-de
 
 (1) Une bicuspidie aortique est acceptable sans restriction en l'absence d'autre anomalie cardiaque ou aortique, mais elle nécessite un contrôle semestriel incluant une échocardiographie.
 
-(2) Un rétrécissement aortique (débit Doppler &lt; 2-0 min/sec.) peut être accepté, mais seulement pour le vol avec plusieurs pilotes. Un contrôle annuel comportant une échocardiographie Doppler bidimensionnelle doit alors être effectué par un cardiologue reconnu par le CMAC.
+(2) Un rétrécissement aortique (débit Doppler < 2-0 min/sec.) peut être accepté, mais seulement pour le vol avec plusieurs pilotes. Un contrôle annuel comportant une échocardiographie Doppler bidimensionnelle doit alors être effectué par un cardiologue reconnu par le CMAC.
 
 (3) Une insuffisance aortique est acceptable sans restriction lors d'un renouvellement de certificat si elle est insignifiante. L'échocardiographie Doppler bidimensionnelle ne doit pas montrer d'anomalie patente de l'aorte ascendante. Un cardiologue reconnu par le CMAC doit procéder à un contrôle annuel.
 
@@ -1612,7 +1606,7 @@ LICENCE
 
 CLASSE 1
 
-Pilote professionnel, pilote de ligne, mécanicien navigant, ingénieur navigant, navigateur, parachutiste
+Pilote professionnel, pilote de ligne, mécanicien navigant, ingénieur navigant, navigateur
 
 |
 
@@ -1691,3 +1685,7 @@ Analyse d'urine (FCL 3.155). |
 A l'examen d'admission puis lors de chaque examen. |
 
 (1) Note : tout examen complémentaire peut être exigé n'importe quand s'il est indiqué par l'examen clinique.
+
+NOTA :
+
+Conformément à l'article 12 de l'arrêté du 5 avril 2023 (NOR : TREA2227111A), ces dispositions entrent en vigueur trois mois à compter de sa publication au Journal officiel de la République française, à savoir le 27 août 2023.
