@@ -8,6 +8,8 @@ GROUPES D'EMPLOIS |
 
 AUTORITES |
 
+|
+
 PART FONCTIONNELLE |
 
 PART VARIABLE |
@@ -33,6 +35,8 @@ Le major général des armées (3). |
 Groupe 2 |
 
 Le directeur du cabinet civil et militaire du ministre de la défense (1). |
+
+Le délégué général pour l'armement (2). |
 
 Le secrétaire général pour l'administration (2). |
 
