@@ -18,7 +18,9 @@ Au terme de cette durée, ou en cas de rechute ou de récidive de la pathologie 
 
 Lorsque la durée prévisible du traitement de l'enfant fait l'objet d'un nouvel examen dans les conditions et selon les modalités et la périodicité prévues au second alinéa de l'article L. 544-2 du code de la sécurité sociale et par les dispositions règlementaires prises pour son application, l'agent transmet un nouveau certificat médical à son chef de service.
 
-A l'issue de la période de trente-six mois, un nouveau droit à congé peut être ouvert, dès lors que les conditions prévues aux quatre premiers alinéas du présent I sont réunies, sur présentation d'un nouveau certificat médical le justifiant et dans les situations suivantes :
+Pour obtenir le renouvellement du bénéfice du droit à congé avant le terme de la période de trente-six mois mentionnée à l'alinéa qui précède dans les conditions prévues par la seconde phrase du premier alinéa de l'article L. 632-2 du code général de la fonction publique, l'agent présente un nouveau certificat médical dans les conditions et selon les modalités prévues au présent I. Il joint un justificatif de l'avis favorable rendu par le service du contrôle médical selon les modalités prévues au deuxième alinéa de l'article L. 544-3 du code de la sécurité sociale et par les dispositions règlementaires prises pour son application.
+
+A l'issue de la période de trente-six mois ou, le cas échéant, au-delà de cette période en application du précédent alinéa, un nouveau droit à congé peut être ouvert, dès lors que les conditions prévues aux quatre premiers alinéas du présent I sont réunies, sur présentation d'un nouveau certificat médical le justifiant et dans les situations suivantes :
 
 1° En cas de nouvelle pathologie affectant l'enfant ;
 
@@ -32,7 +34,7 @@ II.-Sans que les durées cumulées du congé de présence parentale ne puissent 
 
 1° Pour une période continue ;
 
-2° Pour une ou plusieurs périodes fractionnées d'au moins une journée ;
+2° Pour une ou plusieurs périodes fractionnées d'au moins une demi-journée ;
 
 3° Sous forme d'un service à temps partiel.
 
