@@ -1,0 +1,9 @@
+# Réponse à la question n° 9015
+
+- Question : [9015](9015.md) — Question n° 9015 — Refus de changement d'affectation des bâtiments avicoles en non avicoles
+
+## Réponse
+
+*JO du 2023-08-29, page 7723*
+
+En raison du potentiel agronomique, biologique ou économique des terres et de leur rareté, les zones agricoles doivent être protégées. C'est la raison pour laquelle les possibilités d'y implanter des constructions sont particulièrement limitées. Le Gouvernement est donc particulièrement attentif au renouvellement urbain et à l'optimisation de la densité des espaces urbanisés ou déjà artificialisés. Le changement de destination d'un bâtiment agricole est déjà rendu possible au titre du code de l'urbanisme : - les articles L. 111-4 et L. 161-4 l'autorisent, s'agissant respectivement des communes non couvertes par un document d'urbanisme ou dotées d'une carte communale ; - l'article L. 151-11 II permet de prévoir dans le règlement d'un plan local d'urbanisme, la désignation de bâtiments pouvant faire l'objet d'un changement de destination, dès lors que ce changement ne compromet pas l'activité agricole ou la qualité paysagère du site et recueille l'avis favorable conforme de la commission départementale de la préservation des espaces agricoles, naturels et forestiers. Ces dispositions visent à permettre une évolution du bâti agricole dans un objectif de développement équilibré et attractif des territoires ruraux. Compte tenu de ces possibilités, l'adoption de nouvelles mesures n'est pas aujourd'hui envisagée. Par ailleurs, l'exploitant qui cesse une activité d'élevage soumise à la réglementation sur les installations classées pour la protection de l'environnement doit en informer l'administration au moins trois mois avant la date de l'arrêt définitif pour les sites soumis à autorisation ou à enregistrement et au moins un mois avant la date de l'arrêt définitif pour les sites soumis à déclaration.
