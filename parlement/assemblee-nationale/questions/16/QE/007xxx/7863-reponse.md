@@ -1,0 +1,9 @@
+# Réponse à la question n° 7863
+
+- Question : [7863](7863.md) — Question n° 7863 — Point sur le CIHN et l'indemnisation des Français d'Algérie expropriés
+
+## Réponse
+
+*JO du 2023-08-29, page 7768*
+
+Le groupe de travail mixte franco-algérien sur les biens immobiliers appartenant aux ressortissants français restés en Algérie après l'indépendance a tenu sa huitième session le 14 novembre 2016. Celle-ci avait permis d'examiner les dossiers de ressortissants français rencontrant des difficultés quant à la reconnaissance des droits de propriété de leurs biens en Algérie. Le dialogue entretenu au niveau des administrations des deux pays a permis, à partir de 2017, l'apparition de premiers résultats positifs. En particulier, les ressortissants français concernés ont, pour certains, pu obtenir une réponse de l'administration algérienne des Domaines et de la conservation foncière quant au statut de leur bien. Pour l'un d'entre eux, le recours gracieux a porté ses fruits. Pour autant, de nombreuses décisions de justice algérienne continuent de ne pas être exécutées par l'administration des Domaines. A l'issue de la IVe session du Comité intergouvernemental de haut niveau (CIHN) de 2017, les autorités françaises et algériennes ont invité le groupe de travail à poursuivre l'examen des cas qui lui seraient soumis en vue d'un règlement définitif de la question des biens immobiliers appartenant aux ressortissants français restés en Algérie après l'indépendance. Dans l'esprit de la Déclaration d'Alger pour un Partenariat renouvelé entre la France et l'Algérie, signée par les deux chefs d'État à Alger le 27 août 2022, nous travaillons à la réactivation de l'ensemble des groupes de travail mixtes. Nous continuons de suivre avec attention le sujet des biens immobiliers des Français en Algérie, en vue du règlement définitif des dossiers.
