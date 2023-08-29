@@ -1,0 +1,9 @@
+# Réponse à la question n° 6100
+
+- Question : [6100](6100.md) — Question n° 6100 — Fiscalité des établissements d'enseignement scolaire privés
+
+## Réponse
+
+*JO du 2023-08-29, page 7739*
+
+La taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation (TH) est établie au nom des personnes qui ont, à quelque titre que ce soit, la disposition ou la jouissance de locaux imposables (code général des impôts - CGI, art. 1408). Elle est due notamment par les sociétés, associations et organismes privés au titre des locaux meublés conformément à leur destination, qui font l'objet d'une occupation à titre privatif et qui ne sont pas retenus pour l'établissement de la cotisation foncière des entreprises (CGI, art. 1407, I-2°). Il en résulte que les locaux meublés accessibles au public sont exclus du champ de la taxe (BOI-IF-TH-10-10-20, §90 et suivants). Ces règles s'appliquent aux locaux meublés occupés par les établissements d'enseignement privés, qu'ils soient sous ou hors contrat d'association avec l'État. Dès lors qu'ils remplissent les trois conditions cumulatives susmentionnées, leurs locaux sont imposables à la TH. Toutefois, ces établissements ne sont pas imposables à la TH au titre des locaux destinés au logement des élèves (CGI, art. 1407, II-3°), c'est-à-dire les dortoirs, les installations sanitaires et les réfectoires, ce qui vaut également pour les salles de cantine. En outre, conformément à la doctrine (BOI-IF-TH-10-40-10, §110), cette exonération est étendue aux locaux affectés à l'instruction des élèves, ce qui, par exemple, est le cas des salles de classe, mais ne l'est pas des salles des professeurs et des locaux affectés à l'administration de ces établissements. Ces dispositions n'ont pas connu d'évolution dans le cadre de la suppression de la taxe d'habitation sur la résidence principale.
