@@ -1,0 +1,9 @@
+# Réponse à la question n° 762
+
+- Question : [762](762.md) — Question n° 762 — Financement du soin et de la santé à domicile
+
+## Réponse
+
+*JO du 2023-08-29, page 7780*
+
+Une politique volontariste a été engagée afin de conforter la diffusion de l'hospitalisation à domicile (HAD) sur les territoires et favoriser son développement. Depuis le 1er juin 2018, l'intervention conjointe d'une HAD et d'un SSIAD (services de soins infirmiers à domicile) /SPASAD (services polyvalents d'aide et de soins à domicile) est organisée afin de permettre aux patients fragiles ou en situation de fin de vie lorsqu'ils sont pris en charge en HAD, de conserver auprès d'eux une partie de l'équipe soignante du service de soins infirmiers à domicile avec laquelle ils ont tissé des liens, afin d'éviter les pertes de repères et de garantir la continuité du parcours du patient. L'HAD a par ailleurs été mobilisée en appui aux établissements d'hébergement pour personnes âgées dépendantes (EHPAD) pendant la crise sanitaire. Les établissements HAD ont réalisé un soutien organisationnel aux EPHAD grâce aux mesures réglementaires exceptionnelles leur donnant une mission d'expertise et de conseil et à la mise en place d'astreintes dédiées ou de cellule de régulation. Le financement relatif à l'hospitalisation des soins à domicile est par ailleurs pérenne, et passe par plusieurs canaux : - des délégations de crédits ; - un tarif plancher par heure d'intervention pour les services de soins et d'aide à domicile prestataires ; - une refonte du modèle de tarification des SSIAD, prenant en compte les besoins de soins et la perte d'autonomie du patient, entrée en vigueur en 2023. Enfin, afin de simplifier le cadre de la HAD, le décret relatif aux services autonomie à domicile a été publié le 17 juillet 2023, permettant la mise en place d'un interlocuteur unique, chargé d'organiser la réponse aux besoins d'aide et de soins des personnes.
