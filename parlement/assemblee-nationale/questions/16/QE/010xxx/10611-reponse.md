@@ -1,0 +1,9 @@
+# Réponse à la question n° 10611
+
+- Question : [10611](10611.md) — Question n° 10611 — Âge minimal requis pour l'entrée en maison familiale et rurale
+
+## Réponse
+
+*JO du 2023-08-29, page 7726*
+
+La scolarité dans une maison familiale rurale (MFR) est organisée selon une alternance de périodes de formation en établissement et en milieu professionnel selon les dispositions de l'article R. 813-42 du code rural et de la pêche maritime (CRPM). La durée des séquences pédagogiques dispensées en entreprise est dès lors obligatoirement supérieure à celles dispensées dans l'établissement. L'importance des périodes en entreprise, la vulnérabilité des apprenants liée à leur âge et le caractère accidentogène du secteur agricole, expliquent, entre autres, que les stages réalisés en milieu professionnel sur lesquels est fondée l'alternance ne sont accessibles aux élèves qu'à partir de l'âge minimum de quatorze ans, en application de l'article R. 715-1 du CRPM. Cependant, il est envisageable d'inscrire un élève de moins de quatorze ans en classe de quatrième de l'enseignement agricole dans un établissement public ou privé qui ne pratique pas l'alternance. Cette solution est ainsi l'occasion de bénéficier des enseignements spécifiques de l'enseignement agricoles dès la classe de quatrième, tout en respectant la réglementation relative aux stages en entreprise pour les très jeunes élèves, sans renoncer à un projet de scolarisation dans une MFR dès la classe de troisième ou en certificat d'aptitude professionnelle agricole ou dans la filière d'une spécialité du baccalauréat professionnel après la classe de troisième par exemple. Il est possible de prendre connaissance sur le site Chlorofil du référentiel de formation des élèves de quatrième scolarisés dans l'enseignement agricole en consultant la page suivante : https://chlorofil.fr/fileadmin/user_upload/02-diplomes/referentiels/secondaire/4e3e/4e3e-ref-1810.pdf
