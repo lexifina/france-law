@@ -1,0 +1,9 @@
+# Réponse à la question n° 9481
+
+- Question : [9481](9481.md) — Question n° 9481 — Lignes de trains de nuit vers le Sud-Ouest
+
+## Réponse
+
+*JO du 2023-08-29, page 7792*
+
+La Première ministre a annoncé une nouvelle donne ferroviaire afin, d'une part, de mettre un terme au vieillissement du réseau ferroviaire et le moderniser, et d'autre part, d'investir dans son développement. Le Sud-Ouest est notamment concerné, pendant 8 ans, par les aménagements de la ligne nouvelle Bordeaux-Toulouse et les aménagements ferroviaires au nord de Toulouse (AFNT) et au sud de Bordeaux (AFSB). Les travaux de modernisation de la ligne Paris-Orléans-Limoges-Toulouse (POLT) sont également nécessaires pour redonner de la performance à cette infrastructure, et pour permettre la circulation optimale des nouvelles automotrices Oxygène financées par l'État pour cette desserte. La réalisation de ces travaux dans les meilleurs conditions techniques et économiques ne peut se faire sans un impact sur les différents services ferroviaires, dont les trains de nuit. La ligne de nuit Paris-Latour-de-Carol est ainsi confrontée à l'accumulation de différentes zones de travaux. L'État, SNCF Réseau et SNCF Voyageurs cherchent cependant toutes les solutions pour limiter les conséquences de ces travaux tout en réaffirmant que ceux-ci sont indispensables. La priorité est de sauvegarder une desserte quotidienne durant les vacances d'été et de Noël et pendant les week-ends le reste de l'année, tout en cherchant à augmenter au maximum ces périodes de circulation. À l'issue des différents travaux, la desserte quotidienne de Latour-de-Carol sera de nouveau assurée, et ce train de nuit bénéficiera, comme les autres dessertes de nuit, du renouvellement du matériel roulant et donc des nouveaux services prévus dans le cadre du plan de développement du ferroviaire.
