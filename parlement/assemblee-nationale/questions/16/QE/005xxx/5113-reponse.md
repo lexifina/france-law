@@ -1,0 +1,9 @@
+# Réponse à la question n° 5113
+
+- Question : [5113](5113.md) — Question n° 5113 — Avantages fiscaux - Associations politiques prétendument humanitaires
+
+## Réponse
+
+*JO du 2023-08-29, page 7734*
+
+En vertu des dispositions des articles 200 et 238 bis du code général des impôts (CGI), ouvrent droit à une réduction d'impôt les dons et versements effectués au profit d'organismes d'intérêt général dont les activités présentent l'un des caractères éligibles limitativement énumérés par la loi, notamment social ou humanitaire. La condition tenant au caractère d'intérêt général de l'organisme implique que l'activité de ce dernier ne soit pas lucrative, que sa gestion soit désintéressée et que l'organisme ne fonctionne pas au profit d'un cercle restreint de personnes. Ces dispositions sont d'application générale. Le secret fiscal s'oppose à toute prise de position publique sur la situation des associations évoquées. En effet, il résulte de l'article L. 103 du livre des procédures fiscales que les informations recueillies par les agents de l'administration fiscale à l'occasion des opérations d'assiette, de contrôle, de recouvrement ou de contentieux des impôts, droits, taxes et redevances prévus au CGI sont couvertes par le secret professionnel. Il résulte de la jurisprudence administrative que le défaut de neutralité politique « ne fait pas en lui-même obstacle » à ce qu'un organisme puisse présenter, au regard de sa mission statutaire et des actions concrètement réalisées, l'un des caractères mentionnés par ces articles et bénéficier ainsi du régime du mécénat (cf. CAA VERSAILLES, 6 chambre, 21 juin 2016, 14VE01966). En conséquence de ce cadre juridique, l'administration fiscale s'attache à vérifier que seuls les dons et versements consentis à des organismes exerçant concrètement des activités éligibles ouvrent droit aux réductions d'impôt existantes en faveur du mécénat.
