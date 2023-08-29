@@ -1,0 +1,9 @@
+# Réponse à la question n° 9968
+
+- Question : [9968](9968.md) — Question n° 9968 — Exposition universelle 2030
+
+## Réponse
+
+*JO du 2023-08-29, page 7775*
+
+Lors de la visite du Prince héritier Mohamed ben Salmane le 28 juillet 2022, le Président de la République et le Prince héritier ont exprimé le souhait d'étendre la coopération à de nouveaux champs et institutions culturelles françaises et saoudiennes, y compris dans le cadre de la candidature de Riyad pour accueillir l'Exposition universelle en 2030, évoquée à cette occasion. Cette candidature a été formalisée le 29 octobre 2021 et a été reconnue viable le 20 juin 2023, par l'assemblée générale du Bureau international des expositions (BIE), à l'instar de celles de Rome et de Busan. Les pays du BIE seront amenés à s'exprimer le 28 novembre prochain pour choisir entre les trois candidatures. Par ailleurs, à l'occasion de cette visite, et dans le cadre du dialogue de confiance entre la France et l'Arabie saoudite, le Président de la République a abordé la question des droits de l'homme en Arabie saoudite. Le respect des droits de l'homme est une priorité de l'action diplomatique de la France, qui en assure un suivi attentif partout dans le monde, dans le respect de la souveraineté de chacun des Etats concernés. La France suit avec attention la situation des droits de l'homme en Arabie saoudite et aborde ces questions à tous les niveaux. L'Union européenne conduit également un dialogue informel UE-Arabie saoudite sur les droits de l'homme depuis 2021, dans le cadre duquel elle a rappelé l'importance du respect de la liberté d'expression. Ce dialogue informel, qui se tient annuellement, est l'occasion d'aborder d'autres questions, notamment les droits des femmes, le droit à un procès équitable, et l'abolition de la peine de mort. La France restera mobilisée sur ces questions et maintiendra un dialogue franc et exigeant avec l'Arabie saoudite en faveur des défenseurs des droits de l'Homme.
