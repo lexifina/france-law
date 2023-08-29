@@ -1,0 +1,9 @@
+# Réponse à la question n° 6931
+
+- Question : [6931](6931.md) — Question n° 6931 — Rapatriement d'urgence pour pratiquer une interruption volontaire de grossesse
+
+## Réponse
+
+*JO du 2023-08-29, page 7768*
+
+L'amendement déposé demandant la création d'un programme ad hoc afin de financer les rapatriements d'urgence pour IVG, et adopté par le Sénat le 5 décembre 2022, n'a pas été repris lors de la mise en œuvre de l'article 49, alinéa 3 de la Constitution. Toutefois, à la demande de la Première ministre, une réflexion a été entamée par le ministère de l'Europe et des affaires étrangères (MEAE), en lien avec le ministère de la santé et de la prévention (MSP), afin d'étudier la possibilité de financer cette mesure en gestion sur un programme existant. Le dispositif de rapatriement sur avance de frais de l'État n'est pas un droit et relève d'une décision gracieuse de la ministre particulièrement exceptionnelle. La règle en matière de rapatriement est la recherche, en premier lieu, d'un financement par l'intéressé ou ses proches. Par ailleurs, seul un aller simple est financé dans ce cadre, le retour du bénéficiaire étant supposé définitif. Or, dans le cas d'un rapatriement pour IVG ou IMG, le retour dans le pays de résidence devra être financé par l'usagère. Si elle est en capacité de voyager seule sans accompagnement médical, le retour prendrait la forme d'un rapatriement pour indigence. L'accompagnement par le MEAE consisterait en une avance des frais de retour en France, à l'exclusion de toute démarche d'appui et de conseil relatif à la mise en œuvre de l'IVG en France (y compris l'identification d'un établissement hospitalier d'accueil). Il revient par la suite au Ministère de la Santé et de la Prévention de définir les modalités de prise en charge médicale en France ainsi que, le cas échéant, les modalités de subsistance et d'hébergement des patientes à leur arrivée sur le sol français.
