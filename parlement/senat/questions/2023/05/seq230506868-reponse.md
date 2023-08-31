@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230506868
+
+- Question : [SEQ230506868](seq230506868.md) — Obligation de déclaration annuelle des comptes étrangers des résidents fiscaux français
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2023-08-31, page 5186*
+
+Le deuxième alinéa de l'article 1649 A du code général des impôts (CGI) définit la portée de l'obligation déclarative des comptes détenus ou utilisés à l'étranger. L'article 344 A de l'annexe III étend l'obligation déclarative aux personnes ayant la qualité de co-titulaires, bénéficiaires économiques et d'ayants droit économiques. Conformément aux objectifs de la loi n° 2018-898 du 23 octobre 2018 relative à la lutte contre la fraude, cette disposition vise à couvrir tous les cas de détention de comptes à l'étranger, y compris le cas des contribuables bénéficiaires effectifs de comptes dont la propriété réelle est dissimulée derrière des artifices juridiques. Ainsi, si le contexte conduit à considérer un dirigeant ou un administrateur comme bénéficiaire ou ayant droit économique de comptes dont la détention est masquée, par exemple, au moyen d'un prête-nom ou d'une structure écran, ceux-ci se trouvent soumis à l'obligation déclarative mentionnée aux articles suscités. Il en va de même pour les cas où l'associé ou dirigeant d'une entité établie hors de France qui, alors même que cette dernière aurait une activité réelle, effectue des opérations sur le compte de cette entité pour son propre compte. Ces dispositions n'ont pas remis en cause l'économie de la réponse ministérielle à un parlementaire du 29 décembre 2015 (AN p. 10789 n° 82934). Ainsi, le fait pour une personne de détenir une participation dans une société étrangère ou d'en être le dirigeant ne la fait pas, à lui seul, entrer dans le champ de l'obligation déclarative du deuxième alinéa de l'article 1649 A du CGI.
