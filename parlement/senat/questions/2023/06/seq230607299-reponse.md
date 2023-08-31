@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607299
+
+- Question : [SEQ230607299](seq230607299.md) — Métro rural
+
+## Réponse
+
+*Transports, JO du 2023-08-31, page 5212*
+
+Le ministère des transports a lancé un plan pour les lignes de desserte fine du territoire, comprenant en particulier un volet soutien à l'innovation, visant à favoriser l'émergence de solutions de mobilité locale de gabarit léger, via France 2030. Ce soutien a bénéficié à dix projets, dont la mise en oeuvre est maintenant lancée. Les régions sont étroitement associées par l'Etat au suivi de la mise en oeuvre de ces projets innovants, dont l'issue déterminera les solutions devant in fine être déployées. A ce stade, les régions et les intercommunalités, intéressées au premier chef par le déploiement de ces solutions, discuteront des éléments nécessaires à leur déploiement, notamment les programmes et cahiers des charges, les modes de dévolution et d'allotissement, etc. L'État continuera naturellement à apporter son soutien aux territoires. Les solutions de transport en commun doivent avoir un modèle économique adapté aux spécificités du territoire et à la fréquentation. Ainsi, pour tendre vers un modèle économique viable des lignes de desserte fine du territoire, le ministère des transports a publié le décret n° 2022-664 du 25 avril 2022 relatif à la sécurité de l'exploitation de services locaux de transport ferroviaire de voyageurs, qui a instauré un régime de sécurité adapté et proportionné aux usages sur ces lignes. Ce décret vise à alléger les contraintes réglementaires imposées aux gestionnaires d'infrastructure et à réduire les coûts, tout en conservant un niveau élevé de sécurité. Le travail engagé sur la définition d'un référentiel technique adapté à ces lignes locales est quant à lui achevé puisque l'arrêté portant ce référentiel technique est sur le point d'être publié.
