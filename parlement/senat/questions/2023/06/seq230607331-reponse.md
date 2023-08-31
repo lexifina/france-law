@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607331
+
+- Question : [SEQ230607331](seq230607331.md) — Exonérations des entreprises en zone de revitalisation rurale dans le cadre de leur reprise
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2023-08-31, page 5188*
+
+L'article 44 quindecies du CGI prévoit, sous certaines conditions et dans certaines limites, une exonération temporaire d'impôt sur le revenu (IR) ou d'impôt sur les sociétés (IS) pour les entreprises qui sont créées ou reprises entre le 1er janvier 2011 et le 31 décembre 2023 dans les zones de revitalisation rurale (ZRR). Les opérations de reprise d'activités préexistantes sont ainsi éligibles au régime de faveur à l'IR ou à l'IS, quelles que soient les modalités de cette reprise (acquisition, location-gérance ou simple transfert) ou les modifications pouvant intervenir dans l'activité initiale (changement du mode d'exploitation ou de l'organisation, transfert géographique ou accroissement du potentiel productif). Selon la jurisprudence du Conseil d'État (décision du 16 juillet 2020, n° 440269), une reprise d'entreprise au sens de l'article 44 quindecies du CGI s'entend de toute opération au terme de laquelle est reprise la direction effective d'une entreprise existante avec la volonté non équivoque de maintenir la pérennité de cette entreprise. Par conséquent, une entreprise peut prétendre au bénéfice du dispositif d'exonération d'IR ou d'IS dans les ZRR au titre d'une opération de reprise dès lors qu'est caractérisée la reprise de la direction effective, indépendamment du rythme d'acquisition des parts sociales, sous réserve toutefois de respecter les autres conditions prévues par l'article 44 quindecies du CGI. Dans ces circonstances, la date de reprise constituant le point de départ pour le décompte de la période d'exonération correspondra au moment où interviendra de façon effective le changement de direction.
