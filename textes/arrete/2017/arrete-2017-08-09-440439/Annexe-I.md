@@ -2,7 +2,7 @@
 
 PROGRAMME DE LA SCOLARITÉ DES GREFFIERS EN FORMATION STATUTAIRE
 
-A.-Formation destinée aux greffiers recrutés par la voie des concours interne et externe, par la voie des emplois réservés et de l'obligation d'emploi mentionnée à l'article 27 de la loi du 11 janvier 1984 susvisée
+A.-Formation destinée aux greffiers recrutés par la voie des concours interne et externe, par la voie des emplois réservés et de l'obligation d'emploi mentionnée aux articles L. 352-1 et suivants du code général de la fonction publique
 
 La formation professionnelle initiale est composée :
 
@@ -68,7 +68,7 @@ III.-Période de stages pratiques
 
 L'encadrement des stages est organisé selon les modalités fixées par le règlement intérieur de l'Ecole nationale des greffes.
 
-Les stages pratiques, d'une durée de vingt-huit semaines, doivent permettre au greffier stagiaire de :
+Les stages pratiques, d'une durée de vingt-six semaines, doivent permettre au greffier stagiaire de :
 
 -mettre en pratique les acquis théoriques ;
 
@@ -88,13 +88,13 @@ IV.-Période d'approfondissement professionnel
 
 Il s'agit de mettre le greffier stagiaire en capacité d'exercer les fonctions spécifiques sur lesquelles il est affecté. Cette période constituée d'enseignements théoriques et de stages s'organise ainsi :
 
--une période de stages d'approfondissement des futures fonctions exercées afin de permettre au stagiaire de prendre la dimension de ses fonctions (seize semaines minimum). Ce stage se déroule dans une juridiction ou un service similaire à celui de la future affectation du stagiaire ;
+-une période de stages d'approfondissement des futures fonctions exercées afin de permettre au stagiaire de prendre la dimension de ses fonctions (huit semaines minimum). Ce stage se déroule dans une juridiction ou un service similaire à celui de la future affectation du stagiaire ;
 
--une période de scolarité d'approfondissement d'une à trois semaines ayant pour objectif de donner à l'ensemble des greffiers stagiaires des méthodes et outils en matière d'organisation du travail et d'encadrement intermédiaire (tronc commun), d'améliorer les connaissances de l'environnement professionnel et de développer les compétences liées à la fonction (formation adaptée aux futures fonctions exercées).
+-une période de scolarité d'approfondissement d'une semaine ayant pour objectif de donner à l'ensemble des greffiers stagiaires des méthodes et outils en matière d'organisation du travail et d'encadrement intermédiaire (tronc commun), d'améliorer les connaissances de l'environnement professionnel et de développer les compétences liées à la fonction (formation adaptée aux futures fonctions exercées).
 
 V.-Période de mise en situation professionnelle
 
-Durant les huit dernières semaines, le greffier stagiaire est en stage de mise en situation professionnelle dans la juridiction de sa future affectation.
+Durant les vingt-six dernières semaines, le greffier stagiaire est en stage de mise en situation professionnelle dans la juridiction de sa future affectation.
 
 Cette période doit lui permettre d'être opérationnel dès sa titularisation grâce à un accompagnement personnalisé sous forme de tutorat centré notamment sur la découverte de l'environnement interne de son service et des partenaires extérieurs. Sa mise en situation le mettra en capacité de s'approprier ses fonctions et de gagner progressivement en autonomie.
 
@@ -138,4 +138,4 @@ Le contenu de ces périodes prend en compte la durée de la formation et le parc
 
 NOTA :
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l'article 12 de l'arrêté du 2 août 2023 (NOR : JUSB2320021A), ces dispositions entrent en vigueur le 31 août 2023.

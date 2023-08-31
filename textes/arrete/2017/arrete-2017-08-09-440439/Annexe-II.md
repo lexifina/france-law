@@ -10,7 +10,7 @@ Durant la formation professionnelle initiale, les greffiers stagiaires sont éva
 
 - pendant la période de stages pratiques (II) ;
 
-- pendant la période d'approfondissement professionnel (III).
+- pendant la période d'approfondissement professionnel ou de mise en situation professionnelle (III).
 
 I. - Note de scolarité
 
@@ -24,11 +24,7 @@ II. - Note de stages pratiques
 
 Cette note correspond à la moyenne des notes proposées par chaque maître de stage des juridictions suivantes :
 
-- tribunal judiciaire-pôle pénal (coefficient 1,5) ;
-
-- tribunal judiciaire-pôle civil (coefficient 1,5) ;
-
-- conseil de prud'hommes-pôle prud'homal (coefficient 1) ;
+- tribunal judiciaire (coefficient 3) ;
 
 - cour d'appel (coefficient 1).
 
@@ -72,9 +68,11 @@ L'évaluation du stagiaire porte sur trois domaines de compétence composés de 
 
 - capacité d'adaptation.
 
-III. - Note du stage d'approfondissement professionnel
+III. - Note du stage d'approfondissement professionnel ou de mise en situation professionnelle
 
-A l'issue de la période d'approfondissement professionnel, une note sur 20 est attribuée au greffier stagiaire par le directeur de l'Ecole nationale des greffes sur la base des appréciations émises par le maître de stage suivant les critères d'évaluation définis par l'école.
+Durant la période de mise en situation professionnelle, une note sur 20 est attribuée au greffier stagiaire, recruté par concours externe et interne et par la voie des emplois réservés, par le directeur de l'Ecole nationale des greffes sur la base des appréciations émises par le maître de stage suivant les critères d'évaluation définis par l'école.
+
+A l'issue de la période d'approfondissement professionnel, une note sur 20 est attribuée au greffier stagiaire recruté par la voie du troisième concours par le directeur de l'Ecole nationale des greffes sur la base des appréciations émises par le maître de stage suivant les critères d'évaluation définis par l'école.
 
 Il s'agit d'évaluer la valeur professionnelle du greffier stagiaire en vue de sa titularisation au regard de :
 
@@ -96,4 +94,4 @@ Les greffiers recrutés par examen professionnel sont évalués par le directeur
 
 NOTA :
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l'article 12 de l'arrêté du 2 août 2023 (NOR : JUSB2320021A), ces dispositions entrent en vigueur le 31 août 2023.
