@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230406506
+
+- Question : [SEQ230406506](seq230406506.md) — Conséquence de l'exécution provisoire des peines d'inéligibilité
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-08-31, page 5198*
+
+Aux termes de l'article L. 230 du Cde électoral : « Ne peuvent être conseillers municipaux : / 1° Les individus privés du droit électoral (…) ». Aux termes de l'article L. 236 du même code : « Tout conseiller municipal qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas d'inéligibilité prévus par les articles L. 230 (…) est immédiatement déclaré démissionnaire par le préfet, sauf réclamation au tribunal administratif dans les dix jours de la notification, et sauf recours au Conseil d'Etat, conformément aux articles L. 249 et L. 250. Lorsqu'un conseiller municipal est déclaré démissionnaire d'office à la suite d'une condamnation pénale définitive prononcée à son encontre et entraînant de ce fait la perte de ses droits civiques et électoraux, le recours éventuel contre l'acte de notification du préfet n'est pas suspensif. » Les peines dont le juge pénal a décidé l'exécution provisoire lient le représentant de l'Etat et lui imposent de prendre une décision de démission d'office des mandats détenus par l'intéressé (CE, 20 juin 2012, n° 356865 ; CE, 14 avr. 2022, n° 456540). Des procédures similaires existent s'agissant notamment des mandats de conseiller départemental et de conseiller régional (articles L. 205 et L. 341 du code électoral). Dans l'hypothèse où un arrêt d'appel infirme la peine d'inéligibilité prononcée par une juridiction pénale de première instance et assortie d'une exécution provisoire, cette décision a pour conséquence de priver d'effet la décision de démission d'office prononcée par le représentant de l'Etat à l'endroit de l'intéressé. Celui-ci récupère par conséquent le mandat dont il avait été démis.
