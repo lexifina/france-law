@@ -1,6 +1,10 @@
 # Article 14 bis
 
-I. - Un véhicule usagé relevant de la catégorie internationale M1 ou N1 visée à l'article R. 311-1 du code de la route, précédemment immatriculé hors du territoire français, non conforme à un type ayant fait l'objet d'une réception communautaire ou d'une réception nationale française et importé en France en vue de son immatriculation, doit faire l'objet d'une réception à titre isolé auprès du service en charge des réceptions.
+I. - Un véhicule usagé relevant de la catégorie internationale M1 ou N1 visée à l'article R. 311-1 du code de la route, précédemment immatriculé hors du territoire français, non conforme à un type ayant fait l'objet d'une réception communautaire ou d'une réception nationale française et importé en France en vue de son immatriculation, doit :
+
+- faire l'objet d'une réception à titre isolé auprès du service en charge des réceptions conformément aux dispositions des points II et III ci-dessous ;
+
+- ou, s'il a précédemment immatriculé sur le territoire de l'Union européenne avec un certificat d'immatriculation définitif et harmonisé selon la directive 1999/37/CE du 29 avril 1999 relative aux documents d'immatriculation des véhicules, faire l'objet d'une demande au service en charge des réceptions conformément aux dispositions du point IV ci-dessous.
 
 Les critères pour la classification des véhicules respectent les dispositions définies dans l'annexe I du règlement 2018/858 précité.
 
@@ -35,3 +39,21 @@ Pour ce qui concerne les véhicules précédemment immatriculés dans un Etat me
 - à tout moment le demandeur conserve le choix d'attendre la réponse des autorités de l'Etat membre de provenance du véhicule ou de réaliser les essais techniques manquants dans un service technique notifié par un Etat membre de son choix.
 
 III. - Pour tous les autres domaines réglementés listés à l'annexe II, parties I et II du règlement UE 2018/858 précité et des textes pris pour son application, pour lesquels la demande de réception à titre isolé ne dispose pas de documents de conformité tel qu'il est indiqué ci-dessus, au paragraphe II, les vérifications sont réalisées par le service en charge des réceptions lors de la présentation du véhicule. Lorsque les vérifications ne peuvent être réalisées visuellement un justificatif peut être demandé.
+
+IV. - Un véhicule usagé complet ou complété relevant de la catégorie internationale M1 ou N1 visée à l'article R. 311-1 du code de la route, précédemment immatriculé sur le territoire de l'Union européenne avec un certificat d'immatriculation définitif et harmonisé selon la directive 1999/37/CE du 29 avril 1999 relative aux documents d'immatriculation des véhicules, non conforme à un type ayant fait l'objet d'une réception européenne ou d'une réception nationale française et importé en France en vue de son immatriculation, est présenté au service en charge des réceptions afin de vérifier la complétude et la concordance des données figurant sur le certificat d'immatriculation de ce véhicule.
+
+A ce titre le demandeur transmet, au service en charge des réceptions, une demande d'attestation de vérification des données techniques.
+
+Le service en charge des réceptions vérifie que les données obligatoires visées à l'annexe I point II.5 de la directive 1999/37/CE précitée suivantes : (A), (B), (C.1), (D.1), (D.2), (D.3), (E), (F.1), (G), (H), (I), (P.1), (P.2), (P.3) et (S.1) sont disponibles sur le certificat d'immatriculation définitif et harmonisé CE.
+
+Au cours de l'examen du véhicule, le service en charge des réceptions vérifie que les informations figurant aux rubriques suivantes du certificat d'immatriculation harmonisé CE : (E), (F.1), (F.3), (J), (J.2), et (S.1) sont concordantes avec le véhicule présenté.
+
+Enfin, il détermine les données : (F.2), (F.3), (J), (J.3) (P.3) et (P.6) et renseigne les données suivantes : (E), (G), (J.1), (J.2), (V.7), (V.9) et (Z.1) à (Z.4). Ces données seront reportées sur l'attestation de vérification des données techniques.
+
+A l'issue de l'examen, le service en charge des réceptions délivre une attestation de vérification des données techniques conforme à l'annexe XIII ter de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules sous réserves des dispositions de l'alinéa suivant.
+
+Si certaines données obligatoires du certificat d'immatriculation définitif et harmonisé CE sont manquantes ou si les données mentionnées sur ce certificat ne correspondent pas audit véhicule, et qu'en conséquence, ce certificat ne permet pas l'identification du véhicule présenté, la demande sera rejetée et le demandeur pourra faire une demande de réception à titre isolé conformément aux dispositions des points I à III ci-dessus.
+
+NOTA :
+
+Conformément à l’article 17 de l’arrêté du 4 août 2023 (NOR : TRER2319435A), ces dispositions entrent en vigueur à compter du 1er septembre 2023.
