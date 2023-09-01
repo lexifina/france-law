@@ -100,13 +100,13 @@ Niveau 1
 
 • dans un lieu de stage extrahospitalier agréé (agences, agences régionales de santé, CRAM, CNAM, structures de recherche...) ;
 
-• dans un établissement industriel agréé pour recevoir des internes en pharmacie du diplôme d'études spécialisées de pharmacie.
+• dans un établissement industriel agréé pour recevoir des étudiants de troisième cycle en pharmacie du diplôme d'études spécialisées de pharmacie.
 
--Chaque lieu de stage agréé pour recevoir des internes doit établir chaque année à l'intention du coordonnateur du diplôme d'études spécialisées et de l'agence régionale de santé pilote de l'interrégion, un profil des postes d'internes (description de l'activité de poste, participation à la garde, acquisition possible de compétences spécifiques, etc.).
+-Chaque lieu de stage agréé pour recevoir des étudiants de troisième cycle doit établir chaque année à l'intention du coordonnateur du diplôme d'études spécialisées et de l'agence régionale de santé pilote de l'interrégion, un profil des postes d'étudiants de troisième cycle (description de l'activité de poste, participation à la garde, acquisition possible de compétences spécifiques, etc.).
 
-À l'issue du niveau 1, l'interne établit librement un projet professionnel concernant le choix de l'option du D. E. S. de pharmacie (D. E. S. de pharmacie : option pharmacie hospitalière-pratique et recherche ou D. E. S. de pharmacie : option pharmacie industrielle et biomédicale), les quatre semestres du niveau 2 et ses objectifs professionnels.
+À l'issue du niveau 1, l'étudiant de troisième cycle établit librement un projet professionnel concernant le choix de l'option du D. E. S. de pharmacie (D. E. S. de pharmacie : option pharmacie hospitalière-pratique et recherche ou D. E. S. de pharmacie : option pharmacie industrielle et biomédicale), les quatre semestres du niveau 2 et ses objectifs professionnels.
 
-À titre exceptionnel, un interne pourra demander à la commission pédagogique un changement d'option. Cette demande devra être présentée avant que l'agence régionale de santé pilote de l'interrégion n'établisse la liste des postes d'internes mis au choix, correspondant au septième semestre du cursus du demandeur.
+À titre exceptionnel, un étudiant de troisième cycle pourra demander à la commission pédagogique un changement d'option. Cette demande devra être présentée avant que l'agence régionale de santé pilote de l'interrégion n'établisse la liste des postes d'étudiants de troisième cycle mis au choix, correspondant au septième semestre du cursus du demandeur.
 
 Niveau 2
 
@@ -114,18 +114,22 @@ Niveau 2
 
 Les quatre semestres du niveau 2 sont effectués de manière à obtenir un total de six semestres dans des stages agréés pour la pharmacie hospitalière à la fin du cursus de l'internat. Parmi les six semestres, un stage dans chacun des domaines de l'agrément de pharmacie hospitalière doit être effectué (pharmacie clinique et dispensation, économie de la santé et vigilances, préparation et contrôle, stérilisation et dispositifs médicaux).
 
-À l'issue de la validation de ce niveau 2, l'interne obtiendra la qualification du diplôme d'études spécialisées de pharmacie option pharmacie hospitalière-pratique et recherche.
+À l'issue de la validation de ce niveau 2, l'étudiant de troisième cycle obtiendra la qualification du diplôme d'études spécialisées de pharmacie option pharmacie hospitalière-pratique et recherche.
 
 -D. E. S. de pharmacie option pharmacie industrielle et biomédicale
 
-Les quatre semestres du niveau 2 sont effectués au choix de l'interne
+Les quatre semestres du niveau 2 sont effectués au choix de l'étudiant de troisième cycle
 
 -dans des lieux de stage ayant l'agrément d'un des quatre domaines de pharmacie hospitalière ;
 
 -dans un lieu de stage extrahospitalier agréé (agences, agences régionales de santé, CRAM, CNAM, structures de recherche...) ;
 
--dans un établissement industriel agréé pour recevoir des internes en pharmacie du diplôme d'études spécialisées de pharmacie.
+-dans un établissement industriel agréé pour recevoir des étudiants de troisième cycle en pharmacie du diplôme d'études spécialisées de pharmacie.
 
-Les internes s'orientant vers une activité dans le domaine des bioréactifs et/ ou de l'instrumentation de laboratoire sont autorisés à effectuer quatre semestres dans les laboratoires de biologie hospitaliers agréés.
+Les étudiants de troisième cycle s'orientant vers une activité dans le domaine des bioréactifs et/ ou de l'instrumentation de laboratoire sont autorisés à effectuer quatre semestres dans les laboratoires de biologie hospitaliers agréés.
 
-Pour les internes du D. E. S. de pharmacie option pharmacie industrielle et biomédicale, un semestre au moins est obligatoirement effectué dans un établissement industriel agréé.
+Pour les étudiants de troisième cycle du D. E. S. de pharmacie option pharmacie industrielle et biomédicale, un semestre au moins est obligatoirement effectué dans un établissement industriel agréé.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 29 avril 2022 (NOR : ESRS2212442A), ces dispositions sont applicables à compter de l'année universitaire 2023-2024.
