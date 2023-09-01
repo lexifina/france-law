@@ -50,15 +50,11 @@ Les postes de la direction générale de la sécurité intérieure font l'objet 
 
 Directeur national adjoint de la sécurité publique.
 
-Directeur zonal de la sécurité publique Sud à Marseille (13)
-
 Directeur départemental de la sécurité publique, commissaire central de Marseille (13)
 
 Directeur zonal de la sécurité publique Ouest à Rennes (35)
 
 Directeur zonal de la sécurité publique Est à Metz (57)
-
-Directeur zonal de la sécurité publique Nord à Lille (59)
 
 Directeur zonal de la sécurité publique Sud-Est à Lyon (69)
 
@@ -148,6 +144,52 @@ Directeur territorial de la police nationale de Mayotte.
 
 Directeur territorial de la police nationale de la Guyane.
 
+Préfigurateur directeur interdépartemental de la police nationale à Nice.
+
+Préfigurateur directeur interdépartemental de la police nationale à Ajaccio.
+
+Préfigurateur directeur interdépartemental de la police nationale à Nîmes.
+
+Préfigurateur directeur interdépartemental de la police nationale à Toulouse.
+
+Préfigurateur directeur interdépartemental de la police nationale à Bordeaux.
+
+Préfigurateur directeur interdépartemental de la police nationale à Montpellier.
+
+Préfigurateur directeur interdépartemental de la police nationale à Rennes.
+
+Préfigurateur directeur interdépartemental de la police nationale à Grenoble.
+
+Préfigurateur directeur interdépartemental de la police nationale à Saint-Etienne.
+
+Préfigurateur directeur interdépartemental de la police nationale à Nantes.
+
+Préfigurateur directeur interdépartemental de la police nationale à Nancy.
+
+Préfigurateur directeur interdépartemental de la police nationale à Metz.
+
+Préfigurateur directeur interdépartemental de la police nationale à Lille.
+
+Préfigurateur directeur interdépartemental de la police nationale à Beauvais.
+
+Préfigurateur directeur interdépartemental de la police nationale à Arras.
+
+Préfigurateur directeur interdépartemental de la police nationale à Strasbourg.
+
+Préfigurateur directeur interdépartemental de la police nationale à Mulhouse.
+
+Préfigurateur directeur interdépartemental de la police nationale à Rouen.
+
+Préfigurateur directeur interdépartemental de la police nationale à Melun.
+
+Préfigurateur directeur interdépartemental de la police nationale à Versailles.
+
+Préfigurateur directeur interdépartemental de la police nationale à Toulon.
+
+Préfigurateur directeur interdépartemental de la police nationale à Evry.
+
+Préfigurateur directeur interdépartemental de la police nationale à Cergy-Pontoise.
+
 2. Direction des ressources humaines, des finances et des soutiens de la police nationale :
 
 Sous-directeur de l'encadrement supérieur, des commissaires et des officiers.
@@ -174,12 +216,6 @@ Sous-directeur chargé de l'anti-terrorisme.
 
 Sous-directeur de la lutte contre la criminalité organisée et la délinquance spécialisée.
 
-Directeur zonal de la police judiciaire Ouest à Rennes.
-
-Directeur zonal de la police judiciaire Est à Strasbourg.
-
-Directeur zonal de la police judiciaire Sud-Est à Lyon.
-
 Directeur régional de police judiciaire à Versailles.
 
 Sous-directeur de la lutte contre la criminalité financière.
@@ -196,39 +232,7 @@ Les postes de la direction générale de la sécurité intérieure font l'objet 
 
 7. Direction nationale de la sécurité publique :
 
-Directeur départemental de la sécurité publique et commissaire central à Nice (06).
-
-Directeur départemental de la sécurité publique et commissaire central à Toulouse (31).
-
-Directeur départemental de la sécurité publique et commissaire central à Montpellier (34).
-
-Directeur départemental de la sécurité publique et commissaire central à Grenoble (38).
-
-Directeur départemental de la sécurité publique, chef de district et commissaire central à Saint-Etienne (42).
-
-Directeur départemental de la sécurité publique et commissaire central à Nantes (44).
-
-Directeur départemental de la sécurité publique, chef de district et commissaire central à Nancy (54).
-
-Directeur départemental de la sécurité publique, commissaire central de Lille (59).
-
-Directeur départemental de la sécurité publique à Arras (62).
-
-Directeur départemental de la sécurité publique et commissaire central à Strasbourg (67).
-
 Directeur départemental de la sécurité publique, commissaire central de Lyon (69).
-
-Directeur départemental de la sécurité publique et commissaire central à Rouen (76)
-
-Directeur départemental de la sécurité publique à Melun (77).
-
-Directeur départemental de la sécurité publique à Versailles (78).
-
-Directeur départemental de la sécurité publique, chef de district et commissaire central à Toulon (83).
-
-Directeur départemental de la sécurité publique à Evry (91).
-
-Directeur départemental de la sécurité publique à Cergy-Pontoise (95).
 
 Sous-directeur de l'ordre public et des mobilités.
 
@@ -332,4 +336,4 @@ Adjoint au chef du service des technologies et des systèmes d'information de la
 
 NOTA :
 
-Conformément à l'article 18 de l'arrêté du 30 juin 2023 (NOR : IOMC2313410A), ces dispositions entrent en vigueur à compter du 1er août 2023.
+Conformément à l'article 5 de l'arrêté du 1er août 2023 (NOR : IOMC2314955A), ces dispositions entrent en vigueur à compter du 1er septembre 2023.
