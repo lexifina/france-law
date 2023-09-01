@@ -12,7 +12,7 @@ Conformément à l'article 23 du décret du 16 janvier 1808, la Banque de France
 
 Article 2
 
-Dans les conditions fixées par un arrêté du conseil général et sous réserve de l'article 4, la caisse de réserve affecte au paiement des pensions :
+Dans les conditions fixées par un arrêté du conseil général et sous réserve de l'article 4, la caisse de réserve affecte au paiement des pensions de retraite :
 
 1° Le revenu de son portefeuille existant à la date d'entrée en vigueur du présent règlement et celui des cotisations, dotations, dons et legs qu'elle pourrait recevoir ultérieurement ;
 
@@ -82,7 +82,9 @@ Pour les agents titularisés au plus tard le 1er janvier 2017, peuvent égalemen
 
 Article 9
 
-Le temps passé dans une position statutaire ne comportant pas l'accomplissement de services effectifs ne peut entrer dans la constitution du droit à pension sauf dans la limite de trois ans par enfant né ou adopté à partir du 1er avril 2007, sous réserve que le titulaire de la pension ait bénéficié d'un congé parental d'éducation, d'un congé de présence parentale ou d'une disponibilité pour élever un enfant de moins de huit ans accordés par la Banque.
+Le temps passé dans une position statutaire ne comportant pas l'accomplissement de services effectifs ne peut entrer dans la constitution du droit à pension.
+
+Par dérogation à l'alinéa précédent, les périodes pendant lesquelles, pour les enfants nés ou adoptés à partir du 1er avril 2007, le titulaire de la pension a bénéficié d'un congé parental d'éducation, d'un congé de présence parentale ou d'un congé pour élever un enfant de moins de huit ans accordés par la Banque, sont prises en compte dans la constitution du droit à pension dans la limite de trois ans par enfant.
 
 Article 10
 
@@ -92,7 +94,7 @@ Le temps passé en service détaché ne peut être pris en compte que s'il a don
 
 Article 11
 
-Par dérogation aux dispositions de l'article 10, les périodes de travail effectuées à temps partiel peuvent être décomptées comme des périodes de travail à temps plein, sous réserve d'en avoir fait la demande au préalable et du versement d'une retenue pour pension dont le taux est appliqué à la rémunération cotisable d'un agent de même grade, échelon et indice travaillant à taux plein.
+Par dérogation aux dispositions de l'article 10, les périodes de travail effectuées à temps partiel peuvent être décomptées comme des périodes de travail à temps plein, sous réserve d'en avoir fait la demande au préalable et du versement d'une retenue pour pension dont le taux est appliqué à la rémunération cotisable d'un agent de même niveau, échelon et indice travaillant à taux plein.
 
 Cette prise en compte ne peut avoir pour effet d'augmenter la durée des services mentionnée à l'article 31 de plus de six trimestres.
 
@@ -108,7 +110,7 @@ Ce dernier taux est égal à 80 % de la somme du taux de la cotisation mentionn�
 
 Art. 11-1
 
-Par dérogation aux dispositions de l'article 10, les périodes de travail effectuées à temps partiel par les agents, parents de trois enfants à compter du 1er janvier 2016, jusqu'au seizième anniversaire de l'enfant peuvent être décomptées comme des périodes de travail à temps plein sous réserve du versement d'une retenue pour pension dont le taux est appliqué à la rémunération cotisable d'un agent de mêmes grade, échelon et indice travaillant à temps plein.
+Par dérogation aux dispositions de l'article 10, les périodes de travail effectuées à temps partiel par les agents, parents de trois enfants à compter du 1er janvier 2016, jusqu'au seizième anniversaire de l'enfant peuvent être décomptées comme des périodes de travail à temps plein sous réserve du versement d'une retenue pour pension dont le taux est appliqué à la rémunération cotisable d'un agent de mêmes niveau, échelon et indice travaillant à temps plein.
 
 Cette prise en compte ne peut avoir pour effet d'augmenter la durée des services mentionnée à l'article 31 de plus de quatre trimestres. Elle n'est pas prise en compte dans la durée d'assurance mentionnée au premier alinéa de l'article 33.
 
@@ -144,7 +146,7 @@ d) Du congé parental d'éducation ;
 
 e) Du congé de présence parentale ;
 
-f) D'une disponibilité pour élever un enfant de moins de huit ans.
+f) D'un congé pour élever un enfant de moins de huit ans.
 
 Article 14
 
@@ -180,7 +182,7 @@ L'invalidité de l'enfant est appréciée dans les formes prévues à l'article 
 
 Article 18
 
-Les périodes d'études accomplies dans les établissements, écoles et classes mentionnés à l'article L. 381-4 du code de la sécurité sociale sont susceptibles d'être prises en compte :
+Les périodes d'études accomplies dans les établissementsd'enseignement supérieur, les écoles techniques supérieures, les grandes écoles et les classes du second degré préparatoires à ces écoles sont susceptibles d'être prises en compte :
 
 - soit au titre de la durée des services retenus pour la liquidation des droits et au titre de la durée d'assurance ;
 
@@ -190,7 +192,7 @@ Les périodes d'études accomplies dans les établissements, écoles et classes 
 
 Cette prise en compte peut concerner au plus douze trimestres, sous réserve de l'obtention du diplôme et du versement des cotisations nécessaires selon le barème et les modalités de paiement définis par décret en Conseil d'Etat pour les fonctionnaires de l'Etat. Le barème s'applique à la rémunération cotisable de l'agent au moment de sa demande.
 
-Par dérogation aux conditions prévues à l'alinéa précédent, le montant du versement de cotisations prévu au même alinéa peut être abaissé par décret pour les périodes de formation initiale, dans des conditions et limites tenant notamment au délai de présentation de la demande, fixé à dix ans à compter de la fin des études, et au nombre de trimestres éligibles à ce montant spécifique.
+Par dérogation aux conditions prévues à l'alinéa précédent, le montant du versement de cotisations prévu au même alinéa peut être abaissé par décret pour les périodes de formation initiale, dans des conditions et limites tenant notamment à l'âge de l'assuré à la date de la demande, qui ne peut être inférieur à trente ans, et au nombre de trimestres éligibles à ce montant spécifique.
 
 Les périodes d'études ayant permis l'obtention d'un diplôme équivalent délivré par un Etat membre de l'Union européenne peuvent également être prises en compte.
 
@@ -284,7 +286,7 @@ Sont assimilés à l'enfant mentionné à l'alinéa précédent les enfants énu
 
 Article 27
 
-L'interruption d'activité prévue au deuxième alinéa du c de l'article 26 doit avoir eu une durée continue au moins égale à deux mois dans le cadre d'un congé pour maternité, de paternité, d'un congé d'adoption, d'un congé parental d'éducation, d'un congé de présence parentale ou d'une disponibilité pour élever un enfant de moins de huit ans.
+L'interruption d'activité prévue au deuxième alinéa du c de l'article 26 doit avoir eu une durée continue au moins égale à deux mois dans le cadre d'un congé pour maternité, de paternité, d'un congé d'adoption, d'un congé parental d'éducation, d'un congé de présence parentale ou d'un congé pour élever un enfant de moins de huit ans.
 
 La réduction d'activité prévue au même c est constituée d'une période de service à temps partiel d'une durée continue :
 
@@ -304,7 +306,7 @@ Aucune durée minimale d'interruption ou de réduction d'activité n'est exigée
 
 Article 28
 
-L'âge d'ouverture du droit à pension résultant de l'application du troisième alinéa de l'article 26 est abaissé pour les agents relevant du régime de retraite régi par le présent règlement qui ont commencé leur activité avant un âge et dans des conditions déterminés par l'article 68 et ont accompli une durée totale d'assurance et de périodes reconnues équivalentes dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires au moins égale à une limite définie par le même article, tout ou partie de cette durée totale ayant donné lieu à cotisations à la charge de l'agent. Les modalités d'application du présent article et, notamment, les conditions dans lesquelles, le cas échéant, une partie des périodes de service national et les périodes pendant lesquelles les agents ont été placés en congé de maladie ainsi que les périodes comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité et de l'inaptitude temporaire peuvent être réputées avoir donné lieu au versement de cotisations sont celles prévues par le décret pris pour l'application de l'article L. 25 bis du code des pensions civiles et militaires de retraite.
+L'âge d'ouverture du droit à pension résultant de l'application du troisième alinéa de l'article 26 est abaissé pour les agents relevant du régime de retraite régi par le présent règlement qui ont commencé leur activité avant un âge et dans des conditions déterminés par l'article 68 et ont accompli une durée totale d'assurance et de périodes reconnues équivalentes dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires au moins égale à une limite définie par le même article, tout ou partie de cette durée totale ayant donné lieu à cotisations à la charge de l'agent. Les modalités d'application du présent article et, notamment, les conditions dans lesquelles, le cas échéant, une partie des périodes de service national et les périodes pendant lesquelles les agents ont été placés en congé de maladie ainsi que les périodes comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité et de l'inaptitude temporaire, ainsi qu'en application des articles L. 381-1 et L. 381-2 du code de la sécurité sociale et les périodes pendant lesquelles les agents vérifiaient les conditions d'affiliation à l'assurance vieillesse du régime général mentionnées aux mêmes articles mais étaient affiliés à un régime spécial, peuvent être réputées avoir donné lieu au versement de cotisations à la charge de l'assuré sont celles prévues à l'article D. 16-2 du code des pensions civiles et militaires.
 
 Article 29
 
@@ -318,11 +320,11 @@ Art. 29-1
 
 I. - La condition d'âge prévue au troisième alinéa de l'article 26 est abaissée à soixante ans pour les assurés qui justifient d'une incapacité permanente au sens de l'article L. 434-2 du code de la sécurité sociale au moins égale à un taux déterminé par décret, lorsque cette incapacité est reconnue au titre d'une maladie professionnelle mentionnée à l'article L. 461-1 du même code ou au titre d'un accident de travail mentionné à l'article L. 411-1 du même code et ayant entraîné des lésions identiques à celles indemnisées au titre d'une maladie professionnelle.
 
-II. - Le I est également applicable à l'assuré justifiant d'une incapacité permanente d'un taux inférieur à celui mentionné au I, sous réserve des conditions cumulatives suivantes :
+II. - Lorsque l'assuré justifie d'une incapacité permanente d'un taux inférieur à celui mentionné au I du présent article et que cette incapacité est reconnue au titre d'une maladie professionnelle mentionnée à l'article L. 461-1 du code de la sécurité sociale ou au titre d'un accident de travail mentionné à l'article L. 411-1 du même code, la condition d'âge prévue au troisième alinéa de l'article 26 du présent règlement est abaissée de deux ans, sous réserve :
 
 1° Que le taux d'incapacité permanente de l'assuré soit au moins égal à un taux déterminé par décret ;
 
-2° Que l'assuré ait été exposé, pendant un nombre d'années déterminé par décret, à un ou plusieurs facteurs de risques professionnels mentionnés à l'article L. 4121-3-1 du code du travail ;
+2° Que l'assuré ait été exposé, pendant un nombre d'années déterminé par décret, à un ou plusieurs facteurs de risques professionnels mentionnés à l'article L. 4161-1 du code du travail ;
 
 3° Qu'il puisse être établi que l'incapacité permanente dont est atteint l'assuré est directement liée à l'exposition à ces facteurs de risques professionnels.
 
@@ -334,13 +336,13 @@ IV. - Les décrets mentionnés au présent article sont ceux pris pour l'applica
 
 Article 30
 
-La pension est basée sur la dernière rémunération cotisable afférente à l'emploi, grade ou classe et échelon effectivement occupés par l'agent depuis six mois au moins au moment de la cessation des services valables pour la retraite ou, à défaut, - sauf s'il y a eu rétrogradation par mesure disciplinaire - sur la rémunération cotisable afférente à l'emploi, grade ou classe et échelon antérieurement occupés.
+La pension est basée sur la dernière rémunération cotisable afférente à l'emploi, niveau et échelon effectivement occupés par l'agent depuis six mois au moins au moment de la cessation des services valables pour la retraite ou, à défaut, - sauf s'il y a eu rétrogradation par mesure disciplinaire - sur la rémunération cotisable afférente à l'emploi, niveau et échelon antérieurement occupés.
 
 En cas de travail à temps partiel, la rémunération cotisable retenue pour le calcul de la pension est celle à laquelle l'agent aurait pu prétendre s'il avait assuré un service à plein temps.
 
 Le délai de six mois ne sera pas opposé lorsque la cessation de service d'un agent se sera produite par suite de décès ou d'un accident survenu en service ou à l'occasion du service.
 
-Des décisions du gouverneur approuvées par le conseil général fixeront, le cas échéant, l'assimilation avec les catégories existantes des emplois, classes, grades ou échelons qui viendraient à être supprimés.
+Des décisions du gouverneur approuvées par le conseil général fixeront, le cas échéant, l'assimilation avec les catégories existantes des emplois, niveaux ou échelons qui viendraient à être supprimés.
 
 Article 31
 
@@ -400,7 +402,7 @@ Article 34
 
 Si le nombre de trimestres de durée d'assurance, telle que définie à l'article 15, est égal au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de la pension mentionné à l'article 31 ou si l'intéressé a atteint l'âge auquel s'annule le coefficient de minoration prévu à l'article 32 ou si la liquidation intervient pour les motifs prévus aux b et c de l'article 26 et au premier alinéa de l'article 29, le montant de la pension ne peut, sous réserve des dispositions transitoires de l'article 71, être inférieur :
 
-a) Lorsque la pension rémunère au moins quarante années de services effectifs, à un montant correspondant à la rémunération cotisable associée à la valeur au 1er avril 2007 de l'indice 182 ;
+a) Lorsque la pension rémunère au moins quarante années de services effectifs, à un montant égal à celui du salaire minimum interprofessionnel de croissance net ;
 
 b) Lorsque la pension rémunère quinze années de services effectifs, à 57, 5 % du montant défini à l'alinéa précédent, ce taux étant augmenté de 2, 5 points par année supplémentaire de services effectifs de quinze à trente ans et de 0, 5 point par année de services effectifs de trente à quarante ans ;
 
@@ -416,7 +418,7 @@ Le minimum garanti est versé sous réserve que le montant mensuel total des pen
 
 En cas de dépassement de ce montant, le minimum garanti est réduit à due concurrence du dépassement sans pouvoir être inférieur au montant de la pension sans application du minimum garanti. Ne peuvent bénéficier du minimum garanti que les agents qui, à la date de liquidation de la pension à laquelle ils ont droit au titre du présent règlement, ont fait valoir leurs droits aux pensions personnelles de retraite de droit direct auxquels ils peuvent prétendre au titre des régimes légaux ou rendus légalement obligatoires, de base et complémentaires, français et étrangers, ainsi que des régimes des organisations internationales.
 
-Les modalités d'application des deux précédents alinéas sont celles fixées par le décret prévu au dernier alinéa de l'article L. 17 du code des pensions civiles et militaires de retraite.
+Les conditions de prise en compte des périodes validées en application des articles L. 381-1 et L. 381-2 du code de la sécurité sociale et des périodes pendant lesquelles les agents vérifiaient les conditions d'affiliation obligatoire à l'assurance vieillesse du régime général mentionnées aux mêmes articles L. 381-1 et L. 381-2 mais étaient affiliés à un régime spécial sont celles fixées par le décret prévu au dernier alinéa de l'article L. 17 du code des pensions civiles et militaires de retraite.
 
 Article 35
 
@@ -434,7 +436,7 @@ Ouvrent droit à cette majoration :
 
 - les enfants recueillis à son foyer par le titulaire de la pension ou son conjoint, qui justifie en avoir assumé la charge effective et permanente par la production de tout document administratif établissant qu'ils ont été retenus pour l'octroi des prestations familiales ou du supplément familial de traitement ou du calcul de l'impôt sur le revenu.
 
-II. - A l'exception des enfants décédés par faits de guerre, les enfants doivent avoir été élevés pendant au moins neuf ans, soit avant leur seizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens des articles L. 512-3 et R. 512-2 du code de la sécurité sociale.
+II. - A l'exception des enfants décédés, les enfants doivent avoir été élevés pendant au moins neuf ans, soit avant leur seizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens des articles L. 512-3 et R. 512-2 du code de la sécurité sociale.
 
 Pour l'appréciation de la condition de durée ci-dessus, il est tenu compte, le cas échéant, du temps pendant lequel les enfants ont été élevés par le conjoint après le décès du titulaire.
 
@@ -445,6 +447,16 @@ III. - Le bénéfice de la majoration est accordé :
 - soit ultérieurement, au moment où l'enfant atteint l'âge de seize ans ou cesse, après cet âge, d'être à charge.
 
 IV. - Le taux de la majoration de la pension est fixé à 8, 5 % de son montant pour les trois premiers enfants et à 4, 25 % par enfant au-delà du troisième, sans que le montant de la pension majorée puisse excéder celui la rémunération cotisable déterminée à l'article 30.
+
+V.-Sur décision du juge pénal, le titulaire ne peut bénéficier de la majoration prévue au I du présent article s'il a été privé de l'exercice de l'autorité parentale ou s'est vu retirer l'autorité parentale consécutivement à une condamnation pénale au titre des crimes ou délits prévus à la section 1 du chapitre Ier du titre II du livre II du code pénal ou aux paragraphes 1 et 2 des sections 1 et 3 du chapitre II du même titre II, lorsque ces crimes ou délits ont été commis à l'encontre d'un des enfants.
+
+Titre III BIS
+
+RETRAITE PROGRESSIVE
+
+Article 35 bis
+
+Les dispositions du chapitre V du titre III du livre II de la partie législative du code des pensions civiles et militaires de retraite s'appliquent au service des pensions de retraite régies par le présent règlement.
 
 TITRE IV
 
@@ -496,7 +508,7 @@ La réalité des infirmités invoquées, leur rapport avec des infirmités déj�
 
 - deux agents titulaires désignés par le gouverneur ;
 
-- deux agents de même grade que l'agent en cause ou, à défaut, du grade immédiatement supérieur, pris parmi ceux qui représentent le personnel aux conseils de discipline. Ces agents siègent à tour de rôle dans l'ordre et les conditions fixés par décision du gouverneur ;
+- deux agents de même catégorie et d'un niveau au moins égal à celui de l'agent en cause, pris parmi ceux qui représentent le personnel aux commissions de discipline. Ces agents siègent à tour de rôle dans l'ordre et les conditions fixés par décision du gouverneur ;
 
 - deux médecins désignés par le gouverneur assistés éventuellement d'un spécialiste.
 
@@ -568,15 +580,15 @@ Au décès de l'un des bénéficiaires, sa part passe le cas échéant aux orphe
 
 Article 51
 
-Lorsqu'un agent décède à la suite d'un attentat ou d'une lutte dans l'exercice de ses fonctions ou d'un acte de dévouement dans un intérêt public ou pour sauver la vie d'une ou plusieurs personnes, la pension de réversion concédée au conjoint, augmentée le cas échéant de la rente due au titre de la législation sur les accidents du travail, ne peut être inférieure à un montant correspondant à la rémunération soumise à retenue afférente à l'indice 182, revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale.
+Lorsqu'un agent décède à la suite d'un attentat ou d'une lutte dans l'exercice de ses fonctions ou d'un acte de dévouement dans un intérêt public ou pour sauver la vie d'une ou plusieurs personnes, la pension de réversion concédée au conjoint, augmentée le cas échéant de la rente due au titre de la législation sur les accidents du travail, ne peut être inférieure à un montant égal à celui du salaire minimum interprofessionnel de croissance net.
 
 Article 52
 
-Le conjoint survivant ou le conjoint divorcé qui contracte un nouveau mariage, est lié par un pacte civil de solidarité ou vit en état de concubinage notoire perd son droit à pension.
+Le conjoint survivant ou le conjoint divorcé qui contracte un nouveau mariage ou qui, est lié par un pacte civil de solidarité perd son droit à pension.
 
 Les droits qui lui appartenaient ou qui lui auraient appartenu passent aux enfants nés de son mariage avec l'agent décédé dans les conditions prévues au second alinéa de l'article 53.
 
-Le conjoint survivant ou le conjoint divorcé, dont la nouvelle union est dissoute, qui n'est plus lié par un pacte civil de solidarité ou qui cesse de vivre en état de concubinage notoire, peut, s'il le désire, recouvrer son droit à pension et demander qu'il soit mis fin à l'application qui a pu être faite des dispositions du premier alinéa du présent article. En pareil cas, la pension éventuellement accordée aux enfants nés de son mariage avec l'agent décédé est supprimée.
+Le conjoint survivant ou le conjoint divorcé, dont la nouvelle union est dissoute, ou qui n'est plus lié par un pacte civil de solidarité, peut, s'il le désire, recouvrer son droit à pension et demander qu'il soit mis fin à l'application qui a pu être faite des dispositions du premier alinéa du présent article. En pareil cas, la pension éventuellement accordée aux enfants nés de son mariage avec l'agent décédé est supprimée.
 
 II. - Droits des orphelins
 
@@ -620,7 +632,7 @@ Article 58
 
 Lorsqu'un agent, bénéficiaire d'une pension ou d'une rente viagère d'invalidité au titre du présent règlement, a disparu de son domicile et que plus d'un an s'est écoulé sans qu'il ait donné signe de vie, son conjoint et les enfants âgés de moins de vingt et un ans qu'il a laissés peuvent obtenir, à titre provisoire, la liquidation des droits à la pension qui leur seraient ouverts en cas de décès.
 
-Une pension peut également être attribuée, à titre provisoire, au conjoint et aux enfants âgés de moins de vingt et un ans d'un agent en activité disparu depuis plus d'un an, lorsque celui-ci réunissait au jour de sa disparition au moins quinze annuités comptant pour la retraite.
+Une pension peut également être attribuée, à titre provisoire, au conjoint et aux enfants âgés de moins de vingt et un ans d'un agent en activité disparu depuis plus d'un an.
 
 La pension provisoire est supprimée lorsque le décès est officiellement établi ou que l'absence a été déclarée par jugement passé en force de chose jugée et une pension définitive est alors attribuée aux ayants droit.
 
@@ -644,7 +656,7 @@ Le compte ouvert au nom de la caisse de réserve des employés sur les livres de
 
 Article 61
 
-Les pensions sont revalorisées par un règlement du gouverneur du taux et à la date prévus pour les fonctionnaires de l'Etat en application de l'article L. 16 du code des pensions civiles et militaires de retraite.
+Les pensions sont revalorisées du taux et à la date prévus pour les fonctionnaires de l'Etat en application de l'article L. 16 du code des pensions civiles et militaires de retraite.
 
 Article 62
 
@@ -684,7 +696,7 @@ III. - Les agents mentionnés au premier alinéa du présent article qui envisag
 
 Dans le cas où cette autorisation est nécessaire, la décision du gouverneur est portée à la connaissance de l'agent dans un délai de deux mois à compter de la saisine de la commission.
 
-IV. - Les agents titulaires qui contreviendraient aux dispositions du présent article sont passibles d'une suspension de pension prise sur décision du gouverneur, après avis du conseil de discipline compétent pour les agents en activité titulaires du grade que l'agent avait atteint à la date de sa cessation d'activité.
+IV. - Les agents titulaires qui contreviendraient aux dispositions du présent article sont passibles d'une suspension de pension prise sur décision du gouverneur, après avis de la commission de discipline compétente pour les agents en activité titulaires du niveau que l'agent avait atteint à la date de sa cessation d'activité.
 
 Article 66
 
@@ -1628,16 +1640,6 @@ de l'article 34
 
 NOTA :
 
-Décret n° 2012-701 du 7 mai 2012, art. 41 : I. - Les dispositions des articles 21, 22, 24 et 25 ainsi que celles des 2° et 3° de l'article 26 du présent décret sont applicables aux pensions prenant effet à compter du 1er janvier 2016
+Conformément au I de l'article 3 du décret n° 2023-693 du 28 juillet 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
 
-.
-
-II. - L'article 6 du présent décret est applicable aux agents radiés des cadres à compter du 1er janvier 2012
-
-.
-
-III. - Les dispositions de l'article 20 et de l'article 35 du présent décret sont applicables aux pensions prenant effet à compter du 1er janvier 2016
-
-.
-
-IV. - Les dispositions de l'article 27 du présent décret et du III de l'article 72 du règlement annexé au décret du 27 février 2007 susvisé, issues de l'article 38 du présent décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2016. Toutefois, les agents qui ont atteint, avant cette date, l'âge de liquidation qui leur est applicable en vertu du a de l'article 26 et du premier alinéa de l'article 28 du règlement annexé au décret du 27 février 2007 susvisé, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, conservent le bénéfice des dispositions de l'article 34 du règlement annexé au décret du 27 février 2007 susvisé dans leur rédaction antérieure à l'entrée en vigueur du présent décret.
+Conformément au II de l'article 3 du décret n° 2023-693 du 28 juillet 2023, les dispositions issues du b du 16° de l'article 2 dudit décret sont applicables aux privations et aux retraits de l'exercice de l'autorité parentale prenant effet à compter du 1er septembre 2023.
