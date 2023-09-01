@@ -1,56 +1,62 @@
 # Article ANNEXE II
 
-DOMAINES DES ACTIVITÉS ÉLIGIBLES À LA PART INDIVIDUELLE DU " PASS CULTURE "
+ANNEXE II
 
-domaines des activités éligibles |
+DOMAINES DES ACTIVITÉS ÉLIGIBLES À LA PART INDIVIDUELLE DU “ PASS CULTURE ”
+
+Domaines
+
+des activités
+
+éligibles |
 
 Définition |
 
 Type |
 
-Conditions spécifiques |
+Conditions
+
+spécifiques |
 
 Musées, patrimoine culturel et centres d'art |
 
 Musées : article art L. 410-1 du code du patrimoine Archives : Articles L. 211-1 et suivants du code du patrimoine)
 
-Monuments historiques : articles L. 621-1 et suivants code du patrimoine Sites patrimoniaux remarquables : articles L. 631-1 et suivants du code du patrimoine
+Monuments historiques : articles L. 621-1 et suivants code du patrimoine Sites patrimoniaux remarquables : articles L. 631-1 et suivants du code du patrimoine |
 
-|
-
-Evénement ; carte d'abonnement ; carte de réduction et dispositif d'aide culturelle édités par les collectivités territoriales ; |
+Evénement ; carte d'abonnement ; carte de réduction et dispositif d'aide édités par les collectivités territoriales ; |
 
 Aucune |
 
 Spectacle vivant |
 
-Articles L 7122-1 et suivants et R. 7122-1 et suivants du code du travail |
+Articles L. 7122-1 et suivants et R. 7122-1 et suivants du code du travail |
 
-Evénement ; carte d'abonnement ; carte de réduction et dispositif d'aide culturelle édités par les collectivités territoriales |
+Evénement ; carte d'abonnement ; carte de réduction et dispositif d'aide édités par les collectivités territoriales |
 
 Aucune |
 
 Cours, ateliers ou activités de pratique artistique et culturelle |
 
-Ensemble de cours, ateliers ou activités, qui prennent appui sur un art (danse, théâtre, arts plastiques, écriture…) ou sur un métier d'art prévu en annexe de l'arrêté du 24 décembre 2015 et font appel à la créativité individuelle ou collective. Sont exclus les cours ou activités organisés dans le cadre des missions d'éducation artistique ou culturelle relevant directement ou indirectement du ministère de l'éducation nationale |
+Ensemble de cours, ateliers ou activités, qui prennent appui sur un art (danse, théâtre, arts plastiques, écriture …) ou sur un métier d'art prévu en annexe de l'arrêté du 24 décembre 2015 et font appel à la créativité individuelle ou collective. Sont exclus les cours ou activités organisés dans le cadre des missions d'éducation artistique ou culturelle relevant directement ou indirectement du ministère de l'éducation nationale |
 
-Evénement ; carte d'abonnement ; carte de réduction et dispositif d'aide culturelle édités par les collectivités territoriales ; bons d'achat |
+Evénement ; carte d'abonnement ; carte de réduction et dispositif d'aide édités par les collectivités territoriales ; bons d'achat |
 
 Proposé par un acteur culturel d'un secteur inclus dans l'un des autres domaines des activités éligibles |
 
 Cinéma |
 
-Code du cinéma et de l'image animée : autorisation d'exercice de la profession d'exploitant d'un établissement de spectacles cinématographiques L212-2 et suivants |
+Code du cinéma et de l'image animée : autorisation d'exercice de la profession d'exploitant d'un établissement de spectacles cinématographiques L. 212-2 et suivants |
 
-Evénement (notamment séances de projection) ; carte d'abonnement ; carte de réduction et dispositif d'aide culturelle édités par les collectivités territoriales |
+Evénement (notamment séances de projection) ; carte d'abonnement ; carte de réduction et dispositif d'aide édités par les collectivités territoriales |
 
 Aucune |
 
-Audiovisuel / Vidéo |
+Audiovisuel/ Vidéo |
 
-Définitions des services audiovisuels des articles 1 et 2 de la loi n° 86-1067 du 30 septembre 1986 Code du cinéma et de l'image animée |
+Définitions des services audiovisuels des articles 1er et 2 de la loi n° 86-1067 du 30 septembre 1986 Code du cinéma et de l'image animée |
 
-Achat d'œuvre ; carte d'abonnement ; carte de réduction et dispositif d'aide culturelle édités par les collectivités territoriales |
+Achat d'œuvre ; carte d'abonnement ; carte de réduction et dispositif d'aide édités par les collectivités territoriales |
 
 Retrait en point de vente culturel pour les biens matériels Pas de biens d'occasion |
 
@@ -58,7 +64,7 @@ Musique |
 
 / |
 
-Evénement ; carte d'abonnement (salles de musique, studios) ; carte de réduction et dispositif d'aide culturelle édités par les collectivités territoriales ; achat d'œuvres musicales (supports physiques ou numériques) ; œuvres musicales imprimées (partitions) |
+Evénement ; carte d'abonnement (salles de musique, studios) ; carte de réduction et dispositif d'aide édités par les collectivités territoriales ; achat d'œuvres musicales (supports physiques ou numériques) ; œuvres musicales imprimées (partitions) |
 
 Retrait en point de vente culturel pour les biens matériels Pas de biens d'occasion. |
 
@@ -66,7 +72,7 @@ Instruments de musique |
 
 Les objets conçus, façonnés et utilisés dans le seul but de produire de la musique, y compris les microphones et les accessoires liés à l'instrument à l'exclusion de tout appareil de diffusion sonore |
 
-Biens matériels ou bons d'achat valables uniquement pour l'achat ou la location d'un instrument de musique |
+Biens matériels |
 
 Retrait dans un point de vente pour les biens matériels |
 
@@ -74,7 +80,7 @@ Livre |
 
 Tous les livres hors manuels scolaires et livres parascolaires définis respectivement par les codes 3000 et 3013 de la Commission de liaison interprofessionnelle du livre (CLIL) |
 
-Carte d'abonnement ; carte de réduction et dispositif d'aide culturelle édités par les collectivités territoriales ; achat de livres matériels neufs ou de livres numériques |
+Carte d'abonnement ; carte de réduction et dispositif d'aide édités par les collectivités territoriales ; achat de livres matériels neufs ou de livres numériques |
 
 Retrait en point de vente pour les biens matériels Pas de livres d'occasion |
 
@@ -118,4 +124,8 @@ Cartes d'abonnement
 
 Services numériques |
 
-Groupe |
+|
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 7 juin 2023 (NOR : MENE2310844A), ces dispositions entrent en vigueur à la rentrée scolaire 2023.
