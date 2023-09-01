@@ -22,8 +22,6 @@ Paragraphe 4.
 
 Les agents statutaires ont droit chaque année au paiement d'une gratification dite de "fin d'année" d'un montant égal à celui du mois de décembre de l'année considérée.
 
-Cette gratification est soumise aux retenues réglementaires au titre des prestations invalidité-vieillesse-décès.
-
 Paragraphe 5.
 
 Comme acompte à valoir sur cette gratification de fin d'année les agents pourront obtenir au moment de leur départ en congé annuel une avance de l'ordre de 50 % de leur traitement mensuel du moment ; le solde de ladite gratification sera versé le 25 décembre au plus tard de chaque année.
@@ -35,3 +33,7 @@ Les agents en service dans les territoires d'outre-mer bénéficieront de l'int�
 Paragraphe 7.
 
 Les retenues pour absences non payées sont calculées sur la base horaire du salaire ou traitement annuel, cette base étant déterminée en considération du salaire annuel de l'intéressé et du nombre légal d'heures de travail auxquels la catégorie à laquelle il appartient est astreinte.
+
+NOTA :
+
+Conformément au I de l'article 3 du décret n° 2023-692 du 28 juillet 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

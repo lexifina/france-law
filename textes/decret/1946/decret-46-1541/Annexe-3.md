@@ -4,7 +4,9 @@ Article 1er
 
 Bénéficiaires, durée minimale d'affiliation, durée minimale de services
 
-Sont affiliés au régime spécial de retraites des industries électriques et gazières les agents bénéficiant du statut national du personnel de ces industries.
+Sont affiliés au régime spécial des industries électriques et gazières au titre des prestations d'invalidité, de décès et d'accidents du travail et maladies professionnelles les agents bénéficiant du statut national du personnel de ces industries.
+
+Sont affiliés à ce régime spécial au titre des prestations de vieillesse ceux de ces agents qui sont recrutés avant le 1er septembre 2023, et qui remplissent, sans aucune interruption à compter de cette date, les conditions d'affiliation à ce régime.
 
 Le droit aux prestations de vieillesse du régime spécial des industries électriques et gazières est subordonné à une durée minimale d'affiliation d'un an. La durée minimale d'affiliation comprend l'ensemble des périodes cotisées et effectivement travaillées ainsi que les arrêts de travail visés au a du paragraphe 1er et aux paragraphes 2, 3 et 4 de l'article 22 du statut national et les périodes mentionnées au III de l'article 5. Lorsque la cessation d'affiliation est antérieure au 1er juillet 2008, le droit aux prestations vieillesse du régime spécial est subordonné au remboursement par l'affilié à la Caisse nationale des industries électriques et gazières du reliquat de cotisations éventuellement perçu par celui-ci au moment où il a cessé d'être affilié audit régime.
 
@@ -138,7 +140,7 @@ Article 8
 
 Rachat des périodes d'études
 
-Les périodes d'études accomplies dans les établissements, écoles et classes mentionnés à l'article L. 381-4 du code de la sécurité sociale sont susceptibles d'être prises en compte :
+Les périodes d'études accomplies dans les établissements d'enseignement supérieur, les écoles techniques supérieures, les grandes écoles et les classes du second degré préparatoires à ces écoles sont susceptibles d'être prises en compte :
 
 a) Soit pour obtenir un supplément de liquidation au titre de l'article 9 ci-après, sans que ce supplément soit pris en compte dans la durée d'assurance au titre du I de l'article 10 ci-après ;
 
@@ -148,7 +150,7 @@ c) Soit pour obtenir un supplément de liquidation au titre de l'article 9 ci-ap
 
 Cette prise en compte peut concerner au plus douze trimestres, sous réserve de l'obtention du diplôme et du versement des cotisations nécessaires selon un barème et des modalités de paiement définis dans des conditions de neutralité actuarielle par arrêté du ministre chargé de la sécurité sociale et du ministre chargé du budget.
 
-Par dérogation aux conditions prévues à l'alinéa précédent, le montant du versement de cotisations prévu au même alinéa peut être abaissé par décret pour les périodes de formation initiale, dans des conditions et limites tenant notamment au délai de présentation de la demande, fixé à dix ans à compter de la fin des études, et au nombre de trimestres éligibles à ce montant spécifique.
+Par dérogation aux conditions prévues à l'alinéa précédent, le montant du versement de cotisations prévu au même alinéa peut être abaissé par décret pour les périodes de formation initiale, dans des conditions et limites tenant notamment à l'âge de l'assuré à la date de la demande, qui ne peut être inférieur à trente ans, et au nombre de trimestres éligibles à ce montant spécifique.
 
 Les périodes d'études ayant permis l'obtention d'un diplôme équivalent délivré par un Etat membre de l'Union européenne peuvent également être prises en compte.
 
@@ -560,7 +562,7 @@ Pour les pensions mentionnées à l'alinéa précédent, le montant résultant d
 
 En cas de dépassement de ce montant, le montant versé est réduit à due concurrence du dépassement sans pouvoir être inférieur au montant de la pension sans application du I. Ne peuvent bénéficier du I que les agents qui, à la date de liquidation de la pension à laquelle ils ont droit au titre de la présente annexe, ont fait valoir leurs droits aux pensions personnelles de retraite de droit direct auxquels ils peuvent prétendre au titre des régimes légaux ou rendus légalement obligatoires, de base et complémentaires, français et étrangers, ainsi que des régimes des organisations internationales.
 
-Les modalités d'application des deux précédents alinéas sont celles fixées par le décret prévu au dernier alinéa de l'article L. 17 du code des pensions civiles et militaires de retraite.
+Les conditions de prise en compte des périodes validées en application des articles L. 381-1 et L. 381-2 du code de la sécurité sociale et des périodes pendant lesquelles les fonctionnaires, les magistrats et les militaires vérifiaient les conditions d'affiliation obligatoire à l'assurance vieillesse du régime général mentionnées aux mêmes articles L. 381-1 et L. 381-2 mais étaient affiliés à un régime spécial sont celles fixées par le décret prévu au dernier alinéa de l'article L. 17 du code des pensions civiles et militaires de retraite.
 
 Article 20
 
@@ -591,6 +593,12 @@ II.-La majoration visée au présent article ne peut porter les pensions visées
 III.-En cas de décès de l'ouvrant droit avant la constitution des neuf ans de charge, la majoration pour enfants est reportée sur les prestations servies aux ayants droit à compter du premier jour du mois suivant la date où les conditions de charge se trouvent remplies.
 
 IV.-La majoration pour enfant n'est pas servie aux ayants droit, au titre des enfants bénéficiaires de la prestation visée aux articles 27 et 29 ci-après, et ce jusqu'à extinction de celle-ci.
+
+V. - Sur décision du juge pénal, l'agent ne peut bénéficier de la majoration prévue au présent article s'il a été privé de l'exercice de l'autorité parentale ou s'est vu retirer l'autorité parentale consécutivement à une condamnation pénale au titre des crimes ou délits prévus à la section 1 du chapitre Ier du titre II du livre II du code pénal ou aux paragraphes 1 et 2 des sections 1 et 3 du chapitre II du même titre II, lorsque ces crimes ou délits ont été commis à l'encontre d'un des enfants.
+
+Article 21-1
+
+Les dispositions des sous-paragraphes 1 et 2 du paragraphe 3 de la sous-section 4 de la section 1 du chapitre 1er du titre VI du livre Ier du code de la sécurité sociale relatives au cumul d'une activité professionnelle et d'une retraite et à la retraite progressive s'appliquent aux pensions de vieillesse dont le service est prévu par la présente annexe.
 
 TITRE III : DROITS DES AYANTS DROIT
 
@@ -780,11 +788,11 @@ Article 37
 
 Transformation en pension de vieillesse
 
-La pension d'invalidité est servie au maximum jusqu'à l'âge mentionné au 1° du I de l'article 16. Sauf en cas de reprise ou de poursuite d'une activité, une pension de vieillesse lui est substituée d'office le premier jour du mois qui suit la date à laquelle l'agent a atteint l'âge mentionné au 1° du I de l'article 16. Toutefois la pension d'invalidité est également substituée d'office avant cet âge dès lors que l'agent ouvre droit à pension de vieillesse et qu'il réunit, au sein du régime spécial, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de pension de vieillesse visé à l'article 9 de la présente annexe.
+La pension d'invalidité est servie au maximum jusqu'à l'âge mentionné au 1° du I de l'article 16. Sauf en cas de reprise ou de poursuite d'une activité, une pension de vieillesse lui est substituée d'office le premier jour du mois qui suit la date à laquelle l'agent a atteint l'âge mentionné au 1° du I de l'article 16. Toutefois, pour les agents affiliés au régime spécial des industries électriques et gazières au titre des prestations de vieillesse, la pension d'invalidité est également substituée d'office avant cet âge dès lors que l'agent ouvre droit à pension de vieillesse et qu'il réunit, au sein du régime spécial, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de pension de vieillesse visé à l'article 9 de la présente annexe.
 
-L'agent placé en invalidité de catégorie 1 qui exerce une activité professionnelle continue à bénéficier de sa pension d'invalidité jusqu'à la date pour laquelle il demande le bénéfice de sa pension de vieillesse et, au plus tard, jusqu'à l'âge mentionné au deuxième alinéa de la section intitulée "départ en inactivité" de l'article 4 du présent statut ou, le cas échéant, au plus tard à l'âge mentionné au 1° de la section intitulée "dispositions transitoires" de ce même article. Ses droits à pension de vieillesse sont alors liquidés sur sa demande dans les conditions prévues à l'article 39 de la présente annexe.
+L'agent placé en invalidité de catégorie 1 qui exerce une activité professionnelle continue à bénéficier de sa pension d'invalidité jusqu'à la date pour laquelle il demande le bénéfice de sa pension de vieillesse et, au plus tard, jusqu'à l'âge mentionné au deuxième alinéa de la section intitulée "départ en inactivité" de l'article 4 du présent statut ou, le cas échéant, au plus tard à l'âge mentionné au 1° de la section intitulée "dispositions transitoires" de ce même article. Lorsque l'agent est affilié au régime spécial des industries électriques et gazières au titre des prestations de vieillesse, ses droits à pension de vieillesse sont alors liquidés sur sa demande dans les conditions prévues à l'article 39 de la présente annexe.
 
-Le temps passé en situation d'invalidité est validé, sans contrepartie de cotisations, pour le décompte des services admissibles en liquidation au titre du premier alinéa de l'article 9 de la présente annexe.
+Le temps passé en situation d'invalidité est validé, sans contrepartie de cotisations, pour le décompte des périodes d'assurance et des services admissibles en liquidation au titre du régime d'assurance vieillesse auquel l'agent est affilié.
 
 L'ancienneté servant de base au calcul de la pension est constituée des périodes prises en compte pour bénéficier, en inactivité, des avantages prévus aux articles 26 et 28 du statut national.
 
@@ -1758,7 +1766,9 @@ b) Soit adoptés simples ou recueillis avant la cessation d'activité dans les i
 
 3° La Caisse nationale des industries électriques et gazières informe, avant le 1er janvier 2016, les agents ayant accompli quinze années de services effectifs et parents de trois enfants du changement des règles de départ anticipé à la retraite.
 
-VIII.-Pour l'application de l'article 17-1, les dispositions prévues pour les fonctionnaires nés avant le 1er juillet 1951, à compter du 1er juillet 1951 et jusqu'au 31 décembre 1951, en 1952, en 1953, en 1954, en 1955, en 1956, en 1957, en 1958, en 1959 et à compter du 1er janvier 1960 par le décret mentionné au deuxième alinéa de cet article 17-1 sont applicables respectivement aux agents relevant de la présente annexe nés avant le 1er janvier 1957, en 1957, en 1958, en 1959, en 1960, en 1961, en 1962, en 1963, en 1964, en 1965 et à compter du 1er janvier 1966.
+VIII. - Pour l'application de l'article 17-1 aux pensions prenant effet avant le 1er janvier 2025, il est fait application des articles D. 16-1 à D. 16-3 du code des pensions civiles et militaires de retraite dans leur rédaction antérieure au décret n° 2023-436 du 3 juin 2023 portant application des articles 10 et 11 de la loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023.
+
+Les dispositions prévues par le II de l'article D. 16-1 du code des pensions civiles et militaires de retraite pour les fonctionnaires nés avant le 1er juillet 1951, à compter du 1er juillet 1951 et jusqu'au 31 décembre 1951, en 1952, en 1953, en 1954, en 1955, en 1956, en 1957, en 1958, en 1959 et à compter du 1er janvier 1960 sont applicables respectivement aux assurés relevant du présent décret nés avant le 1er janvier 1957, en 1957, en 1958, en 1959, en 1960, en 1961, en 1962, en 1963, en 1964, en 1965 et à compter du 1er janvier 1966.
 
 Article 46
 
@@ -1910,4 +1920,4 @@ Tout emploi qui n'est pas classé en services actifs est classé en services sé
 
 NOTA :
 
-Conformément à l'article 8 du décret n° 2020-1489 du 1er décembre 2020, ces dispositions sont applicables au titre des périodes courant à compter du 1er mars 2020 pour les prestations prenant effet à compter du 12 mars 2020.
+Conformément au I de l'article 3 du décret n° 2023-692 du 28 juillet 2023, ces dispositions entrent en vigueur le 1er septembre 2023. Se reporter aux conditions d'application prévues aux II et III de l'article 3 dudit décret.

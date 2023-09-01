@@ -20,7 +20,7 @@ La durée du stage est fixée pour tout le personnel à un an de service effecti
 
 Pendant ledit stage, l'agent est rémunéré sur la base de l'échelon 1 de son échelle ; il est soumis aux règles de discipline fixées à l'article 6. Les sanctions prévues aux points 1, 2, 3 desdites règles lui sont applicables. Toute sanction plus grave entraîne le renvoi immédiat. L'agent stagiaire qui désire quitter son emploi doit avertir le directeur de l'exploitation un mois à l'avance.
 
-Les agents stagiaires appelés sous les drapeaux (service militaire légal, mobilisation, périodes d'instruction militaire, etc.) sont réintégrés dans leur emploi dès leur libération ; le temps ainsi passé sous les drapeaux compte pour le calcul de l'ancienneté et de la pension.
+Les agents stagiaires appelés sous les drapeaux (service militaire légal, mobilisation, périodes d'instruction militaire, etc.) sont réintégrés dans leur emploi dès leur libération ; le temps ainsi passé sous les drapeaux compte pour le calcul de l'ancienneté.
 
 Titularisation.
 
@@ -50,7 +50,7 @@ Cette lettre mentionnera notamment :
 
 Départ en inactivité.
 
-L'agent qui remplit les conditions d'ouverture du droit aux prestations vieillesse définies à l'annexe 3 du présent statut peut demander à partir en inactivité. Il doit informer son employeur de sa décision en respectant un préavis minimum de trois mois, la cessation d'activité devant intervenir le dernier jour d'un mois.
+L'agent qui remplit les conditions d'ouverture du droit aux prestations vieillesse peut demander à partir en inactivité. Il doit informer son employeur de sa décision en respectant un préavis minimum de trois mois, la cessation d'activité devant intervenir le dernier jour d'un mois.
 
 Sous réserve des dispositions prévues aux alinéas suivants, l'agent qui atteint l'âge de soixante-sept ans sans avoir pris l'initiative d'un départ en inactivité est mis en inactivité à l'initiative de son employeur.
 
@@ -58,25 +58,27 @@ Toutefois, l'âge limite prévu à l'alinéa précédent est reculé d'une anné
 
 L'âge limite est également reculé d'une année pour tout agent qui, au moment où il atteignait sa cinquantième année, était parent d'au moins trois enfants vivants, sous réserve de son aptitude physique à exercer un emploi. Toutefois, cet avantage ne peut se cumuler avec celui prévu à l'alinéa précédent que si l'un des enfants à charge est atteint d'une incapacité égale ou supérieure à 80 % ou ouvre droit au versement de l'allocation aux adultes handicapés.
 
-Les agents qui, lorsqu'ils atteignent l'âge limite défini aux alinéas précédents, n'ont pas validé le nombre de trimestres devant être validé au titre du régime des industries électriques et gazières pour obtenir le taux maximum mentionné à l'annexe 3 du présent statut peuvent, sur leur demande et sous réserve de leur aptitude physique, être maintenus en activité. La prolongation ainsi accordée ne peut avoir pour effet de maintenir l'agent en activité au-delà du nombre maximum de trimestres devant être validé au titre du régime des industries électriques et gazières pour obtenir le taux maximum mentionné à l'annexe 3 du présent statut, ni au-delà d'une durée égale à la différence entre le nombre de trimestres nécessaire pour bénéficier du taux maximum susvisé et 150 trimestres.
+Les agents qui, lorsqu'ils atteignent l'âge limite défini aux alinéas précédents, n'ont pas validé la durée d'assurance requise pour obtenir le taux maximum mentionné à l'annexe 3 du présent statut, lorsqu'ils sont affiliés au régime de retraite des industries électriques et gazières, ou le taux plein au sens de l'article L. 351-1 du code de la sécurité sociale, lorsqu'ils sont affiliés à un autre régime, peuvent, sur leur demande et sous réserve de leur aptitude physique, être maintenus en activité. La prolongation ainsi accordée ne peut avoir pour effet de maintenir l'agent en activité au-delà de la durée d'assurance susmentionnée ni au-delà d'une durée égale à la différence entre ce nombre de trimestres et 150 trimestres.
+
+Sous réserve de leur aptitude physique, les agents qui atteignent l'âge limite mentionné aux alinéas précédents peuvent, sur autorisation, être maintenus en activité jusqu'à l'âge de soixante-dix ans. Le refus d'autorisation est motivé. Le bénéfice cumulé de ce maintien en activité et des reculs de limite d'âge prévus aux alinéas précédents ne peut conduire l'agent à être maintenu en activité au-delà de soixante-dix ans.
 
 Lorsque la mise en inactivité intervient à l'initiative de l'employeur dans les conditions prévues aux alinéas précédents, celui-ci en informe l'agent en respectant un préavis minimum de trois mois.
 
 Sans préjudice des dispositions des alinéas précédents, l'agent en situation de longue maladie reconnu inapte au travail par la médecine-conseil du régime spécial est mis en inactivité à l'initiative de son employeur dans l'un des deux cas suivants :
 
--avant soixante-deux ans, lorsqu'il a atteint l'âge d'ouverture de ses droits à une pension de vieillesse du régime spécial des industries électriques et gazières et totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut ;
+-avant soixante-deux ans, lorsqu'il a atteint l'âge d'ouverture de ses droits à une pension de vieillesse du régime spécial des industries électriques et gazières et totalise la durée d'assurance requise pour obtenir le taux maximum mentionné à l'annexe 3 du présent statut, lorsqu'il est affilié au régime de retraite des industries électriques et gazières, ou le taux plein au sens de l'article L. 351-1 du code de la sécurité sociale, lorsqu'il est affilié à un autre régime ;
 
--à partir de soixante-deux ans, dès qu'il atteint le terme du congé de trois ans prévu par le b du paragraphe 1 de l'article 22 du présent statut, ou, si elle est antérieure, à la date à laquelle il totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut.
+-à partir de soixante-deux ans, dès qu'il atteint le terme du congé de trois ans prévu par le b du paragraphe 1 de l'article 22 du présent statut, ou, si elle est antérieure, à la date à laquelle il totalise la durée d'assurance mentionnée à l'alinéa précédent.
 
 Sans préjudice des dispositions des alinéas précédents, l'agent, accidenté du travail ou atteint d'une maladie professionnelle, en incapacité temporaire de travail et reconnu inapte au travail par la médecine-conseil du régime spécial, est mis en inactivité à l'initiative de son employeur dans l'un des deux cas suivants :
 
--avant soixante-deux ans, lorsqu'il a atteint l'âge d'ouverture de ses droits à une pension de vieillesse du régime spécial des industries électriques et gazières et totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut ;
+-avant soixante-deux ans, lorsqu'il a atteint l'âge d'ouverture de ses droits à une pension de vieillesse du régime spécial des industries électriques et gazières et totalise la durée d'assurance requise pour obtenir le taux maximum mentionné à l'annexe 3 du présent statut, lorsqu'il est affilié au régime de retraite des industries électriques et gazières, ou le taux plein au sens de l'article L. 351-1 du code de la sécurité sociale, lorsqu'il est affilié à un autre régime ;
 
--à partir de soixante-deux ans, dès qu'il atteint la date de consolidation de ses blessures ou de stabilisation de son état, ou, si elle est antérieure, à la date à laquelle il totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut.
+-à partir de soixante-deux ans, dès qu'il atteint la date de consolidation de ses blessures ou de stabilisation de son état, ou, si elle est antérieure, à la date à laquelle il totalise la durée d'assurance mentionnée à l'alinéa précédent.
 
-L'agent bénéficiaire d'un dispositif conventionnel de cessation anticipée d'activité des travailleurs de l'amiante est mis en inactivité à l'initiative de son employeur à partir de l'âge d'ouverture de ses droits à pension de vieillesse du régime des industries électriques et gazières dès lors qu'il totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut ou, au plus tard, à soixante-deux ans.
+L'agent bénéficiaire d'un dispositif conventionnel de cessation anticipée d'activité des travailleurs de l'amiante est mis en inactivité à l'initiative de son employeur à partir de l'âge d'ouverture de ses droits à pension de vieillesse dès lors qu'il atteint la durée d'assurance requise pour obtenir le taux maximum mentionné à l'annexe 3 du présent statut, lorsqu'il est affilié au régime de retraite des industries électriques et gazières, ou le taux plein au sens de l'article L. 351-1 du code de la sécurité sociale, lorsqu'il est affilié à un autre régime, ou, au plus tard, à soixante-deux ans.
 
-L'agent titulaire d'une pension d'invalidité de catégorie 2 ou 3, au sens de l'annexe 3 du présent statut, est mis en inactivité à l'initiative de son employeur à partir de l'âge d'ouverture de ses droits à pension de vieillesse du régime des industries électriques et gazières dès lors qu'il totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut ou, au plus tard, à soixante-deux ans.
+L'agent titulaire d'une pension d'invalidité de catégorie 2 ou 3, au sens de l'annexe 3 du présent statut, est mis en inactivité à l'initiative de son employeur à partir de l'âge d'ouverture de ses droits à pension de vieillesse dès lors qu'il atteint la durée d'assurance requise pour obtenir le taux maximum mentionné à l'annexe 3 du présent statut, lorsqu'il est affilié au régime de retraite des industries électriques et gazières, ou le taux plein au sens de l'article L. 351-1 du code de la sécurité sociale, lorsqu'il est affilié à un autre régime, ou, au plus tard, à soixante-deux ans .
 
 L'agent titulaire d'une pension d'invalidité de catégorie 1, au sens de l'annexe 3 du présent statut, qui exerce une activité réduite, est mis en inactivité à l'initiative de son employeur à l'âge de soixante-deux ans sauf si, au plus tard trois mois avant son soixante-deuxième anniversaire, il exprime le souhait de poursuivre son activité.
 
@@ -99,3 +101,7 @@ Dispositions transitoires.
 -à soixante-six ans et huit mois pour les agents nés en 1961.
 
 2° L'âge de soixante ans mentionné aux huitième, neuvième, onzième, douzième, treizième, quatorzième et quinzième alinéas de la section intitulée : " Départ en inactivité " du présent article, dans leur rédaction antérieure à l'entrée en vigueur du décret n° 2011-289 du 18 mars 2011 modifiant le statut national du personnel des industries électriques et gazières approuvé par le décret n° 46-1541 du 22 juin 1946, évolue jusqu'à atteindre l'âge de soixante-deux ans mentionné aux mêmes alinéas, dans leur rédaction issue dudit décret, dans les conditions fixées par le 1° du V de l'article 45 de l'annexe 3 du présent statut.
+
+NOTA :
+
+Conformément au I de l'article 3 du décret n° 2023-692 du 28 juillet 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

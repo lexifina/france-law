@@ -40,9 +40,9 @@ Toute fausse déclaration faite par un agent dans le but de bénéficier d'avant
 
 Paragraphe 4.
 
-Les agents titulaires d'une pension de vieillesse, y compris pension de réversion, ou d'invalidité du régime spécial des industries électriques et gazières qui ne sont pas couverts sur le plan familial par une institution dont ils pourraient dépendre en raison d'une nouvelle activité bénéficient des avantages familiaux susvisés, au même titre et aux mêmes taux que les agents en activité disposant d'un classement identique à celui dont ils bénéficiaient au moment de leur départ en inactivité.
+Les agents titulaires d'une pension de vieillesse, y compris pension de réversion, versée par le régime auquel ils sont affiliés au titre d'une période d'activité relevant du présent statut, ou d'une pension d'invalidité du régime spécial des industries électriques et gazières qui ne sont pas couverts sur le plan familial par une institution dont ils pourraient dépendre en raison d'une nouvelle activité bénéficient des avantages familiaux susvisés, au même titre et aux mêmes taux que les agents en activité disposant d'un classement identique à celui dont ils bénéficiaient au moment de leur départ en inactivité.
 
-Pour les agents titulaires d'une pension de vieillesse, y compris pension de réversion, du régime spécial des industries électriques et gazières, le bénéfice des avantages familiaux prévus aux paragraphes 1 et 2 du présent article est conditionné à une ancienneté minimale de quinze années, le cas échéant période d'invalidité comprise.
+Pour les agents titulaires d'une pension de vieillesse, y compris pension de réversion, le bénéfice des avantages familiaux prévus aux paragraphes 1 et 2 du présent article est conditionné à une ancienneté minimale de quinze années, le cas échéant période d'invalidité comprise.
 
 Sont décomptées au titre de l'ancienneté les périodes suivantes :
 
@@ -71,3 +71,7 @@ Paragraphe 6.
 Les conjoints , partenaires de pacte civil de solidarité ou concubins, et enfants d'agents décédés en situation d'inactivité et qui remplissaient la condition d'ancienneté définie au deuxième alinéa du paragraphe 4 ci-dessus, de même que les conjoints, partenaires de pacte civil de solidarité ou concubins, et enfants d'agents décédés en activité de service conservent les droits aux avantages familiaux dont le décédé bénéficiait à leur titre avant son décès.
 
 Dans le cas d'orphelins totaux, les avantages en cause seront doublés et mandatés au nom des ascendants du décédé ou de toute personne ou institution prenant en charge lesdits orphelins totaux.
+
+NOTA :
+
+Conformément au I de l'article 3 du décret n° 2023-692 du 28 juillet 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

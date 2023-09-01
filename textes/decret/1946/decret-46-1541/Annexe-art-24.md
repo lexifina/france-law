@@ -2,7 +2,7 @@
 
 Paragraphe 1
 
-Les conditions d'ouverture des droits aux prestations d'invalidité, de vieillesse et de décès du régime spécial des industries électriques et gazières et la détermination de celles-ci sont fixées à l'annexe 3 au présent statut.
+Les conditions d'ouverture des droits aux prestations d'invalidité, de décès et, pour les agents recrutés avant le 1er septembre 2023, de vieillesse du régime spécial des industries électriques et gazières et la détermination de celles-ci sont fixées à l'annexe 3 au présent statut.
 
 Paragraphe 2
 
@@ -14,10 +14,14 @@ Le droit à ancienneté est maintenu pendant la période d'invalidité lorsque c
 
 Paragraphe 3
 
-En cas de décès d'un titulaire d'une pension de vieillesse de droit direct prévue au titre Ier de l'annexe 3 ou d'un titulaire d'une pension d'invalidité prévue au titre IV de l'annexe 3 n'exerçant aucune activité professionnelle dans les industries électriques et gazières, un capital décès est attribué au conjoint ou à défaut, à parts égales, aux enfants nés de l'agent ou adoptés, ou à défaut, à parts égales, aux ascendants à charge.
+En cas de décès d'un titulaire d'une pension de vieillesse de droit direct servie au titre du régime auquel il était affilié pour une période d'activité relevant du présent statut ou d'un titulaire d'une pension d'invalidité prévue au titre IV de l'annexe 3 n'exerçant aucune activité professionnelle dans les industries électriques et gazières, un capital décès est attribué au conjoint ou à défaut, à parts égales, aux enfants nés de l'agent ou adoptés, ou à défaut, à parts égales, aux ascendants à charge.
 
 Le capital décès est égal à trois mois de la pension dont bénéficiait l'agent décédé dans la limite d'un plafond égal à trois fois le montant prévu à l' article D. 361-1 du code de la sécurité sociale en vigueur à la date du décès.
 
 Le capital décès calculé en application de l'alinéa précédent ne peut être inférieur à celui qui serait déterminé par application du coefficient hiérarchique dont la valeur est immédiatement supérieure à 325.
 
 Le capital décès est servi sur demande des bénéficiaires mentionnés au présent article auprès de la Caisse nationale des industries électriques et gazières.
+
+NOTA :
+
+Conformément au I de l'article 3 du décret n° 2023-692 du 28 juillet 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
