@@ -1,0 +1,9 @@
+# Article 1er
+
+Le présent avenant a pour objet de fixer les garanties minimales de salaire applicables aux salariés des entreprises relevant de la convention collective nationale du commerce de détail et de gros à prédominance alimentaire du 12 juillet 2001.
+
+Conformément à l'article L. 2253-1 du code du travail et dans le cadre des règles prévues par cet article, les dispositions du présent accord en matière de salaire minimum prévalent sur les conventions ou accords d'entreprise, sauf garanties au moins équivalentes.
+
+Il est rappelé que si les salaires minima hiérarchiques fixés ci-après tiennent compte des dispositions conventionnelles prévues aux articles 3.6 et 5.2.1 de la CCN, cela ne peut cependant avoir pour effet d'interdire aux entreprises de déroger à ces articles par voie d'accord collectif, en application des articles L. 2253-1 et L. 2253-3 du code du travail. De tels accords ne peuvent toutefois pas conduire à des montants de salaires réels inférieurs aux minima conventionnels hiérarchiques mensuels et annuels fixés ci-après, sauf garanties au moins équivalentes : la structure de rémunération peut être librement fixée par accord d'entreprise, alors que la rémunération minimale fixée pour chaque niveau de classification par les représentants des entreprises et des salariés, représentatifs à l'échelle de la branche, constitue une garantie collective fondamentale.
+
+Il est également précisé que les salaires minima fixés par le présent accord font exclusivement référence aux niveaux de classification tels que définis par le titre IV de la convention collective nationale et non à d'éventuels accords d'entreprise instaurant d'autres règles en matière de classification, qui doivent en application de la loi assurer aux salariés des garanties au moins équivalentes.
