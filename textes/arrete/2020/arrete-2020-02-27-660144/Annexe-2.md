@@ -10,6 +10,12 @@ Montant de l'indemnité
 
 de fonction |
 
+Agence française de lutte contre le dopage |
+
+Hors Échelle F |
+
+107 245 € |
+
 Autorité nationale des jeux |
 
 Hors Échelle F |
@@ -63,3 +69,7 @@ Haute Autorité pour la transparence de la vie publique |
 Hors Échelle F |
 
 107 245 € |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 5 juillet 2023 (NOR : PRMX2316331A), ces dispositions entrent en vigueur le 1er septembre 2023.

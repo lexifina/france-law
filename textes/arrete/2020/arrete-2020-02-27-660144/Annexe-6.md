@@ -12,10 +12,6 @@ Montant de l'indemnité forfaitaire |
 
 Agence française de lutte contre le dopage |
 
-Président de l'autorité |
-
-24 000 € |
-
 Président de la commission des sanctions |
 
 12 000 € |
@@ -101,3 +97,7 @@ Médiateur national de l'énergie |
 Médiateur |
 
 50 000 € |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 5 juillet 2023 (NOR : PRMX2316331A), ces dispositions entrent en vigueur le 1er septembre 2023.
