@@ -138,9 +138,17 @@ Bicarburation superéthanol-gaz naturel et électricité (hybride non rechargeab
 
 FP |
 
-Biogazole B100 |
+Biogazole B100 exclusif |
 
 B1 |
+
+Biogazole B100 exclusif-électricité (hybride rechargeable) |
+
+BL |
+
+Biogazole B100 exclusif-électricité (hybride non-rechargeable) |
+
+BH |
 
 Gazole
 
@@ -335,3 +343,7 @@ HH
 (*) L'emploi de gazogène n'est autorisé que sous réserve de l'obtention d'une dérogation accordée conjointement par le directeur général des douanes et droits indirects et par le directeur des matières premières et des hydrocarbures au ministère de l'économie, des finances et de l'industrie.
 
 |
+
+NOTA :
+
+Conformément à l'article 10 de l'arrêté du 4 août 2023 (NOR : TRER2319503A), ces dispositions entrent en vigueur à compter du 1er septembre 2023.

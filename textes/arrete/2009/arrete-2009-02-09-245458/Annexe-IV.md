@@ -64,8 +64,6 @@ Une quittance de loyer, de gaz, d'électricité, d'eau ou de téléphone (fixe o
 
 Une attestation d'assurance logement ;
 
-Un livret spécial de circulation, un livret de circulation ou un carnet de circulation en cours de validité pour les personnes auxquelles la loi a fixé une commune de rattachement ;
-
 Une attestation établissant leur lien avec l'organisme d'accueil figurant sur une liste établie par le préfet et, à Paris, par le préfet de police, pour les personnes dans l'incapacité d'apporter la preuve de leur adresse ou auxquelles la loi n'a pas fixé de commune de rattachement.
 
 Le demandeur, personne morale, peut justifier de son adresse par tout moyen, notamment :
@@ -78,4 +76,4 @@ Pour le cas des personnes hébergées, une attestation sur l'honneur, co-signée
 
 NOTA :
 
-Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.
+Conformément à l'article 10 de l'arrêté du 4 août 2023 (NOR : TRER2319503A), ces dispositions entrent en vigueur à compter du 1er septembre 2023.
