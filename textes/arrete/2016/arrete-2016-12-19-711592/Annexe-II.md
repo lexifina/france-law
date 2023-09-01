@@ -8,9 +8,9 @@ Unités |
 
 01-Ain |
 
-Communautés de brigades d'Ambérieu-en-bugey, de Belley, de Thoiry, de Trévoux
+Communautés de brigades d'Ambérieu-en-Bugey, de Belley, de Thoiry et de Trévoux
 
-Brigades territoriales autonomes de Chatillon-en-Michaille, de Miribel, de Montluel et d'Ornex |
+Brigades territoriales autonomes de Valserhône, de Miribel, de Montluel et d'Ornex |
 
 02-Aisne |
 
@@ -44,7 +44,7 @@ Communautés de brigades de Limoux et de Lézignan-Corbières |
 
 12-Aveyron |
 
-Communautés de brigades de Villefranche-de-Rouergue |
+Communauté de brigades de Villefranche-de-Rouergue |
 
 13-Bouches-du-Rhône |
 
@@ -108,11 +108,11 @@ Brigades territoriales autonomes de Muret, de Portet-sur-Garonne et de Saint-Ore
 
 Communautés de brigades de Castillon-la-Bataille et de Coutras
 
-Brigades territoriales autonomes de Libourne et de Sainte-Foy-la-Grande |
+Brigades territoriales autonomes de Libourne et de Pineuilh |
 
 34-Hérault |
 
-Communautés de brigades de Lodève, de Bédarieux
+Communautés de brigades de Lodève et de Bédarieux
 
 Brigades territoriales autonomes de Lunel et de Mauguio |
 
@@ -158,7 +158,7 @@ Brigades territoriales autonomes de Gien, de Sully-sur-Loire et de Pithiviers |
 
 47-Lot-et-Garonne |
 
-Communauté de brigades de Tonneins et de Sainte-Livrade-sur-Lot
+Communautés de brigades de Tonneins et de Sainte-Livrade-sur-Lot
 
 Brigade territoriale autonome de Marmande |
 
@@ -296,13 +296,13 @@ Brigade territoriale autonome de Fontenay-le-Comte |
 
 Communautés de brigades d'Avallon et de Saint-Florentin |
 
-90-Territoire-de-Belfort |
+90-Territoire de Belfort |
 
 Communauté de brigades de Belfort |
 
 91-Essonne |
 
-Communautés de brigades de Bondoufle et de Saint germain lès Corbeil
+Communautés de brigades de Bondoufle et de Saint-Germain-lès-Corbeil
 
 Brigade territoriale autonome d'Egly |
 
@@ -328,7 +328,7 @@ Brigades territoriales autonomes de Matoury, de Macouria, de Remire-Montjoly et 
 
 Communautés de brigades de Saint-Benoît, de Saint-Leu, du Tampon, de Saint-Joseph et de Saint-Paul
 
-Brigades territoriales autonomes de la Plaine-des-Cafres, de la Possession de Les Trois-Bassins, de Saint-Louis, de Sainte-Marie et de Sainte-Suzanne |
+Brigades territoriales autonomes de la Plaine-des-Cafres, de la Possession, de Les Trois-Bassins, de Saint-Louis, de Sainte-Marie et de Sainte-Suzanne |
 
 976-Mayotte |
 
@@ -340,4 +340,4 @@ Brigades territoriales autonomes d'Arue, de Faaa, de Moorea, de Paea, de Papara 
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 5 juillet 2022 (NOR : IOMJ2217811A), ces dispositions entrent en vigueur le premier jour du mois suivant la publication dudit arrêté.
+Conformément à l’article 3 de l’arrêté du 4 août 2023 (NOR : IOMJ2320120A), ces dispositions entrent en vigueur le premier jour du mois suivant sa parution, à savoir le 1er septembre 2023.

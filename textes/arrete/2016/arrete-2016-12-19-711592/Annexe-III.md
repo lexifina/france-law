@@ -1,6 +1,6 @@
 # Article Annexe III
 
-UNITÉS RELEVANT DE LA GENDARMERIE NATIONALE AU TITRE DE LA NBI " DÉCONCENTRÉE PRÉFET "
+UNITÉS RELEVANT DE LA GENDARMERIE NATIONALE AU TITRE DE LA NBI DÉCONCENTRÉE PRÉFET
 
 Département ou collectivité |
 
@@ -42,7 +42,7 @@ Brigades territoriales autonomes de Mouans-Sartoux Valbonne et de Levens
 
 Maison de Protection des Familles de Cagnes-sur-Mer |
 
-1450 |
+1 450 |
 
 07-Ardèche |
 
@@ -60,7 +60,7 @@ Brigade territoriale autonome de Nouzonville
 
 Pelotons de surveillance et d'intervention de la gendarmerie de Vireux-Molhain, de Rethel et de Sedan |
 
-1210 |
+1 210 |
 
 10-Aube |
 
@@ -92,7 +92,7 @@ Brigades de recherches d'Aubagne, d'Aix-en-Provence et d'Istres
 
 Maison de Protection des Familles d'Aix-en-Provence |
 
-1700 |
+1 700 |
 
 16-Charente |
 
@@ -160,23 +160,23 @@ Communauté de brigades de Vauvert
 
 Brigade territoriale autonome de Marguerittes
 
-Pelotons de surveillance et d'intervention de la gendarmerie d'Alès, de Vauvert, de Nîmes
+Pelotons de surveillance et d'intervention de la gendarmerie d'Alès, de Vauvert et de Nîmes
 
 Brigade de recherches de Nîmes
 
 Maison de Protection des Familles de Caissargues |
 
-1200 |
+1 200 |
 
 31-Haute-Garonne |
 
-Communauté de brigades de Saint-Jory, de L'Union, de Castanet-Tolosan, de Castelginest, de Balma, de Saint-Lys
+Communauté de brigades de Saint-Jory, de L'Union, de Castanet-Tolosan, de Castelginest et de Balma
 
-Brigade territoriale autonome de Léguevin
+Brigades territoriales autonomes de Léguevin, de Saint-Lys et de Plaisance-du-Touch
 
 Maison de Protection des Familles de Cugnaux |
 
-1150 |
+1 150 |
 
 34-Hérault |
 
@@ -200,7 +200,7 @@ Communauté de brigades de Saint-Clair-du-Rhône
 
 Brigades territoriales autonomes de La Verpillère, de Saint-Egrève, de Voreppe, de Vif, d'Eybens, de l'Isle-d'Abeau, du Pont-de-Claix, de Roussillon et de Chasse-sur-Rhône |
 
-2280 |
+2 280 |
 
 39-Jura |
 
@@ -268,7 +268,7 @@ Peloton de surveillance et d'intervention de la gendarmerie de Forbach
 
 Brigades de recherches de Forbach, de Metz et de Thionville |
 
-1020 |
+1 020 |
 
 58-Nièvre |
 
@@ -280,13 +280,13 @@ Brigade territoriale autonome de Marzy |
 
 Brigades territoriales autonomes de La Bassée, d'Orchies, du Quesnoy et d'Arleux |
 
-1510 |
+1 510 |
 
 60-Oise |
 
 Pelotons de surveillance et d'intervention de la gendarmerie de Compiègne et de Méru
 
-Brigades de recherches de Compiègne, de Saint-Crépin-Ibouvillers
+Brigades de recherches de Compiègne et de Méru
 
 Maison de Protection des Familles de Beauvais |
 
@@ -300,7 +300,7 @@ Communauté de brigades d'Aigle |
 
 62-Pas-de-Calais |
 
-Communauté de brigades de Marconne et de Saint-Pol-sur-Ternoise |
+Communautés de brigades de Marconne et de Saint-Pol-sur-Ternoise |
 
 970 |
 
@@ -328,7 +328,7 @@ Peloton de surveillance et d'intervention de la gendarmerie de Strasbourg
 
 Maison de Protection des Familles de Strasbourg |
 
-1510 |
+1 510 |
 
 68-Haut-Rhin |
 
@@ -342,7 +342,7 @@ Brigade de recherches de Mulhouse
 
 Maison de Protection des Familles de Mulhouse |
 
-1650 |
+1 650 |
 
 69-Rhône |
 
@@ -354,7 +354,7 @@ Brigades de recherches de Mions, de Givors, de L ‘ Arbresle et de Lyon
 
 Maison de Protection des Familles de Lyon |
 
-2200 |
+2 200 |
 
 70-Haute-Saône |
 
@@ -376,7 +376,7 @@ Brigade motorisée de Cerans-Foulletourte
 
 Brigade de recherches de La Flèche
 
-Peloton de surveillance et d'intervention de la gendarmerie du Mans et de La Flèche
+Pelotons de surveillance et d'intervention de la gendarmerie du Mans et de La Flèche
 
 Maison de Protection des Familles de Coulaines
 
@@ -430,7 +430,7 @@ Brigade motorisée de Rambouillet
 
 Maison de Protection des Familles de Bois D'Arcy |
 
-1380 |
+1 380 |
 
 81-Tarn |
 
@@ -442,7 +442,7 @@ Communauté de brigades de Labruguière |
 
 Pelotons de surveillance et d'intervention de la gendarmerie d'Hyères et de La-Valette-du-Var
 
-Maison de Protection des Familles de la Valette du Var |
+Maison de Protection des Familles de La-Valette-du-Var |
 
 420 |
 
@@ -462,7 +462,7 @@ Brigades territoriales autonomes de Migennes et de Joigny
 
 Peloton de surveillance et d'intervention de la gendarmerie de Joigny |
 
-1060 |
+1 060 |
 
 95-Val-d'Oise |
 
@@ -470,13 +470,13 @@ Communauté de brigades d'Ecouen
 
 Brigades territoriales autonomes de Méry-sur-Oise et Domont
 
-Pelotons de surveillance et d'intervention de la gendarmerie de Domont
+Peloton de surveillance et d'intervention de la gendarmerie de Domont
 
 Brigade de recherches de Pontoise
 
 Maison de Protection des Familles de Pontoise |
 
-1030 |
+1 030 |
 
 971-Guadeloupe |
 
@@ -518,8 +518,8 @@ Section de recherches de Saint-Denis
 
 Maison de Protection des Familles de Saint-Denis |
 
-1900 |
+1 900 |
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 5 juillet 2022 (NOR : IOMJ2217811A), ces dispositions entrent en vigueur le premier jour du mois suivant la publication dudit arrêté.
+Conformément à l’article 3 de l’arrêté du 4 août 2023 (NOR : IOMJ2320120A), ces dispositions entrent en vigueur le premier jour du mois suivant sa parution, à savoir le 1er septembre 2023.
