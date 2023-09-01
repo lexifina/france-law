@@ -56,6 +56,8 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 
 -thérapie cellulaire/ transfusion
 
+-innovation et recherche en sciences biologiques et pharmaceutiques dont le contenu de la maquette est annexé à l'arrêté du 4 octobre 2019 portant organisation du troisième cycle long des études pharmaceutiques
+
 2. Phase socle
 
 2.1. Durée : 4 semestres
@@ -453,3 +455,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 -examen oral
 
 -présentation d'un mémoire écrit qui repose notamment sur l'écriture d'un article soumis dans une revue indexée à comité de lecture. Le mémoire porte sur une ou plusieurs pathologies pour lesquelles l'étudiant a eu une expérience pratique qui lui a permis de développer un travail de recherche clinico-biologique ou analytique.
+
+NOTA :
+
+Conformément au 2° de l'article 4 de l'arrêté du 29 avril 2022 (ESRS2212441A), ces dispositions s'appliquent en vue de l'ouverture de la formation spécialisée transversale Innovation et recherche en sciences biologiques et pharmaceutiques pour la rentrée universitaire 2023.
