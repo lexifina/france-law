@@ -1,6 +1,6 @@
 # Article Annexe II
 
-EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER SEPTEMBRE 2022
+EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER SEPTEMBRE 2023
 
 PREFECTURE DE PARIS |
 
@@ -10,17 +10,23 @@ Libellé |
 
 Catégorie |
 
-FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE
+|
+
+|
+
+FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
+
+|
 
 AU TITRE DES ACTIONS DE MODERNISATION |
 
 |
 
-Adjoint (e) au chef du service de la modernisation de l'Etat |
+Adjoint(e) au chef du service de la modernisation de l'Etat |
 
 A |
 
-Chargé (e) de la stratégie immobilière |
+Chargé(e) de la stratégie immobilière |
 
 A |
 
@@ -40,7 +46,7 @@ Chef du centre de services partagés régional (CSPR) |
 
 A |
 
-Adjoint au chef du centre de services partagés régional (CSPR) |
+Chef de section fonctionnement et immobilier régional |
 
 A |
 
@@ -160,9 +166,9 @@ FONCTION D'ACCUEIL EXTERNE OU INTERNE |
 
 |
 
-Chef de section sécurité |
+Chef du bureau des relations aux usagers |
 
-B |
+A |
 
 |
 
@@ -274,7 +280,7 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
-Chef du département exploitation (DIE) |
+Adjoint au secrétaire général (DIE) |
 
 A |
 
@@ -370,7 +376,7 @@ Chef de section dossiers signalés (SDSAN) |
 
 A |
 
-Adjoint au chef du pôle de l'instruction des demandes de titres de séjour |
+Adjoint au chef du pôle de l'instruction des demandes de séjour |
 
 A |
 
@@ -414,11 +420,11 @@ Chef de la division de la réception des usagers |
 
 A |
 
-Adjoint au chef du bureau de la lutte contre l'immigration irrégulière-chef de la division reconduites (DZAE) |
+Adjoint au chef du bureau de la lutte contre l'immigration irrégulière - chef de la division reconduites (DZAE) |
 
 A |
 
-Adjoint au chef du bureau de la lutte contre l'immigration irrégulière-chef de la division examens (DZAE) |
+Adjoint au chef du bureau de la lutte contre l'immigration irrégulière - chef de la division examens (DZAE) |
 
 A |
 
@@ -450,7 +456,7 @@ Adjoint au chef de la division examens (DZAE) |
 
 A |
 
-Préfigurateur-Chef de la section de l'analyse et de la coordination zonale (DZAE) |
+Préfigurateur - Chef de la section de l'analyse et de la coordination zonale (DZAE) |
 
 A |
 
@@ -472,4 +478,4 @@ A |
 
 NOTA :
 
-Conformément à l'article 1er de l'arrêté du 7 septembre 2023 (NOR : IOMA2322523A), ces dispositions entrent en vigueur à compter du 1er septembre 2022.
+Conformément à l'article 2 de l'arrêté du 7 septembre 2023 (NOR : IOMA2322523A), ces dispositions entrent en vigueur à compter du 1er septembre 2023.
