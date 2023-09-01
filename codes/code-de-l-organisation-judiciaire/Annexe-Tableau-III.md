@@ -106,7 +106,7 @@ Gironde |
 
 Bordeaux |
 
-Lormont, Bordeaux. |
+Bordeaux, Lesparre-Médoc, Lormont |
 
 Cour d'appel de Bourges |
 
@@ -534,4 +534,4 @@ Les Mureaux, Trappes. |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 20 avril 2022 (NOR : JUSB2211522A), ces dispositions entrent en vigueur le 1er mai 2022.
+Conformément à l'article 3 de l'arrêté du 11 août 2023 (NOR : JUSB2321197A), ces dispositions entrent en vigueur le 1er septembre 2023.
