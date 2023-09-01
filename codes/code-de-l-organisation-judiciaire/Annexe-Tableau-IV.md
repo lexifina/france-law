@@ -2002,97 +2002,75 @@ Cantons de Chatou, Houilles, La Celle-Saint-Cloud, Le Pecq, Le Vésinet, Maisons
 
 |
 
-Siège du tribunal de première instance
+SIEGE
+
+DU TRIBUNAL
+
+DE PREMIERE INSTANCE |
+
+SIEGE
+
+DE LA SECTION
+
+DETACHEE |
+
+RESSORT |
+
+Cour d'appel de Nouméa |
+
+Nouvelle-Calédonie |
+
+Nouméa |
 
 |
 
-Siège de la section détachée
+Nouvelle-Calédonie. |
 
 |
 
-Ressort
+Koné |
+
+Province Nord. |
 
 |
 
-Cour d'appel de Nouméa
+Lifou |
+
+Province des Îles Loyauté. |
+
+Wallis-et-Futuna |
+
+Mata-Utu |
+
+Territoire des îles Wallis et Futuna. |
+
+Cour d'appel de Papeete |
+
+Polynésie française |
+
+Papeete |
 
 |
 
-Nouvelle-Calédonie
+Collectivité d'outre-mer de la Polynésie française. |
 
 |
 
-Nouméa
+Uturoa |
+
+Îles Sous-le-Vent. |
 
 |
 
-|
+Nuku-Hiva |
 
-Nouvelle-Calédonie.
-
-|
-
-Koné
+Îles Marquises. |
 
 |
 
-Province Nord.
+Papeete |
 
-|
-
-Lifou
-
-|
-
-Province des Îles Loyauté.
-
-|
-
-Wallis-eft-Futuna
-
-|
-
-Mata-Utu
-
-|
-
-Territoire des îles Wallis et Futuna.
-
-|
-
-Cour d'appel de Papeete
-
-|
-
-Polynésie française
-
-|
-
-Papeete
-
-|
-
-|
-
-Collectivité d'outre-mer de la Polynésie française.
-
-|
-
-Uturoa
-
-|
-
-Îles Sous-le-Vent.
-
-|
-
-Nuku-Hiva
-
-|
-
-Îles Marquises.
-
-|
+Îles Tuamotu, Îles Gambier et Îles Australes. |
 
 Siège du tribunal de première instance
 
@@ -2119,3 +2097,9 @@ Saint-Pierre
 Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 |
+
+NOTA :
+
+Conformément au premier alinéa de l’article 3 du décret n° 2023-788 du 18 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+
+Se reporter aux modalités d’application prévues au second alinéa dudit article 3.
