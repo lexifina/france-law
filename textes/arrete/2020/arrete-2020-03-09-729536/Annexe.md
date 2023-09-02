@@ -1438,6 +1438,16 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
+DE JEPS, spécialité " perfectionnement sportif " mention " surf ", délivré jusqu'au 1er juin 2023. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
+
+Encadrement du longe-côte.
+
+Encadrement et animation du stand up paddle (SUP). |
+
+|
+
 C-5.-Diplôme d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
 
 INTITULÉ DU DIPLÔME |
@@ -1486,7 +1496,7 @@ Moniteur d'entraînement physique, militaire et sportif délivré jusqu'au 16 ju
 
 Animation auprès de tout public des activités physiques ou sportives à des fins d'initiation, de découverte, de loisir, de développement et de maintien des capacités physiques individuelles. |
 
-Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique . |
+Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. |
 
 D-2.-Titres à finalité professionnelle délivrés par la Fédération française d'équitation
 
@@ -1529,6 +1539,20 @@ Coach fitness dans l'eau, délivré jusqu'au 5 juillet 2022. |
 Encadrement de séances collectives d'animation en aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
 
 Sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
+
+D-4. - Titre à finalité professionnelle délivré par la Fédération française de football :
+
+INTITULÉ DU DIPLÔME |
+
+CONDITIONS D'EXERCICE |
+
+LIMITES DES CONDITIONS D'EXERCICE |
+
+Moniteur de football, délivré jusqu'au 19 mai 2023. |
+
+Conduite de cycles d'apprentissage et entraînement de la pratique du football. |
+
+|
 
 E.-Certificats de qualification délivrés par les branches professionnelles
 
@@ -1836,7 +1860,7 @@ Encadrement en autonomie de séances collectives et individuelles d'activités d
 
 Pour des publics de plus de 14 ans.
 
-Dans la limite de 12 pratiquants. " |
+Dans la limite de 12 pratiquants. |
 
 CQP technicien sportif de basket-ball délivré jusqu'au 25 juillet 2020 |
 
@@ -2191,3 +2215,61 @@ CQP "moniteur d'escrime, option sabre ", délivré du 14 octobre 2020 au 14 octo
 Encadrement des activités de l'escrime sportive au sabre par la découverte et l'initiation. |
 
 Dans la limite de 20 pratiquants. |
+
+CQP " assistant moniteur de char à voile ", jusqu'au 21 juillet 2023. |
+
+Initiation à la pratique du char à voile de loisirs dans le support certifié : char assis/allongé, char debout ou char tracté. |
+
+Sous l'autorité d'un titulaire d'un diplôme de niveau 4 ou supérieur dans la discipline du char à voile,
+
+Le nombre de titulaires du CQP " assistant moniteur char à voile " placés sous cette autorité, ne pouvant être supérieur à 3 ;
+
+Dans la limite de 8 chars ; Vent de force 6 beaufort maximum. |
+
+CQP " animateur de pelote basque ", du 30 mars 2020 au 30 mars 2023. |
+
+Encadrement des séances de découverte, d'animation et d'apprentissage en pelote basque. |
+
+|
+
+CQP " animateur bouliste ", option " pétanque ", jusqu'au 21 juillet 2023. |
+
+Encadrement des activités de pétanque. |
+
+|
+
+CQP " animateur bouliste ", option " sport-boules ", jusqu'au 21 juillet 2023. |
+
+Encadrement des activités de sport-boules. |
+
+|
+
+CQP " technicien sportif de rugby à XV ", jusqu'au 21 juillet 2023. |
+
+Encadrement de séances d'entraînement en rugby à XV |
+
+Pour des publics de plus de 15 ans. |
+
+CQP " animateur ski nautique, wakeboard et engins tractés ", jusqu'au 29 juin 2023. |
+
+Conduite de séances de découverte, d'animation et d'initiation en ski nautique, wakeboard, engins tractés dans le mode de traction " bateau ". |
+
+|
+
+CQP " moniteur de squash ", jusqu'au 21 juillet 2023. |
+
+Encadrement des activités de squash. |
+
+|
+
+CQP " animateur de tennis ", jusqu'au 21 juillet 2023. |
+
+Encadrement de séances de découverte du tennis en cours collectifs. Initiation au beach-tennis et au padel. |
+
+A l'exclusion de l'entraînement. |
+
+CQP animateur d'athlétisme, option " athlé loisirs ", délivré jusqu'au 21 juillet 2023. |
+
+Encadrement d'activités de découverte, d'initiation et d'entretien en athlétisme dont la marche nordique. |
+
+A l'exclusion des pratiques compétitives. |
