@@ -1,20 +1,22 @@
-# Article LEGIARTI000046889815
-
-ANNEXES
-
-ANNEXE 1
+# Article Annexe 1
 
 CRITÈRES D'IDENTIFICATION DES GROUPES DE COMPARAISON DES ÉTABLISSEMENTS DE SANTÉ
 
 Champ d'activité |
 
-Niveau
+Niveau de
 
-de rattachement
+rattachement
 
-de l'établissement au sein du groupe de comparaison |
+de l'établissement
 
-Intitulé du groupe de comparaison |
+au sein du groupe
+
+de comparaison |
+
+Intitulé du groupe
+
+de comparaison |
 
 Critère d'identification du groupe |
 
@@ -98,24 +100,24 @@ PSY - 1 |
 
 PSY - 2 |
 
-Établissements dont la file active est comprise entre 4 000 et 9 999 patients |
+Établissements dont la file active (****) est comprise entre 4 000 et 9 999 patients |
 
 PSY - 3 |
 
-Établissements sectorisés dont la file active est strictement inférieure à 4 000 patients |
+Établissements sectorisés dont la file active (****) est strictement inférieure à 4 000 patients |
 
 PSY - 4 |
 
-Établissements non-sectorisés dont la file active est strictement inférieure à 4 000 patients et réalisant des prises en charge à temps complet |
+Établissements non-sectorisés dont la file active (****) est strictement inférieure à 4 000 patients et réalisant au moins 1000 journées de présence à temps complet |
 
 PSY - 5 |
 
-Établissements non-sectorisés dont la file active est strictement inférieure à 4 000 patients et ne réalisant pas de prise en charge à temps complet |
+Établissements non-sectorisés dont la file active (****) est strictement inférieure à 4 000 patients et réalisant moins de 1000 journées de présence à temps complet |
 
 (*) Séjours MCO hors séances.
 
-(**) Les groupes d'activité sont des regroupements des racines de groupes homogènes de malades (GHM). Les racines de GHM sont définies par le Manuel des groupes homogènes de malades publié au Bulletin officiel du ministère des affaires sociales et de la santé, conformément à l'annexe I de l'arrêté du 23 décembre 2016 relatif au recueil et au traitement des données d'activité médicale et des données de facturation correspondantes, produites par les établissements de santé publics ou privés ayant une activité en médecine, chirurgie, obstétrique et odontologie, et à la transmission d'informations issues de ce traitement dans les conditions définies à l'article L. 6113-8 du code de la santé publique. La liste des groupes d'activité est publiée sur le site internet de l'Agence technique de l'information sur l'hospitalisation https://www.atih.sante.fr/mco/classification-medico-economique.
+(**) Les groupes d'activité sont des regroupements des racines de groupes homogènes de malades (GHM). Les racines de GHM sont définies par le manuel des groupes homogènes de malades publié au Bulletin officiel du ministère des affaires sociales et de la santé, conformément à l'annexe I de l'arrêté du 23 décembre 2016 relatif au recueil et au traitement des données d'activité médicale et des données de facturation correspondantes, produites par les établissements de santé publics ou privés ayant une activité en médecine, chirurgie, obstétrique et odontologie, et à la transmission d'informations issues de ce traitement dans les conditions définies à l'article L. 6113-8 du code de la santé publique. La liste des groupes d'activité est publiée sur le site internet de l'Agence technique de l'information sur l'hospitalisation https://www.atih.sante.fr/mco/classification-medico-economique.
 
-(***) Les groupes nosologiques sont définis par le Manuel des groupes microéconomiques en soins de suite et de réadaptation publié au Bulletin officiel du ministère des affaires sociales et de la santé, conformément à l'annexe I de l'arrêté du 23 décembre 2016 relatif au recueil et au traitement des données d'activité médicale des établissements de santé publics ou privés ayant une activité en soins de suite et de réadaptation et à la transmission d'informations issues de ce traitement, dans les conditions définies aux articles L. 6113-7 et L. 6113-8 du code de la santé publique.
+(***) Les groupes nosologiques sont définis par le manuel des groupes médicoéconomiques en soins de suite et de réadaptation publié au Bulletin officiel du ministère des affaires sociales et de la santé, conformément à l'annexe I de l'arrêté du 23 décembre 2016 relatif au recueil et au traitement des données d'activité médicale des établissements de santé publics ou privés ayant une activité en soins de suite et de réadaptation et à la transmission d'informations issues de ce traitement, dans les conditions définies aux articles L. 6113-7 et L. 6113-8 du code de la santé publique.
 
 (****) La file active correspond au nombre total de patients pris en charge en psychiatrie par l'établissement, quelle que soit la nature de prise en charge (temps complet, temps partiel, ambulatoire). Pour une année donnée, un patient est compté une fois quels que soient le nombre et la diversité des prises en charge réalisés par les structures de psychiatrie à temps complet, à temps partiel ou ambulatoires.
