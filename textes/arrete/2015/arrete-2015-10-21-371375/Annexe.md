@@ -1,6 +1,6 @@
 # Article Annexe
 
-Volumes horaires des enseignements applicables aux élèves des sections d'enseignement général et professionnel adapté
+VOLUMES HORAIRES DES ENSEIGNEMENTS APPLICABLES AUX ÉLÈVES DES SECTIONS D'ENSEIGNEMENT GÉNÉRAL ET PROFESSIONNEL ADAPTÉ
 
 HORAIRES HEBDOMADAIRES |
 
@@ -24,9 +24,7 @@ Education physique et sportive |
 
 3 h |
 
-Enseignements artistiques
-
-(arts plastiques + éducation musicale) |
+Enseignements artistiques (arts plastiques + éducation musicale) |
 
 2 h |
 
@@ -46,11 +44,7 @@ Français |
 
 4 h |
 
-Histoire - Géographie -
-
-Enseignement moral et civique
-
-|
+Histoire-Géographie-Enseignement moral et civique |
 
 3 h |
 
@@ -82,7 +76,7 @@ Mathématiques |
 
 Sciences et technologie |
 
-4 h |
+3 h |
 
 4 h 30 |
 
@@ -100,6 +94,16 @@ Découverte professionnelle |
 
 12 h |
 
+Soutien ou approfondissement |
+
+1 h |
+
+|
+
+|
+
+|
+
 Module d'aides spécifiques |
 
 |
@@ -110,14 +114,32 @@ Module d'aides spécifiques |
 
 |
 
-Total* |
+Total (*) |
 
-26 h, dont 3 heures d'enseignements complémentaires |
+26 h (**) |
 
-26 h, dont 4 heures d'enseignements complémentaires |
+26 h, dont 4 h
 
-28 h, dont 4 heures d'enseignements complémentaires |
+d'enseignements
 
-31 h 30, dont 4 heures d'enseignements complémentaires |
+complémentaires |
 
-* S'y ajoutent au moins 10 heures annuelles de vie de classe par niveau.
+28 h, dont 4 h
+
+d'enseignements
+
+complémentaires |
+
+31 h 30, dont 4 h
+
+d'enseignements
+
+complémentaires |
+
+(*) S'y ajoutent au moins 10 heures annuelles de vie de classe par niveau.
+
+(**) S'y ajoute l'accompagnement aux devoirs.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 7 avril 2023 (NOR : MENE2304092A), les dispositions suivantes entrent en vigueur à compter de la rentrée scolaire 2023.
