@@ -1,0 +1,9 @@
+# Réponse à la question n° 6674
+
+- Question : [6674](6674.md) — Question n° 6674 — Financement public apporté à Bernard-Henri Levy
+
+## Réponse
+
+*JO du 2023-09-05, page 7919*
+
+L'audiovisuel public assume un rôle majeur de soutien de la création audiovisuelle et cinématographique, auquel France Télévisions prend pleinement part. En 2022, il a initié 49,8 % du volume horaire total des programmes audiovisuels aidés par le Centre national du cinéma et de l'image animée, tous genres confondus, et représente 53 % des apports totaux des diffuseurs. France Télévisions a ainsi consacré 440,3 millions d'euros au financement de la création audiovisuelle et 60,1 millions d'euros à la création cinématographique, dont 101,3 millions d'euros pour la production de documentaires, parmi lesquels 13,6 millions d'euros consacrés aux documentaires régionaux et ultramarins. Le processus de sélection des œuvres soutenues par France Télévisions et ses filiales cinéma se fait dans le cadre d'une procédure formalisée et collégiale, qui implique plusieurs étapes de validation interne. Les projets sont étudiés par les conseillers de programmes de France Télévisions ou, s'agissant de projets proposés en coproductions, au sein des filiales cinéma, puis soumis à la direction du cinéma de France Télévisions. Enfin, l'engagement des films se fait après accord du comité d'investissement de la direction des antennes et des programmes. Le ministre de la culture n'intervient pas dans ce processus de sélection des projets. En effet, aux termes de la loi du 30 septembre 1986 modifiée relative à la liberté de communication, les chaînes publiques sont libres et seules responsables de leurs choix éditoriaux dans le cadre des missions qui leur sont imparties par le législateur, sous le contrôle de l'Autorité de régulation de la communication audiovisuelle et numérique. Ce principe fondamental garantit l'indépendance des sociétés de l'audiovisuel public vis à-vis du Gouvernement.
