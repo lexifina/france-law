@@ -1,0 +1,9 @@
+# Réponse à la question n° 3357
+
+- Question : [3357](3357.md) — Question n° 3357 — L'inadaptation du mode actuel de calcul du taux d'usure
+
+## Réponse
+
+*JO du 2023-09-05, page 7927*
+
+Le Gouvernement est très attentif, à l'accès au crédit des ménages français dans le contexte actuel de remontée rapide des taux d'intérêt. Pour rappel, le taux de l'usure a été établi pour protéger les consommateurs et certaines personnes morales contre une tarification abusive du crédit, en limitant les écarts à la hausse des taux d'intérêt possibles par rapport à la moyenne des taux constatés. Cette formule permet de contenir les taux d'intérêt pratiqués par les établissements bancaires dans une fourchette réduite, qui bénéficie ainsi à la majorité des emprunteurs. Le taux de l'usure est calculé à la fin de chaque trimestre pour le trimestre suivant par la Banque de France. Le Gouvernement continue à suivre de près ce sujet en lien avec la Banque de France, les réseaux bancaires et les courtiers immobiliers, afin d'examiner les mesures qui seraient nécessaires pour prévenir toute situation de blocage caractérisé du crédit à cause du seuil de l'usure. La hausse du taux d'usure plus significative au 3ème trimestre 2022 procède d'ailleurs d'ajustement apportées par la Banque de France dans ses modalités de collectes. Le contexte de variabilité des taux nécessite d'étendre les collectes de données au début des deuxième et troisième mois du trimestre. La déclaration des taux d'intérêt se fera à l'émission de l'offre de prêt afin d'avoir un repère plus en amont des inflexions tarifaires. Ainsi, le taux d'usure pour les crédits immobiliers à taux fixe de plus de 20 ans s'établit à 3,05 % contre 2,57 % au 1er juillet 2022 tandis que celui des crédits immobiliers à taux fixe de moins de 20 ans s'élève à 3,03 % contre 2,60 % en juillet 2022. Le prochain calcul des taux de l'usure interviendra au 1er janvier 2023.
