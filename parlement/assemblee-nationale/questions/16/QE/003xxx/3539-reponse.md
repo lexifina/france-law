@@ -1,0 +1,9 @@
+# Réponse à la question n° 3539
+
+- Question : [3539](3539.md) — Question n° 3539 — Réforme du DN Made
+
+## Réponse
+
+*JO du 2023-09-05, page 7939*
+
+Le diplôme national des métiers d'art et du design (DN MADE) a été créé par le décret n° 2018-367 du 18 mai 2018 et est dispensé en lycées publics ou privés sous contrat depuis la rentrée 2018 ; ce diplôme national de l'enseignement supérieur en 3 ans conférant le grade de licence s'est substitué à une offre peu lisible (MANAA+BTS). Les volumes horaires des enseignements en ateliers sont sensiblement les mêmes que pour les anciens BTS ou DMA d'après les projections faites au moment de la création du diplôme. Ces comparatifs avaient été réalisés à l'époque par le ministère au niveau national et la traduction pratique de ces heures dans les établissements a été étudiée par les rectorats et expertisée par l'inspection générale de l'éducation, du sport et de la recherche (IGESR). Le comité de suivi chargé d'étudier la mise en place du DN MADE s'est réuni de décembre 2020 à avril 2021. Ce comité de suivi était composé de professionnels du secteur, d'enseignants et de proviseurs. Une enquête sur la perception, par les équipes pédagogiques, des volumes horaires d'ateliers a été effectuée à cette occasion. La conclusion de cette enquête a mis en lumière une perception positive des équipes et a souligné la nécessité d'un projet pédagogique concerté avec un redéploiement du volume horaire. Concernant la question de l'articulation des filières « métiers d'art » et « design », le comité de suivi a mis en avant une relation complémentaire et non concurrentielle. Les conclusions de ce comité de suivi ont été traduites réglementairement au travers du décret n° 2022-1376 du 28 octobre 2022 et de l'arrêté du 28 octobre 2022, publiés au JO n° 0253 du 30 octobre 2022.
