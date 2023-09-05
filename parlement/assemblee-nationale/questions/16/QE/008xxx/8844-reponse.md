@@ -1,0 +1,9 @@
+# Réponse à la question n° 8844
+
+- Question : [8844](8844.md) — Question n° 8844 — Gestion des enfants placés par des agences intérimaires
+
+## Réponse
+
+*JO du 2023-09-05, page 7937*
+
+L'aide sociale à l'enfance est une compétence décentralisée qui relève exclusivement des conseils départementaux : ces derniers sont maîtres des moyens financiers et humains alloués et des ouvertures de places d'accueil et d'hébergement pour les enfants qui leurs sont confiés. Cependant, afin d'encourager les départements à mettre la protection de l'enfance au cœur de leurs préoccupations et de soutenir la création d'établissements répondant aux besoins fondamentaux de l'enfant, l'État a mis en place divers mécanismes d'aide. Tout d'abord, en ce qui concerne l'augmentation des moyens financiers, la contractualisation en protection de l'enfance permet à l'État d'appuyer les départements dans leurs actions à travers la mise en place de 29 objectifs. En 2023, 140 million d'euros seront délégués aux départements dans ce cadre. Certains objectifs visent directement la création de places (création de nouvelles places d'accueil en fratries), d'autres permettent d'encourager les alternatives au placement d'enfants lorsque celui-ci n'est pas adapté (diversification de l'offre en matière de protection de l'enfance à domicile et développement du recours aux tiers de confiance). L'État accompagne également les départements et promeut la protection de l'enfance à travers la diffusion d'outils de référence qui permettent la mise en avant des bonnes pratiques et la simplification des processus pour les conseils départementaux. À titre d'exemple, en mars dernier a été diffusé un cadre commun pour la rédaction des appels à projet pour les internats socio-éducatifs médicalisés pour adolescents dits en situations complexes afin d'encourager la création desdits établissements.
