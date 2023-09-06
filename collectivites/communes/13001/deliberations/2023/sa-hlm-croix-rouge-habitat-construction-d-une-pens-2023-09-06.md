@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SA HLM CROIX ROUGE HABITAT - CONSTRUCTION D'UNE PENSION DE FAMILLE DE 24 LOGEMENTS LOCATIFS SOCIAUX - EMPRUNT PLAI DE 2 796 408 EUROS SOUSCRIT AUPRÈS DE LA CAISSE DES DÉPÔTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE À HAUTEUR DE 50 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2023-09-06
+- Séance : Conseil Municipal 1CA
+- Objet : SA HLM CROIX ROUGE HABITAT - CONSTRUCTION D'UNE PENSION DE FAMILLE DE 24 LOGEMENTS LOCATIFS SOCIAUX - EMPRUNT PLAI DE 2 796 408 EUROS SOUSCRIT AUPRÈS DE LA CAISSE DES DÉPÔTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE À HAUTEUR DE 50 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-15691-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
