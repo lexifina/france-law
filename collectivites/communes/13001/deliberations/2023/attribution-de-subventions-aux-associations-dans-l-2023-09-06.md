@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ATTRIBUTION DE SUBVENTIONS AUX ASSOCIATIONS DANS LE CADRE DE LA VIE ÉTUDIANTE AVEC ADOPTION D'UNE CONVENTION POUR L' ASSOCIATION DE LA MAISON DES ADOLESCENTS ET ATTRIBUTION D'UNE SUBVENTION A UNIS-CITE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2023-09-06
+- Séance : Conseil Municipal 1CA
+- Objet : ATTRIBUTION DE SUBVENTIONS AUX ASSOCIATIONS DANS LE CADRE DE LA VIE ÉTUDIANTE AVEC ADOPTION D'UNE CONVENTION POUR L' ASSOCIATION DE LA MAISON DES ADOLESCENTS ET ATTRIBUTION D'UNE SUBVENTION A UNIS-CITE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-15922-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
