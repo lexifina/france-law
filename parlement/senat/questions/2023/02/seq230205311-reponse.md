@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230205311
+
+- Question : [SEQ230205311](seq230205311.md) — Statut des lieutenants de louveterie
+
+## Réponse
+
+*Biodiversité, JO du 2023-09-07, page 5271*
+
+La louveterie est une institution qui a traversé les époques et les organisations administratives. Répondant à un besoin de la puissance publique de réguler les animaux sauvages dans un but de protection des activités humaines, elle s'inscrit dans une longue histoire et une pratique connue dans les territoires. Elle conserve une spécificité forte du fait du statut des lieutenants de louveterie, personnes privées, commissionnées et assermentées, collaboratrices bénévoles de l'administration, et placées sous l'autorité du maire ou du préfet pour exercer une mission de service public : la destruction ou la régulation d'animaux d'espèces non domestiques. Aujourd'hui, la louveterie est particulièrement mobilisée dans les territoires notamment pour la défense des troupeaux menacés par la prédation du loup, son activité historique. En appui à la préparation du plan national d'actions sur le loup et les activités d'élevages, il semble important qu'une réflexion soit menée sur la contribution de la louveterie pour la défense des troupeaux. Cette réflexion s'inscrit dans un contexte d'évolution sensible de la pratique cynégétique dans les territoires, ruraux ou urbains et d'une politique volontariste de réduction des dégâts aux récoltes agricoles et aux troupeaux. Afin d'objectiver l'état des lieux de la louveterie en France et de porter des recommandations, une mission d'inspection a été confiée mi-mai 2023 à l'Inspection Générale de l'Environnement et du Développement Durable. Cette mission a notamment pour but de définir les moyens financiers à consacrer aux missions des louvetiers. La question des frais engagés par les lieutenants de louveterie dans l'exercice de leur fonction ainsi que les réponses possibles à leur prise en charge sera un point majeur de cette mission.
