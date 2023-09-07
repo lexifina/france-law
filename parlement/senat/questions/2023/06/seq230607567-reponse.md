@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607567
+
+- Question : [SEQ230607567](seq230607567.md) — Prise en compte de l'évolution des résidences principales dans la compensation de la suppression de la taxe d'habitation
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2023-09-07, page 5281*
+
+Dans les conditions prévues par l'article 16 de la loi de finances pour 2020, la suppression de la taxe d'habitation sur les résidences principales (THp) intervenue en 2021 s'est traduite pour les communes par une perte de ressources qui leur a été compensée à l'euro près par le transfert à leur profit de la part départementale de taxe foncière sur les propriétés bâties (TFPB) qui constitue une ressource pérenne et dynamique. Comme toujours en ce cas, la compensation est calculée en fonction d'une perte de référence représentative de la ressource perdue. Celle-ci est essentiellement constituée de la taxe d'habitation sur les locaux meublés affectés à l'habitation principale résultant du produit de la base d'imposition 2020, majorée des bases d'imposition issues des rôles supplémentaires émis au titre de 2020 jusqu'au 15 novembre 2021, par le taux de taxe d'habitation appliqué sur le territoire considéré en 2017. Ce dispositif de compensation est entré en vigueur à partir de 2021, année où la THp a cessé d'être une ressource de fiscalité locale. Le principe de compensation d'une perte de référence vise précisément à éviter d'actualiser une perte compensable - en plus comme en moins - au titre d'une taxe qui n'existe plus. Le transfert aux communes de la part départementale de taxe foncière assure, quant à elle, une contrepartie à la suppression de la taxe d'habitation. La construction de nouveaux locaux participe à l'augmentation des bases à partir desquelles est calculée la taxe foncière et contribue ainsi à la dynamique de cette ressource de substitution.
