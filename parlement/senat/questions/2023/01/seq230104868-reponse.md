@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230104868
+
+- Question : [SEQ230104868](seq230104868.md) — Situation de la maison départementale des personnes handicapées de la Vienne
+
+## Réponse
+
+*Personnes handicapées, JO du 2023-09-07, page 5295*
+
+En 2022, la maison départementale des personnes handicapées (MDPH) de la Vienne a perçu 1,15 Meuros de financements nationaux, au titre de son fonctionnement, répartis de la manière suivante : 465 738 euros au titre de la subvention de l'Etat contribution de l'Etat en tant que membre du Groupement d'intérêt public MDPH 86 et qui est assise sur une base historique, auxquels s'ajoutent 687 838 euros de concours au titre du fonctionnement ou de l'installation des MDPH versé par la Caisse nationale de solidarité pour l'autonomie (CNSA) dont le montant est déterminé sur la base de critères objectifs tels que la population du département et l'activité des MDPH (nombre de bénéficiaires de la prestation de compensation du handicap, nombre de bénéficiaires de l'allocation d'éducation de l'enfant handicapé et nombre de décisions relatives à l'orientation des personnes handicapées vers les établissements ou services médico-sociaux). Entre 2020 et 2022, la MDPH 86 a bénéficié d'une augmentation significative de son financement national de plus de 9 % (soit + 99 000 euros). Selon le baromètre des MDPH mis à disposition par la CNSA, au 4ième trimestre 2022, la MDPH 86 présentait un délai moyen de traitement des demandes de 3,9 mois, soit un délai inférieur, d'une part au délai légal de traitement des demandes déposées auprès des MDPH fixé à 4 mois et d'autre part à la moyenne nationale constatée sur cette même période. Cette situation maîtrisée ne semble pas justifier un appui complémentaire de la part de la CNSA au titre de l'appui opérationnel aux MDPH en difficulté.
