@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230406455
+
+- Question : [SEQ230406455](seq230406455.md) — Modalités de port de l'écharpe tricolore par les maires délégués de communes associées
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2023-09-07, page 5293*
+
+Le port d'insignes par les élus municipaux est réglementé par les dispositions des articles D. 2122-4 à D. 2122-6 du Code général des collectivités territoriales (CGCT). Ainsi, les maires portent l'écharpe tricolore avec glands à franges d'or dans les cérémonies publiques et toutes les fois que l'exercice de leurs fonctions peut rendre nécessaire ce signe distinctif de leur autorité (ex : mariages, commémorations, …). Le port de l'écharpe tricolore avec glands à franges d'argent est quant à lui réservé, d'une part aux adjoints dans leurs fonctions d'officier d'état civil et d'officier de police judiciaire et lorsqu'ils représentent le maire ou le remplacent en application des articles L. 2122-17 et L. 2122-18 du CGCT et, d'autre part, aux conseillers municipaux lorsqu'ils remplacent le maire en application de l'article L. 2122-17 du CGCT ou lorsqu'ils sont conduits à célébrer des mariages par délégation du maire dans les conditions fixées par l'article L. 2122-18 du CGCT. Depuis l'entrée en vigueur de la loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales, aucune commune associée ne peut être instituée et les communes associées existantes à la date de la publication de la loi continuent de se voir appliquer les dispositions anciennement en vigueur. L'article L. 2113-15 du CGCT, dans sa version en vigueur antérieure au 16 décembre 2010 prévoit que : « Le maire délégué remplit dans la commune associée les fonctions d'officier d'état civil et d'officier de police judiciaire. » La célébration d'un mariage constituant une occasion justifiant le port de l'écharpe tricolore, un maire délégué d'une commune associée doit donc porter l'écharpe tricolore avec glands à frange d'argent.
