@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607475
+
+- Question : [SEQ230607475](seq230607475.md) — Projets de parcs éoliens citoyens
+
+## Réponse
+
+*Transition énergétique, JO du 2023-09-07, page 5298*
+
+Les parcs éoliens terrestres comprenant uniquement des mâts de hauteur comprise entre 12 et 50 mètres, et d'une puissance totale installée inférieure à 20 MW, sont des installations classées pour la protection de l'environnement relevant du régime de la déclaration. Ces installations sont soumises au respect des dispositions de l'arrêté du 26 août 2011 relatif aux installations de production d'électricité utilisant l'énergie mécanique du vent au sein d'une installation soumise à déclaration au titre de la rubrique 2980 de la législation des installations classées pour la protection de l'environnement. Le point 2.I de l'annexe I de cet arrêté précise que l'implantation d'un parc éolien est soumise au respect d'une distance minimale d'éloignement de 300 mètres de toute installation classée pour la protection de l'environnement, a fortiori d'un autre parc éolien, à l'instar des parcs soumis à autorisation. Pour les parcs soumis à autorisation, l'implantation d'un parc dans la zone dite d'éloignement d'un radar Météo France est effectivement soumise au respect de certains critères que l'exploitant doit justifier dans une étude spécifique, dite « étude des impacts cumulés », réalisée selon une méthodologie reconnue, et fournie à l'appui de la demande d'autorisation. Pour les parcs soumis à déclaration, l'arrêté applicable fixe également des dispositions relatives à l'implantation d'un parc à proximité d'un radar météo. Ainsi, le point 2.2 de l'annexe I de cet arrêté précise que l'implantation d'un parc éolien dans la zone dite d'éloignement d'un radar météo bande C, nécessite que l'exploitant dispose d'un accord écrit de Météo France, accord que Météo France donnera en fonction des impacts potentiels du projet de parc éolien sur le radar.
