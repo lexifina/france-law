@@ -1,6 +1,6 @@
 # Article 155 bis A
 
-Les tarifs de la taxe minière sur l'or en Guyane applicables en 2022 sont fixés comme suit :
+Les tarifs de la taxe minière sur l'or en Guyane applicables en 2023 sont fixés comme suit :
 
 CATÉGORIES D'ENTREPRISES
 
@@ -18,12 +18,12 @@ Petites et moyennes entreprises
 
 |
 
-488,97 |
+549,88 |
 
 Autres entreprises
 
 |
 
-977,95 |
+1 099,77 |
 
 Ces tarifs ne comprennent pas les frais d'assiette et de recouvrement, de dégrèvement et de non-valeurs perçus au profit de l'Etat en application des articles 1641 et 1644 du code général des impôts.
