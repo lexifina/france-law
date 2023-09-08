@@ -1,0 +1,109 @@
+# Article 1er
+
+L'article 2 de l'avenant du 7 avril 2023 relatif aux rémunérations annuelles garanties et aux rémunérations minimales hiérarchiques est ainsi rédigé :
+
+« Prenant en compte l'évolution du Smic au cours de l'année 2023, les parties signataires sont convenues d'apporter des modifications aux montants des rémunérations annuelles garanties.
+
+a) Définition et montant
+
+En application de l'accord national du 13 juillet 1983 sur l'application des rémunérations minimales hiérarchiques, le présent avenant institue une garantie annuelle de rémunération effective pour chacun des coefficients hiérarchiques tels qu'ils sont prévus par l'accord national métallurgie du 21 juillet 1975 modifié.
+
+Ces garanties annuelles de rémunération effective sont applicables à l'ensemble des catégories de personnel visées à l'article 31 de l'avenant “ Mensuels ” à l'exception des catégories de salariés pour lesquels un abattement de salaire légal ou conventionnel est prévu. Pour ces salariés, la garantie annuelle sera calculée selon ces dits abattements.
+
+Barème de garantie annuelle de rémunération effective :
+
+Coef. 140 |
+
+20 915 € |
+
+Coef. 145 |
+
+20 951 € |
+
+Coef. 155 |
+
+20 961 € |
+
+Coef. 170 |
+
+21 022 € |
+
+Coef. 180 |
+
+21 134 € |
+
+Coef. 190 |
+
+21 287 € |
+
+Coef. 215 |
+
+21 675 € |
+
+Coef. 225 |
+
+22 185 € |
+
+Coef. 240 |
+
+22 970 € |
+
+Coef. 255 |
+
+23 786 € |
+
+Coef. 270 |
+
+24 704 € |
+
+Coef. 285 |
+
+25 877 € |
+
+Coef. 305 |
+
+27 499 € |
+
+Coef. 335 |
+
+29 917 € |
+
+Coef. 365 |
+
+32 701 € |
+
+Coef. 395 |
+
+36 108 € |
+
+Ces valeurs sont données pour un horaire hebdomadaire de 35 heures de travail effectif et se rapportent à la période courant du 1er janvier au 31 décembre.
+
+Les valeurs de ce barème doivent être adaptées proportionnellement à l'horaire de travail effectif auquel est soumis le salarié.
+
+En cas d'horaire supérieur à l'horaire légal, ces valeurs sont adaptées à l'horaire de travail et supportent de ce fait les majorations pour heures supplémentaires.
+
+En cas d'horaire inférieur, les valeurs, base 35 heures sont réduites à due concurrence.
+
+En outre, si un salarié intègre ou quitte son entreprise en cours d'année, le montant de la garantie annuelle de rémunération s'applique pro rata temporis.
+
+En cas de départ en cours d'année, le complément de rémunération éventuellement dû au salarié en application du présent article lui est versé lors de son départ effectif.
+
+b) Détermination de la RAG
+
+Pour la détermination de la RAG, il sera tenu compte de tous les éléments de rémunération à l'exception :
+
+– des majorations, pour travail de nuit, travail du dimanche et du jour férié, prévues par l'avenant mensuels de la convention collective ;
+
+– des majorations pour travaux pénibles, dangereux, insalubres, découlant à ce titre des dispositions de l'article 11 de l'avenant mensuels de la convention collective ;
+
+– des sommes versées au titre de la législation sur l'intéressement et la participation ;
+
+– de la prime d'ancienneté ;
+
+– des primes et gratifications ayant un caractère exceptionnel et bénévole ;
+
+– des sommes qui, constituant un remboursement de frais, ne supportent pas de cotisations sociales ;
+
+– de la rémunération des heures supplémentaires.
+
+Si les éléments de rémunération à prendre en considération aboutissent à un résultat inférieur au montant de la garantie annuelle de rémunération fixée en fonction de sa catégorie et de son coefficient, le salarié recevra un complément égal à la différence entre la rémunération perçue et la garantie annuelle de rémunération telle que définie ci-dessus. »
