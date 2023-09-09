@@ -1,0 +1,25 @@
+# Article 1er
+
+L'article 3 de l'accord cadres de direction du 3 mars 1993 est modifié comme suit :
+
+« Article 3
+
+Contrat de travail
+
+L'engagement dans des fonctions de cadre de direction, ou l'accès, par la promotion interne, à de telles fonctions, fait l'objet d'un écrit.
+
+Cet écrit mentionne au moins :
+
+– la nature des fonctions confiées au moment de l'engagement ou de la promotion, ce qui ne peut constituer un obstacle à d'autres affectations ultérieures ;
+
+– la désignation (appellation) de la fonction ;
+
+– la durée de la période d'essai qui est de 4 mois au plus peut être renouvelée, par accord exprès conclu entre l'employeur et le salarié, une fois, pour une durée au plus égale à 4 mois ; pendant cette période, les deux parties sont libres de rompre à tout moment le contrat de travail sous réserve du respect du délai de prévenance prévu par le code du travail ;
+
+– le champ géographique où la fonction est ou sera susceptible d'être exercée ;
+
+– les montants, composantes et modalités de la rémunération.
+
+En outre, la référence au présent accord doit y figurer.
+
+Les entreprises prendront, avant le 31 décembre 2023, les mesures nécessaires pour mettre en harmonie avec les dispositions du présent paragraphe 3 la situation des cadres de direction en fonction à la date d'effet du présent accord, selon toute modalité à leur convenance. »
