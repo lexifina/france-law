@@ -1,81 +1,191 @@
 # Article Annexe IV
 
-EXIGENCES PRÉALABLES À L’ENTRÉE EN FORMATION
+TABLEAU RÉCAPITULATIF DES DISPENSES DES EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION (EPEF) ET DES EXIGENCES PRÉALABLES À LA MISE EN SITUATION PROFESSIONNELLE (EPMSP) AINSI QUE DES ÉQUIVALENCES D'UNITÉS CAPITALISABLES (UC) AVEC LE BREVET PROFESSIONNEL DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT, SPÉCIALITÉ “ ÉDUCATEUR SPORTIF ”, MENTION “ ACTIVITÉS DE PLONGÉE SUBAQUATIQUE ”
 
-Les exigences préalables ont pour but de vérifier les compétences du candidat à suivre le cursus de formation lui permettant d’accéder à la mention "plongée subaquatique" du brevet professionnel de la jeunesse, de l’éducation populaire et du sport (BPJEPS) spécialité "éducateur sportif".
+|
 
-Les exigences préalables à l’entrée en formation du BP JEPS spécialité "éducateur sportif" mention "plongée subaquatique" sont les suivantes.
+(*) TEP visés à l'article 5 |
 
-Le/la candidat(e) doit :
+(*) EPMSP visées à l'article 6 |
 
-1. Présenter :
+UC1 (*) |
 
-– l’attestation de premiers secours en équipe de niveau 1 (PSE1) ou son équivalent à jour de la formation continue ;
+UC2
 
-– le permis de conduire des bateaux de plaisance en eaux maritimes, option côtière ou son équivalent ;
+(*) |
 
-– un certificat médical de non-contre-indication à la pratique et à l’enseignement de la plongée subaquatique avec ou sans scaphandre en fonction de l’option choisie datant de moins de trois mois.
+UC3 (*) |
 
-2. Justifier pour l’option A : en scaphandre :
+UC4 A (*) |
 
-– d’un niveau technique d’aptitude PA-40 au sens de l’annexe lll-14 a du code du sport ;
+UC4 B (*) |
 
-– de 60 plongées au minimum en milieu naturel dont 15 au-delà de 30 mètres dans les 3 dernières années attestées au moyen du carnet de plongée.
+Le plongeur titulaire d'un niveau 3 (P3) ou de niveau supérieur au sens de l'annexe III-14b du code du sport et justifiant de 60 plongées au minimum en milieu naturel dont 15 au-delà de 30 m dans les 3 dernières années attestées au moyen du carnet de plongée. |
 
-Le nombre de plongées est attesté par le directeur technique national de la Fédération française d’études et de sports sous-marins.
+X
 
-3. Produire pour l’option B : sans scaphandre, une qualification attestant d’une compétence à initier, enseigner ou entraîner une activité de plongée subaquatique "sans scaphandre" (hors randonnée subaquatique).
+(option A) |
 
-4. Produire l’attestation de réussite au test technique suivant :
+|
 
-Test technique préalable à l’entrée en formation pour l’option A : en scaphandre
+|
 
-Il vise à mettre en évidence les expériences, capacités et connaissances suivantes :
+|
 
-– capacités techniques et physiques ;
+|
 
-– maîtrise des connaissances nécessaires à la pratique de la plongée subaquatique.
+|
 
-Il est composé des épreuves suivantes réalisées en milieu naturel :
+|
 
-1. Effectuer une plongée en apnée jusqu’à 10 mètres de profondeur ;
+MF1 ou MF2 (FFESSM ou FSGT) + nitrox confirmé + PSE1 à jour de la formation continue |
 
-2. Effectuer une assistance de moins 20 mètres de profondeur à l’aide de tout matériel approprié ;
+x
 
-3. Effectuer une immersion en palanquée à moins 40 mètres de profondeur, avoir un comporte- ment et une communication adaptés aux situations rencontrées, effectuer un retour en surface ;
+(option A) |
 
-4. Faire preuve, dans le cadre d’un échange en langue française, de ses connaissances relatives aux symptômes, à la prévention et à la conduite à tenir en cas d’accident liés à la pratique de la plongée en scaphandre et de ses connaissances relatives à la gestion de l’air, la planification des plongées, l’usage d’un ordinateur de plongée et des tables de plongée en vigueur.
+X
 
-Ce test est mis en œuvre par l’organisme de formation en lien avec la direction de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par la direction de la jeunesse, des sports et de la cohésion sociale (DJSCS). Sa réussite est attestée par le directeur régional de la jeunesse, des sports et de la cohésion sociale ou par le directeur de la jeunesse, des sports et de la cohésion sociale.
+(option A) |
 
-Test technique préalable à l’entrée en formation pour l’option B : sans scaphandre
+|
 
-Il vise à mettre en évidence les expériences, capacités et connaissances suivantes :
+X |
 
-– capacités techniques et physiques ;
+X |
 
-– maîtrise des connaissances nécessaires à la pratique de la plongée subaquatique.
+X |
 
-Il est composé des épreuves suivantes réalisées en milieu naturel :
+|
 
-1. Effectuer une plongée en apnée jusqu’à 15 mètres de profondeur en poids constant en effectuant un déplacement au fond d’au moins 10 mètres ;
+Initiateur FFESSM E-2 + Plongeur GP-N4 + PA60 + permis bateau (***) + nitrox confirmé + PSE1 à jour de la formation continue |
 
-2. Parcourir une distance de 800 mètres en nage avec palmes, masque et tuba en moins de 13 minutes pour les hommes, 14 minutes pour les femmes ;
+x
 
-3. Test de gestion d’une situation d’urgence avec un mannequin normalisé en plongée libre. Elle consiste pour le/la candidat(e) équipé(e) de palmes, masque et tuba :
+(option A) |
 
-– à réaliser sur parcours balisé une nage de 200 mètres ;
+X
 
-– à descendre à une profondeur de 10 mètres ;
+(option A) |
 
-– à remonter un mannequin normalisé, puis le remorquer en sécurité les voies respiratoires hors de l’eau, sur une distance de 100 mètres.
+|
 
-La durée maximale de cette épreuve est de 8 minutes.
+|
 
-4. Faire preuve, dans le cadre d’un échange en langue française, de ses connaissances relatives aux symptômes, à la prévention et à la conduite à tenir en cas d’accident liés aux activités de plongée subaquatique sans scaphandre, ainsi que sur les règles de sécurité.
+X |
 
-Ce test est mis en œuvre par l’organisme de formation en lien avec la direction de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par la direction de la jeunesse, des sports et de la cohésion sociale (DJSCS). Sa réussite est attestée par le directeur régional de la jeunesse, des sports et de la cohésion sociale ou par le directeur de la jeunesse, des sports et de la cohésion sociale.
+X |
 
-Dispense des tests techniques à l’entrée en formation
+|
 
-Les qualifications permettant au candidat d’être dispensé des tests techniques à l’entrée en formation sont mentionnées en annexe VI "Dispenses et équivalences".
+Aspirant FSGT (*) (**) + Plongeur GP-N4 + PA60 + permis bateau (***) + nitrox confirmé + PSE1 à jour de la formation continue |
+
+X
+
+(option A) |
+
+X
+
+(option A) |
+
+|
+
+|
+
+X |
+
+X |
+
+|
+
+Plongeur GP-N4 + permis bateau (***) + nitrox confirmé + PSE1 à jour de la formation continue |
+
+X (option A) |
+
+|
+
+|
+
+|
+
+X |
+
+|
+
+|
+
+BEES (*) 1er degré en plongée + nitrox confirmé |
+
+|
+
+|
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+BPJEPS (*) spécialité " plongée subaquatique " |
+
+|
+
+|
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+MEF1 ou MEF2 de la FFESSM (*) ou EA3 et EA4 de la FSGT (*) (**) + juge fédéral de niveau 1 |
+
+X
+
+(option B) |
+
+X
+
+(option B) |
+
+|
+
+X |
+
+|
+
+|
+
+X |
+
+EPEF (*) : exigences préalables à l'entrée en formation.
+
+TEP (*) : test d'exigences préalables.
+
+EPMSP (*) : exigences préalables à la mise en situation professionnelle.
+
+UC (*) : unité capitalisable.
+
+BEES (*) : brevet d'état d'éducateur sportif.
+
+BPJEPS (*) : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
+
+FFESSM (*) : Fédération française d'études et de sports sous-marins.
+
+FSGT (*) : Fédération sportive et gymnique du travail.
+
+(**) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des brevets de même niveau de la fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires.
+
+(***) Permis de conduire des bateaux de plaisance en eaux maritimes, option côtière ou son équivalent.
+
+NOTA :
+
+Conformément à l'article 12 de l'arrêté du 31 juillet 2023 (NOR : SPOV2321633A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er novembre 2023.

@@ -1,333 +1,51 @@
 # Article Annexe II
 
-RÉFÉRENTIEL DE CERTIFICATION
+MODALITÉS DE RÉALISATION DES TESTS D'EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION
 
-UNITÉ CAPITALISABLE 1
+Test d'exigences préalables à l'entrée en formation pour l'option A “ en scaphandre ”
 
-UC1 : ENCADRER TOUT PUBLIC DANS TOUT LIEU ET TOUTE STRUCTURE
+Il vise à mettre en évidence les expériences, capacités et connaissances suivantes :
 
-|
+-capacités techniques et physiques ;
 
-OI 1-1
+-maîtrise des connaissances nécessaires à la pratique de la plongée subaquatique.
 
-1-1-1
+Il est composé des épreuves suivantes réalisées en milieu naturel :
 
-1-1-2
+1. Effectuer une plongée en apnée jusqu'à 10 mètres de profondeur ;
 
-1-1-3
+2. Effectuer une assistance de moins 20 mètres de profondeur à l'aide de tout matériel approprié ;
 
-|
+3. Effectuer une immersion en palanquée à moins 40 mètres de profondeur, avoir un comportement et une communication adaptés aux situations rencontrées, effectuer un retour en surface ;
 
-Communiquer dans les situations de la vie professionnelle
+4. Faire preuve, dans le cadre d'un échange en langue française, de connaissances relatives aux symptômes, à la prévention et à la conduite à tenir en cas d'accident liés à la pratique de la plongée en scaphandre et de connaissances relatives à la gestion de l'air, la planification des plongées, l'usage d'un ordinateur de plongée et des tables de plongée en vigueur.
 
-Adapter sa communication aux différents publics
+Test d'exigences préalables à l'entrée en formation pour l'option B “ sans scaphandre ”
 
-Produire des écrits professionnels
+Il vise à mettre en évidence les expériences, capacités et connaissances suivantes :
 
-Promouvoir les projets et actions de la structure
+-capacités techniques et physiques ;
 
-|
+-maîtrise des connaissances nécessaires à la pratique de la plongée subaquatique sans scaphandre.
 
-OI 1-2
+Il est composé des épreuves suivantes réalisées en milieu naturel :
 
-1-2-1
+1. Effectuer une plongée en apnée jusqu'à 15 mètres de profondeur en poids constant en effectuant un déplacement au fond d'au moins 10 mètres ;
 
-1-2-2
+2. Parcourir une distance de 800 mètres en nage avec palmes, masque et tuba en moins de treize minutes pour les hommes, 14 minutes pour les femmes ;
 
-1-2-3
+3. Test de gestion d'une situation d'urgence avec un mannequin normalisé en plongée libre. Elle consiste pour le candidat équipé de palmes, masque et tuba :
 
-|
+-à réaliser sur parcours balisé une nage de 200 mètres ;
 
-Prendre en compte les caractéristiques des publics dans leurs environnements dans une démarche d’éducation à la citoyenneté
+-à descendre à une profondeur de 10 mètres ;
 
-Repérer les attentes et les besoins des différents publics
+-à remonter un mannequin normalisé, puis le remorquer en sécurité les voies respiratoires hors de l'eau, sur une distance de 100 mètres.
 
-Choisir les démarches adaptées en fonction des publics
+La durée maximale de cette épreuve est de 8 minutes.
 
-Garantir l’intégrité physique et morale des publics
+4. Faire preuve, dans le cadre d'un échange en langue française, de connaissances relatives aux symptômes, à la prévention et à la conduite à tenir en cas d'accident liés aux activités de plongée subaquatique sans scaphandre, ainsi que sur les règles de sécurité.
 
-|
+NOTA :
 
-OI 1-3
-
-1-3-1
-
-1-3-2
-
-1-3-3
-
-|
-
-Contribuer au fonctionnement d’une structure
-
-Se situer dans la structure
-
-Situer la structure dans les différents types d’environnement
-
-Participer à la vie de la structure
-
-|
-
-UNITÉ CAPITALISABLE 2
-
-UC2 : METTRE EN ŒUVRE UN PROJET D’ANIMATION S’INSCRIVANT DANS LE PROJET DE LA STRUCTURE
-
-|
-
-OI 2-1
-
-2-1-1
-
-2-1-2
-
-2-1-3
-
-|
-
-Concevoir un projet d’animation
-
-Situer son projet d’animation dans son environnement, en fonction du projet de la structure, de ses ressources et du public accueilli
-
-Définir les objectifs et les modalités d’évaluation
-
-Identifier les moyens nécessaires à la réalisation du projet
-
-|
-
-OI 2-2
-
-2-2-1
-
-2-2-2
-
-2-2-3
-
-|
-
-Conduire un projet d’animation
-
-Planifier les étapes de réalisation
-
-Animer une équipe dans le cadre du projet
-
-Procéder aux régulations nécessaires
-
-|
-
-OI 2-3
-
-2-3-1
-
-2-3-2
-
-2-3-3
-
-|
-
-Évaluer un projet d’animation
-
-Utiliser les outils d’évaluation adaptés
-
-Produire un bilan
-
-Identifier des perspectives d’évolution
-
-|
-
-UNITÉ CAPITALISABLE 3
-
-UC3 : CONDUIRE UNE SÉANCE, UN CYCLE D’ANIMATION OU D’APPRENTISSAGE DANS LE CHAMP DE LA PLONGÉE SUBAQUATIQUE
-
-|
-
-OI 3-1
-
-3-1-1
-
-3-1-2
-
-3-1-3
-
-|
-
-Concevoir la séance, le cycle d’animation ou d’apprentissage
-
-Fixer les objectifs de la séance ou du cycle, et les modalités d’organisation
-
-Prendre en compte les caractéristiques du public dans la préparation de la séance ou du cycle
-
-Organiser la séance ou le cycle en milieu naturel, artificiel et en tout lieu de baignade utilisé pour les activités subaquatiques
-
-|
-
-OI 3-2
-
-3-2-1
-
-3-2-2
-
-3-2-3
-
-|
-
-Conduire la séance, le cycle d’animation ou d’apprentissage
-
-Programmer une séance ou un cycle en fonction des objectifs d’animation et d’apprentissage
-
-Mettre en œuvre une démarche pédagogique adaptée aux objectifs de la séance ou du cycle, notamment à partir d’un navire support de plongée
-
-Adapter son action pédagogique à la "randonnée subaquatique" et à l’initiation à l’apnée
-
-|
-
-OI 3-3
-
-3-3-1
-
-3-3-2
-
-3-3-3
-
-|
-
-Évaluer la séance, le cycle d’animation ou d’apprentissage
-
-Construire et utiliser des outils d’évaluation adaptés
-
-Évaluer son action
-
-Évaluer la progression des pratiquants
-
-|
-
-UNITÉ CAPITALISABLE 4 - A
-
-UC 4 - A : MOBILISER LES TECHNIQUES DE LA MENTION PLONGÉE SUBAQUATIQUE POUR METTRE EN ŒUVRE UNE SÉANCE OU UN CYCLE D’APPRENTISSAGE DANS L’OPTION PLONGÉE SUBAQUATIQUE EN SCAPHANDRE
-
-|
-
-OI 4-1
-
-4-1-1
-
-4-1-2
-
-4-1-3
-
-|
-
-Conduire une séance ou un cycle en utilisant les techniques de la plongée subaquatique en scaphandre
-
-Maîtriser la théorie, les techniques et les conduites professionnelles inhérentes à la sécurité hyperbare
-
-Utiliser les gestes techniques appropriés et les conduites professionnelles dans un objectif d’encadrement en exploration, dans l’espace de 0 à 40 m, à l’air ou au nitrox, en circuit ouvert en milieu naturel
-
-Utiliser les gestes techniques appropriés et les conduites professionnelles dans un objectif d’apprentissage dans l’espace de 0 à 20 m, à l’air ou au nitrox, en circuit ouvert
-
-|
-
-OI 4-2
-
-4-2-1
-
-4-2-2
-
-4-2-3
-
-|
-
-Maîtriser et faire appliquer les règlements de la mention de la plongée subaquatique en scaphandre
-
-Maîtriser et mobiliser les règlements techniques et usages de la plongée subaquatique en scaphandre
-
-Sensibiliser à l’éthique sportive et aux conduites à risque
-
-Sensibiliser au respect des écosystèmes
-
-|
-
-OI 4-3
-
-4-3-1
-
-4-3-2
-
-4-3-3
-
-|
-
-Garantir des conditions de pratique en sécurité
-
-Maîtriser les stratégies d’assistance à un plongeur en difficulté
-
-Participer à l’organisation de la sécurité sur la zone de pratique ou d’évolution
-
-Utiliser des équipements de protection individuelle (EPI) adaptés au public et conformes aux règles de sécurité
-
-|
-
-UNITÉ CAPITALISABLE 4 - B
-
-UC 4 - B : MOBILISER LES TECHNIQUES DE LA MENTION PLONGÉE SUBAQUATIQUE POUR METTRE EN ŒUVRE UNE SÉANCE OU UN CYCLE D’APPRENTISSAGE DANS L’OPTION PLONGÉE SUBAQUATIQUE SANS SCAPHANDRE
-
-|
-
-OI 4-1
-
-4-1-1
-
-4-1-2
-
-4-1-3
-
-|
-
-Conduire une séance ou un cycle en utilisant les techniques de la plongée subaquatique sans scaphandre
-
-Maîtriser la théorie, les techniques et les conduites professionnelles inhérentes à la sécurité hyperbare
-
-Utiliser les techniques et méthodes appropriées dans un objectif d’enseignement dans sa spécialité de plongée sans scaphandre Utiliser les techniques et méthodes appropriées dans un objectif de pratique compétitive dans sa spécialité de plongée sans
-
-scaphandre
-
-|
-
-OI 4-2
-
-4-2-1
-
-4-2-2
-
-4-2-3
-
-|
-
-Maîtriser et faire appliquer les règlements de la mention de la plongée subaquatique sans scaphandre
-
-Maîtriser et mobiliser les règlements et usages de la plongée subaquatique sans scaphandre
-
-Sensibiliser à l’éthique sportive et aux conduites à risque
-
-Maîtriser et mobiliser les règlements sportifs dans sa discipline
-
-|
-
-OI 4-3
-
-4-3-1
-
-4-3-2
-
-4-3-3
-
-|
-
-Garantir des conditions de pratique en sécurité
-
-Assurer la sécurité des plongeurs sur la zone de pratique ou d’évolution en milieu naturel
-
-Adapter la sécurité au milieu artificiel
-
-Utiliser des équipements de protection individuelle (EPI) adaptés au public et conformes aux règles de sécurité
-
-|
+Conformément à l'article 12 de l'arrêté du 31 juillet 2023 (NOR : SPOV2321633A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er novembre 2023.
