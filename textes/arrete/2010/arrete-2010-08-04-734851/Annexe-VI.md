@@ -24,7 +24,7 @@ Le sous-directeur de la gestion du personnel. |
 
 L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
-Le chef du département du personnel officier, ou son représentant. |
+Le sous-directeur du personnel officier, ou son représentant. |
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire, ou son représentant. |
 
@@ -36,7 +36,7 @@ Le sous-directeur de la gestion du personnel. |
 
 L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
-Le chef du département du personnel officier, ou son représentant. |
+Le sous-directeur du personnel officier, ou son représentant. |
 
 Le chef du bureau du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale, ou son représentant. |
 
@@ -50,14 +50,10 @@ Le sous-directeur de la gestion du personnel. |
 
 L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
-Le chef du département du personnel officier, ou son représentant. |
+Le sous-directeur du personnel officier, ou son représentant. |
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire, ou son représentant. |
 
 Le chef du bureau du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale ou son représentant. |
 
 Un officier supérieur de l'inspection générale des armées-gendarmerie. |
-
-NOTA :
-
-Conformément à l’article 4 de l’arrêté du 29 juillet 2022 (NOR : IOMJ2221883A), ces dispositions entrent en vigueur le 1er septembre 2022.

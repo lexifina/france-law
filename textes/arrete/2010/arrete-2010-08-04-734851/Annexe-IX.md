@@ -22,7 +22,7 @@ Officiers |
 
 Le directeur des personnels militaires de la gendarmerie nationale. |
 
-Le chef du département du personnel officier. |
+Le sous-directeur du personnel officier. |
 
 Le commandant du commandement de la gendarmerie pour les réserves et la jeunesse ou son représentant. |
 
@@ -35,7 +35,3 @@ Le commandant de la formation administrative. |
 Le commandant en second s'il existe, à défaut, l'officier le plus ancien dans le grade le plus élevé de la formation administrative. |
 
 Deux officiers supérieurs désignés par le commandant de la formation administrative dont un officier chargé des réserves. |
-
-NOTA :
-
-Conformément à l’article 4 de l’arrêté du 29 juillet 2022 (NOR : IOMJ2221883A), ces dispositions entrent en vigueur le 1er septembre 2022.
