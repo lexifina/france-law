@@ -430,7 +430,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -secrétaire général adjoint d'un secrétariat général pour l'administration du ministère de l'intérieur ;
 
--chef de département au commandement spécialisé pour la sécurité nucléaire (1 emploi) ;
+-chef du département des opérations et de l'emploi au commandement spécialisé pour la sécurité nucléaire ;
 
 -chef de division à la direction nationale du renseignement territorial (2 emplois) ;
 
@@ -441,6 +441,14 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -adjoint au chef de la cellule expertise nucléaire au sein du cabinet du ministère des armées (1 emploi) ;
 
 -adjoint au chef de la cellule numérique au sein du cabinet du ministère des armées (1 emploi) ;
+
+-à l'agence du numérique des forces de sécurité intérieure :
+
+-chef du département des communications résilientes opérationnelles ;
+
+-chef du département des systèmes d'information de soutien ;
+
+-chargé de fonctions, conseiller filière système d'information et de communication (1 emploi).
 
 8° Ecoles :
 
@@ -465,7 +473,3 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -chef de groupe à l'école de guerre (5 emplois) ;
 
 -chef du centre de formation à la cybersécurité de la gendarmerie nationale.
-
-NOTA :
-
-Conformément à l’article 2 de l’arrêté du 25 juillet 2023 (NOR : IOMJ2318598A), ces dispositions entrent en vigueur le 1er août 2023.

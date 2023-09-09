@@ -800,8 +800,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières ;
 
--chef de département au commandement spécialisé pour la sécurité nucléaire (1 emploi) ;
-
 -chef d'une division à la direction de la coopération internationale de sécurité ;
 
 -chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale ;
@@ -824,8 +822,32 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur ;
 
--conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi).
+-conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi) ;
 
-NOTA :
+-à l'agence du numérique des forces de sécurité intérieure :
 
-Conformément à l’article 2 de l’arrêté du 25 juillet 2023 (NOR : IOMJ2318598A), ces dispositions entrent en vigueur le 1er août 2023.
+-chef de cellule de management de l'information ;
+
+-chargé de projets au pôle prospective - stratégie (1 emploi) ;
+
+-chargé de projets à la direction des communications tactiques (1 emploi) ;
+
+-chargé de fonction au sein à la direction de la sécurité et de l'architecture (1 emploi) ;
+
+-chef du département de l'architecture, de la sécurité et de l'hébergement ;
+
+-chef du département des fichiers biométriques et internationaux ;
+
+-chef du département de l'innovation par la donnée ;
+
+-chef du département des services socles ;
+
+-adjoint au chef du département des communications résilientes opérationnelles ;
+
+-adjoint au chef du département gestion de crise et des événements ;
+
+-adjoint au chef du département des systèmes d'information de soutien ;
+
+-chargé de fonctions au département de la proximité numérique et des relations usagers (1 emploi) ;
+
+-chef du département de l'environnement numérique de travail.

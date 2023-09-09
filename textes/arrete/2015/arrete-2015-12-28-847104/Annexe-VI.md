@@ -8,7 +8,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef du pôle des expérimentations et des projets de sécurité ;
 
--chargé de fonction au bureau du cabinet du directeur général de la gendarmerie nationale (11 emplois) ;
+-chargé de fonction au cabinet du directeur général de la gendarmerie nationale (11 emplois) ;
 
 -chargé de fonction auprès du commandement de la direction des opérations et de l'emploi (1 emploi) ;
 
@@ -612,7 +612,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -commandant d'un peloton spécial de sécurité des armements nucléaires ;
 
--chef de détachement territorial au sein d'une section de recherche (4 emplois) ;
+-chef de détachement territorial au sein d'une section de recherche :
+
+-d'Agen ;
+
+-de Bastia ;
+
+-de Marseille ;
+
+-de Saint-Martin Saint-Barthélémy ;
 
 -commandant de la brigade numérique de Rennes ;
 
@@ -785,7 +793,3 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -aide de camp du secrétariat général de la défense et de la sécurité nationale (1 emploi) ;
 
 -aide de camp auprès du secrétaire d'état chargé de la jeunesse et du service national universel (1 emploi).
-
-NOTA :
-
-Conformément à l’article 2 de l’arrêté du 25 juillet 2023 (NOR : IOMJ2318598A), ces dispositions entrent en vigueur le 1er août 2023.

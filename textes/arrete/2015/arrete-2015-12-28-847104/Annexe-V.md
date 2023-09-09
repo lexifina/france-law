@@ -1076,8 +1076,28 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef du centre de rétention administrative de Lyon ;
 
--commandant en second du centre de production multimédia de la gendarmerie nationale.
+-commandant en second du centre de production multimédia de la gendarmerie nationale ;
 
-NOTA :
+-à l'agence du numérique des forces de sécurité intérieure :
 
-Conformément à l’article 2 de l’arrêté du 25 juillet 2023 (NOR : IOMJ2318598A), ces dispositions entrent en vigueur le 1er août 2023.
+-chargé de projets à la direction des communications tactiques (1 emploi) ;
+
+-chargé de projets à la direction des supports opérationnels (1 emploi) ;
+
+-chargé de fonctions pilotage et coordination à la direction des applications d'appui au commandement (1 emploi) ;
+
+-adjoint au chef du département de l'architecture, de la sécurité et de l'hébergement ;
+
+-adjoint au chef du département des terminaux sécurisés ;
+
+-adjoint au chef du département des outils de procédure ;
+
+-adjoint au chef du département des fichiers nationaux ;
+
+-adjoint au chef du département des technologies avancées ;
+
+-adjoint au chef du département des équipements radio ;
+
+-chef du pôle procédure pénale numérique/plainte en ligne ;
+
+-chef du pôle DataLab.

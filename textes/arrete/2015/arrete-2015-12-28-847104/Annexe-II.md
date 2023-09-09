@@ -344,11 +344,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef de l'unité de coordination pour la lutte contre l'insécurité routière ;
 
--chef du service du traitement de l'information de la gendarmerie ;
-
 -directeur de l'enseignement et de recherche au pôle de judiciaire de la gendarmerie nationale ;
 
 -chef de pôle à l'office anti-stupéfiants (1 emploi) ;
+
+-adjoint au commandant du service du traitement de l'information de la gendarmerie ;
 
 -chargé de mission action territoriale auprès de l'agence nationale de la sécurité des systèmes d'information (1 emploi) ;
 
@@ -370,11 +370,23 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -officier de liaison chargé de mission à la délégation ministérielle aux partenariats, aux stratégies et aux innovations de sécurité (1 emploi) ;
 
+-officier de liaison à la sous-direction de l'architecture et des infrastructures techniques au sein de la direction du numérique (1 emploi) ;
+
 -chargé de mission jeux Olympiques 2024 affecté à la région de gendarmerie d'Ile-de-France (1 emploi) ;
 
 -chargé de mission jeux Olympiques 2024 affecté à la direction des opérations et de l'emploi ;
 
 -chargé de mission grands évènements affecté à la région de gendarmerie d'Ile-de-France ;
+
+-à l'agence du numérique des forces de sécurité intérieure :
+
+-directeur adjoint des supports opérationnels (1 emploi) ;
+
+-conseiller technique (1 emploi) ;
+
+-chef de pôle pilotage projet-appui méthode ;
+
+-chargé de mission au pôle pilotage projet-appui méthode.
 
 7° Ecoles :
 
@@ -393,7 +405,3 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -commandant de la division de la formation initiale à l'école des officiers de la gendarmerie nationale ;
 
 -chef de la division de l'appui à la formation de l'école des officiers de la gendarmerie nationale.
-
-NOTA :
-
-Conformément à l’article 2 de l’arrêté du 25 juillet 2023 (NOR : IOMJ2318598A), ces dispositions entrent en vigueur le 1er août 2023.
