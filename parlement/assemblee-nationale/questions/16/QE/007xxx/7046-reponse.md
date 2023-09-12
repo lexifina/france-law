@@ -1,0 +1,9 @@
+# Réponse à la question n° 7046
+
+- Question : [7046](7046.md) — Question n° 7046 — Facturation forfaitaire  de la visite information et prévention des salariés
+
+## Réponse
+
+*JO du 2023-09-12, page 8174*
+
+La loi n° 2021-1018 du 2 août 2021 pour renforcer la prévention en santé au travail a réaffirmé le principe préexistant d'une cotisation « per capita » acquittée pour l'organisation du suivi de l'état de santé de chaque travailleur suivi. La cotisation due par l'employeur vise à couvrir l'ensemble des missions du service de prévention et de santé au travail prévus par l'article L. 4622-2 du code du travail. Elle couvre notamment : les actions en milieu de travail, l'accompagnement à la prévention de la désinsertion professionnelle et également l'organisation du suivi individuel de l'état de santé. Le maintien du principe de la cotisation forfaitaire par salarié indépendamment de sa quotité de temps de travail a été encadré par cette même loi qui prévoit que le montant des cotisations ne doit pas s'écarter au-delà d'un pourcentage du coût moyen national de l'ensemble socle de services. Ces dispositions, qui répondent au souhait exprimé par les partenaires sociaux signataires de l'accord national interprofessionnel du 9 décembre 2020, visent à la transparence et à la responsabilité des services de prévention et de santé au travail interentreprises en matière de financement. Elles se sont traduites par le décret n° 2022-1749 du 30 décembre 2022 qui prévoit l'encadrement des cotisations dans la limite d'un montant ne pouvant être inférieur à 80% ni supérieur à 120% du coût moyen national de l'ensemble socle de services, fixé chaque année par arrêté du ministre chargé du travail. Ces dispositions entreront en vigueur au 1er janvier 2025. Ces éléments confortent le maintien du principe actuel de cotisation forfaitaire.
