@@ -1,0 +1,9 @@
+# Réponse à la question n° 9806
+
+- Question : [9806](9806.md) — Question n° 9806 — Le financement des classes ULIS
+
+## Réponse
+
+*JO du 2023-09-12, page 8120*
+
+L'article L. 112-1 du code de l'éducation précise que tout enfant en situation de handicap doit être inscrit dans l'école la plus proche de son domicile, qui constitue son établissement de référence. Néanmoins, dans le cadre de son projet personnalisé de scolarisation (PPS), si ses besoins nécessitent qu'il reçoive sa formation dans le cadre d'une unité localisée pour l'inclusion scolaire (ULIS), il peut être inscrit dans une autre école qui se trouve dans une commune différente de son lieu de résidence. Ainsi, lorsqu'un élève est scolarisé dans une commune autre que celle de sa résidence, un mécanisme de répartition des dépenses de fonctionnement se met en place entre les deux collectivités territoriales concernées. Dès lors, en vertu des dispositions de l'article L. 212-8 du code de l'éducation, lorsque les écoles maternelles ou les écoles élémentaires publiques d'une commune reçoivent des élèves dont la famille est domiciliée dans une autre commune, la répartition des dépenses de fonctionnement se fait par accord entre la commune d'accueil et la commune de résidence. Ce même article prévoit que pour le calcul de la contribution de la commune de résidence, il est notamment tenu compte des ressources de cette dernière. Aussi, les capacités financières des communes ou des groupements de communes, lorsque la compétence scolaire est exercée au niveau intercommunal, sont bien prises en compte dans la fixation de la contribution de la commune de résidence. A défaut d'accord entre les communes intéressées sur la répartition des dépenses, la contribution de chaque commune est fixée par le représentant de l'Etat dans le département après avis du conseil départemental de l'éducation nationale.
