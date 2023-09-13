@@ -340,7 +340,7 @@ E. - Emplois relevant du groupe 3 :
 
 106° Adjoint au commandant du corps de réaction rapide européen ;
 
-107° Directeur de l'agence du numérique ;
+107° Directeur de l'agence du numérique de défense ;
 
 108° Chargé de projet “ simplification du fonctionnement de l'armée de terre ” auprès de l'inspecteur de l'armée de terre.
 
@@ -404,7 +404,7 @@ F. - Emplois relevant du groupe 4 :
 
 29° Adjoint au commandant des opérations spéciales ;
 
-30° Commandant de la brigade franco-allemande ;
+30° Directeur adjoint “ transition écologique et innovation ” du service d'infrastructure de la défense ;
 
 31° Chargé des fonctions de sous-directeur de l'exploitation à la direction du renseignement militaire ;
 
@@ -846,4 +846,4 @@ G. - Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 31 juillet 2023 (NOR : ARMH2321817A), ces dispositions s'appliquent aux rémunérations versées à compter du mois d'août 2023.
+Conformément à l’article 2 de l’arrêté du 7 septembre 2023 (NOR : ARMH2324240A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de septembre 2023.
