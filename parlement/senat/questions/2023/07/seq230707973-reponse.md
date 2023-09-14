@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230707973
+
+- Question : [SEQ230707973](seq230707973.md) — Modalités de vote au sein des intercommunalités
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-09-14, page 5396*
+
+L'article L. 2121-21 du code général des collectivités territoriales (CGCT), applicable aux établissements publics de coopération intercommunale (EPCI) en vertu de l'article L. 5211-1 du même code, dispose que "le vote a lieu au scrutin public à la demande du quart des membres présents. Il est voté au scrutin secret : 1° Soit lorsqu'un tiers des membres présents le réclame ; 2° Soit lorsqu'il y a lieu de procéder à une nomination ou à une présentation". Toute demande de scrutin de secret doit néanmoins être motivée. Le juge administratif considère que cette demande constitue une formalité substantielle de nature à entacher la légalité de la délibération en cas d'irrégularités (Conseil d'État, 21 juin 1993, Commune d'Évry-Grégy-sur-Yerre c/M. Vajou, n° 103407). Le Conseil constitutionnel a considéré "qu'il ne résulte pas de la combinaison [des articles 6 et 15 de la Déclaration des droits de l'homme et du citoyen de 1789] un principe de publicité des séances et des votes lors des délibérations des assemblées locales" (Conseil constitutionnel, 29 mai 2015, n° 2015-471 QPC). Le vote secret ne méconnait donc aucun droit et ou liberté que la Constitution garantit, les dispositions de l'article L. 2121-21 étant considérées comme conformes à la Constitution. Toutefois, l'intérêt légitime du citoyen à prendre connaissance des enjeux et des positions exprimées par les membres de l'assemblée délibérante dans le cadre des délibérations, notamment lorsqu'elles ont pour objet des décisions de nature financière ou fiscale, justifie l'absence d'obligation de procéder à un scrutin secret selon l'objet de la délibération. Le Gouvernement est dès lors défavorable à toute modification des modalités de recours au scrutin secret.
