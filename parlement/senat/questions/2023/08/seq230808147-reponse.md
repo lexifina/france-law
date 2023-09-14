@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230808147
+
+- Question : [SEQ230808147](seq230808147.md) — Processus de récupération des pneus usagés
+
+## Réponse
+
+*Transition écologique et cohésion des territoires, JO du 2023-09-14, page 5472*
+
+La collecte des pneumatiques usagés présente des enjeux importants en matière de protection de l'environnement. Si des initiatives privées avaient permis de faciliter la reprise des pneumatiques chez les garagistes, ou la reprise de vieux stocks de pneumatiques en déshérence depuis la faillite de certaines sociétés qui les distribuaient par le passé, et les récupéraient sans disposer de filière d'élimination robuste, la loi anti-gaspillage de février 2020 a prévu de créer une filière à responsabilité élargie des producteurs pour les pneumatiques usagés. L'objectif de cette nouvelle filière répond aux préoccupations soulevées, concernant une harmonisation des conditions de reprise et de gestion de ces pneumatiques, tout en définissant des objectifs de recyclage et de valorisation ambitieux. La Gouvernement a publié au journal officiel le 7 juillet 2023 un arrêté ministériel, portant cahier des charges des éco-organismes, des systèmes individuels et des organismes coordonnateurs devant contribuer ou pourvoir à la collecte, à la réutilisation, au recyclage et aux autres opérations de traitement des déchets de pneumatiques Il définit également le cahier des charges des systèmes individuels mis en place, le cas échéant, par des producteurs pour remplir individuellement leurs obligations de responsabilité élargie. Ce cahier de charges prévoit notamment que les éco-organismes assureront la gestion des déchets de pneumatiques d'ensilage avec tout producteur ayant mis en place un système individuel agréé sur la filière des pneumatiques. Ils seront chargés de la coordination des opérations et de l'information préalable des détenteurs. Un bilan annuel de ces opérations sera établi.
