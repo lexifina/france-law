@@ -1,6 +1,6 @@
 # Article Annexe II
 
-TABLEAU DE L'ANNEXE II
+Tableau de l'annexe II
 
 SERVICES OU DIRECTIONS |
 
@@ -134,6 +134,4 @@ Secrétariat général commun départemental |
 
 Yvelines |
 
-Directeur adjoint du secrétariat général commun départemental
-
-|
+Directeur adjoint du secrétariat général commun départemental |

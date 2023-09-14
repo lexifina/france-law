@@ -6,27 +6,33 @@ LOCALISATION DES EMPLOIS À FORTE RESPONSABILITÉ BÉNÉFICIANT DE LA NOUVELLE B
 
 1° Périmètre administration centrale, établissements publics et services à compétence nationale
 
-Directions et services |
+Directions
+
+et services |
 
 Fonctions |
 
 Points
 
-de
-
-NBI |
+de NBI |
 
 Nombre d'emplois
 
-à forte responsabilité
+à forte
+
+responsabilité
 
 (EFR) |
 
 Nombre d'emplois
 
-de conseiller d'administration
+de conseiller
 
-de l'intérieur et de l'outre-mer
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -58,7 +64,7 @@ Chef de cabinet |
 
 1 |
 
-Direction de la modernisation et de l'action territoriale et de l'encadrement supérieur |
+Direction du management de l'administration territoriale et de l'encadrement supérieur |
 
 Chef de projet réforme de l'administration territoriale de l'Etat, adjoint au chef du bureau de l'organisation et des missions de l'administration territoriale au sein de la sous-direction de l'administration territoriale de l'Etat |
 
@@ -302,9 +308,7 @@ Chef du bureau des affaires financières et de l'évaluation de la dépense au s
 
 1 |
 
-Chef du bureau du pilotage des
-
-politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel |
+Chef du bureau du pilotage des politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel |
 
 50 |
 
@@ -598,6 +602,14 @@ Chef de la division de la doctrine et de l'évaluation au sein de la direction n
 
 1 |
 
+Adjoint au chef du bureau de la gouvernance et de l'animation territoriale au sein de la sous-direction de la stratégie des ressources humaines de la direction des ressources humaines, des finances et des soutiens de la police nationale |
+
+30 |
+
+- |
+
+1 |
+
 Chef du bureau des effectifs, de la prospective et des systèmes d'information au sein de la sous-direction de la stratégie des ressources humaines de la direction des ressources humaines, des finances et des soutiens de la police nationale |
 
 50 |
@@ -625,14 +637,6 @@ Adjoint au chef du bureau du pilotage des emplois et de la masse salariale, resp
 Chef du bureau du contrôle interne au sein du service de l'innovation et de la performance de la direction des ressources humaines, des finances et des soutiens de la police nationale |
 
 30 |
-
-- |
-
-1 |
-
-Adjoint au chef de projet pilotage des emplois de la police nationale au sein de la sous-direction de la stratégie des ressources humaines de la direction des ressources humaines, des finances et des soutiens de la police nationale |
-
-0 |
 
 - |
 
@@ -942,27 +946,33 @@ Secrétaire général |
 
 2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur
 
-Directions et services |
+Directions
+
+et services |
 
 Fonctions |
 
 Points
 
-de
-
-NBI |
+de NBI |
 
 Nombre d'emplois
 
-à forte responsabilité
+à forte
+
+responsabilité
 
 (EFR) |
 
 Nombre d'emplois
 
-de conseiller d'administration
+de conseiller
 
-de l'intérieur et de l'outre-mer
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -1180,27 +1190,33 @@ Directeur des ressources humaines |
 
 3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
 
-Directions et services |
+Directions
+
+et services |
 
 Fonctions |
 
 Points
 
-de
-
-NBI |
+de NBI |
 
 Nombre d'emplois
 
-à forte responsabilité
+à forte
+
+responsabilité
 
 (EFR) |
 
 Nombre d'emplois
 
-de conseiller d'administration
+de conseiller
 
-de l'intérieur et de l'outre-mer
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -1286,7 +1302,7 @@ Chef du service de gestion des personnels administratifs, techniques, scientifiq
 
 Adjoint au chef du service de gestion des personnels administratifs, techniques scientifiques et spécialisés au sein de la sous-direction des personnels |
 
-30 |
+0 |
 
 - |
 
@@ -1416,7 +1432,7 @@ Chef du bureau de l'accueil de la demande d'asile |
 
 1 |
 
-Direction des transports et de la protection du public |
+Direction des usagers et des polices administratives |
 
 Chef du bureau des taxis et des transports publics au sein de la sous-direction des déplacements et de l'espace public |
 
@@ -1550,31 +1566,37 @@ Secrétaire général chargé du pilotage transversal et de coordination au sein
 
 4° Périmètre services de police nationale
 
-Directions et services |
+Directions
+
+et services |
 
 Fonctions |
 
 Points
 
-de
-
-NBI |
+de NBI |
 
 Nombre d'emplois
 
-à forte responsabilité
+à forte
+
+responsabilité
 
 (EFR) |
 
 Nombre d'emplois
 
-de conseiller d'administration
+de conseiller
 
-de l'intérieur et de l'outre-mer
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
-06 DDSP des Alpes Maritimes |
+06 DDSP des Alpes-Maritimes |
 
 Chef de service de gestion opérationnelle |
 
@@ -1634,7 +1656,7 @@ Chef de service de gestion opérationnelle |
 
 1 |
 
-31 DDSP Haute Garonne |
+31 DDSP Haute-Garonne |
 
 Chef de service de gestion opérationnelle |
 
@@ -1852,21 +1874,25 @@ Fonctions |
 
 Points
 
-de
-
-NBI |
+de NBI |
 
 Nombre d'emplois
 
-à forte responsabilité
+à forte
+
+responsabilité
 
 (EFR) |
 
 Nombre d'emplois
 
-de conseiller d'administration
+de conseiller
 
-de l'intérieur et de l'outre-mer
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -1890,7 +1916,7 @@ Chef du bureau de l'immobilier et du logement |
 
 1 |
 
-33 Région zonale de gendarmerie Nouvelle Aquitaine |
+33 Région zonale de gendarmerie Nouvelle-Aquitaine |
 
 Chef du bureau de l'accompagnement du personnel |
 
@@ -1950,7 +1976,7 @@ Chef du bureau de la gestion du personnel |
 
 - |
 
-80 Région zonale de gendarmerie Hauts de France |
+80 Région zonale de gendarmerie Hauts-de-France |
 
 Chef du bureau des compétences |
 
@@ -2000,7 +2026,7 @@ Adjoint au chef du centre opérationnel de soutien infrastructure et logement |
 
 - |
 
-94 Région zonale de gendarmerie d'Ile de France |
+94 Région zonale de gendarmerie d'Ile-de-France |
 
 Chef du bureau du budget et de l'administration à la division de l'appui opérationnel de l'Etat-major |
 
@@ -2010,7 +2036,7 @@ Chef du bureau du budget et de l'administration à la division de l'appui opéra
 
 1 |
 
-94 Région zonale de gendarmerie d'Ile de France |
+94 Région zonale de gendarmerie d'Ile-de-France |
 
 Chef du bureau des compétences |
 
@@ -2042,21 +2068,25 @@ Fonctions |
 
 Points
 
-de
-
-NBI |
+de NBI |
 
 Nombre d'emplois
 
-à forte responsabilité
+à forte
+
+responsabilité
 
 (EFR) |
 
 Nombre d'emplois
 
-de conseiller d'administration
+de conseiller
 
-de l'intérieur et de l'outre-mer
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -2242,19 +2272,15 @@ Greffier en chef |
 
 7° Périmètre préfectures
 
-Localisation
-
-des emplois |
+Localisation des emplois |
 
 Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-Total
+|
 
-du nombre
-
-d'EFR |
+Total du nombre d'EFR |
 
 60 points |
 
@@ -2264,13 +2290,11 @@ d'EFR |
 
 20 points |
 
-Total
+Total du
 
-du nombre
+nombre
 
-d'emplois de
-
-CAIOM |
+d'emplois de CAIOM |
 
 60 points |
 
@@ -2280,7 +2304,9 @@ CAIOM |
 
 20 points |
 
-Sans point de NBI |
+Sans point
+
+de NBI |
 
 01 Ain |
 
@@ -3818,7 +3844,7 @@ Sans point de NBI |
 
 - |
 
-64 Pyrénées Atlantiques |
+64 Pyrénées-Atlantiques |
 
 - |
 
@@ -4658,7 +4684,7 @@ Sans point de NBI |
 
 - |
 
-974 Réunion |
+974 La Réunion |
 
 - |
 
@@ -4754,7 +4780,7 @@ Sans point de NBI |
 
 - |
 
-986 Wallis et Futuna |
+986 Wallis-et-Futuna |
 
 |
 
@@ -4826,21 +4852,15 @@ Sans point de NBI |
 
 - |
 
-8° Périmètre secrétariat général commun départemental
+8° Périmètre secrétariat général commun départemental :
 
-Localisation
-
-des emplois |
+Localisation des emplois |
 
 Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-Total
-
-du nombre
-
-d'EFR |
+Total du nombre d'EFR |
 
 60 points |
 
@@ -4850,13 +4870,9 @@ d'EFR |
 
 20 points |
 
-Total
+Total du nombre
 
-du nombre
-
-d'emplois
-
-de CAIOM |
+d'emplois de CAIOM |
 
 60 points |
 
@@ -4866,7 +4882,9 @@ de CAIOM |
 
 20 points |
 
-Sans point de NBI |
+Sans point
+
+de NBI |
 
 01 Ain |
 
@@ -5372,7 +5390,7 @@ Sans point de NBI |
 
 1 |
 
-22 Côtes d'Armor |
+22 Côtes-d'Armor |
 
 - |
 
@@ -5876,7 +5894,7 @@ Sans point de NBI |
 
 - |
 
-44 Loire Atlantique |
+44 Loire-Atlantique |
 
 - |
 
@@ -6284,7 +6302,7 @@ Sans point de NBI |
 
 - |
 
-62 Pas de Calais |
+62 Pas-de-Calais |
 
 - |
 
@@ -6308,7 +6326,7 @@ Sans point de NBI |
 
 - |
 
-63 Puy de Dôme |
+63 Puy-de-Dôme |
 
 - |
 
@@ -6356,7 +6374,7 @@ Sans point de NBI |
 
 - |
 
-65 Hautes Pyrénées |
+65 Hautes-Pyrénées |
 
 - |
 
@@ -6380,7 +6398,7 @@ Sans point de NBI |
 
 - |
 
-66 Pyrénées Orientales |
+66 Pyrénées-Orientales |
 
 - |
 
@@ -6956,7 +6974,7 @@ Sans point de NBI |
 
 1 |
 
-94 Val de Marne |
+94 Val-de-Marne |
 
 - |
 
