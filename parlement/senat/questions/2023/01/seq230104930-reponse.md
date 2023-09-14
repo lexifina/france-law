@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230104930
+
+- Question : [SEQ230104930](seq230104930.md) — Adhésion des communes au centre d'études et d'expertises sur les risques, l'environnement, la mobilité et l'aménagement
+
+## Réponse
+
+*Transition écologique et cohésion des territoires, JO du 2023-09-14, page 5469*
+
+Le décret 2022-897 du 16 juin 2022 a modifié le statut du centre d'études et d'expertises sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) et introduit la possibilité pour les collectivités territoriales d'adhérer à l'établissement, pour un montant annuel variable selon le type de collectivités. Cette disposition a été mise en place par le gouvernement pour permettre aux collectivités d'accéder plus aisément aux services du Cerema, en ceci qu'elle permet aux collectivités adhérentes de bénéficier des prestations du Cerema avec des formalités de commande publique très allégées, en vertu des articles L2511-3 et L2511-4 du code de la commande publique. Si cette évolution des statuts du Cerema permet en effet aux collectivités qui font le choix d'adhérer à l'établissement de bénéficier de ses prestations avec des formalités allégées, elle est sans conséquence sur le type de prestation que l'établissement propose au bénéfice desdites collectivités. A cet égard, les études géotechniques de type G1 à G5 telles que définies par la norme NFP 94-500 de novembre 2013 (Missions d'ingénierie géotechnique) sont des études spécifiques portant sur la connaissance des sols et des sous-sols, indispensables pour évaluer les risques liés à la construction et à l'aménagement du territoire. Ces études sont réglementées et répondent à des normes et des exigences techniques précises. Tous les organismes et bureaux d'étude, sont tenus de réaliser ces études géotechniques conformément à cette norme. Il n'est ainsi pas possible de remplacer ces études, dont la réalisation demeure indispensable, par une certification d'étude.
