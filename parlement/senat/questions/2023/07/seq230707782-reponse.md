@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230707782
+
+- Question : [SEQ230707782](seq230707782.md) — Campagne de bourses scolaires pour l'année 2023-2024 dans les établissements d'enseignement français à l'étranger
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2023-09-14, page 5431*
+
+Les conseils consulaires sont présidés par un de leurs membres élus. Les postes diplomatiques et consulaires n'ont pas reçu l'instruction d'inciter à « ajourner un maximum de dossiers » mais de procéder au rappel du cadre budgétaire, afin notamment de limiter les demandes de modulation à la hausse, devenues trop systématiques. Les conseils consulaires ne sauraient, en effet, s'affranchir du cadre budgétaire lors de la formulation de leurs avis. Il convient également de rappeler que les familles bénéficiant d'une prise en charge à 100 % des frais de scolarité ne sont pas concernées par la contribution progressive de solidarité. En tout état de cause, les instructions applicables à la mise en oeuvre de l'aide à la scolarité prévoient bien que toutes les demandes de révision peuvent être formées par les familles auprès de leur poste consulaire de rattachement. Ces demandes seront toutes examinées lors du second conseil consulaire dédié, organisé après la rentrée. Cet examen a pour objet d'apprécier les difficultés dont les familles peuvent juger opportun de faire part, sur la base de pièces justificatives. Le calendrier applicable est prévu pour faciliter l'accès à cette voie de recours. Les travaux des prochains conseils consulaires permettront d'affiner le niveau du relèvement nécessaire pour garantir le maintien du niveau d'accompagnement des familles et la limitation de la contribution solidaire de solidarité. En effet, c'est sur la base d'une appréciation concrète des besoins exprimés, des difficultés rencontrées et de l'évolution du contexte économique que pourra être fixé le niveau d'efforts nécessaires.
