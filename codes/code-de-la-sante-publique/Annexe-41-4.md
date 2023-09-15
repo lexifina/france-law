@@ -158,6 +158,14 @@ I. - En primo-prescription |
 
 10° Pansements gastro-intestinaux. |
 
+11° Nirsévimab.
+
+|
+
+12° Immunoglobulines spécifiques anti-HBs en association avec le vaccin contre l'hépatite B chez le nouveau-né de mère porteuse de l'antigène HBs.
+
+|
+
 II. - En cas d'urgence et en l'attente du médecin |
 
 1° Adrénaline par voie injectable ou intratrachéale dans la réanimation du nouveau-né. |
