@@ -134,7 +134,7 @@ Robatel :
 
 - ZI de Digulleville, BP 703, 50447 Beaumont : depuis 1973 jusqu'au 31 décembre 2027.
 
-SEPFA, 5, rue Dom-Pedro, 50100 Cherbourg : de 1974 à 1992.
+SEPFA (Société d'Exploitation des Procédés Félix Amiot) 5, rue Dom Pedro 50100 Cherbourg de 1974 à 2019.
 
 SGC (Société Générale de Carénage) - zone artisanale, 50690 Martinvast, et 31, avenue Aristide-Briand, 50100 Cherbourg : depuis 1955 jusqu’au 31 décembre 2027.
 
