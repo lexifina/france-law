@@ -20,7 +20,7 @@ Technisol, zone industrielle Le Ried, 67850 herrlisheim : de 1970 à 1984 ;
 
 Aquitaine
 
-Aquitaine Isol, route de la Gare, 64170 Lacq : de 1970 à 1981 ;
+AQUITAINE ISOL Puis AQUITAINE ISOL ENTREPRISE Route de la Gare 64170 Lacq de 1970 à 1996 ;
 
 Ahlstrom Paper Group, usine de Rottersac, 24150 Lalinde : de 1956 à 1997 puis SADEFA INDUSTRIE, FUMEL TECHNOLOGIE, F2A, FUMET D, SAS METALTEMPLE AQUITAINE (SIRET 81070253000017), 1, avenue de l'Usine, 47500 Fumel, de 1998 à 2012 ;
 
@@ -402,7 +402,7 @@ Babcock Sacom, 15, rue Boudeville, zone Thibaud, 31100 Toulouse : de 1929 à 199
 
 Bostik Findley 65420 Ibos, de 1965 à 1972 ;
 
-Wanner Isofi Isolation/ Wanner isofi/ Wanner Industrie, 31000 Toulouse-Lacq : de 1933 à 1997 ;
+WANNER ISOFI ISOLATION/ WANNER ISOFI/ WANNER INDUSTRIE 64170 Lacq de 1933 à 1997 et WANNER ISOFI/ TECHNIS Rond-point de Mourenx BP 14 64170 Lacq de 1997 à 1999
 
 Nord-Pas-de-Calais
 
