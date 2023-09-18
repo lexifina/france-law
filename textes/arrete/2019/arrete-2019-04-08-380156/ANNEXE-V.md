@@ -12,7 +12,9 @@ Le jour de leur convocation, les candidats doivent se présenter munis d'une pi�
 
 4° Un curriculum vitae ;
 
-5° Une des pièces suivantes permettant de justifier que le candidat, autre que volontaire dans les armées en service au sein de la gendarmerie nationale (1), remplit l'une des conditions de service exigées pour s'inscrire aux sélections :
+5° Un extrait d'acte de naissance de moins de trois mois ;
+
+6° Une des pièces suivantes permettant de justifier que le candidat, autre que volontaire dans les armées en service au sein de la gendarmerie nationale (1), remplit l'une des conditions de service exigées pour s'inscrire aux sélections :
 
 a) Une photocopie du diplôme du baccalauréat ou d'un diplôme ou titre enregistré et classé au moins au niveau IV dans le répertoire national des certifications professionnelles prévu par les articles R. 335-12 et R. 335-23 du code de l'éducation ;
 
@@ -22,8 +24,8 @@ c) Pour les militaires des forces armées autres que la gendarmerie nationale se
 
 d) Pour les réservistes de la gendarmerie nationale : un état signalétique et des services militaires ;
 
-e) Pour les candidats justifiant d'une expérience professionnelle d'au moins trois années : les documents attestant de cette expérience.
+e) Pour les candidats justifiant d'une expérience professionnelle d'au moins trois années : les documents attestant de cette expérience ;
 
-6° Pour les candidats mineurs non émancipés : le consentement du représentant légal.
+7° Pour les candidats mineurs non émancipés : le consentement du représentant légal.
 
 (1) Pour les candidats gendarmes adjoints volontaires, l'administration vérifie via Agorha dans leur fiche individuelle de renseignements qu'ils justifient d'au moins un an de service au 1er janvier de l'année des épreuves de sélection et de la détention du diplôme de gendarme adjoint.
