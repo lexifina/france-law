@@ -1,0 +1,9 @@
+# Réponse à la question n° 2628
+
+- Question : [2628](2628.md) — Question n° 2628 — Spéculation foncière autour des infrastructures de télécommunications
+
+## Réponse
+
+*JO du 2023-09-19, page 8360*
+
+L'usage croissant des réseaux mobiles et la mise en œuvre de ces obligations réglementaires entraînent, pour les opérateurs, un besoin accru de nouveaux sites pour installer leurs antennes. À cet égard, les opérateurs font appel à des gestionnaires d'infrastructures d'accueil, en charge de l'édification et de l'exploitation de pylônes ou autre construction support d'antennes. Dans ce contexte, la loi n° 2021-1485 du 15 novembre 2021 visant à réduire l'empreinte environnementale du numérique en France a élaboré un dispositif d'information des maires en cas d'acquisition ou de location d'un terrain aux fins d'édification de toute infrastructure supportant des antennes d'émission ou de réception de signaux radioélectriques. Une attestation de mandat d'un opérateur de téléphonie mobile doit ainsi être obligatoirement présentée au maire par un acteur souhaitant édifier ou réédifier une infrastructure d'accueil sur un terrain. Il s'agit de rationaliser la consommation de foncier et d'éviter la spéculation sur des terrains d'assiette potentiels et la construction d'infrastructures laissées ensuite vacantes faute d'utilisateurs identifiés préalablement au lancement des projets. Ces dispositions ont suscité des interrogations de la part des élus sur leur portée, ainsi que sur leurs modalités de mise en œuvre. Une « foire aux questions » a en conséquence été conçue par les services de l'État afin d'apporter des réponses aux acteurs impliqués sur ce sujet et de faciliter les relations entre les élus et les sociétés proposant la conclusion d'un contrat d'achat ou de location de terrain supportant ou destiné à supporter une infrastructure support d'antenne. Une circulaire à destination des préfets a accompagné l'envoi de cette FAQ.
