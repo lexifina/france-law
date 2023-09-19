@@ -1,0 +1,9 @@
+# Réponse à la question n° 9967
+
+- Question : [9967](9967.md) — Question n° 9967 — Évocation des droits humains et libertés publiques avec M. Narendra Modi
+
+## Réponse
+
+*JO du 2023-09-19, page 8321*
+
+L'Inde et la France entretiennent de longue date un partenariat très étroit, dont la France est fière et que la visite de M. Narendra Modi, ami de la France, a mis à l'honneur. Depuis 1998 nos deux pays sont liés par un partenariat stratégique qui s'est renforcé quelles que soient les majorités gouvernementales de part et d'autre. L'objectif était de fixer le cap de notre relation bilatérale pour les 25 années à venir et d'élargir notre partenariat à des champs de notre relation bilatérale appelés à se renforcer. Il a été pleinement rempli, dans tous les domaines. C'est le cas notamment des enjeux globaux avec l'engagement en faveur de l'adoption d'un traité international pour mettre fin à la pollution plastique, la signature d'une lettre d'intention dans le domaine de la santé et de la médecine ou encore le lancement d'un partenariat sur la recherche océanique. Avec l'Inde, comme avec tous nos partenaires de confiance, aucun sujet n'est mis de côté lors des échanges réguliers, entretenus à tous les niveaux administratifs et politiques. Nous évoquons donc fréquemment l'évolution de la situation politique dans nos deux pays. Pour ce faire, nous nous appuyons sur les contacts constants que nous entretenons avec l'ensemble de la classe politique indienne et avec la société civile dans son ensemble mais aussi sur nos échanges avec les ONG. Nous entretenons par ailleurs des partenariats étroits avec des ONG en Inde sur des sujets comme l'éducation, la liberté de la presse et l'égalité femmes-hommes. Renforcer les échanges humains entre nos deux pays est en effet essentiel pour que les idées circulent.
