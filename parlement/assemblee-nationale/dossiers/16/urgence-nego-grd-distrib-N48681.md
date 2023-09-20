@@ -1,0 +1,52 @@
+# Mesures d’urgence pour adapter les dispositions du code de commerce relatives aux négociations commerciales dans la grande distribution
+
+- Procédure : Projet de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N48681
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/urgence_nego_grd_distrib
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl23-020.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-09-27 : 1er dépôt d'une initiative. (PRJLANR5L16B1679)
+  - 2023-09-27 : Etude d'impact (ETDIANR5L16B1679)
+  - 2023-09-27 : Avis du Conseil d'Etat (AVCEANR5L16B1679)
+  - 2023-09-27 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-09-27 : Renvoi en commission au fond
+      - 2023-09-20 : Nomination de rapporteur
+      - 2023-10-03 : Réunion de commission
+      - 2023-10-04 : Réunion de commission
+      - 2023-10-09 : Réunion de commission
+      - 2023-10-04 : Dépôt de rapport (RAPPANR5L16B1690, PRJLANR5L16BTC1690)
+  - Discussion en séance publique
+    - 2023-10-09 : Discussion en séance publique
+    - 2023-10-09 : Discussion en séance publique
+    - 2023-10-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-10-10 : Dépôt d'une initiative en navette (PRJLSNR5S419B0020)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-10-10 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-10-18 : Dépôt de rapport (RAPPSNR5S419B0038, PRJLSNR5S419BTC0039)
+  - Discussion en séance publique
+    - 2023-10-26 : Décision
+- Commission Mixte Paritaire
+  - 2023-10-26 : Dépôt d'un projet de loi (PRJLANR5L16B1813)
+  - 2023-10-26 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2023-11-06 : Nomination de rapporteur
+    - 2023-11-07 : Dépôt du rapport d'une CMP (RAPPANR5L16B1823, PRJLANR5L16BTC1823)
+    - 2023-11-07 : Dépôt du rapport d'une CMP (RAPPSNR5S419B0078, PRJLSNR5S419BTC0079)
+  - Discussion en séance publique
+    - 2023-11-09 : Discussion en séance publique
+    - 2023-11-09 : Décision
+  - Discussion en séance publique
+    - 2023-11-14 : Discussion en séance publique
+    - 2023-11-14 : Décision
+  - 2023-11-07 : Décision de la CMP
+- Promulgation de la loi
+  - 2023-11-17 : Promulgation d'une loi
