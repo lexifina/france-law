@@ -2,7 +2,9 @@
 
 Alerte
 
-§ 1. La liaison avec les sapeurs-pompiers doit être réalisée par téléphone urbain dans les établissements (ou à proximité des établissements) recevant plus de 700 personnes.
+§ 1. La liaison avec les sapeurs-pompiers doit être assurée par tout moyen de communication conforme à l'article MS 70 pour tous les établissements.
+
+Pour les établissements de 700 personnes au plus et en atténuation de l'article MS 70 § 3 a, le dispositif d'alerte peut provenir du public ou d'un tiers, si les dispositions du b et c du même paragraphe sont respectées.
 
 § 2. Des consignes, affichées bien en vue, doivent indiquer :
 

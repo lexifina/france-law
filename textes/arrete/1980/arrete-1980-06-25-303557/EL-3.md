@@ -32,7 +32,7 @@ Pour l'application du présent règlement, on appelle :
 
 - d'autres équipements de sécurité spécifiques de l'établissement considéré à condition qu'ils concourent à la sécurité contre les risques d'incendie et de panique ;
 
-- les moyens de communication destinés à donner l'alerte interne et externe ;
+- les dispositifs destinés à donner l'alerte visés au paragraphe 2, premier tiret, de l'article MS 70 ;
 
 - tableau électrique : ensemble de dispositifs de commande, de protection, de distribution de l'énergie électrique regroupés sur un même support. Il peut être disposé dans une enveloppe telle que armoire, coffret. Il est dit "de sécurité" lorsque les dispositifs précités concernent exclusivement des installations de sécurité. Il est dit "normal" dans le cas contraire. Les dispositifs de commande, même groupés, ne constituent pas un tableau ;
 
