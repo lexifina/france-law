@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230406322
+
+- Question : [SEQ230406322](seq230406322.md) — Nécessité pour les conseillers des Français de l'étranger de conserver leurs dispositifs mobiles lors des conseils consulaires
+
+## Réponse
+
+*Commerce extérieur, attractivité et Français de l'étranger, JO du 2023-09-21, page 5543*
+
+La reconnaissance de la liberté d'accéder à internet n'est pas exclusive d'une régulation de l'utilisation des outils de communication selon les circonstances et le but poursuivi. Les restrictions à l'usage des téléphones portables durant les réunions des conseils consulaires visent à préserver la confidentialité des débats en leur sein, de telles restrictions pouvant naturellement être aménagées selon le contexte local et sur la base d'un dialogue entre les membres élus du conseil consulaire et le chef de poste. Comme l'a rappelé le ministre délégué en charge des Français de l'étranger devant l'Assemblée des Français de l'Etranger (AFE) lors de sa session de mars 2023, la règle sera clarifiée dans une prochaine édition du guide des élus et du conseil consulaire, dans les termes suivants : "Les débats au sein du conseil consulaire sont guidés par les principes de confidentialité et de neutralité. Si l'usage discret du téléphone portable ou d'un ordinateur portable pendant les réunions dans le respect des principes indiqués ci-avant est en principe autorisé, il peut être interdit sur instruction expresse du chef de poste ou de l'officier de sécurité de l'ambassade, en cas de nécessité impérieuse liée à la confidentialité des sujets débattus en conseil ou pour des questions de sécurité. En ce cas, l'interdiction s'appliquera à l'intégralité des participants à la réunion, quelle que soit leur qualité." Le guide sera publié par le ministère de l'Europe et des Affaires étrangères sur le site de l'AFE.
