@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700567
+
+- Question : [SEQ220700567](seq220700567.md) — Lutte contre l'utilisation frauduleuse de la carte Vitale
+
+## Réponse
+
+*Santé et prévention, JO du 2023-09-21, page 5556*
+
+Le Gouvernement est particulièrement attaché à la lutte contre la fraude et déploie des mesures ambitieuses, notamment pour lutter contre la fraude à l'utilisation de la carte Vitale. L'application carte Vitale (ou carte Vitale dématérialisée) sera ainsi un support d'identification des assurés d'un niveau de sécurité plus élevé que ne l'est la carte Vitale actuelle. La procédure de création d'une carte dématérialisée (appelée « enrôlement ») comporte des étapes de vérification d'identité avec intervention humaine. Par ailleurs, l'ouverture de l'application est conditionnée par un code secret. Ceci empêchera un usage frauduleux suite à une perte ou un vol d'un smartphone. Lors de son usage auprès d'un professionnel de santé, la photographie du titulaire de l'application sera visible. Concernant les cartes perdues ou volées, dès réception de la déclaration de perte ou de vol, cette carte : - ne peut plus donner lieu à facturation en pharmacie (un des risques majeurs de fraude) ; - ne peut plus être utilisée dans le cadre d'une facturation utilisant les téléservices de droits de l'assurance maladie. Pour ce qui est de l'échange de carte Vitale, les procédures d'identitovigilance sont en oeuvre dans tous les établissements, chez certaines catégories de professionnels de santé (les laboratoires) et ont vocation à s'étendre aux autres. A ce titre, l'application carte Vitale fournira l'identité nationale de santé, identité qui n'est pas inscrite dans la carte Vitale. A terme, l'Application Carte Vitale offrira un moyen d'identification à double facteurs pour permettre aux assurés et aux professionnels de santé d'accéder aux services numériques en santé, ce que ne peut offrir la carte Vitale actuelle.
