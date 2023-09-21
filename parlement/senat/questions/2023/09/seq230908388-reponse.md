@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230908388
+
+- Question : [SEQ230908388](seq230908388.md) — Espèces susceptibles d'occasionner des dégâts
+
+## Réponse
+
+*Biodiversité, JO du 2023-09-21, page 5541*
+
+Par un classement dans la catégorie « espèces susceptibles d'occasionner des dégâts » dites ESOD, certaines espèces animales peuvent, si elles portent atteinte aux intérêts énumérés à l'article R. 427-6-II du code de l'environnement, faire l'objet d'une régulation complémentaire à celle de la chasse. Ces intérêts portent notamment sur la santé et de la sécurité publique, la protection de la flore et de la faune, la prévention des dommages importants aux activités agricoles, forestières et aquacoles. Seules des espèces chassables peuvent être classées ESOD. Le classement en ESOD n'a pas pour but d'éradiquer les espèces concernées, mais bien de les réguler afin de limiter les perturbations et les dégâts qu'elles peuvent provoquer. A ce titre, le classement est différencié par département voire par communes. Une espèce est classée ESOD si elle porte atteinte de façon significative à l'un des quatre intérêts mentionnés à l'article R. 427-6 du code de l'environnement : 1° Dans l'intérêt de la santé et de la sécurité publiques ; 2° Pour assurer la protection de la flore et de la faune ; 3° Pour prévenir des dommages importants aux activités agricoles, forestières et aquacoles ; 4° Pour prévenir les dommages importants à d'autres formes de propriété. Le 4° ne s'applique pas aux espèces d'oiseaux. Une espèce peut également être classée ESOD si son abondance est telle que sa présence risque de porter atteinte à ces mêmes intérêts, compte tenu des caractéristiques géographiques, économiques et humaines du territoire. Le MTECT a publié le 3 août 2023 le nouvel arrêté triennal relatif à la destruction des espèces susceptibles d'occasionner des dégâts, à la suite de concertations locales et d'un examen fouillé de l'état de conservation et des dégâts constatés.
