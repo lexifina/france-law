@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700787
+
+- Question : [SEQ220700787](seq220700787.md) — Transmission des maladies des victimes d'irradiation suite aux expériences nucléaires
+
+## Réponse
+
+*Santé et prévention, JO du 2023-09-21, page 5558*
+
+L'institut national de la santé et de la recherche médicale (Inserm) a publié en 2021 une expertise collective intitulée « Essais nucléaires et santé : conséquences en Polynésie Française ». Cette expertise, sollicitée par le ministère de la défense, a pour objectif d'évaluer les conséquences sanitaires des essais nucléaires atmosphériques menés par la France en Polynésie française entre 1966 et 1974. Elle explore notamment les éventuels effets biologiques et sanitaires d'une exposition aux rayonnements ionisants sur la descendance. L'expertise indique que la littérature scientifique internationale ne mentionne aucune preuve d'effets transgénérationnels pour des doses inférieures au sievert (Sv), ce qui, selon les experts, réduit drastiquement la probabilité de transmission pour des doses de l'ordre du millisievert (mSv), comme c'est le cas pour les retombées des essais nucléaires en Polynésie française. Par ailleurs, le rapport de l'Inserm précise que, si les conséquences transgénérationnelles des radiations ont été démontrées chez l'animal, les études actuellement disponibles chez l'Homme ne mettent pas en évidence d'effets décelables. En perspective sur le sujet, l'expertise recommande de faire une veille particulièrement attentive de la littérature scientifique. En lien, il convient de rappeler que le Comité scientifique de l'Organisation des Nations Unies pour l'étude des effets des rayonnements ionisants (UNSCEAR) et le Centre international de recherche sur le cancer, qui sont les deux principaux organismes internationaux faisant autorité sur les effets sanitaires des rayonnements ionisants, ont engagé des travaux sur les effets transgénérationnels, avec des publications attendues d'ici 2028.
