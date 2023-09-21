@@ -534,7 +534,7 @@ Le dossier se compose :
 
 - de l'ensemble des documents que le candidat juge utile de présenter pour concrétiser son travail, documents pédagogiques ou professionnels produits par le candidat et dont la présentation matérielle, la qualité technique et la pertinence sont appréciées par le jury, travaux d'élèves…
 
-Il doit être adressé au jury préalablement à l'épreuve, dans le délai et selon les modalités indiqués au candidat sur la convocation à l'épreuve d'admission.
+Il doit être adressé au jury préalablement à l'épreuve, dans le délai et selon les modalités définis dans l'arrêté d'ouverture du concours
 
 La phase pédagogique débute par un exposé du candidat portant sur le projet ou les travaux figurant dans le dossier. Les examinateurs peuvent inviter le candidat à orienter son exposé sur un ou plusieurs aspects particuliers du dossier.
 

@@ -24,9 +24,9 @@ Chacune des parties devra être dactylographiée en Arial 11, interligne simple,
 
 - sans retrait en début de paragraphe.
 
-A son dossier le candidat joint, sur support papier, un ou deux exemples de documents ou de travaux réalisés dans le cadre de la situation décrite et qu'il juge utile de porter à la connaissance du jury. Ces documents doivent comporter un nombre de pages raisonnables, qui ne sauraient excéder dix pages pour l'ensemble des deux exemples. Le jury se réserve le droit de ne pas prendre en considération les documents d'un volume supérieur.
+A son dossier le candidat joint un ou deux exemples de documents ou de travaux réalisés dans le cadre de la situation décrite et qu'il juge utile de porter à la connaissance du jury. Ces documents doivent comporter un nombre de pages raisonnables, qui ne sauraient excéder dix pages pour l'ensemble des deux exemples. Le jury se réserve le droit de ne pas prendre en considération les documents d'un volume supérieur.
 
-L'authenticité des éléments dont il est fait état dans la seconde partie du dossier doit être attestée par le chef d'établissement auprès duquel le candidat exerce ou a exercé les fonctions décrites. Les critères d'appréciation du jury porteront sur :
+Le candidat atteste sur l'honneur de l'authenticité de toutes les informations figurant dans son dossier. Les critères d'appréciation du jury porteront sur :
 
 - la pertinence du choix de la situation décrite ;
 
@@ -55,3 +55,5 @@ Dix minutes maximum pourront être réservées, lors de l'entretien, à un écha
 L'épreuve du concours fait appel à des connaissances s'inscrivant notamment dans le cadre d'une bibliographie publiée sur le site internet du ministère chargé de l'éducation nationale et renouvelable partiellement chaque année.
 
 La maîtrise de la langue est prise en compte dans la notation de l'épreuve.
+
+Le candidat transmet son dossier au jury suivant les modalités fixées par l'arrêté d'ouverture du concours.

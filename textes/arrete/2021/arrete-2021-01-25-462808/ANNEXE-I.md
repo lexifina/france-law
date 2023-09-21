@@ -786,7 +786,7 @@ L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est é
 
 Traduction de deux textes de langues anciennes, grecque et latine.
 
-Les candidats rendent deux copies séparées. Chaque partie compte pour moitié de la notation.
+Chaque traduction est appréciée pour moitié dans la notation.
 
 Durée : cinq heures.
 
@@ -1355,7 +1355,3 @@ Cette épreuve est présentée à l'article 8 du présent arrêté.
 L'épreuve est notée sur 20. La note 0 est éliminatoire.
 
 Durée : trente-cinq minutes ; coefficient 3.
-
-NOTA :
-
-Conformément à l’article 10 de l’arrêté du 10 août 2022 (MENH2217762A), ces dispositions prennent effet le 1er septembre 2022.

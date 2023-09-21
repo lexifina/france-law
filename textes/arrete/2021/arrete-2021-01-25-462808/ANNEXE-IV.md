@@ -20,9 +20,9 @@ Chacune des parties devra être dactylographiée en Arial 11, interligne simple,
 
 - sans retrait en début de paragraphe.
 
-A son dossier, le candidat joint, sur support papier, un ou deux exemples de documents ou de travaux réalisés dans le cadre de la situation décrite et qu'il juge utile de porter à la connaissance du jury. Ces documents doivent comporter un nombre de pages raisonnables, qui ne sauraient excéder dix pages pour l'ensemble des deux exemples. Le jury se réserve le droit de ne pas prendre en considération les documents d'un volume supérieur.
+A son dossier, le candidat joint un ou deux exemples de documents ou de travaux réalisés dans le cadre de la situation décrite et qu'il juge utile de porter à la connaissance du jury. Ces documents doivent comporter un nombre de pages raisonnables, qui ne sauraient excéder dix pages pour l'ensemble des deux exemples. Le jury se réserve le droit de ne pas prendre en considération les documents d'un volume supérieur.
 
-L'authenticité des éléments dont il est fait état dans la seconde partie du dossier doit être attestée par le chef d'établissement auprès duquel le candidat exerce ou a exercé les fonctions décrites. Les critères d'appréciation du jury porteront sur :
+Le candidat atteste sur l'honneur de l'authenticité de toutes les informations figurant dans son dossier. Les critères d'appréciation du jury porteront sur :
 
 - la pertinence du choix de l'activité décrite ;
 
@@ -37,5 +37,7 @@ L'authenticité des éléments dont il est fait état dans la seconde partie du 
 - la qualité de l'expression et la maîtrise de l'orthographe et de la syntaxe.
 
 Coefficient 1.
+
+Le candidat transmet son dossier au jury suivant les modalités fixées par l'arrêté d'ouverture du concours.
 
 Nota. - Pendant l'épreuve d'admission, dix minutes maximum pourront être réservées, lors de l'entretien, à un échange sur le dossier de RAEP, qui reste, à cet effet, à la disposition du jury.
