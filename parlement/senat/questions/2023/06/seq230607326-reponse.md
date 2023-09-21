@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607326
+
+- Question : [SEQ230607326](seq230607326.md) — Simplifier la reconnaissance anticipée de filiation pour les couples de femmes françaises à l'étranger
+
+## Réponse
+
+*Commerce extérieur, attractivité et Français de l'étranger, JO du 2023-09-21, page 5545*
+
+La loi n° 2021-1017 du 2 août 2021 relative à la bioéthique, dont l'article 1er a étendu l'accès à l'assistance médicale à la procréation (AMP) aux couples de femmes et aux femmes seules non mariées, a prévu, en son article 6, un nouveau mode d'établissement de la filiation : la reconnaissance conjointe anticipée devant un notaire français, faite concomitamment au consentement donné à l'assistance médicale à la procréation. Cette disposition sécurise l'établissement du lien de filiation à l'égard de la femme qui n'a pas accouché (articles 342-11 et 342-12 du code civil), puisqu'elle permet à deux mères d'être indiquées en qualité sur l'acte de naissance de l'enfant lorsqu'elles déclarent la naissance de celui-ci et de contourner ainsi un problème de conflit de filiation, évitant à la mère qui n'a pas accouché d'avoir recours à l'adoption. Bien que de telles reconnaissances anticipées ne puissent plus être reçues dans les postes consulaires qui n'exercent plus de fonctions notariales depuis le 1er janvier 2019, les ressortissantes françaises domiciliées hors de France ont la faculté de les souscrire par procuration authentique auprès d'un notaire en France, sans avoir à se déplacer. À défaut d'une reconnaissance conjointe anticipée, établie avant toute réalisation d'assistance médicale à la procréation, la procédure d'adoption reste le seul mode d'établissement possible de la filiation à l'égard de la mère qui n'a pas accouché. Cette procédure est ouverte aux couples non mariés depuis la loi n° 2022-219 du 21 février 2022 visant à réformer l'adoption.
