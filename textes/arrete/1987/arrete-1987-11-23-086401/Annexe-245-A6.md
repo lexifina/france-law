@@ -2,7 +2,7 @@
 
 FICHE DE RENSEIGNEMENTS TECHNIQUES POUR LES NAVIRES INTRACOMMUNAUTAIRES
 
-(En application de l'article 245-1.03, alinéa 2, de la division 245)
+(en application de l'article 245-1.03 alinéa 2 de la division 245)
 
 Les informations demandées sont nécessaires à l'immatriculation.
 
@@ -12,14 +12,20 @@ Modèle (*) :
 
 Type de navire :
 
+Fabricant :
+
 Année de construction :
 
-Longueur HT : m
+Matériau de construction :
 
-Largeur HT : m
+Longueur HT : m Largeur HT : m
 
-Matériau :
+Surface de voile ISO (*) (si voilier) : m2
+
+Puisssance maximale recommandée : kW Puissance installée : kW
 
 Nombre de personnes autorisées à bord :
 
-(*) S'il s'agit d'une construction amateur, mettre "Amateur" à la place de la marque et du modèle.
+(*) S'il s'agit d'une construction amateur, mettre “ Amateur ” à la place de la marque et du modèle.
+
+(*) Norme EN ISO 8666.

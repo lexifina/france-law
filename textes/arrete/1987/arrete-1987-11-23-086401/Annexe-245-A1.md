@@ -1,18 +1,18 @@
 # Article Annexe 245-A.1
 
-ATTESTATION DE CONFORMITÉ D'UN NAVIRE DE PLAISANCE HORS MARQUAGE "CE " CONSTRUIT CONFORMÉMENT AUX DISPOSITIONS DE LA DIVISION 245 DU RÈGLEMENT RELATIF À LA SÉCURITÉ DES NAVIRES
+ATTESTATION DE CONFORMITÉ D'UN NAVIRE DE PLAISANCE HORS MARQUAGE " CE " CONSTRUIT CONFORMÉMENT AUX DISPOSITIONS DE LA DIVISION 245 DU RÈGLEMENT RELATIF À LA SÉCURITÉ DES NAVIRES
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0201 du 01/09/2015, texte nº 4 à l'adresse suivante
+Vous pouvez consulter l'image dans le fac-similé du JO n º 0201 du 01/09/2015, texte n º 4 à l'adresse suivante
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150901&numTexte=4&pageDebut=15408&pageFin=15431
+http :// www. legifrance. gouv. fr/ jopdf/ common/ jo _ pdf. jsp ? numJO = 0 & dateJO = 20150901 & numTexte = 4 & pageDebut = 15408 & pageFin = 15431
 
-ATTESTATION DE CONFORMITÉ D'UN NAVIRE DE PLAISANCE HORS MARQUAGE "CE"
+ATTESTATION DE CONFORMITÉ D'UN NAVIRE DE PLAISANCE HORS MARQUAGE " CE "
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0201 du 01/09/2015, texte nº 4 à l'adresse suivante
+Vous pouvez consulter l'image dans le fac-similé du JO n º 0201 du 01/09/2015, texte n º 4 à l'adresse suivante
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150901&numTexte=4&pageDebut=15408&pageFin=15431
+http :// www. legifrance. gouv. fr/ jopdf/ common/ jo _ pdf. jsp ? numJO = 0 & dateJO = 20150901 & numTexte = 4 & pageDebut = 15408 & pageFin = 15431
 
-NOTICE DE REMPLISSAGE DE LA DÉCLARATION DE CONFORMITÉ D'UN NAVIRE DE PLAISANCE HORS MARQUAGE "CE", MIS EN SERVICE CONFORMÉMENT AUX DISPOSITIONS DE LA DIVISION 245 DU RÈGLEMENT RELATIF À LA SÉCURITÉ DES NAVIRES
+NOTICE DE REMPLISSAGE DE LA DÉCLARATION DE CONFORMITÉ D'UN NAVIRE DE PLAISANCE HORS MARQUAGE " CE ", MIS EN SERVICE CONFORMÉMENT AUX DISPOSITIONS DE LA DIVISION 245 DU RÈGLEMENT RELATIF À LA SÉCURITÉ DES NAVIRES
 
 1. Rayer les mentions inutiles (M./ Mme), nom de famille en majuscules, prénoms
 
@@ -62,13 +62,13 @@ NOTICE DE REMPLISSAGE DE LA DÉCLARATION DE CONFORMITÉ D'UN NAVIRE DE PLAISANCE
 
 24. Cochez cette case si le navire n'est pas un voilier, mais qu'il n'est pas exclusivement mu par l'énergie humaine, au sens de l'article 245-1.02.
 
-25. Puissance exprimée en kW, et mesurée selon la norme EN ISO 8665.
+25. Puissance exprimée en kW, et mesurée selon la norme NF EN ISO 8665.
 
 26. Surface de voile As, au sens de l'article 240-1.02 ou de la division 110 du présent règlement.
 
-27. Longueur mesurée selon la norme EN ISO 8666.
+27. Longueur mesurée selon la norme NF EN ISO 8666.
 
-28. Largeur maximale mesurée selon la norme EN ISO 8666.
+28. Largeur maximale mesurée selon la norme NF EN ISO 8666.
 
 29. Nombre maximal de personnes embarquées au sens de l'article 245-4.08.
 

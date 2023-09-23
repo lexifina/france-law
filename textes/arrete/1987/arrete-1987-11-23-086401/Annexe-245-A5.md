@@ -6,7 +6,7 @@ DIAMÈTRE DES DRAINS DE VIDANGE, EN FONCTION DE TREF ET DE LA DISPOSITION TYPE D
 
 Les calculs du tableau sont simplifiés et légèrement conservateurs. Le temps de vidange entre le cockpit plein et une hauteur restante de 0,05 m est de 3 minutes. Les calculs considèrent que les entrées et sorties des drains ont des bords arrondis sans grille à trous et que les tuyauteries de vidanges sont lisses et droites.
 
-Pour des calculs plus précis voir la norme EN ISO 11812.
+Pour des calculs plus précis voir la norme NF EN ISO 11812.
 
 DIAMÈTRE DES DRAINS D (MM) (CALCUL POUR 2 DRAINS)
 
