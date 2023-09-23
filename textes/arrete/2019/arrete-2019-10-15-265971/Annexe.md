@@ -1,6 +1,6 @@
 # Article Annexe
 
-PROGRAMMES DES ÉPREUVES AUX CONCOURS D'ENTRÉE À L'ÉCOLE NATIONALE SUPÉRIEURE DE LA SÉCURITÉ SOCIALE
+PROGRAMMES DES ÉPREUVES AUX CONCOURS D'ENTRÉE À L'ÉCOLE NATIONALE SUPÉRIEURE DE SÉCURITÉ SOCIALE
 
 DROIT PUBLIC
 
@@ -182,7 +182,7 @@ SCIENCES ÉCONOMIQUES
 
 -définition de l'équilibre concurrentiel ;
 
--équilibre et optimum de Pareto : les deux théorèmes de l'économie du bien-être.
+-équilibre et optimum de Pareto : les deux théorèmes de l'économie du bienêtre.
 
 2.4. La concurrence imparfaite
 
@@ -232,7 +232,7 @@ L'objectif de l'épreuve est de vérifier les aptitudes du candidat à :
 
 L'étude de cas, adaptée à la durée de l'épreuve, est constituée :
 
--de la description d'une mise en situation professionnelle explicitant les attendus vis-à-vis du candidat ;
+-de la description d'une mise en situation professionnelle explicitant les attendus visàvis du candidat ;
 
 -de la présentation du contexte relatif à cette mise en situation ;
 
@@ -510,67 +510,101 @@ DROIT DU TRAVAIL
 
 -le rôle de l'Etat et de la région.
 
-GESTION COMPTABLE ET FINANCIÈRE DES ENTREPRISES
+GESTION COMPTABLE ET ANALYSE FINANCIÈRE
 
-1. Comptabilité
+I.-Comptabilité générale
 
-1.1. Comptabilité générale et financière
+1.1. Généralités
 
--objet et principes de la comptabilité ;
+-l'objet de la comptabilité ;
 
--règles de comptabilisation et d'évaluation, normes comptables ;
+-les principes comptables ;
 
--tenue, structure et fonctionnement des comptes ;
+-les sources du droit comptable et les normes comptables IFRS.
 
--documents de synthèse : bilan, compte de résultat, annexe, tableau de financement ;
+1.2. La tenue, la structure et le fonctionnement des comptes
 
--les comptes consolidés.
+-organisation de la comptabilité (les comptes et la notion de plan comptable, la comptabilité en partie double, les livres de comptabilité et leur tenue, le système centralisateur) ;
 
-1.2. Comptabilité de gestion
+-plan de comptes (cadre comptable, classification des comptes, fonctionnement des comptes).
 
--système d'information et outils d'aide à la décision ;
+1.3. L'activité de l'entreprise
 
--bases conceptuelles du calcul des coûts : activités, processus, ressources, performances ;
+-les produits et les créances d'exploitation ;
 
--méthodes de calcul des coûts : analyse en coûts partiels, coûts complets, coûts préétablis, imputation rationnelle.
+-les charges et les dettes d'exploitation ;
 
-2. Contrôle de gestion
+-la TVA ;
 
--problématique du contrôle dans les organisations ;
+-les opérations financières ;
 
--la démarche prévisionnelle : stratégie, plans, budgets ;
+-les opérations hors exploitation et exceptionnelles ;
 
--évaluation des résultats et des performances ;
+-les opérations de trésorerie et les états de rapprochement ;
 
--conception et réalisation des dispositifs de pilotage et de contrôle.
+-les stocks.
 
-3. Finance
+1.4. Les investissements
 
-3.1. Théorie et problématique financières
+-règles générales de comptabilisation des actifs et des passifs ;
 
--création de valeur ;
+-les acquisitions et cessions d'immobilisation ;
 
--coût et risque des décisions de financement.
+-le financement des investissements.
 
-3.2. Analyse financière
+1.5. Les travaux d'inventaire
 
--mesure de la rentabilité et du risque ;
+-objet de l'inventaire et modalités de mise en œuvre ;
 
--méthodologie du diagnostic ;
+-règles générales d'évaluation des actifs ;
 
--évaluation des entreprises.
+-passifs et stocks ; ajustement annuel des charges, produits et stocks ;
 
-3.3. Gestion financière
+-amortissements ;
 
--environnement financier de l'entreprise ;
+-provisions et dépréciations.
 
--gestion des investissements et des financements à long et à moyen termes ;
+1.6. Les opérations spécifiques
 
--gestion financière du court terme ;
+-la détermination et l'affectation du résultat ;
 
--gestion de la trésorerie ;
+-la comptabilisation de l'impôt sur les sociétés ;
 
--gestion dans le cadre international.
+-les augmentations de capital.
+
+1.7. Les documents de synthèse
+
+-règles d'établissement et de présentation des documents de synthèse ;
+
+-le compte de résultat, le bilan, l'annexe.
+
+1.8. La comptabilité de gestion
+
+-les différents types de coûts (achat, production, distribution, revient) ;
+
+-les différentes catégories de charges (fixes, variables) ;
+
+-le seuil de rentabilité ;
+
+-l'imputation rationnelle des charges fixes ;
+
+-le coût marginal.
+
+II.-Analyse financière
+
+2.1. Les soldes intermédiaires de gestion, la capacité d'autofinancement et les ratios de gestion
+
+2.2. L'analyse rétrospective des comptes
+
+-les tableaux des flux de fonds ;
+
+-les tableaux des flux de trésorerie.
+
+2.3. La gestion prévisionnelle
+
+-le plan de financement ;
+
+-le plan de trésorerie.
 
 SCIENCE POLITIQUE
 
@@ -638,11 +672,11 @@ SCIENCE POLITIQUE
 
 -groupes d'intérêts, ressortissants de l'action publique ;
 
--pouvoir local, politiques locales, relations centre-périphérie ;
+-pouvoir local, politiques locales, relations centrepériphérie ;
 
 -Union européenne, mondialisation, globalisation ;
 
--politiques sociales, Etat-providence ;
+-politiques sociales, Etat providence ;
 
 -protection sociale, démocratie sociale, citoyenneté sociale, paritarisme, syndicats ;
 
@@ -662,7 +696,7 @@ STATISTIQUES
 
 -caractéristiques de valeur centrale : moyenne, médiane, quartiles, mode ou classe modale ;
 
--caractéristiques de dispersion : variance, écart-type, écart-interquartile, étendue, écart moyen ;
+-caractéristiques de dispersion : variance, écarttype, écartinterquartile, étendue, écart moyen ;
 
 -caractéristiques de forme : coefficients d'aplatissement de Fisher et de Pearson, coefficients d'asymétrie de Fisher et de Pearson ;
 
@@ -684,9 +718,9 @@ STATISTIQUES
 
 -lois de probabilité à une variable discrète : loi uniforme, loi binominale, loi de Poisson, loi hypergéométrique ;
 
--lois de probabilité à une variable continue : loi uniforme, loi normale, loi de Fisher, loi de Student, loi du Chi-deux, loi log normale ;
+-lois de probabilité à une variable continue : loi uniforme, loi normale, loi de Fisher, loi de Student, loi du Chideux, loi log normale ;
 
--lois de probabilité à plusieurs variables.
+- lois de probabilité à plusieurs variables.
 
 3. Statistique inductive
 
@@ -714,7 +748,7 @@ STATISTIQUES
 
 SANTÉ PUBLIQUE
 
-1. Comment apprecié-t-on la santé en France ? Quelle évaluation peut-on en faire et comment ?
+1. Comment apprécie-t-on la santé en France ? Quelle évaluation peut-on en faire et comment ?
 
 -définition de la santé ;
 
@@ -776,7 +810,7 @@ SANTÉ PUBLIQUE
 
 2.5. Planification sanitaire et plans de santé publique
 
--le Projet régional de santé et les schémas régionaux et inter-régionaux ;
+-le projet régional de santé et les schémas régionaux et inter-régionaux ;
 
 -les autorisations d'activité ;
 
