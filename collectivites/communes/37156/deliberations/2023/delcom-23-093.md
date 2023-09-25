@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_093 — DELIBERATION 2023-93 CHANGEMENT DINSTRUCTION COMPTABLE PASSAGE A LA M57
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-09-25
+- Matière : 7.10 Finances locales/Divers
+- Objet : DELIBERATION 2023-93 CHANGEMENT DINSTRUCTION COMPTABLE PASSAGE A LA M57
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/9fc6fcb9b540792a5b0249d25bd842728681fd0cdbd81897644723297e0d9f42.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
