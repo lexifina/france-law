@@ -18,7 +18,7 @@ suppléant |
 
 MEMBRES |
 
-Le directeur des personnels militaires de la gendarmerie nationale. |
+Le directeur des ressources humaines de la gendarmerie nationale. |
 
 Le directeur adjoint des personnels militaires de la gendarmerie nationale. |
 

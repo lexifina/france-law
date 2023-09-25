@@ -36,7 +36,7 @@ Le major général de la gendarmerie nationale. |
 
 Le commandant des écoles de la gendarmerie nationale. |
 
-Le directeur des personnels militaires de la gendarmerie nationale |
+Le directeur des ressources humaines de la gendarmerie nationale |
 
 Le sous-directeur du personnel officier. |
 

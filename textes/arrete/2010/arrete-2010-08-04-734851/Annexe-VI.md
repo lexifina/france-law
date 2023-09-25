@@ -40,7 +40,7 @@ Le sous-directeur du personnel officier, ou son représentant. |
 
 Le chef du bureau du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale, ou son représentant. |
 
-Un officier supérieur du corps technique et administratif de la gendarmerie nationale désigné par le directeur des personnels militaires de la gendarmerie nationale. |
+Un officier supérieur du corps technique et administratif de la gendarmerie nationale désigné par le directeur des ressources humaines de la gendarmerie nationale. |
 
 Un officier supérieur de l'inspection générale des armées-gendarmerie. |
 

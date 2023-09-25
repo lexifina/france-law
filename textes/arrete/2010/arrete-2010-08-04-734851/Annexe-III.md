@@ -38,7 +38,7 @@ L'officier adjoint commandement de la région, ou à défaut, l'officier le plus
 
 Gendarmerie de l'air. |
 
-Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des personnels militaires de la gendarmerie nationale. |
+Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des ressources humaines de la gendarmerie nationale. |
 
 L'officier supérieur le plus ancien dans le grade le plus élevé d'une division. |
 
@@ -50,7 +50,7 @@ Le commandant de la section de recherches ou le commandant de la section de rech
 
 Gendarmerie maritime. |
 
-Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des personnels militaires de la gendarmerie nationale. |
+Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des ressources humaines de la gendarmerie nationale. |
 
 L'officier supérieur le plus ancien dans le grade le plus élevé d'une division. |
 
@@ -62,7 +62,7 @@ Le commandant de la section de recherches ou le commandant de la section de rech
 
 Gendarmerie des transports aériens. |
 
-Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des personnels militaires de la gendarmerie nationale. |
+Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des ressources humaines de la gendarmerie nationale. |
 
 L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major. |
 
@@ -74,11 +74,11 @@ Le commandant de la section de recherches ou le commandant de la section de rech
 
 Gendarmerie de l'armement. |
 
-Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des personnels militaires de la gendarmerie nationale. |
+Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des ressources humaines de la gendarmerie nationale. |
 
 L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major. |
 
-Deux officiers supérieurs de la branche considérée, à défaut, désignés par le directeur des personnels militaires de la gendarmerie nationale. |
+Deux officiers supérieurs de la branche considérée, à défaut, désignés par le directeur des ressources humaines de la gendarmerie nationale. |
 
 2. Branches de la subdivision d'arme de la gendarmerie mobile :
 
@@ -164,15 +164,15 @@ Les commandants des écoles de la gendarmerie nationale, les commandants des cen
 
 Organismes centraux, branche administrative et technique. |
 
-Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des personnels militaires de la gendarmerie nationale. |
+Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des ressources humaines de la gendarmerie nationale. |
 
-Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des personnels militaires de la gendarmerie nationale. |
+Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des ressources humaines de la gendarmerie nationale. |
 
 Cinq officiers supérieurs désignés par le commandant du soutien opérationnel de la gendarmerie nationale.
 
 Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale de sécurité, commandement de la gendarmerie dans le cyberespace, commandement spécialisé pour la sécurité nucléaire, commandement de la gendarmerie pour les réserves et la jeunesse, service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, commandement pour l'environnement et la santé).
 
-Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale. |
+Ces membres sont désignés par le directeur des ressources humaines de la gendarmerie nationale. |
 
 Organismes centraux, branche secrétariat. |
 
@@ -180,13 +180,13 @@ Le sous-directeur de la gestion du personnel. |
 
 L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
-Trois officiers supérieurs appartenant respectivement à la direction des opérations et de l'emploi, à la direction des personnels militaires de la gendarmerie nationale et à la direction des soutiens et des finances.
+Trois officiers supérieurs appartenant respectivement à la direction des opérations et de l'emploi, à la direction des ressources humaines de la gendarmerie nationale et à la direction des soutiens et des finances.
 
 Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service des technologies et des systèmes d'information de la sécurité intérieure, service d'information et de relations publiques des armées-gendarmerie, service de la transformation).
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
 
-Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale. |
+Ces membres sont désignés par le directeur des ressources humaines de la gendarmerie nationale. |
 
 Organismes centraux, branche formations extérieures. |
 
@@ -196,7 +196,7 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. 
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
 
-Le commandant de chaque formation concernée ou un officier supérieur de la gendarmerie nationale par formation concernée comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur. Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale. |
+Le commandant de chaque formation concernée ou un officier supérieur de la gendarmerie nationale par formation concernée comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur. Ces membres sont désignés par le directeur des ressources humaines de la gendarmerie nationale. |
 
 Personnel servant au sein du groupe d'intervention de la gendarmerie nationale. |
 
@@ -258,4 +258,4 @@ Le sous-directeur de la gestion du personnel. |
 
 L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
-Un officier supérieur de la direction générale de la gendarmerie nationale et un officier désigné comme conseiller pour la spécialité considérée désignés tous deux par le directeur des personnels militaires de la gendarmerie nationale. |
+Un officier supérieur de la direction générale de la gendarmerie nationale et un officier désigné comme conseiller pour la spécialité considérée désignés tous deux par le directeur des ressources humaines de la gendarmerie nationale. |

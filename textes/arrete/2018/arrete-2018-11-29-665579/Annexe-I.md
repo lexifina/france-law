@@ -812,7 +812,7 @@ Responsable des ressources humaines, adjoint au secrétaire général |
 
 Direction générale de la gendarmerie nationale |
 
-Chef du bureau du personnel civil à la sous-direction de la gestion du personnel de la direction des personnels militaires de la gendarmerie nationale |
+Chef du bureau du personnel civil à la sous-direction de la gestion du personnel de la direction des ressources humaines de la gendarmerie nationale |
 
 60 |
 
@@ -828,7 +828,7 @@ Chargé de mission auprès du chef du service de la transformation |
 
 - |
 
-Chef du bureau de la reconversion et de la transition professionnelle à la sous-direction de l'accompagnement du personnel de la direction des personnels militaires de la gendarmerie nationale |
+Chef du bureau de la reconversion et de la transition professionnelle à la sous-direction de l'accompagnement du personnel de la direction des ressources humaines de la gendarmerie nationale |
 
 30 |
 
@@ -942,9 +942,9 @@ Secrétaire général |
 
 - |
 
-1 |
+12 |
 
-2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur
+° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur
 
 Directions
 
@@ -1186,9 +1186,9 @@ Directeur des ressources humaines |
 
 - |
 
-1 |
+13 |
 
-3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
+° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
 
 Directions
 
@@ -1562,9 +1562,9 @@ Secrétaire général chargé du pilotage transversal et de coordination au sein
 
 - |
 
-1 |
+14 |
 
-4° Périmètre services de police nationale
+° Périmètre services de police nationale
 
 Directions
 
@@ -1864,9 +1864,9 @@ Chef de la division de l'administration et des finances |
 
 - |
 
-1 |
+15 |
 
-5° Périmètre services de gendarmerie nationale
+° Périmètre services de gendarmerie nationale
 
 Directions et services |
 
@@ -2056,9 +2056,9 @@ Chef du bureau soutien finances |
 
 - |
 
-1 |
+16 |
 
-6° Périmètre juridictions administratives
+° Périmètre juridictions administratives
 
 Juridiction
 
@@ -2268,9 +2268,9 @@ Greffier en chef |
 
 - |
 
-1 |
+17 |
 
-7° Périmètre préfectures
+° Périmètre préfectures
 
 Localisation des emplois |
 

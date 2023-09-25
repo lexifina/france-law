@@ -12,7 +12,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de fonction auprès du commandement de la direction des opérations et de l'emploi (1 emploi) ;
 
--chargé de fonction auprès du commandement de la direction des personnels militaires de la gendarmerie nationale (2 emplois) ;
+-chargé de fonction auprès du commandement de la direction des ressources humaines de la gendarmerie nationale (2 emplois) ;
 
 2° Inspection générale de la gendarmerie nationale :
 

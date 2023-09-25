@@ -20,7 +20,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de mission auprès de l'inspecteur général des armées-gendarmerie (1 emploi) ;
 
--chargé de mission auprès du directeur des personnels militaires de la gendarmerie nationale (3 emplois) ;
+-chargé de mission auprès du directeur des ressources humaines de la gendarmerie nationale (3 emplois) ;
 
 -chargé de mission auprès du directeur des opérations et de l'emploi (9 emplois) ;
 
@@ -38,7 +38,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de mission auprès du commandement de la gendarmerie dans le cyberespace (2 emplois) ;
 
--chargé de fonction auprès du directeur des personnels militaires de la gendarmerie nationale (1 emploi) ;
+-chargé de fonction auprès du directeur des ressources humaines de la gendarmerie nationale (1 emploi) ;
 
 -chargé de fonction auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (2 emplois) ;
 
