@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_112 — DELIBERATION 2023-112 DENOMINATION DU SENTIER ADAPTE AUX PERSONNES A MOBILITE REDUITE : SENTIER LILIANE FIGUE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-09-25
+- Matière : 3.5 Domaine et patrimoine/Autres actes de gestion du domaine public
+- Objet : DELIBERATION 2023-112 DENOMINATION DU SENTIER ADAPTE AUX PERSONNES A MOBILITE REDUITE : SENTIER LILIANE FIGUE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/d45e44444c9f2227e8802c4d2852e4e1ae451b60cb16423fe8f0078d2b63055b.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
