@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_116 — DELIBERATION 2023-116 SUBVENTIONS AUX ASSOCIATIONS POUR LANNEE 2023 COMPLEMENT
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-09-25
+- Matière : 7.5 Finances locales/Subventions
+- Objet : DELIBERATION 2023-116 SUBVENTIONS AUX ASSOCIATIONS POUR LANNEE 2023 COMPLEMENT
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/3411beb55edae0b1142cc55be0eb6632c1fdbd3659fb01d7471532e878e755b7.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
