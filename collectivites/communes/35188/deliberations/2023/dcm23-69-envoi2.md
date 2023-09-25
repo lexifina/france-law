@@ -1,0 +1,11 @@
+# COMMUNE DE MONTFORT SUR MEU : délibération DCM23_69_ENVOI2 — DCM23_69 - SERVICE DE LASSAINISSEMENT  RAPPORT ANNUEL DU DELEGATAIRE EXERCICE 2022
+
+- Collectivité : COMMUNE DE MONTFORT SUR MEU
+- SIRET : 21350188500015
+- Code INSEE : 35188
+- Date : 2023-09-25
+- Matière : 5.2 Institutions et vie politique/Fonctionnement des assemblees
+- Objet : DCM23_69 - SERVICE DE LASSAINISSEMENT  RAPPORT ANNUEL DU DELEGATAIRE EXERCICE 2022
+- Transmis à la préfecture : 2023-10-06 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213501885/Deliberation/2023/490833/b49fb5bc3d8c138deea075196ee87471806c26aa98c7a623b383e79e50e3af88.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
