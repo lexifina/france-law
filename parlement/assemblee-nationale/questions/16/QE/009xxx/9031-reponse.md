@@ -1,0 +1,9 @@
+# Réponse à la question n° 9031
+
+- Question : [9031](9031.md) — Question n° 9031 — Publication liste positive prévue par la loi n° 2021-1539
+
+## Réponse
+
+*JO du 2023-09-26, page 8525*
+
+La loi n° 2021-1539 du 30 novembre 2021 visant à lutter contre la maltraitance animale et conforter le lien entre les animaux et les hommes prévoit, en son article 14, la création d'une liste nationale, dite liste positive, précisant les espèces animales non domestiques que peuvent détenir les particuliers et les élevages d'agrément. L'objectif principal d'une telle liste est d'éviter que ces derniers puissent détenir des espèces difficiles à élever, considérées comme dangereuses ou faisant l'objet de trafic. Règlementairement, la liste positive sera fixée à l'occasion de la révision de l'arrêté du 8 octobre 2018 fixant les règles générales de détention d'animaux d'espèces non domestiques. Avant d'être publiée, cette liste sera soumise à la consultation de différentes instances règlementaires : la commission nationale consultative pour la faune sauvage captive, le conseil national de la protection de la nature, le conseil national de la chasse et de la faune sauvage, ainsi qu'à la consultation du public. La Commission nationale consultative pour la faune sauvage captive est consultée en septembre sur un projet d'arrêté. Les autres consultations suivront avec un objectif de publication avant la fin de l'année. Une révision régulière de la liste positive fondée sur des données scientifiques récentes et fiables sera conduite par le ministre chargé de l'environnement tous les trois ans. En outre, toute personne physique ou morale pourra demander la mise à l'étude de l'inscription ou du retrait d'une espèce animale non domestique. Cela permettra à ladite liste une adaptation constante aux connaissances scientifiques relatives à la faune sauvage captive.
