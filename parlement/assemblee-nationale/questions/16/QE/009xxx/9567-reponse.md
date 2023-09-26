@@ -1,0 +1,9 @@
+# Réponse à la question n° 9567
+
+- Question : [9567](9567.md) — Question n° 9567 — Fléchage des aides du plan « Vélo et marche 2023-2027 »
+
+## Réponse
+
+*JO du 2023-09-26, page 8611*
+
+Comme annoncé par la Première ministre lors du comité interministériel vélo et marche du 5 mai 2023 et afin de favoriser l'équipement des ménages et notamment des plus précaires, les aides à l'achat de vélo ont été pérennisées sur la durée du mandat présidentiel. Comme vous le soulignez, il est apparu utile, pour diminuer le reste à charge, d'ouvrir les aides à l'achat aux vélos d'occasion, ce qui a été annoncé au même comité interministériel et sera mis en place en 2024. Ces annonces font suite à une série d'élargissements des aides à l'achat vélo depuis 2020, notamment auprès des 20% des ménages les plus précaires. Les aides à l'achat sont, de fait, plus favorables pour les vélos à assistance électrique (VAE). En effet, le prix moyen d'un vélo classique est de 500 € contre 2000 € pour un VAE et le marché de l'occasion pour les vélos classiques rend celui-ci accessible pour de nombreux ménages. Il n'en reste pas moins que les évolutions à venir diminueront encore le reste à charge pour les ménages les plus précaires. Il faut souligner par ailleurs que le VAE a un impact largement positif. D'une part, il rend accessible le vélo à de nombreuses personnes qui se sentent limitées par leur capacité physique ou la topographie. D'autre part, selon l'Ademe, l'impact carbone d'un vélo à assistance électrique est de 11g de CO2/km, négligeable devant les émissions d'une voiture thermique (218g/km) ou électrique (103g/km). En outre, le VAE permet de parcourir de plus longs trajets et donc de concurrencer la voiture sur des trajets de l'ordre de 10 km. Enfin, une filière de responsabilité élargie des producteurs pour les vélos se met en place progressivement, permettant le reconditionnement et le recyclage.
