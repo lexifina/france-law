@@ -1,0 +1,9 @@
+# Réponse à la question n° 6924
+
+- Question : [6924](6924.md) — Question n° 6924 — Environnement - sauvegarde des banquettes de posidonie
+
+## Réponse
+
+*JO du 2023-09-26, page 8519*
+
+Le ministère travail sur un projet de nouvel arrêté fixant la liste des espèces végétales marines protégées sur l'ensemble du territoire national et les modalités de leur protection, et abrogeant l'arrêté du 19 juillet 1988 relatif à la liste des espèces végétales marines protégées. Il permettra principalement de compléter la liste d'espèces végétales marines protégées faisant passer le nombre d'espèces protégées de 2 à 36. Le régime actuel de protection de la posidonie, qui figure dans l'arrêté de 1988, interdit sa destruction mais ne prévoit pas d'interdiction de transport de cette espèce. Les opérations de transport des banquettes de posidonie sur les plages se déroulent donc actuellement sans encadrement particulier et ne sont pas interdites. Le nouvel arrêté interdira désormais le transport de tous les végétaux marins et pourrait donc entraver l'action des collectivités vertueuses qui respectent aujourd'hui les bonnes pratiques définies localement en matière de gestion des banquettes. Afin d'encourager la gestion durable des banquettes de posidonies, il est prévu que le nouvel arrêté relatif à la liste des espèces végétales marines protégées précise des régimes dérogatoires. L'intention du ministère est donc bien de protéger plus et mieux les banquettes de posidonies au regard de leur rôle écologique majeur pour le littoral méditerranéen et d'encourager les acteurs locaux ayant déjà adopté de bonnes pratiques localement. La confusion qui a pu naitre localement autour de ce projet d'arrêté quant aux intentions du ministère résultait certainement d'une rédaction maladroite, revue et clarifiée suite à la consultation du public.
