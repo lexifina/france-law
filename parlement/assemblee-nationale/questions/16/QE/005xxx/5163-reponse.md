@@ -1,0 +1,9 @@
+# Réponse à la question n° 5163
+
+- Question : [5163](5163.md) — Question n° 5163 — Evolution du cadre règlementaire des orthophonistes
+
+## Réponse
+
+*JO du 2023-09-26, page 8571*
+
+Au 1er janvier 2022, 24 000 orthophonistes exerçaient en France (chiffres de la direction de la recherche, des études, de l'évaluation et des statistiques), soit une augmentation de 24,6 % par rapport à l'année 2012. Outre cette évolution à la hausse du nombre de professionnels, des efforts importants ont été réalisés afin de faciliter l'accès aux soins et ce notamment par l'octroi de compétences supplémentaires. En effet, depuis 2016, l'orthophoniste est habilité à prescrire certains dispositifs médicaux parmi lesquels figurent les accessoires pour prothèses respiratoires ou les implants cochléaires. Il est également en mesure de renouveler la prescription de certains dispositifs. La liste des dispositifs pouvant être prescrits et renouvelés a été fixée par un arrêté de 2017. Toutefois, tout élargissement des actes pouvant être réalisés par un professionnel présuppose une réévaluation, voire une évolution, du référentiel de formation. Cette évolution pourra être, le cas échéant, interrogée à l'occasion de la prochaine réingénierie de la formation des orthophonistes. Les nasofibroscopie et vidéofluroscopie, sont réalisées à ce jour par les médecins ORL. Les substituts nicotiniques, quant à eux, ne rentrent pas dans la catégorie des dispositifs médicaux. Enfin, la loi du 19 mai 2023 portant amélioration de l'accès aux soins par la confiance aux professionnels de santé a ouvert l'accès direct aux orthophonistes exerçant en structures d'exercice coordonnées. Cette évolution importante pour la profession permet d'offrir un meilleur accès aux soins, en ouvrant la possibilité aux patients de bénéficier d'une prise en charge orthophonique sans prescription médicale préalable.
