@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607184
+
+- Question : [SEQ230607184](seq230607184.md) — Tests pour les conducteurs de la fonction publique
+
+## Réponse
+
+*Transformation et fonction publiques, JO du 2023-09-28, page 5670*
+
+L'article 3 du décret n° 2006-1691 du 22 décembre 2006 portant statut particulier du cadre d'emplois des adjoints techniques territoriaux précise que les adjoints techniques territoriaux peuvent « assurer la conduite de véhicules, dès lors qu'ils sont titulaires du permis de conduire approprié en état de validité. Ils ne peuvent toutefois se voir confier de telles missions qu'après avoir subi avec succès les épreuves d'un examen psychotechnique, ainsi que des examens médicaux appropriés ». Les agents techniques territoriaux chargés d'assurer la conduite d'un véhicule sont ainsi dans l'obligation de passer un examen psychotechnique. Cet examen, réalisé par un organisme agréé par le représentant de l'État dans le département, a pour objectif de vérifier la coordination et les réflexes psychomoteurs des candidats, conformément à l'article 3 de l'arrêté du 29 janvier 2007 fixant les conditions de déroulement de l'examen psychotechnique et des examens médicaux prévus à l'article 3 du décret n° 2006-1691 du 22 décembre 2006 portant statut particulier du cadre d'emplois des adjoints techniques territoriaux. Cet examen psychotechnique, qui comporte notamment un test d'attention, un test de perception visuelle, un test « réflexes », évalue les capacités sensorielles et cognitives du candidat nécessaires à la conduite en toute sécurité d'un véhicule. Ainsi, ces examens psychotechniques qui apportent une garantie supplémentaire à la seule détention du permis de conduire, apparaissent nécessaires, notamment lorsqu'il s'agit d'assurer la conduite de véhicules de transport en commun, comme les transports scolaires.
