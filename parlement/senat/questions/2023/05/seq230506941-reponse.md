@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230506941
+
+- Question : [SEQ230506941](seq230506941.md) — Conditions de demande d'un examen médical par un salarié
+
+## Réponse
+
+*Travail, plein emploi et insertion, JO du 2023-09-28, page 5674*
+
+L'article R. 4624-34 du code du travail prévoit « Indépendamment des examens d'aptitude à l'embauche et périodiques ainsi que des visites d'information et de prévention, le travailleur bénéficie, à sa demande ou à celle de l'employeur, d'un examen par le médecin du travail (…) et que cette demande « ne peut motiver aucune sanction ». L'article R. 4624-39 du code du travail prévoit par ailleurs que « Le temps nécessité par les visites et les examens médicaux, y compris les examens complémentaires, est soit pris sur les heures de travail des travailleurs sans qu'aucune retenue de salaire puisse être opérée, soit rémunéré comme temps de travail effectif lorsque ces examens ne peuvent avoir lieu pendant les heures de travail. Le temps et les frais de transport nécessités par ces visites et ces examens sont pris en charge par l'employeur ». Ces dispositions ont été complétées par le décret n° 2022-653 et son annexe, le c) du chapitre 3, dont les modalités d'élaboration ont été définies par la loi du 2 août 2021 pour renforcer la prévention en santé au travail qui a notamment transposé l'accord national interprofessionnel du 9 décembre 2020. La loi a ainsi prévu que cette annexe émane d'une délibération des partenaires sociaux et, en l'espèce, du Comité national de prévention en santé au travail (CNPST). Le décret a donc approuvé la délibération de ce comité en date du 1er avril 2022 Si des difficultés se posaient à l'avenir dans la mise en oeuvre de ce texte et particulièrement s'agissant du point soulevé, elles pourront être examinées par le ministère du travail, du plein emploi et de l'insertion, en lien avec les partenaires sociaux membres du CNPST.
