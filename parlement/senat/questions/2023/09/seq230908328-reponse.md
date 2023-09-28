@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230908328
+
+- Question : [SEQ230908328](seq230908328.md) — Conséquences et indemnisation suite à des coupures volontaires d'alimentation en eau potable
+
+## Réponse
+
+*Biodiversité, JO du 2023-09-28, page 5621*
+
+L'article L.1321-1B du Code de la santé publique indique que l'accès à l'eau potable dans les conditions décrites aux articles L.1321-1A et R.1321-1A du même code - c'est-à-dire un accès compris entre cinquante et cent litres d'eau par personne et par jour, à son domicile, dans son lieu de vie ou, à défaut, à proximité de ces derniers, et destiné à la consommation humaine suffisante pour répondre à ses besoins en boisson, en préparation et cuisson des aliments, en hygiène corporelle, en hygiène générale, ainsi que pour assurer la propreté de son domicile ou de son lieu de vie - peut être temporairement suspendu en cas de ruptures d'approvisionnement intervenant dans le cadre de la mise en oeuvre des mesures prévues par l'article L.742-2 du code de la sécurité intérieure (cas d'accident, sinistre ou catastrophe dont les conséquences peuvent dépasser les limites ou les capacités d'une commune). En dehors de ce cas, les situations de tension qui deviennent pérennes doivent être inclues dans la planification des collectivités pour répondre à ces situations, le droit d'accès à l'eau s'applique donc tel que prévu dans les textes susmentionnés. Il convient de rappeler que l'article R.2224-5-5 du Code général des collectivités territoriales (CGCT) indique que la fourniture via le réseau d'eau potable n'est pas la seule solution envisagée, puisque les collectivités peuvent accompagner les personnes disposant d'un accès insuffisant à l'eau vers l'utilisation de ressources alternatives. Concernant les acteurs économiques qui pourraient être impactés par les situations de coupure d'eau volontaire, le droit commun s'applique auxdites situations.
