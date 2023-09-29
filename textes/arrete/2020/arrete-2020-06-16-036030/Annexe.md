@@ -232,198 +232,6 @@ Du 1er juillet 2021 au 28 février 2023. |
 
 Opération :
 
-Transfert des missions fiscales vers la direction générale des finances publiques.
-
-Services concernés :
-
-- Direction interrégionale Antilles-Guyane
-
-Degrad d Cannes port bureau
-
-Fort de France port bureau
-
-Guadeloupe pôle comptable recette régionale
-
-Guyane recette régional
-
-La pointe-jarry port bureau
-
-Martinique pôle action économique
-
-Martinique recette régionale
-
-- Direction interrégionale Auvergne-Rhône-Alpes
-
-Grenoble bureau
-
-Lyon énergies inter
-
-Lyon pôle action économique
-
-Lyon recette interrégionale
-
-- Direction interrégionale Bourgogne-Franche-Comté-Centre-Val de Loire
-
-Dijon recette interrégionale
-
-Nevers bureau
-
-Tours bureau
-
-Vesoul bureau
-
-- Direction interrégionale Bretagne-Pays de la Loire
-
-Angers bureau
-
-Brest bureau
-
-Donges raffinerie
-
-La roche sur yon bureau
-
-Le mans bureau
-
-Lorient bureau
-
-Nantes recette interrégionale
-
-Rennes bureau
-
-- Direction Nationale du renseignement et des enquêtes douanières
-
-DNRED recette
-
-- Direction interrégionale du Grand Est
-
-Epinal bureau
-
-Metz recette interrégionale
-
-Mulhouse bureau
-
-Reims bureau
-
-SND2R
-
-Strasbourg énergies Grand Est
-
-Strasbourg pôle action économique
-
-Troyes bureau
-
-- Direction interrégionale des Hauts-de-France
-
-Dunkerque énergies bureau
-
-Dunkerque recette interrégionale
-
-Lesquin bureau
-
-Lille bureau
-
-Lille pôle action économique
-
-- Direction interrégionale d'Ile-de-France
-
-Gennevilliers bureau
-
-Grandpuits raffinerie
-
-Paris recette interrégionale
-
-Rungis bureau
-
-Service national des réglementations particulières
-
-Trappes bureau
-
-Trésorerie générale des douanes
-
-- Direction interrégionale de La Réunion
-
-Le port bureau
-
-Réunion recette régionale
-
-- Direction régionale de Mayotte
-
-Mayotte recette régionale
-
-- Direction interrégionale de Normandie
-
-Caen bureau
-
-Gonfreville raffinerie
-
-Le Havre antifer bureau
-
-Le Havre recette interrégionale
-
-Port Jérôme raffinerie
-
-Rouen Energies
-
-Rouen fiscalités bureau
-
-- Direction interrégionale de Nouvelle-Aquitaine
-
-Bayonne bureau
-
-Bordeaux Bassens port bureau
-
-Bordeaux recette interrégionale
-
-La Rochelle Pallice bureau
-
-Pau bureau
-
-- Direction interrégionale d'Occitanie
-
-Albi bureau
-
-Montauban bureau
-
-Montpellier bureau
-
-Montpellier recette interrégionale
-
-Port la nouvelle crd
-
-Sète bureau
-
-Toulouse portet bureau
-
-- Direction interrégionale de Paris aéroport
-
-Roissy recette interrégionale
-
-- Direction interrégionale Provence-Alpes-Côte d'Azur-Corse
-
-Avignon bureau
-
-Bastia port
-
-BSE port de Bouc
-
-Marseille port bureau
-
-Marseille recette interrégionale
-
-Nice port
-
-Port de Bouc énergies
-
-Toulon la Seyne bureau
-
-|
-
-Du 1er juillet 2022 au 30 juin 2025.
-
-|
-
-Opération :
-
 Transfert à la direction des affaires maritimes (DAM) de la mission de francisation du bureau de Papeete-Port.
 
 Service concerné :
@@ -513,3 +321,405 @@ Bureau de douane de Grandpuits raffinerie.
 |
 
 Du 1er mars 2023 au 31 octobre 2024 |
+
+Opération :
+
+Réorganisation de la BSI Paris Transmanche (BSITM)-externalisation de l'inspection filtrage des voyageurs et de leurs bagages en gare du Nord sur le lien fixe transmanche.
+
+Service concerné :
+
+Brigade de surveillance intérieure Transmanche (BSITM). |
+
+Du 1er septembre 2023 au 30 juin 2025 |
+
+Opération :
+
+Déménagement du bureau de douane de Dunkerque port.
+
+Service concerné :
+
+Dunkerque port bureau. |
+
+Du 1er juin 2023 au 31 août 2024 |
+
+Opération :
+
+Déménagement de la brigade de surveillance extérieure (BSE) de Dunkerque port.
+
+Service concerné :
+
+Dunkerque port BSE. |
+
+Du 1er juin 2023 au 31 août 2024 |
+
+Opération :
+
+Déménagement de la recette régionale de Mayotte.
+
+Service concerné :
+
+Mayotte recette régionale. |
+
+Du 1er mai 2023 au 31 juillet 2024 |
+
+Opération :
+
+Création d'un centre de gestion financière
+
+Services concernés :
+
+Service facturier douane (SFACT).
+
+Centre de services partagés (CSP) de Lyon. |
+
+Du 1er novembre 2023 au 31 octobre 2024 |
+
+Opération :
+
+Harmonisation des centres opérationnels douaniers maritimes (CODM).
+
+Services concernés :
+
+Centre de liaison inter-services (CLI) de Nantes.
+
+Cellule de recherche et d'orientation des contrôles maritime (CROC MAR) de Nantes. |
+
+Du 1er juillet 2023 au 30 juin 2024 |
+
+Opération :
+
+Transfert du recouvrement des amendes judiciaires.
+
+-Direction interrégionale d'Auvergne-Rhône-Alpes
+
+Lyon recette interrégionale
+
+-Direction interrégionale Bourgogne-Franche-Comté-Centre-Val de Loire
+
+Dijon recette interrégionale
+
+-Direction Nationale du renseignement et des enquêtes douanières
+
+DNRED recette
+
+-Direction interrégionale du Grand Est
+
+Metz recette interrégionale
+
+-Direction interrégionale des Hauts-de-France
+
+Dunkerque recette interrégionale
+
+-Direction régionale de La Réunion
+
+Réunion recette régionale
+
+-Direction interrégionale de Normandie
+
+Le Havre recette interrégionale
+
+-Direction interrégionale de Nouvelle Aquitaine
+
+Bordeaux recette interrégionale
+
+-Direction interrégionale d'Occitanie
+
+Montpellier recette interrégionale
+
+-Direction interrégionale de Provence-Alpes-Côte d'Azur-Corse
+
+Marseille recette interrégionale |
+
+Du 1er septembre 2023 au 31 décembre 2023 |
+
+Opération :
+
+Transfert du recouvrement des contributions indirectes.
+
+-Direction interrégionale d'Auvergne-Rhône-Alpes
+
+Lyon recette interrégionale
+
+-Direction interrégionale Bourgogne-Franche-Comté-Centre-Val de Loire
+
+Dijon recette interrégionale
+
+-Direction Nationale du renseignement et des enquêtes douanières
+
+DNRED recette
+
+-Direction interrégionale du Grand Est
+
+Metz recette interrégionale
+
+-Direction interrégionale des Hauts-de-France
+
+Dunkerque recette interrégionale
+
+-Direction interrégionale d'Ile-de-France
+
+Paris recette interrégionale
+
+-Direction régionale de La Réunion
+
+Réunion recette régionale
+
+-Direction interrégionale de Normandie
+
+Le havre recette interrégionale
+
+-Direction interrégionale de Nouvelle Aquitaine
+
+Bordeaux recette interrégionale
+
+-Direction interrégionale d'Occitanie
+
+Montpellier recette interrégionale
+
+-Direction interrégionale de Provence-Alpes-Côte d'Azur-Corse
+
+Marseille recette interrégionale |
+
+Du 1er juillet 2023 au 31 décembre 2024 |
+
+Opération :
+
+Transfert du recouvrement de la taxe intérieure de consommation sur les produits énergétiques (TICPE), de la taxe spéciale de consommation (TSC) et de la taxe incitative relative à l'utilisation de l'énergie renouvelable dans les transports (TIRUERT).
+
+-Direction interrégionale d'Antilles Guyane
+
+Guadeloupe recette régionale
+
+Martinique recette régionale
+
+-Direction interrégionale d'Auvergne-Rhône-Alpes
+
+Lyon énergies inter
+
+Annecy bureau
+
+Chambéry bureau
+
+Clermont bureau
+
+Grenoble bureau
+
+Lyon ville bureau
+
+St Etienne bureau
+
+Valence bureau
+
+-Direction interrégionale Bourgogne-Franche-Comté-Centre-Val de Loire
+
+Dijon recette interrégionale
+
+Besançon bureau
+
+Dijon bureau
+
+Nevers bureau
+
+Orléans bureau
+
+Tours bureau
+
+Vesoul bureau
+
+-Direction interrégionale Bretagne-Pays de la Loire
+
+Angers bureau
+
+Brest bureau
+
+Donges raffinerie
+
+La roche sur Yon bureau
+
+Le mans bureau
+
+Lorient bureau
+
+Nantes recette interrégionale
+
+Rennes bureau
+
+-Direction Nationale du renseignement et des enquêtes douanières
+
+DNRED recette
+
+-Direction interrégionale du Grand Est
+
+Ennery bureau
+
+Epinal bureau
+
+Metz recette interrégionale
+
+Mulhouse bureau
+
+Nancy bureau
+
+Reims bureau
+
+SND2R
+
+Strasbourg énergies Grand Est
+
+Strasbourg-Entzheim bureau
+
+Troyes bureau
+
+-Direction interrégionale des Hauts-de-France
+
+Dunkerque énergies bureau
+
+Dunkerque recette interrégionale
+
+Lesquin bureau
+
+Lille bureau
+
+-Direction interrégionale d'Ile-de-France
+
+Gennevilliers bureau
+
+Paris recette interrégionale
+
+Rungis bureau
+
+Service national des réglementations particulières
+
+Trappes bureau
+
+Trésorerie générale des douanes
+
+-Direction interrégionale de Normandie
+
+Le Havre Energie et Surveillance division
+
+Rouen Energies
+
+Rouen fiscalités bureau
+
+-Direction interrégionale de Nouvelle Aquitaine
+
+Agen bureau
+
+Angoulême bureau
+
+Mont de Marsan bureau
+
+Bordeaux recette interrégionale
+
+Pau bureau
+
+-Direction interrégionale d'Occitanie
+
+Albi bureau
+
+Montpellier bureau
+
+Montpellier recette interrégionale
+
+Port la nouvelle crd
+
+Toulouse Portet bureau
+
+Rodez bureau
+
+-Direction interrégionale de Paris-aéroports
+
+Le Bourget bureau
+
+Orly aero bureau
+
+Roissy Avitaillement
+
+-Direction interrégionale de Provence-Alpes-Côte d'Azur-Corse
+
+Avignon bureau
+
+Bastia port
+
+Marseille port bureau
+
+Marseille recette interrégionale
+
+Nice port bureau
+
+Port de Bouc Energies
+
+Toulon la Seyne bureau |
+
+Du 1er janvier 2024 au 31 décembre 2026 |
+
+Opération :
+
+Transfert du stock des restes à recouvrer des taxes et amendes.
+
+-Direction interrégionale d'Antilles Guyane
+
+Guadeloupe recette régionale
+
+Guyane recette régionale
+
+Martinique recette régionale
+
+-Direction interrégionale d'Auvergne-Rhône-Alpes
+
+Lyon recette interrégionale
+
+-Direction interrégionale Bourgogne-Franche-Comté-Centre-Val de Loire
+
+Dijon recette interrégionale
+
+-Direction interrégionale Bretagne-Pays de la Loire
+
+Nantes recette interrégionale
+
+-Direction Nationale du renseignement et des enquêtes douanières
+
+DNRED recette
+
+-Direction interrégionale du Grand Est
+
+Metz recette interrégionale
+
+-Direction interrégionale des Hauts-de-France
+
+Dunkerque recette interrégionale
+
+-Direction interrégionale d'Ile-de-France
+
+Paris recette interrégionale
+
+-Direction régionale de La Réunion
+
+Réunion recette régionale
+
+-Direction régionale de Mayotte
+
+Mayotte recette régionale
+
+-Direction interrégionale de Normandie
+
+Le havre recette interrégionale
+
+-Direction interrégionale de Nouvelle Aquitaine
+
+Bordeaux recette interrégionale
+
+-Direction interrégionale d'Occitanie
+
+Montpellier recette interrégionale
+
+-Direction interrégionale de Paris-aéroports
+
+Roissy recette interrégionale
+
+-Direction interrégionale de Provence-Alpes-Côte d'Azur-Corse
+
+Marseille recette interrégionale |
+
+Du 1er juillet 2023 au 30 juin 2026 |
