@@ -12,45 +12,45 @@ Salaire mensuel |
 
 GV 1, coef. 320 |
 
-14,52 €/heure |
+14,84 €/ heure |
 
-2 202,25 € |
+2 250,78 € |
 
 GV 2, coef. 330 |
 
-14,96 € |
+15,29 € |
 
-2 268,98 € |
+2 319,03 € |
 
 GV 3, coef. 340 |
 
-15,48 € |
+15,82 € |
 
-2 347,85 € |
+2 399,42 € |
 
 PG 1, coef. 345 |
 
-15,64 € |
+15,98 € |
 
-2 372,12 € |
+2 423,68 € |
 
 PG 2, coef. 355 |
 
-16,08 € |
+16,43 € |
 
-2 438,85 € |
+2 491,94 € |
 
 PG 3, coef. 375 |
 
-17,00 € |
+17,37 € |
 
-2 578,39 € |
+2 634,51 € |
 
 AE, coef. 400 |
 
-18,14 € |
+18,54 € |
 
-2 751,29 € |
+2 811,96 € |
 
 Les montants des primes forfaitaires d'éloignement prévues à l'article 8 de l'annexe cadres sont les suivants (au 1er janvier 2022) :
 

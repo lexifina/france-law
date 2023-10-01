@@ -1,8 +1,6 @@
 # Article Annexe « Salaires minimaux mensuels pour 151,67 heures »
 
-Annexe « Salaires minimaux mensuels pour 151,67 heures » (Applicables au 1er février 2023)
-
-Cavaliers d'entraînement
+Annexe « Salaires minimaux mensuels pour 151,67 heures » (Applicables au 1er octobre 2023)
 
 |
 
@@ -12,48 +10,48 @@ Salaire mensuel |
 
 Coefficient 200 |
 
-11,37 €/heure |
+11,62 €/ heure |
 
-1 724,49 € / mois |
+1 762,40 €/ mois |
 
 Coefficient 220 |
 
-11,52 € |
+11,77 € |
 
-1 747,24 € |
+1 785,16 € |
 
 Coefficient 230 |
-
-11,56 € |
-
-1 753,30 € |
-
-Coefficient 300 |
-
-11,71 € |
-
-1 776,05 € |
-
-Coefficient 350 |
 
 11,81 € |
 
 1 791,22 € |
 
+Coefficient 300 |
+
+11,97 € |
+
+1 815,49 € |
+
+Coefficient 350 |
+
+12,07 € |
+
+1 830,66 € |
+
 Coefficient 400 |
 
-11,90 € |
+12,16 € |
 
-1 804,87 € |
+1 844,31 € |
 
 Coefficient 450 |
 
-12,00 € |
+12,26 € |
 
-1 820,04 € |
+1 859,47 € |
 
 Coefficient 500 |
 
-12,17 € |
+12,44 € |
 
-1 845,82 € |
+1 886,77 € |
