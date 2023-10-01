@@ -2560,9 +2560,9 @@ Sergent |
 
 Tableau 2 : MILITAIRES, INFIRMIERS ET TECHNICIENS DES HÔPITAUX DES ARMÉES
 
-Grades des militaires
+Grades des militaires infirmiers et techniciens
 
-infirmiers et techniciens des hôpitaux des armées |
+des hôpitaux des armées |
 
 Échelons |
 
@@ -2672,7 +2672,7 @@ Major |
 
 Assistant médico-administratif de classe supérieure |
 
-A partir du 7e échelon |
+A partir du 6e échelon |
 
 Assistant médico-administratif de classe normale |
 
@@ -2832,7 +2832,7 @@ A partir du 1er échelon |
 
 Technicien supérieur hospitalier de 2e classe |
 
-A partir du 7e échelon |
+A partir du 6e échelon |
 
 Technicien hospitalier |
 
@@ -2840,7 +2840,7 @@ A partir du 11e échelon |
 
 Assistant médico-administratif de classe supérieure |
 
-A partir du 1er et jusqu'au 6e échelon inclus |
+A partir du 1er et jusqu'au 5e échelon inclus |
 
 Adjudant-chef ou maître principal |
 
@@ -2854,7 +2854,7 @@ A partir du 1er échelon |
 
 Aide-soignant de classe normale |
 
-A partir du 5e échelon |
+A partir du 4e échelon |
 
 Diététicien de classe normale |
 
@@ -2918,7 +2918,7 @@ A partir du 1er et jusqu'au 3e échelon inclus |
 
 Technicien supérieur hospitalier de 2e classe |
 
-A partir du 1er et jusqu'au 6e échelon inclus |
+A partir du 1er et jusqu'au 5e échelon inclus |
 
 Technicien hospitalier |
 
@@ -2926,7 +2926,7 @@ A partir du 5e et jusqu'au 10e échelon inclus |
 
 Aide-soignant de classe normale |
 
-A partir du 4e échelon |
+A partir du 3e échelon |
 
 Adjudant ou premier maître |
 
@@ -2940,7 +2940,7 @@ A partir du 1er et jusqu'au 4e échelon inclus |
 
 Aide-soignant de classe normale |
 
-A partir du 1er et jusqu'au 3e échelon inclus |
+A partir du 1er et jusqu'au 2e échelon inclus |
 
 Sergent-chef ou maître |
 
@@ -2950,4 +2950,4 @@ NOTA :
 
 (*) Au lieu de " SOUS-OFFICIERS MARINIERS, il faut lire OFFICIERS MARINIERS ".
 
-Conformément à l’article 1er du décret n° 2022-1745 du 28 décembre 2022, ces dispositions entrent en vigueur le 10 juin 2022.
+Conformément à l'article 1 du décret n°2023-905 du 30 septembre 2023, le tableau 2 du III de cette annexe est applicable à compter du 14 décembre 2022.
