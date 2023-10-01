@@ -250,13 +250,13 @@ Cette dispense ne peut jouer que jusqu'à la date d'échéance du contrat indivi
 
 -par le régime local d'assurance maladie du Haut-Rhin, du Bas-Rhin et de la Moselle, en application des articles D. 325-6 et D. 325-7 du code de la sécurité sociale ;
 
--par le régime complémentaire d'assurance maladie des industries électriques et gazières en application du décret no 46-1541 du 22 juin 1946 ;
+-par le régime complémentaire d'assurance maladie des industries électriques et gazières en application du décret n° 46-1541 du 22 juin 1946 ;
 
--dans le cadre des dispositions prévues par le décret no 2007-1373 du 19 septembre 2007 relatif à la participation de l'Etat et de ses établissements publics au financement de la protection sociale complémentaire de leurs personnels ;
+-dans le cadre des dispositions prévues par le décret n° 2007-1373 du 19 septembre 2007 relatif à la participation de l'Etat et de ses établissements publics au financement de la protection sociale complémentaire de leurs personnels ;
 
--dans le cadre des dispositions prévues par le décret no 2011-1474 du 8 novembre 2011 relatif à la participation des collectivités territoriales et de leurs établissements publics au financement de la protection sociale complémentaire de leurs agents ;
+-dans le cadre des dispositions prévues par le décret n° 2011-1474 du 8 novembre 2011 relatif à la participation des collectivités territoriales et de leurs établissements publics au financement de la protection sociale complémentaire de leurs agents ;
 
--dans le cadre des contrats d'assurance de groupe issus de la loi no 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise individuelle ;
+-dans le cadre des contrats d'assurance de groupe issus de la loi n° 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise individuelle ;
 
 -par le régime spécial de sécurité sociale des gens de mer ;
 
@@ -272,19 +272,17 @@ Cet écrit est le résultat d'une demande éclairée du salarié, qui doit avoir
 
 XII. 2.1.8. Cotisations
 
-(1)
+Pour les salariés relevant du régime général de la sécurité sociale, les cotisations frais de santé s'élèvent à 0,62 % du plafond mensuel de la sécurité sociale au titre de la couverture du seul salarié.
 
-La cotisation relative à la couverture de frais de santé, exprimée sous forme de forfait mensuel non proratisable pour chaque salarié bénéficiaire du régime, est fixée au 1er janvier 2016 à 20 €.
+Pour les salariés relevant du régime local d'Alsace-Moselle, le montant de la cotisation frais de santé est fixé à 0,44 % du plafond mensuel de la sécurité sociale au titre de la couverture du seul salarié.
 
-Ce forfait, dû dès le premier jour d'embauche pour tout salarié permanent, est fixé à prélèvements obligatoires et législation inchangés, notamment celle relative à la sécurité sociale.
+Cette cotisation est répartie à raison de 50 % à la charge de l'employeur et 50 % à la charge du salarié.
 
-La cotisation est répartie à raison de 50 % à la charge de l'employeur et 50 % à la charge du salarié.
+Les parties rappellent que les cotisations des salariés sont déductibles de l'assiette de l'impôt sur le revenu dans les conditions de l'article 83,1° quater du code général des impôts.
 
-Les parties rappellent que les cotisations des salariés sont déductibles de l'assiette de l'impôt sur le revenu dans les conditions de l'article 83,1° quater, du code général des impôts.
+La cotisation comprend le coût du maintien des garanties dans le cadre du dispositif de portabilité issu de l'article L. 911-8 du code de la sécurité sociale.
 
-Le forfait ci-dessus défini comprend le coût du maintien des garanties dans le cadre du dispositif de portabilité issu de l'article L. 911-8 du code de la sécurité sociale.
-
-Il est également rappelé que les employeurs cotisent pour leurs salariés cadres et non cadres intermittents, au titre des garanties complémentaires de remboursement de frais de santé, dans les conditions prévues par l'accord interbranches du 20 décembre 2006 modifié.
+Il est aussi rappelé que les employeurs cotisent pour leurs salariés cadres et non cadres intermittents, au titre des garanties complémentaires de remboursement de frais de santé, dans les conditions prévues par l'accord interbranche du 20 décembre 2006 modifié.
 
 XII. 2.1.9. Prestations
 
@@ -392,7 +390,7 @@ Les parties rappellent que les entreprises adhérentes sont tenues de remettre u
 
 XII. 2.3.4. Commission paritaire
 
-(2)
+(1)
 
 Une commission paritaire de suivi du présent accord est composée de 8 représentants des organisations d'employeurs et de 8 représentants des fédérations syndicales de salariés représentatives dans la branche.
 
@@ -414,10 +412,6 @@ Le présent accord sera déposé en 2 exemplaires (une version sur support papie
 
 En outre, un exemplaire sera établi pour chaque partie. ”
 
-(1) Article étendu sous réserve de l'application des dispositions de l'article D. 911-1-1 du code de la sécurité sociale.
+(1) Le V de CNPCIV figurant à l'avant dernier alinéa de l'accord du 8 janvier 2015 est exclu de l'extension comme étant contraire aux dispositions de l'article L. 2232-22 du code du travail.
 
-(Arrêté du 6 février 2017-art. 1)
-
-(2) Le V de CNPCIV figurant à l'avant dernier alinéa de l'accord du 8 janvier 2015 est exclu de l'extension comme étant contraire aux dispositions de l'article L. 2232-22 du code du travail.
-
-(Arrêté du 4 mai 2017-art. 1)
+(Arrêté du 4 mai 2017 - art. 1)
