@@ -68,6 +68,8 @@ Conformément à l’article 4 de de l’arrêté du 6 décembre 2018 (NOR : TRE
 
 Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe D dudit arrêté, à compter du 1er avril 2022.
 
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° IND-UT-121, figurant en annexe F dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 4 du présent arrêté.
+
 - Sécheur d’air comprimé à adsorption utilisant un apport calorifique pour sa régénération / Fiche d’opération standardisée n° IND-UT-122
 
 - Séquenceur électronique pour le pilotage d’une centrale de production d’air comprimé / Fiche d’opération standardisée n° IND-UT-124
@@ -101,6 +103,8 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 - Freecooling par eau de refroidissement en substitution d’un groupe froid / Fiche d’opération standardisée n° IND-UT-135
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0227 du 30/09/2023, texte n° 39, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=2eo_9bKPruY9aVYxIHHqRZAonPLOBawu6mXaWDKqFfw=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0301 du 28/12/2021, texte n° 7, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=3h1kFMmEC5Sa8YLxD0_ESaLQUj7RVu-69Zl-EasUOEI=
 
@@ -137,7 +141,3 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Conformément à l'article 4 de l'arrêté du 25 juillet 2022 (NOR : ENER2221632A), ces dispositions entrent en vigueur à compter du 1er septembre 2022.

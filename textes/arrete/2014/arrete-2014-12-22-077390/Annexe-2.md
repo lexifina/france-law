@@ -192,9 +192,13 @@ Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2
 
 Conformément à l'article 1 de l'arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2023.
 
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-TH-160, figurant en annexe C dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.
+
 - Isolation des points singuliers d’un réseau / Fiche d’opération standardisée n°BAR-TH-161
 
 - Système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d’eau (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-162
+
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-TH-161, figurant en annexe C dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.
 
 - Conduit d’évacuation des produits de combustion / Fiche d’opération standardisée n°BAR-TH-163
 
@@ -213,6 +217,8 @@ Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRE
 - Dispositif solaire thermique (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-168
 
 - Pompe à chaleur collective de type air/eau ou eau/eau pour l'eau chaude sanitaire / Fiche d'opération standardisée n° BAR-TH-169
+
+- Récupération de chaleur fatale issue de serveurs informatiques pour l'eau chaude sanitaire collective / Fiche d’opération standardisée n° BAR-TH-170
 
 - Lampe fluo-compacte de classe A / Fiche d’opération standardisée n° BAR-EQ-101
 
@@ -246,7 +252,11 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 - Désembouage d'un réseau hydraulique individuel de chauffage en France métropolitaine / Fiche d’opération standardisée n° BAR-SE-108
 
+- Désembouage d'un réseau hydraulique de chauffage collectif en France métropolitaine / Fiche d’opération standardisée n° BAR-SE-109
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0227 du 30/09/2023, texte n° 39, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=2eo_9bKPruY9aVYxIHHqRZAonPLOBawu6mXaWDKqFfw=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0011 du 13/01/2023, texte n° 17, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=gsXRq2HI5C12ytBpBuSJe-wD-lQnj8EG78BD08U7ANE=
 
@@ -318,4 +328,6 @@ https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-
 
 NOTA :
 
-Conformément à l’article 1er de l’arrêté du 27 juin 2023 (ENER2315086A) : Les fiches d'opérations standardisées figurant en annexe A dudit arrêté remplacent, à compter du 1er août 2023, les fiches portant les mêmes références figurant en annexe 2 de l'arrêté du 22 décembre 2014 susvisé.
+Conformément à l’article 1 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), les fiches d'opérations standardisées BAR-TH-171 Pompe à chaleur de type air/ eau et BAR-TH-172 Pompe à chaleur de type eau/ eau ou sol/ eau figurant en annexe A dudit arrêté sont ajoutées à la présente annexe à compter du 1er janvier 2024.
+
+Conformément à l’article 1 de l’arrêté du 15 septembre 2023 (NOR : ENER2325207A), les fiches d'opérations standardisées figurant à l’annexe B au dit arrêté remplacent, à compter du 1er janvier 2024, les fiches portant les mêmes références figurant à cette annexe.

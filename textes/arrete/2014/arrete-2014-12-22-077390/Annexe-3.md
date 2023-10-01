@@ -40,6 +40,8 @@ Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TR
 
 -Revêtements réflectifs en toiture / Fiche d’opération standardisée n° BAT-EN-112
 
+-Façade rideau ou semi-rideau avec vitrage isolant / Fiche d’opération standardisée n° BAT-EN-113
+
 -Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAT-SE-103
 
 -Contrat de Performance Energétique Services (CPE Services) Chauffage / Fiche d’opération standardisée n° BAT-SE-104
@@ -156,11 +158,15 @@ Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER
 
 Conformément à l’article 1 de de l’arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté.
 
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-TH-146, figurant en annexe E dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
+
 -Système de confinement des allées froides et allées chaudes dans un Data center / Fiche d’opération standardisée n° BAT-TH-153
 
 -Récupération instantanée de chaleur sur eaux grises / Fiche d’opération standardisée n° BAT-TH-154
 
 -Isolation de points singuliers d’un réseau / Fiche d’opération standardisée n° BAT-TH-155
+
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-TH-155, figurant en annexe E dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
 
 -Freecooling par eau de refroidissement en substitution d’un groupe froid pour la climatisation / Fiche d’opération standardisée n° BAT-TH-156
 
@@ -173,6 +179,8 @@ Conformément à l’article 1 de de l’arrêté du 20 décembre 2022 (NOR : EN
 Conformément à l’article 1er de l’arrêté du 26 janvier 2022 (NOR : TRER2202916A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe dudit arrêté, à compter du 1er septembre 2022.
 
 -Raccordement d’un bâtiment tertiaire à un réseau de froid / Fiche d’opération standardisée n° BAT-TH-159
+
+-Vannes de régulation étanches à servomoteurs économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-160
 
 -Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111 (abrogée à compter du 1er avril 2019)
 
@@ -215,6 +223,8 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 -Meuble frigorifique de vente performant avec groupe de production de froid intégré / Fiche d’opération standardisée n° BAT-EQ-134
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0227 du 30/09/2023, texte n° 39, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=2eo_9bKPruY9aVYxIHHqRZAonPLOBawu6mXaWDKqFfw=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28/12/2022, texte n° 71, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=W8WsfNOlOI6RDy-wPtZgP3DdH2qFDNV7z33iieedbY4=
 
@@ -261,3 +271,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Conformément à l'article 1 de l’arrêté du 15 septembre 2023 (NOR : ENER2325207A), ces dispositions entrent en vigueur à compter du 1er octobre 2023.

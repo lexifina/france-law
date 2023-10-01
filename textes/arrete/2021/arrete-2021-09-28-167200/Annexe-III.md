@@ -882,7 +882,7 @@ S'agissant de critères directement liés à la fiche :
 
 2) L'équipement installé ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération telles qu'exigées par la fiche d'opération standardisée ou, à défaut, aux mentions indiquées sur le document issu du fabricant ;
 
-3) Le système de ventilation mécanique hygroréglable ne bénéficie pas d'un avis technique de la Commission chargée de formuler des Avis Techniques (CCFAT) en cours de validité à la date d'engagement de l'opération, et ne possède pas des caractéristiques de performance et de qualité équivalentes établies par un organisme implanté dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ CEI 17065 par le comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation ;
+3) Le système de ventilation mécanique hygroréglable ne bénéficie pas d'un avis technique de la Commission chargée de formuler des Avis Techniques (CCFAT) en cours de validité à la date d'engagement de l'opération ;
 
 4) L'équipement installé n'est ni une ventilation mécanique contrôlée simple flux hygroréglable, ni une ventilation mécanique basse pression simple flux hygroréglable ;
 
@@ -1227,3 +1227,7 @@ Doivent être vérifiés lors des contrôles par contact :
 -la ville d'arrivée du trajet lié à l'opération.
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.

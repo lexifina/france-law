@@ -126,6 +126,8 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 - Remotorisation en propulsion électrique ou hybride d’un bateau naviguant en eaux intérieures / Fiche d’opération n° TRA-EQ-126
 
+- Acquisition d'un bateau neuf à propulsion électrique ou hybride, naviguant en eaux intérieures / Fiche d’opération n° TRA-EQ-127
+
 - Formation d’un chauffeur de transport à la conduite économe / Fiche d’opération n° TRA-SE-101
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
@@ -214,6 +216,8 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 227 du 30/09/2023, texte n° 39, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=2eo_9bKPruY9aVYxIHHqRZAonPLOBawu6mXaWDKqFfw=
+
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 233 du 07/10/2022, texte nº 23, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=Y7BCQu5aRgPWWPC6K-CR-ysmOZV06kSmwy-5YKhibI4=
@@ -285,7 +289,3 @@ https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 24/12/2014, texte nº 18, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Conformément à l'article 2 de l’arrêté du 18 mars 2023 (NOR : ENER2303227A), ces dispositions entrent en vigueur à compter du 1er avril 2023.
