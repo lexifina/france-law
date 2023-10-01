@@ -60,7 +60,7 @@ C. - Emplois relevant du groupe 1 :
 
 14° Commandant des forces aériennes stratégiques ;
 
-15° Commandant des forces aériennes, officier général de zone de défense et de sécurité Sud-Ouest ;
+15° Général commandant territorial de l'armée de l'air et de l'espace, officier général de zone de défense et de sécurité Sud-Ouest
 
 16° Commandant de la défense aérienne et des opérations aériennes ;
 
@@ -94,7 +94,7 @@ D. - Emplois relevant du groupe 2 :
 
 9° Adjoint forces au délégué général pour l'armement ;
 
-10° Général commandant du corps de réaction rapide - France ;
+10° Commandant du quartier général du corps de réaction rapide-France ;
 
 11° Commandant du combat futur de l'armée de terre ;
 
@@ -216,7 +216,7 @@ E. - Emplois relevant du groupe 3 :
 
 44° Commandant en second de la défense aérienne et des opérations aériennes ;
 
-45° Chef d'état-major du commandement territorial de l'armée de l'air et de l'espace ;
+45° Général chef d'état-major du commandement territorial de l'armée de l'air et de l'espace ;
 
 46° Inspecteur adjoint à l'inspection de l'armée de l'air et de l'espace ;
 
