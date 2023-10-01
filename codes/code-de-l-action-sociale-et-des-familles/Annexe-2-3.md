@@ -1,8 +1,8 @@
 # Article Annexe 2-3
 
-DOSSIER DE DEMANDE D'ALLOCATION PERSONNALISÉE D'AUTONOMIE ET LISTE DE PIÈCES JUSTIFICATIVES
+DOSSIER DE DEMANDE D'ALLOCATION PERSONNALISÉE D'AUTONOMIE EN ETABLISSEMENT ET LISTE DE PIÈCES JUSTIFICATIVES
 
-I. - Contenu du dossier de demande d'allocation personnalisée d'autonomie à domicile ou en établissement
+I. - Contenu du dossier de demande d'allocation personnalisée d'autonomie en établissement
 
 Date de la demande :..........
 
@@ -64,7 +64,7 @@ Mentionner le cas échéant l'existence d'une mesure de protection juridique :
 
 Nom et adresse de la personne chargée à son égard d'une mesure de protection juridique avec représentation ou de l'association chargée de la mesure :
 
-Coordonnées de la personne référente à contacter pour la visite d'évaluation à domicile ou en cas d'urgence (enfant, parent, autre..........) : adresse, numéro de téléphone.
+Coordonnées de la personne référente à contacter en cas d'urgence (enfant, parent, autre..........) : adresse, numéro de téléphone.
 
 B. - Renseignements concernant les revenus et le patrimoine du demandeur
 
@@ -108,7 +108,7 @@ Attention : Aucune de ces prestations n'est cumulable avec l'allocation personna
 
 a) Biens immobiliers (préciser la nature de ceux-ci, leur adresse et la valeur locative indiquée dans le dernier relevé de la taxe foncière sur les propriétés bâties et sur les propriétés non bâties) :
 
-b) Biens mobiliers et capitaux non placés (dont assurance-vie) (2) :
+b) Biens mobiliers et capitaux non placés (2) :
 
 Déclaration sur l'honneur ;
 
@@ -130,29 +130,13 @@ Souhaitez-vous bénéficier de la carte mobilité inclusion comportant la mentio
 
 Souhaitez-vous bénéficier de la carte mobilité inclusion comportant la mention “ stationnement pour personnes handicapées ” prévue à l'article L. 241-3 : oui/non ?
 
-D. - Renseignements concernant les proches aidants du demandeur (facultatif)
-
-Ce volet du dossier de demande vise à apporter des premières informations sur les personnes de votre famille ou de votre entourage amical ou de voisinage qui vous apportent une aide dans la vie quotidienne, qu'on dénommera " aidants " dans ce qui suit. Son remplissage est facultatif.
-
-Nom et prénom de votre ou de vos aidants :
-
-Age de votre ou de vos aidants :
-
-Lieu de résidence de votre ou de vos aidants :
-
-Nature de votre lien avec votre ou vos aidants :
-
-Nature de l'aide apportée (par exemple : accompagnement dans les déplacements à l'extérieur de votre domicile, courses...) :
-
-Durée et périodicité approximatives de cette aide pour une journée, une semaine ou un mois (selon ce qui vous paraît le plus pertinent) :
-
 II. - Liste des pièces justificatives à joindre impérativement au dossier de demande
 
 La photocopie du livret de famille ou de la carte nationale d'identité ou d'un passeport de la Communauté européenne ou un extrait d'acte de naissance ; ou, s'il s'agit d'un demandeur de nationalité étrangère, la photocopie de la carte de résidence ou du titre de séjour ;
 
 La photocopie du dernier avis d'imposition ou de non-imposition à l'impôt sur le revenu : pour une demande déposée entre janvier et août de l'année n : fournir l'avis d'imposition ou de non-imposition de l'année n-2 ; de septembre à décembre, celui de l'année n-1.
 
-Le cas échéant, toute pièce justificative des biens ou capitaux relevant du patrimoine dormant (photocopie du dernier relevé des taxes foncières sur les propriétés bâties et sur les propriétés non bâties, relevé annuel d'assurance vie...) ;
+Le cas échéant, toute pièce justificative des biens ou capitaux relevant du patrimoine dormant (photocopie du dernier relevé des taxes foncières sur les propriétés bâties et sur les propriétés non bâties...) ;
 
 Un relevé d'identité bancaire ou postal.
 
@@ -160,4 +144,6 @@ NOTA :
 
 (1) Ne pas déclarer la résidence principale si celle-ci est occupée par le demandeur, son conjoint, son concubin ou la personne avec qui il a conclu un pacte civil de solidarité, ses enfants ou petits-enfants.
 
-(2) Ne pas déclarer les capitaux placés, y compris ceux exonérés d'impôts (livret A, livret de développement durable, plan d'épargne logement, plan d'épargne en actions...), qui ne constituent pas du patrimoine dormant. En revanche la valeur des contrats d'assurance-vie, qui relèvent du patrimoine dormant, doit être déclarée.
+(2) Ne pas déclarer les capitaux placés, y compris ceux exonérés d'impôts (livret A, livret de développement durable, plan d'épargne logement, plan d'épargne en actions...), qui ne constituent pas du patrimoine dormant.
+
+Conformément à l'article 2 du décret n° 2023-593 du 11 juillet 2023, ces dispositions entrent en vigueur le premier jour du troisième mois suivant leur publication, à savoir le 1er octobre 2023.
