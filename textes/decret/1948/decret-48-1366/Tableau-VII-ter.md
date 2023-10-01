@@ -1,19 +1,11 @@
 # Article Tableau VII ter
 
-Indemnité allouée aux personnels travaillant dans des souterrains non aménagés ou sous béton
+INDEMNITÉ ALLOUÉE AUX PERSONNELS TRAVAILLANT
 
-DESIGNATION DES BÉNÉFICIAIRES |
+DANS DES SOUTERRAINS NON AMÉNAGÉS OU SOUS BÉTON
 
-FIXATION JOURNALIÈRE
-
-de l'indemnité. |
-
-Militaire de tous grades à solde mensuelle, spéciale progressive ou spéciale ............ |
-
-48 F |
-
-L'indemnité ne peut se cumuler avec aucun autre avantage de même nature, ni avec la majoration d'embarquement pour service en sous-marins. Elle n'est due qu'au personnel astreint d'une manière permanente à travailler dans des souterrains non aménagés ou sous béton ; elle n'est pas due, en cas de séjour occasionnel, même d'une certaine durée, dans les installations en question.
+Conformément à l’article 14 du décret n° 2023-397, ces dispositions sont modifiées.
 
 NOTA :
 
-Conformément à l'article 3 du décret n° 53-349 du 21 avril 1953, ces dispositions ont effet au 1er janvier 1952.
+Conformément à l’article 33 du décret n° 2023-397 du 24 mai 2023, ces dispositions entrent en vigueur à compter du 1er octobre 2023.
