@@ -1,0 +1,9 @@
+# Réponse à la question n° 6526
+
+- Question : [6526](6526.md) — Question n° 6526 — Situation financière et fiscale de la Communauté de communes Yonne Nord
+
+## Réponse
+
+*JO du 2023-10-03, page 8801*
+
+Dans les conditions prévues par l'article 16 de la loi de finances pour 2020, la suppression de la taxe d'habitation sur les résidences principales (TH) se traduit pour les établissements publics de coopération intercommunale (EPCI) à fiscalité propre par une perte de ressources, compensée par le transfert à leur profit d'une fraction du produit net de la taxe sur la valeur ajoutée. Si l'engagement du Gouvernement est celui d'une compensation à l'euro près, celle-ci s'apprécie en fonction de dates de référence. À cet égard, il convient de souligner qu'il a toujours été annoncé, depuis la loi de finances pour 2018, que la compensation serait effectuée sur la base des taux appliqués en 2017. Ainsi est-il prévu, conformément au V de l'article 16 précité, que les EPCI à fiscalité propre soient compensés au titre d'une perte correspondant à la somme, d'une part, de la taxe d'habitation sur les locaux meublés affectés à l'habitation principale résultant du produit de la base d'imposition 2020 par le taux intercommunal appliqué sur le territoire intercommunal en 2017, d'autre part, de la moyenne annuelle des rôles supplémentaires de TH sur les locaux meublés affectés à l'habitation principale émis en 2018, 2019 et 2020 au profit de l'EPCI à fiscalité propre, et enfin des compensations d'exonérations de TH versées à l'EPCI à fiscalité propre en 2020. Ces modalités de compensation, validées par le Conseil constitutionnel par décision n° 2019-796 DC du 27 décembre 2019, n'ont pas vocation à être modifiées. Les EPCI à fiscalité propre bénéficient par ailleurs du dynamisme de l'assiette de la TVA, qui en fait une ressource particulièrement avantageuse.
