@@ -1,0 +1,9 @@
+# Réponse à la question n° 8122
+
+- Question : [8122](8122.md) — Question n° 8122 — Pour une réhabilitation des lignes ferroviaires inutilisées
+
+## Réponse
+
+*JO du 2023-10-03, page 8866*
+
+L'Etat est pleinement engagé dans le développement du fret ferroviaire afin d'atteindre l'objectif d'un doublement de la part modale d'ici 2030 (de 9% à 18%), inscrit en août 2021 dans la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique. L'Etat a publié à cet effet une stratégie nationale pour le développement du fret ferroviaire en septembre 2021. Celle-ci est en cours de mise en œuvre et comprend 73 mesures opérationnelles construites en partenariat étroit avec les acteurs du secteur. Dans le cadre du plan de relance, l'Etat a investi près de 250 M€ en faveur des infrastructures dont dépend le fret ferroviaire. Parmi ces crédits, plus de 63 M€ ont été investis afin de régénérer plus d'une vingtaine de lignes capillaires fret. Les installations terminales embranchées ont également reçu d'importants moyens de l'Etat avec plus de 9,3 M€ engagés en 2021 et 2022 pour une vingtaine de projets situés sur l'ensemble du territoire. Afin de maintenir cette dynamique, d'ici 2032, 4 Md€ doivent être consacrés à un programme d'investissement dans des infrastructures spécifiques au fret ferroviaire en cours de définition, avec notamment la poursuite d'un soutien aux opérations de création ou modernisation d'installations terminales embranchées. Afin d'améliorer la compétitivité du fret ferroviaire, les aides à l'exploitation, déjà renforcées de 170 M€ en 2021, seront augmentées de 30 M€ à partir de 2025 et pérennisées à ce niveau jusqu'en 2030. Au total, c'est environ 330 M€ d'aides à l'exploitation qui seront versés chaque année, soit un niveau sans précédent en vue de faciliter le recours au train pour transporter les marchandises.
