@@ -1,0 +1,9 @@
+# Réponse à la question n° 7733
+
+- Question : [7733](7733.md) — Question n° 7733 — Augmentation du prix des billets de trains
+
+## Réponse
+
+*JO du 2023-10-03, page 8860*
+
+En adoptant un système de tarification flexible, la SNCF est en mesure d'exploiter tout le potentiel économique de ses TGV et d'accroître significativement les taux de remplissage. Pour les usagers, cette pratique tarifaire rend par ailleurs possible d'offrir des prix particulièrement avantageux à certaines périodes et donc d'ouvrir l'accès aux TGV à des voyageurs qui ne pourraient pas payer un prix plus élevé. La SNCF a également déployé l'offre TGV à bas prix Ouigo, qui représentera, selon ses prévisions, 22 % du trafic grande vitesse en 2023. La SNCF est confrontée depuis 2022 à une forte augmentation de l'inflation, notamment en ce qui concerne les prix de l'énergie. Afin de préserver l'attractivité du train et le pouvoir d'achat des usagers, l'entreprise a mis en place un bouclier tarifaire pour la grande vitesse en 2023, qui permet de limiter la hausse du prix moyen payé par les voyageurs à 5 % (contre une augmentation des coûts de la SNCF d'environ 13 % en 2023). En parallèle, l'offre Ouigo continuera à se développer dans les prochaines années pour proposer toujours plus de possibilité de voyages à bas prix. Afin de contribuer au financement du « plan d'avenir pour les transports » et, en particulier, des investissements dans les infrastructures favorisant la réduction de l'impact des mobilités sur l'environnement, le Gouvernement prévoit, dans le cadre du projet de loi de finances pour 2024, l'institution d'une taxe sur les grandes exploitations d'infrastructures de transport de longue distance. Le rendement annuel attendu est de 0,6 Md€, répartis essentiellement entre les grandes concessions autoroutières et les grands aéroports, qui, pour leur part, en répercuteront la plus grande partie sur les compagnies aériennes.
