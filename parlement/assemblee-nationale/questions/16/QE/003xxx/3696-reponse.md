@@ -1,0 +1,9 @@
+# Réponse à la question n° 3696
+
+- Question : [3696](3696.md) — Question n° 3696 — PERP - Transformation de l'épargne restante en capital
+
+## Réponse
+
+*JO du 2023-10-03, page 8795*
+
+Les plans d'épargne retrait populaires (PERP) ne permettent pas de sortie intégrale de l'épargne en capital. Il est cependant possible en application de l'article L. 224-40 du code monétaire et financier de transférer un PERP vers un plan d'épargne retraite (PER) et ainsi de bénéficier de la sortie en capital permis par le produit. Les anciens contrats dits « articles 83 » ne prévoient de leur côté qu'une sortie en rente. Lors de l'adoption de la loi PACTE, l'article L. 224-5 du code monétaire et financier a maintenu ce régime pour les versements obligatoires sur un plan d'épargne retraite (PER) qui ne peuvent faire l'objet que d'une sortie en rente. La généralisation de la sortie en capital sur l'ensemble des versements constituait en effet un changement majeur pour les établissements offrant ces produits et il avait été privilégié une acclimatation progressive à ce mode de sortie en le cantonnant aux versements volontaires ou aux versements issus de l'épargne salariale. Il est cependant possible, pour un contrat « article 83 » ou un PERP, d'obtenir à la place d'une rente de son assureur un versement unique en capital lorsque la rente est inférieure à un certain montant. Ce niveau minimum a été relevé à deux reprises d'abord à 100 euros en juillet 2021 puis à 110 euros en juillet 2023. L'arrêté du 17 juillet 2023 portant soutien au pouvoir d'achat des épargnants bénéficiaires de rentes inférieures à un certain montant minimal renforce ce dispositif en affirmant clairement que les rentes en cours de liquidation peuvent faire l'objet d'un rachat. Il prévoit des garanties supplémentaires pour les épargnants en généralisant la condition de consentement du bénéficiaire de la rente pour obtenir son rachat.
