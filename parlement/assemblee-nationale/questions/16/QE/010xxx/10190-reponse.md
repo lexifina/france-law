@@ -1,0 +1,9 @@
+# Réponse à la question n° 10190
+
+- Question : [10190](10190.md) — Question n° 10190 — Désert assurantiel en outre-mer
+
+## Réponse
+
+*JO du 2023-10-03, page 8805*
+
+Le Gouvernement est conscient que la situation du marché des assurances est souvent plus tendue dans les zones d'Outre-Mer qu'en métropole. S'agissant de la Guadeloupe plus particulièrement, les services de l'Etat n'ont cependant pas identifié de désert assurantiel qui serait caractérisé par une absence complète d'offre d'assurance. Si l'offre est moins abondante qu'en métropole, le marché assurantiel continue de s'y développer. La multiplication des aléas climatiques peut toutefois conduire à rendre plus difficilement assurable certains risques. C'est pourquoi, le Président de la République a saisi une mission d'experts pour évaluer les évolutions de notre système assurantiel nécessaires à l'adaptation au changement climatique. Mes services demeurent mobilisés afin de suivre l'évolution de ces marchés, notamment dans le contexte de la mission gouvernementale sur l'assurabilité des risques climatiques.. Toutefois, la fixation des prix des produits d'assurance étant libre, et la liberté d'installation étant garantie avec intensité par le droit de l'Union européenne, le Gouvernement ne peut pas directement intervenir dans la tarification des contrats. Concernant plus précisément les activités nautiques, une problématique de respect des règles de sécurité par les professionnels peut freiner les appétences des assureurs, très vigilants sur ce point. Afin de faciliter la souscription d'une assurance, la mise en œuvre de mesures de prévention et de règles de sécurité claires sont clés. Le Gouvernement appelle ainsi les exploitants d'activité nautique à être le plus transparent possible vis-à-vis de leur assureur en leur communiquant des rapports de sécurités exhaustifs. Le Gouvernement restera engagé et vigilant pour favoriser un meilleur accès à l'assurance en outre-mer.
