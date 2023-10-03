@@ -1,0 +1,9 @@
+# Réponse à la question n° 9578
+
+- Question : [9578](9578.md) — Question n° 9578 — Charte déontologique des collaborateurs du chef de l'État
+
+## Réponse
+
+*JO du 2023-10-03, page 8770*
+
+Lors de leur recrutement, les collaborateurs du Président de la République et plus largement le personnel de la présidence s'engagent à « respecter scrupuleusement les principes déontologiques de la présidence de la République ». Lorsque les agents sont liés à la présidence par un contrat, celui-ci fait expressément mention des obligations qu'ils doivent respecter. Ces principes, ainsi que des règles sur l'utilisation des moyens mis à disposition et la prévention des conflits d'intérêt, et celles sur les obligations déclaratives auprès de la Haute autorité pour la transparence de la vie publique, figurent dans une « charte de déontologie des collaborateurs de la présidence de la République » du 19 décembre 2014. Cette charte de déontologie de la présidence de la République est bien en cours de mise à jour ; la phase de relecture devrait bientôt s'achever. La nouvelle version de la charte de déontologie, qui s'attache à favoriser le respect par les agents des grands principes de déontologie (dignité, impartialité, intégrité, probité, neutralité, loyauté, respect de la confidentialité et du devoir de réserve), détaillera les règles applicables à certaines situations concrètes : cumul d'activités, déclarations d'intérêts, mobilité entre secteurs public et privé, pratique des libéralités et cadeaux, secret et discrétion professionnels, utilisation des moyens mis à disposition pour l'activité professionnelle. La présidence travaille également au choix d'un déontologue référent qui pourra être consulté par les agents concernés sur la mise en œuvre de ces préconisations, et leur apporter tout conseil utile au respect de leurs obligations déontologiques.
