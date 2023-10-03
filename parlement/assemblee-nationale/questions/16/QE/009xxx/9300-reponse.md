@@ -1,0 +1,9 @@
+# Réponse à la question n° 9300
+
+- Question : [9300](9300.md) — Question n° 9300 — Position de la France - négociation accord UE-Mercosur
+
+## Réponse
+
+*JO du 2023-10-03, page 8789*
+
+Comme pour tout accord international négocié par l'Union européenne (UE), il revient au négociateur, en l'occurrence ici la Commission Européenne, de présenter formellement la proposition d'accord au Conseil. Elle en a l'initiative, qu'il s'agisse de son contenu mais également de sa forme juridique. Le processus de signature et de conclusion de l'accord dépendra de l'analyse du contenu du texte transmis au Conseil. Tel que négocié, il apparaît que cet accord contient à la fois des stipulations relevant de la compétence exclusive de l'UE - en particulier le volet commercial - et des stipulations relevant de compétences que l'Union partage avec les États membres. La France estime donc qu'il s'agit d'un accord mixte, qui devra être à la fois conclu par l'Union et ratifié par chacun des États membres, selon ses procédures constitutionnelles. La France défend le respect de la répartition des compétences entre l'UE et les Etats membres, ainsi que le respect des attributions de chaque institution européenne. Au regard de la dimension de cet accord, et alors que plusieurs Parlements des États membres se sont déjà positionnés à ce sujet, le Gouvernement a informé la Commission européenne de sa volonté de maintenir un accord mixte, sous la forme d'un accord d'association, conformément au mandat confié par le Conseil à la Commission. Il a donc exprimé son opposition à une scission, pour permettre aux Parlements nationaux de participer pleinement à son processus de ratification. Enfin, le Gouvernement rappelle que l'accord sera également soumis à l'approbation du Parlement européen, comme c'est le cas pour l'ensemble des accords de commerce de l'UE.
