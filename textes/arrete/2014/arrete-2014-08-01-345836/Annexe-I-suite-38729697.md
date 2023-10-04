@@ -538,18 +538,6 @@ Tarn-et-Garonne
 
 |
 
-Montauban
-
-|
-
-82
-
-|
-
-Tarn-et-Garonne
-
-|
-
 Montbeton
 
 |
@@ -1018,43 +1006,7 @@ Vendée
 
 |
 
-Challans
-
-|
-
-85
-
-|
-
-Vendée
-
-|
-
 Le Fenouiller
-
-|
-
-85
-
-|
-
-Vendée
-
-|
-
-Les Herbiers
-
-|
-
-85
-
-|
-
-Vendée
-
-|
-
-L’Ile-d’Yeu
 
 |
 
@@ -1126,30 +1078,6 @@ Vendée
 
 |
 
-Saint-Hilaire-de-Riez
-
-|
-
-85
-
-|
-
-Vendée
-
-|
-
-Saint-Jean-de-Monts
-
-|
-
-85
-
-|
-
-Vendée
-
-|
-
 Saint-Vincent-sur-Jard
 
 |
@@ -1175,30 +1103,6 @@ Vendée
 |
 
 Soullans
-
-|
-
-85
-
-|
-
-Vendée
-
-|
-
-Talmont-Saint-Hilaire
-
-|
-
-85
-
-|
-
-Vendée
-
-|
-
-La Tranche-sur-Mer
 
 |
 
@@ -1607,18 +1511,6 @@ Yonne
 |
 
 Appoigny
-
-|
-
-89
-
-|
-
-Yonne
-
-|
-
-Auxerre
 
 |
 

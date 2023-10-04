@@ -382,18 +382,6 @@ Meurthe-et-Moselle
 
 |
 
-Jarville-la-Malgrange
-
-|
-
-54
-
-|
-
-Meurthe-et-Moselle
-
-|
-
 Jœuf
 
 |
@@ -455,18 +443,6 @@ Meurthe-et-Moselle
 |
 
 Longlaville
-
-|
-
-54
-
-|
-
-Meurthe-et-Moselle
-
-|
-
-Longwy
 
 |
 
@@ -794,18 +770,6 @@ Varangéville
 
 |
 
-54
-
-|
-
-Meurthe-et-Moselle
-
-|
-
-Villerupt
-
-|
-
 56
 
 |
@@ -815,30 +779,6 @@ Morbihan
 |
 
 Arradon
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Arzon
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Auray
 
 |
 
@@ -887,18 +827,6 @@ Morbihan
 |
 
 Camoël
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Carnac
 
 |
 
@@ -1006,30 +934,6 @@ Morbihan
 
 |
 
-Guidel
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Hennebont
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
 Le Hézo
 
 |
@@ -1090,18 +994,6 @@ Morbihan
 
 |
 
-Lanester
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
 Languidic
 
 |
@@ -1126,18 +1018,6 @@ Morbihan
 
 |
 
-Larmor-Plage
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
 Locmariaquer
 
 |
@@ -1151,18 +1031,6 @@ Morbihan
 |
 
 Locmiquélic
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Lorient
 
 |
 
@@ -1223,18 +1091,6 @@ Morbihan
 |
 
 Plescop
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Ploemeur
 
 |
 
@@ -1330,18 +1186,6 @@ Morbihan
 
 |
 
-Quiberon
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
 Riantec
 
 |
@@ -1355,18 +1199,6 @@ Morbihan
 |
 
 Saint-Armel
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Saint-Avé
 
 |
 
@@ -1415,30 +1247,6 @@ Morbihan
 |
 
 Saint-Pierre-Quiberon
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Sarzeau
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Séné
 
 |
 
@@ -1534,18 +1342,6 @@ Morbihan
 
 |
 
-Vannes
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
 Bono
 
 |
@@ -1607,18 +1403,6 @@ Moselle
 |
 
 Amanvillers
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
-Amnéville
 
 |
 
@@ -2074,18 +1858,6 @@ Moselle
 
 |
 
-Fameck
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
 Farébersviller
 
 |
@@ -2123,18 +1895,6 @@ Moselle
 |
 
 Féy
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
-Florange
 
 |
 
@@ -2675,18 +2435,6 @@ Moselle
 |
 
 Macheren
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
-Maizières-lès-Metz
 
 |
 
@@ -3502,18 +3250,6 @@ Moselle
 
 |
 
-Thionville
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
 Trémery
 
 |
@@ -3695,18 +3431,6 @@ Moselle
 |
 
 Woustviller
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
-Yutz
 
 |
 
@@ -4534,18 +4258,6 @@ Nord
 
 |
 
-Coudekerque-Branche
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
 Courchelettes
 
 |
@@ -4643,18 +4355,6 @@ Nord
 |
 
 Douchy-les-Mines
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Dunkerque
 
 |
 
@@ -5098,31 +4798,7 @@ Nord
 
 |
 
-Grande-Synthe
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
 Grand-Fort-Philippe
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Gravelines
 
 |
 
@@ -5219,18 +4895,6 @@ Nord
 |
 
 Haveluy
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Hazebrouck
 
 |
 
@@ -6431,18 +6095,6 @@ Nord
 |
 
 La Sentinelle
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Sin-le-Noble
 
 |
 

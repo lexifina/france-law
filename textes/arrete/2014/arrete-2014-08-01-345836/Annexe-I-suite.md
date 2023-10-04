@@ -118,18 +118,6 @@ Eure
 
 |
 
-Evreux
-
-|
-
-27
-
-|
-
-Eure
-
-|
-
 Ezy-sur-Eure
 
 |
@@ -1262,18 +1250,6 @@ Villiers-en-Désœuvre
 
 |
 
-27
-
-|
-
-Eure
-
-|
-
-Val-de-Reuil
-
-|
-
 28
 
 |
@@ -1619,18 +1595,6 @@ Eure-et-Loir
 |
 
 Denonville
-
-|
-
-28
-
-|
-
-Eure-et-Loir
-
-|
-
-Dreux
 
 |
 
@@ -2434,18 +2398,6 @@ Eure-et-Loir
 
 |
 
-Vernouillet
-
-|
-
-28
-
-|
-
-Eure-et-Loir
-
-|
-
 Vierville
 
 |
@@ -2542,18 +2494,6 @@ Finistère
 
 |
 
-Brest
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
 Clohars-Fouesnant
 
 |
@@ -2578,18 +2518,6 @@ Finistère
 
 |
 
-Concarneau
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
 Ergué-Gabéric
 
 |
@@ -2603,18 +2531,6 @@ Finistère
 |
 
 La Forêt-Fouesnant
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
-Fouesnant
 
 |
 
@@ -2675,18 +2591,6 @@ Finistère
 |
 
 Guilvinec
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
-Guipavas
 
 |
 
@@ -2866,67 +2770,7 @@ Finistère
 
 |
 
-Plougastel-Daoulas
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
-Plouzané
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
 Pluguffan
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
-Pont-l’Abbé
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
-Quimper
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
-Le Relecq-Kerhuon
 
 |
 
@@ -2951,18 +2795,6 @@ Finistère
 |
 
 Treffiagat
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
-Trégunc
 
 |
 
@@ -3290,18 +3122,6 @@ Tresques
 
 |
 
-30
-
-|
-
-Gard
-
-|
-
-Vauvert
-
-|
-
 31
 
 |
@@ -3323,30 +3143,6 @@ Gironde
 |
 
 Ambès
-
-|
-
-33
-
-|
-
-Gironde
-
-|
-
-Andernos-les-Bains
-
-|
-
-33
-
-|
-
-Gironde
-
-|
-
-Arès
 
 |
 
@@ -3407,30 +3203,6 @@ Gironde
 |
 
 Lanton
-
-|
-
-33
-
-|
-
-Gironde
-
-|
-
-Lège-Cap-Ferret
-
-|
-
-33
-
-|
-
-Gironde
-
-|
-
-Libourne
 
 |
 
@@ -3587,18 +3359,6 @@ Hérault
 |
 
 Bassan
-
-|
-
-34
-
-|
-
-Hérault
-
-|
-
-Béziers
 
 |
 
@@ -3767,18 +3527,6 @@ Hérault
 |
 
 Valergues
-
-|
-
-34
-
-|
-
-Hérault
-
-|
-
-Valras-Plage
 
 |
 
@@ -4678,18 +4426,6 @@ Isère
 
 |
 
-Vienne
-
-|
-
-38
-
-|
-
-Isère
-
-|
-
 Vinay
 
 |
@@ -4834,18 +4570,6 @@ Landes
 
 |
 
-Dax
-
-|
-
-40
-
-|
-
-Landes
-
-|
-
 Mont-de-Marsan
 
 |
@@ -4894,18 +4618,6 @@ Landes
 
 |
 
-Saint-Paul-lès-Dax
-
-|
-
-40
-
-|
-
-Landes
-
-|
-
 Saint-Pierre-du-Mont
 
 |
@@ -4943,18 +4655,6 @@ Landes
 |
 
 Seyresse
-
-|
-
-40
-
-|
-
-Landes
-
-|
-
-Soustons
 
 |
 
@@ -6154,18 +5854,6 @@ Loire-Atlantique
 
 |
 
-Saint-Brevin-les-Pins
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
 Saint-Joachim
 
 |
@@ -6214,18 +5902,6 @@ Loire-Atlantique
 
 |
 
-Saint-Michel-Chef-Chef
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
 Saint-Molf
 
 |
@@ -6263,18 +5939,6 @@ Loire-Atlantique
 |
 
 Treillières
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
-La Turballe
 
 |
 
@@ -6766,18 +6430,6 @@ Maine-et-Loire
 
 |
 
-Avrillé
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
 Beaucouzé
 
 |
@@ -6839,18 +6491,6 @@ Maine-et-Loire
 |
 
 Chanteloup-les-Bois
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
-Cholet
 
 |
 
@@ -7007,18 +6647,6 @@ Maine-et-Loire
 |
 
 Le Plessis-Macé
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
-Les Ponts-de-Cé
 
 |
 
@@ -7246,18 +6874,6 @@ Maine-et-Loire
 
 |
 
-Trélazé
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
 Trémentines
 
 |
@@ -7379,18 +6995,6 @@ Manche
 |
 
 La Glacerie
-
-|
-
-50
-
-|
-
-Manche
-
-|
-
-Granville
 
 |
 

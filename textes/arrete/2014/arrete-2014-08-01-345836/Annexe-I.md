@@ -1270,6 +1270,158 @@ Bouches-du-Rhône |
 
 Carnoux-en-Provence |
 
+14 |
+
+Calvados |
+
+Deauville
+
+|
+
+14 |
+
+Calvados |
+
+Trouville-sur-Mer
+
+|
+
+14 |
+
+Calvados |
+
+Villers-sur-Mer
+
+|
+
+17 |
+
+Charente-Maritime |
+
+Aytré
+
+|
+
+17 |
+
+Charente-Maritime |
+
+Châtelaillon-Plage
+
+|
+
+17 |
+
+Charente-Maritime |
+
+La Rochelle
+
+|
+
+30 |
+
+Gard |
+
+Le Grau-du-Roi
+
+|
+
+31 |
+
+Haute-Garonne |
+
+Toulouse
+
+|
+
+33 |
+
+Gironde |
+
+Andernos-les-Bains
+
+|
+
+33 |
+
+Gironde |
+
+Arcachon
+
+|
+
+33 |
+
+Gironde |
+
+Arès
+
+|
+
+33 |
+
+Gironde |
+
+Bordeaux
+
+|
+
+33 |
+
+Gironde |
+
+Cestas
+
+|
+
+33 |
+
+Gironde |
+
+Gradignan
+
+|
+
+33 |
+
+Gironde |
+
+Gujan-Mestras
+
+|
+
+33 |
+
+Gironde |
+
+Le Bouscat
+
+|
+
+33 |
+
+Gironde |
+
+Lège-Cap-Ferret
+
+|
+
+33 |
+
+Gironde |
+
+Mérignac
+
+|
+
+33 |
+
+Gironde |
+
+Talence
+
+|
+
 34 |
 
 Hérault |
@@ -1420,6 +1572,70 @@ Hérault |
 
 La Grande-Motte |
 
+38 |
+
+Isère |
+
+Les Deux Alpes
+
+|
+
+38 |
+
+Isère
+
+|
+
+Meylan |
+
+38 |
+
+Isère
+
+|
+
+Villard-de-Lans |
+
+40 |
+
+Landes
+
+|
+
+Seignosse |
+
+40 |
+
+Landes
+
+|
+
+Soorts-Hossegor |
+
+44 |
+
+Loire-Atlantique
+
+|
+
+La Baule-Escoublac |
+
+44 |
+
+Loire-Atlantique
+
+|
+
+Le Pouliguen |
+
+44 |
+
+Loire-Atlantique
+
+|
+
+Pornichet |
+
 59 |
 
 Nord |
@@ -1449,6 +1665,14 @@ La Madeleine |
 Nord |
 
 Marcq-en-Barœul |
+
+59 |
+
+Nord |
+
+Mouvaux
+
+|
 
 59 |
 
@@ -1544,7 +1768,103 @@ Orry-la-Ville |
 
 Oise |
 
+Senlis
+
+|
+
+60 |
+
+Oise |
+
 Vineuil-Saint-Firmin |
+
+62 |
+
+Pas-de-Calais |
+
+Le Touquet-Paris-Plage
+
+|
+
+64 |
+
+Pyrénées-Atlantiques |
+
+Anglet
+
+|
+
+64 |
+
+Pyrénées-Atlantiques |
+
+Biarritz
+
+|
+
+64 |
+
+Pyrénées-Atlantiques |
+
+Bidart
+
+|
+
+64 |
+
+Pyrénées-Atlantiques |
+
+Ciboure
+
+|
+
+64 |
+
+Pyrénées-Atlantiques |
+
+Saint-Jean-de-Luz
+
+|
+
+67 |
+
+Bas-Rhin |
+
+Illkirch-Graffenstaden
+
+|
+
+67 |
+
+Bas-Rhin |
+
+Strasbourg
+
+|
+
+69 |
+
+Rhône |
+
+Caluire-et-Cuire
+
+|
+
+69 |
+
+Rhône |
+
+Écully
+
+|
+
+69 |
+
+Rhône |
+
+Francheville
+
+|
 
 69 |
 
@@ -1556,7 +1876,39 @@ Lyon |
 
 Rhône |
 
+Sainte-Foy-lès-Lyon
+
+|
+
+69 |
+
+Rhône |
+
+Tassin-la-Demi-Lune
+
+|
+
+69 |
+
+Rhône |
+
 Villeurbanne |
+
+73 |
+
+Savoie
+
+|
+
+Aix-les-Bains |
+
+73 |
+
+Savoie
+
+|
+
+La-Motte-Servolex |
 
 74 |
 
@@ -1569,6 +1921,14 @@ Allonzier-la-Caille |
 Haute-Savoie |
 
 Ambilly |
+
+74 |
+
+Haute-Savoie |
+
+Annecy
+
+|
 
 74 |
 
@@ -1605,6 +1965,14 @@ Bonne |
 Haute-Savoie |
 
 Bossey |
+
+74 |
+
+Haute-Savoie |
+
+Châtel
+
+|
 
 74 |
 
@@ -1658,6 +2026,14 @@ Etrembières |
 
 Haute-Savoie |
 
+Évian-les-Bains
+
+|
+
+74 |
+
+Haute-Savoie |
+
 Faucigny |
 
 74 |
@@ -1689,6 +2065,22 @@ Les Gets |
 Haute-Savoie |
 
 Juvigny |
+
+74 |
+
+Haute-Savoie |
+
+La Roche-sur-Foron
+
+|
+
+74 |
+
+Haute-Savoie |
+
+Le Grand-Bornand
+
+|
 
 74 |
 
@@ -1760,6 +2152,14 @@ Reignier-Esery |
 
 Haute-Savoie |
 
+Rumilly
+
+|
+
+74 |
+
+Haute-Savoie |
+
 Saint-Cergues |
 
 74 |
@@ -1767,6 +2167,30 @@ Saint-Cergues |
 Haute-Savoie |
 
 Saint-Julien-en-Genevois |
+
+74 |
+
+Haute-Savoie |
+
+Sallanches
+
+|
+
+74 |
+
+Haute-Savoie |
+
+Samoëns
+
+|
+
+74 |
+
+Haute-Savoie |
+
+Thonon-les-Bains
+
+|
 
 74 |
 
@@ -3194,6 +3618,14 @@ Crosne |
 
 Essonne |
 
+Dourdan
+
+|
+
+91 |
+
+Essonne |
+
 Draveil |
 
 91 |
@@ -4378,6 +4810,70 @@ Val-d'Oise |
 
 Villiers-le-Bel |
 
+971 |
+
+Guadeloupe
+
+|
+
+Le Gosier |
+
+971 |
+
+Guadeloupe
+
+|
+
+Saint-François |
+
+972 |
+
+Martinique
+
+|
+
+Le Marin |
+
+972 |
+
+Martinique
+
+|
+
+Les Trois-Îlets |
+
+974 |
+
+La Réunion
+
+|
+
+Les Avirons |
+
+974 |
+
+La Réunion
+
+|
+
+L'Étang-Salé |
+
+974 |
+
+La Réunion
+
+|
+
+Saint-Leu |
+
+974 |
+
+La Réunion
+
+|
+
+Saint-Paul |
+
 2A |
 
 Corse-du-Sud |
@@ -4396,13 +4892,37 @@ Corse-du-Sud |
 
 Porto-Vecchio |
 
+2B |
+
+Haute-Corse
+
+|
+
+Calvi |
+
 B1
+
+01 |
+
+Ain
+
+|
+
+Ambérieu-en-Bugey |
 
 01 |
 
 Ain |
 
 Beynost |
+
+01 |
+
+Ain |
+
+Bourg-en-Bresse
+
+|
 
 01 |
 
@@ -4524,6 +5044,14 @@ Ain |
 
 Trévoux |
 
+01
+
+|
+
+Ain |
+
+Valserhône |
+
 01 |
 
 Ain |
@@ -4536,11 +5064,43 @@ Ain |
 
 Vesancy |
 
+02
+
+|
+
+Aisne |
+
+Château-Thierry |
+
 02 |
 
 Aisne |
 
 Villers-Cotterêts |
+
+05 |
+
+Hautes-Alpes |
+
+Briançon
+
+|
+
+05 |
+
+Hautes-Alpes
+
+|
+
+Embrun |
+
+05 |
+
+Hautes-Alpes
+
+|
+
+Gap |
 
 06 |
 
@@ -4566,11 +5126,67 @@ Alpes-Maritimes |
 
 Saint-Vallier-de-Thiey |
 
+07 |
+
+Ardèche |
+
+Guilherand-Granges
+
+|
+
+10 |
+
+Aube |
+
+Sainte-Savine
+
+|
+
+10 |
+
+Aube |
+
+Troyes
+
+|
+
+11 |
+
+Aude |
+
+Gruissan
+
+|
+
+11 |
+
+Aude |
+
+Leucate
+
+|
+
+11 |
+
+Aude |
+
+Port-la-Nouvelle
+
+|
+
 13 |
 
 Bouches-du-Rhône |
 
 Arles |
+
+13 |
+
+Bouches-du-Rhône |
+
+Châteaurenard
+
+|
 
 13 |
 
@@ -4714,6 +5330,14 @@ Salon-de-Provence |
 
 Bouches-du-Rhône |
 
+Tarascon
+
+|
+
+13 |
+
+Bouches-du-Rhône |
+
 Ventabren |
 
 13 |
@@ -4726,7 +5350,23 @@ Coudoux |
 
 Calvados |
 
+Bayeux
+
+|
+
+14 |
+
+Calvados |
+
 Bretteville-sur-Odon |
+
+14 |
+
+Calvados |
+
+Cabourg
+
+|
 
 14 |
 
@@ -4756,7 +5396,9 @@ Cormelles-le-Royal |
 
 Calvados |
 
-Deauville |
+Courseulles-sur-Mer
+
+|
 
 14 |
 
@@ -4781,6 +5423,14 @@ Hérouville-Saint-Clair |
 Calvados |
 
 Honfleur |
+
+14 |
+
+Calvados |
+
+Houlgate
+
+|
 
 14 |
 
@@ -4816,12 +5466,6 @@ Saint-Germain-la-Blanche-Herbe |
 
 Calvados |
 
-Trouville-sur-Mer |
-
-14 |
-
-Calvados |
-
 Verson |
 
 17 |
@@ -4840,19 +5484,15 @@ Ars-en-Ré |
 
 Charente-Maritime |
 
-Aytré |
-
-17 |
-
-Charente-Maritime |
-
 Le Bois-Plage-en-Ré |
 
 17 |
 
-Charente-Maritime |
+Charente-Maritime
 
-Châtelaillon-Plage |
+|
+
+Les Mathes |
 
 17 |
 
@@ -4930,7 +5570,25 @@ Rivedoux-Plage |
 
 Charente-Maritime |
 
-La Rochelle |
+Rochefort
+
+|
+
+17 |
+
+Charente-Maritime |
+
+Royan
+
+|
+
+17 |
+
+Charente-Maritime |
+
+La Tremblade
+
+|
 
 17 |
 
@@ -4948,13 +5606,53 @@ Sainte-Marie-de-Ré |
 
 Charente-Maritime |
 
+Saint-Georges-de-Didonne
+
+|
+
+17 |
+
+Charente-Maritime |
+
+Saint-Georges-d'Oléron
+
+|
+
+17 |
+
+Charente-Maritime |
+
 Saint-Martin-de-Ré |
 
 17 |
 
 Charente-Maritime |
 
+Saint-Palais-sur-Mer
+
+|
+
+17 |
+
+Charente-Maritime
+
+|
+
+Saint-Pierre-d'Oléron |
+
+17 |
+
+Charente-Maritime |
+
 Salles-sur-Mer |
+
+17 |
+
+Charente-Maritime |
+
+Vaux-sur-Mer
+
+|
 
 21 |
 
@@ -5046,6 +5744,78 @@ Côte-d'Or |
 
 Talant |
 
+22 |
+
+Côtes-d'Armor |
+
+Dinan
+
+|
+
+22 |
+
+Côtes-d'Armor |
+
+Paimpol
+
+|
+
+22 |
+
+Côtes-d'Armor |
+
+Perros-Guirec
+
+|
+
+22 |
+
+Côtes-d'Armor |
+
+Pléneuf-Val-André
+
+|
+
+22 |
+
+Côtes-d'Armor |
+
+Plérin
+
+|
+
+25 |
+
+Doubs |
+
+Besançon
+
+|
+
+25 |
+
+Doubs |
+
+Pontarlier
+
+|
+
+26 |
+
+Drôme |
+
+Bourg-lès-Valence
+
+|
+
+26 |
+
+Drôme |
+
+Valence
+
+|
+
 27 |
 
 Eure |
@@ -5062,6 +5832,14 @@ Le Bosc-Roger-en-Roumois |
 
 Eure |
 
+Louviers
+
+|
+
+27 |
+
+Eure |
+
 Bosnormand |
 
 27 |
@@ -5069,6 +5847,14 @@ Bosnormand |
 Eure |
 
 Bourgtheroulde-Infreville |
+
+27 |
+
+Eure
+
+|
+
+Évreux |
 
 27 |
 
@@ -5122,6 +5908,14 @@ Saint-Pierre-d'Autils |
 
 Eure |
 
+Val-de-Reuil
+
+|
+
+27 |
+
+Eure |
+
 Vernon |
 
 28 |
@@ -5147,6 +5941,14 @@ Champhol |
 Eure-et-Loir |
 
 Chartres |
+
+28 |
+
+Eure-et-Loir |
+
+Dreux
+
+|
 
 28 |
 
@@ -5195,6 +5997,110 @@ Mainvilliers |
 Eure-et-Loir |
 
 Morancez |
+
+28 |
+
+Eure-et-Loir |
+
+Vernouillet
+
+|
+
+29 |
+
+Finistère |
+
+Brest
+
+|
+
+29 |
+
+Finistère |
+
+Concarneau
+
+|
+
+29 |
+
+Finistère |
+
+Crozon
+
+|
+
+29 |
+
+Finistère |
+
+Fouesnant
+
+|
+
+29 |
+
+Finistère |
+
+Guipavas
+
+|
+
+29 |
+
+Finistère |
+
+Landerneau
+
+|
+
+29 |
+
+Finistère |
+
+Le Relecq-Kerhuon
+
+|
+
+29 |
+
+Finistère |
+
+Plougastel-Daoulas
+
+|
+
+29 |
+
+Finistère |
+
+Plouzané
+
+|
+
+29 |
+
+Finistère |
+
+Pont-l'Abbé
+
+|
+
+29 |
+
+Finistère |
+
+Quimper
+
+|
+
+29 |
+
+Finistère |
+
+Trégunc
+
+|
 
 30 |
 
@@ -5320,12 +6226,6 @@ Générac |
 
 Gard |
 
-Le Grau-du-Roi |
-
-30 |
-
-Gard |
-
 Langlade |
 
 30 |
@@ -5405,6 +6305,22 @@ Saint-Gervasy |
 Gard |
 
 Uchaud |
+
+30 |
+
+Gard |
+
+Uzès
+
+|
+
+30 |
+
+Gard |
+
+Vauvert
+
+|
 
 30 |
 
@@ -5848,12 +6764,6 @@ Seysses |
 
 Haute-Garonne |
 
-Toulouse |
-
-31 |
-
-Haute-Garonne |
-
 Tournefeuille |
 
 31 |
@@ -5891,12 +6801,6 @@ Villeneuve-Tolosane |
 Gironde |
 
 Ambarès-et-Lagrave |
-
-33 |
-
-Gironde |
-
-Arcachon |
 
 33 |
 
@@ -5956,19 +6860,7 @@ Bonnetan |
 
 Gironde |
 
-Bordeaux |
-
-33 |
-
-Gironde |
-
 Bouliac |
-
-33 |
-
-Gironde |
-
-Le Bouscat |
 
 33 |
 
@@ -6034,12 +6926,6 @@ Cenon |
 
 Gironde |
 
-Cestas |
-
-33 |
-
-Gironde |
-
 Eysines |
 
 33 |
@@ -6053,18 +6939,6 @@ Fargues-Saint-Hilaire |
 Gironde |
 
 Floirac |
-
-33 |
-
-Gironde |
-
-Gradignan |
-
-33 |
-
-Gironde |
-
-Gujan-Mestras |
 
 33 |
 
@@ -6106,6 +6980,14 @@ Lestiac-sur-Garonne |
 
 Gironde |
 
+Libourne
+
+|
+
+33 |
+
+Gironde |
+
 Lignan-de-Bordeaux |
 
 33 |
@@ -6125,12 +7007,6 @@ Martignas-sur-Jalle |
 Gironde |
 
 Martillac |
-
-33 |
-
-Gironde |
-
-Mérignac |
 
 33 |
 
@@ -6248,6 +7124,14 @@ Sallebœuf |
 
 33 |
 
+Gironde
+
+|
+
+Soulac-sur-Mer |
+
+33 |
+
 Gironde |
 
 Tabanac |
@@ -6262,12 +7146,6 @@ Le Taillan-Médoc |
 
 Gironde |
 
-Talence |
-
-33 |
-
-Gironde |
-
 Le Teich |
 
 33 |
@@ -6275,6 +7153,14 @@ Le Teich |
 Gironde |
 
 La Teste-de-Buch |
+
+33 |
+
+Gironde |
+
+Lacanau
+
+|
 
 33 |
 
@@ -6328,6 +7214,14 @@ Balaruc-les-Bains |
 
 Hérault |
 
+Béziers
+
+|
+
+34 |
+
+Hérault |
+
 Balaruc-le-Vieux |
 
 34 |
@@ -6335,6 +7229,14 @@ Balaruc-le-Vieux |
 Hérault |
 
 Castries |
+
+34 |
+
+Hérault |
+
+Clermont-l'Hérault
+
+|
 
 34 |
 
@@ -6401,6 +7303,14 @@ Mireval |
 Hérault |
 
 Montbazin |
+
+34 |
+
+Hérault |
+
+Pézenas
+
+|
 
 34 |
 
@@ -6479,6 +7389,14 @@ Sète |
 Hérault |
 
 Sussargues |
+
+34 |
+
+Hérault |
+
+Valras-Plage
+
+|
 
 34 |
 
@@ -6994,6 +7912,14 @@ Grenoble |
 
 Isère |
 
+Huez
+
+|
+
+38 |
+
+Isère |
+
 L'Isle-d'Abeau |
 
 38 |
@@ -7007,12 +7933,6 @@ Jarrie |
 Isère |
 
 Maubec |
-
-38 |
-
-Isère |
-
-Meylan |
 
 38 |
 
@@ -7222,6 +8142,14 @@ Veurey-Voroize |
 
 Isère |
 
+Vienne
+
+|
+
+38 |
+
+Isère |
+
 Vif |
 
 38 |
@@ -7280,9 +8208,25 @@ Capbreton |
 
 40 |
 
+Landes
+
+|
+
+Dax |
+
+40 |
+
 Landes |
 
 Labenne |
+
+40 |
+
+Landes
+
+|
+
+Mimizan |
 
 40 |
 
@@ -7306,6 +8250,14 @@ Saint-Martin-de-Seignanx |
 
 Landes |
 
+Saint-Paul-lès-Dax
+
+|
+
+40 |
+
+Landes |
+
 Saint-Vincent-de-Tyrosse |
 
 40 |
@@ -7318,13 +8270,9 @@ Saubion |
 
 Landes |
 
-Seignosse |
+Soustons
 
-40 |
-
-Landes |
-
-Soorts-Hossegor |
+|
 
 40 |
 
@@ -7337,6 +8285,14 @@ Tarnos |
 Landes |
 
 Tosse |
+
+44 |
+
+Loire-Atlantique |
+
+Ancenis-Saint-Géréon
+
+|
 
 44 |
 
@@ -7408,12 +8364,6 @@ Donges |
 
 Loire-Atlantique |
 
-La Baule-Escoublac |
-
-44 |
-
-Loire-Atlantique |
-
 Guérande |
 
 44 |
@@ -7439,6 +8389,14 @@ Mauves-sur-Loire |
 Loire-Atlantique |
 
 La Montagne |
+
+44 |
+
+Loire-Atlantique |
+
+La Turballe
+
+|
 
 44 |
 
@@ -7486,19 +8444,7 @@ Pornic |
 
 Loire-Atlantique |
 
-Pornichet |
-
-44 |
-
-Loire-Atlantique |
-
 Port-Saint-Père |
-
-44 |
-
-Loire-Atlantique |
-
-Le Pouliguen |
 
 44 |
 
@@ -7522,6 +8468,14 @@ Saint-André-des-Eaux |
 
 Loire-Atlantique |
 
+Saint-Brevin-les-Pins
+
+|
+
+44 |
+
+Loire-Atlantique |
+
 Saint-Herblain |
 
 44 |
@@ -7535,6 +8489,14 @@ Saint-Jean-de-Boiseau |
 Loire-Atlantique |
 
 Saint-Léger-les-Vignes |
+
+44 |
+
+Loire-Atlantique |
+
+Saint-Michel-Chef-Chef
+
+|
 
 44 |
 
@@ -7702,7 +8664,57 @@ Semoy |
 
 Maine-et-Loire |
 
-Angers |
+Angers
+
+|
+
+49 |
+
+Maine-et-Loire |
+
+Avrillé
+
+|
+
+49 |
+
+Maine-et-Loire |
+
+Cholet
+
+|
+
+49 |
+
+Maine-et-Loire |
+
+Les Ponts-de-Cé
+
+|
+
+49 |
+
+Maine-et-Loire |
+
+Trélazé
+
+|
+
+50 |
+
+Manche |
+
+Cherbourg-en-Cotentin
+
+|
+
+50 |
+
+Manche |
+
+Granville
+
+|
 
 51 |
 
@@ -7756,7 +8768,23 @@ Tinqueux |
 
 Meurthe-et-Moselle |
 
+Jarville-la-Malgrange
+
+|
+
+54 |
+
+Meurthe-et-Moselle |
+
 Laxou |
+
+54 |
+
+Meurthe-et-Moselle |
+
+Longwy
+
+|
 
 54 |
 
@@ -7788,11 +8816,59 @@ Meurthe-et-Moselle |
 
 Villers-lès-Nancy |
 
+54 |
+
+Meurthe-et-Moselle |
+
+Villerupt
+
+|
+
+56 |
+
+Morbihan |
+
+Arzon
+
+|
+
+56 |
+
+Morbihan |
+
+Auray
+
+|
+
 56 |
 
 Morbihan |
 
 Bangor |
+
+56 |
+
+Morbihan |
+
+Carnac
+
+|
+
+56 |
+
+Morbihan |
+
+Guidel
+
+|
+
+56 |
+
+Morbihan |
+
+Hennebont
+
+|
 
 56 |
 
@@ -7804,7 +8880,63 @@ Hœdic |
 
 Morbihan |
 
+Lanester
+
+|
+
+56 |
+
+Morbihan |
+
+Larmor-Plage
+
+|
+
+56 |
+
+Morbihan |
+
 Locmaria |
+
+56 |
+
+Morbihan |
+
+Lorient
+
+|
+
+56 |
+
+Morbihan |
+
+Ploemeur
+
+|
+
+56 |
+
+Morbihan |
+
+Quiberon
+
+|
+
+56 |
+
+Morbihan |
+
+Saint-Avé
+
+|
+
+56 |
+
+Morbihan |
+
+Sarzeau
+
+|
 
 56 |
 
@@ -7817,6 +8949,54 @@ Le Palais |
 Morbihan |
 
 Sauzon |
+
+56 |
+
+Morbihan |
+
+Séné
+
+|
+
+56 |
+
+Morbihan |
+
+Vannes
+
+|
+
+57 |
+
+Moselle |
+
+Amnéville
+
+|
+
+57 |
+
+Moselle |
+
+Fameck
+
+|
+
+57 |
+
+Moselle |
+
+Florange
+
+|
+
+57 |
+
+Moselle |
+
+Maizières-lès-Metz
+
+|
 
 57 |
 
@@ -7840,7 +9020,23 @@ Montigny-lès-Metz |
 
 Moselle |
 
+Thionville
+
+|
+
+57 |
+
+Moselle |
+
 Woippy |
+
+57 |
+
+Moselle |
+
+Yutz
+
+|
 
 59 |
 
@@ -7924,6 +9120,14 @@ Comines |
 
 Nord |
 
+Coudekerque-Branche
+
+|
+
+59 |
+
+Nord |
+
 Croix |
 
 59 |
@@ -7937,6 +9141,14 @@ Cysoing |
 Nord |
 
 Douai |
+
+59 |
+
+Nord |
+
+Dunkerque
+
+|
 
 59 |
 
@@ -7978,6 +9190,22 @@ Frelinghien |
 
 Nord |
 
+Grande-Synthe
+
+|
+
+59 |
+
+Nord |
+
+Gravelines
+
+|
+
+59 |
+
+Nord |
+
 Gruson |
 
 59 |
@@ -7997,6 +9225,14 @@ Halluin |
 Nord |
 
 Haubourdin |
+
+59 |
+
+Nord |
+
+Hazebrouck
+
+|
 
 59 |
 
@@ -8069,12 +9305,6 @@ Marquette-lez-Lille |
 Nord |
 
 Mons-en-Barœul |
-
-59 |
-
-Nord |
-
-Mouvaux |
 
 59 |
 
@@ -8159,6 +9389,14 @@ Seclin |
 Nord |
 
 Sequedin |
+
+59 |
+
+Nord |
+
+Sin-le-Noble
+
+|
 
 59 |
 
@@ -8560,12 +9798,6 @@ Saint-Leu-d'Esserent |
 
 Oise |
 
-Senlis |
-
-60 |
-
-Oise |
-
 Thiverny |
 
 60 |
@@ -8620,7 +9852,39 @@ Villers-sous-Saint-Leu |
 
 Pas-de-Calais |
 
+Arras
+
+|
+
+62 |
+
+Pas-de-Calais |
+
+Berck
+
+|
+
+62 |
+
+Pas-de-Calais |
+
 Béthune |
+
+62 |
+
+Pas-de-Calais |
+
+Cucq
+
+|
+
+62 |
+
+Pas-de-Calais |
+
+Étaples
+
+|
 
 62 |
 
@@ -8632,7 +9896,41 @@ Lens |
 
 Pas-de-Calais |
 
-Le Touquet-Paris-Plage |
+Merlimont
+
+|
+
+62 |
+
+Pas-de-Calais |
+
+Neufchâtel-Hardelot
+
+|
+
+62 |
+
+Pas-de-Calais |
+
+Saint-Martin-Boulogne
+
+|
+
+63 |
+
+Puy-de-Dôme |
+
+Aubière
+
+|
+
+63 |
+
+Puy-de-Dôme |
+
+Beaumont
+
+|
 
 63 |
 
@@ -8646,17 +9944,19 @@ Puy-de-Dôme |
 
 Clermont-Ferrand |
 
+63 |
+
+Puy-de-Dôme
+
+|
+
+Cournon-d'Auvergne |
+
 64 |
 
 Pyrénées-Atlantiques |
 
 Ahetze |
-
-64 |
-
-Pyrénées-Atlantiques |
-
-Anglet |
 
 64 |
 
@@ -8692,18 +9992,6 @@ Bayonne |
 
 Pyrénées-Atlantiques |
 
-Biarritz |
-
-64 |
-
-Pyrénées-Atlantiques |
-
-Bidart |
-
-64 |
-
-Pyrénées-Atlantiques |
-
 Biriatou |
 
 64 |
@@ -8711,12 +9999,6 @@ Biriatou |
 Pyrénées-Atlantiques |
 
 Boucau |
-
-64 |
-
-Pyrénées-Atlantiques |
-
-Ciboure |
 
 64 |
 
@@ -8747,12 +10029,6 @@ Lahonce |
 Pyrénées-Atlantiques |
 
 Mouguerre |
-
-64 |
-
-Pyrénées-Atlantiques |
-
-Saint-Jean-de-Luz |
 
 64 |
 
@@ -8806,7 +10082,23 @@ Canet-en-Roussillon |
 
 Pyrénées-Orientales |
 
+Céret
+
+|
+
+66 |
+
+Pyrénées-Orientales |
+
 Elne |
+
+66 |
+
+Pyrénées-Orientales |
+
+Font-Romeu-Odeillo-Via
+
+|
 
 66 |
 
@@ -8825,6 +10117,22 @@ Perpignan |
 Pyrénées-Orientales |
 
 Saint-Cyprien |
+
+66 |
+
+Pyrénées-Orientales |
+
+Sainte-Marie-la-Mer
+
+|
+
+66 |
+
+Pyrénées-Orientales |
+
+Saint-Estève
+
+|
 
 66 |
 
@@ -8855,6 +10163,14 @@ Bernolsheim |
 Bas-Rhin |
 
 Bischheim |
+
+67 |
+
+Bas-Rhin |
+
+Bischwiller
+
+|
 
 67 |
 
@@ -8896,6 +10212,14 @@ Geispolsheim |
 
 Bas-Rhin |
 
+Haguenau
+
+|
+
+67 |
+
+Bas-Rhin |
+
 Hœnheim |
 
 67 |
@@ -8903,12 +10227,6 @@ Hœnheim |
 Bas-Rhin |
 
 Holtzheim |
-
-67 |
-
-Bas-Rhin |
-
-Illkirch-Graffenstaden |
 
 67 |
 
@@ -8992,6 +10310,14 @@ Reichstett |
 
 Bas-Rhin |
 
+Saverne
+
+|
+
+67 |
+
+Bas-Rhin |
+
 Schiltigheim |
 
 67 |
@@ -8999,12 +10325,6 @@ Schiltigheim |
 Bas-Rhin |
 
 Souffelweyersheim |
-
-67 |
-
-Bas-Rhin |
-
-Strasbourg |
 
 67 |
 
@@ -9034,7 +10354,39 @@ Wolfisheim |
 
 Haut-Rhin |
 
+Cernay
+
+|
+
+68 |
+
+Haut-Rhin |
+
+Colmar
+
+|
+
+68 |
+
+Haut-Rhin |
+
 Huningue |
+
+68 |
+
+Haut-Rhin |
+
+Illzach
+
+|
+
+68 |
+
+Haut-Rhin |
+
+Kingersheim
+
+|
 
 68 |
 
@@ -9047,6 +10399,14 @@ Mulhouse |
 Haut-Rhin |
 
 Saint-Louis |
+
+68 |
+
+Haut-Rhin |
+
+Wittenheim
+
+|
 
 69 |
 
@@ -9119,12 +10479,6 @@ Bully |
 Rhône |
 
 Cailloux-sur-Fontaines |
-
-69 |
-
-Rhône |
-
-Caluire-et-Cuire |
 
 69 |
 
@@ -9232,12 +10586,6 @@ Dommartin |
 
 Rhône |
 
-Ecully |
-
-69 |
-
-Rhône |
-
 Eveux |
 
 69 |
@@ -9257,12 +10605,6 @@ Fontaines-Saint-Martin |
 Rhône |
 
 Fontaines-sur-Saône |
-
-69 |
-
-Rhône |
-
-Francheville |
 
 69 |
 
@@ -9514,12 +10856,6 @@ Saint-Fons |
 
 Rhône |
 
-Sainte-Foy-lès-Lyon |
-
-69 |
-
-Rhône |
-
 Saint-Genis-Laval |
 
 69 |
@@ -9581,12 +10917,6 @@ Saint-Romain-en-Gier |
 Rhône |
 
 Taluyers |
-
-69 |
-
-Rhône |
-
-Tassin-la-Demi-Lune |
 
 69 |
 
@@ -9792,11 +11122,13 @@ Rhône |
 
 Toussieu |
 
-73 |
+72 |
 
-Savoie |
+Sarthe |
 
-Aix-les-Bains |
+Le Mans
+
+|
 
 73 |
 
@@ -9826,6 +11158,14 @@ Bassens |
 
 Savoie |
 
+Bourg-Saint-Maurice
+
+|
+
+73 |
+
+Savoie |
+
 La Bâthie |
 
 73 |
@@ -9833,6 +11173,14 @@ La Bâthie |
 Savoie |
 
 Le Bourget-du-Lac |
+
+73 |
+
+Savoie |
+
+Les Belleville
+
+|
 
 73 |
 
@@ -9940,7 +11288,9 @@ Montagnole |
 
 Savoie |
 
-La Motte-Servolex |
+La Plagne Tarentaise
+
+|
 
 73 |
 
@@ -10102,12 +11452,6 @@ Andilly |
 
 Haute-Savoie |
 
-Annecy |
-
-74 |
-
-Haute-Savoie |
-
 Annecy-le-Vieux |
 
 74 |
@@ -10205,12 +11549,6 @@ La Chapelle-Rambaud |
 Haute-Savoie |
 
 Charvonnex |
-
-74 |
-
-Haute-Savoie |
-
-Châtel |
 
 74 |
 
@@ -10336,19 +11674,7 @@ Etaux |
 
 Haute-Savoie |
 
-Evian-les-Bains |
-
-74 |
-
-Haute-Savoie |
-
 Excenevex |
-
-74 |
-
-Haute-Savoie |
-
-Le Grand-Bornand |
 
 74 |
 
@@ -10480,6 +11806,14 @@ Neuvecelle |
 
 Haute-Savoie |
 
+Passy
+
+|
+
+74 |
+
+Haute-Savoie |
+
 Poisy |
 
 74 |
@@ -10505,18 +11839,6 @@ Publier |
 Haute-Savoie |
 
 Quintal |
-
-74 |
-
-Haute-Savoie |
-
-La Roche-sur-Foron |
-
-74 |
-
-Haute-Savoie |
-
-Rumilly |
 
 74 |
 
@@ -10571,12 +11893,6 @@ Saint-Pierre-en-Faucigny |
 Haute-Savoie |
 
 Saint-Sixt |
-
-74 |
-
-Haute-Savoie |
-
-Sallanches |
 
 74 |
 
@@ -10649,12 +11965,6 @@ Thyez |
 Haute-Savoie |
 
 Thônes |
-
-74 |
-
-Haute-Savoie |
-
-Thonon-les-Bains |
 
 74 |
 
@@ -10793,6 +12103,14 @@ Elbeuf |
 Seine-Maritime |
 
 Epouville |
+
+76 |
+
+Seine-Maritime |
+
+Fécamp
+
+|
 
 76 |
 
@@ -11868,6 +13186,14 @@ Somme |
 
 Salouël |
 
+82 |
+
+Tarn-et-Garonne |
+
+Montauban
+
+|
+
 83 |
 
 Var |
@@ -12298,6 +13624,14 @@ Barbâtre |
 
 Vendée |
 
+Challans
+
+|
+
+85 |
+
+Vendée |
+
 Château-d'Olonne |
 
 85 |
@@ -12311,6 +13645,22 @@ L'Epine |
 Vendée |
 
 La Guérinière |
+
+85 |
+
+Vendée |
+
+La Tranche-sur-Mer
+
+|
+
+85 |
+
+Vendée |
+
+Les Herbiers
+
+|
 
 85 |
 
@@ -12334,19 +13684,69 @@ Les Sables-d'Olonne |
 
 Vendée |
 
+L'Île-d'Yeu
+
+|
+
+85 |
+
+Vendée |
+
+Montaigu-Vendée
+
+|
+
+85 |
+
+Vendée |
+
 Saint-Gilles-Croix-de-Vie |
+
+85 |
+
+Vendée |
+
+Saint-Hilaire-de-Riez
+
+|
+
+85 |
+
+Vendée |
+
+Saint-Jean-de-Monts
+
+|
+
+85 |
+
+Vendée |
+
+Talmont-Saint-Hilaire
+
+|
 
 86 |
 
 Vienne |
 
-Poitiers |
+Poitiers
+
+|
 
 87 |
 
 Haute-Vienne |
 
 Limoges |
+
+89 |
+
+Yonne |
+
+Auxerre
+
+|
 
 91 |
 
@@ -12461,12 +13861,6 @@ Courson-Monteloup |
 Essonne |
 
 D'Huison-Longueville |
-
-91 |
-
-Essonne |
-
-Dourdan |
 
 91 |
 
@@ -13030,12 +14424,6 @@ Grand-Bourg |
 
 Guadeloupe |
 
-Le Gosier |
-
-971 |
-
-Guadeloupe |
-
 Goyave |
 
 971 |
@@ -13091,12 +14479,6 @@ Port-Louis |
 Guadeloupe |
 
 Saint-Claude |
-
-971 |
-
-Guadeloupe |
-
-Saint-François |
 
 971 |
 
@@ -13246,12 +14628,6 @@ Le Marigot |
 
 Martinique |
 
-Le Marin |
-
-972 |
-
-Martinique |
-
 Le Morne-Rouge |
 
 972 |
@@ -13325,12 +14701,6 @@ Schœlcher |
 Martinique |
 
 La Trinité |
-
-972 |
-
-Martinique |
-
-Les Trois-Ilets |
 
 972 |
 
@@ -13486,12 +14856,6 @@ Papaichton |
 
 La Réunion |
 
-Les Avirons |
-
-974 |
-
-La Réunion |
-
 Bras-Panon |
 
 974 |
@@ -13499,12 +14863,6 @@ Bras-Panon |
 La Réunion |
 
 Entre-Deux |
-
-974 |
-
-La Réunion |
-
-L'Etang-Salé |
 
 974 |
 
@@ -13558,19 +14916,7 @@ Saint-Joseph |
 
 La Réunion |
 
-Saint-Leu |
-
-974 |
-
-La Réunion |
-
 Saint-Louis |
-
-974 |
-
-La Réunion |
-
-Saint-Paul |
 
 974 |
 
@@ -13871,12 +15217,6 @@ Brando |
 Haute-Corse |
 
 Calenzana |
-
-2B |
-
-Haute-Corse |
-
-Calvi |
 
 2B |
 
