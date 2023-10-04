@@ -8,7 +8,7 @@ Conseiller stratégie et prospective de la police nationale.
 
 Directeur de cabinet du directeur général de la police nationale.
 
-Préfigurateur de la formation spécialisée du conseil supérieur de l'appui territorial et de l'évaluation compétente pour la police nationale.
+Vice-président du conseil supérieur de l'appui territorial et de l'évaluation.
 
 Préfigurateur directeur zonal de la police nationale à Marseille.
 
@@ -330,10 +330,10 @@ Préfecture de police-Divers :
 
 Conseiller technique chargé des affaires de police.
 
-15. Service des technologies et des systèmes d'information de la sécurité intérieure :
+15. Agence du numérique des forces de sécurité intérieure :
 
-Adjoint au chef du service des technologies et des systèmes d'information de la sécurité intérieure.
+Directeur adjoint de l'agence du numérique des forces de sécurité intérieure.
 
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 1er août 2023 (NOR : IOMC2314955A), ces dispositions entrent en vigueur à compter du 1er septembre 2023.
+Conformément à l'article 12 de l'arrêté du 30 novembre 2023 (NOR : IOMC2331987A), ces dispositions entrent en vigueur à compter du 1er janvier 2024, sous réserve des conditions d'application prévues audit article 12.
