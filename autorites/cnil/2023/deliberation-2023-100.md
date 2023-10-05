@@ -1,0 +1,72 @@
+# Délibération n° 2023-100 du 5 octobre 2023 portant avis sur un projet de décret modifiant les dispositions relatives à la carte d'identification professionnelle des salariés du bâtiment et des travaux publics prévues par le code du travail
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2023-100
+- Date : 2023-10-05
+- Publication : 2024-02-20
+- NOR : CNIX2334211V
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000049163249
+
+Date de l'avis : 5 octobre 2023 |
+
+N° de la délibération : 2023-100 |
+
+N° de demande d'avis : 23009957
+
+Organisme(s) à l'origine de la saisine : ministère du travail, du plein emploi et de l'insertion |
+
+Texte concerné : projet de décret modifiant les dispositions relatives à la carte d'identification professionnelle des salariés du bâtiment et des travaux publics prévues par le code du travail
+
+|
+
+Thématiques : carte d'identification professionnelle, carte BTP, salariés détachés, code QR |
+
+Fondement de la saisine : article 8.I.4°.a de la loi n° 78-17 du 6 janvier 1978 modifiée |
+
+L'essentiel :
+
+Les dispositions du projet de décret n'appellent pas d'observations de la CNIL. |
+
+La Commission nationale de l'informatique et des libertés,
+
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment son article 8.I.4.a ;
+
+Sur la proposition de M. Alexandre LINDEN, commissaire, et après avoir entendu les observations de M. Damien MILIC, commissaire du Gouvernement,
+
+Adopte la délibération suivante :
+
+I. - La saisine
+
+A. - Le contexte
+
+La carte d'identification professionnelle des salariés du bâtiment et des travaux publics, dite carte BTP , est une carte individuelle sécurisée destinée à tout salarié de ce secteur. Sa mise en place en 2015 a eu notamment pour objectif de lutter contre les pratiques frauduleuses de travail illégal et de concurrence sociale déloyale.
+
+Cette carte contient des données permettant aux administrations compétentes de procéder à des contrôles de l'identité des salariés titulaires, de contrôler la réalisation des formalités déclaratives préalables à la conclusion d'un contrat de travail, ainsi que d'avoir accès à certaines de ses caractéristiques (durée, type, etc.).
+
+En vertu de l'article L. 8291-1 du code du travail, cette carte doit être sollicitée par l'organisme employeur pour chaque salarié effectuant des travaux de bâtiment ou de travaux publics pour le compte d'une entreprise établie en France ou pour le compte d'une entreprise établie hors de France en cas de détachement .
+
+B. - L'objet de la saisine
+
+Actuellement, la carte BTP est délivrée pour la durée de la mission du titulaire. Pour toute nouvelle mission, une demande d'une nouvelle carte doit être effectuée.
+
+Le projet de décret vise à modifier les articles R. 8115-7 et suivants du code du travail afin notamment d'augmenter la durée de validité de la carte à cinq ans, quelle que soit la durée de la mission du salarié détaché. Ainsi, un seul titre pourra couvrir plusieurs périodes d'emploi successives sans que l'organisme employeur ait à réaliser de nouvelles démarches liées à son renouvellement. Ces modifications visent essentiellement à assurer l'égalité de traitement entre les entreprises établies à l'étranger et celles établies ou exerçant sur le territoire national, qui n'étaient pas soumises au même régime.
+
+Par mesure de cohérence, le projet de décret actualise la liste des catégories de données à caractère personnel pouvant être enregistrées dans le traitement automatisé.
+
+II. - L'avis de la CNIL
+
+La liste des données figurant dans la carte BTP comprend une photographie du salarié, son état civil (nom, prénom et sexe), la date de délivrance et le numéro de gestion de la carte, ainsi qu'un code QR permettant d'automatiser la lecture de son contenu en cas de contrôle. A cette liste, l'article R. 8292-2 du code du travail rajoute des informations relatives à l'organisme employeur (la raison sociale, le numéro SIREN ainsi qu'éventuellement le logo de l'entreprise, à sa demande) ainsi qu'au statut d'emploi du titulaire ( salarié intérimaire détaché , salarié détaché ou salarié intérimaire ).
+
+Selon le projet de décret, la carte BTP mentionnera sa durée de validité (cinq ans).
+
+Par ailleurs, les statuts salarié intérimaire détaché et salarié détaché ne seront plus distingués, ce qui entraîne la fusion de ces deux mentions en une seule ( salarié détaché ).
+
+Les dispositions du projet de décret n'appellent pas d'observations de la part de la CNIL.
+
+La présidente,
+
+M.-L. Denis
