@@ -68,6 +68,8 @@ Ingénieurs de recherche (décret n° 95-370 du 6 avril 1995 modifié fixant les
 
 Techniciens de formation-recherche (décret n° 95-370 du 6 avril 1995 modifié fixant les dispositions statutaires applicables aux ingénieurs et aux personnels techniques de formation et de recherche du ministère de l'agriculture et de la pêche).
 
+Contrôleurs du travail (décret n° 97-364 du 18 avril 1997 modifié portant statut particulier du corps des contrôleurs du travail), lorsqu'ils ne concourent pas aux actions mentionnées au 2° du I de l'article 33 du décret du 29 avril 2004 susvisé.
+
 Inspecteurs des affaires maritimes (décret n° 97-1028 du 5 novembre 1997 modifié relatif au statut particulier des inspecteurs des affaires maritimes).
 
 Chargés d'études documentaires (décret n° 98-188 du 19 mars 1998 modifié fixant les dispositions statutaires applicables aux corps de chargés d'études documentaires).
@@ -89,6 +91,8 @@ Conseillers des affaires maritimes (décret n° 2001-1255 du 21 décembre 2001 r
 Inspecteurs de la santé publique vétérinaire (décret n° 2002-262 du 22 février 2002 modifié relatif au statut particulier du corps des inspecteurs de la santé publique vétérinaire).
 
 Inspecteurs de l'action sanitaire et sociale (décret n° 2002-1569 du 24 décembre 2002 modifié portant statut particulier du corps de l'inspection de l'action sanitaire et sociale).
+
+Membres du corps de l'inspection du travail (décret n° 2003-770 du 20 août 2003 modifié portant statut particulier du corps de l'inspection du travail), lorsqu'ils ne concourent pas aux actions mentionnées au 2° du I de l'article 33 du décret du 29 avril 2004 susvisé.
 
 Architectes et urbanistes de l'Etat (décret n° 2004-474 du 2 juin 2004 modifié portant statut du corps des architectes et urbanistes de l'Etat).
 
@@ -181,9 +185,3 @@ Inspecteurs et conseillers de la création, des enseignements artistiques et de 
 Educateurs spécialisés des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles (décret n° 2015-802 du 1er juillet 2015 modifié portant statut particulier du corps des éducateurs spécialisés des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles).
 
 Ingénieurs des systèmes d'information et de communication (décret n° 2015-576 du 27 mai 2015 portant statut particulier du corps des ingénieurs des systèmes d'information et de communication).
-
-NOTA :
-
-Conformément aux dispositions de l'article 30 du décret n° 2017-607 du 21 avril 2017, la référence aux inspecteurs de la santé publique vétérinaire est remplacée par la référence aux inspecteurs de santé publique vétérinaire.
-
-Conformément à l'article 2 de l'arrêté du 11 décembre 2020 (NOR : MENR2035097A), les présentes dispositions entrent en vigueur au 1er janvier 2021.
