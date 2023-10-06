@@ -392,7 +392,7 @@ Extrait d'inscription de la déclaration |
 
 Dépôts effectués au registre du commerce et des sociétés par les entrepreneurs individuels à responsabilité limitée |
 
-Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert et les mentions au registre, respectivement prévu aux articles L. 526-7 et L. 526-16 et au II de l'article L. 526-17 du présent code. |
+Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert et les mentions au registre, respectivement prévu aux articles L. 526-7 et au II de l'article L. 526-17 du présent code. |
 
 65 |
 
@@ -400,7 +400,7 @@ Dépôt de la déclaration modificative ou complémentaire de la déclaration d'
 
 66 |
 
-Dépôt de la déclaration complémentaire d'affectation du patrimoine prévue aux articles L. 526-9, L. 526-10 et L. 526-11 du présent code ou des actes ou décisions de modification, sans mentions au registre |
+Dépôt de la déclaration complémentaire d'affectation du patrimoine prévue aux articles L. 526-9 et L. 526-11 du présent code ou des actes ou décisions de modification, sans mentions au registre |
 
 67 |
 
@@ -426,7 +426,7 @@ Copie des comptes annuels ou du document comptable simplifié ou de la déclarat
 
 Dépôts effectués au registre des agents commerciaux par les entrepreneurs individuels à responsabilité limitée |
 
-Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert et les mentions au registre, respectivement prévus aux articles L. 526-7 et L. 526-16 et au II de l'article L. 526-17 du présent code. |
+Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert et les mentions au registre, respectivement prévus aux articles L. 526-7 et au II de l'article L. 526-17 du présent code. |
 
 73 |
 
@@ -434,7 +434,7 @@ Dépôt de la déclaration modificative ou complémentaire de la déclaration d'
 
 74 |
 
-Dépôt de la déclaration complémentaire d'affectation du patrimoine prévue aux articles L. 526-9, L. 526-10 et L. 526-11 du présent code ou des actes ou décisions de modification, sans mentions au registre |
+Dépôt de la déclaration complémentaire d'affectation du patrimoine prévue aux articles L. 526-9 et L. 526-11 du présent code ou des actes ou décisions de modification, sans mentions au registre |
 
 75 |
 
@@ -452,15 +452,11 @@ Copie des comptes annuels ou du document comptable simplifié ou de la déclarat
 
 Prestations relatives au registre des entrepreneurs individuels à responsabilité limitée visés au 3° de l'article L. 526-7 |
 
-Immatriculation y compris après reprise ou transfert respectivement prévus aux articles L. 526-7 et L. 526-16 et au II de l'article L. 526-17 du présent code, comprenant le dépôt de la déclaration d'affectation du patrimoine et les émoluments de radiation |
-
-79 |
-
-Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au registre |
+Inscription après reprise ou transfert respectivement prévus à l'article L. 526-7 et au II de l'article L. 526-17 du présent code, comprenant le dépôt de la déclaration d'affectation du patrimoine et les émoluments de radiation. |
 
 80 |
 
-Dépôt de la déclaration complémentaire d'affectation du patrimoine prévue aux articles L. 526-9, L. 526-10 et L. 526-11 du présent code ou des actes ou décisions de modification, sans mentions au registre |
+Dépôt de la déclaration complémentaire d'affectation du patrimoine prévue aux articles L. 526-9 et L. 526-11 du présent code ou des actes ou décisions de modification, sans mentions au registre |
 
 81 |
 
@@ -492,221 +488,211 @@ Déclaration modificative ou complémentaire à la déclaration relative au bén
 
 85 |
 
-Privilèges et sûretés |
+Registre des sûretés mobilières et autres opérations connexes |
 
-Privilège du Trésor
+Gage sans dépossession à l'exception des gages mentionnés au second alinéa de l'article 2338 du code civil |
 
-en matière fiscale
-
-|
-
-Première inscription, la radiation totale ou partielle d'une inscription non périmée |
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
 
 86 |
 
-Inscription suivante, le renouvellement d'une inscription ou la subrogation |
+Renouvellement |
 
 87 |
 
-Délivrance d'un état d'inscription positif ou négatif, quel que soit le nombre d'inscriptions révélées |
+Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription |
 
 88 |
 
-Mention d'une contestation en marge d'une inscription |
+Nantissements conventionnels de parts de sociétés civiles, de sociétés à responsabilité limitée et de sociétés en nom collectif |
+
+Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des actes de gage sans dépossession. |
 
 89 |
 
-Privilège de la sécurité sociale et des régimes complémentaires |
+Privilège du vendeur de fonds de commerce |
 
-Inscription, y compris radiation totale d'une inscription non périmée |
+Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des actes de nantissement de fonds de commerce. |
 
 90 |
 
-Radiation partielle d'une inscription non périmée |
+Nantissement conventionnel ou judiciaire du fonds de commerce y compris nantissement de fonds agricole et artisanal |
+
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
 
 91 |
 
-Renouvellement d'une inscription, subrogation |
+Renouvellement |
 
 92 |
 
-Mention d'une saisie en marge des différentes inscriptions concernant un même débiteur, la radiation partielle ou totale de ces inscriptions |
+Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription |
 
 93 |
 
-Délivrance d'un état d'inscription positif ou négatif, quel que soit le nombre d'inscriptions révélées |
+Les certificats d'inscription au sens de l'article R. 521-9 du code de commerce |
 
 94 |
 
-Délivrance d'un certificat de subrogation, de mention de saisie, de radiation de cette mention, de radiation d'inscription |
-
-95 |
-
-Actes de vente et nantissement des fonds de commerce |
-
-Inscription, y compris radiation totale d'une inscription non périmée |
-
-96 |
-
-Radiation partielle d'une inscription non périmée |
-
-97 |
-
-Mention d'antériorité ou de subrogation, le renouvellement d'inscription |
-
-98 |
-
-Ensemble des formalités liées au procès-verbal de dépôt, certificat de dépôt et certificat constatant une transcription, une cession d'antériorité ou de radiation |
-
-99 |
-
-Délivrance d'un état d'inscription positif ou négatif, quel que soit le nombre d'inscriptions révélées |
-
-100 |
+Déclarations de créances en application de l'article L. 141-22 du code de commerce |
 
 Rédaction de la déclaration de créance et le certificat constatant cette déclaration |
 
+95 |
+
+Hypothèques maritimes à l'exclusion de celles qui portent sur les navires enregistrés au registre mentionné à l'article L. 5611-1 du code des transports |
+
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
+
+96 |
+
+Renouvellement |
+
+97 |
+
+Modification de l'inscription, dont subrogation, radiation partielle de l'inscription ou transfert |
+
+98 |
+
+Actes de saisie sur les navires à l'exclusion de ceux qui portent sur les navires enregistrés au registre mentionné à l'article L. 5611-1 du code des transports |
+
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
+
+99 |
+
+Les autres prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des hypothèques maritimes |
+
+100 |
+
+Tout acte ou jugement translatif, constitutif ou déclaratif de propriété ou de droits réels portant sur un bateau au sens de l'article L. 4111-1 du code des transports |
+
+Les autres prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des hypothèques fluviales |
+
 101 |
 
-Mention de changement de siège de fonds, le certificat d'inscription des ventes, les cessions ou nantissements en ce qu'ils s'appliquent aux brevets d'invention et aux licences, aux marques de produits ou de services, aux dessins et modèles industriels |
+Hypothèques fluviales |
+
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
 
 102 |
 
-Délivrance des copies de bordereaux d'inscription et des actes de vente sous seing privé déposés au greffe |
+Renouvellement |
 
 103 |
 
-Copie certifiée conforme |
+Modification de l'inscription, dont subrogation, radiation partielle de l'inscription ou transfert |
 
 104 |
 
-Actes de nantissement d'un fonds agricole ou d'un fonds artisanal |
+Actes de saisie de bateaux |
 
-Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des actes de nantissement de fonds de commerce, mais effectuées dans le cadre d'un nantissement de fonds agricole ou artisanal. |
+Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des hypothèques fluviales |
 
 105 |
 
-Actes de nantissement judiciaire |
+Mesures d'inaliénabilité |
 
-Les prestations de cette sous-catégorie sont analogues, à celles de la sous-catégorie des actes de nantissement de fonds de commerce, mais effectuées dans le cadre d'un nantissement judiciaire. |
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
 
 106 |
 
-Actes de gage
-
-des stocks
-
-|
-
-Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des actes de nantissement de fonds de commerce, mais effectuées dans le cadre d'un gage de stocks. |
+Renouvellement |
 
 107 |
 
-Actes de nantissement d'outillage ou de matériel |
-
-Les prestations de cette sous-catégorie sont analogues, à celles de la sous-catégorie des actes de nantissement de fonds de commerce, mais effectuées dans le cadre d'un nantissement d'outillage ou de matériel. |
+Modification de l'inscription, dont subrogation, radiation partielle de l'inscription ou transfert |
 
 108 |
 
-Actes de gage
+Contrats portant sur un bien qui ont fait l'objet d'une publicité, conformément aux dispositions de l'article L. 624-10 du présent code et dans les conditions fixées par l'article R. 624-15 du même code |
 
-sur meubles corporels
-
-|
-
-Les prestations de cette sous-catégorie sont analogues, à celles de la sous-catégorie des actes de nantissement de fonds de commerce, mais effectuées dans le cadre d'un gage sur meubles corporels prévu à l'article 2338 du code civil. |
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
 
 109 |
 
-Prestations relatives aux warrants autres qu'agricoles |
-
-Etablissement du warrant, y compris sa radiation (ensemble le volant, la souche et la transcription du premier endossement) |
+Renouvellement |
 
 110 |
 
-Radiation partielle |
+Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription |
 
 111 |
 
-Renouvellement du warrant et l'inscription d'avis d'escompte |
+Privilège du Trésor |
+
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
 
 112 |
 
-Délivrance d'un état de transcription ou d'un état négatif |
+Renouvellement |
 
 113 |
 
-Certificat de radiation |
+Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription |
 
 114 |
 
-Rédaction de lettre recommandée en cas de formalité obligatoire |
+Privilège de la sécurité sociale et des régimes complémentaires prévus à l'article L. 243-5 du code de la sécurité sociale |
+
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
 
 115 |
 
-|
-
-Actes de nantissement de parts sociales ou de meubles incorporels |
-
-Les prestations de cette sous-catégorie sont analogues, à celles de la sous-catégorie des actes de nantissement de fonds de commerce, mais effectuées dans le cadre d'un nantissement de parts sociales ou de meubles incorporels. |
+Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription |
 
 116 |
 
-Publicités diverses |
+Warrants agricoles |
 
-Publicité de crédit-bail en matière mobilière |
-
-Inscription principale, y compris la radiation |
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
 
 117 |
 
-Modification de l'inscription |
+Renouvellement |
 
 118 |
 
-Report d'inscription par le greffier |
+Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription |
 
 119 |
 
-Délivrance de tout état d'inscription positif ou négatif, quel que soit le nombre d'inscriptions |
+En cas de formalités obligatoires : rédaction de lettre recommandée et mention correspondantes |
 
 120 |
 
-Certificat de radiation |
+Opérations de crédit-bail en matière mobilière |
+
+Inscription y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
 
 121 |
 
-Publicité de contrat
-
-de location
-
-|
-
-Les prestations de cette sous-catégorie sont analogues, à celles de la sous-catégorie des publicités de crédit-bail en matière mobilière, mais effectuées dans le cadre d'une publicité de contrat de location. |
+Renouvellement |
 
 122 |
 
-Inscription sur le registre spécial des prêts et délais |
-
-Les prestations de cette sous-catégorie sont analogues, à celles de la sous-catégorie des publicités de crédit-bail en matière mobilière, mais effectuées dans le cadre d'une inscription sur le registre spécial des prêts et délais. |
+Modification de l'inscription, dont subrogation ou radiation partielle de l'inscription |
 
 123 |
 
-Publicité de clause de réserve de propriété |
+Arrêtés de traitement de l'insalubrité et de mise en sécurité pris en application du chapitre 1 du titre I du livre V du code de la construction et de l'habitation, ainsi que les arrêtés pris en application de l'article L. 184-1 du même code, lorsqu'ils portent sur un fonds de commerce exploité à des fins d'hébergement |
 
-Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des publicités de crédit-bail en matière mobilière, mais effectuées dans le cadre de la publicité d'une clause de réserve de propriété. |
+Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des nantissements de fonds de commerce |
 
 124 |
 
-Publicité de clause d'inaliénabilité |
+|
 
-Les prestations de cette sous-catégorie sont analogues à celles de la sous-catégorie des publicités de crédit-bail en matière mobilière, mais effectuées dans le cadre de la publicité d'une clause d'inaliénabilité. |
+Etats certifiés au sens de l'article R. 521-31 du code de commerce |
+
+Délivrance d'un état certifié des inscriptions |
 
 125 |
 
+Publicités diverses |
+
 Publicité des protêts et des certificats de non-paiement des chèques postaux |
 
-Inscription d'un protêt, y compris la radiation |
+Inscription d'un protêt y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
 
 126 |
 
@@ -714,45 +700,29 @@ Délivrance d'un extrait de registre des protêts positif ou négatif |
 
 127 |
 
-Immatriculation des bateaux de rivière |
+Inscription sur le registre spécial des prêts et délais |
 
-Inscription et la radiation d'un acte ou jugement translatif, constitutif ou déclaratif de propriété ou de droit réel |
+Inscription principale y compris radiation totale d'une inscription non périmée (hors radiation d'office) |
 
 128 |
 
-Mention de radiation totale ou partielle d'une inscription hypothécaire |
+Modification de l'inscription ou radiation partielle de l'inscription |
 
 129 |
 
-Mention d'antériorité ou de subrogation, et le renouvellement d'inscription |
+Report d'inscription par le greffier |
 
 130 |
 
-Déclarations prévues au troisième alinéa de l'article R. 4124-6 du code des transports, la mention des changements de domicile élu |
+Délivrance de tout état d'inscription positif ou négatif, quel que soit le nombre d'inscription |
 
 131 |
 
-Acte de déclaration de propriété faite sous serment devant le tribunal de commerce prévu à l'article 101 du code du domaine public fluvial et de la navigation intérieure |
+|
 
-132 |
+|
 
-Dépôt de procès-verbal de saisie |
-
-133 |
-
-Délivrance de tout état d'inscription positif ou négatif prévu à l'article R. 4121-4 du code des transports |
-
-134 |
-
-Délivrance de tout certificat |
-
-135 |
-
-Délivrance des copies de tous actes déposés au greffe en application du code du domaine public fluvial et de la navigation intérieure |
-
-136 |
-
-Formalités consécutives au transfert d'immatriculation au greffier du lieu de l'inscription et au greffier de la nouvelle immatriculation |
+Certificat de radiation |
 
 137 |
 
@@ -2404,11 +2374,15 @@ Elaboration d'un projet de liquidation du régime matrimonial, prévue au 10° d
 
 43 |
 
-Consentement des époux ou concubins dans le cadre d'une procréation médicalement assistée nécessitant l'intervention d'un tiers donneur prévu à l'article 311-20 du code civil |
+Recueil du consentement dans le cadre d'une procréation médicalement assistée nécessitant l'intervention d'un tiers donneur prévu à l'article 342-10 du code civil |
 
 43-1 |
 
 Consentement à l'adoption réalisé en application de l'article 348-3 du code civil |
+
+43-2 |
+
+Reconnaissance conjointe anticipée prévue à l'article 342-11 du code civil et reconnaissance de paternité ou de maternité faite par acte authentique prévue à l'article 316 du même code |
 
 44 |
 
