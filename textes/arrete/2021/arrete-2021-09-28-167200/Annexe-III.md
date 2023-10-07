@@ -140,7 +140,7 @@ B. 2. Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-C.-Fiche d'opération standardisée BAR-TH-104 " Pompe à chaleur de type air/ eau ou eau/ eau " :
+C.-Fiches d'opérations standardisées BAR-TH-171 “ Pompe à chaleur de type air/ eau ” et BAR-TH-172 “ Pompe à chaleur de type eau/ eau ou sol/ eau ”
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en " non satisfaisant ".
 
@@ -150,11 +150,7 @@ C. I. A.-Critères directement liés à la fiche d'opération standardisée :
 
 1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ou le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
 
-2. La PAC est associée, pour le chauffage des surfaces chauffées, à :
-
-a) Une chaudière, dans le cadre du Coup de pouce " Chauffage " ;
-
-b) Une chaudière haute ou très haute performance énergétique, hors Coup de pouce " Chauffage " ;
+2. La PAC est associée à un autre système de chauffage ;
 
 3. La PAC n'assure pas le chauffage des surfaces chauffées ;
 
@@ -1231,3 +1227,5 @@ Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le 
 NOTA :
 
 Conformément à l'article 6 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.
+
+Conformément à l’article 5 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.

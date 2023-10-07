@@ -98,7 +98,7 @@ A compter du 01/01/2025 |
 
 Par contact |
 
-BAR-TH-104, BAR-TH-113, BAR-TH-159 |
+BAR-TH-171, BAR-TH-172, BAR-TH-113, BAR-TH-159 |
 
 7,5 % |
 
@@ -653,3 +653,7 @@ RES-CH-108 |
 Sur le lieu des opérations |
 
 A compter du 01/10/2023 |
+
+NOTA :
+
+Conformément à l’article 5 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.
