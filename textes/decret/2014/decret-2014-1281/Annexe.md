@@ -126,18 +126,6 @@ Article 158 decies |
 
 6 mois |
 
-Francisation des navires. |
-
-Article 227 |
-
-6 mois |
-
-Délivrance du passeport aux navires battant pavillon étranger. |
-
-Article 237 |
-
-6 mois |
-
 Autorisation pour le fournisseur de mettre à la consommation ou de verser sur le marché intérieur, en exonération de la taxe intérieure de consommation, certains produits, qui notamment par leurs usages spécifiques, leur conditionnement et leurs caractéristiques techniques ne sont pas susceptibles de pouvoir être utilisés comme carburant ou combustible de chauffage. |
 
 Article 265 bis 1-a |

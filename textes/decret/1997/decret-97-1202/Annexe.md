@@ -152,6 +152,10 @@ Répartition des quotas de pêche. |
 
 Articles R. 921-35 et suivants du code rural et de la pêche maritime. |
 
+Agrément spécial pour la francisation des navires de pêche. |
+
+1° de l'article L. 5112-1-3 et 2° de l'article D. 5112-2-3 du code des transports. |
+
 Haras, courses et équitation |
 
 Approbation et modification des programmes et des calendriers des courses des sociétés de courses autres que les sociétés mères. |
@@ -196,6 +200,6 @@ Article R. 230-36 du code rural et de la pêche maritime. |
 
 Certification environnementale des exploitations agricoles |
 
-Agrément des organismes chargés de la certification environnementale des exploitations agricoles prévue à l' article L. 611-6 du code rural et de la pêche maritime. |
+Agrément des organismes chargés de la certification environnementale des exploitations agricoles prévue à l'article L. 611-6 du code rural et de la pêche maritime. |
 
 Article R. 617-28 du code rural et de la pêche maritime. |

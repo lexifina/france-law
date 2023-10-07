@@ -968,9 +968,11 @@ Ministre chargé de la marine marchande |
 
 41 |
 
-Délivrance des certificats d'immatriculation et de radiation des navires au registre international français. |
+Décisions relatives à la francisation et l'immatriculation constituant l'enregistrement des navires du registre international français, ainsi que les sorties de flotte et les mutations de propriété de ces navires. |
 
-Décret n° 2006-142 du 10 février 2006 Article 2 (deuxième et troisième alinéas). |
+Décret n° 2006-142 du 10 février 2006
+
+Article 2 (deuxième et troisième alinéas). |
 
 Ministre chargé de la marine marchande |
 
@@ -1162,15 +1164,69 @@ R. 1272-10
 
 Ministre chargé des transports |
 
-59 |
+60 |
 
-Décisions relatives aux demandes d'aide financière temporaire aux entreprises d'armement maritime au titre de l'année 2021
+Décisions relatives aux demandes d'aide financière aux entreprises d'armement maritime.
 
 |
 
-Article 6 du décret n° 2021-603 du 14 mai 2021 |
+Décret n° 2021-603 du 14 mai 2021, article 6 |
 
-Ministre chargé du transport maritime |
+Ministre chargé du
+
+transport maritime |
+
+61 |
+
+L'enregistrement des hypothèques et saisies des navires immatriculés au registre international français et la publicité de ces hypothèques et saisies. |
+
+Décret n° 2006-142 du 10 février 2006,
+
+Article 2 (sixième alinéa) |
+
+Ministre chargé de la mer |
+
+62 |
+
+Evaluation des connaissances des officiers embarqués sur les navires immatriculés au registre international français, |
+
+Décret n° 2006-142 du 10 février 2006,
+
+Article 2 (septième alinéa) |
+
+Ministre chargé de la mer |
+
+63 |
+
+Décisions relatives aux sanctions prévues par l'article R. 5112-2-7 du code des transports dans le cas des navires immatriculés au registre international français. |
+
+Code des transports,
+
+Article R. 5112-2-7 |
+
+Ministre chargé de la mer |
+
+64 |
+
+Agrément spécial prévu au 1 de l'article L. 5112-1-3 du code des transports dans le cas des navires autres que immatriculés au registre international français. |
+
+Code des transports
+
+Article L. 5112-1-3 (1°) et article D. 5112-2-3 (2°) |
+
+Ministre chargé de la mer |
+
+65 |
+
+Agrément spécial prévu au 1 de l'article L. 5112-1-3 du code des transports dans le cas des navires immatriculés au registre international français. |
+
+Code des transports,
+
+Article L. 5112-1-3 (1°) et article D. 5112-2-3 (2°)
+
+Décret n° 2006-142 du 10 février 2006, article 2 (septième alinéa) |
+
+Ministre chargé de la mer |
 
 |
 
