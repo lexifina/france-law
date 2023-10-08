@@ -1,3 +1,13 @@
 # Article 1 bis
 
-Le ministre chargé de l'énergie peut, sur demande motivée de la personne morale organisatrice d'un projet d'autoconsommation collective étendue situé sur le territoire métropolitain continental, accorder une dérogation au critère de distance prévu à l'article 1er, dans la limite d'une distance séparant les deux participants les plus éloignés de vingt kilomètres. Le ministre chargé de l'énergie prend cette décision en tenant compte notamment de l'isolement du lieu du projet, du caractère dispersé de son habitat et de sa faible densité de population.
+La personne morale organisatrice d'un projet d'autoconsommation collective étendue peut saisir le ministre chargé de l'énergie d'une demande motivée en vue d'obtenir une dérogation au critère de distance prévu à l'article 1er.
+
+Cette dérogation peut être accordée à tout projet d'autoconsommation collective étendue dont l'ensemble des producteurs et des consommateurs participants sont situé exclusivement sur une ou plusieurs communes rurales ou périurbaines du territoire métropolitain continental dans la limite d'une distance séparant les deux participants les plus éloignés de dix kilomètres.
+
+Pour les projets d'autoconsommation dont l'ensemble des producteurs et des consommateurs participants sont situés exclusivement sur une ou plusieurs communes rurales, la dérogation est accordée à tout projet en faisant la demande motivée et répondant aux critères du présent article et cette distance maximale peut être portée à vingt kilomètres.
+
+Les communes pouvant être considérées comme présentant un caractère rural sont celles appartenant aux catégories “ bourgs ruraux ”, “ rural à habitat dispersé ” et “ rural à habitat très dispersé ” de la grille communale de densité établie par l'Institut national de la statistique, en vigueur à la date de la demande.
+
+Les communes pouvant être considérées comme présentant un caractère périurbain sont celles appartenant aux catégories “ petites villes ” et “ ceintures urbaines ” de la grille communale de densité établie par l'Institut national de la statistique, en vigueur à la date de la demande.
+
+La dérogation est valable pour la durée de vie de l'opération d'autoconsommation collective en objet, sous réserve que l'ensemble des producteurs et consommateurs y participant respectent la distance maximale autorisée et restent localisés sur l'une des communes listées dans la dérogation.
