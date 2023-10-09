@@ -1,0 +1,10 @@
+# CENTRE COMMUNAL D ACTION SOCIALE : délibération DELIB272023CCAS — D-ETUDE JURIDIQUE - RESPONSABILITE DE L'ETAT ENVERS LES EHPAD RESIDENCE AUTONOMIE SERVICES D AIDE A DOMICILE ET ESMS
+
+- Collectivité : CENTRE COMMUNAL D ACTION SOCIALE
+- SIRET : 26350242900016
+- Date : 2023-10-09
+- Matière : 9.4 Autres domaines de competences/Voeux et motions
+- Objet : D-ETUDE JURIDIQUE - RESPONSABILITE DE L'ETAT ENVERS LES EHPAD RESIDENCE AUTONOMIE SERVICES D AIDE A DOMICILE ET ESMS
+- Transmis à la préfecture : 2023-10-12 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/263502429/Deliberation/2023/495509/346b7bc9df090e24ac0cc0a26ffc16ef018dcbd2941339e74149c266bdd5aebe.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
