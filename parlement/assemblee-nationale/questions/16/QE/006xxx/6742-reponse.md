@@ -1,0 +1,9 @@
+# Réponse à la question n° 6742
+
+- Question : [6742](6742.md) — Question n° 6742 — Meilleure reconnaissance de la spécialité puéricultrice pour les infirmières
+
+## Réponse
+
+*JO du 2023-10-10, page 9059*
+
+Les infirmiers puériculteurs, du fait de leur spécialisation et de leur niveau de qualification, bénéficient d'une grille indiciaire qui leur est spécifique avec une valorisation supérieure à celle des infirmiers sans spécialisation. Pour les puériculteurs régis par le décret n° 2010-1139, le déroulement de carrière se réalise sur les grades 2 et 3 du corps des infirmiers en soins généraux et spécialisés, là où les infirmiers sans spécialisation évoluent sur les grades 1 et 2 de ce même corps. Pour ces puériculteurs, cela se traduit, par exemple, par un sommet de grille supérieur de 42 points à celui des infirmiers sans spécialisation, soit l'équivalent de 203,70 euros brut par mois. Pour les puériculteurs régis par le décret n° 88-1077, le déroulement de carrière se réalise sur une grille distincte et supérieure à celle applicable aux infirmiers sans spécialisation de catégorie B. Pour ces puériculteurs, cela se traduit par un sommet de grille supérieur de 62 points à celui des infirmiers sans spécialisation de catégorie B, soit l'équivalent de 300,70 euros brut par mois. Par ailleurs, en application des accords du Ségur de la santé du 13 juillet 2020, les puériculteurs, comme l'ensemble des personnels paramédicaux de la fonction publique hospitalière, ont bénéficié d'une revalorisation de leur rémunération via le versement du complément de traitement indiciaire de 183 euros net par mois (un peu plus de 192 € désormais après les revalorisations de la valeur du point d'indice de la fonction publique). Enfin, ceux de ces puériculteurs qui exercent dans les services de soins critiques des établissements de santé bénéficient, depuis fin 2022, de la prime d'exercice en soins critiques d'un montant de 118 euros brut par mois.
