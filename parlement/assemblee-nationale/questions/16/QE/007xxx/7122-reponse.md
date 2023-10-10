@@ -1,0 +1,9 @@
+# Réponse à la question n° 7122
+
+- Question : [7122](7122.md) — Question n° 7122 — Au sujet de la dispense du passage de la FIMO
+
+## Réponse
+
+*JO du 2023-10-10, page 9079*
+
+Les obligations de formation initiale et continue des conducteurs routiers, prévues par la directive (UE) 2022/2561 du 14 décembre 2022, visent principalement à améliorer la sécurité routière et la sécurité au travail des conducteurs. Elles ont une portée générale et s'appliquent à tout conducteur d'un véhicule pour lequel un permis du groupe lourd (catégories C1, C, D1 ou D) est requis. Plusieurs cas d'exemptions sont néanmoins prévus. L'une de ces exemptions, transposée à l'article R. 3314-15, 7° du code des transports, s'applique à la conduite « des véhicules transportant du matériel, de l'équipement ou des machines destinés à être utilisés dans l'exercice du métier de leur conducteur, à condition que la conduite du véhicule ne constitue pas son activité principale ». Ces deux conditions d'application sont cumulatives. D'une part, le matériel, l'équipement ou les machines transportés sont destinés à être utilisés dans l'exercice du métier du conducteur : tel peut être le cas des ouvriers de chantier, lorsqu'ils conduisent un véhicule transportant du matériel qu'ils vont eux-mêmes utiliser sur un chantier, ou des déchets, comme des gravats, résultant de leur activité sur le chantier. D'autre part, la conduite ne représente pas l'activité principale du conducteur. Sous réserve de l'appréciation souveraine du juge au regard des faits de l'espèce, si la conduite représente plus de la moitié du temps de travail d'un salarié sur un mois glissant, alors elle constitue son activité principale, indépendamment de l'intitulé de son contrat de travail. En revanche, lorsque la conduite occupe moins de 30 % du temps de travail du salarié sur un mois glissant, elle peut être considérée comme ne constituant pas l'activité principale du conducteur.
