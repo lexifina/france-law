@@ -1,0 +1,9 @@
+# Réponse à la question n° 6829
+
+- Question : [6829](6829.md) — Question n° 6829 — Réouverture de la gare de Bouzonville (Moselle)
+
+## Réponse
+
+*JO du 2023-10-10, page 9071*
+
+L'État, très attentif à ce que l'offre ferroviaire réponde aux besoins des territoires demeure à l'écoute des projets émis, dans le respect du principe de libre administration des collectivités territoriales. La région Grand Est, autorité organisatrice des services de transport ferroviaire de voyageurs d'intérêt régional, partage l'objectif d''amélioration de la mobilité transfrontalière franco-allemande via le réseau ferré avec ses homologues frontaliers. L'accord de coopération conclu fin 2018 par la Région Grand Est en particulier avec le Land de Sarre, prévoit d'intervenir en priorité sur les lignes transfrontalières existantes, avec notamment le renforcement des dessertes ferroviaires de la ligne Metz-Forbach-Sarrebruck. Cette ligne, avec d'autres desservant la Sarre, la Rhénanie Palatinat et le Bade-Wurtemberg, fait l'objet d'un appel d'offres en cours prévoyant des mises en service progressives dès 2025. La ligne ferroviaire existante entre Thionville et Sarrebruck via Bouzonville sert actuellement uniquement au transport de marchandises et a été fermée à la circulation de voyageurs il y a déjà plusieurs années. La demande d'en étudier la réouverture et la décision éventuelle d'y rétablir des services voyageurs transfrontaliers relèvent conjointement du conseil régional Grand Est et du Land de Sarre. Le département de Moselle a réalisé une étude sur le potentiel de la liaison ferroviaire pour les déplacements transfrontaliers à la suite de plusieurs sollicitations des collectivités locales qui montre des résultats contrastés. La Région, qui a récemment réceptionné les résultats de cette étude, étudie les suites à donner.
