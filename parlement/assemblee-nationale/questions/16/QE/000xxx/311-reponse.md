@@ -1,0 +1,9 @@
+# Réponse à la question n° 311
+
+- Question : [311](311.md) — Question n° 311 — Suppression de l'application TousAntiCovid
+
+## Réponse
+
+*JO du 2023-10-10, page 9045*
+
+Madame la Députée, La mise en place de l'application StopCovid puis TousAntiCovid, validée à la fois par l'Assemblée nationale et le Sénat, s'inscrivait dans une stratégie plus globale de gestion de la crise sanitaire. Elle s'envisageait ainsi dès le départ comme un outil supplémentaire dans la lutte contre l'épidémie. Elle a été initialement développée pour alerter les personnes en cas d'exposition au Covid-19 et ainsi contribuer à rompre les chaînes de transmission du virus. Au 6 février 2023, l'application avait été téléchargée 62,9 millions de fois et a comptabilisé au total (jusqu'au 25 janvier 2023) 4,328 millions de notifications. Son utilisation a toujours été fondée sur le volontariat des personnes la téléchargeant et l'activant. TousAntiCovid est une application composée de plusieurs modules, respectant tous le champ de la loi et se révélant utiles dans la stratégie de lutte contre le Covid-19. Depuis le 31 janvier 2023, la fin du dispositif de Contact Tracing porté par le gouvernement avec l'appui de la CNAM a entrainé le retrait de la fonctionnalité spécifique de contact tracing de TousAntiCovid, conformément à ses engagements. Pour autant, d'autres fonctionnalités restent actives afin de permettre de : - Stocker des certificats de test et de vaccination nécessaire pour la prise en charge des tests, et en cas d'obligation de présenter un certificat pour voyager - Diffuser de l'information sur la situation sanitaire, la vaccination et sur les recommandations nécessaires pour réduire les risques de transmission ; - Informer les utilisateurs sur leur éligibilité à une dose vaccin grâce aux notifications.
