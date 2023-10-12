@@ -1,0 +1,7 @@
+# Article 1er
+
+L'article XV. 4.2.2 est modifié et remplacé comme suit :
+
+« Les partenaires sociaux mandatent l'OPCO EP, 53, rue Ampère, 75017 Paris, comme opérateur de collecte, pour recouvrer auprès de toutes les entreprises listées dans l'article I. 2 cette cotisation, selon les modalités suivantes :
+
+– la cotisation est appelée en même temps mais distinctement des cotisations de financement de la formation continue. »
