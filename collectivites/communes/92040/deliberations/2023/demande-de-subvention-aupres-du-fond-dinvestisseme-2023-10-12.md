@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Demande de subvention auprès du Fond d’Investissement Métropolitain (FIM) dans le cadre de deux futures opérations de réhabilitation des résidences La Fontaine et Miquel
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-10-12
+- Matière : URBANISME
+- Objet : Demande de subvention auprès du Fond d’Investissement Métropolitain (FIM) dans le cadre de deux futures opérations de réhabilitation des résidences La Fontaine et Miquel
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3MzEsInB1ciI6ImJsb2JfaWQifX0=--52178757514ccf014af2a30951fde1836f13cfae/121023_06.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
