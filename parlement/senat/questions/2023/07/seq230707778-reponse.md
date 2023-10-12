@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230707778
+
+- Question : [SEQ230707778](seq230707778.md) — Objectifs triennaux des communes en matière de logement social
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-10-12, page 5849*
+
+La loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale, dite « 3DS », a apporté les ajustements nécessaires pour pérenniser le dispositif loi relative à la solidarité et au renouvellement urbain (Loi SRU), le rendant plus soutenable sur les territoires connaissant de forts besoins. Dans le même temps, le législateur a fait le choix d'harmoniser et d'ajuster les conséquences de la carence, notamment par l'instauration d'un plancher de majoration de prélèvement correspondant au rapport différentiel entre le nombre de logements sociaux non réalisés et l'objectif total attendu en début de période triennale. Ce plancher, dont l'instauration avait été recommandée par la commission nationale SRU dans son rapport rendu au terme d'une mission de réflexion sur le dispositif en janvier 2021, est une contrepartie aux adaptations portées par la loi dite « 3DS » sur les rythmes de rattrapage des communes déficitaires. En effet, la mise en carence, qui répond à une non-atteinte des objectifs, ne saurait être motivée par des facteurs sur lesquels la collectivité n'aurait pas de moyen d'action. En outre, son prononcé n'est en rien automatique et doit, à ce titre, constituer une réponse ferme de l'État, notamment sur le plan financier. Dans ce contexte, associer à la mise en carence une majoration de prélèvement correspondant au plancher demeure une réponse raisonnable. Le Gouvernement demeure attentif à la bonne mise en oeuvre du dispositif, et notamment à ce seuil plancher, au service d'un développement équilibré du logement social au sein des territoires.
