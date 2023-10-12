@@ -55,3 +55,5 @@ Cabinet du chef d'état-major des armées.
 Etat-major du commandement des forces spéciales terre.
 
 Commandement de la cyberdéfense.
+
+Centre de formation interarmées au renseignement.
