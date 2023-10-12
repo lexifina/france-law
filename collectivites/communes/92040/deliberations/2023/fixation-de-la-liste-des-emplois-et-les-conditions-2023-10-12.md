@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Fixation de la liste des emplois et les conditions d’occupation des logements de fonction
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-10-12
+- Matière : RESSOURCES HUMAINES
+- Objet : Fixation de la liste des emplois et les conditions d’occupation des logements de fonction
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3OTEsInB1ciI6ImJsb2JfaWQifX0=--027a86939e49e8dd6f0112a7a8f4f5c6c7d1af62/121023_10.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
