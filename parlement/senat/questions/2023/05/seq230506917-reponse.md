@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230506917
+
+- Question : [SEQ230506917](seq230506917.md) — Construction d'une dalle justifiant une construction dans un lotissement
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-10-12, page 5847*
+
+Dans le cadre d'un lotissement, le code de l'urbanisme ne fixe pas de délai entre l'achèvement des travaux prescrit par le permis d'aménager et la réalisation des travaux prévus par les permis de construire obtenus par les colotis. Pour faciliter l'articulation entre ces deux autorisations d'urbanisme, l'article L. 442-14 du code de l'urbanisme prévoit la cristallisation des dispositions d'urbanisme applicables pour une période de 5 ans à compter de la délivrance de la déclaration préalable du lotissement ou de la déclaration d'achèvement et de conformité des travaux du permis d'aménager. Cet article ne protège cependant pas les colotis des nouvelles servitudes d'utilité publique affectant l'usage des sols intervenues après la délivrance du permis d'aménager ou de la déclaration préalable. Il convient toutefois de préciser que le permis de construire est soumis aux règles de péremption des autorisations d'urbanisme : les travaux qu'il prévoit devront être démarrés dans les trois ans suivant sa délivrance. À l'issu de ce délai, les travaux ne pourront être interrompus plus d'un an. Il est possible pour le titulaire de l'autorisation d'urbanisme, de solliciter la prorogation de la durée de validité de son permis de construire à deux reprises pour une durée d'un an. Pour la construction d'une maison individuelle, la réalisation d'une dalle permet de justifier d'un commencement des travaux, mais pas de leur exécution entière. Les colotis ont donc tout intérêt à déposer leurs demandes de permis de construire portant sur l'intégralité de leur projet le plus rapidement possible après la délivrance du permis d'aménager ou de la déclaration préalable.
