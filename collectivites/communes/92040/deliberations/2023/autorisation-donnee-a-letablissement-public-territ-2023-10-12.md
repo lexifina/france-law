@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation donnée à l’établissement public territorial « Grand Paris Seine Ouest », d’acquérir, d’installer et d’entretenir de nouvelles caméras de vidéo protection sur le territoire communal.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-10-12
+- Matière : PREVENTION ET SECURITE
+- Objet : Autorisation donnée à l’établissement public territorial « Grand Paris Seine Ouest », d’acquérir, d’installer et d’entretenir de nouvelles caméras de vidéo protection sur le territoire communal.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3ODksInB1ciI6ImJsb2JfaWQifX0=--bb0a881eedcd56094a4b9c1c453c3e98af79d50b/121023_02.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
