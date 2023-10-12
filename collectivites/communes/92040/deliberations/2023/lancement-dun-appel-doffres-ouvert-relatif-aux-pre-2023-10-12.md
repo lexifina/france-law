@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d’offres ouvert relatif aux prestations de communication de la Ville
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-10-12
+- Matière : COMMUNICATION
+- Objet : Lancement d’un appel d’offres ouvert relatif aux prestations de communication de la Ville
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3OTQsInB1ciI6ImJsb2JfaWQifX0=--8882b50f2346cd3ea14fc77f275b54f3ad861ebf/121023_18.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
