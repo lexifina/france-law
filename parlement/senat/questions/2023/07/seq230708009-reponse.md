@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230708009
+
+- Question : [SEQ230708009](seq230708009.md) — Maintien des conseillers numériques France services sur les territoires ruraux et plus particulièrement dans la Nièvre
+
+## Réponse
+
+*Numérique, JO du 2023-10-12, page 5861*
+
+Monsieur le Sénateur, Aujourd'hui plus de 2 millions accompagnements ont été réalisés par les 4000 conseillers numériques, avec plus de 28 000 accompagnements réalisés dans le département de la Nièvre. Ces chiffres attestent du succès du dispositif et du besoin auquel il répond. C'est pourquoi le financement du dispositif est prolongé sur trois années supplémentaires. Un engagement dégressif et pluriannuel, qui a pour vocation d'encourager des stratégies d'inclusion numérique durables à échelle territoriale qui s'appuieront sur les coalitions d'acteurs locaux impulsées par France Numérique Ensemble - la nouvelle feuille de route 2023-2027 qui porte la stratégie nationale pour l'inclusion numérique. Un des engagements centraux de cette feuille de route vise en effet à favoriser l'émergence de gouvernances territoriales liées à l'inclusion numérique, afin de faciliter la mutualisation de moyen par la création de fonds locaux. Afin d'accompagner au mieux ces gouvernances locales dans la mise en oeuvre notamment financière de feuilles de route territoriales, l'Etat s'engage à structurer un fonds d'ingénierie dédié augmenté, le cas échéant, des contributions d'opérateurs volontaires et d'acteurs du secteur privé. Ce fonds pluriannuel coordonné par l'Agence Nationale de la Cohésion des Territoires devra notamment permettre de financer les besoins en ingénierie de projet remontés dans le cadre de la formalisation de feuilles de route locales. Nous vous invitons à donc vous rapprocher dès maintenant de votre préfecture de département pour manifester votre souhait d'intégrer une gouvernance locale de votre territoire.
