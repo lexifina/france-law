@@ -1170,7 +1170,7 @@ D
 
 |
 
-Détergents et savons (fabrication de ou à base de) à l'exclusion des activités classées au titre de la rubrique 3410.
+Détergents (*) et savons (fabrication de ou à base de), à l'exclusion des activités classées au titre de la rubrique 3410.
 
 |
 
@@ -1190,19 +1190,23 @@ a) Supérieure à 50 t/ j
 
 |
 
-A
-
-|
-
-2
+E
 
 |
 
 |
 
-b) Supérieure ou égale à 1 t/ j mais inférieure ou égale à 50 t/ j |
+b) Supérieure ou égale à 1 t/ j, mais inférieure ou égale à 50 t/ j
+
+|
 
 D |
+
+|
+
+(*) Au sens du règlement (CE) n° 648/2004 du Parlement européen et du Conseil du 31 mars 2004 relatif aux détergents. |
+
+|
 
 |
 
@@ -1467,10 +1471,6 @@ D |
 (1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 (2) Rayon d'affichage en kilomètres. |
-
-|
-
-|
 
 2670
 

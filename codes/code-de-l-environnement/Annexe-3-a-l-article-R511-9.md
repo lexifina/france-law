@@ -1378,7 +1378,9 @@ Nota.-Pour les installations de distillation discontinue, le seuil, prévu aux p
 
 |
 
-Préparation, conditionnement de vins.
+Préparation, conditionnement de vins, à l'exclusion des installations classées au titre de la rubrique 3642.
+
+La capacité de production étant :
 
 |
 
@@ -1386,27 +1388,7 @@ Préparation, conditionnement de vins.
 
 |
 
-A. Installations dont les activités sont classées au titre de la rubrique 3642.
-
-|
-
-A
-
-|
-
-3
-
-|
-
-B. Autres installations que celles visées au A, la capacité de production étant :
-
-|
-
-|
-
-|
-
-1. Supérieure à 20 000 hl/ an
+1. Supérieure à 20 000 hL/ an
 
 |
 
@@ -1416,11 +1398,17 @@ E
 
 |
 
-2. Supérieure à 500 hl/ an, mais inférieure ou égale à 20 000 hl/ an
+2. Supérieure à 500 hL/ an, mais inférieure ou égale à 20 000 hL/ an
 
 |
 
-D
+D |
+
+|
+
+Nota.-le volume de vin en cours de vieillissement qui n'est pas susceptible d'être conditionné dans l'année n'est pas à prendre en compte dans la capacité de production annuelle.
+
+|
 
 |
 
