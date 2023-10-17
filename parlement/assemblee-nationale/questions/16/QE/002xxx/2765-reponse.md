@@ -1,0 +1,9 @@
+# Réponse à la question n° 2765
+
+- Question : [2765](2765.md) — Question n° 2765 — Compensation du coefficient correcteur
+
+## Réponse
+
+*JO du 2023-10-17, page 9187*
+
+La suppression de la taxe d'habitation (TH) sur les résidences principales s'est traduite pour les communes par une perte de ressources compensée par le transfert à leur profit de la part départementale de taxe foncière sur les propriétés bâties (TFPB). Au niveau local, le produit de la TFPB départementale transférée ne pouvant exactement correspondre à celui de la TH supprimée, un dispositif d'équilibrage, reposant sur un coefficient correcteur, permet de neutraliser la surcompensation ou la sous-compensation de chaque commune. L'article 16 de la loi de finances pour 2020 a prévu que ce coefficient correcteur est calculé, notamment, en fonction du produit de la base d'imposition à la taxe d'habitation sur les locaux meublés affectés à l'habitation principale de la commune déterminée au titre de 2020 par le taux communal de taxe d'habitation appliqué en 2017 sur le territoire de la commune. Les communes sont donc intégralement compensées de leur perte de TH, calculée sur la base du taux qu'elles avaient adopté en 2017. Concernant les augmentations de taux de TH décidées après 2017, si l'engagement du Gouvernement a été celui d'une compensation à l'euro près, celle-ci n'inclut pas l'évolution ultérieure des taux d'imposition de TH. Il a toujours été entendu, depuis la loi de finances pour 2018, que la compensation serait effectuée sur la base des taux appliqués en 2017 et que l'État n'aurait pas vocation à financer sur son budget les hausses de fiscalité décidées localement. Cette compensation revêt, en revanche, un caractère évolutif par son indexation sur la dynamique individuelle des bases d'imposition à la TFPB de chaque commune. Enfin, indépendamment du mécanisme de compensation, les communes bénéficient toujours pleinement des effets de leur politique de taux d'imposition.
