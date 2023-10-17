@@ -1,0 +1,9 @@
+# Réponse à la question n° 7327
+
+- Question : [7327](7327.md) — Question n° 7327 — Inégalité entre les femmes et les hommes dans la réussite au permis de conduire
+
+## Réponse
+
+*JO du 2023-10-17, page 9215*
+
+En 2022, en France, il existe un réel différentiel de réussite à l'examen pratique de la catégorie B (8 points) entre les femmes [52.90 %] et les hommes [60.90 %]. Cette différence, qui génère des coûts de formation plus élevés pour les femmes, s'accompagne néanmoins d'un accidentalité moindre pour les femmes, particulièrement dans les premières années de permis de conduire (90 % des tués entre 18 et 24 ans sont des hommes - 80 % pour tous les âges). Les raisons de cet écart de réussite à l'examen entre les femmes et les hommes sont encore mal cernées. La généralisation de l'application RDVpermis, complétée par l'obligation du livret numérique en 2024, va permettre d'objectiver et d'éclairer ce sujet par l'analyse de la donnée. Le ministère de l'Intérieur et des Outre-mer porte une attention particulière à ce sujet et a notamment pris connaissance de récentes études pouvant éclairer la décision publique. A ce titre, la thèse de doctorat de Mme Dentella : Genre et examen pratique du permis B : quels enjeux psychosociaux ? a été présentée. Il convient par ailleurs de souligner que la féminisation du corps des inspecteurs du permis de conduire et de la sécurité routière s'accélère. Les inspectrices représentaient 36 % du corps en 2018 contre 38 % en 2023. Enfin, des modules liés aux biais d'évaluation, dont le genre d'appartenance, sont déjà dispensés dans le cadre de la formation initiale des inspecteurs du permis de conduire et de la sécurité routière. Au-delà, une réflexion est menée, afin d'insérer d'autres modules relatifs aux stéréotypes masculins et féminins dans les formations initiales et continue desdits inspecteurs.
