@@ -1,0 +1,9 @@
+# Réponse à la question n° 5781
+
+- Question : [5781](5781.md) — Question n° 5781 — Élargissement du crédit d'impôt aux frais de soutien scolaire en ERP
+
+## Réponse
+
+*JO du 2023-10-17, page 9190*
+
+Aux termes de l'article 199 sexdecies du code général des impôts (CGI), les sommes versées par un contribuable domicilié en France au titre de l'emploi d'un salarié directement ou du recours à une association, une entreprise ou un organisme agréés pour les services, définis aux articles L. 7231-1 et D. 7231-1 du code du travail, rendus à la résidence du contribuable, ouvrent droit, sous certaines limites et conditions, à un crédit d'impôt sur le revenu. La résidence du contribuable doit être située en France. Elle s'entend du lieu où le contribuable est susceptible d'habiter ; il peut s'agir de sa résidence principale ou secondaire, que ce dernier en soit ou non propriétaire (BOI-IR-RICI-150-10 §40 et 50). Dès lors, les prestations de soutien scolaire et les cours n'ouvrent droit au crédit d'impôt que s'ils sont réalisés à la résidence du contribuable ainsi entendue. Ce principe de réalisation de la prestation de service au domicile du contribuable a été conforté par la nouvelle rédaction de l'article 199 sexdecies précité, issue de l'article 3 de la loi n° 2021-1900 de finances pour 2022, qui confirme que les services à la personne doivent être fournis à domicile. Une extension de l'avantage fiscal à des services fournis hors du domicile du contribuable dénaturerait le sens de la mesure en conduisant à admettre des dépenses sans rapport avec l'emploi d'un salarié à domicile. Dès lors, les cours de soutien scolaire effectués au sein d'un établissement recevant du public (ERP) ne peuvent pas ouvrir droit au crédit d'impôt. Il n'est pas envisagé de modifier ces règles et d'étendre davantage le champ de l'avantage fiscal.
