@@ -1,0 +1,9 @@
+# Réponse à la question n° 9721
+
+- Question : [9721](9721.md) — Question n° 9721 — Exclusion du personnel des SIAO de la revalorisation post-covid
+
+## Réponse
+
+*JO du 2023-10-17, page 9253*
+
+La revalorisation salariale du 18 février 2022 a permis une augmentation de la rémunération de plus de 27 500 ETP (Équivalent temps plein) du secteur de l'hébergement et du logement en contact direct au moins la moitié de leur temps avec des usagers de 183€ nets mensuels. De fait, les professionnels des services intégrés d'accueil et d'orientation (SIAO), chargés de l'orientation des publics, et l'ensemble des administratifs et techniques n'ont pas été éligibles à la revalorisation salariale. Cela ne remet pas en cause la place centrale qu'occupent les SIAO dans la régulation du dispositif d'hébergement et du logement adapté et un élément central de la politique publique de l'État en matière de lutte contre le sans-abrisme. Dans la continuité du déploiement du Logement d'abord, le Gouvernement a effectivement réaffirmé par l'instruction du 31 mars 2022 une ambition forte pour les SIAO, acteurs « clés de voûte » du Service public de la rue au logement, à l'interface entre les acteurs du secteur social et ceux du logement, mais également avec le souhait de développer le lien avec d'autres partenaires essentiels à la construction des parcours d'accompagnement des personnes sans domicile. À ce titre, une réflexion plus large est en cours pour s'assurer de l'adéquation des moyens mis à la disposition des SIAO notamment dans le cadre du deuxième plan Logement d'abord. Par ailleurs, l'ensemble du secteur AHI (Accueil - Hébergement - Insertion), et plus généralement le monde du travail social, traverse une crise préoccupante. Des travaux se tiennent au niveau interministériel pour renforcer l'attractivité de ces métiers, mais aussi des autres fonctions au sein de ses associations indispensables à leur bon fonctionnement.
