@@ -1,0 +1,9 @@
+# Réponse à la question n° 8984
+
+- Question : [8984](8984.md) — Question n° 8984 — Contrôle de l'âge en ligne pour les produits nicotiniques
+
+## Réponse
+
+*JO du 2023-10-17, page 9191*
+
+Concernant les sachets de nicotine, ces derniers ne contenant pas du tabac et ne se fumant pas, ils ne sont pas assimilables à des produits du tabac au sens du code des impositions sur les biens et services (article L. 314-3) et ne ressortent pas de la compétence du ministère de l'économie, des finances et de la souveraineté industrielle et numérique. Cependant, la nicotine est réglementée dans le code de la santé publique, au titre « d'autres produits et substances pharmaceutiques réglementés » (Articles L. 5131-1 à L. 513-11-5). Cette substance est classée sur la liste I des substances vénéneuses conformément aux dispositions de l'article L. 5132-6 du code de la Santé publique (CSP). Par ailleurs, si les sachets de nicotine proposés à la vente à des consommateurs en France sont présentés comme des substituts nicotiniques, supprimant l'envie de fumer ou réduisant l'accoutumance au tabac, alors ces produits répondent à la définition du médicament et pourraient faire l'objet d'une décision de police sanitaire. Concernant l'accès de ces produits aux mineurs par les sites de vente en ligne, l'article 3 du décret n° 2021-1306 du 7 octobre 2021 confie à l'Autorité de régulation de la communication audiovisuelle et numérique (ARCOM) le soin d'élaborer des lignes directrices détaillant la fiabilité des procédés techniques que les sites web doivent mettre en œuvre pour éviter l'accès des mineurs. Ainsi, il apparaît indispensable de prendre attache avec cette autorité administrative indépendante. En tant qu'autorité compétente, ces agents seront à même de répondre à l'ensemble de ces questions réglementaires.
