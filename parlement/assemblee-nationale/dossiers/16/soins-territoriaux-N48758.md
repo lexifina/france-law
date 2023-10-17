@@ -1,0 +1,27 @@
+# Améliorer l'accès aux soins par la territorialisation et la formation
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N48758
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/soins_territoriaux
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl23-189.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-10-17 : 1er dépôt d'une initiative. (PIONANR5L16B1768)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-10-17 : Renvoi en commission au fond
+      - 2023-11-15 : Nomination de rapporteur
+      - 2023-11-15 : Réunion de commission
+      - 2023-11-29 : Réunion de commission
+      - 2023-11-29 : Dépôt de rapport (RAPPANR5L16B1930, PIONANR5L16BTC1930)
+  - Discussion en séance publique
+    - 2023-12-07 : Discussion en séance publique
+    - 2023-12-07 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-12-08 : Dépôt d'une initiative en navette (PIONSNR5S419B0189)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-12-08 : Renvoi en commission au fond
