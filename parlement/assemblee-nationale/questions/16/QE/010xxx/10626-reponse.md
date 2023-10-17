@@ -1,0 +1,9 @@
+# Réponse à la question n° 10626
+
+- Question : [10626](10626.md) — Question n° 10626 — Attribution et consommation de l'enveloppe du « fonds vert »
+
+## Réponse
+
+*JO du 2023-10-17, page 9254*
+
+Le programme 380 du budget de l'État intitulé « fonds d'accélération de la transition écologique dans les territoires », appelé « fonds vert », a pour ambition d'accompagner les collectivités territoriales dans la mise en œuvre de leurs projets de transition écologique. Doté de 2 Mds€ en 2023, ce fonds est organisé en 3 axes et 14 mesures pour accompagner le déploiement d'actions territoriales afin de « renforcer la performance environnementale » (axe 1), « adapter les territoires au changement climatique » (axe 2) et « améliorer le cadre de vie » (axe 3). L'appui en ingénierie constitue un champ spécifique transversal d'intervention du fonds vert, permettant aux collectivités de bénéficier des expertises nécessaires. Le fonds vert a rencontré un grand succès avec plus de 15 000 demandes d'aide reçues qui témoignent de la mobilisation des acteurs locaux en faveur de la transition écologique. Si quelques lauréats ont particulièrement été mis à l'honneur en avril et juillet afin d'illustrer la diversité et la qualité des projets, ce sont plus de 5 500 projets qui ont déjà bénéficié d'une subvention pour un montant de plus d'un milliard d'euros. S'agissant de l'instruction des dossiers, la sélection des candidatures se fait sans appel à projet et le rythme de décaissement répond aux objectifs fixés. La mobilisation des services de l'État localement, a permis d'assurer un rythme soutenu de dépense des crédits tout en prenant le temps nécessaire pour assurer un haut niveau qualitatif dans la sélection des dossiers, l'objectif premier étant bien de retenir les candidatures à la plus forte valeur ajoutée environnementale.
