@@ -1,0 +1,9 @@
+# Réponse à la question n° 10890
+
+- Question : [10890](10890.md) — Question n° 10890 — Gaspillage du matériel paramédical
+
+## Réponse
+
+*JO du 2023-10-17, page 9256*
+
+Le système de soins français représente plus de 8 % des émissions de gaz à effet de serre nationales, soit près de 50 millions de tonnes équivalent CO2.L'impact de l'offre de soins représente environ 45 % de ces 50 millions de tonnes. Les médicaments et les dispositifs médicaux engendrent les 55 % restants. Le secteur sanitaire et médicosocial, à l'image de tous les autres, doit faire sa part dans la nécessaire baisse des émissions de gaz à effet de serre de 5 % par an jusqu'en 2050, afin de respecter l'engagement national français. Le système de santé a également un rôle majeur à jouer dans la maîtrise de son impact en matière de gestion de ses déchets. Pour apporter des solutions concrètes, la ministre déléguée chargée de l'organisation territoriale et des professions de santé a mis en place le 22 mai 2023 un comité de pilotage de la planification écologique dans les secteurs sanitaire et médico-social. La possibilité de réutiliser des dispositifs médicaux, possibilité offerte par le droit européen, sera l'un des sujets examinés à l'automne dans ce cadre. Aussi j'ai saisi avec la ministre déléguée chargée de l'organisation territoriale et des professions de santé l'Inspection générale des affaires sociales (IGAS) et l'Inspection générale de l'environnement et du développement durable (IGEDD), d'une mission d'inspection permettant de définir sous quelles conditions des dispositifs médicaux à usage unique pourraient être réutilisés. C'est plus globalement l'ensemble de la chaîne conduisant à produire des déchets dans les secteurs sanitaire et médico-social qui sera passée au crible pour examiner toutes les opportunités de réduction du gaspillage.
