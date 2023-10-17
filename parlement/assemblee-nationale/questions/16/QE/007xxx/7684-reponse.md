@@ -1,0 +1,9 @@
+# Réponse à la question n° 7684
+
+- Question : [7684](7684.md) — Question n° 7684 — Exclusion des combles de MaPrimeRénov'
+
+## Réponse
+
+*JO du 2023-10-17, page 9259*
+
+Les combles perdus sont des combles où l'espace est insuffisant pour être habitable ou aménagé (hauteur libre moyenne inférieure à 1,80m et angle de charpente inférieur à 30 degrés). Les travaux d'isolation des combles perdus ne sont pas éligibles à MaPrimeRénov compte tenu de l'important niveau de soutien dont ils bénéficient au titre des aides financées par les certificats d'économie d'énergie (CEE). La fiche d'opération standardisée BAR-EN-101 (Isolation de combles ou de toitures), qui vise précisément la mise en place d'une isolation thermique en plancher de combles perdus ou en rampant de toiture. Il existe deux configurations possibles : des combles non chauffés (l'isolation du plancher des combles est financée) et des combles chauffés (l'isolation des rampants de toiture est financée). Le ménage peut contacter un obligé du dispositif des CEE sur son site commercial, afin d'obtenir toutes les informations nécessaires permettant d'en bénéficier. En complément, les ménages peuvent bénéficier du financement de l'éco-PTZ, prolongé en PLF 2024 jusqu'en 2027, et qui peut prendre en charge le financement des travaux d'isolation des combles perdus. Par ailleurs, bien que l'isolation des combles perdus constitue un geste très performant, les ménages sont incités à aller au-delà de ce simple geste et à s'orienter vers des opérations de rénovation d'ampleur, en une ou plusieurs étapes, essentielles pour atteindre nos objectifs climatiques. En particulier, des évolutions du dispositif MaPrimeRénov'en 2024 permettront d'accroître les incitations financières à la rénovation performante et d'orienter davantage les ménages vers ces travaux ambitieux.
