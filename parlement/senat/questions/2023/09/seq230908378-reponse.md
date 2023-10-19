@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230908378
+
+- Question : [SEQ230908378](seq230908378.md) — Complexité des démarches pour créer une exploitation agricole
+
+## Réponse
+
+*Agriculture et souveraineté alimentaire, JO du 2023-10-19, page 5943*
+
+Le Gouvernement poursuit un objectif de simplification de la vie des entreprises, avec une attention toute particulière portée aux entreprises agricoles. Tout d'abord, pour faciliter la création d'entreprises et simplifier leurs formalités, la loi n° 2019-486 du 22 mai 2019 relative à la croissance et à la transformation des entreprises (dite loi PACTE) prévoit la mise en place d'un guichet unique électronique pour les formalités des entreprises. Géré par l'institut national de la propriété industrielle (INPI), ce guichet a pour objectif de permettre aux entreprises, y compris agricoles, de réaliser en ligne, via un site unique, leurs formalités : déclaration de création, modification, cessation d'activité, ainsi que dépôt des comptes annuels (pour les entreprises soumises à cette obligation). Depuis le 1er janvier 2023, le guichet unique remplace les six réseaux de centres de formalités des entreprises. Par ailleurs, il ressort de la concertation sur le pacte et la loi d'orientation et d'avenir agricoles, menée tout au long du premier semestre 2023, un consensus sur l'importance d'assurer un accompagnement plus unifié à l'installation et à la transmission. Conformément aux annonces du ministre de l'agriculture et de la souveraineté alimentaire le 10 septembre 2023 à Cambrai, cet accompagnement se traduira par la création du réseau « France Services Agriculture ». Ouvert à tous les porteurs de projets, celui-ci permettra de lier installation, formation et transmission et de combiner à la fois un point d'accueil unique et une offre d'accompagnement plurielle et individualisée.
