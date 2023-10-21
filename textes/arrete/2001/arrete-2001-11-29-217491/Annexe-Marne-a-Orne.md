@@ -354,61 +354,33 @@ A |
 
 10 points |
 
-Direction départementale de l'équipement et de l'agriculture (2) du Morbihan
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DU MORBIHAN
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification de l'emploi
+Nombre d'emplois |
 
-|
+Nombre de points (IM) par emploi |
 
-NOMBRE
+Adjoint au chef d'unité politique de l'habitat et renouvellement urbain en charge de la mission renouvellent urbain-unité politique de l'habitat et renouvellement urbain-service urbanisme habitat construction |
 
-d'emplois
+A |
 
-|
+1 |
 
-NOMBRE DE POINTS (IM)
+10 |
 
-par emploi
+Chargé de projet renouvellement urbain-unité politique de l'habitat et renouvellement urbain-service urbanisme habitat construction |
 
-|
+B |
 
-Assistance à la maîtrise d'ouvrage
+1 |
 
-|
-
-A
-
-|
-
-1
-
-|
-
-10 points
-
-|
-
-Chef de projet de l'Etat pour l'évaluation
-
-|
-
-B
-
-|
-
-1
-
-|
-
-22 points
-
-|
+22 |
 
 Direction départementale de l'équipement et de l'agriculture (2) de la Nièvre
 
@@ -1657,3 +1629,5 @@ Conformément à l'article 1er de l'arrêté du 2 février 2022 (NOR : TERK22035
 Conformément à l'article 1 de l'arrêté du 27 avril 2022 (NOR : TERK2212913A), la présente annexe est remplacée, à effet du 1er janvier 2020, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la Haute-Marne.
 
 Conformément à l'article 1 de l'arrêté du 19 avril 2023 (NOR : TREK2311012A), la présente annexe est remplacée, à effet du 1er juin 2022, pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement du Nord.
+
+Conformément à l'article 1 de l'arrêté du 11 octobre 2023 (NOR : TREK2327373A) la présente annexe est remplacée, à effet du 1er juin 2022, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Morbihan.
