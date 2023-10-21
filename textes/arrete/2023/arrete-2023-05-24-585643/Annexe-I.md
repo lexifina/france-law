@@ -16,6 +16,8 @@ Surfacier |
 
 Certificat de sécurité embarquée |
 
+Certificat de formation de base à la sécurité |
+
 Attestation de formation d'adaptation complémentaire qualifiante du personnel de pont d'envol |
 
 Attestation d'élingage portuaire |
@@ -66,4 +68,4 @@ Le certificat de surfacier confirmé est délivré au personnel militaire titula
 
 NOTA :
 
-Conformément à l’article 9 de l’arrêté du 11 juillet 2023 (NOR : ARMH2318364A), les dispositions suivantes entrent en vigueur le 1er octobre 2023.
+Conformément à l’article 2 de l’arrêté du 17 octobre 2023 (NOR : ARMH2327910A), les dispositions suivantes s'appliquent aux rémunérations versées à compter du mois d'octobre 2023.
