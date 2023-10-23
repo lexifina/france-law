@@ -378,6 +378,8 @@ Paris-Bangalore ;
 
 Paris-Bombay ;
 
+Paris-Calcutta ;
+
 Paris-Chennai ;
 
 Paris-Delhi ;
