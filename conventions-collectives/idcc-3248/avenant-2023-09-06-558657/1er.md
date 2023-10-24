@@ -1,0 +1,9 @@
+# Article 1er
+
+« Les RAG constituent la rémunération brute au-dessous de laquelle ne pourra être rémunéré aucun salarié adulte travaillant normalement sous réserve des conditions spéciales concernant les jeunes mensuels âgés de moins de 18 ans et les salariés d'une aptitude physique réduite.
+
+Le présent accord institue un barème de RAG pour l'année 2023, sur la base de 151,67 heures pour un horaire hebdomadaire de travail effectif de 35 heures. En conséquence, les montants des RAG seront adaptés au temps de travail effectif pratiqué par chaque salarié.
+
+Les valeurs des RAG seront calculées pro rata temporis en cas d'embauche, de départ ou de changement de classification intervenant en cours d'année, ou en cas de suspension du contrat de travail, pour quelle que cause que ce soit.
+
+Le nouveau barème de RAG 2023 (établi en euros) est annexé au présent accord. »
