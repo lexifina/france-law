@@ -1,0 +1,9 @@
+# Réponse à la question n° 9935
+
+- Question : [9935](9935.md) — Question n° 9935 — Usage d'adhésifs sécurisés servant de scellés funéraires
+
+## Réponse
+
+*JO du 2023-10-24, page 9446*
+
+Aux termes de l'article R. 2213-45 du Code général des collectivités territoriales (CGCT), « les fonctionnaires mentionnés à l'article L. 2213-14 contrôlent par tout moyen l'identité du défunt, assistent à la fermeture du cercueil et y apposent deux cachets de cire revêtus du sceau de l'autorité administrative compétente : 1° Lorsqu'il doit être procédé à la crémation du corps ; 2° En cas de transport de corps hors de la commune de décès ou de dépôt, lorsqu'aucun membre de la famille n'est présent ». La réglementation funéraire prévoit actuellement le recours à des cachets de cire en vue de la fermeture du cercueil, à l'exclusion de tout autre procédé. Toutefois, un changement progressif des pratiques des opérateurs funéraires est constaté, notamment en raison de l'évolution et de la variété des dispositifs techniques permettant de procéder au scellement des cercueils. Dans ce contexte, il peut être envisagé de faire évoluer la réglementation pour ouvrir une possibilité de recours aux scellés autres que les cachets de cire, dans la mesure où d'autres dispositifs peuvent présenter les mêmes garanties. Un projet de décret ayant recueilli un avis favorable du Conseil national des opérations funéraires (CNOF) est ainsi actuellement en cours d'élaboration. Ce projet de décret propose de substituer à l'obligation de moyens constituée par le seul recours aux cachets de cire, une obligation de résultat, constituée par l'inviolabilité et la garantie d'identification de l'autorité compétente ayant apposé les scellés, qui peut être remplie par tout moyen. Les concertations nécessaires se poursuivent en vue de la finalisation de cette nouvelle réglementation.
