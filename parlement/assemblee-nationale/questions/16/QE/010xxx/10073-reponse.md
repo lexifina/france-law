@@ -1,0 +1,9 @@
+# Réponse à la question n° 10073
+
+- Question : [10073](10073.md) — Question n° 10073 — Évolution du droit de la copropriété
+
+## Réponse
+
+*JO du 2023-10-24, page 9460*
+
+La loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis prévoit des seuils de majorité, applicables en fonction de l'importance de la décision et qui se graduent de la majorité simple (art. 24), c'est-à-dire la majorité des voix exprimées par les copropriétaires présents ou représentés, jusqu'à l'unanimité. Entre ces deux majorités, les décisions peuvent être prises à la majorité dite absolue, c'est-à-dire la majorité des voix (tantièmes) de tous les copropriétaires composant le syndicat (art. 25), ou à la double majorité (art. 26), c'est-à-dire la majorité en nombre de tous les copropriétaires, représentant les 2/3 des voix (tantièmes). Les travaux de rénovation énergétique relèvent de la majorité de l'article 25. Toutefois, grâce à la règle de la passerelle instituée par la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains dite loi SRU à l'article 25-1, généralisée par l'ordonnance n° 2019-1101 du 30 octobre 2019, lesdits travaux peuvent être adoptés dans le cadre d'un second vote, à la majorité simple, dès lors qu'il aura été recueilli, lors du premier vote, au moins un tiers des voix de tous les copropriétaires. Par le mécanisme de la passerelle, le législateur a entendu faciliter la prise de décisions en assemblée générale, sans porter une atteinte disproportionnée au droit de propriété des copropriétaires sur leurs parties communes, dont le droit de vote constitue un attribut. Conscient de la difficulté qui peut demeurer dans de nombreux cas et de la complexité des situations parfois rencontrées en copropriété, le Gouvernement réfléchit à de nouveaux outils permettant de faciliter les travaux de rénovation énergitique au sein des copropriétés.
