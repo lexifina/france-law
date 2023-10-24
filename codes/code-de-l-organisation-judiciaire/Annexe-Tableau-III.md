@@ -358,11 +358,11 @@ Avignon. |
 
 Cour d'appel d'Orléans |
 
-Indre-et-Loir |
+Indre-et-Loire |
 
 Tours |
 
-Joué-les-Tours. |
+Tours. |
 
 Loir-et-Cher |
 
@@ -534,4 +534,4 @@ Les Mureaux, Trappes. |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 11 août 2023 (NOR : JUSB2321197A), ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément à l’article 3 de l’arrêté du 3 octobre 2023 (NOR : JUSB2325356A), ces dispositions entrent en vigueur le 24 octobre 2023.
