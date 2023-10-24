@@ -1,0 +1,9 @@
+# Réponse à la question n° 11794
+
+- Question : [11794](11794.md) — Question n° 11794 — Conditions de l'exercice de l'activité des louvetiers
+
+## Réponse
+
+*JO du 2023-10-24, page 9388*
+
+La louveterie est une institution qui a traversé les époques et les organisations administratives. Répondant à un besoin de la puissance publique de réguler les animaux sauvages dans un but de protection des activités humaines, elle s'inscrit dans une longue histoire et une pratique connue dans les territoires. Elle conserve une spécificité forte du fait du statut des lieutenants de louveterie, personnes privées, commissionnées et assermentées, collaboratrices bénévoles de l'administration, et placées sous l'autorité du maire ou du préfet pour exercer une mission de service public : la régulation d'animaux d'espèces non domestiques. Aujourd'hui, la louveterie est particulièrement mobilisée dans les territoires, notamment pour la défense des troupeaux menacés par la prédation du loup, son activité historique. Dans le cadre du prochain plan national d'actions sur le loup et les activités d'élevages 2024/2029, il est essentiel qu'une réflexion soit menée sur la contribution de la louveterie à la défense des troupeaux. Cette réflexion s'inscrit dans un contexte d'évolution sensible de la pratique cynégétique dans les territoires, ruraux ou urbains et dans un contexte de politique volontariste de réduction des dégâts aux récoltes agricoles et aux troupeaux. Afin d'objectiver l'état des lieux de la louveterie en France et de porter des recommandations, une mission d'inspection a été confiée mi-mai 2023 à l'Inspection générale de l'environnement et du développement durable. Cette mission a notamment pour but de définir les moyens financiers à consacrer aux missions des louvetiers. La question des frais engagés par les lieutenants de louveterie dans l'exercice de leur fonction sera un point majeur de cette mission.
