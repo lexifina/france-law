@@ -1,0 +1,9 @@
+# Réponse à la question n° 4897
+
+- Question : [4897](4897.md) — Question n° 4897 — Ségur de la santé et professionnels des résidences autonomie
+
+## Réponse
+
+*JO du 2023-10-24, page 9520*
+
+Conscient des difficultés rencontrées dans le secteur social et médico-social, le Gouvernement a pris des engagements forts pour assurer une reconnaissance de tous les personnels, tant dans le secteur public que dans le secteur privé. Dans la continuité des mesures de revalorisation déjà portées par le Gouvernement, d'abord avec les accords du Ségur de la santé de juillet 2020, puis avec l'extension des revalorisations aux personnels soignants des établissements et services sociaux et médico-sociaux (ESSMS), le Gouvernement s'est engagé à prendre des mesures fortes en faveur des professionnels de la filière socio-éducative. A ce titre s'est tenue le 18 février 2022 une conférence des métiers de l'accompagnement social et médico-social pour fixer le cap et la méthode de la revalorisation salariale. S'agissant du secteur public, c'est l'article 48 de la loi de financement de la sécurité sociale pour 2021 modifié, et son décret d'application n° 2020-1152 du 19 septembre 2020 modifié, qui ouvrent le bénéfice du complément de traitement indiciaire (CTI) aux personnels concernés. Dans le secteur privé, la mesure a été transposée par des textes conventionnels. Aussi, l'ensemble des personnels paramédicaux, aides médico-psychologiques, auxiliaires de vie sociale et accompagnants éducatifs et sociaux exerçant dans les résidences autonomie sans forfait soins bénéficient de la mesure de revalorisation salariale depuis le mois de novembre 2021. Ils sont visés au 6° de l'article 2 du décret du 19 septembre 2020 susvisé. Les personnels de la filière socio-éducative exerçant dans les ESSMS, donc y compris dans les résidences autonomie sans forfait soins, bénéficient également du CTI depuis le 1er avril 2022.
