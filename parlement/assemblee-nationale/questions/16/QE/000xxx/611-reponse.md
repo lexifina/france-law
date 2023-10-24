@@ -1,0 +1,9 @@
+# Réponse à la question n° 611
+
+- Question : [611](611.md) — Question n° 611 — Prise en charge des victimes de la route sans infraction pénale établie
+
+## Réponse
+
+*JO du 2023-10-24, page 9451*
+
+La loi du 5 juillet 1985 dite « loi Badinter » fixe un cadre juridique pour l'indemnisation des victimes d'accidents de la circulation. Dans ce cadre, la loi a mis en place une procédure d'offre amiable par laquelle l'assureur doit adresser une offre d'indemnisation à la victime dans les délais encadrés par la loi. L'assureur a également l'obligation, en application de l'article L. 211-10 du code des assurances, d'informer la victime « qu'elle peut à son libre choix se faire assister d'un avocat et, en cas d'examen médical, d'un médecin ». L'article R. 211-39 du même code dispose que l'assureur adresse également à la victime une "notice relative à l'indemnisation des victimes d'accidents de la circulation dont le modèle est fixé par arrêté". Sur la base de ces informations, la victime peut donc se faire accompagner pendant toute la procédure d'offre obligatoire et amiable par l'avocat et un éventuel médecin, en cas d'expertise amiable, de son choix. Par ailleurs, la victime peut obtenir une aide et un accompagnement par les centres d'accès au droit ainsi que par les associations d'aides aux victimes. Enfin, la victime peut avoir accès à une assistance juridique par le biais d'un contrat d'assurance. Il existe donc des dispositifs permettant aux victimes d'un accident de la circulation de bénéficier d'un accompagnement effectif, en l'absence-même d'une infraction pénale. Cependant, j'ai posé le constat de ce que notre offre peut être améliorée : c'est la raison pour laquelle j'ai missionné Alexandra LOUIS, déléguée interministérielle à l'aide aux victimes de me faire des propositions relatives au "guichet unique des victimes". Cette concertation a été lancée le 7 septembre dernier et je ne peux que vous inviter à la contacter pour y participer.
