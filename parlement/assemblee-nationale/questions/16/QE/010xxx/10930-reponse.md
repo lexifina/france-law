@@ -1,0 +1,9 @@
+# Réponse à la question n° 10930
+
+- Question : [10930](10930.md) — Question n° 10930 — Préoccupations autour de la qualité nutritionnelle du pain
+
+## Réponse
+
+*JO du 2023-10-24, page 9415*
+
+La réglementation (décret n° 93-1074 du 13 septembre 1993) encadre actuellement la définition des mentions « pain maison », « pain de tradition française » et « au levain ». Le décret de 1993, rédigé en concertation avec la profession, avait à l'époque pour objectif d'améliorer les qualités nutritives des produits de boulangerie notamment en interdisant la surgélation et l'emploi d'additifs (émulsifiants, colorants, conservateurs…). En complément des dénominations ainsi encadrées et sous réserve du respect du droit de la consommation, les boulangers ont également la possibilité de valoriser et de segmenter leur production en employant des mentions volontaires telles que « pain complet » (T 150), « pain intégral », « pain au seigle », « pain multi-céréales »… La gamme des pains disponibles est en effet très large et la qualité nutritionnelle des produits varie fortement en fonction de la farine utilisée, mais aussi d'autres pratiques, telles que les modalités de pétrissage ou la durée de repos avant cuisson, notamment. Pour répondre à la demande des consommateurs, de plus en plus soucieux de la qualité nutritionnelle des produits et des matières premières utilisées dans le secteur de la boulangerie, certains professionnels s'attachent d'ores et déjà à produire des pains présentant des qualités nutritives renforcées. Ils reviennent notamment à des méthodes de production plus durables, réhabilitent des variétés de farine anciennes… Le Gouvernement prend note des propositions formulées par le parlementaire et visant à compléter la réglementation en créant une nouvelle dénomination « pain nutrition ». Ces propositions seront expertisées, en lien avec les parties prenantes.
