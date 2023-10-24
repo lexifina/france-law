@@ -1,0 +1,9 @@
+# Réponse à la question n° 10529
+
+- Question : [10529](10529.md) — Question n° 10529 — Exploitation d'animaux dans les spectacles
+
+## Réponse
+
+*JO du 2023-10-24, page 9386*
+
+Le Gouvernement est particulièrement attentif au bien-être animal, comme en atteste son soutien à la loi n° 2021-1539 du 30 novembre 2021 visant à lutter contre la maltraitance animale et conforter le lien entre les animaux et les hommes. Cette loi a introduit de nombreuses évolutions positives dans notre rapport aux animaux. En particulier, l'article L.413-13 du code de l'environnement qui interdit de présenter des animaux domestiques et non domestiques en discothèque est entré en vigueur dès la promulgation de la loi. Pour l'application de cet article, est considéré comme discothèque tout lieu clos ou dont l'accès est restreint, dont la vocation première est d'accueillir du public, même dans le cadre d'évènements privés, en vue d'un rassemblement destiné principalement à la diffusion de musique et à la danse. Ainsi, cette interdiction concerne également les cabarets, dont le Moulin rouge, considérés, au regard de la loi, comme des discothèques. Par ailleurs, la loi a également précisé que les établissements de spectacles fixes présentant au public des animaux non domestiques sont soumis à la réglementation des établissements zoologiques à caractère fixe et permanent. Cette réglementation garantit que les animaux sont détenus et présentés dans des conditions satisfaisant leurs impératifs biologiques. La présentation d'animaux domestiques au sein d'établissements fixes est autorisée lorsque celle-ci s'effectue conformément aux règles assurant leur bien-être. La loi prévoit enfin que seront interdits la détention, le transport et les spectacles d'animaux d'espèces non domestiques dans les établissements itinérants à compter du 1er décembre 2028.
