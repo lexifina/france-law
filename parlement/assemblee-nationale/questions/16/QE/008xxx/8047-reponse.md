@@ -1,0 +1,9 @@
+# Réponse à la question n° 8047
+
+- Question : [8047](8047.md) — Question n° 8047 — Les éleveurs bovins de La Réunion face à la leucose bovine
+
+## Réponse
+
+*JO du 2023-10-24, page 9380*
+
+Face à la situation sanitaire du cheptel bovin de La Réunion vis-à-vis de la leucose, l'État a déployé le plan global de maîtrise sanitaire en élevage bovin (PGMSB de La Réunion) en 2020. Ce plan prévoit notamment un programme d'éradication de la leucose bovine. Celui-ci est mis en œuvre conformément à l'arrêté ministériel du 31 décembre 1990 fixant les mesures techniques et administratives relatives à la prophylaxie collective et à la police sanitaire de la leucose bovine enzootique. Avec un financement sur quatre ans, le PGMSB de La Réunion est doté d'une enveloppe de l'État de 4,4 millions d'euros, dont 598 500 euros sont destinés à la surveillance et à la lutte contre la leucose bovine enzootique. Le programme vise l'éradication de la maladie, tout en prenant en compte le temps nécessaire au renouvellement des cheptels infectés et la préservation de la race locale Moka. Dès sa rédaction, ce programme prévoyait l'atteinte de l'objectif d'éradication sans nécessité de recourir à des introductions de génisses indemnes depuis la métropole. Par ailleurs, l'État accompagne l'association du groupement de défense sanitaire (GDS), de La Réunion, chargée des questions sanitaires relatives à la santé animale. Dans ce cadre, il attribue au GDS une enveloppe budgétaire correspondant à l'emploi d'un ingénieur et d'un technicien dédié à l'animation du programme de lutte contre la leucose. Il participe également au financement des visites vétérinaires organisées pour les cheptels qui mettent en place l'assainissement. L'objectif d'éradication est atteignable si toutes les forces locales s'organisent pour mettre en œuvre le PGMSB, validé par l'ensemble des parties prenantes.
