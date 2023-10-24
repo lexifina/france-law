@@ -1,0 +1,9 @@
+# Réponse à la question n° 5106
+
+- Question : [5106](5106.md) — Question n° 5106 — Tarification des caravanes dans les aires de grand passage des gens du voyage
+
+## Réponse
+
+*JO du 2023-10-24, page 9391*
+
+Le décret n° 2019-171 du 5 mars 2019 relatif aux aires de grand passage, pris pour l'application de la loi n° 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté, prescrit les normes techniques applicables en matière de création des aires de grand passage et sécurise les relations entre le gestionnaire et les gens du voyage en introduisant un règlement intérieur type régissant l'occupation temporaire de ces équipements. L'article 5 du décret, qui dispose que « le droit d'usage et la tarification des prestations sont calculées par caravane double essieu », ne permet en effet pas dans sa rédaction actuelle de couvrir l'ensemble des résidences mobiles des gens du voyage visées à l'article 1er de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage. Ce sujet avait fait l'objet en 2018-2019 d'échanges avec l'ensemble des parties prenantes pour trouver un équilibre entre la réalité des formes d'habitat des gens du voyage (une famille possède en général une caravane double-essieu et des caravanes annexes simple essieu) et une tarification permettant une juste compensation pour les collectivités locales. Cette difficulté, connue et identifiée par les services du Ministère du Logement en charge des questions relatives aux gens du voyage, a d'ailleurs fait l'objet d'échanges avec différentes directions départementales des territoires. En ce sens, un travail de modification de l'article 5 du décret n° 2019-171 a récemment été entamé par le ministère du Logement afin de permettre une facturation prenant en compte l'évaluation des résidences mobiles d'habitation des gens du voyage.
