@@ -18,7 +18,7 @@ Par dispositif de post-équipement au sens du présent arrêté, on entend non s
 
 2.2. Famille de véhicules pouvant être équipés d'un dispositif de post-équipement
 
-La famille de véhicules pouvant être équipés d'un dispositif de post-équipement est constituée de l'ensemble des véhicules dont le moteur appartient à la même famille de moteurs (au sens de la directive n° 2005/55/CE) que le moteur soumis aux essais d'émissions prévus par la présente annexe.
+La famille de véhicules pouvant être équipés d'un dispositif de post-équipement est constituée de l'ensemble des véhicules dont le moteur appartient à la même famille de moteurs (au sens du règlement UNECE n° 49 susvisé) que le moteur soumis aux essais d'émissions prévus par la présente annexe.
 
 Cette famille peut être étendue à des véhicules équipés d'autres moteurs provenant du même fabricant, ou à des moteurs conçus et fabriqués par un autre fabricant, pour autant que le constructeur du dispositif de post-équipement puisse démontrer que la liste suivante de paramètres de base de ces moteurs est commune avec le moteur d'essais :
 
@@ -26,7 +26,7 @@ Cette famille peut être étendue à des véhicules équipés d'autres moteurs p
 
 - la méthode d'aspiration de l'air (aspiration naturelle, suralimentation, ou suralimentation avec refroidisseur d'air de suralimentation) ;
 
-- la présence ou l'absence de dispositif de recyclage des gaz d'échappement (EGR) ;
+- la présence ou l'absence de dispositif de recyclage des gaz d'échappement (EGR) (une absence d'EGR peut toutefois couvrir des variantes avec EGR) ;
 
 - le niveau réglementaire d'émissions pour lequel le moteur avant post-équipement est réceptionné (par exemple, le niveau A de la directive n° 2005/55/CE).
 
@@ -132,7 +132,7 @@ L'un au moins de ces systèmes doit être accompagné d'un dispositif sonore don
 
 Le véhicule doit être équipé d'un dispositif d'interruption du courant permettant le démarrage provenant directement de la borne + de la batterie. Ce dispositif doit être spécifique à l'usage d'un réactif et destiné à prévenir les tentatives de manipulation du dispositif de post-équipement. L'installation de ce dispositif doit être réalisée à l'aide de moyens de fixation non démontables (par exemple, des boulons de cisaillement).
 
-Le véhicule doit disposer d'une mémoire non démontable et non effaçable pendant au moins 400 jours ou 9 600 heures de fonctionnement du moteur, où seront enregistrées les informations pouvant être attribuées à une manipulation du dispositif de post-équipement prévues par cette annexe. Cette mémoire doit être reliée à un connecteur permettant un accès aux informations mémorisées selon les règles et dans le format prévu par la directive 2005/55/CE pour l'accès aux informations OBD.
+Le véhicule doit disposer d'une mémoire non démontable et non effaçable pendant au moins 400 jours ou 9 600 heures de fonctionnement du moteur, où seront enregistrées les informations pouvant être attribuées à une manipulation du dispositif de post-équipement prévues par cette annexe. Cette mémoire doit être reliée à un connecteur permettant un accès aux informations mémorisées selon les règles et dans le format prévu par l'annexe IX du règlement UE 2018/858 susvisé pour l'accès aux informations OBD.
 
 5.2. Surveillance du niveau de réactif
 
@@ -154,7 +154,7 @@ Une fois immobilisé, le véhicule ne peut redémarrer que lorsque la quantité 
 
 Lorsque le niveau d'oxydes d'azote (NOx) dans les gaz d'échappement dépasse de plus de 1,5g/kWh la limite figurant au tableau 7.1, le conducteur en est informé par l'activation du système d'avertissement visé au point 5.1. En outre, un code d'anomalie qui identifie la raison pour laquelle ce niveau a été dépassé est enregistrée dans la mémoire non effaçable visée au point 5.1.
 
-Si le niveau d'oxydes d'azote dépasse le seuil OBD figurant dans le tableau de l'article 4, paragraphe 3, de la directive 2005/55/CE, le système d'interruption du courant de démarrage est activé selon le processus décrit ci-dessous. En outre, un code d'anomalie non effaçable qui identifie la raison pour laquelle ce seuil a été dépassé et le kilométrage du véhicule (ou le nombre d'heures du moteur) sont enregistrés dans la mémoire non effaçable visée au point 5.1.
+Si le niveau d'oxydes d'azote dépasse le seuil OBD figurant dans le tableau de l'article 4, paragraphe 3, de la directive 2005/55/CE ou au sens du règlement UNECE n° 49 susvisé, le système d'interruption du courant de démarrage est activé selon le processus décrit ci-dessous. En outre, un code d'anomalie non effaçable qui identifie la raison pour laquelle ce seuil a été dépassé et le kilométrage du véhicule (ou le nombre d'heures du moteur) sont enregistrés dans la mémoire non effaçable visée au point 5.1.
 
 5.3.1. Processus d'interruption du courant de démarrage
 
@@ -184,7 +184,15 @@ Le constructeur est tenu de fournir à tous les utilisateurs demandant le post-�
 
 6. Exigences relatives aux modifications apportées au système-moteur soumis à post-équipement
 
-Aucun des paramètres de fonctionnement du moteur déclarés par son constructeur lors de sa réception (par exemple, la valeur de contre-pression à l'échappement qui ne doit pas être dépassée) ne doit être affecté par l'installation d'un post-équipement. Toute modification de cette contre-pression n'est acceptable qu'avec l'accord écrit du constructeur du moteur. En absence d'accord écrit du constructeur du moteur, le constructeur du dispositif de postéquipement s'engage par écrit à garantir la préservation de l'intégrité des moteurs sur lesquels sont installés les dispositifs de postéquipement qu'il commercialise et à assumer la responsabilité d'une détérioration éventuelle des moteurs due à l'installation de ces dispositifs.
+Aucun des paramètres de fonctionnement du moteur déclarés par son constructeur lors de sa réception (par exemple, la valeur de contre-pression à l'échappement qui ne doit pas être dépassée) ne doit être affecté par l'installation d'un post-équipement. Toute modification de cette contre-pression n'est acceptable qu'avec l'accord écrit du constructeur du moteur.
+
+Un dépassement de la contre-pression maximale d'échappement du constructeur est autorisé jusqu'à un niveau équivalent à la perte de charge du dispositif de post équipement âgé de 1000 h avec une tolérance de 20 mbar pour tenir compte des imprécisions de mesure et des éventuelles différences de charge en suie.
+
+Cette disposition s'applique uniquement lorsque les conditions suivantes sont réunies :
+
+-les véhicules sur lesquels seront installés les dispositifs de post-équipement ne sont plus couverts par la garantie du constructeur du véhicule de base ;
+
+-le fabricant du dispositif de post-équipement garantit la préservation de l'intégrité des moteurs, des systèmes de post-traitements des émissions de polluants et de toute pièce susceptible d'être impactée, du véhicule sur lequel est installé un dispositif de post-équipement qu'il commercialise. Il assume la responsabilité d'une détérioration éventuelle des moteurs, des systèmes de post-traitements et de toute pièce susceptible d'être dégradée par le non-respect de la valeur de contre-pression à l'échappement du constructeur, et doit en démontrer la capacité. Le fabricant a l'obligation de mettre à disposition du client un document relatant les modalités de prise en charge.
 
 Dans le cas où, afin d'assurer le bon fonctionnement d'un système-moteur avec le dispositif de post-équipement, des modifications des composants et/ou des systèmes (4) ayant une influence sur le niveau d'émissions de ce système-moteur seraient nécessaires, le constructeur (du post-équipement) doit fournir une description détaillée de ces modifications et de leur impact sur le fonctionnement et la performance du système de maîtrise de la pollution. Cette description doit être accompagnée des résultats d'essais, simulations, et autres justifications techniques nécessaires à l'autorité de réception pour autoriser les modifications envisagées.
 
@@ -204,55 +212,29 @@ Le tableau 7.1 rappelle les post-équipements pris en compte par le présent arr
 
 Tableau 7.1. - Limites d'émissions après rétrofit (en g/kWh)
 
-NIVEAU EURO
+NIVEAU EURO d'origine |
 
-d'origine
+NATURE du rétrofit |
 
-|
+RÉTROFIT NIVEAU EURO III (*) |
 
-NATURE
+RÉTROFIT NIVEAU EURO IV (*) |
 
-du rétrofit
+RÉTROFIT NIVEAU EURO V (*) |
 
-|
-
-RÉTROFIT NIVEAU
-
-EURO III (*)
-
-|
+RÉTROFIT NIVEAU EEV (*) |
 
 RÉTROFIT NIVEAU
 
-EURO IV (*)
+EURO VI (*) |
 
-|
+EURO II |
 
-RÉTROFIT NIVEAU
+FàP |
 
-EURO V (*)
+PT selon lignes A |
 
-|
-
-RÉTROFIT NIVEAU
-
-EEV (*)
-
-|
-
-EURO II
-
-|
-
-FàP
-
-|
-
-PT selon lignes A
-
-|
-
-PT selon lignes B1
+PT selon lignes B1 |
 
 |
 
@@ -260,105 +242,125 @@ PT selon lignes B1
 
 |
 
-SCR
+|
+
+SCR |
+
+NOx selon lignes A |
+
+NOx selon lignes B1 |
+
+NOx selon lignes B2 |
 
 |
 
-NOx selon lignes A
+|
 
 |
 
-NOx selon lignes B1
+Combiné |
+
+PT selon lignes A et NOx selon lignes A |
+
+PT selon lignes B1 et NOx selon lignes B1 |
+
+PT selon lignes B2 et NOx selon lignes B2 |
 
 |
 
-NOx selon lignes B2
+|
+
+EURO III |
+
+FàP |
 
 |
 
-Combiné
+PT selon lignes B1 |
 
 |
 
-PT selon lignes A
+|
+
+|
+
+|
+
+SCR |
+
+|
+
+NOx selon lignes B1 |
+
+NOx selon lignes B2 |
+
+|
+
+|
+
+|
+
+Combiné |
+
+|
+
+PT selon lignes B1 et NOx selon lignes B1 |
+
+PT selon lignes B2 et NOx selon lignes B2 |
+
+|
+
+|
+
+EURO IV |
+
+FàP |
+
+|
+
+|
+
+|
+
+PT selon lignes C |
+
+|
+
+|
+
+SCR |
+
+|
+
+|
+
+NOx selon lignes B2 |
+
+NOx selon lignes C |
+
+|
+
+|
+
+Combiné |
+
+|
+
+|
+
+NOx selon lignes B2 |
+
+PT selon lignes C et NOx selon lignes C |
+
+PT selon lignes C
 
 et
 
-NOx selon lignes A
+NOx selon lignes D |
 
-|
+EURO V |
 
-PT selon lignes B1
-
-et
-
-NOx selon lignes B1
-
-|
-
-PT selon lignes B2
-
-et
-
-NOx selon lignes B2
-
-|
-
-EURO III
-
-|
-
-FàP
-
-|
-
-|
-
-PT selon lignes B1
-
-|
-
-|
-
-|
-
-SCR
-
-|
-
-NOx selon lignes B1
-
-|
-
-NOx selon lignes B2
-
-|
-
-Combiné
-
-|
-
-PT selon lignes B1
-
-et
-
-NOx selon lignes B1
-
-|
-
-PT selon lignes B2
-
-et
-
-NOx selon lignes B2
-
-|
-
-EURO IV
-
-|
-
-FàP
+Combiné |
 
 |
 
@@ -370,25 +372,21 @@ FàP
 
 PT selon lignes C
 
-|
+et
 
-SCR
+NOx selon lignes D |
 
-|
+EURO V
 
-NOx selon lignes B2
+EEV |
 
-|
-
-NOx selon lignes C
+Combiné |
 
 |
 
-Combiné
-
 |
 
-NOx selon lignes B2
+|
 
 |
 
@@ -396,11 +394,9 @@ PT selon lignes C
 
 et
 
-NOx selon lignes C
+NOx selon lignes D |
 
-|
-
-(*) Les lignes A, B1, B2, et C spécifiées font référence aux lignes des tableaux 1 et 2 de l'annexe 1 à la directive 2005/55/CE.
+(*) Les lignes A, B1, B2, et C spécifiées font référence aux lignes des tableaux 1 et 2 de l'annexe 1 à la directive 2005/55/ CE, et D correspond aux valeurs limites de la série 06 d'amendements au Règlement ONU n° 49. |
 
 |
 
@@ -464,13 +460,13 @@ Euro V et EEV
 
 L'efficacité relative ηREC d'un dispositif de post-équipement est calculée par la formule suivante, les mesures étant effectuées sur le cycle ETC conformément aux exigences de la directive 2005/55/CE :
 
-[ηREC = (1 - (EREC EBase)) × 100]
+[η REC = (1 - (E REC E Base)) × 100]
 
 où
 
-EBase est le niveau d'émissions d'origine d'un système-moteur, et
+E Base est le niveau d'émissions d'origine d'un système-moteur, et
 
-EREC est le niveau d'émissions en aval d'un dispositif de post-équipement.
+E REC est le niveau d'émissions en aval d'un dispositif de post-équipement.
 
 7.3. Autres polluants
 

@@ -4,7 +4,7 @@ MODÈLE DE CERTIFICAT D'INSTALLATION
 
 Certificat d'installation d'un dispositif de post-équipement des émissions de polluants des véhicules en service réceptionné suivant l'arrêté du 15 mai 2013
 
-Je soussigné ........ déclare avoir installé le dispositif de post-équipement réceptionné sous le numéro T.P yyxxx*00 sur le véhicule visé ci-dessous en respectant la procédure fournie avec le dispositif et en conformité avec la réception de ce dispositif. Je déclare transmettre dans les plus brefs délais une copie de ce certificat au constructeur du dispositif.
+Je soussigné ........ déclare avoir installé le dispositif de post-équipement réceptionné sous le numéro T.P yyxxx*00ou conforme aux spécifications du paragraphe 5 du règlement ONU n° 132 relatif à l'homologation des dispositifs antipollution de mise à niveau (DAM) destinés aux véhicules utilitaires lourds, aux tracteurs agricoles et forestiers et aux engins mobiles non routiers à moteurs à allumage par compression sur le véhicule visé ci-dessous en respectant la procédure fournie avec le dispositif et en conformité avec la réception de ce dispositif. Je déclare transmettre dans les plus brefs délais une copie de ce certificat au constructeur du dispositif.
 
 0.1. Nom et adresse de l'installateur habilité :
 
@@ -16,7 +16,7 @@ Je soussigné ........ déclare avoir installé le dispositif de post-équipemen
 
 0.3.2 Polluants concernés : particules/oxydes d'azote :
 
-0.3.3 Numéro de réception : T.P yyxxx*00
+0.3.3 Numéro de réception : T.P yyxxx*00 ou conforme aux spécifications du paragraphe 5 du règlement ONU n° 132 précité
 
 0.4. Numéro d'identification des composants du dispositif le cas échéant :
 
@@ -38,6 +38,6 @@ Je soussigné ........ déclare avoir installé le dispositif de post-équipemen
 
 0.7. Nouveau groupe par classe de pollution de l'air duvéhicule :
 
-La présente déclaration est émise conformément à l'arrêté du 15 mai 2013 visant la procédure d'installation et de réception des dispositifs de post-équipement permettant de réduire les émissions de polluants des véhicules en service.
+La présente déclaration est émise conformément à l'arrêté du 15 mai 2013 modifié visant la procédure d'installation et de réception des dispositifs de post-équipement permettant de réduire les émissions de polluants des véhicules en service.
 
 (lieu) (date)(signature)

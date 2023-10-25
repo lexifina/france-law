@@ -1,10 +1,10 @@
-# Article Annexe IIII
+# Article Annexe III
 
 MODÈLE DE CERTIFICAT DE MISE EN CONFORMITÉ
 
 Certificat de mise en conformité
 
-(Suivant le paragraphe 6 de l'article 5 de l'arrêté du 15 mai 2013 visant la procédure d'installation et de réception des dispositifs de post-équipement permettant de réduire les émissions de polluants des véhicules en service)
+(Suivant le paragraphe 6 de l'article 5 de l'arrêté du 15 mai 2013 modifié visant la procédure d'installation et de réception des dispositifs de post-équipement permettant de réduire les émissions de polluants des véhicules en service)
 
 0.1. Nom et adresse du titulaire du certificat d'immatriculation :
 
@@ -14,7 +14,7 @@ Certificat de mise en conformité
 
 0.2.2. Polluants concernés (particules/oxydes d'azote) :
 
-0.3. Numéro d'identification de l'entité :
+0.3. Numéro d'identification de l'entité T. P yyxxx*00 ou conforme aux spécifications du paragraphe 5 du règlement ONU n° 132 relatif à l'homologation des dispositifs antipollution de mise à niveau (DAM) destinés aux véhicules utilitaires lourds, aux tracteurs agricoles et forestiers et aux engins mobiles non routiers à moteurs à allumage par compression :
 
 0.5. Véhicule sur lequel le dispositif a été installé :
 

@@ -12,7 +12,7 @@ Concernant :
 
 ― l'extension de la réception.
 
-Numéro de réception : T.P yyxxx*00.
+Numéro de réception : T.P yyxxx*00 ou conforme aux spécifications du paragraphe 5 du règlement ONU n° 132 relatif à l'homologation des dispositifs antipollution de mise à niveau (DAM) destinés aux véhicules utilitaires lourds, aux tracteurs agricoles et forestiers et aux engins mobiles non routiers à moteurs à allumage par compression.
 
 Raison de l'extension :
 
