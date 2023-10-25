@@ -1,0 +1,11 @@
+# COMMUNE DE SAINT BROLADRE : délibération DELIB752023COM — D- BUDGET COMMUNE - DECISION MODIFICATIVE CORRIGEE - ERREUR MATERIELLE SUR LE NUMERO DE L'OPERATION
+
+- Collectivité : COMMUNE DE SAINT BROLADRE
+- SIRET : 21350259400012
+- Code INSEE : 35259
+- Date : 2023-10-25
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : D- BUDGET COMMUNE - DECISION MODIFICATIVE CORRIGEE - ERREUR MATERIELLE SUR LE NUMERO DE L'OPERATION
+- Transmis à la préfecture : 2023-11-23 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213502594/Deliberation/2023/518809/b846f0277a5c9501018d9a21a0df2e59937596f5d96c550e31b1c23747000fbf.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
