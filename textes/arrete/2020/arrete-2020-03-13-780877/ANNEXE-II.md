@@ -4,7 +4,7 @@ MODÈLE D'ATTESTATION DE TRANSFORMATION
 
 Attestation de transformation d'un véhicule à motorisation thermique en motorisation électrique à batterie ou à pile à combustible
 
-Je soussigné , fabricant / installateur habilité (1), déclare avoir transformé sous le numéro d'agrément de prototype n° le véhicule visé ci-dessous en respectant la procédure fournie avec le dispositif de conversion et en conformité avec la réception. Je déclare transmettre dans les plus brefs délais une copie de cette attestation au fabricant du dispositif de conversion.
+Je soussigné, fabricant / installateur habilité (1), déclare avoir transformé sous le numéro d'agrément de prototype n° le véhicule visé ci-dessous en respectant la procédure fournie avec le dispositif de conversion et en conformité avec la réception. Je déclare transmettre dans les plus brefs délais une copie de cette attestation au fabricant du dispositif de conversion.
 
 1. Nom et adresse de l'installateur habilité :
 
@@ -25,6 +25,10 @@ Je soussigné , fabricant / installateur habilité (1), déclare avoir transform
 5.3. Numéro d'identification :
 
 5.4. Poids à vide du véhicule en ordre de marche :
+
+5.4.1 Masse en charge maximale techniquement admissible ;
+
+5.4.2 Masse en charge maximale techniquement admissible de l'ensemble ;
 
 5.5. Moteur :
 

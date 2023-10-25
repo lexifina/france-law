@@ -24,13 +24,13 @@ pour les dispositifs à pile à combustible :
 
 - configuration de base et les principales caractéristiques du système ;
 
-- alimentation en carburant du véhicule ( Système d'alimentation en carburant , un ensemble de composants utilisés pour stocker et fournir le carburant hydrogène à une pile à combustible).
+- alimentation en carburant du véhicule (Système d'alimentation en carburant , un ensemble de composants utilisés pour stocker et fournir le carburant hydrogène à une pile à combustible).
 
 3. Exigences relatives aux dispositifs de conversion
 
 3.1. Surveillance
 
-L'installation du dispositif de conversion ne doit pas provoquer l'allumage du témoin du système de diagnostic embarqué (OBD) du véhicule transformé durant l'utilisation du véhicule transformé.
+L'installation du dispositif de conversion ne doit pas provoquer l'allumage du témoin du système de diagnostic embarqué (OBD), si celui-ci est présent, du véhicule transformé durant l'utilisation du véhicule transformé.
 
 3.2. Dispositions anti-manipulations
 
@@ -38,33 +38,49 @@ Le dispositif de conversion électrique doit être conçu pour ne pas subir ou p
 
 4. Exigences relatives aux modifications apportées
 
-4.1. La mise à niveau des systèmes électriques doit être conforme aux normes obligatoires pour l'homologation des véhicules (règlements CE et / UE et CEE-ONU).
+4.1. La mise à niveau des systèmes électriques doit être conforme aux normes obligatoires pour l'homologation des véhicules (règlements CE et / UE et CEE-ONU), au sens des § 5a, 5b et 5d ci-dessous.
 
-4.2. Les dispositifs doivent garantir la conformité initiale aux exigences techniques pertinentes des véhicules sur lesquels ils sont installés.
+4.2. Les dispositifs doivent garantir la conformité des véhicules sur lesquels ils sont installés aux exigences techniques pertinentes à leur date de première mise en circulation. En fonction de la transformation, les essais prévus aux § 5g et 5h sont exigés.
 
-4.3 La puissance du groupe motopropulseur électrique doit être comprise dans la plage fermée 65 % - 100 % (40 % - 100 % pour des véhicules des catégories L1e à L5e) de la puissance maximale du moteur d'origine endothermique.
+4.3. La puissance du groupe motopropulseur électrique (puissance continue évaluée sur 30 minutes) doit être comprise dans la plage fermée :
 
-4.4. Les dimensions du véhicule de base (longueur, largeur, hauteur, empattement, porte à faux, voies, etc.) ne doivent pas être modifiées par la transformation.
+-40 %-100 % pour les véhicules de catégories L6e, L7e, M1, M2, N1 et N2 ;
 
-4.5. La masse maximale techniquement admissible du véhicule, la masse en charge maximale de l'ensemble admissible ainsi que les charges maximales admissibles sur chacun des essieux ne doivent pas être modifiées par la transformation.
+-60 %-100 % pour les véhicules de catégories M3 et N3 ;
 
-4.6. Le poids à vide du véhicule en ordre de marche du véhicule après transformation ne peut excéder de plus ou moins 20 % du poids à vide en ordre de marche du véhicule de base.
+-30 %-100 % pour des véhicules des catégories L1e à L5e.
 
-4.7. La répartition du poids à vide en ordre de marche entre les essieux après transformation ne peut excéder de plus ou moins 10 % la répartition entre les essieux du véhicule de base.
+de la puissance maximale du moteur d'origine endothermique, au sens du paragraphe 5e ci-dessous.
+
+Exemple pour un véhicule M1 : pour un type-variante-version thermique avec un moteur de 100 kW, la puissance du moteur électrique de la transformation doit être compris entre 40 et 100 kW.
+
+4.4. Les dimensions du véhicule de base (longueur, largeur, hauteur, empattement, porte à faux, voies, etc.) ne doivent pas être modifiées par la transformation. Toutefois, pour les véhicules de catégories M1, M2, M3, N1, N2 et N3, il est permis :
+
+-une augmentation de la hauteur de maximum 80 cm par rapport au hors tout déclaré du véhicule de base ;
+
+-une modification du porte à faux arrière dans les limites prévues par le constructeur du véhicule de base (non applicable pour les véhicules de catégories M1).
+
+4.5. La masse maximale techniquement admissible du véhicule, la masse en charge maximale de l'ensemble admissible ainsi que les charges maximales admissibles sur chacun des essieux ne doivent pas être modifiées par la transformation, sans une autorisation explicite du constructeur du véhicule de base
+
+Par dérogation, la masse en charge maximale de l'ensemble admissible peut être diminuée ou supprimée par la transformation sans autorisation du constructeur du véhicule de base.
+
+4.6. Le poids à vide du véhicule en ordre de marche du véhicule après transformation ne peut excéder de plus ou moins 20 % du poids à vide en ordre de marche du véhicule de à transformer (30 % pour les véhicules de catégories M3 et N3). Pour les véhicules ayant subi plusieurs réceptions, le poids à vide en ordre de marche de la dernière réception est retenu comme référence.
+
+4.7. La répartition du poids à vide en ordre de marche entre les essieux après transformation ne peut excéder de plus ou moins 10 % la répartition entre les essieux du véhicule de base ou de plus ou moins 15 % pour les tracteurs routiers N3. Pour les véhicules ayant subi plusieurs réceptions, la répartition entre les essieux de la dernière réception est retenue comme référence.
 
 5. Essais
 
-La vérification de la conformité d'un système de requalification électrique est effectuée au moyen des tests décrits ci-dessous :
+La vérification de la conformité du type de véhicules transformés avec le dispositif de conversion électrique est effectuée au moyen des tests décrits ci-dessous :
 
 a) La conformité avec le règlement CEE-ONU 10.05 (pour les catégories M, N) ou le règlement (UE) 44/2014, annexe VII (pour la catégorie L) ;
 
-b) La conformité avec le règlement CEE-ONU 100.02 (pour les catégories M, N) ou le règlement UE 3/2014, annexe IV (pour la catégorie L) sauf les prescriptions relatives à :
+b) La conformité avec le règlement CEE-ONU 100.02 (pour les catégories M, N) ou le règlement UE 3/2014, annexe IV (pour la catégorie L) sauf, à la demande du fabricant, les prescriptions relatives à :
 
 - impacts mécaniques ;
 
 - résistance au feu.
 
-Toutefois, l'ensemble des prescriptions devra être satisfaite 3 ans après la date d'entrée en vigueur du présent arrêté ou après la transformation de plus de 100 véhicules par fabricant.
+Toutefois, l'ensemble des prescriptions devra être satisfaite au plus tard au 31 décembre 2024, ou dès le moment où le fabricant a transformé plus de 100 véhicules d'un même type.
 
 Dans l'intervalle, un calcul de tenue des ancrages des batteries est demandé en considérant les accélérations transversales et longitudinales visées en annexe 8c du règlement CEE-ONU 100.02 pour les chocs mécaniques.
 
@@ -86,7 +102,7 @@ d) Le respect, le cas échéant, de la directive 2014/35/UE susvisée ;
 
 e) La validation des caractéristiques de puissance du système de propulsion électrique conformément au règlement CEE-ONU 85.00 ;
 
-f) La validation des masses et dimensions selon le règlement UE 1230/2012 susvisé (pour les catégories M, N) ou le règlement (UE) 44/2014 susvisé (pour la catégorie L) ;
+f) La validation des masses et dimensions selon le règlement UE 2019/2144 susvisé (pour les catégories M, N) ou le règlement (UE) 44/2014 susvisé (pour la catégorie L) ;
 
 g) La conformité avec le règlement CEE-ONU 13 ou 13H si le véhicule est équipé d'un système de freinage électrique à récupération, ou avec le règlement UE 3/2014, annexe III, qui vise le règlement CEE-ONU 78 pour la catégorie L ;
 
@@ -114,7 +130,7 @@ h) En fonction de la catégorie internationale du véhicule et des modifications
 
 - et tout autre acte réglementaire impacté par la transformation ;
 
-i) Règlement (CE) 79/2009 susvisé ou règlement CEE-ONU 134 ou règlement CEE-ONU 146 (catégorie L) pour les transformations utilisant une pile à combustible ;
+i) Règlement (CE) 79/2009 susvisé ou règlement CEE-ONU 134 complété des éléments du règlement d'exécution (UE) 2021/535 susvisé notamment son annexe XIV, ou règlement CEE-ONU 146 (catégorie L) pour les transformations utilisant une pile à combustible ;
 
 Pour tous les actes réglementaires cités au point 5, le véhicule transformé est considéré conforme au regard de ces masses si celui-ci respecte les conditions prévues au point 4.5 à 4.7.
 
@@ -144,6 +160,6 @@ Notamment, le dispositif de conversion doit être durable. Par cela, on entend q
 
 8. Autres exigences
 
-Le véhicule peut être équipé d'un dispositif acoustique permettant de signaler de manière continue et adéquate sa présence selon les prescriptions du règlement (UE) n° 540/2014 susvisé.
+Le véhicule doit être équipé d'un dispositif acoustique permettant de signaler de manière continue et adéquate sa présence selon les prescriptions du règlement (UE) n° 540/2014 susvisé ou du règlement de la CEE-ONU n° 138, avec une possibilité d'exemption selon les dispositions dudit règlement.
 
 Les réservoirs de carburant conventionnel et/ou ceux de GPL ou GNV le cas échéant, pour l'alimentation du moteur thermique, doivent être retirés ou rendus inutilisables.
