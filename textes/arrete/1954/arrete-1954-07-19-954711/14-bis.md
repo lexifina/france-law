@@ -4,7 +4,7 @@ I. - Un véhicule usagé relevant de la catégorie internationale M1 ou N1 visé
 
 - faire l'objet d'une réception à titre isolé auprès du service en charge des réceptions conformément aux dispositions des points II et III ci-dessous ;
 
-- ou, s'il a précédemment immatriculé sur le territoire de l'Union européenne avec un certificat d'immatriculation définitif et harmonisé selon la directive 1999/37/CE du 29 avril 1999 relative aux documents d'immatriculation des véhicules, faire l'objet d'une demande au service en charge des réceptions conformément aux dispositions du point IV ci-dessous.
+- ou s'il a été précédemment immatriculé sur le territoire de l'Union européenne avec un certificat d'immatriculation définitif et harmonisé selon la directive 1999/37/CE du 29 avril 1999 relative aux documents d'immatriculation des véhicules, faire l'objet d'une demande au service en charge des réceptions conformément aux dispositions du point IV ci-dessous.
 
 Les critères pour la classification des véhicules respectent les dispositions définies dans l'annexe I du règlement 2018/858 précité.
 

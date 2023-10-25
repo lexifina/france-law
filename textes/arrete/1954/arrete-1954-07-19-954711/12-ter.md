@@ -22,9 +22,17 @@ Lorsque le transformateur dispose de plusieurs centres de montage, chacun d'entr
 
 -les instructions relatives au montage de ces pièces ;
 
--l'avis technique du constructeur du type de véhicule non transformé sauf dans le cas d'une réception d'un type de véhicules transformés avec un dispositif de conversion électrique au sens de l'arrêté du 13 mars 2020 relatif aux conditions de transformation des véhicules à motorisation thermique en motorisation électrique à batterie ou à pile à combustible et sous réserve du respect des dispositions dudit arrêté ;
+-l'avis technique du constructeur du type de véhicule non transformé ;
 
 -les justificatifs réglementaires concernant les domaines réglementés susceptibles d'être concernés par la transformation ;
+
+L'avis technique du constructeur du type de véhicule non transformé n'est pas requis :
+
+- dans le cas d'une réception d'un type de véhicules transformés avec un dispositif de conversion électrique au sens de l'arrêté du 13 mars 2020 relatif aux conditions de transformation des véhicules à motorisation thermique en motorisation électrique à batterie ou à pile à combustible et sous réserve du respect des dispositions dudit arrêté ;
+
+- dans le cas d'une réception d'un type de véhicules transformés dans le cadre d'opération de retrofit visant à modifier le type de motorisation ou de source d'énergie en vue de réduire les niveaux d'émissions des véhicules, et dont la date de 1re immatriculation est antérieure d'au moins 5 ans par rapport à la date de sa conversion.
+
+Les éventuels défauts ou dysfonctionnements causés directement ou indirectement par la transformation ne sont pas couverts par la garantie légale ou commerciale du constructeur d'origine à quelque titre que ce soit. Le transformateur a l'obligation de garantir la préservation de l'intégrité de tous les éléments du véhicule transformé sur lequel est réalisée la transformation. Il assume la responsabilité d'une détérioration éventuelle des autres éléments non transformés du véhicule. Le transformateur a l'obligation de mettre à disposition du client un document relatant les modalités de prise en charge de sa garantie. Cette information sera portée à la connaissance des titulaires des certificats d'immatriculation des véhicules transformés.
 
 En cas d'acceptation de l'agrément de prototype, le service en charge des réceptions établit un procès-verbal d'agrément de prototype conforme au modèle ci-joint (annexe II bis).
 
