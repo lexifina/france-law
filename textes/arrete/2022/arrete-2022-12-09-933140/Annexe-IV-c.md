@@ -244,9 +244,11 @@ Ponctuelle orale |
 
 20 min |
 
-Ponctuelle orale |
+CCF
 
-20 min |
+1 situation d'évaluation |
+
+|
 
 Ponctuelle orale |
 
