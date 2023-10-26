@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230707704
+
+- Question : [SEQ230707704](seq230707704.md) — Cohérence dans les obligations des sites protégés
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2023-10-26, page 6069*
+
+La réglementation sur la signalisation routière implantée en France est définie par l'arrêté du 24 novembre 1967 relatif à la signalisation des routes et autoroutes et l'instruction interministérielle du 22 octobre 1963 sur la signalisation routière. L'objectif de la signalisation routière est de fournir aux conducteurs et usagers les informations dont ils ont le plus besoin pour se déplacer, se repérer et circuler en toute sécurité, ainsi que pour leur indiquer des prescriptions locales de circulation (interdictions et obligations). Afin d'être connue et comprise par tous, la signalisation routière doit répondre à des critères de lisibilité, de visibilité et d'homogénéité sur l'ensemble du territoire. C'est pourquoi la forme des panneaux, leur contenu et les couleurs utilisées sont strictement définis et ne peuvent pas varier en fonction du site et du paysage. Ainsi, en entrée d'agglomération, il convient d'implanter un panneau d'entrée d'agglomération. Ce panneau est obligatoire et indique la limite à partir de laquelle s'appliquent les règles du code de la route propres à la circulation en agglomération. Lorsque qu'une commune a mis en place des règles particulières applicables à l'ensemble de la commune, comme par exemple l'abaissement de la vitesse maximale autorisée, elle doit également les signaler à chaque entrée de la commune. La mise en place de panneaux de signalisation routière est une nécessité. Toutefois, elle n'exclut pas une réflexion de la part du gestionnaire de voirie sur l'optimisation de leur mise en oeuvre afin que les enjeux paysagers et patrimoniaux soient pris en compte, sans contrevenir à l'impératif de sécurité routière.
