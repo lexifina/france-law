@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305907
+
+- Question : [SEQ230305907](seq230305907.md) — Difficultés légales pour la récupération de l'aide sociale à l'hébergement par les conseils départementaux
+
+## Réponse
+
+*Solidarités et familles, JO du 2023-10-26, page 6121*
+
+La législation prévoit aujourd'hui quatre types de recours en récupération dont deux types de recours du vivant du bénéficiaire : le recours contre le donataire et le recours contre le bénéficiaire revenu à meilleure fortune. Or, la vente de tout ou partie du patrimoine immobilier ne constitue pas, au sens de la jurisprudence, un retour à meilleure fortune dans la mesure où cette vente n'augmente pas le patrimoine du bénéficiaire. En effet, l'article L. 132-1 du code de l'action sociale et des familles prévoit qu'en ce qui concerne l'admission d'un bénéficiaire à l'aide sociale à l'hébergement (ASH), il est tenu compte, pour le calcul de ses ressources « des revenus professionnels et autres et de la valeur en capital des biens non productifs de revenu, qui est évaluée dans les conditions fixées par voie réglementaire. ». De ce fait, au moment de la vente l'évaluation du patrimoine du bénéficiaire tient déjà compte du montant des biens immobiliers. En dehors du cas du retour à meilleure fortune ou de la donation effectuée postérieurement ou dans les dix ans précédant la demande d'admission à l'ASH, le recours est exercé par le conseil départemental sur l'actif net successoral, au décès du bénéficiaire de l'ASH. Néanmoins, il reste toutefois possible pour les bénéficiaires de l'ASH qui ne souhaitent pas faire porter la charge de la créance sur leurs héritiers de faire le choix de rembourser de leur vivant la somme due par la vente de leur patrimoine immobilier. Cependant, il s'agit ici d'une possibilité ouverte au bénéficiaire et non d'une obligation qui pourrait lui être imposée par le Conseil départemental.
