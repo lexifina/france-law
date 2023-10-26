@@ -1,0 +1,10 @@
+# COMMUNE DE BAULE : délibération CONVTENNIS — CONVENTION DE MISE A DISPOSITION DU BIEN « TERRAIN DE TENNIS EXTERIEUR » ENTRE LA COMMUNE DE BAULE et LASSOCIATION ENTENTE BAULOISE
+
+- Collectivité : COMMUNE DE BAULE
+- SIREN : 214500241
+- Code INSEE : 45024
+- Date : 2023-10-26
+- Matière : 3.5 Domaine et patrimoine/Autres actes de gestion du domaine public
+- Objet : CONVENTION DE MISE A DISPOSITION DU BIEN « TERRAIN DE TENNIS EXTERIEUR » ENTRE LA COMMUNE DE BAULE et LASSOCIATION ENTENTE BAULOISE
+- Acte publié : https://publication-actes.fr/OpenData/214500241/Deliberation/2023/4e60546168da09ac496ab455b4ab870b2157db1014c05ce0789821704d9ad766.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
