@@ -38,9 +38,9 @@ II. - Au titre du 2° du I de la même annexe :
 
 - groupe aérien mixte ;
 
-- équipe de marque « intelligence surveillance and reconnaissance » (ISR) ;
+- équipe de marque " intelligence surveillance and reconnaissance " (ISR) ;
 
-- antenne équipe de marque « intelligence surveillance and reconnaissance » (ISR)/renseignement d'origine électromagnétique ;
+- antenne équipe de marque " intelligence surveillance and reconnaissance " (ISR)/renseignement d'origine électromagnétique ;
 
 - centre d'instruction des équipages de transport ;
 
@@ -60,7 +60,7 @@ II. - Au titre du 2° du I de la même annexe :
 
 - escadrille aérosanitaire (EAS) ;
 
-- antenne de l'escadrille aérosanitaire 7/560 ;
+- antenne de l'escadrille aérosanitaire 6/560 ;
 
 - escadron de soutien technique aéronautique (ESTA) d'Evreux ;
 
@@ -121,3 +121,7 @@ Tous détachements hélicoptères métropole et outre-mer, à terre et embarqué
 - Unité française de vérification (UFV).
 
 III. - Au titre du 3° du I de la même annexe : aéronefs des forces armées françaises à bord desquels le personnel est embarqué pour raison de service en vue d'y exercer ses fonctions.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 23 octobre 2023 (NOR : ARMH2328475A), ces dispositions s'appliquent aux rémunérations versées à compter du mois d'octobre 2023.

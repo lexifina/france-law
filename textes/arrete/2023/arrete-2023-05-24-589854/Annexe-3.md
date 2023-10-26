@@ -14,7 +14,7 @@ a) Marine nationale :
 
 - école de plongée ;
 
-- unité de nageurs de combat « commando Hubert » - groupe Charlie.
+- unité de nageurs de combat " commando Hubert " - groupe Charlie.
 
 b) Armée de terre :
 
@@ -28,7 +28,7 @@ b) Armée de terre :
 
 - état-major de la force d'action navale ;
 
-- unité de nageurs de combat « commando Hubert » - hors groupe Charlie ;
+- unité de nageurs de combat commando Hubert - hors groupe Charlie ;
 
 - flottille de lutte contre les mines ;
 
@@ -118,7 +118,9 @@ b) Armée de l'air et de l'espace :
 
 - escadrons de transport et d'hélicoptère mettant en œuvre la mission de sauvetage ;
 
-- centre d'instruction des équipages d'hélicoptères.
+- centre d'instruction des équipages d'hélicoptères ;
+
+- centre de formation à la survie et au sauvetage.
 
 c) Armée de terre :
 
@@ -185,3 +187,7 @@ e) Autres unités :
 - commandement des éléments français au Sénégal ;
 
 - autres postes de plongeur hyperbariste, de plongeur subaquatique et de plongeur d'appui.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 23 octobre 2023 (NOR : ARMH2328475A), ces dispositions s'appliquent aux rémunérations versées à compter du mois d'octobre 2023.
