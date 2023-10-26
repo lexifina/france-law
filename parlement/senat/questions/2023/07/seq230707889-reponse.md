@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230707889
+
+- Question : [SEQ230707889](seq230707889.md) — Transfert des sans-abri franciliens
+
+## Réponse
+
+*Logement, JO du 2023-10-26, page 6099*
+
+Dans un contexte de tension des dispositifs de prise en charge dans l'hébergement d'urgence et dans le dispositif national d'accueil en Ile-de-France, le Gouvernement a décidé en début d'année la mise en place de structures d'accueil temporaire, (ou SAS régionaux) situés hors de l'Ile-de-France pour permettre, sur la base du volontariat, la prise en charge en urgence de publics sans-abris présents sur les campements franciliens. A l'échelle nationale, le dispositif a fait l'objet de concertations avec les principales associations têtes de réseau. Ces SAS sont des lieux d'accueil où les personnes mises à l'abri bénéficient, avec leur accord, d'un hébergement et d'un réexamen complet de leur situation administrative, ainsi que d'un accompagnement social et sanitaire le cas échéant. Selon leur situation, elles pourront notamment déposer une demande d'asile ou poursuivre leur demande si celle-ci a déjà été déposée, ainsi que solliciter un examen ou un réexamen de leur situation au regard du séjour. A l'issue de la période d'hébergement de 3 semaines, les personnes sont orientées vers une solution de sortie adaptée à leur situation. Pour les personnes faisant l'objet d'un examen de leur droit au séjour ou les demandeurs d'asile, une orientation vers un hébergement dans les conditions prévues par le droit commun est organisée. Les opérateurs associatifs gestionnaires de ces structures d'accueil sont informés en amont de l'orientation de publics, pour permettre une prise en charge adaptée des personnes dès leur arrivée. Les services déconcentrés de l'Etat pilotent le dispositif à l'échelle locale et sont pleinement mobilisés pour soutenir les associations dans la prise en charge de ces publics.
