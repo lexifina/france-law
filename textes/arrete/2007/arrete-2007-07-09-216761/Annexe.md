@@ -170,11 +170,7 @@ Lyon-Hurghada (Egypte) ;
 
 Lyon-Istanbul (Turquie) ;
 
-Paris-Batna (Algérie) ;
-
 Paris-Biskra (Algérie) ;
-
-Paris-El-Oued (Algérie) ;
 
 Paris-Charm El-Cheikh (Egypte).
 
