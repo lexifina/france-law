@@ -34,7 +34,9 @@ Trimestriellement (3) |
 
 Tous les six mois |
 
-4. Qualité du biogaz capté et pression atmosphérique : CH4, CO2, CO, O2, H2S, H2, H2O |
+4. Qualité du biogaz capté et pression atmosphérique : CH4, CO2, CO, O2, H2S, H2
+
+|
 
 Mensuellement |
 

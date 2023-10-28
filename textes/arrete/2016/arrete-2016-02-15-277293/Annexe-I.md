@@ -42,7 +42,7 @@ Demande chimique en oxygène (DCO) |
 
 < 125 mg/l au-delà |
 
-Demande biochimique en oxygène (DBO5) |
+Demande biochimique en oxygène (DBO 5) |
 
 - |
 
@@ -112,7 +112,7 @@ Chrome et ses composés (en Cr) |
 
 1389 |
 
-0,5 mg/l (dont Cr6+ : 100 µg/l) si le rejet dépasse 1 g/j |
+0,5 mg/l (dont Cr 6+ : 100 µg/l) si le rejet dépasse 1 g/j |
 
 Cuivre et ses composés (en Cu) |
 
@@ -267,6 +267,16 @@ Heptachlore* et époxyde d'heptachlore* |
 7706 |
 
 25 µg/l |
+
+Nonylphénols* |
+
+84-852-15-3 |
+
+1958 |
+
+25 µg/l
+
+|
 
 Polluants spécifiques de l'état écologique |
 
