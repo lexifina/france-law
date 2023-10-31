@@ -1,0 +1,9 @@
+# Réponse à la question n° 8918
+
+- Question : [8918](8918.md) — Question n° 8918 — Conséquences de la destruction du barrage de Kakhova sur le cours du blé
+
+## Réponse
+
+*JO du 2023-10-31, page 9694*
+
+L'Ukraine est un des premiers producteurs de blé au monde. Les événements en Ukraine ont pénalisé ses capacités de production de blé, la seule destruction du barrage de Kakhova conduisant directement ou indirectement à une baisse de production d'au moins 2 millions de tonnes par an. Au regard du volume du marché mondial de blé (estimé à plus de 700 millions de tonnes), cet impact reste toutefois relativement faible et ne devrait pas impacter le volume de blé disponible sur le marché mondial de manière significative. En ce qui concerne l'approvisionnement de la France, la France est faiblement exposée de manière directe aux céréales ukrainiennes. Les importations françaises de blé en provenance d'Ukraine correspondent à moins de 8% des importations françaises en 2021 et pour les autres céréales, la part de l'Ukraine dans les importations françaises de céréales sont de 8,2 % en 2022 et de 5 % sur les 5 premiers mois de 2023. Cette proportion varie cependant selon les céréales, avec une forte exposition sur les graines de colza (54 % des importations françaises de céréales en provenance d'Ukraine en 2022) et les graines de tournesol (25 %). Les prix mondiaux des céréales sont dans une perspective baissière au deuxième trimestre 2023 (-9,7 % en variation trimestrielle) en raison de l'augmentation des disponibilités saisonnières provenant des récoltes en cours en Argentine et au Brésil, alors que les récoltes de blé commencent dans les pays de l'hémisphère nord. Toutefois, depuis l'annonce du non-renouvellement de l'accord céréalier avec la Russie, une hausse significative des prix d'environ 9% a été observée.
