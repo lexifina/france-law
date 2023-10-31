@@ -1,0 +1,9 @@
+# Réponse à la question n° 11496
+
+- Question : [11496](11496.md) — Question n° 11496 — Recherches médicales sur le cancer animal
+
+## Réponse
+
+*JO du 2023-10-31, page 9685*
+
+Le ministère de l'agriculture et de la souveraineté alimentaire développe et est pleinement engagé en faveur de l'amélioration du bien-être animal, sous toutes ses formes. Les politiques ambitieuses menées à cet égard visent à assurer la prise en considération de l'animal dans sa dimension d'être sensible. À cet égard, la loi visant à lutter contre la maltraitance animale et à conforter le lien entre les animaux et les hommes a été promulguée le 30 novembre 2021. Elle prévoit notamment la mise en œuvre d'un « certificat d'engagement et de connaissance » obligatoire pour les acquéreurs d'un animal de compagnie (depuis le 1er octobre 2022) et pour les détenteurs d'équidés (depuis le 31 décembre 2022). Ce certificat d'engagement et de connaissance vise à sensibiliser et responsabiliser les acquéreurs d'animaux de compagnie, notamment concernant les soins médicaux à apporter à ces derniers. Par ailleurs, la recherche médicale vétérinaire est une préoccupation majeure placée au cœur de l'action du ministère de l'agriculture et de la souveraineté alimentaire. Elle a pour objectif le développement de nouveaux outils de diagnostics et d'approches thérapeutiques innovantes visant à améliorer les garanties de prévention des risques ainsi que la gestion des pathologies animales, notamment oncologiques. Ainsi, l'arrêté du 26 janvier 2022 fixant la liste des spécialités vétérinaires reconnaît la spécialité de médecine interne des animaux de compagnie, option oncologie. L'oncologie vétérinaire a pour ambition de garantir la bonne santé des animaux de compagnie et de contribuer au développement d'une médecine personnalisée et adaptée à chaque cas.
