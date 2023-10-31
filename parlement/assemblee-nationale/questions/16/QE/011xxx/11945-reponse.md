@@ -1,0 +1,9 @@
+# Réponse à la question n° 11945
+
+- Question : [11945](11945.md) — Question n° 11945 — Lutte contre la prolifération des frelons asiatiques
+
+## Réponse
+
+*JO du 2023-10-31, page 9692*
+
+Pour protéger les ruches contre le frelon asiatique, espèce ayant connu une expansion rapide dès son introduction accidentelle en Aquitaine en 2004, un corpus législatif et réglementaire prévoit des mesures de lutte. Au regard de l'intérêt de préservation du patrimoine biologique, des milieux naturels et des usages associés, l'article L.411-6 de du code de l'environnement interdit sur le territoire national, l'introduction, la détention, le transport, le colportage, l'utilisation, l'échange, la vente ou l'achat de tout spécimen vivant d'espèce exotique envahissante, dont la liste est fixée par l'arrêté interministériel du 14 février 2018. Le frelon asiatique est inscrit sur cette liste. Les opérations de lutte contre ces espèces démarrent dès constat de leur présence dans le milieu, le préfet de département peut procéder ou faire procéder à la capture, au prélèvement, à la garde ou à la destruction de spécimens de ces espèces. Un arrêté préfectoral précise alors les conditions de réalisation de ces opérations. Les préfets peuvent notamment ordonner la destruction de nids sur des propriétés privées. Le financement des opérations de lutte contre le frelon n'est pas pris en charge par l'État. La destruction des nids est à la charge des particuliers et ses coûts peuvent être, le cas échéant, pris en charge en tout ou partie par des financements émanant de collectivités territoriales. Sur ce dernier point, le MTECT a lancé début 2023 le Fonds d'accélération de la transition écologique dans les collectivités territoriales dit fonds vert. Ce dispositif comporte une mesure au titre de laquelle peuvent être financées des opérations de destruction de populations d'espèces exotiques envahissantes, à hauteur de 80 % du montant total de l'opération.
