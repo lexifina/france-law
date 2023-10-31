@@ -1,0 +1,9 @@
+# Réponse à la question n° 11163
+
+- Question : [11163](11163.md) — Question n° 11163 — Stabilité de l'indemnité des volontaires internationaux en administration
+
+## Réponse
+
+*JO du 2023-10-31, page 9759*
+
+Une mesure exceptionnelle de revalorisation des indemnités d'expatriation des volontaires internationaux en administration (VIA) est intervenue au 1er janvier 2023. Elle concernait les pays dans lesquels la rémunération des VIA s'avérait insuffisante pour couvrir les charges incompressibles. Aux Etats-Unis et au Canada, les VIA ont bénéficié de cette revalorisation, qui a été complétée par des hausses, respectivement de 8 % et de près de 10 %, des indemnités d'expatriation versées à tous les personnels de l'Etat dans ces deux pays, également mises en œuvre au 1er janvier. Ces augmentations ont été intégrées de façon pérenne à la rémunération des VIA. Ainsi, c'est sur cette base rehaussée que les ajustements trimestriels habituels des indemnités d'expatriation ont ensuite été appliqués, notamment ceux du 1er avril et du 1er juillet. Ces ajustements, qui sont réalisés tous les ans et visent notamment à tenir compte de l'évolution des changes, ont entraîné mécaniquement une baisse des indemnités d'expatriation des VIA depuis le 1er avril 2023, dans un contexte de net renforcement de l'euro par rapport à la monnaie locale dans ces deux pays. En dépit de ces ajustements négatifs, les VIA aux Etats-Unis et au Canada bénéficient d'un niveau de rémunération supérieur à ce qu'il aurait été, si la revalorisation au 1er janvier dernier n'était pas intervenue. Enfin, les ajustements trimestriels ultérieurs pourraient se traduire par des hausses des indemnités d'expatriation des VIA aux Etats-Unis et au Canada, comme ce fut le cas tout au long de l'année 2022, si la monnaie locale s'apprécie ou que l'inflation locale est supérieure à l'inflation française.
