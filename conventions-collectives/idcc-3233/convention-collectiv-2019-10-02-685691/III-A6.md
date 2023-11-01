@@ -22,9 +22,9 @@ Position I. – Débutants
 
 Pour les diplômés débutant dans la carrière entre 21 et 28 ans, le coefficient hiérarchique sera déterminé par la moyenne entre le coefficient de leur âge et celui de 21 ans. Ce coefficient devra être augmenté chaque année d'un nombre égal de points, de telle sorte qu'il atteigne 330 à 28 ans.
 
-Position II
+Position II (1)
 
-À défaut de promotion au choix ou d'avantages d'ancienneté propres à l'entreprise leur accordant des appointements au moins équivalents, les collaborateurs, après 28 ans, auront des appointements minimaux correspondant aux coefficients suivants :
+Les collaborateurs, après 28 ans, auront les coefficients suivants et les appointements minimaux correspondants :
 
 – après 2 ans dans la fonction : coefficient 350 ;
 
@@ -41,3 +41,7 @@ Position III
 Classe A : coefficient 400.
 
 Classe B : coefficient 600.
+
+(1) Paragraphe "Position II" étendu sous réserve du respect des dispositions des articles L. 1132-1 et L. 1133-2 du code du travail et que la différence de rémunération entre salariés ayant la même qualification et accomplissant les mêmes tâches se fonde sur des critères objectifs et vérifiables en relation directe avec la valeur du travail effectué, conformément au principe « à travail égal, salaire égal » résultant des articles L. 2261-22, R. 2261-1 et L. 2271-1 du code du travail, ainsi que des articles L. 3221-2, L. 3221-3 et L. 3221-4 (Cass. soc., 29 octobre 1996, Société Delzonglz c/ Ponsolle ; Cass. soc., 15 mai 2007, n° 05-42894 ; Cass. soc., 9 octobre 2019, n° 17-16.642).
+
+(Arrêté du 6 septembre 2023 - art. 1)
