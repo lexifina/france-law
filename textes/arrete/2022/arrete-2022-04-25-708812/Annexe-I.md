@@ -430,7 +430,7 @@ F. - Emplois relevant du groupe 4 :
 
 42° Général commandant l'état-major interarmées du territoire national métropolitain ;
 
-43° (Supprimé) ;
+43° Commandant de l'état-major des forces interarmées ;
 
 44° Inspecteur de la médecine de prévention dans les armées au contrôle général des armées ;
 
@@ -646,7 +646,7 @@ G. - Emplois relevant du groupe 5 :
 
 23° Directeur adjoint du service interarmées des munitions ;
 
-24° Commandant de l'état-major des forces interarmées ;
+24° (Supprimé) ;
 
 25° Sous-chef d'état-major " opérations " du corps de réaction rapide européen ;
 
@@ -843,7 +843,3 @@ G. - Emplois relevant du groupe 5 :
 (1) N'occupant pas les fonctions de commandant des écoles militaires de Bourges.
 
 (2) N'occupant pas les fonctions de général commandant des écoles militaires de Draguignan et commandant de la base de défense de Draguignan.
-
-NOTA :
-
-Conformément à l’article 2 de l’arrêté du 7 septembre 2023 (NOR : ARMH2324240A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de septembre 2023.
