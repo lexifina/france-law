@@ -82,6 +82,106 @@ Teneur techniquement inévitable.
 
 L'enzyme doit être dénaturée dans le produit final. |
 
+Asparaginase issue d'une souche génétiquement modifiée d'Aspergillus oryzae (NZYM-SP) contenant le gène codant une asparaginase d'Aspergillus oryzae. |
+
+Enzymes. |
+
+Produits céréaliers (à l'exception du pain de tradition française) y compris les céréales pour petit déjeuner et les biscuits. |
+
+Préparation d'aliments contenant de la L-asparagine et des hydrates de carbone, cuits à des températures supérieures à 120° C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide). |
+
+Teneur résiduelle techniquement inévitable. |
+
+Asparaginase issue d'une souche génétiquement modifiée de Bacillus subtilis (NZYM-CK) contenant le gène codant une asparaginase de Pyrococcus furiosus. |
+
+Enzymes. |
+
+Produits céréaliers (à l'exception du pain de tradition française) y compris les céréales pour petit déjeuner et les biscuits. |
+
+Préparation d'aliments contenant de la L-asparagine et des hydrates de carbone, cuits à des températures supérieures à 120° C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide). |
+
+Teneur résiduelle techniquement inévitable. |
+
+Bêta-galactosidase issue d'une souche non génétiquement modifiée de Bacillus circulans (M3-1). |
+
+Enzymes. |
+
+Production de galacto-oligosaccharides. |
+
+Transgalactosylation générant des galacto-oligosaccharides à partir de lactose. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Bêta-galactosidase issue d'une souche non génétiquement modifiée de Bacillus licheniformis (NZYM-BT) contenant le gène codant une bêta-galactosidase de Bifidobacterium bifidum. |
+
+Enzymes. |
+
+Galacto-oligosaccharides. |
+
+Transgalactosylation générant des galacto-oligosaccharides à partir de lactose. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Bêta-galactosidase issue d'une souche non génétiquement modifiée de Kluyveromyces lactis (GAL). |
+
+Enzymes. |
+
+Préparations pour nourrissons, préparations de suite et boissons à base de lait et produits similaires destinés aux enfants en bas âge. |
+
+Hydrolyse du lactose. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Bêta-galactosidase issue d'une souche de Kluyveromyces lactis autoclonée (KLA). |
+
+Enzymes. |
+
+Préparations pour nourrissons, préparations de suite et boissons à base de lait et produits similaires destinés aux enfants en bas âge. |
+
+Hydrolyse du lactose. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Bêta-galactosidase issue d'une souche non génétiquement modifiée de Papiliotrema terrestris (Cryptococcus terrestris) (AE-BLC). |
+
+Enzymes. |
+
+Galacto-oligosaccharides. |
+
+Transgalactosylation générant des galacto-oligosaccharides à partir de lactose. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Enzymes amylolytiques citées à l'annexe I C. |
+
+Enzymes. |
+
+Aliments destinés spécifiquement aux nourrissons et enfants en bas âge au sens du décret du 29 août 1991 susvisé. |
+
+Dans les conditions prévues en annexe I C. |
+
+Dose techniquement inévitable. |
+
+Enzymes pectiques citées à l'annexe I C. |
+
+Enzymes. |
+
+Aliments destinés spécifiquement aux nourrissons et enfants en bas-âge au sens du décret du 29 août 1991 susvisé. |
+
+Dans les conditions prévues en annexe I C. |
+
+Dose techniquement inévitable. |
+
+Enzymes protéolytiques citées à l'annexe I C. |
+
+Enzymes. |
+
+Aliments destinés spécifiquement aux nourrissons et enfants en bas âge au sens du décret du 29 août 1991 susvisé. |
+
+Dans les conditions prévues en annexe I C. |
+
+Dose techniquement inévitable. |
+
 Lipase issue d'une souche génétiquement modifiée d'Aspergillus oryzae (PH) contenant le gène codant pour la lipase de Fusarium oxysporum |
 
 Enzymes. |
@@ -92,62 +192,12 @@ Hydrolyse des lipides lors du prétraitement des matières premières utilisées
 
 Teneur résiduelle techniquement inévitable. |
 
-Enzymes amylolytiques citées à l'annexe I C.
+Protéase bacillolysin issue d'une souche non génétiquement modifiée de Bacillus amyloliquefaciens (PBN). |
 
-|
+Enzymes. |
 
-Enzymes.
+Production d'hydrolysats de protéines. |
 
-|
+Hydrolyse des liaisons peptidiques des protéines. |
 
-Aliments destinés spécifiquement aux nourrissons et enfants en bas âge au sens du décret du 29 août 1991 susvisé.
-
-|
-
-Dans les conditions prévues en annexe I C.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Enzymes protéolytiques citées à l'annexe I C.
-
-|
-
-Enzymes.
-
-|
-
-Aliments destinés spécifiquement aux nourrissons et enfants en bas âge au sens du décret du 29 août 1991 susvisé.
-
-|
-
-Dans les conditions prévues en annexe I C.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Enzymes pectiques citées à l'annexe I C.
-
-|
-
-Enzymes.
-
-|
-
-Aliments destinés spécifiquement aux nourrissons et enfants en bas-âge au sens du décret du 29 août 1991 susvisé.
-
-|
-
-Dans les conditions prévues en annexe I C.
-
-|
-
-Dose techniquement inévitable.
-
-|
+Teneur résiduelle techniquement inévitable. |

@@ -1052,6 +1052,16 @@ A la dose maximale de 3,5 mg/ kg de légumes non blanchis |
 
 Teneur résiduelle < 3,5 mg/ kg. |
 
+Diméthylpolysiloxane. |
+
+Antimousse |
+
+Crustacés cuits. |
+
+Dose maximale de 1800 mg/ kg de crustacés aux étapes de décongélation-cuisson-refroidissement. |
+
+Teneur résiduelle inférieure à 2,2 mg/ kg de crustacés prêts à consommer. |
+
 Emulsion aqueuse de graisses, de cires et de résines dures extraites de houblon (CAS 8060-28-4, EINECS 232-504-3, FEMA 2578). |
 
 Antimousse. |
@@ -1684,6 +1694,20 @@ Dose techniquement inévitable.
 
 |
 
+Nickel. |
+
+Catalyseur. |
+
+Huiles végétales alimentaires destinées à être employées dans la fabrication des marinades dans les aliments marinés, des capsules molles, des texturants pour denrées destinées à une alimentation particulière, des préparations pour compléments alimentaires et des gommes de base pour chewing-gums. |
+
+Hydrogénation.
+
+Dose d'emploi appliquée en routine de 312g nickel/ tonne d'huile végétale
+
+Dose maximale d'emploi en cas de défaut d'hydrogénation de 469g nickel/ tonne d'huile végétale |
+
+0,2 mg de nickel/ kg. |
+
 Oxyde d'éthylène condensé sur les alcools gras C9 à C11.
 
 |
@@ -1747,6 +1771,20 @@ Les grains de blé avant traitement devront être conformes aux dispositions du 
 Teneur résiduelle inférieure à 10 microgrammes par kg.
 
 |
+
+Ozone. |
+
+Agent de décontamination des végétaux. |
+
+Salades crues prêtes à l'emploi (dites de quatrièmes gammes). |
+
+La moyenne des couples concentration en ozone dissous dans l'eau et temps calculés (CT) ne doit pas dépasser 0,60 mg. min/ L.
+
+Rinçage à l'eau claire obligatoire.
+
+La teneur en bromates dans l'eau du bac de lavage et dans l'eau résiduelle des salades ne doit pas excéder 10 µg/ kg. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Perlite.
 
@@ -2112,7 +2150,7 @@ Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acét
 
 |
 
-Divers.
+Agent de décontamination des produits d'origine végétale.
 
 |
 
@@ -2120,11 +2158,13 @@ Salades crues prêtes à l'emploi (dites de quatrième gamme).
 
 |
 
-Le lavage doit être suivi d'un rinçage.
+A la dose maximale de 100 mg d'acide peracétique/ L d'eau de lavage.
+
+Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes fixées pour l'eau potable.
 
 |
 
-Dose techniquement inévitable.
+Teneur résiduelle techniquement inévitable.
 
 |
 
@@ -2311,3 +2351,15 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 Dose techniquement inévitable.
 
 |
+
+Urée en mélange avec de la soude. |
+
+Agent de pelage/ d'épluchage. |
+
+Végétaux transformés destinés à la surgélation et à l'appertisation. |
+
+Immersion dans un bain d'urée à une concentration maximale de 3 % (m/ m). La concentration de la soude varie entre 40 et 80g par litre d'eau.
+
+Cette opération doit être suivie d'un rinçage à l'eau potable. |
+
+Teneur résiduelle maximale d'urée de 40 mg/ kg de végétaux traités |
