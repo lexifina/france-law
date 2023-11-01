@@ -1,0 +1,45 @@
+# Article 1er
+
+1. a.   L'article 10.1 « Salariés bénéficiaires » de la convention collective nationale est modifié et remplacé comme suit :
+
+« Les bénéficiaires des garanties prévues par l'article 10 sont tous les salariés dits “ non-cadres ”, à savoir ceux ne relevant pas des articles 2.1 et 2.2 de l'ANI Prévoyance du 17 novembre 2017, quelle que soit la nature de leur contrat de travail et sans condition d'ancienneté.
+
+Sont visés à l'alinéa précédent, les salariés des entreprises relevant du champ d'application de la convention collective des 5 branches industries alimentaires diverses. »
+
+1. b.   L'article 10.2 « Maintien et cessation des garanties de prévoyance » de la convention collective nationale est modifié et remplacé comme suit :
+
+« Article 10.2
+
+Maintien des garanties de prévoyance
+
+Sauf application des dispositions ci-après, la suspension du contrat de travail du participant entraîne celle des garanties.
+
+Les garanties sont maintenues, moyennant paiement des cotisations (calculées selon les mêmes règles applicables à la catégorie de personnel dont relève le salarié), au salarié :
+
+– dont le contrat de travail est suspendu pour congé ou absence, dès lors que pendant toute cette période, il bénéficie d'un maintien total ou partiel de salaire de l'employeur ou d'indemnités complémentaires financées au moins pour partie par l'employeur, qu'elles soient versées directement par l'employeur ou pour son compte par l'intermédiaire d'un tiers ;
+
+– en arrêt de travail pour maladie ou accident, invalidité/ incapacité permanente professionnelle, qui bénéficie à ce titre des prestations en espèces de la sécurité sociale ;
+
+– dont le contrat de travail est suspendu dès lors qu'il bénéficie d'un revenu de remplacement versé par l'employeur en raison notamment :
+
+–– d'une situation d'activité partielle ou activité partielle de longue durée et dont l'activité est totalement suspendue ou dont les horaires de travail sont réduits ;
+
+–– ainsi que toute période de congé rémunéré par l'employeur (reclassement, mobilité …).
+
+Il est précisé que l'assiette des cotisations et des prestations à retenir dans ce cas est celle du montant de l'indemnisation versée dans le cadre de la suspension du contrat de travail (indemnisation légale le cas échéant complétée d'une indemnisation complémentaire ou conventionnelle versée par l'employeur).
+
+Le maintien des garanties est assuré :
+
+– tant que le contrat de travail du salarié n'est pas rompu ;
+
+– en cas de rupture du contrat de travail, quand cette rupture intervient lorsque les prestations de la sécurité sociale au titre de la maladie, de l'accident ou de l'invalidité/ incapacité permanente professionnelle, sont servies sans interruption depuis la date de rupture du contrat de travail.
+
+Ce maintien des garanties cesse dès la survenance de l'un des événements suivants :
+
+– suspension ou cessation des prestations en espèces de la sécurité sociale ;
+
+– date d'effet de la liquidation de la pension vieillesse de la sécurité sociale du participant [1] ;
+
+– décès du participant.
+
+[1]   La cessation à la date d'effet de la liquidation de la pension vieillesse de la sécurité sociale ne s'applique pas aux salariés en situation de cumul emploi-retraite remplissant les conditions d'ouverture des droits aux prestations en espèces de la sécurité sociale. »
