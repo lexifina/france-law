@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231008752
+
+- Question : [SEQ231008752](seq231008752.md) — Dégradation continue de l'enseignement de l'allemand dans le second degré
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2023-11-02, page 6241*
+
+L'enseignement de l'allemand en France constitue une priorité du ministère de l'éducation nationale et de la jeunesse dans le cadre de la politique de développement de l'enseignement des langues vivantes. Parmi l'ensemble des leviers identifiés pour renforcer l'apprentissage de l'allemand, le ministère a appelé l'attention des recteurs d'académie sur la nécessité d'une mobilisation collective pour notamment augmenter l'offre des dispositifs bilangues en respectant la parité horaire entre les langues choisies, le plus souvent l'anglais et l'allemand (3 heures + 3 heures) en classe de sixième. Concernant la proposition de parcours bilangue allemand-anglais à parité horaire de la sixième jusqu'à la fin de la scolarité, elle dérogerait à l'horaire réglementaire à partir de la cinquième (trois heures pour la langue vivante 1, deux heures trente pour la langue vivante 2). À partir de la cinquième, les collèges peuvent néanmoins proposer depuis la rentrée 2017 un enseignement optionnel de langues et cultures européennes (LCE), s'appuyant sur l'une des langues vivantes étrangères étudiées, jusqu'à 2 heures hebdomadaires. Concernant l'enseignement de LLCER, il vise précisément la spécialisation dans une langue pour maximiser le temps d'exposition des élèves à la langue étudiée afin qu'ils parviennent progressivement à une maîtrise assurée de la langue et à une compréhension de la culture associée. L'ouverture à une deuxième langue dénaturerait l'objectif général de cet enseignement et réduirait en effet la capacité de choix de l'élève en termes d'orientation. Il n'est donc pas prévu à ce stade d'évolution de l'enseignement de spécialité LLCER vers deux langues vivantes.
