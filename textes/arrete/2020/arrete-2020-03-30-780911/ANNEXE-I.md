@@ -274,6 +274,10 @@ Chef du bureau de l'administration exemplaire (à compter du 27/01/2023) |
 
 ICTPE 2 |
 
+Adjoint au chef du département de l'immobilier opérationnel de l'administration centrale (à compter du 01/07/2023) |
+
+ICTPE 2 |
+
 Direction des ressources humaines |
 
 Chef du département de la coordination des ressources humaines de l'administration centrale et de gestion de proximité du SG |
@@ -316,6 +320,10 @@ Directeur du CVRH de Nantes |
 
 ICTPE 1 |
 
+Directeur du CVRH de Toulouse |
+
+ICTPE 1 |
+
 Adjoint au Directeur CVRH Arras et Responsable du DCFP |
 
 ICTPE 2 |
@@ -327,8 +335,6 @@ ICTPE 2 |
 Directeur adjoint du CVRH Clermont-Ferrand |
 
 ICTPE 2 |
-
-Secrétariat général |
 
 Direction du numérique |
 
