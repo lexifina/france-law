@@ -364,18 +364,6 @@ Du 1er mai 2023 au 31 juillet 2024 |
 
 Opération :
 
-Création d'un centre de gestion financière
-
-Services concernés :
-
-Service facturier douane (SFACT).
-
-Centre de services partagés (CSP) de Lyon. |
-
-Du 1er novembre 2023 au 31 octobre 2024 |
-
-Opération :
-
 Harmonisation des centres opérationnels douaniers maritimes (CODM).
 
 Services concernés :
