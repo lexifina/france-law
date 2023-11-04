@@ -8,7 +8,7 @@ Utilisations exceptionnelles des locaux
 
 - pour une démonstration ou une attraction pouvant présenter des risques pour le public et non prévue par le présent règlement,
 
-doit faire l'objet d'une demande d'autorisation présentée par l'exploitant au moins quinze jours avant la manifestation ou la série de manifestations.
+doit faire l'objet d'une demande d'autorisation présentée par l'exploitant au moins deux mois avant la manifestation ou la série de manifestations.
 
 Lorsque l'organisateur de la manifestation n'est pas l'exploitant de l'établissement, la demande d'autorisation doit être présentée conjointement par l'exploitant et l'utilisateur occasionnel des locaux.
 

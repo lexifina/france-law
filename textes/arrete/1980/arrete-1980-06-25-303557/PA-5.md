@@ -1,8 +1,8 @@
 # Article PA 5
 
-Tribunes et gradins non démontables
+Tribunes non démontables
 
-§ 1. Les dispositions de l'article CO 55 sont applicables aux escaliers droits des établissements de plein air. Les dispositions de l'article CO 57 (§ 2) sont applicables aux marches du gradinage.
+§ 1. Les dispositions des articles CO 55 et CO 61 sont applicables aux établissements de plein air.
 
 § 2. Aucune stabilité au feu n'est exigée pour les structures porteuses s'il n'existe pas de local à risques particuliers sous les tribunes.
 

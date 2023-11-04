@@ -1,6 +1,6 @@
 # Article PA 9
 
-Rangées de sièges ou de bancs
+Rangées de sièges ou de bancs posées au sol ou installées sur une tribune non démontable
 
 § 1. Lorsque des sièges ou des bancs mobiles sont utilisés, ils doivent :
 
@@ -10,10 +10,8 @@ Rangées de sièges ou de bancs
 
 de façon à former des blocs difficiles à renverser ou à déplacer.
 
-§ 2. Toutes les places doivent être desservies par des dégagements sensiblement parallèles ou perpendiculaires aux rangées de sièges.
-
-§ 3. Chaque rangée doit comporter 40 places au plus entre 2 circulations ou 20 entre 1 circulation et 1 paroi (ou 1 garde-corps).
+§ 2. Chaque rangée doit comporter 40 places au plus entre 2 circulations ou 20 entre 1 circulation et 1 paroi (ou 1 garde-corps).
 
 Les rangées doivent être disposées de manière à laisser entre elles un espace libre minimal de 0,35 mètre, les sièges étant en position d'occupation.
 
-§ 4. Les sièges placés sur des supports combustibles dans des tribunes ou gradins non jointifs doivent respecter les dispositions de l'article AM 18, paragraphe 1.
+§ 3. Les sièges respectent les dispositions de l'article AM 18, paragraphe 1.
