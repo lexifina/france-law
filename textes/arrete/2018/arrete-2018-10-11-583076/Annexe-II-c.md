@@ -292,7 +292,7 @@ orale |
 
 20 minutes |
 
-(*) Les langues autorisées pour cette épreuve sont les suivantes : allemand, anglais, arabe, chinois, espagnol, italien, portugais et russe.
+(*) Les langues autorisées pour cette épreuve sont les suivantes : allemand, anglais, arabe, chinois, espagnol, hébreu, italien, portugais et russe.
 
 (**) La langue vivante choisie au titre de l'épreuve facultative et figurant dans la note de service est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire. Seuls les points au-dessus de la moyenne sont pris en compte.
 

@@ -4,7 +4,7 @@ DÉFINITION DES ÉPREUVES
 
 E1 - Langue vivante étrangère (LVE) U1
 
-Liste des langues autorisées : anglais, allemand, arabe, chinois, espagnol, italien, portugais, russe.
+Liste des langues autorisées : anglais, allemand, arabe, chinois, espagnol, hébreu, italien, portugais, russe.
 
 Finalités et objectifs
 

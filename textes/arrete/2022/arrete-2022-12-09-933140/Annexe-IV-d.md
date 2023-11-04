@@ -4,7 +4,7 @@ Définition des épreuves
 
 E1 - Langue vivante étrangère A
 
-Liste des langues autorisées : allemand, anglais, arabe, chinois, espagnol, italien, portugais, russe.
+Liste des langues autorisées : allemand, anglais, arabe, chinois, espagnol, hébreu, italien, portugais, russe.
 
 1. Finalités et objectifs
 
@@ -124,7 +124,7 @@ A partir de l'analyse du contexte et de la situation professionnels le candidat 
 
 L'évaluation des compétences s'appuie sur les indicateurs d'évaluation du bloc de compétences BC1 “Développer des prestations esthétiques et des services de beauté et de bien-être respectueux des transitions écologiques”.
 
-La “commission” d'évaluation est composée de deux examinateurs, un enseignant d'esthétique-cosmétique du BTS "Métiers de l'esthétique, de la cosmétique et de la parfumerie " et un enseignant intervenant dans le bloc de compétences BC1 ou un professionnel.
+La “commission” d'évaluation est composée de deux examinateurs, un enseignant d'esthétique-cosmétique du BTS Métiers de l'esthétique, de la cosmétique et de la parfumerie et un enseignant intervenant dans le bloc de compétences BC1 ou un professionnel.
 
 Epreuve de contrôle en cours de formation.
 
@@ -144,7 +144,7 @@ Le jury de délibération pourra demander à avoir communication de tout autre d
 
 E4 - Projet de développement d'une entreprise, d'un pôle d'activité, d'un service
 
-L'épreuve permet d'évaluer les compétences professionnelles du bloc de compétences 2 "Concevoir ou réaliser tout ou partie d'un projet d'une entreprise, d'un pôle d'activité, d'un service " :
+L'épreuve permet d'évaluer les compétences professionnelles du bloc de compétences 2 Concevoir ou réaliser tout ou partie d'un projet d'une entreprise, d'un pôle d'activité, d'un service :
 
 C 2.1 Analyser les besoins d'une entreprise, d'un pôle d'activité, d'un service.
 
@@ -164,7 +164,7 @@ Au cours de situations vécues en milieu professionnel, le candidat participe à
 
 La soutenance orale s'appuie sur un dossier écrit qui comporte 10 pages hors annexes.
 
-L'évaluation des compétences s'appuie sur les indicateurs d'évaluation du bloc de compétences BC2 "Concevoir ou réaliser tout ou partie d'un projet d'une entreprise, d'un pôle d'activité, d'un service ".
+L'évaluation des compétences s'appuie sur les indicateurs d'évaluation du bloc de compétences BC2 Concevoir ou réaliser tout ou partie d'un projet d'une entreprise, d'un pôle d'activité, d'un service .
 
 Composition de la commission d'évaluation
 
@@ -192,7 +192,7 @@ Ces documents seront tenus à la disposition du jury de délibération et de l'a
 
 E5A - Management d'une entité commerciale
 
-L'épreuve permet d'évaluer les compétences professionnelles du bloc de compétences BC3A "Manager une entité commerciale dans le domaine de la beauté et du bien-être " :
+L'épreuve permet d'évaluer les compétences professionnelles du bloc de compétences BC3A Manager une entité commerciale dans le domaine de la beauté et du bien-être :
 
 C 3.1 A : Concevoir le projet entrepreneurial et déployer le management stratégique.
 
@@ -214,7 +214,7 @@ Coefficient : 6.
 
 A partir d'un contexte professionnel et d'une ou plusieurs situations de management étayés par un dossier documentaire, le candidat est amené à élaborer des réponses aux problématiques posées. Les investigations et les réalisations pourront mobiliser l'outil numérique.
 
-L'évaluation des compétences s'appuie sur les indicateurs d'évaluation du bloc de compétences BC3A "Manager une entité commerciale dans le domaine de la beauté et du bien-être ".
+L'évaluation des compétences s'appuie sur les indicateurs d'évaluation du bloc de compétences BC3A Manager une entité commerciale dans le domaine de la beauté et du bien-être .
 
 L'épreuve est évaluée par des professeurs qui interviennent dans les enseignements du bloc de compétences BC3A.
 
@@ -228,7 +228,7 @@ Le jury de délibération pourra demander à avoir communication de tout autre d
 
 E5B - Animation, formation, négociation dans le cadre de stratégies commerciales
 
-L'épreuve permet d'évaluer les compétences professionnelles spécifiques du bloc de compétences BC3B "Animer, former et négocier dans le cadre de stratégies commerciales d'entreprises de beauté et de bien-être " :
+L'épreuve permet d'évaluer les compétences professionnelles spécifiques du bloc de compétences BC3B Animer, former et négocier dans le cadre de stratégies commerciales d'entreprises de beauté et de bien-être :
 
 C 3.1 B : Négocier et développer l'activité.
 
@@ -250,7 +250,7 @@ Coefficient : 6.
 
 A partir d'un contexte professionnel et d'une ou plusieurs situations de stratégies commerciales étayés par un dossier documentaire, le candidat est amené à élaborer des réponses aux problématiques posées. Les investigations et les réalisations pourront mobiliser l'outil numérique.
 
-L'évaluation des compétences s'appuie sur les indicateurs d'évaluation du bloc de compétences BC3B "Animer, former et négocier dans le cadre de stratégies commerciales d'entreprises de beauté et de bien-être ".
+L'évaluation des compétences s'appuie sur les indicateurs d'évaluation du bloc de compétences BC3B Animer, former et négocier dans le cadre de stratégies commerciales d'entreprises de beauté et de bien-être .
 
 L'épreuve est évaluée par des professeurs qui interviennent dans les enseignements du bloc de compétences BC3B.
 
@@ -264,7 +264,7 @@ Le jury de délibération pourra demander à avoir communication de tout autre d
 
 E5C - Développement, fabrication, évaluation de produits cosmétiques
 
-L'épreuve permet d'évaluer les compétences professionnelles spécifiques du bloc de compétences BC3C "Développer, fabriquer et évaluer des produits cosmétiques " :
+L'épreuve permet d'évaluer les compétences professionnelles spécifiques du bloc de compétences BC3C Développer, fabriquer et évaluer des produits cosmétiques :
 
 C 3.1 C : Elaborer le produit cosmétique et optimiser sa production.
 
@@ -284,7 +284,7 @@ Coefficient : 6.
 
 A partir d'un contexte professionnel étayé par un dossier documentaire, le candidat est amené à élaborer des réponses aux problématiques posées. Les investigations et les réalisations se feront en partie en laboratoire.
 
-L'évaluation des compétences s'appuie sur les indicateurs d'évaluation du bloc de compétences BC3C "Développer, fabriquer et évaluer des produits cosmétiques ".
+L'évaluation des compétences s'appuie sur les indicateurs d'évaluation du bloc de compétences BC3C Développer, fabriquer et évaluer des produits cosmétiques .
 
 L'épreuve est évaluée par des professeurs qui interviennent dans les enseignements du bloc de compétences BC3C.
 

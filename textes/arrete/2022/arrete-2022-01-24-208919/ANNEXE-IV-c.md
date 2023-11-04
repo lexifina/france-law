@@ -108,7 +108,7 @@ L'épreuve a pour but d'évaluer au niveau B2 les activités langagières suivan
 
 Liste des langues autorisées :
 
-Anglais, allemand, arabe, chinois, espagnol, italien, portugais, russe.
+Anglais, allemand, arabe, chinois, espagnol, hébreu, italien, portugais, russe.
 
 Formes de l'évaluation :
 
