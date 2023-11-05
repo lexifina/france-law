@@ -496,7 +496,7 @@ L'établissement doit démontrer qu'il veille à la qualité du tutorat au trave
 
 - associer puis responsabiliser progressivement le stagiaire à la conduite de groupe en accompagnement de ses propres prestations ;
 
-- valider la préparation des activités d'enseignement de la spéléologie du stagiaire, organisées et conduites en autonomie par celui-ci (classe 3 maximum) ;
+- valider la préparation des activités d'enseignement de la spéléologie du stagiaire, organisées et conduites en autonomie par celui-ci ;
 
 - conduire des temps de bilan pour chaque sortie ;
 
