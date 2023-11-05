@@ -4,1836 +4,1278 @@ RATTACHEMENT DES MASSES D'EAU À UN ÉCOTYPE TEMPERATURE ET TURBIDITÉ
 
 Température
 
-La métrique associée à l'élément de qualité température en eaux côtières est le pourcentage de mesures mensuelles hors d'une enveloppe de référence. Cinq enveloppes de référence ont été établies sur la base des données disponibles en 2007 sur l'ensemble des masses d'eau côtières. Le tableau 85 ci-dessous indique à quelle enveloppe de référence (écotype) est rattachée chaque masse d'eau concernée par le contrôle de surveillance.
+La métrique associée à l'élément de qualité température pour les eaux côtières est le pourcentage de mesures mensuelles hors d'une enveloppe de référence. Cinq enveloppes de référence ont été établies sur la base des données disponibles en 2007 sur l'ensemble des masses d'eau côtières. Le tableau 96 ci-dessous indique à quelle enveloppe de référence (écotype) est rattachée chaque masse d'eau concernée par le contrôle de surveillance.
 
-Tableau 85 : écotype température en fonction de la masse d'eau
+Tableau 96 : écotype "température" en fonction de la masse d'eau
 
-Code masse d'eau
+Code masse d'eau |
 
-|
+Libellé masse eau |
 
-Libellé masse eau
+Ecotype température |
 
-|
+FRAC01 |
 
-Ecotype température
+Frontière belge-Malo |
 
-|
+5 |
 
-FRAC01
+FRAC02 |
 
-|
+Malo-Gris-Nez |
 
-Frontière belge - Malo
+5 |
 
-|
+FRAC03 |
 
-5
+Gris-Nez-Slack |
 
-|
+1 |
 
-FRAC02
+FRAC05 |
 
-|
+La Warenne-Ault |
 
-Malo - Gris-Nez
+1 |
 
-|
+FRHC18 |
 
-5
+Pays de Caux (nord) |
 
-|
+5 |
 
-FRAC03
+FRHC16 |
 
-|
+Le Havre-Antifer |
 
-Gris-Nez - Slack
+1 |
 
-|
+FRHC15 |
 
-1
+Côte Fleurie |
 
-|
+1 |
 
-FRAC05
+FRHC14 |
 
-|
+Baie de Caen |
 
-La Warenne - Ault
+1 |
 
-|
+FRHC13 |
 
-1
+Côte de Nacre (est) |
 
-|
+1 |
 
-FRHC18
+FRHC12 |
 
-|
+Côte de Nacre (ouest) |
 
-Pays de Caux (nord)
+1 |
 
-|
+FRHC11 |
 
-5
+Côte du Bessin |
 
-|
+1 |
 
-FRHC16
+FRHC10 |
 
-|
+Baie des Veys |
 
-Le Havre - Antifer
+1 |
 
-|
+FRHC09 |
 
-1
+Anse de Saint-Vaast-la-Hougue |
 
-|
+1 |
 
-FRHC15
+FRHC08 |
 
-|
+Barfleur |
 
-Côte Fleurie
+5 |
 
-|
+FRHC07 |
 
-1
+Cap Levy-Gatteville |
 
-|
+5 |
 
-FRHC14
+FRHC060 |
 
-|
+Rade de Cherbourg |
 
-Baie de Caen
+5 |
 
-|
+FRHC04 |
 
-1
+Cap de Carteret-Cap de la Hague |
 
-|
+5 |
 
-FRHC13
+FRHC03 |
 
-|
+Ouest Cotentin |
 
-Côte de Nacre (est)
+1 |
 
-|
+FRHC01 |
 
-1
+Archipel Chausey |
 
-|
+5 |
 
-FRHC12
+FRHC02 |
 
-|
+Baie du Mont-Saint-Michel (centre baie) |
 
-Côte de Nacre (ouest)
+1 |
 
-|
+FRGC01 |
 
-1
+Baie du Mont-Saint-Michel |
 
-|
+1 |
 
-FRHC11
+FRGC03 |
 
-|
+Rance-Fresnaye |
 
-Côte du Bessin
+1 |
 
-|
+FRGC05 |
 
-1
+Fond Baie de Saint-Brieuc |
 
-|
+1 |
 
-FRHC10
+FRGC07 |
 
-|
+Paimpol-Perros-Guirec |
 
-Baie des Veys
+1 |
 
-|
+FRGC08 |
 
-1
+Perros-Guirec (large) |
 
-|
+5 |
 
-FRHC09
+FRGC10 |
 
-|
+Baie de Lannion |
 
-Anse de Saint-Vaast-la-Hougue
+1 |
 
-|
+FRGC11 |
 
-1
+Baie de Morlaix |
 
-|
+1 |
 
-FRHC08
+FRGC18 |
 
-|
+Iroise (large) |
 
-Barfleur
+5 |
 
-|
+FRGC16 |
 
-5
+Rade de Brest |
 
-|
+1 |
 
-FRHC07
+FRGC20 |
 
-|
+Baie de Douarnenez |
 
-Cap Levy - Gatteville
+1 |
 
-|
+FRGC26 |
 
-5
+Baie d ´ Audierne |
 
-|
+1 |
 
-FRHC060
+FRGC28 |
 
-|
+Concarneau (large) |
 
-Rade de Cherbourg
+1 |
 
-|
+FRGC34 |
 
-5
+Lorient-Groix |
 
-|
+1 |
 
-FRHC04
+FRGC35 |
 
-|
+Baie d ´ Etel |
 
-Cap de Carteret - Cap de la Hague
+1 |
 
-|
+FRGC42 |
 
-5
+Belle-Ile |
 
-|
+1 |
 
-FRHC03
+FRGC36 |
 
-|
+Baie de Quiberon |
 
-Ouest Cotentin
+1 |
 
-|
+FRGC39 |
 
-1
+Golfe du Morbihan |
 
-|
+4 |
 
-FRHC01
+FRGC45 |
 
-|
+Baie de Vilaine (large) |
 
-Archipel Chausey
+1 |
 
-|
+FRGC44 |
 
-5
+Baie de Vilaine (côte) |
 
-|
+4 |
 
-FRHC02
+FRGC46 |
 
-|
+Loire (large) |
 
-Baie du Mont-Saint-Michel (centre baie)
+1 |
 
-|
+FRGC48 |
 
-1
+Baie de Bourgneuf |
 
-|
+4 |
 
-FRGC01
+FRGC47 |
 
-|
+Ile d ´ Yeu |
 
-Baie du Mont-Saint-Michel
+1 |
 
-|
+FRGC50 |
 
-1
+Nord Sables-d ´ Olonne |
 
-|
+4 |
 
-FRGC03
+FRGC53 |
 
-|
+Pertuis Breton |
 
-Rance - Fresnaye
+4 |
 
-|
+FRFC01 |
 
-1
+Côte Nord-Est de l ´ Ile d ´ Oléron |
 
-|
+4 |
 
-FRGC05
+FRFC02 |
 
-|
+Pertuis Charentais |
 
-Fond Baie de Saint-Brieuc
+4 |
 
-|
+FRFC07 |
 
-1
+Arcachon aval |
 
-|
+2 |
 
-FRGC07
+FRFC06 |
 
-|
+Arcachon amont |
 
-Paimpol - Perros-Guirec
+4 |
 
-|
+FRFC08 |
 
-1
+Côte Landaise |
 
-|
+2 |
 
-FRGC08
+FRFC09 |
 
-|
+Lac d ´ Hossegor |
 
-Perros-Guirec (large)
+2 |
 
-|
+FRFC11 |
 
-5
+Côte Basque |
 
-|
+2 |
 
-FRGC10
+FRDC01 |
 
-|
+Frontière espagnole-Racou Plage |
 
-Baie de Lannion
+2 |
 
-|
+FRDC02a |
 
-1
+Racou Plage-Embouchure de l ´ Aude |
 
-|
+2 |
 
-FRGC11
+FRDC02c |
 
-|
+Cap d ´ Agde |
 
-Baie de Morlaix
+2 |
 
-|
+FRDC02f |
 
-1
+Frontignan-Pointe de l ´ Espiguette |
 
-|
+2 |
 
-FRGC18
+FRDC04 |
 
-|
+Golfe de Fos |
 
-Iroise (large)
+2 |
 
-|
+FRDC05 |
 
-5
+Côte Bleue |
 
-|
+2 |
 
-FRGC16
+FRDC06b |
 
-|
+Pointe d ´ Endoume-Cap Croisette et îles du Frioul |
 
-Rade de Brest
+2 |
 
-|
+FRDC07a |
 
-1
+iles de Marseille hors Frioul |
 
-|
+2 |
 
-FRGC20
+FRDC07b |
 
-|
+Cap croisette-Bec de l ´ Aigle |
 
-Baie de Douarnenez
+2 |
 
-|
+FRDC07e |
 
-1
+Ilot Pierreplane-Pointe du Gaou |
 
-|
+2 |
 
-FRGC26
+FRDC07g |
 
-|
+Cap Cepet-Cap de Carqueiranne |
 
-Baie d´Audierne
+2 |
 
-|
+FRDC07h |
 
-1
+Iles du Soleil |
 
-|
+2 |
 
-FRGC28
+FRDC08a |
 
-|
+Pointe des Issambres-Ouest Fréjus |
 
-Concarneau (large)
+3 |
 
-|
+FRDC08d |
 
-1
+Ouest Fréjus-Pointe de la Galère |
 
-|
+3 |
 
-FRGC34
+FRDC09a |
 
-|
+Cap d'Antibes-Sud port Antibes |
 
-Lorient - Groix
+3 |
 
-|
+FRDC09b |
 
-1
+Port Antibes-Port de commerce de Nice |
 
-|
+3 |
 
-FRGC35
+FRDC09d |
 
-|
+Cap d'Antibes-Cap Ferrat |
 
-Baie d´Etel
+3 |
 
-|
+FRDC10c |
 
-1
+Monte Carlo-Frontière italienne |
 
-|
+3 |
 
-FRGC42
+FREC01ab |
 
-|
+Pointe Palazzu-Sud Nonza |
 
-Belle-Ile
+3 |
 
-|
+FREC02ab |
 
-1
+Cap Est de la Corse |
 
-|
+3 |
 
-FRGC36
+FREC02d |
 
-|
+Plaine Orientale |
 
-Baie de Quiberon
+3 |
 
-|
+FREC03ad |
 
-1
+Littoral Sud Est de la Corse |
 
-|
+3 |
 
-FRGC39
+FREC03eg |
 
-|
+Littoral Sud Ouest de la Corse |
 
-Golfe du Morbihan
+3 |
 
-|
+FREC04ac |
 
-4
+Pointe Senetosa-Pointe Palazzu |
 
-|
-
-FRGC45
-
-|
-
-Baie de Vilaine (large)
-
-|
-
-1
-
-|
-
-FRGC44
-
-|
-
-Baie de Vilaine (côte)
-
-|
-
-4
-
-|
-
-FRGC46
-
-|
-
-Loire (large)
-
-|
-
-1
-
-|
-
-FRGC48
-
-|
-
-Baie de Bourgneuf
-
-|
-
-4
-
-|
-
-FRGC47
-
-|
-
-Ile d´Yeu
-
-|
-
-1
-
-|
-
-FRGC50
-
-|
-
-Nord Sables-d´Olonne
-
-|
-
-4
-
-|
-
-FRGC53
-
-|
-
-Pertuis Breton
-
-|
-
-4
-
-|
-
-FRFC01
-
-|
-
-Côte Nord-Est de l´Ile d´Oléron
-
-|
-
-4
-
-|
-
-FRFC02
-
-|
-
-Pertuis Charentais
-
-|
-
-4
-
-|
-
-FRFC07
-
-|
-
-Arcachon aval
-
-|
-
-2
-
-|
-
-FRFC06
-
-|
-
-Arcachon amont
-
-|
-
-4
-
-|
-
-FRFC08
-
-|
-
-Côte Landaise
-
-|
-
-2
-
-|
-
-FRFC09
-
-|
-
-Lac d´Hossegor
-
-|
-
-2
-
-|
-
-FRFC11
-
-|
-
-Côte Basque
-
-|
-
-2
-
-|
-
-FRDC01
-
-|
-
-Frontière espagnole - Racou Plage
-
-|
-
-2
-
-|
-
-FRDC02a
-
-|
-
-Racou Plage - Embouchure de l´Aude
-
-|
-
-2
-
-|
-
-FRDC02c
-
-|
-
-Cap d´Agde
-
-|
-
-2
-
-|
-
-FRDC02f
-
-|
-
-Frontignan - Pointe de l´Espiguette
-
-|
-
-2
-
-|
-
-FRDC04
-
-|
-
-Golfe de Fos
-
-|
-
-2
-
-|
-
-FRDC05
-
-|
-
-Côte Bleue
-
-|
-
-2
-
-|
-
-FRDC06b
-
-|
-
-Pointe d´Endoume - Cap Croisette et îles du Frioul
-
-|
-
-2
-
-|
-
-FRDC07a
-
-|
-
-iles de Marseille hors Frioul
-
-|
-
-2
-
-|
-
-FRDC07b
-
-|
-
-Cap croisette - Bec de l´Aigle
-
-|
-
-2
-
-|
-
-FRDC07e
-
-|
-
-Ilot Pierreplane - Pointe du Gaou
-
-|
-
-2
-
-|
-
-FRDC07g
-
-|
-
-Cap Cepet - Cap de Carqueiranne
-
-|
-
-2
-
-|
-
-FRDC07h
-
-|
-
-Iles du Soleil
-
-|
-
-2
-
-|
-
-FRDC08a
-
-|
-
-Pointe des Issambres - Ouest Fréjus
-
-|
-
-3
-
-|
-
-FRDC08d
-
-|
-
-Ouest Fréjus - Pointe de la Galère
-
-|
-
-3
-
-|
-
-FRDC09a
-
-|
-
-Cap d'Antibes - Sud port Antibes
-
-|
-
-3
-
-|
-
-FRDC09b
-
-|
-
-Port Antibes - Port de commerce de Nice
-
-|
-
-3
-
-|
-
-FRDC09d
-
-|
-
-Cap d'Antibes - Cap Ferrat
-
-|
-
-3
-
-|
-
-FRDC10c
-
-|
-
-Monte Carlo- Frontière italienne
-
-|
-
-3
-
-|
-
-FREC01ab
-
-|
-
-Pointe Palazzu - Sud Nonza
-
-|
-
-3
-
-|
-
-FREC02ab
-
-|
-
-Cap Est de la Corse
-
-|
-
-3
-
-|
-
-FREC02d
-
-|
-
-Plaine Orientale
-
-|
-
-3
-
-|
-
-FREC03ad
-
-|
-
-Littoral Sud Est de la Corse
-
-|
-
-3
-
-|
-
-FREC03eg
-
-|
-
-Littoral Sud Ouest de la Corse
-
-|
-
-3
-
-|
-
-FREC04ac
-
-|
-
-Pointe Senetosa - Pointe Palazzu
-
-|
-
-3
-
-|
+3 |
 
 Turbidité
 
-La métrique associée à l'élément de qualité turbidité en eaux côtières est le percentile 90 des valeurs mensuelles, de mars à octobre (écotype 1 et 3) sur 6 ans (unité FNU). La répartition en écotype de chaque masse d'eau concernée par le contrôle de surveillance est précisée dans le tableau 86 ci-dessous :
+La métrique associée à l'élément de qualité turbidité en eaux côtières est le percentile 90 des valeurs mensuelles, de mars à octobre (écotype 1 et 3) sur 6 ans (unité FNU). La répartition en écotype de chaque masse d'eau concernée par le contrôle de surveillance est précisée dans le tableau 97 ci-dessous :
 
-Tableau 86 : écotype transparence en fonction de la masse d'eau
+Tableau 97 : écotype "transparence" en fonction de la masse d'eau
 
-Code masse eau
+Code masse eau |
 
-|
+Libellé masse eau |
 
-Libellé masse eau
+Groupe ME transparence |
 
-|
+FRAC01 |
 
-Groupe ME transparence
+Frontière belge à jetée de Malo |
 
-|
+3 |
 
-FRAC01
+FRAC02 |
 
-|
+Jetée de Malo à Est cap Griz nez |
 
-Frontière belge à jetée de Malo
+3 |
 
-|
+FRAC03 |
 
-3
+Cap Griz nez à Slack |
 
-|
+3 |
 
-FRAC02
+FRAC05 |
 
-|
+La Warenne à Ault |
 
-Jetée de Malo à Est cap Griz nez
+3 |
 
-|
+FRHC18 |
 
-3
+Pays de Caux Nord |
 
-|
+3 |
 
-FRAC03
+FRHC16 |
 
-|
+Le Havre-Antifer |
 
-Cap Griz nez à Slack
+3 |
 
-|
+FRHC15 |
 
-3
+Côte Fleurie |
 
-|
+3 |
 
-FRAC05
+FRHC14 |
 
-|
+Baie de Caen |
 
-La Warenne à Ault
+3 |
 
-|
+FRHC13 |
 
-3
+Côte de Nacre Est |
 
-|
+3 |
 
-FRHC18
+FRHC12 |
 
-|
+Côte de Nacre Ouest |
 
-Pays de Caux Nord
+3 |
 
-|
+FRHC11 |
 
-3
+Côte du Bessin |
 
-|
+3 |
 
-FRHC16
+FRHC10 |
 
-|
+Baie des Veys |
 
-Le Havre - Antifer
+3 |
 
-|
+FRHC09 |
 
-3
+Anse de Saint-Vaast-la-Hougue |
 
-|
+3 |
 
-FRHC15
+FRHC08 |
 
-|
+Barfleur |
 
-Côte Fleurie
+1 |
 
-|
+FRHC07 |
 
-3
+Cap Levy-Gatteville |
 
-|
+1 |
 
-FRHC14
+FRHC60 |
 
-|
+Rade de Cherbourg |
 
-Baie de Caen
+1 |
 
-|
+FRHC04 |
 
-3
+Cap de Carteret-Cap de la Hague |
 
-|
+1 |
 
-FRHC13
+FRHC03 |
 
-|
+Ouest Cotentin |
 
-Côte de Nacre Est
+3 |
 
-|
+FRHC01 |
 
-3
+Archipel Chausey |
 
-|
+3 |
 
-FRHC12
+FRHC02 |
 
-|
+Baie du Mont-Saint-Michel : centre baie |
 
-Côte de Nacre Ouest
+3 |
 
-|
+FRGC01 |
 
-3
+Baie du Mont-Saint-Michel |
 
-|
+3 |
 
-FRHC11
+FRGC03 |
 
-|
+Rance-Fresnaye |
 
-Côte du Bessin
+1 |
 
-|
+FRGC05 |
 
-3
+Fond Baie de Saint-Brieuc |
 
-|
+3 |
 
-FRHC10
+FRGC07 |
 
-|
+Paimpol-Perros-Guirec |
 
-Baie des Veys
+1 |
 
-|
+FRGC08 |
 
-3
+Perros-Guirec-Large |
 
-|
+1 |
 
-FRHC09
+FRGC10 |
 
-|
+Baie-Lannion |
 
-Anse de Saint-Vaast la Hougue
+1 |
 
-|
+FRGC11 |
 
-3
+Baie-Morlaix |
 
-|
+3 |
 
-FRHC08
+FRGC18 |
 
-|
+Iroise-Large |
 
-Barfleur
+1 |
 
-|
+FRGC16 |
 
-1
+Rade-Brest |
 
-|
+3 |
 
-FRHC07
+FRGC20 |
 
-|
+Baie-Douarnenez |
 
-Cap Levy - Gatteville
+1 |
 
-|
+FRGC26 |
 
-1
+Baie-Audierne |
 
-|
+1 |
 
-FRHC60
+FRGC28 |
 
-|
+Concarneau-Large |
 
-Rade de Cherbourg
+1 |
 
-|
+FRGC34 |
 
-1
+Lorient-Groix |
 
-|
+1 |
 
-FRHC04
+FRGC35 |
 
-|
+Baie d'Etel |
 
-Cap de Carteret - Cap de la Hague
+3 |
 
-|
+FRGC42 |
 
-1
+Belle-Ile |
 
-|
+1 |
 
-FRHC03
+FRGC36 |
 
-|
+Baie-Quiberon |
 
-Ouest Cotentin
+1 |
 
-|
+FRGC39 |
 
-3
+Golfe-Morbihan |
 
-|
+3 |
 
-FRHC01
+FRGC45 |
 
-|
+Baie Vilaine-Large |
 
-Archipel Chausey
+3 |
 
-|
+FRGC44 |
 
-3
+Baie Vilaine-Côte |
 
-|
+3 |
 
-FRHC02
+FRGC46 |
 
-|
+Loire Large |
 
-Baie du Mont-Saint-Michel: centre baie
+3 |
 
-|
+FRGC48 |
 
-3
+Baie-Bourgneuf |
 
-|
+3 |
 
-FRGC01
+FRGC47 |
 
-|
+Ile d'Yeu |
 
-Baie du Mont-Saint-Michel
+1 |
 
-|
+FRGC50 |
 
-3
+Vendée-Les Sables |
 
-|
+3 |
 
-FRGC03
+FRGC53 |
 
-|
+Pertuis Breton |
 
-Rance - Fresnaye
+3 |
 
-|
+FRFC01 |
 
-1
+Côte Nord-Est de l ´ Ile d ´ Oléron |
 
-|
+3 |
 
-FRGC05
+FRFC02 |
 
-|
+Pertuis Charentais |
 
-Fond Baie de Saint-Brieuc
+3 |
 
-|
+FRFC07 |
 
-3
+Arcachon aval |
 
-|
+3 |
 
-FRGC07
+FRFC06 |
 
-|
+Arcachon amont |
 
-Paimpol - Perros-Guirec
+3 |
 
-|
+FRFC08 |
 
-1
+Côte Landaise |
 
-|
+3 |
 
-FRGC08
+FRFC09 |
 
-|
+Lac d ´ Hossegor |
 
-Perros-Guirec - Large
+1 |
 
-|
+FRFC11 |
 
-1
+Côte Basque |
 
-|
+1 |
 
-FRGC10
+FRDC01 |
 
-|
+Frontière espagnole-Racou Plage |
 
-Baie - Lannion
+1 |
 
-|
+FRDC02a |
 
-1
+Racou Plage-Embouchure de l ´ Aude |
 
-|
+3 |
 
-FRGC11
+FRDC02c |
 
-|
+Cap d ´ Agde |
 
-Baie - Morlaix
+3 |
 
-|
+FRDC02f |
 
-3
+Frontignan-Pointe de l ´ Espiguette |
 
-|
+3 |
 
-FRGC18
+FRDC04 |
 
-|
+Golfe de Fos |
 
-Iroise - Large
+1 |
 
-|
+FRDC05 |
 
-1
+Côte Bleue |
 
-|
+1 |
 
-FRGC16
+FRDC06b |
 
-|
+Pointe d ´ Endoume-Cap Croisette et Iles du Frioul |
 
-Rade - Brest
+1 |
 
-|
+FRDC07a |
 
-3
+Iles de Marseille hors Frioul |
 
-|
+1 |
 
-FRGC20
+FRDC07b |
 
-|
+Cap croisette-Bec de l ´ Aigle |
 
-Baie - Douarnenez
+1 |
 
-|
+FRDC07e |
 
-1
+Ilot Pierreplane-Pointe du Gaou |
 
-|
+1 |
 
-FRGC26
+FRDC07g |
 
-|
+Cap Cepet-Cap de Carqueiranne |
 
-Baie - Audierne
+1 |
 
-|
+FRDC07h |
 
-1
+Iles du Soleil |
 
-|
+1 |
 
-FRGC28
+FRDC08a |
 
-|
+Pointe des Issambres-Ouest Fréjus |
 
-Concarneau - Large
+1 |
 
-|
+FRDC08d |
 
-1
+Ouest Fréjus-Pointe de la Galère |
 
-|
+1 |
 
-FRGC34
+FRDC09a |
 
-|
+Cap d'Antibes-Sud port Antibes |
 
-Lorient - Groix
+1 |
 
-|
+FRDC09b |
 
-1
+Port Antibes-Port de commerce de Nice |
 
-|
+1 |
 
-FRGC35
+FRDC09d |
 
-|
+Cap d'Antibes-Cap Ferrat |
 
-Baie d'Etel
+1 |
 
-|
+FRDC10c |
 
-3
+Monte Carlo-Frontière italienne |
 
-|
+1 |
 
-FRGC42
+FREC01ab |
 
-|
+Pointe Palazzu-Sud Nonza |
 
-Belle-Ile
+1 |
 
-|
+FREC02ab |
 
-1
+Cap Est de la Corse |
 
-|
+1 |
 
-FRGC36
+FREC02d |
 
-|
+Plaine Orientale |
 
-Baie - Quiberon
+1 |
 
-|
+FREC03ad |
 
-1
+Littoral Sud Est de la Corse |
 
-|
+1 |
 
-FRGC39
+FREC03eg |
 
-|
+Littoral Sud Ouest de la Corse |
 
-Golfe - Morbihan
+1 |
 
-|
+FREC04ac |
 
-3
+Pointe Senetosa-Pointe Palazzu |
 
-|
+1 |
 
-FRGC45
+FRIC01 |
 
-|
+Côte Ouest Basse Terre |
 
-Baie Vilaine - Large
+6 |
 
-|
+FRIC02 |
 
-3
+Pointe du Vieux Fort-Sainte Marie |
 
-|
+6 |
 
-FRGC44
+FRIC03 |
 
-|
+Petit Cul de Sac |
 
-Baie Vilaine - Côte
+5 |
 
-|
+FRIC04 |
 
-3
+Pointe Canot-Pointe des châteaux |
 
-|
+6 |
 
-FRGC46
+FRIC05 |
 
-|
+Pointe des châteaux-Pointe de la Grande Vigie |
 
-Loire Large
+6 |
 
-|
+FRIC06 |
 
-3
+Grande Vigie-Port Louis |
 
-|
+6 |
 
-FRGC48
+FRIC07a |
 
-|
+Port Louis-Pointe Madame |
 
-Baie - Bourgneuf
+5 |
 
-|
+FRIC07b |
 
-3
+Port Louis-Pointe Madame |
 
-|
+5 |
 
-FRGC47
+FRIC08 |
 
-|
+Pointe Madame-Pointe du Gros Morne |
 
-Ile d Yeu
+6 |
 
-|
+FRIC10 |
 
-1
+Saint-Martin (partie Française) |
 
-|
+6 |
 
-FRGC50
+FRIC11 |
 
-|
+Les Saintes |
 
-Vendée - Les Sables
+6 |
 
-|
+FRJC01 |
 
-3
+Baie de Génipa |
 
-|
+5 |
 
-FRGC53
+FRJC02 |
 
-|
+Nord Caraïbe |
 
-Pertuis Breton
+6 |
 
-|
+FRJC03 |
 
-3
+Anse d'Arlet |
 
-|
+6 |
 
-FRFC01
+FRJC04 |
 
-|
+Nord Atlantique, plateau insulaire |
 
-Côte Nord-Est de l´Ile d´Oléron
+6 |
 
-|
+FRJC05 |
 
-3
+Fond Ouest de la Baie du Robert |
 
-|
+5 |
 
-FRFC02
+FRJC06 |
 
-|
+Littoral du Vauclin à Sainte-Anne |
 
-Pertuis Charentais
+6 |
 
-|
+FRJC07 |
 
-3
+Est de la Baie du Robert |
 
-|
+5 |
 
-FRFC07
+FRJC08 |
 
-|
+Littoral du François au Vauclin |
 
-Arcachon aval
+6 |
 
-|
+FRJC09 |
 
-3
+Baie de Sainte-Anne |
 
-|
+6 |
 
-FRFC06
+FRJC10 |
 
-|
+Baie du Marin |
 
-Arcachon amont
+5 |
 
-|
+FRJC11 |
 
-3
+Récif barrière Atlantique |
 
-|
+6 |
 
-FRFC08
+FRJC12 |
 
-|
+Baie de la Trinité |
 
-Côte Landaise
+6 |
 
-|
+FRJC13 |
 
-3
+Baie du Trésor |
 
-|
+5 |
 
-FRFC09
+FRJC14 |
 
-|
+Baie du Galion |
 
-Lac d´Hossegor
+5 |
 
-|
+FRJC15 |
 
-1
+Nord de la Baie de Fort-de-France |
 
-|
+5 |
 
-FRFC11
+FRJC16 |
 
-|
+Ouest de la Baie de Fort-de-France |
 
-Côte Basque
+5 |
 
-|
+FRJC17 |
 
-1
+Baie de Sainte-Luce |
 
-|
+6 |
 
-FRDC01
+FRJC18 |
 
-|
+Baie du Diamant |
 
-Frontière espagnole - Racou Plage
+6 |
 
-|
+FRJC19 |
 
-1
+Eaux côtières du Sud et Rocher du Diamant |
 
-|
+6 |
 
-FRDC02a
+FRLC01 |
 
-|
+Saint-Denis |
 
-Racou Plage - Embouchure de l´Aude
+4 |
 
-|
+FRLC02 |
 
-3
+Saint-Benoît |
 
-|
+4 |
 
-FRDC02c
+FRLC03 |
 
-|
+Volcan |
 
-Cap d´Agde
+4 |
 
-|
+FRLC04 |
 
-3
+Saint-Joseph |
 
-|
+4 |
 
-FRDC02f
+FRLC05 |
 
-|
+Saint-Louis |
 
-Frontignan - Pointe de l´Espiguette
+4 |
 
-|
+FRLC06 |
 
-3
+Ouest |
 
-|
+4 |
 
-FRDC04
+FRLC07 |
 
-|
+Saint-Paul |
 
-Golfe de Fos
+4 |
 
-|
+FRLC08 |
 
-1
+Le Port |
 
-|
+4 |
 
-FRDC05
+FRLC09 |
 
-|
+Saint-Pierre |
 
-Côte Bleue
+4 |
 
-|
+FRLC10 |
 
-1
+Étang-Salé |
 
-|
+4 |
 
-FRDC06b
+FRLC11 |
 
-|
+Saint-Leu |
 
-Pointe d´Endoume - Cap Croisette et îles du Frioul
+4 |
 
-|
+FRLC12 |
 
-1
+Saint-Gilles |
 
-|
+4 |
 
-FRDC07a
+FRMC01 |
 
-|
+Grand récif du Sud côtière |
 
-iles de Marseille hors Frioul
+4 |
 
-|
+FRMC02 |
 
-1
+Grand récif du Sud lagonaire |
 
-|
+4 |
 
-FRDC07b
+FRMC03 |
 
-|
+Baie de Boueni |
 
-Cap croisette - Bec de l´Aigle
+4 |
 
-|
+FRMC04 |
 
-1
+Barrière immergée Ouest côtière |
 
-|
+4 |
 
-FRDC07e
+FRMC05 |
 
-|
+Barrière immergée Ouest lagonaire |
 
-Ilot Pierreplane - Pointe du Gaou
+4 |
 
-|
+FRMC06 |
 
-1
+M'Tsamboro-Choizil côtière |
 
-|
+4 |
 
-FRDC07g
+FRMC07 |
 
-|
+M'Tsamboro-Choizil lagonaire |
 
-Cap Cepet - Cap de Carqueiranne
+4 |
 
-|
+FRMC08 |
 
-1
+Récif du Nord-Est côtière |
 
-|
+4 |
 
-FRDC07h
+FRMC09 |
 
-|
+Récif du Nord-Est lagonaire |
 
-Iles du Soleil
+4 |
 
-|
+FRMC10 |
 
-1
+Mamoudzou-Dzaoudzi côtière |
 
-|
+4 |
 
-FRDC08a
+FRMC11 |
 
-|
+Mamoudzou-Dzaoudzi lagonaire |
 
-Pointe des Issambres - Ouest Fréjus
+4 |
 
-|
+FRMC12 |
 
-1
+Pamandzi-Ajangoua-Bandrélé côtière |
 
-|
+4 |
 
-FRDC08d
+FRMC13 |
 
-|
+Pamandzi-Ajangoua-Bandrélé lagonaire |
 
-Ouest Fréjus - Pointe de la Galère
+4 |
 
-|
+FRMC14 |
 
-1
+Bambo Est côtière |
 
-|
+4 |
 
-FRDC09a
+FRMC15 |
 
-|
+Bambo Est lagonaire |
 
-Cap d'Antibes - Sud port Antibes
+4 |
 
-|
+FRMC16 |
 
-1
+Vasière des badamiers |
 
-|
+autre |
 
-FRDC09b
+FRMC17 |
 
-|
+Eaux du large |
 
-Port Antibes - Port de commerce de Nice
-
-|
-
-1
-
-|
-
-FRDC09d
-
-|
-
-Cap d'Antibes - Cap Ferrat
-
-|
-
-1
-
-|
-
-FRDC10c
-
-|
-
-Monte Carlo- Frontière italienne
-
-|
-
-1
-
-|
-
-FREC01ab
-
-|
-
-Pointe Palazzu - Sud Nonza
-
-|
-
-1
-
-|
-
-FREC02ab
-
-|
-
-Cap Est de la Corse
-
-|
-
-1
-
-|
-
-FREC02d
-
-|
-
-Plaine Orientale
-
-|
-
-1
-
-|
-
-FREC03ad
-
-|
-
-Littoral Sud Est de la Corse
-
-|
-
-1
-
-|
-
-FREC03eg
-
-|
-
-Littoral Sud Ouest de la Corse
-
-|
-
-1
-
-|
-
-FREC04ac
-
-|
-
-Pointe Senetosa - Pointe Palazzu
-
-|
-
-1
-
-|
+4 |

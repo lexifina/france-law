@@ -4,7 +4,7 @@ DÉFINITIONS NORMATIVES POUR LA CLASSIFICATION DE L'ÉTAT ET DU POTENTIEL ÉCOLO
 
 1. Eléments de qualité pour la classification de l'état écologique des eaux de surface
 
-L'état écologique des eaux de surface est évalué en fonction de l'état de chacun des éléments de qualité biologique, physico-chimique et hydro-morphologique prévus dans le tableau 1 ci-après, dès lors qu'ils sont pertinents pour le type de masse d'eau considéré conformément à l'arrêté du 25 janvier 2010 pris en application de l'article R. 212-22 du code de l'environnement.
+L'état écologique des eaux de surface est évalué en fonction de l'état de chacun des éléments de qualité biologique, physico-chimique et hydromorphologique prévus dans le tableau 1 ci-après, dès lors qu'ils sont pertinents pour le type de masse d'eau considéré conformément à l'arrêté du 25 janvier 2010 modifié pris en application de l'article R. 212-22 du code de l'environnement.
 
 Tableau 1 : éléments de qualité pour la classification de l'état écologique des eaux de surface et paramètres constitutifs pour chaque élément de qualité
 
@@ -116,17 +116,17 @@ Tableau 1 : éléments de qualité pour la classification de l'état écologique
 
 3. Eaux de transition
 
-3.1. Eléments biologiques
+3.1. Eléments de qualité biologique
 
 3.1.1. Phytoplancton : composition, abondance et biomasse (pour les masses d'eau non turbides)
 
-3.1.2. Flores autre que phytoplancton : composition et abondance de la flore aquatique
+3.1.2. Flore autre que phytoplancton : composition et abondance de la flore aquatique
 
 3.1.3. Faune benthique invertébrée : composition et abondance
 
 3.1.4. Ichtyofaune : composition et abondance
 
-3.2. Eléments hydromorphologique soutenant biologie
+3.2. Eléments de qualité hydromorphologique soutenant les éléments de qualité biologique
 
 3.2.1. Conditions morphologiques
 
@@ -142,7 +142,7 @@ Tableau 1 : éléments de qualité pour la classification de l'état écologique
 
 -Exposition aux vagues
 
-3.3. Eléments chimique et physico-chimique soutenant biologie
+3.3. Eléments de qualité physico-chimique soutenant les éléments de qualité biologique
 
 3.3.1. Eléments généraux
 
@@ -164,7 +164,7 @@ Tableau 1 : éléments de qualité pour la classification de l'état écologique
 
 4. Eaux côtières
 
-4.1. Eléments biologique
+4.1. Eléments de qualité biologique
 
 4.1.1. Phytoplancton : composition, abondance et biomasse
 
@@ -172,7 +172,7 @@ Tableau 1 : éléments de qualité pour la classification de l'état écologique
 
 4.1.3. Faune benthique invertébrée : composition et abondance
 
-4.2. Eléments hydromorphologiques soutenant biologie
+4.2. Eléments de qualité hydromorphologique soutenant les éléments de qualité biologique
 
 4.2.1. Conditions morphologiques
 
@@ -188,7 +188,7 @@ Tableau 1 : éléments de qualité pour la classification de l'état écologique
 
 -Exposition aux vagues
 
-4.3. Eléments chimique et physico-chimique soutenant biologie
+4.3. Eléments de qualité chimique et physico-chimique soutenant les éléments de qualité biologique
 
 4.3.1. Eléments généraux
 
@@ -224,7 +224,7 @@ Tableau 2 : définition générale des classes d'état écologique des cours d'e
 
 |
 
-TRÈS BON ÉTAT |
+TRÉS BON ÉTAT |
 
 BON ÉTAT |
 
@@ -234,7 +234,9 @@ BON ÉTAT |
 
 ÉTAT MAUVAIS |
 
-DÉFINITION GÉNÉRALE |
+DÉFINITION
+
+GÉNÉRALE |
 
 Les valeurs des éléments de qualité biologique pour la masse d'eau de surface correspondent à celles normalement associées à ce type dans des conditions non perturbées et n'indiquent pas ou très peu de distorsions. Il s'agit des conditions et communautés caractéristiques.
 
@@ -246,7 +248,7 @@ Les valeurs des éléments de qualité biologique applicables au type de masse d
 
 Les eaux montrant des signes d'altérations importantes des valeurs des éléments de qualité biologique applicables au type de masse d'eau de surface et dans lesquelles les communautés biologiques pertinentes s'écartent sensiblement de celles normalement associées au type de masse d'eau de surface dans des conditions non perturbées sont classées comme médiocres. |
 
-Les eaux montrant des signes d'altérations graves des valeurs des éléments de qualité biologiques applicables au type de masse d'eau de surface et dans lesquelles font défaut des parties importantes des communautés biologiques pertinentes, normalement associées au type de masse d'eau de surface dans des conditions non perturbées, sont classées comme mauvaises. |
+Les eaux montrant des signes d'altérations graves des valeurs des éléments de qualité biologique applicables au type de masse d'eau de surface et dans lesquelles font défaut des parties importantes des communautés biologiques pertinentes, normalement associées au type de masse d'eau de surface dans des conditions non perturbées, sont classées comme mauvaises. |
 
 2.1. Définition des classes d'état écologique des cours d'eau
 
@@ -256,7 +258,7 @@ Tableau 3 : définition des classes d'état des cours d'eau pour les éléments 
 
 ÉLÉMENT |
 
-TRÈS BON ÉTAT |
+TRÉS BON ÉTAT |
 
 BON ÉTAT |
 
@@ -282,7 +284,9 @@ L'abondance est modérément perturbée et peut être de nature à produire une 
 
 La fréquence et l'intensité de l'efflorescence planctonique peuvent augmenter modérément. Une efflorescence persistante peut se produire durant les mois d'été. |
 
-MACROPHYTES ET PHYTOBENTHOS |
+MACROPHYTES
+
+ET PHYTOBENTHOS |
 
 La composition taxinomique correspond totalement ou presque totalement aux conditions non perturbées.
 
@@ -298,7 +302,9 @@ Des modifications modérées de l'abondance macrophytique et phytobenthique sont
 
 La communauté phytobenthique peut être perturbée et, dans certains cas, déplacée par des touffes et couches bactériennes dues à des activités anthropogéniques. |
 
-FAUNE BENTHIQUE INVERTÉBRÉE |
+FAUNE BENTHIQUE
+
+INVERTÉBRÉE |
 
 La composition et l'abondance taxinomiques correspondent totalement ou presque totalement aux conditions non perturbées.
 
@@ -340,7 +346,7 @@ Tableau 4 : définition des classes d'état des cours d'eau pour les éléments 
 
 ÉLÉMENT |
 
-TRÈS BON ÉTAT |
+TRÉS BON ÉTAT |
 
 BON ÉTAT |
 
@@ -382,13 +388,15 @@ Tableau 5 : définition des classes d'état des cours d'eau pour les éléments 
 
 ÉLÉMENT |
 
-TRÈS BON ÉTAT |
+TRÉS BON ÉTAT |
 
 BON ÉTAT |
 
 ÉTAT MOYEN |
 
-CONDITIONS GENERALES |
+CONDITIONS
+
+GENERALES |
 
 Les valeurs des éléments physico-chimiques correspondent totalement ou presque totalement aux conditions non perturbées.
 
@@ -414,7 +422,11 @@ Concentrations ne dépassant pas les normes de qualité environnementale défini
 
 Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les éléments de qualité biologique. |
 
-POLLUANTS NON SYNTHETIQUES SPECIFIQUES |
+POLLUANTS NON
+
+SYNTHETIQUES
+
+SPECIFIQUES |
 
 |
 
@@ -430,7 +442,7 @@ Tableau 6 : définition des classes d'état des plans d'eau pour les éléments 
 
 ÉLÉMENT |
 
-TRÈS BON ÉTAT |
+TRÉS BON ÉTAT |
 
 BON ÉTAT |
 
@@ -454,7 +466,9 @@ L'abondance est modérément perturbée et peut être de nature à produire une 
 
 La fréquence et l'intensité de l'efflorescence planctonique peuvent augmenter modérément. Une efflorescence persistante peut se produire durant les mois d'été. |
 
-MACROPHYTES ET PHYTOBENTHOS |
+MACROPHYTES ET
+
+PHYTOBENTHOS |
 
 La composition taxinomique correspond totalement ou presque totalement aux conditions non perturbées.
 
@@ -470,7 +484,9 @@ Des modifications modérées de l'abondance moyenne macrophytique et phytobenthi
 
 La communauté phytobentique peut être perturbée et, dans certains cas, déplacée par des touffes et couches bactériennes dues à des activités anthropogéniques. |
 
-FAUNE BENTHIQUE INVERTÉBRÉE |
+FAUNE BENTHIQUE
+
+INVERTÉBRÉE |
 
 La composition et l'abondance taxinomiques correspondent totalement ou presque totalement aux conditions non perturbées.
 
@@ -512,7 +528,7 @@ Tableau 7 : définition des classes d'état des plans d'eau pour les éléments 
 
 ÉLÉMENT |
 
-TRÈS BON ÉTAT |
+TRÉS BON ÉTAT |
 
 BON ÉTAT |
 
@@ -544,7 +560,7 @@ Tableau 8 : définition des classes d'état des plans d'eau pour les éléments 
 
 ÉLÉMENT |
 
-TRÈS BON ÉTAT |
+TRÉS BON ÉTAT |
 
 BON ÉTAT |
 
@@ -578,7 +594,9 @@ Concentrations ne dépassant pas les normes de qualité environnementale défini
 
 Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les éléments de qualité biologique. |
 
-POLLUANTS NON SYNTHETIQUES
+POLLUANTS NON
+
+SYNTHETIQUES
 
 SPECIFIQUES |
 
@@ -588,7 +606,7 @@ Concentrations ne dépassant pas les normes de qualité environnementale défini
 
 Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les éléments de qualité biologique. |
 
-2.3. Définitions du très bon état écologique, du bon état écologique et de l'état écologique moyen en ce qui concerne les eaux de transition
+2.3. Définitions des classes d'état écologique pour les eaux de transition
 
 2.3.1. Eléments de qualité biologique pour les eaux de transition
 
@@ -646,11 +664,13 @@ Légères modifications dans la composition des taxons d'angiospermes par rappor
 
 L'abondance des angiospermes montre de légers signes de perturbation. |
 
-La composition des taxons d'angiospermes différents modérément de celles des communautés caractéristiques et est sensiblement plus perturbée que dans le bon état.
+La composition des taxons d'angiospermes diffère modérément de celles des communautés caractéristiques et est sensiblement plus perturbée que dans le bon état.
 
-Ecarts modérés dans l'abondance des taxons d'angiospermes. |
+Écarts modérés dans l'abondance des taxons d'angiospermes. |
 
-FAUNE BENTHIQUE INVERTEBREE |
+FAUNE BENTHIQUE
+
+INVERTEBRÉE |
 
 Le niveau de diversité et d'abondance des taxons d'invertébrés se situe dans la fourchette normalement associée aux conditions non perturbées.
 
@@ -672,7 +692,7 @@ La composition et l'abondance des espèces correspondent aux conditions non pert
 
 L'abondance des espèces sensibles aux perturbations montre de légers écarts par rapport aux conditions caractéristiques, dus aux influences anthropogéniques sur les éléments de qualité physico-chimique ou hydromorphologique. |
 
-Une proportion modérée des espèces caractéristiques sensibles aux perturbations est absente suite aux influences anthropogéniques sur les éléments de qualité physico-chimiques ou hydromorphologiques. |
+Une proportion modérée des espèces caractéristiques sensibles aux perturbations est absente suite aux influences anthropogéniques sur les éléments de qualité physico-chimique ou hydromorphologique. |
 
 2.3.2. Eléments de qualité hydromorphologique pour les eaux de transition
 
@@ -686,7 +706,9 @@ BON ÉTAT |
 
 ÉTAT MOYEN |
 
-REGIME HYDROLOGIQUE |
+RÉGIME
+
+HYDROLOGIQUE |
 
 Le débit d'eau douce correspond totalement ou presque totalement aux conditions non perturbées. |
 
@@ -716,7 +738,9 @@ BON ÉTAT |
 
 ÉTAT MOYEN |
 
-CONDITIONS GENERALES |
+CONDITIONS
+
+GÉNÉRALES |
 
 Les éléments physico-chimiques correspondent totalement ou presque totalement aux conditions non perturbées.
 
@@ -730,7 +754,11 @@ Les concentrations de nutriments ne dépassent pas les niveaux établis pour ass
 
 Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les éléments de qualité biologique. |
 
-POLLUANTS SYNTHETIQUES SPECIFIQUES |
+POLLUANTS
+
+SYNTHÉTIQUES
+
+SPÉCIFIQUES |
 
 |
 
@@ -740,7 +768,9 @@ Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les él�
 
 POLLUANTS NON
 
-SYNTHETIQUES SPECIFIQUES |
+SYNTHÉTIQUES
+
+SPÉCIFIQUES |
 
 |
 
@@ -748,11 +778,11 @@ Concentrations ne dépassant pas les normes de qualité environnementale défini
 
 Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les éléments de qualité biologique. |
 
-2.4. Définitions du très bon état écologique, du bon état écologique et de l'état écologique moyen en ce qui concerne les eaux côtières
+2.4. Définitions des classes d'état écologique pour les eaux côtières
 
 2.4.1. Eléments de qualité biologique pour les eaux côtières
 
-Tableau 12 : définitions des classes d'état des eaux de côtières pour les éléments de qualité biologique
+Tableau 12 : définitions des classes d'état des eaux côtières pour les éléments de qualité biologique
 
 ÉLÉMENT |
 
@@ -782,7 +812,11 @@ La biomasse des algues dépasse sensiblement la fourchette associée aux conditi
 
 La fréquence et l'intensité de l'efflorescence planctonique peuvent augmenter modérément. Une efflorescence persistante peut se produire durant les mois d'été. |
 
-ALGUES MACROSCOPIQUES ET ANGIOSPERMES |
+ALGUES
+
+MACROSCOPIQUES
+
+ET ANGIOSPERMES |
 
 Tous les taxons d'algues macroscopiques et d'angiospermes sensibles aux perturbations et associés aux conditions non perturbées sont présents.
 
@@ -798,7 +832,7 @@ La couverture d'algues macroscopiques et l'abondance d'angiospermes sont modér�
 
 FAUNE BENTHIQUE
 
-INVERTEBREE |
+INVERTÉBRÉE |
 
 La composition et l'abondance taxinomiques correspondent totalement ou presque totalement aux conditions non perturbées.
 
@@ -820,7 +854,7 @@ Le ratio des taxons sensibles aux perturbations par rapport aux taxons d'insensi
 
 2.4.2. Eléments de qualité hydromorphologique pour les eaux côtières
 
-Tableau 13 : définitions des classes d'état des eaux de côtières pour les éléments de qualité hydromorphologique
+Tableau 13 : définitions des classes d'état des eaux côtières pour les éléments de qualité hydromorphologique
 
 ÉLÉMENT |
 
@@ -830,7 +864,9 @@ BON ÉTAT |
 
 ÉTAT MOYEN |
 
-REGIME DES MAREES |
+RÉGIME DES
+
+MARÉES |
 
 Le débit d'eau douce ainsi que la direction et la vitesse des courants dominants correspondent totalement ou presque totalement aux conditions non perturbées. |
 
@@ -850,19 +886,19 @@ Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les él�
 
 2.4.3. Eléments de qualité physico-chimique pour les eaux côtières
 
-Tableau 14 : définitions des classes d'état des eaux de côtières pour les éléments de qualité physico-chimique
+Tableau 14 : définitions des classes d'état des eaux côtières pour les éléments de qualité physico-chimique
 
 ÉLÉMENT |
 
-TRES BON ETAT |
+TRÈS BON ETAT |
 
-BON ETAT |
+BON ÉTAT |
 
 ÉTAT MOYEN |
 
 CONDITIONS
 
-GENERALES |
+GÉNÉRALES |
 
 Les éléments physico-chimiques correspondent totalement ou presque totalement aux conditions non perturbées.
 
@@ -878,9 +914,9 @@ Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les él�
 
 POLLUANTS
 
-SYNTHETIQUES
+SYNTHÉTIQUES
 
-SPECIFIQUES |
+SPÉCIFIQUES |
 
 |
 
@@ -888,7 +924,11 @@ Concentrations ne dépassant pas les normes de qualité environnementale défini
 
 Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les éléments de qualité biologique. |
 
-POLLUANTS NON SYNTHETIQUES SPECIFIQUES |
+POLLUANTS NON
+
+SYNTHÉTIQUES
+
+SPÉCIFIQUES |
 
 |
 
@@ -908,7 +948,9 @@ BON POTENTIEL ÉCOLOGIQUE |
 
 POTENTIEL ÉCOLOGIQUE MOYEN |
 
-ELEMENTS DE QUALITE
+ÉLÉMENTS DE
+
+QUALITÉ
 
 BIOLOGIQUE |
 
@@ -920,7 +962,11 @@ Modifications modérées dans les valeurs des éléments de qualité biologique 
 
 Ces valeurs accusent des écarts plus importants que dans le cas d'un bon potentiel écologique. |
 
-ELEMENTS DE QUALITE HYDROMORPHOLOGIQUE |
+ÉLÉMENTS
+
+DE QUALITÉ
+
+HYDROMORPHOLOGIQUE |
 
 Les conditions hydromorphologiques correspondent aux conditions normales, les seuls effets sur la masse d'eau de surface étant ceux qui résultent des caractéristiques artificielles ou fortement modifiées de la masse d'eau dès que toutes les mesures pratiques d'atténuation ont été prises afin d'assurer qu'elles autorisent le meilleur rapprochement possible d'un continuum écologique, en particulier en ce qui concerne la migration de la faune, le frai et les lieux de reproduction. |
 
@@ -928,7 +974,9 @@ Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les él�
 
 Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les éléments de qualité biologique. |
 
-ELEMENTS DE QUALITE
+ÉLÉMENTS
+
+DE QUALITÉ
 
 PHYSICO-CHIMIQUE |
 
@@ -938,7 +986,9 @@ PHYSICO-CHIMIQUE |
 
 |
 
-CONDITIONS GENERALES |
+CONDITIONS
+
+GÉNÉRALES |
 
 Les éléments physico-chimiques correspondent totalement ou presque totalement aux conditions non perturbées associées au type de masse d'eau de surface le plus comparable à la masse artificielle ou fortement modifiée concernée.
 
@@ -954,7 +1004,11 @@ Les concentrations de nutriments ne dépassent pas les niveaux établis pour ass
 
 Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les éléments de qualité biologique. |
 
-POLLUANTS SYNTHETIQUES SPECIFIQUES |
+POLLUANTS
+
+SYNTHÉTIQUES
+
+SPÉCIFIQUES |
 
 |
 
@@ -962,8 +1016,14 @@ Concentrations ne dépassant pas les normes de qualité environnementale défini
 
 Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les éléments de qualité biologique. |
 
-POLLUANTS
+POLLUANTS NON
 
-NON SYNTHETIQUES
+SYNTHÉTIQUES
 
-CARACTERISTIQUES |
+CARACTÉRISTIQUES |
+
+|
+
+Concentrations ne dépassant pas les normes de qualité environnementale définies dans le présent arrêté |
+
+Conditions permettant d'atteindre les valeurs indiquées ci-dessus pour les éléments de qualité biologique. |
