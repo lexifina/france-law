@@ -34,13 +34,13 @@ Casino d'Aix-les-Bains.
 
 Chantiers de l'Atlantique.
 
-Civipol conseil.
-
-CNP-Assurances.
+Civipol.
 
 Compagnie générale maritime et financière (CGMF).
 
 Consortium de réalisation (CDR).
+
+Dassault Aviation.
 
 Défense conseil international (DCI).
 
@@ -52,15 +52,17 @@ ENGIE.
 
 Eramet.
 
+Eurenco Holding SAS.
+
 Fonds pour le développement d'une politique intermodale des transports dans le massif alpin (FDPITMA).
 
 France Médias Monde.
 
 France Télévisions.
 
-FSI Equation.
+FSI Equation SAS.
 
-GIAT Industries.
+GIAT Industries SAS.
 
 Grand port maritime de Bordeaux.
 
@@ -80,9 +82,7 @@ Grand port maritime de Marseille.
 
 Grand port maritime de Nantes Saint-Nazaire.
 
-Grand port maritime de Rouen.
-
-Grand port maritime du Havre.
+Grand port fluvio-maritime de l'Axe-Seine.
 
 IN Groupe.
 
@@ -104,25 +104,19 @@ Orange.
 
 Orano.
 
-Port autonome de Paris.
-
 Radio France.
 
 RATP.
 
-Renault SA.
+Renault.
 
 Safran.
 
 Semmaris.
 
-SNCF.
+Société nationale SNCF.
 
-SNCF Réseau.
-
-SNCF Voyageurs.
-
-SNPE.
+SNPE SAS.
 
 Société aéroportuaire de Guadeloupe Pôle Caraïbes.
 
@@ -130,13 +124,9 @@ Société concessionnaire française pour la construction et l'exploitation du t
 
 Société des autoroutes Rhône-Alpes (AREA).
 
-Société de financement local (SFIL).
-
 SOGEPA.
 
 Société des chemins de fer luxembourgeois.
-
-Société française d'exportation de systèmes avancés (Sofresa).
 
 Société française du tunnel routier du Fréjus (SFTRF).
 
@@ -144,9 +134,7 @@ Société internationale de la Moselle.
 
 Société de prise de participation de l'Etat (SPPE).
 
-Société de valorisation foncière et immobilière (Sovafim).
-
-Société pour le logement intermédiaire.
+Société pour le logement intermédiaire SAS.
 
 Société technique pour l'énergie atomique.
 
@@ -154,28 +142,32 @@ Sofema.
 
 Thales.
 
+TSA SAS ;
+
 2° Autres entités dans lesquelles l'Etat détient une seule action :
 
-Adit.
-
-Airbus Defence and Space Holding France SAS.
-
-Airbus DS Geo.
+Adit SAS.
 
 ArianeGroup SAS.
 
-Bpifrance SA.
+Aubert & Duval SAS.
 
-Dassault Aviation.
+Bpifrance.
 
-GEAST.
+CILAS.
+
+Exxelia International SAS.
+
+GEAST SAS.
 
 Nexter systems.
 
 Safran Ceramics.
 
+Société de financement local (SFIL).
+
+Société Le Nickel S. L. N.
+
 Société nationale maritime Corse Méditerranée (SNCM).
 
-Solinter holding.
-
-TSA.
+Solinter holding SAS.
