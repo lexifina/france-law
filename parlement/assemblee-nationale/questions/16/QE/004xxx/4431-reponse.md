@@ -1,0 +1,9 @@
+# Réponse à la question n° 4431
+
+- Question : [4431](4431.md) — Question n° 4431 — CPF éducation nationale
+
+## Réponse
+
+*JO du 2023-11-07, page 9927*
+
+La règlementation de la fonction publique sur la mise en œuvre du compte personnel de formation s'applique à l'éducation nationale. La formation ne doit pas nécessairement être diplômante ou certifiante. L'utilisation du compte personnel de formation (CPF) porte sur toute action de formation, hors celles relatives à l'adaptation aux fonctions exercées, ayant pour objet l'acquisition d'un diplôme, d'un titre, d'un certificat de qualification professionnelle ou le développement des compétences nécessaires à la mise en œuvre du projet d'évolution professionnelle. Toute action de formation proposée par un employeur public ou un organisme de formation agréé est donc éligible au CPF, dès lors que son objet répond au projet d'évolution professionnelle de l'agent. L'approfondissement professionnel demandé par un agent pour son emploi actuel ne constitue pas une évolution professionnelle éligible aux droits acquis au titre du CPF. Le programme académique de formation (PAF) est le vecteur de ce type d'actions. L'éducation nationale fixe des plafonds de prise en charge des frais liés au compte personnel de formation qui sont définis par l'arrêté du 21 novembre 2018. Les académies définissent des priorités et critères d'attribution. Les agents peuvent demander un accompagnement (conseillers RH de proximité) pour l'élaboration de leur dossier de demande de mobilisation du CPF. Le compte personnel de formation est attribué à un agent quand il en fait la demande dans les délais règlementaires. En ce qui concerne la répartition des demandes, chaque école académique de la formation continue (EAFC) dispose d'un nombre de crédits formation à répartir chaque année. Les demandes sont examinées au fur et à mesure de leur réception, et en fonction des priorités.
