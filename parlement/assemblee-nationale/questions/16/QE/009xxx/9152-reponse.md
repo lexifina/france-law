@@ -1,0 +1,9 @@
+# Réponse à la question n° 9152
+
+- Question : [9152](9152.md) — Question n° 9152 — Journée nationale de sensibilisation au TDAH
+
+## Réponse
+
+*JO du 2023-11-07, page 9951*
+
+Depuis la rentrée scolaire 2019, un nouveau référentiel de formation initiale intitulé « Former l'enseignant du XXIe siècle » des futurs professeurs des premier et second degrés est mis en œuvre. Il cadre le contenu de la formation délivrée au sein des INSPE et fait de l'inclusion des élèves un axe de formation à part entière pour les futurs enseignants. 25 heures de formation minimum sur l'école inclusive sont ainsi dispensées à l'ensemble des professeurs au cours de leur formation initiale. Dans le cadre de la formation continue, les professeurs peuvent bénéficier d'une formation professionnelle spécialisée, en s'inscrivant au certificat d'aptitude professionnelle aux pratiques de l'éducation inclusive (CAPPEI). Des modules de formation d'initiative nationale sont également organisés chaque année dans le domaine de la scolarisation des élèves en situation de handicap ou à besoins éducatifs particuliers et s'adressent à tous les personnels, spécialisés ou non. Dans le cadre de la nouvelle stratégie nationale autisme et troubles du neuro-développement (TND) et pour préparer la rentrée 2023, 25 emplois temps plein de professeurs ressources TND ont été créés. D'ici 2025, ce sont 100 professeurs ressources TND qui seront déployés, venant renforcer les 101 professeurs ressources autisme déjà en poste. Les dispositifs d'autorégulation (DAR) sont de nouveaux dispositifs qui viennent compléter l'éventail des modalités de scolarisation. L'approche par l'autorégulation s'inscrit dans le projet d'école comme dans le projet du service médico-social qui conjuguent leur action au bénéfice des élèves concernés mais également de l'ensemble des élèves de l'établissement, notamment aux élèves avec un trouble du neuro-développement.
