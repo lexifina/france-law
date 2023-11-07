@@ -1,0 +1,9 @@
+# Réponse à la question n° 10119
+
+- Question : [10119](10119.md) — Question n° 10119 — Sentiment de solitude chez les lycéens
+
+## Réponse
+
+*JO du 2023-11-07, page 9963*
+
+L'année scolaire 2022-2023 marque le retour à la normalité après trois années de crise sanitaire ayant induit d'importants aménagements. Ces aménagements ont porté à la fois sur les enseignements mis en place par les établissements, les enseignants redoublant d'efforts et de créativité pour mettre en place les cours à distance, dans des délais restreints, mais également sur la socialisation des élèves. Depuis la rentrée 2021, des démarches innovantes ont été mises en place dans les établissements pour permettre le suivi des élèves non plus seulement par classe mais également en tenant compte de la personnalisation des parcours liés aux choix d'enseignements de spécialité. On peut ici citer les conseils de spécialités, les conseils de suivi des élèves ou encore la mise en place de professeurs référents de groupe d'élèves. Ces professeurs référents de groupe d'élèves peuvent venir accompagner les élèves en complément ou en remplacement des professeurs principaux. L'implantation de ce statut progresse chaque année. En 2022-2023 un tiers des chefs d'établissement a indiqué avoir mis en place des professeurs référents auprès des élèves de terminale. La rentrée 2022 a été le moment pour les élèves de retrouver une scolarité classique au sein des établissements et de renouer pleinement le contact avec leurs camarades. Les enseignements de spécialité ont pu contribuer à la formation de ces liens nouveaux. Ces enseignements ont pu être l'occasion pour ces élèves de se rassembler autour d'intérêts et de projets d'orientation communs, leur permettant ainsi de nouer des liens qui pourront ensuite se poursuivre dans le cadre de leurs études supérieures.
