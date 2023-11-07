@@ -1,0 +1,9 @@
+# Réponse à la question n° 8382
+
+- Question : [8382](8382.md) — Question n° 8382 — Les conditions de recrutement des AED en CDI
+
+## Réponse
+
+*JO du 2023-11-07, page 9939*
+
+Les assistants d'éducation (AED) sont essentiels au bon fonctionnement des établissements. Ils apportent un soutien indispensable à l'équipe éducative pour l'encadrement, la surveillance et l'assistance pédagogique des élèves. Ils sont recrutés sur le fondement de l'article L. 916-1 du code de l'éducation et régis par le décret n° 86-83 du 17 janvier 1986 relatif aux agents contractuels de l'État sous réserve des dispositions spécifiques prévues par le décret n° 2003-484 du 6 juin 2003 fixant les conditions de recrutement et d'emploi des assistants d'éducation. Recrutés par des contrats d'une durée maximale de trois ans, renouvelables dans la limite d'une période d'engagement totale de six ans, ils peuvent depuis le 1er septembre 2022 bénéficier d'un contrat à durée indéterminée après six ans d'exercice en tant qu'AED. Cette évolution a été permise par la loi n° 2022-299 du 2 mars 2022 visant à combattre le harcèlement scolaire et le décret n° 2022-1140 du 9 août 2022 modifiant le décret n° 2003-484 du 6 juin 2003, pris en application de cette loi, qui précise les conditions dans lesquelles un AED peut bénéficier d'un contrat à durée indéterminée. Ainsi, depuis le 1er septembre 2022, les personnes ayant exercé pendant six ans les fonctions d'AED peuvent bénéficier d'un contrat à durée indéterminée, quelle que soit la date à laquelle ces fonctions ont été exercées. La promulgation de la proposition de loi n° 2022-1574 du 16 décembre 2022 a eu pour objet de réitérer l'attachement de l'Assemblée nationale à ce qu'ils puissent bénéficier d'un contrat à durée indéterminée au terme de six années d'exercice en tant qu'AED. Ces dispositions ne remettent en cause ni le décret du 9 août 2022 ni les contrats à durée indéterminée conclus depuis le 1er septembre 2022.
