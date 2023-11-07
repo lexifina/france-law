@@ -1,0 +1,9 @@
+# Réponse à la question n° 10452
+
+- Question : [10452](10452.md) — Question n° 10452 — Position de la France sur la situation en Guinée
+
+## Réponse
+
+*JO du 2023-11-07, page 9999*
+
+Après avoir condamné le coup d'État du 5 septembre 2021, la France a apporté son soutien aux efforts de médiation de la CEDEAO, qui ont permis d'aboutir à un compromis sur la durée de la transition au mois d'octobre 2022. En étroite coordination avec l'Union européenne et les Nations unies, la France a choisi d'accompagner le processus de transition guinéen vers un retour à l'ordre démocratique et constitutionnel prévu en janvier 2025. En avril dernier, la secrétaire d'État chargée du développement, de la Francophonie et des partenariats internationaux s'est rendue à Conakry, où elle a pu s'entretenir avec le colonel Mamady Doumbouya, président de la transition, ainsi qu'avec des représentants des partis politiques - dont des partis d'opposition - et de la société civile guinéenne. La secrétaire d'État a appelé l'ensemble des acteurs guinéens à s'engager de façon pérenne dans un dialogue inclusif afin de permettre une transition apaisée. Les autorités de transition guinéennes ont, par la suite, répondu à plusieurs demandes de l'opposition, préalables à la mise en œuvre de ce dialogue. Les trois cadres du Front national pour la défense de la constitution (FNDC) emprisonnés depuis plusieurs mois ont ainsi été libérés le 10 mai dernier, et les mesures de contrôle judiciaire visant plusieurs opposants ont été levées peu de temps après. La France s'est félicitée de ces développements positifs. Les violences qui se sont produites dernièrement, lors des manifestations organisées par l'opposition guinéenne, ont été condamnées par la France. Nous avons fait part aux autorités de transition guinéennes de notre vive préoccupation à ce sujet.
