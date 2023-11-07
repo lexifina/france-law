@@ -1,0 +1,9 @@
+# Réponse à la question n° 8250
+
+- Question : [8250](8250.md) — Question n° 8250 — Militants de « l'ultra droite » de retour après avoir combattu en Ukraine
+
+## Réponse
+
+*JO du 2023-11-07, page 10006*
+
+À la suite de l'invasion russe en Ukraine, déclenchée au mois de février 2022, plusieurs centaines de ressortissants français ont rejoint le territoire ukrainien, la plupart aux fins d'apporter un soutien humanitaire. Certains individus ont néanmoins réalisé ce déplacement dans le but de prendre part aux combats. Ils ont majoritairement rejoint les rangs de l'armée ukrainienne. La DGSI demeure attentive à ce type de profils, notamment à leur retour sur le territoire national. Plus globalement, une vigilance accrue s'exerce à l'endroit de la mouvance d'ultra droite en France, laquelle rassemble près de 3 000 individus. Aux fins de détecter et d'entraver toute dérive vers l'action violente de la part de certains militants, des actions spécifiques sont mises en œuvre par les services du ministère de l'Intérieur et des Outre-mer (visites domiciliaires sur le fondement de l'article L. 229-1 du Code de sécurité intérieure et signalements à l'autorité judiciaire au titre de l'article 40 du Code de procédure pénale lorsqu'une infraction pénale est révélée par les investigations). Grâce à l'arsenal légal dont ils disposent, les services de l'État répondent avec la plus grande fermeté aux velléités d'armement des militants d'ultra droite. Ils procèdent à leur inscription au fichier national des personnes interdites d'acquisition et de détention d'armes (FINIADA) et initient des procédures destinées à les dessaisir de leurs armes à feu, lorsqu'ils en sont détenteurs. Au total, l'action menée par le ministère de l'Intérieur et des Outre-mer a ainsi permis de déjouer 10 projets d'action violente depuis 2017.
