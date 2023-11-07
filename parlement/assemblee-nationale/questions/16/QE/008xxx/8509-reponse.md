@@ -1,0 +1,9 @@
+# Réponse à la question n° 8509
+
+- Question : [8509](8509.md) — Question n° 8509 — Pompiers - retraites
+
+## Réponse
+
+*JO du 2023-11-07, page 10008*
+
+En raison des missions qui leur sont dévolues, les sapeurs-pompiers professionnels font partie des fonctionnaires classés dans la catégorie active, qui ne concerne qu'un nombre limité d'emplois présentant « un risque particulier ou des fatigues exceptionnelles » (article L. 24 du Code des pensions civiles et militaires de retraite). Ce classement leur permet de bénéficier d'avantages spécifiques tels que le droit de départ anticipé à la retraite, la majoration de pension liée à l'intégration de la prime de feu de 25% dans l'assiette de calcul de la pension, ou encore la bonification du cinquième du temps de services accomplis. Pour bénéficier de cette bonification, qui peut être accordée dans la limite de cinq ans et sans que cela ne puisse dépasser 160 trimestres, les sapeurs-pompiers professionnels doivent avoir atteint l'âge d'ouverture du droit à pension et présenter 17 ans de services effectifs en cette qualité. Son attribution s'accompagne également d'une retenue supplémentaire (article 3 III du décret n° 2007-173 du 7 février 2007 relatif à la Caisse nationale de retraites des agents des collectivités locales). Cet avantage s'inscrit dans le droit commun de la fonction publique. Les militaires sont également soumis aux mêmes règles. Par ailleurs, la méthode de calcul de la pension des sapeurs-pompiers professionnels obéit aux mêmes règles que pour les autres fonctionnaires qui considèrent le temps de travail effectif. Enfin, depuis la loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023, tous les fonctionnaires classés dans la catégorie active bénéficient désormais de la portabilité des droits acquis sur leur emploi, même s'ils terminent leur carrière sur un emploi non classé en catégorie active.
