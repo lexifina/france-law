@@ -1,0 +1,9 @@
+# Réponse à la question n° 8651
+
+- Question : [8651](8651.md) — Question n° 8651 — Menace de fermeture de l'EREA de Villeneuve-sur-Lot
+
+## Réponse
+
+*JO du 2023-11-07, page 9942*
+
+L'établissement régional d'enseignement adapté (EREA) Marie-Claude Leriche de Villeneuve-sur-Lot ne ferme pas, il se transforme. Un travail a été engagé par le directeur des services départementaux de l'éducation nationale du Lot-et-Garonne depuis novembre 2022 avec le proviseur de l'EREA ainsi que la principale du collège de Crochepierre de Villeneuve-sur-Lot et son adjointe directrice de la SEGPA, la direction régionale académique à la formation professionnelle initiale, continue et l'apprentissage (DRAFPIC) et les corps d'inspection. Afin de consolider les emplois de professeurs des écoles de l'EREA, il a été convenu de le transformer progressivement en LEA (lycée d'enseignement adapté). Pour cela, une microentreprise, une 3e prépa-métier adaptée, le dédoublement des places en CAP Assistant technique en milieu familial et collectif (ATMFC) et une nouvelle formation avec la mention complémentaire « aide à domicile » sont actés. Ce projet permettra d'atteindre un effectif de 100 élèves au sein du LEA et de gagner en cohérence au niveau de l'offre de formation sur ce secteur. Comme le collège et l'EREA sont situés à proximité et qu'ils disposent tous les deux d'une SEGPA collège, il a été décidé de manière consensuelle de ne garder qu'une SEGPA au collège de Crochepierre. Ainsi, à la rentrée 2022, le recrutement en 6e SEGPA a été fait uniquement au sein du collège, les autres classes continuant leur scolarité au sein de l'EREA et du collège. À la rentrée 2023, la mention complémentaire a ouvert. À la rentrée 2024, tous les élèves de 3e SEGPA seront accueillis au collège et la 3e prépa-métier ouvrira au sein de l'EREA LEA. Le dédoublement de la première année de CAP ATMFC sera également effectif, ainsi que la 2ème année en 2025.
