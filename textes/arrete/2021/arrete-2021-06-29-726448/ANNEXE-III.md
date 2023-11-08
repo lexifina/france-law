@@ -10,7 +10,7 @@ Nom, prénom du pharmacien ayant réalisé le test :
 
 Nom, prénom du patient :
 
-Age du patient (bloquant si en dessous de 10 ans) :
+Age du patient (bloquant si en dessous de 3 ans) :
 
 Présentation d'une ordonnance conditionnelle par le patient : □ Oui □ Non
 
