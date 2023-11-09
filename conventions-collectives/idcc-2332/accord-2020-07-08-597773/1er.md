@@ -14,39 +14,67 @@ Ce socle commun comprend quatre domaines d'égale importance :
 
 1.1. L'égalité salariale
 
-La branche met à disposition des entreprises des éléments de méthode pour l'évaluation et la suppression des écarts de salaires (outils méthodologiques).
+Tronc commun à toutes les entreprises quelle que soit leur taille
 
 Les entreprises s'engagent à respecter le principe d'égalité salariale entre les femmes et les hommes à situation comparable (niveau de responsabilité, de compétences et de performance).
 
 Les écarts injustifiés doivent faire l'objet de mesures de suppression par les entreprises, quelle que soit leur taille, au plus tard dans les 3 ans suivants le moment où ils ont été révélés.
 
+Le comité égalité professionnelle créé par le précédent accord a élaboré des éléments de méthode pour l'évaluation des écarts de salaires et de traitement entre les femmes et les hommes afin d'accompagner les entreprises dans cette démarche.
+
+La branche architecture encourage les entreprises ayant détecté des écarts de salaires de ce type à mettre en place un budget de financement du rattrapage salarial afin de planifier la suppression des écarts constatés.
+
+Les thèmes de l'index égalité professionnelle obligatoire pour les entreprises de plus de 50 salariés, listés ci-après, ont guidé le comité égalité professionnelle dans l'élaboration des outils méthodologiques mis à disposition par la branche.
+
+Un travail d'adaptation a été réalisé pour proposer des outils en adéquation avec la taille des entreprises de la branche.
+
+Les outils méthodologiques et obligations des entreprises
+
+La branche met donc à disposition de toutes les entreprises, quelle que soit leur taille :
+
+– un outil de suivi méthodologique ;
+
+– et un questionnaire.
+
+L'outil de suivi permet aux structures de taille plus petite d'accéder à des outils de gestion des parcours de leurs salariés. Il peut représenter un intérêt pour toutes les entreprises.
+
+Le questionnaire est adapté à toutes les tailles d'entreprises et permet quant à lui de dresser un portrait des entreprises assez fin pour permettre à la branche de suivre les évolutions dans ce domaine. Il doit être renseigné en ligne ou transmis par tout moyen au secrétariat de la branche architecture au plus tard le 31 mars de chaque année pour l'année précédente arrêtée au 31 décembre.
+
+L'obligation de transmission du questionnaire concerne les entreprises de plus de 5 salariés. En effet, l'analyse peut être réalisée par toutes les entreprises, mais les réponses au questionnaire concernant une entreprise de moins de 6 salariés aurait un intérêt assez limité étant donné la répartition des tâches dans des structures de cette taille.
+
+Les entreprises de moins de 50 salariés
+
+Le présent accord donne comme obligation aux entreprises de moins de 50 salariés de faire une analyse sur les points listés ci-après.
+
+L'outil d'auto-analyse proposé est fait pour les y aider.
+
+Le questionnaire attestera que les entreprises se sont préoccupées des sujets suivants :
+
+– la mesure des écarts de salaires entre les femmes et les hommes par tranche d'âge et par catégorie de postes équivalents ;
+
+– l'écart de taux de promotions entre les femmes et les hommes ;
+
+– vérification que les femmes, au cours de l'année suivant leur retour de congé maternité, ont bien bénéficié des augmentations des autres salariés au cours de la période pendant laquelle le congé a été pris ;
+
+– vérification que l'exercice de la parentalité et le choix du travail à temps partiel ne constituent ni un motif de discrimination, ni un frein au déroulement de la carrière des femmes et des hommes.
+
 Les entreprises de plus de 50 salariés
 
-Suite aux évolutions apportées par la loi du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes et le décret du 8 janvier 2019, les entreprises de plus de 50 salariés doivent atteindre des objectifs (4 ou 5 selon le nombre de salariés de la structure) liés à :
+Les évolutions apportées par la loi du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes et le décret du 8 janvier 2019, ont créé l'index de l'égalité professionnelle entre les hommes et les femmes pour les entreprises de plus de 50 salariés. Elles doivent atteindre des objectifs (4 pour les moins de 250 ou 5 selon le nombre de salariés de la structure) classés selon les thématiques listées ci-après :
 
 – la mesure des écarts de salaires entre les femmes et les hommes par tranche d'âge et par catégorie de postes équivalents ;
 
 – l'écart des taux d'augmentations individuelles de salaires ne correspondant pas à des promotions entre les femmes et les hommes ;
 
-– l'écart du taux de promotions entre les femmes et les hommes ;
+– l'écart de taux de promotions entre les femmes et les hommes ;
 
 – le pourcentage de femmes ayant bénéficié d'une augmentation au cours de l'année suivant leur retour de congé maternité si des augmentations ont eu lieu au cours de la période pendant laquelle le congé a été pris ;
 
 – le nombre de salariés du sexe sous représenté parmi les 10 salariés ayant perçu les plus hautes rémunérations.
 
-Les entreprises de moins de 50 salariés
+L'index de l'égalité professionnelle des entreprises doit être publié sur le site de l'entreprise de manière visible et lisible (note globale de l'index, ainsi que les notes obtenues à chacun des indicateurs le composant – depuis septembre 2019).
 
-Le présent accord donne comme obligation aux entreprises de moins de 50 salariés de faire une analyse sur les points suivants :
-
-– la mesure des écarts de salaires entre les femmes et les hommes ;
-
-– l'écart du taux de promotions entre les femmes et les hommes ;
-
-– la vérification que les femmes, au cours de l'année suivant leur retour de congé maternité, ont bien bénéficié des augmentations des autres salariés au cours de la période pendant laquelle le congé a été pris ;
-
-– vérifier que l'exercice de la parentalité et le choix du travail à temps partiel ne constituent ni un motif de discrimination, ni un frein au déroulement de la carrière des femmes et des hommes.
-
-Ces données devront être transmises au comité, en accord avec les textes sur la protection des données personnelles, au plus tard le 31 mars pour l'année précédente, arrêtées au 31 décembre.
+Le présent accord donne comme obligation aux entreprises de plus de 50 salariés de transmettre en sus ces éléments à la branche architecture.
 
 1.2. Les parcours professionnels et la formation professionnelle
 
