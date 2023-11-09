@@ -2,7 +2,7 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 31 octobre 2023 :
+Jusqu'au 31 janvier 2024 :
 
 Paris-Abidjan (Côte d'Ivoire) ;
 
@@ -14,10 +14,6 @@ Paris-Tananarive (Madagascar) ;
 
 Saint-Denis de La Réunion-Tananarive (Madagascar).
 
-Jusqu'au 31 octobre 2023 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires :
-
-Liaisons entre la France métropolitaine et tout point du Royaume du Maroc.
-
 Jusqu'au 31 octobre 2024 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires :
 
 Pointe-à-Pitre-Roseau (La Dominique).
@@ -28,11 +24,11 @@ Saint-Denis de La Réunion-Port-Louis (île Maurice).
 
 Jusqu'au 31 mars 2026 et dans la limite de cinq (5) fréquences hebdomadaires sur l'ensemble des trois liaisons suivantes :
 
-Paris-Port Louis (Maurice) ;
+Paris-Port-Louis (Maurice) ;
 
-Lyon-Port Louis (Maurice) ;
+Lyon-Port-Louis (Maurice) ;
 
-Marseille-Port Louis (Maurice).
+Marseille-Port-Louis (Maurice).
 
 Jusqu'au 31 mars 2026 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie russe disposant des autorisations nécessaires :
 
