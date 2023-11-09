@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204524
+
+- Question : [SEQ221204524](seq221204524.md) — Accès aux soins pour les Français du Vanuatu en Nouvelle-Calédonie - Suite de la question n°3070
+
+## Réponse
+
+*Santé et prévention, JO du 2023-11-09, page 6370*
+
+Les Français du Vanuatu adhérents à la Caisse des Français de l'étranger (CFE) ne peuvent pas relever des dispositions de l'Accord portant coordination des régimes métropolitains et calédoniens de sécurité sociale (décret n° 2002-1371 du 19 novembre 2002) pour bénéficier du tiers payant dans les hôpitaux de Nouvelle-Calédonie. Le champ d'application territorial et personnel de cet accord ne concerne en effet que les travailleurs exerçants ou ayant exercé une activité salariée ou non salariée sur le territoire de la France métropolitaine ou des départements d'outre-mer ainsi que les personnes assurées d'un des régimes métropolitains de sécurité sociale et leurs ayants droit. Les Français du Vanuatu adhérents à la CFE relèvent de l'Assurance volontaire maladie-maternité gérée par la CFE indépendamment du régime métropolitain d'Assurance-maladie. L'Assurance volontaire maladie-maternité de la CFE permet bien d'assurer une couverture comparable à l'Assurance-maladie du régime métropolitain pour les soins reçus à l'étranger et lors de séjours temporaires en France mais elle ne permet pas à ces adhérents de relever du régime métropolitain d'Assurance-maladie. Seul un accord entre la Nouvelle-Calédonie, qui dispose d'un régime de sécurité sociale distinct du régime métropolitain, et le Vanuatu pourrait permettre d'appliquer un tiers payant aux Français du Vanuatu adhérents à la CFE dans les hôpitaux de Nouvelle-Calédonie. Par ailleurs, un nouveau conventionnement entre la CFE et un hôpital calédonien n'est pas envisagé à ce stade du fait du volume faible d'hospitalisations de ses adhérents en Nouvelle-Calédonie.
