@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231008635
+
+- Question : [SEQ231008635](seq231008635.md) — Efficacité du numéro 3018
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2023-11-09, page 6345*
+
+Le ministère de l'éducation nationale et de la jeunesse a fait de la lutte contre le harcèlement en milieu scolaire la grande cause de l'année scolaire 2023-2024 et pilote, dans ce contexte, avec la Première ministre, le plan interministériel annoncé le 27 septembre 2023. Ce plan prévoit, dans un souci de simplification pour les élèves et leurs parents, un numéro unique de signalement pour toutes les situations de harcèlement et de cyberharcèlement entre élèves, le 3018, déjà connu du grand public. Cette ligne d'écoute est opérée depuis quinze ans par l'association E-Enfance, partenaire du ministère de l'éducation nationale et de la jeunesse. Les appelants, qui peuvent être victimes, témoins ou auteurs de harcèlement, sont accueillis par un psychologue ou un juriste. Le 3018 instruit chaque signalement reçu pour déterminer si les faits sont susceptibles d'être constitutifs de harcèlement ou de cyberharcèlement entre élèves. Une transmission est alors effectuée aux référents harcèlement de l'éducation nationale par l'intermédiaire d'une application sécurisée, et le cas échéant, auprès des réseaux sociaux concernés en vue d'obtenir le retrait des contenus illicites. D'autres actions peuvent être entreprises, telles qu'un signalement auprès de Pharos ou encore une orientation auprès des maisons des adolescents pour un suivi psychologique. Dès l'annonce du numéro unique, un visuel a été mis à la disposition des personnels sur la plateforme Phare. Une large communication en sera faite également à l'occasion de la journée nationale de lutte contre le harcèlement, le 9 novembre 2023, et de la préparation du prix Non au harcèlement. Ainsi, le Gouvernement met tout en oeuvre pour faire connaître cette plateforme d'appels unique auprès de ses publics.
