@@ -236,45 +236,25 @@ A
 
 |
 
-Direction départementale de l'équipement d'Indre-et-Loire
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES D'INDRE-ET-LOIRE
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification de l'emploi
+Nombre d'emplois |
 
-|
+Nombre de points (IM) par emploi |
 
-NOMBRE
+Adjoint au chef de service Habitat Construction-service Habitat Construction |
 
-d'emplois
+A |
 
-|
+1 |
 
-NOMBRE DE POINTS (IM)
-
-par emploi
-
-|
-
-Membre du pôle de compétence interministériel de la politique de la ville, chargé de mission
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
+30 |
 
 Direction départementale des territoires de l'Isère
 
@@ -777,3 +757,5 @@ Se reporter aux conditions d'application prévues à l'article 1 de l'arrêté d
 Conformément à l'article 1er de l'arrêté du 11 mai 2023 (NOR : TREK2312890A), la présente annexe est remplacée, à effet du 4 mai 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Loiret.
 
 Conformément à l'article 1er de l'arrêté du 20 juin 2023 (NOR : TREK2316871A), la présente annexe est remplacée, à effet du 1er mars 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Jura.
+
+Conformément à l'article 1 de l'arrêté du 26 octobre 2023 (NOR : TREK2328908A), la présente annexe est remplacée, à effet du 1er août 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires d'Indre-et-Loire.
