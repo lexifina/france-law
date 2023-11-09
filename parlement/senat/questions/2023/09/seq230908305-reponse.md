@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230908305
+
+- Question : [SEQ230908305](seq230908305.md) — Dérogation d'absence l'après-midi en petite section de maternelle
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2023-11-09, page 6344*
+
+La scolarisation de tous les élèves dès trois ans est un levier majeur en faveur de l'égalité des chances et de la réussite scolaire pour tous. Ainsi depuis la loi de 2019, tous les enfants qui atteignent l'âge de 3 ans au cours de l'année civile sont-ils soumis à l'obligation d'instruction à compter du jour fixé pour la rentrée scolaire de l'année civile concernée. Ils sont scolarisés la journée entière. L'école prend en compte les besoins physiologiques et le développement du jeune enfant offrant aux représentants légaux la possibilité d'un aménagement à l'obligation d'assiduité. Cet aménagement dérogatoire porte sur les heures de classe prévues l'après-midi en classe de petite section (l'article R.131-1-1 du code de l'éducation). Le temps de sieste ou de repos, proposé et organisé au sein des écoles maternelles, répond à la diversité des besoins physiologiques des jeunes enfants. Il contribue à leur équilibre psychologique, moteur, affectif et cognitif. L'aménagement évoqué vise à prendre en compte la plus large diversité de ces besoins. La sieste ne revêt aucun caractère obligatoire. Si l'enfant scolarisé n'en a pas besoin, il reste sous la responsabilité du professeur des écoles qui lui propose une activité scolaire adaptée. Néanmoins, si un parent souhaite demander une dérogation à ce titre, il peut en faire la demande à la direction d'école dans le cadre prévu. Si, après échanges entre la famille et l'école, cette demande est validée, les aménagements mis en place seront régulièrement révisés au cours de l'année pour favoriser le temps de scolarisation de l'enfant jusqu'à un temps complet en préparation de l'entrée en moyenne section.
