@@ -6,18 +6,8 @@ Sapin pectiné, sapin de Vancouver, érable champêtre, érable plane, érable s
 
 NOTA :
 
-L'annexe du présent arrêté peut être consultée sur le site du ministère de l'agriculture et de la souveraineté alimentaire, à l'adresse :
+Conformément à l'article 1er de l'arrêté du 13 octobre 2023 (NOR : AGRT2326663A), trois régions de provenance du Pin à crochets sont créées sous les noms “ PUN500 Alpes ”, “ PUN601 Chaîne pyrénéenne ” et “ PUN602 Pyrénées Orientales ”.
 
-https://agriculture.gouv.fr/fournisseurs-especes-reglementees-provenances-et-materiels-de-base-forestiers
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 262 du 11 novembre 2023, texte n° 29 à l’adresse suivante :
 
-.
-
-Une copie de l'annexe peut également être demandée par courrier adressé au :
-
-- ministère de l'agriculture et de la souveraineté alimentaire, direction générale de la performance économique et environnementale des entreprises, sous-direction des filières forêt-bois, cheval et bioéconomie, bureau de la gestion durable de la forêt et du bois, 3, rue Barbet-de-Jouy, F, 75349 Paris 07 SP ; ou à
-
-- INRAE, unité de recherche " Ecosystèmes forestiers ", GeeDAAF, Domaine des Barres, F, 45290 Nogent-sur-Vernisson.
-
-Conformément à l’article 1er de l’arrêté du 24 octobre 2022 (NOR :AGRT2229338A), l’annexe 2 de l'arrêté du 24 octobre 2003 modifié, portant fixation des régions de provenance des essences forestières, est modifiée comme suit :
-
-La région de provenance du tilleul à grandes feuilles " TPL901 Nord-Est et montagnes " est étendue et change de nom pour devenir " TPL901 France ". La nouvelle carte des régions de provenance du tilleul à grandes feuilles figure en annexe 1 du présent arrêté.
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048385690?init=true&page=1&query=AGRT2326663A&searchField=ALL&tab_selection=all
