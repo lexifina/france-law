@@ -350,57 +350,53 @@ FORAGES ET MINES
 
 |
 
-27. Forages en profondeur, notamment les forages géothermiques, les forages pour l'approvisionnement en eau, à l'exception des forages pour étudier la stabilité des sols. |
+27. Forages en profondeur à l'exception des forages pour étudier la stabilité des sols. |
 
-a) Ouverture de travaux de forage pour l'exploitation de mines.
+Forages d'exploration ou d'exploitation d'hydrocarbures liquides ou gazeux. |
 
-b) Ouverture de travaux de forage pour l'exploration ou l'exploitation de gîtes géothermiques, à l'exception des gîtes géothermiques de minime importance.
+a) Forages pour l'approvisionnement en eau d'une profondeur supérieure ou égale à 50 mètres ;
 
-c) Ouverture de travaux de forage de recherches d'hydrocarbures liquides ou gazeux.
+b) Forages pour l'exploration de mines, à l'exception des forages isolés n'excédant pas 100 mètres de profondeur ;
 
-d) Ouverture de travaux de forage de puits pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle, à l'exception des ouvertures de travaux de puits de contrôle.
+c) Forages pour l'exploitation de mines, à l'exception des forages de surveillance isolés n'excédant pas 100 mètres de profondeur ;
 
-e) Ouverture de travaux d'exploration de mines par forages, isolés ou sous forme de campagnes de forages, à l'exclusion des forages de moins de 100 mètres de profondeur, des forages de reconnaissance géologique, géophysique ou minière, des forages de surveillance ou de contrôle géotechnique, géologique ou hydrogéologique des exploitations minières et des forages pour étudier la stabilité des sols.
+d) Forages pour l'exploration ou l'exploitation de gîtes géothermiques, à l'exception des gîtes géothermiques de minime importance ;
 
-|
+e) Forages de puits pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux, d'hydrogène, de produits chimiques à destination industrielle ;
 
-a) Forages pour l'approvisionnement en eau d'une profondeur supérieure ou égale à 50 m.
-
-b) Ouverture de travaux d'exploration de mines par forages de moins de 100 mètres de profondeur sous forme de campagne de forages.
-
-c) Ouverture de travaux de puits de contrôle pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux, de produits chimiques à destination industrielle.
-
-d) Autres forages en profondeur de plus de 100 m, à l'exclusion des forages géothermiques de minime importance au sens de l'article L. 112-3 du code minier
+f) Autres forages en profondeur de plus de 100 mètres, à l'exclusion des forages géothermiques de minime importance, au sens de l'article L. 112-3 du code minier.
 
 |
 
-28. Exploitation minière. |
+28. Exploration et exploitation minière. |
 
-a) Exploitation et travaux miniers à ciel ouvert :
+a) Exploitation et travaux miniers à ciel ouvert : travaux d'exploitation de mines, y compris ceux relevant de l'article L. 611-1 du code minier, de haldes et de terrils lorsque la surface totale dépasse 25 hectares ;
 
--ouverture de travaux d'exploitation de mines ;
-
--ouverture de travaux d'exploitation de haldes et terrils ;
-
--ouverture de travaux de recherches de mines, lorsqu'il est prévu que les travaux provoquent un terrassement total d'un volume supérieur à 20 000 mètres cubes ou entraînent la dissolution de certaines couches du sous-sol, ou doivent être effectués.
-
-b) Exploitation et travaux miniers souterrains :
-
--ouverture de travaux d'exploitation de mines ;
-
--ouverture de travaux de recherche et d'exploitation des gîtes géothermiques de plus de 200 mètres de profondeurs ou dont la puissance thermique récupérée dans l'ensemble de l'installation est supérieure ou égale à 500 kW ;
-
--mise en exploitation d'un stockage souterrain de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle ;
-
--essai d'injection et de soutirage effectués en nappe aquifère contenant ou en contact avec de l'eau potable ou qui peut être rendue potable réalisés avec un produit qui n'est pas reconnu sans danger pour l'alimentation humaine ou animale ;
-
--ouverture de travaux de création et d'aménagement de cavités souterraines naturelles ou artificielles ou de formations souterraines naturelles présentant les qualités requises pour constituer des réservoirs étanches ou susceptibles d'être rendus tels, en vue du stockage de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle ;
-
--essais d'injection et de soutirage de substances pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle, lorsque ceux-ci portent sur des quantités dépassant le seuil haut de la directive SEVESO.
+b) Exploitation et travaux miniers souterrains : travaux de création et d'aménagement de cavités souterraines naturelles ou artificielles ou de formations souterraines naturelles présentant les qualités requises pour constituer des réservoirs étanches ou susceptibles d'être rendus tels, en vue du stockage de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux, d'hydrogène ou de produits chimiques à destination industrielle.
 
 |
 
-Ouverture de travaux de recherche de mines non mentionnés précédemment, lorsqu'ils doivent être effectués sur des terrains humides ou des marais, à l'exception, en Guyane, de travaux de recherche exécutés, à terre, sans utilisation directe de l'énergie mécanique fournie par l'action d'une machine. |
+a) Travaux de recherche de mines à ciel ouvert :
+
+-lorsqu'ils doivent être effectués sur des terrains humides ou des marais à l'exception, en Guyane, de travaux de recherche exécutés, à terre, sans utilisation directe de l'énergie mécanique fournie par l'action d'une machine ;
+
+-lorsqu'il est prévu que les travaux provoquent un terrassement total d'un volume supérieur à 20 000 mètres cubes ;
+
+-lorsqu'ils entraînent la dissolution de certaines couches du sous-sol ;
+
+b) Travaux d'exploitation de mines à ciel ouvert, y compris ceux relevant de l'article L. 611-1 du code minier, de haldes et de terrils lorsque la surface totale est inférieure ou égale à 25 hectares ;
+
+c) Exploitation et travaux miniers souterrains :
+
+-travaux d'exploitation de mines ;
+
+-travaux de recherche et d'exploitation des gîtes géothermiques de plus de 200 mètres de profondeurs ou dont la puissance thermique récupérée dans l'ensemble de l'installation est supérieure ou égale à 500 kW ;
+
+-mise en exploitation d'un stockage souterrain de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux, d'hydrogène ou de produits chimiques à destination industrielle ;
+
+-essai d'injection et de soutirage effectué en nappe aquifère contenant ou en contact avec de l'eau potable ou qui peut être rendue potable, réalisé avec un produit qui n'est pas reconnu sans danger pour l'alimentation humaine ou animale.
+
+|
 
 Energie
 
@@ -607,7 +603,3 @@ Toute création ou extension.
 |
 
 (*) Etablissement : ensemble d'installations relevant d'un même exploitant sur un même site.
-
-NOTA :
-
-Conformément au I de l'article 4 du décret n° 2022-970 du 1er juillet 2022, ces dispositions sont applicables aux projets pour lesquels la première autorité compétente pour autoriser le projet ou l'autorité chargée de l'examen au cas par cas sont saisies à compter de la publication dudit décret.
