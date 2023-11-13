@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_23_129 — DELIBERATION 2023-129 M57 FIXATION DUREE REGLES AMORTISSEMENT BIENS VILLE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2023-11-13
+- Matière : 7.3 Finances locales/Emprunts
+- Objet : DELIBERATION 2023-129 M57 FIXATION DUREE REGLES AMORTISSEMENT BIENS VILLE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2023/a2b7194e74fdc9402aa4d176ba3e5a788b94def572cf6242529421767c2953b8.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/64b68865aef32eddd52abb90
