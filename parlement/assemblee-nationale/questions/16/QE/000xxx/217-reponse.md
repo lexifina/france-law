@@ -1,0 +1,9 @@
+# Réponse à la question n° 217
+
+- Question : [217](217.md) — Question n° 217 — Renforcer le contrôle de la pratique de la chasse avec arme à feu
+
+## Réponse
+
+*JO du 2023-11-14, page 10190*
+
+La sécurité à la chasse constitue une priorité pour le Gouvernement. En ce sens, un plan dédié a été publié en janvier 2023 visant à renforcer la sécurité des chasseurs et des autres usagers de la nature. Ce plan, comprenant quatorze mesures distinctes, repose sur trois axes : le renforcement de la formation des chasseurs, l'amélioration des règles de sécurité durant les actions de chasse et une meilleure information des usagers de la nature. Le renforcement des formations décennales des chasseurs à la sécurité est d'ors et déjà mis en oeuvre par les fédérations départementales de chasseurs. S'agissant de l'amélioration des règles de sécurité, un décret sanctionnant l'ivresse manifeste à la chasse d'une contravention de 5ème classe a été publié le 17 septembre dernier. Il permet aux services en charge de la police de l'environnement de verbaliser ceux qui ne respectent pas cette règle. Enfin, concernant la volonté de mieux informer les usagers de la nature, les informations sur les jours de chasse dans les forêts domaniales et sur les terrains du conservatoire du littoral sont désormais disponibles sur le portail de l'Institut national de l'information géographique et forestière (IGN). Les organismes de loisirs de nature peuvent dès à présent les intégrer dans leurs applications dédiées. Le plan prévoit également la standardisation des panneaux de signalisation des chasses collectives, l'affichage en mairie des jours chassés par les associations communales de chasse agréées et la création et le développement d'espaces de dialogue entre les chasseurs et les autres usagers de la nature.
