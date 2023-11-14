@@ -1,0 +1,9 @@
+# Réponse à la question n° 4358
+
+- Question : [4358](4358.md) — Question n° 4358 — Les hausses de prix des transports doivent cesser!
+
+## Réponse
+
+*JO du 2023-11-14, page 10311*
+
+Le Gouvernement est attentif à l'accessibilité du plus grand nombre aux transports publics et, en particulier, au transport ferroviaire. Comme l'ensemble des secteurs économiques, le ferroviaire doit faire face depuis 2022 à une forte hausse de ses coûts, notamment pour ce qui concerne les achats d'énergie. Cette situation a conduit la SNCF à procéder à une augmentation de ses tarifs. A la demande du Gouvernement, l'entreprise a toutefois mis en place un bouclier tarifaire pour limiter cette hausse. La majoration tarifaire 5 %) est ainsi inférieure à l'inflation constatée en 2022 (6,2 %) ainsi qu'à l'augmentation des coûts pour la circulation des TGV en 2023 (+13 %). Outre les tarifications sociales mises en œuvre à la demande des pouvoirs publics, la SNCF s'efforce également de maintenir des prix accessibles pour tous les voyageurs grâce à son système de tarification flexible et au développement de son offre OUIGO. Par ailleurs, les nouvelles cartes commerciales « Avantages » de SNCF Voyageurs lancées par l'entreprise en juin 2021 offrent, en plus d'une réduction de 30 % sur les trajets (60 % pour les enfants), des prix plafonnés disponibles jusqu'en dernière minute et les jours de grands départs. Ces offres, mises en œuvre en juin 2021, ont contribué à faire baisser les prix effectivement payés par les usagers de 7 % en 2022 par rapport à l'année 2019 (année référence pré-covid). Ce constat témoigne de la politique tarifaire différenciée conduite par la SNCF et de son appropriation croissante par des clients qui accèdent de plus en plus à des billets à prix réduit. Le Gouvernement maintiendra son effort pour garantir la meilleure compétitivité des tarifs ferroviaires dans la durée.
