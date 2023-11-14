@@ -1,0 +1,9 @@
+# Réponse à la question n° 9395
+
+- Question : [9395](9395.md) — Question n° 9395 — Suppression des délais d'appel
+
+## Réponse
+
+*JO du 2023-11-14, page 10241*
+
+Les délais pour conclure en appel, hors procédure à bref délai, sont prévus aux articles 908 à 910 du code de procédure civile. Ainsi, l'appelant principal dispose d'un délai de trois mois à compter de la déclaration d'appel pour conclure. L'intimé dispose également d'un délai de trois mois pour conclure à compter de la notification des conclusions de l'appelant. L'intimé à un appel incident ou provoqué dispose de ce même délai à compter de la notification des conclusions qui lui est faite. Le dépassement de ces délais est sanctionné, pour l'appelant principal, par la caducité de sa déclaration d'appel et, pour l'intimé ou l'appelant incident, par l'irrecevabilité de ses conclusions. Conscient de la complexité de la procédure d'appel, le ministère de la Justice travaille actuellement, en concertation avec les magistrats, les avocats et le monde universitaire, à une simplification de celle-ci. S'agissant de la question précise des règles de la péremption d'instance, si certaines cours d'appel sont, marginalement, contraintes à des audiencements à plus de deux ans entre l'ordonnance de clôture et l'audience des plaidoiries, cette circonstance est insusceptible d'entraîner la péremption de l'instance. En effet, la cour de cassation juge de manière constante que le délai de péremption ne court pas lorsque les parties ne sont tenues à aucune diligence (Civ. 2e, 12 févr. 2004, n° 01-17.565) : or, les parties ne sont plus tenues à des diligences dès lors que l'affaire est en état d'être jugée au moment où la date d'audience de plaidoiries a été fixée (Civ. 2e, 12 fév. 2004, n° 01-17.565 ; Civ. 2e , 23 sept. 2010, n° 09-16.776 ; Civ. 2e, 16 déc. 2016, n° 15-26.083).
