@@ -1,0 +1,9 @@
+# Réponse à la question n° 8698
+
+- Question : [8698](8698.md) — Question n° 8698 — Demande de chiffres relatifs aux déserts médicaux
+
+## Réponse
+
+*JO du 2023-11-14, page 10271*
+
+Les zones caractérisées par une offre de soins insuffisante ou par des difficultés dans l'accès aux soins, notamment pour les médecins généralistes, orthophonistes, infirmiers, masseurs-kinésithérapeutes, sages-femmes, et chirurgiens-dentistes, sont définies avec précision par les Agences régionales de santé (ARS) dans leurs arrêtés de zonages, conformément à l'article L. 1434-4 du code de la santé publique. Ce travail d'identification se fait par l'intermédiaire à la fois d'indicateurs "classiques" tels que l'évolution de la densité des professionnels de santé sur un territoire donné, mais aussi par la mobilisation d'indicateurs tels que l'Accessibilité potentielle localisée (APL) soit en tant qu'indicateur principal soit en tant qu'indicateur d'aide à la détermination du zonage. L'indicateur APL a pour objectif d'estimer la capacité des professionnels de santé présents sur un territoire à répondre aux besoins de la population. Il tient compte du nombre de professionnels de santé, de leur activité, du temps d'accès au professionnel et du recours aux soins des habitants par classe d'âge, pour tenir compte de leurs besoins différenciés. Il est également construit de manière à anticiper les évolutions démographiques et notamment les départs à la retraite des professionnels de santé. Les données, compilées et régulièrement mises à jour par la Caisse nationale d'assurance maladie (CNAM) et la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES), sont disponibles sur CartoSanté (atlasante.fr). Celles de l'indicateur APL, par profession, sont disponibles sur l'applicatif dédié de la DREES Accessibilité potentielle localisée - DREES (shinyapps.io).
