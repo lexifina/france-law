@@ -1,0 +1,9 @@
+# Réponse à la question n° 11630
+
+- Question : [11630](11630.md) — Question n° 11630 — Conditions de déblocage anticipé d'un plan d'épargne en entreprise
+
+## Réponse
+
+*JO du 2023-11-14, page 10319*
+
+Le déblocage anticipé des sommes bloquées pendant 5 ans sur un Plan d'épargne entreprise (PEE) n'est actuellement pas prévu pour permettre le financement des études supérieures des enfants des salariés bénéficiant de plan d'épargne salariale. Il faut rappeler que les cas de déblocage anticipé de l'épargne placée sur le PEE prévus à l'article R. 3324-22 du code du travail sont déjà nombreux et qu'une mesure de déblocage exceptionnel a été permise jusqu'à la fin de l'année 2022 par la loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat. Par ailleurs, trois nouveaux cas de déblocage pérennes vont être ajoutés suite à la demande des partenaires sociaux formulée dans le cadre de l'Accord national interprofessionnel (ANI) sur le partage de la valeur en entreprise conclu le 10 février 2023 et signé par le mouvement des entreprises de France, la confédération des petites et moyennes entreprises, l'union des entreprises de proximité, la Confédération française démocratique du travail, la Confédération française des travailleurs chrétiens, Force ouvrière et la Confédération française de l'encadrement, que le Gouvernement s'est engagé à transposer fidèlement. Cet accord prévoit le déblocage anticipé du PEE pour financer la rénovation énergétique de la résidence principale, l'achat d'un véhicule propre et l'activité de proche aidant. Le cas de déblocage pour financer les études supérieures des enfants ne figure pas dans les cas prévus par l'ANI et, à ce stade, de nouvelles adaptations du cadre réglementaire des déblocages anticipés du PEE ne sont pas prévues sans un consensus des partenaires sociaux sur la question.
