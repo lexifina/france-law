@@ -217,3 +217,7 @@ Marseille-Le Caire (Egypte) ;
 Nantes-Le Caire (Egypte) ;
 
 Lyon-Le Caire (Egypte).
+
+Jusqu'au 31 octobre 2028 :
+
+Nantes-Hurghada (Egypte).
