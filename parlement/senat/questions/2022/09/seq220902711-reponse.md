@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902711
+
+- Question : [SEQ220902711](seq220902711.md) — Loi pouvoir d'achat et revalorisation anticipée des retraites
+
+## Réponse
+
+*Travail, plein emploi et insertion, JO du 2023-11-16, page 6482*
+
+Les circonstances inflationnistes exceptionnelles de l'année 2022 ont conduit le Gouvernement à procéder à une revalorisation anticipée de l'ensemble des prestations sociales, dont les retraites, sur la base d'un taux fixé à 4%. Cette revalorisation anticipée a été appliquée directement aux pensions en cours de service, et indirectement aux pensions liquidées à compter du 1er juillet 2022, par le biais d'une réévaluation anticipée des taux de revalorisation appliqués aux salaires de référence. En effet, au régime général, la pension de retraite de base est calculée pour chaque assuré sur la base de la moyenne des salaires perçus au cours des 25 meilleures années de sa carrière ; pour les personnes liquidant leur retraite dans l'année en cours, un coefficient de revalorisation est appliqué aux salaires afin d'intégrer dans le calcul de la pension l'indexation sur l'inflation entre le moment où ces salaires ont été perçus et le moment où la retraite est liquidée. Ainsi, pour le calcul des pensions de retraite liquidées entre le 1er juillet 2022 et le 31 décembre 2022 au régime général, les salaires perçus en 2022 se voient appliquer un coefficient de 1,04, les salaires perçus en 2021 un coefficient de 1,051, les salaires perçus en 2020 un coefficient de 1,055, etc. Chaque année, ces coefficients sont réévalués pour tenir compte de la revalorisation annuelle des retraites prévue à l'article L. 161-25 du code de la sécurité sociale. Dès lors, les pensions liquidées après le 1er juillet 2022 sont revalorisées dès leur calcul sans qu'il soit nécessaire de les revaloriser une seconde fois.
