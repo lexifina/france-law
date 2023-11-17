@@ -434,6 +434,18 @@ F. II.-Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
+G.-Fiche d'opération standardisée BAR-EN-104 “ Fenêtre ou porte-fenêtre complète avec vitrage isolant ” :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+-l'existence des travaux ;
+
+-le nombre total de fenêtres, fenêtres de toitures, doubles fenêtres et portes-fenêtres installées ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
 H. Fiche d'opération standardisée BAR-EN-105 Isolation des toitures terrasses :
 
 Le contrôle de cette opération est réalisé après l'achèvement des travaux sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la résistance thermique, la pérennité ou la sécurité de l'isolation doit conduire à classer l'opération en non satisfaisant .

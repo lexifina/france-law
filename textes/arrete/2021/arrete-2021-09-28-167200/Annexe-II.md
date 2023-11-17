@@ -218,19 +218,29 @@ BAR-TH-125 (uniquement les installations collectives) |
 
 12,5 % |
 
-Sur le lieu des opérations |
+Sur le lieu des opérations
 
-Entre le 01/01/2024 et le 31/12/2024 |
+|
 
-25 % (en sus des contrôles sur le lieu, ci-dessus) |
+Entre le 1er juillet 2024 et le 31 décembre 2024
+
+|
+
+25 % (en sus des contrôles sur le lieu, ci-dessus)
+
+|
 
 Par contact |
 
 15 % |
 
-Sur le lieu des opérations |
+Sur le lieu des opérations
 
-A compter du 01/01/2025 |
+|
+
+A compter du 1er janvier 2025
+
+|
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -408,23 +418,33 @@ Par contact |
 
 BAT-TH-113 |
 
-12,5 % |
+12,5 %
+
+|
 
 Sur le lieu des opérations |
 
-Entre le 01/01/2024 et le 31/12/2024 |
+Entre le 1er juillet 2024 et le 31 décembre 2024
+
+|
 
 25 % (en sus des contrôles sur le lieu, ci-dessus) |
 
 Par contact |
 
-15 % |
+15 %
 
-Sur le lieu des opérations |
+|
 
-A compter du 01/01/2025 |
+Sur le lieu des opérations
 
-30 % (en sus des contrôles sur le lieu, ci-dessus) |
+|
+
+A compter du 1er janvier 2025 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus)
+
+|
 
 Par contact |
 
