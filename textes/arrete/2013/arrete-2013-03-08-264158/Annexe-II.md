@@ -24,6 +24,10 @@ Co = Cqualité, n. T.
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
+JORF du 17 novembre 2023, texte n° 25 (NOR : ENER2317825A) :
+
+" 2° A l'annexe 2, paragraphe " b) Compensation des déconnexions et limitations de puissance ", l'occurrence du terme : " Ci " est remplacée par : " Di " dans la formule de C0. "
+
 formule dans laquelle :
 
 -Cqualité, n est le coefficient de la qualité de la prévision pour l'année n ;
