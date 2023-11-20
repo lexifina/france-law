@@ -1,0 +1,10 @@
+# Département de Loire-Atlantique : arrêté — Décision de premier tirage au titre du contrat de prêt relatif au financement du programme de construction, reconstruction, rénovation et équipement des collèges - 21-11-2023
+
+- Collectivité : Département de Loire-Atlantique
+- SIREN : 224400028
+- Date : 2023-11-20
+- Nature : Autres décisions
+- Objet : Décision de premier tirage au titre du contrat de prêt relatif au financement du programme de construction, reconstruction, rénovation et équipement des collèges - 21-11-2023
+- Publié / affiché : 2023-11-21
+- Acte publié : https://www.loire-atlantique.fr/upload/docs/application/pdf/2023-11/pret10871decision.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6427ac9aa3f13bebbdad8f37
