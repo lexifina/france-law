@@ -1,0 +1,9 @@
+# Réponse à la question n° 5877
+
+- Question : [5877](5877.md) — Question n° 5877 — Arrêté fixant les règles applicables aux structures provisoires et démontables
+
+## Réponse
+
+*JO du 2023-11-21, page 10515*
+
+L'arrêté du 25 juillet 2022 fixant les règles de sécurité et les dispositions techniques applicables aux structures provisoires et démontables, qui a fait l'objet d'une large consultation notamment auprès des adhérents de l'AMF, vise, d'une part, la sécurité du public et, d'autre part, à identifier précisément la chaine de responsabilité dans la mise en œuvre de telles structures. Si des mesures contraignantes sont prévues pour les structures importantes, celles plus modestes font l'objet de dispositions allégées. S'agissant du cas présenté dans la question du parlementaire, la manifestation nécessite effectivement l'identification d'un organisateur, d'un installateur et d'un technicien compétent. Pour les petites structures (h supérieur à 3,5m et moins de 300 personnes), l'installateur rédige une attestation de bon montage dont le modèle est en annexe V de l'arrêté. Il s'agit de s'assurer que l'installateur respecte les préconisations du fabricant et les règles d'implantation (article 38). Puis l'organisateur fait appel à un technicien compétent pour la vérification du bon montage. L'annexe VI de l'arrêté encadre les tâches à accomplir. Ses compétences sont notamment appréciées par l'employeur et, le cas échéant, une formation ad hoc reste possible (article 43). Il n'existe aucune disposition dérogatoire aux mesures de vérification des structures. Cela étant, l'impact de ces mesures pour les petits ensembles démontables reste négligeable. Toutefois, elles imposent aux organisateurs de revoir leur processus organisationnel notamment dans le recueil des éléments de preuve de la conformité des structures installées.
