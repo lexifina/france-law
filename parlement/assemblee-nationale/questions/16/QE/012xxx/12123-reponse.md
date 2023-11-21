@@ -1,0 +1,9 @@
+# Réponse à la question n° 12123
+
+- Question : [12123](12123.md) — Question n° 12123 — Revalorisation des gardes champêtres
+
+## Réponse
+
+*JO du 2023-11-21, page 10482*
+
+Le Gouvernement porte une attention particulière à la carrière des gardes-champêtres, et plus globalement à celle des agents territoriaux relevant de la filière de la police municipale. Il a à ce titre engagé une réforme destinée à apporter des améliorations notables à la carrière et à la rémunération des policiers municipaux. Elle porte en particulier l'ambition d'une simplification et d'une revalorisation du régime indemnitaire des fonctionnaires de police municipale, dont les gardes-champêtres seront amenés à bénéficier. Ce volet de la réforme fait l'objet d'une concertation approfondie avec les organisations syndicales et les employeurs territoriaux. Par ailleurs, les gardes-champêtres doivent pouvoir bénéficier d'une formation de qualité. Toute modification de la durée de leur formation initiale, comme l'instauration éventuelle d'une formation continue obligatoire, nécessite au préalable un travail et une concertation approfondis avec les associations nationales d'élus locaux et le Centre national de la fonction publique territoriale, chargé de la formation des fonctionnaires territoriaux. Toute évolution devra par ailleurs être discutée dans le cadre du dialogue social, notamment au sein du Conseil supérieur de la fonction publique territoriale. Dans le même esprit, le Gouvernement a prévu de revaloriser la grille indiciaire et le déroulement de carrière des gardes-champêtres. La carrière des gardes-champêtres, classés dans la catégorie dite "C type", va ainsi être alignée sur celle des agents de police municipale, classés dans la catégorie dite "C+". Un projet de décret est en cours d'élaboration à cette fin.
