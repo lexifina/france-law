@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — Interventions économiques
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2023-11-21
+- Matière : 7.4 Interventions economiques
+- Objet : Interventions économiques
+- Transmis à la préfecture : 2023-11-21
+- Votants : 25
+- Pour : 17
+- Contre : 4
+- Abstentions : 4
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-69398.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
