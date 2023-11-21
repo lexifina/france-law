@@ -1,0 +1,9 @@
+# Réponse à la question n° 10404
+
+- Question : [10404](10404.md) — Question n° 10404 — Sanctions pénales à l'encontre des émeutiers de 2023
+
+## Réponse
+
+*JO du 2023-11-21, page 10539*
+
+Le 30 juin 2023, le garde des Sceaux a diffusé une circulaire relative au traitement des violences urbaines commises à la suite de la mort du jeune Nahel mortellement touché par le tir d'un policier, demandant une réponse judiciaire « rapide, ferme et systématique » à l'encontre des auteurs de ces infractions et complétée par une circulaire en date du 5 juillet 2023 relative au traitement des infractions commises par les mineurs dans le cadre des violences urbaines et aux conditions d'engagement de la responsabilité de leurs parents. Des statistiques nationales, ou portant sur le ressort d'une juridiction en particulier, sont présentées dans le rapport d'analyse des violences urbaines de fin juin 2023 élaboré conjointement par l'Inspection générale de la Justice et l'inspection générale de l'administration, et publié le 14 septembre 2023. Il n'est pas possible de répondre aux demandes d'éléments chiffrés sollicités concernant le département de l'Oise. D'une part, certaines de ces données telles que le nombre de personnes interpellées ne relèvent pas de la compétence du ministère de la Justice. D'autre part, les sources statistiques à notre disposition ne permettent pas d'isoler les condamnations prononcées en répression de faits commis sur un département en particulier. Sur la période du 27 juin au 7 juillet 2023, les parquets généraux ont informé la DACG du placement en garde à vue de 4.481 personnes dont 1319 mineurs. Le taux de réponse pénale aux affaires poursuivables a éé de 92 % et le taux de poursuite par défèrement de 90 % dont 60 % en comparution immédiate. 1.863 personnes ont fait l'objet de prononcé de peine. Le quantum ferme moyen de l'emprisonnement s'est élévé à 9,3 mois.
