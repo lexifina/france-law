@@ -1,0 +1,9 @@
+# Réponse à la question n° 3807
+
+- Question : [3807](3807.md) — Question n° 3807 — État d'abandon manifeste de la Porte de la Citadelle de Nancy
+
+## Réponse
+
+*JO du 2023-11-21, page 10490*
+
+Suite au rapport d'architecte alarmant sur le risque d'effondrement établi en juillet 2022, la direction régionale des finances publiques (DRFiP) Grand-Est a agi dans l'urgence pour protéger la population et a sollicité la Ville de Nancy qui a pris un arrêté de péril. Les démarches nécessaires ont immédiatement été mises en œuvre par la DRFiP afin d'obtenir des devis pour réaliser les travaux d'urgence (recherche des prestataires et obtention des crédits nécessaires,…). Aucun risque majeur pour la sécurité du bâtiment n'ayant été détecté à la mi-décembre 2022, une attestation d'absence de risque d'éboulement a été établie le 6 janvier dernier par la société en charge de l'expertise et des travaux. L'architecte en chef des monuments historiques (ACMH) a été sollicité afin d'être, pour ces travaux, maître d'œuvre pour le compte de l'État. Ceci étant, des travaux de réparation et de confortement de la charpente et de la toiture ont été effectués en début d'année 2023. Par ailleurs, les nombreux déplacements sur site (architectes des bâtiments de France, prestataires, services de l'État…) n'ont pas révélé la présence récente de personnes non habilitées sur les lieux. La question des squatteurs semble donc avoir été résolue. Des échanges réguliers ont lieu avec l'ensemble des acteurs concernés (ville, direction régionale des affaires culturelles, DRFiP, établissement public foncier de Lorraine, préfecture et direction départementale des territoires) et une réunion doit prochainement se tenir pour fixer le devenir de la porte, partie intégrante d'une opération plus générale de réhabilitation du site de l'ancien rectorat par la création de logements.
