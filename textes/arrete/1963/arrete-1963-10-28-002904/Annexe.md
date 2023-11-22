@@ -58,7 +58,7 @@ Ecole nationale supérieure des arts décoratifs
 
 |
 
-Ecole nationale supérieure d'art de Limoges-Aubusson
+Ecole nationale supérieure d'art et de design de Limoges
 
 |
 
@@ -282,7 +282,7 @@ Etablissement public du musée des Arts asiatiques Guimet
 
 |
 
-Etablissement public du musée du quai Branly - Jacques Chirac
+Etablissement public du musée du quai Branly-Jacques Chirac
 
 |
 
@@ -347,3 +347,7 @@ Centre artistique des rencontres internationales
 |
 
 |
+
+NOTA :
+
+Conformément au II de l'article 18 du décret n° 2023-1066 du 20 novembre 2023, ces dispositions peuvent être modifiées dans les formes requises pour leur modification antérieurement à l'entrée en vigueur dudit décret.

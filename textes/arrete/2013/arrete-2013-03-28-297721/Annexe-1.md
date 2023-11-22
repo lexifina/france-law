@@ -134,7 +134,7 @@ CT de l'Ecole nationale supérieure d'art de Dijon.
 
 CT de l'Ecole nationale supérieure d'art de la Villa Arson.
 
-CT de l'Ecole nationale supérieure d'art de Limoges-Aubusson.
+CT de l'Ecole nationale supérieure d'art et de design de Limoges.
 
 CT de l'Ecole nationale supérieure d'art de Nancy.
 
@@ -338,7 +338,7 @@ CHSCT de l'Ecole nationale supérieure d'art de Dijon.
 
 CHSCT de l'Ecole nationale supérieure d'art de la Villa Arson.
 
-CHSCT de l'Ecole nationale supérieure d'art de Limoges-Aubusson.
+CHSCT de l'Ecole nationale supérieure d'art et de design de Limoges.
 
 CHSCT de l'Ecole nationale supérieure d'art de Nancy.
 
@@ -389,3 +389,7 @@ CHSCT spécial de la direction interrégionale Nord Picardie.
 CHSCT spécial de la direction interrégionale Rhône-Alpes-Auvergne.
 
 CHSCT spécial du siège de l'Institut national de recherches archéologiques préventives.
+
+NOTA :
+
+Conformément au II de l'article 18 du décret n° 2023-1066 du 20 novembre 2023, ces dispositions peuvent être modifiées dans les formes requises pour leur modification antérieurement à l'entrée en vigueur dudit décret.

@@ -48,7 +48,7 @@ Institut national du patrimoine ;
 
 Ecole nationale supérieure d'art de Bourges ;
 
-Ecole nationale supérieure d'art de Limoges-Aubusson ;
+Ecole nationale supérieure d'art et de design de Limoges ;
 
 Ecole nationale supérieure d'art de Cergy-Pontoise ;
 
@@ -86,4 +86,8 @@ Conservatoire national supérieur d'art dramatique ;
 
 Etablissement public Cité de la céramique Sèvres Limoges ;
 
-Etablissement public Mobilier national - Manufactures nationales des Gobelins, de Beauvais et de la Savonnerie - Ateliers-conservatoires d'Alençon et du Puy-en-Velay.
+Etablissement public Mobilier national-Manufactures nationales des Gobelins, de Beauvais et de la Savonnerie-Ateliers-conservatoires d'Alençon et du Puy-en-Velay.
+
+NOTA :
+
+Conformément au II de l'article 18 du décret n° 2023-1066 du 20 novembre 2023, ces dispositions peuvent être modifiées dans les formes requises pour leur modification antérieurement à l'entrée en vigueur dudit décret.
