@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230506667
+
+- Question : [SEQ230506667](seq230506667.md) — Émissions réellement évitées par les énergies renouvelables électriques
+
+## Réponse
+
+*Transition énergétique, JO du 2023-11-23, page 6595*
+
+Selon les chiffres du groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) repris par l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME), les différentes énergies renouvelables présentent un taux d'émission de gaz à effet de serre en analyse de cycle de vie (ACV) bien en-deçà des énergies thermiques avec respectivement 48gCO2/kWh pour le photovoltaïque, 18gCO2/kWh pour la biomasse, 14,8g CO2/kWh pour l'éolien en mer, 12,7g CO2/kWh pour l'éolien terrestre et 4g CO2/kWh pour l'hydroélectricité, contre 1001g CO2/kWh pour le charbon, 840g CO2/kWh pour le pétrole et 469g CO2/kWh pour le gaz. De plus, en se substituant majoritairement aux énergies fossiles compte tenu de leur coût de production plus faible, ces énergies bas-carbone apportent une contribution essentielle à la lutte contre le changement climatique. RTE a ainsi montré qu'en 2019, le solaire et l'éolien ont permis d'éviter l'émission de 22 millions de tonnes de CO2 : 5 Mt en France et 17 Mt dans les autres pays européens [1]. Selon le rapport « Futurs énergétiques 2050 » de RTE, la consommation française d'électricité doit augmenter de 15 à 20 % d'ici 2035. À cet horizon temporel, seules les énergies renouvelables pourront permettre de répondre à cette demande. C'est pourquoi le Président de la République a annoncé dans son discours de Belfort, l'importance d'un développement massif des énergies renouvelables, en parallèle d'un programme de construction de nouveaux réacteurs nucléaires. [1] https://www.concerte.fr/system/files/concertation/Note%20Bilans%20CO2%20V3.pdf
