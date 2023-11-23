@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607061
+
+- Question : [SEQ230607061](seq230607061.md) — Compétences des conseils consulaires en matière de visa
+
+## Réponse
+
+*Commerce extérieur, attractivité et Français de l'étranger, JO du 2023-11-23, page 6570*
+
+Aux termes du premier alinéa de l'article 3 de la loi n° 2013-659 du 22 juillet 2013 relative à la représentation des Français établis hors de France, un conseil consulaire est : « chargé de formuler des avis sur les questions consulaires ou d'intérêt général, notamment culturel, éducatif, économique et social, concernant les Français établis dans la circonscription. » Le domaine de compétence de cette instance est ensuite précisé au deuxième alinéa, qui stipule que : « Les conseils consulaires peuvent être consultés sur toute question concernant les Français établis dans la circonscription et relative à la protection sociale et à l'action sociale, à l'emploi, à la formation professionnelle et à l'apprentissage, à l'enseignement français à l'étranger et à la sécurité. Ils peuvent également être consultés sur les conditions d'exercice du mandat de conseiller des Français de l'étranger. » L'activité consulaire consacrée au recueil et à l'instruction des demandes de visas est par nature exclusivement tournée vers un public étranger. Cette thématique apparait manifestement hors du champ de compétence des conseils consulaires dans la mesure où, d'après les dispositions précitées, elle ne concerne pas « les Français établis dans la circonscription ». S'agissant des situations dans lesquelles des ressortissants français doivent obtenir des visas pour eux-mêmes ou des demandes de visa déposées par des conjoints de Français et leur famille, elles font, chaque fois que cela est possible, l'objet d'un traitement prioritaire de la part de nos services consulaires (accès aux rendez-vous ou dépôt sans rendez-vous, traitement spécifique de la demande).
