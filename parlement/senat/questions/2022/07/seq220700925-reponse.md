@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700925
+
+- Question : [SEQ220700925](seq220700925.md) — Accessibilité des données des organismes complémentaires d'assurance maladie
+
+## Réponse
+
+*Santé et prévention, JO du 2023-11-23, page 6591*
+
+L'Etat dispose de données annuelles sur les dispositifs d'accès aux soins, ainsi que de données issues d'études ponctuelles élaborées par ses services statistiques. La loi de financement de la sécurité sociale pour 2009 (article 12 modifiant l'article L.862-7 du Code de la Sécurité sociale), a chargé le Gouvernement d'établir, chaque année, à destination du Parlement, et de rendre public, un rapport présentant la situation financière des organismes d'assurance complémentaire en santé qui ont acquitté la taxe de solidarité additionnelle aux cotisations d'assurance maladie complémentaire (TSA) auprès du Fonds complémentaire santé solidaire (CSS). Ce rapport, élaboré par la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES), présente les résultats d'une année et les compare à ceux des années précédentes. Ceux-ci s'appuient principalement sur des données recueillies par l'Autorité de contrôle prudentiel et de régulation (ACPR) et par l'Union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF - Caisse nationale). Les données utilisées pour ce rapport et transmises par les organismes complémentaires sont en libre accès sur le site de la DREES, de manière agrégée. En complément, un rapport d'activité annuel est établi par les gestionnaires de la Complémentaire Santé Solidaire (C2S). Enfin, des études ponctuelles sont demandées par le Gouvernement pour vérifier la bonne mise en oeuvre de ces dispositifs. Ainsi, la DREES a conduit une étude qualitative sur le recours et le non-recours à la C2S publiée sur son site en mars 2023.
