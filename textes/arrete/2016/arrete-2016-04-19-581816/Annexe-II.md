@@ -72,6 +72,8 @@ Automatique |
 
 27 h |
 
+- |
+
 24 h |
 
 - |
@@ -80,7 +82,7 @@ Automatique |
 
 30 h |
 
-6h |
+6 h |
 
 16 h |
 
@@ -166,9 +168,9 @@ Module NM-6 (Module National Machine au niveau de direction) |
 
 Mathématiques |
 
-9 h |
+6 h |
 
-15 h |
+18 h |
 
 - |
 
@@ -208,9 +210,9 @@ Total module NM-6 |
 
 84 h |
 
-TOTAL FORMATION " CHEF MECANICIEN "
+TOTAL FORMATION " CHEF MÉCANICIEN "
 
-HORS FORMATIONS SPECIFIQUES (évaluations comprises) |
+HORS FORMATIONS SPÉCIFIQUES (évaluations comprises) |
 
 418 h |
 
@@ -224,7 +226,7 @@ Total formations spécifiques |
 
 16 h |
 
-TOTAL FORMATION " CHEF MECANICIEN " (*) |
+TOTAL FORMATION " CHEF MÉCANICIEN " (*) |
 
 434 h |
 
@@ -234,19 +236,19 @@ TOTAL FORMATION " CHEF MECANICIEN " (*) |
 
 Recommandations
 
-Un cours (noté " C " dans les tableaux) désigne une action de formation en présence d'un enseignant et d'élèves. Sa réalisation devrait se faire dans une salle de classe sans limitation du nombre d'élève. Une partie du cours pouvant aller jusqu'à 50 % de volume horaire peut éventuellement être réalisée sans présence d'enseignant et hors de la salle de classe à l'aide de techniques de formation en ligne. Toutefois les volumes horaires effectués par ces méthodes devraient apparaître dans les emplois du temps des élèves et être répartis de façon à représenter au maximum 50 % du volume horaire effectué dans la matière durant une période d'une semaine.
+Un cours (noté “C” dans les tableaux) désigne une action de formation en présence d'un enseignant et d'élèves. Sa réalisation devrait se faire dans une salle de classe sans limitation du nombre d'élève. Une partie du cours pouvant aller jusqu'à 50 % de volume horaire peut éventuellement être réalisée sans présence d'enseignant et hors de la salle de classe à l'aide de techniques de formation en ligne. Toutefois les volumes horaires effectués par ces méthodes devraient apparaître dans les emplois du temps des élèves et être répartis de façon à représenter au maximum 50 % du volume horaire effectué dans la matière durant une période d'une semaine.
 
 Un travail dirigé (noté TD dans les tableaux) désigne une action de formation en présence d'un enseignant et d'élèves. Sa réalisation devrait se faire dans une salle de classe avec limitation du nombre d'élève à 16. Les travaux dirigés ne peuvent être réalisés sans la présence d'enseignant.
 
-Une séance de travaux pratiques (noté " TP " dans les tableaux) désigne une action de formation ayant pour objet la mise en pratique des compétences enseignées aux élèves. Sa réalisation devrait se faire dans une salle de classe équipée en conséquence et avec limitation du nombre d'élève à 12. Les travaux pratiques ne peuvent être réalisés sans la présence d'enseignant.
+Une séance de travaux pratiques (noté “TP” dans les tableaux) désigne une action de formation ayant pour objet la mise en pratique des compétences enseignées aux élèves. Sa réalisation devrait se faire dans une salle de classe équipée en conséquence et avec limitation du nombre d'élève à 12. Les travaux pratiques ne peuvent être réalisés sans la présence d'enseignant.
 
-Une séance de simulateur (noté " S " dans les tableaux) désigne une action de formation ayant pour objet la mise en pratique des compétences enseignées aux élèves à l'aide d'un logiciel de simulation. Sa réalisation devrait se faire dans une salle de classe équipée en conséquence avec un maximum de deux élève par station de simulation et un maximum de 6 stations élève par enseignant. Les séances de simulateur ne peuvent être réalisées sans la présence d'enseignant.
+Une séance de simulateur (noté “S” dans les tableaux) désigne une action de formation ayant pour objet la mise en pratique des compétences enseignées aux élèves à l'aide d'un logiciel de simulation. Sa réalisation devrait se faire dans une salle de classe équipée en conséquence avec un maximum de deux élèves par station de simulation et un maximum de 6 stations élève par enseignant. Les séances de simulateur ne peuvent être réalisées sans la présence d'enseignant.
 
 MODULE M1-6
 
 MÉCANIQUE NAVALE AU NIVEAU DE DIRECTION
 
-(Durée : 55 heures) |
+(Durée : 55 heures)
 
 SIMULATEUR MACHINE
 
@@ -262,35 +264,37 @@ Fonctions : mécanique navale au niveau de direction
 
 Compétences :
 
--gérer le fonctionnement des machines de propulsion) ;
+- gérer le fonctionnement des machines de propulsion ;
 
--planifier et programmer les opérations ;
+- planifier et programmer les opérations ;
 
--faire fonctionner et surveiller l'appareil propulsif et les machines auxiliaires, évaluer leur performance et assurer leur sécurité ;
+- faire fonctionner et surveiller l'appareil propulsif et les machines auxiliaires, évaluer leur performance et assurer leur sécurité ;
 
--gérer les opérations liées au combustible au graissage et au ballast.
+- gérer les opérations liées au combustible au graissage et au ballast.
 
 Fonction : électricité, électronique et systèmes de commande au niveau de direction
 
 Compétences :
 
--gérer le fonctionnement du matériel de commande électrique et électronique ;
+- gérer le fonctionnement du matériel de commande électrique et électronique ;
 
--gérer le dépannage et la remise en état de marche du matériel de commande électrique et électronique.
+- gérer le dépannage et la remise en état de marche du matériel de commande électrique et électronique.
 
 Fonction : entretien et réparation au niveau de direction
 
 Compétence :
 
--détecter et identifier la cause des défauts de fonctionnement des machines et remédier aux pannes.
+- détecter et identifier la cause des défauts de fonctionnement des machines et remédier aux pannes.
 
 Fonction : contrôle de l'exploitation du navire et assistance aux personnes à bord au niveau de direction
 
--contrôler l'assiette, la stabilité et les contraintes ;
+Compétences :
 
--surveiller et contrôler le respect de la réglementation et des mesures visant à assurer la sauvegarde de la vie humaine en mer, la sûreté et la protection du milieu marin ;
+- contrôler l'assiette, la stabilité et les contraintes ;
 
--faire preuve d'aptitude à l'exercice de l'autorité et à la gestion.
+- surveiller et contrôler le respect de la réglementation et des mesures visant à assurer la sauvegarde de la vie humaine en mer, la sûreté et la protection du milieu marin ;
+
+- faire preuve d'aptitude à l'exercice de l'autorité et à la gestion.
 
 1. Simulateur machine |
 
@@ -312,9 +316,9 @@ Pratiquer la mise en route des moteurs principaux au fuel.
 
 Pratiquer le passage des moteurs au GNL :
 
--disposition de l'alimentation en gaz,
+- disposition de l'alimentation en gaz ;
 
--changement de combustible. |
+- changement de combustible. |
 
 GESTION DES OPÉRATIONS ET DES SITUATIONS D'URGENCE
 
@@ -326,19 +330,19 @@ Références STCW :
 
 Tableau A-III/2
 
-Fonctions : mécanique navale au niveau de direction
+Fonction : mécanique navale au niveau de direction
 
-Compétences :
+Compétence :
 
--gérer les opérations liées au combustible ; au graissage et au ballast.
+- gérer les opérations liées au combustible ; au graissage et au ballast.
 
 Fonction : contrôle de l'exploitation du navire et assistance aux personnes à bord au niveau de direction
 
 Compétences :
 
--maintenir la sécurité et la sûreté du navire, de l'équipage et des passagers et veiller à ce que les engins de sauvetage, les dispositifs de lutte contre l'incendie et autres systèmes de sécurité soient en état de fonctionnement ;
+- maintenir la sécurité et la sûreté du navire, de l'équipage et des passagers et veiller à ce que les engins de sauvetage, les dispositifs de lutte contre l'incendie et autres systèmes de sécurité soient en état de fonctionnement ;
 
--faire preuve d'aptitude à l'exercice de l'autorité et à la gestion.
+- faire preuve d'aptitude à l'exercice de l'autorité et à la gestion.
 
 1. Situations d'urgence |
 
@@ -362,11 +366,11 @@ Démontrer que les procédures et instructions correspondantes sont rédigées e
 
 En particulier :
 
--les opérations d'arrivée au port et d'appareillage ;
+- les opérations d'arrivée au port et d'appareillage ;
 
--les opérations en cas d'urgence (incendie, avarie sur la propulsion)
+- les opérations en cas d'urgence (incendie, avarie sur la propulsion) ;
 
--les opérations de secours quand les automatismes ne répondent plus normalement : fonctionnements en mode dégradé. |
+- les opérations de secours quand les automatismes ne répondent plus normalement : fonctionnements en mode dégradé. |
 
 2 C |
 
@@ -400,11 +404,11 @@ Références STCW :
 
 Tableau A-III/2
 
-Fonctions : mécanique navale au niveau de direction
+Fonction : mécanique navale au niveau de direction
 
 Compétence :
 
--planifier et programmer les opérations.
+- planifier et programmer les opérations.
 
 1. Thermodynamique et transmission thermique |
 
@@ -420,15 +424,15 @@ Combustion |
 
 Démontrer la connaissance et la compréhension :
 
--de l'équation de combustion,
+- de l'équation de combustion ;
 
--de la composition du fuel,
+- de la composition du fuel ;
 
--du ratio air/ combustible,
+- du ratio air/combustible ;
 
--de l'analyse volumétrique des produits de la combustion,
+- de l'analyse volumétrique des produits de la combustion ;
 
--des valeurs calorifiques. |
+- des valeurs calorifiques. |
 
 3 C |
 
@@ -436,13 +440,13 @@ Transfert thermique |
 
 Démontrer la connaissance et la compréhension :
 
--des températures d'interface,
+- des températures d'interface ;
 
--de la loi de Stefan-Boltzmann (Rayonnement thermique),
+- de la loi de Stefan-Boltzmann (Rayonnement thermique) ;
 
--des échangeurs de chaleur à courant parallèle (méthodique ou anti-méthodique) ou à courant croisés,
+- des échangeurs de chaleur à courant parallèle (méthodique ou anti-méthodique) ou à courant croisés ;
 
--de la moyenne logarithmique des différences de températures (LMTD). |
+- de la moyenne logarithmique des différences de températures (LMTD). |
 
 2. Mécanique des fluides |
 
@@ -458,17 +462,17 @@ Connaissances, compréhension et aptitude |
 
 Démontrer la connaissance et la compréhension :
 
--de l'équation de Bernoulli,
+- de l'équation de Bernoulli ;
 
--de la viscosité dynamique et cinématique,
+- de la viscosité dynamique et cinématique ;
 
--du nombre de Reynolds,
+- du nombre de Reynolds ;
 
--des pertes en charges en ligne et dans les installations,
+- des pertes en charges en ligne et dans les installations ;
 
--de la formule de Darcy,
+- de la formule de Darcy ;
 
--des pompes centrifuges. |
+- des pompes centrifuges. |
 
 3. Résistance des matériaux |
 
@@ -496,21 +500,19 @@ Effort et déformation |
 
 Démontrer la connaissance et la compréhension :
 
--de la relation entre effort et déformation dans un cylindre fin,
+- de la relation entre effort et déformation dans un cylindre fin ;
 
--des efforts thermiques,
+- des efforts thermiques ;
 
--des efforts dans une barre composite,
+- des efforts dans une barre composite ;
 
--des efforts du cercle de Mohr et des principaux efforts et déformations. |
+- des efforts du cercle de Mohr et des principaux efforts et déformations. |
 
 MODULE M2-6
 
-ÉLECTROTECHNIQUE, ÉLECTRONIQUE ET SYSTÈMES
+ÉLECTROTECHNIQUE, ÉLECTRONIQUE ET SYSTÈMES DE COMMANDE AU NIVEAU DE DIRECTION
 
-DE COMMANDE AU NIVEAU DE DIRECTION
-
-(Durée : 119 heures) |
+(Durée : 119 heures)
 
 CONDUITE D'UNE INSTALLATION DE PROPULSION ÉLECTRIQUE
 
@@ -526,9 +528,9 @@ Fonction : électricité, électronique et systèmes de commande au niveau de di
 
 Compétences :
 
--gérer le fonctionnement du matériel de commande électrique et électronique ;
+- gérer le fonctionnement du matériel de commande électrique et électronique ;
 
--gérer le dépannage et la remise en état de marche du matériel de commande électrique et électronique.
+- gérer le dépannage et la remise en état de marche du matériel de commande électrique et électronique.
 
 1. Simulateur de machine de navire à propulsion électrique |
 
@@ -554,7 +556,7 @@ AUTOMATIQUE
 
 Durée : 51 heures
 
-(Cours : 27 heures ; TP ou TD : 24 heures)
+(Cours : 27 heures ; TP : 24 heures)
 
 Références STCW :
 
@@ -564,9 +566,9 @@ Fonction : électricité, électronique et systèmes de commande au niveau de di
 
 Compétences :
 
--gérer le fonctionnement du matériel de commande électrique et électronique ;
+- gérer le fonctionnement du matériel de commande électrique et électronique ;
 
--gérer le dépannage et la remise en état de marche du matériel de commande électrique et électronique.
+- gérer le dépannage et la remise en état de marche du matériel de commande électrique et électronique.
 
 1. Informatique industrielle |
 
@@ -580,7 +582,7 @@ Connaissances, compréhension et aptitude |
 
 +
 
-10 TP/ TD |
+10 TP |
 
 Faire fonctionner le matériel de commande électrique et électronique |
 
@@ -598,11 +600,11 @@ Compétences |
 
 Connaissances, compréhension et aptitude |
 
-20 C
+17 C
 
 +
 
-20 TP/ TD |
+14 TP |
 
 Faire fonctionner le matériel de commande électrique et électronique. |
 
@@ -612,7 +614,7 @@ Savoir choisir un régulateur en fonction des contraintes d'une application.
 
 Identifier les caractéristiques d'un système (Stable, Instable, 1er, 2ème ordre) et construire son modèle associé dans le domaine de Laplace.
 
-Étoffer les méthodes de calculs des paramètres PID, en sus de Broïda et Ziegler Nichols (Cohen Coon, Chien Hrones Reswick …).
+Étoffer les méthodes de calculs des paramètres PID, en sus de Broïda et Ziegler Nichols (Cohen Coon, Chien Hrones Reswick…).
 
 Améliorer les performances d'une boucle de régulation avec des fonctions avancées (Cascade, Feed Forward, Lead Lag).
 
@@ -638,9 +640,9 @@ Fonction : électricité, électronique et systèmes de commande au niveau de di
 
 Compétences :
 
--gérer le fonctionnement du matériel de commande électrique et électronique ;
+- gérer le fonctionnement du matériel de commande électrique et électronique ;
 
--gérer le dépannage et la remise en état de marche du matériel de commande électrique et électronique.
+- gérer le dépannage et la remise en état de marche du matériel de commande électrique et électronique.
 
 1. Électrotechnique, électronique |
 
@@ -666,11 +668,11 @@ Identifier les calculs nécessaires pour le bon fonctionnement d'un moteur à pr
 
 Identifier et réparer les différents éléments de la chaîne de propulsion électrique :
 
--analyse du fonctionnement (quoi tester et comment),
+- analyse du fonctionnement (quoi tester et comment) ;
 
--réparation des éléments défectueux,
+- réparation des éléments défectueux ;
 
--envoi des bonnes informations au support.
+- envoi des bonnes informations au support.
 
 Expliquer la mise en œuvre d'une propulsion électrique. |
 
@@ -700,15 +702,13 @@ Répéter les diagnostics dépannage pour intervenir plus rapidement. |
 
 Étude des systèmes de contrôle commande sur une propulsion électrique |
 
-Comprendre et modifier des programmes. Re ́ aliser des ope ́ rations courantes sur un réseau informatique. Identifier les incidents de fonctionnement re ́ seau et savoir apporter une solution (mate ́ riel et logiciel). |
+Comprendre et modifier des programmes. Réaliser des opérations courantes sur un réseau informatique. Identifier les incidents de fonctionnement réseau et savoir apporter une solution (matériel et logiciel). |
 
 MODULE M3-6
 
-CONTRÔLE DE L'EXPLOITATION ET ASSISTANCE
+CONTRÔLE DE L'EXPLOITATION ET ASSISTANCE AUX PERSONNES À BORD AU NIVEAU DE DIRECTION
 
-AUX PERSONNES À BORD AU NIVEAU DE DIRECTION
-
-(Durée : 104 heures) |
+(Durée : 104 heures)
 
 CONSTRUCTION
 
@@ -726,7 +726,7 @@ Fonction : contrôle de l'exploitation du navire et assistance aux personnes à 
 
 Compétence :
 
--maintenir la sécurité et la sûreté du navire, de l'équipage et des passagers et veiller à ce que les engins de sauvetage, les dispositifs de lutte contre l'incendie et autres systèmes de sécurité soient en état de fonctionner.
+- maintenir la sécurité et la sûreté du navire, de l'équipage et des passagers et veiller à ce que les engins de sauvetage, les dispositifs de lutte contre l'incendie et autres systèmes de sécurité soient en état de fonctionner.
 
 1. Visite de coque et de structure |
 
@@ -746,11 +746,11 @@ Identifier le cadre réglementaire des visites de la coque et de la structure. |
 
 Planifier les visites :
 
--outils et équipements,
+- outils et équipements ;
 
--précautions de sécurité,
+- précautions de sécurité ;
 
--accès à la structure. |
+- accès à la structure. |
 
 1 C |
 
@@ -762,21 +762,21 @@ Réaliser des visites de la coque et de la structure afin d'évaluer la sécurit
 
 Décrire la structure des navires :
 
--efforts s'appliquant sur la poutre navire,
+- efforts s'appliquant sur la poutre navire ;
 
--éléments constitutifs de la structure,
+- éléments constitutifs de la structure ;
 
--répartitions des efforts au sein de la structure des navires. |
+- répartitions des efforts au sein de la structure des navires. |
 
 2 C |
 
 Identifier les défaillances et les avaries :
 
--différences entre défaillance et avarie,
+- différences entre défaillance et avarie ;
 
--causes des défaillances et/ ou des avaries,
+- causes des défaillances et/ ou des avaries ;
 
--types de défaillances et avaries. |
+- types de défaillances et avaries. |
 
 6 C |
 
@@ -786,19 +786,19 @@ Analyser et réaliser les réparations des défaillances et/ ou des avaries. |
 
 Lister les normes de qualité en matière de construction et de réparation de navires :
 
--qualification du personnel et des procédures,
+- qualification du personnel et des procédures ;
 
--matériaux,
+- matériaux ;
 
--coupage,
+- coupage ;
 
--fabrication,
+- fabrication ;
 
--alignement,
+- alignement ;
 
--détails du soudage,
+- détails du soudage ;
 
--réparations. |
+- réparations. |
 
 SÉCURITÉ ET SÉCURITÉ SANITAIRE
 
@@ -814,9 +814,9 @@ Fonction : contrôle de l'exploitation du navire et assistance aux personnes à 
 
 Compétences :
 
--surveiller et contrôler le respect de la réglementation et des mesures visant à assurer la sauvegarde de la vie humaine en mer, la sûreté et la protection du milieu marin ;
+- surveiller et contrôler le respect de la réglementation et des mesures visant à assurer la sauvegarde de la vie humaine en mer, la sûreté et la protection du milieu marin ;
 
--maintenir la sécurité et la sûreté du navire, de l'équipage et des passagers et veiller à ce que les engins de sauvetage, les dispositifs de lutte contre l'incendie et autres systèmes de sécurité soient en état de fonctionner.
+- maintenir la sécurité et la sûreté du navire, de l'équipage et des passagers et veiller à ce que les engins de sauvetage, les dispositifs de lutte contre l'incendie et autres systèmes de sécurité soient en état de fonctionner.
 
 1. Incendie |
 
@@ -988,7 +988,7 @@ Fonction : contrôle de l'exploitation du navire et assistance aux personnes à 
 
 Compétence :
 
--surveiller et contrôler le respect de la réglementation et des mesures visant à assurer la sauvegarde de la vie humaine en mer, la sûreté et la protection du milieu marin.
+- surveiller et contrôler le respect de la réglementation et des mesures visant à assurer la sauvegarde de la vie humaine en mer, la sûreté et la protection du milieu marin.
 
 1. Droit de la sécurité au travail |
 
@@ -1080,15 +1080,15 @@ Fonction : électricité, électronique et systèmes de commande au niveau de di
 
 Compétences :
 
--gérer le fonctionnement du matériel de commande électrique et électronique ;
+- gérer le fonctionnement du matériel de commande électrique et électronique ;
 
--gérer le dépannage et la remise en état de marche du matériel de commande électrique et électronique.
+- gérer le dépannage et la remise en état de marche du matériel de commande électrique et électronique.
 
 Fonction : entretien et réparation au niveau de direction
 
 Compétence :
 
--gérer des procédures sûres et efficaces d'entretien et de réparation.
+- gérer des procédures sûres et efficaces d'entretien et de réparation.
 
 1. Anglais Technique |
 
@@ -1100,27 +1100,27 @@ Connaissances, compréhension et aptitude |
 
 24 TD |
 
-Le vocabulaire technique relatif à la construction et réparation, études des spécifications du contrat :
+Le vocabulaire technique relatif à l'étude des spécifications du contrat :
 
--les caractéristiques générales de l'installation propulsive,
+- les caractéristiques générales de l'installation propulsive ;
 
--la description des appareils principaux et des auxiliaires et des circuits associés,
+- la description des appareils principaux et des auxiliaires et des circuits associés ;
 
--l'outillage, matériel de manutention de la cargaison et auxiliaires de pont,
+- l'outillage, matériel de manutention de la cargaison et auxiliaires de pont ;
 
--les appareils et montages électriques, les automatismes,
+- les appareils et montages électriques, les automatismes ;
 
--les spécifications de cale sèche. |
+- les spécifications de cale sèche.
 
-Mémoriser le vocabulaire technique et les planches de description de construction rédigées en langue anglaise.
+Le vocabulaire technique concernant la gestion de la salle des machines, l'entretien des moteurs, les pannes et les réparations. |
 
-Identifier les principes fondamentaux de la construction.
+Utiliser un glossaire français anglais de la construction navale.
 
-Identifier les spécifications de la construction.
+Analyser des documents de construction - étude d'un cahier des charges.
 
 Planifier l'entretien, y compris les vérifications réglementaires et celles effectuées par les sociétés de classification.
 
-Discuter et expliquer les principes de la communication efficace à bord et à terre (ship to shore). |
+Ecrire un compte rendu, rédiger un rapport technique, faire une présentation individuelle. |
 
 2. Anglais commercial |
 
@@ -1132,27 +1132,29 @@ Connaissances, compréhension et aptitude |
 
 24 C |
 
-Contrats d'affrètement
+Contrats d'affrètement.
 
-Les connaissements
+Connaissements.
 
-Assurance maritime (corps, facultés, P & I)
+Assurance maritime (corps, facultés, P & I).
 
-Pollution
+Pollution.
 
-Avaries communes
+Avaries communes.
 
-limitation de la responsabilité en matière de créances maritimes (LLMC)
+Assistance (LOF).
 
-Assistance (LOF) |
+Planification et gestion de projets, management d'équipage, notions d'évaluation et de gestion des risques. |
 
-Mémoriser le vocabulaire commercial du contrat rédigé en langue anglaise. |
+Mémoriser le vocabulaire commercial du contrat rédigé en langue anglaise.
+
+Etudier et analyser des rapports d'avaries. |
 
 MODULE M4-6
 
 ENTRETIEN ET RÉPARATION AU NIVEAU DE DIRECTION
 
-(Durée : 56 heures) |
+(Durée : 56 heures)
 
 GESTION DE PROJET, L'ARRÊT TECHNIQUE
 
@@ -1166,11 +1168,11 @@ Tableau A-III/2
 
 Fonction : entretien et réparation au niveau de direction
 
-Compétence :
+Compétences :
 
--gérer des procédures sûres et efficaces d'entretien et de réparation ;
+- gérer des procédures sûres et efficaces d'entretien et de réparation ;
 
--garantir des pratiques de travail sûres.
+- garantir des pratiques de travail sûres.
 
 1. Gestion de projet, l'arrêté technique |
 
@@ -1186,7 +1188,9 @@ Connaissances, compréhension et aptitude |
 
 Réaliser les spécifications des travaux d'arrêt technique |
 
-2 C + 2 TD |
+2 C +
+
+2 TD |
 
 Analyser et démontrer la nécessité de la planification des travaux techniques et savoir utiliser des outils de planification |
 
@@ -1210,7 +1214,9 @@ Gérer la gestion des eaux et des huiles durant l'arrêt technique |
 
 Réaliser le suivi des travaux et des visites y compris les travaux de bassin |
 
-2 C + 2 TD |
+2 C +
+
+2 TD |
 
 Expérimenter les réunions de chantier |
 
@@ -1230,17 +1236,17 @@ Tableau A-III/2
 
 Fonction : entretien et réparation au niveau de direction
 
-Compétence :
+Compétences :
 
--gérer des procédures sûres et efficaces d'entretien et de réparation ;
+- gérer des procédures sûres et efficaces d'entretien et de réparation ;
 
--garantir des pratiques de travail sûre.
+- garantir des pratiques de travail sûre.
 
 Fonction : contrôle de l'exploitation du navire et assistance aux personnes à bord au niveau de direction
 
 Compétence :
 
--surveiller et contrôler le respect de la réglementation et des mesures visant à assurer la sauvegarde de la vie humaine en mer, la sûreté et la protection du milieu marin.
+- surveiller et contrôler le respect de la réglementation et des mesures visant à assurer la sauvegarde de la vie humaine en mer, la sûreté et la protection du milieu marin.
 
 1. Rapport technique et tenue des registres |
 
@@ -1292,11 +1298,11 @@ Rappel du cours de réglementation. |
 
 Démontrer que le navire dispose des certificats nécessaires et réglementaires :
 
--ascenseurs, habilitations électriques des personnels concernés, travaux en hauteur, manipulation des fluides frigo,
+- ascenseurs, habilitations électriques des personnels concernés, travaux en hauteur, manipulation des fluides frigo ;
 
--au titre de la MARPOL les certificats d'huile, de gestion des ordures,
+- au titre de la MARPOL les certificats d'huile, de gestion des ordures ;
 
--au titre de la SOLAS les certificats réglementaires.
+- au titre de la SOLAS les certificats réglementaires.
 
 Créer un récapitulatif et un tableau de suivi de tous ces certificats. |
 
@@ -1312,21 +1318,21 @@ Identifier les documents réglementaires à compléter régulièrement ou suivan
 
 Réaliser une rédaction type de ces, documents et registres références OMI :
 
--Oil Record Book dans MARPOL annexe 1 R17 chapitre 3 et appendice III chapitre 8,
+- Oil Record Book dans MARPOL annexe 1 R17 chapitre 3 et appendice III chapitre 8 ;
 
--Ballast water record book dans BWM section B règle B-2 et appendice II section E. |
+- Ballast water record book dans BWM section B règle B-2 et appendice II section E. |
 
 MODULE NM-6
 
 MODULE NATIONAL MACHINE AU NIVEAU DE DIRECTION
 
-(Durée : 84 heures) |
+(Durée : 84 heures)
 
 MATHÉMATIQUES
 
 Durée : 24 heures
 
-(Cours : 9 heures ; TD : 15 heures)
+(Cours : 6 heures ; TD : 18 heures)
 
 1. Développements limités |
 
@@ -1336,11 +1342,11 @@ Compétences |
 
 Connaissances, compréhension et aptitude |
 
-3 C
+1,5 C
 
 +
 
-5 TD |
+6,5 TD |
 
 Limites |
 
@@ -1366,11 +1372,11 @@ Compétences |
 
 Connaissances, compréhension et aptitude |
 
-3 C
+1,5 C
 
 +
 
-5 TD |
+6,5 TD |
 
 Équations du second degré à une inconnue |
 
@@ -1382,7 +1388,7 @@ Rappeler sur la résolution des équations différentielles linéaires du premie
 
 Résoudre des équations différentielles linéaires du second ordre à coefficients constants. |
 
-3. Intégrales doubles |
+3. Séries de Fourier |
 
 Durée |
 
@@ -1396,17 +1402,11 @@ Connaissances, compréhension et aptitude |
 
 5 TD |
 
-Intégrales |
+Séries de Fourier |
 
-Rappeler les intégrales simples.
+Calcul des coefficients (intégrales simples).
 
-Définir une intégrale double.
-
-Employer quelques changements de variables usuels. |
-
-Applications |
-
-Calculer des aires ou des moments d'inertie. |
+Applications. |
 
 Remarque : il est souhaitable que ce cours soit placé en tout début de formation.
 
@@ -1418,13 +1418,13 @@ Durée : 12 heures
 
 Chaque candidat rédige un mémoire professionnel sur une thématique liée au navire marchand et en relation avec son expérience maritime. Ce travail personnel est réalisé au cours de l'année scolaire en dehors des heures planifiées. Il peut, notamment, se rapporter à l'un des thèmes suivants :
 
--description d'une technique d'exploitation ;
+- description d'une technique d'exploitation ;
 
--étude d'un type de navire particulier ;
+- étude d'un type de navire particulier ;
 
--analyse de la mise en application à bord de la réglementation nationale ou internationale ;
+- analyse de la mise en application à bord de la réglementation nationale ou internationale ;
 
--analyse d'un secteur de l'industrie maritime.
+- analyse d'un secteur de l'industrie maritime.
 
 1. Mémoire professionnel |
 
@@ -1460,7 +1460,7 @@ DÉVELOPPEMENT DURABLE
 
 Durée : 18 heures
 
-(Cours et/ ou conférences : 18 heures)
+(Cours et/ou conférences : 18 heures)
 
 Références STCW :
 
@@ -1470,15 +1470,15 @@ Fonction : mécanique navale au niveau de direction
 
 Compétence :
 
--faire fonctionner et surveiller l'appareil propulsif et les machines auxiliaires, évaluer leur performance et assurer leur sécurité.
+- faire fonctionner et surveiller l'appareil propulsif et les machines auxiliaires, évaluer leur performance et assurer leur sécurité.
 
 Fonction : contrôle de l'exploitation du navire et assistance aux personnes à bord au niveau de direction
 
 Compétence :
 
--contrôler l'assiette, la stabilité et les contraintes.
+- contrôler l'assiette, la stabilité et les contraintes.
 
-1 Développement durable |
+1. Développement durable |
 
 Durée |
 
@@ -1494,11 +1494,11 @@ Nommer les dernières techniques permettant de mesurer la consommation d'un navi
 
 Expliquer les techniques récentes permettant d'économiser l'énergie, par exemple, sans être exhaustif :
 
--utilisation de moteurs électriques à vitesse variable ;
+- utilisation de moteurs électriques à vitesse variable ;
 
--réduction de la résistance de carène ;
+- réduction de la résistance de carène ;
 
--amélioration de la propulsion. |
+- amélioration de la propulsion. |
 
 3 C |
 
@@ -1548,7 +1548,7 @@ Lister les précautions à prendre quand le navire se trouve auprès d'une insta
 
 Green ship |
 
-Nommer les principes permettant l'élaboration d'un navire " écologique " |
+Nommer les principes permettant l'élaboration d'un navire écologique |
 
 3 C |
 
@@ -1558,7 +1558,7 @@ Décrire les procédures à suivre pour obtenir le certificat et pour le conserv
 
 Engine International Air Pollution Prevention (EIAPP)-émissions d'un moteur, surveillance de la ligne de combustion.
 
-International Oil Pollution Prevention (IOPP) Certificates-" cahier des hydrocarbures ", transfert, incinération … |
+International Oil Pollution Prevention (IOPP) Certificates-"cahier des hydrocarbures", transfert, incinération … |
 
 Remarque : les cours peuvent être donnés sous forme de conférences.
 
@@ -1580,9 +1580,9 @@ Connaissances, compréhension et aptitude |
 
 Grammaire :
 
--temps présent, passé, futur, impératif, auxiliaires de modalité, voix passive
+- temps présent, passé, futur, impératif, auxiliaires de modalité, voix passive
 
--nom, utilisation des articles, adjectifs |
+- nom, utilisation des articles, adjectifs |
 
 Rappeler les bases nécessaires à une correction suffisante d'un répertoire de tournures et des expressions fréquemment utilisées et associées à des situations plutôt prévisibles. |
 
@@ -1602,9 +1602,7 @@ Identifier le vocabulaire suffisant pour s'exprimer à l'aide de périphrases su
 
 Exprimer la bonne maîtrise du vocabulaire élémentaire.
 
-Pratiquer les connaissances dans le domaine professionnel (écriture des dates, unités monétaires, unités de mesure, sigles, abréviations, heures, code vestimentaire, modes de communication privilégiés, gestuelle, etc.)
-
-(voir tableau ci-joint). |
+Pratiquer les connaissances dans le domaine professionnel (écriture des dates, unités monétaires, unités de mesure, sigles, abréviations, heures, code vestimentaire, modes de communication privilégiés, gestuelle, etc.). |
 
 3. Oral communication |
 
