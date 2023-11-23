@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231108992
+
+- Question : [SEQ231108992](seq231108992.md) — Utilisation du « chèque énergie bois »
+
+## Réponse
+
+*Transition énergétique, JO du 2023-11-23, page 6598*
+
+Dans le contexte de la forte hausse du prix du bois de chauffage, 230 Meuros ont été alloués par la loi n° 2022-1499 du 1er décembre 2022 de finances rectificative pour 2022 pour aider les ménages chauffés au bois. Cette aide a pris la forme d'un chèque énergie exceptionnel opération bois, pour aider 70 % des ménages se chauffant au bois (2,6 millions de ménages), encadré par le décret n° 2022-1609 du 22 décembre 2022 modifié. Encadré par le décret n° 2022-1609 du 22 décembre 2022 modifié, le montant du chèque bois, de 50, 100 ou 200 euros dépend des revenus de la composition du ménage, et du type de combustible bois utilisé. Les ménages pouvaient demander le chèque bois sur le portail dédié entre le 27 décembre 2022 et le 31 mai 2023 (désormais clos). Pour demander le chèque énergie bois, il était nécessaire de fournir une facture d'achat de bois d'un montant minimum de 50 euros et datant de moins de 18 mois, afin de justifier de la réalité de la dépense. Les chèques bois étaient envoyés le mois suivant la demande complète. Les titres exécutoires d'affouage et les certificats d'enlèvement de bois délivrés par une mairie ont bien été considérés comme une facture d'achat de bois bûches permettant de justifier les demandes de chèque bois. Contrairement à ce que vous indiquez, les communes rurales forestières ont donc bien été autorisées à vendre et facturer leur stock de bois dans le cadre de cette aide exceptionnelle. Les chèques énergie exceptionnels opération bois s'utilisent comme un chèque énergie classique. Les personnes ayant reçu un chèque bois peuvent l'utiliser auprès de leur mairie, mais peuvent également l'utiliser pour payer leur facture d'électricité ou de gaz naturel par exemple.
