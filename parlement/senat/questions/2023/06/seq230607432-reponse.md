@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607432
+
+- Question : [SEQ230607432](seq230607432.md) — Accès des jeunes actifs à l'indemnité carburant 2023
+
+## Réponse
+
+*Transition énergétique, JO du 2023-11-23, page 6597*
+
+Afin de limiter les effets de la hausse des coûts du carburant, le Gouvernement a souhaité intervenir dès le début de la crise énergétique entraînée par le conflit entre la Russie et l'Ukraine au moyen d'une aide indifférenciée prenant la forme d'une remise sur les carburants entre avril et décembre 2022. En 2023, le Gouvernement a souhaité poursuivre son action visant à préserver le pouvoir d'achat des Français en concentrant l'effort budgétaire sur la moitié des Français les plus modestes qui utilisent leur véhicule pour travailler ou se rendre à leur travail. Il a annoncé la mise en place d'une « indemnité carburant » de 100 euros à cet effet, quérable entre le 16 janvier et le 31 mars. Le dispositif a été pensé pour être une mesure d'accompagnement exceptionnelle, à large audience, directement versée par les services de l'Etat et non pas par l'employeur. Il convenait dès lors de s'appuyer, autant que faire se peut, sur des données connues de l'administration afin de limiter le coût d'intervention et le risque de fraude, tout en permettant une démarche très simple pour l'obtenir. L'aide étant prévue pour les personnes ayant des revenus du travail et un revenu fiscal de référence inférieur ou égal à 14 700 euros, l'avis d'imposition sur les revenus de 2021 constituait le dernier jeu de données permettant à l'administration fiscale de s'assurer que ces deux critères étaient effectivement remplis. Le dispositif a bénéficié à plus de 4,4 millions de Français Le Gouvernement demeure attentif au niveau général des prix sur les produits énergétiques et, plus largement à la préservation du pouvoir d'achat.
