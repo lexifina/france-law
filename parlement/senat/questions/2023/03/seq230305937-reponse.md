@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305937
+
+- Question : [SEQ230305937](seq230305937.md) — Nécessité d'une déclaration des plans d'épargne retraite assurantiels sur le fichier Ficovie
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2023-11-23, page 6572*
+
+Depuis le 1er janvier 2016, les organismes d'assurance et assimilés établis en France sont tenus, en application de l'article 1649 ter du code général des impôts (CGI), de déclarer de façon dématérialisée, la souscription et le dénouement des contrats de capitalisation et d'assurance-vie ainsi que chaque année, la valeur au 1er janvier de ces contrats et placements lorsqu'elle est supérieure ou égal à 7 500 euros. Les déclarations ainsi souscrites alimentent un fichier des contrats de capitalisation et d'assurance vie, dénommé FICOVIE. Le plan d'épargne retraite (PER), créé par la loi du 22 mai 2019 relative à la croissance et la transformation des entreprises (PACTE) et commercialisé depuis le 1er octobre 2019, constitue un produit d'épargne visant à assurer un complément de retraite aux retraités en leur permettant d'acquérir et de jouir de droits viagers personnels ou d'obtenir le versement d'un capital, payables au titulaire à compter, au plus tôt, de la date de liquidation de sa pension dans un régime obligatoire d'assurance vieillesse ou de l'âge légal de départ à la retraite. Ces sommes sont en principe indisponibles jusqu'à cette date, sauf exceptions. De par leur nature assurantielle, les PER sont soumis à l'obligation déclarative prévue à l'article 1649 ter du CGI et doivent donc être intégrés au FICOVIE. Les notaires peuvent ainsi accéder, conformément aux dispositions du 2 de l'article L. 151 B du livre des procédures fiscales, aux informations figurant dans FICOVIE relatives aux PER souscrits par une personne dont ils sont chargés de régler la succession.
