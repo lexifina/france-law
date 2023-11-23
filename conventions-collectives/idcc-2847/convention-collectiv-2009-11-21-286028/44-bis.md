@@ -2,31 +2,67 @@
 
 1. Agents de droit privé
 
-Tout agent de droit privé, titulaire d'un mandat visé à l'article L. 2141-5-1 du code du travail, lorsque le nombre d'heures de délégation utilisées sur l'année dépasse 30 % de la durée du travail fixée dans son contrat, bénéficie d'une évolution de rémunération au moins égale, sur l'ensemble de la durée de son mandat, aux augmentations générales et à la moyenne des augmentations individuelles perçues, pendant cette période, par les agents relevant de la même catégorie professionnelle, ayant une ancienneté comparable.
+Il est rappelé que l'évolution de carrière des agents titulaires d'un mandat relève, comme pour tout agent, du dispositif d'évolution de carrière de droit commun, le mécanisme de la garantie salariale ayant un caractère subsidiaire.
 
-Chaque terme de mandat d'un agent donne lieu à cette comparaison.
+Tout agent de droit privé, titulaire d'un mandat visé à l'article L. 2141-5-1 du code du travail, lorsque le nombre d'heures de délégation utilisées dépasse 30 % de la durée du travail de l'agent, sur une année civile, bénéficie d'une évolution salariale au moins égale, sur chaque année civile, aux augmentations générales et à la moyenne des augmentations individuelles perçues, pendant cette période, par les agents relevant de la même catégorie professionnelle, ayant une ancienneté comparable.
 
-Pour l'application de cette garantie salariale, la catégorie professionnelle s'entend comme le niveau de classification au sens de l'accord relatif à la classification en vigueur. Pour réaliser la comparaison d'évolution salariale, il est donc tenu compte du niveau de classification de l'agent et de son ancienneté à la date de début de son mandat. La catégorie professionnelle est composée des agents ayant le même niveau de classification et la même ancienneté que le titulaire du mandat à cette date de début de mandat.
+Mandats concernés
 
-Les éléments pris en compte pour évaluer l'évolution de la moyenne des augmentations individuelles sont le salaire de base et les éventuels relèvements de traitement.
+Les mandats concernés sont ceux visés à l'article L. 2141-5-1 du code du travail, ainsi que les DS centraux, les membres élus et les représentants syndicaux au CSEC.
 
-En cas d'écart défavorable à l'agent constaté entre l'évolution de la rémunération de l'agent sur la durée de son mandat par rapport à la moyenne des augmentations individuelles des agents de sa catégorie professionnelle sur cette même période, l'établissement met en œuvre, pour les agents concernés, la mesure nécessaire :
+Temps de délégation pris en compte
 
-– pour l'agent n'ayant pas atteint le dernier niveau de classification de son emploi :
+Les temps de délégation pris en compte pour déterminer s'ils dépassent 30 % de la durée du travail de l'agent sur l'année sont mentionnés dans le tableau des motifs de l'outil de gestion des temps annexé à l'accord sur la valorisation des parcours syndicaux et de représentation du personnel du 22 mai 2024.
 
-–– si le montant devant être attribué au titre de cette éventuelle mesure corrective est équivalent ou supérieur au montant induit par l'attribution de l'échelon immédiatement supérieur à celui de l'agent, il lui est attribué cet échelon immédiatement supérieur ainsi que, si nécessaire, le complément de salaire ;
+Comparaison annuelle
 
-–– si le montant devant être attribué au titre de cette éventuelle mesure corrective est inférieur au montant induit par l'attribution de l'échelon immédiatement supérieur à celui de l'agent, il lui est attribué le complément de salaire correspondant.
+Le mécanisme de la garantie salariale s'applique pour chaque année civile comprise dans la durée du mandat. À cet effet, la comparaison d'évolution salariale a une périodicité annuelle.
 
-Ce complément de salaire est absorbé à l'occasion du passage au coefficient supérieur ;
+Le cas échéant, lorsque la dernière année de la mandature comprend au moins 8 mois sur l'année civile, la condition d'un temps de délégation supérieur à 30 % de la durée du travail est ramenée à cette durée.
 
-– pour l'agent ayant atteint le dernier échelon de classification de son emploi ou se situant au-delà de l'amplitude de son emploi :
+Notion de catégorie professionnelle
 
-–– il lui est attribué un complément de salaire égal à la différence constatée.
+Pour l'application de cette garantie salariale, la notion de catégorie professionnelle est définie en cohérence avec la classification des emplois des agents de droit privé et s'entend comme le niveau de classification au sens de l'accord relatif à la classification en vigueur.
 
-Au titre de cette garantie salariale, le complément de salaire n'est pas assimilable au relèvement de traitement tel que défini dans l'accord relatif à la classification en vigueur.
+La catégorie professionnelle est composée des agents ayant le même niveau de classification et une ancienneté comparable à celle du titulaire du mandat en janvier de l'année civile de comparaison. Sont exclus du groupe de comparaison les agents qui en cours de période annuelle de comparaison ne sont plus inscrits à l'effectif de l'établissement.
 
-Ces dispositions sont applicables aux délégués syndicaux centraux.
+Ainsi, il est donc tenu compte du niveau de classification et de l'ancienneté de l'agent concerné, en janvier de l'année civile de comparaison.
+
+Notion d'ancienneté comparable
+
+L'ancienneté comparable est déterminée par tranches selon la composition suivante : moins de 3 ans, 3-5 ans, puis par tranches d'ancienneté de 4 ans.
+
+La notion d'ancienneté est celle définie au préambule de la convention collective nationale.
+
+Éléments de salaire compris dans la comparaison d'évolution
+
+Les éléments de salaire pris en compte pour évaluer l'évolution salariale sont le salaire de base, et le cas échéant, le relèvement de traitement au titre de l'article 19. C de la CCN ainsi que le complément salarial déjà attribué au titre de la garantie salariale définie au présent article.
+
+Mesures liées à la garantie salariale
+
+En cas d'écart défavorable à l'agent constaté entre son évolution de salaire sur l'année civile par rapport à la moyenne des augmentations individuelles des agents de sa catégorie professionnelle sur cette même période, l'établissement met en œuvre, pour les agents concernés, la mesure nécessaire :
+
+• Pour l'agent n'ayant pas atteint le dernier niveau de classification de son emploi :
+
+Si le montant devant être attribué au titre de cette éventuelle mesure corrective est équivalent ou supérieur au montant induit par l'attribution de l'échelon immédiatement supérieur à celui de l'agent, il lui est attribué cet échelon immédiatement supérieur ainsi que, si nécessaire, le complément de salaire.
+
+Si le montant devant être attribué au titre de cette éventuelle mesure corrective est inférieur au montant induit par l'attribution de l'échelon immédiatement supérieur à celui de l'agent, il lui est attribué le complément de salaire correspondant.
+
+Lorsqu'un agent a déjà bénéficié d'une ou plusieurs mesures d'attribution du complément de salaire, le montant global des compléments salariaux est converti en tout ou partie en coefficient immédiatement supérieur à la condition que ce montant global soit égal ou supérieur au montant induit par le passage à un coefficient immédiatement supérieur.
+
+Cette conversion se réalise au moment de la mise en œuvre de la garantie salariale pour l'année considérée.
+
+Elle n'est toutefois pas applicable si elle a pour effet de positionner un agent au-delà de l'amplitude de son emploi.
+
+• Pour l'agent ayant atteint le dernier échelon de classification de son emploi ou se situant au-delà de l'amplitude de son emploi :
+
+Il lui est attribué un complément de salaire égal à la différence constatée.
+
+Période de mise en œuvre de la mesure
+
+Le tableau de référence de la mise en œuvre de la garantie salariale est transmis aux DS centraux dans le 1er trimestre de l'année suivant l'année de comparaison.
+
+Le paiement afférent à la mesure attribuée au titre de la garantie salariale intervient au plus tard sur la paie de mars avec une date d'effet au 1er janvier de l'année suivant l'année de comparaison.
 
 2. Agents de droit public
 
