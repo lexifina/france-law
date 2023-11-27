@@ -488,24 +488,32 @@ Dans un délai de 3 mois à compter de l'échéance précitée, l'éco-organisme
 
 L'éco-organisme réalise une étude portant sur les possibilités de réemploi et de réutilisation des outillages du peintre et la remet au ministre chargé de l'environnement avant le 1er janvier 2024. Le cas échéant, cette étude est accompagnée de propositions d'objectifs de réemploi des outillages du peintre et d'un plan d'action visant à développer leur réemploi et réutilisation.
 
-6. Information et sensibilisation
+6. Coordination en cas d'agrément de plusieurs éco-organismes
 
-L'éco-organisme organise au moins une fois par an, des campagnes d'information et de sensibilisation d'envergure nationale et locale construites pour inciter au réemploi et la réutilisation des articles de bricolage et de jardin.
+En application de l'article R. 541-107, lorsque plusieurs éco-organismes sont agréés sur une même famille de produits, ceux-ci mettent en place un organisme coordonnateur afin que ce dernier sollicite un agrément au plus tard deux mois après la date d'agrément du second éco-organisme concerné.
 
-L'éco-organisme élabore des supports de communication destinés à sensibiliser le public sur :
+Les éco-organismes agréés se coordonnent sous l'égide de l'organisme coordonnateur en vue de faire des propositions cohérentes sur les sujets suivants :
 
-- le don aux opérateurs de réemploi et de la réutilisation pour les articles de bricolage et de jardin pour permettre leur réemploi ou réutilisation ;
+-les campagnes d'information et de communication réalisées par les éco-organismes ;
 
-- la reprise par les distributeurs des articles de bricolage et de jardin usagés prévue à l'article L. 541-10-8 ;
+-la mise à disposition du public des données prévues à l'article L. 541-10-15 ;
 
-- les possibilités de réparation des articles de bricolage et de jardin dans le cadre des fonds définis à l'article L. 541-10-4 ;
+-le cas échéant, les études conjointes.
 
-- les solutions de réemploi et de réutilisation des articles de bricolage et de jardin usagés et des déchets des articles de bricolage et de jardin.
+Les éco-organismes agréés se coordonnent sous l'égide de l'organisme coordonnateur en vue de faire des propositions conjointes sur les sujets suivants :
 
-Le cas échéant, il établit avec les personnes concernées un contrat type tel que prévu à l'article R. 541-102 afin de contribuer à la prise en charge des coûts afférents à ces actions de communication.
+-le contrat-type prévu aux paragraphes 3.2 et 3.3 pour les collectivités en application de l'article R. 541-104 ;
 
-Pour la mise en place de ces actions d'information et de sensibilisation, l'éco-organisme consacre chaque année au moins 2 % du montant total des contributions financières qu'il perçoit.
+-les montants des soutiens financiers prévus par le contrat-type unique et les modalités d'actualisation annuelle ;
 
-NOTA :
+-les exigences et standards techniques de gestion des déchets ;
 
-Conformément à l'article 2 de l'arrêté du 14 décembre 2021 (NOR : TREP2129719A), ces dispositions entrent en vigueur le 1er janvier 2022.
+-l'information précisant les modalités de tri ou d'apport du déchet issu des articles de bricolage et de jardins ménagers prévue au deuxième alinéa de l'article L. 541-9-3.
+
+Les éco-organismes peuvent se coordonner dès l'élaboration de leur dossier de demande d'agrément afin d'élaborer conjointement le dossier de demande d'agrément de l'organisme coordonnateur comprenant notamment le projet de contrat type unique relatif à la prise en charge des déchets issus d'articles de bricolage et de jardin collectés par les collectivités dans le cadre du SPGD, ainsi que le projet de répartition géographique des collectivités en charge du SPGD.
+
+Lorsque le contrat type unique relatif à la prise en charge des déchets issus d'articles de bricolage et de jardin collectés par les collectivités dans le cadre du SPGD résultant de la coordination est différent de celui qui a été présenté dans son dossier de demande d'agrément, l'éco-organisme consulte son comité des parties prenantes, si celui-ci est déjà mis en place, sur le projet de contrat type unique. Il le transmet également pour avis au ministre chargé de l'environnement.
+
+Les éco-organismes agréés avant le 1er janvier 2024 poursuivent la mise en œuvre du contrat-type figurant dans leur dossier de demande d'agrément jusqu'à l'entrée en vigueur du contrat-type unique, et au plus tard jusqu'au 1er janvier de l'année suivant l'agrément de l'organisme coordonnateur.
+
+Les éco-organismes agréés transmettent trimestriellement à l'organisme coordonnateur les informations nécessaires à l'élaboration d'un état de synthèse de suivi des obligations de collecte.
