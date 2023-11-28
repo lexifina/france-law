@@ -1,0 +1,9 @@
+# Réponse à la question n° 11525
+
+- Question : [11525](11525.md) — Question n° 11525 — Fuites d'eau
+
+## Réponse
+
+*JO du 2023-11-28, page 10692*
+
+Face à une raréfaction de la ressource en eau et des épisodes de sécheresse qui s'intensifient, le Président de la République a présenté le 30 mars dernier le « Plan Eau » pour une gestion plus résiliente et concertée de la ressource. Ce plan d'action, qui s'inscrit dans la planification écologique pilotée par la Première ministre, prévoit notamment l'amélioration des infrastructures d'eau potable, et notamment la réduction des fuites des réseaux. Les fuites résultent souvent d'un défaut de connaissance du réseau et d'une insuffisance d'entretien patrimonial. La bonne gestion de ce patrimoine nécessite de solides compétences en ingénierie. En termes de financement, ont vocation à être privilégiés un juste prix de l'eau qui doit couvrir l'amortissement des infrastructures d'alimentation en eau potable, l'accès aux prêts de long terme proposés notamment par la Banque des territoires dans le cadre du Plan eau pour lisser dans le temps l'effort de remise à niveau (Aquaprêts), les regroupements qui permettent de mutualiser les efforts, et enfin, les aides des agences de l'eau qui permettent de faire jouer la solidarité de bassin au profit des collectivités structurellement fragiles pour lesquelles le prix de l'eau et la mutualisation ne suffiront pas à la mise en œuvre des investissements nécessaires. Le Plan eau prévoit la mobilisation de 180 millions d'euros additionnels d'aides à compter de 2024. Cette disposition concerne notamment les 2 000 communes fragiles face au risque de rupture d'alimentation en eau potable et les 170 points noirs identifiés possédant un taux de fuite supérieur à 50 %. Ces aides des agences de l'eau sont conditionnées à une amélioration durable de la gestion du patrimoine des services publics d'eau potable.
