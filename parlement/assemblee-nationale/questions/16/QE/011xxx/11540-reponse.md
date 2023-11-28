@@ -1,0 +1,9 @@
+# Réponse à la question n° 11540
+
+- Question : [11540](11540.md) — Question n° 11540 — Risque de faillites des indépendants en cas de vente à perte des carburants
+
+## Réponse
+
+*JO du 2023-11-28, page 10697*
+
+Face à la hausse du prix du carburant qui affecte les Français, le Gouvernement a obtenu des grandes enseignes qu'elles s'engagent à mener des opérations à prix coûtant, dans l'ensemble de leur réseau jusqu'à la fin de l'année 2023. Au total, ce sont près de 120 000 opérations à prix coûtant dans 4000 stations qui se tiennent jusqu'à la fin de l'année 2023. Ces opérations s'ajoutent à celles en cours dans les 3 400 stations Total Energies qui plafonnent le prix du carburant à 1,99€/L. Le groupe Total Energies a également mis en place une garantie pour les petites stations-services indépendante qui distribuent son carburant afin de compenser leurs revenus en contrepartie de ce plafonnement de prix. Cette garantie bénéficie à environ 60 % des stations-services indépendantes. Le Gouvernement a parallèlement mis en place plusieurs dispositifs permettant de pérenniser l'activité des stations-services indépendantes, qui jouent un rôle essentiel dans le maillage territorial du pays : Un fonds de 10 M€ co-finançant le déploiement de bornes de recharge pour les véhicules électriques dans les stations-service indépendantes a été créé en 2023. En 2024, ses critères seront assouplis afin d'en faciliter encore l'accès ; Un dispositif temporaire de soutien à la diversification des stations-services indépendantes sera créé en 2024, doté de 5 M€. Ces dispositifs permettront aux stations-services de contribuer à l'électrification du parc automobile mais aussi de diversifier leur activité afin de renforcer leur rôle de commerce de proximité, en particulier dans les territoires ruraux.
