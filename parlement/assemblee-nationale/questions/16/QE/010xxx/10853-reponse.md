@@ -1,0 +1,9 @@
+# Réponse à la question n° 10853
+
+- Question : [10853](10853.md) — Question n° 10853 — Conditions de travail et statut des greffiers
+
+## Réponse
+
+*JO du 2023-11-28, page 10724*
+
+Les États généraux de la justice ont confirmé que le rôle des greffiers des services judiciaires est essentiel pour le bon fonctionnement des juridictions et qu'un recrutement massif au cours des cinq prochaines années est indispensable, ce que va permettre l'adoption de la loi d'orientation et de programmation du ministère de la Justice, avec 1800 créations d'emplois de greffiers jusqu'en 2027. Ainsi, au regard des forts enjeux de recrutements dans le cadre du quinquennal et de la clarification des missions des acteurs de l'équipe juridictionnelle au sein des juridictions, il est impératif de reconnaître leur investissement au service de l'institution judiciaire, de les fidéliser et de leur offrir un parcours professionnel attractif. Des attentes fortes ont été exprimées à cet égard par les personnels lors de mobilisations au sein des juridictions. Le protocole d'accord syndical majoritaire que j'ai signé le 26 octobre dernier prévoit des mesures très importantes au bénéfice de la carrière et de la rémunération des greffiers : - une revalorisation indiciaire de la grille des greffiers de catégorie B, destinée à l'accélération de leur carrière et à un accès facilité au grade de greffier principal ; - la création, comme je m'y étais engagé, dès 2024, d'un corps de débouché en catégorie A, qui comprendra 3200 greffiers, soit près de 25% du corps, constitués sur 3 ans. Ces mesures viendront compléter les revalorisations indemnitaires et indiciaires qui ont été mises en œuvre entre 2022 et 2023 et qui ont d'ores et déjà permis une progression de 197€ bruts pour un greffier en début de carrière et de 294€ bruts pour un greffier en milieu de carrière.
