@@ -1,0 +1,43 @@
+# Réponse à la question n° 431
+
+- Question : [431](431.md) — Question n° 431 — Implantation d'une gendarmerie à Verneuil-sur-Vienne
+
+## Réponse
+
+*JO du 2023-11-29, page 10579*
+
+IMPLANTATION D'UNE GENDARMERIE À VERNEUIL-SUR-VIENNE
+
+M. le président. La parole est à M. Stéphane Delautrette, pour exposer sa question, n° 431, relative à l'implantation d'une gendarmerie à Verneuil-sur-Vienne.
+
+M. Stéphane Delautrette. Le 2 octobre dernier, le Président de la République a dévoilé la carte des 239 futures brigades de gendarmerie prévues à l'horizon 2027. Je tiens, en préambule, à dire ma gratitude pour le travail remarquable accompli par l'ensemble des gendarmes de Haute-Vienne.
+
+Si nous pouvons nous réjouir de l'arrivée d'une brigade mobile dans la commune de Boisseuil, l'annonce a néanmoins suscité une profonde insatisfaction chez nombre d'élus et de citoyens haut-viennois. Et pour cause ! Alors que deux unités étaient attendues en Haute-Vienne, quelle ne fut pas notre surprise d'apprendre que seuls trois gendarmes viendraient renforcer les rangs des brigades de notre département, faisant de notre territoire le moins bien doté de Nouvelle-Aquitaine. La surprise est d'autant plus grande qu'un projet d'implantation est défendu de longue date par la municipalité de Verneuil-sur-Vienne. Conçu en lien étroit avec les services de l'État, celui-ci répond à un réel besoin et remplit l'ensemble des critères d'éligibilité.
+
+En effet, la commune de Verneuil-sur-Vienne fait face à une double hausse – démographique et de la délinquance – qui aurait pleinement justifié l'installation d'une nouvelle caserne et ainsi équilibré la charge de travail des gendarmes de la brigade d'Aixe-sur-Vienne, située à 15 kilomètres.
+
+Du point de vue logistique et stratégique, le terrain, déjà acquis à dessein par la commune, se situe à la croisée de deux axes nationaux majeurs, la RN 520 et la RN 141, et à proximité d'équipements structurants tels que l'aéroport.
+
+Madame la ministre déléguée chargée des collectivités territoriales et de la ruralité, les élus locaux de Verneuil-sur-Vienne et tout particulièrement leur maire, Pascal Robert, sont dans l'incompréhension la plus totale. Alors même qu'ils étaient, dès cette année, en mesure d'accueillir trois gendarmes dans des locaux dédiés et pouvaient envisager la construction d'un nouvel établissement sur un terrain réservé, ils sont toujours dans l'expectative.
+
+Je connais votre attachement au juste maillage territorial des forces de l'ordre et aux liens avec la population qu'il apporte. C'est pourquoi je vous saurais gré de considérer avec le plus grand sérieux le cas spécifique de Verneuil-sur-Vienne. En toute objectivité, les projets retenus ont-ils le même degré de maturité que celui présenté ici ? Le plan annoncé est-il figé ou pouvons-nous espérer en Haute-Vienne, d'ici à 2027, d'autres ouvertures de brigades plus en adéquation avec les besoins exprimés ?
+
+M. le président. La parole est à Mme la ministre déléguée chargée des collectivités territoriales et de la ruralité.
+
+Mme Dominique Faure, ministre déléguée chargée des collectivités territoriales et de la ruralité. Je vous remercie, monsieur le député Delautrette, pour vos mots sympathiques de reconnaissance pour les gendarmes de la Haute-Vienne, mots que je partage.
+
+Le juste maillage territorial des forces de l’ordre ne doit pas se faire aux dépens de la garantie de la sécurité de nos concitoyens. La préservation de cet équilibre a été au cœur des réflexions sur la répartition des 239 nouvelles brigades de gendarmerie prévues dans le cadre de la loi d’orientation et de programmation du ministère de l’intérieur.
+
+En Haute-Vienne, deux projets d’implantation étaient initialement prévus, l’un à Boisseuil, l’autre à Aixe-sur-Vienne. Cependant, soucieux de préserver cet équilibre et de garantir ainsi la sécurité de tous nos concitoyens partout sur le territoire national, nous avons fait le choix de privilégier l’implantation d’une brigade unique et mobile à Boisseuil. La mobilité de cette unité fonde notre choix. Surtout, l'évolution de l'insécurité en France a conduit à une répartition légèrement différente de celle envisagée, ce que nous vous demandons de comprendre.
+
+Destinées à renforcer le lien de confiance entre la gendarmerie et la population et ses élus, les brigades mobiles offrent une accessibilité, une disponibilité favorisant les échanges avec les citoyens, dans une démarche « d'aller vers ». Ainsi, située à trente minutes de Verneuil-sur-Vienne, la brigade de Boisseuil ne limitera pas son action à sa seule commune d'implantation puisqu'elle remplira ses missions de prévention et de sécurité sur l'ensemble du territoire. En outre, dans le cadre de cette création, les effectifs de gendarmerie du département augmenteront de six militaires.
+
+Par ailleurs, le processus de densification des pelotons de surveillance et d'intervention de la gendarmerie, qui s'achèvera en 2024, renforcera également l'empreinte au sol des unités territoriales et contribuera à l'augmentation de leur présence sur la voie publique de façon significative.
+
+Le ministre Gérald Darmanin reste pleinement à l'écoute des demandes qui pourraient être faites localement. Une adaptation des dispositifs aux problèmes et aux besoins de la population locale pourra, si c'est nécessaire, être envisagée.
+
+M. le président. La parole est à M. Stéphane Delautrette.
+
+M. Stéphane Delautrette. Madame la ministre déléguée, j'entends votre réponse ; elle ne peut cependant me satisfaire. C'est bien mal connaître la Haute-Vienne que de penser que l'implantation d'une brigade de gendarmerie à Boisseuil permettra de répondre à la demande de sécurité des habitants de Verneuil-sur-Vienne, situé à près de 30 kilomètres.
+
+Implanter une brigade à Verneuil était un projet de longue date, concerté avec les gendarmes et la préfecture. Il mériterait d'être réexaminé, à la lumière des difficultés locales que j'ai rappelées – explosion démographique et montée afférente de la délinquance. Alors que ce projet conserve toute sa pertinence, les élus de Verneuil-sur-Vienne doivent-ils en abandonner l'idée ?
