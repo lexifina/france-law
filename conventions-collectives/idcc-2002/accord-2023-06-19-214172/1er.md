@@ -1,0 +1,3 @@
+# Article 1er
+
+Les dispositions du présent accord s'appliquent aux salariés des entreprises comprises dans le champ d'application de la convention collective nationale de la blanchisserie – teinturerie et nettoyage (blanchisserie, laverie, location de linge, nettoyage à sec, pressing et teinturerie) en contrat à durée indéterminée (CDI) ainsi qu'aux salariés bénéficiaires d'un contrat à durée indéterminée conclu en application de l'article L. 5134-19-1 du code du travail (contrat unique d'insertion), notamment les salariés dont la qualification est insuffisante au regard de l'évolution des technologies ou de l'organisation du travail.
