@@ -1,19 +1,15 @@
 # Article Annexe IV
 
-a)   En application des dispositions de l'article L. 6332-1-2 du code du travail, les entreprises de 11 salariés et plus de l'enseignement supérieur, de l'enseignement postsecondaire non supérieur, de l'enseignement culturel, de l'enseignement à distance, et des autres enseignements, à l'exception des entreprises citées à l'alinéa suivant, versent une contribution supplémentaire conventionnelle de formation à l'opérateur de compétences des entreprises et des salariés des services à forte intensité de main-d'œuvre dit AKTO qui s'élève à 0,3 % de la masse salariale brute annuelle, y compris les entreprises dont le siège est implanté dans un DROM ou une COM appliquant la législation française en matière de participation à la formation professionnelle.
+Versée en 2023 sur le revenu d'activité 2022
 
-b)   En application des dispositions de l'article L. 6332-1-2 du code du travail, toutes les entreprises de 10 salariés et moins, ainsi que les entreprises de 11 salariés et plus de l'enseignement préprimaire, primaire et secondaire général versent une contribution supplémentaire conventionnelle de formation à l'opérateur de compétences des entreprises et des salariés des services à forte intensité de main-d'œuvre dit AKTO qui s'élève à 0,1 % de la masse salariale brute annuelle, y compris les entreprises dont le siège est implanté dans un DROM ou une COM appliquant la législation française en matière de participation à la formation professionnelle.
+Versée en 2024 sur le revenu d'activité 2023
 
-c)   En cas de pluriactivité susceptible de justifier l'application de l'un ou l'autre des taux, les entreprises visées relèveront du seul taux correspondant à leur activité principale, déterminée d'après le chiffre d'affaires réalisé dans chacun des enseignements concernés.
+En application des dispositions de l'article L. 6332-1-2 du code du travail :
 
-d)   Les employeurs des entreprises de l'enseignement supérieur, de l'enseignement postsecondaire non supérieur, de l'enseignement culturel, de l'enseignement à distance et des autres enseignements, à l'exception des entreprises citées à l'alinéa b qui, en raison de l'accroissement de leur effectif, atteignent ou dépassent au titre d'une année, pour la première fois, l'effectif de 11 salariés, bénéficient d'une évolution spécifique du taux de leur contribution.
+a) Les entreprises de 20 salariés et plus versent une contribution supplémentaire conventionnelle de formation qui s'élève à 0,3 % du montant du revenu d'activité retenu pour le calcul des cotisations sociales, y compris les entreprises dont le siège est implanté dans un DROM ou une COM appliquant la législation française en matière de participation à la formation professionnelle.
 
-Ils restent soumis pour l'année en cours et les 2 suivantes au taux applicable aux employeurs occupant 10 salariés et moins, à savoir 0,1 %.
+b) Les entreprises de moins de 20 salariés versent une contribution supplémentaire conventionnelle de formation qui s'élève à 0,1 % du montant du revenu d'activité retenu pour le calcul des cotisations sociales, y compris les entreprises dont le siège est implanté dans un DROM ou une COM appliquant la législation française en matière de participation à la formation professionnelle.
 
-Ils sont ensuite assujettis à la contribution supplémentaire conventionnelle de 0,2 % de la masse salariale la 4e année de l'accroissement de leur effectif pour atteindre, la 5e année, la contribution supplémentaire conventionnelle des employeurs occupant 11 salariés et plus, à savoir : 0,3 % de la masse salariale.
+Le montant annuel de la contribution supplémentaire conventionnelle est versé, au 28 février de l'année suivante, à l'opérateur de compétences des entreprises et des salariés des services à forte intensité de main d'œuvre dit AKTO.
 
-Cette évolution progressive n'est pas applicable lorsque :
-
-– l'accroissement d'effectif résulte de la reprise ou de l'absorption d'un établissement ayant employé 11 salariés ou plus au cours des 3 années précédentes ;
-
-– le seuil de 11 salariés est atteint ou dépassé dès la 1re année d'activité.
+L'effectif salarié est défini par l'article L. 6311-1-A du code du travail.
