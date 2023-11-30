@@ -1,6 +1,6 @@
 # Article Annexe 2
 
-Plafonds de ressources prévus à l'article 2
+PLAFONDS DE RESSOURCES " MODESTES " PRÉVUS À L'ARTICLE 2
 
 Nombre de personnes
 
@@ -10,46 +10,92 @@ Ile-de-France
 
 (en euros) |
 
-PROVINCE
+Autres collectivités
 
 (en euros) |
 
 1 |
 
-25 068 |
+27 343 |
 
-19 074 |
+20 805 |
 
 2 |
 
-36 792 |
+40 130 |
 
-27 896 |
+30 427 |
 
 3 |
 
-44 188 |
+48 197 |
 
-33 547 |
+36 591 |
 
 4 |
 
-51 597 |
+56 277 |
 
-39 192 |
+42 748 |
 
 5 |
 
-59 026 |
+64 380 |
 
-44 860 |
+48 930 |
 
 Par personne supplémentaire |
 
-7 422 |
+8 097 |
 
-5 651 |
+6 165 |
 
-NOTA :
+PLAFONDS DE RESSOURCES " INTERMÉDIAIRES " PRÉVUS À L'ARTICLE 2
 
-Conformément à l'article 2 de l'arrêté du 22 décembre 2020, ces dispositions sont applicables aux demandes de subventions déposées à compter du 1er janvier 2021.
+Nombre de personnes
+
+composant le ménage |
+
+Ile-de-France
+
+(en euros) |
+
+Autres collectivités
+
+(en euros) |
+
+1 |
+
+38 184 |
+
+29 148 |
+
+2 |
+
+56 130 |
+
+42 848 |
+
+3 |
+
+67 585 |
+
+51 592 |
+
+4 |
+
+79 041 |
+
+60 336 |
+
+5 |
+
+90 496 |
+
+69 081 |
+
+Par personne supplémentaire |
+
+11 455 |
+
+8 744 |

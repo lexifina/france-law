@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-Plafonds de ressources prévus à l'article 1er
+PLAFONDS DE RESSOURCES " TRÈS MODESTES " PRÉVUS À L'ARTICLE 1ER
 
 Nombre de personnes
 
@@ -10,46 +10,42 @@ Ile-de-France
 
 (en euros) |
 
-PROVINCE
+Autres collectivités
 
 (en euros) |
 
 1 |
 
-20 593 |
+22 461 |
 
-14 879 |
+16 229 |
 
 2 |
 
-30 225 |
+32 967 |
 
-21 760 |
+23 734 |
 
 3 |
 
-36 297 |
+39 591 |
 
-26 170 |
+28 545 |
 
 4 |
 
-42 381 |
+46 226 |
 
-30 572 |
+33 346 |
 
 5 |
 
-48 488 |
+52 886 |
 
-34 993 |
+38 168 |
 
 Par personne supplémentaire |
 
-6 096 |
+6 650 |
 
-4 412 |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 22 décembre 2020, ces dispositions sont applicables aux demandes de subventions déposées à compter du 1er janvier 2021.
+4 813 |
