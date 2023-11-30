@@ -1236,8 +1236,18 @@ Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
+AJ. Fiche d'opération standardisée BAR-TH-173 “Système de régulation par programmation horaire pièce par pièce” :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+- l'existence d'un système de régulation par programmation horaire pièce par pièce installé ;
+
+- la réception par la totalité des émetteurs de chaleur des consignes émises par l'appareil central pour atteindre la température de consigne ;
+
+- l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
 NOTA :
 
-Conformément à l'article 6 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.
-
-Conformément à l’article 5 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.
+Conformément à l’article 5 de l’arrêté du 22 novembre 2023 (NOR : ENER2332128A), ces dispositions sont applicables aux opérations engagées à compter du lendemain de la publication dudit arrêté.

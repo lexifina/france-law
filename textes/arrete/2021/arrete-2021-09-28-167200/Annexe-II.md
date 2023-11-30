@@ -218,29 +218,19 @@ BAR-TH-125 (uniquement les installations collectives) |
 
 12,5 % |
 
-Sur le lieu des opérations
+Sur le lieu des opérations |
 
-|
+Entre le 1er juillet 2024 et le 31 décembre 2024 |
 
-Entre le 1er juillet 2024 et le 31 décembre 2024
-
-|
-
-25 % (en sus des contrôles sur le lieu, ci-dessus)
-
-|
+25 % (en sus des contrôles sur le lieu, ci-dessus) |
 
 Par contact |
 
 15 % |
 
-Sur le lieu des opérations
+Sur le lieu des opérations |
 
-|
-
-A compter du 1er janvier 2025
-
-|
+A compter du 1er janvier 2025 |
 
 30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -273,6 +263,26 @@ BAR-TH-112 |
 Par contact |
 
 Entre le 01/07/2023 et le 31/12/2023 |
+
+25 % |
+
+Par contact |
+
+Entre le 01/01/2024 et le 31/12/2024 |
+
+30 % |
+
+Par contact |
+
+A compter du 01/01/2025 |
+
+BAR-TH-173 |
+
+20 % |
+
+Par contact |
+
+Entre le 01/12/2023 et le 31/12/2023 |
 
 25 % |
 
@@ -424,9 +434,7 @@ BAT-TH-113 |
 
 Sur le lieu des opérations |
 
-Entre le 1er juillet 2024 et le 31 décembre 2024
-
-|
+Entre le 1er juillet 2024 et le 31 décembre 2024 |
 
 25 % (en sus des contrôles sur le lieu, ci-dessus) |
 
@@ -436,15 +444,11 @@ Par contact |
 
 |
 
-Sur le lieu des opérations
-
-|
+Sur le lieu des opérations |
 
 A compter du 1er janvier 2025 |
 
-30 % (en sus des contrôles sur le lieu, ci-dessus)
-
-|
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
 
 Par contact |
 
@@ -676,4 +680,4 @@ A compter du 01/10/2023 |
 
 NOTA :
 
-Conformément à l’article 5 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.
+Conformément à l’article 5 de l’arrêté du 22 novembre 2023 (NOR : ENER2332128A), ces dispositions sont applicables aux opérations engagées à compter du lendemain de la publication dudit arrêté.
