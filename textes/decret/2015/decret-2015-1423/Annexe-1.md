@@ -190,8 +190,6 @@ Code de la sécurité intérieure |
 
 Accès aux enregistrements de vidéoprotection |
 
-Article L. 253-5
-
 Article R. 253-3 |
 
 Autorisation d'ouverture de casino et autorisation de jeux dans le casino |
@@ -844,4 +842,4 @@ Arrêté du 12 janvier 2012 |
 
 NOTA :
 
-Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.
+Conformément à l’article 6 du décret n° 2023-1102 du 27 novembre 2023, ces dispositions sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
