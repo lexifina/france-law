@@ -1,0 +1,33 @@
+# Article Annexe 6
+
+LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 5E CATÉGORIE
+
+DIR |
+
+REFERENCE |
+
+FAMILLE |
+
+LIBELLE |
+
+DATE D'EFFET |
+
+Nord |
+
+059051 |
+
+SIE |
+
+LILLE NORD |
+
+01/01/2024 |
+
+Nord |
+
+059066 |
+
+SIE |
+
+DOUAI |
+
+01/01/2024 |
