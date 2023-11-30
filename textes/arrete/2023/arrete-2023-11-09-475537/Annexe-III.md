@@ -1,16 +1,12 @@
-# Article LEGIARTI000041993614
+# Article Annexe III
 
-COMPOSITION DE LA COMMISSION PRÉVUE À L'ARTICLE 4 DU PRÉSENT ARRÊTÉ
+COMPOSITION DE LA COMMISSION PRÉVUE À L'ARTICLE 4
 
 La commission d'attribution du diplôme de qualification supérieure mentionnée à l'article 4 se compose des officiers désignés dans le tableau ci-après :
 
-PRÉSIDENCE DE LA COMMISSION -
+PRÉSIDENCE DE LA COMMISSION - TITULAIRE |
 
-TITULAIRE |
-
-PRÉSIDENCE DE LA COMMISSION -
-
-SUPPLÉANT |
+PRÉSIDENCE DE LA COMMISSION - SUPPLÉANT |
 
 MEMBRES |
 
