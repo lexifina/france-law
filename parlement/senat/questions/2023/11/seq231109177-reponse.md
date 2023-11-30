@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231109177
+
+- Question : [SEQ231109177](seq231109177.md) — Compétences du regroupement pédagogique intercommunal décidant d'une dérogation scolaire entre deux de ses communes
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2023-11-30, page 6673*
+
+Deux ou plusieurs communes peuvent se réunir pour l'établissement et l'entretien d'une école. Ce regroupement de plusieurs communes s'impose lorsque deux ou plusieurs localités étant distantes de moins de trois kilomètres, la population scolaire de l'une d'elles est, à la rentrée scolaire, inférieure à quinze élèves. Ces regroupements permettent de rompre l'isolement des maîtres, d'assurer une meilleure continuité des parcours scolaires entre les cycles du primaire et entre le primaire et le collège, et de garantir aux enfants, sur l'ensemble du territoire, les mêmes chances d'accès à la formation et au savoir, dans le cadre d'un service public d'éducation de proximité et de qualité. De tels regroupements prennent la forme d'un regroupement pédagogique intercommunal (RPI) dont l'existence repose sur un accord contractuel entre les communes concernées, précisant notamment les conditions de répartition des charges entre les communes parties prenantes au regroupement pour la scolarisation des enfants résidents sur le territoire desdites communes. Le RPI est une simple structure pédagogique contractuelle qui n'a pas de personnalité juridique propre et ne constitue donc pas en soi une entité juridique distincte de ses communes membres. Le maire de la ou des communes d'implantation d'une école du RPI conserve ses compétences en matière d'inscription des enfants, notamment en matière d'acceptation des demandes de dérogation. Dans ce dernier cas, ce sont les dispositions de droit commun qui régissent la participation financière de la commune de résidence de l'enfant pour sa scolarisation dans une autre commune.
