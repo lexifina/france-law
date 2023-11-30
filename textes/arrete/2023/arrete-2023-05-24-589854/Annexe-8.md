@@ -180,4 +180,6 @@ Postes désignés sur proposition du directeur ou du chef du service gestionnair
 
 - commandement des éléments français au Sénégal ;
 
-- postes d'aumôniers militaires désignés sur proposition du directeur central du service du commissariat des armées exigeant la mise en œuvre de la compétence spécifique de combattant parachutiste spécialisé.
+- postes d'aumôniers militaires désignés sur proposition du directeur central du service du commissariat des armées exigeant la mise en œuvre de la compétence spécifique de combattant parachutiste spécialisé ;
+
+- groupe d'intervention de la gendarmerie nationale (échelon central).
