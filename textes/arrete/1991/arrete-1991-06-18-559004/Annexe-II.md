@@ -102,7 +102,7 @@ En cas de contrôle technique périodique ou de contre-visite d'un véhicule sou
 
 -numéro d'agrément ;
 
--nom et prénom ;
+-nom et prénom : non renseignés ;
 
 -signature.
 
@@ -234,13 +234,17 @@ Le verso du procès-verbal comporte exclusivement les mentions suivantes :
 
 -“ Vous disposez d'un droit d'accès et de rectification des informations nominatives vous concernant. Vous pouvez exercer ce droit en vous adressant au centre ayant édité le présent procès-verbal ”.
 
+-La signalétique prévue à l'article L. 541-9-3 du code de l'environnement.
+
 1.4. Couleurs d'impression
 
 Les couleurs d'impression des inscriptions fixes sont :
 
 -recto : bleu process (centre non rattaché) ou couleurs spécifiques du réseau ;
 
--verso : bleu process (centre non rattaché) ou couleurs spécifiques du réseau.
+-verso : bleu process (centre non rattaché) ou couleurs spécifiques du réseau ;
+
+Ces dispositions ne s'appliquent pas à la signalétique prévue à l'article L. 541-9-3 du code de l'environnement dont la couleur est conforme à la réglementation applicable.
 
 1.5. Numérotation
 
@@ -314,7 +318,7 @@ Dans le cas de la réalisation d'un contrôle technique complémentaire ou d'une
 
 La taille des caractères utilisés pour cette information variable propre à chaque vignette permet une lecture facile de la vignette et correspond à une utilisation optimale de la surface disponible. Leur hauteur n'est pas inférieure à deux millimètres ; la graisse de ces caractères est comparable à celle des indications fixes afin d'obtenir une bonne lisibilité de cette information. L'encre utilisée résiste à la lumière pendant une durée d'au moins deux ans.
 
-L'identification du réseau (dénomination sociale ou enseigne commerciale) peut être apposée sur la vignette sous réserve de ne pas nuire à la lisibilité des autres informations.
+L'identification du réseau (dénomination sociale ou enseigne commerciale) peut être apposée sur la vignette sous réserve de ne pas nuire à la lisibilité des autres informations .
 
 2.3. Verso
 
@@ -386,7 +390,7 @@ Dans le cas de la réalisation d'un contrôle technique complémentaire ou d'une
 
 Ces informations sont apposées par impression. Elles permettent une lecture facile du timbre et correspondent à une utilisation optimale de la surface disponible.
 
-L'identification du réseau (dénomination sociale ou nom commercial) peut être apposée sur le timbre sous réserve de ne pas nuire à la lisibilité des autres informations.
+L'identification du réseau (dénomination sociale ou nom commercial) peut être apposée sur le timbre sous réserve de ne pas nuire à la lisibilité des autres informations .
 
 3.3. Couleurs d'impression
 
@@ -406,4 +410,4 @@ Sa sécurité peut, en outre, être renforcée par la présence d'un pictogramme
 
 NOTA :
 
-Conformément à l’article 13 de l’arrêté du 8 février 2022 (NOR : TRER2204042A), ces dispositions entrent en vigueur deux mois après la publication de l'arrêté
+Conformément à l’article 11 de l’arrêté du 25 juillet 2023 (NOR : TRER2314642), ces dispositions entrent en vigueur le 1er décembre 2023.
