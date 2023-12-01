@@ -732,7 +732,7 @@ B
 
 Direction départementale des territoires du Val-d'Oise
 
-Fonctions exercées |
+Fonction exercée |
 
 Niveau de qualification
 
@@ -752,7 +752,7 @@ A |
 
 50 |
 
-Adjoint au chef du service de l'habitat, de la rénovation urbaine et du bâtiment |
+Adjoint au chef de service de l'habitat, de la rénovation urbaine et du bâtiment-service de l'habitat, de la rénovation urbaine et du bâtiment |
 
 A |
 
@@ -760,7 +760,7 @@ A |
 
 50 |
 
-Responsable du pôle rénovation urbaine |
+Responsable du pôle rénovation urbaine-pôle rénovation urbaine-service de l'habitat, de la rénovation urbaine et du bâtiment |
 
 A |
 
@@ -768,7 +768,7 @@ A |
 
 50 |
 
-Responsable du pôle parc social |
+Adjoint au responsable du pôle rénovation urbaine-pôle rénovation urbaine-service de l'habitat, de la rénovation urbaine et du bâtiment |
 
 A |
 
@@ -776,7 +776,7 @@ A |
 
 50 |
 
-Chargé de mission-Pôle rénovation urbaine |
+Chargé de mission-pôle rénovation urbaine-service de l'habitat, de la rénovation urbaine et du bâtiment |
 
 B |
 
@@ -784,7 +784,9 @@ B |
 
 30 |
 
-Chargé d'études rénovation urbaine-Pôle rénovation urbaine |
+Chargé d'études rénovation urbaine-
+
+pôle rénovation urbaine-service de l'habitat, de la rénovation urbaine et du bâtiment |
 
 B |
 
@@ -792,7 +794,7 @@ B |
 
 30 |
 
-Chargé d'études rénovation urbaine, Taxes foncières sur les propriétés bâties (TFPB)-Pôle rénovation urbaine |
+Chargé d'études rénovation urbaine, Taxes foncières sur les propriétés bâties (TFPB)-pôle rénovation urbaine-service de l'habitat, de la rénovation urbaine et du bâtiment |
 
 B |
 
@@ -815,3 +817,5 @@ Conformément à l'article 1er de l'arrêté du 28 juillet 2017 (TERK1722360A), 
 Conformément à l'article 1er de l'arrêté du 26 février 2019 (TREK1905850A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Yonne entrent en vigueur le 1er octobre 2017.
 
 Conformément à l'article 1er de l'arrêté du 5 mai 2022 (NOR : TERK2213530A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Essonne entrent en vigueur à effet du 1er janvier 2021.
+
+Conformément à l'article 1er de l'arrêté du 23 novembre 2023 (NOR : TREK2332065A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Val-d'Oise, prennent effet à la date de signature dudit acte.
