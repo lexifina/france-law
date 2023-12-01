@@ -126,6 +126,30 @@ Encadrement et animation des activités physiques ou sportives. |
 
 A l'exclusion des pratiques compétitives. |
 
+DE JEPS, spécialité " perfectionnement sportif ", mention " activités physiques et sportives adaptées ", jusqu'au 1er février 2028. |
+
+5 |
+
+Animation de séances de découverte et d'initiation d'activités physiques ou sportives |
+
+A l'exclusion des pratiques compétitives. |
+
+DES JEPS, spécialité " performance sportive ", mention " sport adapté ", jusqu'au 28 février 2027. |
+
+6 |
+
+Animation de séances de découverte et d'initiation d'activités physiques ou sportives |
+
+A l'exclusion des pratiques compétitives. |
+
+DE JEPS, spécialité " perfectionnement sportif " mention " handisport ", jusqu'au 1er avril 2028 (**). |
+
+5 |
+
+Animation de séances de découverte et d'initiation d'activités physiques ou sportives |
+
+A l'exclusion des pratiques compétitives. |
+
 Titres à finalité professionnelle délivrés par le ministère chargé de la défense |
 
 Aide-moniteur d'entraînement physique, militaire et sportif, délivré jusqu'au 21 décembre 2023. |
@@ -202,6 +226,30 @@ ACTIVITÉS DE FITNESS DANS L'EAU y compris toutes les qualifications mentionnée
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
+Licence mention " STAPS : éducation et motricité "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024 |
+
+6 |
+
+Animation de séances d'animation en aqua fitness.
+
+Surveillance et sauvetage en milieu aquatique.
+
+|
+
+Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur encours de validité. |
+
+Licence mention " STAPS : activité physique adaptée et santé "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024 |
+
+6 |
+
+Animation de séances d'animation en aqua fitness.
+
+Surveillance et sauvetage en milieu aquatique.
+
+|
+
+Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur encours de validité. |
+
 DEUST " animation et gestion des activités physiques, sportives ou culturelles "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
 
 5 |
@@ -269,6 +317,40 @@ Encadrement de séances en aqua fitness.
 Surveillance et sauvetage en milieu aquatique. |
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
+
+Certification délivrée par la société Waterform associée à une certification professionnelle : |
+
+Certification " Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 (**) associé au BP JEPS, spécialité " éducateur sportif " mentions " activités de la forme ", " char à voile ", " motonautisme et disciplines associées ", " voile multi-supports jusqu'à 6 milles nautiques d'un abri ", " voile croisière jusqu'à 200 milles nautiques d'un abri ", " glisses aérotractées et disciplines associées ", " ski nautique-wakeboard, disciplines associées et tous supports de glisse tractés ", " activités du canoë-kayak et disciplines associées en mer ", " activités du canoë-kayak et disciplines associées en eau vive jusqu'à la classe III, en eau calme et en mer jusqu'à 4 Beaufort ", " activités du canoë-kayak et disciplines associées en eau vive ", " aviron et disciplines associées ", " plongée subaquatique ". |
+
+|
+
+Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
+
+Sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
+
+Certification " Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 (**) associé au DE JEPS spécialité " perfectionnement sportif " mentions " activités de plongée subaquatique ", " canoë-kayak et disciplines associées en eau calme ", " canoë-kayak et disciplines associées en eau vive ", " triathlon ", " char à voile ", " aviron et disciplines associées ", " glisses aérotractées nautiques ", " surf et disciplines associées ", " natation course ", " plongeon ", " water-polo ", " natation synchronisée ", " voile ", " voile au-delà de 200 milles nautiques d'un abri ", " triathlon et disciplines enchaînées ". |
+
+|
+
+Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
+
+Sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
+
+Certification " Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 (**) associé au DES JEPS spécialité " performance sportive " mentions " plongée subaquatique ", " canoë-kayak et disciplines associées en eau calme ", " char à voile ", " aviron et disciplines associées ", " natation course ", " plongeon ", " water-polo ", " natation synchronisée ", " voile ". |
+
+|
+
+Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
+
+Sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
+
+Certification " Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 (**) associé au CQP instructeur de fitness option " cours collectifs " ou au CQP animateur de loisirs sportifs option " activités gymniques d'entretien et d'expression ". |
+
+|
+
+Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
+
+Sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
 
 ACTIVITÉS DE LA FORME
 
@@ -876,16 +958,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP Base Ball-Softball-Cricket, délivré du 14 octobre 2020 au 14 octobre 2023. |
-
-4 |
-
-Entraînement et encadrement des activités de baseball ou softball ou cricket. |
-
-|
-
 BASKET-BALL
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -1096,15 +1168,25 @@ Par vent de force 3 Beaufort maximum sur le site d'évolution.
 
 |
 
-CQP "accompagnateur de raft et nage en eau vive", délivrée (**) du 24 avril 2023 au 24 avril 2026. |
+CQP " accompagnateur de raft et nage en eau vive ", du 24 avril 2023 au 24 avril 2026 (**). |
 
 3 |
 
-Conduite de séance d'animation en nage en eau vive ou en raft au sein d'un convoi, à des fins de découverte ou d'initiation. |
+Conduite de séance d'animation en nage en eau vive ou en raft à des fins de découverte ou d'initiation. |
 
-Sur des rivières naturelles jusqu'en classe 3 ;
+Pour les sites de pratique en milieu artificiel, sous la responsabilité d'un titulaire présent sur le site :
 
-Sous la responsabilité d'un titulaire d'un diplôme a minima de niveau 4 présent dans le convoi. |
+-soit d'un diplôme mention " canoë-kayak et disciplines associées "
+
+-soit d'une certification professionnelle de niveau 4 minimum ouvrant des prérogatives d'encadrement en raft et nage en eau vive.
+
+Pour les sites de pratique en milieu naturel, en convoi et sous la responsabilité d'un titulaire :
+
+-soit d'un diplôme mention " canoë-kayak et disciplines associées "
+
+-soit d'une certification professionnelle de niveau 4 minimum ouvrant des prérogatives d'encadrement en raft et nage en eau vive.
+
+|
 
 CANOË-KAYAK-ENVIRONNEMENT SPÉCIFIQUE (rivière de classe supérieure à trois conformément aux normes de classement technique édictées par la fédération délégataire) |
 
@@ -1452,11 +1534,11 @@ Animation et enseignement de l'équitation western. |
 
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation des entreprises équestres |
 
-CQP " enseignant animateur d'équitation ", délivré jusqu'au 14 décembre 2027. |
+CQP " enseignant activités équestres ", jusqu'au 14 décembre 2027 (**). |
 
-|
+4 |
 
-Conduite de séances d'initiation aux pratiques équestres. |
+Conduite de séances d'initiation et d'apprentissage aux pratiques équestres. |
 
 |
 
@@ -2506,14 +2588,6 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS spécialité " perfectionnement sportif " mention " triathlon "délivré jusqu'au 1er septembre 2023. |
-
-5 |
-
-Encadrement du longe-côte. |
-
-|
-
 DE JEPS spécialité " perfectionnement sportif " mention " char à voile " délivré jusqu'au 1er décembre 2026. |
 
 5 |
@@ -2779,6 +2853,66 @@ Encadrement et animation en motonautisme et disciplines associées des activité
 NATATION |
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
+
+DEUST " animation et gestion des activités physiques, sportives ou culturelles "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+
+5 |
+
+Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages.
+
+Surveillance et sauvetage en milieu aquatique.
+
+|
+
+Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
+
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+
+6 |
+
+Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages.
+
+Surveillance et sauvetage en milieu aquatique.
+
+|
+
+Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
+
+Licence mention " STAPS : entrainement sportif "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+
+6 |
+
+Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages.
+
+Surveillance et sauvetage en milieu aquatique.
+
+|
+
+Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
+
+Licence mention " STAPS : éducation et motricité "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+
+6 |
+
+Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages.
+
+Surveillance et sauvetage en milieu aquatique.
+
+|
+
+Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
+
+Licence mention " STAPS : activité physique adaptée et santé "-activités aquatiques et surveillance ", spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+
+6 |
+
+Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages.
+
+Surveillance et sauvetage en milieu aquatique.
+
+|
+
+Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
 Licence mention " STAPS : entraînement sportif "-natation, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
 
@@ -3098,29 +3232,25 @@ PLONGÉE SUBAQUATIQUE-ENVIRONNEMENT SPÉCIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS spécialité " éducateur sportif ", mention " plongée subaquatique ", option " en scaphandre ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS spécialité " éducateur sportif ", mention " plongée subaquatique ", option " en scaphandre ", jusqu'au 1er novembre 2028. |
 
 4 |
 
 Enseignement et encadrement d'activités de découverte et d'apprentissage de la plongée subaquatique en scaphandre, Encadrement de la randonnée subaquatique. |
 
-Pour la plongée subaquatique en scaphandre :
+Pour la plongée subaquatique en scaphandre :-sous la responsabilité d'un directeur de plongée, à l'exclusion du plongeur niveau 5, du DPE et du moniteur 2 étoiles CMAS, sauf dans le cas où la plongée se déroule dans une piscine ou une fosse de plongée dont la profondeur n'excède pas 6 mètres ;-dans la limite de 20 mètres pour l'enseignement ;-dans la limite de 40 mètres pour l'encadrement de la plongée en exploration. Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
--sous la responsabilité d'un directeur de plongée, à l'exclusion du plongeur niveau 5, du DPE et du moniteur 2 étoiles CMAS, sauf dans le cas où la plongée se déroule dans une piscine ou une fosse de plongée dont la profondeur n'excède pas 6 mètres ;
+BP JEPS spécialité " éducateur sportif ", mention " plongée subaquatique ", option " sans scaphandre ", jusqu'au 1er novembre 2028. |
 
--dans la limite de 20 mètres pour l'enseignement ;
+4
 
--dans la limite de 40 mètres pour l'encadrement de la plongée en exploration. Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'une formation de mise à niveau. |
-
-BP JEPS spécialité " éducateur sportif ", mention " plongée subaquatique ", option " sans scaphandre ", délivré jusqu'au 1er janvier 2024. |
-
-4 |
+|
 
 Enseignement et encadrement d'activités de découverte et d'apprentissage de la plongée subaquatique sans scaphandre, y compris la randonnée subaquatique, ou entraînement de leurs pratiquants. |
 
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " activités de plongée subaquatique ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " activités de plongée subaquatique ", jusqu'au 1er novembre 2028. |
 
 5 |
 
@@ -3181,6 +3311,14 @@ Conduite de séance de découverte, d'initiation et d'apprentissage aux activit�
 Dans la limite de 20 pratiquants sur une même séance et un même lieu
 
 |
+
+CQP moniteur de sports à roulettes option roller, du 20 septembre 2023 au 20 septembre 2026 (**). |
+
+3 |
+
+Conduite de séances de découverte, d'initiation et d'apprentissage aux activités de roller |
+
+Dans la limite de 20 pratiquants sur une même séance et un même lieu. |
 
 RUGBY à XIII
 
@@ -3330,6 +3468,16 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
+Certificat de qualification professionnelle délivré par l'organisme certificateur de la branche du sport (OC sport) |
+
+CQP moniteur de sports à roulettes option skateboard du 20 septembre 2023 au 20 septembre 2026 (**). |
+
+3 |
+
+Conduite de séances de découverte, d'initiation et d'apprentissage aux activités de skateboard |
+
+Dans la limite de 20 pratiquants sur une même séance et un même lieu. |
+
 SKI NAUTIQUE
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -3447,6 +3595,34 @@ DE JEPS, spécialité "perfectionnement sportif" mention "sport automobile" opti
 Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
 
 |
+
+CC " encadrer des activités de sport automobile sur glace ou sur surface enneigée " associé au :
+
+-BP JEPS spécialité " éducateur sportif " mention " sport automobile " option A : " perfectionnement au pilotage " ou option C : " tout-terrain "
+
+-BP JEPS spécialité " sport automobile " mentions " perfectionnement du pilotage ", " rallye ", " circuit " ou " tout-terrain ".
+
+|
+
+|
+
+Animation de séances et de cycles de découverte, d'initiation ou d'apprentissage à la conduite sur glace ou sur surface enneigée au volant d'une automobile homologuée route, sur un circuit automobile homologué. |
+
+A l'exclusion de la compétition y compris la préparation |
+
+CC " encadrer des activités de sport automobile en véhicule monoplace et prototype " associé au :
+
+-BP JEPS spécialité " éducateur sportif " mention " sport automobile " option A : " perfectionnement au pilotage "
+
+-BP JEPS spécialité " sport automobile " mentions " perfectionnement du pilotage " ou " rallye ".
+
+|
+
+|
+
+Animation de séances et de cycles de découverte, d'initiation ou d'apprentissage à la conduite de véhicule monoplace et prototype sur circuit automobile revêtu permanent homologué, répondant aux règles techniques et de sécurité (RTS) de la discipline |
+
+A l'exclusion de la compétition y compris la préparation |
 
 SPORTS BOULES
 
@@ -3589,30 +3765,6 @@ BP JEPS, spécialité " éducateur sportif " mention " sports de glace " option 
 4 |
 
 Encadrement en sécurité d'activités de loisir et de découverte des sports de glace. Conduite de cycles d'apprentissage dans les disciplines d'adresse sur glace. |
-
-|
-
-DE JEPS, spécialité " perfectionnement sportif " mention " patinage " ou " disciplines d'expression sur glace ", délivré jusqu'au 31 juillet 2023. |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
-DE JEPS, spécialité " perfectionnement sportif " mention " patinage de vitesse " ou " disciplines de vitesse sur glace ", délivré jusqu'au 31 juillet 2023. |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
-DE JEPS, spécialité " perfectionnement sportif " mention " descente sur glace " ou " disciplines de descente sur glace ", délivré jusqu'au 31 juillet 2023. |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
 
 |
 
@@ -4042,7 +4194,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DEJEPS, spécialité " perfectionnement sportif ", mention " tir sportif ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " tir sportif ", jusqu'au 12 août 2028. |
 
 5 |
 
@@ -4109,14 +4261,6 @@ UCC " triathlon " associée au :
 |
 
 Conduite de cycles d'apprentissage en triathlon. |
-
-|
-
-DE JEPS, spécialité " perfectionnement sportif ", mention " triathlon ", délivré jusqu'au 1er septembre 2023 |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
 
 |
 
