@@ -1448,6 +1448,16 @@ Encadrement et animation du stand up paddle (SUP). |
 
 |
 
+DE JEPS, spécialité " perfectionnement sportif " mention " triathlon ", délivré jusqu'au 1er juin 2023.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
+
+Encadrement du longe-côte. |
+
+|
+
 C-5.-Diplôme d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
 
 INTITULÉ DU DIPLÔME |
@@ -2273,3 +2283,11 @@ CQP animateur d'athlétisme, option " athlé loisirs ", délivré jusqu'au 21 ju
 Encadrement d'activités de découverte, d'initiation et d'entretien en athlétisme dont la marche nordique. |
 
 A l'exclusion des pratiques compétitives. |
+
+CQP baseball-softball-cricket, délivré du 14 octobre 2020 au 14 octobre 2023.
+
+|
+
+Entraînement et encadrement des activités de baseball ou softball ou cricket |
+
+A l'exclusion des pratiques compétitives |
