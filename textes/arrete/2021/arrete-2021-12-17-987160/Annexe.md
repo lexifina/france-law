@@ -28,7 +28,7 @@ Cabinet du ministre de la défense |
 
 17 |
 
-16 |
+17 |
 
 Etat-major des armées |
 
@@ -38,7 +38,7 @@ Etat-major des armées |
 
 4 919 |
 
-14 126 |
+14 125 |
 
 Secrétariat général de la défense et de la sécurité nationale |
 
@@ -215,3 +215,7 @@ Bataillon de marins-pompiers de Marseille |
 TOTAL |
 
 270 |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 28 novembre 2023 (NOR : ARMH2332628A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de décembre 2023.
