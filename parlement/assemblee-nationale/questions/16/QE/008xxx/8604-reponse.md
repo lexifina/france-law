@@ -1,0 +1,9 @@
+# Réponse à la question n° 8604
+
+- Question : [8604](8604.md) — Question n° 8604 — Reconnaissance des troubles anxieux scolaires
+
+## Réponse
+
+*JO du 2023-12-05, page 10915*
+
+Le ministère de l'éducation nationale et de la jeunesse prend en compte, depuis leur apparition plus fréquente dans les années 2010, les troubles scolaires anxieux. L'ensemble des personnels et particulièrement les médecins de l'éducation nationale ont établi des guides et des protocoles pour aider les élèves qui en sont atteints dans le cadre d'un projet d'accueil individualisé (PAI), dont la dernière circulaire en date du 10 février 2021 les mentionne spécifiquement. Ils constatent une augmentation de la fréquence de ces troubles et accompagnent de nombreux élèves. L'augmentation des troubles anxieux et dépressifs liés à la crise sanitaire inclut effectivement les refus scolaires anxieux. Toutefois, le maintien de l'ouverture de l'école en France, qui a bien nécessité des règles, a probablement réduit l'impact de la crise sanitaire sur la santé mentale des élèves. Depuis la circulaire sur l'Accompagnement pédagogique à domicile, à l'hôpital ou à l'École (APADHE) du 20 août 2020, pour les cas d'empêchement scolaire pour raisons de santé physique ou psychique, un pilotage national permet d'évaluer le dispositif avec une attention particulière sur l'équité d'accompagnement des élèves dans tous les territoires. Il recense les bonnes pratiques afin de permettre en retour l'amélioration du dispositif dans les territoires. A l'occasion du prochain rapport du comité de pilotage, un séminaire est programmé avant la fin de l'année civile 2023 avec pour thématique centrale les troubles scolaires anxieux. Une attention particulière est en outre portée à l'attractivité de la santé scolaire afin de pouvoir répondre aux besoins des élèves sur tous les territoires.
