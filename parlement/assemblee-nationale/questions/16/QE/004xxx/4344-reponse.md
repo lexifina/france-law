@@ -1,0 +1,9 @@
+# Réponse à la question n° 4344
+
+- Question : [4344](4344.md) — Question n° 4344 — Part du temps de travail des forces de l'ordre dédié à la police de la route
+
+## Réponse
+
+*JO du 2023-12-05, page 10936*
+
+Les forces de sécurité intérieure de l'État sont des acteurs incontournables de la politique de sécurité routière en contribuant, par leurs missions de prévention et leurs actions de contrôle, à prévenir la commission d'infractions. Elles jouent donc un rôle majeur pour la sécurité des conducteurs, des transports de marchandises et des voies de circulation, s'inscrivant dans le cadre de la sécurité des mobilités. Pour ce qui concerne la gendarmerie nationale, les indicateurs d'activité, extraits de l'Infocentre, font ressortir un volume d'heures/gendarme consacré à la sécurité routière de 8 065 850 heures en 2022. Pour la police nationale, les données d'activité adressées par la DCSP, la DCCRS et la PP font ressortir que le volume d'heures/policier consacré à la sécurité routière est de 1 800 100 heures pour l'année 2022. La montée en puissance du contrôle sanction automatisé (CSA : vitesses, feux) accompagnée par la mise en place de nouveaux dispositifs (radars chantiers, radars tourelles) contribue à la lutte contre l'insécurité routière, et permet aux effectifs d'être recentrés sur la répression des infractions graves génératrices d'accidents (conduite sous l'empire d'un état alcoolique [CEEA], conduite après usage de stupéfiants, grandes vitesses). Par ailleurs, il convient de souligner que lorsque les militaires de la gendarmerie et les fonctionnaires de la police nationale effectuent des services de surveillance du réseau routier et de contrôle des flux de circulation, ils contribuent également par leur présence et leur visibilité à l'ordre et à la sécurité publiques ainsi qu'à la lutte contre la délinquance d'appropriation.
