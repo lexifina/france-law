@@ -1,0 +1,9 @@
+# Réponse à la question n° 9740
+
+- Question : [9740](9740.md) — Question n° 9740 — Répartition des hélicoptères de la sécurité civile sur le territoire
+
+## Réponse
+
+*JO du 2023-12-05, page 10951*
+
+Les hélicoptères de la sécurité civile sont principalement dédiés au secours à personne en milieu périlleux. C'est la raison pour laquelle les bases hélicoptères sont principalement installées sur le pourtour maritime de la France et en montagne. Dans les zones où les hélicoptères ne sont pas présents pour réaliser des missions héliportées de sécurité en milieu périlleux, des hélicoptères du SAMU (héliSMUR) réalisent des missions de secours primaires et de transferts interhospitalier héliportés. Pour ce qui concerne les moyens aériens de lutte contre les feux de forêt, ils sont gérés de façon centralisée par la DGSCGC qui les met à disposition des zones de défense et de sécurité en fonction du risque incendie. A ce titre, elle a déployé, de manière préventive, des « pélicandromes » afin de ravitailler en eau ou en produit retardant ses moyens, au-delà des points d'eau qui peuvent permettre des écopages par les Canadair. Avec le réchauffement climatique, ce déploiement des pélicandromes, autrefois circonscrit au sud de la France, s'étend à d'autres régions. Ainsi, les aérodromes de Châteauroux et d'Angers en ont été dotés. Par ailleurs en 2023, la DGSCGC a passé un marché pluriannuel afin de bénéficier d'une flotte d'hélicoptères bombardiers d'eau pouvant aller jusqu'à 10 appareils. Ces appareils, au même titre que les avions, sont déployés en fonction de l'étude du risque incendie sur l'ensemble du territoire. Enfin, sur la question plus large du positionnement des hélicoptères, le Gouvernement a confié une mission au député M. MOREL-A-L'HUISSIER sur les moyens héliportés en France pour analyser les différents moyens héliportés publics du secours d'urgence à personne et de l'aide médicale urgente, leur implantation et leurs emplois.
