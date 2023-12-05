@@ -1,0 +1,9 @@
+# Réponse à la question n° 10396
+
+- Question : [10396](10396.md) — Question n° 10396 — Défaut d'exécution - contrat de service en EPIDE
+
+## Réponse
+
+*JO du 2023-12-05, page 10964*
+
+Les dispositions issues de la loi du 26 décembre 2011 ont bien été codifiées au sein du code de la justice pénale des mineurs (CJPM) entré en vigueur le 30 septembre 2021. Le contrat de service en EPIDE peut ainsi être proposé au mineur dans le cadre d'une procédure de composition pénale (article L. 422-3 CJPM) et dans le cadre d'une peine d'emprisonnement assortie d'un sursis probatoire (article L. 122-2 CJPM). En outre, dans le cadre du partenariat Armées – Justice, une convention de coopération est en cours d'élaboration entre la DPJJ et la Direction Générale des EPIDE. Cette convention permettra de favoriser l'accès de jeunes PJJ volontaires à un contrat EPIDE et de sécuriser les parcours d'insertion socio-professionnelle de ces jeunes. La convention vise deux finalités : améliorer les connaissances mutuelles et accroitre les échanges entre la PJJ et les centres EPIDE ; définir les modalités d'articulation entre la PJJ et les EPIDE pour permettre un meilleur accès des jeunes pris en charge par la PJJ au sein des centres EPIDE. Elle prévoit une collaboration entre les professionnels de la PJJ et des EPIDE, de la candidature des jeunes volontaires jusqu'à la sortie du dispositif, afin de sécuriser le parcours d'insertion du jeune. En effet, les fragilités des jeunes PJJ doivent entrainer une attention particulière à leur égard sans qu'elles ne soient un frein à leur insertion. La convention de coopération cadre prévoit la déclinaison territoriale de cette convention afin de permettre une meilleure application locale des objectifs, en raison de l'inégale répartition des centres EPIDE sur l'hexagone. Elle devrait être finalisée début 2024.
