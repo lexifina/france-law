@@ -252,7 +252,7 @@ Uniquement si le délai d'un an prévu par l'article 420 du code de procédure c
 
 |
 
-La remise des pièces par le bénéficiaire à l'huissier de justice vaut mandat d'encaisser (article 18 du décret n° 56-222 du 29 février 1956 pris pour l'application de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice). |
+La remise des pièces par le bénéficiaire à l'huissier de justice vaut mandat d'encaisser ( article 18 du décret n° 56-222 du 29 février 1956 pris pour l'application de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice). |
 
 1.2.1.4. Notaires |
 
@@ -1516,19 +1516,23 @@ Ces prestations sont en principe prises en charge directement par le budget de f
 
 3. DÉPENSES DE PERSONNEL |
 
-Conformément à l'article 18 de l'arrêté du 22 mars 2018 relatif aux modalités d'établissement, de conservation et de transmission sous forme dématérialisée des pièces justificatives et des documents de comptabilité des opérations de l'Etat pris en application des articles 51, 52, 150 et 164 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, les modalités de dématérialisation ne s'appliquent pas aux pièces justificatives relatives aux opérations de dépenses de personnel payées sans ordonnancement préalable (PSOP).
+1) Conformément à l'article 18 de l'arrêté du 22 mars 2018 relatif aux modalités d'établissement, de conservation et de transmission sous forme dématérialisée des pièces justificatives et des documents de comptabilité des opérations de l'Etat pris en application des articles 51,52,150 et 164 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, les modalités de dématérialisation ne s'appliquent pas aux pièces justificatives relatives aux opérations de dépenses de personnel payées sans ordonnancement préalable (PSOP).
 
-La dématérialisation des pièces justificatives en PSOP est néanmoins possible dans les conditions prévues par l'arrêté du 2 avril 2019 relatif à la gestion dématérialisée des pièces justificatives des dépenses de personnel de l'Etat mises en paiement sans ordonnancement préalable.
+2) La dématérialisation des pièces justificatives en PSOP est néanmoins possible dans les conditions prévues par l'arrêté du 2 avril 2019 relatif à la gestion dématérialisée des pièces justificatives des dépenses de personnel de l'Etat mises en paiement sans ordonnancement préalable.
 
-Les pièces justificatives non produites au comptable sont conservées par le service gestionnaire aux fins d'un éventuel contrôle.
+3) Les pièces peuvent également être adressées au comptable selon les modalités prévues par l'arrêté du 6 mars 2023 fixant les modalités de la transmission électronique aux comptables publics de l'Etat en charge de la paye sans ordonnancement préalable des pièces justificatives numérisées des dépenses de personnel de l'Etat mises en paiement sans ordonnancement préalable.
 
-Pour les administrations autorisées par la DGFIP à mettre en œuvre un aménagement du listage des entrées mensuelles de la paye :
+4) Les pièces justificatives non produites au comptable sont conservées par le service gestionnaire aux fins d'un éventuel contrôle.
 
-- les mouvements générés automatiquement par l'outil informatique de l'ordonnateur et marqués " ** ", ne sont pas appuyés de l'arrêté, de la décision au format papier : leur contenu est alors résumé sur le listage des entrées de paye ;
+5) Pour les administrations autorisées par la DGFIP à mettre en œuvre un aménagement du listage des entrées mensuelles de la paye :
 
-- les mouvements ayant fait l'objet d'une intervention manuelle du gestionnaire et marqués " -- " sont justifiés dans les conditions habituelles (pièce au format papier, le cas échéant), sauf libellé contraire ou mouvement autoporteur.
+-les mouvements générés automatiquement par l'outil informatique de l'ordonnateur et marqués ** , ne sont pas appuyés de l'arrêté, de la décision au format papier : leur contenu est alors résumé sur le listage des entrées de paye ;
 
-Les ordonnateurs transmettent aux comptables les certifications qu'ils délivrent et encourent une responsabilité dans les conditions fixées par la loi. Lorsque, à l'occasion de l'exercice de ses contrôles, le comptable public a constaté des irrégularités ou des inexactitudes dans les certifications de l'ordonnateur, il suspend le paiement et en informe l'ordonnateur.
+-les mouvements ayant fait l'objet d'une intervention manuelle du gestionnaire et marqués -- sont justifiés dans les conditions habituelles (pièce au format papier, le cas échéant), sauf libellé contraire ou mouvement autoporteur.
+
+L'installation peut être certifiée via le listage des entrées mensuelles de la paye, le cas échéant en amont de l'installation effective de l'agent. En ce cas, il appartient à l'ordonnateur de signaler immédiatement au comptable tout agent qui n'aurait pas pris son poste.
+
+6) Les ordonnateurs transmettent aux comptables les certifications qu'ils délivrent et encourent une responsabilité dans les conditions fixées par la loi. Lorsque, à l'occasion de l'exercice de ses contrôles, le comptable public a constaté des irrégularités ou des inexactitudes dans les certifications de l'ordonnateur, il suspend le paiement et en informe l'ordonnateur.
 
 L'ordonnateur peut apporter au comptable, par certificat administratif, des précisions utiles à l'interprétation d'une pièce justificative ou des informations relatives à une situation de fait. |
 
@@ -1540,37 +1544,41 @@ L'ordonnateur peut apporter au comptable, par certificat administratif, des pré
 
 3.1.1. Prise en charge du dossier |
 
-1) En cas de réorganisation administrative entraînant un changement de comptable assignataire et/ou d'ordonnateur, sans mobilité de l'agent, et en l'absence de changement dans la situation de l'agent, aucune pièce justificative n'est à produire en cas de transmission automatique des données du dossier comptable par le précédent comptable. Les exceptions à ce dispositif sont signalées par le comptable.
+1) En cas de réorganisation administrative entraînant un changement de comptable assignataire et/ ou d'ordonnateur, sans mobilité de l'agent, et en l'absence de changement dans la situation de l'agent, aucune pièce justificative n'est à produire en cas de transmission automatique des données du dossier comptable par le précédent comptable. Les exceptions à ce dispositif sont signalées par le comptable.
 
 2) Les administrations autorisées à mettre en œuvre la dématérialisation des pièces justificatives en PSOP dans les conditions prévues par l'arrêté du 2 avril 2019 précité peuvent déposer sur le portail la fiche interministérielle de situation individuelle-volet comptable (FISI-volet comptable) se substituant à certaines pièces justificatives, dans le périmètre d'intervention défini ci-après :
 
-- mutation/affectation entraînant un changement de comptable/SLR assignataire PAY/PAYSAGE (ne concerne donc pas les échanges avec la FPH, FPT, les militaires et autres personnels non payés en PSOP) ;
+-mutation/ affectation entraînant un changement de comptable/ SLR assignataire PAY/ PAYSAGE (ne concerne donc pas les échanges avec la FPH, FPT, les militaires et autres personnels non payés en PSOP) ;
 
-- ordonnateurs (de départ et d'arrivée) mettant en œuvre la dématérialisation portée par l'arrêté du 2 avril 2019 précité ;
+-ordonnateurs (de départ et d'arrivée) mettant en œuvre la dématérialisation portée par l'arrêté du 2 avril 2019 précité ;
 
-La FISI-volet comptable ne concerne pas les primo arrivants ou les agents pris en charge après une cessation de fonction ayant entraîné une interruption de la paye (congé parental, disponibilité…). Elle est conditionnée par le paiement en PSOP de l'agent le mois précédent celui du nouveau paiement en PSOP.
+La FISI-volet comptable ne concerne pas les primo arrivants ou les agents pris en charge après une cessation de fonction ayant entraîné une interruption de la paye (congé parental, disponibilité …). Elle est conditionnée par le paiement en PSOP de l'agent le mois précédent celui du nouveau paiement en PSOP.
 
 La FISI-volet comptable ne concerne que les agents dont le numéro INSEE est définitif et sans changement en cours.
 
-Dans ces conditions, les informations relatives aux coordonnées bancaires et au supplément familial de traitement ne nécessiteront pas de justifications complémentaires, dès lors que l'agent n'a pas demandé une nouvelle domiciliation bancaire pour le mois de la nouvelle prise en charge (à charge pour l'ordonnateur de l'indiquer au comptable et de lui adresser le nouveau relevé de domiciliation bancaire) et que de nouveaux éléments ne s'appliquent pas pour le mois de la prise en charge : naissance, décès, arrivée à l'âge de 16 ans, rémunération d'un enfant et niveau par rapport au SMIC…).
+Dans ces conditions, les informations relatives aux coordonnées bancaires et au supplément familial de traitement ne nécessiteront pas de justifications complémentaires, dès lors que l'agent n'a pas demandé une nouvelle domiciliation bancaire pour le mois de la nouvelle prise en charge (à charge pour l'ordonnateur de l'indiquer au comptable et de lui adresser le nouveau relevé de domiciliation bancaire) et que de nouveaux éléments ne s'appliquent pas pour le mois de la prise en charge : naissance, décès, arrivée à l'âge de 16 ans, rémunération d'un enfant et niveau par rapport au SMIC …).
 
 De même, la carte Vitale n'est pas à produire.
 
-Le cas des enfants ayant atteint 16 ans et dont le code enfant a été généré automatiquement par PAY/PAYSAGE, et n'a pas été mis à jour par l'ordonnateur n'est pas couvert par la FISI-volet comptable et est subordonné à la production d'une justification auprès du nouveau comptable.
+Le cas des enfants ayant atteint 16 ans et dont le code enfant a été généré automatiquement par PAY/ PAYSAGE, et n'a pas été mis à jour par l'ordonnateur n'est pas couvert par la FISI-volet comptable et est subordonné à la production d'une justification auprès du nouveau comptable.
 
 De même, la FISI-volet comptable ne couvre pas les cas de cession de SFT en cours.
 
 La mention du montant de l'indemnité compensatrice de la CSG (2206-2209) est portée sur la FISI-volet comptable et l'ordonnateur doit préciser la quotité de rémunération correspondant à ce montant (celui-ci étant impacté par les congés maladie et les changements de quotité de temps de travail). En l'absence de la mention sur la FISI, le dernier bulletin de paye la mentionnant doit être produit.
 
-3) Pour les prises en charge sans changement de comptable assignataire ni de ministère, liées à des contraintes techniques ou réglementaires, ne sont produites que les pièces justificatives afférentes aux changements impactant la situation de l'agent. |
+3) Pour les prises en charge sans changement de comptable assignataire ni de ministère, liées à des contraintes techniques ou réglementaires, ne seront produites que les pièces justificatives afférentes aux changements impactant la situation de l'agent.
+
+4) Pour les agents titulaires précédemment rémunérés par un comptable de la DGFiP dans le cadre de la PSOP et sous réserve d' absence de modification de la situation individuelle de l'agent, le certificat de cessation de paiement vaut pièce justificative pour justifier les coordonnées bancaires, le numéro d'immatriculation INSEE et le supplément familial de traitement, |
 
 3.1.1.1. Prise en charge du dossier des titulaires et des non titulaires |
 
-- Arrêté de nomination, de mise à disposition ou de mutation pour les fonctionnaires titulaires ou stagiaires ; |
-
-Détachement : prise en charge au vu de l'arrêté de nomination ou du contrat de détachement précisant le régime de cotisation de l'agent à la pension civile et à la sécurité sociale. |
+- Arrêté de nomination, de mise à disposition ou de mutation pour les fonctionnaires titulaires ou stagiaires ;
 
 ou
+
+|
+
+Détachement : prise en charge au vu de l'arrêté de nomination ou du contrat de détachement précisant le régime de cotisation de l'agent à la pension civile et à la sécurité sociale. |
 
 - Arrêté de nomination ou contrat pour les non-titulaires ; |
 
@@ -1582,13 +1590,17 @@ Le contrat donne toutes les précisions sur les conditions de recrutement et de 
 
 et
 
-- Procès-verbal d'installation ou certification de l'installation par le gestionnaire ; |
+-Certification de l'installation par l'ordonnateur ou, le cas échéant, via le listage des entrées mensuelles de la paye ; |
 
 Ressortissants étrangers : sur la décision de recrutement apparaît la mention de la vérification par le gestionnaire, soit du titre de séjour, soit de l'autorisation provisoire de travailler, soit du protocole d'accueil. |
 
 et
 
-- Certificat de cessation de paiement délivré par le comptable public assignataire de la rémunération publique antérieure ou par le précédent ordonnateur si la rémunération publique antérieure était payée après ordonnancement ; |
+-Certificat de cessation de paiement délivré par le comptable public assignataire de la rémunération publique antérieure ou par le précédent ordonnateur si la rémunération publique antérieure était payée après ordonnancement ;
+
+et
+
+-Décision d'attribution d'un indice spécial de pension civile faisant référence au texte applicable lorsque l'indice spécial ne figure pas dans l'arrêté de nomination ; |
 
 Rémunération servie par l'Etat ou une collectivité territoriale, ou par un établissement public de l'Etat ou un établissement public local (les organismes internationaux ne sont pas concernés).
 
@@ -1596,19 +1608,15 @@ Le certificat de cessation n'est pas demandé si la dernière activité remplie 
 
 Le certificat de cessation de paiement issu de la PSOP est établi à partir de :
 
-- la fiche de situation actuelle de l'agent (fiche SITAC) ;
+-la fiche de situation actuelle de l'agent (fiche SITAC) ;
 
-- ou la dernière fiche de liaison afférente à la situation de l'agent (signée par le précédent comptable). |
-
-et
-
-- Décision d'attribution d'un indice spécial de pension civile faisant référence au texte applicable lorsque l'indice spécial ne figure pas dans l'arrêté de nomination ; |
-
-|
+-ou la dernière fiche de liaison afférente à la situation de l'agent (signée par le précédent comptable). |
 
 et
 
-- Carte vitale ou autre document de la caisse d'assurance maladie ou de l'INSEE comportant le NIR de l'agent (sauf pour les ressortissants étrangers) ; |
+-Carte vitale ou autre document de la caisse d'assurance maladie ou de l'INSEE comportant le NIR de l'agent (sauf pour les ressortissants étrangers) ; |
+
+En cas de copie illisible de la carte vitale, l'attestation de droits de Sécurité sociale devra être produite.
 
 La FISI-comptable se substitue à la carte vitale si les conditions posées à la rubrique 3.1.1. sont remplies.
 
@@ -1616,7 +1624,7 @@ Ressortissants étrangers : documents permettant de définir un numéro d'identi
 
 et
 
-- Relevé de domiciliation bancaire établi au nom de l'agent ; |
+-Relevé de domiciliation bancaire établi au nom de l'agent ; |
 
 La FISI-comptable se substitue au relevé de domiciliation bancaire si les conditions posées à la rubrique 3.1.1. sont remplies.
 
@@ -1624,49 +1632,49 @@ Compte joint : le nom de l'agent doit figurer sur le relevé |
 
 et
 
-- Formulaire d'adhésion à une mutuelle de la Fonction publique ; |
+-Formulaire d'adhésion à une mutuelle de la Fonction publique ; |
 
 Ou listings transmis par les services de mutuelles. |
 
 le cas échéant,
 
-- Fiche de renseignements de l'ordonnateur en cas de cumul d'activités publiques ; |
+-Fiche de renseignements de l'ordonnateur en cas de cumul d'activités publiques ; |
 
-L'ordonnateur fait référence aux dispositions du décret n° 2020-69 du 30 janvier 2020 relatif aux contrôles déontologiques dans la fonction publique et précise le statut de l'agent dans son activité principale - fonctionnaire ou contractuel (définition du régime de cotisations au titre de l'activité secondaire ou complémentaire et respect des plafonds de cotisations).
+L'ordonnateur fait référence aux dispositions du décret n° 2020-69 du 30 janvier 2020 relatif aux contrôles déontologiques dans la fonction publique et précise le statut de l'agent dans son activité principale-fonctionnaire ou contractuel (définition du régime de cotisations au titre de l'activité secondaire ou complémentaire et respect des plafonds de cotisations).
 
 Si l'agent est par ailleurs contractuel, l'ordonnateur précise la quotité de service dans le ou les contrats et les bases de calcul des cotisations à la retraite du régime général et aux régimes complémentaires de retraite en application de ce ou ces contrats. |
 
 le cas échéant,
 
-- Tout document indiquant que l'agent est non-résident fiscal français. |
+-Tout document indiquant que l'agent est non-résident fiscal français. |
 
 |
 
 3.1.1.2. Prise en charge des intervenants rémunérés à l'acte ou assurant un service ponctuel |
 
-- Lettre d'engagement ;
+-Lettre d'engagement ;
 
 et
 
-- Fiche de renseignements ;
+-Fiche de renseignements ;
 
 et
 
-- Décompte des heures ou vacations effectuées ;
+-Décompte des heures ou vacations effectuées ;
 
 et
 
-- Relevé de domiciliation bancaire établi au nom de l'agent ;
+-Relevé de domiciliation bancaire établi au nom de l'agent ;
 
 et, le cas échéant,
 
-- Tout document indiquant que l'agent est non-résident fiscal français. |
+-Tout document indiquant que l'agent est non-résident fiscal français. |
 
 Intervenants extérieurs : préciser l'activité principale de l'intervenant et renseignements permettant de définir le régime de cotisations de l'intervenant, avec les indications suivantes :
 
-- pour l'employeur principal, désignation complète (nature et forme juridiques) ;
+-pour l'employeur principal, désignation complète (nature et forme juridiques) ;
 
-- pour l'employé : emploi exact, régime de retraite complémentaire, et de sécurité sociale. |
+-pour l'employé : emploi exact, régime de retraite complémentaire, et de sécurité sociale. |
 
 3.1.2. Modifications postérieures à la prise en charge |
 
@@ -1676,53 +1684,55 @@ Intervenants extérieurs : préciser l'activité principale de l'intervenant et 
 
 3.1.2.1. Nouvelle situation administrative |
 
-- Arrêté portant modification de la situation administrative de l'agent entraînant une modification de sa rémunération avec la date d'effet de l'acte ou arrêté portant mise à disposition ; |
+-Arrêté portant modification de la situation administrative de l'agent entraînant une modification de sa rémunération avec la date d'effet de l'acte ou arrêté portant mise à disposition ; |
+
+Les arrêtés de changement d'échelon ne sont pas à produire en cas d'envoi de mouvements informatiques dédiés (PSOP). |
+
+ou
+
+-Référence au décret d'application d'une mesure catégorielle ne nécessitant pas d'acte individuel ;
+
+ou
+
+-Avenants au contrat de recrutement ou certificat administratif ; |
 
 Lorsque le traitement automatique des opérations est assuré par l'application de paie sans ordonnancement préalable, il n'y a pas lieu de produire l'arrêté ni la référence au décret d'application d'une mesure catégorielle.
 
-(exemple : revalorisation indiciaire) |
+(exemple : revalorisation liée à l'indice).
+
+Par exception, aucune pièce n'est à produire en cas de majoration de la rémunération au niveau du salaire minimum et dans le cadre de mesures de portée générale au sein de la Fonction publique de l'Etat lorsque la rédaction du contrat permet de déterminer la nouvelle rémunération.
+
+Lorsqu'un certificat administratif se substitue à l'avenant, il doit comprendre la totalité des informations relatives au nouveau niveau de rémunération. A défaut, les avenants sont produits.
+
+Le certificat peut être collectif.
+
+La production d'un certificat administratif ne dispense pas l'ordonnateur d'établir l'avenant. |
 
 ou
 
-- Référence au décret d'application d'une mesure catégorielle ne nécessitant pas d'acte individuel ;
-
-ou
-
-- Avenant au contrat de recrutement ;
-
-et
-
-- Contrat initial ;
-
-et
-
-- Précédents avenants le cas échéant ;
-
-ou
-
-- Arrêté d'affectation lié au changement d'affectation ; |
+-Arrêté d'affectation lié au changement d'affectation ; |
 
 Changement d'affectation sans changement de comptable assignataire de la rémunération. |
 
 et
 
-- Procès-verbal d'installation ou certification de l'installation par l'ordonnateur ; |
+-Certification de l'installation par l'ordonnateur ou, le cas échéant, via le listage des entrées mensuelles de la paye ; |
 
 |
 
 le cas échéant,
 
-- Arrêté de mise en position de travail à temps partiel précisant la quotité de travail et la quotité de rémunération ;
+-Arrêté de mise en position de travail à temps partiel précisant la quotité de travail et la quotité de rémunération ;
 
 le cas échéant,
 
-- Arrêté de reprise à temps plein après une activité à temps partiel ; |
+-Arrêté de reprise à temps plein après une activité à temps partiel ; |
 
 Le renouvellement de l'autorisation de travailler à temps partiel, sans modification de la quotité de travail, n'est pas justifié auprès du comptable. |
 
 le cas échéant
 
-- Décision d'attribution ou de modification de la nouvelle bonification indiciaire. |
+-Décision d'attribution ou de modification de la nouvelle bonification indiciaire. |
 
 La décision précise la date d'effet du paiement de la nouvelle bonification indiciaire, l'emploi occupé et le nombre de points attribués (cf. décret et arrêté dont il est fait application). |
 
@@ -1734,29 +1744,25 @@ La décision précise la date d'effet du paiement de la nouvelle bonification in
 
 3.1.2.2.1. Changement d'état civil |
 
-- Livret de famille régulièrement mis à jour ;
+-Livret de famille régulièrement mis à jour ;
 
 ou
 
-- Déclaration sur l'honneur de la situation au plan de l'état civil ; |
-
-|
+-Déclaration sur l'honneur de la situation au plan de l'état civil ;
 
 ou
 
-- Acte de naissance comportant la mention de l'ordonnance du tribunal prononçant la modification d'identité sexuelle ; |
-
-Indication du NIR et nouvelle carte vitale. |
+-Acte de naissance comportant la mention de l'ordonnance du tribunal prononçant la modification d'identité sexuelle ;
 
 et
 
-- Relevé de domiciliation bancaire, établi au nom de l'agent suite au changement d'état civil. |
+-Relevé de domiciliation bancaire, établi au nom de l'agent suite au changement d'état civil. |
 
-|
+Indication du NIR et nouvelle carte vitale (copie lisible). |
 
 3.1.2.2.2. Changement de domiciliation bancaire |
 
-- Relevé de domiciliation bancaire établi au nom de l'agent. |
+-Relevé de domiciliation bancaire établi au nom de l'agent. |
 
 La demande de l'agent est conservée par l'ordonnateur.
 
@@ -1770,29 +1776,29 @@ Le relevé n'est pas produit en cas de correction automatisée de la domiciliati
 
 3.1.2.3. Congés de maladie |
 
-- Décision de mise en congé de maladie ordinaire à demi-traitement ou sans traitement ; |
+-Décision de mise en congé de maladie ordinaire à demi-traitement ou sans traitement ; |
 
 La décision indique les dates de début et de fin de congé. |
 
 le cas échéant,
 
-- Décision de mise en congé de longue maladie ou de longue durée (ou de grave maladie) pris après avis du comité médical ;
+-Décision de mise en congé de longue maladie ou de longue durée (ou de grave maladie) pris après avis du conseil médical ;
 
 le cas échéant,
 
-- Décision de renouvellement du congé de longue maladie ou de longue durée (ou de grave maladie) ; |
+-Décision de renouvellement du congé de longue maladie ou de longue durée (ou de grave maladie) ; |
 
-La décision indique les dates de début et de fin de congé. En cas de fractionnement, le calendrier détaillé des journées/demi-journées d'absence est joint. |
+La décision indique les dates de début et de fin de congé. En cas de fractionnement, le calendrier détaillé des journées/ demi-journées d'absence est joint. |
 
 ou
 
-- Dans l'attente de cette décision, attestation du gestionnaire de personnel par période de trois mois. |
+-Dans l'attente de cette décision, attestation du gestionnaire de personnel par période de trois mois. |
 
 Le comptable poursuit le paiement du traitement au vu de l'attestation du gestionnaire établie par période de trois mois en attendant la décision.
 
 Dans l'attestation, le gestionnaire précise la période théorique du congé de longue maladie ou de longue durée (ou de grave maladie) et les droits déjà utilisés à ce titre.
 
-A l'expiration des droits, en cas de maintien du demi-traitement, dans l'attente d'une décision du comité médical, prévu par l'article 47 du décret n° 86-442 du 14 mars 1986, l'ordonnateur fournit un certificat administratif attestant de la situation de fait justifiant le maintien. |
+A l'expiration des droits, en cas de maintien du demi-traitement, dans l'attente d'une décision du conseil médical, prévu par l'article 47 du décret n° 86-442 du 14 mars 1986, l'ordonnateur fournit un certificat administratif attestant de la situation de fait justifiant le maintien. |
 
 3.1.2.4. Suspension, service non fait |
 
@@ -1802,23 +1808,23 @@ A l'expiration des droits, en cas de maintien du demi-traitement, dans l'attente
 
 3.1.2.4.1. Suspension, exclusion temporaire du service |
 
-- Arrêté de suspension de fonctions indiquant le maintien ou non du traitement ;
+-Arrêté de suspension de fonctions indiquant le maintien ou non du traitement ;
 
 ou
 
-- Arrêté d'exclusion temporaire. |
+-Arrêté d'exclusion temporaire. |
 
-Article 30 de la loi n° 83-634 du 13 juillet 1983.
+Articles L. 531-1 et suivants du Code général de la Fonction publique.
 
-Article 66 de la loi n° 84-16 du 11 janvier 1984. |
+Articles L. 533-1 et suivants du Code général de la Fonction publique. |
 
 3.1.2.4.2. Service non fait |
 
-- Etat nominatif des précomptes journaliers à effectuer pour service non fait ;
+-Etat nominatif des précomptes journaliers à effectuer pour service non fait ;
 
 ou
 
-- Listage mensuel des entrées. |
+-Listage mensuel des entrées. |
 
 L'état indique le mois concerné, le nombre de jours à précompter et la quotité de service.
 
@@ -1828,19 +1834,19 @@ Pour les remboursements de précomptes pour service non fait effectués à tort,
 
 3.1.2.4.3. Service mal fait |
 
-- Etat nominatif des précomptes journaliers à effectuer pour service mal fait. |
+-Etat nominatif des précomptes journaliers à effectuer pour service mal fait. |
 
-Agent qui, bien qu'effectuant ses heures de service, n'exécute pas tout ou partie des obligations qui s'attachent à sa fonction (article 4 de la loi n° 61-825 du 29 juillet 1961).
+Agent qui, bien qu'effectuant ses heures de service, n'exécute pas tout ou partie des obligations qui s'attachent à sa fonction (articles L 711-1 et suivants du Code général de la Fonction publique).
 
 Pour les remboursements de précomptes pour service mal fait effectués à tort, un certificat administratif ou décision est à produire au comptable pour justifier le remboursement. |
 
 3.1.2.4.4. Journée de carence |
 
-- Etat nominatif du nombre de jours de carence à précompter ;
+-Etat nominatif du nombre de jours de carence à précompter ;
 
 ou
 
-- Listage mensuel des entrées. |
+-Listage mensuel des entrées. |
 
 Mouvement de type 67.
 
@@ -1850,15 +1856,15 @@ Pour les remboursements de précomptes pour journée de carence effectués à to
 
 3.1.2.4.5. Réduction de rémunération pour non transmission d'arrêt maladie |
 
-- Etat nominatif du nombre de jours à précompter liés à la non transmission de l'arrêt maladie ;
+-Etat nominatif du nombre de jours à précompter liés à la non transmission de l'arrêt maladie ;
 
 ou
 
-- Listage mensuel des entrées. |
+-Listage mensuel des entrées. |
 
 Mouvement de type 65.
 
-Décret n° 2014-1133 du 3 octobre 2014.
+Décret n° 86-442 du 14 mars 1986 (article 25).
 
 Pour les remboursements de précomptes pour réduction de rémunération pour non transmission d'arrêt maladie effectués à tort, un certificat administratif ou une décision est à produire au comptable pour justifier le remboursement. |
 
@@ -1868,31 +1874,35 @@ Pour les remboursements de précomptes pour réduction de rémunération pour no
 
 Cet arrêté est pris notamment :
 
-- soit après avis du comité médical, dans le cas d'interruption de service pour maladie, à l'issue des congés de longue maladie ou de longue durée ou de maladie ordinaire sans traitement ;
+-soit après avis du conseil médical, dans le cas d'interruption de service pour maladie, à l'issue des congés de longue maladie ou de longue durée ou de maladie ordinaire sans traitement ;
 
-- soit pour préciser la durée pendant laquelle l'agent a cessé son activité au sein de l'administration ;
+-soit pour préciser la durée pendant laquelle l'agent a cessé son activité au sein de l'administration ;
 
-- soit après détachement ;
+-soit après détachement ;
 
-- soit après disponibilité. |
+-soit après disponibilité. |
 
 et
 
-- Procès-verbal d'installation signé par le gestionnaire ou certification de l'installation par le gestionnaire ; |
+-Certification de l'installation par l'ordonnateur ou, le cas échéant, via le listage des entrées mensuelles de la paye ; |
+
+|
+
+et
+
+-Certificat de cessation de paiement délivré par le comptable assignataire de la rémunération de l'agent antérieure à l'interruption temporaire d'activité ; |
 
 Si l'agent a perçu une rémunération publique pendant ladite période, le certificat de cessation de paiement est joint. |
 
-et
-
-- Certificat de cessation de paiement délivré par le comptable assignataire de la rémunération de l'agent antérieure à l'interruption temporaire d'activité ;
-
 ou
 
-- Certificat délivré par le comptable ;
+-Certificat administratif délivré par le comptable ; |
+
+|
 
 le cas échéant,
 
-- Relevé de domiciliation bancaire établi au nom de l'agent. |
+-Relevé de domiciliation bancaire établi au nom de l'agent. |
 
 Si apurement des fichiers de paie dans le cadre de la paie sans ordonnancement préalable. |
 
@@ -1904,13 +1914,17 @@ Si apurement des fichiers de paie dans le cadre de la paie sans ordonnancement p
 
 3.1.3.1. Cas de fin de paiement |
 
-- Demande de fin de paiement du service gestionnaire indiquant la date d'effet de la fin de paiement et la nouvelle position de l'agent. |
+-Demande de fin de paiement du service gestionnaire indiquant la date d'effet de la fin de paiement et la nouvelle position de l'agent. |
 
 En cas de mutation, de détachement (…) cette information permet d'indiquer aux créanciers d'aliments le nouveau service gestionnaire de l'agent et le nouveau comptable assignataire de sa rémunération. |
 
 3.1.3.2. Congé de formation professionnelle |
 
-- Décision de mise en position de congé de formation professionnelle ; |
+-Décision de mise en position de congé de formation professionnelle ;
+
+et
+
+-Etat liquidatif de l'indemnité mensuelle forfaitaire ; |
 
 La décision fait référence aux dispositions réglementaires dont il est fait application.
 
@@ -1918,35 +1932,25 @@ En cas de congé de formation fractionné, sont précisés la période et le nom
 
 L'ordonnateur s'assure de l'assiduité du stagiaire à la formation y compris lorsque l'agent suit un enseignement par correspondance. Il conserve la ou les pièces produites à cet effet par l'organisme de formation. |
 
-et
-
-- Etat liquidatif de l'indemnité mensuelle forfaitaire ; |
-
-|
-
-le cas échéant,
-
-- Décision initiale et procès-verbal d'installation ou certification de l'installation par l'ordonnateur. |
-
-Lors de la réintégration de l'agent. |
-
 3.1.3.3. Congé de transition professionnelle |
 
-- Décision d'octroi du congé de transition professionnelle ;
+-Décision d'octroi du congé de transition professionnelle ;
 
 et
 
-- Etat liquidatif relatif au maintien partiel du régime indemnitaire. |
+-Etat liquidatif relatif au maintien partiel du régime indemnitaire. |
 
-Décret n° 2019-1441 du 23 décembre 2019 relatif aux mesures d'accompagnement de la restructuration d'un service de l'Etat ou de l'un de ses établissements publics. |
+Décret n° 2019-1441 du 23 décembre 2019 relatif aux mesures d'accompagnement de la restructuration d'un service de l'Etat ou de l'un de ses établissements publics.
+
+L'état liquidatif vaut décision d'octroi s'il contient les informations portées sur celle-ci. |
 
 3.1.3.4. Avance sur traitement - DOM : Mutation entre la métropole et un DOM ou vice-versa, ou mutation d'un DOM à un autre DOM |
 
-- Arrêté de mutation ;
+-Arrêté de mutation ;
 
 et
 
-- Formulaire de demande d'avance. |
+-Formulaire de demande d'avance. |
 
 Circulaire n° 70-19 B/5 du 24 août 1951.
 
@@ -1956,11 +1960,11 @@ Procédure décrite par lettres DGCP aux comptables et aux ministères n° 5207 
 
 3.1.3.5. Congé de solidarité familiale |
 
-- Décision portant accord d'un congé de solidarité familiale ;
+-Décision portant accord d'un congé de solidarité familiale ;
 
 et
 
-- Etat liquidatif précisant le nombre de jours indemnisés et le montant journalier. |
+-Etat liquidatif précisant le nombre de jours indemnisés et le montant journalier. |
 
 Décret n° 2013-67 du 18 janvier 2013.
 
@@ -1970,47 +1974,35 @@ Articles L. 4138-6 et R. 4138-2 du code de la défense. |
 
 3.1.3.6. Congé de présence parentale |
 
-- Décision portant accord d'un congé de présence parentale ;
+-Décision portant accord d'un congé de présence parentale ;
 
 et
 
-- Etat liquidatif précisant les jours non indemnisés par la CAF et le montant journalier. |
+-Etat liquidatif précisant les jours non indemnisés par la CAF et le montant journalier. |
 
-Article 40bis de la loi n° 84-16 du 11 janvier 1984.
+Articles L 632-1 et suivants du Code général de la Fonction publique.
 
-Articles L.4138-7 et R. 4138-7 du code de la défense. |
+Articles L. 4138-7 et R. 4138-7 du code de la défense. |
 
-3.1.3.7. Prolongation pour limite d'âge |
+3.1.3.7. Rétrogradation |
 
-- Décision portant prolongation pour limite d'âge. |
-
-Décret n° 2009-1744 du 30 décembre 2009.
-
-Décret n° 2011-2103 du 30 décembre 2011.
-
-Circulaire DGAFP/DGCL/DHOS du 25 février 2010 (NOR : BCFF1005626C). |
-
-3.1.3.8. Rétrogradation |
-
-- Arrêté portant changement de grade. |
+-Arrêté portant changement de grade. |
 
 Article 66 de la loi n° 84-16 du 11 janvier 1984. |
 
-3.1.3.9. Temps partiel thérapeutique |
+3.1.3.8. Temps partiel thérapeutique |
 
 Selon le cas :
 
-- Décision portant autorisation de travail à temps partiel pour raison thérapeutique ou arrêté de renouvellement de l'autorisation de travail à temps partiel pour raison thérapeutique ;
+-Décision portant autorisation de travail à temps partiel pour raison thérapeutique ou arrêté de renouvellement de l'autorisation de travail à temps partiel pour raison thérapeutique ;
 
 ou
 
-- Arrêté de reprise à temps plein ou arrêté de reprise à temps partiel. |
+-Arrêté de reprise à temps plein ou arrêté de reprise à temps partiel. |
 
 Pour les titulaires ou stagiaires :
 
-Article 34 bis, 1er alinéa de la loi n° 84-16 du 11 janvier 1984.
-
-Ordonnance n° 2017-53 du 19 janvier 2017 reprise par la circulaire CPAF1807455C du 15 mai 2018 du ministre de l'action et des comptes publics.
+Articles L. 823-1 et suivants du Code général de la Fonction publique.
 
 Pour les contractuels :
 
@@ -2028,7 +2020,7 @@ Article R. 323-3 du Code de la Sécurité sociale. |
 
 3.2.1. Indemnité de résidence |
 
-- Justifications identiques à celles exigées pour la prise en charge de la rémunération principale. |
+-Justifications identiques à celles exigées pour la prise en charge de la rémunération principale. |
 
 Taux appliqué en fonction du lieu effectif d'exercice des fonctions. |
 
@@ -2040,7 +2032,7 @@ Taux appliqué en fonction du lieu effectif d'exercice des fonctions. |
 
 3.2.2.1. Pièces permettant de définir les bases de liquidation du SFT et le ou les créanciers en l'absence de garde alternée |
 
-- Livret de famille (ou transcription de la décision d'adoption sur le registre de l'Etat civil) ou autre pièce prouvant l'existence de l'enfant ; |
+-Livret de famille (ou transcription de la décision d'adoption sur le registre de l'Etat civil) ou autre pièce prouvant l'existence de l'enfant ; |
 
 Décret n° 85-1148 du 24 octobre 1985.
 
@@ -2048,13 +2040,13 @@ Enfant à charge au sens de la législation sur les prestations familiales (art.
 
 et
 
-- Pièces précisant que l'enfant est à charge entre 16 et 20 ans (selon la situation : déclaration sur l'honneur si l'enfant est sans activité professionnelle, justification des revenus inférieurs ou égaux à 55 % du SMIC, justification de l'inscription dans un établissement d'enseignement (écolier, étudiant, apprenti…) ; |
+-Pièces précisant que l'enfant est à charge entre 16 et 20 ans (selon la situation : déclaration sur l'honneur si l'enfant est sans activité professionnelle, justification des revenus inférieurs ou égaux à 55 % du SMIC, justification de l'inscription dans un établissement d'enseignement (écolier, étudiant, apprenti) …) ; |
 
 Attention : l'enfant qui perçoit par lui-même une prestation familiale ou l'aide personnalisée au logement n'ouvre pas droit au SFT. |
 
 et
 
-- Attestation de paiement de la caisse d'allocations familiales ; |
+-Attestation de paiement de la caisse d'allocations familiales ; |
 
 Si SFT pour 2 enfants ou plus
 
@@ -2062,39 +2054,39 @@ Le gestionnaire conserve les pièces relatives à l'état civil que l'agent a pu
 
 et, le cas échéant,
 
-- Preuve de la communauté de vie, par tous moyens ; |
+-Preuve de la communauté de vie, par tous moyens ; |
 
-Factures, quittances…
+Factures, quittances …
 
 Obligatoire quand le seul enfant pris en compte dans le calcul du SFT n'est pas l'enfant du fonctionnaire et lorsque plus d'un enfant n'est pas celui du fonctionnaire. |
 
-et/ou
+et/ ou
 
-- Ordonnance de non-conciliation ou du jugement de divorce ; |
+-Ordonnance de non-conciliation ou du jugement de divorce ; |
 
-Prise en compte des enfants d'une précédente union et/ou cession de tout ou partie du SFT à l'ex-conjoint, concubin ou pacsé, non fonctionnaire. |
+Prise en compte des enfants d'une précédente union et/ ou cession de tout ou partie du SFT à l'ex-conjoint, concubin ou pacsé, non fonctionnaire. |
 
 ou
 
-- Convention passée par les ex-concubins ou ex-pacsés, ou preuve de la charge de l'enfant par tous moyens ; |
+-Convention passée par les ex-concubins ou ex-pacsés, ou preuve de la charge de l'enfant par tous moyens ; |
 
 Ou, en cas de séparation d'un couple d'agents publics, définition du droit propre de chaque membre de l'ex-couple. |
 
 et
 
-- Déclaration commune du choix de l'allocataire du SFT visée par le service gestionnaire du conjoint, du concubin ou du partenaire d'un PACS ; |
+-Déclaration commune du choix de l'allocataire du SFT visée par le service gestionnaire du conjoint, du concubin ou du partenaire d'un PACS ; |
 
 Couples d'agents publics (toutes fonctions publiques) ou organismes financés à plus de cinquante pour cent par l'Etat. |
 
 ou
 
-- Attestation sur l'honneur de l'agent public certifiant que son conjoint, ou concubin ou partenaire d'un PACS exerce une profession relevant du secteur privé ou est sans emploi. |
+-Attestation sur l'honneur de l'agent public certifiant que son conjoint, ou concubin ou partenaire d'un PACS exerce une profession relevant du secteur privé ou est sans emploi. |
 
 |
 
 3.2.2.2. Partage du SFT en cas de garde alternée |
 
-- Livret de famille (ou transcription de la décision d'adoption sur le registre de l'Etat civil) ou autre pièce prouvant l'existence de l'enfant ; |
+-Livret de famille (ou transcription de la décision d'adoption sur le registre de l'Etat civil) ou autre pièce prouvant l'existence de l'enfant ; |
 
 Décret n° 2020-1366 du 10 novembre 2020.
 
@@ -2102,17 +2094,17 @@ Enfant à charge au sens de la législation sur les prestations familiales (art.
 
 et
 
-- Pièces précisant que l'enfant est à charge entre 16 et 20 ans (selon la situation : déclaration sur l'honneur si l'enfant est sans activité professionnelle, justification des revenus inférieurs ou égaux à 55 % du SMIC, justification de l'inscription dans un établissement d'enseignement (écolier, étudiant, apprenti…) ; |
+-Pièces précisant que l'enfant est à charge entre 16 et 20 ans (selon la situation : déclaration sur l'honneur si l'enfant est sans activité professionnelle, justification des revenus inférieurs ou égaux à 55 % du SMIC, justification de l'inscription dans un établissement d'enseignement (écolier, étudiant, apprenti …) ; |
 
 Attention : l'enfant qui perçoit par lui-même une prestation familiale ou l'aide personnalisée au logement n'ouvre pas droit au SFT. |
 
 et
 
-- Attestation de paiement de la caisse d'allocations familiales ;
+-Attestation de paiement de la caisse d'allocations familiales ;
 
 et
 
-- Attestation commune du choix du ou des allocataires ; |
+-Attestation commune du choix du ou des allocataires ; |
 
 Si SFT pour 2 enfants ou plus.
 
@@ -2120,53 +2112,57 @@ Le gestionnaire conserve les pièces relatives à l'état civil que l'agent a pu
 
 ou
 
-- Certificat de l'ordonnateur attestant le désaccord sur la désignation du bénéficiaire unique ;
+-certificat de l'ordonnateur attestant le désaccord sur la désignation du bénéficiaire unique ; |
+
+|
 
 et
 
-- Attestation de l'employeur de l'autre parent indiquant qu'il est effectué un paiement de SFT au titre de la garde alternée ; |
+-Attestation de l'employeur de l'autre parent indiquant qu'il est effectué un paiement de SFT au titre de la garde alternée ; |
 
-Pour la prise en compte des enfants d'une précédente union et/ou cession de tout ou partie du SFT à l'ex-conjoint, concubin ou pacsé non fonctionnaire OU en cas de séparation d'un couple d'agents publics, définition du droit propre de chaque membre de l'ex-couple : se reporter à la rubrique 3.2.2.1. |
-
-ou
-
-- Attestation de non versement (en cas d'allocataire unique) ;
+|
 
 ou
 
-- Attestation sur l'honneur de l'agent public certifiant que l'autre parent exerce une profession relevant du secteur privé ou est sans emploi. |
+-Attestation de non versement (en cas d'allocataire unique) ; |
+
+|
+
+ou
+
+-Attestation sur l'honneur de l'agent public certifiant que l'autre parent exerce une profession relevant du secteur privé ou est sans emploi. |
 
 |
 
 3.2.2.3. Paiement du complément de supplément familial de traitement en cas de séparation d'un couple d'agents publics |
 
-- Demande du service gestionnaire de l'agent public demandeur du complément à l'administration gestionnaire de l'ex-conjoint, concubin ou partenaire d'un PACS ;
+-Demande du service gestionnaire de l'agent public demandeur du complément à l'administration gestionnaire de l'ex-conjoint, concubin ou partenaire d'un PACS ;
 
-- Etat liquidatif du complément de supplément familial de traitement. |
+-Etat liquidatif du complément de supplément familial de traitement. |
 
 Paiement du complément par l'administration gestionnaire de l'ancien conjoint, concubin ou partenaire d'un PACS (instruction n° 99-106-B1-MO-V36 du 15 octobre 1999). |
 
 3.2.2.4. Paiement du supplément familial de traitement en cas de mutation |
 
-- Certificat de cessation de paiement de la rémunération principale ; |
+-Certificat de cessation de paiement de la rémunération principale ; |
 
 Fiche à éditer dans le cadre de la paie sans ordonnancement préalable, y compris en métropole (= CCP du SFT). |
 
 et
 
-- Fiche de liaison des prestations familiales ; |
+-Fiche de liaison des prestations familiales ; |
 
 |
 
 ou
 
-- Certificat de cessation de paiement établi par l'ordonnateur ; |
+-Certificat de cessation de paiement établi par l'ordonnateur ; |
 
 Hors paie sans ordonnancement préalable. |
 
 et
 
-- Attestation de paiement de la caisse d'allocations familiales du nouveau domicile. |
+-Attestation de paiement de la caisse d'allocations familiales du nouveau domicile. |
 
 Si SFT pour deux enfants ou plus (pièce pouvant être produite postérieurement à la prise en charge par le nouveau comptable).
 
@@ -2180,21 +2176,21 @@ S'il existe une cession de supplément familial de traitement, faire suivre le d
 
 3.2.3.1. Affectation dans un département d'outre-mer |
 
-- Justifications identiques à celles exigées pour la prise en charge de la rémunération principale. |
+-Justifications identiques à celles exigées pour la prise en charge de la rémunération principale. |
 
 |
 
 3.2.3.2. Congé bonifié dans un DOM ou COM |
 
-- Décision d'octroi du congé bonifié ;
+-Décision d'octroi du congé bonifié ;
 
 et
 
-- Certificat administratif justifiant de la durée du séjour effectif sur le lieu du centre des intérêts moraux et matériels ;
+-Certificat administratif justifiant de la durée du séjour effectif sur le lieu du centre des intérêts moraux et matériels ;
 
 et
 
-- Etat liquidatif de la majoration de traitement et de son complément. |
+-Etat liquidatif de la majoration de traitement et de son complément. |
 
 Cf. article 11 du décret n° 78-399 du 20 mars 1978 (DOM) et décret n° 2020-851 du 2 juillet 2020 (COM).
 
@@ -2202,51 +2198,35 @@ Durée prévisible si la majoration est payée pendant le congé bonifié.
 
 Durée constatée si la majoration est payée au retour du congé du fonctionnaire.
 
-Les pièces qui ont permis l'établissement du certificat administratif sont conservées par le gestionnaire de personnel aux fins d'un éventuel contrôle du juge des comptes. |
+Les pièces qui ont permis l'établissement du certificat administratif sont conservées par le gestionnaire de personnel aux fins d'un éventuel contrôle du juge des comptes.
+
+L'état liquidatif peut être seul produit s'il contient les informations portées sur la décision d'octroi et le certificat administratif auquel cas ceux-ci ne sont pas à transmettre. |
 
 3.2.3.3. Congé bonifié en métropole |
 
-- Décision d'octroi du congé bonifié ;
+-Décision d'octroi du congé bonifié ;
 
 et
 
-- Certificat administratif précisant la période de suspension de la majoration et de son complément. |
+-Certificat administratif précisant la période de suspension de la majoration et de son complément. |
 
-|
-
-3.2.3.4. Index de correction (département de la Réunion) |
-
-- Justifications identiques à celles exigées pour la prise en charge de la rémunération principale. |
-
-|
+Le certificat administratif vaut décision d'octroi s'il contient les informations portées par celle-ci. |
 
 3.2.4. Majoration familiale (agent affecté à l'étranger) |
 
-- Extrait de l'acte de naissance ;
+-Extrait de l'acte de naissance ;
 
 ou
 
-- Livret de famille ou autre pièce prouvant l'existence de l'enfant ;
+-Livret de famille ou autre pièce prouvant l'existence de l'enfant ;
 
 et
 
-- Attestation sur l'honneur de l'agent de la prise en charge effective et permanente de l'enfant ;
+-Attestation sur l'honneur de l'agent de la prise en charge effective et permanente de l'enfant ;
 
 et
 
-- Attestation du conjoint du non versement ou du montant des majorations familiales perçues ou des avantages familiaux versés dans le pays étranger ;
-
-ou
-
-- Certificat de non-paiement des prestations familiales delivré par la CAF ;
-
-ou
-
-- Certificat de radiation des avantages familiaux ;
-
-et
-
-- Attestation justifiant de la situation de l'enfant. |
+-Attestation du conjoint du non versement ou du montant des majorations familiales perçues ou des avantages familiaux versés dans le pays étranger ; |
 
 Enfant à charge au sens de l'article R. 512-2 du code de la sécurité sociale.
 
@@ -2254,55 +2234,73 @@ Article 8 du décret n° 67-290 du 28 mars 1967.
 
 Article 8 du décret n° 97-900 du 1er octobre 1997. |
 
+ou
+
+-Certificat de non-paiement des prestations familiales délivré par la CAF (pouvant être remplacé par une copie de l'écran du compte en ligne CAF de la situation de l'agent) ; |
+
+La copie écran doit indiquer la clôture du dossier et sa date d'effet. |
+
+ou
+
+-Certificat de radiation des avantages familiaux ;
+
+et
+
+-Attestation justifiant de la situation de l'enfant. |
+
+|
+
 3.2.5. Supplément familial à l'étranger |
 
 Dans les deux premiers cas :
 
-- Attestation du conjoint d'activité non rémunérée ou rémunérée inférieure à l'indice 300 brut ;
+-Attestation du conjoint d'activité non rémunérée ou rémunérée inférieure à l'indice 300 brut ;
 
 Dans le troisième cas :
 
-- Extrait acte de naissance ;
+-Extrait acte de naissance ;
 
 et
 
-- Attestation sur l'honneur de l'agent de la prise en charge effective et permanente de l'enfant ;
-
-et
-
-- Certificat de non-paiement des prestations familiales delivré par la CAF ;
-
-ou
-
-- Certificat de radiation des avantages familiaux. |
+-Attestation sur l'honneur de l'agent de la prise en charge effective et permanente de l'enfant ; |
 
 Enfant à charge au sens de l'article R. 512-2 du code de la sécurité sociale.
 
 Article 7 du décret n° 67-290 du 28 mars 1967.
 
-Pour mémoire :
+Pour mémoire
 
 1er cas : agent marié ou lié par un pacte civil de solidarité dont le conjoint ou le partenaire n'exerce pas d'activité professionnelle.
 
-2ᵉ cas : agent marié ou lié par un pacte civil de solidarité lorsque son conjoint ou son partenaire exerce une activité professionnelle pour laquelle il perçoit une rémunération brute totale annuelle inférieure ou égale au montant du traitement brut annuel afférent à l'indice brut 300.
+2e cas : agent marié ou lié par un pacte civil de solidarité lorsque son conjoint ou son partenaire exerce une activité professionnelle pour laquelle il perçoit une rémunération brute totale annuelle inférieure ou égale au montant du traitement brut annuel afférent à l'indice brut 300.
 
-3ᵉ cas : agent célibataire, veuf, divorcé ou séparé de corps, qui a au moins un enfant à charge ouvrant droit aux majorations familiales.
+3e cas : agent célibataire, veuf, divorcé ou séparé de corps, qui a au moins un enfant à charge ouvrant droit aux majorations familiales.
 
 Article 7 du décret n° 97-900 du 1er octobre 1997 modifié. |
+
+et
+
+-Certificat de non-paiement des prestations familiales déeivré par la CAF (pouvant être remplacé par une copie de l'écran du compte en ligne CAF de la situation de l'agent) ;
+
+ou
+
+-Certificat de radiation des avantages familiaux. |
+
+La copie écran doit indiquer la clôture du dossier et sa date d'effet. |
 
 3.3. INDEMNITÉS |
 
 Les indemnités autoliquidées par les applications de la PSOP ne nécessitent ni décision d'attribution ni état liquidatif. |
 
-3.3.1. Indemnités forfaitaires liées à un grade ou à une fonction, allocation complémentaire de fonctions, indemnités de rendement, indemnités de sujétions |
+3.3.1. Indemnités forfaitaires liées à un grade ou à une fonction, allocation complémentaire de fonctions, indemnités de rendement, indemnités de sujétions, indemnités pour sujétions particulières |
 
-- Décision d'attribution ;
+-Décision d'attribution ; |
+
+Entendu comme accessoires d'un traitement principal. |
 
 et
 
-- Etat liquidatif et nominatif faisant référence au texte institutif de l'indemnité. |
-
-Entendu comme accessoires d'un traitement principal.
+-Etat liquidatif et nominatif faisant référence au texte institutif de l'indemnité. |
 
 Lorsque l'état liquidatif est signé par le gestionnaire de personnel, il vaut décision d'attribution. Dans ce cas, seul l'état liquidatif est à transmettre au comptable. Sur les documents communiqués au comptable figurent le libellé de l'indemnité et son imputation budgétaro-comptable.
 
@@ -2310,7 +2308,9 @@ La décision d'attribution et l'état liquidatif ne sont pas à produire en cas 
 
 Pour les indemnités pré-calculées non permanentes ne faisant pas l'objet d'une historisation, l'état liquidatif et nominatif est communiqué au comptable à chaque paiement.
 
-En revanche pour les paiements par mouvements permanents pré-calculés, cet état est joint, selon la nature de l'indemnité et/ou les modalités de versement de celle-ci, au 1er paiement et à chaque changement du montant de l'indemnité. |
+En revanche pour les paiements par mouvements permanents pré-calculés, cet état est joint, selon la nature de l'indemnité et/ ou les modalités de versement de celle-ci :
+
+Au 1er paiement et à chaque changement du montant de l'indemnité. |
 
 3.3.2. Cas particuliers |
 
@@ -2320,59 +2320,65 @@ En revanche pour les paiements par mouvements permanents pré-calculés, cet ét
 
 3.3.2.1. Indemnités horaires pour travaux supplémentaires |
 
-- Etat liquidatif et nominatif comportant la référence au texte institutif de l'indemnité et la certification du nombre d'heures supplémentaires effectuées ; |
+-Etat liquidatif et nominatif comportant la référence au texte institutif de l'indemnité et la certification du nombre d'heures supplémentaires effectuées ; |
 
 Cet état est obligatoire lorsque les mouvements de paie sont transmis au comptable sur support papier ou par mouvements autres que 21 ou 25. |
 
 ou
 
-- Mouvement 21 ou 25. |
+-Mouvement 21 ou 25. |
 
 Notification par mouvement 21 ou 25 (OMID, OPA) : le gestionnaire de personnel certifie le service fait par la signature du listage des entrées.
 
 Le gestionnaire conserve les feuilles d'heures supplémentaires ou les états issus des contrôles automatisés des heures de service effectuées (art 2 du décret du 14 janvier 2002) aux fins d'un éventuel contrôle du juge des Comptes. |
 
-3.3.2.2. Heures-années d'enseignement et de surveillance de l'enseignement public et de l'enseignement privé non agricole, et indemnités gérées avec les modules ASIE et STS dans les services du ministère de l'éducation nationale |
+3.3.2.2. Astreintes |
 
-- Pièces justificatives normalisées par le ministère de l'éducation nationale en accord avec le ministère du budget. |
+-Etat liquidatif. |
+
+Décret n° 2000-815 du 25 août 2000 relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique de l'Etat et dans la magistrature. |
+
+3.3.2.3. Heures-années d'enseignement et de surveillance de l'enseignement public et de l'enseignement privé non agricole, et indemnités gérées avec les modules ASIE et STS dans les services du ministère de l'éducation nationale |
+
+-Pièces justificatives normalisées par le ministère de l'éducation nationale en accord avec le ministère du budget. |
 
 |
 
-3.3.2.3. Prime de fonctions et de résultats (PFR) |
+3.3.2.4. Prime de fonctions et de résultats (PFR) |
 
 Décret n° 2010-1206 du 12 octobre 2010 relatif à la prime de fonctions et de résultats des membres de l'inspection générale des affaires sociales et des membres de l'inspection générale de l'administration. |
 
-3.3.2.3.1. Mise en place initiale de l'indemnité (parts " fonctions " et " résultats ") |
+3.3.2.4.1. Mise en place initiale de l'indemnité (parts "fonctions" et "résultats") |
 
-- Liste des primes et indemnités par grade, cessant d'être servies aux agents bénéficiaires de la PFR ;
+-Liste des primes et indemnités par grade, cessant d'être servies aux agents bénéficiaires de la PFR ;
 
 et
 
-- Etat liquidatif de la part " fonctions " ;
+-Etat liquidatif de la part "fonctions" ;
 
-- Etat liquidatif de la part " résultats ". |
+-Etat liquidatif de la part "résultats". |
 
 Des modèles d'états liquidatifs sont annexés à la circulaire n° B7/09/2184-2BPSS-09-3049 du 14 avril 2009. |
 
-3.3.2.3.2. Évolution des montants versés de la part " fonctions " |
+3.3.2.4.2. Évolution des montants versés de la part "fonctions" |
 
-- Etat liquidatif de la part " fonctions ". |
-
-|
-
-3.3.2.3.3. Évolution des montants de la part " résultats " |
-
-- Etat liquidatif de la part " résultats ". |
+-Etat liquidatif de la part "fonctions". |
 
 |
 
-3.3.2.3.4. Versement exceptionnel lié à la part " résultats " |
+3.3.2.4.3. Évolution des montants de la part "résultats" |
 
-- Etat liquidatif spécifique au versement exceptionnel. |
+-Etat liquidatif de la part "résultats". |
 
 |
 
-3.3.2.4. Indemnité de départ volontaire (IDV) |
+3.3.2.4.4. Versement exceptionnel lié à la part "résultats" |
+
+-Etat liquidatif spécifique au versement exceptionnel. |
+
+|
+
+3.3.2.5. Indemnité de départ volontaire (IDV) |
 
 Décret n° 2008-368 du 17 avril 2008 modifié en dernier lieu par le décret n° 2019-138 du 26 février 2019 relatif aux dispositifs indemnitaires d'accompagnement des agents dans leurs transitions professionnelles.
 
@@ -2382,343 +2388,383 @@ IDV pour restructuration (article 1er du décret) : versement de l'indemnité en
 
 IDV pour création d'entreprise (article 3 du décret dans sa rédaction antérieure au 1er janvier 2020) : 2 échéances, la moitié de l'indemnité versée au moment de la démission, le solde à l'issue du premier exercice. Les modalités de calcul du montant de l'indemnité peuvent être modulées à raison de l'ancienneté de l'agent dans l'administration et sont fixées par un arrêté du ministre intéressé. |
 
-3.3.2.4.1. Indemnité de départ volontaire attribuée suite à restructuration de service |
+3.3.2.5.1. Indemnité de départ volontaire attribuée suite à restructuration de service |
 
-- Décision d'attribution de l'indemnité visant l'article du décret du 17 avril 2008 dont il est fait application ;
+-Décision d'attribution de l'indemnité visant l'article du décret du 17 avril 2008 dont il est fait application ;
 
 et
 
-- Etat liquidatif. |
+-Etat liquidatif. |
 
 Article 1er du décret n° 2008-368 : démission suite à la restructuration de service.
 
 S'il s'agit du paiement d'une deuxième fraction, l'état liquidatif devra le mentionner et indiquer la date de paiement de la première fraction. |
 
-3.3.2.4.2. Indemnité de départ volontaire attribuée pour reprise ou création d'entreprise |
+3.3.2.5.2. Indemnité de départ volontaire attribuée pour reprise ou création d'entreprise |
 
-- Décision d'attribution de l'indemnité visant l'article du décret du 17 avril 2008 dont il est fait application ;
+-Décision d'attribution de l'indemnité visant l'article du décret du 17 avril 2008 dont il est fait application ;
 
 et
 
-- Etat liquidatif ;
+-Etat liquidatif ;
 
 et
 
 Paiement de la première fraction :
 
-- Extrait de l'état K Bis (personne morale) ;
-
-ou
-
-- Extrait de l'état K (personne physique) ; |
+-Extrait de l'état K Bis (personne morale) ; |
 
 Article 3 du décret n° 2008-368 du 17 avril 2008 : démission pour création ou reprise d'entreprise (cf articles 8 et 9 du décret n° 2019-1596 du 31 décembre 2019).
 
 Le Conseil d'Etat a indiqué que la création ou la reprise doit être postérieure à la demande de l'indemnité de départ volontaire. Par ailleurs, la création ou la reprise doit intervenir au plus tard dans les six mois suivant la démission. |
 
+|
+
 ou
 
-- Déclaration d'activité auprès du centre de formalités des entreprises ; |
+-Extrait de l'état K (personne physique) ;
+
+ou
+
+-Déclaration d'activité auprès du centre de formalités des entreprises ;
+
+ou
+
+-Imprimé CERFA renseigné ;
+
+ou
+
+-Attestation URSSAF (profession libérale).
+
+Paiement de la seconde fraction, à l'issue du premier exercice : |
 
 Ex. : auto-entrepreneur et autres statuts individuels de professions non salariées (artiste-auteur, agent commercial, etc.). |
 
-ou
-
-- Imprimé CERFA renseigné ;
-
-ou
-
-- Attestation URSSAF (profession libérale). |
-
 |
 
-Paiement de la seconde fraction, à l'issue du premier exercice :
-
-- Déclaration d'activité auprès du CFE en cas d'évolution de la forme de l'entreprise depuis le premier versement ;
+-Déclaration d'activité auprès du CFE en cas d'évolution de la forme de l'entreprise depuis le premier versement ;
 
 ou
 
-- Attestation URSSAF de moins de 6 mois indiquant que le compte est toujours actif ;
+-Attestation URSSAF de moins de 6 mois indiquant que le compte est toujours actif ;
 
 ou
 
-- Bilan comptable du premier exercice. |
-
-La preuve de la réalité de l'activité de l'entreprise doit être apportée. Le premier bilan comptable ne porte pas obligatoirement sur une période de 12 mois (cette période peut varier de 6 à 18 mois). La 2ᵉ fraction d'IDV peut donc être payée avant que ne s'écoule une année. |
+-Bilan comptable du premier exercice.
 
 ou
 
-- Attestation d'affiliation à la sécurité sociale des indépendants prouvant que l'entrepreneur est à jour de ses cotisations (charges fiscales et sociales). |
+-Attestation d'affiliation à la sécurité sociale des indépendants prouvant que l'entrepreneur est à jour de ses cotisations (charges fiscales et sociales). |
+
+La preuve de la réalité de l'activité de l'entreprise doit être apportée. Le premier bilan comptable ne porte pas obligatoirement sur une période de 12 mois (cette période peut varier de 6 à 18 mois). La 2e fraction d'IDV peut donc être payée avant que ne s'écoule une année.
 
 Pour les auto-entrepreneurs qui n'ont pas l'obligation de dégager un bilan comptable, un extrait de leur registre dépenses-recettes, daté très récemment, est suffisant. |
 
-3.3.2.5. Indemnité spécifique de rupture conventionnelle (ISRC) |
+3.3.2.6. Indemnité spécifique de rupture conventionnelle (ISRC) |
 
-- Convention de rupture ;
+-Convention de rupture ;
 
-- Etat liquidatif ;
+-Etat liquidatif ;
 
-- Certificat administratif indiquant si l'agent est ou non en droit de bénéficier d'une pension de retraite d'un régime légalement obligatoire au sens de l'article 80 duodecies du Code général des impôts. |
+-Certificat administratif indiquant si l'agent est ou non en droit de bénéficier d'une pension de retraite d'un régime légalement obligatoire au sens de l'article 80 duodecies du Code général des impôts. |
 
 Décrets n° 2019-1593 et n° 2019-1596 du 31 décembre 2019.
 
 Le certificat administratif n'est pas à produire lorsque l'information est portée sur l'état liquidatif. |
 
-3.3.2.6. Indemnité de sujétion géographique, prime spécifique d'installation, indemnité particulière de sujétion et d'installation |
+3.3.2.7. Indemnité de sujétion géographique, prime spécifique d'installation |
 
 Les pièces justificatives de la dépense figurent en annexes à la circulaire budget 2D-023802 FP/7-2032 du 4/10/2002. |
 
-Le paiement sans ordonnancement préalable de l'indemnité est recommandé.
-
-ISG : décret n° 2013-314 du 15 avril 2013 modifié.
+Le paiement sans ordonnancement préalable de l'indemnité est recommandé. ISG : décret n° 2013-314 du 15 avril 2013 modifié.
 
 PSI : décret n° 2001-1225 du 20 décembre 2001 modifiée.
 
 Décret n° 50-1258 du 6 octobre 1950. |
 
-3.3.2.7. Indemnisation des jours épargnés sur le compte épargne temps |
+3.3.2.8. Indemnisation des jours épargnés sur le compte épargne temps |
 
-- Certificat administratif attestant que les jours dont l'indemnisation est demandée (monétisation ou conversion en points RAFP) répondent aux conditions d'indemnisation posées par le décret n° 2002-634 du 29 avril 2002, le décret n° 2008-1136 du 3 novembre 2008 et le décret n° 2009-1065 du 28 août 2009 ;
+-Certificat administratif attestant que les jours dont l'indemnisation est demandée (monétisation ou conversion en points RAFP) répondent aux conditions d'indemnisation posées par le décret n° 2002-634 du 29 avril 2002, le décret n° 2008-1136 du 3 novembre 2008 et le décret n° 2009-1065 du 28 août 2009 ;
 
 et
 
-- Etat liquidatif précisant les jours dont le régime d'indemnisation relève respectivement du décret du 29 avril 2002 et du décret du 28 août 2009. |
+-Etat liquidatif précisant les jours dont le régime d'indemnisation relève respectivement du décret du 29 avril 2002 et du décret du 28 août 2009. |
 
 Décret n° 2002-634 du 29 avril 2002.
 
 Décret n° 2008-1136 du 3 novembre 2008.
 
-Décret n° 2009-1065 du 28 août 2009. |
+Décret n° 2009-1065 du 28 août 2009.
 
-3.3.2.8. Régime indemnitaire tenant compte des fonctions, des sujétions, de l'expertise et de l'engagement professionnel dans la fonction publique de l'Etat (RIFSEEP) |
+L'état liquidatif peut contenir les informations portées par le certificat administratif auquel cas celui-ci n'est pas à transmettre. |
 
-Décret n° 2014-513 du 20 mai 2014 portant création d'un régime indemnitaire tenant compte des focntions, des sujétions, de l'expertise et de l'engagement professionnel dans la fonction publique de l'Etat.
+3.3.2.9. Régime indemnitaire tenant compte des fonctions, des sujétions, de l'expertise et de l'engagement professionnel dans la fonction publique de l'Etat (RIFSEEP) |
+
+Décret n° 2014-513 du 20 mai 2014 portant création d'un régime indemnitaire tenant compte des fonctions, des sujétions, de l'expertise et de l'engagement professionnel dans la fonction publique de l'Etat.
 
 Circulaire NOR : RDFF1427139C du 5 décembre 2014. |
 
-3.3.2.8.1. Mise en place initiale |
+3.3.2.9.1. Mise en place initiale |
 
-- Liste des primes et indemnités par grade, cessant d'être servies aux agents bénéficiaires du RIFSEEP ;
+-Liste des primes et indemnités par grade, cessant d'être servies aux agents bénéficiaires du RIFSEEP ;
 
 et
 
-- Etat liquidatif de l'IFSE. |
+-Etat liquidatif de l'IFSE. |
 
 Les modèles d'états liquidatifs sont annexés à la circulaire du 5 décembre 2014 précitée. |
 
-3.3.2.8.2. Evolution des montants versés de l'IFSE |
+3.3.2.9.2. Evolution des montants versés de l'IFSE |
 
-- Etat liquidatif de l'IFSE. |
-
-|
-
-3.3.2.8.3. Versement du complément indemnitaire annuel |
-
-- Etat liquidatif du complément indemnitaire annuel. |
+-Etat liquidatif de l'IFSE. |
 
 |
 
-3.3.2.9. Garantie individuelle du pouvoir d'achat (GIPA) |
+3.3.2.9.3. Versement du complément indemnitaire annuel |
 
-- Etat liquidatif. |
+-Etat liquidatif du complément indemnitaire annuel. |
 
 |
 
-3.3.2.10. Prime spéciale d'installation |
+3.3.2.10. Garantie individuelle du pouvoir d'achat (GIPA) |
 
-- Décision portant attribution de la prime d'installation ;
+-Etat liquidatif. |
+
+|
+
+3.3.2.11. Prime spéciale d'installation |
+
+-Décision portant attribution de la prime d'installation ;
 
 ou
 
-- Attestation de prise en charge par le ministère :
+-Attestation de prise en charge par le ministère
 
-et
+ou
 
-- Demande de l'agent attestant le premier emploi dans la fonction publique. |
+-Etat liquidatif. |
 
 Décret n° 89-259 du 24 avril 1989. |
 
-3.3.2.11. Prime de transport en Corse |
+3.3.2.12. Prime de transport en Corse |
 
-- Etat liquidatif. |
+-Etat liquidatif. |
 
 Décret n° 89-251 du 20 avril 1989. |
 
-3.3.2.12. Prime de restructuration de service |
+3.3.2.13. Prime de restructuration de service |
 
-- Arrêté ministériel attributif visant le décret n° 2008-366 et les arrêtés fixant l'opération de restructuration et le montant ;
+-Arrêté ministériel attributif visant le décret n° 2008-366 et les arrêtés fixant l'opération de restructuration et le montant
 
-et
+ou
 
-- Attestation de l'employeur précisant que l'agent remplit bien la condition d'ancienneté et ne perçoit pas la prime de réorganisation régionale de l'Etat prévue par le décret n° 2015-1120 du 4 septembre 2015 ;
-
-et
-
-- En cas de couple d'agents publics mariés, pacsés ou concubins, une déclaration sur l'honneur mentionnant le bénéficiaire de la prime. |
+-Etat liquidatif. |
 
 Décret n° 2008-366 du 17 avril 2008.
 
-L'attestation n'est à fournir que si le poste concerné se situe dans une région ayant connu une réorganisation régionale. |
+L'employeur s'assure que l'agent remplit bien la condition d'ancienneté et ne perçoit pas la prime de réorganisation régionale de l'Etat prévue par le décret n° 2015-1120 du 4 septembre 2015.
 
-3.3.2.13. Allocation aide mobilité conjoint |
+En cas de couple d'agents publics mariés, pacsés ou concubins, l'employeur s'assure de leur accord sur le bénéficiaire de la prime. |
 
-- Arrêté ministériel attributif visant le décret n° 2008-366 et les arrêtés fixant l'opération de restructuration et le montant ;
+3.3.2.14. Allocation aide mobilité conjoint |
 
-et
+-Arrêté ministériel attributif visant le décret n° 2008-366 et les arrêtés fixant l'opération de restructuration et le montant
 
-- Attestation employeur qui précise que l'agent ne perçoit pas par ailleurs, la prime de réorganisation régionale de l'Etat et le complément à la mobilité du conjoint prévus par le décret n° 2015-1120 du 4 septembre 2015 ;
+ou
 
-et
-
-- Attestation sur l'honneur de l'agent de la démission ou de la cessation d'activité de son conjoint. |
+-Etat liquidatif. |
 
 Décret n° 2008-366 du 17 avril 2008.
 
-Décret n° 2008-647 du 30 juin 2008. |
+Décret n° 2008-647 du 30 juin 2008.
 
-3.3.2.14. Indemnité d'accompagnement à la mobilité fonctionnelle (IAMF) |
+L'employeur s'assure que l'agent remplit bien la condition d'ancienneté et ne perçoit pas la prime de réorganisation régionale de l'Etat prévue par le décret n° 2015-1120 du 4 septembre 2015.
 
-- Certificat administratif attestant que l'agent a rejoint son nouvel emploi ;
+L'employeur s'assure de la démission ou de la cessation d'activité de son conjoint. |
 
-- Attestation de formation mentionnant la durée de la formation suivie ;
+3.3.2.15. Indemnité d'accompagnement à la mobilité fonctionnelle (IAMF) |
 
-- Etat liquidatif. |
+-Certificat administratif attestant que l'agent a rejoint son nouvel emploi ;
 
-Décret n° 2019-1444 du 23 décembre 2019.
+-Attestation de formation mentionnant la durée de la formation suivie ;
+
+-Etat liquidatif. |
+
+Décret n° 2019-1444 du 23 décembre 2019 .
 
 Un certificat unique peut regrouper l'ensemble des informations attendues de ces trois pièces justificatives. |
 
-3.3.2.15. Prime d'accompagnement de la réorganisation régionale de l'Etat (1ère part) |
+3.3.2.16. Prime d'accompagnement de la réorganisation régionale de l'Etat (1re part) |
 
-- Arrêté attributif faisant référence au 1° de l'article 2 du décret du 4 septembre 2015 et visant l'arrêté conjoint des ministères intéressés et des ministres chargés du Budget, fixant les opérations de réorganisations de service ouvrant droit à la prime ;
-
-et
-
-- Etat liquidatif (s'il s'agit du paiement d'une deuxième fraction, l'état liquidatif devra le mentionner et indiquer la date de paiement de la première fraction) ;
+-Décision d'attribution faisant référence au 1° de l'article 2 du décret du 4 septembre 2015 et visant l'arrêté conjoint des ministères intéressés et des ministres chargés du Budget, fixant les opérations de réorganisations de service ouvrant droit à la prime ;
 
 et
 
-- Attestation employeur qui précise que l'agent remplit bien la condition d'ancienneté et qu'il ne perçoit pas par ailleurs, la prime de restructuration et le complément à la mobilité du conjoint prévus par le décret n° 2008-366 du 17 avril 2008 ;
+-Etat liquidatif (s'il s'agit du paiement d'une deuxième fraction, l'état liquidatif devra le mentionner et indiquer la date de paiement de la première fraction) ; |
+
+Décret n° 2015-1120 du 4 septembre 2015 (articles 2,3 et 5).
+
+L'état liquidatif peut être seul produit s'il contient les informations portées sur la décision d'attribution auquel cas celle-ci n'est pas à transmettre.
+
+L'employeur s'assure que l'agent remplit bien la condition d'ancienneté et qu'il ne perçoit pas par ailleurs, la prime de restructuration et le complément à la mobilité du conjoint prévus par le décret n° 2008-366 du 17 avril 2008.
+
+En cas de couple d'agents publics mariés, pacsés ou concubins, l'employeur s'assure de leur accord sur le bénéficiaire de la prime. |
+
+3.3.2.17. Prime d'accompagnement de la réorganisation régionale de l'Etat (2e part) |
+
+-Décision d'attribution visant le 2° de l'article 2 du décret du 4 septembre 2015 ;
 
 et
 
-- En cas de couple d'agents publics mariés, pacsés ou concubins, une déclaration sur l'honneur mentionnant le bénéficiaire de la prime. |
+-Etat liquidatif. |
 
-Décret n° 2015-1120 du 4 septembre 2015 (articles 2, 3 et 5). |
+Décret n° 2015-1120 du 4 septembre 2015.
 
-3.3.2.16. Prime d'accompagnement de la réorganisation régionale de l'Etat (2ᵉ part) |
+L'état liquidatif peut être seul produit s'il contient les informations portées sur la décision d'attribution auquel cas celle-ci n'est pas à transmettre. |
 
-- Arrêté attributif visant le 2° de l'article 2 du décret du 4 septembre 2015 ;
+3.3.2.18. Complément mobilité conjoint |
 
-et
-
-- Etat liquidatif. |
-
-Décret n° 2015-1120 du 4 septembre 2015. |
-
-3.3.2.17. Complément mobilité conjoint |
-
-- Arrêté attributif visant l'article 4 du décret du 4 septembre 2015 ;
+-Décision d'attribution visant l'article 4 du décret du 4 septembre 2015 ;
 
 et
 
-- Etat liquidatif ;
+-Etat liquidatif ; |
 
-et
+Décret n° 2015-1120 du 4 septembre 2015.
 
-- Attestation employeur qui précise que l'agent ne perçoit pas par ailleurs, la prime de restructuration et le complément à la mobilité du conjoint prévus par le décret n° 2008-366 du 17 avril 2008 ;
+L'état liquidatif peut être seul produit s'il contient les informations portées sur la décision d'attribution auquel cas celle-ci n'est pas à transmettre.
 
-et
+L'employeur s'assure que l'agent ne perçoit pas par ailleurs, la prime de restructuration et le complément à la mobilité du conjoint prévus par le décret n° 2008-366 du 17 avril 2008.
 
-- Attestation sur l'honneur de l'agent de la démission ou de la cessation d'activité de son conjoint. |
+L'employeur s'assure de la démission ou de la cessation d'activité du conjoint. |
 
-Décret n° 2015-1120 du 4 septembre 2015. |
+3.3.2.19. Complément indemnitaire d'accompagnement (CIA) |
 
-3.3.2.18. Indemnité dégressive |
+-Etat liquidatif mentionnant l'opération de restructuration ; |
+
+Décret n° 2014-507 du 19 mai 2014 relatif aux dispositifs indemnitaires d'accompagnement dans la fonction publique. |
+
+et, le cas échéant, lorsque l'agent est rémunéré par une autre administration que celle versant le CIA :
+
+-relevé de domiciliation bancaire ;
+
+-copie lisible de la carte vitale. |
+
+En cas de copie illisible de la carte vitale, l'attestation de droits de Sécurité sociale devra être produite. |
+
+3.3.2.20. Indemnité dégressive |
 
 A chaque évolution de montant
 
-- Arrêté d'avancement de l'agent ;
-
-et
-
-- Décompte. |
+-Décompte ou état liquidatif. |
 
 Décret n° 2015-492 du 29 avril 2015. |
 
-3.3.2.19. Indemnité de licenciement (contractuels) |
+3.3.2.21. Indemnité de licenciement (contractuels) |
 
-- Décision de licenciement ;
-
-et
-
-- Etat liquidatif précisant toutes les informations entrant dans le calcul de l'indemnité. |
-
-Décret n° 86-83 du 17 janvier 1986 (articles 51 à 56). |
-
-3.3.2.20. Indemnité de fin de contrat de projet |
-
-- Certificat de fin de contrat ;
+-Décision de licenciement ;
 
 et
 
-- Etat liquidatif. |
+-Etat liquidatif précisant toutes les informations entrant dans le calcul de l'indemnité. |
 
-Décret n° 2020-172 du 29 février 2020. |
+Décret n° 86-83 du 17 janvier 1986 (articles 51 à 56).
 
-3.3.2.21. Indemnité de licenciement (fonctionnaires) |
+L'état liquidatif peut être seul produit s'il contient les informations portées sur la décision de licenciement auquel cas celle-ci n'est pas à transmettre. |
 
-- Décision prononçant le licenciement ;
+3.3.2.22. Indemnité de fin de contrat de projet |
+
+-Certificat de fin de contrat ;
 
 et
 
-- Etat liquidatif précisant toutes les informations entrant dans le calcul de l'indemnité. |
+-Etat liquidatif. |
 
-Décret n° 85-986 du 16 septembre 1985 (article 61). |
+Décret n° 2020-172 du 29 février 2020.
 
-3.3.2.22. Indemnité compensatrice de la hausse de CSG |
+L'état liquidatif peut être seul produit s'il contient les informations portées sur le certificat de fin de contrat auquel cas celui-ci n'est pas à transmettre. |
 
-À chaque évolution de montant liée à la situation de l'agent (maladie, quotité de temps de travail)
+3.3.2.23. Indemnité de licenciement (fonctionnaires) |
 
-- Etat liquidatif ;
+-Décision prononçant le licenciement ;
+
+et
+
+-Etat liquidatif précisant toutes les informations entrant dans le calcul de l'indemnité. |
+
+Décret n° 85-986 du 16 septembre 1985 (article 61).
+
+L'état liquidatif peut être seul produit s'il contient les informations portées sur la décision de licenciement auquel cas celle-ci n'est pas à transmettre. |
+
+3.3.2.24. Indemnité compensatrice de la hausse de CSG |
+
+A chaque évolution de montant liée à la situation de l'agent (maladie, quotité de temps de travail)
+
+-Etat liquidatif ;
 
 A chaque revalorisation réglementaire hors PSOP
 
-- Etat liquidatif. |
+-Etat liquidatif. |
 
 Décret n° 2017-1889 du 30 décembre 2017 pris en application de l'article 113 de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018. |
 
-3.3.2.23. Indemnité de fin de contrat dans la fonction publique |
+3.3.2.25. Indemnité de fin de contrat dans la fonction publique |
 
-- Etat liquidatif ;
-
-et
-
-- Contrat de travail et ses avenants ;
+-Etat liquidatif ;
 
 et
 
-- Certificat de l'ordonnateur confirmant que le contrat est exécuté jusqu'à son terme et que l'agent n'a pas refusé la conclusion d'un contrat de travail à durée indéterminée pour occuper le même emploi ou un emploi similaire auprès du même employeur, assorti d'une rémunération au moins équivalente. |
+-Certificat de l'ordonnateur confirmant que le contrat est exécuté jusqu'à son terme et que l'agent n'a pas refusé la conclusion d'un contrat de travail à durée indéterminée pour occuper le même emploi ou un emploi similaire auprès du même employeur, assorti d'une rémunération au moins équivalente. |
 
-Décret n° 2020-1296 du 23 octobre 2020 relatif à l'indemnité de fin de contrat dans la fonction publique. |
+Décret n° 2020-1296 du 23 octobre 2020 relatif à l'indemnité de fin de contrat dans la fonction publique
 
-3.3.2.24. Indemnité de mise sous pli allouée à certains personnels de l'Etat à l'occasion des élections politiques |
+L'état liquidatif précise la rémunération brute globale de l'agent.
 
-- Etat liquidatif. |
+L'état liquidatif peut être seul produit s'il contient les informations portées sur le certificat. |
+
+3.3.2.26. Indemnité de mise sous pli allouée à certains personnels de l'Etat à l'occasion des élections politiques |
+
+-Etat liquidatif. |
 
 Décret n° 2012-498 du 17 avril 2012.
 
 Arrêté du 17 avril 2012 fixant le plafond de l'indemnité de mise sous pli allouée à certains personnels de l'Etat à l'occasion des élections politiques. |
 
-3.3.2.25. Indemnité pour travaux supplémentaires allouée à certains personnels de l'Etat à l'occasion des élections politiques |
+3.3.2.27. Indemnité pour travaux supplémentaires allouée à certains personnels de l'Etat à l'occasion des élections politiques |
 
-- Etat liquidatif. |
+-Etat liquidatif. |
 
 Décret n° 2004-143 du 13 février 2004 fixant les conditions d'attribution de l'indemnité pour travaux supplémentaires allouée à certains personnels de l'Etat à l'occasion des élections politiques.
 
 Arrêté du 13 février 2004 fixant les modalités de calcul de l'enveloppe départementale et le plafond de l'indemnité pour travaux supplémentaires allouée à certains personnels de l'Etat à l'occasion des élections politiques.
 
 L'état liquidatif mentionne l'élection concernée. |
+
+3.3.2.28. Allocation forfaitaire de télétravail au bénéfice des agents publics et des magistrats |
+
+-Pas de pièce à fournir dans le cadre d'indemnités autoliquidées par les applications de la PSOP, le mouvement informatique de type 22 notifié sur le fichier GEST vaut pièce justificative (décision d'attribution et état liquidatif) ;
+
+ou
+
+-A défaut, état liquidatif justifiant le nombre de jours de télétravail à indemniser. |
+
+Décret n° 2021-1123 du 26 août 2021 portant création d'une allocation forfaitaire de télétravail au bénéfice des agents publics et des magistrats.
+
+Arrêté du 26 août 2021 pris pour l'application du décret n° 2021-1123 du 26 août 2021 |
+
+3.3.2.29. Participation à la protection sociale complémentaire (régime provisoire et forfaitaire) |
+
+-Etat collectif désignant les agents bénéficiaires et portant la double certification de l'ordonnateur selon laquelle :
+
+a) Les agents mentionnés remplissent les conditions
+
+posées aux articles 1er et 2 du décret n° 2021-1164 du 8 septembre 2021 et ont effectué une demande de remboursement d'une partie des cotisations de PSC destinées à couvrir les frais de santé des agents civils et militaires de l'Etat institué par ce décret ;
+
+b) Les cotisations de PSC éligibles au remboursement partiel relèvent des conditions et des organismes mentionnés à l'article 3 du décret n° 2021-1164 du 8 septembre 2021. |
+
+Décret n° 2021-1164 du 8
+
+septembre 2021. |
 
 3.4. PRESTATIONS SOCIALES DIVERSES |
 
@@ -2734,19 +2780,15 @@ L'état liquidatif mentionne l'élection concernée. |
 
 3.4.1.1. Remboursement du trajet domicile-travail |
 
-- Demande de l'agent. |
+-Etat liquidatif (le cas échéant collectif)
 
-Décret n° 2010-676 du 21 juin 2010.
+ou mouvement informatique dédié à une gestion par codes taux dans le cadre d'indemnités autoliquidées par les applications de la PSOP. |
 
-La demande de l'agent est transmise lors du 1er versement et en cas de modification du montant à payer. |
+Décret n° 2010-676 du 21 juin 2010. |
 
 3.4.1.2. Forfait mobilités durables |
 
-Déclaration sur l'honneur de l'agent ;
-
-et
-
-- Etat liquidatif. |
+-Etat liquidatif. |
 
 Décret n° 2020-543 du 9 mai 2020. |
 
@@ -2757,12 +2799,6 @@ Décret n° 2020-543 du 9 mai 2020. |
 |
 
 3.4.2.1. Allocation d'aide au retour à l'emploi (ARE) |
-
-|
-
-L'allocation d'aide au retour à l'emploi est prévue par les articles L. 5424-1 et L. 5424-2 du code du travail. |
-
-3.4.2.1.1. Lorsque le versement de l'allocation est effectué par l'État |
 
 -Etat liquidatif ;
 
@@ -2782,24 +2818,6 @@ Cet état comprend :
 
 Ces éléments peuvent faire l'objet de deux documents distincts. |
 
-3.4.2.1.2. Lorsque le versement de l'allocation est effectué par le mandataire Pôle Emploi |
-
--Etats liquidatifs. |
-
-Pour le remboursement des allocations et le paiement de frais de gestion, ces états liquidatifs sont les suivants :
-
--récapitulatif mensuel des montants des allocations de chômage, des impayés, des indus récupérés et des cotisations afférentes ;
-
--état mensuel nominatif des montants des allocations de chômage, des impayés, des indus récupérés et des cotisations afférentes ;
-
--calcul et facturation des frais de gestion pour la période considérée.
-
-Ces états sont mis à la disposition des comptables via la plateforme de Pôle Emploi " Phébus ".
-
-Pour le versement de l'avance : le montant de l'avance est fixé par l'annexe conventionnelle opérationnelle et constitue la pièce justificative.
-
-Pour un abondement complémentaire de l'avance en cours d'année : une demande de paiement de l'avance complémentaire sur la base de l'état prévisionnel des dépenses est établie par ministère. |
-
 3.4.2.2. Aide à la reprise ou à la création d'entreprise (ARCE) |
 
 |
@@ -2808,81 +2826,83 @@ Pour un abondement complémentaire de l'avance en cours d'année : une demande d
 
 3.4.2.2.1. Premier versement |
 
-- Attestation de radiation du demandeur des listes de demandeurs d'emploi ; |
+-Attestation de radiation du demandeur des listes de demandeurs d'emploi ; |
 
 |
 
 et
 
-- Etat K bis ; |
+-Etat K bis ; |
 
 Ou document équivalent, dont récépissé de la déclaration de l'entreprise ou de l'activité, délivré par le Centre des Formalités des Entreprises (cf. rubrique 3.2.2.5 IDV). |
 
 et
 
-- Attestation de l'admission à l'aide aux chômeurs créateurs ou repreneurs d'entreprises (ACCRE) délivrée par l'URSSAF ou le régime social des indépendants (RSI) ; |
+-Attestation de l'admission à l'aide à la création ou à la reprise d'entreprises (ACRE) délivrée par l'URSSAF ou la Sécurité sociale des indépendants (SSI) ; |
 
-L'ACCRE vaut exonération des charges sociales. |
+L'ACRE vaut exonération des charges sociales. |
 
 ou
 
-- Récépissé de demande du bénéfice de l'ACCRE délivré par centre de formalités des entreprises (CFE) ; |
-
-À défaut de réponse de l'URSSAF ou du RSI dans un délai d'un mois. |
-
-et
-
-- Attestation sur l'honneur du demandeur de l'ARCE garantissant l'absence de notification d'une décision de rejet de la demande d'ACCRE ; |
+-Récépissé de demande du bénéfice de l'ACRE délivré par centre de formalités des entreprises (CFE) ; |
 
 |
 
 et
 
-- Etat liquidatif. |
+-Attestation sur l'honneur du demandeur de l'ARCE garantissant l'absence de notification d'une décision de rejet de la demande d'ACRE ; |
+
+A défaut de réponse de l'URSSAF ou du SSI dans un délai d'un mois. |
+
+et
+
+-Etat liquidatif. |
 
 L'état liquidatif indique le reliquat des droits à l'ARE, l'assiette du calcul de l'ARCE et le montant du premier versement (montant = moitié du reliquat d'ARE divisé par 2). |
 
 3.4.2.2.2. Second versement |
 
-- Extrait K bis ; |
-
-Ou document équivalent (cf. ci-dessus). |
+-Extrait K bis ;
 
 et
 
-- Etat liquidatif. |
+-Etat liquidatif. |
+
+Ou document équivalent (cf. ci-dessus).
 
 Montant identique au premier versement. |
 
 3.4.3. Accident de service ou de travail, maladie professionnelle |
 
-- Décision plaçant l'agent en congé pour invalidité temporaire imputable au service à titre provisoire ; et
+-Décision plaçant l'agent en congé pour invalidité temporaire imputable au service à titre provisoire ;
 
-- Etat liquidatif des sommes à mettre en paiement, hors rémunération. |
+et
 
-Loi n° 84-16 du 11 janvier 1984, article 34-2°.
+-Etat liquidatif des sommes à mettre en paiement, hors rémunération. |
 
-Décret n° 86-442 du 14 mars 1986 (articles 47-1 et s. du Titre VI bis).
+Articles L. 822-18 et suivants du Code général de la Fonction publique
+
+Décret n° 86-442 du 14 mars 1986 (articles 47-1 et suivants du Titre VI bis).
 
 Pour la prise en charge des prestations en nature (remboursement des honoraires médicaux et des frais directement entraînés par la maladie ou l'accident) les justifications doivent être apportées aux services gestionnaires par les intéressés. |
 
 3.4.4. Assurance invalidité |
 
-- Décision précisant la position de l'agent (activité, congé de maladie, disponibilité) ;
+-Décision précisant la position de l'agent (activité, congé de maladie, disponibilité) ;
 
 et
 
-- Etat liquidatif des sommes à mettre en paiement. |
+-Etat liquidatif des sommes à mettre en paiement. |
 
 Article D. 712-16 du code de la sécurité sociale.
 
 La décision précise :
 
-- le pourcentage d'invalidité ;
+-le pourcentage d'invalidité ;
 
-- la nature du droit (rémunération, allocation d'invalidité et éventuellement majoration pour tierce personne) ;
+-la nature du droit (rémunération, allocation d'invalidité et éventuellement majoration pour tierce personne) ;
 
-- la période de versement. |
+-la période de versement. |
 
 3.4.5. Capital décès |
 
@@ -2890,29 +2910,27 @@ La décision précise :
 
 Paiement par ordonnance ou mandat.
 
-Articles D. 712-19 à D. 712-24 du code de la sécurité sociale.
-
-Instruction générale du 01/08/1956 relative au régime de sécurité sociale des fonctionnaires de l'Etat. |
+Articles D. 712-19 à D. 712-24 du code de la sécurité sociale. |
 
 3.4.5.1. Pièces communes à toutes les demandes de capital décès |
 
-- Acte de décès du fonctionnaire ;
+-Acte de décès du fonctionnaire ;
 
 ou
 
-- Livret de famille portant mention du décès du fonctionnaire ;
+-Livret de famille portant mention du décès du fonctionnaire ;
 
 et
 
-- Dernier bulletin de salaire du fonctionnaire décédé en cas d'application des articles D. 712-23-1 ou D. 712-24 du code de la sécurité sociale ;
+-Dernier bulletin de salaire du fonctionnaire décédé en cas d'application des articles D. 712-23-1 ou D. 712-24 du code de la sécurité sociale ;
 
 et
 
-- Etat liquidatif ;
+-Etat liquidatif ;
 
 et
 
-- Relevé de domiciliation bancaire au nom du ou des créancier·s. |
+-Relevé de domiciliation bancaire au nom du ou des créanciers. |
 
 Dans le cas du paiement à un enfant mineur, le relevé est établi, soit au nom de l'enfant, soit au nom de son représentant légal. |
 
@@ -2924,97 +2942,97 @@ Dans le cas du paiement à un enfant mineur, le relevé est établi, soit au nom
 
 3.4.5.2.1. Capital décès demandé en totalité par le conjoint |
 
-- Extraits de l'acte de mariage du fonctionnaire ;
+-Extraits de l'acte de mariage du fonctionnaire ;
 
 ou
 
-- Livret de famille ;
+-Livret de famille ;
 
 et
 
-- Déclaration sur l'honneur du conjoint attestant qu'aucune séparation de corps n'a été prononcée judiciairement. |
+-Déclaration sur l'honneur du conjoint attestant qu'aucune séparation de corps n'a été prononcée judiciairement. |
 
 |
 
 3.4.5.2.2. Capital décès demandé en totalité par le partenaire survivant d'un PACS |
 
-- Avis délivré par le greffier du tribunal d'instance ou de grande instance attestant la dissolution automatique du pacte suite au décès du partenaire fonctionnaire ;
+-Avis délivré par le greffier du tribunal judiciaire attestant la dissolution automatique du pacte suite au décès du partenaire fonctionnaire ;
 
 ou
 
-- Extrait d'acte de naissance du demandeur comportant la mention marginale de l'existence d'un pacte civil de solidarité au jour du décès du partenaire fonctionnaire ;
+-Extrait d'acte de naissance du demandeur comportant la mention marginale de l'existence d'un pacte civil de solidarité au jour du décès du partenaire fonctionnaire ;
 
 ou
 
-- Tout autre document de même valeur probatoire ;
+-Tout autre document de même valeur probatoire ;
 
 et
 
-- Attestation du gestionnaire indiquant qu'au vu des éléments relatifs à la situation du fonctionnaire décédé, présents dans le dossier de ce dernier, il ne connaît pas d'autre ayant droit au jour de la liquidation du capital. |
+-Attestation du gestionnaire indiquant qu'au vu des éléments relatifs à la situation du fonctionnaire décédé, présents dans le dossier de ce dernier, il ne connaît pas d'autre ayant droit au jour de la liquidation du capital. |
 
-Document attestant l'existence d'un pacte civil de solidarité au jour du décès du fonctionnaire.
-
-Dans l'hypothèse d'un droit à capital décès suite au décès du fonctionnaire entre le 1er janvier 2005 et le 21 novembre 2009 : cf. lettre DGFIP-CE-2A n° 2010/02/6984 du 17 juin 2010. |
+Document attestant l'existence d'un pacte civil de solidarité au jour du décès du fonctionnaire. |
 
 3.4.5.2.3. Capital décès demandé en totalité par les enfants |
 
-- Livret de famille établissant la filiation ;
+-Livret de famille établissant la filiation ;
 
 ou
 
-- Actes de naissance des enfants ;
+-Actes de naissance des enfants ;
 
 et
 
-- Acte de décès du conjoint du fonctionnaire décédé ;
+-Acte de décès du conjoint du fonctionnaire décédé ;
 
 ou
 
-- Acte de mariage portant mention du jugement ou de l'arrêt prononçant le divorce, en cas de divorce du défunt et du conjoint survivant ;
+-Acte de mariage portant mention du jugement ou de l'arrêt prononçant le divorce, en cas de divorce du défunt et du conjoint survivant ;
 
 ou
 
-- Livret(s) de famille, avec les mentions relatives au décès et au divorce du (des) parent(s) ;
+-Livret (s) de famille, avec les mentions relatives au décès et au divorce du (des) parent (s) ;
 
 ou
 
-- Preuve de la dissolution d'un PACS ;
+-Preuve de la dissolution d'un PACS ;
 
 et, le cas échéant,
 
-- Décision judiciaire de séparation de corps du fonctionnaire défunt et du conjoint survivant ; |
+-Décision judiciaire de séparation de corps du fonctionnaire défunt et du conjoint survivant ;
+
+et, selon les cas, |
 
 |
 
-et, selon les cas,
-
-- Avis ou certificat de non-imposition à l'impôt sur le revenu des personnes physiques établi au nom des enfants ; |
-
-Non-imposition sur patrimoine propre de l'enfant.
-
-Dans certains cas, production de la déclaration de revenus (cf instruction n° 85-111 B1 du 4 septembre 1985). |
+-Avis ou certificat de non-imposition à l'impôt sur le revenu des personnes physiques établi au nom des enfants ;
 
 ou
 
-- Attestation sur l'honneur des enfants majeurs ou du représentant légal des enfants mineurs ; |
+-Attestation sur l'honneur des enfants majeurs ou du représentant légal des enfants mineurs ; |
+
+Non-imposition sur patrimoine propre de l'enfant.
+
+Dans certains cas, production de la déclaration de revenus (cf instruction n° 85-111 B1 du 4 septembre 1985).
 
 Si les enfants sont rattachés au foyer fiscal du fonctionnaire décédé, production de l'avis d'imposition du fonctionnaire décédé ou du conjoint (de l'ex-conjoint) de ce dernier faisant apparaître le rattachement des enfants bénéficiaires de cette prestation.
 
-L'attestation sur l'honneur est produite si les enfants ou leur représentant légal n'ont pas fait de déclaration de revenus, ou si le comptable du Trésor compétent n'a pas pu établir le certificat de non-imposition. Elle précise d'une part la situation de l'enfant (par exemple : élève ou étudiant) et, d'autre part, que l'enfant n'est pas imposable du fait de ses revenus salariés ou de ses revenus mobiliers ou immobiliers. |
-
-le cas échéant,
-
-- Preuve de la reconnaissance du handicap de l'enfant par une autorité administrative ou autre autorité habilitée. |
+L'attestation sur l'honneur est produite si les enfants ou leur représentant légal n'ont pas fait de déclaration de revenus, ou si le comptable du Trésor compétent n'a pas pu établir le certificat de non-imposition. Elle précise d'une part la situation de l'enfant (par exemple : élève ou étudiant) et, d'autre part, que l'enfant n'est pas imposable du fait de ses revenus salariés ou de ses revenus mobiliers ou immobiliers.
 
 Enfants âgés de plus de 21 ans. |
 
+le cas échéant,
+
+-Preuve de la reconnaissance du handicap de l'enfant par une autorité administrative ou autre autorité habilitée. |
+
+|
+
 3.4.5.2.4. Capital-décès demandé par le conjoint, le partenaire survivant et par les enfants |
 
-- Pièces identiques à celles prévues en cas de capital décès revendiqué par le seul conjoint, ou le seul partenaire survivant d'un PACS ;
+-Pièces identiques à celles prévues en cas de capital décès revendiqué par le seul conjoint, ou le seul partenaire survivant d'un PACS ;
 
 et
 
-- Pièces identiques à celles prévues en cas de capital décès revendiqué par les enfants. |
+-Pièces identiques à celles prévues en cas de capital décès revendiqué par les enfants. |
 
 Pour ce qui concerne le conjoint.
 
@@ -3024,83 +3042,83 @@ Pour ce qui concerne les enfants. |
 
 3.4.5.2.5. Capital-décès demandé par les ascendants du premier degré |
 
-- Déclaration sur l'honneur du ou des ascendants ; |
+-Déclaration sur l'honneur du ou des ascendants ; |
 
 Elle atteste que le défunt n'était pas marié ni partenaire d'un PACS ou qu'il était veuf, divorcé ou séparé de corps judiciairement et qu'il n'a pas laissé de descendant pouvant prétendre au capital décès. |
 
 et
 
-- Extrait de naissance du ou des ascendants ;
+-Extrait de naissance du ou des ascendants ;
 
 ou
 
-- Livret de famille régulièrement tenu à jour ; |
+-Livret de famille régulièrement tenu à jour ;
+
+et |
 
 |
 
-et
-
-- Avis ou certificat de non-imposition à l'impôt sur le revenu ; |
+-Avis ou certificat de non-imposition à l'impôt sur le revenu ; |
 
 Cf. instruction du 4 septembre 1985 précitée. |
 
 ou
 
-- Attestation sur l'honneur si aucune déclaration fiscale n'a été faite par le ou les ascendants à l'administration fiscale. |
+-Attestation sur l'honneur si aucune déclaration fiscale n'a été faite par le ou les ascendants à l'administration fiscale. |
 
 Elle précise que les ascendants ne sont pas imposables du fait de leurs revenus salariés ou de son leurs revenus mobiliers ou immobiliers. |
 
 3.4.5.2.6. Capital-décès demandé par les ascendants du second degré |
 
-- Production des pièces exigées pour les ascendants du 1er degré ;
+-Production des pièces exigées pour les ascendants du 1er degré ;
 
 et
 
-- Extrait des actes de décès des deux ascendants du 1er degré. |
+-Extrait des actes de décès des deux ascendants du 1er degré. |
 
 |
 
 3.4.5.2.7. Capital-décès demandé par les ayants droit d'un fonctionnaire présumé absent |
 
-- Expédition du jugement rendu par le juge des tutelles constatant la présomption d'absence. |
+-Expédition du jugement rendu par le juge des tutelles constatant la présomption d'absence. |
 
 Article 112 du code civil. |
 
 3.5. PRESTATIONS D'ACTION SOCIALE DES ADMINISTRATIONS |
 
-- Demande établie par l'agent ;
+-Demande établie par l'agent ;
 
 et
 
-- Eléments de liquidation ;
+-Éléments de liquidation ;
 
 et
 
-- Attestation du service gestionnaire certifiant que les conditions imposées par la réglementation sont remplies. |
+-Attestation du service gestionnaire certifiant que les conditions imposées par la réglementation sont remplies. |
 
 Paiement après ordonnancement ou mandatement.
 
 Cas particulier de l'application SEJOURS (versement de subvention pour le séjour des enfants des agents) : la demande de subvention signée par l'agent n'est pas à produire au comptable. Sont produits au comptable des informations directement issues de l'application :
 
-- les éléments de liquidation édités dans l'application ;
+-les éléments de liquidation édités dans l'application ;
 
 et
 
-- un état récapitulatif permet de produire au comptable les éléments constitutifs de la demande de subvention de l'agent. |
+-un état récapitulatif permet de produire au comptable les éléments constitutifs de la demande de subvention de l'agent. |
 
 3.6. COTISATIONS PATRONALES DES MILITAIRES |
 
-- Etats liquidatifs produits par l'ordonnateur au titre des dépenses de cotisations part Etat en matière de solde des militaires, comportant à minima :
+-Etats liquidatifs produits par l'ordonnateur au titre des dépenses de cotisations part Etat en matière de solde des militaires, comportant a minima :
 
-- L'indication du centre financier ;
+-L'indication du centre financier ;
 
-- Les comptes PCE ;
+-Les comptes PCE ;
 
-- L'assiette ;
+-L'assiette ;
 
-- Le taux ;
+-Le taux ;
 
-- Le montant. |
+-Le montant. |
 
 Ces états doivent être certifiés par l'ordonnateur.
 
@@ -4542,9 +4560,7 @@ ou
 
 - Visa, dans l'acte portant transfert de propriété (acte de cession amiable ou ordonnance d'expropriation de l'arrêté de cessibilité) ; |
 
-Articles R. 132-1 et suivants du code de l'expropriation pour cause d'utilité publique
-
-|
+Articles R. 132-1 et suivants du code de l'expropriation pour cause d'utilité publique |
 
 2. Pièces requises pour la justification des droits de propriété en l'absence d'acte notarié :
 
@@ -5448,9 +5464,7 @@ et
 
 |
 
-9.2.6. Pensions de retraite d'épouse concédées au titre de l'article L. 60 du code des pensions civiles et militaires de retraite
-
-|
+9.2.6. Pensions de retraite d'épouse concédées au titre de l'article L. 60 du code des pensions civiles et militaires de retraite |
 
 - Déclaration de non divorce ou de non séparation de corps ;
 
