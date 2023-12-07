@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230406268
+
+- Question : [SEQ230406268](seq230406268.md) — Protocole sanitaire « covid » pour les examens 2023
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2023-12-07, page 6773*
+
+Le pilotage des examens organisés au sein des établissements scolaires est appuyé par un réseau national décliné au niveau local sous la forme de directions des examens et concours, présentes au sein de chaque rectorat. Ces services assurent un lien direct et continu tout au long de l'année avec les chefs des centres d'examen, c'est-à-dire les chefs des établissements qui accueillent des épreuves, auxquels ils sont amenés à rappeler l'ensemble des informations utiles à l'organisation des examens, incluant le cas échéant les évolutions du protocole sanitaire. Ces informations sont parallèlement relayées sur les sites internet opérés par les services centraux du ministère, à savoir le site education.gouv.fr (essentiellement dédié à l'information générale destinée au grand public), mais également le site eduscol.gouv.fr, destiné plus spécifiquement à la diffusion d'informations techniques utiles aux professionnels de l'éducation. Elles peuvent également être rappelées sur les sites internet relevant de chaque académie. Une attention continue est portée à la mise à disposition de l'ensemble des informations concernant l'organisation et la vie des élèves et des personnels au sein des écoles et établissements scolaires, notamment les informations sur le protocole sanitaire applicable aux examens organisés en établissements. L'objectif est avant tout de les rendre aisément accessibles pour l'ensemble des usagers en cas de mise à jour des pages concernées sur les sites internet du ministère en y consacrant une rubrique en page d'accueil lorsque l'actualisation le justifie.
