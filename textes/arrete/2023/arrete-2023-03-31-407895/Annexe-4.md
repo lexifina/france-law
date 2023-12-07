@@ -1,36 +1,82 @@
 # Article Annexe 4
 
-RÉPARTITION DES FLEXIBILITÉS INTERZONALES EN TONNES
+Répartition des flexibilités interzonales en tonnes
 
-Libellé
-
-de la flexibilité |
+Libellé de la flexibilité |
 
 Code UE |
 
-Navires non adhérant à une organisation de producteurs |
+Navires non adhérant
 
-Navires adhérant à l'organisation de producteurs Les pêcheurs d'Aquitaine |
+à une organisation de producteurs |
 
-Navires adhérant à l'organisation de producteurs Coopérative maritime étaploise Manche Mer du Nord (CMEMMN) |
+Navires adhérant
 
-Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (COBRENORD) |
+à l'organisation de producteurs
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord) |
+Les pêcheurs d'Aquitaine |
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest) |
+Navires adhérant
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Cotinière |
+à l'organisation de producteurs
 
-Navires adhérant à l'organisation de producteurs Marins-Pêcheurs Normands (OPN) |
+Coopérative maritime étaploise
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN) |
+Manche Mer du Nord (CMEMMN) |
 
-Navires adhérant à l'organisation de producteurs Les pêcheurs de Bretagne |
+Navires adhérant à l'organisation de producteurs
 
-Navires adhérant à l'organisation de producteurs VENDEE |
+Coopérative Bretagne-Nord (COBRENORD) |
 
-Navires adhérant à l'organisation de producteurs ORTHONGEL |
+Navires adhérant à l'organisation de producteurs
+
+Fonds régional d'organisation du marché
+
+du poisson du Nord-Normandie (FROM Nord) |
+
+Navires adhérant
+
+à l'organisation de producteurs
+
+Fonds régional d'organisation du marché
+
+du poisson du Sud-Ouest (FROM Sud-Ouest) |
+
+Navires adhérant
+
+à l'organisation de producteurs
+
+Organisation de producteurs de la Cotinière |
+
+Navires adhérant à l'organisation de producteurs
+
+Marins-Pêcheurs Normands (OPN) |
+
+Navires adhérant
+
+à l'organisation de producteurs
+
+Organisation de producteurs des pêcheurs artisans
+
+de l'île de Noirmoutier (OPPAN) |
+
+Navires adhérant à
+
+l'organisation de producteurs
+
+Les pêcheurs de Bretagne |
+
+Navires adhérant à
+
+l'organisation de producteurs
+
+VENDEE |
+
+Navires adhérant
+
+à l'organisation de producteurs
+
+ORTHONGEL |
 
 Total |
 
@@ -38,31 +84,31 @@ Baudroie |
 
 ANF/ *8ABDE |
 
-20 |
+22 |
 
-204 |
+224 |
 
-3 |
+4 |
 
-43 |
+47 |
 
-246 |
+270 |
 
-131 |
+144 |
 
-272 |
+299 |
 
-19 |
+21 |
 
-29 |
+32 |
 
-1 392 |
+1532 |
 
-209 |
+230 |
 
 0 |
 
-2 568 |
+2825 |
 
 Lophiidae |
 
@@ -78,7 +124,7 @@ COD/ *2A3X4 |
 
 0 |
 
-20 |
+23 |
 
 0 |
 
@@ -88,7 +134,7 @@ COD/ *2A3X4 |
 
 0 |
 
-3 |
+0 |
 
 1 |
 
@@ -102,7 +148,7 @@ Cardine Lepidorhombus spp. |
 
 LEZ/ *2AC4C |
 
-36 |
+40 |
 
 0 |
 
@@ -110,7 +156,7 @@ LEZ/ *2AC4C |
 
 0 |
 
-388 |
+432 |
 
 0 |
 
@@ -120,43 +166,43 @@ LEZ/ *2AC4C |
 
 0 |
 
-92 |
+102 |
 
 0 |
 
 0 |
 
-517 |
+575 |
 
 Cardine Lepidorhombus spp. |
 
 LEZ/ *8ABDE |
 
-12 |
+13 |
 
-143 |
-
-0 |
-
-28 |
-
-128 |
-
-200 |
-
-197 |
-
-46 |
-
-12 |
-
-1 616 |
-
-156 |
+157 |
 
 0 |
 
-2 538 |
+31 |
+
+140 |
+
+219 |
+
+216 |
+
+50 |
+
+13 |
+
+1 770 |
+
+171 |
+
+0 |
+
+2 780 |
 
 Chinchard |
 
@@ -298,7 +344,7 @@ POK/ *2AC4C |
 
 0 |
 
-668 |
+506 |
 
 0 |
 
@@ -308,13 +354,13 @@ POK/ *2AC4C |
 
 0 |
 
-132 |
+374 |
 
 0 |
 
 0 |
 
-802 |
+882 |
 
 Pollachius virens |
 
@@ -330,7 +376,7 @@ LIN/ *04-C. |
 
 0 |
 
-932 |
+482 |
 
 0 |
 
@@ -340,13 +386,13 @@ LIN/ *04-C. |
 
 0 |
 
-447 |
+897 |
 
 0 |
 
 0 |
 
-1 380 |
+1380 |
 
 Molva molva |
 
@@ -354,31 +400,31 @@ Merlu |
 
 HKE/ *57-14 |
 
-16 |
+18 |
 
-392 |
+623 |
 
 2 |
 
-0 |
+10 |
 
-1 227 |
+1357 |
 
-748 |
+628 |
 
-189 |
+206 |
 
-0 |
+3 |
 
-5 |
+6 |
 
-2 369 |
+2621 |
 
-93 |
+103 |
 
-0 |
+5577 |
 
-5 041 |
+5577 |
 
 Merluccius merluccius |
 
@@ -386,33 +432,35 @@ Merlu |
 
 HKE/ *8ABDE |
 
-43 |
+48 |
 
-284 |
+115 |
 
-16 |
+18 |
 
-38 |
-
-175 |
-
-159 |
+42 |
 
 194 |
 
-34 |
+376 |
 
-33 |
+215 |
 
-926 |
+38 |
 
-301 |
+36 |
+
+927 |
+
+334 |
 
 0 |
 
-2 203 |
+2343 |
 
-Merluccius merluccius |
+Merluccius
+
+merluccius |
 
 Raies |
 
@@ -450,21 +498,21 @@ Raies |
 
 SRX/ *07D. |
 
-12 |
-
-1 |
-
-17 |
+13 |
 
 0 |
 
-63 |
+18 |
+
+0 |
+
+66 |
 
 0 |
 
 0 |
 
-88 |
+90 |
 
 0 |
 
@@ -474,6 +522,6 @@ SRX/ *07D. |
 
 0 |
 
-231 |
+237 |
 
-Rajidae |
+|
