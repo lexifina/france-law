@@ -1,0 +1,9 @@
+# Article 14 bis
+
+Les obligations de l'employeur en matière de communication de la CCN et de ses avenants diffèrent selon les salariés :
+
+– concernant les salariés permanents : au moment de l'embauche, l'employeur remet au salarié (éventuellement par voie électronique) un exemplaire de la présente CCN à jour et éventuellement du règlement intérieur de l'entreprise/ établissement et/ ou des accords d'entreprise ;
+
+– concernant les salariés sous contrat à durée déterminée : au moment de l'embauche, l'employeur informe le salarié qu'il tient à sa disposition un exemplaire de la CCN à jour et éventuellement du règlement intérieur de l'entreprise/ établissement et/ ou des accords d'entreprise ;
+
+– pour les membres du CSE et les délégués syndicaux : l'employeur doit procurer un exemplaire de la CCN à jour.
