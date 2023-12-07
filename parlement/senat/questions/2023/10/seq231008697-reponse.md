@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231008697
+
+- Question : [SEQ231008697](seq231008697.md) — Reconnaissance de mariage et d'adoption à l'étranger
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2023-12-07, page 6779*
+
+La sous-direction de l'état civil et de la nationalité du ministère de l'Europe et des affaires étrangères rappelle qu'aux termes de l'article 171-5 du code civil, « pour être opposable aux tiers en France, l'acte de mariage d'un Français célébré par une autorité étrangère doit être transcrit sur les registres de l'état civil français. En l'absence de transcription, le mariage d'un Français, valablement célébré par une autorité étrangère, produit ses effets civils en France à l'égard des époux et des enfants ». Ce principe s'applique à toute union contractée hors de France à compter du 1er mars 2007 ; les unions antérieures, quant à elles, produisent des effets à l'égard des tiers, en France, même en l'absence de transcription. En cas de décès de l'un des conjoints, la transcription peut être sollicitée, et ce à tout moment et sans condition de délai, par le conjoint survivant, même si ce dernier ne possède pas la nationalité française. Si l'un des époux a adopté, à l'étranger, l'enfant de son conjoint, il lui appartient de faire vérifier l'opposabilité en France de la décision étrangère correspondante, en s'adressant au procureur de la République de Nantes. Sur instructions de ce dernier, la décision étrangère sera transcrite sur les registres du service central d'état civil en application de l'article 354 du code civil et cette transcription tiendra lieu d'acte de naissance. En revanche, en l'absence de cette formalité, ou si le procureur de la République estime que la décision étrangère n'est pas opposable en France, l'adoption ne produira pas d'effets dans notre pays, et ce, que le parent biologique soit vivant ou non.
