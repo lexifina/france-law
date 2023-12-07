@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231008751
+
+- Question : [SEQ231008751](seq231008751.md) — Déconjugalisation de l'allocation aux adultes handicapés pour tous les Français établis hors de France
+
+## Réponse
+
+*Commerce extérieur, attractivité et Français de l'étranger, JO du 2023-12-07, page 6763*
+
+Le ministère de l'Europe et des Affaires étrangères (MEAE) apporte son soutien aux Français établis à l'étranger en situation de handicap dans le cadre des conseils consulaires pour la protection et l'action sociale (CCPAS). Depuis 1979, des mesures particulières, non génératrices de droits, ont été prises pour étendre, par étapes successives, l'effort de solidarité nationale à nos compatriotes en situation de handicap et qui résident à l'étranger. Le MEAE finance sur ses propres crédits (programme 151) une allocation adulte handicapé (AAH). En 2022, 1 033 compatriotes ont ainsi bénéficié d'une AAH à l'étranger, sur la base d'une reconnaissance par une Maison départementale pour les personnes handicapées (MDPH) en France d'un taux d'incapacité supérieur ou égal à 80% et de revenus inférieurs au taux de base en vigueur dans le poste de résidence. Pour les demandeurs pacsés ou vivant maritalement, les revenus du ménage sont pris en compte de la même manière qu'en France. La « déconjugalisation », c'est-à-dire la non-prise en compte des revenus du conjoint dans le calcul de l'allocation, fait partie des mesures prévues dans le cadre de la loi du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat (article 10) qui s'applique en France depuis le 1er octobre 2023. Le ministère de l'Europe et des Affaires étrangères, dans le cadre des mesures d'aide pour les adultes handicapés qu'il met en place, a décidé d'appliquer ce principe aux bénéficiaires de l'AAH à compter du 1er janvier 2024. Les administrés vont être informés, comme les élus représentant les Français de l'étranger, dans le cadre de la campagne des aides sociales 2024.
