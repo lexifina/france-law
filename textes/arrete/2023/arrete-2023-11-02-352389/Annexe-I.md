@@ -8,19 +8,27 @@ Disciplines |
 
 Commentaire |
 
-Horaire hebdomadaire maximal indicatif |
+Horaire
 
-Cours ou TP
+hebdomadaire
 
-ou TD |
+maximal
 
-Lettres modernes - philosophie |
+indicatif |
+
+Cours ou TP ou TD
+
+Volume horaire
+
+annuel maximal |
+
+Lettres modernes-philosophie |
 
 Semestres 1 et 2 : tronc commun uniquement |
 
 6,00 |
 
-144,00 |
+216,00 |
 
 Langue vivante Anglais |
 
@@ -28,13 +36,13 @@ Semestres 1 et 2 : tronc commun uniquement |
 
 4,00 |
 
-216,00 |
+144,00 |
 
 Biologie-Écologie |
 
 Semestre 1 : Tronc commun
 
-Semestre 2 : Tronc commun et enseignements d'approfondissement filière vétérinaire (4,5 h) et filière agronomique (4,5h) |
+Semestre 2 : Répartition du volume horaire semestriel entre les enseignements de tronc commun et d'approfondissement (répartition équitable entre les filières vétérinaire et agronomique du volume horaire dévolu aux approfondissements) |
 
 9,00 |
 
@@ -44,7 +52,7 @@ Mathématiques-Informatique |
 
 Semestre 1 : Tronc commun
 
-Semestre 2 : Tronc commun et enseignements d'approfondissement filière vétérinaire (4,5 h) et filière agronomique (4,5h) |
+Semestre 2 : Répartition du volume horaire semestriel entre les enseignements de tronc commun et d'approfondissement (répartition équitable entre les filières vétérinaire et agronomique du volume horaire dévolu aux approfondissements) |
 
 9,00 |
 
@@ -54,13 +62,13 @@ Physique-Chimie |
 
 Semestre 1 : Tronc commun
 
-Semestre 2 : Tronc commun et enseignements d'approfondissement filière vétérinaire (4,5 h) et filière agronomique (4,5h) |
+Semestre 2 : Répartition du volume horaire semestriel entre les enseignements de tronc commun et d'approfondissement (répartition équitable entre les filières vétérinaire et agronomique du volume horaire dévolu aux approfondissements) |
 
 9,00 |
 
 324,00 |
 
-Projet interdisciplinaire de médiation scientifique (PIMS) |
+Projet Interdisciplinaire de Médiation Scientifique (PIMS) |
 
 Anglais : 1/3 de l'horaire
 
@@ -72,7 +80,7 @@ Biologie-Écologie, Mathématiques-Informatique et Physique-chimie : 1/3 de l'ho
 
 54,00 |
 
-Activité collaborative en sciences (ACeS) |
+Activité Collaborative en Sciences (ACeS) |
 
 Biologie-Écologie : 1/3 de l'horaire
 
@@ -90,6 +98,8 @@ Total maximal hors projets |
 
 |
 
-Total général maximal dans l'établissement |
+Total général maximal des enseignements obligatoires |
 
 40,00 |
+
+|
