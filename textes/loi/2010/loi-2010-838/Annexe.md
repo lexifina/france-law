@@ -288,7 +288,7 @@ Commission compétente en matière d'environnement
 
 |
 
-Présidence du haut conseil du commissariat aux comptes |
+Présidence de la Haute autorité de l'audit |
 
 Commission compétente en matière de finances publiques
 
