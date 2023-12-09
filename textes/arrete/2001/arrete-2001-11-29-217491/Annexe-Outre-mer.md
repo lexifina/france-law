@@ -72,117 +72,69 @@ C
 
 |
 
-Direction de l'environnement, de l'aménagement et du logement de Guyane
+SERVICES DE L'ÉTAT EN GUYANE
 
-FONCTIONS EXERCEES
+DGTM/ Direction de l'aménagement des territoires et de la transition écologique
 
-|
+Connaissance du territoire-DATTE
 
-NIVEAU
+Fonction exercée |
 
-de qualification de l'emploi
+Niveau de qualification
 
-|
+de l'emploi |
 
-NOMBRE
+Nombre d'emplois |
 
-d'emplois
+Nombre de points (IM)
 
-|
+par emploi |
 
-NOMBRE DE POINTS (IM)
+Chef de service de l'urbanisme, logement et aménagement-ULA |
 
-par emploi
+A |
 
-|
+1 |
 
-Chef du service aménagement, urbanisme, construction et logement
+50 |
 
-|
+Service politique de la ville
 
-A
+Fonction exercée |
 
-|
+Niveau de qualification
 
-1
+de l'emploi |
 
-|
+Nombre d'emplois |
 
-50 points
+Nombre de points (IM)
 
-|
+par emploi |
 
-Direction de la jeunesse, des sports et de la cohésion sociale de Guyane
+Chef de service politique de la ville |
 
-FONCTIONS EXERCEES
+A |
 
-|
+1 |
 
-NIVEAU
+50 |
 
-de qualification de l'emploi
+Adjoint au chef de service politique de la ville-Responsable du suivi des crédits-service politique de la ville |
 
-|
+B |
 
-NOMBRE
+1 |
 
-d'emplois
+30 |
 
-|
+Adjoint au responsable du suivi des crédits-service politique de la ville |
 
-NOMBRE DE POINTS (IM)
+C |
 
-par emploi
+1 |
 
-|
-
-Chef du service de l'observation de la cohésion et de l'égalité des biens
-
-|
-
-A
-
-|
-
-1
-
-|
-
-50 points
-
-|
-
-Responsable du suivi des crédits de la politique de la ville
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Adjoint au responsable du suivi des crédits de la politique de la ville
-
-|
-
-C
-
-|
-
-1
-
-|
-
-20 points
-
-|
+20 |
 
 Direction départementale de l'environnement, de l'aménagement et du logement de la Réunion
 
