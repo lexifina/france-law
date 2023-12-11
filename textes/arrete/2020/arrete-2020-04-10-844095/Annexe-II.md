@@ -30,13 +30,13 @@ Les tables de valeurs de l'objectif exprimé en valeur absolue comprennent :
 
 Il existe deux types d'indicateurs d'intensité d'usage :
 
--les indicateurs d'intensité d'usage temporels qui qualifient la durée annuelle d'utilisation des locaux par les usagers ;
+-les indicateurs d'intensité d'usage temporels qui qualifient la durée annuelle d'utilisation des locaux par les usagers ; en particulier, ces indicateurs ne tiennent pas compte de la durée de gardiennage des locaux ;
 
 -les indicateurs d'intensité surfacique qui qualifient les consommations énergétiques liés à l'occupation ou à la densité énergétique des process et des usages spécifiques rencontrés.
 
 Ces indicateurs permettent de moduler la valeur de la composante USE (modulation en fonction du volume d'activité) mais également, dans certain cas, de prendre en considération l'impact indirect sur la composante CVC du nombre d'heure ouvrées réelles par rapport à la densité temporelle étalon.
 
-Pour certaines catégories d'activités, il est fait appel à un indicateur d'intensité d'usage surfacique particulier sous la dénomination de “ Densité énergétique ”. Ce type d'indicateur a pour objectif de prendre en considération le nombre et la puissance installée d'un ou plusieurs process au sein d'une zone fonctionnelle et leur durée ou taux d'utilisation pour refléter au mieux le profil de consommations énergétiques des équipements utilisés.
+Pour certaines catégories d'activités, il est fait appel à un indicateur d'intensité d'usage surfacique particulier sous la dénomination de “ Densité énergétique ”. Ce type d'indicateur a pour objectif de prendre en considération le nombre et la puissance installée d'un ou plusieurs process au sein d'une zone fonctionnelle et leur durée ou taux d'utilisation pour refléter au mieux le profil de consommations énergétiques des équipements utilisés. Toute valeur de densité énergétique déclarée sur OPERAT est justifiée lors de contrôles éventuels au regard des équipements effectivement présents dans la zone fonctionnelle, ainsi que de leur consommation typique (information fournie par les constructeurs, adaptée le cas échéant selon le nombre d'heures d'utilisation effective annuelle de l'équipement). Pour les équipements ne présentant pas de donnée de consommation typique, la puissance nominale de ces équipements est retenue, ajustée par un coefficient de foisonnement ne pouvant être supérieur à 75 %, multipliée par leur durée d'utilisation annuelle réelle (nombre d'heures d'utilisation effective annuelle). La consommation ainsi obtenue est divisée par la surface de la sous-catégorie. La densité énergétique peut être établie à l'aide de tableurs Excel mis à disposition sur la plateforme OPERAT pour chaque sous-catégorie y faisant référence.
 
 Chacune des catégories d'activités tertiaires recensées dans le présent arrêté est déclinée dans le cadre d'une segmentation en sous-catégories qui permet d'affiner l'objectif de consommation d'énergie finale exprimée en valeur absolue et de refléter la configuration particulière des locaux assujetties.
 
@@ -128,7 +128,7 @@ Les catégories d'activités concernées sont les suivantes :
 
 -espace aqua ludique ;
 
-9 . Hébergement en auberge de jeunesse, centre sportif, colonies de vacances, gîte d'étape et refuge de montagne ;
+9 . Hébergement touristique de courte durée (auberge de jeunesse, centre-sportif, colonies de vacances, gîte d'étape et refuge de montagne) ;
 
 10 . Hôtellerie ;
 
@@ -150,9 +150,9 @@ Les catégories d'activités concernées sont les suivantes :
 
 16 . Parc d'expositions ;
 
-17 . Résidences de tourisme ;
+17 . Résidences de tourisme et villages ou clubs de vacances ;
 
-18 . Restauration ;
+18 . Restauration-Débit de boisson ;
 
 19 . Salles serveurs et centres d'exploitation informatiques ;
 
@@ -223,6 +223,12 @@ Les catégories d'activités concernées sont les suivantes :
 -vente, entretien et réparation de motocycles ;
 
 -vente, entretien et réparation d'engins nautiques et de plaisance.
+
+Des éléments d'appréciation du périmètre d'activité des catégories recensées dans la présente annexe sont présentés en préambule de celles-ci dans la partie “ Valeurs absolues 2030 ”. Une activité qui ne serait décrite dans le périmètre d'aucune catégorie ou sous-catégorie d'activité est à rapprocher de la catégorie ou sous-catégorie d'activité qui caractérise le mieux l'activité, ou à traiter conformément aux dispositions de l'article 15 du présent arrêté relatif aux modalités d'intégration de nouvelles activités tertiaires non recensées.
+
+Certaines catégories font intervenir un paramètre “ Part _ USE _ variable ” dans la modulation ; ce paramètre, non modifiable, permet de moduler la partie de la consommation USE qui est dépendante de l'intensité d'usage surfacique, sans moduler la partie de la consommation USE qui n'est dépendante que de l'intensité d'usage temporelle.
+
+Certaines catégories disposent d'une sous-catégorie nommée “ valeur par défaut ”. Cette sous-catégorie ne peut être sélectionnée que lorsque le total des surfaces relevant de la catégorie concernée représente plus de 80 % de la surface déclarée de l'entité fonctionnelle. La sélection de cette sous-catégorie ne permet pas de sélectionner d'autres sous-catégories : elle induit l'affectation de la totalité de la surface de l'entité fonctionnelle assujettie sur cette seule sous-catégorie.
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié à l'adresse suivante :
 

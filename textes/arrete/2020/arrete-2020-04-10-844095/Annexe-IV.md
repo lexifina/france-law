@@ -322,7 +322,7 @@ Identification des actions sur l'enveloppe qui conduisent au dépassement du TRI
 
 Identification éventuelle des actions portant sur le renouvellement des équipements énergétiques du bâtiment qui conduisent au dépassement du TRI (15 ans)
 
-Identification éventuelle des actions portant sur la mise en place de système d'optimisation et d'exploitation des systèmes et équipements (6 ans)
+Identification éventuelle des actions portant sur la mise en place de système d'optimisation et d'exploitation des systèmes et équipements (10 ans)
 
 Justifier de l'optimisation de la répartition du coût global des actions sur les 3 leviers susvisés.
 

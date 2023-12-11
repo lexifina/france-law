@@ -214,7 +214,7 @@ Sélection par menu déroulant (choix)
 
 -Gestionnaire technique (interne à la structure ou au groupe)-Energy manager ou Exploitant d'une entité fonctionnelle
 
--Syndic de copropriété ou Gestionnaires immobilier externe à la structure-Propriétaire d'un preneur à bail
+-Gestionnaire immobilier externe à la structure, ou propriétaire bailleur
 
 -Bureau d'études et conseils en performance énergétique, gestionnaire exploitant (externe à la structure ou au groupe de structure)
 
