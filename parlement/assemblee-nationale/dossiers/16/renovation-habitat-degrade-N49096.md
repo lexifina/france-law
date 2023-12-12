@@ -1,0 +1,55 @@
+# Accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement
+
+- Procédure : Projet de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N49096
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/renovation_habitat_degrade
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl23-278.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-12-12 : 1er dépôt d'une initiative. (PRJLANR5L16B1984)
+  - 2023-12-12 : Etude d'impact (ETDIANR5L16B1984)
+  - 2023-12-12 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-12-12 : Renvoi en commission au fond
+      - 2024-01-11 : Nomination de rapporteur
+      - 2023-12-20 : Réunion de commission
+      - 2024-01-16 : Réunion de commission
+      - 2024-01-16 : Réunion de commission
+      - 2024-01-22 : Réunion de commission
+      - 2024-01-17 : Dépôt de rapport (RAPPANR5L16B2066, PRJLANR5L16BTC2066)
+  - Discussion en séance publique
+    - 2024-01-22 : Discussion en séance publique
+    - 2024-01-22 : Discussion en séance publique
+    - 2024-01-23 : Discussion en séance publique
+    - 2024-01-23 : Discussion en séance publique
+    - 2024-01-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2024-01-24 : Dépôt d'une initiative en navette (PRJLSNR5S419B0278)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-01-24 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2024-02-14 : Dépôt de rapport (RAPPSNR5S419B0342, PRJLSNR5S419BTC0343)
+  - Discussion en séance publique
+    - 2024-02-28 : Discussion en séance publique
+    - 2024-02-28 : Décision
+- Commission Mixte Paritaire
+  - 2024-02-29 : Dépôt d'un projet de loi (PRJLANR5L16B2254)
+  - 2024-02-29 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2024-03-14 : Nomination de rapporteur
+    - 2024-03-14 : Dépôt du rapport d'une CMP (RAPPSNR5S419B0428, PRJLSNR5S419BTC0429)
+    - 2024-03-14 : Dépôt du rapport d'une CMP (RAPPANR5L16B2345, PRJLANR5L16BTC2345)
+  - Discussion en séance publique
+    - 2024-03-19 : Discussion en séance publique
+    - 2024-03-19 : Décision
+  - Discussion en séance publique
+    - 2024-03-27 : Discussion en séance publique
+    - 2024-03-27 : Décision
+  - 2024-03-14 : Décision de la CMP
+- Promulgation de la loi
+  - 2024-04-09 : Promulgation d'une loi
