@@ -1,0 +1,9 @@
+# Réponse à la question n° 7687
+
+- Question : [7687](7687.md) — Question n° 7687 — Caisse de prévoyance collective
+
+## Réponse
+
+*JO du 2023-12-12, page 11268*
+
+Bien qu'il n'existe pas d'obligation pour les employeurs de proposer un contrat collectif en matière de prévoyance à leurs salariés non-cadres, à l'instar de ce qui existe pour les cadres en application des stipulations de l'accord national interprofessionnel du 17 novembre 2017, la couverture de cette catégorie de salariés s'est tout de même largement diffusée par le biais d'accords de branches et d'entreprises. D'après une étude récente du centre technique des institutions de prévoyance, les 40 branches professionnelles avec les effectifs les plus importants prévoient le bénéfice d'une rente complémentaire en cas de passage du salarié en invalidité de 2ème ou 3ème catégorie. Cela correspond à plus de 14 millions de salariés couverts. Ainsi, loin de se traduire par une absence de couverture des salariés non-cadres, le modèle actuel laisse une large marge d'appréciation aux branches et permet à chaque secteur de construire une prise en charge des risques lourds adaptée à ses caractéristiques et selon sa propre sinistralité. Au-delà de ce constat, une généralisation d'une obligation conventionnelle à l'ensemble des catégories de salariés est à la main des organisations syndicales et professionnelles représentatives au niveau national interprofessionnel à l'instar de la généralisation de la couverture santé d'un accord national interprofessionnel en date de 2013. A cet égard, les partenaires sociaux ont décidé d'inscrire à leur agenda social de rentrée le thème de la prévoyance des non-cadres. Le Gouvernement suivra avec attention ces discussions et demeure à la disposition des partenaires sociaux pour travailler sur ce dossier.
