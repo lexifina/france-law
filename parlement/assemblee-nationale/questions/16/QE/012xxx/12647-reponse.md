@@ -1,0 +1,9 @@
+# Réponse à la question n° 12647
+
+- Question : [12647](12647.md) — Question n° 12647 — La lutte contre le frelon asiatique, la destruction des nids et leur financement
+
+## Réponse
+
+*JO du 2023-12-12, page 11167*
+
+Le frelon asiatique est une espèce ayant connu une expansion rapide dès son introduction accidentelle en Aquitaine en 2004. Un corpus législatif et réglementaire est au service des mesures de prévention et de lutte. Au regard de l'intérêt de préservation du patrimoine biologique, des milieux naturels et des usages associés, le code de l'environnement interdit, sur le territoire national, l'introduction, la détention, le transport, le colportage, l'utilisation, l'échange, la vente ou l'achat de tout spécimen vivant d'espèce exotique envahissante. Le frelon asiatique est inscrit sur cette liste. Les opérations de lutte contre ces espèces démarrent dès le constat de leur présence dans le milieu. Le préfet de département peut procéder ou faire procéder à la capture, au prélèvement, à la garde ou à la destruction de spécimens de ces espèces. Un arrêté préfectoral précise alors les conditions de réalisation de ces opérations. Les préfets peuvent notamment ordonner la destruction de nids sur des propriétés privées. Le financement des opérations de lutte contre le frelon n'est pas pris en charge par l'État. La destruction des nids est à la charge des particuliers. Ses coûts peuvent être, le cas échéant, pris en charge en tout ou partie par des financements émanant de collectivités territoriales. Sur ce dernier point, a été lancé début 2023 le Fonds d'accélération de la transition écologique dans les territoires dit fonds vert. Ce dispositif comporte une mesure au titre de laquelle peuvent être financées des opérations de destruction de populations d'espèces exotiques envahissantes, à hauteur de 80 % du montant total de l'opération.
