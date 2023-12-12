@@ -1,0 +1,9 @@
+# Réponse à la question n° 3240
+
+- Question : [3240](3240.md) — Question n° 3240 — Attribution de la carte d'ancien combattant à titre posthume
+
+## Réponse
+
+*JO du 2023-12-12, page 11172*
+
+L'article 8 de la loi de finances pour 2023 a modifié l'article 195 du Code général des impôts en ce qui concerne le bénéfice de la demi-part fiscale supplémentaire attribuée aux conjoints survivants de titulaires de la carte du combattant. Depuis le 1er janvier 2023, ils peuvent prétendre à cet avantage, à compter de leur 74 ans, si le défunt ou la défunte était titulaire de la carte du combattant et ce, quel que soit l'âge de son décès. Concernant la possibilité de délivrer la carte du combattant à titre posthume, il convient tout d'abord de préciser que cette éventualité ne saurait avoir comme seule finalité le bénéfice de la demi-part fiscale. En effet, cet avantage ne concernerait que les personnes assujetties à l'impôt sur le revenu. Or, un nombre important de conjoints non imposables pourraient tirer bénéfice d'une attribution à titre posthume pour devenir ressortissant de l'Office national des combattants et des victimes de guerre (ONaCVG) et prétendre ainsi à son action sociale. En outre, la réglementation actuelle et notamment les dispositions de l'article R. 311-22 du Code des pensions militaires d'invalidité et des victimes de guerre (CPMIVG) précisent que la carte du combattant est délivrée sur demande des intéressés. Par conséquent, la délivrance à titre posthume est juridiquement impossible. Enfin, une éventuelle attribution de la carte du combattant à titre posthume nécessiterait immanquablement une règle pour déterminer l'éligibilité des défunts à ce titre. Sur ce plan, seule une étude des droits à la date du décès pourrait être envisagée. En effet, toute autre décision pourrait conduire à accorder des avantages aux veuves et veufs des personnes décédées ayant vu, de leur vivant, leurs demandes de carte du combattant rejetées.
