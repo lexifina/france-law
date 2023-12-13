@@ -1,0 +1,12 @@
+# REGION BRETAGNE : arrêté 23_DAJCP_SJCP05 — Rendu compte de la délégation du président pour ester en justice
+
+- Collectivité : REGION BRETAGNE
+- SIREN : 233500016
+- Date : 2023-12-13
+- Nature : Délibération du Conseil régional ou de la Commission permanente
+- Séance : Conseil régional
+- Matière : 9.3 Autres domaines de competences/Autres domaines de competences des regions
+- Objet : Rendu compte de la délégation du président pour ester en justice
+- Publié / affiché : 2023-12-18
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/233500016/Deliberation/2023/537834/20ce4e02f6ed55892ec19f00859566dd733b96d109791baae245ffa3ce147470.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/63eec4302cbfceb8d41a2e1b
