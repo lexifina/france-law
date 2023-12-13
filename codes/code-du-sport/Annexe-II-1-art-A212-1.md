@@ -18,7 +18,7 @@ MULTI ACTIVITÉS PHYSIQUES OU SPORTIVES (*) hors activités s'exerçant en envir
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-DEUG " STAPS ", délivré jusqu'au 1er janvier 2024. |
+DEUG " STAPS ", délivré jusqu'au 31 août 2026. |
 
 5 |
 
@@ -26,7 +26,7 @@ Encadrement et animation des activités physiques ou sportives à un niveau d'in
 
 A l'exclusion des pratiques compétitives. |
 
-DEUST " animation et gestion des activités physiques, sportives ou culturelles ", délivré jusqu'au 1er janvier 2024. |
+DEUST " animation et gestion des activités physiques, sportives ou culturelles ", délivré jusqu'au 31 août 2026. |
 
 5 |
 
@@ -40,7 +40,7 @@ A l'exclusion :
 
 |
 
-DEUST " action, commercialisation des services sportifs ", délivré jusqu'au 1er janvier 2024. |
+DEUST " action, commercialisation des services sportifs ", délivré jusqu'au 31 août 2026. |
 
 5 |
 
@@ -48,7 +48,7 @@ Encadrement des pratiques physiques liées aux loisirs. |
 
 A l'exclusion des personnes ayant un handicap, une déficience intellectuelle ou un trouble psychique. |
 
-DEUST " manager de club sportif ", délivré jusqu'au 1er janvier 2024. |
+DEUST " manager de club sportif ", délivré jusqu'au 31 août 2026. |
 
 5 |
 
@@ -58,7 +58,7 @@ A l'exclusion des personnes ayant un handicap, une déficience intellectuelle ou
 
 Licence mention
 
-" STAPS : éducation et motricité ", délivrée jusqu'au 1er janvier 2024.
+" STAPS : éducation et motricité ", délivrée jusqu'au 31 août 2026.
 
 |
 
@@ -68,7 +68,7 @@ Encadrement, enseignement et animation des activités physiques ou sportives à 
 
 A l'exclusion des pratiques compétitives. |
 
-Licence mention " STAPS : activité physique adaptée et santé ", délivrée jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : activité physique adaptée et santé ", délivrée jusqu'au 31 août 2026. |
 
 6 |
 
@@ -76,7 +76,7 @@ Encadrement et animation des activités physiques ou sportives à un niveau d'in
 
 A l'exclusion des pratiques compétitives. |
 
-Licence mention " STAPS : entraînement sportif ", délivrée jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif ", délivrée jusqu'au 31 août 2026. |
 
 6 |
 
@@ -84,7 +84,7 @@ Encadrement et animation des activités physiques ou sportives à un niveau d'in
 
 A l'exclusion des pratiques compétitives. |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives ", délivrée jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives ", délivrée jusqu'au 31 août 2026. |
 
 6 |
 
@@ -92,7 +92,7 @@ Encadrement et animation des activités physiques ou sportives à un niveau d'in
 
 A l'exclusion des pratiques compétitives. |
 
-Licence professionnelle mention " intervention sociale : développement social et médiation par le sport ", délivrée jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " intervention sociale : développement social et médiation par le sport ", délivrée jusqu'au 31 août 2026. |
 
 6 |
 
@@ -226,7 +226,7 @@ ACTIVITÉS DE FITNESS DANS L'EAU y compris toutes les qualifications mentionnée
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : éducation et motricité "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024 |
+Licence mention " STAPS : éducation et motricité "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -238,7 +238,7 @@ Surveillance et sauvetage en milieu aquatique.
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur encours de validité. |
 
-Licence mention " STAPS : activité physique adaptée et santé "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024 |
+Licence mention " STAPS : activité physique adaptée et santé "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -250,7 +250,7 @@ Surveillance et sauvetage en milieu aquatique.
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur encours de validité. |
 
-DEUST " animation et gestion des activités physiques, sportives ou culturelles "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+DEUST " animation et gestion des activités physiques, sportives ou culturelles "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 5 |
 
@@ -270,7 +270,7 @@ Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exer
 
 |
 
-Licence mention " STAPS : entraînement sportif "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -282,7 +282,7 @@ Surveillance et sauvetage en milieu aquatique.
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -360,7 +360,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-DEUST " métiers de la forme ", délivré jusqu'au 1er janvier 2024. |
+DEUST " métiers de la forme ", délivré jusqu'au 31 août 2026. |
 
 5 |
 
@@ -368,7 +368,7 @@ Encadrement d'activités physiques dans le secteur des métiers de la forme, li�
 
 |
 
-Licence professionnelle " activités sportives " option " remise en forme et loisirs sportifs associés : responsable d'équipe de projets ", délivrée jusqu'au 1er janvier 2024. |
+Licence professionnelle " activités sportives " option " remise en forme et loisirs sportifs associés : responsable d'équipe de projets ", délivrée jusqu'au 31 août 2026. |
 
 6 |
 
@@ -376,7 +376,7 @@ Encadrement d'activités physiques dans le secteur des métiers de la forme, li�
 
 |
 
-Licence professionnelle mention " métiers de la forme ", délivrée jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " métiers de la forme ", délivrée jusqu'au 31 août 2026. |
 
 6 |
 
@@ -384,7 +384,7 @@ Encadrement d'activités physiques dans le secteur des métiers de la forme. |
 
 |
 
-Licence mention " STAPS : entraînement sportif "-fitness, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-fitness, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -392,7 +392,7 @@ Encadrement du fitness à des fins d'amélioration de la performance ou de déve
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-fitness discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-fitness discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -498,7 +498,7 @@ ALPINISME-ENVIRONNEMENT SPÉCIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-Diplôme d'Etat d'alpinisme-guide de haute montagne, délivré jusqu'au 1er janvier 2024. |
+Diplôme d'Etat d'alpinisme-guide de haute montagne, délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -518,7 +518,7 @@ SKI-ENVIRONNEMENT SPÉCIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-Diplôme d'Etat de ski-moniteur national de ski alpin, délivré jusqu'au 1er janvier 2024. |
+Diplôme d'Etat de ski-moniteur national de ski alpin, délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -530,7 +530,7 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une 
 
 |
 
-Diplôme d'Etat de ski-moniteur national de ski nordique de fond, délivré jusqu'au 1er janvier 2024. |
+Diplôme d'Etat de ski-moniteur national de ski nordique de fond, délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -542,7 +542,7 @@ ACTIVITÉS DE RANDONNÉE EN MOYENNE MONTAGNE |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " milieu montagnard enneigé ", délivré jusqu'au 1er janvier 2024. |
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " milieu montagnard enneigé ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -558,7 +558,7 @@ A l'exclusion :
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
-Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " milieu montagnard tropical et équatorial ", délivré jusqu'au 1er janvier 2024. |
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " milieu montagnard tropical et équatorial ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -576,7 +576,7 @@ ACTIVITÉS PHYSIQUES OU SPORTIVES ADAPTÉES |
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-DEUST " activités physiques et sportives adaptées : déficiences intellectuelles, troubles psychiques ", délivré jusqu'au 1er janvier 2024. |
+DEUST " activités physiques et sportives adaptées : déficiences intellectuelles, troubles psychiques ", délivré jusqu'au 31 août 2026. |
 
 5 |
 
@@ -584,7 +584,7 @@ Encadrement des activités physiques ou sportives auprès de personnes souffrant
 
 |
 
-DEUST " activités physiques et sportives et inadaptations sociales ", délivré jusqu'au 1er janvier 2024. |
+DEUST " activités physiques et sportives et inadaptations sociales ", délivré jusqu'au 31 août 2026. |
 
 5 |
 
@@ -596,7 +596,7 @@ Toute activité physique ou sportive visant l'amélioration de l'intégration so
 
 |
 
-DEUST " pratique et gestion des activités physiques et sportives et de loisirs pour les publics seniors ", délivré jusqu'au 1er janvier 2024. |
+DEUST " pratique et gestion des activités physiques et sportives et de loisirs pour les publics seniors ", délivré jusqu'au 31 août 2026. |
 
 5 |
 
@@ -604,7 +604,7 @@ Encadrement des activités physiques ou sportives de publics seniors. Toute acti
 
 |
 
-Licence professionnelle mention " santé, vieillissement et activités physiques adaptées ", délivrée jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " santé, vieillissement et activités physiques adaptées ", délivrée jusqu'au 31 août 2026. |
 
 6 |
 
@@ -612,7 +612,7 @@ Encadrement de toute activité physique ou sportive adaptée à la prévention d
 
 |
 
-Licence mention " STAPS : activité physique adaptée et santé ", délivrée jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : activité physique adaptée et santé ", délivrée jusqu'au 31 août 2026. |
 
 6 |
 
@@ -706,7 +706,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-athlétisme (course-saut-lancer), discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-athlétisme (course-saut-lancer), discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -714,7 +714,7 @@ Encadrement de l'athlétisme (course-saut-lancer) à des fins d'amélioration de
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-athlétisme (course-saut-lancer), discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-athlétisme (course-saut-lancer), discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -724,7 +724,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " athlétisme et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " athlétisme et disciplines associées ", délivré jusqu'au 31 août 2026. |
 
 5 |
 
@@ -732,7 +732,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " athlétisme : demi-fond, marche, hors stade ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " athlétisme : demi-fond, marche, hors stade ", délivré jusqu'au 31 août 2026. |
 
 6 |
 
@@ -740,7 +740,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " athlétisme : épreuves combinées ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " athlétisme : épreuves combinées ", délivré jusqu'au 31 août 2026. |
 
 6 |
 
@@ -748,7 +748,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " athlétisme : lancers ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " athlétisme : lancers ", délivré jusqu'au 31 août 2026. |
 
 6 |
 
@@ -756,7 +756,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " athlétisme : sauts ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " athlétisme : sauts ", délivré jusqu'au 31 août 2026. |
 
 6 |
 
@@ -764,7 +764,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " athlétisme : sprint, haies, relais ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " athlétisme : sprint, haies, relais ", délivré jusqu'au 31 août 2026. |
 
 6 |
 
@@ -810,7 +810,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplôme délivré par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " attelages canins ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " attelages canins ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -826,7 +826,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-aviron, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-aviron, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -834,7 +834,7 @@ Encadrement de l'aviron à des fins d'amélioration de la performance ou de dév
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-aviron, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-aviron, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -876,7 +876,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-badminton, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-badminton, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -884,7 +884,7 @@ Encadrement du badminton à des fins d'amélioration de la performance ou de dé
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives " dans la discipline badminton discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives " dans la discipline badminton discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -932,7 +932,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-base-ball, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-base-ball, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -940,7 +940,7 @@ Encadrement du base-ball à des fins d'amélioration de la performance ou de dé
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-base-ball discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-base-ball discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -950,7 +950,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " baseball, softball et cricket ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " baseball, softball et cricket ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -966,7 +966,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-basket-ball, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-basket-ball, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -974,7 +974,7 @@ Encadrement du basket-ball à des fins d'amélioration de la performance ou de d
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-basket-ball, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-basket-ball, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1028,7 +1028,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-boxe anglaise, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-boxe anglaise, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1036,7 +1036,7 @@ Encadrement de la boxe anglaise à des fins d'amélioration de la performance ou
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-boxe anglaise, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-boxe anglaise, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1078,7 +1078,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-canoë-kayak, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-canoë-kayak, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1086,7 +1086,7 @@ Encadrement du canoë-kayak à des fins d'amélioration de la performance ou de 
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-canoë-kayak, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-canoë-kayak, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1096,7 +1096,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive jusqu'à la classe III, en eau calme et en mer jusqu'à 4 Beaufort ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive jusqu'à la classe III, en eau calme et en mer jusqu'à 4 Beaufort ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -1104,7 +1104,7 @@ Encadrement, animation et conduite de cycles d'apprentissage en eau vive jusqu'�
 
 |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en mer ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en mer ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -1112,7 +1112,7 @@ Encadrement, animation et conduite de cycles d'apprentissage en eau calme et en 
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau calme ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau calme ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -1120,7 +1120,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " canoë-kayak et disciplines associées en eau calme ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " canoë-kayak et disciplines associées en eau calme ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1192,7 +1192,7 @@ CANOË-KAYAK-ENVIRONNEMENT SPÉCIFIQUE (rivière de classe supérieure à trois 
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -1200,7 +1200,7 @@ Encadrement, animation et conduite de cycles d'apprentissage en eau calme et en 
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -1212,7 +1212,7 @@ CANYONISME-ENVIRONNEMENT SPÉCIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -1220,7 +1220,7 @@ Encadrement du canyonisme, jusqu'à la cotation V1, A 5 et E II incluse. |
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif ", mention " canyonisme ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif ", mention " canyonisme ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1236,7 +1236,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif " mention " glisse aérotractée et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif " mention " glisse aérotractée et disciplines associées ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -1286,7 +1286,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-course d'orientation, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-course d'orientation, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1294,7 +1294,7 @@ Encadrement de la course d'orientation à des fins d'amélioration de la perform
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-course d'orientation, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-course d'orientation, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1312,7 +1312,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-BMX, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-BMX, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1320,7 +1320,7 @@ Encadrement du BMX à des fins d'amélioration de la performance ou de développ
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-BMX, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-BMX, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1328,7 +1328,7 @@ Enseignement du BMX. |
 
 A l'exclusion des pratiques compétitives. |
 
-Licence mention " STAPS : entraînement sportif "-cyclisme sur piste, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-cyclisme sur piste, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1336,7 +1336,7 @@ Encadrement du cyclisme sur piste à des fins d'amélioration de la performance 
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-cyclisme sur piste, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-cyclisme sur piste, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1344,7 +1344,7 @@ Enseignement du cyclisme sur piste. |
 
 A l'exclusion des pratiques compétitives. |
 
-Licence mention " STAPS : entraînement sportif "-cyclisme sur route, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-cyclisme sur route, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1352,7 +1352,7 @@ Encadrement du cyclisme sur route à des fins d'amélioration de la performance 
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-cyclisme sur route, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-cyclisme sur route, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1360,7 +1360,7 @@ Enseignement du cyclisme sur route. |
 
 A l'exclusion des pratiques compétitives. |
 
-Licence mention " STAPS : entraînement sportif "-VTT, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-VTT, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1368,7 +1368,7 @@ Encadrement du VTT à des fins d'amélioration de la performance ou de développ
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-VTT, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-VTT, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1378,7 +1378,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités du cyclisme ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités du cyclisme ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -1404,7 +1404,7 @@ Conduite de cycles d'apprentissage en VTT. |
 
 A l'exclusion du VTT de descente. |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " BMX ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " BMX ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -1412,7 +1412,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " cyclisme traditionnel ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " cyclisme traditionnel ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -1420,7 +1420,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " VTT ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " VTT ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -1428,7 +1428,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " cyclisme ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " cyclisme ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1454,7 +1454,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités équestres ", option : " initiation poney, cheval ", " approfondissement technique " ou " équitation extérieur ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités équestres ", option : " initiation poney, cheval ", " approfondissement technique " ou " équitation extérieur ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -1462,7 +1462,7 @@ Animation et enseignement des activités équestres. |
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif ", mention " sports équestres ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif ", mention " sports équestres ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -1470,7 +1470,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif ", mention " polo ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif ", mention " polo ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -1478,7 +1478,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " équitation ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " équitation ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1486,7 +1486,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " sports équestres ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " sports équestres ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1552,7 +1552,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-escalade, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-escalade, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1560,7 +1560,7 @@ Encadrement de l'escalade à des fins d'amélioration de la performance ou de d�
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-escalade, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-escalade, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1596,7 +1596,7 @@ Conduite de cycle de découverte, d'animation, d'initiation et d'apprentissage e
 
 A l'exclusion de la via ferrata. |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " escalade ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " escalade ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -1610,7 +1610,7 @@ A l'exclusion :
 
 -de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure |
 
-DES JEPS, spécialité " performance sportive " mention " escalade ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " escalade ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1638,7 +1638,7 @@ ESCALADE-ENVIRONNEMENT SPECIFIQUE (pratiquée sur les sites sportifs au-delà du
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " escalade en milieux naturels ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " escalade en milieux naturels ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -1648,7 +1648,7 @@ A l'exclusion des sites naturels situés à une altitude égale ou supérieure �
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
-Diplôme d'Etat d'alpinisme-guide de haute montagne, délivré jusqu'au 1er janvier 2024. |
+Diplôme d'Etat d'alpinisme-guide de haute montagne, délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1664,7 +1664,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-escrime, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-escrime, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1672,7 +1672,7 @@ Encadrement de l'escrime à des fins d'amélioration de la performance ou de dé
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-escrime, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-escrime, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1682,7 +1682,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " escrime ", option " fleuret/ épée ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " escrime ", option " fleuret/ épée ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -1690,7 +1690,7 @@ Encadrement, initiation et conduite de cycles d'apprentissage dans les deux arme
 
 |
 
-BP JEPS, spécialité " éducateur sportif ", mention " escrime ", option " fleuret/ sabre ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " escrime ", option " fleuret/ sabre ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -1698,7 +1698,7 @@ Encadrement, initiation et conduite de cycles d'apprentissage dans les deux arme
 
 |
 
-BP JEPS, spécialité " éducateur sportif ", mention " escrime ", option " sabre/ épée ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " escrime ", option " sabre/ épée ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -1706,7 +1706,7 @@ Encadrement, initiation et conduite de cycles d'apprentissage dans les deux arme
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " escrime ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " escrime ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -1714,7 +1714,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " escrime ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " escrime ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1732,7 +1732,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-football, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-football, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1740,7 +1740,7 @@ Encadrement du football à des fins d'amélioration de la performance ou de dév
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-football, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-football, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1792,7 +1792,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " performance sportive ", mention " football américain ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " performance sportive ", mention " football américain ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -1800,7 +1800,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive ", mention " football américain ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive ", mention " football américain ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1812,7 +1812,7 @@ GLISSE AÉROTRACTÉE-ENVIRONNEMENT SPECIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif " mention " glisse aérotractée et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif " mention " glisse aérotractée et disciplines associées ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -1824,7 +1824,7 @@ Encadrement et animation des activités de découverte des engins tractés (bou�
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " glisses aérotractées nautiques ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " glisses aérotractées nautiques ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -1890,7 +1890,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-dans l'une des options de la gymnastique : gymnastique masculine, gymnastique féminine, gymnastique rythmique, trampoline, tumbling, aérobic, mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-dans l'une des options de la gymnastique : gymnastique masculine, gymnastique féminine, gymnastique rythmique, trampoline, tumbling, aérobic, mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -1900,7 +1900,7 @@ Encadrement de l'option concernée : gymnastique masculine, gymnastique féminin
 
 Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-dans l'une des options de la gymnastique : gymnastique masculine, gymnastique féminine, gymnastique rythmique, trampoline, tumbling, ou aérobic,
 
-mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024.
+mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026.
 
 |
 
@@ -1960,7 +1960,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " gymnastique acrobatique ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " gymnastique acrobatique ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1968,7 +1968,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " gymnastique artistique féminine ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " gymnastique artistique féminine ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1976,7 +1976,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " gymnastique aérobic ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " gymnastique aérobic ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1984,7 +1984,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " gymnastique artistique masculine ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " gymnastique artistique masculine ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -1992,7 +1992,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " gymnastique rythmique ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " gymnastique rythmique ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2000,7 +2000,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " trampoline ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " trampoline ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2008,7 +2008,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " tumbling ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " tumbling ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2050,7 +2050,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-haltérophilie, musculation et force athlétique, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-haltérophilie, musculation et force athlétique, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2058,7 +2058,7 @@ Encadrement de l'haltérophilie, musculation et de la force athlétique à des f
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-haltérophilie, musculation et force athlétique, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-haltérophilie, musculation et force athlétique, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2118,7 +2118,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-handball, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-handball, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2126,7 +2126,7 @@ Encadrement du handball à des fins d'amélioration de la performance ou de dév
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-handball, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-handball, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2136,7 +2136,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " handball ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " handball ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2144,7 +2144,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive ", mention " handball ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive ", mention " handball ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2216,7 +2216,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif " mention " hockey ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif " mention " hockey ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -2232,7 +2232,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " hockey ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " hockey ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2302,7 +2302,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-judo, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-judo, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2310,7 +2310,7 @@ Encadrement du judo à des fins d'amélioration de la performance ou de dévelop
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-judo, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-judo, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2364,7 +2364,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-karaté, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-karaté, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2372,7 +2372,7 @@ Encadrement du karaté à des fins d'amélioration de la performance ou de déve
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-karaté, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-karaté, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2382,7 +2382,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " karaté, wushu et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " karaté, wushu et disciplines associées ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -2394,7 +2394,7 @@ Conduite de cycles d'apprentissage en karaté, wushu et disciplines associées.
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " karaté et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " karaté et disciplines associées ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2402,7 +2402,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive ", mention " karaté et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive ", mention " karaté et disciplines associées ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2756,7 +2756,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-lutte, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-lutte, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2764,7 +2764,7 @@ Encadrement de la lutte à des fins d'amélioration de la performance ou de dév
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-lutte, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-lutte, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2782,7 +2782,7 @@ Encadrement, initiation et conduite de de cycles d'apprentissage en lutte et dis
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " lutte et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " lutte et disciplines associées ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2790,7 +2790,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " lutte et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " lutte et disciplines associées ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2814,7 +2814,7 @@ DE JEPS, spécialité "perfectionnement sportif" mention "motocyclisme", jusqu'a
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
 
-DES JEPS, spécialité " performance sportive " mention " motocyclisme ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " motocyclisme ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2842,7 +2842,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif " mention " motonautisme et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif " mention " motonautisme et disciplines associées ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -2854,7 +2854,7 @@ NATATION |
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-DEUST " animation et gestion des activités physiques, sportives ou culturelles "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+DEUST " animation et gestion des activités physiques, sportives ou culturelles "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 5 |
 
@@ -2866,7 +2866,7 @@ Surveillance et sauvetage en milieu aquatique.
 
 Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2878,7 +2878,7 @@ Surveillance et sauvetage en milieu aquatique.
 
 Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
-Licence mention " STAPS : entrainement sportif "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entrainement sportif "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2890,7 +2890,7 @@ Surveillance et sauvetage en milieu aquatique.
 
 Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
-Licence mention " STAPS : éducation et motricité "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : éducation et motricité "-activités aquatiques et surveillance, spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2902,7 +2902,7 @@ Surveillance et sauvetage en milieu aquatique.
 
 Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
-Licence mention " STAPS : activité physique adaptée et santé "-activités aquatiques et surveillance ", spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : activité physique adaptée et santé "-activités aquatiques et surveillance ", spécialité attestée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2914,7 +2914,7 @@ Surveillance et sauvetage en milieu aquatique.
 
 Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
-Licence mention " STAPS : entraînement sportif "-natation, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-natation, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2922,7 +2922,7 @@ Encadrement de la natation à des fins d'amélioration de la performance ou de d
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-natation, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-natation, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -2960,7 +2960,7 @@ Surveillance et sauvetage en milieu aquatique. |
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " natation course ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " natation course ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2968,7 +2968,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " natation synchronisée ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " natation synchronisée ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2976,7 +2976,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " plongeon ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " plongeon ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2984,7 +2984,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " water-polo ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " water-polo ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2992,7 +2992,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
-DES JEPS, spécialité " performance sportive " mention " natation course ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " natation course ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -3000,7 +3000,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
-DES JEPS, spécialité " performance sportive " mention " natation synchronisée ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " natation synchronisée ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -3008,7 +3008,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
-DES JEPS, spécialité " performance sportive " mention " plongeon ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " plongeon ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -3016,7 +3016,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
-DES JEPS, spécialité " performance sportive " mention " water-polo ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " water-polo ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -3154,7 +3154,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-pelote basque, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-pelote basque, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -3162,7 +3162,7 @@ Encadrement de la pelote basque à des fins d'amélioration de la performance ou
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-pelote basque, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-pelote basque, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -3172,7 +3172,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " pelote basque ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " pelote basque ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3188,7 +3188,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DES JEPS, spécialité " performance sportive ", mention " pentathlon moderne ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive ", mention " pentathlon moderne ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -3204,7 +3204,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " pétanque ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " pétanque ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3220,7 +3220,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplôme délivré par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif ", mention " vol ultra léger motorisé ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif ", mention " vol ultra léger motorisé ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3258,7 +3258,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Dans la limite de 40 mètres pour l'encadrement de l'enseignement et de l'exploration. Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
-DES JEPS, spécialité " performance sportive " mention " plongée subaquatique ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " plongée subaquatique ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -3282,7 +3282,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " roller-skating ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " roller-skating ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3290,7 +3290,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " roller-skating ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " roller-skating ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -3344,7 +3344,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-rugby, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-rugby, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -3352,7 +3352,7 @@ Encadrement du rugby à des fins d'amélioration de la performance ou de dévelo
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-rugby, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-rugby, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -3394,7 +3394,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-boxe française, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-boxe française, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -3402,7 +3402,7 @@ Encadrement de la boxe française à des fins d'amélioration de la performance 
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-boxe française, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-boxe française, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -3412,7 +3412,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités de la savate ", option " boxe française ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités de la savate ", option " boxe française ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -3420,7 +3420,7 @@ Encadrement des activités de découverte et d'initiation des activités de la s
 
 |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités de la savate ", option " canne de combat et bâton ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités de la savate ", option " canne de combat et bâton ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -3428,7 +3428,7 @@ Encadrement des activités de découverte et d'initiation des activités de la s
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " savate boxe française ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " savate boxe française ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3436,7 +3436,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive ", mention " savate boxe française ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive ", mention " savate boxe française ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -3452,7 +3452,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " skateboard ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " skateboard ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3460,7 +3460,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " skateboard ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " skateboard ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -3632,7 +3632,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " sports boules ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " sports boules ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3714,7 +3714,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-patinage artistique, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-patinage artistique, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -3722,7 +3722,7 @@ Encadrement du patinage artistique à des fins d'amélioration de la performance
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives " patinage artistique, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives " patinage artistique, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -3808,7 +3808,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " squash ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " squash ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3824,7 +3824,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive jusqu'à la classe III, en eau calme et en mer jusqu'à 4 beaufort ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive jusqu'à la classe III, en eau calme et en mer jusqu'à 4 beaufort ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -3834,7 +3834,7 @@ A l'exclusion des activités dérivées du surf de mer. |
 
 BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en
 
-mer ", délivré jusqu'au 1er janvier 2024.
+mer ", délivré jusqu'au 1er janvier 2025.
 
 |
 
@@ -3844,7 +3844,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -3852,7 +3852,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
-BP JEPS, spécialité " éducateur sportif " mention " voile multi-supports jusqu'à 6 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif " mention " voile multi-supports jusqu'à 6 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -3860,7 +3860,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
-BP JEPS, spécialité " éducateur sportif " mention " voile croisière jusqu'à 200 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif " mention " voile croisière jusqu'à 200 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -3876,7 +3876,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 |
 
-BP JEPS, spécialité " éducateur sportif ", mention " glisses aérotractées et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " glisses aérotractées et disciplines associées ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -3892,7 +3892,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 |
 
-DE JEPS, " perfectionnement sportif " mention " voile ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, " perfectionnement sportif " mention " voile ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3900,7 +3900,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
-DE JEPS, " perfectionnement sportif " mention " voile au-delà de 200 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, " perfectionnement sportif " mention " voile au-delà de 200 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3908,7 +3908,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
-DE JEPS, " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau calme ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau calme ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3916,7 +3916,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
-DE JEPS, " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3924,7 +3924,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
-DE JEPS, " perfectionnement sportif " mention " glisses aéotractées nautiques ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, " perfectionnement sportif " mention " glisses aéotractées nautiques ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -3932,7 +3932,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
-DES JEPS, spécialité " performance sportive " mention " voile ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " voile ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -3940,7 +3940,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
-DES JEPS, spécialité " performance sportive " mention " canoë-kayak et disciplines associées en eau calme ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " canoë-kayak et disciplines associées en eau calme ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -3986,7 +3986,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-taekwondo, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-taekwondo, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -3994,7 +3994,7 @@ Encadrement du taekwondo à des fins d'amélioration de la performance ou de dé
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-taekwondo, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-taekwondo, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -4038,7 +4038,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-tennis, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-tennis, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -4046,7 +4046,7 @@ Encadrement du tennis à des fins d'amélioration de la performance ou de dével
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-tennis, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-tennis, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -4100,7 +4100,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-tennis de table, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-tennis de table, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -4108,7 +4108,7 @@ Encadrement du tennis de table à des fins d'amélioration de la performance ou 
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-tennis de table, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-tennis de table, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -4150,7 +4150,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-tir à l'arc, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-tir à l'arc, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -4158,7 +4158,7 @@ Encadrement du tir à l'arc à des fins d'amélioration de la performance ou de 
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-tir à l'arc, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-tir à l'arc, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -4168,7 +4168,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DEJEPS, spécialité " perfectionnement sportif ", mention " tir à l'arc ", délivré jusqu'au 1er janvier 2024. |
+DEJEPS, spécialité " perfectionnement sportif ", mention " tir à l'arc ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -4202,7 +4202,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive ", mention " tir sportif ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive ", mention " tir sportif ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -4232,7 +4232,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-triathlon, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-triathlon, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -4240,7 +4240,7 @@ Encadrement du triathlon à des fins d'amélioration de la performance ou de dé
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-triathlon, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-triathlon, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -4280,7 +4280,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-Licence mention " STAPS : entraînement sportif "-voile, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence mention " STAPS : entraînement sportif "-voile, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -4288,7 +4288,7 @@ Encadrement de la voile à des fins d'amélioration de la performance ou de dév
 
 |
 
-Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-voile, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 1er janvier 2024. |
+Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives "-voile, discipline mentionnée à l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice, jusqu'au 31 août 2026. |
 
 6 |
 
@@ -4298,7 +4298,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS spécialité " éducateur sportif " mention " voile multi-supports jusqu'à 6 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS spécialité " éducateur sportif " mention " voile multi-supports jusqu'à 6 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -4310,7 +4310,7 @@ Dans la limite de 6 milles nautiques d'un abri.
 
 |
 
-BP JEPS, spécialité " éducateur sportif " mention " voile croisière jusqu'à 200 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif " mention " voile croisière jusqu'à 200 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -4338,7 +4338,7 @@ Encadrement, animation d'activités de découverte et d'initiation, entraînemen
 
 A l'exclusion des embarcations légères. |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " voile ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " voile ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -4346,7 +4346,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " voile ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " voile ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -4380,7 +4380,7 @@ VOILE-ENVIRONNEMENT SPECIFIQUE (au-delà de 200 milles nautiques d'un abri) |
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-DE JEPS, spécialité " perfectionnement sportif ", mention " voile au-delà de 200 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif ", mention " voile au-delà de 200 milles nautiques d'un abri ", délivré jusqu'au 31 août 2026. |
 
 5 |
 
@@ -4396,7 +4396,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplôme délivré par le ministre chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif ", mention " vol à moteur ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif ", mention " vol à moteur ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -4412,7 +4412,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplôme délivré par le ministre chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " vol à voile ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " vol à voile ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -4476,7 +4476,7 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une 
 
 A l'exception de l'enseignement du parapente en milieu aménagé au-dessus de l'eau. |
 
-DES JEPS, spécialité " performance sportive " mention " deltaplane ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " deltaplane ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -4484,7 +4484,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
-DES JEPS, spécialité " performance sportive " mention " parapente ", obtenu à partir du 1er janvier 2020 et délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " parapente ", obtenu à partir du 1er janvier 2020 et délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -4568,7 +4568,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " karaté, wushu et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " karaté, wushu et disciplines associées ", délivré jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -4576,7 +4576,7 @@ Encadrement, animation initiation et préparation aux grades du 1er au 4e dan. C
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " karaté et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " karaté et disciplines associées ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -4584,7 +4584,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " karaté et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " karaté et disciplines associées ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
 
