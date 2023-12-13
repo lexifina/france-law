@@ -1,32 +1,30 @@
-# Article LEGIARTI000048208602
+# Article Annexe II
 
-ANNEXE II
-
-CRÉDITS TRANSFÉRABLES AU TITRE DE L'ARTICLE L. 174-1-2 DU CODE DE LA SÉCURITE SOCIALE
+CRÉDITS TRANSFÉRABLES AU TITRE DE L'ARTICLE L. 174-1-2 DU CODE DE LA SÉCURITÉ SOCIALE
 
 Régions |
 
 MONTANTS TRANSFERABLES
 
-au titre de l'article L174-1-2 du code de la sécurité sociale
+au titre de l'article L. 174-1-2 du code de la sécurité sociale
 
 (en milliers d'euros) |
 
 Auvergne-Rhône-Alpes |
 
-1 644,7 |
+1 650,4 |
 
-Bourgogne - Franche-Comté |
+Bourgogne-Franche-Comté |
 
-581,4 |
+581,7 |
 
 Bretagne |
 
-649,7 |
+651,8 |
 
 Centre-Val de Loire |
 
-541,8 |
+543,1 |
 
 Corse |
 
@@ -34,35 +32,35 @@ Corse |
 
 Grand Est |
 
-1 198,9 |
+1 207,5 |
 
 Hauts-de-France |
 
-1 198,0 |
+1 200,2 |
 
 Ile-de-France |
 
-2 367,4 |
+2 371,5 |
 
 Normandie |
 
 683,2 |
 
-Nouvelle Aquitaine |
+Nouvelle-Aquitaine |
 
-1 388,7 |
+1 390,8 |
 
 Occitanie |
 
-1 445,0 |
+1 447,3 |
 
 Pays-de-la-Loire |
 
-729,3 |
+730,1 |
 
 Provence-Alpes-Côte d'Azur |
 
-735,9 |
+734,5 |
 
 Guadeloupe |
 
@@ -78,7 +76,7 @@ Martinique |
 
 Mayotte |
 
-2 885,4 |
+2 960,6 |
 
 La Réunion |
 
