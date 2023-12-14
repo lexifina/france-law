@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une lettre de mission relative à des conseils techniques, administratifs et financiers en matière d’urbanisme avec la Société Publique Locale « Seine Ouest Aménagement »
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-12-14
+- Matière : URBANISME
+- Objet : Approbation d’une lettre de mission relative à des conseils techniques, administratifs et financiers en matière d’urbanisme avec la Société Publique Locale « Seine Ouest Aménagement »
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0NDUsInB1ciI6ImJsb2JfaWQifX0=--56710b3b257941fd3e1f633f7dd741138f29305a/141223_05.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
