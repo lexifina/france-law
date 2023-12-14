@@ -1,0 +1,10 @@
+# COMMUNE DE LA CHAPELLE JANSON : délibération DELIBCOM23113 — DELIBERATION PORTANT DESAFFECTION ET ALIENATION CHEMIN RURAL 7B LD LA COURIE APRES ENQUETE PUBLIQUE
+
+- Collectivité : COMMUNE DE LA CHAPELLE JANSON
+- SIRET : 21350062200013
+- Date : 2023-12-14
+- Matière : 3.2 Domaine et patrimoine/Alienations
+- Objet : DELIBERATION PORTANT DESAFFECTION ET ALIENATION CHEMIN RURAL 7B LD LA COURIE APRES ENQUETE PUBLIQUE
+- Transmis à la préfecture : 2023-12-20 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500622/Deliberation/2023/542395/3297a2ec821bd7832e7091d37a9ead8694a52a22ac9b4e2543e2ac0e8f40dbc0.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
