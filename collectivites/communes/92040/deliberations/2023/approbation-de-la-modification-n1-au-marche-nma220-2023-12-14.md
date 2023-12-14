@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la modification n°1 au marché n°MA22009 relatif à la Fourniture de denrées alimentaires brutes pour la préparation des repas et goûters dans les structures d'accueil Petite Enfance
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-12-14
+- Matière : PETITE ENFANCE
+- Objet : Approbation de la modification n°1 au marché n°MA22009 relatif à la Fourniture de denrées alimentaires brutes pour la préparation des repas et goûters dans les structures d'accueil Petite Enfance
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxNDUsInB1ciI6ImJsb2JfaWQifX0=--c8c18e151fa9f69c68017d35aaf4c77ede3433bd/141223_35.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
