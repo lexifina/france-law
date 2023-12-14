@@ -1,0 +1,10 @@
+# COMMUNE DE LA CHAPELLE JANSON : délibération DELIBCOM23110 — DELIBERATION PORTANT DESAFFECTION ET ALIENATION CHEMIN RURAL 5 AU LD LE HAUT MONTIGNE APRES ENQUETE PUBLIQUE
+
+- Collectivité : COMMUNE DE LA CHAPELLE JANSON
+- SIRET : 21350062200013
+- Date : 2023-12-14
+- Matière : 3.2 Domaine et patrimoine/Alienations
+- Objet : DELIBERATION PORTANT DESAFFECTION ET ALIENATION CHEMIN RURAL 5 AU LD LE HAUT MONTIGNE APRES ENQUETE PUBLIQUE
+- Transmis à la préfecture : 2023-12-20 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500622/Deliberation/2023/542469/b23ad4af091501696cd6eda536ded5c3ef133dcc6701f5deec2a21f65ec34c7d.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
