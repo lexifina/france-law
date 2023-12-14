@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la modification n°1 au contrat DSP2201 portant sur la concession du service public pour la restauration collective scolaire et des accueils de loisirs et autorisation de la signer
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-12-14
+- Matière : EDUCATION
+- Objet : Approbation de la modification n°1 au contrat DSP2201 portant sur la concession du service public pour la restauration collective scolaire et des accueils de loisirs et autorisation de la signer
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0NTIsInB1ciI6ImJsb2JfaWQifX0=--ac60af08eff12555c1468ba916d354536c220219/141223_32.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
