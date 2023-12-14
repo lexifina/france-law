@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention pour la gestion du stationnement payant sur voirie entre la Ville et l’Etablissement Public Territorial Grand Paris Seine Ouest
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-12-14
+- Matière : ESPACES PUBLICS
+- Objet : Approbation d’une convention pour la gestion du stationnement payant sur voirie entre la Ville et l’Etablissement Public Territorial Grand Paris Seine Ouest
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3MzksInB1ciI6ImJsb2JfaWQifX0=--6fb4cf8e23f138e2161577065d1780cd508110c0/141223_37.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
