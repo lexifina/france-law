@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Budget Communal. Constatation de créances éteintes – Années 2019 à 2023
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2023-12-14
+- Matière : FINANCES
+- Objet : Budget Communal. Constatation de créances éteintes – Années 2019 à 2023
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYwMzUsInB1ciI6ImJsb2JfaWQifX0=--eda191fdb75842c14e4eab2dd4b7155bb8892bcd/141223_08.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
