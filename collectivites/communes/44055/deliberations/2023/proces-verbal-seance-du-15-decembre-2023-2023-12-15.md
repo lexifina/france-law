@@ -1,0 +1,10 @@
+# LA BAULE : délibération — Procès-verbal séance du 15 décembre 2023
+
+- Collectivité : LA BAULE
+- SIREN : 214400558
+- Code INSEE : 44055
+- Date : 2023-12-15
+- Objet : Procès-verbal séance du 15 décembre 2023
+- Transmis à la préfecture : 2023-12-15
+- Acte publié : https://opendata.cap-atlantique.fr:4333/diffusion\delib\44055/fichier/mlb_procesverbal_cm15decembre2023_20231215
+- Jeu de données : https://www.data.gouv.fr/datasets/5cb490839ce2e71686bc8899
