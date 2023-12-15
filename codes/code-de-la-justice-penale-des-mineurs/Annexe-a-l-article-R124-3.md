@@ -26,9 +26,9 @@ Art. 8.-Le mineur détenu a également accès à des activités socio-éducative
 
 L'emploi du temps du mineur détenu intègre l'ensemble des entretiens utiles avec les personnels et intervenants concourant à son éducation et son insertion sociale.
 
-Art. 9.-A titre exceptionnel, le chef d'établissement, seul ou à l'initiative de l'équipe pluridisciplinaire, peut proposer des activités de travail aux mineurs détenus âgés d'au moins seize ans. Ces activités ne doivent pas se substituer aux activités d'enseignement ou de formation.
+Art. 9.- Sous réserve que l'activité de travail ne se substitue pas aux activités d'enseignement ou de formation, chaque mineur détenu âgé d'au moins seize ans, quelle que soit sa catégorie pénale, peut demander à travailler en détention, dans les conditions prévues par les articles L. 412-5 à L. 412-9 du code pénitentiaire.
 
-A titre exceptionnel également, le chef d'établissement peut autoriser la participation d'un mineur détenu âgé d'au moins seize ans aux activités organisées dans l'établissement pénitentiaire avec des personnes détenues majeures, si l'intérêt du mineur le justifie.
+A titre exceptionnel, le chef d'établissement peut autoriser la participation d'un mineur détenu âgé d'au moins seize ans aux activités organisées dans l'établissement pénitentiaire avec des personnes détenues majeures, si l'intérêt du mineur le justifie.
 
 Art. 10.-Les services de la protection judiciaire de la jeunesse sont consultés par le chef d'établissement avant toute décision relative aux modalités de prise en charge d'un mineur détenu.
 
