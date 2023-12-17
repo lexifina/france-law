@@ -1,9 +1,43 @@
 # Article Annexe II
 
-Annexe II - Chapitre Ier “ Eléments généraux ” du titre IV “ Documents annuels ” de l'instruction comptable applicable aux organismes d'HLM (chapitre également applicable aux SEM agréées en application de l'article L. 481-1 du CCH)
+Annexe II-Chapitre Ier “ Eléments généraux ” du titre IV “ Documents annuels ” de l'instruction comptable applicable aux organismes d'HLM (chapitre également applicable aux SEM agréées en application de l'article L. 481-1 du CCH)
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à cette adresse : https://www.legifrance.gouv.fr/download/pdf?id=dtA951eqcVeE8Ir4pK1-5JH5qO1QTg2VZoj1b1RFD7U=
+► Documents annuels et états financiers transmis de façon dématérialisée au ministère chargé du logement
+
+Les documents annuels et états financiers relatifs aux comptes sociaux sont communs aux OPH, aux sociétés d'HLM et aux SEM agréées en application de l'article L. 481-1 du CCH et sont reproduits en annexe 3 de l'arrêté du 7 octobre 2015.
+
+Les documents annuels et états financiers relatifs aux comptes combinés des sociétés de coordination et aux comptes consolidés des structures faîtières des groupes d'organismes de logement social sont reproduits en annexe 4 de l'arrêté précité.
+
+► Périmètre de certification des comptes annuels
+
+En application des articles L. 823-9 et R. 823-7 du code de commerce, les éléments suivants des comptes annuels font l'objet d'une certification par le (s) commissaire (s) aux comptes :
+
+-bilan au 31 décembre de l'année d'exercice selon le format des fiches 2.1 et 2.2 des documents annuels et états financiers relatifs aux comptes sociaux ;
+
+-compte de résultat au 31 décembre de l'année d'exercice selon le format des fiches 3.1 et 3.2 des documents annuels et états financiers relatifs aux comptes sociaux ;
+
+-annexe aux comptes annuels composée des faits caractéristiques de l'exercice, des principes, règles et méthodes comptables et des tableaux selon le format des fiches 4.1 à 4.14 des documents annuels et états financiers relatifs aux comptes sociaux.
+
+L'annexe aux comptes annuels forme avec le bilan et le compte de résultat un tout indissociable dont l'objectif est de donner une image fidèle du patrimoine, de la situation financière et du résultat de l'organisme. Elle doit comporter toutes les explications nécessaires pour appréhender correctement les documents chiffrés que sont le bilan et le compte de résultat.
+
+► Autres documents transmis de façon dématérialisée au ministère chargé du logement
+
+Conformément aux articles R. 423-28, R. 423-78 et D. 481-14 du code de la construction et de l'habitation, les documents suivants sont obligatoirement transmis de façon dématérialisée et au format PDF au ministère chargé du logement par le biais de l'espace d'échange au sein de la plate-forme Harmonia désignée par arrêté du 8 mars 2010 (NOR : DEVU1003486A) :
+
+-rapport de gestion ;
+
+-rapport d'activité si établi par l'organisme ;
+
+-annexe littéraire ;
+
+-rapport (s) du (des) commissaire (s) aux comptes ;
+
+-procès-verbal d'approbation des comptes de l'exercice ;
+
+-en cas d'opération de fusion-absorption, le traité de fusion, l'arrêté préfectoral et le procès-verbal ou la délibération de l'assemblée ayant validé la fusion ;
+
+-en cas de report de la réunion de l'organe délibérant devant approuver les comptes (assemblée générale ou conseil d'administration), la décision du Tribunal de commerce ou l'accord du préfet de prorogation du délai de réunion de l'organe délibérant chargé d'approuver les comptes de l'exercice.
 
 NOTA :
 
-Conformément à l'article 8 de l'arrêté du 14 décembre 2022 (NOR : TREL2226992A), le présent article s'applique à compter de l'exercice comptable ouvert le 1er janvier 2022, sous réserve des dispositions l'article 7 dudit arrêté.
+Conformément à l'article 6 de l'arrêté du 8 décembre 2023 (NOR : TREL2323399A), ces dispositions s'appliquent à compter de l'exercice comptable ouvert le 1er janvier 2023.

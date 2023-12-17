@@ -1,9 +1,37 @@
 # Article Annexe V
 
-Conformément au 2° de l'article 3 de l'arrêté du 14 décembre 2022 (NOR : TREL2226992A), l'annexe 5 dudit arrêté remplace la présente annexe V.
+ORGANISATION DE L'INSTRUCTION COMPTABLE APPLICABLE AUX ORGANISMES HLM
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à cette adresse : https://www.legifrance.gouv.fr/download/pdf?id=dtA951eqcVeE8Ir4pK1-5JH5qO1QTg2VZoj1b1RFD7U=
+TITRE I-PLAN DE COMPTES
+
+(Annexe 1 du présent arrêté)
+
+TITRE II-COMMENTAIRES DES COMPTES
+
+(Avis du ministère du logement)
+
+TITRE III-SCHÉMAS D'ÉCRITURES COMPTABLES
+
+(Avis du ministère du logement)
+
+TITRE IV-DOCUMENTS ANNUELS
+
+CHAPITRE I-ÉLÉMENTS GÉNÉRAUX
+
+(Annexe 2 du présent arrêté)
+
+CHAPITRE II-DOCUMENTS ANNUELS ET ÉTATS FINANCIERS RELATIFS AUX COMPTES SOCIAUX DES OFFICES PUBLICS DE L'HABITAT, DES SOCIÉTÉS D'HLM ET SOCIÉTÉS D'ÉCONOMIE MIXTE AGRÉÉES EN APPLICATION DE L'ARTICLE L. 481-1 DU CCH
+
+(Annexe 3 du présent arrêté)
+
+CHAPITRE III-DOCUMENTS ANNUELS ET ÉTATS FINANCIERS RELATIFS AUX COMPTES COMBINÉS DES SOCIÉTÉS DE COORDINATION ET AUX COMPTES CONSOLIDÉS DES STRUCTURES FAÎTIÈRES DES GROUPES D'ORGANISMES DE LOGEMENT SOCIAL
+
+(Annexe 4 du présent arrêté)
+
+TITRE V-NOTES DE DOCTRINE
+
+(Avis du ministère du logement)
 
 NOTA :
 
-Conformément à l'article 8 de l'arrêté du 14 décembre 2022 (NOR : TREL2226992A), le présent article s'applique à compter de l'exercice comptable ouvert le 1er janvier 2022, sous réserve des dispositions l'article 7 dudit arrêté.
+Conformément à l'article 6 de l'arrêté du 8 décembre 2023 (NOR : TREL2323399A), ces dispositions s'appliquent à compter de l'exercice comptable ouvert le 1er janvier 2023.
