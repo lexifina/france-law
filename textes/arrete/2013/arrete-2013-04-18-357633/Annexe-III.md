@@ -8,113 +8,137 @@ Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Personnel civil et militaire relevant des cabinets |
 
 Paris |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Officiers généraux de première section |
 
 Tous départements |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Officiers généraux de 2e section effectuant des vacations |
 
 Tous départements |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Personnel civil et militaire affecté en administration centrale et services déconcentrés |
 
-Île-de-France |
+Ile-de-France |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Personnel civil et militaire nommé sur un emploi fonctionnel civil en administration centrale |
 
-Île-de-France |
+Ile-de-France |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Personnel civil et militaire nommé sur un emploi fonctionnel civil hors administration centrale |
 
 Tous départements |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Personnel civil affecté au comité d'indemnisation des victimes des essais nucléaires (CIVEN) |
 
 Tous départements |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Personnel civil du service de l'énergie opérationnelle affecté en administration centrale |
 
 Paris |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Personnel civil mis à disposition de la Présidence de la République, des services du Premier ministre, du Cercle national des armées, de la Fondation de la France libre, de la Mutuelle civile de la défense de la Mutuelle nationale militaire, |
 
 Tous départements |
 
-Paris |
+Marne
 
-Catégorie de personnel |
-
-Service ou département d'affectation |
-
-Direction des finances publiques chargée de la paye
-
-sans ordonnancement préalable |
+à compter du 1er janvier 2024 |
 
 Personnel civil et militaire relevant du service du commissariat des armées |
 
 Tous départements |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Personnel civil du ministère des armées mis à disposition d'organismes d'administration centrale de la gendarmerie nationale |
 
 Tous départements |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Personnel civil du ministère des armées mis à disposition d'organismes extérieurs de la gendarmerie nationale |
 
 Tous départements |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Personnel civil et militaire relevant des corps gérés par la direction générale de l'armement |
 
 Tous départements |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Personnel civil et militaire relevant des corps gérés par la direction générale de l'armement mis à disposition d'organismes de la gendarmerie nationale |
 
 Tous départements |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Personnel civil et militaire |
 
 En poste à l'étranger hors réseau diplomatique |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Officiers relevant des corps de l'armement effectuant une période de réserve |
 
 Tous départements |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 B.-Centre ministériel de gestion de Bordeaux
 
@@ -122,9 +146,9 @@ Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Personnel civil affecté en administration centrale et services déconcentrés |
 
@@ -156,27 +180,33 @@ Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Personnel civil affecté en administration centrale et services déconcentrés |
 
 Aisne, Ardennes, Aube, Côte-d'Or, Doubs, Jura, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Nièvre, Nord, Pas-de-Calais, Bas-Rhin, Haut-Rhin, Haute-Saône, Saône-et-Loire, Somme, Vosges, Yonne, Territoire de Belfort |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Personnel civil hors administration centrale dans un établissement du service de l'énergie opérationnelle |
 
 Tous départements |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Autres personnels civils |
 
 En poste à l'étranger hors réseau diplomatique |
 
-Paris |
+Marne
+
+à compter du 1er janvier 2024 |
 
 D.-Centre ministériel de gestion de Rennes
 
@@ -184,13 +214,13 @@ Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Personnel civil affecté en administration centrale et services déconcentrés |
 
-Calvados, Cher, Côtes d'Armor, Eure, Eure-et-Loir, Finistère, Ille-et-Vilaine, Indre, Indre-et-Loire, Loir-et-Cher, Loire-Atlantique, Loiret, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Seine-Maritime, Vendée |
+Calvados, Cher, Côtes-d'Armor, Eure, Eure-et-Loir, Finistère, Ille-et-Vilaine, Indre, Indre-et-Loire, Loir-et-Cher, Loire-Atlantique, Loiret, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Seine-Maritime, Vendée |
 
 Gironde |
 
@@ -200,9 +230,9 @@ Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Personnel civil affecté en administration centrale et services déconcentrés |
 
@@ -252,33 +282,27 @@ Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Personnel civil affecté en administration centrale et services déconcentrés |
 
 Ain, Allier, Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ardèche, Aude, Bouches-du-Rhône, Cantal, Corse-du-Sud, Haute-Corse, Drôme, Gard, Hérault, Isère, Loire, Haute-Loire, Lozère, Puy-de-Dôme, Pyrénées-Orientales, Rhône, Savoie, Haute-Savoie, Var, Vaucluse |
 
-Marne
-
-à compter du 1er janvier 2023 |
+Marne |
 
 Personnel civil affecté hors administration centrale dans un établissement de la direction générale de l'armement |
 
 Tous départements |
 
-Marne
-
-à compter du 1er janvier 2023 |
+Marne |
 
 Personnel civil relevant du corps des ingénieurs civils des travaux maritimes |
 
 Tous départements |
 
-Marne
-
-à compter du 1er janvier 2023 |
+Marne |
 
 G.-Naval Group
 
@@ -286,38 +310,48 @@ Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Personnel à statut ouvrier mis à disposition de l'entreprise Naval Group |
 
 Toutes affectations |
 
-Marne
+Marne |
 
-à compter du 1er janvier 2023 |
-
-H.-Directions des commissariats outre-mer
+H.-Etat-major des armées-Bureaux des ressources humaines du personnel civil
 
 Catégorie de personnel |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
-Personnel civil affecté dans les directions des commissariats outre-mer Directions des commissariats outre-mer |
+Personnel civil affecté dans les départements d'outre-mer |
 
-Guadeloupe, Guyane, Martinique |
+Guadeloupe, Martinique |
 
-Martinique |
+Marne
+
+à compter du 1er janvier 2024 |
+
+Guyane |
+
+Marne
+
+à compter du 1er janvier 2024 |
 
 La Réunion |
 
-La Réunion |
+Marne
+
+à compter du 1er janvier 2024 |
 
 Mayotte |
 
-La Réunion |
+Marne
+
+à compter du 1er janvier 2024 |
