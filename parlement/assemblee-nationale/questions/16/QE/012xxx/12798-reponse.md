@@ -1,0 +1,9 @@
+# Réponse à la question n° 12798
+
+- Question : [12798](12798.md) — Question n° 12798 — Interdiction de reproduction des animaux de cirques
+
+## Réponse
+
+*JO du 2023-12-19, page 11473*
+
+Le Gouvernement est particulièrement attentif au bien-être animal. La loi n° 2021-1539 du 30 novembre 2021 visant à lutter contre la maltraitance animale et conforter le lien entre les animaux et les hommes l'atteste. Cette loi prévoit à l'horizon 2028 la fin de l'exploitation des animaux non domestiques dans les cirques itinérants. Le plan d'accompagnement des circassiens est mis en œuvre dès à présent, leur permettant d'adapter leurs activités aux évolutions réglementaires. Ainsi, les professionnels des établissements itinérants ont été associés à l'élaboration d'un plan d'accompagnement, d'un montant de 35 millions d'euros sur 3 ans, visant à les soutenir dans la reconversion de leurs activités et dans le devenir de leurs animaux. Ce plan interministériel prévoit des aides financières et notamment une aide à la transition économique des entreprises, une aide à la reconversion des capacitaires, ainsi qu'une aide à la stérilisation des fauves. Une aide à la mise au repos en refuge des animaux non domestiques ou une aide au nourrissage dans l'éventualité où aucune place en refuge ne serait disponible sont également prévues par ce plan d'accompagnement. Ces aides vont faire l'objet d'un décret et un guichet unique sera mis en place au premier semestre 2024 afin de faciliter les démarches administratives des professionnels concernés. Le texte réglementaire relatifs aux sanctions appelé par l'article 46 de la loi n° 2021-1539 sera publié également en début d'année 2024. Par ailleurs, la création de places d'accueil des animaux détenus en itinérance est initiée avec notamment le lancement de deux appels à manifestation d'intérêt (AMI) en 2022 et 2023. Plus de 150 places pour des animaux non domestiques ont été créées pour un montant de 4,2 millions d'euros.
