@@ -1,0 +1,9 @@
+# Réponse à la question n° 9362
+
+- Question : [9362](9362.md) — Question n° 9362 — Désertification médicale du Gers
+
+## Réponse
+
+*JO du 2023-12-19, page 11572*
+
+L'Agence régionale de santé (ARS) d'Occitanie et les services du ministère de la santé et de la prévention sont pleinement mobilisés sur l'enjeu de l'accès aux soins dans le département du Gers, et notamment à l'hôpital d'Auch. Un accord a ainsi été trouvé pour relocaliser certaines activités à l'hôpital d'Auch. Au regard de la situation de la clinique, le centre hospitalier (CH) d'Auch a entrepris des discussions sous l'égide de l'ARS dès février 2023. La constitution d'un Groupement de coopération sanitaire d'activités libérales a été entreprise afin que les praticiens de l'ancienne clinique puissent intégrer dans les meilleurs délais le CH d'Auch (ophtalmologie, chirurgie vasculaire, dentaire). L'urologie est représentée au CH d'Auch par convention pour des consultations avancées avec le centre hospitalier universitaire (CHU) de Toulouse et le CH de Mont-de-Marsan. Des discussions se poursuivent avec le CHU de Toulouse et le CH de Mont-de-Marsan afin d'accentuer le processus de développement de nouvelles activités, en lien avec le projet de nouvel hôpital auscitain. Aucun patient ne s'est retrouvé sans solution dans le département du Gers en termes d'intervention chirurgicale, les patients du CH d'Auch étant systématiquement réorientés pour intervention chirurgicale vers le CHU de Toulouse. Enfin, le Ségur de la Santé va permettre une restructuration complète du CH d'Auch, par un financement de 117 M€ complété par le Conseil régional d'Occitanie de 18 M€. Les nouvelles autorisations attribuées au CH d'Auch vont compléter l'offre aux Gersois en proximité, comme un second IRM et la cardiologie interventionnelle.
