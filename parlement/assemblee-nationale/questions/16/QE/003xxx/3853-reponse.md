@@ -1,0 +1,9 @@
+# Réponse à la question n° 3853
+
+- Question : [3853](3853.md) — Question n° 3853 — Rémunération des sauveteurs et secouristes bénévoles
+
+## Réponse
+
+*JO du 2023-12-19, page 11518*
+
+La reconnaissance des bénévoles œuvrant dans le domaine de la sécurité civile est un enjeu essentiel pour la pérennisation de notre modèle de sécurité civile. Ainsi, des mesures législatives ont été adoptées récemment, avec pour objectif de conforter l'engagement des bénévoles secouristes. La loi du 25 novembre 2021, visant à consolider notre modèle de sécurité civile et à valoriser le volontariat des sapeurs-pompiers et les sapeurs-pompiers professionnels, prévoit l'attribution de récompenses et distinctions à des bénévoles au sein des associations agréées de sécurité civile (AASC). Elle permet également la reconnaissance de la qualité de pupilles de la République aux enfants des bénévoles des AASC dont l'acte de décès porte la mention « mort pour le service de la République ». Enfin, elle étend le bénéfice de la protection juridique des personnes concourant à la sécurité intérieure aux volontaires civils de la sécurité civile (article L. 113-1 du Code de la sécurité intérieure). Néanmoins, les limites du champ de compétences des AASC proscrivent l'hypothèse même d'un "concours à la force publique". En effet, les AASC sont exclusivement compétentes pour la contribution aux opérations de secours, le soutien des populations sinistrées, l'encadrement de bénévoles lors de ce soutien et la mise en œuvre de dispositifs prévisionnels de secours. De surcroît, l'hypothèse plus large d'une indemnisation pour les secouristes bénévoles n'est pas souhaitable car elle est susceptible d'affecter un modèle robuste, basé sur le principe associatif, dont les équilibres actuels donnent satisfaction. Ils permettent aux pouvoirs publics de disposer de partenaires dont le sens de la mission repose sur un engagement au service de l'intérêt général.
