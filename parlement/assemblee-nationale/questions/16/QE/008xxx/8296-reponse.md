@@ -1,0 +1,9 @@
+# Réponse à la question n° 8296
+
+- Question : [8296](8296.md) — Question n° 8296 — Testing sur le refus de soins
+
+## Réponse
+
+*JO du 2023-12-19, page 11566*
+
+Le « testing » portant sur les refus de soins opposés aux bénéficiaires de la complémentaire santé solidaire (C2S) et de l'aide médicale de l'État (AME) a été financé par appel d'offres, en partenariat avec le Défenseur des droits. Son coût s'élève à moins de 100 000 euros, dont 40 000 euros supportés par le Défenseur des droits. Aucun équivalent temps plein (ETP) public n'a été spécifiquement dédié. Le refus de soins consiste, pour un professionnel de santé, à refuser de recevoir un patient ou de lui dispenser des soins sur la base de motifs discriminatoires. Cette pratique est illégale, conformément à l'article L. 1110-3 du code de santé publique. L'étude consistait donc à objectiver les discriminations dont sont victimes certaines populations en situation de précarité, face à un double enjeu de santé publique et de lutte contre la pauvreté. Ses résultats fournissent une évaluation documentée des difficultés à obtenir un premier rendez-vous médical pour l'ensemble des assurés : le patient de référence, la personne bénéficiaire de la C2S et la personne bénéficiaire de l'AME. L'étude a par ailleurs permis de tester les inégalités entre les femmes et les hommes pour chacun de ces profils. Cette étude apporte un éclairage complémentaire précieux au suivi statistique déjà précis et aux nombreuses études qui documentent les inégalités en matière de santé pour la population dans sa globalité (à titre d'exemple, le dossier DREES n° 102 sur l'état de santé de la population en France et le n° 1243 d'Etudes et résultats) ainsi que les difficultés d'accès aux soins dans les zones rurales et ce que l'on appelle les « déserts médicaux » (voir le dossier DREES n° 89 ou encore le numéro n° 1144 d'Etudes et résultats).
