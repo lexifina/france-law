@@ -1,0 +1,9 @@
+# Réponse à la question n° 12645
+
+- Question : [12645](12645.md) — Question n° 12645 — Rendez-vous pour obtenir un visa
+
+## Réponse
+
+*JO du 2023-12-19, page 11513*
+
+Comme ses principaux partenaires européens, la France a mis en place, depuis une quinzaine d'années, diverses procédures d'externalisation de tout ou partie des tâches non régaliennes liées aux demandes de visa, comme la gestion des rendez-vous, afin de faire face à la hausse constante de la demande et d'offrir aux demandeurs de meilleures conditions d'accueil. Le problème des officines et celui de la préemption ou captation des rendez-vous sont bien connus du ministère de l'Europe et des affaires étrangères et du ministère de l'intérieur et des outre-mer. Ils font l'objet d'un suivi conjoint très attentif avec tous les acteurs concernés : les prestataires chargés de la collecte des demandes de visa, les postes diplomatiques et consulaires et l'administration centrale. Pour lutter contre ces officines les postes rappellent régulièrement le caractère gratuit de la prise de rendez-vous. Par ailleurs, l'expertise de nos prestataires et leurs moyens techniques permettent aux postes, en fonction du contexte local, de mettre en place des solutions efficaces : - le prépaiement des frais de service et de l'impossibilité de modifier un rendez-vous ; - le système Captcha, dans le but de perturber les mécanismes automatisés permettant de prendre plusieurs rendez-vous sans intervention de l'utilisateur ; - le blocage des adresses IP récurrentes ; - le recours aux mots de passe éphémères ; - l'ouverture des créneaux de rendez-vous de manière progressive et aléatoire. Le phénomène de captation des rendez-vous par les officines n'est pas spécifique aux postes externalisés, ni aux créneaux de rendez-vous dédiés aux visas. La réactivité des officines oblige les administrations et les prestataires à adapter constamment la riposte à ces pratiques qui portent préjudice aux demandeurs de visa.
