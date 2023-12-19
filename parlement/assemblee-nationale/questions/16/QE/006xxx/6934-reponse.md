@@ -1,0 +1,9 @@
+# Réponse à la question n° 6934
+
+- Question : [6934](6934.md) — Question n° 6934 — Directives anticipées
+
+## Réponse
+
+*JO du 2023-12-19, page 11537*
+
+Le plan national 2021-2024 pour le développement des soins palliatifs et l'accompagnement de la fin de vie dédie le premier de ses trois axes à l'appropriation des droits en faveur des personnes malades et des personnes en fin de vie. L'une de ses mesures-phares est le lancement de campagnes d'information pour mieux faire connaître notre législation et les dispositifs mis en place, tels que les directives anticipées et la désignation de la personne de confiance. Mais surtout, il a pour ambition de mieux accompagner le patient ainsi que son entourage aidant sur la thématique de la fin de vie, avec l'appui de l'ensemble des intervenants de la prise en charge. Les travaux sont conduits avec l'appui du Centre national des soins palliatifs et de la fin de vie (CNSPFV) dont les missions sont centrées sur ces objectifs de meilleure connaissance des soins palliatifs et des conditions de la fin de vie et sur la diffusion des dispositifs de la démarche palliative et des pratiques d'accompagnement de la fin de vie. Il s'agit de préciser les besoins des différents publics afin d'élaborer et mettre à disposition des outils adaptés. Il s'agit également de travailler à une plus grande anticipation des besoins en soins palliatifs et de l'expression des volontés pour la fin de vie, de favoriser des temps d'échange avec les professionnels pour mieux appréhender l'approche palliative et informer sur les situations de fin de vie. En cela, les trois axes du plan sont inévitablement interdépendants pour réaliser des avancées significatives sur le plan de l'accès aux soins palliatifs et de l'accompagnement de la fin de vie, en tous lieux de soins et de vie. La dynamique se poursuivra dans le cadre du plan décennal en cours d'élaboration qui doit prendre le relai du plan actuel à partir de 2024.
