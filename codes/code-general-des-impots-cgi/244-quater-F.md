@@ -1,6 +1,6 @@
 # Article 244 quater F
 
-I. – 1. Les entreprises imposées d'après leur bénéfice réel peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses ayant pour objet de financer la création et le fonctionnement d'établissements mentionnés aux deux premiers alinéas de l'article L. 2324-1 du code de la santé publique et assurant l'accueil des enfants de moins de trois ans de leurs salariés.
+I. – 1. Les entreprises imposées d'après leur bénéfice réel peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses ayant pour objet de financer la création et le fonctionnement d'établissements mentionnés au premier alinéa de l'article L. 2324-1 du code de la santé publique et assurant l'accueil des enfants de moins de trois ans de leurs salariés.
 
 2. Elles peuvent également bénéficier d'un crédit d'impôt égal à 25 % des dépenses engagées au titre de l'aide financière de l'entreprise mentionnée aux articles L. 7233-4 et L. 7233-5 du code du travail.
 
