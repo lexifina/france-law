@@ -4,7 +4,7 @@ MODÈLE D'ATTESTATION DE BON MONTAGE
 
 (Article 38)
 
-Une attestation par ensemble démontable identique
+Une attestation pour plusieurs ensembles démontables identiques
 
 ÉVÉNEMENT
 
@@ -34,7 +34,7 @@ CARACTÉRISTIQUES DE L'ENSEMBLE DÉMONTABLE
 
 Fabriqué par :
 
-Descriptif sommaire :
+Descriptif sommaire et marquage (s) :
 
 Documents et plans utilisés pour l'installation : références, dates, indices, etc. :
 
@@ -81,3 +81,7 @@ En deux exemplaires originaux
 Signature :
 
 (1) Rayer les mentions inutiles.
+
+NOTA :
+
+Par la décision n° 491870 du 4 avril 2025 du Conseil d’Etat statuant au contentieux ECLI:FR:CECHS:2025:491870.20250404, l'arrêté du 4 décembre 2023 modifiant l'arrêté du 25 juillet 2022 fixant les règles de sécurité et les dispositions techniques applicables aux structures provisoires et démontables (NOR: IOME2322756A) est annulé.

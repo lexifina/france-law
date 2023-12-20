@@ -4,6 +4,8 @@ CONTENU DU RAPPORT DE VÉRIFICATIONS APRÈS MONTAGE
 
 (Article 38)
 
+Un rapport pour plusieurs ensembles démontables identiques
+
 Les vérifications exhaustives sont réalisées par un organisme accrédité ou un technicien compétent à l'issue de visites effectuées notamment pendant la phase de montage. Elles donnent lieu à un rapport conclusif qui comporte les informations suivantes :
 
 1. Renseignements concernant l'événement :
@@ -36,7 +38,7 @@ Les vérifications exhaustives sont réalisées par un organisme accrédité ou 
 
 4.1. Catégories ;
 
-4.2. Identification des ensembles démontables (marque, modèle) ;
+4.2. Identification des ensembles démontables (marque, modèle, marquage (s)) ;
 
 4.3. Pour les tribunes :
 
@@ -106,7 +108,9 @@ Articles |
 
 Points examinés |
 
-Constatations et commentaires |
+Constatations
+
+et commentaires |
 
 S |
 
@@ -160,7 +164,7 @@ Lieu d'implantation |
 
 7 |
 
-Adéquation avec le sol : Etat du sol, calage, plaque de répartition,… |
+Adéquation avec le sol : Etat du sol, calage, plaque de répartition … |
 
 |
 
@@ -176,7 +180,7 @@ Adéquation avec le sol : Etat du sol, calage, plaque de répartition,… |
 
 Identification
 
-Marquage : Marque, modèle, Année,… |
+Marquage : Marque, modèle, année … |
 
 |
 
@@ -218,7 +222,7 @@ A détailler selon le type de structures |
 
 12 |
 
-Etat et assemblage des planchers : Etat, jeu, décalage,… |
+Etat et assemblage des planchers : Etat, jeu, décalage … |
 
 |
 
@@ -232,7 +236,7 @@ Etat et assemblage des planchers : Etat, jeu, décalage,… |
 
 13 |
 
-Etat et assemblage des contremarches : Etat, jeu, décalage,… |
+Etat et assemblage des contremarches : Etat, jeu, décalage … |
 
 |
 
@@ -246,7 +250,7 @@ Etat et assemblage des contremarches : Etat, jeu, décalage,… |
 
 14 |
 
-Places assises pour les gradins : Nombre, implantation,… |
+Places assises pour les gradins : Nombre, implantation … |
 
 |
 
@@ -304,7 +308,7 @@ Vomitoires et circulations : Configuration et protection |
 
 18 |
 
-Dessous : Inaccessible au public, potentiel calorifique,… |
+Dessous : Inaccessible au public, potentiel calorifique … |
 
 |
 
@@ -318,7 +322,7 @@ Dessous : Inaccessible au public, potentiel calorifique,… |
 
 19 |
 
-Escaliers et rampes accessibles au public : Qualité, état, assemblage,… |
+Escaliers et rampes accessibles au public : Qualité, état, assemblage … |
 
 |
 
@@ -332,7 +336,7 @@ Escaliers et rampes accessibles au public : Qualité, état, assemblage,… |
 
 20 |
 
-Garde-corps : Qualité, état, assemblage,… |
+Garde-corps : Qualité, état, assemblage … |
 
 |
 
@@ -346,7 +350,7 @@ Garde-corps : Qualité, état, assemblage,… |
 
 21 |
 
-Sièges et bancs fixes : Qualité, état, assemblage,… |
+Sièges et bancs fixes : Qualité, état, assemblage … |
 
 |
 
@@ -388,7 +392,7 @@ Sièges : Caractéristiques, PV de réaction au feu |
 
 24 |
 
-Barrière anti-renversement : Présence, état, assemblage,… |
+Barrière anti-renversement : Présence, état, assemblage … |
 
 |
 
@@ -438,7 +442,7 @@ A détailler selon le type de structures |
 
 27 |
 
-Habillages : PV de réaction au feu, état, assemblage,… |
+Habillages : PV de réaction au feu, état, assemblage … |
 
 |
 
@@ -540,7 +544,7 @@ Diffusion de l'alarme et de l'alerte. |
 
 34 |
 
-moyens d'extinction |
+Moyens d'extinction |
 
 |
 
@@ -580,9 +584,23 @@ Avis sur modèle type ou sur dossier technique |
 
 |
 
+38 |
+
+Attestation de bon montage |
+
+|
+
+|
+
+|
+
+|
+
+|
+
 39 |
 
-Dossier de sécurité : Présence et complétude |
+Dossier de sécurité : Présence et cohérence |
 
 |
 
@@ -638,4 +656,4 @@ Ensemble démontable existant : Marquage |
 
 NOTA :
 
-Conformément à l’article 1er de l’arrêté du 6 septembre 2023 (NOR : IOME2323796A) : La date d'entrée en vigueur des dispositions mentionnées à l'article 3 de l'arrêté du 25 juillet 2022 (NOR : IOME2213406A) est reportée au 1er janvier 2024.
+Par la décision n° 491870 du 4 avril 2025 du Conseil d’Etat statuant au contentieux ECLI:FR:CECHS:2025:491870.20250404, l'arrêté du 4 décembre 2023 modifiant l'arrêté du 25 juillet 2022 fixant les règles de sécurité et les dispositions techniques applicables aux structures provisoires et démontables (NOR: IOME2322756A) est annulé.
