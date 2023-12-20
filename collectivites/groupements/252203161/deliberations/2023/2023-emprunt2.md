@@ -1,0 +1,10 @@
+# SYNDICAT MIXTE DE TRAITEMENT DE TRI DE RECYCLAGE D'ELIMINATION DES DECHETS OUEST D'ARMOR : délibération 2023_EMPRUNT2 — CONTRAT EMPRUNT CREDIT AGRICOLE
+
+- Collectivité : SYNDICAT MIXTE DE TRAITEMENT DE TRI DE RECYCLAGE D'ELIMINATION DES DECHETS OUEST D'ARMOR
+- SIRET : 25220316100028
+- Date : 2023-12-20
+- Matière : 7.3 Finances locales/Emprunts
+- Objet : CONTRAT EMPRUNT CREDIT AGRICOLE
+- Transmis à la préfecture : 2023-12-21 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/252203161/Deliberation/2023/543437/9feb02479c5024d61345ac5e5db584cf720b70c16bd686ef0d2034880c657ed7.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
