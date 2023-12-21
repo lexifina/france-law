@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231109013
+
+- Question : [SEQ231109013](seq231109013.md) — Difficultés postales rencontrées par les Français résidant au Liban
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2023-12-21, page 7042*
+
+Nos services consulaires au Liban sont pleinement mobilisés pour venir en aide à nos compatriotes, durement touchés par la crise que connaît actuellement le pays et qui pèse sur le fonctionnement des services publics, avec une attention toute particulière aux plus démunis et aux plus fragiles. S'agissant plus particulièrement des mesures à prendre pour pallier les dysfonctionnements des services postaux, la mise en place d'un dispositif de domiciliation au consulat reviendrait, de fait, à utiliser la valise diplomatique pour assurer l'acheminement des plis, ce qui ne serait pas conforme au droit international. En effet, l'article 27 de la Convention de Vienne sur les relations diplomatiques précise que « les colis constituant la valise diplomatique nepeuvent contenir que des documents diplomatiques ou des objets à usage officiel ». Aussi, seuls les conseillers des Français de l'étranger ont la possibilité de faire acheminer par la valise diplomatique leur correspondance officielle uniquement, adressée à l'administration et destinée soit aux administrations centrales, soit aux postes diplomatiques et consulaires, soit à d'autres services de l'Etat à l'étranger. Les Français résidant au Liban qui rencontrent des difficultés dans l'obtention de documents administratifs par voie postale pour des démarches essentielles sont invités à se signaler auprès des services consulaires de l'ambassade de France au Liban, afin que leur situation soit examinée. Le recours à des entreprises proposant un service de courrier express, dont les services sont toujours disponibles au Liban, reste actuellement possible.
