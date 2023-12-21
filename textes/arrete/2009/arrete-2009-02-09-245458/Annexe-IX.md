@@ -98,6 +98,16 @@ c) Le véhicule a été confié à un garagiste pour réparations après avoir �
 
 Le véhicule porteur ou tracteur doit être en règle au regard des dispositions réglementant le transport routier de marchandises.
 
-NOTA :
+4.3. Par dérogation au point 4.1, les véhicules lourds neufs peuvent circuler en charge sous réserve de respecter les dispositions des points 4.3.1 et 4.3.2.
 
-L'arrêté du 23 mars 2009 art. 1 I. ― Les dispositions du décret du 9 février 2009 susvisé et de l'arrêté du 9 février 2009 susvisé relatif aux modalités d'immatriculation des véhicules entrent en vigueur le 15 avril 2009.
+4.3.1. Dispositions communes pour les véhicules de transports de marchandises et de personnes :
+
+- disposer d'un certificat provisoire d'immatriculation en cours de validité, et obtenu au plus tard le 20 août 2023 ;
+
+- pour les véhicules prêts à l'emploi d'origine : disposer d'un justificatif technique de conformité au sens de l'article 1.A.2 du présent arrêté ;
+
+- pour les véhicules non prêts à l'emploi d'origine : disposer d'un justificatif technique de conformité au sens de l'article 1.B.2 du présent arrêté.
+
+4.3.2. Disposition supplémentaire spécifique aux véhicules de transports de personnes :
+
+- disposer d'une attestation d'aménagement conforme à l'article 85 de l'arrêté du 2 juillet 1982 relatif aux transports en commun de personnes.
