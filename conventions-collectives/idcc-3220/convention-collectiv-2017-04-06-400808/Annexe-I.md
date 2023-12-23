@@ -2,232 +2,138 @@
 
 Annexe I
 
-Classification
+Barème national des salaires minimums hiérarchiques
 
-Description des cinq critères d'évaluation
+(1)
 
-1. Critère de l'autonomie
+1.   Le barème national des salaires minimums hiérarchiques déterminé pour chacune des 13 classes d'emploi telles que définies dans le cadre de la classification commune retenue pour la branche des organismes publics et coopératifs de l'habitat social telle qu'issue de l'arrêté de fusion du 16 novembre 2018, est fixé comme suit :
 
-Définition : l'autonomie est appréciée en fonction de la latitude, caractérisant l'emploi, pour décider et agir (initiative, nature des contrôles).
+Classes d'emplois |
 
-Qualification requise |
+Cotations |
 
-Nombre
+Catégories |
 
-de points |
-
-Agit selon des consignes précises. |
+Salaire minimum hiérarchique |
 
 1 |
 
-Applique des instructions et dispose du choix du mode d'exécution.
+6 7 8 9 |
 
-Organise son travail au quotidien. |
+Employés |
 
-2 |
-
-Agit dans le cadre de programmes fixant des objectifs précis et de court terme. Choisit parmi les moyens d'action à sa disposition en fonction de la situation. |
-
-3 |
-
-Agit dans le cadre de programmes. Il est associé à l'élaboration de celui-ci. Peut adapter les modes opératoires en fonction des situations. Fait preuve d'anticipation dans son domaine d'activité en prenant en compte les interactions avec les autres activités. |
-
-4 |
-
-Optimise les ressources qui lui sont allouées pour atteindre les objectifs de son activité. Définit les moyens et les méthodes à mettre en œuvre pour faire face à des situations nouvelles. Anticipe les conséquences possibles des nouvelles méthodes à mettre en place et identifie les risques correspondants. |
-
-5 |
-
-Dispose d'une délégation importante pour engager et représenter l'organisme en interne et en externe. |
-
-6 |
-
-2. Critère de la responsabilité
-
-Définition : la responsabilité est appréciée en fonction de l'impact, de la portée et des conséquences des activités et décisions sur le fonctionnement, les résultats et l'image de l'entreprise.
-
-Qualification requise |
-
-Nombre
-
-de points |
-
-Est responsable de réaliser l'autocontrôle de son travail prévu dans les procédures et d'alerter en cas de dysfonctionnements. |
-
-1 |
-
-Est responsable de réaliser l'autocontrôle de son travail et de mener les actions correctives si besoin en fonction des résultats attendus. |
+1 800,00 € |
 
 2 |
 
-Sans encadrement
+10 11 12 13 |
 
-Est responsable de l'atteinte d'objectifs qui lui sont fixés. Est responsable de la fiabilité et du suivi des résultats. |
+Employés |
 
-3 |
-
-Encadrement
-
-A la responsabilité d'une équipe dont il organise le travail et contrôle les résultats. Il met en œuvre les actions nécessaires à l'obtention de ceux-ci. |
-
-|
-
-Sans encadrement
-
-Est responsable de la performance de son activité. Participe aux prévisions de gestion. Rend compte de ses résultats. |
-
-4 |
-
-Encadrement |
-
-|
-
-Est responsable des résultats de son équipe au titre de son activité dans le cadre des objectifs généraux de l'entreprise. A la responsabilité du développement des compétences des membres de son équipe en liaison avec son supérieur hiérarchique. |
-
-|
-
-Sans encadrement
-
-Est responsable du développement de la performance de son activité. Élabore des prévisions de gestion. Rend compte des résultats. |
-
-5 |
-
-Encadrement
-
-Est responsable de la progression de la performance de son équipe. Définit les référentiels et procédures internes dans son domaine. Contribue étroitement aux différents processus de gestion du personnel. |
-
-|
-
-Est responsable de la performance de l'organisme dans son domaine. Contribue à la définition de la stratégie de l'organisme. |
-
-6 |
-
-3. Critère de la dimension relationnelle
-
-Définition : la dimension relationnelle est appréciée en fonction des échanges, de la communication, de la négociation, de l'animation et de l'encadrement dans un environnement interne ou externe.
-
-Qualification requise |
-
-Nombre
-
-de points |
-
-Fournit les informations demandées. Rend compte de son activité. |
-
-1 |
-
-Explique à son interlocuteur les informations qu'il est chargé de transmettre et doit comprendre les informations qui lui sont transmises afin de les communiquer éventuellement à un tiers. |
-
-2 |
-
-Sans encadrement
-
-Explique des situations ou des décisions en s'appuyant sur ses connaissances dans son domaine. Met en place des coopérations avec d'autres domaines. |
+1 863,00 € |
 
 3 |
 
-Encadrement
+14 15 16 17 |
 
-Anime une équipe et régule les relations entre collaborateurs.
+Employés |
 
-Forme aux activités de base du domaine. |
-
-|
-
-Sans encadrement
-
-Diffuse ses connaissances dans son domaine et forme à des procédures ou des activités complexes.
-
-Réalise des négociations simples dans son domaine. |
+1 928,21 € |
 
 4 |
 
-Encadrement
+18 19 20 |
 
-Mobilise son équipe autour des objectifs de son activité.
+Agents de maîtrise |
 
-Forme à des procédures ou des activités complexes. |
-
-|
-
-Réalise des négociations complexes dans son domaine. Prend en charge la relation avec les partenaires décideurs en interne et en externe. |
+2 024,62 € |
 
 5 |
 
-Réalise des négociations sociales et/ou politiques pour l'organisme. |
+21 22 23 |
+
+Agents de maîtrise |
+
+2 146,09 € |
 
 6 |
 
-4. Critère de la technicité
+24 25 26 |
 
-Définition : la technicité est appréciée en fonction de la difficulté et la diversité des situations rencontrées dans l'emploi et le niveau de réflexion nécessaire pour effectuer des tâches ou prendre des décisions.
+Agents de maîtrise |
 
-Qualification requise |
+2 274,86 € |
 
-Nombre
+7 |
 
-de points |
+27 28 29 |
 
-Réalise des tâches simples demandant un apprentissage court. |
+Agents de maîtrise |
 
-1 |
+2 411,35 € |
 
-Réalise des tâches simples en combinant des opérations propres à son métier ou réalise des opérations qualifiées nécessitant une attention et une dextérité spécifiques. |
+8 |
 
-2 |
+30 31 32 |
 
-Applique une ou plusieurs techniques professionnelles et, le cas échéant, des techniques connexes.
+Cadres |
 
-Interprète les informations complémentaires qu'il réunit en vue d'opérer les adaptations nécessaires. |
+2 652,48 € |
 
-3 |
+9 |
 
-Tient compte des contraintes d'ordre technique, administratif, économique et financier pour adapter les instructions reçues aux situations.
+33 34 35 |
 
-Détermine les moyens d'action intégrant les données observées. |
+Cadres |
 
-4 |
+2 970,78 € |
 
-Conduit des études ou des projets transversaux en intégrant les contraintes techniques, administratives, économiques et financières. |
+10 |
 
-5 |
+36 37 38 |
 
-Supervise des études ou projets transversaux en intégrant les contraintes techniques, administratives, économiques et financières.
+Cadres |
 
-Élabore des solutions en réponse à des problèmes complexes transversaux et impactant la marche globale de l'organisme. |
+3 327,28 € |
 
-6 |
+11 |
 
-5. Critère des connaissances requises
+39 40 41 |
 
-Définition : les connaissances requises sont appréciées en fonction de l'ensemble des savoirs (savoir être et savoir-faire), des compétences et aptitudes requis pour occuper l'emploi, et non ceux détenus par l'individu, quel que soit leur mode d'acquisition : formation initiale, formation continue ou expérience professionnelle, que ceux-ci aient été sanctionnés ou non par un diplôme, un titre homologué ou une certification de qualification professionnelle (CQP).
+Cadres |
 
-Qualification requise |
+3 826,37 € |
 
-Nombre
+12 |
 
-de points |
+42 43 44 |
 
-Niveau de scolarité obligatoire ou pratique suffisante. |
+Cadres |
 
-1 |
+4 400,32 € |
 
-CAP ou BEP ou CQP ou diplôme équivalent ou niveau de connaissance équivalent acquis par l'expérience. |
+13 |
 
-2 |
+45 46 47 48 |
 
-Bac ou BT ou diplôme équivalent ou niveau de connaissance équivalent acquis par l'expérience. Connaissance d'une ou plusieurs techniques et connaissance fragmentaire de techniques connexes. |
+Cadres |
 
-3 |
+5 280,39 € |
 
-Bac + 2 ou diplôme équivalent ou niveau de connaissance équivalent acquis par l'expérience. Connaissances approfondies et large expérience recouvrant plusieurs techniques. |
+2.   Compte tenu de la période de transition prévue par les dispositions du point III du sous-chapitre III intitulé « Emplois et leurs classifications » du chapitre III intitulé « Relations de travail », le présent barème national des salaires minimums hiérarchiques n'est applicable, au niveau d'un organisme considéré, que sous réserve de la mise en œuvre effective de ce nouveau système de classification, qui devra intervenir au plus tard au 1er janvier 2026.
 
-4 |
+Durant cet intervalle, l'application de tout dispositif de correspondance ad hoc entre le système de classification temporairement maintenu au sein de l'organisme et le dispositif de classification commune retenu au sein de la branche issue de la fusion, notamment aux fins de détermination du salaire minimum hiérarchique applicable, est expressément exclu. En effet, la branche rappelle que la nouvelle méthode de cotation des postes repose sur un principe de réalisme lié aux caractéristiques des postes, ce qui exclut toute comparaison ou correspondance avec un autre système de classification.
 
-Bac + 4 ou diplôme équivalent ou niveau de connaissance équivalent acquis par l'expérience. |
+Dans le cadre des négociations annuelles de branche concernant les salaires qui auraient vocation à s'appliquer avant le 1er janvier 2026, les partenaires sociaux sont convenus de négocier :
 
-5 |
+– d'une part, le barème national des salaires minimums hiérarchiques déterminé sur la base de la nouvelle classification commune au sein de la branche ;
 
-Bac + 5 ou diplôme équivalent ou niveau de connaissance équivalent acquis par l'expérience. |
+– et, d'autre part, le barème des salaires minimums hiérarchiques afférent à chacun des anciens systèmes de classification jusqu'alors applicable au sein de chacune des branches préexistantes à l'arrêté de fusion du 16 novembre 2018.
 
-6 |
+Est seul applicable le barème des salaires minimums hiérarchiques afférent au système de classification effectivement en vigueur au sein de l'organisme, à l'exclusion de tout autre.
+
+3.   Le salarié qui n'aurait pas perçu le salaire minimum hiérarchique de branche visé par la présente annexe, a droit au rattrapage des montants non perçus, à compter de la date de mise en œuvre effective de la nouvelle classification dans son organisme.
+
+(1) L'annexe 1 relative au barème des salaires minimum hiérarchiques est étendue sous réserve de l'application du SMIC.
+
+(Arrêté du 10 juin 2025 - art. 1)
