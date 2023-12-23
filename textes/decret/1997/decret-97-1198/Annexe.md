@@ -1062,19 +1062,29 @@ Ministre chargé des transports |
 
 50 |
 
-(Supprimé) |
+Agrément des organismes de formation en sûreté portuaire.
 
-(Supprimé) |
+|
 
-(Supprimé) |
+Code des transports
+
+Article R. 5332-50
+
+|
+
+Ministre chargé des transports
+
+|
 
 51 |
 
-(Supprimé) |
+Suspension et retrait de l'agrément d'un organisme de formation en sûreté portuaire. |
 
-(Supprimé) |
+Code des transports
 
-(Supprimé) |
+Article R. 5332-53 |
+
+Ministre chargé des transports |
 
 52 |
 
