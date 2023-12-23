@@ -434,81 +434,121 @@ B |
 
 Adjoint au directeur de cabinet, directeur des sécurités
 
-Agent chargé du traitement de la paye au Haut-commissariat
-
-Adjoint au chef de la subdivision administrative Sud
-
-Adjoint au chef de la subdivision administrative Nord
-
-Adjoint au chef de la subdivision administrative des îles Loyauté
-
-Chef du centre de services partagés interministériel (CSPI)
-
-Directeur de l'action de l'Etat et de la coordination des politiques publiques
-
-Chef du bureau des ressources humaines
-
-Chef du bureau des affaires juridiques et des élections
-
-Chef du bureau de la représentation de l'Etat |
-
-A
-
-C
-
-A
-
-A
-
-A
-
-A
-
-A
-
-A
-
-A
+|
 
 A |
 
-20
+20 |
 
-10
+1 |
 
-20
+Directeur de l'action de l'Etat et de la coordination des politiques publiques
 
-20
+|
 
-20
+A |
 
-20
+20 |
 
-20
+1 |
 
-20
+Secrétaire général de subdivision administrative
 
-10
+|
+
+A |
+
+15 |
+
+3 |
+
+Chef du bureau des ressources humaines
+
+|
+
+A |
+
+15 |
+
+1 |
+
+Chef du bureau du conseil et du contentieux
+
+|
+
+A |
+
+15 |
+
+1 |
+
+Chef du bureau de l'action interministérielle
+
+|
+
+A |
+
+15 |
+
+1 |
+
+Chef du bureau des moyens
+
+|
+
+A |
 
 10 |
 
-1
+1 |
 
-3
+Chef du centre de services partagés interministériel (CSPI)
 
-1
+|
 
-1
+A |
 
-1
+10 |
 
-1
+1 |
 
-1
+Chef du bureau des contrats de développement et des interventions financières
 
-1
+|
 
-1
+A |
+
+10 |
+
+1 |
+
+Chef du bureau de la représentation de l'Etat
+
+|
+
+A |
+
+10 |
+
+1 |
+
+Chef du service numérique
+
+|
+
+A |
+
+10 |
+
+1 |
+
+Responsable de la section rémunérations
+
+|
+
+B |
+
+10 |
 
 1 |
 
