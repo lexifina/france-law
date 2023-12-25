@@ -2,16 +2,88 @@
 
 NORMES D'APTITUDE MÉDICALE REQUISES DES RÉSERVISTES OPÉRATIONNELS DE LA GENDARMERIE NATIONALE
 
-Corps, statut d'appartenance ou formation concernée |
+Emploi |
 
-Conditions médicales requises des candidats civils pour la souscription d'un engagement à servir dans la réserve (ESR) |
+Profil médical requis |
 
-Conditions médicales requises en cours de contrat pour le renouvellement d'un ESR ou la souscription d'un ESR par un ancien militaire |
+Critères complémentaires |
 
-Réserviste opérationnel |
+|
 
-Le candidat civil doit présenter les conditions médicales requises pour les candidats à l'admission servant dans le corps auquel il est rattaché (annexe I)*. |
+S |
 
-Le réserviste opérationnel, ou l'ancien militaire candidat à la souscription d‘un ESR, doit présenter les conditions médicales requises pour les militaires en cours de carrière servant dans le corps auquel il est rattaché (annexe III)*. |
+I |
 
-* Pour le réserviste militaire du rang, application du SIGYCOP du corps des SOG.
+G |
+
+Y |
+
+C |
+
+O |
+
+P |
+
+|
+
+Souscription ou renouvellement d'un engagement à servir dans la réserve (ESR) pour un emploi emportant l'exercice de missions opérationnelles |
+
+3 |
+
+3 |
+
+3 |
+
+5 |
+
+4 |
+
+3 |
+
+2 |
+
+-Absence de contre-indication au port et à l'usage de l'arme de dotation individuelle ;
+
+-Absence de contre-indication à la conduite de véhicules légers ;
+
+-Absence de contre-indication au service externe de jour comme de nuit.
+
+|
+
+Souscription ou renouvellement d'un engagement à servir dans la réserve (ESR) souscrit au titre de l'article L4221-3 du code de la défense et pour un emploi emportant l'exercice de missions opérationnelles |
+
+3 |
+
+3 |
+
+3 |
+
+5 |
+
+4 |
+
+3 |
+
+2 |
+
+Souscription ou renouvellement d'un engagement à servir dans la réserve (ESR) pour un emploi n'emportant pas l'exercice de missions opérationnelles |
+
+4 |
+
+4 |
+
+4 |
+
+5 |
+
+4 |
+
+4 |
+
+2 |
+
+Absence de contre-indication à l'emploi |
+
+Souscription ou renouvellement d'un engagement à servir dans la réserve (ESR) souscrit au titre de l'article L4221-3 du code de la défense et pour un emploi n'emportant pas l'exercice de missions opérationnelles |
+
+Pas de profil médical spécifique |
