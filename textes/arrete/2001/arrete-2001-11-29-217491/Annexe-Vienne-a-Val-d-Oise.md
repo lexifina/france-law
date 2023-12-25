@@ -206,45 +206,27 @@ B
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (1) du territoire de Belfort
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES DU TERRITOIRE DE BELFORT
 
-FONCTIONS EXERCÉES
+Fonction exercée |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification de l'emploi
+Nombre
 
-|
+d'emplois |
 
-NOMBRE
+Nombre de points (IM) par emploi |
 
-d'emplois
+Chef de la cellule politiques sociales du logement et suivi des bailleurs-Service habitat et urbanisme |
 
-|
+A |
 
-NOMBRE DE POINTS (IM)
+1 |
 
-par emploi
-
-|
-
-Chargé de mission politique sociale du logement
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
+20 |
 
 Direction départementale des territoires de l'Essonne
 
@@ -819,3 +801,5 @@ Conformément à l'article 1er de l'arrêté du 26 février 2019 (TREK1905850A),
 Conformément à l'article 1er de l'arrêté du 5 mai 2022 (NOR : TERK2213530A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Essonne entrent en vigueur à effet du 1er janvier 2021.
 
 Conformément à l'article 1er de l'arrêté du 23 novembre 2023 (NOR : TREK2332065A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Val-d'Oise, prennent effet à la date de signature dudit acte.
+
+Conformément à l'article 1er de l'arrêté du 21 décembre 2023 (NOR : TREK2335229A), la présente annexe est remplacée pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Territoire de Belfort, par les dispositions de l'annexe dudit arrêté, prenant effet à la date de signature dudit acte.
