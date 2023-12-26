@@ -1,0 +1,11 @@
+# COMMUNE DE GOURIN : délibération 2023_2DECASS_CO — DECISION DEC2023-2 ASSAINISSEMENT COLLECTIF RENOUVELLEMENT RESEAUX EU RUE DE LA LIBERATION ET RUE DE GOASVEN
+
+- Collectivité : COMMUNE DE GOURIN
+- SIRET : 21560066900018
+- Code INSEE : 56066
+- Date : 2023-12-26
+- Matière : 1.1 Commande Publique/Marches publics
+- Objet : DECISION DEC2023-2 ASSAINISSEMENT COLLECTIF RENOUVELLEMENT RESEAUX EU RUE DE LA LIBERATION ET RUE DE GOASVEN
+- Transmis à la préfecture : 2024-01-08 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/215600669/Deliberation/2023/551690/8a1ebf1022749f92768ccce72270ffcc2abe829553ad545ceb4993571d0b3670.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
