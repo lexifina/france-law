@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802356
+
+- Question : [SEQ220802356](seq220802356.md) — Nature de l'activité de l'entreprise Sorare
+
+## Réponse
+
+*Comptes publics, JO du 2023-12-28, page 7122*
+
+Conformément à la loi relative à la croissance et à la transformation des entreprises du 22 mai 2019 et à l'ordonnance du 2 octobre 2019 réformant la régulation des jeux d'argent et de hasard, la régulation de ce secteur relève de l'Autorité nationale des jeux. L'activité de jeu de l'entreprise SORARE a ainsi été contrôlée par l'Autorité nationale des jeux. À l'issu de ce contrôle, l'Autorité a demandé à l'entreprise de modifier son offre de jeu avant la fin du mois de mars 2023. L'entreprise a proposé une solution, qui s'appuie sur une possibilité offerte par le droit positif, en renforçant l'accès gratuit à ces tournois. Cette solution doit permettre aux joueurs titulaires de cartes gratuites de participer à l'ensemble des tournois, y compris ceux réservés aux titulaires de cartes payantes, et garantir ainsi une stricte égalité de chances de gains entre tous les participants. Cette solution a été acceptée par l'Autorité dans l'attente d'une évolution législative visant à encadrer ces nouvelles activités de jeu proposant des objets de jeu numériques monétisables. À cet égard, le projet de loi visant à sécuriser l'espace numérique, actuellement en discussion au Parlement, inclut en ses articles 15 et 15 bis des dispositions définissant les jeux à objets numériques monétisables (JONUM) autorisés à titre expérimental pour trois ans et fixant un encadrement strict de ces activités de jeu émergentes notamment en interdisant l'accès au jeu aux mineurs et intégrant des obligations pour prévenir le jeu excessif et pathologique, la fraude, le blanchiment de capitaux et le financement du terrorisme.
