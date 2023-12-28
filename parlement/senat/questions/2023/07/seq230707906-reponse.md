@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230707906
+
+- Question : [SEQ230707906](seq230707906.md) — Modalités d'affectation des lauréats du concours de professeurs des écoles
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2023-12-28, page 7128*
+
+Le volume des postes offerts aux concours de recrutement des professeurs du premier degré public est déterminé dans le respect des emplois votés en loi de finances au regard d'un certain nombre de critères, tels que les prévisions d'effectifs d'élèves et le nombre de départs à la retraite dans chaque académie. Le ministre procède à la répartition des postes par académie de recrutement sur la base d'une projection des besoins de chacune d'entre elles. Le concours de recrutement des professeurs du premier degré étant un concours académique, le recteur est, dans un second temps, chargé de l'affectation des lauréats dans un département et au sein d'un établissement. Dans l'académie de Grenoble, 450 postes ont été ouverts à la session 2023. Tous les postes ont été pourvus. Une liste complémentaire de 65 candidats a été constituée et tous les candidats inscrits sur cette liste ont été appelés. Conformément à l'article 10 du décret n° 2023-636 du 20 juillet 2023 modifiant le statut particulier des professeurs des écoles, les lauréats ont été affectés par le recteur de l'académie dans un département en tenant compte des caractéristiques des postes offerts, de l'adéquation des parcours universitaires et professionnels des lauréats et des formations dispensées dans chaque département ainsi que des voeux des intéressés et de l'ordre de leur classement aux concours. Le nombre de lauréats affectés dans le département de Haute-Savoie est par ailleurs limité par les capacités d'accueil de l'INSPE (30 places). Suite aux résultats d'affectations, une étude des situations individuelles sensibles a été menée. Elle a permis de répondre favorablement à quatre demandes de révision d'affectation.
