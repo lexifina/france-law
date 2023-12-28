@@ -444,7 +444,7 @@ IV. ― France Télévisions consacre chaque année au moins 20 % de son chiffre
 
 Cette contribution est intégralement réalisée dans des œuvres patrimoniales énumérées à la première phrase du deuxième alinéa du 3° de l'article 27 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
-Pour l'exercice 2022, elle ne peut être inférieure annuellement à 420 millions d'euros, ce montant incluant les dépenses dans les œuvres documentaires ayant fait l'objet d'un contrat avec les antennes régionales de France 3, Via Stella ou les Outre-mer La 1ère.
+Elle ne peut être inférieure annuellement à 420 millions d'euros, ce montant incluant les dépenses dans les œuvres documentaires ayant fait l'objet d'un contrat avec les antennes régionales de France 3, Via Stella ou les Outre-mer La 1ère.
 
 Au titre de la diversité des investissements par genre d'œuvres, France Télévisions s'engage à investir au moins les montants suivants :
 
@@ -486,11 +486,17 @@ Pour la part de la contribution consacrée au développement de la production in
 
 -l'exploitation des droits de diffusion de l'œuvre à l'issue de la période initiale des droits de diffusion qui lui ont été cédés.
 
-En 2022 en outre, la société ne détient pas de mandats de commercialisation des œuvres pour lesquelles elle acquiert les droits mentionnés au 1° du I de l'article 5 du décret n° 2021-1926 du 30 décembre 2021.
+En 2023 en outre, s'agissant des œuvres pour lesquelles la société acquiert les droits mentionnés au 1° du I de l'article 5 du décret du 30 décembre 2021 précité, sans détenir de parts de producteur, auprès de producteurs qui ne disposent pas pour les œuvres en cause d'une capacité de distribution, interne ou par l'intermédiaire d'une de leurs filiales ou d'une filiale des sociétés qui les contrôlent au sens du 2° de l'article 41-3 de la loi du 30 septembre 1986 susvisée, ou d'un accord-cadre conclu avec une entreprise de distribution, la société applique les conditions figurant en annexe relatives à la négociation des mandats de commercialisation et des droits secondaires.
 
 France Télévisions peut procéder à une multidiffusion supplémentaire sur ses services régionaux et locaux de télévision diffusés en outre-mer correspondant à un passage sur chacun de ces services.
 
 Pour l'application du 3° du II de l'article 21 du décret n° 2021-1926 du 30 décembre 2021 précité, le pourcentage minimum de financement du devis de production d'une œuvre, quel qu'en soit le genre, est fixé à 60 %. Dans ce cas, le calcul du droit à recettes au profit de France Télévisions respecte les règles de l'accord sur la transparence des comptes et des remontées de recettes en matière de production audiovisuelle du 19 février 2016 ou de tout accord qui lui serait substitué.
+
+Article 9-1
+
+Conditions d'accès des ayants droit aux données de diffusion de leurs œuvres.
+
+Conformément aux dispositions légales, réglementaires et contractuelles qui lui sont applicables, notamment des obligations d'information et de transparence, France Télévisions assure un accès des ayants droit aux données d'exploitation de leurs œuvres. Elle s'engage à fournir aux sociétés de gestion collective représentant les auteurs et régies par le droit français tous les éléments pertinents pour l'identification des œuvres faisant l'objet d'une diffusion sur ses services de télévision ou d'une mise à disposition sur ses services de médias audiovisuels à la demande, dans un format numérique structuré et ouvert. Si elle dispose d'un numéro d'identification externe de l'œuvre relevant d'une norme internationale (numéro ISAN, IDA, EIDR), elle en assure également la communication dans son intégralité et dans les mêmes conditions aux sociétés de gestion collective. De même, ces données leur sont fournies selon une périodicité adaptée à la répartition des droits et peuvent être communiquées à chaque auteur pour ce qui concerne ses œuvres par la société de gestion collective dont il est membre.
 
 Article 10
 
@@ -890,15 +896,41 @@ Article 38
 
 L'accès des programmes aux personnes handicapées
 
-Dans les conditions définies par son contrat d'objectifs et de moyens, France Télévisions rend accessibles l'ensemble des programmes de ses services de télévision aux personnes handicapées sous réserve des dérogations justifiées par les caractéristiques de certains d'entre eux et porte une attention particulière à l'accessibilité des programmes d'information, en particulier ceux diffusés par le service de télévision Franceinfo, par le recours à la traduction en langue des signes et au sous-titrage adapté.
+I.-France Télévisions rend accessibles les programmes de ses services de télévision aux personnes sourdes ou malentendantes dans les conditions suivantes.
 
-Elle adapte les conditions de diffusion des programmes aux difficultés des personnes sourdes ou malentendantes.
+La totalité des programmes de France 2, France 3, France 4 et France 5 est accessible, à l'exception des messages publicitaires, des mentions de parrainage, des chansons interprétées en direct, des bandes annonces, des compétitions sportives retransmises en direct entre minuit et 6 heures du matin et des programmes régionaux et locaux.
 
-Elle diffuse des programmes accessibles aux personnes aveugles ou malvoyantes, dans les conditions prévues par le contrat d'objectifs et de moyens.
+Franceinfo diffuse quotidiennement au moins six heures de programmes accessibles réparties entre la matinée, l'après-midi et la soirée, dont trois éditions d'information traduites en langue des signes. Toutefois, le nombre d'éditions traduites en langue des signes est fixé à deux en 2023.
 
-Elle veille de manière générale à la qualité des moyens d'accessibilité qu'elle met en œuvre.
+En outre, France Télévisions s'efforce de développer, en concertation avec les associations de personnes sourdes ou malentendantes, un outil visant à rendre accessible la totalité des programmes de Franceinfo lors de leur reprise intégrale et simultanée sur internet.
+
+II.-France Télévisions rend accessibles les programmes de ses services de télévision aux personnes aveugles ou malvoyantes dans les conditions suivantes.
+
+France Télévisions diffuse chaque année au moins 1 500 heures de programmes audiodécrits, dont les deux tiers au moins sont diffusés aux jours et heures mentionnés au premier alinéa du III de l'article 9 du présent cahier des charges. Toutefois, ce volume est fixé à 1 300 heures en 2023 et 1 400 heures en 2024.
+
+La société s'efforce de diversifier les genres de programmes audiodécrits et de proposer en particulier des programmes à destination des enfants et des adolescents.
+
+III.-France Télévisions rend accessibles les programmes de ses services de médias audiovisuels à la demande aux personnes sourdes ou malentendantes et aux personnes aveugles ou malvoyantes dans les conditions suivantes.
+
+L'ensemble des programmes des services de télévision accessibles aux personnes sourdes ou malentendantes ou aux personnes aveugles ou malvoyantes sont également rendus accessibles lorsqu'ils sont proposés par un service de médias audiovisuels à la demande édité par France Télévisions.
+
+Lorsque France Télévisions conclut un accord de distribution de ses services de médias audiovisuels à la demande, elle propose aux distributeurs la reprise de l'accessibilité aux personnes sourdes ou malentendantes et aux personnes aveugles ou malvoyantes.
+
+France Télévisions rend également accessible, respectivement à destination des personnes sourdes ou malentendantes et des personnes aveugles ou malvoyantes, une part des programmes qu'elle finance au titre de la contribution à la production d'œuvres audiovisuelles prévue au IV de l'article 9 du présent cahier des charges et dont les contrats prévoient, au jour de la prise en compte des dépenses par l'Autorité de régulation de la communication audiovisuelle et numérique, qu'ils sont destinés exclusivement à une exploitation sur un service de médias audiovisuels à la demande. Cette part est fixée à :
+
+-au moins 20 % pour l'accessibilité des programmes à destination des personnes sourdes ou malentendantes ;
+
+-au moins 20 heures pour l'accessibilité des programmes à destination des personnes aveugles ou malvoyantes.
+
+Pour tout nouveau programme introduit dans le catalogue de l'un de ses services, France Télévisions reprend sur ce service, lorsqu'ils existent et que la société en dispose, les dispositifs d'accessibilité existants.
+
+IV.-France Télévisions veille à la qualité des moyens d'accessibilité qu'elle met en œuvre et à la diversité des genres de programmes accessibles aux personnes aveugles ou malvoyantes.
 
 A ces fins, elle développe une concertation étroite avec les associations représentatives des personnes handicapées.
+
+Elle veille à ce que les sous-titres mis à disposition sur ses services soient conformes à la charte de l'Autorité de régulation de la communication audiovisuelle et numérique relative à la qualité du sous-titrage à destination des personnes sourdes ou malentendantes. De même, elle veille au respect de la charte de l'Autorité relative à la qualité pour l'usage de la langue des signes dans les programmes télévisés. En outre, elle veille à la bonne qualité de l'audiodescription. A cet effet, elle se réfère aux principes figurant dans le guide de bonnes pratiques rédigé par les auteurs d'audiodescription et la Confédération française pour la promotion sociale des aveugles et amblyopes, sous l'égide de l'Autorité.
+
+Elle s'assure également de l'accessibilité aux personnes aveugles ou malvoyantes de l'interface permettant la navigation dans le catalogue de programmes de ses services et rend compte à l'Autorité des dispositifs mis en place à cet effet.
 
 Article 39
 
@@ -913,6 +945,12 @@ Article 40
 L'expression des langues régionales
 
 France Télévisions veille à ce que, parmi les services qu'elle édite, ceux qui proposent des programmes régionaux et locaux contribuent à l'expression des principales langues régionales parlées sur le territoire métropolitain et en outre-mer.
+
+Article 40-1
+
+Propriété intellectuelle.
+
+France Télévisions respecte la législation française en matière de propriété intellectuelle.
 
 Article 41
 
