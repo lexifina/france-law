@@ -1,8 +1,8 @@
-# Article LEGIARTI000042630060
+# Article Annexe 2
 
-ANNEXE 2
+(à compléter pour les nouvelles demandes)
 
-PROJET PROFESSIONNEL
+Projet professionnel
 
 1. Renseignements généraux
 
@@ -16,13 +16,17 @@ Prénom :
 
 Avez-vous déjà eu un permis de pêche à pied ?
 
-oui non
+oui
+
+non
 
 Si oui, préciser les éléments suivants pour les 3 dernières années où vous avez eu un permis (si nécessaire compléter sur papier libre) :
 
 Année |
 
-Département (avant 2011) |
+Département
+
+(avant 2011) |
 
 Principale espèce pêchée
 
@@ -31,76 +35,6 @@ Principale espèce pêchée
 Autres espèces pêchées
 
 (Préciser le volume en kg) |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Avez-vous eu une activité professionnelle de pêche à pied sans permis (activité avant 2001 ou de récolte de végétaux marins) ?
-
-Année |
-
-Lieu |
-
-Principale espèce pêchée
-
-(Préciser le volume en kg) |
-
-Autres espèces pêchées
-
-(Préciser le volume en kg) |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -128,6 +62,10 @@ Autres espèces pêchées
 
 Avez-vous suivi une formation spécifique concernant les coquillages ou la manipulation des produits de la pêche ?
 
+oui
+
+non
+
 Si oui, indiquez le type de formation suivie ainsi que la date :
 
 3. Activité envisagée
@@ -143,54 +81,6 @@ Engin/technique utilisés |
 Volume envisagé
 
 (en Kg) |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
