@@ -362,7 +362,9 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 11° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 
-12° Toute pièce justificative d'un financement public ou privé.
+12° Toute pièce justificative d'un financement public ou privé ;
+
+13° Tout justificatif de versement de rémunération à l’auteur, signé par ce dernier.
 
 II. - Animation :
 
@@ -392,7 +394,9 @@ c) Le détail de toutes les prestations (personnels et moyens techniques) ;
 
 10° Le cas échéant, le ou les contrats de développement du ou des éditeurs de services de télévision ou de services de médias audiovisuels à la demande et leurs annexes ;
 
-11° Toute pièce justificative d'un financement public ou privé.
+11° Toute pièce justificative d'un financement public ou privé ;
+
+12° Tout justificatif de versement de rémunération à l'auteur, signé par ce dernier.
 
 III. - Documentaire de création :
 
@@ -424,7 +428,9 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 11° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 
-12° Toute pièce justificative d'un financement public ou privé.
+12° Toute pièce justificative d'un financement public ou privé ;
+
+13° Tout justificatif de versement de rémunération à l'auteur, signé par ce dernier.
 
 IV. - Adaptation audiovisuelle de spectacle vivant :
 
@@ -456,7 +462,9 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 11° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 
-12° Toute pièce justificative d'un financement public ou privé.
+12° Toute pièce justificative d'un financement public ou privé ;
+
+13° Tout justificatif de versement de rémunération à l'auteur, signé par ce dernier.
 
 III-2. Aides financières sélectives à la production et à la préparation des œuvres audiovisuelles
 
@@ -942,7 +950,9 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 13° Toute pièce justificative d'un financement public ou privé ;
 
-14° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-8.
+14° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-8 ;
+
+15° Tout justificatif de versement de rémunération à l'auteur, signé par ce dernier.
 
 II. - Animation :
 
@@ -976,7 +986,9 @@ c) Le détail de toutes les prestations (personnels et moyens techniques) ;
 
 12° Toute pièce justificative d'un financement public ou privé ;
 
-13° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-8.
+13° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-8 ;
+
+14° Tout justificatif de versement de rémunération à l'auteur, signé par ce dernier.
 
 III. - Documentaire de création :
 
@@ -1012,7 +1024,9 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 13° Toute pièce justificative d'un financement public ou privé ;
 
-14° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-8.
+14° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-8 ;
+
+15° Tout justificatif de versement de rémunération à l'auteur, signé par ce dernier.
 
 IV. - Adaptation audiovisuelle de spectacle vivant :
 
@@ -1050,7 +1064,9 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 14° Toute pièce justificative d'un financement public ou privé ;
 
-15° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-8.
+15° En cas d'apport initial d'un éditeur de services de médias audiovisuels à la demande établi en France, une attestation de cet éditeur certifiant que son chiffre d'affaires est supérieur ou égal au seuil fixé au a du 2° de l'article 311-8 ;
+
+16° Tout justificatif de versement de rémunération à l'auteur, signé par ce dernier.
 
 III-2.3. Documents justificatifs à joindre à l'appui d'une demande d'aide spécifique à la production de vidéomusiques
 
@@ -1126,7 +1142,7 @@ I. - Fiction :
 
 A. - Dossier administratif :
 
-1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) ;
+1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) et, le cas échéant, du ou des collaborateurs ;
 
 2° Si le scénario est tiré d'une œuvre préexistante, indiquer le titre, l'auteur et l'éditeur et joindre une lettre du détenteur des droits autorisant cette adaptation ;
 
@@ -1146,7 +1162,7 @@ d) Lorsqu'une aide à l'écriture est demandée, des éléments de synopsis (sur
 
 e) Le cas échéant, pour les séries de formats courts, un épisode dialogué ;
 
-f) Lorsqu'une aide au concept est demandée avec un ou plusieurs collaborateurs, une note sur le développement du projet, précisant les besoins liés à la demande d'aide (documentation, consultations, élaboration d'une pré-bible, etc.) ;
+f) Lorsqu'une aide à l'écriture est demandée avec un ou plusieurs collaborateurs, une note précisant le cadre et les objectifs de la collaboration ;
 
 g) Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation ;
 
@@ -1158,7 +1174,7 @@ b) La présentation du ou des personnages principaux ;
 
 c) Lorsqu'une aide à l'écriture est demandée, un synopsis avec des précisions sur la structure dramatique envisagée ;
 
-d) Lorsqu'une aide au concept est demandée avec un ou plusieurs collaborateurs, une note sur le développement du projet, précisant les besoins liés à la demande d'aide (documentation, consultations, élaboration d'une pré-bible, etc.) ;
+d) (Supprimé) ;
 
 e) Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation.
 
@@ -1176,13 +1192,13 @@ c) La photocopie d'une pièce d'identité en cours de validité des auteurs ;
 
 2° Dossier artistique anonymisé :
 
-a) Une note d'intention des auteurs littéraires et graphiques décrivant les choix artistiques et les enjeux créatifs liés à l'écriture du projet ;
+a) Une note d'intention des auteurs littéraires ou graphiques décrivant les choix artistiques et les enjeux créatifs liés à l'écriture du projet ;
 
 b) Une note sur le développement du projet, précisant notamment les besoins liés à la demande d'aide au concept (documentation, consultation(s), élaboration d'une pré-bible, etc.) ;
 
-c) Une courte présentation des personnages ainsi qu'un aperçu du graphisme pour tous les formats ;
+c) Une courte présentation des personnages et, le cas échéant, un aperçu du graphisme pour tous les formats ;
 
-d) Un très court synopsis pour les unitaires - courts métrages ou spéciaux - et un concept détaillé pour les séries présentant succinctement la structure dramatique envisagée pour les épisodes en quelques situations-type ou pitchs ;
+d) Un très court synopsis pour les unitaires - courts métrages ou spéciaux - et un concept détaillé pour les séries présentant succinctement, le cas échéant, la structure dramatique envisagée pour les épisodes en quelques situations-type ou pitchs ;
 
 e) Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation.
 
@@ -1190,7 +1206,7 @@ B. - Aide à l'écriture :
 
 1° Dossier administratif :
 
-a) Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) ;
+a) Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) et, le cas échéant, du ou des collaborateurs ;
 
 b) Si le scénario est tiré d'une œuvre préexistante, indiquer le titre, l'auteur et l'éditeur et joindre une lettre du détenteur des droits autorisant cette adaptation ;
 
@@ -1210,7 +1226,9 @@ d) Le synopsis ou storyboard d'un épisode, et le cas échéant, quelques courts
 
 e) Des éléments graphiques sur les personnages et décors principaux ;
 
-f) Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation.
+f) Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation ;
+
+g) Lorsqu'une aide à l'écriture est demandée avec un ou plusieurs collaborateurs, une note précisant le cadre et les objectifs de la collaboration.
 
 Pour les unitaires (spéciaux/court métrage) :
 
@@ -1225,6 +1243,32 @@ d) Le synopsis ou storyboard faisant apparaître clairement la structure dramati
 e) Des éléments graphiques sur les personnages et décors principaux
 
 f) Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation.
+
+III. - Série de documentaires de création
+
+A. - Dossier administratif :
+
+1° Les justificatifs de formation et d'expérience du ou des auteurs et, le cas échéant, du ou des collaborateurs ;
+
+2° Lorsque le projet de série est tiré d'une œuvre préexistante, l'indication du titre, de l'auteur et, le cas échéant, de l'éditeur, ainsi qu'une lettre du titulaire des droits autorisant le projet d'adaptation audiovisuelle de l'œuvre ;
+
+3° La photocopie d'une pièce d'identité en cours de validité du ou des auteurs ;
+
+B. - Dossier artistique :
+
+1° Une présentation détaillée du projet de série (point de vue, personnages, format, thème, moteur sériel) ;
+
+2° Un synopsis du premier épisode ou des éléments d'arches narratifs ;
+
+3° Une présentation des intentions sur la direction artistique de la série ;
+
+4° Une note détaillée présentant les motivations du ou des auteurs du projet de série, la méthodologie de travail envisagée pour la création de la série, les besoins liés à la demande (axes d'écriture à développer explicitant les futures pistes d'écriture, documentation, consultations d'experts spécialisés, volonté de monter un atelier d'écriture, recherche de coauteurs, etc.) et les partenaires envisagés à terme ;
+
+5° Lorsque le projet de série est tiré d'une œuvre préexistante, une note détaillant les partis pris d'adaptation ;
+
+6° Lorsque le projet de série envisage une dimension internationale, une description des axes de travail prévus à cette fin (pays partenaires, coauteurs internationaux, etc.) ;
+
+7° Lorsqu'une aide à l'écriture est demandée avec un ou plusieurs collaborateurs, une note précisant le cadre et les objectifs de la collaboration.
 
 III-3.2. Documents justificatifs à joindre à l'appui d'une demande d'aide à la coécriture de projets de coproductions internationales d'œuvres audiovisuelles de fiction
 
@@ -1252,81 +1296,29 @@ II. - Dossier artistique :
 
 6° Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation.
 
-III-3.3. Documents justificatifs à joindre à l'appui d'une demande d'aide à la réécriture
+III - 3.3. Documents justificatifs à joindre à l'appui d'une demande d'aide à la création de série de fiction
 
 (Articles 312-28 et suivants)
 
-I. - Fiction :
-
 A. - Dossier administratif :
 
-1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) du ou des collaborateurs ;
+1° Les justificatifs d'expérience du ou des auteurs ;
 
-2° Lorsque le projet est tiré d'une œuvre préexistante, l'indication du titre, de l'auteur et, le cas échéant, de l'éditeur, ainsi qu'une lettre du titulaire des droits autorisant le projet d'adaptation audiovisuelle de l'œuvre ;
+2° Lorsque le projet de série est tiré d'une œuvre préexistante, l'indication du titre, de l'auteur et, le cas échéant, de l'éditeur, ainsi qu'une lettre du titulaire des droits autorisant le projet d'adaptation audiovisuelle de l'œuvre ;
 
-3° Lorsqu'un collaborateur est un producteur, le contrat d'option à titre onéreux entre le(s) auteur(s) et le producteur ;
-
-4° La photocopie d'une pièce d'identité en cours de validité des auteurs.
+3° La photocopie d'une pièce d'identité en cours de validité du ou des auteurs ;
 
 B. - Dossier artistique :
 
-1°. Pour les projets d'œuvres unitaires :
+1° Une présentation détaillée du projet de série (arène, personnages, point de vue, format, genre, conflits, thème, moteur sériel) ;
 
-a) Une note conjointe des auteurs et du ou des collaborateurs précisant leur qualité (scénariste, auteur-réalisateur ou producteur) et présentant les axes et les enjeux de la réécriture du projet ;
+2° Une présentation des intentions sur la direction artistique de la série ;
 
-b) Une grille des soixante séquences dramatiques principales, résumées en une ligne ou un traitement faisant clairement apparaître la structure dramatique ;
+3° Une note détaillée présentant les motivations du ou des auteurs du projet de série, la méthodologie de travail envisagée pour la création de la série, les besoins liés à la demande (documentation, consultations d'experts spécialisés, volonté de monter un atelier d'écriture, recherche de coauteurs, etc.) et les partenaires envisagés à terme ;
 
-c) Au minimum trente à quarante pages dialoguées consécutives ;
+4° Lorsque le projet de série est tiré d'une œuvre préexistante, une note détaillant les partis pris d'adaptation ;
 
-d) Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation ;
-
-2°. Pour les projets de séries :
-
-a) Une note conjointe des auteurs et du ou des collaborateurs précisant leur qualité (scénariste, auteur-réalisateur ou producteur) ainsi que les axes et les enjeux de réécriture du projet ;
-
-b) La pré-bible de la série (concept, personnages, etc.) ;
-
-c) La version dialoguée du pilote ou d'un épisode-type de la série ou pour les séries de formats courts, une éventuelle maquette d'un épisode type et au minimum cinq exemples d'épisodes (versions dialoguées) ;
-
-d) Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation.
-
-II. - Animation :
-
-A. - Dossier administratif :
-
-1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) et du ou des collaborateurs ;
-
-2° Lorsqu'un collaborateur est un producteur, le contrat d'option à titre onéreux entre le(s) auteur(s) et le producteur ;
-
-3° Lorsque le projet est tiré d'une œuvre préexistante, l'indication du titre, de l'auteur et, le cas échéant, de l'éditeur, ainsi qu'une lettre du titulaire des droits autorisant le projet d'adaptation audiovisuelle de l'œuvre ;
-
-4° La photocopie d'une pièce d'identité en cours de validité des auteurs.
-
-B. - Dossier artistique :
-
-1° Pour les projets d'œuvres unitaires (spéciaux/courts métrages) :
-
-a) Une note conjointe des auteurs littéraires et graphiques et du ou des collaborateurs précisant leur qualité (scénariste, auteur-graphique, réalisateur ou producteur) et présentant les axes et les enjeux de la réécriture du projet ;
-
-b) La pré-bible graphique (personnages, décors, etc.) ;
-
-c) Un traitement faisant clairement apparaître la structure dramatique ;
-
-d) Au minimum un tiers du film dialogué et/ou storyboardé ;
-
-e) Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation ;
-
-2° Pour les projets de séries :
-
-a) Une note conjointe des auteurs littéraires et graphiques et du ou des collaborateurs précisant leur qualité (scénariste, auteur graphique, réalisateur ou producteur) ainsi que les axes et les enjeux de réécriture du projet ;
-
-b) Le concept détaillé ;
-
-c) La pré-bible littéraire et graphique ;
-
-d) La version dialoguée et/ou storyboardée du pilote ou d'un épisode-type de la série ainsi que les pitchs ;
-
-e) Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette œuvre et la teneur du projet d'adaptation.
+5° Lorsque le projet de série envisage une dimension internationale, une description des axes de travail prévus à cette fin (langue envisagée, pays partenaires, coauteurs internationaux, etc.).
 
 III-3.4. Documents justificatifs à joindre à l'appui d'une demande d'aide au développement de projets
 
@@ -1336,7 +1328,7 @@ I - Fiction :
 
 A. - Dossier administratif :
 
-1° La ou les notifications du Centre national du cinéma et de l'image animée relatives à l'attribution préalable d'une aide à la création ou d'une aide à la réécriture ;
+1° Le cas échéant, la ou les notifications du Centre national du cinéma et de l'image animée relatives à l'attribution préalable d'une aide au concept, à l'écriture ou à la création de série ;
 
 2° Lorsque le projet est tiré d'une œuvre préexistante, l'indication du titre, de l'auteur et, le cas échéant, de l'éditeur, ainsi qu'une lettre du titulaire des droits autorisant le projet d'adaptation audiovisuelle de l'œuvre ;
 
@@ -1348,7 +1340,9 @@ A. - Dossier administratif :
 
 6° Les contrats d'auteurs conclus avec l'entreprise de production (contrats d'option au minimum) ;
 
-7° En cas de demande conjointe, le contrat de coproduction déléguée établi entre les entreprises de production.
+7° En cas de demande conjointe, le contrat de coproduction déléguée établi entre les entreprises de production ;
+
+8° Tout justificatif de versement de rémunération à l'auteur, signé par ce dernier.
 
 B. - Dossier artistique :
 
@@ -1388,7 +1382,7 @@ II - Animation :
 
 A. - Dossier administratif :
 
-1° Le cas échéant, la ou les notifications du Centre national du cinéma et de l'image animée liées à l'attribution préalable d'une aide à la création ou d'une aide à la réécriture ;
+1° Le cas échéant, la ou les notifications du Centre national du cinéma et de l'image animée liées à l'attribution préalable d'une aide au concept ou à l'écriture ;
 
 2° Lorsque le projet est tiré d'une œuvre préexistante, l'indication du titre, de l'auteur et, le cas échéant, de l'éditeur, ainsi qu'une lettre du titulaire des droits autorisant le projet d'adaptation audiovisuelle de l'œuvre ;
 
@@ -1400,7 +1394,9 @@ A. - Dossier administratif :
 
 6° Les contrats d'auteurs littéraires et graphiques établis avec l'entreprise de production (contrats d'option au minimum) ;
 
-7° En cas de demande conjointe, le contrat de coproduction déléguée établi entre les entreprises de production.
+7° En cas de demande conjointe, le contrat de coproduction déléguée établi entre les entreprises de production ;
+
+8° Tout justificatif de versement de rémunération à l'auteur, signé par ce dernier.
 
 B. - Dossier artistique :
 
@@ -1441,6 +1437,104 @@ a) Le concept détaillé ;
 b) Une pré-bible littéraire et graphique ;
 
 c) La version dialoguée et/ou storyboardée du pilote ou d'un épisode-type de la série ainsi que les pitchs.
+
+III. - Série de documentaires de création
+
+A. - Dossier administratif :
+
+1° Le devis-type et le plan de financement complétés ;
+
+2° L'accord des ayants-droits dans le cas d'un projet d'adaptation ;
+
+3° Tout justificatif de l'aide à l'écriture ou au développement précédemment obtenue pour le projet et/ou tout justificatif de sélection par un organisme de formation ou un festival ou marché international mentionnés à l'article 312-41 ;
+
+4° Le ou les contrats des auteurs ;
+
+5° Tout justificatif de versement de rémunération à ou aux auteurs, signé par ces derniers ;
+
+6° En cas de coproduction, le contrat signé entre les sociétés ou tout document contractuel préparatoire ;
+
+7° La fiche récapitulative reprenant toutes les caractéristiques du projet de l'enregistrement du n°ISAN-IN DEV de l'œuvre.
+
+B. - Dossier artistique :
+
+1° Le curriculum vitae du ou des auteurs et de la ou des entreprises de production ;
+
+2° Une présentation détaillée du projet de série (point de vue, personnages, format, thème, moteur sériel) ;
+
+3° Un synopsis du premier épisode ou des éléments d'arches narratifs ;
+
+4° Une présentation des intentions sur la direction artistique de la série et ses pistes de réalisation. Cette note a pour objectif de faire apparaître les réflexions qui animent l'auteur tant sur le fond (sens, axes de recherche) que sur la forme (choix stylistiques, traitement de l'image et du son, etc.) ;
+
+5° Une note détaillée présentant les motivations du ou des producteurs du projet de série documentaire, la méthodologie de travail envisagée pour l'accompagnement des auteurs, les besoins liés à la demande (axes d'écriture à développer, recherche de coauteurs, équipe éditoriale à constituer autour du ou des auteurs, documentation et recherche d'archives, consultations d'experts spécialisés, etc.), les pistes de développement et les partenaires envisagés à terme ;
+
+6° Lorsque le projet de série envisage une dimension internationale, une description des axes de travail prévus à cette fin (pays partenaires, coauteurs internationaux, etc.) ;
+
+7° Lorsque le projet de série est tiré d'une œuvre préexistante, une note détaillant les partis pris d'adaptation.
+
+III - 3.4.1 Liste des organismes de formation, festivals et marchés internationaux
+
+(Article 312-41)
+
+1° Organismes de formation :
+
+- EURODOC ;
+
+- EAVE (European Audiovisuel Entrepreneurs) ;
+
+2° Festivals et marchés :
+
+- Festival du film d'animation d'Annecy ;
+
+- Festival international du documentaire (FIPADOC) ;
+
+- Festival international du film de Cannes/Quinzaine des réalisateurs/Semaine internationale de la critique ;
+
+- Festival international du grand reportage d'actualité et du documentaire de société (FIGRA) ;
+
+- Sunny Side of the Doc ;
+
+- Etats généraux du documentaire ;
+
+- Festival international du documentaire de Marseille ;
+
+- Festival international de Berlin (Berlinale) ;
+
+- Festival international du documentaire et du film d'animation de Leipzig (Dok Leipzig) ;
+
+- Les Rencontres internationales du documentaire de Montréal (RIDM) ;
+
+- Festival international canadien du documentaire de Toronto (Hot Docs) ;
+
+- Festival international du film de Copenhague (CPH : DOX) ;
+
+- Festival international de films documentaires et de courts-métrages de Bilbao ;
+
+- Le Marché européen de documentaires de Sitges (MEDIMED) ;
+
+- Tribeca de New York ;
+
+- Festival du film de Sundance ;
+
+- Festival international de documentaires de Thessalonique (TiDF) ;
+
+- Festival international du cinéma de Venise ;
+
+- Festival du film documentaire d'Amsterdam (IDFA) ;
+
+- Festival international du court-métrage & du documentaire de Cracovie ,
+
+- Festival international du film documentaire de Lisbonne (Doclisboa) ;
+
+- Festival international du film documentaire de Jihlava ;
+
+- Festival international du documentaire, du court-métrage et du film d'animation de Saint-Pétersbourg (Message to Man) ;
+
+- Nordisk Panorama Film Festival de Malmö ;
+
+- Festival international du film de Locarno (Léopards de Demain) ;
+
+- Festival de Nyon (Visions du Réel).
 
 III-4. Aides financières sélectives à la création, à la production et à la promotion des œuvres immersives
 
