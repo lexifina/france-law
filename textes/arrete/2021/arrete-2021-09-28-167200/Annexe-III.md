@@ -24,7 +24,7 @@ L'écart de surface est calculé de la manière suivante : Ecart = (Surface déc
 
 Si l'écart de surface d'isolant est trop important (supérieur à 10 %), les causes de cet écart doivent être détaillées par le demandeur de certificats d'économies d'énergie en même temps que les justifications et éventuelles mesures correctives dans la synthèse des contrôles mentionnée au II de l'article 7, ainsi qu'en commentaires du tableau récapitulatif des opérations défini aux annexes 6-1 et 6-2 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur. Suite à ces justifications et/ ou mesures correctives, l'opération reste non satisfaisante mais peut être déposée.
 
-A. 1.1.2.-S'agissant d'autres critères :
+A. 1.2. S'agissant d'autres critères
 
 6. Les travaux n'ont pas été réalisés, dans les deux cas suivants :
 
@@ -367,6 +367,30 @@ E. III. Doivent être vérifiés lors des contrôles par contact :
 -l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+E bis. Fiches d'opérations standardisées BAR-TH-174 “ Rénovation d'ampleur d'une maison individuelle (France métropolitaine) ” et BAR-TH-175 “ Rénovation d'ampleur d'un appartement (France métropolitaine) ” :
+
+Le contrôle de ces opérations est réalisé sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance énergétique, la pérennité ou la sécurité des matériaux et équipements doit conduire à classer l'opération en “ non satisfaisant ”.
+
+E bis. I.-Contrôles à l'achèvement des travaux (hors contrôles diligentés par l'ANAH) :
+
+L'organisme d'inspection réalise l'inspection sur le lieu de l'opération.
+
+Les critères suivants doivent conduire à un classement “ non satisfaisant ” de l'opération :
+
+1) L'audit énergétique n'a pas été réalisé à l'aide d'un logiciel répondant aux exigences des fiches d'opérations standardisées BAR-TH-174 et BAR-TH-175 ; le rapport de contrôle mentionne, dans tous les cas, le nom et la version du logiciel utilisé ;
+
+2) L'audit énergétique ne mentionne pas les valeurs des consommations conventionnelles en énergie primaire et en énergie finale et les classes DPE avant et après l'opération ;
+
+3) Il est constaté un écart de surface habitable de plus de 10 % (écart = (surface déclarée-surface mesurée)/ surface mesurée * 100) ; la surface mesurée correspond à une surface évaluée par l'organisme d'inspection ;
+
+4) L'audit énergétique retranche des consommations conventionnelles d'énergie primaire ou finale la production d'électricité autoconsommée ou exportée ;
+
+5) Les travaux réalisés ne font pas partie des scénarios de travaux de l'audit énergétique respectant les critères des fiches d'opérations standardisées BAR-TH-174 et BAR-TH-175 ;
+
+6) Un écart est relevé entre les équipements et matériaux mis en place et le scénario retenu de l'audit énergétique ou les factures des travaux en quantité et en qualité (performances thermiques et énergétiques) ;
+
+7) Des non-qualités au regard des référentiels de contrôle ou des non-qualités manifestes sont relevées, susceptibles, notamment, de remettre en cause la classe du bâtiment rénové, la pérennité des travaux ou les émissions annuelles de gaz à effet de serre après rénovation, ou susceptibles de remettre en cause la sécurité des installations ou l'usage normal des lieux ; à cette fin, l'organisme d'inspection se fonde, le cas échéant, sur les listes des éléments à contrôler de la présente annexe III correspondant aux travaux réalisés geste par geste, à l'exception des parties A. 1.1, B. 1.1.1, C. I. A, D. I. A et F. I. A.
 
 F.-Fiche d'opération standardisée BAR-TH-159 " Pompe à chaleur hybride individuelle " :
 
@@ -1250,4 +1274,6 @@ Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le 
 
 NOTA :
 
-Conformément à l’article 5 de l’arrêté du 22 novembre 2023 (NOR : ENER2332128A), ces dispositions sont applicables aux opérations engagées à compter du lendemain de la publication dudit arrêté.
+Conformément à l'article 6 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.
+
+Conformément à l’article 5 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.

@@ -218,6 +218,8 @@ Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : TRER2
 
 Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
+Conformément au III de l'article 2 de l'arrêté du 19 décembre 2023 (NOR : ENER2334670A), la fiche d’opération standardisée est supprimée.
+
 - Chaudière biomasse collective / Fiche d’opération standardisée n°BAR-TH-165
 
 - Pompe à chaleur collective de type air/eau ou eau/eau / Fiche d’opération standardisée n°BAR-TH-166
@@ -274,11 +276,17 @@ Conformément à l’article 1 de l’arrêté du 4 octobre 2023 (NOR : ENER2325
 
 Conformément à l’article 1 de l’arrêté du 22 novembre 2023 (NOR : ENER2332128A), la fiche d'opération standardisée BAR-TH-173 " Système de régulation par programmation horaire pièce par pièce " figurant en annexe A dudit arrêté est ajoutée à la présente annexe.
 
+- Rénovation d'ampleur d'une maison individuelle (France métropolitaine) / Fiche d’opération standardisée BAR-TH-174
+
+- Rénovation d'ampleur d'un appartement (France métropolitaine) / Fiche d’opération standardisée BAR-TH-175
+
 Liens :
+
+Vous pouvez consulter l'intégralité de l’arrêté du 19 décembre 2023 (NOR : ENER2334670A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28 décembre 2023, texte 100, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=QRgTaQfM0balM0WO-DVjXpwWNLb9rmqINmyEx1QxYqg=
 
 Vous pouvez consulter l'intégralité de l’arrêté du 22 novembre 2023 (NOR : ENER2332128A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0276 du 29 novembre 2023, texte 48, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=slhu5rtQEP98tJsCKeTS-9pbpMGytxJiYFAB07a-XpU=
 
-Vous pouvez consulter l'intégralité de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0232 du 6 octobre 2023, texte 26, , accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=7RiHSw1r6JqFPbYvJ-KMcNe7NQ0Bwz--rDCJlG3YNd0=
+Vous pouvez consulter l'intégralité de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0232 du 6 octobre 2023, texte 26, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=7RiHSw1r6JqFPbYvJ-KMcNe7NQ0Bwz--rDCJlG3YNd0=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0227 du 30/09/2023, texte n° 39, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=2eo_9bKPruY9aVYxIHHqRZAonPLOBawu6mXaWDKqFfw=
 
@@ -349,3 +357,13 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0179 du 04/08/2022, texte n° 35, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-us85fgyoEk=
+
+NOTA :
+
+Conformément à l’article 1 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), les fiches d'opérations standardisées BAR-TH-171 Pompe à chaleur de type air/ eau et BAR-TH-172 Pompe à chaleur de type eau/ eau ou sol/ eau figurant en annexe A dudit arrêté sont ajoutées à la présente annexe à compter du 1er janvier 2024.
+
+Conformément à l'article 5 de l'arrêté du 19 décembre 2023 (NOR : ENER2334670A), dans le cas où le bénéficiaire est une personne physique propriétaire occupant ou bailleur d'un logement occupé à titre de résidence principale, ou une personne physique titulaire d'un droit réel immobilier conférant l'usage d'un logement occupé à titre de résidence principale, pour ce logement, les fiches d'opération n° BAR-TH-174 et n° BAR-TH-175 sont applicables aux opérations dont la demande d'aide auprès de l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation est déposée auprès de cette dernière à compter du 1er janvier 2024.
+
+Dans les autres cas, les fiches d'opération n° BAR-TH-174 et n° BAR-TH-175 sont applicables aux opérations engagées à compter du 1er janvier 2024.
+
+Conformément à l'article 5 de l'arrêté du 19 décembre 2023 (NOR : ENER2334670A), la suppression de la fiche d'opération standardisée BAR-TH-164 est applicable aux opérations engagées à compter du 1er janvier 2024. Les dispositions de la fiche d'opération standardisée BAR-TH-164 s'appliquent aux opérations engagées jusqu'au 31 décembre 2023, achevées au plus tard le 31 décembre 2025 et incluses dans une liste transmise, au plus tard le 15 janvier 2024, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-164 " établi par la DGEC et mis à disposition sur le site Internet du ministère.

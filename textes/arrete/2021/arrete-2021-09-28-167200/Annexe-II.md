@@ -98,6 +98,16 @@ A compter du 01/01/2025 |
 
 Par contact |
 
+BAR-TH-174, BAR-TH-175
+
+|
+
+100 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2024 |
+
 BAR-TH-171, BAR-TH-172, BAR-TH-113, BAR-TH-159 |
 
 7,5 % |
@@ -278,19 +288,19 @@ A compter du 01/01/2025 |
 
 BAR-TH-173 |
 
-20 % |
+20% |
 
 Par contact |
 
 Entre le 01/12/2023 et le 31/12/2023 |
 
-25 % |
+25% |
 
 Par contact |
 
 Entre le 01/01/2024 et le 31/12/2024 |
 
-30 % |
+30% |
 
 Par contact |
 
@@ -680,4 +690,4 @@ A compter du 01/10/2023 |
 
 NOTA :
 
-Conformément à l’article 5 de l’arrêté du 22 novembre 2023 (NOR : ENER2332128A), ces dispositions sont applicables aux opérations engagées à compter du lendemain de la publication dudit arrêté.
+Conformément à l’article 5 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.
