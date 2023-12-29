@@ -36,8 +36,4 @@ IV. – Le redevable de l'imposition déclare, au plus tard le deuxième jour ou
 
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation foncière des entreprises.
 
-V. – La composante de l'imposition forfaitaire sur les entreprises de réseaux prévue au présent article est affectée, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au budget de l'établissement public " Société du Grand Paris " créé par la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris.
-
-NOTA :
-
-Modifications effectuées en conséquence de l'article 37-VI B 4° de la loi n° 2012-1510 du 29 décembre 2012.
+V. – La composante de l'imposition forfaitaire sur les entreprises de réseaux prévue au présent article est affectée, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au budget de l'établissement public " Société des grands projets " créé par la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris.
