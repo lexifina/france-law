@@ -2,7 +2,7 @@
 
 MÉTHODOLOGIE DE L'ÉVALUATION CARBONE SIMPLIFIÉE
 
-Cette évaluation est réalisée par un organisme certificateur disposant d'une accréditation selon la norme EN ISO 17065 ainsi qu'une accréditation EN ISO 17025 portant sur le produit module photovoltaïque (IEC 61215 et IEC 61730 en cours de validité), délivrées par l'instance nationale d'accréditation, ou l'instance nationale d'accréditation d'un autre Etat membre de l'Union européenne, membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux.
+Cette évaluation est réalisée par un organisme certificateur disposant d'une accréditation selon la norme EN ISO 17065 ainsi qu'une accréditation EN ISO 17025 portant sur le produit module photovoltaïque (IEC 61215 et IEC 61730 en cours de validité ou toute autre méthode équivalente), délivrées par l'instance nationale d'accréditation, ou l'instance nationale d'accréditation d'un autre Etat membre de l'Union européenne, membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux.
 
 Pour que l'évaluation carbone simplifiée soit considérée comme valide, l'approvisionnement et l'origine de chacun des matériaux nécessaires à la fabrication des modules ou des films photovoltaïques devra être documenté lors de sa réalisation.
 
@@ -2595,3 +2595,9 @@ Malaysia |
 South-Africa |
 
 1087 |
+
+NOTA :
+
+Conformément à l’article 18 de l’arrêté du 22 décembre 2023 (NOR : ENER2328400A), ces dispositions s'appliquent aux installations dont la demande complète de raccordement est postérieure au 22 décembre 2023. Pour les installations dont la demande complète de raccordement est antérieure au 22 décembre 2023, ce sont les dispositions de l'arrêté du 6 octobre 2021 dans sa version antérieure qui s'appliquent.
+
+Les installations pour lesquelles une demande complète de raccordement a été déposée entre le 1er août 2023 et la veille de l'entrée en vigueur dudit arrêté bénéficient des conditions d'achat découlant des modalités de l'article 9 de cet arrêté.

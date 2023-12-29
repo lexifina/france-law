@@ -2,9 +2,9 @@
 
 MÉTHODOLOGIE DE L'ÉVALUATION CARBONE SIMPLIFIÉE
 
-Cette évaluation est réalisée par un organisme certificateur disposant d'une accréditation selon la norme EN ISO 17065 ainsi qu'une accréditation EN ISO 17025 portant sur le produit module photovoltaïque (IEC 61215 et IEC 61730 en cours de validité), délivrées par l'instance nationale d'accréditation, ou l'instance nationale d'accréditation d'un autre Etat membre de l'Union européenne, membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux.
+Cette évaluation est réalisée par un organisme certificateur disposant d'une accréditation selon la norme EN ISO 17065 ainsi qu'une accréditation EN ISO 17025 portant sur le produit module photovoltaïque (IEC 61215 et IEC 61730 en cours de validité ou toute autre méthode équivalente), délivrées par l'instance nationale d'accréditation, ou l'instance nationale d'accréditation d'un autre Etat membre de l'Union européenne, membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux.
 
-Pour que l'évaluation carbone simplifiée soit considérée comme valide, les modules doivent être déclarés conformes aux normes IEC 61215 et 61730 applicables par un laboratoire accrédité 17025 tel que spécifié ci-avant et l'approvisionnement et l'origine de chacun des matériaux nécessaires à la fabrication des modules ou des films photovoltaïques qui font l'objet du calcul du bilan carbone devra être documenté lors de sa réalisation.
+Pour que l'évaluation carbone simplifiée soit considérée comme valide, les modules doivent être déclarés conformes aux normes IEC 61215 et 61730 applicables ou à toute autre méthode équivalente par un laboratoire accrédité 17025 tel que spécifié ci-avant et l'approvisionnement et l'origine de chacun des matériaux nécessaires à la fabrication des modules ou des films photovoltaïques qui font l'objet du calcul du bilan carbone devra être documenté lors de sa réalisation.
 
 Le certificat doit mentionner a minima :
 
@@ -820,9 +820,9 @@ TABLEAU 3
 
 Valeurs des émissions de GES en CO2eq pour la fabrication des composants
 
-GWP = Global Warming Potential, IPCC2021 GWP100ans Simapro 9.3
+GWP = Global Warming Potential, IPCC2021 GWP100ans Simapro 9.3.
 
-Sources : Ecoinvent 3.5, CEA INES,
+Sources : Ecoinvent 3.5, CEA INES.
 
 Etape de fabrication/ Matériau |
 
@@ -1276,113 +1276,85 @@ Fabrication module a-Si |
 
 kg CO2-eq/ m2 module |
 
-25,091 |
+27,82 |
 
-25,726 |
+25,19 |
 
-36,459 |
+43,27 |
 
-13,847 |
+17,39 |
 
-47,228 |
+63,09 |
 
-42,578 |
+49,69 |
 
-38,719 |
+43,32 |
 
-37,186 |
+30,57 |
 
-56,445 |
+55,18 |
 
-32,894 |
+28,96 |
 
-27,820 |
+24,15 |
 
-16,454 |
-
-Fabrication module a-Si/ µc-Si |
-
-kg CO2-eq/ m2 module |
-
-26,782 |
-
-27,833 |
-
-45,575 |
-
-8,194 |
-
-63,380 |
-
-55,692 |
-
-49,313 |
-
-46,778 |
-
-78,617 |
-
-39,683 |
-
-31,294 |
-
-12,503 |
+15,21 |
 
 Fabrication module CdTe, |
 
 kg CO2-eq/ m2 module |
 
-14,821 |
+28,12 |
 
-15,290 |
+24,94 |
 
-23,194 |
+46,73 |
 
-6,541 |
+15,54 |
 
-31,126 |
+70,63 |
 
-27,701 |
+54,48 |
 
-24,859 |
+46,80 |
 
-23,730 |
+31,43 |
 
-37,914 |
+61,09 |
 
-20,569 |
+29,49 |
 
-16,832 |
+23,69 |
 
-8,461 |
+12,92 |
 
 Fabrication module CIGS |
 
 kg CO2-eq/ m2 module |
 
-35,926 |
+46,43 |
 
-36,675 |
+39,75 |
 
-49,336 |
+85,62 |
 
-22,662 |
+19,94 |
 
-62,040 |
+135,95 |
 
-56,555 |
+101,94 |
 
-52,003 |
+85,77 |
 
-50,194 |
+53,42 |
 
-72,913 |
+115,87 |
 
-45,131 |
+49,33 |
 
-39,146 |
+37,12 |
 
-25,737 |
+14,43 |
 
 Etape de fabrication/ Matériau |
 
@@ -1836,113 +1808,579 @@ Fabrication module a-Si |
 
 kg CO2-eq/ m2 module |
 
-36,360 |
+38,30 |
 
-52,005 |
+59,04 |
 
-26,035 |
+31,02 |
 
-40,007 |
+35,06 |
 
-43,247 |
+37,97 |
 
-13,772 |
+15,86 |
 
-37,612 |
+33,22 |
 
-18,585 |
+42,87 |
 
-33,405 |
+39,53 |
 
-22,338 |
+41,59 |
 
-42,365 |
+73,73 |
 
-39,454 |
-
-Fabrication module a-Si/ µc-Si |
-
-kg CO2-eq/ m2 module |
-
-45,413 |
-
-71,276 |
-
-28,342 |
-
-51,442 |
-
-56,798 |
-
-8,070 |
-
-47,483 |
-
-16,026 |
-
-40,527 |
-
-22,232 |
-
-55,340 |
-
-50,527 |
+41,68 |
 
 Fabrication module CdTe, |
 
 kg CO2-eq/ m2 module |
 
-23,122 |
+40,74 |
 
-34,643 |
+65,74 |
 
-15,517 |
+31,97 |
 
-25,808 |
+36,84 |
 
-28,193 |
+40,34 |
 
-6,486 |
+13,70 |
 
-24,044 |
+34,63 |
 
-10,030 |
+46,25 |
 
-20,945 |
+42,22 |
 
-12,795 |
+44,71 |
 
-27,544 |
+83,45 |
 
-25,400 |
+44,81 |
 
 Fabrication module CIGS |
 
 kg CO2-eq/ m2 module |
 
-49,220 |
+73,02 |
 
-67,675 |
+125,66 |
 
-34,474 |
+54,55 |
 
-53,522 |
+64,80 |
 
-57,344 |
+72,18 |
 
-22,574 |
+16,06 |
 
-50,697 |
+60,14 |
 
-28,251 |
+84,61 |
 
-45,733 |
+76,13 |
 
-32,679 |
+81,36 |
 
-56,303 |
+162,94 |
 
-52,869 |
+81,59 |
+
+Etape de fabrication/ Matériau |
+
+Unité |
+
+Afrique du Sud |
+
+Qatar |
+
+Arabie saoudite |
+
+UAE |
+
+Algérie |
+
+Maroc |
+
+Egypte |
+
+Brésil |
+
+Ukraine |
+
+Macédoine du Nord |
+
+Serbie |
+
+Silicium Métallurgique MG-Si |
+
+kg CO2-eq/ kg |
+
+16,31 |
+
+10,54 |
+
+16,54 |
+
+10,61 |
+
+11,81 |
+
+13,62 |
+
+11,08 |
+
+7,48 |
+
+11,92 |
+
+15,64 |
+
+14,27 |
+
+polySi, Siemens process |
+
+kg CO2-eq/ kg |
+
+82,61 |
+
+45,85 |
+
+84,07 |
+
+46,33 |
+
+53,97 |
+
+65,45 |
+
+49,28 |
+
+26,36 |
+
+54,67 |
+
+81,96 |
+
+69,60 |
+
+Réalisation du Lingot, mono |
+
+kg CO2-eq/ kg |
+
+41,60 |
+
+24,79 |
+
+42,27 |
+
+25,02 |
+
+28,51 |
+
+33,75 |
+
+26,36 |
+
+15,89 |
+
+28,83 |
+
+39,89 |
+
+35,65 |
+
+Réalisation du lingot, multi |
+
+kg CO2-eq/ kg |
+
+8,38 |
+
+4,70 |
+
+8,53 |
+
+4,75 |
+
+5,52 |
+
+6,66 |
+
+5,05 |
+
+2,76 |
+
+5,59 |
+
+7,67 |
+
+7,08 |
+
+Réalisation du lingot, monolike |
+
+kg CO2-eq/ kg |
+
+10,84 |
+
+7,17 |
+
+10,99 |
+
+7,22 |
+
+7,98 |
+
+9,13 |
+
+7,51 |
+
+5,22 |
+
+8,05 |
+
+10,26 |
+
+9,54 |
+
+Réalisation de la brique |
+
+kg CO2-eq/ kg |
+
+1,83 |
+
+1,19 |
+
+1,85 |
+
+1,20 |
+
+1,33 |
+
+1,53 |
+
+1,25 |
+
+0,86 |
+
+1,34 |
+
+1,75 |
+
+1,60 |
+
+Fabrication des plaquettes mono |
+
+kg CO2-eq/ m2 |
+
+7,85 |
+
+5,24 |
+
+7,95 |
+
+5,27 |
+
+5,82 |
+
+6,63 |
+
+5,48 |
+
+3,86 |
+
+5,87 |
+
+7,43 |
+
+6,93 |
+
+Fabrication des plaquettes multi/ monolike |
+
+kg CO2-eq/ m2 |
+
+8,18 |
+
+5,60 |
+
+8,28 |
+
+5,63 |
+
+6,17 |
+
+6,98 |
+
+5,84 |
+
+4,23 |
+
+6,22 |
+
+8,00 |
+
+7,27 |
+
+Réalisation des cellules |
+
+Kg CO2-eq/ m2 |
+
+40,40 |
+
+27,26 |
+
+40,92 |
+
+27,43 |
+
+30,16 |
+
+34,27 |
+
+28,48 |
+
+20,29 |
+
+30,41 |
+
+38,87 |
+
+35,75 |
+
+Verre |
+
+kg CO2-eq/ kg |
+
+1,05 |
+
+1,00 |
+
+1,06 |
+
+1,00 |
+
+1,01 |
+
+1,03 |
+
+1,00 |
+
+0,96 |
+
+1,01 |
+
+1,05 |
+
+1,03 |
+
+Verre trempé |
+
+kg CO2-eq/ kg |
+
+0,17 |
+
+0,16 |
+
+0,17 |
+
+0,16 |
+
+0,17 |
+
+0,17 |
+
+0,16 |
+
+0,16 |
+
+0,17 |
+
+0,19 |
+
+0,17 |
+
+Encapsulant (EVA ou équivalent) |
+
+kg CO2-eq/ kg |
+
+3,15 |
+
+2,80 |
+
+3,16 |
+
+2,80 |
+
+2,88 |
+
+2,99 |
+
+2,83 |
+
+2,61 |
+
+2,88 |
+
+2,99 |
+
+3,03 |
+
+Feuille face arrière (PET ou équivalent) |
+
+kg CO2-eq/ kg |
+
+4,06 |
+
+3,71 |
+
+4,07 |
+
+3,71 |
+
+3,78 |
+
+3,89 |
+
+3,74 |
+
+3,52 |
+
+3,79 |
+
+4,04 |
+
+3,93 |
+
+Feuille face arrière (PVF) |
+
+kg CO2-eq/ kg |
+
+21,27 |
+
+19,80 |
+
+21,33 |
+
+19,82 |
+
+20,12 |
+
+20,58 |
+
+19,93 |
+
+19,02 |
+
+20,15 |
+
+20,57 |
+
+20,75 |
+
+Module cristallin |
+
+kg CO2-eq/ m2 module |
+
+8,97 |
+
+6,99 |
+
+9,05 |
+
+7,02 |
+
+7,43 |
+
+8,05 |
+
+7,17 |
+
+5,94 |
+
+7,47 |
+
+8,66 |
+
+8,27 |
+
+Fabrication module a-Si |
+
+kg CO2-eq/ m2 module |
+
+63,48 |
+
+38,16 |
+
+64,49 |
+
+38,49 |
+
+43,75 |
+
+51,66 |
+
+40,52 |
+
+24,74 |
+
+44,24 |
+
+60,53 |
+
+54,52 |
+
+Fabrication module CdTe, |
+
+kg CO2-eq/ m2 module |
+
+71,10 |
+
+40,58 |
+
+72,31 |
+
+40,98 |
+
+47,32 |
+
+56,85 |
+
+43,43 |
+
+24,40 |
+
+47,90 |
+
+67,54 |
+
+60,30 |
+
+Fabrication module CIGS |
+
+kg CO2-eq/ m2 module |
+
+136,93 |
+
+72,67 |
+
+139,49 |
+
+73,51 |
+
+86,86 |
+
+106,93 |
+
+78,66 |
+
+38,61 |
+
+88,09 |
+
+129,44 |
+
+114,19 |
 
 Etape de fabrication/ Matériau |
 
@@ -2396,113 +2834,85 @@ Fabrication module a-Si |
 
 kg CO2-eq/ m2 module |
 
-13,433 |
+14,08 |
 
-57,024 |
+61,32 |
 
-36,813 |
+30,29 |
 
-38,590 |
+34,11 |
 
-14,564 |
+15,08 |
 
-32,060 |
+28,07 |
 
-27,343 |
+34,20 |
 
-57,088 |
+62,07 |
 
-34,375 |
+48,51 |
 
-37,972 |
+43,38 |
 
-52,587 |
+52,76 |
 
-35,819 |
-
-Fabrication module a-Si/ µc-Si |
-
-kg CO2-eq/ m2 module |
-
-7,509 |
-
-79,574 |
-
-46,161 |
-
-49,099 |
-
-9,379 |
-
-38,304 |
-
-30,505 |
-
-79,680 |
-
-42,123 |
-
-48,077 |
-
-72,238 |
-
-44,518 |
+45,83 |
 
 Fabrication module CdTe, |
 
 kg CO2-eq/ m2 module |
 
-6,236 |
+11,56 |
 
-38,340 |
+68,50 |
 
-23,455 |
+31,09 |
 
-24,764 |
+35,70 |
 
-7,069 |
+12,76 |
 
-19,955 |
+28,42 |
 
-16,480 |
+35,81 |
 
-38,387 |
+69,40 |
 
-21,660 |
+53,05 |
 
-24,308 |
+46,87 |
 
-35,072 |
+58,17 |
 
-22,723 |
+49,82 |
 
 Fabrication module CIGS |
 
 kg CO2-eq/ m2 module |
 
-22,174 |
+11,56 |
 
-73,596 |
+131,46 |
 
-49,754 |
+52,68 |
 
-51,850 |
+62,39 |
 
-23,508 |
+14,08 |
 
-44,147 |
+47,06 |
 
-38,582 |
+62,62 |
 
-73,672 |
+133,35 |
 
-46,878 |
+98,93 |
 
-51,121 |
+85,91 |
 
-68,361 |
+109,72 |
 
-48,582 |
+92,13 |
 
 Etape de fabrication/ Matériau |
 
@@ -2956,113 +3366,85 @@ Fabrication module a-Si |
 
 kg CO2-eq/ m2 module |
 
-51,387 |
+47,74 |
 
-40,589 |
+44,95 |
 
-|
+48,39 |
 
-|
+22,30 |
 
-|
+43,78 |
 
-|
+40,96 |
 
-|
+33,02 |
 
-|
+45,09 |
 
-|
+35,41 |
 
-|
+40,56 |
 
-|
+58,36 |
 
-|
-
-Fabrication module a-Si/ µc-Si |
-
-kg CO2-eq/ m2 module |
-
-70,255 |
-
-52,404 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+79,73 |
 
 Fabrication module CdTe, |
 
 kg CO2-eq/ m2 module |
 
-34,188 |
+52,13 |
 
-26,236 |
+48,76 |
 
-|
+52,91 |
 
-|
+21,46 |
 
-|
+47,36 |
 
-|
+43,95 |
 
-|
+34,38 |
 
-|
+48,93 |
 
-|
+37,26 |
 
-|
+43,47 |
 
-|
+64,93 |
 
-|
+90,68 |
 
 Fabrication module CIGS |
 
 kg CO2-eq/ m2 module |
 
-66,946 |
+96,98 |
 
-54,208 |
+89,90 |
 
-|
+98,63 |
 
-|
+32,42 |
 
-|
+86,94 |
 
-|
+79,76 |
 
-|
+59,61 |
 
-|
+90,25 |
 
-|
+65,69 |
 
-|
+78,75 |
 
-|
+123,94 |
 
-|
+178,16 |
 
 Etape de fabrication/ Matériau |
 
@@ -3484,105 +3866,79 @@ Fabrication module a-Si |
 
 kg CO2-eq/ m2 module |
 
-|
+63,48 |
 
-|
+38,16 |
 
-|
+64,49 |
 
-|
+38,49 |
 
-|
+43,75 |
 
-|
+51,66 |
 
-|
+40,52 |
 
-|
+24,74 |
 
-|
+44,24 |
 
-|
+60,53 |
 
-|
-
-Fabrication module a-Si/ µc-Si |
-
-kg CO2-eq/ m2 module |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+54,52 |
 
 Fabrication module CdTe, |
 
 kg CO2-eq/ m2 module |
 
-|
+71,10 |
 
-|
+40,58 |
 
-|
+72,31 |
 
-|
+40,98 |
 
-|
+47,32 |
 
-|
+56,85 |
 
-|
+43,43 |
 
-|
+24,40 |
 
-|
+47,90 |
 
-|
+67,54 |
 
-|
+60,30 |
 
 Fabrication module CIGS |
 
 kg CO2-eq/ m2 module |
 
-|
+136,93 |
 
-|
+72,67 |
 
-|
+139,49 |
 
-|
+73,51 |
 
-|
+86,86 |
 
-|
+106,93 |
 
-|
+78,66 |
 
-|
+38,61 |
 
-|
+88,09 |
 
-|
+129,44 |
 
-|
+114,19 |
 
 Etape de fabrication/ Matériau |
 
@@ -3716,298 +4072,28 @@ Fabrication module a-Si |
 
 kg CO2-eq/ m2 module |
 
-|
+34,23 |
 
-68,506 |
-
-Fabrication module a-Si/ µc-Si |
-
-kg CO2-eq/ m2 module |
-
-|
-
-95,616 |
+48,13 |
 
 Fabrication module CdTe, |
 
 kg CO2-eq/ m2 module |
 
-|
+35,84 |
 
-46,064 |
+52,60 |
 
 Fabrication module CIGS |
 
 kg CO2-eq/ m2 module |
 
-|
+62,69 |
 
-88,406 |
+97,97 |
 
-TABLEAU 4
+NOTA :
 
-FACTEUR D'ÉMISSION DU MIX ÉLECTRIQUE (BASE DES DONNÉES : ECOINVENT 3.5, MÉTHODE : IPCC2021GWP100ANS, SIMA PRO 9.3)
+Conformément à l’article 18 de l’arrêté du 22 décembre 2023 (NOR : ENER2328400A), ces dispositions s'appliquent aux installations dont la demande complète de raccordement est postérieure au 22 décembre 2023. Pour les installations dont la demande complète de raccordement est antérieure au 22 décembre 2023, ce sont les dispositions de l'arrêté du 6 octobre 2021 dans sa version antérieure qui s'appliquent.
 
-Pays |
-
-g CO2eq/ kWh |
-
-Pays |
-
-g CO2eq/ kWh |
-
-Pays |
-
-g CO2eq/ kWh |
-
-UAE |
-
-535 |
-
-Grèce |
-
-961 |
-
-Pays-Bas |
-
-601 |
-
-Autriche |
-
-314 |
-
-Croatie |
-
-380 |
-
-Norvège |
-
-29 |
-
-Afrique du Sud |
-
-1053 |
-
-Hongrie |
-
-464 |
-
-Philippines |
-
-687 |
-
-Belgique |
-
-259 |
-
-Irlande |
-
-524 |
-
-Pologne |
-
-1008 |
-
-Bulgarie |
-
-634 |
-
-Inde |
-
-1390 |
-
-Portugal |
-
-365 |
-
-Brésil |
-
-250 |
-
-Islande |
-
-65 |
-
-Roumanie |
-
-444 |
-
-Canada |
-
-199 |
-
-Italie |
-
-426 |
-
-Serbie |
-
-867 |
-
-Suisse |
-
-97 |
-
-Japon |
-
-743 |
-
-Russie |
-
-740 |
-
-Chine |
-
-1024 |
-
-Corée du Sud |
-
-636 |
-
-Suède |
-
-49 |
-
-Chypre |
-
-1045 |
-
-Lituanie |
-
-626 |
-
-Singapour |
-
-471 |
-
-République Tchèque |
-
-767 |
-
-Luxembourg |
-
-556 |
-
-Slovénie |
-
-319 |
-
-Allemagne |
-
-635 |
-
-Lettonie |
-
-599 |
-
-Slovaquie |
-
-446 |
-
-Danemark |
-
-371 |
-
-Macédoine du Nord |
-
-992 |
-
-Thaïlande |
-
-672 |
-
-Estonie |
-
-881 |
-
-Malte |
-
-1266 |
-
-Taiwan |
-
-727 |
-
-Espagne |
-
-337 |
-
-Mexique |
-
-578 |
-
-Ukraine |
-
-654 |
-
-Finlande |
-
-238 |
-
-Malaisie |
-
-831 |
-
-Etats-Unis |
-
-669 |
-
-France |
-
-52 |
-
-Tunisie |
-
-586 |
-
-Vietnam |
-
-421 |
-
-Royaume-Uni |
-
-531 |
-
-Arabie-saoudite |
-
-1074 |
-
-Jordanie |
-
-947 |
-
-Turquie |
-
-645 |
-
-Egypte |
-
-577 |
-
-Autres pays d'Europe |
-
-447 |
-
-Qatar |
-
-528 |
-
-Algérie |
-
-644 |
-
-Autres pays du Monde |
-
-735 |
-
-Maroc |
-
-808 |
-
-|
-
-|
-
-|
-
-|
+Les installations pour lesquelles une demande complète de raccordement a été déposée entre le 1er août 2023 et la veille de l'entrée en vigueur dudit arrêté bénéficient des conditions d'achat découlant des modalités de l'article 9 de cet arrêté.

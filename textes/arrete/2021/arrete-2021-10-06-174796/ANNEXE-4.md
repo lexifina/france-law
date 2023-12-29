@@ -4,6 +4,8 @@ INFORMATIONS À FOURNIR DANS LE BILAN TRIMESTRIEL DES DEMANDES COMPLÈTES DE RAC
 
 Dans le bilan trimestriel qu'il adresse à la Commission de régulation de l'énergie, chaque gestionnaire de réseau public d'électricité inclut a minima le tableau ci-dessous complété en fonction des demandes complètes de raccordement reçues pour le trimestre considéré. Chaque gestionnaire de réseau précise également le nombre d'installations ayant déclaré un dispositif de stockage, ainsi que la puissance cumulée correspondante, pour chacune des catégories mentionnées à la troisième colonne du tableau suivant.
 
+Les informations du tableau ci-dessous doivent être publiées par la Commission de régulation de l'énergie au plus tard une semaine après la transmissions des données par les gestionnaires de réseau.
+
 NATURE
 
 DE L'EXPLOITATION |
@@ -44,9 +46,7 @@ Puissance crête cumulée des conventions de raccordement signées (kWc) |
 
 Nombre d'installations mises en service |
 
-Puissance crête cumulée des installations mises en service (kWc)
-
-|
+Puissance crête cumulée des installations mises en service (kWc) |
 
 Installations de vente avec injection en totalité |
 
@@ -226,4 +226,6 @@ Supérieure à 100 kWc et inférieure ou égale à 500 kWc |
 
 NOTA :
 
-Se reporter aux modalités d'application prévues par l'article 3 de l'arrêté du 28 juillet 2022 (NOR : ENER2221742A).
+Conformément à l’article 18 de l’arrêté du 22 décembre 2023 (NOR : ENER2328400A), ces dispositions s'appliquent aux installations dont la demande complète de raccordement est postérieure au 22 décembre 2023. Pour les installations dont la demande complète de raccordement est antérieure au 22 décembre 2023, ce sont les dispositions de l'arrêté du 6 octobre 2021 dans sa version antérieure qui s'appliquent.
+
+Les installations pour lesquelles une demande complète de raccordement a été déposée entre le 1er août 2023 et la veille de l'entrée en vigueur dudit arrêté bénéficient des conditions d'achat découlant des modalités de l'article 9 de cet arrêté.

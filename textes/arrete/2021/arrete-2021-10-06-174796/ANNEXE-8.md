@@ -1,20 +1,24 @@
 # Article ANNEXE 8
 
-IDENTIFICATION DU PROPRIÉTAIRE DU BÂTIMENT D'ASSIETTE DE L'INSTALLATION
+IDENTIFICATION DU OU DES PROPRIETAIRES DU BATIMENT, HANGAR OU OMBRIERE ET IDENTIFICATION DU OU DES PROPRIETAIRES DU TERRAIN D'ASSIETTE DE L'INSTALLATION
 
-Peuvent faire office du document attestant de la propriété d'un terrain mentionné au 3° de l'article 5 :
+La preuve de la propriété du bâtiment, hangar, ombrière ou la preuve de la propriété du terrain d'assiette peuvent être apportées par les documents et pièces justificatives suivantes.
 
-Cas général :
+Cas général
+
+:
 
 -l'avis de taxe foncière pour l'année civile en cours ou l'année précédente. Le producteur pourra masquer le montant à payer ;
 
 -les actes de vente datant de moins de deux ans ;
 
--tout acte notarial attestant de la propriété datant de moins de deux ans, L'extrait fourni doit permettre l'identification du propriétaire du bâtiment et du notaire ;
+-tout acte notarial attestant de la propriété datant de moins de deux ans, L'extrait fourni doit permettre l'identification du propriétaire et du notaire ;
 
 -l'attestation du service de la publicité foncière de moins de deux ans ;
 
 -le relevé de propriété, aussi appelé extrait de matrice cadastrale.
+
+Cas particuliers :
 
 Cas d'un producteur ayant construit seul sa maison :
 
@@ -51,3 +55,9 @@ Date de référence pour la propriété du bâtiment
 La propriété du bâtiment s'apprécie au moment du dépôt de la demande complète de raccordement le concernant.
 
 Pour les bâtiments non construits à la date de la demande complète de raccordement, la propriété du bâtiment s'apprécie au moment de l'achèvement de l'installation, sur déclaration du producteur à la date de la demande complète de raccordement.
+
+NOTA :
+
+Conformément à l’article 18 de l’arrêté du 22 décembre 2023 (NOR : ENER2328400A), ces dispositions s'appliquent aux installations dont la demande complète de raccordement est postérieure au 22 décembre 2023. Pour les installations dont la demande complète de raccordement est antérieure au 22 décembre 2023, ce sont les dispositions de l'arrêté du 6 octobre 2021 dans sa version antérieure qui s'appliquent.
+
+Les installations pour lesquelles une demande complète de raccordement a été déposée entre le 1er août 2023 et la veille de l'entrée en vigueur dudit arrêté bénéficient des conditions d'achat découlant des modalités de l'article 9 de cet arrêté.
