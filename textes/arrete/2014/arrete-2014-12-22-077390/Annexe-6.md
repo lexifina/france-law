@@ -106,6 +106,8 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 - Vélo à assistance électrique / Fiche d’opération n° TRA-EQ-121
 
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° TRA-EQ-121, figurant en annexe G dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 6 du présent arrêté.
+
 - Stop & Start pour engins automoteurs non routiers neufs / Fiche d’opération n° TRA-EQ-122
 
 Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-122 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
@@ -127,6 +129,10 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 - Remotorisation en propulsion électrique ou hybride d’un bateau naviguant en eaux intérieures / Fiche d’opération n° TRA-EQ-126
 
 - Acquisition d'un bateau neuf à propulsion électrique ou hybride, naviguant en eaux intérieures / Fiche d’opération n° TRA-EQ-127
+
+- Achat ou location d'un autocar ou d'un autobus électrique neuf ou réalisation d'une opération de rétrofit électrique d'autocar ou d'autobus / Fiche d’opération n° TRA-EQ-128
+
+Conformément à l'article 3 de l'arrêté du 20 décembre 2023 (NOR : ENER2333440A), la fiche d'opération standardisée n° TRA-EQ-128 est ajoutée par la fiche figurant en annexe F audit arrêté.
 
 - Formation d’un chauffeur de transport à la conduite économe / Fiche d’opération n° TRA-SE-101
 
@@ -214,7 +220,13 @@ Conformément à l’article 2 de l’arrêté du 2 décembre 2022 (NOR : ENER22
 
 Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-SE-115 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
+Fret ferroviaire / Fiche d’opération n° TRA-SE-116
+
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° TRA-SE-116, figurant en annexe G dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 6 du présent arrêté.
+
 Liens :
+
+Vous pouvez consulter l'intégralité de l’arrêté du 20 décembre 2023 (NOR : ENER2333440A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28 décembre 2023, texte 100, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=QRgTaQfM0balM0WO-DVjXuRduuVQURzFXR8cwSfIBHg=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 227 du 30/09/2023, texte n° 39, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=2eo_9bKPruY9aVYxIHHqRZAonPLOBawu6mXaWDKqFfw=
 

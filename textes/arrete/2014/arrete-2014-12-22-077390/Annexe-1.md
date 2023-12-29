@@ -22,9 +22,13 @@ Conformément à l'article 2 de l'arrêté du 24 juillet 2020 (NOR : TRER2020386
 
 - Récupération de chaleur à condensation pour serres horticoles / Fiche d’opération n° AGRI-TH-109
 
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° AGRI-TH-109, figurant en annexe A dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 1 du présent arrêté.
+
 - Chaudière à condensation pour serres horticoles / Fiche d’opération n° AGRI-TH-110
 
 Conformément à l'article 2 de l'arrêté du 24 juillet 2020 (NOR : TRER2020386A), les fiches d'opération n° AGRI-TH-104, AGRI-TH-108, AGRI-TH-110, figurant en annexe 1 du présent arrêté remplacent les fiches d'opérations standardisées portant les mêmes références figurant à l'annexe 1 de l'arrêté du 22 décembre 2014 susvisé.
+
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° AGRI-TH-110, figurant en annexe A dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 1 du présent arrêté.
 
 - Echangeur-récupération de chaleur air/air dans un bâtiment d’élevage de volailles / Fiche d’opération n° AGRI-TH-113
 
@@ -52,7 +56,11 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 - Stockage d'eau pour une serre bioclimatique / Fiche d'opération n° AGRI-EQ-108
 
+Conformément à l'article 1 de l'arrêté du 20 décembre 2023 (NOR : ENER2333440A), la fiche d'opération standardisée n° AGRI-EQ-108 est remplacée par la fiche figurant en annexe A audit arrêté, à compter du 1er février 2024.
+
 - Couverture performante de serre / fiche d'opération n° AGRI-EQ-109
+
+Conformément à l'article 1 de l'arrêté du 20 décembre 2023 (NOR : ENER2333440A), la fiche d'opération standardisée n° AGRI-EQ-109 est remplacée par la fiche figurant en annexe A audit arrêté, à compter du 1er février 2024.
 
 - Séchage solaire par insufflation des produits et co-produits agricoles et forestiers utilisant des panneaux solaires hybrides / Fiche d'opération n° AGRI-EQ-110
 
@@ -75,6 +83,14 @@ Conformément à l'article 2 de l'arrêté du 17 décembre 2021 (NOR : TRER21370
 Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° AGRI-SE-101 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
 
 Liens
+
+Vous pouvez consulter les fiches dans le fac-similé du JO nº 0300 du 28/12/2023, texte nº 103
+
+https://www.legifrance.gouv.fr/download/pdf?id=QRgTaQfM0balM0WO-DVjXuRduuVQURzFXR8cwSfIBHg=
+
+Vous pouvez consulter les fiches dans le fac-similé du JO nº 0227 du 30/09/2023, texte nº 39
+
+https://www.legifrance.gouv.fr/download/pdf?id=2eo_9bKPruY9aVYxIHHqRZAonPLOBawu6mXaWDKqFfw=
 
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0301 du 28/12/2021, texte nº 7
 
@@ -134,4 +150,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd
 
 NOTA :
 
-Conformément à l'article 2 de l’arrêté du 18 mars 2023 (NOR : ENER2303227A), ces dispositions entrent en vigueur à compter du 1er avril 2023.
+Conformément à l'article 1 de l’arrêté du 15 septembre 2023 (NOR : ENER2325207A), ces dispositions entrent en vigueur à compter du 1er janvier 2024.

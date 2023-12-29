@@ -22,6 +22,8 @@ Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER200
 
 Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-EN-104, figurant en annexe D dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
+
 -Isolation des combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-106
 
 Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
@@ -34,6 +36,8 @@ Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TR
 
 -Réduction des apports solaires par la toiture (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-109
 
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-EN-109, figurant en annexe D dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
+
 -Protections des baies contre le rayonnement solaire (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-110
 
 -Fenêtre ou porte-fenêtre complète avec vitrage pariétodynamique (France métropolitaine) / Fiche d’opération standardisée n° BAT-EN-111
@@ -41,6 +45,8 @@ Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TR
 -Revêtements réflectifs en toiture / Fiche d’opération standardisée n° BAT-EN-112
 
 -Façade rideau ou semi-rideau avec vitrage isolant / Fiche d’opération standardisée n° BAT-EN-113
+
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-EN-113, figurant en annexe D dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
 
 -Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAT-SE-103
 
@@ -128,6 +134,8 @@ Conformément à l’article 3 de l’arrêté du 12 juillet 2022 (NOR : ENER221
 
 -Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-134
 
+Conformément à l'article 1 de l'arrêté du 20 décembre 2023 (NOR : ENER2333440A), la fiche d'opération standardisée n° BAT-TH-134 est remplacée par la fiche figurant en annexe B audit arrêté, à compter du 1er avril 2024.
+
 -Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-135
 
 -Récupération de chaleur sur groupe de production de froid / Fiche d’opération standardisée n° BAT-TH-139
@@ -148,6 +156,8 @@ Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRE
 
 Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : TRER2121430A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er novembre 2021.
 
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-EN-142, figurant en annexe E dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
+
 -Ventilo-convecteurs haute performance / Fiche d’opération standardisée n° BAT-TH-143
 
 -Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante ‘France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-145
@@ -167,6 +177,8 @@ Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER23252
 -Isolation de points singuliers d’un réseau / Fiche d’opération standardisée n° BAT-TH-155
 
 Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-TH-155, figurant en annexe E dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
+
+Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-TH-155, figurant en annexe D dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
 
 -Freecooling par eau de refroidissement en substitution d’un groupe froid pour la climatisation / Fiche d’opération standardisée n° BAT-TH-156
 
@@ -223,6 +235,8 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 -Meuble frigorifique de vente performant avec groupe de production de froid intégré / Fiche d’opération standardisée n° BAT-EQ-134
 
 Liens :
+
+Vous pouvez consulter l'intégralité de l’arrêté du 20 décembre 2023 (NOR : ENER2333440A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28 décembre 2023, texte 100, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=QRgTaQfM0balM0WO-DVjXuRduuVQURzFXR8cwSfIBHg=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0227 du 30/09/2023, texte n° 39, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=2eo_9bKPruY9aVYxIHHqRZAonPLOBawu6mXaWDKqFfw=
 
