@@ -90,7 +90,7 @@ Les documents de preuve de réalisation de l'opération comportent :
 
 La preuve du rôle actif et incitatif est apportée par l'un des éléments ou ensemble d'éléments décrits ci-après.
 
-Lorsque le bénéficiaire est une personne physique ou un syndicat de copropriétaires, le cadre CONTRIBUTION défini à l'annexe 8 est inséré dans le contrat ou l'engagement, annexé, ou joint à celui-ci. Toutefois, pour les opérations de covoiturage relevant des fiches d'opérations standardisées TRA-SE-114 ou TRA-SE-115, le cadre CONTRIBUTION défini à l'annexe 8 bis est inséré dans le contrat ou l'engagement, annexé, ou joint à celui-ci, en lieu et place du cadre CONTRIBUTION défini à l'annexe 8.
+Lorsque le bénéficiaire est une personne physique ou un syndicat de copropriétaires, le cadre CONTRIBUTION défini à l'annexe 8 est inséré dans le contrat ou l'engagement, annexé, ou joint à celui-ci. Toutefois, pour les opérations de covoiturage relevant des fiches d'opérations standardisées TRA-SE-114 ou TRA-SE-115 et réalisées dans le cadre des Coups de pouce “ Covoiturage courte distance ” et “ Covoiturage longue distance ”, le cadre CONTRIBUTION défini à l'annexe 8 bis est inséré dans le contrat ou l'engagement, annexé, ou joint à celui-ci, en lieu et place du cadre CONTRIBUTION défini à l'annexe 8. Pour les opérations de covoiturage relevant de la fiche d'opération standardisée TRA-SE-114 réalisées hors Coup de pouce “ Covoiturage longue distance ”, le cadre CONTRIBUTION défini à l'annexe 8 bis peut être utilisé, en lieu et place du cadre CONTRIBUTION défini à l'annexe 8, pour les opérations engagées jusqu'au 31 janvier 2024.
 
 Si la contribution est un audit ou conseil personnalisé, celui-ci prend la forme d'un document écrit remis au bénéficiaire et dont une copie est archivée par le demandeur.
 
@@ -467,7 +467,3 @@ f) La durée de la garantie ;
 g) Les pénalités en cas de non-atteinte de la performance garantie par le contrat.
 
 2° La liste des opérations standardisées ou spécifiques réalisées dans le cadre du CPE. Les opérations d'économies d'énergie pouvant être bonifiée dans le cadre du CPE sont engagées au plus tôt à la date de signature de ce contrat. Les travaux concernés sont achevés de manière à ce qu'ils produisent les économies d'énergie attendues a minima sur toute la période de garantie de la performance du contrat.
-
-NOTA :
-
-Conformément à l'article 2 de l’arrêté du 2 décembre 2022 (NOR : ENER2232310A), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
