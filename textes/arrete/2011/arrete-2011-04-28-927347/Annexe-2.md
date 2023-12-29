@@ -4,9 +4,9 @@ MODÈLE DE GARANTIE
 
 Garantie d'Affilié
 
-Garantie Autonome à Première Demande.
+Garantie Autonome à Première Demande
 
-Nous, soussignés [nom], une société dûment constituée selon les lois de [pays], ayant son siège social [adresse], représentée par [nom], dûment autorisé, (le " Garant " ou " Nous "), acceptons par le présent document de donner, ce jour, à la Caisse des dépôts et consignations (CDC) intervenant en tant que mandataire d'Electricité de France (" EDF "), société anonyme au capital de 1 006 625 695,50 euros (un milliard six millions six cent quatre-vingt-quinze euros et cinquante centimes), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, RCS Paris n° 552 081 317, une garantie autonome à première demande des obligations de notre Affilié, la société [nom de l'Acheteur] au titre de l'accord-cadre signé entre l'Affilié et EDF (" accord-cadre ") au titre de l'accès régulé à l'électricité nucléaire historique (ARENH) et de toutes les Notifications de Cession annuelle d'énergie, dans les conditions énoncées ci-dessous (la " Garantie ").
+Nous, soussignés [nom], une société dûment constituée selon les lois de [pays], ayant son siège social [adresse], représentée par [nom], dûment autorisé, (le " Garant " ou " Nous "), acceptons par le présent document de donner, ce jour, à la Caisse des dépôts et consignations (CDC) intervenant en tant que mandataire d'Electricité de France (" EDF "), société anonyme au capital de 2 084 365 041 euros (deux milliard quatre-vingt-quatre millions trois cent soixante-cinq mille quarante et un euros), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, RCS Paris n° 552 081 317, une garantie autonome à première demande des obligations de notre Affilié, la société [nom de l'Acheteur] au titre de l'accord-cadre signé entre l'Affilié et EDF (" accord-cadre ") au titre de l'accès régulé à l'électricité nucléaire historique (ARENH) et de toutes les Notifications de Cession annuelle d'énergie, dans les conditions énoncées ci-dessous (la " Garantie ").
 
 Préambule
 
@@ -24,21 +24,13 @@ Il est convenu ce qui suit :
 
 3. La Garantie constitue une obligation personnelle du Garant ; elle est indépendante des obligations de [l'Acheteur] au titre de l'accord-cadre. Le Garant renonce, expressément et de manière irrévocable, au droit d'invoquer toute relation présente, passée ou future, entre [l'Acheteur] et EDF ou le Garant dans le but de s'opposer aux paiements prévus au paragraphe 1 ci-dessus.
 
-4. La Garantie prendra effet le [⁎], date au-delà de laquelle toute Demande sera irrecevable.
+4. La Garantie prendra effet le _ _ _ _
 
-Si nouvelle Garantie : [4. La Garantie prendra effet le, date au-delà de laquelle toute demande sera irrecevable. Cette Garantie entraîne résiliation de plein droit, à sa date de prise d'effet, de la Garantie en cours.]
-
-5. Le Garant reconnaît et accepte qu'il demeurera lié par ses obligations en qualité de Garant au titre de la Garantie, indépendamment de la validité ou de l'absence de validité de l'accord-cadre.
-
-6. Par la présente, le Garant déclare et garantit :
-
-(i) Qu'il est une [forme sociétaire] dûment constituée selon les lois de [pays], jouissant de la personnalité morale et possédant la pleine capacité juridique et le pouvoir d'exercer ses activités dans lesquelles il est actuellement engagé, de fournir la Garantie et de remplir toutes ses obligations au titre de la Garantie ;
-
-(ii) Que [M.] [⁎] est dûment habilité à signer la Garantie, cette habilitation lui ayant été conférée par une [du conseil d'administration ou autre organe compétent, suivant la forme sociétaire du Garant] prise conformément au droit [pays où le Garant a été constitué] ;
+_ _ _ _ _ est dûment habilité à signer la Garantie, cette habilitation lui ayant été conférée par une [du conseil d'administration ou autre organe compétent, suivant la forme sociétaire du Garant] prise conformément au droit [pays où le Garant a été constitué] ;
 
 (iii) Que la signature, l'exécution de la Garantie et les obligations qui en résultent ne contreviennent en aucune façon ni à ses statuts ni aux textes légaux ou réglementaires qui lui sont applicables ni à un quelconque engagement auquel il pourrait être tenu ;
 
-(iv) Qu'il respecte les critères minimum correspondant à la Notation de crédit agréée.
+(iv) Qu'il respecte les critères minimums correspondant à la Notation de crédit agréée.
 
 7. Le Garant s'engage à communiquer à la CDC toute modification de sa notation financière dans les 24 heures suivant la date officielle de cette modification lorsque l'une quelconque des notations financières ci-dessous ne respecte plus le critère minimum correspondant :
 
@@ -58,7 +50,7 @@ Si nouvelle Garantie : [4. La Garantie prendra effet le, date au-delà de laquel
 
 10. La somme maximum est de [montant en chiffres et en lettres] euros.
 
-11. Toute somme due par le Garant au titre de la présente Garantie et impayée après la date d'expiration du délai de règlement prévu ci-dessus portera intérêt, dans les limites autorisées par la loi, (i) au taux Euribor 1 mois, tel qu'affiché sur la page pertinente de l'écran Reuters à 11 heures (heure de Bruxelles) au jour de détermination de ce taux, (ii) augmenté de 3 % par an à compter de la date d'expiration du délai de règlement prévu ci-dessus jusqu'à la date de règlement effectif à la CDC. Les intérêts dus au titre du présent paragraphe seront calculés sur la base du nombre exact de jours rapportés à une année de 360 jours, étant précisé que toute période de référence pour le calcul de ce montant inclura lors dudit calcul le premier jour de cette période et exclura le dernier. Ces intérêts de retard seront payables par le Garant à première demande de la CDC. Les intérêts de retard échus et non payés seront capitalisés avec le montant impayé au titre duquel ils sont dus si, au sens de l'article 1343-2 du code civil, ces intérêts sont dus pour au moins une année entière.
+11. Toute somme due par le Garant au titre de la présente Garantie et impayée après la date d'expiration du délai de règlement prévu ci-dessus portera intérêt, dans les limites autorisées par la loi, (i) au taux Euribor 1 mois, tel qu'affiché sur la page pertinente de l'écran Reuters à 11 heures (heure de Bruxelles) au jour de détermination de ce taux, (ii) augmenté de 3 % par an à compter de la date d'expiration du délai de règlement prévu ci-dessus jusqu'à la date de règlement effectif à la CDC. Les intérêts dus au titre du présent paragraphe seront calculés sur la base du nombre exact de jours rapportés à une année de 360 jours, étant précisé que toute Période de référence pour le calcul de ce montant inclura lors dudit calcul le premier jour de cette Période et exclura le dernier. Ces intérêts de retard seront payables par le Garant à première demande de la CDC. Les intérêts de retard échus et non payés seront capitalisés avec le montant impayé au titre duquel ils sont dus si, au sens de l'article 1343-2 du code civil, ces intérêts sont dus pour au moins une année entière.
 
 11-1. Les parties peuvent modifier le présent contrat par avenant portant sur la date de validité de la garantie et sur le montant de la garantie. L'avenant est conforme au modèle annexé à l'Accord-cadre.
 
@@ -72,21 +64,11 @@ Si nouvelle Garantie : [4. La Garantie prendra effet le, date au-delà de laquel
 
 [adresse]
 
-A l'attention de : [⁎]
+A l'attention de :
 
-Numéro de téléphone : [⁎]
+Numéro de télécopie :
 
-Numéro de télécopie : [⁎]
-
-(ii) Concernant la CDC :
-
-[adresse]
-
-A l'attention de : [⁎]
-
-Numéro de téléphone : [⁎]
-
-Numéro de télécopie : [⁎]
+Numéro de téléphone :
 
 14. Cette garantie est [PRIORITAIRE ou SUBSIDIAIRE]. A préciser en cas de pluralité de Garanties.
 
@@ -108,7 +90,7 @@ Nom et qualité
 
 Signé et conclu le :
 
-Annexe
+ANNEXE
 
 Modèle de demande
 
