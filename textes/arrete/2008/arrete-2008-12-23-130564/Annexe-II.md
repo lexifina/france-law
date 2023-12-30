@@ -70,7 +70,7 @@ Chef de l'équipe logistique |
 
 Préfecture de l'Ardèche |
 
-Chef de garage-chauffeur automobile gestionnaire parc automobile |
+Chef de garage - chauffeur automobile gestionnaire parc automobile |
 
 1 |
 
@@ -100,7 +100,7 @@ Chef d'équipe technique et logistique |
 
 10 |
 
-Secrétariat général commun de l'Aube |
+Préfecture de l'Aube |
 
 Cuisinier-responsable de l'encadrement de l'hôtel du préfet de l'Aube |
 
@@ -110,7 +110,7 @@ Cuisinier-responsable de l'encadrement de l'hôtel du préfet de l'Aube |
 
 Préfecture des Bouches-du-Rhône |
 
-Responsable de l'atelier reprographie |
+Maître d'hôtel |
 
 1 |
 
@@ -182,7 +182,7 @@ Chef du garage |
 
 Préfecture de la Corse-du-Sud |
 
-Intendant de la résidence du préfet |
+Chef de garage |
 
 1 |
 
@@ -236,15 +236,15 @@ Chef de garage |
 
 28 |
 
-Préfecture de l'Eure-et-Loir |
+Secrétariat général commun de l'Eure-et-Loir |
 
-Chef de garage |
+Responsable technique-chef du pôle immobilier |
 
 1 |
 
 29 |
 
-Secrétariat général commun du Finistère |
+Préfecture du Finistère |
 
 Chef de garage |
 
@@ -454,7 +454,7 @@ Intendant de l'hôtel préfectoral |
 
 Préfecture de la Marne |
 
-Intendant de la résidence du préfet |
+Chef de garage |
 
 1 |
 
@@ -462,7 +462,7 @@ Intendant de la résidence du préfet |
 
 Préfecture de la Haute-Marne |
 
-Chef du garage |
+Chef de cuisine |
 
 1 |
 
@@ -486,7 +486,7 @@ Maître d'hôtel de la résidence du préfet |
 
 Secrétariat général commun de la Meuse |
 
-Adjoint au chef du service intérieur |
+Adjoint au chef de bureau de l'immobilier, de la logistique et de l'accueil |
 
 1 |
 
@@ -526,15 +526,15 @@ Chef du garage |
 
 Préfecture du Nord |
 
-Responsable de l'atelier reprographie |
+Chargé de la gestion électronique des ressources documentaires |
 
 1 |
 
 59 |
 
-Préfecture du Nord |
+Secrétariat général commun du Nord |
 
-Huissier |
+Responsable sécurité-conseiller de prévention |
 
 1 |
 
@@ -718,7 +718,7 @@ Chef du garage |
 
 Préfecture des Yvelines |
 
-Conducteur de travaux-Contremaître |
+Conducteur de travaux - Contremaître |
 
 1 |
 
@@ -772,9 +772,9 @@ Chef du garage |
 
 84 |
 
-Préfecture de Vaucluse |
+Secrétariat général commun de Vaucluse |
 
-Maître d'hôtel |
+Adjoint au chef du pôle service technique |
 
 1 |
 
@@ -844,7 +844,7 @@ Chef de cuisine |
 
 90 |
 
-Préfecture du Territoire de Belfort |
+Secrétariat général commun du Territoire de Belfort |
 
 Chef de garage et coordinateur technique |
 
@@ -934,7 +934,7 @@ Chef du garage |
 
 Secrétariat général commun de la Réunion |
 
-Chef de l'équipe du service intérieur |
+Adjoint au chef d'atelier |
 
 1 |
 
@@ -964,7 +964,7 @@ d'emplois
 
 13 |
 
-SGAMI de la zone de défense et de sécurité Sud/ Del/ BMM/
+SGAMI de la zone de défense et de sécurité Sud/Del/BMM/
 
 Atelier avancé Fos-sur-Mer |
 
@@ -974,7 +974,7 @@ Responsable de l'atelier mécanique |
 
 13 |
 
-SGAMI de la zone de défense et de sécurité Sud/ Del/ BMM/
+SGAMI de la zone de défense et de sécurité Sud/Del/BMM/
 
 Atelier Noilly Prat |
 
@@ -1006,13 +1006,13 @@ Chef de secteur électricité-auto |
 
 1 |
 
-38 |
+69 |
 
-SGAMI de la zone de défense et de sécurité Sud-Est/ Meylan
+SGAMI de la zone de défense et de sécurité Sud-Est/ Saint-Fons
 
 |
 
-Chef de l'atelier |
+Adjoint au chef d'équipe carrosserie |
 
 1 |
 
@@ -1056,11 +1056,11 @@ Responsable réception à l'atelier auto |
 
 1 |
 
-57 |
+21 |
 
-SGAMI de la zone de défense et de sécurité Est/ Metz |
+SGAMI de la zone de défense et de sécurité Est/ Dijon |
 
-Armurier logisticien |
+Chef de la station service rapide |
 
 1 |
 
@@ -1184,11 +1184,11 @@ d'emplois
 
 |
 
-31 |
+75 |
 
-Région de gendarmerie Midi-Pyrénées-Toulouse |
+Garde républicaine/ CM des Célestins |
 
-Chef magasinier |
+Maître d'hôtel-responsable événementiel |
 
 1 |
 
@@ -1208,19 +1208,19 @@ Adjoint au chef de section sécurité et logistique du musée de la GN |
 
 1 |
 
-77 |
+40 |
 
-RZG IdF/EOGN Melun/BBSAI |
+Région Nouvelle-Aquitaine/ CMGM de Mont-de-Marsan |
 
-Chef de l'atelier menuiserie |
+Cuisinier |
 
 1 |
 
 59 |
 
-RZG NORD Nord-Pas-de-Calais/CM Villeneuve-d'Ascq |
+Région Hauts-de-France/ CM de Lille |
 
-Chef de cuisine |
+Second de cuisine |
 
 1 |
 
@@ -1240,11 +1240,11 @@ Chef de cuisine |
 
 1 |
 
-45 |
+40 |
 
-RZG Ouest Centre/ EM/ Section Commandement/ ESG/ Orléans |
+Région Centre-Val de Loire/ DAO/ BIL/ Orléans |
 
-Chef de cuisine |
+Chef de la section appui technique |
 
 1 |
 
@@ -1256,11 +1256,11 @@ Chef de cuisine |
 
 1 |
 
-03 |
+31 |
 
-RZG Sud-Est Rhône-Alpes/EG Montluçon/CM |
+Région Occitanie/ DAO/ BC/ Toulouse |
 
-Adjoint au chef de cuisine |
+Adjoint au chef de la section appui technique |
 
 1 |
 
@@ -1284,13 +1284,13 @@ Adjoint gérant restauration |
 
 1 |
 
-35 |
+36 |
 
-Région de gendarmerie Bretagne-cercle mixte Rennes
+Région Bretagne/ CMGM de Châteauroux
 
 |
 
-Chef de cuisine |
+Adjoint au directeur du cercle mixte |
 
 1 |
 
@@ -1316,11 +1316,11 @@ Chef de la cellule des matériels |
 
 57 |
 
-Région de gendarmerie Est - cercle mixte Metz
+Région Grand-Est/ DAO/ BC/ Metz
 
 |
 
-Chef de cuisine |
+Chef de la section de l'appui technique |
 
 1 |
 
@@ -1351,6 +1351,56 @@ Région de gendarmerie d'Ile-de-France - cercle mixte Maisons-Alfort
 |
 
 Gérant du cercle mixte |
+
+1 |
+
+03 |
+
+Ecole de gendarmerie de Montluçon
+
+|
+
+Adjoint au chef de la cellule diffusion |
+
+1 |
+
+52 |
+
+Ecole de gendarmerie de Chaumont
+
+|
+
+Adjoint au chef de cuisine |
+
+1 |
+
+59 |
+
+Région de gendarmerie Hauts-de-France - Lille
+
+|
+
+Adjoint au chef du service général |
+
+1 |
+
+77 |
+
+Ecole des officiers de la gendarmerie nationale de Melun
+
+|
+
+Maître d'hôtel |
+
+1 |
+
+973 |
+
+Commandement de la gendarmerie de la Guyane - Cayenne
+
+|
+
+Chef de cuisine |
 
 1 |
 
@@ -1452,14 +1502,6 @@ Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la g
 
 2 |
 
-Zone Sud-Ouest |
-
-École Nationale de la Police |
-
-Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer |
-
-1 |
-
 Zone Sud-Est |
 
 Sous-direction des méthodes et de l'appui à Clermont-Ferrand |
@@ -1511,8 +1553,6 @@ Zone Sud-Est |
 Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
 
 1 |
-
-.
 
 Périmètre sécurité civile
 
@@ -1580,8 +1620,8 @@ Responsable des véhicules spéciaux |
 
 77 |
 
-Direction du Numérique/ Lognes |
+Direction de la transformation numérique/ SDENTAT/ CNSN Lognes |
 
-Agent d'exploitation au CNPT Limoges |
+Responsable de la cellule fabrication CNI |
 
 1 |

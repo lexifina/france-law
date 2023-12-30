@@ -46,7 +46,7 @@ Intendant de la résidence du préfet |
 
 Préfecture de la Gironde |
 
-Chef du garage |
+Huissier de Monsieur le préfet |
 
 1 |
 
@@ -218,11 +218,11 @@ Chef du secteur carrosserie peinture |
 
 1 |
 
-77 |
+75 |
 
-Zone de défense et de sécurité IDF/ Melun |
+Préfecture de police de Paris/ DILT/ SDEL/ SMM/ CSA Nord |
 
-Chef d'équipe de la section 2 roues |
+Chef d'équipe mécanique auto VL-VU |
 
 1 |
 
@@ -242,11 +242,11 @@ Adjoint au chef de l'équipe "mécanique générale" |
 
 1 |
 
-95 |
+78 |
 
-Zone de défense et de sécurité IDF/ Boissy-l'Aillerie |
+Préfecture de police de Paris/ DILT/ SDEL/ SMM/ CSA Le Chesnay |
 
-Adjoint au chef de l'atelier avancé |
+Chef d'équipe mécanique auto VL-VU |
 
 1 |
 
@@ -282,11 +282,11 @@ d'emplois
 
 |
 
-03 |
+21 |
 
-Ecole de gendarmerie Montluçon-cercle mixte |
+Ecole de gendarmerie de Dijon-cercle mixte |
 
-Chef de cuisine |
+Adjoint au chef de cuisine |
 
 1 |
 
@@ -298,11 +298,11 @@ Adjoint au chef de cuisine |
 
 1 |
 
-29 |
+21 |
 
-Ecole de gendarmerie de Châteaulin - cercle mixte |
+Ecole de gendarmerie de Dijon-cercle mixte |
 
-Chef de cuisine |
+Adjoint au chef de cuisine |
 
 1 |
 
@@ -396,7 +396,7 @@ Responsable de la gestion des matériels |
 
 87 |
 
-Direction du numérique/ SDES/ CNPT/ Limoges |
+Direction de la transformation numérique/ SDENTAT/ CNSN Limoges |
 
 Adjoint au responsable de la cellule exploitation |
 
