@@ -1076,7 +1076,7 @@ Défaillance majeure si l'essieu n'est pas directeur
 
 |
 
-Dans le cas d'un véhicule réceptionné suivant la directive 2007/46/ CEE ou le règlement (UE) 2018/858 de base en catégorie N puis en multi-étapes en catégorie M1, de genre “ VASP ” et de carrosserie “ CARAVANE ”, “ AMBULANC ” ou “ FG FUNER ”, les seuils d'efficacité de freinage requis sont ceux applicables au véhicule de catégorie N ayant servi de base à la transformation.
+Dans le cas d'un véhicule réceptionné suivant la directive 2007/46/ CEE ou le règlement (UE) 2018/858 de base en catégorie N puis en multi-étapes en catégorie M1 ou M1G, de genre “ VASP ” et de carrosserie “ CARAVANE ”, “ AMBULANC ” ou “ FG FUNER ”, les seuils d'efficacité de freinage requis sont ceux applicables au véhicule de catégorie N ayant servi de base à la transformation.
 
 Dans ce cas, la personne présentant le véhicule au contrôle technique fournit un document attestant de la catégorie du véhicule ayant servi de base à la transformation. Une copie de ce document est archivée avec le duplicata du procès-verbal. Le contrôleur saisit le commentaire “ Véhicule M1/ VASP/ CARAVANE ou AMBULANC ou FG FUNER réceptionné en multi-étapes, seuils d'efficacité de freinage adaptés.
 

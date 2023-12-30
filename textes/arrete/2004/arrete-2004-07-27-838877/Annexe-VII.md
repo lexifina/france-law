@@ -92,7 +92,7 @@ La notification est accompagnée :
 
 A défaut, l'attestation visée par l'ancien centre est remplacée par une copie de la lettre d'information transmise au centre par le contrôleur.
 
-4.3.3. Le changement d'exploitant du centre de rattachement. La notification est accompagnée de la pièce prévue au point 4 du paragraphe 1 de la présente annexe.
+4.3.3. (Supprimé).
 
 4.3.4. La décision de modification d'agrément est notifiée simultanément au contrôleur, au centre de contrôle des véhicules lourds auquel il est rattaché et à la direction du réseau éventuel ainsi qu'à l'organisme technique central.
 
@@ -132,7 +132,7 @@ g) Une déclaration sur l'honneur de la personne désignée pour assurer l'explo
 
 II. - Demande d'agrément
 
-L'ensemble du dossier est transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle.
+L'ensemble du dossier est transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle. Le dossier peut également être transmis par voie électronique ou saisi sur une interface informatique si la préfecture de destination a pris des dispositions en ce sens.
 
 III. - Décision
 
@@ -212,7 +212,7 @@ h) Une déclaration sur l'honneur de la personne désignée pour assurer l'explo
 
 II. - Demande d'agrément
 
-L'ensemble du dossier est transmis en trois exemplaires à la préfecture du lieu d'implantation du centre de contrôle.
+L'ensemble du dossier est transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle. Le dossier peut également être transmis par voie électronique ou saisi sur une interface informatique si la préfecture de destination a pris des dispositions en ce sens.
 
 III. - Décision
 
@@ -414,7 +414,9 @@ Adresse complète du domicile : ................................................
 
 ............................................................................................................
 
-Adresse électronique : ...........................................................................
+Adresse électronique du contrôleur : ...........................................................................
+
+Adresse électronique du centre de contrôle des véhicules lourds de rattachement : ...............................................................................................
 
 Nom et adresse du centre de contrôle des véhicules lourds de rattachement :
 
@@ -560,7 +562,9 @@ DÉCLARATION SUR L'HONNEUR
 
 Je soussigné, (nom et prénom de la personne physique ou du représentant légal de la personne morale)
 
-Demandant l'agrément des installations de contrôle (adresse du centre)
+Demandant l'agrément des installations de contrôle (adresse postale du centre)
+
+Adresse électronique du demandeur de l'agrément :
 
 déclare sur l'honneur que les renseignements contenus dans le dossier de demande d'agrément pour les installations de contrôle situées à (localisation des installations)
 

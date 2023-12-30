@@ -68,9 +68,9 @@ Numéro d'agrément
 
 Numéro d'agrément
 
-Nom et prénom
-
 Signature
+
+Jusqu'au 31 décembre 2024, la mention : " Nom et prénom : non renseignés " peut figurer en complément dans cette rubrique.
 
 10. L'identification du véhicule :
 
@@ -216,7 +216,9 @@ Le verso du procès-verbal comporte exclusivement les mentions suivantes :
 
 “ La contre-visite doit avoir lieu dans le délai prescrit lors du contrôle technique périodique et prévu à l'article 11 de l'arrêté du 27 juillet 2004. Passé ce délai, un nouveau contrôle technique périodique est obligatoire. Lorsque la contre-visite est réalisée dans un centre différent de celui où a été réalisé le contrôle technique périodique, le procès-verbal du contrôle technique périodique doit obligatoirement être présenté au contrôleur, faute de quoi un contrôle technique complet est réalisé. Les points ou ensembles de points à contrôler lors de la contre-visite sont définis à l'annexe I de l'arrêté du 27 juillet 2004 modifié ” ;
 
-“ Vous disposez d'un droit d'accès et de rectification des informations nominatives vous concernant. Vous pouvez exercer ce droit en vous adressant au centre ayant édité le présent procès-verbal ”.
+“ Vous disposez d'un droit d'accès et de rectification des informations nominatives vous concernant. Vous pouvez exercer ce droit en vous adressant au centre ayant édité le présent procès-verbal ” ;
+
+- La signalétique prévue à l'article L. 541-9-3 du code de l'environnement. Jusqu'au 31 décembre 2024, cette signalétique est facultative.
 
 1.4. Couleurs d'impression
 
@@ -225,6 +227,8 @@ Les couleurs d'impression sont :
 - recto : noir (centre non rattaché) ou couleurs spécifiques du réseau ;
 
 - verso : noir (centre non rattaché) ou couleurs spécifiques du réseau.
+
+Ces dispositions ne s'appliquent pas à la signalétique prévue à l'article L. 541-9-3 du code de l'environnement dont la couleur est conforme à la réglementation applicable.
 
 1.5. Numérotation
 

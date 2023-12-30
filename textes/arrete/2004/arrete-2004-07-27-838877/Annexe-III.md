@@ -32,6 +32,8 @@ Les installations de contrôle comprennent également :
 
 - un dispositif de contrôle de l'usure des pneumatiques ;
 
+- une cale de 6 cm de côté permettant le contrôle des dispositifs anti-pincement des portes des véhicules de transport en commun de personnes ;
+
 - un équipement permettant l'introduction de la sonde du dispositif de mesure de l'opacité des fumées en présence d'un échappement vertical ;
 
 - des équipements permettant la communication par radio entre le contrôleur et le conducteur.
@@ -86,7 +88,7 @@ Pour chaque matériel de contrôle visé à la présente annexe, les cahiers des
 
 C. - Contrôle visuel
 
-Les installations de contrôle comprennent également une ou plusieurs fosse (s) de 18 mètres de long (en fond de fosse, hors escaliers) avec deux escaliers distincts, d'une profondeur comprise entre 1,5 mètre et 1,7 mètre et d'une largeur minimale de 0,80 mètre.
+Sans préjudice des dispositions réglementaires en vigueur relatives à la protection des travailleurs et de l'environnement, les installations de contrôle comprennent également une ou plusieurs fosse (s) de 18 mètres de long (en fond de fosse, hors escaliers) d'une profondeur comprise entre 1,5 mètre et 1,7 mètre et d'une largeur minimale de 0,80 mètre dont l'accès est possible par une coursive latérale avec escalier et un autre dispositif ou par deux escaliers distincts.
 
 La profondeur peut être portée jusqu'à 1,85 mètre sous réserve de la présence de banquettes latérales d'au moins 0,15 mètre sur toute la longueur de la fosse (en dehors de la zone du dispositif de contrôle du freinage).
 
@@ -216,9 +218,9 @@ Le local utilisé comme zone de contrôle :
 
 - est couvert ;
 
-- possède deux accès distincts et opposés pour chaque fosse ;
+- possède deux accès distincts et opposés pour chaque ligne de contrôle ;
 
-- présente une surface plane et horizontale sur une distance de 20 mètres en amont et en aval du dispositif de contrôle de freinage ;
+- présente une surface plane et horizontale sur une distance de 20 mètres en amont et en aval du dispositif de contrôle de freinage, une partie de cette surface pouvant se trouver à l'extérieur du local ;
 
 - permet l'accès aux véhicules visés au E. 1.1 de la présente annexe et offre un espace suffisant autour des véhicules pour permettre l'examen visuel ;
 
@@ -229,6 +231,8 @@ L'état de la surface de la zone de contrôle permet le déplacement du personne
 Le local permet l'accès aux véhicules visés au E. 1.1 de la présente annexe et offre un espace libre et continu d'au moins 2,10 mètres de part et d'autre de l'axe médian de la fosse.
 
 Le poste de travail pour le contrôle des émissions polluantes peut être aménagé à l'extérieur de la zone de contrôle. Dans ce cas, le matériel est adapté aux conditions de fonctionnement en extérieur.
+
+La zone de positionnement du véhicule pour le contrôle du réglage des feux d'éclairage peut se trouver en totalité ou en partie à l'extérieur du local.
 
 E. 7. Autres spécificités
 
@@ -243,7 +247,3 @@ Dans le cas où les essais de freinage sont réalisés avec un décéléromètre
 - une zone de freinage d'au moins 100 mètres droite, horizontale et à la surface dure et présentant un bon coefficient d'adhérence (béton de ciment ou enrobé bitumineux par exemple).
 
 En dehors des zones privées appartenant à l'installation, l'autorisation des autorités compétentes ou du propriétaire est disponible. Dans tous les cas, les essais sont réalisés en toute sécurité.
-
-NOTA :
-
-Conformément à l’article 13 de l’arrêté du 10 mai 2022 (TRER2213952A), les dispositions des articles 4, 6, 8 et 11, du 3° de l'article 5, du 5° de l'article 7 entrent en vigueur un mois après la publication de l'arrêté.

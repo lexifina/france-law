@@ -146,6 +146,8 @@ D. 1.2. En l'absence d'activité depuis plus d'un an, le réseau ou la personne 
 
 Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 35 heures si la durée de l'absence d'activité est inférieure à trois ans (d'une durée minimale de 70 heures dans les autres cas) et d'une partie pratique de 35 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
 
+Si la durée de l'absence d'activité est supérieure à cinq ans, cette remise à niveau consiste en une formation initiale telle que prévue au B. 1.2.2 de la présente annexe.
+
 D. 1.3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point C pour l'année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
 D. 1.4. La délivrance de l'agrément ou la reprise d'activité du contrôleur sont assujetties :
@@ -155,6 +157,10 @@ D. 1.4. La délivrance de l'agrément ou la reprise d'activité du contrôleur s
 - à un examen pratique favorable, portant sur un contrôle technique réalisé dans des conditions identiques à celles d'un contrôle technique réglementaire, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
 
 L'évaluation des connaissances et l'examen pratique sont réalisés et justifiés par le réseau de rattachement ou un organisme d'audit agréé en application de l'article 35-1 du présent arrêté.
+
+L'examen pratique donne lieu à l'établissement d'une attestation par le réseau de rattachement ou l'organisme d'audit.
+
+Ce point ne s'applique pas dans le cas où une remise à niveau consistant en une formation initiale telle que prévue au B. 1.2.2 de la présente annexe a été réalisée.
 
 En cas de non-respect de la disposition prévue au point C. 1.1.2 pour une année N, l'évaluation et l'examen pratique sus-mentionnés peuvent être réalisés au cours du mois de décembre de l'année N.
 
@@ -176,6 +182,8 @@ D. 2.4. La reprise d'activité du contrôleur est assujettie :
 
 L'évaluation des connaissances et l'examen pratique sont réalisés et justifiés par le réseau de rattachement ou un organisme d'audit agréé en application de l'article 35-1 du présent arrêté.
 
+L'examen pratique donne lieu à l'établissement d'une attestation par le réseau de rattachement ou l'organisme d'audit.
+
 En cas de non-respect de la disposition prévue au point C. 2.1.3 pour une année N, l'évaluation et l'examen pratique sus-mentionnés peuvent être réalisés au cours du mois de décembre de l'année N.
 
 D. 3. Remise à niveau pour la qualification relative au contrôle technique des véhicules de transports de marchandises dangereuses (Q3)
@@ -196,13 +204,15 @@ D. 3.4. La reprise d'activité du contrôleur est assujettie :
 
 L'évaluation des connaissances et l'examen pratique sont réalisés et justifiés par le réseau de rattachement ou un organisme d'audit agréé en application de l'article 35-1 du présent arrêté.
 
+L'examen pratique donne lieu à l'établissement d'une attestation par le réseau de rattachement ou l'organisme d'audit.
+
 En cas de non-respect de la disposition prévue au point C. 3.1.3 pour une année N, l'évaluation et l'examen pratique sus-mentionnés peuvent être réalisés au cours du mois de décembre de l'année N.
 
 E. - Qualification des exploitants
 
 E. 1. A défaut de la présentation d'un agrément de contrôleur de véhicules lourds en cours de validité, la personne physique assurant l'exploitation du centre de contrôle (exploitant), désignée à cet effet par le titulaire de l'agrément du centre, justifie d'une formation d'une durée minimale de 35 heures dans un délai maximum de 6 mois à compter de sa désignation.
 
-L'exploitant justifie, par ailleurs, d'une formation de maintien de qualification d'une durée minimale de 14 heures tous les cinq ans.
+L'exploitant justifie, par ailleurs, d'une formation de maintien de qualification d'une durée minimale de 14 heures tous les cinq ans, qu'il soit contrôleur ou non.
 
 Pour les exploitants désignés avant le 20 mai 2018, cette formation de maintien de qualification est à réaliser avant le 1er janvier 2022, qu'ils soient ou non contrôleurs.
 
