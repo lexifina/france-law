@@ -122,7 +122,7 @@ a) Une description de l'organisation et des moyens matériels, suivant le modèl
 
 b) Un plan de situation permettant d'identifier l'emprise immobilière et la zone de contrôle par rapport à l'environnement ;
 
-c) Un plan de masse à l'échelle 1/ 100e ou 1/ 200e, côté faisant apparaître la dimension de l'ensemble des surfaces couvertes, les dimensions et la délimitation de la zone de contrôle, l'implantation et la distance entre les matériels de contrôle ;
+c) Un plan de masse à l'échelle 1/ 100e ou 1/ 200e, coté faisant apparaître la dimension de l'ensemble des surfaces couvertes, les dimensions et la délimitation de la zone de contrôle, l'implantation et la distance entre les matériels de contrôle ;
 
 d) L'engagement du demandeur, suivant le modèle de l'appendice 4 de la présente annexe ;
 
@@ -136,9 +136,7 @@ e) Le modèle du procès-verbal qui sera utilisé dans le centre de contrôle.
 
 II. - Demande d'agrément
 
-L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture du lieu d'implantation du centre de contrôle. Le dossier peut également être transmis par voie électronique ou saisi sur une interface informatique si la préfecture de destination a pris des dispositions en ce sens.
-
-La demande initiale d'agrément des installations doit être accompagnée des dossiers de demande d'agrément des contrôleurs rattachés au centre de contrôle. Ces dossiers sont constitués conformément aux dispositions du chapitre I de la présente annexe.
+L'ensemble du dossier doit être transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle. Le dossier peut également être transmis par voie électronique ou saisi sur une interface informatique si la préfecture de destination a pris des dispositions en ce sens.
 
 III. - Modifications du dossier d'agrément
 
@@ -170,7 +168,7 @@ Dans ce cas, l'agrément du centre peut être suspendu ou retiré dans les condi
 
 3.3.3. Pour une personne morale, changement du représentant légal.
 
-3.3.4. Le changement d'exploitant : indication du nom, prénoms, date et lieu de naissance du nouvel exploitant.
+3.3.4. Le changement d'exploitant : indication du nom, prénoms, date et lieu de naissance du nouvel exploitant et une déclaration sur l'honneur de la personne désignée pour assurer l'exploitation du centre de contrôle, suivant le modèle de l'appendice 10 de la présente annexe, certifiant l'exactitude des renseignements fournis, s'engageant à ne pas exercer, pendant la durée de l'agrément, une quelconque activité dans la réparation ou le commerce automobile et à ne pas utiliser les résultats des contrôles à d'autres fins que celles prévues par la réglementation. Le bulletin n° 2 du casier judiciaire du nouvel exploitant sera requis par le préfet auprès du casier judiciaire national et ne mentionnera aucune condamnation.
 
 3.4. La description de l'organisation et des moyens matériels ainsi que la liste des contrôleurs rattachés prévues au a du 5 du I du présent chapitre sont tenues à jour et mises à disposition des services de l'Etat.
 
@@ -194,7 +192,7 @@ a) Une description de l'organisation et des moyens matériels, suivant le modèl
 
 b) Un plan de situation permettant d'identifier l'emprise immobilière et la zone de contrôle par rapport à l'environnement ;
 
-c) Un plan de masse à l'échelle 1/ 100e ou 1/ 200e, côté faisant apparaître la dimension de l'ensemble des surfaces couvertes, les dimensions et la délimitation de la zone de contrôle, l'implantation et la distance entre les matériels de contrôle ;
+c) Un plan de masse à l'échelle 1/ 100e ou 1/ 200e, coté faisant apparaître la dimension de l'ensemble des surfaces couvertes, les dimensions et la délimitation de la zone de contrôle, l'implantation et la distance entre les matériels de contrôle ;
 
 d) L'engagement du demandeur, suivant le modèle de l'appendice 4 de la présente annexe :
 
@@ -246,9 +244,7 @@ h) L'engagement du demandeur à respecter le cahier des charges susvisé.
 
 II. - Demande d'agrément
 
-L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture du lieu d'implantation du centre de contrôle. Le dossier peut également être transmis par voie électronique ou saisi sur une interface informatique si la préfecture de destination a pris des dispositions en ce sens.
-
-La demande initiale d'agrément des installations doit être accompagnée des dossiers de demande d'agrément des contrôleurs rattachés au centre de contrôle. Ces dossiers sont constitués conformément aux dispositions du chapitre Ier de la présente annexe.
+L'ensemble du dossier doit être transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle. Le dossier peut également être transmis par voie électronique ou saisi sur une interface informatique si la préfecture de destination a pris des dispositions en ce sens.
 
 III. - Modifications du dossier d'agrément
 
@@ -284,7 +280,7 @@ Dans ce cas, l'agrément du centre peut être suspendu ou retiré dans les condi
 
 3.3.4. Changement du système qualité ou du logiciel informatique. Dans ce cas, le titulaire de l'agrément du centre transmet également le rapport d'audit favorable établi par un organisme agréé suite aux changements effectués.
 
-3.3.5. Le changement d'exploitant : indication du nom, prénoms, date et lieu de naissance du nouvel exploitant
+3.3.5. Le changement d'exploitant : indication du nom, prénoms, date et lieu de naissance du nouvel exploitant et une déclaration sur l'honneur de la personne désignée pour assurer l'exploitation du centre de contrôle, suivant le modèle de l'appendice 10 de la présente annexe, certifiant l'exactitude des renseignements fournis, s'engageant à ne pas exercer, pendant la durée de l'agrément, une quelconque activité dans la réparation ou le commerce automobile et à ne pas utiliser les résultats des contrôles à d'autres fins que celles prévues par la réglementation. Le bulletin n° 2 du casier judiciaire du nouvel exploitant sera requis par le préfet auprès du casier judiciaire national et ne mentionnera aucune condamnation.
 
 3.4. La description de l'organisation et des moyens matériels ainsi que la liste des contrôleurs rattachés prévues au a du 5 du I du présent chapitre sont tenues à jour et mises à disposition des services de l'Etat.
 

@@ -46,7 +46,9 @@ Les installations de contrôle comprennent également :
 
 - un prolongateur d'échappement destiné à être utilisé avec le dispositif de mesure de l'opacité des fumées ;
 
-- des rouleaux fous.
+- des rouleaux fous ;
+
+- un mètre ruban.
 
 En complément des équipements précités, le centre peut également être équipé d'un cric mobile, de plaques à jeux et d'un appareil de mesure de la transparence des vitres.
 
@@ -142,7 +144,7 @@ E. Bâtiment
 
 Sur la façade du bâtiment et à la partie la plus visible du public est portée l'identification de l'installation de contrôle qui ne produit aucune confusion avec des entreprises de commerce ou de réparation automobile limitrophes.
 
-Le bâtiment de contrôle est un espace couvert permettant la réalisation de l'ensemble des opérations de contrôle prévues à l'annexe I du présent arrêté, sans occupation de la voie publique. Il ne dispose d'aucune communication avec des activités liées au commerce ou à la réparation automobile.
+Le bâtiment de contrôle est un espace couvert permettant la réalisation de l'ensemble des opérations de contrôle prévues à l'annexe I du présent arrêté, à l'exception du contrôle des émissions polluantes dont le poste de travail peut être aménagé à l'extérieur, dans la limite de l'emprise immobilière du centre. Dans ce cas, le matériel est adapté aux conditions de fonctionnement en extérieur. L'ensemble des opérations de contrôle prévues à l'annexe I du présent arrêté est réalisé sans occupation de la voie publique. Le bâtiment de contrôle ne dispose d'aucune communication avec des activités liées au commerce ou à la réparation automobile.
 
 Dans le cas particulier où une activité d'expertise automobile agréée est également réalisée dans le bâtiment de contrôle, les moyens spécifiques (autres que ceux définis à la présente annexe) mis à disposition exclusive des experts automobiles sont regroupés sur un emplacement dédié à cette activité, clairement identifié et balisé (exemples : chaînage, etc.).
 

@@ -12,11 +12,13 @@ A. 2.1. Qualification préalable
 
 Le candidat justifie d'une des qualifications visées ci-dessous :
 
-- un diplôme de niveau 4 du ministère de l’éducation nationale (baccalauréat professionnel maintenance des véhicules option voitures particulières ou baccalauréat professionnel maintenance des véhicules option véhicules industriels ou véhicules de transport routier) ou un diplôme équivalent au regard de FRANCE Compétences ;
+- un diplôme de niveau 4 du ministère de l’éducation nationale (baccalauréat professionnel maintenance des véhicules option voitures particulières ou baccalauréat professionnel maintenance des véhicules) ou un diplôme équivalent au regard de FRANCE Compétences ;
 
--un diplôme de niveau 5 du ministère de l'éducation nationale (diplôme d'expert en automobile ou brevet de technicien supérieur après-vente automobile option véhicules particuliers ou brevet de technicien supérieur après-vente automobile option véhicules industriels ) ou un diplôme équivalent vis-à-vis de FRANCE Compétences.
+- un diplôme de niveau 5 du ministère de l'éducation nationale (diplôme d'expert en automobile ou brevet de technicien supérieur après-vente automobile option véhicules particuliers ou brevet de technicien supérieur après-vente automobile option véhicules industriels ) ou un diplôme équivalent vis-à-vis de FRANCE Compétences.
 
--un agrément valide de contrôleur de véhicules lourds au sens de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds.
+- un agrément valide de contrôleur de véhicules lourds au sens de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds ;
+
+- un agrément valide de contrôleur de véhicules de catégorie L au sens de l'arrêté du 23 octobre 2023 relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur.
 
 A. 2.2. Formation relative au contrôle technique
 
@@ -72,6 +74,8 @@ B. 2.2. En cas de non-respect d'au moins une des dispositions prévues aux point
 
 L'évaluation des connaissances et l'examen pratique sont réalisés et justifiés par le réseau de rattachement ou un organisme d'audit agréé en application de l'article 26-3 du présent arrêté.
 
+L'examen pratique donne lieu à l'établissement d'une attestation par le réseau de rattachement ou l'organisme d'audit.
+
 En cas de non-respect de la disposition prévue au point B. 1.2 pour une année N, l'évaluation et l'examen pratique sus-mentionnés peuvent être réalisés au cours du mois de décembre de l'année N.
 
 C. Remise à niveau
@@ -89,6 +93,8 @@ Si la durée de l'absence d'activité est supérieure à cinq ans, cette remise 
 C. 3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point B pour l'année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
 C.4. La délivrance de l'agrément ou la reprise d'activité du contrôleur sont assujetties à un examen pratique favorable, réalisé par le réseau de rattachement ou par un organisme d'audit agréé en application de l'article 26-3 du présent arrêté et portant sur la réalisation d'un contrôle technique dans des conditions identiques à celles d'un contrôle technique périodique, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé. L'examen pratique donne lieu à l'établissement d'une attestation par le réseau de rattachement ou l'organisme d'audit.
+
+Ce point ne s'applique pas dans le cas où une remise à niveau consistant en une formation initiale telle que prévue au A. 2.2 de la présente annexe a été réalisée.
 
 D. Qualification des exploitants
 

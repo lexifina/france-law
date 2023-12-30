@@ -102,9 +102,9 @@ En cas de contrôle technique périodique ou de contre-visite d'un véhicule sou
 
 -numéro d'agrément ;
 
--nom et prénom : non renseignés ;
-
 -signature.
+
+Jusqu'au 31 décembre 2024, la mention :-“ nom et prénom : non renseignés ” peut figurer en complément dans cette rubrique.
 
 10. L'identification du véhicule :
 
@@ -222,15 +222,21 @@ La désignation de chacune des rubriques mentionnées dans les informations vari
 
 Le verso du procès-verbal comporte exclusivement les mentions suivantes :
 
--“ Les points de contrôle sont définis à l'annexe I de l'arrêté du 18 juin 1991 modifié ” ;
+-“ Les points de contrôle sont définis à l'annexe I de l'arrêté du 18 juin 1991 modifié (véhicules légers) ou de l'arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur ”
+
+La précédente mention peut être remplacée par la mention : “-Les points de contrôle sont définis à l'annexe I de l'arrêté du 18 juin 1991 modifié ” ;
 
 -“ Les valeurs limites prises en compte correspondent aux valeurs limites applicables au véhicule contrôlé (date de mise en circulation, caractéristiques techniques) ” ;
 
 -“ En cas de litige, les voies de recours amiables sont affichées dans le centre qui a délivré le procès-verbal ” ;
 
--“ Le contrôle technique d'un véhicule n'exonère pas son propriétaire de l'obligation de maintenir le véhicule en bon état de marche et en état satisfaisant d'entretien conformément aux dispositions du code de la route et des textes pris pour son application (art. 1er de l'arrêté du 18 juin 1991 modifié) ” ;
+-“ Le contrôle technique d'un véhicule n'exonère pas son propriétaire de l'obligation de maintenir le véhicule en bon état de marche et en état satisfaisant d'entretien conformément aux dispositions du code de la route et des textes pris pour son application (article 1er de l'arrêté du 18 juin 1991 modifié pour les véhicules légers ou de l'arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur) ” ;
 
--“ La contre-visite doit avoir lieu dans un délai maximal de deux mois après le contrôle technique. Passé ce délai, un nouveau contrôle technique est obligatoire. Lorsque la contre-visite est réalisée dans un centre différent de celui où a été réalisé le contrôle technique périodique, le procès-verbal du contrôle technique périodique doit obligatoirement être présenté au contrôleur, faute de quoi un contrôle technique complet est réalisé. Les points ou ensembles de points à contrôler lors de la contre-visite sont définis à l'annexe I de l'arrêté du 18 juin 1991 modifié ” ;
+La précédente mention peut être remplacée par la mention :-“ Le contrôle technique d'un véhicule n'exonère pas son propriétaire de l'obligation de maintenir le véhicule en bon état de marche et en état satisfaisant d'entretien conformément aux dispositions du code de la route et des textes pris pour son application (article 1er de l'arrêté du 18 juin 1991 modifié) ” ;
+
+-“ La contre-visite doit avoir lieu dans un délai maximal de deux mois après le contrôle technique. Passé ce délai, un nouveau contrôle technique est obligatoire. Lorsque la contre-visite est réalisée dans un centre différent de celui où a été réalisé le contrôle technique périodique, le procès-verbal du contrôle technique périodique doit obligatoirement être présenté au contrôleur, faute de quoi un contrôle technique complet est réalisé. Les points ou ensembles de points à contrôler lors de la contre-visite sont définis à l'annexe I de l'arrêté du 18 juin 1991 modifié (véhicules légers) ou de l'arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur ” ;
+
+La précédente mention peut être remplacée par la mention :-“ La contre-visite doit avoir lieu dans un délai maximal de deux mois après le contrôle technique. Passé ce délai, un nouveau contrôle technique est obligatoire. Lorsque la contre-visite est réalisée dans un centre différent de celui où a été réalisé le contrôle technique périodique, le procès-verbal du contrôle technique périodique doit obligatoirement être présenté au contrôleur, faute de quoi un contrôle technique complet est réalisé. Les points ou ensembles de points à contrôler lors de la contre-visite sont définis à l'annexe I de l'arrêté du 18 juin 1991 modifié ” ;
 
 -“ Vous disposez d'un droit d'accès et de rectification des informations nominatives vous concernant. Vous pouvez exercer ce droit en vous adressant au centre ayant édité le présent procès-verbal ”.
 
@@ -318,7 +324,7 @@ Dans le cas de la réalisation d'un contrôle technique complémentaire ou d'une
 
 La taille des caractères utilisés pour cette information variable propre à chaque vignette permet une lecture facile de la vignette et correspond à une utilisation optimale de la surface disponible. Leur hauteur n'est pas inférieure à deux millimètres ; la graisse de ces caractères est comparable à celle des indications fixes afin d'obtenir une bonne lisibilité de cette information. L'encre utilisée résiste à la lumière pendant une durée d'au moins deux ans.
 
-L'identification du réseau (dénomination sociale ou enseigne commerciale) peut être apposée sur la vignette sous réserve de ne pas nuire à la lisibilité des autres informations .
+L'identification du réseau (dénomination sociale ou enseigne commerciale) peut être apposée sur la vignette sous réserve de ne pas nuire à la lisibilité des autres informations.
 
 2.3. Verso
 
@@ -390,7 +396,7 @@ Dans le cas de la réalisation d'un contrôle technique complémentaire ou d'une
 
 Ces informations sont apposées par impression. Elles permettent une lecture facile du timbre et correspondent à une utilisation optimale de la surface disponible.
 
-L'identification du réseau (dénomination sociale ou nom commercial) peut être apposée sur le timbre sous réserve de ne pas nuire à la lisibilité des autres informations .
+L'identification du réseau (dénomination sociale ou nom commercial) peut être apposée sur le timbre sous réserve de ne pas nuire à la lisibilité des autres informations.
 
 3.3. Couleurs d'impression
 
