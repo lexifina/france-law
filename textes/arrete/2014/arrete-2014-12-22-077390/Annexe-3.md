@@ -106,6 +106,8 @@ Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : ENER2
 
 Conformément à l’article 2 de l’arrêté du 25 juillet 2022 (NOR : TRER2121430A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe C dudit arrêté, à compter du 1er octobre 2022.
 
+Conformément à l’article 1 de l’arrêté du 22 décembre 2023 (NOR : ENER2333436A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe dudit arrêté, à compter du 1er janvier 2024.
+
 -Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119 (Abrogée à compter du 1er avril 2018)
 
 Conformément à l’article 2 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
@@ -236,6 +238,8 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 
 Liens :
 
+Vous pouvez consulter l'intégralité de l’arrêté du 22 décembre 2023 (NOR : ENER2333436A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0301 du 29 décembre 2023, texte 88, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=TngutXAISa4GeWXvS4DQMQ9_Q99pA_BrfZg_Xh0JXQw=
+
 Vous pouvez consulter l'intégralité de l’arrêté du 20 décembre 2023 (NOR : ENER2333440A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28 décembre 2023, texte 100, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=QRgTaQfM0balM0WO-DVjXuRduuVQURzFXR8cwSfIBHg=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0227 du 30/09/2023, texte n° 39, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=2eo_9bKPruY9aVYxIHHqRZAonPLOBawu6mXaWDKqFfw=
@@ -285,7 +289,3 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Conformément à l'article 1 de l’arrêté du 15 septembre 2023 (NOR : ENER2325207A), ces dispositions entrent en vigueur à compter du 1er octobre 2023.

@@ -288,19 +288,19 @@ A compter du 01/01/2025 |
 
 BAR-TH-173 |
 
-20% |
+20 % |
 
 Par contact |
 
 Entre le 01/12/2023 et le 31/12/2023 |
 
-25% |
+25 % |
 
 Par contact |
 
 Entre le 01/01/2024 et le 31/12/2024 |
 
-30% |
+30 % |
 
 Par contact |
 
@@ -687,6 +687,14 @@ RES-CH-108 |
 Sur le lieu des opérations |
 
 A compter du 01/10/2023 |
+
+BAT-TH-116 |
+
+100 % |
+
+Par contact |
+
+A compter du 01/01/2024 |
 
 NOTA :
 

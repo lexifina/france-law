@@ -1272,6 +1272,18 @@ Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
+AK. Fiche d'opération standardisée BAT-TH-116 “ Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/ climatisation, l'éclairage et les auxiliaires ” :
+
+Doivent être vérifiés lors des contrôles par contact :
+
+- l'existence d'un système de gestion technique du bâtiment installé ;
+
+- le secteur d'activité du bâtiment concerné (bureaux ; enseignement ; commerces ; hôtellerie-restauration ; santé) ;
+
+- l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
 NOTA :
 
 Conformément à l'article 6 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.
