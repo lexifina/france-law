@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-TABLEAU DES COMMUNES CONCERNÉES PAR LA MODIFICATION DE LA NATURE DU GAZ EN 2021,2022,2023 ET 2024 ET DE LEUR CONTRAT DE CONCESSION APPLICABLE
+A.-TABLEAU DES COMMUNES CONCERNÉES PAR LA MODIFICATION DE LA NATURE DU GAZ DE 2018 À 2024 ET DE LEUR CONTRAT DE CONCESSION APPLICABLE
 
 Département |
 
@@ -196,7 +196,7 @@ USEDA-Contrat historique |
 
 FLAVY-LE-MARTEL |
 
-FLAVY-LE-MARTEL |
+Sans Objet-Nouveau contrat |
 
 FRANCILLY-SELENCY |
 
@@ -360,7 +360,7 @@ USEDA-Contrat historique |
 
 SAINT-QUENTIN |
 
-SAINT-QUENTIN |
+Sans Objet-Nouveau contrat |
 
 SAPONAY |
 
@@ -444,53 +444,129 @@ ANNOEULLIN |
 
 MEL-Contrat historique |
 
+ARMBOUTS-CAPPEL |
+
+Sans Objet-Nouveau contrat |
+
 BAILLEUL |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
 
 BAUVIN |
 
 MEL-Contrat historique |
 
+BERGUES |
+
+Sans Objet-Nouveau contrat |
+
 BERTHEN |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
+
+BIERNE |
+
+Sans Objet-Nouveau contrat |
 
 BOESCHEPE |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
 
 BORRE |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
+
+BOURBOURG |
+
+Sans Objet-Nouveau contrat |
+
+BRAY-DUNES |
+
+Sans Objet-Nouveau contrat |
 
 BROUCKERQUE |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
+
+CAPPELLE-LA-GRANDE |
+
+Sans Objet-Nouveau contrat |
+
+COUDEKERQUE-BRANCHE |
+
+Sans Objet-Nouveau contrat |
+
+COUDEKERQUE-VILLAGE |
+
+Sans Objet-Nouveau contrat |
+
+CRAYWICK |
+
+Sans Objet-Nouveau contrat |
+
+DUNKERQUE |
+
+Sans Objet-Nouveau contrat |
 
 ESTAIRES |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
+
+FORT-MARDYCK |
+
+Sans Objet-Nouveau contrat |
+
+GHYVELDE |
+
+Sans Objet-Nouveau contrat |
 
 GODEWAERSVELDE |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
+
+GRANDE-SYNTHE |
+
+Sans Objet-Nouveau contrat |
+
+GRAND-FORT-PHILIPPE |
+
+Sans Objet-Nouveau contrat |
+
+GRAVELINES |
+
+Sans Objet-Nouveau contrat |
 
 HAZEBROUCK |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
+
+HERZEELE |
+
+Sans Objet-Nouveau contrat |
 
 HOLQUE |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
 
 HONDEGHEM |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
+
+HONDSCHOOTE |
+
+Sans Objet-Nouveau contrat |
+
+HOYMILLE |
+
+Sans Objet-Nouveau contrat |
 
 ILLIES |
 
 MEL-Contrat historique |
+
+KILLEM |
+
+Sans Objet-Nouveau contrat |
 
 LA BASSEE |
 
@@ -498,67 +574,123 @@ MEL-Contrat historique |
 
 LA GORGUE |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
+
+LEFFRINCKOUCKE |
+
+Sans Objet-Nouveau contrat |
+
+LES MOERES |
+
+Sans Objet-Nouveau contrat |
+
+LOON-PLAGE |
+
+Sans Objet-Nouveau contrat |
 
 MERRIS |
 
-SIECF-DSP 1 |
+Sans Objet-Nouveau contrat |
 
 MERVILLE |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
 
 METEREN |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
 
 MORBECQUE |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
 
 NEUF-BERQUIN |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
 
 NIEURLET |
 
-SIECF-DSP |
+Sans Objet-Nouveau contrat |
 
 PROVIN |
 
 MEL-Contrat historique |
 
+QUAEDYPRE |
+
+Sans Objet-Nouveau contrat |
+
+REXPOEDE |
+
+Sans Objet-Nouveau contrat |
+
 SAINT-JANS-CAPPEL |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
 
 SAINT-MOMELIN |
 
-SIECF-DSP |
+Sans Objet-Nouveau contrat |
+
+SAINT-POL-SUR-MER |
+
+Sans Objet-Nouveau contrat |
 
 SALOME |
 
 MEL-Contrat historique |
 
+SOCX |
+
+Sans Objet-Nouveau contrat |
+
+SPYCKER |
+
+Sans Objet-Nouveau contrat |
+
 STEENBECQUE |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
+
+STEENE |
+
+Sans Objet-Nouveau contrat |
 
 STEENWERCK |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
 
 STRAZEELE |
 
-SIECF-DSP 1 |
+Sans Objet-Nouveau contrat |
+
+TETEGHEM |
+
+Sans Objet-Nouveau contrat |
+
+UXEM |
+
+Sans Objet-Nouveau contrat |
 
 VIEUX-BERQUIN |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
+
+WARHEM |
+
+Sans Objet-Nouveau contrat |
 
 WATTEN |
 
-SIECF-Contrat historique |
+Sans Objet-Nouveau contrat |
+
+WORMHOUT |
+
+Sans Objet-Nouveau contrat |
+
+ZUYDCOOTE |
+
+Sans Objet-Nouveau contrat |
 
 Oise |
 
@@ -868,6 +1000,10 @@ AUTINGUES |
 
 FDE62-Contrat historique |
 
+AUXI LE CHATEAU |
+
+FDE62-Contrat historique |
+
 AVESNES-LES-BAPAUME |
 
 FDE62-Contrat historique |
@@ -942,7 +1078,7 @@ FDE62-Contrat historique |
 
 BEZINGHEM |
 
-FDE62-DOUDEAUVILLE-BEZINGHEM |
+FDE62-Doudeauville-Bezinghem |
 
 BIEFVILLERS-LES-BAPAUME |
 
@@ -1058,7 +1194,7 @@ FDE62-Contrat historique |
 
 CARLY |
 
-FDE62-CARLY |
+FDE62-Carly |
 
 CAUCHY-A-LA-TOUR |
 
@@ -1130,7 +1266,7 @@ FDE62-Contrat historique |
 
 DOUDEAUVILLE |
 
-FDE62-DOUDEAUVILLE-BEZINGHEM |
+FDE62-Doudeauville-Bezinghem |
 
 DOUVRIN |
 
@@ -1248,11 +1384,19 @@ FRESNICOURT-LE-DOLMEN |
 
 FDE62-Contrat historique |
 
+FREVENT |
+
+FDE62-Contrat historique |
+
 FREVIN-CAPELLE |
 
 FDE62-Contrat historique |
 
 FRUGES |
+
+FDE62-Contrat historique |
+
+GAUCHIN VERLOINGT |
 
 FDE62-Contrat historique |
 
@@ -1337,6 +1481,14 @@ HARNES |
 FDE62-Contrat historique |
 
 HELFAUT |
+
+FDE62-Contrat historique |
+
+HERLIN LE SEC |
+
+FDE62-Contrat historique |
+
+HERNICOURT |
 
 FDE62-Contrat historique |
 
@@ -1628,6 +1780,10 @@ NOEUX-LES-MINES |
 
 FDE62-Contrat historique |
 
+NOUVELLE-EGLISE |
+
+FDE62-Contrat historique |
+
 NOYELLES-LES-VERMELLES |
 
 FDE62-Contrat historique |
@@ -1649,6 +1805,10 @@ OURTON |
 FDE62-Contrat historique |
 
 OUTREAU |
+
+FDE62-Contrat historique |
+
+OYE-PLAGE |
 
 FDE62-Contrat historique |
 
@@ -1752,6 +1912,10 @@ SAINT-ETIENNE-AU-MONT |
 
 FDE62-Contrat historique |
 
+SAINT-FOLQUIN |
+
+FDE62-Contrat historique |
+
 SAINT-JOSSE |
 
 FDE62-Contrat historique |
@@ -1780,11 +1944,23 @@ SAINT-MARTIN-LEZ-TATINGHEM |
 
 FDE62-Contrat historique |
 
+SAINT-MICHEL-SUR-TERNOISE |
+
+FDE62-Contrat historique |
+
 SAINT-NICOLAS |
 
 FDE62-Contrat historique |
 
 SAINT-OMER |
+
+FDE62-Contrat historique |
+
+SAINT-OMER-CAPELLE |
+
+FDE62-Contrat historique |
+
+SAINT-POL-SUR-TERNOISE |
 
 FDE62-Contrat historique |
 
@@ -1872,6 +2048,10 @@ VIEILLE-CHAPELLE |
 
 FDE62-Contrat historique |
 
+VIEILLE-EGLISE |
+
+FDE62-Contrat historique |
+
 VIEIL-MOUTIER |
 
 FDE62-Contrat historique |
@@ -1940,7 +2120,7 @@ Seine-Maritime |
 
 ETALONDES |
 
-SDE76-Contrat historique |
+SDE76-Etalondes |
 
 EU |
 
@@ -1948,7 +2128,7 @@ EU |
 
 FLOCQUES |
 
-SDE76-FLOCQUES |
+SDE76-Flocques |
 
 LE-TREPORT |
 
@@ -1974,7 +2154,7 @@ FDE80-Contrat historique |
 
 AIRAINES |
 
-FDE80-FORT MAHON |
+FDE80-Fort-Mahon |
 
 ALBERT |
 
@@ -2010,11 +2190,19 @@ FDE80-Contrat historique |
 
 AYENCOURT |
 
-FDE80-Contrat historique |
+FDE80-DSP 4 |
 
 BACOUEL-SUR-SELLE |
 
 FDE80-Contrat historique |
+
+BEAUQUESNE |
+
+FDE80-DSP 4 |
+
+BEAUVAL |
+
+FDE80-DSP 4 |
 
 BELLANCOURT |
 
@@ -2070,7 +2258,7 @@ FDE80-Contrat historique |
 
 CAMBRON |
 
-FDE80-FORT MAHON |
+FDE80-Fort-Mahon |
 
 CAMON |
 
@@ -2128,9 +2316,13 @@ DOINGT-FLAMICOURT |
 
 FDE80-Traité de concession Gazelec de Péronne |
 
-DOMART SUR LA LUCE |
+DOMART-SUR-LA-LUCE |
 
 FDE80-Contrat historique |
+
+DOULLENS |
+
+DOULLENS |
 
 DREUIL-LES-AMIENS |
 
@@ -2232,10 +2424,6 @@ JUMEL |
 
 FDE80-DSP 6 |
 
-L'ETOILE |
-
-FDE80-DSP 1 |
-
 LA CHAUSSEE-TIRANCOURT |
 
 FDE80-Contrat historique |
@@ -2247,6 +2435,10 @@ FDE80-Contrat historique |
 LE TITRE |
 
 FDE80-Contrat historique |
+
+L'ETOILE |
+
+FDE80-DSP 1 |
 
 LIERCOURT |
 
@@ -2270,7 +2462,7 @@ LONGUEAU |
 
 MARCELCAVE |
 
-FDE80-MARCELCAVE-VRELY |
+FDE80-Marcelcave-Vrely |
 
 MAREUIL-CAUBERT |
 
@@ -2396,13 +2588,13 @@ SAILLY-FLIBEAUCOURT |
 
 FDE80-Contrat historique |
 
-SAINT-SAUVEUR |
-
-SAINT-SAUVEUR |
-
 SAINT-QUENTIN-LA-MOTTE-CROIX-AU-BAILLY |
 
 FDE80-Contrat historique |
+
+SAINT-SAUVEUR |
+
+SAINT-SAUVEUR |
 
 SAINT-VALERY-SUR-SOMME |
 
@@ -2450,7 +2642,7 @@ FDE80-Contrat historique |
 
 VERCOURT |
 
-FDE80-VERCOURT |
+FDE80-Vercourt |
 
 VERS-SUR-SELLE |
 
@@ -2478,11 +2670,11 @@ FDE80-DSP 1 |
 
 VRELY |
 
-FDE80-MARCELCAVE-VRELY |
+FDE80-Marcelcave-Vrely |
 
 VRON |
 
-FDE80-VRON |
+FDE80-Vron |
 
 WARSY |
 
@@ -2503,3 +2695,1871 @@ FDE80-Contrat historique |
 YZENGREMER |
 
 FDE80-Contrat historique |
+
+B.-TABLEAU DES COMMUNES CONCERNÉES PAR LA MODIFICATION DE LA NATURE DU GAZ EN 2025,2026,2027 ET 2028 ET DE LEUR CONTRAT DE CONCESSION APPLICABLE
+
+Département |
+
+Commune |
+
+Contrat de concession |
+
+Aisne |
+
+AUBENCHEUL-AUX-BOIS |
+
+USEDA-Contrat historique |
+
+GOUY |
+
+USEDA-Contrat historique |
+
+VENDHUILE |
+
+USEDA-Contrat historique |
+
+Nord |
+
+ABANCOURT |
+
+SIDEC-Contrat historique |
+
+ABSCON |
+
+SIDEGAV |
+
+AIBES |
+
+CAMVS |
+
+AIX-EN-PEVELE |
+
+AIX |
+
+ALLENNES-LES-MARAIS |
+
+MEL-Contrat historique |
+
+ANHIERS |
+
+Sans Objet-Nouveau contrat |
+
+ANICHE |
+
+ANICHE |
+
+ANNEUX |
+
+SIDEC-Contrat historique |
+
+ANNOEULLIN |
+
+MEL-Contrat historique |
+
+ANSTAING |
+
+MEL-Contrat historique |
+
+ANZIN |
+
+SIDEGAV |
+
+ARLEUX |
+
+ARLEUX |
+
+ARMENTIERES |
+
+MEL-Contrat historique |
+
+ARTRES |
+
+SIDEGAV |
+
+ASSEVENT |
+
+CAMVS |
+
+ATTICHES |
+
+ATTICHES |
+
+AUBENCHEUL-AU-BAC |
+
+SIDEC-Contrat historique |
+
+AUBERCHICOURT |
+
+AUBERCHICOURT |
+
+AUBERS |
+
+MEL-Contrat historique |
+
+AUBIGNY-AU-BAC |
+
+Sans Objet-Nouveau contrat |
+
+AUBRY-DU-HAINAUT |
+
+SIDEGAV |
+
+AUBY |
+
+AUBY |
+
+AUCHY-LEZ-ORCHIES |
+
+AUCHY-LEZ-ORCHIES |
+
+AULNOY-LEZ-VALENCIENNES |
+
+SIDEGAV |
+
+AVELIN |
+
+AVELIN |
+
+AVESNES-LES-AUBERT |
+
+SIDEC-Contrat historique |
+
+AVESNES-LE-SEC |
+
+SIDEGAV |
+
+AWOINGT |
+
+SIDEC-Contrat historique |
+
+BACHY |
+
+Sans Objet-Nouveau contrat |
+
+BAISIEUX |
+
+MEL-Contrat historique |
+
+BANTEUX |
+
+SIDEC-Contrat historique |
+
+BANTIGNY |
+
+SIDEC-Contrat historique |
+
+BANTOUZELLE |
+
+SIDEC-Contrat historique |
+
+BAS-LIEU |
+
+BAS-LIEU |
+
+BEAUCAMPS-LIGNY |
+
+MEL-Contrat historique |
+
+BEAUFORT |
+
+CAMVS |
+
+BELLAING |
+
+SIDEGAV |
+
+BERMERAIN |
+
+SIDEC-Contrat historique |
+
+BERSEE |
+
+BERSEE |
+
+BERSILLIES |
+
+CAMVS |
+
+BETTIGNIES |
+
+CAMVS |
+
+BEUGNIES |
+
+BEUGNIES |
+
+BEUVRAGES |
+
+SIDEGAV |
+
+BEUVRY-LA-FORET |
+
+BEUVRY-LA-FORET |
+
+BLECOURT |
+
+SIDEC-Contrat historique |
+
+BOIS-GRENIER |
+
+MEL-Contrat historique |
+
+BONDUES |
+
+MEL-Contrat historique |
+
+BOUCHAIN |
+
+SIDEGAV |
+
+BOURGHELLES |
+
+BOURGHELLES |
+
+BOURSIES |
+
+SIDEC-Contrat historique |
+
+BOUSBECQUE |
+
+MEL-Contrat historique |
+
+BOUSIGNIES |
+
+SIDEGAV |
+
+BOUSSIERES-SUR-SAMBRE |
+
+CAMVS |
+
+BOUSSOIS |
+
+CAMVS |
+
+BOUVIGNIES |
+
+BOUVIGNIES |
+
+BOUVINES |
+
+MEL-Contrat historique |
+
+BRILLON |
+
+SIDEGAV |
+
+BRUAY-SUR-L'ESCAUT |
+
+SIDEGAV |
+
+BRUILLE-LEZ-MARCHIENNES |
+
+BRUILLE-LEZ-MARCHIENNES |
+
+BRUILLE-SAINT-AMAND |
+
+SIDEGAV |
+
+BRUNEMONT |
+
+BRUNEMONT |
+
+BRY |
+
+BRY |
+
+BUGNICOURT |
+
+Sans Objet-Nouveau contrat |
+
+CAGNONCLES |
+
+SIDEC-Contrat historique |
+
+CAMBRAI |
+
+CAMBRAI |
+
+CAMPHIN-EN-CAREMBAULT |
+
+CAMPHIN-EN-CAREMBAULT |
+
+CAMPHIN-EN-PEVELE |
+
+CAMPHIN-EN-PEVELE |
+
+CANTAING-SUR-ESCAUT |
+
+SIDEC-Contrat historique |
+
+CANTIN |
+
+CANTIN |
+
+CAPELLE |
+
+SIDEC-DSP 2007 |
+
+CAPINGHEM |
+
+MEL-Contrat historique |
+
+CAPPELLE-EN-PEVELE |
+
+CAPPELLE-EN-PEVELE |
+
+CARNIN |
+
+MEL-Contrat historique |
+
+CAUROIR |
+
+SIDEC-Contrat historique |
+
+CERFONTAINE |
+
+CAMVS |
+
+CHÂTEAU-L'ABBAYE |
+
+SIDEGAV |
+
+CHEMY |
+
+CHEMY |
+
+CHERENG |
+
+MEL-Contrat historique |
+
+COBRIEUX |
+
+COBRIEUX |
+
+COLLERET |
+
+CAMVS |
+
+COMINES |
+
+MEL-Contrat historique |
+
+CONDE-SUR-L'ESCAUT |
+
+SIDEGAV |
+
+COURCHELETTES |
+
+COURCHELETTES |
+
+COUSOLRE |
+
+CAMVS |
+
+COUTICHES |
+
+COUTICHES |
+
+CRESPIN |
+
+SIDEGAV |
+
+CREVECOEUR-SUR-L'ESCAU |
+
+SIDEC-Contrat historique |
+
+CROIX |
+
+MEL-Contrat historique |
+
+CUINCY |
+
+CUINCY |
+
+CURGIES |
+
+SIDEGAV |
+
+CUVILLERS |
+
+SIDEC-Contrat historique |
+
+CYSOING |
+
+CYSOING |
+
+DECHY |
+
+DECHY |
+
+DENAIN |
+
+SIDEGAV |
+
+DEULEMONT |
+
+MEL-Contrat historique |
+
+DIMONT |
+
+DIMONT |
+
+DOIGNIES |
+
+SIDEC-Contrat historique |
+
+DON |
+
+MEL-Contrat historique |
+
+DOUAI |
+
+DOUAI |
+
+DOUCHY-LES-MINES |
+
+SIDEGAV |
+
+DOURLERS |
+
+DOURLERS |
+
+ECAILLON |
+
+ECAILLON |
+
+ECLAIBES |
+
+CAMVS |
+
+ELESMES |
+
+CAMVS |
+
+EMERCHICOURT |
+
+SIDEGAV |
+
+EMMERIN |
+
+MEL-Contrat historique |
+
+ENGLOS |
+
+MEL-Contrat historique |
+
+ENNETIERES-EN-WEPPES |
+
+MEL-Contrat historique |
+
+ENNEVELIN |
+
+ENNEVELIN |
+
+EPPE-SAUVAGE |
+
+EPPE-SAUVAGE |
+
+ERCHIN |
+
+ERCHIN |
+
+ERQUINGHEM-LE-SEC |
+
+MEL-Contrat historique |
+
+ERQUINGHEM-LYS |
+
+MEL-Contrat historique |
+
+ERRE |
+
+ERRE |
+
+ESCARMAIN |
+
+SIDEC-DSP 2007 |
+
+ESCAUDAIN |
+
+SIDEGAV |
+
+ESCAUDOEUVRES |
+
+ESCAUDOEUVRES |
+
+ESCAUTPONT |
+
+SIDEGAV |
+
+ESCOBECQUES |
+
+MEL-Contrat historique |
+
+ESQUERCHIN |
+
+ESQUERCHIN |
+
+ESTREES |
+
+ESTREES |
+
+ESTREUX |
+
+SIDEGAV |
+
+ESTRUN |
+
+SIDEC-Contrat historique |
+
+ESWARS |
+
+ESWARS |
+
+ETH |
+
+ETH |
+
+FACHES-THUMESNIL |
+
+MEL-Contrat historique |
+
+FAMARS |
+
+SIDEGAV |
+
+FAUMONT |
+
+FAUMONT |
+
+FECHAIN |
+
+FECHAIN |
+
+FEIGNIES |
+
+CAMVS |
+
+FELLERIES |
+
+FELLERIES |
+
+FENAIN |
+
+FENAIN |
+
+FERIN |
+
+FERIN |
+
+FERRIERE-LA-GRANDE |
+
+CAMVS |
+
+FERRIERE-LA-PETITE |
+
+CAMVS |
+
+FLERS-EN-ESCREBIEUX |
+
+FLERS-EN-ESCREBIEUX |
+
+FLINES-LES-MORTAGNE |
+
+SIDEGAV |
+
+FLINES-LEZ-RACHES |
+
+FLINES-LEZ-RACHES |
+
+FONTAINE-NOTRE-DAME |
+
+SIDEC-Contrat historique |
+
+FOREST-SUR-MARQUE |
+
+MEL-Contrat historique |
+
+FOURNES-EN-WEPPES |
+
+MEL-Contrat historique |
+
+FRASNOY |
+
+FRASNOY |
+
+FRELINGHIEN |
+
+MEL-Contrat historique |
+
+FRESNES-SUR-ESCAUT |
+
+SIDEGAV |
+
+FRESSAIN |
+
+FRESSAIN |
+
+FRESSIES |
+
+SIDEC-Contrat historique |
+
+FRETIN |
+
+MEL-Contrat historique |
+
+FROMELLES |
+
+MEL-Contrat historique |
+
+GENECH |
+
+GENECH |
+
+GOEULZIN |
+
+GOEULZIN |
+
+GOGNIES-CHAUSSEE |
+
+CAMVS |
+
+GOMMEGNIES |
+
+GOMMEGNIES |
+
+GONDECOURT |
+
+GONDECOURT |
+
+GONNELIEU |
+
+SIDEC-Contrat historique |
+
+GOUZEAUCOURT |
+
+SIDEC-Contrat historique |
+
+GRUSON |
+
+MEL-Contrat historique |
+
+GUESNAIN |
+
+GUESNAIN |
+
+HALLENNES-LEZ-HAUBOURDIN |
+
+MEL-Contrat historique |
+
+HALLUIN |
+
+MEL-Contrat historique |
+
+HAMEL |
+
+HAMEL |
+
+HANTAY |
+
+MEL-Contrat historique |
+
+HARGNIES |
+
+HARGNIES |
+
+HASNON |
+
+SIDEGAV |
+
+HASPRES |
+
+SIDEGAV |
+
+HAUBOURDIN |
+
+MEL-Contrat historique |
+
+HAULCHIN |
+
+SIDEGAV |
+
+HAUTMONT |
+
+CAMVS |
+
+HAVELUY |
+
+SIDEGAV |
+
+HAYNECOURT |
+
+SIDEC-Contrat historique |
+
+HELESMES |
+
+SIDEGAV |
+
+HELLEMMES-LILLE |
+
+MEL-Contrat historique |
+
+HEM |
+
+MEL-Contrat historique |
+
+HEM-LENGLET |
+
+SIDEC-Contrat historique |
+
+HERGNIES |
+
+SIDEGAV |
+
+HERIN |
+
+SIDEGAV |
+
+HERLIES |
+
+MEL-Contrat historique |
+
+HERRIN |
+
+HERRIN |
+
+HONNECOURT-SUR-ESCAUT |
+
+SIDEC-Contrat historique |
+
+HORDAIN |
+
+SIDEGAV |
+
+HORNAING |
+
+HORNAING |
+
+HOUPLIN-ANCOISNE |
+
+MEL-Contrat historique |
+
+HOUPLINES |
+
+MEL-Contrat historique |
+
+IWUY |
+
+SIDEC-Contrat historique |
+
+JENLAIN |
+
+JENLAIN |
+
+JEUMONT |
+
+CAMVS |
+
+LA CHAPELLE-D'ARMENTIERES |
+
+MEL-Contrat historique |
+
+LA LONGUEVILLE |
+
+LA LONGUEVILLE |
+
+LA MADELEINE |
+
+MEL-Contrat historique |
+
+LA NEUVILLE |
+
+LA NEUVILLE |
+
+LA SENTINELLE |
+
+SIDEGAV |
+
+LALLAING |
+
+LALLAING |
+
+LAMBERSART |
+
+MEL-Contrat historique |
+
+LAMBRES-LEZ-DOUAI |
+
+LAMBRES-LEZ-DOUAI |
+
+LANDAS |
+
+LANDAS |
+
+LANNOY |
+
+MEL-Contrat historique |
+
+LAUWIN-PLANQUE |
+
+LAUWIN-PLANQUE |
+
+LE MAISNIL |
+
+MEL-Contrat historique |
+
+LECELLES |
+
+SIDEGAV |
+
+LECLUSE |
+
+LECLUSE |
+
+LEERS |
+
+MEL-Contrat historique |
+
+LES RUES-DES-VIGNES |
+
+SIDEC-Contrat historique |
+
+LESDAIN |
+
+SIDEC-Contrat historique |
+
+LESQUIN |
+
+MEL-Contrat historique |
+
+LEWARDE |
+
+LEWARDE |
+
+LEZENNES |
+
+MEL-Contrat historique |
+
+LEZ-FONTAINE |
+
+LEZ-FONTAINE |
+
+LIESSIES |
+
+LIESSIES |
+
+LIEU-SAINT-AMAND |
+
+SIDEGAV |
+
+LILLE |
+
+MEL-Contrat historique |
+
+LIMONT-FONTAINE |
+
+CAMVS |
+
+LINSELLES |
+
+MEL-Contrat historique |
+
+LOFFRE |
+
+LOFFRE |
+
+LOMME |
+
+LOMME |
+
+LOMPRET |
+
+MEL-Contrat historique |
+
+LOOS |
+
+MEL-Contrat historique |
+
+LOURCHES |
+
+SIDEGAV |
+
+LOUVIL |
+
+LOUVIL |
+
+LOUVROIL |
+
+CAMVS |
+
+LYS-LEZ-LANNOY |
+
+MEL-Contrat historique |
+
+MAING |
+
+SIDEGAV |
+
+MAIRIEUX |
+
+CAMVS |
+
+MARCHIENNES |
+
+MARCHIENNES |
+
+MARCOING |
+
+SIDEC-Contrat historique |
+
+MARCQ-EN-BAROEUL |
+
+MEL-Contrat historique |
+
+MARCQ-EN-OSTREVENT |
+
+MARCQ-EN-OSTREVENT |
+
+MARESCHES |
+
+MARESCHES |
+
+MARLY |
+
+SIDEGAV |
+
+MARPENT |
+
+CAMVS |
+
+MARQUETTE-EN-OSTREVANT |
+
+SIDEGAV |
+
+MARQUETTE-LEZ-LILLE |
+
+MEL-Contrat historique |
+
+MARQUILLIES |
+
+MEL-Contrat historique |
+
+MASNIERES |
+
+SIDEC-Contrat historique |
+
+MASNY |
+
+MASNY |
+
+MASTAING |
+
+SIDEGAV |
+
+MAUBEUGE |
+
+CAMVS |
+
+MAULDE |
+
+SIDEGAV |
+
+MERIGNIES |
+
+MERIGNIES |
+
+MILLONFOSSE |
+
+SIDEGAV |
+
+MOEUVRES |
+
+SIDEC-Contrat historique |
+
+MONCHAUX-SUR-ECAILLON |
+
+SIDEGAV |
+
+MONCHEAUX |
+
+MONCHEAUX |
+
+MONCHECOURT |
+
+MONCHECOURT |
+
+MONS-EN-BAROEUL |
+
+MEL-Contrat historique |
+
+MONS-EN-PEVELE |
+
+MONS-EN-PEVELE |
+
+MONTIGNY-EN-OSTREVENT |
+
+MONTIGNY-EN-OSTREVENT |
+
+MONTRECOURT |
+
+SIDEC-Contrat historique |
+
+MORTAGNE-DU-NORD |
+
+SIDEGAV |
+
+MOUCHIN |
+
+MOUCHIN |
+
+MOUVAUX |
+
+MEL-Contrat historique |
+
+NAVES |
+
+SIDEC-Contrat historique |
+
+NEUF-MESNIL |
+
+CAMVS |
+
+NEUVILLE-EN-FERRAIN |
+
+MEL-Contrat historique |
+
+NEUVILLE-SAINT-REMY |
+
+SIDEC-Contrat historique |
+
+NEUVILLE-SUR-ESCAUT |
+
+SIDEGAV |
+
+NIEPPE |
+
+Sans Objet-Nouveau contrat |
+
+NIERGNIES |
+
+SIDEC-Contrat historique |
+
+NIVELLE |
+
+SIDEGAV |
+
+NOMAIN |
+
+NOMAIN |
+
+NOYELLES-LES-SECLIN |
+
+MEL-Contrat historique |
+
+NOYELLES-SUR-ESCAUT |
+
+SIDEC-Contrat historique |
+
+NOYELLES-SUR-SELLE |
+
+SIDEGAV |
+
+ODOMEZ |
+
+SIDEGAV |
+
+OISY |
+
+SIDEGAV |
+
+ONNAING |
+
+SIDEGAV |
+
+ORCHIES |
+
+ORCHIES |
+
+ORSINVAL |
+
+ORSINVAL |
+
+OSTRICOURT |
+
+OSTRICOURT |
+
+PAILLENCOURT |
+
+SIDEC-Contrat historique |
+
+PECQUENCOURT |
+
+PECQUENCOURT |
+
+PERENCHIES |
+
+MEL-Contrat historique |
+
+PERONNE-EN-MELANTOIS |
+
+MEL-Contrat historique |
+
+PETITE-FORET |
+
+SIDEGAV |
+
+PHALEMPIN |
+
+PHALEMPIN |
+
+PONT-A-MARCQ |
+
+PONT-A-MARCQ |
+
+PREMESQUES |
+
+MEL-Contrat historique |
+
+PRESEAU |
+
+SIDEGAV |
+
+PREUX-AU-SART |
+
+PREUX-AU-SART |
+
+PROUVY |
+
+SIDEGAV |
+
+PROVILLE |
+
+SIDEC-Contrat historique |
+
+QUAROUBLE |
+
+SIDEGAV |
+
+QUERENAING |
+
+SIDEGAV |
+
+QUESNOY-SUR-DEULE |
+
+MEL-Contrat historique |
+
+QUIEVELON |
+
+CAMVS |
+
+QUIEVRECHAIN |
+
+SIDEGAV |
+
+RACHES |
+
+RACHES |
+
+RADINGHEM-EN-WEPPES |
+
+MEL-Contrat historique |
+
+RAILLENCOURT-SAINTE-OLLE |
+
+SIDEC-Contrat historique |
+
+RAIMBEAUCOURT |
+
+RAIMBEAUCOURT |
+
+RAISMES |
+
+SIDEGAV |
+
+RAMILLIES |
+
+RAMILLIES |
+
+RECQUIGNIES |
+
+CAMVS |
+
+RIBECOURT-LA-TOUR |
+
+SIDEC-Contrat historique |
+
+RIEULAY |
+
+RIEULAY |
+
+RIEUX-EN-CAMBRESIS |
+
+SIDEC-Contrat historique |
+
+ROEULX |
+
+SIDEGAV |
+
+ROMBIES-ET-MARCHIPONT |
+
+SIDEGAV |
+
+RONCHIN |
+
+MEL-Contrat historique |
+
+RONCQ |
+
+MEL-Contrat historique |
+
+ROOST-WARENDIN |
+
+ROOST-WARENDIN |
+
+ROSULT |
+
+SIDEGAV |
+
+ROUBAIX |
+
+MEL-Contrat historique |
+
+ROUCOURT |
+
+ROUCOURT |
+
+ROUSIES |
+
+CAMVS |
+
+ROUVIGNIES |
+
+SIDEGAV |
+
+RUMEGIES |
+
+SIDEGAV |
+
+RUMILLY-EN-CAMBRESIS |
+
+SIDEC-Contrat historique |
+
+SAILLY-LEZ-CAMBRAI |
+
+SIDEC-Contrat historique |
+
+SAILLY-LEZ-LANNOY |
+
+MEL-Contrat historique |
+
+SAINGHIN-EN-MELANTOIS |
+
+MEL-Contrat historique |
+
+SAINGHIN-EN-WEPPES |
+
+MEL-Contrat historique |
+
+SAINT-AMAND-LES-EAUX |
+
+SIDEGAV |
+
+SAINT-ANDRE-LEZ-LILLE |
+
+MEL-Contrat historique |
+
+SAINT-AUBERT |
+
+SIDEGAV |
+
+SAINT-MARTIN-SUR-ECAILLON |
+
+SIDEC-Contrat historique |
+
+SAINT-REMY-DU-NORD |
+
+CAMVS |
+
+SAINT-SAULVE |
+
+SIDEGAV |
+
+SAMEON |
+
+Sans Objet-Nouveau contrat |
+
+SANCOURT |
+
+SIDEC-Contrat historique |
+
+SANTES |
+
+MEL-Contrat historique |
+
+SARS-ET-ROSIERES |
+
+SIDEGAV |
+
+SARS-POTERIES |
+
+SARS-POTERIES |
+
+SAULTAIN |
+
+SIDEGAV |
+
+SAULZOIR |
+
+SIDEC-Contrat historique |
+
+SEBOURG |
+
+SIDEGAV |
+
+SECLIN |
+
+MEL-Contrat historique |
+
+SEMOUSIES |
+
+SEMOUSIES |
+
+SEPMERIES |
+
+SEPMERIES |
+
+SEQUEDIN |
+
+MEL-Contrat historique |
+
+SERANVILLERS-FORENVILLE |
+
+SIDEC-Contrat historique |
+
+SIN-LE-NOBLE |
+
+SIN-LE-NOBLE |
+
+SOLRE-LE-CHATEAU |
+
+SOLRE-LE-CHATEAU |
+
+SOMAIN |
+
+SOMAIN |
+
+SOMMAING |
+
+SIDEC-Contrat historique |
+
+TEMPLEMARS |
+
+MEL-Contrat historique |
+
+TEMPLEUVE |
+
+TEMPLEUVE |
+
+THIANT |
+
+SIDEGAV |
+
+THIVENCELLE |
+
+SIDEGAV |
+
+THUMERIES |
+
+THUMERIES |
+
+THUN-L'EVEQUE |
+
+THUN-L'EVEQUE |
+
+THUN-SAINT-AMAND |
+
+SIDEGAV |
+
+THUN-SAINT-MARTIN |
+
+THUN-SAINT-MARTIN |
+
+TILLOY-LEZ-CAMBRAI |
+
+SIDEC-Contrat historique |
+
+TILLOY-LEZ-MARCHIENNES |
+
+TILLOY-LEZ-MARCHIENNES |
+
+TOUFFLERS |
+
+MEL-Contrat historique |
+
+TOURCOING |
+
+MEL-Contrat historique |
+
+TOURMIGNIES |
+
+TOURMIGNIES |
+
+TRESSIN |
+
+MEL-Contrat historique |
+
+TRITH-SAINT-LEGER |
+
+SIDEGAV |
+
+VALENCIENNES |
+
+SIDEGAV |
+
+VENDEGIES-SUR-ECAILLON |
+
+SIDEC-Contrat historique |
+
+VENDEVILLE |
+
+MEL-Contrat historique |
+
+VERCHAIN-MAUGRE |
+
+SIDEGAV |
+
+VERLINGHEM |
+
+MEL-Contrat historique |
+
+VICQ |
+
+SIDEGAV |
+
+VIEUX-CONDE |
+
+SIDEGAV |
+
+VIEUX-MESNIL |
+
+CAMVS |
+
+VIEUX-RENG |
+
+CAMVS |
+
+VILLENEUVE-D'ASCQ |
+
+MEL-Contrat historique |
+
+VILLEREAU |
+
+VILLEREAU |
+
+VILLERS-AU-TERTRE |
+
+Sans Objet-Nouveau contrat |
+
+VILLERS-GUISLAIN |
+
+SIDEC-Contrat historique |
+
+VILLERS-POL |
+
+VILLERS-POL |
+
+VILLERS-SIRE-NICOLE |
+
+CAMVS |
+
+VRED |
+
+VRED |
+
+WAHAGNIES |
+
+WAHAGNIES |
+
+WALLERS |
+
+SIDEGAV |
+
+WAMBAIX |
+
+SIDEC-Contrat historique |
+
+WAMBRECHIES |
+
+MEL-Contrat historique |
+
+WANDIGNIES-HAMAGE |
+
+WANDIGNIES-HAMAGE |
+
+WANNEHAIN |
+
+WANNEHAIN |
+
+WARGNIES-LE-GRAND |
+
+WARGNIES-LE-GRAND |
+
+WARGNIES-LE-PETIT |
+
+WARGNIES-LE-PETIT |
+
+WARLAING |
+
+WARLAING |
+
+WARNETON |
+
+MEL-Contrat historique |
+
+WASNES-AU-BAC |
+
+SIDEGAV |
+
+WASQUEHAL |
+
+MEL-Contrat historique |
+
+WATTIGNIES |
+
+MEL-Contrat historique |
+
+WATTRELOS |
+
+MEL-Contrat historique |
+
+WAVRECHAIN-SOUS-DENAIN |
+
+SIDEGAV |
+
+WAVRECHAIN-SOUS-FAULX |
+
+SIDEGAV |
+
+WAVRIN |
+
+MEL-Contrat historique |
+
+WAZIERS |
+
+WAZIERS |
+
+WERVICQ-SUD |
+
+MEL-Contrat historique |
+
+WICRES |
+
+MEL-Contrat historique |
+
+WILLEMS |
+
+MEL-Contrat historique |
+
+WILLIES |
+
+WILLIES |
+
+Pas-de-Calais |
+
+BARALLE |
+
+FDE62-Contrat historique |
+
+BEAUMETZ-LES-CAMBRAI |
+
+FDE62-Contrat historique |
+
+BELLONNE |
+
+FDE62-Contrat historique |
+
+BERTINCOURT |
+
+FDE62-Contrat historique |
+
+BEUGNY |
+
+FDE62-Contrat historique |
+
+BIACHE-SAINT-VAAST |
+
+FDE62-Contrat historique |
+
+BOIRY-NOTRE-DAME |
+
+FDE62-Contrat historique |
+
+BOURLON |
+
+FDE62-Contrat historique |
+
+BREBIERES |
+
+FDE62-Contrat historique |
+
+BUISSY |
+
+FDE62-Contrat historique |
+
+BULLECOURT |
+
+FDE62-Contrat historique |
+
+CAGNICOURT |
+
+FDE62-Contrat historique |
+
+CARVIN |
+
+FDE62-Contrat historique |
+
+CORBEHEM |
+
+FDE62-Contrat historique |
+
+COURCELLES-LES-LENS |
+
+FDE62-Contrat historique |
+
+COURRIERES |
+
+FDE62-Contrat historique |
+
+DOURGES |
+
+FDE62-Contrat historique |
+
+DURY |
+
+FDE62-Contrat historique |
+
+ECOURT-SAINT-QUENTIN |
+
+FDE62-Contrat historique |
+
+ECOUST-SAINT-MEIN |
+
+FDE62-Contrat historique |
+
+EPINOY |
+
+FDE62-Contrat historique |
+
+ESTEVELLES |
+
+FDE62-Contrat historique |
+
+ETAING |
+
+FDE62-Contrat historique |
+
+ETERPIGNY |
+
+FDE62-Contrat historique |
+
+EVIN-MALMAISON |
+
+FDE62-Contrat historique |
+
+FLEURBAIX |
+
+FDE62-Contrat historique |
+
+FONTAINE-LES-CROISILLE |
+
+FDE62-Contrat historique |
+
+FRESNES-LES-MONTAUBAN |
+
+FDE62-Contrat historique |
+
+GOUY-SOUS-BELLONNE |
+
+FDE62-Contrat historique |
+
+GRAINCOURT-LES-HAVRINCOURT |
+
+FDE62-Contrat historique |
+
+HAMBLAIN-LES-PRES |
+
+FDE62-Contrat historique |
+
+HAUCOURT |
+
+FDE62-Contrat historique |
+
+HENDECOURT-LES-CAGNICOURT |
+
+FDE62-Contrat historique |
+
+HENIN-BEAUMONT |
+
+FDE62-Contrat historique |
+
+HERMIES |
+
+FDE62-Contrat historique |
+
+INCHY-EN-ARTOIS |
+
+FDE62-Contrat historique |
+
+IZEL-LES-EQUERCHIN |
+
+FDE62-Contrat historique |
+
+LAGNICOURT-MARCEL |
+
+FDE62-Contrat historique |
+
+LEBUCQUIERE |
+
+FDE62-Contrat historique |
+
+LEFOREST |
+
+FDE62-Contrat historique |
+
+LIBERCOURT |
+
+FDE62-Contrat historique |
+
+MARQUION |
+
+FDE62-Contrat historique |
+
+MONTIGNY-EN-GOHELLE |
+
+FDE62-Contrat historique |
+
+MORCHIES |
+
+FDE62-Contrat historique |
+
+NOREUIL |
+
+FDE62-Contrat historique |
+
+NOYELLES-GODAULT |
+
+FDE62-Contrat historique |
+
+NOYELLES-SOUS-BELLONNE |
+
+FDE62-Contrat historique |
+
+OIGNIES |
+
+FDE62-Contrat historique |
+
+OISY-LE-VERGER |
+
+FDE62-Contrat historique |
+
+PALLUEL |
+
+FDE62-Contrat historique |
+
+PELVES |
+
+FDE62-Contrat historique |
+
+PLOUVAIN |
+
+FDE62-Contrat historique |
+
+PRONVILLE |
+
+FDE62-Contrat historique |
+
+QUEANT |
+
+FDE62-Contrat historique |
+
+QUIERY-LA-MOTTE |
+
+FDE62-Contrat historique |
+
+RECOURT |
+
+FDE62-Contrat historique |
+
+REMY |
+
+FDE62-Contrat historique |
+
+RIENCOURT-LES-CAGNICOURT |
+
+FDE62-Contrat historique |
+
+ROEUX |
+
+FDE62-Contrat historique |
+
+RUMAUCOURT |
+
+FDE62-Contrat historique |
+
+SAILLY-EN-OSTREVENT |
+
+FDE62-Contrat historique |
+
+SAINS-LES-MARQUION |
+
+FDE62-Contrat historique |
+
+SAUCHY-CAUCHY |
+
+FDE62-Contrat historique |
+
+SAUCHY-LESTREE |
+
+FDE62-Contrat historique |
+
+SAUDEMONT |
+
+FDE62-Contrat historique |
+
+TORTEQUESNE |
+
+FDE62-Contrat historique |
+
+VAULX-VRAUCOURT |
+
+FDE62-Contrat historique |
+
+VELU |
+
+FDE62-Contrat historique |
+
+VILLERS-LES-CAGNICOURT |
+
+FDE62-Contrat historique |
+
+VIS-EN-ARTOIS |
+
+FDE62-Contrat historique |
+
+VITRY-EN-ARTOIS |
+
+FDE62-Contrat historique |
+
+Somme |
+
+ABLAINCOURT-PRESSOIR |
+
+FDE80-Contrat historique |
+
+ESTREES-DENIECOURT |
+
+FDE80-Contrat historique |
+
+HERBECOURT |
+
+FDE80-Herbecourt |
