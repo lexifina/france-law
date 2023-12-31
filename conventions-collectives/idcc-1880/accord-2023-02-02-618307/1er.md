@@ -1,3 +1,0 @@
-# Article 1er
-
-Au regard de son audit qualité, la CPNEFP pourra décider de l'organisation d'une visite sur place de contrôle pédagogique d'un organisme de formation agréé par la branche ayant déjà mis en place des sessions de formations. Cette mission sera assurée par le président et le vice-président de la CPNEFP, ou un autre membre de la CPNEFP à laquelle ces derniers auront conjointement donné délégation.
