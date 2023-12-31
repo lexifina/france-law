@@ -1028,7 +1028,7 @@ Manche |
 
 |
 
-Le Touquet - Côte d'Opale |
+Le Touquet - Elizabeth II |
 
 Pas-de-Calais |
 
