@@ -1,14 +1,14 @@
 # Article 220 sexdecies
 
-I.-Les entreprises exerçant l'activité d'entrepreneur de spectacles vivants, au sens de l'article L. 7122-2 du code du travail, soumises à l'impôt sur les sociétés peuvent bénéficier d'un crédit d'impôt au titre des dépenses de création, d'exploitation et de numérisation de représentations théâtrales d'œuvres dramatiques mentionnées au III du présent article si elles remplissent les conditions cumulatives suivantes :
+I.-Les entreprises exerçant l'activité d'entrepreneur de spectacles vivants, au sens de l'article L. 7122-2 du code du travail, soumises à l'impôt sur les sociétés peuvent bénéficier d'un crédit d'impôt au titre des dépenses de création, d'exploitation et de numérisation de représentations théâtrales d'œuvres dramatiques ou de cirque mentionnées au III du présent article si elles remplissent les conditions cumulatives suivantes :
 
 1° Avoir la responsabilité du spectacle, notamment celle d'employeur à l'égard du plateau artistique ;
 
 2° Supporter le coût de la création du spectacle.
 
-II.-Ouvrent droit au crédit d'impôt les dépenses engagées pour la création, l'exploitation et la numérisation de représentations théâtrales d'œuvres dramatiques remplissant les conditions cumulatives suivantes :
+II.-Ouvrent droit au crédit d'impôt les dépenses engagées pour la création, l'exploitation et la numérisation de représentations théâtrales d'œuvres dramatiques ou de cirque remplissant les conditions cumulatives suivantes :
 
-1° Etre réalisées par des entreprises établies en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et qui y effectuent les prestations liées à la réalisation de représentations théâtrales d'œuvres dramatiques ;
+1° Etre réalisées par des entreprises établies en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et qui y effectuent les prestations liées à la réalisation de représentations théâtrales d'œuvres dramatiques ou de cirque ;
 
 2° Porter sur un spectacle présentant les caractéristiques suivantes :
 
@@ -22,7 +22,7 @@ d) Disposer d'au moins six artistes au plateau justifiant chacun d'au moins ving
 
 e) Etre programmé pour plus de vingt dates, dont la moitié au moins sur le territoire français, sur une période de douze mois consécutifs dans au moins deux lieux différents.
 
-III.-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant des dépenses suivantes, engagées jusqu'au 31 décembre 2024, pour des spectacles mentionnés au II effectués en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
+III.-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant des dépenses suivantes, engagées jusqu'au 31 décembre 2027, pour des spectacles mentionnés au II effectués en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
 1° Pour les dépenses correspondant aux frais de création et d'exploitation du spectacle :
 
@@ -78,4 +78,4 @@ IX.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect
 
 NOTA :
 
-Conformément au II de l’article 39 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux demandes d'agrément provisoire déposées à compter du 1er janvier 2023.
+Conformément au II de l'article 60 de la loi n° 2023-1322 du 29 décembre 2023, les dispositions résultant des 2° et 3° du I dudit article s'appliquent aux demandes d'agrément provisoire déposées à compter du 1er janvier 2024.

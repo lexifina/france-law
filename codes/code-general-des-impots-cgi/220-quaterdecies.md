@@ -18,7 +18,7 @@ a) Les œuvres cinématographiques ou audiovisuelles à caractère pornographiqu
 
 b) Les œuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité.
 
-III. – 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 30 % du montant total des dépenses suivantes correspondant à des opérations ou prestations effectuées en France avant le 31 décembre 2024 :
+III. – 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 30 % du montant total des dépenses suivantes correspondant à des opérations ou prestations effectuées en France jusqu'au 31 décembre 2026 :
 
 a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle sous forme d'avances à valoir sur les recettes d'exploitation des œuvres, ainsi que les charges sociales afférentes ;
 
@@ -53,9 +53,3 @@ VI. – La somme des crédits d'impôt calculés au titre d'une même œuvre ne 
 VII. – Les crédits d'impôts obtenus pour la production d'une même œuvre cinématographique ou audiovisuelle ne peuvent avoir pour effet de porter à plus de 50 % du budget de production de l'œuvre le montant total des aides publiques accordées.
 
 VIII. – Un décret précise les conditions d'application du présent article.
-
-NOTA :
-
-Conformément aux III et IV de l’article 131 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux dépenses engagées au titre des exercices clos à compter du 31 décembre 2020 et entrent en vigueur à une date, fixée par décret, qui ne peut être postérieure de plus de trois mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
-
-Conformément à l'article 1er du décret n° 2020-685 du 5 juin 2020, ces dispositions entrent en vigueur le lendemain de la publication dudit décret.

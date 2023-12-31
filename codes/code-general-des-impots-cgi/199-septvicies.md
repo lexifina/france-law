@@ -124,6 +124,4 @@ Le dernier alinéa du II n'est pas applicable au présent XI.
 
 Pour l'application du présent XI, le plafond de loyer mentionné au III ainsi que les conditions mentionnées au deuxième alinéa du l du 1° du I de l'article 31 peuvent être adaptés par décret.
 
-NOTA :
-
-Modifications effectuées en conséquence des articles 4-IX-2° et 8 de l'ordonnance n° 2020-71 du 29 janvier 2020.
+XII.-Le présent article est applicable lorsque l'achèvement du logement ou des travaux de réhabilitation ou de transformation intervient au plus tard le 1er juillet 2025.

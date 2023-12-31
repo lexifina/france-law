@@ -1,6 +1,6 @@
 # Article 39 bis B
 
-1. Les entreprises exploitant un service de presse en ligne, reconnu en application de l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse, développant l'information professionnelle ou favorisant l'accès au savoir et a ̀ la formation et la diffusion de la pensée, du débat d'idées, de la culture générale et de la recherche scientifique, sont autorisées à constituer une provision déductible du résultat imposable des exercices clos à compter du 1er janvier 2018 et jusqu'au 31 décembre 2023, en vue de faire face aux dépenses suivantes :
+1. Les entreprises exploitant un service de presse en ligne, reconnu en application de l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse, développant l'information professionnelle ou favorisant l'accès au savoir et a ̀ la formation et la diffusion de la pensée, du débat d'idées, de la culture générale et de la recherche scientifique, sont autorisées à constituer une provision déductible du résultat imposable des exercices clos à compter du 1er janvier 2018 et jusqu'au 31 décembre 2026, en vue de faire face aux dépenses suivantes :
 
 a) Acquisitions de matériels, mobiliers, terrains, constructions, dans la mesure où ces éléments d'actif sont strictement nécessaires à l'exploitation du service de presse en ligne ;
 

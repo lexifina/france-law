@@ -20,9 +20,9 @@ b. Des biens, agencements et installations visés au a pris en location, au cour
 
 c. Des logiciels qui constituent des éléments de l'actif immobilisé et qui sont nécessaires à l'utilisation des investissements mentionnés aux a et b ;
 
-d. Des travaux de rénovation d'hôtel ;
+d. Des travaux de rénovation d'hôtel consistant en des travaux de modification ou de remise en état du gros œuvre, des travaux d'aménagement interne et des travaux d'amélioration qui leur sont indissociables ainsi que des travaux de mise aux normes qui conditionnent la poursuite de l'activité et qui sont immobilisés ;
 
-e. Des travaux de construction et de rénovation des établissements de santé privés réalisés pour l'exercice de l'activité mentionnée à l'article L. 6111-1 du code de la santé publique.
+e. Des travaux de construction et de rénovation des établissements de santé privés réalisés pour l'exercice de l'activité mentionnée à l'article L. 6111-1 du code de la santé publique consistant en des travaux de modification ou de remise en état du gros œuvre, des travaux d'aménagement interne et des travaux d'amélioration qui leur sont indissociables ainsi que des travaux de mise aux normes qui conditionnent la poursuite de l'activité et qui sont immobilisés.
 
 Pour l'application du présent 3°, les investissements doivent être considérés comme des investissements initiaux au sens de l'article 2 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité. Lorsqu'un investissement de remplacement permet l'extension ou la diversification de la capacité de production de l'entreprise, la quote-part de cet investissement correspondant à l'extension ou à la diversification de la capacité de production est assimilable à un investissement initial au sens du même article 2.
 

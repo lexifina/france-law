@@ -12,8 +12,8 @@ II.-Ne sont pas non plus tenus de s'identifier les assujettis qui effectuent exc
 
 4° Lorsque les assujettis ne sont pas établis en France, des livraisons de biens ou des prestations de services pour lesquelles ils ont recours, dans un autre Etat membre, à l'un des régimes particuliers prévus aux sections 2 à 4 du chapitre VI du titre XII de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée ;
 
-5° Des importations de biens ne donnant lieu à aucun paiement de la taxe sur la valeur ajoutée, déterminées par décret.
+5° Des importations de biens ne donnant lieu à aucun paiement de la taxe sur la valeur ajoutée, déterminées par décret ;
 
-NOTA :
+6° Des importations de biens mis en libre pratique ou placés en admission temporaire en exonération partielle de droits sur la base d'une déclaration verbale en application des articles 135 ou 136 du règlement délégué (UE) n° 2015/2446 de la Commission du 28 juillet 2015 complétant le règlement (UE) n° 952/2013 du Parlement européen et du Conseil au sujet des modalités de certaines dispositions du code des douanes de l'Union ;
 
-Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette date.
+7° Des importations de biens destinés à être utilisés ou cédés à titre gratuit dans le cadre de foires, d'expositions et de manifestations similaires.

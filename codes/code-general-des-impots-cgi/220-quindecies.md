@@ -14,13 +14,13 @@ II. – Ouvrent droit au crédit d'impôt les dépenses engagées pour la créat
 
 a) Présenter des coûts de création majoritairement engagés sur le territoire français ;
 
-b) Comprendre au minimum deux représentations dans au moins deux lieux différents ;
+b) Comprendre au minimum quatre représentations dans au moins trois lieux différents ;
 
-c) Ne pas être présenté dans un lieu dont la jauge, définie comme l'effectif maximal du public qu'il est possible d'admettre dans ce lieu, est supérieure à un nombre de personnes défini par décret par catégorie de spectacle.
+c) Ne pas être présenté dans un lieu dont la jauge, définie comme l'effectif maximal du public qu'il est possible d'admettre dans ce lieu, est supérieure à un nombre de personnes défini par décret par catégorie de spectacle. Par dérogation, il est admis pour les concerts de musiques actuelles de présenter une fois, lors de la tournée, le spectacle dans un lieu dépassant la jauge, dans la limite de 2 900 places.
 
 3° (Abrogé).
 
-III. – Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes, réalisées jusqu'au 31 décembre 2024 pour des spectacles mentionnés au II effectués en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
+III. – Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes, réalisées jusqu'au 31 décembre 2027 pour des spectacles mentionnés au II effectués en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
 1° Pour les dépenses correspondant aux frais de création et d'exploitation du spectacle pour toutes ses représentations, incluant les représentations promotionnelles :
 
@@ -74,8 +74,8 @@ IX. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au res
 
 NOTA :
 
-Conformément au III, A de l'article 22 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent à compter du 1er janvier 2021.
+Conformément au C du III de l'article 23 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux demandes d’agrément provisoire prévues au VI de l’article 220 quindecies du code général des impôts déposées à compter du 1er janvier 2023. Se reporter aux conditions d'application prévues au A du III de l'article 23 de la présente loi.
 
-Conformément au B du III de l'article 23 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux demandes d’agrément provisoire prévues au VI de l’article 220 quindecies du code général des impôts déposées entre le 1er janvier 2021 et le 31 décembre 2022. Se reporter aux conditions d'application prévues au A du III de l'article 23 de la présente loi.
+Conformément à l'article 50 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux demandes d'agrément provisoire prévues au VI de l'article 220 quindecies du code général des impôts déposées à compter du 1er janvier 2024.
 
-Conformément à l'article 50 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux demandes d'agrément provisoire prévues au VI de l'article 220 quindecies du code général des impôts déposées entre le 1er janvier 2021 et le 31 décembre 2023.
+Conformément au II de l’article 59 de la loi n° 2023-1322 du 29 décembre 2023, le I du même article 58 s'applique aux demandes d'agrément à titre provisoire déposées à compter du 1er janvier 2024.

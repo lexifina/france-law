@@ -78,7 +78,7 @@ III.-Dans le secteur de l'accession sociale à la propriété, relèvent des tau
 
 a) Soit sont situés dans un quartier faisant l'objet d'une convention de rénovation urbaine ou dans un quartier prioritaire de la politique de la ville faisant l'objet d'un contrat de ville prévu à l'article 6 de la loi n° 2014-173 du 21 février 2014 précitée, ou sont entièrement situés à moins de 300 mètres de la limite de ces quartiers ;
 
-b) Soit, dans les situations autres que celles mentionnées au a, sont intégrés à un ensemble immobilier partiellement situé à moins de 300 mètres et entièrement situé à moins de 500 mètres de la limite d'un quartier prioritaire de la politique de la ville faisant l'objet d'une convention de renouvellement urbain ;
+b) Soit, dans les situations autres que celles mentionnées au a, sont intégrés à un ensemble immobilier partiellement situé à moins de 300 mètres et entièrement situé à moins de 500 mètres de la limite d'un quartier prioritaire de la politique de la ville faisant l'objet d'un contrat de ville prévu à l'article 6 de la loi n° 2014-173 du 21 février 2014 précitée et d'une convention de renouvellement urbain ;
 
 3° Les apports des immeubles sociaux neufs aux sociétés civiles immobilières d'accession progressive à la propriété effectués dans les conditions prévues aux articles L. 443-6-2 à L. 443-6-13 du code de la construction et de l'habitation ;
 

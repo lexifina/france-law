@@ -14,8 +14,8 @@ Le présent article est applicable, sans que la condition d'exercice à temps pa
 
 Lorsqu'ils occupent plusieurs emplois à temps non complet, les fonctionnaires mentionnés à l'avant-dernier alinéa du présent article bénéficient de la retraite progressive sous réserve que leur durée totale de travail n'excède pas le pourcentage mentionné au dernier alinéa de l'article L. 161-22-1-6 du code de la sécurité sociale.
 
+Le présent chapitre n'est pas applicable aux fonctionnaires qui bénéficient d'un avantage de préretraite prévu par des dispositions réglementaires, par des stipulations conventionnelles ou par une décision unilatérale de l'employeur.
+
 NOTA :
 
-Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
-
-Se reporter au VI de l’article 26 de la loi n° 2023-270 du 14 avril 2023.
+Conformément au II de l'article 263 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions sont applicables aux fonctionnaires territoriaux et hospitaliers ainsi qu'aux ouvriers de l'Etat.

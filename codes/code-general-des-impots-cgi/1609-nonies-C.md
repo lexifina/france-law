@@ -1,6 +1,6 @@
 # Article 1609 nonies C
 
-I. – Les établissements publics de coopération intercommunale mentionnés au I de l'article 1379-0 bis sont substitués aux communes membres pour l'application des dispositions relatives à la cotisation foncière des entreprises et la cotisation sur la valeur ajoutée des entreprises et pour la perception du produit de ces taxes.
+I. – Les établissements publics de coopération intercommunale mentionnés au I de l'article 1379-0 bis sont substitués aux communes membres pour l'application des dispositions relatives à la cotisation foncière des entreprises et pour la perception du produit de cette taxe.
 
 I bis. – Ils sont également substitués aux communes membres pour la perception :
 
@@ -104,7 +104,7 @@ Ces délibérations peuvent prévoir d'imputer une partie du montant de l'attrib
 
 A défaut d'accord, le montant de l'attribution est fixé dans les conditions figurant aux 2°, 4° et 5° ;
 
-2° L'attribution de compensation est égale à la somme des produits mentionnés au I et aux 1 et 2 du I bis et du produit de la taxe sur les surfaces commerciales prévue à l'article 3 de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés, perçus par la commune l'année précédant celle de la première application du présent article, diminuée du coût net des charges transférées calculé dans les conditions définies au IV.
+2° L'attribution de compensation est égale à la somme des produits mentionnés au I et aux 1 et 2 du I bis, de la fraction du produit net de la taxe sur la valeur ajoutée affectée aux communes mentionnée au XXIV de l'article 55 de la loi n° 2022-1726 du 30 décembre 2022 de finances pour 2023 et du produit de la taxe sur les surfaces commerciales prévue à l'article 3 de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés, perçus par la commune l'année précédant celle de la première application du présent article, diminuée du coût net des charges transférées calculé dans les conditions définies au IV.
 
 L'attribution de compensation est majorée du montant perçu par la commune la même année, d'une part, au titre de la part de la dotation forfaitaire prévue à l'article L. 2334-7 du code général des collectivités territoriales correspondant au montant antérieurement versé en application du I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998) diminué du pourcentage prévu au deuxième alinéa de l'article L. 5211-28-1 du code général des collectivités territoriales, et, d'autre part, au titre du montant des compensations, hors celui de la compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), allouées :
 
@@ -182,4 +182,4 @@ IX. – Les dispositions des I à VIII sont applicables aux communautés de comm
 
 NOTA :
 
-Conformément au II de l’article 14 du décret n° 2022-1499 du 1er décembre 2022, ces dispositions s’appliquent aux centrales de production d'énergie électrique d'origine photovoltaïque installées à compter du 1er janvier 2023.
+Conformément au A du IV de l'article 79 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er janvier 2023.

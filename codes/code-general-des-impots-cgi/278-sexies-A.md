@@ -32,6 +32,20 @@ a) Ceux acquis par un organisme de foncier solidaire et portant sur un immeuble 
 
 b) Ceux acquis par le détenteur des droits réels immobiliers avant qu'ils n'aient été cédés à l'occupant ou que les logements n'aient été mis en location et portant sur un immeuble faisant l'objet d'un bail réel solidaire.
 
+6° Les travaux immobiliers qui remplissent les conditions cumulatives suivantes :
+
+a) Ils portent sur des logements qui, à la date de dépôt de l'agrément mentionné au d du présent 6°, sont achevés depuis au moins quarante ans et qui, pendant cette période de quarante ans, remplissent l'une des conditions suivantes :
+
+-être un logement locatif social au sens du 1° du I de l'article 278 sexies ;
+
+-appartenir à ou être géré par un organisme d'habitations à loyer modéré, sous réserve d'avoir été soit construit, soit amélioré, soit acquis et amélioré avec le concours financier de l'Etat ;
+
+b) Ces travaux conduisent à transformer des logements peu performants, très peu performants ou extrêmement peu performants en logements extrêmement performants ou très performants. En métropole, ces niveaux de performance s'entendent au sens de l'article L. 173-1-1 du code de la construction et de l'habitation. En Guadeloupe, en Martinique et à La Réunion, ces niveaux s'entendent de critères de performance énergétique et environnementale déterminés par décret ;
+
+c) Les logements résultant de ces travaux respectent les critères de la sécurité d'usage, de qualité sanitaire et à d'accessibilité des bâtiments prévus respectivement au chapitre IV du titre III, au titre V et au titre VI du livre Ier du même code. Un décret détermine les situations et les conditions dans lesquelles le respect de tout ou partie de ces critères n'est pas une condition d'éligibilité au taux réduit en raison d'une incompatibilité avec les contraintes architecturales ou patrimoniales pesant sur le bâtiment ou lorsque les travaux nécessaires font courir un risque à l'intégrité du bâti ;
+
+d) Les logements et les travaux font l'objet d'une décision d'agrément délivrée par le représentant de l'Etat.
+
 II.-Les taux réduits prévus au I sont égaux à :
 
 Travaux concernés |
@@ -78,8 +92,10 @@ Travaux réalisés dans le cadre d'un bail réel solidaire |
 
 5,5 % |
 
+Travaux lourds d'amélioration de la qualité énergétique des logements locatifs sociaux d'au moins quarante ans |
+
+6° du I |
+
+5,5 % |
+
 Pour les travaux mentionnés au 1° du I, le taux applicable est celui prévu pour la livraison du local sur lequel ils portent, conformément à l'article 278 sexies-0 A. A cette fin, un logement dont la construction n'a été financée ni par un prêt locatif aidé d'intégration, ni par un prêt locatif à usage social, ni par un prêt locatif social est assimilé à un logement dont la construction a été financée par un prêt locatif à usage social.
-
-NOTA :
-
-Conformément au II de l'article 32 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux livraisons et aux travaux pour lesquels le fait générateur de la taxe sur la valeur ajoutée et la décision d'accorder un prêt locatif social sont intervenus à compter du 1er janvier 2022.

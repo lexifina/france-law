@@ -40,6 +40,4 @@ La réduction n'est pas applicable au titre des logements dont le droit de propr
 
 IV. – Un contribuable ne peut, pour un même logement, bénéficier à la fois des réductions d'impôt mentionnées aux articles 199 undecies A et 199 undecies B et des dispositions du présent article.
 
-NOTA :
-
-Modifications effectuées en conséquence de l’article 30 de la loi 2021-502 du 26 avril 2021.
+V. – Le présent article est applicable lorsque l'achèvement du logement ou des travaux de réhabilitation ou de rénovation intervient au plus tard le 1er juillet 2025 ou, dans le cas de logements acquis en l'état futur d'achèvement après le 1er juillet 2021, lorsque les logements sont achevés dans un délai de quatre ans à compter de l'acquisition.

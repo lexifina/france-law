@@ -6,7 +6,7 @@ I.-A.-1. Les entreprises soumises à l'impôt sur les sociétés peuvent bénéf
 
 2° Les investissements sont exploités par l'entreprise locataire pour l'exercice d'une activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B, à l'exception des activités mentionnées aux I ter et I quater du même article 199 undecies B ;
 
-Pour les investissements réalisés dans le secteur du transport aérien ou maritime, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au I bis de l'article 199 undecies B. Pour les investissements afférents aux équipements et opérations de pose de câbles sous-marins de communication ou de secours mentionnés au I ter du même article 199 undecies B, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au même I ter. Pour les investissements afférents aux navires de croisière mentionnés au I quater de l'article 199 undecies B, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au même I quater ;
+Pour les investissements réalisés dans le secteur du transport aérien ou maritime, la réduction d'impôt s'applique sous réserve du respect des conditions prévues au I bis de l'article 199 undecies B. Pour les investissements afférents aux équipements et opérations de pose de câbles sous-marins de communication ou de secours mentionnés au I ter du même article 199 undecies B, la réduction d'impôt s'applique sous réserve du respect des conditions prévues au même I ter. Pour les investissements afférents aux navires de croisière mentionnés au I quater de l'article 199 undecies B, la réduction d'impôt s'applique sous réserve du respect des conditions prévues au même I quater. Pour les investissements afférents à l'acquisition de friches hôtelières ou industrielles faisant l'objet de travaux de réhabilitation lourde mentionnés au I sexies de l'article 199 undecies B, la réduction d'impôt s'applique sous réserve du respect des conditions prévues au même I sexies ;
 
 3° L'entreprise locataire aurait pu bénéficier de la déduction prévue à l'article 217 undecies si, imposable en France, elle avait acquis directement le bien. Pour l'appréciation de cette condition, le seuil de chiffre d'affaires prévu à la première phrase du premier alinéa du I du même article 217 undecies est réputé satisfait quelle que soit l'entreprise locataire ;
 
@@ -16,11 +16,13 @@ Pour les investissements réalisés dans le secteur du transport aérien ou mari
 
 2. La réduction d'impôt ne s'applique pas aux investissements portant sur :
 
-1° L'acquisition de véhicules de tourisme au sens de l'article L. 421-2 du code des impositions sur les biens et services qui ne sont pas strictement indispensables à l'activité de l'entreprise locataire ;
+1° L'acquisition de véhicules de tourisme au sens de l'article L. 421-2 du code des impositions sur les biens et services qui ne sont pas strictement indispensables à l'exercice d'une activité aquacole, agricole, sylvicole ou minière. Toutefois, la réduction d'impôt s'applique aux investissements consistant en l'acquisition de véhicules de tourisme mentionnés à la troisième phrase du quinzième alinéa du I de l'article 199 undecies B ;
 
-2° Des installations de production d'électricité utilisant l'énergie radiative du soleil.
+2° Des installations de production d'électricité utilisant l'énergie radiative du soleil ne respectant pas les conditions prévues aux deuxième et dernière phrases du seizième alinéa du I de l'article 199 undecies B ;
 
-B.-La réduction d'impôt prévue au A du présent I s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés lorsque ces travaux constituent des éléments de l'actif immobilisé.
+3° L'acquisition de biens donnés en location ou mis à la disposition de ménages ou de syndicats de copropriétaires, y compris dans le cadre de contrats incluant la fourniture de prestations de services.
+
+B.-La réduction d'impôt prévue au A du présent I s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés et aux travaux de réhabilitation lourde d'immeubles autres que ceux à usage d'habitation lorsque ces travaux constituent des éléments de l'actif immobilisé.
 
 C.-La réduction d'impôt prévue au A du présent I s'applique également aux investissements affectés plus de cinq ans par le concessionnaire à l'exploitation d'une concession de service public local à caractère industriel et commercial et réalisés dans des secteurs éligibles.
 
@@ -116,6 +118,10 @@ Un décret précise la nature des sommes retenues pour l'appréciation du prix d
 
 Pour les travaux de démolition mentionnés au 4° du D du I, la réduction d'impôt est assise sur le prix de revient des travaux de démolition, minoré, d'une part, des taxes versées et, d'autre part, des aides publiques reçues au titre de ces mêmes travaux. Ce montant est retenu dans la limite d'un plafond de 25 000 € par logement démoli.
 
+G.-Pour les investissements afférents à l'acquisition de friches hôtelières ou industrielles faisant l'objet de travaux de réhabilitation lourde mentionnés au I sexies de l'article 199 undecies B, l'assiette de la réduction d'impôt est déterminée dans les conditions prévues au même I sexies.
+
+H.-Pour les investissements consistant en l'acquisition de véhicules de tourisme mentionnés à la troisième phrase du quinzième alinéa du I de l'article 199 undecies B, l'assiette de la réduction d'impôt prévue au 1 du A du présent III est retenue dans la limite d'un montant fixé par décret, qui ne peut excéder 30 000 € par véhicule.
+
 IV.-Le taux de la réduction d'impôt est fixé à 35 %.
 
 V.-1. Le bénéfice de la réduction d'impôt prévue au I est accordé au titre de l'exercice au cours duquel l'investissement est mis en service.
@@ -134,7 +140,7 @@ VI.-Lorsque le montant total par programme d'investissements est supérieur au s
 
 VII.-A.-L'investissement ayant ouvert droit à la réduction d'impôt doit être exploité par l'entreprise locataire dans les conditions fixées au I du présent article pendant un délai de cinq ans, décompté à partir de la date de réalisation dudit investissement. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans.
 
-Pour les investissements dont la durée normale d'utilisation est au moins égale à sept ans, l'entreprise locataire doit prendre l'engagement d'utiliser effectivement pendant sept ans au moins l'investissement dans le cadre de l'activité pour laquelle il a été acquis ou créé. Cet engagement est porté à dix ans pour les investissements portant sur les navires de croisière neufs d'une capacité maximale de quatre cents passagers et à quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances.
+Pour les investissements dont la durée normale d'utilisation est au moins égale à sept ans, l'entreprise locataire doit prendre l'engagement d'utiliser effectivement pendant sept ans au moins l'investissement dans le cadre de l'activité pour laquelle il a été acquis ou créé. Cet engagement est porté à dix ans pour les investissements portant sur les navires de croisière neufs d'une capacité maximale de quatre cents passagers et à quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances, en la construction ou la réhabilitation lourde d'immeubles autres que ceux à usage d'habitation ou en l'acquisition ou la construction d'immeubles exploités dans le cadre des activités mentionnées à la deuxième phrase du g du I de l'article 199 undecies B.
 
 Si, dans le délai mentionné au premier alinéa du présent A, l'investissement ayant ouvert droit à la réduction d'impôt est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, ou si l'une des conditions prévues au I cesse d'être respectée, la réduction d'impôt fait l'objet d'une reprise au titre de l'exercice ou de l'année au cours duquel interviennent les événements précités.
 
@@ -152,7 +158,7 @@ B.-Pour les souscriptions au capital de sociétés mentionnées au B du II du pr
 
 2° Les investissements productifs doivent être exploités par la société bénéficiaire des souscriptions dans les conditions fixées au même II pendant un délai de cinq ans, décompté à partir de la date de réalisation de l'investissement. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans.
 
-Pour les investissements dont la durée normale d'utilisation est au moins égale à sept ans, la société bénéficiaire des souscriptions doit prendre l'engagement d'utiliser effectivement pendant sept ans au moins l'investissement dans le cadre de l'activité pour laquelle il a été acquis ou créé. Cet engagement est porté à dix ans pour les investissements portant sur les navires de croisière neufs d'une capacité maximale de quatre cents passagers et à quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances.
+Pour les investissements dont la durée normale d'utilisation est au moins égale à sept ans, la société bénéficiaire des souscriptions doit prendre l'engagement d'utiliser effectivement pendant sept ans au moins l'investissement dans le cadre de l'activité pour laquelle il a été acquis ou créé. Cet engagement est porté à dix ans pour les investissements portant sur les navires de croisière neufs d'une capacité maximale de quatre cents passagers et à quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances, en la construction ou la réhabilitation lourde d'immeubles autres que ceux à usage d'habitation ou en l'acquisition ou la construction d'immeubles exploités dans le cadre des activités mentionnées à la deuxième phrase du g du I de l'article 199 undecies B.
 
 Si, dans le délai prévu au premier alinéa du présent 2°, cet engagement ou l'une de ces conditions ne sont pas respectés, la réduction d'impôt dont a bénéficié le souscripteur fait l'objet d'une reprise au titre de l'exercice au cours duquel cet événement est constaté.
 
@@ -194,4 +200,4 @@ B.-Un décret fixe les conditions d'application du présent article.
 
 NOTA :
 
-Conformément au A du II de l’article 14 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux investissements réalisés à compter du 1er janvier 2023.
+Les modalités d’application du présent article, dans sa rédaction issue de l’article 75 de la loi n° 2023-1322 du 29 décembre 2023, sont définies au V dudit article.

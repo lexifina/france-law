@@ -1,6 +1,6 @@
 # Article 44 octies A
 
-I. – Les contribuables qui, entre le 1er janvier 2006 et le 31 décembre 2023, créent des activités dans les zones franches urbaines-territoires entrepreneurs définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des activités implantées dans la zone jusqu'au terme du cinquante-neuvième mois suivant celui du début de leur activité dans l'une de ces zones. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à concurrence de 40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la troisième période de douze mois suivant cette période d'exonération.
+I. – Les contribuables qui, entre le 1er janvier 2006 et le 31 décembre 2024, créent des activités dans les zones franches urbaines-territoires entrepreneurs définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des activités implantées dans la zone jusqu'au terme du cinquante-neuvième mois suivant celui du début de leur activité dans l'une de ces zones. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à concurrence de 40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la troisième période de douze mois suivant cette période d'exonération.
 
 Dans les collectivités de Guadeloupe, de Guyane, de Martinique, de La Réunion et de Mayotte, les dispositions du premier alinéa du présent I ne s'appliquent qu'aux activités créées dans ces zones jusqu'au 31 décembre 2018.
 
@@ -42,8 +42,6 @@ Pour les contribuables qui créent ou implantent des activités dans une zone fr
 
 2° Ou le nombre de salariés embauchés à compter de la création ou de l'implantation de l'entreprise et remplissant les conditions décrites au 1° soit égal au moins à la moitié du total des salariés embauchés dans les mêmes conditions, au cours de la même période.
 
-Pour les contribuables qui créent des activités dans une zone franche urbaine-territoire entrepreneur à compter du 1er janvier 2016, le bénéfice de l'exonération est subordonné à l'existence, au 1er janvier de l'année d'implantation, du contrat de ville prévu à l'article 6 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine.
-
 Pour les contribuables qui exercent des activités avant le 1er janvier 2006 dans les zones franches urbaines-territoires entrepreneurs définies au deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, ainsi que pour ceux qui, à compter du 1er janvier 2012, créent des activités dans les zones franches urbaines-territoires entrepreneurs définies au même B, le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 III. – Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal mentionné à l'article 223 A ou à l'article 223 A bis, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II du présent article et au 4 de l'article 223 I.
@@ -53,3 +51,7 @@ Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération a
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 quindecies, 44 sexdecies et 44 septdecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois qui suivent la publication du décret en Conseil d'Etat procédant à la délimitation de la zone conformément à l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, s'il y exerce déjà son activité ou, dans le cas contraire, dans les six mois suivant celui du début d'activité. L'option est irrévocable.
 
 IV. – Les obligations déclaratives des personnes et organismes auxquels s'applique l'exonération sont fixées par décret.
+
+NOTA :
+
+Conformément au A du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er janvier 2024.

@@ -8,12 +8,8 @@ L'âge d'annulation de la décote est égal :
 
 3° Pour le fonctionnaire bénéficiant d'un droit au départ au titre des troisième à dernier alinéas du 1° du I du même article L. 24, à l'âge minoré mentionné au troisième alinéa du même 1° augmenté de trois années ;
 
-4° Pour le militaire mentionné à la première phrase du premier alinéa du II de l'article L. 14 ou les fonctionnaires mentionnés aux 2° à 4° de l'article L. 556-8 du code général de la fonction publique, à la limite d'âge de leur grade ;
+4° Pour le fonctionnaire occupant un emploi classé en catégorie active et radié des cadres par limite d'âge ou pour le militaire mentionné à la première phrase du premier alinéa du II de l'article L. 14 ou les fonctionnaires mentionnés aux 2° à 4° de l'article L. 556-8 du code général de la fonction publique, à la limite d'âge de leur emploi ou de leur grade ;
 
-5° Par dérogation au 2° du présent article, pour les fonctionnaires bénéficiant d'un droit au départ à l'âge anticipé au titre d'un emploi dont la limite d'âge est fixée à soixante-quatre ans, à cet âge.
+5° Par dérogation au 2° du présent article, pour les fonctionnaires bénéficiant d'un droit au départ à l'âge anticipé au titre d'un emploi dont la limite d'âge est fixée à soixante-quatre ans, à cet âge ;
 
-NOTA :
-
-Conformément au B du XXX de l'article 10 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.
-
-Se reporter aux dispositions du XXIV de l'article 10 de la loi n° 2023-270 du 14 avril 2023.
+6° Par dérogation au 3° du présent article, pour les fonctionnaires mentionnés à l'article L. 556-10 du code général de la fonction publique, à cinquante-neuf ans.

@@ -1,10 +1,18 @@
 # Article 266 sexies
 
-I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
+I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
 
 1. a) Toute personne réceptionnant des déchets, dangereux ou non dangereux, et exploitant une installation soumise à autorisation, en application du titre Ier du livre V du code de l'environnement, au titre d'une rubrique de la nomenclature des installations classées relative au stockage ou au traitement thermique de ces déchets ;
 
 b) Toute personne qui transfère ou fait transférer des déchets vers un autre Etat en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets ;
+
+c) Toute personne réceptionnant des déchets radioactifs métalliques et exploitant une installation de stockage de ces déchets soumise à autorisation en application du titre Ier du livre V du code de l'environnement.
+
+Pour l'application du présent article et des articles 266 septies à 266 undecies du présent code :
+
+-les déchets s'entendent des déchets définis au deuxième alinéa de l'article L. 541-1-1 du code de l'environnement, à l'exception des déchets radioactifs métalliques ;
+
+-les déchets radioactifs métalliques s'entendent des déchets définis au cinquième alinéa de l'article L. 542-1-1 du même code qui sont de nature métallique et qui sont susceptibles de contenir des substances radioactives autres que celles d'origine naturelle ou des substances radioactives d'origine naturelle dont l'activité en radionucléides naturels des chaînes de l'uranium et du thorium est supérieure à 20 becquerels par gramme ;
 
 2. Tout exploitant d'une installation soumise à autorisation ou enregistrement au titre du livre V (titre Ier) du code de l'environnement dont la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations de traitement thermique d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en une année lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil d'Etat ;
 
@@ -26,7 +34,7 @@ b) Toute personne qui, pour les besoins de son activité économique, utilise su
 
 10. (Abrogé)
 
-II. - La taxe ne s'applique pas :
+II.-La taxe ne s'applique pas :
 
 1. (Abrogé) ;
 
@@ -48,7 +56,7 @@ a) Ces résidus constituent des déchets dangereux et les déchets dont ils sont
 
 b) Ces résidus constituent des déchets non dangereux qu'il n'est pas possible techniquement de valoriser. Un décret précise les éléments caractérisant cette impossibilité technique ;
 
-1 nonies. Aux réceptions de déchets relevant du champ d'application de la taxe intérieure de consommation sur les produits énergétiques prévue respectivement aux articles 265,266 quater, 266 quinquies et 266 quinquies B ;
+1 nonies. Aux réceptions de déchets relevant du champ d'application de la taxe intérieure de consommation sur les produits énergétiques prévue respectivement aux articles 265, 266 quater, 266 quinquies et 266 quinquies B ;
 
 1 decies. Aux réceptions, autres que celles relevant du 1 nonies du présent II, d'hydrocarbures faisant l'objet d'un traitement thermique sans faire l'objet d'une combustion en vue de leur valorisation ;
 
@@ -60,15 +68,17 @@ b) Ces résidus constituent des déchets non dangereux qu'il n'est pas possible 
 
 1 quaterdecies. Aux installations exclusivement utilisées pour les déchets que l'exploitant produit ;
 
-1 quindecies. Aux réceptions de déchets en provenance d'une installation de stockage où ces déchets ont été préalablement réceptionnés et qui :
+1 quindecies. Aux réceptions de déchets en provenance :
 
-a) Soit n'est plus exploitée depuis le 1er janvier 1999 ;
+a) D'une installation de stockage qui n'est plus exploitée depuis le 1er janvier 1999 et qui ne relève pas du c du présent 1 quindecies ;
 
-b) Soit a fait l'objet d'une autorisation pour le stockage de déchets, mais n'est plus exploitée à la date de transfert des déchets ;
+b) D'une installation de stockage autorisée où les déchets transférés ont été préalablement réceptionnés, dont l'exploitation a cessé entre le 1er janvier 1999 et la date de ce transfert et qui ne relève pas du même c ;
+
+c) D'un dépôt de déchets situé à moins de 100 mètres du trait de côte dans une zone soumise à érosion ou dans une zone de submersion marine potentielle. Un arrêté du ministre chargé de l'environnement constate les dépôts qui satisfont ces conditions ;
 
 1 sexdecies. Aux réceptions, autres que celles relevant du 1 nonies du présent II, de déchets en vue de les transformer, par traitement thermique, en combustibles qui sont destinés soit à cesser d'être des déchets au sens de l'article L. 541-4-3 du code de l'environnement, soit à être utilisés dans une installation autorisée de co-incinération ;
 
-1 septdecies. A la réception, dans une installation de stockage, de déchets dangereux de résidus issus du traitement de déchets, lorsque les conditions suivantes sont cumulativement remplies :
+1 septdecies. A la réception, dans une installation de stockage de déchets dangereux, de résidus issus du traitement de déchets, lorsque les conditions suivantes sont cumulativement remplies :
 
 a) L'installation de stockage des résidus et celle de traitement des déchets dont ils sont issus sont situées sur une même emprise foncière ;
 
@@ -92,6 +102,8 @@ c) L'installation de traitement des déchets répond aux caractéristiques suiva
 
 -à l'issue de l'opération de traitement, le quotient entre, au numérateur, la masse de l'ensemble des produits ayant fait l'objet au cours de l'année civile d'une valorisation matière au sens de l'article L. 541-1-1 du code de l'environnement et, au dénominateur, la masse de l'ensemble des déchets réceptionnés par l'installation de traitement durant la même période, telles que constatées par l'inspection des installations classées compétente, est au moins égal à 70 % ;
 
+1 octodecies. A la réception, dans une installation de stockage autorisée en application du titre Ier du livre V du code de l'environnement, de déchets radioactifs métalliques issus d'une valorisation de matière radioactive au sens du troisième alinéa de l'article L. 542-1-1 du même code ;
+
 2. Aux installations d'injection d'effluents industriels autorisées en application de l'article 84 de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages ;
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur produit sec d'au moins 97 % d'oxyde de silicium ;
@@ -104,12 +116,8 @@ c) L'installation de traitement des déchets répond aux caractéristiques suiva
 
 7. (Abrogé).
 
-III. - (Abrogé).
+III.-(Abrogé).
 
-IV. - Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et aux traitements associés, à l'origine géographique des déchets, à la période d'exploitation de l'installation ou à ses limites de capacités, annuelles ou totales.
+IV.-Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets ou déchets radioactifs métalliques et aux traitements associés, à l'origine géographique des déchets ou déchets radioactifs métalliques, à la période d'exploitation de l'installation ou à ses limites de capacités, annuelles ou totales.
 
 Le même II s'applique également à l'exception du 1 quaterdecies, dans les mêmes conditions, aux transferts de déchets hors de France en vue de leur réception par une installation régie, dans l'Etat dans laquelle elle se situe, par une réglementation d'effet équivalent à cette autorisation.
-
-NOTA :
-
-Conformément aux dispositions du II de l'article 85 de l'ordonnance n° 2020-105 du 10 février 2020, les dispositions de l'article 266 sexies telles qu'elles résultent du I dudit article entrent en vigueur le 1er janvier 2022.

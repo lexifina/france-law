@@ -2,6 +2,8 @@
 
 I.-Lorsque, pour l'importation de biens faisant l'objet d'une vente à distance de biens importés, à l'exception des produits soumis à accises, contenus dans des envois d'une valeur intrinsèque ne dépassant pas 150 € ou sa contre-valeur en monnaie nationale, le régime particulier prévu à l'article 298 sexdecies H n'est pas utilisé, la personne qui présente les marchandises en douane pour le compte de la personne destinataire des biens peut se prévaloir du régime particulier prévu au présent article pour la déclaration et le paiement de la taxe sur la valeur ajoutée à l'importation en ce qui concerne des biens expédiés ou transportés à destination de la France.
 
+Les marchandises ne sont pas présentées pour le compte de la personne destinataire des biens lorsque la base d'imposition à l'importation diffère de celle qui serait déterminée pour la vente à distance de biens importés si elle était située en France.
+
 II.-Lorsqu'il est recouru au présent dispositif, les conditions suivantes sont applicables :
 
 1° Par dérogation au 2 de l'article 293 A, le redevable de la taxe sur la valeur ajoutée est le destinataire du bien indiqué sur la déclaration d'importation et l'option prévue à l'article 293 A quater ne peut être exercée ;
@@ -26,4 +28,6 @@ VII.-Aux fins du présent régime, la contre-valeur en monnaie nationale du mont
 
 NOTA :
 
-Conformément au A du VIII de l’article 6 de la loi n° 2022-1157 du 16 août 2022, ces dispositions s'appliquent à compter du 1er janvier 2022.
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er janvier 2027.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des III et VII du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées aux articles L. 161-1, et L. 171-1 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

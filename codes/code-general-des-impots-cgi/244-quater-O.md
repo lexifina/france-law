@@ -58,8 +58,4 @@ Pour l'application du premier alinéa, les sociétés de personnes et les groupe
 
 VII. – (Abrogé).
 
-VIII. – Le présent article s'applique aux crédits d'impôt calculés au titre des dépenses exposées par les entreprises mentionnées au III jusqu'au 31 décembre 2023.
-
-NOTA :
-
-Conformément au B du XXI de l'article 35 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent à compter du premier exercice suivant celui au cours duquel l'exonération prévue à l'article 44 septies du code général des impôts, dans sa rédaction antérieure à la présente loi, cesse de s'appliquer.
+VIII. – Le présent article s'applique aux crédits d'impôt calculés au titre des dépenses exposées par les entreprises mentionnées au III jusqu'au 31 décembre 2026.

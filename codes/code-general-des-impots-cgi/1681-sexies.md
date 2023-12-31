@@ -6,8 +6,4 @@
 
 3. La cotisation foncière des entreprises, ses taxes additionnelles, l'imposition forfaitaire sur les entreprises de réseaux, les frais mentionnés sur le rôle ainsi que leur acompte sont acquittés par prélèvements opérés à l'initiative du Trésor public sur un compte mentionné aux 1° ou 2° de l'article 1680 A.
 
-4. Quel que soit leur montant, la cotisation foncière des entreprises et l'imposition forfaitaire sur les entreprises de réseaux, recouvrées par voie de rôles, ne peuvent pas être acquittées par virement. Cette interdiction s'applique également aux frais mentionnés sur les rôles, à l'acompte et aux taxes additionnelles mentionnés à l'article 1679 quinquies.
-
-NOTA :
-
-Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent à compter des impositions établies au titre de 2023.
+4. Quel que soit leur montant, la cotisation foncière des entreprises et l'imposition forfaitaire sur les entreprises de réseaux, recouvrées par voie de rôles, ne peuvent pas être acquittées par virement. Cette interdiction s'applique également aux frais mentionnés sur les rôles, à l'acompte et aux taxes additionnelles mentionnés à l'article 1679 quinquies. Toutefois, les contribuables mentionnés au 2 du présent article peuvent acquitter ces impôts, quel que soit leur montant, par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.

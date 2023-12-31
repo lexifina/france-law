@@ -26,9 +26,9 @@ a) Le contrat de crédit-bail est conclu pour une durée au moins égale à cinq
 
 b) L'organisme mentionné au premier alinéa du 1 aurait pu bénéficier du crédit d'impôt prévu au même 1 s'il avait acquis directement le bien.
 
-3. Ouvre également droit au bénéfice du crédit d'impôt l'acquisition de logements, qui satisfont aux conditions fixées au 1, achevés depuis plus de vingt ans faisant l'objet de travaux de réhabilitation, définis par décret, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique ou cyclonique.
+3. Ouvre également droit au bénéfice du crédit d'impôt l'acquisition de logements, qui satisfont aux conditions fixées au 1, achevés depuis plus de vingt ans faisant l'objet de travaux de réhabilitation, définis par décret, permettant aux logements d'acquérir des performances techniques, énergétiques et environnementales définies par décret voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique ou cyclonique.
 
-4. Ouvrent également droit au bénéfice du crédit d'impôt les travaux de rénovation ou de réhabilitation des logements satisfaisant aux conditions fixées au 1, achevés depuis plus de vingt ans et situés dans les quartiers mentionnés au II de l'article 9-1 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine et dans les quartiers prioritaires mentionnés à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique ou cyclonique.
+4. Ouvrent également droit au bénéfice du crédit d'impôt les travaux de rénovation ou de réhabilitation des logements satisfaisant aux conditions fixées au 1 et achevés depuis plus de vingt ans permettant aux logements d'acquérir des performances techniques, énergétiques et environnementales définies par décret voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique ou cyclonique.
 
 5. Ouvre également droit au bénéfice du crédit d'impôt l'acquisition ou la construction de logements neufs situés dans les départements d'outre-mer réalisée par les entreprises soumises à l'impôt sur les sociétés y exerçant leur activité lorsque les conditions suivantes sont réunies :
 
@@ -76,9 +76,9 @@ a) L'une des conditions mentionnées au I n'est pas respectée ;
 
 b) Les logements mentionnés au I sont cédés, si cette cession intervient avant l'expiration de la période de cinq ans mentionnée au a des 1 et 2 et au b du 5 du même I.
 
-2. Lorsque l'investissement revêt la forme de la construction d'un immeuble ou de l'acquisition d'un immeuble à construire, l'immeuble doit être achevé dans les deux ans suivant la date à laquelle les fondations sont achevées.
+2. Lorsque l'investissement revêt la forme de la construction d'un immeuble ou de l'acquisition d'un immeuble à construire, l'immeuble doit être achevé dans les trois ans suivant la date à laquelle les fondations sont achevées.
 
-A défaut, le crédit d'impôt acquis au titre de cet investissement fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient le terme de ce délai de deux ans.
+A défaut, le crédit d'impôt acquis au titre de cet investissement fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient le terme de ce délai de trois ans.
 
 VIII. – 1. Le présent article est applicable aux acquisitions, constructions ou réhabilitations d'immeubles effectuées à compter du 1er juillet 2014, et jusqu'au 31 décembre 2025. Pour l'application du présent VIII, les constructions s'entendent des immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier.
 
@@ -88,4 +88,4 @@ IX. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect
 
 NOTA :
 
-Conformément au A du II de l’article 14 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux investissements réalisés à compter du 1er janvier 2023.
+Les modalités d’application des présentes dispositions sont fixées aux F et G du X de l’article 71 de la loi n° 2023-1322 du 29 décembre 2023.

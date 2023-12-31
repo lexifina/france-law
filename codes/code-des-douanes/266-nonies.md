@@ -338,6 +338,32 @@ Toutefois, pour les installations de stockage non accessibles par voie terrestre
 
 Sont exonérées les réceptions des déchets utilisés pour produire de l'électricité distribuée par le réseau dans ces territoires lorsqu'elles sont réalisées dans les conditions prévues au IV de l'article 266 sexies.
 
+A bis.-Pour les déchets radioactifs métalliques mentionnés au c du 1 du I de l'article 266 sexies, les tarifs sont fixés comme suit :
+
+Unité de perception |
+
+Quotités (en euros) |
+
+2024 |
+
+2025 |
+
+2026 |
+
+A partir
+
+de 2027 |
+
+Tonne |
+
+200 |
+
+300 |
+
+350 |
+
+400 |
+
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
 DÉSIGNATION DES MATIÈRES

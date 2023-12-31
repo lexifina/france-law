@@ -12,7 +12,7 @@ II.-Ouvrent droit au crédit d'impôt mentionné au I les dépenses engagées en
 
 S'agissant des œuvres comportant des paroles, le bénéfice du crédit d'impôt est réservé aux œuvres de nouveaux talents dont la moitié au moins sont d'expression française ou emploient une langue régionale en usage en France. Par dérogation, pour les entreprises qui satisfont à la définition de la microentreprise donnée au 3 de l'article 2 de l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité, les œuvres comportant des paroles qui ne relèvent pas de cette catégorie ouvrent droit au bénéfice du crédit d'impôt dans la limite du nombre d'œuvres d'expression française ou employant une langue régionale en usage en France, déposées la même année au cours du même exercice par la même entreprise au répertoire d'un organisme de gestion collective au sens de l'article L. 321-1 du code de la propriété intellectuelle, hors répertoire étranger sous-édité. Le seuil d'effectif est calculé hors personnel rémunéré au cachet. S'agissant des œuvres de nouveaux talents, le bénéfice du crédit d'impôt s'apprécie au niveau de l'entreprise redevable de l'impôt sur les sociétés pour l'ensemble des œuvres déposées chaque année au répertoire d'un organisme de gestion collective au sens du même article L. 321-1, hors répertoire étranger sous-édité.
 
-III.-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes engagées jusqu'au 31 décembre 2024, pour des opérations mentionnées au II du présent article effectuées en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention administrative en vue de lutter contre la fraude ou l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
+III.-Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes engagées jusqu'au 31 décembre 2027, pour des opérations mentionnées au II du présent article effectuées en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention administrative en vue de lutter contre la fraude ou l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
 1° Pour les dépenses de soutien à la création des œuvres musicales dans le cadre d'un contrat mentionné au II :
 
@@ -91,7 +91,3 @@ VIII.-A.-La somme des crédits d'impôt calculés au titre des dépenses éligib
 B.-En cas de co-édition, le crédit d'impôt est accordé à chacune des entreprises, proportionnellement à sa part dans les dépenses exposées.
 
 IX.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 53 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité.
-
-NOTA :
-
-Conformément au III de l'article 82 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux crédits d'impôt calculés au titre des exercices clos à compter du 31 décembre 2022.

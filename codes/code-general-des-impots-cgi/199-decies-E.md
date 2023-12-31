@@ -14,6 +14,4 @@ Les dispositions du 5 du I de l'article 197 sont applicables.
 
 La réduction n'est pas applicable au titre des logements dont le droit de propriété est démembré. Toutefois, lorsque le transfert de la propriété du bien ou le démembrement de ce droit résulte du décès de l'un des époux soumis à imposition commune, le conjoint survivant attributaire du bien ou titulaire de son usufruit peut demander la reprise à son profit, dans les mêmes conditions et selon les mêmes modalités, du bénéfice de la réduction prévue au présent article pour la période restant à courir à la date du décès.
 
-NOTA :
-
-Loi n° 2010-1657 du 29 décembre 2010 art. 92 II : Pour l'application de l'article 199 decies E du code général des impôts, l'acquisition d'un logement avant le 31 décembre 2010 s'entend de l'acquisition d'un logement pour lequel une promesse d'achat ou une promesse synallagmatique a été souscrite par l'acquéreur avant la même date.
+Le présent article est applicable lorsque l'achèvement des logements intervient au plus tard le 1er juillet 2025.

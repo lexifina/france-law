@@ -6,21 +6,25 @@ II. – Les plus-values de cession soumises au régime des articles 39 duodecies
 
 1° La totalité de leur montant lorsque les recettes annuelles sont inférieures ou égales à :
 
-a) 250 000 € s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, à l'exclusion de la location directe ou indirecte de locaux d'habitation meublés ou destinés à être loués meublés, ou s'il s'agit d'entreprises exerçant une activité agricole ;
+a) 250 000 € s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, à l'exclusion de la location directe ou indirecte de locaux d'habitation meublés ou destinés à être loués meublés ;
 
-b) 90 000 € s'il s'agit d'autres entreprises ou de titulaires de bénéfices non commerciaux ;
+b) 90 000 € s'il s'agit d'autres entreprises non agricoles ou de titulaires de bénéfices non commerciaux ;
 
-2° Une partie de leur montant lorsque les recettes sont supérieures à 250 000 € et inférieures à 350 000 € pour les entreprises mentionnées au a du 1° et, lorsque les recettes sont supérieures à 90 000 € et inférieures à 126 000 €, pour les entreprises mentionnées au b du 1°. Pour l'application de ces dispositions, le montant exonéré de la plus-value est déterminé en lui appliquant :
+c) 350 000 € s'il s'agit d'entreprises exerçant une activité agricole ;
+
+2° Une partie de leur montant lorsque les recettes sont supérieures à 250 000 € et inférieures à 350 000 € pour les entreprises mentionnées au a du 1° du présent II, lorsque les recettes sont supérieures à 90 000 € et inférieures à 126 000 € pour les entreprises mentionnées au b du même 1° et lorsque les recettes sont supérieures à 350 000 € et inférieures à 450 000 € pour les entreprises mentionnées au c dudit 1°. Pour l'application de ces dispositions, le montant exonéré de la plus-value est déterminé en lui appliquant :
 
 a) Pour les entreprises mentionnées au a du 1°, un taux égal au rapport entre, au numérateur, la différence entre 350 000 € et le montant des recettes et, au dénominateur, le montant de 100 000 € ;
 
-b) Pour les entreprises mentionnées au b du 1°, un taux égal au rapport entre, au numérateur, la différence entre 126 000 € et le montant des recettes et, au dénominateur, le montant de 36 000 €.
+b) Pour les entreprises mentionnées au b du 1°, un taux égal au rapport entre, au numérateur, la différence entre 126 000 € et le montant des recettes et, au dénominateur, le montant de 36 000 € ;
 
-Lorsque l'activité de l'entreprise se rattache aux deux catégories définies aux a et b du 1°, l'exonération totale n'est applicable que si le montant global des recettes est inférieur ou égal à 250 000 € et si le montant des recettes afférentes aux activités définies au b du 1° est inférieur ou égal à 90 000 €.
+c) Pour les entreprises mentionnées au c du même 1°, un taux égal au rapport entre, au numérateur, la différence entre 450 000 € et le montant des recettes et, au dénominateur, le montant de 100 000 €.
 
-Lorsque ces conditions ne sont pas remplies, si le montant global des recettes est inférieur à 350 000 € et si le montant des recettes afférentes aux activités définies au b du 1° est inférieur à 126 000 €, le montant exonéré de la plus-value est déterminé en appliquant le moins élevé des deux taux qui aurait été déterminé dans les conditions fixées au 2° si l'entreprise avait réalisé le montant global de ses recettes dans les catégories visées au a du 1° ou si l'entreprise n'avait réalisé que des activités visées au b du 1°.
+Lorsque l'activité de l'entreprise se rattache à au moins deux des trois catégories définies aux a, b et c du même 1°, l'exonération totale n'est applicable que si le montant global des recettes est inférieur ou égal au plus élevé des montants mentionnés au même 1° au titre des activités exercées et si le montant des recettes afférentes à chacune de ces activités est inférieur ou égal au montant mentionné au même 1° afférent à chacune d'elles.
 
-III. – Les plus-values réalisées à l'occasion de la cession de matériels agricoles ou forestiers par des entreprises de travaux agricoles ou forestiers sont exonérées dans les conditions applicables aux entreprises mentionnées au a du 1° du II. Un décret précise les modalités d'application du présent III.
+Lorsque ces conditions ne sont pas remplies, si le montant global des recettes est inférieur au plus élevé des montants mentionnés au 2° au titre des activités exercées et si le montant des recettes afférentes à chacune de ces activités est inférieur au montant afférent à chacune d'elles mentionné au même 2°, le montant exonéré de la plus-value est déterminé en appliquant le moins élevé des taux entre celui qui aurait été déterminé dans les conditions fixées audit 2° si l'entreprise avait réalisé la totalité de ses recettes au titre de l'activité pour laquelle le montant mentionné au même 2° est le plus élevé et celui ou ceux déterminés dans les conditions fixées au même 2° si l'entreprise avait réalisé exclusivement chacune des autres activités exercées.
+
+III. – Les plus-values réalisées à l'occasion de la cession de matériels agricoles ou forestiers par des entreprises de travaux agricoles ou forestiers sont exonérées dans les conditions applicables aux entreprises mentionnées au c du 1° du II. Un décret précise les modalités d'application du présent III.
 
 IV. – Le montant des recettes annuelles s'entend de la moyenne des recettes, appréciées hors taxes, réalisées au titre des exercices clos, ramenés le cas échéant à douze mois, au cours des deux années civiles qui précèdent la date de clôture de l'exercice de réalisation des plus-values.
 
@@ -43,3 +47,7 @@ VI. – Les plus-values mentionnées aux II et III s'entendent des plus-values n
 VII. – Les articles 150 U à 150 VH sont applicables aux plus-values réalisées lors de la cession de locaux d'habitation meublés ou destinés à être loués meublés et faisant l'objet d'une location directe ou indirecte lorsque cette activité n'est pas exercée à titre professionnel.
 
 VIII. – Les dispositions du présent article ne s'appliquent pas aux transferts de biens ou de droits dans un patrimoine fiduciaire effectués dans le cadre d'une opération de fiducie définie à l'article 2011 du code civil.
+
+NOTA :
+
+Conformément au B du V de l’article 94 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux cessions réalisées à compter du 1er janvier 2023.
