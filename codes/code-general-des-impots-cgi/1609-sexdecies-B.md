@@ -1,53 +1,17 @@
 # Article 1609 sexdecies B
 
-I. – Une taxe sur la diffusion en vidéo physique et en ligne de contenus audiovisuels est due à raison des opérations :
+I. – (Abrogé.)
 
-1° De vente et location en France de vidéogrammes destinés à l'usage privé du public ;
+II. – (Abrogé.)
 
-2° De mise à disposition du public en France de services donnant accès à titre onéreux à des œuvres cinématographiques ou audiovisuelles, sur demande individuelle formulée par un procédé de communication électronique ;
+III. – (Abrogé.)
 
-3° De mise à disposition du public en France de services donnant ou permettant l'accès à titre gratuit à des contenus audiovisuels, sur demande individuelle formulée par un procédé de communication électronique. Sont exonérés les services dont les contenus audiovisuels sont secondaires, les services dont l'objet principal est consacré à l'information, ainsi que les services dont l'objet principal est de fournir des informations relatives aux œuvres cinématographiques et audiovisuelles et à leur diffusion auprès du public et d'en assurer la promotion, au moyen notamment d'extraits ou de bandes annonces.
+IV. – (Abrogé.)
 
-Les opérations mentionnées au 1° sont réputées être réalisées en France lorsqu'elles le sont pour les besoins de la taxe sur la valeur ajoutée en application du I bis de la section I du chapitre Ier du titre II de la première partie du livre Ier du code général des impôts.
+V. – Elle est constatée, liquidée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
 
-Les services mentionnés aux 2° et 3° sont réputés mis à disposition du public en France lorsqu'ils sont effectués en faveur des personnes non assujetties à la taxe sur la valeur ajoutée qui sont établies, ont leur domicile ou leur résidence habituelle en France.
-
-II. – Sont redevables de la taxe, les personnes, qu'elles soient établies en France ou hors de France qui :
-
-1° Vendent ou louent en France des vidéogrammes à toute personne qui elle-même n'a pas pour activité la vente ou la location de vidéogrammes ;
-
-2° Mettent à disposition du public en France des services mentionnés au 2° du I ;
-
-3° Mettent à disposition du public en France des services mentionnés au 3° du même I, notamment celles dont l'activité est d'éditer des services de communication au public en ligne ou d'assurer pour la mise à disposition du public par des services de communication au public en ligne le stockage de contenus audiovisuels ;
-
-4° Encaissent des sommes mentionnées au 3° du III.
-
-III. – La taxe est assise sur le montant hors taxe sur la valeur ajoutée :
-
-1° Du prix acquitté en contrepartie des opérations de vente et location mentionnées au 1° du I ;
-
-2° Du prix acquitté en contrepartie de l'accès à des œuvres cinématographiques et audiovisuelles mentionné au 2° du même I ;
-
-3° Des sommes versées par les annonceurs et les parrains, pour la diffusion de leurs messages publicitaires et de parrainage sur les services mentionnés aux 2° et 3° dudit I, aux redevables concernés. Les sommes reversées par une personne mentionnée au 4° du II à une personne mentionnée au 3° du même II sont incluses dans l'assiette de la taxe due par cette dernière et exclues de l'assiette de la taxe due par la personne mentionnée au 4° dudit II. Ces sommes font l'objet d'un abattement de 66 % pour les services donnant ou permettant l'accès à des contenus audiovisuels créés par des utilisateurs privés à des fins de partage et d'échanges au sein de communautés d'intérêt.
-
-IV. – Ne sont pas compris dans l'assiette de la taxe :
-
-1° Les sommes versées par les annonceurs et les parrains, pour la diffusion de leurs messages publicitaires et de parrainage sur les services de télévision de rattrapage, qui sont déjà soumises à la taxe prévue aux articles L. 115-6 à L. 115-13 du code du cinéma et de l'image animée ;
-
-2° Pour les redevables établis en France, le montant acquitté au titre d'une taxe due à raison des opérations mentionnées au I du présent article dans un autre Etat membre de l'Union européenne, autre que la taxe sur la valeur ajoutée.
-
-V. – Le taux de la taxe est fixé à 5,15 %. Il est porté à 15 % lorsque les opérations concernent des œuvres ou documents cinématographiques ou audiovisuels à caractère pornographique ou d'incitation à la violence. Les conditions dans lesquelles les redevables procèdent à l'identification de ces œuvres et documents sont fixées par décret.
-
-Pour les redevables mentionnés au 1° du II, la taxe est calculée après application d'un abattement de 65 % sur la base d'imposition. Cet abattement ne s'applique pas lorsque les opérations mentionnées au 1° du III concernent des œuvres ou documents cinématographiques ou audiovisuels à caractère pornographique ou d'incitation à la violence.
-
-Pour les redevables mentionnés aux 3° et 4° du II, la taxe est calculée après application d'un abattement de 100 000 € sur la base d'imposition. Cet abattement est réparti entre les personnes mentionnées aux 3° et 4° du I au prorata de l'assiette respective établie pour chacune d'entre elles.
-
-La taxe est exigible dans les mêmes conditions que celles applicables en matière de taxe sur la valeur ajoutée.
-
-Elle est constatée, liquidée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
-
-VI. – Le produit de la taxe est affecté au Centre national du cinéma et de l'image animée.
+VI. – (Abrogé.)
 
 NOTA :
 
-Conformément au 1° de l’article 41 de l’ordonnance n°2023-1210 du 20 décembre 2023 portant création du titre V du livre IV du code des impositions sur les biens et services et portant diverses autres mesures de recodification de mesures non fiscales, ces dispositions sont abrogées à compter de l’entrée en vigueur des dispositions prises en applications ou pour l’application des dispositions législatives qui les remplacent.
+Conformément au 1° de l'article 41 de l'ordonnance n° 2023-1210 du 20 décembre 2023 et aux articles 1er et 51 du décret n° 2024-610 du 26 juin 2024, ces dispositions sont abrogées à compter du 1er janvier 2025.

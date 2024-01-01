@@ -18,6 +18,4 @@ Les réclamations sont présentées, instruites et jugées selon les règles app
 
 NOTA :
 
-(1) les dispositions introduites par l'article 124 de la loi n° 2007-1822 du 24 décembre 2007 prennent effet pour toutes les manifestations sportives retransmises à compter du 1er juillet 2008.
-
 Conformément à l'article 38 de l'ordonnance n°2023-1210 du 20 décembre 2023, l'abrogation de ces dispositions prend effet à compter de l'entrée en vigueur des dispositions prises en application ou pour l'application des dispositions législatives qui les remplacent.

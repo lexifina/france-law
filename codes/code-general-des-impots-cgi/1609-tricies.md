@@ -8,12 +8,10 @@ Ce prélèvement est dû par la personne morale chargée de l'exploitation des j
 
 Le taux de ce prélèvement est fixé à 6,6 % du produit des jeux pour les paris sportifs commercialisés en réseau physique de distribution et à 10,6 % pour les paris sportifs en ligne.
 
-Le produit de ce prélèvement est affecté à l'Agence nationale du sport chargée de la haute performance sportive et du développement de l'accès à la pratique sportive dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+L'affectation du prélèvement est déterminée par le 2° de l'article L. 112-11-1 du code du sport.
 
 L'exigibilité du prélèvement est constituée par la réalisation du ou des événements sur lesquels repose le jeu.
 
 NOTA :
 
-Conformément aux dispositions du VIII de l'article 138 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
-
-Conformément au A du VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article 1609 tricies, dans sa rédaction résultant du E du I du présent article, entre en vigueur le 1er janvier 2020.
+Conformément à l’article 43 de l’ordonnance n° 2023-1210 du 20 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024 et sont applicables aux impositions pour lesquelles le fait générateur intervient à compter de cette date.
