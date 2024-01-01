@@ -1,31 +1,37 @@
 # Article Annexe 6
 
-MODALITES DE CALCUL DU REVERSEMENT PARTIEL DE LA PRIME POUR LES BENEFICIAIRES MENTIONNES AU II DE L'ARTICLE 1ER DU DECRET DU 14 JANVIER 2020 SUSVISE
+ANNEXE 6
+
+MODALITÉS DE CALCUL DU REVERSEMENT PARTIEL DE LA PRIME POUR LES BÉNÉFICIAIRES MENTIONNÉS AU II DE L'ARTICLE 1ER DU DÉCRET NO 2020-26 DU 14 JANVIER 2020 RELATIF À LA PRIME DE TRANSITION ÉNERGÉTIQUE
 
 Année de rupture des engagements |
 
 Coefficient de reversement |
 
-1ère année |
+1re année |
 
 1 |
 
-2ème année |
+2e année |
 
-0,80 |
+0,83 |
 
-3ème année |
+3e année |
 
-0,60 |
+0,67 |
 
-4ème année |
+4e année |
 
-0,40 |
+0,50 |
 
-5ème année |
+5e année |
 
-0,20 |
+0,33 |
+
+6e année |
+
+0,17 |
 
 NOTA :
 
-Conformément à l'article 7 de l'arrêté du 30 décembre 2021 (NOR : LOGL2135153A), ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2022.
+Conformément au premier alinéa de l’article 16 de l’arrêté du 29 décembre 2023 (NOR : TREL2332041A), ces dispositions entrent en vigueur le 1er janvier 2024 et s'appliquent aux demandes de prime déposées à compter de cette même date.

@@ -1,129 +1,89 @@
 # Article Annexe 3
 
-PIÈCES JUSTIFICATIVES OBLIGATOIRES POUR UNE DEMANDE DE PRIME À LA TRANSITION ÉNERGÉTIQUE, UNE DEMANDE D'AVANCE OU UNE DEMANDE DE SOLDE
+ANNEXE 3
+
+PIÈCES JUSTIFICATIVES OBLIGATOIRES POUR UNE DEMANDE DE PRIME À LA TRANSITION ÉNERGÉTIQUE, UNE DEMANDE D'AVANCE OU UNE DEMANDE DE PAIEMENT DU SOLDE
 
 Catégorie |
 
-Informations dossiers demandeur |
-
-Commentaires |
+Informations dossier demandeur |
 
 Demande de prime |
 
-Plan de financement mentionnant les différentes aides, indemnités et remises |
+Avis d'imposition à discrétion de l'Anah |
 
-|
+Justificatif de propriété pour tous les propriétaires bailleurs et le cas échéant, pour les propriétaires occupants.
 
-Demande de prime |
+Pour les titulaires de droit réel immobilier, une copie de l'acte notarié (ou une attestation notariée de même nature) instituant le droit réel conférant l'usage du logement subventionné et indiquant le titulaire de ce droit |
 
-Cadre contribution CEE
+Pour les propriétaires en indivision, une attestation de l'indivisaire demandeur précisant qu'il est dûment mandaté par les autres indivisaires |
 
-ou, le cas échéant, cadre contribution MDE |
-
-|
-
-Demande de prime |
+Plan de financement mentionnant les différentes aides publiques et privées, indemnités et remises |
 
 Certificat de qualification ou certification RGE |
 
-|
+Pour les propriétaires bailleurs :
 
-Demande de prime |
+-engagement sur l'honneur de location
 
-Engagement sur l'honneur à louer le logement à titre de résidence principale pour une durée minimum de 5 ans et, dans le cas d'une éventuelle réévaluation du montant du loyer, à déduire le montant de la prime du montant des travaux d'amélioration ou de mise en conformité justifiant cette réévaluation du montant du loyer, pour les personnes visées au II de l'article 1 du décret du 14 janvier 2020 susvisé
+-engagement sur l'honneur à informer le locataire de la réalisation de travaux financés par la prime et de la déduction du montant de la prime dans le cas d'une éventuelle réévaluation du loyer (modèle en annexe 5 du présent arrêté) |
 
-Engagement sur l'honneur à informer le locataire de la réalisation de travaux financés par la prime et de la déduction du montant de la prime dans le cas d'une éventuelle réévaluation du loyer (voir modèle en annexe 5 du présent arrêté) |
-
-|
-
-Demande de prime
-
-(uniquement dans le cas d'une prestation d'assistance à maîtrise d'ouvrage mentionnée au 14 de l'annexe 1 du décret du 14 janvier 2020 susvisé) |
-
-Contrat de la prestation d'assistance à maîtrise d'ouvrage |
-
-|
-
-Demande de prime
-
-Demande d'avance |
-
-Devis détaillé des travaux (mentionnant le cas échéant, le montant de la prime économie d'énergie-prime maitrise de la demande en énergie-en Corse et dans les collectivités régies par l'article 73 de la Constitution) |
-
-Pour une demande d'avance : copie du devis daté et signé par le demandeur et le cas échéant son mandataire et l'entreprise avec mention de demande d'acompte de l'entreprise |
-
-Demande d'avance |
-
-Formulaire de demande d'avance |
-
-|
-
-Demande de solde |
-
-Le cas échéant, mandat de perception des fonds pour un tiers |
-
-|
-
-Demande de prime
-
-Demande de solde
-
-(uniquement pour un ensemble de travaux mentionné au 15 de l'annexe 1 du décret du 14 janvier 2020 susvisé et des sommes forfaitaires mentionnées au I de l'article 3 du même décret) |
-
-Attestation de conformité des travaux |
-
-Attestation en annexe 1 de l'arrêté du 17 novembre 2020 susvisé remplie par le demandeur, l'auditeur, et les entreprises réalisant les travaux ou prestations |
-
-Demande de solde |
-
-Factures |
-
-|
-
-Demande de solde |
-
-Certificat de qualification ou certification RGE |
-
-|
-
-Demande d'avance
-
-Demande de solde
-
-|
-
-Pour la demande d'avance : RIB au nom du demandeur
-
-Pour la demande de solde : RIB au nom du demandeur ou de son mandataire
-
-|
-
-|
-
-Demande de prime Demande d'avance Demande de solde |
+Devis détaillé des travaux |
 
 Formulaire CERFA de désignation d'un mandataire de gestion |
 
-Signature du mandataire et du mandant |
+Uniquement pour les travaux et prestations visés du 2 au 12 de l'annexe 1 du décret du 14 janvier 2020 susvisé, hors logements situés en Guadeloupe, en Martinique, à la Réunion ou à Mayotte et hors travaux ou prestations visés aux troisième et quatrième alinéas du V de l'article 1 du décret du 14 janvier 2020 susvisé : diagnostic de performance énergétique ou audit énergétique visés au 3° du I de l'article 4 du présent arrêté |
 
-Demande d'avance Demande de solde |
+Uniquement pour les travaux et prestations visés du 2 au 13-2 de l'annexe 1 du décret du 14 janvier 2020 susvisé : cadre de contribution CEE ou MDE, le cas échéant |
 
-Formulaire CERFA de désignation d'un mandataire de perception des fonds |
+Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14 janvier 2020 susvisé :
 
-Signature du mandataire et du mandant |
+-Contrat ou convention d'accompagnement mentionné au 4° de l'article 2 de l'arrêté du 21 décembre 2022 relatif à la mission d'accompagnement du service public de la performance énergétique de l'habitat
 
-Demande de prime |
+-Synthèse de grille d'analyse du logement
 
-Avis d'imposition à discrétion de l'Anah
+-Rapport de l'audit énergétique visé au 2° du I de l'article 4 du présent arrêté-Attestation de travaux " devis " (modèle en annexe 1 de l'arrêté du 17 novembre 2020 susvisé) |
 
-Un justificatif de propriété pour tout propriétaire bailleur, et, le cas échéant, pour les propriétaires occupants
+Demande d'avance de prime |
 
-Pour les titulaires de droit réel immobilier, une copie de l'acte notarié (ou une attestation notariée de même nature) instituant le droit d'usage et d'habitation sur l'immeuble subventionné et indiquant le titulaire de ce droit
+Formulaire de demande d'avance |
+
+Devis détaillé des travaux daté et signé par le demandeur et le cas échéant son mandataire et l'entreprise avec mention de demande d'acompte de l'entreprise |
+
+Formulaire CERFA de désignation d'un mandataire de gestion |
+
+Formulaire CERFA de désignation d'un mandataire de perception |
+
+RIB au nom du demandeur |
+
+Demande de paiement du solde de la prime |
+
+Factures |
+
+Certificat de qualification ou certification RGE |
+
+Formulaire CERFA de désignation d'un mandataire de gestion |
+
+Formulaire CERFA de désignation d'un mandataire de perception des fonds signé par le mandant et le mandataire |
+
+Le cas échéant, mandat de perception des fonds pour un tiers |
+
+RIB au nom du demandeur ou de son mandataire |
 
 |
 
-|
+Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14 janvier 2020 susvisé :
+
+-Rapport de l'audit énergétique visé au 2° du I de l'article 4 du présent arrêté, actualisé le cas échéant
+
+-Attestation de travaux " factures "
+
+-(modèle en annexe 1 de l'arrêté du 17 novembre 2020 susvisé) actualisée le cas échéant
+
+-Rapport d'accompagnement mentionné au 4° de l'article 2 de l'arrêté du 21 décembre 2022 relatif à la mission d'accompagnement du service public de la performance énergétique de l'habitat
+
+-Attestation de valorisation des CEE par l'Anah |
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 30 mai 2023 (NOR : TREL2310559A), ces dispositions entrent en vigueur le 1er juin 2023 et s'appliquent aux demandes de prime déposées à compter de cette même date.
+Conformément au premier alinéa de l’article 16 de l’arrêté du 29 décembre 2023 (NOR : TREL2332041A), ces dispositions entrent en vigueur le 1er janvier 2024 et s'appliquent aux demandes de prime déposées à compter de cette même date.
