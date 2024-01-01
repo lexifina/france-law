@@ -1,0 +1,7 @@
+# Article 1er
+
+L'article 16 de la convention collective nationale de la métallurgie du 7 février 2022 est rédigé comme suit :
+
+« Les clauses “ d'expérimentation conventionnelle ” ont pour objet de susciter, voire d'organiser, des initiatives prises par les différents acteurs de la branche – en particulier les entreprises, les organisations patronales et les organisations syndicales de salariés –, d'en suivre la mise en œuvre et d'en apprécier l'efficacité, préalablement à leur éventuelle généralisation ou pérennisation.
+
+Ces clauses peuvent notamment permettre aux accords ayant un champ d'application plus restreint d'avoir recours à certains dispositifs ou à certaines pratiques que ces clauses déterminent. »
