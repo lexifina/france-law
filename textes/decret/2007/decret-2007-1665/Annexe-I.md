@@ -60,13 +60,15 @@ DI Hauts-de-France
 
 DR Dunkerque |
 
-Hauts-de-France |
+Hauts-de-France
 
-Nord (arrondissement de Dunkerque), Pas-de-Calais |
+|
+
+Nord (arrondissement de Dunkerque), Pas-de-Calais (arrondissements de Boulogne-sur-Mer, Calais, Montreuil et Saint-Omer) |
 
 DR Lille |
 
-Nord (arrondissements de Lille, de Valenciennes, de Cambrai, d'Avesnes-sur-Helpe et de Douai) |
+Nord (arrondissements de Lille, de Valenciennes, de Cambrai, d'Avesnes-sur-Helpe et de Douai), Pas-de-Calais (arrondissements d'Arras, de Lens et de Béthune) |
 
 DR Amiens |
 
@@ -74,9 +76,7 @@ Aisne, Oise, Somme |
 
 DI Auvergne-Rhône-Alpes (siège Lyon) |
 
-DR Clermont-Ferrand
-
-|
+DR Clermont-Ferrand |
 
 Auvergne-Rhône-Alpes |
 
@@ -86,9 +86,7 @@ DR Chambéry |
 
 Savoie, Isère (arrondissement de Grenoble), Haute-Savoie (arrondissement de Bonneville) |
 
-DR Annecy
-
-|
+DR Annecy |
 
 Ain, Haute-Savoie (arrondissements de Saint-Julien-en-Genevois, de Thonon-les-Bains et d'Annecy) |
 
@@ -293,3 +291,7 @@ Service de Saint-Pierre-et-Miquelon |
 Saint-Pierre-et-Miquelon |
 
 |
+
+NOTA :
+
+Conformément à l'article 2 du décret n° 2023-1133 du 4 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
