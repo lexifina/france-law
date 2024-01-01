@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-MODÈLE D'ATTESTATION DE LA RÉALISATION DE L'ÉTUDE DE FAISABILITÉ TECHNIQUE ET ÉCONOMIQUE DES DIVERSES SOLUTIONS D'APPROVISIONNEMENT EN ÉNERGIE ET DE LA PRISE EN COMPTE DES EXIGENCES DE PERFORMANCE ÉNERGÉTIQUE ET ENVIRONNEMENTALES AU MOMENT DU DÉPÔT DE LA DEMANDE DE PERMIS DE CONSTRUIRE
+MODÈLE D'ATTESTATION DU RESPECT DES EXIGENCES DE PERFORMANCE ÉNERGÉTIQUE ET ENVIRONNEMENTALES AU MOMENT DU DÉPÔT DE LA DEMANDE DE PERMIS DE CONSTRUIRE
 
 Dans le présent document, le terme " bâtiment " s'entend également comme " partie de bâtiment ".
 
@@ -66,9 +66,7 @@ Localité |
 
 Atteste qu'au moment du dépôt de permis de construire :
 
--Disposition 1 : L'opération de construction sus-citée a fait l'objet d'une étude de faisabilité technique et économique des diverses solutions d'approvisionnement en énergie pour les bâtiments ou parties de bâtiments, définie à l'article R. 122-2-1 du code de la construction et de l'habitation.
-
--Disposition 2 : L'opération de construction sus-citée prend en compte les exigences de performance énergétique et environnementale définie aux articles R. 172-1 et suivants du code de la construction et de l'habitation (réglementation environnementale 2020-RE2020-).
+-Disposition 2 : L'opération de construction sus-citée respecte les exigences de performance énergétique et environnementale définie aux articles R. 172-1 et suivants du code de la construction et de l'habitation (réglementation environnementale 2020-RE2020-).
 
 Les éléments ci-après déclinés apportent les précisions nécessaires à la justification de la disposition 2.
 
@@ -172,12 +170,14 @@ Le respect de cette exigence est-elle en contradiction avec l'autorisation d'urb
 
 2. Vérification des systèmes de ventilation (bâtiment à usage d'habitation)
 
-Le maître d'ouvrage s'engage à prendre en compte les exigences suivantes concernant les systèmes de ventilation : le système de ventilation du bâtiment sera vérifié et ses performances seront mesurées par une personne reconnue compétente par le ministre chargé de la construction.
-
-(indiquer OUI ou NON) |
+Le maître d'ouvrage s'engage à respecter les exigences suivantes concernant les systèmes de ventilation : le système de ventilation du bâtiment sera vérifié et ses performances seront mesurées par une personne reconnue compétente par le ministre chargé de la construction. (indiquer OUI, NON, ou Système hors protocole réglementaire) |
 
 |
 
 Le :
 
 Signature :
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 21 décembre 2023 (NOR : TREL2326228A), ces dispositions entrent en vigueur le 1er janvier 2024.

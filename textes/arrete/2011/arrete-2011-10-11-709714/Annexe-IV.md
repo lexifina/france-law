@@ -26,7 +26,7 @@ Vous pouvez consulter l'annexe IV dans le JO
 
 n° 246 du 22/10/2011 texte numéro 9 à l'adresse suivante
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20111022&numTexte=9&pageDebut=17924&pageFin=17934
+https://www.legifrance.gouv.fr/download/pdf?id=RhrgPdbHqS6pr5UtkYT5jfJM530GUFJ9awgXQ4O_4Uw=
 
 5.5. Bâtiments situés dans un périmètre de développement prioritaire d'un réseau de chaleur ou de froid classé
 
@@ -42,6 +42,8 @@ Une dérogation à l'obligation de raccordement a-t-elle été obtenue ?
 
 |
 
+Conformément à l'article 1 de l’arrêté du 21 décembre 2023 (NOR : TREL2326228A), les septième, dixième, vingt-cinquième, vingt-neuvième et trentième alinéas sont modifiés.
+
 NOTA :
 
-Conformément à l'article 11 de l'arrêté du 9 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 3 de l’arrêté du 21 décembre 2023 (NOR : TREL2326228A), ces dispositions entrent en vigueur le 1er janvier 2024.

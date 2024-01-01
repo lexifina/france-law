@@ -1,6 +1,6 @@
 # Article Annexe III
 
-MODÈLE D'ATTESTATION DE LA RÉALISATION DE L'ÉTUDE DE FAISABILITÉ POUR LES BÂTIMENTS DE PLUS DE 1 000 M² ET DE LA PRISE EN COMPTE DE LA RÉGLEMENTATION THERMIQUE AU MOMENT DU DÉPÔT DE LA DEMANDE DE PERMIS DE CONSTRUIRE
+MODÈLE D'ATTESTATION DU RESPECT DE LA RÉGLEMENTATION THERMIQUE AU MOMENT DU DÉPÔT DE LA DEMANDE DE PERMIS DE CONSTRUIRE
 
 Chapitre 5
 
@@ -24,6 +24,12 @@ Vous pouvez consulter l'annexe III dans le JO
 
 n° 246 du 22/10/2011 texte numéro 9 à l'adresse suivante
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20111022&numTexte=9&pageDebut=17924&pageFin=17934
+https://www.legifrance.gouv.fr/download/pdf?id=RhrgPdbHqS6pr5UtkYT5jfJM530GUFJ9awgXQ4O_4Uw=
 
 Conformément à l'article 9 de l'arrêté du 6 avril 2022 (NOR : LOGL2123207A), le chapitre 5 de l'annexe III et la partie 5.4 de l'annexe IV sont modifiées.
+
+Conformément à l'article 1 de l'arrêté du 21 décembre 2023 (NOR : TREL2326228A), les quatorzième, quinzième et seizième alinéas de la présente annexe sont modifiés.
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 21 décembre 2023 (NOR : TREL2326228A), ces dispositions entrent en vigueur le 1er janvier 2024.

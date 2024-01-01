@@ -1,6 +1,6 @@
 # Article ANNEXE II
 
-MODÈLE D'ATTESTATION DE LA PRISE EN COMPTE DES EXIGENCES DE PERFORMANCE ÉNERGÉTIQUE ET ENVIRONNEMENTALES À L'ISSUE DE L'ACHÈVEMENT DES TRAVAUX
+MODÈLE D'ATTESTATION DU RESPECT DES EXIGENCES DE PERFORMANCE ÉNERGÉTIQUE ET ENVIRONNEMENTALES À L'ISSU DE L'ACHÈVEMENT DES TRAVAUX
 
 Dans le présent document, le terme " bâtiment " s'entend également comme " partie de bâtiment ".
 
@@ -32,27 +32,19 @@ Organisme de contrôle technique |
 
 ☐ |
 
-|
-
-|
-
 Architecte |
 
 ☐ |
-
-|
-
-|
 
 Diagnostiqueur de performance énergétique (maison individuelle ou accolée uniquement) |
 
 ☐ |
 
-|
-
-|
-
 Organisme ayant certifié, la performance énergétique d'un nouveau bâtiment et ayant signé une convention avec le ministre chargé de la construction |
+
+☐ |
+
+Bureau d'étude agréé |
 
 ☐ |
 
@@ -104,7 +96,7 @@ Date du délivrance du PC |
 
 |
 
-m'a confié la mission d'attester, à l'issue de l'achèvement des travaux, que les exigences de performance énergétique et environnementale (réglementation environnementale 2020-RE2020-), définies aux articles R. 172-1 et suivants du code de la construction et de l'habitation, ont été prise en compte.
+m'a confié la mission d'attester, à l'issue de l'achèvement des travaux, que les exigences de performance énergétique et environnementale (réglementation environnementale 2020-RE2020-), définies aux articles R. 172-1 et suivants du code de la construction et de l'habitation, ont été respectées.
 
 La visite de contrôle sur site a eu lieu le :
 
@@ -472,15 +464,21 @@ Cohérence entre le récapitulatif standardisé d'étude énergétique et enviro
 
 Un opérateur reconnu compétent par le ministre chargé de la construction a vérifié la conformité des systèmes de ventilation
 
-(indiquer OUI ou NON) |
+(indiquer OUI, NON ou Non concerné (*)
+
+|
 
 |
 
 Conformité du système de ventilation attestée par le rapport de vérifications et de mesure fourni par le maître d'ouvrage
 
-(indiquer OUI ou NON) |
+(indiquer OUI, NON ou Non concerné (*)
 
 |
+
+|
+
+(*) L'indication non concerné est à cocher pour les systèmes de ventilation hors protocole réglementaire.
 
 Chapitre 4 : Agrément Titre V
 
@@ -525,3 +523,7 @@ La personne ayant réalisé l'attestation :
 Le :
 
 Signature :
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 21 décembre 2023 (NOR : TREL2326228A), ces dispositions entrent en vigueur le 1er janvier 2024.
