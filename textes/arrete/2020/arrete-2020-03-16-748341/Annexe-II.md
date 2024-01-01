@@ -36,9 +36,9 @@ Région Bretagne |
 
 |
 
-DREAL Bretagne |
+DREAL Bretagne/ AGIR |
 
-Chef du pôle support intégré |
+Chef de la division des finances |
 
 |
 
@@ -68,19 +68,7 @@ Secrétaire général |
 
 |
 
-Région Hauts-de-France |
-
-|
-
-DIR NORD |
-
-Chef du Service d'Ingénierie Routière Secteur Est |
-
-|
-
-|
-
-Région Pays-de-Loire |
+Région Pays de Loire |
 
 |
 
@@ -90,4 +78,4 @@ Secrétaire général |
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 19 décembre 2022 (NOR : TREK2236387A), ces dispositions prennent effet le 1er janvier 2023 sous réserve des mentions particulières indiquées.
+Conformément à l’article 2 de l’arrêté du 27 décembre 2023 (NOR : TREK2314318A), ces dispositions prennent effet le 1er janvier 2024 sous réserve des mentions particulières indiquées dans les annexes.
