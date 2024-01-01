@@ -1,0 +1,17 @@
+# Article Annexe 2
+
+ANNEXE 2
+
+VOLUMES COMPLÉMENTAIRES D'HEURES ENSEIGNANT
+
+Des volumes complémentaires d'heures enseignant sont attribués selon les modalités suivantes :
+
+-pour la pluridisciplinarité, un volume complémentaire de 174 heures ;
+
+-pour l'accompagnement au projet personnel et professionnel, un volume complémentaire de 87 heures ;
+
+-pour les divisions dont l'effectif retenu pour le calcul des dotations en heures enseignant est égal à 20 élèves, un volume complémentaire de 261 heures ;
+
+-pour les divisions dont l'effectif retenu pour le calcul des dotations en heures enseignant est compris entre 21 et 27 élèves inclus, un volume complémentaire de 319 heures ;
+
+-pour les divisions dont l'effectif retenu pour le calcul des dotations heures enseignant est supérieur ou égal à 28 élèves, un volume complémentaire de 681,5 heures.
