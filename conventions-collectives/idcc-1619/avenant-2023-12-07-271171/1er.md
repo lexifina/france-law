@@ -1,0 +1,27 @@
+# Article 1er
+
+« Pendant la durée de la formation professionnelle des salariés, qu'elle dépende du plan de développement des compétences de l'entreprise ou de la formation en alternance, l'employeur est tenu d'assurer la prise en charge :
+
+En cas de prise en charge par l'opérateur de compétences (OPCO)
+
+(1) :
+
+– du coût des enseignements dispensés ;
+
+– des frais de déplacement entre le lieu de la formation et le lieu le plus proche entre le cabinet dentaire ou la résidence principale du salarié ;
+
+– des frais de restauration et d'hébergement éventuels sur présentation de justificatifs, sur les bases retenues pour le remboursement de ces mêmes frais par l'OPCO désigné par la branche professionnelle des cabinets dentaires.
+
+À défaut d'une prise en charge par l'OPCO
+
+(1) :
+
+– des frais de déplacement entre le lieu de formation et le lieu le plus proche entre le cabinet dentaire ou la résidence principale du salarié sur la base de 0,20 € par kilomètre ;
+
+– des frais de restauration, sur présentation de justificatifs, sur la base de la valeur faciale maximale exonérée de charges du titre restaurant (ex : 13,82 € au 31 décembre 2023) ;
+
+– des frais d'hébergement éventuel sur présentation de justificatifs, selon le barème défini par l'OPCO. »
+
+(1) Les alinéas 2 et 3 du titre X de l'annexe 1 sont étendus sous réserve du respect des dispositions des articles D. 6332-85, D. 6332-78, D. 6332-78-1 et D. 6332-78-2 du code du travail, lesquels visent des dispositifs aux conditions de prises en charge différentes, selon qu'il s'agit du contrat d'apprentissage ou du contrat de professionnalisation.
+
+(Arrêté du 17 mai 2024 - art. 1)
