@@ -1,0 +1,33 @@
+# Article 1er
+
+L'article 25 du titre VI de la convention collective nationale est modifié comme suit :
+
+« Article 25
+
+Priorités triennales
+
+Pour les années 2024,2025 et 2026, les objectifs prioritaires de la branche sont les suivants :
+
+– l'obtention de qualifications pour les catégories d'emplois peu ou pas qualifiés, et notamment les emplois d'intervention, en particulier par le DEAES, le DETISF, le DEAS et le DEI ;
+
+– les actions de formation de perfectionnement et/ ou évolution des compétences liées à l'emploi occupé ;
+
+– les actions permettant la mise en œuvre de parcours professionnel pour notamment faciliter le maintien dans l'emploi des salariés ;
+
+– l'obtention de qualification pour les emplois d'encadrement (notamment responsable de secteur et cadre de secteur) ;
+
+– la qualification pour les emplois de direction (niveaux 6 et 7) conformément aux dispositions légales et réglementaires ;
+
+– les contrats d'apprentissage, (1) les contrats de professionnalisation et la Pro-A ;
+
+– les formations liées à la fonction tutorale et maître d'apprentissage
+
+(1) ;
+
+– les formations permettant de prévenir et d'agir sur les risques professionnels notamment liés à la pénibilité et aux risques psychosociaux afin d'améliorer la qualité de vie et les conditions de travail (QVCT).
+
+Ces priorités sont déclinées annuellement par la CPNEFP qui les communique à l'OPCO désigné. »
+
+(1) Les termes « les contrats d'apprentissage, » et « et maitre d'apprentissage » sont exclus de l'extension en ce qu'ils contreviennent aux dispositions l'article L. 6111-1 du code du travail, lesquelles prévoient que l'apprentissage relève de la formation professionnelle initiale et non continue.
+
+(Arrêté du 8 novembre 2024 - art. 1)
