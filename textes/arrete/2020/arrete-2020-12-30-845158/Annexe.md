@@ -8,6 +8,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 202 - Frais liés à la réalisation des documents d'urbanisme et à la numérisation du cadastre
 
+212 - Agencements et aménagements de terrains
+
 2131 - Bâtiments publics
 
 2135 - Installations générales, agencements, aménagements des constructions
@@ -31,6 +33,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2158 - Autres installations, matériel et outillage techniques
 
 216 - Collections et œuvres d'art
+
+2172 - Agencements et aménagements de terrains
 
 2173 - Constructions
 
@@ -71,6 +75,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 204114 - Subventions d'équipement versées-Etat-Voirie
 
 204115 - Subventions d'équipement versées-Etat-Monuments historiques
+
+2121 - Plantations d'arbres et d'arbustes
+
+2128 - Autres agencements et aménagements de terrains
 
 21311 - Hôtel de ville
 
@@ -113,6 +121,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2162 - Fonds anciens des bibliothèques et musées
 
 2168 - Autres collections et œuvres d'art
+
+21721 - Plantations d'arbres et d'arbustes
+
+21728 - Autres agencements et aménagements de terrains
 
 21731 - Bâtiments publics
 
@@ -158,6 +170,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2188 - Autres immobilisations corporelles
 
+2312 - Agencements et aménagements de terrains
+
 2313 - Immobilisations en cours-Constructions
 
 2315 - Installations, matériel et outillage techniques
@@ -180,6 +194,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 3. Pour le plan de comptes M14 applicable aux CCAS et CIAS, les comptes :
 
+2121 - Plantations d'arbres et d'arbustes
+
+2128 - Autres agencements et aménagements de terrains
+
 2131 - Bâtiments publics
 
 2135 - Installations générales, agencements, aménagements des constructions
@@ -193,6 +211,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2161 - Oeuvres et objets d'art
 
 2168 - Autres collections et œuvres d'art
+
+2172 - Agencements et aménagements de terrains
 
 2173 - Constructions
 
@@ -213,6 +233,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2185 - Cheptel
 
 2188 - Autres immobilisations corporelles
+
+2312 - Terrains
 
 2313 - Constructions
 
@@ -234,6 +256,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 4. Pour le plan de comptes M14 applicable aux caisses des écoles, les comptes :
 
+2121 - Plantations d'arbres et d'arbustes
+
+2128 - Autres agencements et aménagements de terrains
+
 2135 - Installations générales, agencements, aménagements des constructions
 
 2138 - Autres constructions
@@ -245,6 +271,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2158 - Autres installations, matériel et outillage techniques
 
 216 - Collections et œuvres d'art
+
+2172 - Agencements et aménagements de terrains
 
 2173 - Constructions
 
@@ -266,6 +294,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2188 - Autres immobilisations corporelles
 
+2312 - Terrains
+
 2313 - Constructions
 
 2315 - Installations, matériel et outillage techniques
@@ -286,7 +316,13 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 5. Pour le plan de comptes M4 applicable aux services publics industriels et commerciaux, les comptes :
 
-1675 - Dettes afférentes aux PPP
+1675 - Dettes afférentes aux marchés de partenariat
+
+2121 - Terrains nus
+
+2125 - Terrains bâtis
+
+2128 - Autres terrains
 
 2131 - Bâtiments
 
@@ -307,6 +343,12 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2158 - Autres
 
 216 - Collections et œuvres d'art
+
+21721 - Terrains nus
+
+21725 - Terrains bâtis
+
+21728 - Autres terrains
 
 21731 - Bâtiments
 
@@ -352,15 +394,19 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2188 - Autres
 
+2312 - Immobilisations corporelles en cours-Terrains
+
 2313 - Immobilisations corporelles en cours-Constructions
 
 2315 - Immobilisations corporelles en cours-Installations, matériel et outillage techniques
+
+2316 - Immobilisations corporelles en cours-Collections et œuvres d'art
 
 2317 - Immobilisations corporelles en cours-Immobilisations reçues au titre d'une mise à disposition
 
 2318 - Immobilisations corporelles en cours-Autres immobilisations corporelles
 
-235 - Part investissement PPP
+235 - Part investissement marchés de partenariat
 
 61521 - Bâtiments publics
 
@@ -370,7 +416,13 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 6. Pour le plan de comptes M41 applicable aux régies électriques, les comptes :
 
-1675 - Dettes afférentes aux PPP
+1675 - Dettes afférentes aux marchés de partenariat
+
+2121 - Terrains nus
+
+2125 - Terrains bâtis
+
+2128 - Autres terrains
 
 2131 - Bâtiments
 
@@ -479,6 +531,12 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2158 - Autres
 
 216 - Collections et œuvres d'art
+
+21721 - Terrains nus
+
+21725 - Terrains bâtis
+
+21728 - Autres terrains
 
 21731 - Bâtiments
 
@@ -610,15 +668,19 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2188 - Autres
 
+2312 - Immobilisations en cours-Terrains
+
 2313 - Immobilisations en cours-Constructions
 
 2315 - Immobilisations en cours-Installations, matériel et outillage techniques
+
+2316 - Immobilisations en cours-Collections et œuvres d'art
 
 2317 - Immobilisations en cours-Immobilisations reçues au titre d'une mise à disposition
 
 2318 - Immobilisations en cours-Autres immobilisations corporelles
 
-235 - Part investissement PPP
+235 - Part investissement marchés de partenariat
 
 61521 - Bâtiments publics
 
@@ -628,7 +690,13 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 7. Pour le plan de comptes M43 applicable aux services publics de transport de personnes, les comptes :
 
-1675 - Dettes afférentes aux PPP
+1675 - Dettes afférentes aux marchés de partenariat
+
+2121 - Terrains nus
+
+2125 - Terrains bâtis
+
+2128 - Autres terrains
 
 2131 - Bâtiments
 
@@ -651,6 +719,12 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2158 - Autres
 
 216 - Collections et oeuvres d'art
+
+21721 - Terrains nus
+
+21725 - Terrains bâtis
+
+21728 - Autres terrains
 
 21731 - Bâtiments
 
@@ -698,21 +772,27 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2188 - Autres
 
+2312 - Immobilisations en cours-Terrains
+
 2313 - Immobilisations en cours-Constructions
 
 2315 - Immobilisations en cours-Installations, matériel et outillage techniques
+
+2316 - Immobilisations en cours-Collections et œuvres d'art
 
 2317 - Immobilisations en cours-Immobilisations reçues au titre d'une mise à disposition
 
 2318 - Immobilisations en cours-Autres immobilisations corporelles
 
-235 - Part investissement PPP
+235 - Part investissement marchés de partenariat
 
 61521 - Bâtiments publics
 
 6512 - Droits d'utilisation-informatique en nuage
 
 8. Pour le plan de comptes M49 abrégé applicable aux services d'eau et assainissement, les comptes :
+
+212 - Agencements et aménagements de terrains
 
 213 - Constructions
 
@@ -721,6 +801,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2158 - Autres
 
 216 - Collections et œuvres d'art
+
+2172 - Agencements et aménagements de terrains
 
 2173 - Constructions
 
@@ -732,15 +814,19 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 218 - Autres immobilisations corporelles
 
+2312 - Terrains
+
 2313 - Constructions
 
 2315 - Installations, matériel et outillage techniques
+
+2316 - Collections et œuvres d'art
 
 2317 - Immobilisations reçues au titre d'une mise à disposition
 
 2318 - Autres immobilisations corporelles
 
-235 - Part investissement PPP
+235 - Part investissement marchés de partenariat
 
 61521 - Bâtiments publics
 
@@ -750,7 +836,13 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 9. Pour le plan de comptes M49 développé applicable aux services d'eau et assainissement, les comptes :
 
-1675 - Dettes afférentes aux PPP
+1675 - Dettes afférentes aux marchés de partenariat
+
+2121 - Terrains nus
+
+2125 - Terrains bâtis
+
+2128 - Autres terrains
 
 21311 - Bâtiments d'exploitation
 
@@ -781,6 +873,12 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2158 - Autres
 
 216 - Collections et œuvres d'art
+
+21721 - Terrains nus
+
+21725 - Terrains bâtis
+
+21728 - Autres terrains
 
 217311 - Bâtiments d'exploitation
 
@@ -836,15 +934,19 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2188 - Autres
 
+2312 - Terrains
+
 2313 - Constructions
 
 2315 - Installations, matériel et outillage techniques
+
+2316 - Collections et œuvres d'art
 
 2317 - Immobilisations reçues au titre d'une mise à disposition
 
 2318 - Autres immobilisations corporelles
 
-235 - Part investissement PPP
+235 - Part investissement marchés de partenariat
 
 61521 - Bâtiments publics
 
@@ -854,9 +956,11 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 10. Pour le plan de comptes M22 applicable aux établissements sociaux et médicaux sociaux, les comptes :
 
-1675 - Dettes PPP (Partenariat Public Privé)
+1675 - Dettes afférentes aux marchés de partenariat
 
-2131 - Bâtiments
+212 - Agencements et aménagements de terrains
+
+21311 - Bâtiments publics
 
 2135 - Installations générales ; agencements ; aménagements des constructions (I. G. A. A. C.)
 
@@ -880,13 +984,15 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2188 - Autres immobilisations corporelles
 
+2312 - Terrains, agencements et aménagements de terrains
+
 2313 - Immobilisations en cours-Constructions sur sol propre
 
 2315 - Immobilisations en cours-Installations, matériel et outillage techniques
 
 2318 - Immobilisations en cours-Autres immobilisations corporelles
 
-235 - Part investissement PPP (Partenariat Public Privé)
+235 - Part investissement-marchés de partenariat
 
 61521 - Bâtiments publics
 
@@ -905,6 +1011,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 20432 - Bâtiments et installations
 
 20433 - Projets d'infrastructures d'intérêt national
+
+2121 - Plantations d'arbres et d'arbustes
+
+2128 - Autres agencements et aménagements
 
 21311 - Bâtiments administratifs
 
@@ -931,6 +1041,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2158 - Autres installations, matériel et outillage techniques
 
 216 - Collections et œuvres d'art
+
+21721 - Plantations d'arbres et d'arbustes
+
+21728 - Autres agencements et aménagements
 
 217311 - Bâtiments administratifs
 
@@ -988,6 +1102,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2188 - Autres
 
+2312 - Agencements et aménagements de terrains
+
 231311 - Bâtiments administratifs
 
 231312 - Bâtiments scolaires
@@ -1012,6 +1128,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2316 - Restauration des collections et œuvres d'art
 
+23172 - Agencements et aménagements de terrains
+
 2317311 - Bâtiments administratifs
 
 2317312 - Bâtiments scolaires
@@ -1019,6 +1137,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2317313 - Bâtiments sociaux et médico - sociaux
 
 2317314 - Bâtiments culturels et sportifs
+
+2317318 - Autres bâtiments publics
 
 231735 - Installations générales, agencements, aménagements des constructions
 
@@ -1068,7 +1188,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 12. Pour le plan de comptes M57 développé, les comptes :
 
-1675 - Dettes afférentes aux M. E. T. P et P. P. P.
+1675 - Dettes afférentes aux marchés publics de travaux et aux marchés de partenariat
 
 202 - Frais d'études, d'élaboration, de modifications et de révisions des documents d'urbanisme
 
@@ -1081,6 +1201,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 20432 - Bâtiments et installations
 
 20433 - Projets d'infrastructures d'intérêt national
+
+2121 - Plantations d'arbres d'arbustes
+
+2128 - Autres agencements et aménagements
 
 21311 - Bâtiments administratifs
 
@@ -1104,13 +1228,17 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2152 - Installations de voirie
 
-21531 - Réseaux de transmission
+21531 - Réseaux d'adduction d'eau
 
-21532 - Réseaux d'alerte
+21532 - Réseaux d'assainissement
 
 21533 - Réseaux câblés
 
 21534 - Réseaux d'électrification
+
+21535 - Réseaux de transmission
+
+21536 - Réseaux d'alerte
 
 21538 - Autres réseaux
 
@@ -1144,6 +1272,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 21622 Dépenses ultérieures immobilisées
 
+21721 - Plantations d'arbres et d'arbustes
+
+21728 - Autres agencements et aménagements
+
 217311 - Bâtiments administratifs
 
 217312 - Bâtiments scolaires
@@ -1164,13 +1296,17 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 21752 - Installations de voirie
 
-217531 - Réseaux de transmission
+217531 - Réseaux d'adduction d'eau
 
-217532 - Réseaux d'alerte
+217532 - Réseaux d'assainissement
 
 217533 - Réseaux câblés
 
 217534 - Réseaux d'électrification
+
+217535 - Réseaux de transmission
+
+217536 - Réseaux d'alerte
 
 217538 - Autres réseaux
 
@@ -1214,6 +1350,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 21788 - Autres
 
+2312 - Immobilisations en cours-Agencements et aménagements de terrains
+
 2181 - Installations générales, agencements et aménagements divers
 
 21821 - Matériel de transport ferroviaire
@@ -1244,7 +1382,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2318 - Immobilisations en cours - Autres immobilisations corporelles
 
-235 - Part investissement P. P. P.
+235 - Part investissement marchés de partenariat
 
 236 - Avances versées aux E. P. L. E. sur immobilisations
 
@@ -1263,6 +1401,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 204114 - Subventions d'équipement aux organismes publics - Voirie
 
 204115 - Subventions d'équipement aux organismes publics - Monuments historiques
+
+212 - Agencements et aménagements de terrains
 
 2131 - Bâtiments publics
 
@@ -1293,6 +1433,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 21621 - Biens sous-jacents
 
 21622 - Dépenses ultérieures immobilisées
+
+2172 - Agencements et aménagements de terrains
 
 2173 - Constructions
 
@@ -1326,7 +1468,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 231 - Immobilisations corporelles en cours
 
-235 - Part investissement PPP
+235 - Part investissement marchés de partenariat
 
 236 - Avances versées aux E.P.L.E. sur immobilisations
 
@@ -1341,6 +1483,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 14. Pour le plan de comptes M61 applicable aux services départementaux d'incendie et de secours, les comptes :
 
 1675 - Dettes afférentes aux METP et PPP
+
+2121 - Plantations d'arbres et d'arbustes
+
+2128 - Autres agencements et aménagements
 
 21311 - Bâtiments administratifs
 
@@ -1369,6 +1515,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2158 - Autres
 
 216 - Collections et œuvres d'art
+
+21721 - Plantations d'arbres et d'arbustes
+
+21728 - Autres agencements et aménagements
 
 217311 - Bâtiments administratifs
 
@@ -1420,6 +1570,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2188 - Autres
 
+2312 - Terrains
+
 2313 - Constructions
 
 231311 - Bâtiments administratifs
@@ -1449,6 +1601,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 23158 - Autres
 
 2316 - Restauration des collections et œuvres d'art
+
+23172 - Terrains
 
 2317311 - Bâtiments administratifs
 
@@ -1522,6 +1676,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 20433 - Projets d'infrastructures d'intérêt national
 
+2121 - Plantations d'arbres et d'arbustes
+
+2128 - Autres agencements et aménagements
+
 21311 - Bâtiments administratifs
 
 21312 - Bâtiments scolaires
@@ -1549,6 +1707,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2158 - Autres installations, matériel et outillage techniques
 
 216 - Collections et œuvres d'art
+
+21721 - Plantations d'arbres et d'arbustes
+
+21728 - Autres agencements et aménagements
 
 217311 - Bâtiments administratifs
 
@@ -1612,6 +1774,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2188 - Autres
 
+2312 - Immobilisations en cours-Agencements et aménagements de terrains
+
 2313 - Immobilisations en cours - Constructions
 
 2315 - Immobilisations en cours - Installations, matériel et outillage techniques
@@ -1636,6 +1800,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 16. Pour le plan de comptes M831 applicable au Centre national de la fonction publique territoriale, les comptes :
 
+212 - Agencements et aménagements de terrains
+
 2131 - Bâtiments publics
 
 2135 - Installations générales, agencements, aménagements des constructions
@@ -1652,6 +1818,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2188 - Autres immobilisations corporelles
 
+2312 - Terrains
+
 2313 - Constructions
 
 2315 - Installations, matériel et outillage technique
@@ -1665,6 +1833,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 17. Pour le plan de comptes M832 applicable aux centres de gestion, les comptes :
 
 1675 - Dettes afférentes aux PPP
+
+212 - Agencements et aménagements de terrains
 
 2131 - Bâtiments publics
 
@@ -1686,6 +1856,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2188 - Autres
 
+2312 - Terrains
+
 2313 - Constructions
 
 2315 - Installations, matériel et outillage technique
@@ -1700,4 +1872,4 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 17 décembre 2021 (NOR : TERB2135563A), ces dispositions sont modifiées à compter du 1er janvier 2022.
+Conformément à l'article 1 de l'arrêté du 30 janvier 2024 (NOR : TREB2328062A), ces dispositions sont modifiées à compter du 1er janvier 2024.
