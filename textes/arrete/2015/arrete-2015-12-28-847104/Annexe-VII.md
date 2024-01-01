@@ -4,9 +4,19 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Gendarmerie départementale :
 
--commandant en second de la section d'appui judiciaire de la région de gendarmerie d'Ile-de-France ;
+Commandant de la section d'appui judiciaire :
 
--commandant en second de l'escadron départemental de sécurité routière :
+-de Dijon ;
+
+-de Nantes ;
+
+-de Rouen ;
+
+-d'Orléans ;
+
+-commandant en second de la section d'appui judiciaire de la région de gendarmerie d'Ile-de-France.
+
+Commandant en second de l'escadron départemental de sécurité routière :
 
 -de l'Ain ;
 
@@ -82,11 +92,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Loiret ;
 
--du Loir-et-Cher ;
+-de Loir-et-Cher ;
 
 -du Lot ;
 
--du Lot-et-Garonne ;
+-de Lot-et-Garonne ;
 
 -de Maine-et-Loire ;
 
@@ -130,7 +140,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Var ;
 
--de Vaucluse ;
+-du Vaucluse ;
 
 -de la Vendée ;
 
@@ -138,17 +148,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de l'Yonne ;
 
--des Yvelines ;
+-des Yvelines.
 
--commandant en second de la compagnie de gendarmerie départementale :
-
--d'Abbeville ;
-
--d'Agen ;
+Commandant en second de la compagnie de gendarmerie départementale :
 
 -d'Ajaccio ;
-
--d'Albertville ;
 
 -d'Albi ;
 
@@ -158,23 +162,13 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Ambert ;
 
--d'Amboise ;
-
 -d'Amiens ;
 
 -d'Ancenis ;
 
--des Andelys ;
-
--d'Angoulême ;
-
--d'Arcachon ;
-
 -d'Argelès-Gazost ;
 
 -d'Aubusson ;
-
--d'Auch ;
 
 -d'Aurillac ;
 
@@ -182,17 +176,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Avallon ;
 
--d'Avranches ;
-
 -de Bagnères-de-Bigorre ;
-
--de Bagnols-sur-Cèze ;
 
 -de Bar-sur-Aube ;
 
 -de Barcelonnette ;
-
--de Bastia ;
 
 -de Bayeux ;
 
@@ -202,17 +190,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Bellac ;
 
--de Belley ;
-
 -de Bergerac ;
-
--de Bernay ;
 
 -de Béthune ;
 
 -du Blanc ;
-
--de Blaye ;
 
 -de Blois ;
 
@@ -221,8 +203,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -de Bourges ;
 
 -de Bressuire ;
-
--de Brest ;
 
 -de Briançon ;
 
@@ -238,15 +218,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Castelsarrasin ;
 
--de Céret ;
-
--de Chalon-sur-Saône ;
-
 -de Châlons-en-Champagne ;
 
 -de Chamonix-Mont-Blanc ;
-
--de Charolles ;
 
 -de Château-Chinon-Ville ;
 
@@ -256,27 +230,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Châteaudun ;
 
--de Châteaulin ;
-
 -de Châtellerault ;
 
 -de la Châtre ;
 
 -de Chaumont ;
 
--de Cherbourg-en-Cotentin ;
-
 -de Chinon ;
 
--de Cholet ;
-
--de Clermont ;
-
--de Clermont-Ferrand ;
-
 -de Cognac ;
-
--de Condom ;
 
 -de Confolens ;
 
@@ -292,23 +254,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Digne-les-Bains ;
 
--de Dijon ;
-
--de Dinan ;
-
--de Dole ;
-
 -de Domfront-en-Poiraie ;
-
--de Dreux ;
 
 -de Dunkerque-Hoymille ;
 
 -d'Ecuires ;
-
--d'Epernay ;
-
--d'Evreux ;
 
 -de Falaise ;
 
@@ -322,15 +272,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Fontainebleau ;
 
--de Fontenay-le-Comte ;
-
 -de Forbach ;
 
 -de Forcalquier ;
-
--de Gaillac ;
-
--de Gap ;
 
 -de Gassin-Saint-Tropez ;
 
@@ -340,13 +284,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Gourdon ;
 
--de Grasse ;
-
 -de Guéret ;
-
--de Guingamp ;
-
--de Haguenau ;
 
 -du Havre ;
 
@@ -355,8 +293,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -d'Hyères ;
 
 -d'Is-sur-Tille ;
-
--d'Issoire ;
 
 -d'Issoudun ;
 
@@ -370,29 +306,13 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Lannion ;
 
--de Laon ;
-
--de Largentière ;
-
--de Lesparre-Médoc ;
-
--de Limoges ;
-
 -de Limoux ;
 
 -de Lisieux ;
 
 -de Loches ;
 
--de Lodève ;
-
--de Lons-le-Saunier ;
-
 -de Louhans ;
-
--de Louviers ;
-
--de Lucé ;
 
 -de Lunéville ;
 
@@ -402,27 +322,13 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Mauriac ;
 
--de Mayenne ;
-
--de Melun ;
-
--de Mende
-
 -de Menton ;
-
--de Millau ;
-
--de Molsheim ;
 
 -de Mont-de-Marsan ;
 
 -de Montargis ;
 
--de Montauban ;
-
 -de Montbard ;
-
--de Montdidier ;
 
 -de Montfort-sur-Meu ;
 
@@ -434,15 +340,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Moulins ;
 
--de la Mure ;
-
 -de Neufchâteau ;
-
--de Neufchâtel-en-Bray ;
-
--de Nevers ;
-
--de Nice ;
 
 -de Nogent-le-Rotrou ;
 
@@ -456,37 +354,21 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Orange ;
 
--d'Orthez ;
-
 -de Pamiers ;
 
 -de Parentis-en-Born ;
 
 -de Parthenay ;
 
--de Pau ;
-
--de Périgueux ;
-
--de Péronne ;
-
--de Pierrelatte ;
-
 -de Pithiviers ;
 
 -de Ploërmel ;
-
--de Plourin-lès-Morlaix ;
-
--de Poitiers ;
 
 -de Pont-Audemer ;
 
 -de Pontarlier ;
 
 -de Pontivy ;
-
--de Pontoise ;
 
 -de Pornic ;
 
@@ -500,11 +382,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Puy-en-Velay ;
 
--de Quimper ;
-
 -de Quimperlé ;
-
--de Redon ;
 
 -de Reims ;
 
@@ -512,25 +390,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Revin ;
 
--de Riom ;
-
--de Rivesaltes ;
-
 -de Roanne ;
 
--de La Rochelle ;
-
--de Romorantin-Lanthenay ;
-
--de Rosières-près-Troyes ;
-
--de Rouen ;
-
--de Saint-Amand-Montrond ;
-
 -de Saint-Claude (Jura) ;
-
--de Saint-Dié-des-Vosges ;
 
 -de Saint-Dizier ;
 
@@ -546,17 +408,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Saint-Jean-de-Maurienne ;
 
--de Saint-Julien-en-Genevois ;
-
 -de Saint-Junien ;
 
 -de Saint-Lô ;
 
 -de Saint-Malo ;
-
--de Saint-Marcellin ;
-
--de Saint-Omer ;
 
 -de Saint-Pol-sur-Ternoise ;
 
@@ -572,31 +428,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Sartène ;
 
--de Saumur ;
-
 -de Saverne ;
-
--de Sedan ;
 
 -de Segré-en-Anjou-Bleu ;
 
--de Sélestat ;
-
 -de Soissons ;
-
--de Tarbes ;
-
--du Teil ;
 
 -de Thiers ;
 
--de Thonon-les-Bains ;
-
 -de Toul ;
-
--de la Tour-du-Pin ;
-
--de Tours ;
 
 -d'Ussel ;
 
@@ -611,8 +451,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -de Verdun ;
 
 -de Vervins ;
-
--de Vichy ;
 
 -de Vierzon ;
 
@@ -638,9 +476,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef d'un centre d'opérations et de renseignement de la gendarmerie ;
 
--chef de centre d'opérations de la gendarmerie ;
+-chef de centre d'opérations de la gendarmerie.
 
--commandant du peloton de gendarmerie de haute montagne :
+Commandant du peloton de gendarmerie de haute montagne :
 
 -des Hauts-de-Bienne ;
 
@@ -660,6 +498,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -commandant d'une brigade territoriale autonome ;
 
+-commandant d'une brigade territoriale mobile rattachée à une compagnie ou un escadron départemental de sécurité routière ;
+
 -commandant d'un peloton d'autoroute ;
 
 -commandant d'une brigade motorisée ;
@@ -668,11 +508,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -commandant d'un peloton de surveillance et d'intervention gendarmerie ;
 
-2° Gendarmerie mobile Garde républicaine :
+2° Gendarmerie mobile-Garde républicaine :
 
 -commandant d'un peloton d'intervention au sein d'un escadron de gendarmerie mobile ;
 
--commandant d'un peloton d'intervention de la garde républicaine (7 emplois) ;
+-commandant d'un peloton d'intervention de la garde républicaine (8 emplois) ;
 
 -commandant d'un peloton de marche au sein d'un escadron de gendarmerie mobile ;
 
@@ -680,67 +520,83 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 3° Gendarmeries spécialisées :
 
--commandant de la section de recherches de la gendarmerie des voies navigables ;
+-commandant de la section section d'appui judiciaire de la gendarmerie maritime ;
 
--commandant en second de la section de recherches de la gendarmerie de l'armement ;
+-commandant en second de la section de recherches de la gendarmerie de l'armement.
 
--commandant en second d'une compagnie de gendarmerie maritime ;
+Commandant en second de compagnie de gendarmerie maritime :
 
--commandant en second d'une compagnie de la gendarmerie des transports aériens ;
+-L'Ile-Longue ;
 
--commandant en second d'une compagnie de la gendarmerie de l'armement ;
+-Lorient ;
 
--commandant en second d'une compagnie de la gendarmerie de l'air ;
+-Le Havre ;
 
--au sein du commandement des forces aériennes de la gendarmerie :
+-Calais.
 
--commandant de la section aérienne (22 emplois) :
+Commandant en second d'une compagnie de la gendarmerie des transports aériens :
+
+-de Bordeaux ;
+
+-de Brest ;
+
+-de Lyon ;
+
+-de Strasbourg ;
+
+-de Toulouse ;
+
+-commandant en second de la compagnie de la gendarmerie de l'armement sud ;
+
+-commandant en second d'une compagnie de la gendarmerie de l'air.
+
+Commandant de la section aérienne au commandement des forces aériennes de la gendarmerie (22 emplois) :
 
 -d'Ajaccio ;
-
--de Cayenne ;
-
--de Chamonix-Mont-Blanc ;
-
--de Digne-les-Bains ;
-
--de Dijon-Longvic ;
-
--Fort-de-France ;
-
--Limoges ;
-
--Mayotte ;
-
--Nouméa ;
-
--Pointe-à-Pitre ;
-
--Saint-Denis ;
-
--Toulouse ;
-
--Tours ;
 
 -de Bayonne ;
 
 -de Briançon ;
 
+-de Cayenne ;
+
+-de Chamonix-Mont-Blanc ;
+
 -de Colmar ;
 
+-de Digne-les-Bains ;
+
+-de Dijon-Longvic ;
+
 -d'Egletons ;
+
+-de Fort-de-France ;
+
+-de Limoges ;
+
+-de Mayotte ;
 
 -de Modane ;
 
 -de Montpellier ;
 
+-de Nouméa ;
+
 -de Pamiers ;
+
+-de Pointe-à-Pitre ;
+
+-de Saint-Denis ;
 
 -de Saint-Nazaire ;
 
 -de Tarbes ;
 
--commandant de la brigade de gendarmerie des transports aériens de :
+-de Toulouse ;
+
+-de Tours.
+
+Commandant de la brigade de gendarmerie des transports aériens de :
 
 -Bordeaux-Mérignac ;
 
@@ -756,9 +612,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Paris-Charles-De-Gaulle-Fret ;
 
--Paris-Orly ;
+-Paris-Orly.
 
--commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
+Commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
 
 -Paris-Charles-De-Gaulle ;
 
@@ -766,53 +622,47 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 4° Outre-mer :
 
--commandant d'une section d'appui judiciaire ;
+Commandant de la section d'appui judiciaire de :
 
--commandant en second de la compagnie de gendarmerie départementale :
+-la Guadeloupe ;
+
+-la Guyane ;
+
+-la Martinique ;
+
+-Mayotte ;
+
+-la Nouvelle-Calédonie ;
+
+-la Polynésie française ;
+
+-La Réunion.
+
+Commandant en second de la compagnie de gendarmerie départementale :
 
 -d'Archipels-Papeete ;
 
 -de Fort-de-France ;
 
--des Iles-du-vent-Faaa ;
-
 -de Koné ;
-
--de Koungou ;
 
 -de Kourou ;
 
 -de La-Foa ;
 
--du Marin ;
-
--de Matoury ;
-
--du Moule ;
-
--de Nouméa ;
-
--de Pointe-à-Pitre ;
-
 -de Saint-Benoît ;
 
 -de Saint-Claude (Guadeloupe) ;
-
--de Saint-Laurent-du-Maroni ;
-
--de Saint-Martin-Saint-Barthélemy ;
 
 -de la Trinité ;
 
 5° Autres emplois :
 
--officier de liaison au département de la sécurité nucléaire au ministère de la transition écologique (2 emplois) ;
+-adjoint au chef de la trésorerie militaire pour l'activité des forces de la gendarmerie ;
 
--officier analyste au centre de veille du cabinet du ministère de l'intérieur (2 emplois) ;
+-officier de liaison, chef de quart au centre de veille du cabinet du ministère de l'intérieur (1 emploi) ;
 
--officier de liaison auprès d'une préfecture maritime (3 emplois) ;
-
--officier de liaison à la direction interministérielle de la transformation publique (1 emploi) ;
+-commandant de la section de recherches de la gendarmerie des voies navigables ;
 
 -directeur du cercle mixte de gendarmerie de (25 emplois) :
 
@@ -868,4 +718,4 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 25 juillet 2023 (NOR : IOMJ2318598A), ces dispositions entrent en vigueur le 1er août 2023.
+Conformément à l’article 2 de l’arrêté du 20 décembre 2023 (NOR : IOMJ2331782A), ces dispositions entrent en vigueur le 1er janvier 2024.

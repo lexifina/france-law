@@ -2,11 +2,11 @@
 
 LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE DE LA CATÉGORIE V
 
-1° A la direction générale de la gendarmerie nationale :
+1° Administration centrale :
 
--le chef du service d'exploitation et de soutien des télécommunications et de l'informatique ;
+-chef du service d'exploitation et de soutien des télécommunications et de l'informatique ;
 
--chef du pôle :
+Chef du pôle :
 
 -des techniques spéciales d'enquêtes ;
 
@@ -16,117 +16,101 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -adjoint au chef du pôle des perspectives professionnelles (1 emploi) ;
 
--adjoint au chef du bureau :
+-adjoint d'une division au service central de renseignement criminel de la gendarmerie nationale (4 emplois) ;
+
+-adjoint d'une division à l'institut de recherches criminelles de la gendarmerie nationale (4 emplois).
+
+A la direction générale de la gendarmerie nationale, adjoint au chef du bureau :
 
 -des actes de gestion et des études ;
 
--de l'action sociale, des blessés et du handicap ;
+-Agorha infocentre décisionnel ressources humaines ;
 
--de l'administration ;
-
--agorha des ressources humaines droits individuels ;
-
--agorha études et qualités ;
-
--du budget et de la réglementation ;
-
--du contrôle opérationnel des fichiers ;
-
--coordination et pilotage ;
-
--criminalité organisée et de la délinquance spécialisée ;
+-Agorha des ressources humaines droits individuels ;
 
 -de la délinquance générale ;
-
--des effectifs et des référentiels ;
-
--des équipements de proximité ;
-
--des équipements périphériques ;
 
 -des études d'organisation ;
 
 -des généraux de la gendarmerie ;
 
--image ;
-
 -de la lutte anti-terroriste ;
-
--médias ;
-
--de la mobilité et de la proximité numérique ;
 
 -de l'organisation ;
 
--du pilotage des services ;
-
--de la préparation et du pilotage de la masse salariale ;
-
--de la prévention et des partenariats de sécurité ;
-
--de la prospective, de la programmation et du pilotage immobilier ;
-
--prospective radiocommunication ;
-
--des recours et de la protection fonctionnelle ;
-
--des référentiels métiers ;
-
 -de la réglementation et de la fonction militaire ;
 
--des ressources financières ;
+-de la stratégie des compétences.
 
--des salles de crise et de commandement ;
-
--de la santé et de la sécurité au travail ;
-
--des utilisateurs et du pilotage ;
-
--de la stratégie des compétences ;
-
--du suivi de la synthèse et de la veille opérationnelle ;
-
--des systèmes d'aide à l'enquête ;
-
--au sein du commandement de la gendarmerie pour les réserves et la jeunesse :
+Au sein du commandement de la gendarmerie pour les réserves et la jeunesse :
 
 -chef du bureau de l'accompagnement et de la conformité ;
 
 -chef du bureau des réserves pour le numérique et le cyber ;
 
--chargé de mission au commandement de la gendarmerie pour les réserves et la jeunesse (1 emploi) ;
+-chargé de mission au commandement de la gendarmerie pour les réserves et la jeunesse (1 emploi).
 
--au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, le chef du :
+Au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, le chef du :
 
 -bureau des achats métiers ;
 
 -bureau des achats immobiliers et prestations ;
 
--chargé de projet au sein d'une sous-direction de la direction des opérations et de l'emploi (3 emplois) ;
+-officier au pôle audiences recours médiations auprès de l'inspecteur général des armées-gendarmerie (1 emploi) ;
 
--chargé de projet au sein d'une sous-direction de la direction des personnels militaires (1 emploi) ;
+-chargé de fonction au cabinet du directeur général de la gendarmerie nationale (10 emplois) ;
 
-2° A l'inspection générale de la gendarmerie nationale :
+2° Inspection générale de la gendarmerie nationale :
 
--chef du bureau de l'audit de la santé et la sécurité au travail ;
+-chef de cabinet ;
 
--chef du bureau des signalements et des réclamations ;
-
--chargé de projets auprès du chef de la division des signalements et de la déontologie (1 emploi) ;
+-secrétaire général de l'observatoire de la gendarmerie pour l'égalité et contre les discriminations (1 emploi) ;
 
 3° Gendarmerie départementale :
 
--officier adjoint ressources humaines d'une région de gendarmerie non zonale (6 emplois) ;
-
--officier adjoint soutien finances d'une région de gendarmerie non zonale (6 emplois) ;
-
 -chef d'un bureau de la gestion du personnel militaire d'une région de gendarmerie zonale (7 emplois) ;
+
+-chef bureau des compétences d'une région zonale (7 emplois) ;
+
+-chef bureau budget et administration d'un région zonale (1 emploi) ;
 
 -commandant d'un groupe interministériel de recherches ;
 
--commandant de la section de recherches en second de Bourges ;
+-commandant de la section de recherches en second de Bourges.
 
--officier adjoint de police judiciaire du groupement de gendarmerie départementale (1 emploi) :
+Officier adjoint commandement du groupement de gendarmerie départementale (1 emploi) :
+
+-des Alpes-Maritimes ;
+
+-du Cantal ;
+
+-de la Creuse ;
+
+-de la Drôme ;
+
+-de l'Eure ;
+
+-du Gard ;
+
+-de la Haute-Loire ;
+
+-de la Haute-Marne ;
+
+-du Haut-Rhin ;
+
+-de l'Ille-et-Vilaine ;
+
+-de l'Indre ;
+
+-de la Mayenne ;
+
+-de la Meuse ;
+
+-du Territoire de Belfort ;
+
+-du Var.
+
+Officier adjoint de police judiciaire du groupement de gendarmerie départementale (1 emploi) :
 
 -de l'Ariège ;
 
@@ -160,143 +144,91 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Territoire de Belfort ;
 
--officier adjoint commandement du groupement de gendarmerie départementale (1 emploi) :
+-du Var.
+
+Officier adjoint renseignement du groupement de gendarmerie départementale (1 emploi) :
+
+-de l'Allier ;
+
+-des Alpes-de-Haute-Provence ;
+
+-des Ardennes ;
+
+-de l'Ariège ;
+
+-de l'Aube ;
+
+-de l'Aveyron ;
 
 -du Cantal ;
 
+-de la Charente ;
+
+-du Cher ;
+
+-de Corrèze ;
+
+-de la Corse du Sud ;
+
 -de la Creuse ;
+
+-des Deux-Sèvres ;
+
+-du Gers ;
+
+-de Haute-Corse ;
 
 -de la Haute-Loire ;
 
 -de la Haute-Marne ;
 
+-de la Haute-Saône ;
+
+-de la Haute-Vienne ;
+
+-des Hautes-Alpes ;
+
+-des Hautes-Pyrénées ;
+
+-de l'Hérault ;
+
 -de l'Indre ;
+
+-de l'Isère ;
+
+-du Jura ;
+
+-de Loir-et-Cher ;
+
+-du Lot ;
+
+-de Lot-et-Garonne ;
+
+-de la Lozère ;
 
 -de la Mayenne ;
 
 -de la Meuse ;
 
--du Territoire de Belfort ;
+-de la Nièvre ;
 
--officier adjoint renseignement du groupement de gendarmerie départementale (1 emploi) :
-
--de l'Ain ;
-
--de l'Aisne ;
-
--des Alpes-Maritimes ;
-
--de l'Ardèche ;
-
--de l'Aude ;
-
--du Bas-Rhin ;
-
--des Bouches-du-Rhône ;
-
--du Calvados ;
-
--de la Charente-Maritime ;
-
--des Côtes-d'Armor ;
-
--de Dordogne ;
-
--du Doubs ;
-
--de la Drôme ;
-
--de l'Essonne ;
-
--de l'Eure ;
-
--d'Eure-et-Loir ;
-
--du Finistère ;
-
--du Gard ;
-
--de Gironde ;
-
--du Haut-Rhin ;
-
--de la Haute-Savoie ;
-
--de l'Hérault ;
-
--de l'Ille-et-Vilaine ;
-
--d'Indre-et-Loire ;
-
--de l'Isère ;
-
--des Landes ;
-
--de la Loire ;
-
--du Maine-et-Loire ;
-
--de la Manche ;
-
--de la Marne ;
-
--de Meurthe-et-Moselle ;
-
--du Morbihan ;
-
--de Moselle ;
-
--du Nord ;
-
--de l'Oise ;
-
--du Pas-de-Calais ;
-
--du Puy-de-Dôme ;
-
--des Pyrénées-Atlantiques ;
-
--des Pyrénées-Orientales ;
+-de l'Orne ;
 
 -du Rhône ;
 
--de la Saône-et-Loire ;
-
--de la Sarthe ;
-
--de la Savoie ;
-
 -de la Seine-et-Marne ;
 
--de la Somme ;
+-du Tarn ;
 
--du Val-d'Oise ;
+-de Tarn-et-Garonne ;
+
+-du Territoire de Belfort ;
 
 -du Var ;
 
--du Vaucluse ;
+-des Vosges.
 
--de la Vendée ;
-
--de la Vienne ;
-
--de l'Yonne ;
-
--des Yvelines ;
-
--chef du bureau renseignements :
-
--de Dijon ;
-
--de Nantes ;
-
--d'Orléans ;
-
--de Rouen ;
-
--de Toulouse ;
-
--chef du groupe de soutien ressources humaines du groupement de gendarmerie départementale :
+Chef du groupe de soutien ressources humaines du groupement de gendarmerie départementale :
 
 -de l'Ain ;
 
@@ -338,17 +270,13 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Seine-et-Marne ;
 
--du Var ;
+-du Var.
 
--commandant de la compagnie de gendarmerie départementale :
-
--d'Abbeville ;
+Commandant de la compagnie de gendarmerie départementale :
 
 -d'Agen ;
 
 -d'Ajaccio ;
-
--d'Albertville ;
 
 -d'Albi ;
 
@@ -358,13 +286,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Ambert ;
 
--d'Amboise ;
-
 -d'Amiens ;
 
 -d'Ancenis ;
-
--des Andelys ;
 
 -d'Angoulême ;
 
@@ -382,11 +306,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Avallon ;
 
--d'Avranches ;
-
 -de Bagnères-de-Bigorre ;
-
--de Bagnols-sur-Cèze ;
 
 -de Bar-sur-Aube ;
 
@@ -401,8 +321,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -de Beauvais ;
 
 -de Bellac ;
-
--de Belley ;
 
 -de Bergerac ;
 
@@ -421,8 +339,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -de Bourges ;
 
 -de Bressuire ;
-
--de Brest ;
 
 -de Briançon ;
 
@@ -446,8 +362,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Chamonix-Mont-Blanc ;
 
--de Charolles ;
-
 -de Château-Chinon-Ville ;
 
 -de Château-Thierry-Nogentel ;
@@ -460,17 +374,13 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Châtellerault ;
 
--de la Châtre de Chaumont ;
+-de la Châtre ;
+
+-de Chaumont ;
 
 -de Cherbourg-en-Cotentin ;
 
 -de Chinon ;
-
--de Cholet ;
-
--de Clermont ;
-
--de Clermont-Ferrand ;
 
 -de Cognac ;
 
@@ -490,8 +400,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Digne-les-Bains ;
 
--de Dijon ;
-
 -de Dinan ;
 
 -de Dole ;
@@ -504,9 +412,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Ecuires ;
 
--d'Epernay ;
-
--d'Evreux ;
+-d'Épernay ;
 
 -de Falaise ;
 
@@ -520,13 +426,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Fontainebleau ;
 
--de Fontenay-le-Comte ;
-
 -de Forbach ;
 
 -de Forcalquier ;
-
--de Gaillac ;
 
 -de Gap ;
 
@@ -542,10 +444,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Guéret ;
 
--de Guingamp ;
-
--de Haguenau ;
-
 -du Havre ;
 
 -d'Hazebrouck ;
@@ -553,8 +451,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -d'Hyères ;
 
 -d'Is-sur-Tille ;
-
--d'Issoire ;
 
 -d'Issoudun ;
 
@@ -568,11 +464,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Lannion ;
 
--de Laon ;
-
 -de Largentière ;
-
--de Lesparre-Médoc ;
 
 -de Limoges ;
 
@@ -584,13 +476,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Lodève ;
 
--de Lons-le-Saunier ;
-
 -de Louhans ;
-
--de Louviers ;
-
--de Lucé ;
 
 -de Lunéville ;
 
@@ -600,23 +486,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Mauriac ;
 
--de Mayenne ;
-
--de Melun
-
 -de Mende ;
 
 -de Menton ;
 
 -de Millau ;
 
--de Molsheim ;
-
 -de Mont-de-Marsan ;
 
 -de Montargis ;
-
--de Montauban ;
 
 -de Montbard ;
 
@@ -640,8 +518,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Nevers ;
 
--de Nice ;
-
 -de Nogent-le-Rotrou ;
 
 -de Nogent-sur-Seine ;
@@ -662,11 +538,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Parthenay ;
 
--de Pau ;
-
 -de Périgueux ;
-
--de Péronne ;
 
 -de Pierrelatte ;
 
@@ -676,15 +548,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Plourin-lès-Morlaix ;
 
--de Poitiers ;
-
 -de Pont-Audemer ;
 
 -de Pontarlier ;
 
 -de Pontivy ;
-
--de Pontoise ;
 
 -de Pornic ;
 
@@ -697,8 +565,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -de Puget-Théniers ;
 
 -du Puy-en-Velay ;
-
--de Quimper ;
 
 -de Quimperlé ;
 
@@ -718,11 +584,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de La Rochelle ;
 
--de Romorantin-Lanthenay ;
-
 -de Rosières-près-Troyes ;
-
--de Rouen ;
 
 -de Saint-Amand-Montrond ;
 
@@ -752,10 +614,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Saint-Malo ;
 
--de Saint-Marcellin ;
-
--de Saint-Omer ;
-
 -de Saint-Pol-sur-Ternoise ;
 
 -de Saint-Quentin ;
@@ -770,15 +628,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Sartène ;
 
--de Saumur ;
-
 -de Saverne ;
 
 -de Sedan ;
 
 -de Segré-en-Anjou-Bleu ;
-
--de Sélestat ;
 
 -de Soissons ;
 
@@ -791,8 +645,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -de Thonon-les-Bains ;
 
 -de Toul ;
-
--de la Tour-du-Pin ;
 
 -de Tours ;
 
@@ -809,8 +661,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -de Verdun ;
 
 -de Vervins ;
-
--de Vichy ;
 
 -de Vierzon ;
 
@@ -830,15 +680,31 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Yssingeaux ;
 
--d'Yvetot ;
+-d'Yvetot.
 
--commandant de l'escadron départemental de sécurité routière :
+Commandant de l'escadron départemental de sécurité routière :
 
 -de l'Ain ;
 
 -de l'Aisne ;
 
+-de l'Allier ;
+
+-des Alpes-de-Haute-Provence ;
+
 -des Alpes-Maritimes ;
+
+-de l'Ardèche ;
+
+-des Ardennes ;
+
+-de l'Ariège ;
+
+-de l'Aube ;
+
+-de l'Aude ;
+
+-de l'Aveyron ;
 
 -du Bas-Rhin ;
 
@@ -846,39 +712,121 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Calvados ;
 
+-du Cantal ;
+
+-de la Charente ;
+
+-de la Charente-Maritime ;
+
+-du Cher ;
+
+-de la Corrèze ;
+
 -de Côte-d'Or ;
+
+-des Côtes-d'Armor ;
+
+-de la Creuse ;
+
+-des Deux-Sèvres ;
+
+-de la Dordogne ;
+
+-du Doubs ;
+
+-de la Drôme ;
+
+-de l'Essonne ;
 
 -de l'Eure ;
 
+-d'Eure-et-Loir ;
+
+-du Finistère ;
+
+-du Gard ;
+
+-du Gers ;
+
 -de la Gironde ;
+
+-des Hautes-Alpes ;
+
+-du Haut-Rhin ;
 
 -de la Haute-Garonne ;
 
+-de la Haute-Loire ;
+
+-de la Haute-Marne ;
+
+-des Hautes-Pyrénées ;
+
+-de la Haute-Saône ;
+
 -de la Haute-Savoie ;
+
+-de la Haute-Vienne ;
 
 -de l'Hérault ;
 
+-d'Ille-et-Vilaine ;
+
+-de l'Indre ;
+
 -d'Indre-et-Loire ;
 
--de l'Isère ;
+-du Jura ;
+
+-des Landes ;
+
+-de la Loire ;
+
+-de Loir-et-Cher ;
 
 -de Loire-Atlantique ;
 
 -du Loiret ;
 
+-du Lot ;
+
+-de Lot-et-Garonne ;
+
+-de la Lozère ;
+
 -de Maine-et-Loire ;
+
+-de la Manche ;
 
 -de la Marne ;
 
+-de la Mayenne ;
+
+-de Meurthe-et-Moselle ;
+
+-de la Meuse ;
+
+-du Morbihan ;
+
 -de la Moselle ;
+
+-de la Nièvre ;
 
 -du Nord ;
 
 -de l'Oise ;
 
--du Pas-de-Calais ;
+-de l'Orne ;
 
 -du Puy-de-Dôme ;
+
+-des Pyrénées-Atlantiques ;
+
+-des Pyrénées-Orientales ;
+
+-du Rhône ;
+
+-de Saône-et-Loire ;
 
 -de la Sarthe ;
 
@@ -890,101 +838,173 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Somme ;
 
+-de Tarn-et-Garonne ;
+
+-du Val-d'Oise ;
+
 -du Var ;
 
-4° Gendarmerie mobile Garde républicaine :
+-de Vaucluse ;
+
+-de la Vendée ;
+
+-de la Vienne ;
+
+-des Vosges ;
+
+-de l'Yonne ;
+
+-des Yvelines.
+
+Commandant en second de la compagnie de gendarmerie départementale :
+
+-d'Aix-en-Provence ;
+
+-d'Annecy ;
+
+-de l'Arbresle ;
+
+-d'Arles ;
+
+-d'Avesnes-sur-Helpe ;
+
+-de Bourgoin-Jallieu ;
+
+-de Brignoles ;
+
+-de Castelnau-le-Lez ;
+
+-de Chambéry ;
+
+-de Compiègne ;
+
+-de Coulommiers ;
+
+-de Dax ;
+
+-d'Evry ;
+
+-de Gex ;
+
+-de l'Isle-Adam ;
+
+-de Libourne ;
+
+-de Lille ;
+
+-de Lorient ;
+
+-de Lunel ;
+
+-du Mans ;
+
+-de Mérignac ;
+
+-de Metz ;
+
+-de Meylan ;
+
+-de Montbrison ;
+
+-de Montmorency ;
+
+-de Mulhouse ;
+
+-de Muret ;
+
+-de Nantes ;
+
+-d'Orléans ;
+
+-de Palaiseau ;
+
+-de Rennes ;
+
+-de Rezé ;
+
+-de La Roche-sur-Yon ;
+
+-des Sables-d'Olonne ;
+
+-de Saint-Brieuc ;
+
+-de Salon-de-Provence ;
+
+-de Soultz-Guebwiller ;
+
+-de Strasbourg ;
+
+-de Thionville ;
+
+-de Toulouse-Mirail ;
+
+-de Toulouse-Saint-Michel ;
+
+-de Trévoux ;
+
+-de Vienne ;
+
+-de Villefranche-de-Lauragais ;
+
+-de Villefranche-sur-Saône ;
+
+-de Vitré.
+
+Commandant d'un peloton spécialisé de protection de la gendarmerie ;
+
+4° Gendarmerie mobile-Garde républicaine :
 
 -commandant de la compagnie de sécurité de la présidence de la République ;
 
-5° Ecoles :
+5° Gendarmeries spécialisées :
 
--chef du cabinet du commandement des écoles de la gendarmerie nationale ;
+-adjoint chef d'état-major gendarmerie des transports aériens (3 emplois) ;
 
--officier adjoint ressources humaines du groupe de soutien opérationnel des écoles ;
+-officier adjoint police judiciaire rattaché à un groupement de gendarmerie des transports aériens (2 emplois) ;
 
--officier adjoint soutien finances du groupe de soutien opérationnel des écoles ;
+-officier adjoint renseignement rattaché à un groupement de gendarmerie des transports aériens (2 emplois) ;
 
--commandant du centre national de formation :
+-officier adjoint commandement rattaché à un groupement de gendarmerie de l'air (2 emplois) ;
 
--à la sécurité routière ;
+-officier adjoint renseignement rattaché à un groupement de gendarmerie maritime (3 emplois) ;
 
--aux langues et à l'international de la gendarmerie ;
+-commandant de compagnie de gendarmerie de l'armement sud.
 
--à la sécurité publique ;
+Commandant de compagnie de gendarmerie des transports aériens :
 
--du corps de soutien technique et administratif de la gendarmerie nationale ;
+-de Bordeaux ;
 
--commandant du centre national d'instruction :
+-de Brest ;
 
--cynophile de la gendarmerie ;
+-de Lyon ;
 
--de ski et d'alpinisme de la gendarmerie ;
+-de Strasbourg ;
 
--nautique de la gendarmerie ;
-
--chef du centre national d'assistance aux utilisateurs ;
-
--chef de la division de l'appui à la formation d'une école de gendarmerie (7 emplois) à l'exception de l'école des officiers de la gendarmerie nationale ;
-
--chef de la division de la formation du centre national d'entraînement des forces de gendarmerie ;
-
--chef de la division de l'appui à la formation du centre national d'entraînement des forces de gendarmerie ;
-
-6° Gendarmeries spécialisées :
-
--au sein du commandement des forces aériennes de la gendarmerie nationale :
-
--commandant d'une force aérienne gendarmerie ;
-
--commandant du centre national d'instruction des forces aériennes de la gendarmerie ;
-
--commandant du centre national de maintenance aéronautique de la gendarmerie ;
-
--chargé de mission auprès du commandement des forces aériennes de la gendarmerie nationale (1 emploi) ;
-
--commandant du centre d'instruction de la gendarmerie maritime ;
-
--commandant d'une compagnie de gendarmerie de l'armement ;
-
--commandant d'une compagnie de gendarmerie des transports aériens ;
+-de Toulouse ;
 
 -commandant d'une compagnie de gendarmerie maritime ;
 
 -commandant d'une compagnie de gendarmerie de l'air ;
 
--commandant de l'antenne de sécurité des armements nucléaires pour la force océanique de la gendarmerie de la sécurité des armements nucléaires ;
+-chef du bureau de la réglementation, de la formation et de la protection du secret de la gendarmerie de la sécurité des armements nucléaires ;
 
 -chef d'un centre opérationnel de la gendarmerie de la sécurité des armements nucléaires (2 emplois) ;
 
-7° Outre-mer :
+6° Outre-mer :
 
 -commandant de la gendarmerie pour Wallis-et-Futuna ;
 
--chef d'état-major du commandement la gendarmerie :
+-chef du bureau opérations emploi au commandement de la gendarmerie d'outre-mer ;
 
--de la Guadeloupe ;
+-commandant de la section de recherches prévôtales en second.
 
--de la Guyane française ;
+Commandant de la section de recherches en second :
 
--de la Martinique ;
+-de Nouméa ;
 
--de Mayotte ;
+-de Saint-Martin-Saint-Barthélemy.
 
--pour la Nouvelle-Calédonie ;
-
--pour la Polynésie française ;
-
--de La Réunion ;
-
--commandant de la section de recherches prévôtales en second ;
-
--commandant de la section de recherches en second de :
-
--Mamoudzou ;
-
--Nouméa ;
-
--officier adjoint en charge de la police judiciaire au sein du commandement la gendarmerie de :
+Officier adjoint en charge de la police judiciaire au sein du commandement la gendarmerie de :
 
 -la Guadeloupe ;
 
@@ -998,9 +1018,25 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -la Polynésie française ;
 
--La Réunion ;
+-La Réunion.
 
--commandant de la compagnie de gendarmerie départementale :
+Officier adjoint renseignement au sein du commandement de la gendarmerie de :
+
+-la Guadeloupe ;
+
+-la Guyane ;
+
+-la Martinique ;
+
+-Mayotte ;
+
+-la Nouvelle-Calédonie ;
+
+-la Polynésie française ;
+
+-La Réunion.
+
+Commandant de la compagnie de gendarmerie départementale :
 
 -d'Archipels-Papeete ;
 
@@ -1010,15 +1046,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Koné ;
 
--de Koungou ;
-
 -de Kourou ;
 
 -de La-Foa ;
-
--du Marin ;
-
--de Matoury ;
 
 -du Moule ;
 
@@ -1034,57 +1064,71 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Saint-Laurent-du-Maroni ;
 
--de Saint-Martin-Saint-Barthélemy ;
-
 -de la Trinité ;
+
+7° Ecoles :
+
+-chef du cabinet du commandement des écoles de la gendarmerie nationale ;
+
+-officier adjoint ressources humaines de l'école des officiers de la gendarmerie nationale ;
+
+-officier adjoint soutien finances de l'école des officiers de la gendarmerie nationale ;
 
 8° Autres emplois :
 
--commandant du centre national de soutien logistique ;
-
--chef du service de soutien à la projection opérationnelle du commandement du soutien opérationnel de la gendarmerie ;
-
--chef du bureau du système des opérations et du renseignement du commandement du soutien opérationnel de la gendarmerie ;
+-chef de l'unité d'investigations et d'identification à l'institut de recherche criminelle de la gendarmerie nationale ;
 
 -chef du bureau emploi au sein du commandement spécialisé pour la sécurité nucléaire ;
 
 -chef du bureau opérations au sein du commandement spécialisé pour la sécurité nucléaire ;
 
+-chef de bureau au service du traitement de l'information de la gendarmerie (5 emplois) ;
+
 -directeur au sein d'un secrétariat général pour l'administration du ministère de l'intérieur ;
 
--commandant du groupement de sécurité et d'appui de Rosny-sous-Bois ;
+-adjoint commandant du groupement de sécurité et d'appui d'Issy-les-Moulineaux ;
 
--commandant du groupement de sécurité et d'appui d'Issy-les-Moulineaux ;
-
--commandant du groupement de sécurité et d'appui de Beynes ;
-
--adjoint au chef de département au service central du renseignement territorial (1 emploi) ;
-
--chef d'état-major soutien finances du groupe d'intervention de la gendarmerie nationale ;
-
--chef de la force :
-
--sécurité et protection du groupe d'intervention de la gendarmerie nationale ;
-
--observation recherche du groupe d'intervention de la gendarmerie nationale ;
-
--antennes du groupe d'intervention de la gendarmerie nationale ;
-
--chef du centre national de formation en intervention spécialisée du groupe d'intervention de la gendarmerie nationale ;
-
--chef de la division technique du groupe d'intervention de la gendarmerie nationale ;
+-commandant d'une antenne du groupe d'intervention de la gendarmerie nationale ;
 
 -chef du centre de rétention administrative de Lyon ;
 
--commandant en second du centre de production multimédia de la gendarmerie nationale ;
+-chef du service expert ressource humaine à Le Blanc (1 emploi) ;
 
--à l'agence du numérique des forces de sécurité intérieure :
+-chef de la cellule nationale de supervision au commandement du soutien opérationnel de la gendarmerie nationale ;
+
+-conseiller technique, direction sécurité diplomatique au ministère de l'Europe et des affaires étrangères (1 emploi) ;
+
+-conseiller PSDC et OPEX à la direction des affaires européennes et internationales du ministère de l'intérieur (1 emploi) ;
+
+-officier de liaison, adjoint au chef d'un pôle de la coordination nationale pour la sécurité des jeux Olympiques et Paralympiques 2024 et des grands évènements sportifs internationaux (2 emplois) ;
+
+-chef de la mission protection du ministère de la transition écologique (1 emploi) ;
+
+-officier de liaison affecté au sein d'un pôle au comité interministériel de prévention de la délinquance et de la radicalisation (2 emplois) ;
+
+-officier de liaison, adjoint au chef de bureau sécurité de l'espace européen du secrétariat général des affaires européennes (1 emploi) ;
+
+-officier de liaison à la sous-direction défense technologie prolifération de la direction générale des relations internationales et de la stratégie (1 emploi) ;
+
+-officier de liaison auprès du haut fonctionnaire de défense et de sécurité du ministère de l'éducation nationale et de la jeunesse (1 emploi) ;
+
+-chargé de mission sécurité au cabinet de la direction générale des outre-mer (1 emploi) ;
+
+-chef de service de permanence au sein du cabinet du Premier ministre ;
+
+-chef de cabinet au secrétariat général de la défense et de la sécurité nationale (1 emploi).
+
+A l'agence du numérique des forces de sécurité intérieure :
 
 -chargé de projets à la direction des communications tactiques (1 emploi) ;
 
 -chargé de projets à la direction des supports opérationnels (1 emploi) ;
 
+-chargé de projets au sein à la direction de la sécurité et de l'architecture (1 emploi) ;
+
 -chargé de fonctions pilotage et coordination à la direction des applications d'appui au commandement (1 emploi) ;
+
+-chargé de fonctions pilotage et coordination à la direction de la proximité et de l'appui à l'innovation (1 emploi) ;
 
 -adjoint au chef du département de l'architecture, de la sécurité et de l'hébergement ;
 
@@ -1098,6 +1142,10 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -adjoint au chef du département des équipements radio ;
 
--chef du pôle procédure pénale numérique/plainte en ligne ;
+-chef du pôle procédure pénale numérique/ plainte en ligne ;
 
 -chef du pôle DataLab.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 20 décembre 2023 (NOR : IOMJ2331782A), ces dispositions entrent en vigueur le 1er janvier 2024.
