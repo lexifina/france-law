@@ -4,23 +4,29 @@ I.-Emplois d'inspecteur général des services actifs de la police nationale
 
 1. Direction générale de la police nationale :
 
-Conseiller stratégie et prospective de la police nationale.
-
 Directeur de cabinet du directeur général de la police nationale.
 
 Vice-président du conseil supérieur de l'appui territorial et de l'évaluation.
 
-Préfigurateur directeur zonal de la police nationale à Marseille.
+Directeur zonal de la police nationale à Marseille.
 
-Préfigurateur directeur zonal de la police nationale à Bordeaux.
+Directeur zonal de la police nationale à Bordeaux.
 
-Préfigurateur directeur zonal de la police nationale à Rennes.
+Directeur zonal de la police nationale à Rennes.
 
-Préfigurateur directeur zonal de la police nationale à Metz.
+Directeur zonal de la police nationale à Metz.
 
-Préfigurateur directeur zonal de la police nationale à Lyon.
+Directeur zonal de la police nationale à Lyon.
 
 Conseiller stratégie et prospective de la police nationale.
+
+Directeur interdépartemental de la police nationale à Marseille.
+
+Directeur interdépartemental de la police nationale à Lyon.
+
+Chef d'état-major de la police nationale.
+
+Conseiller stratégie et prospective (3 postes).
 
 2. Direction des ressources humaines, des finances et des soutiens de la police nationale :
 
@@ -38,8 +44,6 @@ Directeur adjoint de l'inspection générale de la police nationale.
 
 Directeur national adjoint de la police judiciaire en charge des opérations.
 
-Directeur zonal de la police judiciaire Sud à Marseille.
-
 Directeur national adjoint de la police judiciaire, sous-directeur de la stratégie et du pilotage territorial.
 
 6. Direction générale de la sécurité intérieure :
@@ -50,35 +54,23 @@ Les postes de la direction générale de la sécurité intérieure font l'objet 
 
 Directeur national adjoint de la sécurité publique.
 
-Directeur départemental de la sécurité publique, commissaire central de Marseille (13)
-
-Directeur zonal de la sécurité publique Ouest à Rennes (35)
-
-Directeur zonal de la sécurité publique Est à Metz (57)
-
-Directeur zonal de la sécurité publique Sud-Est à Lyon (69)
-
-8. Direction nationale de la police aux frontières :
-
-Directeur national adjoint de la police aux frontières.
-
-9. Direction nationale du renseignement territorial :
+8. Direction nationale du renseignement territorial :
 
 Directeur national adjoint du renseignement territorial.
 
-10. Direction centrale des compagnies républicaines de sécurité :
+9. Direction centrale des compagnies républicaines de sécurité :
 
 Directeur central adjoint des compagnies républicaines de sécurité.
 
-11. Service de la protection :
+10. Service de la protection :
 
 Chef du service de la protection.
 
-12. Service national de police scientifique :
+11. Service national de police scientifique :
 
 Chef du service national de police scientifique
 
-13. Préfecture de police :
+12. Préfecture de police :
 
 Préfecture de police : Direction de l'ordre public et de la circulation :
 
@@ -104,11 +96,11 @@ Préfecture de police-Divers :
 
 Directeur adjoint des ressources humaines.
 
-14. Ecole nationale supérieure de la police :
+13. Agence du numérique des forces de sécurité intérieure :
 
-Directeur de l'école nationale supérieure de la police.
+Directeur adjoint de l'agence du numérique des forces de sécurité intérieure.
 
-15. Divers :
+14. Autres :
 
 Coordonnateur adjoint du renseignement et de la lutte contre le terrorisme.
 
@@ -122,7 +114,7 @@ Conseiller, chef du pôle, doctrine, défense, planification et renseignement.
 
 Conseiller, chef du pôle social-ressources humaines.
 
-Chef d'état-major de la police nationale.
+Directeur de cabinet adjoint, conseiller territorial au cabinet du directeur général de la police nationale.
 
 Conseiller pour la communication-chef du service d'information et de communication de la police (SICOP).
 
@@ -132,9 +124,9 @@ Conseiller, chef du pôle judiciaire.
 
 Conseiller, chef du pôle des affaires internationales et européennes.
 
-Conseiller prospective et stratégie.
+Conseiller missions de police au cabinet du directeur général de la police nationale.
 
-Préfigurateur directeur zonal de la police nationale à Lille.
+Directeur zonal de la police nationale à Lille.
 
 Adjoint au chef d'état-major de la police nationale.
 
@@ -144,51 +136,51 @@ Directeur territorial de la police nationale de Mayotte.
 
 Directeur territorial de la police nationale de la Guyane.
 
-Préfigurateur directeur interdépartemental de la police nationale à Nice.
+Directeur interdépartemental de la police nationale à Nice.
 
-Préfigurateur directeur interdépartemental de la police nationale à Ajaccio.
+Directeur interdépartemental de la police nationale à Ajaccio.
 
-Préfigurateur directeur interdépartemental de la police nationale à Nîmes.
+Directeur interdépartemental de la police nationale à Nîmes.
 
-Préfigurateur directeur interdépartemental de la police nationale à Toulouse.
+Directeur interdépartemental de la police nationale à Toulouse.
 
-Préfigurateur directeur interdépartemental de la police nationale à Bordeaux.
+Directeur interdépartemental de la police nationale à Bordeaux.
 
-Préfigurateur directeur interdépartemental de la police nationale à Montpellier.
+Directeur interdépartemental de la police nationale à Montpellier.
 
-Préfigurateur directeur interdépartemental de la police nationale à Rennes.
+Directeur interdépartemental de la police nationale à Rennes.
 
-Préfigurateur directeur interdépartemental de la police nationale à Grenoble.
+Directeur interdépartemental de la police nationale à Grenoble.
 
-Préfigurateur directeur interdépartemental de la police nationale à Saint-Etienne.
+Directeur interdépartemental de la police nationale à Saint-Etienne.
 
-Préfigurateur directeur interdépartemental de la police nationale à Nantes.
+Directeur interdépartemental de la police nationale à Nantes.
 
-Préfigurateur directeur interdépartemental de la police nationale à Nancy.
+Directeur interdépartemental de la police nationale à Nancy.
 
-Préfigurateur directeur interdépartemental de la police nationale à Metz.
+Directeur interdépartemental de la police nationale à Metz.
 
-Préfigurateur directeur interdépartemental de la police nationale à Lille.
+Directeur interdépartemental de la police nationale à Lille.
 
-Préfigurateur directeur interdépartemental de la police nationale à Beauvais.
+Directeur interdépartemental de la police nationale à Beauvais.
 
-Préfigurateur directeur interdépartemental de la police nationale à Arras.
+Directeur interdépartemental de la police nationale à Arras.
 
-Préfigurateur directeur interdépartemental de la police nationale à Strasbourg.
+Directeur interdépartemental de la police nationale à Strasbourg.
 
-Préfigurateur directeur interdépartemental de la police nationale à Mulhouse.
+Directeur interdépartemental de la police nationale à Mulhouse.
 
-Préfigurateur directeur interdépartemental de la police nationale à Rouen.
+Directeur interdépartemental de la police nationale à Rouen.
 
-Préfigurateur directeur interdépartemental de la police nationale à Melun.
+Directeur interdépartemental de la police nationale à Melun.
 
-Préfigurateur directeur interdépartemental de la police nationale à Versailles.
+Directeur interdépartemental de la police nationale à Versailles.
 
-Préfigurateur directeur interdépartemental de la police nationale à Toulon.
+Directeur interdépartemental de la police nationale à Toulon.
 
-Préfigurateur directeur interdépartemental de la police nationale à Evry.
+Directeur interdépartemental de la police nationale à Evry.
 
-Préfigurateur directeur interdépartemental de la police nationale à Cergy-Pontoise.
+Directeur interdépartemental de la police nationale à Cergy-Pontoise.
 
 2. Direction des ressources humaines, des finances et des soutiens de la police nationale :
 
@@ -210,13 +202,11 @@ Chef de la délégation de l'inspection générale de la police nationale Paris.
 
 5. Direction nationale de la police judiciaire :
 
-Sous-directeur de la lutte contre la cybercriminalité.
+Chef de l'office anti-cybercriminalité.
 
 Sous-directeur chargé de l'anti-terrorisme.
 
 Sous-directeur de la lutte contre la criminalité organisée et la délinquance spécialisée.
-
-Directeur régional de police judiciaire à Versailles.
 
 Sous-directeur de la lutte contre la criminalité financière.
 
@@ -232,8 +222,6 @@ Les postes de la direction générale de la sécurité intérieure font l'objet 
 
 7. Direction nationale de la sécurité publique :
 
-Directeur départemental de la sécurité publique, commissaire central de Lyon (69).
-
 Sous-directeur de l'ordre public et des mobilités.
 
 Sous-directeur de la sécurité du quotidien et des partenariats.
@@ -244,8 +232,6 @@ Sous-directeur du pilotage et de la performance.
 
 Sous-directeur des frontières.
 
-Directeur zonal de la police aux frontières Sud à Marseille.
-
 Directeur de la police aux frontières des aérodromes parisiens et directeur de l'aéroport de Roissy-Charles-de-Gaulle-Le Bourget.
 
 Chef de l'office de lutte contre le trafic illicite de migrants.
@@ -253,6 +239,8 @@ Chef de l'office de lutte contre le trafic illicite de migrants.
 Sous-directeur de la rétention, de l'éloignement et des procédures.
 
 Sous-directeur du soutien et du pilotage territorial.
+
+Directeur national adjoint de la police aux frontières.
 
 9. Direction nationale du renseignement territorial :
 
@@ -330,9 +318,9 @@ Préfecture de police-Divers :
 
 Conseiller technique chargé des affaires de police.
 
-15. Agence du numérique des forces de sécurité intérieure :
+15. Ecole nationale supérieure de la police :
 
-Directeur adjoint de l'agence du numérique des forces de sécurité intérieure.
+Directeur de l'école nationale supérieure de la police.
 
 NOTA :
 
