@@ -40,7 +40,7 @@ Direction des ressources humaines |
 
 Chef du bureau des rémunérations et des pensions au sein du service de gestion des personnels de la police nationale |
 
-Direction des transports et de la protection du public |
+Direction des usagers et des polices administratives |
 
 Chef du bureau des titres d'identité au sein du service des titres et des relations avec les usagers |
 
@@ -135,3 +135,9 @@ Secrétariat général commun départemental |
 Yvelines |
 
 Directeur adjoint du secrétariat général commun départemental |
+
+.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté 18 décembre 2023 (NOR : IOMA2331062A), ces dispositions entrent en vigueur à compter du 1er janvier 2024.

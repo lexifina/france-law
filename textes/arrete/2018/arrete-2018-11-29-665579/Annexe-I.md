@@ -6,9 +6,7 @@ LOCALISATION DES EMPLOIS À FORTE RESPONSABILITÉ BÉNÉFICIANT DE LA NOUVELLE B
 
 1° Périmètre administration centrale, établissements publics et services à compétence nationale
 
-Directions
-
-et services |
+Directions et services |
 
 Fonctions |
 
@@ -18,19 +16,11 @@ de NBI |
 
 Nombre d'emplois
 
-à forte
-
-responsabilité
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -74,7 +64,7 @@ Chef de projet réforme de l'administration territoriale de l'Etat, adjoint au c
 
 1 |
 
-Adjoint au chef du bureau de la performance et des moyens de l'administration territoriale au sein de la sous-direction de l'administration territoriale de l'Etat |
+Adjoint au chef du bureau des moyens de l'administration territoriale au sein de la sous-direction de l'administration territoriale de l'Etat |
 
 30 |
 
@@ -174,7 +164,7 @@ Chef des services administratifs et du soutien au sein du groupement des moyens 
 
 1 |
 
-Adjoint au chef du groupement des moyens aériens à la sous-direction des moyens nationaux |
+Un poste |
 
 30 |
 
@@ -200,7 +190,7 @@ Chef de la mission catastrophes naturelles au sein de la sous-direction de la pr
 
 Direction de la transformation du numérique |
 
-Chef du bureau du budget et du contrôle de gestion au sein de la sous-direction des ressources |
+Chef du bureau du budget et de l'exécution financière au sein de la sous-direction des ressources et de l'accompagnement au changement |
 
 30 |
 
@@ -308,7 +298,9 @@ Chef du bureau des affaires financières et de l'évaluation de la dépense au s
 
 1 |
 
-Chef du bureau du pilotage des politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel |
+Chef du bureau du pilotage des
+
+politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel |
 
 50 |
 
@@ -316,7 +308,7 @@ Chef du bureau du pilotage des politiques sociales au sein de la sous-direction 
 
 1 |
 
-Adjoint au chef du bureau des personnels administratifs au sein de la sous-direction des personnels |
+Adjoint au chef du bureau de gestion des personnels administratifs au sein de la sous-direction des personnels |
 
 30 |
 
@@ -324,7 +316,7 @@ Adjoint au chef du bureau des personnels administratifs au sein de la sous-direc
 
 1 |
 
-Adjoint au chef du bureau des personnels techniques et spécialisés au sein de la sous-direction des personnels |
+Adjoint au chef du bureau de gestion des personnels spécialisés au sein de la sous-direction des personnels |
 
 30 |
 
@@ -332,7 +324,7 @@ Adjoint au chef du bureau des personnels techniques et spécialisés au sein de 
 
 1 |
 
-Adjoint au chef du bureau des affaires générales, des études et des statuts au sein de la sous-direction des personnels |
+Adjoint au chef du bureau du droit des ressources humaines et des relations sociales au sein de la sous-direction des personnels |
 
 30 |
 
@@ -340,7 +332,7 @@ Adjoint au chef du bureau des affaires générales, des études et des statuts a
 
 1 |
 
-Adjoint au chef du bureau de la paie et des régimes indemnitaires au sein de la sous-direction des personnels |
+Adjoint au chef de la mission pilotage des projets et animation des réseaux au sein de la sous-direction des personnels |
 
 30 |
 
@@ -364,15 +356,13 @@ Adjoint au directeur de l'application DIALOGUE 2 au sein de la mission de gouver
 
 1 |
 
-Chef de cabinet |
+Adjoint au chef du bureau des parcours professionnels au sein de la sous-direction des personnels |
 
 30 |
 
 - |
 
 1 |
-
-|
 
 Chef de mission des affaires budgétaires et des emplois de la fonction RH ministérielle |
 
@@ -506,7 +496,7 @@ Chef de la division des ressources au Service de la protection/ SDRMM |
 
 1 |
 
-Adjoint au sous-directeur des ressources et des moyens de la direction centrale du recrutement et de la formation de la police nationale |
+Adjoint au sous-directeur des ressources et des moyens de l'Académie de police |
 
 50 |
 
@@ -522,7 +512,7 @@ Chef de cabinet du directeur général de la police nationale |
 
 1 |
 
-Chef de la division de l'organisation des concours et des dispositifs promotionnels à la sous-direction du recrutement et des dispositifs promotionnels de la direction centrale du recrutement et de la formation de la police nationale |
+Chef de la division des concours et des examens au sein de la sous-direction du recrutement et des établissements de formation de l'Académie de police |
 
 50 |
 
@@ -538,7 +528,7 @@ Chef du bureau des mobilités au sein de la sous-direction des finances et du so
 
 1 |
 
-Chef de la division de la programmation budgétaire à la sous-direction des ressources et des moyens de la direction centrale du recrutement et de la formation de la police nationale |
+Chef de la division du budget et des moyens au sein de la sous-direction des ressources et des moyens de l'Académie de police |
 
 50 |
 
@@ -546,7 +536,7 @@ Chef de la division de la programmation budgétaire à la sous-direction des res
 
 1 |
 
-Chef de la division de la formation aux fonctions administratives, techniques et scientifiques à la sous-direction du développement des compétences de la direction centrale du recrutement et de la formation de la police nationale |
+Chef de la division des formations administratives, techniques et scientifiques au sein de la sous-direction de la pédagogie de l'Académie de police |
 
 50 |
 
@@ -562,7 +552,7 @@ Chef du bureau des politiques ministérielles de l'enfance et du logement au sei
 
 1 |
 
-Chef du pôle administratif et technique à la sous-direction des méthodes et de l'appui de la direction centrale du recrutement et de la formation de la police nationale |
+Chef du pôle administratif et technique au sein de la sous-direction de la pédagogie de l'Académie de police |
 
 30 |
 
@@ -810,7 +800,7 @@ Responsable des ressources humaines, adjoint au secrétaire général |
 
 1 |
 
-Direction générale de la gendarmerie nationale |
+Direction des ressources humaines de la gendarmerie nationale |
 
 Chef du bureau du personnel civil à la sous-direction de la gestion du personnel de la direction des ressources humaines de la gendarmerie nationale |
 
@@ -844,7 +834,7 @@ Chef du bureau de la stratégie de communication interne du service d'informatio
 
 1 |
 
-Chef du bureau de la réglementation et de la fonction militaire au sein de la sous-direction de la politique des ressources humaines |
+Conseiller juridique et judiciaire auprès du directeur des opérations et de l'emploi |
 
 30 |
 
@@ -854,7 +844,7 @@ Chef du bureau de la réglementation et de la fonction militaire au sein de la s
 
 Adjoint au chef du bureau de la rémunération et des pensions militaires au sein de la sous-direction de la politique des ressources humaines |
 
-20 |
+30 |
 
 - |
 
@@ -876,7 +866,7 @@ Chef du bureau de l'administration à la sous-direction administrative et financ
 
 1 |
 
-Chargé de mission auprès du directeur des personnels militaires |
+Chargé de mission auprès du directeur des ressources humaines de la gendarmerie nationale |
 
 30 |
 
@@ -942,13 +932,11 @@ Secrétaire général |
 
 - |
 
-12 |
+1 |
 
-° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur
+2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur
 
-Directions
-
-et services |
+Directions et services |
 
 Fonctions |
 
@@ -958,19 +946,11 @@ de NBI |
 
 Nombre d'emplois
 
-à forte
-
-responsabilité
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1186,13 +1166,11 @@ Directeur des ressources humaines |
 
 - |
 
-13 |
+1 |
 
-° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
+3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
 
-Directions
-
-et services |
+Directions et services |
 
 Fonctions |
 
@@ -1202,19 +1180,11 @@ de NBI |
 
 Nombre d'emplois
 
-à forte
-
-responsabilité
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1562,13 +1532,11 @@ Secrétaire général chargé du pilotage transversal et de coordination au sein
 
 - |
 
-14 |
+1 |
 
-° Périmètre services de police nationale
+4° Périmètre services de police nationale
 
-Directions
-
-et services |
+Directions et services |
 
 Fonctions |
 
@@ -1578,19 +1546,11 @@ de NBI |
 
 Nombre d'emplois
 
-à forte
-
-responsabilité
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1638,7 +1598,7 @@ Chef de la division de l'administration et des finances |
 
 30 Direction centrale du recrutement et de la formation de la police nationale |
 
-Adjoint au directeur de l'école nationale de police de Nîmes, responsable du département des ressources de la délégation zonale au recrutement et à la formation de la zone Sud |
+Chef du département des ressources de l'école nationale de police de Nîmes |
 
 20 |
 
@@ -1864,9 +1824,9 @@ Chef de la division de l'administration et des finances |
 
 - |
 
-15 |
+1 |
 
-° Périmètre services de gendarmerie nationale
+5° Périmètre services de gendarmerie nationale
 
 Directions et services |
 
@@ -1878,19 +1838,11 @@ de NBI |
 
 Nombre d'emplois
 
-à forte
-
-responsabilité
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1899,6 +1851,16 @@ et de l'outre-mer
 13 Région zonale de gendarmerie PACA |
 
 Chef du bureau du budget et administration |
+
+30 |
+
+- |
+
+1 |
+
+13 Région zonale de gendarmerie PACA |
+
+Chef du bureau de la dépense militaire |
 
 0 |
 
@@ -1916,11 +1878,21 @@ Chef du bureau de l'immobilier et du logement |
 
 1 |
 
-33 Région zonale de gendarmerie Nouvelle-Aquitaine |
+31 Région zonale de gendarmerie Occitanie |
 
 Chef du bureau de l'accompagnement du personnel |
 
 0 |
+
+- |
+
+1 |
+
+33 Région zonale de gendarmerie Nouvelle-Aquitaine |
+
+Chef du bureau de l'accompagnement du personnel |
+
+30 |
 
 - |
 
@@ -1966,6 +1938,16 @@ Chef du bureau de l'accompagnement du personnel |
 
 - |
 
+69 Région zonale de gendarmerie Rhône-Alpes |
+
+Chef du bureau du logement et de l'immobilier |
+
+0 |
+
+- |
+
+1 |
+
 75 Garde Républicaine |
 
 Chef du bureau de la gestion du personnel |
@@ -2000,7 +1982,7 @@ Chef du centre d'études et de documentation |
 
 Chef du service de développement et de la mise en œuvre des logiciels |
 
-0 |
+30 |
 
 - |
 
@@ -2010,7 +1992,7 @@ Chef du service de développement et de la mise en œuvre des logiciels |
 
 Chef du service des ressources humaines |
 
-0 |
+30 |
 
 - |
 
@@ -2026,9 +2008,9 @@ Adjoint au chef du centre opérationnel de soutien infrastructure et logement |
 
 - |
 
-94 Région zonale de gendarmerie d'Ile-de-France |
+|
 
-Chef du bureau du budget et de l'administration à la division de l'appui opérationnel de l'Etat-major |
+|
 
 30 |
 
@@ -2046,6 +2028,16 @@ Chef du bureau des compétences |
 
 1 |
 
+94 Commandement spécialisé pour la sécurité nucléaire |
+
+Chef du département du soutien |
+
+0 |
+
+- |
+
+1 |
+
 973
 
 Commandement de la gendarmerie nationale en Guyane |
@@ -2056,13 +2048,23 @@ Chef du bureau soutien finances |
 
 - |
 
-16 |
+1 |
 
-° Périmètre juridictions administratives
+974
 
-Juridiction
+Commandement de la gendarmerie nationale de La Réunion |
 
-administrative |
+Chef du bureau des soutien et des finances |
+
+20 |
+
+- |
+
+1 |
+
+6° Périmètre juridictions administratives
+
+Juridiction administrative |
 
 Fonctions |
 
@@ -2072,19 +2074,11 @@ de NBI |
 
 Nombre d'emplois
 
-à forte
-
-responsabilité
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -2268,9 +2262,9 @@ Greffier en chef |
 
 - |
 
-17 |
+1 |
 
-° Périmètre préfectures
+7° Périmètre préfectures
 
 Localisation des emplois |
 
@@ -2278,9 +2272,9 @@ Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-|
+Total
 
-Total du nombre d'EFR |
+du nombre d'EFR |
 
 60 points |
 
@@ -2290,11 +2284,11 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du
+Total
 
-nombre
+du nombre d'emplois
 
-d'emplois de CAIOM |
+de CAIOM |
 
 60 points |
 
@@ -2416,7 +2410,7 @@ de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2424,7 +2418,7 @@ de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3424,7 +3418,7 @@ de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3432,7 +3426,7 @@ de NBI |
 
 - |
 
-3 |
+2 |
 
 |
 
@@ -3472,7 +3466,7 @@ de NBI |
 
 - |
 
-2 |
+1 |
 
 - |
 
@@ -3480,7 +3474,7 @@ de NBI |
 
 - |
 
-2 |
+1 |
 
 - |
 
@@ -3736,9 +3730,9 @@ de NBI |
 
 - |
 
-12 |
+11 |
 
-10 |
+9 |
 
 - |
 
@@ -4096,7 +4090,7 @@ de NBI |
 
 - |
 
-2 |
+3 |
 
 - |
 
@@ -4104,7 +4098,7 @@ de NBI |
 
 2 |
 
-- |
+1 |
 
 - |
 
@@ -4120,7 +4114,7 @@ de NBI |
 
 - |
 
-7 |
+8 |
 
 1 |
 
@@ -4128,7 +4122,7 @@ de NBI |
 
 2 |
 
-- |
+1 |
 
 2 |
 
@@ -4684,7 +4678,7 @@ de NBI |
 
 - |
 
-974 La Réunion |
+974 Réunion |
 
 - |
 
@@ -4720,7 +4714,7 @@ de NBI |
 
 - |
 
-1 |
+2 |
 
 - |
 
@@ -4728,7 +4722,7 @@ de NBI |
 
 - |
 
-1 |
+2 |
 
 - |
 
@@ -4852,7 +4846,7 @@ de NBI |
 
 - |
 
-8° Périmètre secrétariat général commun départemental :
+8° Périmètre secrétariat général commun départemental
 
 Localisation des emplois |
 
@@ -4860,7 +4854,9 @@ Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-Total du nombre d'EFR |
+Total
+
+du nombre d'EFR |
 
 60 points |
 
@@ -4872,7 +4868,9 @@ Total du nombre d'EFR |
 
 Total du nombre
 
-d'emplois de CAIOM |
+d'emplois
+
+de CAIOM |
 
 60 points |
 
@@ -5606,7 +5604,7 @@ de NBI |
 
 1 |
 
-31 Haute Garonne |
+31 Haute-Garonne |
 
 - |
 
@@ -6253,6 +6251,30 @@ de NBI |
 - |
 
 - |
+
+59 Nord |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+1 |
+
+|
+
+|
+
+|
+
+|
 
 60 Oise |
 
@@ -7069,3 +7091,9 @@ de NBI |
 - |
 
 - |
+
+.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté 18 décembre 2023 (NOR : IOMA2331062A), ces dispositions entrent en vigueur à compter du 1er janvier 2024.
