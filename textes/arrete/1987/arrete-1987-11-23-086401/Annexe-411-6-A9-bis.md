@@ -68,7 +68,7 @@ Un véhicule-citerne routier englobant une citerne assujettie sur un châssis po
 
 En vue de la délivrance du certificat relatif au châssis, l'organisme doit vérifier que le châssis porteur est agréé selon l'ADR, que la distance des verrous tournants entre eux est conforme à la norme NF H90201 et que le châssis est muni des dispositifs de fixation (attaches d'arrimage) (voir paragraphe 2 de l'article 411-7-02).
 
-En outre, la fixation de la citerne sur le châssis porteur doit être effectuée sans difficulté par au moins quatre pièces de coins à la partie inférieure de la citerne, ces pièces de coins doivent répondre à la norme ISO 1161-1984 ou à l'annexe 2 de la fiche UIC 592-2.
+En outre, la fixation de la citerne sur le châssis porteur doit être effectuée sans difficulté par au moins quatre pièces de coins à la partie inférieure de la citerne, ces pièces de coins doivent répondre à la norme ISO 1161-1984 ou aux dispositions de la fiche IRS 50592.
 
 6. En sus des dispositions des paragraphes 7 à 17 de la présente annexe, le tableau ci-dessous précise les paragraphes du code IMDG pour lesquels les organismes agréés repris au paragraphe 1 de la présente annexe ont compétence.
 
@@ -377,3 +377,7 @@ L'agrément A.D.R vaut approbation en ce qui concerne les jaquettes en aluminium
 L'agrément A.D.R vaut approbation en ce qui concerne le comportement du véhicule-citerne routier et ses moyens de fixation par rapport aux forces statiques et dynamiques, appliquées séparément.
 
 L'agrément A.D.R vaut approbation en ce qui concerne l'épaisseur inférieure des véhicules-citernes routiers.
+
+NOTA :
+
+Conformément à l’article 7 de l’arrêté du 30 août 2023 (NOR : TREP2322453A), ces dispositions entrent en vigueur le 1er janvier 2024.
