@@ -1,6 +1,6 @@
 # Article 1er
 
-Le taux d'appel de cotisation est porté à hauteur de 1,40 % de la masse salariale brute totale, au 1er janvier 2023.
+Le taux d'appel de cotisation est porté à hauteur de 1,50 % de la masse salariale brute totale, au 1er janvier 2024.
 
 À l'issue de ce délai, en fonction des résultats enregistrés par le régime et de la décision de la commission mixte agricole de Saône-et-Loire, le taux d'appel pourra évoluer ou être reconduit.
 
@@ -18,56 +18,56 @@ Total |
 
 Décès |
 
-0,12 % |
-
 0,13 % |
 
-0,25 % |
+0,14 % |
+
+0,27 % |
 
 Maintien de salaire y compris CSP à 40 % |
 
-0,61 % |
+0,65 % |
 
 – |
 
-0,61 % |
+0,65 % |
 
 Incapacité |
 
 – |
 
-0,29 % |
+0,31 % |
 
-0,29 % |
+0,31 % |
 
 Invalidité |
 
-0,112 % |
+0,121 % |
 
-0,124 % |
+0,134 % |
 
-0,236 % |
+0,255 % |
 
 Fonds de prévention et d'action sociale |
 
-0,008 % |
+0,009 % |
 
 0,006 % |
 
-0,014 % |
+0,015 % |
 
 Total
 
 |
 
-0,85 %
+0,91 %
 
 |
 
-0,55 %
+0,59 %
 
 |
 
-1,40 %
+1,50 %
 
 |
