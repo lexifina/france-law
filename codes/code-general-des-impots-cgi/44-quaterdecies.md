@@ -36,7 +36,13 @@ f) Energies renouvelables ;
 
 g) Bâtiments et travaux publics ;
 
-h) Transformation de produits destinés à la construction et production cosmétique et pharmaceutique.
+h) Transformation de produits destinés à la construction et production cosmétique et pharmaceutique ;
+
+i) Industrie ;
+
+j) Réparation et maintenance navale ;
+
+k) Edition de jeux électroniques ;
 
 4° Pour les bénéfices des entreprises provenant d'exploitations situées en Guadeloupe, en Martinique ou à La Réunion lorsque ces entreprises :
 
@@ -65,3 +71,7 @@ VII. – Lorsqu'elle répond aux conditions requises pour bénéficier du régim
 VIII. – Les obligations déclaratives des entreprises sont fixées par décret.
 
 IX. – Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
+
+NOTA :
+
+Conformément au II de l'article 74 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2024.

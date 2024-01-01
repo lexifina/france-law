@@ -40,7 +40,7 @@ h) De parts, d'actions ou d'autres droits dans des organismes, autres que ceux m
 
 II. – Lorsque le prélèvement mentionné au I est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values sont déterminées selon les modalités définies :
 
-1° Au I et aux 2° à 9° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VD.
+1° Au I et aux 2° à 9° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VE.
 
 Un contribuable ne peut toutefois bénéficier de l'exonération prévue au 2° du II de l'article 150 U s'il a déjà bénéficié de l'exonération prévue à l'avant-dernier alinéa du 1 du I du présent article ;
 
@@ -88,4 +88,4 @@ Il s'impute, le cas échéant, sur le montant de l'impôt sur les sociétés dû
 
 NOTA :
 
-Modifications effectuées en conséquence de l’article 84-I F 2° et III D de la loi n° 2017-1837 du 30 décembre 2017.
+Conformément au III de l’article 9 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux cessions réalisées à compter du 1er janvier 2024.

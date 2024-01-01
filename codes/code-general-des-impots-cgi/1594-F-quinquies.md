@@ -32,7 +32,7 @@ II. Les acquisitions d'immeubles ruraux situés dans les zones prévues au I, so
 
 Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une valeur globale n'excédant pas 99 000 €.
 
-F. Les ventes résultant de l'application des articles L. 181-18 à L. 181-24 du code rural et de la pêche maritime relatifs à la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.
+F. (Abrogé).
 
 G. (Abrogé).
 

@@ -6,7 +6,7 @@ I.-Le montant de la taxe foncière sur les propriétés bâties prévue à l'art
 
 2° Organismes soumis au contrôle, au sens du III de l'article L. 430-1 du code de commerce, de la société mentionnée à l'article L. 313-20 du code de la construction et de l'habitation ;
 
-3° Personnes morales, y compris les personnes morales exonérées d'impôt sur les sociétés en application d'une disposition légale, dont le capital est détenu en totalité, directement ou indirectement, par des personnes passibles de l'impôt sur les sociétés ;
+3° Personnes morales, y compris les personnes morales exonérées d'impôt sur les sociétés en application d'une disposition légale, les sociétés civiles de placement immobilier mentionnées à l'article 239 septies du présent code, les sociétés d'investissement à capital variable mentionnées à l'article L. 214-7 du code monétaire et financier, les sociétés de placement à prépondérance immobilière à capital variable mentionnées à l'article L. 214-62 du même code et les sociétés de libre partenariat mentionnées à l'article L. 214-162-1 dudit code ;
 
 4° Etablissements publics administratifs ;
 
@@ -20,13 +20,13 @@ II.-Le montant de la taxe foncière sur les propriétés bâties s'entend de la 
 
 2° De la taxe additionnelle spéciale annuelle au profit de la région d'Île-de-France prévue à l'article 1599 quater D ;
 
-3° Des taxes spéciales d'équipement additionnelles à la taxe foncière sur les propriétés bâties prévues aux articles 1607 bis, 1607 ter et 1609 B à 1609 G ;
+3° Des taxes spéciales d'équipement additionnelles à la taxe foncière sur les propriétés bâties prévues aux articles 1607 bis, 1607 ter et 1609 B à 1609 H ;
 
 4° Des impositions additionnelles à la taxe foncière sur les propriétés bâties levées conformément à l'article 1609 quater ;
 
 5° Des prélèvements opérés par l'Etat sur ces taxes et impositions en application de l'article 1641.
 
-III.-Le bénéfice du I du présent article est accordé aux personnes morales mentionnées au même I qui sont propriétaires de logements répondant aux conditions prévues aux 1° et 3° à 5° du I de l'article 279-0 bis A ou qui sont titulaires de leur usufruit.
+III.-Le bénéfice du I du présent article est accordé aux personnes morales mentionnées au même I qui sont propriétaires de logements répondant aux conditions prévues aux 1° et 3° à 5° du I de l'article 279-0 bis A ou qui sont titulaires de leur usufruit, à l'exception de la condition de location en exonération de la taxe sur la valeur ajoutée prévue au 1° du même I.
 
 IV.-Le I du présent article s'applique pendant une durée de vingt ans à compter de la première mise en recouvrement de la taxe foncière sur les propriétés bâties pour les logements mentionnés au III.
 
@@ -58,4 +58,4 @@ La société mère d'un groupe, au sens de l'article 223 A, déclare les créanc
 
 NOTA :
 
-Conformément au II de l'article 81 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux logements répondant aux conditions prévues aux 1° et 3° à 5° du I de l'article 279-0 bis A du code général des impôts dont la construction est achevée à compter du 1er janvier 2023.
+Les modalités d’application des présentes dispositions sont fixées au E du X de l’article 71 de la loi n° 2023-1322 du 29 décembre 2023.

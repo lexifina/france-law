@@ -1,16 +1,18 @@
 # Article 244 quater W
 
-I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A et 44 duodecies à 44 septdecies, exerçant une activité agricole ou une activité industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B, à l'exception des activités mentionnées au I quater du même article 199 undecies B. Pour les investissements afférents aux navires de croisière mentionnés au I quater de l'article 199 undecies B, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au même I quater. Pour les investissements réalisés dans le secteur du transport aérien ou maritime, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au I bis de l'article 199 undecies B.
+I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A et 44 duodecies à 44 septdecies, exerçant une activité agricole ou une activité industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B, à l'exception des activités mentionnées au I quater du même article 199 undecies B. Pour les investissements afférents aux navires de croisière mentionnés au I quater de l'article 199 undecies B, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au même I quater. Pour les investissements réalisés dans le secteur du transport aérien ou maritime, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au I bis de l'article 199 undecies B. Pour les investissements afférents à l'acquisition de friches hôtelières ou industrielles faisant l'objet de travaux de réhabilitation lourde mentionnés au I sexies du même article 199 undecies B, le crédit d'impôt s'applique sous réserve du respect des conditions prévues au même I sexies.
 
-Le crédit d'impôt prévu au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés lorsque ces travaux constituent des éléments de l'actif immobilisé.
+Le crédit d'impôt prévu au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés et aux travaux de réhabilitation lourde d'immeubles autres que ceux à usage d'habitation lorsque ces travaux constituent des éléments de l'actif immobilisé.
 
 Le crédit d'impôt prévu au premier alinéa s'applique également aux investissements affectés plus de cinq ans par le concessionnaire à l'exploitation d'une concession de service public local à caractère industriel et commercial et réalisés dans des secteurs éligibles.
 
 2. Le crédit d'impôt ne s'applique pas :
 
-a) A l'acquisition de véhicules de tourisme au sens de l'article L. 421-2 du code des impositions sur les biens et services qui ne sont pas strictement indispensables à l'activité ;
+a) A l'acquisition de véhicules de tourisme au sens de l'article L. 421-2 du code des impositions sur les biens et services qui ne sont pas strictement indispensables à l'exercice d'une activité aquacole, agricole, sylvicole ou minière. Toutefois, le crédit d'impôt s'applique aux investissements consistant en l'acquisition de véhicules de tourisme mentionnés à la troisième phrase du quinzième alinéa du I de l'article 199 undecies B ;
 
-b) Aux investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil.
+b) Aux investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil ne respectant pas les conditions prévues aux deuxième et dernière phrases du seizième alinéa du I de l'article 199 undecies B ;
+
+c) Aux investissements donnés en location ou mis à la disposition de ménages ou de syndicats de copropriétaires, y compris dans le cadre de contrats incluant la fourniture de prestations de services.
 
 3. Le crédit d'impôt est également accordé aux entreprises qui exploitent dans un département d'outre-mer des investissements mis à leur disposition dans le cadre d'un contrat de location avec option d'achat ou d'un contrat de crédit-bail, sous réserve du respect des conditions suivantes :
 
@@ -48,6 +50,10 @@ Pour les projets d'investissement comportant l'acquisition, l'installation ou l'
 
 Pour les investissements mentionnés au I quater de l'article 199 undecies B, l'assiette du crédit d'impôt est égale à 20 % de leur coût de revient, hors taxes et hors frais de toute nature, notamment les commissions d'acquisition et les frais de transport de ces investissements, diminuée du montant des aides publiques accordées pour leur financement.
 
+Pour les investissements consistant en l'acquisition de véhicules de tourisme mentionnés à la troisième phrase du quinzième alinéa du I du même article 199 undecies B, l'assiette du crédit d'impôt prévue au 1 du présent II est retenue dans la limite d'un montant fixé par décret, qui ne peut excéder 30 000 € par véhicule.
+
+Pour les investissements afférents à l'acquisition de friches hôtelières ou industrielles faisant l'objet de travaux de réhabilitation lourde mentionnés au I sexies de l'article 199 undecies B, l'assiette du crédit d'impôt est déterminée dans les conditions prévues au même I sexies.
+
 2. Lorsque l'investissement a pour objet de remplacer un investissement ayant bénéficié de l'un des dispositifs définis aux articles 199 undecies B et 217 undecies ou du crédit d'impôt défini au présent article, l'assiette du crédit d'impôt telle que définie au 1 est diminuée de la valeur réelle de l'investissement remplacé.
 
 3. (Abrogé).
@@ -62,7 +68,7 @@ III. – Le taux du crédit d'impôt est fixé à :
 
 2° 35 % pour les entreprises et les organismes soumis à l'impôt sur les sociétés.
 
-Le taux mentionné au 1° est porté à 45,9 % pour les investissements réalisés en Guyane et à Mayotte, dans les limites définies par les règles européennes relatives aux aides d'Etat. Toutefois, cette majoration de taux ne s'applique pas aux investissements mentionnés au dernier alinéa du 1 du II.
+Le taux mentionné au 1° est porté à 45,9 % pour les investissements réalisés en Guyane et à Mayotte, dans les limites définies par les règles européennes relatives aux aides d'Etat. Toutefois, cette majoration de taux ne s'applique pas aux investissements mentionnés au troisième alinéa du 1 du II.
 
 IV. – 1. Le bénéfice du crédit d'impôt prévu au 1 du I est accordé au titre de l'année au cours de laquelle l'investissement est mis en service.
 
@@ -86,7 +92,7 @@ VII. – Lorsque le montant total par programme d'investissements est supérieur
 
 Pour l'application du premier alinéa du présent VII, les conditions relatives à l'intérêt économique, d'une part, et à l'intégration dans la politique d'aménagement du territoire, de l'environnement et de développement durable, d'autre part, prévues, respectivement, aux a et c du 1 du III de l'article 217 undecies, sont réputées satisfaites lorsque le programme d'investissements porte sur des investissements mentionnés au second alinéa du 1 du II du présent article au titre desquels un contrat d'achat d'électricité a été conclu avec un fournisseur d'électricité mentionné au I de l'article R. 121-28 du code de l'énergie, après évaluation par la Commission de régulation de l'énergie en application du II du même article R. 121-28.
 
-VIII. – 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans, et porté à sept ans lorsque sa durée normale d'utilisation est égale ou supérieure à sept ans et à quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances. Ce délai est porté à dix ans pour les investissements portant sur les navires de croisière neufs d'une capacité maximum de 400 passagers.
+VIII. – 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans, et porté à sept ans lorsque sa durée normale d'utilisation est égale ou supérieure à sept ans et à quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances, en la construction ou la réhabilitation lourde d'immeubles autres que ceux à usage d'habitation ou en l'acquisition ou la construction d'immeubles exploités dans le cadre des activités mentionnées à la deuxième phrase du g du I de l'article 199 undecies B. Ce délai est porté à dix ans pour les investissements portant sur les navires de croisière neufs d'une capacité maximum de 400 passagers.
 
 Si, dans le délai ainsi défini, l'investissement ayant ouvert droit au crédit d'impôt est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, le crédit d'impôt fait l'objet d'une reprise au titre de l'exercice ou de l'année au cours duquel interviennent les événements précités.
 
@@ -100,9 +106,9 @@ b) Lorsque, en cas de défaillance de l'exploitant, les biens ayant ouvert droit
 
 Le présent 1 ne s'applique pas aux investissements mentionnés au 4 du I.
 
-2. Lorsque l'investissement revêt la forme de la construction d'un immeuble ou de l'acquisition d'un immeuble à construire, l'immeuble doit être achevé dans les deux ans suivant la date à laquelle les fondations sont achevées.
+2. Lorsque l'investissement revêt la forme de la construction d'un immeuble ou de l'acquisition d'un immeuble à construire, l'immeuble doit être achevé dans les trois ans suivant la date à laquelle les fondations sont achevées.
 
-A défaut, le crédit d'impôt acquis au titre de cet investissement fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient le terme de ce délai de deux ans.
+A défaut, le crédit d'impôt acquis au titre de cet investissement fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient le terme de ce délai de trois ans.
 
 En outre, lorsque l'investissement porte sur la construction ou l'acquisition d'un logement neuf, le crédit d'impôt acquis au titre de cet investissement fait l'objet d'une reprise au titre de l'année au cours de laquelle l'une des conditions prévues au 4 du I n'est plus respectée. Toutefois, la reprise du crédit d'impôt n'est pas effectuée lorsque, en cas de défaillance de l'entreprise ou de l'organisme, les logements ayant ouvert droit au crédit d'impôt sont repris par une autre entreprise ou organisme qui s'engage à louer les logements, dans les conditions prévues au même 4, pour la fraction de la durée minimale de location restant à courir.
 
@@ -112,7 +118,7 @@ En outre, lorsque l'investissement porte sur la construction ou l'acquisition d'
 
 Sont considérés comme à jour de leurs obligations fiscales et sociales les employeurs qui, d'une part, ont souscrit et respectent un plan d'apurement des cotisations restant dues et, d'autre part, acquittent les cotisations en cours à leur date normale d'exigibilité.
 
-IX. – 1. Le présent article est applicable aux investissements mis en service à compter du 1er janvier 2015, et jusqu'au 31 décembre 2025, aux travaux de réhabilitation hôtelière achevés au plus tard à cette date et aux acquisitions d'immeubles à construire et constructions d'immeubles dont les fondations sont achevées au plus tard à cette date.
+IX. – 1. Le présent article est applicable aux investissements mis en service à compter du 1er janvier 2015, et jusqu'au 31 décembre 2025, aux travaux de réhabilitation hôtelière et de réhabilitation lourde d'immeubles autres que ceux à usage d'habitation achevés au plus tard à cette date et aux acquisitions d'immeubles à construire et constructions d'immeubles dont les fondations sont achevées au plus tard à cette date.
 
 2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux entreprises et organismes mentionnés au 4 du I.
 
@@ -120,6 +126,6 @@ X. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect 
 
 NOTA :
 
-Conformément au A du II de l’article 14 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux investissements réalisés à compter du 1er janvier 2023.
+Conformément au F du X de l’article 71 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux immeubles dont les fondations sont achevées à compter du 1er janvier 2021.
 
-Conformément au B du II de l’article 14 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux investissements mis en service à La Réunion à compter d'une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat. Conformément à l'article 1 du décret n° 2024-270 du 26 mars 2024, cette date est fixée au lendemain de la publication du décret précité au Journal officiel de la République française, soit le 29 mars 2024.
+Les modalités d’application du présent article, dans sa rédaction issue de l’article 75 de la loi n° 2023-1322 du 29 décembre 2023, sont définies au V dudit article.

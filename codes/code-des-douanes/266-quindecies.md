@@ -20,6 +20,8 @@ Pour l'application du présent article :
 
 8° L'hydrogène renouvelable s'entend de celui défini au deuxième alinéa de l'article L. 811-1 du code de l'énergie ;
 
+8° bis L'hydrogène bas-carbone produit par électrolyse s'entend de l'hydrogène défini au troisième alinéa du même article L. 811-1, lorsqu'il est produit par électrolyse ;
+
 9° La biomasse s'entend de celle définie au 24 de l'article 2 de la directive ENR.
 
 Par dérogation aux 1° et 2° du présent I, l'éthanol diesel mentionné à l'article L. 312-80 du code des impositions sur les biens et services est pris en compte comme une essence.
@@ -38,7 +40,9 @@ Produits |
 
 Tarif
 
-(en euros par hectolitre) |
+(en euros par hectolitre)
+
+|
 
 Pourcentage cible |
 
@@ -46,19 +50,19 @@ Essences |
 
 140 |
 
-9,5 % |
+9,9 % |
 
 Gazoles |
 
 140 |
 
-8,6 % |
+9,2 % |
 
 Carburéacteurs |
 
 168 |
 
-1 % |
+1,5 % |
 
 V.-A.-La proportion d'énergie renouvelable désigne le quotient entre la quantité d'énergie renouvelable définie au B et la quantité d'énergie contenue dans les produits inclus dans l'assiette.
 
@@ -70,7 +74,7 @@ B.-1.-La quantité d'énergie renouvelable mentionnée au A est égale à la som
 
 2° Les quantités d'électricité d'origine renouvelable utilisées pour l'alimentation, en France, de véhicules routiers au moyen d'infrastructures de recharge ouvertes au public que le redevable exploite.
 
-3° Les quantités d'énergie contenues dans l'hydrogène renouvelable et utilisé dans l'une des conditions suivantes :
+3° Les quantités d'énergie contenues dans l'hydrogène renouvelable ou dans l'hydrogène bas-carbone produit par électrolyse utilisés dans l'une des conditions suivantes :
 
 a) L'hydrogène est fourni par le redevable en France pour l'alimentation des piles à combustible des moteurs électriques servant à la propulsion des véhicules ;
 
@@ -78,7 +82,7 @@ b) L'hydrogène est utilisé pour la production de produits inclus dans l'assiet
 
 c) L'hydrogène est utilisé par le redevable en France pour les besoins du raffinage de produits pétroliers ou de l'hydrotraitement de la biomasse.
 
-Les quantités d'énergie produites à partir de sources renouvelables et les quantités d'électricité d'origine renouvelable ainsi que les quantités d'énergies contenues dans l'hydrogène renouvelable, correspondant aux droits de comptabilisation acquis par le redevable conformément au VI sont ajoutées au montant obtenu. Celles cédées par le redevable conformément au même VI sont soustraites du montant obtenu.
+Les quantités d'énergie produites à partir de sources renouvelables et les quantités d'électricité d'origine renouvelable ainsi que les quantités d'énergies contenues dans l'hydrogène renouvelable ou dans l'hydrogène bas-carbone produit par électrolyse, correspondant aux droits de comptabilisation acquis par le redevable conformément au VI sont ajoutées au montant obtenu. Celles cédées par le redevable conformément au même VI sont soustraites du montant obtenu.
 
 Les quantités mentionnées aux 2° et 3° du présent 1 peuvent être comptabilisées indifféremment pour la liquidation de la taxe incitative relative aux essences ou pour celle relative aux gazoles, une même quantité ne pouvant être prise en compte qu'une seule fois.
 
@@ -94,7 +98,7 @@ L'électricité qui n'est pas fournie à partir d'une connexion directe à une i
 
 4. Pour l'application du 1, l'énergie renouvelable est comptabilisée uniquement lorsque les conditions suivantes sont remplies :
 
-1° La traçabilité des produits dans lesquels l'énergie renouvelable est contenue est assurée depuis leur production dans des conditions définies par décret, compte tenu de leurs caractéristiques propres et des règles de calcul particulières prévues aux C et E. L'application des règles de calcul plus avantageuses peut être subordonnée à des conditions de traçabilité plus strictes ;
+1° La traçabilité des produits dans lesquels l'énergie renouvelable est contenue ou des produits mentionnés à la dernière ligne du tableau du second alinéa du E est assurée depuis leur production jusqu'à la vente au consommateur final dans des conditions déterminées par décret, compte tenu de leurs caractéristiques propres et des règles de calcul particulières prévues aux C et E. L'application des règles de calcul plus avantageuses peut être subordonnée à des conditions de traçabilité plus strictes ;
 
 2° Les quantités d'électricité qui la contiennent sont mesurées et communiquées à l'administration dans des conditions définies par décret ;
 
@@ -136,9 +140,9 @@ Seuil pour les carburéacteurs |
 
 2. Égouts pauvres issus des plantes sucrières et obtenus après deux extractions sucrières et amidons résiduels issus des plantes riches en amidon, en fin de processus de transformation de l'amidon |
 
-1,0 % |
+1,1 % |
 
-1,0 % |
+1,1 % |
 
 aucun seuil |
 
@@ -154,7 +158,7 @@ aucun seuil |
 
 0,9 % |
 
-1 % |
+1,1 % |
 
 aucun seuil |
 
@@ -162,7 +166,7 @@ Les matières premières qui relèvent à la fois des catégories 1 et 2 du tabl
 
 1° Pour les quantités qui ne conduisent pas à excéder le seuil prévu pour la catégorie 2 :
 
-a) Les égouts pauvres sont pris en compte à hauteur de 50 % de leur contenu énergétique pour l'application du seuil prévu pour la catégorie 2 et à hauteur de 50 % pour l'application du seuil prévu pour la catégorie 1 ;
+a) Les égouts pauvres sont pris en compte à hauteur de 60 % de leur contenu énergétique pour l'application du seuil prévu pour la catégorie 2 et à hauteur de 40 % pour l'application du seuil prévu pour la catégorie 1 ;
 
 b) Les amidons résiduels sont pris en compte à hauteur de 100 % de leur contenu énergétique pour l'application du seuil prévu pour la catégorie 2 ;
 
@@ -176,9 +180,9 @@ Gazoles |
 
 Carburéacteurs |
 
-1,2 % |
+1,3 % |
 
-0,4 % |
+0,5 % |
 
 0 % |
 
@@ -208,7 +212,7 @@ aucun |
 
 2 |
 
-0,2 % |
+0,4 % |
 
 seuil prévu au C du présent V pour les mêmes matières |
 
@@ -224,7 +228,7 @@ aucun |
 
 sans objet |
 
-Hydrogène
+Hydrogène renouvelable
 
 |
 
@@ -236,15 +240,25 @@ aucun |
 
 sans objet |
 
+Energie des huiles végétales hydrotraitées issues des matières de catégorie 3 mentionnées à l'article 10 du règlement (CE) n° 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n° 1774/2002 (règlement relatif aux sous-produits animaux) |
+
+2 |
+
+0 % |
+
+20 % des quantités d'énergie contenues dans les produits suivants mis à la consommation en France ou déplacés à des fins commerciales vers la France : gazoles et essences utilisés pour les besoins de la pêche |
+
+0 % |
+
 VI.-1. Le redevable de la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports peut acquérir, y compris à titre onéreux, des droits de comptabilisation de quantités d'énergie renouvelable additionnelles, dans les conditions prévues au B du V, auprès des autres redevables de cette taxe ou des personnes qui exploitent des infrastructures de recharge ouvertes au public qui fournissent en France de l'électricité pour l'alimentation de véhicules routiers, qui fournissent de l'hydrogène pour les besoins mentionnés au a du 3° du 1 du B du V ou qui utilisent de l'hydrogène pour ceux mentionnés au c du même 3°.
 
-Les droits ainsi cédés sont comptabilisés pour la détermination de la quantité d'énergie renouvelable selon les modalités, prévues aux B à E du même V, applicables au titre de la même année aux matières sur lesquelles ces droits portent.
+Les droits ainsi cédés sont comptabilisés pour la détermination de la quantité d'énergie renouvelable selon les modalités, prévues aux B à E du même V, applicables au titre de la même année aux matières sur lesquelles ces droits portent. Toutefois, le seuil mentionné à la dernière ligne du tableau du second alinéa du E dudit V est apprécié au regard des quantités de gazoles et d'essences mises à la consommation ou déplacées à des fins commerciales par le cédant des droits.
 
 La cession de droits n'induit aucun changement du régime de propriété des quantités sur lesquelles ils portent. Elle n'induit, pour le cédant, aucune diminution de la quantité d'énergie contenue dans les produits inclus dans l'assiette de la taxe mentionnée au A dudit V et, pour l'acquéreur, aucune augmentation de cette même quantité.
 
 2. Les droits portant sur une même quantité d'énergie ne peuvent faire l'objet de plusieurs cessions.
 
-Lorsque le cédant est redevable de la taxe incitative, seuls peuvent être cédés les droits de comptabilisation de quantités qui conduisent, pour les besoins de la liquidation de la taxe qu'il doit, à excéder le pourcentage national cible d'incorporation d'énergie renouvelable dans les transports ou l'un des seuils prévus aux C à E du V.
+Lorsque le cédant est redevable de la taxe incitative, seuls peuvent être cédés les droits de comptabilisation de quantités qui conduisent, pour les besoins de la liquidation de la taxe qu'il doit, à excéder le pourcentage national cible d'incorporation d'énergie renouvelable dans les transports ou l'un des seuils prévus aux C à E du V. Toutefois, les quantités excédant le seuil mentionné à la dernière ligne du tableau du second alinéa du E du même V ne peuvent donner lieu à une cession de droit que lorsqu'elles conduisent à excéder le pourcentage national cible d'incorporation d'énergie renouvelable dans les transports.
 
 3. Le cédant est solidaire du paiement du supplément de taxe résultant du non-respect des conditions prévues au B du V.
 
@@ -268,4 +282,4 @@ X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martini
 
 NOTA :
 
-Conformément au A du II de l’article 67 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément au IV de l’article 95 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

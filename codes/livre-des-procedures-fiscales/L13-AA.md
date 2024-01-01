@@ -2,7 +2,7 @@
 
 I. – Les personnes morales établies en France :
 
-a) Dont le chiffre d'affaires annuel hors taxes ou l'actif brut figurant au bilan est supérieur ou égal à 400 millions d'euros, ou
+a) Dont le chiffre d'affaires annuel hors taxes ou l'actif brut figurant au bilan est supérieur ou égal à 150 millions d'euros, ou
 
 b) Détenant à la clôture de l'exercice, directement ou indirectement, plus de la moitié du capital ou des droits de vote d'une entité juridique – personne morale, organisme, fiducie ou institution comparable établie ou constituée en France ou hors de France – satisfaisant à l'une des conditions mentionnées au a, ou
 
@@ -96,6 +96,4 @@ Si la documentation requise n'est pas mise à sa disposition à cette date, ou n
 
 NOTA :
 
-Conformément aux dispositions du II de l'article 107 de la loi n° 2017-1837 du 30 décembre 2017, un décret fixe les conditions d'application du II de l'article L. 13 AA du livre des procédures fiscales.
-
-Conformément aux dispositions du IV du même article 107, les dispositions de l'article L. 13 AA s'appliquent aux exercices ouverts à compter du 1er janvier 2018.
+Conformément au III de l’article 116 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2024.

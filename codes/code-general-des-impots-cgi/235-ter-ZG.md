@@ -6,7 +6,7 @@ II.-La taxe est due par la personne qui réalise les opérations mentionnées au
 
 III.-Sont exonérés de la taxe d'archéologie préventive :
 
-1° Les constructions et aménagements mentionnés aux 1° à 4° et 8° à 10° du I de l'article 1635 quater D ;
+1° Les constructions et aménagements mentionnés aux 1° à 4° et 8° à 11° du I de l'article 1635 quater D ;
 
 2° Les aménagements liés à la pose et à l'exploitation de câbles sous-marins de transport d'information.
 
@@ -32,6 +32,4 @@ En cas de demande de la réalisation de diagnostic mentionnée à l'avant-dernie
 
 NOTA :
 
-Conformément à l'article 16 de l'ordonnance n° 2022-883 du 14 juin 2022, ces dispositions s'appliquent à compter de la date résultant du B du VI de l'article 155 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021.
-
-Se reporter aux conditions d'application prévues à l’article 1er du décret n° 2022-1102 du 1er août 2022.
+Conformément au A du IV de l’article 105 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux opérations pour lesquelles le fait générateur de la taxe d'archéologie préventive intervient à compter du 1er janvier 2024.

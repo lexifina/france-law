@@ -68,4 +68,10 @@ Pour l'appréciation des seuils mentionnés aux 1° et 2° du I, il est tenu com
 
 VIII. – L'option pour le bénéfice du régime défini au présent article est exclusive de celui des régimes prévus au I de l'article 41, au I ter de l'article 93 quater, aux articles 151 septies, 151 octies et 151 octies A, au II de l'article 151 nonies et aux articles 210 A à 210 C.
 
+VIII bis.-L'indemnité compensatrice versée à un agent général d'assurances exerçant à titre individuel par la compagnie d'assurances qu'il représente à l'occasion de la cessation du mandat bénéficie du régime mentionné au I du présent article si les conditions suivantes sont réunies :
+
+1° Le contrat dont la cessation est indemnisée a été conclu depuis au moins cinq ans au moment de la cessation ;
+
+2° L'agent général d'assurances cède son entreprise individuelle ou une branche complète d'activité.
+
 IX. – Les dispositions du présent article s'appliquent aux transmissions réalisées à compter du 1er janvier 2006.

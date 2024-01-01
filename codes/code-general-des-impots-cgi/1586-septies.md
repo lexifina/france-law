@@ -1,7 +1,7 @@
 # Article 1586 septies
 
-Le montant de la cotisation sur la valeur ajoutée des entreprises, après application de l'article 1586 quater, ne peut, pour les entreprises dont le chiffre d'affaires, au sens des articles 1586 quinquies et 1586 sexies, excède 500 000 €, être inférieur à 63 €.
+La cotisation sur la valeur ajoutée des entreprises n'est pas due lorsque son montant annuel n'excède pas 63 euros.
 
 NOTA :
 
-Conformément au D du XXVII de l’article 55 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent à la cotisation sur la valeur ajoutée des entreprises due par les redevables au titre de 2023.
+Conformément au I du IV de l'article 79 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à la cotisation sur la valeur ajoutée des entreprises due par les redevables au titre de 2024 à 2029.
