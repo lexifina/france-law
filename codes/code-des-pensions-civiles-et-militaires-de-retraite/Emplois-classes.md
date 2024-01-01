@@ -410,59 +410,81 @@ Observations
 
 |
 
-9965
+|
+
+Agent d'exploitation des travaux publics de l'Etat |
+
+Décret n° 2023-1410 du 30 décembre 2023
 
 |
 
-Agent d'exploitation des T. P. E.
+|
 
 |
 
-Décret n° 91-393 du 25.04.1991
-
-(J. O. du 26.04.1991)
+|
 
 |
 
-Décret n° 91-393 du 25.04.1991 Art. 35
-
-(J. O. du 26.04.1991)
+Agent d'exploitation principal des travaux publics de l'Etat |
 
 |
+
+Chef d'équipe d'exploitation principal des travaux publics de l'Etat |
+
+|
+
+Chef d'équipe d'exploitation divisionnaire des travaux publics de l'Etat |
+
+Décret n° 2023-1412
+
+du 30 décembre 2023 |
+
+Décret n° 2023-1412 du 30 décembre 2023 |
 
 Catégorie B
 
-60 ans
+62 ans
 
 |
 
 |
 
-9966
+|
+
+Agent d'exploitation de Voies navigables de France |
+
+Décret n° 2023-1411 du 30 décembre 2023
 
 |
 
-Agent d'exploitation spécialisé des T. P. E.
+|
+
+|
 
 |
 
 |
 
-Agent d'exploitation principal des TPE |
-
-9967
+Agent d'exploitation principal de Voies navigables de France |
 
 |
 
-Chef d'équipe d'exploitation des T. P. E.
+Chef d'équipe d'exploitation principal de Voies navigables de France |
 
 |
 
-9968
+Chef d'équipe d'exploitation divisionnaire de Voies navigables de France |
+
+Décret n° 2023-1413 du 30 décembre 2023 |
+
+Décret n° 2023-1413 du 30 décembre 2023 |
+
+Catégorie B
+
+62 ans
 
 |
-
-Chef d'équipe d'exploitation principal des T. P. E.
 
 |
 
