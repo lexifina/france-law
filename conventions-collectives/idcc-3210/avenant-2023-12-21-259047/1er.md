@@ -1,0 +1,179 @@
+# Article 1er
+
+Le 6e alinéa de l'article 40 de la convention collective concernant les salaires minima conventionnels est modifié comme suit :
+
+« Au 1er janvier 2024, les minima sont fixés comme suit :
+
+Grille des salaires annuels minima de branche pour une durée de travail correspondant à la durée légale du travail
+
+(En euros.)
+
+Niveau |
+
+Hors
+
+ancienneté
+
+< 5 ans |
+
+Tranche
+
+d'ancienneté
+
+= ou > 5 ans
+
+et < 10 ans |
+
+Tranche
+
+d'ancienneté
+
+= ou > 10 ans
+
+et < 15 ans |
+
+Tranche
+
+d'ancienneté
+
+= ou > 15 ans
+
+et < 20 ans |
+
+Tranche
+
+d'ancienneté
+
+= ou > 20 ans |
+
+A |
+
+21 976 |
+
+22 213 |
+
+22 882 |
+
+23 560 |
+
+24 264 |
+
+B |
+
+22 332 |
+
+22 573 |
+
+23 251 |
+
+23 954 |
+
+24 669 |
+
+C |
+
+22 804 |
+
+23 050 |
+
+23 743 |
+
+24 459 |
+
+25 184 |
+
+D |
+
+23 826 |
+
+24 071 |
+
+24 795 |
+
+25 535 |
+
+26 301 |
+
+E |
+
+24 953 |
+
+25 219 |
+
+25 977 |
+
+26 757 |
+
+27 560 |
+
+F |
+
+27 218 |
+
+27 512 |
+
+28 338 |
+
+29 189 |
+
+– |
+
+G |
+
+30 163 |
+
+30 464 |
+
+31 380 |
+
+32 351 |
+
+– |
+
+H |
+
+33 271 |
+
+33 605 |
+
+34 613 |
+
+– |
+
+– |
+
+I |
+
+40 652 |
+
+41 058 |
+
+42 286 |
+
+– |
+
+– |
+
+J |
+
+49 115 |
+
+49 604 |
+
+51 095 |
+
+– |
+
+– |
+
+K |
+
+58 437 |
+
+59 030 |
+
+60 799 |
+
+– |
+
+– |
