@@ -112,14 +112,6 @@ Demande d'autorisations de travaux en site classé |
 
 Code de l'environnement-Articles L. 341-7, L. 341-10 et R. 341-11 à R. 341-13 |
 
-Notification relative aux publicités ou, s'il y a lieu, aux préenseignes, soumises à déclaration préalable, relevant de l'Etat |
-
-Code de l'environnement-Articles L. 581-14-1 et L. 581-6-R. 581-6-R. 581-8-R. 581-14 |
-
-Demandes d'autorisation relatives aux publicités et enseignes soumises à autorisation préalable dont l'instruction relève de l'Etat, délivrées par l'Etat |
-
-Code de l'environnement-Articles L. 581-14-2, L. 581-9 et L. 581-18-R. 581-9-R. 581-10 |
-
 Autorisation de fourniture de gaz |
 
 Code de l'énergie-Article L. 443-1
