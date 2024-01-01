@@ -32,6 +32,10 @@ c) La présence de substances dangereuses ;
 
 d) L'incorporation de matière recyclée.
 
+2.2 Soutien aux projets de recherche et développement
+
+L’éco-organisme consacre sur la durée de l’agrément au moins 1 M€ au financement des projets de recherche et développement visant à développer la réparabilité des cycles et engins de déplacements personnel motorisés.
+
 3. Dispositions relatives à la collecte et au traitement des équipements électriques et électroniques
 
 3.1. Objectifs de collecte
@@ -280,7 +284,9 @@ Ce plan d'actions identifie les freins et leviers permettant d'augmenter la rép
 
 Pour les EEE ménagers, ce plan d'actions peut comporter des actions complémentaires à celles du fonds dédié au financement de la réparation des EEE.
 
-4.2. Objectifs cibles indicatifs de suivi de la progression du taux de réparation hors garantie
+4.2. Objectifs du plan d’action visant à développer la réparation
+
+4.2.1 Objectifs cibles indicatifs de suivi de la progression du taux de réparation hors garantie
 
 Les dispositions du plan d'action visant à développer la réparation des EEE, y compris celles du fonds dédié au financement de la réparation, visent une progression du taux de réparation hors garantie selon les objectifs indicatifs suivants :
 
@@ -316,6 +322,38 @@ Catégories mentionnées au II de l'article R. 543-172 : |
 
 En vue de permettre le suivi par l'ADEME de la progression globale du taux de réparation hors garantie, l'éco-organisme collecte les informations nécessaires au suivi de la progression du taux de réparation hors garantie, notamment auprès des réparateurs labellisés qui bénéficient du fonds dédié au financement de la réparation qu'il a mis en place.
 
+4.2.2 Nombre minimal de sites et de réparateurs itinérants labellisés dans le cadre du fonds réparation
+
+L’éco-organisme met en œuvre les actions nécessaires pour au moins atteindre les objectifs définis dans le tableau suivant :
+
+|
+
+Nombre minimal de sites (*) et de réparateurs itinérants labellisés
+
+dans le cadre du fonds réparation |
+
+Au plus tard le 31 décembre 2024 |
+
+7800 |
+
+Au plus tard le 31 décembre 2025 |
+
+10300 |
+
+Au plus tard le 31 décembre 2026 |
+
+12300 |
+
+Au plus tard le 31 décembre 2027 |
+
+14000 |
+
+(*) Un site est défini comme étant un lieu où le consommateur peut apporter son équipement pour le faire réparer et bénéficier du bonus réparation.
+
+L'éco-organisme met en œuvre les actions nécessaires afin d'assurer une répartition territoriale équilibrée des sites et réparateurs itinérants labellisés.
+
+Il s'assure notamment que chacune des collectivités régies par l'article 73 de la Constitution ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon fasse l'objet d'une couverture suffisante en sites et réparateurs itinérants labellisés.
+
 4.3. Montant des ressources financières allouées au fonds dédié au financement de la réparation
 
 Pour l'application de l'article R. 541-147, l'éco-organisme alloue annuellement, pour chacune des catégories pour lesquelles il est agréé, au moins le montant indiqué dans le tableau ci-dessous :
@@ -346,10 +384,6 @@ Total : 102 M € |
 
 23 M € |
 
-8-Cycles et engins de déplacement personnel motorisés (EEE) |
-
-0,04 M € |
-
 Les ressources financières mentionnées ci-dessus sont pondérées par un facteur multiplicatif de progressivité suivant le tableau ci-dessous :
 
 Année |
@@ -378,7 +412,37 @@ Facteur multiplicatif |
 
 0,92 |
 
-1 |
+1
+
+|
+
+Ressources financières allouées annuellement au fonds pour la catégorie 8-cycles et engins de déplacement personnel motorisés (EEE)
+
+|
+
+2024 |
+
+2025 |
+
+2026 |
+
+2027 |
+
+A partir de 2028 |
+
+24 M € |
+
+25 M € |
+
+26 M € |
+
+27 M € |
+
+20 M € |
+
+Outre les ressources minimales que l'éco-organisme alloue au fonds conformément à l'article L. 541-10-4, il consacre sur la durée de l'agrément au moins 1 M € au financement de la réparation réalisée avec la participation du consommateur dans les ateliers de réparation assistée pour la catégorie 8° de l'article R. 543-172.
+
+Les ressources financières mentionnées ci-dessus peuvent être utilisées par l’éco-organisme afin de cofinancer la formation au métier de réparateur. Ce cofinancement ne peut excéder un montant de 5 M€ par an pendant trois ans. L’éco-organisme élabore un bilan à l’issue des trois ans qu’il présente à l’autorité administrative qui jugera utile la prorogation de cette possibilité de cofinancement.
 
 Lorsque l'éco-organisme est agréé sur plusieurs catégories d'EEE, les ressources financières allouées à une catégorie d'équipements peuvent être allouées à une ou plusieurs autres catégories d'équipements, dans la limite de 50 % du montant alloué à cette première catégorie.
 
@@ -390,9 +454,33 @@ Lorsque les ressources financières pondérées prévues annuellement n'ont pas 
 
 L'éco-organisme évalue en lien avec l'ADEME tous les 2 ans à compter de la date de son agrément les ressources financières allouées au fonds. L'éco-organisme peut élaborer, après avis de son comité des parties prenantes, une proposition de modification des ressources financières allouées au fonds afin de tenir compte des résultats de cette étude.
 
-4.4. Modalités d'emploi des fonds dédié au financement de la réparation
+4.4. Modalités d’emploi des fonds dédiés au financement de la réparation et de labellisation des réparateurs
 
-Les modalités d'emploi des fonds sont élaborées dans les conditions prévues à l'articles R. 541-148. Elles permettent de participer au financement des coûts de réparations réalisées par un réparateur labellisé, y compris lorsque la réparation est réalisée avec la participation de l'utilisateur, notamment à distance, sous réserve que les conditions fixées à l'article R. 541-150 soient respectées.
+Les modalités d'emploi des fonds et de labellisation des réparateurs permettent de participer au financement des coûts de réparations réalisées par un réparateur labellisé, y compris lorsque la réparation est réalisée avec la participation du consommateur, notamment à distance.
+
+La réparation à distance s'entend comme l'accompagnement en visioconférence du consommateur par un professionnel qualifié qui couvre toute ou partie des étapes de la réparation et aboutit à la réparation d'un appareil en panne.
+
+Les modalités d'emploi des fonds et de labellisation des réparateurs sont élaborées dans les conditions prévues à l'article R. 541-148 et respectent les conditions fixées à l'article R. 541-150 ainsi que les conditions suivantes :
+
+1° Les critères de labellisation prévoient une clause de modération tarifaire. Pour l'année 2024 elle est conditionnée au maintien des tarifs publics hors taxe du réparateur constatés au 1er janvier 2023, hors prise en compte de l'inflation pour la période considérée ;
+
+2° Le reste à charge de labellisation supporté par les réparateurs proposant des services de réparation d'ordinateurs et d'équipements périphériques, d'équipements de communication, de produits électroniques grand public et d'appareils électroménagers, définis par les codes suivants de la Nomenclature d'Activités Française de l'artisanat, ne peuvent excéder un montant de 200 € hors taxes pour trois ans :
+
+-9511ZZ (Réparation d'ordinateurs) ;
+
+-9512ZZ (Réparation de produits de communication) ;
+
+-9521ZZ (Réparation de produits électroniques grand public) ;
+
+-9522ZB (Réparation d'appareils électroménagers).
+
+3° Les réparateurs qui sont labellisés au titre de la réparation des cycles à pédalage assisté et engins de déplacement personnel motorisés le sont également pour les produits remplissant une fonctionnalité similaire soumis à la filière REP des articles de sport et de loisirs ;
+
+4° La casse ou la panne d'un équipement, y compris les écrans de téléphones portables, résultant d'une utilisation involontairement non-conforme aux prescriptions ou spécifications du constructeur qui le conduit à être impropre à l'usage ou pouvant présenter des risques pour l'utilisateur est éligible au financement par le fond dédié à la réparation.
+
+Les éco-organismes peuvent définir des conditions d'accès au financement mentionné au précédent alinéa afin d'en limiter les usages abusifs. Ces conditions sont soumises à l'avis de l'autorité administrative ;
+
+5° L'éco-organisme prévoit une majoration de 20 % de la participation financière à la réparation en cas d'utilisation par le réparateur d'une pièce détachée issue de l'économie circulaire.
 
 L'éco-organisme évalue en lien avec l'ADEME dans un délai de 5 ans à compter de la date de son agrément la mise en œuvre du fonds et élabore une proposition de modification des modalités d'emploi du fonds afin de tenir compte des résultats de cette étude. Cette proposition est présentée pour avis à son comité des parties prenantes et au ministre chargé de l'environnement.
 
@@ -430,9 +518,19 @@ Les objectifs mentionnés au paragraphe 5.2.1 portent sur les quantités d'EEE u
 
 -et des opérations de collecte assurées par l'éco-organisme auprès de détenteurs professionnels ou ménagers, y compris, le cas échéant, celles qui sont assurées par des producteurs dans les conditions prévues en application de l'article R. 541-120.
 
-5.3. Fonds dédié au financement du réemploi et de la réutilisation
+5.3. Financement du réemploi et de la réutilisation
+
+5.3.1 Fonds dédié au financement du réemploi et de la réutilisation
 
 Conformément aux dispositions de l'article L. 541-10-5, l'éco-organisme créé un fonds dédié au financement du réemploi et de la réutilisation et fixe les conditions d'éligibilité des bénéficiaires ainsi que les critères et conditions d'attribution des financements aux opérateurs du réemploi et de la réutilisation. Ce fonds est créé dans les conditions prévues aux articles R. 541-154 et R. 541-156.
+
+Outre les ressources minimales que l’éco-organisme alloue au fonds conformément à l’article L. 541-10-5, l’éco-organisme consacre sur la durée de son agrément au moins 2 M€ aux actions complémentaires mentionnées au 5.1 concernant les produits de la catégorie 8o de l’article R. 543-172.
+
+5.3.2 Financement d’actions complémentaires visant le développement du réemploi et de la réutilisation
+
+Outre les ressources minimales que l’éco-organisme alloue au fonds conformément à l’article L. 541-10-5, il consacre sur la durée de son agrément au moins 5 M€ pour les opérations de réemploi et de réutilisation réalisées par des opérateurs du réemploi et de la réutilisation en relation avec l’éco-organisme.
+
+Ces financements sont attribués avec le fonds prévu au 5.3.1 ou sur la base de procédures d’appels à projet respectant les conditions prévues aux I et II de l’article L. 541-10-6 et de l’article R. 541-117, en précisant notamment les critères relatifs à la prise en compte du principe de proximité et au recours à l’emploi de personnes bénéficiant du dispositif d’insertion par l’activité économique prévu à l’article L. 5132-1 du code du travail.
 
 5.4. Mise à disposition des EEE usagés par les distributeurs
 
@@ -470,7 +568,7 @@ L'éco-organisme élabore des supports de communication destinés à sensibilise
 
 -les systèmes de collecte des EEE usagés et des DEEE mis à disposition des utilisateurs et détenteurs d'EEE, en particulier la reprise par les distributeurs des EEE usagés prévue à l'article L. 541-10-8 ;
 
--les possibilités de réparation des EEE dans le cadre du fonds défini à l'article L. 541-10-4 ;
+-les possibilités de réparation des EEE dans le cadre du fonds défini à l'article L. 541-10-4 et la promotion des métiers de réparateurs et réparatrices notamment des cycles et engins de déplacement personnel motorisés ;
 
 -les solutions de réemploi et de réutilisation des EEE usagés et des DEEE.
 
@@ -480,7 +578,9 @@ Lorsqu'il est agréé pour la catégorie 7 mentionnée au II de l'article R. 543
 
 Le cas échéant, l'éco-organisme établit avec les personnes concernées un contrat type tel que prévu à l'article R. 541-102 afin de contribuer à la prise en charge des coûts afférents à ces actions de communication.
 
-Pour la mise en place de ces actions d'information et de sensibilisation, l'éco-organisme consacre chaque année au moins 2 % du montant total des contributions financières qu'il perçoit.
+Pour la mise en place de ces actions d'information et de sensibilisation, l'éco-organisme consacre chaque année au moins 2 % du montant total des contributions financières qu'il perçoit pour les actions d’information et de sensibilisation ne portant pas sur le sujet de la réparation.
+
+Par ailleurs l’éco-organisme consacre chaque année au moins 1 % du montant total des contributions financières qu’il perçoit pour la réalisation de campagnes d’information et de sensibilisation d’envergure nationale et locales portant sur le fonds dédié au financement de la réparation. Ces campagnes peuvent être financées en utilisant les ressources financières allouées au fonds prévu au L. 541-10-4 dans la limite de 5 % de ces ressources.
 
 6.2. Participation financière de l'éco-organisme aux actions de communication des collectivités territoriales relatives aux EEE ménagers
 
@@ -519,3 +619,7 @@ Les éco-organismes peuvent se coordonner dès l'élaboration de leur dossier de
 Lorsque le contrat type unique relatif à la prise en charge des DEEE collectés par les collectivités dans le cadre du SPGD résultant de la coordination est différent de celui qui a été présenté dans son dossier de demande d'agrément, l'éco-organisme consulte son comité des parties prenantes, si celui-ci est déjà mis en place, sur le projet de contrat type unique. Il le transmet également pour avis à l'autorité administrative.
 
 (1) Pour mémoire, " […] Lorsque les marchés portent sur le recyclage ou le traitement de déchets en vue de leur recyclage, dans le cas où l'éco-organisme n'est pas détenteur du déchet, l'éco-organisme propose de reprendre les matières issues du traitement à un prix positif ou nul, ou de prendre en charge les risques financiers relatifs aux variations des prix de revente des matières issues du traitement ; dans le cas où l'éco-organisme est détenteur du déchet, le contrat entre l'éco-organisme et l'opérateur économique organise le partage du risque et de la valeur concernant les variations des prix des matières issues du traitement. "
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 10 novembre 2023 (NOR : TREP2310493A), ces dispositions entrent en vigueur le 1er janvier 2024.

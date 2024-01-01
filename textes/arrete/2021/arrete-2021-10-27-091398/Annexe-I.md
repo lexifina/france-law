@@ -50,6 +50,8 @@ L'éco-organisme réalise une étude portant sur les possibilités d'allonger la
 
 Dans les conditions prévues à l'article R. 541-118, l'éco-organisme contribue à des projets de recherche et développement publics ou privés visant à développer l'écoconception et la performance environnementale des articles de sport et de loisirs.
 
+L'éco-organisme consacre sur la durée de son agrément au moins 4 M € au financement des projets de recherche et développement visant à développer la réparabilité des cycles et engins de déplacements personnel non motorisés.
+
 Il remet au ministre chargé de l'environnement les résultats de ces projets au plus tard cinq ans à compter de la date de son agrément.
 
 3. Dispositions relatives à la collecte et au recyclage des articles de sport et de loisirs
@@ -232,11 +234,11 @@ Ressources financières allouées annuellement au fonds |
 
 Familles mentionnées au II de l'article R. 543-330 : |
 
-Total : 35 M € |
+Total : 21,6 M € |
 
 Cycles et engins de déplacement personnel non motorisés |
 
-34,4 M € |
+21 M € |
 
 Produits destinés à la pratique sportive et ceux destinés aux activités de plein air |
 
@@ -282,9 +284,17 @@ Pour l'application du dernier alinéa de l'article R. 541-148, lorsque plusieurs
 
 Lorsque les ressources financières pondérées prévues annuellement n'ont pas été intégralement versées au cours de l'exercice annuel considéré, le montant restant est réaffecté l'année suivante au fonds dédié au financement de la réparation.
 
-4.4. Modalités d'emploi des fonds
+Outre les ressources minimales que l'éco-organisme alloue au fonds conformément à l'article L. 541-10-4, il consacre sur la durée de l'agrément au moins 1 M € au financement de la réparation réalisée avec la participation du consommateur dans les ateliers de réparation assistée, pour la catégorie 1° de l'article R. 543-330.
+
+4.4. Modalités d'emploi des fonds dédiés au financement de la réparation et de labellisation des réparateurs
 
 Les modalités d'emploi des fonds sont élaborées dans les conditions prévues à l'articles R. 541-148. Elles permettent de participer au financement des coûts de réparations réalisées par un réparateur labellisé, y compris lorsque la réparation est réalisée avec la participation de l'utilisateur, notamment à distance, sous réserve que les conditions fixées à l'article R. 541-150 soient respectées.
+
+Les modalités d'emploi des fonds et de labellisation des réparateurs sont élaborées dans les conditions prévues à l'article R. 541-148 et respectent les conditions fixées à l'article R. 541-150 ainsi que les conditions suivantes :
+
+1° Les réparateurs qui sont labellisés au titre de la réparation des cycles le sont également pour les produits remplissant une fonctionnalité similaire soumis à la REP des équipements électriques et électroniques, sous réserve, qu'ils justifient de qualifications en électriques et électroniques ;
+
+2° L'éco-organisme prévoit une majoration de 20 % la participation financière à la réparation en cas d'utilisation par le réparateur d'une pièce détachée issue de l'économie circulaire.
 
 4.5. Etude à mi agrément relative à la réparation des articles de sport et de loisirs
 
@@ -308,7 +318,7 @@ Sur la base des résultats de cette étude, l'éco-organisme peut élaborer une 
 
 L'éco-organisme élabore un plan d'actions visant à développer le réemploi et la réutilisation des articles de sport et de loisirs usagés, notamment par le don, dans un délai de six mois à compter de la date de son premier agrément. Il transmet sa proposition pour accord à l'autorité administrative après consultation de son comité des parties prenantes dans les conditions prévues à l'article D. 541-94.
 
-Ce plan d'action peut comporter des actions complémentaires à celles des fonds dédiés au financement du réemploi et de la réutilisation des articles de sport et de loisirs notamment par le versement de soutiens financiers ou l'organisation de bourses aux articles de sport et de loisirs d'occasion.
+Ce plan d'action peut comporter des actions complémentaires à celles des fonds dédiés au financement du réemploi et de la réutilisation des articles de sport et de loisirs notamment par le versement de soutiens financiers ou l'organisation de bourses aux articles de sport et de loisirs d'occasion et soutenir les investissements dans de nouvelles structures de réutilisation/ réemploi.
 
 5.2. Objectifs de réemploi et réutilisation
 
@@ -362,9 +372,19 @@ Les objectifs mentionnés au présent paragraphe 5.2 portent sur les quantités 
 
 - de la reprise des articles de sport et de loisirs usagés réalisée par les distributeurs, par les clubs et associations sportives, ou lors d'événements sportifs, tel que prévu au paragraphe 5.4.
 
-5.3. Fonds dédié au financement du réemploi et de la réutilisation
+5.3. Financement du réemploi et de la réutilisation
+
+5.3.1 Fonds dédié au financement du réemploi et de la réutilisation
 
 Conformément aux dispositions de l'article L. 541-10-5, l'éco-organisme créé un fonds dédié au financement du réemploi et de la réutilisation et fixe les conditions d'éligibilité des bénéficiaires ainsi que les critères et conditions d'attribution des financements aux opérateurs du réemploi et de la réutilisation. Ce fonds est créé dans les conditions prévues aux articles R. 541-154 et R. 541-156.
+
+Outre les ressources minimales que l'éco-organisme alloue au fonds conformément à l'article L. 541-10-5, l'éco-organisme consacre sur la durée de son agrément au moins 3 M € aux actions complémentaires mentionnées au 5.1 concernant les produits de la catégorie 1° de l'article R. 543-330.
+
+5.3.2 Financement d'actions complémentaires visant le développement du réemploi et de la réutilisation
+
+Outre les ressources minimales que l'éco-organisme alloue au fonds conformément à l'article L. 541-10-5, il consacre sur la durée de son agrément au moins 7,5 M € pour les opérations de réemploi et de réutilisation réalisées par des opérateurs du réemploi et de la réutilisation en relation avec l'éco-organisme.
+
+Ces financements sont attribués avec le fonds prévu au 5.3.1 ou sur la base de procédures d'appels à projet respectant les conditions prévues aux I et II de l'article L. 541-10-6 et de l'article R. 541-117, en précisant notamment les critères relatifs à la prise en compte du principe de proximité et au recours à l'emploi de personnes bénéficiant du dispositif d'insertion par l'activité économique prévu à l'article L. 5132-1 du code du travail.
 
 5.4. Mise à disposition des articles de sport et loisirs usagés
 
@@ -394,22 +414,26 @@ Dans un délai de 3 mois à compter de l'échéance précitée, l'éco-organisme
 
 6. Information et sensibilisation
 
-L'éco-organisme organise au moins une fois par an, des campagnes d'information et de sensibilisation d'envergure nationale et locale construites pour inciter au réemploi et la réutilisation des articles de sport et de loisirs.
+L'éco-organisme organise au moins une fois par an, des campagnes d'information et de sensibilisation d'envergure nationale et locale construites pour inciter au réemploi, à la réutilisation et à la réparation des articles de sport et de loisirs.
 
 L'éco-organisme élabore des supports de communication destinés à sensibiliser le public sur :
 
-- le don aux opérateurs de réemploi et de la réutilisation pour les articles de sport et de loisirs pour permettre leur réemploi ou réutilisation ;
+-le don aux opérateurs de réemploi et de la réutilisation pour les articles de sport et de loisirs pour permettre leur réemploi ou réutilisation ;
 
-- la reprise par les distributeurs des articles de sport et de loisirs usagés prévue à l'article L. 541-10-8 ;
+-la reprise par les distributeurs des articles de sport et de loisirs usagés prévue à l'article L. 541-10-8 ;
 
-- les possibilités de réparation des articles de sport et de loisirs dans le cadre des fonds définis à l'article L. 541-10-4 ;
+-les possibilités de réparation des articles de sport et de loisirs dans le cadre des fonds définis à l'article L. 541-10-4 ;
 
-- les solutions de réemploi et de réutilisation des articles de sport et de loisirs usagés et des déchets des articles de sport et de loisirs.
+-la promotion des métiers de réparateurs et réparatrices des cycles et engins de déplacement personnel non motorisés ;
+
+-les solutions de réemploi et de réutilisation des articles de sport et de loisirs usagés et des déchets des articles de sport et de loisirs.
 
 Le cas échéant, il établit avec les personnes concernées un contrat type tel que prévu à l'article R. 541-102 afin de contribuer à la prise en charge des coûts afférents à ces actions de communication.
 
-Pour la mise en place de ces actions d'information et de sensibilisation, l'éco-organisme consacre chaque année au moins 2 % du montant total des contributions financières qu'il perçoit.
+L'éco-organisme contribue à des projets de campagnes et d'évènements promouvant la réparation et l'entretien des cycles et engins de déplacements personnel non motorisés.
+
+Pour la mise en place de ces actions d'information et de sensibilisation, l'éco-organisme consacre sur la durée de son agrément au moins 4 M €.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 14 décembre 2021 (NOR : TREP2129723A), ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 4 de l'arrêté du 10 novembre 2023 (NOR : TREP2310493A), ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -354,9 +354,13 @@ Pour l'application du dernier alinéa de l'article R. 541-148, lorsque plusieurs
 
 Lorsque les ressources financières pondérées prévues annuellement n'ont pas été intégralement versées au cours de l'exercice annuel considéré, le montant restant est réaffecté l'année suivante au fonds dédié au financement de la réparation.
 
-4.4. Modalités d'emploi des fonds
+4.4. Modalités d'emploi des fonds dédiés au financement de la réparation et de labellisation des réparateurs
 
 Les modalités d'emploi des fonds sont élaborées dans les conditions prévues à l'articles R. 541-148. Elles permettent de participer au financement des coûts de réparations réalisées par un réparateur labellisé, y compris lorsque la réparation est réalisée avec la participation de l'utilisateur, notamment à distance, sous réserve que les conditions fixées à l'article R. 541-150 soient respectées.
+
+Les modalités d'emploi des fonds et de labellisation des réparateurs au titre de la famille 2° mentionnée au II de l'article R. 543-340 sont élaborées dans les conditions prévues à l'article R. 541-148 et respectent les conditions fixées à l'article R. 541-150 ainsi que la condition suivante :
+
+1° L'éco-organisme prévoit une majoration de 20 % la participation financière à la réparation en cas d'utilisation par le réparateur d'une pièce détachée issue de l'économie circulaire.
 
 4.5. Etude à mi agrément relative à la réparation des articles de bricolage et de jardin
 
@@ -517,3 +521,7 @@ Lorsque le contrat type unique relatif à la prise en charge des déchets issus 
 Les éco-organismes agréés avant le 1er janvier 2024 poursuivent la mise en œuvre du contrat-type figurant dans leur dossier de demande d'agrément jusqu'à l'entrée en vigueur du contrat-type unique, et au plus tard jusqu'au 1er janvier de l'année suivant l'agrément de l'organisme coordonnateur.
 
 Les éco-organismes agréés transmettent trimestriellement à l'organisme coordonnateur les informations nécessaires à l'élaboration d'un état de synthèse de suivi des obligations de collecte.
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 10 novembre 2023 (NOR : TREP2310493A), ces dispositions entrent en vigueur le 1er janvier 2024.
