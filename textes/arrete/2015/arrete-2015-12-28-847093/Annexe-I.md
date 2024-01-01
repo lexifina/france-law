@@ -6,36 +6,36 @@ NOMBRE MAXIMAL D'EMPLOIS OUVRANT DROIT, PAR CATÉGORIE, À L'ATTRIBUTION DE L'IN
 
 CATÉGORIE |
 
-NOMBRE MAXIMAL D'EMPLOIS |
+NOMBRE MAXIMAL D'EMPLOI |
 
 Catégorie I |
 
-90 |
+105 |
 
 Catégorie II |
 
-230 |
+290 |
 
 Catégorie III |
 
-302 |
+522 |
 
 Catégorie IV |
 
-430 |
+590 |
 
 Catégorie V |
 
-571 |
+631 |
 
 Catégorie VI |
 
-680 |
+691 |
 
 Catégorie VII |
 
-4 030 |
+3931 |
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 22 décembre 2022 (NOR : IOMJ2226989A), ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 2 de l’arrêté du 6 décembre 2023 (NOR : IOMJ2325366A), ces dispositions entrent en vigueur le 1er janvier 2024.
