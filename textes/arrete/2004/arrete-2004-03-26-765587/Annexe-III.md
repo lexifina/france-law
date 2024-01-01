@@ -2,36 +2,68 @@
 
 Nombre de personnes |
 
-ZONE A |
+ZONE A (et Abis) |
 
-ZONES B ET C |
+ZONE B1 |
+
+ZONES B2 ET C |
 
 1 |
 
-33 400 |
+37 581 |
 
-25 318 |
+37 581 |
+
+32 673 |
 
 2 |
 
-46 759 |
+56 169 |
 
-33 761 |
+56 169 |
+
+43 633 |
 
 3 |
 
-53 440 |
+73 630 |
 
-39 052 |
+67 517 |
+
+52 471 |
 
 4 |
 
-60 788 |
+87 909 |
 
-43 273 |
+80 875 |
 
-5 ET PLUS |
+63 347 |
 
-69 340 |
+5 |
 
-47 482 |
+104 592 |
+
+95 739 |
+
+74 518 |
+
+6 |
+
+117 694 |
+
+107 738 |
+
+83 983 |
+
+Pers. suppl. |
+
+13 116 |
+
+12 005 |
+
+9 368 |
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 11 décembre 2024 (NOR : TREL2334003A), ces dispositions entrent en vigueur le 1er janvier 2024.
