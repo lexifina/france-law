@@ -1,8 +1,6 @@
 # Article 52 ter
 
-Le contingent annuel d'exportation de 153 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie et, d'autre part, entre les départements d'outre-mer et entre les distilleries, à compter du 1er janvier 2022 conformément au tableau ci-après :
-
-|
+Le contingent annuel d'exportation de 153 000 hectolitres d'alcool pur fixé par l'article 362 du code général des impôts est réparti, d'une part, entre rhum traditionnel agricole et rhum traditionnel de sucrerie et, d'autre part, entre les départements d'outre-mer et entre les distilleries, à compter du 1er janvier 2024 conformément au tableau ci-après :
 
 |
 
@@ -14,8 +12,6 @@ Contingent de rhum
 
 Département |
 
-Groupe |
-
 Nom ou raison sociale de la distillerie |
 
 Rhum traditionnel agricole |
@@ -26,17 +22,23 @@ Martinique |
 
 |
 
-56313,236 |
+57211,039 |
 
-11410,855 |
+11613,084 |
 
 |
 
-COFEPP |
-
 Distillerie Depaz à Saint Pierre |
 
-14414,239 |
+14020,839 |
+
+|
+
+|
+
+Distillerie Bellonie et Bourdillon à Rivière-Pilote |
+
+12457,709 |
 
 |
 
@@ -44,254 +46,204 @@ Distillerie Depaz à Saint Pierre |
 
 Distillerie des rhums martiniquais St James SA à Sainte-Marie |
 
-15186,721 |
+14785,032 |
 
 |
 
 |
-
-/ |
-
-Distillerie Bellonie et Bourdillon à Rivière-Pilote |
-
-12559,402 |
-
-|
-
-|
-
-/ |
 
 Distillerie du Simon à Le François |
 
-9409,725 |
+9993,539 |
 
 |
 
 |
-
-/ |
 
 Distillerie SCA Héritiers Crassous à Macouba |
 
-3713,257 |
+4746,987 |
 
 |
 
 |
-
-/ |
 
 Distillerie Neisson au Carbet |
 
-452,852 |
+599,794 |
 
 |
 
 |
-
-/ |
 
 Distillerie La Favorite à Fort-de-France |
 
-539,523 |
+517,473 |
 
 |
 
 |
-
-/ |
 
 SARL Rex à le François |
 
-37,517 |
+89,666 |
 
 |
 
 |
-
-/ |
 
 SAEM du Galion à la Trinité |
 
 |
 
-11410,855 |
+11613,084 |
 
 Guadeloupe |
 
 |
 
-18390,391 |
+18575,426 |
 
-36497,649 |
+35433,003 |
 
 |
-
-/ |
 
 Distillerie Bielle à Grand-Bourg |
 
-658,926 |
+793,617 |
 
 |
 
 |
-
-/ |
 
 Distillerie Bologne à Basse-Terre |
 
-3028,491 |
+3037,518 |
 
 |
 
 |
-
-/ |
 
 Distillerie Bellevue au Moule |
 
-7204,278 |
+7235,89 |
 
 |
 
 |
-
-/ |
 
 Distillerie Espérance à Capesterre-Belle-Eau |
 
-704,958 |
+712,503 |
 
 |
 
 |
-
-/ |
 
 Distillerie Montebello à Petit Bourg |
 
-1211,103 |
+1241,075 |
 
 |
 
 |
-
-/ |
 
 Distillerie Poisson à Grand Bourg (MG) |
 
-694,645 |
+525,599 |
 
 |
 
 |
-
-/ |
 
 Distillerie Bellevue à Sainte-Rose |
 
-996,243 |
+984,802 |
 
 |
 
 |
-
-/ |
 
 Distillerie de Bellevue-MG |
 
-3891,747 |
+4044,422 |
 
 |
 
 |
-
-/ |
 
 SA des sucreries et rhumeries MG à Grand Bourg |
 
 |
 
-7518,183 |
+7262,997 |
 
 |
-
-/ |
 
 Sucrerie de Gardel au Moule |
 
 |
 
-7773,024 |
+7706,886 |
 
 |
-
-/ |
 
 Société industrielle de sucrerie à Bonne-mère |
 
 |
 
-21206,442 |
+20463,12 |
 
 La Réunion |
 
 |
 
-0,000 |
+0 |
 
-29876,696 |
+29914,972 |
 
 |
-
-/ |
 
 Distillerie Isautier à St Pierre |
 
 |
 
-3140,186 |
+3205,144 |
 
 |
-
-/ |
 
 Distillerie de Savanna SA à St André |
 
 |
 
-9236,930 |
+9511,196 |
 
 |
 
-/ |
-
-Distillerie Rivière du Mât SA à St Benoît |
+Distillerie rivière du Mât SA à St Benoit |
 
 |
 
-17499,580 |
+17198,632 |
 
 Guyane |
 
 |
 
-511,173 |
+252,476 |
 
-0,000 |
+0 |
 
 |
 
-/ |
+SARL Rhums Saint-Maurice à Saint-Laurent-du-Maroni |
 
-SARL Rhums Saint-Maurice, à Saint-Laurent-du-Maroni |
+252,476
 
-511,173 |
+|
 
 |
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 17 décembre 2021 (NOR : CCPD2137289A), ces dispositions sont applicables à compter du 1er janvier 2022.
+Conformément à l’article 3 de l’arrêté du 19 juillet 2023 (NOR : ECOD2313476A), ces dispositions sont applicables à compter du 1er janvier 2024.
