@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent accord est applicable dans le champ dévolu au secteur sanitaire, social et médico-social privé à but non lucratif défini par l'avenant n° 3 à l'accord 2005-03 du 18 février 2005.
