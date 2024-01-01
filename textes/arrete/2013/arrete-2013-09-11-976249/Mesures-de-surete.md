@@ -352,7 +352,13 @@ d) Le système d'enregistrements relatifs au programme d'assurance qualité.
 
 II. - Le dispositif d'assurance qualité comporte un système de retour d'information aux responsables mentionnés au point 2 de l'article B-2.
 
-III. - L'entité citée à l'article B-1 établit un dispositif de rapport et d'analyse relatif aux incidents d'exécution des mesures de sûreté.
+III. - Les entités mentionnées à l'article B-1 :
+
+1. Etablissent un dispositif interne de rapport et d'analyse relatif aux événements intéressant la sûreté ;
+
+2. Sur la base de cette analyse, déterminent les mesures qui doivent, le cas échéant, être adoptées pour améliorer la sûreté ;
+
+3. Rapportent, dans des délais raisonnables, au ministre chargé de l'aviation civile, les événements intéressant la sûreté, leur analyse et les mesures d'amélioration adoptées ; les modalités de transmission sont consultables sur le site internet du ministre chargé de l'aviation civile.
 
 Article B-4 I-T - Sous-traitance d'une mesure de sûreté
 
@@ -363,6 +369,8 @@ II. - Lorsqu'une entité citée à l'article B-1 a recours à un sous-traitant, 
 III. - Lorsqu'une entité citée à l'article B-1 a recours à un sous-traitant, son dispositif d'assurance qualité tel que mentionné à l'article B-3 intègre le contrôle qualité de l'activité de ce sous-traitant, afin, notamment, de s'assurer du respect par ce dernier des obligations découlant de la réglementation de l'Union européenne et de la législation et réglementation nationales relatives à la sûreté de l'aviation civile.
 
 IV. - Lorsqu'une documentation liée à la mise en œuvre d'une mesure de sûreté est établie en application de la législation nationale et de la réglementation européenne ou nationale et lorsque ladite mesure de sûreté est sous-traitée, cette documentation fait mention du donneur d'ordre.
+
+V. - Les sous-traitants rapportent à leur donneur d'ordre les événements intéressant la sûreté, leur analyse et, le cas échéant, les mesures d'amélioration adoptées.
 
 Article B-5 I-T - Modalités de recrutement et de formation du personnel
 
@@ -1585,6 +1593,8 @@ I. - Les attestations individuelles de formation contiennent au minimum les info
 - la date et le lieu de la délivrance de chaque cours ou formation, ainsi que, hors cas de formation sur ordinateur sans le soutien d'un instructeur, le nom de l'instructeur et sa signature ou celle de son employeur, ou lorsque l'instructeur intervient en tant que sous-traitant, celle de son donneur d'ordre ;
 
 - le nom et la signature de l'employeur de la personne formée ; cette dernière disposition ne s'applique pas aux attestations de formation initiale établies préalablement à l'embauche de l'agent.
+
+Pour les formations périodiques hors imagerie, l'attestation doit faire apparaitre de façon distincte les informations relatives à la partie théorique et celles relatives à la partie pratique.
 
 II. - Les attestations relatives à la formation des personnes ayant un rôle ou une responsabilité en lien avec les cybermenaces telle que prévue au point 11.2.8 de l'annexe du règlement (UE) 2015/1998 modifié de la Commission du 5 novembre 2015 mentionné ci-dessus peuvent ne contenir que les informations suivantes :
 
@@ -5599,3 +5609,7 @@ ancien article 12-11-2
 |
 
 |
+
+NOTA :
+
+Conformément au premier alinéa de l’article 4 de l’arrêté du 8 décembre 2023 (NOR : TREA2322766A), ces dispositions entrent en vigueur le 1er janvier 2024.
