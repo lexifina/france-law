@@ -4,11 +4,11 @@ Le supplément familial de traitement comprend un élément fixe et un élément
 
 Pour les personnels rémunérés par un traitement indiciaire établi en application de l'article 2 du présent décret, l'élément proportionnel est calculé en pourcentage dudit traitement.
 
-Les pourcentages fixés pour l'élément proportionnel s'appliquent à la fraction du traitement assujetti à retenue pour pension n'excédant pas le traitement afférent à l'indice majoré 717 (indice brut 879).
+Les pourcentages fixés pour l'élément proportionnel s'appliquent à la fraction du traitement assujetti à retenue pour pension n'excédant pas le traitement afférent à l'indice brut 879.
 
-Les agents dont l'indice de rémunération est inférieur ou égal à l'indice majoré 449 (indice brut 524) perçoivent le supplément familial de traitement afférent à cet indice.
+Les agents dont l'indice de rémunération est inférieur ou égal à l'indice brut 524 perçoivent le supplément familial de traitement afférent à cet indice.
 
-Pour les personnels non rémunérés par un traitement établi en application de l'article 2 précité, l'élément proportionnel est calculé en pourcentage du traitement afférent à l'indice majoré 449 (indice brut 524).
+Pour les personnels non rémunérés par un traitement établi en application de l'article 2 précité, l'élément proportionnel est calculé en pourcentage du traitement afférent à l'indice brut 524.
 
 L'élément fixe et l'élément proportionnel visés au premier alinéa ci-dessus sont, en fonction du nombre des enfants à charge, fixés ainsi qu'il suit :
 
@@ -79,3 +79,7 @@ Par enfant au-delà du troisième
 6
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2023-519 du 28 juin 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

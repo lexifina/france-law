@@ -1,6 +1,6 @@
 # Article Barème B
 
-TRAITEMENTS ANNUELS BRUTS SOUMIS À RETENUE POUR PENSION À COMPTER DU 1ER JUILLET 2023.
+TRAITEMENTS ANNUELS BRUTS SOUMIS À RETENUE POUR PENSION À COMPTER DU 1ER JANVIER 2024.
 
 INDICES
 
@@ -9,26 +9,6 @@ majorés |
 TRAITEMENTS ANNUELS BRUTS
 
 soumis à retenue pour pension (en euros) |
-
-203 |
-
-11 991,90 |
-
-204 |
-
-12 050,97 |
-
-205 |
-
-12 110,05 |
-
-206 |
-
-12 169,12 |
-
-207 |
-
-12 228,19 |
 
 208 |
 
@@ -2522,6 +2502,26 @@ soumis à retenue pour pension (en euros) |
 
 49 030,92 |
 
+831 |
+
+49 090,00 |
+
+832 |
+
+49 149,07 |
+
+833 |
+
+49 208,14 |
+
+834 |
+
+49 267,22 |
+
+835 |
+
+49 326,29 |
+
 NOTA :
 
-Conformément à l'article 3 du décret n° 2023-519 du 28 juin 2023, ces dispositions entrent en vigueur le 1er juillet 2023.
+Conformément à l'article 3 du décret n° 2023-519 du 28 juin 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
