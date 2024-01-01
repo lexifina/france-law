@@ -1404,6 +1404,46 @@ Chef de cuisine |
 
 1 |
 
+03 |
+
+Ecole de gendarmerie de Montluçon |
+
+Adjoint au chef de la cellule diffusion |
+
+1 |
+
+52 |
+
+Ecole de gendarmerie de Chaumont |
+
+Adjoint au chef de cuisine |
+
+1 |
+
+59 |
+
+Région de gendarmerie Hauts-de-France-Lille |
+
+Adjoint au chef du service général |
+
+1 |
+
+77 |
+
+Ecole des officiers de la gendarmerie nationale de Melun |
+
+Maître d'hôtel |
+
+1 |
+
+973 |
+
+Commandement de la gendarmerie de la Guyane-Cayenne |
+
+Chef de cuisine |
+
+1 |
+
 Périmètre police nationale
 
 Compagnies républicaines de sécurité
@@ -1625,3 +1665,7 @@ Direction de la transformation numérique/ SDENTAT/ CNSN Lognes |
 Responsable de la cellule fabrication CNI |
 
 1 |
+
+NOTA :
+
+Conformément au d) du 1° de l'article 2 de l'arrêté du 16 décembre 2022 (NOR : IOMA2229904A) ces dispositions entrent en vigueur le 1er janvier 2024.
