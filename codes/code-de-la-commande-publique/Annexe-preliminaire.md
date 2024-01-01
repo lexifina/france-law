@@ -104,7 +104,7 @@ Arrêté relatif au fonctionnement et à la composition de l'observatoire écono
 
 Annexe n° 17 |
 
-Arrêté relatif au recensement économique de la commande publique
+Arrêté du 22 décembre 2022 relatif aux données essentielles des contrats de concession
 
 |
 
@@ -416,19 +416,19 @@ Article R. 2196-4
 
 |
 
-Annexe n° 17 : Arrêté relatif au recensement économique de la commande publique |
+Annexe n° 17 : Arrêté relatif aux données essentielles des contrats de concession |
 
 Article D. 2196-6
 
 |
 
-Annexe n° 17 : Arrêté relatif au recensement économique de la commande publique |
+Annexe n° 17 : Arrêté relatif aux données essentielles des contrats de concession |
 
 Article D. 2196-7
 
 |
 
-Annexe n° 17 : Arrêté relatif au recensement économique de la commande publique |
+Annexe n° 17 : Arrêté relatif aux données essentielles des contrats de concession |
 
 Article R. 2197-3
 
@@ -594,6 +594,12 @@ Annexe n° 2 : Avis relatif aux seuils de procédure et à la liste des autorit�
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 12 février 2020 (NOR : ECOM2004461A), ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 13 de l'arrêté du 22 décembre 2022 (NOR : ECOM2235715A), ces dispositions entrent en vigueur le 1er janvier 2024 sur l'ensemble du territoire de la République.
 
-Elles s'appliquent aux marchés publics pour lesquels un avis de marché est envoyé à la publication à compter de sa date d'entrée en vigueur.
+Elles s'appliquent aux marchés publics notifiés à compter de sa date d'entrée en vigueur.
+
+Le recensement économique des marchés publics notifiés avant cette date est réalisé selon les modalités fixées par l'arrêté du 22 mars 2019 relatif au recensement économique de la commande publique.
+
+Conformément à l'article 12 de l'arrêté du 22 décembre 2022 (NOR : ECOM2235716A), ces dispositions entrent en vigueur le 1er janvier 2024 sur l'ensemble du territoire de la République.
+
+Elles s'appliquent aux contrats de concession conclus à compter de sa date d'entrée en vigueur.
