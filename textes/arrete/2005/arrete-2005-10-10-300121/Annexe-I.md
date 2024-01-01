@@ -1,6 +1,6 @@
 # Article Annexe I
 
-EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER SEPTEMBRE 2023
+EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER JANVIER 2024
 
 CABINET DU MINISTRE |
 
@@ -16,9 +16,19 @@ Catégorie |
 
 |
 
-FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE
+FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
+
+|
+
+|
+
+|
 
 AU TITRE DE LA MODERNISATION |
+
+|
+
+|
 
 |
 
@@ -50,6 +60,10 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
+|
+
+|
+
 Adjoint au chef de service de la mission des archives de France (MAF) |
 
 A |
@@ -59,6 +73,10 @@ A |
 |
 
 AU TITRE DES ATTRIBUTIONS FINANCIERES COMPTABLES ET JURIDIQUES |
+
+|
+
+|
 
 |
 
@@ -79,6 +97,10 @@ B |
 |
 
 FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
+
+|
+
+|
 
 |
 
@@ -126,6 +148,14 @@ FONCTIONS D'ACCUEIL |
 
 |
 
+|
+
+|
+
+|
+
+|
+
 Huissier ministre |
 
 C |
@@ -160,7 +190,15 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
+
+|
+
+|
 
 |
 
@@ -172,15 +210,23 @@ B |
 
 |
 
-FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES
+FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES |
+
+|
 
 ET DE RESPONSABILITES PARTICULIERES |
+
+|
 
 |
 
 Secrétaire général adjoint |
 
 A |
+
+|
+
+|
 
 |
 
@@ -204,7 +250,15 @@ FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
 
 |
 
+|
+
+|
+
 EMPLOIS DE SECRETARIAT |
+
+|
+
+|
 
 |
 
@@ -232,13 +286,25 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DES COMPETENCES TECHNIQUES |
+
+|
+
+|
 
 |
 
 Adjoint au chef de cabinet en charge de la politique de sécurité des systèmes informatiques |
 
 A |
+
+|
+
+|
 
 |
 
@@ -266,7 +332,15 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
+
+|
+
+|
 
 |
 
@@ -282,15 +356,19 @@ FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
 
 |
 
-Chargé de mission |
+|
+
+|
+
+Chef de cabinet |
 
 A |
 
-|
-
-|
-
 EMPLOIS DE SECRETARIAT |
+
+|
+
+|
 
 |
 
@@ -326,7 +404,15 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DE LA MODERNISATION |
+
+|
+
+|
 
 |
 
@@ -343,6 +429,10 @@ A |
 |
 
 AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
+
+|
+
+|
 
 |
 
@@ -390,6 +480,10 @@ FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
 
 |
 
+|
+
+|
+
 Chef de cabinet |
 
 A |
@@ -401,6 +495,10 @@ B |
 Secrétaire du directeur |
 
 B |
+
+|
+
+|
 
 |
 
@@ -430,9 +528,19 @@ Catégorie |
 
 |
 
-FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE
+FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
+
+|
+
+|
+
+|
 
 AU TITRE DE LA MODERNISATION |
+
+|
+
+|
 
 |
 
@@ -444,7 +552,7 @@ Chef de la section production et animation pédagogique (SDRF/ BCNF) |
 
 A |
 
-Chef de la mission projet professionnel (MPP) |
+Chef de la section accompagnement des parcours (BPP) |
 
 A |
 
@@ -453,6 +561,10 @@ A |
 |
 
 AU TITRE DES ATTRIBUTIONS FINANCIERES COMPTABLES ET JURIDIQUES |
+
+|
+
+|
 
 |
 
@@ -480,131 +592,131 @@ Adjoint au chef du bureau du centre national de la formation (SDRF/ BCNF) |
 
 A |
 
-Adjoint au chef de la section paie des personnels administratifs et techniques (BPRI) |
+Chef de la mission CIF (MIPPAR) |
 
 A |
 
-Adjoint au chef de la section paie des personnels administratifs et techniques (BPRI) |
+Adjoint au chef de la section accompagnement des parcours (BPP) |
+
+A |
+
+Chef de la section des contractuels et des emplois non permanents (BPP) |
+
+A |
+
+Adjoint au chef de la section des contractuels et des emplois non permanents (BPP) |
+
+A |
+
+Responsable des contrats (BPP) |
 
 B |
 
-Chef de la section paie des personnels administratifs et techniques (BPRI) |
+Chef de la section sécurité routière (BGPS) |
 
 A |
 
-Chef de la section paie des actifs de la police nationale (BPRI) |
+Adjoint au chef de la section sécurité routière (BGPS) |
 
 A |
 
-Adjoint au chef de la section paie des actifs de la police nationale (BPRI) |
-
-B |
-
-Chef de la section encadrement supérieur et personnels des SGAR (BPRI) |
+Chef de la section de la filière numérique (BGPS) |
 
 A |
 
-Chef du pôle de l'encadrement supérieur (BPRI) |
+Adjoint au chef de la section de la filière numérique (BGPS) |
 
 A |
 
-Chef de la section des personnels contractuels (BPRI) |
+Chef de la section de la filière technique, ouvriers d'État et filière médico-sociale (BGPS) |
 
 A |
 
-Adjoint au chef de la section des personnels contractuels (BPRI) |
+Adjoint au chef de la section de la filière technique chargé du pôle C et OE (BGPS) |
 
 A |
 
-Responsable des contrats (BPRI) |
-
-B |
-
-Chef de la mission CIF (BPRI) |
+Adjoint au chef de la section filière technique chargé de la filière ST et médico-sociale (BGPS) |
 
 A |
 
-Chef de la section sécurité routière (BPTS) |
+Chef de la section paie des actifs de la police nationale (BGPS) |
 
 A |
 
-Adjoint au chef de la section sécurité routière (BPTS) |
+Adjoint au chef de la section paie des actifs de la police nationale (BGPS) |
+
+C |
+
+Chef de la section politique indemnitaire (BGPS) |
 
 A |
 
-Chef de la section des personnels SIC (BPTS) |
+Adjoint au chef de la section politique indemnitaire (BGPS) |
 
 A |
 
-Adjoint au chef de la section des personnels SIC (BPTS) |
+Chef de la section médico-disciplinaire (BDRH-RS) |
 
 A |
 
-Chef de la section des personnels techniques et spécialisés (BPTS) |
+Adjoint au chef de la section médico-disciplinaire (BDRH-RS) |
 
 A |
 
-Adjoint au chef de la section des personnels techniques chargé du pôle C technique (BPTS) |
+Chef de la section du droit des statuts et des ressources humaines (BDRH-RS) |
 
 A |
 
-Chef de la section des affaires transversales (BPTS) |
+Adjoint au chef de la section du droit des statuts et des ressources humaines (BDRH-RS) |
 
 A |
 
-Chef de la section des affaires générales (BAGES) |
+Chef de la section dialogue social ministériel et des DDI (BDRH-RS) |
 
 A |
 
-Adjoint au chef de la section des affaires générales (BAGES) |
+Adjoint au chef de la section dialogue social ministériel et des DDI (BDRH-RS) |
 
 A |
 
-Chef de la section du droit des statuts et des ressources humaines (BAGES) |
+Chef de la section A (BGPA) |
 
 A |
 
-Adjoint au chef de la section du droit des statuts et des ressources humaines (BAGES) |
+Adjoint au chef de la section A (BGPA) |
 
 A |
 
-Chef de la section dialogue social (BAGES) |
+Chef de la section B (BGPA) |
 
 A |
 
-Adjoint au chef de la section dialogue social (BAGES) |
+Adjoint au chef de la section B (BGPA) |
 
 A |
 
-Chef de la section A (BPA) |
+Chef de la section C (BGPA) |
 
 A |
 
-Chef de la section B (BPA) |
+Adjoint au chef de la section C (BGPA) |
 
 A |
 
-Chef de la section C (BPA) |
+Chef de la section indemnitaire, paye secondaire et juridique (BGPA) |
 
 A |
 
-Adjoint au chef de la section A (BPA) |
+Adjoint au chef de la section indemnitaire, paye secondaire et juridique (BGPA) |
 
 A |
 
-Adjoint au chef de la section B (BPA) |
+Chef de section mobilité et emplois fonctionnels (BPP) |
 
 A |
 
-Adjoint au chef de la section C (BPA) |
-
-A |
-
-Chef du pôle mobilité centrale (BPA) |
-
-A |
-
-Chef de section délégués du Préfet et pilotage stratégique (BPA) |
+Adjoint au chef de section mobilité et emplois fonctionnels (BPP) |
 
 A |
 
@@ -632,6 +744,10 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
+|
+
+|
+
 Chef de la section de la préparation aux concours (BRPP/ SDRF) |
 
 A |
@@ -648,6 +764,10 @@ FONCTIONS D'ACCUEIL |
 
 |
 
+|
+
+|
+
 Correspondant handicap national (BCVTPH/ SDASAP) |
 
 A |
@@ -661,6 +781,10 @@ B |
 |
 
 FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
+
+|
+
+|
 
 |
 
@@ -716,9 +840,17 @@ EMPLOIS DE SECRETARIAT |
 
 |
 
+|
+
+|
+
 Secrétariat du directeur (DIR) |
 
 B |
+
+|
+
+|
 
 |
 
@@ -750,7 +882,15 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DE LA MODERNISATION |
+
+|
+
+|
 
 |
 
@@ -771,6 +911,10 @@ AU TITRE DES FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES |
 |
 
 ET DE RESPONSABILITES PARTICULIERES |
+
+|
+
+|
 
 Adjoint au chef du bureau de la synthèse du patrimoine et de la stratégie (BSPS) |
 
@@ -856,6 +1000,10 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES ET COMPTABLES |
 
 |
 
+|
+
+|
+
 Adjoint au chef du bureau de la gestion des sites de l'administration centrale (BGSAC) |
 
 A |
@@ -928,6 +1076,10 @@ AU TITRE DES FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE AU TITRE DES COMPE
 
 |
 
+|
+
+|
+
 Adjoint au chef du bureau de la performance et de la gestion des programmes (BPGP) |
 
 A |
@@ -944,6 +1096,10 @@ EMPLOIS DE SECRETARIAT |
 
 |
 
+|
+
+|
+
 Responsable de la coordination des secrétariats de la DEPAFI |
 
 C |
@@ -955,6 +1111,14 @@ C |
 Assistante de direction du secrétariat |
 
 C |
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -977,6 +1141,10 @@ Libellé |
 Catégorie |
 
 FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
+
+|
+
+|
 
 |
 
@@ -1062,6 +1230,10 @@ EMPLOIS DE SECRETARIAT |
 
 |
 
+|
+
+|
+
 Assistante de direction du DTNUM |
 
 C |
@@ -1094,7 +1266,15 @@ FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
 
 |
 
+|
+
+|
+
 EMPLOIS DE SECRETARIAT |
+
+|
+
+|
 
 |
 
@@ -1110,7 +1290,15 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DES COMPETENCES TECHNIQUES |
+
+|
+
+|
 
 |
 
@@ -1140,6 +1328,10 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DE LA MODERNISATION |
 
 |
@@ -1157,6 +1349,10 @@ A |
 |
 
 AU TITRE DES COMPETENCES TECHNIQUES |
+
+|
+
+|
 
 |
 
@@ -1212,7 +1408,15 @@ FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
 
 |
 
+|
+
+|
+
 EMPLOIS DE SECRETARIAT |
+
+|
+
+|
 
 |
 
@@ -1227,10 +1431,6 @@ C |
 Chef de section au bureau de l'instruction et de l'action administratives |
 
 A |
-
-|
-
-|
 
 |
 
@@ -1252,7 +1452,15 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DE LA MODERNISATION |
+
+|
+
+|
 
 |
 
@@ -1270,6 +1478,10 @@ A |
 
 AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
 
+|
+
+|
+
 Chef du bureau de la coordination du service de l'administration générale |
 
 A |
@@ -1281,6 +1493,10 @@ A |
 Adjoint au chef du bureau du pilotage des emplois et de la masse salariale de la sous-direction des finances et du soutien opérationnel |
 
 A |
+
+|
+
+|
 
 |
 
@@ -1304,7 +1520,15 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DE LA MODERNISATION |
+
+|
+
+|
 
 |
 
@@ -1336,6 +1560,10 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
 
 |
 
+|
+
+|
+
 Rédacteur chargé de la répartition de dotations financières |
 
 B |
@@ -1364,9 +1592,9 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
-Webmestre |
+Adjoint au chef du bureau des budgets locaux et de l'analyse financière |
 
-B |
+A |
 
 Gestionnaire de dotations aux collectivités et chargé (e) de la synthèse budgétaire |
 
@@ -1380,9 +1608,13 @@ A |
 
 |
 
-FONCTIONS ASSORTIES DE CONTRAINTES
+FONCTIONS ASSORTIES DE CONTRAINTES |
+
+|
 
 ET DE RESPONSABILITES PARTICULIERES |
+
+|
 
 |
 
@@ -1398,13 +1630,21 @@ A |
 
 |
 
-FONCTIONS D'ENCADREMENT ASSORTIES DE CONTRAINTES
+FONCTIONS D'ENCADREMENT ASSORTIES DE CONTRAINTES |
+
+|
 
 ET DE RESPONSABILITES PARTICULIERES |
 
 |
 
+|
+
 EMPLOIS DE SECRETARIAT |
+
+|
+
+|
 
 |
 
@@ -1424,6 +1664,10 @@ FONCTIONS D'ACCUEIL |
 
 |
 
+|
+
+|
+
 Responsable de la coordination du logiciel " Elise " de gestion et de suivi du courrier |
 
 B |
@@ -1436,7 +1680,7 @@ C |
 
 |
 
-DIRECTION GENERALE DE LA SECURITE CIVILE
+DIRECTION GENERALE DE LA SECURITE CIVILE |
 
 ET DE LA GESTION DES CRISES |
 
@@ -1456,7 +1700,15 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DES COMPETENCES TECHNIQUES |
+
+|
+
+|
 
 |
 
@@ -1464,7 +1716,7 @@ Adjoint au chef du bureau des ressources humaines et financières pour les resso
 
 A |
 
-Chef de la section " gestion des personnels administratifs, techniques STM et SIC, contractuels et ouvriers d'Etat " |
+Chef de la section " gestion des personnels administratifs, techniques STM et SIC, contractuels et ouvriers d'État " |
 
 A |
 
@@ -1493,6 +1745,10 @@ A |
 |
 
 AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
+
+|
+
+|
 
 |
 
@@ -1536,9 +1792,13 @@ A |
 
 |
 
-FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES
+FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES |
+
+|
 
 ET DE RESPONSABILITES PARTICULIERES |
+
+|
 
 |
 
@@ -1566,6 +1826,10 @@ B |
 
 |
 
+|
+
+|
+
 PRESIDENCE DE LA REPUBLIQUE |
 
 |
@@ -1584,7 +1848,15 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DES COMPETENCES TECHNIQUES |
+
+|
+
+|
 
 |
 
@@ -1604,11 +1876,19 @@ FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
 
 |
 
+|
+
+|
+
 Responsable de département |
 
 A |
 
 EMPLOIS DE SECRETARIAT |
+
+|
+
+|
 
 |
 
@@ -1638,7 +1918,15 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DES ATTRIBUTIONS FINANCIERES ET JURIDIQUES |
+
+|
+
+|
 
 |
 
@@ -1668,7 +1956,15 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DE LA MODERNISATION |
+
+|
+
+|
 
 |
 
@@ -1681,6 +1977,10 @@ A |
 |
 
 AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
+
+|
+
+|
 
 |
 
@@ -1700,6 +2000,10 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
+|
+
+|
+
 Adjoint au chef du bureau national des permis de conduire |
 
 A |
@@ -1711,7 +2015,3 @@ A |
 Adjoint au chef de la section de fiabilisation des données et contrôle des droits à conduire |
 
 B |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 7 septembre 2023 (NOR : IOMA2322523A), ces dispositions entrent en vigueur le 1er septembre 2023.

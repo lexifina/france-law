@@ -1,8 +1,10 @@
 # Article Annexe II
 
-EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER SEPTEMBRE 2023
+EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER JANVIER 2024
 
 PREFECTURE DE PARIS |
+
+|
 
 |
 
@@ -18,15 +20,23 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DES ACTIONS DE MODERNISATION |
 
 |
 
-Adjoint(e) au chef du service de la modernisation de l'Etat |
+|
+
+|
+
+Adjoint (e) au chef du service de la modernisation de l'État |
 
 A |
 
-Chargé(e) de la stratégie immobilière |
+Chargé (e) de la stratégie immobilière |
 
 A |
 
@@ -138,6 +148,10 @@ AU TITTRE DES COMPETENCES TECHNIQUES, UTILISATION DE MATERIELS ET DOCUMENTATIONS
 
 |
 
+|
+
+|
+
 Chef du bureau des moyens et de la logistique |
 
 A |
@@ -166,6 +180,10 @@ FONCTION D'ACCUEIL EXTERNE OU INTERNE |
 
 |
 
+|
+
+|
+
 Chef du bureau des relations aux usagers |
 
 A |
@@ -178,6 +196,10 @@ FONCTION D'ENCADREMENT, CONTRAINTES ET RESPONSABILITES PARTICULIERES |
 
 |
 
+|
+
+|
+
 Adjoint au chef du service de la prévention et des urgences sociales |
 
 A |
@@ -186,7 +208,7 @@ Chef de bureau des affaires réservées |
 
 A |
 
-Chef du service de la représentation de l'Etat |
+Chef du service de la représentation de l'État |
 
 A |
 
@@ -214,7 +236,7 @@ Chef du bureau des urgences sociales |
 
 A |
 
-Adjoint au chef du service de la représentation de l'Etat |
+Adjoint au chef du service de la représentation de l'État |
 
 A |
 
@@ -222,7 +244,7 @@ Chef du bureau des décorations et de l'intendance |
 
 B |
 
-Adjoint au chef du bureau d'accès aux logements sociaux interministériels réservés aux agents de l'Etat (BALAE) |
+Adjoint au chef du bureau d'accès aux logements sociaux interministériels réservés aux agents de l'État (BALAE) |
 
 B |
 
@@ -234,7 +256,7 @@ Chef du bureau du protocole et des déplacements |
 
 A |
 
-Chef du bureau d'accès aux logements sociaux interministériels réservés aux agents de l'Etat (BALAE) |
+Chef du bureau d'accès aux logements sociaux interministériels réservés aux agents de l'État (BALAE) |
 
 A |
 
@@ -260,7 +282,15 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
+|
+
+|
+
 AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
+
+|
+
+|
 
 |
 
@@ -280,6 +310,10 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
+|
+
+|
+
 Adjoint au secrétaire général (DIE) |
 
 A |
@@ -296,7 +330,15 @@ FONCTION NOTAMMENT D'ENCADREMENT ASSORTIE DE CONTRAINTES PARTICULIERES |
 
 |
 
+|
+
+|
+
 EMPLOIS D'ENCADREMENT A CONTRAINTES ET RESPONSABILITES PARTICULIERES DE LA PREFECTURE DE POLICE |
+
+|
+
+|
 
 |
 
@@ -333,6 +375,10 @@ A |
 |
 
 EMPLOIS D'ENCADREMENT AU BUREAU DES ETRANGERS |
+
+|
+
+|
 
 |
 
@@ -420,11 +466,11 @@ Chef de la division de la réception des usagers |
 
 A |
 
-Adjoint au chef du bureau de la lutte contre l'immigration irrégulière - chef de la division reconduites (DZAE) |
+Adjoint au chef du bureau de la lutte contre l'immigration irrégulière-chef de la division reconduites (DZAE) |
 
 A |
 
-Adjoint au chef du bureau de la lutte contre l'immigration irrégulière - chef de la division examens (DZAE) |
+Adjoint au chef du bureau de la lutte contre l'immigration irrégulière-chef de la division examens (DZAE) |
 
 A |
 
@@ -456,7 +502,7 @@ Adjoint au chef de la division examens (DZAE) |
 
 A |
 
-Préfigurateur - Chef de la section de l'analyse et de la coordination zonale (DZAE) |
+Préfigurateur-Chef de la section de l'analyse et de la coordination zonale (DZAE) |
 
 A |
 
@@ -475,7 +521,3 @@ A |
 Chef du pôle interdépartemental Dublin (DZAE) |
 
 A |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 7 septembre 2023 (NOR : IOMA2322523A), ces dispositions entrent en vigueur à compter du 1er septembre 2023.
