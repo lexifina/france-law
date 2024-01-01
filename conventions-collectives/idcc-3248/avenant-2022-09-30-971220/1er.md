@@ -1,0 +1,27 @@
+# Article 1er
+
+Le préambule de la convention collective nationale de la métallurgie du 7 février 2022 est rédigé comme suit :
+
+« Dès le début du XXe siècle, les partenaires sociaux de la branche ont cherché, par la négociation collective – alors peu structurée juridiquement –, à faire converger les intérêts respectifs des salariés et des entreprises, avec la conviction partagée que seule une industrie forte et compétitive est créatrice d'emplois.
+
+La branche professionnelle de la métallurgie, qui regroupe un nombre important de salariés et d'entreprises exerçant des activités industrielles très diverses, a contribué au modèle social français. De nombreuses avancées sociales mises en place dans la métallurgie sont devenues des acquis fondamentaux pour tous les secteurs d'activité de l'économie.
+
+Après l'entrée en vigueur de la loi du 11 février 1950, les négociations collectives de branche se sont multipliées. En raison, notamment, de l'implantation historique des sites industriels, ces négociations de branche étaient exclusivement territoriales, afin de tenir compte des importantes différences industrielles et économiques qui existaient alors entre les départements français, voire au sein de certains d'entre eux.
+
+À partir des années 1970, ces différences territoriales ont commencé à s'estomper. Le besoin de règles uniformes, simples et fiables, a alors prévalu. C'est ainsi que la branche a entrepris, dans certains domaines, la négociation d'accords nationaux qui venaient compléter les conventions collectives territoriales. Tel a été le cas, en particulier, de l'accord national du 10 juillet 1970 sur la mensualisation, qui a unifié les statuts respectifs des ouvriers et des ETAM. Tel a également été le cas de la convention collective nationale des ingénieurs et cadres de la métallurgie du 13 mars 1972, qui a été substituée aux avenants “ ingénieurs et cadres ” qui figuraient, à l'époque, dans les conventions collectives territoriales.
+
+Depuis les années 2000, les profondes mutations de l'environnement industriel, qu'elles soient technologiques, organisationnelles, ou liées à la globalisation de l'économie ou au respect de l'environnement, ont renforcé encore le besoin de règles conventionnelles uniformes.
+
+Dans l'industrie comme ailleurs, l'environnement de travail a considérablement évolué : les organisations traditionnelles des entreprises sont repensées à l'aune des nouvelles technologies et des défis environnementaux. La globalisation de l'économie, générant une concurrence mondiale toujours plus forte, implique que chaque acteur s'adapte en permanence à l'évolution rapide des métiers et des compétences. Les entreprises et les salariés se sont nécessairement adaptés. Les dispositions conventionnelles doivent donc, à leur tour, s'adapter à ces transformations.
+
+Enfin, les évolutions législatives récentes ont ouvert aux partenaires sociaux – de branche et d'entreprise – des possibilités nouvelles d'organisation du travail et de dialogue social.
+
+Partant du constat que le système conventionnel de la branche n'est plus adapté à la réalité des métiers et des environnements de travail, ni aux attentes des entreprises et des salariés en matière de qualité de vie et des conditions de travail, les signataires ont pris, en 2016, leurs responsabilités, pour répondre à ces nouveaux défis.
+
+Ils ont ainsi engagé une négociation nationale, destinée à moderniser le dispositif conventionnel de la branche, en substituant, à l'ensemble des conventions collectives territoriales et sectorielle, et à l'ensemble des accords nationaux, une seule convention collective nationale, incluant un système de protection sociale et une grille de classification unique totalement inédite, applicable à tous les salariés.
+
+La négociation collective de branche remplit une double fonction régulatrice : celle des normes sociales et celle de la concurrence entre les différents secteurs industriels qui composent la branche. Ni la loi, ni la négociation d'entreprise ne peuvent réaliser à la fois ces deux fonctions essentielles. Par la présente convention collective nationale, les signataires entendent ainsi revitaliser la négociation de branche. Cette convention, qui repose sur un large consensus, facilitera et enrichira en outre le dialogue social, dans la branche à son niveau territorial comme dans les entreprises, avec les femmes et les hommes qui font le succès des entreprises.
+
+Au-delà de dispositions qui s'appliquent directement à tout salarié de la branche, la convention collective définit des orientations, des outils ou des méthodes, dont les entreprises sont invitées à se saisir, pour développer le dialogue social et permettre aux salariés de construire de véritables projets d'évolution professionnelle dans un environnement de travail de qualité.
+
+La présente convention collective nationale est l'illustration de la volonté des signataires de construire un cadre conventionnel plus simple, plus accessible, plus juste, socialement et économiquement plus performant, au service du développement et de l'excellence de l'industrie. »
