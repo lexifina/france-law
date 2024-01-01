@@ -386,4 +386,4 @@ minimale |
 
 Opérations de soins de conservation complets |
 
-75 opérations |
+Au moins 75 soins de conservation effectués sur une durée de 6 mois minimum |

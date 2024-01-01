@@ -6,8 +6,6 @@ MATIÈRES |
 
 NOMBRE DE POINTS |
 
-Epreuve de thanatopraxie |
-
 Thanatopraxie |
 
 65 |
@@ -32,8 +30,6 @@ Ergonomie et manutention |
 
 5 |
 
-Epreuve de médecine |
-
 Médecine légale |
 
 20 |
@@ -42,6 +38,6 @@ Anatomie et physiologie élémentaire |
 
 30 |
 
-Total des deux épreuves |
+Total des matières |
 
 200 |
