@@ -32,4 +32,8 @@ A remplir par les services de l'Etat en charge de l'inscription de la demande de
 
 Date et cachet de la préfectureSignature
 
-Document à conserver dans le livret d'apprentissage et à présenter en cas de contrôle par les forces de l'ordre.
+Document à conserver et à présenter en cas de contrôle par les forces de l'ordre.
+
+NOTA :
+
+Conformément à l'article 11 de l'arrêté du 19 décembre 2023 (NOR : IOMS2334273A), ces dispositions entrent en vigueur à compter du 1er janvier 2024.

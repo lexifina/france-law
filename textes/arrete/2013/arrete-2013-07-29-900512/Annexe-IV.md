@@ -48,9 +48,7 @@ Rendez-vous préalable réalisé le : ..........................................
 
 Important :
 
-- avant le passage de l'épreuve pratique de l'examen du permis de conduire, une année de conduite accompagnée, dans le cadre de l'AAC, doit obligatoirement avoir été réalisée à partir du rendez-vous préalable ;
-
-- avant le passage de l'épreuve pratique de l'examen du permis de conduire, trois mois de conduite accompagnée, dans le cadre de la conduite supervisée, doivent obligatoirement avoir été réalisés à partir du rendez-vous préalable.
+- comprenant la participation à deux rendez-vous pédagogiques minimum, avant le passage de l'épreuve pratique de l'examen du permis de conduire, une année de conduite accompagnée, dans le cadre de l'AAC, doit obligatoirement avoir été réalisée à partir du rendez-vous préalable ;
 
 CALENDRIER DES RENDEZ-VOUS
 
@@ -118,8 +116,6 @@ L'enseignant
 
 Le responsable de l'établissement
 
-Important : avant le passage de l'épreuve pratique de l'examen du permis de conduire, trois mois de conduite supervisée doivent obligatoirement avoir été réalisés à partir du rendez-vous préalable.
-
 CALENDRIER DES RENDEZ-VOUS PÉDAGOGIQUES
 
 DANS LE CADRE DE LA CONDUITE SUPERVISÉE
@@ -135,3 +131,7 @@ Second rendez-vous pédagogique (facultatif) :
 Date de la phase pratique : ..........................................................................................................
 
 Date de la phase théorique : ..........................................................................................................
+
+NOTA :
+
+Conformément à l'article 11 de l'arrêté du 19 décembre 2023 (NOR : IOMS2334273A), ces dispositions entrent en vigueur à compter du 1er janvier 2024.
