@@ -2,13 +2,13 @@
 
 DÉPENSES ÉLIGIBLES À LA PRIME DE TRANSITION ÉNERGÉTIQUE
 
-Les dépenses suivantes, lorsqu'elles satisfont les critères techniques fixés par l'arrêté mentionné au VIII de l'article 2 du présent décret, sont éligibles à la prime :
+Les dépenses suivantes, lorsqu'elles répondent aux critères techniques fixés par l'arrêté mentionné au VIII de l'article 2 du présent décret et aux exigences du présent décret, donnent lieu au versement de la prime de transition énergétique :
 
 1. (Abrogé) ;
 
 2. Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant au bois ou autres biomasses :
 
-a) Chaudières à alimentation automatique fonctionnant au bois ou autre biomasse ;
+a) Chaudières à alimentation automatique fonctionnant au bois ou autres biomasses ;
 
 b) Chaudières à alimentation manuelle fonctionnant au bois ou autres biomasses ;
 
@@ -38,7 +38,7 @@ c) Pompes à chaleur dédiées à la production d'eau chaude sanitaire ;
 
 7. Systèmes de ventilation mécanique contrôlée double flux autoréglables ou hygroréglables ;
 
-8. Réalisation, en dehors des cas où la réglementation le rend obligatoire, d'un audit énergétique, à la condition de l'attribution simultanée d'au moins une prime pour une dépense éligible prévue à la présente annexe, hors les dépenses prévues aux 6,8 et 14 de cette même annexe. Pour un même logement, un seul audit énergétique ouvre droit à la prime de transition énergétique ;
+8. Réalisation, en dehors des cas où la réglementation le rend obligatoire, d'un audit énergétique ;
 
 9. Isolation thermique des parois vitrées, à la condition que les matériaux installés viennent en remplacement de parois en simple vitrage ;
 
@@ -54,10 +54,12 @@ c) Pompes à chaleur dédiées à la production d'eau chaude sanitaire ;
 
 13-2. Bardages ventilés pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte ;
 
-14. Prestation d'assistance à maîtrise d'ouvrage ;
+14. (Abrogé) ;
 
-15. En immeuble bâti individue situé en France métropolitaine, un ensemble de travaux de rénovation énergétique visant à améliorer la performance globale du logement et permettant d'atteindre une efficacité énergétique minimale fixée par arrêté.
+15. Ensemble de travaux de rénovation énergétique visant à améliorer la performance globale du logement en France métropolitaine ;
+
+15 bis. Mission d'accompagnement par un opérateur agréé prévue à l'article L. 232-3 du code de l'énergie.
 
 NOTA :
 
-Conformément à l’article 5 du décret n° 2023-416 du 30 mai 2023, ces dispositions entrent en vigueur le 1er juin 2023 et s'appliquent aux demandes de prime déposées à compter de cette même date.
+Conformément à l'article 9 du décret n° 2023-1365 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024 et s'appliquent aux demandes de prime déposées à compter de cette même date.
