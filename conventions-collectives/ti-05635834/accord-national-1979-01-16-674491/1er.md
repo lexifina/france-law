@@ -320,22 +320,30 @@ Activités diverses dans d'autres classes
 
 77.03. Activités d'études informatiques. - Dans ce groupe sont soumises, à l'exclusion des cabinets d'études, des bureaux et cabinets d'ingénieurs-conseils et des sociétés de conseils, à la clause de répartition insérée à la fin du présent champ d'application, au paragraphe II, les entreprises d'études et de fabrication qui, si cette dernière activité de fabrication avait un caractère principal, auraient un classement dans la classe 27.
 
+77.15. Ordres et syndicats professionnels.
+
+Dans ce groupe, sont visées les organisations syndicales d'employeurs, mentionnées à l'article L. 2131-1 du code du travail et à l'article L. 2133-1 du code du travail, ainsi que les associations d'employeurs, mentionnées à l'article L. 2231-1 du code du travail, qu'elles soient locales ou nationales, et quelle que soit leur forme juridique, dès lors que les membres adhérents de l'organisation professionnelle considérée, tels que définis par les statuts de celle-ci, sont majoritairement des entreprises incluses dans le présent champ d'application.
+
+Pour l'appréciation de l'alinéa précédent, sont visées les organisations professionnelles de branche et les organisations professionnelles représentant les intérêts des entreprises d'un secteur d'activité déterminé.
+
+Pour l'appréciation du caractère majoritaire des adhésions visé au premier alinéa, sont prises en compte les entreprises adhérentes de l'organisation professionnelle ou de l'une des structures adhérentes de cette organisation.
+
 82.01. Enseignement général primaire et secondaire (services marchands).
 
-Dans ce groupe sont uniquement visés les associations de formation (Asfo), les organismes dispensateurs de formation, et les centres de formation d'apprentis de l'industrie (CFAI), définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III.
+Dans ce groupe sont uniquement visés les associations de formation professionnelle de l'industrie (AFPI), les centres de formation d'apprentis de l'industrie (CFAI), les organismes de formation d'entreprise et les centres de formation d'apprentis d'entreprise, définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III.
 
 82.02. Formation des adultes et formation continue (services marchands).
 
-Dans ce groupe sont uniquement visés les associations de formation (Asfo), les organismes dispensateurs de formation, et les centres de formation d'apprentis de l'industrie (CFAI), définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III.
+Dans ce groupe sont uniquement visés les associations de formation professionnelle de l'industrie (AFPI), les centres de formation d'apprentis de l'industrie (CFAI), les organismes de formation d'entreprise et les centres de formation d'apprentis d'entreprise, définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III.
 
 82.03. Autres enseignements spécialisés et professionnels et enseignement supérieur (services marchands).
 
-Dans ce groupe sont uniquement visés les associations de formation (Asfo), les organismes dispensateurs de formation, et les centres de formation d'apprentis de l'industrie (CFAI), définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III. 83.01. Recherche scientifique et technique (services marchands). - Dans ce groupe sont visées les entreprises de recherche dans le domaine de la construction électrique ou radio-électrique et de l'électronique et, d'une manière plus générale, les entreprises de recherche technique et de fabrication qui, si cette dernière activité de fabrication avait un caractère prinicipal, ressortiraient de l'un des groupes inclus dans le présent champ d'application et appartenant à l'une des classes 10, 11, 13, 20 à 34 (ceci sous réserve de la clause d'attribution prévue, le cas échéant, pour le groupe concernant l'activité de fabrication et insérée également à la fin du présent champ d'application, au paragraphe I).
+Dans ce groupe sont uniquement visés les associations de formation professionnelle de l'industrie (AFPI), les centres de formation d'apprentis de l'industrie (CFAI), les organismes de formation d'entreprise et les centres de formation d'apprentis d'entreprise, définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III.
 
 92.21. Enseignement (services non marchands à caractère privé).
 
-Dans ce groupe sont uniquement visés les associations de formation (Asfo), les organismes dispensateurs de formation, et les centres de formation d'apprentis de l'industrie (CFAI), définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III.
+Dans ce groupe sont uniquement visés les associations de formation professionnelle de l'industrie (AFPI), les centres de formation d'apprentis de l'industrie (CFAI), les organismes de formation d'entreprise et les centres de formation d'apprentis d'entreprise, définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III.
 
 97.23. Autres services fournis à la collectivité (non marchands à caractère privé).
 
-Dans ce groupe sont uniquement visés les associations de formation (Asfo), les organismes dispensateurs de formation et les centres de formation d'apprentis de l'industrie (CFAI), définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III.
+Dans ce groupe sont uniquement visés les associations de formation professionnelle de l'industrie (AFPI), les centres de formation d'apprentis de l'industrie (CFAI), les organismes de formation d'entreprise et les centres de formation d'apprentis d'entreprise, définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III.
