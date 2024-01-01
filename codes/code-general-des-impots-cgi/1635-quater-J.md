@@ -12,10 +12,14 @@ La valeur forfaitaire des installations et aménagements est fixée comme suit :
 
 5° Pour les panneaux photovoltaïques au sol, 10 € par mètre carré ;
 
-6° Pour les aires de stationnement non comprises dans la surface mentionnée au 1° de l'article 1635 quater H, 2 500 € par emplacement.
+6° Pour les aires de stationnement non comprises dans la surface mentionnée au 1° de l'article 1635 quater H, 3 000 € par emplacement.
+
+Le montant prévu au 3° du présent article est actualisé le 1er janvier de chaque année en fonction du dernier indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Ce montant est arrondi, s'il y a lieu, à l'euro inférieur.
 
 NOTA :
 
-Conformément au VII, D de l’article 65 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023 et s'applique aux opérations pour lesquelles le fait générateur de la taxe d'aménagement intervient à compter de cette date.
+Conformément au B du III de l’article 17 du décret n° 2022-1499 du 1er décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2024.
 
-Se reporter aux conditions d'application prévues au VI, 1° de l’article 65 de la loi n° 2022-1726 du 30 décembre 2022.
+Conformément au VII, E de l’article 65 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2024 et s'appliquent aux opérations pour lesquelles le fait générateur de la taxe d'aménagement intervient à compter de cette date.
+
+Se reporter aux conditions d'application prévues au VI, 2° de l’article 65 de la loi n° 2022-1726 du 30 décembre 2022.

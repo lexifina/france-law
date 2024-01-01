@@ -1,6 +1,6 @@
 # Article 1609 quinquies C
 
-I. – Les établissements publics de coopération intercommunale mentionnés au 1 du III de l'article 1379-0 bis sont substitués aux communes membres pour les dispositions relatives à la cotisation foncière des entreprises et à la cotisation sur la valeur ajoutée des entreprises acquittées par les entreprises implantées dans une zone d'activités économiques qui se situe sur le territoire d'une ou plusieurs communes membres, et la perception du produit de ces taxes.
+I. – Les établissements publics de coopération intercommunale mentionnés au 1 du III de l'article 1379-0 bis sont substitués aux communes membres pour les dispositions relatives à la cotisation foncière des entreprises acquittée par les entreprises implantées dans une zone d'activités économiques qui se situe sur le territoire d'une ou plusieurs communes membres, et la perception du produit de cette taxe.
 
 I bis. – Le I est applicable aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application de la première phrase du premier alinéa du II dans sa rédaction en vigueur jusqu'à cette date, pour l'application des dispositions de cette phrase.
 
@@ -45,3 +45,7 @@ Ces établissements publics peuvent, sur délibérations concordantes de l'étab
 Le cas échéant, sur délibérations concordantes de l'établissement public de coopération intercommunale et des communes membres, le prélèvement sur les ressources calculé selon les modalités prévues aux II et III du 2.1 dudit article 78 peut être mis à la charge de cet établissement public, à l'exclusion de la part calculée selon les modalités prévues aux 1° et 2° du a du D du IV du même 2.1.
 
 Par exception au I de l'article 1639 A bis, l'établissement public de coopération intercommunale soumis au présent article et issu d'une fusion ou ayant connu une modification de périmètre et ses communes membres ont jusqu'au 15 janvier pour prendre les délibérations prévues au présent 5.
+
+NOTA :
+
+Conformément au G du XXVII de l’article 55 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent à compter du 1er janvier 2024.
