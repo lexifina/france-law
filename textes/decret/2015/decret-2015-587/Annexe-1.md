@@ -48,6 +48,8 @@ A. Consistance du logement
 
 - localisation du logement : [exemples : adresse / bâtiment / étage / porte etc.] ;
 
+- identifiant fiscal du logement : [Numéro Identifiant Fiscal du logement] ;
+
 - type d'habitat : [immeuble collectif ou individuel] ;
 
 - régime juridique de l'immeuble : [mono propriété ou copropriété] ;
@@ -66,7 +68,23 @@ A. Consistance du logement
 
 - modalité de production d'eau chaude sanitaire : [individuelle ou collective] (5).
 
--le cas échéant, La consommation énergétique du logement, déterminée selon la méthode du diagnostic de performance énergétique mentionné à l'article L. 126-26 du code de la construction et de l'habitation, ne doit pas excéder, à compter du 1er janvier 2028, le seuil fixé au I de l'article L. 173-2 du même code (5 bis).
+- rappel : un logement décent doit respecter les critères minimaux de performance suivants :
+
+a) En France métropolitaine :
+
+i) A compter du 1er janvier 2025, le niveau de performance minimal du logement correspond à la classe F du DPE ;
+
+ii) A compter du 1er janvier 2028, le niveau de performance minimal du logement correspond à la classe E du DPE ;
+
+iii) A compter du 1er janvier 2034, le niveau de performance minimal du logement correspond à la classe D du DPE.
+
+b) En Guadeloupe, en Martinique, en Guyane, à La Réunion et à Mayotte :
+
+i) A compter du 1er janvier 2028, le niveau de performance minimal du logement correspond à la classe F du DPE ;
+
+ii) A compter du 1er janvier 2031, le niveau de performance minimal du logement correspond à la classe E du DPE.
+
+La consommation d'énergie finale et le niveau de performance du logement sont déterminés selon la méthode du diagnostic de performance énergétique mentionné à l'article L. 126-26 du code de la construction et de l'habitation.
 
 B. Destination des locaux : [usage d'habitation ou usage mixte professionnel et d'habitation]
 
@@ -246,12 +264,10 @@ Signature du bailleur [ou de son mandataire, le cas échéant] Signature du loca
 
 (1) Préciser si la personne morale est une société civile constituée exclusivement entre parents et alliés jusqu'au quatrième degré inclus. (2) A reproduire si pluralité de bailleur. (3) Mention obligatoire s'appliquant aux professionnels exerçant une activité mentionnée à l'article 1er de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce. (4) Si chauffage collectif, préciser les modalités de répartition de la consommation du locataire. (5) En cas de production collective, préciser les modalités de répartition de la consommation du locataire.
 
-(5 bis) Mention obligatoire s'appliquant aux logements dont la consommation énergétique, déterminée selon la méthode du diagnostic de performance énergétique mentionné à l'article L. 126-26 du code de la construction et de l'habitation, excède le seuil fixé au I de l'article L. 173-2 du même code.
-
 (6) Limité aux événements précis qui justifient que le bailleur personne physique ait à reprendre le local pour des raisons professionnelles ou familiales. (7) Lorsqu'un complément de loyer est appliqué, le loyer mensuel s'entend comme la somme du loyer de base et de ce complément. (8) Zones d'urbanisation continue de plus de 50 000 habitants où il existe un déséquilibre marqué entre l'offre et la demande de logements, entraînant des difficultés sérieuses d'accès au logement sur l'ensemble du parc résidentiel telles que définies par décret. (9) Mention obligatoire si le précédent locataire a quitté le logement moins de dix-huit mois avant le signature du bail. (10) Si les parties conviennent d'un forfait de charges et de sa révision annuelle, ce forfait est révisé dans les mêmes conditions que le loyer principal. (11) Art. 23-1 de la loi n° 89-462 du 6 juillet 1989. (12) Au cours de l'exécution du contrat de location et dans les conditions prévues par la loi, les colocataires peuvent provoquer la résiliation de l'assurance souscrite par le bailleur pour leur compte. (13) Correspond au montant de la prime d'assurance annuelle, éventuellement majoré dans la limite d'un montant fixé par décret en Conseil d'Etat. (14) Paiement mensuel de droit à tout moment à la demande du locataire. (15) Le cas échéant, préciser par ailleurs le montant des travaux d'amélioration effectués au cours des six derniers mois. (16) Clause invalide pour les travaux de mise en conformité aux caractéristiques de décence ; (17) A mentionner lorsque le contrat de location est conclu avec le concours d'une personne mandatée et rémunérée à cette fin. (18) A compter de l'entrée en vigueur du décret d'application listant notamment les matériaux ou produits concernés. (19) A compter de la date d'entrée en vigueur de cette disposition, prévue par décret. (20) La liste des communes comprises dans ces zones est définie localement par arrêté préfectoral. (21) L'état des lieux d'entrée est établi lors de la remise des clés, dont la date peut être ultérieure à celle de conclusion du contrat. (22) Dispositif applicable dans certains territoires présentant une proportion importante d'habitat dégradé délimité localement par l'établissement public de coopération intercommunale compétent en matière d'habitat ou, à défaut, le conseil municipal (art. 92 de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové). (23) Lorsque la détermination du montant du loyer est la conséquence d'une procédure liée au fait que le loyer précédemment appliqué était manifestement sous évalué.
 
 NOTA :
 
-Conformément au II de l’article 6 du décret n° 2020-1609 du 17 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 4 du décret n° 2020-1609 du 17 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2024.
 
 Au A du III il convient de lire "à son terme"
