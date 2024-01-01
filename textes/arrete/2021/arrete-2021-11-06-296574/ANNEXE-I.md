@@ -2,7 +2,9 @@
 
 DOMAINES DES ACTIVITÉS ÉLIGIBLES À LA PART COLLECTIVE DU " PASS CULTURE "
 
-domaines des activités éligibles |
+Domaines
+
+des activités éligibles |
 
 Définition |
 
@@ -10,7 +12,7 @@ Type |
 
 Conditions spécifiques |
 
-Musées, patrimoine culturel et centres d'art et de mémoire |
+Patrimoine Mémoire |
 
 Activités organisées dans le cadre des missions d'éducation artistique ou culturelle relevant des missions de l'école telles que définies dans le code de l'éducation
 
@@ -26,19 +28,13 @@ Sites patrimoniaux remarquables : articles L. 631-1 et suivants du code du patri
 
 Evénements :
 
-- Manifestations artistiques ou culturelles (notamment les expositions),
+-Manifestations artistiques ou culturelles (notamment les expositions),
 
-- Visites culturelles,
-
-ateliers, activités de pratique artistique et culturelle, rencontres et conférences
-
-Cartes d'abonnement
-
-Services numériques |
+-Visites culturelles, ateliers, activités de pratique artistique et culturelle, rencontres et conférences |
 
 groupe |
 
-Spectacle vivant |
+Spectacle vivant (arts du cirque et arts de la rue, danse, théâtre, expression dramatique, marionnettes) |
 
 Activités organisées dans le cadre des missions d'éducation artistique ou culturelle relevant des missions de l'école telles que définies dans le code de l'éducation
 
@@ -46,31 +42,25 @@ Articles L. 7122-1 et suivants et R. 7122-1 et suivants du code du travail |
 
 Evénements :
 
-- Manifestations artistiques ou culturelles (notamment les représentations),
+-Manifestations artistiques ou culturelles (notamment les représentations),
 
-- Visites culturelles, ateliers, activités de pratique artistique et culturelle, rencontres et conférences
-
-Cartes d'abonnement
-
-Services numériques |
+-Visites culturelles, ateliers, activités de pratique artistique et culturelle, rencontres et conférences |
 
 groupe |
 
-Cinéma |
+Cinéma, audiovisuel |
 
 Activités organisées dans le cadre des missions d'éducation artistique ou culturelle relevant des missions de l'école telles que définies dans le code de l'éducation
 
-Code du cinéma et de l'image animée : autorisation d'exercice de la profession d'exploitant d'un établissement de spectacles cinématographiques L. 212-2 et suivants |
+Code du cinéma et de l'image animée : autorisation d'exercice de la profession d'exploitant d'un établissement de spectacles cinématographiques L. 212-2 et suivants
+
+|
 
 Evénements :
 
-- Manifestations artistiques ou culturelles (notamment les séances de projection)
+-Manifestations artistiques ou culturelles (notamment les séances de projection)
 
-- Visites culturelles, ateliers, activités de pratique artistique et culturelle, rencontres et conférences
-
-Cartes d'abonnement
-
-Services numériques |
+-Visites culturelles, ateliers, activités de pratique artistique et culturelle, rencontres et conférences |
 
 groupe |
 
@@ -82,46 +72,28 @@ Annexe de l'arrêté du 24 décembre 2015 fixant la liste des métiers d'art. |
 
 Evénements :
 
-- Manifestations artistiques ou culturelles
+-Manifestations artistiques ou culturelles
 
-- Visites culturelles,
+-Visites culturelles, ateliers, activités de pratique artistique et culturelle, rencontres et conférences |
 
-ateliers, activités de pratique artistique et culturelle, rencontres et conférences
+groupe |
 
-Cartes d'abonnement
+Arts visuels (arts plastiques, arts appliqués, arts numériques, photographie) Culture scientifique, technique et industrielle Univers du livre, de la lecture et des écritures Musique Média et information |
 
-Services numériques |
-
-|
-
-Gastronomie et arts du goût
-
-Arts numériques
-
-Arts visuels, arts plastiques, arts appliqués
-
-Culture scientifique, technique et industrielle
-
-Littérature
-
-Musique
-
-Média et information |
-
-Activités organisées dans le cadre des missions d'éducation artistique ou culturelle relevant des missions de l'école telles que définies dans le code de l'éducation
-
-|
+Activités organisées dans le cadre des missions d'éducation artistique ou culturelle relevant des missions de l'école telles que définies dans le code de l'éducation |
 
 Evénements :
 
-- Manifestations artistiques ou culturelles
+-Manifestations artistiques ou culturelles
 
-- Visites culturelles,
-
-ateliers, activités de pratique artistique et culturelle, rencontres et conférences
-
-Cartes d'abonnement
-
-Services numériques |
+-Visites culturelles, ateliers, activités de pratique artistique et culturelle, rencontres et conférences |
 
 groupe |
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 29 décembre 2023 (NOR : MENE2333320A) :
+
+I. - Ces dispositions entrent en vigueur au 1er janvier 2024.
+
+II. - Les cartes d'abonnement et services numériques réservés par le biais de la part collective du pass Culture avant le 1er janvier 2024 demeurent actifs jusqu'à la fin du service engagé. Aucune nouvelle réservation de cartes d'abonnement et de services numériques ne pourra être effectuée à compter du 1er janvier 2024.
