@@ -1,9 +1,0 @@
-# Article Préambule
-
-Après avoir procédé à un bilan de la situation dans la métallurgie en matière d'aménagement du temps de travail, les organisations soussignées, convaincues de la nécessité de la politique contractuelle pour exercer une fonction d'impulsion et de régulation, comme de l'intérêt de la négociation d'entreprise, ont décidé de procéder à la conclusion d'un nouvel accord national sur les trois points suivants : le travail à temps partiel, la modulation d'horaire, les horaires cycliques.
-
-Afin de faciliter l'offre d'emploi à temps partiel dans la métallurgie, tout en sauvegardant les droits et garanties des salariés, les parties contractantes estiment qu'il est utile d'attirer plus particulièrement l'attention des employeurs et des salariés sur le régime du travail à temps partiel.
-
-Le présent accord national emporte, en matière de modulation d'horaires, avenant à l'accord national de la métallurgie du 23 février 1982, modifié par l'accord-avenant du 17 juillet 1986, lui-même ayant fait l'objet de l'acte paritaire d'interprétation du 20 octobre 1987, notamment quant aux données économiques et sociales.
-
-Les parties contractantes reconnaissent l'intérêt de pouvoir organiser la durée du travail dans le cadre de cycles réguliers de plusieurs semaines, dans des situations autres que le travail en continu. Cette organisation du temps de travail est justifiée, non seulement par la nécessité d'accroître l'efficacité de l'utilisation des équipements, mais également par celle d'améliorer les conditions de vie des salariés, notamment en permettant une rotation plus harmonieuse des équipes ou encore en facilitant l'octroi des réductions d'horaire sous forme de demi-journées ou de journées complètes de repos, après négociation conformément à l'article 24 de l'accord national du 23 février 1982.

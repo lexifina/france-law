@@ -1,5 +1,0 @@
-# Article 3 bis
-
-Le document, élaboré par l'employeur en vertu de l'article 4, détermine le périmètre des emplois concernés, ainsi que la durée des engagements de l'employeur en matière d'emploi. Ces engagements s'appuient sur le diagnostic élaboré par l'employeur en vertu de l'article 4.
-
-En application du présent accord, les engagements portent au minimum sur les salariés concernés par le dispositif d'activité partielle. Ils s'appliquent pendant une durée au minimum égale, pour chaque salarié concerné, à la durée d'application du dispositif dans l'entreprise, l'établissement ou le groupe, et ce conformément aux dates de début et de mise en œuvre établies par l'employeur dans le document d'application de l'accord visé à l'article 4.
