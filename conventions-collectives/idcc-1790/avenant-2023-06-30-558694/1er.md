@@ -1,0 +1,51 @@
+# Article 1er
+
+L'article 4 de l'avenant n° 45 du 28 juin 2013 intitulé « Garanties » est modifié comme suit à compter du 1er janvier 2024 :
+
+Le détail des garanties qui prendra effet à compter du 1er janvier 2024 est repris ci-après.
+
+Régime de base
+
+(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, pages 39 à 42.)
+
+https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230043 _ 0000 _ 0005. pdf/ BOCC
+
+Grille optique (régime de base)
+
+(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, page 43.)
+
+https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230043 _ 0000 _ 0005. pdf/ BOCC
+
+Niveau 2.   L'expression des garanties inclut les garanties du régime de base
+
+(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, pages 44 à 47.)
+
+https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230043 _ 0000 _ 0005. pdf/ BOCC
+
+Grille optique niveau 2.   L'expression des garanties inclut les garanties du régime de base
+
+(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, page 48.)
+
+https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230043 _ 0000 _ 0005. pdf/ BOCC
+
+Niveau 3.   L'expression des garanties inclut les garanties du régime de base
+
+(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, pages 49 à 52.)
+
+https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230043 _ 0000 _ 0005. pdf/ BOCC
+
+Grille optique niveau 3.   L'expression des garanties inclut les garanties du régime de base
+
+(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, page 53.)
+
+https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230043 _ 0000 _ 0005. pdf/ BOCC
+
+Niveau 4.   Non responsable en complément du niveau 3
+
+(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, pages 54 à 56.)
+
+https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230043 _ 0000 _ 0005. pdf/ BOCC
+
+Les niveaux d'indemnisation définis ci-dessus s'entendent y compris les prestations versées par la sécurité sociale, dans la limite des frais réellement engagés par les bénéficiaires.
+
+Le niveau 4 est non responsable, il ne peut être mis en place que de manière obligatoire en complément du niveau 3 lui-même souscrit de manière obligatoire.
