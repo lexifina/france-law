@@ -1072,19 +1072,23 @@ Article R. 5332-50
 
 |
 
-Ministre chargé des transports
-
-|
+Ministre chargé des transports |
 
 51 |
 
-Suspension et retrait de l'agrément d'un organisme de formation en sûreté portuaire. |
+Suspension et retrait de l'agrément d'un organisme de formation en sûreté portuaire.
+
+|
 
 Code des transports
 
-Article R. 5332-53 |
+Article R. 5332-53
 
-Ministre chargé des transports |
+|
+
+Ministre chargé des transports
+
+|
 
 52 |
 
@@ -1235,6 +1239,20 @@ Code des transports,
 Article L. 5112-1-3 (1°) et article D. 5112-2-3 (2°)
 
 Décret n° 2006-142 du 10 février 2006, article 2 (septième alinéa) |
+
+Ministre chargé de la mer |
+
+66 |
+
+Décisions d'attribution, de renouvellement et de retrait aux entreprises d'armement maritime en situation de concurrence internationale du bénéfice des exonérations de cotisations et contributions sociales ainsi que les décisions de cessation de leur bénéfice. |
+
+Code des transports
+
+Article L. 5553-11
+
+(quatrième alinéa)
+
+et article R. 5555-1 |
 
 Ministre chargé de la mer |
 
@@ -2560,11 +2578,11 @@ Ministres chargés de la construction, des transports et de l'équipement |
 
 5 |
 
-Agrément des contrôleurs techniques. |
+Agrément des contrôleurs techniques et des bureaux d'étude |
 
-Code de la construction et de l'habitation Articles R. 111-29 à R. 111-37. |
+Code de la construction et de l'habitation Articles R. 125-1 à R. 125-16-1 et R. 125-22 à R. 125-31 |
 
-Ministre chargé de l'équipement |
+Ministre chargé de la construction |
 
 6 |
 
@@ -2900,8 +2918,6 @@ Décisions relatives aux personnes morales placées sous la tutelle ou le contr�
 
 NOTA :
 
-Conformément aux articles 13 et 14 du décret n° 2021-713 du 3 juin 2021, ces dispositions entrent en vigueur à la date prévue par leurs arrêtés d'application et, au plus tard, le 1er janvier 2023, sous réserve des dispositions transitoires prévues par le titre III du décret précité. Ces dispositions s'appliquent aux déclarations comptables relatives aux opérations physiques qui sont réalisées sur des matières nucléaires à partir du 1er janvier 2023.
+Conformément au premier alinéa de l'article 3 du décret n° 2023-1143 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
 
-Conformément à l’article 3 du décret n° 2022-538 du 13 avril 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
-
-Conformément à l'article 3 du décret n° 2022-1377 du 29 octobre 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+Toutefois, les bureaux d'étude mentionnés à l'article R. 122-33 du code de la construction et de l'habitation, dans sa rédaction en vigueur à la date de publication dudit décret, peuvent établir le document attestant du respect des règles concernant l'acoustique prévu à l'article L. 122-10 jusqu'au 31 décembre 2024, sans être titulaire de l'agrément prévu à l'article L. 122-12.
