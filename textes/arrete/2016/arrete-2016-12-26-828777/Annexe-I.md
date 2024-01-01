@@ -280,7 +280,7 @@ Les congés déposés après J-D1seront validés par le service sous réserve qu
 
 * UCESO : Unité de contrôle d'espace simultanément ouvrable. |
 
-Pour les organismes du groupe A et B, les critères de conformité à l'option 1 bis sont définis par le tableau ci-après. Pour que cette option soit satisfaite, l'ensemble des critères doivent être respectés. L'option 1 bis ne peut être mise en œuvre au-delà du 31 décembre 2023.
+Pour les organismes du groupe A et B, les critères de conformité à l'option 1 bis sont définis par le tableau ci-après. Pour que cette option soit satisfaite, l'ensemble des critères doivent être respectés. L'option 1 bis ne peut être mise en œuvre au-delà du 31 décembre 2024.
 
 |
 
@@ -733,3 +733,7 @@ Ecart moyen sur la semaine, en période où il y a un besoin, entre :
 5 créneaux |
 
 2 créneaux |
+
+NOTA :
+
+Conformément à l'article 8 de l'arrêté du 26 décembre 2023 (NOR : TREA2335226A), ces dispositions entrent en vigueur à compter du 1er janvier 2024.
