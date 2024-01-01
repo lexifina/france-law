@@ -1,0 +1,49 @@
+# Article III
+
+Seuls les salariés volontaires pourront travailler le dimanche dans le cadre du présent accord.
+
+À cet effet, un courrier ou un courriel d'appel au volontariat sera adressé à chaque salarié y compris cadre ou agent de maîtrise. Il rappellera le principe du volontariat, les conditions de rémunération et de repos et mentionnera la planification annuelle des dimanches concernés pour l'année suivante.
+
+Il sera envoyé six semaines au moins avant le premier dimanche qui sera ouvert l'année suivante.
+
+Chaque salarié volontaire indiquera par écrit, dans le délai d'un mis à compter de la réception de ce message, les dimanches pour lesquels il sera volontaire.
+
+Le salarié qui se sera porté volontaire bénéficiera d'un droit à la rétractation qui devra s'effectuer par écrit, concernant les dimanches restants pour lesquels il s'est porté volontaire, sous réserve de respecter un délai de prévenance d'un mois avant le dimanche suivant, sans qu'il ait à justifier de motif, et sans que l'employeur puisse le refuser.
+
+Ce délai de prévenance ne s'applique pas dans le cas d'événements familiaux tels que définis par l'article 38 de la convention collective du négoce de l'ameublement et de l'équipement de la maison.
+
+Le refus de travailler le dimanche ou la renonciation de travailler le dimanche ne constitue pas une faute, et ne peut faire l'objet de pression, chantage, sanction, mutation ou licenciement.
+
+Pour le travail de ces jours précités, il sera fait appel exclusivement à des salariés volontaires.
+
+Conformément à la loi, le refus de travailler le dimanche ne pourra entraîner aucune sanction.
+
+En conséquence, le salarié ne devra subir aucune pression, menace, discrimination ou sanction, aucun harcèlement de quelque nature que ce soit, directement ou indirectement avant et/ou après son refus éventuel de travailler lors de ces ouvertures exceptionnelles.
+
+Concernant, les ouvertures exceptionnelles de jours fériés, les organisations représentatives des employeurs s'engagent à ne pas retenir un jour férié comme une journée de solidarité.
+
+Par ailleurs, les entreprises dont les salariés ne bénéficient pas d'un accord s'engagent sur les principes suivants :
+
+– la rémunération des heures supplémentaires ;
+
+– la contrepartie obligatoire au repos ;
+
+– la durée du travail ;
+
+– le repos quotidien.
+
+Ne pourront travailler le dimanche les salariés de moins de 18 ans, ni les stagiaires.
+
+1. L'amplitude de la journée de travail le dimanche est limitée à neuf heures, pauses contractuelles ou conventionnelles comprises ; tous les salariés volontaires pourront donc travailler des demi-journées complètes, soit cinq heures ouvrées minimum pour un après-midi.
+
+2. Chaque salarié privé du repos du dimanche doit bénéficier d'une majoration de salaire de 100 % des heures travaillées. Pour les salariés ayant conclu un forfait jour dans le cadre des dispositions de l'article L. 3121-58 du code du travail, ces derniers bénéficieront d'un complément de rémunération pour cette journée, égal au 1/22e du salaire mensuel (hors prime d'ancienneté).
+
+3. Chaque salarié privé du repos hebdomadaire doit bénéficier d'un repos équivalent aux heures travaillées le dimanche et à prendre dans les quinze jours qui précèdent ou qui suivent le dimanche travaillé.
+
+Lors de l'expression du volontariat, chaque salarié peut faire part de ses souhaits en ce qui concerne le jour de la semaine destiné à remplacer le repos dominical. L'employeur confirme la réponse par accord entre les deux parties ; ce jour devra être pris avant la fin de la période annuelle en vigueur concernant les congés payés.
+
+4. Il est interdit d'occuper plus de 6 jours par semaine un même salarié.
+
+5. Le repos hebdomadaire a une durée minimale de vingt-quatre heures consécutives auxquelles s'ajoutent les onze heures consécutives de repos quotidien.
+
+6. En cas d'élections un dimanche travaillé au titre du présent accord, l'employeur devra permettre à tout salarié d'accomplir son devoir électoral. À cet effet, le salarié disposera de deux heures d'absences rémunérées.
