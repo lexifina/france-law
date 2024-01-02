@@ -1,0 +1,9 @@
+# Réponse à la question n° 12557
+
+- Question : [12557](12557.md) — Question n° 12557 — Mise en œuvre concrète des mesures annoncées contre le cyberharcèlement
+
+## Réponse
+
+*JO du 2024-01-02, page 89*
+
+Le ministre de l'éducation nationale et de la jeunesse a fait de la lutte contre le harcèlement en milieu scolaire la grande cause de l'année scolaire 2023-2024 et pilote, dans ce contexte avec la Première ministre, le plan interministériel annoncé le 27 septembre 2023. Ce plan comporte, dans son volet intitulé « 100 % solutions », plusieurs mesures qui viennent renforcer les sanctions déjà prévues à l'encontre des élèves auteurs de harcèlement. S'agissant du harcèlement en ligne, le projet de loi visant à sécuriser et réguler l'espace numérique porté par le Gouvernement renforce considérablement les sanctions pénales pour les personnes condamnées pour haine en ligne, cyberharcèlement ou d'autres infractions graves (pédopornographie, proxénétisme…). Le juge pourra prononcer à leur encontre une peine complémentaire de suspension ou « peine de bannissement » des réseaux sociaux pour six mois (voire un an en cas de récidive). Le réseau social qui ne bloquerait pas le compte suspendu encourra une amende de 75 000 €. Le juge pourra également prononcer une peine de suspension, dans le cadre du contrôle judiciaire d'un mineur. Ces dispositions s'appliquent à tous les délits de harcèlement et ne sont donc pas spécifiques au délit de harcèlement scolaire. Elles sont portées par le ministère de l'économie, des finances et de la souveraineté industrielle et numérique. En outre, le ministre de la justice a annoncé le 27 septembre 2023 la saisine systématique du portable, s'il a été utilisé pour le cyberharcèlement. La confiscation du téléphone relève en effet de la compétence des services du ministère de la justice.
