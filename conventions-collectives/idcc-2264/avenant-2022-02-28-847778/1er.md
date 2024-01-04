@@ -22,35 +22,11 @@ Cet investissement formation complémentaire global est constituée de deux part
 
 a) une contribution conventionnelle d'un montant de 0,10 % de la masse salariale brute annuelle pour la première année de mise en œuvre de l'accord qui est versée à l'OPCO Santé et mutualisée au profit des entreprises de la branche.
 
-La contribution 2022 est versée pour la première fois, sous forme d'acompte, le 28 février 2022 sur la base de la masse salariale 2021. Le solde de versement au titre de cette contribution 2022 sera effectué le 28 février 2023 à partir des éléments de la masse salariale 2022.
-
-Elle sera ensuite appelée tous les ans, sous forme d'acompte au 28 février de ­ l'année N, sur la base de la masse salariale de l'année N-1. Le solde de versement au titre de cette contribution N sera effectué le 28 février de l'année N + 1, à partir des éléments de masse salariale de l'année N.
-
-Dès lors que les critères suivants sont cumulativement remplis au cours de l'année 2022, la part mutualisée est portée à 0,20 % en 2023 :
-
-– la contribution mutualisée a servi de levier pour l'accès à d'autres financements et le taux de retour sur cette contribution est supérieur à 100 % du montant de la collecte globale correspondant à la contribution conventionnelle mutualisée. Ce taux de retour s'apprécie en incluant les frais de gestion et les cofinancements externes appréciés globalement ;
-
-– le secteur bénéficie, hors alternance, d'au moins 27,9 % des financements de l'OPCO Santé reçus de l'État ou de France compétences, à partir du moment où les établissements relevant de la branche sont concernés par cette mesure ;
-
-– une proposition de la CPNE FP validée en CPPNI revoit les priorités et tient compte de l'augmentation de l'enveloppe.
-
-Le premier bilan porte sur l'année 2022.
-
-Si les critères sont remplis consécutivement en 2022 et en 2023, l'intégralité de l'investissement formation complémentaire global est mutualisé en 2024.
-
-Les bilans sont réalisés par l'OPCO Santé au début de l'année suivante l'année au titre de laquelle porte le bilan, sur la base d'un cahier des charges défini paritairement, en section paritaire professionnelle, préalablement créée.
-
-L'arrivée à terme de l'accord au 31 décembre 2023 ne fait pas obstacle à l'application des dispositions prévues aux deux paragraphes précédents.
-
-Trois mois avant le dernier versement prévu par le présent article, l'OPCO Santé produit un bilan de l'utilisation des fonds issus de la contribution conventionnelle. Dans le cas où une partie des fonds n'aurait pas été dépensée, la SPP de la branche émet des propositions sur son affectation au-delà de la durée de validité de l'accord, propositions validées par la CPPNI.
-
 b) un investissement formation de 0,2165 % de la masse salariale brute annuelle qui est, au choix de l'entreprise, soit versé à l'OPCO Santé dans un compte d'entreprise, soit utilisé directement pour la mise en œuvre des projets de développement des compétences des salariés de l'entreprise.
 
 – l'ensemble des moyens mobilisés par l'entreprise au-delà de ces contributions financières pour développer les compétences des salariés. Ces moyens peuvent être financiers, organisationnels, humains, techniques, pédagogiques, etc.
 
 Les parties signataires rappellent leur attachement à privilégier le résultat sur les moyens et à diversifier les modalités de développement des compétences.
-
-Si les critères prévus par l'article 10.1 a) sont remplis, le pourcentage d'évolution de la contribution conventionnelle mutualisée augmentera chaque année au sein de l'enveloppe globale de l'investissement formation complémentaire global de 0,3165 % de la masse salariale brute annuelle. Ainsi cette augmentation réduira proportionnellement d'autant le pourcentage d'investissement formation à l'intérieur de l'investissement formation complémentaire global.
 
 10.2.   Contribution unique au financement de la formation professionnelle
 
