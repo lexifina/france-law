@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305751
+
+- Question : [SEQ230305751](seq230305751.md) — Pour un contrôle effectif de l'accès des mineurs aux sites pornographiques gratuits en France
+
+## Réponse
+
+*Numérique, JO du 2024-01-04, page 32*
+
+La protection des mineurs en ligne figure parmi les priorités stratégiques portées par le Gouvernement, qui souhaite que des avancées significatives soient obtenues sur le sujet. Si les services Internet procurent aux jeunes un accès inédit à une richesse incomparable de contenus, savoirs et opportunités, ils sont aussi porteurs de graves menaces et fléaux pour la santé mentale et le bien-être d'adolescents en construction. L'exposition des mineurs aux contenus pornographiques disponibles en ligne représente aujourd'hui un danger critique, comme l'atteste le rapport du Sénat de septembre 2022. Si la loi du 30 juillet 2020 visant à protéger les victimes de violences conjugales permet d'établir une première avancée en établissant la règle selon laquelle les systèmes basés sur une auto-déclaration de l'âge ne sont pas conformes à la loi pour les sites éditant des contenus à caractère pornographique, le Gouvernement est conscient que cette exigence peine toutefois à être réellement appliquée en pratique, comme l'attestent les contentieux en cours. Aussi, plusieurs initiatives et mesures sont en cours au niveau national pour permettre d'aboutir à la mise en oeuvre d'un contrôle efficient de l'âge sur ces sites, tel que le projet de loi "Sécuriser et réguler l'espace numérique" qui a été examiné au Sénat et à l'Assemblée et dont l'article 1 et 2 repondent aux enjeux de protection des mineurs en ligne. Le texte de loi a été notifié à la Commission européenne. A l'issue de cette démarche, une commission mixte paritaire sera convoquée. Lorsque la loi sera promulguée, le temps l'évaluation sera de rigueur afin de garatir la protection des mineurs en ligne.
