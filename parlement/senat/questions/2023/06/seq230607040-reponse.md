@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607040
+
+- Question : [SEQ230607040](seq230607040.md) — Location en meublé non professionnel par des contribuables non-résidents
+
+## Réponse
+
+*Comptes publics, JO du 2024-01-04, page 23*
+
+L'article 155 IV-2 du Code Général des Impôts (CGI) dispose que « l'activité de location directe ou indirecte de locaux d'habitation meublés ou destinés à être loués meublés est exercée à titre professionnel lorsque les deux conditions suivantes sont remplies cumulativement :les recettes annuelles retirées de cette activité par l'ensemble des membres du foyer fiscal excèdent 23 000euros ;ces recettes excèdent les revenus du foyer fiscal soumis à l'impôt sur le revenu dans la catégorie des traitements et salaires au sens de l'article 79, des bénéfices industriels et commerciaux autres que ceux tirés de l'activité de location meublée, des bénéfices agricoles, des bénéfices non commerciaux et des revenus des gérants et associés mentionnés à l'article 62. L'article 4A du CGI prévoit par ailleurs que « les personnes dont le domicile fiscal est situé hors de France sont passibles de l'impôt sur le revenu en raison de leurs seuls revenus de source française ». Dans ces conditions, lorsqu'un usager non-résident perçoit des revenus provenant de la location meublée d'un local d'habitation, pour un montant supérieur à 23 000euros et que par ailleurs, ses seuls revenus de source française tels que mentionnés au 2ème alinéa de l'article 155 IV-2 du CGI passibles de l'impôt sur le revenu en France sont inférieurs aux recettes provenant de l'activité de loueur en meublé, alors l'activité doit être qualifiée de « professionnelle ». La législation ne prévoit pas, en effet, que les revenus de source étrangère non imposés en France, soient pris en compte pour établir une comparaison avec les revenus de location meublée perçus.
