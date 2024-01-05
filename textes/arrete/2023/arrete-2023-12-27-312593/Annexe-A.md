@@ -1,14 +1,10 @@
-# Article LEGIARTI000047879844
+# Article Annexe A
 
-ANNEXES
-
-ANNEXE A
-
-LISTE DES TRANSPORTEURS AÉRIENS QUI FONT L'OBJET D'UNE INTERDICTION D'EXPLOITATION AU SEIN DE L'UNION EUROPÉENNE, AVEC DES EXCEPTIONS
+Liste des transporteurs aériens qui font l'objet d'une interdiction d'exploitation au sein de l'Union Européenne, avec des exceptions
 
 |
 
-NOM DU TRANSPORTEUR AÉRIEN (1) |
+NOM DU TRANSPORTEUR AERIEN (1) |
 
 PAYS D'ORIGINE |
 
@@ -16,13 +12,21 @@ CODE OACI DE LA COMPAGNIE |
 
 1 |
 
+AIR ZIMBABWE (PVT) |
+
+Zimbabwe |
+
+AZW |
+
+2 |
+
 AVIOR AIRLINES |
 
 Venezuela |
 
 ROI |
 
-2 |
+3 |
 
 BLUE WING AIRLINES |
 
@@ -30,7 +34,7 @@ Suriname |
 
 BWI |
 
-3 |
+4 |
 
 IRAN ASEMAN AIRLINES |
 
@@ -38,7 +42,7 @@ Iran |
 
 IRC |
 
-4 |
+5 |
 
 IRAQI AIRWAYS |
 
@@ -46,15 +50,15 @@ Irak |
 
 IAW |
 
-5 |
-
-AIR ZIMBABWE (PVT) |
-
-Zimbabwe |
-
-AZW |
-
 6 |
+
+FLY BAGHDAD |
+
+Irak |
+
+FBA |
+
+7 |
 
 Tous les transporteurs aériens certifiés par les autorités de l'Afghanistan responsables de la surveillance réglementaire, à savoir : |
 
@@ -62,7 +66,7 @@ Afghanistan |
 
 |
 
-7 |
+8 |
 
 ARIANA AFGHAN AIRLINES |
 
@@ -70,7 +74,7 @@ Afghanistan |
 
 AFG |
 
-8 |
+9 |
 
 KAM AIR |
 
@@ -78,7 +82,7 @@ Afghanistan |
 
 KMF |
 
-9 |
+10 |
 
 Tous les transporteurs aériens certifiés par les autorités de l'Angola responsables de la surveillance règlementaire (à l'exception de TAAG Angola Airlines et Heli Malongo), à savoir : |
 
@@ -86,7 +90,7 @@ Angola |
 
 |
 
-10 |
+11 |
 
 AEROJET |
 
@@ -94,7 +98,7 @@ Angola |
 
 TEJ |
 
-11 |
+12 |
 
 GUICANGO |
 
@@ -102,7 +106,7 @@ Angola |
 
 Inconnu |
 
-12 |
+13 |
 
 AIR JET |
 
@@ -110,7 +114,7 @@ Angola |
 
 MBC |
 
-13 |
+14 |
 
 BESTFLYA AIRCRAFT MANAGEMENT |
 
@@ -118,7 +122,7 @@ Angola |
 
 Inconnu |
 
-14 |
+15 |
 
 HELIANG |
 
@@ -126,7 +130,7 @@ Angola |
 
 Inconnu |
 
-15 |
+16 |
 
 SJL |
 
@@ -134,7 +138,7 @@ Angola |
 
 Inconnu |
 
-16 |
+17 |
 
 SONAIR |
 
@@ -142,7 +146,7 @@ Angola |
 
 SOR |
 
-17 |
+18 |
 
 Tous les transporteurs aériens certifiés par les autorités de l'Arménie responsables de la surveillance règlementaire, à savoir : |
 
@@ -150,15 +154,15 @@ Arménie |
 
 |
 
-18 |
+19 |
 
-AIRCOMPANY ARMENIA |
+AIR DILIJANS |
 
 Arménie |
 
 NGT |
 
-19 |
+20 |
 
 ARMENIAN AIRLINES |
 
@@ -166,7 +170,7 @@ Arménie |
 
 AAG |
 
-20 |
+21 |
 
 ARMENIA AIRWAYS |
 
@@ -174,7 +178,7 @@ Arménie |
 
 AMW |
 
-21 |
+22 |
 
 ARMENIAN HELICOPTERS |
 
@@ -182,7 +186,7 @@ Arménie |
 
 KAV |
 
-22 |
+23 |
 
 FLY ARNA |
 
@@ -190,7 +194,7 @@ Arménie |
 
 ACY |
 
-23 |
+24 |
 
 FLYONE ARMENIA |
 
@@ -198,7 +202,7 @@ Arménie |
 
 Inconnu |
 
-24 |
+25 |
 
 NOVAIR |
 
@@ -206,7 +210,7 @@ Arménie |
 
 NAI |
 
-25 |
+26 |
 
 SHIRAK AVIA |
 
@@ -214,7 +218,7 @@ Arménie |
 
 SHS |
 
-26 |
+27 |
 
 SKYBALL |
 
@@ -222,7 +226,7 @@ Arménie |
 
 Sans objet |
 
-27 |
+28 |
 
 Tous les transporteurs aériens certifiés par les autorités du Congo (Brazzaville) responsables de la surveillance réglementaire, à savoir : |
 
@@ -230,7 +234,7 @@ Congo (Brazzaville) |
 
 |
 
-28 |
+29 |
 
 CANADIAN AIRWAYS CONGO |
 
@@ -238,7 +242,7 @@ Congo (Brazzaville) |
 
 TWC |
 
-29 |
+30 |
 
 EQUAFLIGHT SERVICES |
 
@@ -246,7 +250,7 @@ Congo (Brazzaville) |
 
 EKA |
 
-30 |
+31 |
 
 EQUAJET |
 
@@ -254,7 +258,7 @@ Congo (Brazzaville) |
 
 EKJ |
 
-31 |
+32 |
 
 TRANS AIR CONGO |
 
@@ -262,7 +266,7 @@ Congo (Brazzaville) |
 
 TSG |
 
-32 |
+33 |
 
 SOCIETE NOUVELLE AIR CONGO |
 
@@ -270,7 +274,7 @@ Congo (Brazzaville) |
 
 Inconnu |
 
-33 |
+34 |
 
 Tous les transporteurs aériens certifiés par les autorités de la République démocratique du Congo (RDC) responsables de la surveillance réglementaire, à savoir : |
 
@@ -278,7 +282,7 @@ République démocratique du Congo (RDC) |
 
 |
 
-34 |
+35 |
 
 AB BUSINESS |
 
@@ -286,7 +290,7 @@ R.D. Congo |
 
 Inconnu |
 
-35 |
+36 |
 
 AIR FAST CONGO |
 
@@ -294,7 +298,7 @@ R.D. Congo |
 
 Inconnu |
 
-36 |
+37 |
 
 AIR KASAI |
 
@@ -302,7 +306,7 @@ R.D. Congo |
 
 Inconnu |
 
-37 |
+38 |
 
 AIR KATANGA |
 
@@ -310,7 +314,7 @@ R.D. Congo |
 
 Inconnu |
 
-38 |
+39 |
 
 BUSY BEE CONGO |
 
@@ -318,7 +322,7 @@ R.D. Congo |
 
 Inconnu |
 
-39 |
+40 |
 
 COMPAGNIE AFRICAINE D'AVIATION (CAA) |
 
@@ -326,7 +330,7 @@ R.D. Congo |
 
 Inconnu |
 
-40 |
+41 |
 
 CONGO AIRWAYS |
 
@@ -334,7 +338,7 @@ R.D. Congo |
 
 Inconnu |
 
-41 |
+42 |
 
 GOMA EXPRESS |
 
@@ -342,7 +346,7 @@ R.D. Congo |
 
 Inconnu |
 
-42 |
+43 |
 
 KIN AVIA |
 
@@ -350,7 +354,7 @@ R.D. Congo |
 
 Inconnu |
 
-43 |
+44 |
 
 MALU AVIATION |
 
@@ -358,7 +362,7 @@ R.D. Congo |
 
 Inconnu |
 
-44 |
+45 |
 
 SERVE AIR CARGO |
 
@@ -366,7 +370,7 @@ R.D. Congo |
 
 Inconnu |
 
-45 |
+46 |
 
 SWALA AVIATION |
 
@@ -374,7 +378,7 @@ R.D. Congo |
 
 Inconnu |
 
-46 |
+47 |
 
 TRACEP CONGO AVIATION |
 
@@ -382,7 +386,7 @@ R.D. Congo |
 
 Inconnu |
 
-47 |
+48 |
 
 Tous les transporteurs aériens certifiés par les autorités de Djibouti responsables de la surveillance réglementaire, à savoir : |
 
@@ -390,7 +394,7 @@ Djibouti |
 
 |
 
-48 |
+49 |
 
 DAALLO AIRLINES |
 
@@ -398,7 +402,7 @@ Djibouti |
 
 DAO |
 
-49 |
+50 |
 
 Tous les transporteurs aériens certifiés par les autorités de la Guinée équatoriale responsables de la surveillance réglementaire, à savoir : |
 
@@ -406,7 +410,7 @@ Guinée équatoriale |
 
 |
 
-50 |
+51 |
 
 CEIBA INTERCONTINENTAL |
 
@@ -414,7 +418,7 @@ Guinée équatoriale |
 
 CEL |
 
-51 |
+52 |
 
 CRONOS AIRLINES |
 
@@ -422,7 +426,7 @@ Guinée équatoriale |
 
 Inconnu |
 
-52 |
+53 |
 
 Tous les transporteurs aériens certifiés par les autorités de l'Érythrée responsables de la surveillance réglementaire, à savoir : |
 
@@ -430,7 +434,7 @@ Tous les transporteurs aériens certifiés par les autorités de l'Érythrée re
 
 |
 
-53 |
+54 |
 
 ERITREAN AIRLINES |
 
@@ -438,7 +442,7 @@ ERITREAN AIRLINES |
 
 ERT |
 
-54 |
+55 |
 
 NASAIR ERITREA |
 
@@ -446,7 +450,7 @@ NASAIR ERITREA |
 
 NAS |
 
-55 |
+56 |
 
 Tous les transporteurs aériens certifiés par les autorités du Kirghizstan responsables de la surveillance réglementaire, notamment : |
 
@@ -454,7 +458,7 @@ Kirghizstan |
 
 |
 
-56 |
+57 |
 
 AERO NOMAD AIRLINES |
 
@@ -462,7 +466,7 @@ Kirghizstan |
 
 ANK |
 
-57 |
+58 |
 
 AEROSTAN |
 
@@ -470,7 +474,7 @@ Kirghizstan |
 
 BSC |
 
-58 |
+59 |
 
 AIR COMPANY AIR KG |
 
@@ -478,7 +482,7 @@ Kirghizstan |
 
 Inconnu |
 
-59 |
+60 |
 
 AIRCOMPANY MOALEM AVIATION |
 
@@ -486,7 +490,7 @@ Kirghizstan |
 
 AMA |
 
-60 |
+61 |
 
 AVIA TRAFFIC COMPANY |
 
@@ -494,7 +498,7 @@ Kirghizstan |
 
 AVJ |
 
-61 |
+62 |
 
 CENTRAL ASIAN AVIATION SERVICES |
 
@@ -502,7 +506,7 @@ Kirghizstan |
 
 KAS |
 
-62 |
+63 |
 
 FLYSKY AIRLINES |
 
@@ -510,7 +514,7 @@ Kirghizstan |
 
 FSQ |
 
-63 |
+64 |
 
 GLOBAL 8 AIRLINES |
 
@@ -518,7 +522,7 @@ Kirghizstan |
 
 Inconnu |
 
-64 |
+65 |
 
 HELI SKY |
 
@@ -526,7 +530,7 @@ Kirghizstan |
 
 HAC |
 
-65 |
+66 |
 
 KAP.KG AIRCOMPANY |
 
@@ -534,7 +538,7 @@ Kirghizstan |
 
 KGS |
 
-66 |
+67 |
 
 MAC.KG AIRLINES |
 
@@ -542,7 +546,7 @@ Kirghizstan |
 
 MSK |
 
-67 |
+68 |
 
 SAPSAN AIRLINE |
 
@@ -550,7 +554,7 @@ Kirghizstan |
 
 KGB |
 
-68 |
+69 |
 
 JET SKY |
 
@@ -558,7 +562,7 @@ Kirghizstan |
 
 SJL |
 
-69 |
+70 |
 
 SKY KG AIRLINES |
 
@@ -566,7 +570,7 @@ Kirghizstan |
 
 KGK |
 
-70 |
+71 |
 
 TRANS CARAVANE KG |
 
@@ -574,7 +578,7 @@ Kirghizstan |
 
 TCK |
 
-71 |
+72 |
 
 TEZ JET |
 
@@ -582,7 +586,7 @@ Kirghizstan |
 
 TEZ |
 
-72 |
+73 |
 
 Tous les transporteurs aériens certifiés par les autorités du Liberia responsables de la surveillance réglementaire |
 
@@ -590,7 +594,7 @@ Liberia |
 
 |
 
-73 |
+74 |
 
 Tous les transporteurs aériens certifiés par les autorités de la Libye responsables de la surveillance réglementaire, à savoir : |
 
@@ -598,7 +602,7 @@ Libye |
 
 |
 
-74 |
+75 |
 
 AFRIQIYAH AIRWAYS |
 
@@ -606,7 +610,7 @@ Libye |
 
 AAW |
 
-75 |
+76 |
 
 AIR LIBYA |
 
@@ -614,7 +618,7 @@ Libye |
 
 TLR |
 
-76 |
+77 |
 
 AL MAHA AVIATION |
 
@@ -622,7 +626,7 @@ Libye |
 
 Inconnu |
 
-77 |
+78 |
 
 BERNIQ AIRWAYS |
 
@@ -630,7 +634,7 @@ Libye |
 
 BNL |
 
-78 |
+79 |
 
 BURAQ AIR |
 
@@ -638,7 +642,7 @@ Libye |
 
 BRQ |
 
-79 |
+80 |
 
 GLOBAL AIR TRANSPORT |
 
@@ -646,7 +650,7 @@ Libye |
 
 GAK |
 
-80 |
+81 |
 
 HALA AIRLINES |
 
@@ -654,7 +658,7 @@ Libye |
 
 HTP |
 
-81 |
+82 |
 
 LIBYAN AIRLINES |
 
@@ -662,7 +666,7 @@ Libye |
 
 LAA |
 
-82 |
+83 |
 
 LIBYAN WINGS AIRLINES |
 
@@ -670,7 +674,7 @@ Libye |
 
 LWA |
 
-83 |
+84 |
 
 PETRO AIR |
 
@@ -678,7 +682,7 @@ Libye |
 
 PEO |
 
-84 |
+85 |
 
 Tous les transporteurs aériens certifiés par les autorités du Népal responsables de la surveillance réglementaire, à savoir : |
 
@@ -686,7 +690,7 @@ Népal |
 
 |
 
-85 |
+86 |
 
 AIR DYNASTY HELI. S. |
 
@@ -694,7 +698,7 @@ Népal |
 
 Inconnu |
 
-86 |
+87 |
 
 ALTITUDE AIR |
 
@@ -702,7 +706,7 @@ Népal |
 
 Inconnu |
 
-87 |
+88 |
 
 BUDDHA AIR |
 
@@ -710,7 +714,7 @@ Népal |
 
 BHA |
 
-88 |
+89 |
 
 FISHTAIL AIR |
 
@@ -718,7 +722,7 @@ Népal |
 
 Inconnu |
 
-89 |
+90 |
 
 SUMMIT AIR |
 
@@ -726,7 +730,7 @@ Népal |
 
 Inconnu |
 
-90 |
+91 |
 
 HELI EVEREST |
 
@@ -734,7 +738,7 @@ Népal |
 
 Inconnu |
 
-91 |
+92 |
 
 HIMALAYA AIRLINES |
 
@@ -742,7 +746,7 @@ Népal |
 
 HIM |
 
-92 |
+93 |
 
 KAILASH HELICOPTER SERVICES |
 
@@ -750,7 +754,7 @@ Népal |
 
 Inconnu |
 
-93 |
+94 |
 
 MAKALU AIR |
 
@@ -758,7 +762,7 @@ Népal |
 
 Inconnu |
 
-94 |
+95 |
 
 MANANG AIR PVT |
 
@@ -766,7 +770,7 @@ Népal |
 
 Inconnu |
 
-95 |
+96 |
 
 MOUNTAIN HELICOPTERS |
 
@@ -774,7 +778,7 @@ Népal |
 
 Inconnu |
 
-96 |
+97 |
 
 PRABHU HELICOPTERS |
 
@@ -782,7 +786,7 @@ Népal |
 
 Inconnu |
 
-97 |
+98 |
 
 NEPAL AIRLINES CORPORATION |
 
@@ -790,7 +794,7 @@ Népal |
 
 RNA |
 
-98 |
+99 |
 
 SAURYA AIRLINES |
 
@@ -798,7 +802,7 @@ Népal |
 
 Inconnu |
 
-99 |
+100 |
 
 SHREE AIRLINES |
 
@@ -806,7 +810,7 @@ Népal |
 
 SHA |
 
-100 |
+101 |
 
 SIMRIK AIR |
 
@@ -814,7 +818,7 @@ Népal |
 
 Inconnu |
 
-101 |
+102 |
 
 SIMRIK AIRLINES |
 
@@ -822,7 +826,7 @@ Népal |
 
 RMK |
 
-102 |
+103 |
 
 SITA AIR |
 
@@ -830,7 +834,7 @@ Népal |
 
 Inconnu |
 
-103 |
+104 |
 
 TARA AIR |
 
@@ -838,7 +842,7 @@ Népal |
 
 Inconnu |
 
-104 |
+105 |
 
 YETI AIRLINES |
 
@@ -846,7 +850,7 @@ Népal |
 
 NYT |
 
-105 |
+106 |
 
 Les transporteurs aériens suivants certifiés par les autorités de la Russie responsables de la surveillance réglementaire : |
 
@@ -854,7 +858,7 @@ Russie |
 
 |
 
-106 |
+107 |
 
 AURORA AIRLINES |
 
@@ -862,7 +866,7 @@ Russie |
 
 SHU |
 
-107 |
+108 |
 
 AVIACOMPANY "AVIASTAR-TU" CO. LTD |
 
@@ -870,7 +874,7 @@ Russie |
 
 TUP |
 
-108 |
+109 |
 
 IZHAVIA |
 
@@ -878,7 +882,7 @@ Russie |
 
 IZA |
 
-109 |
+110 |
 
 JOINT STOCK COMPANY "AIR COMPANY "YAKUTIA" |
 
@@ -886,7 +890,7 @@ Russie |
 
 SYL |
 
-110 |
+111 |
 
 JOINT STOCK COMPANY "RUSJET" |
 
@@ -894,7 +898,7 @@ Russie |
 
 RSJ |
 
-111 |
+112 |
 
 JOINT STOCK COMPANY "UVT AERO" |
 
@@ -902,7 +906,7 @@ Russie |
 
 UVT |
 
-112 |
+113 |
 
 JOINT STOCK COMPANY SIBERIA AIRLINES |
 
@@ -910,7 +914,7 @@ Russie |
 
 SBI |
 
-113 |
+114 |
 
 JOINT STOCK COMPANY SMARTAVIA AIRLINES |
 
@@ -918,7 +922,7 @@ Russie |
 
 AUL |
 
-114 |
+115 |
 
 JOINT-STOCK COMPANY "IRAERO" AIRLINES |
 
@@ -926,7 +930,7 @@ Russie |
 
 IAE |
 
-115 |
+116 |
 
 JOINT-STOCK COMPANY "URAL AIRLINES" |
 
@@ -934,7 +938,7 @@ Russie |
 
 SVR |
 
-116 |
+117 |
 
 JOINT-STOCK COMPANY ALROSA AIR COMPANY |
 
@@ -942,7 +946,7 @@ Russie |
 
 DRU |
 
-117 |
+118 |
 
 JOINT-STOCK COMPANY NORDSTAR AIRLINES |
 
@@ -950,7 +954,7 @@ Russie |
 
 TYA |
 
-118 |
+119 |
 
 JS AVIATION COMPANY "RUSLINE" |
 
@@ -958,7 +962,7 @@ Russie |
 
 RLU |
 
-119 |
+120 |
 
 JSC YAMAL AIRLINES |
 
@@ -966,7 +970,7 @@ Russie |
 
 LLM |
 
-120 |
+121 |
 
 LLC "NORD WIND" |
 
@@ -974,7 +978,7 @@ Russie |
 
 NWS |
 
-121 |
+122 |
 
 LLC “AIRCOMPANY IKAR” |
 
@@ -982,7 +986,7 @@ Russie |
 
 KAR |
 
-122 |
+123 |
 
 LTD. I FLY |
 
@@ -990,7 +994,7 @@ Russie |
 
 RSY |
 
-123 |
+124 |
 
 POBEDA AIRLINES LIMITED LIABILITY COMPANY |
 
@@ -998,7 +1002,7 @@ Russie |
 
 PBD |
 
-124 |
+125 |
 
 PUBLIC JOINT STOCK COMPANY "AEROFLOT - RUSSIAN AIRLINES" |
 
@@ -1006,7 +1010,7 @@ Russie |
 
 AFL |
 
-125 |
+126 |
 
 ROSSIYA AIRLINES, JOINT STOCK COMPANY |
 
@@ -1014,7 +1018,7 @@ Russie |
 
 SDM |
 
-126 |
+127 |
 
 SKOL AIRLINE LLC |
 
@@ -1022,7 +1026,7 @@ Russie |
 
 CDV |
 
-127 |
+128 |
 
 UTAIR AVIATION, JOINT-STOCK COMPANY |
 
@@ -1030,7 +1034,7 @@ Russie |
 
 UTA |
 
-128 |
+129 |
 
 Tous les transporteurs aériens certifiés par les autorités de Sao Tomé-et-Príncipe responsables de la surveillance réglementaire, à savoir : |
 
@@ -1038,7 +1042,7 @@ Sao Tomé-et-Principe |
 
 |
 
-129 |
+130 |
 
 AFRICA'S CONNECTION |
 
@@ -1046,7 +1050,7 @@ Sao Tomé-et-Principe |
 
 ACH |
 
-130 |
+131 |
 
 STP AIRWAYS |
 
@@ -1054,7 +1058,7 @@ Sao Tomé-et-Principe |
 
 STP |
 
-131 |
+132 |
 
 Tous les transporteurs aériens certifiés par les autorités de la Sierra Leone responsables de la surveillance réglementaire |
 
@@ -1062,7 +1066,7 @@ Sierra Leone |
 
 |
 
-132 |
+133 |
 
 Tous les transporteurs aériens certifiés par les autorités du Soudan responsables de la surveillance réglementaire, à savoir : |
 
@@ -1070,7 +1074,7 @@ Soudan |
 
 |
 
-133 |
+134 |
 
 ALFA AIRLINES SD |
 
@@ -1078,7 +1082,7 @@ Soudan |
 
 AAJ |
 
-134 |
+135 |
 
 BADR AIRLINES |
 
@@ -1086,7 +1090,7 @@ Soudan |
 
 BDR |
 
-135 |
+136 |
 
 BLUE BIRD AVIATION |
 
@@ -1094,7 +1098,7 @@ Soudan |
 
 BLB |
 
-136 |
+137 |
 
 ELDINDER AVIATION |
 
@@ -1102,7 +1106,7 @@ Soudan |
 
 DND |
 
-137 |
+138 |
 
 GREEN FLAG AVIATION |
 
@@ -1110,7 +1114,7 @@ Soudan |
 
 GNF |
 
-138 |
+139 |
 
 HELEJETIC AIR |
 
@@ -1118,7 +1122,7 @@ Soudan |
 
 HJT |
 
-139 |
+140 |
 
 KATA AIR TRANSPORT |
 
@@ -1126,7 +1130,7 @@ Soudan |
 
 KTV |
 
-140 |
+141 |
 
 KUSH AVIATION CO. |
 
@@ -1134,7 +1138,7 @@ Soudan |
 
 KUH |
 
-141 |
+142 |
 
 NOVA AIRWAYS |
 
@@ -1142,7 +1146,7 @@ Soudan |
 
 NOV |
 
-142 |
+143 |
 
 SUDAN AIRWAYS CO. |
 
@@ -1150,7 +1154,7 @@ Soudan |
 
 SUD |
 
-143 |
+144 |
 
 SUN AIR |
 
@@ -1158,7 +1162,7 @@ Soudan |
 
 SNR |
 
-144 |
+145 |
 
 TARCO AIR |
 
