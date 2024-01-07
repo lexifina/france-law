@@ -2,7 +2,7 @@
 
 Tout salarié mentionné à l'article L. 2102-22 du code des transports présentant une invalidité ou une incapacité réduisant d'au moins des deux-tiers sa capacité de travail ou de gain peut demander le bénéfice d'une pension de retraite de réforme.
 
-La décision d'attribution d'une pension de retraite de réforme est prise par la Caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français après consultation d'une commission médicale au sein de laquelle siège au moins un médecin-conseil de la caisse.
+La décision d'attribution d'une pension de retraite de réforme est prise par la Caisse de prévoyance et de retraite du personnel ferroviaire après consultation d'une commission médicale au sein de laquelle siège au moins un médecin-conseil de la caisse.
 
 En cas de perception d'une pension d'invalidité prévue au titre IV du livre III du code de la sécurité sociale, le montant cumulé de la pension d'invalidité avec une pension de retraite de réforme ne peut excéder le montant qu'aurait perçu l'intéressé s'il avait bénéficié de la seule pension de retraite de réforme. En cas de dépassement de ce dernier montant, le montant de la pension de retraite de réforme est diminué à due concurrence de la pension d'invalidité perçue par l'intéressé.
 

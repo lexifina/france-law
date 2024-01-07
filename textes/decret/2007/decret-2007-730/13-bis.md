@@ -6,7 +6,7 @@ Cette commission est saisie :
 
 1° Des contestations d'ordre médical formées dans les matières mentionnées aux 1°, 4° et 5° de l'article L. 142-1 du code de la sécurité sociale ;
 
-2° Des contestations d'ordre médical formées dans les matières prévues par la convention conclue entre la caisse et la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports, au titre du mandat de gestion mentionné au II de l'article 3, à l'exception des contestations relatives aux accidents du travail et maladies professionnelles.
+2° Des contestations d'ordre médical formées dans les matières prévues par la convention conclue entre la caisse et la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du champ du I de l'article L. 2101-2 du code des transports, au titre du mandat de gestion mentionné au II de l'article 3, à l'exception des contestations relatives aux accidents du travail et maladies professionnelles.
 
 Cette commission peut également être saisie des recours préalables formés contre les décisions d'ordre médical prises par un autre régime spécial de sécurité sociale, dans les conditions prévues au 2° du II de l'article R. 711-21 du code de la sécurité sociale.
 
@@ -16,7 +16,7 @@ II.-La commission statuant en matière médicale prévue au I est composée de d
 
 1° Un médecin figurant sur les listes dressées en application de l'article 2 de la loi du 29 juin 1971 relative aux experts judiciaires, compétent pour le litige d'ordre médical considéré ;
 
-2° Un praticien-conseil de la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français ou, le cas échéant, un praticien-conseil de l'organisme déléguant à l'origine de la décision contestée.
+2° Un praticien-conseil de la caisse de prévoyance et de retraite du personnel ferroviaire ou, le cas échéant, un praticien-conseil de l'organisme déléguant à l'origine de la décision contestée.
 
 Ne peuvent siéger à la commission, ou être désignés comme praticien mentionné au IV, ni le médecin qui a soigné l'assuré malade ou victime, ni un médecin attaché à l'employeur, ni le praticien-conseil de l'organisme, auteur de l'avis médical contesté, ni un médecin appartenant au conseil d'administration de l'organisme. En cas de partage des voix, celle du médecin mentionné au 1° est prépondérante.
 
@@ -40,8 +40,4 @@ Le secrétariat transmet sans délai l'avis de la commission au service concern�
 
 VI.-Les honoraires et frais de déplacement dus au médecin mentionné au 1° du II et au praticien mentionné au IV pour les besoins de l'examen du recours préalable sont réglés d'après les tarifs fixés par l'arrêté mentionné à l'article R. 142-8-6 du code de la sécurité sociale.
 
-Lorsque l'assuré est convoqué, ses frais de déplacement lui sont remboursés conformément aux dispositions de l'article R. 322-10 du code de la sécurité sociale. Ces dépenses sont à la charge de la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français.
-
-NOTA :
-
-Conformément à l'article 2 du décret n° 2022-756 du 29 avril 2022, ces dispositions sont applicables aux contestations formées à compter du 1er mai 2022.
+Lorsque l'assuré est convoqué, ses frais de déplacement lui sont remboursés conformément aux dispositions de l'article R. 322-10 du code de la sécurité sociale. Ces dépenses sont à la charge de la caisse de prévoyance et de retraite du personnel ferroviaire.

@@ -1,10 +1,10 @@
 # Article Annexe 3
 
-Les emplois d'agent de conduite permettant l'ouverture du droit à la retraite à cinquante ans, visée à l'article 1er du présent décret, et aux bonifications de traction visées au 1° de l'article 9 du présent décret relèvent de la filière "Transport-Traction" et de la spécialité "traction".
+Les emplois d'agent de conduite permettant l'ouverture du droit à la retraite à l'âge visé au 1° du I des articles 1er et 37-1 du présent décret, et aux bonifications de traction visées au 1° de l'article 9 du présent décret relèvent de la filière "Transport-Traction" et de la spécialité "traction".
 
-Sont concernés les agents placés sur les qualifications TA et TB et occupant l'un des grades suivants :
+Sont concernés les agents placés sur les classes TA et TB et occupant l'un des emplois suivants :
 
-1. Qualification TA :
+1. Classe TA :
 
 - conducteur de tram-train (CRTT) ;
 
@@ -14,7 +14,7 @@ Sont concernés les agents placés sur les qualifications TA et TB et occupant l
 
 - conducteur de manœuvre et de lignes locales principal (CRMLP).
 
-2. Qualification TB :
+2. Classe TB :
 
 - conducteur de ligne élève (CRLEL) ;
 
