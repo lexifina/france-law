@@ -28,6 +28,10 @@ Saint-Martin |
 
 Pointe-à-Pitre |
 
+Le Havre |
+
+(néant) |
+
 Lille |
 
 (néant) |
@@ -56,8 +60,6 @@ Papeete |
 
 Rennes |
 
-Le Havre |
-
 Nantes |
 
 Saint-Denis de La Réunion |
@@ -71,3 +73,7 @@ Mulhouse |
 Versailles |
 
 (néant) |
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 21 décembre 2023 (NOR : IOMC2325878A), ces dispositions entrent en vigueur le 8 janvier 2024.
