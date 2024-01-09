@@ -1,0 +1,9 @@
+# Réponse à la question n° 2768
+
+- Question : [2768](2768.md) — Question n° 2768 — Services d'aide à domicile
+
+## Réponse
+
+*JO du 2024-01-09, page 244*
+
+Les dispositions du décret du 28 avril 2022 ont pour objectif d'améliorer la lisibilité des contrats passés entre établissements et services sociaux et médico-sociaux et les personnes qu'elles accueillent ou accompagnent. Le nouvel article D. 311-0-4-1 du Code de l'action sanitaire et sociale, créé par le décret du 28 avril 2022, doit permettre l'intégration des frais annexes et de gestion dans le prix horaire de la prestation des services d'aide et d'accompagnement à domicile (SAAD) (et non leur suppression), notamment les frais de dossier et de remplacement ou de maintien d'intervenant. Ne sont pas concernés par cette mesure les frais annexes correspondant à des exigences particulières ayant fait l'objet d'une demande écrite du bénéficiaire, ce qui laisse une souplesse aux opérateurs, ni les frais kilométriques des intervenants pour les prestations d'accompagnement. Le but de cette mesure est d'éviter la multiplication de frais annexes ajoutés au prix horaire de la prestation empêchant la lisibilité du prix et la comparaison des prix entre les prestataires de SAAD. La facturation de ces sommes (qui correspondent à des coûts pour l'opérateur) aux consommateurs n'est pas interdite mais doit être uniquement effectuée au travers du prix horaire de la prestation, qui doit être clairement annoncé. Pour rappel, ce décret s'applique aux nouveaux contrats signés à partir du 1er janvier 2023. Les obligations en matière d'information et de lisibilité des prix pratiqués par services à domicile sont d'autant plus nécessaires qu'ils s'adressent à des personnes vulnérables en raison de leur perte d'autonomie ou de leur handicap. Ainsi, un assouplissement de ces règles n'est pas envisagé.
