@@ -1,0 +1,9 @@
+# Réponse à la question n° 12288
+
+- Question : [12288](12288.md) — Question n° 12288 — MAEC
+
+## Réponse
+
+*JO du 2024-01-09, page 177*
+
+La politique agricole commune (PAC) 2023-2027 a fait l'objet d'une concertation sans précédent des parties prenantes et d'un accord avec Régions de France sur le fonds européen agricole pour le développement rural (FEADER) régionalisé pour 2023-2027. Le ministère chargé de l'agriculture a rendu les grands arbitrages du plan stratégique national dans le cadre du comité État-régions et du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire des 21 et 22 mai 2021. Il a été arbitré que le dispositif des mesures agro-environnementales et climatiques (MAEC) serait doté d'un budget annuel de 260 millions d'euros (M€), soit 5 M€ de plus que dans la programmation précédente, dont 205 M€ de FEADER, au niveau national sur la programmation 2023-2027. Une partie de cette enveloppe a été fléchée vers les conseils régionaux pour la mise en œuvre des MAEC non surfaciques : les MAEC forfaitaires (22 M€ de FEADER) et les MAEC relatives à la préservation du potentiel pollinisateur des abeilles et à la préservation des races menacées pour 10 M€ de FEADER. Il s'avère au vu des retours dans les différents territoires, que la demande de souscription de MAEC a été plus importante que prévue, ce qui traduit la volonté de nombre d'agriculteurs de s'inscrire dans une trajectoire agro-écologique. L'État entend répondre à ces demandes sur les MAEC comme chaque année quand elles sont éligibles et dans le respect du travail de priorisation et de plafonnement effectué dans chaque région. Une enveloppe complémentaire de 150 M€ sera ainsi déployée sur les MAEC et sur le soutien à la conversion en agriculture biologique pour la campagne 2023, grâce au concours des agences de l'eau et d'un apport du ministère de l'agriculture et de la souveraineté alimentaire.
