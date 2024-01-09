@@ -1,0 +1,9 @@
+# Réponse à la question n° 11807
+
+- Question : [11807](11807.md) — Question n° 11807 — Agents exclus du CTI dans la filière des résidences autonomie
+
+## Réponse
+
+*JO du 2024-01-09, page 279*
+
+Conscient des difficultés rencontrées dans le secteur social et médico-social, le Gouvernement a pris des engagements forts pour assurer une reconnaissance de tous les personnels, tant dans le secteur public que dans le secteur privé. Dans la continuité des mesures de revalorisation déjà portées par le Gouvernement, d'abord avec les accords du Ségur de la Santé de juillet 2020, puis avec l'extension des revalorisations aux personnels soignants des établissements et services sociaux et médico-sociaux (ESSMS), le Gouvernement s'est engagé à prendre des mesures fortes en faveur des professionnels de la filière socio-éducative. A ce titre s'est tenue le 18 février 2022 une conférence des métiers de l'accompagnement social et médico-social pour fixer le cap et la méthode de la revalorisation salariale. S'agissant du secteur public, c'est l'article 48 de la loi de financement de la sécurité sociale pour 2021 modifié, et son décret d'application n° 2020-1152 du 19 septembre 2020 modifié, qui ouvrent le bénéfice du complément de traitement indiciaire aux personnels concernés. Dans le secteur privé, la mesure a été transposée par textes conventionnels. Aussi, l'ensemble des personnels paramédicaux, aides médico-psychologiques, auxiliaires de vie sociale et accompagnants éducatifs et sociaux exerçant dans les résidences autonomie bénéficient de la mesure de revalorisation salariale depuis le mois de novembre 2021. Ils sont visés au 6° de l'article 2 du décret du 19 septembre 2020 susvisé. Les personnels de la filière socio-éducative exerçant dans les ESSMS, donc y compris dans les résidences autonomie, bénéficient également du complément de traitement indiciaire depuis le 1er avril 2022.
