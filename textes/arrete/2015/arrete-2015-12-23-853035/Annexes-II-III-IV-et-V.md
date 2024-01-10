@@ -1,3 +1,3 @@
-# Article Annexes II, III, IV, et V
+# Article Annexes II, III, IV, V et VI
 
-Les annexes II, III, IV et V peuvent être consultées sur le site internet de l'unité des concours et examens maritimes (UCEM) : www.ucem-nantes.fr.
+(1) Les annexes II, III, IV, V et VI peuvent être consultées sur le site : https://formations.mer.gouv.fr.
