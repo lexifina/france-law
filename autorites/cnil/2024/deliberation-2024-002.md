@@ -1,0 +1,140 @@
+# Délibération n° 2024-002 du 11 janvier 2024 portant avis sur un projet de décret relatif à la mise en œuvre de traitements d'images au moyen de caméras embarquées dans les véhicules, embarcations et autres moyens de transport des forces de sécurité intérieure et des acteurs de la sécurité civile
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2024-002
+- Date : 2024-01-11
+- Publication : 2024-03-27
+- NOR : CNIX2406229V
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000049308812
+
+Date de l’avis : 11 janvier 2024
+
+|
+
+N° de la délibération : 2024-002
+
+|
+
+N° de demande d’avis : 23013610
+
+N° d’acte réglementaire unique : RU-80
+
+Organisme(s) à l’origine de la saisine : ministère de l’intérieur et des outre-mer et ministère de l’économie, des finances et de la souveraineté industrielle et numérique
+
+|
+
+Textes concernés : projet de décret relatif à la mise en œuvre de traitements d’images au moyen de caméras embarquées dans les véhicules, embarcations et autres moyens de transport des forces de sécurité intérieure et des acteurs de la sécurité civile
+
+|
+
+Thématiques : caméras embarquées, forces de sécurité intérieure, acteurs de la sécurité civile
+
+|
+
+Fondement de la saisine : article L. 243-5 du code de la sécurité intérieure
+
+|
+
+L’essentiel :
+
+1. La CNIL a été saisie d’un projet de décret d’application relatif aux dispositions du code de la sécurité intérieure autorisant les forces de l’ordre, les douanes et les acteurs de la sécurité civile à utiliser des caméras embarquées aux fin d’assurer la sécurité de leurs interventions.
+
+2. Le projet de décret constitue un acte réglementaire unique.
+
+L’analyse d’impact relative à la protection des données (AIPD) cadre qui a été transmise à la CNIL ne lui permet pas de s’assurer des solutions et procédures mises en œuvre pour garantir la sécurité des traitements projetés. Elle
+
+considère que les AIPD complémentaires transmises par les responsables de traitement lors de l’envoi de l’engagement de conformité devront être complétées, notamment sur les modalités de transmission en temps réel des enregistrements et d’accès direct aux enregistrements par les personnels.
+
+3. La CNIL rappelle que l’information des personnes doit comporter l’ensemble des mentions d’information exigées par la réglementation sur la protection des données.
+
+|
+
+LA COMMISSION NATIONALE DE L'INFORMATIQUE ET DES LIBERTÉS,
+
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données ou RGPD) ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés (" loi informatique et libertés "), notamment son article 31 et son titre III ;
+
+Après avoir entendu le rapport de Mme Sophie LAMBREMON, commissaire, et les observations de M. Damien MILIC, commissaire du Gouvernement,
+
+ADOPTE LA DÉLIBÉRATION SUIVANTE :
+
+I. La saisine
+
+A. Le contexte
+
+Les articles L. 243-1 à L. 243-5 du code de la sécurité intérieure (CSI) ont créé un cadre juridique autorisant la captation d’images au moyen de caméras embarquées dans les véhicules, embarcations et autres moyens de transport par :
+
+les agents de la police nationale ;
+
+les agents des douanes ;
+
+les militaires de la gendarmerie nationale ;
+
+les sapeurs-pompiers professionnels et volontaires des services d’incendie et de secours ;
+
+les personnels des services de l’État et les militaires des unités investis à titre permanent de missions de sécurité civile.
+
+Des traitements de données à caractère personnel provenant des caméras embarquées peuvent être mis en œuvre aux seules fins d’assurer la sécurité des interventions de ces personnels dans l’exercice des missions de prévention des atteintes à l’ordre public et de protection des personnes et des biens.
+
+Le CSI prévoit certaines garanties. Notamment :
+
+l’enregistrement n’est pas permanent et ne peut être déclenché que lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances ou au comportement des personnes concernées ;
+
+un signal visuel ou sonore spécifique indique si un enregistrement est en cours ;
+
+les caméras embarquées ne peuvent pas comporter de traitements automatisés de reconnaissance faciale ;
+
+ces dispositifs ne peuvent procéder à aucun rapprochement, interconnexion ou mise en relation automatisée avec d’autres traitements de données à caractère personnel.
+
+Eu égard aux finalités poursuivies par les traitements, ces derniers relèvent, d’une part, du régime de la directive " police-justice " transposée au titre III de la loi " informatique et libertés " lorsqu’ils sont mis en œuvre par les services de police nationale, de la gendarmerie nationale et des douanes, et d’autre part, du régime du RGPD lorsqu’ils sont mis en œuvre par les acteurs de la sécurité civile.
+
+B. L’objet de la saisine
+
+La CNIL a été saisie par le ministère de l’intérieur pour avis sur un projet de décret précisant les modalités d’application des articles L. 243-1 à L. 243-5 du CSI, et d’utilisation des données collectées.
+
+Ce projet de décret constitue un acte réglementaire unique conformément au IV de l’article 31 de la loi " informatique et libertés ". La mise en œuvre des traitements est ainsi subordonnée à l’envoi préalable à la CNIL, par le responsable de traitement, d’un engagement de conformité aux dispositions du présent projet de décret, ainsi que d’une analyse d’impact relative à la protection des données à caractère personnel (AIPD) précisant les caractéristiques particulières de chacun des traitements mis en œuvre. Cette AIPD précisera les caractéristiques qui ne figurent pas dans l’AIPD cadre transmise par le ministère de l’intérieur et le ministère chargé des douanes à la CNIL.
+
+Le ministère de l’intérieur et le ministère chargé des douanes ont indiqué ne pas disposer à l’heure actuelle de caméras embarquées qui répondent à l’ensemble des conditions fixées par la loi (par exemple, l’exigence relative au processus d’authentification forte permettant d’assurer l’intégrité et la traçabilité des enregistrements). À la suite de la publication de ce projet de décret, les ministères réaliseront des " tests " de matériels dans le respect des dispositions législatives du CSI relatives aux caméras embarquées, afin d’identifier les dispositifs correspondant le mieux aux besoins opérationnels exprimés par les services (notamment sur la qualité vidéo et la durée des batteries). Le matériel retenu et utilisé par chaque service et ses caractéristiques techniques seront portés à la connaissance de la CNIL lors de l’envoi par ces derniers de l’engagement de conformité, accompagné d’une AIPD.
+
+II. L’avis de la CNIL
+
+A. Sur les modalités de fonctionnement des dispositifs
+
+Les types de véhicules sur lesquels pourront être déployées des caméras embarquées sont les véhicules terrestres, ainsi que les véhicules maritimes s’agissant des agents des douanes. Les véhicules aériens sont exclus dans la mesure où un cadre légal spécifique s’applique aux caméras installées sur des aéronefs (articles L. 242-1 à L. 242-8 du CSI).
+
+L’article L. 243-1 du CSI prévoit que les caméras embarquées filmeront " des lieux publics ". Ces caméras pourront dès lors filmer uniquement la voie publique et les lieux ouverts au public, à l’exclusion des lieux privés. L’article L. 243-4 du CSI précise à cet égard que lorsque l’emploi de ces caméras conduit à visualiser l’intérieur des domiciles ou leurs entrées, l’enregistrement est immédiatement interrompu. Toutefois, lorsqu’une telle interruption n’a pas pu avoir lieu en raison des circonstances de l’intervention, les images sont supprimées dans un délai de quarante-huit heures à compter de la fin du déploiement du dispositif, sauf lorsque les images sont transmises à l’autorité judiciaire dans ce délai, à l’occasion d’un signalement.
+
+Le ministère indique que l’emplacement des caméras sur les véhicules sera précisé dans les AIPD complémentaires réalisées par les services utilisateurs et envoyées à la CNIL lors des engagements de conformité. La CNIL rappelle que conformément à l’article L. 243-1 du CSI, et en l’état des précisions apportées à ce stade, les caméras seront positionnées de telle sorte à ne filmer que la voie publique. Les caméras embarquées ne seront pas associées à des logiciels permettant une analyse automatique de l’image (vidéo " augmentée "), ce qui constitue une garantie pour la protection des données à caractère personnel. La CNIL estime que ces précisions devront figurer dans l’AIPD cadre.
+
+L’article L. 243-1 du CSI prévoit que les agents concernés peuvent être autorisés à procéder, au moyen de caméras embarquées, à un enregistrement de leurs interventions " lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances ou au comportement des personnes concernées ". La CNIL considère que les doctrines d’emploi devraient apporter des précisions sur les conditions d’utilisation des caméras embarquées et de déclenchement des enregistrements.
+
+Par ailleurs, la loi et le projet de décret prévoient que, dans certaines circonstances, les enregistrements peuvent faire l’objet, d’une part, d’une transmission en temps réel au poste de commandement du service concerné et aux personnels impliqués dans la conduite et l’exécution de l’intervention et, d’autre part, d’un accès direct par les personnels participant à l’intervention. L’AIPD cadre donne des exemples d’hypothèses où une transmission d’images en temps réel ou un accès direct aux enregistrements par les personnels est nécessaire. La CNIL prend acte de ce que les doctrines d’emploi expliciteront les critères justifiant la transmission en temps réel des enregistrements et leur accès direct par les personnels. Elle estime que les AIPD complémentaires transmises par les responsables de traitement lors de l’envoi de l’engagement de conformité devront être complétées sur les modalités techniques de transmission en temps réel avant leur mise en œuvre.
+
+B. Sur les droits des personnes
+
+S’agissant du droit à l’information, le projet d’article R. 243-7 du CSI précise qu’" une information générale du public sur l’emploi des caméras embarquées est délivrée sur les sites internet du ministère de l’intérieur et du ministère chargé des douanes ".
+
+L’article L. 243-2 du CSI prévoit que le public est informé, par une signalétique apposée sur le moyen de transport, que celui-ci est équipé d’une caméra. Toutefois, cette obligation ne s’applique pas " aux véhicules ne comportant pas d’équipements ou de dispositifs de signalisation spécifiques et affectés à des missions impliquant l’absence d’identification du service concerné ". La CNIL considère que, d’une part, l’AIPD cadre devrait apporter des précisions sur la signalétique à apposer et que, d’autre part, le décret pourrait préciser les exceptions dans lesquelles elle ne sera pas présente. Elle prend acte de ce que des exemples de cas d’usage à cette dérogation pourront être apportés dans les doctrines d’emploi (notamment le cas d’usage des véhicules banalisés).
+
+Pour les traitements relevant du régime du RGPD, dans la mesure où les données sont collectées directement après des personnes concernées, l’information doit se faire au moment de la collecte de données (c’est-à-dire au moment de l’enregistrement). L’information générale du public sur les sites web du ministère de l’intérieur et du ministère chargé des douanes ne satisfait pas à cette exigence. De plus, en l’état des informations dont dispose la CNIL, la signalétique spécifique apposée sur le moyen de transport ne comporte pas l’ensemble des mentions d’information exigées au titre de l’article 13 du RGPD et le signal visuel ou sonore spécifique émis au moment de l’enregistrement, du fait même de sa nature, ne saurait pallier cette absence. En l’espèce, telles qu’exposées, les modalités de mise en œuvre du dispositif ne permettent pas de fournir aux personnes filmées l’ensemble des mentions d’information exigées au titre de l’article 13 du RGPD au moment du déclenchement de l’enregistrement. Dans ces conditions, et sans remettre en cause le principe d’une information générale du public sur les sites web
+
+du ministère de l’intérieur et du ministère chargé des douanes, la CNIL prend acte de ce que le projet de décret sera modifié afin d’indiquer la limitation au droit à l’information prévue au c) du 1 de l’article 23 du RGPD (la sécurité publique).
+
+Pour les traitements relevant du régime de la directive " police-justice ", les articles 104 et 109 de la loi " informatique et libertés " imposent au responsable de traitement de " mettre à disposition " l’information auprès des personnes, " par tout moyen approprié, y compris par voie électronique et, de manière générale, sous la même forme que la demande ". La CNIL rappelle que, sauf à ce que des restrictions soient formellement prévues, l’information générale du public sur les sites web
+
+du ministère de l’intérieur et du ministère chargé des douanes devra comporter l’ensemble des mentions exigées par l’article 104 de la loi " informatique et libertés ".
+
+S’agissant du droit à l’effacement, pour les traitements relevant du régime du RGPD, le projet d’article R. 243-8 du CSI prévoit que ce droit est applicable. Cette mention semble erronée dans la mesure où l’article 17.3.b du RGPD prévoit que le droit à l’effacement n’est pas applicable pour les traitements fondés sur la base légale relative à la mission d’intérêt public, ce qui est le cas en l’espèce. La CNIL prend acte de ce que le projet de décret sera modifié sur ce point afin d’indiquer que ce droit n’est pas applicable.
+
+C. Sur les mesures de sécurité
+
+L’AIPD cadre ne permettant pas à la CNIL de s’assurer des solutions et procédures mises en œuvre pour garantir la sécurité des traitements projetés, la CNIL propose de remplacer le II du projet d’article R. 243-2 du CSI par la rédaction suivante : " Les caméras sont équipées de dispositifs techniques permettant de garantir la disponibilité, la confidentialité et l'intégrité des enregistrements". Une rédaction similaire a été utilisée à l’article R. 253-2 du CSI dans sa rédaction issue du décret n° 2023-1102 du 27 novembre 2023 relatif à la mise en œuvre des traitements de données à caractère personnel provenant de systèmes de vidéoprotection.
+
+La CNIL relève que les AIPD devront être complétées et mises à jour lorsque les dispositifs seront choisis et mis en place. Elle appelle le ministère et les futurs responsables de traitement à s’assurer de la complétude des AIPD sur les caractéristiques particulières de chacun des traitements (notamment les mesures techniques et organisationnelles pour la consultation des images, leur enregistrement et le déchargement des contenus vidéo) avant leur déploiement opérationnel.
+
+La Présidente
+
+M-L. Denis
