@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204189
+
+- Question : [SEQ221204189](seq221204189.md) — Mission d'évaluation des dispositifs spécialisés contre les maladies neurodégénératives confiée à l'inspection générale des affaires sociales
+
+## Réponse
+
+*Solidarités et familles, JO du 2024-01-11, page 138*
+
+La maladie d'Alzheimer et les maladies neurodégénératives apparentées et, plus particulièrement les symptômes neurocognitifs et psycho-comportementaux qui y sont fréquemment associés, représentent un enjeu majeur de santé publique. Des dispositifs spécialisés de prise en charge se sont développés depuis quelques années au bénéfice des personnes atteintes de ces maladies : Pôles d'activité et de soins adaptés (PASA), Unités d'hébergement renforcé (UHR), Unités cognitivo-comportementales (UCC), Unités de vie Alzheimer (UVA) en établissements ainsi que les Equipes spécialisées Alzheimer (ESA) auprès de personnes résidant à leur domicile. L'inspection générale des affaires sociales (IGAS) a été saisie en juin 2021 par le ministre des solidarités et de la santé pour évaluer ces dispositifs et définir la place qu'ils peuvent occuper dans les années à venir. Le rapport de l'IGAS qui répond à cette saisine a été rendu public en septembre 2023 (https://igas.gouv.fr/IMG/pdf/2021-104r.pdf). Il indique que ces dispositifs ont répondu, dans l'ensemble, aux besoins des personnes atteintes de la maladie d'Alzheimer et des maladies apparentées mais qu'ils présentent des limites qui ont conduit la mission IGAS à formuler des recommandations. Ces recommandations ont largement inspiré les projets d'action préparés par les ministères (solidarités et familles, santé et prévention) qui sont, depuis septembre 2023, soumis à la concertation dans le cadre de la préparation de la future stratégie nationale maladies neurodégénératives 2024-2028.
