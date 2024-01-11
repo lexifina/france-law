@@ -1,6 +1,6 @@
 # Article Tableau 2
 
-Tableau 2. - Les écoles de spécialisation autorisées à délivrer un diplôme d'ingénieur de spécialisation aux élèves déjà itulaires d'un diplôme d'ingénieur
+Tableau 2.-Les écoles de spécialisation autorisées à délivrer un diplôme d'ingénieur de spécialisation aux élèves déjà itulaires d'un diplôme d'ingénieur
 
 Région académique
 
@@ -38,13 +38,13 @@ Université Lyon-I
 
 École polytechnique universitaire
 
-Bâtiment ISTIL - 15, boulevard Latarjet
+Bâtiment ISTIL-15, boulevard Latarjet
 
 69622 Villeurbanne cedex |
 
 Public Enseignement supérieur |
 
-Ingénieur spécialisé en intrapreneuriat et innovation, diplômé de l'école polytechnique universitaire de l'université de Lyon-I |
+Ingénieur spécialisé en intrapreneuriat et innovation, diplômé de l'école polytechnique universitaire de la ComUE Lyon Saint-Étienne-I |
 
 Formation initiale sous statut d'étudiant |
 
@@ -66,7 +66,7 @@ Université de Lorraine
 
 88051 Épinal
 
-- site d'Arcueil |
+-site d'Arcueil |
 
 Public Enseignement supérieur |
 

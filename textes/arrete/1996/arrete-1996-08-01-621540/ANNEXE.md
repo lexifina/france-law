@@ -14,7 +14,7 @@
 
 7. Certificat d'études supérieures de psychologie pathologique de l'université Lille-III.
 
-8. Diplôme de psychologie pratique, option Psychopathologie ou option Psychopédagogie médico-sociale, de l'université de Lyon, puis de l'université Lyon-II.
+8. Diplôme de psychologie pratique, option Psychopathologie ou option Psychopédagogie médico-sociale, de la ComUE Lyon Saint-Étienne, puis de l'université Lyon-II.
 
 9. Diplôme de psychopathologie et de psychologie appliquée de l'université de Montpellier, puis de l'université Montpellier-III.
 

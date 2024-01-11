@@ -2,9 +2,7 @@
 
 B.-II.-Répartition des emplois d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche relevant de l'
 
-article 57-2
-
-du décret du 3 décembre 1983 susvisé, services et établissements relevant du ministre chargé de l'enseignement supérieur
+article 57-2du décret du 3 décembre 1983 susvisé, services et établissements relevant du ministre chargé de l'enseignement supérieur
 
 |
 
@@ -12,9 +10,9 @@ Académies |
 
 Localisation |
 
-NOMBRE
+NOMBREd
 
-d'emplois
+'emplois
 
 |
 
@@ -254,7 +252,7 @@ Université Lyon-III |
 
 |
 
-Université de Lyon |
+ComUE Lyon Saint-Étienne |
 
 1 |
 

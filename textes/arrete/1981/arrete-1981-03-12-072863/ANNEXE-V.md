@@ -42,7 +42,7 @@ Ecole d'éducatrices spécialisées, 2, rue d'Antin, 20, boulevard de la Libert�
 
 LYON (69)
 
-Ecole pratique de psychologie et de pédagogie de l'université de Lyon, section d'éducateurs spécialisés, 47-49, rue Philippe-de-Lassalle. (Diplômes délivrés à compter de juin 1944.)
+Ecole pratique de psychologie et de pédagogie de la ComUE Lyon Saint-Étienne, section d'éducateurs spécialisés, 47-49, rue Philippe-de-Lassalle. (Diplômes délivrés à compter de juin 1944.)
 
 Institut de pédagogie des facultés catholiques, 25, rue du Plat. (Diplômes délivrés à compter de juin 1950.)
 

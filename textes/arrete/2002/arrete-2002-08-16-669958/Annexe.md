@@ -222,7 +222,7 @@ Institut national d'histoire de l'art
 
 |
 
-Université de Lyon
+ComUE Lyon Saint-Étienne
 
 |
 

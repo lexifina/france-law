@@ -48,7 +48,7 @@ Ecole d'éducatrices spécialisées, 2, rue d'Antin ; 20, boulevard de la Libert
 
 LYON (69)
 
-Ecole pratique de psychologie et de pédagogie de l'université de Lyon, section d'éducateurs spécialisés, 47-49, rue Philippe-de-Lassalle. (Diplômes délivrés à compter de juin 1944.)
+Ecole pratique de psychologie et de pédagogie de la ComUE Lyon Saint-Étienne, section d'éducateurs spécialisés, 47-49, rue Philippe-de-Lassalle. (Diplômes délivrés à compter de juin 1944.)
 
 Institut de pédagogie des facultés catholiques, 25, rue du Plat. (Diplômes délivrés à compter de juin 1950.)
 
@@ -94,7 +94,7 @@ Ecole de formation psychopédagogique de l'institut catholique de Paris, 12, rue
 
 Centre de formation d'éducateurs spécialisés et de moniteurs éducateurs, 60, rue de Rome (8e), puis 145, avenue Parmentier (10e). (Diplômes délivrés à compter de juin 1964.)
 
-Centre de formation de jardinières spécialisées, A.C.F.J.E., 56, rue de Passy (de 1962 à 1971) ; I.F.O.P.E.J.E., 8, rue du Mail (de 1971 à 1974). (Diplômes de jardinière spécialisée délivrés à compter de 1962.)
+Centre de formation de jardinières spécialisées, A. C. F. J. E., 56, rue de Passy (de 1962 à 1971) ; I. F. O. P. E. J. E., 8, rue du Mail (de 1971 à 1974). (Diplômes de jardinière spécialisée délivrés à compter de 1962.)
 
 PAU (64)
 

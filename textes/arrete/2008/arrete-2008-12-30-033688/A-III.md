@@ -92,13 +92,13 @@ Université de Limoges |
 
 Lyon |
 
-Université de Lyon-I |
+ComUE Lyon Saint-Étienne-I |
 
 2 |
 
 |
 
-Université de Lyon |
+ComUE Lyon Saint-Étienne |
 
 1 |
 
