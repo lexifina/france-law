@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230205066
+
+- Question : [SEQ230205066](seq230205066.md) — Imposition en France des avoirs financiers au Liban
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2024-01-11, page 112*
+
+En application du paragraphe 1 de l'article 16 de la convention fiscale entre la France et le Liban signée le 24 juillet 1962, les intérêts provenant du Liban et payés à un résident de France ne sont imposables qu'en France. L'article 12 du code général des impôts (CGI) prévoit que les revenus ne sont imposables qu'au moment où ils sont disponibles pour le contribuable, c'est-à-dire lorsque leur perception ne dépend que de la seule volonté du bénéficiaire. Ainsi, en matière d'intérêts, l'impôt est dû par le seul fait de leur paiement ou de leur inscription au crédit d'un compte bancaire. Néanmoins, le Bulletin Officiel des Finances Publiques - Impôts référencé BOI-IR-BASE-10-10-10-40 (§ 140) précise que cette présomption de disponibilité peut être détruite par la preuve contraire, notamment si, par suite de circonstances diverses, le contribuable n'a pas été en mesure de disposer des sommes portées en compte. Tel est le cas, par exemple, si le contribuable établit qu'il se trouve dans l'impossibilité matérielle de retirer ces sommes en raison du blocage du compte courant à l'étranger. Les intérêts sont alors imposables l'année de leur déblocage ou de leur utilisation sur place, sur la base du cours de change à cette date. En l'espèce, eu égard à la situation particulièrement dégradée de l'économie libanaise et aux restrictions imposées par les banques, les demandes de non-imposition des intérêts perçus l'année de l'inscription au crédit d'un compte bancaire bloqué peuvent être admises dans leur principe. Il revient néanmoins au contribuable d'apporter la preuve que les intérêts perçus n'étaient pas disponibles au titre des années concernées.
