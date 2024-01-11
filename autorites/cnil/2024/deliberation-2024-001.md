@@ -1,0 +1,82 @@
+# Délibération n° 2024-001 du 11 janvier 2024 portant avis sur un projet de décret en Conseil d'Etat modifiant le décret n° 2019-341 du 19 avril 2019 relatif à la mise en œuvre de traitements comportant l'usage du numéro d'inscription au répertoire national d'identification des personnes physiques ou nécessitant la consultation de ce répertoire
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2024-001
+- Date : 2024-01-11
+- Publication : 2024-03-29
+- NOR : CNIX2407049V
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000049335896
+
+Date de l’avis : 11 janvier 2024
+
+|
+
+N° de la délibération : 2024-001
+
+|
+
+N° de demande d’avis : 23015150
+
+Organisme(s) à l’origine de la saisine : ministère de l’intérieur et des outre-mer
+
+|
+
+Textes concernés : projet de décret en Conseil d’État modifiant le décret n° 2019-341 du 19 avril 2019 relatif à la mise en œuvre de traitements comportant l’usage du numéro d’inscription au répertoire national d’identification des personnes physiques ou nécessitant la consultation de ce répertoire
+
+|
+
+Thématiques : numéro d’inscription au répertoire national d’identification des personnes physiques (NIR), répertoire national d’identification des personnes physiques (RNIPP), sapeurs-pompiers volontaires, prestation de fidélisation et de reconnaissance
+
+|
+
+Fondement de la saisine : article 30 de la loi n° 78-17 du 6 janvier 1978 modifiée
+
+|
+
+L’essentiel :
+
+Les dispositions du projet de décret n’appellent pas d’observations majeures de la CNIL.
+
+|
+
+LA COMMISSION NATIONALE DE L'INFORMATIQUE ET DES LIBERTÉS,
+
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données ou RGPD) ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés (" loi informatique et libertés "), notamment son article 30 ;
+
+Sur la proposition de M. Alexandre Linden, commissaire, et après avoir entendu les observations de M. Damien Milic, commissaire du Gouvernement,
+
+ADOPTE LA DÉLIBÉRATION SUIVANTE :
+
+I. La saisine
+
+A. Le contexte
+
+La prestation de fidélisation et de reconnaissance et la nouvelle prestation de fidélisation et de reconnaissance sont encadrées par les dispositions de la loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans les corps de sapeurs-pompiers.
+
+Ces prestations permettent aux sapeurs-pompiers volontaires d’acquérir des droits à pension, versés sous la forme d’une rente viagère. Elles sont attribuées sous réserve de respecter des conditions d’âge et d’ancienneté.
+
+B. L’objet de la saisine
+
+Aux fins de gérer le régime de ces prestations, le projet de décret modifie le " décret cadre NIR " afin d’autoriser l’association nationale et les organismes de gestion mentionnés aux articles 15-2 et 15-11 de la loi du 3 mai 1996 à traiter le numéro d’inscription au répertoire national d’identification des personnes physiques (NIR).
+
+II. L’avis de la CNIL
+
+En vertu de ces mêmes articles, l’association nationale confie aux organismes de gestion, placés sous sa surveillance et sélectionnés par voie de marchés publics, la gestion administrative et financière des prestations de fidélisation et de reconnaissance des sapeurs-pompiers volontaires.
+
+Pour ce qui concerne la nouvelle prestation de fidélisation et de reconnaissance, selon les articles 8 et 9 du décret n° 2017-912 du 9 mai 2017 relatif aux différentes prestations de fin de service allouées aux sapeurs-pompiers volontaires, les données utiles relatives aux sapeurs-pompiers volontaires sont transmises " à l'organisme national de gestion choisi par l'association nationale dans les conditions définies par le contrat conclu entre eux ". Cet organisme de gestion " recueille les données utiles relatives aux sapeurs-pompiers volontaires et assure le versement des prestations annuelles ".
+
+D’après le ministère, les modalités applicables aux opérations de traitement de données à caractère personnel nécessaires à la gestion des prestations sont précisées dans les marchés publics passés avec les organismes de gestion et restent sous la surveillance de l’association nationale. À cet égard, les organismes de gestion traitent des données à caractère personnel au nom et pour le compte de l’association nationale qui est responsable de traitement au sens de l’article 4-7) du RGPD.
+
+Dès lors, les organismes de gestion revêtent la qualité de sous-traitants au sens de l’article 28 du RGPD. Ils doivent établir avec l’association nationale un contrat ou un acte juridique précisant les obligations de chaque partie.
+
+Par conséquent, la CNIL demande que le projet de décret soit modifié, afin que les organismes de gestion ne figurent pas dans la liste des responsables de traitement autorisés à traiter le NIR.
+
+Ce nouvel usage du NIR apparaît légitime et proportionné à la finalité poursuivie et n’appelle pas d’autres observations de la part de la CNIL.
+
+La présidente,
+
+M.-L. Denis
