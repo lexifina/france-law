@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230305727
+
+- Question : [SEQ230305727](seq230305727.md) — Réhabilitation du réseau d'assainissement en Guadeloupe
+
+## Réponse
+
+*Biodiversité, JO du 2024-01-11, page 102*
+
+L'ouragan Fiona a provoqué des dégâts à la fois sur le réseau d'eau potable, mais également sur le réseau d'assainissement. Structurellement, le territoire de la Guadeloupe appelle des investissements important tant pour l'eau potable que pour l'assainissement. Les investissements nécessitent une ingénierie suffisante pour élaborer les projets de la collectivité. Le récent renforcement du syndicat mixte de gestion de l'eau et de l'assainissement de Guadeloupe (SMGEAG), et notamment l'appui de l'Etat à travers le contrat d'accompagnement renforcé signé le 23 mars 2023, va permettre de mener à bien ces missions. Des projets en assainissement sont en cours d'élaboration pour permettre une amélioration du traitement et de la collecte. De plus, le SMGEAG renforce ses services pour préparer les dossiers de demande de subventions auprès des financeurs possibles. Depuis 2016, date de création du plan eau en outre-mer, 60 Meuros de crédits de l'Etat ont été mobilisés pour des subventions d'investissement. A ces crédits, s'ajoutent les fonds FEDER. Plus récemment, le fonds vert a permis la création du système d'assainissement de Vieux-Fort en mobilisant une enveloppe de 1,2 Meuros, et des travaux d'urgence de réhabilitation et de construction d'ouvrages d'assainissement des eaux usées de Petit-Bourg et Goyave avec une enveloppe de 330 Keuros. Le Plan eau présenté par le Président de la République le 30 mars dernier prévoit une augmentation de la solidarité interbassin au bénéfice de l'outre-mer de 35 Meuros/an pendant 4 ans. Ce soutien financier permettra de favoriser les investissements nécessaires en matière d'assainissement.
