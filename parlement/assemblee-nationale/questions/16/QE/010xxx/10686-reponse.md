@@ -1,0 +1,9 @@
+# Réponse à la question n° 10686
+
+- Question : [10686](10686.md) — Question n° 10686 — Difficultés d'accès au logement des familles monoparentales
+
+## Réponse
+
+*JO du 2024-01-16, page 405*
+
+En matière de logement, les familles monoparentales constituent une population qui est prise en compte dans l'ensemble des dispositifs de droit commun. Les familles monoparentales qui font l'objet d'actions spécifiques, mises en place dans le cadre des plans départementaux d'action pour le logement et l'hébergement des personnes défavorisées (PDALHPD), sont éligibles aux aides personnelles au logement et aux dispositifs d'accès prioritaire au logement social dans la mesure où elles cumulent en général des caractéristiques sociales qui font qu'elles relèvent de différents motifs de priorité reconnus par la loi. En outre, depuis l'obligation d'établir une cotation locale de la demande de logements sociaux, les acteurs du territoire, au premier rang desquels les élus, peuvent décider d'attribuer une cotation particulière à ces familles afin de faire ressortir leurs dossiers parmi tous les dossiers enregistrés. D'après le panorama des familles d'aujourd'hui publié en 2021 par le Conseil de la famille, 37% des enfants des familles monoparentales vivaient dans un logement social contre 21% de l'ensemble des enfants mineurs. D'après la dernière enquête exploitée sur l'occupation du parc social, les familles monoparentales représentaient 22% des ménages qui y étaient logés en 2020, ce qui représente une proportion considérable. Enfin, les familles monoparentales logées en résidence sociale bénéficieront d'un meilleur accompagnement grâce au renforcement de l'aide à la gestion locative sociale (AGLS) dans le cadre du second plan logement d'abord. Malgré ces mesures déjà existantes, le Gouvernement demeure pleineùent mobilisé et l'accès au logement des familles monoparentales reste au cœur des préoccupations des pouvoirs publics et des bailleurs sociaux
