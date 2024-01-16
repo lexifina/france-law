@@ -1,0 +1,9 @@
+# Réponse à la question n° 13093
+
+- Question : [13093](13093.md) — Question n° 13093 — Difficultés des communes de moins de 3 500 habitants - logements sociaux
+
+## Réponse
+
+*JO du 2024-01-16, page 408*
+
+La loi prévoit que les intercommunalités compétentes en matière d'élaboration d'un programme local de l'habitat ainsi que celles disposant de la compétence habitat et d'un quartier politique de la ville doivent adopter un plan partenarial de gestion de la demande et d'information du demandeur (PPGDID). Ces intercommunalités doivent dans ce cadre adopter une grille de cotation de la demande de logement locatif social. La cotation est un outil de transparence pour le demandeur et d'aide à la décision pour les membres de la commission d'attribution. Il ne s'agit pas d'attribuer automatiquement un logement aux demandeurs ayant les cotations les plus élevées, mais bien d'objectiver leur situation en fonction de critères locaux pour éclairer la commission d'attribution des logements et d'examen de l'occupation des logements dans sa prise de décision. Le système de cotation est obligatoire dans les intercommunalités précitées ; il ne vise pas spécifiquement les petites communes de moins de 3500 habitants. Il n'est pas obligatoire dans les communes qui n'appartiennent pas à de telles intercommunalités. La cotation est sans incidence sur la production de logements sociaux. Il n'existe aucun lien par lequel un territoire pourrait être découragé de produire de nouveaux logements à cause de la cotation. Au contraire, par la transparence, et donc la confiance dans le système, la mise en place de la cotation sera de nature à rassurer tous les acteurs du territoire en garantissant que les attributions de logement se feront en tenant compte de critères partagés et construits en commun par eux-mêmes.
