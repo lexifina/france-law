@@ -404,7 +404,7 @@ F. - Emplois relevant du groupe 4 :
 
 29° Adjoint au commandant des opérations spéciales ;
 
-30° Directeur adjoint “ transition écologique et innovation ” du service d'infrastructure de la défense ;
+30° Directeur adjoint de la stratégie du service d'infrastructure de la défense ;
 
 31° Chargé des fonctions de sous-directeur de l'exploitation à la direction du renseignement militaire ;
 
@@ -752,7 +752,7 @@ G. - Emplois relevant du groupe 5 :
 
 76° Adjoint au commandant de la force d'action navale pour la maîtrise des fonds marins ;
 
-77° Inspecteur de l'administration dans la marine ;
+77° Chargé des fonctions de sous-directeur “ gestion et administration du personnel ” de la direction du personnel militaire de la marine ;
 
 78° Adjoint pour le commandement organique à Toulon au commandement de la force d'action navale ;
 
@@ -843,3 +843,7 @@ G. - Emplois relevant du groupe 5 :
 (1) N'occupant pas les fonctions de commandant des écoles militaires de Bourges.
 
 (2) N'occupant pas les fonctions de général commandant des écoles militaires de Draguignan et commandant de la base de défense de Draguignan.
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 16 janvier 2024 (NOR : ARMH2401313A), ces dispositions s’appliquent aux rémunérations versées à compter du mois de janvier 2024.
