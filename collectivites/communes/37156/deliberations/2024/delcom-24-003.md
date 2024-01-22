@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_003 — DELIBERATION 2024-03 SUBVENTIONS AUX ASSOCIATIONS POUR LANNEE 2024 COMPLEMENT
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-01-22
+- Matière : 7.5 Finances locales/Subventions
+- Objet : DELIBERATION 2024-03 SUBVENTIONS AUX ASSOCIATIONS POUR LANNEE 2024 COMPLEMENT
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/cc898c31926ba2eac82ce6a74cdfc82fb4e15bd0f3d4382bf548688a41fab852.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
