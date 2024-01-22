@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_004 — DELIBERATION 2024-04 ADOPTION CONVENTION ENTRE L'OT ET LA VILLE POUR LE DEPOT VENTE DUN LIVRE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-01-22
+- Matière : 1.4 Commande Publique/Autres types de contrats
+- Objet : DELIBERATION 2024-04 ADOPTION CONVENTION ENTRE L'OT ET LA VILLE POUR LE DEPOT VENTE DUN LIVRE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/9227b460d3010699e933f6e6e6fe81d72bcaf8376f5643de62399bb3d261cc84.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
