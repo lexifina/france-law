@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_012 — DELIBERATION 2024-12 RETROCESSION DES ESPACES COMMUNS DANS LES LOTISSEMENTS « LE CORMIER 3 ET 4 »
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-01-22
+- Matière : 3.1 Domaine et patrimoine/Acquisitions
+- Objet : DELIBERATION 2024-12 RETROCESSION DES ESPACES COMMUNS DANS LES LOTISSEMENTS « LE CORMIER 3 ET 4 »
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/36bb728aa0b09a55ee29cfeeefb4234204b6aef49b18a3fa97d803d6d5eff666.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
