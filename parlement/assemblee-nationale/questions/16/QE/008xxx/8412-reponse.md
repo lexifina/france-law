@@ -1,0 +1,9 @@
+# Réponse à la question n° 8412
+
+- Question : [8412](8412.md) — Question n° 8412 — M. Véran est un porte-parole menteur du Gouvernement ?
+
+## Réponse
+
+*JO du 2024-01-23, page 526*
+
+Dimanche 21 mai 2023, quatre personnes, dont trois jeunes policiers, sont décédées dans un accident de la route à Lille. Deux personnes ont également été grièvement blessées lors de l'incident. Le parquet de Lille a ouvert une enquête pour homicide et blessures involontaires. Le conducteur décédé dans la collision entre son véhicule et la voiture de police, était positif à l'alcool et au cannabis selon les éléments d'enquête dévoilés par la procureure de Lille. Le jeudi 25 mai, le président de la République a rendu un hommage national à Roubaix aux trois policiers tués. À titre posthume, les trois policiers ont été faits chevaliers de la Légion d'Honneur et promus au rang de Capitaines de police. L'ordre républicain est au cœur de la feuille de route du Gouvernement. Suite au comité interministériel de la sécurité routière le 17 juillet dernier, plusieurs mesures ont été annoncées. Elles permettront d'améliorer nos dispositifs de prévention, de mieux détecter et de sanctionner plus fermement ceux qui conduisent sous l'emprise de la drogue ou de l'alcool. Nous avons également compris que l'appellation d'homicide involontaire peut heurter, à raison, les familles des victimes. Ce sentiment est d'autant plus décuplé quand le conducteur fautif est sous l'emprise de l'alcool ou de stupéfiants. C'est la raison pour laquelle le Gouvernement a décidé de créer une qualification spécifique d'homicide routier. Tout conducteur qui tue une personne sur la route et serait aujourd'hui poursuivi pour homicide involontaire sera poursuivi demain pour homicide routier. Cette dénomination s'appliquera, que le conducteur ait consommé ou non de l'alcool ou des stupéfiants. Tout autre polémique ne serait que déplacée face à ce drame.
