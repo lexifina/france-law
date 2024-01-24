@@ -1,0 +1,15 @@
+# Article 1er
+
+Un article 5.4 « Jours de congés d'ancienneté » est ajouté dans le chapitre V « Congés payés » de la convention collective nationale des mareyeurs-expéditeurs. Son contenu est le suivant :
+
+« Les salariés bénéficient de jours de congés payés supplémentaires pour ancienneté dans les conditions suivantes :
+
+– 1 jour par an à compter de 15 ans d'ancienneté ;
+
+– 2 jours par an à compter de 20 ans d'ancienneté ;
+
+– 3 jours par an à compter de 25 ans d'ancienneté.
+
+L'ancienneté s'apprécie à compter de la date de formation du contrat de travail en cours, sans que soient exclues les périodes de suspension de ce contrat lorsqu'elles donnent lieu à indemnisation par l'employeur. Lorsque le contrat de travail à durée indéterminée suit immédiatement une embauche en contrat de travail à durée déterminée, l'ancienneté s'apprécie à partir de la date d'effet du contrat de travail à durée déterminée.
+
+Les modalités de prise de ces jours de congés d'ancienneté sont déterminées dans chaque entreprise par accord d'entreprise ou décision unilatérale après consultation du comité social et économique s'il existe. À défaut, les modalités de prise de ces jours seront identiques à celles des congés payés légaux. »
