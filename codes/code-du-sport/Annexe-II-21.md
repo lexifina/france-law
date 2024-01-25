@@ -736,7 +736,7 @@ L'établissement doit démontrer qu'il veille à la qualité du tutorat au trave
 
 - associer le stagiaire puis le responsabiliser progressivement à la conduite de groupe en accompagnement de ses propres prestations ;
 
-- valider la préparation des activités d'enseignement du canyonisme du stagiaire organisées et conduites en autonomie par celui-ci (dans la limite de la classification 3/3/ II ;
+- valider la préparation des activités d'enseignement du canyonisme du stagiaire organisées et conduites en autonomie par celui-ci ;
 
 - conduire des temps de bilan pour chaque sortie ;
 
