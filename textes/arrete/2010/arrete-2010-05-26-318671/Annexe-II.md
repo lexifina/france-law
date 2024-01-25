@@ -1,19 +1,53 @@
 # Article Annexe II
 
-EXIGENCES PRÉALABLES À LA MISE EN SITUATION PROFESSIONNELLE
+MODALITÉS ET CRITÈRES D'ÉVALUATION DU TEST D'EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION
 
-Les exigences préalables à la mise en situation professionnelle sont les suivantes :
+Le candidat doit posséder les équipements de canyonisme nécessaires à la réalisation du test d'exigences préalables ci-dessous dont ceux de protection individuelle conformes aux dispositions des articles R. 322-27 et suivants du code du sport. Dans le cas où le candidat n'est pas en possession de ces équipements, il ne peut être présenté à l'épreuve par l'organisme de formation.
 
-– être capable d'évaluer les risques objectifs liés à la pratique de la discipline ;
+En cas d'échec à une épreuve, le candidat ne poursuit pas la présentation du test. Les évaluateurs peuvent interrompre une épreuve et refuser la certification d'un candidat s'ils estiment que l'action de celui-ci présente un danger pour lui-même, les pratiquants ou les tiers ou si son comportement est contraire au respect des pratiquants ou des évaluateurs.
 
-– être capable d'anticiper les risques potentiels pour le pratiquant ;
+1° Parcours d'aisance sur cordes chronométré
 
-– être capable de maîtriser le comportement et les gestes à réaliser en cas d'incident ou d'accident ;
+Le candidat réalise, un parcours d'aisance sur cordes chronométré sur structure artificielle, en site naturel de type falaise ou en canyon sec pouvant mobiliser les techniques suivantes :
 
-– être capable de réaliser, en combinaison néoprène ou étanche, un parcours aquatique de cent mètres à la nage en rivière de classe inférieure ou égale à trois, de récupérer un objet immergé à une profondeur maximale de trois mètres de profondeur et d'effectuer le remorquage sur vingt mètres, d'une personne elle-même en combinaison néoprène ou étanche. Cette capacité est attestée par l'un des établissements mentionnés à l'article R. 212-8 du code du sport, chargés d'assurer la formation au canyonisme ;
+-une évolution sur différents types de mains courantes ;
 
-– être capable de mettre en œuvre en autonomie et en sécurité, une séance d'initiation en canyonisme, d'un niveau technique minimal 3.3. II selon la classification établie par la fédération ayant reçu délégation pour le canyonisme. Cette séance est suivie d'un entretien d'une durée de trente minutes avec les évaluateurs désignés par l'un des établissements mentionnés à l'article R. 212-8 du code du sport, chargés d'assurer la formation au canyonisme, dont l'un est titulaire du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité “ perfectionnement sportif ”, mention “ canyonisme ” et le second, d'une qualification a minima de niveau IV permettant l'encadrement du canyonisme et pouvant justifier d'une expérience professionnelle minimale de deux ans dans le champ du canyonisme. Sont dispensés de cette exigence de qualification, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
+-une descente sur corde simple avec arrêt sur clef de blocage ;
 
-La mise en situation professionnelle du stagiaire s'effectue dans la limite du niveau technique 3.3. III ou 3.4. II selon la classification établie par la fédération ayant reçu délégation pour le canyonisme, dans le cas où l'encadrement est assuré en autonomie par le stagiaire, sous la responsabilité du tuteur.
+-une descente sur corde double avec arrêt sur clef de blocage ;
 
-Dans le cas où le stagiaire accompagne le tuteur dans des situations d'encadrement, dans un même groupe, la limite technique mentionnée au précédent alinéa, ne s'applique pas.
+-une descente fractionnée ;
+
+-un franchissement de déviation ;
+
+-un déplacement pendulaire ;
+
+-une remontée sur corde simple ;
+
+-une remontée sur corde double.
+
+L'organisateur préinstalle les cordes.
+
+En matière de bloqueurs mécaniques, le matériel dont dispose le candidat pour réaliser l'épreuve est composé de maximum deux bloqueurs mécaniques simples, un bloqueur double de type “ shunt ” et une poulie bloqueur.
+
+Le temps maximal de progression pour satisfaire au test d'exigences préalables est égal à 200 % du temps de référence.
+
+Le temps de référence est préalablement établi par la réalisation du parcours d'aisance sur cordes dans les conditions susmentionnées, par un titulaire, a minima, d'un diplôme de niveau 4 permettant l'encadrement du canyonisme ou d'un des diplômes suivants assorti de l'attestation de qualification à l'enseignement du canyon :
+
+-du diplôme de guide de haute montagne du brevet d'Etat d'alpinisme délivré avant le 01/01/1997 ;
+
+-du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité “ perfectionnement sportif ” mention “ spéléologie ” ;
+
+-du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité “ performance sportive ” mention “ spéléologie ” ;
+
+-du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité “ perfectionnement sportif ” mention “ escalade milieux naturels ” ;
+
+et justifiant d'au moins deux années d'expérience professionnelle d'encadrement sportif en canyonisme au cours des cinq dernières années.
+
+2° Parcours d'un canyon
+
+Le candidat prépare et réalise en équipe composée de deux candidats minimum à quatre candidats maximum, un parcours d'une journée maximum, comprenant des déplacements et franchissements d'obstacles en terrain variés et des franchissements d'obstacles verticaux et/ ou aquatiques dans un canyon comprenant au moins un critère technique de classement de niveau V4 selon la classification établie conformément à l'article L. 311-2 du code du sport.
+
+NOTA :
+
+Conformément à l'article 12 de l'arrêté du 21 décembre 2023 (NOR : MENV2400116A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er mars 2024.

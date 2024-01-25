@@ -1,67 +1,85 @@
 # Article Annexe III
 
-MODALITÉS DE LA SITUATION D'ÉVALUATION CERTIFICATIVE DES UNITÉS CAPITALISABLES (UC) 3 ET 4
+SITUATION D'ÉVALUATION CERTIFICATIVE DES UNITÉS CAPITALISABLES 3 ET 4 DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ” MENTION “ CANYONISME ”
 
-III. 1. Modalités de la situation d'évaluation certificative de l'UC 3.
+Situation d'évaluation certificative des unités capitalisables 3 et 4 :
 
-1. Epreuve certificative :
+-Epreuve certificative des unités capitalisables 3 et 4
 
-L'épreuve certificative se compose des deux modalités suivantes :
+Cette épreuve certificative permet l'évaluation distincte des unités capitalisables 3 et 4. Elle se déroule en organisme de formation et se compose de la manière suivante.
 
-a) Première modalité : analyse d'obstacle suivi d'un entretien.
+Avant la date de l'épreuve, dans les conditions fixées par le recteur de région académique, l'organisme de formation indique au candidat :
 
-L'analyse consiste en une étude de cas d'un obstacle complexe en canyon choisi par le stagiaire et son tuteur et validé par l'établissement organisateur. Le candidat expose son analyse à l'aide d'un support constitué d'une séquence vidéo ou de plusieurs photos ou de diaporama, pendant une durée minimale de vingt minutes et maximale de quarante minutes. L'exposé et l'entretien se déroulent sur une durée maximale d'une heure.
+-les informations relatives aux caractéristiques et au niveau de pratique du public en condition physique sportive, de deux pratiquants minimum à six pratiquants maximum ;
 
-Le stagiaire met à profit le temps de formation en structure d'alternance, pour concevoir et préparer son intervention.
+-le nom du canyon support de la séance d'enseignement en grande course.
 
-b) Seconde modalité : mise en situation professionnelle de formation ou d'entraînement.
+Ces informations sont susceptibles d'évoluer au regard de conditions défavorables le jour de l'épreuve.
 
-Le stagiaire conduit une séance de perfectionnement d'une durée maximale d'une heure et demie avec au moins trois pratiquants. Cette mise en situation s'effectue sur un ou plusieurs obstacles en canyon, sur falaise ou structure artificielle.
+Le candidat prépare une fiche de séance, qu'il remet aux évaluateurs le jour de l'épreuve, précisant :
 
-2. Evaluateurs :
+-les caractéristiques environnementales du canyon et de ses obstacles, les problématiques sécuritaires associées ;
 
-L'épreuve certificative est évaluée dans les conditions prévues à l'article A. 212-26 du code du sport.
+-les objectifs pédagogiques et sécuritaires poursuivis et les scénarios pédagogiques envisagés.
 
-L'un des évaluateurs est titulaire du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité “ perfectionnement sportif ”, mention “ canyonisme ” et le second, d'une qualification a minima de niveau IV permettant l'encadrement du canyonisme et pouvant justifier d'une expérience professionnelle minimale de deux ans dans le champ du canyonisme. Sont dispensés de cette exigence de qualification, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
+Le candidat conduit une séance d'enseignement sur tout ou partie d'une grande course définie par l'organisme de formation, d'une durée de deux heures minimum à une journée maximum, dans un canyon comportant au moins un critère technique de verticalité ou un critère technique aquatique de classement de niveau 4 selon la classification établie conformément à l'article L. 311-2 du code du sport. La conduite de séance intègre les enjeux de la transition écologique et de la préservation de la biodiversité.
 
-III. 2. Modalités de la situation d'évaluation certificative de l'UC 4.
+Cette séance est suivie d'un entretien avec les évaluateurs de trente minutes maximum, permettant :
 
-1. Epreuve certificative :
+-au candidat d'analyser et justifier les objectifs d'enseignement poursuivis, les choix pédagogiques et sécuritaires réalisés à partir de la mise en situation professionnelle susmentionnée, en prenant en compte la dimension éducative de la préservation de l'environnement ;
 
-L'épreuve certificative se compose de deux modalités :
+-aux évaluateurs de s'assurer de la capacité du candidat à conduire une démarche d'enseignement, à adapter sa posture pédagogique au public et à encadrer en sécurité une sortie en grande course en canyonisme.
 
-1.1. Première modalité.
+-Epreuve certificative de l'unité capitalisable 3
 
-Elle comprend deux ateliers :
+L'épreuve se décline de la façon suivante :
 
-a) Atelier 1 : les fondamentaux de la sécurité.
+Avant la date de l'épreuve, dans les conditions fixées par le recteur de région académique, le candidat transmet un document personnel écrit analysant une expérience de conception, de mise en œuvre et d'évaluation d'un cycle de perfectionnement sportif en canyonisme de trois sorties minimum réalisées, pour un ou plusieurs pratiquants initiés portant sur la préparation à la réalisation d'une grande course comportant au moins un critère technique de classement de niveau 4.
 
-L'atelier 1 se déroule dans un ou plusieurs canyons comportant au moins une composante technique en classe 5 selon la classification établie par la fédération ayant reçu délégation pour le canyonisme, dans lequel (lesquels) le stagiaire doit gérer en responsabilité, une ou plusieurs successions d'obstacles.
+Pour chacune des sorties du cycle de perfectionnement susmentionné, le candidat met en œuvre une action de formation portant sur un mode de progression ou de franchissement auprès du pratiquant pris en charge, en fonction de ses caractéristiques et de celles du site de pratiquant. Il propose un support pédagogique de la conduite de ses actions de formation.
 
-b) Atelier 2 : mise en situation d'intervention, d'assistance et de secours.
+L'épreuve consiste en un entretien d'une heure et quinze minutes maximum, composé d'une présentation orale de trente-cinq minutes maximum suivie d'un échange de quarante minutes maximum avec les évaluateurs à partir du document susmentionné.
 
-L'atelier 2 se déroule dans un site naturel et comporte les situations suivantes :
+Durant la présentation orale, le candidat justifie :
 
-– une ou plusieurs situations d'exception (réchappe de sortie, évitement d'obstacles …) ;
+-en vingt minutes maximum, à partir du document susmentionné les objectifs du cycle de perfectionnement sportif, la progression technique, physique, mentale et/ ou stratégique proposée ainsi que les outils d'évaluation du cycle ;
 
-– une ou plusieurs situations d'intervention auprès d'une personne en difficulté ou en détresse ;
+-en quinze minutes maximum, les scénarios pédagogiques et la démarche de formation envisagés pour chacune des actions de formation menées.
 
-– une situation de mise en attente de victime et de déclenchement des secours.
+Cette présentation est suivie d'un échange permettant aux évaluateurs de vérifier la capacité du candidat à conduire une démarche d'entraînement et de formation en canyonisme adaptée aux caractéristiques du public et aux objectifs fixés.
 
-1.2. Seconde modalité : mise en situation professionnelle d'encadrement d'un public en grande course.
+-Epreuve certificative de l'unité capitalisable 4
 
-Pour accéder à la seconde modalité, le candidat doit produire une liste établie et signée par lui, relative à la réalisation de six canyons en équipe, différents des canyons mentionnés à l'annexe I. Les caractéristiques de ces canyons sont les suivantes :
+L'épreuve se déroule en organisme de formation et se décline de la façon suivante :
 
-– trois canyons d'un niveau technique minimal 5.3. III selon la classification établie par la fédération ayant reçu délégation pour le canyonisme ;
+1° Mises en situation d'assistance et de déclenchement de secours
 
-– trois canyons d'un niveau technique minimal 3.5. III selon la classification établie par la fédération ayant reçu délégation pour le canyonisme.
+Au cours d'une ou plusieurs sorties, le candidat réalise une mise en situation d'assistance ou de déclenchement de secours définie par l'organisme de formation pour chacun des trois ateliers suivants :
 
-La liste de ces canyons est commentée par le candidat lors d'un entretien d'une durée maximale de trente minutes, avec deux évaluateurs. Le candidat doit démontrer la réalité des parcours effectués et mettre en valeur ses acquis techniques et comportementaux, en justifiant de sa gestion en responsabilité, de tout ou partie des courses présentées.
+-assistance auprès d'une personne accidentée nécessitant un déplacement de la victime ;
 
-Le stagiaire est mis en situation d'encadrement d'un groupe de deux à six pratiquants dans un ou plusieurs canyons comportant au moins un critère de classement en 4 selon la classification établie par la fédération ayant reçu délégation pour le canyonisme, et d'une durée de parcours d'au moins cinq heures ou figurant sur une liste de référence établie par les établissements mentionnés à l'article R. 212-8 du code du sport, chargés d'assurer la formation au canyonisme et portée à la connaissance des stagiaires, par ces mêmes établissements.
+-réalisation d'une situation d'évitement d'un obstacle ;
 
-2. Evaluateurs :
+-assistance auprès d'une personne bloquée.
 
-L'épreuve est évaluée dans les conditions prévues à l'article A. 212-26 du code du sport.
+2° Réalisation d'une sortie d'une journée en équipe
 
-Les évaluateurs sont titulaires du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité “ perfectionnement sportif ”, mention “ canyonisme ”. Sont dispensés de cette exigence de qualification, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
+Avant la date de l'épreuve, dans les conditions fixées par le recteur de région académique, l'organisme de formation transmet au candidat les informations relatives au site de pratique et au public de stagiaires, nécessaires à la conduite d'une sortie d'une journée en équipe portant sur le franchissement d'obstacles complexes en sécurité.
+
+Ces informations sont susceptibles d'évoluer au regard de conditions météorologiques défavorables le jour de l'épreuve.
+
+Le candidat prépare et réalise en sécurité une sortie d'une journée en équipe de quatre candidats maximum, dans un parcours de canyonisme comportant au moins un critère technique de classement de niveau V5 et/ ou A4 selon la classification établie conformément à l'article L. 311-2 du code du sport. En position de leader, il démontre sa capacité à franchir en sécurité des obstacles complexes.
+
+La séance est suivie d'un entretien de trente minutes maximum avec les évaluateurs permettant au candidat de démontrer, à partir de son analyse de la conduite d'une sortie en équipe, sa capacité à :
+
+-réaliser les gestes de sécurité fondamentaux ;
+
+-franchir une variété d'obstacles complexes en sécurité en maintenant une communication efficace avec ses coéquipiers ;
+
+-utiliser les techniques pertinentes au regard des situations rencontrées en sécurité ;
+
+en tenant compte des conditions de pratique et de ses coéquipiers.
+
+NOTA :
+
+Conformément à l'article 12 de l'arrêté du 21 décembre 2023 (NOR : MENV2400116A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er mars 2024.

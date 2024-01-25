@@ -1,29 +1,209 @@
 # Article Annexe IV
 
-QUALIFICATIONS DES PERSONNES EN CHARGE DE LA FORMATION ET QUALIFICATIONS DES TUTEURS DES PERSONNES EN FORMATION POUR L'OBTENTION DU DIPLÔME D'ETAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT, SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ”, MENTION “ CANYONISME ”
+TABLEAU RÉCAPITULATIF DES DISPENSES DES EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION (EPEF) ET DES EXIGENCES PRÉALABLES À LA MISE EN SITUATION PROFESSIONNELLE (EPMSP) AINSI QUE DES ÉQUIVALENCES D'UNITÉ CAPITALISABLE (UC) AVEC LE DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ” MENTION “ CANYONISME ”
 
-IV. 1. Qualification des personnes en charge de la formation.
+La personne titulaire de l'une des certifications mentionnées dans le tableau figurant ci-après est dispensée des exigences préalables à l'entrée en formation et/ ou de la vérification des exigences préalables à la mise en situation professionnelle et/ ou obtient les unités capitalisables (UC) correspondantes du DEJEPS spécialité “ perfectionnement sportif ” mention “ canyonisme ” suivantes :
 
-a) Conformément aux dispositions du I de l'annexe II-21 de l'article A. 212-175-11 du code du sport, la coordination des formations est assurée par au moins deux personnels techniques et pédagogiques appartenant à l'établissement chargé d'assurer la formation au canyonisme et titulaires d'un diplôme de niveau II ou du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité “ perfectionnement sportif ”, mention “ canyonisme ”. Par dérogation, elle peut également être assurée par deux agents de l'établissement dont l'activité principale est l'organisation et le suivi des stagiaires dans l'établissement ;
+|
 
-b) Conformément aux dispositions du I de l'annexe II-21 mentionnée au a, les intervenants auxquels peut faire appel l'établissement chargé d'assurer la formation au canyonisme sont titulaires du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité “ perfectionnement sportif ”, mention “ canyonisme ” ou d'une qualification a minima de niveau IV permettant l'encadrement du canyonisme. Dans ce dernier cas, ils doivent justifier d'une expérience professionnelle minimale de deux ans dans le champ du canyonisme.
+EPEF (*) visés à l'article 4 |
 
-IV. 2. Qualification des tuteurs.
+EPMSP (*) visées à l'article 5 |
 
-Les tuteurs sont titulaires de l'une des qualifications suivantes :
+UC (*) 1 |
 
-– diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité “ perfectionnement sportif ”, mention “ canyonisme ” ;
+UC 2 |
 
-– brevet d'Etat d'éducateur sportif du premier degré, option “ escalade ” délivré avant le 31 décembre 1996, assorti de l'unité de formation “ canyon ” (UF 6) du brevet d'Etat d'éducateur sportif du premier degré, option “ escalade ” délivré après le 1er janvier 1997 ;
+UC 3 |
 
-– brevet d'Etat d'éducateur sportif du premier degré, option “ escalade ” délivré après le 1er janvier 1997 ;
+UC 4 |
 
-– brevet d'Etat d'éducateur sportif du premier degré option “ spéléologie ” délivré avant le 31 décembre 1996, assorti de l'unité de formation “ canyon ” (UF 5) du brevet d'Etat d'éducateur sportif du premier degré option “ spéléologie ” délivré après le 1er janvier 1997 ;
+BEES (*) premier degré option escalade délivré avant le 31/12/1996 assorti de l'UF6 canyon du BEES (*) premier degré option escalade délivré après le 01/01/1997 justifiant d'une expérience professionnelle d'encadrement sportif en canyonisme de deux années et de 150h d'actions de formation dans le champ du canyonisme au cours des cinq dernières années |
 
-– brevet d'Etat d'éducateur sportif du premier degré option “ spéléologie ” délivré après le 1er janvier 1997 ;
+X |
 
-– diplôme de guide de haute montagne du brevet d'Etat d'alpinisme délivré entre le 1er janvier 1997 et le 1er juillet 2013 ;
+X |
 
-– diplôme d'accompagnateur en moyenne montagne option “ moyenne montagne tropicale ” du brevet d'Etat d'alpinisme assorti du certificat de qualification complémentaire “ encadrement du canyon en milieu tropical ” ;
+|
 
-– attestation de qualification et d'aptitude à l'enseignement du canyon.
+|
+
+X |
+
+X |
+
+BEES (*) premier degré option escalade délivré après le 01/01/1997 justifiant d'une expérience professionnelle d'encadrement sportif en canyonisme de deux années et de 150h d'actions de formation dans le champ du canyonisme au cours des cinq dernières années |
+
+X |
+
+X |
+
+|
+
+|
+
+X |
+
+X |
+
+BEES (*) premier degré option spéléologie délivré avant le 31/12/1996 assorti de l'UF5 canyon du BEES (*) premier degré option spéléologie délivré après le 01/01/1997 justifiant d'une expérience professionnelle d'encadrement sportif en canyonisme de deux années et de 150h d'actions de formation dans le champ du canyonisme au cours des cinq dernières années |
+
+X |
+
+X |
+
+|
+
+|
+
+X |
+
+X |
+
+BEES (*) premier degré option spéléologie délivré après le 01/01/1997 justifiant d'une expérience professionnelle d'encadrement sportif en canyonisme de deux années et de 150h d'actions de formation dans le champ du canyonisme au cours des cinq dernières années |
+
+X |
+
+X |
+
+|
+
+|
+
+X |
+
+X |
+
+Diplôme de guide de haute montagne du brevet d'Etat d'alpinisme délivré entre le 01/01/1997 et le 01/07/2013 |
+
+2° b) TEP uniquement |
+
+|
+
+X |
+
+X |
+
+|
+
+|
+
+Diplôme de guide de haute montagne du brevet d'Etat d'alpinisme délivré entre le 01/01/1997 et le 01/07/2013 justifiant d'une expérience professionnelle d'encadrement sportif en canyonisme de deux années et de 150h d'actions de formation dans le champ du canyonisme au cours des cinq dernières années |
+
+|
+
+|
+
+X |
+
+X |
+
+X |
+
+X |
+
+Diplôme de guide de haute montagne du brevet d'Etat d'alpinisme délivré après le 01/07/2013 |
+
+2° b) TEP uniquement |
+
+|
+
+X |
+
+X |
+
+|
+
+|
+
+Diplôme d'Etat d'alpinisme-guide de haute montagne |
+
+2° b) TEP uniquement |
+
+|
+
+X |
+
+X |
+
+|
+
+|
+
+Diplôme d'accompagnateur de moyenne montagne tropicale du brevet d'Etat d'alpinisme assorti du CQC (*) encadrement du canyon en milieu tropical justifiant d'une expérience professionnelle d'encadrement sportif en canyonisme de deux années et de 150h d'actions de formation dans le champ du canyonisme au cours des cinq dernières années |
+
+|
+
+uniquement conduite de séance d'apprentissage |
+
+|
+
+|
+
+X |
+
+X |
+
+AQA (*) à l'enseignement du canyon justifiant d'une expérience professionnelle d'encadrement sportif en canyonisme de deux années au cours des cinq dernières années |
+
+|
+
+uniquement conduite de séance d'apprentissage |
+
+|
+
+|
+
+|
+
+X |
+
+Brevet de moniteur fédéral de canyon délivré par Fédération française de montagne et d'escalade justifiant d'une expérience d'encadrement sportif en canyonisme de deux années au cours des cinq dernières années |
+
+1° et 2° a)
+
+2° b) TEP : Parcours d'un canyon uniquement |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+Brevet de moniteur fédéral de canyon délivré par la Fédération française de la spéléologie justifiant d'une expérience d'encadrement sportif en canyonisme de deux années au cours des cinq dernières années |
+
+1° et 2° a)
+
+2° b) TEP : Parcours d'un canyon uniquement |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+EPEF (*) : exigences préalables à l'entrée en formation.
+
+EPMSP (*) : exigences préalables à la mise en situation professionnelle.
+
+UC (*) : unité capitalisable.
+
+BEES (*) : brevet d'Etat d'éducateur sportif.
+
+DEJEPS (*) : diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport.
+
+CQC (*) : certificat de qualification complémentaire.
+
+AQA (*) : attestation de qualification.
+
+NOTA :
+
+Conformément à l'article 12 de l'arrêté du 21 décembre 2023 (NOR : MENV2400116A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er mars 2024.
