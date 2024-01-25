@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231008807
+
+- Question : [SEQ231008807](seq231008807.md) — Délai de prise en charge d'un prêt immobilier par l'assurance
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2024-01-25, page 265*
+
+Le Gouvernement est conscient que le délai de traitement des demandes de prise en charge d'un prêt immobilier est un enjeu majeur pour les assurés, notamment en cas de perte de revenus en raison d'une situation d'invalidité. Cependant, il ne prévoit pas à ce stade d'encadrement plus strict dans la loi de ce délai de prise en charge. En effet, en matière de délais, le principe de la liberté contractuelle s'applique. L'article L. 113-5 du code des assurances prévoit ainsi que l'assureur doit exécuter dans le délai convenu la prestation déterminée par le contrat. Ce délai peut varier selon le délai de carence ou le délai de franchise prévu au contrat, ainsi qu'en fonction de la fourniture de pièces justificatives complémentaires ou la réalisation d'une expertise médicale. Au regard des différentes situations, il est n'apparait pas opportun d'instaurer un délai maximal de prise en charge dans la loi. Afin de garantir l'information de l'assuré, une fiche standardisée d'information est fournie à toute personne qui se voit proposer ou qui sollicite une assurance ayant pour objet de garantir le remboursement d'un prêt immobilier afin de l'informer notamment sur les garanties proposées et les périodes de franchise et de carence. Ces délais font partie de la liste des critères permettant d'apprécier avec une plus grande automaticité l'équivalence du niveau de garantie entre contrats d'assurance-emprunteur, avec un délai de franchise maximal de 180 jours. Ces mesures permettent de favoriser la substitution d'assurance emprunteur. L'application de ces textes est garantie par l'autorité de contrôle prudentiel et de résolution (ACPR).
