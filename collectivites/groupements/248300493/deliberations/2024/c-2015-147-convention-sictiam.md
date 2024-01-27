@@ -1,0 +1,9 @@
+# Dracénie Provence Verdon agglomération : délibération ._C_2015_147_Convention SICTIAM — ._C_2015_147_Convention SICTIAM.pdf
+
+- Collectivité : Dracénie Provence Verdon agglomération
+- SIREN : 248300493
+- Date : 2024-01-27 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : ._C_2015_147_Convention SICTIAM.pdf
+- Acte publié : https://www.datasud.fr/fr/dataset/datasets/134/resource/181/download/#__MACOSX/2015/2015_12_17/._C_2015_147_Convention SICTIAM.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/667cacc94be7d63d6436b54e
+- Texte : document numérisé sans couche texte (non reproduit ; voir l'acte publié)
