@@ -1,0 +1,9 @@
+# Réponse à la question n° 12388
+
+- Question : [12388](12388.md) — Question n° 12388 — Bonne administration de la justice
+
+## Réponse
+
+*JO du 2024-01-30, page 674*
+
+L'article 464 du code de procédure pénale prévoit que, après avoir statué sur l'action publique, le tribunal peut, d'office ou à la demande du procureur de la République ou des parties, renvoyer l'affaire à une date ultérieure pour statuer sur l'action civile, même s'il n'ordonne pas de mesure d'instruction, afin de permettre à la partie civile d'apporter les justificatifs de ses prétentions. Ce renvoi est de droit lorsqu'il est demandé par les parties civiles. Le tribunal doit alors fixer la date de l'audience à laquelle il sera statué sur l'action civile. En pratique toutefois, l'application de la procédure pénale au contentieux des intérêts civils n'apparaît effectivement pas adaptée. En ce qui concerne les affaires les plus complexes, il apparaît très souvent nécessaire de mettre en œuvre une mise en état informelle dans laquelle, comme en procédure civile écrite, le juge veille à la communication réciproque des conclusions et pièces entre les parties, voire instaure un calendrier de procédure. En outre, l'application de la procédure pénale au contentieux des intérêts civils a pour conséquence de contraindre le juge à rappeler régulièrement à l'audience les affaires dans lesquelles les parties ne font plus diligence, la radiation prévue à titre de sanction en pareille hypothèse en matière civile, plus précisément par l'article 382 du code de procédure civile, n'existant pas en procédure pénale. De la même manière, la procédure applicable au renvoi sur intérêts civils ne peut s'appuyer sur l'article 850 du code de procédure civile, qui rend possible et organise la communication électronique. Le ministère de la Justice partage donc le constat des difficultés évoquées. Une réflexion est en cours afin d'y remédier.
