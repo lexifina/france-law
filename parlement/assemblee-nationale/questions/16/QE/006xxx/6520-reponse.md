@@ -1,0 +1,9 @@
+# Réponse à la question n° 6520
+
+- Question : [6520](6520.md) — Question n° 6520 — Expulsions de personnes syriennes et afghanes
+
+## Réponse
+
+*JO du 2024-01-30, page 666*
+
+L'Office français de protection des réfugiés et apatrides et la Cour nationale du droit d'asile procèdent à une analyse objective et précise du bien-fondé des demandes de protection émanant de ressortissants afghans et syriens et évaluent en toute indépendance pour chaque situation individuelle, le risque de persécution ou d'atteinte grave en cas de retour. Lorsqu'une personne n'est pas éligible à la protection internationale, et qu'elle ne dispose pas d'un droit au séjour par ailleurs, il est nécessaire qu'elle fasse l'objet d'une obligation de quitter le territoire français. L'édiction d'une telle mesure répond aux obligations qui résultent du droit communautaire et permet de qualifier la situation des personnes au regard du droit au séjour. La question de la mise en œuvre de la procédure est distincte. S'il apparaît que la personne ne peut temporairement être reconduite dans son pays d'origine ou tout autre État dans lequel elle serait admissible, elle peut, en application de l'article L. 731 3 du Code de l'entrée et du séjour des étrangers et du droit d'asile, et malgré sa situation irrégulière, être autorisée à se maintenir sur le territoire en étant assignée à résidence pour une durée de six mois renouvelable une fois. Les services en charge de la lutte contre l'immigration irrégulière sont fréquemment confrontés à des étrangers en situation irrégulière se prévalant de nationalités pour lesquelles un éloignement forcé est susceptible de les exposer à des risques de traitements inhumains et dégradants, en vue de faire obstacle à leur procédure d'éloignement. À cet égard, il est indispensable que les préfectures conduisent des démarches en vue d'assurer la bonne identification de ces étrangers en situation irrégulière.
