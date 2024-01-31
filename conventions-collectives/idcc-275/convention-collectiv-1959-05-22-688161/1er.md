@@ -8,7 +8,7 @@ a) La CCNTA-PS règle les rapports entre les employeurs et le personnel au sol s
 
 Ces activités sont classées sous les codes 51. 10Z et 51. 21Z de la nomenclature d'activités française (NAF).
 
-b) La CCNTA-PS règle les rapports entre les employeurs et salariés des entreprises et établissements dont l'activité relève des services aéroportuaires d'assistance en escale des entreprises de transport aérien énumérés ci-après et qui ne relèvent pas d'une convention collective étendue :
+b) La CCNTA-PS règle les rapports entre les employeurs et salariés des entreprises et établissements dont l'activité relève des services aéroportuaires d'assistance en escale, les personnels de l'industrie de la manutention et du nettoyage sur les aéroports de la région parisienne ouverts à la circulation publique, des entreprises de transport aérien énumérés ci-après :
 
 – assistance administrative au sol et supervision ;
 
@@ -38,13 +38,7 @@ c) La CCNTA-PS s'applique enfin aux entreprises et établissements qui exercent 
 
 d) La CCNTA-PS s'applique aux entreprises et établissements français ou étrangers exerçant sur le territoire métropolitain ou dans les départements d'outre-mer.
 
-e) La CCNTA-PS s'applique aux entreprises et établissements ayant pour activité principale l'exploitation des drones civils
-
-(1)
-
-à des fins professionnelles ainsi qu'aux centres de formation associés à cette activité.
-
-(1) Aéronefs télépilotés circulant sans personne à bord.
+e) La CCNTA-PS s'applique aux entreprises et établissements ayant pour activité principale l'exploitation des drones civils à des fins professionnelles ainsi qu'aux centres de formation associés à cette activité.
 
 NOTA :
 
