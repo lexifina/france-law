@@ -6,7 +6,7 @@ FORMATION INITIALE DES PERSONNELS DES UNITÉS CYNOTECHNIQUES ET ÉVALUATION
 
 La formation initiale a pour objectif de faire acquérir au candidat la technicité que suppose l'intégration dans les équipes cynotechniques.
 
-Le contenu de la formation est validé et mis à jour par la direction centrale du recrutement et de la formation de la police nationale (DCRFP) et le Centre national de formation des unités cynotechniques (CNFUC).
+Le contenu de la formation est validé et mis à jour par l'académie de police et le Centre national de formation des unités cynotechniques (CNFUC).
 
 Toute formation de conducteurs, assistants ou dresseurs est sanctionnée par une évaluation théorique à mi-stage et fin de stage. Elle est validée si :
 

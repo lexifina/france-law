@@ -102,7 +102,7 @@ c) La conformité du dossier aux dispositions applicables aux évolutions en ver
 
 2° Le maire de la commune sur le territoire de laquelle se trouve l'emplacement proposé, et au cas où l'emplacement se situe sur plus d'une commune, chaque maire concerné, fournit un avis portant notamment sur l'emplacement utilisé pour le décollage, l'atterrissage ou l'amerrissage des aéronefs participant au spectacle aérien public d'aéronefs sans équipage à bord lorsque cet emplacement est situé hors aérodrome, et sur les éventuelles dispositions à mettre en œuvre concernant la police de la circulation sur les routes et voies ouvertes à la circulation publique ;
 
-3° Le directeur de la police aux frontières territorialement compétent fournit un avis sur les aspects de la sécurité des tiers autres que ceux couverts par le service compétent de l'aviation civile ainsi que sur l'emplacement utilisé pour le décollage, l'atterrissage ou l'amerrissage des aéronefs participant au spectacle aérien public d'aéronefs sans équipage à bord lorsque cet emplacement est situé hors aérodrome ;
+3° Le directeur départemental ou interdépartemental de la police nationale territorialement compétent fournit un avis sur les aspects de la sécurité des tiers autres que ceux couverts par le service compétent de l'aviation civile ainsi que sur l'emplacement utilisé pour le décollage, l'atterrissage ou l'amerrissage des aéronefs participant au spectacle aérien public d'aéronefs sans équipage à bord lorsque cet emplacement est situé hors aérodrome ;
 
 4° En ce qui concerne les manifestations aériennes qui se déroulent sur un aérodrome dont le ministre de la défense est affectataire unique, principal ou secondaire, l'autorité compétente relevant du ministre de la défense fournit un avis sur les conditions d'utilisation de la plateforme militaire ;
 
@@ -246,7 +246,7 @@ II. - Dans les mêmes délais que ceux prévus pour l'envoi de la demande compl�
 
 2° Au maire de la commune sur le territoire de laquelle se trouve l'emplacement proposé, et au cas où l'emplacement se situe sur plus d'une commune, à chaque maire concerné ;
 
-3° Au directeur de la police aux frontières territorialement compétent.
+3° Au directeur départemental ou interdépartemental de la police nationale territorialement compétent.
 
 Chapitre IV : Déroulement des spectacles aériens publics d'aéronefs sans équipage à bord
 

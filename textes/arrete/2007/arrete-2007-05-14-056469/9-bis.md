@@ -18,10 +18,6 @@ Font l'objet d'une déclaration préalable détaillée, que l'exploitant transme
 
 7° Augmenter le nombre de tables de poker autorisées aux seules fins de permettre le déroulement d'un tournoi régulièrement déclaré.
 
-Un plan des salles de jeux, validé par le chef du service de la direction centrale de la police judiciaire territorialement compétent, devra être également transmis pour les opérations visées du 1° au 4°.
+Un plan des salles de jeux, validé par le chef du service territorial de la police nationale chargé de la police judiciaire territorialement compétent, devra être également transmis pour les opérations visées du 1° au 4°.
 
 Les opérations mentionnées aux 2° et 6° donnent lieu à la modification de l'arrêté portant autorisation d'exploitation de jeux.
-
-NOTA :
-
-Conformément à l'article 7 du décret n° 2023-530 du 29 juin 2023, ces dispositions entrent en vigueur le 1er juillet 2023.
