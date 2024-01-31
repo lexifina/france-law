@@ -448,20 +448,6 @@ L'intensité anormale du phénomène est caractérisée au regard des cumuls de 
 
 Pas-de-Calais |
 
-Saint-Aubin |
-
-Inondations et coulées de boue |
-
-28/10/2023 |
-
-01/11/2023 |
-
-1 |
-
-Les cumuls de précipitations lors de l'évènement présentent une période de retour supérieure à 10 ans. |
-
-Pas-de-Calais |
-
 Tardinghen |
 
 Inondations et coulées de boue |

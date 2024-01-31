@@ -1736,20 +1736,6 @@ Les cumuls de précipitations lors de l'évènement présentent une période de 
 
 Nord |
 
-Estaires |
-
-Inondations et coulées de boue |
-
-02/11/2023 |
-
-24/11/2024 |
-
-|
-
-L'intensité anormale du phénomène durant l'évènement est caractérisée au regard des cumuls de précipitations et des débits des cours d'eau qui présentent une période de retour égale ou supérieure à 10 ans dans un contexte de sols saturés en eau. |
-
-Nord |
-
 Herzeele |
 
 Inondations et coulées de boue |
@@ -1848,34 +1834,6 @@ L'intensité anormale du phénomène durant l'évènement est caractérisée au 
 
 Pas-de-Calais |
 
-Audresselles |
-
-Inondations et coulées de boue |
-
-02/11/2023 |
-
-24/11/2024 |
-
-|
-
-L'intensité anormale du phénomène durant l'évènement est caractérisée au regard des cumuls de précipitations et des débits des cours d'eau qui présentent une période de retour égale ou supérieure à 10 ans dans un contexte de sols saturés en eau. |
-
-Pas-de-Calais |
-
-Bonningues-lès-Ardres |
-
-Inondations et coulées de boue |
-
-02/11/2023 |
-
-24/11/2024 |
-
-|
-
-L'intensité anormale du phénomène durant l'évènement est caractérisée au regard des cumuls de précipitations et des débits des cours d'eau qui présentent une période de retour égale ou supérieure à 10 ans dans un contexte de sols saturés en eau. |
-
-Pas-de-Calais |
-
 Camiers |
 
 Mouvements de terrains (hors sécheresse géotechnique) |
@@ -1890,20 +1848,6 @@ Le mouvement de terrain est d'origine naturelle et présente une intensité anor
 
 Pas-de-Calais |
 
-Cavron-Saint-Martin |
-
-Inondations et coulées de boue |
-
-02/11/2023 |
-
-24/11/2024 |
-
-1 |
-
-L'intensité anormale du phénomène durant l'évènement est caractérisée au regard des cumuls de précipitations et des débits des cours d'eau qui présentent une période de retour égale ou supérieure à 10 ans dans un contexte de sols saturés en eau. |
-
-Pas-de-Calais |
-
 Colembert |
 
 Inondations et coulées de boue |
@@ -1911,20 +1855,6 @@ Inondations et coulées de boue |
 02/11/2023 |
 
 24/11/2023 |
-
-|
-
-L'intensité anormale du phénomène durant l'évènement est caractérisée au regard des cumuls de précipitations et des débits des cours d'eau qui présentent une période de retour égale ou supérieure à 10 ans dans un contexte de sols saturés en eau. |
-
-Pas-de-Calais |
-
-Conchil-le-Temple |
-
-Inondations et coulées de boue |
-
-02/11/2023 |
-
-24/11/2024 |
 
 |
 
@@ -2016,20 +1946,6 @@ L'intensité anormale du phénomène durant l'évènement est caractérisée au 
 
 Pas-de-Calais |
 
-Rebergues |
-
-Inondations et coulées de boue |
-
-02/11/2023 |
-
-24/11/2024 |
-
-|
-
-L'intensité anormale du phénomène durant l'évènement est caractérisée au regard des cumuls de précipitations et des débits des cours d'eau qui présentent une période de retour égale ou supérieure à 10 ans dans un contexte de sols saturés en eau. |
-
-Pas-de-Calais |
-
 Saint-Aubin |
 
 Inondations et coulées de boue |
@@ -2039,34 +1955,6 @@ Inondations et coulées de boue |
 24/11/2023 |
 
 1 |
-
-L'intensité anormale du phénomène durant l'évènement est caractérisée au regard des cumuls de précipitations et des débits des cours d'eau qui présentent une période de retour égale ou supérieure à 10 ans dans un contexte de sols saturés en eau. |
-
-Pas-de-Calais |
-
-Saint-Folquin |
-
-Inondations et coulées de boue |
-
-02/11/2023 |
-
-24/11/2024 |
-
-1 |
-
-L'intensité anormale du phénomène durant l'évènement est caractérisée au regard des cumuls de précipitations et des débits des cours d'eau qui présentent une période de retour égale ou supérieure à 10 ans dans un contexte de sols saturés en eau. |
-
-Pas-de-Calais |
-
-Tardinghen |
-
-Inondations et coulées de boue |
-
-02/11/2023 |
-
-24/11/2024 |
-
-|
 
 L'intensité anormale du phénomène durant l'évènement est caractérisée au regard des cumuls de précipitations et des débits des cours d'eau qui présentent une période de retour égale ou supérieure à 10 ans dans un contexte de sols saturés en eau. |
 
