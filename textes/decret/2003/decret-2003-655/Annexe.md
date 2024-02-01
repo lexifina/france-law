@@ -4,7 +4,7 @@ CORPS DE CATÉGORIE A
 
 CAP n° 1 : personnels d'encadrement technique
 
-Ingénieurs généraux ; ingénieurs hospitaliers en chef de classe exceptionnelle ; ingénieurs hospitaliers en chef de classe normale ; ingénieurs hospitaliers principaux ; ingénieurs hospitaliers.
+Ingénieur général ; ingénieurs en chef de classe exceptionnelle ; ingénieurs en chef hors classe ; ingénieurs en chef hospitalier ; ingénieurs hors classe ; ingénieurs principaux ; ingénieurs hospitaliers.
 
 CAP n° 2 : personnels de catégorie A des services de soins, des services médico-techniques et des services sociaux
 
@@ -48,4 +48,6 @@ Sages-femmes des hôpitaux du deuxième grade ; sages-femmes des hôpitaux du pr
 
 NOTA :
 
-Conformément à l’article 27 du décret n° 2022-1658 du 26 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l'article 26 du décret n° 2024-52 du 30 janvier 2024, ces dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication, à savoir le 1er février 2024.
+
+Conformément au premier alinéa de l’article 31 du décret n° 2024-1038 du 6 novembre 2024 et par dérogation aux dispositions de son article 29, les dispositions de l'article 70 et de l'annexe du présent décret n° 2003-655 du 18 juillet 2003 relatif aux commissions administratives paritaires locales et départementales de la fonction publique hospitalière restent en vigueur jusqu'à la date d'entrée en vigueur de l'arrêté mentionné au dernier alinéa de l'article R. 261-14 du code général de la fonction publique.

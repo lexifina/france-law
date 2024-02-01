@@ -4,7 +4,7 @@ CORPS DE CATÉGORIE A
 
 CAP n° 1 : Personnels d'encadrement technique de catégorie A
 
-Ingénieur général ; ingénieur en chef hors classe ; ingénieur hospitalier en chef de classe exceptionnelle ; ingénieur hospitalier en chef de classe normale ; ingénieur hospitalier.
+Ingénieur général ; ingénieurs en chef de classe exceptionnelle ; ingénieurs en chef hors classe ; ingénieurs en chef hospitalier ; ingénieurs hors classe ; ingénieurs principaux ; ingénieurs hospitaliers.
 
 CAP n° 2 : Personnels des corps de cadres de santé et de cadre socio-éducatif
 
@@ -64,4 +64,4 @@ Adjoint administratif principal de 1re classe ; permanencier auxiliaire de régu
 
 NOTA :
 
-Conformément à l’article 27 du décret n° 2022-1658 du 26 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l'article 26 du décret n° 2024-52 du 30 janvier 2024, ces dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication, à savoir le 1er février 2024.
