@@ -1,6 +1,6 @@
 # Article Annexe « Salaires minimaux mensuels pour 151,67 heures »
 
-Annexe « Salaires minimaux mensuels pour 151,67 heures » (Applicables au 1er octobre 2023)
+Annexe « Salaires minimaux mensuels pour 151,67 heures » (Applicables au 1er février 2024)
 
 |
 
@@ -10,48 +10,48 @@ Salaire mensuel |
 
 Coefficient 200 |
 
-11,62 €/ heure |
+11,80 €/ heure |
 
-1 762,40 €/ mois |
+1 789,71 €/ mois |
 
 Coefficient 220 |
 
-11,77 € |
+11,95 € |
 
-1 785,16 € |
+1 812,46 € |
 
 Coefficient 230 |
 
-11,81 € |
+11,99 € |
 
-1 791,22 € |
+1 818,52 € |
 
 Coefficient 300 |
 
-11,97 € |
+12,15 € |
 
-1 815,49 € |
+1 842,79 € |
 
 Coefficient 350 |
 
-12,07 € |
+12,25 € |
 
-1 830,66 € |
+1 857,96 € |
 
 Coefficient 400 |
 
-12,16 € |
+12,34 € |
 
-1 844,31 € |
+1 871,61 € |
 
 Coefficient 450 |
-
-12,26 € |
-
-1 859,47 € |
-
-Coefficient 500 |
 
 12,44 € |
 
 1 886,77 € |
+
+Coefficient 500 |
+
+12,63 € |
+
+1 915,59 € |
