@@ -432,6 +432,30 @@ Bourgogne Hautes Côtes de Nuits |
 
 29 |
 
+Entre-deux-Mers |
+
+10 |
+
+27,5 |
+
+Touraine |
+
+6 |
+
+12 |
+
+Touraine indication gamay |
+
+6 |
+
+12 |
+
+Pic Saint-Loup |
+
+5 |
+
+15 |
+
 II.-Liste des vins blancs tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
 
 APPELLATION D'ORIGINE PROTÉGÉE |
@@ -488,7 +512,7 @@ Chinon |
 
 Menetou-Salon |
 
-7 |
+10 |
 
 19,5 |
 
@@ -590,19 +614,19 @@ Bourgogne Tonnerre |
 
 Petit-Chablis |
 
-10 |
+12 |
 
 30 |
 
 Chablis |
 
-10 |
+12 |
 
 30 |
 
 Chablis accompagnée de la mention Premier cru |
 
-10 |
+12 |
 
 29 |
 
@@ -944,7 +968,7 @@ Mercurey complété par la mention " premier cru " |
 
 Sancerre |
 
-6,5 |
+10 |
 
 25 |
 
@@ -1092,6 +1116,12 @@ Rosé de Loire |
 
 12 |
 
+Touraine |
+
+6 |
+
+12 |
+
 IV.-Liste des vins de base destinés à l'élaboration de vins mousseux ou pétillants bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
 
 APPELLATION D'ORIGINE PROTÉGÉE |
@@ -1127,3 +1157,43 @@ Saumur |
 12 |
 
 18 |
+
+V.-Liste des vins issus de raisins récoltés à surmaturité et manuellement par tries successives dits vins liquoreux :
+
+APPELLATION D'ORIGINE PROTEGEE |
+
+VOLUME COMPLEMENTAIRE INDIVIDUEL
+
+Maximum de l'appellation pouvant être fixé
+
+pour une récolte donnée (HL/ HA) |
+
+VOLUME COMPLEMENTAIRE INDIVIDUEL
+
+Total maximum de vins pouvant être stockés
+
+pour un producteur donné (HL/ HA) |
+
+Monbazillac |
+
+6 |
+
+15 |
+
+Barsac |
+
+5 |
+
+12,5 |
+
+Sauternes |
+
+5 |
+
+12,5 |
+
+Coteaux du Layon |
+
+5 |
+
+10 |
