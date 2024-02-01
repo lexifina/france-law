@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230306063
+
+- Question : [SEQ230306063](seq230306063.md) — Réingénierie et universitarisation de la formation initiale d'orthoprothésiste et de podo-orthésiste
+
+## Réponse
+
+*Enseignement supérieur et recherche, JO du 2024-02-01, page 356*
+
+Le ministère de la santé et de la prévention et le ministère de l'enseignement supérieur et de la recherche ont réaffirmé la volonté de mener à son terme le processus de réingénierie et d'universitarisation des professions de santé. Dans cette optique, une mission d'accompagnement opérationnel de ce processus, conjointe à ces deux ministères, a été confiée à la professeure Christine Ammirati. Un des axes de cette mission s'articule autour du volet diplomation et ingénierie des formations de santé. À ce titre, cette mission a listé les travaux en cours ou devant être envisagés pour l'ensemble des professions de santé concernés. Le ministère de la santé et de la prévention et le ministère de l'enseignement supérieur et de la recherche ont formulé une priorisation des filières à réingénierier pour l'année 2024. Les BTS prothésiste-orthésiste et podo-orthésiste se préparent en 3 ans après le bac au lieu de 2 pour répondre aux exigences professionnelles, en lycée, en école ou par l'apprentissage dans huit établissements, et concernent également le ministère de l'éducation nationale et de la jeunesse. Si la demande de réingénierie des formations des orthoprothésistes et podo-orthésistes a bien été identifiée, elle ne figure pas dans le calendrier de cette première échéance. En effet, la réingénierie de la formation initiale d'infirmier qui concerne près de 100 000 étudiants répartis dans 320 instituts de formation, a été considérée comme prioritaire pour 2024. Ainsi, le processus d'universitarisation en lien avec la réingéniérie des formations des orthoprothésistes et podo-orthésistes sera considéré comme prioritaire pour les rentrées universitaires suivantes.
