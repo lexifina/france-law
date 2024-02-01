@@ -346,6 +346,10 @@ Cour d'appel de Nîmes |
 
 Gard |
 
+Alès |
+
+Alès |
+
 Nîmes |
 
 Bagnols-sur-Cèze, Nîmes, Vauvert. |
@@ -354,7 +358,7 @@ Vaucluse |
 
 Avignon |
 
-Avignon. |
+Avignon |
 
 Cour d'appel d'Orléans |
 
@@ -534,4 +538,4 @@ Les Mureaux, Trappes. |
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 3 octobre 2023 (NOR : JUSB2325356A), ces dispositions entrent en vigueur le 24 octobre 2023.
+Conformément à l’article 3 de l’arrêté du 12 janvier 2024 (NOR : JUSB2334842A), ces dispositions entrent en vigueur le 1er février 2024.
