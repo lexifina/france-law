@@ -12,7 +12,7 @@ En aucun cas il ne peut être confié à la police municipale de mission de main
 
 La présente convention, établie conformément aux dispositions de l'article L. 512-5 du code de la sécurité intérieure, précise la nature et les lieux des interventions des agents de police municipale. Elle détermine les modalités selon lesquelles ces interventions sont coordonnées avec celles des forces de sécurité de l'Etat.
 
-Pour l'application de la présente convention, les forces de sécurité de l'Etat sont la police nationale dans les communes placées sous le régime de la police d'Etat et la gendarmerie nationale dans les autres communes (à préciser). Les responsables des forces de sécurité de l'Etat sont, selon le cas, le chef de la circonscription de sécurité publique ou le commandant de la communauté de brigades ou de la brigade territoriale autonome de gendarmerie territorialement compétents.
+Pour l'application de la présente convention, les forces de sécurité de l'Etat sont la police nationale dans les communes placées sous le régime de la police d'Etat et la gendarmerie nationale dans les autres communes (à préciser). Les responsables des forces de sécurité de l'Etat sont, selon le cas, le chef de la circonscription de police nationale ou le commandant de la communauté de brigades ou de la brigade territoriale autonome de gendarmerie territorialement compétents.
 
 Article 1er
 
@@ -176,4 +176,4 @@ Afin de veiller à la pleine application de la présente convention, le préside
 
 NOTA :
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au premier alinéa du VI de l’article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur à compter du 1er février 2024.

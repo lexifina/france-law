@@ -334,7 +334,7 @@ L'UHSA dispose, en dehors des liaisons téléphoniques de sécurité avec l'ext�
 
 Le dispositif téléphonique devra permettre de couper les liaisons téléphoniques de la zone de soins. Les modalités de cette coupure téléphonique seront précisées dans le plan d'intervention.
 
-Un plan d'intervention est mis en place et organisé en étroite coordination avec l'autorité préfectorale, la direction départementale de la sécurité publique, le service départemental d'incendie et de secours, la direction régionale des services pénitentiaires et la direction du centre hospitalier, pour permettre de faire face aux incidents susceptibles de se produire : agitation d'une personne détenue, mouvement collectif, incendie, évacuation...
+Un plan d'intervention est mis en place et organisé en étroite coordination avec l'autorité préfectorale, la direction départementale ou interdépartementale de la police nationale, le service départemental d'incendie et de secours, la direction régionale des services pénitentiaires et la direction du centre hospitalier, pour permettre de faire face aux incidents susceptibles de se produire : agitation d'une personne détenue, mouvement collectif, incendie, évacuation...
 
 Un appel malade traditionnel avec gestion de la présence infirmière est installé dans chaque chambre et dans chaque salle de bains. Les boîtiers de présence en chambre sont installés à l'extérieur des chambres. Le tableau général avec renvoi de phonie est installé au poste infirmier.
 
@@ -367,3 +367,7 @@ Les modalités précises de reports d'alarmes seront définies dans le protocole
 6. Spécifications techniques de l'équipement médical et mobilier
 
 L'équipement médical et le mobilier sont identiques à ceux d'une unité d'hospitalisation traditionnelle.
+
+NOTA :
+
+Conformément au premier alinéa du VI de l’article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur à compter du 1er février 2024.
