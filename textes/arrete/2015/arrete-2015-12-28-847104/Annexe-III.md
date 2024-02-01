@@ -10,6 +10,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de mission au cabinet du directeur général de la gendarmerie nationale (5 emplois) ;
 
+-chargé de mission auprès du directeur des soutiens et des finances (1 emploi) ;
+
 -chargé de mission au sein du commandement de la gendarmerie pour les réserves et la jeunesse (1 emploi) ;
 
 -chargé de projets au sein de la sous-direction du personnel officier (1 emploi) ;
@@ -44,6 +46,8 @@ A la direction générale de la gendarmerie nationale, le chef du bureau :
 
 -de l'action sociale, des blessés et du handicap ;
 
+-de l'administration ;
+
 -Agorha études et qualités ;
 
 -de l'analyse et de l'anticipation ;
@@ -62,7 +66,11 @@ A la direction générale de la gendarmerie nationale, le chef du bureau :
 
 -image ;
 
+-de la lutte antiterroriste ;
+
 -média ;
+
+-de l'organisation ;
 
 -parcours-mobilité ;
 
@@ -80,6 +88,8 @@ A la direction générale de la gendarmerie nationale, le chef du bureau :
 
 -des recours et de la protection fonctionnelle ;
 
+-de la réglementation et de la fonction militaire ;
+
 -de la rémunération et des pensions militaires ;
 
 -de la santé et de la sécurité au travail ;
@@ -89,6 +99,8 @@ A la direction générale de la gendarmerie nationale, le chef du bureau :
 -de la sécurité et de l'ordre publics ;
 
 -du suivi de la synthèse et de la veille opérationnelle ;
+
+-de la stratégie des compétences ;
 
 -stratégie innovation ;
 
@@ -476,11 +488,13 @@ Au sein du commandement des forces aériennes de la gendarmerie nationale :
 
 -commandant d'une force aérienne gendarmerie ;
 
+-chef de la division de l'appui opérationnel ;
+
 -commandant du centre national d'instruction des forces aériennes de la gendarmerie ;
 
 -commandant du centre national de maintenance aéronautique de la gendarmerie ;
 
--chargé de mission auprès du commandement des forces aériennes de la gendarmerie nationale (2 emplois) ;
+-chargé de mission auprès du commandement des forces aériennes de la gendarmerie nationale (1 emploi) ;
 
 -chef du bureau de maîtrise des risques au commandement des forces aériennes de la gendarmerie nationale ;
 
@@ -490,7 +504,7 @@ Au sein du commandement des forces aériennes de la gendarmerie nationale :
 
 -commandant de la gendarmerie pour Saint-Pierre-et-Miquelon ;
 
--commandant de la gendarmerie pour Saint-Martin-Saint-Barthélemy.
+-commandant de la gendarmerie de Saint-Barthélemy et Saint-Martin.
 
 Chef d'état-major du commandement la gendarmerie :
 
@@ -586,11 +600,11 @@ Commandant du centre national d'instruction :
 
 -officier de liaison auprès du préfet de police des Bouches-du-Rhône (1 emploi) ;
 
--officier de liaison au détachement de liaison d'un état-major de défense (8 emplois) ;
+-officier de liaison au détachement de liaison d'un état-major de défense (8 emplois dont 1 emploi par zone de défense et de sécurité) ;
 
 -officier de liaison à la direction des affaires criminelles et des grâces (1 emploi) ;
 
--officier de liaison à la direction du budget ;
+-officier de liaison à la direction du budget (2 emplois) ;
 
 -officier rapporteur à la cour des comptes (1 emploi) ;
 
@@ -650,11 +664,13 @@ Commandant du centre national d'instruction :
 
 -adjoint au chef de la cellule expertise nucléaire au sein du cabinet du ministère des armées (1 emploi) ;
 
--adjoint au chef de la cellule numérique au sein du cabinet du ministère des armées (1 emploi).
+-adjoint au chef de la cellule numérique au sein du cabinet du ministère des armées (1 emploi) ;
+
+-chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières.
 
 A l'agence du numérique des forces de sécurité intérieure :
 
--conseiller technique (1 emploi) ;
+-chargé de mission (1 emploi) ;
 
 -chef du pôle prospective-stratégie ;
 
@@ -663,7 +679,3 @@ A l'agence du numérique des forces de sécurité intérieure :
 -chef du département des systèmes d'information de soutien ;
 
 -chargé de fonctions, conseiller filière système d'information et de communication (1 emploi).
-
-NOTA :
-
-Conformément à l’article 2 de l’arrêté du 20 décembre 2023 (NOR : IOMJ2331782A), ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -6,6 +6,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef du service d'exploitation et de soutien des télécommunications et de l'informatique ;
 
+-chargé de fonction au cabinet du directeur général de la gendarmerie nationale (10 emplois) ;
+
 Chef du pôle :
 
 -des techniques spéciales d'enquêtes ;
@@ -16,11 +18,11 @@ Chef du pôle :
 
 -adjoint au chef du pôle des perspectives professionnelles (1 emploi) ;
 
--adjoint d'une division au service central de renseignement criminel de la gendarmerie nationale (4 emplois) ;
+-adjoint d'une division au service central de renseignement criminel de la gendarmerie nationale (3 emplois) ;
 
 -adjoint d'une division à l'institut de recherches criminelles de la gendarmerie nationale (4 emplois).
 
-A la direction générale de la gendarmerie nationale, adjoint au chef du bureau :
+A la direction générale de la gendarmerie nationale, adjoint au chef du bureau (1 emploi) :
 
 -des actes de gestion et des études ;
 
@@ -32,15 +34,7 @@ A la direction générale de la gendarmerie nationale, adjoint au chef du bureau
 
 -des études d'organisation ;
 
--des généraux de la gendarmerie ;
-
--de la lutte anti-terroriste ;
-
--de l'organisation ;
-
--de la réglementation et de la fonction militaire ;
-
--de la stratégie des compétences.
+-des généraux de la gendarmerie.
 
 Au sein du commandement de la gendarmerie pour les réserves et la jeunesse :
 
@@ -57,8 +51,6 @@ Au service de l'achat, de l'innovation et de la logistique du ministère de l'in
 -bureau des achats immobiliers et prestations ;
 
 -officier au pôle audiences recours médiations auprès de l'inspecteur général des armées-gendarmerie (1 emploi) ;
-
--chargé de fonction au cabinet du directeur général de la gendarmerie nationale (10 emplois) ;
 
 2° Inspection générale de la gendarmerie nationale :
 
@@ -998,11 +990,11 @@ Commandant de compagnie de gendarmerie des transports aériens :
 
 -commandant de la section de recherches prévôtales en second.
 
-Commandant de la section de recherches en second :
+Commandant de la section de recherches en second de :
 
--de Nouméa ;
+-Nouméa ;
 
--de Saint-Martin-Saint-Barthélemy.
+-Saint-Barthélemy et Saint-Martin.
 
 Officier adjoint en charge de la police judiciaire au sein du commandement la gendarmerie de :
 
@@ -1145,7 +1137,3 @@ A l'agence du numérique des forces de sécurité intérieure :
 -chef du pôle procédure pénale numérique/ plainte en ligne ;
 
 -chef du pôle DataLab.
-
-NOTA :
-
-Conformément à l’article 2 de l’arrêté du 20 décembre 2023 (NOR : IOMJ2331782A), ces dispositions entrent en vigueur le 1er janvier 2024.

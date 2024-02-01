@@ -630,7 +630,7 @@ Commandant en second de compagnie de la gendarmerie des transports aériens :
 
 -chef du service départemental de renseignement territorial de Cayenne ;
 
--officier adjoint commandement du commandement la gendarmerie de saint Martin-Saint-Barthélemy.
+-officier adjoint commandement du commandement la gendarmerie de Saint-Barthélemy et Saint-Martin.
 
 Officier adjoint sécurité routière au sein du commandement de la gendarmerie de :
 
@@ -710,7 +710,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -chef du bureau des ressources humaines du groupe d'intervention de la gendarmerie nationale ;
 
--chef bureau soutien opérationnel au groupe d'intervention de la gendarmerie nationale ;
+-chef du cabinet rayonnement au groupe d'intervention de la gendarmerie nationale ;
 
 -chef du bureau des ressources humaines du commandement du soutien opérationnel de la gendarmerie nationale ;
 
@@ -745,7 +745,3 @@ Commandant en second de la compagnie de gendarmerie départementale :
 -officier rapporteur à la commission des recours des militaires (3 emplois) ;
 
 -officier de liaison au département de la sécurité nucléaire au ministère de la transition écologique (2 emplois).
-
-NOTA :
-
-Conformément à l’article 2 de l’arrêté du 20 décembre 2023 (NOR : IOMJ2331782A), ces dispositions entrent en vigueur le 1er janvier 2024.

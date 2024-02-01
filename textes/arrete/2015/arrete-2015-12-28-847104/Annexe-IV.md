@@ -14,15 +14,7 @@ A la direction générale de la gendarmerie nationale, le chef du bureau :
 
 -des généraux de la gendarmerie ;
 
--de la lutte antiterroriste ;
-
 -du management de l'information opérationnelle ;
-
--de l'organisation ;
-
--de la réglementation et de la fonction militaire ;
-
--de la stratégie des compétences ;
 
 -de l'emploi, des soutiens et des finances au sein du commandement de la gendarmerie pour les réserves et la jeunesse ;
 
@@ -62,6 +54,8 @@ Au service de la transformation, le chef du département :
 
 -chef du centre des sciences de la donnée au service central de renseignement criminel de la gendarmerie nationale ;
 
+-chef du centre des sciences de la donnée au commandement du ministère de l'intérieur dans le cyberespace ;
+
 -chef du centre national d'expertise numérique auprès du commandement de la gendarmerie dans le cyberespace ;
 
 -chef du département national d'assistance cyber auprès du commandement de la gendarmerie dans le cyberespace ;
@@ -70,11 +64,9 @@ Au service de la transformation, le chef du département :
 
 -chef du bureau logistique de la mobilité au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur.
 
-A la direction générale de la gendarmerie nationale, adjoint au chef du bureau :
+A la direction générale de la gendarmerie nationale, adjoint au chef du bureau (1 emploi) :
 
 -de l'action sociale, des blessés et du handicap ;
-
--de l'administration ;
 
 -Agorha études et qualités ;
 
@@ -94,6 +86,10 @@ A la direction générale de la gendarmerie nationale, adjoint au chef du bureau
 
 -des effectifs et des référentiels ;
 
+-de la lutte antiterroriste ;
+
+-de l'organisation ;
+
 -parcours-mobilité ;
 
 -du personnel sous-officier de gendarmerie et volontaire ;
@@ -110,6 +106,8 @@ A la direction générale de la gendarmerie nationale, adjoint au chef du bureau
 
 -des recours et de la protection fonctionnelle ;
 
+-de la réglementation et de la fonction militaire ;
+
 -de la rémunération et des pensions militaires ;
 
 -de la santé et de la sécurité au travail ;
@@ -118,13 +116,15 @@ A la direction générale de la gendarmerie nationale, adjoint au chef du bureau
 
 -de la sécurité des mobilités ;
 
+-de la stratégie des compétences ;
+
 -du suivi de la synthèse et de la veille opérationnelle ;
 
 -de la synthèse budgétaire ;
 
 -adjoint au chef du bureau des matériels et des équipements au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur ;
 
--chef de projet Maintenance-MI au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi) ;
+-chef de projet Achats-MI au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi) ;
 
 -chargé de projets au sein d'une sous-direction de la direction des opérations et de l'emploi (4 emplois) ;
 
@@ -946,8 +946,6 @@ Au sein du commandement des forces aériennes de la gendarmerie nationale, le ch
 
 -de la division des opérations ;
 
--de la division de l'appui opérationnel ;
-
 -commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air ;
 
 -commandant en second d'un groupement de gendarmerie de l'air ;
@@ -974,7 +972,7 @@ Commandant de compagnie de gendarmerie des transports aériens :
 
 6° Outre-mer :
 
--commandant en second de la gendarmerie pour Saint-Martin-Saint-Barthélemy ;
+-commandant en second de la gendarmerie de Saint-Barthélemy et Saint-Martin ;
 
 -commandant de la section de recherches prévôtales.
 
@@ -982,7 +980,7 @@ Commandant de la section de recherche de :
 
 -Nouméa ;
 
--Saint-Martin-Saint-Barthélemy.
+-Saint-Barthélemy et Saint-Martin.
 
 Commandant de la section de recherches en second :
 
@@ -1062,7 +1060,7 @@ Adjoint au commandant du centre national d'instruction :
 
 -chef de bureau des promotions militaires à la sous direction des cabinets au ministère des armées ;
 
--chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières ;
+-adjoint au chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières ;
 
 -chef d'une division au sein du commandement pour l'environnement et la santé (2 emplois) ;
 
@@ -1104,7 +1102,9 @@ Au sein du groupe d'intervention de la gendarmerie nationale, chef de la force :
 
 -chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur ;
 
--conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi).
+-conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi) ;
+
+-chef de la section du pilotage et contrôle de la qualité au pôle judiciaire de la gendarmerie nationale.
 
 A l'agence du numérique des forces de sécurité intérieure :
 
@@ -1137,7 +1137,3 @@ A l'agence du numérique des forces de sécurité intérieure :
 -adjoint au chef du département gestion de crise et des événements ;
 
 -adjoint au chef du département des systèmes d'information de soutien.
-
-NOTA :
-
-Conformément à l’article 2 de l’arrêté du 20 décembre 2023 (NOR : IOMJ2331782A), ces dispositions entrent en vigueur le 1er janvier 2024.

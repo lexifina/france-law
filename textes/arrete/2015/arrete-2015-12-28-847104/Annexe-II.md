@@ -462,6 +462,8 @@ Commandant en second de l'office central de lutte contre :
 
 -officier de liaison à la sous-direction de l'architecture et des infrastructures techniques au sein de la direction de la transformation du numérique (1 emploi) ;
 
+-officier de liaison à l'agence des communications mobiles opérationnelles de sécurité et de secours (1 emploi) ;
+
 -directeur de la stratégie des risques et des relations internationales de l'institut des hautes études du ministère de l'intérieur ;
 
 -chargé de mission jeux Olympiques 2024 affecté à la région de gendarmerie d'Ile-de-France (1 emploi) ;
@@ -474,12 +476,8 @@ A l'agence du numérique des forces de sécurité intérieure :
 
 -chef de direction adjoint à la direction des supports opérationnels ;
 
--conseiller technique (2 emplois) ;
+-chargé de mission (2 emplois) ;
 
 -chef de pôle pilotage projet-appui méthode ;
 
 -chargé de mission au pôle pilotage projet-appui méthode.
-
-NOTA :
-
-Conformément à l’article 2 de l’arrêté du 20 décembre 2023 (NOR : IOMJ2331782A), ces dispositions entrent en vigueur le 1er janvier 2024.
