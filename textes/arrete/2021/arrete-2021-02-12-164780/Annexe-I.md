@@ -40,7 +40,7 @@ Admission dans l'armée d'active (aptitude générale au service) |
 
 0/1 |
 
-Tout candidat à un engagement dans l'armée de l'air doit également détenir :
+Tout candidat à un engagement dans l'armée de l'air et de l'espace doit également détenir :
 
 -l'aptitude à la spécialité à laquelle il postule (cf. annexes II, III, IV, V et VII) ;
 
@@ -82,7 +82,9 @@ Maintien dans l'armée d'active (aptitude générale au service) |
 
 |
 
-Admission et maintien dans la réserve opérationnelle |
+Admission et maintien dans la réserve opérationnelle
+
+|
 
 / |
 
@@ -98,27 +100,27 @@ Admission et maintien dans la réserve opérationnelle |
 
 / |
 
-Le personnel de la réserve opérationnelle doit présenter le même profil que le personnel en activité occupant le même emploi ou la même spécialité conformément à l'article R. 4221-2 du code de la défense.
+Le personnel de la réserve opérationnelle doit posséder les aptitudes requises pour l'emploi qu'il occupe, conformément au 5° de l'article L. 4211-2 du code de la défense. |
 
-Cette disposition ne s'applique pas aux fusiliers commandos de l'air en ce qui concerne les normes d'aptitude médicale au service dans les troupes aéroportées. |
+Admission et maintien dans la réserve spécialiste
 
-Admission et maintien dans la réserve spécialiste |
+|
 
-3 |
+5 |
 
-3 |
+5 |
 
-3 |
+5 |
+
+5 |
 
 5 |
 
 4 |
 
-3 |
-
 0/1 |
 
-Les réservistes spécialistes sont recrutés sur le fondement de l'article L4221-3 du code de la défense. |
+Les réservistes spécialistes sont recrutés sur le fondement de l'article L. 4221-3 du code de la défense. Ils doivent posséder les aptitudes requises pour l'emploi qu'ils occupent, conformément au 5° de l'article L. 4211-2 du code de la défense. |
 
 APTITUDES À LA PROJECTION |
 

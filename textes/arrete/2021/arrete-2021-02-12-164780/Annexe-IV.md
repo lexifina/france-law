@@ -56,26 +56,6 @@ Mécanicien d'équipage (14xx) |
 
 Parachutiste navigant expérimentateur (16xx) (4) |
 
-Opérateur capteur drone (1290) |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 SOUS-OFFICIERS SAUVETAGE HÉLIPORTÉ |
 
 Sauveteur plongeur héliporté (1700) |
@@ -374,7 +354,7 @@ Maintien |
 
 0/1 |
 
-SIC (8XXX) |
+Technicien des systèmes numériques et SIC (8XXX) |
 
 Admission |
 
@@ -1135,6 +1115,44 @@ Maintien |
 3 |
 
 5 |
+
+3 |
+
+3 |
+
+0/1 |
+
+Officiers capteurs systèmes d'armes (3290)
+
+|
+
+Admission |
+
+3 |
+
+2 |
+
+3 |
+
+4 |
+
+3 |
+
+3 |
+
+0/1 |
+
+Vision du relief satisfaisante exigée. Un dépistage systématique de la consommation de toxiques et l'évaluation médicale d'une consommation excessive d'alcool sont réalisés lors des VMP. |
+
+Maintien |
+
+3 |
+
+2 |
+
+3 |
+
+4 |
 
 3 |
 

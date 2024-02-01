@@ -1,6 +1,6 @@
 # Article Annexe VI
 
-NORMES MÉDICALES D'APTITUDE POUR L'ADMISSION À L'ÉCOLE D'ENSEIGNEMENT TECHNIQUE DE L'ARMÉE DE L'AIR ET À L'ÉCOLE DES PUPILLES DE L'AIR
+NORMES MÉDICALES D'APTITUDE POUR L'ADMISSION À L'ÉCOLE D'ENSEIGNEMENT TECHNIQUE DE L'ARMÉE DE L'AIR ET DE L'ESPACE ET À L'ÉCOLE DES PUPILLES DE L'AIR ET DE L'ESPACE
 
 APTITUDE |
 
@@ -22,7 +22,7 @@ O |
 
 P |
 
-ÉCOLE D'ENSEIGNEMENT TECHNIQUE DE L'ARMÉE DE L'AIR |
+ÉCOLE D'ENSEIGNEMENT TECHNIQUE DE L'ARMÉE DE L'AIR ET DE L'ESPACE |
 
 Admission dans un cursus de formation préparant à occuper un emploi spécialisé de militaire du rang |
 
@@ -60,7 +60,7 @@ Admission dans un cursus de formation préparant à occuper un emploi spécialis
 
 Les candidats à l'admission dans un cursus de formation préparant à occuper un emploi de sous-officier souhaitant s'engager dans les spécialités 2115 ou 2217 doivent dès l'admission satisfaire aux conditions d'aptitude médicale requises pour servir dans ces spécialités telles que définies en annexe IV. |
 
-ÉCOLE DES PUPILLES DE L'AIR |
+ÉCOLE DES PUPILLES DE L'AIR ET DE L'ESPACE |
 
 Admission dans les classes d'enseignement secondaire |
 

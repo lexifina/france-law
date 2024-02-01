@@ -106,7 +106,7 @@ Pilote d'avion " estafette " |
 
 2 |
 
-Opérateur capteur drone |
+Navigateurs officiers capteurs systèmes d'armes |
 
 2B |
 
@@ -294,9 +294,9 @@ Pilote d'avion " estafette " |
 
 2 |
 
-Pilote d'avion à distance (5) |
+Pilote d'avion à distance |
 
-Opérateur capteur drone |
+Navigateurs officiers capteurs systèmes d'armes |
 
 (1) Uniquement pour les candidats inaptes 1 A pour raison de mensurations segmentaires excessives (supérieures aux normes hautes).
 

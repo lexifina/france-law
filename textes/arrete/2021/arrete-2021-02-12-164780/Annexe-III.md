@@ -24,7 +24,7 @@ P (2) |
 
 |
 
-CONCOURS EXTERNE ET INTERNE DE L'ÉCOLE DE L'AIR |
+CONCOURS EXTERNE ET INTERNE DE L'ÉCOLE DE L'AIR ET DE L'ESPACE |
 
 CORPS DES OFFICIERS DE L'AIR (PN). |
 
@@ -176,6 +176,46 @@ Doivent répondre aux exigences particulières d'aptitude médicale définies pa
 
 Un dépistage systématique de la consommation de toxiques et l'évaluation médicale d'une consommation excessive d'alcool sont réalisés lors des VMP. |
 
+Officier capteurs systèmes d'armes (OCSA) |
+
+Admission |
+
+2 |
+
+2 |
+
+2 |
+
+4 |
+
+3 |
+
+2 |
+
+0/1 |
+
+Vision du relief satisfaisante exigée. |
+
+Maintien |
+
+3 |
+
+2 |
+
+3 |
+
+4 |
+
+3 |
+
+3 |
+
+0/1 |
+
+Vision du relief satisfaisante exigée.
+
+Un dépistage systématique de la consommation de toxiques et l'évaluation médicale d'une consommation excessive d'alcool sont réalisés lors des VMP. |
+
 Planification et conduite des opérations aériennes |
 
 Admission |
@@ -266,7 +306,7 @@ Admission |
 
 0/1 |
 
-Les candidats à cette spécialité dans l'armée d'active doivent satisfaire aux normes d'aptitude médicale au service dans les troupes aéroportées (TAP) définies par instruction. |
+Les candidats à cette spécialité dans l'armée d'active doivent satisfaire aux normes d'aptitude médicale au saut à ouverture automatique définies par instruction. |
 
 Maintien |
 
@@ -342,7 +382,7 @@ Maintien |
 
 0/1 |
 
-OFFICIERS DU COURS SPÉCIAL DE L'ÉCOLE DE L'AIR |
+OFFICIERS DU COURS SPÉCIAL DE L'ÉCOLE DE L'AIR ET DE L'ESPACE |
 
 CORPS DES OFFICIERS DE L'AIR (PN). |
 
@@ -362,7 +402,7 @@ CORPS DES OFFICIERS DE L'AIR (PN). |
 
 |
 
-Pour les candidats à l'admission au cours spécial de l'école de l'air, ils doivent satisfaire aux conditions d'aptitudes médicales requises pour servir dans ce corps telles que définies pour les officiers de l'air recrutement concours externe et interne de l'école de l'air. |
+Pour les candidats à l'admission au cours spécial de l'école de l'air et de l'espace, ils doivent satisfaire aux conditions d'aptitudes médicales requises pour servir dans ce corps telles que définies pour les officiers de l'air recrutement concours externe et interne de l'école de l'air et de l'espace. |
 
 CORPS DES OFFICIERS MÉCANICIENS |
 
@@ -382,7 +422,7 @@ CORPS DES OFFICIERS MÉCANICIENS |
 
 |
 
-Pour les candidats à l'admission au cours spécial de l'école de l'air, ils doivent satisfaire aux conditions d'aptitudes médicales requises pour servir dans ce corps telles que définies pour les officiers de l'air recrutement concours externe et interne de l'école de l'air. |
+Pour les candidats à l'admission au cours spécial de l'école de l'air et de l'espace, ils doivent satisfaire aux conditions d'aptitudes médicales requises pour servir dans ce corps telles que définies pour les officiers mécaniciens recrutement concours externe et interne de l'école de l'air et de l'espace. |
 
 CORPS DES OFFICIERS DES BASES (3) |
 
@@ -402,7 +442,7 @@ CORPS DES OFFICIERS DES BASES (3) |
 
 |
 
-Pour les candidats à l'admission au cours spécial de l'école de l'air, ils doivent satisfaire aux conditions d'aptitudes médicales requises pour servir dans ce corps telles que définies pour les officiers de l'air recrutement concours externe et interne de l'école de l'air. |
+Pour les candidats à l'admission au cours spécial de l'école de l'air et de l'espace, ils doivent satisfaire aux conditions d'aptitudes médicales requises pour servir dans ce corps telles que définies pour les officiers des bases recrutement concours externe et interne de l'école de l'air et de l'espace. |
 
 RECRUTEMENTS AU CHOIX D'OFFICIERS DE CARRIÈRE |
 
@@ -422,7 +462,7 @@ Officiers issus de l'école polytechnique |
 
 - |
 
-Présenter lors du recrutement comme pour le maintien en service l'aptitude médicale requise pour le maintien en service des officiers issus des concours de l'Ecole de l'air de même corps et de même spécialité. |
+Présenter lors du recrutement comme pour le maintien en service l'aptitude médicale requise pour le maintien en service des officiers issus des concours de l'Ecole de l'air et de l'espace de même corps et de même spécialité. |
 
 Officiers issus des sous-officiers de carrière |
 
@@ -474,9 +514,9 @@ Issus des aspirants |
 
 - |
 
-Présenter lors du recrutement l'aptitude médicale requise pour l'admission des candidats aux concours de l'École de l'air de même corps et de même spécialité.
+Présenter lors du recrutement l'aptitude médicale requise pour l'admission des candidats aux concours de l'École de l'air et de l'espace de même corps et de même spécialité.
 
-Présenter pour le maintien en service l'aptitude médicale requise pour le maintien en service des officiers issus des concours de l'Ecole de l'air de même corps et de même spécialité. |
+Présenter pour le maintien en service l'aptitude médicale requise pour le maintien en service des officiers issus des concours de l'Ecole de l'air et de l'espace de même corps et de même spécialité. |
 
 Issus des sous-officiers sous contrat |
 
@@ -494,7 +534,7 @@ Issus des sous-officiers sous contrat |
 
 - |
 
-Présenter lors du recrutement comme pour le maintien en service l'aptitude médicale requise pour le maintien en service des officiers issus des concours de l'Ecole de l'air de même corps et de même spécialité. |
+Présenter lors du recrutement comme pour le maintien en service l'aptitude médicale requise pour le maintien en service des officiers issus des concours de l'Ecole de l'air et de l'espace de même corps et de même spécialité. |
 
 Issus des EOPN |
 
