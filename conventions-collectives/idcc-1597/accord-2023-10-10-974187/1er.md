@@ -1,0 +1,75 @@
+# Article 1er
+
+Les organisations d'employeurs de la région Pays de la Loire et les organisations de salariés, adhérentes aux organisations représentatives au niveau national ont déterminé les montants des indemnités de transports et trajets des ouvriers du bâtiment des départements de Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe et Vendée. À l'issue des négociations, les montants des indemnités de trajets demeurent inchangés et les montants des indemnités de transports sont fixés comme indiqué dans le tableau ci-dessous.
+
+Pays de la Loire |
+
+Zones |
+
+1-A
+
+0 à 5 km |
+
+1-B
+
+5 à 10 km |
+
+2
+
+10 à 20 km |
+
+3
+
+20 à 30 km |
+
+4
+
+30 à 40 km |
+
+5
+
+40 à 50 km |
+
+6
+
+50 à 65 km |
+
+7
+
+65 à 80 km |
+
+Trajet |
+
+0,48 € |
+
+0,67 € |
+
+1,90 € |
+
+4,08 € |
+
+5,12 € |
+
+6,11 € |
+
+6,86 € |
+
+8,17 € |
+
+Transport |
+
+0,88 € |
+
+1,12 € |
+
+4,37 € |
+
+8,25 € |
+
+12,63 € |
+
+18,81 € |
+
+20,14 € |
+
+24,39 € |
