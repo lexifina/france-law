@@ -1,0 +1,5 @@
+# Article IV
+
+Le présent avenant sera notifié à l'ensemble des organisations représentatives à l'issue de la procédure de signature, conformément aux dispositions de l'article L. 2231-5 du code du travail. Il est conclu pour une durée indéterminée et pourra être révisé ou dénoncé conformément aux dispositions légales.
+
+Il sera procédé dans les meilleurs délais aux formalités légales en vue du dépôt et de l'extension du présent accord, conformément à l'article L. 2231-6 du code du travail.

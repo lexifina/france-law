@@ -1,0 +1,3 @@
+# Article III
+
+Le présent avenant ne nécessite pas de dispositions spécifiques aux entreprises de moins de 50 salariés, auxquelles il s'applique également.
