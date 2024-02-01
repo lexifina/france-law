@@ -30,7 +30,7 @@ du conseil des CRC
 
 |
 
-1. Normandie-mer du Nord
+1. Normandie-Hauts-de-France
 
 Siège à Gouville-sur-Mer |
 

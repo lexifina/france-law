@@ -1,10 +1,8 @@
 # Article Annexe II
 
-ANNEXE II
+Les circonscriptions électorales rattachées au comité régional de la conchyliculture Normandie-Hauts-de-France sont les suivantes :
 
-Les circonscriptions électorales rattachées au comité régional de la conchyliculture Normandie-Mer du Nord sont les suivantes :
-
-Circonscriptions électorales CRC Normandie-Mer du Nord |
+Circonscriptions électorales CRC Normandie-Hauts-de-France |
 
 Département du Nord |
 
