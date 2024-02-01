@@ -260,13 +260,13 @@ Directeur zonal des compagnies républicaines de sécurité Paris à Vélizy.
 
 11. Direction de la coopération internationale de sécurité :
 
-Chef adjoint du service de la protection.
-
-Chef groupe de sécurité de la Présidence de la République et directeur de la sécurité de la Présidence de la République.
+Sous-directeur Monde.
 
 12. Service de la protection :
 
-Sous-directeur Monde.
+Chef adjoint du service de la protection.
+
+Chef groupe de sécurité de la Présidence de la République et directeur de la sécurité de la Présidence de la République.
 
 13. Service national de police scientifique :
 
@@ -324,4 +324,4 @@ Directeur de l'école nationale supérieure de la police.
 
 NOTA :
 
-Conformément à l'article 12 de l'arrêté du 30 novembre 2023 (NOR : IOMC2331987A), ces dispositions entrent en vigueur à compter du 1er janvier 2024, sous réserve des conditions d'application prévues audit article 12.
+Conformément au premier alinéa du VI de l’article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur à compter du 1er février 2024.
