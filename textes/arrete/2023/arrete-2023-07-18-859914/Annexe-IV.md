@@ -142,6 +142,10 @@ Rhône
 
 Lyon - Part-Dieu, Lyon-Perrache, Lyon-Saint-Exupéry-TGV.
 
+Département de la Sarthe
+
+Le Mans.
+
 Savoie
 
 Bourg-Saint-Maurice, Chambéry, Modane, Moutiers-Salins-Brides, Saint-Jean-de-Maurienne, Aix-les-Bains.

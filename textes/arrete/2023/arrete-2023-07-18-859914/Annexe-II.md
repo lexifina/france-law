@@ -280,7 +280,7 @@ Avignon.
 
 Vendée
 
-Les Sables-d'Olonne, Saint-Gilles-Croix-de-Vie,
+La Roche-sur-Yon Les Ajoncs,
 
 Vienne
 

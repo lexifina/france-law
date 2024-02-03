@@ -212,7 +212,7 @@ Colmar, Euroairport, Mulhouse.
 
 Rhône
 
-Lyon-Perrache, Lyon Saint-Exupéry.
+Lyon-Perrache, Lyon Saint-Exupéry, Lyon-Part-Dieu.
 
 Haute-Saône
 
@@ -277,3 +277,7 @@ Auxerre.
 Territoire de Belfort
 
 Belfort.
+
+Seine-Saint-Denis
+
+Roissypôle.
