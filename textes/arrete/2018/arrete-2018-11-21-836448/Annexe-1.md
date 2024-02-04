@@ -2,17 +2,23 @@
 
 ANNEXE 1
 
-VOLUME HORAIRE DE RÉFÉRENCE (*) CORRESPONDANT À UNE DURÉE DE 84 SEMAINES D'ENSEIGNEMENT, 22 SEMAINES DE PFMP ET 2 SEMAINES D'EXAMEN
+VOLUME HORAIRE DE RÉFÉRENCE (*) CORRESPONDANT À UNE DURÉE DE 80 SEMAINES D'ENSEIGNEMENT, 20 SEMAINES DE PFMP ET 2 SEMAINES D'EXAMEN
 
 |
 
-Seconde prof |
+Seconde
 
-Première prof |
+prof |
+
+Première
+
+prof |
 
 Terminale prof |
 
-Total sur 3 ans |
+Total
+
+sur 3 ans |
 
 ENSEIGNEMENTS PROFESSIONNELS |
 
@@ -20,67 +26,49 @@ ENSEIGNEMENTS PROFESSIONNELS |
 
 420 |
 
-390 |
+319 |
 
-1 260 |
+1 189 |
 
 Enseignement professionnel |
 
-330 |
+360 |
 
-266 |
+294 |
 
-260 |
+231 |
 
-856 |
+885 |
 
-Enseignements professionnels et français
+Enseignements professionnels et français en co-intervention (a) |
 
-en co-intervention (a) |
-
-30 |
-
-28 |
-
-/ |
-
-58 |
-
-Enseignements professionnels et mathématiques-sciences en co-intervention (a) |
-
-30 |
+15 |
 
 14 |
 
 / |
 
-44 |
+29 |
 
-Enseignements professionnels et enseignements
+Enseignements professionnels et mathématiques-sciences en co-intervention (a) |
 
-généraux (b) en
+15 |
 
-co-intervention et/ ou atelier de philosophie
-
-et/ ou insertion professionnelle-poursuite d'études (a) (c) |
+14 |
 
 / |
 
-/ |
+29 |
 
-26 |
-
-26 |
-
-Réalisation d'un chef d'œuvre (e) |
+Réalisation d'un projet |
 
 - |
 
-56 |
+42 |
 
-52 |
+22 |
 
-108 |
+64 |
 
 Prévention-santé-environnement |
 
@@ -88,53 +76,49 @@ Prévention-santé-environnement |
 
 28 |
 
-26 |
+33 |
 
-84 |
+91 |
 
-Economie-gestion ou économie-droit
-
-(selon la spécialité) |
+Economie-gestion ou économie-droit (selon la spécialité) |
 
 30 |
 
 28 |
 
-26 |
+33 |
 
-84 |
+91 |
 
 ENSEIGNEMENTS GÉNÉRAUX |
 
-360 |
+390 |
 
-336 |
+350 |
 
-299 |
+330 |
 
-995 |
+1 070 |
 
-Français, histoire-géographie et enseignement moral
+Français, histoire-géographie et enseignement moral et civique (b) |
 
-et civique |
+120 |
 
-105 |
+98 |
 
-84 |
+99 |
 
-78 |
+317 |
 
-267 |
+Mathématiques (b) |
 
-Mathématiques |
-
-45 |
+60 |
 
 56 |
 
-39 |
+55 |
 
-140 |
+171 |
 
 Langue vivante A |
 
@@ -142,21 +126,19 @@ Langue vivante A |
 
 56 |
 
-52 |
+55 |
 
-168 |
+171 |
 
-Physique-chimie ou langue vivante B
-
-(selon la spécialité) |
+Physique-chimie ou langue vivante B (selon la spécialité) |
 
 45 |
 
 42 |
 
-39 |
+33 |
 
-126 |
+120 |
 
 Arts appliqués et culture artistique |
 
@@ -164,9 +146,9 @@ Arts appliqués et culture artistique |
 
 28 |
 
-26 |
+22 |
 
-84 |
+80 |
 
 Education physique et sportive |
 
@@ -174,50 +156,62 @@ Education physique et sportive |
 
 70 |
 
-65 |
+66 |
 
-210 |
+211 |
 
-CONSOLIDATION, AP ET ACCOMPAGNEMENT
+SOUTIEN AU PARCOURS |
 
-AU CHOIX D'ORIENTATION (c) (d) |
+30 |
 
-90 |
+28 |
 
-84 |
+33 |
 
 91 |
 
-265 |
-
 TOTAL DES HEURES |
 
-900 |
+870 |
 
-840 |
+798 |
 
-780 |
+682 |
 
-2 520 |
+2 350 |
 
-PÉRIODE DE FORMATION EN MILIEU PROFESSIONNEL |
+PÉRIODE DE FORMATION EN MILIEU PROFESSIONNEL OBLIGATOIRE POUR L'EXAMEN |
 
 4 à 6 semaines |
 
 6 à 8 semaines |
 
-8 semaines |
+6 semaines |
 
-18 à 22 semaines |
+16 à 20 semaines |
 
-(a) la dotation horaire professeur est égale au double du volume horaire élève.
+PARCOURS DIFFERENCIÉS :
 
-(b) français, histoire-géographie et enseignement moral et civique, mathématiques, physique-chimie (selon la spécialité), langue vivante A, langue vivante B (selon la spécialité), arts appliqués et culture artistique, éducation physique et sportive
+-Préparation à l'insertion professionnelle
 
-(c) en terminale : insertion professionnelle (préparation à l'emploi : recherche, CV, entretiens etc.) ou poursuite d'études (renforcement méthodologique etc.)
+-Préparation à la poursuite d'études |
 
-(d) y compris les heures dédiées à la consolidation des acquis des élèves en fonction de leurs besoins à l'issue d'un positionnement en début de classe de seconde.
+|
 
-(e) la réalisation d'un chef d'œuvre par les élèves est assurée dans un cadre pluridisciplinaire. |
+|
 
-(*) Volume horaire élève identique quelle que soit la spécialité (2 520 h).
+-Préparation à l'insertion professionnelle : 6 semaines de période de formation en milieu professionnel complémentaire
+
+-Préparation à la poursuite d'études : 6 semaines (30 heures par semaine) |
+
+6 semaines |
+
+(*) Volume horaire élève identique quelle que soit la spécialité (2 350h).
+
+a) La dotation horaire professeur est égale au double du volume horaire élève.
+
+b) Les heures de français et de mathématiques en seconde et en première professionnelle font l'objet de groupes à effectifs réduits s'appuyant sur les besoins des élèves pour renforcer l'acquisition des savoirs fondamentaux, sur la base de l'article 6 et de l'annexe 2 du présent arrêté. |
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 22 janvier 2024 (NOR : MENE2401956A), ces dispositions sont applicables à compter de la rentrée scolaire 2024 pour tous les effectifs entrant en seconde, entrant en première et entrant en terminale professionnelle.
