@@ -20,6 +20,6 @@ https://www.legifrance.gouv.fr/download/pdf?id=A0vGEMnt-DpFy_u0kRdu8VW5kS9SQ-G5R
 
 (8) Conformément à l'article 1er de l'arrêté du 7 février 2022 (NOR : TREP2203844A), le règlement annexé à l'arrêté du 18 juillet 2000 est modifié conformément aux articles 2 à 6, consultables à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=D_XZ1pm0QgMfs64GDK3HuZamK3rPi_17RppCmjQKzcU=
 
-NOTA :
+(9) Conformément à l'article 1er de l'arrêté du 25 janvier 2024 (NOR : TREP2400424A), le règlement annexé à l'arrêté du 18 juillet 2000 est modifié conformément aux articles 2 à 5, consultables à l'adresse suivante :
 
-Conformément à l’article 6 de l’arrêté du 7 février 2022 (TREP2203844A), ces dispositions entrent en vigueur à la date de publication aux actes administratifs de la préfecture du règlement local intégrant les protocoles mentionnés au III de l'article 5 dudit arrêté, et au plus tard le 1er juillet 2023.
+https://www.legifrance.gouv.fr/download/pdf?id=EGoWkB8c7TxB6qLu-xjfz9e28XWm-Rn2rXJfi6SAZBY=
