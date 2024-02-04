@@ -1,12 +1,26 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE NO 2718
+PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 2718
 
 Définitions
 
 Au sens du présent arrêté, on entend par :
 
 " Composé organique volatil (COV) " : tout composé organique, à l'exclusion du méthane, ainsi que la fraction de créosote, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 Kelvin ou ayant une volatilité correspondante dans des conditions d'utilisation particulières.
+
+" Déchets combustibles " : déchets, qui ne sont pas qualifiés d'incombustibles ; au sens de cette définition, les contenants, emballages et palettes sont comptabilisés en tant que matières combustibles.
+
+" Déchets incombustibles " : déchets qui ne sont pas susceptibles de brûler. Sont qualifiés d'incombustibles des déchets constitués uniquement de matériaux classés A1 ou A2-s1-d0 au sens de l'arrêté ministériel du 21 novembre 2002 ou des déchets qualifiés comme incombustibles suite à la mise en œuvre d'essais réalisés selon un protocole reconnu par le ministère chargé de l'environnement.
+
+" Déchets inflammables " : déchets catégorisés HP3 au sens de la directive cadre déchets susvisée. Un déchet n'est pas considéré comme inflammable au sens de ce présent arrêté lorsque les mentions de danger attribuées aux constituants de ce déchet ne sont pas mentionnées au tableau 3 de l'annexe III de la directive cadre déchets susvisée.
+
+" Petit îlot " : zone contenant des déchets combustibles ou inflammables qui remplit les conditions cumulatives suivantes :
+
+-le volume de déchets contenu dans la zone est inférieur à dix m3 si elle est couverte, et à 30 m3 sinon ;
+
+-les limites en longueur, largeur et hauteur de la zone sont matérialisées en permanence (benne, peinture, piquet, mur …) ;
+
+-la zone est séparée des autres zones, bâtiments, îlots, locaux, parking ou tiers par une distance d'au moins cinq mètres ou par un mur coupe-feu de caractéristiques minimales REI 120.
 
 " Produits dangereux et matières dangereuses " : substance ou mélange classé suivant les " classes et catégories de danger définies à l'annexe I, parties 2, 3 et 4 du règlement (CE) n° 1272/2008 relatif à la classification, l'étiquetage et l'emballage des substances et des mélanges " dit CLP. Ce règlement a pour objectif de classer les substances et mélanges dangereux et de communiquer sur ces dangers via l'étiquetage et les fiches de données de sécurité.
 
@@ -19,6 +33,14 @@ Au sens du présent arrêté, on entend par :
 - les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date du dépôt de dossier de déclaration,
 
 - l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date du dépôt de dossier de déclaration dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles.
+
+" Zone de réception de déchets " : zone dans laquelle les déchets sont réceptionnés par l'installation en vue d'une gestion ultérieure. Ces zones sont vidées au moins quotidiennement et sont vides en dehors des heures d'exploitation de l'installation.
+
+" Zone susceptible de contenir des déchets " : à l'exception des zones d'entreposage en cuve ou en silo fixe et des zones de réception de déchets définies ci-dessus, les zones susceptibles de contenir des déchets sont :
+
+-les zones de dépôt de déchets conditionnés ou en vrac ;
+
+-les zones de tri et de traitement des déchets.
 
 1. Dispositions générales
 

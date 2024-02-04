@@ -1,9 +1,51 @@
 # Article Annexe V
 
-Arrêté du 23 juillet 2012 art 3 : Les annexes de l'arrêté du 12 juillet 2011 sont modifiées conformément aux dispositions des annexes I, II et III du présent arrêté, lesquelles sont consultables au lien suivant : https://www.bulletin-officiel.developpement-durable.gouv.fr/documents/Bulletinofficiel-0026209/met_20120020_0100_0001.pdf
+DISPOSITIONS APPLICABLES AUX INSTALLATIONS EXISTANTES
 
-L'arrêté et les annexes sont publiés au Bulletin officiel du ministère de l'écologie, du développement durable et de l'énergie.
+Les dispositions sont applicables aux installations existantes selon le calendrier suivant :
 
-Vous pouvez les consulter à l'adresse suivante :
+Quatre mois après la parution
 
-https://www.bulletin-officiel.developpement-durable.gouv.fr/documents/Bulletinofficiel-0026209/met_20120020_0100_0001.pdf
+du présent arrêté au Journal officiel |
+
+Un an après la parution
+
+du présent arrêté au Journal officiel |
+
+1 Dispositions générales
+
+2.3 Interdiction de locaux occupés par des tiers
+
+2.6 Ventilation
+
+2.8 Mise à la terre des équipements
+
+2.9 Rétention des aires de travail
+
+2.10 Cuvettes de rétention
+
+3 Exploitation, entretien
+
+4 Risques
+
+5 Eau (sauf 5.3 et 5.11)
+
+6 Air, odeurs (sauf 6.2.2 et 6.2.3)
+
+7 Déchets
+
+8 Bruit et vibrations
+
+9 Remise en état après exploitation |
+
+2.2 Intégration dans le paysage
+
+5.3 Prélèvements
+
+5.11 Surveillance par l'exploitant de la pollution rejetée
+
+6.2.2 Prévention des émissions odorantes
+
+6.2.3 Gestion des nuisances odorantes |
+
+Les dispositions ne figurant pas dans le tableau ci-dessus ne sont pas applicables aux installations existantes.

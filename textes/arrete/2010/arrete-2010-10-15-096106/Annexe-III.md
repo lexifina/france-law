@@ -1,11 +1,11 @@
 # Article Annexe III
 
-L'arrêté et les annexes sont publiés au Bulletin officiel du ministère de l'écologie, du développement durable et de l'énergie.
+DISPOSITIONS APPLICABLES AUX INSTALLATIONS EXISTANTES
 
-Vous pouvez les consulter à l'adresse suivante :
+Les dispositions du présent arrêté sont applicables aux installations existantes à l'exception du point 2.3, du point 2.4 et des alinéas 3 et 4 du point 2.5.
 
-http://www.bulletin-officiel.developpement-durable.gouv.fr/fiches/BO201220/met_20120020_0100_0001.pdf
+Pour les installations existantes, les dispositions du premier alinéa du point 5.5 s'appliquent dans les délais suivant :
 
-NOTA :
+-à partir du 10 novembre 2014, si la commune est équipée d'un réseau séparatif ;
 
-Arrêté du 23 juillet 2012 art 4 : Les annexes de l'arrêté du 15 octobre 2010 sont modifiées conformément aux dispositions des annexes IV, V, VI et VII du présent arrêté.
+-4 ans après mise en œuvre d'un tel réseau dans le cas contraire, sans préjudice toutefois d'éventuels règlements locaux pris par la commune ou les collectivités locales notamment.
