@@ -1,0 +1,9 @@
+# Réponse à la question n° 13271
+
+- Question : [13271](13271.md) — Question n° 13271 — Problème du remboursement des frais de scolarité des religieuses et religieux
+
+## Réponse
+
+*JO du 2024-02-06, page 833*
+
+La loi n° 2019-828 du 6 aout 2019 de la transformation publique rappelle dans son article 37 que les élèves ou les membres des corps recrutés par la voie de l'Institut national du service public, de l'Ecole Polytechnique, de l'Ecole nationale supérieure des mines, de l'Ecole nationale de la magistrature et des élèves et les anciens élèves des écoles normales supérieures ont une obligation de servir pendant une durée minimale et sont soumis à une obligation de remboursement des sommes fixées par la réglementation applicable en cas de rupture de cet engagement. Pour les Ecoles normales supérieures, l'arrêté du 6 juin 2014 précise que les années passées au sein de l'école sont comptabilisées dans les 10 années d'engagement et qu'en cas de rupture de scolarité anticipée, un élève peut être dégagé de son engagement décennal. La situation d'élèves qui, à l'issue de leur cursus complet, ont fait le choix de se réorienter vers les ordres religieux, est similaire à celle d'élèves qui, pour des motifs éthiques ou philosophiques, souhaiteraient se réorienter dans un engagement associatif ou civil proche du "voeu de pauvreté" au sein d'un ordre religieux. Si certains jeunes ont besoin de temps pour mûrir leur réflexion sur ce type d'engagement, l'Etat ne peut cependant pas intervenir dans ce cheminement très personnel. Il parait ainsi difficile de définir un cadre législatif précisant si un engagement pris en pleine conscience par un jeune auprès de l'État peut avoir moins de poids qu'un engagement futur qu'il souhaiterait faire au sein d'un ordre religieux ou auprès d'un autre organisme. C'est pourquoi il n'est pas envisagé de cadre tel qu'évoqué.
