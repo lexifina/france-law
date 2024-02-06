@@ -1,0 +1,51 @@
+# Prévenir les ingérences étrangères en France
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N49386
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/prevenir_ingerences_etrangeres_France
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl23-479.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2024-02-06 : 1er dépôt d'une initiative. (PIONANR5L16B2150)
+  - 2024-03-20 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-02-06 : Renvoi en commission au fond
+      - 2024-02-28 : Nomination de rapporteur
+      - 2024-02-28 : Réunion de commission
+      - 2024-03-13 : Réunion de commission
+      - 2024-03-13 : Réunion de commission
+      - 2024-03-26 : Réunion de commission
+      - 2024-03-13 : Dépôt de rapport (RAPPANR5L16B2343, PIONANR5L16BTC2343)
+  - Discussion en séance publique
+    - 2024-03-26 : Discussion en séance publique
+    - 2024-03-26 : Discussion en séance publique
+    - 2024-03-27 : Discussion en séance publique
+    - 2024-03-27 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2024-03-27 : Dépôt d'une initiative en navette (PIONSNR5S419B0479)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-03-27 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2024-05-15 : Dépôt de rapport (RAPPSNR5S419B0595, PIONSNR5S419BTC0596)
+  - Discussion en séance publique
+    - 2024-05-22 : Discussion en séance publique
+    - 2024-05-22 : Décision
+- Commission Mixte Paritaire
+  - 2024-05-23 : Dépôt d'un projet de loi (PIONANR5L16B2652)
+  - 2024-05-23 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2024-05-30 : Nomination de rapporteur
+    - 2024-05-30 : Dépôt du rapport d'une CMP (RAPPSNR5S419B0646, PIONSNR5S419BTC0647)
+    - 2024-05-30 : Dépôt du rapport d'une CMP (RAPPANR5L16B2704, PIONANR5L16BTC2704)
+  - Discussion en séance publique
+    - 2024-06-03 : Discussion en séance publique
+    - 2024-06-03 : Décision
+  - Discussion en séance publique
+    - 2024-06-05 : Discussion en séance publique
+    - 2024-06-05 : Décision
+  - 2024-05-30 : Décision de la CMP
