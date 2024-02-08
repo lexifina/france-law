@@ -1,0 +1,11 @@
+# COMMUNE DE BROUALAN : délibération BROUALAN202402D — ASSAINISSEMENT COLLECTIF RENOUVELLEMENT DE LA CONVENTION POUR PERCEPTION DE LA REDEVANCE ASSAINISSEMENT COLLECTIF
+
+- Collectivité : COMMUNE DE BROUALAN
+- SIRET : 21350044000010
+- Code INSEE : 35044
+- Date : 2024-02-08
+- Matière : 3.5 Domaine et patrimoine/Autres actes de gestion du domaine public
+- Objet : ASSAINISSEMENT COLLECTIF RENOUVELLEMENT DE LA CONVENTION POUR PERCEPTION DE LA REDEVANCE ASSAINISSEMENT COLLECTIF
+- Transmis à la préfecture : 2024-02-13 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500440/Deliberation/2024/568972/812dffc08fe99c8f90a15718c9286cab596db4248a675ec61b88c3ce62bae6aa.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
