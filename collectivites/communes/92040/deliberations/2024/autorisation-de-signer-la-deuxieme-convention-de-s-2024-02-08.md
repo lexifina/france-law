@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de signer la deuxième convention de sous-traitance avec la Caisse nationale des allocations familiales pour l’attribution des places en crèche dans le cadre de la recherche « Investissement Social dans l’Accueil du Jeune Enfant » dite projet Isaje
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-02-08
+- Matière : PETITE ENFANCE
+- Objet : Autorisation de signer la deuxième convention de sous-traitance avec la Caisse nationale des allocations familiales pour l’attribution des places en crèche dans le cadre de la recherche « Investissement Social dans l’Accueil du Jeune Enfant » dite projet Isaje
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNTMsInB1ciI6ImJsb2JfaWQifX0=--c402ca8266518a336eb4b25200ae2360e27980cf/080224_17.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
