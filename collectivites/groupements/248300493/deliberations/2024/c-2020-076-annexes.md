@@ -1,0 +1,561 @@
+# Dracénie Provence Verdon agglomération : délibération C_2020_076-ANNEXES — C_2020_076-ANNEXES.pdf
+
+- Collectivité : Dracénie Provence Verdon agglomération
+- SIREN : 248300493
+- Date : 2024-02-09 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : C_2020_076-ANNEXES.pdf
+- Pages : 13
+- Acte publié : https://www.datasud.fr/fr/dataset/datasets/2692/resource/3144/download/#2020/2020_07_23/ANNEXES/C_2020_076-ANNEXES.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/667cacc54be7d63d6436b547
+
+## Texte
+
+Page 1 sur 13 
+
+CONVENTION DE FONDS DE CONCOURS 
+(Article L. 5216-5 VI du CGCT) 
+
+Entre : 
+
+Dracénie Provence Verdon Agglomération, dont le siège social est à Draguignan (Var) - 
+Square Mozart CS 90129, 
+Enregistrée sous le code SIRET numéro 248 300 493 001 24 
+Représentée par son Président en exercice, dûment autorisé à l’effet des présentes en vertu 
+de la délibération n° C_202…_ en date du …/…. /20…. ci-après désignée par 
+« l’Agglomération » ; 
+
+D’une part 
+
+Et 
+
+La Commune de Sillans-la-Cascade, dont le siège social est : Mairie, Rue du Château, 
+83690 SILLANS-LA-CASCADE (Var), Enregistrée sous le code SIRET numéro 218 301 281 
+00018, 
+Représentée par son Maire en exercice, dûment autorisé à l’effet des présentes en vertu 
+des délibérations n° 2020-04 et 08 en date du 10/02 /2020, ci-après dénommée « la 
+Commune» ; 
+D’autre part 
+
+IL A ETE CONVENU ET ARRETE CE QUI SUIT : 
+
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
+
+Page 2 sur 13 
+Préambule. 
+
+En vertu du principe de spécialité, l’Agglomération ne peut intervenir que dans le cadre de 
+son champ de spécialité à savoir, la spécialité territoriale et la spécialité fonctionnelle. De 
+plus, en vertu du principe d’exclusivité, une compétence ne peut être détenue que par une 
+seule personne publique. 
+
+La pratique du fonds de concours prévue à l’article L5216-5 VI du CGCT constitue une 
+dérogation à ces deux principes, en autorisant le versement, entre l’Agglomération et les 
+communes membres, de fonds de concours pour une opération sans lien avec une 
+compétence exercée par l’Agglomération. 
+
+La commune de Sillans-la-Cascade a pour projet de procéder : 
+D’une part, aux investissements divers suivants : 
+• 
+Chemin des Infournières 
+• 
+renforcement vidéoprotection 
+• 
+toilettes publiques 
+• 
+toiture école 
+• 
+signalisation routière en agglomération 
+• 
+signalétique touristique 
+• 
+local de vie CTM 
+• 
+parc du Château 
+• 
+Goudronnage des voies 
+d’autre part l’aménagement suivant : 
+• 
+aménagement du centre aéré dans une annexe du Château 
+
+C'est dans ce cadre, que l’Agglomération souhaite participer à ces opérations en attribuant à 
+la commune de Sillans, un fonds de concours conformément à l'article L5216-5 VI du CGCT. 
+
+Le principe de l’octroi du fonds de concours pour les travaux d’investissement précités a été 
+dûment approuvé par délibérations concordantes susvisées. 
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
+
+Page 3 sur 13 
+
+SOMMAIRE 
+
+ARTICLE 1 – OBJET 
+4 
+ARTICLE 2 – DESTINATION DU FONDS DE CONCOURS. 
+4 
+ARTICLE 3 – MONTANT DU FONDS DE CONCOURS 
+4 
+ARTICLE 4 – MODALITÉ DE VERSEMENT. 
+5 
+ARTICLE 5 – IMPUTATION BUDGETAIRE. 
+5 
+ARTICLE 6 – DUREE DE LA CONVENTION. 
+5 
+ARTICLE 7 – ABANDON OU MODIFICATION DU PROJET. 
+5 
+ARTICLE 8 – REAJUSTEMENT DU FONDS DE CONCOURS 
+6 
+ARTICLE 9 – RESTITUTION EVENTUELLE DU FONDS DE CONCOURS 
+6 
+ARTICLE 10 – MONTAGE JURIDIQUE 
+6 
+ARTICLE 11 – COMMUNICATION 
+7 
+ARTICLE 12 – RESILIATION ET/OU LITIGE : 
+7 
+ARTICLE 13 – ANNEXE. 
+7 
+
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
+
+Page 4 sur 13 
+ARTICLE 1 – OBJET 
+
+La présente convention a pour objet, en application de l’article L5216-5 VI du CGCT le 
+versement d’un fonds de concours par l’Agglomération en faveur de la Commune pour les 
+investissements divers suivants : 
+- 
+Chemin des Infournières 
+- 
+renforcement vidéoprotection 
+- 
+toilettes publiques 
+- 
+toiture école 
+- 
+signalisation routière en agglomération 
+- 
+signalétique touritique 
+- 
+local de vie CTM 
+- 
+parc du Château 
+- 
+Goudronnage des voies 
+
+ainsi que pour l’aménagement suivant : 
+- 
+aménagement du centre aéré dans une annexe du Château 
+
+ARTICLE 2 – DESTINATION DU FONDS DE CONCOURS. 
+
+L’objet du fonds de concours visé par la présente convention est de contribuer aux dépenses 
+d’investissements, réalisées par la Commune dans le cadre des travaux précisés ci-dessus. 
+Les travaux, objet du fonds de concours, ainsi que les dépenses d’investissement 
+concernées et leur montant, sont précisés dans un tableau annexé à la présente convention. 
+
+ARTICLE 3 – MONTANT DU FONDS DE CONCOURS 
+
+En vertu de l’article L5216-5 VI du CGCT, le montant du fonds de concours ne peut excéder 
+la part du financement assurée, hors taxes, hors subventions, par la Commune. 
+
+Ainsi et sachant que : 
+• 
+Le montant prévisionnel total des travaux est évalué à la somme globale de 869 
+639,21 Euros 
+
+• 
+Ces montants pourront faire l’objet d’actualisations lors de l’APD (avant-projet 
+définitif) après l’attribution des marchés de travaux, ou en cours de chantier, si cela 
+est rendu nécessaire. 
+• 
+Le montant des subventions ou dons obtenus ou demandés par la Commune pour 
+ces opérations est arrêté à la somme globale de 447 629,00€ 
+
+Les montants pris en compte pour la détermination des fonds de concours sont donc égaux 
+à : 
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
+
+Page 5 sur 13 
+1- Investissements divers 
+
+2- Centre aéré 
+
+Désignations 
+Dépenses 
+Financement 
+
+centre aéré annexe du château 
+
+0,00%
+mission AMO 
+37 962,00 
+0,00%
+mission SPS 
+5 694,30 
+0,00%
+mission diagnostics/BE//Ass/Publications 
+20 740,24 
+0,00%
+travaux 
+455 544,00 
+0,00%
+imprévus 
+60 059,46 
+0,00%
+mobilier 
+20 000,00 
+0,00%
+total 
+600 000,00 
+
+état DETR 
+
+240 000,00
+40,00%
+Département du var 
+
+160 000,00
+26,67%
+DPVa 
+
+80 000,00
+13,33%
+commune 
+
+120 000,00
+20,00%
+TOTAL 
+
+600 000,00
+100,00%
+Désignations 
+Dépenses 
+Financement 
+% 
+Goudronnage des voies 
+45 043,87 
+
+Ch. Des Infournières 
+21 000,00 
+
+Renforcement vidéoprotection 
+25 000,00 
+
+Toilettes publiques 
+29 483,34 
+
+Toitures écoles 
+29 748,00 
+
+Signalisation routière en agglomération 
+21 066,00 
+
+Signalisation touristique 
+45 365,00 
+
+Local de vie ctm 
+13 000,00 
+
+Parc château 
+39 933,00 
+
+Subvention ETAT – DETR 2017 
+
+19 029,00
+7,06%
+Subvention Département du Var 
+
+28 600,00
+10,61%
+DPVa – FdC 2014-2020 
+
+107 600,00
+39,91%
+Commune 
+
+114 410,21
+42,43%
+TOTAL GENERAL 
+269 639,21
+269 639,21
+100,00%
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
+
+Page 6 sur 13 
+
+Synthèse : 
+
+total projets 
+869 639,21
+total subvention 
+447 629,00
+reste à financer 
+422 010,21
+total fdc DPVa 
+187 600,00
+autofinancement communal 
+234 410,21
+
+Le montant total des fonds de concours visés par la présente convention et versés par 
+l’Agglomération est donc fixé à 187 600,00 € (cent quatre-vingt-sept mille six cents euros), 
+Soit 107 600,00€ pour l ‘opération « investissements divers » soit globalement 47,88 % du 
+montant total des opérations, hors taxes et hors subventions. 
+Soit 80 000€ pour l’aménagement du centre aéré, soit globalement 40,00 % du montant total 
+des opérations, hors taxes et hors subventions. 
+
+Par ailleurs, il est rappelé les dispositions de l’article L1111-10 III qui imposent une 
+participation minimale du maître d’ouvrage d’une opération d’investissement de 20% du 
+montant total des financements apportés par des personnes publiques à ce projet. 
+
+ARTICLE 4 – MODALITÉ DE VERSEMENT. 
+
+Le paiement du fonds de concours de l’Agglomération interviendra au prorata de 
+l’avancement des projets et reste conditionné à la signature de la convention liant la 
+Commune et l’Agglomération. 
+
+Pour chaque opération, le premier versement sera effectué à réception par l’Agglomération 
+du justificatif de l’engagement de la dépense. Ce premier acompte sera égal à 30 % du 
+fonds de concours accordé par opération engagée. 
+
+Les versements suivants seront effectués sur réception des certificats de paiement attestant 
+du paiement des situations intermédiaires (co signés par le Maire et le comptable public). 
+
+Le solde sera versé sur présentation du certificat d’achèvement des travaux, du bilan 
+financier précisant les dépenses (distinguant et signalant clairement les dépenses éligibles) 
+et les recettes réellement encaissées par la Commune sur les opérations financées, d’un 
+état récapitulatif des dépenses. Le bilan financier et l’état récapitulatif seront attestés par 
+Madame le Maire et le comptable public. 
+
+La Commune s’engage à fournir un bilan d’ensemble qualitatif et quantitatif de la mise en 
+œuvre de l’action notamment au regard des critères de développement durable, dans le 
+cadre de l’application du pacte TPE/PME. 
+ARTICLE 5 – IMPUTATION BUDGETAIRE. 
+
+Conformément au planning de réalisation des travaux, le fonds de concours sera imputé sur 
+les crédits au chapitre 204, Exercices 2020 et suivants de l’Agglomération. 
+
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
+
+Page 7 sur 13 
+ARTICLE 6 – DUREE DE LA CONVENTION. 
+
+La présente convention prendra effet à compter de sa signature par les parties et prendra fin 
+dès le paiement du solde du fonds de concours. 
+
+ARTICLE 7 – ABANDON OU MODIFICATION DU PROJET. 
+
+En cas de modification ou d’abandon du projet, le bénéficiaire du fonds de concours devra 
+en informer l’Agglomération sans délai par écrit. 
+
+Dans le cas de l’abandon du projet avant tout commencement, la présente convention sera 
+caduque, et aucun fonds de concours ne sera versé. 
+En cas d’abandon du projet après démarrage des travaux, la Commune s’engage à 
+rembourser à l’Agglomération l’ensemble des sommes qui auraient été versées par 
+l’Agglomération au titre du fonds de concours, et ce, sans délai. 
+
+En cas de modification substantielle du projet, seul le conseil communautaire pourra statuer 
+sur le maintien ou l’abandon du fonds de concours. 
+ARTICLE 8 – REAJUSTEMENT DU FONDS DE CONCOURS 
+
+En fin d’opération, la commune s’engage à remettre un bilan financier de l’opération ainsi 
+que les justificatifs et factures attestant les dépenses HT retenues comme éligibles. 
+
+L’engagement de l’Agglomération ne pourra jamais dépasser le plafond prévisionnel de 
+187 600,00 € (cent quatre-vingt-sept mille six cents euros) 
+Dans l’hypothèse où le coût final est inférieur au coût estimé : 
+Le versement du fonds de concours correspondra aux taux déterminés à l’article 3, 
+appliqués sur la part éligible réelle HT, sans pouvoir excéder 187 600,00 € (cent quatre-
+vingt-sept mille six cents euros) 
+Conformément à l’article 3, en cas d’obtention de subventions, la somme de celles-ci sera 
+prise en compte dans le calcul du montant total du fonds de concours. 
+
+En cas cession du bien, objet du fonds de concours, l’Agglomération sera avertie de ladite 
+cession et de son prix. En effet, cela lui permettra de pouvoir demander éventuellement le 
+remboursement de tout ou partie du fonds versé. 
+A défaut de signalement de la mutation, l’Agglomération pourra exiger le remboursement 
+intégral du fonds versé. 
+Les effets de la présente clause sont limités à la durée de 10 ans après signature de la 
+présente convention. 
+ARTICLE 9 – RESTITUTION EVENTUELLE DU FONDS DE CONCOURS 
+
+L’Agglomération vérifiera l’emploi conforme du fonds de concours attribué et exigera son 
+remboursement total ou partiel si son utilisation se révèle différente de celle mentionnée à 
+l’article 1 de la présente convention. Les effets de la présente clause sont limités à la durée 
+de la convention. 
+ARTICLE 10 – MONTAGE JURIDIQUE 
+
+La Commune devra démontrer qu’elle est propriétaire du foncier ou qu’elle est autorisée à 
+intervenir sur le foncier, par tout moyen juridique approprié, pour pouvoir bénéficier du fonds 
+de concours. 
+Le bénéficiaire prendra toute mesure pour que la responsabilité de l’Agglomération ne puisse 
+être recherchée pour quelque cause que ce soit et souscrira toute police d’assurance qu’il 
+jugera nécessaire à la réalisation de son projet. 
+
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
+
+Page 8 sur 13 
+ARTICLE 11 – COMMUNICATION 
+
+Afin d’informer la population des missions de l’Agglomération et dans un souci de 
+transparence, la Commune s’engage à faire apparaître sur un panneau ou sur tout autre 
+support de communication, la participation de l’Agglomération, et ce dès notification de 
+l’attribution du fonds de concours par l’Agglomération et dès le début des travaux. 
+Sur ces supports, devront figurer la mention « projet cofinancé par la Communauté 
+d’Agglomération » et le logo de l’Agglomération. En cas de pose d’un panneau d’affichage, 
+celui-ci devra être enlevé au plus tôt 6 mois après la fin des travaux. L’Agglomération devra 
+être associée à toute manifestation concernant l’opération. 
+Cette mention et/ou ce logo devront également être repris au sein de tout support de 
+communication se rapportant au projet financé (brochure, dépliant, lettre d’information, 
+communiqué de presse…). 
+
+Pour la bonne réalisation de cette clause, la Commune se rapprochera du de la Direction de 
+la Communication de l’Agglomération qui lui transmettra le logo et la charte graphique de 
+l’Agglomération. 
+Tout support de communication intégrant le logo et/ou la contribution de l’Agglomération 
+devra être validé par la Direction de la Communication de l’Agglomération. 
+ARTICLE 12 – RESILIATION ET/OU LITIGE : 
+
+En cas de non-respect par l’une des parties de ses obligations, l’autre partie pourra 
+prononcer la résiliation des présentes. Les sommes éventuellement versées feront l’objet 
+d’un remboursement. 
+En cas de différends, les parties s’obligent à épuiser les voies permettant un accord amiable. 
+En cas de désaccord persistant, le Tribunal Administratif de Toulon est seul compétent pour 
+en connaître. 
+
+ARTICLE 13 – ANNEXE. 
+
+Il est joint à la présente convention une annexe technique et financière. 
+
+Fait en deux exemplaires originaux à Draguignan, le 
+
+Le Maire 
+Le Président de Dracénie 
+Provence Verdon Agglomération 
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
+
+Page 9 sur 13 
+ANNEXE TECHNIQUE ET FINANCIERE 
+
+Précisions relatives à l’article 3 – MONTANTS DU FONDS DE CONCOURS : 
+
+Cf tableaux article 3Annexe plan de financement aménagement divers 
+
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
+
+Page 10 sur 13 
+
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
+
+Page 11 sur 13 
+
+Annexe plan de financement centre aéré château : 
+
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
+
+Page 12 sur 13 
+ANNEXE TECHNIQUE ET FINANCIERE 
+
+Précisions relatives à l’article 4 – Modalités de versement : 
+
+Le paiement du fonds de concours pour chaque opération interviendra a minima en deux fois : 
+- 
+30% d’acompte versé selon les conditions stipulées à l’article 4 : 
+ sur réception d’un de justificatif de l’engagement de la dépense, visé par le Maire ou son 
+représentant : OS de démarrage des travaux, bon de commande ou acte notarié dans le cas 
+d’une acquisition ; 
+ à la signature de la convention ; 
+- 
+Les paiements intermédiaires interviendront au prorata de l’avancement des investissements, 
+sur réception d’un état récapitulatif des dépenses attesté par Madame le Maire et le 
+Comptable public ; 
+- 
+Le solde sera versé sur réception d’un Certificat de fin d’opération pour l’ensemble des 
+opérations ; d’un bilan financier précisant les dépenses (distinguant et signalant clairement les 
+dépenses éligibles) et les recettes réellement encaissées par la Commune sur les opérations 
+financées ; d’un état récapitulatif des dépenses (bilan et état récapitulatif seront attestés par 
+Monsieur le Maire et le Comptable public) ; et de toutes pièces justificatives attestant de la bonne 
+réalisation des investissements conformément à la convention initiale. 
+Les pièces justificatives peuvent prendre la forme d’un rapport d’exécution, de photographies, 
+article de presse, … et indiqueront la communication faite sur l’origine des fonds de concours. 
+
+Pour la réalisation du bilan développement durable du projet, 5 axes peuvent être considérés : 
+- Lutter contre le changement climatique et protéger l’atmosphère, 
+- Préserver la biodiversité et protéger les milieux et les ressources 
+- Permettre l'épanouissement de tous les êtres humains, 
+- Assurer la cohésion sociale et la solidarité entre territoires et entre générations, 
+- Suivre des modes de production et de consommation responsables. 
+
+Ces éléments peuvent être considérés tant dans la phase de réalisation du projet qu’au moment de son 
+exploitation, et ne sont à renseigner que dans le cadre d’une opération unique. 
+
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
+
+Page 13 sur 13 
+
+Modèle de Certificat de fin des travaux ou d’opération 
+Le Maire, certifie que : 
+• 
+les travaux ou prestations relatifs à l’opération :_………………………………………….._ 
+et à l’opération ………………………………………………………………. 
+et à l’opération ……………………………………………………………….. 
+• 
+sont terminés, et ne feront plus l’objet de demande de versement de subvention, 
+• 
+que les opérations sont conformes à l’arrêté attributif de subvention, 
+• 
+le montant prévisionnel de la dépense subventionnable s’élève à : ____________ € HT 
+(pour chaque opération) 
+• 
+le coût final de cette opération s’élève à : __________ € HT 
+(pour chaque opération) 
+• 
+les opérations ont été financées selon les modalités définitives suivantes : 
+Opération ……………………. (à répéter pour chaque opération) 
+► Auto-financement : _____________ € HT _____ % 
+► Autres financements : 
+- __________________ : _____________ € HT _______ % 
+- ___________________ : ______________ € HT _______ % 
+- ____________________ : ______________ € HT _______ % 
+Date : 
+Cachet et signature 
+
+Envoyé en préfecture le 31/07/2020
+Reçu en préfecture le 31/07/2020
+Affiché le 
+ID : 083-248300493-20200723-C_2020_076-DE
