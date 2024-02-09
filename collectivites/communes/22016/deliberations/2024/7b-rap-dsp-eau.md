@@ -1,0 +1,11 @@
+# COMMUNE D'ILE DE BREHAT : délibération 7B_RAP_DSP_EAU — 7B_RAPPORT_PRINCIPE_DSP_EAU
+
+- Collectivité : COMMUNE D'ILE DE BREHAT
+- SIRET : 21220016600016
+- Code INSEE : 22016
+- Date : 2024-02-09
+- Matière : 8.8 Domaines de competences par themes/Environnement
+- Objet : 7B_RAPPORT_PRINCIPE_DSP_EAU
+- Transmis à la préfecture : 2024-02-09 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212200166/Deliberation/2024/567436/c4815b0a07bc59714b2727c33b04f6b27cda105c32e04469b2435e30495f7cd7.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
