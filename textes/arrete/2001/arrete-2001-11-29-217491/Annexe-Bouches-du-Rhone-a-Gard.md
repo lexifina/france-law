@@ -268,11 +268,13 @@ B
 
 |
 
-Direction départementale des territoires et de la Charente-Maritime
+Direction départementale des territoires et de la mer de la Charente-Maritime (12)
 
-Fonctions exercées |
+Fonction exercée |
 
-Niveau de qualification de l'emploi |
+Niveau de qualification
+
+de l'emploi |
 
 Nombre d'emplois |
 
@@ -280,7 +282,7 @@ Nombre de points (IM)
 
 par emploi |
 
-Responsable de l'unité-Politique de l'habitat |
+Responsable de l'unité parc public et rénovation urbaine - Service de la politique du logement durable et solidarité |
 
 A |
 
@@ -288,7 +290,7 @@ A |
 
 50 |
 
-Chargé du suivi administratif et financier des programmes de rénovation urbaine et suivi des bailleurs |
+Chargé du suivi administratif et financier des programmes de rénovation urbaine et du suivi des bailleurs - Unité parc public et rénovation urbaine - Service de la politique du logement durable et solidarité |
 
 B |
 
@@ -296,13 +298,13 @@ B |
 
 30 |
 
-Secrétaire de la section des aides publiques au logement |
+Assistant de l'unité parc public et rénovation urbaine - Service de la politique du logement durable et solidarité |
 
 C |
 
 1 |
 
-20 |
+25 |
 
 Direction départementale de l'équipement et de l'agriculture (1) du Cher
 
@@ -1159,3 +1161,5 @@ NOTA :
 (10) En application de l'article 1 de l'arrêté du 10 octobre 2022, la présente annexe est remplacée à effet du 1er mars 2021, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la mer des Bouches-du-Rhône.
 
 (11) En application de l'article 1 de l'arrêté du 14 février 2023 (NOR : TREK2304656A), la présente annexe est remplacée à effet du 1er février 2022, pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement de la Drôme.
+
+(12) En application de l'article 1 de l'arrêté du 1er février 2024 (NOR : TREK2403421A), la présente annexe est remplacée à effet de la date de signature de l'arrêté précité, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer de la Charente-Maritime.
