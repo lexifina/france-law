@@ -1284,8 +1284,116 @@ Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-NOTA :
+AL. Fiche d'opération standardisée BAR-TH-125 Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine) (installations collectives uniquement) :
 
-Conformément à l'article 6 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
 
-Conformément à l’article 5 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.
+AL. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
+
+S'agissant de critères directement liés à la fiche :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ou le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
+
+2. La preuve de réalisation de l'opération ou, à défaut, le document issu du fabricant ou de l'organisme pertinent, ne comporte pas les mentions prévues par la fiche BAR-TH-125 ;
+
+3. L'équipement installé ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération ou, à défaut, aux mentions indiquées sur le document issu du fabricant ou de l'organisme pertinent ;
+
+4. L'équipement installé n'est pas un système de ventilation mécanique contrôlée double flux autoréglable composé d'un caisson de ventilation double flux comprenant un échangeur de chaleur collectif, de gaines, de bouches d'insufflation et de bouches d'extraction autoréglables ;
+
+5. L'échangeur de chaleur n'est pas certifié selon les conditions de la fiche BAR-TH-125 ;
+
+6. L'échangeur de chaleur a un rendement en température (efficacité thermique) inférieur à 75 %, selon la norme NF EN 308 ;
+
+S'agissant d'autres critères :
+
+Bouches d'insufflation :
+
+7. Les bouches d'insufflation d'air neuf ne sont pas présentes dans toutes les pièces de vie (séjour, chambre et bureau) ou sont présentes dans certaines pièces de service (cuisine, salle d'eau et WC) ;
+
+8. Les bouches d'insufflation ne sont pas installées en partie haute ;
+
+9. Il est constaté la présence d'entrée d'air extérieur (réglettes de fenêtres, etc.) ;
+
+Bouches d'extraction :
+
+10. Certaines pièces de service (cuisine, salle d'eau et WC) ne sont pas équipées d'une bouche d'extraction ;
+
+Réseau de soufflage et d'extraction :
+
+11. En combles (ou tout autre volume non chauffé), la surface extérieure des conduits de ventilation n'est pas intégralement recouverte par un isolant, ou présente des discontinuités (notamment pour les traversées de plancher) ;
+
+12. Certains conduits souples sont percés ou écrasés ou étranglés ;
+
+13. Les diamètres de certains conduits sont inférieurs au diamètre de sortie de l'appareil (caisson d'extraction), sauf préconisation fabricant ;
+
+Unité de ventilation :
+
+14. Les ventilateurs ne fonctionnent pas ;
+
+15. Des dispositifs mécaniques individuels (hotte notamment) sont raccordés sur le réseau de ventilation ;
+
+Prise d'air et rejet d'air :
+
+16. La prise d'air ou le rejet d'air ne se fait pas directement sur l'extérieur (elle se fait, par exemple, dans les combles, le garage ou le vide sanitaire) ou la prise d'air conduit à un court-circuit avec le rejet.
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : zone climatique ; nombre de logements.
+
+AL. II. Doivent être vérifiés lors des contrôles par contact :
+
+-l'existence d'un système de ventilation mécanique contrôlée double flux autoréglable installé ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AM. Fiche d'opération standardisée Fiche d'opération standardisée BAT-TH-113 Pompe à chaleur de type air/ eau ou eau/ eau :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
+
+AM. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
+
+S'agissant de critères directement liés à la fiche :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
+
+2. La preuve de réalisation de l'opération ou, à défaut, le document issu du fabricant ou de l'organisme pertinent, ne comporte pas les mentions prévues par la fiche BAT-TH-113 ;
+
+3. L'équipement installé ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération ou, à défaut, aux mentions indiquées sur le document issu du fabricant ou de l'organisme pertinent : puissance thermique nominale ; pour les PAC de puissance inférieure ou égale à 400 kW, le type de pompe à chaleur (basse, moyenne ou haute température) ; performance énergétique de l'équipement installé (selon le cas, efficacité énergétique saisonnière ou coefficient de performance) ;
+
+4. L'équipement installé n'est pas une pompe à chaleur (PAC) de type air/ eau ou eau/ eau ;
+
+5. Dans le cadre du Coup de pouce Chauffage des bâtiments résidentiels collectifs et tertiaires , la PAC n'a pas remplacé une chaudière fonctionnant au charbon, au fioul ou au gaz ; le présent point est vérifié au moyen de toute pièce disponible (factures antérieures …) ;
+
+6. La performance énergétique de la PAC installée est inférieure à celle exigée par la fiche BAT-TH-113 ou, si l'opération se place dans le cadre du Coup de pouce Chauffage des bâtiments résidentiels collectifs et tertiaires et que la puissance thermique nominale de la PAC est supérieure à 400 kW, à celle exigée par le Coup de pouce ;
+
+7. L'écart de surface chauffée (écart = (surface déclarée-surface mesurée ou estimée)/ surface mesurée ou estimée*100) est supérieur à 10 % ;
+
+S'agissant d'autres critères :
+
+8. Il est constaté un problème manifeste quant aux fixations et à l'accrochage de l'une des unités extérieure et intérieure composant la PAC ;
+
+9. Les émetteurs ne sont manifestement pas compatibles avec la PAC installée ;
+
+10. L'unité extérieure, ou l'échangeur eau/ eau dans le cas d'une PAC eau/ eau, n'est manifestement pas convenablement installée (obstacles, échange non libre) ;
+
+11. Les réseaux de distribution ne sont pas calorifugés en volumes non chauffés ;
+
+12. Il est constaté l'absence d'un dispositif de réglage (par exemple, absence de vannes) permettant l'équilibrage du réseau hydraulique ;
+
+13. Dans le cas d'un ventilo-convecteur, si refroidissement, le raccordement de l'évacuation des condensats n'est pas réalisé ;
+
+14. Lorsque cela est nécessaire, le réseau frigorifique n'est pas entièrement calorifugé ;
+
+15. Dans le cas d'une PAC eau/ eau, les collecteurs ne sont pas équipés de robinets de réglage sur chaque boucle ;
+
+16. Dans le cas d'une PAC eau/ eau, les collecteurs ne comportent pas autant de départs et de retours que le nombre de boucles composant le capteur.
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : selon la puissance nominale de la PAC, efficacité énergétique saisonnière ou coefficient de performance (COP) ; zone climatique ; surface chauffée ; puissance nominale de la PAC (kW) ; puissance totale de la chaufferie après travaux (kW).
+
+AM. II. Doivent être vérifiés lors des contrôles par contact :
+
+-l'existence d'une (des) PAC installée (s) ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
