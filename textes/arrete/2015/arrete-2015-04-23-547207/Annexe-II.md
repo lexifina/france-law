@@ -66,7 +66,7 @@ P. 144, P. 146, P. 169, P. 178, P. 212 |
 
 Directeur de la plate-forme commissariat Brest |
 
-P. 144, P. 146, P. 178, P. 212 |
+P. 144, P. 146, P. 169, P. 178, P. 212 |
 
 Directeur de la plate-forme commissariat Ouest (stationnée à Rennes) |
 
