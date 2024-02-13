@@ -1,0 +1,9 @@
+# Réponse à la question n° 11435
+
+- Question : [11435](11435.md) — Question n° 11435 — Dette de l'Agence de santé de Wallis et Futuna
+
+## Réponse
+
+*JO du 2024-02-13, page 1008*
+
+L'Agence de santé de Wallis-et-Futuna (ADS) prend en charge les frais de soins liés aux évacuations sanitaires (EVASAN) a posteriori, en remboursant le Médipôle de Nouméa. Cette régularisation a posteriori génère des restes à payer qui ne sauraient a priori être qualifiés de dette de l'ADS envers le Médipôle de Nouméa. Tout d'abord, il existe un décalage plus ou moins important entre la date de la prise en charge du patient ayant bénéficié d'une évacuation sanitaire et celle de la transmission à l'ADS de la facture correspondant à cette prise en charge, en fonction de la durée de séjour (facturation à la sortie). Ensuite, un délai peut exister entre la réception des factures et leur paiement, notamment lorsque celles-ci sont traitées en fin d'exercice. Pour des raisons liées entre autres à la gestion de la trésorerie, ces factures non soldées sont basculées en restes à payer sur l'exercice suivant. Elles sont généralement acquittées au cours du premier trimestre de l'année suivante. A la fin 2022, des retards ont toutefois affecté le remboursement auprès du Médipôle. Ainsi, au 31 décembre 2022, l'ADS a inscrit 2,1 millions d'euros en charges à payer envers le Médipôle. Elle a réglé la somme de 0,8 million d'euros en février 2023 puis le solde restant de 1,3 million d'euros en octobre 2023. Ainsi, tous les restes à payer de 2022 ont été désormais apurés. Pour l'année 2023, les factures ont été réglées au fil de l'eau. L'ADS a reçu le 30 novembre 2023 la facture pour le mois de septembre 2023 pour un montant de 0,6 million d'euros qui, en fonction des disponibilités restantes, sera réglée soit courant décembre 2023, soit début janvier 2024.
