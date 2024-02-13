@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — S401 - Agir au plus près des habitants
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2024-02-13
+- Matière : 7.5.1
+- Objet : S401 - Agir au plus près des habitants
+- Transmis à la préfecture : 2024-02-13
+- Votants : 30
+- Pour : 22
+- Contre : 4
+- Abstentions : 4
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-72598.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
