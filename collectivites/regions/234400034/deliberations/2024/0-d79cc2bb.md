@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — T101 - Assurer la transition énergétique : vers la neutralité carbone et une région à énergie positive
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2024-02-13
+- Matière : 8.8
+- Objet : T101 - Assurer la transition énergétique : vers la neutralité carbone et une région à énergie positive
+- Transmis à la préfecture : 2024-02-13
+- Votants : 28
+- Pour : 24
+- Contre : 0
+- Abstentions : 4
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-72351.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
