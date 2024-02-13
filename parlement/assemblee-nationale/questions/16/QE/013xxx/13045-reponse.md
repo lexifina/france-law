@@ -1,0 +1,9 @@
+# Réponse à la question n° 13045
+
+- Question : [13045](13045.md) — Question n° 13045 — Taux d'encadrement dans la protection de l'enfance
+
+## Réponse
+
+*JO du 2024-02-13, page 1011*
+
+La définition de normes et taux d'encadrement en protection de l'enfance doit tenir compte de la diversité des réalités de terrain. Cette norme doit répondre aux besoins spécifiques et particuliers de chaque enfant pris en charge. Or, il existe aujourd'hui une très grande variabilité dans les modalités de prise en charge en protection de l'enfance, selon les âges des mineurs et jeunes de moins de vingt-et-un ans confiés à l'Aide sociale à l'enfance (ASE), leur degré d'autonomie, la configuration de la prise en charge et les locaux. Ainsi, selon la direction de la recherche, des études, de l'évaluation et des statistiques, en 2017, les 1 963 établissements de l'ASE comptent 55 000 emplois en Equivalent temps plein (ETP), ce qui représente 85 ETP pour 100 places d'hébergement. Ce taux varie fortement en fonction des catégories d'établissement : de 67 % dans les lieux de vie – qui sont de petites structures avec très peu d'enfants accueillis – à 160 % dans les pouponnières, où l'accueil d'enfants en bas âge nécessite plus de personnels, notamment paramédical et en particulier des auxiliaires de puériculture. Entre ces deux extrêmes, le taux d'encadrement atteint 75 % dans les villages d'enfants, 79 % dans les maisons d'enfants à caractère social et 109 % dans les foyers de l'enfance. Les travaux sur le taux d'encadrement conduits avec certains conseils départementaux initiés en 2021 ont permis de poser un certain nombre d'enjeux, mais nécessitent d'être approfondis dans le cadre d'une concertation associant l'Assemblée des départements de France, les représentants des fédérations d'établissements et l'ensemble des partenaires institutionnels.
