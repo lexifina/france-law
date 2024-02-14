@@ -135,9 +135,3 @@ Secrétariat général commun départemental |
 Yvelines |
 
 Directeur adjoint du secrétariat général commun départemental |
-
-.
-
-NOTA :
-
-Conformément à l'article 3 de l'arrêté 18 décembre 2023 (NOR : IOMA2331062A), ces dispositions entrent en vigueur à compter du 1er janvier 2024.

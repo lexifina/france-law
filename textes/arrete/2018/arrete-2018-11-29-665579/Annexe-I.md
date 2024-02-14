@@ -20,7 +20,13 @@ Nombre d'emplois
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -37,14 +43,6 @@ Chef du bureau des cabinets |
 1 |
 
 Secrétariat général |
-
-Chef du greffe de la commission du contentieux du stationnement payant |
-
-30 |
-
-- |
-
-1 |
 
 Chef de cabinet |
 
@@ -398,7 +396,7 @@ Chef de cabinet |
 
 1 |
 
-Chef du bureau des interventions économiques et de l'aménagement du territoire au sein de la sous-direction des finances locales et de l'action économique |
+Chef du bureau des interventions économiques des collectivités locales au sein de la sous-direction des finances locales et de l'action économique |
 
 30 |
 
@@ -818,7 +816,7 @@ Chargé de mission auprès du chef du service de la transformation |
 
 - |
 
-Chef du bureau de la reconversion et de la transition professionnelle à la sous-direction de l'accompagnement du personnel de la direction des ressources humaines de la gendarmerie nationale |
+Adjoint au chef du bureau de l'administration à la sous-direction administrative et financière de la direction des soutiens et des finances |
 
 30 |
 
@@ -858,7 +856,7 @@ Chef du bureau des ressources financières à la sous-direction des supports op�
 
 1 |
 
-Chef du bureau de l'administration à la sous-direction administrative et financière de la direction des soutiens et des finances |
+Chef de bureau de la reconversion et de la transition professionnelle à la sous-direction de l'accompagnement du personnel |
 
 50 |
 
@@ -950,7 +948,13 @@ Nombre d'emplois
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -961,6 +965,14 @@ SGAMI de la zone de défense et de sécurité Sud |
 Directeur de l'administration générale et des finances |
 
 60 |
+
+1 |
+
+|
+
+Directeur adjoint de l'administration générale et des finances |
+
+0 |
 
 - |
 
@@ -1184,7 +1196,13 @@ Nombre d'emplois
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -1550,13 +1568,19 @@ Nombre d'emplois
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
 (CAIOM) |
 
-06 DDSP des Alpes-Maritimes |
+06 DDSP des Alpes Maritimes |
 
 Chef de service de gestion opérationnelle |
 
@@ -1616,7 +1640,7 @@ Chef de service de gestion opérationnelle |
 
 1 |
 
-31 DDSP Haute-Garonne |
+31 DDSP Haute Garonne |
 
 Chef de service de gestion opérationnelle |
 
@@ -1842,7 +1866,13 @@ Nombre d'emplois
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -1888,7 +1918,7 @@ Chef du bureau de l'accompagnement du personnel |
 
 1 |
 
-33 Région zonale de gendarmerie Nouvelle-Aquitaine |
+33 Région zonale de gendarmerie Nouvelle Aquitaine |
 
 Chef du bureau de l'accompagnement du personnel |
 
@@ -1958,7 +1988,7 @@ Chef du bureau de la gestion du personnel |
 
 - |
 
-80 Région zonale de gendarmerie Hauts-de-France |
+80 Région zonale de gendarmerie Hauts de France |
 
 Chef du bureau des compétences |
 
@@ -2008,17 +2038,7 @@ Adjoint au chef du centre opérationnel de soutien infrastructure et logement |
 
 - |
 
-|
-
-|
-
-30 |
-
-- |
-
-1 |
-
-94 Région zonale de gendarmerie d'Ile-de-France |
+94 Région zonale de gendarmerie d'Ile de France |
 
 Chef du bureau des compétences |
 
@@ -2052,7 +2072,7 @@ Chef du bureau soutien finances |
 
 974
 
-Commandement de la gendarmerie nationale de La Réunion |
+Commandement de la gendarmerie nationale de la Réunion |
 
 Chef du bureau des soutien et des finances |
 
@@ -2078,7 +2098,13 @@ Nombre d'emplois
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -2099,6 +2125,16 @@ CAA de Paris |
 Greffier en chef |
 
 60 |
+
+- |
+
+1 |
+
+Commission du contentieux du stationnement payant |
+
+Chef du greffe |
+
+30 |
 
 - |
 
@@ -2266,15 +2302,15 @@ Greffier en chef |
 
 7° Périmètre préfectures
 
-Localisation des emplois |
+Localisation
+
+des emplois |
 
 Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-Total
-
-du nombre d'EFR |
+Total du nombre d'EFR |
 
 60 points |
 
@@ -2284,11 +2320,7 @@ du nombre d'EFR |
 
 20 points |
 
-Total
-
-du nombre d'emplois
-
-de CAIOM |
+Total du nombre d'emplois de CAIOM |
 
 60 points |
 
@@ -2386,7 +2418,7 @@ de NBI |
 
 - |
 
-2 |
+1 |
 
 - |
 
@@ -2394,7 +2426,7 @@ de NBI |
 
 - |
 
-2 |
+1 |
 
 - |
 
@@ -2784,19 +2816,13 @@ de NBI |
 
 2B Haute-Corse |
 
-- |
+1 |
 
 - |
 
 - |
 
-- |
-
-- |
-
-2 |
-
-- |
+1 |
 
 - |
 
@@ -2805,6 +2831,12 @@ de NBI |
 - |
 
 - |
+
+1 |
+
+- |
+
+1 |
 
 21 Côte-d'Or |
 
@@ -3838,7 +3870,7 @@ de NBI |
 
 - |
 
-64 Pyrénées-Atlantiques |
+64 Pyrénées Atlantiques |
 
 - |
 
@@ -4546,7 +4578,7 @@ de NBI |
 
 - |
 
-7 |
+8 |
 
 6 |
 
@@ -4554,7 +4586,7 @@ de NBI |
 
 - |
 
-- |
+1 |
 
 1 |
 
@@ -4774,7 +4806,7 @@ de NBI |
 
 - |
 
-986 Wallis-et-Futuna |
+986 Wallis et Futuna |
 
 |
 
@@ -4854,9 +4886,7 @@ Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-Total
-
-du nombre d'EFR |
+Total du nombre d'EFR |
 
 60 points |
 
@@ -4866,11 +4896,7 @@ du nombre d'EFR |
 
 20 points |
 
-Total du nombre
-
-d'emplois
-
-de CAIOM |
+Total du nombre d'emplois de CAIOM |
 
 60 points |
 
@@ -5388,7 +5414,7 @@ de NBI |
 
 1 |
 
-22 Côtes-d'Armor |
+22 Côtes d'Armor |
 
 - |
 
@@ -5604,7 +5630,7 @@ de NBI |
 
 1 |
 
-31 Haute-Garonne |
+31 Haute Garonne |
 
 - |
 
@@ -5892,7 +5918,7 @@ de NBI |
 
 - |
 
-44 Loire-Atlantique |
+44 Loire Atlantique |
 
 - |
 
@@ -6324,7 +6350,7 @@ de NBI |
 
 - |
 
-62 Pas-de-Calais |
+62 Pas de Calais |
 
 - |
 
@@ -6348,7 +6374,7 @@ de NBI |
 
 - |
 
-63 Puy-de-Dôme |
+63 Puy de Dôme |
 
 - |
 
@@ -6396,7 +6422,7 @@ de NBI |
 
 - |
 
-65 Hautes-Pyrénées |
+65 Hautes Pyrénées |
 
 - |
 
@@ -6420,7 +6446,7 @@ de NBI |
 
 - |
 
-66 Pyrénées-Orientales |
+66 Pyrénées Orientales |
 
 - |
 
@@ -6996,7 +7022,7 @@ de NBI |
 
 1 |
 
-94 Val-de-Marne |
+94 Val de Marne |
 
 - |
 
@@ -7091,9 +7117,3 @@ de NBI |
 - |
 
 - |
-
-.
-
-NOTA :
-
-Conformément à l'article 3 de l'arrêté 18 décembre 2023 (NOR : IOMA2331062A), ces dispositions entrent en vigueur à compter du 1er janvier 2024.
