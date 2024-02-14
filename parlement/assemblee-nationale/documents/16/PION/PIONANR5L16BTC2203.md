@@ -1,0 +1,13 @@
+# proposition de loi  sur la proposition de loi, adoptée par le Sénat, visant à renforcer la protection des mineurs et l’honorabilité dans le sport (n°1396).
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Statut : ADOPTCOM
+- Titre court : visant à renforcer la protection des mineurs et l'honorabilité dans le sport
+- Déposé le : 2024-02-14
+- Publié le : 2024-02-16
+- Dossier : DLR5L16N47026
+- Auteurs : Mme Claudia Rouaux (rapporteur), Commission des affaires culturelles et de l'éducation
+- Identifiant : PIONANR5L16BTC2203
+- Législature : 16
