@@ -1064,79 +1064,45 @@ B
 
 |
 
-Direction départementale de l'équipement du Gard
+Direction départementale des territoires et de la mer du Gard (13)
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification
+Nombre
 
-de l'emploi
+d'emplois |
 
-|
+Nombre de points (IM)
 
-NOMBRE
+par emploi |
 
-d'emplois
+Chef de service adjoint en charge du parc public - Service Habitat Construction - Unité renouvellement urbain |
 
-|
+A |
 
-NOMBRE DE POINTS (IM)
+1 |
 
-par emploi
+30 |
 
-|
+Chef de l'unité renouvellement urbain - Service Habitat Construction - Unité renouvellement urbain |
 
-Chargé de la politique de la ville
+A |
 
-|
+1 |
 
-A
+30 |
 
-|
+Auditrice financière de l'ANRU et instruction programmation HLM - Service Habitat Construction - Unité Renouvellement urbain |
 
-1
+B |
 
-|
+1 |
 
-30 points
-
-|
-
-Responsable du financement du logement
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Chargé du suivi de la politique de la ville
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
+20 |
 
 NOTA :
 
@@ -1163,3 +1129,5 @@ NOTA :
 (11) En application de l'article 1 de l'arrêté du 14 février 2023 (NOR : TREK2304656A), la présente annexe est remplacée à effet du 1er février 2022, pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement de la Drôme.
 
 (12) En application de l'article 1 de l'arrêté du 1er février 2024 (NOR : TREK2403421A), la présente annexe est remplacée à effet de la date de signature de l'arrêté précité, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer de la Charente-Maritime.
+
+(13) En application de l'article 1 de l'arrêté du 1er février 2024 (NOR : TREK2403559A), la présente annexe est remplacée à effet de la date de signature de l'arrêté précité, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Gard.
