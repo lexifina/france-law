@@ -1,0 +1,134 @@
+# Délibération n° 2024-012 du 15 février 2024 portant avis sur un projet de décret relatif à la délivrance des bulletins n° 2 du casier judiciaire à la RATP
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2024-012
+- Date : 2024-02-15
+- Publication : 2024-07-17
+- NOR : CNIX2418782V
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000049996988
+
+Date de l'avis : 15 février 2024. |
+
+N° de la délibération : 2024-012. |
+
+N° de demande d'avis : 23016891.
+
+Organisme(s) à l'origine de la saisine : ministère de la justice. |
+
+Textes concernés : projet de décret relatif à la délivrance des extraits de casier judiciaire à la Régie autonome des transports parisiens. |
+
+Thématiques : transmission du bulletin n° 2 du casier judiciaire, RATP, condamnations pénales, enquête administrative. |
+
+Fondement de la saisine : article 779 du code de procédure pénale. |
+
+L'essentiel :
+
+Le projet de décret vise à modifier l'article R. 79 du code de procédure pénale (CPP) pour habiliter la RATP à solliciter du casier judiciaire national automatisé, la délivrance du bulletin n° 2 du casier judiciaire pour certains agents lors leur recrutement ou dans le cadre de l'exercice de leurs fonctions.
+
+La CNIL considère que cet accès constitue un moyen proportionné en raison de la sensibilité des fonctions pour lesquelles la RATP a sollicité cette habilitation.
+
+Au vu des conséquences possibles sur les personnes concernées (candidats et agents déjà en poste), la CNIL attire l'attention de la RATP sur les garanties nécessaires qui devront être mises en œuvre une fois l'accès au B2 effectif (détermination d'une durée très brève de conservation, critères conduisant à ne pas recruter une personne, etc.).
+
+Enfin, la CNIL appelle l'attention du ministère sur l'intérêt, au regard de la protection des données, que présenterait une modification de l'article R. 79 du CPP afin de mieux encadrer les conditions d'accès au B2 des organismes concernés.
+
+_____________________
+
+La Commission nationale de l'informatique et des libertés,
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés (ci-après la loi informatique et libertés ), notamment son article 8-I-4° a ;
+
+Après avoir entendu le rapport de Mme Sophie LAMBREMON, commissaire, et les observations de M. Damien MILIC, commissaire du Gouvernement,
+
+Adopte la délibération suivante :
+
+I. - La saisine
+
+A. - Le contexte
+
+Les conditions de mise en œuvre du casier judiciaire national automatisé sont prévues aux articles 768 à 781 et R. 62 à R. 90 du code de procédure pénale (CPP) ; son article R. 79 fixe la liste des administrations et personnes morales habilitées à se voir délivrer le bulletin n° 2 du casier judiciaire ( B2 ).
+
+La consultation du B2 constitue la principale vérification réalisée dans le cadre de l'accès et du contrôle de certains emplois publics : elle permet de s'assurer que les candidats à certains emplois publics ou à certaines professions régies par des textes spéciaux présentent les garanties nécessaires à l'exercice des fonctions auxquelles ils postulent. Certains emplois plus sensibles (notamment les conducteurs ou les agents en charge de la sécurité interne) nécessitent que soient menées des enquêtes administratives donnant lieu à une consultation du B2 ainsi que de traitements automatisés de données à caractère personnel relevant de l'article 31 de la loi informatique et libertés .
+
+Aujourd'hui, la RATP peut déjà demander la remise du bulletin n° 3 du casier judiciaire ( B3 ). Cette possibilité semble légitime au regard de son statut.
+
+B. - L'objet de la saisine
+
+La CNIL a été saisie par le ministère de la justice d'un projet de décret visant à compléter l'article R. 79 du CPP afin d'autoriser la Régie autonome des transports parisiens (RATP) à solliciter la délivrance du B2 pour […] le recrutement ou l'affectation, ainsi que pour le contrôle de l'exercice de leurs fonctions notamment en vue de poursuites disciplinaires :
+
+des agents assermentés mentionnés au 4° du I de l'article L. 2241-1 du code des transports ;
+
+des agents chargés des procédures d'achat et de marché public ;
+
+des agents chargés de la cyber sécurité .
+
+Conformément aux dispositions de l'article 779 du CPP, la modification doit être autorisée par décret pris après avis motivé de la CNIL.
+
+II. - L'avis de la CNIL
+
+A. - Sur la proportionnalité de l'accès au B2 par la RATP
+
+Le ministère indique que la transmission du B2 vise à permettre à la RATP d' être en mesure de garantir la plus grande fiabilité et moralité des agents exerçant les fonctions les plus sensibles , a fortiori dans le contexte de la tenue des jeux Olympiques et Paralympiques.
+
+A cette fin, le projet de décret prévoit la possibilité pour la RATP d'accéder au B2, pour certains emplois, lors du recrutement et pour le contrôle de l'exercice de ces emplois, c'est-à-dire pour les agents en poste.
+
+Dans le secteur des transports, la SNCF (SNCF, SNCF Réseau, SNCF Voyageurs…) détient, depuis 1959, l'accès au B2 pour tous ses recrutements ainsi que pour les soumissions pour les adjudications de travaux ou de marchés publics, en vertu du 8° de l'article R.79 du CPP. Plus généralement, outre les accès prévus pour les administrations de l'Etat, certaines grandes entreprises chargées de missions de service public et les collectivités territoriales se sont vu reconnaître cet accès pour tous leurs emplois. Par ailleurs, la plupart des ordres professionnels ont également accès au B2 pour toute demande d'inscription au tableau de l'ordre.
+
+Si la CNIL constate que la délivrance du B2 à des fins de contrôle de l'accès ou de l'exercice de certains emplois a été octroyée à toute une série d'organismes, elle souligne qu'un juste équilibre doit être assuré entre les intérêts publics en cause et la protection de la vie privée et des données à caractère personnel. De ce point de vue, le projet de décret qui lui est soumis réserve cet accès à trois catégories d'emplois. La RATP a également tenu compte de ce que d'autres types d'emploi font l'objet d'une procédure de contrôle spécifique (notamment les agents en charge de la sécurité interne et les conducteurs).
+
+La CNIL estime que le fait de ne pas prévoir au bénéfice de la RATP un accès au B2 pour tous les emplois (recrutement ou en cours d'exercice), mais de l'avoir limité à certaines catégories d'entre eux, est un choix pertinent. Elle invite le gouvernement à prolonger cette réflexion pour les autres établissements publics et entreprises autorisés à accéder au B2.
+
+1. Sur l'accès au B2 à l'embauche :
+
+Sur les agents assermentés exerçant des missions de contrôle :
+
+Ces agents (environ 7 000 personnes actuellement) sont notamment chargés de constater par procès-verbaux certaines infractions prévues au code des transports, ainsi que de dresser les contraventions prévues par les règlements relatifs à la police ou à la sûreté du transport et à la sécurité de l'exploitation des systèmes de transport ferroviaire ou guidé.
+
+En raison de leur statut particulier et des missions qu'ils exercent, ces agents sont soumis à une assermentation au cours de laquelle une consultation du B2 de leur casier judiciaire est réalisée. La RATP fait valoir que cette vérification intervient dans un temps relativement long après l'embauche de l'agent, ne lui permettant pas d'apprécier efficacement la compatibilité du profil de la personne avec les missions envisagées.
+
+La CNIL reconnait que le renforcement de la sécurité des transports publics de voyageurs constitue un volet important de la prévention des atteintes à la sécurité publique et peut, dès lors, conduire à certaines restrictions aux libertés, parmi lesquelles le respect de la vie privée.
+
+La CNIL considère que s'agissant des agents exerçant des missions de contrôle, l'accès au B2 à l'embauche est légitime.
+
+Sur les agents en charge de la cybersécurité :
+
+Les agents en charge de la cybersécurité (environ 40 personnes actuellement) évoluent dans un environnement particulièrement sensible. Dans la mesure où de nombreux équipements sont dépendants des systèmes d'information, les cyberattaques concernent aussi le secteur des transports.
+
+La fonction d'agent en charge de la cybersécurité relève d'une sensibilité particulière : les cyberattaques peuvent entraîner la perte de contrôle d'un système ou d'un véhicule totalement ou partiellement, entrainant un risque pour l'intégrité des personnes. A ce titre, la RATP fait valoir que la seule consultation du bulletin n° 3 n'est pas suffisante. Compte tenu des enjeux associés à la protection des systèmes d'information en cause, notamment sur la sécurité physique du réseau de transport, la CNIL estime que l'accès au B2 pour cette catégorie d'agents est légitime.
+
+Sur les agents en charge des marchés publics :
+
+Les agents en charge des marchés publics (environ 180 personnes actuellement) ont accès à des données confidentielles et participent à la préparation des choix des prestataires et des fournitures. Ces fonctions impliquent également l'intervention de fonds publics et la manipulation de sommes importantes. Selon la RATP, ces éléments justifient que les agents en charge des marchés publics témoignent, par principe, d'une intégrité incontestable.
+
+La CNIL reconnaît que la préparation et l'instruction des marchés publics peuvent engendrer des risques de corruption, de passation de marchés fictifs, d'espionnage industriel ou encore de prise illégale d'intérêt. Eu égard à ces risques, l'accès prévu pour la RATP apparaît légitime.
+
+2. Sur l'accès au B2 dans le cadre des fonctions de l'agent :
+
+Le projet de décret ouvre la possibilité pour la RATP d'accéder au B2 de ces mêmes agents, lorsqu'ils sont en poste afin de pouvoir contrôler la continuité de leur bonne moralité .
+
+Dans ce cadre, la RATP envisage la possibilité d'une consultation périodique du B2 pour l'ensemble des agents visés par le projet de décret, qui pourrait intervenir à des moments prédéterminés de la carrière de l'agent ou à échéance régulières.
+
+La CNIL estime que l'accès au B2 des agents mentionnés dans le projet de décret pour s'assurer que ces derniers présentent les garanties nécessaires à l'exercice de leurs fonctions est légitime.
+
+B. - Sur les garanties entourant la mise en œuvre du dispositif par la RATP
+
+La délivrance du B2 par la RATP, soit lors de la phase de recrutement soit lors de l'exercice des missions des agents concernés, présente des risques pour les données des personnes en cause et est susceptible d'avoir des conséquences importantes pour celles-ci (non recrutement ou licenciement).
+
+Dans sa délibération n° 2015-415 du 19 novembre 2015, la CNIL a rappelé un certain nombre d'exigences et de garanties devant entourer, de manière générale, la délivrance du B2. En l'espèce, elle estime que les garanties suivantes devront être mises en œuvre, pouvant entraîner, le cas échéant, des modifications du statut du personnel ou de tout autre texte régissant la RATP :
+
+une durée de conservation très limitée des informations issues du B2 devra être déterminée ;
+
+un encadrement strict devra être organisé pour la consultation du B2 au cours des fonctions, notamment en déterminant une périodicité raisonnable ;
+
+des critères précis devront être fixés afin de s'assurer que le refus d'employer une personne ou le licenciement de celle-ci, n'est pas fondé sur une condamnation sans lien avec la fonction concernée ;
+
+l'ancienneté de la condamnation devra être prise en compte notamment afin de garantir le principe du droit à l'oubli et de ne pas faire du casier judiciaire un obstacle à la réinsertion professionnelle ;
+
+un cadre d'habilitation cohérent doit être assuré.
+
+La CNIL prend acte de ce que le gouvernement entend rappeler ces recommandations à la RATP et rappelle que le ministère doit assurer une authentification sécurisée pour l'accès au service.
+
+La présidente,
+
+M.-L. Denis
