@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231109209
+
+- Question : [SEQ231109209](seq231109209.md) — Prise en compte des Français établis hors de France dans le plan interministériel 2023-2027 contre les violences faites aux enfants
+
+## Réponse
+
+*Travail, santé et solidarités, JO du 2024-02-15, page 576*
+
+Concernant le 119, suite à la décision du 29 octobre 2007, la Commission européenne a préconisé la mise en place dans chaque Etat membre, du numéro 116 111 concernant les enfants en danger. En France, le service national d'accueil téléphonique de l'enfance en danger, qui assure le fonctionnement du numéro 119 "Allo Enfance en danger", a été retenu pour gérer ce numéro européen d'intérêt général, en raison de la cohérence entre les missions des deux numéros et permettant ainsi un accès facilité et harmonisé dans l'ensemble de l'Union européenne. Il est également possible pour des Français à l'étranger d'évoquer la situation d'un enfant en France en appelant le 01 53 06 38 94, numéro payant qui redirige vers les écoutants du 119. Le plan de lutte contre les violences faites aux enfants prévoit également dans sa mesure de favoriser l'identification d'auteurs d'actes pédocriminels commis à l'étranger via le renseignement d'un formulaire de signalement en ligne adressé directement par le déclarant à l'Office des mineurs qui sera traité par une unité spécialisée dans la lutte contre l'exploitation sexuelle des mineurs en ligne et bénéficiant d'une compétence exclusive en matière de pédocriminalité itinérante. Suite à la saisine du Conseil Supérieur des Programmes par le précédent ministre de l'éducation nationale concernant l'inscription de l'éducation à la sexualité dans les programmes scolaires, qui sont les mêmes pour les établissements scolaires français à l'étranger que dans l'hexagone et les territoires ultra-marins, le Gouvernement est dans l'attente d'un retour des orientations du conseil en la matière.
