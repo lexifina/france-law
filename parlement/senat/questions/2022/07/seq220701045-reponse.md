@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701045
+
+- Question : [SEQ220701045](seq220701045.md) — Interrogation sur la future identité numérique des Français
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2024-02-15, page 560*
+
+Le déploiement de la nouvelle carte nationale d'identité électronique (CNIe) constitue une vraie avancée pour mieux protéger nos concitoyens contre les risques d'usurpation d'identité. En premier lieu, le titre en lui-même respecte non seulement les standards de sécurité définis par le règlement (UE) n° 2019/1157 du 20 juin 2019 relatif au renforcement de la sécurité des cartes d'identité des citoyens de l'Union, s'agissant notamment du format (ID-1 tel que celui utilisé pour les cartes bancaires), mais encore les exigences prévues par le règlement (CE) n° 1030/2002, concernant notamment le matériau utilisé pour la fabrication du titre, la technique d'impression des mentions qui y figurent, l'intégration de données telles que la photographie ou la signature dans le document, ainsi que les normes internationales de sécurité définies par l'Organisation de l'aviation civile internationale. Des garanties en termes de sécurité ont également été demandées à l'Imprimerie nationale ; l'Agence nationale des titres sécurisés, à laquelle elle est conventionnellement liée, et le ministère de l'Intérieur et des Outre-mer en assurent la prise en compte constante. En second lieu, l'identité numérique, qui s'appuie sur les données d'identité de la CNIe, sera beaucoup plus protectrice pour nos concitoyens et réduira substantiellement le risque d'usurpation d'identité, souvent réalisée à partir des photocopies de cartes d'identité. Cette identité numérique sera conforme aux exigences élevées au sens du règlement sur l'identification électronique et les services de confiance pour les transactions électroniques (eIDAS) et permettra aux usagers de s'identifier sur Internet pour l'accomplissement notamment de démarches administratives en ligne.
