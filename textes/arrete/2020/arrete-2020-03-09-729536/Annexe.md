@@ -1508,6 +1508,12 @@ Animation auprès de tout public des activités physiques ou sportives à des fi
 
 Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. |
 
+Aide-moniteur d'entraînement physique, militaire et sportif, délivré jusqu'au 21 décembre 2023. |
+
+Animation des activités physiques ou sportives. |
+
+Sous le contrôle d'un titulaire de diplôme ou titre de niveau 4. |
+
 D-2.-Titres à finalité professionnelle délivrés par la Fédération française d'équitation
 
 INTITULÉ DU TITRE |
@@ -1561,6 +1567,46 @@ LIMITES DES CONDITIONS D'EXERCICE |
 Moniteur de football, délivré jusqu'au 19 mai 2023. |
 
 Conduite de cycles d'apprentissage et entraînement de la pratique du football. |
+
+|
+
+D-5.-Titres à finalité professionnelle délivré par la Fédération française de handball :
+
+INTITULÉ DU DIPLÔME |
+
+CONDITIONS D'EXERCICE |
+
+LIMITES
+
+DES CONDITIONS D'EXERCICE |
+
+Educateur de handball, mention " entraîneur territorial ", délivré jusqu'au 18 décembre 2023. |
+
+Encadrement, conception et conduite de séances d'animation, de cycles d'initiation, d'apprentissage et d'entraînement de joueurs et d'équipes de handball. |
+
+|
+
+Educateur de handball, mention " animateur des pratiques socio-éducatives et sociétales ", délivré jusqu'au 18 décembre 2023. |
+
+Encadrement, conception et conduite de séances d'animation, de cycles d'initiation, d'apprentissage, dans les différentes offres de pratique de handball |
+
+|
+
+Entraîneur de handball, délivré jusqu'au 18 décembre 2023. |
+
+Encadrement, enseignement, entraînement en handball. |
+
+|
+
+Entraîneur de handball du secteur professionnel, mention " entraîneur professionnel ", délivré jusqu'au 18 décembre 2023. |
+
+Encadrement, enseignement et entraînement en handball d'une équipe professionnelle ou auprès d'une sélection nationale. |
+
+|
+
+Entraîneur de handball du secteur professionnel, mention " entraîneur-formateur ", délivré jusqu'au 18 décembre 2023. |
+
+Encadrement, enseignement et entraînement en handball dans une structure de formation d'un club pro ou fédérale. |
 
 |
 
