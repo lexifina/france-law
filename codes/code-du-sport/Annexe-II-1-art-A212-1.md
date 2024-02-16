@@ -152,14 +152,6 @@ A l'exclusion des pratiques compétitives. |
 
 Titres à finalité professionnelle délivrés par le ministère chargé de la défense |
 
-Aide-moniteur d'entraînement physique, militaire et sportif, délivré jusqu'au 21 décembre 2023. |
-
-3 |
-
-Animation des activités physiques ou sportives. |
-
-Sous le contrôle d'un titulaire de diplôme ou titre de niveau 4. |
-
 Moniteur-chef d'entraînement physique, militaire et sportif, délivré jusqu'au 4 janvier 2024. |
 
 5 |
@@ -326,7 +318,7 @@ Certification " Techniques et enseignement des activités de fitness dans l'eau 
 
 Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
 
-Sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
+A l'exclusion de la surveillance des lieux de pratique. |
 
 Certification " Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 (**) associé au DE JEPS spécialité " perfectionnement sportif " mentions " activités de plongée subaquatique ", " canoë-kayak et disciplines associées en eau calme ", " canoë-kayak et disciplines associées en eau vive ", " triathlon ", " char à voile ", " aviron et disciplines associées ", " glisses aérotractées nautiques ", " surf et disciplines associées ", " natation course ", " plongeon ", " water-polo ", " natation synchronisée ", " voile ", " voile au-delà de 200 milles nautiques d'un abri ", " triathlon et disciplines enchaînées ". |
 
@@ -351,6 +343,18 @@ Certification " Techniques et enseignement des activités de fitness dans l'eau 
 Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
 
 Sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
+
+Certification " Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 (**) associé au DEUG " STAPS ", DEUST " animation et gestion des activités physiques, sportives ou culturelles ", DEUST " action, commercialisation des services sportifs ", DEUST " manager de club sportif ", Licence mention
+
+" STAPS : éducation et motricité ", Licence mention " STAPS : activité physique adaptée et santé ", Licence mention " STAPS : entraînement sportif ", Licence professionnelle mention " animation, gestion et organisation des activités physiques ou sportives ", Licence professionnelle mention " intervention sociale : développement social et médiation par le sport ", DEUST " métiers de la forme ", Licence professionnelle " activités sportives " option " remise en forme et loisirs sportifs associés : responsable d'équipe de projets ", Licence professionnelle mention " métiers de la forme "
+
+|
+
+|
+
+Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
+
+A l'exclusion de la surveillance des lieux de pratique. |
 
 ACTIVITÉS DE LA FORME
 
@@ -430,7 +434,7 @@ Diplôme délivré par le ministère chargé de la santé
 
 |
 
-Diplôme de masseur-kinésithérapeute, jusqu'au 1er janvier 2024 (**). |
+Diplôme de masseur-kinésithérapeute, jusqu'au 1er janvier 2025 (**). |
 
 7 |
 
@@ -622,11 +626,13 @@ Encadrement des activités physiques ou sportives à destination de différents 
 
 Diplôme délivré par le ministère chargé de la santé |
 
-Diplôme de masseur-kinésithérapeute, délivré jusqu'au 1er janvier 2024. |
+Diplôme de masseur-kinésithérapeute, jusqu'au 1er janvier 2025 (**).
+
+|
 
 7 |
 
-Encadrement de la pratique de la gymnastique hygiénique d'entretien ou préventive dans les établissements d'activités physiques et sportives. |
+Encadrement de la pratique de la gymnastique hygiénique d'entretien ou préventive, liée au développement et à l'entretien du bien-être et de la santé. |
 
 |
 
@@ -868,6 +874,20 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
+Certificat de qualification délivrés par la Commission paritaire nationale emploi formation du sport
+
+|
+
+CQP moniteur d'aviron, du 15 novembre 2023 au 15 novembre 2026 (**).
+
+|
+
+3 |
+
+Conduite de séance de découverte, d'initiation et d'apprentissage de l'aviron, sur les eaux intérieures ou maritimes en fonction de l'option du permis plaisance. |
+
+Dans la limite de vingt pratiquants. Cette limite est ramenée à dix pour la pratique en embarcations individuelles, sauf dans le cas où la zone d'évolution est un périmètre calme, abrité et délimité. |
+
 BADMINTON
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -1014,8 +1034,6 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 |
 
-Diplômes délivrés par le ministère chargé des sports |
-
 BOWLING |
 
 Toutes les qualifications mentionnées sous l'intitulé multi activités physiques ou sportives (*) dans la limite de leurs conditions d'exercice. |
@@ -1143,30 +1161,6 @@ Encadrement du kayak de mer et des disciplines associées et entraînement des p
 |
 
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur de canoë-kayak ", option " canoë-kayak en eau calme et en eau vive " délivré jusqu'au 18 décembre 2023. |
-
-|
-
-Encadrement du canoë-kayak en eau calme et en eau vive, sur tout support ou embarcation propulsée à la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du sport. |
-
-A l'exclusion du raft.
-
-Jusqu'en classe II incluse, avec des passages de classe III non successifs.
-
-|
-
-CQP " moniteur de canoë-kayak ", option " canoë-kayak en eau calme et en mer ", délivré jusqu'au 18 décembre 2023. |
-
-|
-
-Encadrement du canoë-kayak en eau calme et en mer, sur tout support ou embarcation propulsée à la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du sport. |
-
-Jusqu'à 1 mille d'un abri.
-
-Par vent de force 3 Beaufort maximum sur le site d'évolution.
-
-|
 
 CQP " accompagnateur de raft et nage en eau vive ", du 24 avril 2023 au 24 avril 2026 (**). |
 
@@ -1656,11 +1650,7 @@ Enseignement et entraînement de l'escalade pratiquée en environnement spécifi
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
-ESCRIME y compris toutes les qualifications mentionnées sous l'intitulé “ multi activités physiques ou sportives ” (*) dans la limite de leurs conditions d'exercice
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
-
-|
+ESCRIME y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice |
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
@@ -1722,8 +1712,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
-
 FOOTBALL
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -1759,6 +1747,16 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 |
 
 Titres à finalité professionnelle délivrés par la fédération française de football |
+
+Moniteur de football, du 15 novembre 2023 au 15 novembre 2026 (**).
+
+|
+
+4 |
+
+Conduite de cycles d'apprentissage et entraînement de la pratique du football. |
+
+|
 
 Entraîneur de football, du 19 juillet 2023 au 19 juillet 2026 (**). |
 
@@ -2152,48 +2150,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Titres à finalité professionnelle délivrés par la Fédération française de handball |
-
-Educateur de handball, mention " entraîneur territorial ", délivré jusqu'au 18 décembre 2023. |
-
-4 |
-
-Encadrement, conception et conduite de séances d'animation, de cycles d'initiation, d'apprentissage et d'entraînement de joueurs et d'équipes de handball. |
-
-|
-
-Educateur de handball, mention " animateur des pratiques socio-éducatives et sociétales ", délivré jusqu'au 18 décembre 2023. |
-
-4 |
-
-Encadrement, conception et conduite de séances d'animation, de cycles d'initiation, d'apprentissage, dans les différentes offres de pratique de handball |
-
-|
-
-Entraîneur de handball, délivré jusqu'au 18 décembre 2023. |
-
-5 |
-
-Encadrement, enseignement, entraînement en handball. |
-
-|
-
-Entraîneur de handball du secteur professionnel, mention " entraîneur professionnel ", délivré jusqu'au 18 décembre 2023. |
-
-6 |
-
-Encadrement, enseignement et entraînement en handball d'une équipe professionnelle ou auprès d'une sélection nationale. |
-
-|
-
-Entraîneur de handball du secteur professionnel, mention " entraîneur-formateur ", délivré jusqu'au 18 décembre 2023. |
-
-6 |
-
-Encadrement, enseignement et entraînement en handball dans une structure de formation d'un club pro ou fédérale. |
-
-|
-
 HANDISPORT |
 
 Diplômes délivrés par le ministère chargé des sports |
@@ -2484,7 +2440,7 @@ Encadrement du longe-côte. |
 
 |
 
-BP JEPS spécialité " éducateur sportif " mention " motonautisme et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS spécialité " éducateur sportif " mention " motonautisme et disciplines associées ", jusqu'au 15 juillet 2028 (**). |
 
 4 |
 
@@ -2556,7 +2512,7 @@ Encadrement du longe-côte. |
 
 |
 
-BP JEPS spécialité " éducateur sportif " mention " plongée subaquatique ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS spécialité " éducateur sportif " mention " plongée subaquatique ", jusqu'au 1er novembre 2028 (**). |
 
 4 |
 
@@ -2564,9 +2520,9 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS spécialité " perfectionnement sportif " mention " activités de plongée subaquatique " délivré jusqu'au 1er janvier 2024. |
+DE JEPS spécialité “ perfectionnement sportif ” mention “ activités de plongée subaquatique ”, délivré jusqu'au 1er novembre 2028 (**). |
 
-|
+4 |
 
 Encadrement du longe-côte. |
 
@@ -3104,10 +3060,6 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 |
 
-Diplômes délivrés par le ministère chargé des sports
-
-|
-
 Certificat de qualification professionnelle délivré par l'organisme certificateur de la branche du sport (OC sport)
 
 |
@@ -3520,6 +3472,16 @@ Conduite d'activités de découverte en téléski nautique sur différents suppo
 
 |
 
+CQP " animateur ski nautique, wakeboard et engins tractés ", du 15 novembre 2023 au 15 novembre 2027 (**).
+
+|
+
+3 |
+
+Conduite de séances de découverte, d'animation et d'initiation en ski nautique, wakeboard, engins tractés dans le mode de traction " bateau ". |
+
+|
+
 SPÉLÉOLOGIE-ENVIRONNEMENT SPÉCIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
@@ -3816,6 +3778,20 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
+Certificat de qualification délivrés par la Commission paritaire nationale emploi formation du sport
+
+|
+
+CQP moniteur de squash, du 15 novembre 2023 au 15 novembre 2026 (**).
+
+|
+
+3 |
+
+Conduite de séances de découverte, d'initiation et d'apprentissage des activités de squash. |
+
+|
+
 STAND UP PADDLE
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -4074,9 +4050,9 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
 
-CQP " éducateur de tennis ", délivré jusqu'au 7 août 2023. |
+CQP “ éducateur de tennis ”, du 15 novembre 2023 au 15 novembre 2026 (**). |
 
-|
+3 |
 
 Initiation au tennis en cours collectifs. |
 
@@ -4139,6 +4115,20 @@ DES JEPS, spécialité "performance sportive" mention "tennis de table", délivr
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+Certificat de qualification délivrés par la Commission paritaire nationale emploi formation du sport
+
+|
+
+CQP animateur de tennis de table, du 15 novembre 2023 au 15 novembre 2026 (**).
+
+|
+
+3 |
+
+Conduite de séances collectives de découverte, d'initiation et d'apprentissage au tennis de table. |
 
 |
 
