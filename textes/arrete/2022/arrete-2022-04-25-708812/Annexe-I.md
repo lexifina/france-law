@@ -370,7 +370,7 @@ F. - Emplois relevant du groupe 4 :
 
 12° Directeur de l'établissement du service d'infrastructure de la défense de Bordeaux ;
 
-13° Directeur adjoint chargé des opérations d'infrastructure du service d'infrastructure de la défense ;
+13° Chargé de mission auprès du délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense ;
 
 14° Directeur adjoint chargé de la transformation et de la maîtrise des risques du service d'infrastructure de la défense ;
 
@@ -780,7 +780,7 @@ G. - Emplois relevant du groupe 5 :
 
 90° Directeur de projet " soutien opérationnel 4.0 " auprès du chef d'état-major de l'armée de l'air et de l'espace ;
 
-91° (Supprimé) ;
+91° Commandant de la brigade aérienne technique et logistique du commandement territorial de l'armée de l'air et de l'espace ;
 
 92° Chef du groupement de soutien de la base de défense de Brest-Lorient ;
 
@@ -846,4 +846,4 @@ G. - Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 16 janvier 2024 (NOR : ARMH2401313A), ces dispositions s’appliquent aux rémunérations versées à compter du mois de janvier 2024.
+Conformément à l’article 3 de l’arrêté du 14 février 2024 modifiant diverses dispositions relatives à des emplois d'officiers généraux (NOR : ARMH2404555A), ces dispositions s’appliquent aux rémunérations versées à compter du mois de février 2024.
