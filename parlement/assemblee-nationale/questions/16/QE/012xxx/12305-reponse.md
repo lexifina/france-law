@@ -1,0 +1,9 @@
+# Réponse à la question n° 12305
+
+- Question : [12305](12305.md) — Question n° 12305 — Difficultés des entreprises à s'équiper de panneaux photovoltaïques sur toiture
+
+## Réponse
+
+*JO du 2024-02-20, page 1215*
+
+Le Gouvernement est pleinement conscient des problématiques liées à l'assurabilité des panneaux photovoltaïques qui pourraient freiner le développement de cette filière, pourtant indispensable à la bonne réalisation de nos engagements climatiques. En mai 2023, le Gouvernement a annoncé le lancement d'une mission sur l'assurabilité des risques climatiques, chargée de faire des propositions pour garantir la soutenabilité du régime d'indemnisation des catastrophes naturelles et renforcer le rôle du système assurantiel dans la prévention, l'atténuation et l'adaptation face au dérèglement climatique. Cette mission intègrera également un volet sur l'assurabilité des panneaux photovoltaïques en toiture et rendra son rapport d'ici la fin de l'année 2023. Les équipes du ministère de l'économie, des finances et de la souveraineté industrielle et numérique mènent actuellement des séries d'entretiens avec les acteurs de la filière afin de dresser un bilan exhaustif des obstacles à l'assurance du secteur photovoltaïque. Il est cependant à noter qu'à ce stade, le problème d'assurabilité est le plus souvent la conséquence des difficultés rencontrées par la filière photovoltaïque en matière de normalisation des produits selon qu'ils sont sous avis technique ou seulement sous enquête technique nouvelle, plus facile à obtenir qu'un avis technique mais moins reconnu. En effet, et d'autant plus dans le cadre de panneaux photovoltaïques posés sur des bâtiments du secteur bois, il est indispensable de s'assurer que cette pose n'augmente pas le risque incendie du bâtiment. Sur la base du diagnostic évoqué, le Gouvernement proposera des mesures, en lien avec les assureurs, afin d'accroitre l'assurabilité du secteur photovoltaïque.
