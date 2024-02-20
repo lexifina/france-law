@@ -1,0 +1,9 @@
+# Réponse à la question n° 12474
+
+- Question : [12474](12474.md) — Question n° 12474 — Situation du réseau diplomatique et de la communauté française au Sahel
+
+## Réponse
+
+*JO du 2024-02-20, page 1241*
+
+En raison de la dégradation de la situation sécuritaire, et de l'attaque contre notre ambassade et notre Institut Français à Ouagadougou, nous avons été contraints de classer cet été l'ensemble du Mali et du Burkina Faso en « zone rouge ». Nous avons également décidé de rapatrier les familles de nos agents et de réduire le format de nos ambassades, entrainant notamment la réduction drastique de nos capacités de traitement de visas dans ces deux pays. Les conditions actuelles de sécurité et les conditions de traitement des demandes de visas ne sont toujours pas réunies pour envisager la reprise du dépôt de ces demandes et de leur traitement par nos deux consulats généraux au Mali et au Burkina Faso. Nous avons néanmoins conservé une capacité ponctuelle de traitement des visas pour les cas les plus urgents, notamment pour les conjoints et familles de ressortissants français. Nous nous efforçons également de répondre positivement aux demandes d'artistes, de chercheurs ou de sportifs devant se rendre en France dans le cadre de nos coopérations. Nous nous efforçons, dans notre dialogue avec les autorités du Mali et du Burkina Faso, d'assurer la rotation du personnel consulaire et diplomatique, dans un esprit de réciprocité. Nous avons également décidé de suspendre notre aide au développement au Burkina Faso. Néanmoins, pour ne pas pénaliser les populations les plus vulnérables, nous avons maintenu nos financements humanitaires. Au Mali, tous nos financements, notamment ceux qui transitent par des ONG, avaient été interdits par l'Etat malien en 2022. Dans ces deux pays, nous essayons de maintenir autant que possible nos coopérations culturelles et universitaires.
