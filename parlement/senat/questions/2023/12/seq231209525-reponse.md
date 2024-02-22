@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231209525
+
+- Question : [SEQ231209525](seq231209525.md) — Rehaussement du seuil pour la délégation autorisant le maire à accepter les admissions en non-valeur
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2024-02-22, page 696*
+
+Le sénateur appelle l'attention du Gouvernement sur l'impact de la nouvelle délégation permise aux exécutifs locaux pour l'admission des titres de recettes en non-valeur. Afin de fluidifier la procédure d'admission en non-valeur des créances irrécouvrables de faible montant, l'article 173 de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale ouvre la possibilité aux assemblées délibérantes des communes, départements et régions de déléguer cette décision à leur exécutif. La détermination du seuil plafond de délégation des décisions d'admissions en non-valeur a pour objectif de garantir la sincérité comptable en admettant plus rapidement en non-valeur l'ensemble des créances irrécouvrables tout en garantissant aux assemblées délibérantes la maîtrise des impacts budgétaires. Ce seuil, fixé par le Gouvernement, a été défini conjointement avec les associations d'élus afin de garantir un équilibre satisfaisant pour l'ensemble des acteurs de la chaîne de la recette. Il a été fixé à 100 € pour les communes et les départements et, pour les régions, à leur demande, à 200 €. La publication du décret d'application n° 2023-523 du 23 juin 2023 est très récente et la mise en place du dispositif est encore en cours en lien avec les services de gestion comptable. Un bilan de la mesure sera effectué en temps utile et permettra d'adapter le seuil plafond de délégation des décisions d'admission en non-valeur si les effets escomptés ne sont pas obtenus.
