@@ -1,276 +1,144 @@
 # Article Annexe B
 
-EXCEPTIONS À L'OBLIGATION DE VISA VISÉES À L'ARTICLE 3 POUR LES RESSORTISSANTS DES PAYS OU ENTITÉS INSCRITS À L'ANNEXE I AU RÈGLEMENT (CE) N° 539/2001
+EXCEPTIONS À L'OBLIGATION DE VISA VISÉES À L'ARTICLE 3 POUR LES RESSORTISSANTS DES PAYS OU ENTITÉS INSCRITS À L'ANNEXE I AU RÈGLEMENT (UE) N° 2018/1806
 
-1. Liste des pays ou des entités territoriales dont les titulaires de passeport diplomatique, d'un passeport de service ou autre passeport officiel sont dispensés de visa pour entrer sur le territoire européen de la France afin d'y effectuer un séjour dont la durée n'excède pas trois mois au titre de l'exception prévue au a du premier paragraphe de l'article 4 du règlement (CE) n° 539/2001 :
+1. Liste des pays ou des entités territoriales dont les titulaires de passeport diplomatique, d'un passeport de service ou autre passeport officiel sont dispensés de visa pour entrer sur le territoire européen de la France afin d'y effectuer un séjour dont la durée n'excède pas trois mois au titre de l'exception prévue au a du premier paragraphe de l'article 4 du règlement (UE) n° 2018/1806 :
 
-PAYS OU ENTITÉ
+PAYS OU ENTITÉ |
 
-|
+ÉTENDUE DE LA DISPENSE DE VISA |
 
-ÉTENDUE DE LA DISPENSE DE VISA
+Afrique du sud |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service/ officiel. |
 
-Afrique du Sud
+Algérie |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service/ officiel. |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou officiel.
+Angola |
 
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service/ officiel. |
 
-Algérie
+Arabie saoudite |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
+Arménie |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique |
 
-Angola
+Azerbaïdjan |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
+Bélize |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique |
 
-Arabie saoudite
+Bahreïn |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial. |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial.
+Bénin |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique sécurisé |
 
-Arménie
+Biélorussie |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
+Bolivie |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique, de service/ officiel, ou spécial. |
 
-Azerbaïdjan
+Cap Vert |
 
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service/ officiel |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
+Chine |
 
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
-Bahreïn
+Congo (Brazzaville) |
 
-|
+Dispense de visa s'appliquant jusqu'au 30 septembre 2024 seulement aux titulaires d'un passeport diplomatique sécurisé. |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial.
+République
 
-|
+dominicaine |
 
-Bénin
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service/ officiel. |
 
-|
+Equateur |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique sécurisé.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service/ officiel. |
 
-|
+Gabon |
 
-Bolivie
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service/ officiel |
 
-|
+Inde |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique, officiel ou de service.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique |
 
-|
+Indonésie |
 
-Cap-Vert
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service/ officiel. |
 
-|
+Jordanie |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique |
 
-|
+Kazakhstan |
 
-Chine
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
-|
+Kirghizistan |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique |
 
-|
+Koweït |
 
-Congo (République du) (Brazzaville)
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial. |
 
-|
+Maroc |
 
-Dispense de visa s'appliquant jusqu'au 30 octobre 2016 seulement aux titulaires d'un passeport diplomatique sécurisé.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service/ officiel. |
 
-|
+Mongolie |
 
-Dominicaine (République)
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique |
 
-|
+Namibie |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
-|
+Oman |
 
-Equateur
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique, spécial ou de service/ officiel. |
 
-|
+Qatar |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial. |
 
-|
+Sénégal |
 
-Gabon
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
-|
+Thaïlande |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique |
 
-|
+Tunisie |
 
-Géorgie
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial. |
 
-|
+Turquie |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique, de service/ officiel ou spécial. |
 
-|
-
-Inde
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
-
-Indonésie
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
-
-|
-
-Jordanie
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
-
-Kazakhstan
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
-
-Koweït
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial.
-
-|
-
-Maroc
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
-
-|
-
-Mongolie
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
-
-Namibie
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
-
-Oman
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique, spécial ou de service.
-
-|
-
-Qatar
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial.
-
-|
-
-Russie
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
-
-Sénégal
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
-
-Thaïlande
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
-
-Tunisie
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial.
-
-|
-
-Turquie
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique, de service ou spécial.
-
-|
-
-Ukraine
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service biométrique.
-
-|
-
-Vietnam
-
-|
+Vietnam |
 
 Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
@@ -280,29 +148,17 @@ PAYS OU ENTITÉ
 
 ayant délivré
 
-le document de voyage
+le document de voyage |
 
-|
+ÉTENDUE DE LA DISPENSE DE VISA |
 
-ÉTENDUE DE LA DISPENSE DE VISA
+Etat partie à la convention de Chicago relative à l'aviation civile internationale. |
 
-|
+Dispense s'étendant aux seuls membres de l'équipage civil des avions (le personnel navigant technique et le personnel navigant commercial des compagnies aériennes) titulaires d'une licence de personnel navigant ou d'un certificat de membre d'équipage en cours de validité pour circuler dans l'aéroport et dans les localités avoisinantes pendant la durée des escales dans le cadre d'un déplacement de service. |
 
-Etat partie à la convention de Chicago relative à l'aviation civile internationale.
+Etat partie aux conventions de l'Organisation internationale du travail n° 108 de 1958 et n° 185 de 2003 et de la convention visant à faciliter le trafic maritime international signée à Londres le 9 avril 1965. |
 
-|
-
-Dispense s'étendant aux seuls membres de l'équipage civil des avions (le personnel navigant technique et le personnel navigant commercial des compagnies aériennes) titulaires d'une licence de personnel navigant ou d'un certificat de membre d'équipage en cours de validité pour circuler dans l'aéroport et dans les localités avoisinantes pendant la durée des escales dans le cadre d'un déplacement de service.
-
-|
-
-Etat partie aux conventions de l'Organisation internationale du travail n° 108 de 1958 et n° 185 de 2003 et de la convention visant à faciliter le trafic maritime international signée à Londres le 9 avril 1965.
-
-|
-
-Dispense s'étendant aux seuls membres de l'équipage civil des navires titulaires d'une pièce d'identité des gens de mer, délivrée conformément aux conventions de l'Organisation internationale du travail n° 108 de 1958 et n° 185 de 2003 et de la convention visant à faciliter le trafic maritime international signée à Londres le 9 avril 1965, en cas de permission à terre lors d'une escale dans le cadre d'un déplacement de service pour circuler dans la zone portuaire, sur le territoire de la commune du port de relâche et sur celui des communes avoisinantes tel que défini par le préfet.
-
-|
+Dispense s'étendant aux seuls membres de l'équipage civil des navires titulaires d'une pièce d'identité des gens de mer, délivrée conformément aux conventions de l'Organisation internationale du travail n° 108 de 1958 et n° 185 de 2003 et de la convention visant à faciliter le trafic maritime international signée à Londres le 9 avril 1965, en cas de permission à terre lors d'une escale dans le cadre d'un déplacement de service pour circuler dans la zone portuaire, sur le territoire de la commune du port de relâche et sur celui des communes avoisinantes tel que défini par le préfet. |
 
 3. Les étrangers membres d'équipage et accompagnateurs d'un vol d'assistance ou de sauvetage et autres personnes assurant les secours en cas de catastrophes et d'accidents mentionnés sur une liste établie par l'autorité diplomatique ou consulaire compétente dans le lieu d'origine du vol ou par l'autorité préfectorale compétente pour le lieu du séjour en France, sont dispensés de visa pour entrer sur le territoire européen de la France afin d'y effectuer un séjour dont la durée n'excède par trois mois au titre de l'exception prévue au c du premier paragraphe de l'article 4 du règlement (CE) n° 539/2001.
 
