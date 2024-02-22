@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230908493
+
+- Question : [SEQ230908493](seq230908493.md) — Contenu du stage de sécurité routière
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2024-02-22, page 699*
+
+Les centres de sensibilisation à la sécurité routière constituent un élément clé de la politique de lutte contre l'insécurité routière, et sont à ce titre encadrés par une réglementation prévoyant notamment un agrément des établissements et des animateurs. Les animateurs (psychologues et experts de la sécurité routière) qui sont autorisés à animer les stages reçoivent une formation de cinq semaines à l'Institut national sécurité routière et recherches (INSERR) afin d'acquérir les compétences nécessaires pour impulser la prise de conscience des comportements dangereux tels que la vitesse et l'alcool, qui demeurent les deux premières causes de mortalité sur les routes. Le programme de formation des stages de sensibilisation prévoit des séquences permettant une meilleure auto-évaluation de ces comportements à risque. La co-animation du stage avec la présence d'un psychologue et d'un expert en sécurité routière permet aux stagiaires une prise en conscience par la transmission de données objectives et par la mise en oeuvre d'une méthode de pédagogie active. En 2022, les conducteurs qui ont suivi volontairement un stage ne représentent que 0,6 % des automobilistes. Dans ce pourcentage, seuls 30 % d'entre eux sont réitérant. De plus, on constate en 2022, après une hausse continue entre 2017 et 2021, un nombre de stagiaires inférieur à celui de 2017. Le constat est identique pour le nombre de stages réalisés par les centres, alors que le nombre de conducteurs sur les routes est croissant. Cela indique une prise de conscience des conducteurs. En conséquence, le programme de sensibilisation des stages est conforme aux objectifs à atteindre.
