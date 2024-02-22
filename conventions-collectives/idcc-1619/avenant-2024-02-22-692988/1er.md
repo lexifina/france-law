@@ -1,0 +1,17 @@
+# Article 1er
+
+L'article 3.15 du titre III de la convention collective nationale des cabinets dentaires est annulé et remplacé comme suit :
+
+« Article 3.15
+
+Le salarié bénéficie d'une prime d'ancienneté dans l'entreprise, calculée en pourcentage du salaire minimal conventionnel de la catégorie dans laquelle il est classé. Pour les salariés à temps partiel, cette prime est calculée au pro rata temporis.
+
+Cette prime mensuelle s'ajoute au salaire réel et doit figurer sur une ligne à part du bulletin de salaire.
+
+Le taux de la prime s'élève à :
+
+– 2 % à partir de 2 ans d'ancienneté révolue dans l'entreprise ;
+
+– 1 % en plus par année supplémentaire jusqu'à 20 ans d'ancienneté.
+
+Cette prime d'ancienneté est plafonnée à 20 %. »
