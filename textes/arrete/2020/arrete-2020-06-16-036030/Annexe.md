@@ -711,3 +711,25 @@ Roissy recette interrégionale
 Marseille recette interrégionale |
 
 Du 1er juillet 2023 au 30 juin 2026 |
+
+Opération :
+
+Création d'un centre de gestion financière.
+
+Services concernés :
+
+Service facturier douane (SFACT).
+
+Centre de services partagés (CSP) de Lyon. |
+
+Du 1er décembre 2023 au 30 novembre 2024 |
+
+Opération :
+
+Reconfiguration des divisions de la direction régionale de Mulhouse.
+
+Service concerné :
+
+Colmar division. |
+
+Du 1er janvier 2024 au 31 mars 2025 |
