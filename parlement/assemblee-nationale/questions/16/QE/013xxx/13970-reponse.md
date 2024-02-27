@@ -1,0 +1,9 @@
+# Réponse à la question n° 13970
+
+- Question : [13970](13970.md) — Question n° 13970 — Prolifération des logiciels de caisse permissifs auto-attestés
+
+## Réponse
+
+*JO du 2024-02-27, page 1438*
+
+L'article 88 de la loi n° 2015-1785 du 29 décembre 2015 de finance pour 2016, portant l'obligation d'utiliser un logiciel ou un système de caisse sécurisé à compter du 1er janvier 2018, prévoit depuis sa création la possibilité de recourir soit à l'auto-attestation par l'éditeur de la solution soit à la certification par un organisme tiers. En premier lieu, aucun élément actuellement connu de l'administration ne permet de confirmer que les logiciels faisant l'objet d'une auto-attestation de l'éditeur seraient plus permissifs et à l'origine d'un plus grand nombre de fraudes que les logiciels faisant l'objet d'une certification par un organisme agréé. Par ailleurs, la déclaration de conformité aux critères fixés par la loi, que l'éditeur optant pour l'auto-attestation communique à son client, engage sa responsabilité. L'établissement d'un faux document est un délit pénal passible de trois ans d'emprisonnement et de 45 000 € d'amende. De plus, l'article 1770 undecies du code général des impôts prévoit une amende fiscale égale à 15 % du chiffre d'affaires provenant de la commercialisation de dispositifs frauduleux et la solidarité de paiement des droits mis à la charge de l'utilisateur. L'application de ces sanctions, depuis l'entrée en vigueur du dispositif, a généré à ce stade près de 1,6 million d'euros d'amende répartis sur une quarantaine de dossiers. Enfin, la certification par un tiers ne constitue pas non plus à elle seule une garantie contre la permissivité des logiciels et le surcoût lié à la généralisation de la certification par un organisme agréé impacterait tant le prix des logiciels acquis par les commerçants que le prix de vente au consommateur final.
