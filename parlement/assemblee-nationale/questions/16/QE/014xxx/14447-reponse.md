@@ -1,0 +1,9 @@
+# Réponse à la question n° 14447
+
+- Question : [14447](14447.md) — Question n° 14447 — Conditions de remariage à l'étranger en l'absence d'une décision d'opposabilité
+
+## Réponse
+
+*JO du 2024-02-27, page 1458*
+
+En matière d'état des personnes, les décisions étrangères sont reconnues de plein droit en France, sous réserve de remplir certaines conditions exigées pour leur régularité internationale (arrêt Cornelissen, Cass. 1ère civ., 20 février 2007, n° 05-14.082). A ce titre, la décision étrangère de divorce doit notamment avoir acquis la force de chose jugée dans l'Etat qui l'a rendue et ne pas comporter de violation manifeste de l'ordre public international français. L'instruction générale relative à l'état civil (IGREC § 583) précise ainsi que l'officier de l'état civil peut remarier un ressortissant français ou étranger, divorcé à l'étranger, dès lors que les pièces suivantes peuvent être produites : soit un acte de naissance ou de mariage portant mention du divorce ; soit une copie du jugement accompagnée des justificatifs de son caractère définitif (certificat de non-recours, acte d'acquiescement, certificat établi par l'avocat ou par toute autorité habilitée) ; soit pour le futur époux étranger, un certificat de capacité à mariage. La seule remise par le futur époux d'une attestation sur l'honneur ou d'un certificat de célibat est insuffisante. L'officier de l'état civil qui procède à la célébration du mariage doit par ailleurs avertir les futurs époux qu'en l'absence de vérification d'opposabilité de la décision étrangère ou d'exequatur, celle-ci demeure contestable en France et la nouvelle union reste donc exposée à un risque d'annulation. En cas de doute sur la situation matrimoniale d'un des futurs époux, l'officier de l'état civil doit en toute hypothèse saisir le procureur de la République compétent, lequel procédera notamment à la vérification d'opposabilité de la décision étrangère de divorce.
