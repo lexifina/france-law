@@ -1,0 +1,9 @@
+# Réponse à la question n° 9901
+
+- Question : [9901](9901.md) — Question n° 9901 — Problématique de la taxe d'habitation pour les maisons d'assistantes maternelles
+
+## Réponse
+
+*JO du 2024-02-27, page 1424*
+
+L'article 5 de la loi de finances pour 2018, puis l'article 16 de la loi de finances pour 2020 ont prévu la suppression par étapes, de 2018 à 2023, de la taxe d'habitation afférente à l'habitation principale. Grâce à cette réforme, depuis le 1er janvier 2023, plus aucun ménage n'est imposé à la taxe d'habitation au titre de sa résidence principale. Parallèlement, la taxe d'habitation afférente à tous les locaux autres que ceux affectés à l'habitation principale, notamment les locaux meublés conformément à leur destination et occupés à titre privatif par les sociétés, associations et organismes privés et qui ne sont pas retenus pour l'établissement de la cotisation foncière des entreprises (CFE), est maintenue (code général des impôts (CGI), article 1407, I, 2°). Ainsi, en tant que lieux de travail occupés aux fins d'accueillir des enfants en bas âge, les maisons d'assistants maternels (MAM), lorsqu'elles sont constituées en personnes morales de droit privé, se rattachent à cette catégorie de locaux meublés. À ce titre, elles demeurent passibles de la taxe d'habitation si elles ne sont pas soumises à la CFE. Sans méconnaître l'intérêt qui s'attache à l'action de ces maisons, l'institution d'une exonération totale ou partielle de cette taxe en leur faveur excèderait l'objectif de la réforme, qui consiste à alléger la pression fiscale sur l'ensemble des ménages. Il en résulterait de surcroît des demandes supplémentaires émanant d'autres redevables tout aussi dignes d'intérêt, ce qui se traduirait, sauf à transférer cette charge sur les autres contribuables, par une perte de ressources non négligeable pour les communes et leurs groupements, alors même qu'ils leur fournissent le plus souvent un soutien important.
