@@ -1,0 +1,9 @@
+# Réponse à la question n° 14457
+
+- Question : [14457](14457.md) — Question n° 14457 — Indemnité de résidence des agents publics de l'aire urbaine de Toulouse
+
+## Réponse
+
+*JO du 2024-02-27, page 1439*
+
+Pris pour l'application des articles L. 712-1 et L. 712-7 du code général de la fonction publique, l'article 9 du décret n° 85-1148 du 24 octobre 1985 modifié fixe les modalités d'attribution de l'indemnité de résidence (IR), commune aux trois fonctions publiques. Le montant de l'IR est calculé en appliquant au traitement brut de l'agent un pourcentage variable selon la zone territoriale dans laquelle est classée la commune où il exerce ses fonctions. Les communes sont classées en trois zones : la première zone correspond au pourcentage de 3 %, la deuxième zone à celui de 1 % et la troisième zone à celui de 0 %. Le dernier classement des communes au sein de ces trois zones territoriales est prévu par la circulaire FP/7 n° 2000- Budget 2B n° 01-350 du 14 mai 2001 relative à la modification des zones d'IR. Depuis 2001, l'administration n'a toutefois plus la possibilité d'actualiser le classement des communes dans les trois zones d'IR en raison de difficultés tenant aux informations socio-démographiques et géographiques disponibles pour appréhender avec suffisamment de justesse la situation de certaines zones urbaines. Une réforme du dispositif de l'IR apparaît néanmoins souhaitable car le dispositif actuel s'appuie sur un zonage ancien et ne correspond plus à la situation économique actuelle. Le projet de refonte des rémunérations et des parcours professionnels engagé par le ministre de la transformation et de la fonction publiques, dont les travaux permettront d'envisager des évolutions qui s'appliqueront aux trois fonctions publiques, permettra une réflexion sur les modalités d'attribution et de calcul de l'IR correspondant mieux aux situations constatées selon les territoires.
