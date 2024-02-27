@@ -1,0 +1,9 @@
+# Réponse à la question n° 13463
+
+- Question : [13463](13463.md) — Question n° 13463 — Taxe sur les véhicules dits « picks-up »
+
+## Réponse
+
+*JO du 2024-02-27, page 1431*
+
+Initialement conçus pour le transport de marchandises, les véhicules pick-up sont de plus en plus pensés comme des véhicules particuliers répondant à un usage de transport familial. Ces modèles doivent donc être soumis au malus CO2 et au malus masse au même titre que les autres véhicules de tourisme, d'autant plus qu'ils sont particulièrement lourds et émettent des quantités importantes de CO2 (en moyenne 249 grammes de CO2 émis par kilomètre). Pour cette raison, les véhicules pick-up comportant au moins cinq places assises sont, depuis le 1er janvier 2019, considérés comme des véhicules de tourisme et soumis aux taxes afférentes. De nombreuses pratiques de contournement de ces taxes ont néanmoins été constatées conduisant à soumettre aux malus seulement 2 % des véhicules pick-up. Pour y remédier, la loi de finances pour 2024 renvoi à un décret le soin de redéfinir la notion de véhicules de tourisme, afin d'y inclure les véhicules qui échappent indûment à la taxation. Ce décret pourra notamment élargir la notion de véhicule de tourisme aux pick-up de quatre places assises. Les véhicules pick-up de moins de quatre places et les autres véhicules utilitaires, qui sont largement utilisés par les professionnels, demeureront en revanche hors du champ de cette fiscalité. Le champ exact sera défini après une concertation auprès des organisations professionnelles. Par ailleurs, le Gouvernement est conscient des spécificités de certains territoires et des enjeux économiques que représente l'exploitation des remontées mécaniques et des domaines skiables. Le décret ne reviendra donc pas sur l'exemption dont bénéficient les véhicules pick-up qui sont affectés exclusivement à cette activité et dont la loi prévoit qu'elle est maintenue inchangée.
