@@ -1,18 +1,20 @@
 # Article ANNEXE I
 
-LISTE DES SPÉCIALITÉS DE DIPLÔMES PROFESSIONNELS DÉLIVRÉS PAR LES MINISTRES CHARGÉS DE L'ÉDUCATION ET DE BREVET DE TECHNICIENS SUPÉRIEURS PERMETTANT LA DÉLIVRANCE DE L'AUTORISATION D'INTERVENTION À PROXIMITÉ DES RÉSEAUX (L'AIPR)
+LISTE DES SPÉCIALITÉS DE DIPLÔMES PROFESSIONNELS DÉLIVRÉS PAR LES MINISTRES CHARGÉS DE L'ÉDUCATION ET DE BREVETS DE TECHNICIENS SUPÉRIEURS PERMETTANT LA DÉLIVRANCE DE L'AUTORISATION D'INTERVENTION À PROXIMITÉ DES RÉSEAUX (L'AIPR)
 
-Catégorie AIPR |
+Catégories AIPR |
 
-Type de travaux |
+Types de travaux |
 
-Diplômes |
+Diplômes
+
+professionnels |
 
 Spécialités des diplômes professionnels |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 CAP |
 
@@ -20,47 +22,47 @@ Conducteur d'engins : travaux publics et carrières |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 CAP |
 
-Constructeur en canalisations des travaux publics |
+Constructeur de réseaux de canalisations de travaux publics |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 CAP |
 
-Constructeur en ouvrages d'art |
+Constructeur de routes et d'aménagements urbains |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 CAP |
 
-Constructeur de routes |
+Constructeur d'ouvrages en béton armé |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 CAP |
 
-Constructeur en béton armé du bâtiment |
+Electricien |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 CAP |
 
-Electricien (première session 2020) |
+Etancheur du bâtiment et des travaux publics |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 CAP |
 
@@ -68,11 +70,43 @@ Maçon |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 CAP |
 
-Préparation et réalisation d'ouvrages électriques (dernière session 2019) |
+Métallier |
+
+O |
+
+Aérien |
+
+CAP |
+
+Carreleur mosaïste |
+
+O |
+
+Aérien |
+
+CAP |
+
+Charpentier bois |
+
+O |
+
+Aérien |
+
+CAP |
+
+Couvreur |
+
+O |
+
+Aérien |
+
+CAP |
+
+Ferronnier d'art |
 
 O |
 
@@ -96,7 +130,7 @@ Aérien |
 
 CAP |
 
-Serrurrier métallier |
+Peintre applicateur de revêtements |
 
 O |
 
@@ -104,195 +138,67 @@ Aérien |
 
 CAP |
 
-Ferronier (dernière session 2016, session de rattrapage 2017)* |
+Tailleur de pierre |
 
 O |
 
 Aérien |
 
-CAP |
+MC3 |
 
-Ferronier d'art |
-
-O |
-
-Aérien |
-
-CAP |
-
-Carreleur mosaïste |
+Zingueur (première session 2024) |
 
 O |
 
-Aérien |
+Aér./ Souter. |
 
-CAP |
+Bac pro |
 
-Peintre applicateur de revêtement |
-
-O |
-
-Aérien |
-
-CAP |
-
-Charpentier bois |
+Cybersécurité, informatique et réseaux, électronique (première session 2026) |
 
 O |
 
-Aérien |
+Aér./ Souter. |
 
-CAP |
+Bac pro |
 
-Constructeur bois |
-
-O |
-
-Aérien |
-
-CAP |
-
-Etancheur du bâtiment et des travaux publics |
+Interventions sur le patrimoine bâti option A : maçonnerie |
 
 O |
 
-Aérien |
+Aér./ Souter. |
 
-CAP |
-
-Couvreur |
-
-O |
-
-Aérien |
-
-MC5 |
-
-Zinguerie |
-
-O |
-
-Aér./Souter. |
-
-BEP |
-
-Travaux publics |
-
-O |
-
-Aér./Souter. |
-
-BEP |
-
-Métiers du gaz |
-
-O |
-
-Aér./Souter. |
-
-BEP |
-
-Réalisation du gros œuvre |
-
-O |
-
-Aérien |
-
-BEP |
-
-Bois, option C - Construction bois |
-
-O |
-
-Aérien |
-
-BEP |
-
-Menuisier aluminium-verre |
-
-O |
-
-Aérien |
-
-BEP |
-
-Réalisation d'ouvrages de métallerie du bâtiment |
-
-O |
-
-Aér./Souter. |
-
-BEP |
-
-Systèmes électroniques numériques (dernière session 2017)* |
-
-O |
-
-Aér./Souter. |
-
-BEP |
-
-Systèmes numériques |
-
-O |
-
-Aér./Souter. |
-
-BEP |
-
-Electrotechnique, énergie équipements communicants (dernière session 2017)* |
-
-O |
-
-Aér./Souter. |
-
-BEP |
+Bac pro |
 
 Métiers de l'électricité et de ses environnements connectés |
 
 O |
 
-Aérien |
-
-BEP |
-
-Aménagement finition |
-
-O |
-
-Aér./Souter. |
+Aér./ Souter. |
 
 Bac pro |
 
-Technicien géomètre topographe |
+Systèmes numériques option C : réseaux informatiques et systèmes communicants (dernière session 2025) |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 Bac pro |
 
-Technicien d'études du bâtiment, options A et B |
+Technicien d'études du bâtiment option A : études et économie |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 Bac pro |
 
-Travaux publics |
+Technicien d'études du bâtiment option B : assistant en architecture |
 
 O |
 
-Aér./Souter. |
-
-Bac Pro |
-
-Technicien gaz (première session 2020) |
-
-O |
-
-Aér./Souter. |
+Aér./ Souter. |
 
 Bac pro |
 
@@ -300,11 +206,27 @@ Technicien du bâtiment : organisation et réalisation du gros œuvre |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 Bac pro |
 
-Intervention sur le patrimoine bâti, option A : maçonnerie |
+Technicien gaz |
+
+O |
+
+Aér./ Souter. |
+
+Bac pro |
+
+Technicien géomètre topographe |
+
+O |
+
+Aér./ Souter. |
+
+Bac pro |
+
+Travaux publics |
 
 O |
 
@@ -312,7 +234,7 @@ Aérien |
 
 Bac pro |
 
-Intervention sur le patrimoine bâti, option B : charpente |
+Aménagement et finition du bâtiment |
 
 O |
 
@@ -320,7 +242,7 @@ Aérien |
 
 Bac pro |
 
-Intervention sur le patrimoine bâti, option C : couverture |
+Interventions sur le patrimoine bâti option B : charpente |
 
 O |
 
@@ -328,7 +250,15 @@ Aérien |
 
 Bac pro |
 
-Artisanat et métiers d'art option arts de la pierre (dernière session 2017)* |
+Interventions sur le patrimoine bâti option C : couverture |
+
+O |
+
+Aérien |
+
+Bac pro |
+
+Menuiserie aluminium-verre |
 
 O |
 
@@ -344,75 +274,19 @@ Aérien |
 
 Bac pro |
 
+Ouvrage du bâtiment : métallerie |
+
+O |
+
+Aérien |
+
+Bac pro |
+
 Technicien constructeur bois |
 
 O |
 
-Aérien |
-
-Bac pro |
-
-Menuisier aluminium-verre |
-
-O |
-
-Aérien |
-
-Bac pro |
-
-Ouvrages du bâtiment : métallerie |
-
-O |
-
-Aérien |
-
-Bac pro |
-
-Aménagement et finition du bâtiment |
-
-O |
-
-Aér./Souter. |
-
-Bac pro |
-
-Electrotechnique énergie équipements communicants (dernière session 2018)* |
-
-O |
-
-Aér./Souter. |
-
-Bac pro |
-
-Systèmes électroniques numériques (dernière session 2018)* |
-
-O |
-
-Aér./Souter. |
-
-Bac pro |
-
-Systèmes numériques, option C : Réseaux informatiques et systèmes communicants |
-
-O |
-
-Aér./Souter. |
-
-Bac pro |
-
-Métiers de l'électricité et de ses environnements connectés |
-
-O |
-
-Aér./Souter. |
-
-BP |
-
-Conducteur d'engins de chantier de travaux publics (dernière session 2016)* |
-
-O |
-
-Aér./Souter. |
+Aér./ Souter. |
 
 BP |
 
@@ -420,11 +294,27 @@ Conducteur d'engins : travaux publics et carrières |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 BP |
 
-Maçon (dernière session 2019, première session 2020) |
+Electricien (ne) |
+
+O |
+
+Aér./ Souter. |
+
+BP |
+
+Maçon |
+
+O |
+
+Aér./ Souter. |
+
+BP |
+
+Métiers de la piscine |
 
 O |
 
@@ -432,39 +322,7 @@ Aérien |
 
 BP |
 
-Métiers de la pierre |
-
-O |
-
-Aér./Souter. |
-
-BP |
-
-Gaz option A : transport (dernière session 2019) |
-
-O |
-
-Aér./Souter. |
-
-BP |
-
-Gaz option B : distribution (dernière session 2019) |
-
-O |
-
-Aérien |
-
-BP |
-
-Etanchéité du bâtiment et des travaux publics (dernière session 2019, première session 2020) |
-
-O |
-
-Aérien |
-
-BP |
-
-Charpentier (dernière session 2015)* |
+Carreleur mosaïste |
 
 O |
 
@@ -488,9 +346,7 @@ Aérien |
 
 BP |
 
-Construction d'ouvrages du bâtiment en aluminium, verre et matériaux de synthèse
-
-(dernière session 2015)* |
+Etanchéité du bâtiment et des travaux publics |
 
 O |
 
@@ -514,31 +370,7 @@ Aérien |
 
 BP |
 
-Serrurerie-métallerie (dernière session 2015)* |
-
-O |
-
-Aér./Souter. |
-
-BP |
-
-Métiers de la piscine |
-
-O |
-
-Aér./Souter. |
-
-BP |
-
-Electricien |
-
-O |
-
-Aér./Souter. |
-
-BP |
-
-Installation et équipement électrique (dernière session 2018)* |
+Métiers de la pierre |
 
 O |
 
@@ -554,7 +386,7 @@ Aérien |
 
 BP |
 
-Plâtrerie et plaque (dernière session 2017)* |
+Peintre applicateur de revêtements |
 
 O |
 
@@ -562,99 +394,51 @@ Aérien |
 
 BP |
 
-Carrelage mosaïque (dernière session 2019) |
+Tailleur de pierres monuments historiques |
 
 O |
 
-Aérien |
-
-BP |
-
-Carreleur mosaïste (première session 2020) |
-
-O |
-
-Aérien |
-
-BP |
-
-Peinture applicateur de revêtements |
-
-O |
-
-Aérien |
-
-BP |
-
-Peinture revêtements (dernière session 2017)* |
-
-O |
-
-Aér./Souter. |
+Aér./ Souter. |
 
 MC4 |
 
-Technicien en réseaux électriques |
+Cybersécurité (première session 2024) |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 MC4 |
 
-Technicien des services à l'énergie |
+Technicien (ne) des services à l'énergie |
 
 O |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 MC4 |
 
-Technicien en énergies renouvelables, options A et B |
+Technicien en énergies renouvelables, option A : énergie électrique-option B : énergie thermique |
+
+O |
+
+Aér./ Souter. |
+
+MC4 |
+
+Technicien (ne) en réseaux électriques |
 
 CEO |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 BTS |
 
-Géologie appliquée |
+Architectures en métal : conception et réalisation |
 
 CEO |
 
-Aér./Souter. |
-
-BTS |
-
-Métiers du géomètre-topographe et de la modélisation numérique |
-
-CEO |
-
-Aér./Souter. |
-
-BTS |
-
-Géomètre topographe (dernière session 2017)* |
-
-CEO |
-
-Aér./Souter. |
-
-BTS |
-
-Etudes et économie de la construction |
-
-CEO |
-
-Aér./Souter. |
-
-BTS |
-
-Travaux publics |
-
-CEO |
-
-Aér./Souter. |
+Aér./ Souter. |
 
 BTS |
 
@@ -662,71 +446,15 @@ Bâtiment |
 
 CEO |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 BTS |
 
-Systèmes constructifs bois et habitat |
+Cybersécurité, informatique et réseaux, électronique, option A : informatique et réseaux (première session 2025) |
 
 CEO |
 
-Aér./Souter. |
-
-BTS |
-
-Charpente couverture (dernière session 2015)* |
-
-CEO |
-
-Aér./Souter. |
-
-BTS |
-
-Architectures en métal : conception et réalisation (première session 2020) |
-
-CEO |
-
-Aér./Souter. |
-
-BTS |
-
-Constructions métalliques (dernière session 2019) |
-
-CEO |
-
-Aér./Souter. |
-
-BTS |
-
-Fluides énergies domotique, option A |
-
-CEO |
-
-Aér./Souter. |
-
-BTS |
-
-Maintenance des systèmes, option B |
-
-CEO |
-
-Aér./Souter. |
-
-BTS |
-
-Enveloppe des bâtiments : conception et réalisation |
-
-CEO |
-
-Aér./Souter. |
-
-BTS |
-
-Enveloppes du bâtiment : façades - étanchéité (dernière session 2016)* |
-
-CEO |
-
-Aér./Souter. |
+Aér./ Souter. |
 
 BTS |
 
@@ -734,29 +462,91 @@ Electrotechnique |
 
 CEO |
 
-Aér./Souter. |
+Aér./ Souter. |
 
 BTS |
 
-Aménagement finition |
+Enveloppe des bâtiments : conception et réalisation |
 
 CEO |
 
-Aér./Souter. |
-
-BTS |
-
-Systèmes numériques option A informatique et réseaux |
-
-CEO |
-
-Aér./Souter. |
+Aér./ Souter. |
 
 BTS |
 
 Environnement nucléaire |
 
-* Diplômes dont la dernière session a lieu antérieurement à la date de publication du présent arrêté, permettant la délivrance de l'AIPR au titre des dispositions transitoires prévues à l'avant-dernier alinéa de l'article 25 de l'arrêté du 15 février 2012.
+CEO |
+
+Aér./ Souter. |
+
+BTS |
+
+Finition, aménagement des bâtiments : conception et réalisation |
+
+CEO |
+
+Aér./ Souter. |
+
+BTS |
+
+Fluides énergies domotique, option A : génie climatique et fluidique |
+
+CEO |
+
+Aér./ Souter. |
+
+BTS |
+
+Géologie appliquée |
+
+CEO |
+
+Aér./ Souter. |
+
+BTS |
+
+Maintenance des systèmes, option A : systèmes de production-option B : systèmes énergétiques et fluidiques-option C : systèmes éoliens-option D : systèmes ascenseurs et élévateurs |
+
+CEO |
+
+Aér./ Souter. |
+
+BTS |
+
+Management économique de la construction |
+
+CEO |
+
+Aér./ Souter. |
+
+BTS |
+
+Métiers du géomètre-topographe et de la modélisation numérique |
+
+CEO |
+
+Aér./ Souter. |
+
+BTS |
+
+Systèmes constructifs bois et habitat |
+
+CEO |
+
+Aér./ Souter. |
+
+BTS |
+
+Systèmes numériques, option A : informatique et réseaux (dernière session 2024) |
+
+CEO |
+
+Aér./ Souter. |
+
+BTS |
+
+Travaux publics |
 
 SIGLES |
 
@@ -766,7 +556,7 @@ AIPR |
 
 Autorisation d'intervention à proximité des réseaux |
 
-Aér./souter. |
+Aér./ souter. |
 
 AIPR pour des travaux aériens et souterrains |
 
@@ -777,10 +567,6 @@ AIPR pour des travaux strictement aériens et sans impact sur les réseaux soute
 Bac pro |
 
 Baccalauréat professionnel |
-
-BEP |
-
-Brevet d'études professionnelles |
 
 BTS |
 
@@ -794,13 +580,13 @@ CAP |
 
 Certificat d'aptitude professionnelle |
 
+MC3 |
+
+Mention complémentaire de niveau 3 (*) |
+
 MC4 |
 
-Mention complémentaire de niveau 4 |
-
-MC5 |
-
-Mention complémentaire de niveau 5 |
+Mention complémentaire de niveau 4 (*) |
 
 O |
 
@@ -809,3 +595,5 @@ Opérateur |
 CEO |
 
 Concepteur, encadrant, opérateur |
+
+(*) A compter du 1er janvier 2025, en application du décret n° 2023-824 du 25 août 2023 susvisé, l'intitulé du diplôme " mention complémentaire " est remplacé par celui de " certificat de spécialisation ".
