@@ -694,8 +694,32 @@ BAT-TH-116 |
 
 Par contact |
 
-A compter du 01/01/2024 |
+Entre le 01/01/2024 et le 29/02/2024 |
 
-NOTA :
+12,5 % |
 
-Conformément à l’article 5 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.
+Sur le lieu des opérations |
+
+Entre le 01/03/2024 et le 31/12/2024 |
+
+25 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+15 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/01/2025 |
+
+30 % (en sus des contrôles sur le lieu, ci-dessus) |
+
+Par contact |
+
+RES-CH-106, RES-CH-107 et RES-EC-104 |
+
+100 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/03/2024 |

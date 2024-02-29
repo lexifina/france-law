@@ -28,6 +28,8 @@ Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRE
 
 Conformément à l’article 1er de l’arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d'opération standardisée d'économies d'énergie est remplacée à compter du 1er avril 2023 par la version portant les mêmes références en annexe C dudit arrêté.
 
+Conformément à l’article 1er de l’arrêté du 22 février 2024 (NOR : ECOR2405028A), la fiche d'opération standardisée d'économies d'énergie est remplacée à compter du 1er mars 2024 par la version portant les mêmes références en annexe A dudit arrêté.
+
 - Isolation de points singuliers sur un réseau de chaleur / Fiche d’opération n° RES-CH-107
 
 Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la version portant les mêmes références en annexe 5 dudit arrêté.
@@ -105,3 +107,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 140 du 18/06/2023, texte nº 46, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=iVuAD5uJii2qhcSZRN7xvb1VcLEUO_fLcFP_T3B1mvk=
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 0049 du 28/02/2024, texte nº 2, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=evfsKDPjPOgD6eM4SrAPUuZ-PkK9A6thiDb3sgQcNsM=

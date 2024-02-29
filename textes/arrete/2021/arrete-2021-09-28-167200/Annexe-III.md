@@ -1272,15 +1272,45 @@ Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-AK. Fiche d'opération standardisée BAT-TH-116 “ Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/ climatisation, l'éclairage et les auxiliaires ” :
+AK. Fiche d'opération standardisée BAT-TH-116 Système de gestion technique du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement/ climatisation, l'éclairage et les auxiliaires :
 
-Doivent être vérifiés lors des contrôles par contact :
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. En l'absence d'éléments visibles, les vérifications sont faites au moyen de toute pièce disponible. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
 
-- l'existence d'un système de gestion technique du bâtiment installé ;
+AK. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
 
-- le secteur d'activité du bâtiment concerné (bureaux ; enseignement ; commerces ; hôtellerie-restauration ; santé) ;
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
-- l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+2) La preuve de réalisation de l'opération ou, à défaut, le document issu du professionnel réalisant l'opération ne comporte pas les mentions prévues par la fiche BAT-TH-116 ;
+
+3) Le système installé ou amélioré ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération ou, à défaut, aux mentions indiquées sur le document issu du professionnel réalisant l'opération, concernant en particulier la classe du système installé ou amélioré au sens de la norme NF EN ISO 52120-1 : 2022 ;
+
+4) L'opération concerne le simple raccordement d'un bâtiment à un système existant de gestion technique du bâtiment ;
+
+5) Lorsque l'opération consiste en l'amélioration d'un système existant de gestion technique du bâtiment, le système existant avant réalisation de l'opération était de classe A ou B au sens de la norme NF EN ISO 52120-1 : 2022 ;
+
+6) Le système installé ou amélioré n'est pas un système de gestion technique du bâtiment de classe A ou B au sens de la norme NF EN ISO 52120-1 : 2022 ;
+
+7) Hors outre-mer, le système ne gère pas l'usage chauffage ; en outre-mer, le système ne gère pas l'usage refroidissement/ climatisation ;
+
+8) Le secteur d'activité du bâtiment concerné ne correspond à aucun de ceux prévus par la fiche BAT-TH-116 ;
+
+9) Les surfaces gérées par le système mentionnées dans l'attestation sur l'honneur incluent des surfaces d'entrepôts de logistique, de réserves, d'entrepôts (frigorifiques ou non) ou de locaux de stockage ;
+
+10) Les capteurs installés pour la gestion du système sont manifestement insuffisants au regard des surfaces gérées par le système et de sa classe au sens de la norme NF EN ISO 52120-1 : 2022 ;
+
+11) Hors outre-mer, la surface mesurée liée à l'usage chauffage gérée par le système présente un écart de plus de 10 % à la surface déclarée dans l'attestation sur l'honneur ; en outre-mer, la surface mesurée liée à l'usage refroidissement/ climatisation gérée par le système présente un écart de plus de 10 % à la surface déclarée dans l'attestation sur l'honneur.
+
+Pour rappel : Ecart = (Surface déclarée-Surface mesurée)/ Surface mesurée × 100.
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : zone climatique ; secteur d'activité concerné ; surface gérée par le système pour chaque usage considéré ; à cette fin, l'organisme d'inspection s'assure qu'il ne comptabilise pas, le cas échéant, les surfaces gérées par le système concernant les entrepôts de logistique, les réserves, les entrepôts (frigorifiques ou non) et les locaux de stockage.
+
+AK. II. Doivent être vérifiés lors des contrôles par contact :
+
+-l'existence d'un système de gestion technique du bâtiment installé ou amélioré ;
+
+-le secteur d'activité du bâtiment concerné (bureaux ; enseignement ; commerces ; hôtellerie-restauration ; santé) ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
@@ -1393,6 +1423,130 @@ L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires
 AM. II. Doivent être vérifiés lors des contrôles par contact :
 
 -l'existence d'une (des) PAC installée (s) ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AN. Fiche d'opération standardisée RES-CH-106 Mise en place d'un calorifugeage des canalisations d'un réseau de chaleur :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. En l'absence d'éléments visibles, les vérifications sont faites au moyen de toute pièce disponible. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
+
+AN. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
+
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, le descriptif de la portion concernée par l'isolation du réseau de chaleur primaire ;
+
+2) La preuve de réalisation de l'opération ne comporte pas les mentions prévues par la fiche RES-CH-106 ;
+
+3) La preuve de réalisation de l'opération, le descriptif de la portion concernée par l'isolation du réseau de chaleur primaire et l'attestation sur l'honneur présentent des incohérences (différences en termes de longueurs isolées, de diamètres nominaux, de types de fluides caloporteurs [eau chaude, eau surchauffée, vapeur]) ;
+
+4) Le réseau de chaleur concerné par l'opération n'alimente pas des bâtiments appartenant à au moins deux abonnés distincts ;
+
+5) La date de première livraison de chaleur du réseau de chaleur n'est pas antérieure d'au moins un an à la date d'engagement de l'opération ;
+
+6) L'opération ne concerne pas le calorifugeage du réseau primaire ;
+
+7) L'opération ne concerne pas le calorifugeage des canalisations du réseau de chaleur enterré ou en caniveau ;
+
+8) Les canalisations enterrées ou en caniveau concernées par l'opération ne correspondent pas aux cas suivants :
+
+a. les canalisations aller ou les canalisations retour pour les réseaux d'eau chaude (basse température ≤ 110° C) ou d'eau surchauffée (haute température > 110° C) ;
+
+b. les canalisations aller pour les réseaux de vapeur ;
+
+9) Le diamètre mesuré des canalisations isolées ne correspond pas à celui indiqué sur la preuve de réalisation ;
+
+10) La conductivité thermique des isolants est supérieure à 0,06 W/ m. K ;
+
+11) Le coefficient de perte thermique est supérieur ou égal aux valeurs du tableau de la partie 3 de la fiche RES-CH-106 ;
+
+12) La durée annuelle d'utilisation de la portion concernée du réseau de chaleur mentionnée dans l'attestation sur l'honneur ne correspond manifestement pas à la durée effective vérifiée au moyen de toute pièce disponible ;
+
+13) La longueur de section calorifugée vérifiée au moyen de toute pièce disponible présente un écart de plus de 10 % à la longueur de section calorifugée déclarée dans l'attestation sur l'honneur, au moins pour un des diamètres nominaux.
+
+Pour rappel : Ecart = (Longueur déclarée-Longueur vérifiée)/ Longueur vérifiée × 100.
+
+L'organisme d'inspection indique, dans son rapport, la longueur calorifugée totale du réseau, la durée annuelle d'utilisation de la portion concernée du réseau et la nature du fluide caloporteur (eau chaude, eau surchauffée, vapeur).
+
+AN. II. Doivent être vérifiés lors des contrôles par contact :
+
+-la mise en place d'un calorifugeage des canalisations d'un réseau de chaleur ;
+
+-le fait que le réseau de chaleur alimente des bâtiments appartenant à au moins deux abonnés distincts ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AO. Fiche d'opération standardisée RES-CH-107 Isolation de points singuliers sur un réseau de chaleur :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. En l'absence d'éléments visibles, les vérifications sont faites au moyen de toute pièce disponible. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
+
+AO. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
+
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
+
+2) La preuve de réalisation de l'opération ou le document issu du fabricant ne comporte pas les mentions prévues par la fiche RES-CH-107 ;
+
+3) L'état récapitulatif ne comporte pas les mentions prévues par la fiche RES-CH-107 ;
+
+4) La preuve de réalisation de l'opération (ou le document issu du fabricant) et l'état récapitulatif des systèmes isolants mis en place et des points singuliers isolés présentent des incohérences (différences en termes de nombre total de systèmes isolants installé selon le type de fluide caloporteur, marques et références, résistances thermiques) ;
+
+5) La date de première livraison de chaleur du réseau de chaleur, vérifiée au moyen de toute pièce disponible, n'est pas antérieure d'au moins un an à la date d'engagement de l'opération ;
+
+6) Le réseau de chaleur concerné par l'opération n'alimente pas des bâtiments appartenant à au moins deux abonnés distincts ;
+
+7) Le nombre et l'emplacement des systèmes isolants ne correspondent pas, en totalité ou en partie, aux indications de l'état récapitulatif ;
+
+8) Il existe au moins un écart entre les vérifications aléatoires effectuées par l'organisme de contrôle et l'état récapitulatif, en termes de type de fluide caloporteur (eau chaude, eau surchauffée, vapeur, retour/ secondaire), de lieu d'implantation des systèmes isolants, de marques et références des systèmes isolants, de résistance thermique des systèmes isolants à la température exigée, de température ;
+
+9) La durée annuelle d'utilisation de la portion concernée du réseau de chaleur mentionnée dans l'attestation sur l'honneur ne correspond manifestement pas à la durée effective vérifiée au moyen de toute pièce disponible.
+
+Pour l'application des critères des points 7 et 8 ci-dessus, l'organisme d'inspection procède à la vérification aléatoire d'au moins 10 % des points singuliers isolés (nombre arrondi à l'unité supérieure) par démontage des systèmes isolants puis remise en place.
+
+L'organisme d'inspection indique, dans son rapport, le nombre de systèmes isolants vérifiés ainsi que les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : type de fluide caloporteur (eau chaude, eau surchauffée, vapeur, retour/ secondaire), durée annuelle d'utilisation du réseau, (en mois), nombre de systèmes isolants mis en place.
+
+AO. II. Doivent être vérifiés lors des contrôles par contact :
+
+-la mise en place d'une isolation des points singuliers sur un réseau de chaleur ;
+
+-le fait que le réseau de chaleur alimente des bâtiments appartenant à au moins deux abonnés distincts ;
+
+-l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+
+Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+
+AP. Fiche d'opération standardisée RES-EC-104 Rénovation d'éclairage extérieur :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
+
+AP. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
+
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
+
+2) La preuve de réalisation de l'opération ou le document issu du fabricant ne comporte pas les mentions prévues par la fiche RES-EC-104 ;
+
+3) La preuve de réalisation de l'opération (ou le document issu du fabricant) et l'attestation sur l'honneur présentent des incohérences (différences en termes de nombre ou de caractéristiques des luminaires neufs installés : degré de protection de l'ensemble optique fermé (IP), efficacité lumineuse en lumen par Watt, et ULOR [ou ULR pour les luminaires à LED]) ;
+
+4) L'opération ne concerne pas, ou pas uniquement, l'éclairage extérieur ;
+
+5) L'opération concerne les illuminations de mise en valeur de sites ou l'éclairage de terrains de sport ;
+
+6) Les luminaires existants n'ont pas été déposés ;
+
+7) Les luminaires neufs n'ont pas été installés à la date de preuve de réalisation de l'opération (correspondant, le cas échéant, à l'attestation d'installation par les services techniques du bénéficiaire personne morale) ou le nombre de luminaires neufs installés ne correspond pas à celui indiqué dans la preuve de réalisation de l'opération ;
+
+8) La source lumineuse des luminaires installés ne peut pas être remplacée ;
+
+9) Au vu de la preuve de réalisation de l'opération ou, à défaut, du document issu du fabricant, il apparaît que les luminaires installés ne respectent pas les exigences de la fiche RES-EC-104 en termes de degré de protection (IP), d'efficacité lumineuse, d'ULOR et d'ULR.
+
+Pour les besoins du contrôle, le bénéficiaire, indique, notamment au moyen d'un inventaire, la localisation et le nombre des luminaires installés. En l'absence d'une telle indication, le contrôle est considéré comme non satisfaisant .
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : nombre de luminaires neufs installés correspondant au cas n° 1 mentionné par la fiche RES-EC-104 ; nombre de luminaires neufs installés correspondant au cas n° 2 mentionné par la fiche RES-EC-104.
+
+AP. II. Doivent être vérifiés lors des contrôles par contact :
+
+-la mise en place de luminaires neufs installés ;
 
 -l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
 
