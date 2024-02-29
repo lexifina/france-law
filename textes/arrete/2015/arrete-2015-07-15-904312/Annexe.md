@@ -62,7 +62,7 @@ Chaque session doit apparaître dans l'offre de formation de l'organisme et êtr
 
 Chaque organisme expose les critères de refus d'inscription ou d'exclusion retenus, ainsi que les moyens d'informer les candidats sur son calendrier de formation.
 
-L'organisme doit informer les candidats que pour pouvoir effectuer l'étape stage pratique, ils ne doivent ni être frappés par une incapacité pénale consécutive à une condamnation définitive pour un crime ou à deux mois au moins d'emprisonnement sans sursis pour un des délits inscrits à l'article L. 133-6 du code de l'action sociale et des familles, ni faire l'objet d'une mesure administrative de suspension ou d'interdiction d'exercer auprès des mineurs en application de l'article L. 227-10 du même code.
+L'organisme doit informer les candidats que pour pouvoir effectuer l'étape stage pratique, ils ne doivent ni être frappés par une incapacité pénale consécutive à une condamnation définitive pour un crime ou pour un des délits inscrits à l'article L. 133-6 du code de l'action sociale et des familles, ni faire l'objet d'une mesure administrative de suspension ou d'interdiction d'exercer auprès des mineurs en application de l'article L. 227-10 du même code.
 
 Une partie au moins des sessions doit se dérouler en français.
 
