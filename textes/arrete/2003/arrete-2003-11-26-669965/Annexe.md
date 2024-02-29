@@ -16,9 +16,9 @@ Pôle de la communication |
 
 Astreinte de direction. |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
-1 astreinte de fin semaine.
+1 astreinte de fin semaine
 
 1 astreinte de jour férié isolé. |
 
@@ -26,11 +26,17 @@ Cabinet |
 
 Astreinte (chauffeur). |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
-1 astreinte de fin semaine.
+1 astreinte de fin semaine
 
 1 astreinte de jour férié isolé. |
+
+Cabinet |
+
+Astreinte de direction. |
+
+1 astreinte de fin de semaine (entre le 26/07 et le 11/08/2024 et entre le 28/08 et le 08/09/2024). |
 
 Secrétariat général |
 
@@ -56,6 +62,12 @@ Astreinte technique. |
 
 1 astreinte de semaine. |
 
+Sous-direction des affaires financières et du contrôle de gestion |
+
+Astreinte de continuité de service (PLF) |
+
+2 astreintes de fin de semaine et de jours fériés, dans la limite de 3 par an. |
+
 Direction du numérique |
 
 Astreinte opérationnelle et technique. |
@@ -78,7 +90,9 @@ Astreinte d'exploitation viabilité hivernale. |
 
 2 astreintes de semaine (entre le 15/11 et le 31/03). |
 
-École Nationale de l'Aviation Civile |
+École Nationale
+
+de l'Aviation Civile |
 
 |
 
@@ -98,13 +112,11 @@ Astreinte opérationnelle et technique. |
 
 2 astreintes de semaine. |
 
-Bureau d'enquêtes et d'analyses
-
-pour la sécurité de l'aviation civile |
+Bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile |
 
 Astreinte enquêtes-accidents (niveau central). |
 
-1 astreinte de semaine et 2 astreintes de fin de semaine. |
+1 astreinte de semaine et 2 astreintes de fin de semaine |
 
 Direction de la stratégie et des ressources de la direction des services de la navigation aérienne |
 
@@ -116,19 +128,23 @@ SDRH |
 
 Astreinte de continuité opérationnelle |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
-1 astreinte de fin de semaine et jours fériés. |
+1 astreinte de fin de semaine et jours fériés |
 
-Direction des opérations de la direction
+Direction de la sécurité de la direction des services de la navigation aérienne |
 
-des services de la navigation aérienne |
+Astreinte opérationnelle cyber |
+
+1 astreinte de semaine (entre le 06/05 et le 13/05/2024, entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024). |
+
+Direction des opérations de la direction des services de la navigation aérienne |
 
 |
 
 |
 
-Echelon central |
+Échelon central |
 
 Astreinte opérationnelle. |
 
@@ -139,6 +155,12 @@ Echelon central (CDM) |
 Astreinte opérationnelle |
 
 1 astreinte de semaine |
+
+Echelon central (Cyber) |
+
+Astreinte opérationnelle cyber |
+
+1 astreinte de semaine (entre le 06/05 et le 13/05/2024, entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024). |
 
 CESNAC |
 
@@ -252,7 +274,7 @@ Organisme d'Orly |
 
 Astreinte technique (antennes avancées, Melun) |
 
-2 astreintes de fin de semaine et jours fériés. |
+2 astreintes de fin de semaine et jours fériés |
 
 Organisme d'Orly |
 
@@ -276,7 +298,7 @@ Siège |
 
 Astreinte technique. |
 
-1 astreinte de fin de semaine. |
+1 astreinte de fin de semaine |
 
 Siège |
 
@@ -364,7 +386,7 @@ Astreinte opérationnelle. |
 
 Astreinte technique (Bastia, Calvi, antennes avancées) |
 
-1 astreinte de semaine dans la limite de 12 semaines par an entre le 15 juin et le 15 septembre. |
+1 astreinte de semaine dans la limite de 12 semaines par an entre le 15 juin et le 15 septembre |
 
 SNA Sud |
 
@@ -432,9 +454,7 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Aérodrome de Cayenne-Félix Eboué
-
-|
+Aérodrome de Cayenne-Félix Eboué |
 
 Astreinte opérationnelle. |
 
@@ -456,9 +476,7 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service de l'aviation civile
-
-de Saint-Pierre-et-Miquelon |
+Service de l'aviation civile de Saint-Pierre-et-Miquelon |
 
 |
 
@@ -479,6 +497,12 @@ Direction de la sécurité de l'aviation civile |
 |
 
 |
+
+DSAC |
+
+Astreinte de direction |
+
+8 astreintes de semaine entre le 15/07 et le 08/09/2024. |
 
 DSAC Nord |
 
@@ -534,19 +558,19 @@ Astreinte de direction |
 
 1 astreinte de semaine. |
 
-Région Nouvelle-Aquitaine (Bordeaux) |
+Région Nouvelle Aquitaine (Bordeaux) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Nouvelle-Aquitaine (Pau) |
+Région Nouvelle Aquitaine (Pau) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Nouvelle-Aquitaine (Poitiers) |
+Région Nouvelle Aquitaine (Poitiers) |
 
 Astreinte enquêtes-accidents. |
 
@@ -618,7 +642,7 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Centre-Val de Loire (Tours) |
+Région Centre-Val-de-Loire (Tours) |
 
 Astreinte enquêtes-accidents. |
 
@@ -640,7 +664,7 @@ DSAC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-1 astreinte de semaine dans la limite de 26 semaines par an. |
+1 astreinte de semaine dans la limite de 26 semaines par an |
 
 DSAC (Strasbourg) |
 
@@ -654,13 +678,13 @@ Astreinte enquêtes-accidents (Bourgogne-Franche-Comté) |
 
 1 astreinte de semaine. |
 
-Région Grand Est (Strasbourg) |
+Région Grand-Est (Strasbourg) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Grand Est (Metz-Nancy-Lorraine) |
+Région Grand-Est (Metz-Nancy-Lorraine) |
 
 Astreinte enquêtes-accidents. |
 
@@ -846,15 +870,13 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service mixte Direction de l'aviation civile
-
-en Nouvelle-Calédonie |
+Service mixte " Direction de l'aviation civile en Nouvelle-Calédonie " |
 
 |
 
 |
 
-Service mixte DAC/ NC |
+Service mixte " DAC/ NC " |
 
 Astreinte de contrôle technique d'exploitation. |
 
@@ -862,7 +884,7 @@ Astreinte de contrôle technique d'exploitation. |
 
 Nouméa |
 
-Astreinte de direction (Service mixte DAC/ NC ). |
+Astreinte de direction (Service mixte " DAC/ NC "). |
 
 1 astreinte de semaine. |
 
