@@ -146,6 +146,14 @@ Aérien |
 
 MC3 |
 
+Echafaudeur (première session 2025) |
+
+O |
+
+Aérien |
+
+MC3 |
+
 Zingueur (première session 2024) |
 
 O |
