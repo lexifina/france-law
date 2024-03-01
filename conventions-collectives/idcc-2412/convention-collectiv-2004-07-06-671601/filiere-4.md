@@ -242,7 +242,7 @@ Encadre une équipe d'infographistes des effets visuels numériques. |
 
 Confirmé |
 
-III A |
+III B |
 
 Assure la fabrication d'effets visuels numériques. |
 
