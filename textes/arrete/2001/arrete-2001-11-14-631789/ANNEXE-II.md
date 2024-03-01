@@ -1,157 +1,147 @@
 # Article ANNEXE II
 
+TARIFS MAXIMA DES FRAIS DE FOURRIÈRE AUTOMOBILE
+
 FRAIS
 
 de fourrière |
 
-CATÉGORIES DE VÉHICULES |
+CATÉGORIES
+
+de véhicules |
 
 MONTANT
 
 (en euros) |
 
-Immobilisation
+Immobilisation matérielle |
 
-matérielle |
+Véhicules PL 44 t ≥ PTAC > 19 t
 
-Véhicules PL 44 t ≥ PTAC > 19 t |
+Véhicules PL 19 t ≥ PTAC > 7,5 t
 
-7,60 |
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t |
+Voitures particulières
 
-7,60 |
-
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
-
-7,60 |
-
-Voitures particulières |
-
-7,60 |
-
-Autres véhicules immatriculés |
-
-7,60 |
+Autres véhicules immatriculés
 
 Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
-7,60 |
+7,60
 
-Opérations préalables |
+7,60
 
-Véhicules PL 44 t ≥ PTAC > 19 t |
+7,60
 
-22,90 |
+7,60
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t |
-
-22,90 |
-
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
-
-22,90 |
-
-Voitures particulières |
-
-15,20 |
-
-Autres véhicules immatriculés |
+7,60
 
 7,60 |
+
+Opérations
+
+préalables |
+
+Véhicules PL 44 t ≥ PTAC > 19 t
+
+Véhicules PL 19 t ≥ PTAC > 7,5 t
+
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t
+
+Voitures particulières
+
+Autres véhicules immatriculés
 
 Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
+
+22,90
+
+22,90
+
+22,90
+
+15,20
+
+7,60
 
 7,60 |
 
 Enlèvement |
 
-Véhicules PL 44 t ≥ PTAC > 19 t |
+Véhicules PL 44 t ≥ PTAC > 19 t
 
-274,40 |
+Véhicules PL 19 t ≥ PTAC > 7,5 t
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t |
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
-213,40 |
+Voitures particulières
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
-
-122,00 |
-
-Voitures particulières |
-
-121,27 |
-
-Autres véhicules immatriculés |
-
-45,70 |
+Autres véhicules immatriculés
 
 Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
+
+274,40
+
+213,40
+
+122,00
+
+127,65
+
+45,70
 
 45,70 |
 
 Garde journalière |
 
-Véhicules PL 44 t ≥ PTAC > 19 t |
+Véhicules PL 44 t ≥ PTAC > 19 t
 
-9,20 |
+Véhicules PL 19 t ≥ PTAC > 7,5 t
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t |
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
-9,20 |
+Voitures particulières
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
-
-9,20 |
-
-Voitures particulières |
-
-6,42 |
-
-Autres véhicules immatriculés |
-
-3,00 |
+Autres véhicules immatriculés
 
 Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
+9,20
+
+9,20
+
+9,20
+
+6,75
+
+3,00
+
 3,00 |
 
-Mise en vente |
+Expertise |
 
-Véhicules PL 44 t ≥ PTAC > 19 t |
+Véhicules PL 44 t ≥ PTAC > 19 t
 
-120 |
+Véhicules PL 19 t ≥ PTAC > 7,5 t
 
-|
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t |
+Voitures particulières
 
-120 |
-
-|
-
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
-
-120 |
-
-|
-
-Voitures particulières |
-
-100 |
-
-|
-
-Autres véhicules immatriculés |
-
-50 |
-
-|
+Autres véhicules immatriculés
 
 Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
-50 |
+91,50
 
-NOTA :
+91,50
 
-Conformément à l'article 2 de l'arrêté du 4 novembre 2020 ( NOR : INTS2025699A ), les dispositions introduites par cet arrêté entrent en vigueur, dans chaque département, à la date d'entrée en vigueur prévue par les dispositions de l'article 2 de l'ordonnance n° 2020-773 du 24 juin 2020. Elles s'appliquent aux véhicules entrés en fourrière à compter de la même date.
+91,50
+
+61,00
+
+30,50
+
+30,50 |

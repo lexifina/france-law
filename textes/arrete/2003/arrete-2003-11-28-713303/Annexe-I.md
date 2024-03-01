@@ -1,37 +1,27 @@
 # Article Annexe I
 
-Tarifs applicables aux communes visées à l'article 2
+TARIFS APPLICABLES AUX COMMUNES VISÉES À L'ARTICLE 2
 
 FRAIS
 
-de fourrière
+de fourrière |
 
-|
+CATÉGORIES
 
-CATEGORIES
-
-de véhicules
-
-|
+de véhicules |
 
 MONTANT
 
-(en euros)
-
-|
+(en euros) |
 
 Enlèvement |
 
 Voitures particulières |
 
-126
-
-|
+127,65 |
 
 Garde journalière |
 
 Voitures particulières |
 
-10
-
-|
+10 |
