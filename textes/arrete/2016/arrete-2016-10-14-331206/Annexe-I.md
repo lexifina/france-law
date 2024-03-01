@@ -2,11 +2,11 @@
 
 PROGRAMME DE LA FORMATION
 
-La formation est réalisée sous la présence effective et constante de l'enseignant titulaire d'une autorisation d'enseigner en cours de validité.
+La formation est réalisée sous la présence effective et constante de l'enseignant titulaire d'une autorisation d'enseigner en cours de validité à l'exception, pour la séquence 1, de la partie sur simulateur.
 
 Conditions d'organisation de la formation
 
-La formation est d'une durée de sept heures.
+La formation est d'une durée de sept heures minimum.
 
 Elle est dispensée à bord d'un véhicule à changement de vitesses manuel appartenant à l'établissement d'enseignement de la conduite et de la sécurité routière agréé ou de l'association d'insertion ou de réinsertion sociale ou professionnelle agréée.
 
@@ -24,7 +24,7 @@ Cette formation est pratique, mais des apports théoriques indispensables sont d
 
 Elle comprend deux séquences :
 
-Séquence 1 : durée de 2 heures.
+Séquence 1 : durée minimale de 2 heures.
 
 Dans un trafic nul ou faible, l'élève doit acquérir les connaissances et les compétences suivantes :
 
@@ -32,12 +32,16 @@ Dans un trafic nul ou faible, l'élève doit acquérir les connaissances et les 
 
 - être en capacité de réaliser un démarrage en côte en toute sécurité.
 
-Une partie de cette séquence, limitée à une heure, peut être réalisée sur simulateur, notamment pour apprendre à utiliser la boîte de vitesses manuelle.
+Cette séquence peut être réalisée sur simulateur, notamment pour apprendre à utiliser la boîte de vitesses manuelle.
 
-Séquence 2 : durée de 5 heures.
+Séquence 2 : durée minimale de 5 heures.
 
 Cette séquence se déroule dans des conditions de circulation variées, simples et complexes. Elle permet l'acquisition des compétences suivantes :
 
 - savoir utiliser la boîte de vitesses manuelle de façon rationnelle et en toute sécurité dans les conditions de circulation précitées et adopter les techniques de l'éco-conduite ;
 
 - être en capacité de diriger le véhicule en adaptant l'allure et la trajectoire à l'environnement et aux conditions de circulation.
+
+NOTA :
+
+Conformément à l’article 7 de l’arrêté du 15 février 2024 (NOR : IOMS2402330A), ces dispositions entrent en vigueur le 1er mars 2024.
