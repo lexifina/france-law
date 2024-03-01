@@ -1,0 +1,9 @@
+# Article 1er
+
+Étant rappelé que les règles du droit du travail sont applicables dans les entreprises soumises à la présente convention collective nationale résultant du code du travail, à l'exception des dispositions propres aux professions agricoles insérées dans le code rural, les parties signataires ont adopté la présente convention collective nationale, conclue en application des articles L. 2222-1 et suivants du code du travail. Elle règle, sur le territoire français, les rapports de travail entre employeurs et salariés dans les jardineries et graineteries. Elle s'applique en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon dans les conditions définies par l'article L. 2222-1 du code du travail.
+
+Par jardinerie et graineterie, il convient d'entendre les entreprises ou établissements spécialisés dont l'activité principale se caractérise par la distribution de végétaux, de fleurs, de produits phytosanitaires, de produits et d'articles de jardinage, et généralement toutes les fournitures pour le jardin et l'environnement, disposant notamment dans leurs points de vente de plusieurs secteurs ou rayons suivants : pépinière, serre, fleuristeries et marché aux fleurs, produits et accessoires de jardin, semences, bulbes et plantes, animaux d'agrément, animalerie et ses aliments ou ustensiles spécifiques. À titre indicatif, ces entreprises sont généralement recensées sous le code NAF 4576 Z.
+
+N'entrent pas dans le champ d'application de la présente convention collective les entreprises dont les activités de vente de produits de jardin sont accessoires.
+
+La présente convention et chacune de ses annexes s'appliquent à l'ensemble du personnel des entreprises et établissements entrant dans son champ d'application ainsi qu'au personnel travaillant dans leurs entrepôts.
