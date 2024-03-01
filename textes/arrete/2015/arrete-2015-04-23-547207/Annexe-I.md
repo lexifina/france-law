@@ -26,39 +26,31 @@ Directeur de l'agence de l'innovation de défense
 
 .
 
-146.-ÉQUIPEMENT DES FORCES |
+146. - ÉQUIPEMENT DES FORCES |
 
-Armées, direction ou service
+Armées, direction ou service |
 
-|
-
-Autorités concernées
-
-|
+Autorités concernées |
 
 Direction générale de l'armement |
 
-Directeur de l'unité de management nucléaire, biologique et chimique
+Chef du service des activités nucléaires et de dissuasion |
 
-Directeur de l'unité de management Horus
+Directeur de l'unité de management Combat aérien |
 
-Directeur de l'unité de management Connectivité cyber espace renseignement
+Directeur de l'unité de management Cœlacanthe |
 
-Directeur de l'unité de management opérations d'armement hélicoptères et missiles
+Directeur de l'unité de management Horus |
 
-Directeur de l'unité de management avions de missions et de support
+Directeur de l'unité de management Combat terrestre |
 
-Directeur de l'unité de management avions de chasse et équipements
+Directeur de l'unité de management Combat naval |
 
-Directeur de l'unité de management opérations d'armement navales
+Directeur de l'unité de management Action 3D |
 
-Directeur de l'unité de management Cœlacanthe
+Directeur de l'unité de management Combat infovalorisé, renseignement, cyber, espace et aéronefs de missions |
 
-Directeur de l'unité de management opérations d'armement terrestres
-
-Directeur de l'agence du numérique de défense
-
-|
+Directeur de l'agence du numérique de défense |
 
 .
 
@@ -206,4 +198,4 @@ Directeur du service industriel de l'aéronautique |
 
 NOTA :
 
-Conformément à l'article 17 de l'arrêté du 20 décembre 2021 (NOR : ARMD2138364A), ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 18 de l'arrêté du 23 février 2024 (NOR : ARMD2405335A), ces dispositions entrent en vigueur le 1er mars 2024.

@@ -182,11 +182,11 @@ Directeur de l'agence de l'innovation de défense |
 
 MAPA x 25 |
 
+Direction des opérations |
+
 Directeur de l'agence du numérique de défense |
 
 Sans limitation |
-
-Direction des opérations |
 
 Chef du service des achats d'armement |
 
@@ -204,13 +204,7 @@ Autorités signataires de marchés |
 
 MAPA × 50 |
 
-Service d'architecture du système de défense |
-
-Directeur du centre d'analyse technico-opérationnelle de défense |
-
-MAPA × 50 |
-
-Service des affaires industrielles et de l'intelligence économique |
+Direction de l'industrie de défense |
 
 Directeur de DGA Intelligence technique et économique |
 
@@ -254,7 +248,7 @@ Commandant du service militaire volontaire |
 
 MAPA × 10 (10) |
 
-(1) L'expression MAPA x n s'entend comme suit : montant égal à n fois le seuil européen de procédure formalisée applicable aux marchés de fournitures et de services, qui ne sont pas des marchés de défense ou de sécurité, mentionné dans l'avis prévu par l'article L. 2123-1 du code de la commande publique (annexe n° 2 du code de la commande publique) et en dessous duquel les marchés publics et les accords-cadres peuvent être passés selon la procédure adaptée. Ce seuil est retenu pour la définition du seuil maximal de la délégation accordée pour tous les marchés du ministère, quels que soient l'identité du pouvoir adjudicateur, le type et l'objet du marché.
+(1) L'expression “ MAPA × ” s'entend comme suit : montant égal à “ n ” fois le seuil européen de procédure formalisée applicable aux marchés de fournitures et services, qui ne sont pas des marchés de défense ou de sécurité, mentionné dans l'avis prévu par l'article L. 2123-1 du code de la commande publique (annexe 2, I, POUVOIRS ADJUDICATEURS, Fournitures et services, a du code de la commande publique) et en dessous duquel les marchés publics et les accords-cadres peuvent être passés selon la procédure adaptée.
 
 (2) Les chefs des groupements de soutien de base de défense, commandants de formation administrative, reçoivent délégation pour passer les marchés publics et accords-cadres nécessaires au soutien commun ou spécifique des formations de la base de défense, lorsque les besoins ne sont pas satisfaits par un marché public, un accord-cadre ou une convention passés par un autre pouvoir adjudicateur du ministère ou interministériel.
 
@@ -276,4 +270,4 @@ MAPA × 10 (10) |
 
 NOTA :
 
-Conformément à l’article 13 de l’arrêté du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 18 de l'arrêté du 23 février 2024 (NOR : ARMD2405335A), ces dispositions entrent en vigueur le 1er mars 2024.

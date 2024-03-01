@@ -1,127 +1,71 @@
 # Article Annexe I
 
-DÉLÉGATION GÉNÉRALE POUR L'ARMEMENT
+ANNEXE I
 
-SERVICES, ÉTABLISSEMENTS ET ORGANISMES
+DIRECTION GENERALE DE L'ARMEMENT
 
-|
+SERVICES, ÉTABLISSEMENTS ET ORGANISMES |
 
-MONTANT MAXIMUM DES CONTRATS (1)
+MONTANT MAXIMUM DES CONTRATS (1) |
 
-|
-
-I.-Direction des opérations
-
-|
+I. - Direction des opérations, du maintien en condition opérationnelle et du numérique |
 
 |
 
 Service des achats d'armement |
 
-MAPA x 30
+MAPA × 30 |
+
+II. - Direction de l'industrie de défense |
 
 |
 
-III.-Direction technique
+Service de la performance et de la qualité industrielles |
 
-|
-
-|
-
-DGA Ingénierie des projets
-
-|
-
-MAPA x 30
-
-|
-
-Centres d'expertise et d'essais
-
-|
-
-MAPA x 30
-
-|
-
-IV.-Direction des ressources humaines
-
-|
-
-|
-
-Centre d'enseignement et de formation d'Ile-de-France
-
-|
-
-MAPA x 10
-
-|
-
-Centres de formation de Bourges et de Latresne
-
-|
-
-MAPA x 10
-
-|
-
-Centre d'instruction en sécurité industrielle de l'armement
-
-|
-
-MAPA x 10
-
-|
-
-Centre français de formation pour l'interdiction des armes chimiques
-
-|
-
-MAPA x 10
-
-|
-
-V.-Service central de la modernisation et de la qualité
-
-|
-
-|
-
-Service de la qualité
-
-|
-
-MAPA x 10
-
-|
-
-Service des systèmes numériques de l'armement
-
-|
-
-MAPA x 10
-
-|
-
-VI. - Agence de l'innovation de défense |
-
-MAPA x 25 |
-
-(1) L'expression " MAPA x " s'entend comme suit : montant égal à " n " fois le seuil des marchés pouvant être passés selon la procédure adaptée, telle que définie à l'article 26-II (1°) du code des marchés publics. |
-
-VII.-Service d'architecture du système de défense |
-
-|
-
-Centre d'analyse technico-opérationnelle de défense |
-
-MAPA x 10 |
-
-VIII.-Service des affaires industrielles et de l'intelligence économique |
-
-|
+MAPA × 10 |
 
 DGA Intelligence technique et économique |
 
-MAPA x 10 |
+MAPA × 10 |
+
+III. - Direction de l'ingénierie et de l'expertise |
+
+|
+
+Service des systèmes numériques de l'armement |
+
+MAPA × 10 |
+
+DGA Ingénierie et projets |
+
+MAPA × 30 |
+
+Autres organismes extérieurs |
+
+MAPA × 30 |
+
+IV. - Direction des ressources humaines |
+
+|
+
+DGA Centre de formation |
+
+MAPA × 10 |
+
+V. - Service de la sécurité de défense et des systèmes d'information |
+
+|
+
+Centre d'instruction en sécurité industrielle de l'armement |
+
+MAPA × 10 |
+
+VI. - Agence de l'innovation de défense |
+
+MAPA × 25 |
+
+(1) L'expression "MAPA × n" s'entend comme suit : montant égal à n fois le seuil européen de procédure formalisée applicable aux marchés de fournitures et de services, qui ne sont pas des marchés de défense ou de sécurité, mentionné dans l'avis prévu par l'article L. 2123-1 du code de la commande publique (annexe 2, I, POUVOIRS ADJUDICATEURS, Fournitures et services, a du code de la commande publique) et en dessous duquel les marchés publics et les accords-cadres peuvent être passés selon la procédure adaptée. |
+
+NOTA :
+
+Conformément à l'article 18 de l'arrêté du 23 février 2024 (NOR : ARMD2405335A), ces dispositions entrent en vigueur le 1er mars 2024.

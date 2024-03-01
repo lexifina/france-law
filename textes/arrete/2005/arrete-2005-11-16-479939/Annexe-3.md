@@ -84,7 +84,7 @@ Pour les logements relevant de leurs organismes à l'exception :
 
 -des arrêtés concernant les logements de représentation quel qu'en soit l'emplacement et les logements concédés par nécessité absolue de service ou par convention d'occupation précaire avec astreinte et situés dans les immeubles du ministère ou dans ses annexes. |
 
-Le chef du service central de la modernisation et de la qualité dont dispose le délégué général pour l'armement. |
+Le directeur de l'ingénierie et de l'expertise dont dispose le délégué général pour l'armement. |
 
 Pour les logements relevant de la direction générale de l'armement à l'exception :
 
@@ -94,7 +94,7 @@ Pour les logements relevant de la direction générale de l'armement à l'except
 
 Saisine de l'administration chargée des domaines en vue de la prise à bail de logements concédés par nécessité absolue de service ou par convention d'occupation précaire avec astreinte et assistance de l'administration chargée des domaines lors de la passation de l'acte. |
 
-Le chef du service central de la modernisation et de la qualité dont dispose le délégué général pour l'armement. |
+Le directeur de l'ingénierie et de l'expertise dont dispose le délégué général pour l'armement. |
 
 Pour les personnels de la direction générale de l'armement logés par nécessité absolue de service ou par convention d'occupation précaire avec astreinte. |
 
@@ -125,3 +125,7 @@ i) La saisine de l'administration chargée des domaines pour la prise à bail de
 j) La saisine de l'administration chargée des domaines pour la prise à bail des logements en Ile-de-France et l'assistance de l'administration chargée des domaines lors de la passation de l'acte. |
 
 .
+
+NOTA :
+
+Conformément à l'article 18 de l'arrêté du 23 février 2024 (NOR : ARMD2405335A), ces dispositions entrent en vigueur le 1er mars 2024.

@@ -26,7 +26,7 @@ Dans la limite de 5 400 euros.
 
 |
 
-Le directeur des plans, des programmes et du budget dont dispose le délégué général pour l'armement.
+Le directeur de la préparation de l'avenir et de la programmation dont dispose le délégué général pour l'armement.
 
 |
 
@@ -73,3 +73,7 @@ Dès le premier euro. |
 |
 
 (2) Hors " réserve parlementaire ". Les décisions attributives de subventions sont prises par le secrétaire d'Etat chargé des anciens combattants et de la mémoire dans les conditions précisées par la décision n° 188 du 4 janvier 2016 relative aux subventions aux associations. Le secrétaire général pour l'administration, le directeur des ressources humaines du ministère de la défense et le directeur de la mémoire, de la culture et des archives restent compétents en matière de programmation des crédits correspondants ainsi que d'exécution des recettes et des dépenses. |
+
+NOTA :
+
+Conformément à l'article 18 de l'arrêté du 23 février 2024 (NOR : ARMD2405335A), ces dispositions entrent en vigueur le 1er mars 2024.
