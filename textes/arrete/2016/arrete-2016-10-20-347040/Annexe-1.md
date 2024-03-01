@@ -2042,8 +2042,248 @@ Majoration pour certaines consultations par les spécialistes en endocrinologie 
 
 Les mesures tarifaires prévues au présent article entrent en vigueur au premier jour du mois suivant l'expiration du délai défini à l'article L. 162-14-1-1 du code de la sécurité sociale.
 
-La présente annexe est modifiée conformément à l'article 1 de l'arrêté du 20 avril 2023 (NOR : SPRS2311234A), consultable au lien suivant : https://www.legifrance.gouv.fr/download/pdf?id=MvuRpr9MWZCOH8gqRb9DJpgbHmZmQYi9rhA1hTn9xzg=
+Sous-titre 3
+
+Article 1er
+
+Scanographie
+
+Tarifs des forfaits techniques des scanners au 1er mars 2024 (1) (2)
+
+TYPE D'APPAREILS |
+
+FORFAIT PLEIN |
+
+FORFAIT RÉDUIT SELON LES TRANCHES D'ACTIVITÉ |
+
+Activité ≤ activité
+
+de référence |
+
+Activité > activité
+
+de référence et ≤ seuil 1 |
+
+Activité > seuil 1
+
+et ≤ seuil 2 |
+
+Activité > seuil 2 |
+
+Amortis (1), toutes classes |
+
+75,54 € |
+
+60,00 € |
+
+52,08 € |
+
+36,34 € |
+
+Non amortis, toutes classes |
+
+99,69 € |
+
+(1) Sont considérés comme amortis, les appareils installés depuis plus de sept ans révolus au 1er janvier de l'année considérée. |
+
+(1) Scanners : seuil 1 = 11 000 forfaits techniques ; seuil 2 = 13 000 forfaits techniques.
+
+(2) Les forfaits techniques couvrent aussi la fourniture du produit de contraste.
+
+Article 2
+
+Imagerie par résonance magnétique
+
+Tarifs des forfaits techniques des IRM au 1er mars 2024 (3) (4)
+
+CLASSE D'APPAREILS selon la PUISSANCE
+
+de l'aimant (en tesla) |
+
+≤ 0, 5T |
+
+> 0,5 T
+
+et < 1,5 T |
+
+1,5 T (2) |
+
+1,5 T dédié
+
+aux membres (3) |
+
+1,5 T spécialisé ostéo-articulaire (3) |
+
+> 1,5 T |
+
+Activité de référence (nombre de forfaits) |
+
+3 500 |
+
+4 000 |
+
+4 750 |
+
+4 500 |
+
+4 500 |
+
+4 500 |
+
+AMORTIS, forfaits pleins (1) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Paris |
+
+130,54 € |
+
+78,56 € |
+
+91,60 € |
+
+144,75 € |
+
+Région parisienne hors Paris |
+
+126,86 € |
+
+78,09 € |
+
+90,56 € |
+
+138,94 € |
+
+Province |
+
+125,60 € |
+
+77,93 € |
+
+90,20 € |
+
+130,80 € |
+
+NON AMORTIS, forfaits pleins |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Paris |
+
+131,07 € |
+
+194,28 € |
+
+177,01 € |
+
+111,22 € |
+
+127,80 € |
+
+203,83 € |
+
+Région parisienne hors Paris |
+
+127,45 € |
+
+189,88 € |
+
+173,30 € |
+
+110,77 € |
+
+126,78 € |
+
+201,91 € |
+
+Province |
+
+121,75 € |
+
+189,92 € |
+
+171,97 € |
+
+110,61 € |
+
+126,43 € |
+
+201,43 € |
+
+FORFAIT RÉDUIT selon les tranches d'activité |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Activité > Activité Référence et ≤ seuil 1 |
+
+73,94 € |
+
+50,51 € |
+
+52,72 € |
+
+75,40 € |
+
+Activité > seuil 1 et ≤ seuil 2 |
+
+59,53 € |
+
+42,57 € |
+
+44,58 € |
+
+65,65 € |
+
+Activité > seuil 2 |
+
+29,95 € |
+
+28,04 € |
+
+29,30 € |
+
+42,47 € |
+
+(1) Sont considérés comme amortis, les appareils installés depuis plus de sept ans révolus au 1er janvier de l'année considérée.
+
+(2) Hors appareils IRM 1,5 T dédié aux examens des membres et appareils IRM 1,5 T spécialisé aux examens ostéo-articulaire.
+
+(3) Appareils IRM adossés à un appareil 1,5 T ou > 1,5 T déjà installé, sur le même site géographique ou en " adossement fonctionnel "selon les dispositions de l'Instruction CNAMTS/ DGOS/ R3 n° 2012-248 du 15 juin 2012 relative à la priorité de gestion du risque sur l'imagerie médicale en 2010-2012. |
+
+(3) IRM : seuil 1 = 8 000 forfaits techniques ; seuil 2 = 11 000 forfaits techniques.
+
+(4) Les forfaits techniques couvrent aussi la fourniture du produit de contraste.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 20 avril 2023 (NOR : SPRS2311234A), ces dispositions entrent en vigueur le 1er juillet 2023.
+Conformément à l'article 3 de l'arrêté du 2 février 2024 (NOR : TSSS2402961A), ces dispositions entrent en vigueur le 1er mars 2024.

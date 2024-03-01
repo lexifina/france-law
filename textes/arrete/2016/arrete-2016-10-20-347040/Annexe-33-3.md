@@ -843,3 +843,9 @@ Guidage radiologique |
 YYYY115 |
 
 Guidage scanographique |
+
+La présente annexe est modifiée conformément à l'article 2 de l'arrêté du 2 février 2024 (NOR : TSSS2402961A).
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 2 février 2024 (NOR : TSSS2402961A), ces dispositions entrent en vigueur le 1er mars 2024.
