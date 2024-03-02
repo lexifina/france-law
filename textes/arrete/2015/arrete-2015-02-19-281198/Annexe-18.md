@@ -1,18 +1,16 @@
-# Article LEGIARTI000047399068
+# Article Annexe 18
 
-ANNEXE 2
+ANNEXE 18
 
 LISTE DES ACTES CCMU 2
 
-TYPE D'ACTE
-
-SITUATION CLINIQUE |
+TYPE D'ACTE SITUATION CLINIQUE |
 
 CODE |
 
 LIBELLÉ |
 
-Parage/suture des plaies profondes, des plaies de la face et des mains |
+Parage/ suture des plaies profondes, des plaies de la face et des mains |
 
 BACA002 |
 
@@ -36,67 +34,67 @@ Ablation secondaire de corps étranger de la paupière |
 
 CAJA002 |
 
-Parage et/ou suture de plaie de l'auricule |
+Parage et/ ou suture de plaie de l'auricule |
 
 GAJA002 |
 
-Parage et/ou suture de plaie du nez |
+Parage et/ ou suture de plaie du nez |
 
 HAJA003 |
 
-Parage et/ou suture de plaie cutanée non transfixiante de lèvre |
+Parage et/ ou suture de plaie cutanée non transfixiante de lèvre |
 
 HAJA006 |
 
-Parage et/ou suture de plaie transfixiante de lèvre |
+Parage et/ ou suture de plaie transfixiante de lèvre |
 
 HAJA007 |
 
-Parage et/ou suture de plaies muqueuses intrabuccales multiples |
+Parage et/ ou suture de plaies muqueuses intrabuccales multiples |
 
 HAJA009 |
 
-Parage et/ou suture de plaie de la langue |
+Parage et/ ou suture de plaie de la langue |
 
 HAJA010 |
 
-Parage et/ou suture d'une plaie muqueuse intrabuccale |
+Parage et/ ou suture d'une plaie muqueuse intrabuccale |
 
 QCJA001 |
 
-Parage et/ou suture de plaie profonde de la peau et des tissus mous de la main |
+Parage et/ ou suture de plaie profonde de la peau et des tissus mous de la main |
 
 QZJA021 |
 
-Parage et/ou suture de plusieurs plaies pulpo-unguéales |
+Parage et/ ou suture de plusieurs plaies pulpo-unguéales |
 
 QZJA022 |
 
-Parage et/ou suture d'une plaie pulpo-unguéale |
+Parage et/ ou suture d'une plaie pulpo-unguéale |
 
 QAJA004 |
 
-Parage et/ou suture de plaie profonde de la peau et des tissus mous de la face de moins de 3 cm de grand axe |
+Parage et/ ou suture de plaie profonde de la peau et des tissus mous de la face de moins de 3 cm de grand axe |
 
 QAJA006 |
 
-Parage et/ou suture de plaie profonde de la peau et des tissus mous de la face de 3 cm à 10 cm de grand axe |
+Parage et/ ou suture de plaie profonde de la peau et des tissus mous de la face de 3 cm à 10 cm de grand axe |
 
 QAJA012 |
 
-Parage et/ou suture de plaie profonde de la peau et des tissus mous de la face de plus de 10 cm de grand axe |
+Parage et/ ou suture de plaie profonde de la peau et des tissus mous de la face de plus de 10 cm de grand axe |
 
 QZJA016 |
 
-Parage et/ou suture de plaie profonde de la peau et des tissus mous de moins de 3 cm de grand axe, en dehors de la face et de la main |
+Parage et/ ou suture de plaie profonde de la peau et des tissus mous de moins de 3 cm de grand axe, en dehors de la face et de la main |
 
 QZJA012 |
 
-Parage et/ou suture de plaie profonde de la peau et des tissus mous de 3 cm à 10 cm de grand axe, en dehors de la face et de la main |
+Parage et/ ou suture de plaie profonde de la peau et des tissus mous de 3 cm à 10 cm de grand axe, en dehors de la face et de la main |
 
 QZJA001 |
 
-Parage et/ou suture de plaie profonde de la peau et des tissus mous de plus de 10 cm de grand axe, en dehors de la face et de la main |
+Parage et/ ou suture de plaie profonde de la peau et des tissus mous de plus de 10 cm de grand axe, en dehors de la face et de la main |
 
 Réduction orthopédique d'une fracture ou luxation-fracture |
 
@@ -122,7 +120,7 @@ Réduction orthopédique de fracture ou de décollement épiphysaire de l'extré
 
 MCEP002 |
 
-Réduction orthopédique de fracture ou de décollement épiphysaire de l'extrémité proximale et/ou de fracture de la diaphyse d'un os ou des 2 os de l'avant-bras |
+Réduction orthopédique de fracture ou de décollement épiphysaire de l'extrémité proximale et/ ou de fracture de la diaphyse d'un os ou des 2 os de l'avant-bras |
 
 MDEP001 |
 
@@ -134,11 +132,11 @@ Réduction orthopédique d'une fracture d'un os de la main |
 
 MGEP002 |
 
-Réduction orthopédique de fracture du carpe et/ou d'une luxation du poignet |
+Réduction orthopédique de fracture du carpe et/ ou d'une luxation du poignet |
 
 MHEP001 |
 
-Réduction orthopédique de plusieurs luxations et/ou luxations-fractures métacarpophalangiennes et/ou interphalangiennes de doigt |
+Réduction orthopédique de plusieurs luxations et/ ou luxations-fractures métacarpophalangiennes et/ ou interphalangiennes de doigt |
 
 MHEP002 |
 
@@ -158,7 +156,7 @@ Réduction orthopédique d'une luxation ou d'une luxation-fracture de l'articula
 
 NDEP001 |
 
-Réduction orthopédique de fracture et/ou de luxation de l'avant-pied |
+Réduction orthopédique de fracture et/ ou de luxation de l'avant-pied |
 
 NGEP001 |
 
@@ -172,7 +170,7 @@ Ablation de corps étranger profond de la peau et des tissus mous |
 
 QAGA001 |
 
-Ablation de plusieurs corps étrangers profonds de la peau et des tissus mous du visage et/ou des mains |
+Ablation de plusieurs corps étrangers profonds de la peau et des tissus mous du visage et/ ou des mains |
 
 QAGA004 |
 
@@ -186,9 +184,11 @@ QZGA006 |
 
 Ablation de plusieurs corps étrangers profonds de la peau et des tissus mous, en dehors du visage et des mains |
 
-Evacuation de collection profonde, Traitement d'une thrombose hémorroïdaire,
+Evacuation de collection profonde,
 
-Panaris |
+Traitement d'une thrombose
+
+hémorroïdaire, Panaris |
 
 CAJA001 |
 
