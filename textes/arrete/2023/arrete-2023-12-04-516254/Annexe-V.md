@@ -1,14 +1,10 @@
-# Article LEGIARTI000047651189
+# Article Annexe V
 
-ANNEXE
-
-LISTE DES PLATEAUX TECHNIQUES SPECIALISÉS MENTIONNÉE À L'ARTICLE L. 612-23-7 DU CODE DE LA SÉCURITÉ SOCIALE
+LISTE DES PLATEAUX TECHNIQUES SPÉCIALISÉS MENTIONNÉE À L'ARTICLE L. 162-23-7 DU CODE DE LA SÉCURITÉ SOCIALE
 
 Libellé du plateau technique spécialisé |
 
-Année de création
-
-au niveau national |
+Année de création au niveau national |
 
 Balnéothérapie |
 
