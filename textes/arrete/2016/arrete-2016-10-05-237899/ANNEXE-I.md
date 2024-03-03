@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-INSTALLATIONS RELEVANT DU CODE DE L'ENVIRONNEMENT GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2023
+INSTALLATIONS RELEVANT DU CODE DE L'ENVIRONNEMENT GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2024
 
 Bassin minier Centre Ouest |
 
@@ -14,25 +14,37 @@ Nature de l'installation |
 
 Nom de l'installation |
 
-Le Châtelet |
+le Châtelet |
 
 Budeliere |
 
-Le Châtelet |
+le Châtelet |
 
 Dépôt de résidus |
 
-Couverture des résidus |
+couverture des résidus |
 
-Le Châtelet |
+le Châtelet |
 
 Budeliere |
 
-Le Châtelet |
+le Châtelet |
 
 Dépôt de résidus |
 
-Alvéole de confinement |
+alvéole de confinement |
+
+Ouche |
+
+Massiac |
+
+Ouche |
+
+Dépôt de résidus |
+
+Stockage de résidus miniers
+
+d'Ouche |
 
 Bassin minier Est |
 
@@ -54,7 +66,7 @@ Cokerie de Marienau |
 
 Equipements de rétention d'effluents pétroliers |
 
-Séparateur des zones A et B |
+séparateur des zones A et B |
 
 Pechelbronn |
 
@@ -94,7 +106,7 @@ Puits II et V |
 
 Events |
 
-PCS-5-rue-W-Aai _ 1et |
+PCS-5-rue-W-Aai _ 1etage |
 
 Pechelbronn |
 
@@ -104,7 +116,7 @@ Puits II et V |
 
 Events |
 
-PCS-5-rue-W-Aai _ RDC |
+PCS-5-rue-W-Aai _ rdc |
 
 Pechelbronn |
 
@@ -114,7 +126,7 @@ Puits II et V |
 
 Events |
 
-PCS-5-rue-W-AAI _ Cave |
+PCS-5-rue-W-Aai _ Cave |
 
 Pechelbronn |
 
@@ -144,7 +156,7 @@ Puits II et V |
 
 Events |
 
-PCS-3-rue-W-AAI _ Cave |
+PCS-3-rue-W-Aai _ Cave |
 
 Pechelbronn |
 
@@ -154,7 +166,7 @@ Puits II et V |
 
 Events |
 
-PCS-3-rue-W-Aai _ rez-de-ch-séjour |
+PCS-3-rue-W-Aai _ rdc-séjour |
 
 Pechelbronn |
 
@@ -314,7 +326,7 @@ Lampersloch |
 
 Events |
 
-AA EXT-Z1-1 |
+Aae-Z1-1 |
 
 De Wendel H |
 
@@ -434,7 +446,7 @@ Durrenbach |
 
 Forage de dépollution |
 
-Forage fuyard-108 |
+Forage Fuyard-108 |
 
 Pechelbronn |
 
@@ -444,7 +456,7 @@ Haguenau |
 
 Forage de dépollution |
 
-Forage fuyard-1684 |
+Forage Fuyard-1684 |
 
 Pechelbronn |
 
@@ -454,7 +466,7 @@ Kutzenhausen |
 
 Forage de dépollution |
 
-Forage fuyard-2761 |
+Forage Fuyard-2761 |
 
 Pechelbronn |
 
@@ -464,7 +476,7 @@ Kutzenhausen |
 
 Forage de dépollution |
 
-Forage fuyard-3059 |
+Forage Fuyard-3059 |
 
 Pechelbronn |
 
@@ -474,7 +486,7 @@ Kutzenhausen |
 
 Forage de dépollution |
 
-Forage fuyard-3068 |
+Forage Fuyard-3068 |
 
 Pechelbronn |
 
@@ -484,7 +496,7 @@ Kutzenhausen |
 
 Forage de dépollution |
 
-Forage fuyard-3969 |
+Forage Fuyard-3969 |
 
 Pechelbronn |
 
@@ -494,7 +506,7 @@ Kutzenhausen |
 
 Forage de dépollution |
 
-Forage fuyard-3349 |
+Forage Fuyard-3349 |
 
 Pechelbronn |
 
@@ -504,7 +516,7 @@ Merkwiller Pechelbronn |
 
 Forage de dépollution |
 
-Forage fuyard-459 |
+Forage Fuyard-459 |
 
 Pechelbronn |
 
@@ -514,7 +526,7 @@ Surbourg |
 
 Forage de dépollution |
 
-Forage fuyard-2962 |
+Forage Fuyard-2962 |
 
 Pechelbronn |
 
@@ -524,7 +536,7 @@ Surbourg |
 
 Forage de dépollution |
 
-Forage fuyard-3103 |
+Forage Fuyard-3103 |
 
 Sarre et Moselle |
 
@@ -1114,11 +1126,11 @@ Petite Rosselle |
 
 Stations de captage et de compression de gaz de mine |
 
-Saint-Charles |
+Saint Charles |
 
 Sarre et Moselle |
 
-Saint-Avold |
+Saint Avold |
 
 (vide) |
 
@@ -1134,7 +1146,7 @@ Ungersheim, Wittelsheim, Wittenheim, Staffelfelden, Pulversheim, Ruelisheim, Fel
 
 Canalisations |
 
-Saumoduc (Réseaux d'évacuation des eaux salées) |
+Saumoduc (Réseaux d'évacuation des eaux saléees) |
 
 Alex Ouest |
 
@@ -2086,6 +2098,16 @@ Piézomètres |
 
 04131X0552/ MAX1S |
 
+Hors titre minier |
+
+Wittelsheim |
+
+Amelie |
+
+Piézomètre |
+
+04131X0422/ F10A |
+
 Anna |
 
 Kingersheim |
@@ -2518,7 +2540,7 @@ Piézomètres |
 
 Hors concession |
 
-FESSENHEIM |
+Fessenheim |
 
 Hors secteurs |
 
@@ -2528,7 +2550,7 @@ Piézomètres |
 
 Hors concession |
 
-MUNCHHOUSE |
+Munchhouse |
 
 Saumoduc |
 
@@ -2538,7 +2560,7 @@ Piézomètres |
 
 Hors concession |
 
-MUNCHHOUSE |
+Munchhouse |
 
 Saumoduc |
 
@@ -2548,7 +2570,7 @@ Piézomètres |
 
 Hors concession |
 
-MUNCHHOUSE |
+Munchhouse |
 
 Saumoduc |
 
@@ -2558,7 +2580,7 @@ Piézomètres |
 
 Hors concession |
 
-MUNCHHOUSE |
+Munchhouse |
 
 Saumoduc |
 
@@ -2568,7 +2590,7 @@ Piézomètres |
 
 Hors concession |
 
-MUNWILLER |
+Munwiller |
 
 Hors secteurs |
 
@@ -2578,7 +2600,7 @@ Piézomètres |
 
 Hors concession |
 
-REGUISHEIM |
+Reguisheim |
 
 Hors secteurs |
 
@@ -2588,7 +2610,7 @@ Piézomètres |
 
 Hors concession |
 
-REGUISHEIM |
+Reguisheim |
 
 Saumoduc |
 
@@ -2598,7 +2620,7 @@ Piézomètres |
 
 Hors concession |
 
-ROGGENHOUSE |
+Roggenhouse |
 
 Saumoduc |
 
@@ -2608,7 +2630,7 @@ Piézomètres |
 
 Hors concession |
 
-RUMERSHEIM-LE-HAUT |
+Rumersheim-le-haut |
 
 Saumoduc |
 
@@ -2618,7 +2640,7 @@ Piézomètres |
 
 Hors concession |
 
-RUMERSHEIM-LE-HAUT |
+Rumersheim-le-haut |
 
 Saumoduc |
 
@@ -2628,7 +2650,7 @@ Piézomètres |
 
 Hors concession |
 
-RUMERSHEIM-LE-HAUT |
+Rumersheim-le-haut |
 
 Saumoduc |
 
@@ -2676,7 +2698,7 @@ Piézomètres |
 
 04132X1201/ PZ40M |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2686,7 +2708,7 @@ Piézomètres |
 
 04131X0142/ P2 |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2696,7 +2718,7 @@ Piézomètres |
 
 04131X0143/ P3 |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2706,7 +2728,7 @@ Piézomètres |
 
 04131X0144/ P4 |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2716,7 +2738,7 @@ Piézomètres |
 
 04131X0512/ ML1 |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2726,7 +2748,7 @@ Piézomètres |
 
 04131X0513/ ML2 |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2736,7 +2758,7 @@ Piézomètres |
 
 04131X0542/ VLSP |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2788,7 +2810,7 @@ Piézomètres |
 
 Max |
 
-RICHWILLER |
+Richwiller |
 
 Hors secteurs |
 
@@ -2798,7 +2820,7 @@ Piézomètres |
 
 Max |
 
-RICHWILLER |
+Richwiller |
 
 Hors secteurs |
 
@@ -3588,7 +3610,7 @@ Piézomètres |
 
 Thérèse VII |
 
-REGUISHEIM |
+Reguisheim |
 
 Hors secteurs |
 
@@ -3940,7 +3962,7 @@ PZC6 |
 
 Bruay |
 
-Bruay-La-Buissière |
+Bruay La Buissière |
 
 Cokerie de Gosnay |
 
@@ -4356,7 +4378,7 @@ Terril 113 |
 
 Piézomètres |
 
-PZcC |
+PZsC |
 
 Dourges |
 
@@ -4366,7 +4388,7 @@ Terril 113 |
 
 Piézomètres |
 
-PZcD |
+PZsD |
 
 Dourges |
 
@@ -4376,11 +4398,11 @@ Terril 113 |
 
 Piézomètres |
 
-PZcE |
+PZsE |
 
 Dourges |
 
-Hénin-Beaumont |
+Hénin Beaumont |
 
 Friche Sainte Henriette |
 
@@ -4390,7 +4412,7 @@ PZC2 |
 
 Dourges |
 
-Hénin-Beaumont |
+Hénin Beaumont |
 
 Friche Sainte Henriette |
 
@@ -4400,7 +4422,7 @@ PZC2 bis |
 
 Dourges |
 
-Hénin-Beaumont |
+Hénin Beaumont |
 
 Lavoir du 10 d'Oignies |
 
@@ -4428,6 +4450,16 @@ Piézomètres |
 
 PZC5 |
 
+Dourges |
+
+Noyelles-Godault |
+
+Friche Ste Henriette |
+
+Piézomètre |
+
+PZcA |
+
 Drocourt |
 
 Drocourt |
@@ -4440,7 +4472,7 @@ PZCII |
 
 Drocourt |
 
-Hénin-Beaumont |
+Hénin Beaumont |
 
 Terril 205 Cokerie de Drocourt |
 
@@ -4450,7 +4482,7 @@ PZC1 |
 
 Drocourt |
 
-Hénin-Beaumont |
+Hénin Beaumont |
 
 Terril 205 Cokerie de Drocourt |
 
@@ -4460,7 +4492,7 @@ PZC3 |
 
 Drocourt |
 
-Hénin-Beaumont |
+Hénin Beaumont |
 
 Terril 205 Cokerie de Drocourt |
 
@@ -4470,7 +4502,7 @@ PZC5 |
 
 Drocourt |
 
-Hénin-Beaumont |
+Hénin Beaumont |
 
 Terril 205 Cokerie de Drocourt |
 
@@ -4480,7 +4512,7 @@ PZCV |
 
 Drocourt |
 
-Hénin-Beaumont |
+Hénin Beaumont |
 
 Terril 205 Cokerie de Drocourt |
 
@@ -4490,7 +4522,7 @@ PZCVI |
 
 Drocourt |
 
-Hénin-Beaumont |
+Hénin Beaumont |
 
 Terril 205 Cokerie de Drocourt |
 
@@ -4962,7 +4994,7 @@ Noeux |
 
 Labourse |
 
-Cokerie de Nœux-les-Mines |
+Cokerie de Noeux les Mines |
 
 Piézomètres |
 
@@ -4972,7 +5004,7 @@ Noeux |
 
 Labourse |
 
-Cokerie de Nœux-les-Mines |
+Cokerie de Noeux les Mines |
 
 Piézomètres |
 
@@ -4982,7 +5014,7 @@ Noeux |
 
 Labourse |
 
-Cokerie de Nœux-les-Mines |
+Cokerie de Noeux les Mines |
 
 Piézomètres |
 
@@ -4992,7 +5024,7 @@ Noeux |
 
 Labourse |
 
-Cokerie de Nœux-les-Mines |
+Cokerie de Noeux les Mines |
 
 Piézomètres |
 
@@ -5000,9 +5032,9 @@ PZC6bis |
 
 Noeux |
 
-Nœux-les-Mines |
+Noeux les Mines |
 
-Cokerie de Nœux-les-Mines |
+Cokerie de Noeux les Mines |
 
 Piézomètres |
 
@@ -5010,9 +5042,9 @@ PZC5 |
 
 Noeux |
 
-Nœux-les-Mines |
+Noeux les Mines |
 
-Cokerie de Nœux-les-Mines |
+Cokerie de Noeux les Mines |
 
 Piézomètres |
 
@@ -5020,9 +5052,9 @@ PZC7 |
 
 Noeux |
 
-Nœux-les-Mines |
+Noeux les Mines |
 
-Cokerie de Nœux-les-Mines |
+Cokerie de Noeux les Mines |
 
 Piézomètres |
 
@@ -5068,7 +5100,7 @@ Piézomètres |
 
 PZS8 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Escautpont |
 
@@ -5078,7 +5110,7 @@ Piézomètres |
 
 PZC13 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Escautpont |
 
@@ -5088,7 +5120,7 @@ Piézomètres |
 
 PZC7 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Escautpont |
 
@@ -5098,7 +5130,7 @@ Piézomètres |
 
 PZS11 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Escautpont |
 
@@ -5108,7 +5140,7 @@ Piézomètres |
 
 PZS15 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Escautpont |
 
@@ -5118,7 +5150,7 @@ Piézomètres |
 
 PZS16 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Escautpont |
 
@@ -5128,7 +5160,7 @@ Piézomètres |
 
 PZS9 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Onnaing |
 
@@ -5138,7 +5170,7 @@ Piézomètres |
 
 PZC12 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Onnaing |
 
@@ -5148,7 +5180,7 @@ Piézomètres |
 
 PZC25 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Onnaing |
 
@@ -5158,7 +5190,7 @@ Piézomètres |
 
 PZS17 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Onnaing |
 
@@ -5168,7 +5200,7 @@ Piézomètres |
 
 PZS18 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Onnaing |
 
@@ -5178,7 +5210,7 @@ Piézomètres |
 
 PZS19 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Onnaing |
 
@@ -5188,7 +5220,7 @@ Piézomètres |
 
 PZS28 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Onnaing |
 
@@ -5198,7 +5230,7 @@ Piézomètres |
 
 PZC26 |
 
-Saint-Saulve |
+Saint Saulve |
 
 Onnaing |
 
@@ -5208,9 +5240,9 @@ Piézomètres |
 
 PZC27bis |
 
-Saint-Saulve |
+Saint Saulve |
 
-Saint-Saulve |
+Saint Saulve |
 
 Cokerie de Thiers |
 
@@ -5218,9 +5250,9 @@ Piézomètres |
 
 PZC10 |
 
-Saint-Saulve |
+Saint Saulve |
 
-Saint-Saulve |
+Saint Saulve |
 
 Cokerie de Thiers |
 
@@ -5718,26 +5750,6 @@ La Combe du Saut |
 
 Piézomètres |
 
-AD14 |
-
-Hors concession |
-
-Limousis |
-
-La Combe du Saut |
-
-Piézomètres |
-
-AD15 |
-
-Hors concession |
-
-Limousis |
-
-La Combe du Saut |
-
-Piézomètres |
-
 AD16 |
 
 Hors concession |
@@ -5808,7 +5820,7 @@ Montredon |
 
 Piézomètres |
 
-PZcentral |
+Pz _ ex _ pomp _ auto |
 
 Hors concession |
 
@@ -5842,7 +5854,7 @@ PZ18-01 |
 
 Hors concession |
 
-Salsigne |
+Lastours |
 
 Montredon |
 
@@ -5878,11 +5890,11 @@ Montredon |
 
 Piézomètres |
 
-SPO |
+PzOuest |
 
 Hors concession |
 
-Salsigne |
+Lastours |
 
 Montredon |
 
@@ -5902,7 +5914,7 @@ PZ09-03 |
 
 Hors concession |
 
-Conques sur Orbiel |
+Limousis |
 
 La Combe du Saut |
 
@@ -5998,7 +6010,7 @@ Artus |
 
 Prélèvements d'eaux de surface |
 
-Drains et penstocks |
+Art _ Drain _ sup _ Central |
 
 Hors concession |
 
@@ -6019,6 +6031,56 @@ Artus |
 Prélèvements d'eaux de surface |
 
 Fossé Sud |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+Art _ Penstock |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+Art _ Drain _ sup _ Nord |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+Art _ Drain _ sup _ Sud |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+Drain _ Nord _ alvéole _ étanche |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+Drain _ Sud _ alvéole _ étanche |
 
 Hors concession |
 
@@ -6092,7 +6154,7 @@ Grésillou _ E |
 
 Hors concession |
 
-Lastours |
+Villanière |
 
 Grésillou |
 
@@ -6102,7 +6164,7 @@ Grésillou _ F |
 
 Hors concession |
 
-Lastours |
+Villanière |
 
 Grésillou |
 
@@ -6142,7 +6204,7 @@ Lagune d'infiltration |
 
 Hors concession |
 
-Limousis |
+Lastours |
 
 La Combe du Saut |
 
@@ -6162,7 +6224,7 @@ Orbiel Gué Lassac |
 
 Hors concession |
 
-Limousis |
+Lastours |
 
 La Combe du Saut |
 
@@ -6212,7 +6274,7 @@ RM1 |
 
 Hors concession |
 
-Salsigne |
+Limousis |
 
 Montredon |
 
@@ -6222,17 +6284,7 @@ RM2 |
 
 Hors concession |
 
-Salsigne |
-
-Orbiel |
-
-Prélèvements d'eaux de surface |
-
-Peyre Brune |
-
-Hors concession |
-
-Villanière |
+Lastours |
 
 Orbiel |
 
@@ -6242,7 +6294,7 @@ Orbiel _ amont _ Grésillou |
 
 Hors concession |
 
-Villanière |
+Lastours |
 
 Orbiel |
 
@@ -6258,7 +6310,7 @@ Ru sec |
 
 Prélèvements d'eaux de surface |
 
-Ru Sec amont Orbiel |
+Ru Sec amont Orbiel (RuS8) |
 
 Hors concession |
 
@@ -6342,13 +6394,43 @@ Orbiel amont village des Ilhes (LASTOURS0) |
 
 Hors concession |
 
+Sallèles-Cabardès |
+
+La Combe du Saut |
+
+Prélèvements d'eaux de surface |
+
+Béal de Sindilla |
+
+Hors concession |
+
+Villalier |
+
+Orbiel |
+
+Prélèvements d'eaux de surface |
+
+Orbiel _ Villalier |
+
+Hors concession |
+
+Trèbes |
+
+Orbiel |
+
+Prélèvements d'eaux de surface |
+
+Orbiel _ Trèbes |
+
+Hors concession |
+
 Limousis |
 
 Artus |
 
 Réseaux de nivellement |
 
-Bassin de l'Artus |
+Stockage de l'Artus |
 
 Hors concession |
 
@@ -6358,7 +6440,7 @@ Montredon |
 
 Réseaux de nivellement |
 
-Bassin de Montredon |
+Stockage de Montredon |
 
 Hors concession |
 
@@ -6368,7 +6450,7 @@ La Combe du Saut |
 
 Stations de traitement des eaux |
 
-Station de dépollution des eaux |
+Station de dépollution des eaux de la Combe du Saut |
 
 Hors concession |
 
@@ -6559,3 +6641,13 @@ Cote Gravelle |
 Dépôt de résidus |
 
 Côte Gravelle |
+
+Malines |
+
+Montardier |
+
+Malines |
+
+Dépôt de résidus |
+
+Dépôt des Malines |

@@ -1,6 +1,6 @@
 # Article ANNEXE II
 
-INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER, GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2023
+INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER, GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2024
 
 Bassin minier Centre Ouest |
 
@@ -66,7 +66,7 @@ Les Mouillères |
 
 Barbery |
 
-Saint-Germain le Vasson |
+Saint Germain le Vasson |
 
 (vide) |
 
@@ -82,7 +82,7 @@ Soumont Saint Quentin |
 
 Emergences minières |
 
-Galerie de Saint-Quentin (flanc Sud) |
+Galerie de Saint Quentin (flanc Sud) |
 
 Jurques |
 
@@ -116,33 +116,33 @@ TB 220 |
 
 Le Périmètre de l'Aumance |
 
-Saint-Hilaire |
+Saint Hilaire |
 
 (vide) |
 
 Piézomètres |
 
-Saint-Charles |
+Saint Charles |
 
 Le Périmètre de l'Aumance |
 
-Saint-Hilaire |
+Saint Hilaire |
 
 (vide) |
 
 Piézomètres |
 
-Sainte-Marie |
+Sainte Marie |
 
 Le Périmètre de l'Aumance |
 
-Saint-Hilaire |
+Saint Hilaire |
 
 (vide) |
 
 Piézomètres |
 
-Saint-Hilaire |
+Saint Hilaire |
 
 Le Périmètre de l'Aumance |
 
@@ -184,6 +184,16 @@ Stations de traitement des eaux |
 
 IHS de Bodennec |
 
+Lopérec |
+
+Lopérec |
+
+site de Lopérec |
+
+Station de traitement des eaux |
+
+Lopérec |
+
 La Vernade |
 
 Saint Eloy les Mines |
@@ -210,7 +220,7 @@ De Wendel H |
 
 Petite Rosselle |
 
-Bassin Saint-Charles |
+Bassin Saint Charles |
 
 Canalisations |
 
@@ -224,7 +234,7 @@ Petite Rosselle |
 
 Digues |
 
-Bassin Saint-Charles |
+Bassin St Charles |
 
 De Wendel H |
 
@@ -464,16 +474,6 @@ Schoeneck |
 
 Piézomètres |
 
-P50 |
-
-De Wendel H |
-
-Schoeneck |
-
-(vide) |
-
-Piézomètres |
-
 SP 2007 01 |
 
 La Houve |
@@ -588,7 +588,7 @@ LH 2017 01 |
 
 Sarre et Moselle |
 
-Betting les Saint-Avold |
+Betting les Saint Avold |
 
 (vide) |
 
@@ -598,7 +598,7 @@ BET ALL 1 |
 
 Sarre et Moselle |
 
-Betting les Saint-Avold |
+Betting les Saint Avold |
 
 (vide) |
 
@@ -608,7 +608,7 @@ BET ALL 2 |
 
 Sarre et Moselle |
 
-Betting les Saint-Avold |
+Betting les Saint Avold |
 
 (vide) |
 
@@ -618,7 +618,7 @@ BET ALL 3 |
 
 Sarre et Moselle |
 
-Betting les Saint-Avold |
+Betting les Saint Avold |
 
 (vide) |
 
@@ -628,7 +628,7 @@ BET GTI 1 |
 
 Sarre et Moselle |
 
-Betting les Saint-Avold |
+Betting les Saint Avold |
 
 (vide) |
 
@@ -792,6 +792,16 @@ Creutzwald |
 
 (vide) |
 
+Piézomètre |
+
+CREU ALL 2 |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
 Piézomètres |
 
 CREU-GTi 1 |
@@ -895,16 +905,6 @@ Creutzwald |
 Piézomètres |
 
 CREU-All 8 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
-CREU-All 11 |
 
 Sarre et Moselle |
 
@@ -1198,7 +1198,7 @@ Puits 2 |
 
 Sarre et Moselle |
 
-Saint-Avold |
+Saint Avold |
 
 (vide) |
 
@@ -1208,7 +1208,7 @@ STAV ALL 2 |
 
 Sarre et Moselle |
 
-Saint-Avold |
+Saint Avold |
 
 (vide) |
 
@@ -1336,6 +1336,36 @@ Stations de pompage |
 
 Puits Vouters |
 
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+Carrière de Merlebach |
+
+Niveau d'eau |
+
+Fosse Freyming |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+Carrière de Merlebach |
+
+Niveau d'eau |
+
+Bassin de décantation |
+
+De Wendel H |
+
+Schoeneck |
+
+Carrière Simon |
+
+Niveau d'eau |
+
+Zone humide |
+
 Amodiation du Warndt-Allemagne |
 
 Grossrosseln |
@@ -1404,7 +1434,7 @@ Creutzwald |
 
 Stations de traitement des eaux |
 
-Creutzwald |
+La houve |
 
 Sarre et Moselle |
 
@@ -1616,7 +1646,7 @@ Pecquencourt |
 
 Stations de relevage des eaux |
 
-Lemay Sainte-Marie |
+Lemay Sainte Marie |
 
 Aniche |
 
@@ -1650,7 +1680,7 @@ Larentis |
 
 Aniche |
 
-Sin-le-Noble |
+Sin le Noble |
 
 (vide) |
 
@@ -1660,7 +1690,7 @@ Berg ob Zoom |
 
 Aniche |
 
-Sin-le-Noble |
+Sin le Noble |
 
 (vide) |
 
@@ -1670,7 +1700,7 @@ Bois des Retz |
 
 Aniche |
 
-Sin-le-Noble |
+Sin le Noble |
 
 (vide) |
 
@@ -1680,7 +1710,7 @@ Godion |
 
 Aniche |
 
-Sin-le-Noble |
+Sin le Noble |
 
 (vide) |
 
@@ -2006,9 +2036,9 @@ Thivencelle |
 
 Stations de relevage des eaux |
 
-Saint-Pierre bis |
+Saint Pierre bis |
 
-Saint-Saulve |
+Saint Saulve |
 
 Onnaing |
 
@@ -2018,7 +2048,7 @@ Stations de relevage des eaux |
 
 Alouettes |
 
-Saint-Saulve |
+Saint Saulve |
 
 Onnaing |
 
@@ -2028,7 +2058,7 @@ Stations de relevage des eaux |
 
 Petit Diable |
 
-Saint-Saulve |
+Saint Saulve |
 
 Onnaing |
 
@@ -2038,7 +2068,7 @@ Stations de relevage des eaux |
 
 Pré le Comte |
 
-Saint-Saulve |
+Saint Saulve |
 
 Vicq |
 
@@ -2048,7 +2078,7 @@ Stations de relevage des eaux |
 
 Gros Charles |
 
-Saint-Saulve |
+Saint Saulve |
 
 Vicq |
 
@@ -2058,9 +2088,9 @@ Stations de relevage des eaux |
 
 Landimoret |
 
-Vieux-Condé |
+Vieux Condé |
 
-Condé-sur-l'Escaut |
+Condé sur l'Escaut |
 
 (vide) |
 
@@ -2068,9 +2098,9 @@ Stations de relevage des eaux |
 
 Canarderie |
 
-Vieux-Condé |
+Vieux Condé |
 
-Condé-sur-l'Escaut |
+Condé sur l'Escaut |
 
 (vide) |
 
@@ -2078,9 +2108,9 @@ Stations de relevage des eaux |
 
 Moulineaux |
 
-Vieux-Condé |
+Vieux Condé |
 
-Vieux-Condé |
+Vieux Condé |
 
 (vide) |
 
@@ -2282,7 +2312,7 @@ Galerie Silhol |
 
 Rochebelle |
 
-Alès |
+Saint Martin de Valgalgues |
 
 (vide) |
 
@@ -2308,11 +2338,11 @@ Alès |
 
 Emergences minières |
 
-Galerie Saint-Pierre |
+Galerie Saint Pierre |
 
 Rochebelle |
 
-Saint Martin de Valgalgues |
+Alès |
 
 (vide) |
 
@@ -2642,7 +2672,7 @@ Galerie N6 Comberamis |
 
 La Motte d'Aveillans |
 
-La Motte Saint-Martin |
+La Motte Saint Martin |
 
 (vide) |
 
@@ -2652,13 +2682,23 @@ Galerie de la Faurie |
 
 La Motte d'Aveillans |
 
-La Motte Saint-Martin |
+La Motte Saint Martin |
 
 (vide) |
 
 Emergences minières |
 
 Galerie N3 sous la Molière |
+
+Mirabel |
+
+Le Fel |
+
+Mirabel-Enguialès |
+
+Emergences minières |
+
+TB 465 |
 
 Montrambert |
 
@@ -2752,7 +2792,7 @@ Villars |
 
 Terrenoire |
 
-Saint-Étienne |
+Saint Etienne |
 
 (vide) |
 
@@ -3040,6 +3080,16 @@ Stations de traitement des eaux |
 
 Station de traitement de Largentière |
 
+Saint Julien de la Nef |
+
+Saint Laurent le Minier |
+
+Malines |
+
+Station de traitement des eaux |
+
+Station de traitement des Malines |
+
 Escaro |
 
 Souanyas |
@@ -3089,3 +3139,13 @@ San Culgat |
 Buse de pied de verse |
 
 BUSE PIED |
+
+Peyrebrune |
+
+Montredon-Labessonnié |
+
+Peyrebrune |
+
+IHS |
+
+Déviation du Lézert |
