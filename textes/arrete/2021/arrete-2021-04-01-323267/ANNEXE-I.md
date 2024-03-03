@@ -4,6 +4,28 @@ LISTE, PAR RÉGION, DES MÉTIERS OUVERTS AUX ÉTRANGERS NON RESSORTISSANTS D'UN 
 
 Régions métropolitaines
 
+Pour l'ensemble des régions métropolitaines :
+
+Familles professionnelles |
+
+Code FAP |
+
+Agriculteurs salariés |
+
+A0Z40 |
+
+Éleveurs salariés |
+
+A0Z41 |
+
+Maraîchers, horticulteurs salariés |
+
+A1Z40 |
+
+Viticulteurs, arboriculteurs salariés |
+
+A1Z42 |
+
 Auvergne-Rhône-Alpes
 
 Familles professionnelles |
@@ -74,10 +96,6 @@ Maîtres d'hôtel |
 
 S2Z80 |
 
-Maraîchers, horticulteurs salariés |
-
-A1Z40 |
-
 Monteurs, ajusteurs et autres ouvriers qualifiés de la mécanique |
 
 D4Z40 |
@@ -125,10 +143,6 @@ G1Z70 |
 Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques |
 
 F5Z70 |
-
-Viticulteurs, arboriculteurs salariés |
-
-A1Z42 |
 
 Bourgogne-Franche-Comté
 
@@ -306,10 +320,6 @@ Dessinateurs en mécanique et travail des métaux |
 
 D6Z71 |
 
-Éleveurs salariés |
-
-A0Z41 |
-
 Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
 
 B7Z91 |
@@ -391,10 +401,6 @@ Code FAP |
 Agents de maîtrise et assimilés des industries de process |
 
 E2Z80 |
-
-Agriculteurs salariés |
-
-A0Z40 |
 
 Aides à domicile et aides ménagères |
 
@@ -670,10 +676,6 @@ Agents de maîtrise et assimilés des industries de process |
 
 E2Z80 |
 
-Agriculteurs salariés |
-
-A0Z40 |
-
 Aides-soignants |
 
 V0Z60 |
@@ -709,10 +711,6 @@ J3Z43 |
 Dessinateurs en mécanique et travail des métaux |
 
 D6Z71 |
-
-Éleveurs salariés |
-
-A0Z41 |
 
 Infirmiers |
 
@@ -1048,10 +1046,6 @@ Agents de maîtrise et assimilés des industries de process |
 
 E2Z80 |
 
-Agriculteurs salariés |
-
-A0Z40 |
-
 Bouchers |
 
 S0Z40 |
@@ -1160,10 +1154,6 @@ Tuyauteurs |
 
 D2Z41 |
 
-Viticulteurs, arboriculteurs salariés |
-
-A1Z42 |
-
 Occitanie
 
 Familles professionnelles |
@@ -1254,10 +1244,6 @@ Maçons |
 
 B2Z40 |
 
-Maraîchers, horticulteurs salariés |
-
-A1Z40 |
-
 Ouvriers non qualifiés des industries agro-alimentaires |
 
 E0Z21 |
@@ -1285,10 +1271,6 @@ B6Z71 |
 Techniciens médicaux et préparateurs |
 
 V3Z70 |
-
-Viticulteurs, arboriculteurs salariés |
-
-A1Z42 |
 
 Pays de la Loire
 
