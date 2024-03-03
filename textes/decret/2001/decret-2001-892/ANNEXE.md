@@ -38,7 +38,7 @@ Assistant de secrétariat des sections administratives.
 
 Régisseur (secrétariat général).
 
-Responsable de la préparation informatique des documents de la section du rapport et des études.
+Responsable de la préparation informatique des documents de la section des études, de la prospective et de la coopération.
 
 Adjoint du responsable du service de reprodiffusion.
 
@@ -86,7 +86,7 @@ Assistant de secrétariat au bureau des greffes.
 
 Responsable de la tenue des inventaires mobilier national.
 
-Secrétariat particulier du président de la section du rapport et des études.
+Secrétariat particulier du président de la section des études, de la prospective et de la coopération.
 
 Gestionnaire financier et comptable (chargé des frais et ordre de mission).
 

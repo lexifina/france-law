@@ -42,7 +42,7 @@ Assistant du régisseur (service " équipement, infrastructure et logistique ").
 
 Assistant de secrétariat et de greffe à la commission spéciale de cassation des pensions.
 
-Responsable de la préparation informatique des documents de la section du rapport et des études.
+Responsable de la préparation informatique des documents de la section des études, de la prospective et de la coopération.
 
 Adjoint au responsable du service de reprodiffusion.
 
@@ -66,7 +66,7 @@ Responsable du magasin des fournitures et de la gestion des stocks.
 
 Responsable des effectifs, des concours et du comité médical.
 
-Assistant du rapporteur général de la section du rapport et des études.
+Assistant du rapporteur général de la section des études, de la prospective et de la coopération.
 
 Secrétaire adjoint des sections administratives.
 
@@ -102,7 +102,7 @@ Assistant de secrétariat au bureau des greffes.
 
 Responsable de la tenue des inventaires Mobilier national.
 
-Secrétariat particulier du président de la section du rapport et des études.
+Secrétariat particulier du président de la section des études, de la prospective et de la coopération.
 
 Gestionnaire financier et comptable (chargé des frais et ordres de mission).
 

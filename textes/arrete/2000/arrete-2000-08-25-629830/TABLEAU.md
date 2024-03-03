@@ -92,9 +92,7 @@ Responsable du bureau central du secrétariat général du Conseil d'Etat.
 
 B
 
-1
-
-12
+112
 
 1er août 1991
 
@@ -238,9 +236,9 @@ C
 
 1
 
-12
+121er
 
-1er août 1992
+août 1992
 
 Revalorisé (+ 8) au 1er août 1995.
 
@@ -272,9 +270,9 @@ C
 
 1
 
-12
+121er
 
-1er août 1992
+août 1992
 
 Assistant de secrétariat et de greffe à la commission spéciale de cassation des pensions.
 
@@ -286,7 +284,7 @@ C
 
 1er août 1992
 
-Responsable de la préparation informatique des documents de la section du rapport et des études.
+Responsable de la préparation informatique des documents de la section des études, de la prospective et de la coopération.
 
 C
 
@@ -332,9 +330,9 @@ A
 
 1
 
-25
+251er
 
-1er août 1993
+août 1993
 
 Responsable du service des analyses de la section du contentieux.
 
@@ -358,9 +356,7 @@ A
 
 Secrétaire de sous-section de la section du contentieux.
 
-A
-
-10
+A10
 
 20
 
@@ -416,11 +412,11 @@ A
 
 1
 
-25
+251er
 
-1er août 1994
+août 1994
 
-Assistant du rapporteur général de la section du rapport et des études.
+Assistant du rapporteur général de la section des études, de la prospective et de la coopération.
 
 A
 
@@ -498,9 +494,9 @@ C
 
 1
 
-10
+101er
 
-1er août 1994
+août 1994
 
 Revalorisé (+ 5) au 1er janvier 1998.
 
@@ -580,9 +576,9 @@ B
 
 1
 
-15
+151er
 
-1er août 1995
+août 1995
 
 Assistant de secrétariat au bureau central.
 
@@ -614,11 +610,9 @@ C
 
 1er août 1995
 
-Secrétariat particulier du président de la section du rapport et des études.
+Secrétariat particulier du président de la section des études, de la prospective et de la coopération.
 
-C
-
-1
+C1
 
 10
 
@@ -672,9 +666,9 @@ A
 
 1
 
-25
+251er
 
-1er août 1996
+août 1996
 
 Responsable du bureau des greffes du service des tribunaux administratifs et des cours administratives d'appel.
 
@@ -702,9 +696,9 @@ B
 
 1
 
-15
+151er
 
-1er août 1996
+août 1996
 
 Responsable de l'équipe de maintenance des immeubles.
 
