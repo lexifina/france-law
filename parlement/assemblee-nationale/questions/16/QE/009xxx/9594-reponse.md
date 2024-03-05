@@ -1,0 +1,9 @@
+# Réponse à la question n° 9594
+
+- Question : [9594](9594.md) — Question n° 9594 — Évaluation nationale sur les maisons de naissance et rythme de déploiement
+
+## Réponse
+
+*JO du 2024-03-05, page 1617*
+
+La demande d'une partie de la population d'avoir accès à un cadre « alternatif » de réalisation des accouchements a été entendue par le Gouvernement, d'abord avec la mise en place d'une expérimentation de huit maisons de naissance de 2013 à 2021, puis par l'inscription dans le cadre juridique de droit commun de ces structures fin 2021. Conformément à l'ambition de soutien des maisons de naissance, portée par la loi de financement de la sécurité sociale pour 2021, le financement correspondant à la création de 5 nouvelles structures a été délégué en 2022, portant à 13 le nombre de celles aujourd'hui en fonctionnement ou en voie d'autorisation sur notre territoire. Ce soutien a vocation à se poursuivre à la faveur de projets devenus matures sur le territoire et le fait que le nombre de maisons de naissance créées et en fonctionnement à ce jour n'atteigne pas les objectifs initialement fixés n'est en rien lié à l'absence d'accompagnement notamment financier, tant au niveau national qu'au niveau régional. La mise en place de telles structures impose un temps important de gestion de projet, en particulier pour les professionnels impliqués, ce qui peut expliquer cette montée en charge progressive. La création d'une maison de naissance impose des réflexions pluridisciplinaires et techniques autour d'un projet commun à plusieurs professionnels, en termes de locaux, d'installations matérielles, de procédures ou encore s'agissant du conventionnement avec la maternité partenaire. Le Gouvernement tient toutefois à rappeler qu'il poursuit l'objectif de création de nouvelles maisons de naissances et l'évaluation nationale est envisagée pour la fin d'année.
