@@ -1,0 +1,39 @@
+# Article 1er
+
+Le chapitresuivant est ajouté après l'article 16 de l'accord du 14 octobre 2021 relatif au dialogue social :
+
+« Chapitre 3   Mise à disposition d'un salarié auprès d'une organisation syndicale ou d'une association d'employeurs
+
+Article 17
+
+Modalités de la mise à disposition
+
+En application des articles L. 2135-7 et L. 2135-8 du code du travail, un salarié peut être mis à disposition d'une organisation syndicale ou d'une association d'employeurs, sous réserve de la conclusion d'une convention de mise à disposition, signée entre l'entreprise et l'organisation syndicale ou l'association d'employeurs, qui précise la durée de la mise à disposition, l'identité et la qualification du salarié ainsi que les obligations respectives des parties.
+
+Dans le cadre de cette mise à disposition, le salarié signe un avenant à son contrat de travail qui précise les horaires de travail, le lieu d'exécution du travail ainsi que les missions confiées au salarié par l'organisation syndicale ou l'association d'employeurs. Pendant la mise à disposition, les obligations de l'employeur à l'égard du salarié sont maintenues conformément à l'article L. 2135-7 du code du travail.
+
+Cette mise à disposition peut être à temps plein ou à temps partiel, auquel cas elle ne peut être inférieure à 1 jour par mois.
+
+(1)
+
+Pendant la mise à disposition, l'entreprise maintient la rémunération totale du salarié et se fait rembourser par l'organisation syndicale ou l'association d'employeurs, sur présentation d'une facture mensuelle sans TVA correspondant à la rémunération brute chargée du temps de mise à disposition.
+
+Le salarié bénéficie des avantages sociaux ou augmentations de salaires attribués pendant sa mise à disposition.
+
+La convention visée au premier alinéa du présent article prévoit des périodes de suspension de la mise à disposition permettant à l'employeur de respecter ses obligations en matière de formation professionnelle définies à l'article L. 6321-1 du code du travail. Cette suspension est déduite de la facturation.
+
+À l'expiration de sa mise à disposition, assortie d'un préavis de 3 mois, le salarié retrouve son précédent emploi ou un emploi similaire assorti d'une rémunération au moins équivalente, intégrant les augmentations moyennes à catégorie professionnelle et ancienneté comparables.
+
+Par ailleurs, l'employeur organisera, au retour du salarié, un entretien visant à faire le point sur :
+
+– le poste de travail retrouvé ;
+
+– les conditions de travail ;
+
+– les souhaits d'évolution ou de réorientation professionnelle ;
+
+– les besoins en formation, et le cas échéant de mise à niveau. »
+
+(1) Le 6e alinéa de l'article 1er est étendu sous réserve de l'application des dispositions des articles L. 2135-7 et L. 2135-8 du code du travail, qui prévoient que les aménagements de nature à permettre à l'employeur de respecter ses obligations en matière de formation professionnelle définies à l'article L. 6321-1 du code du travail ne doivent pas être simplement renvoyés à la convention de mise à disposition, mais être prévus dans la convention collective ou dans un accord collectif de branche ou dans un accord d'entreprise.
+
+(Arrêté du 24 septembre 2024 - art. 1)
