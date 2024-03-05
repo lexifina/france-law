@@ -1,0 +1,9 @@
+# Réponse à la question n° 12637
+
+- Question : [12637](12637.md) — Question n° 12637 — Indemnisation des victimes d'accident du travail
+
+## Réponse
+
+*JO du 2024-03-05, page 1629*
+
+L'article 39 du Projet de loi de financement de la sécurité sociale (PLFSS) pour 2024, dans sa rédaction initiale, avait vocation à transposer dans la loi une mesure demandée à l'unanimité des partenaires sociaux dans l'Accord national interprofessionnel (ANI) du 15 mai 2023. Dans cet accord, les partenaires sociaux ont appelé « le législateur à prendre toutes les mesures nécessaires afin de garantir que la nature duale de la rente Accident du travail-Maladie professionnelle (AT/MP) ne soit pas remise en cause ». L'article 39 du PLFSS transpose précisément cette stipulation, comme l'ont relevé unanimement les partenaires sociaux qui siègent à la commission AT-MP, lors de sa réunion du 5 octobre 2023 et augmente le niveau moyen des rentes servies, comme cela est indiqué dans l'étude d'impact. Cela concerne également les travailleurs qui risquent de perdre leur emploi suite à un AT-MP, par la prise en compte dans le calcul de la part professionnelle de la rente de l'atteinte portée aux perspectives de la victime sur le marché du travail. Toutefois, à la suite du dépôt du projet de loi à l'Assemblée nationale, les organisations syndicales et patronales ont exprimé une divergence quant à la portée et aux implications de l'ANI qu'elles ont signé, notamment sur la question de l'indemnisation des préjudices résultant de la faute inexcusable de l'employeur. Dans ce contexte, les conditions d'une transposition intégrale et fidèle de l'ANI n'étant pas réunies, son processus de transposition a donc été suspendu pour laisser place à de nouvelles discussions entre partenaires sociaux. L'article 39 du PLFSS 2024 a donc été supprimé.
