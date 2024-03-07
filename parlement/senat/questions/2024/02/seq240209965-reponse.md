@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240209965
+
+- Question : [SEQ240209965](seq240209965.md) — Conditions de l'injonction et des délais par des agents pour faire cesser le stationnement abusif
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2024-03-07, page 870*
+
+L'article R. 417-12 du Code de la route prévoit qu'il « est interdit de laisser abusivement un véhicule en stationnement sur une route » et qu'il est « considéré comme abusif le stationnement ininterrompu d'un véhicule en un même point de la voie publique ou de ses dépendances, pendant une durée excédant sept jours ou pendant une durée inférieure mais excédant celle qui est fixée par arrêté de l'autorité investie du pouvoir de police ». Le même article prévoit que tout « stationnement abusif est puni de l'amende prévue pour les contraventions de la deuxième classe ». Cet article prévoit ainsi la définition du stationnement et il revient à l'agent verbalisateur de caractériser l'infraction constatée dans le procès-verbal qui fait foi jusqu'à preuve contraire conformément à l'article 537 du Code de procédure pénale. Le même article du Code de la route prévoit également le moyen de faire cesser immédiatement le trouble à l'ordre public causé par le stationnement abusif en permettant à l'agent verbalisateur de prescrire l'immobilisation et la mise en fourrière du véhicule. Ces mesures peuvent être ainsi prescrites si le conducteur ou le titulaire du certificat d'immatriculation du véhicule est absent ou si ce dernier refuse, malgré l'injonction des agents, de faire cesser le trouble. L'injonction au conducteur ou au titulaire du certificat d'immatriculation du véhicule est à réaliser oralement en sa présence. Le refus de faire cesser le trouble malgré l'injonction réalisée en sa présence peut être indiqué dans la prescription de mise en fourrière.
