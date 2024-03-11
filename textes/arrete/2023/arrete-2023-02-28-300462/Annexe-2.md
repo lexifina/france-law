@@ -124,7 +124,7 @@ Université Paris Panthéon Assas |
 
 LegalTeh et Innovation de l'économie Juridique |
 
-Université Toulouse I |
+Ecole d'économie et de sciences sociales quantitatives de Toulouse - TSE |
 
 |
 
@@ -140,7 +140,7 @@ Intelligence Artificielle, Données et Algorithmes pour la Pratique du Droit |
 
 2021 |
 
-Études Quantitatives des Institutions Politiques (CNRS) |
+Etudes Quantitatives des Institutions Politiques |
 
 |
 
