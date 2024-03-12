@@ -1,0 +1,9 @@
+# Réponse à la question n° 9719
+
+- Question : [9719](9719.md) — Question n° 9719 — Situation de la rémunération des masseurs-kinésithérapeutes
+
+## Réponse
+
+*JO du 2024-03-12, page 1919*
+
+Le Gouvernement a pleinement conscience de la nécessité d'assurer le financement et le rôle des masseurs kinésithérapeutes qui sont un maillon essentiel de l'offre de soins. Les dernières négociations entre l'Assurance maladie et la profession ont abouti à la signature le 13 juillet 2023 d'un avenant proposant des revalorisations significatives pour la profession des masseurs-kinésithérapeutes. Cet avenant propose une revalorisation générale des lettres clef et prévoit la création de nouveaux actes afin de valoriser le rôle des masseurs-kinésithérapeutes dans la prise en charge des patients les plus fragiles. En effet, sont créés un acte de repérage de la fragilité pour les personnes âgées de plus de 70 ans et un acte de rééducation à destination des enfants présentant une paralysie cérébrale ou un polyhandicap. Les actes de rééducation des patients souffrant de pathologies neurologiques et musculaires et les actes de rééducation des affections orthopédiques et rhumatologiques sont revalorisés. En outre, afin d'encourager la prise en charge à domicile, les différentes indemnités de déplacement sont fusionnées avec un tarif unique de 4 € (contre 4 € et 2,5 € auparavant), la mention obligatoire « soins à domicile » est supprimée et la facturation des indemnités kilométriques en « montagne » (0,61 €) est facilitée. Enfin, le rôle de prévention du masseur-kinésithérapeute est promu via la mise en place de groupes de travail relatifs à la prise en charge de l'insuffisance cardiaque chronique et à la reconnaissance de l'expérimentation de prévention des troubles du rachis chez les enfants scolarisés en CM2.
