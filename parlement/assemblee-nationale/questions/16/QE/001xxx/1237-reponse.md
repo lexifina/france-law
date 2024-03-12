@@ -1,0 +1,9 @@
+# Réponse à la question n° 1237
+
+- Question : [1237](1237.md) — Question n° 1237 — Cystite interstitielle
+
+## Réponse
+
+*JO du 2024-03-12, page 1911*
+
+Afin qu'un dispositif puisse être pris en charge par l'assurance maladie, certaines exigences sont à vérifier. Le dispositif doit tout d'abord bénéficier d'un marquage CE permettant d'assurer un premier niveau de sécurité d'utilisation du produit. Au niveau de l'inscription à la liste des produits et prestations remboursables : - le dispositif peut s'inscrire dans des descriptions génériques de produits s'il respecte les exigences minimales requises décrites par un arrêté publié au Journal officiel ; - l'exploitant du dispositif peut également faire une démarche auprès des ministres et de la Haute autorité de santé (HAS) afin d'obtenir une inscription en nom de marque. Une évaluation médico-technique aura alors lieu par la HAS et une négociation tarifaire spécifique avec le Comité économique des produits de santé (CEPS). Ialuril prefill a été évalué pour une inscription en nom de marque par la Commission nationale d'évaluation des dispositifs médicaux et technologies de santé (CNEDIMTS) en 2016. Celle-ci a conclu, après une revue des données cliniques disponibles (dont une étude clinique randomisée sur 110 patientes) et des dernières recommandations, ainsi qu'une audition de l'Association française d'urologie (AFU), à un niveau de service apporté insuffisant pour justifier leur prise en charge par la solidarité nationale. La commission a notamment souligné l'absence de bénéfice démontré dans l'étude clinique soumise. L'évolution des données cliniques disponibles pourrait amener la commission à revoir cet avis. Ainsi, il n'existe pas aujourd'hui de fondement scientifique justifiant la prise en charge par l'assurance maladie de ces dispositifs.
