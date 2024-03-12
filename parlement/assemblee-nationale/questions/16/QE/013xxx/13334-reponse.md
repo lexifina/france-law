@@ -1,0 +1,9 @@
+# Réponse à la question n° 13334
+
+- Question : [13334](13334.md) — Question n° 13334 — Injustice concernant l'attribution de la prime Ségur
+
+## Réponse
+
+*JO du 2024-03-12, page 1937*
+
+Conscient des difficultés rencontrées dans le secteur de l'aide à domicile, le Gouvernement a pris des engagements forts pour développer l'attractivité des métiers de l'accompagnement et de l'aide à domicile et s'est doté d'une stratégie globale qui vise à travailler sur l'ensemble des leviers : conditions de travail et rémunérations, qualité de vie au travail, accès à la formation. Conformément aux engagements suite à la conférence des métiers, le bénéfice du Ségur a été étendu aux aides à domicile employées par les centres communaux d'action sociale et relevant de la fonction publique territoriale. Au niveau de la branche de l'aide à domicile, l'engagement de l'Etat s'est concrétisé par l'agrément de l'avenant 43, permettant des revalorisations historiques de rémunérations de 15 % en moyenne des salaires des employés du secteur associatif. Le gain issu de l'avenant 43 correspond à une revalorisation équivalente moyenne à la prime Ségur. Il convient de noter que cet avenant a également pour but de rendre les carrières plus dynamiques en redéfinissant le système des classifications des emplois, afin de valoriser davantage l'acquisition de compétences et permettre un meilleur accès à la formation professionnelle. Par la suite, l'Etat a également agréé les avenants 51, 52 et 61 permettant la revalorisation de la valeur du point. Enfin, de nouvelles mesures devraient être mises en place pour faciliter les conditions de travail des aides à domicile dans le cadre de la proposition de loi portant mesures pour bâtir une société du bien vieillir en France : déploiement d'une carte professionnelle, création d'un fonds de soutien à la mobilité des aides à domicile à hauteur de 100 millions d'euros par an.
