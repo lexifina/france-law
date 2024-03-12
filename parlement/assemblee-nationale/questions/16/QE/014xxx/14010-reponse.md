@@ -1,0 +1,9 @@
+# Réponse à la question n° 14010
+
+- Question : [14010](14010.md) — Question n° 14010 — Algie vasculaire
+
+## Réponse
+
+*JO du 2024-03-12, page 1947*
+
+L'algie vasculaire de la face est une affection neurologique dont la cause reste encore mal connue. Elle se manifeste par des crises douloureuses strictement unilatérales centrées autour de la zone œil-tempe (orbito-temporale). La céphalée peut être associée à des signes dits végétatifs homolatéraux : œil rouge et/ou larmoyant, œdème et/ou chute de la paupière, narine bouchée avec écoulement nasal, sudation du visage ou du front. Les personnes qui en souffrent peuvent bénéficier d'une prise en charge adaptée dans les structures spécialisées que sont les consultations, unités et centres de lutte contre la douleur chronique. Les algies vasculaires de la face ne sont pas inscrites en tant que telles parmi la liste des Affections de longue durée (ALD) ouvrant droit à l'exonération du ticket modérateur. Toutefois, la prise en charge de la participation de l'assuré à ses frais de traitement peut se faire sur reconnaissance d'une forme évolutive ou invalidante d'une affection grave caractérisée (« ALD 31 ») ou de plusieurs affections caractérisées entraînant un état pathologique invalidant nécessitant des soins continus pour une durée de plus de 6 mois (« ALD 32 »). Par ailleurs, les patients peuvent également faire une demande d'aide financière individuelle auprès de leur caisse primaire d'assurance maladie. En effet, l'action sanitaire et sociale de l'Assurance maladie peut permettre de bénéficier d'une aide financière ponctuelle, en complément des prestations (remboursement des soins, indemnités journalières) habituellement versées. Il est également possible de déposer un dossier auprès d'une maison départementale des personnes handicapées.
