@@ -1,0 +1,9 @@
+# Réponse à la question n° 13553
+
+- Question : [13553](13553.md) — Question n° 13553 — Infirmiers sapeurs-pompiers volontaires
+
+## Réponse
+
+*JO du 2024-03-12, page 1897*
+
+La circulaire NOR INTE 1410478C du 20 mai 2014 du ministère de l'Intérieur et des Outre-mer avait pour objet l'application du décret n° 2013-412 du 17 mai 2013 relatif aux sapeurs-pompiers. Les mesures de ce décret ayant été abrogées, cette circulaire est de fait caduque. Rien ne s'oppose donc, règlementairement, à l'exercice de compétences des domaines du secours et soins d'urgence aux personnes, de lutte contre les incendies ou de protection des personnes, des biens et de l'environnement par les infirmiers, les médecins, les pharmaciens, les vétérinaires, les experts psychologues et les professionnels de santé experts de sapeurs-pompiers volontaires des services d'incendie et de secours. C'est pourquoi certains services départementaux ou territoriaux d'incendie et de secours exploitent déjà cette possibilité, en fonction des compétences préalablement acquises et régulièrement entrenues. Il reste, en effet, indispensable de veiller notamment au respect des compétences requises selon les différentes activités opérationnelles, compétences dûment détenues mais également actualisées, pour chaque activité, dans le cadre des formations continues et de perfectionnement. Pour autant, chaque service d'incendie et de secours souhaitant mettre en œuvre le cumul des missions dévolues aux professionnels de santé, aux vétérinaires et aux experts psychologues avec les autres activités opérationnelles peut préciser les circonstances opérationnelles particulières permettant ce cumul afin, par exemple, de préserver les ressources médicales et paramédicales ou encore de permettre la répartition de la sollicitation opérationnelle selon les effectifs disponibles dans chacun des domaines opérationnels.
