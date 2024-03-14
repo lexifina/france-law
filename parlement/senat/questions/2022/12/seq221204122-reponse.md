@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221204122
+
+- Question : [SEQ221204122](seq221204122.md) — Prise en charge des frais de déplacement pour une consultation médicale en zone rurale
+
+## Réponse
+
+*Travail, santé et solidarités, JO du 2024-03-14, page 1056*
+
+L'accès aux soins, qui ne concerne d'ailleurs pas que les territoires ruraux, est une priorité du Gouvernement. Le « plan pour l'égal accès aux soins dans les territoires » propose des solutions spécifiques identifiées par les acteurs de la santé, les élus locaux et les patients pour que chaque territoire dispose d'un projet de santé adapté et sur-mesure. Face aux difficultés persistantes en matière d'accès aux soins, le Président de la République a souhaité mobiliser les communautés professionnelles territoriales de santé sur cette mission prioritaire. Ces organisations permettent aux différents acteurs de santé (professionnels de santé notamment), situés en différents lieux, de s'organiser et se coordonner pour prendre en charge la population de leur territoire. L'enjeu actuel est de mobiliser tous les leviers existants pour trouver du temps médical, augmenter la file active de patientèle et ainsi augmenter l'attractivité du territoire dans un contexte démographique tendu, où les bénéfices de l'arrêt du numérus clausus ne seront visibles que dans une dizaine d'années. Certaines solutions sont accélérées dans leur déploiement, à l'image des assistants médicaux, dont la cible a été portée à 10 000 à l'horizon 2025 et qui font l'objet d'une aide financière par l'Assurance maladie pour inciter à leur recrutement avec un gain de temps estimé à + 10 % de patients traités. L'accent est mis également sur le déploiement de l'exercice coordonné sous toutes ses formes, qui constitue un levier majeur pour attirer les professionnels de santé et les fixer, y compris dans les zones les plus fragiles.
