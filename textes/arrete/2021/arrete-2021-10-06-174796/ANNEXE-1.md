@@ -6,21 +6,21 @@ TARIFS D'ACHAT ET PRIMES
 
 2. Il est défini un coefficient Si et un coefficient S'i selon les dispositions suivantes :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié à l’adresse suivante :
-
-https://www.legifrance.gouv.fr/download/pdf?id=QRgTaQfM0balM0WO-DVjXkKO-uau9WZMjBpqqb4aoCg=
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 61 du 13 mars 2024, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=RBWSAy5ho2OnmnMdo9AEOWgPlRv7gOmIegJaPV6kUU0=
 
 Avec les données d'entrée définies de la façon suivante :
 
 -l'indice i correspond au trimestre civil de calcul ; le trimestre civil durant lequel l'arrêté tarifaire est entré en vigueur correspond à l'indice i = 0 ;
 
--PPDR trim a, i est, sur l'ensemble du territoire métropolitain, la somme des puissances crêtes des conventions de raccordement signées pour les installations éligibles au tarif Ta et des demandes complètes de raccordement pour les installations éligibles à la prime Pa ;
+-PPDR trim a, i est, sur l'ensemble du territoire métropolitain continental, la somme des puissances crêtes des conventions de raccordement signées pour les installations éligibles au tarif Ta et des demandes complètes de raccordement pour les installations éligibles à la prime Pa ;
 
--PPDR tot a, i est le cumul des puissances PPDR trim a, i pour les trimestres civils allant de 5 à i > 4 ;
+-PPDR tot a, i est le cumul des puissances PPDR trim a, k pour les trimestres civils k allant de 5 à i > 4 ;
 
--PPPE trim a = 37, 92MWc ;
+-PPPE trim a, i = 37,92 MWc pour i < 8 et PPPE trim a, i = 54,64 MWc pour i > = 8 ;
 
--a1 = 0,0145 (1,45 %) ;
+-PPPE tot a, i est le cumul des puissances PPPE trim a, k pour les trimestres civils k allant de 5 à i > 4 ;
+
+-a1 = 0,0145 (1.45 %) ;
 
 -a2 = 0,04 (4 %) ;
 
@@ -28,19 +28,19 @@ Avec les données d'entrée définies de la façon suivante :
 
 3. Il est défini un coefficient Vi et un coefficient V'i selon les dispositions suivantes :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié à l’adresse suivante :
-
-https://www.legifrance.gouv.fr/download/pdf?id=QRgTaQfM0balM0WO-DVjXkKO-uau9WZMjBpqqb4aoCg=
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 61 du 13 mars 2024, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=RBWSAy5ho2OnmnMdo9AEOWgPlRv7gOmIegJaPV6kUU0=
 
 Avec les données d'entrée définies de la façon suivante :
 
 -l'indice i correspond au trimestre civil de calcul, le trimestre civil durant lequel l'arrêté tarifaire est entré en vigueur correspond à l'indice i = 0 ;
 
--PPDR trim b, i est, sur l'ensemble du territoire métropolitain, la somme des puissances crêtes des conventions de raccordement signées pour les installations éligibles au tarif Tb et des demandes complètes de raccordement pour les installations éligibles à la prime Pb ;
+-PPDR trim b, i est, sur l'ensemble du territoire métropolitain continental, la somme des puissances crêtes des conventions de raccordement signées pour les installations éligibles au tarif Tb et des demandes complètes de raccordement pour les installations éligibles à la prime Pb ;
 
--PPDR tot b, i est le cumul des puissances PPDR trim b, i pour les trimestres civils allant de 5 à i > 4 ;
+-PPDR tot b, i est le cumul des puissances PPPE trim b, k pour les trimestres civils k allant de 5 à i > 4 ;
 
--PPPE trim, b = 56, 88MWc ;
+-PPPE trim b, i = 56,88 MWc pour i < 8 et PPPE trim b, i = 81,96 MWc pour i > = 8 ;
+
+-PPE tot b, i est le cumul des puissances PPPE trim b, k pour les trimestres civils k allant de 5 à i > 4 ;
 
 -a1 et a2 définis au 2 de la présente annexe ;
 
@@ -48,21 +48,21 @@ Avec les données d'entrée définies de la façon suivante :
 
 4. Il est défini un coefficient Wi et un coefficient W'i selon les dispositions suivantes :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié à l’adresse suivante :
-
-https://www.legifrance.gouv.fr/download/pdf?id=QRgTaQfM0balM0WO-DVjXkKO-uau9WZMjBpqqb4aoCg=
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 61 du 13 mars 2024, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=RBWSAy5ho2OnmnMdo9AEOWgPlRv7gOmIegJaPV6kUU0=
 
 Avec les données d'entrée définies de la façon suivante :
 
 -l'indice i correspond au trimestre civil de calcul ; le trimestre civil durant lequel l'arrêté est entré en vigueur correspond à l'indice i = 0 ;
 
--PPDR trim c, i est, sur l'ensemble du territoire métropolitain, la somme des puissances crêtes des conventions de raccordement signées pour les installations éligibles au tarif Tc ;
+-PPDR trim c, i est, sur l'ensemble du territoire métropolitain continental, la somme des puissances crêtes des conventions de raccordement signées pour les installations éligibles au tarif Tc ;
 
--PPDR tot c, i est le cumul des puissances PPDR trim c, i pour les trimestres civils allant de 5 à i > 4 ;
+-PPDR tot c, i est le cumul des puissances PPDR trim c, k pour les trimestres civils k allant de 5 à i > 4 ;
 
--PPPE trim, c = 221, 2MWc ;
+-PPPE trim c, i = 221,2 MWc pour i < 8 et PPPE trim c, i = 318,73 MWc pour i > = 8 ;
 
--a1 et a2 définis au 2 de la présente annexe ;
+-PPPE tot c, i est le cumul des puissances PPPE trim c, k pour les trimestres civils k allant de 5 à i > 4 ;
+
+-a1 et a2 définis au 2 de la présente annexe :
 
 -les coefficients W1, W2, W3, W4, W'1, W'2, W'3, W'4, W'5, sont égaux à 0.
 
@@ -212,6 +212,4 @@ La notion de “ même site ” est évaluée au regard des définitions de l'ar
 
 NOTA :
 
-Conformément à l’article 18 de l’arrêté du 22 décembre 2023 (NOR : ENER2328400A), ces dispositions s'appliquent aux installations dont la demande complète de raccordement est postérieure au 22 décembre 2023. Pour les installations dont la demande complète de raccordement est antérieure au 22 décembre 2023, ce sont les dispositions de l'arrêté du 6 octobre 2021 dans sa version antérieure qui s'appliquent.
-
-Les installations pour lesquelles une demande complète de raccordement a été déposée entre le 1er août 2023 et la veille de l'entrée en vigueur dudit arrêté bénéficient des conditions d'achat découlant des modalités de l'article 9 de cet arrêté.
+Conformément à l'article 2 de l'arrêté du 5 mars 2024 (NOR : ECOR2404308A), ces dispositions s'appliquent à compter du 1er février 2024.
