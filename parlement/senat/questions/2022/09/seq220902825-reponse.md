@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902825
+
+- Question : [SEQ220902825](seq220902825.md) — Reconnaissance de l'affection dite des « pieds bots »
+
+## Réponse
+
+*Travail, santé et solidarités, JO du 2024-03-14, page 1053*
+
+A ce jour, la malformation du « pied bot » ou varus équin est une déformation du pied. La plante est tournée vers l'intérieur et la pointe vers le bas. Le traitement est adapté suivant son degré de gravité et sa forme (quatre principales déformations sont décomptées), au stade très précoce après la naissance, soit par plâtres (méthode de Ponseti)soit par attelle associée à la kinésithérapie. La chirurgie s'avère parfois nécessaire afin de couper le tendon par une petite incision à l'arrière de la jambe. Bien qu'un suivi de l'enfant soit indispensable durant sa croissance et que les défauts résiduels puissent persister, il pourra mener une vie normale avec les mêmes activités que les autres enfants de son âge. Au regard du coût de prise en charge du traitement médico-chirurgical et du suivi sur le long terme, éventuellement associé aux séances de kinésithérapie de cette malformation, il est possible pour le médecin de faire la demande de reconnaissance de la maladie de son patient atteint du pied bot en tant qu'affection longue durée de catégorie « hors liste » (couramment appelée ALD 31) afin de permettre sa prise en charge à 100% par l'Assurance maladie. S'il est constaté que l'ampleur importante de cette malformation génère effectivement un réel handicap chez l'enfant, c'est-à-dire s'il se trouve dans une situation d'invalidité physique le rendant dépendant, les parents de l'enfant peuvent adresser à la Maison départementale des personnes handicapées (MDPH) une demande de reconnaissance du handicap de leur enfant, ce qui pourrait leur permettre de bénéficier d'aides adaptées.
