@@ -1,0 +1,11 @@
+# COMMUNE DE GAUSSON : délibération CPTGESEAU2023 — Délibération compte gestion EAU 2023
+
+- Collectivité : COMMUNE DE GAUSSON
+- SIRET : 21220060400016
+- Code INSEE : 22060
+- Date : 2024-03-15
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : Délibération compte gestion EAU 2023
+- Transmis à la préfecture : 2024-04-02 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212200604/Deliberation/2024/604272/ec5723b3c631608ac9e475927e7ebfb1be4dd76dcce653bfe212986560f5aa45.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
