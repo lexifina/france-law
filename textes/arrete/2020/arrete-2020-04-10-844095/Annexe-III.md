@@ -2,7 +2,7 @@
 
 AJUSTEMENT DES DONNÉES DE CONSOMMATION D'ÉNERGIE FINALE EN FONCTION DES VARIATIONS CLIMATIQUES
 
-Liste des stations météorologiques de référence
+Liste des stations météorologiques
 
 Com Part
 

@@ -233,3 +233,7 @@ Certaines catégories disposent d'une sous-catégorie nommée “ valeur par dé
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié à l'adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=tT8Pn_noNUJrtHX0hN35x0kDKsw--9F4cO5LbLBvIoE=
+
+Se reporter aux modifications apportées par l'article 10 de l'arrêté du 20 février 2024 (NOR : TREL2326715A). Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 62 du 14 mars 2024, texte n° 37, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=07Q8gd8za3wcO907BQQzMRPA0Pio8b4jyAUCPCPO5LE=
