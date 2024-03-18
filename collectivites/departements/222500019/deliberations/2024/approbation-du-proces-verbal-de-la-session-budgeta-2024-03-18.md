@@ -1,0 +1,10 @@
+# Département du Doubs : délibération — Approbation du procès-verbal de la session budgétaire des 18 et 19 décembre 2023
+
+- Collectivité : Département du Doubs
+- SIREN : 222500019
+- Date : 2024-03-18
+- Séance : Conseil Départemental
+- Matière : 5.2 Fonctionnement des assemblees
+- Objet : Approbation du procès-verbal de la session budgétaire des 18 et 19 décembre 2023
+- Acte publié : https://download.doubs.fr/mohican/deliberations/Délibération-6743-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/65cea6a4232b631b7f58ddc7
