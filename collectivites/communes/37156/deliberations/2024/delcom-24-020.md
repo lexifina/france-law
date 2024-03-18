@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_020 — DELIBERATION 2024-20 ADOPTION CONVENTION JAZZ TOURAINE NATHALIE DESSAY
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-03-18
+- Matière : 1.3 Commande Publique/Conventions de Mandat
+- Objet : DELIBERATION 2024-20 ADOPTION CONVENTION JAZZ TOURAINE NATHALIE DESSAY
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/4ea1d532297a6f6855d1031f6e6e7de226abe957a11a297b8799f9e035b817c6.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
