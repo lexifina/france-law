@@ -46,13 +46,21 @@ Français |
 
 Histoire-Géographie-Enseignement moral et civique |
 
-3 h |
+3 h
 
-3 h |
+dont 30 minutes d'enseignement moral et civique |
 
-3 h |
+3 h
 
-2 h |
+dont 30 minutes d'enseignement moral et civique |
+
+3 h
+
+dont 30 minutes d'enseignement moral et civique |
+
+2 h
+
+dont 30 minutes d'enseignement moral et civique |
 
 Langue vivante |
 
@@ -94,16 +102,6 @@ Découverte professionnelle |
 
 12 h |
 
-Soutien ou approfondissement |
-
-1 h |
-
-|
-
-|
-
-|
-
 Module d'aides spécifiques |
 
 |
@@ -114,32 +112,26 @@ Module d'aides spécifiques |
 
 |
 
-Total (*) |
+Total des enseignements communs (*) |
 
-26 h (**) |
+25 h (**) |
 
-26 h, dont 4 h
+26 h (***) |
 
-d'enseignements
+28 h (***) |
 
-complémentaires |
+31 h 30 (***) |
 
-28 h, dont 4 h
+Soutien pour les élèves rencontrant des difficultés dans la maîtrise des savoirs fondamentaux |
 
-d'enseignements
-
-complémentaires |
-
-31 h 30, dont 4 h
-
-d'enseignements
-
-complémentaires |
+Volume horaire fixé par le chef d'établissement dans la limite de 2 heures |
 
 (*) S'y ajoutent au moins 10 heures annuelles de vie de classe par niveau.
 
 (**) S'y ajoute l'accompagnement aux devoirs.
 
+(***) S'y ajoutent l'engagement et la participation des élèves aux projets d'éducation à la citoyenneté, aux médias et à l'information. Ces projets donnent lieu à des heures d'enseignement dédiées dans la limite de 18 heures annuelles.
+
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 7 avril 2023 (NOR : MENE2304092A), les dispositions suivantes entrent en vigueur à compter de la rentrée scolaire 2023.
+Conformément à l'article 3 de l'arrêté du 15 mars 2024 (NOR : MENE2400921A), ces dispositions entrent en vigueur à compter de la rentrée scolaire 2024 pour les classes de sixième et de cinquième et à compter de la rentrée scolaire 2025 pour les classes de quatrième et de troisième.
