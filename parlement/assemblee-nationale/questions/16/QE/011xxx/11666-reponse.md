@@ -1,0 +1,9 @@
+# Réponse à la question n° 11666
+
+- Question : [11666](11666.md) — Question n° 11666 — Conséquences des restrictions d'eau sur l'activité horticole
+
+## Réponse
+
+*JO du 2024-03-19, page 2101*
+
+Les agriculteurs des Pyrénées-Orientales subissent depuis plusieurs mois une sécheresse historique. Une première réponse a été apportée lors du déplacement du ministre de l'agriculture et de la souveraineté alimentaire le 6 mai 2023 dans ce département avec la mise en place d'un débit minimal agricole pour permettre aux agriculteurs de continuer à irriguer leurs cultures un minimum. Si cette mesure a permis de limiter les pertes des cultures irriguées, celles-ci demeurent élevées dans le département, notamment pour les autres cultures. Aussi, pour accompagner financièrement les agriculteurs touchés par la sécheresse, le Gouvernement a activé plusieurs dispositifs d'indemnisation. Une enveloppe dédiée de prise en charge de cotisations sociales d'un montant de 2 millions d'euros (M€) a été déployée. La réserve de crise européenne pour les filières arboricoles et maraîchères les plus affectées du département ayant fait l'objet de mesures de restriction d'irrigation exceptionnelles a également été activée pour un montant de 6 M€. Le déploiement à venir d'un fonds d'urgence de 80 M€ permettra d'accompagner les viticulteurs les plus en difficulté de trésorerie suite aux aléas intervenus en 2023, qui ont exacerbé les difficultés des viticulteurs, en particulier dans le Sud-Ouest. Les viticulteurs des Pyrénées-Orientales sont éligibles à cette aide exceptionnelle. Enfin, dans le cadre du nouveau système d'assurance récolte, l'indemnité de solidarité nationale a été activée pour les pertes de récolte directement liées aux effets de la sécheresse, suite à la reconnaissance par la commission chargée de l'orientation et du développement des assurances garantissant les dommages causés aux récoltes du 13 décembre 2023.
