@@ -1,0 +1,9 @@
+# Réponse à la question n° 14426
+
+- Question : [14426](14426.md) — Question n° 14426 — Élection parents d'élèves - voie électronique
+
+## Réponse
+
+*JO du 2024-03-19, page 2201*
+
+Chaque année, au mois d'octobre, les parents d'élèves élisent dans les écoles, les collèges et les lycées, des parents chargés de les représenter au sein des instances scolaires : le conseil d'école pour les écoles maternelles et élémentaires et le conseil d'administration pour les établissements scolaires du second degré (collèges, lycées). Les directeurs d'école et les chefs d'établissement sont chargés d'organiser cette élection des représentants des parents d'élèves. L'organisation des élections des représentants des parents d'élèves s'inscrit dans le cadre du fonctionnement des écoles, des collèges et des lycées, les dépenses afférentes ne doivent donc pas être traitées différemment des autres dépenses de fonctionnement. En effet, indépendamment de la ou des modalités de votes retenues, à l'urne, par correspondance ou par voie électronique, les dépenses liées à l'organisation de ces élections sont à la charge de la collectivité territoriale de rattachement, en application de l'article L. 211-8 du code de l'éducation. Si la loi n° 2021-1716 du 21 décembre 2021 créant la fonction de directrice ou de directeur d'école et le décret n° 2023-805 du 21 août 2023 relatif au vote électronique pour l'élection des représentants des parents d'élèves au conseil d'administration des établissements publics locaux d'enseignement relevant du ministre chargé de l'Education nationale, offre la possibilité de recourir au vote par voie électronique pour l'élection des représentants des parents d'élèves, ces textes n'ont pas modifié pour autant la répartition des dépenses entre l'État et les collectivités territoriales. Par conséquent, le recours à cette modalité de vote ne peut pas être regardé comme étant un transfert de charges vers les collectivités territoriales.
