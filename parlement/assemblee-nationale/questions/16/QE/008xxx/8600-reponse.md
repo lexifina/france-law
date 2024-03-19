@@ -1,0 +1,9 @@
+# Réponse à la question n° 8600
+
+- Question : [8600](8600.md) — Question n° 8600 — Agrément des associations par l'éducation nationale
+
+## Réponse
+
+*JO du 2024-03-19, page 2134*
+
+Membres de la communauté éducative, les associations peuvent proposer des activités éducatives complémentaires aux enseignements. À ce titre, les associations peuvent demander à bénéficier d'un agrément si elles respectent les conditions prévues par les textes. Cet agrément ne conditionne pas le fonctionnement de ces associations ; il atteste notamment de la qualité des actions et projets mis en œuvre par l'association et permet aux directeurs d'école et chefs d'établissement d'autoriser directement son intervention en milieu scolaire, à condition qu'elle s'inscrive dans le cadre des principes et des orientations définis par le conseil d'école ou le conseil d'administration, en lien avec les équipes pédagogiques. Toutes les demandes sont soumises à une expertise complète des services compétents selon les interventions proposées par l'association. Dans de nombreux cas, la validation du tronc commun, ensemble des conditions communes à l'ensemble des associations agréées par l'État, est également nécessaire, ce qui allonge les délais d'instruction. Il n'est pas possible de donner un délai de réponse après le dépôt d'une demande de subvention, car cela dépend de multiples facteurs, à commencer par la nécessaire complétude du dossier de demande. Les services du ministère font au mieux pour permettre de réduire ce délai ; une nouvelle procédure d'étude des dossiers de demande d'agrément est d'ailleurs en cours de réflexion au sein de la direction générale de l'enseignement scolaire afin de fluidifier les relations avec les associations, qui peuvent toujours prendre contact avec le service compétent pour obtenir des informations sur l'avancée de leur demande d'agrément.
