@@ -1,0 +1,9 @@
+# Réponse à la question n° 9097
+
+- Question : [9097](9097.md) — Question n° 9097 — Accompagnement des élèves en situation de handicap
+
+## Réponse
+
+*JO du 2024-03-19, page 2138*
+
+L'article L. 133-1 du code de l'éducation prévoit que « tout enfant scolarisé dans une école maternelle ou élémentaire publique ou privée sous contrat est accueilli pendant le temps scolaire pour y suivre les enseignements prévus par les programmes. Il bénéficie gratuitement d'un service d'accueil lorsque ces enseignements ne peuvent lui être délivrés en raison de l'absence imprévisible de son professeur et de l'impossibilité de le remplacer. Il en est de même en cas de grève ». Le quatrième alinéa de l'article L. 133-4 du même code dispose que « la commune met en place le service d'accueil à destination des élèves d'une école maternelle ou élémentaire publique située sur son territoire lorsque le nombre des personnes qui ont déclaré leur intention de participer à la grève est égal ou supérieur à 25 % du nombre de personnes qui excercent des fonctions d'enseignement dans cette école ». Les accompagnants d'élèves en situation de handicap sont des agents contractuels de l'État, recrutés sur le fondement de l'article L. 917-1 du code de l'éducation. Sous réserve des dispositions du décret n° 2014-724 du 27 juin 2014 relatif aux conditions de recrutement et d'emploi des accompagnants des élèves en situation de handicap, ils relèvent du décret n° 86-83 du 17 janvier 1986 relatif aux agents contractuels de l'État. Ils peuvent être recrutés directement par une commune, par le biais d'un cumul d'activité pour participer au service minimum d'accueil. Ils sont alors rémunérés par la commune. Aux termes de l'article L. 133-8 du code de l'éducation, l'État verse une compensation financière à chaque commune qui a mis en place le service minimum d'accueil pour la rémunération des personnes chargées d'accueil. Cette compensation est fonction du nombre d'élèves accueillis.
