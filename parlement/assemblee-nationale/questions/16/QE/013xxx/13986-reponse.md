@@ -1,0 +1,9 @@
+# Réponse à la question n° 13986
+
+- Question : [13986](13986.md) — Question n° 13986 — Demande de modification du dispositif RSST au sein de l'éducation nationale
+
+## Réponse
+
+*JO du 2024-03-19, page 2194*
+
+Le ministère de l'éducation nationale et de la jeunesse est très soucieux du bon déploiement des outils de protection de la santé et de la sécurité au travail. Ainsi, les orientations stratégiques ministérielles de prévention, arrêtées après avis favorable de la formation spécialisée en santé, sécurité et conditions de travail, rappellent, conformément à la réglementation : - que les chefs de service veillent à informer les personnels des modalités d'accès au registre de santé et de sécurité au travail ; - que les assistants et conseillers de prévention veillent à la bonne tenue de ce registre dans tous les services ; - que ces registres doivent être accessibles dans l'ensemble des établissements et des services, pour l'ensemble des personnels et le cas échéant des usagers ; lorsqu'un signalement est porté par un agent, l'ensemble des personnels de l'établissement ou du service concerné peuvent le consulter ; - que les inscriptions portées au registre doivent faire l'objet d'une réponse de la part d'administration et portées, comme les réponses, à la connaissance des membres de la formation spécialisée compétente ; dans un établissement public local d'enseignement, il s'agit d'une responsabilité du chef d'établissement ; il ne semble pas possible qu'il l'exerce sans disposer d'un accès au registre. Les académies et les établissements sont encouragés à mettre à disposition des personnels des registres dématérialisés, qui facilitent les modalités de signalement pour les personnels, et qui permettent aux représentants du personnel de consulter ces signalements. La protection des lanceurs d'alerte correspond à un autre cadre, qui sera prochainement décliné au ministère, après concertation avec les organisations syndicales.
