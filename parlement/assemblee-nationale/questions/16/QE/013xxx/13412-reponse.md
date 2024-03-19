@@ -1,0 +1,9 @@
+# Réponse à la question n° 13412
+
+- Question : [13412](13412.md) — Question n° 13412 — Pass éducation
+
+## Réponse
+
+*JO du 2024-03-19, page 2182*
+
+Le pass éducation est un outil au service de l'éducation artistique et culturelle, qui se fonde sur la connaissance, la rencontre avec les œuvres, les artistes et les experts et la pratique artistique et culturelle. Instauré en 2009, l'accès gratuit des enseignants aux collections permanentes des musées et monuments nationaux accompagne de manière continue la politique conjointe des ministères en charge de l'éducation et de la culture. Le pass éducation permet ainsi aux professeurs des premier et second degrés de fréquenter un grand nombre d'établissements culturels afin qu'ils puissent approfondir leur connaissance du patrimoine culturel et en faire bénéficier leurs élèves. De cette manière, l'offre du Pass éducation doit contribuer à enrichir et diversifier le parcours culturel des élèves. Les objectifs pédagogiques et éducatifs du Pass éducation s'inscrivent donc pleinement dans la politique d'éducation artistique et culturelle comme le prévoit la circulation n° 2016-011 du 3 février 2016 relative aux finalités éducatives et pédagogiques du pass éducation. Au regard de ces objectifs pédagogiques, seuls les personnels rémunérés par l'éducation nationale et exerçant de manière effective en écoles, collèges et lycées publics et privés sous contrat peuvent bénéficier du pass éducation. Néanmoins, la gratuité des musées constitue un axe important de la politique de démocratisation culturelle. L'accès aux collections des musées nationaux est gratuit pour tous le premier dimanche de chaque mois, le week-end des journées européennes du patrimoine et pour les bénéficiaires des minima sociaux dont l'allocation de solidarité aux personnes âgées (ASPA) et l'allocation supplémentaire vieillesse (ASV).
