@@ -1,0 +1,9 @@
+# Réponse à la question n° 13901
+
+- Question : [13901](13901.md) — Question n° 13901 — Apprentissage de la langue française outre-mer
+
+## Réponse
+
+*JO du 2024-03-19, page 2193*
+
+Le ministère de l'éducation nationale et de la jeunesse porte une attention toute particulière à la scolarisation de tous les mineurs présents sur le territoire français. Dans un contexte national marqué notamment par l'accueil d'enfants de réfugiés ukrainiens depuis mars 2022, tous les acteurs de l'éducation nationale se mobilisent pour accueillir et scolariser chaque enfant, quels que soient son origine, sa situation ou son mode de vie, au sein de l'École de la République. Dans chaque académie, la composition de l'équipe du centre académique pour la scolarisation des enfants allophones nouvellement arrivés et des enfants issus de familles itinérantes et de voyageurs (CASNAV) ainsi que la définition et la répartition des moyens alloués à la scolarisation des élèves allophones nouvellement arrivés (EANA) sont arrêtés par le recteur en fonction de l'analyse des besoins recensés. De fait, depuis la parution des circulaires n° 2012-141 et 2012-143 du 2 octobre 2012, toutes les académies d'outre-mer sont désormais dotées de CASNAV. Tous ont été renforcés depuis 2019-2020 pour répondre à l'augmentation des besoins de scolarisation d'EANA mais aussi de formation des enseignants. Les évolutions réglementaires introduites par la loi n° 2019-791 du 26 juillet 2019, notamment l'instruction obligatoire dès 3 ans et l'obligation de formation jusqu'à 18 ans, imposent une nécessaire actualisation de ces circulaires de 2012. Les préconisations portées par la Cour des comptes dans son rapport de mars 2023 sur la scolarisation des élèves allophones amènent à approfondir ce travail, en cours d'écriture, pour garantir la réussite du parcours des EANA dans le système scolaire français.
