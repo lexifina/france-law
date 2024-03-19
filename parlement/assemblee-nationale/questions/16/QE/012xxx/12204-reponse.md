@@ -1,0 +1,9 @@
+# Réponse à la question n° 12204
+
+- Question : [12204](12204.md) — Question n° 12204 — Pénurie de places en terminale STMG dans tous les lycées essonniens
+
+## Réponse
+
+*JO du 2024-03-19, page 2164*
+
+En prévision de chaque rentrée scolaire, la carte des formations des sections technologiques prévoit d'accueillir la montée pédagogique des élèves de 1re STMG en terminale STMG ainsi qu'un nombre prévisionnel de redoublants comme pour toutes les sections de terminale. Une fois les opérations d'affectation et d'inscription des élèves montants réalisées, l'ensemble des services départementaux (scolarité, mission de lutte contre le décrochage scolaire, centres d'information et d'orientation) et des établissements se mobilisent pour répondre aux demandes des lycéens souhaitant redoubler en terminale restés sans solution, et notamment en terminale STMG. A la rentrée scolaire, des entretiens de situation avec les élèves sont menés en lycée et en CIO en lien avec la mission de lutte contre le décrochage scolaire (MLDS) et un recensement exhaustif des élèves concernés est finalisé. Ainsi, à la rentrée 2023, 37 élèves concernés par une demande de redoublement en terminale STMG après échec au baccalauréat ont été recensés en Essonne. Les situations de redoublement des terminales sont traitées ensuite au cas par cas, avec la possibilité soit de les réinscrire dans leur établissement d'origine ou dans un lycée disposant de places vacantes, soit de créer des « MRE », module de re-préparation à l'examen, sur moyens spécifiques. Au 28 novembre 2023, tous les élèves redoublants en terminale STMG dans le département de l'Essonne ont une solution ou sont accompagnés à leur demande pour avancer dans un nouveau projet de formation ou d'insertion. A cette date, il n'y a plus de raison de mettre en place un MRE.
