@@ -1470,6 +1470,12 @@ Val-de-Marne |
 
 |
 
+Paris-Saclay-Versailles |
+
+Yvelines |
+
+|
+
 Pau-Pyrénées |
 
 Pyrénées-Atlantiques |
@@ -1944,12 +1950,6 @@ Indre-et-Loire |
 
 |
 
-Toussus-le-Noble |
-
-Yvelines |
-
-|
-
 Troyes-Barberey |
 
 Aube |
@@ -2031,12 +2031,6 @@ Lot-et-Garonne |
 Vinon |
 
 Var |
-
-|
-
-Vitry-en-Artois |
-
-Pas-de-Calais |
 
 |
 
