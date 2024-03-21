@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231209445
+
+- Question : [SEQ231209445](seq231209445.md) — Situation des interprètes-traducteurs judiciaires
+
+## Réponse
+
+*Justice, JO du 2024-03-21, page 1219*
+
+La Chancellerie est particulièrement attentive à l'amélioration des délais de paiement des indemnités dues aux collaborateurs du service public. A cet égard, le site internet Chorus Pro mis à disposition pour le traitement des mémoires de frais de justice a permis d'accélérer les délais de paiement et permet également de suivre à tout moment l'état d'avancement des mémoires directement saisis en ligne. Si le ministère de la Justice veille à doter les cours d'appel de budgets leur permettant d'effectuer les paiements dans des délais satisfaisants, il convient de préciser que le processus est également subordonné à la vérification du service fait dans un contexte d'augmentation du volume à traiter. Les services administratifs en cour d'appel s'efforcent de régler les mémoires déposés dans les meilleurs délais après vérification du service fait. Il faut ici souligner que les délais de paiement se sont sensiblement améliorés depuis plusieurs années. Toutefois, le rythme de la dépense en matière de frais de justice peut être infléchi tant par le volume de mémoires mis en paiement que par le niveau de ressource disponible, ce qui peut influer sur la temporalité de certains versements. Les services administratifs des services judiciaires sont attentifs aux problèmes financiers que pourraient rencontrer ces collaborateurs du service public. Aussi, ceux-ci doivent se rapprocher de ces services pour signaler toute difficulté. Ainsi, le ministère de la Justice porte un regard particulier à la situation des interprètes traducteurs, acteurs indispensables au fonctionnement du service public de la justice.
