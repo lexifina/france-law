@@ -20,12 +20,6 @@ France métropolitaine-Royaume-Uni.
 
 2. Liaisons internationales extracommunautaires :
 
-Jusqu'au 31 mars 2024
-
-Lyon-Alger (Algérie) ;
-
-Nantes-Tunis (Tunisie).
-
 Jusqu'au 31 octobre 2024
 
 Nantes-Istanbul (Turquie) ;
@@ -59,12 +53,6 @@ Paris-Tlemcen (Algérie) ;
 Paris-Beyrouth (Liban), dans la limite de sept (7) fréquences hebdomadaires ;
 
 Lyon-Beyrouth (Liban), dans la limite de deux (2) fréquences hebdomadaires ;
-
-Dans la limite d'une (1) fréquence hebdomadaire sur l'une des deux liaisons suivantes :
-
-Marseille-Beyrouth (Liban) ;
-
-Montpellier-Beyrouth (Liban).
 
 Jusqu'au 31 mars 2025
 
@@ -221,3 +209,21 @@ Lyon-Le Caire (Egypte).
 Jusqu'au 31 octobre 2028 :
 
 Nantes-Hurghada (Egypte).
+
+Jusqu'au 31 mars 2029 :
+
+Lyon-Alger (Algérie) ;
+
+Nantes-Tunis (Tunisie).
+
+Marseille-Antalya (Turquie) ;
+
+Montpellier-Istanbul (Turquie).
+
+Marseille-Beyrouth (Liban), dans la limite de deux (2) fréquences hebdomadaires ;
+
+Dans la limite d'une (1) fréquence hebdomadaire sur l'une des deux liaisons suivantes :
+
+Montpellier-Beyrouth (Liban) ;
+
+Nice-Beyrouth (Liban).
