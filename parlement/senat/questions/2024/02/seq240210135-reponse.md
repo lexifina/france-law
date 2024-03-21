@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240210135
+
+- Question : [SEQ240210135](seq240210135.md) — Déploiement du volet éducation de la déclaration de politique générale du Premier ministre au sein des établissements d'enseignement français à l'étranger
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2024-03-21, page 1203*
+
+Le 5 décembre 2023, le ministre de l'Education nationale et de la jeunesse a annoncé une série de mesures visant à élever le niveau des écoliers français. Regroupées sous le titre de « Choc des savoirs », ces mesures concernent les différents niveaux d'enseignement, depuis l'école élémentaire jusqu'au baccalauréat, et prévoient notamment des évolutions de programmes (mathématiques, langues vivantes), la labellisation de certains manuels scolaires, l'évolution du socle commun de compétences et de culture travaillé au collège, l'organisation de groupes de niveaux, une ouverture encadrée au numérique et à l'intelligence artificielle dans les apprentissages, des mesures de renforcement pour les élèves en grande difficulté, l'obligation du diplôme national du brevet pour la poursuite d'études au lycée, ou encore une nouvelle épreuve anticipée du baccalauréat en fin de première. L'ensemble de ces dispositions doit désormais faire l'objet d'une déclinaison réglementaire, dont les modalités permettront de déterminer l'applicabilité aux établissements d'enseignement français à l'étranger, selon les dispositions afférentes du Code de l'éducation. Il apparaît déjà très probable que les mesures relatives aux programmes, aux compétences ou encore aux examens seront d'application automatique. D'autres mesures, notamment celles relatives à la labellisation des manuels scolaires et des groupes de niveau ou à la nouvelle doctrine relative au redoublement, devront être appréciées en temps utile, en fonction de leur véhicule législatif ou réglementaire.
