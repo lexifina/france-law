@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240209916
+
+- Question : [SEQ240209916](seq240209916.md) — Continuité de l'action consulaire et des opérateurs français au Niger
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2024-03-21, page 1204*
+
+L'établissement Jean de la Fontaine à Niamey sera mis en veille après la fin d'année scolaire en cours. Depuis la rentrée 2023, la continuité pédagogique est assurée à distance : 174 élèves suivent actuellement cet enseignement à distance, parmi lesquels 40 boursiers (binationaux). Les élèves passant des examens en 2024 pourront le faire, en partenariat avec des établissements de l'Enseignement français à l'étranger, au Togo et au Bénin ; le Togo restant privilégié puisqu'il accueille l'Institut régional de formation. Durant le mois de septembre 2024, la mise en veille du lycée La Fontaine de Niamey devrait être effective en attendant que les conditions d'une remise en activité se présentent. Pour les élèves actuellement scolarisés à Jean de la Fontaine, les solutions envisagées sont leur scolarisation dans un établissement homologué hors du Niger, leur scolarisation dans un établissement à programme français à Niamey ou une poursuite de scolarité à distance par le Centre national d'enseignement à distance (CNED) réglementé. Les bourses sont transférables pour les élèves français scolarisés par le CNED réglementé ou dans tout autre lycée homologué en dehors du Niger. L'Agence pour l'enseignement français à l'étranger (AEFE) accompagnera les familles dans ces démarches. S'agissant des aides sociales directes, sur les 12 allocataires de 2023, 10 sont restés sur place. L'ambassade de France à Lomé reprendra le suivi des affaires sociales. S'agissant des subventions de soutien au tissu associatif des Français à l'étranger (STAFE), aucun dossier n'a été déposé au titre de la campagne 2024 pour le Niger.
