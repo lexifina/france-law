@@ -1,0 +1,10 @@
+# DEPARTEMENT DES ALPES DE HAUTE PROVENCE : délibération 2-TAD-6 — Lors de la Commission permanente du 07 décembre 2023, il vous avait été proposé de solliciter l'Etat dans le cadre du dispositif FNADT, pour le déploiement de la solution informatique pastorando expérimentée avec succès dans le Haut-Verdon et de l'étendre, au-delà de ce territoire, aux intercommunalités de l'Ubaye Serre Ponçon et d
+
+- Collectivité : DEPARTEMENT DES ALPES DE HAUTE PROVENCE
+- SIREN : 220400014
+- Date : 2024-03-22
+- Séance : CP
+- Matière : Service du développement touristique et aménagement durable
+- Objet : Lors de la Commission permanente du 07 décembre 2023, il vous avait été proposé de solliciter l'Etat dans le cadre du dispositif FNADT, pour le déploiement de la solution informatique pastorando expérimentée avec succès dans le Haut-Verdon et de l'étendre, au-delà de ce territoire, aux intercommunalités de l'Ubaye Serre Ponçon et de Provence Alpes Agglomération. Il s'agit d'équiper les troupeaux de dispositifs satellitaires et de proposer aux utilisateurs de la nature une information en temps réel de leur localisation. En effet, la fréquentation touristique importante par les randonneurs ou vététistes des espaces pastoraux peut conduire à des conflits d'usages et à des incidents avec les chiens de protection des troupeaux. Cependant, compte tenu des critères du FNADT, il convient de modifier le plan de financement initial comme proposé dans le projet de délibération. La subvention mobilisable auprès de l'Etat, compte tenu de l'inéligibilité de certaines dépenses, serait ramenée de 119 593 € à 82 480 €, le coût total du projet, estimé à 158 996 € TTC, restant inchangé. Il vous est proposé de bien vouloir solliciter l'Etat au titre du FNADT à hauteur de 82 480 €, et d'autoriser Mme la Présidente à signer tous les documents y afférents.
+- Acte publié : http://cga-prod-11.oxyd.net:8080/jsp/seance_agenda.jsp?date=22-03-2024&assembly=Commission%20permanente&type=apres&role=usager
+- Jeu de données : https://www.data.gouv.fr/datasets/66fa9a1833b5afe2d5679c9f
