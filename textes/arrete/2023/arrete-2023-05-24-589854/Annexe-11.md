@@ -40,9 +40,9 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 
 - centre d'expertise aérienne militaire (CEAM) ;
 
-- brigade aérienne du contrôle de l'espace ;
+- brigade aérienne du contrôle de l'espace aérien (BACEA) ;
 
-- état-major du commandement des forces aériennes ;
+- état-major du commandement territorial de l'armée de l'air et de l'espace (CTAAE) ;
 
 - centre d'initiation et de formation des équipages drones (CIFED) ;
 
@@ -207,7 +207,3 @@ c) Direction générale de l'armement (DGA)
 - centres de contrôle.
 
 d) Direction interarmées des réseaux d'infrastructure et des systèmes d'information (DIRISI) : Section Système de management de la sécurité (SMS).
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 19 septembre 2023 (NOR : ARMH2325191A), ces dispositions entrent en vigueur le 1er octobre 2023.

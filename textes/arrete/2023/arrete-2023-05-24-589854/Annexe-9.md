@@ -8,7 +8,7 @@ Postes désignés sur proposition du directeur des ressources humaines de l'arm�
 
 1° Au titre de la mise en œuvre de l'énergie-propulsion nucléaire :
 
-- porte-avions « Charles de Gaulle » ;
+- porte-avions " Charles de Gaulle " ;
 
 - état-major de la force d'action navale (ALFAN) ;
 
@@ -38,7 +38,7 @@ Postes désignés sur proposition du directeur des ressources humaines de l'arm�
 
 - cabinet du ministre des armées (cellule nucléaire) ;
 
-- direction du personnel militaire de la marine (DPMM - bureau « écoles et formation ») ;
+- direction du personnel militaire de la marine (DPMM - bureau " écoles et formation ") ;
 
 - état-major du commandement de l'arrondissement maritime Atlantique (CECLANT) ;
 
@@ -106,7 +106,7 @@ Postes désignés sur proposition du directeur des ressources humaines de l'arm�
 
 - état-major du commandement des forces aériennes stratégiques (CFAS) ;
 
-- état-major du commandement des forces aériennes (CFA) ;
+- état-major du commandement territorial de l'armée de l'air et de l'espace (CTAAE) ;
 
 - état-major du commandement de la défense aérienne et des opérations aériennes (CDAOA) ;
 
@@ -128,7 +128,7 @@ Postes désignés sur proposition du directeur des ressources humaines de l'arm�
 
 - état-major de la force d'action navale (ALFAN) ;
 
-- porte-avions « Charles de Gaulle » ;
+- porte-avions " Charles de Gaulle " ;
 
 - service de soutien de la flotte (SSF) ;
 

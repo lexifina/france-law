@@ -50,7 +50,7 @@ Postes désignés sur proposition du directeur ou du chef du service gestionnair
 
 4° Autres unités de l'armée de l'air et de l'espace :
 
-- commandement des forces aériennes ;
+- commandement territorial de l'armée de l'air et de l'espace ;
 
 - commandement des forces aériennes stratégiques ;
 
@@ -148,7 +148,7 @@ Postes désignés sur proposition du directeur ou du chef du service gestionnair
 
 - direction interarmées du service de santé des forces armées dans la zone sud de l'océan Indien/antenne médicale de Saint Pierre ;
 
-- direction interarmées du service de santé des forces armées de Nouvelle Calédonie/antenne médicale de Plum ;
+- direction interarmées du service de santé des forces armées en Nouvelle-Calédonie/antenne médicale de Plum ;
 
 - centre médical interarmées des éléments français au Gabon ;
 

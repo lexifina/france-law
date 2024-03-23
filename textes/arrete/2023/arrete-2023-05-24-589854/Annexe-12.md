@@ -92,11 +92,11 @@ Postes exigeant la mise en œuvre et la maintenance des aéronefs ou la certific
 
 - centre d'entrainement à la survie et au sauvetage de l'aéronautique navale ;
 
-- état-major de la force d'action navale - Division « entraînement » - Bureau entraînement des forces » - Section « aéronautiques » ;
+- état-major de la force d'action navale - Division " entraînement " - Bureau entraînement des forces " - Section " aéronautiques " ;
 
-- état-major de la force d'action navale - Division « exploitation » - Département « systèmes » ;
+- état-major de la force d'action navale - Division " exploitation " - Département " systèmes " ;
 
-- état-major de la force d'action navale - Division « exploitation » - Force aéronavale nucléaire ;
+- état-major de la force d'action navale - Division " exploitation " - Force aéronavale nucléaire ;
 
 - état-major de la force d'action navale - détachement ensemble équipe technique et instruction spécialisée détection (EETIS) d'Istres ;
 
@@ -132,7 +132,7 @@ Postes exigeant la mise en œuvre et la maintenance des aéronefs ou la certific
 
 - commandement de la défense aérienne et des opérations aériennes ;
 
-- commandement des forces aériennes de Bordeaux Mérignac-Beauséjour et d'Orléans ;
+- commandement territorial de l'armée de l'air et de l'espace de Bordeaux Mérignac-Beauséjour et d'Orléans ;
 
 - commandement des forces aériennes stratégiques de Taverny et de Villacoublay ;
 

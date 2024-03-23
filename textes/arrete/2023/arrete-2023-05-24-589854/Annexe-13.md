@@ -80,7 +80,7 @@ Postes exigeant la mise en œuvre de la compétence spécifique d'électronicien
 
 - groupement aérien des installations aéronautiques de Bordeaux ;
 
-- bureau maîtrise des risques du commandement des forces aériennes de Bordeaux.
+- bureau maîtrise des risques du commandement territorial de l'armée de l'air et de l'espace de Bordeaux.
 
 3° Unités du service d'infrastructure de la défense :
 

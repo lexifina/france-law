@@ -18,7 +18,7 @@ Hors groupe 1 |
 
 Le directeur du cabinet civil et militaire du ministre de la défense. |
 
-|
+Comité en charge des rémunérations des cadres dirigeants institué auprès du ministre de la défense |
 
 Hors groupe 2 |
 

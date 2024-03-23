@@ -350,7 +350,7 @@ F. - Emplois relevant du groupe 4 :
 
 2° Officier général, directeur de l'audit interne des armées à l'inspection des armées ;
 
-3° Directeur adjoint de la délégation à l'information et à la communication de la défense ;
+3° Délégué adjoint à l'information et à la communication de la défense ;
 
 4° Directeur général adjoint du numérique et des systèmes d'information et de communication ;
 
@@ -392,9 +392,9 @@ F. - Emplois relevant du groupe 4 :
 
 23° Commandant supérieur des forces armées dans la zone sud de l'océan Indien et commandant de la base de défense de La Réunion-Mayotte ;
 
-24° Commandant supérieur des forces armées de la Nouvelle Calédonie et commandant de la base de défense de Nouvelle-Calédonie ;
+24° Commandant supérieur des forces armées en Nouvelle-Calédonie et commandant de la base de défense de Nouvelle-Calédonie ;
 
-25° Commandant supérieur des forces armées de Polynésie française, commandant du centre d'expérimentations du Pacifique, commandant des zones maritimes océan Pacifique et Polynésie française et commandant de la base de défense de Polynésie française ;
+25° Commandant supérieur des forces armées en Polynésie française, commandant du centre d'expérimentations du Pacifique, commandant des zones maritimes océan Pacifique et Polynésie française et commandant de la base de défense de Polynésie française ;
 
 26° Chef de la division " soutien de l'homme " à l'état-major des armées ;
 
@@ -520,17 +520,17 @@ F. - Emplois relevant du groupe 4 :
 
 87° Officier général " nucléaire et sécurité " de l'état-major de l'armée de l'air et de l'espace ;
 
-88° Commandant de la brigade aérienne de la posture permanente de sûreté aérienne du commandement de la défense aérienne et des opérations aériennes ;
+88° Commandant de la brigade aérienne de la posture permanente de sûreté aérienne ;
 
-89° Commandant de la brigade aérienne des opérations du commandement de la défense aérienne et des opérations aériennes ;
+89° Commandant de la brigade aérienne des opérations ;
 
-90° Commandant de la brigade aérienne connaissance et anticipation du commandement de la défense aérienne et des opérations aériennes ;
+90° Commandant de la brigade aérienne connaissance et anticipation ;
 
 91° Commandant de la brigade aérienne de l'aviation de chasse ;
 
 92° Commandant de la brigade aérienne d'assaut et de projection ;
 
-93° Commandant de la brigade aérienne du contrôle de l'espace aérien du commandement de la défense aérienne et des opérations aériennes ;
+93° Commandant de la brigade aérienne du contrôle de l'espace aérien ;
 
 94° Commandant de la brigade des forces spéciales Air ;
 
@@ -780,7 +780,7 @@ G. - Emplois relevant du groupe 5 :
 
 90° Directeur de projet " soutien opérationnel 4.0 " auprès du chef d'état-major de l'armée de l'air et de l'espace ;
 
-91° Commandant de la brigade aérienne technique et logistique du commandement territorial de l'armée de l'air et de l'espace ;
+91° Commandant de la brigade aérienne technique et logistique ;
 
 92° Chef du groupement de soutien de la base de défense de Brest-Lorient ;
 
@@ -843,7 +843,3 @@ G. - Emplois relevant du groupe 5 :
 (1) N'occupant pas les fonctions de commandant des écoles militaires de Bourges.
 
 (2) N'occupant pas les fonctions de général commandant des écoles militaires de Draguignan et commandant de la base de défense de Draguignan.
-
-NOTA :
-
-Conformément à l’article 3 de l’arrêté du 14 février 2024 modifiant diverses dispositions relatives à des emplois d'officiers généraux (NOR : ARMH2404555A), ces dispositions s’appliquent aux rémunérations versées à compter du mois de février 2024.
