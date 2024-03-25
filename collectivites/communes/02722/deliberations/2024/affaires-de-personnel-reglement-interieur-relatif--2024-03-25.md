@@ -1,0 +1,9 @@
+# Soissons : délibération — AFFAIRES DE PERSONNEL – REGLEMENT INTERIEUR RELATIF A L’HYGIENE, LA SANTE ET LA SECURITE
+
+- Collectivité : Soissons
+- SIREN : 210206959
+- Code INSEE : 02722
+- Date : 2024-03-25
+- Matière : AFFAIRES DE PERSONNEL
+- Objet : AFFAIRES DE PERSONNEL – REGLEMENT INTERIEUR RELATIF A L’HYGIENE, LA SANTE ET LA SECURITE
+- Jeu de données : https://www.data.gouv.fr/datasets/687f860dec7f8fdd3ad300ed
