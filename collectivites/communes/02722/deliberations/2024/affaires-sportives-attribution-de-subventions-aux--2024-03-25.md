@@ -1,0 +1,9 @@
+# Soissons : délibération — AFFAIRES SPORTIVES – ATTRIBUTION DE SUBVENTIONS AUX ASSOCIATIONS SPORTIVES
+
+- Collectivité : Soissons
+- SIREN : 210206959
+- Code INSEE : 02722
+- Date : 2024-03-25
+- Matière : AFFAIRES SPORTIVES
+- Objet : AFFAIRES SPORTIVES – ATTRIBUTION DE SUBVENTIONS AUX ASSOCIATIONS SPORTIVES
+- Jeu de données : https://www.data.gouv.fr/datasets/687f860dec7f8fdd3ad300ed
