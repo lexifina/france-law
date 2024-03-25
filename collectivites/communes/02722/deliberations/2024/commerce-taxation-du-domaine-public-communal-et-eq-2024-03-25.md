@@ -1,0 +1,9 @@
+# Soissons : délibération — COMMERCE – TAXATION DU DOMAINE PUBLIC COMMUNAL ET EQUIPEMENTS BERGES DE L’AISNE RIVE GAUCHE
+
+- Collectivité : Soissons
+- SIREN : 210206959
+- Code INSEE : 02722
+- Date : 2024-03-25
+- Matière : COMMERCE
+- Objet : COMMERCE – TAXATION DU DOMAINE PUBLIC COMMUNAL ET EQUIPEMENTS BERGES DE L’AISNE RIVE GAUCHE
+- Jeu de données : https://www.data.gouv.fr/datasets/687f860dec7f8fdd3ad300ed
