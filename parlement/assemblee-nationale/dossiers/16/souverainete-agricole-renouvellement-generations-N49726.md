@@ -1,0 +1,59 @@
+# Souveraineté en matière agricole et renouvellement des générations en agriculture
+
+- Procédure : Projet de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N49726
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/souverainete_agricole_renouvellement_generations
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl23-639.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2024-04-03 : 1er dépôt d'une initiative. (PRJLANR5L16B2436)
+  - 2024-04-03 : Etude d'impact (ETDIANR5L16B2436)
+  - 2024-04-03 : Avis du Conseil d'Etat (AVCEANR5L16B2436)
+  - 2024-04-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-04-03 : Renvoi en commission au fond
+      - 2024-03-26 : Nomination de rapporteur
+      - 2024-03-26 : Réunion de commission
+      - 2024-05-14 : Réunion de commission
+      - 2024-05-04 : Dépôt de rapport (RAPPANR5L16B2600, PRJLANR5L16BTC2600)
+    - Travaux d'une commission saisie pour avis
+      - 2024-04-04 : Saisine pour avis d'une commission
+      - 2024-04-08 : Nomination de rapporteur
+      - 2024-04-08 : Réunion de commission
+      - 2024-04-30 : Réunion de commission
+    - Travaux d'une commission saisie pour avis
+      - 2024-04-05 : Saisine pour avis d'une commission
+      - 2024-03-27 : Nomination de rapporteur
+      - 2024-03-27 : Réunion de commission
+      - 2024-04-29 : Réunion de commission
+      - 2024-04-29 : Réunion de commission
+  - Discussion en séance publique
+    - 2024-05-15 : Discussion en séance publique
+    - 2024-05-15 : Discussion en séance publique
+    - 2024-05-16 : Discussion en séance publique
+    - 2024-05-16 : Discussion en séance publique
+    - 2024-05-16 : Discussion en séance publique
+    - 2024-05-17 : Discussion en séance publique
+    - 2024-05-17 : Discussion en séance publique
+    - 2024-05-17 : Discussion en séance publique
+    - 2024-05-21 : Discussion en séance publique
+    - 2024-05-21 : Discussion en séance publique
+    - 2024-05-22 : Discussion en séance publique
+    - 2024-05-22 : Discussion en séance publique
+    - 2024-05-23 : Discussion en séance publique
+    - 2024-05-23 : Discussion en séance publique
+    - 2024-05-23 : Discussion en séance publique
+    - 2024-05-24 : Discussion en séance publique
+    - 2024-05-24 : Discussion en séance publique
+    - 2024-05-24 : Discussion en séance publique
+    - 2024-05-28 : Discussion en séance publique
+    - 2024-05-28 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2024-05-29 : Dépôt d'une initiative en navette (PRJLSNR5S419B0639)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-05-29 : Renvoi en commission au fond
