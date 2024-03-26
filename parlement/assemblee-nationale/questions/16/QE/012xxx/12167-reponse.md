@@ -1,0 +1,9 @@
+# Réponse à la question n° 12167
+
+- Question : [12167](12167.md) — Question n° 12167 — Suite donnée à l'amendement n° 1658 mission Culture PLF 2023
+
+## Réponse
+
+*JO du 2024-03-26, page 2395*
+
+L'amendement n° II-1658 présenté par Madame la députée, visant à débaser le programme 361 « Transmission des savoirs et démocratisation de la culture » de 500 000 € afin de créer un programme d'Éducation aux médias, a été adopté par l'Assemblée nationale lors de la première lecture du projet de loi de finances pour 2023. Par la suite, l'amendement n° II-729 présenté par le Gouvernement visant à repositionner ces 500 000 € sur le programme 361 a été adopté par le Sénat lors de la première lecture du projet de loi de finances pour 2023. Les deux amendements adoptés ne créant ni charge ni gain pour le programme 361, ils n'ont pas été retenus dans le texte définitivement adopté par 49-3. Le ministère de la culture alloue depuis 2018 des moyens récurrents à l'éducation aux médias et à l'information, qui constitue une priorité de ses interventions. Ainsi en 2022, 1 436 000 € ont été consacrés au soutien à 50 acteurs à dimension nationale, répartis comme suit : soutien aux réseaux de professionnels de l'information : 750 000 € ; soutien aux acteurs éducation populaire/jeunesse : 395 000 € ; soutien aux actions en bibliothèques : 80 000 € ; soutien aux acteurs de la culture scientifique, technique et industrielle – formations sur le thème de l'esprit critique (hors Universcience) : 211 000 €. Au niveau déconcentré, les directions régionales des affaires culturelles apportent leur soutien à des projets locaux et régionaux d'éducation aux médias et à l'information (EMI) et à des résidences de journalistes, notamment par des appels à projets. En 2022, 6 100 000 € ont été consacrés au soutien à 300 projets locaux et régionaux d'EMI, dont 67 résidences de journalistes.
