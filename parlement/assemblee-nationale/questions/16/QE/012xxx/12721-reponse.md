@@ -1,0 +1,9 @@
+# Réponse à la question n° 12721
+
+- Question : [12721](12721.md) — Question n° 12721 — Sanction en cas d'absence à une convocation en mairie pour rappel à l'ordre
+
+## Réponse
+
+*JO du 2024-03-26, page 2444*
+
+Le ministère de la Justice a justement rappelé dans une circulaire de politique pénale générale du 20 septembre 2022 que les procureurs de la République devaient apporter aux atteintes dont les élus sont victimes des réponses pénales fermes et rapides. Par ailleurs et pour permettre à un maire de faire face à certains des troubles qui peuvent survenir dans sa commune, l'article 11 de la loi du 5 mars 2007 relative à la prévention de la délinquance, a créé le rappel à l'ordre prévu par l'article L. 132-7 du code de la sécurité intérieure. Il permet au maire d'apporter une réponse institutionnelle, simple et rapide à des administrés qui ne respectent pas l'ordre et la tranquillité publics. Le prononcé d'un rappel à l'ordre ne peut toutefois pas être mis en œuvre s'agissant de faits susceptibles d'être qualifiés de crimes ou délits ou lorsqu'une plainte a été déposée. S'il peut sanctionner la commission d'une infraction pénale, il peut aussi apporter une réponse à un comportement incivique qui n'est pas pénalement répréhensible. Un dialogue avec le procureur de la République territorialement compétent apparaît nécessaire avant la mise en œuvre par le maire d'un rappel à l'ordre. D'ailleurs, même lorsqu'il est averti de la mise en œuvre par un maire d'une mesure de rappel à l'ordre, le procureur de la République conserve l'opportunité des poursuites. Ainsi, il lui est possible de prononcer à l'égard d'une personne convoquée par un maire en vue d'être rappelée à l'ordre, mais qui ne se rend pas à cette convocation, une mesure alternative aux poursuites ou encore d'engager des poursuites à son égard.
