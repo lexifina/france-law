@@ -1,0 +1,9 @@
+# Réponse à la question n° 13746
+
+- Question : [13746](13746.md) — Question n° 13746 — Conduite d'un véhicule sous CBD
+
+## Réponse
+
+*JO du 2024-03-26, page 2438*
+
+Selon l'Observatoire national interministériel de la sécurité routière (ONISR), 672 personnes ont été tuées en 2022 dans un accident avec présence de stupéfiants, représentant 21 % de la mortalité routière. La lutte contre la conduite après usage de stupéfiant constitue l'une des priorités du Gouvernement en matière de sécurité routière, qui s'est traduite par la prise de décisions fortes dans le cadre du Comité interministériel de la sécurité routière (CISR), tenu le 17 juillet 2023. Il a notamment été décidé, après une modification législative en cours, de systématiser la suspension administrative du permis de conduire à la suite de la constatation de l'infraction de conduite après usage de stupéfiants et d'aggraver la perte de points en cas de condamnation pour conduite après usage de stupéfiants aggravée par un état alcoolique. Il convient de préciser que l'article L. 235-1 du Code de la route incrimine le fait de conduire alors qu'il résulte d'une analyse sanguine ou salivaire que le conducteur a fait usage de substances ou plantes classées comme stupéfiants. L'autorisation de commercialisation de produits dérivés du cannabis, contenant des molécules de tétrahydrocannabinol, substance elle-même classée comme stupéfiant, est alors sans incidence sur l'incrimination de conduite après usage de stupéfiants, qui est constituée s'il est établi que l'intéressé a conduit un véhicule après avoir fait usage d'une substance classée comme telle, quelle que soit la source de cette substance ou la quantité absorbée, comme le confirme la Cour de cassation dans son arrêt de juin 2023. La situation juridique est donc sans ambiguïté et le Gouvernement n'envisage pas de faire évoluer l'état du droit en la matière.
