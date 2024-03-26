@@ -1,0 +1,9 @@
+# Réponse à la question n° 12911
+
+- Question : [12911](12911.md) — Question n° 12911 — Situation alarmante pour les associations d'aide alimentaire
+
+## Réponse
+
+*JO du 2024-03-26, page 2474*
+
+Le Gouvernement est fortement mobilisé pour lutter contre la précarité alimentaire à laquelle est confrontée une partie de la population la plus modeste. En 2023, dans le cadre de la lutte contre la précarité alimentaire, le financement de l'État a été doublé par rapport à 2021, notamment, avec la mise en place du Programme mieux manger pour tous qui permet d'accroître l'offre de l'aide alimentaire en fruits, légumes et légumineuses et d'encourager, notamment, la mise en place d'alliances locales. Doté de 60 M€ en 2023, ce programme sera porté à 100 M€ à fin 2027. En outre, 80 M€ de crédits européens supplémentaires et répartis sur quatre ans sont désormais mobilisés. Dans le prolongement de l'action du Gouvernement pour lutter contre la précarité alimentaire, la Première ministre a pris l'engagement, lors de la présentation du Pacte des Solidarités le 18 septembre 2023, de débloquer une aide exceptionnelle en 2024, afin de soutenir les acteurs associatifs de l'aide alimentaire. Le projet de loi de finances de fin de gestion 2023 a adopté des crédits complémentaires à hauteur de 40 millions d'euros, qui seront mobilisables en 2024. Enfin, et sous réserve d'adoption définitive du projet de loi de finances pour 2024, celui-ci porte 2 M€ de crédits supplémentaires spécifiquement fléchés vers les épiceries sociales. Ces moyens témoignent de l'attention du Gouvernement à la situation des acteurs de la lutte contre la précarité alimentaire. Ils permettront de renforcer l'intervention des grands réseaux, d'augmenter les approvisionnements des épiceries sociales et de faire, ainsi, face à l'accroissement des besoins en denrées constaté sur le terrain.
