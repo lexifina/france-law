@@ -1,6 +1,6 @@
 # Article 242 nonies B
 
-I. - Pour obtenir le numéro d'immatriculation mentionné à l'article 290 B du code général des impôts, l'opérateur de dématérialisation produit à l'appui de sa demande introduite auprès de l'administration fiscale :
+I. - Pour obtenir le numéro d'immatriculation mentionné à l'article 290 B du code général des impôts, l'opérateur de dématérialisation produit à l'appui de sa demande introduite auprès de l'administration fiscale par voie électronique au moyen du service mis à disposition à cet effet :
 
 1° Son numéro d'identification mentionné au premier alinéa de l'article R. 123-221 du code de commerce et, pour les opérateurs non établis en France, un document équivalent à l'extrait d'immatriculation au registre du commerce et des sociétés de moins de trois mois.
 
@@ -10,7 +10,7 @@ Lorsque les autorités compétentes du pays d'origine ou d'établissement du dem
 
 3° Un document présentant de manière précise les moyens mis en œuvre pour assurer la sécurité des données à caractère personnel en application de l'article 32 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
 
-4° Lorsque l'opérateur de dématérialisation recourt à un prestataire d'hébergement, la référence ou la copie de la décision de qualification “SecNumCloud” délivrée par l'Agence nationale de la sécurité des systèmes d'information en cours de validité le concernant. Dans le cas où la procédure de qualification est en cours, ces éléments peuvent être apportés au plus tard lors de la remise du rapport d'audit mentionné au c du 6° du présent I ;
+4° Lorsque l'opérateur de dématérialisation recourt à un prestataire d'hébergement en nuage, la référence ou la copie de la décision de qualification “SecNumCloud” délivrée par l'Agence nationale de la sécurité des systèmes d'information en cours de validité le concernant. Dans le cas où la procédure de qualification est en cours, ces éléments peuvent être apportés au plus tard lors de la remise du rapport d'audit mentionné au c du 6° du présent I ;
 
 5° L'attestation de certification ISO/IEC/27001 en cours de validité relative à son système d'information, incluant l'ensemble des infrastructures, outils, services et éléments d'organisation informatique qui contribuent à réaliser son activité d'émission, de transmission et de réception des factures et de transmission des données de facturation, de transaction et de paiement, assortie de l'engagement de l'opérateur de dématérialisation d'exploiter son système d'information depuis le territoire d'un Etat membre de l'Union européenne.
 
@@ -50,6 +50,16 @@ IV. - En cas de défaut de production du rapport mentionné au c du 6° du I dan
 
 Lorsque le rapport d'audit produit par l'opérateur de plateforme de dématérialisation constate une ou plusieurs non-conformités, celui-ci est tenu, lors de sa transmission à l'administration fiscale, de l'informer des mesures correctrices prises pour y remédier et de leur délai de mise en œuvre. Ce dernier ne peut excéder trois mois après la date de remise du rapport d'audit à cette administration. A défaut de cette information ou s'il apparait que les mesures correctrices envisagées par l'opérateur sont insuffisantes, les dispositions du premier alinéa s'appliquent.
 
+V. - Pour les demandes introduites avant la mise à disposition de l'environnement de test du portail public de facturation, l'administration fiscale peut délivrer l'immatriculation sous réserve de la production ultérieure des comptes rendus de tests techniques mentionnés au d du 7° du I, au plus tard dans un délai de trois mois à compter de cette mise à disposition. L'administration fiscale rend publique la mise à disposition de l'environnement de test sur son site internet et en informe les opérateurs concernés.
+
+L'administration fiscale constate la validité des comptes rendus de tests techniques produits dans un délai de deux mois à compter de leur réception.
+
+Dans le cas où les comptes rendus produits ne permettent pas d'établir l'interopérabilité mentionnée au d du 7° du I, elle informe, dans un délai de deux mois à compter de leur réception, l'opérateur de plateforme de dématérialisation de l'expiration de la validité du numéro d'immatriculation qui prend effet au terme d'un délai de deux mois à compter de sa notification.
+
+A défaut de production des comptes rendus de tests techniques dans le délai prévu au premier alinéa, elle informe, dans un délai de deux mois à compter de l'expiration dudit délai, l'opérateur de plateforme de dématérialisation de l'expiration de la validité du numéro d'immatriculation qui prend effet au terme d'un délai de deux mois à compter de sa notification.
+
+Le délai mentionné au c du 6° du I court à compter de la décision mentionnée au deuxième alinéa.
+
 NOTA :
 
 Conformément à l'article 3 du décret n° 2022-1299 du 7 octobre 2022, dans sa rédaction issue de l'article 2 du décret n° 2024-266 du 25 mars 2024 :
@@ -61,3 +71,5 @@ Toutefois, ces dispositions ne s'appliquent qu'à compter du 1er septembre 2027 
 Pour les opérations mentionnées aux articles 290 et 290 A du code général des impôts, les dispositions du présent article dans sa rédaction issue de l'article 1er du décret précité s'appliquent aux factures émises ou, à défaut, aux opérations réalisées à compter du 1er septembre 2026.
 
 Toutefois, cette date est portée au 1er septembre 2027 pour les assujettis relevant des catégories d'entreprises mentionnées au second alinéa du I.
+
+Conformément à l'article 3 du décret n° 2024-266 du 25 mars 2024, les dispositions du V du présent article sont applicables aux demandes présentées antérieurement à la date de publication dudit décret et n'ayant pas encore donné lieu à immatriculation ou refus.
