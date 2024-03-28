@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231008562
+
+- Question : [SEQ231008562](seq231008562.md) — Conventionnement pour une offre de restauration étudiante à tarif modéré
+
+## Réponse
+
+*Enseignement supérieur et recherche, JO du 2024-03-28, page 1318*
+
+L'article L822-1-1 du code de l'éducation prévoit qu'une "aide financière est proposée aux étudiants n'ayant pas accès à une structure de restauration universitaire, pour leur permettre d'acquitter, en tout ou en partie, le prix d'un repas consommé ou acheté auprès d'un organisme ayant conventionné, sur le territoire considéré, avec les établissements d'enseignement supérieur, les collectivités territoriales ou le réseau des oeuvres universitaires et scolaires." Cet article, codifié à la suite de l'adoption de la loi loi du 13 avril 2023 visant à favoriser l'accès de tous les étudiants à une offre de restauration à tarif modéré, est en cours de mise en oeuvre : - La loi de finances pour 2024 mobilise 25Meuros de crédits nouveaux pour développer la restauration via de nouveaux conventionnements avec des organismes partenaires et la mise en place progressive d'une aide financière pour faire le dernier kilomètre pour les étudiants qui n'auraient, malgré cela, aucune solution collective de proximité ; - Une circulaire a été prise dès le mois de janvier, après adoption de la loi de finances, pour identifier et qualifier les zones dites "blanches" ; - En parallèle de l'objectivation des zones blanches, les services du ministère de l'enseignement supérieur et du Cnous travaillent aux conditions de mise en oeuvre opérationnelle de la mesure. Ces chantiers doivent être conduits de front pour améliorer l'offre aux étudiants dans ces zones, soit en y étendant l'offre collective directement ou par convention, soit en leur proposant une aide financière individuelle directe. Les textes d'application seront pris dans les prochains mois.
