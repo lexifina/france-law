@@ -1,0 +1,10 @@
+# Conseil Régional Occitanie : délibération — ACTIONS DE SOLIDARITÉ DE LA RÉGION OCCITANIE EN PALESTINE (GAZA ET CISJORDANIE)
+
+- Collectivité : Conseil Régional Occitanie
+- SIREN : 200053791
+- Date : 2024-03-28
+- Matière : 7.5 Subventions
+- Objet : ACTIONS DE SOLIDARITÉ DE LA RÉGION OCCITANIE EN PALESTINE (GAZA ET CISJORDANIE)
+- Transmis à la préfecture : 2024-03-29
+- Acte publié : https://laregion-webdelib.digitechcloud.fr/webdelibplus/jsp/seance_agenda.jsp?date=20240328&assembly=Commission%20Permanente&type=apres&role=usager
+- Jeu de données : https://www.data.gouv.fr/datasets/68155d2244625fa8769e6b6d
