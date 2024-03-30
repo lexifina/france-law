@@ -56,4 +56,8 @@ LISTE DES CORPS ET CADRES D'EMPLOI CONCERNÉS PAR LE TRONC COMMUN
 
 - magistrats des tribunaux administratifs et des cours administratives d'appel ;
 
-- magistrats des chambres régionales des comptes.
+- magistrats des chambres régionales des comptes ;
+
+- médecins inspecteurs de santé publique ;
+
+- pharmaciens inspecteurs de santé publique.
