@@ -56,8 +56,6 @@ Travaux de rénovation globale |
 
 Avec changement d'équipements au charbon ou au fioul
 
-autres qu'à condensation
-
 |
 
 500 |

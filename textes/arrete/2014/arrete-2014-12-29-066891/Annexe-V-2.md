@@ -2,7 +2,9 @@
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=B51-SSHriFiFYTUI37wQ7PwDva0a42xsLCS5e-CWYeI=
 
-Conformément au VI de l'article 1 de l'arrêté du 22 octobre 2022 (NOR : ENER2228398A), dans la partie " Offres financières " de la présente annexe, la phrase : " Il y est également mentionné, en cas de remplacement d'une chaudière, qu'il s'agit d'une chaudière autre qu'à condensation ou à défaut, il est fait mention de la marque et de la référence de la chaudière déposée et le document justifiant qu'il s'agit d'une chaudière autre qu'à condensation est archivé. " est supprimée.
+Conformément au VI de l'article 1 de l'arrêté du 22 octobre 2022 (NOR : ENER2228398A), dans la partie " Offres financières " de la présente annexe, la phrase : " Il y est également mentionné, en cas de remplacement d'une chaudière, qu'il s'agit d'une chaudière ou à défaut, il est fait mention de la marque et de la référence de la chaudière déposée et le document justifiant qu'il s'agit d'une chaudière est archivé. " est supprimée.
+
+Conformément au VI de l'article 2 de l'arrêté du 22 mars 2024 (NOR : ECOR2405034A), dans la partie " Offres financières " de la présente annexe, la phrase : " Il y est également mentionné, en cas de remplacement d'une chaudière, qu'il s'agit d'une chaudière autre qu'à condensation ou à défaut, il est fait mention de la marque et de la référence de la chaudière déposée et le document justifiant qu'il s'agit d'une chaudière autre qu'à condensation est archivé. " est supprimée.
 
 NOTA :
 

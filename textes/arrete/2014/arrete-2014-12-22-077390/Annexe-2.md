@@ -214,7 +214,153 @@ Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER23252
 
 Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-TH-161, figurant en annexe C dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.
 
-- Conduit d’évacuation des produits de combustion / Fiche d’opération standardisée n°BAR-TH-163
+CERTIFICATS D'ÉCONOMIES D'ÉNERGIE OPÉRATION NO BAR-TH-163
+
+Conduit d'évacuation des produits de combustion
+
+1. Secteur d'application
+
+Bâtiments résidentiels collectifs existants disposant, pour chaque logement, d'un chauffage central individuel par chaudière utilisant un combustible gazeux.
+
+2. Dénomination
+
+Mise en place d'un conduit d'évacuation des produits de combustion permettant le raccordement de chaudières à condensation en remplacement de chaudières individuelles non étanches (type B) ou étanches sur un conduit collectif fonctionnant en tirage naturel ou en remplacement de chaudières individuelles non étanches (type B) sur un conduit de type VMC gaz.
+
+La présente fiche d'opération standardisée s'applique aux opérations engagées avant le 1er janvier 2025.
+
+3. Conditions pour la délivrance de certificats
+
+3-1. Mise en place du conduit d'évacuation
+
+La mise en place est réalisée par un professionnel.
+
+Dans le cas de la mise en place d'un conduit individuel d'évacuation des produits de combustion dans un conduit de fumée individuel existant, sa longueur est supérieure ou égale à 10 mètres, raccordement à la chaudière inclus.
+
+Dans le cas de la mise en place de conduits individuels d'évacuation des produits de combustion pour l'ensemble des logements raccordés à un conduit collectif existant, les conduits individuels sont installés simultanément et en réutilisation d'un conduit de type VMC gaz, Shunt ou Alsace.
+
+Dans le cas de la mise en place d'un conduit collectif, ce dernier remplace un ou plusieurs conduits de fumée collectifs de type Shunt, Alsace, alvéole technique gaz, VMC gaz pour chaudières non étanches ou remplace des conduits collectifs pour chaudières étanches à tirage naturel (type 3Ce).
+
+3-2. Preuve de la réalisation
+
+Dans le cas de la mise en place d'un conduit individuel :
+
+Dans le cas de la mise en place d'un conduit individuel d'évacuation des produits de combustion dans un conduit de fumée individuel existant, la preuve de la réalisation de l'opération mentionne la mise en place d'un conduit d'évacuation des gaz de combustion individuel avec ses marque et référence et la longueur du conduit installé (raccordement à la chaudière compris).
+
+Dans le cas de la mise en place de conduits individuels dans un conduit collectif existant, la preuve de la réalisation de l'opération mentionne la mise en place simultanée de conduits individuels d'évacuation des gaz de combustion, avec leurs marques et références, pour l'ensemble des logements raccordés à un conduit collectif existant et en réutilisation d'un conduit de type VMC gaz, Shunt ou Alsace.
+
+Dans le cas de la mise en place d'un conduit collectif :
+
+La preuve de la réalisation de l'opération mentionne la mise en place d'un ou plusieurs conduits de fumée collectifs en remplacement ou réutilisation d'un conduit de type Shunt, Alsace, alvéole technique gaz, VMC gaz pour chaudières non étanches ou conduits collectifs pour chaudière étanche à tirage naturel avec ses marques et référence ainsi que le nombre de chaudières à raccorder sur chacun des conduits.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+Zone climatique |
+
+Montant unitaire en kWh cumac par chaudière à raccorder au conduit d'évacuation de produits de combustion |
+
+|
+
+Nombre de chaudières à raccorder
+
+au conduit |
+
+H1 |
+
+37 600 |
+
+X |
+
+N |
+
+H2 |
+
+32 300 |
+
+H3 |
+
+24 600 |
+
+Annexe 1
+
+A la fiche d'opération standardisée BAR-TH-163, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-TH-163 (v. A61.3) : Mise en place d'un conduit d'évacuation des produits de combustion permettant le raccordement de chaudières à condensation en remplacement de chaudières individuelles non étanches (type B) ou étanches sur un conduit collectif fonctionnant en tirage naturel ou en remplacement de chaudières individuelles non étanches (type B) sur un conduit de type VMC gaz.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture du conduit d'évacuation des produits de combustion :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment résidentiel collectif existant depuis plus de deux ans à la date d'engagement de l'opération : □ Oui □ Non
+
+* Le chauffage central de chaque logement est assuré par une chaudière individuelle au gaz : □ Oui □ Non
+
+* L'opération concerne la mise en place d'un (de) conduit(s) (une seule case à cocher) :
+
+□ Collectif
+
+□ Individuel dans un conduit de fumée individuel
+
+□ Individuel dans un conduit de fumée collectif
+
+Si le conduit d'évacuation mis en place est collectif :
+
+* Le conduit collectif vient en remplacement d'un ou plusieurs conduits de fumée collectifs de type :
+
+□ Shunt pour chaudières non étanches
+
+□ Alsace pour chaudières non étanches
+
+□ Alvéole technique gaz pour chaudières non étanches
+
+□ VMC gaz pour chaudières non étanches
+
+□ Conduits collectifs pour chaudières étanches à tirage naturel
+
+* Nombre de chaudières à raccorder au conduit :
+
+Si le conduit d'évacuation mis en place dans un appartement est individuel et installé dans un conduit de fumée individuel :
+
+* Dans le cas de la mise en place d'un conduit individuel d'évacuation des produits de combustion dans un conduit de fumée individuel existant, longueur du conduit individuel d'évacuation des produits de combustion : (mètres)
+
+NB. La longueur du conduit doit être supérieure ou égale à 10 mètres, raccordement à la chaudière inclus.
+
+Si les conduits individuels d'évacuation sont installés dans un conduit collectif existant :
+
+* L'installation des conduits individuels d'évacuation est réalisée simultanément et concerne l'ensemble des logements raccordés à un conduit collectif existant : □ Oui □ Non
+
+* L'installation des conduits individuels d'évacuation est réalisée en réutilisant un conduit collectif de type :
+
+□ VMC gaz
+
+□ Shunt
+
+□ Alsace
+
+Identité du professionnel ayant réalisé la mise en place du conduit d'évacuation des produits de combustion, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
+
+* Nom
+
+* Prénom
+
+* Raison sociale :
+
+* N° SIRET :
 
 Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : TRER2121430A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er novembre 2021.
 
