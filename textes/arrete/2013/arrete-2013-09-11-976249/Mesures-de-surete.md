@@ -1794,7 +1794,21 @@ Il peut retirer ou, en cas d'urgence, suspendre l'accréditation d'un centre d'e
 
 Les centres d'examens mis à disposition par des organismes d'Etat ne sont pas soumis à ces dispositions.
 
-III. - Les demandes d'inscription aux examens de certification d'agents de sûreté de l'aviation civile sont formulées auprès de l'ENAC, en précisant, pour chaque session d'examen sollicitée parmi celles proposées par l'ENAC, la date, le lieu et la typologie, avec ou sans analyse d'images, d'agent de sûreté de l'aviation civile définie à l'article 11-3-1.La formation initiale avant l'obtention d'une certification est réalisée dans les quatre mois précédant la date d'examen sollicitée.
+III. - Les demandes d'inscription aux examens de certification d'agents de sûreté de l'aviation civile sont formulées auprès de l'ENAC, en mentionnant, pour chaque session d'examen sollicitée parmi celles proposées par l'ENAC :
+
+1. La date ;
+
+2. Le lieu ;
+
+3. La typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 assortie de la précision :
+
+a. Sans analyse d'images ; ou
+
+b. Avec analyse d'images en deux dimensions ; ou
+
+c. Avec analyse d'images en deux dimensions et trois dimensions.
+
+La formation initiale avant l'obtention de certification s'achève dans les quatre mois précédant la date d'examen sollicitée.
 
 Si un agent souhaite obtenir une certification pour une nouvelle typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1, la formation initiale requise doit couvrir l'ensemble des objectifs pédagogiques non couvert par la ou les typologies d'agent de sûreté de l'aviation civile pour lesquelles il est certifié.
 
@@ -5612,4 +5626,4 @@ ancien article 12-11-2
 
 NOTA :
 
-Conformément au premier alinéa de l’article 4 de l’arrêté du 8 décembre 2023 (NOR : TREA2322766A), ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au deuxième alinéa de l’article 4 de l’arrêté du 8 décembre 2023 (NOR : TREA2322766A), ces dispositions entrent en vigueur le 1er avril 2024.
