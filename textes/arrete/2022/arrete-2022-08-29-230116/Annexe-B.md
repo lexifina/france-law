@@ -188,15 +188,15 @@ Label |
 
 Valeurs |
 
-Comment est votre état de santé général ? |
+Quel est votre état de santé général ? |
 
-- Très bon,
+- Très bon
 
-- Bon,
+- Bon
 
-- Assez bon,
+- Moyen
 
-- Mauvais,
+- Mauvais
 
 - Très mauvais |
 
@@ -208,11 +208,19 @@ Pratiquez-vous une activité physique et/ou sportive ? |
 
 - Régulièrement mais moins d'une fois par semaine Régulièrement, au moins une fois par semaine |
 
-Quel est votre état de santé psychologique entre 0 et 10 ?
+Quel est votre état de santé psychologique ? |
 
-(10 très bon et 0 très mauvais) |
+-Très bon
 
-Nombre |
+-Bon
+
+-Moyen
+
+-Mauvais
+
+-Très mauvais
+
+|
 
 - motivation du don :
 
@@ -224,49 +232,87 @@ Valeurs |
 
 J'ai entendu parler du don de gamètes |
 
-- Par une personne de mon entourage (famille, amie, travail, …)
+-Par une personne de mon entourage (famille, ami (e), travail, …)
 
-- Par les médias ou les réseaux sociaux |
+-Par les médias ou les réseaux sociaux
 
-Je suis bénévole dans une ou plusieurs associations |
+-Par un professionnel de santé
 
-Oui, Non |
+-Par une association
 
-Je souhaite offrir à d'autres ce bonheur d'être parent |
+-Autre
 
-Oui, Non |
+-Ne se prononce pas |
 
-J'ai moi-même connu un problème d'infertilité, dans le passé ou encore actuellement |
+Si autre, veuillez préciser |
 
-Oui, Non |
+Texte libre rédigé par les soins du donneur |
 
-Je connais une ou plusieurs personnes qui
+Je connais une ou plusieurs personnes qui éprouvent des problèmes d'infertilité |
 
-éprouvent des problèmes d'infertilité |
+-Oui
 
-Oui, Non |
+-Non
 
-Si oui, ces personnes ont besoin d'un don de gamètes |
+-Ne se prononce pas |
 
-Oui, Non |
+Si oui, cette ou ces personnes ont besoin d'un don de gamètes |
+
+-Oui
+
+-Non
+
+-Ne se prononce pas |
 
 Si oui, il s'agit |
 
-- D'une personne de ma famille
+-D'une personne de ma famille
 
-- D'un ami ou d'une amie
+-D'un ami ou d'une amie
 
-- D'une personne que je ne connais pas personnellement, mais son histoire m'a touché
+-D'une personne que je ne connais pas personnellement, mais son histoire m'a touché (e)
 
-- J'ai fait un don dans l'espoir de lui/de leur faire gagner du temps d'attente |
+-Ne se prononce pas |
 
-Je suis donneur de sang et/ou de moelle osseuse |
+J'ai moi-même connu un problème d'infertilité dans le passé ou encore actuellement |
 
-Oui, Non |
+-Oui
 
-Je suis né(e) grâce à un don de spermatozoïdes / d'ovocytes / d'embryons |
+-Non
 
-Oui, Non |
+-Ne se prononce pas |
+
+Je souhaite offrir à d'autres la possibilité d'être parent (s) |
+
+-Oui
+
+-Non
+
+-Ne se prononce pas |
+
+Je suis bénévole dans une ou plusieurs associations |
+
+-Oui
+
+-Non
+
+-Ne se prononce pas |
+
+Je suis donneur de sang et/ ou de moelle osseuse |
+
+-Oui
+
+-Non
+
+-Ne se prononce pas |
+
+Je suis né (e) grâce à un don de spermatozoïdes/ d'ovocytes/ d'embryons |
+
+-Oui
+
+-Non
+
+-Ne se prononce pas |
 
 Précisez votre motivation |
 
@@ -276,27 +322,15 @@ Annexe
 
 Liste des catégories socio-professionnelles
 
-Code |
-
-Libellé |
-
 10 |
 
-Agriculteurs exploitants |
+Exploitants de l'agriculture, sylviculture, pêche et aquaculture |
 
-11 |
-
-Agriculteurs sur petite exploitation |
-
-12 |
-
-Agriculteurs sur moyenne exploitation |
-
-13 |
-
-Agriculteurs sur grande exploitation |
+Agriculteurs |
 
 21 |
+
+Artisans |
 
 Artisans |
 
@@ -304,87 +338,107 @@ Artisans |
 
 Commerçants et assimilés |
 
+Commerçants et assimilés |
+
 23 |
 
-Chefs d'entreprise de 10 salariés ou plus |
+Chefs d'entreprise de plus de 10 personnes |
+
+Chefs d'entreprise de plus de 10 personnes |
 
 31 |
 
 Professions libérales |
 
-32 |
-
-Cadres de la fonction publique, professions intellectuelles et artistiques |
+Professions libérales |
 
 33 |
+
+Cadres administratifs et techniques de la fonction publique |
 
 Cadres de la fonction publique |
 
 34 |
 
-Professeurs, professions scientifiques |
+Professeurs et professions scientifiques supérieures |
+
+Professeurs et professions scientifiques |
 
 35 |
 
-Professions de l'information, des arts et des spectacles |
+Professions de l'information, de l'art et des spectacles |
 
-36 |
-
-Cadres d'entreprise |
+Professions de l'information, de l'art et des spectacles |
 
 37 |
 
-Cadres administratifs et commerciaux d'entreprise |
+Cadres des services administratifs et commerciaux d'entreprise |
+
+Cadres administratifs et commerciaux |
 
 38 |
 
 Ingénieurs et cadres techniques d'entreprise |
 
-41 |
-
-Professions intermédiaires de l'enseignement, de la santé, de la fonction publique et assimilés |
+Cadres techniques d'entreprise |
 
 42 |
 
-Professeurs des écoles, instituteurs et assimilés |
+Professions de l'enseignement primaire et professionnel, de la formation continue et du sport |
+
+Professions de l'enseignement primaire et professionnel |
 
 43 |
 
 Professions intermédiaires de la santé et du travail social |
 
+Intermédiaires de la santé et du travail social |
+
 44 |
 
-Clergé, religieux |
+Ministres du culte et religieux consacrés |
+
+Religieux |
 
 45 |
 
-Professions intermédiaires administratives de la fonction publique |
+Professions intermédiaires de la fonction publique (administration, sécurité) |
+
+Intermédiaires de la fonction publique |
 
 46 |
 
-Professions intermédiaires administratives et commerciales d'entreprise |
+Professions intermédiaires administratives et commerciales des entreprises |
+
+Intermédiaires des entreprises |
 
 47 |
 
 Techniciens |
 
+Techniciens |
+
 48 |
 
-Contremaître et agents de maîtrise |
+Agents de maîtrise (hors maîtrise administrative) |
 
-51 |
-
-Employés de la fonction publique |
+Agents de maîtrise de production |
 
 52 |
 
-Employés civils et agents de service de la fonction publique |
+Employés administratifs de la fonction publique, agents de service et auxiliaires de santé |
+
+Employés de la fonction publique |
 
 53 |
 
-Policiers et militaires |
+Policiers, militaires, pompiers, agents de sécurité privée |
+
+Policiers, militaires et agents de sécurité privée |
 
 54 |
+
+Employés administratifs d'entreprise |
 
 Employés administratifs d'entreprise |
 
@@ -392,15 +446,17 @@ Employés administratifs d'entreprise |
 
 Employés de commerce |
 
+Employés de commerce |
+
 56 |
 
 Personnels des services directs aux particuliers |
 
-61 |
-
-Ouvriers qualifiés |
+Personnels des services aux particuliers |
 
 62 |
+
+Ouvriers qualifiés de type industriel |
 
 Ouvriers qualifiés de type industriel |
 
@@ -408,27 +464,35 @@ Ouvriers qualifiés de type industriel |
 
 Ouvriers qualifiés de type artisanal |
 
+Ouvriers qualifiés de type artisanal |
+
 64 |
 
-Chauffeurs |
+Conducteurs de véhicules de transport, chauffeurs-livreurs, coursiers |
+
+Conducteurs du transport |
 
 65 |
 
-Ouvriers qualifiés de la manutention, du magasinage et des transports |
+Conducteurs d'engins, caristes, magasiniers et ouvriers du transport (non routier) |
 
-66 |
-
-Ouvriers non qualifiés |
+Conducteurs d'engins et magasiniers |
 
 67 |
 
-Ouvriers non qualifiés de type industriel |
+Ouvriers peu qualifiés de type industriel |
+
+Ouvriers peu qualifiés de type industriel |
 
 68 |
 
-Ouvriers non qualifiés de type artisanal |
+Ouvriers peu qualifiés de type artisanal |
+
+Ouvriers peu qualifiés de type artisanal |
 
 69 |
+
+Ouvriers agricoles, des travaux forestiers, de la pêche et de l'aquaculture |
 
 Ouvriers agricoles |
 
@@ -436,54 +500,68 @@ Ouvriers agricoles |
 
 Anciens agriculteurs exploitants |
 
+|
+
 72 |
 
-Anciens artisans, commerçants, chefs d'entreprise |
+Anciens artisans, commerçants et chefs d'entreprise |
 
-73 |
-
-Anciens cadres et professions intermédiaires |
+|
 
 74 |
 
 Anciens cadres |
 
+|
+
 75 |
 
-Anciens professions intermédiaires |
+Anciennes professions intermédiaires |
 
-76 |
-
-Anciens employés et ouvriers |
+|
 
 77 |
 
 Anciens employés |
 
+|
+
 78 |
 
 Anciens ouvriers |
+
+|
 
 81 |
 
 Chômeurs n'ayant jamais travaillé |
 
-82 |
-
-Inactifs divers (autres que retraités) |
+|
 
 83 |
 
 Militaires du contingent |
 
+|
+
 84 |
 
-Elève ou étudiant |
+Élèves, étudiants |
+
+|
 
 85 |
 
 Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités) |
 
+|
+
 86 |
 
 Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités) |
+
+|
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 8 mars 2024 (NOR : TSSP2407121A), ces dispositions entrent en vigueur le 1er avril 2024.
