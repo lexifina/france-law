@@ -70,22 +70,6 @@ Renseignement des usagers de la douane
 
 |
 
-Centre de services partagés (CSP) CHORUS de la DGDDI
-
-|
-
-DI Auvergne-Rhône-Alpes
-
-|
-
-France métropolitaine, Guadeloupe, Guyane, Martinique, La Réunion et Mayotte
-
-|
-
-Transcription et traitement dans l'outil CHORUS de l'ensemble des actes de gestion, hors ceux pris en charge par le service facturier (SFACT) : activités d'exécution de la dépense et d'exécution des recettes non fiscales, travaux de fin de gestion, de pilotage transversal et de gestion des actifs.
-
-|
-
 Centre interrégional de saisie de données de Sarcelles
 
 |
@@ -101,18 +85,6 @@ Ain, Allier, Ardèche, Ariège, Aude, Aveyron, Calvados, Cantal, Cher, Côte-d'O
 |
 
 Collecte, traitement et enregistrement des documents administratifs uniques (DAU), des déclarations d'échange de biens (DEB) et des déclarations d'échange de services (DES)
-
-|
-
-Service facturier (SFACT)
-
-|
-
-France métropolitaine, Guadeloupe, Guyane, Martinique, La Réunion et Mayotte
-
-|
-
-Centralisation et mise en règlement, via l'outil CHORUS, des dépenses présentées par le CSP de la DGDDI et de celles présentées, par exception, par les services prescripteurs : création des demandes de paiement et activité de contrôle des actes (de la liquidation au paiement).
 
 |
 
@@ -188,4 +160,4 @@ France métropolitaine, Guadeloupe, Guyane, Martinique, La Réunion et Mayotte |
 
 NOTA :
 
-Conformément à l'article 2 du décret n° 2023-429 du 1er juin 2023, ces dispositions entrent en vigueur le 1er juillet 2023.
+Conformément à l'article 6 du décret n° 2024-223 du 14 mars 2024, ces dispositions entrent en vigueur le 1er avril 2024.
