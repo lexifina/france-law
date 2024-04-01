@@ -14,7 +14,7 @@ Servitudes de protection des bois et forêts relevant du régime forestier et in
 
 Servitudes relatives aux forêts dites de protection instituées en application des articles L. 141-1 à L. 141-7 du code forestier ;
 
-Prescriptions et interdictions auxquelles sont soumis les propriétaires en application des articles L. 142-1, L. 143-3, L. 143-4 et L. 163-16 du code forestier.
+Prescriptions et interdictions auxquelles sont soumis les propriétaires en application des articles L. 142-1, L. 143-3 et L. 143-4 du code forestier ;
 
 b) Littoral maritime.
 
@@ -216,8 +216,6 @@ Servitudes d'utilité publique instituées en application de l'article L. 593-5 
 
 Servitudes d'utilité publique instituées en application de l'article L. 566-12-2 du code de l'environnement.
 
+Servitudes de passage et d'aménagement instituées en application de l'article L. 134-2 du code forestier.
+
 Un arrêté du ministre chargé de l'urbanisme fixe la légende des différentes servitudes d'utilité publique figurant sur cette liste.
-
-NOTA :
-
-Conformément à l’article 10 du décret n° 2023-13 du 11 janvier 2023, ces dispositions entrent en vigueur le 1er juillet 2023. Se reporter aux modalités d’application prévues audit article.
