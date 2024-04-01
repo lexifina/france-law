@@ -52,25 +52,27 @@ supérieures |
 
 |
 
-Chaudières à alimentation automatique fonctionnant au bois ou autres biomasses, mentionnées au a du 2 de l'annexe 1 |
+Chaudières à alimentation automatique fonctionnant au bois ou autres biomasse, mentionnées au a du 2 de l'annexe 1
 
-10 000 € |
+|
 
-8 000 € |
+7 000 € |
 
-4 000 € |
+5 500 € |
+
+3 000 € |
 
 X |
 
 18 000 € |
 
-Chaudières à alimentation manuelle fonctionnant au bois ou autres biomasses, mentionnées au b du 2 de l'annexe 1 |
+Chaudières à alimentation manuelle fonctionnant au bois ou autres biomasse, mentionnées au b du 2 de l'annexe 1 |
 
-8 000 € |
+5 500 € |
 
-6 500 € |
+4 500 € |
 
-3 000 € |
+2 000 € |
 
 X |
 
@@ -90,11 +92,11 @@ Equipements de chauffage ou de fourniture d'eau chaude sanitaire indépendants f
 
 Poêles à granulés, cuisinières à granulés |
 
-2 500 € |
-
-2 000 € |
+1 800 € |
 
 1 500 € |
+
+1 000 € |
 
 X |
 
@@ -102,11 +104,11 @@ X |
 
 Poêles à bûches, cuisinières à bûches |
 
-2 500 € |
+1 800 € |
 
-2 000 € |
+1 500 € |
 
-1 000 € |
+700 € |
 
 X |
 
@@ -114,11 +116,11 @@ X |
 
 Foyers fermés, inserts |
 
-2 500 € |
+1 800 e |
 
-1 500 € |
+1 000 € |
 
-800 € |
+600 € |
 
 X |
 
