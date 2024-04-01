@@ -40,6 +40,16 @@ En tenant compte notamment des résultats de l'étude prévue au 2.1.1, et dans 
 
 L'éco-organisme propose également des primes et pénalités associées aux autres critères pertinents de performance environnementale qui sont mentionnés à l'article L. 541-10-3.
 
+2.1.3. Taux d'abattement appliqué à la contribution financière des produits et matériaux de construction du secteur du bâtiment en bois
+
+Concernant les produits et matériaux de construction constitués majoritairement en masse de bois visés au b du 2° du II de l'article R. 543-289, l'éco-organisme applique des taux d'abattement à la contribution financière versée par les producteurs lorsque ces produits ou matériaux sont susceptibles d'être composés de bois frais de sciage dont le taux d'humidité est supérieur à 20 %. Ces taux d'abattement sont au minimum de :
+
+a)-9 % par rapport au bois “ sec ” dont le taux d'humidité est inférieur à 20 % et ;
+
+b)-12 % par rapport au bois raboté.
+
+Le cas échéant, ces deux taux sont cumulables.
+
 2.2. Déconstruction sélective
 
 En tenant compte des bilans des plans des producteurs prévus à l'article L. 541-10-12 du code de l'environnement, l'éco-organisme réalise dans un délai de 3 ans à compter de son agrément une étude visant à proposer un plan d'actions permettant de développer la déconstruction sélective des bâtiments afin d'encourager le réemploi, la réutilisation, le recyclage et la valorisation des matériaux issus des chantiers de démolition et de rénovation. Les enseignements et données tirés de cette étude sont diffusés aux maîtres d'ouvrage, aux maîtres d'œuvre et aux entreprises de travaux afin de les encourager à l'éco-conception de leurs bâtiments.
@@ -258,9 +268,13 @@ A partir des résultats de cette étude, l'éco-organisme propose des modalités
 
 3.9.2. Seuil de reprise sans frais sur les chantiers
 
-L'éco-organisme réalise, avant le 31 décembre 2023, en lien avec l'ADEME, une étude concernant le seuil de la reprise sans frais des déchets collectés sur les chantiers prévue au c du 2° du I de l'article R. 543-290-4.
+L'éco-organisme réalise, avant le 31 décembre 2024, en lien avec l'ADEME, une étude concernant le seuil de la reprise sans frais des déchets collectés sur les chantiers prévue au c du 2° du I de l'article R. 543-290-4.
 
-L'éco-organisme peut proposer au ministre chargé de l'environnement après avis du comité des parties prenantes une modification du seuil prévu afin de tenir compte des résultats de cette étude.
+Cette étude est accompagnée d'une expérimentation portant sur au moins 2000 chantiers représentatifs des caractéristiques des chantiers du bâtiment au niveau national en termes de nature de chantier, de quantités de déchets produites, de répartition géographique, en priorisant les chantiers dont la maîtrise d'ouvrage est une collectivité territoriale.
+
+Cette étude est réalisée en lien avec les représentants des entreprises de construction, de rénovation et de démolition de bâtiments et les représentants des collectivités territoriales chargées de la maîtrise d'ouvrage des chantiers de construction.
+
+L'éco-organisme peut proposer au ministre chargé de l'environnement après avis du comité des parties prenantes une modification du seuil prévu afin de tenir compte des résultats de cette étude et de cette expérimentation, en vue de la généralisation de la prise en charge des coûts de collecte et de transport des déchets dans le cadre de leur reprise sans frais sur les chantiers à compter du 1er janvier 2025.
 
 3.9.3. Etude du gisement de déchets et révision des objectifs de collecte, de recyclage et de valorisation
 
@@ -412,7 +426,7 @@ L'éco-organisme peut également décider de différer au 1er janvier 2024 la pr
 
 6.2.3. Reprise sur chantier prévue au c du 2° du I de l'article R. 543-290-4
 
-L'éco-organisme peut décider de différer au 1er janvier 2024 la prise en charge de la collecte et du transport des déchets de PMCB repris par des opérateurs de gestion de déchets sur le lieu d'un chantier de construction, rénovation ou démolition lorsque la quantité de déchets est supérieure à 50 m3.
+L'éco-organisme peut décider de différer au 1er janvier 2025 la prise en charge de la collecte et du transport des déchets de PMCB repris par des opérateurs de gestion de déchets sur le lieu d'un chantier de construction, rénovation ou démolition lorsque la quantité de déchets est supérieure à 50 m3.
 
 Il peut limiter la prise en charge des coûts de transport liés à cette reprise à hauteur de 50 % des coûts de référence mentionnés au IV de l'article R. 543-290-8 jusqu'au 31 décembre 2025, puis à hauteur de 80 % de ces coûts de référence à compter du 1er janvier 2026 conformément à l'article R. 543-290-9.
 
@@ -465,3 +479,7 @@ Chaque éco-organisme agréé transmet trimestriellement à l'organisme coordonn
 (1) Etude de préfiguration de la filière REP Produits et Matériaux de Construction du secteur du Bâtiment, ADEME, mars 2021. Synthèse disponible et téléchargeable sur la librairie ADEME : https://librairie.ademe.fr/dechets-economie-circulaire/4573-etude-de-prefiguration-de-la-filiere-rep-produits-et-materiaux-de-construction-du-secteur-du-batiment.html.
 
 (2) Etude de préfiguration de la filière REP Produits et Matériaux de Construction du secteur du Bâtiment, ADEME, mars 2021. Synthèse disponible et téléchargeable sur la librairie ADEME : https://librairie.ademe.fr/dechets-economie-circulaire/4573-etude-de-prefiguration-de-la-filiere-rep-produits-et-materiaux-de-construction-du-secteur-du-batiment.html.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 20 février 2024 (NOR : TREP2333319A), ces dispositions entrent en vigueur le 1er avril 2024.
