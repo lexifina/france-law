@@ -1,0 +1,127 @@
+# Article 1er
+
+Les dispositions de l'article 20 « Cotisations » sont annulées et remplacées comme suit :
+
+« Article 20
+
+Cotisations
+
+Les cotisations des garanties incapacité temporaire et permanente de travail et décès sont assises sur les rémunérations de tous les salariés non-cadres :
+
+|
+
+Taux contractuel
+
+T1/ T2 [1] |
+
+Part patronale |
+
+Part salariale |
+
+Mensualisation [2] |
+
+0,43 % |
+
+0,43 % |
+
+– |
+
+Incapacité temporaire de travail |
+
+0,35 % |
+
+– |
+
+0,35 % |
+
+Incapacité permanente de travail, professionnelle ou non (invalidité) |
+
+0,29 % |
+
+0,26 % |
+
+0,03 % |
+
+Décès |
+
+0,24 % |
+
+0,21 % |
+
+0,03 % |
+
+Sous-total
+
+|
+
+1,31 %
+
+|
+
+0,90 %
+
+|
+
+0,41 %
+
+|
+
+Assurance des charges sociales patronales |
+
+0,18 % |
+
+0,18 % |
+
+– |
+
+Total
+
+|
+
+1,49 %
+
+|
+
+1,08 %
+
+|
+
+0,41 %
+
+|
+
+[1] T1 = Salaire compris entre 0 et 1 plafond mensuel de la sécurité sociale (PMSS).
+
+T2 = Salaire compris entre 1 et 8 fois le PMSS.
+
+[2] L'obligation de maintien de salaire à la charge de l'employeur résultant de la mensualisation est intégralement prise en charge par l'employeur. |
+
+La cotisation mensuelle de la garantie frais de santé est exprimée en pourcentage du plafond mensuel de la sécurité sociale (PMSS) :
+
+|
+
+Régime |
+
+Cotisation totale |
+
+Part patronale |
+
+Part salariale |
+
+Complémentaire frais de santé |
+
+Hors Alsace-Moselle |
+
+1,27 % |
+
+0,76 % |
+
+0,51 % |
+
+Alsace-Moselle |
+
+0,90 % |
+
+0,54 % |
+
+0,36 % |
