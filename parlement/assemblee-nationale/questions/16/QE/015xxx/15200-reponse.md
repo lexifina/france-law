@@ -1,0 +1,9 @@
+# Réponse à la question n° 15200
+
+- Question : [15200](15200.md) — Question n° 15200 — La disparition programmée des médecins scolaires
+
+## Réponse
+
+*JO du 2024-04-02, page 2596*
+
+Le ministère de l'éducation nationale et de la jeunesse est engagé pour reconnaître le professionnalisme et le rôle essentiel des professionnels de la santé scolaire pour la réussite et le bien-être des élèves. Il améliore les conditions d'emploi des médecins et recentre leurs missions, entre autres en valorisant la fonction d'assistant médical dans le cadre du plan de requalification de la filière administrative. Bien sûr, il revalorise les salaires de ces personnels. Du fait des revalorisations indemnitaires intervenues chaque année depuis le Grenelle de l'éducation, la rémunération mensuelle nette des médecins a progressé en moyenne de 19 % entre 2020 et 2023 inclus. Un amendement au projet de loi de finances pour 2024, retenu par le Gouvernement, a majoré de 22 M€ les crédits inscrits au budget du ministère pour la rémunération des personnels sociaux et de santé. De nouvelles mesures de revalorisation pour les médecins de l'éducation nationale sont donc bien à l'étude et seront concertées avec les organisations syndicales représentatives. Elles pourraient porter notamment sur les points suivants : - revaloriser la rémunération, notamment en début de carrière ; - favoriser un exercice mixte entre la médecine scolaire et la médecine libérale ou hospitalière afin de diversifier les activités entre la prévention et le soin ; - favoriser l'accueil d'étudiants et d'internes de troisième cycle dans les services de médecine scolaire ; - améliorer la reconnaissance des médecins de l'éducation nationale intervenant dans la formation spécialisée transversale médecine scolaire ; - accompagner les médecins de l'éducation nationale dans l'accomplissement de leurs obligations de développement professionnel continu et de certification périodique.
