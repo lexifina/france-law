@@ -1,0 +1,9 @@
+# Réponse à la question n° 7441
+
+- Question : [7441](7441.md) — Question n° 7441 — Malus écologique appliqué aux véhicules des CCFF
+
+## Réponse
+
+*JO du 2024-04-02, page 2601*
+
+À l'issue de la saison feux de forêts 2022, le Gouvernement a souhaité renforcer prioritairement les moyens affectés à la prévention et à la lutte contre l'intensification et l'extension du risque incendie. La décision d'engager 150 millions d'euros au profit des pactes capacitaires, sur la période de la loi d'orientation et de programmation du ministère de l'Intérieur 2023-2027, en constitue la traduction concrète. L'enveloppe, dédiée au cofinancement de camions citernes de lutte contre les feux de forêt, permettra de réhausser l'équipement des services d'incendie et de secours à due proportion du risque identifié, en adossant l'ensemble à une logique de mutualisation à l'échelle zonale. Au relais de cet effort budgétaire inédit, la loi n° 2023-580 du 10 juillet 2023 vise expressément à équiper la lutte incendie à la hauteur du risque. Par le truchement de ses dispositions, le législateur a décidé l'exonération : – de la taxe sur les carburants (TICPE) au profit des services d'incendie et de secours (SDIS notamment) ; – de la taxe sur les émissions de dioxyde de carbone des véhicules de tourisme (malus écologique prévu à l'article L. 421-70-1 du Code des impositions sur les biens et service) ceux des services déconcentrés de l'État chargés de la forêt, de l'Office national des forêts, des services des collectivités territoriales et de leurs groupements, des associations syndicales mentionnées aux articles L. 132-2 et L. 133-1-1 du Code forestier et des réserves communales de sécurité civile mentionnées aux articles L. 724-1 à L. 724-13 du Code de la sécurité intérieure, pour leurs missions opérationnelles de prévention, de surveillance et de lutte contre les incendies.
