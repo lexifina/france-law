@@ -1,0 +1,9 @@
+# Réponse à la question n° 9220
+
+- Question : [9220](9220.md) — Question n° 9220 — Établissement permanent de moyens aériens de lutte contre les incendies à Bastia
+
+## Réponse
+
+*JO du 2024-04-02, page 2602*
+
+Suite aux incendies particulièrement intenses en 2022, l'Etat a accru de façon significative ses moyens de lutte contre les incendies de forêt. A ses propres moyens, se sont ajoutés en 2023 près de 5 avions bombardiers d'eau loués, ainsi qu'une flotte d'hélicoptères bombardiers d'eau loués pouvant aller jusqu'à 10 appareils au plus fort des risques. Pour une optimisation de l'emploi de ses moyens, la DGSCGC gère sa flotte de façon centralisée. Elle les déploie donc en fonction de l'intensité du risque. Nonobstant ce principe, elle arme en Corse un détachement composé de 2 Canadairs à Ajaccio et d'un hélicoptère lourd à Corte. Lorsque le risque local est important, elle est en capacité d'envoyer rapidement les renforts complémentaires nécessaires à la lutte, comme cela est arrivé à plusieurs reprises durant l'été 2023. Il n'est donc pas prévu, pour l'instant, de créer une base à Bastia. En revanche, il est important de souligner que dans le cadre du renouvellement complet de la flotte des hélicoptères de la sécurité civile (remplacement des actuels EC145 par des H145), acté dans le cadre de la loi d'orientation et de programmation du ministère de l'Intérieur (LOPMI) et dont les livraisons s'échelonneront à compter de cette année et jusqu'en 2029, le groupement des moyens aériens prévoit la dotation pour les bases hélicoptères concernées par les feux de forêt, d'une capacité bombardier d'eau (environ 1000 litres). En effet, la puissance et les performances de ces nouveaux appareils permettront de doter les bases hélicoptères d'une capacité de bombardiers d'eau complémentaire à la flotte d'avion rendant possible une première réponse rapide d'intervention. La base de Bastia pourrait alors faire partie des bases équipées.
