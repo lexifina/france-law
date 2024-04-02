@@ -1,0 +1,9 @@
+# Réponse à la question n° 12436
+
+- Question : [12436](12436.md) — Question n° 12436 — Gîtes - normes de sécurité
+
+## Réponse
+
+*JO du 2024-04-02, page 2609*
+
+Les exploitants des établissements à usage d'hébergement qui accueillent quinze personnes ou moins au titre du public, ne sont pas soumis aux règles de sécurité contre les risques d'incendie et de panique, définies au sein du règlement de sécurité du 22 juin 1990. Ce seuil d'assujettissement, précisé dans le b) du § 2 de l'article PE2 de ce règlement, s'applique ainsi aux gîtes et à tous autres établissements de tourisme. En deçà de ce seuil, il est d'usage d'appliquer les dispositions relatives à la sécurité incendie dans les bâtiments d'habitation impliquant notamment la présence d'au moins un détecteur de fumée normalisé dans chaque logement. En revanche, lorsque le seuil de quinze personnes est atteint, les propriétaires et les exploitants sont tenus à différentes exigences d'ordre administratif, technique et organisationnel. Il est ainsi prévu qu'une demande d'autorisation de travaux soit faite auprès de la commune mais aussi qu'une visite périodique par la commission de sécurité compétente soit programmée et ceci, tous les cinq ans. Un renforcement des exigences d'isolement des locaux à sommeil et, en fonction des cas, l'installation d'un système de sécurité incendie, sont également à prévoir. Enfin, la présence en permanence d'un responsable de l'établissement formé et entraîné à l'utilisation des moyens de secours est particulièrement exigée pendant les horaires d'ouverture au public. À la suite de cet évènement dramatique survenu l'été dernier, le Gouvernement a décidé d'engager une réflexion, qui doit être nécessairement globale et concertée afin de déterminer un seuil d'acceptabilité pour les petits établissements ouverts au public disposant de locaux à sommeil.
