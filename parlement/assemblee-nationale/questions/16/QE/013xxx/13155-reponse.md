@@ -1,0 +1,9 @@
+# Réponse à la question n° 13155
+
+- Question : [13155](13155.md) — Question n° 13155 — Octroi de l'allocation pour demandeur d'asile aux mineurs
+
+## Réponse
+
+*JO du 2024-04-02, page 2615*
+
+L'article L. 553-1 du Code de l'entrée et du séjour des étrangers et du droit d'asile (CESEDA) prévoit que les demandeurs d'asile qui ont accepté les conditions matérielles d'accueil bénéficient de l'allocation pour demandeur d'asile s'ils satisfont à des conditions d'âge et de ressources. Cette condition d'âge est précisée par voie réglementaire, l'article D. 553-3 du même code la fixant en l'état à dix-huit ans révolus. Or, depuis 2019, plusieurs décisions du Conseil d'État (CE, 20 décembre 2019, n° 436700 ; CE, 18 février 2020, n° 437954 ; CE, 27 janvier 2021, n° 445958) sont intervenues pour préciser les obligations de l'Office français de l'immigration et de l'intégration (OFII) en matière d'ouverture des conditions matérielles d'accueil aux demandeurs d'asile mineurs. En application de ces différentes décisions, l'OFII est désormais tenu d'ouvrir les conditions matérielles d'accueil aux demandeurs d'asile mineurs nés ou ayant rejoint leurs parents après que la demande de ces derniers a été définitivement rejetée. Le montant de l'allocation pour demandeur d'asile (ADA) versée tient alors compte de la composition familiale et non des seuls demandeurs d'asile mineurs. L'OFII examine la situation des mineurs et leur éligibilité au cas par cas, compte tenu notamment de la situation administrative et financière des parents, ainsi que des éléments de vulnérabilité. En moyenne, l'OFII estime que 80 à 90 mineurs perçoivent chaque mois l'ADA dans ce régime particulier. Les mineurs non accompagnés ne relèvent, pour leur part, pas de l'OFII. Ils sont pris en charge par l'aide sociale à l'enfance (ASE), gérée par le conseil départemental. Ces décisions fournissent, au regard du droit de l'Union européenne, la base juridique nécessaire à ces versements.
