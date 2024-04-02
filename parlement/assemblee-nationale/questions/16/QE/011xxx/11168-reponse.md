@@ -1,0 +1,9 @@
+# Réponse à la question n° 11168
+
+- Question : [11168](11168.md) — Question n° 11168 — Interdiction des emballages plastiques
+
+## Réponse
+
+*JO du 2024-04-02, page 2655*
+
+La pollution plastique est devenue un enjeu environnemental majeur. La France, grâce à la loi anti-gaspillage pour une économie circulaire portée en 2020 par le ministère de la Transition écologique et de la Cohésion des territoires, a affiché une ambition forte pour ne plus recourir aux emballages en plastique à usage unique à horizon 2040. Depuis le 1er janvier 2022, certains fruits et légumes frais non transformés ne peuvent plus être mis à disposition des consommateurs dans des emballages en plastique. Cette disposition répond à la demande forte des français dont 83 % considèrent que la réduction du plastique à usage unique doit être une priorité et que 68% des produits sont sur-emballés. Cette mesure doit permettre de supprimer plus d'un milliard d'emballages en plastique inutiles chaque année en France et pourrait être prochainement adoptée au niveau européen dans le cadre du futur règlement sur les emballages et déchets d'emballages. Par ailleurs, les fédérations professionnelles des fruits et légumes ayant indiqué des difficultés pour la vente en vrac de certains fruits et légumes présentant un risque de détérioration, ainsi que dans le déploiement d'alternatives, le code de l'environnement a prévu des dérogations pour certains fruits et légumes, ainsi qu'une période d'écoulement des stocks jusqu'au 31 décembre 2023 soit une période de 2 ans pour opérer cette transition. Le passage aux alternatives plus durables pour les emballages de fruits et légumes en France représente un défi. Les producteurs, les distributeurs et les consommateurs doivent s'adapter à ces changements. Cependant, il s'agit d'un investissement crucial pour la protection de l'environnement, de la lutte contre le gaspillage, et de la promotion d'une consommation plus responsable.
