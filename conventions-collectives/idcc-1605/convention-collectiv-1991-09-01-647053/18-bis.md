@@ -14,7 +14,7 @@ Ainsi, les partenaires sociaux partagent les ambitions de :
 
 – permettre à chaque salarié de devenir un acteur majeur de son évolution professionnelle en facilitant l'accès à de nouveaux dispositifs et responsabilités dans le champ de la formation ;
 
-– permettre aux entreprises de mobiliser la formation au service d'objectifs correspondants aux besoins des salariés et de la profession en s'appuyant, pour leur mise en œuvre, sur des opérateurs reconnus apportant l'expertise nécessaire et les effets de mutualisation utiles tels que l'OPCA désigné par la branche ;
+– permettre aux entreprises de mobiliser la formation au service d'objectifs correspondants aux besoins des salariés et de la profession en s'appuyant, pour leur mise en œuvre, sur des opérateurs reconnus apportant l'expertise nécessaire et les effets de mutualisation utiles tels que l'OPCO désigné par la branche ;
 
 – disposer d'un système de certification professionnelle de branche adapté aux besoins spécifiques des salariés et des entreprises du secteur 3D réactif face aux évolutions technologiques, économiques, sociales, environnementales et réglementaires, favorisant la progression et l'évolution professionnelle des salariés, ouvert vers l'extérieur pour favoriser les mobilités professionnelles et l'employabilité, et enfin piloté par la branche pour en garantir la conformité à ses exigences.
 
