@@ -1,0 +1,10 @@
+# proposition de loi sur la proposition de loi de Mmes Monique Lubin, Viviane Artigalas, Audrey Bélim, Florence Blatrix Contat, Nicole Bonnefoy, MM. Denis Bouad, Hussein Bourgi, Mmes Isabelle Briquet, Colombe Brossel, Marion Canalès, M. Rémi Cardon, Mme Marie-Arlette Carlotti, MM. Christophe Chaillou, Yan Chantrel, Mmes Catherine Conconne, Hélène Conway-Mouret, M. Thierry Cozic, Mme Karine Daniel, M. Jérôme Darras, Mme Marie-Pierre de la Gontrie, MM. Gilbert-Luc Devinaz, Jérôme Durain, Vincent Éblé, Mme Frédérique Espagnac, MM. Sébastien Fagnen, Rémi Féraud, Mme Corinne Féret, MM. Jean-Luc Fichet, Hervé Gillé, Mme Laurence Harribey, MM. Olivier Jacquin, Éric Jeansannetas, Patrice Joly, Bernard Jomier, Mme Gisèle Jourda, M. Éric Kerrouche, Mme Audrey Linkenheld, MM. Jean-Jacques Lozach, Victorin Lurel, Didier Marie, Serge Mérillou, Jean-Jacques Michau, Mme Marie-Pierre Monier, M. Franck Montaugé, Mme Corinne Narassiguin, MM. Alexandre Ouizille, Sebastien Pla, Mme Émilienne Poumirol, MM. Claude Raynal, Christian Redon-Sarrazy, Mme Sylvie Robert, MM. Pierre-Alain Roiron, David Ros, Mme Laurence Rossignol, MM. Lucien Stanzione, Rachid Temal, Jean-Claude Tissot, Simon Uzenat, Mickaël Vallet, Jean-Marc Vayssouze-Faure, Adel Ziane, Patrick Kanner et Mme Annie Le Houerou d'abrogation de la réforme des retraites portant l'âge légal de départ à 64 ans (360).
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : d'abrogation de la réforme des retraites portant l'âge légal de départ à 64 ans
+- Déposé le : 2024-04-03
+- Dossier : DLR5L16N49473
+- Auteurs : Mme Marion Canalès (rapporteur), Commission des affaires sociales
+- Identifiant : PIONSNR5S419BTC0499
