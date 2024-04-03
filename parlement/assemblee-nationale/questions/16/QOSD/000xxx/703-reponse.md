@@ -1,0 +1,31 @@
+# Réponse à la question n° 703
+
+- Question : [703](703.md) — Question n° 703 — Relations entre les agriculteurs et les agents de l'OFB lors des contrôles
+
+## Réponse
+
+*JO du 2024-04-03, page 2555*
+
+OFFICE FRANÇAIS DE LA BIODIVERSITÉ
+
+M. le président . La parole est à M. Didier Padey, à qui je souhaite la bienvenue, pour exposer sa question, no 703, relative à l'Office français de la biodiversité.
+
+M. Didier Padey . Je souhaite interroger M. le ministre de l'agriculture et de la souveraineté alimentaire sur les relations entre les agriculteurs et les agents de l'Office français de la biodiversité (OFB), chargés notamment de vérifier la bonne application des réglementations environnementales dans les exploitations agricoles. Alors que le Gouvernement se bat pour nos agriculteurs sur les questions de la rémunération, de la transmission des exploitations et de la simplification administrative, les modalités selon lesquelles les agents de l’OFB mènent des contrôles, en étant armés, ne permettent pas d’instaurer un climat de confiance avec les agriculteurs. Le sujet est particulièrement sensible car les agriculteurs nous alertent depuis de nombreux mois, si ce n’est des années, sur leur expérience des contrôles de l’OFB dans leurs exploitations. À cet égard, je salue les discussions en cours entre les chambres d'agriculture et l’OFB, qui devraient donner lieu à un accord, je l’espère.
+
+Dans cette attente, j'appelle l’attention de M. le ministre sur plusieurs points. Tout d’abord, en parallèle de ces discussions, il apparaît nécessaire de lancer un grand plan de formation des agents de l’OFB pour que ces derniers fassent preuve d’une meilleure appréhension de la situation des agriculteurs lors des contrôles et privilégient la pédagogie à la répression systématique, l’écoute à l’application aveugle de textes changeants et l’accompagnement à l’excès de zèle.
+
+Par ailleurs, si un constat de non-conformité est établi par les agents de l’OFB lors d’un contrôle, il est impératif que les agriculteurs bénéficient d’un droit à l’erreur et que le couple préfet-procureur privilégie autant que possible des suites administratives et non pénales. Un tel changement de doctrine serait de nature à influencer positivement le comportement des agents de l’OFB. Pour le dire autrement, ce sont aussi les règles qui déterminent le comportement des agents sur le terrain. Outre leur préférence pour des suites administratives, les agriculteurs sont favorables à l'extension des formations visant à les aider à mieux comprendre et appliquer les normes environnementales.
+
+Enfin, comme vous le savez, la question du désarmement des agents représente un point de tension notable dans les discussions en cours. Nous devons reconnaître l’absurdité de situations dans lesquelles nos agriculteurs sont contrôlés par des agents armés, sur leurs propres exploitations, à sept heures du matin, souvent en présence de leur femme et de leurs enfants. À défaut de la suppression du port d’armes, il serait pertinent, à tout le moins, de travailler dans les meilleurs délais sur la manière dont les agents de l’OFB portent leurs armes, notamment en s'inspirant de l'exemple des gendarmes.
+
+Monsieur le ministre, pouvez-vous nous donner des informations sur ce sujet important pour les agriculteurs et tracer une possible perspective ? Il est impératif de rétablir la confiance entre l’État et les agriculteurs, qui attendent résolument un geste. Un changement de doctrine serait un signe fort.
+
+M. le président . La parole est à M. le ministre de l’agriculture et de la souveraineté alimentaire.
+
+M. Marc Fesneau, ministre de l’agriculture et de la souveraineté alimentaire . Les relations entre les agriculteurs et l'Office français de la biodiversité sont un sujet important. Cet établissement public est relativement jeune, puisqu'il est issu de la fusion, en 2020 entre l'Office national de la chasse et de la faune sauvage (ONCFS) et l'Office national de l'eau et des milieux aquatiques (Onema). Outre ses missions agricoles, il remplit de nombreuses missions primordiales en matière de protection de l’environnement et de la santé : connaissance, recherche et expertise sur les espèces et les milieux ; aide à la mise en œuvre des politiques publiques de l’eau et de la biodiversité ; soutien à la gestion des espaces naturels ; et, bien sûr, exercice des polices administrative et judiciaire relatives à l’eau, aux espaces naturels, aux espèces, à la chasse, à la pêche et à la police sanitaire.
+
+Concernant cette dernière mission, vous l'avez souligné, la question n'est pas tant l'amélioration des contrôles que la bonne compréhension des règles. Dans le cadre du travail général de simplification que nous menons actuellement, nous réfléchissons à des règles plus lisibles à la fois pour les agriculteurs et pour les agents de l'OFB. Vous le dites en filigrane dans votre question, nous devons aussi travailler sur un quantum de peine plus conforme à la réalité des dommages causés : plutôt la contravention et la réparation que des suites pénales. Une procédure pénale induit des moyens importants, ce qui produit immanquablement des tensions lors des contrôles.
+
+Le ministère travaille avec les chambres d'agriculture et l'OFB à l'élaboration d'une charte sur les modalités de contrôle. Un processus d'acculturation réciproque est nécessaire : les agriculteurs doivent comprendre ce qu'on contrôle et pourquoi ; les agents de l'OFB, qui, dans leur immense majorité, font leur travail avec professionnalisme, doivent effectuer leurs contrôles dans de meilleures conditions. La charte sur laquelle nous travaillons intégrera évidemment les modalités du port d'arme – sujet totémique, qui concentre l'attention.
+
+Je le répète, nous devons réfléchir à une simplification des règles, pour qu'elles soient plus faciles à appliquer, au quantum de peine, pour éviter les procédures lourdes et offensantes eu égard aux dommages réellement causés, et à la formation des agents, pour que les contrôles se déroulent dans de bonnes conditions. Des contrôles sont indispensables, qu'il s'agisse des agriculteurs ou de toute autre profession, mais le climat de confiance doit être restauré. C'est bien l'intention du ministère de la transition écologique et de la cohésion des territoires et du ministère de l'agriculture et de la souveraineté alimentaire.
