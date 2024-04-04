@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d’offres ouvert pour l’entretien, la fourniture et les travaux des équipements locaux d’assainissement liés aux bâtiments communaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-04-04
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Lancement d’un appel d’offres ouvert pour l’entretien, la fourniture et les travaux des équipements locaux d’assainissement liés aux bâtiments communaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MDcsInB1ciI6ImJsb2JfaWQifX0=--f1f18582170cc10d6182030907f19a037e89ab24/040424_10.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
