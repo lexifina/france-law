@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d’offres ouvert relatif aux travaux de construction des écoles Epinettes et de la création d’un équipement socio-culturel
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-04-04
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Lancement d’un appel d’offres ouvert relatif aux travaux de construction des écoles Epinettes et de la création d’un équipement socio-culturel
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNTgsInB1ciI6ImJsb2JfaWQifX0=--da3da8566841de000a170b30a462e20efb8f84cb/040424_12.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
