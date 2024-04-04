@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003204
+
+- Question : [SEQ221003204](seq221003204.md) — Aides attribuées à la rénovation énergétique des logements sociaux
+
+## Réponse
+
+*Logement, JO du 2024-04-04, page 1416*
+
+Le Gouvernement est très attentif au développement d'une offre de logements abordables, en particulier dans les zones tendues, et promeut le dispositif « Loc'Avantages » auprès des propriétaires. Loc'Avantages est un dispositif qui permet, en proposant un logement à la location, de bénéficier d'une réduction d'impôt sous réserve de respecter certaines conditions comme la fixation d'un loyer dont le montant est inférieur au prix du marché, au profit d'un locataire dont les ressources ne dépassent pas un plafond de revenus fixé par l'État. En outre, le logement proposé à la location ne doit pas être une « passoire thermique ». Les propriétaires qui souhaitent bénéficier du dispositif « Loc'Avantages » peuvent aussi mobiliser des aides financières de l'Agence nationale de l'Habitat (Anah) pour réaliser des travaux de rénovation du logement avant la mise en location (jusqu'à 28 000 euros d'aides pour une rénovation lourde ; jusqu'à 15 000 euros d'aides pour une rénovation énergétique). Les propriétaires peuvent également solliciter, sous certaines conditions, l'accompagnement d'un spécialiste pour mener à bien les travaux de rénovation. Des primes complémentaires sont également prévues pour les logements loués en intermédiation locative. Il convient de noter que l'ensemble de ce dispositif entend participer à la maîtrise du niveau des loyers dans les territoires et lutter efficacement contre les logements vacants. Le Gouvernement encourage donc les bailleurs privés, qui souhaiteraient proposer des loyers inférieurs aux prix de marché, à s'inscrire dans ce dispositif simple, souple et financièrement équilibré, pour accompagner le financement et la conduite des travaux de rénovation énergétique des propriétaires bailleurs.
