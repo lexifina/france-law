@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du programme de l’opération de réhabilitation énergétique de l’école élémentaire Saint Germain et de l’école maternelle Claude Boujon
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-04-04
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Approbation du programme de l’opération de réhabilitation énergétique de l’école élémentaire Saint Germain et de l’école maternelle Claude Boujon
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNTcsInB1ciI6ImJsb2JfaWQifX0=--011f7eeb1485b944890a11b5583e04ab58133e88/040424_11.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
