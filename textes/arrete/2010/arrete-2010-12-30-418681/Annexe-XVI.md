@@ -8,11 +8,11 @@ Identification du bénéficiaire du prêt,
 
 Bénéficiant d'une aide de l'Etat sous forme d'un prêt ne portant pas intérêt d'un montant de......, contracté auprès de......, en vue de financer l'acquisition du logement visé ci-après, atteste que ce logement fera l'objet, dans les conditions fixées au III de l'article D. 31-10-2 du code de la construction et de l'habitation, de travaux d'amélioration d'un montant au moins égal à 25 % du coût total de l'opération.
 
-Ces travaux d'amélioration s'entendent de tous travaux ayant pour objet la création de surfaces habitables nouvelles ou de surfaces annexes, la modernisation, l'assainissement ou l'aménagement des surfaces habitables ou des surfaces annexes ainsi que les travaux destinés à réaliser des économies d'énergie.
+Ces travaux d'amélioration s'entendent de tous travaux ayant pour objet la création de surfaces habitables nouvelles ou de surfaces annexes, la modernisation, l'assainissement ou l'aménagement des surfaces habitables ou des surfaces annexes ainsi que les travaux destinés à réaliser des économies d'énergie. J'atteste que ces travaux ne comportent ni l'installation d'un dispositif de chauffage fonctionnant aux énergies fossiles, ni n'incluent ceux financés au moyen des avances mentionnées au 244 quater T et 244 quater U du code général des impôts (respectivement prêt avance mutation à taux zéro et Eco-PTZ).
 
 Je reconnais avoir été informé que si les travaux ne sont pas réalisés ou ne respectent pas la condition précitée dans un délai de trois ans à compter de l'émission de l'offre de prêt, l'établissement de crédit sera en droit de procéder à la remise en cause de la totalité du montant ou des conditions de mon prêt sur le fondement des articles L. 31-10-7 et D. 31-10-7 du code de la construction et de l'habitation.
 
-J'atteste sur l'honneur que l'étiquette de performance énergétique du logement avant travaux ou telle que projetée après travaux est comprise entre A et E.
+J'atteste sur l'honneur que l'étiquette de performance énergétique du logement avant travaux ou telle que projetée après travaux est comprise entre A et D.
 
 RENSEIGNEMENTS CONCERNANT LE LOGEMENT OBJET DU PRÊT |
 
@@ -63,3 +63,7 @@ Rappel-En cas de fausse déclaration, l'emprunteur s'expose, outre la restitutio
 Fait à
 
 Signature du bénéficiaire du prêt
+
+NOTA :
+
+Conformément à l’article 4 de l’arrêté du 2 avril 2024 (NOR : TREL2401594A), ces dispositions s'appliquent aux offres de prêts émises à compter du 1er avril 2024.

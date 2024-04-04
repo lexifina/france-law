@@ -8,7 +8,7 @@ Identification du vendeur
 
 Atteste avoir pris connaissance que l'opération immobilière objet de la présente attestation bénéficie d'une aide de l'Etat sous forme d'un prêt ne portant pas intérêt contracté auprès de......, en vue de financer l'acquisition du logement visé ci-après.
 
-J'atteste que ce logement fera l'objet, dans les conditions fixées au III de l'article D. 31-10-2 du code de la construction et de l'habitation, de travaux d'amélioration d'un montant de....... Ces travaux d'amélioration s'entendent de tous travaux ayant pour objet la création de surfaces habitables nouvelles ou de surfaces annexes, la modernisation, l'assainissement ou l'aménagement des surfaces habitables ou des surfaces annexes ainsi que les travaux destinés à réaliser des économies d'énergie.
+J'atteste que ce logement fera l'objet, dans les conditions fixées au III de l'article D. 31-10-2 du code de la construction et de l'habitation, de travaux d'amélioration d'un montant de....... Ces travaux d'amélioration s'entendent de tous travaux ayant pour objet la création de surfaces habitables nouvelles ou de surfaces annexes, la modernisation, l'assainissement ou l'aménagement des surfaces habitables ou des surfaces annexes ainsi que les travaux destinés à réaliser des économies d'énergie. J'atteste que ces travaux ne comportent ni l'installation d'un dispositif de chauffage fonctionnant aux énergies fossiles, ni n'incluent ceux financés au moyen des avances mentionnées au 244 quater T et 244 quater U du code général des impôts (respectivement prêt avance mutation à taux zéro et Eco-PTZ).
 
 Je reconnais avoir été informé que si les travaux ne sont pas réalisés ou si l'opération ne respecte pas la condition de travaux mentionnée au III de l'article D. 31-10-2 dans un délai de trois ans à compter de l'émission de l'offre de prêt, l'établissement de crédit sera en droit de procéder à la remise en cause de la totalité du montant ou des conditions du prêt sur le fondement des articles L. 31-10-7 et D. 31-10-7 du code de la construction et de l'habitation.
 
@@ -26,7 +26,9 @@ N°, Voie
 
 Code postal
 
-Ville |
+Ville
+
+|
 
 Montant prévisionnel des travaux d'amélioration réalisés par le vendeur |
 
@@ -46,4 +48,4 @@ Signature du vendeur
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 6 janvier 2020 ( NOR : LOGL1935137A ), les dispositions qui résultent de cet arrêté s'appliquent aux offres de prêts émises à compter du 1er janvier 2020.
+Conformément à l’article 4 de l’arrêté du 2 avril 2024 (NOR : TREL2401594A), ces dispositions s'appliquent aux offres de prêts émises à compter du 1er avril 2024.
