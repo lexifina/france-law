@@ -22,7 +22,7 @@ TRANCHES |
 
 1 |
 
-2 À 3 |
+2 À 4 |
 
 Prime p |
 
@@ -36,4 +36,4 @@ Le taux S ainsi calculé par l'organisme mentionné au cinquième alinéa de l'a
 
 NOTA :
 
-Ces dispositions sont applicables aux offres de prêt émises à compter du 1er janvier 2016.
+Conformément à l’article 12 du décret n° 2024-304 du 2 avril 2024, ces disposition s'appliquent aux offres de prêts émises à compter du 1er avril 2024.
