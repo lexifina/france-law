@@ -494,7 +494,7 @@ Animation de séances et de cycles de découverte d'activités de loisir et d'in
 
 Sans recours à des appareils de musculation.
 
-A l'exclusion des cours individuels. |
+|
 
 ACTIVITÉS DE MONTAGNE |
 
