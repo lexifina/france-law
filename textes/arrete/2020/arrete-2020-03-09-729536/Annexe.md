@@ -2106,7 +2106,7 @@ Encadrement par la découverte et l'animation des activités gymniques d'entreti
 
 -activités d'expression. |
 
-Sans recours à des appareils de musculation. A l'exclusion des cours individuels. |
+Sans recours à des appareils de musculation. |
 
 CQP " moniteur d'aviron ", délivré jusqu'au 3 mars 2022. |
 
