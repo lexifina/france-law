@@ -1,18 +1,24 @@
 # Article Annexe Bouches-du-Rhône à Gard
 
-Direction départementale des territoires et de la mer des Bouches-du-Rhône (9) (10)
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DES BOUCHES-DU-RHÔNE (14)
 
-Fonctions exercées |
+Fonction exercée |
 
-Niveau de qualification
+Niveau
+
+de qualification
 
 de l'emploi |
 
-Nombre d'emplois |
+Nombre
 
-Nombre de points (IM) par emploi |
+d'emplois |
 
-Adjoint au directeur départemental des territoires, chargé du pilotage et de la coordination politique de la ville |
+Nombre de points
+
+(IM) par emploi |
+
+Chef du service habitat |
 
 A |
 
@@ -20,7 +26,7 @@ A |
 
 40 |
 
-Adjoint au chef du service habitat et chef du pôle renouvellement urbain |
+Adjoint au chef du service habitat et chef du pôle renouvellement urbain-Service habitat |
 
 A |
 
@@ -28,11 +34,19 @@ A |
 
 30 |
 
-Chargé de mission renouvellement urbain -Pôle renouvellement urbain |
+Chargés de mission " renouvellement urbain "-Pôle renouvellement urbain-Service habitat |
 
 A |
 
-4 |
+3 |
+
+26 |
+
+Chef de l'unité en charge de l'instruction financière-Pôle renouvellement urbain-Service habitat |
+
+A |
+
+1 |
 
 26 |
 
@@ -44,37 +58,29 @@ A |
 
 26 |
 
-Chef d'unité instruction financière-politique de la ville |
+Adjoint au chef du pôle politique locale de l'habitat et habitat social-Service habitat |
 
 B |
 
 1 |
 
-30 |
+22 |
 
-Chargé d'opération ANRU , référent avenants et pilotage convention-service habitat du pôle renouvellement urbain |
-
-B |
-
-1 |
-
-25 |
-
-Chargé d'opération financière ANRU -Instruction des dossiers à enjeux-service habitat du pôle renouvellement urbain |
-
-B |
-
-4 |
-
-21 |
-
-Chargé d'opération ANRU -service habitat du pôle renouvellement urbain |
+Chargé d'opération ANRU-référent avenants et pilotage convention-Pôle renouvellement urbain-Service habitat |
 
 B |
 
 1 |
 
-21 |
+26 |
+
+Chargés d'opération financière ANRU-instruction des dossiers à enjeux-Pôle renouvellement urbain-Service habitat |
+
+B |
+
+3 |
+
+22 |
 
 Chargé de mission projets-délégation territoriale Salon Etang de Berre |
 
@@ -82,7 +88,23 @@ B |
 
 1 |
 
-20 |
+22 |
+
+Chargé de mission projets-délégation territoriale Aix Val de Durance |
+
+B |
+
+1 |
+
+22 |
+
+Chargé de mission projets-délégation territoriale Rhône Alpilles Durance |
+
+B |
+
+1 |
+
+22 |
 
 Direction départementale des territoires et de la mer du Calvados
 
@@ -1122,12 +1144,10 @@ NOTA :
 
 (8) En application de l'article 1 de l'arrêté du 7 juillet 2022, la présente annexe est remplacée à effet du 1er avril 2021 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Doubs.
 
-(9) Conformément à l'article 1er de l'arrêté du 22 février 2019, les dispositions de l'annexe dudit arrêté pour ce qui concerne la direction départementale des territoires et de la mer des Bouches-du-Rhône prennent effet au 1er janvier 2017.
-
-(10) En application de l'article 1 de l'arrêté du 10 octobre 2022, la présente annexe est remplacée à effet du 1er mars 2021, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la mer des Bouches-du-Rhône.
-
 (11) En application de l'article 1 de l'arrêté du 14 février 2023 (NOR : TREK2304656A), la présente annexe est remplacée à effet du 1er février 2022, pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement de la Drôme.
 
 (12) En application de l'article 1 de l'arrêté du 1er février 2024 (NOR : TREK2403421A), la présente annexe est remplacée à effet de la date de signature de l'arrêté précité, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer de la Charente-Maritime.
 
 (13) En application de l'article 1 de l'arrêté du 1er février 2024 (NOR : TREK2403559A), la présente annexe est remplacée à effet de la date de signature de l'arrêté précité, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Gard.
+
+(14) En application de l'article 1 de l'arrêté du 28 mars 2024 (NOR : TREK2409225A), la présente annexe est remplacée à effet de la date de signature de l'arrêté précité, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer des Bouches-du-Rhône.
