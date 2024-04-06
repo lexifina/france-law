@@ -2,9 +2,7 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 31 mars 2024 :
-
-Saint-Denis de La Réunion-Mahé (Seychelles) ;
+Jusqu'au 31 mai 2024 :
 
 Saint-Denis de La Réunion-Rodrigues (Maurice) ;
 
