@@ -1,0 +1,11 @@
+# COMMUNE DE LESNEVEN : délibération DEL06AVRIL24020 — DEMANDE DE SUBVENTION AUX AIDES DE L'ETAT AU TITRE RENOVATION ENERGETIQUE DE LOGEMENTS LOCATIFS SOCIAUX
+
+- Collectivité : COMMUNE DE LESNEVEN
+- SIRET : 21290124300015
+- Code INSEE : 29124
+- Date : 2024-04-06
+- Matière : 7.5 Finances locales/Subventions
+- Objet : DEMANDE DE SUBVENTION AUX AIDES DE L'ETAT AU TITRE RENOVATION ENERGETIQUE DE LOGEMENTS LOCATIFS SOCIAUX
+- Transmis à la préfecture : 2024-04-10 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212901243/Deliberation/2024/616020/56b57736fd42742ada0052b9b5d6eed417d1c45ac8be99a29cd112141c094471.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
