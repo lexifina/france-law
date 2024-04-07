@@ -1,47 +1,191 @@
 # Article Annexe VII
 
-Liste des organismes de formation agréés par le ministre pour mettre en œuvre la formation relative au bien-être animal à destination des éleveurs de poulets de chair, fixée après avis conjoint de la direction générale de l'alimentation (DGAL) et de la direction générale de l'enseignement et de la recherche (DGER).
+Liste des organismes de formation agréés par le ministre pour mettre en œuvre la formation relative au bien-être animal à destination des éleveurs de poulets de chair, fixée après avis conjoint de la direction générale de l'alimentation (DGAL) et de la direction générale de l'enseignement et de la recherche (DGER) :
 
-Aquitaine-Limousin-Poitou-Charentes :
+Dispensateur de formation |
 
-CFPPA 24, EPLEFPA du Périgord, avenue Churchill, BP 38,24660 Coulounieix-Chamiers.
+Types d'habilitation |
 
-Auvergne-Rhône-Alpes :
+Habilitation |
 
-CFPPA Les Sardières, 79, avenue de Jasseron, 01000 Bourg-en-Bresse.
+A compter du |
 
-CFPPA de l'Allier-Neuvy, 03000 Moulins, en partenariat avec le CFPPA de Brioude-Bonnefont (43).
+Jusqu'au |
 
-Bretagne :
+ITAVI
 
-Avipôle formation, zoopôle Les Croix, Rue Camille-Guérin, 22440 Ploufragan.
+Faubourg de la Poissonnière
 
-Pôle des métiers des chambres d'agriculture de Bretagne, technopole Atalante-Champeaux, rond-point Maurice Le Lannou, CS 14226,35042 Rennes Cedex.
+75009 Paris |
 
-Languedoc-Midi-Pyrénées :
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
 
-CFPPA du Gers-Valentées, 32300 Mirande.
+01/02/2024 |
 
-Socsa agroalimentaire, 11, rue d'Ariane, 31240 L'Union.
+31/02/2034 |
 
-Martinique :
+EPLEFPA DU PERIGORD
 
-CFPPA du Lorrain, cité Vallon, 97214 Lorrain.
+avenue Churchill, BP 38,
 
-Mayotte :
+24660 Coulounieix-Chamiers |
 
-CFPPA de Mayotte, BP 2 Coconi, Ouagani, 97670 Mayotte.
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
 
-Pays de la Loire :
+31/04/2016 |
 
-Agrilia formation, 9, rue André-Brouard, BP 70510,49105 Angers Cedex 02.
+01/06/2026 |
 
-CFPPA Nature, allée des Druides, CS 70022,85035 La Roche-sur-Yon.
+EPLEFPA Les Sardières
 
-La Réunion :
+79, avenue de Jasseron,
 
-CFPPA St Joseph, 24, rue Raphaël-Babet, 97480 Saint-Joseph.
+01000 Bourg-en-Bresse |
 
-SCA Avipôle Réunion, 14, chemin de l'Etang, ZAC Bel Air, 97450 Saint-Louis.
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
 
-L'inscription sur cette liste est accordée jusqu'au 1er juin 2026 et peut être suspendue ou retirée en cas de non-respect des critères de candidature.
+31/04/2016 |
+
+01/06/2026 |
+
+EPLEFPA du Bourbonnais
+
+Neuvy
+
+03000 Moulins |
+
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
+
+31/04/2016 |
+
+01/06/2026 |
+
+AVIPOLE FORMATION
+
+ZOOPOLE Les Croix,
+
+rue Camille Guérin,
+
+22440 Ploufragan |
+
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
+
+31/04/2016 |
+
+01/06/2026 |
+
+Pôle des métiers des chambres agriculture de Bretagne
+
+Technopole Atalante Champeaux
+
+Rond-point Maurice Le Lannou, CS14226
+
+35042 Rennes |
+
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
+
+31/04/2016 |
+
+01/06/2026 |
+
+EPLEFPA Auche Beaulieu LAVACANT
+
+Valentées
+
+32300 Mirande |
+
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
+
+31/04/2016 |
+
+01/06/2026 |
+
+SOCSA Agroalimentaire
+
+11, rue Ariane
+
+31240 L'Union |
+
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
+
+31/04/2016 |
+
+01/06/2026 |
+
+AGRILIA Formation
+
+9, rue André Brouard
+
+BP 70510
+
+49105 Angers Cedex 02 |
+
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
+
+31/04/2016 |
+
+01/06/2026 |
+
+EPLEFPA Lycée Nature
+
+Allée des Druides
+
+CS 70022
+
+85035 La-Roche-sur-Yon |
+
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
+
+31/04/2016 |
+
+01/06/2026 |
+
+EPLEFPA Le Robert
+
+Cité Vallon
+
+97214 Lorrain |
+
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
+
+31/04/2016 |
+
+01/06/2026 |
+
+EPNEA DE MAYOTTE
+
+BP2 COCONI, Ouagani
+
+97670 Mayotte |
+
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
+
+31/04/2016 |
+
+01/06/2026 |
+
+EPLEFPA Saint Joseph
+
+24, rue Raphaël Babet
+
+97480 Saint-Joseph |
+
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
+
+31/04/2016 |
+
+01/06/2026 |
+
+SCA Avipôle Réunion
+
+14, chemin de l'Etang
+
+ZAC Bel Air
+
+97450 Saint-Louis |
+
+Certificat professionnel individuel d'Eleveur Poulet de Chair |
+
+31/04/2016 |
+
+01/06/2026 |
