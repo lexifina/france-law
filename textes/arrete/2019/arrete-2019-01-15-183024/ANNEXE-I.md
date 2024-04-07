@@ -226,7 +226,15 @@ Aér./ Souter. |
 
 Bac pro |
 
-Technicien géomètre topographe |
+Technicien géomètre topographe (dernière session 2026) |
+
+CO |
+
+Aér./ Souter. |
+
+Bac pro |
+
+Géomètre (première session 2027) |
 
 O |
 
