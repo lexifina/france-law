@@ -1,0 +1,9 @@
+# Réponse à la question n° 15651
+
+- Question : [15651](15651.md) — Question n° 15651 — Révision de la responsabilité des hôteliers en cas de vols sur leurs parkings
+
+## Réponse
+
+*JO du 2024-04-09, page 2855*
+
+Les articles 1952 à 1954 du code civil prévoient un régime de responsabilité de plein droit des hôteliers, qui doivent répondre comme dépositaires du vol ou du dommage des effets personnels apportés dans leurs établissements par les clients qui logent chez eux. Ce régime est issu d'une réforme adoptée à la suite de la signature, le 17 décembre 1962, de la Convention sur la responsabilité des hôteliers quant aux objets apportés, élaborée au sein du Conseil de l'Europe. Cette convention exclut, par principe de son champ d'application les objets laissés dans les véhicules stationnés sur les lieux dont les hôteliers ont la jouissance privative, mais réserve à chaque État contractant la faculté d'inclure ces objets, en les soumettant le cas échéant à un régime propre. La France a fait usage de cette faculté, tout en plafonnant dans ce cas l'indemnisation due par l'hôtelier à cinquante fois le prix de la location par journée (art. 1954, al. 2, c. civ.). Dans le cadre de la réforme du droit des contrats spéciaux engagée par le ministère de la Justice, un avant-projet a été établi par le groupe de travail présidé par le Professeur Stoffel-Munck et a donné lieu à une consultation publique réalisée entre juillet 2022 et janvier 2023. Cet avant-projet contient des propositions de modification des dispositions relatives au dépôt hôtelier, qui donneront lieu, le moment venu, à consultation. Ainsi, le Gouvernement porte la plus grande attention à ces problématiques particulièrement sensibles, qui sont prises en compte par le ministère de la Justice et nourrissent les réflexions actuellement menées dans le cadre de la réforme du droit des contrats spéciaux.
