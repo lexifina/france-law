@@ -1,0 +1,9 @@
+# Réponse à la question n° 14984
+
+- Question : [14984](14984.md) — Question n° 14984 — Mesures en faveur de la relance des classes découverte, de nature et de neige
+
+## Réponse
+
+*JO du 2024-04-09, page 2828*
+
+Le Gouvernement a pris un ensemble de mesures favorisant une reprise durable des voyages scolaires, à la montagne notamment. Ainsi, dans le cadre du déploiement du plan « Avenir montagnes » destiné à accompagner les acteurs de la montagne vers une offre touristique durable et résiliente, le ministère de l'éducation nationale et de la jeunesse a rappelé l'importance de développer les jumelages entre écoles et établissements scolaires de zones urbaines et rurales. Par ailleurs, afin de faciliter l'organisation des voyages scolaires et de mettre en avant les structures qui participent au bon déroulement des séjours et au rayonnement de nos territoires, un catalogue national des structures d'accueil et d'hébergement recensant l'ensemble des structures labellisées par le ministère pour l'accueil des élèves dans le cadre de voyages scolaires a été mis à la disposition des enseignants. Poursuivant le triple objectif de simplifier, revitaliser et sécuriser, un nouveau cadre d'organisation, précisé par une circulaire du 13 juin 2023 et des fiches pratiques, a consacré le principe selon lequel « tout élève, quel que soit son milieu social d'origine, doit pouvoir bénéficier d'au moins un voyage scolaire au cours de sa scolarité obligatoire » et contribué à lever, par voie de conséquence, les principaux freins afférents à l'organisation de ces déplacements (charge administrative, éventuelles réticences des équipes pédagogiques, frilosité de certains parents d'élèves). Sur le volet financier, le projet de loi de finances pour 2024 a porté la création d'un fonds d'aide au départ en voyages scolaires de 3 M€ à destination des écoles. L'ensemble de ces mesures est de nature à soutenir l'organisation des voyages scolaires.
