@@ -1,0 +1,9 @@
+# Réponse à la question n° 12319
+
+- Question : [12319](12319.md) — Question n° 12319 — Déclin de l'attractivité des soldes et des commerces physiques
+
+## Réponse
+
+*JO du 2024-04-09, page 2811*
+
+Les soldes restent un moment attendu et apprécié par les consommateurs Français : alors que l'inflation en juillet 2023 a augmenté de 4,3 % par rapport à l'année précédente, les résultats des soldes d'été 2023 sont globalement stables par rapport à l'été 2022. En particulier, le chiffre d'affaires (CA) du secteur de l'habillement a baissé de 1 % et on note une hausse de 7 % des commandes en ligne. Les deux premières semaines des soldes ont d'ailleurs enregistré une hausse de + 14,5 % de CA par rapport à l'été 2022. Il s'agit d'une performance exceptionnelle pour les commerçants. En tout état de cause, compte tenu de la multiplication d'offres promotionnelles hors soldes (Black Friday, French Days…), les soldes ne sont plus synonymes de « pic de consommation » pour les distributeurs. C'est pourquoi, le Gouvernement a déployé plusieurs adaptations du cadre réglementaire des soldes afin de les rendre plus attractifs. La loi sur le plan d'action pour la croissance et la transformation des entreprises (PACTE) du 22 mai 2019 (article 16) a modifié l'article L. 310-1 du code de commerce pour réduire de six à quatre semaines la période des soldes. De récentes mesures réglementaires ont d'ailleurs été prises pour mieux réguler les pratiques promotionnelles : l'entrée en vigueur depuis le 28 mai 2022 d'un nouvel encadrement du prix de référence devrait ainsi imposer plus de rigueur aux grands distributeurs en la matière. Enfin, une réflexion plus globale sur l'avenir des soldes et promotions est en cours dans le cadre d'un groupe de travail dédié du Conseil national du commerce (CNC) ; cette instance permettra de faire émerger les propositions du secteur qui seront prises en compte par le Gouvernement.
