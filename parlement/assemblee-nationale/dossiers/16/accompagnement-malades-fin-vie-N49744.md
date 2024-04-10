@@ -1,0 +1,74 @@
+# Accompagnement des malades et fin de vie
+
+- Procédure : Projet de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N49744
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/accompagnement_malades_fin_vie
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2024-04-10 : 1er dépôt d'une initiative. (PRJLANR5L16B2462)
+  - 2024-04-10 : Etude d'impact (ETDIANR5L16B2462)
+  - 2024-04-10 : Avis du Conseil d'Etat (AVCEANR5L16B2462)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-04-10 : Renvoi en commission au fond
+      - 2024-04-10 : Nomination de rapporteur
+      - 2024-04-10 : Réunion de commission
+      - 2024-04-10 : Réunion de commission
+      - 2024-04-22 : Réunion de commission
+      - 2024-04-22 : Réunion de commission
+      - 2024-04-23 : Réunion de commission
+      - 2024-04-23 : Réunion de commission
+      - 2024-04-23 : Réunion de commission
+      - 2024-04-23 : Réunion de commission
+      - 2024-04-23 : Réunion de commission
+      - 2024-04-23 : Réunion de commission
+      - 2024-04-24 : Réunion de commission
+      - 2024-04-24 : Réunion de commission
+      - 2024-04-24 : Réunion de commission
+      - 2024-04-24 : Réunion de commission
+      - 2024-04-24 : Réunion de commission
+      - 2024-04-25 : Réunion de commission
+      - 2024-04-25 : Réunion de commission
+      - 2024-04-25 : Réunion de commission
+      - 2024-04-26 : Réunion de commission
+      - 2024-04-30 : Réunion de commission
+      - 2024-05-13 : Réunion de commission
+      - 2024-05-13 : Réunion de commission
+      - 2024-05-14 : Réunion de commission
+      - 2024-05-14 : Réunion de commission
+      - 2024-05-15 : Réunion de commission
+      - 2024-05-15 : Réunion de commission
+      - 2024-05-15 : Réunion de commission
+      - 2024-05-16 : Réunion de commission
+      - 2024-05-16 : Réunion de commission
+      - 2024-05-16 : Réunion de commission
+      - 2024-05-17 : Réunion de commission
+      - 2024-05-17 : Réunion de commission
+      - 2024-05-17 : Réunion de commission
+      - 2024-05-27 : Réunion de commission
+      - 2024-05-31 : Réunion de commission
+      - 2024-05-18 : Dépôt de rapport (RAPPANR5L16B2634, PRJLANR5L16BTC2634)
+  - Discussion en séance publique
+    - 2024-05-27 : Discussion en séance publique
+    - 2024-05-27 : Discussion en séance publique
+    - 2024-05-28 : Discussion en séance publique
+    - 2024-05-28 : Discussion en séance publique
+    - 2024-05-29 : Discussion en séance publique
+    - 2024-05-29 : Discussion en séance publique
+    - 2024-05-31 : Discussion en séance publique
+    - 2024-05-31 : Discussion en séance publique
+    - 2024-05-31 : Discussion en séance publique
+    - 2024-06-03 : Discussion en séance publique
+    - 2024-06-03 : Discussion en séance publique
+    - 2024-06-04 : Discussion en séance publique
+    - 2024-06-04 : Discussion en séance publique
+    - 2024-06-05 : Discussion en séance publique
+    - 2024-06-06 : Discussion en séance publique
+    - 2024-06-06 : Discussion en séance publique
+    - 2024-06-06 : Discussion en séance publique
+    - 2024-06-07 : Discussion en séance publique
+    - 2024-06-07 : Discussion en séance publique
+    - 2024-06-07 : Discussion en séance publique
