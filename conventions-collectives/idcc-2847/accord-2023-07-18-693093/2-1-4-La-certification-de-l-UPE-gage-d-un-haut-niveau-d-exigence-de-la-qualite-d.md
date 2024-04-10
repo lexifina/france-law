@@ -1,0 +1,3 @@
+# Article 2.1.4. La certification de l'UPE : gage d'un haut niveau d'exigence de la qualité de nos dispositifs
+
+Depuis sa création, l'université Pôle emploi est engagée dans une démarche d'amélioration continue de la qualité de la formation, conformément aux exigences de la loi sur la formation professionnelle. Cette démarche s'est concrétisée par l'obtention de la certification Qualiopi en 2020 et de son renouvellement annuel en 2021 et 2022. Cette démarche permet notamment de garantir en interne un haut niveau d'exigence en matière de qualité de nos dispositifs et de s'assurer de l'adéquation de nos actions de formation avec les évolutions internes et externes de notre environnement (technologiques, professionnelles…).
