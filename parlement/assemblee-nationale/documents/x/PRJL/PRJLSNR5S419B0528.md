@@ -1,0 +1,11 @@
+# projet de loi ratifiant l'ordonnance n° 2023-285 du 19 avril 2023 portant extension et adaptation à la Polynésie française, à la Nouvelle-Calédonie et aux îles Wallis et Futuna de diverses dispositions législatives relatives à la santé
+
+- Type : Projet de loi
+- Dénomination : Projet de loi
+- Provenance : Texte Déposé
+- Titre court : Ratification de l'ordonnance n° 2023-285 dispositions relatives à la santé outre-mer
+- Déposé le : 2024-04-10
+- Publié le : 2024-05-15
+- Dossier : DLR5L16N48973
+- Auteurs : Sénat ( 5ème République )
+- Identifiant : PRJLSNR5S419B0528
