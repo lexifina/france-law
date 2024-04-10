@@ -346,7 +346,11 @@ UF2 |
 
 1 (2) |
 
-CCF |
+Ponctuelle orale
+
+|
+
+20 min |
 
 CCF |
 
@@ -790,7 +794,7 @@ L'épreuve a pour objectif l'évaluation des compétences suivantes :
 
 -C33-Assurer la conformité et la traçabilité des contrôles et des essais.
 
-Les critères d'évaluation sont ceux définis dans le référentiel de compétences de chaque option. L'évaluation des candidats sur ces critères s'appuie sur toutes les dimensions (savoirs, savoir-faire, savoir-être) de la compétence.
+Les critères d'évaluation sont ceux définis dans le référentiel de compétences. L'évaluation des candidats sur ces critères s'appuie sur toutes les dimensions (savoirs, savoir-faire, savoir-être) de la compétence.
 
 Certaines compétences autres que celles relevant de l'épreuve peuvent être mobilisées dans la réalisation des activités support de l'épreuve. Ces compétences ne sont pas évaluées dans le cadre de cette épreuve.
 
@@ -970,7 +974,7 @@ L'épreuve a pour objectif l'évaluation des compétences suivantes :
 
 -C43-Garantir la conformité avec les exigences de navigabilité.
 
-Les critères d'évaluation sont ceux définis dans le référentiel de compétences de chaque option. L'évaluation des candidats sur ces critères s'appuie sur toutes les dimensions (savoirs, savoir-faire, savoir-être) de la compétence.
+Les critères d'évaluation sont ceux définis dans le référentiel de compétences. L'évaluation des candidats sur ces critères s'appuie sur toutes les dimensions (savoirs, savoir-faire, savoir-être) de la compétence.
 
 Certaines compétences autres que celles relevant de l'épreuve peuvent être mobilisées dans la réalisation des activités support de l'épreuve. Ces compétences ne sont pas évaluées dans le cadre de cette épreuve.
 
