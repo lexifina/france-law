@@ -1,0 +1,57 @@
+# Projet de loi relatif à l’accompagnement des malades et de la fin de vie (TSSP2407983L)
+
+- Type : projet loi
+- Législature : XVIème législature
+- Ouvert le : 2024-04-10
+- Mis à jour le : 2025-03-21
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000049401821
+
+## Documents
+
+- [Projet de loi](https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/legislatif-et-reglementaire/actualite-legislative/2024/pjl_tssp2407983l_cm_10.04.2024.pdf) : (PDF, 590 Ko).
+- [Exposé des motifs](https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/legislatif-et-reglementaire/actualite-legislative/2024/exp_tssp2407983l_cm_10.04.2024.pdf) : (PDF, 265 Ko).
+- [Etude d'impact](https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/legislatif-et-reglementaire/etudes-d-impact-des-lois/ei_art_39_2024/ei_tssp2407983l_cm_10.04.2024.pdf) : (PDF, 1678 Ko).
+- [Avis du Conseil d'Etat](https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/legislatif-et-reglementaire/les-avis-du-conseil-d-etat-rendus-sur-les-projets-de-loi/2024/avis_ce_tssp2407983l_cm_10.04.2024.pdf) : (PDF, 820 Ko).
+- [Compte rendu du Conseil des ministres du 10 avril 2024](https://www.info.gouv.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-10-04-2024#e243b8b2-f917-4055-95bf-02d4b3cf905c-0)
+- Dossiers législatifs
+  - Assemblée nationale
+    - [Dossier législatif de l'Assemblée nationale](https://www.assemblee-nationale.fr/dyn/16/dossiers/accompagnement_malades_fin_vie)
+  - Sénat
+- Documents préparatoires
+  - Assemblée nationale (1ère lecture)
+    - [Texte de la commission n° 2634 déposé le 18 mai 2024](https://www.assemblee-nationale.fr/dyn/16/textes/l16b2634_texte-adopte-commission)
+  - Sénat (1ère lecture)
+- Débats parlementaires
+  - Assemblée nationale (1ère lecture)
+    - Compte rendu des débats en séance publique du 27 mai 2024
+      - [1ère séance du 27 mai 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-lundi-27-mai-2024#3478201) : Présentation ; Discussion générale ; Discussion des articles : avant l'art. 1er, art. 1er.
+      - [2ème séance du 27 mai 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-lundi-27-mai-2024#3478775) : Discussion des articles (suite) : art. 1er (suite).
+    - Compte rendu des débats en séance publique du 28 mai 2024
+      - [2ème séance du 28 mai 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-28-mai-2024#3482170) : Discussion des articles (suite) : art. 1er (suite).
+      - [3ème séance du 28 mai 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/troisieme-seance-du-mardi-28-mai-2024#3482456) : Discussion des articles (suite) : art. 1er (suite).
+    - Compte rendu des débats en séance publique du 29 mai 2024
+      - [1ère séance du 29 mai 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-29-mai-2024#3484704) : Discussion des articles (suite) : art. 1er (suite), après l'art. 1er, art. 1er bis.
+      - [2ème séance du 29 mai 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mercredi-29-mai-2024#3484242) : Discussion des articles (suite) : art. 1 bis (suite), après l'art. 1er bis, après l'art. 1er bis (suite).
+    - Compte rendu des débats en séance publique du 31 mai 2024
+      - [2ème séance du 31 mai 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-vendredi-31-mai-2024#3489650) : Discussion des articles (suite) : art. 2 (suite), après l'art. 2, art. 2 bis, après l'art. 2 bis, art. 3, après l'art. 3, art. 4.
+      - [1ère séance du 31 mai 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-vendredi-31-mai-2024#3489001) : Discussion des articles (suite) : art. 1er ter, art. 1er quater, après l'art. 1er quater, art. 1er quinquies, art. 1er sexies, après l'art. 1er sexies, art. 2.
+      - [3ème séance du 31 mai 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/troisieme-seance-du-vendredi-31-mai-2024#3491412) : Discussion des articles (suite) : art. 4 (suite).
+    - Compte rendu des débats en séance publique du 3 juin 2024
+      - [1ère séance du 3 juin 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-lundi-03-juin-2024#3493571) : Discussion des articles (suite) : après l'art. 4, après l'art. 4 (suite), art. 4 bis, après l'art. 4 bis, art. 4 ter, après l'art. 4 quater.
+      - [2ème séance du 3 juin 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-lundi-03-juin-2024#3495321) : Discussion des articles (suite) : avant l'art. 4 quater (suite), art. 4 quater, art. 5.
+    - Compte rendu des débats en séance publique du 4 juin 2024
+      - [1ère séance du 4 juin 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mardi-04-juin-2024#3496463) : Discussion des articles (suite) : art. 5 (suite).
+      - [2ème séance du 4 juin 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-04-juin-2024#3497547) : Discussion des articles (suite) : art. 5 (suite).
+    - Compte rendu des débats en séance publique du 5 juin 2024
+      - [2ème séance du 5 juin 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mercredi-05-juin-2024#3499591) : Discussion des articles (suite) : art. 5 (suite).
+    - Compte rendu des débats en séance publique du 6 juin 2024
+      - [1ère séance du 6 juin 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-jeudi-06-juin-2024#3500435) : Discussion des articles (suite) : art. 5 (suite), après l'art. 5, art. 5 bis, art. 5 bis (suite), avant l'art. 6, art. 6, art. 6 (suite).
+      - [2ème séance du 6 juin 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-jeudi-06-juin-2024#3501410) : Discussion des articles (suite) : art. 6 (suite).
+      - [3ème séance du 6 juin 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/troisieme-seance-du-jeudi-06-juin-2024#3503638) : Discussion des articles (suite) : art. 6 (suite).
+    - Compte rendu des débats en séance publique du 7 juin 2024
+      - [1ère séance du 7 juin 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-vendredi-07-juin-2024#3504934) : Discussion des articles (suite) : art. 6 (suite).
+      - [2ème séance du 7 juin 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-vendredi-07-juin-2024#3505516) : Discussion des articles (suite) : art. 6 (suite), après l'art. 6, art. 7.
+      - [3ème séance du 7 juin 2024](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/troisieme-seance-du-vendredi-07-juin-2024#3506546) : Discussion des articles (suite) : art. 7 (suite).
+  - Sénat (1ère lecture)
+- Panorama des lois
+  - [Pour comprendre la loi, consulter le résumé explicatif sur le site Vie-Publique.fr : Accompagnement des malades et fin de vie](https://www.vie-publique.fr/loi/293752-fin-de-vie-projet-de-loi-soins-palliatifs-aide-mourir-pour-malades)
