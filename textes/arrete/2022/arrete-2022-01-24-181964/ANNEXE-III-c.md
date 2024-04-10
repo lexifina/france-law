@@ -2,15 +2,13 @@
 
 RÈGLEMENT D'EXAMEN
 
-Brevet de technicien supérieur " maintenance des systèmes "
-
 BTS
 
-Maintenance des Systèmes
-
-ÉPREUVES |
+Maintenance des Systèmes |
 
 Candidats |
+
+ÉPREUVES |
 
 Scolaires
 
@@ -18,13 +16,17 @@ Scolaires
 
 Apprentis
 
-(CFA ou sections d'apprentissage, habilités)
+(CFA ou sections
+
+d'apprentissage, habilités)
 
 Formation professionnelle continue
 
 (Etablissements publics habilités) |
 
-Formation professionnelle continue
+Formation
+
+professionnelle continue
 
 (Établissements publics habilités à pratiquer le CCF pour ce BTS) |
 
@@ -36,11 +38,15 @@ Apprentis
 
 (CFA ou sections d'apprentissage, non habilités)
 
-Formation professionnelle continue
+Formation professionnelle
+
+continue
 
 (Établissement privé)
 
-Au titre de leur expérience professionnelle
+Au titre de leur expérience
+
+professionnelle
 
 Enseignement à distance |
 
@@ -296,13 +302,11 @@ UF2 |
 
 |
 
-Ponctuelle orale |
+CCF |
 
-20 min (1) |
+|
 
-Ponctuelle orale |
-
-20 min (1) |
+CCF |
 
 Ponctuelle orale |
 
@@ -310,6 +314,34 @@ Ponctuelle orale |
 
 (1) |
 
-(1) : + 20 min de préparation.
+(1) + 20 min de préparation.
 
-(2) : la langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de l'anglais. Seuls, les points au-dessus de la moyenne, sont pris en compte.
+(2) La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de l'anglais. Seuls, les points au-dessus de la moyenne, sont pris en compte.
+
+Nota.-Au moment de leur inscription à l'examen du BTS " Maintenance des systèmes ", les candidats doivent fournir les attestations suivantes, selon les options de la spécialité :
+
+-pour l'option A Systèmes de production :
+
+-attestation de formation à la prévention des risques d'origine électrique ;
+
+-attestation de formation à la protection et le secours aux personnes en cas d'urgence ;
+
+-pour l'option B Systèmes énergétiques et fluidiques :
+
+-attestation de formation à la prévention des risques d'origine électrique ;
+
+-attestation de formation à la manipulation des fluides frigorigènes ;
+
+-attestation de formation à la protection et le secours aux personnes en cas d'urgence ;
+
+-pour les options C Systèmes éoliens et D Systèmes ascenseurs et élévateurs :
+
+-attestation de formation aux travaux en hauteur ;
+
+-attestation de formation à la prévention des risques d'origine électrique ;
+
+-attestation de formation à la protection et le secours aux personnes en cas d'urgence.
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 19 mars 2024 (NOR : ESRS2332647A), ces dispositions s'appliquent à compter de la session d'examen 2024.
