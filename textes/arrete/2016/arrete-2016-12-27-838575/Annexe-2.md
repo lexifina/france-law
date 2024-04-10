@@ -1,12 +1,12 @@
 # Article Annexe 2
 
-Liste des établissements de santé sièges d'une cellule d'urgence médico-psychologique renforcée.
+LISTE DES ÉTABLISSEMENTS DE SANTÉ SIÈGES D'UNE CELLULE D'URGENCE MÉDICO-PSYCHOLOGIQUE RENFORCÉE
 
-RÉGIONS |
+Régions |
 
-DÉPARTEMENTS |
+Départements |
 
-ÉTABLISSEMENT DE SANTÉ |
+Etablissement de santé |
 
 Auvergne-Rhône-Alpes |
 
@@ -20,9 +20,7 @@ CHU de Clermont-Ferrand |
 
 74 |
 
-CH d'Annecy
-
-|
+CH de Annecy-Genevois (Site de Annecy) |
 
 Bourgogne-Franche-Comté |
 
@@ -36,7 +34,13 @@ Bretagne |
 
 CHU de Brest |
 
-Grand-Est |
+Centre-Val de Loire |
+
+37 |
+
+CHRU de Tours |
+
+Grand Est |
 
 51 |
 
@@ -64,7 +68,7 @@ CH d'Arras |
 
 CHU d'Amiens |
 
-Ile de France |
+Ile-de-France |
 
 77 |
 
@@ -94,6 +98,12 @@ Assistance publique des hôpitaux de Paris (hôpital Henri Mondor) |
 
 CH de Pontoise |
 
+Normandie |
+
+76 |
+
+CHU de Rouen |
+
 Nouvelle-Aquitaine |
 
 86 |
@@ -104,20 +114,26 @@ CHU de Poitiers |
 
 CHU de Limoges |
 
-Nouvelle-Occitanie |
+Occitanie |
 
 34 |
 
 CHU de Montpellier |
 
-Normandie |
+30 |
 
-76 |
+CHU de Nîmes |
 
-CHU de Rouen |
+81 |
 
-Provence-Alpes-Côte-D'azur |
+CH d'Albi |
+
+Provence-Alpes-Côte d'Azur |
 
 06 |
 
 CHU de Nice |
+
+83 |
+
+CHIC de Toulon-La Seyne-sur-Mer |
