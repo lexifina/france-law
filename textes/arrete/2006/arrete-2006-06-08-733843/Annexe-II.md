@@ -112,11 +112,23 @@ La liste des utilisateurs et le type de leur relation avec ces entités.
 
 5° Cas particulier des centres d'emballage d'œufs
 
-Conformément aux dispositions du règlement (CE) n° 589/2008 du 23 juin 2008 de la Commission du 23 juin 2008 portant modalités d'application du règlement (CE) n° 1234/2007 du Conseil en ce qui concerne les normes de commercialisation applicables aux œufs :
+Conformément aux dispositions du règlement délégué (UE) 2023/2465 de la Commission complétant le règlement (UE) n° 1308/2013 du Parlement européen et du Conseil en ce qui concerne les normes de commercialisation applicables aux œufs et du règlement délégué (UE) 2023/2466 de la Commission portant modalités d'application du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil en ce qui concerne les normes de commercialisation applicables aux œufs :
 
 - la description détaillée de l'ensemble des locaux, de l'équipement technique approprié pour le mirage, le tri et le calibrage des œufs ;
 
 - les procédures de fonctionnement permettant le classement des œufs par catégorie de qualité et de poids.
+
+5° bis.-Cas particulier des centres d'emballage d'œufs et des établissements producteurs d'ovoproduits.
+
+Conformément aux dispositions du règlement (CE) n° 852/2004 susvisé, du règlement (CE) n° 853/2004 susvisé et du règlement (UE) n° 2016/429 susvisé, les mesures de biosécurité visant à prévenir et à réduire le risque de propagation des maladies par des véhicules, équipements et contenants (de transport d'œufs, de sous-produits animaux, du personnel et intervenants, ou tout autre matériel identifié comme susceptible de propager soit les maladies animales soit des germes pathogènes pour l'homme tels que les salmonelles) sont décrites au moyen de procédures comprenant notamment :
+
+-les modalités de circulation et, le cas échéant, de stationnement des équipements, des contenants et des véhicules dans l'enceinte de l'établissement ;
+
+-les conditions d'installation, d'équipement et de fonctionnement des systèmes de nettoyage et de désinfection des emballages de transport d'œufs et de sous-produits animaux et des véhicules de transport ;
+
+-les procédures de nettoyage et de désinfection des équipements et des véhicules de transport des œufs, en précisant les produits biocides utilisés ainsi que les modalités de vérification de l'efficacité de ces procédures ;
+
+-les modalités de fonctionnement permettant de dédier des locaux, des emplacements, des équipements, des contenants ou des véhicules à une fraction des œufs collectés de façon à éviter des contaminations croisées.
 
 6° Cas particulier des ateliers collectifs
 
