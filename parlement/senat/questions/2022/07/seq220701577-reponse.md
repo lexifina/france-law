@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701577
+
+- Question : [SEQ220701577](seq220701577.md) — Pensions alimentaires et calcul du revenu de solidarité active
+
+## Réponse
+
+*Enfance, jeunesse et familles, JO du 2024-04-11, page 1546*
+
+L'article L. 262-3 du Code de l'action sociale et des familles (CASF) pose le principe de la prise en compte de l'ensemble des ressources du foyer dans le calcul des droits au Revenu de solidarité active (RSA). L'article R. 262-6 du CASF précise cette disposition en prévoyant que l'ensemble des ressources, « de quelque nature qu'elles soient » et « de toutes les personnes composant le foyer » sont prises en compte. La prestation étant conçue comme subsidiaire et donc comme devant être versée en dernier recours, l'article L. 262-10 du code précité conditionne l'octroi du RSA au fait que le foyer « fasse valoir ses droits aux prestations sociales, législatives, réglementaires et conventionnelles » ainsi qu'aux créances d'aliments dues au titre des obligations découlant des obligations du mariage (et de sa dissolution) et des obligations nées de la filiation (obligation d'entretien). Ce traitement s'explique, comme le soulève l'étude du Conseil d'Etat relative aux conditions de ressources pour l'attribution des prestations sociales, par le fait que les prestations sociales n'ont pas vocation à financer l'obligation alimentaire incombant à un parent. Le RSA, dernier filet de sécurité, est une allocation différentielle qui complète les ressources initiales du foyer pour qu'elles atteignent le seuil d'un revenu garanti ou montant forfaitaire dont le barème varie selon la composition du foyer. Dès lors, il n'est pas envisagé de modifier les modalités de prise en compte des pensions alimentaires perçues par les bénéficiaires du RSA par leurs ascendants puisqu'une telle modification règlementaire risquerait d'altérer la philosophie même du dispositif.
