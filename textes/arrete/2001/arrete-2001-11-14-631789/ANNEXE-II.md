@@ -120,7 +120,7 @@ Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non s
 
 3,00 |
 
-Expertise |
+Mise en vente |
 
 Véhicules PL 44 t ≥ PTAC > 19 t
 
@@ -134,14 +134,14 @@ Autres véhicules immatriculés
 
 Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
-91,50
+120
 
-91,50
+120
 
-91,50
+120
 
-61,00
+100
 
-30,50
+50
 
-30,50 |
+50 |
