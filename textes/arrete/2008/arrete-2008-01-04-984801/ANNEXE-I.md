@@ -1,61 +1,301 @@
 # Article ANNEXE I
 
-SITUATION D'ÉVALUATION CERTIFICATIVE DES UC3 ET UC4 DU DIPLÔME D'ÉTAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ”, MENTION “ HANDBALL ”
+RÉFÉRENTIEL D'ACTIVITÉS, DE COMPÉTENCES ET D'ÉVALUATION DU DIPLÔME D'ÉTAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ” MENTION “ HANDBABLL ”
 
-L'épreuve certificative est évaluée dans les conditions prévues à l'article A. 212-26 du code du sport par au moins deux évaluateurs titulaires d'une qualification a minima de niveau 6 en handball.
+Le DESJEPS spécialité &laquo; performance sportive &raquo; mention &laquo; handball &raquo; correspond au métier de directeur général de centre de formation et de structure de haut niveau ainsi que d'entraîneur professionnel. Il entraîne dans le secteur élite en ligue nationale de handball (à partir de la division 2 pour les catégories masculines et en division 1 pour les catégories féminines) et dans les centres de formation, directement concernés par le renouvellement de l'élite. Il coordonne les sites régionaux d'accession au haut niveau en handball et leurs équipes. Il exerce des activités de formation de cadres.
 
-Sont dispensés de ces exigences, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
+Le titulaire du DESJEPS exerce principalement son activité dans les structures fédérales de haut niveau de la Fédération française de handball. Il est salarié à temps plein et recruté par :
 
-Epreuve certificative de l'UC 3 :
+-des centres de formation de joueurs professionnels de handball ;
 
-L'épreuve se déroule en structure d'alternance. Elle est composée des deux modalités suivantes :
+-des sites d'excellence sportives &laquo; pôle espoirs &raquo; ou sites d'accession au haut niveau en handball ;
 
--production de document :
+-des clubs professionnels de handball. |
 
-Avant la date de l'épreuve, dans les conditions fixées par le directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale (DRDJSCS), par le directeur régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par le directeur de la jeunesse, des sports et de la cohésion sociale (DJSCS), le candidat transmet deux dossiers composés chacun de 15 à 20 pages maximum et :
+RÉFÉRENTIEL D'ACTIVITÉS
 
--d'un projet de performance sportive contenant la conception, la mise en œuvre et l'évaluation pour des joueurs adultes évoluant a minima en nationale 2 ou dans une structure du projet de performance sportive suivante : pôle espoir ou centre de formation de club professionnel ;
+Décrit les situations de travail et les activités exercées, les métiers ou emplois visés. |
 
--d'un projet de formation de formateur en handball concernant la conception, la mise en œuvre et l'évaluation.
+RÉFÉRENTIEL
 
--mise en situation professionnelle :
+DE COMPÉTENCES
 
-Après tirage au sort, dans les conditions fixées par le directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale (DRDJSCS), par le directeur régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par le directeur de la jeunesse, des sports et de la cohésion sociale (DJSCS), le candidat présente son projet de performance sportive ou son projet de formation de formateur en handball, puis conduit une séance d'entraînement suivi d'un entretien selon les modalités suivantes :
+Identifie les compétences
 
-a) Projet de performance sportive :
+et les connaissances, y compris
 
-Le candidat présente son projet de performance sportive pendant une durée de 20 minutes suivi d'un entretien de 20 minutes.
+transversales, qui découlent
 
-Il conduit ensuite une séance d'entraînement, d'une durée comprise entre une heure et une heure trente minutes dans sa structure d'alternance, avec 8 joueurs adultes de champ plus un gardien de but a minima, d'une durée comprise entre une heure et une heure trente minutes dans sa structure d'alternance évoluant a minima en nationale 2 ou dans un pôle espoir programme excellence ou un centre de formation de club professionnel.
+du référentiel d'activités. |
 
-La séance d'entraînement est suivie d'un entretien d'une durée de 40 minutes maximum, en s'appuyant sur le dossier transmis dont :
+RÉFÉRENTIEL D'ÉVALUATION
 
--20 minutes portant sur la conduite de la séquence d'entraînement ;
+Définit les critères et les modalités d'évaluation des acquis
 
--20 minutes portant sur le projet de formation de formateur en handball ;
+Les modalités d'évaluation des unités capitalisables (UC) 1 et 2
 
-ou
+sont définies à l'article A. 212-57 du code du sport.
 
-b) Projet de formation de formateur en handball :
+Les modalités d'évaluation des unités capitalisables (UC) 3 et 4
 
-Le candidat présente son projet de formation de formateur pendant une durée de 20 minutes maximum suivi d'un entretien de 20 minutes.
+sont définies à l'annexe II du présent arrêté. |
 
-Il conduit ensuite une séance d'entraînement, d'une durée comprise entre une heure et une heure trente minutes dans sa structure d'alternance, avec 8 joueurs adultes de champ plus un gardien de but a minima, d'une durée comprise entre une heure et une heure trente minutes dans sa structure d'alternance évoluant a minima en nationale 2 ou dans un pôle espoir programme excellence ou un centre de formation de club professionnel.
+|
 
-La séance d'entraînement est suivie d'un entretien d'une durée de 40 minutes :
+|
 
--20 minutes portant sur la conduite et la présentation de son projet de formation de formateur ;
+MODALITÉS D'ÉVALUATION |
 
--20 minutes portant sur le projet de performance sportive.
+CRITÈRES D'ÉVALUATION |
 
-Epreuve certificative de l'UC 4 :
+UC 1-Construire la stratégie d'une organisation du secteur |
 
-L'épreuve se déroule en organisme de formation.
+Conception du projet de la structure de handball
 
-Le candidat dispose de 30 minutes de préparation.
+Préparation du projet stratégique de performance en handball en prenant en compte les spécificités physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués
 
-A partir d'une étude de cas transmise par l'organisme de formation, sous forme de vidéo d'une durée maximale de cinq minutes ou sous forme écrite, le candidat analyse le candidat analyse au maximum une ou deux situations d'un point de vue de la sécurité des pratiquants et propose des remédiations lors d'un entretien d'une durée comprise entre 20 et 30 minutes.
+Formalisation d'un projet de développement en handball en lien avec les caractéristiques et besoins singuliers des publics impliqués
+
+Partage d'analyses stratégiques avec les instances dirigeantes en lien avec les spécificités des publics impliqués
+
+Elaboration de la stratégie de mise en œuvre du projet de développement en prenant en compte les spécificités physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués
+
+Organisation de la mise en œuvre des actions partenariales dans le domaine du handball
+
+Pilotage des actions de relation publiques dans le domaine du handball
+
+Vérification de la mise en œuvre des procédures administratives au sein de la direction sportive en adaptant les moyens et les outils utilisés aux particularités de chaque membre de l'équipe |
+
+C 1.1-Préparer la prise de décision en prenant en compte les caractéristiques et besoins singuliers des publics
+
+C 1.2-Elaborer un projet de développement en lien avec les spécificités des publics impliqués
+
+C 1.3-Mobiliser les instances dirigeantes en tenant compte des particularités des interlocuteurs impliqués |
+
+Une seule situation d'évaluation permet d'évaluer de façon distincte les UC 1 et 2.
+
+La situation d'évaluation certificative est réalisée au moyen :
+
+-de la production d'un document analysant une expérience de conception et de coordination de la mise en œuvre de programmes de performance sportive en handball
+
+-d'une soutenance orale suivie d'un entretien. |
+
+Le candidat :
+
+-Organise une veille en termes d'information dans le champ d'intervention de l'organisation dans le cadre de réseaux professionnels en lien avec les spécificités des publics impliqués
+
+-Analyse les caractéristiques économiques, sociales, politiques et culturelles de son territoire en lien avec les caractéristiques et les besoins singuliers de tous les publics
+
+Analyse l'impact des politiques publiques sur l'activité de la structure de handball en lien avec les caractéristiques et les besoins singuliers des publics en intégrant notamment le handicap
+
+-Formalise des diagnostics stratégiques pour les instances dirigeantes de la structure de handball en adaptant les modalités de communication aux singularités de ses interlocuteurs
+
+-Veille au respect des objectifs, des valeurs et des méthodes de la structure de handball dans une perspective éducative et intégrative
+
+-Formalise un projet de développement en lien avec les caractéristiques et les besoins singuliers des publics impliqués
+
+-Elabore des dossiers de financement
+
+-Mobilise les ressources internes dans la préparation d'un projet de développement en favorisant la dimension collective du travail en équipe et l'intégration de tous
+
+-Anime une démarche d'ingénierie de projet en favorisant la dimension collective du travail en équipe et l'intégration de tous
+
+-Transmet l'information nécessaire à la prise de décision en adaptant les modalités de communication aux singularités de ses interlocuteurs
+
+-Expose les alternatives stratégiques aux instances dirigeantes pour répondre aux objectifs et aux besoins particuliers des publics
+
+-Prépare les travaux des assemblées décisionnelles en adaptant les modalités et outils de communication aux singularités de ses interlocuteurs |
+
+UC 2-Gérer les ressources humaines et financières d'une organisation du secteur |
+
+Direction d'une structure de handball
+
+Accompagnement de l'équipe dans l'analyse de son organisation de travail en tenant compte des spécificités des publics impliqués afin de favoriser à l'intégration de tous
+
+Prescription des organisations de travail des équipes en prenant en compte les caractéristiques et besoins particuliers de chaque acteur de manière à favoriser l'intégration
+
+Négociation du plan de formation du personnel en prenant en compte les caractéristiques et besoins singuliers de chacun afin de répondre aux problématiques des publics
+
+Définition du fonctionnement financier de la direction sportive en handball
+
+Analyse du compte de résultats et du bilan annuel
+
+Surveillance du respect des différents protocoles de travail établis adaptés aux caractéristiques spécifiques des acteurs
+
+Evaluation de la pertinence du fonctionnement administratif de la direction sportive de handball
+
+Organisation des différentes délégations en prenant en compte les caractéristiques et besoins singuliers de chacun
+
+Conduite de l'évaluation du système de travail. |
+
+C 2.1-Gérer les ressources humaines d'une organisation du secteur en favorisant la dimension collective et l'intégration de tous afin de répondre aux caractéristiques et besoins singuliers des publics
+
+C 2.2-Gérer les ressources financières d'une organisation du secteur
+
+C 2.3-Rendre compte de la mise en œuvre de la délégation en adaptant les modalités de communication, les objectifs, les moyens et les outils aux singularités de chacun |
+
+Une seule situation d'évaluation permet d'évaluer de façon distincte les UC 1 et 2.
+
+La situation d'évaluation certificative est réalisée au moyen de :
+
+-la production d'un document analysant une expérience de conception et de coordination de la mise en œuvre de programmes de performance sportive en handball.
+
+-une soutenance orale suivie d'un entretien. |
+
+Le candidat :
+
+-Conçoit une stratégie de développement des ressources humaines
+
+-Anticipe l'évolution des besoins en personnel au regard de la prise en compte de leurs caractéristiques spécifiques et de celles des publics
+
+-Négocie le plan de formation du personnel en compte les caractéristiques et besoins singuliers de chaque membre de l'équipe afin de répondre aux problématiques des publics
+
+-Gère les relations sociales au sein de la structure de handball en veillant à respecter l'intégration de tous
+
+-Contrôle la gestion administrative du personnel
+
+-Procède à l'évaluation des personnels en prenant en compte les caractéristiques spécifiques de chacun
+
+-Etablit les budgets prévisionnels et les dossiers de financement
+
+-Organise le fonctionnement financier de la structure de handball
+
+-Négocie avec les prestataires de la structure de handball
+
+-Contrôle les différentes procédures d'exécution budgétaire
+
+-Evalue la pertinence des modes de fonctionnement de la structure de handball en lien avec les spécificités des publics impliqués, acteurs et pratiquants
+
+-Explique les écarts constatés entre les résultats et les objectifs fixés
+
+-Elabore des propositions d'évolutions possibles en veillant à respecter l'intégration de tous |
+
+UC 3-Diriger un système d'entraînement en handball |
+
+Encadrer des activités complexes d'entraînement et de formation en handball
+
+Pilotage du système de l'entraînement en handball à partir d'une analyse des problématiques singulières des sportifs et de leur projet individualisé de performance
+
+Organisation du système de l'entraînement en handball en adaptant les démarches, les outils et les objectifs aux spécificités des publics impliqués
+
+Observation de la performance des autres joueurs pendant la compétition en handball
+
+Evaluation du système d'entraînement en handball
+
+Organisation des échanges de pratique avec une équipe technique en handball
+
+Réalisation de comptes rendus et de bilans pédagogiques
+
+Encadrement de stagiaires dans le cadre de formation de formateurs en handball en tenant compte des caractéristiques physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués, stagiaires et pratiquants |
+
+C 3.1-Concevoir le plan de performance sportive en handball en prenant en compte les caractéristiques singulières des différents publics notamment ceux en situation de handicap
+
+C 3.2-Planifier la préparation de la performance sportive en handball à partir des caractéristiques spécifiques et des objectifs des pratiquants
+
+C 3.3-Accompagner l'athlète vers l'optimisation de la performance en handball en tenant compte de ses caractéristiques singulières
+
+C 3.4-Conduire l'évaluation du projet de la performance en handball adapté aux caractéristiques et besoins de chacun
+
+C 3.5-Organiser des actions formatives dans le cadre des réseaux professionnels en handball en prenant en compte les caractéristiques singulières et les besoins des publics impliqués |
+
+L'épreuve certificative est réalisée au moyen de :
+
+-une conduite de séance d'entraînement avec des joueurs adultes évoluant en nationale 2 minimum suivie d'un entretien
+
+-une soutenance orale, s'appuyant sur l'analyse de la conduite de séance et la production de deux documents l'un portant sur un projet de performance sportive en handball l'autre sur un projet de formation de formateurs en handball. |
+
+Le candidat :
+
+-Analyse les facteurs de la performance sportive en handball en prenant en compte les spécificités physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués
+
+-Définit les objectifs de performance à court, moyen et long terme en handball adaptés au caractéristiques spécifiques des publics encadrés
+
+-Choisit les indicateurs de réussite intermédiaire adaptés au niveau de progression et aux singularités des pratiquants
+
+-Définit une politique de détection des jeunes joueurs de handball en veillant à respecter l'intégration de tous
+
+-Organise les échanges de pratique avec une équipe technique de handball
+
+-Organise la cohérence entre les différents temps de la préparation de la performance sportive en handball
+
+-Définit les axes de la préparation physique des joueurs de handball en lien avec leurs caractéristiques singulières
+
+-Définit les axes de la préparation mentale des joueurs de handball en lien avec leurs caractéristiques singulières
+
+-Conçoit une politique de suivi social et professionnel des joueurs de handball en tenant compte de leurs besoins particuliers
+
+-Dirige l'entraînement en handball en tenant compte des caractéristiques singulières des différents publics
+
+-Veille au respect des différents protocoles de travail établis afin de répondre aux objectifs et aux besoins particuliers de chaque pratiquant
+
+-Encadre les joueurs de handball dans le cadre de la compétition en prenant en compte la singularité de chacun
+
+-Analyse le comportement des joueurs de handball pendant la compétition en prenant en compte la singularité de chacun
+
+-Met en œuvre des médiations d'ordre stratégique, technique, physique ou relationnel adaptées aux spécificités des publics encadrés
+
+-Gère la relation avec les médias
+
+-Formalise les bilans sportifs en handball en adaptant les modalités de communication, les objectifs, les moyens et outils aux singularités des joueurs
+
+-Analyse les écarts constatés entre les résultats et les objectifs fixés
+
+-Propose aux instances dirigeantes de nouvelles perspectives de développement selon une logique inclusive
+
+-Conçoit des actions de formation adaptées aux besoins des réseaux professionnels du club ou de la structure de handball
+
+-Coordonne la mise en œuvre des actions de formation décidées en prenant compte des caractéristiques singulières des publics impliqués
+
+-Anime des actions de formation en handball en adaptant les démarches et les outils pédagogiques aux singularités de chacun
+
+-Participe aux échanges professionnels dans le cadre de formation de formateurs en handball en veillant au respect de l'intégration de tous
+
+-Evaluer des actions de formations en handball notamment au regard de la prise en compte des caractéristiques spécifiques et des besoins de chacun |
+
+UC 4-Encadrer le handball en sécurité |
+
+Encadrement du handball en assurant la sécurité des pratiquants, des tiers et de lui-même
+
+Encadrement du handball en assurant la sécurité des pratiquants et des tiers, et en préservant l'intégrité physique et psychique des pratiquants au regard de leurs singularités
+
+Vérification de la conformité du materiel technique necessaire à la réalisation de l'activité handball en prenant en compte les caractéristiques singulières des pratiquants
+
+Vérification de la conformité des lieux de travail au regard des normes d'hygiène et de sécurité en handball |
+
+C4. 1-Réaliser en sécurité les démonstrations techniques en handball
+
+C4. 2-Adapter sa posture pédagogique et les démarches d'intervention afin que chaque sportif évolue en sécurité
+
+C4. 3-Réaliser les gestes professionnels nécessaires à la sécurité des pratiquants de handball en prenant en compte leurs caractéristiques singulières physiques, motrices, sensorielles, cognitives et psychiques
+
+C4. 4-Assurer la sécurité des pratiquants et des tiers en handball tout en impliquant les pratiquants dans la gestion de leur propre sécurité et de celle des tiers |
+
+L'épreuve certificative est réalisée au moyen de la conduite d'un entretien à partir d'une étude de cas portant sur les aspects sécuritaires |
+
+Le candidat :
+
+-Evalue ses propres capacités à effectuer une démonstration technique en handball
+
+-Explicite les différents éléments de la démonstration technique en handball en choisissant des moyens de transmission de l'information adaptés aux caractéristiques des pratiquants.
+
+-Met en œuvre des démarches pédagogiques adaptées permettant au pratiquant d'expérimenter la discipline en sécurité.
+
+-Evalue et anticipe les risques objectifs et potentiels liés à la pratique du handball pour le joueur en accordant une vigilance particulière à ses caractéristiques singulières (physiques, motrices, sensorielles, cognitives et psychiques).
+
+-Maîtrise le comportement et les gestes à réaliser en cas d'incident ou d'accident en handball en prenant en compte les singularités du pratiquant
+
+-Evalue les risques objectifs liés au contexte de pratique du handball
+
+-Anticipe les risques juridiques liés à la pratique du handball et au milieu dans lequel il se pratique
+
+-Assure la sécurité passive des équipements de handball
+
+-Prévient les comportements à risque en handball
+
+-Veille à l'intégrité physique et morale des pratiquants en accordant une vigilence particulière à leurs caractéristiques singulières (physiques, motrices, sensorielles, cognitives et psychiques)
+
+-Agit ou fait appel à un tiers lorsqu'il rencontre ses propres limites, pour préserver l'intégrité physique et psychique en cas de maltraitance des mineurs et des personnes vulnérables |
 
 NOTA :
 
-Conformément au II de l'article 10 de l'arrêté du 24 décembre 2019 ( NOR : SPOV1937779A), les dispositions qui résultent de cet arrêté s'appliquent à toute nouvelle demande d'habilitation déposée à compter de la date de sa publication.
+Conformément à l’article 11 de l’arrêté du 28 mars 2024 (NOR : SPOV2409677A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter de sa publication.
