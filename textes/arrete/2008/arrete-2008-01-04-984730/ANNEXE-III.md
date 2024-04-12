@@ -1,24 +1,52 @@
 # Article ANNEXE III
 
-TABLEAU RÉCAPITULATIF DES DISPENSES ET ÉQUIVALENCES D'UNITÉ CAPITALISABLE (UC) AVEC LE DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ”, MENTION “ HANDBALL ”
+TABLEAU RÉCAPITULATIF DES DISPENSES DES EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION (EPEF) ET DES EXIGENCES PRÉALABLES À LA MISE EN SITUATION PROFESSIONNELLE (EPMSP) AINSI QUE DES ÉQUIVALENCES D'UNITÉS CAPITALISABLES (UC) AVEC LE DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ”, MENTION “ HANDBALL ”
+
+La personne titulaire de l'une des certifications mentionnées dans le tableau figurant ci-après est dispensée des exigences préalables à l'entrée en formation et/ ou de la vérification des exigences préalables à la mise en situation professionnelle, et/ ou obtient les unités capitalisables (UC) correspondantes du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité “ perfectionnement sportif ” mention “ handball ”, suivantes :
 
 |
 
-EPEF (*) |
+EPEF
 
-EPMSP (*) |
+visées
 
-UC 1 |
+à l'article 3 |
 
-UC 2 |
+EPMSP
 
-UC 3 |
+visées
+
+à l'article 5 |
+
+UC1 |
+
+UC2 |
+
+UC3 |
 
 UC 4 |
 
-Sportif de haut niveau en handball ayant été inscrit sur la liste ministérielle mentionnée à l'article L. 221-2 du code du sport |
+SHN en handball inscrit ou ayant été inscrit sur la liste ministérielle du sport mentionnée à l'article L. 221-2 du code du sport |
 
-X |
+attestation
+
+de pratiquant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Joueur en handball justifiant d'une attestation délivrée par le DTN du handball de 4 saisons en &laquo; LNH &raquo;, &laquo; LFH &raquo; ou &laquo; Pro D2 &raquo; |
+
+attestation
+
+de pratiquant |
 
 |
 
@@ -30,35 +58,7 @@ X |
 
 |
 
-Le joueur et la joueuse en handball justifiant au moyen d'une attestation délivrée par le directeur technique du handball de quatre saisons en LNH , LFH ou Pro D2 |
-
-X |
-
-X |
-
-|
-
-|
-
-|
-
-|
-
-BEES1 (*) option handball |
-
-X |
-
-X |
-
-|
-
-|
-
-|
-
-X |
-
-BPJEPS (*) spécialité activités sports collectifs mention handball |
+BPJEPS spécialité &laquo; activités sports collectifs &raquo; mention &laquo; handball &raquo; justifiant d'une expérience professionnelle d'encadrement sportif en handball de deux années au cours des cinq dernières années |
 
 X |
 
@@ -72,35 +72,7 @@ X |
 
 X |
 
-TFP (*) entraîneur de handball assorti du certificat fédéral formateur délivrés par la Fédération française de handball (1) |
-
-|
-
-|
-
-X (1) |
-
-X (1) |
-
-X (1) |
-
-X (1) |
-
-TFP (*) entraîneur de handball délivré par la Fédération française de handball |
-
-X |
-
-X |
-
-X |
-
-X |
-
-|
-
-X |
-
-TFP (*) éducateur de handball délivré par la Fédération française de handball |
+BEES du premier degré option &laquo; handball &raquo; |
 
 X |
 
@@ -114,7 +86,63 @@ X |
 
 X |
 
-L'un des certificats fédéraux délivrés par la Fédération française de handball suivants : performer avec des adultes ; former des jeunes |
+TFP &laquo; entraîneur de handball &raquo;-RNCP 31898 délivré par la FFH justifiant d'une expérience professionnelle d'encadrement sportif en handball de deux années au cours des cinq dernières années |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+X |
+
+TFP &laquo; entraîneur de handball &raquo;-RNCP 31898 délivré par la FFH assorti du certificat fédéral &laquo; formateur &raquo; délivré par la FFH justifiant d'une expérience professionnelle d'encadrement sportif en handball de deux années au cours des cinq dernières années |
+
+|
+
+|
+
+X |
+
+X |
+
+X |
+
+X |
+
+TFP &laquo; éducateur de handball &raquo; mention &laquo; Animateur de pratiques socio-éducatives et sociétales &raquo;-RNCP 31885 délivré par la FFH justifiant d'une expérience professionnelle d'encadrement sportif en handball de deux années au cours des cinq dernières années |
+
+|
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+TFP &laquo; éducateur de handball &raquo; mention &laquo; entraîneur territorial &raquo;-RNCP 31885 délivré par la FFH justifiant d'une expérience professionnelle d'encadrement sportif en handball de deux années au cours des cinq dernières années |
+
+X |
+
+X |
+
+|
+
+|
+
+|
+
+X |
+
+Certificat fédéral &laquo; former en sécurité des jeunes &raquo; ; &laquo; performer en sécurité avec des adultes &raquo; ; &laquo; entrainer des jeunes en compétition &raquo; ; &laquo; entrainer des adultes en compétition &raquo; délivré par la FFH justifiant d'une expérience d'encadrement sportif en handball de deux années au cours des cinq dernières années |
 
 X |
 
@@ -128,62 +156,30 @@ X |
 
 |
 
-L'un des certificats fédéraux délivrés par la Fédération française de handball suivants : entraîner des jeunes ; entraîner des adultes ; animer des pratiques socio-éducatives ; animer des pratiques sociétales . |
+EPEF : exigences préalables à l'entrée en formation.
 
-X |
+EPMSP : exigences préalables à la mise en situation professionnelle.
 
-|
+UC : unité capitalisable.
 
-|
+SHN : sportif de haut niveau.
 
-|
+BPJEPS : brevet professionnelle de la jeunesse de l'éducation populaire et du sport.
 
-|
+BEES : brevet d'Etat d'éducateur sportif.
 
-|
+TFP : titre à finalité professionnelle.
 
-L'un des certificats fédéraux délivrés par la Fédération française de handball au plus tard jusqu'au 1er septembre 2008 et assorti de l'unité d'enseignement prévention et secours civiques de niveau 1 (PSC 1) suivants :
+FFH : fédération Française de handball.
 
-éducateur , éducateur jeunes , ou entraîneur |
+DTN : directeur technique national.
 
-X |
+LNH : ligue nationale de handball.
 
-X |
+LFH : ligue féminine de handball.
 
-|
-
-|
-
-|
-
-|
-
-L'un des certificats fédéraux délivrés par la Fédération française de handball au plus tard jusqu'au 31 août 2019 et assorti de l'unité d'enseignement prévention et secours civiques de niveau 1 (PSC 1) suivants : entraîneur interrégional adultes , entraîneur interrégional jeunes , entraîneur interrégional enfants |
-
-X |
-
-X |
-
-|
-
-|
-
-|
-
-|
-
-(*) EPEF : exigences préalables à l'entrée en formation, visées à l'article 3.
-
-(*) EPMSP : exigences préalables à la mise en situation professionnelle, visées à l'article 5.
-
-(*) BEES1 : brevet d'Etat d'éducateur sportif du premier degré.
-
-(*) BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
-
-(*) TFP : titre à finalité professionnelle.
-
-(1) Obtention du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité “ perfectionnement sportif ”, mention “ handball ”.
+Pro D2 : professionnel division 2.
 
 NOTA :
 
-Conformément à l'article 9 de l’Arrêté du 24 décembre 2019 modifiant l'arrêté du 4 janvier 2008 portant création de la mention handball du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité perfectionnement sportif , les dispositions figurant aux articles 2, 3, 4, 6, 7 et à l'annexe III figurant à l'article 8 du présent arrêté s'appliquent aux sessions de formation qui seront ouvertes à compter de la date de publication du présent arrêté.
+Conformément à l’article 11 de l’arrêté du 28 mars 2024 (NOR : SPOV2409675A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter de sa publication,
