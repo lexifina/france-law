@@ -1,39 +1,41 @@
 # Article Annexe II
 
-SITUATION D'ÉVALUATION CERTIFICATIVE DES UNITÉS CAPITALISABLES UC3 ET UC4 DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ " PERFECTIONNEMENT SPORTIF " MENTION " VOL LIBRE "
+MODALITÉS ET CRITÈRES D'ÉVALUATION DU TEST NAVETTE “ LUC LÉGER ”
 
-Situation d'évaluation certificative des unités capitalisables 3 et 4 :
+Le test navette “ Luc Léger ” est un test progressif qui consiste à courir entre deux lignes, séparées de vingt mètres, selon le rythme indiqué par les signaux de la bande sonore. Il vise à calculer la vitesse maximale aérobie ainsi qu'à estimer la consommation maximale d'oxygène (VO2Max) d'une personne.
 
-Epreuve certificative des unités capitalisables 3 et 4 :
+Si le candidat est une femme, le test navette “ Luc Léger ” est validé lorsque le palier 6 est réalisé. Le palier 6 est réalisé par l'annonce sonore suivante : “ palier 7 ” ou “ fin du palier 6 ”. Le candidat atteint 11,5 km/ h.
 
-Cette épreuve certificative permet l'évaluation distincte des unités capitalisables UC3, UC4A et UC4B.
+Si le candidat est un homme, le test navette “ Luc Léger ” est validé lorsque le palier 8 est réalisé. Le palier 8 est réalisé par l'annonce sonore suivante : “ palier 9 ” ou “ fin du palier 8 ”. Le candidat atteint 12,5 km/ h.
 
-L'épreuve se déroule en organisme de formation et consiste en une mise en situation professionnelle d'encadrement d'une séance de perfectionnement sportif dans l'option choisie, organisée en présence d'un public de pratiquants sur une demi-journée minimum.
+Règlement du test :
 
-L'action d'encadrement est précédée :
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0086 du 12 avril 2024 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=JuaQhmX_s2QO98PIqRgWMYBa1y-KQb7uxasuWe2P12w=
 
--de la remise par le candidat d'une préparation écrite de séance faisant apparaître les objectifs pédagogiques poursuivis et les situations pédagogiques envisagées ;
+Le candidat se place derrière une ligne “ A ” matérialisée au sol et délimitée par des plots. Au signal de la bande sonore, le candidat se dirige vers la ligne “ B ” également matérialisée au sol et délimitée par des plots. Une ligne de tolérance, deux mètres avant l'extrémité de la ligne A et de la ligne B, est matérialisée au sol de chaque côté des vingt mètres. Deux évaluateurs se positionnent de part et d'autre des lignes A et B. Le nombre de candidats est limité à dix par binôme d'évaluateur.
 
--d'une présentation orale par le candidat d'une analyse météorologique et aérologique permettant de justifier ses choix stratégiques et pédagogiques auprès des évaluateurs.
+Le candidat amorce son retour vers la ligne opposée en bloquant un de ses pieds immédiatement derrière l'extrémité de la ligne A ou B. Les virages en courbe sont interdits.
 
-Epreuve certificative de l'unité capitalisable 3 :
+Si un candidat arrive sur une des deux lignes avant le signal sonore suivant, il attend que le signal sonore retentisse pour repartir vers l'autre ligne.
 
-L'épreuve, d'une durée comprise entre trente et quatre-vingt-dix minutes, se déroule en organisme de formation et consiste en une mise en situation professionnelle d'encadrement d'une action de formation dispensée auprès du public de pratiquants encadré lors de la séance de perfectionnement sportif susmentionnée, en vue d'améliorer leurs connaissances relatives à l'activité (météorologie, aérologie, technique, mécanique de vol, réglementation aérienne, etc …). Le sujet est laissé au choix du candidat et devra être en cohérence avec les besoins du public encadré.
+Lorsqu'un candidat a un retard dans la zone de tolérance des deux mètres, à l'émission du signal sonore, un avertissement lui est signifié par l'évaluateur de la ligne qui en informe également l'évaluateur de la ligne opposée.
 
-Les mises en situation professionnelles sont suivies d'un entretien unique avec les évaluateurs de soixante minutes maximum permettant au candidat d'analyser les deux actions d'encadrement et de formation et de justifier ses choix didactiques, techniques et pédagogiques.
+Dans le cas où le retard n'est pas comblé sur l'aller suivant, un deuxième avertissement est signifié au candidat. Un troisième retard consécutif est éliminatoire.
 
-Epreuve certificative de l'unité capitalisable 4A ou 4B :
+Tout retard en-deçà de la zone de tolérance des deux mètres, à l'émission du signal sonore, est éliminatoire.
 
-Cette épreuve est composée de plusieurs modalités complémentaires :
+Le matériel :
 
-1. Un vol de démonstration en biplace incluant, pour l'option parapente, l'utilisation du matériel et le recours aux techniques nécessaires à l'emport de personnes en situation de handicap moteur.
+-un gymnase ou une salle de sport, ou à défaut un terrain extérieur, avec une surface plane antidérapante nécessaire à la réalisation du test dans des conditions de sécurité ;
 
-Il est attendu du candidat qu'il explicite ses choix techniques et stratégiques ;
+-un décamètre ou un odomètre avec une roue ;
 
-2. Une séquence pratique de révision et d'entretien de matériel dans l'option choisie d'une durée de trente minutes maximum ;
+-du ruban adhésif ou autres (pour matérialiser les lignes au sol) ;
 
-3. Une épreuve pratique de pliage et de conditionnement d'un parachute de secours d'une durée de quarante-cinq minutes maximum ;
+-des plots ;
 
-4. Un entretien avec les évaluateurs d'une durée de vingt minutes maximum permettant de vérifier la maîtrise par le candidat du contexte juridique et réglementaire lié à l'option choisie. L'entretien est conduit sur la base d'un sujet préalablement tiré au sort pour lequel le candidat bénéficie d'un temps de préparation fixé à vingt minutes maximum ;
+-un lecteur d'enregistrement, suffisamment audible pour tous les participants ;
 
-5. Un entretien avec les évaluateurs d'une durée de quinze minutes maximum permettant de vérifier les capacités du candidat à procéder à l'analyse technique détaillée d'une situation dans l'option choisie, à partir d'une séquence vidéo. Préalablement à l'entretien, le candidat dispose de trois visionnages de la séquence vidéo qu'il aura tirée au sort, et d'un temps de préparation de quinze minutes maximum.
+-l'enregistrement du test “ Luc Léger ”, version 1998, avec palier d'une minute.
+
+-des chasubles avec numéro (autant que de candidats).

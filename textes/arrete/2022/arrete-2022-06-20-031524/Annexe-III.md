@@ -1,345 +1,99 @@
 # Article Annexe III
 
-TABLEAU DES DISPENSES DES EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION ET DES EXIGENCES PRÉALABLES À LA MISE EN SITUATION PROFESSIONNELLE, AINSI QUE DES ÉQUIVALENCES D'UNITÉS CAPITALISABLES (UC) AVEC LE DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT, SPÉCIALITÉ " PERFECTIONNEMENT SPORTIF " MENTION " VOL LIBRE "
+DOSSIER SUPPORT DE L'ENTRETIEN DU TEST D'EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION AU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ” MENTION “ VOL LIBRE ”
 
-La personne titulaire de l'une des certifications mentionnées dans le tableau figurant ci-après est dispensée des exigences préalables à l'entrée en formation, de la vérification des exigences préalables à la mise en situation professionnelle et/ ou obtient les unités capitalisables (UC) correspondantes du DEJEPS spécialité " perfectionnement sportif " mention " vol libre ", suivantes :
+Nom et prénom du candidat :
 
-|
-
-EPEF (*)
-
-Visées à l'article 5 |
-
-EPMSP (*)
-
-Visées à l'article 6 |
-
-UC1 |
-
-UC2 |
-
-UC3 |
-
-UC 4A
-
-parapente |
-
-UC4B
-
-deltaplane |
-
-BPJEPS (*) spécialité " vol libre " mention " parapente " à jour de la mise à niveau au sens de l'article R. 212-1 du code du sport
-
-|
-
-X
-
-option parapente |
-
-X
-
-option parapente |
-
-|
-
-|
-
-|
-
-X |
-
-|
-
-BEES du 1er degré option " vol libre " spécialité " parapente " à jour de la mise à niveau au sens de l'article R. 212-1 du code du sport
-
-|
-
-X
-
-option parapente |
-
-X
-
-option parapente |
-
-|
-
-|
-
-|
-
-X |
-
-|
-
-BPJEPS (*) spécialité " vol libre " mention " deltaplane " à jour de la mise à niveau au sens de l'article R. 212-1 du code du sport. |
-
-X
-
-option deltaplane |
-
-X
-
-option deltaplane |
-
-|
-
-|
-
-|
-
-|
-
-X |
-
-BEES (*) du 1er degré option " vol libre " spécialité " deltaplane " à jour de la mise à niveau au sens de l'article R. 212-1 du code du sport. |
-
-X option deltaplane |
-
-X option deltaplane |
-
-|
-
-|
-
-|
-
-|
-
-X |
-
-UC3 ou UC 4 du DEJEPS (*) spécialité " perfectionnement sportif " mention " parapente " validée il y a moins de 5 années |
-
-X
-
-option parapente |
-
-X
-
-option parapente |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-UC3 du DEJEPS (*) spécialité " perfectionnement sportif " mention " parapente " |
-
-|
-
-|
-
-|
-
-|
-
-X |
+Date et lieu de naissance :
 
-|
-
-|
-
-UC4 du DEJEPS (*) spécialité " perfectionnement sportif " mention " parapente " |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X |
-
-|
-
-UC3 ou UC4 du DEJEPS (*) spécialité " perfectionnement sportif " mention " deltaplane " validée il y a moins de 5 années |
-
-X
-
-option deltaplane |
-
-X
-
-option deltaplane |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-UC3 du DEJEPS (*) spécialité " perfectionnement sportif " mention " deltaplane " |
-
-|
-
-|
-
-|
-
-|
-
-X |
-
-|
-
-|
-
-UC4 du DEJEPS (*) spécialité " perfectionnement sportif " mention " deltaplane " |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X |
+Liste des 3 dernières ailes utilisées :
 
-DEJEPS (*) spécialité " perfectionnement sportif " mention " parapente " à jour de la mise à niveau au sens de l'article R. 212-1 du code du sport
+Date dernier stage SIV/ Pilotage réalisé : Nom de la structure :
 
-|
-
-|
+CV de pratiquant :
 
-|
+Date début de pratique : |
 
-X |
+Nom de la structure : |
 
-X |
+Date obtention BI : |
 
-X |
+Nom de la structure : |
 
-X |
+Date obtention BP : |
 
-|
+Nom de la structure : |
 
-DEJEPS (*) spécialité " perfectionnement sportif " mention " deltaplane " à jour de la mise à niveau au sens de l'article R. 212-1 du code du sport
+Date obtention BPC : |
 
-|
+Nom de la structure : |
 
-|
+Date obtention QBi : |
 
 |
-
-X |
-
-X |
 
-X |
+Date obtention MF : |
 
 |
-
-X |
-
-Animateur ou moniteur fédéral parapente, délivré par la Fédération française de vol libre. |
-
-X
 
-option parapente
+Autre qualification FFVL (type et date) : |
 
-Dispense portant uniquement sur la production de l'attestation de connaissance du milieu mentionné au c) de l'article 5 |
-
 |
 
-|
+Volume de vol annuel :
 
-|
+Type de pratique privilégié :
 
-|
+Détail des 3 meilleurs vols de distance réalisés hors compétition officielle :
 
-|
+Spécifier pour chacun : Lieu de décollage ; Parcours/ Balises/ Pts de contournement ; Lieu d'atterrissage + distance réalisée
 
-|
+A :
 
-Animateur ou moniteur fédéral deltaplane, délivré par la Fédération française de vol libre |
+B :
 
-X
+C :
 
-option deltaplane
+Liste des figures de voltige maitrisées :
 
-Dispense portant uniquement sur la production de l'attestation de connaissance du milieu mentionné au c) de l'article 5 |
+Implication associative vol libre (joindre attestations) :
 
-|
+Type d'engagement |
 
 |
 
 |
 
-|
+Organisme |
 
 |
 
 |
-
-Moniteur fe ́ de ́ ral parapente à jour du recyclage, assorti de l'unite ́ comple ́ mentaire " cycle 3 " parapente, de ́ livre ́ s par la Fe ́ de ́ ration franc ̧ aise de vol libre |
-
-X
-
-option parapente
-
-Dispense portant uniquement sur la production de l'attestation de connaissance du milieu mentionné au c) de l'article 5 |
 
-X
+Date début |
 
-option parapente |
-
-|
-
 |
 
 |
 
-X |
+Date fin |
 
 |
-
-Moniteur fédéral deltaplane à jour du recyclage, assorti de la qualification biplace et de l'unité ́ complémentaire " cycle 3 " délivrés par la Fédération française de vol libre. |
-
-X
-
-option deltaplane
 
-Dispense portant uniquement sur la production de l'attestation de connaissance du milieu mentionnée au c) de l'article 5 |
-
-X
-
-option deltaplane |
-
 |
 
-|
+Volume Horaire/ Fréquence d'intervention |
 
 |
 
 |
-
-X |
-
-EPEF : exigences préalables à l'entrée en formation.
 
-EPMSP : exigences préalables à la mise en situation professionnelle.
+Autres pratiques de vol libre (spécifier la fréquence, le nombre d'heures …) :
 
-BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
+-marche et vol :
 
-BEES : brevet d'Etat d'éducateur sportif.
+-speed-riding/ speed-flying :
 
-DEJEPS : diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport.
+-autres :
 
-UC : unité capitalisable.
+Résultats significatifs en compétition (en intégrant PA, marche et vol …) :
