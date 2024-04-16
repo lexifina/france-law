@@ -1,0 +1,9 @@
+# Réponse à la question n° 13563
+
+- Question : [13563](13563.md) — Question n° 13563 — Formation et recrutement des chauffeurs d'autocars
+
+## Réponse
+
+*JO du 2024-04-16, page 3081*
+
+La filière des transports routiers de marchandises et de voyageurs connait actuellement un fort déficit de recrutements, associé à des enjeux de rémunération, de conditions de travail et de temps partiel. Plusieurs voies d'accès permettent aujourd'hui d'obtenir le permis de conduire du groupe lourd et la Carte de qualification de conducteur (CQC) octroyés par le ministère de l'intérieur. Parmi celles-ci figurent notamment les formations conduisant aux titres professionnels du ministère chargé de l'emploi : Conducteur de transport en commun sur route (CTCR), qui permet la délivrance de la catégorie D du permis de conduire, Conducteur du transport routier de marchandises sur porteur (CTRMP) et Conducteur du transport routier de marchandises sur tous véhicules (CTRMV), qui permettent la délivrance de la catégorie C du permis de conduire. Ces parcours de formation ont permis de certifier 29 400 candidats en 2022, dont 8 800 titrés pour le seul titre professionnel CTCR. Il a été constaté que les délais de délivrance des titres professionnels mais également, une fois le diplôme obtenu, les délais de délivrance des documents nécessaires à l'exercice de l'activité professionnelle de conducteur routier (permis de conduire, carte de qualification de conducteur et carte chronotachygraphe), s'avéraient parfois trop longs, ayant un impact négatif sur l'employabilité des candidats. Les travaux conduits par les Inspections générales de l'administration (IGA) et des affaires sociales (IGAS) ont permis d'objectiver ces délais pour chaque document concerné et d'identifier des pistes pour la réduction de ces délais. Plusieurs de ces mesures sont étudiées dans le périmètre du ministère chargé de l'emploi, qui pourront donner lieu à une prochaine traduction réglementaire.
