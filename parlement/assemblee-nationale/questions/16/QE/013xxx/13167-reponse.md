@@ -1,0 +1,9 @@
+# Réponse à la question n° 13167
+
+- Question : [13167](13167.md) — Question n° 13167 — Effectifs de commandants de bord et de copilotes de la sécurité civile
+
+## Réponse
+
+*JO du 2024-04-16, page 3060*
+
+La situation des effectifs de commandants de bord du Groupement des moyens aériens de la Direction générale de la sécurité civile et de la gestion des crises est la suivante au 1er janvier 2024 : le secteur « Canadair » compte 18 commandants de bord, dont 3 en formation bombardier d'eau ; le secteur « Dash » compte 16 commandants de bord, dont 2 en formation bombardier d'eau ; le secteur « Beech » compte 9 commandants de bord. Les pilotes des secteurs « Canadair et Dash » en formation jouissent effectivement du statut de commandant de bord sur toutes les missions, à l'exception des missions feux de forêts. Les effectifs des copilotes ne suscitent pas d'alerte des ressources humaines (RH). Néanmoins, la situation RH des effectifs de commandant de bord est particulièrement évolutive. La qualification des pilotes en formation est directement conditionnée par de nombreux facteurs exogènes fortement imprévisibles. En effet, la météo, l'intensité de la saison feux de forêts, la disponibilité des avions, les choix individuels de parcours inopinés sont autant de facteurs perturbant le déroulé des qualifications. La Direction générale de la sécurité civile et de la gestion des crises œuvre quotidiennement pour garantir le bon fonctionnement et l'armement de la flotte aérienne. Le protocole relatif à la revalorisation des personnels navigants du groupement des moyens aériens, signé le 1er juillet 2022, permet notamment la mise en place de nouvelles qualifications de bombardier d'eau en vue de renforcer les effectifs des pilotes de classe A. Il a fait l'objet de la publication au JO des décrets 2023-1212 et 2023-1213 publié le 21 décembre 2023.
