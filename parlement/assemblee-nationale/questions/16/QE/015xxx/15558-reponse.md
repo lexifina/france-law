@@ -1,0 +1,9 @@
+# Réponse à la question n° 15558
+
+- Question : [15558](15558.md) — Question n° 15558 — Modification de l'adresse électronique du compte service-public.fr
+
+## Réponse
+
+*JO du 2024-04-16, page 2998*
+
+Le site service-public.fr est une plateforme d'information et de réalisation des démarches administratives en ligne largement plébiscitée par ses utilisateurs avec plus de 605 millions de visites en 2023. La réalisation de démarches suppose une identification préalable et le cas échéant la création d'un compte utilisateur auquel peut être associé un porte document dans lequel transite des justificatifs et des informations à caractère personnel. Pour ces raisons, l'accès au site suppose un niveau de sécurité suffisant et, en fonction de la sensibilité des démarches réalisées, des contraintes croissantes permettant de garantir l'intégrité des informations échangées. A la différence d'autres sites des administrations, Il existe sur service-public.fr plusieurs façons de s'identifier telle que l'utilisation de France connect, voire de France connect+ pour des démarches plus sensibles telle que celle de l'expérimentation récente du renouvellement dématérialisé des passeports depuis l'étranger pour les Français résidant au Portugal ou au Canada. Il existe enfin une solution classique de connexion par l'association d'un identifiant - l'adresse de messagerie - et d'un mot de passe. Depuis janvier 2024, le site Service-public.fr propose la possibilité de changer d'identifiant, et par conséquent d'adresse électronique associée au compte. Cette évolution s'est accompagnée d'une sécurisation accrue du compte service-public.fr par la mise en place d'une authentification à double facteur pour accéder au porte-document, qui permet de s'assurer qu'en cas de changement d'identifiant frauduleux, la personne malveillante ne pourra pas accéder à des données personnelles figurant dans le porte-document.
