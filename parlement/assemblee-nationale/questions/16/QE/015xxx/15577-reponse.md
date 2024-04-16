@@ -1,0 +1,9 @@
+# Réponse à la question n° 15577
+
+- Question : [15577](15577.md) — Question n° 15577 — Plan d'action 2023-2027 - Accompagnement des blessés militaires
+
+## Réponse
+
+*JO du 2024-04-16, page 3013*
+
+La loi n° 2018-607 du 13 juillet 2018 relative à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la défense étend le régime de la présomption légale en matière d'invalidité applicable aux militaires, en reconnaissant les maladies désignées par les tableaux des maladies professionnelles de la sécurité sociale comme étant présumées imputables au service. Désormais, un militaire atteint d'une maladie peut bénéficier d'un régime favorable lors de l'étude de ses droits à pension militaire en permettant la reconnaissance d'un caractère professionnel « par présomption » lorsque l'affection est contractée dans les conditions mentionnées dans ces tableaux. Les tableaux des maladies professionnelles sont créés et modifiés par décret, suivant l'évolution des techniques et des progrès des connaissances médicales. Le plan d'action ministériel d'accompagnement des blessés et des familles 2023-2027 dit Plan Blessés prévoit la qualification de maladie professionnelle pour certaines pathologies potentiellement déclenchées par les activités militaires à partir d'un certain seuil. Les travaux pour définir la mesure sont en cours. En outre, la loi du 13 juillet 2018 précitée établit une présomption d'imputabilité au service en cas de blessure survenue durant le service, instaurant ainsi un régime d'imputabilité étendu pour les militaires. Enfin, l'article 24 de la loi n° 2023-703 du 1er août 2023 relative à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense a supprimé le délai de carence pour l'imputabilité au service des maladies constatées au cours d'une opération extérieure.
