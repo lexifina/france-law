@@ -1,0 +1,9 @@
+# Réponse à la question n° 11515
+
+- Question : [11515](11515.md) — Question n° 11515 — Attribution d'une carte de circulation militaire aux réservistes
+
+## Réponse
+
+*JO du 2024-04-16, page 3022*
+
+La carte de circulation militaire permet aux militaires de bénéficier d'une réduction tarifaire sur les trajets ferroviaires qui est historiquement liée à la condition militaire. Elle est une forme de compensation des obligations et sujétions propres à l'état militaire, en particulier la sujétion de disponibilité en tout temps et tout lieu et d'adaptation aux contraintes imposées par les nombreuses mutations qui jalonnent les carrières militaires. S'agissant des réservistes, l'article R. 4221-9 du code de la défense dispose que « chaque période couvre des services effectifs continus et fait l'objet d'une convocation qui ouvre droit aux indemnités de déplacement temporaire, à l'aller et au retour, entre le domicile du réserviste et son lieu d'affectation ». En pratique, pour ne pas avancer de frais de transport ferroviaire, le réserviste peut commander des e-billet SNCF pris en charge directement par l'administration, sur le portail internet des réservistes « ROC ». A défaut, il peut se faire rembourser intégralement des frais de transport ferroviaire engagés dans le cadre de l'indemnisation des déplacements temporaires. Ces frais sont également pris en charge par l'État si le réserviste est appelé à effectuer un déplacement de service en cours de convocation, comme le prévoit l'article 1er du décret n° 2009-545 du 14 mai 2009 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires du personnel militaire. La situation particulière des réservistes est donc déjà prise en charge et une extension de la carte de circulation militaire ne répond donc pas à un besoin identifié.
