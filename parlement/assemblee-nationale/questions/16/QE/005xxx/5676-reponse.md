@@ -1,0 +1,9 @@
+# Réponse à la question n° 5676
+
+- Question : [5676](5676.md) — Question n° 5676 — Lutte contre les arnaques à l'adoption d'animaux domestiques
+
+## Réponse
+
+*JO du 2024-04-16, page 3000*
+
+Alors que la réglementation encadre les cessions d'animaux de compagnie pour répondre aux enjeux à la fois sanitaires et de protection animale, certaines offres en ligne ne respectent pas ces dispositions en omettant des informations essentielles, en proposant un animal dont la cession n'est pas autorisée ou en décrivant un animal autre que celui effectivement remis à l'acquéreur. Ces pratiques, très souvent associées aux trafics d'animaux portent atteinte au bien-être des animaux et sont à l'origine de nombreux abandons. Au regard de ces éléments, le législateur a, au travers de la loi n° 2021-1549 du 30 novembre 2021 visant à lutter contre la maltraitance animale et conforter le lien entre les animaux et les hommes, introduit une obligation de contrôle préalable, par l'annonceur, des offres de cession, onéreuses comme gratuites, de chiens, chats et furets. Seules les annonces contenant toutes les informations obligatoires pourront être contrôlées et par conséquent labellisées conformes. Un outil est en cours de déploiement par le délégataire chargé de la base du fichier national d'identification des chiens, chats et furets Ingenium Animalis. La labellisation apportera aux personnes souhaitant acquérir un chien ou un chat par le biais d'une offre en ligne la garantie de l'origine de l'animal, de l'exactitude de sa description et de l'accord du propriétaire déclaré. Si l'absence de contrôle des annonces est passible d'une amende de 7 500 euros, la sensibilisation des particuliers à l'importance de la labellisation demeure un outil majeur pour la réussite de la lutte contre les maltraitances des chiens ou des chats.
