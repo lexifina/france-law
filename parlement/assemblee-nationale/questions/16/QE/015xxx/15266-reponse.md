@@ -1,0 +1,9 @@
+# Réponse à la question n° 15266
+
+- Question : [15266](15266.md) — Question n° 15266 — Moyens mis à disposition de l'ONACVG
+
+## Réponse
+
+*JO du 2024-04-16, page 3012*
+
+Le département reconnaissance et réparation de l'Office national des combattants et des victimes de guerre (ONaCVG) a pour mission l'instruction des demandes de mentions marginales honorifiques : Mort pour la France (MPF - créée en 1915), Mort en déportation (MED - créée en 1985), Mort pour le service de la Nation (MPSN – créée en 2012) et Mort pour le service de la République (MPSR – créée en 2022). En 2023, 425 mentions « MPF », 202 mentions « MED », 8 mentions « MPSN » et 47 mentions « MPSR » ont été attribuées, soit 682 mentions au total. S'agissant plus particulièrement de la mention « mort en déportation », 85 007 mentions ont été délivrées depuis 1985, étant précisé que les historiens estiment entre 100 000 et 120 000 le nombre de personnes décédées en déportation à partir du territoire français. De 2010 à 2021, 19 119 actes de décès ont été établis et 26 101 mentions attribuées. Entre 2010 et 2021, six agents étaient affectés aux mentions. Au regard de contraintes informatiques liées au remplacement de l'application utilisée et de tensions en matière de ressources humaines nées du départ d'agents, il a été décidé de prioriser l'instruction des mentions (MPSN et MPSR) dont l'octroi générait l'ouverture immédiate de droits aux ayants cause des victimes. Des mesures ont été prises pour remédier à cette situation : depuis octobre 2023, deux agents à temps partiel sont venus renforcer les effectifs et une nouvelle application informatique a été mise en service, ce qui devrait permettre d'améliorer les délais d'instruction des dossiers. Le stock des demandes en instance concernant la mention « mort en déportation » est évalué à 25 et un nouvel arrêté portant attribution devrait être publié au premier semestre 2024.
