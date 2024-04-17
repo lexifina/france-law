@@ -226,4 +226,6 @@ Dans la limite d'une (1) fréquence hebdomadaire sur l'une des deux liaisons sui
 
 Montpellier-Beyrouth (Liban) ;
 
-Nice-Beyrouth (Liban).
+Nice-Beyrouth (Liban) ;
+
+Toulon-Alger (Algérie).
