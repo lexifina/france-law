@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231209320
+
+- Question : [SEQ231209320](seq231209320.md) — Annonces de la Première ministre relatives à l'attribution de logements sociaux aux bénéficiaires du droit au logement opposable
+
+## Réponse
+
+*Logement, JO du 2024-04-18, page 1664*
+
+Le Gouvernement souhaite favoriser la mixité sociale dans les quartiers politiques de la ville. Partant du constat qu'une majorité de ménages fragiles se voient attribuer un logement social dans ces quartiers, la Première ministre a annoncé son intention d'y diversifier l'offre de logements pour y accueillir d'autres populations. Il s'agit ainsi d'éviter de concentrer les ménages les plus pauvres dans ces quartiers dont les ménages bénéficiaires du droit au logement opposable (DALO) les plus en difficulté. Ces ménages doivent se voir proposer un logement correspondant à leurs ressources en dehors des quartiers prioritaires de la ville (QPV) et ainsi favoriser les objectifs de mixité sociale. Il n'est pas question pour le Gouvernement de revenir sur cette consigne. En outre, consigne a été donnée aux préfets de rééquilibrer la structure des loyers du parc social notamment par l'adaptation des loyers issus de la convention APL grâce à la nouvelle politique des loyers (NPL) et la politique de loyers dérogatoires (PLD). Ces mécanismes permettent de modifier la structure des loyers dans le parc social ainsi que l'offre nouvelle en logements de type PLUS pour laquelle 30% au moins de ces logements sociaux doivent être réservés aux ménages sous plafonds PLAI. Cette nouvelle politique des loyers doit permettre notamment d'atteindre l'objectif de 25% des demandeurs du premier quartile en dehors des quartiers de la politique de la ville. De plus, le cadre de la loi SRU est appliqué, avec la carence des communes n'ayant pas atteint leurs objectifs.
