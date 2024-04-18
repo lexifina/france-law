@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240310554
+
+- Question : [SEQ240310554](seq240310554.md) — Impact des politiques de sobriété foncière vertueuses sur la taxe d'aménagement et financement des conseils d'architecture, d'urbanisme et de l'environnement
+
+## Réponse
+
+*Logement, JO du 2024-04-18, page 1669*
+
+La taxe d'aménagement est due sur les constructions neuves nécessitant une autorisation d'urbanisme mais également sur l'ensemble des opérations d'aménagement, de reconstruction ou d'agrandissement de bâtiments, installations ou aménagements de toute nature soumis à autorisation d'urbanisme. Inclure dans le champ d'application de la taxe d'aménagement, les opérations de transformation des bâtiments existants qui ont donc déjà été soumis à la taxe lors de leur édification, reviendrait à mettre en place une double imposition différée dans le temps, ce qui ne peut être envisagé. Les conseils départementaux qui instituent la taxe d'aménagement, fixent par délibération, le taux applicable de la part départementale et également le taux de répartition entre la politique de protection des espaces naturels sensibles et les conseils d'architecture, d'urbanisme et de l'environnement (CAUE). Pour répondre au besoin de financement pour les CAUE, le conseil départemental peut d'une part, moduler le taux de la part départementale jusqu'à la limite autorisée par le législateur et d'autre part adapter la clé de répartition entre la politique des espaces naturels et les CAUE pour mieux tenir compte des missions de ces derniers. Enfin, si, en application de l'article 7 de la loi 72-2 du 3 janvier 1977 sur l'architecture, les interventions des CAUE sont gratuites, cette règle n'interdit toutefois pas à un CAUE de recevoir des participations volontaires au titre d'une contribution générale à son activité et donc des versements en contrepartie de prestations de services déterminées de conseil ou d'études.
