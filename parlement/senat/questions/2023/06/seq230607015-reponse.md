@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230607015
+
+- Question : [SEQ230607015](seq230607015.md) — Capital décès d'un fonctionnaire décédé en activité
+
+## Réponse
+
+*Transformation et fonction publiques, JO du 2024-04-18, page 1678*
+
+L'article D. 712-20 du code de la sécurité sociale énumère les règles de répartition du capital versé entre les ayants droit d'un fonctionnaire décédé en activité. Aux termes de cet article, le pacte civil de solidarité (PACS) doit être conclu depuis plus de deux ans pour que le partenaire du « du cujus » puisse bénéficier du tiers ou de la totalité du capital suivant la présence ou non d'enfants pouvant prétendre à l'attribution de ce même capital. Le mariage n'est, quant à lui, pas soumis à une telle condition de durée. De même, les enfants ayants droit peuvent prétendre à la totalité de ce capital en l'absence de conjoint ou de partenaire de PACS. Enfin, les ascendants peuvent se voir attribuer la totalité du capital décès en l'absence de conjoint ou de partenaire d'un PACS ou d'enfants ayants droit, à la condition qu'ils furent à la charge du « de cujus » au moment du décès. Les agents publics, quel que soit leur statut, bénéficient depuis le décret n° 2021-176 du 17 février 2021 portant modification temporaire des modalités de calcul du capital décès servi aux ayants droits de l'agent public décédé d'une réévaluation du montant servi, celui-ci étant porté à la dernière rémunération brute annuelle du fonctionnaire décédé (traitement et régime indemnitaire), là où l'article D. 712-19 du code de la sécurité sociale prévoyait un montant égal à quatre fois celui mentionné à l'article D. 361-1 du même code, soit un peu moins de 15 000 euros. De même, le décret harmonise les règles de calcul du capital décès des contractuels avec celui des fonctionnaires, puisque leurs ayants droit peuvent prétendre à l'attribution d'un capital égal à la somme des émoluments des douze mois précédant la date du décès, contre 75 % auparavant.
