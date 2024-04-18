@@ -6,7 +6,7 @@ I. - Une avance peut être mise en paiement par le délégué de l'agence dans l
 
 Cette avance est versée en application de l'article R. 321-18 du CCH et dans les conditions de l'article 18 du présent RGA aux propriétaires occupants et assimilés au sens des 2° et 3° du I de l'article R. 321-12 du CCH et aux syndicats de copropriétaires définis au 7° du même article, dans la limite de 70 % du montant prévisionnel de la subvention.
 
-II. - La demande d'avance, adressée avant le début des opérations au délégué de l'agence dans le département ou au délégataire, doit comporter les engagements datés et signés du bénéficiaire relatifs au délai de commencement des opérations et au reversement de toutes sommes versées en cas de non-respect de ce délai, le cas échéant prorogé, ou de toutes autres obligations réglementaires liées au bénéfice de cette avance.
+II. - La demande d'avance, adressée avant le début des opérations au délégué de l'agence dans le département ou au délégataire, doit comporter les engagements datés et signés du bénéficiaire relatifs au délai de commencement des opérations le cas échéant, et au reversement de toutes sommes versées en cas de non-respect de ce délai, le cas échéant prorogé, ou de toutes autres obligations réglementaires liées au bénéfice de cette avance.
 
 Pour être recevable, la demande doit être accompagnée des pièces figurant à l'annexe 1 du présent RGA.
 
