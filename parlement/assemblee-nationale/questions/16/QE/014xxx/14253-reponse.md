@@ -1,0 +1,9 @@
+# Réponse à la question n° 14253
+
+- Question : [14253](14253.md) — Question n° 14253 — Devoir de mémoire envers Agnès Lassalle
+
+## Réponse
+
+*JO du 2024-04-23, page 3250*
+
+Le meurtre de Madame Lassalle et l'attentat d'Arras ont profondément affecté la communauté éducative qui, face à ces événements, a montré d'exceptionnelles capacités de résilience et de cohésion. L'engagement en faveur de l'éducation et les valeurs essentielles que Madame Lassalle a transmises doivent constituer un exemple pour l'ensemble de ses collègues. Pour prévenir de tels drames, le ministère de l'éducation nationale et de la jeunesse met en œuvre des politiques très fermes visant à renforcer la sécurité de tous les personnels ainsi que des élèves. Les violences et incivilités au travail figurent parmi les multiples facteurs susceptibles de porter atteinte à la santé et au travail des personnels de l'éducation nationale. Ces phénomènes doivent donc être évités, combattus et condamnés à chaque niveau de l'institution scolaire. Un plan ministériel sur la sécurité des enceintes scolaires a été présenté aux recteurs, préfets et procureurs généraux le 4 avril 2024, avec plusieurs mesures supplémentaires pour assurer la protection des élèves, des personnels mais aussi des actions de sécurisation du bâti scolaire. Un travail au niveau local sera engagé par l'ensemble des services de l'Etat, avec l'appui des collectivités territoriales, pour engager ces travaux concernant 350 établissements prioritaires. En outre, le ministère souligne la nécessité de soutenir les professeurs dans l'exercice de leur mission, de rappeler leur investissement quotidien ainsi que de toujours rendre hommage à tous ceux qui ont donné leur vie pour leur mission. Ainsi, le Premier ministre a présidé, le 11 octobre dernier, la Journée nationale d'hommage aux victimes de terrorisme à Arras, ville où le professeur M. Dominique Bernard a été assassiné le 13 octobre 2023.
