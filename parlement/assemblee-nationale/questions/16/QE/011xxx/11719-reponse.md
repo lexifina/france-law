@@ -1,0 +1,9 @@
+# Réponse à la question n° 11719
+
+- Question : [11719](11719.md) — Question n° 11719 — Accompagnement des collectivités pour le zéro phytosanitaire dans les cimetières
+
+## Réponse
+
+*JO du 2024-04-23, page 3203*
+
+L'arrêté du 15 janvier 2021 a étendu notamment aux cimetières et columbariums l'interdiction de l'utilisation de produits phytopharmaceutiques, à compter du 1er juillet 2022. Cette interdiction a été prise en application de la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte et vise à une meilleure préservation du cadre de vie, en répondant également à des exigences fixées au niveau communautaire, en particulier par le règlement (CE) n° 1107/2009 du Parlement européen et du Conseil du 21 octobre 2009. Afin d'accompagner au mieux les territoires dans la réalisation de leurs projets, le soutien de l'État à l'investissement local a été maintenu en 2023 et sera reconduit en 2024 à des niveaux historiquement élevés. Cet appui peut prendre la forme de subventions d'investissement, telles que la dotation d'équipement des territoires ruraux (DETR) ou la dotation de soutien à l'investissement local (DSIL). L'institution d'espaces d'échanges entre collectivités sur les bonnes pratiques et les choix les plus appropriés pour la gestion des espaces verts des cimetières s'inscrit dans le cadre d'initiatives portées par les acteurs locaux sur l'ensemble du territoire. A titre d'exemple, l'agence régionale pour la biodiversité et l'environnement en Provence-Alpes-Côte-d'Azur a mené un webinaire interrégional en 2020 concernant le "zéro phyto" dans les cimetières et les terrains de sport. De même, les services déconcentrés de l'Etat (préfectures, agences régionales de santé) ont initié ou soutenu des webinaires sur le sujet dans le cadre des plans régionaux santé environnement prévus par l'article L.1311-7 du code de la santé publique.
