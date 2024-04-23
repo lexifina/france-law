@@ -1,0 +1,9 @@
+# Réponse à la question n° 14489
+
+- Question : [14489](14489.md) — Question n° 14489 — Modifications de la législation funéraire
+
+## Réponse
+
+*JO du 2024-04-23, page 3239*
+
+L'article L. 2223-15 du code général des collectivités territoriales prévoit un délai de deux ans pour procéder au renouvellement des concessions temporaires, délai prévu dès l'entrée en vigueur de l'ordonnance royale relative aux cimetières du 6 décembre 1843. Ce délai n'a pas été modifié par la loi n° 2022-217 du 21 février 2022. En revanche, cette loi a pris acte de l'obligation imposée par la jurisprudence du Conseil d'Etat, dans son arrêt du 11 mars 2020, "Commune d'Epinal"(n° 436693), d'informer"par tout moyen utile les titulaires d'une concession ou leurs ayants-droits de l'extinction de la concession et de leur droit à en demander le renouvellement", obligation qui permet de garantir la sécurité juridique de la gestion des concessions. Il revient à la commune de déterminer les moyens appropriés permettant de satisfaire à cette obligation "utile"d'information, qui ne peut toutefois se borner à un affichage au cimetière des concessions échues. A l'expiration du délai de deux ans suivant l'échéance de la concession, celle-ci fait retour à la commune (Conseil d'État, 20 janvier 1988, « Mme Chemin-Leblond c/ Ville de Paris », n° 68454). Il lui appartient alors de déterminer, en l'absence de reprise effective de la concession, si des ayants droit peuvent la renouveler au-delà de ce délai. En effet, après échéance de la concession et expiration du délai supplémentaire de deux ans laissé aux ayants droit pour la renouveler, le maire n'est pas tenu d'accepter la demande de renouvellement. La loi"3DS" a par ailleurs abaissé à un an le délai entre les deux procès-verbaux établis dans le cadre d'une procédure de reprise pour abandon de concession, contre trois ans dans l'état du droit antérieur, afin de simplifier la mise en oeuvre de cette procédure par les communes.
