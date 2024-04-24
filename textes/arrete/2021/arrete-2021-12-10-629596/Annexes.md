@@ -750,7 +750,7 @@ FR000000000000034
 
 |
 
-Arcelormittal France - Site de Montataire
+Arcelormittal France-Site de Montataire
 
 |
 
@@ -766,19 +766,19 @@ Arcelormittal France
 
 |
 
-35348
+36416
 
 |
 
-35348
+36416
 
 |
 
-35348
+36416
 
 |
 
-178027
+181231
 
 |
 
@@ -946,19 +946,19 @@ VSPU Villers-Saint-Paul
 
 |
 
-2565
+3038
 
 |
 
-2565
+3038
 
 |
 
-2565
+3038
 
 |
 
-12115
+13534
 
 |
 
@@ -1270,19 +1270,19 @@ Mousline S.A.S.
 
 |
 
-13898
+13746
 
 |
 
-13898
+13746
 
 |
 
-13898
+13746
 
 |
 
-69490
+69034
 
 |
 
@@ -1734,23 +1734,23 @@ AQUILA HYGIENE SAS
 
 |
 
-14587
+6278
 
 |
 
-14587
+85
 
 |
 
-14587
+85
 
 |
 
-14587
+85
 
 |
 
-72935
+21120
 
 |
 
@@ -2878,7 +2878,7 @@ ESSITY OPERATIONS LE THEIL
 
 |
 
-ESSITY OPERATIONS LE THEIL
+ESSITY PLD FRANCE
 
 |
 
@@ -2910,11 +2910,11 @@ FR000000000000132
 
 |
 
-SEMEMRET
+ENERGIE VERTE DE CAEN LA MER
 
 |
 
-SEMMERET
+ENERGIE VERTE DE CAEN LA MER
 
 |
 
@@ -4002,23 +4002,19 @@ SOCIETE LAITIERE DE RETIERS
 
 |
 
-25244
+24835 |
+
+23605
 
 |
 
-25244
+23605 |
+
+23605
 
 |
 
-25244
-
-|
-
-25244
-
-|
-
-126220
+120894
 
 |
 
@@ -4398,23 +4394,23 @@ Aubert et Duval
 
 |
 
-27879
-
-|
-
 21285
 
 |
 
-21285
+28862
 
 |
 
-21285
+19169
 
 |
 
-119643
+19169
+
+|
+
+116394
 
 |
 
@@ -5590,19 +5586,19 @@ TotalEnergies Raffinage France
 
 |
 
-1102109
+687044
 
 |
 
-1102109
+687044
 
 |
 
-1102109
+687044
 
 |
 
-5087842
+3842647
 
 |
 
@@ -5734,19 +5730,19 @@ Esso Raffinage SAS
 
 |
 
-1148413
+1150342
 
 |
 
-1148413
+1150342
 
 |
 
-1148413
+1150342
 
 |
 
-5742065
+5747852
 
 |
 
@@ -6022,21 +6018,19 @@ RENAULT CLEON
 
 |
 
-3051
+-
 
 |
 
-3051
+-
 
 |
 
-3051
+-
 
 |
 
-15255
-
-|
+6102 |
 
 FR000000000000275
 
@@ -6058,21 +6052,19 @@ EUROAPI FRANCE
 
 |
 
-11367
+10522
 
 |
 
-11367
+10522
 
 |
 
-11367
+10522
 
 |
 
-57851
-
-|
+55316 |
 
 FR000000000000277
 
@@ -6418,19 +6410,17 @@ DA ALIZAY
 
 |
 
-15478
+0
 
 |
 
-15478
+0
 
 |
 
-15478
+0 |
 
-|
-
-78648
+32214
 
 |
 
@@ -6582,11 +6572,11 @@ FR000000000000294
 
 |
 
-Borealis Chimie Usine de Granq-Quevilly Unité d'ammoniac
+LAT NITROGEN Grand-Quevilly ammoniac
 
 |
 
-Borealis Chimie Usine de Grand Quevilly
+LAT NITROGEN FRANCE
 
 |
 
@@ -6850,19 +6840,17 @@ Verescence SAS
 
 |
 
-42034
+50914
 
 |
 
-42034
+51970 |
+
+51970
 
 |
 
-42034
-
-|
-
-216684
+245436
 
 |
 
@@ -6886,19 +6874,17 @@ FICOBEL
 
 |
 
-41618
+34900
 
 |
 
-40491
+33955 |
+
+33010
 
 |
 
-39363
-
-|
-
-209666
+190059
 
 |
 
@@ -8506,19 +8492,19 @@ ARKEMA France
 
 |
 
-32004
+30440
 
 |
 
-32004
+30440
 
 |
 
-32004
+30440
 
 |
 
-162887
+158195
 
 |
 
@@ -10614,11 +10600,11 @@ FR000000000000475
 
 |
 
-AHLSTROM STENAY
+STENPA
 
 |
 
-AHLSTROM STENAY
+STENPA
 
 |
 
@@ -10814,15 +10800,15 @@ INEOS AUTOMOTIVE SAS
 
 |
 
-1643
+1891
 
 |
 
-1597
+1838
 
 |
 
-8443
+8932
 
 |
 
@@ -11378,27 +11364,25 @@ Viskase
 
 |
 
-2036
+1714
 
 |
 
-2036
+1714
 
 |
 
-2036
+1714 |
+
+2080
 
 |
 
-2036
+2080
 
 |
 
-2036
-
-|
-
-10180
+9302
 
 |
 
@@ -11514,11 +11498,11 @@ FR000000000000517
 
 |
 
-AGC INTERPANE GLASS France SAS
+AGC Glass Seingbouse
 
 |
 
-AGC INTERPANE GLASS France SAS
+AGC Glass Seingbouse
 
 |
 
@@ -12206,27 +12190,27 @@ SECANIM CENTRE
 
 |
 
-12604
+12322
 
 |
 
-12280
+10597
 
 |
 
-11956
+10597
 
 |
 
-11632
+10597
 
 |
 
-11309
+10597
 
 |
 
-59781
+54710
 
 |
 
@@ -12862,19 +12846,19 @@ PIGEON CHAUX SA
 
 |
 
-37188
+29864
 
 |
 
-37188
+29864
 
 |
 
-37188
+29864
 
 |
 
-183954
+161982
 
 |
 
@@ -14250,11 +14234,11 @@ FR000000000000648
 
 |
 
-tuilerie MONIER MARSEILLE
+BMI Production France-Usine de Marseille
 
 |
 
-MONIER
+BMI Production France
 
 |
 
@@ -14770,19 +14754,19 @@ SILEC CABLE
 
 |
 
-2098
+-
 
 |
 
-2098
+-
 
 |
 
-2098
+-
 
 |
 
-10490
+4196
 
 |
 
@@ -16134,23 +16118,23 @@ Société des Pétroles Shell
 
 |
 
-581
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
 
 |
 
 581
-
-|
-
-581
-
-|
-
-581
-
-|
-
-2905
 
 |
 
@@ -16354,19 +16338,19 @@ AULNAY ENERGIE SERVICES
 
 |
 
-1000
+-
 
 |
 
-1000
+-
 
 |
 
-1000
+-
 
 |
 
-5000
+2000
 
 |
 
@@ -16426,21 +16410,19 @@ Idex Energies
 
 |
 
-3503
+2912
 
 |
 
-3408
+2833
 
 |
 
-3313
+2754
 
 |
 
-17515
-
-|
+15790 |
 
 FR000000000000753
 
@@ -16954,7 +16936,7 @@ Sanofi chimie Vitry
 
 |
 
-SANOFI CHIMIE
+SANOFI WINTHROP INDUSTRIE
 
 |
 
@@ -17786,27 +17768,27 @@ DOW France SAS Lauterbourg
 
 |
 
-10238
+10252
 
 |
 
-10238
+10537
 
 |
 
-10238
+10379
 
 |
 
-10238
+10379
 
 |
 
-10238
+10379
 
 |
 
-51190
+51926
 
 |
 
@@ -17974,21 +17956,19 @@ COLORS & EFFECTS FRANCE
 
 |
 
-3300
+3426
 
 |
 
-3300
+3426
 
 |
 
-3300
+3426
 
 |
 
-16098
-
-|
+16476 |
 
 FR000000000000825
 
@@ -18038,29 +18018,27 @@ ARLANXEO Emulsion Rubber SAS France
 
 |
 
-16518
+24887
 
 |
 
-20744
+30943
 
 |
 
-20197
+30519
 
 |
 
-19650
+30519
 
 |
 
-19103
+30519
 
 |
 
-96212
-
-|
+147387 |
 
 FR000000000000827
 
@@ -18318,11 +18296,9 @@ FR000000000000836
 
 |
 
-ESSITY OPERATIONS France - site de Kunheim
+ESSITY OPERATIONS France-site de Kunheim |
 
-|
-
-ESSITY OPERATIONS France
+ESSITY OPERATIONS Le Theil
 
 |
 
@@ -18514,19 +18490,19 @@ BLUE PAPER S.A.S
 
 |
 
-73650
+87703
 
 |
 
-73650
+87703
 
 |
 
-73650
+87703
 
 |
 
-368250
+410409
 
 |
 
@@ -20094,23 +20070,21 @@ ASCOMETAL
 
 |
 
-6841
+6916 |
+
+5391
 
 |
 
-6841
+5391
 
 |
 
-6841
+5391
 
 |
 
-6841
-
-|
-
-40277
+36002
 
 |
 
@@ -20386,19 +20360,19 @@ NYRSTAR France
 
 |
 
-49887
+40003
 
 |
 
-49887
+41210
 
 |
 
-49887
+41210
 
 |
 
-249435
+222197
 
 |
 
@@ -20674,21 +20648,17 @@ Arcelormittal France
 
 |
 
-48386
+54378
 
 |
 
-48386
+54378 |
+
+54378
 
 |
 
-48386
-
-|
-
-241930
-
-|
+259906 |
 
 FR000000000000956
 
@@ -20710,19 +20680,19 @@ Arcelormittal France
 
 |
 
-9331873
+9378333
 
 |
 
-9331873
+9378333
 
 |
 
-9331873
+9378333
 
 |
 
-46707197
+46846577
 
 |
 
@@ -21034,19 +21004,19 @@ Jean Marie PAULTES
 
 |
 
-13992
+14548
 
 |
 
-13992
+14548
 
 |
 
-13992
+14548
 
 |
 
-69323
+70991
 
 |
 
@@ -21646,19 +21616,19 @@ LEROUX
 
 |
 
-1313
+-
 
 |
 
-1313
+-
 
 |
 
-1313
+-
 
 |
 
-6361
+2422
 
 |
 
@@ -22502,27 +22472,27 @@ DALKIA
 
 |
 
-1479
+1589
 
 |
 
-1703
+1549
 
 |
 
-1659
+1919
 
 |
 
-1614
+1867
 
 |
 
-1569
+1815
 
 |
 
-8024
+8739
 
 |
 
@@ -23518,19 +23488,19 @@ SWISS KRONO SAS
 
 |
 
-58303
+51790
 
 |
 
-56724
+50387
 
 |
 
-55144
+48984
 
 |
 
-308066
+289056
 
 |
 
@@ -23626,19 +23596,19 @@ SAFRAN LANDING SYSTEMS
 
 |
 
-2363
+2770
 
 |
 
-2363
+2770
 
 |
 
-2363
+2770
 
 |
 
-13119
+14340
 
 |
 
@@ -24202,19 +24172,19 @@ WEYLCHEM LAMOTTE SAS
 
 |
 
-110036
+96203
 
 |
 
-110036
+99933
 
 |
 
-110036
+99933
 
 |
 
-591564
+557525
 
 |
 
@@ -24654,11 +24624,11 @@ FR000000000001147
 
 |
 
-SAIPOL - Eatblissement de LE MERIOT
+SAIPOL LE MERIOT
 
 |
 
-DELAMEA OLIVIER
+SAIPOL
 
 |
 
@@ -24670,19 +24640,19 @@ DELAMEA OLIVIER
 
 |
 
-22261
+22447
 
 |
 
-22261
+22447
 
 |
 
-22261
+22447
 
 |
 
-111187
+111745
 
 |
 
@@ -25746,23 +25716,23 @@ Constellium Issoire
 
 |
 
-29400
+29481
 
 |
 
-29400
+36760
 
 |
 
-29400
+36760
 
 |
 
-29400
+36760
 
 |
 
-149705
+171866
 
 |
 
@@ -25850,27 +25820,27 @@ ADISSEO - Plateforme chimique de Roussillon
 
 |
 
-48149
+54257
 
 |
 
-48149
+43516
 
 |
 
-48149
+36980
 
 |
 
-48149
+36980
 
 |
 
-48149
+36980
 
 |
 
-240745
+208713
 
 |
 
@@ -25926,23 +25896,23 @@ SOCIETE FROMAGERE DE CHARCHIGNE
 
 |
 
-1564
+1233
 
 |
 
-1564
+1233
 
 |
 
-1564
+1233
 
 |
 
-1564
+1233
 
 |
 
-7820
+6496
 
 |
 
@@ -26286,23 +26256,23 @@ SOCIETE FROMAGERE DE STE CECILE
 
 |
 
-1097
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
 
 |
 
 1097
-
-|
-
-1097
-
-|
-
-1097
-
-|
-
-5485
 
 |
 
@@ -26434,19 +26404,19 @@ SOCIETE LNUF BAYEUX
 
 |
 
-1064
+-
 
 |
 
-1064
+-
 
 |
 
-1064
+-
 
 |
 
-5320
+2128
 
 |
 
@@ -26526,11 +26496,11 @@ FR000000000204205
 
 |
 
-Borealis Chimie Usine de Granq-Quevilly Unité d'acide nitrique 7
+LAT NITROGEN Grand-Quevilly acide nitrique 7
 
 |
 
-Borealis Chimie Usine de Grand Quevilly
+LAT NITROGEN FRANCE
 
 |
 
@@ -26562,11 +26532,11 @@ FR000000000204209
 
 |
 
-Borealis Chimie Usine de Granq-Quevilly Unité d'acide nitrique 8
+LAT NITROGEN Grand-Quevilly acide nitrique 8
 
 |
 
-Borealis Chimie Usine de Grand Quevilly
+LAT NITROGEN FRANCE
 
 |
 
@@ -26602,7 +26572,7 @@ Atelier acide nitrique Grandpuits
 
 |
 
-Borealis Chimie SAS
+LAT NITROGEN FRANCE
 
 |
 
@@ -26638,7 +26608,7 @@ Atelier ammoniac Grandpuits
 
 |
 
-Borealis Chimie SAS
+LAT NITROGEN FRANCE
 
 |
 
@@ -27694,19 +27664,19 @@ Novoceram SAS
 
 |
 
-13140
+13015
 
 |
 
-13140
+13015
 
 |
 
-13140
+13015
 
 |
 
-65700
+65325
 
 |
 
@@ -27770,15 +27740,15 @@ BOLAIDOR (SOCIETE LAITIERE DU BOCAGE ORNAIS)
 
 |
 
-16372
+17003
 
 |
 
-16372
+17003
 
 |
 
-81860
+83122
 
 |
 
@@ -29062,9 +29032,7 @@ RAGT SEMENCES SAS
 
 |
 
-446
-
-|
+554 |
 
 446
 
@@ -29074,7 +29042,7 @@ RAGT SEMENCES SAS
 
 |
 
-2446
+2554
 
 |
 
@@ -30106,19 +30074,19 @@ NOVAPEX S.A.S. (SEQENS SPS)
 
 |
 
-102119
+103971
 
 |
 
-102119
+103971
 
 |
 
-102119
+103971
 
 |
 
-509010
+514566
 
 |
 
@@ -30250,21 +30218,19 @@ VALLOUREC TUBES FRANCE - Tuberie d'Aulnoye
 
 |
 
-11593
+9722
 
 |
 
-11593
+9722
 
 |
 
-11593
+9722
 
 |
 
-57965
-
-|
+52352 |
 
 FR000000000205960
 
@@ -30934,19 +30900,19 @@ TOTALENERGIES PETROCHEMICALS France
 
 |
 
-4362
+4899
 
 |
 
-4362
+4899
 
 |
 
-4362
+4899
 
 |
 
-21810
+23421
 
 |
 
@@ -31038,23 +31004,23 @@ SANOFI PASTEUR SA
 
 |
 
-1986
+1679
 
 |
 
-1986
+-
 
 |
 
-1986
+-
 
 |
 
-1986
+-
 
 |
 
-9623
+3358
 
 |
 
@@ -31178,27 +31144,27 @@ MALTEUROP
 
 |
 
-8552
+9668
 
 |
 
-8332
+7698
 
 |
 
-8112
+-
 
 |
 
-7893
+-
 
 |
 
-7673
+-
 
 |
 
-40562
+17366
 
 |
 
@@ -31358,27 +31324,27 @@ Borealis PEC-Rhin SAS
 
 |
 
-404361
+402831
 
 |
 
-404361
+403507
 
 |
 
-404361
+401011
 
 |
 
-404361
+401011
 
 |
 
-404361
+401011
 
 |
 
-2021805
+2009371
 
 |
 
@@ -32014,19 +31980,19 @@ OXYANE
 
 |
 
-243
+-
 
 |
 
-243
+-
 
 |
 
-243
+-
 
 |
 
-1215
+486
 
 |
 
@@ -32050,19 +32016,19 @@ OXYANE
 
 |
 
-314
+-
 
 |
 
-314
+-
 
 |
 
-314
+-
 
 |
 
-1570
+628
 
 |
 
@@ -32086,19 +32052,19 @@ OXYANE
 
 |
 
-213
+-
 
 |
 
-213
+-
 
 |
 
-213
+-
 
 |
 
-1168
+529
 
 |
 
@@ -33590,27 +33556,27 @@ NOUVELLE CEREC
 
 |
 
-897
+85
 
 |
 
-897
+85
 
 |
 
-897
+-
 
 |
 
-897
+-
 
 |
 
-897
+-
 
 |
 
-4485
+170
 
 |
 
@@ -33670,19 +33636,19 @@ MANUFACTORY EVER GRES SAS - MEG
 
 |
 
-15312
+19497
 
 |
 
-15312
+19497
 
 |
 
-15312
+19497
 
 |
 
-72222
+84777
 
 |
 
@@ -33806,11 +33772,11 @@ ENGIE Energie Services COFELY
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
@@ -36398,27 +36364,27 @@ COOPERATIVE AGRICOLE DE CEREALES
 
 |
 
-/
+142
 
 |
 
-/
+142
 
 |
 
-/
+142
 
 |
 
-/
+142
 
 |
 
-/
+142
 
 |
 
-/
+710
 
 |
 
@@ -38054,27 +38020,27 @@ RUEIL-ENERGIE
 
 |
 
-/
+0
 
 |
 
-/
+163
 
 |
 
-/
+0
 
 |
 
-/
+0
 
 |
 
-/
+0
 
 |
 
-/
+163
 
 |
 
@@ -38446,7 +38412,7 @@ ACC Douvrin
 
 |
 
-Automotive Cells Compagny SE
+Automotive Cells Compagny FACTORIES EUROPE SA
 
 |
 
@@ -38474,7 +38440,7 @@ Automotive Cells Compagny SE
 
 |
 
-FR-new-003013890
+FR000000000220624
 
 |
 
@@ -38618,7 +38584,7 @@ CLOUDHQ FRANCE
 
 |
 
-FR-new-100000296
+FR000000000220060
 
 |
 
@@ -38626,7 +38592,7 @@ DIGITAL LES ULIS
 
 |
 
-INTERXION FRANCE
+DIGITAL LES ULIS
 
 |
 
@@ -38690,6 +38656,132 @@ SUEZ RV France
 
 |
 
+FR000000000220541 |
+
+Centrale d'enrobage mobile ERMONT TSX28-2-1006 |
+
+TRABET |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-000014959 |
+
+SAINT-FONS POWER PLANT |
+
+SAINT-FONS POWER PLANT |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100000497 |
+
+EQUINIX HYPERSCALE 2 (PA 12) |
+
+EQUINIX HYPERSCALE 2 (PA 12) |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100002939 |
+
+Unité SMR |
+
+AIR LIQUIDE HYDROGENE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-007002805 |
+
+Novawatt Haubourdin |
+
+NOVAWATT |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100000507 |
+
+LCP FR DC1 |
+
+LCP FR DC1 |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-006505859 |
+
+ETEX BUILDING MERIEL |
+
+ETEX BUILDING MERIEL |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 ANNEXE 2
 
 Liste des installations d'incinération de déchets municipaux dont la puissance calorifique totale de combustion est supérieure à 20 MW, soumises au système d'échange de quotas d'émission de gaz à effet de serre à compter du 1er janvier 2024 seulement en ce qui concerne les obligations de déclaration des émissions et de vérification de l'article R. 229-20 du code de l'environnement.
@@ -38710,7 +38802,7 @@ Commune sur laquelle se situe l'installation
 
 |
 
-FR-new-0007203654
+FR-new-007203654
 
 |
 
@@ -38726,7 +38818,7 @@ LA ROCHELLE
 
 |
 
-FR-new-0006000427
+FR-new-006000427
 
 |
 
@@ -38738,11 +38830,11 @@ SYTTOM 19
 
 |
 
-SAINT PANTALEON DE L'ARCHE
+SAINT PANTALÉON DE LARCHE
 
 |
 
-FR-new-0005200378
+FR-new-005200378
 
 |
 
@@ -38758,7 +38850,7 @@ BEGLES
 
 |
 
-FR-new-0005200678
+FR-new-005200678
 
 |
 
@@ -38774,7 +38866,7 @@ CENON
 
 |
 
-FR-new-0005201464
+FR-new-005201464
 
 |
 
@@ -38790,7 +38882,7 @@ BENESSE MAREMNE
 
 |
 
-FR-new-0005202639
+FR-new-005202639
 
 |
 
@@ -38806,7 +38898,7 @@ LESCAR
 
 |
 
-FR-new-0006000275
+FR-new-006000275
 
 |
 
@@ -38822,7 +38914,7 @@ LIMOGES
 
 |
 
-FR-new-0007205801
+FR-new-007205801
 
 |
 
@@ -38835,22 +38927,6 @@ SETRAD ONYX
 |
 
 ECHILLAIS
-
-|
-
-FR-new-0007201205
-
-|
-
-UIOM/UVE de Poitiers
-
-|
-
-IDEX
-
-|
-
-POITIERS
 
 |
 
