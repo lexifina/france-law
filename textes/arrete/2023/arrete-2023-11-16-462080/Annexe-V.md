@@ -4,7 +4,7 @@ ANNEXE V
 
 FORMATION DE SPÉCIALISTE : LA FORMATION D'ADAPTATION À LA SPÉCIALITÉ
 
-1. Spécialité « appui opérationnel transverse » :
+1. Spécialité " appui opérationnel transverse " :
 
 1.1. Le programme :
 
@@ -40,7 +40,7 @@ Les épreuves de la formation appui opérationnel transverse couvrent la totalit
 
 Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-2. Spécialité « auto-engins blindés » :
+2. Spécialité " auto-engins blindés " :
 
 2.1. Le programme :
 
@@ -50,11 +50,11 @@ Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
 2.2. Les épreuves :
 
-Les épreuves de la formation d'adaptation à la spécialité « auto-engins blindés » couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus (coefficient 90).
+Les épreuves de la formation d'adaptation à la spécialité " auto-engins blindés " couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus (coefficient 90).
 
 Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-3. Spécialité « affaires immobilières » :
+3. Spécialité " affaires immobilières " :
 
 3.1. Le programme :
 
@@ -74,45 +74,31 @@ Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
 3.2. Les épreuves :
 
-Les épreuves de la formation d'adaptation à la spécialité « affaires immobilières » couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus (coefficient 90).
+Les épreuves de la formation d'adaptation à la spécialité " affaires immobilières " couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus (coefficient 90).
 
 Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-4. Spécialité « restauration hôtellerie loisirs » :
+4. Spécialité " restauration hôtellerie loisirs " :
 
 4.1. Le programme :
 
-- achats-marchés ;
+-budget ;
 
-- comptabilité générale ;
+-réglementation restauration hôtellerie loisirs ;
 
-- direction et fonctionnement d'un cercle mixte ;
+-méthode HACCP ;
 
-- démarche HACCP ;
-
-- nutrition ;
-
-- ressources humaines ;
-
-- sécurité alimentaire ;
-
-- sécurité santé au travail dans un service hôtellerie-restauration-loisirs ;
-
-- achats ;
-
-- activités professionnelles bureautique et informatique ;
-
-- direction et fonctionnement d'un cercle mixte ;
-
-- management.
+-sécurité santé au travail.
 
 4.2. Les épreuves :
 
-Les épreuves de la formation d'adaptation à la spécialité « restauration hôtellerie loisirs » couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus (coefficient 90).
+Les épreuves de la formation d'adaptation à la spécialité “ restauration hôtellerie loisirs ” couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus (coefficient 90).
 
-L'obtention d'une note inférieure à 8 sur 20 est éliminatoire.
+L'obtention d'une note inférieure à 8 sur 20 aux épreuves de budget et de méthode HACCP est éliminatoire.
 
-5. Spécialité « armurerie pyrotechnie » :
+L'obtention d'une note moyenne inférieure à 8 sur 20 est éliminatoire.
+
+5. Spécialité " armurerie pyrotechnie " :
 
 5.1. Le programme :
 
@@ -128,8 +114,8 @@ L'obtention d'une note inférieure à 8 sur 20 est éliminatoire.
 
 5.2. Les épreuves :
 
-Les épreuves de la formation d'adaptation à la spécialité « armurerie pyrotechnie » couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus (coefficient 90).
+Les épreuves de la formation d'adaptation à la spécialité " armurerie pyrotechnie " couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus (coefficient 90).
 
-Une note inférieure à 8 sur 20 est éliminatoire.
+Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
 Les épreuves de la formation d'adaptation à la spécialité pour le domaine de la pyrotechnie comprennent des évaluations certificatives et des contrôles continus organisés par l'école de formation de la défense de Bourges.
