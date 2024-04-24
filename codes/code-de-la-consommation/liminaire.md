@@ -36,8 +36,6 @@ Pour l'application du présent code, on entend par :
 
 17° Moteur de recherche en ligne : un moteur de recherche en ligne au sens du j de l'article 3 du règlement (UE) 2022/2065 du Parlement européen et du Conseil du 19 octobre 2022 précité ;
 
-18° Comparateur en ligne : tout service de communication au public en ligne consistant en la fourniture d'informations permettant la comparaison des prix et des caractéristiques de biens et de services proposés par des professionnels.
+18° Comparateur en ligne : tout service de communication au public en ligne consistant en la fourniture d'informations permettant la comparaison des prix et des caractéristiques de biens et de services proposés par des professionnels ;
 
-NOTA :
-
-Conformément au V de l’article 64 de la loi n° 2024-449 du 21 mai 2024, ces dispositions entrent en vigueur le 17 février 2024.
+19° Prestataire de service : toute personne qui offre ou fournit un service.
