@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231209622
+
+- Question : [SEQ231209622](seq231209622.md) — application de la réglementation relative à l'assainissement non collectif
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2024-04-25, page 1834*
+
+Le contrôle des installations d'assainissement non collectif est une compétence relevant des communes ou de leurs groupements. Le service public d'assainissement non collectif (SPANC) a pour mission de s'assurer du bon fonctionnement et de l'entretien des installations ainsi que de vérifier la bonne exécution des travaux de réalisation et de réhabilitation. La conformité d'une installation d'assainissement non collectif (ANC) est établie par le SPANC, conformément aux modalités prévues par l'arrêté du 27 avril 2012. Les contrôles effectués par le SPANC sont une obligation faite aux communes par la loi (articles L.2224-8 du code général des collectivités territoriales et L.1331-1-1 du code de la santé publique). En application de cette législation et réglementation, un SPANC peut notamment déclarer une installation non-conforme si elle est à l'origine de nuisances environnementales ou sanitaires. Les notes et guides relatifs aux missions de contrôle des SPANC et portés à notre connaissance ne font pas mention de pratiques allant à l'encontre de ces textes. Dans le cadre du plan d'actions national sur l'assainissement non collectif (PANANC), plusieurs documents et guides d'accompagnement nationaux ont été rédigés par le « groupe de travail SPANC ». Ce groupe de travail a pour objectif d'accompagner les collectivités territoriales dans la mise en place des politiques en matière d'assainissement non collectif et favoriser l'harmonisation de leurs pratiques. Ces documents sont librement accessibles sur le portail interministériel de l'ANC.
