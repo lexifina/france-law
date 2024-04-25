@@ -1,0 +1,200 @@
+# Délibération n° 2024-035 du 25 avril 2024 portant avis sur un projet d'arrêté relatif à la création d’un traitement automatisé d’informations nominatives dénommé « Outil de Surveillance et de Contrôle Eau et Nature (OSCEAN) » et de sa version mobile SONGE (Solution pour un Outil Nomade de gestion de l’Eau)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2024-035
+- Date : 2024-04-25
+- Publication : 2024-06-29
+- NOR : CNIX2417228V
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000049825368
+
+N° de demande d’avis : 24005555
+
+|
+
+Thématiques : Office français de la biodiversité, procédures judiciaires et administratives
+
+|
+
+Organisme(s) à l’origine de la saisine : Ministère de la transition écologique et de la cohésion des territoires
+
+|
+
+Fondement de la saisine :
+
+Articles 31.I et 89.I
+
+de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés
+
+|
+
+L’essentiel :
+
+La CNIL rappelle que conformément au principe de minimisation, le responsable de traitement doit veiller à ce que seules les données nécessaires à la poursuite des finalités du traitement soient effectivement collectées et traitées.
+
+D’une manière générale, la CNIL invite le ministère à prévoir une conservation en archivage intermédiaire dès que les besoins opérationnels ne nécessitent plus un accès régulier et donc une conservation en base active. Elle rappelle également, compte tenu de la sensibilité des données traitées, que les mesures de sécurité techniques et organisationnelles doivent être adaptées pour se prémunir contre les atteintes à la confidentialité et à l’intégrité des données collectées. Elle invite par conséquent l’OFB à ajuster certaines durées de conservation.
+
+Par ailleurs, la CNIL rappelle que les restrictions apportées aux droits des personnes doivent constituer une mesure nécessaire et proportionnée. Il appartient dès lors à l’OFB de veiller, au cas par cas, à ce que les conditions d’application de ces restrictions soient satisfaites lors des exercices de droit des personnes.
+
+Enfin, elle rappelle qu’une information claire et appropriée devra être mise à disposition des personnes concernées.
+
+___________________
+
+La Commission nationale de l'informatique et des libertés,
+
+Vu la directive (UE) 2016/680 du Parlement européen et du Conseil du 27 avril 2016 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d’exécution de sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil (directive police justice ) ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés ( loi informatique et libertés ), notamment le I de son article 31 et son titre III ;
+
+Sur la proposition de M. Alain Dru, commissaire, et après avoir entendu les observations de M. Damien Milic, commissaire du Gouvernement,
+
+Adopte la délibération suivante :
+
+I. La saisine
+
+A. Le contexte
+
+L’Outil de Surveillance et de Contrôle Eau et Nature (OSCEAN) est une application métier ayant vocation à regrouper les informations issues des contrôles réalisés dans le domaine environnemental par les agents de l’Office français de la biodiversité (OFB) et des parcs nationaux (PNX).
+
+Cette application, alimentée par les agents de l’OFB et des PNX, a notamment pour objet de faciliter la gestion, le suivi et la coordination des contrôles réalisés par les services de ces deux organismes dans le cadre de leurs activités de police administrative et judiciaire relatives à l’eau (pollution de la ressource, atteinte aux zones humides ou littoral), aux espaces naturels, à la flore et la faune sauvage (lutte contre les trafics d’espèces), à la chasse (contre-braconnage, renforcement de la sécurité à la chasse) et à la pêche. Elle permet également, le cas échéant, d’assurer le suivi des procédures transmises aux autorités compétentes.
+
+B. L’objet de la saisine
+
+La CNIL a été saisie pour avis par le ministre de la transition écologique et de la cohésion des territoires d’un projet d’arrêté relatif à la création du traitement OSCEAN et à sa version mobile SONGE (Solution pour un Outil Nomade de Gestion de l’Eau).
+
+L’OFB est le responsable de ces traitements qui ont notamment pour finalités :
+
+la centralisation et l’homogénéisation de la rédaction des procédures judiciaires et administratives mises en œuvre par les fonctionnaires et agents chargés des contrôles ;
+
+le suivi des suites des procédures menées par les autorités administratives et judiciaires compétentes ;
+
+le pilotage et le suivi de l’activité de police de l’environnement des agents habilités ;
+
+l’exploitation des données collectées à des fins statistiques et de prévention ;
+
+la mise en relation avec le traitement dénommé LICORNE relatif aux contrôles effectués par les agents chargés de missions de police de l’eau et de la nature.
+
+Dans la mesure où les traitements sont mis en œuvre pour le compte de l’Etat et ont notamment pour objet la prévention, la recherche, la constatation ou la poursuite des infractions pénales ou l’exécution des condamnations pénales ou des mesures de sécurité, les traitements sont autorisés par un arrêté ministériel pris après avis publié de la CNIL sur le fondement des dispositions de l’article 89-I de la loi du 6 janvier 1978 modifiée qui renvoient à l’article 31-I.
+
+Au regard des risques pour les droits et libertés des personnes, une analyse d’impact sur la protection des données (AIPD) portant sur les traitements mis en œuvre a été transmise à la CNIL conformément aux dispositions de l’article 90 de la loi du 6 janvier 1978 modifiée.
+
+II. L’avis de la CNIL
+
+A. Sur le régime juridique applicable
+
+Pour qu’un traitement de données puisse entrer dans le champ d’application de la directive Police-Justice , il doit d’une part poursuivre l’une des finalités mentionnées à son article 1er relatives à la prévention et la détection des infractions pénales, ainsi que les enquêtes et les poursuites en la matière, et d’autre part, être mis en œuvre par une autorité compétente au sens de cette directive.
+
+Le critère de finalité poursuivie apparait satisfait dans la mesure où le traitement a pour objet principal la centralisation et l’homogénéisation des procédures judiciaires et administratives ainsi que le suivi des suites des procédures menées par les autorités administratives et judiciaires.
+
+Le critère d’autorité compétente s’applique à une autorité à laquelle ont été dévolus des pouvoirs pour la prévention et la détection des infractions pénales, ainsi que les enquêtes et les poursuites en la matière, selon l’article 3.7 de cette directive.
+
+A cet égard, les dispositions de l’article L. 131-9 du code de l’environnement reconnaissant aux agents de l’OFB tant des pouvoirs de police administrative que des pouvoirs de police judiciaire, ce critère apparaît rempli.
+
+Aussi, la CNIL considère que les traitements susvisés relèvent bien du champ d’application des dispositions du titre III de la loi du 6 janvier 1978 modifiée transposant la directive Police-Justice .
+
+B. Sur les données collectées
+
+L’article 2-I du projet d’arrêté prévoit que, dans le cadre des procédures judiciaires, de nombreuses données sont collectées telles que des informations relatives au nombre de mineurs (avec âge) et majeurs à charge et lien de parenté , aux études effectuées ou niveau d’études atteint ; au diplôme obtenu ; à la situation financière (ressources, charges, patrimoine) ou encore aux décorations et distinctions honorifiques .
+
+La CNIL relève que ces données sont nécessaires à la conduite des investigations en matière pénale et à l’individualisation des peines. Elle rappelle cependant que le besoin de collecter certaines informations devrait être apprécié au cas par cas et en fonction de la gravité des infractions constatées. A cet égard, la collecte de l’ensemble de ces informations n’apparait pas nécessaire dans le cadre d’une contravention.
+
+Par conséquent, elle rappelle que conformément au principe de minimisation, le responsable de traitement devra veiller à ce que seules les données nécessaires à la poursuite des finalités du traitement soient effectivement collectées et traitées.
+
+La CNIL constate par ailleurs que des informations relatives au comportement de la personne sont collectées. A cet égard, l’analyse d’impact relative à la protection des données fournie par le ministère, souligne qu’il existe en effet quelques champs de texte libre dans l
+
+’
+
+application mais qu’une charte d
+
+’
+
+utilisation des donn
+
+é
+
+es personnelles, lue par chaque utilisateur
+
+à
+
+la premi
+
+è
+
+re connexion et accessible
+
+à
+
+tout moment dans l'application, rappelle qu
+
+’
+
+il est interdit d
+
+’
+
+ins
+
+é
+
+rer des donn
+
+é
+
+es personnelles dans ces champs.
+
+La CNIL prend acte de la mise en place de cette garantie mais invite le ministère à une vigilance renforcée quant au contenu de ce champ libre spécifique, susceptible par nature dès lors qu’elle porte sur le comportement d’un individu, de contenir des données à caractère personnel.
+
+Il convient tout particulièrement de veiller à ce que n’y figurent que des éléments objectifs, pertinents et non-excessifs sur les personnes physiques mises en cause. Aussi, la CNIL recommande au ministère de mettre en œuvre des actions de sensibilisation régulières à destination des agents sur ce point.
+
+A cet égard, le ministère a précisé que (…) le comportement de la personne mise en cause n’a pas vocation à être décrit dans les champs libres spécifiques de l’application OSCEAN. Des informations relatives au comportement de la personne mise en cause sont traitées lorsqu’elles ont été mentionnées sur les procès-verbaux d’interpellation et, si cela est pertinent, de constatation ou d’investigation de la procédure menée par l’inspecteur de l’environnement. Ainsi, lorsque des données sur le comportement sont mentionnées, c’est uniquement lorsque le rédacteur les introduit dans la description du constat (en particulier dans les PV d’interpellation) parce qu’il juge nécessaire d’informer le parquet de ce comportement. .
+
+La CNIL prend acte des engagements du ministère sur ce point.
+
+C. Sur les durées de conservation
+
+L’article 3 du projet d’arrêté prévoit que les informations sont conservées :
+
+trois ans à compter de la date du contrôle, en cas de contrôle administratif ne faisant l’objet d’aucune procédure administrative ou judiciaire ;
+
+dix ans à compter de la date de la transmission de l’ensemble de la procédure administrative à l’autorité administrative compétente ;
+
+six ans à compter de la date de la transmission de l’ensemble de la procédure judiciaire portant sur des délits ;
+
+trois ans à compter de la date de la contravention ayant fait l’objet d’une procédure d’amende forfaitaire ou d’une procédure judiciaire.
+
+S’agissant des durées de conservation de dix et six ans envisagées dans le cadre de la transmission des procédures aux autorités compétentes, la CNIL s’interroge sur la pertinence de retenir les délais de prescriptions administrative et judiciaire alors que cette transmission a précisément pour effet de suivre une action en justice effective. Aussi, la CNIL estime que les informations devraient être conservées pendant la durée nécessaire à la procédure et jusqu’à extinction des voies de recours.
+
+Par ailleurs, concernant les données conservées trois ans à compter de la date de la contravention ayant fait l’objet d’une procédure d’amende forfaitaire ou d’une procédure judiciaire , la CNIL estime que celles-ci devraient être conservées pendant une durée nécessaire à l’extinction des voies de recours devant les tribunaux administratifs et/ou judiciaires.
+
+Enfin d’une manière générale, la CNIL invite le ministère à prévoir une conservation en archivage intermédiaire dès que les besoins opérationnels ne nécessitent plus un accès régulier et donc une conservation en base active. Elle rappelle également, compte tenu de la sensibilité des données traitées, que les mesures de sécurité techniques et organisationnelles doivent être adaptées pour se prémunir contre les atteintes à la confidentialité et à l’intégrité des données collectées.
+
+D. Sur l’information et les droits des personnes concernées
+
+L’article 6 du projet d’arrêté prévoit que les droits d’information, d’accès, de rectification, d’effacement et de limitation des données s’exercent auprès de l’OFB. Le droit d’opposition est pour sa part écarté sur le fondement de l’article 110 de la loi du 6 janvier 1978 modifiée.
+
+Le projet d’arrêté prévoit également que pour (…)
+
+éviter de gêner des enquêtes, des recherches ou des procédures judiciaires ou d’éviter de nuire à la prévention ou à la détection d’infractions pénales, aux enquêtes ou aux poursuites en la matière, les droits d’accès, de rectification, d’effacement et à la limitation peuvent faire l’objet de restrictions en application des 2° et 3° du II et du III de l’article 107 de la même loi. . Conformément à l’article 108 de la loi du 6 janvier 1978 modifiée, les personnes concernées par ces restrictions peuvent saisir la CNIL pour exercer leurs droits.
+
+Au regard des objectifs poursuivis par les traitements de centralisation et de suivi des suites de procédures menées par les autorités administratives et judiciaires compétentes, la CNIL rappelle que les restrictions apportées aux droits des personnes doivent constituer une mesure nécessaire et proportionnée. Il appartient dès lors à l’OFB de veiller, au cas par cas, à ce que les conditions d’application de ces restrictions soient satisfaites lors des exercices de droit des personnes.
+
+S’agissant de l’information des personnes, l’article 104 de la loi du 6 janvier 1978 modifiée impose à l’OFB de mettre à disposition des personnes certaines mentions d’information, de façon permanente et sans demande de leur part.
+
+A cet égard, la CNIL prend acte des engagements du ministère selon lesquels les personnes seront informées via des mentions d’informations disponibles sur :
+
+(…) les différents documents communiqués aux personnes mises en cause (courriers, rapports, procès-verbaux…) ;
+
+(…) le site internet de l’OFB, qui comportera en outre un lien vers l’arrêté de création du traitement.
+
+E. Sur les destinataires
+
+L’article 4 du projet d’arrêté liste les accédants ainsi que les destinataires des données enregistrées au sein du traitement.
+
+La CNIL rappelle que toute transmission de données à caractère personnel à un autre organisme doit respecter la confidentialité et l’intégrité des données transmises. Ainsi, dans le cas d’une transmission par voie électronique, les données qui transitent sur des réseaux ouverts au public doivent faire l’objet de mesures de chiffrement et d’authentification de l’émetteur du destinataire.
+
+Les autres dispositions du projet de l’arrêté n’appellent pas d’observations de la part de la CNIL.
+
+La présidente
+
+M.-L. Denis
