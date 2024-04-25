@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103911
+
+- Question : [SEQ221103911](seq221103911.md) — Commune rurale dans couronne urbaine
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2024-04-25, page 1768*
+
+Le Schéma de cohérence territoriale (SCoT) de l'arrondissement de Sarrebourg a été approuvé le 5 février 2020. Son document d'orientations et d'objectifs (DOO), document opposable aux documents d'urbanisme de rang inférieur comme les Plans locaux d'urbanisme (PLU) et cartes communales, fixe comme orientation de répartir la population nouvelle en fonction de l'armature urbaine, selon des critères d'emplois, de services et de population. Cette armature urbaine a été décidée par les élus du territoire et ne fait pas suite à des définitions de l'INSEE. Les communes de Réding et Buhl-Lorraine sont classées comme "communes en confortement de l'agglomération"(niveau 3 de l'armature urbaine, juste après les 2 polarités principales du territoire), la commune d'Imling n'est pas classée comme une polarité, elle est définie comme"autre commune". Cette armature urbaine est la base du projet de SCoT, les objectifs de production de logements et de consommation du foncier étant déclinés selon celle-ci. Le SCoT n'interdit pas à ces communes de disposer de terrains constructibles, mais priorise le développement des polarités, (17 communes sur les 102 communes du SCoT), dont Réding et Buhl-Lorraine, afin de conforter un réseau de solidarité et de proximité avec une répartition optimisée des fonctions sur le territoire. Par ailleurs, suite à la loi dite climat et résiliences du 21 août 2021, les enjeux de sobriété foncière se sont vus renforcés, orientant davantage la production de logements à l'intérieur de l'enveloppe urbaine avant de consommer des espaces naturels, agricoles ou forestiers.
