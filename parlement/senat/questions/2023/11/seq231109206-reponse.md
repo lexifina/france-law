@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231109206
+
+- Question : [SEQ231109206](seq231109206.md) — Nationalité des auteurs d'homicides pour l'année 2022
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2024-04-25, page 1861*
+
+Les données du service statistique ministériel de la sécurité intérieure (SSMSI), disponibles sur le site internet Interstats, font apparaître la part des étrangers dans les personnes mises en cause par les services de police et de gendarmerie pour plusieurs catégories d'infractions, sur le plan national. Ces informations figurent dans le bilan annuel de la délinquance produit par le SSMSI, par exemple dans le dernier disponible (Insécurité et délinquance en 2022 : bilan statistique). Toutefois, les données publiées portent sur les grandes aires géographiques d'origine des étrangers mis en cause, par sur leur nationalité. Par ailleurs, il est à ce jour impossible au SSMSI de savoir si les mis en cause sont binationaux. S'agissant des homicides, les données font apparaître que 1 358 personnes ont été mises en cause pour homicide par les services de police et de gendarmerie en 2022, dont 82 % de Français et 18 % d'étrangers. Les personnes étrangères sont donc plus nombreuses parmi les mis en cause (18 % de l'ensemble) que leur part dans l'ensemble de la population (8 %). Leur part est cependant moins importante concernant les homicides commis au sein de la famille (13 % cf. « Les homicides en France de 2016 à 2021 », Interstats Analyse n° 47). La répartition des étrangers mis en cause est comme suit : Union européenne : 2 % ; Europe hors UE : 2 % ; Afrique : 11 % ; Asie : 1 % ; Amérique, Océanie et indéterminé : 1 %. En 2023, 239 étrangers ont été mis en cause pour homicide, soit 17 % des mis en cause, sur un total de 1 400 personnes mises en cause par les services de police et les unités de gendarmerie. Le détail par nationalité n'est pas encore disponible.
