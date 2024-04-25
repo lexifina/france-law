@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230707898
+
+- Question : [SEQ230707898](seq230707898.md) — Projet de règlement européen sur les produits phytosanitaires et vignobles français
+
+## Réponse
+
+*Agriculture et souveraineté alimentaire, JO du 2024-04-25, page 1760*
+
+La proposition de règlement européen pour une utilisation durable des produits phytosanitaires (SUR) avait pour objectif de renforcer l'accompagnement des agriculteurs dans le processus de transition écologique. À ce titre, le ministre chargé de l'agriculture a fait part, lors du Conseil du 25 juillet 2023, des préoccupations du Gouvernement, relatives aux projections, en termes de baisse de rendement et de production, et a rappelé la nécessité de mettre à disposition des travailleurs agricoles des alternatives crédibles économiquement et opérationnelles sur le terrain. De plus, il s'agissait d'avancer, au niveau européen, d'une manière harmonisée, sur la transition agroécologique, nécessaire à l'objectif de souveraineté alimentaire et essentielle afin d'améliorer la résilience face aux crises climatiques et environnementales. Dans ce contexte, le Gouvernement s'est exprimé en faveur de la mise en place de clauses miroirs, afin d'écarter la concurrence de produits en provenance de pays aux normes moins exigeantes. En réponse aux préoccupations exprimées lors des récentes mobilisations des agriculteurs en France et à travers l'Europe, la présidente de la Commission européenne a annoncé, le 6 février 2024, le retrait de la proposition de règlement et exprimé le souhait que la Commission puisse élaborer un nouveau texte plus abouti, en concertation avec l'ensemble des parties prenantes. Il convient de poursuivre collectivement et de manière constructive les efforts en faveur d'une transition environnementale harmonisée des systèmes de production au niveau européen, en mobilisant la recherche et l'ensemble des filières, c'est l'objectif de la stratégie Ecophyto 2030.
