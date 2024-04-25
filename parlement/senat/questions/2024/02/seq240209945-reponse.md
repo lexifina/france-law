@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240209945
+
+- Question : [SEQ240209945](seq240209945.md) — Autorisation d'installer des radars automatiques
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2024-04-25, page 1862*
+
+L'attention du Gouvernement a été appelée sur l'état d'avancement du décret d'application prévu par l'article 53 de la loi du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale, autrement dénommée loi « 3DS », autorisant les collectivités territoriales et leurs groupements gestionnaires de voirie à installer des appareils de contrôle automatique du respect des règles de sécurité routière sur leur domaine routier. Cette autorisation ne peut être délivrée que si l'avis du préfet de département, rendu après consultation de la commission départementale de la sécurité routière sur la base d'une étude d'accidentalité portant sur les sections de route concernées et en tenant compte des appareils de contrôle automatiques déjà installés, est favorable. La définition des « modalités de dépôt et d'instruction des demandes d'avis » est renvoyée à la publication d'un décret dont le principal objet est de préciser la composition du dossier de demande d'avis, incluant une étude d'accidentalité justifiant le besoin, les délais pour chaque étape de la procédure d'instruction, ainsi que les critères et le périmètre géographique d'appréciation de la densité des appareils de contrôle déjà installés par l'État et les collectivités territoriales, et impose des normes nouvelles aux collectivités territoriales, génératrices de coûts supplémentaires de procédure. Après une présentation aux associations de représentants des élus locaux des architectures technique et financière retenues et la consultation du conseil national d'évaluation des normes (CNEN), le décret objet de la question a été publié le 9 mars 2024 sous le numéro 2024 202.
