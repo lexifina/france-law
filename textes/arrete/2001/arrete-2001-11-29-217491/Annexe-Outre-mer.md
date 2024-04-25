@@ -74,21 +74,15 @@ C
 
 SERVICES DE L'ÉTAT EN GUYANE
 
-DGTM/ Direction de l'aménagement des territoires et de la transition écologique
-
-Connaissance du territoire-DATTE
+DGTM/ Direction de l'aménagement des territoires et de la transition écologique (ATTE)
 
 Fonction exercée |
 
-Niveau de qualification
-
-de l'emploi |
+Niveau de qualification de l'emploi |
 
 Nombre d'emplois |
 
-Nombre de points (IM)
-
-par emploi |
+Nombre de points (IM) par emploi |
 
 Chef de service de l'urbanisme, logement et aménagement-ULA |
 
@@ -98,19 +92,17 @@ A |
 
 50 |
 
+SOUS-PRÉFET CHARGÉ DE MISSION AUPRÈS DU PRÉFET DE GUYANE, COMMISSAIRE À LA LUTTE CONTRE LA PAUVRETÉ
+
 Service politique de la ville
 
 Fonction exercée |
 
-Niveau de qualification
-
-de l'emploi |
+Niveau de qualification de l'emploi |
 
 Nombre d'emplois |
 
-Nombre de points (IM)
-
-par emploi |
+Nombre de points (IM) par emploi |
 
 Chef de service politique de la ville |
 
@@ -130,7 +122,7 @@ B |
 
 Adjoint au responsable du suivi des crédits-service politique de la ville |
 
-C |
+B |
 
 1 |
 
