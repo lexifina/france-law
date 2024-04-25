@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700717
+
+- Question : [SEQ220700717](seq220700717.md) — Financement des conseils pour les collectivités territoriales
+
+## Réponse
+
+*Collectivités territoriales et ruralité, JO du 2024-04-25, page 1763*
+
+La dotation d'équipement des territoires ruraux (DETR) comme la dotation de soutien à l'investissement local (DSIL) constituent des dotations d'investissement et traduit le soutien apporté par l'Etat à la réalisation de projets structurants dans les territoires. Toutefois, afin de prendre en considération les besoins d'ingénierie, d'accompagnement ou d'études, il existe plusieurs possibilités pour prendre en charge les prestations de conseil avec la DSIL ou la DETR. Les attributions au titre de la DSIL sont normalement inscrites à la section d'investissement du budget des bénéficiaires. Néanmoins, par dérogation, lorsque la subvention s'inscrit dans le cadre d'un contrat signé entre le représentant de l'Etat et une collectivité éligible, les crédits attribués au titre de la DSIL peuvent financer des dépenses d'études préalables, et être inscrits en section de fonctionnement dans la limite de 10% du montant total attribué au bénéficiaire de la dotation. La subvention de ces dépenses ne peut, toutefois, pas être reconduite l'année suivante. Les subventions au titre de la DETR peuvent, également, inclure des dépenses de fonctionnement, notamment celles relatives à des études préalables, dès lors qu'elles constituent une dépense accessoire à une opération d'investissement. Enfin, au-delà de la DETR et de la DSIL, l'Etat et ses partenaires mettent à disposition des collectivités une offre d'ingénierie adaptée à chaque type de projet et à chaque étape de sa réalisation. L'offre d'ingénierie est accessible sur le site aides-territoires.beta.gouv.fr.
