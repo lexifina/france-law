@@ -1,0 +1,10 @@
+# proposition de loi visant à mettre fin aux pratiques d'arbitrage de dividendes
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : visant à mettre fin aux pratiques d'arbitrage de dividendes
+- Déposé le : 2024-04-26
+- Dossier : DLR5L16N49847
+- Auteurs : Mme Nathalie Goulet (auteur), M. Bernard Delcros (auteur), M. Guillaume Gontard (auteur), M. Patrick Kanner (auteur), M. Éric Bocquet (auteur), M. Arnaud Bazin (auteur), M. Guy Benarroche (auteur), Mme Annick Billon (auteur), M. Grégory Blanc (auteur), Mme Florence Blatrix Contat (auteur), Mme Isabelle Briquet (auteur), M. Ian Brossat (auteur), M. Michel Canévet (auteur), M. Daniel Chasseing (auteur), M. Alain Chatillon (auteur), M. Cédric Chevalier (auteur), PA720634 (auteur), M. Thierry Cozic (auteur), M. Ronan Dantec (auteur), M. Marc-Philippe Daubresse (auteur), Mme Nathalie Delattre (auteur), M. Franck Dhersin (auteur), Mme Élisabeth Doineau (auteur), M. Thomas Dossus (auteur), M. Alain Duffourg (auteur), M. Vincent Éblé (auteur), Mme Frédérique Espagnac (auteur), M. Rémi Féraud (auteur), M. Jacques Fernique (auteur), Mme Françoise Gatel (auteur), Mme Frédérique Gerbaud (auteur), Mme Antoinette Guhl (auteur), M. Jean-Pierre Grand (auteur), M. Jean Hingray (auteur), Mme Christine Herzog (auteur), M. Éric Jeansannetas (auteur), Mme Annick Jacquemet (auteur), M. Yannick Jadot (auteur), M. Claude Kern (auteur), Mme Marie-Claude Lermytte (auteur), M. Martin Lévrier (auteur), M. Victorin Lurel (auteur), M. Alain Marc (auteur), Mme Monique de Marco (auteur), Mme Catherine Morin-Desailly (auteur), M. Akli Mellouli (auteur), Mme Mathilde Ollivier (auteur), Mme Évelyne Perrot (auteur), Mme Raymonde Poncet Monge (auteur), M. Claude Raynal (auteur), M. Jean-Yves Roux (auteur), M. Daniel Salmon (auteur), Mme Ghislaine Senée (auteur), Mme Nadia Sollogoub (auteur), Mme Anne Souyris (auteur), M. Jean-Marie Vanlerenberghe (auteur), Mme Sylvie Vermeillet (auteur), Mme Mélanie Vogel (auteur), M. Dany Wattebled (auteur)
+- Identifiant : PIONSNR5S419B0554
