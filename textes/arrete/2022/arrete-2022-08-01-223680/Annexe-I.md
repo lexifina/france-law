@@ -8,7 +8,7 @@ Administration centrale |
 
 Direction des ressources humaines |
 
-Chef du bureau d'appui à la gestion et aux opérations de rémunération |
+Chef du bureau des personnels de l'inspection du travail |
 
 Chef du bureau des personnels administratifs et techniques de catégorie B et C |
 
@@ -29,6 +29,14 @@ Chef du bureau des ressources humaines et des affaires générales |
 Chef du bureau des prestations |
 
 Chef du bureau des intendances |
+
+Chef du bureau de l'accueil et de la sécurité
+
+|
+
+Adjoint au chef de service des patrimoines
+
+|
 
 Direction du numérique |
 

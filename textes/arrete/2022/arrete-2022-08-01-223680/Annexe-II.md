@@ -8,8 +8,6 @@ Direction des ressources humaines |
 
 Chef du bureau des personnels administratifs et techniques de catégories B et C |
 
-Chef du bureau d'appui à la gestion et aux opérations de rémunération |
-
 Inspection générale des affaires sociales |
 
 Secrétaire général |
