@@ -1,0 +1,10 @@
+# COMMUNE DE PLOUHA : délibération CCAS_18BIS_2024 — CCAS-18BIS-2024 Affectation des résultats 2023
+
+- Collectivité : COMMUNE DE PLOUHA
+- SIRET : 21220222000019
+- Code INSEE : 22222
+- Date : 2024-04-26
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : CCAS-18BIS-2024 Affectation des résultats 2023
+- Transmis à la préfecture : 2024-06-05 00:00:00
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
