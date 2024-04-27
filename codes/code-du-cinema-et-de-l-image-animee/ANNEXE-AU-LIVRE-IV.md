@@ -888,4 +888,4 @@ IV-8.1. Documents justificatifs à joindre à l'appui d'une demande d'aide au pa
 
 5° Le cas échéant, des compléments visuels (cinq pages d'illustrations et trois minutes de vidéo maximum) ;
 
-6° Une déclaration sur l'honneur des aides de minimis perçues.
+6° Une déclaration sur l'honneur des aides de minimis perçues au cours des trois années précédentes.

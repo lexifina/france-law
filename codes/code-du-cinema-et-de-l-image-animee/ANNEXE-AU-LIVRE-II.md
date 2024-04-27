@@ -90,7 +90,7 @@ II-1.3. Documents justificatifs à joindre à l'appui d'une demande d'allocation
 
 1° Les factures acquittées détaillées correspondant aux travaux de création d'un fichier numérique de sous-titrage pour les personnes sourdes ou malentendantes et d'un fichier numérique d'audiodescription, ainsi qu'aux travaux d'adaptation desdits fichiers à tout support numérique de diffusion ;
 
-2° Un tableau récapitulatif de l'ensemble des aides de minimis reçues au cours des trois derniers exercices fiscaux par l'entreprise de production.
+2° Un tableau récapitulatif de l'ensemble des aides de minimis reçues au cours des trois années précédentes par l'entreprise de production.
 
 II-2. Aides financières sélectives à la production des œuvres cinématographiques de longue durée
 
