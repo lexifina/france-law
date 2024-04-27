@@ -1,269 +1,309 @@
 # Article Annexe
 
+ANNEXE
+
 Organismes |
 
-Inscription
-
-sur la liste nationale
+Inscription sur la liste nationale
 
 au titre des années |
 
-Association 100 000 entrepreneurs, située à La Filature, 32, rue du Faubourg-Poissonnière, 75010 Paris |
+Association de la fondation étudiante pour la ville (AFEV) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association 2ARAMI, située 32, rue du Clos Four, 63100 Clermont-Ferrand |
+Association française pour le développement de l'enseignement technique (AFDET) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Abilympics France, située au 102, avenue de Canéjan, 33600 Pessac |
+Association Jeunesse Entreprise (AJE) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Accompagner la Réalisation des Projets d'Etudes de Jeunes Elèves et Etudiants Handicapés (ARPEJEH), située au 19, rue de la Boétie, 75008 Paris |
+Un stage et après (USEA) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Actions 3PF (Peintres et peintures pour la France), située au 42, avenue Marceau, 75008 Paris |
+100 % handinamique-Ex Fédération Etudiante pour une Dynamique Etudes et Emploi avec un Handicap |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Airemploi Espace Orientation, située à Roissy pôle Le Dôme, 5, rue de La Haye, BP 18904,95731 Roissy Charles-de-Gaulle cedex |
+Association 100 000 entrepreneurs |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Article 1, située au 194, rue de Tolbiac, 75013 Paris |
+Association 2ARAMI |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Capital Filles, située chez France Télécom-Orange, 78, rue Olivier-de-Serres, 75015 Paris |
+Association Accompagner la Réalisation des Projets d'Etudes de Jeunes Elèves et Etudiants Handicapés (ARPEJEH) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Course en Cours, située chez Renault SAS, 13, avenue Paul Langevin, 92060 Le Plessis-Robinson |
+Association Actions 3PF (Peintres et peintures pour la France) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Crée ton avenir ! ! !-France, située au 5, rue Alphonse Bertillon 75015 Paris |
+Association Airemploi Espace Orientation |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association de la fondation étudiante pour la ville (AFEV), située au 26 bis, rue de Château-Landon, 75010 Paris |
+Association Article 1 |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association des Nouvelles Technologies pour l'éducation et la communication (ANTEC), située 3, rue des Rougeolles, 95590 Presles |
+Association Chemins d'avenirs |
 
-2020,2021,2022 |
+2022, 2023, 2024 |
 
-Association des syndicats de la distribution et de la maintenance des matériels agricoles, de travaux publics, de manutention et de parcs et jardins (ASDM), située au 6, boulevard Jourdan, 75014 Paris |
+Association Course en Cours |
 
-2020,2021,2022 |
+2023,2024, 2025 |
 
-Association Destination Plasturgie, située au 1, boulevard Edmond Michelet 69372 Lyon Cedex 08 |
+Association Crée ton avenir-France |
 
-2020,2021,2022 |
+2023,2024,2025 |
 
-Association Elles bougent, située au 562, avenue du Parc-de-l'Ile, 92029 Nanterre Cedex |
+Association de l'or dans les mains |
 
-2020,2021,2022 |
+2024,2025,2026 |
 
-Association Enactus, située au 204, rue de Crimée, 75019 Paris |
+Association des Nouvelles Technologies pour l'éducation et la communication (ANTEC) |
 
-2020,2021,2022 |
+2023,2024,2025 |
 
-Association Energie jeunes, située au 3, villa d'Orléans, 75014 Paris |
+Association des Syndicats de la Distribution et de la Maintenance des matériels agricoles, de travaux publics, de manutention et de parcs et jardins (ASDM) |
 
-2020,2021,2022 |
+2023, 2024,2025 |
 
-Association Enseignement, Diffusion, Information, Musique (EDIM), située au 17, rue Cousté, 94230 CACHAN |
+Association Elles bougent |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Entreprendre pour apprendre France (EPA France), située à La Filature, 32, rue du Faubourg-Poissonnière, 75010 Paris |
+Association ENACTUS |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Euro France Association située au 106, rue Cardinet, 75017 Paris |
+Association Energie Jeunes |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Fédération étudiante pour une dynamique études et emploi avec un handicap (FEDEEH), située à la Tour Essor, 14, rue Scandicci, 93508 Pantin |
+Association Entourage |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Fédération nationale des écoles de production (FNEP), située au 1, place de Fourvière, 69005 Lyon |
+Association Entreprendre pour apprendre (EPA) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association française pour le développement de l'enseignement technique (AFDET), située au 178, rue du Temple, 75003 Paris |
+Association Euro App Mobility |
 
-2020,2021,2022 |
+2022, 2023, 2024 |
 
-Association France apprentissage, située au 6, rue Pernety, 75014 PARIS |
+Association France 2025 rugby |
 
-2021,2022,2023 |
+2023, 2024, 2025 |
 
-Association HANVOL (HVL), située au 8, rue Gallilée, 75116 Paris |
+Association HANVOL |
 
-2021,2022,2023 |
+2024, 2025, 2026 |
 
-Association Ingénieurs pour l'école (IPE), située au 15, rue Beaujon, 75008 Paris |
+Association Ingénieurs pour l'école (IPE) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Initiadroit, située au 11, place Dauphine, 75001 Paris |
+Association InitiaDROIT |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Institut de l'Engagement, située au 115, boulevard Richard Lenoir, 75011 Paris |
+Association Institut Break Poverty (IBP) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Institut Français du Tourisme (IFT), située au 15, avenue Carnot, 75017 Paris |
+Association la Chance, pour la diversité dans les médias |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Institut Télémaque, située chez Schneider Electric-35, rue Joseph Monier-CS30323-92506 Rueil-Malmaison Cedex |
+Association Le Comité français des olympiades des métiers (COFOM-Worldskills France) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association jeunesse et entreprises (AJE), située au 4, rue Léo-Delibes, 75116 Paris |
+Association Les Entrepreneuriales (ANLE) |
 
-2020,2021,2022 |
+2023,2024,2025 |
 
-Association Job In Real Life (JobIRL), située 10, rue de Villiers-92300 Levallois |
+Association Les entreprises pour la cité (LepC) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association L'union des associations L'outil en main, située au 12, avenue Marceau, 75008 Paris |
+Association les Rencontres Entreprises Enseignants (R2E) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association La Chance, pour la diversité dans les médias, située à l'Ascenseur, 29 boulevard Bourdon 75004 Paris |
+Association Métiers-Avenir (AMA) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association La Cravate Solidaire, située chez Jacques-Henri Strubel, 23, rue Dagorno, 75012 Paris |
+Association Moteur ! |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association le Club SEIMAT, située 43/45, rue de Naples, 75008 Paris |
+Association Mozaïk |
 
-2020,2021,2022 |
+2022, 2023, 2024 |
 
-Association Le Comité d'organisation du concours " Un des Meilleurs Ouvriers de France " et des Expositions du Travail (COET), située au 61-65, rue Dutot, 75732 Paris Cedex 15 |
+Association nationale des apprentis de France (ANAF) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Le Comité français des olympiades des métiers (COFOM-Wordskills France), située au 7, rue d'Argout, 75002 Paris |
+Association ouvrière des compagnons du devoir du tour de France (AOCTDF) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Les Entrepreneuriales (ANLE), située au 60 boulevard du Maréchal Juin, 44 100 Nantes |
+Association pour la promotion des métiers et des formations en agroéquipement (APRODEMA) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Les Entreprises pour la Cité, située 23, rue de Vienne 75008 Paris |
+Association pour le développement des relations Education Entreprises (ADREE) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Les Entretiens de l'Excellence, Club XXIe Siècle, située au 9 bis, rue Vézelay, 75008 Paris |
+Association Proxité |
 
-2020,2021,2022 |
+2024, 2025, 2026 |
 
-Association les Rencontres Entreprises Enseignants (R2E), située la Filature, Bat5, 32, rue du Faubourg Poissonnière 75010 Paris |
+Association Société nationale des Meilleurs ouvriers de France |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association l'Union des Professeurs de Sciences et Techniques Industrielles, située 45, boulevard des Batignolles 75008 Paris |
+Association Sport dans la ville |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association métiers avenir (AMA), située au 39/41, rue Louis Blanc, 92400 Courbevoie |
+Association Talents du numérique (ex-Pascaline) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Moi dans 10 ans, située au 1, rue des sabotiers, 94300 Vincennes |
+Association Ticket for change |
 
-2021,2022,2023 |
+2023, 2024, 2025 |
 
-Association nationale des apprentis de France (ANAF), située 69, rue Salomon Reinach, 69007 Lyon |
+Association Viens voir mon Taf (VMTF) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Nos quartiers ont du talent (NQT) située au 34 Ter boulevard Ornano, 93200 SAINT-DENIS ; 32, rue du Faubourg-Poissonnière, 75010 Paris |
+Association WALT |
 
-2020,2021,2022 |
+2024, 2025, 2026 |
 
-Association ouvrière des compagnons du devoir du tour de France (AOCTDF), située au 82, rue de l'Hôtel-de-Ville, 75180 Paris Cedex 04 |
+Association Zup de co |
 
-2020,2021,2022 |
+2022, 2023, 2024 |
 
-Association pour la promotion des métiers et des formations en agroéquipement (APRODEMA), située au 19, rue Jacques-Bingen, 75017 Paris |
+Capital Filles |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association pour le développement d'épreuves éducatives sur l'éco-mobilité (AD3E), située à l'ENS Cachan, 61, Avenue du Président-Wilson, 94235 Cachan Cedex |
+Centre d'Information et de Documentation Jeunesse (CIDJ) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association pour le développement des relations école-entreprise (ADREE), située au 55, avenue Bosquet, 75007 Paris |
+Centre d'Orientation Interprofessions (COIP) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Proxité, située au 5, rue Jean Jaurès, 93200 Saint-Denis |
+CGénial |
 
-2021,2022,2023 |
+2023, 2024, 2025 |
 
-Association Société nationale des Meilleurs ouvriers de France, située 16, rue Saint-Nicolas 75012 Paris |
+Comité d'organisation du concours Un des Meilleurs Ouvriers de France et des Expositions du Travail (COET-MOF) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association Sport dans la ville, située 14, rue Lesault, 93500 Pantin |
+Duo for a job |
 
-2020,2021,2022 |
+2024, 2025, 2026 |
 
-Association Talents du numérique, située au 148, boulevard Haussmann, 75008 Paris |
+Entraide scolaire amicale (ESA) |
 
-2020,2021,2022 |
+2022, 2023, 2024 |
 
-Association Un stage et après ? (USEA), située 3 bis, rue Pauline Borghèse, 92200 Neuilly-sur-Seine |
+Euro France Association |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association ViensVoirMonTaf (VVMT), située 20, rue Descartes 92310 Sèvres |
+Fédération nationale des directeurs de centres de formation d'apprentis (FNADIR) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Association WALT, située au 58, rue Notre dame de Lorette, 75009 Paris |
+Fédération nationale des écoles de Production (FNEP) |
 
-2021,2022,2023 |
+2023, 2024, 2025 |
 
-Centre d'Information et de Documentation Jeunesse (CIDJ), situé 101, quai Branly, 75740 PARIS Cedex 15 |
+FICME (Club Seimat) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Centre d'Orientation Interprofessions (COIP), situé 12, rue Alexandre Parodi, 75010 PARIS |
+Fondation FACE-Agir Contre l'Exclusion |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Fondation Agir contre l'exclusion située au 361, avenue du Président-Wilson, 93211 Saint-Denis-La-Plaine Cedex |
+Fondation un Avenir Ensemble |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Fondation C. Génial, Fondation pour la culture scientifique et technique, située au 20, avenue Rapp, 75007 Paris |
+Institut de l'Engagement |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Fondation Un avenir ensemble, située à la Grande Chancellerie de la Légion d'Honneur, 1, rue Solférino, 75007 Paris |
+Institut Français du Tourisme (IFT) |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Office national d'information sur les enseignements et les professions (ONISEP), situé au 12, Mail Barthélemy-Thimonnier, 77185 Lognes |
+Institut Télémaque |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
 
-Réseau national d'enseignement supérieur privé (RenaSup), situé au 277, rue St Jacques, 75005 PARIS |
+Job in real life-JobIRL |
 
-2020,2021,2022 |
+2023, 2024, 2025 |
+
+L'union des Associations L'Outil En Main |
+
+2023, 2024, 2025 |
+
+La Cravate Solidaire |
+
+2023, 2024, 2025 |
+
+La ligue de l'enseignement |
+
+2024, 2025, 2026 |
+
+L'Union des Professeurs de Sciences et Techniques Industrielles (UPSTI) |
+
+2023, 2024, 2025 |
+
+Nos quartiers ont du talent (NQT) |
+
+2023, 2024, 2025 |
+
+ONISEP |
+
+2023, 2024, 2025 |
+
+PROLOGIN |
+
+2024, 2025, 2026 |
+
+RENASUP |
+
+2023, 2024, 2025 |
+
+Réseau des entrepreneurs citoyens (REC) |
+
+2024, 2025, 2026 |
+
+Social builders |
+
+2024, 2025, 2026 |
