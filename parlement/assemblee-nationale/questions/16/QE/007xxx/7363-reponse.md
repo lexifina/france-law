@@ -1,0 +1,9 @@
+# Réponse à la question n° 7363
+
+- Question : [7363](7363.md) — Question n° 7363 — Accès à MaPrimeRénov' Copropriétés
+
+## Réponse
+
+*JO du 2024-04-30, page 3465*
+
+Depuis son lancement en 2020, le dispositif MaPrimeRénov' rencontre un franc succès, avec plus de 2 millions de rénovations. Dans le but de renforcer cette dynamique, l'Agence nationale de l'habitat (Anah) mobilise quotidiennement ses équipes et traite chaque semaine jusqu'à 25 000 demandes de subvention ou de paiement. Les travaux de rénovation dans les copropriétés sont caractérisés par de nombreuses difficultés relatives au mode de gouvernance des syndicats, de la solidarité financière et à la communication entre les copropriétaires. Afin de répondre à ces difficultés, la déclinaison de l'aide pour les logements collectifs, MaPrimeRénov' Copropriété, rend obligatoire un accompagnement par une assistance à maîtrise d'ouvrage (AMO). Il convient de noter qu'au vu des particularités architecturales des logements collectifs, MaPrimeRénov' Copropriété vise à faciliter le financement de travaux de rénovation globale qui garantissent une amélioration nette du confort de vie, à travers la règle d'un gain énergétique minimum de 35%. C'est pourquoi les structures spécialisées dans l'AMO apportent leur expertise pour aider les copropriétés à s'engager dans des projets ambitieux qui répondent également aux engagements portés par le Gouvernement de rénover l'ensemble du parc résidentiel d'ici 2050. Il faut rappeler que le financement des projets de rénovation peut également être l'occasion pour les copropriétés de souscrire à l'éco-prêt à taux zéro Copropriété, qui leur permet de se libérer de la charge induite par le remboursement d'intérêts dans le contexte actuel de montée importante des taux. Des travaux sont en cours afin de faciliter le recours à l'éco-PTZ collectif, notamment en cas d'octroi de l'aide MaPrimeRénov' Copropriété.
