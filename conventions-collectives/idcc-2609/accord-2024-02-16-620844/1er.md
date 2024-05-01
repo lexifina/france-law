@@ -1,0 +1,7 @@
+# Article 1er
+
+En application du titre III de la convention collective nationale des employés, techniciens et agents de maîtrise du bâtiment du 12 juillet 2006, étendue par arrêté ministériel du 5 juin 2007, et de l'accord collectif national du 26 septembre 2007 relatif à la classification des emplois des ETAM du bâtiment, les organisations d'employeurs et de salariés du bâtiment, adhérentes aux organisations d'employeurs et de salariés représentatives au niveau national, (1) se sont réunies et ont trouvé un accord sur le barème de salaires minimaux des ETAM du bâtiment de la région Occitanie.
+
+(1) Les termes « au niveau national, » sont exclus de l'extension en tant qu'ils sont contraires à la loi n° 2008-789 du 20 août 2008 portant rénovation de la démocratie sociale et réforme du temps de travail qui définit les niveaux d'appréciation de la représentativité syndicale : le niveau de la branche professionnelle et le niveau national et interprofessionnel, la référence aux organisations de salariés et d'employeurs représentatives « au plan national » créant une ambiguïté pouvant exclure certaines organisations représentatives dans la branche mais non au niveau national et interprofessionnel.
+
+(Arrêté du 21 mai 2024 - art. 4)
