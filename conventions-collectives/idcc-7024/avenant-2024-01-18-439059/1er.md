@@ -1,0 +1,49 @@
+# Article 1er
+
+Palier 1 |
+
+11,65 € |
+
+Palier 2 |
+
+11,74 € |
+
+Palier 3 |
+
+11,91 € |
+
+Palier 4 |
+
+12,17 € |
+
+Palier 5 |
+
+12,70 € |
+
+Palier 6 |
+
+13,30 € |
+
+Palier 7 |
+
+14,08 € |
+
+Palier 8 |
+
+15,05 € |
+
+Palier 9 |
+
+16,29 € |
+
+Palier 10 |
+
+18,04 € |
+
+Palier 11 |
+
+20,53 € |
+
+Palier 12 |
+
+23,46 € |
