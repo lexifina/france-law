@@ -2,7 +2,7 @@
 
 Les dispositions de l'article 3 « Certifications professionnelles visées » de l'accord du 21 janvier 2020 relatif à la mise en œuvre du dispositif de reconversion ou promotion par alternance (dit « Pro-A ») dans la convention collective des commerces de gros (brochure n° 3044), sont complétées par les dispositions suivantes.
 
-Est ajouté aux certifications mentionnées le « titre professionnel manager d'unité marchande RNCP32291 ».
+Est ajouté aux certifications mentionnées le « titre professionnel manager d'unité marchande RNCP38676 ».
 
 Le dispositif de reconversion ou promotion par alternance dit « Pro-A » est destiné à faciliter un changement de métier ou de profession ou à favoriser la promotion sociale ou professionnelle, par l'acquisition d'une certification professionnelle, laquelle doit répondre à des enjeux en termes de mutation d'activité et de risque d'obsolescence des compétences.
 
