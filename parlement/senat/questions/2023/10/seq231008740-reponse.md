@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231008740
+
+- Question : [SEQ231008740](seq231008740.md) — Renouvellement du dispositif de retrait d'épargne salariale anticipé pour aider le pouvoir d'achat des Français
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2024-05-02, page 1970*
+
+Le Gouvernement a fait du soutien à la rénovation thermique, l'une de ses priorités dans le cadre de la planification écologique. L'article 33 de l'accord national interprofessionnel (ANI) relatif au partage de la valeur au sein de l'entreprise, signé le 10 février dernier, a demandé la mise en place de nouveaux cas de déblocage anticipé de l'épargne, notamment pour « les dépenses liées à la rénovation énergétique des résidences occupées à titre principal ». Dans le cadre du projet de loi visant à transposer fidèlement cet ANI, un amendement de Mme la députée Félicie Gérard, soutenu par le Gouvernement, a été adopté en séance publique afin de préciser explicitement à l'article L. 3324-10 du code du travail que « les dépenses liées à la transition énergétique » font partie des motifs permettant un déblocage anticipé des sommes placées sur un plan d'épargne entreprise. En particulier, ce motif de déblocage couvrira les dépenses en matière de rénovation énergétique des logements, de production d'électricité ou de chaleur que le député évoque, ainsi que les travaux et dépenses éligibles au dispositif « MaPrimeRenov' ». Preuve de l'importance accordée par le Gouvernement à ce sujet, ce motif a été inscrit au niveau législatif, à la différence des autres cas de déblocage prévus au niveau réglementaire. Les textes réglementaires d'application, visant notamment à élargir les cas de déblocage anticipés des plans d'épargne entreprise mentionnés au R. 3324-22 du code du travail, sont d'ores et déjà en cours d'élaboration dans la perspective de l'examen du projet de loi au Sénat en octobre et de sa prochaine promulgation.
