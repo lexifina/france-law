@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231008779
+
+- Question : [SEQ231008779](seq231008779.md) — Difficultés liées aux délais d'audiencement trop longs dans le cadre des référés
+
+## Réponse
+
+*Justice, JO du 2024-05-02, page 1988*
+
+La justice ne pouvant fonctionner sans des femmes et des hommes oeuvrant quotidiennement à son service, ce sont 10 000 emplois supplémentaires qui seront créés d'ici 2027, soit une hausse de 11 % en cinq ans, au service, entre autres, du renfort des effectifs en juridictions, de l'armement des nouveaux établissements pénitentiaires et des services de la protection judiciaire de la jeunesse. Le ministère de la Justice bénéficiera de la création de 1 500 postes de magistrats, de 1 800 postes de greffiers et de 1 100 attachés de justice. S'il est difficile de rattraper en quelques mois des décennies d'insuffisance, les recrutements de magistrats connaîtront une augmentation historique grâce à 470 postes offerts aux auditeurs de justice et 80 postes offerts au concours complémentaire pour l'année 2023. Les emplois de contractuels ont quant à eux été pérennisés. L'octroi de moyens supplémentaires aux magistrats est donc au coeur des préoccupations du ministère de la Justice, qui par ailleurs, achève actuellement une réflexion d'envergure entamée dans le cadre des États généraux de la justice quant à l'évaluation de la charge de travail, aux fins de répartir ces nouveaux moyens de manière optimale et de réduire les délais d'audiencement. Enfin, le président de la République a pu annoncer, lors de la prestation de serment de la promotion historique d'auditeurs de justice le 9 janvier 2024, l'impératif de diviser les délais par deux d'ici 2027. Cette politique prioritaire du Gouvernement sera mise en oeuvre grâce aux mesures prises pour renforcer le service public de la Justice. Cet objectif ambitieux de réduction des délais concerne l'ensemble des matières dont celle des référés.
