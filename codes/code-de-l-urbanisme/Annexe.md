@@ -218,4 +218,6 @@ Servitudes d'utilité publique instituées en application de l'article L. 566-12
 
 Servitudes de passage et d'aménagement instituées en application de l'article L. 134-2 du code forestier.
 
+Servitudes d'utilité publique relatives aux “ zones de danger ”, instituées en application des articles L. 567-4 à L. 567-6 du code de l'environnement.
+
 Un arrêté du ministre chargé de l'urbanisme fixe la légende des différentes servitudes d'utilité publique figurant sur cette liste.
