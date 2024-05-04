@@ -45,3 +45,9 @@ Les traitements mis en place à partir du traitement automatisé Dispositif Ress
 Traitement automatisé API Impôt Particulier de la direction générale des finances publiques |
 
 Les traitements mis en place à partir du traitement automatisé API Impôt Particulier permettent de vérifier l'éligibilité du jeune au versement de l'allocation au titre du dispositif prévu par le L5131-6 du code du travail par la collecte des données fiscales. |
+
+Traitement automatisé du Groupement de l'intérêt public " Plateforme de l'inclusion " |
+
+Des traitements mis en place permettant d'alimenter " I-MILO " avec les données relatives aux périodes de mise en situation en milieu professionnel.
+
+|

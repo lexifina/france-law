@@ -24,7 +24,11 @@ DONNÉES À CARACTÈRE PERSONNEL POUVANT ÊTRE ENREGISTRÉES DANS LE TRAITEMENT
 
 10. Identifiant technique attribué par Pôle emploi relatif au positionnement dématérialisé en formation et à son suivi ;
 
-11. Numéro fiscal. |
+11. Numéro fiscal ;
+
+12. Copie de la carte d'identité ou copie du passeport.
+
+|
 
 2° Données relatives à la situation familiale du jeune |
 
@@ -102,7 +106,27 @@ D.-Loisirs
 
 1. Type (membre d'une association culturelle, membre d'une association sportive, pratique culturelle personnelle, pratique sportive personnelle) ;
 
-2. Description. |
+2. Description.
+
+E.-Données relatives à la période de mise en situation en milieu professionnel (PMSMP)
+
+1. Identifiant de la période de mise en situation en milieu professionnel ;
+
+2. Objet de la période de mise en situation en milieu professionnel (“ Confirmer un projet professionnel ”/ “ Découvrir un métier ou un secteur d'activité ”/ “ Initier une démarche de recrutement ”) ;
+
+3. Titre du poste ;
+
+4. Date de prescription de la période de mise en situation en milieu professionnel ;
+
+5. Date de début de la période de mise en situation en milieu professionnel ;
+
+6. Date de fin prévisionnelle de la période de mise en situation en milieu professionnel ;
+
+7. Nombre d'heures prévues ;
+
+8. Commentaire de l'entreprise accueillante.
+
+|
 
 4° Données d'ordre économique, financier et social du jeune ; |
 
@@ -120,17 +144,21 @@ A.-Situation sociale :
 
 4. b. Caractère ayant-droit ou bénéficiaire ;
 
-4. c. Bénéficiaire du RSA majoré ;
+4. c. Bénéficiaire du revenu de solidarité active majoré ;
 
-1. Reconnaissance de la qualité de travailleur handicapé ;
+5. Reconnaissance de la qualité de travailleur handicapé :
 
-5. a. Catégorie (en instance de décision, Etablissement et service d'aide par le travail (ESAT), marché du travail) ; 5. b. Période ;
+5. a. Catégorie (en instance de décision, Etablissement et service d'aide par le travail (ESAT), marché du travail) ;
 
-1. Accompagnement par l'aide sociale à l'enfance et période d'accompagnement ;
+5. b. Période ;
 
-2. Date de péremption du titre de séjour ;
+6. Accompagnement par l'aide sociale à l'enfance et période d'accompagnement ;
 
-3. Primo arrivant, signataire d'un contrat d'intégration républicaine (CIR) et période de validité.
+7. La copie du visa ou du titre de séjour en cours de validité ;
+
+8. Date de péremption du titre de séjour ;
+
+9. Primo arrivant, signataire d'un contrat d'intégration républicaine (CIR) et période de validité.
 
 B.-Situation au regard du logement :
 
@@ -154,11 +182,11 @@ C.-Situation financière :
 
 3. d. Attestation sur l'honneur des ressources déclarées ;
 
-1. Situation fiscale ;
+4. Situation fiscale ;
 
-2. Revenu fiscal de référence ;
+5. Revenu fiscal de référence ;
 
-3. Ressources. |
+6. Ressources. |
 
 5° Données relatives au suivi du jeune par la mission locale ; |
 
