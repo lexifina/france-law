@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONVENTION DE PARTENARIAT SCIENTIFIQUE ENTRE LA VILLE D'AIX-EN-PROVENCE (DIRECTION ARCHÉOLOGIE) ET l'UNITÉ MIXTE DE RECHERCHE "ARCHÉOLOGIE DES SOCIÉTÉS MÉDITERRANÉENNES" (ASM) - UNIVERSITÉ PAUL VALERY MONTPELLIER 3/CNRS/DRAC OCCITANIE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2024-05-04
+- Séance : Conseil Municipal 1CA
+- Objet : CONVENTION DE PARTENARIAT SCIENTIFIQUE ENTRE LA VILLE D'AIX-EN-PROVENCE (DIRECTION ARCHÉOLOGIE) ET l'UNITÉ MIXTE DE RECHERCHE "ARCHÉOLOGIE DES SOCIÉTÉS MÉDITERRANÉENNES" (ASM) - UNIVERSITÉ PAUL VALERY MONTPELLIER 3/CNRS/DRAC OCCITANIE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-17698-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
