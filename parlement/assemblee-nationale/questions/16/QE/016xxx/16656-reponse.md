@@ -1,0 +1,9 @@
+# Réponse à la question n° 16656
+
+- Question : [16656](16656.md) — Question n° 16656 — Vignette d'assurance auto
+
+## Réponse
+
+*JO du 2024-05-07, page 3658*
+
+Cette mesure représente une avancée importante dans la simplification de la vie administrative des Français en supprimant l'exigence de possession de ce document papier pour circuler. En outre, elle permettra d'économiser près de 1 200 tonnes de CO2 par an en évitant l'impression et l'envoi des cartes vertes aux plus de 50 millions de véhicules immatriculés en France. La preuve de l'assurance est désormais rapportée exclusivement par la consultation du fichier des véhicules assurés (FVA), qui compile l'ensemble des contrats d'assurance automobile « au tiers » du territoire français. Le FVA contient l'indication du contrat d'assurance de responsabilité civile pour chacun des véhicules couverts immatriculés en France. Ce fichier, dont les données sont considérées comme des données personnelles et qui doivent à ce titre faire l'objet d'une protection particulière, est réservé aux autorités chargées du contrôle de l'assurance, c'est-à-dire les forces de l'ordre. En dehors des contrôles de police, en cas de besoin, les assurés pourront toujours solliciter une attestation de la part de leur assureur s'ils doivent prouver auprès d'un tiers qu'ils sont bien assurés. Par ailleurs, la réforme oblige les assureurs à délivrer à leurs clients un document d'information (dit « mémo ») reprenant les mentions de l'ancienne carte verte. Il sera délivré une fois, à la souscription du contrat, et n'a pas vocation à être renouvelé chaque année. Ce document permettra aux assurés de réaliser certaines tâches administratives, comme le remplissage d'un constat amiable d'accident, et de lui rappeler les caractéristiques principales de leurs contrats ainsi que l'étendue de leurs garanties.
