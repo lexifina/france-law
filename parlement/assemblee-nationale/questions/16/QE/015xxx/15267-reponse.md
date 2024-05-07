@@ -1,0 +1,9 @@
+# Réponse à la question n° 15267
+
+- Question : [15267](15267.md) — Question n° 15267 — Refus des chèques-services des anciens combattants par les commerces
+
+## Réponse
+
+*JO du 2024-05-07, page 3620*
+
+Les chèques de service ont pour objectif d'apporter une aide financière sous délai restreint à une situation exceptionnelle, principalement dans les domaines de l'alimentation et de l'énergie. Ils constituent une solution adaptée aux besoins des ressortissants lorsque l'échéance de la réunion de la commission solidarité du conseil départemental pour les anciens combattants et victimes de guerre, qui octroie des aides financières ponctuelles par virement bancaire, est trop éloignée. À la suite d'un appel d'offres, une convention a été signée par l'Office national des combattants et des victimes de guerre (ONaCVG) avec la société UP COOP, ayant la charge d'éditer et d'envoyer les chèques sollicités par les services départementaux, et qui travaille avec un réseau de commerçants identifiés. En 2023, le service départemental de l'ONaCVG de la Haute-Marne a alloué 12 800 € d'aides sous forme de chèques de service. Depuis le changement de plusieurs enseignes, il s'est avéré que les commerces n'acceptent plus ce mode de paiement. Cette information a été relayée au prestataire afin qu'il en évalue les raisons. Pour pallier cette difficulté, le service départemental de l'ONaCVG de la Haute-Marne a décidé de commander des chèques valables sur l'ensemble du territoire, afin que les bénéficiaires puissent se rendre dans les commerces des départements limitrophes. Un travail partenarial avec les différents centres communaux d'action sociale est en cours pour initier une coopération renforcée et permettre aux ressortissants en grande difficulté de subvenir à leurs besoins entre les échéances des réunions de la commission solidarité.
