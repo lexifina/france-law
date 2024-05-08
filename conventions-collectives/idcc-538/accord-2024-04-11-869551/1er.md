@@ -1,0 +1,9 @@
+# Article 1er
+
+À la date d'application du présent accord du 11 avril 2024, l'article 3 « Salariés bénéficiaires du régime. Adhésion obligatoire » sera ainsi rédigé :
+
+« Article 3
+
+Salariés bénéficiaires du régime.   Adhésion obligatoire
+
+Sous réserve des dispositions de l'article 4 ci-dessous, sont obligatoirement affilés par leur employeur au régime conventionnel collectif et obligatoire frais de santé, l'ensemble des salariés ne relevant pas des articles 2.1 et 2.2 de l'accord national interprofessionnel du 17 novembre 2017 des entreprises relevant du champ d'application défini à l'article 2 du présent accord. »
