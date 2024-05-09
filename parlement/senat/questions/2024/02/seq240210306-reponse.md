@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240210306
+
+- Question : [SEQ240210306](seq240210306.md) — Restrictions en matière de ventes de volailles sur des marchés dans un contexte de grippe aviaire
+
+## Réponse
+
+*Agriculture et souveraineté alimentaire, JO du 2024-05-09, page 2094*
+
+Au cours des trois dernières années, la France a connu des crises sanitaires liées au virus de l'influenza aviaire hautement pathogène (IAHP) d'une grande ampleur. Afin de prévenir l'introduction du virus de l'IAHP dans les élevages, des niveaux de risque et des mesures associées sont prévus dans la réglementation française. Les rassemblements d'oiseaux sont interdits sur l'ensemble du territoire lorsque le niveau de risque est élevé. Lorsque le niveau de risque est modéré, l'interdiction est maintenue dans les zones à risque (zone à risque de diffusion ou zone à risque particulier). En réponse aux attentes exprimées par les éleveurs de volailles et les organisateurs de rassemblements, des dérogations ont été ajoutées dans le nouvel arrêté ministériel paru le 25 septembre 2023 relatif aux mesures de prévention et de lutte vis-à-vis du virus IAHP : - les oiseaux non destinés à la consommation humaine et détenus en volière dérogent à l'interdiction de rassemblement et ce, sans autre condition ; - pour les oiseaux non élevés en volière, désormais seul un test virologique favorable est nécessaire pour leur sortie vers un lieu de rassemblement. Auparavant, les conditions étaient plus contraignantes : claustration préalable de 21 jours des oiseaux, limitation du nombre d'exposants et distance minimale entre exposants. Le virus de l'IAHP, de par son grand pouvoir de mutation, peut avoir un comportement imprévisible et les mesures de biosécurité constituent un levier essentiel dans la prévention du risque d'introduction du virus en élevage et de l'apparition de nouveaux foyers.
