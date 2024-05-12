@@ -1,6 +1,6 @@
 # Article Annexe I
 
-NORMES MEDICALES D'APTITUDE GéNéRALE à SERVIR DANS LE SERVICE DE L'ÉNERGIE OPÉRATIONNELLE
+NORMES MEDICALES D'APTITUDE GÉNÉRALE À SERVIR DANS LE SERVICE DE L'ÉNERGIE OPÉRATIONNELLE
 
 Corps/statut |
 
@@ -70,9 +70,21 @@ Maintien au titre de l'armée active |
 
 Admission et maintien dans la réserve opérationnelle |
 
-|
+3 |
 
-Le personnel de la réserve opérationnelle doit présenter le même profil que le personnel en activité occupant le même emploi ou la même spécialité conformément à l'article R. 4221-2 du code de la défense. |
+2 |
+
+3 |
+
+5 |
+
+3 |
+
+3 |
+
+1 |
+
+|
 
 Admission et maintien dans la réserve spécialiste |
 
@@ -110,7 +122,7 @@ Admission en tant que militaire commissionné |
 
 |
 
-SOUS-OFFICIERS DU SERVICE DES ESSENCES DES ARMEES (SOSEA).
+SOUS-OFFICIERS DU SERVICE DE L'ÉNERGIE OPÉRATIONNELLE (SOSEO).
 
 SOUS-OFFICIERS DU SOUTIEN PETROLIER (SOSP) |
 
@@ -158,21 +170,21 @@ Maintien au titre de l'armée active |
 
 Admission et maintien dans la réserve opérationnelle |
 
-|
+3 |
+
+2 |
+
+3 |
+
+4 |
+
+3 |
+
+3 |
+
+1 |
 
 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Le personnel de la réserve opérationnelle doit présenter le même profil que le personnel en activité occupant le même emploi ou la même spécialité conformément à l'article R. 4221-2 du code de la défense. |
 
 Admission et maintien dans la réserve spécialiste |
 
@@ -238,21 +250,21 @@ Maintien au titre de l'armée active |
 
 Admission et maintien dans la réserve opérationnelle |
 
-|
+3 |
+
+2 |
+
+3 |
+
+4 |
+
+3 |
+
+3 |
+
+1 |
 
 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Le personnel de la réserve opérationnelle doit présenter le même profil que le personnel en activité occupant le même emploi ou la même spécialité conformément à l'article R. 4221-2 du code de la défense. |
 
 Admission et maintien dans la réserve spécialiste |
 
