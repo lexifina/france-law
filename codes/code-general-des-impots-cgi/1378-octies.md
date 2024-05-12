@@ -4,7 +4,7 @@ I. – Lorsque le ministre chargé du budget reçoit de la Cour des comptes la d
 
 Dans le cas contraire, il adresse un rapport motivé au premier président de la Cour des comptes et aux présidents des commissions des finances de l'Assemblée nationale et du Sénat.
 
-II. – Lorsqu'un organisme, qui peut être contrôlé en application des articles L. 111-9 ou L. 111-10 du code précité, est définitivement condamné en application des articles 223-1-1, 313-2, 314-1, 321-1, 324-1, 421-1 à 421-2-6 ou 433-3-1 du code pénal, les dons, legs et versements effectués à son profit ne peuvent plus, à compter du quinzième jour qui suit la condamnation, ouvrir droit à l'avenir au bénéfice d'un avantage fiscal.
+II. – Lorsqu'un organisme, qui peut être contrôlé en application des articles L. 111-9 ou L. 111-10 du code précité, est définitivement condamné en application des articles 223-1-1, 223-1-2,223-15-2,223-15-3, 313-2, 314-1, 321-1, 324-1, 421-1 à 421-2-6 ou 433-3-1 du code pénal, les dons, legs et versements effectués à son profit ne peuvent plus, à compter du quinzième jour qui suit la condamnation, ouvrir droit à l'avenir au bénéfice d'un avantage fiscal.
 
 III. – 1. A compter du quinzième jour qui suit la notification de l'arrêté du ministre chargé du budget prévu au I, les dons, legs et versements effectués au profit de l'organisme visé par l'arrêté sont exclus du bénéfice de tout avantage fiscal.
 
@@ -31,7 +31,3 @@ V. – Lorsqu'un commissaire aux comptes d'un organismementionné aux articles L
 VI. – Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 VII. – Les I à VI s'appliquent à compter du 1er janvier 2010.
-
-NOTA :
-
-Conformément au III de l'article 20 de la loi n° 2021-1109 du 24 août 2021, ces dispositions sont applicables aux actes commis à compter du lendemain de la publication de ladite loi.
