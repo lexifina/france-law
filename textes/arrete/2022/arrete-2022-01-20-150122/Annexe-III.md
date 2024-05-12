@@ -6,7 +6,9 @@ LISTE DES EMPLOIS DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE 
 
 1) Direction générale de la police nationale : 1 poste
 
-Etablissement, organisme ou service et localisation géographique |
+Etablissement, organisme
+
+ou service et localisation géographique |
 
 Emploi |
 
@@ -44,9 +46,11 @@ A + |
 
 1 |
 
-2) Direction nationale de la sécurité publique : 10 postes
+2) Directions interdépartementales et directions départementales de la police nationale : 11 postes
 
-Etablissement, organisme ou service et localisation géographique |
+Etablissement, organisme
+
+ou service et localisation géographique |
 
 Emplois |
 
@@ -70,35 +74,9 @@ Nombre
 
 de postes |
 
-DDSP de l'Aisne (02) |
+DDPN de l'Aisne (02) |
 
-Directeur départemental adjoint et chef de circonscription à Saint-Quentin |
-
-A + |
-
-3 ans |
-
-10 000 |
-
-1 |
-
-DDSP des Alpes-Maritimes (06) |
-
-Chef du service d'intervention, d'aide et d'assistance de proximité à Cannes |
-
-A + |
-
-3 ans |
-
-8 000 |
-
-1 |
-
-DDSP du Calvados (14) |
-
-Chef de la sûreté départementale
-
-à Caen |
+Directeur départemental adjoint et chef de la circonscription de police nationale de Saint Quentin |
 
 A + |
 
@@ -108,11 +86,9 @@ A + |
 
 1 |
 
-DDSP de la Meurthe-et-Moselle (54) |
+DIPN des Alpes-Maritimes (06) |
 
-Chef de la sûreté départementale
-
-à Nancy |
+Chef du service local de sécurité publique de Cannes |
 
 A + |
 
@@ -122,11 +98,9 @@ A + |
 
 1 |
 
-DDSP du Nord (59) |
+DIPN du Calvados (14) |
 
-Commissaire central adjoint
-
-à Valenciennes |
+Chef du service interdépartemental de la police judiciaire à Caen |
 
 A + |
 
@@ -136,21 +110,9 @@ A + |
 
 1 |
 
-DDSP des Pyrénées-Atlantiques (64) |
+DIPN de la Manche (50) |
 
-Directeur départemental adjoint et commissaire central adjoint à Pau |
-
-A + |
-
-3 ans |
-
-8 000 |
-
-1 |
-
-DDSP de la Somme (80) |
-
-Directeur départemental adjoint et commissaire central adjoint à Amiens |
+Directeur interdépartemental adjoint de la police nationale de la Manche et chef de la circonscription de police national de Cherbourg |
 
 A + |
 
@@ -160,11 +122,9 @@ A + |
 
 1 |
 
-DDSP du Var (83) |
+DIPN de la Meurthe et Moselle (54) |
 
-Chef de circonscription
-
-à La-Seyne-sur-Mer |
+Chef de la division de la criminalité territoriale (DCT) à Nancy |
 
 A + |
 
@@ -174,59 +134,9 @@ A + |
 
 1 |
 
-DDSP de la Haute-Vienne (87) |
+DIPN de la Moselle (57) |
 
-Directeur départemental adjoint, commissaire central adjoint et chef du service d'intervention, d'aide et d'assistance de proximité à Limoges |
-
-A + |
-
-3 ans |
-
-8 000 |
-
-1 |
-
-DDSP de l'Oise (60) |
-
-Chef de circonscription à Compiègne |
-
-A + |
-
-3 ans |
-
-8 000 |
-
-1 |
-
-3) Direction nationale de la police judiciaire : 1 poste
-
-Etablissement, organisme ou service et localisation géographique |
-
-Emploi |
-
-Catégorie
-
-statutaire
-
-d'emploi |
-
-Durée
-
-de la période
-
-de référence |
-
-Montant ITM
-
-(en euros) |
-
-Nombre
-
-de postes |
-
-DNPJ/ Services centraux (75) |
-
-Chef de la division du soutien opérationnel à la sous-direction du pilotage et des ressources |
+Chef de la circonscription de police nationale de Forbach |
 
 A + |
 
@@ -236,9 +146,71 @@ A + |
 
 1 |
 
-4) Direction nationale de la police aux frontières : 1 poste
+DIPN du Nord (59) |
 
-Etablissement, organisme ou service et localisation géographique |
+Chef de la circonscription d'agglomération de police nationale adjoint de Valenciennes agglomération |
+
+A + |
+
+3 ans |
+
+10 000 |
+
+1 |
+
+DIPN de l'Oise (60) |
+
+Chef de la circonscription de police nationale de Compiègne |
+
+A + |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+DIPN des Pyrénées-Atlantiques (64) |
+
+Directeur interdépartemental adjoint de la police nationale des Pyrénées-Atlantiques et chef de la circonscription de police nationale de Pau |
+
+A + |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+DIPN de la Somme (80) |
+
+Directeur interdépartemental adjoint de la police nationale de la Somme et chef de la circonscription de police nationale d'Amiens |
+
+A + |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+DIPN du Var (83) |
+
+Chef de la circonscription de police nationale de la Seyne-sur-Mer |
+
+A + |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+3) Direction nationale de la police aux frontières : 1 poste
+
+Etablissement, organisme
+
+ou service et localisation géographique |
 
 Emploi |
 
@@ -264,7 +236,7 @@ de postes |
 
 DNPAF/ Services centraux (75) |
 
-Chef du pôle central de l'éloignement |
+Chef de la division nationale de l'éloignement |
 
 A + |
 
@@ -274,9 +246,11 @@ A + |
 
 1 |
 
-5) Préfecture de police de Paris : 5 postes
+4) Préfecture de police de Paris : 5 postes
 
-Etablissement, organisme ou service et localisation géographique |
+Etablissement, organisme
+
+ou service et localisation géographique |
 
 Emplois |
 
@@ -302,7 +276,7 @@ de postes |
 
 DSPAP/ Direction territoriale de la sécurité de proximité à Paris (75) |
 
-Chef du Service d'Accueil et d'Investigation de Proximité (SAIP) du 19e arrondissement à Paris |
+Chef du service d'accueil et d'investigation de proximité (SAIP) du 19ème arrondissement à Paris |
 
 A + |
 
@@ -312,9 +286,7 @@ A + |
 
 1 |
 
-DSPAP/ Direction territoriale de la sécurité de proximité
-
-des Hauts-de-Seine (92) |
+DSPAP/ Direction territoriale de la sécurité de proximité des Hauts-de-Seine (92) |
 
 Chef de circonscription à Courbevoie |
 
@@ -326,13 +298,9 @@ A + |
 
 1 |
 
-DSPAP/ Direction territoriale de la sécurité de proximité
+DSPAP/ Direction territoriale de la sécurité de proximité de la Seine-Saint-Denis (93) |
 
-de la Seine-Saint-Denis (93) |
-
-Commissaire central adjoint
-
-à Aulnay-sous-Bois |
+Commissaire central adjoint à Aulnay-sous-Bois |
 
 A + |
 
@@ -342,9 +310,7 @@ A + |
 
 1 |
 
-Commissaire central adjoint
-
-à Saint-Denis |
+Commissaire central adjoint à Saint-Denis |
 
 A + |
 
@@ -354,13 +320,9 @@ A + |
 
 1 |
 
-DSPAP/ Direction territoriale de la sécurité de proximité
+DSPAP/ Direction territoriale de la sécurité de proximité du Val-de-Marne (94) |
 
-du Val-de-Marne (94) |
-
-Chef de circonscription
-
-à Chennevières |
+Chef de circonscription à Chennevières |
 
 A + |
 
@@ -370,9 +332,11 @@ A + |
 
 1 |
 
-6) Agence du numérique des forces de sécurité intérieure : 1 poste
+5) Agence du numérique des forces de sécurité intérieure : 1 poste
 
-Etablissement, organisme ou service et localisation géographique |
+Etablissement, organisme
+
+ou service et localisation géographique |
 
 Emploi |
 
@@ -398,9 +362,7 @@ de postes |
 
 ANFSI (92) |
 
-Chef du bureau des systèmes d'aides
-
-à l'enquête |
+Chef du département des fichiers nationaux |
 
 A + |
 
@@ -410,4 +372,48 @@ A + |
 
 1 |
 
-7) Direction générale de la sécurité intérieure : 2 postes.
+6) Ecole supérieure de police : 1 poste
+
+Etablissement, organisme
+
+ou service et localisation géographique |
+
+Emploi |
+
+Catégorie
+
+statutaire
+
+d'emploi |
+
+Durée
+
+de la période
+
+de référence |
+
+Montant ITM
+
+(en euros) |
+
+Nombre
+
+de postes |
+
+ENSP Saint-Cyr-au-Mont-D'or (69) |
+
+Chef de division-Chargé de formation gestion de l'ordre public |
+
+A + |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+7) Direction générale de la sécurité intérieure : 2 postes
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 3 mai 2024 (NOR : IOMC2408451A), les agents affectés précédemment sur un poste ouvrant droit à l'indemnité temporaire de mobilité conservent ce droit pour l'intégralité de la période de référence initialement prévue.
