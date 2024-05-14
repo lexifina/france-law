@@ -1,0 +1,9 @@
+# Réponse à la question n° 11263
+
+- Question : [11263](11263.md) — Question n° 11263 — Éligibilité au mécénat des travaux de transition écologiques pour les MH privés
+
+## Réponse
+
+*JO du 2024-05-14, page 3838*
+
+Les conditions de versement de dons en faveur de la restauration des immeubles protégés au titre des monuments historiques en mains privées sont régies par les dispositions de l'article 200 du code général des impôts, pour les dons effectués par les personnes physiques, et par celles de l'article 238 bis du code général des impôts, pour les dons des entreprises. Ces dispositions précisent notamment que « les dons versés à d'autres fondations ou associations reconnues d'utilité publique agréées par le ministre chargé du budget dont l'objet est culturel, en vue de subventionner la réalisation de travaux de conservation, de restauration ou d'accessibilité de monuments historiques classés ou inscrits, ouvrent droit à la réduction d'impôt (…) ». Ainsi, les dons versés par des personnes physiques ou des entreprises en faveur de monuments historiques appartenant à des personnes privées ne peuvent porter que sur le financement des travaux de restauration des parties de l'édifice protégées à ce titre. Ils sont versés à des fondations qui ont obtenu à cet effet l'agrément du ministre chargé du budget, lesquelles reversent les dons aux propriétaires privés ; elles s'assurent du respect des conditions légales et de la destination des dons. L'extension de l'éligibilité de ces dons aux travaux de rénovation énergétique participerait en effet de la politique publique en faveur de la transition énergétique. Si, sur le principe, cette mesure est acceptable, les conditions et les modalités mériteraient d'être précisées à l'occasion de la préparation d'une prochaine loi de finances.
