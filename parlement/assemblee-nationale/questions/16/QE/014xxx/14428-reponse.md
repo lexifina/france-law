@@ -1,0 +1,9 @@
+# Réponse à la question n° 14428
+
+- Question : [14428](14428.md) — Question n° 14428 — Insuffisance du nombre d'AESH
+
+## Réponse
+
+*JO du 2024-05-14, page 3851*
+
+Lors de la conférence nationale pour le handicap qui s'est tenue le 26 avril 2023, le Président de la République a rappelé que la scolarisation des élèves en situation de handicap demeure une priorité. Depuis de nombreuses années, le ministère de l'éducation nationale et de la jeunesse a engagé une politique inclusive. L'objectif est de rendre les savoirs et les apprentissages accessibles à tous les élèves en situation de handicap et de les accompagner tout au long de leur parcours scolaire. À la rentrée 2023, 470 000 élèves en situation de handicap sont scolarisés en milieu ordinaire, ce qui représente une croissance de 7,8 % par rapport à la rentrée 2022. 65 % d'entre eux bénéficient d'une notification d'aide humaine, soit plus de 305 000 élèves. Plus de 4 000 équivalent temps plein (ETP) d'accompagnants d'élèves en situation de handicap (AESH) ont été créés à cette rentrée, portant l'effectif total des AESH à 85 502 ETP sur notre territoire et répondant ainsi à l'augmentation des notifications d'aide humaine, comme cela a été le cas lors des deux précédentes rentrées scolaires, soit la création de 12 000 ETP en trois ans. À la rentrée 2023, plus de 23 000 enfants notifiés pour une orientation en établissement médico-social n'ont pas été acceptés dans ces établissements ou leurs parents n'ont pas souhaité les y inscrire et sont scolarisés en milieu ordinaire, ce qui nécessite dans de nombreuses situations des ressources en accompagnement. Malgré tout, l'Éducation nationale est très claire auprès des pôles inclusifs d'accompagnement localisé (PIAL) pour respecter les notifications MDPH même si ces pôles sont confrontés à des difficultés de recrutement et doivent gérer les aléas de la vie (congé maladie…) des accompagnants.
