@@ -1,0 +1,9 @@
+# Réponse à la question n° 16486
+
+- Question : [16486](16486.md) — Question n° 16486 — Décret sur le redoublement - Politique et pédagogie
+
+## Réponse
+
+*JO du 2024-05-14, page 3867*
+
+Le décret n° 2024-228 du 16 mars 2024 relatif à l'accompagnement pédagogique des élèves et au redoublement précise les dispositions relatives au redoublement. Il prévoit des dispositifs d'accompagnement pédagogique afin de permettre à l'élève en difficulté de progresser dans ses apprentissages à l'école élémentaire et au collège et ce, afin d'éviter le redoublement. Ainsi, lorsque l'élève rencontre des difficultés importantes, un dialogue renforcé est engagé avec ses représentants légaux et, le cas échéant, un dispositif d'accompagnement pédagogique est immédiatement mis en place au sein de la classe pour lui permettre de progresser dans ses apprentissages. Des actions à destination des élèves en difficulté sont ainsi conduites, tels que les activités pédagogiques complémentaires à l'école, les heures de soutien supplémentaires consacrées à la maîtrise des savoirs fondamentaux dans la limite de deux heures hebdomadaires au collège ou encore les programmes personnalisés de réussite éducative. Les stages de réussite organisés durant les vacances scolaires doivent aussi permettre de mieux pallier les difficultés d'apprentissage de l'élève. Lorsqu'un redoublement est décidé, il a fait l'objet d'un dialogue préalable avec les représentants légaux et l'élève bénéficie d'un dispositif d'accompagnement spécifique. Enfin, à titre exceptionnel, le conseil des maîtres peut se prononcer pour un second redoublement, après avis de l'inspecteur de l'éducation nationale chargé de la circonscription du premier degré. Au collège, en cas d'interruption de scolarité une seconde décision de scolarité peut être prononcée après l'accord préalable du directeur académique des services de l'éducation nationale. Il s'agit toujours d'agir au bénéfice du progrès des élèves.
