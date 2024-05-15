@@ -1,0 +1,31 @@
+# Réponse à la question n° 766
+
+- Question : [766](766.md) — Question n° 766 — Mise en oeuvre de l'impératif de zéro artificialisation nette (ZAN)
+
+## Réponse
+
+*JO du 2024-05-15, page 3522*
+
+ZÉRO ARTIFICIALISATION NETTE
+
+Mme la présidente . La parole est à Mme Anna Pic, pour exposer sa question, no 766, relative à l'objectif zéro artificialisation nette.
+
+Mme Anna Pic . Je souhaite appeler votre attention sur les conséquences de la mise en œuvre de l’impératif zéro artificialisation nette (ZAN) prévu par la loi du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets, dite loi climat et résilience, et adopté dans le cadre de la loi du 20 juillet 2023 visant à faciliter la mise en œuvre des objectifs de lutte contre l’artificialisation des sols et à renforcer l’accompagnement des élus locaux.
+
+Permettez-moi d'évoquer ses conséquences sur le territoire du Cotentin, en particulier dans le canton de Douve Divette. Avant même 2021, dans le cadre de l'élaboration du schéma de cohérence territoriale (Scot) du Pays du Cotentin, le canton de Douve Divette s’était engagé dans une logique de réduction et de densification de son empreinte foncière. Conscients des enjeux environnementaux et de la nécessaire préservation de sols non artificialisés, les élus ont ainsi fait le choix de la densification, notamment en têtes de réseau. Le Scot a établi un périmètre de 39 hectares – contre 61 hectares pendant la période 2010-2020 – consacré à la construction densifiée de logements dans ce territoire.
+
+L'application de l’impératif zéro artificialisation nette a réduit la surface dite consommable à 18 hectares. La loi de 2023, qui confère à l’impératif ZAN un caractère rétroactif, le rend effectif dès le 1er janvier 2021. Cette rétroactivité plonge le territoire de Douve Divette dans une situation quasi impossible, malgré la solidarité remarquée de la ville de Cherbourg-en-Cotentin dans le cadre des négociations de l’agglomération. Alors que les élus anticipaient une baisse ultérieure de leur dotation d’espace constructible, 17,33 hectares sur une dotation de 18 hectares pour la période 2020-2040 ont déjà été consommés. Vous constatez, comme moi, que l’enveloppe est déjà largement entamée. Quels projets ces élus peuvent-ils engager sur vingt ans avec 6 700 mètres carrés ? Cet impératif pénalise les territoires qui avaient initié une démarche d'artificialisation raisonnée.
+
+De plus, de nouveaux développements économiques de la péninsule sont à venir. M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique a récemment annoncé la construction de nouvelles usines dans La Hague. Cela implique l’arrivée de plusieurs centaines, voire milliers de nouveaux travailleurs dans les sites industriels de La Hague. En effet, le taux de chômage du Cotentin est inférieur à 5 % de la population active. Ces travailleurs et leurs familles auront besoin de se loger. Or dans l'agglomération du Cotentin comme ailleurs, le besoin de logements est déjà criant : certaines entreprises sont contraintes d’héberger leurs salariés à l’hôtel. Les maires du canton de Douve Divette ont acheté des terrains afin de construire des logements ; ils ne pourront pas réaliser ce projet. L’impossibilité de construire un habitat densifié, qui entre en contradiction avec le besoin de logements et les futurs besoins de la population, met ces communes en difficulté.
+
+Loin de remettre en cause l'impératif zéro artificialisation nette prévu par la loi « climat et résilience », j’aimerais savoir comment vous comptez répondre à ces injonctions contradictoires faites aux territoires comme Douve Divette. Quels sont les aménagements envisagés pour atteindre l'objectif global sans exercer de pressions intenables et contradictoires sur les collectivités ?
+
+Mme la présidente . La parole est à M. le ministre délégué chargé des transports.
+
+M. Patrice Vergriete, ministre délégué chargé des transports . La loi « climat et résilience » a fixé l'objectif d'atteindre l'absence d'artificialisation nette des sols en 2050. Un objectif intermédiaire de réduction de moitié de la consommation d'espaces naturels agricoles et forestiers a été fixé pour la période 2021 à 2031. Je suis certain que vous partagez cet objectif.
+
+L'édifice législatif et réglementaire nécessaire à la mise en œuvre de cette trajectoire est stabilisé. L'enjeu est désormais de faire comprendre la réforme, afin de la mettre en œuvre de manière progressive, souple et acceptée par tous les acteurs du territoire. Plusieurs outils permettent de décliner cette trajectoire de sobriété foncière selon le contexte local. Cette souplesse est permise par la territorialisation de la trajectoire dans les documents de planification et d'urbanisme. Elle permet d'adapter les efforts de sobriété foncière à la réalité des besoins et aux efforts déjà consentis par le passé, et de veiller à l'équité entre les territoires.
+
+La possibilité de mutualisation à l'échelle nationale, à travers le forfait national, ou à l'échelle régionale ou intercommunale, a été introduite par la loi du 20 juillet 2023. Cette loi offre à chaque commune la possibilité de prévoir une consommation minimale de 1 hectare d'ici 2031, qui peut être mutualisée au niveau intercommunal. En outre, elle a introduit la possibilité de comptabiliser les opérations de renaturation en déduction de la consommation d'espaces naturels agricoles et forestiers dès la première décennie de mise en œuvre de la trajectoire ZAN. Sur votre territoire, ce mécanisme pourrait permettre de compenser les opérations de logement qui ne peuvent être réalisées au sein des espaces déjà urbanisés.
+
+Notre pays traverse une crise inédite du logement. Permettez-moi de redire que la construction de logements n'est pas incompatible avec l'objectif de réduction de l'artificialisation des sols, mais implique de repenser l'aménagement du territoire et d'optimiser la densité des formes urbaines, qu'il s'agisse des zones existantes offrant des marges d'intensification ou de nouvelles constructions. J'en veux pour preuve les territoires qui accueillent de nombreux emplois industriels et se situent néanmoins dans la moyenne de la consommation de foncier. Si un bon repérage est effectué en amont, ils peuvent respecter les enjeux de sobriété foncière.
