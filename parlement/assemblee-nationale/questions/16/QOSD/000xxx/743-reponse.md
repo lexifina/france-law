@@ -1,0 +1,31 @@
+# Réponse à la question n° 743
+
+- Question : [743](743.md) — Question n° 743 — Nuisances sonores et pollutions chimiques générées par l'autoroute A6
+
+## Réponse
+
+*JO du 2024-05-15, page 3524*
+
+AUTOROUTE A6
+
+Mme la présidente . La parole est à Mme Rachel Keke, pour exposer sa question, no 743, relative à l'autoroute A6.
+
+Mme Rachel Keke . L'Haÿ-les-Roses, Fresnes, Chevilly-Larue : quatorze voies de circulation de l'autoroute A6 traversent ces communes de ma circonscription. Chaque jour, plus de 12 000 riverains subissent le bruit et la pollution provoqués par les 300 000 véhicules qui empruntent quotidiennement l'autoroute la plus large d'Europe, qui mène à Paris, au marché de Rungis et à l'aéroport d'Orly.
+
+À proximité de ce tronçon de l'autoroute A6 se trouvent une crèche, un groupe scolaire, un collège, une résidence pour personnes âgées et un complexe sportif. Selon l'association Bruitparif, ces populations vulnérables doivent supporter un bruit d'au moins 80 décibels – soit le niveau sonore d'un aspirateur –, alors même que la limite légale est fixée à 70 décibels en journée. S'exposer à un tel niveau de bruit pendant trente ans, c'est perdre trois années d'espérance de vie. L'enrobé antibruit posé en 2017 et 2018 n'a aujourd'hui plus aucun effet sur les bruits de roulement. Et à ce bruit s'ajoute la pollution : cette autoroute génère à elle seule près de la moitié du bilan carbone l'haÿssien.
+
+Depuis vingt-cinq ans, les résidents se battent, notamment avec l'association l'haÿssienne des Castors du Jardin parisien, pour que l'État agisse afin d'éviter les maladies respiratoires et cardiaques et que ces habitants de banlieue aient eux aussi le droit à la tranquillité et à un monde plus respirable. Mais aujourd'hui, ils sont abandonnés par l'État. Des mesures permettraient pourtant de diminuer le bruit et la pollution sur ce tronçon, comme la requalification de la zone en point noir bruit, l'abaissement de la vitesse, la pose d'un mur antibruit ou de tout autre dispositif efficace allant en ce sens.
+
+Dès le début de mon mandat, j'ai alerté sur cette situation, notamment à travers une question écrite adressée au Gouvernement il y a plus d'un an. J'ai également saisi le préfet de région, M. Marc Guillaume, qui m'a annoncé par un courrier du 12 juillet 2023 l'abaissement de la vitesse maximale autorisée de 90 à 70 kilomètres à l'heure sur les tronçons concernés. Cette décision devait faire l'objet d'une concertation avec le public et les élus de L'Haÿ-les-Roses, pour être appliquée au premier semestre 2024. Un an plus tard, je n'ai toujours pas reçu de réponse à ma question écrite au Gouvernement, la concertation relative à l'abaissement de la vitesse n'a toujours pas eu lieu et la mesure n'est donc toujours pas entrée en vigueur. Pourquoi les engagements pris par l'État en matière d'abaissement de la vitesse sur l'autoroute A6 n'ont-ils pas été tenus ? Quand seront-ils enfin appliqués ?
+
+Mme la présidente . La parole est à M. le secrétaire d'État chargé de la mer et de la biodiversité.
+
+M. Hervé Berville, secrétaire d'État chargé de la mer et de la biodiversité . Tout d'abord, je vous prie de bien vouloir excuser Patrice Vergriete, ministre délégué chargé des transports, qui a dû nous quitter en raison d'une obligation. Vous abordez un sujet essentiel pour les habitants de votre circonscription, en particulier ceux de l'Haÿ-les-Roses. Soyez assurée qu'en tant que gestionnaire de cette partie du réseau routier national, l'État y est attentif et travaille à la réduction des nuisances sonores auxquelles sont exposés les riverains de cette section de l'autoroute A6, qui est bien identifiée comme un secteur à améliorer en priorité au regard des points noirs bruit et du nombre d'habitants concernés.
+
+L'État privilégie la réduction de la pollution sonore à la source par l'installation de murs antibruit ou, dans les zones le justifiant, par le renouvellement des chaussées avec des matériaux adaptés, comme les enrobés phoniques. C'est la solution qui a été utilisée en 2017 sur plus de 1 kilomètre de la section que vous avez mentionnée ; mais, comme vous l'avez souligné, leur efficacité décroît avec le temps. Des études plus précises seront donc engagées d'ici la fin de l'année pour identifier des solutions plus pérennes à déployer en complément des dispositifs de protection acoustique existants afin de réduire l'impact des nuisances sonores liées au transport routier. La réduction de la vitesse maximale autorisée constituant l'une des solutions possibles pour atténuer l'impact de l'infrastructure en matière de bruit, l'État a décidé de lancer, à la fin de l'année, une expérimentation d'abaissement de la vitesse sur certains tronçons autoroutiers proches de Paris. La portion que vous mentionnez pourrait en faire partie.
+
+S'agissant de la pollution atmosphérique, selon les bilans publiés par Airparif, association agréée de surveillance de la qualité de l'air en Île-de-France, la qualité de l'air s'améliore chaque année depuis plusieurs années. Les émissions de dioxyde d'azote et de particules fines, en particulier, ont diminué de plus de 30 % en dix ans. La pollution de l'air est un enjeu clairement identifié dans les démarches de planification aux échelles nationale, régionale et locale. À cet égard, je tiens à souligner que le plan de protection de l'atmosphère pour la région Île-de-France, en cours de révision, était soumis à la consultation du public jusqu'au 10 avril. Ce travail permettra de réduire encore davantage les émissions de polluants liés au secteur des transports routiers, comme les particules fines et le dioxyde de carbone. La préoccupation que vous défendez, qui concerne à la fois la santé et le cadre de vie de nos concitoyens vivant en Île-de-France, est bien une priorité de l'État et du Gouvernement. Nous allons continuer à travailler avec vous pour réduire la pollution et le bruit.
+
+Mme la présidente . La parole est à Mme Rachel Keke.
+
+Mme Rachel Keke . La vitesse sera abaissée sur l'A86. J'espère donc que les engagements pour l'A6 seront tenus l'année prochaine, et que les travaux commenceront enfin. Le bruit, les habitants n'en peuvent plus ! Cela les empêche de dormir, ce qui a des conséquences sur leur santé. J'espère donc que vous tiendrez votre parole.
