@@ -18,7 +18,7 @@ Directeur zonal de la police nationale à Metz.
 
 Directeur zonal de la police nationale à Lyon.
 
-Conseiller stratégie et prospective de la police nationale.
+Directeur zonal de la police nationale à Lille.
 
 Directeur interdépartemental de la police nationale à Marseille.
 
@@ -110,8 +110,6 @@ II.-Emplois de contrôleur général des services actifs de la police nationale
 
 Chef du RAID.
 
-Conseiller, chef du pôle, doctrine, défense, planification et renseignement.
-
 Conseiller, chef du pôle social-ressources humaines.
 
 Directeur de cabinet adjoint, conseiller territorial au cabinet du directeur général de la police nationale.
@@ -120,13 +118,9 @@ Conseiller pour la communication-chef du service d'information et de communicati
 
 Conseiller, chef du pôle des technologies de sécurité intérieure.
 
-Conseiller, chef du pôle judiciaire.
-
 Conseiller, chef du pôle des affaires internationales et européennes.
 
 Conseiller missions de police au cabinet du directeur général de la police nationale.
-
-Directeur zonal de la police nationale à Lille.
 
 Adjoint au chef d'état-major de la police nationale.
 
@@ -324,4 +318,4 @@ Directeur de l'école nationale supérieure de la police.
 
 NOTA :
 
-Conformément au premier alinéa du VI de l’article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur à compter du 1er février 2024.
+Conformément à l’article 3 de l'arrêté du 26 avril 2024 (NOR : IOMC2403984A) ces dispositions entrent en vigueur à compter du 15 mai 2024.
