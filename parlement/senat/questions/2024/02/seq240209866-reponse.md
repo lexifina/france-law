@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240209866
+
+- Question : [SEQ240209866](seq240209866.md) — Prise en charge des enfants à haut potentiel intellectuel à l'école
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2024-05-16, page 2223*
+
+Les élèves dont le haut potentiel a été diagnostiqué via la passation et l'analyse d'un bilan psychométrique par un psychologue ou un neuropsychologue sont des élèves à besoins particuliers qui peuvent bénéficier de dispositifs d'appui à leur scolarisation. Le référent académique (circulaire du 17 octobre 2007) est tenu d'apporter aux responsables académiques et départementaux de formation l'aide nécessaire à la réalisation d'un plan académique de formation. La multiplication de dispositifs de différents types permet de proposer des solutions de plus en plus adaptées aux parcours des élèves, qu'il s'agisse de dispositifs d'appui à la scolarisation ou de dispositifs d'accompagnement des équipes. Par ailleurs, l'accélération de cursus, la mise en oeuvre d'un programme personnalisé de réussite éducative (PPRE), sont autant de leviers. En outre, un vademecum « scolariser l'élève à haut potentiel » à destination des enseignants publié en 2019 contribue à accompagner leur pratique professionnelle. La ministre de l'éducation nationale et de la jeunesse a pleinement conscience que ces adaptations ne parviennent pas à répondre à l'ensemble des besoins des élèves à haut potentiel tout au long de leur parcours. C'est pourquoi un groupe de travail va bientôt se constituer pour d'une part, mettre à jour le vademecum, cartographier les modalités de réponses aux besoins déployées sur les académies par les référents, permettre le partage de pratique et la complétion des réponses, et d'autre part, étoffer l'offre de formation, notamment en direction de l'enseignement secondaire dans le souci de la continuité du parcours de chaque élève.
