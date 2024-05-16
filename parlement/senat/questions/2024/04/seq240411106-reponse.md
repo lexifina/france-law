@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240411106
+
+- Question : [SEQ240411106](seq240411106.md) — Dispositif national de surveillance des mésothéliomes
+
+## Réponse
+
+*Santé et prévention, JO du 2024-05-16, page 2266*
+
+La surveillance nationale des mésothéliomes est une priorité de santé publique. En effet, l'incidence du mésothéliome pleural continue d'augmenter en France, avec un nombre estimé de 1100 nouveaux cas sur la période 2015-2016 dont 27% de femmes. Dans ce contexte, il n'est nullement envisagé de renoncer à cette surveillance qui apporte des éléments de connaissance et d'aide à la décision indispensables à la mise en oeuvre des politiques de santé publique en la matière. L'Agence nationale de santé publique (Santé publique France), chargée de cette surveillance, a rencontré des difficultés techniques pour mettre en oeuvre la stratégie de surveillance qu'elle avait élaborée avec ses partenaires dans le cadre du Dispositif national de surveillance du mésothéliome (DNSM). L'agence souhaite en conséquence ajuster les modalités opérationnelles de cette surveillance afin de résoudre les problèmes rencontrés, notamment en termes d'exigence de sécurisation des données de santé. Le nouveau protocole de surveillance sera disponible en 2024. D'ici 2025, Santé publique France actualisera les indicateurs de surveillance des données collectées entre 2018 et 2023 dans le cadre du Programme national de surveillance des mésothéliomes (PNSM). Elle poursuivra au-delà de 2025 l'actualisation régulière de ces indicateurs autant qu'elle continuera de fournir des éléments sur la caractérisation des expositions à l'amiante identifiées comme étant à l'origine des mésothéliomes. Elle veillera à maintenir et renforcer la prévention tertiaire (reconnaissance et prise en charge des travailleurs atteints d'un mésothéliome).
