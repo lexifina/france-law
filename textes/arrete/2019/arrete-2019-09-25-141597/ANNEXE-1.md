@@ -1,73 +1,79 @@
 # Article ANNEXE 1
 
+ANNEXE 1
+
 LISTES DES VARIABLES À RECUEILLIR
 
-Données administratives :
+I. - Données administratives :
 
-- FINESS juridique ;
+1° FINESS juridique ;
 
-- FINESS géographique ;
+2° FINESS géographique ;
 
-- Identifiant Permanent Patient (IPP) ;
+3° Identifiant Permanent Patient (IPP) ;
 
-- Date de naissance ;
+4° Date de naissance ;
 
-- Sexe ;
+5° Sexe ;
 
-- Date de début de la prise en charge dans le parcours ;
+6° Date de début de la prise en charge dans le parcours ;
 
-- Date de fin la prise en charge dans le parcours ;
+7° Date de fin de la prise en charge dans le parcours ;
 
-- Mode de sortie du patient du parcours ;
+8° Mode de sortie du patient du parcours ;
 
-- Patient bénéficiant de la complémentaire santé solidaire.
+9° Patient bénéficiant de la complémentaire santé solidaire.
 
-Caractéristiques patients :
+II. - Caractéristiques patients :
 
-- Etiologie de la pathologie rénale ;
+1° Etiologie de la pathologie rénale ;
 
-- Stade de la MRC au 1er semestre ;
+2° Stade de la MRC au 1er semestre ;
 
-- DFG au 1er semestre ;
+3° DFG au 1er semestre ;
 
-- Date DFG au 1er semestre ;
+4° Date DFG au 1er semestre ;
 
-- Test protéinurie des 24 heures ou test spot sur protéinurie/créatininurie au 1er semestre ;
+5° Test protéinurie des 24 heures ou test spot sur protéinurie/créatininurie au 1er semestre. A compter du 1er janvier 2025, le test précité est remplacé par Ratio albuminurie sur créatininurie (RAC) au 1er semestre ;
 
-- Stade de la MRC au 2e semestre ;
+6° Stade de la MRC au 2e semestre ;
 
-- DFG au 2e semestre ;
+7° DFG au 2e semestre ;
 
-- Date DFG au 2e semestre ;
+8° Date DFG au 2e semestre ;
 
-- Test protéinurie des 24 heures ou test spot sur protéinurie/créatininurie au 2e semestre ;
+9° Test protéinurie des 24 heures ou test spot sur protéinurie/créatininurie au 2e semestre. A compter du 1er janvier 2025, le test précité est remplacé par Ratio albuminurie sur créatininurie (RAC) au 2e semestre ;
 
-- Complications et comorbidités ;
+10° Complications et comorbidités ;
 
-- Mobilité selon la classification ABM ;
+11° Mobilité selon la classification ABM ;
 
-- Situation sociale du patient, selon les codes de la CIM-10 et la définition associée.
+12° Situation sociale du patient, selon les codes de la CIM-10 et la définition associée.
 
-Activité :
+III. - Activité :
 
-- Nombre de consultations de néphrologue ;
+1° Nombre de consultations individuelles de néphrologue ;
 
-- Nombre de séances avec un diététicien ;
+2° Nombre de séances individuelles avec un diététicien ;
 
-- Nombre de séances avec un IDE ;
+3° Nombre de séances individuelles avec un IDE ;
 
-- Nombre d'entretiens avec une assistance sociale ;
+4° Nombre de séances individuelles avec un infirmier de pratique avancée ;
 
-- Nombre de séances avec un psychologue.
+5° Nombre d'entretiens individuels avec une assistance sociale ;
 
-Résultat :
+6° Nombre de séances individuelles avec un psychologue.
 
-- Antériorité de l'inscription sur la liste d'attente de greffe ;
+IV. - Résultat :
 
-- Réalisation du bilan ;
+1° Eligibilité du patient à un bilan pré-greffe ;
 
-- Résultat du bilan ;
+2° Antériorité de l'inscription sur la liste d'attente de greffe ;
 
-- Envoi d'une lettre de synthèse ;
+3° Engagement dans le bilan pré-greffe ou réalisation du bilan ;
 
-- Transmission de l'email du patient.
+4° Résultat du bilan ;
+
+5° Envoi d'une lettre de synthèse ;
+
+6° Statut de transmission de l'email du patient.
