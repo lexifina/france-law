@@ -1,0 +1,13 @@
+# rapport d'information déposé en application de l'article 146 du règlement, par la commission des finances, de l'économie générale et du contrôle budgétaire sur l’état d’avancement de la mise en œuvre du Fontenoy du maritime par l’École nationale supérieure maritime
+
+- Type : Rapport d'information
+- Sous-type : de contrôle budgétaire de la commission des finances
+- Dénomination : Rapport d'information
+- Provenance : Commission
+- Titre court : rapport d'information déposé en application de l'article 146 du règlement, par la commission des finances, de l'économie générale et du contrôle budgétaire sur l’état d’avancement de la mise en œuvre du Fontenoy du maritime par l’École nationale supérieure maritime
+- Déposé le : 2024-05-16
+- Publié le : 2024-06-24
+- Dossier : DLR5L16N49958
+- Auteurs : Mme Christine Decodts (rapporteur), Commission des finances, de l'économie générale et du contrôle budgétaire
+- Identifiant : RINFANR5L16B2629
+- Législature : 16
