@@ -142,7 +142,7 @@ Présidence de l'Autorité de sûreté nucléaire
 
 |
 
-Commission compétente en matière d'énergie
+Commission compétente en matière de prévention des risques naturels et technologiques
 
 |
 
@@ -280,14 +280,6 @@ Commission compétente en matière d'énergie
 
 |
 
-Présidence du Haut conseil des biotechnologies
-
-|
-
-Commission compétente en matière d'environnement
-
-|
-
 Présidence de la Haute autorité de l'audit |
 
 Commission compétente en matière de finances publiques
@@ -392,6 +384,10 @@ Commission compétente en matière d'activités financières
 
 |
 
+Présidence du conseil d'administration de la société Orano |
+
+Commission compétente en matière d'énergie |
+
 Présidence du conseil d'administration de La Poste
 
 |
@@ -423,3 +419,7 @@ Présidence du conseil d'administration de Voies navigables de France
 Commission compétente en matière de transports
 
 |
+
+NOTA :
+
+Conformément au C du II de l'article de la loi n° 2024-450 du 21 mai 2024, ces dispositions ne s'appliquent pas au mandat de président du conseil d'administration de la société Orano en cours à la date de publication de la présente loi.
