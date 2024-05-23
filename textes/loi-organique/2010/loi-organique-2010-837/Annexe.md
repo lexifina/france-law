@@ -178,11 +178,7 @@ Electricité de France |
 
 Présidence-direction générale |
 
-Haut conseil des biotechnologies |
-
-Présidence |
-
-Haut Conseil du commissariat aux comptes
+Haute autorité de l'audit
 
 |
 
@@ -252,6 +248,10 @@ Société anonyme Bpifrance |
 
 Direction générale |
 
+Société Orano |
+
+Présidence du conseil d'administration |
+
 La Poste |
 
 Présidence du conseil d'administration |
@@ -269,3 +269,7 @@ Direction générale
 Voies navigables de France |
 
 Présidence du conseil d'administration |
+
+NOTA :
+
+Conformément au premier alinéa de l'article 3 de la loi organique n° 2024-448 du 21 mai 2024, ces dispositions ne s'appliquent pas au mandat de président du conseil d'administration de la société Orano en cours à la date de publication de la loi précitée.
