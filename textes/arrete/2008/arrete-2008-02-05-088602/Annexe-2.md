@@ -1,12 +1,12 @@
 # Article Annexe 2
 
-AU 1ER AVRIL 2023
+AU 1ER AVRIL 2024
 
 Tableau 1.-Frais de scolarité
 
 Pays de résidence (rythme sud)
 
-Frais de scolarité (montants annuels) |
+frais de scolarité (montant annuel) |
 
 Enfants de moins
 
@@ -20,81 +20,81 @@ de 15 ans |
 
 ARGENTINE |
 
-7 785 |
+5 868 |
 
-8 240 |
+6 192 |
 
-8 136 |
+6 756 |
 
 BOLIVIE |
 
-5 933 |
+5 856 |
 
-6 620 |
+6 744 |
 
-6 917 |
+7 056 |
 
 BRESIL (Rio) |
 
-9 404 |
+10 692 |
 
-9 782 |
+11 124 |
 
-9 782 |
+11 124 |
 
 BRESIL (Sao Paulo) |
 
-8 898 |
+9 612 |
 
-9 680 |
+10 464 |
 
-9 680 |
+10 464 |
 
 CHILI |
 
-7 953 |
+6 684 |
 
-7 953 |
+6 684 |
 
-7 953 |
+6 684 |
 
 COSTA RICA |
 
-5 832 |
+5 724 |
 
-5 832 |
+5 724 |
 
-5 832 |
+5 724 |
 
 PEROU |
 
-7 413 |
+6 924 |
 
-7 165 |
+6 924 |
 
-7 165 |
+6 924 |
 
 URUGUAY |
 
-8 891 |
+9 384 |
 
-9 637 |
+10 176 |
 
-10 078 |
+10 644 |
 
 VANUATU |
 
-4 900 |
+4 800 |
 
-5 612 |
+5 448 |
 
-6 185 |
+6 024 |
 
 Tableau 2.-Droits de première inscription
 
 Pays de résidence (rythme sud)
 
-Droits de première inscription (montants annuels) |
+Droit de première inscription (montant annuel) |
 
 Enfants de moins
 
@@ -108,39 +108,39 @@ de 15 ans |
 
 ARGENTINE |
 
-581 |
+301 |
 
-581 |
+301 |
 
-581 |
+301 |
 
 BOLIVIE |
 
-2 283 |
+2 241 |
 
-2 283 |
+2 241 |
 
-1 643 |
+2 241 |
 
 BRESIL (Rio) |
 
-724 |
+831 |
 
-755 |
+867 |
 
-755 |
+867 |
 
 CHILI |
 
-4 080 |
+3 477 |
 
-4 080 |
+3 477 |
 
-4 080 |
+3 477 |
 
 PEROU |
 
-930 |
+1 934 |
 
 558 |
 
@@ -148,12 +148,12 @@ PEROU |
 
 VANUATU |
 
-648 |
+617 |
 
-648 |
+617 |
 
-648 |
+617 |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 25 avril 2023 (NOR : EAEA2309047A), ces dispositions prennent effet le 1er avril 2023.
+Conformément à l'article 2 de l'arrêté du 13 mai 2024 (NOR : EAEA2410159A), ces dispositions prennent effet le 1er avril 2024.
