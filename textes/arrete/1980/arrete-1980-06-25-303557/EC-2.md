@@ -13,3 +13,5 @@ Règles générales
 § 2. L'éclairage doit être électrique.
 
 Les installations d'éclairage électrique doivent être conçues, réalisées et entretenues conformément aux dispositions du chapitre VII du présent titre et répondre, en outre, aux conditions ci-après.
+
+§ 3. Les équipements de l'éclairage de sécurité présentent toutes les garanties de bon fonctionnement.

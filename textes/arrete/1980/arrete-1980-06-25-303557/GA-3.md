@@ -53,3 +53,15 @@ Est également considéré "zone hors sinistre" un volume répondant aux disposi
 - l'ensemble du public se trouve à l'abri des effets thermiques et à l'abri des fumées générées par un sinistre ;
 
 - il est possible de gagner l'extérieur par au moins deux dégagements.
+
+3.8. Conducteur ou câble électrique de faibles fumées :
+
+Un câble est réputé garantir de faibles fumées lorsque la valeur de transmittance lumineuse du câble déterminée selon la norme NF EN 61034-2 : 2005 est supérieure à 60 %.
+
+3.9. Conducteur ou câble électrique de faible corrosivité :
+
+Un câble est réputé garantir une faible corrosivité lorsque la valeur du pH de la solution aqueuse testée, résultant des gaz de combustion, est supérieure ou égale à 4,3 et que la valeur de la conductivité est inférieure ou égale à dix microsiemens par millimètre. Ces deux valeurs sont déterminées selon la norme NF EN 60754-2 : 2014.
+
+3.10. Conducteur ou câble électrique sans halogène :
+
+Un câble est réputé sans halogène lorsque le contenu de gaz d'acide d'halogène déterminé selon la norme NF EN 60754-1 : 2014 est inférieur ou égal à cinq milligrammes d'acide chlorhydrique par gramme.

@@ -282,11 +282,11 @@ Aucun local ne débouche directement dans le volume d'un escalier encloisonné o
 
 8.1.2.1. Définition
 
-L'espace sous vigie constitue un compartiment dans lequel débouchent l'escalier et les ascenseurs venant du niveau d'accès de la tour et dans lequel prennent naissance les communications verticales menant au podium de la vigie. Cet espace peut comporter des " locaux de vie " du personnel de vigie, pouvant notamment disposer d'éléments de cuisson et de remise en température dont la puissance cumulée est limitée à 3,5 kW.
+L'espace sous vigie constitue un compartiment dans lequel débouchent l'escalier et les ascenseurs venant du niveau d'accès de la tour et dans lequel prennent naissance les communications verticales menant au podium de la vigie. Cet espace peut comporter des "locaux de vie" du personnel de vigie, pouvant notamment disposer d'éléments de cuisson et de remise en température dont la puissance cumulée est limitée à 3,5 kW.
 
 8.1.2.2. Exigences
 
-Les " locaux de vie " situés dans l'espace sous vigie, sont isolés du palier de distribution du niveau par des parois coupe-feu de degré une heure ou EI 60 et des blocs-portes coupe-feu de degré une demi-heure, munis de ferme-porte ou EI 30-C.
+Les "locaux de vie" situés dans l'espace sous vigie, sont isolés du palier de distribution du niveau par des parois coupe-feu de degré une heure ou EI 60 et des blocs-portes coupe-feu de degré une demi-heure, munis de ferme-porte ou EI 30-C.
 
 L'escalier menant à la vigie dispose d'un bloc-porte d'isolement pare-flammes de degré une demi-heure, équipé d'un ferme-porte ou E 30-C s'ouvrant dans le sens de l'évacuation depuis la vigie.
 
@@ -304,7 +304,7 @@ Les locaux à risques importants sont :
 
 - les postes de transformation ;
 
-- les locaux électriques " Haute tension ".
+- les locaux électriques "Haute tension".
 
 Ces locaux sont isolés par des parois et planchers coupe-feu de degré deux heures, EI 120 ou REI 120 et des blocs-portes coupe-feu de degré une heure, munis de ferme-porte ou EI 60-C. Ils sont isolés des dégagements par des dispositifs d'intercommunication.
 
@@ -456,8 +456,6 @@ XIV. - Installations électriques
 
 14.1. Généralités
 
-Les installations électriques sont réalisées conformément aux décrets, arrêtés, et en particulier aux dispositions des articles du chapitre VII du règlement de sécurité des établissements recevant du public.
-
 Les câbles électriques répondent aux articles 4 et 5 de l'arrêté du 21 juillet 1994 modifié portant classification et attestation de conformité du comportement au feu des conducteurs et câbles électriques et agrément des laboratoires d'essai.
 
 L'ensemble des canalisations et équipements est installé de manière que l'on puisse facilement en tout temps localiser les défauts et remplacer les matériels et conducteurs détériorés.
@@ -500,7 +498,7 @@ Les installations de sécurité comprennent :
 
 Ces équipements de sécurité incendie sont maintenus en service pendant toute la durée du sinistre avec un minimum de une heure.
 
-Les installations de sécurité sont alimentées, à partir d'un tableau dit " de sécurité ", propre à la tour de contrôle.
+Les installations de sécurité sont alimentées, à partir d'un tableau dit "de sécurité", propre à la tour de contrôle.
 
 Les installations de sécurité répondent aux dispositions prescrites à la section III du chapitre VII du règlement de sécurité des établissements recevant du public.
 
@@ -700,19 +698,25 @@ Moyens d'extinction et systèmes de sécurité incendie
 
 Chauffage/ventilation/désenfumage (dont la fonctionnalité des clapets et volets coupe-feu)
 
-Paratonnerre |
+Paratonnerre
+
+|
 
 Par un technicien compétent ou organisme agréé |
 
 Tous les 3 ans |
 
-Système de sécurité incendie de catégorie A |
+Système de sécurité incendie de catégorie A
+
+|
 
 Par un organisme agréé |
 
 Tous les 4 ans |
 
-Paratonnerre |
+Paratonnerre
+
+|
 
 Par un organisme agréé |
 

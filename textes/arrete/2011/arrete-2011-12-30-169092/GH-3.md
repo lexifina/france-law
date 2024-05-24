@@ -24,7 +24,7 @@ Lorsqu'une exigence de résistance au feu exprimée selon les classes européenn
 
 -ascenseur : appareil qui dessert des niveaux définis, à l'aide d'une cabine qui se déplace soit le long de guides rigides soit selon une course parfaitement définie dans l'espace en l'absence de tels guides. Il est destiné au transport de personnes, de personnes et d'objets, d'objets, uniquement si la cabine est accessible, c'est-à-dire si une personne peut y pénétrer sans difficulté, et qu'elle est équipée d'éléments de commande situés à l'intérieur de la cabine ou à la portée de la personne qui s'y trouve ;
 
--câble non propagateur de l'incendie ou C1, câble non propagateur de la flamme ou C2, câble résistant au feu ou CR 1 : les classifications de comportement au feu des câbles et conducteurs électriques (C1, C2, C3, CR 1, CR 2) lors d'incendie d'origine extérieure aux câbles, auxquelles se réfère le présent règlement, sont fixées par l'arrêté du 21 juillet 1994 modifié portant classification et attestation du comportement au feu des conducteurs et câbles électriques, et agrément des laboratoires d'essais ;
+-câble résistant au feu : les conditions d'essais et de classification du point de vue de la résistance au feu des câbles et conducteurs électriques sont fixées par l'arrêté du 21 juillet 1994 modifié (NOR : INTE9400390A) ;
 
 -canalisation électrique : ensemble constitué par un ou plusieurs conducteurs électriques et par les éléments assurant leur fixation ainsi que, le cas échéant, par leur protection mécanique ;
 

@@ -6,7 +6,7 @@ Règles de conception et d'installation
 
 Les dégagements ne doivent pas pouvoir être plongés dans l'obscurité totale à partir des dispositifs de commande accessibles au public ou aux personnes non autorisées ou à partir de détecteurs de présence ou de mouvement.
 
-§ 2. Le schéma général unifilaire de l'éclairage normal doit être conçu de façon à permettre les coupures générales ou divisionnaires des circuits spécifiques à l'éclairage normal des dégagements et des locaux nécessitant un éclairage de sécurité. Cette disposition permet la réalisation de la mesure visée à l'article EC 12, § 6.
+§ 2. Le schéma général unifilaire de l'éclairage normal doit être conçu de façon à permettre les coupures générales ou divisionnaires des circuits spécifiques à l'éclairage normal des dégagements et des locaux nécessitant un éclairage de sécurité. Cette disposition permet la réalisation de la mesure visée à l'article EC 12.
 
 § 3. Dans le cas d'une gestion automatique centralisé de l'éclairage, toute défaillance de la commande centralisée doit entraîner ou maintenir le fonctionnement de l'éclairage normal.
 
