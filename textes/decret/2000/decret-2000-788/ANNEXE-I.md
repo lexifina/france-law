@@ -38,7 +38,7 @@ Décret n° 95-869 du 2 août 1995 fixant le statut particulier des personnels d
 
 Décret n° 95-888 du 7 août 1995 fixant les dispositions statutaires communes applicables aux attachés d'administration centrale.
 
-Décret n° 2016-1195 du 2 septembre 2016 portant statut particulier du corps des attachés statisticiens de l'Institut national de la statistique et des études économiques .
+Décret n° 2016-1195 du 2 septembre 2016 portant statut particulier du corps des attachés statisticiens de l'Institut national de la statistique et des études économiques.
 
 VII.-Ministère de la défense
 
@@ -50,7 +50,7 @@ Décret n° 70-831 du 3 septembre 1970 relatif au statut particulier du corps de
 
 Décret n° 71-345 du 5 mai 1971 modifié relatif au statut particulier du corps des ingénieurs des travaux publics de l'Etat (service de l'équipement).
 
-Décret n° 73-264 du 6 mars 1973 modifié relatif au statut particulier des ingénieurs des travaux géographiques et cartographiques de l'Etat.
+Décret n° 73-264 du 6 mars 1973 modifié relatif au statut particulier des ingénieurs des sciences géographiques et du numérique de l'Institut national de l'information géographique et forestière.
 
 Décret n° 95-888 du 7 août 1995 fixant les dispositions statutaires communes applicables aux attachés d'administration centrale.
 

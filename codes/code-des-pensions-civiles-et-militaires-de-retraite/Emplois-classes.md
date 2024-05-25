@@ -616,7 +616,7 @@ Géomètre principal de l'I. G. N.
 
 |
 
-Ingénieur des travaux géographiques et cartographiques de l'Etat (1)
+Ingénieur des sciences géographiques et du numérique (1)
 
 |
 
@@ -652,7 +652,7 @@ Catégorie A
 
 |
 
-Ingénieur divisionnaire des travaux géographiques et cartographiques de l'Etat (1)
+Ingénieur divisionnaire des sciences géographiques et du numérique (1)
 
 |
 

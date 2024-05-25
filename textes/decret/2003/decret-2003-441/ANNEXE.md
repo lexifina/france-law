@@ -4,7 +4,7 @@ Catégorie A
 
 Ingénieurs des travaux publics de l'Etat.
 
-Ingénieurs des travaux géographiques et cartographiques de l'Etat.
+Ingénieurs des sciences géographiques et du numérique de l'Institut national de l'information géographique et forestière.
 
 Personnels administratifs supérieurs des services déconcentrés de l'équipement.
 
@@ -16,7 +16,7 @@ Catégorie B
 
 Techniciens supérieurs de l'équipement.
 
-Géomètres de l' Institut national de l'information géographique et forestière.
+Géomètres de l'Institut national de l'information géographique et forestière.
 
 Contrôleurs des affaires maritimes.
 

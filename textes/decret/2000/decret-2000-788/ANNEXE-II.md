@@ -2,7 +2,7 @@
 
 I.-Services du Premier ministre
 
-( Centre d'analyse stratégique)
+(Centre d'analyse stratégique)
 
 CATÉGORIES D'AGENTS
 
@@ -112,7 +112,7 @@ CORPS DE FONCTIONNAIRES
 
 Agents non titulaires du niveau de la catégorie A réemployés ou rattachés :
 
-- à l'administration centrale du ministère de l'éducation nationale, de la recherche et de la technologie ;
+-à l'administration centrale du ministère de l'éducation nationale, de la recherche et de la technologie ;
 
 |
 
@@ -120,17 +120,17 @@ Agents non titulaires du niveau de la catégorie A réemployés ou rattachés :
 
 Autres fonctions (études, coordination ou expertise).
 
-- Fonctions correspondant à l'une des spécialités des branches d'activité professionnelle fixées par l'arrêté prévu à l'article 9 du décret n° 85-1534 du 31 décembre 1985 visé à l'annexe I.
+-Fonctions correspondant à l'une des spécialités des branches d'activité professionnelle fixées par l'arrêté prévu à l'article 9 du décret n° 85-1534 du 31 décembre 1985 visé à l'annexe I.
 
-- Fonctions correspondant à l'une des spécialités de la branche d'activité professionnelle 8 fixées par l'arrêté prévu à l'article 9 du décret précité, dans lesquelles sont recrutés les assistants ingénieurs de recherche et de formation.
+-Fonctions correspondant à l'une des spécialités de la branche d'activité professionnelle 8 fixées par l'arrêté prévu à l'article 9 du décret précité, dans lesquelles sont recrutés les assistants ingénieurs de recherche et de formation.
 
-- Fonctions correspondant à l'une des spécialités des branches d'activité professionnelle fixées, pour chaque établissement, par arrêté dans les conditions prévues à l'article 61 du décret n° 83-1260 du 30 décembre 1983 visé à l'annexe I.
+-Fonctions correspondant à l'une des spécialités des branches d'activité professionnelle fixées, pour chaque établissement, par arrêté dans les conditions prévues à l'article 61 du décret n° 83-1260 du 30 décembre 1983 visé à l'annexe I.
 
 |
 
 Attachés d'administration centrale du ministère de l'éducation nationale, de la recherche et de la technologie.
 
-- dans les établissements publics d'enseignement supérieur ;
+-dans les établissements publics d'enseignement supérieur ;
 
 Ingénieurs d'études de recherche et de formation.
 
@@ -190,19 +190,19 @@ Agents non titulaires du niveau de la catégorie A réemployés ou rattachés au
 
 |
 
-- Fonctions administratives (conception, encadrement).
+-Fonctions administratives (conception, encadrement).
 
 Fonctions informatiques.
 
 Autres fonctions (études, coordination ou expertise).
 
-- Fonctions de statisticien.
+-Fonctions de statisticien.
 
 -Fonctions comptables.
 
-- Participation aux différents travaux relevant des missions confiées aux personnels scientifiques des laboratoires de la concurrence, de la consommation et de la répression des fraudes.
+-Participation aux différents travaux relevant des missions confiées aux personnels scientifiques des laboratoires de la concurrence, de la consommation et de la répression des fraudes.
 
-- Fonctions d'ingénieur.
+-Fonctions d'ingénieur.
 
 |
 
@@ -282,7 +282,7 @@ Autres fonctions (études, coordination ou expertise) :
 
 -Fonctions techniques.
 
--Participation aux différents travaux relevant des missions confiées aux ingénieurs des travaux géographiques et cartographiques de l'État.
+-Participation aux différents travaux relevant des missions confiées aux ingénieurs des sciences géographiques et du numérique de l'Institut national de l'information géographique et forestière.
 
 -Fonctions administratives.
 
@@ -296,7 +296,7 @@ Personnels administratifs supérieurs des services déconcentrés du ministère 
 
 Ingénieurs des travaux publics de l'État.
 
-Ingénieurs des travaux géographiques et cartographiques de l'État.
+Ingénieurs des sciences géographiques et du numérique de l'Institut national de l'information géographique et forestière.
 
 Inspecteurs des affaires maritimes.
 

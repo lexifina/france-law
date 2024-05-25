@@ -20,11 +20,11 @@ Agents non titulaires hors catégorie et de 1re catégorie du ministère de l'in
 
 |
 
-Fonctions administratives. - Encadrement-rédaction :
+Fonctions administratives.-Encadrement-rédaction :
 
-- exercées en administration centrale
+-exercées en administration centrale
 
-- exercées en préfecture
+-exercées en préfecture
 
 |
 
@@ -38,11 +38,11 @@ Agents non titulaires de 1re catégorie du ministère de l'intérieur, issus de 
 
 |
 
-Fonctions administratives. - Encadrement-rédaction :
+Fonctions administratives.-Encadrement-rédaction :
 
-- exercées en administration centrale
+-exercées en administration centrale
 
-- exercées en préfecture
+-exercées en préfecture
 
 |
 
@@ -56,11 +56,11 @@ Agents hors catégorie, de 1re et de 2e catégorie, issus du service national d'
 
 |
 
-Fonctions administratives. - Encadrement-rédaction :
+Fonctions administratives.-Encadrement-rédaction :
 
-- exercées en administration centrale
+-exercées en administration centrale
 
-- exercées en préfecture
+-exercées en préfecture
 
 |
 
@@ -76,7 +76,7 @@ Agents non titulaires exerçant des fonctions du niveau de la catégorie A régi
 
 Fonctions d'études, de coordination ou d'expertise :
 
-- exercées en préfecture
+-exercées en préfecture
 
 Fonctions techniques
 
@@ -88,7 +88,7 @@ Attaché de préfecture.
 
 Ingénieur des travaux publics de l'État.
 
-Ingénieur des travaux géographiques et cartographiques de l'État.
+Ingénieur des sciences géographiques et du numérique de l'Institut national de l'information géographique et forestière.
 
 |
 
@@ -98,7 +98,7 @@ Agents non titulaires de niveaux A 1 et A 2 des services d'études des secrétar
 
 Fonctions d'études, de coordination ou d'expertise :
 
-- exercées en préfecture
+-exercées en préfecture
 
 Fonctions techniques
 
@@ -116,7 +116,7 @@ Agents non titulaires hors catégorie et de 1re catégorie des services d'étude
 
 Fonctions d'études, de coordination ou d'expertise :
 
-- exercées en préfecture
+-exercées en préfecture
 
 Fonctions techniques
 
