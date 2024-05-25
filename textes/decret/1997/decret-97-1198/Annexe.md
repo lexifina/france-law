@@ -968,7 +968,7 @@ Ministre chargé de la marine marchande |
 
 41 |
 
-Décisions relatives à la francisation et l'immatriculation constituant l'enregistrement des navires du registre international français, ainsi que les sorties de flotte et les mutations de propriété de ces navires. |
+Décisions relatives à la francisation et l'immatriculation constituant l'enregistrement des navires du registre international français et des drones maritimes, ainsi que les sorties de flotte et les mutations de propriété de ces navires et drones. |
 
 Décret n° 2006-142 du 10 février 2006
 
@@ -1192,7 +1192,7 @@ transport maritime |
 
 61 |
 
-L'enregistrement des hypothèques et saisies des navires immatriculés au registre international français et la publicité de ces hypothèques et saisies. |
+L'enregistrement des hypothèques et saisies des navires immatriculés au registre international français et des drones maritimes enregistrés au registre des drones maritimes sous pavillon français et la publicité de ces hypothèques et saisies. |
 
 Décret n° 2006-142 du 10 février 2006,
 
@@ -1232,7 +1232,7 @@ Ministre chargé de la mer |
 
 65 |
 
-Agrément spécial prévu au 1 de l'article L. 5112-1-3 du code des transports dans le cas des navires immatriculés au registre international français. |
+Agrément spécial prévu au 1 de l'article L. 5112-1-3 du code des transports dans le cas des navires immatriculés au registre international français et des drones maritimes enregistrés au registre des drones maritimes sous pavillon français. |
 
 Code des transports,
 
