@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_041 — DELIBERATION 2024-41 ADOPTION CONVENTION DE GESTION SALLE INTERCOMMUNALE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-05-27
+- Matière : 1.3 Commande Publique/Conventions de Mandat
+- Objet : DELIBERATION 2024-41 ADOPTION CONVENTION DE GESTION SALLE INTERCOMMUNALE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/a3e2d203f050d6571b19a060c466df833ba89dc3ef96c5c511d0e534b76c5859.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
