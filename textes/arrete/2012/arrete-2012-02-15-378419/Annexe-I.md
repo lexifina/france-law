@@ -2,606 +2,224 @@
 
 CONCOURS D'ACCÈS AU CYCLE DE FORMATION DES ÉLÈVES ATTACHÉS D'ADMINISTRATION HOSPITALIÈRE
 
-PROGRAMME DE LA TROISIÈME ÉPREUVE ÉCRITE D'ADMISSIBILITÉ ET DE LA DEUXIÈME ÉPREUVE D'ADMISSION
+PROGRAMME DE LA PREMIÈRE ÉPREUVE ÉCRITE D'ADMISSIBILITÉ
 
-Ce programme est commun aux trois concours.
+I. - CULTURE ADMINISTRATIVE ET JURIDIQUE
 
-DROIT HOSPITALIER
+A. - Droit constitutionnel
 
-Introduction
+1. La Constitution et la hiérarchie des normes ;
 
-Evolution historique et caractéristiques de l'organisation hospitalière française.
+2. Le Conseil constitutionnel ;
 
-L'établissement public de santé dans son environnement économique.
+3. Le pouvoir exécutif :
 
-Notions d'organisation hospitalière dans les principaux pays européens.
+- le Président de la République ;
 
-I.-Organisation hospitalière française
+- le Gouvernement.
 
-1.1. Les missions de service public :
+4. Le pouvoir législatif :
 
--le champ des missions ;
+- le Parlement ;
 
--les acteurs de santé attributaires d'une mission de service public ;
+- la procédure législative ordinaire ;
 
--les missions de service public et l'organisation régionale de l'offre de soins ;
+- le contrôle de l'action du Gouvernement et l'évaluation des politiques publiques.
 
--les attributions des missions de service public et ses effets.
+B. - Institutions administratives
 
-1.2. Les moyens mis en place :
+1. L'administration de l'Etat :
 
--les territoires de santé et la planification sanitaire ;
+- administration centrale ;
 
--le régime des autorisations ;
+- autorités indépendantes et organes centraux de conseil et de contrôle (Défenseur des droits, Conseil économique, social et environnemental, Conseil d'Etat, Cour des comptes) ;
 
--les organes de concertation et de coopération interhospitalière ;
+- administration territoriale de l'Etat et déconcentration ;
 
--l'instrumentation juridique traditionnelle : communautés d'établissements ; groupements d'intérêt public (GIP) et d'intérêt économique (GIE) ; groupements de coopération sanitaire (GCS) ; communauté hospitalière de territoire (CHT) ;
+- les juridictions administratives ;
 
--l'évaluation des soins : la Haute Autorité de santé (HAS), le développement professionnel continu (DPC), la certification des établissements de santé, l'accréditation des médecins.
+- la réforme de l'Etat depuis 20 ans.
 
-II.-L'organisation de l'établissement public de santé
+2. Les collectivités territoriales :
 
-2.1. L'organisation administrative :
+- la libre administration des collectivités territoriales et la décentralisation (grandes étapes et principes généraux) ;
 
--le statut juridique de l'établissement public de santé (EPS) ;
+- les formes de collectivités territoriales et de coopération intercommunale et leurs attributions ;
 
--création, transformation, suppression des EPS ;
+- les contrôles sur les collectivités territoriales ;
 
--les principes de l'organisation interne ;
+- la réforme des collectivités territoriales depuis 2014.
 
--les organes de décision à l'EPS ;
+C. - Droit administratif
 
--les instances.
+1. L'action administrative :
 
-2.2. L'organisation médicale :
+- les grands principes du service public, la notion de service public, l'intérêt général ;
 
--les pôles et leurs structures internes ;
+- la procédure administrative non contentieuse (consultation, motivation, transparence) ;
 
--la contractualisation interne ;
+- le contrôle de légalité ;
 
--les contrôles et la tutelle exercés par l'Etat et par les agences régionales de santé.
+- le pouvoir réglementaire ;
 
-III.-Les statuts des personnels
+- les actes administratifs unilatéraux et les contrats administratifs.
 
-3.1. Le personnel médical :
+2. Les grands principes du contentieux administratif et de la responsabilité administrative
 
--la démographie médicale hospitalière ;
+D. - Gestion des ressources humaines dans les administrations publiques
 
--les praticiens exerçant à temps plein ou à temps partiel ;
+1. Les principes généraux du statut général des fonctionnaires et leur application ;
 
--les personnels hospitalo-universitaires ;
+2. Droits et obligations du fonctionnaire, déontologie et discipline.
 
--les praticiens attachés ;
+II. - FINANCES PUBLIQUES
 
--les internes ;
+A. - L'approche globale des finances publiques
 
--les études médicales à l'hôpital ;
+1. Les grands principes finances publiques : annualité, unité, universalité, spécialité, sincérité ;
 
--les consultants ;
+2. Le pilotage des finances publiques :
 
--les sages-femmes.
+- gouvernance financière et budgétaire de la zone euro ;
 
-3.2. Le personnel non médical :
+- incidences économiques des mesures budgétaires et fiscales ;
 
-La démographie des personnels hospitaliers non médicaux.
+- la maîtrise des finances publiques.
 
-3.2.1. Les règles générales :
+3. Les acteurs des finances publiques :
 
--les droits et obligations des fonctionnaires hospitaliers (titres Ier et IV) ;
+- les gestionnaires, ordonnateurs et comptables ;
 
--le Conseil supérieur de la fonction publique hospitalière ;
+- les juridictions financières.
 
--les outils de la formation des personnels.
+B. - Le budget de l'Etat
 
-3.2.2. Notions sur les statuts particuliers :
+1. Les lois de finances :
 
--les personnels administratifs dont les personnels de direction ;
+- les différentes catégories de lois de finances ;
 
--les personnels techniques et ouvriers ;
+- la loi organique relative aux lois de finances du 1er août 2001 ;
 
--les personnels des services de soins, médico-techniques et de rééducation et les directeurs des soins ;
+- loi de finances et loi de programmation des finances publiques ;
 
--les personnels socio-éducatifs ;
+- préparation et adoption des projets de loi de finances ;
 
--les psychologues.
+- contenu et structure des lois de finances ;
 
-IV.-Le statut du malade et l'éthique dans le monde hospitalier
+- exécution et contrôle des lois de finances.
 
-4.1. Le malade hospitalisé :
+2. Les ressources :
 
--la charte du malade hospitalisé : le cadre de la loi du 4 mars 2002 ;
+- les différentes ressources fiscales de l'Etat ;
 
--l'éthique en milieu hospitalier ;
+- les ressources d'emprunts ;
 
--le Comité national d'éthique ;
+- les autres ressources.
 
--le respect du secret médical et sa protection en EPS ;
+3. Les dépenses :
 
--les règles spécifiques à la santé mentale et ses évolutions récentes ;
+- la nouvelle architecture budgétaire par missions et par programmes ;
 
--les prélèvements d'organes.
+- la nomenclature budgétaire par destination et par nature ;
 
-4.2. Le malade non hospitalisé :
+- la portée et les modifications apportées en cours d'exécution à l'autorisation initiale de dépenser.
 
--les consultations externes.
+4. La gestion budgétaire :
 
-V.-Le fonctionnement économique et financier
+- le déficit, l'emprunt, la dette ;
 
-5.1. Les modalités d'allocation des ressources :
+- les textes réglementaires relatifs à la gestion budgétaire et comptable publique.
 
--la tarification à l'activité : T2A (principes, champs d'application et modalités de mise en œuvre) ;
+III. - ORGANISATION, FONCTIONNEMENT ET POLITIQUES DES INSTITUTIONS EUROPÉENNES
 
--les autres sources de financement des activités sanitaires des EPS (MIGAC, DAF, produits des tarifications journalières, forfait journalier, autres recettes ...) ;
+A. - Les grandes étapes de la construction européenne et les différents élargissements
 
--le financement des activités sociales et médico-sociales gérées par les EPS ;
+1. Les traités ;
 
--le régime comptable des EPS ;
+2. Les Etats membres.
 
--la séparation de l'ordonnateur et du comptable ;
+B. - Les aspects institutionnels et financiers de l'Union européenne
 
--la procédure et les documents budgétaires des EPS :
+1. Adhésion et retrait de l'Union européenne ;
 
--le financement des investissements : le plan global de financement pluriannuel (PGFP) ;
+2. Composition et attributions des institutions de l'Union européenne ;
 
--l'annualité budgétaire : l'état prévisionnel des recettes et des dépenses (EPRD) et ses annexes ;
+3. Processus décisionnels au sein des institutions de l'Union européenne et rôle des parlements nationaux ;
 
--les équilibres financiers : tableau de financement, capacité d'autofinancement (CAF), fonds de roulement (FDR), besoin en fonds de roulement (BFR) et trésorerie.
+4. Principes généraux du budget de l'Union européenne et de la contribution financière des Etats membres.
 
-5.2. Gestion économique :
+C. - Les principales politiques
 
--le comptable matière ;
+1. Les libertés de circulation (travailleurs, marchandises, services, capitaux) ;
 
--l'achat public.
+2. La politique agricole commune (PAC) et le développement rural ;
 
-VI.-La responsabilité des établissements publics de santé
+3. La politique régionale ;
 
-Responsabilité des établissements.
+4. La politique commerciale commune ;
 
-Responsabilité des personnels hospitaliers.
+5. La politique économique et monétaire ;
 
-Principes généraux de la responsabilité administrative du secteur hospitalier :
+6. La politique étrangère et de sécurité commune (PESC) ;
 
--problème de compétence ;
+7. La politique sociale.
 
--fondements de la responsabilité ;
+D. - La protection des droits fondamentaux
 
--évolution législative et jurisprudentielle du régime de la responsabilité hospitalière ;
+1. Les valeurs de l'Union européenne et leur protection ;
 
--l'indemnisation des malades, rôle des commissions régionales de conciliation et d'indemnisation (CRCI).
+2. La Charte des droits fondamentaux de l'Union européenne et la Cour de justice de l'Union européenne ;
 
-Droit public
+3. La Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales et la Cour européenne des droits de l'homme.
 
-I. ― Les sources du droit public
+IV. - DROIT HOSPITALIER
 
-La Constitution et le bloc de constitutionnalité.
+A. - Généralités
 
-Le contrôle de constitutionnalité.
+1. Evolution historique et caractéristiques de l'organisation hospitalière française ;
 
-Les textes internationaux.
+2. L'établissement public de santé dans son environnement économique ;
 
-Le droit de l'Union européenne.
+3. Notions d'organisation hospitalière dans les principaux pays européens.
 
-La loi.
+B. - Organisation hospitalière française
 
-Principe de légalité et contrôle de légalité.
+1. Les missions de service public ;
 
-Le pouvoir réglementaire.
+2. Les moyens mis en place.
 
-La jurisprudence constitutionnelle et administrative.
+C. - L'organisation de l'établissement public de santé
 
-II. ― Institutions politiques et droit constitutionnel
+1. Organisation administrative ;
 
-Théorie constitutionnelle et institutions politiques comparées :
+2. Organisation médicale.
 
-― la souveraineté et ses modes d'expression ;
+D. - Les statuts des personnels
 
-― les régimes électoraux ;
+1. Le personnel médical ;
 
-― histoire constitutionnelle depuis 1789 ;
+2. Le personnel non médical ;
 
-― les institutions politiques issues de la Constitution du 4 octobre 1958.
+3. La démographie des personnels hospitaliers non médicaux ;
 
-III. ― Droit administratif
+4. Les droits et obligations des fonctionnaires hospitaliers.
 
-3.1. L'organisation administrative :
+E. - Le statut du malade et l'éthique dans le monde hospitalier
 
-― l'administration de l'Etat : administration centrale, administration déconcentrée ;
+1. Le malade hospitalisé ;
 
-― les relations juridiques entre personnes publiques (centralisation, déconcentration et décentralisation) ;
+2. Le malade non hospitalisé.
 
-― les relations des citoyens avec les administrations ;
+F. - Le fonctionnement économique et financier
 
-― les collectivités territoriales ;
+1. Les modalités d'allocation des ressources ;
 
-― les établissements publics, les groupements d'intérêt public, les opérateurs de l'Etat ;
+2. Gestion économique.
 
-― les autorités administratives et publiques indépendantes.
+G. - La responsabilité des établissements publics de santé
 
-3.2. La juridiction administrative :
+1. Responsabilité des établissements ;
 
-― l'organisation ;
+2. Responsabilité des personnels hospitaliers ;
 
-― la classification ;
-
-― les procédures contentieuses ;
-
-― les principes généraux du contentieux administratif.
-
-3.3. L'activité administrative :
-
-― le service public : notion, régime juridique, mode de gestion ;
-
-― la police administrative : notion, régime juridique ;
-
-― les actes administratifs unilatéraux : notion, régime juridique ;
-
-― les contrats de l'administration : notion, passation, régime juridique ;
-
-― la propriété des personnes publiques : domaine public et domaine privé, expropriation pour cause d'utilité publique, travaux publics ;
-
-― la responsabilité administrative ;
-
-― l'évaluation de l'action administrative ;
-
-― la modernisation administrative : l'utilisation des nouvelles technologies de l'information et de la communication dans les administrations.
-
-IV. ― Droit de la fonction publique
-
-Le statut général de la fonction publique.
-
-Les organes de gestion de la fonction publique.
-
-La notion d'agent public.
-
-Le fonctionnaire : recrutement, carrière.
-
-Le fonctionnaire : droits, libertés.
-
-Le fonctionnaire : responsabilité, obligations.
-
-V. ― Droit de l'Union européenne
-
-Les institutions.
-
-Les processus décisionnels.
-
-L'ordre juridique communautaire.
-
-Les recours juridictionnels.
-
-VI. ― Droits fondamentaux et libertés publiques
-
-Régime juridique.
-
-Protection interne et internationale.
-
-L'Etat de droit.
-
-Finances publiques
-
-I. ― Le cadre général des finances publiques
-
-1.1. Notions historiques sur l'évolution des finances publiques et sources.
-
-1.2. Les structures institutionnelles.
-
-1.3. Les grands principes budgétaires.
-
-II. ― Les documents financiers
-
-2.1. Les documents de l'Etat : loi de finances de l'année, loi de finance rectificative, loi de règlement, lois spéciales.
-
-2.2. Les documents financiers des collectivités territoriales.
-
-2.3. La loi de financement de la sécurité sociale.
-
-2.4. Le budget de l'Union européenne (notions).
-
-III. ― La préparation des documents financiers
-
-3.1. Les outils de la prévision budgétaire.
-
-3.2. Les acteurs de la préparation budgétaire.
-
-3.3. Le calendrier de la préparation budgétaire.
-
-IV. ― L'adoption des documents financiers
-
-V. ― Le contenu des documents financiers
-
-5.1. Les ressources.
-
-5.2. Les dépenses.
-
-5.3. L'équilibre budgétaire.
-
-5.4. La dette publique.
-
-VI. ― L'exécution des documents financiers
-
-6.1. La notion de performance.
-
-6.2. Les acteurs, les principes et les procédures de l'exécution.
-
-6.3. La gestion de fait.
-
-VII. ― Les relations financières entre l'Etat et les collectivités territoriales
-
-VIII. ― Les contrôles financiers
-
-8.1. Les contrôles a priori, en cours d'exécution et a posteriori.
-
-8.2. Les contrôles de nature politique, administratif et juridictionnel.
-
-Histoire
-
-I. ― Religion et nations : l'Europe, de Luther à la révocation de l'édit de Nantes
-
-Christianisme, Réforme, Contre-réforme en Europe aux xvie et xviie siècles.
-
-Religions et conflits en Europe, 1519-1648.
-
-Renaissance, baroque et classicisme, des guerres d'Italie (1515) à la mort de Louis XIV (1715).
-
-II. ― Economies et sociétés européennes de 1348 à 1848
-
-Les campagnes européennes, de la Grande Peste au milieu du xixe siècle.
-
-La civilisation urbaine en Occident, de la fin du xviiie au milieu du xixe siècle.
-
-III. ― L'évolution économique et sociale du monde, de la révolution industrielle à nos jours
-
-Amorce, développement et effets de la révolution industrielle.
-
-Impérialismes et mise en valeur des continents.
-
-Transformations sociales en Europe et en Amérique du Nord.
-
-Evolutions et révolutions dans les sociétés dominées.
-
-Modèles et réalités du développement, des années 1920 à nos jours.
-
-Formes et étapes de la mondialisation des échanges.
-
-IV. ― Le gouvernement des nations des Lumières à nos jours
-
-Liberté et souveraineté dans la pensée politique et l'évolution des régimes.
-
-Nations et nationalismes depuis 1648.
-
-Formes et développements de la démocratie dans le monde de 1789 à nos jours.
-
-Socialisme et sociétés aux xixe et xxe siècles.
-
-Les expériences totalitaires.
-
-V. - Les relations internationales des années 1880 à nos jours
-
-L'équilibre des puissances, du traité de Berlin à 1914.
-
-Le déséquilibre des puissances, de la Première à la Seconde Guerre mondiale (1914-1945).
-
-La montée des Etats-Unis au premier rôle mondial.
-
-La guerre froide et les décolonisations, 1947-1991.
-
-L'évolution des relations internationales depuis 1975.
-
-VI. - Peuples et nations au xxe siècle
-
-La France de la IIIe République à nos jours.
-
-L'Allemagne, l'Italie, le Royaume-Uni et la Russie au xxe siècle.
-
-Les Etats-Unis depuis la guerre de Sécession.
-
-La Chine, l'Inde, le Japon dans la seconde moitié du xxe siècle.
-
-Le Moyen-Orient depuis 1945.
-
-VII. ― Histoire de l'Union européenne
-
-Le contexte de début de la coopération européenne.
-
-Les étapes de la construction de l'Union européenne.
-
-Le fonctionnement de l'Union européenne.
-
-Législation de sécurité sociale et aide sociale
-
-I. ― Législation de sécurité sociale
-
-1.1. Le système français de sécurité sociale :
-
-― évolutions historiques, conceptions, principes, organisation actuelle ;
-
-― notions générales sur les régimes spéciaux et autonomes ;
-
-― la protection sociale complémentaire ;
-
-― les régimes complémentaires de retraite ;
-
-― organisation et fonctionnement des organismes de sécurité sociale.
-
-1.2. Le financement de la protection sociale :
-
-― la sécurité sociale dans l'économie nationale ;
-
-― les lois de financement de la sécurité sociale : élaboration, structure, prévisions de recettes, objectifs de dépenses, ONDAM ;
-
-― la compensation dans les comptes de la sécurité sociale ;
-
-― les sources de financement ; enjeux et évolutions ;
-
-― l'assiette des cotisations : composition et enjeux.
-
-1.3. Les prestations familiales et la politique de la famille.
-
-1.4. L'assurance maladie et la politique de santé :
-
-― les rapports entre prescripteurs et organismes d'assurance maladie ;
-
-― médecine libérale et hospitalière ;
-
-― les politiques de santé publique ;
-
-― la régulation du système de santé ; acteurs, enjeux évolution ;
-
-― rôle et place de la prévention.
-
-1.5. Les systèmes de retraite et leur évolution.
-
-1.6. L'assurance vieillesse.
-
-1.7. La couverture du risque invalidité :
-
-― la prise en charge du handicap (enfants et adultes) ; financement de la dépendance ;
-
-― la Caisse nationale de solidarité (CNSA) et le financement de la perte de l'autonomie.
-
-1.8. Les accidents du travail et les maladies professionnelles :
-
-― prévention, réparation, rééducation.
-
-1.9. Le contentieux de la sécurité sociale.
-
-― procédure, acteurs, voies de recours ;
-
-― enjeux juridiques et financiers.
-
-1.10. Généralités sur l'Union européenne et la protection sociale.
-
-II. ― Droit de l'aide sociale
-
-2.1. La notion d'aide sociale :
-
-― le droit de l'aide sociale ;
-
-― la place de l'aide sociale parmi les systèmes de protection sanitaire et sociale (santé publique, sécurité sociale, action sociale, protection de l'enfance, lutte contre la pauvreté et les exclusions).
-
-2.2. L'organisation de l'aide sociale :
-
-― les différents acteurs, leur rôle.
-
-― la répartition des compétences en matière d'aide sociale ;
-
-― le fonctionnement de l'aide sociale (l'admission, le contentieux, la récupération des prestations versées, les rapports entre l'aide sociale et l'obligation alimentaire, etc.).
-
-2.3. Les formes d'aide sociale :
-
-― l'aide médicale ;
-
-― l'aide sociale à l'enfance ;
-
-― l'aide sociale aux personnes âgées ;
-
-― l'aide sociale aux personnes handicapées ;
-
-― l'aide sociale à la famille ;
-
-― l'aide sociale à l'hébergement et à la réadaptation sociale.
-
-2.4. Caractéristiques générales de l'aide sociale dans les principaux pays européens.
-
-Sciences économiques
-
-A. ― Macroéconomie
-
-I. ― Caractéristiques de l'économie française
-
-1.1. Les structures démographiques de la France.
-
-1.2. L'appareil de production français.
-
-1.3. Le financement de l'activité : monnaie, création de la monnaie, intermédiaires financiers, marché monétaire, marché financier.
-
-1.4. La mesure de l'activité et la prévision économique :
-
-Le système élargi de la comptabilité nationale (cadre central, tableaux de synthèse).
-
-Les agrégats.
-
-Les comptes satellites.
-
-Les budgets économiques.
-
-La modélisation macroéconomique.
-
-La planification française.
-
-1.5. La place du secteur de la santé dans l'économie financière.
-
-II. ― Relations économiques internationales
-
-2.1. La balance des paiements.
-
-2.2. Les relations commerciales internationales :
-
-Théories du commerce international.
-
-Organisation et structure internationale des échanges.
-
-2.3. Marché des changes, convertibilités des monnaies et mécanismes d'ajustement des balances des paiements.
-
-2.4. Les institutions et relations monétaires internationales.
-
-III. - Equilibre et déséquilibres macro-économiques
-
-3.1. Principales variables de l'activité économique : consommation, épargne, investissement, dépenses publiques, exportations, importations.
-
-3.2. L'équilibre macroéconomique.
-
-3.3. La répartition des revenus : les inégalités des revenus.
-
-3.4. Le chômage, l'inflation, la croissance économique, les déséquilibres extérieurs ; relations macroéconomiques fondamentales : loi d'Okun, relation de Philips, contrainte externe.
-
-IV. - Politiques économiques
-
-4.1. La politique conjoncturelle : politique budgétaire, politique monétaire, politique des changes, politique du commerce extérieur.
-
-4.2. La politique des revenus, la redistribution.
-
-4.3. La politique industrielle.
-
-4.4. Les politiques communautaires.
-
-B. ― Microéconomie
-
-I. ― Théorie du comportement du consommateur et de la demande
-
-Equilibre du consommateur sous contrainte budgétaire.
-
-Introduction du temps dans les choix du consommateur.
-
-Demande individuelle, demande à l'entreprise, demande sur le marché.
-
-II. ― Théorie du comportement du producteur et des coûts de production
-
-La fonction de production.
-
-Equilibre du producteur.
-
-Coûts de production.
-
-III. ― Les marchés et les prix
-
-Objectifs et stratégies de la firme.
-
-Les marchés de concurrence (concurrence pure et parfaite, concurrence monopolistique).
-
-Le monopole.
-
-La discrimination de prix.
-
-Les marchés oligopolistiques.
-
-Les entraves à la concurrence et les politiques de la concurrence.
-
-IV. ― Les fondements de l'intervention de l'Etat
-
-La théorie de l'optimum.
-
-Les effets externes.
-
-Les principes de détermination des prix publics.
+3. Principes généraux de la responsabilité administrative du secteur hospitalier.
