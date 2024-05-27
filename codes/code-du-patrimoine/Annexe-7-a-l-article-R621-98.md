@@ -5958,6 +5958,13036 @@ AC |
 
 Etat |
 
-NOTA :
+17° Domaine national du château de Fontainebleau (Seine-et-Marne) :
 
-Par décision no 469791 du 31 mai 2024 du Conseil d’Etat statuant au contentieux, FR:CECHR:2024:469791.20240531, l’article 2 du décret du 17 juin 2022 complétant la liste de l’article R. 621-98 du code du patrimoine et délimitant le périmètre de domaines nationaux sont annulés en tant que ce dernier exclut, d’une part, du périmètre du domaine national de Saint-Cloud le pavillon de Breteuil et les étangs de Ville-d’Avray, dits " étangs de Corot " et, d’autre part, du domaine national de Meudon l’entrave trapézoïdale mentionnée au point 23 de la décision n°469791.
+- carte :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 121 du 26 mai 2024, texte n° 24 à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=QAW4jcbjJIr3GMlbDdaq6n-9gRX-cMgK-3DaXqN0q4o=
+
+Domaine national du château de Fontainebleau (Seine-et-Marne)
+
+- liste des parcelles, parties de parcelles et espaces non cadastrés intégrés au domaine national du château de Fontainebleau :
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE FONTAINEBLEAU ;
+
+COMMUNE : FONTAINEBLEAU ;
+
+CODE INSEE : 77186.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+A |
+
+1 |
+
+|
+
+24 |
+
+20 |
+
+Etat |
+
+A |
+
+2 |
+
+1 |
+
+70 |
+
+50 |
+
+Etat |
+
+A |
+
+3 |
+
+|
+
+30 |
+
+60 |
+
+Etat |
+
+A |
+
+4 |
+
+|
+
+23 |
+
+|
+
+Etat |
+
+A |
+
+5 |
+
+|
+
+7 |
+
+86 |
+
+Propriété privée |
+
+A |
+
+6 |
+
+1 |
+
+96 |
+
+15 |
+
+Etat |
+
+A |
+
+7 |
+
+|
+
+68 |
+
+25 |
+
+Etat |
+
+A |
+
+8 |
+
+|
+
+45 |
+
+64 |
+
+Etat |
+
+A |
+
+9 |
+
+|
+
+52 |
+
+31 |
+
+Etat |
+
+A |
+
+10 |
+
+|
+
+29 |
+
+55 |
+
+Etat |
+
+A |
+
+11 |
+
+|
+
+37 |
+
+73 |
+
+Etat |
+
+A |
+
+12 |
+
+|
+
+24 |
+
+94 |
+
+Etat |
+
+A |
+
+13 |
+
+1 |
+
+15 |
+
+45 |
+
+Etat |
+
+A |
+
+14 |
+
+|
+
+|
+
+62 |
+
+Etat |
+
+A |
+
+15 |
+
+|
+
+1 |
+
+76 |
+
+Etat |
+
+A |
+
+16 |
+
+12 |
+
+31 |
+
+90 |
+
+Etat |
+
+A |
+
+17 |
+
+|
+
+49 |
+
+40 |
+
+Etat |
+
+A |
+
+18 |
+
+|
+
+9 |
+
+56 |
+
+Etat |
+
+A |
+
+19 |
+
+|
+
+52 |
+
+35 |
+
+Etat |
+
+A |
+
+20 |
+
+|
+
+45 |
+
+34 |
+
+Etat |
+
+A |
+
+21 |
+
+|
+
+95 |
+
+42 |
+
+Etat |
+
+A |
+
+22 |
+
+|
+
+13 |
+
+25 |
+
+Etat |
+
+A |
+
+23 |
+
+1 |
+
+88 |
+
+55 |
+
+Etat |
+
+A |
+
+24 |
+
+|
+
+16 |
+
+73 |
+
+Etat |
+
+A |
+
+26 |
+
+|
+
+8 |
+
+39 |
+
+Etat |
+
+A |
+
+27 |
+
+43 |
+
+99 |
+
+91 |
+
+Etat |
+
+A |
+
+28 |
+
+2 |
+
+93 |
+
+61 |
+
+Etat |
+
+A |
+
+29 |
+
+2 |
+
+84 |
+
+48 |
+
+Etat |
+
+A |
+
+30 |
+
+9 |
+
+|
+
+1 |
+
+Etat |
+
+A |
+
+31 |
+
+|
+
+8 |
+
+90 |
+
+Etat |
+
+A |
+
+32 |
+
+1 |
+
+34 |
+
+27 |
+
+Etat |
+
+A |
+
+33 |
+
+4 |
+
+54 |
+
+11 |
+
+Etat |
+
+A |
+
+34 |
+
+3 |
+
+18 |
+
+76 |
+
+Etat |
+
+A |
+
+35 |
+
+12 |
+
+2 |
+
+61 |
+
+Etat |
+
+A |
+
+36 |
+
+3 |
+
+9 |
+
+15 |
+
+Etat |
+
+A |
+
+39 |
+
+1 |
+
+42 |
+
+83 |
+
+Etat |
+
+A |
+
+40 |
+
+|
+
+18 |
+
+43 |
+
+Etat |
+
+A |
+
+41 |
+
+3 |
+
+4 |
+
+21 |
+
+Etat |
+
+A |
+
+42 |
+
+|
+
+42 |
+
+9 |
+
+Etat |
+
+A |
+
+43 |
+
+2 |
+
+21 |
+
+55 |
+
+Etat |
+
+A |
+
+44 |
+
+|
+
+63 |
+
+30 |
+
+Etat |
+
+A |
+
+46 |
+
+4 |
+
+28 |
+
+75 |
+
+Etat |
+
+A |
+
+47 |
+
+|
+
+94 |
+
+86 |
+
+Etat |
+
+A |
+
+48 |
+
+11 |
+
+56 |
+
+35 |
+
+Etat |
+
+A |
+
+50 |
+
+|
+
+88 |
+
+98 |
+
+Etat |
+
+A |
+
+51 |
+
+|
+
+8 |
+
+92 |
+
+Etat |
+
+A |
+
+53 |
+
+|
+
+9 |
+
+20 |
+
+Etat |
+
+A |
+
+55 |
+
+6 |
+
+82 |
+
+59 |
+
+Etat |
+
+A |
+
+57 |
+
+6 |
+
+62 |
+
+37 |
+
+Etat |
+
+AC |
+
+255 |
+
+2 |
+
+49 |
+
+34 |
+
+Etat |
+
+AC |
+
+433 |
+
+|
+
+2 |
+
+33 |
+
+Etat |
+
+AC |
+
+569 |
+
+|
+
+|
+
+66 |
+
+Propriété privée |
+
+Le fond de la parcelle AC 569 intègre un bâtiment et une portion du mur d'enceinte de la Pépinière qui sont la propriété de l'Etat. Le mur domanial délimite la partie nord de la parcelle gérée en continuité avec le reste du domaine de l'Etat. La partie intégrée au domaine national est donc limitée à 66 ca sur une superficie totale de 3a et 13 ca. |
+
+AL |
+
+41 |
+
+|
+
+11 |
+
+9 |
+
+Etat |
+
+AS |
+
+97 |
+
+|
+
+5 |
+
+73 |
+
+Commune de Fontainebleau |
+
+AS |
+
+164 |
+
+|
+
+8 |
+
+93 |
+
+Commune de Fontainebleau |
+
+La banquette du carrefour de l'Obélisque, partiellement portée sur la parcelle AS 164 est intégrée au domaine national par effet de symétrie avec la parcelle A 51. La portion de la parcelle AS 164, contenue dans un recul de 18 m à partir des rives cadastrées du carrefour et intégrée au domaine national, est donc limitée à 8 a 93 ca sur 34 a et 83 ca. |
+
+AT |
+
+1 |
+
+|
+
+17 |
+
+66 |
+
+Etat |
+
+AT |
+
+5 |
+
+20 |
+
+2 |
+
+50 |
+
+Etat |
+
+AT |
+
+74 |
+
+2 |
+
+97 |
+
+50 |
+
+Etat |
+
+AT |
+
+147 |
+
+|
+
+55 |
+
+78 |
+
+Etat |
+
+L'extrémité ouest de la parcelle AT 147 est intégrée au domaine national jusqu'à une limite biaise, formée par la route cavalière du Camp incluse, dans la prolongation de l'axe de la limite cadastrale de la parcelle AT 74. La portion de la parcelle AT 174 intégrée au domaine national est donc limitée à 55 a 78 ca sur 3 ha 36 a et 25 ca. |
+
+AT |
+
+149 |
+
+|
+
+6 |
+
+43 |
+
+Commune de Fontainebleau |
+
+AT |
+
+150 |
+
+|
+
+72 |
+
+50 |
+
+Etat |
+
+AT |
+
+151 |
+
+|
+
+4 |
+
+25 |
+
+Commune de Fontainebleau |
+
+AT |
+
+152 |
+
+|
+
+31 |
+
+59 |
+
+Etat |
+
+AT |
+
+153 |
+
+|
+
+50 |
+
+85 |
+
+Etat |
+
+AT |
+
+186 |
+
+1 |
+
+90 |
+
+16 |
+
+Etat |
+
+AT |
+
+189 |
+
+|
+
+5 |
+
+85 |
+
+Etat |
+
+AW |
+
+73 |
+
+|
+
+11 |
+
+86 |
+
+Etat |
+
+La banquette du carrefour de l'Obélisque, partiellement portée sur la parcelle AW 73 est intégrée au domaine national par effet de symétrie avec la parcelle A 51. La portion de la parcelle AW 73, contenue dans un recul de 20 m à partir des rives cadastrées du carrefour et intégrée au domaine national, est donc limitée à 11 a 86 ca sur 8 ha 28 a et 22 ca. |
+
+AW |
+
+84 |
+
+|
+
+7 |
+
+14 |
+
+Etat |
+
+La banquette du carrefour de l'Obélisque, partiellement portée sur la parcelle AW 84 est intégrée au domaine national par effet de symétrie avec la parcelle A 51. La portion de la parcelle AW 84, contenue dans un recul de 22 m à partir des rives cadastrées du carrefour et intégrée au domaine national, est donc limitée à 7 a 14 ca sur 35 a et 96 ca. |
+
+C |
+
+8 |
+
+|
+
+55 |
+
+81 |
+
+Etat |
+
+La parcelle C 8 sur l'allée de Maintenon est intégrée au domaine national dans une largeur définie pour l'allée par un recul de 20 m à partir de la limite avec la section D, soit une contenance de 55 a 81 ca sur 9 ha et 62 ca. |
+
+C |
+
+9 |
+
+|
+
+18 |
+
+30 |
+
+Etat |
+
+La parcelle C 9 sur l'allée de Maintenon est intégrée au domaine national dans une largeur définie pour l'allée par un recul de 20 m à partir de la limite avec la section D, soit une contenance de 18 a 30 ca sur 69 a. |
+
+C |
+
+10 |
+
+|
+
+53 |
+
+90 |
+
+Etat |
+
+La parcelle C 10 sur l'allée de Maintenon est intégrée au domaine national dans une largeur définie pour l'allée par un recul de 20 m à partir de la limite avec la section D, et sur le carrefour Lemonnier par un cercle de 25 m de rayon, soit une contenance de 53 a 90 ca sur 8 ha et 87 ca. |
+
+C |
+
+316 |
+
+|
+
+24 |
+
+34 |
+
+Etat |
+
+La parcelle C 316 sur l'allée de Maintenon est intégrée au domaine national dans une largeur définie pour l'allée par un recul de 20 m à partir de la limite avec la section D, soit une contenance de 24 a 34 ca sur 10 ha 32 a et 75 ca. |
+
+D |
+
+2 |
+
+|
+
+1 |
+
+2 |
+
+Etat |
+
+La banquette du carrefour de l'Obélisque, partiellement portée sur la parcelle D 2 est intégrée au domaine national par effet de symétrie avec la parcelle A 51. La portion de la parcelle D 2, contenue dans un recul de 19 m à partir des rives cadastrées du carrefour et intégrée au domaine national, est donc limitée à 1 a 2 ca sur 96 a et 96 ca. |
+
+D |
+
+3 |
+
+|
+
+6 |
+
+47 |
+
+Etat |
+
+La banquette du carrefour de l'Obélisque, partiellement portée sur la parcelle D 3 est intégrée au domaine national par effet de symétrie avec la parcelle A 51. La portion de la parcelle D 3, contenue dans un recul de 20 m à partir des rives cadastrées du carrefour et intégrée au domaine national, est donc limitée à 6 a 47 ca sur 4 ha 16 a et 52 ca. |
+
+D |
+
+4 |
+
+|
+
+5 |
+
+87 |
+
+Etat |
+
+La banquette du carrefour de l'Obélisque, partiellement portée sur la parcelle D 4 est intégrée au domaine national par effet de symétrie avec la parcelle A 51. La portion de la parcelle D 4, contenue dans un recul de 20 m à partir des rives cadastrées du carrefour et intégrée au domaine national, est donc limitée à 5 a 87 ca sur 5 ha 86 a et 7 ca. |
+
+D |
+
+43 |
+
+|
+
+|
+
+43 |
+
+Etat |
+
+La parcelle D 43 est très partiellement intégrée au domaine national, uniquement dans la partie relevant du carrefour Lemonnier (pointe sud de la parcelle), défini par un cercle de 25 m de rayon, soit une contenance de 43 ca sur 1 ha 49 a et 47 ca. |
+
+D |
+
+44 |
+
+|
+
+|
+
+56 |
+
+Etat |
+
+La parcelle D 44 est très partiellement intégrée au domaine national, uniquement dans la partie relevant du carrefour Lemonnier (pointe est de la parcelle), défini par un cercle de 25 m de rayon, soit une contenance de 56 ca sur 1 ha 75 a et 12 ca. |
+
+D |
+
+56 |
+
+|
+
+7 |
+
+25 |
+
+Etat |
+
+La parcelle D 56 est très partiellement intégrée au domaine national, uniquement dans la partie relevant du carrefour du Petit-Mont-Chauvet (pointe nord-est de la parcelle), défini par un cercle de 37 m de rayon, soit une contenance de 7 a 25 ca sur 5 ha 41 a et 95 ca. |
+
+D |
+
+63 |
+
+|
+
+4 |
+
+26 |
+
+Etat |
+
+La parcelle D 63 est très partiellement intégrée au domaine national, uniquement dans la partie relevant du carrefour du Petit-Mont-Chauvet (pointe est de la parcelle), défini par un cercle de 37 m de rayon, soit une contenance de 4 a 26 ca sur 1 ha 24 a et 67 ca. |
+
+D |
+
+64 |
+
+|
+
+4 |
+
+73 |
+
+Etat |
+
+La parcelle D 64 est très partiellement intégrée au domaine national, uniquement dans la partie relevant du carrefour du Petit-Mont-Chauvet (pointe est de la parcelle), défini par un cercle de 37 m de rayon, soit une contenance de 4 a 73 ca sur 40 a et 25 ca. |
+
+D |
+
+65 |
+
+|
+
+8 |
+
+12 |
+
+Etat |
+
+La parcelle D 65 est très partiellement intégrée au domaine national, uniquement dans la partie relevant du carrefour Lemonnier (angle nord-est de la parcelle), défini par un cercle de 25 m de rayon, et dans la partie relevant du carrefour du-Petit Mont-Chauvet (angle sud-est), défini par un cercle de 37 m de rayon soit une contenance de 8 a 12 ca sur 1 ha 95 a et 10 ca. |
+
+D |
+
+66 |
+
+|
+
+4 |
+
+76 |
+
+Etat |
+
+La parcelle D 66 est très partiellement intégrée au domaine national, uniquement dans la partie relevant du carrefour Lemonnier (angle nord-ouest de la parcelle), défini par un cercle de 25 m de rayon, et dans la partie relevant du carrefour du Petit-Mont-Chauvet (angle sud-ouest), défini par un cercle de 37 m de rayon soit une contenance de 4 a 76 ca sur 2 ha 52 a et 20 ca. |
+
+D |
+
+67 |
+
+|
+
+|
+
+39 |
+
+Etat |
+
+La parcelle D 67 est très partiellement intégrée au domaine national, uniquement dans la partie relevant du carrefour Lemonnier (pointe ouest de la parcelle), défini par un cercle de 25 m de rayon, soit une contenance de 39 ca sur 1 ha 13 a et 70 ca. |
+
+D |
+
+69 |
+
+|
+
+6 |
+
+88 |
+
+Etat |
+
+La parcelle D 69 est très partiellement intégrée au domaine national, uniquement dans la partie relevant du carrefour du Petit-Mont-Chauvet (pointe ouest de la parcelle), défini par un cercle de 37 m de rayon, soit une contenance de 6 a 88 ca sur 3 ha et 20 a. |
+
+D |
+
+76 |
+
+|
+
+5 |
+
+63 |
+
+Etat |
+
+La parcelle D 76 est très partiellement intégrée au domaine national, uniquement dans la partie relevant du carrefour du Petit-Mont-Chauvet (pointe ouest de la parcelle), défini par un cercle de 37 m de rayon, soit une contenance de 5 a 63 ca sur 1 ha 73 a et 85 ca. |
+
+D |
+
+77 |
+
+|
+
+2 |
+
+68 |
+
+Etat |
+
+La parcelle D 77 est très partiellement intégrée au domaine national, uniquement dans la partie relevant du carrefour du Petit-Mont-Chauvet (pointe nord-ouest de la parcelle), défini par un cercle de 37 m de rayon, soit une contenance de 2 a 68 ca sur 1 ha 7 a et 97 ca. |
+
+D |
+
+531 |
+
+|
+
+3 |
+
+41 |
+
+Etat |
+
+La banquette du carrefour de l'Obélisque, partiellement portée sur la parcelle D 531 est intégrée au domaine national par effet de symétrie avec la parcelle A 51. La portion de la parcelle D 531, contenue dans un recul de 19 m à partir des rives cadastrées du carrefour (et marquée par le ressaut sur la RD 606) et intégrée au domaine national, est donc limitée à 3 a 41 ca sur 2 ha 20 a et 64 ca. |
+
+AL |
+
+Non cadastré |
+
+|
+
+34 |
+
+27 |
+
+Commune de Fontainebleau |
+
+Intégration dans le domaine national de la partie de la place d'Armes située devant la cour des Offices, telle que définie par le plan de bornage de 1905 lors de la cession à la commune (les parties nord de la place actuellement dédiées à la circulation et qui ne relèvent pas de la partie qui avait été cédée ne sont pas intégrées au domaine national). La contenance de la partie intégrée est de 34 a 27 ca. |
+
+AL |
+
+Non cadastré |
+
+|
+
+9 |
+
+92 |
+
+Etat |
+
+Intégration dans le domaine national de la partie de la place d'Armes formée par les trottoirs situés devant la cour des Offices, conservés dans le domaine de l'Etat lors de la cession de la place à la commune en 1905. La contenance de la partie intégrée est de 9 a 92 ca. |
+
+A / AS |
+
+Non cadastré |
+
+|
+
+83 |
+
+83 |
+
+Département de Seine-et-Marne |
+
+Intégration du boulevard de Magenta, entre le carrefour de l'Obélisque et jusqu'au droit de la limite entre la parcelle AS 212 et la parcelle AS 79, soit une contenance de 83 a 83 ca. |
+
+A / AS / AW / D |
+
+Non cadastré |
+
+|
+
+97 |
+
+60 |
+
+Département de Seine-et-Marne |
+
+Intégration du carrefour de l'Obélisque, soit une contenance de 97 a 60 ca. |
+
+A / AS / AW / D |
+
+Non cadastré |
+
+|
+
+17 |
+
+49 |
+
+Département de Seine-et-Marne |
+
+Intégration dans le domaine national des tronçons de voirie situés dans l'épaisseur des banquettes du carrefour de l'Obélisque (boulevard de Constance/D607, route de Nemours/ D607, Route d'Orléans/D152, route de Fontainebleau à Treuzy-Levelay /D58, soit une contenance totale de 17 a 49 ca. |
+
+A / C / D |
+
+Non cadastré |
+
+5 |
+
+72 |
+
+72 |
+
+Département de Seine-et-Marne |
+
+Intégration du boulevard du Maréchal-Juin (D606), tronçon entre le carrefour de l'Obélisque et jusqu'à la route cavalière du Camp, incluant donc le carrefour de Maintenon, soit une contenance de 5 ha 72 a 72 ca. |
+
+A / AT |
+
+Non cadastré |
+
+|
+
+74 |
+
+22 |
+
+Département de Seine-et-Marne |
+
+Intégration de l'avenue du Maréchal-de-Villars (D137E), entre le carrefour de Maintenon et l'extrémité est de la parcelle AT 74, soit une contenance de 74 a 22 ca. |
+
+A / AT |
+
+Non cadastré |
+
+1 |
+
+2 |
+
+31 |
+
+Département de Seine-et-Marne |
+
+Intégration de l'avenue du Rocher-d'Avon, de la RD 606 à l'extrémité sud de la parcelle A 23, soit une contenance de 1 ha, 2 a 31 ca. |
+
+AT |
+
+Non cadastré |
+
+|
+
+21 |
+
+50 |
+
+Département de Seine-et-Marne |
+
+Intégration de la route Militaire (partie non cadastrée) dans la largeur de la parcelle AT 74, soit une contenance de 21 a 50 ca. |
+
+C |
+
+Non cadastré |
+
+|
+
+2 |
+
+48 |
+
+Département de Seine-et-Marne |
+
+Intégration du tronçon de la RD58, situé dans la largeur de l'avenue de Maintenon (définie à 20 m entre les parcelles C 8 et C 9), soit une contenance de 2 a 48 ca. |
+
+D |
+
+Non cadastré |
+
+|
+
+41 |
+
+95 |
+
+Etat |
+
+Intégration du tronçon non cadastré de l'avenue de Maintenon et du carrefour Lemonnier entre la partie nord du carrefour Lemonnier et le carrefour du Petit-Mont-Chauvet, soit une contenance de 41 a 95 ca. |
+
+18° Domaine national du château de Rambouillet (Yvelines) :
+
+- carte :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 121 du 26 mai 2024, texte n° 24 à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=QAW4jcbjJIr3GMlbDdaq6n-9gRX-cMgK-3DaXqN0q4o=
+
+Domaine national du château de Rambouillet (Yvelines)
+
+- liste des parcelles, parties de parcelles et espaces non cadastrés intégrés au domaine national du château de Rambouillet :
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE RAMBOUILLET ;
+
+COMMUNE : GAZERAN ;
+
+CODE INSEE : 78269.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+B |
+
+324 |
+
+|
+
+3 |
+
+10 |
+
+Etat |
+
+B |
+
+678 |
+
+|
+
+|
+
+60 |
+
+Etat |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE RAMBOUILLET ;
+
+COMMUNE : LE PERRAY-EN-YVELINES ;
+
+CODE INSEE : 78486.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+A |
+
+107 |
+
+|
+
+85 |
+
+50 |
+
+Etat |
+
+Le pavillon de Pourras et les vestiges de sa terrasse sont intégrés au domaine national La portion de la parcelle A 107 est limitée au pavillon et à la partie de la terrasse conservée avec son hémicycle sud, telle que définie par des tracés d'aménagement portés au cadastre, soit une contenance de 85 a 50 ca sur 17 ha 93 a et 45 ca. |
+
+A |
+
+645 |
+
+|
+
+68 |
+
+84 |
+
+Etat |
+
+Le pavillon de Pourras et les vestiges de sa terrasse sont intégrés au domaine national La portion de la parcelle A 645 est limitée au pavillon et à la partie de la terrasse conservée avec son hémicycle sud, telle que définie par des tracés d'aménagement portés au cadastre, soit une contenance de 68 a 84 ca sur 26 ha 25 a et 2 ca. |
+
+A |
+
+Non cadastré |
+
+|
+
+8 |
+
+82 |
+
+Commune du Perray-en Yvelines |
+
+Intégration du tronçon de la chaussée du Port-Royal (CR n°6), non cadastré, dans le prolongement du pont Napoléon situé au nord, sur la profondeur de la terrasse historique du pavillon de Pourras, soit une contenance de 8 a 82 ca. . |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE RAMBOUILLET ;
+
+COMMUNE : RAMBOUILLET ;
+
+CODE INSEE : 78517.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+AA |
+
+17 |
+
+|
+
+3 |
+
+84 |
+
+Propriété privée |
+
+AA |
+
+18 |
+
+|
+
+53 |
+
+60 |
+
+Commune de Rambouillet |
+
+AA |
+
+19 |
+
+|
+
+35 |
+
+68 |
+
+Propriété privée |
+
+Le pavillon Impérial au sud du palais du Roi de Rome est intégré au domaine national. La portion de la parcelle AA 19 intégrée au domaine national est limitée à l'est par une ligne perpendiculaire à la limite cadastrale sud, placée à 42 m de l'angle sud-ouest de la parcelle, soit une contenance de 35 a 68 ca sur 89 a et 81 ca. |
+
+AA |
+
+21 |
+
+|
+
+3 |
+
+37 |
+
+Propriété privée |
+
+AA |
+
+35 |
+
+|
+
+22 |
+
+19 |
+
+Etat |
+
+AA |
+
+47 |
+
+|
+
+|
+
+45 |
+
+Propriété privée |
+
+AA |
+
+48 |
+
+|
+
+9 |
+
+86 |
+
+Propriété privée |
+
+AL |
+
+19 |
+
+|
+
+11 |
+
+74 |
+
+Etat |
+
+AL |
+
+20 |
+
+|
+
+2 |
+
+16 |
+
+Etat |
+
+AL |
+
+33 |
+
+|
+
+15 |
+
+23 |
+
+Etat |
+
+F |
+
+15 |
+
+|
+
+8 |
+
+40 |
+
+Etat |
+
+F |
+
+25 |
+
+1 |
+
+23 |
+
+30 |
+
+Etat |
+
+F |
+
+26 |
+
+|
+
+97 |
+
+90 |
+
+Etat |
+
+F |
+
+27 |
+
+2 |
+
+60 |
+
+30 |
+
+Etat |
+
+F |
+
+28 |
+
+3 |
+
+42 |
+
+80 |
+
+Etat |
+
+F |
+
+29 |
+
+|
+
+36 |
+
+10 |
+
+Etat |
+
+F |
+
+30 |
+
+1 |
+
+80 |
+
+60 |
+
+Etat |
+
+F |
+
+31 |
+
+|
+
+16 |
+
+20 |
+
+Etat |
+
+F |
+
+32 |
+
+3 |
+
+20 |
+
+|
+
+Etat |
+
+F |
+
+33 |
+
+|
+
+1 |
+
+60 |
+
+Etat |
+
+F |
+
+34 |
+
+|
+
+1 |
+
+95 |
+
+Etat |
+
+F |
+
+35 |
+
+|
+
+1 |
+
+70 |
+
+Etat |
+
+F |
+
+36 |
+
+4 |
+
+57 |
+
+10 |
+
+Etat |
+
+F |
+
+37 |
+
+26 |
+
+59 |
+
+65 |
+
+Etat |
+
+F |
+
+38 |
+
+|
+
+15 |
+
+10 |
+
+Etat |
+
+F |
+
+39 |
+
+|
+
+36 |
+
+90 |
+
+Etat |
+
+F |
+
+40 |
+
+|
+
+6 |
+
+50 |
+
+Etat |
+
+F |
+
+41 |
+
+9 |
+
+3 |
+
+50 |
+
+Etat |
+
+F |
+
+42 |
+
+2 |
+
+42 |
+
+60 |
+
+Etat |
+
+F |
+
+43 |
+
+1 |
+
+36 |
+
+10 |
+
+Etat |
+
+F |
+
+44 |
+
+3 |
+
+13 |
+
+30 |
+
+Etat |
+
+F |
+
+45 |
+
+8 |
+
+14 |
+
+90 |
+
+Etat |
+
+F |
+
+46 |
+
+2 |
+
+89 |
+
+90 |
+
+Etat |
+
+F |
+
+47 |
+
+1 |
+
+33 |
+
+60 |
+
+Etat |
+
+F |
+
+48 |
+
+|
+
+4 |
+
+80 |
+
+Etat |
+
+F |
+
+49 |
+
+|
+
+7 |
+
+40 |
+
+Etat |
+
+F |
+
+50 |
+
+6 |
+
+72 |
+
+15 |
+
+Etat |
+
+F |
+
+51 |
+
+|
+
+52 |
+
+90 |
+
+Etat |
+
+F |
+
+52 |
+
+10 |
+
+7 |
+
+70 |
+
+Etat |
+
+F |
+
+53 |
+
+1 |
+
+21 |
+
+20 |
+
+Etat |
+
+F |
+
+54 |
+
+|
+
+9 |
+
+40 |
+
+Etat |
+
+F |
+
+55 |
+
+5 |
+
+19 |
+
+70 |
+
+Etat |
+
+F |
+
+58 |
+
+4 |
+
+58 |
+
+20 |
+
+Etat |
+
+F |
+
+59 |
+
+1 |
+
+20 |
+
+10 |
+
+Etat |
+
+F |
+
+60 |
+
+4 |
+
+60 |
+
+20 |
+
+Etat |
+
+F |
+
+61 |
+
+9 |
+
+30 |
+
+40 |
+
+Etat |
+
+F |
+
+62 |
+
+4 |
+
+28 |
+
+|
+
+Etat |
+
+F |
+
+63 |
+
+5 |
+
+42 |
+
+50 |
+
+Etat |
+
+F |
+
+64 |
+
+1 |
+
+11 |
+
+90 |
+
+Etat |
+
+F |
+
+65 |
+
+2 |
+
+64 |
+
+90 |
+
+Etat |
+
+F |
+
+66 |
+
+10 |
+
+36 |
+
+90 |
+
+Etat |
+
+F |
+
+67 |
+
+|
+
+74 |
+
+50 |
+
+Etat |
+
+F |
+
+68 |
+
+|
+
+95 |
+
+|
+
+Etat |
+
+F |
+
+69 |
+
+1 |
+
+61 |
+
+80 |
+
+Etat |
+
+F |
+
+70 |
+
+1 |
+
+92 |
+
+50 |
+
+Etat |
+
+F |
+
+71 |
+
+2 |
+
+50 |
+
+60 |
+
+Etat |
+
+F |
+
+72 |
+
+6 |
+
+35 |
+
+30 |
+
+Etat |
+
+F |
+
+73 |
+
+5 |
+
+4 |
+
+40 |
+
+Etat |
+
+F |
+
+74 |
+
+|
+
+83 |
+
+50 |
+
+Etat |
+
+F |
+
+75 |
+
+|
+
+43 |
+
+15 |
+
+Etat |
+
+F |
+
+76 |
+
+5 |
+
+71 |
+
+50 |
+
+Etat |
+
+F |
+
+77 |
+
+5 |
+
+52 |
+
+|
+
+Etat |
+
+F |
+
+78 |
+
+3 |
+
+15 |
+
+|
+
+Etat |
+
+F |
+
+79 |
+
+|
+
+55 |
+
+60 |
+
+Etat |
+
+F |
+
+80 |
+
+4 |
+
+73 |
+
+10 |
+
+Etat |
+
+F |
+
+81 |
+
+7 |
+
+56 |
+
+30 |
+
+Etat |
+
+F |
+
+82 |
+
+|
+
+5 |
+
+|
+
+Etat |
+
+F |
+
+83 |
+
+2 |
+
+44 |
+
+40 |
+
+Etat |
+
+F |
+
+84 |
+
+|
+
+3 |
+
+50 |
+
+Etat |
+
+F |
+
+85 |
+
+1 |
+
+28 |
+
+|
+
+Etat |
+
+F |
+
+86 |
+
+7 |
+
+27 |
+
+20 |
+
+Etat |
+
+F |
+
+87 |
+
+|
+
+25 |
+
+20 |
+
+Etat |
+
+F |
+
+88 |
+
+9 |
+
+33 |
+
+40 |
+
+Etat |
+
+F |
+
+89 |
+
+10 |
+
+2 |
+
+90 |
+
+Etat |
+
+F |
+
+90 |
+
+3 |
+
+|
+
+10 |
+
+Etat |
+
+F |
+
+91 |
+
+|
+
+8 |
+
+10 |
+
+Etat |
+
+F |
+
+92 |
+
+|
+
+10 |
+
+40 |
+
+Etat |
+
+F |
+
+93 |
+
+2 |
+
+58 |
+
+80 |
+
+Etat |
+
+F |
+
+94 |
+
+8 |
+
+31 |
+
+75 |
+
+Etat |
+
+F |
+
+95 |
+
+|
+
+46 |
+
+60 |
+
+Etat |
+
+F |
+
+96 |
+
+|
+
+27 |
+
+0 |
+
+Etat |
+
+F |
+
+97 |
+
+7 |
+
+63 |
+
+90 |
+
+Etat |
+
+F |
+
+98 |
+
+|
+
+3 |
+
+5 |
+
+Etat |
+
+F |
+
+99 |
+
+28 |
+
+77 |
+
+75 |
+
+Etat |
+
+F |
+
+100 |
+
+|
+
+2 |
+
+45 |
+
+Etat |
+
+F |
+
+101 |
+
+38 |
+
+51 |
+
+60 |
+
+Etat |
+
+F |
+
+102 |
+
+26 |
+
+8 |
+
+60 |
+
+Etat |
+
+F |
+
+103 |
+
+|
+
+1 |
+
+90 |
+
+Etat |
+
+F |
+
+104 |
+
+4 |
+
+42 |
+
+10 |
+
+Etat |
+
+F |
+
+105 |
+
+9 |
+
+23 |
+
+10 |
+
+Etat |
+
+F |
+
+106 |
+
+10 |
+
+3 |
+
+70 |
+
+Etat |
+
+F |
+
+107 |
+
+20 |
+
+68 |
+
+60 |
+
+Etat |
+
+F |
+
+108 |
+
+3 |
+
+22 |
+
+80 |
+
+Etat |
+
+F |
+
+109 |
+
+|
+
+30 |
+
+40 |
+
+Etat |
+
+F |
+
+110 |
+
+3 |
+
+91 |
+
+40 |
+
+Etat |
+
+F |
+
+111 |
+
+|
+
+32 |
+
+90 |
+
+Etat |
+
+F |
+
+112 |
+
+10 |
+
+28 |
+
+30 |
+
+Etat |
+
+F |
+
+113 |
+
+|
+
+16 |
+
+50 |
+
+Etat |
+
+F |
+
+114 |
+
+|
+
+7 |
+
+10 |
+
+Etat |
+
+F |
+
+115 |
+
+|
+
+95 |
+
+20 |
+
+Etat |
+
+F |
+
+116 |
+
+7 |
+
+62 |
+
+10 |
+
+Etat |
+
+F |
+
+117 |
+
+2 |
+
+96 |
+
+10 |
+
+Etat |
+
+F |
+
+118 |
+
+13 |
+
+56 |
+
+95 |
+
+Etat |
+
+F |
+
+119 |
+
+39 |
+
+23 |
+
+20 |
+
+Etat |
+
+F |
+
+120 |
+
+23 |
+
+86 |
+
+55 |
+
+Etat |
+
+F |
+
+121 |
+
+11 |
+
+28 |
+
+20 |
+
+Etat |
+
+F |
+
+122 |
+
+6 |
+
+34 |
+
+70 |
+
+Etat |
+
+F |
+
+123 |
+
+2 |
+
+17 |
+
+30 |
+
+Etat |
+
+F |
+
+124 |
+
+2 |
+
+53 |
+
+60 |
+
+Etat |
+
+F |
+
+125 |
+
+9 |
+
+68 |
+
+90 |
+
+Etat |
+
+F |
+
+126 |
+
+|
+
+18 |
+
+50 |
+
+Etat |
+
+F |
+
+127 |
+
+10 |
+
+80 |
+
+30 |
+
+Etat |
+
+F |
+
+128 |
+
+4 |
+
+38 |
+
+60 |
+
+Etat |
+
+F |
+
+129 |
+
+31 |
+
+52 |
+
+40 |
+
+Etat |
+
+F |
+
+130 |
+
+|
+
+40 |
+
+70 |
+
+Etat |
+
+F |
+
+131 |
+
+|
+
+85 |
+
+40 |
+
+Etat |
+
+F |
+
+132 |
+
+3 |
+
+35 |
+
+30 |
+
+Etat |
+
+F |
+
+133 |
+
+4 |
+
+66 |
+
+60 |
+
+Etat |
+
+F |
+
+134 |
+
+12 |
+
+91 |
+
+10 |
+
+Etat |
+
+F |
+
+135 |
+
+5 |
+
+17 |
+
+90 |
+
+Etat |
+
+F |
+
+136 |
+
+8 |
+
+75 |
+
+20 |
+
+Etat |
+
+F |
+
+137 |
+
+9 |
+
+14 |
+
+20 |
+
+Etat |
+
+F |
+
+138 |
+
+9 |
+
+43 |
+
+50 |
+
+Etat |
+
+F |
+
+139 |
+
+10 |
+
+1 |
+
+|
+
+Etat |
+
+F |
+
+140 |
+
+|
+
+6 |
+
+|
+
+Etat |
+
+F |
+
+141 |
+
+22 |
+
+83 |
+
+30 |
+
+Etat |
+
+F |
+
+142 |
+
+|
+
+4 |
+
+80 |
+
+Etat |
+
+F |
+
+143 |
+
+|
+
+21 |
+
+|
+
+Etat |
+
+F |
+
+144 |
+
+|
+
+5 |
+
+20 |
+
+Etat |
+
+F |
+
+145 |
+
+|
+
+20 |
+
+90 |
+
+Etat |
+
+F |
+
+146 |
+
+|
+
+43 |
+
+60 |
+
+Etat |
+
+F |
+
+147 |
+
+|
+
+47 |
+
+30 |
+
+Etat |
+
+F |
+
+148 |
+
+|
+
+24 |
+
+60 |
+
+Etat |
+
+F |
+
+149 |
+
+14 |
+
+75 |
+
+80 |
+
+Etat |
+
+F |
+
+150 |
+
+|
+
+65 |
+
+60 |
+
+Etat |
+
+F |
+
+151 |
+
+3 |
+
+46 |
+
+70 |
+
+Etat |
+
+F |
+
+153 |
+
+7 |
+
+64 |
+
+40 |
+
+Etat |
+
+F |
+
+155 |
+
+7 |
+
+38 |
+
+80 |
+
+Etat |
+
+F |
+
+156 |
+
+|
+
+|
+
+25 |
+
+Etat |
+
+F |
+
+157 |
+
+4 |
+
+58 |
+
+40 |
+
+Etat |
+
+F |
+
+158 |
+
+|
+
+16 |
+
+70 |
+
+Etat |
+
+F |
+
+159 |
+
+|
+
+18 |
+
+40 |
+
+Etat |
+
+F |
+
+160 |
+
+13 |
+
+48 |
+
+15 |
+
+Etat |
+
+F |
+
+162 |
+
+|
+
+43 |
+
+10 |
+
+Etat |
+
+F |
+
+164 |
+
+2 |
+
+45 |
+
+60 |
+
+Etat |
+
+F |
+
+165 |
+
+|
+
+21 |
+
+60 |
+
+Etat |
+
+F |
+
+166 |
+
+2 |
+
+47 |
+
+50 |
+
+Etat |
+
+F |
+
+171 |
+
+|
+
+36 |
+
+60 |
+
+Etat |
+
+F |
+
+172 |
+
+|
+
+39 |
+
+10 |
+
+Etat |
+
+F |
+
+173 |
+
+|
+
+28 |
+
+50 |
+
+Etat |
+
+F |
+
+177 |
+
+1 |
+
+86 |
+
+20 |
+
+Etat |
+
+F |
+
+178 |
+
+|
+
+55 |
+
+|
+
+Etat |
+
+F |
+
+179 |
+
+|
+
+59 |
+
+75 |
+
+Etat |
+
+F |
+
+180 |
+
+|
+
+|
+
+78 |
+
+Etat |
+
+F |
+
+181 |
+
+|
+
+|
+
+7 |
+
+Etat |
+
+F |
+
+182 |
+
+|
+
+12 |
+
+60 |
+
+Etat |
+
+F |
+
+183 |
+
+|
+
+3 |
+
+70 |
+
+Etat |
+
+F |
+
+184 |
+
+1 |
+
+76 |
+
+20 |
+
+Etat |
+
+F |
+
+185 |
+
+|
+
+53 |
+
+60 |
+
+Etat |
+
+F |
+
+186 |
+
+1 |
+
+|
+
+27 |
+
+Etat |
+
+Une enclave en dehors du domaine national est pratiquée sur les parcelles F 186 et F 187. La portion exclue du domaine national couvre 87 a 42 ca. Elle est définie au nord par une ligne perpendiculaire à la limite cadastrale ouest de la parcelle F 186 sur 109 m de long, à l'est par une ligne parallèle à la limite cadastrale ouest de la parcelle 186, avec un recul de 19,50 m et sur une longueur 125,60 m, à l'ouest par la limite cadastrale de la parcelle F 186 sur 35 m de long, et au sud par une ligne parallèle à la limite sud de la parcelle F 186 sur 141,50 m de long. Le recul de 3 m par rapport à la limite sud de la parcelle F 186 maintient dans le domaine national l'allée et la partie conservée du mur d'enclos historique. La partie de la parcelle F 186 intégrée au domaine national comprend 1 ha 27 ca sur 1 ha 57 a et 30 ca. |
+
+F |
+
+187 |
+
+7 |
+
+35 |
+
+92 |
+
+Etat |
+
+Une enclave en dehors du domaine national est pratiquée sur les parcelles F 186 et F 187. La portion exclue du domaine national couvre 87 a 42 ca. Elle est définie au nord par une ligne perpendiculaire à la limite cadastrale ouest de la parcelle F 186 sur 109 m de long, à l'est par une ligne parallèle à la limite cadastrale ouest de la parcelle 186, avec un recul de 19,50 m et sur une longueur 125,60 m, à l'ouest par la limite cadastrale de la parcelle F 186 sur 35 m de long, et au sud par une ligne parallèle à la limite sud de la parcelle F 186 sur 141,50 m de long. Le recul de 3 m par rapport à la limite sud de la parcelle F 186 maintient dans le domaine national l'allée et la partie conservée du mur d'enclos historique. La partie de la parcelle F 187 intégrée au domaine national comprend 7 ha 35 a 92 ca sur 7 ha 58 a et 88 ca. |
+
+F |
+
+188 |
+
+|
+
+15 |
+
+|
+
+Etat |
+
+F |
+
+190 |
+
+|
+
+2 |
+
+30 |
+
+Etat |
+
+F |
+
+191 |
+
+|
+
+7 |
+
+30 |
+
+Etat |
+
+F |
+
+192 |
+
+1 |
+
+50 |
+
+|
+
+Etat |
+
+F |
+
+193 |
+
+3 |
+
+95 |
+
+|
+
+Etat |
+
+F |
+
+194 |
+
+2 |
+
+81 |
+
+|
+
+Etat |
+
+F |
+
+195 |
+
+|
+
+16 |
+
+50 |
+
+Etat |
+
+F |
+
+197 |
+
+|
+
+2 |
+
+40 |
+
+Etat |
+
+F |
+
+198 |
+
+|
+
+2 |
+
+20 |
+
+Etat |
+
+F |
+
+199 |
+
+17 |
+
+53 |
+
+75 |
+
+Etat |
+
+F |
+
+200 |
+
+|
+
+94 |
+
+60 |
+
+Etat |
+
+F |
+
+201 |
+
+|
+
+|
+
+20 |
+
+Etat |
+
+F |
+
+202 |
+
+11 |
+
+46 |
+
+60 |
+
+Etat |
+
+F |
+
+203 |
+
+|
+
+88 |
+
+30 |
+
+Etat |
+
+F |
+
+205 |
+
+1 |
+
+37 |
+
+80 |
+
+Etat |
+
+F |
+
+206 |
+
+|
+
+29 |
+
+10 |
+
+Etat |
+
+F |
+
+208 |
+
+|
+
+5 |
+
+15 |
+
+Etat |
+
+F |
+
+209 |
+
+|
+
+6 |
+
+90 |
+
+Etat |
+
+F |
+
+210 |
+
+|
+
+35 |
+
+10 |
+
+Etat |
+
+F |
+
+211 |
+
+|
+
+13 |
+
+60 |
+
+Etat |
+
+F |
+
+213 |
+
+|
+
+85 |
+
+86 |
+
+Etat |
+
+La parcelle F 213 est partiellement intégrée au domaine national. Les deux petites ailes arrière des anciennes écuries situées sur le côté oriental sont exclues de l'emprise du domaine, ainsi que les deux cours arrière et le bâtiment bas qui clôt la cour médiane à l'est. Les parties non bâties portant de l'espace public au-delà de la cour nord et au-delà de façade orientale du quadrilatère sud sont également exclues du domaine national. La partie intégrée au domaine national comprend de 85 a 86 ca sur 1 ha 2 a et 60 ca. |
+
+F |
+
+214 |
+
+|
+
+28 |
+
+50 |
+
+Etat |
+
+F |
+
+215 |
+
+1 |
+
+83 |
+
+60 |
+
+Etat |
+
+F |
+
+216 |
+
+1 |
+
+39 |
+
+70 |
+
+Etat |
+
+F |
+
+217 |
+
+8 |
+
+51 |
+
+55 |
+
+Etat |
+
+F |
+
+218 |
+
+|
+
+3 |
+
+|
+
+Etat |
+
+F |
+
+219 |
+
+1 |
+
+63 |
+
+30 |
+
+Etat |
+
+F |
+
+220 |
+
+14 |
+
+82 |
+
+55 |
+
+Etat |
+
+F |
+
+221 |
+
+|
+
+33 |
+
+10 |
+
+Etat |
+
+F |
+
+222 |
+
+|
+
+40 |
+
+|
+
+Etat |
+
+F |
+
+223 |
+
+6 |
+
+55 |
+
+20 |
+
+Etat |
+
+F |
+
+224 |
+
+1 |
+
+47 |
+
+30 |
+
+Etat |
+
+F |
+
+225 |
+
+1 |
+
+71 |
+
+70 |
+
+Etat |
+
+F |
+
+226 |
+
+6 |
+
+40 |
+
+90 |
+
+Etat |
+
+F |
+
+227 |
+
+53 |
+
+30 |
+
+|
+
+Etat |
+
+F |
+
+228 |
+
+|
+
+|
+
+60 |
+
+Etat |
+
+F |
+
+229 |
+
+14 |
+
+14 |
+
+35 |
+
+Etat |
+
+F |
+
+230 |
+
+|
+
+6 |
+
+90 |
+
+Etat |
+
+F |
+
+231 |
+
+|
+
+|
+
+80 |
+
+Etat |
+
+F |
+
+232 |
+
+|
+
+|
+
+10 |
+
+Etat |
+
+F |
+
+233 |
+
+|
+
+43 |
+
+|
+
+Etat |
+
+F |
+
+234 |
+
+|
+
+93 |
+
+50 |
+
+Etat |
+
+F |
+
+235 |
+
+|
+
+51 |
+
+40 |
+
+Etat |
+
+F |
+
+236 |
+
+|
+
+14 |
+
+|
+
+Etat |
+
+F |
+
+237 |
+
+4 |
+
+93 |
+
+20 |
+
+Etat |
+
+F |
+
+238 |
+
+|
+
+42 |
+
+|
+
+Etat |
+
+F |
+
+239 |
+
+|
+
+32 |
+
+80 |
+
+Etat |
+
+F |
+
+240 |
+
+|
+
+60 |
+
+15 |
+
+Commune de Rambouillet |
+
+F |
+
+241 |
+
+11 |
+
+71 |
+
+80 |
+
+Etat |
+
+F |
+
+242 |
+
+8 |
+
+40 |
+
+40 |
+
+Etat |
+
+F |
+
+245 |
+
+|
+
+|
+
+10 |
+
+Etat |
+
+F |
+
+246 |
+
+|
+
+|
+
+5 |
+
+Etat |
+
+F |
+
+247 |
+
+|
+
+6 |
+
+95 |
+
+Etat |
+
+F |
+
+256 |
+
+1 |
+
+52 |
+
+11 |
+
+Etat |
+
+Une enclave de 1 ha 8a 25 ca hors du domaine national est pratiquée sur la parcelle F 256. Elle est limitée au sud par la limite cadastrale, à l'ouest par une ligne parallèle au bâtiment de l'internat (barre du Bas) placée 1 m devant la façade, au nord par une ligne parallèle à la façade de l'internat placée 1 m devant la façade, puis par une ligne de 46,50 m prolongeant la façade de l'aile en retour, à l'est par une ligne perpendiculaire à la précédente venant joindre la limite cadastrale sud. La partie intégrée au domaine national comprend 1 ha 52 a 11 ca sur 2 ha 60 a et 24 ca. |
+
+F |
+
+257 |
+
+3 |
+
+61 |
+
+7 |
+
+Etat |
+
+F |
+
+259 |
+
+|
+
+10 |
+
+87 |
+
+Etat |
+
+F |
+
+260 |
+
+|
+
+42 |
+
+29 |
+
+Etat |
+
+F |
+
+261 |
+
+1 |
+
+78 |
+
+47 |
+
+Etat |
+
+F |
+
+262 |
+
+1 |
+
+36 |
+
+50 |
+
+Etat |
+
+F |
+
+263 |
+
+13 |
+
+91 |
+
+45 |
+
+Etat |
+
+F |
+
+264 |
+
+|
+
+3 |
+
+91 |
+
+Etat |
+
+F |
+
+265 |
+
+|
+
+73 |
+
+89 |
+
+Etat |
+
+F |
+
+267 |
+
+9 |
+
+89 |
+
+94 |
+
+Etat |
+
+F |
+
+268 |
+
+|
+
+38 |
+
+74 |
+
+Etat |
+
+La parcelle F 268 est exclue du domaine national à l'exception de la partie située dans le prolongement et dans l'axe de l'allée de la Futaie (parcelle F 178) définie par une largeur de 23 m jusqu'à la limite cadastrale sud de la parcelle, et de la partie nord-est définie par un recul de 6 m par rapport au mur historique de l'enclos de la cour Impériale. Les parties exclues du domaine national sur la parcelle F 268 sont constituées par une enclave de 1 ha 83 a 81 ca et une partie d'enclave pour 11 a 7 ca, telles que définies par les limites mentionnées plus haut. La partie intégrée au domaine est donc limitée à 38 a 74 ca sur 2 ha 45 a et 18 ca. |
+
+F |
+
+269 |
+
+|
+
+38 |
+
+3 |
+
+Etat |
+
+F |
+
+270 |
+
+|
+
+6 |
+
+63 |
+
+Etat |
+
+F |
+
+271 |
+
+|
+
+12 |
+
+11 |
+
+Etat |
+
+Une enclave hors domaine national de 1 ha 41 a 75 ca est pratiquée sur les parcelles F 266, F 268, F 271, F 273 et F 276. Elle est définie au nord-est par un recul de 6 m par rapport à la limite cadastrale nord-est de la parcelle cadastrale F 271, au sud par les limites cadastrales F 273 et F 276, au sud-ouest par les limites cadastrales des parcelles F 266, F 268 et F 271 et au nord-ouest par le prolongement de l'allée de la Futaie (parcelle F 178) définie sur une largeur de 23 m. La partie intégrée au domaine de la parcelle 271 est donc limitée à 12 a 11 ca sur 1 ha 21 a et 46 ca. |
+
+F |
+
+272 |
+
+|
+
+20 |
+
+28 |
+
+Etat |
+
+F |
+
+273 |
+
+|
+
+1 |
+
+99 |
+
+Etat |
+
+Une enclave hors domaine national de 1 ha 41 a 75 ca est pratiquée sur les parcelles F 266, F 268, F 271, F 273 et F 276. Elle est définie au nord-est par un recul de 6 m par rapport à la limite cadastrale nord-est de la parcelle cadastrale F 271, au sud par les limites cadastrales F 273 et F 276, au sud-ouest par les limites cadastrales des parcelles F 266, F 268 et F 271 et au nord-ouest par le prolongement de l'allée de la Futaie (parcelle F 178) définie sur une largeur de 23 m. La partie intégrée au domaine de la parcelle 273 est donc limitée à 1 a 99 ca sur 21 a. |
+
+F |
+
+274 |
+
+|
+
+28 |
+
+96 |
+
+Etat |
+
+F |
+
+275 |
+
+3 |
+
+82 |
+
+21 |
+
+Etat |
+
+F |
+
+276 |
+
+|
+
+1 |
+
+46 |
+
+Etat |
+
+Une enclave hors domaine national de 1 ha 41 a 75 ca est pratiquée sur les parcelles F 266, F 268, F 271, F 273 et F 276. Elle est définie au nord-est par un recul de 6 m par rapport à la limite cadastrale nord-est de la parcelle cadastrale F 271, au sud par les limites cadastrales F 273 et F 276, au sud-ouest par les limites cadastrales des parcelles F 266, F 268 et F 271 et au nord-ouest par le prolongement de l'allée de la Futaie (parcelle F 178) définie sur une largeur de 23 m. La partie intégrée au domaine de la parcelle F 276 est donc limitée à 1 a 46 ca sur 5 a et 9 ca. |
+
+F |
+
+277 |
+
+|
+
+3 |
+
+91 |
+
+Etat |
+
+F |
+
+278 |
+
+|
+
+37 |
+
+3 |
+
+Etat |
+
+Une enclave hors domaine national de 3 ha 64 a 70 ca est pratiquée sur les parcelles F 278 et F 290. Elle est définie au nord-ouest par une ligne joignant le ressaut de la parcelle F 290, la limite sud de la parcelle F 280, se prolongeant au-delà de la parcelle F 280 selon la même orientation sur une longueur de 124,60 m ; en retour au nord-est par une ligne joignant le ressaut sud-est de la parcelle F 278 et se prolongeant au-delà de cette parcelle sur 73,55 m ; en retour au sud par une ligne parallèle à la limite cadastrale de la parcelle F 290 le long de l'allée de la Grille-de-Guéville sur 163,80 m ; en retour d'équerre par une ligne de 50 m approchant l'allée de la Grille-de-Guéville ; en retour d'équerre par une ligne de 70 m suivant le tracée de l'allée de la Grille-de-Guéville ; en retour d'équerre par une ligne de 50 m ; en retour d'équerre par une ligne venant joindre la limite cadastrale sud-ouest. La partie intégrée au domaine de la parcelle F 278 est donc limitée à 37 a 3 ca sur 84 a et 67 ca. |
+
+F |
+
+279 |
+
+|
+
+3 |
+
+55 |
+
+Etat |
+
+F |
+
+280 |
+
+1 |
+
+19 |
+
+42 |
+
+Etat |
+
+F |
+
+281 |
+
+9 |
+
+75 |
+
+82 |
+
+Etat |
+
+F |
+
+282 |
+
+3 |
+
+58 |
+
+19 |
+
+Etat |
+
+F |
+
+283 |
+
+|
+
+1 |
+
+8 |
+
+Etat |
+
+F |
+
+284 |
+
+|
+
+|
+
+87 |
+
+Etat |
+
+F |
+
+285 |
+
+5 |
+
+59 |
+
+5 |
+
+Etat |
+
+F |
+
+286 |
+
+7 |
+
+13 |
+
+91 |
+
+Etat |
+
+F |
+
+287 |
+
+3 |
+
+89 |
+
+98 |
+
+Etat |
+
+F |
+
+289 |
+
+1 |
+
+6 |
+
+71 |
+
+Etat |
+
+F |
+
+290 |
+
+3 |
+
+31 |
+
+46 |
+
+Etat |
+
+Une enclave hors domaine national de 3 ha 64 a 70 ca est pratiquée sur les parcelles F 278 et F 290. Elle est définie au nord-ouest par une ligne joignant le ressaut de la parcelle F 290, la limite sud de la parcelle F 280, se prolongeant au-delà de la parcelle F 280 selon la même orientation sur une longueur de 124,60 m ; en retour au nord-est par une ligne joignant le ressaut sud-est de la parcelle F 278 et se prolongeant au-delà de cette parcelle sur 73,55 m ; en retour au sud par une ligne parallèle à la limite cadastrale de la parcelle F 290 le long de l'allée de la Grille-de-Guéville sur 163,80 m ; en retour d'équerre par une ligne de 50 m approchant l'allée de la Grille-de-Guéville ; en retour d'équerre par une ligne de 70 m suivant le tracée de l'allée de la Grille-de-Guéville ; en retour d'équerre par une ligne de 50 m ; en retour d'équerre par une ligne venant joindre la limite cadastrale sud-ouest. La partie intégrée au domaine de la parcelle F 290 est donc limitée à 3 ha 31 a 46 ca sur 6 ha 45 a et 56 ca. |
+
+F |
+
+291 |
+
+1 |
+
+24 |
+
+90 |
+
+Etat |
+
+F |
+
+292 |
+
+38 |
+
+2 |
+
+66 |
+
+Etat |
+
+F |
+
+293 |
+
+|
+
+21 |
+
+16 |
+
+Etat |
+
+19° Domaine national du château de Saint-Germain-en-Laye (Yvelines) :
+
+- carte :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 121 du 26 mai 2024, texte n° 24 à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=QAW4jcbjJIr3GMlbDdaq6n-9gRX-cMgK-3DaXqN0q4o=
+
+Domaine national du château de Saint-Germain-en-Laye (Yvelines)
+
+- liste des parcelles, parties de parcelles et espaces non cadastrés intégrés au domaine national du château de Saint-Germain-en-Laye :
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHATEAU DE SAINT-GERMAIN-EN-LAYE ;
+
+COMMUNE : LE MESNIL-LE-ROI ;
+
+CODE INSEE : 78396.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+AP |
+
+2 |
+
+|
+
+|
+
+89 |
+
+Propriété privée |
+
+AP |
+
+3 |
+
+|
+
+1 |
+
+51 |
+
+Etat |
+
+AP |
+
+4 |
+
+|
+
+4 |
+
+72 |
+
+Etat |
+
+AP |
+
+5 |
+
+|
+
+|
+
+73 |
+
+Etat |
+
+AP |
+
+6 |
+
+|
+
+5 |
+
+32 |
+
+Etat |
+
+AP |
+
+7 |
+
+|
+
+1 |
+
+57 |
+
+Etat |
+
+AP |
+
+8 |
+
+|
+
+2 |
+
+78 |
+
+Etat |
+
+AP |
+
+10 |
+
+|
+
+4 |
+
+25 |
+
+Propriété privée |
+
+AP |
+
+11 |
+
+|
+
+1 |
+
+4 |
+
+Propriété privée |
+
+AP |
+
+12 |
+
+|
+
+1 |
+
+64 |
+
+Etat |
+
+AP |
+
+13 |
+
+|
+
+3 |
+
+14 |
+
+Etat |
+
+AP |
+
+14 |
+
+|
+
+3 |
+
+36 |
+
+Etat |
+
+AP |
+
+15 |
+
+|
+
+2 |
+
+91 |
+
+Etat |
+
+AP |
+
+16 |
+
+|
+
+1 |
+
+4 |
+
+Etat |
+
+AP |
+
+17 |
+
+|
+
+|
+
+86 |
+
+Etat |
+
+AP |
+
+18 |
+
+|
+
+27 |
+
+24 |
+
+Etat |
+
+AP |
+
+19 |
+
+|
+
+9 |
+
+5 |
+
+Propriété privée |
+
+AP |
+
+20 |
+
+|
+
+5 |
+
+30 |
+
+Propriété privée |
+
+AP |
+
+21 |
+
+|
+
+34 |
+
+|
+
+Etat |
+
+AP |
+
+22 |
+
+|
+
+49 |
+
+40 |
+
+Etat |
+
+AP |
+
+23 |
+
+|
+
+5 |
+
+91 |
+
+Etat |
+
+AP |
+
+24 |
+
+|
+
+2 |
+
+73 |
+
+Etat |
+
+AP |
+
+25 |
+
+|
+
+17 |
+
+57 |
+
+Etat |
+
+AP |
+
+26 |
+
+|
+
+9 |
+
+76 |
+
+Etat |
+
+AP |
+
+27 |
+
+|
+
+5 |
+
+52 |
+
+Etat |
+
+AP |
+
+28 |
+
+|
+
+5 |
+
+29 |
+
+Etat |
+
+AP |
+
+29 |
+
+|
+
+1 |
+
+75 |
+
+Etat |
+
+AP |
+
+30 |
+
+|
+
+4 |
+
+15 |
+
+Etat |
+
+AP |
+
+31 |
+
+|
+
+3 |
+
+87 |
+
+Etat |
+
+AP |
+
+32 |
+
+|
+
+1 |
+
+43 |
+
+Etat |
+
+AP |
+
+33 |
+
+|
+
+6 |
+
+35 |
+
+Etat |
+
+AP |
+
+34 |
+
+|
+
+6 |
+
+79 |
+
+Etat |
+
+AP |
+
+35 |
+
+|
+
+3 |
+
+79 |
+
+Etat |
+
+AP |
+
+37 |
+
+|
+
+5 |
+
+86 |
+
+Etat |
+
+AP |
+
+38 |
+
+|
+
+6 |
+
+90 |
+
+Etat |
+
+AP |
+
+39 |
+
+|
+
+4 |
+
+11 |
+
+Propriété privée |
+
+AP |
+
+40 |
+
+|
+
+4 |
+
+25 |
+
+Propriété privée |
+
+AP |
+
+41 |
+
+|
+
+2 |
+
+83 |
+
+Etat |
+
+AP |
+
+42 |
+
+|
+
+1 |
+
+99 |
+
+Etat |
+
+AP |
+
+43 |
+
+|
+
+2 |
+
+55 |
+
+Etat |
+
+AP |
+
+44 |
+
+|
+
+3 |
+
+47 |
+
+Etat |
+
+AP |
+
+45 |
+
+|
+
+4 |
+
+95 |
+
+Etat |
+
+AP |
+
+46 |
+
+|
+
+6 |
+
+3 |
+
+Etat |
+
+AP |
+
+47 |
+
+|
+
+4 |
+
+15 |
+
+Etat |
+
+AP |
+
+48 |
+
+|
+
+3 |
+
+87 |
+
+Etat |
+
+AP |
+
+49 |
+
+|
+
+3 |
+
+59 |
+
+Etat |
+
+AP |
+
+50 |
+
+|
+
+4 |
+
+53 |
+
+Etat |
+
+AP |
+
+51 |
+
+|
+
+5 |
+
+63 |
+
+Etat |
+
+AP |
+
+52 |
+
+|
+
+3 |
+
+33 |
+
+Etat |
+
+AP |
+
+53 |
+
+|
+
+31 |
+
+50 |
+
+Etat |
+
+AP |
+
+54 |
+
+|
+
+5 |
+
+52 |
+
+Etat |
+
+AP |
+
+109 |
+
+|
+
+6 |
+
+12 |
+
+Etat |
+
+AP |
+
+143 |
+
+|
+
+3 |
+
+35 |
+
+Propriété privée |
+
+AP |
+
+146 |
+
+|
+
+3 |
+
+85 |
+
+Propriété privée |
+
+AP |
+
+171 |
+
+|
+
+27 |
+
+93 |
+
+Etat |
+
+AP |
+
+175 |
+
+|
+
+3 |
+
+2 |
+
+Etat |
+
+AP |
+
+183 |
+
+|
+
+1 |
+
+74 |
+
+Etat |
+
+AP |
+
+202 |
+
+|
+
+1 |
+
+36 |
+
+Etat |
+
+AP |
+
+269 |
+
+2 |
+
+72 |
+
+54 |
+
+Etat |
+
+AS |
+
+1 |
+
+|
+
+3 |
+
+5 |
+
+Etat |
+
+AS |
+
+2 |
+
+|
+
+5 |
+
+93 |
+
+Etat |
+
+AS |
+
+3 |
+
+|
+
+2 |
+
+17 |
+
+Propriété privée |
+
+AS |
+
+4 |
+
+|
+
+2 |
+
+38 |
+
+Propriété privée |
+
+AS |
+
+5 |
+
+|
+
+2 |
+
+80 |
+
+Etat |
+
+AS |
+
+6 |
+
+|
+
+2 |
+
+94 |
+
+Etat |
+
+AS |
+
+7 |
+
+|
+
+2 |
+
+46 |
+
+Etat |
+
+AS |
+
+8 |
+
+|
+
+6 |
+
+47 |
+
+Etat |
+
+AS |
+
+9 |
+
+|
+
+4 |
+
+24 |
+
+Etat |
+
+AS |
+
+10 |
+
+|
+
+7 |
+
+92 |
+
+Etat |
+
+AS |
+
+11 |
+
+|
+
+4 |
+
+53 |
+
+Etat |
+
+AS |
+
+12 |
+
+|
+
+7 |
+
+95 |
+
+Etat |
+
+AS |
+
+13 |
+
+|
+
+4 |
+
+44 |
+
+Etat |
+
+AS |
+
+14 |
+
+|
+
+2 |
+
+76 |
+
+Propriété privée |
+
+AS |
+
+15 |
+
+|
+
+6 |
+
+46 |
+
+Etat |
+
+AS |
+
+16 |
+
+|
+
+9 |
+
+79 |
+
+Etat |
+
+AS |
+
+17 |
+
+|
+
+8 |
+
+98 |
+
+Propriété privée |
+
+AS |
+
+18 |
+
+|
+
+3 |
+
+92 |
+
+Etat |
+
+AS |
+
+19 |
+
+|
+
+4 |
+
+49 |
+
+Etat |
+
+AS |
+
+20 |
+
+|
+
+6 |
+
+75 |
+
+Propriété privée |
+
+AS |
+
+21 |
+
+|
+
+2 |
+
+44 |
+
+Etat |
+
+AS |
+
+22 |
+
+|
+
+8 |
+
+64 |
+
+Etat |
+
+AS |
+
+23 |
+
+|
+
+4 |
+
+36 |
+
+Etat |
+
+AS |
+
+24 |
+
+|
+
+2 |
+
+76 |
+
+Propriété privée |
+
+AS |
+
+25 |
+
+|
+
+4 |
+
+50 |
+
+Propriété privée |
+
+AS |
+
+26 |
+
+|
+
+4 |
+
+90 |
+
+Propriété privée |
+
+AS |
+
+27 |
+
+|
+
+3 |
+
+42 |
+
+Etat |
+
+AS |
+
+28 |
+
+|
+
+11 |
+
+26 |
+
+Propriété privée |
+
+AS |
+
+29 |
+
+|
+
+1 |
+
+78 |
+
+Propriété privée |
+
+AS |
+
+98 |
+
+|
+
+4 |
+
+71 |
+
+Propriété privée |
+
+AS |
+
+99 |
+
+|
+
+12 |
+
+37 |
+
+Propriété privée |
+
+AS |
+
+100 |
+
+|
+
+29 |
+
+90 |
+
+Propriété privée |
+
+AS |
+
+103 |
+
+|
+
+|
+
+24 |
+
+Etat |
+
+AS |
+
+104 |
+
+|
+
+6 |
+
+86 |
+
+Etat |
+
+AS |
+
+105 |
+
+|
+
+3 |
+
+33 |
+
+Etat |
+
+AS |
+
+106 |
+
+|
+
+5 |
+
+99 |
+
+Etat |
+
+AS |
+
+107 |
+
+|
+
+5 |
+
+92 |
+
+Etat |
+
+AS |
+
+177 |
+
+|
+
+4 |
+
+51 |
+
+Etat |
+
+AS |
+
+254 |
+
+|
+
+13 |
+
+94 |
+
+Propriété privée |
+
+ZB |
+
+1 |
+
+|
+
+18 |
+
+60 |
+
+Etat |
+
+ZB |
+
+2 |
+
+|
+
+31 |
+
+90 |
+
+Etat |
+
+ZB |
+
+4 |
+
+|
+
+41 |
+
+90 |
+
+Etat |
+
+ZB |
+
+5 |
+
+|
+
+31 |
+
+70 |
+
+Etat |
+
+ZB |
+
+6 |
+
+|
+
+18 |
+
+|
+
+Etat |
+
+ZB |
+
+7 |
+
+|
+
+1 |
+
+20 |
+
+Etat |
+
+ZB |
+
+8 |
+
+1 |
+
+15 |
+
+10 |
+
+Etat |
+
+ZB |
+
+9 |
+
+|
+
+2 |
+
+80 |
+
+Commune du Mesnil-le-Roi |
+
+ZB |
+
+10 |
+
+|
+
+56 |
+
+70 |
+
+Etat |
+
+ZB |
+
+11 |
+
+|
+
+10 |
+
+40 |
+
+Etat |
+
+ZB |
+
+19 |
+
+|
+
+12 |
+
+50 |
+
+Etat |
+
+ZB |
+
+38 |
+
+|
+
+18 |
+
+90 |
+
+Etat |
+
+ZB |
+
+39 |
+
+|
+
+6 |
+
+90 |
+
+Etat |
+
+ZB |
+
+40 |
+
+|
+
+14 |
+
+75 |
+
+Propriété privée |
+
+ZB |
+
+41 |
+
+|
+
+3 |
+
+86 |
+
+Propriété privée |
+
+ZB |
+
+42 |
+
+|
+
+2 |
+
+55 |
+
+Etat |
+
+ZB |
+
+43 |
+
+|
+
+6 |
+
+45 |
+
+Propriété privée |
+
+ZB |
+
+45 |
+
+|
+
+31 |
+
+43 |
+
+Etat |
+
+ZB |
+
+46 |
+
+|
+
+2 |
+
+9 |
+
+Etat |
+
+ZB |
+
+47 |
+
+|
+
+17 |
+
+58 |
+
+Etat |
+
+AP/ZB |
+
+Non cadastré |
+
+|
+
+26 |
+
+67 |
+
+Commune du Mesnil-le-Roi |
+
+Piémont de la Grande Terrasse : intégration au domaine national des chemins ruraux n° 22 et n°23 dit du Belloy et du parc aux Lièvres, non cadastrés, de la limite sud de la section AP jusqu'aux limites cadastrales des parcelles AP 269 et AP 175. Les parties intégrées au domaine national comprennent 26 a 67 ca. |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHATEAU DE SAINT-GERMAIN-EN-LAYE ;
+
+COMMUNE : LE PECQ ;
+
+CODE INSEE : 78481.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+AB |
+
+17 |
+
+|
+
+6 |
+
+36 |
+
+Etat |
+
+AB |
+
+18 |
+
+|
+
+47 |
+
+7 |
+
+Propriété privée |
+
+AO |
+
+350 |
+
+1 |
+
+32 |
+
+84 |
+
+Propriété privée |
+
+Intégration de la parcelle au domaine national à l'exception du redent nord portant une maison individuelle. La partie intégrée au domaine national est délimitée sur la parcelle par un prolongement des lignes cadastrales formant l'essentiel des mitoyennetés situées au nord. La partie intégrée au domaine national comprend 1 ha 32 a et 84 ca sur un total de 1 ha 40 a et 74 ca. |
+
+AR |
+
+1 |
+
+|
+
+4 |
+
+84 |
+
+Etat |
+
+AR |
+
+2 |
+
+|
+
+2 |
+
+92 |
+
+Propriété privée |
+
+AR |
+
+3 |
+
+|
+
+6 |
+
+7 |
+
+Propriété privée |
+
+AR |
+
+4 |
+
+|
+
+1 |
+
+38 |
+
+Etat |
+
+AR |
+
+5 |
+
+|
+
+2 |
+
+14 |
+
+Propriété privée |
+
+AR |
+
+6 |
+
+|
+
+2 |
+
+12 |
+
+Propriété privée |
+
+AR |
+
+8 |
+
+|
+
+9 |
+
+58 |
+
+Propriété privée |
+
+AR |
+
+9 |
+
+|
+
+4 |
+
+5 |
+
+Propriété privée |
+
+AR |
+
+10 |
+
+|
+
+4 |
+
+21 |
+
+Etat |
+
+AR |
+
+11 |
+
+|
+
+4 |
+
+67 |
+
+Etat |
+
+AR |
+
+12 |
+
+|
+
+4 |
+
+32 |
+
+Etat |
+
+AR |
+
+13 |
+
+|
+
+3 |
+
+63 |
+
+Etat |
+
+AR |
+
+14 |
+
+|
+
+3 |
+
+40 |
+
+Etat |
+
+AR |
+
+16 |
+
+|
+
+23 |
+
+90 |
+
+Etat |
+
+AR |
+
+17 |
+
+|
+
+9 |
+
+58 |
+
+Etat |
+
+AR |
+
+18 |
+
+|
+
+2 |
+
+3 |
+
+Etat |
+
+AR |
+
+19 |
+
+|
+
+2 |
+
+34 |
+
+Etat |
+
+AR |
+
+20 |
+
+|
+
+1 |
+
+44 |
+
+Propriété privée |
+
+AR |
+
+21 |
+
+|
+
+2 |
+
+8 |
+
+Propriété privée |
+
+AR |
+
+22 |
+
+|
+
+1 |
+
+4 |
+
+Etat |
+
+AR |
+
+23 |
+
+|
+
+1 |
+
+80 |
+
+Propriété privée |
+
+AR |
+
+24 |
+
+|
+
+1 |
+
+78 |
+
+Propriété privée |
+
+AR |
+
+25 |
+
+|
+
+3 |
+
+74 |
+
+Propriété privée |
+
+AR |
+
+26 |
+
+|
+
+3 |
+
+88 |
+
+Etat |
+
+AR |
+
+27 |
+
+|
+
+2 |
+
+36 |
+
+Propriété privée |
+
+AR |
+
+28 |
+
+|
+
+1 |
+
+10 |
+
+Propriété privée |
+
+AR |
+
+29 |
+
+|
+
+8 |
+
+7 |
+
+Etablissement public de la Régie autonome des Transports parisiens (RATP) |
+
+L'intégration au domaine national ne comprend pas le tréfonds (tunnel et installations ferroviaires). |
+
+AR |
+
+30 |
+
+|
+
+|
+
+66 |
+
+Etat |
+
+AR |
+
+31 |
+
+|
+
+1 |
+
+7 |
+
+Etat |
+
+AR |
+
+32 |
+
+|
+
+|
+
+59 |
+
+Propriété privée |
+
+AR |
+
+33 |
+
+|
+
+3 |
+
+49 |
+
+Etat |
+
+AR |
+
+34 |
+
+|
+
+2 |
+
+91 |
+
+Etat |
+
+AR |
+
+35 |
+
+|
+
+2 |
+
+30 |
+
+Propriété privée |
+
+AR |
+
+36 |
+
+|
+
+1 |
+
+91 |
+
+Propriété privée |
+
+AR |
+
+37 |
+
+|
+
+9 |
+
+10 |
+
+Etat |
+
+AR |
+
+38 |
+
+|
+
+3 |
+
+86 |
+
+Propriété privée |
+
+AR |
+
+39 |
+
+|
+
+1 |
+
+96 |
+
+Etat |
+
+AR |
+
+40 |
+
+|
+
+2 |
+
+6 |
+
+Etat |
+
+AR |
+
+41 |
+
+|
+
+3 |
+
+15 |
+
+Etat |
+
+AR |
+
+42 |
+
+|
+
+2 |
+
+27 |
+
+Etat |
+
+AR |
+
+43 |
+
+|
+
+5 |
+
+12 |
+
+Etat |
+
+AR |
+
+45 |
+
+|
+
+12 |
+
+15 |
+
+Etat |
+
+AR |
+
+47 |
+
+|
+
+2 |
+
+71 |
+
+Etat |
+
+AR |
+
+48 |
+
+|
+
+2 |
+
+32 |
+
+Etat |
+
+AR |
+
+49 |
+
+|
+
+1 |
+
+79 |
+
+Etat |
+
+AR |
+
+50 |
+
+|
+
+1 |
+
+21 |
+
+Propriété privée |
+
+AR |
+
+51 |
+
+|
+
+2 |
+
+52 |
+
+Etat |
+
+AR |
+
+52 |
+
+|
+
+5 |
+
+39 |
+
+Etat |
+
+AR |
+
+53 |
+
+|
+
+3 |
+
+42 |
+
+Etat |
+
+AR |
+
+54 |
+
+|
+
+1 |
+
+64 |
+
+Etat |
+
+AR |
+
+55 |
+
+|
+
+2 |
+
+23 |
+
+Etat |
+
+AR |
+
+56 |
+
+|
+
+3 |
+
+6 |
+
+Etat |
+
+AR |
+
+57 |
+
+|
+
+5 |
+
+93 |
+
+Etat |
+
+AR |
+
+58 |
+
+|
+
+4 |
+
+16 |
+
+Etat |
+
+AR |
+
+59 |
+
+|
+
+4 |
+
+32 |
+
+Etat |
+
+AR |
+
+60 |
+
+|
+
+4 |
+
+20 |
+
+Etat |
+
+AR |
+
+61 |
+
+|
+
+3 |
+
+15 |
+
+Propriété privée |
+
+AR |
+
+62 |
+
+|
+
+3 |
+
+24 |
+
+Etat |
+
+AR |
+
+63 |
+
+|
+
+3 |
+
+51 |
+
+Etat |
+
+AR |
+
+64 |
+
+|
+
+3 |
+
+80 |
+
+Etat |
+
+AR |
+
+65 |
+
+|
+
+4 |
+
+11 |
+
+Etat |
+
+AR |
+
+66 |
+
+|
+
+2 |
+
+45 |
+
+Propriété privée |
+
+AR |
+
+67 |
+
+|
+
+2 |
+
+78 |
+
+Etat |
+
+AR |
+
+68 |
+
+|
+
+1 |
+
+96 |
+
+Etat |
+
+AR |
+
+69 |
+
+|
+
+5 |
+
+9 |
+
+Etat |
+
+AR |
+
+70 |
+
+|
+
+12 |
+
+7 |
+
+Etat |
+
+AR |
+
+71 |
+
+|
+
+2 |
+
+96 |
+
+Etat |
+
+AR |
+
+72 |
+
+|
+
+1 |
+
+92 |
+
+Etat |
+
+AR |
+
+73 |
+
+|
+
+5 |
+
+17 |
+
+Etat |
+
+AR |
+
+74 |
+
+|
+
+2 |
+
+57 |
+
+Propriété privée |
+
+AR |
+
+75 |
+
+|
+
+2 |
+
+59 |
+
+Etat |
+
+AR |
+
+76 |
+
+|
+
+2 |
+
+79 |
+
+Etat |
+
+AR |
+
+77 |
+
+|
+
+10 |
+
+97 |
+
+Etat |
+
+AR |
+
+78 |
+
+|
+
+6 |
+
+72 |
+
+Etat |
+
+AR |
+
+79 |
+
+|
+
+9 |
+
+92 |
+
+Propriété privée |
+
+AR |
+
+80 |
+
+|
+
+|
+
+92 |
+
+Propriété privée |
+
+AR |
+
+81 |
+
+|
+
+2 |
+
+2 |
+
+Etat |
+
+AR |
+
+82 |
+
+|
+
+7 |
+
+12 |
+
+Etat |
+
+AR |
+
+83 |
+
+|
+
+5 |
+
+79 |
+
+Etat |
+
+AR |
+
+84 |
+
+|
+
+10 |
+
+1 |
+
+Propriété privée |
+
+AR |
+
+85 |
+
+|
+
+2 |
+
+82 |
+
+Propriété privée |
+
+AR |
+
+86 |
+
+|
+
+6 |
+
+23 |
+
+Etat |
+
+AR |
+
+87 |
+
+|
+
+4 |
+
+92 |
+
+Propriété privée |
+
+AR |
+
+88 |
+
+|
+
+5 |
+
+18 |
+
+Etat |
+
+AR |
+
+90 |
+
+|
+
+2 |
+
+71 |
+
+Etat |
+
+AR |
+
+91 |
+
+|
+
+4 |
+
+2 |
+
+Propriété privée |
+
+AR |
+
+92 |
+
+|
+
+8 |
+
+64 |
+
+Etat |
+
+AR |
+
+93 |
+
+|
+
+1 |
+
+25 |
+
+Etat |
+
+AR |
+
+94 |
+
+|
+
+2 |
+
+11 |
+
+Etat |
+
+AR |
+
+95 |
+
+|
+
+2 |
+
+15 |
+
+Propriété privée |
+
+AR |
+
+96 |
+
+|
+
+3 |
+
+11 |
+
+Propriété privée |
+
+AR |
+
+97 |
+
+|
+
+5 |
+
+96 |
+
+Etat |
+
+AR |
+
+98 |
+
+|
+
+4 |
+
+47 |
+
+Commune du Pecq |
+
+AR |
+
+99 |
+
+|
+
+5 |
+
+60 |
+
+Commune du Pecq |
+
+AR |
+
+100 |
+
+|
+
+4 |
+
+92 |
+
+Commune du Pecq |
+
+AR |
+
+101 |
+
+|
+
+11 |
+
+15 |
+
+Commune du Pecq |
+
+AR |
+
+102 |
+
+|
+
+1 |
+
+80 |
+
+Etat |
+
+AR |
+
+103 |
+
+|
+
+2 |
+
+82 |
+
+Etat |
+
+AR |
+
+104 |
+
+|
+
+1 |
+
+43 |
+
+Propriété privée |
+
+AR |
+
+105 |
+
+|
+
+1 |
+
+74 |
+
+Etat |
+
+AR |
+
+106 |
+
+|
+
+12 |
+
+14 |
+
+Propriété privée |
+
+AR |
+
+107 |
+
+|
+
+4 |
+
+15 |
+
+Etat |
+
+AR |
+
+108 |
+
+|
+
+3 |
+
+85 |
+
+Propriété privée |
+
+AR |
+
+109 |
+
+|
+
+1 |
+
+39 |
+
+Etat |
+
+AR |
+
+110 |
+
+|
+
+3 |
+
+27 |
+
+Propriété privée |
+
+AR |
+
+111 |
+
+|
+
+4 |
+
+2 |
+
+Propriété privée |
+
+AR |
+
+112 |
+
+|
+
+5 |
+
+56 |
+
+Etat |
+
+AR |
+
+113 |
+
+|
+
+2 |
+
+40 |
+
+Etat |
+
+AR |
+
+114 |
+
+|
+
+1 |
+
+38 |
+
+Etat |
+
+AR |
+
+115 |
+
+|
+
+1 |
+
+32 |
+
+Etablissement public de la Régie autonome des Transports parisiens (RATP) |
+
+L'intégration au domaine national ne comprend pas le tréfonds (tunnel et installations ferroviaires). |
+
+AR |
+
+136 |
+
+|
+
+2 |
+
+20 |
+
+Etat |
+
+AR |
+
+137 |
+
+|
+
+|
+
+20 |
+
+Etat |
+
+AR |
+
+138 |
+
+|
+
+6 |
+
+2 |
+
+Etat |
+
+AR |
+
+139 |
+
+|
+
+1 |
+
+82 |
+
+Propriété privée |
+
+AR |
+
+140 |
+
+|
+
+4 |
+
+79 |
+
+Etat |
+
+AR |
+
+141 |
+
+|
+
+4 |
+
+79 |
+
+Etat |
+
+AR |
+
+142 |
+
+|
+
+3 |
+
+25 |
+
+Etat |
+
+AR |
+
+143 |
+
+|
+
+2 |
+
+55 |
+
+Propriété privée |
+
+AR |
+
+144 |
+
+|
+
+2 |
+
+47 |
+
+Etat |
+
+AR |
+
+145 |
+
+|
+
+3 |
+
+14 |
+
+Propriété privée |
+
+AR |
+
+152 |
+
+|
+
+4 |
+
+41 |
+
+Etat |
+
+AR |
+
+153 |
+
+|
+
+17 |
+
+47 |
+
+Propriété privée |
+
+AR |
+
+Non cadastré |
+
+|
+
+|
+
+33 |
+
+Commune du Pecq |
+
+Partie non cadastrée du chemin rural n° 2 entre les parcelles AR 24 et AR 25. La partie intégrée au domaine à une contenance de 33 ca. |
+
+AR |
+
+Non cadastré |
+
+|
+
+11 |
+
+12. |
+
+Commune du Pecq |
+
+Partie non cadastrée du chemin rural n° 2 dit du Dessous-de-la-Terrasse entre la percée du chemin de fer et l'extrémité sud du chemin, incluant la sente de liaison avec le chemin rural n°3. La partie intégrée au domaine à une contenance de 11 a 12 ca. |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHATEAU DE SAINT-GERMAIN-EN-LAYE ;
+
+COMMUNE : SAINT-GERMAIN-EN-LAYE ;
+
+CODE INSEE : 78551.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+A |
+
+1249 |
+
+9 |
+
+23 |
+
+97 |
+
+Etat |
+
+A |
+
+1412 |
+
+|
+
+|
+
+24 |
+
+Etat |
+
+A |
+
+1416 |
+
+|
+
+|
+
+10 |
+
+Etat |
+
+A |
+
+1417 |
+
+|
+
+4 |
+
+54 |
+
+Etat |
+
+A |
+
+1429 |
+
+1 |
+
+|
+
+|
+
+Propriété privée |
+
+La parcelle A 1429 est partiellement intégrée au domaine national, pour 1 ha de sa superficie sur 1 ha 27 a 3 ca de superficie totale. La partie intégrée forme un cercle suivant le contour du carrefour forestier ou étoile forestière de La Muette, reprenant les limites cadastrales sur les côtés nord, est et sud, et en extrapolant la forme circulaire sur le côté ouest pour laisser hors du domaine national l'excroissance parcellaire venant toucher la parcelle A 1432. |
+
+AD |
+
+38 |
+
+|
+
+19 |
+
+70 |
+
+Etat |
+
+AE |
+
+7 |
+
+20 |
+
+87 |
+
+43 |
+
+Etat |
+
+La parcelle AE 7 est intégrée au domaine national à l'exception d'un petit redent parcellaire situé entre les parcelles AE 8 et AI 335 dépassant hors du mur de clôture de la terrasse du château. Le tréfonds (tunnels et installations ferroviaires) situé sous la zone technique gérée par le SCN et sous les parterres Le Nôtre n'est pas compris dans le domaine national. La partie intégrée au domaine national correspond à une surface de 20 ha, 87 a et 43 ca sur une surface totale de 20 ha 87 a et 85 ca. |
+
+AE |
+
+8 |
+
+|
+
+68 |
+
+14 |
+
+Etat |
+
+La parcelle AE 8 est partiellement intégrée au domaine national. L'intégration est limitée à la surface du sol de la terrasse du château et à la grille de clôture avec son mur bahut. A la hauteur de la trémie du parking souterrain, la limite du domaine rejoint la limite de la voirie. L'intégration au domaine national ne comprend pas le tréfonds (gare du RER). L'intégration de la parcelle AE 8 est limitée à 68 a et 14 ca sur une surface totale de 83 a et 55 ca. |
+
+AE |
+
+9 |
+
+|
+
+1 |
+
+49 |
+
+Etat |
+
+La parcelle AE 9 est partiellement intégrée au domaine national. L'intégration est limitée à la surface du sol des parties du parvis entre la grille du jardin et la voirie et ne comprend pas le tréfonds (installations ferroviaires). L'intégration de la parcelle AE 8 est limitée à 1 a et 49 ca sur une surface totale de 12 a et 68 ca. |
+
+AE |
+
+12 |
+
+|
+
+42 |
+
+27 |
+
+Etat |
+
+La parcelle est intégrée au domaine national dans la limite du redécoupage opéré dans le cadre de la création de la station du tramway sur le flanc est de la parcelle. La limite d'intégration est marquée par la grille du domaine. L'intégration de la parcelle AE 12 est limitée à 42a 27ca sur une surface totale de 46a 54 ca |
+
+AE |
+
+24 |
+
+|
+
+3 |
+
+15 |
+
+Etat |
+
+AE |
+
+27 |
+
+|
+
+|
+
+31 |
+
+Etablissement public de la Régie autonome des Transports parisiens (RATP) |
+
+La parcelle AE 27 est intégrée très partiellement au domaine national, selon une emprise triangulaire correspondant à son angle sud-ouest, définie à la faveur des réajustements de la limite du domaine confié au SCN (redécoupage en cours consécutif à la création de la gare du tramway). La partie intégrée au domaine national est limitée par la clôture du domaine, elle correspond à 31 ca sur 3 ha 48 a 55 ca. Les aménagements liés à l'usage ferroviaire en tréfonds ne sont pas compris dans le domaine national. |
+
+AH |
+
+1 |
+
+1 |
+
+32 |
+
+80 |
+
+Etat |
+
+AH |
+
+2 |
+
+|
+
+15 |
+
+99 |
+
+Etat |
+
+AH |
+
+3 |
+
+|
+
+1 |
+
+49 |
+
+Etat |
+
+AH |
+
+6 |
+
+|
+
+|
+
+55 |
+
+Etat |
+
+AH |
+
+7 |
+
+|
+
+|
+
+56 |
+
+Etat |
+
+AH |
+
+10 |
+
+|
+
+|
+
+54 |
+
+Etat |
+
+AH |
+
+11 |
+
+|
+
+|
+
+100 |
+
+Etat |
+
+AH |
+
+13 |
+
+|
+
+|
+
+52 |
+
+Etat |
+
+AH |
+
+22 |
+
+|
+
+|
+
+41 |
+
+Etat |
+
+AH |
+
+23 |
+
+|
+
+4 |
+
+92 |
+
+Etat |
+
+AH |
+
+36 |
+
+|
+
+|
+
+44 |
+
+Commune de Saint-Germain-en-Laye |
+
+AH |
+
+37 |
+
+|
+
+44 |
+
+36 |
+
+Propriété privée |
+
+L'intégration au domaine national de la parcelle AH 37 comprend la partie nord de la parcelle formant l'espace libre situé en contrebas de la Petite Terrasse, ainsi que l'emprise du pavillon Henri IV (ou de l'Oratoire du Roi). Elle ne comprend pas la partie sud portant le reste du bâti et de l'espace libre. La partie intégrée au domaine national comprend 44 a 36ca sur une surface totale de 1ha 20a 31ca. La limite entre partie intégrée et partie non intégrée est formée par le prolongement des lignes définissant les limites ouest et sud du pavillon Henri IV. |
+
+AH |
+
+Non cadastré |
+
+|
+
+15 |
+
+24 |
+
+Etat |
+
+Parvis non cadastré devant le château entre le mur des fossés secs et la voirie communale. L'intégration du parvis non cadastré contient 15 a 24 ca. Cette intégration ne comprend pas le tréfonds (parking souterrain). |
+
+AH |
+
+Non cadastré |
+
+|
+
+49 |
+
+49 |
+
+Département des Yvelines |
+
+Rampes du Château-Neuf : espace non cadastré entre la rive ouest de l'avenue du Maréchal-de-Lattre-de-Tassigny et les parcelles privées de la rue Thiers (AH 37, AH 203), comprenant le talus, les rampes et leurs murs. L'ensemble non cadastré contient 49 a 49 ca. |
+
+AI |
+
+333 |
+
+|
+
+2 |
+
+38 |
+
+Etat |
+
+AI |
+
+335 |
+
+|
+
+|
+
+66 |
+
+Etat |
+
+La parcelle AI 335 est partiellement intégrée au domaine national. L'intégration est limitée à la surface du sol des parties du jardin du château et de la grille de clôture avec son mur bahut. Le tréfonds (installations ferroviaires) n'est pas compris dans le domaine national. L'intégration de la parcelle AI 335 est limitée à 66 ca sur 7 a 25 ca. |
+
+20° Domaine national du château de Versailles (Yvelines) :
+
+- carte :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 121 du 26 mai 2024, texte n° 24 à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=QAW4jcbjJIr3GMlbDdaq6n-9gRX-cMgK-3DaXqN0q4o=
+
+Domaine national du château de Versailles (Yvelines)
+
+- liste des parcelles, parties de parcelles et espaces non cadastrés intégrés au domaine national du château de Versailles :
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE VERSAILLES ;
+
+COMMUNE : BAILLY ;
+
+CODE INSEE : 78043.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+AI |
+
+13 |
+
+|
+
+17 |
+
+39 |
+
+Etat |
+
+AI |
+
+16 |
+
+1 |
+
+80 |
+
+90 |
+
+Etat |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE VERSAILLES ;
+
+COMMUNE : BUC ;
+
+CODE INSEE : 78117.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+B |
+
+1 |
+
+|
+
+20 |
+
+30 |
+
+Etat |
+
+B |
+
+18 |
+
+|
+
+4 |
+
+10 |
+
+Etat |
+
+B |
+
+19 |
+
+|
+
+7 |
+
+95 |
+
+Etat |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE VERSAILLES ;
+
+COMMUNE : LA CELLE-SAINT-CLOUD ;
+
+CODE INSEE : 78126.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+AK |
+
+16 |
+
+|
+
+63 |
+
+20 |
+
+Etat |
+
+AK |
+
+17 |
+
+|
+
+7 |
+
+|
+
+Etat |
+
+AK |
+
+18 |
+
+|
+
+10 |
+
+96 |
+
+Propriété privée |
+
+AK |
+
+19 |
+
+|
+
+22 |
+
+98 |
+
+Propriété privée |
+
+AK |
+
+20 |
+
+|
+
+15 |
+
+42 |
+
+Propriété privée |
+
+AK |
+
+21 |
+
+|
+
+10 |
+
+38 |
+
+Propriété privée |
+
+AK |
+
+190 |
+
+|
+
+86 |
+
+52 |
+
+Etat |
+
+La parcelle AK 190 est partiellement intégrée au domaine national, limitée à l'espace de l'étang sec devant le pavillon et les communs (jusqu'à la limite cadastrale sud, à l'est par une ligne en retour d'équerre jusqu'à l'allée d'accès, sur les autres côtés par les limites cadastrales ou des lignes prolongeant celles-ci), ainsi que l'allée d'accès depuis la route des Puits (définie par une largeur de 19 m). L'intégration est limitée à 86 a 52 ca sur 4 ha, 87 a et 53 ca. |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE VERSAILLES ;
+
+COMMUNE : LE CHESNAY-ROCQUENCOURT ;
+
+CODE INSEE : 78158.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+B |
+
+4 |
+
+|
+
+37 |
+
+40 |
+
+Etat |
+
+B |
+
+5 |
+
+|
+
+7 |
+
+49 |
+
+Etat |
+
+B |
+
+6 |
+
+|
+
+18 |
+
+70 |
+
+Etat |
+
+B |
+
+7 |
+
+|
+
+77 |
+
+64 |
+
+Etat |
+
+B |
+
+9 |
+
+|
+
+54 |
+
+29 |
+
+Etat |
+
+B |
+
+10 |
+
+|
+
+11 |
+
+20 |
+
+Etat |
+
+B |
+
+11 |
+
+1 |
+
+24 |
+
+42 |
+
+Etat |
+
+B |
+
+12 |
+
+2 |
+
+28 |
+
+57 |
+
+Etat |
+
+B |
+
+13 |
+
+|
+
+41 |
+
+55 |
+
+Etat |
+
+B |
+
+18 |
+
+|
+
+7 |
+
+20 |
+
+Etat |
+
+B |
+
+19 |
+
+|
+
+52 |
+
+66 |
+
+Etat |
+
+B |
+
+20 |
+
+|
+
+10 |
+
+53 |
+
+Etat |
+
+B |
+
+21 |
+
+|
+
+78 |
+
+|
+
+Etat |
+
+B |
+
+22 |
+
+1 |
+
+47 |
+
+98 |
+
+Etat |
+
+B |
+
+23 |
+
+37 |
+
+71 |
+
+97 |
+
+Etat |
+
+B |
+
+24 |
+
+|
+
+46 |
+
+23 |
+
+Etat |
+
+B |
+
+25 |
+
+|
+
+18 |
+
+44 |
+
+Etat |
+
+B |
+
+26 |
+
+15 |
+
+24 |
+
+50 |
+
+Etat |
+
+B |
+
+27 |
+
+|
+
+37 |
+
+89 |
+
+Etat |
+
+B |
+
+28 |
+
+|
+
+37 |
+
+72 |
+
+Etat |
+
+B |
+
+29 |
+
+|
+
+|
+
+50 |
+
+Etat |
+
+B |
+
+30 |
+
+12 |
+
+15 |
+
+22 |
+
+Etat |
+
+B |
+
+31 |
+
+16 |
+
+87 |
+
+68 |
+
+Etat |
+
+B |
+
+32 |
+
+|
+
+54 |
+
+40 |
+
+Etat |
+
+B |
+
+33 |
+
+31 |
+
+2 |
+
+5 |
+
+Etat |
+
+B |
+
+37 |
+
+36 |
+
+4 |
+
+28 |
+
+Etat |
+
+B |
+
+42 |
+
+1 |
+
+9 |
+
+4 |
+
+Etat |
+
+B |
+
+43 |
+
+|
+
+1 |
+
+23 |
+
+Etat |
+
+B |
+
+Non cadastré |
+
+|
+
+90 |
+
+53 |
+
+Etat |
+
+Rigoles et anciennes rigoles non cadastrées dans l'emprise de l'arboretum de Chèvreloup sur l'ensemble de la section B, délimitée par l'ensemble des parcelles cadastrales mitoyennes. La contenance intégrée au total représente 90 a 53 ca. |
+
+AD |
+
+29 |
+
+|
+
+5 |
+
+32 |
+
+Etat |
+
+AD |
+
+30 |
+
+|
+
+23 |
+
+95 |
+
+Etat |
+
+AO |
+
+60 |
+
+|
+
+1 |
+
+91 |
+
+Etat |
+
+AO |
+
+62 |
+
+|
+
+|
+
+4 |
+
+Etat |
+
+AO |
+
+64 |
+
+|
+
+|
+
+57 |
+
+Etat |
+
+AP |
+
+5 |
+
+|
+
+2 |
+
+25 |
+
+Etat |
+
+AP |
+
+10 |
+
+|
+
+|
+
+40 |
+
+Etat |
+
+AP |
+
+11 |
+
+|
+
+|
+
+23 |
+
+Etat |
+
+AP |
+
+12 |
+
+|
+
+4 |
+
+|
+
+Etat |
+
+AP |
+
+18 |
+
+|
+
+|
+
+16 |
+
+Etat |
+
+AP |
+
+19 |
+
+|
+
+|
+
+88 |
+
+Etat |
+
+AP |
+
+21 |
+
+|
+
+1 |
+
+62 |
+
+Etat |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE VERSAILLES ;
+
+COMMUNE : FONTENAY-LE-FLEURY ;
+
+CODE INSEE : 78242.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+AA |
+
+34 |
+
+|
+
+4 |
+
+4 |
+
+Propriété privée |
+
+Intégration au domaine national de la partie de l'allée de Villepreux située au-delà de la courbe marquée par le chemin rural n°2 au nord-est de la parcelle selon une ligne prolongeant le tracé régulier du chemin dans sa partie ouest. L'intégration est limitée à 4 a 4 ca sur un total de 10 ha 04 a 80 ca. |
+
+I |
+
+27 |
+
+2 |
+
+36 |
+
+62 |
+
+Propriété privée |
+
+I |
+
+28 |
+
+|
+
+32 |
+
+7 |
+
+Propriété privée |
+
+I |
+
+29 |
+
+|
+
+23 |
+
+10 |
+
+Propriété privée |
+
+I |
+
+30 |
+
+1 |
+
+65 |
+
+7 |
+
+Propriété privée |
+
+I |
+
+31 |
+
+|
+
+16 |
+
+82 |
+
+Propriété privée |
+
+I |
+
+32 |
+
+|
+
+78 |
+
+14 |
+
+Propriété privée |
+
+XA |
+
+1 |
+
+|
+
+96 |
+
+34 |
+
+Propriété privée |
+
+L'intégration de la parcelle XA 1 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur le nord de la section I de Fontenay-Le-Fleury et sur la parcelle AH 42 de Saint-Cyr-l'Ecole. L'intégration est limitée à 96 a 34 ca sur une contenance de 1 ha 47 a 46 ca. |
+
+XA |
+
+2 |
+
+2 |
+
+|
+
+65 |
+
+Propriété privée |
+
+L'intégration de la parcelle XA 2 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur le nord de la section I de Fontenay-Le-Fleury et sur la parcelle AH 42 de Saint-Cyr-l'Ecole. L'intégration est limitée à 2 ha et 65 ca sur une contenance de 8 ha 31 a 36 ca. |
+
+XA |
+
+3 |
+
+2 |
+
+4 |
+
+60 |
+
+Propriété privée |
+
+L'intégration de la parcelle XA 3 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur le nord de la section I de Fontenay-Le-Fleury et sur la parcelle AH 42 de Saint-Cyr-l'Ecole. L'intégration est limitée à 2 ha, 4 a et 60 ca sur une contenance de 9 ha 51 a 23 ca. |
+
+XA |
+
+12 |
+
+|
+
+26 |
+
+91 |
+
+Propriété privée |
+
+L'intégration de la parcelle XA 12 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur le nord de la section I de Fontenay-Le-Fleury et sur la parcelle AH 42 de Saint-Cyr-l'Ecole. L'intégration est limitée à 26 a et 91 ca sur une contenance de 85 a 54 ca. |
+
+XA |
+
+13 |
+
+|
+
+38 |
+
+28 |
+
+Propriété privée |
+
+L'intégration de la parcelle XA 13 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur le nord de la section I de Fontenay-Le-Fleury et sur la parcelle AH 42 de Saint-Cyr-l'Ecole. L'intégration est limitée à 38 a et 28 ca sur une contenance de 1 ha 19 a 86 ca. |
+
+XA |
+
+14 |
+
+3 |
+
+42 |
+
+35 |
+
+Propriété privée |
+
+L'intégration de la parcelle XA 14 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur le nord de la section I de Fontenay-Le-Fleury et sur la parcelle AH 42 de Saint-Cyr-l'Ecole. L'intégration est limitée à 3 ha, 42 a et 35 ca sur une contenance de 11 ha 43 a. |
+
+XA |
+
+16 |
+
+5 |
+
+27 |
+
+99 |
+
+Propriété privée |
+
+L'intégration de la parcelle XA 16 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur le nord de la section I de Fontenay-Le-Fleury et sur la parcelle AH 42 de Saint-Cyr-l'Ecole. L'intégration est limitée à 5 ha, 27 a et 99 ca sur une contenance de 17 ha 14 a 75 ca. |
+
+XA |
+
+17 |
+
+|
+
+89 |
+
+98 |
+
+Propriété privée |
+
+L'intégration de la parcelle XA 17 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur le nord de la section I de Fontenay-Le-Fleury et sur la parcelle AH 42 de Saint-Cyr-l'Ecole. L'intégration est limitée à 89 a et 98 ca sur une contenance de 1 ha 69 a 46 ca. |
+
+XA |
+
+18 |
+
+|
+
+1 |
+
+35 |
+
+Commune de Fontenay-le-Fleury |
+
+XA |
+
+20 |
+
+|
+
+10 |
+
+1 |
+
+Propriété privée |
+
+L'intégration de la parcelle XA 20 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur le nord de la section I de Fontenay-Le-Fleury et sur la parcelle AH 42 de Saint-Cyr-l'Ecole. L'intégration est limitée à 10 a et 1 ca sur une contenance de 30 a 50 ca. |
+
+XA |
+
+21 |
+
+|
+
+13 |
+
+62 |
+
+Propriété privée |
+
+L'intégration de la parcelle XA 21 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur le nord de la section I de Fontenay-Le-Fleury et sur la parcelle AH 42 de Saint-Cyr-l'Ecole. L'intégration est limitée à 13 a et 62 ca sur une contenance de 41 a 64 ca. |
+
+AA / XA/ I |
+
+Non cadastré |
+
+1 |
+
+29 |
+
+68 |
+
+Commune de Fontenay-le-Fleury |
+
+Intégration au domaine national du tronçon non cadastré de l'allée de Villepreux : chemin rural n° 2 de Villepreux à Gally le long de l'allée de Villepreux côté sud, de la limite communale orientale à la limite communale occidentale. L'intégration contient 1 ha 29 a 68 ca. |
+
+XA |
+
+Non cadastré |
+
+|
+
+4 |
+
+92 |
+
+Commune de Fontenay-le-Fleury |
+
+Intégration au domaine national du tronçon non cadastré de l'allée de Villepreux : partie du ru des Prés-des-Seigneurs et partie du ru des Glaises, dans l'emprise de la largeur de l'allée historique de Villepreux. L'intégration contient 4 a 92 ca. |
+
+XA |
+
+Non cadastré |
+
+|
+
+6 |
+
+26 |
+
+Commune de Fontenay-le-Fleury |
+
+Intégration au domaine national du tronçon non cadastré de l'allée de Villepreux : portion du chemin communal n° 3 dit de Fontenay à Bailly, dans l'emprise de la largeur de l'allée historique de Villepreux. L'intégration contient 6 a 26 ca. |
+
+I / XA |
+
+Non cadastré |
+
+|
+
+3 |
+
+32 |
+
+Commune de Fontenay-le-Fleury |
+
+Intégration au domaine national du tronçon non cadastré de l'allée de Villepreux : portion du chemin rural n° 18 dit de Rennemoulin, dans l'emprise de la largeur de l'allée historique de Villepreux, du chemin rural n°2 à la limite communale. L'intégration contient 3 a 32 ca. |
+
+I |
+
+Non cadastré |
+
+|
+
+3 |
+
+37 |
+
+Commune de Fontenay-le-Fleury |
+
+Intégration au domaine national du tronçon non cadastré de l'allée de Villepreux : portion du chemin rural n° 5, dans l'emprise de la largeur de l'axe historique, du chemin rural n° 2 à la limite communale. L'intégration contient 3 a 37 ca. |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE VERSAILLES ;
+
+COMMUNE : GUYANCOURT ;
+
+CODE INSEE : 78297.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+C |
+
+3 |
+
+|
+
+29 |
+
+58 |
+
+Etat |
+
+Intégration au domaine national de la quasi-totalité de la parcelle. La partie exclue correspond à la superposition graphique de la parcelle avec la parcelle Versailles CB 6 au plan cadastral, en raison d'une différence d'appréciation, sur les plans cadastraux, des limites communales entre Versailles et Guyancourt. L'intégration correspond à 29 a 58 ca sur une contenance totale de 29 a 86 ca, la partie exclue étant définie par la limite ouest de la parcelle Versailles CB 6 telle qu'elle est représentée au plan cadastral de Versailles. L'intégration est donc faite sans préjudice de l'assiette et de la situation foncière des parcelles Versailles CB 2 et 6. |
+
+C |
+
+5 |
+
+|
+
+23 |
+
+86 |
+
+Etat |
+
+Les plans cadastraux de Versailles et Guyancourt présentent, sur les limites communales entre les sections Versailles CB et Guyancourt C, une superposition partielle des parcelles qui ne correspond pas à une réalité physique. L'inclusion de la parcelle C 5 dans le domaine national visant principalement à intégrer les vestiges du mur du Petit Parc historique, celle-ci a été faite sans préjudice de l'assiette et de la situation foncière de la parcelle Versailles CB 42. |
+
+C |
+
+201 |
+
+|
+
+57 |
+
+47 |
+
+Etat |
+
+Les plans cadastraux de Versailles et Guyancourt présentent, sur les limites communales entre les sections Versailles CB et Guyancourt C, une superposition partielle des parcelles qui ne correspond pas à une réalité physique. L'inclusion de la parcelle C 5 dans le domaine national visant principalement à intégrer les vestiges du mur du Petit Parc historique, celle-ci a été faite sans préjudice de l'assiette et de la situation foncière de la parcelle Versailles CB 42. |
+
+C |
+
+202 |
+
+|
+
+7 |
+
+98 |
+
+Etat |
+
+Les plans cadastraux de Versailles et Guyancourt présentent, sur les limites communales entre les sections Versailles CB et Guyancourt C, une superposition partielle des parcelles qui ne correspond pas à une réalité physique. L'inclusion de la parcelle C 5 dans le domaine national visant principalement à intégrer les vestiges du mur du Petit Parc historique, celle-ci a été faite sans préjudice de l'assiette et de la situation foncière de la parcelle Versailles CB 42. |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE VERSAILLES ;
+
+COMMUNE : RENNEMOULIN ;
+
+CODE INSEE : 78518.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+ZB |
+
+8 |
+
+|
+
+34 |
+
+67 |
+
+Propriété privée |
+
+L'intégration de la parcelle ZB 8 au domaine national est limitée à la partie nord contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle ZB 9 et sur la limite entre la parcelle ZB 8 et le chemin rural dit de l'avenue de Villepreux. L'intégration est limitée à 34 a et 67 ca sur une contenance totale de 1 ha 70 a 9 ca. |
+
+ZB |
+
+9 |
+
+3 |
+
+25 |
+
+15 |
+
+Propriété privée |
+
+ZB |
+
+Non cadastré |
+
+|
+
+31 |
+
+60 |
+
+Commune de Rennemoulin |
+
+Intégration au domaine national du tronçon non cadastré du chemin rural dit de l'avenue-de-Villepreux dans l'emprise de l'allée historique, de la limite communale orientale à la limite communale occidentale. L'intégration contient 31 a 60 ca. |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE VERSAILLES ;
+
+COMMUNE : SAINT-CYR-L'ECOLE ;
+
+CODE INSEE : 78545.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+AH |
+
+3 |
+
+|
+
+12 |
+
+53 |
+
+Propriété privée |
+
+L'intégration de la parcelle AH 3 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle AH 42. L'intégration est limitée à 12 a et 53 ca sur une contenance totale de 26 a et 66 ca. |
+
+AH |
+
+4 |
+
+|
+
+15 |
+
+13 |
+
+Ville de Paris |
+
+L'intégration de la parcelle AH 4 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle AH 42. L'intégration est limitée à 15 a 13 ca sur une contenance totale de 73 a 11 ca. L'intégration au domaine national ne comprend pas le tréfonds (portion de l'aqueduc de l'Avre traversant l'axe de l'allée de Villepreux). |
+
+AH |
+
+32 |
+
+|
+
+13 |
+
+60 |
+
+Commune de Saint-Cyr-l'Ecole |
+
+AH |
+
+41 |
+
+|
+
+91 |
+
+79 |
+
+Propriété privée |
+
+L'intégration de la parcelle AH 41 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle AH 42. L'intégration est limitée à 91 a 79 ca sur une contenance totale de 6 ha 91 a 2 ca. |
+
+AH |
+
+42 |
+
+2 |
+
+2 |
+
+37 |
+
+Propriété privée |
+
+AH |
+
+51 |
+
+|
+
+2 |
+
+27 |
+
+Propriété privée |
+
+Intégration au domaine national de la partie de l'allée de Villepreux située au-delà de la courbe marquée par le chemin rural de l'avenue de Villepreux au nord de la parcelle selon une ligne prolongeant le tracé régulier du chemin. L'intégration est limitée à 2 a 27 ca sur un total de 7 ha 20 a 42 ca. |
+
+AH |
+
+61 |
+
+|
+
+6 |
+
+82 |
+
+Communauté d'agglomération de Versailles Grand Parc |
+
+AH |
+
+63 |
+
+3 |
+
+37 |
+
+55 |
+
+Etablissement public territorial (syndicat mixte) HYDREAULYS |
+
+L'intégration de la parcelle AH 63 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle AH 42. L'intégration est limitée à 3 ha, 37 a et 55 ca sur une contenance totale de 9 ha, 37 a et 55 ca. |
+
+AH |
+
+65 |
+
+|
+
+50 |
+
+|
+
+Propriété privée |
+
+AH |
+
+66 |
+
+|
+
+44 |
+
+8 |
+
+Propriété privée |
+
+L'intégration de la parcelle AH 66 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle AH 42. L'intégration est limitée à 44 a et 8 ca sur une contenance totale de 50 a. |
+
+AH |
+
+67 |
+
+|
+
+33 |
+
+80 |
+
+Propriété privée |
+
+L'intégration de la parcelle AH 67 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle AH 42. L'intégration est limitée à 33 a et 80 ca sur une contenance totale de 50 a. |
+
+AH |
+
+68 |
+
+|
+
+27 |
+
+64 |
+
+Propriété privée |
+
+L'intégration de la parcelle AH 68 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle AH 42. L'intégration est limitée à 27 a et 64 ca sur une contenance totale de 50 a. |
+
+AH |
+
+69 |
+
+|
+
+23 |
+
+87 |
+
+Communauté d'agglomération de Versailles Grand Parc |
+
+L'intégration de la parcelle AH 69 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle AH 42. L'intégration est limitée à 23 a et 87 ca sur une contenance totale de 56 a et 68 ca. |
+
+AH |
+
+81 |
+
+|
+
+10 |
+
+62 |
+
+Etat |
+
+L'intégration de la parcelle AH 81 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle AH 42. L'intégration est limitée à 10 a 62 ca sur une contenance totale de 59 a et 12 ca. |
+
+AH |
+
+82 |
+
+2 |
+
+16 |
+
+38 |
+
+Communauté d'agglomération de Versailles Grand Parc |
+
+L'intégration de la parcelle AH 82 au domaine national est limitée à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle AH 42. L'intégration est limitée à 2 ha 16 a et 38 ca sur une contenance totale de 5 ha, 55 a et 46 ca. |
+
+AH |
+
+89 |
+
+4 |
+
+3 |
+
+84 |
+
+Etat |
+
+AH |
+
+90 |
+
+|
+
+4 |
+
+43 |
+
+Etat |
+
+AH |
+
+110 |
+
+|
+
+|
+
+66 |
+
+Etat |
+
+AH |
+
+111 |
+
+|
+
+25 |
+
+66 |
+
+Etat |
+
+L'intégration de la parcelle AH 111 au domaine national est limitée à la partie nord (excluant le redent longeant la parcelle AH 15) contenue dans la largeur de l'allée historique de Villepreux. L'intégration est limitée à 25 a et 66 ca sur une contenance totale de 27 a et 21 ca. |
+
+AH |
+
+Non cadastré |
+
+|
+
+56 |
+
+97 |
+
+Commune de Saint-Cyr-l'Ecole |
+
+Intégration d'un tronçon non cadastré de l'allée de Villepreux : chemin rural de l'Avenue-de-Villepreux, de la RD n° 7 à l'est, à l'emprise autoroutière à l'ouest, et au-delà de l'emprise autoroutière jusqu'à la limite communale à l'ouest. L'intégration contient 56 a 97 ca. |
+
+AH |
+
+Non cadastré |
+
+|
+
+2 |
+
+30 |
+
+Commune de Saint-Cyr-l'Ecole |
+
+Intégration d'un tronçon non cadastré de l'allée de Villepreux : ru des Glaises entre les parcelles AH 32 et AH 57, du chemin de Villepreux à la limite communale. L'intégration contient 2 a 30 ca. |
+
+AK |
+
+50 |
+
+|
+
+5 |
+
+85 |
+
+Etat / Commune de Saint-Cyr-l'Ecole |
+
+Les plans cadastraux de Versailles et Saint-Cyr-l'Ecole présentent, sur les limites communales entre les sections Versailles BY et Saint-Cyr-l'Ecole AK, une superposition presque totale des parcelles de l'ancienne porte de Saint-Cyr qui ne correspond pas à une réalité physique. La propriété de la parcelle Saint-Cyr-l'Ecole AK 50 est attribuée au cadastre à la commune de Saint-Cyr-l'Ecole, celle de la parcelle Versailles BY 81 relève de l'Etat. |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE VERSAILLES ;
+
+COMMUNE : VERSAILLES ;
+
+CODE INSEE : 78646.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+AB |
+
+6 |
+
+|
+
+24 |
+
+15 |
+
+Etat |
+
+AC |
+
+242 |
+
+|
+
+4 |
+
+48 |
+
+Etat |
+
+AE |
+
+192 |
+
+|
+
+1 |
+
+38 |
+
+Etat |
+
+AE |
+
+344 |
+
+|
+
+|
+
+91 |
+
+Etat |
+
+AE |
+
+378 |
+
+|
+
+15 |
+
+78 |
+
+Etat |
+
+AE |
+
+382 |
+
+1 |
+
+73 |
+
+15 |
+
+Etat |
+
+AE |
+
+383 |
+
+|
+
+15 |
+
+23 |
+
+Etat |
+
+AE |
+
+445 |
+
+|
+
+43 |
+
+78 |
+
+Etat |
+
+AE |
+
+446 |
+
+2 |
+
+|
+
+13 |
+
+Etat |
+
+AH |
+
+1 |
+
+|
+
+64 |
+
+37 |
+
+Etat |
+
+AH |
+
+2 |
+
+|
+
+24 |
+
+62 |
+
+Etat |
+
+AH |
+
+11 |
+
+|
+
+13 |
+
+17 |
+
+Commune de Versailles |
+
+Intégration partielle de la parcelle, limitée à l'emprise du bâtiment historique et de la cour centrale comprise entre les ailes, à l'exclusion de l'excroissance parcellaire sud et du bâtiment qu'elle porte, et donc dans l'alignement des pignons des ailes en retour, et à l'exclusion de la partie orientale de la parcelle selon un recul de 21,70 m par rapport à l'alignement sur la rue des Récollets, afin de ne prendre en compte que l'emprise historique de l'ancien hôtel ministériel des Affaires étrangères et de la Marine. La partie intégrée au domaine national représente 13 a 17 ca sur une surface totale de 19 a 4 ca. |
+
+AH |
+
+74 |
+
+|
+
+23 |
+
+95 |
+
+Commune de Versailles |
+
+AH |
+
+96 |
+
+|
+
+7 |
+
+48 |
+
+Etat |
+
+AH |
+
+186 |
+
+|
+
+|
+
+15 |
+
+Etat |
+
+AH |
+
+215 |
+
+2 |
+
+74 |
+
+46 |
+
+Etat |
+
+AH |
+
+234 |
+
+2 |
+
+2 |
+
+94 |
+
+Etat |
+
+AH |
+
+235 |
+
+|
+
+54 |
+
+72 |
+
+Etat |
+
+AH |
+
+236 |
+
+|
+
+3 |
+
+44 |
+
+Etat |
+
+AS |
+
+49 |
+
+|
+
+14 |
+
+6 |
+
+Etat |
+
+AV |
+
+299 |
+
+1 |
+
+37 |
+
+59 |
+
+Etat |
+
+AY |
+
+184 |
+
+|
+
+|
+
+58 |
+
+Commune de Versailles |
+
+BK |
+
+233 |
+
+|
+
+|
+
+56 |
+
+Commune de Versailles |
+
+BP |
+
+194 |
+
+1 |
+
+79 |
+
+14 |
+
+Etat |
+
+BP |
+
+195 |
+
+3 |
+
+12 |
+
+39 |
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+BR |
+
+35 |
+
+|
+
+50 |
+
+87 |
+
+Etat |
+
+BS |
+
+159 |
+
+|
+
+52 |
+
+28 |
+
+Commune de Versailles |
+
+Intégration partielle de la parcelle BS 159, excluant le petit appendice parcellaire au sud-est. La partie intégrée contient 52 a 28 ca sur une contenance totale de 55 a 9 ca. |
+
+BS |
+
+160 |
+
+|
+
+32 |
+
+3 |
+
+Commune de Versailles |
+
+Intégration partielle de la parcelle BS 160, excluant le petit appendice parcellaire à l'est, portant une partie de la rue des Etangs-Gobert. La partie intégrée contient 32 a 3 ca sur une contenance totale de 43 a 31 ca. |
+
+BS |
+
+161 |
+
+|
+
+36 |
+
+99 |
+
+Commune de Versailles |
+
+BS |
+
+163 |
+
+|
+
+6 |
+
+76 |
+
+Commune de Versailles |
+
+BS |
+
+164 |
+
+|
+
+2 |
+
+71 |
+
+Commune de Versailles |
+
+BS |
+
+167 |
+
+|
+
+6 |
+
+94 |
+
+Commune de Versailles |
+
+BS |
+
+168 |
+
+|
+
+13 |
+
+34 |
+
+Commune de Versailles |
+
+BS |
+
+169 |
+
+|
+
+8 |
+
+72 |
+
+Commune de Versailles |
+
+BS |
+
+205 |
+
+|
+
+31 |
+
+25 |
+
+Etat |
+
+BS |
+
+206 |
+
+|
+
+1 |
+
+66 |
+
+Commune de Versailles |
+
+BV |
+
+32 |
+
+8 |
+
+89 |
+
+49 |
+
+Etat |
+
+La parcelle BV 32 est intégrée au domaine national avec une reculée consentie dans l'angle nord-ouest sur les bâtiments des anciens garages et de l'ancienne citerne de la petite cour de service. Un recul hors domaine national est également consenti sur la terrasse nord formant un rectangle positionné avec des reculs réguliers vis-à-vis des bâtiments : un recul de 10 m est pratiqué vis-à-vis de la façade de l'aile de la Figuerie à l'ouest ; un recul de 6 m est pratiqué vis-à-vis des façades des bâtiments Le Normand et Le Nôtre au nord ; l'espace entre le bâtiment Le Normand et le pavillon de la chaufferie (pavillon Louis XVI), est exclu du domaine jusqu'au mur de clôture inclus ; un recul permettant une symétrie par rapport au parti adopté devant le bâtiment de la Figuerie est pratiqué à l'ouest (21 m de recul sur l'emprise de l'ancien jardin d'hiver jusqu'au mur fermant la cour Saint-Louis) ; un recul de 6 m est également observé vis-à-vis du mur d'espalier au sud. L'intégration au domaine national de la parcelle BV 32 est limité à 8 ha 89 a 49 ca sur 9 ha 39 a et 96 ca. |
+
+BV |
+
+33 |
+
+2 |
+
+75 |
+
+50 |
+
+Etat |
+
+BV |
+
+189 |
+
+|
+
+14 |
+
+89 |
+
+Etat |
+
+BW |
+
+210 |
+
+|
+
+6 |
+
+5 |
+
+Etat |
+
+BW |
+
+214 |
+
+|
+
+2 |
+
+20 |
+
+Etat |
+
+BW |
+
+253 |
+
+|
+
+13 |
+
+65 |
+
+Etat |
+
+BX |
+
+3 |
+
+|
+
+60 |
+
+38 |
+
+Etat |
+
+BX |
+
+5 |
+
+|
+
+3 |
+
+74 |
+
+Etat |
+
+Sur la parcelle BX 5, seuls le mur historique du Petit Parc et une bande de terrain formée par un recul de 10 m par rapport au mur sont intégrés au domaine national, soit une contenance de 3 a 74 ca sur 10 a et 33 ca. |
+
+BX |
+
+8 |
+
+4 |
+
+94 |
+
+37 |
+
+Etat |
+
+BX |
+
+9 |
+
+1 |
+
+9 |
+
+15 |
+
+Etat |
+
+BX |
+
+10 |
+
+5 |
+
+67 |
+
+9 |
+
+Etat |
+
+BX |
+
+11 |
+
+|
+
+89 |
+
+80 |
+
+Etat |
+
+BX |
+
+12 |
+
+|
+
+10 |
+
+4 |
+
+Etat |
+
+BX |
+
+13 |
+
+|
+
+8 |
+
+45 |
+
+Etat |
+
+BX |
+
+14 |
+
+|
+
+10 |
+
+68 |
+
+Etat |
+
+BX |
+
+18 |
+
+|
+
+5 |
+
+52 |
+
+Etat |
+
+BX |
+
+19 |
+
+|
+
+5 |
+
+94 |
+
+Etat |
+
+BX |
+
+20 |
+
+3 |
+
+96 |
+
+18 |
+
+Etat |
+
+BX |
+
+22 |
+
+3 |
+
+62 |
+
+50 |
+
+Etat |
+
+BX |
+
+23 |
+
+|
+
+26 |
+
+55 |
+
+Etat |
+
+BX |
+
+24 |
+
+1 |
+
+7 |
+
+31 |
+
+Etat |
+
+BX |
+
+25 |
+
+|
+
+3 |
+
+55 |
+
+Etat |
+
+BX |
+
+26 |
+
+3 |
+
+25 |
+
+|
+
+Etat |
+
+BX |
+
+27 |
+
+23 |
+
+64 |
+
+74 |
+
+Etat |
+
+BX |
+
+28 |
+
+14 |
+
+7 |
+
+24 |
+
+Etat |
+
+BX |
+
+29 |
+
+|
+
+26 |
+
+77 |
+
+Etat |
+
+BX |
+
+35 |
+
+1 |
+
+9 |
+
+90 |
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+BX |
+
+36 |
+
+10 |
+
+15 |
+
+|
+
+Etat |
+
+BX |
+
+38 |
+
+1 |
+
+31 |
+
+38 |
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+BX |
+
+39 |
+
+6 |
+
+38 |
+
+75 |
+
+Etat |
+
+BX |
+
+40 |
+
+|
+
+15 |
+
+57 |
+
+Communauté d'agglomération de Versailles Grand Parc |
+
+BX |
+
+41 |
+
+|
+
+7 |
+
+74 |
+
+Etat |
+
+BX |
+
+42 |
+
+|
+
+15 |
+
+39 |
+
+Etat |
+
+BX |
+
+73 |
+
+|
+
+|
+
+14 |
+
+Etat |
+
+BX |
+
+77 |
+
+|
+
+39 |
+
+33 |
+
+Etat |
+
+BX |
+
+78 |
+
+|
+
+31 |
+
+92 |
+
+Etat |
+
+BX |
+
+79 |
+
+|
+
+|
+
+16 |
+
+Etat |
+
+BX |
+
+80 |
+
+5 |
+
+64 |
+
+69 |
+
+Etat |
+
+BX |
+
+85 |
+
+|
+
+5 |
+
+58 |
+
+Etat |
+
+BX |
+
+86 |
+
+|
+
+3 |
+
+75 |
+
+Etat |
+
+BX |
+
+90 |
+
+|
+
+1 |
+
+64 |
+
+Etat |
+
+BX |
+
+91 |
+
+10 |
+
+|
+
+|
+
+Etat |
+
+BX |
+
+99 |
+
+|
+
+17 |
+
+99 |
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+BX |
+
+101 |
+
+|
+
+91 |
+
+28 |
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+BX |
+
+102 |
+
+|
+
+45 |
+
+20 |
+
+Etat |
+
+BX |
+
+112 |
+
+7 |
+
+54 |
+
+76 |
+
+Etat |
+
+Une enclave de 71 a 78 ca est exclue du domaine national sur la parcelle BX 12. Cette enclave est formée de lignes perpendiculaires dessinant un L et constituée comme suit dans le sens horaire à partir du nord : une ligne de 58,60 m, en retour d'équerre une ligne de 90,90 m, en retour d'équerre une ligne de 89,40 m, en retour d'équerre une ligne de 59,20 m, en retour d'équerre une ligne de 30,90 m, en retour d'équerre vers le nord une ligne de 31,50 m. L'angle le plus à l'ouest de l'enclave est situé à 123 m du point le plus à l'ouest de la parcelle. L'angle sud de l'enclave est situé à 119,50 m de l'angle sud de la parcelle. L'angle oriental de l'enclave est situé à 315,60 m de la pointe nord de la parcelle. L'intégration de la parcelle est limitée à 7 ha 54 a 76 ca sur 8 ha, 42 a et 53 ca. |
+
+BX |
+
+123 |
+
+35 |
+
+68 |
+
+57 |
+
+Etat |
+
+Sur la parcelle BX 123, une enclave de 17 ha 55 a 15 ca est exclue du domaine national. Elle est définie au sud par le tracé de prolongement de l'allée des Mortemets, ; à l'est par la ligne parcellaire le long de l'allée des Matelots, laissant dans le domaine national l'allée des Mortemets et le pavillon nord à l'entrée du camp des Matelots ; à l'ouest une ligne perpendiculaire à l'allée des Mortemets située à 466 m de la limite cadastrale est ; au nord par une ligne brisée reprenant la courbure de la route de Saint-Cyr/RD10 située sur un recul de 43 m par rapport à la limite cadastrale nord. Un recul est également observé au sud de la parcelle sur l'ancienne zone ferroviaire, limité au nord par le prolongement de l'allée des Mortemets jusqu'au droit de l'enclave nord ; à l'est par un recul de 20 m par rapport à la limite cadastrale, laissant dans le domaine national le pavillon sud à l'entrée du camp des Matelots ; à l'ouest par une ligne en retour d'équerre par rapport à l'allée des Mortemets sur 32,40 m, puis par une ligne en retour vers l'ouest sur un angle de 117, 40 sur 156,70 m, puis une ligne en retour d'équerre venant joindre la limite cadastrale sud en 272 m. L'intégration de la parcelle BX 123 est limitée à 35 ha 68 a 57 ca sur 63 ha 5 a et 44 ca. |
+
+BX |
+
+127 |
+
+|
+
+28 |
+
+58 |
+
+Etat |
+
+BX |
+
+128 |
+
+1 |
+
+57 |
+
+15 |
+
+Etat |
+
+BX |
+
+129 |
+
+|
+
+7 |
+
+41 |
+
+Etat |
+
+BX |
+
+130 |
+
+36 |
+
+38 |
+
+64 |
+
+Etat |
+
+BX |
+
+144 |
+
+|
+
+12 |
+
+47 |
+
+Etat |
+
+Sur la parcelle BX 144, seuls le mur historique du Petit Parc et une bande de terrain formée par un recul de 10 m par rapport au mur sont intégrés au domaine national, soit une contenance de 12 a 47 ca sur 1 ha 39 a et 2 ca. |
+
+BX |
+
+153 |
+
+|
+
+86 |
+
+48 |
+
+Etat |
+
+BX |
+
+154 |
+
+|
+
+2 |
+
+|
+
+Etat |
+
+BX |
+
+155 |
+
+|
+
+3 |
+
+15 |
+
+Etat |
+
+BX |
+
+156 |
+
+|
+
+10 |
+
+|
+
+Etat |
+
+BX |
+
+169 |
+
+94 |
+
+90 |
+
+49 |
+
+Etat |
+
+L'intégration de la parcelle BX 169 est rognée sur un recul de 25 m le long de l'échangeur de Satory-Nord et le long de l'avenue Clément-Ader. La surface intégrée comprend 94 ha 90 a 49 ca sur 98 ha, 42 a et 53 ca. |
+
+BX |
+
+178 |
+
+|
+
+10 |
+
+20 |
+
+Etat |
+
+BX |
+
+184 |
+
+4 |
+
+63 |
+
+46 |
+
+Etat |
+
+L'intégration de la parcelle BX 184 est rognée sur un recul de 15 m le long de l'avenue Clément-Ader et de la RN 12. La surface intégrée est limitée à 4 ha 63 a 46 ca sur 6 ha, 24 a et 65 ca. |
+
+BX |
+
+241 |
+
+Mur du Petit Parc |
+
+Propriété privée |
+
+Sur la parcelle BX 241, seul le mur historique de limite du Petit Parc est intégré au domaine national. Il forme une bande de 69 mètres linéaires. |
+
+BX |
+
+249 |
+
+|
+
+69 |
+
+79 |
+
+Etat |
+
+BX |
+
+250 |
+
+1 |
+
+10 |
+
+43 |
+
+Etat |
+
+BX |
+
+251 |
+
+|
+
+20 |
+
+11 |
+
+Etat |
+
+BX |
+
+252 |
+
+|
+
+3 |
+
+1 |
+
+Etat |
+
+BX |
+
+253 |
+
+|
+
+19 |
+
+|
+
+Etat |
+
+BX |
+
+255 |
+
+2 |
+
+38 |
+
+76 |
+
+Etat |
+
+BX |
+
+256 |
+
+1 |
+
+7 |
+
+13 |
+
+Etat |
+
+Sur la parcelle BX 256, une enclave hors domaine national de 1 ha 7 a 13 ca est pratiquée. Elle est limitée au nord par les limites cadastrales avec les parcelles BX 249 et BX 250 ; à l'ouest par la limite cadastrale avec l'allée des Matelots ; au sud par une ligne en retour d'équerre avec l'allée des Matelots située à 80 m de recul par rapport à la limite cadastrale nord ; à l'est par une ligne parallèle à l'allée des Matelots placée à 132 m de cette allée, et laissant dans le domaine national l'allée des Tilleuls. La contenance intégrée au domaine national est de 41 ha 19 a 90 ca sur 42 ha, 26 a 66 ca. |
+
+BX |
+
+289 |
+
+|
+
+81 |
+
+11 |
+
+Etat |
+
+BX |
+
+291 |
+
+|
+
+63 |
+
+46 |
+
+Etat |
+
+BX |
+
+292 |
+
+8 |
+
+1 |
+
+84 |
+
+Etat |
+
+BX |
+
+302 |
+
+Mur du Petit Parc |
+
+Propriété privée |
+
+Sur la parcelle BX 302, seul le mur historique du Petit Parc est intégré au domaine national. Il forme une bande de 20 mètres linéaires. |
+
+BX |
+
+303 |
+
+|
+
+64 |
+
+78 |
+
+Etat |
+
+BX |
+
+304 |
+
+|
+
+23 |
+
+98 |
+
+Etat |
+
+BX |
+
+308 |
+
+|
+
+5 |
+
+28 |
+
+Etat |
+
+L'intégration au domaine national sur la parcelle BX 308 est limitée au pont enjambant le chemin de fer sur la route de Saint-Cyr/RD10 (intégration du pont sans les tréfonds portant des réseaux ferroviaires), soit une contenance de 5 a 28 ca sur 1 ha 89 a 5 ca. |
+
+BX |
+
+315 |
+
+2 |
+
+79 |
+
+80 |
+
+Etat |
+
+BX |
+
+316 |
+
+3 |
+
+57 |
+
+76 |
+
+Etat |
+
+BY |
+
+1 |
+
+44 |
+
+43 |
+
+25 |
+
+Etat |
+
+BY |
+
+2 |
+
+|
+
+54 |
+
+88 |
+
+Etat |
+
+BY |
+
+6 |
+
+|
+
+81 |
+
+62 |
+
+Etat |
+
+BY |
+
+7 |
+
+|
+
+27 |
+
+61 |
+
+Etat |
+
+BY |
+
+8 |
+
+|
+
+13 |
+
+43 |
+
+Etat |
+
+BY |
+
+9 |
+
+2 |
+
+75 |
+
+|
+
+Etat |
+
+BY |
+
+10 |
+
+|
+
+35 |
+
+33 |
+
+Etat |
+
+BY |
+
+11 |
+
+|
+
+25 |
+
+|
+
+Etat |
+
+BY |
+
+12 |
+
+53 |
+
+28 |
+
+63 |
+
+Etat |
+
+BY |
+
+13 |
+
+|
+
+83 |
+
+75 |
+
+Etat |
+
+BY |
+
+15 |
+
+23 |
+
+93 |
+
+32 |
+
+Etat |
+
+BY |
+
+16 |
+
+274 |
+
+81 |
+
+54 |
+
+Etat |
+
+BY |
+
+17 |
+
+21 |
+
+80 |
+
+97 |
+
+Etat |
+
+BY |
+
+18 |
+
+1 |
+
+22 |
+
+63 |
+
+Etat |
+
+BY |
+
+19 |
+
+1 |
+
+23 |
+
+18 |
+
+Etat |
+
+BY |
+
+20 |
+
+1 |
+
+54 |
+
+98 |
+
+Etat |
+
+BY |
+
+21 |
+
+7 |
+
+78 |
+
+88 |
+
+Etat |
+
+BY |
+
+22 |
+
+2 |
+
+43 |
+
+53 |
+
+Etat |
+
+BY |
+
+23 |
+
+21 |
+
+46 |
+
+25 |
+
+Etat |
+
+BY |
+
+24 |
+
+|
+
+2 |
+
+3 |
+
+Etat |
+
+BY |
+
+25 |
+
+2 |
+
+52 |
+
+75 |
+
+Etat |
+
+BY |
+
+26 |
+
+|
+
+6 |
+
+34 |
+
+Etat |
+
+BY |
+
+27 |
+
+13 |
+
+57 |
+
+11 |
+
+Etat |
+
+BY |
+
+28 |
+
+8 |
+
+42 |
+
+10 |
+
+Etat |
+
+BY |
+
+29 |
+
+|
+
+17 |
+
+64 |
+
+Etat |
+
+BY |
+
+31 |
+
+6 |
+
+46 |
+
+63 |
+
+Etat |
+
+BY |
+
+32 |
+
+20 |
+
+20 |
+
+27 |
+
+Etat |
+
+BY |
+
+33 |
+
+1 |
+
+46 |
+
+25 |
+
+Etat |
+
+BY |
+
+34 |
+
+4 |
+
+98 |
+
+59 |
+
+Etat |
+
+BY |
+
+35 |
+
+3 |
+
+44 |
+
+38 |
+
+Etat |
+
+BY |
+
+37 |
+
+|
+
+3 |
+
+37 |
+
+Etat |
+
+BY |
+
+38 |
+
+|
+
+9 |
+
+89 |
+
+Etat |
+
+BY |
+
+39 |
+
+1 |
+
+1 |
+
+|
+
+Etat |
+
+BY |
+
+40 |
+
+|
+
+3 |
+
+47 |
+
+Etat |
+
+BY |
+
+41 |
+
+24 |
+
+80 |
+
+36 |
+
+Etat |
+
+BY |
+
+44 |
+
+2 |
+
+37 |
+
+75 |
+
+Etat |
+
+BY |
+
+45 |
+
+2 |
+
+33 |
+
+13 |
+
+Etat |
+
+BY |
+
+46 |
+
+2 |
+
+4 |
+
+64 |
+
+Etat |
+
+BY |
+
+47 |
+
+|
+
+|
+
+72 |
+
+Etat |
+
+BY |
+
+48 |
+
+|
+
+2 |
+
+96 |
+
+Etat |
+
+BY |
+
+49 |
+
+|
+
+4 |
+
+20 |
+
+Etat |
+
+BY |
+
+50 |
+
+|
+
+60 |
+
+|
+
+Etat |
+
+BY |
+
+51 |
+
+|
+
+|
+
+63 |
+
+Etat |
+
+BY |
+
+53 |
+
+|
+
+22 |
+
+8 |
+
+Etat |
+
+BY |
+
+55 |
+
+|
+
+17 |
+
+80 |
+
+Etat |
+
+BY |
+
+56 |
+
+|
+
+3 |
+
+94 |
+
+Etat |
+
+BY |
+
+57 |
+
+|
+
+|
+
+87 |
+
+Etat |
+
+BY |
+
+58 |
+
+|
+
+33 |
+
+5 |
+
+Etat |
+
+BY |
+
+59 |
+
+|
+
+25 |
+
+50 |
+
+Etat |
+
+BY |
+
+60 |
+
+|
+
+11 |
+
+62 |
+
+Etat |
+
+BY |
+
+61 |
+
+|
+
+48 |
+
+93 |
+
+Etat |
+
+BY |
+
+62 |
+
+76 |
+
+9 |
+
+70 |
+
+Etat |
+
+BY |
+
+65 |
+
+1 |
+
+53 |
+
+50 |
+
+Etat |
+
+BY |
+
+66 |
+
+2 |
+
+39 |
+
+75 |
+
+Etat |
+
+BY |
+
+67 |
+
+|
+
+1 |
+
+72 |
+
+Etat |
+
+BY |
+
+68 |
+
+1 |
+
+70 |
+
+38 |
+
+Etat |
+
+BY |
+
+69 |
+
+|
+
+17 |
+
+75 |
+
+Etat |
+
+BY |
+
+70 |
+
+|
+
+24 |
+
+55 |
+
+Etat |
+
+BY |
+
+71 |
+
+1 |
+
+49 |
+
+37 |
+
+Etat |
+
+BY |
+
+72 |
+
+|
+
+2 |
+
+78 |
+
+Etat |
+
+BY |
+
+75 |
+
+|
+
+7 |
+
+32 |
+
+Communauté d'agglomération de Versailles Grand Parc |
+
+BY |
+
+78 |
+
+|
+
+18 |
+
+17 |
+
+Etat |
+
+Sur la parcelle BY 78, le mur historique du Petit Parc est intégré au domaine national. Il forme une bande de 30,70 mètres linéaires entre les parcelles BY 99 et BY 101 et une bande de 139,70 mètres linéaires à partir de la pointe nord de la parcelle BY 95. L'appendice parcellaire situé au sud entre les parcelles BY 79 et BY 80, entre l'avenue de la Division-Leclerc et la limite nord des deux parcelles est intégré au domaine national. L'appendice sud-est (pont sur le chemin de fer enjambant la route de Saint-Cyr/RD10) est également intégré au domaine national sans le tréfonds (intégration du pont sans les réseaux ferroviaires). Le tout forme une contenance de 18 a 17 ca sur une totalité de 5 ha 46 a 38 ca. |
+
+BY |
+
+79 |
+
+|
+
+39 |
+
+38 |
+
+Etat |
+
+BY |
+
+80 |
+
+1 |
+
+3 |
+
+87 |
+
+Etat |
+
+BY |
+
+81 |
+
+|
+
+9 |
+
+90 |
+
+Etat |
+
+BY |
+
+82 |
+
+1 |
+
+52 |
+
+72 |
+
+Etat |
+
+BY |
+
+83 |
+
+37 |
+
+53 |
+
+63 |
+
+Etat |
+
+BY |
+
+84 |
+
+|
+
+49 |
+
+88 |
+
+Etat |
+
+BY |
+
+85 |
+
+|
+
+|
+
+25 |
+
+Etat |
+
+BY |
+
+86 |
+
+|
+
+1 |
+
+26 |
+
+Etat |
+
+BY |
+
+87 |
+
+|
+
+|
+
+23 |
+
+Etat |
+
+BY |
+
+88 |
+
+6 |
+
+61 |
+
+28 |
+
+Etat |
+
+BY |
+
+89 |
+
+|
+
+2 |
+
+70 |
+
+Etat |
+
+BY |
+
+90 |
+
+|
+
+2 |
+
+70 |
+
+Etat |
+
+BY |
+
+91 |
+
+13 |
+
+45 |
+
+5 |
+
+Etat |
+
+BY |
+
+95 |
+
+Mur du Petit-Parc |
+
+Etat |
+
+Sur la parcelle BY 95, seul le mur historique du Petit Parc est intégré au domaine national. Il forme une bande de 100 mètres linéaires. |
+
+BY |
+
+96 |
+
+Mur du Petit Parc |
+
+Etablissement public national Sorbonne Université |
+
+Sur la parcelle BY 96, seul le mur historique du Petit Parc est intégré au domaine national. Il forme une bande de 532,70 mètres linéaires. |
+
+BY |
+
+99 |
+
+Mur du Petit Parc |
+
+Etat |
+
+Sur la parcelle BY 99, seul le mur historique du Petit Parc est intégré au domaine national. Il forme une bande de 68 mètres linéaires. |
+
+BY |
+
+101 |
+
+Mur du Petit Parc |
+
+Etat |
+
+Sur la parcelle BY 101, seul le mur historique du Petit Parc est intégré au domaine national. Il forme une bande de 9 mètres linéaires. |
+
+BY |
+
+102 |
+
+Mur du Petit Parc |
+
+Etat |
+
+Sur la parcelle BY 102, seul le mur historique du Petit Parc est intégré au domaine national. Il forme une bande de 24,70 mètres linéaires. |
+
+BY |
+
+105 |
+
+|
+
+1 |
+
+77 |
+
+Etat |
+
+BY |
+
+106 |
+
+|
+
+1 |
+
+54 |
+
+Etat |
+
+BY |
+
+120 |
+
+7 |
+
+44 |
+
+23 |
+
+Propriété privée |
+
+L'intégration de la parcelle BY 120 au domaine national est limitée à : l'appendice sud établi sur un recul de 8 m par rapport au nouveau mur du Petit Parc ; une bande de terrain également sur un recul de 8 m dans la continuité de cet appendice. Le tout jusqu'à une ligne en retour d'équerre vers l'ouest placé à 659 m au nord de la route de Saint-Cyr ; au nord de cette ligne perpendiculaire le terrain situé au-delà est intégré au domaine national (soit toute la moitié nord de la parcelle). La contenance intégrée est de 7 ha 44 a 23 ca sur un total de 14 ha 35 a 5 ca. |
+
+CA |
+
+7 |
+
+|
+
+3 |
+
+|
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+L'intégration de la parcelle CA 7 est limitée à l'extrémité sud de la parcelle sur un recul de 10 mètres, soit une contenance de 3 a sur 1 ha, 85 a et 14 ca. |
+
+CA |
+
+9 |
+
+|
+
+22 |
+
+55 |
+
+Etat |
+
+L'intégration de la parcelle CA 9 est limitée à l'extrémité sud de la parcelle sur un recul de 10 mètres, soit une contenance de 22 a 55 ca sur 98 ha, 16 a et 68 ca. |
+
+CA |
+
+10 |
+
+|
+
+37 |
+
+72 |
+
+Etat |
+
+CA |
+
+21 |
+
+1 |
+
+10 |
+
+49 |
+
+Etat |
+
+Les plans cadastraux de Versailles et Buc présentent, sur les limites communales entre les sections Versailles CA et Buc D, une superposition partielle des parcelles qui ne correspond pas à une réalité physique. L'inclusion de la parcelle CA 21 dans le domaine national visant principalement à intégrer les vestiges du mur du Petit Parc historique, celle-ci a été faite sans préjudice de l'assiette et de la situation foncière des parcelles Buc D 1 et 2. |
+
+CA |
+
+22 |
+
+|
+
+7 |
+
+14 |
+
+Etat |
+
+Les plans cadastraux de Versailles et Buc présentent, sur les limites communales entre les sections Versailles CA et Buc D, une superposition partielle des parcelles qui ne correspond pas à une réalité physique. L'inclusion de la parcelle CA 22 dans le domaine national visant principalement à intégrer les vestiges du mur du Petit Parc historique, celle-ci a été faite sans préjudice de l'assiette et de la situation foncière des parcelles Buc D 1 et 2. |
+
+CB |
+
+9 |
+
+4 |
+
+63 |
+
+46 |
+
+Etat |
+
+CB |
+
+11 |
+
+|
+
+57 |
+
+13 |
+
+Etat |
+
+CB |
+
+12 |
+
+3 |
+
+76 |
+
+49 |
+
+Etat |
+
+CB |
+
+16 |
+
+|
+
+54 |
+
+54 |
+
+Etat |
+
+CB |
+
+17 |
+
+|
+
+33 |
+
+20 |
+
+Etat |
+
+CB |
+
+18 |
+
+|
+
+60 |
+
+71 |
+
+Etat |
+
+CB |
+
+19 |
+
+|
+
+9 |
+
+99 |
+
+Etat |
+
+CB |
+
+20 |
+
+2 |
+
+41 |
+
+29 |
+
+Etat |
+
+CB |
+
+21 |
+
+2 |
+
+74 |
+
+85 |
+
+Etat |
+
+CB |
+
+22 |
+
+1 |
+
+35 |
+
+51 |
+
+Etat |
+
+CB |
+
+23 |
+
+6 |
+
+50 |
+
+42 |
+
+Etat |
+
+CB |
+
+24 |
+
+3 |
+
+71 |
+
+46 |
+
+Etat |
+
+CB |
+
+25 |
+
+1 |
+
+85 |
+
+8 |
+
+Etat |
+
+CB |
+
+26 |
+
+|
+
+1 |
+
+88 |
+
+Etat |
+
+CC |
+
+9 |
+
+13 |
+
+80 |
+
+64 |
+
+Etat |
+
+CC |
+
+10 |
+
+|
+
+96 |
+
+20 |
+
+Etat |
+
+CC |
+
+11 |
+
+|
+
+78 |
+
+82 |
+
+Etat |
+
+CC |
+
+12 |
+
+|
+
+24 |
+
+67 |
+
+Etat |
+
+CC |
+
+14 |
+
+Mur du Petit Parc |
+
+Etat |
+
+Sur la parcelle CC 14, seul le mur historique du Petit Parc est intégré au domaine national. Il forme une bande de 67,60 mètres linéaires. |
+
+CC |
+
+16 |
+
+Mur du Petit Parc |
+
+Etat |
+
+Sur la parcelle CC 16, seul le mur historique du Petit Parc est intégré au domaine national. Il forme une bande de 95,80 mètres linéaires. |
+
+BX/BY |
+
+Non cadastré |
+
+|
+
+59 |
+
+72 |
+
+Commune de Versailles |
+
+Intégration d'un tronçon non cadastré de la RD n° 10, du Petit Contrôle jusqu'au droit de la pièce d'eau des Suisses jusqu'à la limite orientale de la parcelle BY 58, soit une contenance de.59 a 72 ca |
+
+AH / BT / BR/ BS |
+
+Non cadastré |
+
+2 |
+
+75 |
+
+88 |
+
+Commune de Versailles |
+
+Intégration de la chaussée et des contre-allées non cadastrées de l'avenue de Sceaux, soit une contenance de 2 ha 75 a 88 ca. |
+
+AH |
+
+Non cadastré |
+
+|
+
+24 |
+
+30 |
+
+Commune de Versailles |
+
+Intégration d'un tronçon non cadastré de l'avenue Rockefeller entre la place d'Armes et les Petites Ecuries, soit une contenance de 24 a 30 ca. |
+
+AH |
+
+Non cadastré |
+
+|
+
+22 |
+
+41 |
+
+Commune de Versailles |
+
+Intégration de la contre-allée sud non cadastrée de l'avenue Nepveu-Sud (rue de la Chancellerie), soit une contenance de 22 a 41 ca. |
+
+AE/ AI/ AX/ BP |
+
+Non cadastré |
+
+2 |
+
+27 |
+
+3 |
+
+Commune de Versailles |
+
+Intégration des contre-allées non cadastrées de l'avenue de Saint-Cloud et de la place Alexandre-Ier-de-Yougoslavie-Louis-Barthou incluse, soit une contenance de 2 ha 27 a 3 ca. |
+
+AE |
+
+Non cadastré |
+
+|
+
+26 |
+
+61 |
+
+Commune de Versailles |
+
+Intégration de la contre-allée nord non cadastrée de l'avenue Nepveu-Nord (rue Colbert), soit une contenance de 26 a 61 ca. |
+
+AH / AE / AI/ BR/ BP/ BN/ BO/ BK/ AY |
+
+Non cadastré |
+
+2 |
+
+52 |
+
+87 |
+
+Commune de Versailles |
+
+Intégration des contre-allées non cadastrées de l'avenue de Paris jusqu'aux guichets d'octroi, soit une contenance de 2 ha 52 a 87 ca. |
+
+BY |
+
+Non cadastré |
+
+|
+
+3 |
+
+40 |
+
+Commune de Versailles |
+
+Intégration de la rampe sud d'accès à la cour d'honneur du château à l'extrémité de la rue de l'Indépendance-Américaine, soit une contenance de 3 a 40 ca. |
+
+BY |
+
+Non cadastré |
+
+|
+
+2 |
+
+90 |
+
+Commune de Versailles |
+
+Intégration de la rampe nord d'accès à la cour d'honneur du château à l'extrémité de la place Gambetta, soit une contenance de 2 a 90 ca. |
+
+BY/ BX |
+
+Non cadastré |
+
+10 |
+
+41 |
+
+94 |
+
+Département des Yvelines |
+
+Intégration d'un tronçon non cadastré de la RD n° 10 de la pièce d'eau des Suisses jusqu'à la porte de Saint-Cyr (limite communale occidentale entre Versailles et Saint-Cyr-l'Ecole), soit une contenance de 10 ha 41 a 94 ca. |
+
+AH / AE / AI/ BR/ BP/ BN/ BO/ BK/ AY |
+
+Non cadastré |
+
+5 |
+
+45 |
+
+30 |
+
+Département des Yvelines |
+
+Intégration de la chaussée non cadastrée de l'avenue de Paris entre la place d'Armes et les guichets d'octroi, soit une contenance de 5 ha 45 a 30 ca. |
+
+AH/AE |
+
+Non cadastré |
+
+|
+
+28 |
+
+|
+
+Département des Yvelines |
+
+Intégration d'un tronçon non cadastré de l'avenue Rockefeller entre la place d'Armes et les Grandes Ecuries, soit une contenance de 28 a. |
+
+AE/ AI/AX/BP |
+
+Non cadastré |
+
+1 |
+
+95 |
+
+70 |
+
+Département des Yvelines |
+
+Intégration de la chaussée non cadastrée de l'avenue de Saint-Cloud et de la place Alexandre-Ier-de-Yougoslavie-Louis-Barthou incluse, soit une contenance de 1 ha 95 a 70 ca. |
+
+AE |
+
+Non cadastré |
+
+|
+
+26 |
+
+30 |
+
+Etat |
+
+Intégration de la chaussée sur la place d'Armes entre les parcelles AE 445 et AE 446, soit une contenance de 26 a 30 ca. |
+
+AH |
+
+Non cadastré |
+
+|
+
+25 |
+
+29 |
+
+Etat |
+
+Intégration de la chaussée sur la place d'armes entre les parcelles AH 234 et AH 235, soit une contenance de 25 a 29 ca. |
+
+AE/ AI/AX/BP |
+
+Non cadastré |
+
+4 |
+
+|
+
+63 |
+
+Etat |
+
+Intégration des terre-pleins plantés non cadastrés de l'avenue de Saint-Cloud et de la place Alexandre-1er-de-Yougoslavie-Louis-Barthou incluse, soit une contenance de 4 ha 63 ca. |
+
+AH/ BR/ BT |
+
+Non cadastré |
+
+2 |
+
+27 |
+
+97 |
+
+Etat |
+
+Intégration des terre-pleins plantés non cadastrés de l'avenue de Sceaux, soit une contenance de 2 ha 27 a 97 ca. |
+
+AE/ AI/ AH/ AY/ BP/ BR/ BN/ BO/ BK |
+
+Non cadastré |
+
+10 |
+
+49 |
+
+75 |
+
+Etat |
+
+Intégration des terre-pleins plantés non cadastrés de l'avenue de Paris jusqu'aux guichets d'octroi, soit une contenance de 10 ha 49 a 75 ca. |
+
+DÉSIGNATION : DOMAINE NATIONAL DU CHÂTEAU DE VERSAILLES ;
+
+COMMUNE : VILLEPREUX ;
+
+CODE INSEE : 78647.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+ZC |
+
+20 |
+
+|
+
+53 |
+
+58 |
+
+Propriété privée |
+
+L'intégration de la parcelle ZC 20 au domaine national est limitée à la partie nord contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle ZB 9 de Rennemoulin et sur la limite entre la parcelle ZC 30 et le chemin rural n°1bis. L'intégration est limitée à 53 a 58 ca sur une contenance totale de 7 ha, 59 a et 19 ca. |
+
+ZC |
+
+22 |
+
+|
+
+14 |
+
+42 |
+
+Propriété privée |
+
+L'intégration de la parcelle ZC 22 au domaine national est limitée à la partie nord contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle ZB 9 de Rennemoulin et sur la limite entre la parcelle ZC 30 et le chemin rural n°1bis. L'intégration est limitée à 14 a 42 ca sur une contenance totale de 4 ha, 46 a et 40 ca. |
+
+ZC |
+
+23 |
+
+2 |
+
+96 |
+
+69 |
+
+Propriété privée |
+
+L'intégration de la parcelle ZC 23 au domaine national est limité à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle ZB 9 de Rennemoulin et sur la limite entre la parcelle ZC 30 et le chemin rural n°1bis. L'intégration est limitée à 2 ha 96 a 69 ca sur une contenance totale de 15 ha 90 a 73 ca sur une contenance totale de 19 ha 1 a. |
+
+ZC |
+
+30 |
+
+|
+
+12 |
+
+66 |
+
+Propriété privée |
+
+L'intégration de la parcelle ZC 30 au domaine national est limitée à la partie nord contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle ZB 9 de Rennemoulin et sur la limite entre la parcelle ZC 30 et le chemin rural n°1bis. L'intégration est limitée à 12 a 66 ca sur une contenance totale de 11ha, 81 a 68 ca. |
+
+ZC |
+
+36 |
+
+2 |
+
+51 |
+
+85 |
+
+Propriété privée |
+
+L'intégration de la parcelle ZC 36 au domaine national est limité à la partie sud contenue dans la largeur de l'allée historique de Villepreux. La largeur est définie par une ligne joignant les limites cadastrales qui conservent la trace de la largeur de l'allée, notamment sur la parcelle ZB 9 de Rennemoulin et sur la limite entre la parcelle ZC 30 et le chemin rural n°1bis. L'intégration est limitée à 2 ha 51 a 85 ca sur une contenance totale de 15 ha 90 a 73 ca. |
+
+ZC |
+
+Non cadastré |
+
+|
+
+56 |
+
+54 |
+
+Commune de Villepreux |
+
+Intégration du tronçon non cadastré du chemin rural n° 1bis dit de Villepreux à Versailles, dans l'emprise de l'allée historique de Villepreux, de la limite communale, à l'est, jusqu'à la RD n° 12, à l'ouest, soit une contenance de 56 a 54 ca. |
+
+21° Domaine national de Marly (Yvelines) :
+
+- carte :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 121 du 26 mai 2024, texte n° 24 à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=QAW4jcbjJIr3GMlbDdaq6n-9gRX-cMgK-3DaXqN0q4o=
+
+Domaine national de Marly (Yvelines)
+
+- liste des parcelles, parties de parcelles et espaces non cadastrés intégrés au domaine national de Marly :
+
+DÉSIGNATION : DOMAINE NATIONAL DE MARLY ;
+
+COMMUNE : BOUGIVAL ;
+
+CODE INSEE : 78098.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+AB |
+
+64 |
+
+|
+
+91 |
+
+56 |
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+AB |
+
+76 et non cadastré |
+
+|
+
+6 |
+
+31 |
+
+Etat |
+
+La terrasse Dufrayer portant un square, face au pavillon Charles X de la Machine de Marly, est intégrée au domaine national. Elle se trouve pour partie sur la parcelle AB 76, pour partie sur l'espace non cadastré de la berge de la Seine, dessinant un trapèze rectangle appuyé sur la partie arrondie de la parcelle, de 30 m de long dans le sens nord/sud pour la grande base et de 21 m de large dans le sens est/ouest pour la petite base. La portion de la parcelle AB 76 intégrée au domaine national est limitée à une contenance de 3 a 19 ca sur 1 ha 63 a 30 ca, à laquelle s'ajoute une contenance de 3 a 12 ca prise sur l'espace non cadastré de la berge de la Seine pour former la totalité de la terrasse Dufrayer. |
+
+AB |
+
+95 |
+
+|
+
+1 |
+
+98 |
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+AB |
+
+96 |
+
+|
+
+8 |
+
+29 |
+
+Propriété privée |
+
+AB |
+
+99 |
+
+|
+
+48 |
+
+68 |
+
+Propriété privée |
+
+AB |
+
+Non cadastré |
+
+|
+
+1 |
+
+92 |
+
+Etat |
+
+L'îlot Dufrayer non cadastré dans le lit de la Seine, face à l'ancienne Direction des Eaux de la Machine, portant l'ancien pavillon des Aiguilles, est intégré au domaine national pour une contenance de 1 a 92 ca définie par sa représentation au cadastre. |
+
+DÉSIGNATION : DOMAINE NATIONAL DE MARLY ;
+
+COMMUNE : LOUVECIENNES ;
+
+CODE INSEE : 78350.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+AL |
+
+33 |
+
+|
+
+19 |
+
+76 |
+
+Commune de Louveciennes |
+
+La parcelle AL 33 est partiellement intégrée au domaine national, à l'exclusion des parties portant le cimetière communal. La portion intégrée comprend donc les espaces au pied du massif nord (siphon) de l'aqueduc de Louveciennes (devant ses façades nord et est), portant l'arrivée haute de l'aqueduc souterrain et l'extrémité nord de l'allée des Arches sur sa partie cadastrée. Cela représente une contenance de 19 a 76 ca sur 4 ha 3 a et 64 ca. |
+
+AL |
+
+59 |
+
+|
+
+15 |
+
+20 |
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+AL |
+
+60 |
+
+|
+
+4 |
+
+66 |
+
+Etat |
+
+AL |
+
+61 |
+
+|
+
+17 |
+
+88 |
+
+Etat |
+
+AL |
+
+62 |
+
+|
+
+34 |
+
+20 |
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+AL |
+
+63 |
+
+|
+
+31 |
+
+87 |
+
+Etat |
+
+AL |
+
+64 |
+
+|
+
+42 |
+
+12 |
+
+Etat |
+
+AL |
+
+Non cadastré |
+
+|
+
+11 |
+
+40 |
+
+Commune de Louveciennes |
+
+L'allée des Arches, non cadastrée, le long de l'aqueduc, est intégrée au domaine national, soit une contenance de 11a 40ca. Elle est limitée au sud par le croisement avec le chemin de l'Aqueduc. |
+
+B |
+
+6 |
+
+|
+
+8 |
+
+93 |
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+B |
+
+7 |
+
+|
+
+34 |
+
+37 |
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+BC |
+
+8 |
+
+|
+
+34 |
+
+30 |
+
+Etat |
+
+BC |
+
+9 |
+
+|
+
+68 |
+
+78 |
+
+Etat |
+
+La partie intégrée au domaine national comprend les deux tiers à l'est de la parcelle entre la route de Versailles et la limite du Petit Parc historique. La limite d'intégration est formée par le prolongement des limites des parcelles BC 7 et BC 8. La partie intégrée au domaine national comprend 68 a 78 ca sur 92 a 54 ca. |
+
+BC |
+
+10 |
+
+|
+
+34 |
+
+5 |
+
+Etat |
+
+BC |
+
+13 |
+
+|
+
+11 |
+
+61 |
+
+Etat |
+
+DÉSIGNATION : DOMAINE NATIONAL DE MARLY ;
+
+COMMUNE : MARLY-LE-ROI ;
+
+CODE INSEE : 78372.
+
+SECTION |
+
+PARCELLE |
+
+CONTENANCE |
+
+PROPRIÉTAIRE |
+
+ha. |
+
+a. |
+
+ca. |
+
+AL |
+
+37 |
+
+|
+
+50 |
+
+18 |
+
+Etat |
+
+AP |
+
+12 |
+
+|
+
+75 |
+
+80 |
+
+Propriété privée |
+
+L'ancien belvédère du parc de Marly est intégré au domaine national. La portion de la parcelle AP 12 intégrée est limitée à une bande irrégulière formée selon le profil inversé de la limite ouest de la parcelle D 9, en observant un recul de 8 m sur la partie nord formant le belvédère, et un recul de 4,50 m sur la partie sud formant l'allée (permettant de reproduire la composition du belvédère par symétrie avec la forme de la parcelle D9), soit pour une contenance de 75 a et 80 ca sur une surface totale de 11 ha 33 a et 33 ca. |
+
+D |
+
+9 |
+
+|
+
+18 |
+
+88 |
+
+Propriété privée |
+
+D |
+
+29 |
+
+|
+
+13 |
+
+38 |
+
+Etat |
+
+La parcelle D 29 est très partiellement intégrée au domaine national pour une contenance de 13 a 38 ca sur une surface totale de 20 ha 14 a 75 ca. La partie intégrée forme l'angle angle nord-est de la parcelle, redessinant l'hémicycle de Maintenon par symétrie avec la forme de la parcelle D 48 au sud du Petit Parc historique. |
+
+D |
+
+30 |
+
+21 |
+
+71 |
+
+25 |
+
+Etat |
+
+D |
+
+31 |
+
+5 |
+
+29 |
+
+|
+
+Etat |
+
+D |
+
+32 |
+
+23 |
+
+54 |
+
+50 |
+
+Etat |
+
+D |
+
+33 |
+
+|
+
+29 |
+
+65 |
+
+Etat |
+
+D |
+
+34 |
+
+|
+
+40 |
+
+|
+
+Etat |
+
+D |
+
+35 |
+
+|
+
+45 |
+
+|
+
+Etat |
+
+D |
+
+36 |
+
+|
+
+56 |
+
+62 |
+
+Etat |
+
+D |
+
+37 |
+
+2 |
+
+8 |
+
+38 |
+
+Etat |
+
+D |
+
+38 |
+
+1 |
+
+4 |
+
+90 |
+
+Etat |
+
+D |
+
+39 |
+
+|
+
+48 |
+
+8 |
+
+Etat |
+
+D |
+
+40 |
+
+1 |
+
+79 |
+
+50 |
+
+Etat |
+
+D |
+
+42 |
+
+|
+
+32 |
+
+75 |
+
+Propriété privée |
+
+D |
+
+43 |
+
+|
+
+31 |
+
+63 |
+
+Etat |
+
+D |
+
+44 |
+
+19 |
+
+24 |
+
+88 |
+
+Etat |
+
+D |
+
+45 |
+
+|
+
+58 |
+
+5 |
+
+Etat |
+
+D |
+
+46 |
+
+|
+
+|
+
+26 |
+
+Etat |
+
+D |
+
+47 |
+
+14 |
+
+40 |
+
+64 |
+
+Etablissement public territorial (syndicat mixte) AQUAVESC |
+
+D |
+
+48 |
+
+6 |
+
+43 |
+
+50 |
+
+Etat |
+
+D |
+
+51 |
+
+1 |
+
+70 |
+
+13 |
+
+Etat |
+
+D |
+
+52 |
+
+|
+
+7 |
+
+25 |
+
+Etat |
+
+D |
+
+55 |
+
+|
+
+14 |
+
+23 |
+
+Etat |
+
+D |
+
+56 |
+
+45 |
+
+82 |
+
+27 |
+
+Etat |
+
+D |
+
+Non cadastré |
+
+1 |
+
+89 |
+
+88 |
+
+Commune de Marly-le-Roi |
+
+|
+
+|
+
+Intégration de la route communale n° 10 dite des Deux-Portes, non cadastrée, dans l'emprise du Petit Parc historique, et du tronçon sud non cadastré de la route de Bacchus, de la partie cadastrée de la voie (liaison avec le Tapis-Vert) jusqu'à l'extrémité sud du Petit Parc historique (porte du Trou-d'Enfer, route de Maintenon), soit une contenance totale intégrée de 1 ha 89 a 88 ca. |
+
+AL/AK |
+
+Non cadastré |
+
+1 |
+
+19 |
+
+48 |
+
+Département des Yvelines |
+
+Intégration du tronçon sud non cadastré de l'avenue de l'Abreuvoir (RD n° 386) dans sa partie axée sur l'abreuvoir de Marly (jusqu'au droit de la limite nord de la parcelle AL 140), et de la place de l'Abreuvoir, non cadastrée, couvrant la liaison de l'avenue des Combattants, de la côte du Cœur-Volant et de l'avenue de l'Abreuvoir, limitée au sud au droit de la margelle du bassin supérieur de l'abreuvoir, soit une contenance totale de 1 ha 19 a 48 ca. |
+
+.
