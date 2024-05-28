@@ -1,0 +1,9 @@
+# Réponse à la question n° 12971
+
+- Question : [12971](12971.md) — Question n° 12971 — Télétravail dans la convention fiscale entre la France et la Belgique
+
+## Réponse
+
+*JO du 2024-05-28, page 4263*
+
+La France et la Belgique sont liées par une convention fiscale signée le 10 mars 1964 qui contient un protocole spécifique pour les travailleurs frontaliers, qui bénéficient d'un régime particulier consistant en l'imposition exclusive à la résidence des rémunérations qui leur sont versées. Ce régime comprend en outre une tolérance de sortie de la zone frontalière belge de 30 jours, qui a pour effet de rendre possible l'exercice du télétravail sans perte du statut de travailleur frontalier. S'agissant des travailleurs qui ne relèvent pas de ce régime particulier, les revenus d'emploi qu'ils perçoivent lorsqu'ils ont recours au télétravail suivent la règle de l'article 11 de la convention, fondée sur le critère du lieu d'exercice de l'activité. Leurs salaires sont alors imposés, au prorata de la durée de travail respective, dans l'État de l'employeur et dans celui où ils ont leur résidence fiscale. Aucune demande spécifique d'évolution ou de modification de ces règles n'a été exprimée jusqu'à présent sachant qu'elles sont conformes aux standards internationaux en la matière. La nouvelle convention signée le 9 novembre 2021, en attente de ratification par les deux États, ne revient pas sur les règles rappelées ci-dessus. Enfin, face à l'ampleur du télétravail et à ses incidences en matière fiscale, des travaux sont en cours sous l'égide de l'Organisation de coopération et de développement économiques (OCDE). La France participe activement aux discussions avec les autres États membres, dans le but de mutualiser les bonnes pratiques et de faciliter le développement du télétravail sur la base de règles simples pour les contribuables et les administrations fiscales.
