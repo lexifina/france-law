@@ -1,0 +1,9 @@
+# Réponse à la question n° 12897
+
+- Question : [12897](12897.md) — Question n° 12897 — Publication du décret concernant le dépistage néonatal de la drépanocytose
+
+## Réponse
+
+*JO du 2024-05-28, page 4280*
+
+Le programme national de Dépistage néonatal (DNN) destiné à tous les nouveau-nés qui naissent en France vise à détecter et à prendre en charge de manière précoce des maladies rares, sévères, le plus souvent d'origine génétique. L'article L. 1411-6-1 du code de la santé publique dispose que la liste de ces maladies est fixée par arrêté des ministres chargés de la santé et de la sécurité sociale, après avis de la Haute autorité de santé et de l'Agence de la biomédecine. Dans ce cadre, le DNN de la drépanocytose est proposé depuis 1995 pour tous les nouveau-nés des départements et régions d'outre-mer, et en métropole pour ceux considérés comme à risque de développer la maladie, ce risque étant évalué principalement sur l'origine géographique des parents. Suite à une saisine de la direction générale de la santé, la Haute autorité de santé s'est prononcée dans un avis du 10 novembre 2022 en faveur de la généralisation du DNN de la drépanocytose en France métropolitaine. Depuis, des travaux ont été initiés en lien avec le centre national de coordination du dépistage néonatal et les centres régionaux du dépistage néonatal pour mettre en place le dépistage néonatal de la drépanocytose généralisé à l'ensemble du territoire français. Il s'agit notamment de doter les régions de nouveaux équipements et former leur personnel, ainsi que d'actualiser les documents d'information destinés aux parents. La publication de l'arrêté qui permettra la mise en œuvre de cette généralisation est prévue au plus tard en 2024. Cette généralisation du DNN de la drépanocytose s'inscrira en complément des évolutions récentes du programme national de DNN qui permet actuellement de dépister treize maladies à la naissance au lieu de cinq en 2020.
