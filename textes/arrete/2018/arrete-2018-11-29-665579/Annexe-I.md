@@ -6,7 +6,9 @@ LOCALISATION DES EMPLOIS À FORTE RESPONSABILITÉ BÉNÉFICIANT DE LA NOUVELLE B
 
 1° Périmètre administration centrale, établissements publics et services à compétence nationale
 
-Directions et services |
+Directions
+
+et services |
 
 Fonctions |
 
@@ -14,19 +16,9 @@ Points
 
 de NBI |
 
-Nombre d'emplois
+Nombre d'emplois à forte responsabilité (EFR) |
 
-à forte responsabilité
-
-(EFR) |
-
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -362,6 +354,8 @@ Adjoint au chef du bureau des parcours professionnels au sein de la sous-directi
 
 1 |
 
+|
+
 Chef de mission des affaires budgétaires et des emplois de la fonction RH ministérielle |
 
 0 |
@@ -430,7 +424,7 @@ Adjoint au chef du bureau des gradés et gardien de la paix au sein de la sous-d
 
 1 |
 
-Adjoint au directeur de projet-travaux préparatoire à la création de la nouvelle direction des ressources humaines, des finances et des soutiens de la police nationale |
+Chef du bureau de l'élaboration du droit et de l'appui juridique de la direction des ressources humaines, des finances et des soutiens de la police nationale |
 
 50 |
 
@@ -942,19 +936,11 @@ Points
 
 de NBI |
 
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1138,7 +1124,7 @@ Chargé de mission auprès du préfet délégué pour la sécurité et de défen
 
 1 |
 
-1 poste |
+Adjoint au directeur de l'administration générale et des finances |
 
 20 |
 
@@ -1182,7 +1168,9 @@ Directeur des ressources humaines |
 
 3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
 
-Directions et services |
+Directions
+
+et services |
 
 Fonctions |
 
@@ -1464,7 +1452,7 @@ Secrétaire général |
 
 Chef du bureau des titres d'identité au sein du service des titres et des relations avec les usagers |
 
-60 |
+30 |
 
 - |
 
@@ -1472,7 +1460,7 @@ Chef du bureau des titres d'identité au sein du service des titres et des relat
 
 Adjoint au chef du service des titres et des relations avec les usagers |
 
-30 |
+60 |
 
 - |
 
@@ -1554,7 +1542,9 @@ Secrétaire général chargé du pilotage transversal et de coordination au sein
 
 4° Périmètre services de police nationale
 
-Directions et services |
+Directions
+
+et services |
 
 Fonctions |
 
@@ -1562,9 +1552,7 @@ Points
 
 de NBI |
 
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
@@ -2084,7 +2072,9 @@ Chef du bureau des soutien et des finances |
 
 6° Périmètre juridictions administratives
 
-Juridiction administrative |
+Juridiction
+
+administrative |
 
 Fonctions |
 
@@ -2098,13 +2088,7 @@ Nombre d'emplois
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -2302,9 +2286,7 @@ Greffier en chef |
 
 7° Périmètre préfectures
 
-Localisation
-
-des emplois |
+Localisation des emplois |
 
 Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
@@ -2320,7 +2302,11 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du nombre d'emplois de CAIOM |
+Total du nombre
+
+d'emplois
+
+de CAIOM |
 
 60 points |
 
@@ -2330,9 +2316,7 @@ Total du nombre d'emplois de CAIOM |
 
 20 points |
 
-Sans point
-
-de NBI |
+Sans point de NBI |
 
 01 Ain |
 
@@ -2562,7 +2546,7 @@ de NBI |
 
 - |
 
-2 |
+1 |
 
 - |
 
@@ -2570,7 +2554,7 @@ de NBI |
 
 - |
 
-2 |
+1 |
 
 - |
 
@@ -3128,17 +3112,7 @@ de NBI |
 
 33 Gironde |
 
-2 |
-
-- |
-
-2 |
-
-- |
-
-- |
-
-5 |
+3 |
 
 - |
 
@@ -3148,7 +3122,17 @@ de NBI |
 
 - |
 
+5 |
+
+- |
+
 2 |
+
+- |
+
+- |
+
+3 |
 
 34 Hérault |
 
@@ -3210,7 +3194,7 @@ de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3218,7 +3202,7 @@ de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3354,7 +3338,7 @@ de NBI |
 
 - |
 
-2 |
+3 |
 
 - |
 
@@ -3362,7 +3346,7 @@ de NBI |
 
 2 |
 
-- |
+1 |
 
 - |
 
@@ -3378,7 +3362,7 @@ de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3386,7 +3370,7 @@ de NBI |
 
 1 |
 
-2 |
+1 |
 
 - |
 
@@ -3834,7 +3818,7 @@ de NBI |
 
 - |
 
-6 |
+7 |
 
 - |
 
@@ -3842,7 +3826,7 @@ de NBI |
 
 1 |
 
-- |
+1 |
 
 - |
 
@@ -3906,7 +3890,7 @@ de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3914,7 +3898,7 @@ de NBI |
 
 1 |
 
-2 |
+1 |
 
 - |
 
@@ -3944,11 +3928,11 @@ de NBI |
 
 67 Bas-Rhin |
 
-1 |
+2 |
 
 - |
 
-1 |
+2 |
 
 - |
 
@@ -3958,13 +3942,13 @@ de NBI |
 
 - |
 
-7 |
+6 |
 
 - |
 
 - |
 
-1 |
+2 |
 
 68 Haut-Rhin |
 
@@ -4458,7 +4442,7 @@ de NBI |
 
 - |
 
-1 |
+2 |
 
 - |
 
@@ -4466,7 +4450,7 @@ de NBI |
 
 1 |
 
-- |
+1 |
 
 - |
 
@@ -4628,13 +4612,13 @@ de NBI |
 
 6 |
 
-5 |
+6 |
 
 1 |
 
 - |
 
-- |
+1 |
 
 - |
 
@@ -4896,7 +4880,11 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du nombre d'emplois de CAIOM |
+Total du nombre
+
+d'emplois
+
+de CAIOM |
 
 60 points |
 
@@ -4906,9 +4894,7 @@ Total du nombre d'emplois de CAIOM |
 
 20 points |
 
-Sans point
-
-de NBI |
+Sans point de NBI |
 
 01 Ain |
 
@@ -5674,17 +5660,17 @@ de NBI |
 
 1 |
 
-|
+- |
 
 - |
 
 33 Gironde |
 
-- |
+|
 
 - |
 
-- |
+|
 
 - |
 
@@ -5700,7 +5686,7 @@ de NBI |
 
 - |
 
-- |
+|
 
 34 Hérault |
 
@@ -6442,7 +6428,7 @@ de NBI |
 
 1 |
 
-|
+- |
 
 - |
 
@@ -6466,9 +6452,33 @@ de NBI |
 
 1 |
 
-|
+- |
 
-|
+- |
+
+67 Bas-Rhin |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
 
 68 Haut-Rhin |
 
