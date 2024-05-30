@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240511445
+
+- Question : [SEQ240511445](seq240511445.md) — Mise à jour de l'acte de mariage des enfants d'une personne ayant procédé à un changement de prénom en mairie
+
+## Réponse
+
+*Justice, JO du 2024-05-30, page 2489*
+
+Le prénom constitue un élément essentiel de l'état civil de la personne. Lorsqu'il est effectué sur le fondement de l'article 60 du code civil relatif à la procédure de changement de prénom pour motif légitime, le changement de prénom de l'intéressé conduit à devoir mettre à jour tous les actes de l'état civil concernés par ce changement. L'article 61-4 du code civil alinéa 1er dispose ainsi que la mention des décisions de changement de prénoms est portée en marge des actes de l'état civil de l'intéressé et, le cas échéant, de ceux de son conjoint, de son partenaire lié par un pacte civil de solidarité et de ses enfants. S'agissant plus spécifiquement de la mise à jour de l'acte de mariage des enfants de l'intéressé, la circulaire du 26 août 2020 relative aux tableaux récapitulatifs des formules de mentions apposées en marge des actes de l'état civil prévoit une formule de mention spécifique à apposer en marge de l'acte de mariage de l'enfant en cas de changement de prénom du parent (rubrique n °18-1 p.60 : « … (Prénom (s) NOM), le père/ la mère de l'époux (se), se prénomme… »). Le changement de prénom effectué en application de l'article 60 du code civil est donc porté en marge de l'acte de mariage des enfants de l'intéressé. En revanche, en application de l'article 61-7 du code civil, les modifications de prénoms corrélatives à une décision de modification de sexe ne sont portées en marge des actes de l'état civil des conjoints et enfants qu'avec le consentement des intéressés ou de leurs représentants légaux. Ainsi, en cas de changement de sexe du parent, le changement de prénom de celui-ci est porté en marge de l'acte de mariage de ses enfants uniquement si ces derniers y consentent.
