@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240310773
+
+- Question : [SEQ240310773](seq240310773.md) — Levée des sanctions imposées au Mali et retour de l'aide au développement et de la coopération décentralisée
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2024-05-30, page 2480*
+
+La France n'a adopté aucune sanction économique ou financière à l'encontre du Mali. Nous avons suspendu nos projets de coopération en 2022 car nous ne pouvions plus les poursuivre dans des conditions acceptables en raison du risque de détournement politique et de l'alliance des autorités maliennes avec le groupe Wagner. Nous souhaitions poursuivre notre aide humanitaire et d'urgence. Nous avons regretté la décision des autorités maliennes de transition du 21 novembre 2022 « d'interdire toutes les activités menées par des ONG françaises, maliennes ou internationales, sur financement ou avec l'appui matériel ou technique de la France ». Nous nous y sommes évidemment conformés. Les mesures adoptées par l'Union européenne se limitent, quant à elles, à des sanctions individuelles ciblées à l'encontre de quatre personnalités maliennes dont les actions constituent une obstruction à la conduite et à l'achèvement de la transition politique au Mali. Ces mesures n'ont aucun effet sur la population, ni sur l'économie et les finances maliennes. S'agissant des sanctions adoptées par la CEDEAO le 9 janvier 2022, elles ne relèvent aucunement de la responsabilité de la France. L'ensemble de ces sanctions économiques et financières ont d'ailleurs été levées le 3 juillet 2022 lors du sommet des chefs d'Etat et de gouvernement de la CEDEAO. Il convient également de noter que ces sanctions excluaient dès l'origine les produits de première nécessité, comme précisé dans le communiqué diffusé à l'issue du sommet du 9 janvier 2022.
