@@ -26,7 +26,7 @@ Directeur interdépartemental de la police nationale à Lyon.
 
 Chef d'état-major de la police nationale.
 
-Conseiller stratégie et prospective (3 postes).
+Conseiller stratégie et prospective (2 postes)
 
 2. Direction des ressources humaines, des finances et des soutiens de la police nationale :
 
@@ -65,6 +65,8 @@ Directeur central adjoint des compagnies républicaines de sécurité.
 10. Service de la protection :
 
 Chef du service de la protection.
+
+Chef du groupe de sécurité de la Présidence de la République et directeur de la sécurité de la Présidence de la République.
 
 11. Service national de police scientifique :
 
@@ -260,8 +262,6 @@ Sous-directeur Monde.
 
 Chef adjoint du service de la protection.
 
-Chef groupe de sécurité de la Présidence de la République et directeur de la sécurité de la Présidence de la République.
-
 13. Service national de police scientifique :
 
 Adjoint au chef du service national de police scientifique.
@@ -318,4 +318,4 @@ Directeur de l'école nationale supérieure de la police.
 
 NOTA :
 
-Conformément à l’article 3 de l'arrêté du 26 avril 2024 (NOR : IOMC2403984A) ces dispositions entrent en vigueur à compter du 15 mai 2024.
+Conformément à l’article 4 de l'arrêté du 17 mai 2024 (NOR : IOMC2412157A), ces dispositions entrent en vigueur à compter du 31 mai 2024.
