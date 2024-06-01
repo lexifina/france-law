@@ -52,11 +52,11 @@ Tout ESMS |
 
 Autorisation spécifique-UHR/ Unité Spécifique Alzheimer/ PASA/ ESA/ Centre de ressource territorial pour personnes âgées |
 
-EHPAD + SSIAD + SPASAD |
+EHPAD + SSIAD + SAD |
 
 Plateforme d'accompagnement et de répit des aidants |
 
-EHPAD, IME, établissements pour enfants et adolescents polyhandicapés, ITEP, MAS, FAM, EAM, SPASAD, SSIAD, SESSAD, SAMSAH |
+EHPAD, IME, établissements pour enfants et adolescents polyhandicapés, ITEP, MAS, FAM, EAM, SSIAD, SAD, SESSAD, SAMSAH |
 
 Dispositifs spécifiques destinés aux enfants et adolescents handicapés |
 
@@ -126,63 +126,63 @@ ESMS concernés |
 
 Nombre de personnes accompagnées d'une orientation de la MDPH (2) |
 
-EHPAD, SSIAD, SPASAD |
+EHPAD, SSIAD, SAD |
 
-Nombre de lits et places en accueil ou hébergement permanent autorisés au 31/12/N-1 |
+Nombre de lits et places en accueil ou hébergement permanent autorisés au 31/12/ N-1 |
 
-Tout ESMS hors CMPP et CAMSP |
+Tout ESMS hors CAMSP |
 
-Nombre de lits et places en accueil ou hébergement permanent installés au 31/12/N-1 |
+Nombre de lits et places en accueil ou hébergement permanent installés au 31/12/ N-1 |
 
-Tout ESMS hors CMPP et CAMSP |
+Tout ESMS hors CAMSP |
 
-Nombre de lits et places en accueil/hébergement temporaire autorisés au 31/12/N-1 |
+Nombre de lits et places en accueil/ hébergement temporaire autorisés au 31/12/ N-1 |
 
-Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, SPASAD, CMPP et CAMSP |
+Tout ESMS hors SSIAD, SESSAD, SAD, SAMSAH, SAVS, CMPP et CAMSP, |
 
-Nombre de lits et places en accueil/hébergement temporaire installés au 31/12/N-1 |
+Nombre de lits et places en accueil/ hébergement temporaire installés au 31/12/ N-1 |
 
-Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, SPASAD, CMPP et CAMSP |
+Tout ESMS hors SSIAD, SESSAD, SAD, SAMSAH, SAVS, CMPP et CAMSP |
 
-Nombre de places en accueil de jour autorisés au 31/12/N-1 |
+Nombre de places en accueil de jour autorisés au 31/12/ N-1 |
 
-Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, SPASAD, CMPP et CAMSP |
+Tout ESMS hors SSIAD, SESSAD, SAD, SAMSAH, SAVS, CMPP et CAMSP |
 
-Nombre de places en accueil de jour installées au 31/12/N-1 |
+Nombre de places en accueil de jour installées au 31/12/ N-1 |
 
-Tout ESMS hors SSIAD, SESSAD, SAMSAH, SAVS, SPASAD, CMPP et CAMSP |
+Tout ESMS hors SSIAD, SESSAD, SAD, SAMSAH, SAVS, CMPP et CAMSP |
 
 Nombre de places habilitées à l'aide sociale départementale à l'hébergement |
 
 EHPAD |
 
-Nombre de séances/actes financés sur l'année |
+Nombre de séances/ actes financés sur l'année |
 
-CMPP/CAMSP |
+CMPP/ CAMSP |
 
 Nombre de jours d'ouverture dans l'année de chacun des différents modes de prise en charge ou d'accueil (en jours calendaires) |
 
 Tout ESMS |
 
-Nombre de jours d'ouverture dans l'année de l'accueil/hébergement temporaire (en jours calendaires) |
+Nombre de jours d'ouverture dans l'année de l'accueil/ hébergement temporaire (en jours calendaires) |
 
-Tout ESMS |
+Tout ESMS sauf SAD |
 
 Nombre de jours d'ouverture dans l'année de l'accueil de jour (en jours calendaires) |
 
-Tout ESMS |
+Tout ESMS sauf SAD |
 
-Modalités d'organisation de l'hébergement temporaire et/ou de l'accueil de jour |
+Modalités d'organisation de l'hébergement temporaire et/ ou de l'accueil de jour |
 
 Etablissements pour adultes handicapés et personnes âgées :
 
-- Maison d'Accueil Spécialisée M.A.S
+-Maison d'Accueil Spécialisée M. A. S
 
-- Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)
+-Foyer d'Accueil Médicalisé pour Adultes Handicapés (F. A. M.)
 
-- Centre rééducation professionnelle
+-Centre rééducation professionnelle
 
-- Etablissement expérimental pour adultes handicapés (EHPAD) |
+-Etablissement expérimental pour adultes handicapés (EHPAD) |
 
 Livret d'accueil : date de la dernière actualisation |
 
@@ -208,15 +208,7 @@ Règlement de fonctionnement : Date de la dernière actualisation |
 
 Tout ESMS |
 
-|
-
-Tout ESMS |
-
 Conseil de la vie sociale ou autre forme de participation : Date de la dernière réunion |
-
-Tout ESMS |
-
-|
 
 Tout ESMS |
 
@@ -248,15 +240,15 @@ Si démarche de certification, sur quelles fonctions ? |
 
 |
 
-- Fonctions administratives et de gestion |
+-Fonctions administratives et de gestion |
 
 Tout ESMS |
 
-- Fonctions d'accompagnement et / ou de Soins |
+-Fonctions d'accompagnement et/ ou de Soins |
 
 Tout ESMS |
 
-- Fonctions logistiques ou support |
+-Fonctions logistiques ou support |
 
 Tout ESMS |
 
@@ -640,15 +632,15 @@ Tout ESMS |
 
 Profil des personnes accompagnées : répartition en fonction des GIR (1 à 6) |
 
-EHPAD/ SSIAD/ SPASAD |
+EHPAD/ SSIAD/ SAD |
 
 Profil des personnes accompagnées : répartition en fonction des types de déficiences |
 
-Tout ESMS sauf EHPAD |
+Tous ESMS sauf EHPAD et SAD |
 
 Durée moyenne de séjour/ d'accompagnement des personnes sorties définitivement au cours de l'année |
 
-Tout ESMS |
+Tout ESMS sauf SAD |
 
 Part des personnes bénéficiant d'une mesure de protection |
 
@@ -660,7 +652,7 @@ EHPAD |
 
 Score moyen dépendance GMP (dernier validé et dernier connu) |
 
-EHPAD/ SSIAD/ SPASAD |
+EHPAD/ SSIAD/ SAD |
 
 Score moyen en soins requis PMP (dernier validé et dernier connu) |
 
@@ -676,11 +668,11 @@ Tout ESMS |
 
 Taux d'hospitalisation complète |
 
-Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, CMPP, CAMSP, SPASAD, SAVS, ESAT) |
+Tout ESMS (hors SSIAD, SESSAD, SAMSAH, CMPP, CAMSP, SAD, SAVS, ESAT) |
 
 Taux de réalisation de l'activité |
 
-Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, SPASAD, SAVS, CAMSP et CMPP) |
+Tout ESMS (hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSPCMPP, SAD) |
 
 Taux de réalisation de l'activité |
 
@@ -688,19 +680,19 @@ CAMSP et CMPP |
 
 Taux d'occupation des lits ou places autorisés (accompagnement permanent) |
 
-Tout ESMS (Hors CAMSP et CMPP) |
+Tout ESMS (hors CAMSP, CMPP, SAD) |
 
 Taux d'occupation des lits ou places autorisés (hébergement temporaire) |
 
-Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, SPASAD, SAVS, CAMSP et CMPP) |
+Tout ESMS (hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP, CMPP, SAD) |
 
 Taux d'occupation des lits ou places autorisés (accueil de jour) |
 
-Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, SPASAD, SAVS, CAMSP et CMPP) |
+Tout ESMS (hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP, CMPP, SAD) |
 
 Nombre moyen de journées d'absence de personnes accompagnées sur la période |
 
-Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, SPASAD, SAVS, CAMSP et CMPP) |
+Tout ESMS (hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP, CMPP, SAD) |
 
 Part des actes/ séance programmées non réalisés |
 
@@ -712,27 +704,63 @@ Tout ESMS |
 
 Taux d'admission sur les lits/ places |
 
-Tout ESMS (Hors CAMSP et CMPP) |
+Tout ESMS hors CAMSP, CMPP, SAD |
 
 Taux d'admission sur lits ou places en accueil ou hébergement temporaire |
 
-Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, SAVS, SPASAD, CMPP et CAMSP |
+Tout ESMS (hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP et CMPP, SAD) |
 
 Taux d'admission sur places, en accueil de jour |
 
-Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, SAVS, SPASAD, CMPP et CAMSP |
+Tout ESMS (hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP, CMPP, SAD) |
 
 Taux de rotation des personnes accompagnées |
 
-Tout ESMS (Hors CAMSP et CMPP) |
+Tout ESMS (hors CAMSP, CMPP et SAD) |
 
 Taux de rotation des personnes accompagnées en hébergement temporaire |
 
-Tout ESMS (Hors SSIAD, SESSAD, SAMSAH, SAVS, SPASAD, CMPP et CAMSP |
+Tout ESMS (hors SSIAD, SESSAD, SAMSAH, SAVS, CAMSP, CMPP, SAD) |
 
 Taux de rotation des personnes accompagnées en accueil de jour |
 
-EHPAD, MAS et FAM/ EAM |
+EHPAD, MAS et FAM |
+
+Taux d'admission |
+
+SAD |
+
+Taux de rotation des personnes accompagnées |
+
+SAD |
+
+Taux de réalisation des plans d'aide |
+
+SAD |
+
+Répartition des heures |
+
+SAD |
+
+Durée moyenne d'intervention à domicile |
+
+SAD |
+
+Part des heures facturées |
+
+SAD |
+
+Part des publics fragiles sur l'ensemble des personnes accompagnées |
+
+SAD |
+
+Part de personnes prises en charge à la fois pour l'aide et le soin |
+
+SAD |
+
+Part d'interventions simultanées Aide à domicile et soins |
+
+SAD |
 
 Axe 2 : Ressources humaines
 
@@ -780,11 +808,15 @@ Taux d'absentéisme par motif |
 
 Tout ESMS |
 
+Nombre d'heures de formation par personnel |
+
+SAD |
+
+Répartition du personnel par diplôme |
+
+SAD |
+
 Axe 3 : Finances et budget
-
-Items |
-
-ESMS concernés |
 
 Taux d'atteinte des prévisions de recettes |
 
@@ -808,7 +840,7 @@ Tout ESMS |
 
 Taux d'endettement |
 
-Tout ESMS |
+Tout ESMS sauf SAD |
 
 Fonds de roulement en jours de charges courantes |
 
@@ -816,7 +848,7 @@ Tout ESMS |
 
 Répartition des dépenses réalisées par groupe |
 
-Tout ESMS |
+Tout ESMS sauf SAD |
 
 Répartition des recettes par section tarifaire |
 
@@ -833,6 +865,18 @@ EHPAD et FAM |
 Structure des dépenses financées par la dotation de soins |
 
 EHPAD |
+
+Heures non facturées par motifs |
+
+SAD |
+
+Poids des transports |
+
+SAD |
+
+Taux d'endettement |
+
+SAD |
 
 Axe 4 : Objectifs : le système d'information et le développement durable
 
