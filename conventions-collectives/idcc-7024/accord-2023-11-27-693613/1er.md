@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent accord s'applique à l'ensemble des employeurs et des salariés non cadres affiliés au régime agricole de protection sociale, des exploitations et entreprises agricoles ayant une activité définie aux articles L. 722-1,1° (à l'exception des centres équestres, des entraîneurs de chevaux de courses, des champs de courses, des entreprises d'accouvage, et des parcs zoologiques), 2° et 4° (à l'exception de la conchyliculture et de l'aquaculture) du code rural et de la pêche maritime, L. 722-2 1 du code rural et de la pêche maritime, aux salariés et aux employeurs des coopératives d'utilisation de matériel agricole (CUMA) de la Côte-d'Or, la Nièvre et l'Yonne.
