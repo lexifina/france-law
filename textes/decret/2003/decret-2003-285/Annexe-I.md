@@ -1,25 +1,35 @@
 # Article Annexe I
 
-Picea excelsa.
-
-Picea pungens.
-
-Picea omorika.
-
-Picea engelmanii.
-
-Abies nordmanniana.
-
-Abies nobilis.
-
-Abies grandis.
-
-Abies fraseri.
-
-Abies balsamea.
+LISTE DES ESSENCES UTILISÉES POUR LA PRODUCTION DE SAPINS DE NOËL
 
 Abies alba.
 
-Pinus sylvestris.
+Abies balsamea.
+
+Abies bornmuelleriana.
+
+Abies concolor.
+
+Abies fraseri.
+
+Abies grandis.
+
+Abies koreana.
+
+Abies lasiocarpa.
+
+Abies nordmanniana.
+
+Abies procera.
+
+Picea abies.
+
+Picea engelmanii.
+
+Picea omorika.
+
+Picea pungens.
 
 Pinus pinaster.
+
+Pinus sylvestris.
