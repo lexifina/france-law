@@ -1,24 +1,14 @@
 # Article Annexe II
 
-EMPLOIS BÉNÉFICIAIRES DE LA NBI DE LA FILIÈRE SIC SZSIC-SGAMI-PRÉFECTURE DE POLICE DE PARIS
+EMPLOIS BÉNÉFICIAIRES DE LA NBI DE LA FILIÈRE SIC-SGAMI-PRÉFECTURE DE POLICE DE PARIS
 
-LIBELLE |
+LIBELLÉ |
 
-CATEGORIE |
+CATÉGORIE |
 
 POINTS |
 
-|
-
-|
-
-|
-
 SGAMI NORD |
-
-|
-
-|
 
 Directeur des Systèmes d'Information et de Communication (DSIC) |
 
@@ -74,23 +64,13 @@ A |
 
 10 |
 
-Adjoint au chef département réseaux fixes (DRF) et chargé maintien en conditions opérationnelles (MCO) |
+Adjoint au chef du département des réseaux mobiles |
 
 A |
 
 10 |
 
-|
-
-|
-
-|
-
 SGAMI EST |
-
-|
-
-|
 
 Adjoint directeur SIC chef du département DSI Dijon |
 
@@ -208,27 +188,17 @@ B |
 
 Chef de STD Besançon |
 
-A/ B |
+A/B |
 
 10 |
 
 Chef de STD Nancy |
 
-A/ B |
+A/B |
 
 10 |
 
-|
-
-|
-
-|
-
 SGAMI OUEST |
-
-|
-
-|
 
 Chef du département des systèmes d'information (Rennes) |
 
@@ -302,7 +272,7 @@ B |
 
 10 |
 
-Adjoint BDSSI-chef de projet SSI et sûreté (Rennes) |
+Adjoint BDSSI - chef de projet SSI et sûreté (Rennes) |
 
 B |
 
@@ -332,7 +302,7 @@ B |
 
 10 |
 
-Technicien réseau-référent atelier (Rouen) |
+Technicien réseau - référent atelier (Rouen) |
 
 B |
 
@@ -340,39 +310,23 @@ B |
 
 Chef de la STD 44 (Nantes) |
 
-A/ B |
+A/B |
 
 10 |
 
 Adjoint au chef de la DRSIC, chef de la section système réseau et intégration de service (Tours) |
 
-A/ B |
+A/B |
 
 10 |
 
 Chef de projet réseau télécoms, référent du pôle technique local (Quimper) |
 
-A/ B |
+A/B |
 
 10 |
 
-Chef du département des systèmes d'information (Rennes) |
-
-A |
-
-20 |
-
-|
-
-|
-
-|
-
 SGAMI SUD-OUEST |
-
-|
-
-|
 
 Adjoint au chef du département réseaux mobiles (DRM) |
 
@@ -384,7 +338,7 @@ Chef du département Systèmes support et développement (DSSD) |
 
 A |
 
-15 |
+20 |
 
 Chef du département réseaux fixes (DRF) |
 
@@ -398,7 +352,7 @@ A |
 
 15 |
 
-Chef de la mission pilotage et logistique (MPIL) |
+Chef de la mission pilotage (MP) |
 
 A |
 
@@ -408,139 +362,95 @@ Chef du département réseaux mobiles (DRM) |
 
 A |
 
-15 |
+20 |
 
 Chef du bureau déploiement et soutien (DRF) |
 
 A |
 
-15 |
+10 |
 
 Adjoint au chef du département DSSD & Chef du bureau applications |
 
-A/ B |
+A |
 
-10 |
+15 |
 
 Chef du centre technique de Bordeaux (DRM) |
 
-B |
-
-10 |
-
-Adjoint au chef du bureau déploiement et soutien (DRF) |
-
-A/ B |
-
-10 |
-
-Chef de STD de PAU (DRM) (section technique déconcentrée) |
-
-B |
+A/B |
 
 10 |
 
 Responsable de la cellule zonale de sécurité des systèmes d'information & gestion de crise |
 
-B |
+A/B |
 
 10 |
 
 Chef du bureau systèmes (DSSD) |
 
-A/ B |
+A |
 
 10 |
 
-|
+Responsable de la cellule sûreté bâtimentaire |
 
-|
+A/B |
 
-|
+10 |
 
 SGAMI SUD-EST |
 
-|
+Directeur des systèmes d'information et de communication (DSIC) du SGAMI Sud-Est (Lyon) |
 
-|
+A |
 
-Chef du bureau des systèmes d'information du SGAMI Sud-Est |
+40 |
+
+Adjoint au directeur des systèmes d'information et de communication (DSIC) du SGAMI Sud-Est (Lyon), directeur technique |
 
 A |
 
 20 |
 
-Chef du bureau téléphonie du SGAMI Sud-Est |
+Adjoint au directeur des systèmes d'information et de communication (DSIC) du SGAMI Sud-Est (Lyon), directeur des opérations |
+
+A |
+
+20 |
+
+Chef du bureau des systèmes d'information du SGAMI sud-est |
 
 A |
 
 15 |
 
-Chef du bureau des réseaux de données du SGAMI Sud-Est |
+Chef du centre d'exploitation et de supervision de l'INPT |
 
 A |
 
 15 |
 
-Chef du bureau des réseaux mobiles du SGAMI Sud-Est |
+Chef du bureau des réseaux de données du SGAMI sud-est |
 
 A |
 
 15 |
 
-Chef de la mission de pilotage des activités transverses du SGAMI Sud-Est |
+Chef du bureau des réseaux mobiles du SGAMI sud-est |
 
 A |
 
 15 |
-
-Chef de l'atelier téléphone au SRTI de Lyon |
-
-B |
-
-10 |
-
-Chef de l'atelier radio au SRTI de Lyon |
-
-B |
-
-10 |
-
-Chef de l'atelier TTD au SRTI de Lyon |
-
-B |
-
-10 |
-
-Chef d'atelier avancé de Saint-Etienne |
-
-B |
-
-10 |
-
-Chef d'atelier avancé de Clermont-Ferrand |
-
-B |
-
-10 |
-
-Chef de STD Grenoble |
-
-A/ B |
-
-10 |
-
-|
-
-|
-
-|
 
 SGAMI SUD |
 
-|
+Directeur des SIC SGAMI SUD-Marseille |
 
-|
+A |
+
+30 |
 
 Chef du CNIS (Toulouse) |
 
@@ -602,24 +512,6 @@ A |
 
 10 |
 
-Chef du pôle maintien en condition opérationnelle Marseille |
-
-B |
-
-10 |
-
-Chef du pôle BRM Toulouse |
-
-B |
-
-10 |
-
-Chef du pôle supervision et hébergement Marseille |
-
-A |
-
-10 |
-
 Chef du pôle support applicatif Marseille |
 
 A |
@@ -646,21 +538,11 @@ A |
 
 Chef du pôle infrastructures serveurs Marseille |
 
-A/ B |
+A/B |
 
 10 |
 
-|
-
-|
-
-|
-
-Préfecture de police |
-
-|
-
-|
+PRÉFECTURE DE POLICE |
 
 Chef du service des infrastructures opérationnelles |
 
@@ -718,4 +600,4 @@ B |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 22 décembre 2023 (NOR : IOMA2229990A), ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l'article 2 de l'arrêté du 27 mai 2024 (NOR : IOMA2414212A), ces dispositions entrent en vigueur le 1er juin 2024.
