@@ -1,0 +1,309 @@
+# Article 1er
+
+La liste des certifications figurant à l'article 4 de l'accord relatif à la reconversion ou la promotion par l'alternance (Pro-A) du 2 octobre 2019, telle que modifiée par avenant n° 1 et 2 à cet accord, est remplacée par la liste suivante à date d'extension du présent avenant :
+
+Métiers |
+
+Fiche RNCP |
+
+Titre de la certification |
+
+Vente en magasin |
+
+34947 |
+
+CAP équipier polyvalent du commerce |
+
+32208 |
+
+Bac pro métiers du commerce et de la vente option à animation et gestion de l'espace commercial |
+
+37098 |
+
+TP – Conseiller de vente |
+
+35233 |
+
+Titre professionnel assistant manager d'unité marchande |
+
+35354 |
+
+BUT – Techniques de commercialisation : marketing digital, e-business |
+
+35355 |
+
+BUT – Techniques de commercialisation : business international, achat et vente |
+
+38362 |
+
+BTS management commercial opérationnel |
+
+38368 |
+
+BTS négociation et digitalisation de la relation client |
+
+35801 |
+
+BTS – Conseil et commercialisation de solutions techniques |
+
+32291 |
+
+Titre professionnel manager d'unité marchande |
+
+35663 |
+
+Titre gestionnaire administration des ventes |
+
+36803 |
+
+Titre professionnel employé administratif et d'accueil |
+
+32049 |
+
+Bac pro métiers de l'accueil |
+
+30060 |
+
+Licence pro e-commerce et marketing numérique |
+
+36141 |
+
+Titre gestionnaire d'unité commerciale |
+
+36534 |
+
+Titre responsable de distribution omnicanale |
+
+34138 |
+
+TP – Technicien d'après-vente en électroménager et audiovisuel à domicile |
+
+Management/ responsable de magasin |
+
+29740 |
+
+Licence pro commerce et distribution |
+
+30086 |
+
+Licence pro management et gestion des organisations |
+
+38123 |
+
+Responsable du développement commercial |
+
+36609 |
+
+Responsable marketing et communication |
+
+37075 |
+
+Chargé du développement commercial |
+
+34558 |
+
+Titre manager de rayon |
+
+34809 |
+
+Titre charge de clientèle |
+
+36142 |
+
+Manager stratégique et opérationnel d'activité |
+
+35585 |
+
+Manager opérationnel d'activités |
+
+35208 |
+
+Manager commercial et marketing |
+
+Vente technique |
+
+37051 |
+
+Vendeur agenceur de cuisine, salle de bains et rangement |
+
+36259 |
+
+Titre solier moquettiste |
+
+34700 |
+
+Solier (ière) |
+
+Logistique |
+
+37894 |
+
+CAP conducteur routier de marchandises |
+
+38302 |
+
+Bac pro logistique |
+
+37672 |
+
+CAP – Opérateur logistique |
+
+1852 |
+
+Titre professionnel agent magasinier |
+
+29992 |
+
+Licence pro management des processus logistiques |
+
+34198 |
+
+Titre responsable en logistique |
+
+37080 |
+
+Titre responsable logistique |
+
+35869 |
+
+Titre responsable opérationnel de la chaîne logistique |
+
+29989 |
+
+Licence pro logistique et systèmes d'information |
+
+29988 |
+
+Licence pro logistique et pilotage des flux |
+
+35896 |
+
+Titre responsable des opérations logistiques |
+
+35390 |
+
+BUT – Management de la logistique et des transports : mobilité et supply chain connectées |
+
+35391 |
+
+BUT – Management de la logistique et des transports : mobilité et supply chain durables |
+
+37277 |
+
+TP – Technicien supérieur en méthodes et exploitation logistique |
+
+36237 |
+
+TP – Technicien en logistique d'entreposage |
+
+35400 |
+
+BTS – Gestion des transports et logistique associée |
+
+35106 |
+
+Responsable d'affaires commerciales et du développement à l'international |
+
+36486 |
+
+Manager supply chain-performance achat & responsabilité sociétale |
+
+36240 |
+
+TP – Technicien supérieur en gestion de production |
+
+Numérique (Ux Designer/ DATA) |
+
+29971 |
+
+Licence pro métiers du numérique : conception rédaction et réalisation web (fiche nationale) |
+
+37409 |
+
+Titre concepteur designer graphique |
+
+29969 |
+
+Licence pro métiers du décisionnel et de la statistique (fiche nationale) |
+
+Merchandising |
+
+37082 |
+
+Visuel merchandiser retail |
+
+37798 |
+
+Responsable visuel merchandiser |
+
+Technique |
+
+32235 |
+
+BP peintre applicateur de revêtements |
+
+35196 |
+
+CAP peintre applicateur de revêtements |
+
+35505 |
+
+TP peintre applicateur de revêtements |
+
+36257 |
+
+TP peintre en bâtiment |
+
+36598 |
+
+BM peintre en bâtiment |
+
+36084 |
+
+TP peintre en finitions |
+
+31216 |
+
+BP carreleur mosaïste |
+
+35509 |
+
+TP carreleur chapiste |
+
+35380 |
+
+CAP carreleur mosaïste |
+
+37120 |
+
+TP – Menuisier installateur |
+
+35974 |
+
+CAP menuisier installateur |
+
+E-Commerce
+
+Chef de projet e-commerce |
+
+36743 |
+
+Chef de projet e-commerce |
+
+36865 |
+
+Vendeur conseil omnicanal |
+
+Restauration |
+
+37105 |
+
+MC5 – Vendeur-conseil en alimentation |
+
+30055 |
+
+Licence professionnelle – Commercialisation des produits alimentaires |
+
+(1) Certifications éligibles sous réserve qu'elles soient actives au répertoire national des certifications professionnelles en application de l'article L. 6324-3 du code du travail.
+
+(Arrêté du 17 mai 2024 - art. 1)
