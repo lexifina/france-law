@@ -1,6 +1,6 @@
 # Article 46 quater-0 ZZ bis F
 
-La demande de prolongation du délai de quatre ans mentionnée au III de l'article 210 F du code général des impôts est formulée au plus tard trois mois avant l'expiration de ce délai initial.
+La demande de prolongation du délai de quatre ans ou du délai de six ans mentionnée au III de l'article 210 F du code général des impôts est formulée au plus tard trois mois avant l'expiration du délai initial.
 
 Elle précise la consistance des travaux prévus dans l'engagement de transformation ou de construction et les motifs pour lesquels ces travaux ne seront pas achevés dans le délai initial.
 
