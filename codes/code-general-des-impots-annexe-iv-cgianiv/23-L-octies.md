@@ -30,7 +30,7 @@ a bis) le nom commercial de l'utilisateur ou le nom d'utilisateur tel que commun
 
 b) Le lieu d'établissement connu de l'opérateur à la date de transmission du document ;
 
-c) Le numéro de taxe sur la valeur ajoutée intracommunautaire ou, si elle en est dépourvue, ses numéros d'identité définis à l' article R. 123-221 du code de commerce ou, pour une entreprise non résidente, son numéro d'immatriculation auprès de l'administration fiscale de son pays de résidence ;
+c) Le numéro de taxe sur la valeur ajoutée intracommunautaire ou, si elle en est dépourvue, ses numéros d'identification définis à l' article R. 123-221 du code de commerce ou, pour une entreprise non résidente, son numéro d'immatriculation auprès de l'administration fiscale de son pays de résidence ;
 
 d) L'adresse électronique ;
 
@@ -38,4 +38,4 @@ e) l'adresse de localisation de la ressource internet de l'utilisateur professio
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 30 décembre 2019, ces dispositions s'appliquent aux transactions réalisées à compter du 1er janvier 2020.
+Modifications effectuées en conséquence de l'article 3-3° et 45 du décret n° 2022-1014 du 19 juillet 2022.

@@ -6,4 +6,8 @@ Les éléments d'identification de l'opérateur de plateforme prévus au a du 2�
 
 2° Son lieu d'établissement au 1er janvier de l'année de la transmission du document mentionné ;
 
-3° Son numéro d'identité mentionné au premier alinéa de l'article R. 123-221 du code de commerce.
+3° Son numéro d'identification mentionné au premier alinéa de l'article R. 123-221 du code de commerce.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 3-3° et 45 du décret n° 2022-1014 du 19 juillet 2022.
