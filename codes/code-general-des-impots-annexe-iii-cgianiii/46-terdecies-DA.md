@@ -2,7 +2,7 @@
 
 I. – La notification de l'option des sociétés anonymes, sociétés par actions simplifiées ou sociétés à responsabilité limitée pour le régime fiscal des sociétés de personnes en application des dispositions de l'article 239 bis AB du code général des impôts s'effectue selon le modèle établi par l'administration.
 
-La notification comporte la date d'effet de l'option, l'indication de la dénomination sociale, de l'adresse du siège et, si elle est différente, du principal établissement de la société qui opte ainsi que le numéro d'identité qui lui a été attribué dans les conditions du premier alinéa de l'article R. 123-221 du code de commerce.
+La notification comporte la date d'effet de l'option, l'indication de la dénomination sociale, de l'adresse du siège et, si elle est différente, du principal établissement de la société qui opte ainsi que le numéro d'identification qui lui a été attribué dans les conditions du premier alinéa de l'article R. 123-221 du code de commerce.
 
 Elle est accompagnée de la liste des associés à la date d'ouverture du premier exercice auquel l'option s'applique, avec la mention de leurs nom, prénoms, dénomination sociale et adresse et, le cas échéant, des fonctions exercées par ces associés dans la société.
 
@@ -23,3 +23,7 @@ II. – Les sociétés qui ont opté pour le régime prévu à l'article 239 bis
 6° La quote-part du capital et des droits de vote déterminée selon les modalités mentionnées au deuxième alinéa du I de l'article 239 bis AB du code général des impôts, détenue au cours de l'exercice par chacun des associés mentionnés aux 4° et 5°.
 
 III. – La renonciation au régime fiscal des sociétés de personnes s'effectue sur papier libre. Elle comporte l'indication de la dénomination sociale de la société, du lieu du siège et, s'il est différent, du principal établissement de la société, ainsi que l'indication de l'exercice auquel elle s'applique.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 3-3° et 45 du décret n° 2022-1014 du 19 juillet 2022.

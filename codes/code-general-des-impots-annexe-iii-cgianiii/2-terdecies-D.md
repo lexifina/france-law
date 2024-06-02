@@ -2,7 +2,7 @@
 
 I. – Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2022, à 17,62 € en zone A bis, 13,09 € dans le reste de la zone A, 10,55 € en zone B 1 et 9,17 € en zone B 2 et en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2024, à 18,89 € en zone A bis, 14,03 € dans le reste de la zone A, 11,31 € en zone B 1 et 9,83 € en zone B 2 et en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la formule suivante :
 
@@ -14,115 +14,91 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants :
 
-a) Pour les baux conclus en 2022, les plafonds annuels de ressources des locataires sont les suivants :
+a) Pour les baux conclus en 2024, les plafonds annuels de ressources des locataires sont les suivants :
 
 COMPOSITION DU FOYER LOCATAIRE |
 
 LIEU DE SITUATION DU LOGEMENT |
 
-Zone A bis
+Zone A bis (en €) |
 
-(en €) |
-
-Reste de la zone A
-
-(en €) |
+Reste de la zone A (en €) |
 
 Zone B 1
 
 (en €) |
 
-Zone B 2
-
-(en €) |
-
-Zone C
-
-(en €) |
+Zones B 2 et C (en €) |
 
 Personne seule |
 
-39 363 |
+43 475 |
 
-39 363 |
+43 475 |
 
-32 084 |
+35 435 |
 
-28 876 |
-
-28 876 |
+31 892 |
 
 Couple |
 
-58 831 |
+64 976 |
 
-58 831 |
+64 976 |
 
-42 846 |
+47 321 |
 
-38 560 |
-
-38 560 |
+42 588 |
 
 Personne seule ou couple ayant une personne à charge |
 
-77 120 |
+85 175 |
 
-70 718 |
+78 104 |
 
-51 524 |
+56 905 |
 
-46 372 |
-
-46 372 |
+51 215 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-92 076 |
+101 693 |
 
-84 708 |
+93 556 |
 
-62 202 |
+68 699 |
 
-55 982 |
-
-55 982 |
+61 830 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-109 552 |
+120 995 |
 
-100 279 |
+110 753 |
 
-73 173 |
+80 816 |
 
-65 856 |
-
-65 856 |
+72 735 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-123 275 |
+136 151 |
 
-112 844 |
+124 630 |
 
-82 465 |
+91 078 |
 
-74 219 |
-
-74 219 |
+81 971 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 13 734 |
++ 15 168 |
 
-+ 12 573 |
++ 13 886 |
 
-+ 9 200 |
++ 10 161 |
 
-+ 8 277 |
-
-+ 8 277 |
++ 9 142 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2 duodecies ;
 

@@ -32,7 +32,7 @@ Les souscripteurs de parts ou actions des sociétés mentionnées aux f et g doi
 
 4. Lorsque le montant des investissements mentionnés aux b, c, d, f et g du 2 est supérieur à deux millions d'euros, le bénéfice de la réduction d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le ministre chargé du budget dans les conditions prévues au III de l'article 217 undecies.
 
-5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la période définie au 1 sont prises en compte, pour les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 2 727 € hors taxes par mètre carré de surface habitable. Cette limite est relevée chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre trimestres de l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique et des études économiques. La moyenne mentionnée ci-dessus est celle des quatre derniers indices connus au 1er novembre qui précède la date de référence.
+5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la période définie au 1 sont prises en compte, pour les investissements mentionnés aux a, b, c, d, et e du 2, dans la limite de 3 139 € hors taxes par mètre carré de surface habitable. Cette limite est relevée chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre trimestres de l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique et des études économiques. La moyenne mentionnée ci-dessus est celle des quatre derniers indices connus au 1er novembre qui précède la date de référence.
 
 6. La réduction d'impôt est effectuée, pour les investissements mentionnés au a du 2, pour le calcul de l'impôt dû au titre de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, et des neuf années suivantes. Pour les investissements visés aux b, c, d, f et g du 2, elle est effectuée pour le calcul de l'impôt dû au titre de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, ou de la souscription des parts ou actions, et des quatre années suivantes. Pour les investissements visés au e du même 2, elle est effectuée pour le calcul dû au titre de l'année d'achèvement des travaux et des quatre années suivantes. Chaque année, la base de la réduction est égale, pour les investissements mentionnés au a du 2, à 10 % des sommes effectivement payées au 31 décembre de l'année au cours de laquelle le droit à réduction d'impôt est né et, pour les investissements visés aux b, c, d, e, f et g du 2, à 20 % des sommes effectivement payées au 31 décembre de l'année au cours de laquelle le droit à réduction d'impôt est né.
 
@@ -60,11 +60,11 @@ Toutefois, la réduction d'impôt s'applique également :
 
 Pour l'application du présent 6 bis, sont considérés comme engagés :
 
--les investissements mentionnés au b du 2 au titre de logements que le contribuable fait construire ou acquiert neufs ou en l'état futur d'achèvement, dont les permis de construire ont été délivrés ;
+- les investissements mentionnés au b du 2 au titre de logements que le contribuable fait construire ou acquiert neufs ou en l'état futur d'achèvement, dont les permis de construire ont été délivrés ;
 
--les investissements mentionnés au c du 2 correspondant à des souscriptions de parts ou d'actions de sociétés dont l'objet réel est exclusivement de construire des logements neufs dont les permis de construire ont été délivrés ;
+- les investissements mentionnés au c du 2 correspondant à des souscriptions de parts ou d'actions de sociétés dont l'objet réel est exclusivement de construire des logements neufs dont les permis de construire ont été délivrés ;
 
--les investissements mentionnés au d du 2 correspondant à des souscriptions dont le produit est affecté à l'acquisition de logements neufs dont les permis de construire ont été délivrés.
+- les investissements mentionnés au d du 2 correspondant à des souscriptions dont le produit est affecté à l'acquisition de logements neufs dont les permis de construire ont été délivrés.
 
 La réduction d'impôt acquise au titre des investissements mentionnés au présent 6 bis est reprise lorsque les logements acquis ou construits ne sont pas loués au plus tard le dernier jour du trente-sixième mois suivant celui de la délivrance du permis de construire. Le cas échéant, cette date est repoussée d'un délai égal à celui durant lequel les travaux sont interrompus par l'effet de la force majeure ou durant lequel la légalité du permis de construire est contestée par la voie contentieuse.
 
@@ -80,4 +80,4 @@ La location d'un logement neuf consentie dans les conditions fixées par décret
 
 NOTA :
 
-Conformément au II de l’article 13 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2024.
+Modifications effectuées en conséquence de l'article 58-I-1 de la loi n° 2004-1485 du 30 décembre 2004.

@@ -10,9 +10,9 @@ c) Aux nœuds de raccordement optique des réseaux de communications électroniq
 
 II. – L'imposition forfaitaire est due chaque année par le propriétaire de l'équipement mentionné aux a, b ou c du I au 1er janvier de l'année d'imposition.
 
-III.-Le montant de l'imposition est établi de la manière suivante :
+III. - Le montant de l'imposition est établi de la manière suivante :
 
-Pour chacun des équipements mentionnés aux a, b et c du I, le montant de l'imposition est fonction du nombre de lignes de la partie terminale du réseau qu'il raccorde et qui sont en service au 1er janvier de l'année d'imposition. Le tarif de l'imposition est fixé à 19,04 € par ligne en service.
+Pour chacun des équipements mentionnés aux a, b et c du I, le montant de l'imposition est fonction du nombre de lignes de la partie terminale du réseau qu'il raccorde et qui sont en service au 1er janvier de l'année d'imposition. Le tarif de l'imposition est fixé à 21,19 € par ligne en service.
 
 III bis.-1. Une ligne raccordée par un équipement mentionné aux a, b ou c du I n'est pas prise en compte dans le calcul du montant de l'imposition de l'équipement pendant les cinq années suivant celle de la première installation jusqu'à l'utilisateur final.
 

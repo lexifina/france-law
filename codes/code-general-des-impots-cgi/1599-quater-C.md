@@ -22,7 +22,7 @@ V. – 1. – Un tarif au mètre carré est appliqué par circonscription, défi
 
 3° Troisième circonscription : les autres communes de la région d'Ile-de-France.
 
-2. – Les tarifs au mètre carré sont fixés, pour l'année 2023, en application du tableau ci-dessous :
+2. – Les tarifs au mètre carré sont fixés, pour l'année 2024, en application du tableau ci-dessous :
 
 1re CIRCONSCRIPTION |
 
@@ -30,9 +30,9 @@ V. – 1. – Un tarif au mètre carré est appliqué par circonscription, défi
 
 3e CIRCONSCRIPTION |
 
-4,77 € |
+4,89 € |
 
-2,76 € |
+2,83 € |
 
 1,40 € |
 
@@ -49,3 +49,7 @@ VII. – Les redevables déposent une déclaration selon les modalités prévues
 VIII. – Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à la taxe sont régis par les règles applicables en matière de taxe sur les salaires jusqu'au 31 décembre 2003.
 
 IX.-Le produit annuel de la taxe est affectée à la région d'Ile-de-France, retracée dans la section d'investissement de son budget, en vue de financer les dépenses d'investissement en faveur des transports en commun, dans la limite du montant prévu à l'article L. 4414-5 du code général des collectivités territoriales. Le solde de ce produit est affecté à l'établissement public Société des grands projets mentionné à l'article 7 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris, dans la limite d'un plafond annuel.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 165-I-B et II de la loi n° 2018-1317 du 28 décembre 2018.

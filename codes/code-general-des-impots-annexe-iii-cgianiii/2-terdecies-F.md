@@ -2,63 +2,73 @@
 
 I. – Les plafonds de loyer et de ressources du locataire mentionnés au 2° du XII de l'article 199 novovicies du code général des impôts sont fixés comme suit :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2022, fixés à 10,74 € en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon, et à 12,87 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2024, fixés à 11,65 € en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon, et à 14,18 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application du coefficient multiplicateur défini au 1 du I de l'article 2 terdecies D.
 
 Pour l'application du présent 1, la surface à prendre en compte s'entend de celle prévue au III de l'article 46 AG terdecies.
 
-2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2022, les suivants :
+2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2024, les suivants :
 
-Composition du foyer locataire |
+COMPOSITION DU FOYER LOCATAIRE |
 
-Lieu de situation du logement |
+LIEU DE SITUATION DU LOGEMENT |
 
-Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Martin ou Saint-Pierre-et-Miquelon (en €) |
+Guadeloupe, Guyane,
 
-Nouvelle-Calédonie, Polynésie française, îles Wallis et Futuna (en €) |
+Martinique, La Réunion, Mayotte, Saint-Martin
+
+ou Saint-Pierre-et-Miquelon (en €) |
+
+Nouvelle-Calédonie,
+
+Polynésie française,
+
+îles Wallis-et-Futuna
+
+(en €) |
 
 Personne seule |
 
-29 079 |
+31 589 |
 
-31 199 |
+34 369 |
 
 Couple |
 
-38 834 |
+42 186 |
 
-41 662 |
+45 896 |
 
 Personne seule ou couple ayant une personne à charge |
 
-46 700 |
+50 731 |
 
-50 101 |
+55 192 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-56 377 |
+61 243 |
 
-60 484 |
+66 630 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-66 320 |
+72 044 |
 
-71 151 |
+78 380 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-74 742 |
+81 192 |
 
-80 185 |
+88 333 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 8 342 |
++ 9 063 |
 
-+ 8 949 |
++ 9 859 |
 
 Pour l'application du présent 2, les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location et les personnes à charge s'entendent des personnes mentionnées aux articles 196 à 196 B du même code.
 

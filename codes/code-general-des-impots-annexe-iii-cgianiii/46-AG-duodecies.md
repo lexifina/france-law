@@ -2,11 +2,11 @@
 
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-1. Pour les baux conclus en 2022, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
+1. Pour les baux conclus en 2024, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 184 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des cinq départements d'outre-mer ;
+1° 200 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des cinq départements d'outre-mer ;
 
-2° 220 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
+2° 243 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
 1 bis. Pour le calcul des plafonds mentionnés au 1, il est fait application :
 
@@ -18,57 +18,63 @@ Pour l'application du 2° du 6 de l'article 199 undecies A du code général des
 
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2022, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2024, les plafonds annuels de ressources sont les suivants :
 
 Composition du foyer du locataire |
 
 Plafond annuel de ressources (en €) |
 
-Départements d'outre-mer, Saint-Barthélemy et Saint-Martin |
+Départements
+
+d'outre-mer,
+
+Saint-Barthélemy
+
+et Saint-Martin |
 
 Polynésie française, Nouvelle Calédonie, îles Wallis et Futuna, Terres australes et antarctiques françaises et Saint-Pierre-et-Miquelon |
 
-Personne seule
+Personne seule |
 
-Couple
+36 559 |
 
-Personne seule ou couple ayant une personne à charge
+34 545 |
 
-Personne seule ou couple ayant deux personnes à charge
+Couple |
 
-Personne seule ou couple ayant trois personnes à charge
+67 605 |
 
-Personne seule ou couple ayant quatre personnes à charge
+63 885 |
+
+Personne seule ou couple ayant une personne à charge |
+
+71 515 |
+
+67 577 |
+
+Personne seule ou couple ayant deux personnes à charge |
+
+75 427 |
+
+71 274 |
+
+Personne seule ou couple ayant trois personnes à charge |
+
+80 650 |
+
+76 208 |
+
+Personne seule ou couple ayant quatre personnes à charge |
+
+85 876 |
+
+81 146 |
 
 Majoration par personne à charge à partir de la cinquième |
 
-33 654
++ 5 492 |
 
-62 234
-
-65 833
-
-69 435
-
-74 242
-
-79 053
-
-+ 5 055 |
-
-31 358
-
-57 992
-
-61 344
-
-64 700
-
-69 179
-
-73 661
-
-+ 4 710 |
++ 5 190 |
 
 Ces plafonds sont relevés chaque année selon les modalités définies au 1.
 

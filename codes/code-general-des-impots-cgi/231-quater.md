@@ -1,12 +1,12 @@
 # Article 231 quater
 
-I.-Une taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement est perçue dans les limites territoriales des départements des Bouches-du-Rhône, du Var et des Alpes-Maritimes.
+I. - Une taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement est perçue dans les limites territoriales des départements des Bouches-du-Rhône, du Var et des Alpes-Maritimes.
 
-II.-Sont soumises à la taxe les personnes privées ou publiques qui sont propriétaires de locaux imposables ou titulaires d'un droit réel portant sur de tels locaux.
+II. - Sont soumises à la taxe les personnes privées ou publiques qui sont propriétaires de locaux imposables ou titulaires d'un droit réel portant sur de tels locaux.
 
 La taxe est acquittée par le propriétaire, l'usufruitier, le preneur à bail à construction, l'emphytéote ou le titulaire d'une autorisation d'occupation temporaire du domaine public constitutive d'un droit réel qui dispose, au 1er janvier de l'année d'imposition, d'un local taxable.
 
-III.-La taxe est due :
+III. - La taxe est due :
 
 1° Pour les locaux à usage de bureaux, qui s'entendent, d'une part, des bureaux proprement dits et de leurs dépendances immédiates et indispensables destinés à l'exercice d'une activité, de quelque nature que ce soit, par des personnes physiques ou morales privées ou utilisés par l'Etat, les collectivités territoriales, les établissements ou organismes publics et les organismes professionnels et, d'autre part, des locaux professionnels destinés à l'exercice d'activités libérales ou utilisés par des associations ou des organismes privés poursuivant ou non un but lucratif ;
 
@@ -16,11 +16,11 @@ III.-La taxe est due :
 
 4° Pour les surfaces de stationnement, qui s'entendent des locaux ou aires, couvertes ou non couvertes, destinés au stationnement des véhicules et qui font l'objet d'une exploitation commerciale ou sont annexés aux locaux mentionnés aux 1° à 3° du présent III sans être intégrés topographiquement à un établissement de production.
 
-IV.-Pour l'appréciation du caractère immédiat, attenant et annexé des locaux mentionnés au III et pour le calcul des surfaces mentionnées au 5° du V et au VI, il est tenu compte de tous les locaux de même nature, hors parties communes, qu'une personne privée ou publique possède à une même adresse ou, en cas de pluralité d'adresses, dans un même groupement topographique.
+IV. - Pour l'appréciation du caractère immédiat, attenant et annexé des locaux mentionnés au III et pour le calcul des surfaces mentionnées au 5° du V et au VI, il est tenu compte de tous les locaux de même nature, hors parties communes, qu'une personne privée ou publique possède à une même adresse ou, en cas de pluralité d'adresses, dans un même groupement topographique.
 
 Pour l'appréciation du caractère annexé des surfaces de stationnement mentionnées au 4° du III, il est également tenu compte des surfaces qui, bien que non intégrées à un groupement topographique comprenant des locaux taxables, sont mises à la disposition, gratuitement ou non, des utilisateurs de locaux taxables situés à proximité immédiate.
 
-V.-Sont exonérés de la taxe :
+V. - Sont exonérés de la taxe :
 
 1° Les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement situés dans une zone franche urbaine-territoire entrepreneur définie au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, de même que ceux situés dans une zone de revitalisation des centres-villes définie au II de l'article 1464 F du présent code, dans une zone de revitalisation des commerces en milieu rural définie au III de l'article 1464 G ou dans un quartier prioritaire de la politique de la ville défini à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine ;
 
@@ -38,36 +38,32 @@ V.-Sont exonérés de la taxe :
 
 8° Les emplacements attenant à un local commercial mentionné au 2° du même III aménagés pour l'exercice d'activités sportives.
 
-VI.-Les tarifs sont applicables dans les conditions suivantes :
+VI. - Les tarifs sont applicables dans les conditions suivantes :
 
 1° Des tarifs au mètre carré sont appliqués sur le périmètre de l'ensemble des communes situées dans les limites territoriales définies au I ;
 
 2° Les tarifs au mètre carré sont fixés conformément aux dispositions suivantes :
 
-a) Pour les locaux à usage de bureaux : 0,94 € ;
+a) Pour les locaux à usage de bureaux : 0,97 € ;
 
-b) Pour les locaux commerciaux : 0,39 € ;
+b) Pour les locaux commerciaux : 0,40 € ;
 
-c) Pour les locaux de stockage : 0,20 € ;
+c) Pour les locaux de stockage : 0,21 € ;
 
-d) Pour les surfaces de stationnement : 0,13 €.
+d) Pour les surfaces de stationnement : 0,14 €.
 
 Ces tarifs sont actualisés au 1er janvier de chaque année en fonction de la prévision de l'indice des prix à la consommation, hors tabac, retenue dans la loi de finances de l'année. La valeur résultant de cette revalorisation est arrondie, s'il y a lieu, au centime d'euro supérieur.
 
-VII.-Pour l'application des V et VI, les parcs d'exposition et locaux à usage principal de congrès sont assimilés à des locaux de stockage.
+VII. - Pour l'application des V et VI, les parcs d'exposition et locaux à usage principal de congrès sont assimilés à des locaux de stockage.
 
-VIII.-Les redevables sont tenus de déposer une déclaration accompagnée du paiement de la taxe, avant le 1er mars de chaque année, auprès du comptable public compétent du lieu de situation des locaux imposables.
+VIII. - Les redevables sont tenus de déposer une déclaration accompagnée du paiement de la taxe, avant le 1er mars de chaque année, auprès du comptable public compétent du lieu de situation des locaux imposables.
 
 Les modalités de dépôt de la déclaration de la taxe sont fixées par arrêté du ministre chargé du budget.
 
-IX.-La taxe est acquittée lors du dépôt de la déclaration. Elle est recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces taxes.
+IX. - La taxe est acquittée lors du dépôt de la déclaration. Elle est recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces taxes.
 
-X.-Le produit annuel de la taxe est affecté à l'établissement public local “ Société de la Ligne Nouvelle Provence Côte d'Azur ” créé à l'article 1er de l'ordonnance n° 2022-306 du 2 mars 2022 relative à la Société de la Ligne Nouvelle Provence Côte d'Azur et pour le financement de la mission définie au premier alinéa du II du même article 1er.
+X. - Le produit annuel de la taxe est affecté à l'établissement public local “ Société de la Ligne Nouvelle Provence Côte d'Azur ” créé à l'article 1er de l'ordonnance n° 2022-306 du 2 mars 2022 relative à la Société de la Ligne Nouvelle Provence Côte d'Azur et pour le financement de la mission définie au premier alinéa du II du même article 1er.
 
 NOTA :
 
-Conformément au II de l’article 75 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s’appliquent à compter des impositions établies au titre de l'année 2023.
-
-Conformément au III de l’article 75 de la loi n° 2022-1726 du 30 décembre 2022, par dérogation au VIII du présent article, pour les impositions dues au titre de 2023, la déclaration, accompagnée du paiement de la taxe, est déposée avant le 1er juillet 2023.
-
-Conformément au IV de l’article 75 de la loi n° 2022-1726 du 30 décembre 2022, le dernier alinéa du VI du présent article ne s'applique pas aux impositions établies au titre de l'année 2023.
+Modifications effectuées en conséquence de l'article 165-I A 5° et II de la loi n° 2018-1317 du 28 décembre 2018.

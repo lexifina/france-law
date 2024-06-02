@@ -2,7 +2,7 @@
 
 L'assiette de la taxe d'aménagement est constituée par :
 
-1° Le produit de la surface de la construction par la valeur par mètre carré de cette surface, fixée forfaitairement à 885 € pour les communes situées hors de la région d'Ile-de-France et à 1 003 € pour les communes situées dans la région d'Ile-de-France.
+1° Le produit de la surface de la construction par la valeur par mètre carré de cette surface, fixée forfaitairement à 914 € pour les communes situées hors de la région d'Ile-de-France et à 1 036 € pour les communes situées dans la région d'Ile-de-France.
 
 La surface de la construction s'entend de la somme des surfaces de plancher de chaque niveau clos et couvert, calculées à partir du nu intérieur des façades du bâtiment dans des conditions définies par décret.
 

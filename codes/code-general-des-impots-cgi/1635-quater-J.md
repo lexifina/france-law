@@ -6,7 +6,7 @@ La valeur forfaitaire des installations et aménagements est fixée comme suit :
 
 2° Pour les emplacements des habitations légères de loisirs, 10 000 € par emplacement ;
 
-3° Pour les piscines, 250 € par mètre carré ;
+3° Pour les piscines, 258 € par mètre carré ;
 
 4° Pour les éoliennes d'une hauteur supérieure à 12 mètres, 3 000 € par éolienne ;
 
@@ -18,8 +18,4 @@ Le montant prévu au 3° du présent article est actualisé le 1er janvier de ch
 
 NOTA :
 
-Conformément au B du III de l’article 17 du décret n° 2022-1499 du 1er décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2024.
-
-Conformément au VII, E de l’article 65 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2024 et s'appliquent aux opérations pour lesquelles le fait générateur de la taxe d'aménagement intervient à compter de cette date.
-
-Se reporter aux conditions d'application prévues au VI, 2° de l’article 65 de la loi n° 2022-1726 du 30 décembre 2022.
+Modifications effectuées en conséquence de l'article 17-I-2 de la loi n° 2022-1499 du 1er décembre 2022.

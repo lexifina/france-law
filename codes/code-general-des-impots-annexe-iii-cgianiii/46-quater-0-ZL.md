@@ -8,7 +8,7 @@ La déclaration du résultat d'ensemble visée à l'article 223 Q du code géné
 
 a) La nature du bien ;
 
-b) L'identité de son propriétaire (dénomination, adresse, le cas échéant numéro d'identité tel que défini au premier alinéa de l'article R. 123-221 du code de commerce) à la clôture de l'exercice ;
+b) L'identité de son propriétaire (dénomination, adresse, le cas échéant numéro d'identification tel que défini au premier alinéa de l'article R. 123-221 du code de commerce) à la clôture de l'exercice ;
 
 c) Le cas échéant, l'identité de ses propriétaires successifs au cours de l'exercice ;
 
@@ -52,4 +52,4 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 NOTA :
 
-En conséquence du décret n° 2022-782 du 4 mai 2022, art. 3, cet article devient sans objet.
+Modifications effectuées en conséquence de l'article 3-3° et 45 du décret n° 2022-1014 du 19 juillet 2022.

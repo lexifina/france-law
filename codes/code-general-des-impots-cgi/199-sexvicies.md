@@ -8,7 +8,7 @@ I. – Les contribuables domiciliés en France au sens de l'article 4 B peuvent 
 
 3° (abrogé) ; (1)
 
-4° Un établissement délivrant des soins de longue durée, mentionné à l'avant-dernier alinéa de l'article L. 6143-5 du code de la santé publique, et comportant un hébergement, à des personnes n'ayant pas leur autonomie de vie dont l'état nécessite une surveillance médicale constante et des traitements d'entretien.
+4° Un établissement délivrant des soins de longue durée, mentionné à l'avant-dernier alinéa du I de l'article L. 6143-5 du code de la santé publique, et comportant un hébergement, à des personnes n'ayant pas leur autonomie de vie dont l'état nécessite une surveillance médicale constante et des traitements d'entretien.
 
 II. – La réduction d'impôt est calculée sur le prix de revient des logements retenu pour sa fraction inférieure à 300 000 €. Lorsqu'elle est acquise au titre d'un logement achevé depuis au moins quinze ans et qui fait l'objet de travaux de réhabilitation, elle est calculée sur le prix d'acquisition majoré du montant de ces travaux.
 
@@ -41,3 +41,7 @@ La réduction n'est pas applicable au titre des logements dont le droit de propr
 IV. – Un contribuable ne peut, pour un même logement, bénéficier à la fois des réductions d'impôt mentionnées aux articles 199 undecies A et 199 undecies B et des dispositions du présent article.
 
 V. – Le présent article est applicable lorsque l'achèvement du logement ou des travaux de réhabilitation ou de rénovation intervient au plus tard le 1er juillet 2025 ou, dans le cas de logements acquis en l'état futur d'achèvement après le 1er juillet 2021, lorsque les logements sont achevés dans un délai de quatre ans à compter de l'acquisition.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 27-1 de la loi n° 2023-1268 du 27 décembre 2023.

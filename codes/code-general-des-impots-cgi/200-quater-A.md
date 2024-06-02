@@ -18,7 +18,7 @@ c. Le crédit d'impôt s'applique à condition que le contribuable ou un membre 
 
 1° Soit âgé de 60 ans ou plus et souffre d'une perte d'autonomie entraînant son classement dans l'un des groupes 1 à 4 de la grille nationale mentionnée à l'article L. 232-2 du code de l'action sociale et des familles ;
 
-2° Ou présente un taux d'incapacité supérieur ou égal à 50 %, déterminé par décision de la commission des droits et de l'autonomie des personnes handicapées mentionnée à l'article L. 241-5 du même code, dans les conditions prévues au a du 3° du I de l'article L. 241-6 dudit code ;
+2° Ou présente un taux d'incapacité supérieur ou égal à 50 %, déterminé par décision de la commission des droits et de l'autonomie des personnes handicapées mentionnée à l'article L. 241-5 du même code, dans les conditions prévues au a du 3° du I de l'article L. 241-6 dudit code.
 
 d. Les dépenses mentionnées au a du présent 1 ouvrent droit au crédit d'impôt lorsque les revenus du ménage, appréciés dans les conditions prévues au IV des articles 1391 B ter et 1417, sont, au titre de l'avant-dernière année précédant celle du paiement de la dépense :
 
@@ -105,7 +105,3 @@ Les dépenses mentionnées aux 1 et 1 bis ouvrent droit au bénéfice du crédit
 9. La durée de l'engagement de location mentionné au 1 bis s'apprécie à compter de la date de réalisation des dépenses ou, lorsque le logement n'est pas loué à cette date, à compter de la mise en location qui doit prendre effet, pour chaque logement concerné, dans les douze mois qui suivent la réalisation des dépenses. En cas de non-respect de cet engagement, le ou les crédits d'impôt obtenus pour chaque logement concerné font l'objet d'une reprise au titre de l'année au cours de laquelle l'engagement n'est pas respecté.
 
 10. Pour une même dépense, les dispositions du présent article sont exclusives de celles de l'article 200 quater, d'une déduction de charges pour la détermination des revenus catégoriels ou de la subvention octroyée au titre de l'article L. 321-1 du code de la construction et de l'habitation pour la réalisation de travaux d'accessibilité ou d'adaptation des logements au vieillissement ou au handicap mentionnée à l'article L. 98 E du livre des procédures fiscales.
-
-NOTA :
-
-Conformément au D du X de l’article 71 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier 2024.

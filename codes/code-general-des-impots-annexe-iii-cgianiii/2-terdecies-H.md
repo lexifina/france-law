@@ -2,7 +2,7 @@
 
 Les plafonds de loyer et de ressources mentionnés au 3° du A du I de l'article 199 tricies du code général des impôts sont fixés comme suit :
 
-I.-1. Les plafonds de loyer mensuel sont définis au niveau de la commune, ou, pour Paris, Lyon et Marseille, de l'arrondissement.
+I. - 1. Les plafonds de loyer mensuel sont définis au niveau de la commune, ou, pour Paris, Lyon et Marseille, de l'arrondissement.
 
 Pour les baux conclus ou renouvelés en 2022, ils sont fixés à partir d'une estimation d'un loyer de marché hors charges déterminée selon la méthode suivante :
 
@@ -28,23 +28,25 @@ Pour les baux conclus, reconduits ou renouvelés en 2025 et les années impaires
 
 3. Les valeurs des plafonds de loyer hors charges pour le logement affecté à la location intermédiaire, sociale ou très sociale par commune et par arrondissement, résultant de l'application du 2 du présent I, sont arrondies au centime d'euro le plus proche et publiées chaque année par arrêté conjoint des ministres chargés du logement et de l'économie.
 
-4. Par dérogation aux 1 et 2 du présent I, les plafonds de loyer mensuel des logements situés à Mayotte sont fixés en 2022 à :
+4. Par dérogation aux 1 et 2 du présent I, les plafonds de loyer mensuel des logements situés à Mayotte sont fixés en 2024 à :
 
 Affectation du logement |
 
-Montant du plafond de loyer par mètre carré hors charges (en euros €) |
+Montant du plafond de loyer par mètre carré
+
+hors charges (en €) |
 
 Intermédiaire |
 
-10,73 |
+11,51 |
 
 Social |
 
-8,16 |
+8,75 |
 
 Très social |
 
-6,36 |
+6,82 |
 
 Ces plafonds de loyer sont actualisés au 1er janvier de chaque année selon les modalités prévues à la deuxième phrase du premier alinéa du a de l'article 2 duodecies.
 
@@ -56,11 +58,11 @@ dans laquelle S est la surface du logement exprimée en mètres carré de surfac
 
 6. Pour la détermination des plafonds de loyer et pour l'application du 5 du présent I, la surface du logement exprimée en mètres carré de surface habitable à prendre en compte s'entend de celle prévue au dernier alinéa du a de l'article 2 duodecies et, pour les logements situés en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte, de celle prévue au dernier alinéa du 1 du I de l'article 2 terdecies F.
 
-II.-Les plafonds de ressources sont les suivants :
+II. - Les plafonds de ressources sont les suivants :
 
 1. Pour le logement donné en location intermédiaire dans le cadre d'une convention mentionnée à l'article L. 321-4 du code de la construction et de l'habitation, les plafonds annuels de ressources des locataires sont égaux à ceux fixés au a du 2 de l'article 2 terdecies G.
 
-2. Pour le logement donné en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la construction et de l'habitation, les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2022 :
+2. Pour le logement donné en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la construction et de l'habitation, les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2024 :
 
 a) lorsque le logement est affecté à la location sociale :
 
@@ -68,107 +70,115 @@ COMPOSITION DU FOYER LOCATAIRE |
 
 LIEU DE SITUATION DU LOGEMENT |
 
-Zone A bis
+Zone A bis (en €) |
 
-(en €) |
+Zone A Métropole (en €) |
 
-Reste de la zone A (en €) |
+Zone A Outre-mer (en €) |
 
-Zone B1
+Zone B1 Métropole (en €) |
 
-(en €) |
+Zone B1 Outre-mer (en €) |
 
-Zone B2
-
-(en €) |
-
-Zone C
-
-(en €) |
+Zones B2 et C (en €) |
 
 Personne seule |
 
-28 817 |
+31 827 |
 
-28 817 |
+31 827 |
 
-23 488 |
+31 305 |
 
-21 139 |
+25 942 |
 
-21 139 |
+25 515 |
+
+23 347 |
 
 Couple |
 
-43 072 |
+47 570 |
 
-43 072 |
+47 570 |
 
-31 368 |
+46 790 |
 
-28 231 |
+34 645 |
 
-28 231 |
+34 075 |
+
+31 180 |
 
 Personne seule ou couple ayant une personne à charge |
 
-56 460 |
+62 357 |
 
-51 773 |
+57 180 |
 
-37 721 |
+56 242 |
 
-33 949 |
+41 661 |
 
-33 949 |
+40 977 |
+
+37 495 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-67 410 |
+74 451 |
 
-62 016 |
+68 494 |
 
-45 539 |
+67 368 |
 
-40 985 |
+50 296 |
 
-40 985 |
+49 470 |
+
+45 266 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-80 204 |
+88 581 |
 
-73 415 |
+81 083 |
 
-53 571 |
+79 751 |
 
-48 214 |
+59 166 |
 
-48 214 |
+58 195 |
+
+53 250 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-90 254 |
+99 681 |
 
-82 617 |
+91 247 |
 
-60 376 |
+89 747 |
 
-54 338 |
+66 682 |
 
-54 338 |
+65 587 |
+
+60 014 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 10 057 |
++ 11 108 |
 
-+ 9 206 |
++ 10 168 |
 
-+ 6 736 |
++ 10 001 |
 
-+ 6 061 |
++ 7 439 |
 
-+ 6 061 |
++ 7 318 |
+
++ 6 694 |
 
 b) lorsque le logement est affecté à la location très sociale :
 
@@ -176,108 +186,120 @@ COMPOSITION DU FOYER LOCATAIRE |
 
 LIEU DE SITUATION DU LOGEMENT |
 
-Zone A bis
+Zone A bis (en €) |
 
-(en €) |
+Zone A Métropole (en €) |
 
-Reste de la zone A (en €) |
+Zone A Outre-mer (en €) |
 
-Zone B1
+Zone B1 Métropole (en €) |
 
-(en €) |
+Zone B1 Outre-mer (en €) |
 
-Zone B2
-
-(en €) |
-
-Zone C
-
-(en €) |
+Zones B2 et C (en €) |
 
 Personne seule |
 
-15 849 |
+17 504 |
 
-15 849 |
+17 504 |
 
-12 918 |
+17 218 |
 
-11 626 |
+14 268 |
 
-11 626 |
+14 034 |
+
+12 840 |
 
 Couple |
 
-25 844 |
+28 543 |
 
-25 844 |
+28 543 |
 
-18 822 |
+28 075 |
 
-16 939 |
+20 788 |
 
-16 939 |
+20 447 |
+
+18 708 |
 
 Personne seule ou couple ayant une personne à charge |
 
-33 877 |
+37 415 |
 
-31 065 |
+34 309 |
 
-22 633 |
+33 746 |
 
-20 370 |
+24 997 |
 
-20 370 |
+24 587 |
+
+22 497 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-37 278 |
+41 172 |
 
-34 295 |
+37 877 |
 
-25 183 |
+37 255 |
 
-22 665 |
+27 813 |
 
-22 665 |
+27 357 |
+
+25 033 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-44 114 |
+48 721 |
 
-40 380 |
+44 598 |
 
-29 466 |
+43 866 |
 
-26 519 |
+32 544 |
 
-26 519 |
+32 009 |
+
+29 289 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-49 640 |
+54 825 |
 
-45 440 |
+50 186 |
 
-33 207 |
+49 362 |
 
-29 886 |
+36 675 |
 
-29 886 |
+36 073 |
+
+33 008 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 5 530 |
++ 6 108 |
 
-+ 5 063 |
++ 5 591 |
 
-+ 3 704 |
++ 5 501 |
 
-+ 3 333 |
++ 4 090 |
 
-+ 3 333 |
++ 4 025 |
+
++ 3 681 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année, selon les modalités prévues au troisième alinéa du b de l'article 2 duodecies, ou, pour les logements situés en Guadeloupe, en Guyane, en Martinique, à La Réunion ou à Mayotte, selon celles prévues au II de l'article 2 terdecies F pour ces mêmes collectivités.
 
 3. Pour l'application du présent II, les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location et les personnes à charge s'entendent des personnes mentionnées aux articles 196 à 196 B du même code.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 2-1 du décret n° 2022-465 du 31 mars 2022.
