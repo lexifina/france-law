@@ -1,0 +1,9 @@
+# Réponse à la question n° 5687
+
+- Question : [5687](5687.md) — Question n° 5687 — Non-remboursement du Slenyto
+
+## Réponse
+
+*JO du 2024-06-04, page 4569*
+
+Le bien-être de nos concitoyens atteints d'un trouble du spectre de l'autisme ou d'un syndrome de Smith-Magenis est une priorité pour le ministre de la santé et de la prévention. En ce sens, l'inscription dans le droit commun de la thérapie Slenyto, venant ainsi remplacer la recommandation temporaire d'utilisation alors en vigueur avec le médicament Circadin, a été une avancée substantielle dans la prise en charge des patients. Cette prise en charge demeure circonscrite actuellement aux enfants et adolescents âgés de 2 à 18 ans. Ce périmètre de prise en charge restreint est cependant lié à l'Autorisation de mise sur le marché (AMM) dont bénéficie Slenyto qui demeure ciblée sur cette tranche d'âge. Afin d'élargir la prise en charge aux patients adultes jusqu'à 55 ans, il serait nécessaire que le laboratoire exploitant Slenyto, Biocodex, effectue des essais cliniques au sein de cette population et sollicite une extension d'indication auprès de l'European Medicines Agency. A défaut, il est malheureusement impossible à ce jour d'étayer l'apport de la mélatonine au sein de la population adulte ainsi que son rapport efficacité/sécurité. Concernant la demande de prise en charge à 100 % pour la population de l'AMM, il est constaté au sein des données de l'Assurance maladie pour l'année 2022 que le taux lmoyen de remboursement effectif est de 81 %, soit supérieur au taux de remboursement théorique de 65 % au regard du niveau de service médical rendu important octroyé par la Haute autorité de santé. Cette différence trouve son origine dans des prises en charge d'ores et déjà à 100 % pour une part significative de patients français, notamment au titre du régime des affections de longue durée.
