@@ -1,0 +1,9 @@
+# Réponse à la question n° 17325
+
+- Question : [17325](17325.md) — Question n° 17325 — Cérémonie de mariage
+
+## Réponse
+
+*JO du 2024-06-04, page 4538*
+
+L'article 75 du code civil impose à l'officier de l'état civil, lors de la célébration du mariage, de faire lecture des articles 212 et 213, du premier alinéa des articles 214 et 215, et de l'article 371-1 du code civil. Cette lecture vise à donner une information complète aux futurs conjoints sur leurs droits et devoirs en qualité d'époux, avant de recueillir leur consentement à l'union matrimoniale. De même, la lecture des articles 213 et 371-1 du code civil relatifs à l'éducation des enfants et à l'autorité parentale, imposée par la loi n° 2002-305 du 4 mars 2002 relative à l'autorité parentale, participe de cette démarche. L'article 75 du code civil étant d'ordre public, il n'est pas possible d'y déroger. En tout état de cause, il n'est pas envisageable de faire dépendre la lecture de ces articles de la situation particulière des futurs époux. Outre qu'une telle proposition pourrait être fragile au regard du principe constitutionnel d'égalité, elle serait en pratique très difficile à mettre en œuvre car elle impliquerait pour l'officier de l'état civil de déterminer avec certitude, pour chaque couple, toutes les situations concrètes de la vie maritale à venir et les intentions profondes de chacun des époux. Il n'est par conséquent pas envisagé de permettre à l'officier de l'état civil d'apprécier l'opportunité de la lecture de certaines dispositions du code civil au vu des projets pour l'avenir des personnes qu'il doit unir. De même, si la loi n° 2013-404 du 17 mai 2013 ouvrant le mariage aux couples de personnes de même sexe a supprimé la lecture de l'article 220 du code civil, les parlementaires n'ont pas entendu revenir sur la lecture des articles 213 et 371-1 du même code. Aussi, en l'état, le Gouvernement n'entend pas proposer une nouvelle modification de la loi.
