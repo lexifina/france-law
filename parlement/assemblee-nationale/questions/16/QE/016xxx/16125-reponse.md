@@ -1,0 +1,9 @@
+# Réponse à la question n° 16125
+
+- Question : [16125](16125.md) — Question n° 16125 — Avenir de la présence française à Djibouti suite aux attaques houthies
+
+## Réponse
+
+*JO du 2024-06-04, page 4525*
+
+Notre coopération militaire avec Djibouti est encadrée depuis 2011 par un Traité de coopération en matière de défense. Notre présence militaire répond à deux objectifs : avoir un point d'appui naval et aérien permettant la projection de nos forces vers l'Indopacifique ou dans la région, et apporter un appui aux forces djiboutiennes. Des négociations sont en cours avec la partie djiboutienne visant à renégocier ce traité. Les Houthis semblent déterminés à poursuivre leurs attaques en mer Rouge. Ils ont franchi un seuil dans l'escalade avec l'attaque mortelle sur le True Confidence le 6 mars 2024. Nous l'avons fermement condamnée. Soutenus par l'Iran, les Houthis tirent prétexte de la guerre à Gaza pour déstabiliser la région et accentuer leur guerre contre le Gouvernement légitime du Yémen. Face à cette situation, nous avons agi rapidement en lançant, le 19 février dernier, l'opération européenne Aspides, qui s'inscrit dans le cadre de la politique de sécurité et de défense commune de l'Union européenne (UE). Cette opération vise à préserver la liberté de navigation dans un contexte de crise en mer Rouge, avec une posture strictement défensive. Avec cette opération, l'UE et ses États membres adoptent une approche de désescalade et de dialogue avec les partenaires régionaux, dont Djibouti. La France s'implique pleinement au sein de l'opération Aspides et déploie une frégate en mer Rouge dans ce cadre. Les moyens européens déployés dans le cadre d'Aspides ont déjà réalisé plusieurs escortes de navires et intercepté des vecteurs houthis (drones, missiles). L'opération Atalante continue son action, par ailleurs, contre la piraterie. Le mandat d'Aspides et celui d‘Atalante sont donc complémentaires.
