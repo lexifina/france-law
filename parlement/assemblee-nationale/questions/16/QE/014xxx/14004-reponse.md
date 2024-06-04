@@ -1,0 +1,9 @@
+# Réponse à la question n° 14004
+
+- Question : [14004](14004.md) — Question n° 14004 — Régulation des pigeons
+
+## Réponse
+
+*JO du 2024-06-04, page 4552*
+
+Le Pigeon biset (Columba livia) est un colombidé qui a, depuis très longtemps, été domestiqué par l'homme. Ce sont les souches domestiques retournées à l'état sauvage qui ont colonisé les bâtiments des villes et villages et en particulier les édifices les plus anciens, riches en cavités propices à la nidification. L'augmentation des populations urbaines de ces pigeons est liée à l'abondance de la ressource alimentaire et une quasi absence de prédateurs. L'implantation récente du Faucon pèlerin, prédateur du Pigeon biset, dans certains centres urbains est toutefois susceptible d'en limiter efficacement les effectifs. Le Pigeon biset peut faire l'objet de campagnes de régulation en milieu urbain en cas de trouble à l'ordre public. Celles-ci sont effectuées par les maires sur la base de leurs pouvoirs de police pris en application de l'article L. 2112-2 du Code général des Collectivités Territoriales. Un guide de NaturParif de 2011, établi sur la base des travaux d'un Groupe de recherche interdisciplinaire et interprofessionnel « Le pigeon en ville : écologie de la réconciliation et gestion de la nature », coordonné par le Muséum national d'histoire naturelle présente les différentes méthodes, avec une évaluation de leur efficacité et de leurs impacts potentiels. Aucune méthode n'est considérée comme totalement efficace et sans risques. Il est donc important que les collectivités établissent une stratégie globale incluant des méthodes répulsives, des pigeonniers avec suppression des œufs, la présence de prédateurs naturels du pigeon mais développent aussi une approche de la prise en compte des pratiques et des volontés des habitants.
