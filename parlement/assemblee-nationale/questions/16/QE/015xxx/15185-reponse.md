@@ -1,0 +1,9 @@
+# Réponse à la question n° 15185
+
+- Question : [15185](15185.md) — Question n° 15185 — Situation des droits humains et de l'État de droit en Inde
+
+## Réponse
+
+*JO du 2024-06-04, page 4521*
+
+Le respect des droits de l'Homme est une priorité de l'action diplomatique de la France. La France est plus que jamais engagée à poursuivre sa politique de promotion universelle et de protection de tous les droits de l'Homme. Dans le cadre d'un dialogue régulier avec l'Inde, la France promeut les droits de l'Homme et rappelle systématiquement son attachement au respect de la liberté d'expression. À ce titre, la France agit conjointement avec ses partenaires de l'Union européenne (UE) dans diverses enceintes, à l'instar du sommet UE-Inde sur les droits de l'Homme, et lors des contacts bilatéraux, pour souligner la grande attention qu'elle porte à la situation des droits de l'Homme dans le pays. La France maintient un dialogue dense avec la société civile et porte une grande attention aux droits des personnes appartenant à des minorités, notamment religieuses, comme l'a illustré la visite du Président de la République dans un sanctuaire soufi à Delhi, lors de sa visite d'État en Inde, en janvier 2024. À l'occasion du passage de l'Inde à l'Examen périodique universel en novembre 2022, la France a notamment appelé les autorités indiennes à mettre en œuvre des mesures effectives pour lutter contre les violences et les discriminations faites aux femmes, et reconnaître le viol conjugal comme un crime ; à ratifier la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants ; à continuer d'appliquer les principes du Partenariat international pour l'information et la démocratie et donc à garantir la liberté d'expression en protégeant le travail des journalistes, des médias indépendants et des défenseurs des droits.
