@@ -1,0 +1,10 @@
+# proposition de loi sur la proposition de loi de Mmes Colombe Brossel, Marie-Pierre Monier, MM. Patrick Kanner, Jean-Jacques Lozach, Yan Chantrel, Mmes Karine Daniel, Sylvie Robert, MM. David Ros, Adel Ziane, Mmes Viviane Artigalas, Audrey Bélim, Florence Blatrix Contat, Nicole Bonnefoy, MM. Denis Bouad, Hussein Bourgi, Mmes Isabelle Briquet, Marion Canalès, M. Rémi Cardon, Mme Marie-Arlette Carlotti, M. Christophe Chaillou, Mmes Catherine Conconne, Hélène Conway-Mouret, MM. Thierry Cozic, Jérôme Darras, Mme Marie-Pierre de la Gontrie, MM. Gilbert-Luc Devinaz, Jérôme Durain, Vincent Éblé, Mme Frédérique Espagnac, MM. Sébastien Fagnen, Rémi Féraud, Mme Corinne Féret, MM. Jean-Luc Fichet, Hervé Gillé, Mme Laurence Harribey, MM. Olivier Jacquin, Éric Jeansannetas, Patrice Joly, Bernard Jomier, Mme Gisèle Jourda, M. Éric Kerrouche, Mmes Annie Le Houerou, Audrey Linkenheld, Monique Lubin, MM. Victorin Lurel, Didier Marie, Serge Mérillou, Jean-Jacques Michau, Franck Montaugé, Mme Corinne Narassiguin, MM. Alexandre Ouizille, Sebastien Pla, Mme Émilienne Poumirol, MM. Claude Raynal, Christian Redon-Sarrazy, Pierre-Alain Roiron, Mme Laurence Rossignol, MM. Lucien Stanzione, Rachid Temal, Jean-Claude Tissot, Simon Uzenat, Mickaël Vallet, Jean-Marc Vayssouze-Faure et Michaël Weber visant à assurer la mixité sociale et scolaire dans les établissements d'enseignement publics et privés sous contrat du premier et du second degrés et à garantir davantage de transparence dans les procédures d'affectation et de financement des établissements privés sous contrat (471).
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : visant à assurer la mixité sociale et scolaire dans les établissements d'enseignement publics et privés sous contrat du premier et du second degrés et à garantir davantage de transparence dans les procédures d'affectation et de financement des établissements privés sous contrat
+- Déposé le : 2024-06-05
+- Dossier : DLR5L16N49687
+- Auteurs : Mme Karine Daniel (rapporteur), Commission de la culture, de l'éducation, de la communication et du sport
+- Identifiant : PIONSNR5S419BTC0678
