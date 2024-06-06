@@ -1,0 +1,11 @@
+# COMMUNE DE SAINT MAYEUX : délibération SMKULEFF — 2024.06 ADHESION DE LEFF ARMOR AU SMKU
+
+- Collectivité : COMMUNE DE SAINT MAYEUX
+- SIRET : 21220316000016
+- Code INSEE : 22316
+- Date : 2024-06-06
+- Matière : 8.8 Domaines de competences par themes/Environnement
+- Objet : 2024.06 ADHESION DE LEFF ARMOR AU SMKU
+- Transmis à la préfecture : 2024-06-14 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212203160/Deliberation/2024/660553/e81b322095737eaebb6ac691799bad72cdfeca99d35903911b21c55efda2c39e.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
