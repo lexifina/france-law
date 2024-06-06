@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240411223
+
+- Question : [SEQ240411223](seq240411223.md) — Procédure de mise sous tutelle d'un majeur à protéger et information de l'entourage direct
+
+## Réponse
+
+*Justice, JO du 2024-06-06, page 2657*
+
+Lorsqu'il est saisi d'une demande d'ouverture d'une mesure de protection, le juge peut ordonner toute mesure d'instruction qu'il estime utile pour déterminer la mesure de protection la plus adaptée à l'état de santé du majeur ainsi que la personne qui sera la mieux à même de protéger ses intérêts (article 1221 du code de procédure civile). Dans ce cadre, le juge des tutelles peut notamment solliciter les enfants du majeur protégé par le biais d'un questionnaire ou procéder à leur audition, dans l'unique but de connaître leur avis sur les capacités de leur parent et de savoir quelle personne pourrait exercer la mesure. En pratique, pour solliciter les enfants de la personne à protéger, le juge doit donc non seulement connaître leur existence, mais également disposer de leurs coordonnées, ce qui est peu fréquent s'ils n'ont plus de contact avec leur parent depuis plusieurs années. Par ailleurs, l'article 415 du code civil rappelle que la mesure de protection est instaurée et assurée dans le respect des libertés individuelles, des droits fondamentaux et de la dignité de la personne. Elle n'a donc pas à être portée à la connaissance de toute personne, notamment des enfants qui n'ont plus de contact avec la personne concernée. Il n'est donc pas envisagé de modifier la procédure actuelle d'ouverture d'une mesure de protection pour que les enfants de la personne protégée soient systématiquement informés de cette procédure. Enfin, il sera à ce titre rappelé que l'ouverture d'une mesure de protection n'a aucune incidence sur l'hébergement d'une personne en établissement de santé ou sur les obligations alimentaires des enfants à l'égard de leurs parents.
