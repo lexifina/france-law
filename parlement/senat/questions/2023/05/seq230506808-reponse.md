@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230506808
+
+- Question : [SEQ230506808](seq230506808.md) — Interdiction de la pêche récréative de l'anguille
+
+## Réponse
+
+*Mer et biodiversité, JO du 2024-06-06, page 2660*
+
+La pêche récréative de l'anguille aux stades civelle et anguille argentée était déjà interdite par le code rural et ses articles R. 922-48 et R. 922-50, l'arrêté du 9 mars 2023 étend donc cette interdiction de pêche récréative au stade de l'anguille jaune. Cette évolution est la transcription directe du règlement européen 2023/194 du Conseil du 30 janvier 2023 établissant, pour 2023, les possibilités de pêche pour certains stocks halieutiques, applicables dans les eaux de l'Union européenne (UE) et, pour les navires de pêche de l'UE, dans certaines eaux n'appartenant pas à l'UE, et établissant, pour 2023 et 2024, de telles possibilités de pêche pour certains stocks de poissons d'eau profonde. L'article 13 de ce règlement prévoit en effet l'interdiction de la pêche récréative de l'anguille à tous les stades de développement, et ceux dans l'ensemble des eaux de l'UE. Cette interdiction est justifiée par l'état de conservation du stock d'anguilles et la nécessité de réduire les mortalités d'anguilles dans tous les habitats. Aucune possibilité de dérogation concernant la pêche récréative n'est introduite par le règlement 2023/194, dont l'application ne nécessite pas de transposition dans le droit français. La pêche professionnelle est par ailleurs concernée également par des restrictions fortes sur les périodes de pêche autorisées, en lien avec les périodes de migration de l'anguille. En l'état du droit européen et du statut du stock d'anguilles européennes, il n'est donc pas possible d'introduire une dérogation particulière sur la pêche récréative de l'anguille en modifiant l'arrêté du 9 mars 2023. La règlementation quant à la pêche récréative des autres espèces présentes dans les marais du Payré reste par ailleurs inchangée.
