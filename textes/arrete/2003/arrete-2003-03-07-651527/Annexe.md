@@ -24,7 +24,7 @@ I.-Administration centrale |
 
 |
 
-1. Emploi lié à l'informatique et aux nouvelles technologies |
+1. Emploi lié à l'informatique et aux nouvelles technologies
 
 |
 
@@ -32,7 +32,11 @@ I.-Administration centrale |
 
 |
 
-Chargé de communication interne et institutionnelle |
+|
+
+Chargé de communication interne et institutionnelle
+
+|
 
 A ou B |
 
@@ -40,7 +44,7 @@ A ou B |
 
 1 |
 
-2. Secrétariat comportant des contraintes particulières en matière d'horaires |
+2. Secrétariat comportant des contraintes particulières en matière d'horaires
 
 |
 
@@ -48,39 +52,49 @@ A ou B |
 
 |
 
-Assistant de direction
+|
 
-Assistant de direction
-
-Assistant de direction DG et DGA
-
-Secrétaire assistant |
-
-B ou C
-
-B ou C
-
-B ou C
+Assistant de direction |
 
 B ou C |
 
-10
-
-20
-
-20
-
 10 |
-
-2
-
-3
-
-2
 
 2 |
 
-3. Responsabilité d'encadrement |
+Assistant de direction
+
+|
+
+B ou C |
+
+20 |
+
+3 |
+
+Assistant de direction DG et DGA
+
+|
+
+B ou C |
+
+20 |
+
+2 |
+
+Secrétaire assistant
+
+|
+
+B ou C |
+
+10 |
+
+2 |
+
+3. Responsabilité d'encadrement
+
+|
 
 |
 
@@ -90,69 +104,87 @@ B ou C |
 
 Adjoint au chef du bureau du cabinet
 
-Adjoint au directeur de cabinet
-
-Chef du bureau du cabinet
-
-Responsable de l'action sociale
-
-Adjoint au chef du bureau des ressources et de la coordination, chef de la section RH-GPEEC
-
-Adjoint au chef du bureau chargé de mission emploi et formation
-
-Adjoint au chef du bureau du droit privé, du droit des activités économiques et sociales
-
-Adjoint au chef du bureau du droit public et des affaires institutionnelles |
-
-A
-
-A
-
-A
-
-B
-
-A
-
-A
-
-A
+|
 
 A |
 
-20
-
-20
-
-20
-
-20
-
-20
-
-40
-
-30
-
 20 |
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
 
 1 |
 
-4. Emploi impliquant une technicité particulière ou une responsabilité particulière |
+Adjoint au directeur de cabinet
+
+|
+
+A |
+
+20 |
+
+1 |
+
+Chef du bureau du cabinet
+
+|
+
+A |
+
+20 |
+
+1 |
+
+Responsable de l'action sociale
+
+|
+
+A |
+
+20 |
+
+1 |
+
+Adjoint au chef du bureau des ressources et de la coordination, chef de la section RH-GPEEC
+
+|
+
+B |
+
+20 |
+
+1 |
+
+Adjoint au chef du bureau chargé de mission emploi et formation
+
+|
+
+A |
+
+40 |
+
+1 |
+
+Adjoint au chef du bureau du droit privé, du droit des activités économiques et sociales
+
+|
+
+A |
+
+30 |
+
+1 |
+
+Adjoint au chef du bureau du droit public et des affaires institutionnelles
+
+|
+
+A |
+
+20 |
+
+1 |
+
+4. Emploi impliquant une technicité particulière ou une responsabilité particulière
+
+|
 
 |
 
@@ -162,121 +194,151 @@ A |
 
 Chef de la section logistique, déplacements, finances
 
+|
+
+A |
+
+20 |
+
+1 |
+
 Chef de la section des ressources humaines, responsable référent unique AEL
 
-Agent responsable de la section solde
+|
 
-Gestionnaire de la mission outre-mer
-
-Gestionnaire des ressources budgétaires et logistiques
-
-Gestionnaire des ressources budgétaires
-
-Secrétaire assistant
-
-Assistant de gestion au bureau de la cohésion sociale, de la santé et de l'enseignement
-
-Chargé de mission sécurité civile
-
-Gestionnaire ressources humaines
-
-Chef de la section du budget et de la logistique
-
-Adjoint au chef du bureau de la dépense de l'Etat, chef de la section budgétaire
-
-Adjoint au chef du bureau chargé de mission juriste
-
-Assistant de gestion défiscalisation
-
-Assistant de gestion politique régionale |
-
-A
-
-A
-
-B
-
-B ou C
-
-B
-
-B ou C
-
-C
-
-B
-
-A
-
-B ou C
-
-A
-
-A
-
-A
-
-C
-
-C |
-
-20
-
-10
-
-10
-
-20
-
-10
-
-20
-
-10
-
-10
-
-20
-
-10
-
-20
-
-30
-
-15
-
-10
+A |
 
 10 |
 
-1
+1 |
 
-1
+Agent responsable de la section solde
 
-1
+|
 
-2
+B |
 
-1
+10 |
 
-1
+1 |
 
-1
+Gestionnaire de la mission outre-mer
 
-1
+|
 
-1
+B ou C |
 
-1
+20 |
 
-1
+2 |
 
-1
+Gestionnaire des ressources budgétaires et logistiques
 
-1
+|
 
-1
+B |
+
+10 |
+
+1 |
+
+Gestionnaire des ressources budgétaires
+
+|
+
+B ou C |
+
+20 |
+
+1 |
+
+Secrétaire assistant
+
+|
+
+C |
+
+10 |
+
+1 |
+
+Assistant de gestion au bureau de la cohésion sociale, de la santé et de l'enseignement
+
+|
+
+B |
+
+10 |
+
+1 |
+
+Chargé de mission sécurité civile
+
+|
+
+A |
+
+20 |
+
+1 |
+
+Gestionnaire ressources humaines
+
+|
+
+B ou C |
+
+10 |
+
+1 |
+
+Chef de la section du budget et de la logistique
+
+|
+
+A |
+
+20 |
+
+1 |
+
+Adjoint au chef du bureau de la dépense de l'Etat, chef de la section budgétaire
+
+|
+
+A |
+
+30 |
+
+1 |
+
+Adjoint au chef du bureau chargé de mission juriste
+
+|
+
+A |
+
+15 |
+
+1 |
+
+Assistant de gestion défiscalisation
+
+|
+
+C |
+
+10 |
+
+1 |
+
+Assistant de gestion politique régionale
+
+|
+
+C |
+
+10 |
 
 1 |
 
