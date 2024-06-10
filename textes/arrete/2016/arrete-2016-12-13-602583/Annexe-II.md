@@ -6,9 +6,9 @@ I. VALEURS MINIMALE ET MAXIMALE DES MONTANTS DU PROGRAMME D'INVESTISSEMENT
 
 Les valeurs minimale et maximale du programme d'investissement mentionnées à l'article 15 sont définies comme suit :
 
-La valeur minimale, notée Imin, est égale à 500 euros par kilowatt installé.
+La valeur minimale, notée Imin, est égale à 680 euros par kilowatt installé.
 
-La valeur maximale, notée Imax, est égale à 2 500 euros par kilowatt installé.
+La valeur maximale, notée Imax, est égale à 3 400 euros par kilowatt installé.
 
 La valeur maximale du programme peut toutefois être supérieure à Imax, mais dans ce cas les tarifs mentionnés au V de l'annexe 3 sont calculés comme si elle était égale à Imax.
 
@@ -46,6 +46,8 @@ Organes principaux
 
 Ouvrages de vantellerie, grille, vannes (vanne d'isolement, vanne de chasse, vanne de dégravement, vanne de survitesse, vanne de pied avec by-pass), dégrilleur, ouvrage de ventellerie de surélévation pour chasse ou évacuation de crue.
 
+Moyens fixes de levage (pont roulant, potence…).
+
 Conduite forcée (fourniture et pose).
 
 Y et cône de dérivation sur conduite (fourniture et pose).
@@ -62,7 +64,7 @@ Générateur
 
 Achat et installation d'un générateur.
 
-Rebobinage d'un générateur.
+Remise en état (notamment rebobinage) d'un générateur.
 
 Autres organes électriques
 

@@ -8,67 +8,41 @@ I. Le tarif d'achat applicable à l'énergie fournie par les installations menti
 
 TARIF POUR LES INSTALLATIONS
 
-mentionnées au 1° de l'article 12
-
-|
+mentionnées au 1° de l'article 12 |
 
 TARIF POUR LES INSTALLATIONS
 
 de haute chute
 
-mentionnées au 2° de l'article 12
-
-|
+mentionnées au 2° de l'article 12 |
 
 TARIF POUR LES INSTALLATIONS
 
 de basse chute
 
-mentionnées au 2° de l'article 12
+mentionnées au 2° de l'article 12 |
 
-|
+Tarif à 1 composante |
 
-Tarif à 1 composante
+98 |
 
-|
+151 |
 
-80
+166 |
 
-|
+Tarif à 2 composantes : été et hiver |
 
-120
+73 |
 
-|
+111 |
 
-132
+121 |
 
-|
+138 |
 
-Tarif à 2 composantes
+209 |
 
-- été
-
-- hiver
-
-|
-
-58
-
-110
-
-|
-
-88
-
-166
-
-|
-
-96
-
-182
-
-|
+229 |
 
 Pour les zones non interconnectées à l'exception de la Corse, seul le tarif à une composante est applicable.
 
