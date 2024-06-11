@@ -1,0 +1,9 @@
+# Réponse à la question n° 16637
+
+- Question : [16637](16637.md) — Question n° 16637 — Contribution des opérateurs au budget 2025 : le cas de l'IRSN
+
+## Réponse
+
+*JO du 2024-06-11, page 4788*
+
+Le projet de loi relatif à l'organisation de la gouvernance de la sûreté nucléaire et de la radioprotection pour répondre au défi de la relance de la filière nucléaire a été définitivement adopté par le Parlement le 9 avril 2024. Enrichi par les débats parlementaires et issu d'une commission mixte paritaire, le texte permettra de créer une autorité plus efficace et mieux adaptée à la relance de la filière tout en garantissant son indépendance. L'attractivité de la future autorité et de ses deux composantes est également renforcée par le projet de loi. Ce dernier prévoit en effet que l'institut de radioprotection et de sûreté nucléaire (IRSN) et l'autorité de sûreté nucléaire (ASN) consacreront « respectivement 15 millions d'euros et 0,7 million d'euros à l'augmentation des salariés et des contractuels de droit public en 2024 ». Un rapport, élaboré avec le concours de l'IRSN et de l'ASN, sera remis avant le 1er juillet 2024 au Parlement et abordera les besoins en matière de moyens humains, techniques et financiers nécessaires à l'autorité de sûreté nucléaire et de radioprotection (ASNR) en 2025. Un préfigurateur chargé de la mise en œuvre de la création de l'ASNR doit également être nommé pour engager le rapprochement opérationnel des deux entités. Ces travaux permettront d'affiner les besoins de la nouvelle autorité et de déterminer le soutien octroyé par l'État pour qu'elle remplisse efficacement ses missions. Ce soutien ne s'est jamais démenti au cours des dernières années. Pour rappel, la subvention versée à l'IRSN sur le programme 190 atteint 182,6 M€ dans la loi de finances initiale (LFI) pour 2024, contre 179,4 M€ en LFI 2023 et 170,8 M€ en LFI 2022.
