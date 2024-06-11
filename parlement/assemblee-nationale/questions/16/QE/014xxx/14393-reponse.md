@@ -1,0 +1,9 @@
+# Réponse à la question n° 14393
+
+- Question : [14393](14393.md) — Question n° 14393 — Recours contre les constructeurs automobiles en cas de défaillances techniques
+
+## Réponse
+
+*JO du 2024-06-11, page 4818*
+
+Le Gouvernement est attentif à l'exercice des droits des consommateurs dans les signalements relatifs aux dysfonctionnements de moteurs de véhicules automobiles. Deux services de l'État travaillent conjointement sur le traitement de ces signalements, compte tenu de leurs compétences respectives : le service de surveillance du marché des véhicules et des moteurs (SSMVM) relevant du ministère chargé des transports et la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF). S'agissant de la conformité des moteurs concernés aux exigences techniques, le SSMVM mène les investigations nécessaires auprès des constructeurs concernés, nonobstant les mesures volontaires pouvant être prises par ces derniers, notamment dans le moteur 1.2 Puretech où une campagne de rappel a été menée. S'agissant des dysfonctionnements des réservoirs AdBlue, outre les investigations menées par le SSMVM, la DGCCRF travaille avec la Commission européenne et les autres autorités nationales compétentes en matière de protection des consommateurs, dans le cadre du réseau européen de coopération en matière de protection des consommateurs (CPC), à la définition de mesures robustes et harmonisées en faveur des consommateurs. Il s'agit en effet de s'assurer que les consommateurs disposent d'une prise en charge adaptée des réparations au regard des dommages subis. À cet égard, le Gouvernement sera vigilant sur la volonté du constructeur d'appréhender ces difficultés avec le niveau d'exigence requis, sur les engagements qui en découleront et la bonne application de ces derniers.
