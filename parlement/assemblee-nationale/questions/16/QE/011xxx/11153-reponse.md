@@ -1,0 +1,9 @@
+# Réponse à la question n° 11153
+
+- Question : [11153](11153.md) — Question n° 11153 — Devenir des installations et de la voie de l'ancien Poma de Laon
+
+## Réponse
+
+*JO du 2024-06-11, page 4936*
+
+La compétence en matière de transport urbain, y compris la réhabilitation ou la transformation d'infrastructures de transport, relève principalement de l'Autorité Organisatrice de la Mobilité (AOM), en l'occurrence, la Communauté d'Agglomération du Pays de Laon (CAPL). Concernant la suggestion de solliciter le Centre d'Études et d'Expertise sur les Risques, la Mobilité et l'Aménagement (CEREMA) pour réaliser une étude complète et impartiale sur les systèmes possibles de Transport en Commun en Site Propre (TCSP) et leurs coûts, le CEREMA intervient généralement à la demande des collectivités locales compétentes. Ni la commune de Laon, ni la CAPL ne sont actuellement adhérentes du CEREMA, ce qui signifie que toute demande d'étude de la part de ces entités devrait faire l'objet d'une mise en concurrence. Soutenir les politiques de transition écologique fait partie des missions du ministère de la transition écologique et de la cohésion des territoires et une grande importance est accordée aux solutions de transport durable pour les villes, en particulier dans un contexte de transition énergétique. Le ministère est attaché à la bonne prise en compte de ces propositions et s'emploie à examiner toutes pistes d'évolution de nature à favoriser le développement de solutions de mobilité dans les territoires, et ce en association étroite avec les représentants des collectivités locales. Cependant, la prise de décision et l'évaluation des différentes options disponibles reviennent aux autorités locales et à la CAPL, qui sont les acteurs légitimes pour décider de l'avenir de cette infrastructure, fut-ce en sollicitant l'appui du CEREMA ou d'autres organismes d'expertise pour évaluer les solutions de transport en commun en site propre disponibles.
