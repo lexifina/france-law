@@ -1,0 +1,9 @@
+# Réponse à la question n° 14775
+
+- Question : [14775](14775.md) — Question n° 14775 — Situation alarmante de la liaison ferroviaire reliant Rodez à Paris
+
+## Réponse
+
+*JO du 2024-06-11, page 4970*
+
+Les circulations entre Paris et Rodez en train de nuit subissent en effet de nombreuses gênes. Les annulations qui ont eu lieu à la fin de l'année 2023 sont essentiellement dues à des difficultés de maintenance des locomotives diesel qui tractent les voitures entre Brive et Rodez. En effet, ces derniers mois, les enrayements dus à la chute de feuilles ainsi que les incidents nombreux sur les voies ont généré une surcharge dans les centres de maintenance habituels. De plus, le parc de matériel thermique roulant adapté aux trains de voyageurs est limité en quantité, avec de faibles marges de manœuvre pour l'exploitation des lignes. L'État, en tant qu'autorité organisatrice des trains de nuit, a financé la location d'une locomotive supplémentaire à Brive, qui vient ainsi renforcer le parc de locomotives utilisé pour les dessertes de Rodez, Albi et Aurillac. Les recherches de locomotives supplémentaires se poursuivent en parallèle. Fort du constat que le matériel actuellement utilisé est ancien, et ne répond plus aux attentes des usagers en matière de services, de confort et d'accessibilité, les services de l'Etat travaillent sur des modalités de renouvellement. Par ailleurs, l'État investit massivement dans l'infrastructure ferroviaire. En particulier, la ligne Paris – Orléans – Limoges – Toulouse bénéficie, en complément de son programme de régénération, d'un programme de modernisation dans lequel l'État investit 257 M€. Ces programmes se traduisent par des travaux qui ont lieu la nuit, et qui entraînent parfois des adaptations d'horaires sur les trains de nuit, parfois des annulations. L'État et la SNCF mettent tout en œuvre pour minimiser ces impacts sur les usagers.
