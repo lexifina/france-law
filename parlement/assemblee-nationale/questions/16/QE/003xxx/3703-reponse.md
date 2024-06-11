@@ -1,0 +1,9 @@
+# Réponse à la question n° 3703
+
+- Question : [3703](3703.md) — Question n° 3703 — Communication et déclaration préalable des actions collectives de chasse
+
+## Réponse
+
+*JO du 2024-06-11, page 4832*
+
+Comme en témoigne le plan sur la sécurité à la chasse annoncé par la Secrétaire d'Etat à l'Ecologie le 9 janvier 2023, le Gouvernement est attentif à la sécurité de la pratique cynégétique, tant pour les chasseurs que pour les non-chasseurs. Ce plan est construit autour de 3 axes : l'un tourné vers la prévention, avec une formation renforcée des chasseurs aux enjeux de sécurité, l'autre portant sur les règles de sécurité lors de la pratique de la chasse et le dernier s'attachant à la diffusion d'informations cynégétiques aux autres usagers de la nature. Dans la continuité de ce plan, le Gouvernement a d'ores et déjà intégré de nouvelles mesures de communication, via le développement d'une cartographie permettant aux usagers de la nature de visualiser en temps réel les zones et les jours chassés sur les domaines de l'Etat ayant une vocation d'accueil du public (forêts domaniales et sites du conservatoire du littoral) partout en France. Cette cartographie pourrait par la suite être étendue à l'ensemble des actions de chasse collective au grand gibier sur la base du volontariat à ce stade de la législation en vigueur. Par ailleurs, de nombreuses initiatives sont conduites dans les territoires pour concilier les différents usages de la nature comme des applications ou des supports d'information. De plus, la pose de panneaux signalant les chasses en cours au grand gibier à proximité des voies publiques est une obligation figurant à l'article L. 424-15 du code de l'environnement. Enfin, la question des interactions avec les autres usagers de la nature est au centre des formations délivrées aux chasseurs.
