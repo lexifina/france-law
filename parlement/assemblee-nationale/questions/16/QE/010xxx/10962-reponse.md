@@ -1,0 +1,9 @@
+# Réponse à la question n° 10962
+
+- Question : [10962](10962.md) — Question n° 10962 — Implantation des ralentisseurs sur les routes
+
+## Réponse
+
+*JO du 2024-06-11, page 4936*
+
+Le guide de recommandations du Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques (CERTU) intitulé « guide des coussins et plateaux », actualisé en 2010, présente uniquement 3 dispositifs de ralentissement : Les coussins (appelés également « coussins berlinois »), les plateaux et les surélévations partielles. Comme indiqué dans le guide aux pages 16 et 63 : le coussin est de forme rectangulaire dans sa partie supérieure. La surélévation partielle est de forme carrée ou rectangulaire. Le plateau et le ralentisseur de type trapézoïdal ont des caractéristiques géométriques différentes, que ce soit en termes de longueur, de hauteur, ou de pente des rampes d'accès. Le guide du CERTU n'incite pas les élus locaux au non-respect du décret n° 94-447. Au contraire, le guide rappelle dans son introduction, en page 9, que « les ralentisseurs de type trapézoïdal ou de type dos-d'âne sont réglementés par le décret n° 94-447 du 27 mai 1994 et la norme NF P 98-300 du 16 mai 1994. », et en page 10 que « la réglementation (code, décret, arrêté, instruction interministérielle) s'impose à tout maître d'ouvrage ». L'objet de ce guide est de guider concrètement le projeteur ou le maître d'œuvre sur l'utilisation des outils coussins, plateaux, surélévations centrales, sans aborder l'analyse préalable qui a conduit à ces choix techniques. Des travaux de refonte de la réglementation sur les ralentisseurs sont actuellement à l'étude afin de couvrir tous les types de ralentisseurs dans un cadre réglementaire, en lien avec les collectivités territoriales, pour apporter à ces dernières toute la sécurité juridique souhaitée.
