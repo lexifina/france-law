@@ -1,0 +1,9 @@
+# Réponse à la question n° 9252
+
+- Question : [9252](9252.md) — Question n° 9252 — Grand projet ferroviaire du Sud-Ouest
+
+## Réponse
+
+*JO du 2024-06-11, page 4921*
+
+Le grand projet ferroviaire du Sud-Ouest, déclaré d'utilité publique en 2016, et composé dans sa première phase de la ligne nouvelle à grande vitesse Bordeaux-Toulouse et des aménagements ferroviaires au nord de Toulouse et au sud de Bordeaux, a pour objet de répondre efficacement et durablement aux besoins de mobilités des territoires de l'Occitanie et de la Nouvelle-Aquitaine. Les aménagements ferroviaires du nord de Toulouse et du Sud de Bordeaux faciliteront notamment les mobilités du quotidien en décongestionnant les gares concernées. Ces projets permettront de fluidifier le trafic ferroviaire au sud de Bordeaux et au nord de Toulouse, d'augmenter la capacité de la ligne pour absorber les actuels et futurs trafics : TER, trains aptes à la grande vitesse, trains d'équilibre du territoire (TET-Intercités) et fret, et d'améliorer la connexion entre le réseau ferroviaire et les réseaux de transports collectifs des deux agglomérations dans le cadre des projets de Services express régionaux métropolitains (SERM) à l'étude dans les deux métropoles. Le projet est cofinancé par l'État et par les collectivités du sud-ouest. Afin d'alléger la contribution budgétaire des collectivités territoriales, et à leur instigation, une taxe spéciale d'équipement a été instituée au profit de la Société du GPSO dans la loi de finances pour 2023 dans les communes situées à moins de 60 minutes en voiture des gares desservies par le projet. Cette fiscalité complémentaire tient donc compte de la proximité avec une gare desservie par la ligne nouvelle. Enfin, le projet se fera dans le respect des normes de protection de l'environnement et des engagements pris par le maître d'ouvrage dans le cadre de la déclaration d'utilité publique.
