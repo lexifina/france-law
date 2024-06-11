@@ -1,0 +1,9 @@
+# Réponse à la question n° 16903
+
+- Question : [16903](16903.md) — Question n° 16903 — Inégalités de reclassement pour les enseignants
+
+## Réponse
+
+*JO du 2024-06-11, page 4802*
+
+Le ministère chargé de l'éducation nationale a engagé depuis plusieurs années un chantier d'ampleur en vue d'améliorer les règles statutaires de reprise des services lors de la nomination dans un corps enseignant, afin de diversifier les profils recrutés et d'offrir des secondes carrières attractives. En 2022, les modifications règlementaires ont porté sur l'amélioration de la reprise des services de droit privé pour les lauréats des troisièmes concours. Cette mesure a été étendue au 1er septembre 2023 aux lauréats issus des autres voies de concours (externe et interne). Certains lauréats des concours bénéficient également d'une reprise plus avantageuse de leurs services publics. Ces mesures concernent le classement à l'entrée dans un corps enseignant ou assimilé et non le déroulement de carrière qui s'ensuit. En effet, les dispositions du décret n° 2023-729 du 7 août 2023 constituent une mesure d'attractivité par le biais d'un nouveau classement plus favorable, et non une mesure de revalorisation des enseignants recrutés antérieurement. Sauf exceptions strictement encadrées, les dispositions règlementaires n'ont pas vocation à régir des situations juridiquement constituées et ne valent que pour l'avenir. Par ailleurs, selon une jurisprudence constante, un décret instituant des règles de reprise d'ancienneté et ne comportant pas de dispositions permettant d'en faire bénéficier les agents déjà en fonctions ne constitue pas une discrimination contraire au principe d'égalité de traitement des fonctionnaires d'un même corps (par exemple : CE n° 260508, 10 décembre 2004, Syndicat national des infirmiers conseillers de santé).
