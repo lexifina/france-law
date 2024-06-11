@@ -1,0 +1,9 @@
+# Réponse à la question n° 15914
+
+- Question : [15914](15914.md) — Question n° 15914 — Réouverture de la ligne ferroviaire Limoges-Angoulême
+
+## Réponse
+
+*JO du 2024-06-11, page 4974*
+
+La ligne Angoulême-Limoges fait partie des "petites" lignes ferroviaires dont les besoins de régénération sont cofinancés entre l'État, la région Nouvelle-Aquitaine et SNCF Réseau, conformément au protocole d'accord sur l'avenir des lignes ferroviaires de desserte fine du territoire, signé le 22 avril 2021. La ligne est fermée sur sa section charentaise entre Angoulême et Saillat-Chassenon depuis mars 2018 à la suite du constat que la plateforme s'était déformée, malgré des travaux d'urgence de régénération de la voie réalisés fin 2017, pour un coût de 3,12 M€ dont 1,06 M€ apportés par l'État. Avant sa fermeture, la ligne était empruntée par environ 80 000 voyageurs par an et circulée par 21 TER chaque jour. Des bus de substitution ont été mis en place sur la partie fermée de la ligne. L'État et la région Nouvelle Aquitaine se sont engagés pour la régénération de cette ligne au travers du volet mobilités du contrat de plan entre l'État et la région (CPER) 2015-2022. L'État a ainsi apporté 6,4 M€ pour financer les travaux d'urgence et les études préliminaires de régénération de la voie, qui ont été restituées fin 2023. Cet engagement sera confirmé dans le cadre du volet mobilités du CPER 2023-2027, dont la négociation est en cours de finalisation, avec la réalisation des études d'avant-projet et l'engagement d'une première phase des travaux avant 2027. S'agissant de l'ouverture de la ligne au trafic de marchandises, cette composante a été intégrée dans les scénarios étudiés dans le cadre des études préliminaires livrées fin 2023. L'opportunité d'ouverture de la ligne au trafic de marchandises sera également examinée lors de la prochaine phase d'études.
