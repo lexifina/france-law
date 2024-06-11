@@ -1,0 +1,9 @@
+# Réponse à la question n° 13344
+
+- Question : [13344](13344.md) — Question n° 13344 — Augmentation du prix des billets de train
+
+## Réponse
+
+*JO du 2024-06-11, page 4955*
+
+En décembre 2022, une hausse des redevances d'utilisation de l'infrastructure ferroviaire pour le cycle tarifaire 2024-2026 a été décidée par le conseil d'administration de la société SNCF Réseau. Les redevances d'utilisation de l'infrastructure ferroviaire proposées pour le cycle tarifaire 2024-2026 sont ainsi notamment marquées par une hausse d'environ 8 % en 2024 pour les services conventionnés de transports de voyageurs. Cette hausse est appliquée pour répondre en partie aux effets de l'inflation qui touchent particulièrement le secteur ferroviaire et s'avère nécessaire pour maintenir un niveau d'ambition élevé pour le renouvellement et l'exploitation du réseau. Les redevances d'accès des trains régionaux, prises en charge par l'État, ont subi la même évolution : l'effort pour le réseau ferroviaire est donc partagé. Le gouvernement est attentif à l'accessibilité de l'ensemble des tarifs des transports publics, d'une manière générale, et à celle des tarifs voyageurs de la SNCF, en particulier. Comme chaque année au début du mois de janvier, la SNCF a réévalué les prix pratiqués sur ses trains à réservation obligatoire dans le respect de l'homologation des tarifs plafonds par le ministère des transports. A la demande du gouvernement, les tarifs des Ouigo et des Intercités ont été gelés pour l'année 2024, ainsi que les prix des cartes Avantage et de la carte Liberté. Sur les tarifs des TGV Inoui, la SNCF a mis en place un bouclier tarifaire limitant la hausse des prix maximaux en moyenne au niveau de l'inflation anticipée pour l'année 2024 (2,6 %). Cette majoration est ainsi inférieure à l'inflation constatée en 2023 (4,9 %) et à l'augmentation des charges de la SNCF (estimée à 7 %).
