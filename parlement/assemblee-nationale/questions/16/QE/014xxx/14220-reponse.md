@@ -1,0 +1,9 @@
+# Réponse à la question n° 14220
+
+- Question : [14220](14220.md) — Question n° 14220 — Inaccessibilité des nouvelles lignes de train de nuit
+
+## Réponse
+
+*JO du 2024-06-11, page 4963*
+
+Le Gouvernement agit pour améliorer l'accessibilité dans les trains d'équilibre du territoire (TET). Ainsi, le nouveau matériel « Oxygène » appelé à circuler sur les lignes TET Paris-Clermont-Ferrand et Paris-Limoges-Toulouse et par la suite sur la ligne TET Bordeaux-Marseille, permettra aux voyageurs en fauteuil roulant d'accéder et de sortir des rames en toute autonomie dans les gares avec des quais normalisés, et permettra de proposer, pour la première fois en France, des places dans les deux classes de tarification à ces voyageurs et à leurs accompagnants. Concernant les lignes de nuit Paris-Aurillac et Paris-Berlin, il a été jugé préférable de mettre en service rapidement ces lignes même de façon incomplète. Elles ont ainsi pu être mises en service en décembre 2023 car elles sont exploitées aujourd'hui avec du matériel ancien : des voitures Corail SNCF pour Aurillac ; du matériel des chemins de fer autrichiens (ÖBB Nightjet) pour Berlin. Il s'agissait de la seule possibilité pour mettre en place rapidement ces lignes puisqu'il n'existe pas de matériel de nuit récent disponible et, pour la France, de marché-cadre permettant d'acquérir rapidement du matériel neuf. Parallèlement à cette rénovation, le Gouvernement examine actuellement les modalités du renouvellement du matériel roulant de nuit. Ce nouveau matériel devra répondre à toutes les obligations réglementaires, notamment en matière d'accessibilité. Ainsi, des lits spécifiques seront prévus pour les voyageurs en fauteuil roulant, qui auront également accès à des sanitaires adaptés. Le matériel sera adapté aux autres handicaps avec, par exemple, des annonces à la fois sonores et visuelles.
