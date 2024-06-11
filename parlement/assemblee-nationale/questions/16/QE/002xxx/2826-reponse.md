@@ -1,0 +1,9 @@
+# Réponse à la question n° 2826
+
+- Question : [2826](2826.md) — Question n° 2826 — Situation des ambulanciers
+
+## Réponse
+
+*JO du 2024-06-11, page 4897*
+
+Le transport sanitaire privé est un maillon indispensable de la chaîne de prise en charge des patients, au sein duquel les ambulanciers jouent un rôle essentiel. Plusieurs travaux relatifs à la réingénierie du métier d'ambulancier et à leur activité, menés par le ministère de la santé et de la prévention, ont permis depuis 2022 d'accroitre la reconnaissance des compétences des ambulanciers en tant que professionnels de santé et du transport sanitaire. Par ailleurs, les travaux permettant la certification des ambulanciers par la voie de la VAE débuteront prochainement. Le ministère de la santé et de la prévention souhaite également lever le frein, pour l'accès à la profession, du permis de conduire probatoire. De plus, les entreprises de transport sanitaire ont bénéficié d'une aide du ministère de la santé et de la prévention de 90 millions d'euros en 2022, pour accompagner des revalorisations salariales. Les négociations avec l'Assurance maladie ont par ailleurs abouti le 13 avril 2023 à un accord de revalorisation tarifaire qui renforce et valorise les missions et le rôle des transporteurs sanitaires. En complément de ces revalorisations tarifaires, les entreprises de transport sanitaire bénéficieront de nouvelles aides du ministère de la santé et de la prévention, pour un montant de 190 millions d'euros en 2023 et de 90 millions d'euros en 2024. Dans ce contexte, les partenaires sociaux, dans le cadre de la négociation collective de branche, ont signé le 6 février 2023 un avenant qui revalorise les frais de déplacement des ambulanciers compte-tenu de l'inflation, et le 19 juin 2023 un avenant qui revalorise les minimas conventionnels de rémunération des ambulanciers.
