@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONVENTION D'OCCUPATION TEMPORAIRE AVEC PAYS D'AIX HABITAT MÉTROPOLE (PAHM) POUR LA MISE A DISPOSITION D'UN ESPACE POUR DES ÉQUIPEMENTS SPORTIFS DE PROXIMITÉ - AUTORISER MADAME LE MAIRE OU SON REPRÉSENTANT A SIGNER
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2024-06-12
+- Séance : Conseil Municipal 1CA
+- Objet : CONVENTION D'OCCUPATION TEMPORAIRE AVEC PAYS D'AIX HABITAT MÉTROPOLE (PAHM) POUR LA MISE A DISPOSITION D'UN ESPACE POUR DES ÉQUIPEMENTS SPORTIFS DE PROXIMITÉ - AUTORISER MADAME LE MAIRE OU SON REPRÉSENTANT A SIGNER
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-19954-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
