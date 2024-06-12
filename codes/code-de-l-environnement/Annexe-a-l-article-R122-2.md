@@ -24,13 +24,15 @@ Installations classées pour la protection de l'environnement (ICPE)
 
 1. Installations classées pour la protection de l'environnement |
 
-a) Installations mentionnées à l'article L. 515-28 du code de l'environnement. |
+a) Installations mentionnées à l'article L. 515-28 du code de l'environnement, à l'exception des élevages intensifs de volailles ou de porcs mentionnés par la rubrique 3660 de la nomenclature des installations classées pour la protection de l'environnement. |
 
 a) Autres installations classées pour la protection de l'environnement soumises à autorisation.
 
 b) Autres installations classées pour la protection de l'environnement soumises à enregistrement (pour ces installations, l'examen au cas par cas est réalisé dans les conditions et formes prévues aux articles L. 512-7-2 et R. 512-46-18 du code de l'environnement.
 
-c) Extensions inférieures à 25 ha des carrières soumises à autorisation mentionnées par la rubrique 2510 de la nomenclature des ICPE
+c) Extensions inférieures à 25 ha des carrières soumises à autorisation mentionnées par la rubrique 2510 de la nomenclature des ICPE.
+
+d) Les essais d'injection et de soutirage de CO2 en formation géologique d'une quantité inférieure à 100 kilotonnes, lorsqu'ils sont réalisés pendant la phase de recherche.
 
 |
 
@@ -40,9 +42,17 @@ c) Carrières soumises à autorisation mentionnées par la rubrique 2510 de la n
 
 d) Parcs éoliens soumis à autorisation mentionnés par la rubrique 2980 de la nomenclature des installations classées pour la protection de l'environnement. |
 
-e) Elevages bovins soumis à autorisation mentionnés par la rubrique 2101 (élevages de veaux de boucherie ou bovins à l'engraissement, vaches laitières) de la nomenclature des installations classées pour la protection de l'environnement. |
+e) Elevages intensifs mentionnés par la rubrique 3660 de la nomenclature des installations classées :
 
-f) Stockage géologique de CO 2 soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour la protection de l'environnement. |
+-de plus de 85 000 emplacements pour les poulets et 60 000 emplacements pour les poules ;
+
+-de plus de 3 000 emplacements pour les porcs de production (de plus de 30 kg) ;
+
+-de plus de 900 emplacements pour les truies.
+
+|
+
+f) Stockage géologique de CO 2 soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour la protection de l'environnement, à l'exception des essais d'injection et de soutirage en formation géologique d'une quantité inférieure à 100 kilotonnes, lorsqu'ils sont réalisés pendant la phase de recherche. |
 
 g) Usines intégrées de première fusion de la fonte et de l'acier. |
 
@@ -364,7 +374,7 @@ d) Forages pour l'exploration ou l'exploitation de gîtes géothermiques, à l'e
 
 e) Forages de puits pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux, d'hydrogène, de produits chimiques à destination industrielle ;
 
-f) Autres forages en profondeur de plus de 100 mètres, à l'exclusion des forages géothermiques de minime importance, au sens de l'article L. 112-3 du code minier.
+f) Autres forages en profondeur de plus de 100 mètres, à l'exclusion des forages géothermiques de minime importance, au sens de l'article L. 112-2 du code minier.
 
 |
 
@@ -552,15 +562,15 @@ b) Parcs d'attractions à thème et attractions fixes.
 
 c) Terrains de golf et aménagements associés d'une superficie supérieure à 4 hectares.
 
-d) Autres équipements sportifs, culturels ou de loisirs et aménagements associés.
+d) Autres équipements sportifs, culturels ou de loisirs et aménagements associés susceptibles d'accueillir plus de 1 000 personnes.
 
 |
 
-45. Opérations d'aménagements fonciers agricoles et forestiers mentionnées au 1° de l'article L. 121-1 du code rural et de la pêche maritime, y compris leurs travaux connexes. |
+45. Opérations d'aménagements fonciers agricoles et forestiers, mentionnées au 1° de l'article L. 121-1 du code rural et de la pêche maritime, y compris leurs travaux connexes. |
+
+|
 
 Toutes opérations. |
-
-|
 
 46. Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive. |
 
@@ -603,3 +613,7 @@ Toute création ou extension.
 |
 
 (*) Etablissement : ensemble d'installations relevant d'un même exploitant sur un même site.
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2024-529 du 10 juin 2024, ces dispositions sont applicables aux projets pour lesquels la première autorité compétente pour autoriser le projet ou l'autorité chargée de l'examen au cas par cas sont saisies à compter de la publication dudit décret.
