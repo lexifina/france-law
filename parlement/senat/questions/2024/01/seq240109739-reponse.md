@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240109739
+
+- Question : [SEQ240109739](seq240109739.md) — Circulation de transit à Melun et en forêt de Fontainebleau
+
+## Réponse
+
+*Transports, JO du 2024-06-13, page 2848*
+
+La direction départementale des territoires de Seine-et-Marne conduit actuellement des études visant à objectiver le trafic des véhicules légers et poids lourds dans le secteur considéré et notamment dans la traversée de Melun, ainsi que les phénomènes de congestion constatés, en vue de dégager des solutions à même d'y remédier. En tout état de cause, l'hypothèse du déplacement du péage des Eprunes, situé sur l'autoroute A5, ne semble pas opportune dans la mesure où le fait de rendre gratuits des trajets aujourd'hui payants devrait nécessairement se traduire, en vue de préserver l'équilibre économique de la concession de la société APRR, par une hausse des tarifs de péage sur d'autres trajets de son réseau. Or, une telle hausse de péage ne se traduirait par aucune contrepartie directe en termes de service rendu pour les usagers concernés, ce qui irait à l'encontre de l'appréciation par le juge administratif du principe de proportionnalité, telle qu'illustré par la récente jurisprudence de janvier 2023 du Conseil d'Etat concernant le contournement ouest de Montpellier. Il est à noter par ailleurs que dans le cadre du plan d'investissement mobilités contractualisé début 2023 avec la société APRR, il est prévu à l'horizon 2028 la réalisation d'un programme de travaux structurants sur la section de l'autoroute A6 située au sud de la RN104 - dite la Francilienne. Ces travaux comprendront notamment l'amélioration du point d'échange entre l'A6 et la RN104 et la mise en place d'un système de régulation dynamique des vitesses en vue de fluidifier le trafic sur cette section et la rendre ainsi plus attractive.
