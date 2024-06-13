@@ -1,667 +1,373 @@
 # Article Annexe 5
 
-LA FORMATION INITIALE DES ANIMATEURS DES STAGES DE SENSIBILISATION
+LA FORMATION INITIALE DES ANIMATEURS DES STAGES DE SENSIBILISATION À LA SÉCURITÉ ROUTIÈRE DESTINÉS AUX CONDUCTEURS INFRACTIONNISTES
 
-À LA SÉCURITÉ ROUTIÈRE DESTINÉS AUX CONDUCTEURS INFRACTIONNISTES
+Pour pouvoir être qualifiés par le ministère chargé de la sécurité routière, les animateurs des stages de sensibilisation à la sécurité routière doivent suivre une formation initiale de cinq semaines minimum, entrecoupée d'une ou plusieurs périodes d'intersession dans un établissement dispensant des stages de sensibilisation à la sécurité routière agréés.
 
-Pour pouvoir être qualifiés par le ministère chargé de la sécurité routière, les animateurs des stages de sensibilisation à la sécurité routière doivent suivre une formation théorique entrecoupée d'une période d'alternance dans un établissement dispensant des stages de sensibilisation à la sécurité routière.
+Cette formation est basée sur un référentiel d'activité et de compétences, axée sur l'acquisition de cinq grandes classes de compétences.
 
-La formation initiale, axée sur l'acquisition de cinq grandes classes de compétences, se déroule selon les conditions suivantes :
+Elle se déroule selon les modalités suivantes :
 
-Durée de la formation :
+1. Conditions d'admission à la formation initiale
 
-La formation comprend cinq semaines minimum de formation théorique et une ou plusieurs périodes d'alternance permettant d'expérimenter une ou plusieurs séquences du stage, d'observer les pratiques d'animateurs, de procéder à un retour d'expérience pour renforcer l'acquisition des compétences requises.
+Le ministère en charge de la sécurité routière fixe annuellement en accord avec l'INSERR le nombre de sessions de formation initiale des animateurs.
 
-Effectifs de la formation :
+Ils déterminent ensemble le processus d'admission en formation initiale des candidats et l'INSERR choisit les méthodes et outils pertinents (entretien de motivation, test de positionnement …).
 
-La formation est organisée sous forme de sessions regroupant, de manière équilibrée, psychologues et experts en sécurité routière.
+2. Durée de la formation et observation des stages
 
-Moyens de la formation :
+La formation initiale comprend cinq semaines minimum de formation à l'INSERR. A partir de la sélection de la candidature, le candidat se doit d'observer deux stages de sensibilisation à la sécurité routière, puis plusieurs stages lors de l'intersession. Ces observations ont pour objectif l'analyse des pratiques, l'expérimentation d'une ou plusieurs séquences de stage, et de recueillir des éléments pour un retour d'expérience.
 
-La formation est assurée par l'Institut national de sécurité routière et de recherches (INSERR) dans le souci de garantir l'homogénéité des formations et la qualité du service offert aux usagers de la route. Elle est dispensée par différents formateurs, notamment des intervenants institutionnels permettant d'inscrire le métier dans une mission de service public, des chercheurs, des animateurs expérimentés.
+3. Composition du groupe
 
-La formation est réalisée en mettant en œuvre les méthodes pédagogiques suivantes : exposés, études de cas, ateliers.
+La formation est organisée sous forme de sessions regroupant, de manière équilibrée, psychologues et experts en sécurité routière sauf en cas de circonstance exceptionnelle.
 
-Un dossier regroupant de la documentation relative aux axes de travail décrits ci-dessous est remis aux stagiaires.
+4. Moyens de la formation
 
-Evaluation de la formation :
+La formation initiale est organisée par l'INSERR dans le souci de garantir sa qualité, son homogénéité et son actualisation au plan scientifique et réglementaire. Elle est dispensée par des intervenants institutionnels, des chercheurs dans les domaines de la sécurité routière, de la psychologie, de la sociologie, de l'addictologie, … Elle est encadrée par une équipe pédagogique dédiée à la professionnalisation des stagiaires sous la direction d'un responsable pédagogique.
 
-Une évaluation de la formation est effectuée à la fin de chaque semaine de formation. Conçue comme un processus continu d'autoévaluation, elle permet à chaque stagiaire d'apprécier sa progression par rapport aux compétences à acquérir et aux thèmes de formation ainsi que de mesurer l'effort et le travail personnel à fournir pour se mettre à niveau. Elle donne aussi des indications aux formateurs pour faciliter le processus de formation.
+La formation alterne des temps de méthodes magistrales et de méthodes actives en fonction des objectifs poursuivis, en lien avec le référentiel de compétences.
 
-Délivrance des attestations de suivi de formation :
+Les animateurs disposent d'un guide d'animation développé par l'INSERR qui favorise la cohérence pédagogique, facilite la coanimation, leur permet de varier les situations didactiques et d'avoir des repères théoriques régulièrement actualisés.
 
-L'INSERR adresse au ministère chargé de la sécurité routière, à l'issue de chaque session de formation, la liste des personnes formées afin que puissent être établies les attestations de formation conformes à l'annexe 2 du présent arrêté.
+5. Evaluation de la formation
 
-Axes de travail et compétences associées
+L'évaluation porte sur les connaissances et les compétences des stagiaires. Elle est mise en œuvre dans le respect du cadre légal et réglementaire des organismes de formation.
 
-AXES DE TRAVAIL
+Un processus continu d'autoévaluation permet également à chaque stagiaire d'apprécier sa progression par rapport aux compétences à acquérir.
 
-Compétences générales
+6. Délivrance des attestations de suivi de formation
 
-|
-
-COMPÉTENCES ASSOCIÉES
-
-|
-
-Axe 1 ― Compétences techniques et administratives.
-
-|
-
-C1 ― Maîtriser les connaissances permettant d'intégrer le contexte français de sécurité routière dans le cadre européen.
-
-|
-
-C2 ― Maîtriser les procédures administratives et réglementaires du permis à points.
-
-|
-
-Axe 2 ― Compétences liées à la communication.
-
-|
-
-C3 ― Maîtriser les principales techniques de communication.
-
-|
-
-C4 ― Maîtriser les techniques de l'entretien.
-
-|
-
-Axe 3 ― Compétences liées à l'animation.
-
-|
-
-C5 ― Gérer la dynamique d'un groupe restreint.
-
-|
-
-C6 ― Gérer la coanimation.
-
-|
-
-Axe 4 ― Compétences pédagogiques et pratique réflexive.
-
-|
-
-C7 ― Maîtriser l'organisation et la mise en œuvre des séquences pédagogiques.
-
-|
-
-C8 ― Evaluer l'évolution des représentations.
-
-|
-
-C8 bis ― S'autoévaluer et réfléchir sur les pratiques.
-
-|
-
-Axe 5 ― Compétences psychoéducatives.
-
-|
-
-C9 ― Sensibiliser à la dimension sociale de la conduite.
-
-|
-
-C10 ― Maîtriser l'ensemble des règles et en faire comprendre la nécessité.
-
-|
-
-C11 ― Gérer ses interventions en fonction du profil des stagiaires.
-
-|
-
-C12 ― Gérer l'émotionnel.
-
-|
-
-Objectifs pédagogiques de la formation initiale des animateurs. ―
-
-Phase préparatoire à la formation théorique
-
-AXES
-
-de travail
-
-|
-
-COMPÉTENCES VISÉES
-
-|
-
-OBJECTIFS PÉDAGOGIQUES
-
-|
-
-Axe 1
-
-|
-
-C2 ― Maîtriser les procédures administratives et réglementaires du permis à points.
-
-|
-
-Préparer sa formation.
-
-|
-
-Appréhender le fonctionnement possible d'un stage "permis à points".
-
-|
-
-S'interroger sur sa future pratique et le positionnement d'un animateur " permis à points".
-
-|
-
-Axe 4
-
-|
-
-C8 bis ― S'autoévaluer et réfléchir sur les pratiques.
-
-|
-
-Se documenter sur la dynamique de groupe, la tâche de conduite, le rôle de l'animateur, le cadre des stages "permis à points".
-
-|
-
-S'interroger sur les compétences à mettre en œuvre pour gérer ce type de stage.
-
-|
-
-La formation théorique
-
-AXES
-
-de travail
-
-|
-
-COMPÉTENCES VISÉES
-
-|
-
-OBJECTIFS PÉDAGOGIQUES
-
-|
-
-Axe 1
-
-|
-
-C1 ― Maîtriser les connaissances permettant d'intégrer le contexte français de sécurité routière dans le cadre européen.
-
-|
-
-Situer le contexte de sécurité routière en France par rapport au contexte européen.
-
-Connaître l'organigramme des instances de sécurité routière, leurs rôles et missions.
-
-|
-
-|
-
-C2 ― Maîtriser les procédures administratives et réglementaires du permis à points.
-
-|
-
-Connaître les exigences de qualité du ministère chargé de la sécurité routière dans le cadre d'une mission de service public. |
-
-Connaître la réglementation, le fonctionnement du permis à points et du permis probatoire.
-
-|
-
-Appréhender la complexité du système par des exemples.
-
-|
-
-Connaître la politique de contrôle et les différentes étapes de la procédure administrative et pénale.
-
-|
-
-Découvrir les principales infractions de contentieux routier.
-
-|
-
-Appréhender l'organisation du système judiciaire.
-
-|
-
-Connaître le dispositif institutionnel d'action pénale.
-
-|
-
-Se familiariser avec les aspects historiques de l'action répressive en sécurité routière et les moyens d'évaluation du contrôle répressif.
-
-|
-
-Appréhender l'organisation, les missions du fichier national du permis de conduire.
-
-|
-
-Découvrir les modalités d'application et de gestion du permis à points.
-
-|
-
-Connaître les voies de recours.
-
-|
-
-Axe 2
-
-|
-
-C3 ― Maîtriser les principales techniques de communication.
-
-C4 ― Maîtriser les techniques de l'entretien.
-
-|
+La validation de la formation est soumise à certaines conditions :
 
-Technique d'écoute active : les attitudes et leurs effets sur la communication.
+-avoir suivi l'intégralité de la formation dispensée par l'INSERR ;
 
-|
-
-Repérer les attitudes qui ferment à l'écoute de l'autre, développer les attitudes d'ouverture.
-
-|
-
-Technique d'écoute active : les questions comme facilitation de l'expression.
-
-|
-
-Connaître les différents types de questions et leurs fonctions.
-
-|
-
-Varier les registres de questionnement.
-
-|
-
-Technique d'écoute active : le détour par l'imaginaire, le silence :
-
-|
+-respecter le règlement intérieur de l'INSERR ;
 
-Développer l'écoute et gérer les silences.
+-avoir suivi les stages d'observation et animé les séquences demandées ;
 
-|
-
-Technique d'écoute active : la reformulation comme favorisant l'expression.
-
-|
-
-Utiliser les différentes formes de reformulation selon les contextes.
-
-|
-
-Axe 3
+-avoir remis un rapport d'intersession, validé par l'équipe pédagogique, en conformité avec le cahier des charges ;
 
-|
+-en cas d'absence à une partie de la formation, avoir suivi et validé le complément de formation proposé par l'INSERR, le cas échéant.
 
-C5 ― Gérer la dynamique d'un groupe restreint.
+Après validation de la formation par l'INSERR, la liste des personnes formées est adressée au ministère chargé de la sécurité routière afin que puissent être établies les attestations de formation conformes à l'annexe 2 du présent arrêté. En cas de nécessité de complément de formation, la remise de l'attestation est reportée jusqu'à la régularisation de cette condition.
 
-|
+Axe de travail et compétences associées
 
-Le groupe et son fonctionnement : le groupe du stage " permis à points" :
+Compétences techniques
 
-Définir le groupe " permis à points".
+et administratives |
 
-Evoquer les lois qui régissent ces groupes.
+Savoirs |
 
-|
+Savoir-Faire |
 
-C6 ― Gérer la coanimation.
+Savoir-Faire comportementaux |
 
-|
+C 1. Maîtriser les connaissances permettant d'intégrer le contexte français de sécurité routière dans un cadre européen |
 
-L'observation d'un groupe :
+S 1. Connaître les principales sources d'information
 
-Se former à l'observation du fonctionnement d'un groupe.
+S 2. Avoir des notions sur les différents systèmes de permis dans le cadre européen
 
-Savoir différencier les niveaux d'observation.
+S 3. Connaître la politique de sécurité routière
 
 |
 
-Axe 5
+SF 1. Etre capable de s'informer
 
-|
+SF 2. Savoir se repérer dans les documents à disposition
 
-C11 ― Gérer ses interventions en fonction du profil des stagiaires.
+SF 3. Etre capable d'informer
 
 |
 
-Les besoins des participants dans un groupe :
+SFC 1. Etre disponible, ouvert avec les participants (stagiaires, collègues,…) |
 
-Savoir identifier les besoins des participants.
+C 2. Maîtriser les procédures administratives et réglementaires du permis à points |
 
-Mettre en rapport les besoins des participants avec le fonctionnement du groupe.
+S 4. Connaître, les actions et procédures judiciaires en matière d'infractions au code de la route
 
-|
+S 5. Connaître les actions et procédures administratives en matière d'infractions au code de la route
 
-Axe 4
+S 6. Connaître les procédures administratives et réglementaires du permis à points
 
-|
+S 7. Connaître le cadre juridique du permis à points
 
-C7 ― Maîtriser l'organisation et la mise en œuvre des séquences pédagogiques.
+S 8. Connaître les moyens matériels à utiliser dans le stage
 
 |
-
-Connaître les logiques des stages première et deuxième génération, les présupposés, les modèles de changement (autorégulation, Prochaska, Di Clemente...), les modèles didactiques (modèle hiérarchique du comportement du conducteur).
 
-Différencier logique de stage, parcours et trame.
+SF 4. Gérer l'organisation matérielle du stage
 
-Comprendre la méthode de construction d'un parcours en fonction d'une problématique (vitesse ou produits psychoactifs).
+SF 5. Savoir analyser des questionnaires et en faire la synthèse
 
-S'approprier des techniques d'animation : le lancement d'une séquence et la mise en œuvre d'une séquence.
+SF 6. Positionner le permis à points dans le continuum éducatif de sécurité routière
 
-Appliquer les techniques d'animation aux situations didactiques.
-
-S'approprier un format de trame pour les séquences à animer pendant l'intersession.
-
-S'assurer de la compréhension du travail à effectuer pendant l'intersession.
-
-Commencer à élaborer les trames des deux séquences à animer pendant l'intersession.
-
-S'organiser au niveau des documents et de la bibliographie.
-
-|
-
-Axe 4
-
 |
 
-C8 ― Evaluer l'évolution des représentations.
+SFC 2. Etre attaché au respect du cadre du stage (ponctualité, volume horaire, présence continue des deux formateurs)
 
-|
-
-Appréhender le métier d'animateur " permis à points" et les spécificités des professions en présence (psychologue/formateur sécurité routière).
+SFC 3. Etre curieux vis à vis des connaissances
 
 |
 
-Appréhender la spécificité du psychologue dans le stage "permis à points".
+C 3. Maîtriser les principales techniques de communication
 
 |
 
-Appréhender la spécificité du formateur sécurité routière dans le stage "permis à points".
-
-|
+S 9. Connaître les lois de la communication interpersonnelle et de groupe |
 
-Axe 4
+SF 7. Savoir repérer ce qui nuit à la communication
 
-|
+SF 8. Savoir utiliser le feed back
 
-C8 bis ― S'autoévaluer et réfléchir sur les pratiques.
+SF 9. Savoir exploiter la communication non verbale
 
 |
 
-Définir le rôle du psychologue dans le stage "permis à points".
+SFC 4. Etre intéressé par autrui
 
-|
+SFC 5. Etre à l'écoute des opinions
 
-Définir le rôle du formateur sécurité routière dans le stage " permis à points".
+SFC 6. Etre observateur des réactions du groupe et de son collègue
 
 |
 
-Axe 3
+C 4. Maîtriser les techniques d'entretien |
 
-|
+S 10. Connaître les techniques d'entretien
 
-C12 ― Gérer l'émotionnel.
+S 11. Connaître les règles de déontologie d'un entretien
 
 |
-
-Examiner les concepts de base de la posture réflexive.
 
-Etre capable d'une réflexion distancée dans et après sa pratique.
+SF 10. Savoir reformuler
 
-|
+SF 11. Savoir utiliser le silence
 
-Axe 5
+SF 12. Savoir varier le registre des questions
 
-|
+SF 13. Savoir adapter son langage aux contextes
 
-C6 ― Gérer la coanimation.
+SF 14. Savoir susciter l'expression
 
 |
 
-Analyser sa posture de stagiaire vis-à-vis de l'expert.
+SFC 7. Etre capable de neutralité
 
-Découvrir un outil d'analyse de pratique.
+SFC 8. Etre capable de créer un climat de confiance
 
-Evaluer régulièrement l'expérience acquise.
+SFC 9. Etre cohérent entre son discours et ses actes
 
-Etre capable d'autoévaluer les compétences acquises et savoir établir un bilan.
-
 |
 
-.
+C 5. Gérer la dynamique d'un groupe restreint |
 
-AXES
+S 12. Connaître le fonctionnement d'un groupe restreint
 
-de travail
+S 13. Connaître les différents types d'influences sociales dans un groupe
 
-|
+S 14. Connaître les caractéristiques et processus de changement d'un groupe
 
-COMPÉTENCES VISÉES
+S 15. Avoir des notions sur les règles d'utilisation de l'espace
 
 |
 
-OBJECTIFS PÉDAGOGIQUES
+SF 15. Savoir identifier les différents profils, dans un groupe et savoir réguler les échanges
 
-|
+SF 16. Savoir gérer les interactions entre les stagiaires
 
-Axe 2
+SF 17. Savoir gérer les séquences en fonction du temps et des besoins du groupe
 
-|
+SF 18. Savoir faire des synthèses
 
-C3 ― Maîtriser les principales techniques de communication.
+SF 19. Savoir faire des transitions
 
 |
 
-Analyse du matériau issu de la préparation, de l'observation et de l'animation des séquences de stage :
+SFC 10. Etre conscient de l'importance de la voix, du gestuel et du regard
 
-|
+SFC 11. Etre capable de s'adapter à des groupes variés
 
-C4 ― Maîtriser les techniques de l'entretien.
+SFC 12. Eviter de s'écouter parler
 
 |
-
-Les contextes de mise en place des séquences
 
-L'observation
+C 6. Gérer la coanimation |
 
-La cohérence des parcours
+S 16. Connaître les modes de fonctionnement d'un binôme
 
-Les trames des séquences mises en œuvre lors de l'intersession.
+S 17. Connaître les principes d'autorité (pouvoir, soumission…)
 
 |
 
-Axe 3
+SF 20. Savoir établir des stratégies d'animation à deux
 
-|
-
-C5 ― Gérer la dynamique d'un groupe restreint.
-
-|
+SF 21. Savoir articuler ses interventions avec son binôme
 
-Travail sur la mise en œuvre des séquences : recueil, traitement :
+SF 22. Savoir animer toutes les séquences à deux
 
 |
 
-C6 ― Gérer la coanimation.
+SFC 13. Avoir confiance dans l'autre
 
-|
+SFC 14. Etre capable de laisser la parole
 
-Distinguer le recueil du traitement dans la mise en œuvre d'une séquence.
+SFC 15. Etre un appui utile pour son collègue
 
 |
 
-Axe 4
+C 7. Maîtriser l'organisation et la mise en œuvre des séquences pédagogiques |
 
-|
+S 18. Connaître les contenus relatifs aux objectifs du stage
 
-C7 ― Maîtriser l'organistion et la mise en œuvre des séquences pédagogiques.
+S 19. Comprendre la logique du fil conducteur
 
-|
+S 20. Comprendre la cohérence des séquences
 
-Elaborer une synthèse concernant les pratiques de l'animateur permis à points en tenant compte des observations effectuées et de l'analyse des pratiques.
+S 21. Comprendre les recommandations du mémento
 
-|
+S 22. Connaître les outils pédagogiques validés
 
-C8 bis ― S'autoévaluer et réfléchir sur les pratiques.
+S 23. Connaître les limites des différentes méthodes pédagogiques
 
 |
 
-S'entraîner à analyser sa pratique à l'aide d'un outil validé.
+SF 23. Savoir organiser les séquences pédagogiques (cf. mémento)
 
-|
+SF 24. Savoir élaborer des stratégies pédagogiques en cohérence avec le fil conducteur
 
-Evaluer régulièrement l'expérience acquise.
+SF 25. Savoir utiliser des outils et méthodes différents
 
-|
+SF 26. Savoir donner des consignes
 
-Etre capable d'autoévaluer les compétences acquises.
+SF 27. Savoir s'adapter aux contraintes
 
 |
 
-C11 Gérer ses interventions en fonction du profil des stagiaires.
+SFC 16. Faire preuve d'humilité
 
-|
+SFC 17. Etre capable de flexibilité mentale
 
-Savoir spécifier un parcours de stage.
+SFC 18. Etre tolérant
 
-|
+SFC 19. Faire preuve de patience
 
-Savoir gérer les séances.
+SFC 20. Avoir un sens pratique pour répondre à des situations variées
 
 |
 
-C12 ― Gérer l'émotionnel.
+C 8. Evaluer l'évolution des représentations |
 
-|
+S 24. Savoir comment se construit et évolue une représentation
 
-Vérifier la compréhension des fiches pratiques d'animation pour les diverses séquences.
+S 25. Connaître les principes de l'évaluation
 
 |
-
-S'approprier diverses techniques d'animation.
 
-|
+SF 28. Savoir repérer les représentations
 
-Participer à diverses mises en situation à partir de différents outils.
+SF 29. Mobiliser l'expérience acquise pour la soumettre progressivement à évaluation individuelle et collective
 
-|
+SF 30. Savoir exploiter les représentations des stagiaires
 
-Savoir établir un bilan.
+SF 31. Savoir établir un bilan et le restituer
 
 |
 
-Explorer les compétences de manière transversale afin de récapituler et compléter certains points.
-
 |
-
-Procéder à une synthèse générale sur les compétences acquises ou en cours d'acquisition et sur le transfert dans la pratique.
 
-|
+C 8 bis. S'auto évaluer et réfléchir sur les pratiques |
 
-La formation pratique en alternance (intersession)
+S 8 bis 1. Connaître les principes de la pratique réflexive
 
-AXES
+S 8 bis 2. Comprendre le lien entre la pratique réflexive et la professionnalisation
 
-de travail
+S 8 bis 3. Savoir comment se construit et se développe une posture réflexive |
 
-|
+SF 8 bis 1. Savoir comparer, expliquer, théoriser, formaliser les pratiques
 
-COMPÉTENCES VISÉES
+SF 8 bis 2. Savoir élaborer des hypothèses en rapport avec divers champs théoriques
 
-|
+SF 8 bis 3. Savoir passer de l'observation à la mise en mots
 
-OBJECTIFS PÉDAGOGIQUES
+SF 8 bis 4. Savoir effectuer une recherche documentaire
 
-|
+SF 8 bis 5. Savoir rédiger des écrits professionnels
 
-Axe 2
+SF 8 bis 6. Savoir rester objectif dans les échanges avec d'autres professionnels |
 
-|
+SFC 8 bis 1. Etre rigoureux dans ses analyses en les référant à des champs théoriques éprouvés
 
-C3 ― Maîtriser les principales techniques de communication.
+SFC 8 bis 2. Faire preuve d'éthique professionnelle
 
-|
+SFC 8 bis 3. Être lucide sur sa façon d'être
 
-Utiliser des techniques d'écoute active.
+SFC 8 bis 4. Être exigeant envers soi même
 
-Repérer les différentes attitudes et questions qui favorisent l'écoute et l'expression des stagiaires.
+SFC 8 bis 5. Développer une culture de l'observation, du questionnement
 
-|
+SFC 8 bis 6. Etre conscient du bénéfice apporté par l'échange ente professionnels |
 
-C4 ― Maîtriser les techniques de l'entretien.
+C 9. Sensibiliser à la dimension sociale de la conduite |
 
-|
+S 26. Connaître les règles de fonctionnement du système et comprendre leurs justifications |
 
-Utiliser la méthode de dynamique de groupe.
+SF 3. Susciter un intérêt pour la sécurité routière
 
-|
+SF 33. Susciter la réflexion sur le comportement routier
 
-Axe 3
+SF 34. Faire comprendre la nécessité de partager l'espace routier entre les divers usagers
 
 |
-
-C5 ― Gérer la dynamique d'un groupe restreint.
 
-|
+SFC 21. Etre conscient de l'importance de son adhésion personnelle aux règles de sécurité et de citoyenneté |
 
-Observer les différentes interactions entre les participants.
+C 10. Maîtriser l'ensemble des règles et en faire comprendre la nécessité |
 
 |
-
-Définir la mission du partenaire du binôme dans la mise en œuvre d'une séquence pédagogique.
 
-|
+SF 35. Faire comprendre le rôle, la raison d'être de la règle |
 
-C6 ― Gérer la coanimation.
+SFC 22. Avoir intégré que l'espace routier est un espace social |
 
-|
+C 11. Gérer ses interventions en fonction du profil des stagiaires (style conduite, problématique personnelle …) |
 
-|
+S 27. Connaître les différents comportements de transgression
 
-Axe 4
+S 28. Connaître les profils à risque
 
-|
+S 29 Connaître la différence entre attitude, fait, opinion et représentation
 
-C7 ― Maîtriser l'organisation et la mise en œuvre des séquences pédagogiques.
+S 30. Savoir comment pointer les contradictions
 
 |
 
-Connaître les logiques des stages " première et deuxième génération", les parcours et les trames.
+SF 36. Savoir repérer les comportements déviants et en tenir compte pour gérer le groupe |
 
-|
+SFC 23. Etre intègre dans ses actes
 
-S'approprier un format de trame.
+SFC 24. Etre lucide sur les résistances au changement
 
-|
+SFC 25. Etre conscient des limites de son intervention
 
-Axe 5
+SFC 26. Etre respectueux du code de déontologie
 
 |
 
-C8 bis ― S'autoévaluer et réfléchir sur les pratiques.
+C 12. Gérer l'émotionnel |
 
-|
+S 31. Avoir des notions sur le fonctionnement affectif des individus
 
-S'approprier des techniques d'animation.
+S 32. Avoir des notions sur les mécanismes de défense
 
 |
-
-C11 ― Gérer ses interventions en fonction du profil des stagiaires.
 
-|
+SF 37. Savoir faire adhérer aux règles relatives à la vie de groupe
 
-Etre capable d'une réflexion distanciée dans et après sa pratique.
+SF 38. Savoir identifier les mécanismes de défense et repérer ceux sur lesquels on peut agir
 
 |
 
-C12 ― Gérer l'émotionnel.
-
 |
-
-Repérer les diverses problématiques des stagiaires. |
