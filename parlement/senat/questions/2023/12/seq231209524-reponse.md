@@ -1,0 +1,9 @@
+# Réponse à la question SEQ231209524
+
+- Question : [SEQ231209524](seq231209524.md) — Réalisation du projet de ligne de train de nuit reliant Paris à Saint-Gervais-les-Bains-le-Fayet et à Bourg-Saint-Maurice
+
+## Réponse
+
+*Transports, JO du 2024-06-13, page 2845*
+
+Le train de nuit peut constituer, parmi les différents modes de transport, une réponse à la fois écologiquement vertueuse et socialement accessible, aux enjeux d'un aménagement équilibré des territoires. Dans le prolongement de la transmission au Parlement de l'étude sur le développement de nouvelles offres de trains d'équilibre du territoire prévue par la loi d'orientation des mobilités du 24 décembre 2019, l'action du Gouvernement s'est traduite par l'ouverture de trois nouvelles lignes de nuit Paris-Nice, Paris-Tarbes-Lourdes et Paris-Aurillac. Si l'étude évoque la perspective à long terme d'un réseau comprenant une vingtaine de lignes de nuit intérieures nécessitant 345 voitures et une quarantaine de locomotives, elle met également en avant la nécessité d'un phasage dans le déploiement des lignes de nuit, soulignant que la question de l'ordonnancement de la montée en puissance des offres est un enjeu structurant de son succès. C'est dans cette logique qu'est d'abord envisagé la pérennisation des lignes existantes, puis une éventuelle phase de 10 lignes de nuit, comprenant les lignes existantes. D'autres phases pourraient être mises en oeuvre par la suite. Aujourd'hui, la priorité est d'assurer le remplacement du matériel roulant utilisé, qui atteint plus de 45 ans et n'est plus en mesure de répondre aux attentes des usagers en matière de services, de confort et d'accessibilité. Le renouvellement du matériel roulant, dont le Gouvernement est en train d'étudier les modalités, concernera en premier lieu les lignes de nuit existantes. Une réflexion pourra être menée ultérieurement sur la mise en service de nouvelles dessertes de nuit à l'issue de cette première phase.
