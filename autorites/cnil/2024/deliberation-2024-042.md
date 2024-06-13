@@ -1,0 +1,210 @@
+# Délibération n° 2024-042 du 13 juin 2024 portant avis sur un projet d'arrêté portant création d'un traitement automatisé de données à caractère personnel dénommé « Système de traitement central LAPI » (STCL)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2024-042
+- Date : 2024-06-13
+- Publication : 2024-10-18
+- NOR : CNIX2427742V
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000050361934
+
+N° de demande d'avis : 24002588 |
+
+Thématiques : LAPI - Vidéoprotection |
+
+Organisme(s) à l'origine de la saisine : ministère de l'intérieur et ministère de l'économie, des finances et de la souveraineté industrielle et numérique |
+
+Fondement de la saisine : titre III de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés |
+
+L'essentiel :
+
+Le projet d'arrêté dont est saisie la CNIL crée le traitement STCL (Système de traitement central LAPI). Son objet est, d'une part, de permettre la centralisation des informations recueillies par les capteurs LAPI déployés sur l'ensemble du territoire par les services de police, de gendarmerie et des douanes dans une base nationale dont l'accès est strictement encadré, et, d'autre part, de répartir entre les directions la gestion des alertes en cas de correspondance avec un véhicule enregistré dans un autre traitement, par exemple le fichier des objets et véhicules signalés.
+
+En raison de de l'ampleur du traitement projeté, de ses impacts potentiels sur la vie privée du fait du nombre important de véhicules pouvant être concernés et du territoire couvert par l'ensemble des dispositifs LAPI, ainsi que de la centralisation des données, la CNIL estime qu'une vigilance particulière doit être apportée sur tous les aspects de la mise en œuvre d'un tel dispositif.
+
+La Commission nationale de l'informatique et des libertés,
+
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données ou RGPD) ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés ( loi informatique et libertés ), notamment son titre III et son article 31 ;
+
+Après avoir entendu le rapport de Mme Sophie Lambremon, commissaire, et les observations de M. Damien Milic, commissaire du Gouvernement,
+
+Adopte la délibération suivante :
+
+I. - La saisine
+
+A. - Le contexte
+
+L'article 26 de la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure modifié par l'article 8 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant diverses mesures relatives à la sécurité et aux contrôles frontaliers dispose que la mise en œuvre de dispositifs LAPI fixes ou mobiles est autorisée en tous points appropriés du territoire et en particulier dans les zones frontalières, portuaires ou aéroportuaires ainsi que sur les grands axes de transit national ou international, à des fins de police judiciaire voire administrative. Ces dispositions ont été codifiées aux articles L. 233-1 à L. 233-2 du code de la sécurité intérieure (CSI). Ces dispositifs LAPI peuvent notamment collecter les photographies, d'une part, de plaques d'immatriculation et, d'autre part, des véhicules concernés avec leurs éventuels occupants.
+
+L'arrêté du 18 mai 2009 portant création d'un traitement automatisé de contrôle des données signalétiques des véhicules définit le cadre réglementaire des traitements de contrôle automatisé des données signalétiques des véhicules utilisés par les services de police, de gendarmerie et des douanes. Actuellement, chaque dispositif LAPI constitue à lui seul un traitement automatisé autonome de données à caractère personnel. Selon les ministères, le fonctionnement isolé des dispositifs LAPI et la conservation locale des données collectées rendent leur exploitation difficile et complexe.
+
+B. - L'objet de la saisine
+
+La CNIL est saisie par le ministre de l'économie, des finances et de la souveraineté industrielle et numérique et le ministre de l'intérieur et des Outre-mer d'une demande d'avis relative à un projet d'arrêté portant création d'un traitement automatisé de données à caractère personnel dénommé Système de traitement central LAPI (STCL). Le projet d'arrêté crée un nouveau traitement qui centralise les données collectées par les LAPI déployés sur l'ensemble du territoire afin d'améliorer l'efficacité opérationnelle de ces dispositifs. Les données collectées, les mises en relation projetées et les durées de conservation visent à optimiser la localisation des véhicules volés, recherchés ou dont les conducteurs ont commis des infractions au code de la route.
+
+II. - L'avis de la CNIL
+
+A. - Sur les finalités du traitement
+
+La CNIL observe que les finalités du traitement STCL mentionnées à l'article 1er du projet renvoient à celles qui ont été définies aux articles L. 233-1 et L. 233-1-1 du CSI. Le traitement STCL a ainsi pour finalités de centraliser, exploiter et conserver les données à caractère personnel traitées par des dispositifs fixes ou mobiles de contrôle automatisé des données signalétiques des véhicules mis en œuvre dans les conditions et pour les finalités prévues par la loi.
+
+Toutefois, la CNIL relève qu'un nombre important de véhicules feront l'objet d'un enregistrement temporaire dans le STCL, y compris les véhicules dont la plaque d'immatriculation n'aura pas donné lieu, au moment de son enregistrement, à une correspondance avec les bases de données dites de comparaison , comme le fichier des objets et véhicules signalés (FOVeS). Ces enregistrements comprendront notamment des photographies horodatées et géolocalisées des véhicules et de leurs éventuels occupants.
+
+A titre indicatif, le ministère a fourni les chiffres d'un capteur LAPI en activité : à chaque instant, la base de données de ce capteur spécifique contient en moyenne les enregistrements temporaires relatifs à 90 000 véhicules distincts, pour un total de 3,3 millions d'enregistrements réalisés par ce capteur sur un an. Le ministère prévoit que le STCL pourra centraliser les données de plusieurs centaines de capteurs. La CNIL estime que, du fait du nombre important de véhicules concernés par ces enregistrements réalisés en prévision d'une éventuelle correspondance, ce traitement est susceptible de porter atteinte aux droits et libertés des personnes concernées.
+
+En raison de l'ampleur du traitement, de ses impacts potentiels sur la vie privée du fait du nombre important de véhicules pouvant être concernés et du territoire couvert par l'ensemble des dispositifs LAPI, ainsi que de la centralisation des données réalisée par un traitement déployé sur l'ensemble du territoire (près de 675 capteurs à ce jour), la CNIL estime qu'une attention particulière doit être portée à tous les aspects de la mise en œuvre d'un tel dispositif. Cette vigilance implique par exemple le renforcement des mesures de sécurité afin de prévenir le risque de toute violation de données.
+
+B. - Sur les données collectées
+
+En premier lieu, le I de l'article 3 du projet d'arrêté prévoit que peuvent être enregistrées les données collectées par les dispositifs de contrôle automatisé des données signalétiques des véhicules, c'est-à-dire :
+
+-a photographie de la plaque d'immatriculation du véhicule et son taux de lisibilité ;
+
+le numéro d'immatriculation du véhicule ;
+
+les photographies du véhicule et de ses éventuels occupants ;
+
+la date et l'heure de chaque photographie ;
+
+pour chaque photographie, l'identifiant et les coordonnées de géolocalisation du dispositif de contrôle automatisé ;
+
+le pays d'immatriculation du véhicule ;
+
+le cas échéant, la direction de circulation du véhicule ;
+
+le code de l'unité ou du service responsable du dispositif de contrôle automatisé.
+
+En deuxième lieu, le II de l'article 3 prévoit qu'en cas de rapprochement révélant une correspondance avec un des numéros d'immatriculation enregistrés dans les traitements mentionnés à l'article 2, peuvent également être enregistrées les données et informations suivantes :
+
+la date et l'heure de la correspondance ;
+
+la nature de la correspondance (immédiate ou différée) ;
+
+la marque, le modèle et, le cas échéant, la couleur du véhicule ;
+
+la date d'inscription dans les traitements mentionnés à l'article 2 ;
+
+le motif du signalement ;
+
+la conduite à tenir pour les véhicules placés sous surveillance.
+
+En troisième lieu, le III de l'article 3 prévoit que peuvent également être enregistrées les données à caractère personnel et informations relatives aux véhicules volés ou signalés suivantes :
+
+le traitement d'origine ;
+
+l'identifiant technique dans le traitement d'origine ;
+
+le numéro d'immatriculation du véhicule signalé ;
+
+le pays d'immatriculation du véhicule signalé ;
+
+la marque du véhicule signalé ;
+
+le modèle du véhicule signalé ;
+
+la couleur du véhicule signalé ;
+
+le code de la conduite à tenir associé au motif du signalement ;
+
+la dangerosité liée au véhicule signalé ;
+
+les dates d'inscription du véhicule signalé dans les traitements mentionnés à l'article 2 ;
+
+le service inscripteur du signalement ;
+
+la direction du service inscripteur du signalement ;
+
+l'adresse électronique du service inscripteur du signalement ;
+
+l'adresse électronique du service demandeur du signalement.
+
+Concernant les données liées à la dangerosité du véhicule, la CNIL prend acte du fait que cette donnée, issue uniquement du FOVeS, est nécessaire pour la sécurité des personnels. Cinq critères peuvent être cochés par la personne inscrivant le véhicule au fichier : (risque d'explosion ; risque radioactif ; risque chimique ; détenteur ou occupant potentiellement dangereux ; immatriculation usurpée).
+
+En quatrième lieu, le IV de l'article 3 ajoute enfin que peuvent être enregistrées les informations relatives à la demande d'accès au traitement suivantes :
+
+le numéro ou la référence de la procédure pénale, administrative ou douanière ;
+
+le cadre et le motif d'enquête.
+
+La CNIL relève qu'aucune donnée sensible au sens des dispositions de l'article 6 de la loi du 6 janvier 1978 susvisée, justifiant d'un régime de protection renforcée, ne sera collectée dans le traitement STCL.
+
+Elle considère que la collecte des catégories de données prévues à l'article 3 du projet d'arrêté apparaît justifiée et proportionnée.
+
+C. - Sur les mises en relation projetées
+
+L'article 2 du projet d'arrêté prévoit que les données relatives au numéro d'immatriculation du véhicule contenues dans le traitement STCL peuvent faire l'objet d'un rapprochement avec le fichier des véhicules et des objets signalés (FOVeS), le système d'information Schengen (SIS), le système d'immatriculation des véhicules (SIV), le système de contrôle automatisé (SCA), ainsi que le fichier des véhicules assurés (FVA). L'ajout de ces traitements est conforme aux dispositions du troisième alinéa de l'article L. 233-2 du CSI.
+
+Le ministère précise que les mises en relations projetées avec les traitements SIV, SCA et FVA ne seront pas opérationnelles dès la mise en œuvre du traitement STCL, et que l'analyse d'impact relative à la protection des données sera mise à jour et transmise à la CNIL avant leur mise en relation effective.
+
+D. - Sur la durée de conservation des données
+
+La CNIL relève que les durées de conservation prévues par l'article 4 du projet d'arrêté sont conformes à celles prévues par l'article L. 233-2 du CSI.
+
+Ainsi, le I de l'article 4 du projet d'arrêté prévoit qu'afin de permettre les rapprochements avec les traitements prévus à l'article 2, les données et informations mentionnées au I de l'article 3 du projet d'arrêté sont conservées pendant un délai maximum de 15 jours à compter de leur collecte. En l'absence de rapprochement positif dans ce délai, les données et informations sont effacées automatiquement.
+
+La CNIL relève que pendant cette durée, la consultation de ces données et informations n'ayant pas fait l'objet d'un rapprochement positif avec un des numéros d'immatriculation enregistrés dans les traitements mentionnés à l'article 2 est, conformément aux termes de l'article L. 233-2 du code de la sécurité intérieure, interdite, sans préjudice des nécessités de leur consultation pour les besoins d'une procédure pénale ou douanière.
+
+En outre, le II de l'article 4 du projet d'arrêté prévoit qu'en cas de rapprochement positif avec ces mêmes numéros d'immatriculation, les données et informations mentionnées à l'article 3 sont conservées pendant une durée d'un mois à compter de ce rapprochement sans préjudice des nécessités de leur conservation pour les besoins d'une procédure pénale ou douanière. La CNIL prend acte de la précision apportée par le ministère selon laquelle cette durée est une durée maximum.
+
+E. - Sur les accédants et destinataires des données
+
+En premier lieu, l'article 5 du projet d'arrêté énumère les personnes des services de police, gendarmerie et douanes pouvant accéder à tout ou partie des données et informations enregistrées dans le traitement STCL, à raison de leurs attributions et dans la limite du besoin d'en connaître, d'une part, en cas de rapprochement positif, et d'autre part, en l'absence de rapprochement positif avec les traitements mentionnés à l'article 2.
+
+Compte tenu des finalités poursuivies par le traitement projeté, l'accès aux données du traitement prévu pour ces personnes n'appelle pas d'observations particulières de la part de la CNIL.
+
+En second lieu, l'article 5 du projet d'arrêté prévoit que sont destinataires de tout ou partie des données et informations enregistrées dans le traitement, pour l'exercice de leurs missions en matière de police judiciaire et dans la limite du besoin d'en connaître, les organismes de coopération internationale en matière de police judiciaire (Europol, Interpol) et les services de police étrangers dans les conditions énoncées à l'article L. 235-1 du CSI.
+
+A cet égard, la CNIL prend acte de ce que les transferts de données hors de l'Union européenne (UE) ne pourront être réalisés que dans le cadre de la coopération internationale en matière de police judiciaire et aux services de police étrangers dans le strict respect des engagements internationaux, conformément à l'article L. 235-1 du CSI.
+
+Elle prend également acte du fait que ces transferts ne pourront être opérés que sous réserve du respect des conditions énoncées aux articles 112 à 114 de la loi du 6 janvier 1978 susvisée.
+
+Cependant, dans la mesure où la transmission des données à ces organismes est prévue par la loi, l'arrêté n'a pas nécessairement à les mentionner.
+
+Au regard de ce qui précède, la CNIL considère que la consultation des données par les personnes mentionnées à l'article 5 du projet d'arrêté apparait justifiée et proportionnée.
+
+F. - Sur les droits des personnes
+
+En premier lieu, l'article 7 du projet d'arrêté prévoit que le droit d'opposition prévu à l'article 110 de la loi du 6 janvier 1978 modifiée ne s'applique pas au traitement projeté, ce qui n'appelle pas d'observation au regard des finalités poursuivies par le traitement projeté.
+
+En second lieu, l'article 7 du projet d'arrêté prévoit que les droits d'accès, de rectification, d'effacement et les droits à la limitation concernant les autres données tels que prévus aux articles 104 et 106 de la loi du 6 janvier 1978 susvisée s'exercent directement auprès du ministre de l'intérieur et du ministre chargé des douanes.
+
+Ces droits peuvent faire l'objet de restrictions afin d'éviter de gêner des enquêtes, des recherches ou des procédures judiciaires ou d'éviter de nuire à la prévention ou à la détection d'infractions pénales, aux enquêtes ou aux poursuites en la matière ou à l'exécution de sanctions pénales, de protéger la sécurité publique ou de protéger la sécurité nationale, conformément aux 2° et 3° du II et du III de l'article 107 de cette même loi.
+
+La personne concernée par ces restrictions pourra alors exercer ses droits auprès de la CNIL dans les conditions prévues à l'article 108 de cette même loi, ce qui n'appelle pas d'observation au regard des finalités poursuivies par le traitement projeté.
+
+G. - Sur les mesures de sécurité
+
+a. Sur l'accès aux données n'ayant pas fait l'objet d'un rapprochement positif avec les données de la base de comparaison
+
+La CNIL prend acte du fait que des mesures de contrôle renforcées sont mises en place concernant l'accès à la base de données dite BD15 , c'est-à-dire l'accès aux données des véhicules n'ayant pas fait l'objet d'un rapprochement positif avec la base de comparaison (issue des interconnexions avec le SIS, le FOVeS, etc.).
+
+L'accès à de telles données, y compris le cas échéant aux photographies des véhicules, est conditionné au renseignement d'un formulaire précisant le cadre juridique et le numéro de procédure. Le défaut de renseignement de l'un de ces champs interdit toute consultation. La CNIL prend acte de ce qu'une doctrine d'emploi sera diffusée au sein de chaque institution lors de la mise en œuvre du traitement STCL. Elle considère toutefois que le ministère devrait mettre en place des audits réguliers afin de s'assurer de l'effectivité de cette mesure.
+
+b. Sur l'authentification des personnes accédant au traitement
+
+L'analyse d'impact relative à la protection des données fournie à la CNIL par le ministère précise que l'accès au traitement STCL repose principalement sur une procédure d'authentification multifacteur utilisant la carte à puce professionnelle des agents et la saisie d'un code complémentaire. Cependant, il restait possible pour les agents de la gendarmerie nationale de se connecter au système en utilisant un identifiant et un mot de passe personnels, et pour les agents de la police nationale de se connecter par le biais d'un autre agent habilité.
+
+Afin de prévenir les risques d'accès illégitime aux données du traitement et de faciliter la traçabilité des actions effectuées, la CNIL estime que toute connexion au STCL devrait faire l'objet d'une authentification multifacteur, et invite le ministère à harmoniser l'authentification des agents habilités afin de n'autoriser que le recours à la carte à puce professionnelle à code d'identification.
+
+A cet égard, le ministère précise à la CNIL que les modalités de connexion au STCL ont évolué depuis la transmission du dossier, et que seule la connexion par carte à puce est désormais autorisée. La CNIL accueille favorablement cette évolution.
+
+c. Sur les mesures de journalisation
+
+L'article 6 du projet d'arrêté prévoit que les opérations de collecte, de modification, de consultation, de communication, de transferts, d'interconnexion et d'effacement des données à caractère personnel font l'objet d'une journalisation. Parmi ces opérations, le même article prévoit que les opérations de consultation et de communication enregistrées permettent d'établir l'identité de l'auteur, la date, l'heure et le motif de l'opération .
+
+A cet égard, la CNIL estime que toutes les interventions concernant des données à caractère personnel devraient faire l'objet d'une journalisation permettant l'identification de leur auteur, dès lors qu'elles ne résultent pas d'opérations automatiques (par exemple liées à la suppression automatique de données dont la durée de conservation aurait expiré).
+
+d. Sur l'homologation de sécurité du traitement
+
+La CNIL rappelle que les infrastructures et services logiciels informatiques qui composent le système d'information et de communication de l'Etat doivent faire l'objet d'une décision d'homologation avant leur mise en exploitation, et doivent par la suite être maintenus en condition de sécurité, conformément aux objectifs 5 et 6 de la politique de sécurité des systèmes d'information de l'Etat (PSSIE). De plus, le décret n° 2022-513 du 8 avril 2022 relatif à la sécurité numérique du système d'information et de communication de l'Etat et de ses établissements publics précise que les systèmes antérieurs à son entrée en vigueur doivent faire l'objet d'une homologation de sécurité dans un délai de deux ans.
+
+A cet égard, la CNIL recommande de procéder aux homologations de sécurité des différents systèmes LAPI avant toute nouvelle mise en relation ou interconnexion avec d'autres traitements, ces interconnexions devant également faire l'objet de procédures d'homologation de sécurité.
+
+Les autres dispositions du projet d'arrêté n'appellent pas d'observations de la part de la CNIL.
+
+La présidente,
+
+M.-L. Denis
