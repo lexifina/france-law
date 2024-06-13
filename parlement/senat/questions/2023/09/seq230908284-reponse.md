@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230908284
+
+- Question : [SEQ230908284](seq230908284.md) — Généralisation des descentes continues à Paris-Charles-de-Gaulle
+
+## Réponse
+
+*Transports, JO du 2024-06-13, page 2831*
+
+L'objectif de généralisation des descentes continues constitue l'une des priorités pour réduire les émissions de CO2 et les nuisances sonores du transport aérien. La question est particulièrement prégnante en région parisienne, où la densité de population est très importante. La mise en oeuvre en région parisienne d'un nouveau dispositif de ce type pour tous les vols et h24 entraînerait des effets de redistribution des nuisances considérables. Ainsi, un processus par étape est mis en oeuvre et la première consiste à généraliser les descentes continues à Orly, dans l'une des configurations de vol. Les enseignements des consultations en cours seront tirés pour en tenir compte dans les discussions des évolutions possibles concernant Charles-de-Gaulle. En parallèle, les services de l'aviation civile travaillent d'ores et déjà à l'amélioration du taux de descentes continues en l'état actuel des tajectoires, et en particulier la nuit où des gains de court-terme apparaissent atteignables. Par ailleurs, avec l'approbation, en juin 2023, du plan de prévention du bruit dans l'environnement de l'aéroport, les conditions étaient réunies pour que soit lancée sous l'égide du Préfet du Val d'Oise une étude d'impact selon l'approche équilibrée, préalable à l'introduction de nouvelles restrictions d'exploitation visant à limiter les nuisances sonores. Les conclusions de cette étude d'impact amorcée dès l'été 2023 sont attendues dans le courant de l'année et c'est sur leur fondement que de nouvelles restrictions d'exploitation pourront, le cas échéant, être introduites par décision conjointe des ministres chargés de l'écologie et des transports.
