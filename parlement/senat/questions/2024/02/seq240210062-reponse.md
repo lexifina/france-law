@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240210062
+
+- Question : [SEQ240210062](seq240210062.md) — Augmentation de la tarification des péages autoroutiers
+
+## Réponse
+
+*Transports, JO du 2024-06-13, page 2849*
+
+Les tarifs de péage autoroutiers sont réévalués tous les ans au premier février sur le fondement des articles 25 des contrats de concessions validés par décret en conseil d'Etat, qui prévoient les évolutions maximales applicables. Celles-ci dépendent principalement de l'évolution des prix à la consommation hors tabac d'octobre à octobre, qui a été de plus 3,9 % en 2023 et de plus 6,3 % en 2022, soit sensiblement plus que les hausses moyennes de tarif de péage autoroutiers sur les périodes concernées. C'est en particulier le cas pour les péages de la société d'autoroutes et tunnel du Mont Blanc (ATMB) dont les tarifs ont moins crû que l'inflation en 2023 et en 2024. Dans le cas particulier d'ATMB, l'évolution contractuelle pour les années 2023 et 2024 était de 75 % de l'inflation plus 0,33 %. Le terme additionnel de 0,33 % a pour objet de compenser une partie des investissements consentis par le concessionnaire ATMB dans le cadre du contrat d'entreprise couvrant la période 2021-2025, à savoir des aménagements en faveur des mobilités douces, des aménagements environnementaux, ainsi que des aménagements de sécurisation du réseau autoroutier. Le principe et le montant des hausses tarifaires annuelles de concessionnaires autoroutiers font parties de l'équilibre économique des contrats. Les services de l'Etat, et en particulier ceux de la direction générale des infrastructures, des transports et des mobilités et de la direction générale de la concurrence, de la consommation et de la répression des fraudes, procèdent chaque année à un contrôle minutieux des propositions tarifaires des sociétés concessionnaires pour s'assurer qu'elles sont, en tout point, conformes aux stipulations contractuelles.
