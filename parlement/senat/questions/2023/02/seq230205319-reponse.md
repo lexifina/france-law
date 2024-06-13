@@ -1,0 +1,9 @@
+# Réponse à la question SEQ230205319
+
+- Question : [SEQ230205319](seq230205319.md) — Régénération de la section ferroviaire Saintes - Bordeaux
+
+## Réponse
+
+*Transports, JO du 2024-06-13, page 2820*
+
+La ligne Nantes – La Rochelle – Bordeaux fait partie des 14 lignes dont les besoins de régénération seront pris en charge à partir de 2024 par SNCF Réseau comme le réseau structurant. L'Etat et la Région Nouvelle-Aquitaine se sont engagés pour la régénération de cette ligne au travers du volet mobilités du Contrat de plan entre l'Etat et la Région (CPER) pour la période 2015-2022 et du protocole d'accord sur l'avenir des lignes ferroviaires de desserte fine du territoire, signé le 22 avril 2021. L'Etat et la Région ont tenu leurs engagements financiers pour assurer la meilleure performance possible de la ligne, dont l'infrastructure était très dégradée. Une dernière opération financée dans ce cadre est réalisée en 2023 pour procéder à un remplacement de traverses sur un secteur critique et éviter une interruption potentielle des circulations en 2025. Cependant, des limitations temporaires de vitesse demeurent sur la section Saintes – Saint-Mariens pour des raisons de sécurité liées à son état. Cette section de ligne a donné lieu à des études approfondies qui concernent toutes les composantes de l'infrastructure. Au-delà de travaux d'urgence qui pourraient intervenir selon le besoin technique, les premiers travaux lourds devraient être réalisés à partir de 2025. L'État est en tout état de cause particulièrement attentif au devenir des lignes de desserte fine du territoire, qu'il s'agisse des 14 lignes mentionnées ci-avant ou de celles dont la régénération restera financée dans le cadre des CPER. Ce poste est ainsi dûment pris en compte dans les mandats adressés aux préfets pour la négociation des volets mobilités des CPER sur la période 2023-2027.
