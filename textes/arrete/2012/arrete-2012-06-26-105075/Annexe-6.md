@@ -2,972 +2,318 @@
 
 PROGRAMME DE FORMATION DES STAGES DE SENSIBILISATION À LA SÉCURITÉ ROUTIÈRE MENTIONNÉS AUX ARTICLES L. 223-6 ET R. 223-5 DU CODE DE LA ROUTE
 
-Les stages de sensibilisation à la sécurité routière visent à éviter la réitération des comportements dangereux. Ils sont composés :
+Les stages de sensibilisation à la sécurité routière visent à éviter la réitération des comportements dangereux.
 
--d'un module tronc commun permettant de poser le cadre et les enjeux du stage, de découvrir le système de la sécurité routière, d'impliquer le stagiaire et de favoriser sa compréhension de la complexité de l'activité de conduite ;
+Les stages sont organisés de la manière suivante :
 
--d'un ou plusieurs modules spécialisés relatifs soit à la vitesse et aux infractions associées, soit à l'alcool ou aux produits psychoactifs, soit à la conduite des poids lourds. Le choix de ces enseignements incombe aux animateurs, à l'issue du module tronc commun, en fonction de leur connaissance des besoins des stagiaires.
+Un premier module socle de prévention des conduites à risque d'une durée d'une demi-journée portant sur les facteurs généraux de l'insécurité routière, permettant de poser le cadre et les enjeux du stage et de la sécurité routière, de découvrir l'approche systémique de l'accident, d'impliquer les participants et de favoriser leur compréhension de la complexité de l'activité de conduite.
 
-Le cas échéant, il peut être procédé à un entretien personnalisé et/ ou une séance de conduite. Cet entretien est obligatoire pour les stagiaires dès lors qu'ils ont déjà participé à deux stages de sensibilisation à la sécurité routière. Il est d'une durée minimale de quarante-cinq minutes.
+Un second module spécifique de prévention des conduites à risques d'une durée d'un jour et demi relatif soit à la vitesse et aux problématiques associées, soit à la conduite sous influence de substances psychoactives (alcool, cannabis, drogues de synthèse, médicaments). Ce second module est composé de trois phases d'une durée équivalente : une phase de diagnostic (3 h 30), une phase d'Analyse des influences (3 h 30), une phase d'ajustement (3 h 30). Le choix de ce module spécifique incombe aux animateurs sur des critères liés aux caractéristiques du groupe, aux besoins, des participants et aux problématiques repérées dans le groupe pour une efficacité optimale.
 
-a) L'entretien personnalisé est organisé en dehors de la durée de quatorze heures du stage. Il est conduit par le psychologue du stage et porte sur le comportement du stagiaire en rapport avec la ou les infractions commises ;
+Le cas échéant, un entretien personnalisé avec un psychologue ayant une autorisation d'animer valide peut-être conduit en dehors des heures du stage. Un entretien peut être proposé pour les stagiaires dès lors qu'ils ont déjà participé à deux stages de sensibilisation à la sécurité routière. Il est d'une durée minimale de quarante-cinq minutes.
 
-b) La séance de conduite s'intègre dans la séquence du stage définie ci-après intitulée Données psychophysiologiques pour travailler les objectifs correspondants.
+La présente annexe décline le programme de stage répondant à l'objectif général rappelé ci-dessus.
 
-La présente annexe décline deux programmes de formation répondant à l'objectif général rappelé ci-dessus.
-
-Le premier programme correspond à celui des stages dits de première génération mis en œuvre depuis 1992. Il se positionne sur une conception de transmission de connaissances et de prise de conscience des facteurs de l'insécurité routière.
-
-Le second programme est celui des stages dits de deuxième génération. Il est le résultat de l'expérience acquise, des études effectuées sur les attentes et besoins du terrain et des études évaluatives menées au niveau européen. Il tient compte de la mutation du paysage de la sécurité routière et des évolutions sociétales. Il est conçu à partir d'une étude réalisée par des animateurs expérimentés, spécialisés dans la conception de programmes d'éducation, sous l'autorité scientifique de l' Université Gustave Eiffel, et validée par le ministère chargé de la sécurité routière.
+Ce programme a été développé à partir d'une étude et d'une expérimentation réalisée par l'équipe pédagogique en charge de la formation des animateurs pour l'INSERR, et validée par le ministère chargé de la sécurité routière. Il est le résultat de l'expérience acquise, de l'analyse des besoins du terrain, des recommandations et des études évaluatives menées au niveau européen (ANDREA, SUPREME, DRUID). Il tient compte de la mutation du paysage de la sécurité routière et des évolutions sociétales.
 
 Le mode d'intervention choisi vise à impulser un processus de changement d'attitudes et de comportements chez le conducteur, en cohérence avec l'objectif des programmes de réhabilitation pour les conducteurs : modifier les comportements pour prévenir la réitération d'infractions, ce qui entraînera une amélioration de la sécurité. Ce programme s'appuie sur les modèles théoriques suivants :
 
--modèle didactique de la hiérarchie des comportements de conduite (Keskinen, 1996 et Siegrist, 1999)-matrice GDE (Goals for Driver Education) ;
+- modèle didactique de la hiérarchie des comportements de conduite (Keskinen, 1996 et Siegrist, 1999) ;
 
--modèles de prévention des comportements à risques validés et utilisés dans le cadre de la prévention, de l'éducation pour la santé, de la psychologie sociale et de la psychologie cognitive : modèle transthéorique de Prochaska et di Clemente (1992), théorie de l'autorégulation du comportement de Carver et Sheier (1998) ;
+- matrice GDE (Goals for Driver Education) ;
 
--modèles relatifs aux comportements de santé de Gebhardt et Maes (2001).
+- modèles de prévention des comportements à risques validés et utilisés dans le cadre de la prévention, de l'éducation pour la santé, de la psychologie sociale et de la psychologie cognitive : modèle transthéorique de Prochaska et di Clemente (1992), les stratégies motivationnelles de W. Miller et S. Rollnick, théorie de l'autorégulation du comportement de Carver et Sheier (1998) ;
 
-Ce programme privilégie, pour une plus grande efficience, l'auto-réflexion du conducteur en vue d'initier une stratégie personnelle de changement. Il demande une plus grande implication du conducteur stagiaire dans sa formation. Alors que dans le stage première génération, le conducteur doit réagir aux savoirs dispensés et aux échanges groupaux, dans le stage deuxième génération, il est plus actif et doit progressivement prendre conscience de son rôle d'acteur du système de circulation routière. Ce programme exige également un plus fort investissement des animateurs dans l'animation et la coanimation.
+- modèles relatifs aux comportements de santé HBM de Gebhardt et Maes (2001).
 
-Le programme du stage deuxième génération est mis en œuvre par les animateurs ayant suivi la formation initiale ou la formation continue dispensée à l'Institut national de sécurité routière et de recherches (INSERR) de Nevers, respectivement à compter de septembre 2006 et de mai 2007. Il est amené à se substituer progressivement au stage première génération au fur et à mesure du développement de la formation continue des animateurs des stages de sensibilisation à la sécurité routière en vue de la reconstitution du nombre de points du permis de conduire. A partir du 1er janvier 2018, seuls les stages de deuxième génération pourront être dispensés.
+Ce programme privilégie, pour une plus grande efficacité, l'auto-réflexion du conducteur en vue d'initier une stratégie personnelle de changement. Il demande une réelle implication du conducteur stagiaire dans les différentes séquences du stage, ce qui lui fait progressivement prendre conscience de son rôle d'acteur du système de circulation routière. Ce programme exige également un fort investissement des animateurs dans l'animation et dans la coanimation.
 
-Programme des stages première génération
+Le programme des stages de sensibilisation à la sécurité routière est présenté sous la forme d'une matrice générale d'intervention et d'une matrice opérationnelle d'intervention.
 
-I.-Enseignement tronc commun
+I. - Matrice générale d'intervention
 
-Les facteurs généraux de l'insécurité routière
+La matrice générale d'intervention est composé de deux modules de prévention des conduites à risque. Un module socle qui comporte une phase composée de trois séquences et d'un module spécifique organisé en trois phases de trois séquences chacune.
 
-SÉQUENCES ET OBJECTIFS
+Les séquences sont animées dans un ordre chronologique afin de favoriser le processus de changement d'attitudes et de comportements chez le conducteur.
 
-|
+Les phases sont toutes de la même durée à savoir une demi-journée. Le stage est à mener dans son intégralité pour une efficacité optimale en respectant la durée des différentes phases.
 
-CONTENUS
+Tableau de la matrice générale d'intervention du stage de sensibilisation à la sécurité routière (modules, phases, séquences)
 
-|
+Module |
 
-Tour de table (2 heures)
+Phase |
 
-|
+Séquence |
 
-Présentation du programme et des objectifs du stage, des participants. Rappel du dispositif réglementaire du permis à points.
+Module socle de prévention des conduites à risque |
 
-|
+Phase de prise de contact et facteurs généraux de l'insécurité routière |
 
-Données de sécurité routière (45 minutes)
+Présentation (du stage et des participants) |
 
-|
+Données de sécurité routière et accidentologie |
 
-L'insécurité routière en France : données statistiques nationales et locales sur l'insécurité routière (nombre de tués, blessés, types d'usagers, circonstances...).
+Données psychophysiologiques et tâche de conduite |
 
-|
+Choix du module spécifique |
 
-Accidentologie (45 minutes) :
+Module spécifique de prévention des conduites à risque |
 
-Faire connaître aux participants, les principales causes et circonstances des accidents, les populations à risque.
+Phase de diagnostic |
 
-|
+Représentations |
 
-Utilisation d'une étude de cas d'accident permettant d'illustrer et de discuter sur les données nationales d'insécurité routière.
+Attentes |
 
-|
+Auto-évaluation de ses comportements d'usage |
 
-Questionnaire d'autoévaluation des connaissances (15 minutes) :
+Phase d'analyse des influences |
 
-Réactualiser les connaissances des stagiaires sur le code de la route.
+Normes et contexte social |
 
-|
+Compétences perçues et sentiment d'auto-efficacité |
 
-Questionnaire d'autoévaluation.
+Contexte scientifique |
 
-|
+Phase d'ajustement |
 
-Données psychophysiologiques (1 h 30) :
+Niveau de motivation |
 
-Analyser et faire comprendre la diversité des usagers dans la circulation, les problèmes d'interaction et de communication.
+Comportement cible |
 
-|
+Stratégies |
 
-Exercices sur des situations de conduite et la tâche de conduite.
+II. - Matrice opérationnelle d'intervention
 
-|
+La matrice opérationnelle détaille les objectifs généraux et les objectifs spécifiques de chacune des séquences. Les objectifs spécifiques à traiter sont définis par le binôme d'animateur au regard des problématiques du groupe.
 
-Analyse de la situation d'infraction (1 h 45) :
+Les animateurs disposent d'un guide d'animation conçu et actualisé annuellement par l'INSERR qui leur sert de référentiel et qui leur permet de travailler les objectifs les plus adaptés à leur public, de varier les situations didactiques et les techniques d'animation.
 
-Sensibiliser aux conséquences des accidents ;
+Phase 1 : Prise de contact et facteurs généraux de l'insécurité routière
 
-Comprendre les enjeux sociaux de la sécurité routière.
+Séquences |
 
-|
+Objectifs généraux |
 
-Etude des grands types d'infractions à partir d'enquêtes et d'interview de conducteurs.
+Objectifs spécifiques |
 
-Ventilation des opinions, attitudes, motivations selon les groupes sociaux et les thèmes : vitesse, alcool, ceinture, contrôle...
+Présentations du stage et des participants |
 
-|
+Faire connaissance,
 
-Fin de journée
+Fixer le cadre pour faciliter le travail en groupe
 
-|
+Tenir compte des interrogations et des opinons des stagiaires |
 
-|
+Connaitre le cadre du stage, les objectifs du programme et les différents acteurs
 
-II.-Enseignements spécialisés
+Avoir des repères sur le dispositif réglementaire du stage et ses règles de fonctionnement |
 
-A.-Enseignement sur le thème :
+Données de sécurité routière et accidentologie |
 
-Vitesse et infractions associées
+S'informer sur les données générales de sécurité routière
 
-SÉQUENCES ET OBJECTIFS
+Appréhender la notion de système sécurité routière
 
-|
+Découvrir les facteurs d'accidents |
 
-CONTENUS
+Faire le point sur la sécurité routière
 
-|
+Se construire un langage commun
 
-Analyse d'un cas d'accident (3 h 30) :
+Partager ses expériences
 
-Transmettre un savoir objectif.
+Prendre conscience que l'accident n'est pas dû à la fatalité |
 
-|
+Données psychophysiologiques et tâche de conduite |
 
-Eléments de cinématique, perception de la vitesse, le freinage.
+Appréhender la tache de conduite et les limites humaines de traitement de l'information |
 
-le choc et la dissipation d'énergie, la vitesse et l'insécurité.
+Appréhender les modes de traitement de l'information d'un conducteur, les erreurs et limites humaines
 
-Le choix de la vitesse par le conducteur, le plaisir de la vitesse, l'expérience de la vitesse.
+Différencier les notions de réflexes, automatismes, capacités physiques et mentales
 
-L'étude du risque dans les situations d'urgence.
+Prendre conscience de la nature des décisions de conduite |
 
-L'incident et les limites de comportements d'urgence.
+Phase 2 : Diagnostic
 
-Analyse de cas d'accidents.
+Séquences |
 
-|
+Objectifs généraux |
 
-Travail sur les représentations sociales (1 h 30) :
+Objectifs spécifiques Vitesse
 
-|
+et problématiques associées |
 
-A partir d'exercices, de grilles d'analyses et de questionnaires d'autoévaluation, mise en évidence des représentations : conducteur-automobile.
+Objectifs spécifiques Conduite sous influence de substances psychoactives |
 
-Analyse de l'infraction, rôle du contrôle et de la sanction.
+Représentations |
 
-|
+Prendre conscience de ses représentations et les confronter à celles du groupe |
 
-Mobiliser l'expérience acquise pour la soumettre progressivement à évaluation individuelle et collective.
+Prendre conscience de ses représentations de la vitesse, de la règle et permettre leur expression.
 
-|
+Faciliter la prise de parole de chaque membre du groupe à partir de ses connaissances, ses aptitudes et valeurs, sa pratique et son expérience |
 
-Développement des notions essentielles de civilité, de respect d'autrui, de convivialité, de partage de responsabilité.
+Prendre conscience de ses représentations sur les substances psychoactives, leurs usages, les usagers.
 
-|
+Permettre l'expression de ses représentations
 
-Sensibiliser en vue de l'émergence de nouveaux comportements.
+Faciliter la prise de parole de chaque membre du groupe à partir de ses connaissances, ses aptitudes, valeurs, et son expérience. |
 
-|
+Attentes |
 
-Sensibilisation à la dimension sociale de la sécurité routière et à la préservation de l'environnement en rapport avec l'automobile.
+Identifier ses attentes et les effets obtenus |
 
-|
+Exprimer ses attentes sur la vitesse, la transgression, le risque
 
-Conduite et alcool (1 heure)
+Mettre en évidence le lien entre les attentes, les effets liés à la vitesse et à la transgression de la règle |
 
-|
+Exprimer ses attentes sur l'usage de substances psychoactives
 
-Alcool et alcoolémie, relation dose/ effet, élimination de l'alcool, réglementation alcool et conduite.
+Analyser les raisons de sa consommation.
 
-|
+Mettre en évidence le lien entre les attentes et les effets lors de l'usage de substances psychoactives |
 
-Synthèse et évaluation du stage (1 heure)
+Auto-évaluation de ses comportements |
 
-|
+Identifier les déterminants des comportements de vitesse ou d'usage de produits psychoactifs
 
-Exercices sur les connaissances acquises au cours du module (correction du questionnaire d'autoévaluation).
+Faire le point sur ses comportements d'usage ou de transgression
 
-|
+Favoriser une prise de conscience des contextes de prise de risque sur la route |
 
-B.-Enseignement sur le thème :
-
-Alcool, alcoolisme et conduite automobile
-
-Analyse d'un cas d'accident (3 h 30) :
-
-Transmettre des savoirs juridiques et techniques.
-
-|
-
-Alcool et alcoolisme (définitions).
-
-Comparaisons régionales et internationales.
-
-Utilisation d'un questionnaire à choix multiples pour tester les connaissances.
-
-Le métabolisme de l'alcool.
-
-L'alcool et les fonctions cognitives.
-
-Exposé débouchant sur une discussion.
-
-Utilisation d'exemples concrets et de situations vécues qui seront évaluées par les participants.
-
-|
-
-Utiliser l'expérience vécue pour la soumettre à évaluation.
-
-|
-
-Alcool et accidents de la route :
-
-Rôle de l'alcool dans la survenue des accidents de la route. Comparaisons régionales et internationales.
-
-Relations alcoolémie-accident.
-
-Analyse de cas d'accidents suivie de questions d'évaluation (évaluer la distance de freinage, tenir compte des autres facteurs en cause).
-
-|
-
-Connaître les moyens législatifs et réglementaires.
-
-La prévention et la thérapeutique.
-
-|
-
-Commentaires et explications des principaux textes législatifs et réglementaires. Les instruments de dépistage (éthylotests) et de mesure (éthylomètres).
-
-Comment prévenir les accidents, l'alcoolisme maladie, le dépistage clinique (film et discussion).
-
-Documents et adresses utiles.
-
-|
-
-Travail sur les représentations sociales (1 h 30) :
-
-|
-
-Reprise d'exemples d'accidents, jeux de rôles.
-
-|
-
-Conduite et vitesse (1 heure) :
-
-|
-
-Eléments de cinématique, perception de la vitesse, le freinage, le choc et la dissipation d'énergie, la vitesse et l'insécurité.
-
-|
-
-Synthèse et évaluation du stage (1 heure) :
-
-|
-
-Exercices sur les connaissances acquises au cours du module (correction du questionnaire d'autoévaluation).
-
-Bilan sur des nouveaux comportements à adopter.
-
-Exercices sur les connaissances acquises au cours du module.
-
-|
-
-C.-Enseignement sur le thème :
-
-La conduite des véhicules du groupe lourd
-
-OBJECTIFS
-
-|
-
-CONTENUS
-
-|
-
-Etude d'un cas d'accident (3 h 30) :
-
-|
-
-|
-
-Etude de cas sur un accident impliquant un véhicule du groupe lourd.
-
-|
-
-L'étude doit servir de support pour le développement des divers objectifs du programme.
-
-|
-
-Donner des notions sur le phénomène véhicules du groupe lourd.
-
-|
-
-Statistiques (parc, économie, sinistralité).
-
-Réglementation sociale (temps de conduite et de repos-responsabilités-parallèle avec les véhicules légers).
-
-Répartition du transport.
-
-|
-
-Donner des explications sur les particularités de la conduite des véhicules du groupe lourd.
-
-|
-
-Notions de freinage.
-
-Chargement, arrimage, stabilité.
-
-Pneumatiques.
-
-Gestion d'itinéraire.
-
-Adhérence, gabarit.
-
-|
-
-Faire comprendre la nécessité d'anticiper et de prévenir les risques, de partager l'espace entre les divers usagers.
-
-|
-
-Notions d'hygiène et de sécurité.
-
-Temps de réaction et distances de sécurité.
-
-Energie cinétique.
-
-Force centrifuge.
-
-Particularités des autres usagers.
-
-|
-
-Travail sur les représentations sociales (1 h 30)
-
-|
-
-Reprise d'exemples d'accidents, jeux de rôles : travail sur les représentations conduite et poids lourds.
-
-|
-
-Conduite et alcool (1 heure)
-
-|
-
-Alcool et alcoolémie, relation dose/ effet, élimination de l'alcool, réglementation alcool et conduite.
-
-|
-
-Synthèse et évaluation du stage (1 heure)
-
-|
-
-Exercices sur les connaissances acquises au cours du module (correction du questionnaire d'autoévaluation).
-
-|
-
-Programme des stages deuxième génération
-
-I.-Enseignement tronc commun : les facteurs géneraux de l'insécurité routière
-
-SÉQUENCES ET OBJECTIFS
-
-|
-
-CONTENUS
-
-|
-
-Tour de table (2 heures)
-
-|
-
-Présentation du programme du stage, des objectifs, des participants. Rappel du dispositif réglementaire du permis à points
-
-|
-
-Données de sécurité routière (30 minutes)
-
-|
-
-L'insécurité routière en France : données statistiques nationales et locales (nombre de tués, blessés, types d'usagers, circonstances)
-
-|
-
-Accidentologie (1 heure) :
-
-Faire connaître aux participants, les principales causes et circonstances des accidents, les populations à risque.
-
-|
-
-Utilisation d'une étude de cas d'accident permettant d'illustrer et de discuter sur les données nationales d'insécurité routière.
-
-|
-
-Autoévaluation des connaissances (15 minutes)
-
-Réactualiser les connaissances des stagiaires sur le code de la route.
-
-|
-
-Questionnaire d'autoévaluation
-
-|
-
-Données psychophysiologiques (1 h 30) :
-
-Analyser et faire comprendre la diversité des usagers dans la circulation, les problèmes d'interaction et de communication.
-
-|
-
-Exercices sur des situations de conduite et la tâche de conduite.
-
-|
-
-Durée 5 h 15
-
-|
-
-|
-
-|
-
-Choix d'un module spécifique.
-
-Durée du module spécifique : 1 h 45.
-
-Fin de journée.
-
-|
-
-Module thématique
-
-Vitesse
-
-|
-
-Module thématique
-
-Produits psychoactifs
-
-|
-
-II.-Enseignements specialisés (2e journée)
-
-La matrice générale présentée ci-dessous propose un schéma d'intervention qui permet aux animateurs d'adapter et de proposer une intervention en fonction du groupe ou des groupes cibles repérés. Elle est commune aux deux modules spécialisés, développés ci-après, portant sur les thématiques produits psychoactifs et vitesse et qui incluent également la problématique des jeunes conducteurs.
-
-L'intervention pour chaque module s'organise en trois phases successives : une phase de diagnostic, une phase d'analyse des influences, une phase d'ajustement.
-
-Chaque phase comporte trois séquences à décliner dans un ordre chronologique.
-
-Chaque module comporte donc trois phases et neuf séquences.
-
-L'ordre des phases et des séquences est à respecter pour favoriser le processus de changement d'attitudes et de comportements chez le conducteur dans l'objectif de prévenir la réitération des infractions et d'améliorer la sécurité routière. Dans certains cas, la troisième phase peut ne pas être menée à son terme en fonction du degré de maturation du groupe, du niveau de motivation auquel il se trouve en matière de changement de comportement. Il est alors indispensable de terminer le stage, a minima, par la séquence sur la motivation à changer.
-
-Les animateurs disposent de nombreuses fiches pratiques d'animation étudiées en formation qui leur permettent de varier les situations didactiques et les techniques d'animation et de travailler les objectifs les plus adaptés à leur public cible.
-
-La matrice générale d'intervention des stages de sensibilisation à la sécurité routière
-
-LES PHASES
-
-|
-
-LES SÉQUENCES
-
-|
-
-Diagnostic (phase compréhensive)
-
-|
-
-Représentations
-
-|
-
-Attentes
-
-|
-
-Auto-évaluation de ses comportements
-
-|
-
-Analyse (phase compréhensive)
-
-|
-
-Normes et contexte social
-
-|
-
-Compétences perçues et sentiment d'auto-efficacité
-
-|
-
-Contexte scientifique
-
-|
-
-Ajustement (phase de préparation au changement)
-
-|
-
-Niveau de motivation
-
-|
-
-Comportement cible
-
-|
-
-Stratégie
-
-|
-
-La matrice opérationnelle d'intervention
-
-des stages de sensibilisation à la sécurité routière
-
-La matrice opérationnelle est organisée de la même façon que la matrice générale pour les deux modules. Elle comprend trois phases : la phase de diagnostic, la phase d'analyse des influences, la phase d'ajustement. Chaque phase comporte trois séquences et est détaillée dans un tableau spécifique.
-
-Matrice du module produits psychoactifs
-
-Phase 1 : diagnostic
-
-SÉQUENCES
-
-|
-
-OBJECTIFS GÉNÉRAUX
-
-|
-
-OBJECTIFS SPÉCIFIQUES
-
-|
-
-1.1. Représentations
-
-|
-
-Prendre conscience des représentations sur les produits et leurs usages
-
-|
-
-Permettre l'expression des représentations au sein d'un groupe sur le thème de la sécurité routière
-
-Faciliter la prise de parole de chaque membre du groupe à partir de ses connaissances, ses aptitudes et valeurs, sa pratique et son expérience
-
-|
-
-1.2. Attentes
-
-|
-
-Exprimer ses attentes sur l'usage des produits
-
-|
-
-Analyser les raisons de la consommation
-
-Mettre en évidence le lien entre attentes et effets lors de la consommation de produits psychoactifs
-
-Prendre conscience que la même substance peut produire différents effets et qu'un effet recherché peut être obtenu par différents moyens
-
-|
-
-1.3. Auto-évaluation de ses comportments
-
-|
-
-Faire le point sur sa consommation de produits
-
-|
-
-Mesurer les consommations
-
-Repérer les usages à risque ou nocifs de produits
-
-Communiquer sur les seuils de sécurité
-
-Réfléchir à ce qui amène à consommer des produits et conduire
-
-|
-
-Phase 2 : analyse des influences
-
-SÉQUENCES
-
-|
-
-OBJECTIFS GÉNÉRAUX
-
-|
-
-OBJECTIFS SPÉCIFIQUES
-
-|
-
-2.1. Normes et contexte social
-
-|
-
-Réfléchir à l'influence de la norme, à la capacité à faire face à la pression des autres et à sa responsabilité
-
-|
-
-Exposer ses opinions, ses normes, sa vision sur la consommation de produits
-
-Comparer, confronter, situer les représentations du groupe
-
-Montrer qu'il existe une tendance à surévaluer certains comportements de consommation
-
-Réfléchir à l'influence des perceptions de ce que font les autres sur nos propres comportements
-
-Mettre en évidence l'influence du groupe et la nécessité d'apprendre à affirmer ses positions
-
-Développer les capacités de communication verbales et non verbales
-
-Développer les compétences psychosociales et l'empathie
-
-Exprimer son ressenti et analyser ses propres mécanismes de régulation et de contrôle
-
-|
-
-2.2. Compétences perçues et sentiment d'auto-efficacité
-
-|
-
-Favoriser la perception de ses capacités
-
-Prendre conscience de leur influence sur les comportements
-
-|
-
-Mener une réflexion sur les risques et les limites
-
-Evaluer son sentiment d'efficacité
-
-Mettre en relation ce sentiment avec des actes de la vie quotidienne dont la circulation routière, la prise de risque et la possibilité de faire autrement
-
-Mettre en relation ce sentiment avec ses répercussions sur le niveau de stress
-
-|
-
-2.3. Contexte scientifique
-
-|
-
-Accéder à des connaissances scientifiques sur les produits psychoactifs et leur usage
-
-Réfléchir à l'impact de ces consommations sur le comportement de conduite
-
-|
-
-Intégrer des connaissances sur les effets des produits
-
-Favoriser une meilleure compréhension des situations routières critiques à travers les scénarios-types d'accident (ex. : accidents d'usagers de deux-roues, de piétons, de personnes âgées...)
-
-Travailler sur les défaillances fonctionnelles du conducteur
-
-Repérer les usages à risque ou nocifs des produits
-
-Communiquer sur les seuils de sécurité
-
-Réfléchir à ce qui amène à consommer des produits et conduire
-
-|
-
-Phase 3 : ajustement
-
-SÉQUENCES
-
-|
-
-OBJECTIFS GÉNÉRAUX
-
-|
-
-OBJECTIFS SPÉCIFIQUES
-
-|
-
-3.1. Niveau de motivation
-
-|
-
-Faire le point sur ses motivations à changer
-
-Accéder à des connaissances sur le processus de changement
-
-|
-
-Déterminer son degré de motivation à changer son comportement de consommation
-
-Mieux cerner les raisons invoquées pour expliquer la consommation ou la non-consommation d'un produit afin de mesurer la motivation du sujet à changer
-
-|
-
-3.2. Comportement cible
-
-|
-
-Réfléchir à son hygiène de vie
-
-Travailler sur ses capacités de changement
-
-|
-
-S'interroger sur son hygiène de vie
-
-Reconnaître le besoin d'avoir du plaisir comme un besoin légitime
-
-Réfléchir aux moyens de répondre à ce besoin
-
-Permettre à chacun de faire le point sur son état de stress
-
-Savoir différencier ses sources de stress, ses capacités de réponses au stress et ses outils pour gérer la situation
-
-Rechercher des solutions alternatives pour gérer son stress
-
-Faire l'expérience, à travers un exercice pratique, d'être à l'écoute de soi-même, de son corps, de ses sensations et de pouvoir répondre à un état de fatigue ou de tension
-
-|
-
-3.3. Stratégies
-
-|
-
-Renforcer l'attention aux autres
-
-Travailler sur l'intégration de la loi comme protectrice
-
-|
-
-Développer les capacités de communication verbales et non verbales
-
-Développer les compétences psychosociales et l'empathie
-
-Exprimer son ressenti et analyser ses propres mécanismes de régulation et de contrôle
-
-|
-
-Matrice du module vitesse
-
-Phase 1 : diagnostic
-
-SÉQUENCES
-
-|
-
-OBJECTIFS GÉNÉRAUX
-
-|
-
-OBJECTIFS SPÉCIFIQUES
-
-|
-
-1.1. Représentations
-
-|
-
-Prendre conscience des représentations sur la vitesse et la règle
-
-|
-
-Permettre l'expression des représentations au sein d'un groupe sur le thème de la sécurité routière
-
-Faciliter la prise de parole de chaque membre du groupe à partir de ses connaissances, ses aptitudes et valeurs, sa pratique et son expérience
-
-|
-
-1.2. Attentes
-
-|
-
-Exprimer ses attentes sur la vitesse, la transgression et le risque
-
-|
-
-Mettre en évidence les attentes liées à la vitesse, à la transgression de la règle et au contrôle comportemental
-
-Examiner le rapport bénéfice/ coûts dans certaines prises de risque
-
-|
-
-1.3. Autoévaluation de ses comportements
-
-|
-
-Examiner les différents déterminants à l'origine des comportements
-
-Favoriser une prise de conscience des déterminants de la prise de risque sur la route
-
-|
-
-Mener une réflexion sur les risques et les limites
-
-Evaluer son rapport à la polyactivité
+Evaluer son rapport à la poly activité
 
 Identifier les contextes déclencheurs d'une infraction
 
-Réfléchir aux conséquences (positives ou négatives) de nos habitudes de transgression
+Réfléchir aux déterminants et aux conséquences (positives ou négatives) de ses habitudes de transgression |
 
-|
+Utiliser des outils validés pour autoévaluer ses comportements d'usage (substances psychoactives, téléphone, écrans etc.)
 
-Phase 2 : analyse des influences
+Savoir repérer les usages à risque et problématique
 
-SÉQUENCES
+Comprendre comment sont définis les seuils de sécurité de consommation à moindre risque
 
-|
+Réfléchir aux raisons qui poussent à conduire après la consommation de substance psychoactive |
 
-OBJECTIFS GÉNÉRAUX
+Phase 3 : Analyse des influences
 
-|
+Séquence |
 
-OBJECTIFS SPÉCIFIQUES
+Objectifs généraux |
 
-|
+Objectifs spécifiques vitesse
 
-2.1. Normes et contexte social
+et problématiques associées |
 
-|
+Objectifs spécifiques conduite sous influence de substances psychoactives |
 
-Réfléchir à l'influence de la norme, à la capacité à faire face à la pression des autres et à sa responsabilité
+Normes et contexte social |
 
-|
+Réfléchir à l'influence de la norme et des pairs sur les comportements et décisions |
 
-Exposer ses opinions, ses normes, sa vision sur la vitesse, la règle, le temps éventuellement
+Exposer ses opinions, ses normes, ses valeurs sur la vitesse, la performance et la transgression
 
-Comparer, confronter, situer ses représentations
+Identifier l'influence de ce que font ou pensent les autres sur mes décisions et mes comportements de transgression, à la manière dont mon comportement influence les décisions et comportements de transgression des autres |
 
-Montrer qu'il existe une tendance à surévaluer certains comportements
+Exposer ses opinions, ses normes, ses valeurs sur les substances psychoactives et leur usage.
 
-Réfléchir à l'influence des perceptions de ce que font ou pensent les autres sur nos propres comportements
+Identifier l'influence de ce que font et pensent les autres sur mes décisions et comportements de consommation, à la manière dont j'influence les décisions et comportements de consommation des autres |
 
-Développer les capacités de communication verbales et non verbales
+Compétences perçues et sentiment d'auto-efficacité |
 
-Développer les compétences psychosociales et l'empathie
+Evaluer son sentiment d'efficacité, son besoin de recherche de sensations et leur impact sur le choix d'exposition à des situations |
 
-Exprimer son ressenti et analyser ses propres mécanismes de régulation et de contrôle
+Identifier les sources et les effets de son sentiment d'efficacité
 
-|
+Mettre en relation ce sentiment avec la circulation routière et d'autres actes de la vie quotidienne
 
-2.2. Compétences perçues et sentiment d'auto-efficacité
+Comprendre et évaluer l'impact des émotions et le besoin de sensations sur les comportements de prise de risque |
 
-|
+Identifier les sources et les effets de son sentiment d'efficacité
 
-Favoriser la perception de ses capacités
+Mettre en relation ce sentiment avec la circulation routière et d'autres actes de la vie quotidienne
 
-Prendre conscience de leur influence sur nos comportements
+Comprendre et évaluer l'impact des émotions et le besoin de sensations sur les comportements de prise de risque |
 
-|
+Contexte scientifique |
 
-Mener une réflexion sur les risques et les limites
+Accéder à des connaissances scientifiques et identifier leur impact sur nos comportements et décisions
 
-Evaluer son sentiment d'efficacité
-
-Mettre en relation ce sentiment avec des actes de la vie quotidienne dont la circulation routière, la prise de risque et la possibilité de faire autrement
-
-Mettre en relation ce sentiment avec ses répercussions sur le niveau de stress
-
-|
-
-2.3. Contexte scientifique
-
-|
+Favoriser une meilleure compréhension des situations routières critiques |
 
 Intégrer les composantes de la tâche de conduite
 
-Favoriser une meilleure compréhension des situations routières critiques
+Identifier l'impact des connaissances (tâche de conduite, lois physiques et cinétiques, situations routières critiques …) sur nos décisions et comportements |
 
-|
+Intégrer des connaissances sur les substances psychoactives, leurs effets, leurs usages et analyser leur impact sur nos comportements et décisions
 
-Intégrer le modèle cinématique (les différentes lois physiques et cinétiques)
+Connaître les différents usages et avoir des notions sur les addictions avec ou sans substances
 
-Etre capable d'effectuer quelques calculs simplifiés concernant ces lois physiques
+Identifier les sources pour trouver de l'information scientifique valide et fiable |
 
-Etre capable d'intégrer ces connaissances dans sa conduite de tous les jours
+Phase 4 : Ajustement
 
-Favoriser une meilleure compréhension des situations routières critiques à travers les scénarios types d'accident (ex. : accidents d'usagers de deux-roues, de piétons, de personnes âgées...)
+Séquence |
 
-Identifier les défaillances fonctionnelles du conducteur
+Objectifs généraux |
 
-Stimuler l'activité prévisionnelle du conducteur
+Objectifs spécifiques vitesse
 
-|
+et problématiques associées |
 
-Phase 3 : ajustement
+Objectifs spécifiques conduite sous influence de substances psychoactives |
 
-SÉQUENCES
+Niveau de motivation |
 
-|
+Faire le point sur ses motivations à changer
 
-OBJECTIFS GÉNÉRAUX
+Accéder à des connaissances sur le processus de changement |
 
-|
+S'interroger sur ses intentions de changements
 
-OBJECTIFS SPÉCIFIQUES
+Déterminer son niveau de motivation à changer de comportement
 
-|
+Identifier les leviers et freins au changement |
 
-3.1. Niveau de motivation
+Déterminer son niveau de motivation à changer un comportement d'usage en lien avec la conduite en état d'alcoolémie ou après usage de stupéfiants
 
-|
+Identifier les leviers et freins au changement |
 
-S'interroger sur ses intentions de changement
+Comportement cible |
 
-Identifier les leviers et les freins au changement
+Réfléchir à son style de vie
 
-|
+Travailler sur ses capacités de changement |
 
-Déterminer son degré de motivation à changer son comportement
+Réfléchir au décalage entre comportement actuel et comportement cible
 
-|
+Faire le point sur son état de stress.
 
-3.2. Comportement cible
+Différencier ses sources de stress, ses capacités de réponse et ses outils pour gérer la situation
 
-|
+Trouver des leviers pour mieux organiser son temps et planifier ses activités
 
-Réfléchir à son hygiène et à son style de vie
+Faire l'expérience d'exercices ou de pratiques corporelles pour pouvoir répondre à un état de fatigue ou de tension |
 
-|
+Réfléchir au décalage entre comportement actuel et comportement cible
 
-S'interroger sur son hygiène de vie
-
-Réfléchir aux moyens de répondre à ce besoin
-
-Permettre à chacun de faire le point sur son état de stress
-
-Savoir différencier sources de stress, capacités de réponses au stress et outils pour gérer la situation
-
-|
-
-|
-
-Travailler sur ses capacités de changement
-
-|
+Trouver des leviers pour mieux réguler ses comportements d'usage (avec ou sans substances psychoactives) et dissocier ces usages de la conduite automobile
 
 Rechercher des solutions alternatives pour gérer son stress
 
-Savoir organiser ses activités
+Faire l'expérience d'exercices ou de pratiques corporelles pour pouvoir répondre à un état de fatigue ou de tension |
 
-Faire l'expérience, à travers un exercice pratique, d'être à l'écoute de soi-même, de son corps, de ses sensations et de pouvoir relâcher ses états de fatigue ou de tension
+Stratégies |
 
-|
+Développer les compétences psychosociales et l'empathie |
 
-3.3. Stratégies
+Développer ses capacités de communication verbale et non verbale, la gestion de ses émotions, la résolution de problèmes etc.
 
-|
+Tester de nouveaux modes de résolution, de nouvelles stratégies d'action |
 
-Elaborer des réponses pour les situations à risque
+Développer ses capacités de communication verbale et non verbale, la gestion de ses émotions, la résolution de problèmes etc.
 
-|
-
-Développer les capacités de communication verbales et non verbales
-
-Développer les compétences psychosociales et l'empathie
-
-Exprimer son ressenti et analyser ses propres mécanismes de régulation et de contrôle
-
-|
+Tester de nouveaux modes de résolution, de nouvelles stratégies d'action |

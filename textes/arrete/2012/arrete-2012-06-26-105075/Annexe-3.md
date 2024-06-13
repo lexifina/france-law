@@ -4,7 +4,9 @@ PROGRAMME ET MODALITÉS D'ORGANISATION DE LA FORMATION INITIALE À LA GESTION TE
 
 Présentation générale
 
-La formation initiale à la gestion technique et administrative d'un établissement chargé d'organiser les stages de sensibilisation à la sécurité routière mentionnés aux articles L. 223-6 et R. 223-5 du code de la route a pour but de permettre aux exploitants de ces établissements ainsi qu'aux personnes chargées de l'encadrement des stages d'acquérir les connaissances et compétences indispensables à une bonne information du public accueilli et un déroulement des stages dans le respect des conditions administratives et pédagogiques fixées par la réglementation.
+La formation initiale à la gestion technique et administrative d'un établissement chargé d'organiser les stages de sensibilisation à la sécurité routière mentionnés aux articles L. 223-6 et R. 223-5 du code de la route a pour but de permettre l'acquisition des connaissances et compétences indispensables à une bonne information du public accueilli et au déroulement des stages dans le respect des conditions administratives et pédagogiques fixées par la réglementation.
+
+Cette formation est destinée aux exploitants, ainsi qu'aux personnes qu'ils ont désignées pour les représenter afin d'assurer la gestion technique et administrative des stages.
 
 Cette formation est assurée soit directement par l'INSERR, soit dans le cadre d'un établissement agréé au titre des dispositions du présent arrêté pour l'organisation des stages de sensibilisation à la sécurité routière par un formateur (exploitant ou personnes désignées). Dans ce dernier cas, ce formateur habilité devra préalablement avoir été formé par l'INSERR.
 
@@ -16,7 +18,7 @@ Elle est de deux jours consécutifs, à raison de sept heures effectives par jou
 
 Effectifs de la formation.
 
-La formation est organisée sous forme de session de formation regroupant un nombre de stagiaires qui doit être compris entre six et quinze.
+La formation est organisée sous forme de session de formation regroupant un nombre de stagiaires qui doit être compris entre cinq et quinze.
 
 Objectifs de la formation.
 
@@ -124,6 +126,8 @@ Les relations avec les services déconcentrés compétents :
 
 - le renouvellement de l'agrément ;
 
+- la dématérialisation des procédures ;
+
 - l'envoi des attestations ;
 
 - l'établissement du rapport annuel ;
@@ -174,31 +178,11 @@ La durée, les effectifs et les objectifs de la formation dispensée sont identi
 
 Moyens de la formation.
 
-Chaque année civile, au plus tard le 31 mars, le responsable de l'établissement adresse au préfet du lieu d'implantation de l'établissement une déclaration préalable relative à l'organisation de la formation. Cette déclaration préalable est accompagnée des pièces suivantes :
-
-- copie de la déclaration d'activité prévue aux articles R. 6351-1 à R. 6351-8 du code du travail ;
-
-- programme détaillé de la formation ;
-
-- lieu(x) et calendriers prévisionnels des stages de formation ;
-
-- noms des formateurs et attestations d'habilitation à assurer ces formations ;
-
-- engagement de l'établissement à respecter les obligations fixées dans la présente annexe (programme, durée, nombre de stagiaires, conditions d'évaluation, habilitation des formateurs, délivrance des attestations conformes aux modèles figurant aux annexes 1 et 2 du présent arrêté, bilan des formations réalisées).
-
-Le préfet accuse réception de la déclaration préalable dans un délai d'un mois. Si celle-ci est incomplète, il en informe le responsable de l'établissement. Il lui communique le résultat de la vérification de la déclaration préalable dans un délai de deux mois à compter de la date de l'accusé de réception de la déclaration complète.
-
-Le préfet met à la disposition du public la liste des établissements assurant cette formation.
-
 La formation est réalisée en mettant en œuvre les méthodes pédagogiques suivantes : exposés, études de cas, ateliers. Un dossier regroupant de la documentation relative aux axes de travail décrits ci-dessus est remis aux stagiaires.
 
 Délivrance des attestations de suivi de formation.
 
 Le responsable de l'établissement délivre, à l'issue de chaque formation, à tout participant, une attestation de formation conforme à l'annexe 1 du présent arrêté et en adresse une copie à l'Institut national de sécurité routière et de recherches.
-
-Bilan de la formation.
-
-Le responsable de l'établissement adresse à l'Institut national de sécurité routière et de recherches, avant le 31 mars de chaque année, une copie du bilan quantitatif et qualitatif de la formation. L'Institut national de sécurité routière et de recherches en établit une synthèse destinée au ministère chargé de la sécurité routière pour présentation au comité de suivi des stages de formation des conducteurs infractionnistes en vue, si nécessaire, d'adaptations du programme et des modalités de la formation.
 
 III. - La formation des formateurs
 

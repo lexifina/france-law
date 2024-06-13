@@ -24,7 +24,7 @@ a suivi le à (ville/département)
 
 la formation continue à la gestion technique et administrative d'un établissement chargé d'organiser les stages de sensibilisation à la sécurité routière, organisée sous la responsabilité du ministère chargé de la sécurité routière.
 
-Fait à ,le
+Délivré à, le pour une durée de 5 ans
 
 Signature du responsable
 
@@ -36,6 +36,6 @@ Nom et signature du bénéficiaire de la formation :
 
 Numéro INSERR :
 
-Date du premier jour de la formation (jour/mois/année) :
+Date de la formation (jour/mois/année) :
 
 Numéro du bénéficiaire de la formation :
