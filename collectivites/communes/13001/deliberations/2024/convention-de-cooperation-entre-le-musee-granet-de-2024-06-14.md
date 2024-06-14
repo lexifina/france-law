@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONVENTION DE COOPERATION ENTRE LE MUSEE GRANET DE LA COMMUNE D'AIX-EN-PROVENCE ET LE MUSEE DES BEAUX-ARTS DE LA COMMUNE DE DRAGUIGNAN DANS LE CADRE DU TRANSPORT D'OEUVRES D'ART DE LA COLLECTION HORVITZ WILMINGTON (USA)
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2024-06-14
+- Séance : Conseil Municipal 1CA
+- Objet : CONVENTION DE COOPERATION ENTRE LE MUSEE GRANET DE LA COMMUNE D'AIX-EN-PROVENCE ET LE MUSEE DES BEAUX-ARTS DE LA COMMUNE DE DRAGUIGNAN DANS LE CADRE DU TRANSPORT D'OEUVRES D'ART DE LA COLLECTION HORVITZ WILMINGTON (USA)
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-18202-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
