@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONVENTION DE DELEGATION DE COMPETENCE ENTRE LA COMMUNE D'AIX EN PROVENCE ET LA METROPOLE AIX MARSEILLE AU TITRE DE L'ENTRETIEN DE LA VOIRIE SUPPORTANT LA CIRCULATION D'UN TRANSPORT COLLECTIF EN SITE PROPRE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2024-06-14
+- Séance : Conseil Municipal 1CA
+- Objet : CONVENTION DE DELEGATION DE COMPETENCE ENTRE LA COMMUNE D'AIX EN PROVENCE ET LA METROPOLE AIX MARSEILLE AU TITRE DE L'ENTRETIEN DE LA VOIRIE SUPPORTANT LA CIRCULATION D'UN TRANSPORT COLLECTIF EN SITE PROPRE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-18130-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
