@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — RÉSEAU RADIO DU FUTUR - CONVENTION D'ADHÉSION AU RÉSEAU DE COMMUNICATION MOBILE CRITIQUE A TRÈS HAUT DÉBITS DES SERVICES DE SECOURS ET DE SÉCURITÉ ENTRE LA VILLE ET L'AGENCE DES COMMUNICATIONS MOBILES DE SÉCURITÉ ET DE SECOURS - ACMOSS
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2024-06-14
+- Séance : Conseil Municipal 1CA
+- Objet : RÉSEAU RADIO DU FUTUR - CONVENTION D'ADHÉSION AU RÉSEAU DE COMMUNICATION MOBILE CRITIQUE A TRÈS HAUT DÉBITS DES SERVICES DE SECOURS ET DE SÉCURITÉ ENTRE LA VILLE ET L'AGENCE DES COMMUNICATIONS MOBILES DE SÉCURITÉ ET DE SECOURS - ACMOSS
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-18235-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
