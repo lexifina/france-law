@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ATTRIBUTION DE SUBVENTIONS 2024 AUX ASSOCIATIONS OEUVRANT POUR L'ENFANCE - ASSOCIATION JEUNESSE LUYNOISE SPORTS ET LOISIRS, PLANET'JEUNES, ALOTRA, ASTI et ÉCOLE DES XV - ADOPTION D'UNE CONVENTION - AUTORISATION DE SIGNATURE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2024-06-14
+- Séance : Conseil Municipal 1CA
+- Objet : ATTRIBUTION DE SUBVENTIONS 2024 AUX ASSOCIATIONS OEUVRANT POUR L'ENFANCE - ASSOCIATION JEUNESSE LUYNOISE SPORTS ET LOISIRS, PLANET'JEUNES, ALOTRA, ASTI et ÉCOLE DES XV - ADOPTION D'UNE CONVENTION - AUTORISATION DE SIGNATURE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-18262-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
