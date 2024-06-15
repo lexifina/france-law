@@ -56,7 +56,9 @@ Postes désignés sur proposition du directeur ou le chef du service gestionnair
 
 - inspection de l'armée de terre ;
 
-- pôle interarmées de traitement du danger des munitions et explosifs (PIAM).
+- pôle interarmées de traitement du danger des munitions et explosifs (PIAM) ;
+
+- état-major de la brigade du génie.
 
 2° Unités de la marine nationale :
 

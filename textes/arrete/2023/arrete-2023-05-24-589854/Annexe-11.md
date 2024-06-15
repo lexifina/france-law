@@ -62,9 +62,9 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 
 - 4e brigade d'aérocombat ;
 
-- état-major du commandement des forces terrestres (CFT) ;
+- état-major du commandement de la force et des opérations terrestres (CFOT) ;
 
-- état-major du commandement des forces spéciales terre (CFST) ;
+- état-major du commandement des actions spéciales terre (CAST) ;
 
 - état-major de la 1re division ;
 
@@ -75,8 +75,6 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 - base école du 2e régiment d'hélicoptères de combat ;
 
 - corps de réaction rapide - France (CRR-Fr) ;
-
-- centre de doctrine et de l'enseignement du commandement/enseignement militaire supérieur scientifique et technique (CDEC/EMSST) scolarités (management aéronautique) ;
 
 - 61e régiment d'artillerie ;
 
@@ -94,11 +92,13 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 
 - détachement avions de l'armée de terre (DAAT) ;
 
-- état-major du commandement du renseignement des forces terrestres (COMRENS) ;
+- état-major du commandement des actions dans la profondeur et du renseignement (CAPR) ;
 
 - section technique de l'armée de terre (STAT) ;
 
-- école de l'aviation légère de l'armée de terre.
+- école de l'aviation légère de l'armée de terre ;
+
+- centre d'enseignement militaire supérieur Terre (scolarités management aéronautique).
 
 3° Unités de la marine nationale :
 
@@ -207,3 +207,7 @@ c) Direction générale de l'armement (DGA)
 - centres de contrôle.
 
 d) Direction interarmées des réseaux d'infrastructure et des systèmes d'information (DIRISI) : Section Système de management de la sécurité (SMS).
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 7 juin 2024 (NOR : ARMH2415574A), les dispositions du c du 5° de l'article 1er dudit arrêté prennent effet le 1er août 2024.

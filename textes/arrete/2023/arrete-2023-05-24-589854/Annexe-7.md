@@ -26,7 +26,7 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - centre de formation initiale des militaires du rang de la 11e brigade parachutiste - 6e régiment de parachutistes d'infanterie de marine ;
 
-- état-major du commandement des forces spéciales - terre ;
+- état-major du commandement des actions spéciales terre ;
 
 - 1er régiment de parachutistes d'infanterie de marine ;
 

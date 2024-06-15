@@ -140,7 +140,7 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - 2e régiment de parachutistes d'infanterie de marine ;
 
-- détachement de la légion étrangère de Mayotte ;
+- 5e régiment étranger ;
 
 - régiment d'infanterie de marine du Pacifique - Nouvelle-Calédonie ;
 
@@ -240,4 +240,20 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - les postes n'ouvrant pas droit à la prime de compétences spécifiques de parachutiste spécialisé au sein du 4e régiment d'hélicoptères des forces spéciales ;
 
-- 3e régiment d'artillerie - Centre d'entraînement et de contrôle des postes de commandement (CECPC).
+- 3e régiment d'artillerie - Centre d'entraînement et de contrôle des postes de commandement (CECPC) ;
+
+- état-major de la brigade d'appui numérique et cyberdéfense ;
+
+- état-major de la brigade de renseignement et du cyber-électronique ;
+
+- état-major de la 19e brigade d'artillerie ;
+
+- état-major de la brigade du génie ;
+
+- état-major de la brigade logistique ;
+
+- état-major de la brigade de maintenance.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 7 juin 2024 (NOR : ARMH2415574A), les dispositions du a du 3° de l'article 1er dudit arrêté s'appliquent aux rémunérations versées à compter du mois de juin 2024.

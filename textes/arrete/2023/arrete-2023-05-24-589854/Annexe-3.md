@@ -156,7 +156,9 @@ c) Armée de terre :
 
 - école du génie ;
 
-- état-major du commandement des forces terrestres.
+- état-major du commandement de la force et des opérations terrestres ;
+
+- état-major de la brigade du génie.
 
 d) Service de santé des armées :
 

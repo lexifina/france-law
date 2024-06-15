@@ -10,17 +10,17 @@ Postes exigeant la mise en œuvre et la maintenance des aéronefs ou la certific
 
 - état-major de l'armée de terre (EMAT) ;
 
-- état-major du commandement des forces terrestres (CFT) ;
+- état-major du commandement de la force et des opérations terrestres (CFOT) ;
 
 - section technique de l'armée de terre (STAT) ;
 
-- état-major du commandement du renseignement des forces terrestres (COMRENS) ;
+- état-major du commandement des actions dans la profondeur et du renseignement (CAPR) ;
 
 - état-major du commandement de l'aviation légère de l'armée de terre (COMALAT) ;
 
 - état-major de la 4e brigade d'aérocombat (BAC) ;
 
-- état-major du commandement des forces spéciales-terre (CFST) ;
+- état-major du commandement des actions spéciales terre (CAST) ;
 
 - 1er régiment d'hélicoptères de combat (RHC) ;
 
