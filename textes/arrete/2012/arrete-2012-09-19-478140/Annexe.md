@@ -1,6 +1,8 @@
 # Article Annexe
 
-DISPENSATEUR DE FORMATION |
+DISPENSATEUR
+
+DE FORMATION |
 
 TYPES D'HABILITATION |
 
@@ -12,11 +14,7 @@ Jusqu'au |
 
 ADIV Association,
 
-10, rue Jacqueline Auriol,
-
-ZAC des Gravanches,
-
-63039 CLERMONT-FERRAND Cedex 2 |
+10, rue Jacqueline Auriol, ZAC des Gravanches, 63039 CLERMONT-FERRAND Cedex 2 |
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -44,9 +42,7 @@ RPA et opérateur, porcins-manipulation et soins-mise à mort |
 
 ALIQUA,
 
-3, chemin du Paradis,
-
-27220 La Boissière |
+3, chemin du Paradis, 27220 LA BOISSIÈRE |
 
 RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -64,9 +60,7 @@ RPA et opérateur, ovins/ caprins-manipulations et soins-mise à mort-complémen
 
 ASTEC IAA,
 
-6, chemin de Causseroux,
-
-12200 VILLEFRANCHE-DE-ROUERGUE |
+6, chemin de Causseroux, 12200 VILLEFRANCHE-DE-ROUERGUE |
 
 Opérateur, bovins/ équidés-manipulations et soins-mise à mort-complément sans étourdissement |
 
@@ -96,9 +90,7 @@ RPA, volailles, manipulations et soins, mise à mort, complément sans étourdis
 
 RPA, lagomorphes/ rongeurs, manipulations et soins, mise à mort, complément sans étourdissement |
 
-Avipole Formation, Zoopôle les Croix, rue Camille Guérin,
-
-22400 PLOUFRAGAN |
+Avipole Formation, Zoopôle les Croix, rue Camille Guérin, 22400 PLOUFRAGAN |
 
 RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -116,7 +108,7 @@ RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort-comp
 
 BUREAU ETRE
 
-place de la Fontaine
+Place de la Fontaine
 
 63210 OLBY |
 
@@ -135,6 +127,12 @@ RPA, bovins/ équidés-manipulation et soins-mise à mort-complément sans étou
 RPA, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
 RPA, porcins-manipulation et soins-mise à mort |
+
+Opérateur, Cervidés/ Bisons-Manipulation et soins-mise à mort-Complément sans étourdissement |
+
+1er septembre 2024 |
+
+31 août 2029 |
 
 Chêne Vert Conseil, ZI Bellevue II, 35220 CHATEAUBOURG |
 
@@ -166,9 +164,7 @@ Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément san
 
 Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-Ecole des métiers BIGARD-EMB, Groupe Bigard, ZI de Kergostiou,
-
-CS 70053,
+École des métiers BIGARD-EMB, Groupe Bigard, ZI de Kergostiou, CS 70053,
 
 29393 QUIMPERLÉ Cedex |
 
@@ -196,9 +192,7 @@ RPA, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdi
 
 RPA, porcins-manipulation et soins-mise à mort |
 
-EPLEFPA de Saint-Paul,
-
-165, route de Mafate,
+EPLEFPA de Saint-Paul, 165, route de Mafate,
 
 97460 SAINT-PAUL |
 
@@ -236,7 +230,7 @@ INNHOZ
 
 Rond-Point du ZOOPOLE
 
-2, rue Jean Rostand
+2, Rue jean Rostand
 
 22440 PLOUFRAGAN |
 
@@ -280,11 +274,7 @@ RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complém
 
 RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-NOE DEVELOPPEMENT,
-
-9 la grande Noë,
-
-35150 AMANLIS |
+NOE DEVELOPPEMENT, 9 la grande Noë, 35150 AMANLIS |
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -302,21 +292,13 @@ Opérateur, Cervidés/ Bisons-Manipulation et soins-mise à mort-Complément san
 
 31 janvier 2029 |
 
-RCServices Formation,
-
-23, rue Olivier-de-Serres,
-
-ZAC de la Buzenière,
-
-BP 539,
-
-85500 LES HERBIERS |
+RCServices Formation, 23, rue Olivier-de-Serres, ZAC de la Buzenière, BP 539,85500 LES HERBIERS |
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
-1er septembre 2019 |
+1er septembre 2024 |
 
-31 août 2024 |
+31 août 2029 |
 
 RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -334,7 +316,7 @@ RPA et opérateur, ratite-manipulation et soins-mise à mort. |
 
 SDBF,
 
-1, allée Frédéric Chopin,
+1 Allée Frédéric Chopin,
 
 35760 SAINT-GREGOIRE |
 
@@ -394,13 +376,11 @@ RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complém
 
 RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort-complément sans étourdissement |
+RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort |
 
 RPA et opérateur, porcins-manipulation et soins, mise à mort |
 
-SVA Jean ROZÉ, rue Victor-Baltard,
-
-BP 90237,35500 VITRÉ |
+SVA Jean ROZÉ, rue Victor-Baltard, BP 90237,35500 VITRÉ |
 
 Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
