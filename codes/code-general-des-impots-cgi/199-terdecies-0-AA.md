@@ -2,7 +2,11 @@
 
 L'article 199 terdecies-0 A s'applique sous les mêmes conditions et sous les mêmes sanctions aux souscriptions en numéraire au capital des entreprises d'utilité sociale mentionnées à l'article L. 3332-17-1 du code du travail, sous les réserves suivantes :
 
-1° Les exclusions prévues au 3° du C du I de l'article 199 terdecies-0 A, relatives à l'exercice d'une activité financière, de construction d'immeubles ou immobilière ne sont pas applicables aux entreprises solidaires. Toutefois, les exclusions relatives à l'exercice d'une activité immobilière ou de construction d'immeubles sont applicables aux entreprises solidaires qui n'exercent pas une activité de gestion immobilière à vocation sociale ;
+1° Les exclusions prévues au 3° du C du I de l'article 199 terdecies-0 A relatives à l'exercice d'une activité financière, de construction d'immeubles ou immobilière ne sont pas applicables aux entreprises solidaires. Toutefois, les exclusions relatives à l'exercice d'une activité immobilière ou de construction d'immeubles sont applicables aux entreprises solidaires, à l'exception :
+
+a) Des entreprises solidaires qui n'exercent pas une activité de gestion immobilière à vocation sociale ;
+
+b) Des entreprises solidaires agréées par le ministre chargé de la culture et ayant pour mission de contribuer à la préservation et à la mise en valeur des monuments historiques et des sites, parcs et jardins protégés ;
 
 2° Par dérogation au 4° du même C, la société bénéficiaire des versements remplit au moins l'une des conditions suivantes au moment de l'investissement initial :
 

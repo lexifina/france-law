@@ -6,4 +6,4 @@ Le montant total de l'intérêt servi aux parts sociales ne peut excéder les so
 
 Les subventions, encouragements et autres moyens financiers versés à la société par les collectivités publiques, leurs groupements et les associations ne sont pas pris en compte pour le calcul de l'intérêt versé aux parts sociales et, le cas échéant, des avantages ou intérêts servis en application des articles 11 et 11 bis.
 
-L'article 15, les troisième et quatrième alinéas de l'article 16 et le deuxième alinéa de l'article 18 ne sont pas applicables.
+L'article 15 et les deux derniers alinéas de l'article 16 ne sont pas applicables.
