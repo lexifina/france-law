@@ -34,7 +34,7 @@ Sur trois ans, ces périodes de formation en milieu professionnel se décomposen
 
 - 5 semaines permettant d'aborder des activités liées à des opérations de transport en lien avec des transports spécifiques (conteneurs, matières dangereuses, pondéreux).
 
-- 11 semaines de conduite intensive et aux manœuvres, encadrées par les enseignants de l'établissement de formation et réalisées sur le bateau école.
+- 9 semaines de conduite intensive et aux manœuvres, encadrées par les enseignants de l'établissement de formation et réalisées sur le bateau école.
 
 1.1. Modalités d'intervention des professeurs
 
@@ -157,3 +157,7 @@ Pour les candidats positionnés par décision du recteur, la durée minimale de 
 • 10 semaines pour les candidats issus de la voie scolaire (article D337-65 du code de l'éducation).
 
 • 8 semaines pour les candidats issus de la formation professionnelle continue.
+
+NOTA :
+
+Conformément à l'article 8 de l'arrêté du 13 juin 2024 (NOR : MENE2411418A), ces dispositions entrent en vigueur à la rentrée scolaire 2024.

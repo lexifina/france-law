@@ -74,7 +74,7 @@ UNITES PROFESSIONNELLES U2 - U31- U32 - U33
 
 La définition du contenu des unités constitutives professionnelles (U2 - U31 - U32 - U 33) a pour but de préciser pour chacune d'elles, les blocs de compétences visés dans un contexte professionnel donné, il s'agit à la fois :
 
-- de permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de « validation des acquis de l'expérience » (V.A.E.) ;
+- de permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de validation des acquis de l'expérience (V.A.E.) ;
 
 - d'établir la liaison entre les unités, correspondant aux épreuves, et le référentiel d'activités professionnelles afin de préciser le cadre de l'évaluation.
 
@@ -178,7 +178,7 @@ Pour la classe de 2nde, le programme sur lequel repose l'unité est défini par 
 
 Pour les classes de 1re et de terminale, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 fixant le programme d'enseignement de mathématiques des classes de première et terminale préparant au baccalauréat professionnel (BO spécial n° 1 du 6 février 2020).
 
-La spécialité « Accompagnement, soins et services à la personne » de baccalauréat professionnel est rattachée au groupement C.
+La spécialité Accompagnement, soins et services à la personne de baccalauréat professionnel est rattachée au groupement C.
 
 UNITE U 12 - Physique-chimie
 
@@ -186,7 +186,7 @@ Pour la classe de 2nde, le programme sur lequel repose l'unité est défini par 
 
 Pour les classes de 1re et de terminale, le programme sur lequel repose l'unité est défini par l'arrêté du 3 février 2020 fixant le programme d'enseignement de physique-chimie des classes de première et terminale préparant au baccalauréat professionnel (BO spécial n° 1 du 6 février 2020).
 
-La spécialité « Accompagnement, soins et services à la personne » de baccalauréat professionnel est rattachée au groupement 5.
+La spécialité Accompagnement, soins et services à la personne de baccalauréat professionnel est rattachée au groupement 5.
 
 UNITE U 34 - Economie-Gestion
 
@@ -248,7 +248,7 @@ Les compétences constitutives de l'unité facultative de mobilité sont défini
 
 Unité facultative secteur sportif
 
-Les compétences constitutives de l'unité facultative de secteur sportif sont définies par l'arrêté du 8 juillet 2021 modifié portant création d'une unité facultative de « secteur sportif » pour certaines spécialités du baccalauréat professionnel et portant équivalences entre le baccalauréat professionnel et le brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
+Les compétences constitutives de l'unité facultative de secteur sportif sont définies par l'arrêté du 8 juillet 2021 modifié portant création d'une unité facultative de secteur sportif pour certaines spécialités du baccalauréat professionnel et portant équivalences entre le baccalauréat professionnel et le brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
 
 IV b - Règlement d'examen
 
@@ -718,7 +718,7 @@ La sous-épreuve doit permettre de vérifier que le candidat est capable :
 
 - de se placer dans une posture professionnelle, dans le respect de ses limites de compétences.
 
-La sous-épreuve se déroule en année de terminale. Elle prend appui sur un dossier élaboré par le candidat au cours d'une période de formation en milieu professionnel (PFMP) ou lors d'une activité professionnelle d'une durée minimale de quatre semaines.
+La sous-épreuve se déroule en année de terminale. Elle prend appui sur un dossier élaboré par le candidat au cours d'une période de formation en milieu professionnel (PFMP) ou lors d'une activité professionnelle d'une durée minimale de trois semaines.
 
 La PFMP ou l'activité professionnelle est effectuée obligatoirement dans des services ou structures suivants :
 
@@ -758,7 +758,7 @@ L'épreuve s'organise en deux temps :
 
 L'entretien permet également de vérifier la maîtrise des savoirs associés relatifs au bloc 1, en lien avec le dossier et la présentation.
 
-En l'absence du dossier et des documents exigés ou en cas de retard lors de leur remise, le candidat ne peut être interrogé et la note « 0 » sera attribuée à cette sous-épreuve.
+En l'absence du dossier et des documents exigés ou en cas de retard lors de leur remise, le candidat ne peut être interrogé et la note 0 sera attribuée à cette sous-épreuve.
 
 La note portée par la commission d'évaluation, résulte :
 
@@ -864,7 +864,7 @@ La commission d'évaluation est composée de deux membres, un enseignant de la s
 
 Contrôle en cours de formation
 
-Le contrôle en cours de formation a lieu au cours d'une période de formation en milieu professionnel auprès d'adultes non autonomes, dans un établissement sanitaire ou médicosocial, dans un service d'hospitalisation à domicile ou de soins infirmiers à domicile. Cette période, d'une durée d'au moins quatre semaines, a lieu au cours de la classe de terminale.
+Le contrôle en cours de formation a lieu au cours d'une période de formation en milieu professionnel auprès d'adultes non autonomes, dans un établissement sanitaire ou médicosocial, dans un service d'hospitalisation à domicile ou de soins infirmiers à domicile. Cette période, d'une durée d'au moins trois semaines, a lieu au cours de la classe de terminale.
 
 L'évaluation est réalisée par le tuteur sur l'ensemble de la période de formation en milieu professionnel, elle porte sur des activités :
 
@@ -1198,4 +1198,8 @@ L'épreuve facultative de mobilité est définie par l'arrêté du 30 août 2019
 
 Epreuve facultative secteur sportif
 
-L'épreuve facultative « secteur sportif » est définie par l'arrêté du 8 juillet 2021 modifié créant l'unité professionnelle facultative « secteur sportif » pour certaines spécialités du baccalauréat professionnel et portant équivalences entre le baccalauréat professionnel et le brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
+L'épreuve facultative secteur sportif est définie par l'arrêté du 8 juillet 2021 modifié créant l'unité professionnelle facultative secteur sportif pour certaines spécialités du baccalauréat professionnel et portant équivalences entre le baccalauréat professionnel et le brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
+
+NOTA :
+
+Conformément à l'article 8 de l'arrêté du 13 juin 2024 (NOR : MENE2411418A), ces dispositions entrent en vigueur à la rentrée scolaire 2024.

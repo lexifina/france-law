@@ -28,9 +28,9 @@ Le tuteur ou le maître d'apprentissage contribue à la formation, en étroite c
 
 2. Durée de la période de formation en milieu professionnel (PFMP)
 
-La durée de la formation en milieu professionnel est de 22 semaines.
+La durée de la formation en milieu professionnel est de 20 semaines.
 
-Ces 22 semaines sont réparties sur les trois années de formation, cette durée ne peut être fractionnée en plus de six périodes, la durée de chaque période ne pouvant être inférieure à trois semaines.
+Ces 20 semaines sont réparties sur les trois années de formation, cette durée ne peut être fractionnée en plus de six périodes, la durée de chaque période ne pouvant être inférieure à trois semaines.
 
 Sous statut scolaire, la répartition des PFMP se fait dans le respect des dispositions de l'arrêté du 1er mars 2021 relatif à l'organisation et aux enseignements dispensés dans les formations sous statut scolaire préparant au baccalauréat professionnel et de son annexe.
 
@@ -42,9 +42,9 @@ Pour les candidats positionnés par décision du recteur (articles D. 337-62 à 
 
 - 10 semaines pour les candidats issus de la voie de la formation professionnelle continue.
 
-Dans le cas où le cycle de formation se déroule sur deux ans, la durée est ramenée à 16 semaines. Certaines situations relèvent d'un positionnement règlementaire.
+Dans le cas où le cycle de formation se déroule sur deux ans, la durée est ramenée à 14 semaines. Certaines situations relèvent d'un positionnement règlementaire.
 
-Les douze dernières semaines servent de support aux évaluations des épreuves E31, E32 et E33 du baccalauréat professionnel.
+Les dix dernières semaines servent de support aux évaluations des épreuves E31, E32 et E33 du baccalauréat professionnel.
 
 3. Organisation de la formation en milieu professionnel
 
@@ -78,9 +78,9 @@ Les lieux retenus doivent être complémentaires en termes de publics accueillis
 
 Six semaines sont effectuées en classe de seconde. Elles se déroulent en structures médicosociales, en service d'aide à domicile, en structures d'accueil collectif de la petite enfance.
 
-Seize semaines sont réparties en classes de première et terminale (huit semaines par année). Elles se déroulent en établissements de santé, en structures médicosociales, en service de soins ou d'aide à domicile. Selon le projet professionnel de l'élève, elles peuvent se dérouler en école élémentaire dans le cadre de l'accompagnement d'enfants en situation de handicap.
+Quatorze semaines sont réparties en classes de première et terminale. Elles se déroulent en établissements de santé, en structures médicosociales, en service de soins ou d'aide à domicile. Selon le projet professionnel de l'élève, elles peuvent se dérouler en école élémentaire dans le cadre de l'accompagnement d'enfants en situation de handicap.
 
-Sur les seize semaines, dix semaines au moins doivent se dérouler auprès d'adultes non autonomes.
+Sur les quatorze semaines, huit semaines au moins doivent se dérouler auprès d'adultes non autonomes.
 
 3.2. Candidats relevant de la voie de l'enseignement à distance
 
@@ -92,7 +92,7 @@ La formation fait l'objet d'un contrat conclu entre l'apprenti et son employeur 
 
 Afin d'assurer la cohérence de la formation, l'équipe pédagogique du centre de formation d'apprentis doit veiller à informer le maître d'apprentissage des objectifs de la formation en milieu professionnel et des compétences à acquérir ou mettre en œuvre dans le contexte professionnel.
 
-Il est important que les diverses activités de la formation soient réalisées par l'apprenti en milieu professionnel. En cas de situation d'organisation n'offrant pas tous les aspects de la formation, l'article R. 6223 - 10 du code du travail sera mis en application. Pour rappel, dix semaines au moins doivent se dérouler auprès d'adultes non autonomes.
+Il est important que les diverses activités de la formation soient réalisées par l'apprenti en milieu professionnel. En cas de situation d'organisation n'offrant pas tous les aspects de la formation, l'article R. 6223 - 10 du code du travail sera mis en application. Pour rappel, huit semaines au moins doivent se dérouler auprès d'adultes non autonomes.
 
 3.4. Voie de la formation professionnelle continue
 
@@ -130,7 +130,7 @@ Pour les candidats positionnés par décision du recteur, la durée minimale de 
 
 L'équipe pédagogique détermine avec le candidat, en fonction de son parcours et de son projet professionnel, le ou les secteurs sur lesquels doivent porter les PFMP ainsi que leur durée.
 
-Dans le cas où le cycle de formation se déroule sur deux ans (élèves venant d'un CAP d'un autre secteur ou d'une seconde générale ou technologique ou professionnelle autre par exemple) la durée des PFMP est ramenée à 16 semaines.
+Dans le cas où le cycle de formation se déroule sur deux ans (élèves venant d'un CAP d'un autre secteur ou d'une seconde générale ou technologique ou professionnelle autre par exemple) la durée des PFMP est ramenée à 14 semaines.
 
 3.7. Période de formation en milieu professionnel à l'étranger
 
@@ -141,3 +141,7 @@ L'épreuve professionnelle n'est pas nécessairement réalisée dans la langue d
 Les PFMP et/ou les périodes d'apprentissage à l'étranger doivent être encouragées et soutenues.
 
 L'arrêté du 30 août 2019 porte création d'une unité facultative de mobilité et de l'attestation MobilitéPro dans les diplômes du baccalauréat professionnel.
+
+NOTA :
+
+Conformément à l'article 8 de l'arrêté du 13 juin 2024 (NOR : MENE2411418A), ces dispositions entrent en vigueur à la rentrée scolaire 2024.
