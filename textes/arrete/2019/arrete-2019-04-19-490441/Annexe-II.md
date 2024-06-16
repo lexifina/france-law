@@ -1,140 +1,144 @@
 # Article Annexe II
 
-DURÉE DE LA PÉRIODE DE FORMATION EN MILIEU PROFESSIONNEL (PFMP) A 12 OU 14 SEMAINES AU CERTIFICAT D'APTITUDE PROFESSIONNELLE
+DURÉE DE LA PÉRIODE DE FORMATION EN MILIEU PROFESSIONNEL (PFMP) À 12 OU 14 SEMAINES AU CERTIFICAT D'APTITUDE PROFESSIONNELLE
 
-(en conformité avec l'arrêté du 21 novembre 2018)
+(en conformité avec l'arrêté du 21 novembre 2018 modifié relatif à l'organisation et aux enseignements dispensés dans les formations sous statut scolaire préparant au certificat d'aptitude professionnelle)
 
 SPÉCIALITÉS DE CERTIFICAT D'APTITUDE PROFESSIONNELLE |
 
-DURÉE PFMP
-
-(en semaines) |
+Durée PFMP |
 
 INTITULÉ DE LA SPÉCIALITÉ |
 
-ARRÊTÉ DE CRÉATION |
+Date de l'arrêté de création |
 
-ACCESSOIRISTE RÉALISATEUR |
+ACCESSOIRISTE REALISATEUR |
 
 Arrêté du 26 août 1993 modifié |
 
 12 |
 
-ACCORDEUR DE PIANOS |
+ACCOMPAGNANT EDUCATIF PETITE ENFANCE |
 
-Arrêté du 25 août1994 |
+Arrêté du 30 novembre 2020 modifié |
+
+14 |
+
+ACCORDEUR DE PIANO |
+
+Arrêté du 25 août 1994 |
 
 12 |
 
-AÉRONAUTIQUE Option avionique |
+AERONAUTIQUE-option avionique |
 
 Arrêté du 19 août 2013 |
 
 12 |
 
-AÉRONAUTIQUE Option structures |
+AERONAUTIQUE-option structure |
 
 Arrêté du 19 août 2013 |
 
 12 |
 
-AÉRONAUTIQUE Option systèmes |
+AERONAUTIQUE-option systèmes |
 
 Arrêté du 19 août 2013 |
 
 12 |
 
-AGENT D'ASSAINISSEMENT & de COLLECTE des DÉCHETS LIQUIDES SPÉCIAUX |
+AGENT ACCOMPAGNANT AU GRAND AGE (première session 2025) |
 
-Arrêté de 11 mars 1994 |
+Arrêté du 6 février 2023 |
+
+14 |
+
+AGENT D'ACCUEIL ET DE CONDUITE ROUTIERE, TRANSPORT DE VOYAGEURS (dernière session 2024) |
+
+Arrêté du 8 novembre 2004 |
+
+14 |
+
+AGENT D'ASSAINISSEMENT ET DE COLLECTE DES DECHETS LIQUIDES SPECIAUX |
+
+Arrêté du 11 mars 1994 |
 
 12 |
 
-AGENT DE LA QUALITÉ DE L'EAU |
+AGENT DE LA QUALITE DE L'EAU |
 
 Arrêté du 23 août 1990 modifié |
 
 12 |
 
-AGENT DE MAINTENANCE DES INDUSTRIES DE MATÉRIAUX DE CONSTRUCTION ET CONNEXES |
+AGENT DE MAINTENANCE DES INDUSTRIES DE MATERIAUX DE CONSTRUCTION ET CONNEXES (dernière session 2023) |
 
 Arrêté du 3 juin 1961 |
 
 12 |
 
-AGENT DE PROPRETÉ ET D'HYGIÈNE |
+AGENT DE PREVENTION ET DE MEDIATION |
+
+Arrêté du 6 juillet 2004 modifié |
+
+14 |
+
+AGENT DE PROPRETE ET D'HYGIENE |
 
 Arrêté du 23 décembre 2013 |
 
 14 |
 
-AGENT DE SÉCURITÉ |
+AGENT DE SECURITE |
 
-Arrêté du 21 avril 2010 |
+Arrêté du 21 avril 2010 modifié |
 
 12 |
 
-AGENT POLYVALENT DE RESTAURATION |
-
-Arrêté du 12 juillet 1999 |
-
-14 |
-
-AGENT VÉRIFICATEUR D'APPAREILS EXTINCTEURS |
+AGENT VERIFICATEUR D'APPAREILS EXTINCTEURS |
 
 Arrêté du 21 octobre 2004 |
 
 12 |
 
-ARMURERIE (FABRICATION ET RÉPARATION) |
+ARMURERIE (FABRICATION ET REPARATION) |
 
 Arrêté du 16 février 2004 |
 
 12 |
 
-ART ET TECHNIQUE DE LA BIJOUTERIE-JOAILLERIE option BIJOUTERIE SERTISSAGE |
+ART ET TECHNIQUES DE LA BIJOUTERIE-JOAILLERIE-option bijouterie-joaillerie |
 
 Arrêté du 18 mars 2008 |
 
 12 |
 
-ART ET TECHNIQUE DE LA BIJOUTERIE-JOAILLERIE option BIJOUTERIE-JOALLERIE |
+ART ET TECHNIQUES DE LA BIJOUTERIE-JOAILLERIE-option bijouterie-sertissage |
 
 Arrêté du 18 mars 2008 |
 
 12 |
 
-ART ET TECHNIQUE DE LA BIJOUTERIE-JOAILLERIE option POLISSAGE FINITION |
+ART ET TECHNIQUES DE LA BIJOUTERIE-JOAILLERIE-option polissage-finition |
 
 Arrêté du 18 mars 2008 |
 
 12 |
 
-ARTS DE LA BRODERIE dom Machines automatisées |
+ARTS DE LA BRODERIE-(domaine machines automatisées/ domaine machines guidées main/ domaine main) |
 
 Arrêté du 19 juillet 1991 |
 
 12 |
 
-ARTS DE LA BRODERIE dom Machines guidées main |
-
-Arrêté du 19 juillet 1991 |
-
-12 |
-
-ARTS DE LA BRODERIE Dom. Main |
-
-Arrêté du 19 juillet 1991 |
-
-12 |
-
-ARTS DE LA DENTELLE Option AIGUILLE |
+ARTS DE LA DENTELLE-option aiguille |
 
 Arrêté du 29 juillet 2004 |
 
 12 |
 
-ARTS DE LA DENTELLE Option FUSEAU |
+ARTS DE LA DENTELLE-option fuseaux |
 
 Arrêté du 29 juillet 2004 |
 
@@ -146,19 +150,19 @@ Arrêté du 31 octobre 2017 |
 
 12 |
 
-ARTS DU BOIS Option A : SCULPTEUR ORNEMANISTE |
+ARTS DU BOIS-option a-sculpteur ornemaniste |
 
 Arrêté du 27 mai 1983 modifié |
 
 12 |
 
-ARTS DU BOIS Option B : TOURNEUR |
+ARTS DU BOIS-option b-tourneur |
 
 Arrêté du 27 mai 1983 modifié |
 
 12 |
 
-ARTS DU BOIS Option C : MARQUETEUR |
+ARTS DU BOIS-option c-marqueteur |
 
 Arrêté du 27 mai 1983 modifié |
 
@@ -176,83 +180,123 @@ Arrêté du 30 juin 2009 modifié |
 
 12 |
 
-ARTS ET TECHNIQUES DU VERRE : DÉCORATEUR SUR VERRE |
+ARTS ET TECHNIQUES DU VERRE-option décorateur sur verre |
 
 Arrêté du 29 août 1994 modifié |
 
 12 |
 
-ARTS ET TECHNIQUES DU VERRE : VITRAILLISTE |
+ARTS ET TECHNIQUES DU VERRE-option vitrailliste |
 
 Arrêté du 29 août 1994 modifié |
 
 12 |
 
-ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE option ACCORDÉON |
+ASSISTANT LUTHIER DU QUATUOR |
+
+Arrêté du 3 mai 2021 |
+
+12 |
+
+ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE OPTION ACCORDEON |
 
 Arrêté du 27 octobre 2004 modifié |
 
 12 |
 
-ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE option GUITARE |
+ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE-option guitare |
 
 Arrêté du 27 octobre 2004 modifié |
 
 12 |
 
-ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE option INSTRUMENTS À VENT |
+ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE-option instruments à vent |
 
 Arrêté du 27 octobre 2004 modifié |
 
 12 |
 
-ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE option PIANO |
+ASSISTANT TECHNIQUE EN INSTRUMENTS DE MUSIQUE-option piano |
 
 Arrêté du 27 octobre 2004 modifié |
 
 12 |
 
-BRONZIER option A : MONTEUR EN BRONZE |
+ASSISTANT TECHNIQUE EN MILIEUX FAMILIAL ET COLLECTIF (dernière session 2024-session supplémentaire 2025) |
 
-Arrêté du 19 juillet 1977
+Arrêté du 11 août 2004 modifié |
 
-|
+14 |
 
-12 |
+BOUCHER (dernière session 2024) |
 
-BRONZIER option B : CISELEUR EN BRONZE |
+Arrêté du 11 mai 2005 |
 
-Arrêté du 19 juillet 1977
+14 |
 
-|
+BOUCHER (première session 2025) |
 
-12 |
+Arrêté du 28 février 2023 |
 
-BRONZIER option C : TOURNEUR EN BRONZE |
+14 |
 
-Arrêté du 19 juillet 1977
+BOULANGER |
 
-|
+Arrêté du 21 février 2014 |
 
-12 |
+14 |
 
-CANNAGE PAILLAGE EN AMEUBLEMENT |
+BRONZIER-option a-monteur en bronze |
 
-Arrêté du 19 juillet 1977
-
-|
+Arrêté du 13 juillet 1977 |
 
 12 |
 
-CARRELEUR MOSAISTE |
+BRONZIER-option b-ciseleur sur bronze |
+
+Arrêté du 13 juillet 1977 |
+
+12 |
+
+BRONZIER-option c-tourneur sur bronze |
+
+Arrêté du 13 juillet 1977 |
+
+12 |
+
+CANNAGE ET PAILLAGE EN AMEUBLEMENT |
 
 Arrêté du 12 juillet 1990 |
+
+12 |
+
+CARRELEUR MOSAÏSTE |
+
+Arrêté du 15 avril 2019 |
+
+14 |
+
+CARROSSIER AUTOMOBILE (première session 2025) |
+
+Arrêté du 30 décembre 2022 |
+
+12 |
+
+CHARCUTIER-TRAITEUR (dernière session 2025) |
+
+Arrêté du 25 octobre 1999 |
+
+14 |
+
+CHARCUTERIE-TRAITEUR (première session 2026) |
+
+Arrêté du 13 novembre 2023 |
 
 14 |
 
 CHARPENTIER BOIS |
 
-Arrêté du 15 juillet 2003 |
+Arrêté du 10 avril 2020 |
 
 14 |
 
@@ -264,181 +308,197 @@ Arrêté du 31 mars 2005 |
 
 CHAUSSURE |
 
-Arrêté du 22 avril 2005 |
+Arrêté du 8 décembre 1998 |
 
 12 |
 
-CHOCOLATIER CONFISEUR |
+CHOCOLATIER-CONFISEUR (dernière session 2025) |
 
 Arrêté du 21 août 2002 modifié |
 
 14 |
 
-COIFFURE |
+CHOCOLATERIE-CONFISERIE (première session 2026) |
 
-Arrêté du 22 juin 2007 |
-
-12 |
-
-COMMERCIALISATION ET SERVICES EN HÔTEL-CAFÉ-RESTAURANT |
-
-Arrêté du 27 février 2017 modifié |
+Arrêté du 13 novembre 2023 |
 
 14 |
 
-CONDUCTEUR D'INSTALLATIONS DE PRODUCTION |
+COMMERCIALISATION ET SERVICES EN HOTEL-CAFE-RESTAURANT (dernière session 2025) |
 
-Arrêté du 30 mars 2012 modifié |
+Arrêté du 27 février 2017 |
+
+14 |
+
+COMMERCIALISATION ET SERVICES EN HOTEL-CAFE-RESTAURANT (première session 2026) |
+
+Arrêté du 19 octobre 2023 |
+
+14 |
+
+COMPOSITES, PLASTIQUES CHAUDRONNES |
+
+Arrêté du 21 août 2000 |
+
+14 |
+
+CONDUCTEUR AGENT D'ACCUEIL EN AUTOBUS ET AUTOCAR (première session 2025) |
+
+Arrêté du 12 mars 2023 |
 
 12 |
 
-CONDUITE D'ENGINS DE TRAVAUX PUBLICS ET DE CARRIÈRES |
+CONDUCTEUR D'ENGINS : TRAVAUX PUBLICS ET CARRIERES (dernière session 2024) |
 
 Arrêté du 24 mars 2006 |
 
 14 |
 
-CONDUCTEUR LIVREUR DE MARCHANDISES |
+CONDUCTEUR D'ENGINS : TRAVAUX PUBLICS ET CARRIERES (première session 2025) |
 
-Arrêté du 18 juin 2010 |
-
-12 |
-
-CONDUCTEUR - OPÉRATEUR DE SCIERIE |
-
-Arrêté du 16 février 2004 |
+Arrêté du 29 août 2022 |
 
 14 |
 
-CONDUCTEUR ROUTIER MARCHANDISE |
+CONDUCTEUR D'INSTALLATIONS DE PRODUCTION |
+
+Arrêté du 30 mars 2012 |
+
+12 |
+
+CONDUCTEUR LIVREUR DE MARCHANDISES |
+
+Arrêté du 18 juin 2010 modifié |
+
+12 |
+
+CONDUCTEUR ROUTIER " MARCHANDISES " |
 
 Arrêté du 21 juin 2007 |
 
 12 |
 
-CONSTRUCTEUR BOIS |
+CONDUCTEUR OPERATEUR DE SCIERIE |
 
-Arrêté du 15 juillet 2003 modifié |
-
-14 |
-
-CONSTRUCTEUR DE ROUTES |
-
-Arrêté du 25 octobre 2002 |
+Arrêté du 16 février 2004 |
 
 14 |
 
-CONSTRUCTION DES CARROSSERIES |
+CONSTRUCTEUR D'OUVRAGES EN BETON ARME |
+
+Arrêté du 8 avril 2019 |
+
+14 |
+
+CONSTRUCTEUR DE RESEAUX DE CANALISATIONS DE TRAVAUX PUBLICS |
+
+Arrêté du 15 avril 2019 |
+
+14 |
+
+CONSTRUCTEUR DE ROUTES ET D'AMENAGEMENTS URBAINS |
+
+Arrêté du 30 mars 2021 |
+
+14 |
+
+CONSTRUCTION DES CARROSSERIES (dernière session 2025) |
 
 Arrêté du 20 mars 2007 |
 
 12 |
 
-CONSTRUCTEUR EN BÉTON ARMÉ DU BÂTIMENT |
+CONTRUCTION ET AMENAGEMENT DE VEHICULES (première session 2026) |
 
-Arrêté du 25 octobre 2002 modifié |
+Arrêté du 2 avril 2024 |
 
-14 |
-
-CONSTRUCTEUR EN CANALISATIONS DES TRAVAUX PUBLICS |
-
-Arrêté du 25 octobre 2002 modifié |
-
-14 |
-
-CONSTRUCTEUR EN OUVRAGES D'ART |
-
-Arrêté du 25 octobre 2002 |
-
-14 |
+12 |
 
 CORDONNERIE MULTISERVICE |
 
-Arrêté du 17 mars 2005
-
-|
+Arrêté du 17 mars 2005 |
 
 12 |
 
 CORDONNIER BOTTIER |
 
-Arrêté du 7 juillet 1993 |
+Arrêté du 7 juillet 1993 modifié |
 
 12 |
 
 COUVREUR |
 
-Arrêté du 21 août 2002 modifié |
+Arrêté du 30 mars 2021 |
 
 14 |
 
-CRÉMIER-FROMAGER |
+CREMIER FROMAGER |
 
 Arrêté du 4 juillet 2017 |
 
 14 |
 
-CUISINE |
+CUISINE (dernière session 2025) |
 
 Arrêté du 17 mars 2016 |
 
 14 |
 
-DÉCOLLETAGE : OPÉRATEUR RÈGLEUR EN DÉCOLLETAGE |
+CUISINE (première session 2026) |
 
-Arrêté du 9 juillet 1990 |
+Arrêté du 19 octobre 2023 |
 
-12 |
+14 |
 
-DÉCORATION EN CÉRAMIQUE |
+DECOLLETAGE : OPERATEUR REGLEUR EN DECOLLETAGE |
 
-Arrêté du 20 août 1993
-
-|
+Arrêté du 9 janvier 1990 |
 
 12 |
 
-DÉMÉNAGEUR SUR VÉHICULE UTILITAIRE LÉGER |
+DECORATION EN CERAMIQUE |
+
+Arrêté du 20 août 1993 |
+
+12 |
+
+DEMENAGEUR SUR VEHICULE UTILITAIRE LEGER |
 
 Arrêté du 10 juin 2010 modifié |
 
 12 |
 
-DOREUR À LA FEUILLE ORNEMANISTE |
+DOREUR A LA FEUILLE ORNEMANISTE |
 
 Arrêté du 2 septembre 1976 modifié |
 
 12 |
 
-ÉBÉNISTE |
+EBENISTE |
 
 Arrêté du 27 février 2017 |
 
 12 |
 
-ÉLECTRICIEN |
+ELECTRICIEN |
 
 Arrêté du 8 février 2018 modifié |
 
 14 |
 
-ÉMAILLEUR D'ART SUR MÉTAUX |
+EMAILLEUR D'ART SUR METAUX |
 
-Arrêté 28 février 1980
-
-|
+Arrêté du 28 février 1980 modifié |
 
 12 |
 
 EMBALLEUR PROFESSIONNEL |
 
-Arrêté du 29 septembre 1983
-
-|
+Arrêté du 29 septembre 1983 |
 
 12 |
 
-EMPLOYÉ TECHNIQUE DE LABORATOIRE |
+EMPLOYE TECHNIQUE DE LABORATOIRE |
 
 Arrêté du 25 septembre 1974 |
 
@@ -450,27 +510,51 @@ Arrêté du 2 septembre 1976 modifié |
 
 12 |
 
-ESTHÉTIQUE COSMÉTIQUE PARFUMERIE |
+EQUIPIER POLYVALENT DU COMMERCE |
+
+Arrêté du 29 octobre 2019 |
+
+14 |
+
+ESTHETIQUE COSMETIQUE PARFUMERIE |
 
 Arrêté du 25 juin 2018 |
 
 12 |
 
-ÉTANCHEUR DU BÂTIMENT ET DES TRAVAUX PUBLICS |
+ETANCHEUR DU BATIMENT ET DES TRAVAUX PUBLICS (dernière session 2024) |
 
 Arrêté du 25 octobre 2002 |
 
 14 |
 
-FABRICATION INDUSTRIELLE DES CÉRAMIQUES |
+ETANCHEUR DU BATIMENT ET DES TRAVAUX PUBLICS (première session 2025) |
 
-Arrêté du 6 août 1980 |
+Arrêté du 29 août 2022 |
+
+14 |
+
+FABRICATION INDUSTRIELLE DES CERAMIQUES (dernière session 2024-session supplémentaire 2025) |
+
+Arrêté du 6 août 1991 modifié |
 
 12 |
 
 FERRONNIER D'ART |
 
-Arrêté du 7 janvier 2015 |
+Arrêté du 7 janvier 2015 modifié |
+
+12 |
+
+FLEURISTE |
+
+Arrêté du 16 février 2018 |
+
+14 |
+
+FLEURISTE DE MODE (première session 2025) |
+
+Arrêté du 22 février 2024 |
 
 12 |
 
@@ -486,6 +570,12 @@ Arrêté du 23 février 2010 |
 
 12 |
 
+GLACIER FABRICANT |
+
+Arrêté du 21 février 2014 |
+
+14 |
+
 HORLOGERIE |
 
 Arrêté du 26 juin 2007 modifié |
@@ -494,11 +584,11 @@ Arrêté du 26 juin 2007 modifié |
 
 INDUSTRIES CHIMIQUES |
 
-Arrêté 7 août 1991 |
+Arrêté du 7 août 1991 |
 
 12 |
 
-INSTALLATEUR EN FROID ET CONDITIONNEMENT DE L'AIR |
+INSTALLATEUR EN FROID ET CONDITIONNEMENT D'AIR |
 
 Arrêté du 2 juin 2015 |
 
@@ -506,79 +596,77 @@ Arrêté du 2 juin 2015 |
 
 INSTRUMENTS COUPANTS ET DE CHIRURGIE |
 
-Arrêté du 21 décembre 1980 |
+Arrêté du 21 décembre 1990 |
 
 12 |
 
-LAPIDAIRE OPTION A : DIAMANT |
+INTERVENTIONS EN MAINTENANCE TECHNIQUE DES BATIMENTS |
 
-Arrêté du 29 septembre 1974 modifié |
+Arrêté du 30 mars 2021 |
+
+14 |
+
+LAPIDAIRE-option a-diamant |
+
+Arrêté du 20 septembre 1974 modifié |
 
 12 |
 
-LAPIDAIRE OPTION B : PIERRES DE COULEUR |
+LAPIDAIRE-option b-pierres de couleur |
 
-Arrêté du 29 septembre 1974 modifié |
-
-12 |
-
-LUTHERIE |
-
-Arrêté 9 août 1989
-
-|
+Arrêté du 20 septembre 1974 modifié |
 
 12 |
 
 MAÇON |
 
-Arrêté du 21 août 2002 |
+Arrêté du 30 mars 2021 |
 
 14 |
 
-MAINTENANCE DE BÂTIMENTS DE COLLECTIVITÉS |
-
-Arrêté du 6 juin 1990 modifié |
-
-12 |
-
-MAINTENANCE DES MATÉRIELS, Option A : matériels agricoles. |
+MAINTENANCE DES MATERIELS-option a-matériels agricoles |
 
 Arrêté du 24 mars 2016 modifié |
 
 12 |
 
-MAINTENANCE DES MATÉRIELS, Option B : matériels de travaux publics et de manutention |
+MAINTENANCE DES MATERIELS-option b-matériels de construction et de manutention |
 
 Arrêté du 24 mars 2016 modifié |
 
 12 |
 
-MAINTENANCE DES MATÉRIELS, Option C : matériels d'espaces verts |
+MAINTENANCE DES MATERIELS-option c : matériels d'espaces verts |
 
 Arrêté du 24 mars 2016 modifié |
 
 12 |
 
-MAINTENANCE DES VÉHICULES Option A : Voitures particulières. |
+MAINTENANCE DES VEHICULES-option a-voitures particulières |
 
 Arrêté du 22 avril 2014 |
 
 12 |
 
-MAINTENANCE DES VÉHICULES Option B : Véhicules de transport routier. |
+MAINTENANCE DES VEHICULES-option b-véhicules de transport routier |
 
 Arrêté du 22 avril 2014 |
 
 12 |
 
-MAINTENANCE DES VÉHICULES Option C : Motocycles |
+MAINTENANCE DES VEHICULES-option c-motocycles |
 
 Arrêté du 22 avril 2014 |
 
 12 |
 
-MARBRIER DU BÂTIMENT ET DE LA DECORATION |
+MAINTENANCE NAUTIQUE (première session 2025) |
+
+Arrêté du 30 mars 2023 |
+
+12 |
+
+MARBRIER DU BATIMENT ET DE LA DECORATION |
 
 Arrêté du 6 février 2013 |
 
@@ -590,123 +678,163 @@ Arrêté du 19 août 1996 |
 
 12 |
 
-MAROQUINERIE |
+MAROQUINERIE (dernière session 2025) |
 
-Arrêté du 26 avril 2005
-
-|
+Arrêté du 26 avril 2005 |
 
 12 |
 
-MÉCANICIEN CONDUCTEUR DES SCIERIES ET DES INDUSTRIES MÉCANIQUES DU BOIS Option Mécanicien, affuteur de sciage, tranchage, coupage |
+MAROQUINERIE (première session 2026) |
 
-Arrêté du du 7 octobre 1969 modifié |
-
-12 |
-
-MENUISIER ALUMINIUM VERRE |
-
-Arrêté du 25 octobre 2002 |
+Arrêté du 21 novembre 2023 |
 
 14 |
 
-MENUISIER EN SIÈGES |
+MECANICIEN CONDUCTEUR DES SCIERIES ET DES INDUSTRIES MECANIQUES DU BOIS-option-mécanicien affuteur de sciage, tranchage, déroulage |
+
+Arrêté du 7 octobre 1969 modifié |
+
+12 |
+
+MENUISIER ALUMINIUM VERRE (dernière session 2024) |
+
+Arrêté du 25 octobre 2002 modifié |
+
+14 |
+
+MENUISIER ALUMINIUM-VERRE (première session 2025) |
+
+Arrêté du 29 août 2022 |
+
+14 |
+
+MENUISIER EN SIEGES |
 
 Arrêté du 1er juillet 1955 modifié |
 
 12 |
 
-MENUISIER FABRICANT DE MENUISERIE, MOBILIER ET AGENCEMENT |
+MENUISIER FABRICANT |
 
-Arrêté du 15 juillet 2003 modifié |
+Arrêté du 20 novembre 2020 |
 
 14 |
 
 MENUISIER INSTALLATEUR |
 
-Arrêté du 15 juillet 2003 modifié |
+Arrêté du 20 novembre 2020 |
 
 14 |
 
-MÉTIERS DU PRESSING |
+METALLIER |
 
-Arrêté du 17 mars 2005 modifié |
-
-14 |
-
-MÉTIERS DE L'ENSEIGNE ET DE LA SIGNALÉTIQUE |
-
-Arrêté du 16 octobre 2007 modifié |
+Arrêté du 30 mars 2021 |
 
 14 |
 
-MÉTIERS DE LA FONDERIE |
+METIERS DE LA COIFFURE |
+
+Arrêté du 5 juin 2019 |
+
+12 |
+
+METIERS DE LA FONDERIE |
 
 Arrêté du 20 mars 2007 |
 
 14 |
 
-MÉTIERS DE LA GRAVURE Option A : GRAVURE D'ORNEMENTATION |
+METIERS DE LA GRAVURE-option a-gravure d'ornementation |
 
 Arrêté du 9 mars 1993 |
 
 12 |
 
-MÉTIERS DE LA GRAVURE Option B : GRAVURE D'IMPRESSION |
+METIERS DE LA GRAVURE-option b-gravure d'impression |
 
 Arrêté du 9 mars 1993 |
 
 12 |
 
-MÉTIERS DE LA GRAVURE Option C : GRAVURE EN MODÈLE |
+METIERS DE LA GRAVURE-option c-gravure en modèle |
+
+Arrêté du 9 1993 |
+
+12 |
+
+METIERS DE LA GRAVURE-option d-marquage poinçonnage |
 
 Arrêté du 9 mars 1993 |
 
 12 |
 
-MÉTIERS DE LA GRAVURE Option D : MARQUAGE POINÇONNAGE |
-
-Arrêté du 9 mars 1993 |
-
-12 |
-
-MÉTIERS DE LA MODE - CHAPELIER MODISTE |
-
-Arrêté du 9 décembre 2011 |
-
-12 |
-
-MÉTIERS DE LA MODE - VÊTEMENT FLOU |
+METIERS DE LA MODE-vêtement flou |
 
 Arrêté du 8 avril 2011 modifié |
 
 12 |
 
-METIERS DE LA MODE - VÊTEMENT TAILLEUR |
+METIERS DE LA MODE-vêtement tailleur |
 
 Arrêté du 8 avril 2011 modifié |
 
 12 |
 
-MÉTIERS DU FOOTBALL |
+METIERS DE L'ENSEIGNE ET DE LA SIGNALETIQUE |
+
+Arrêté du 16 octobre 2007 modifié |
+
+14 |
+
+METIERS DE L'ENTRETIEN DES TEXTILES-option a : blanchisserie |
+
+Arrêté du 11 décembre 2020 |
+
+14 |
+
+METIERS DE L'ENTRETIEN DES TEXTILES-option b : pressing |
+
+Arrêté du 11 décembre 2020 |
+
+14 |
+
+METIERS DU FOOTBALL (dernière session 2025-session supplémentaire 2026) |
 
 Arrêté du 13 juillet 1977 |
 
 12 |
 
-MISE EN FORME DES MATÉRIAUX |
+METIERS DU FOOTBALL (première session 2026) |
+
+Arrêté du 24 février 2024 |
+
+14 |
+
+METIERS DU PLATRE ET DE L'ISOLATION |
+
+Arrêté du 15 avril 2019 |
+
+14 |
+
+METIERS DE LA MODE-CHAPELIER-MODISTE |
+
+Arrêté du 9 décembre 2011 |
+
+12 |
+
+MISE EN FORME DES MATERIAUX (dernière session 2025-session supplémentaire 2026) |
 
 Arrêté du 31 août 1988 modifié |
 
 12 |
 
-MISE EN ŒUVRE des CAOUTCHOUCS et des ÉLASTOMÈRES THERMO PLASTIQUES |
+MISE EN ŒUVRE DES CAOUTCHOUCS ET DES ELASTOMERES THERMOPLASTIQUES |
 
 Arrêté du 5 juin 1991 |
 
 12 |
 
-MODÈLES ET MOULES CÉRAMIQUES |
+MODELES ET MOULES CERAMIQUES |
 
 Arrêté du 29 août 1991 |
 
@@ -718,81 +846,91 @@ Arrêté du 17 septembre 1997 |
 
 12 |
 
-MONTEUR EN CHAPITEAUX |
+MONTEUR EN CHAPITEAUX (dernière session 2023-session supplémentaire 2024) |
 
-Arrêté du 22 juillet 1977 |
+Arrêté du 22 juillet 1977 modifié |
 
 12 |
 
-MONTEUR EN INSTALLATION SANITAIRE |
+MONTEUR EN INSTALLATIONS SANITAIRES |
 
 Arrêté du 11 avril 2018 |
 
 14 |
 
-MONTEUR EN INSTALLATION THERMIQUE |
+MONTEUR EN INSTALLATIONS THERMIQUES |
 
 Arrêté du 11 avril 2018 |
 
 14 |
 
-MONTEUR EN ISOLATION THERMIQUE ET ACOUSTIQUE |
+MONTEUR EN ISOLATION THERMIQUE ET ACOUSTIQUE (dernière session 2024-session supplémentaire 2025) |
 
 Arrêté du 15 juin 1987 |
 
 12 |
 
-MOULEUR NOYAUTEUR CUIVRE ET BRONZE |
+MOULEUR NOYAUTEUR-CUIVRE ET BRONZE |
 
-Arrêté du 22 février 1951 mofifié |
-
-12 |
-
-ORFÈVRE option A : MONTEUR EN ORFÈVRERIE |
-
-Arrêté du 17 mars 2005
-
-|
+Arrêté du 22 février 1951 modifié |
 
 12 |
 
-ORFÈVRE option B : TOURNEUR REPOUSSEUR EN ORFÈVRERIE |
+OPERATEUR EN APPAREILLAGE ORTHOPEDIQUE-SPECIALITE ORTHOPROTHESE (anciennement ortho-prothésiste) |
 
-Arrêté du 17 mars 2005
-
-|
+Arrêté du 25 août 1994 modifié |
 
 12 |
 
-ORFÈVRE option C : POLISSEUR AVIVEUR EN ORFÈVRERIE |
+OPERATEUR EN APPAREILLAGE ORTHOPEDIQUE SPECIALITE PODO-ORTHESE (anciennement podo-orthésiste) |
 
-Arrêté du 17 mars 2005
-
-|
+Arrêté du 25 août 1994 modifié |
 
 12 |
 
-ORFÈVRE option D : PLANEUR EN ORFÈVRERIE |
+OPERATEUR-OPERATRICE LOGISTIQUE |
 
-Arrêté du 17 mars 2005
+Arrêté du 2 mars 2015 |
 
-|
+14 |
+
+OPERATEUR/ OPERATRICE DE SERVICE-RELATION CLIENT ET LIVRAISON |
+
+Arrêté du 30 mai 2017 modifié |
+
+14 |
+
+ORFEVRE-option a-monteur en orfèvrerie |
+
+Arrêté du 15 octobre 1973 modifié |
 
 12 |
 
-ORTHO-PROTHÉSISTE |
+ORFEVRE-option b-tourneur repousseur en orfèvrerie |
 
-Arrêté du 25 août 1994 |
+Arrêté du 15 octobre 1973 modifié |
 
 12 |
 
-OUTILLAGES EN MOULES MÉTALLIQUES |
+ORFEVRE-option c-polisseur aviveur en orfèvrerie |
+
+Arrêté du 15 octobre 1973 modifié |
+
+12 |
+
+ORFEVRE-option d-planeur en orfèvrerie |
+
+Arrêté du 15 octobre 1973 modifié |
+
+12 |
+
+OUTILLAGES EN MOULES METALLIQUES |
 
 Arrêté du 29 août 1991 |
 
 12 |
 
-OUTILLAGES EN OUTILS À DÉCOUPER ET EMBOUTIR |
+OUTILLAGES EN OUTILS A DECOUPER ET A EMBOUTIR |
 
 Arrêté du 29 août 1991 |
 
@@ -800,17 +938,35 @@ Arrêté du 29 août 1991 |
 
 OUVRIER ARCHETIER |
 
-Arrêté du 10 juillet 1959 |
+Arrêté du 10 juillet 1959 modifié |
 
 12 |
 
-PEINTRE-APPLICATEUR DE REVÊTEMENTS |
+PLUMASSERIE (première session 2025) |
 
-Arrêté du 21 août 2002 modifié |
+Arrêté du 22 février 2024 |
+
+12 |
+
+PATISSIER |
+
+Arrêté du 6 mars 2019 modifié |
 
 14 |
 
-PEINTURE EN CARROSSERIE |
+PEINTRE APPLICATEUR DE REVETEMENTS |
+
+Arrêté du 8 avril 2019 |
+
+14 |
+
+PEINTRE AUTOMOBILE (première session 2025) |
+
+Arrêté du 30 décembre 2022 |
+
+12 |
+
+PEINTURE EN CARROSSERIE (dernière session 2024-session supplémentaire 2025) |
 
 Arrêté du 20 mars 2007 |
 
@@ -818,59 +974,71 @@ Arrêté du 20 mars 2007 |
 
 PLASTURGIE |
 
-Arrêté du 27 juillet 1999 |
+Arrêté du 27 juillet 1999 modifié |
 
 14 |
 
-PLATRIER - PLAQUISTE |
+POISSONNIER-ECAILLER |
 
-Arrêté du 25 octobre 2002 |
+Arrêté du 20 mars 2007 modifié |
 
 14 |
 
-PODO-ORTHÉSISTE |
+PRIMEUR |
 
-Arrêté du 25 août 1994 |
+Arrêté du 4 juillet 2017 |
 
-12 |
+14 |
 
-RÉALISATIONS INDUSTRIELLES EN CHAUDRONNERIE OU SOUDAGE option A CHAUDRONNERIE |
+PRODUCTION ET SERVICE EN RESTAURATIONS (RAPIDE, COLLECTIVE, CAFETERIA) |
+
+Arrêté du 29 octobre 2019 |
+
+14 |
+
+PROPRETE DE L'ENVIRONNEMENT URBAIN-COLLECTE ET RECYCLAGE |
+
+Arrêté du 10 mars 2015 |
+
+14 |
+
+REALISATIONS INDUSTRIELLES EN CHAUDRONNERIE OU SOUDAGE-option a-chaudronnerie |
 
 Arrêté du 3 janvier 2017 modifié |
 
 12 |
 
-RÉALISATIONS INDUSTRIELLES EN CHAUDRONNERIE OU SOUDAGE option B SOUDAGE |
+REALISATIONS INDUSTRIELLES EN CHAUDRONNERIE OU SOUDAGE-option b-soudage |
 
-Arrêté du 3 janvier 2017 |
+Arrêté du 3 janvier 2017 modifié |
 
 12 |
 
-RENTRAYEUR option A : TAPIS |
+RENTRAYEUR-option a-tapis |
 
 Arrêté du 30 mai 1975 modifié |
 
 12 |
 
-RENTRAYEUR option B : TAPISSERIES |
+RENTRAYEUR-option b-tapisserie |
 
 Arrêté du 30 mai 1975 modifié |
 
 12 |
 
-RÉPARATION DES CARROSSERIES |
+REPARATION DES CARROSSERIES (dernière session 2024-session supplémentaire 2025) |
 
 Arrêté du 19 mars 2007 |
 
 12 |
 
-RÉPARATION ET ENTRETIEN DES EMBARCATIONS DE PLAISANCE |
+REPARATION ENTRETIEN DES EMBARCATIONS DE PLAISANCE (dernière session 2024) |
 
 Arrêté du 20 mars 2007 |
 
 12 |
 
-SELLERIE GÉNÉRALE |
+SELLERIE GENERALE |
 
 Arrêté du 17 décembre 1998 modifié |
 
@@ -882,45 +1050,33 @@ Arrêté du 29 avril 2014 |
 
 12 |
 
-SÉRIGRAPHIE INDUSTRIELLE |
+SERIGRAPHIE INDUSTRIELLE |
 
 Arrêté du 12 janvier 1999 |
 
 12 |
 
-SERRURIER MÉTALLIER |
-
-Arrêté du 1 août 2002 modifié |
-
-14 |
-
-SIGNALÉTIQUE ET DÉCORS GRAPHIQUES |
+SIGNALETIQUE ET DECORS GRAPHIQUES |
 
 Arrêté du 27 février 2017 |
 
 12 |
 
-SOLIER-MOQUETISTE |
+SOUFFLEUR DE VERRE-option verrerie scientifique |
 
-Arrêté du 21 août 2002 modifié |
-
-14 |
-
-SOUFLEUR DE VERRE option ENSEIGNE LUMINEUSE |
-
-Arrêté du 25 mai 2009 |
+Arrêté du 12 mai 2009 |
 
 12 |
 
-SOUFLEUR DE VERRE option VERRERIE SCIENTIFIQUE |
+SOUFFLEUR DE VERRE-option enseigne lumineuse |
 
-Arrêté du 25 mai 2009 |
+Arrêté du 12 mai 2009 |
 
 12 |
 
 STAFFEUR ORNEMANISTE |
 
-Arrêté du 5 mars 1993 |
+Arrêté du 5 mars 1993 modifié |
 
 12 |
 
@@ -930,45 +1086,65 @@ Arrêté du 6 février 2013 |
 
 14 |
 
-TAPISSIER - TAPISSIÈRE D'AMEUBLEMENT EN DÉCOR |
+TAPISSIER-TAPISSIERE D'AMEUBLEMENT EN DECOR |
 
-Arrêté du 29 juillet 2004 |
+Arrêté du 29 juillet 2004 modifié |
 
 12 |
 
-TAPISSIER - TAPISSIÈRE D'AMEUBLEMENT EN SIÈGE |
+TAPISSIER-TAPISSIERE D'AMEUBLEMENT EN SIEGE |
 
-Arrêté du 29 juillet 2004 |
+Arrêté du 29 juillet 2004 modifié |
 
 12 |
 
 TAXIDERMISTE |
 
-Arrêté du 2 juillet 1982
+Arrêté du 25 février 2019 |
 
-|
+14 |
 
-12 |
-
-TONNELLERIE |
+TONNELLERIE (dernière session 2024) |
 
 Arrêté du 28 juillet 1993 |
 
 12 |
 
-TOURNAGE EN CÉRAMIQUE |
+TONNELIER (première session 2025) |
 
-Arrêté du 20 août 1993
+Arrêté du 5 mai 2023 |
 
-|
+14 |
+
+TOURNAGE EN CERAMIQUE |
+
+Arrêté du 20 août 1993 |
+
+12 |
+
+TRANSPORT FLUVIAL (première session 2026) |
+
+Arrêté du 18 juillet 2023 |
 
 12 |
 
-TRANSPORT FLUVIAL |
+TRANSPORT FLUVIAL (dernière session 2025-session supplémentaire 2026) |
 
-Arrêté du 26 avril 2011 |
+Arrêté du 26 avril 2011 modifié |
 
 12 |
+
+TRANSPORT PAR CABLES ET REMONTEES MECANIQUES (dernière session 2024) |
+
+Arrêté du 21 octobre 1999 |
+
+14 |
+
+TRANSPORTS PAR CABLES ET REMONTEES MECANIQUES (première session 2025) |
+
+Arrêté du 21 décembre 2022 |
+
+14 |
 
 VANNERIE |
 
@@ -976,7 +1152,7 @@ Arrêté du 5 septembre 2001 modifié |
 
 12 |
 
-VÊTEMENT DE PEAU |
+VETEMENT DE PEAU |
 
 Arrêté du 21 août 1998 modifié |
 
