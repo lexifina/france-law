@@ -44,4 +44,10 @@ En cas d'acceptation de l'agrément de prototype, le service en charge des réce
 
 -les nouvelles fonctions ajoutées à des systèmes ou composants installés sur le véhicule, inhérentes à un domaine déjà réglementé dans la réception initiale du véhicule.
 
-Les actes réglementaires applicables pour chaque domaine réglementé sont listés aux annexes 2 et 2 bis de l'arrêté du 11 janvier 2021 précité.
+Pour l'application des deux précédents alinéas, les actes réglementaires applicables pour chaque domaine réglementé sont listés :
+
+-pour les véhicules agricoles et forestiers (catégories R, S, T et les MAGA), dans les annexes de l'arrêté du 19 décembre 2016 précité ;
+
+-pour les véhicules 2/3 roues et quadricycles (catégories L), dans les annexes de l'arrêté du 17 août 2016 précité ;
+
+-pour les véhicules des catégories, M, N, O, dans les annexes de l'arrêté du 11 janvier 2021 précité ou de l'arrêté du 4 mai 2009 relatif à la réception des véhicules à moteur, de leurs remorques et des systèmes et équipements destinés à ces véhicules en application de la directive 2007/46/ CE.
