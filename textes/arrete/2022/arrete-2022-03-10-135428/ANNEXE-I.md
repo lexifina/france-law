@@ -36,7 +36,7 @@ Adjoint au directeur de l'immobilier |
 
 Direction de l'équipement et de la logistique |
 
-Chef du bureau des moyens mobiles |
+Adjoint au directeur de l'équipement et de la logistique |
 
 40 |
 
@@ -248,9 +248,11 @@ Adjoint au chef de département construction |
 
 Direction générale de la police nationale |
 
-Direction des ressources et des compétences de la police nationale - cabinet du directeur |
+Direction des ressources humaines, des finances et des soutiens - Service de l'administration générale |
 
-Chef du bureau du soutien logistique |
+Chef du bureau du soutien numérique et logistique de proximité
+
+|
 
 40 |
 
@@ -294,7 +296,7 @@ Adjoint au chef du bureau des affaires immobilières des préfectures, de la pol
 
 Sous-direction des affaires immobilières |
 
-Chargé de mission auprès du sous-directeur des affaires immobilières et de son adjoint |
+Chef de la cellule des méthodes et de la synthèse |
 
 60 |
 
@@ -334,9 +336,9 @@ Chef de projet site unique |
 
 Direction générale de la gendarmerie nationale |
 
-Direction des soutiens et des finances |
+Direction de projets conduits en marchés de partenariat |
 
-Adjoint au chef du bureau de la prospective, de la programmation et du pilotage immobiliers |
+Chef de projets |
 
 40 |
 
