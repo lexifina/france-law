@@ -482,7 +482,7 @@ Décret en Conseil d'Etat |
 
 56 |
 
-Sanction envers les exploitants d'aéronefs n'ayant pas restitué un nombre de quotas suffisant pour couvrir ses émissions de gaz à effet de serre (système d'échange de quotas d'émission-EU ETS). |
+Sanction envers les exploitants d'aéronefs n'ayant pas restitué un nombre de quotas suffisant pour couvrir ses émissions de gaz à effet de serre (système d'échange de quotas d'émissions de l'Union européenne). |
 
 Code de l'environnement Article L. 229-8. |
 
@@ -1256,6 +1256,46 @@ et article R. 5555-1 |
 
 Ministre chargé de la mer |
 
+67 |
+
+Approbation des plans de surveillance des navires de la compagnie maritime assujettie aux obligations relatives au système d'échange de quotas d'émissions de l'Union européenne |
+
+Code de l'environnement Article L. 229-6 |
+
+Ministre chargé de la mer |
+
+68 |
+
+Décision de validation, de correction ou d'estimation des rapports d'émissions de gaz à effet de serre agrégées au niveau de la compagnie conformément au règlement (UE) 2015/757 du Parlement européen et du Conseil du 29 avril 2015. |
+
+Code de l'environnement Article L. 229-7 |
+
+Ministre chargé de la mer |
+
+69 |
+
+Sanction envers les compagnies maritimes n'ayant pas restitué un nombre de quotas suffisant pour couvrir leurs émissions de gaz à effet de serre (système d'échange de quotas d'émissions de l'Union européenne). |
+
+Code de l'environnement Article L. 229-10 |
+
+Ministre chargé de la mer |
+
+70 |
+
+Décision d'expulsion, d'immobilisation et de refus d'accès au port d'un navire d'une compagnie maritime n'ayant pas respecté ses obligations de déclarations, conformément au règlement (UE) 2015/757 du Parlement européen et du Conseil du 29 avril 2015, durant deux années consécutives. |
+
+Code de l'environnement. Article L. 229-18-6 |
+
+Ministre chargé de la mer |
+
+71 |
+
+Décision d'expulsion, d'immobilisation et de refus d'accès au port d'un navire d'une compagnie maritime n'ayant pas restitué un nombre de quotas suffisant pour couvrir ses émissions de gaz à effet de serre durant deux années consécutives (système d'échange de quotas d'émissions de l'Union européenne). |
+
+Code de l'environnement Articles L. 229-18-7 et L. 229-18-8. |
+
+Ministre chargé de la mer |
+
 |
 
 Prévention des risques |
@@ -1602,7 +1642,7 @@ Etablissement de la liste des exploitants auxquels sont affectés des quotas d'�
 
 Code de l'environnement Article R. 229-8. |
 
-Ministre chargé de l'environnement |
+Ministre chargé de la politique des marchés carbone |
 
 6 |
 
@@ -1610,7 +1650,7 @@ Décisions relatives aux quotas d'émission de gaz à effet de serre. |
 
 Code de l'environnement Articles R. 229-9 à R 229-15, R. 229-16-1 et R. 229-17. |
 
-Ministre chargé de l'environnement |
+Ministre chargé de la politique des marchés carbone |
 
 7 |
 
@@ -1618,7 +1658,7 @@ Décision d'interdiction de tout transfert des quotas délivrés au titre d'une 
 
 Code de l'environnement Articles L. 229-8 à L. 229-10. |
 
-Ministre chargé de l'environnement |
+Ministre chargé de la politique des marchés carbone |
 
 |
 
