@@ -1,0 +1,11 @@
+# COMMUNE DE BETTON : délibération DE24_55_RECTIF — OPÉRATION DE TRAVAUX DE RESTRUCTURATION DE LÉCOLE MATERNELLE DE LA HAYE-RENAUD  AVENANT N° 1 AU MARCHÉ DE LOCATION DUN BÂTIMENT MODULAIRE
+
+- Collectivité : COMMUNE DE BETTON
+- SIRET : 21350024200259
+- Code INSEE : 35024
+- Date : 2024-06-19
+- Matière : 1.1 Commande Publique/Marches publics
+- Objet : OPÉRATION DE TRAVAUX DE RESTRUCTURATION DE LÉCOLE MATERNELLE DE LA HAYE-RENAUD  AVENANT N° 1 AU MARCHÉ DE LOCATION DUN BÂTIMENT MODULAIRE
+- Transmis à la préfecture : 2024-07-05 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500242/Deliberation/2024/676293/a2e23b106f8c3b0c8be00ef75f2ef962f2fffc427950627ece61f62ade680446.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
