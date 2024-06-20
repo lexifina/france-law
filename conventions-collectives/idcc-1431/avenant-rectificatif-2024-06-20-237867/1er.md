@@ -1,0 +1,23 @@
+# Article 1er
+
+L'article 8 est remplacé par les dispositions suivantes :
+
+« Article 8
+
+Suspension du CDI pour la conclusion d'un contrat d'apprentissage
+
+Le présent article fait référence aux salariés déjà en poste, quels que soient leur collège et leur fonction, préparant en contrat d'apprentissage un diplôme dont la préparation est assurée par un centre de formation en apprentissage. En effet, le contrat à durée indéterminée d'un salarié peut, par accord entre le salarié et l'employeur, être suspendu pendant la durée d'un contrat d'apprentissage conclu avec le même employeur.
+
+La durée de la suspension du contrat de travail est égale à la durée de la formation nécessaire à l'obtention du titre ou diplôme recherché.
+
+Pendant la durée du contrat d'apprentissage, la rémunération nette perçue par le salarié en CDI, calculée sur la moyenne des 12 derniers mois précédant la suspension du contrat, sera maintenue. En complément, sera versée à l'apprenti pendant cette période, une prime mensuelle brute intitulée “ prime retraite complémentaire ” ou “ prime compensatoire retraite ” égale à 1,80 % du salaire de base mensuel brut en vigueur le mois précédant le passage en apprentissage en vue de compenser la baisse de la rémunération brute pendant la période d'apprentissage.
+
+La rémunération moyenne des 12 derniers mois comprend les primes et tout éventuel rappel de salaire exception faite des primes exceptionnelles et de toute prime, dont le salarié, en raison de sa nature, conserverait le bénéfice pendant la période d'apprentissage.
+
+Pour tout salarié entré dans les effectifs depuis moins de 12 mois, la rémunération mensuelle moyenne sera établie sur les mois complets effectués avant le passage en apprentissage.
+
+En cas d'absence impactant la rémunération à la baisse sur l'un des 12 mois précédant, la rémunération pour le ou les mois concernés sera rétablie sur la base de ce que le salarié aurait perçu s'il avait travaillé le mois complet.
+
+Au terme du contrat d'apprentissage, l'employeur organisera un entretien afin de traiter des évolutions possibles au sein de l'entreprise en lien avec l'apprentissage effectué par le salarié. Afin de prendre en compte l'expérience en optique antérieure à la période d'apprentissage, tout salarié justifiant d'une activité ininterrompue en optique d'au moins 3 ans chez le même employeur et précédant immédiatement un contrat d'apprentissage conclu dans le cadre d'une suspension de son CDI sera positionné, le mois suivant l'obtention du BTS “ Opticien-lunetier ”, au niveau B de la classification pour la filière santé.
+
+La réglementation générale du contrat d'apprentissage s'applique à cette situation particulière. »
