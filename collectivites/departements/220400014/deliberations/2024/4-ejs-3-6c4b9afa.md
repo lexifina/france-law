@@ -1,0 +1,10 @@
+# DEPARTEMENT DES ALPES DE HAUTE PROVENCE : délibération 4-EJS-3 — Le Département accompagne les organisateurs de manifestations sportives. Pour la deuxième répartition de l'année 2024, il est proposé d'aider 14 bénéficiaires pour l'organisation de 18 manifestations sportives départementales, pour une somme globale de 17 300 €.
+
+- Collectivité : DEPARTEMENT DES ALPES DE HAUTE PROVENCE
+- SIREN : 220400014
+- Date : 2024-06-21
+- Séance : CP
+- Matière : Unité jeunesse et sports
+- Objet : Le Département accompagne les organisateurs de manifestations sportives. Pour la deuxième répartition de l'année 2024, il est proposé d'aider 14 bénéficiaires pour l'organisation de 18 manifestations sportives départementales, pour une somme globale de 17 300 €.
+- Acte publié : http://cga-prod-11.oxyd.net:8080/jsp/seance_agenda.jsp?date=21-06-2024&assembly=Commission%20permanente&type=apres&role=usager
+- Jeu de données : https://www.data.gouv.fr/datasets/66fa9a1833b5afe2d5679c9f
