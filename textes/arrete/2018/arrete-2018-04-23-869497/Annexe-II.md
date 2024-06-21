@@ -38,25 +38,25 @@ Chapitre 2 : COULEUR DES ÉOLIENNES
 
 2.1. Généralités
 
-La couleur des éoliennes est définie en termes de quantités colorimétriques et de facteur de luminance.
+La couleur du balisage aéronautique par marques apposé sur les éoliennes est définie en termes de quantités colorimétriques et de facteur de luminance.
 
 2.2. Quantités colorimétriques
 
-Les quantités colorimétriques des éoliennes terrestres sont limitées aux domaines du blanc et du gris tels que définis dans l'appendice I à la présente annexe.
+Les quantités colorimétriques du balisage aéronautique par marques apposé sur les éoliennes terrestres sont limitées aux domaines du blanc et du gris tels que définis dans l'appendice I à la présente annexe.
 
-Les quantités colorimétriques des éoliennes implantées en mer sont limitées aux domaines du blanc, du gris, de l'orange et du rouge tels que définis dans l'appendice I à la présente annexe.
+Les quantités colorimétriques du balisage aéronautique par marques apposé sur les éoliennes implantées en mer sont limitées aux domaines du blanc, du gris, de l'orange et du rouge tels que définis dans l'appendice I à la présente annexe.
 
 2.3. Facteur de luminance
 
-Le facteur de luminance du gris appliqué sur les éoliennes est supérieur ou égal à 0,4.
+Le facteur de luminance du gris appliqué pour les besoins du balisage aéronautique sur les éoliennes est supérieur ou égal à 0,4.
 
-Le facteur de luminance du blanc, du rouge ou de l'orange appliqué sur les éoliennes est tel que défini dans l'appendice I à la présente annexe.
+Le facteur de luminance du blanc, du rouge ou de l'orange appliqué pour les besoins du balisage aéronautique sur les éoliennes est tel que défini dans l'appendice I à la présente annexe.
 
 2.4. Application
 
-La couleur blanche ou grise des éoliennes terrestres est appliquée uniformément sur l'ensemble des éléments constituant l'éolienne.
+Les pales, la nacelle ainsi que les deux tiers supérieurs du fût d'une éolienne terrestre sont de couleur identique, au choix blanche ou grise. Le tiers inférieur du fût d'une éolienne terrestre ne peut présenter de combinaisons de couleurs ou de motifs ayant pour résultat de la camoufler ou d'en affecter sensiblement la perceptibilité visuelle dans son environnement.
 
-Pour les éoliennes implantées en mer, la couleur blanche ou grise est appliquée uniformément sur l'ensemble des éléments constituant l'éolienne, sans préjudice du respect des règles de balisage maritime sur la partie inférieure du fût. De plus, un anneau horizontal de couleur orange ou rouge est appliqué sur le fût entre 50 et 55 mètres de hauteur. La couleur orange ou rouge est également appliquée sur les deux faces des extrémités de chaque pale, sur une longueur de 10 mètres et de manière à ce que les quatre derniers mètres restent de couleur blanche ou grise. La couleur orange ou rouge peut ne pas être appliquée sur les bords d'attaque des pales dans la mesure où elle reste suffisamment visible.
+Les pales, la nacelle ainsi que les deux tiers supérieurs du fût d'une éolienne implantée en mer sont de couleur identique, au choix blanche ou grise, sans préjudice du respect des règles de balisage maritime sur la partie inférieure du fût. De plus, un anneau horizontal de couleur orange ou rouge est appliqué sur le fût entre 50 et 55 mètres de hauteur. La couleur orange ou rouge est également appliquée sur les deux faces des extrémités de chaque pale, sur une longueur de 10 mètres et de manière à ce que les quatre derniers mètres restent de couleur blanche ou grise. La couleur orange ou rouge peut ne pas être appliquée sur les bords d'attaque des pales dans la mesure où elle reste suffisamment visible.
 
 Figure 1. - Illustration de l'application des marques de couleur sur une pale d'éolienne implantée en mer
 
