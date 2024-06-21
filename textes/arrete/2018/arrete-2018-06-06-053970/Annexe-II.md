@@ -8,31 +8,47 @@ Les dispositions mentionnées ci-dessous sont applicables aux installations exis
 
 1er juillet 2019 |
 
+1er juillet 2024 |
+
 1. Dispositions générales |
 
 3.2 Admissibilité des produits et déchets |
+
+2.9 Petits îlots |
 
 (*) 2.2 Comportement au feu |
 
 3.3 Procédure d'information préalable |
 
+|
+
 2.4 Installations électriques |
 
 3.4 Procédure d'admission |
+
+|
 
 2.5 Mise à la terre des équipements |
 
 3.5 Entreposage des produits et déchets |
 
+|
+
 2.6 Rétention des sols |
 
 3.6 Opérations de tri des produits et déchets |
+
+|
 
 2.7 Cuvettes de rétention |
 
 5. Eau |
 
+|
+
 2.8 Isolement du réseau de collecte |
+
+|
 
 |
 
@@ -40,7 +56,11 @@ Les dispositions mentionnées ci-dessous sont applicables aux installations exis
 
 |
 
+|
+
 4. Risques |
+
+|
 
 |
 
@@ -48,10 +68,16 @@ Les dispositions mentionnées ci-dessous sont applicables aux installations exis
 
 |
 
+|
+
 7. Déchets générés par l'installation |
 
 |
 
+|
+
 8. Bruit |
+
+|
 
 |

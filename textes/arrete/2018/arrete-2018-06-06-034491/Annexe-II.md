@@ -8,6 +8,8 @@ Les dispositions ci-après sont applicables aux installations autorisées avant 
 
 1er juillet 2019 |
 
+1er juillet 2024 |
+
 Article 1er
 
 Article 2
@@ -48,4 +50,6 @@ Article 19
 
 Article 20 |
 
-Les dispositions ne figurant pas dans le tableau ci-dessus ne sont pas applicables aux installations autorisées avant le 1er juillet 2018 ou dont le dossier de demande d'autorisation a été déposé avant le 1er juillet 2018 à l'exception de l'article 10-1 qui s'applique à toutes les installations à compter du 1er janvier 2024.
+Article 10-1 |
+
+Les dispositions ne figurant pas dans le tableau ci-dessus ne sont pas applicables aux installations autorisées avant le 1er juillet 2018 ou dont le dossier de demande d'autorisation a été déposé avant le 1er juillet 2018.
