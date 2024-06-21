@@ -102,7 +102,7 @@ IV. ― Epreuves orales obligatoires
 
 1. Entretien avec le jury (durée : 30 minutes, préparation : 30 minutes ; coefficient 4) :
 
-A partir d'un texte issu de la presse généraliste ou professionnelle portant sur des thèmes d'actualité, économique, politique, la conversation avec le jury doit permettre d'apprécier les qualités de réflexion et les connaissances du candidat.
+A partir d'une citation tirée au sort en rapport avec l'actualité, l'économie ou la politique, la conversation avec le jury doit permettre d'apprécier les qualités de réflexion et les connaissances du candidat.
 
 Elle est également destinée à mieux cerner sa personnalité, à apprécier sa motivation et son aptitude à exercer l'ensemble des fonctions d'un technicien supérieur des études et de l'exploitation de l'aviation civile.
 
@@ -113,3 +113,7 @@ Pour cela, le jury utilise une grille d'évaluation dont le contenu est chaque a
 L'épreuve doit permettre de déterminer l'aptitude des candidats à s'exprimer correctement et à comprendre des documents sonores.
 
 L'interrogation du candidat se fonde sur des enregistrements authentiques, en langue anglaise, d'extraits de dialogues ou interviews traitant de sujets d'actualité. Ces extraits sont chacun d'une durée d'environ 2 minutes.
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 3 juin 2024 (NOR : TREA2403867A), ces dispositions entrent en vigueur à compter de la date de publication de l'arrêté autorisant l'ouverture des concours externe et interne pour l'accès au corps des techniciens supérieurs des études et de l'exploitation de l'aviation civile.
