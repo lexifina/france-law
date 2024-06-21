@@ -1,0 +1,10 @@
+# DEPARTEMENT DES ALPES DE HAUTE PROVENCE : délibération 5-SIR-5 — Le Syndicat Mixte d'Aménagement de la Vallée de la Durance porte les travaux de restauration et d'entretien des boisements rivulaires et des lits sur son territoire et a établi une programmation sur 2024-2027. Certains de ces travaux intéressent directement ou indirectement le Département des Alpes de Haute-Provence notamment au re
+
+- Collectivité : DEPARTEMENT DES ALPES DE HAUTE PROVENCE
+- SIREN : 220400014
+- Date : 2024-06-21
+- Séance : CP
+- Matière : Service investissements routiers
+- Objet : Le Syndicat Mixte d'Aménagement de la Vallée de la Durance porte les travaux de restauration et d'entretien des boisements rivulaires et des lits sur son territoire et a établi une programmation sur 2024-2027. Certains de ces travaux intéressent directement ou indirectement le Département des Alpes de Haute-Provence notamment au regard des intérêts qu'ils revêtent vis-à-vis de la sécurisation des ouvrages d'art (ponts) et des ouvrages de protection (enrochements, murs…) dont il est propriétaire et/ou gestionnaire. Ses travaux porteront notamment sur la gestion de la végétation rivulaire, la gestion sélective des embâcles, l'enlèvement des déchets anthropiques présents dans le lit, le traitement des atterrissements, la gestion des espèces invasives, … Le Département, après avoir donné un avis dans la phase de préparation de chacune des campagnes de travaux, pourra en fonction des urgences et des possibilités techniques et financières, demander des modifications au programme. Le Département apportera en contrepartie, une participation maximale annuelle de 20 000 € TTC au Syndicat pour la réalisation des campagnes d'entretien et de restauration des ripisylves, au droit des enjeux départementaux sur les bassins versants couverts par les délégations.
+- Acte publié : http://cga-prod-11.oxyd.net:8080/jsp/seance_agenda.jsp?date=21-06-2024&assembly=Commission%20permanente&type=apres&role=usager
+- Jeu de données : https://www.data.gouv.fr/datasets/66fa9a1833b5afe2d5679c9f
