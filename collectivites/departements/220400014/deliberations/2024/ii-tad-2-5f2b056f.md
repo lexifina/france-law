@@ -1,0 +1,10 @@
+# DEPARTEMENT DES ALPES DE HAUTE PROVENCE : délibération II-TAD-2 — Le Dispositif "Stations de montagne des Alpes de Haute-Provence" a été adopté par l'Assemblée départementale le 22 mars 2023. Celui-ci prévoit d'accompagner les gestionnaires publics des stations, les communes et les EPCI supports dans la réalisation de projets d'investissement, sous réserve du respect de quatre conditions cumulat
+
+- Collectivité : DEPARTEMENT DES ALPES DE HAUTE PROVENCE
+- SIREN : 220400014
+- Date : 2024-06-21
+- Séance : AD
+- Matière : Service du développement touristique et aménagement durable
+- Objet : Le Dispositif "Stations de montagne des Alpes de Haute-Provence" a été adopté par l'Assemblée départementale le 22 mars 2023. Celui-ci prévoit d'accompagner les gestionnaires publics des stations, les communes et les EPCI supports dans la réalisation de projets d'investissement, sous réserve du respect de quatre conditions cumulatives : - projet innovant, - projet favorisant la diversification ou l'amélioration du parcours client, - projet respectueux de l'environnement, - projet s'inscrivant dans une double recherche de mutualisation et de complémentarité, a minima à l'échelle des vallées. Les stations du Val d'Allos et de Pra-Loup, par ailleurs soutenues par le Département au travers des syndicats mixtes, ne sont pas concernées par ce dispositif. Deux appels à manifestations sont prévus, afin de sélectionner les lauréats. Le premier s'est clôturé le 30 septembre 2023 et a permis de sélectionner 5 lauréats. Afin de garantir la maturité, et donc la qualité, des projets qui seront proposés lors du 2ème Appel à manifestation d'intérêt, il vous est proposé de repousser d'un an son échéance : il serait ainsi clôt au 30 septembre 2025 et non plus au 30 septembre 2024. Un Comité de sélection pourrait cependant être réuni en tant que de besoin, en fonction de la maturité des projets proposés en réponse à l'AMI.
+- Acte publié : http://cga-prod-11.oxyd.net:8080/jsp/seance_agenda.jsp?date=21-06-2024&assembly=Assembl%C3%A9e%20d%C3%A9partementale&type=apres&role=usager
+- Jeu de données : https://www.data.gouv.fr/datasets/66fa9a1833b5afe2d5679c9f
