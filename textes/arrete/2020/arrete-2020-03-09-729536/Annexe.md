@@ -1458,6 +1458,84 @@ Encadrement du longe-côte. |
 
 |
 
+DE JEPS, spécialité " perfectionnement sportif " mention " disciplines gymniques acrobatiques ", jusqu'au 31 décembre 2023.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif " mention " disciplines gymniques d'expression ", jusqu'au 31 décembre 2023.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif " mention " concours complet d'équitation ", délivré jusqu'au 1er février 2021.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS spécialité " perfectionnement sportif " mention " concours de saut d'obstacles ", délivré jusqu'au 1er février 2021.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS spécialité " perfectionnement sportif " mention " dressage ", délivré jusqu'au 1er février 2021.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " concours complet d'équitation ", délivré jusqu'au 1er février 2021.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " concours de saut d'obstacles ", délivré jusqu'au 1er février 2021.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " dressage ", délivré jusqu'au 1er février 2021.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+DE JEPS, spécialité " perfectionnement sportif " mention " boxe thaï-muay thaï "
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif " mention " kick boxing ", délivré jusqu'au 31 décembre 2023.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
 C-5.-Diplôme d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
 
 INTITULÉ DU DIPLÔME |
@@ -1492,6 +1570,24 @@ A l'exclusion :
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
+Diplôme d'Etat de ski-moniteur national de ski alpin, délivré jusqu'au 31 décembre 2023.
+
+|
+
+Encadrement, animation, enseignement et entraînement du ski alpin et de ses activités dérivées en application de l'ensemble des classes de la progression du ski alpin et de ses activités dérivées définies par la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne. |
+
+A l'exclusion des zones glaciaires non balisées et des terrains dont la fréquentation fait appel aux techniques de l'alpinisme.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
+
+Diplôme d'Etat de ski-moniteur national de ski nordique de fond, délivré jusqu'au 31 décembre 2023.
+
+|
+
+Encadrement, animation, enseignement et entraînement du ski nordique de fond et de ses activités dérivées en application de l'ensemble des classes de la progression du ski nordique de fond et de ses activités dérivées définies par la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne. |
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
+
 D.-Titres à finalité professionnelle
 
 D-1.-Titres à finalité professionnelle délivrés par le ministère chargé de la défense
@@ -1513,6 +1609,14 @@ Aide-moniteur d'entraînement physique, militaire et sportif, délivré jusqu'au
 Animation des activités physiques ou sportives. |
 
 Sous le contrôle d'un titulaire de diplôme ou titre de niveau 4. |
+
+Moniteur-chef d'entraînement physique, militaire et sportif, délivré jusqu'au 4 janvier 2024.
+
+|
+
+Encadrement et coordination des activités physiques ou sportives. |
+
+A l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. |
 
 D-2.-Titres à finalité professionnelle délivrés par la Fédération française d'équitation
 
@@ -1537,6 +1641,22 @@ Sous l'autorité d'un titulaire d'une certification de niveau 4 ou supérieur da
 Accompagnateur de tourisme équestre, délivré jusqu'au 7 juin 2021 |
 
 Accompagnement et conduite de randonnées équestres, dans le cadre de parcours identifiés. |
+
+|
+
+Moniteur d'équitation option attelage délivré jusqu'au 25 avril 2024.
+
+|
+
+Animation et enseignement de l'attelage. |
+
+|
+
+Moniteur d'équitation option équitation western délivré jusqu'au 25 avril 2024.
+
+|
+
+Animation et enseignement de l'équitation western. |
 
 |
 
@@ -1607,6 +1727,20 @@ Encadrement, enseignement et entraînement en handball d'une équipe professionn
 Entraîneur de handball du secteur professionnel, mention " entraîneur-formateur ", délivré jusqu'au 18 décembre 2023. |
 
 Encadrement, enseignement et entraînement en handball dans une structure de formation d'un club pro ou fédérale. |
+
+|
+
+D.-6.- Titres à finalité professionnelle délivrés par la Fédération française de tennis
+
+INTITULÉ DU DIPLÔME |
+
+CONDITIONS D'EXERCICE |
+
+LIMITES DES CONDITIONS D'EXERCICE |
+
+Moniteur de padel, délivré jusqu'au 10 février 2024. |
+
+Encadrement et conduite de séances de découverte, d'animation et d'entraînement en padel. |
 
 |
 
@@ -2337,3 +2471,67 @@ CQP baseball-softball-cricket, délivré du 14 octobre 2020 au 14 octobre 2023.
 Entraînement et encadrement des activités de baseball ou softball ou cricket |
 
 A l'exclusion des pratiques compétitives |
+
+CQP " moniteur d'arts martiaux " option " aïkido, aïkibudo et disciplines associées ", délivré du 25 février 2022 au 25 février 2024.
+
+|
+
+Encadrement de séances de découverte et d'animation des activités d'aïkido, aïkibudo et disciplines associées |
+
+|
+
+CQP " moniteur d'arts martiaux " option " judo-jujitsu ", délivré du 25 février 2022 au 25 février 2024.
+
+|
+
+Encadrement de séances de découverte et d'animation des activités du judo-jujitsu |
+
+|
+
+CQP " moniteur d'arts martiaux " option " taekwondo et disciplines associées ", délivré du 25 février 2022 au 25 février 2024.
+
+|
+
+Encadrement de séances de découverte et d'animation des activités du taekwondo et disciplines associées |
+
+|
+
+CQP " animateur de tir à l'arc ", délivré jusqu'au 18 décembre 2023.
+
+|
+
+Encadrement des activités d'animation de tir à l'arc. |
+
+Dans la limite de 12 pratiquants par groupe, pour le tir sur terrain plat. Dans la limite de 6 pratiquants par groupe pour le tir en parcours. |
+
+CQP " initiateur voile ", délivré jusqu'au 18 décembre 2023.
+
+|
+
+Animation et initiation de la voile. |
+
+Sous l'autorité d'un titulaire :
+
+-d'une certification professionnelle d'encadrement des activités physiques ou sportives en voile de niveau IV ou supérieur ; ou
+
+-d'une certification professionnelle d'encadrement des activités physiques ou sportives de niveau IV minimum et d'un CQP " initiateur voile ".
+
+Cette autorité s'exerce sur un nombre maximal de 10 titulaires du CQP et dans la limite de 140 pratiquants.
+
+Dans la limite de 60 milles nautiques pour l'activité croisière. |
+
+CQP " moniteur d'arts martiaux " option " arts énergétiques chinois ", délivré du 25 février 2022 au 25 février 2024.
+
+|
+
+Encadrement de séances de découverte et d'animation des activités d'arts énergétiques chinois |
+
+|
+
+CQP " moniteur d'arts martiaux " option " arts martiaux chinois internes et externes ", délivré du 25 février 2022 au 25 février 2024.
+
+|
+
+Encadrement de séances de découverte et d'animation des activités d'arts martiaux chinois internes et externes |
+
+|
