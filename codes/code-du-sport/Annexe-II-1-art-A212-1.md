@@ -152,14 +152,6 @@ A l'exclusion des pratiques compétitives. |
 
 Titres à finalité professionnelle délivrés par le ministère chargé de la défense |
 
-Moniteur-chef d'entraînement physique, militaire et sportif, délivré jusqu'au 4 janvier 2024. |
-
-5 |
-
-Encadrement et coordination des activités physiques ou sportives. |
-
-A l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. |
-
 Adjoint éducateur sportif opérationnel délivré jusqu'au 17 juillet 2025.
 
 |
@@ -192,11 +184,11 @@ A l'exclusion des groupes constitués de personnes ayant un handicap physique ou
 
 Certificat de qualification délivré par la Commission paritaire nationale emploi formation du sport |
 
-CQP animateur de loisirs sportifs option jeux sportifs et jeux d'opposition , du 1er juillet 2022 au 1er juillet 2024 (**). |
+CQP animateur de loisirs sportifs option jeux sportifs et jeux d'opposition, du 1er juillet 2022 au 27 mars 2028 (**). |
 
 4 |
 
-Animation de séances et de cycles de découverte d'activités de loisir et d'initiation des jeux sportifs et des jeux d'opposition :
+Conduite de séances et de cycles de découverte d'activités de loisir et d'initiation des jeux sportifs et des jeux d'opposition :
 
 - arts et éducation par les activités physiques d'opposition ;
 
@@ -212,7 +204,7 @@ A l'exclusion :
 
 - de la délivrance de niveaux, de ceintures ou de grades ;
 
-- des cours individuels. |
+- des prestations de cours particuliers. |
 
 ACTIVITÉS DE FITNESS DANS L'EAU y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice et sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
 
@@ -320,29 +312,29 @@ Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
-Certification " Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 (**) associé au DE JEPS spécialité " perfectionnement sportif " mentions " activités de plongée subaquatique ", " canoë-kayak et disciplines associées en eau calme ", " canoë-kayak et disciplines associées en eau vive ", " triathlon ", " char à voile ", " aviron et disciplines associées ", " glisses aérotractées nautiques ", " surf et disciplines associées ", " natation course ", " plongeon ", " water-polo ", " natation synchronisée ", " voile ", " voile au-delà de 200 milles nautiques d'un abri ", " triathlon et disciplines enchaînées ". |
+Certification "Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 associé au DE JEPS spécialité "perfectionnement sportif "mentions "activités de plongée subaquatique ", "canoë-kayak et disciplines associées en eau calme ", "canoë-kayak et disciplines associées en eau vive ", "triathlon ", "char à voile ", "aviron et disciplines associées ", "glisses aérotractées nautiques ", "surf et disciplines associées ", "natation course ", "plongeon ", "water-polo ", "natation synchronisée ", "voile ", "voile au-delà de 200 milles nautiques d'un abri ", "triathlon et disciplines enchaînées ". |
 
 |
 
 Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
 
-Sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
+A l'exclusion de la surveillance des lieux de pratique. |
 
-Certification " Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 (**) associé au DES JEPS spécialité " performance sportive " mentions " plongée subaquatique ", " canoë-kayak et disciplines associées en eau calme ", " char à voile ", " aviron et disciplines associées ", " natation course ", " plongeon ", " water-polo ", " natation synchronisée ", " voile ". |
-
-|
-
-Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
-
-Sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
-
-Certification " Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 (**) associé au CQP instructeur de fitness option " cours collectifs " ou au CQP animateur de loisirs sportifs option " activités gymniques d'entretien et d'expression ". |
+Certification "Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 associé au DES JEPS spécialité "performance sportive "mentions "plongée subaquatique ", "canoë-kayak et disciplines associées en eau calme ", "char à voile ", "aviron et disciplines associées ", "natation course ", "plongeon ", "water-polo ", "natation synchronisée ", "voile ". |
 
 |
 
 Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
 
-Sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
+A l'exclusion de la surveillance des lieux de pratique. |
+
+Certification "Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 associé au CQP instructeur de fitness option "cours collectifs "ou au CQP animateur de loisirs sportifs option "activités gymniques d'entretien et d'expression ". |
+
+|
+
+Animation de séances collectives d'aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
+
+A l'exclusion de la surveillance des lieux de pratique. |
 
 Certification " Techniques et enseignement des activités de fitness dans l'eau "-Waterform, du 20 septembre 2023 au 20 septembre 2026 (**) associé au DEUG " STAPS ", DEUST " animation et gestion des activités physiques, sportives ou culturelles ", DEUST " action, commercialisation des services sportifs ", DEUST " manager de club sportif ", Licence mention
 
@@ -478,11 +470,13 @@ Conduite de séances de découverte d'activités de loisir et d'animation des ac
 
 |
 
-CQP animateur de loisirs sportifs option "activités gymniques d'entretien et d'expression", du 1er juillet 2022 au 1er juillet 2024 (**). |
+CQP animateur de loisirs sportifs option activités gymniques d'entretien et d'expression, du 1er juillet 2022 au 27 mars 2028 (**).
+
+|
 
 4 |
 
-Animation de séances et de cycles de découverte d'activités de loisir et d'initiation des activités gymniques d'entretien et d'expression :
+Conduite de séances et de cycles de découverte d'activités de loisir et d'initiation des activités gymniques d'entretien et d'expression :
 
 - techniques cardio ;
 
@@ -494,6 +488,8 @@ Animation de séances et de cycles de découverte d'activités de loisir et d'in
 
 Sans recours à des appareils de musculation.
 
+A l'exclusion des prestations de cours particuliers.
+
 |
 
 ACTIVITÉS DE MONTAGNE |
@@ -502,7 +498,7 @@ ALPINISME-ENVIRONNEMENT SPÉCIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-Diplôme d'Etat d'alpinisme-guide de haute montagne, délivré jusqu'au 1er janvier 2025. |
+Diplôme d'Etat d'alpinisme-guide de haute montagne, jusqu'au 21 juillet 2024 (**). |
 
 6 |
 
@@ -518,27 +514,43 @@ Entraînement aux pratiques de compétition dans les disciplines précitées.
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
+Diplôme d'Etat d'alpinisme-guide de haute montagne et activités assimilées, jusqu'au 1er mars 2028 (**). |
+
+6 |
+
+Conduite et accompagnement de personnes dans des excursions ou des ascensions de montagne en rocher, neige, glace et terrain mixte.
+
+Conduite et accompagnement de personnes dans des excursions de ski de randonnée, ski alpinisme et ski hors des pistes.
+
+Enseignement de l'alpinisme et de l'escalade et des techniques de sécurité en ski de randonnée, ski alpinisme et ski hors des pistes à l'exclusion du ski alpin et ses activités dérivées en application de l'ensemble des classes de progression du ski alpin et de ses activités dérivées.
+
+Entraînement aux pratiques de compétition dans les disciplines précitées.
+
+|
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
+
 SKI-ENVIRONNEMENT SPÉCIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-Diplôme d'Etat de ski-moniteur national de ski alpin, délivré jusqu'au 1er janvier 2025. |
+Diplôme d'Etat de ski - moniteur national de ski alpin et ses activités dérivées, délivré jusqu'au 31 octobre 2028. |
 
 5 |
 
-Encadrement, animation, enseignement et entraînement du ski alpin et de ses activités dérivées en application de l'ensemble des classes de la progression du ski alpin et de ses activités dérivées définies par la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne. |
+Encadrement, l'accompagnement, l'animation, l'enseignement et l'entraînement en sécurité du ski alpin et ses activités dérivées définies en annexe VIII du présent arrêté, en application de l'ensemble des classes de la progression du ski alpin et ses activités dérivées telles que, définies par la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne. |
 
-A l'exclusion des zones glaciaires non balisées et des terrains dont la fréquentation fait appel aux techniques de l'alpinisme.
+A l'exception des zones glaciaires non balisées et des terrains dont la fréquentation fait appel aux techniques de l'alpinisme.
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
 
 |
 
-Diplôme d'Etat de ski-moniteur national de ski nordique de fond, délivré jusqu'au 1er janvier 2025. |
+Diplôme d'Etat de ski - moniteur national de ski nordique et ses activités dérivées, délivré jusqu'au 31 octobre 2028. |
 
 5 |
 
-Encadrement, animation, enseignement et entraînement du ski nordique de fond et de ses activités dérivées en application de l'ensemble des classes de la progression du ski nordique de fond et de ses activités dérivées définies par la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne. |
+Encadrement, animation, enseignement et entraînement du ski nordique et de ses activités dérivées, dont le biathlon sur neige, en application de l'ensemble des classes de la progression du ski nordique et ses activités dérivées, définies par la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne. |
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
@@ -546,7 +558,7 @@ ACTIVITÉS DE RANDONNÉE EN MOYENNE MONTAGNE |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " milieu montagnard enneigé ", délivré jusqu'au 1er janvier 2025. |
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " milieu montagnard enneigé ", jusqu'au 30 juin 2024 (**). |
 
 5 |
 
@@ -554,15 +566,17 @@ Encadrement, conduite, animation, enseignement, entraînement en randonnée péd
 
 A l'exclusion :
 
--des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+- des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
 
--de la pratique de toutes les disciplines du ski et activités dérivées, à l'exception de la raquette à neige ;
+- de la pratique de toutes les disciplines du ski et activités dérivées, à l'exception de la raquette à neige ;
 
--de l'exercice professionnel dans les régions à climat tropical et équatorial, en périodes de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés
+- de l'exercice professionnel dans les régions à climat tropical et équatorial, en périodes de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés
 
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
 
-Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " milieu montagnard tropical et équatorial ", délivré jusqu'au 1er janvier 2025. |
+|
+
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " milieu montagnard tropical et équatorial ", jusqu'au 30 juin 2024 (**). |
 
 5 |
 
@@ -570,11 +584,49 @@ Encadrement, conduite, animation, enseignement, entraînement en randonnée péd
 
 A l'exclusion :
 
--des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+- des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
 
--des terrains enneigés.
+- des terrains enneigés.
 
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
+
+|
+
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " concevoir, conduire en sécurité et évaluer une randonnée en milieu montagnard enneigé pour tout public ", délivré jusqu'au 8 janvier 2029 (**). |
+
+5 |
+
+Encadrement, conduite, animation, enseignement, entraînement en randonnée pédestre et activités assimilées en moyenne montagne ainsi qu'en terrain enneigé sur des reliefs vallonnés excluant tout accident de terrain important.
+
+|
+
+A l'exclusion :
+
+- des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+
+- de la pratique de toutes les disciplines du ski et activités dérivées, à l'exception de la raquette à neige ;
+
+- de l'exercice professionnel dans les régions à climat tropical et équatorial, en périodes de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
+
+|
+
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " concevoir, conduire en sécurité et évaluer une randonnée en milieu montagnard tropical et équatorial en période de fortes précipitations, pour tout public " délivré jusqu'au 8 janvier 2029 (**). |
+
+5 |
+
+Encadrement, conduite, animation, enseignement, entraînement en randonnée pédestre et activités assimilées en moyenne montagne ainsi que dans les régions à climat tropical et équatorial en périodes de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés. |
+
+A l'exclusion :
+
+- des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+
+- des terrains enneigés.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
+
+|
 
 ACTIVITÉS PHYSIQUES OU SPORTIVES ADAPTÉES |
 
@@ -670,20 +722,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport
-
-|
-
-CQP " moniteur d'arts martiaux " option " aïkido, aïkibudo et disciplines associées ", délivré du 25 février 2022 au 25 février 2024
-
-|
-
-3 |
-
-Encadrement de séances de découverte et d'animation des activités d'aïkido, aïkibudo et disciplines associées |
-
-|
-
 ARTS MARTIAUX MIXTES y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
 
 |
@@ -730,7 +768,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " athlétisme et disciplines associées ", délivré jusqu'au 31 août 2026. |
+DE JEPS, spécialité " perfectionnement sportif " mention " athlétisme et disciplines associées ", jusqu'au 1er janvier 2025 (**). |
 
 5 |
 
@@ -738,7 +776,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " athlétisme : demi-fond, marche, hors stade ", délivré jusqu'au 31 août 2026. |
+DES JEPS, spécialité " performance sportive " mention " athlétisme : demi-fond, marche, hors stade ", jusqu'au 1er janvier 2025 (**). |
 
 6 |
 
@@ -746,7 +784,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " athlétisme : épreuves combinées ", délivré jusqu'au 31 août 2026. |
+DES JEPS, spécialité " performance sportive " mention " athlétisme : épreuves combinées ", jusqu'au 1er janvier 2025 (**). |
 
 6 |
 
@@ -754,7 +792,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " athlétisme : lancers ", délivré jusqu'au 31 août 2026. |
+DES JEPS, spécialité " performance sportive " mention " athlétisme : lancers ", jusqu'au 1er janvier 2025 (**). |
 
 6 |
 
@@ -762,7 +800,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " athlétisme : sauts ", délivré jusqu'au 31 août 2026. |
+DES JEPS, spécialité " performance sportive " mention " athlétisme : sauts ", jusqu'au 1er janvier 2025 (**). |
 
 6 |
 
@@ -770,7 +808,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " athlétisme : sprint, haies, relais ", délivré jusqu'au 31 août 2026. |
+DES JEPS, spécialité " performance sportive " mention " athlétisme : sprint, haies, relais ", jusqu'au 1er janvier 2025 (**). |
 
 6 |
 
@@ -1182,6 +1220,14 @@ Pour les sites de pratique en milieu naturel, en convoi et sous la responsabilit
 
 |
 
+CQP moniteur de canoë-kayak et sports de pagaie en eau calme, du 27 mars 2024 au 27 mars 2027 (**). |
+
+4 |
+
+Conduite de séances de découverte, d'initiation, et d'apprentissage en canoë-kayak et sports de pagaie en eau calme. |
+
+Au sein de rivière de classe 1, et en mer dans la bande des 300m. |
+
 CANOË-KAYAK-ENVIRONNEMENT SPÉCIFIQUE (rivière de classe supérieure à trois conformément aux normes de classement technique édictées par la fédération délégataire) |
 
 Diplômes délivrés par le ministère chargé des sports |
@@ -1214,7 +1260,7 @@ Encadrement du canyonisme, jusqu'à la cotation V1, A 5 et E II incluse. |
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif ", mention " canyonisme ", délivré jusqu'au 1er janvier 2025. |
+DE JEPS, spécialité "perfectionnement sportif ", mention "canyonisme ", jusqu'au 1er mars 2029 (**). |
 
 6 |
 
@@ -1272,6 +1318,30 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
 
+CQP " initiateur de char à voile ", du 9 février 2024 au 9 février 2027 (**). |
+
+3 |
+
+Conduite de séances de découverte et d'initiation en char à voile. |
+
+Jusqu'à un vent de 6 beauforts.
+
+Dans la limite de 8 chars.
+
+A l'exclusion des publics jeunes au-dessous de 8 ans.
+
+Sous la responsabilité d'un référent titulaire :
+
+- d'un diplôme professionnel de niveau 4 minimum ouvrant des prérogatives en char à voile ;
+
+ou
+
+- d'une certification professionnelle de niveau 4 dans le domaine de l'encadrement sportif et titulaire du CQP initiateur char à voile et justifiant de deux années d'expérience professionnelle dans le champ de l'encadrement sportif en char à voile.
+
+Le référent est présent sur le site pendant la durée de l'intervention du titulaire du CQP, dans la limite de 3 titulaires du CQP par référent.
+
+|
+
 COURSE D'ORIENTATION
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -1295,8 +1365,6 @@ Licence professionnelle mention " animation, gestion et organisation des activit
 Enseignement de la course d'orientation. |
 
 A l'exclusion des pratiques compétitives. |
-
-Diplômes délivrés par le ministère chargé des sports |
 
 CYCLISME
 
@@ -1506,26 +1574,6 @@ Accompagnement et conduite de randonnées équestres, dans le cadre de parcours 
 
 |
 
-Moniteur d'équitation option attelage délivré jusqu'au 25 avril 2024.
-
-|
-
-4 |
-
-Animation et enseignement de l'attelage. |
-
-|
-
-Moniteur d'équitation option équitation western délivré jusqu'au 25 avril 2024.
-
-|
-
-4 |
-
-Animation et enseignement de l'équitation western. |
-
-|
-
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation des entreprises équestres |
 
 CQP " enseignant activités équestres ", jusqu'au 14 décembre 2027 (**). |
@@ -1590,19 +1638,21 @@ Conduite de cycle de découverte, d'animation, d'initiation et d'apprentissage e
 
 A l'exclusion de la via ferrata. |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " escalade ", délivré jusqu'au 1er janvier 2025. |
+DE JEPS, spécialité " perfectionnement sportif " mention " escalade ", jusqu'au 1er avril 2029 (**). |
 
 5 |
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'escalade. |
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
 
 A l'exclusion :
 
--des sites naturels situés à une altitude égale ou supérieure à 1500 m ;
+- des sites naturels situés à une altitude égale ou supérieure à 1500 m ;
 
--de la via ferrata ;
+- de la via ferrata ;
 
--de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure |
+- de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure
+
+|
 
 DES JEPS, spécialité " performance sportive " mention " escalade ", délivré jusqu'au 1er janvier 2025. |
 
@@ -1612,11 +1662,11 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 A l'exclusion :
 
--des sites naturels situés à une altitude égale ou supérieure à 1500 m ;
+- des sites naturels situés à une altitude égale ou supérieure à 1500 m ;
 
--de la via ferrata ;
+- de la via ferrata ;
 
--de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure |
+- de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure |
 
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
 
@@ -1632,7 +1682,7 @@ ESCALADE-ENVIRONNEMENT SPECIFIQUE (pratiquée sur les sites sportifs au-delà du
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " escalade en milieux naturels ", délivré jusqu'au 1er janvier 2025. |
+DE JEPS, spécialité " perfectionnement sportif " mention " escalade en milieux naturels ", jusqu'au 1er avril 2029 (**). |
 
 5 |
 
@@ -1640,11 +1690,21 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1500 m.
 
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
 
-Diplôme d'Etat d'alpinisme-guide de haute montagne, délivré jusqu'au 1er janvier 2025. |
+|
+
+Diplôme d'Etat d'alpinisme-guide de haute montagne, délivré jusqu'au 1er juillet 2024 (**). |
 
 6 |
+
+Enseignement et entraînement de l'escalade pratiquée en environnement spécifique et hors environnement spécifique. |
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
+
+Diplôme d'Etat d'alpinisme-guide de haute montagne et activités assimilées, du 1er mars 2024 au 1er mars 2028 (**). |
+
+|
 
 Enseignement et entraînement de l'escalade pratiquée en environnement spécifique et hors environnement spécifique. |
 
@@ -1942,22 +2002,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DE JEPS, spécialité "perfectionnement sportif" mention "disciplines gymniques acrobatiques", jusqu'au 31 décembre 2023 (**). |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
-DE JEPS, spécialité "perfectionnement sportif" mention "disciplines gymniques d'expression", jusqu'au 31 décembre 2023 (**). |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
 DES JEPS, spécialité " performance sportive " mention " gymnastique acrobatique ", délivré jusqu'au 1er janvier 2025. |
 
 6 |
@@ -2134,7 +2178,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " handball ", délivré jusqu'au 1er janvier 2025. |
+DE JEPS, spécialité " perfectionnement sportif ", mention " handball ", délivré jusqu'au 1er avril 2029 (**). |
 
 5 |
 
@@ -2142,11 +2186,37 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive ", mention " handball ", délivré jusqu'au 1er janvier 2025. |
+DES JEPS, spécialité " performance sportive ", mention " handball ", délivré jusqu'au 1er avril 2029 (**). |
 
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+Titres à finalité professionnelle délivré par la Fédération française de handball |
+
+Educateur de handball, délivré du 26 avril 2024 au 26 avril 2027(**). |
+
+4 |
+
+Conduite de séances d'animation, de cycles d'initiation et d'apprentissage en handball. |
+
+|
+
+Entraineur de handball du secteur professionnel mention entraineur professionnel, délivré du 26 avril 2024 au 26 avril 2027(**). |
+
+6 |
+
+Conduite de séances d'enseignement et d'entraînement en handball d'une équipe professionnelle ou auprès d'une sélection nationale. |
+
+|
+
+Entraineur de handball du secteur professionnel mention entraineur formateur, délivré du 26 avril 2024 au 26 avril 2027(**). |
+
+6 |
+
+Conduite de séances d'enseignement et d'entraînement en handball de joueurs en formation dans un club professionnel ou une structure fédérale. |
 
 |
 
@@ -2300,18 +2370,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport
-
-|
-
-CQP " moniteur d'arts martiaux " option " judo-jujitsu ", délivré du 25 février 2022 au 25 février 2024 |
-
-3 |
-
-Encadrement de séances de découverte et d'animation des activités du judo-jujitsu |
-
-|
-
 KARATÉ
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -2448,7 +2506,7 @@ Encadrement du longe-côte. |
 
 |
 
-BP JEPS spécialité " éducateur sportif " mention " voile multi-supports jusqu'à 6 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS spécialité " éducateur sportif " mention " voile multi-supports jusqu'à 6 milles nautiques d'un abri ", jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -2456,7 +2514,7 @@ Encadrement du longe-côte. |
 
 |
 
-BP JEPS spécialité " éducateur sportif " mention " voile croisière jusqu'à 200 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS spécialité " éducateur sportif " mention " voile croisière jusqu'à 200 milles nautiques d'un abri ", jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -2464,7 +2522,7 @@ Encadrement du longe-côte. |
 
 |
 
-BP JEPS spécialité " éducateur sportif " mention " glisses aérotractées et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS spécialité " éducateur sportif " mention " glisses aérotractées et disciplines associées ", jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -2480,7 +2538,7 @@ Encadrement du longe-côte. |
 
 |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en mer ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en mer ", jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -2488,7 +2546,7 @@ Encadrement du longe-côte. |
 
 |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive jusqu'à la classe III, en eau calme et en mer jusqu'à 4 Beaufort ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive jusqu'à la classe III, en eau calme et en mer jusqu'à 4 Beaufort ", jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -2496,7 +2554,7 @@ Encadrement du longe-côte. |
 
 |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive ", jusqu'au 1er janvier 2025. |
 
 4 |
 
@@ -2528,7 +2586,7 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS spécialité " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau calme " délivré jusqu'au 1er janvier 2024. |
+DE JEPS spécialité " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau calme " jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2536,7 +2594,7 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS spécialité " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau vive " délivré jusqu'au 1er janvier 2024. |
+DE JEPS spécialité " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau vive " jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2560,7 +2618,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DE JEPS spécialité " perfectionnement sportif " mention " glisses aérotractées nautiques " délivré jusqu'au 1er janvier 2024. |
+DE JEPS spécialité " perfectionnement sportif " mention " glisses aérotractées nautiques " jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2576,7 +2634,7 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS spécialité " perfectionnement sportif " mention " natation course " délivré jusqu'au 1er janvier 2024. |
+DE JEPS spécialité " perfectionnement sportif " mention " natation course " jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2584,7 +2642,7 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS spécialité " perfectionnement sportif " mention " plongeon " délivré jusqu'au 1er janvier 2024. |
+DE JEPS spécialité " perfectionnement sportif " mention " plongeon " jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2592,7 +2650,7 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS spécialité " perfectionnement sportif " mention " water-polo " délivré jusqu'au 1er janvier 2024. |
+DE JEPS spécialité " perfectionnement sportif " mention " water-polo " jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2600,7 +2658,7 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS spécialité " perfectionnement sportif " mention " natation synchronisée ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS spécialité " perfectionnement sportif " mention " natation synchronisée ", jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2608,7 +2666,7 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS spécialité " perfectionnement sportif " mention " voile " délivré jusqu'au 1er janvier 2024. |
+DE JEPS spécialité " perfectionnement sportif " mention " voile " jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2616,7 +2674,7 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS spécialité " perfectionnement sportif " mention " voile au-delà de 200 milles nautiques d'un abri " délivré jusqu'au 1er janvier 2024. |
+DE JEPS spécialité " perfectionnement sportif " mention " voile au-delà de 200 milles nautiques d'un abri " jusqu'au 1er janvier 2025. |
 
 5 |
 
@@ -2632,7 +2690,7 @@ Encadrement du longe-côte. |
 
 |
 
-DES JEPS spécialité " performance sportive " mention " plongée subaquatique " délivré jusqu'au 1er janvier 2024. |
+DES JEPS spécialité " performance sportive " mention " plongée subaquatique " jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2640,7 +2698,7 @@ Encadrement du longe-côte. |
 
 |
 
-DES JEPS spécialité " performance sportive " mention " canoë-kayak et disciplines associées en eau calme " délivré jusqu'au 1er janvier 2024. |
+DES JEPS spécialité " performance sportive " mention " canoë-kayak et disciplines associées en eau calme " jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2664,7 +2722,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS spécialité " performance sportive " mention " natation course " délivré jusqu'au 1er janvier 2024. |
+DES JEPS spécialité " performance sportive " mention " natation course " jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2672,7 +2730,7 @@ Encadrement du longe-côte. |
 
 |
 
-DES JEPS spécialité " performance sportive " mention " plongeon " délivré jusqu'au 1er janvier 2024. |
+DES JEPS spécialité " performance sportive " mention " plongeon " jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2680,7 +2738,7 @@ Encadrement du longe-côte. |
 
 |
 
-DES JEPS spécialité " performance sportive " mention " water-polo " délivré jusqu'au 1er janvier 2024. |
+DES JEPS spécialité " performance sportive " mention " water-polo " jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2688,7 +2746,7 @@ Encadrement du longe-côte. |
 
 |
 
-DES JEPS spécialité " performance sportive " mention " natation synchronisée ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS spécialité " performance sportive " mention " natation synchronisée ", jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -2696,7 +2754,7 @@ Encadrement du longe-côte. |
 
 |
 
-DES JEPS spécialité " performance sportive " mention " voile " délivré jusqu'au 1er janvier 2024. |
+DES JEPS spécialité " performance sportive " mention " voile " jusqu'au 1er janvier 2025. |
 
 6 |
 
@@ -3534,27 +3592,27 @@ Encadrement et animation d'activités de loisir, d'initiation, de découverte de
 
 A l'exclusion de l'entrainement à la compétition de haut niveau |
 
-DE JEPS, spécialité "perfectionnement sportif" mention "sport automobile" option "circuit", délivré jusqu'au 11 juillet 2027. |
+DE JEPS, spécialité " perfectionnement sportif " mention " sport automobile " option " circuit ", jusqu'au 11 juillet 2027 (**). |
 
 5 |
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par l'option considérée. |
 
 |
 
-DE JEPS, spécialité "perfectionnement sportif" mention "sport automobile" option "karting", délivré jusqu'au 11 juillet 2027. |
+DE JEPS, spécialité " perfectionnement sportif " mention " sport automobile " option " karting ", jusqu'au 11 juillet 2027 (**). |
 
 5 |
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par l'option considérée. |
 
 |
 
-DE JEPS, spécialité "perfectionnement sportif" mention "sport automobile" option "rallye", délivré jusqu'au 11 juillet 2027. |
+DE JEPS, spécialité " perfectionnement sportif " mention " sport automobile " option " rallye ", jusqu'au 11 juillet 2027 (**). |
 
 5 |
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par l'option considérée. |
 
 |
 
@@ -3586,6 +3644,30 @@ Animation de séances et de cycles de découverte, d'initiation ou d'apprentissa
 
 A l'exclusion de la compétition y compris la préparation |
 
+CC " encadrer des activités de sport automobile de loisir ou émergentes " associé à :
+
+- l'option A : " perfectionnement au pilotage " de la mention " sport automobile " du BPJEPS spécialité " éducateur sportif " ;
+
+- l'option B : " karting " de la mention " sport automobile " du BPJEPS spécialité " éducateur sportif " ;
+
+- la mention " perfectionnement du pilotage " du BPJEPS spécialité " sport automobile " ;
+
+- la mention " circuit " du BPJEPS spécialité " sport automobile " ;
+
+- la mention " rallye " du BPJEPS spécialité " sport automobile " ;
+
+- la mention " karting " du BPJEPS spécialité " sport automobile "
+
+|
+
+|
+
+Animation de séances et de cycles de découverte, d'initiation ou d'apprentissage à la conduite de véhicules de catégorie Kart B1/B2 ou tout-terrain type Sprintcar ou SSV, sur un circuit automobile revêtu homologué.
+
+|
+
+A l'exclusion de la compétition y compris la préparation. |
+
 SPORTS BOULES
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -3615,24 +3697,6 @@ BP JEPS, spécialité " éducateur sportif " mention " sport de contact et disci
 4 |
 
 Encadrement, initiation et conduite de cycles d'apprentissage en sports de contact et disciplines associées. |
-
-|
-
-DE JEPS, spécialité " perfectionnement sportif " mention " boxe thaï-muay thaï ", délivré jusqu'au 31 décembre 2023. |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
-DE JEPS, spécialité " perfectionnement sportif " mention " kick boxing ", délivré jusqu'au 31 décembre 2023. |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
-
-|
 
 |
 
@@ -3926,9 +3990,9 @@ A l'exclusion des activités dérivées du surf de mer. |
 
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
 
-CQP " initiateur de voile ", délivré jusqu'au 18 décembre 2023. |
+CQP " initiateur de voile ", délivré jusqu'au 27 mars 2027 (**) |
 
-|
+3 |
 
 Encadrement et animation du stand up paddle (SUP). |
 
@@ -3996,16 +4060,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur d'arts martiaux " option " taekwondo et disciplines associées ", délivré du 25 février 2022 au 25 février 2024 |
-
-3 |
-
-Encadrement de séances de découverte et d'animation des activités du taekwondo et disciplines associées |
-
-|
-
 TENNIS
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -4057,16 +4111,6 @@ CQP “ éducateur de tennis ”, du 15 novembre 2023 au 15 novembre 2026 (**). 
 Initiation au tennis en cours collectifs. |
 
 A l'exclusion de l'entraînement. |
-
-Titre à finalité professionnelle délivré par la Fédération française de tennis |
-
-Moniteur de padel, délivré jusqu'au 10 février 2024. |
-
-4 |
-
-Encadrement et conduite de séances de découverte, d'animation et d'entraînement en padel. |
-
-|
 
 TENNIS DE TABLE
 
@@ -4168,13 +4212,15 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
 
-CQP " animateur de tir à l'arc ", délivré jusqu'au 18 décembre 2023. |
+CQP animateur de tir à l'arc, du 9 février 2024 au 9 février 2027 (**). |
+
+3 |
+
+Conduite de séances de découverte et d'initiation en tir à l'arc. |
+
+Dans la limite de 12 pratiquants par groupe, pour le tir sur terrain plat. Dans la limite de 6 pratiquants par groupe pour le tir en parcours.
 
 |
-
-Encadrement des activités d'animation de tir à l'arc. |
-
-Dans la limite de 12 pratiquants par groupe, pour le tir sur terrain plat. Dans la limite de 6 pratiquants par groupe pour le tir en parcours. |
 
 TIR SPORTIF
 
@@ -4262,6 +4308,22 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
+Certificat complémentaire " triathlon et disciplines enchaînées " associé au :
+
+- BPJEPS spécialité " activités aquatiques " ; " activités aquatiques et de la natation " ou spécialité " éducateur sportif " mention " activités aquatiques et de la natation " ;
+
+- DEJEPS et DESJEPS mention
+
+" natation course " ; " natation synchronisée " ; " plongeon " ou " waterpolo ".
+
+|
+
+|
+
+Conduite de séances de découverte, d'initiation et de cycles d'apprentissage en triathlon et disciplines enchaînées. |
+
+|
+
 VOILE
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -4346,19 +4408,19 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
 
-CQP " initiateur voile " délivré jusqu'au 18 décembre 2023. |
+CQP " initiateur voile ", du 27 mars 2024 au 27 mars 2027 (**) |
 
 |
 
-Animation et initiation de la voile. |
+Conduite de séances de découverte et d'initiation en voile |
 
-Sous l'autorité d'un titulaire :
+Sous l'autorité :
 
--d'une certification professionnelle d'encadrement des activités physiques ou sportives en voile de niveau IV ou supérieur
+- d'un titulaire d'une certification professionnelle d'encadrement des activités physiques ou sportives en voile de niveau 4 ou supérieur, ou
 
-ou
+- d'un titulaire d'une certification professionnelle d'encadrement des activités physiques ou sportives de niveau 4 minimum et d'un CQP initiateur voile , ou
 
--d'une certification professionnelle d'encadrement des activités physiques ou sportives de niveau IV minimum et d'un CQP " initiateur voile ".
+- d'un ou plusieurs superviseur(s) technique(s) et pédagogique(s) bénéficiant d'une dérogation délivrée par la Fédération française de voile après avis conforme de la commission ad hoc.
 
 Cette autorité s'exerce sur un nombre maximal de 10 titulaires du CQP et dans la limite de 140 pratiquants.
 
@@ -4370,13 +4432,15 @@ VOILE-ENVIRONNEMENT SPECIFIQUE (au-delà de 200 milles nautiques d'un abri) |
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
-DE JEPS, spécialité " perfectionnement sportif ", mention " voile au-delà de 200 milles nautiques d'un abri ", délivré jusqu'au 31 août 2026. |
+DE JEPS, spécialité " perfectionnement sportif ", mention " voile au-delà de 200 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2025. |
 
 5 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
 
-Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'une formation de mise à niveau. En l'absence de formation de mise à niveau, le titulaire conserve la capacité d'encadrer une activité d'enseignement à la navigation à la voile jusqu'à 200 milles nautiques d'un abri. |
+Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'une formation de mise à niveau. En l'absence de formation de mise à niveau, le titulaire conserve la capacité d'encadrer une activité d'enseignement à la navigation à la voile jusqu'à 200 milles nautiques d'un abri.
+
+|
 
 VOL A MOTEUR
 
@@ -4484,13 +4548,37 @@ A l'exception de l'enseignement du parapente en milieu aménagé au-dessus de l'
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau |
 
+DES JEPS, spécialité " performance sportive " mention " vol libre " option " deltaplane ", jusqu'au 14 février 2029 (**). |
+
+6 |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par l'option considérée.
+
+|
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " vol libre " option " parapente ", jusqu'au 14 février 2029 (**). |
+
+6 |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par l'option considérée. |
+
+A l'exception de l'enseignement du parapente en milieu aménagé au-dessus de l'eau.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
+
+|
+
 CC " enseignement en milieu aménagé " associé au :
 
--DE JEPS spécialité
+- DE JEPS spécialité
 
 " perfectionnement sportif " mention " parapente "
 
--DES JEPS spécialité
+- DES JEPS spécialité
 
 " performance sportive " mention " parapente " |
 
@@ -4579,24 +4667,6 @@ DES JEPS, spécialité " performance sportive " mention " karaté et disciplines
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
-Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur d'arts martiaux " option " arts énérgétiques chinois ", délivré du 25 février 2022 au 25 février 2024 |
-
-3 |
-
-Encadrement de séances de découverte et d'animation des activités d'arts énergétiques chinois |
-
-|
-
-CQP " moniteur d'arts martiaux " option " arts martiaux chinois internes et externes ", délivré du 25 février 2022 au 25 février 2024 |
-
-3 |
-
-Encadrement de séances de découverte et d'animation des activités d'arts martiaux chinois internes et externes |
 
 |
 
