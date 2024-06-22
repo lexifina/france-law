@@ -24,6 +24,6 @@ L'entretien permet également d'évaluer les compétences managériales du candi
 
 Durée de l'exposé : dix minutes maximum.
 
-Durée de l'entretien : cinquante minutes maximum.
+Durée de l'entretien : cinquante minutes maximum. Il permet enfin de vérifier la capacité du candidat à incarner et garantir, dans l'exercice des fonctions auxquelles il se destine, le respect des valeurs de la République, dont la laïcité.
 
 Coefficient 2.

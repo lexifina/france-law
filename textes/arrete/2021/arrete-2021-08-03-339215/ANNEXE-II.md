@@ -32,7 +32,7 @@ L'exposé est suivi d'un entretien avec le jury qui comporte des mises en situat
 
 Cet entretien doit permettre au jury d'apprécier les aptitudes et la motivation du candidat à exercer les missions et les responsabilités qui sont confiées aux personnels de direction en établissement public local d'enseignement.
 
-Durée de l'exposé : dix minutes maximum.
+Durée de l'exposé : dix minutes maximum. Il permet enfin de vérifier la capacité du candidat à incarner et garantir, dans l'exercice des fonctions auxquelles il se destine, le respect des valeurs de la République, dont la laïcité.
 
 Durée de l'entretien : cinquante minutes maximum.
 
