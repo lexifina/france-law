@@ -1,80 +1,80 @@
 # Article ANNEXE II
 
-ANNEXE II
+SITUATION D'ÉVALUATION CERTIFICATIVE DES UNITÉS CAPITALISABLES 3 ET 4 DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ” MENTION “ SPORTS ÉQUESTRES ”
 
-SITUATIONS D'ÉVALUATIONS CERTIFICATIVES DES UNITÉS CAPITALISABLES UC3 ET UC4 DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ PERFECTIONNEMENT SPORTIF MENTION SPORTS ÉQUESTRES
+Situation d'évaluation certificative des unités capitalisables 3 et 4 :
 
-Les épreuves se déroulent en centre de formation ou dans tout autre lieu retenu par le DRDJSCS, le DRJSCS ou le DJSCS.
+Le candidat choisit parmi la liste suivante une discipline qui servira de support commun aux épreuves certificatives des UC3 et UC4 :
 
-Les épreuves certificatives sont évaluées dans les conditions prévues à l'article A. 212-26 du code du sport par au moins deux évaluateurs titulaires d'une qualification équivalente à minima de niveau III dans le domaine équestre depuis au minimum 3 ans.
+-dressage ;
 
-Sont dispensés de ces exigences, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
+-para-dressage ;
 
-Le candidat choisit parmi la liste suivante une discipline qui servira de support commun aux situations d'évaluations certificatives des UC3 et UC4 :
+-saut d'obstacles ;
 
-- dressage ;
+-concours complet ;
 
-- para-dressage ;
+-attelage ;
 
-- saut d'obstacles ;
+-voltige ;
 
-- concours complet ;
+-équitation western ;
 
-- attelage ;
+-endurance ;
 
-- voltige ;
+-horse ball ;
 
-- équitation western ;
+-techniques de randonnées équestres et de compétition “ TREC ” ;
 
-- endurance ;
+-hunter ;
 
-- horse ball ;
+-tir à l'arc à cheval ;
 
-- TREC ;
+-pony games ;
 
-- Hunter ;
+-équitation de travail.
 
-- tir à l'arc à cheval ;
+Epreuve certificative de l'unité capitalisable 3 :
 
-- pony games ;
+Elle est composée des deux modalités.
 
-- équitation de travail.
+Modalité A.-Conduite d'une séance d'enseignement dans la discipline choisie par le candidat.
 
-Epreuve certificative de l'UC3
+Le jour de l'épreuve, le thème, le niveau et le public sont précisés par les évaluateurs au candidat avant la préparation de la séance. Le candidat dispose d'une heure pour préparer la séance, aménager l'aire d'évolution et prendre en charge les cavaliers.
 
-L'épreuve se compose de deux modalités.
+Le candidat conduit une séance d'enseignement de trente minutes maximum pour un public d'au moins quatre pratiquants de niveau galop 4 maximum.
 
-Modalité A. - Conduite d'une séance d'apprentissage
+La séance est suivie d'un entretien de quinze minutes maximum portant sur sa démarche d'enseignement son analyse et son évaluation. L'échange avec les évaluateurs permet également de vérifier la capacité du candidat à adopter une démarche intégrative des différents publics dans ses séances d'enseignement.
 
-Le thème, le niveau et le public sont précisés par les évaluateurs avant la préparation de la séance dans la discipline choisie par le candidat. Il dispose d'une heure pour préparer la séance, aménager l'aire d'évolution et prendre en charge les cavaliers.
+Modalité B.-Conduite d'une séance d'entraînement dans la discipline choisie par le candidat
 
-Le candidat conduit une séance de 30 minutes maximum pour un public d'au moins 4 pratiquants de niveau galop 4 maximum.
+Pendant dix minutes maximum, le candidat observe un couple de niveau Amateur ou équivalent.
 
-La séance est suivie d'un entretien de 15 minutes maximum portant sur son analyse et son évaluation.
+A l'issue de l'observation, le candidat présente au pratiquant, en présence des évaluateurs, sur une durée de cinq minutes maximum, un diagnostic de sa prestation et les objectifs de la séance d'entraînement qu'il lui propose.
 
-Modalité B. - Conduite d'une séance d'optimisation
+Le candidat conduit ensuite la séance d'entraînement avec le même couple de niveau Amateur ou équivalent sur une durée de trente minutes maximum.
 
-Le candidat observe un couple de niveau Amateur ou équivalent dans la discipline choisie. Durée 10 minutes maximum.
+La séance est suivie d'un entretien de quinze minutes maximum portant sur sa démarche d'entraînement son analyse et son évaluation. L'échange avec les évaluateurs permet également de vérifier la capacité du candidat à gérer la sécurité dans la discipline choisie et à adopter une démarche intégrative des différents publics dans ses séances d'entraînement.
 
-Le candidat présente au pratiquant, en présence des évaluateurs, un diagnostic de sa prestation et les objectifs de la séance. Durée 5 minutes.
+Epreuve certificative de l'unité capitalisable 4 :
 
-Le candidat conduit la séance d'optimisation en perfectionnement. Durée 30 minutes maximum
+L'épreuve certificative est réalisée au moyen des deux modalités suivantes :
 
-La séance est suivie d'un entretien de 15 minutes maximum portant sur son analyse et son évaluation.
+Modalité A-Démonstration technique commentée dans la discipline choisie
 
-Epreuve certificative de l'UC4
+Cette épreuve certificative consiste en la conduite d'une démonstration technique commentée en sécurité dans la discipline choisie.
 
-Le candidat réalise, avec son cheval, une démonstration technique commentée dans la discipline choisie, selon les modalités définies dans le tableau ci-dessous. Elle est exécutée de la façon suivante :
+Le candidat réalise, avec son cheval, une démonstration technique commentée en sécurité dans la discipline choisie, selon les modalités définies dans le tableau ci-dessous et exécutée de la façon suivante :
 
-a) Le candidat expose aux évaluateurs les difficultés techniques qu'il souhaite présenter. Les évaluateurs valident ou complètent la proposition du candidat. Durée 5 minutes maximum ;
+a) Le candidat présente oralement aux évaluateurs, sur une durée de cinq minutes maximum, les difficultés techniques qu'il souhaite traiter lors de sa démonstration. Les évaluateurs valident ou complètent, le cas échéant, la proposition du candidat.
 
-b) Le candidat ayant préalablement détendu, présente les difficultés techniques validées de niveau Amateur 2 minimum ou équivalent, sur la base des normes techniques des règlements de la Fédération française d'équitation, pendant 10 minutes maximum ;
+Pour être validées, ces difficultés techniques doivent relever du niveau Amateur 2 minimum ou équivalent, sur la base des normes techniques des règlements de la Fédération française d'équitation ;
 
-c) A l'issue de la présentation, le candidat propose une analyse de sa prestation et propose les objectifs d'une séance de travail. Durée 5 minutes maximum ;
+b) Le candidat ayant préalablement détendu le cheval, réalise pendant dix minutes maximum une présentation des difficultés validées en a ;
 
-d) Le candidat conduit une séance commentée de travail du cheval pendant 20 minutes maximum ;
+c) A l'issue de la présentation, le candidat propose sur une durée de cinq minutes maximum une analyse de sa prestation et propose les objectifs d'une séance de travail ;
 
-e) La séance est suivie d'un entretien de 15 minutes maximum portant sur son analyse et l'évaluation de la capacité du candidat à gérer la sécurité dans la discipline choisie.
+d) Le candidat conduit une séance commentée de travail du cheval pendant vingt minutes maximum ;
 
 Discipline |
 
@@ -135,3 +135,11 @@ Montée |
 Equitation de travail |
 
 Montée |
+
+Modalité B.-Un entretien portant sur la capacité du candidat à encadrer les sports équestres en sécurité.
+
+Un entretien permettant aux évaluateurs de vérifier la capacité du candidat à encadrer les sports équestres en sécurité pendant dix ou quinze minutes maximum.
+
+NOTA :
+
+Conformément à l'article 8 de l'arrêté du 27 mai 2024 (NOR : SPOV2414673A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er septembre 2024.
