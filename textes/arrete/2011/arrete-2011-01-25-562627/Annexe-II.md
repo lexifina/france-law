@@ -1,63 +1,61 @@
 # Article Annexe II
 
-SITUATIONS D'ÉVALUATION CERTIFICATIVES DES UNITÉS CAPITALISABLES UC3 ET UC4 DU DIPLÔME D'ÉTAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ” MENTION “ ÉQUITATION ”
+SITUATION D'ÉVALUATION CERTIFICATIVE DES UNITÉS CAPITALISABLES UC 3 ET UC 4 DU DIPLÔME D'ÉTAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ” MENTION “ ÉQUITATION ”
 
-Les épreuves certificatives sont évaluées dans les conditions prévues à l'article A. 212-57 bis du code du sport par au moins deux évaluateurs titulaires d'une qualification a minima de niveau II dans le domaine équestre depuis au minimum 2 ans.
+Situation d'évaluation certificative des unités capitalisables UC3 et UC4 :
 
-Sont dispensés de ces exigences, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
+Epreuve certificative de l'unité capitalisable UC3 :
 
-Les épreuves se déroulent en centre de formation ou dans tout autre lieu retenu par le DRDJSCS, DRJSCS ou le DJSCS, selon les modalités suivantes.
+Cette épreuve certificative est composée des deux modalités suivantes :
 
-Epreuve certificative de l'UC3
+1) Production de deux documents :
 
-1° Production de 2 documents
-
-Avant l'épreuve et dans les conditions définies par le directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale (DRDJSCS), par le directeur régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par le directeur de la jeunesse, des sports et de la cohésion sociale (DJSCS) le candidat transmet :
-
-– un document vidéo de 15 minutes maximum réalisé à partir de situations pédagogiques de formation d'un ou plusieurs élèves moniteurs complété par un document écrit de 10 pages maximum.
+Avant la date de l'épreuve, dans les conditions fixées par le recteur de région académique, le candidat transmet un support vidéo de quinze minutes maximum réalisé à partir de situations pédagogiques de formation qu'il a mises en œuvre auprès de trois stagiaires minimum à cinq stagiaires maximum en formation BPJEPS mention activités équestres ou DEJEPS mention sports équestres. Ces situations visent à développer leurs compétences techniques dans une ou plusieurs disciplines olympiques.
 
 Le document vidéo comprend :
 
-– un ou plusieurs extraits de situations de diagnostic avant action de formation ;
+-un ou plusieurs extraits de situations de diagnostic avant action de formation ;
 
-– un ou plusieurs extraits de situations de formation et/ ou de remédiation (démonstrations techniques et/ ou pédagogiques, entretien d'explication, accompagnement guidage, cours théorique,...) ;
+-un ou plusieurs extraits de situations de formation et/ ou de remédiation (démonstrations techniques et/ ou pédagogiques, entretien d'explication, accompagnement guidage, cours théorique …) ;
 
-– un ou plusieurs extraits de situations à l'issue de l'action de formation.
+-un ou plusieurs extraits de situations à l'issue de l'action de formation.
 
-2° Mise en situation professionnelle
+Le support vidéo est complété par un document écrit de dix pages maximum portant sur l'analyse diagnostic de la performance, la définition des objectifs, des indicateurs de réussite, la programmation et son évaluation.
 
-Le jour de l'épreuve, le candidat présente le document vidéo lors d'une soutenance orale pendant 15 minutes maximum. La présentation est suivie d'un entretien d'une durée de 15 minutes maximum portant sur l'expérience et la capacité du candidat à concevoir et à conduire une action de formation.
+2) Mise en situation professionnelle :
 
-Puis, à l'issue de l'entretien et après échange avec le candidat, les évaluateurs précisent au candidat le thème de la séquence de formation, en salle et à cheval, retenu pour la mise en situation professionnelle.
+Le jour de l'épreuve, dans les conditions fixées par le recteur de région académique, le candidat présente le document vidéo lors d'une soutenance orale pendant quinze minutes maximum. La présentation est suivie d'un entretien d'une durée de quinze minutes maximum portant sur la capacité du candidat à concevoir et à conduire des actions de formation dans le cadre des réseaux professionnels en équitation.
 
-Le candidat dispose ensuite de 30 minutes pour préparer la séquence de formation en salle.
+A l'issue de l'entretien, après échange avec le candidat, les évaluateurs précisent le thème de la séance de formation qu'il doit mettre en œuvre auprès de trois stagiaires BPJEPS mention activités équestres ou DEJEPS mention sports équestres, en salle et à cheval.
 
-Le candidat conduit tout ou partie d'une séance de formation en salle pour 3 stagiaires moniteurs minimum pendant 30 minutes maximum.
+Cette séance se compose des deux séquences suivantes :
 
-Puis il dispose de 30 minutes pour préparer la séance à cheval, aménager l'aire d'évolution et prendre en charge les stagiaires moniteurs.
+1. Séquence théorique en salle :
 
-Le candidat conduit tout ou partie d'une séance de formation à cheval pour 3 stagiaires moniteurs minimum pendant 30 minutes maximum.
+Le candidat dispose de trente minutes maximum pour préparer la séquence et de trente minutes maximum pour la conduire.
 
-La séance est suivie d'un entretien de 15 minutes maximum portant sur le déroulement de la séance et son analyse.
+2. Séquence technique à cheval :
 
-Epreuve certificative de l'UC4
+Le candidat dispose de trente minutes maximum pour préparer cette séquence à cheval, aménager l'aire d'évolution et prendre en charge les stagiaires. Il conduit tout ou partie de la séquence technique pendant trente minutes maximum.
 
-Le candidat réalise une démonstration technique en sécurité commentée, à cheval, dans la discipline tirée au sort : dressage-saut d'obstacle-cross.
+La séquence technique à cheval est suivie d'un entretien de quinze minutes maximum portant sur son déroulement et l'analyse du candidat. L'échange avec les évaluateurs permet également de vérifier la capacité du candidat à adopter une démarche intégrative des différents publics en équitation.
 
-Elle est exécutée de la façon suivante :
+Epreuve certificative de l'unité capitalisable UC4 :
 
-a) Le candidat expose aux évaluateurs les difficultés techniques qu'il souhaite présenter. Les évaluateurs valident ou complètent la proposition du candidat.
+Le candidat réalise une démonstration technique en sécurité commentée, à cheval, de niveau amateur 1 minimum ou équivalent sur la base des normes techniques des règlements de la Fédération française d'équitation, dans une des disciplines suivantes tirée au sort : dressage-saut d'obstacle-cross. Elle est exécutée de la façon suivante :
 
-Durée : 5 minutes maximum.
+a) Le candidat expose aux évaluateurs, sur une durée de cinq minutes maximum, les difficultés techniques qu'il souhaite présenter.
 
-b) Le candidat ayant préalablement détendu le cheval, présente les difficultés techniques validées de niveau Amateur 1 minimum ou équivalent, sur la base des normes techniques des règlements de la FFE.
+Les évaluateurs valident ou complètent la proposition du candidat.
 
-Durée : 5 minutes minimum à 10 minutes maximum.
+b) Le candidat ayant préalablement détendu le cheval, présente aux évaluateurs, sur une durée comprise entre cinq minutes minimum à dix minutes maximum, les difficultés techniques validées.
 
-c) A l'issue de la présentation, le candidat propose une analyse de sa prestation et propose les objectifs d'une séance de travail.
+c) A l'issue de la présentation, le candidat propose sur une durée de cinq minutes maximum une analyse de sa prestation et propose les objectifs d'une séance de travail.
 
-Durée : 5 minutes maximum.
+d) Le candidat conduit une séance commentée de travail du cheval pendant vingt minutes maximum.
 
-d) Le candidat conduit une séance commentée de travail du cheval pendant 20 minutes maximum.
+e) La séance est suivie d'un entretien de quinze minutes maximum portant sur l'analyse, l'évaluation et la capacité du candidat à adapter sa posture pédagogique et ses démarches d'intervention en lien avec la sécurité dans la discipline choisie.
 
-e) La séance est suivie d'un entretien de 15 minutes maximum portant sur son analyse et son évaluation et la capacité du candidat à gérer la sécurité dans la discipline choisie.
+NOTA :
+
+Conformément à l’article à l’article 10 de l’arrêté du 27 mai 2024 (NOR : SPOV2414672A), ces dispositions s'appliquent aux sessions de formation ouvertes à compter du 1er septembre 2024.

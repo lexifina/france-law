@@ -1,43 +1,295 @@
 # Article Annexe I
 
-EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION AU DIPLÔME D'ÉTAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ” MENTION “ ÉQUITATION ”
+RÉFÉRENTIEL D'ACTIVITÉS, DE COMPÉTENCES ET D'ÉVALUATION DU DIPLÔME D'ÉTAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ” MENTION “ ÉQUITATION ”
 
-Les exigences préalables requises pour accéder à la formation sont les suivantes :
+Le titulaire du DESJEPS spécialité performance sportive mention équitation est couramment appelé instructeur . Il est référencé dans la convention collective du personnel des centres équestres comme Enseignant responsable pédagogique .
 
-– présenter un certificat médical de non-contre-indication à la pratique des sports équestres datant de moins d'un an à la date de l'entrée en formation ;
+Il peut faire valoir ses compétences et son diplôme afin d'exercer les missions de responsable pédagogique ou formateur référent dans le cadre des formations DEJEPS et BPJEPS. Chaque année, en France, plus de 1500 stagiaires sont formés dans ces centres de formations habilités par l'Etat.
 
-– être titulaire de l'unité d'enseignement “ prévention et secours civiques de niveau 1 ” ou de l'une des attestations de formation aux premiers secours mentionnée à l' article A. 212-52-1 du code du sport ;
+Les détenteurs du DESJEPS seront aussi des tuteurs identifiés dans le cadre de l'alternance des formations DEJEPS et DESJEPS.
 
-Satisfaire aux 2 tests suivants dont la réussite est attestée par le directeur technique national de l'équitation :
+Les compétences du titulaire du DESJEPS équitation sont reconnues à l'étranger, ce qui facilite la mobilité professionnelle à l'international. |
 
-A – Test technique
+REFERENTIEL D'ACTIVITES
 
-Le candidat réalise les 2 tests suivants dans un ordre indifférent :
+Décrit les situations de travail et les activités exercées, les métiers ou emplois visés. |
 
-– Test A1 : Test technique de dressage de niveau “ Amateur 2 GP ” ou équivalent ;
+REFERENTIEL
 
-– Test A2 : Test technique de concours de saut d'obstacles de niveau “ Amateur 1 ” ou équivalent.
+DE COMPETENCES
 
-Le candidat qui n'a pas satisfait à l'ensemble des deux tests techniques A1 et A2 composant le test technique A peut conserver le bénéfice de celui auquel il a satisfait.
+Identifie les compétences et les connaissances, y compris transversales, qui découlent du référentiel d'activités. |
 
-B –Test pédagogique
+REFERENTIEL D'EVALUATION
 
-Le candidat réalise un test pédagogique consistant en la conduite d'une séance de perfectionnement de travail sur le plat d'une durée de vingt minutes maximum dans la discipline de son choix figurant ci-dessous, pour trois cavaliers de niveau galop 5 ou plus, suivi d'un entretien d'une durée de dix minutes au maximum.
+Définit les critères et les modalités d'évaluation des acquis
 
-Liste des disciplines :
+Les modalités d'évaluation des unités capitalisables (UC) 1 et 2 sont définies à l'article A. 212-57 du code du sport.
 
-– dressage ;
+Les modalités d'évaluation des unités capitalisables (UC) 3 et 4 sont définies à l'annexe II du présent arrêté. |
 
-– saut d'obstacles ;
+|
 
-– concours complet ;
+|
 
-– attelage ;
+MODALITES D'EVALUATION |
 
-– voltige ;
+CRITERES D'EVALUATION |
 
-– équitation western ;
+UC 1-Construire la stratégie d'une organisation du secteur |
 
-– endurance.
+Conception du projet de la structure d'équitation
 
-Le candidat qui n'a pas satisfait aux deux tests A et B peut conserver le bénéfice de celui auquel il a satisfait. Dispense des tests techniques préalables à l'entrée en formation : les qualifications permettant au candidat d'être dispensé des tests techniques préalables à l'entrée en formation sont mentionnées à l'annexe III.
+Préparation du projet stratégique de performance en équitation en prenant en compte les spécificités physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués
+
+Formalisation d'un projet de développement en équitation en lien avec les caractéristiques et besoins singuliers des publics impliqués
+
+Partage d'analyses stratégiques avec les instances dirigeantes en lien avec les spécificités des publics impliqués
+
+Elaboration de la stratégie de mise en œuvre du projet de développement en prenant en compte les spécificités physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués
+
+Organisation de la mise en œuvre des actions partenariales dans le domaine de l ‘ équitation
+
+Pilotage des actions de relation publiques dans le domaine de l'équitation
+
+Vérification de la mise en œuvre des procédures administratives au sein de la direction sportive en adaptant les moyens et les outils utilisés aux particularités de chaque membre de l'équipe |
+
+C 1.1-Préparer la prise de décision en prenant en compte les caractéristiques et besoins singuliers des publics
+
+C 1.2-Élaborer un projet de développement en lien avec les spécificités des publics impliqués
+
+C 1.3-Mobiliser les instances dirigeantes en tenant compte des particularités des interlocuteurs impliqués |
+
+Une seule situation d'évaluation permet d'évaluer de façon distincte les UC 1 et 2.
+
+La situation d'évaluation certificative est réalisée au moyen :
+
+-de la production d'un document analysant une expérience de conception et de coordination de la mise en œuvre de programmes de performance sportive en équitation |
+
+Le candidat :
+
+-Organise une veille en termes d'information dans le champ d'intervention de l'organisation dans le cadre de réseaux professionnels en lien avec les spécificités des publics impliqués
+
+-Analyse les caractéristiques économiques, sociales, politiques et culturelles de son territoire en lien avec les caractéristiques et les besoins singuliers de tous les publics
+
+-Analyse l'impact des politiques publiques sur l'activité de la structure d'équitation en lien avec les caractéristiques et les besoins singuliers des publics en intégrant notamment le handicap
+
+-Formalise des diagnostics stratégiques pour les instances dirigeantes de la structure d'équitation en adaptant les modalités de communication aux singularités de ses interlocuteurs
+
+-Veille au respect des objectifs, des valeurs et des méthodes de la structure d'équitation dans une perspective éducative et intégrative
+
+-Formalise un projet de développement en lien avec les caractéristiques et les besoins singuliers des publics impliqués
+
+-Elabore des dossiers de financement
+
+-Mobilise les ressources internes dans la préparation d'un projet de développement en favorisant la dimension collective du travail en équipe et l'intégration de tous
+
+-Anime une démarche d'ingénierie de projet en favorisant la dimension collective du travail en équipe et l'intégration de tous
+
+-Transmet l'information nécessaire à la prise de décision en adaptant les modalités de communication aux singularités de ses interlocuteurs
+
+-Expose les alternatives stratégiques aux instances dirigeantes pour répondre aux objectifs et aux besoins particuliers des publics
+
+-Prépare les travaux des assemblées décisionnelles en adaptant les modalités et outils de communication aux singularités de ses interlocuteurs |
+
+UC 2-Gérer les ressources humaines et financières d'une organisation du secteur |
+
+Direction d'une structure d'équitation
+
+Accompagnement de l'équipe dans l'analyse de son organisation de travail en tenant compte des spécificités des publics impliqués afin de favoriser à l'intégration de tous
+
+Prescription des organisations de travail des équipes en prenant en compte les caractéristiques et besoins particuliers de chaque acteur de manière à favoriser l'intégration
+
+Négociation du plan de formation du personnel en prenant en compte les caractéristiques et besoins singuliers de chacun afin de répondre aux problématiques des pratiquants
+
+Définition du fonctionnement financier de la direction sportive en équitation
+
+Analyse du compte de résultats et du bilan annuel
+
+Surveillance du respect des différents protocoles de travail établis adaptés aux caractéristiques spécifiques des acteurs
+
+Evaluation de la pertinence du fonctionnement administratif de la direction sportive d'équitation
+
+Organisation des différentes délégations en prenant en compte les caractéristiques et besoins singuliers de chacun
+
+Conduite de l'évaluation du système de travail. |
+
+C 2.1-Gérer les ressources humaines d'une organisation du secteur en favorisant la dimension collective et l'intégration de tous afin de répondre aux caractéristiques et besoins singuliers des publics
+
+C 2.2-Gérer les ressources financières d'une organisation du secteur
+
+C 2.3-Rendre compte de la mise en œuvre de la délégation en adaptant les modalités de communication, les objectifs, les moyens et les outils aux singularités de chacun |
+
+Une seule situation d'évaluation permet d'évaluer de façon distincte les UC 1 et 2.
+
+La situation d'évaluation certificative est réalisée au moyen de :
+
+-la production d'un document analysant une expérience de conception et de coordination de la mise en œuvre de programmes de performance sportive en équitation. |
+
+Le candidat :
+
+-Conçoit une stratégie de développement des ressources humaines
+
+-Anticipe l'évolution des besoins en personnel au regard de la prise en compte de leurs caractéristiques spécifiques et de celles des publics
+
+-Négocie le plan de formation du personnel en prenant en compte les caractéristiques et besoins singuliers de chaque membre de l'équipe afin de répondre aux problématiques des publics
+
+-Gère les relations sociales au sein de la structure d'équitation en veillant à respecter l'intégration de tous
+
+-Contrôle la gestion administrative du personnel
+
+-Procède à l'évaluation des personnels en prenant en compte les caractéristiques spécifiques de chacun
+
+-Etablit les budgets prévisionnels et les dossiers de financement
+
+-Organise le fonctionnement financier de la structure d'équitation
+
+-Négocie avec les prestataires de la structure d'équitation
+
+-Contrôle les différentes procédures d'exécution budgétaire
+
+-Evalue la pertinence des modes de fonctionnement de la structure d'équitation en lien avec les spécificités des publics impliqués
+
+-Explique les écarts constatés entre les résultats et les objectifs fixés
+
+-Elabore des propositions d'évolutions possibles en veillant à respecter l'intégration de tous |
+
+UC 3-Diriger un système d'entraînement en équitation |
+
+Encadrement des activités complexes d'entraînement et de formation en équitation
+
+Pilotage du système de l'entraînement en équitation à partir d'une analyse des problématiques singulières des sportifs et de leur projet individualisé de performance
+
+Organisation du système de l'entraînement en équitation en adaptant les démarches, les outils et les objectifs aux spécificités des publics impliqués
+
+Observation de la performance des autres cavaliers pendant la compétition en équitation
+
+Evaluation du système d'entraînement en équitation
+
+Organisation des échanges de pratique avec une équipe technique en équitation
+
+Réalisation de comptes rendus et de bilans pédagogiques
+
+Encadrement de stagiaires dans le cadre de formation de formateurs en équitation en tenant compte des caractéristiques physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués, stagiaires et pratiquants |
+
+C 3.1-Concevoir le plan de performance sportive en équitation en prenant en compte les caractéristiques singulières des différents publics notamment ceux en situation de handicap
+
+C 3.2-Planifier la préparation de la performance sportive en équitation à partir des caractéristiques spécifiques et des objectifs des pratiquants
+
+C 3.3-Accompagner l'athlète vers l'optimisation de la performance en équitation en tenant compte de ses caractéristiques singulières
+
+C 3.4-Conduire l'évaluation du projet de la performance en équitation adapté aux caractéristiques et besoins de chacun
+
+C 3.5-Organiser des actions formatives dans le cadre des réseaux professionnels en équitation en prenant en compte les caractéristiques singulières et les besoins des publics impliqués |
+
+L'épreuve certificative est réalisée au moyen de :
+
+Présentation et soutenance d'un document vidéo complété par un document écrit
+
+La préparation et conduite d'une séance de formation en salle
+
+La préparation et conduite d'une séance de formation à cheval
+
+Un entretien portant sur le déroulement de la séance et son analyse. |
+
+Le candidat :
+
+-Analyse les facteurs de la performance sportive en équitation en prenant en compte les spécificités physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués
+
+-Définit les objectifs de performance à court, moyen et long terme en équitation adaptés au caractéristiques spécifiques des publics encadrés
+
+-Choisit les indicateurs de réussite intermédiaire adaptés au niveau de progression et aux singularités des pratiquants
+
+-Définit une politique de détection des jeunes pratiquants en équitation en veillant à respecter l'intégration de tous
+
+-Organise les échanges de pratique avec une équipe technique d'équitation
+
+-Organise la cohérence entre les différents temps de la préparation de la performance sportive en équitation
+
+-Définit les axes de la préparation physique des pratiquants d'équitation en lien avec leurs caractéristiques singulières
+
+-Définit les axes de la préparation mentale des pratiquants d'équitation en lien avec leurs caractéristiques singulières
+
+-Conçoit une politique de suivi social et professionnel des pratiquants d'équitation en tenant compte de leurs besoins particuliers
+
+-Dirige l'entraînement en équitation en tenant compte des caractéristiques singulières des différents publics
+
+-Veille au respect des différents protocoles de travail établis afin de répondre aux objectifs et aux besoins particuliers de chaque pratiquant
+
+-Encadre les pratiquants d'équitation dans le cadre de la compétition en prenant en compte la singularité de chacun
+
+-Analyse le comportement des pratiquants d'équitation pendant la compétition en prenant en compte la singularité de chacun
+
+-Met en œuvre des médiations d'ordre stratégique, technique, physique ou relationnel adaptées aux spécificités des publics encadrés
+
+-Gère la relation avec les médias
+
+-Formalise les bilans sportifs en équitation en adaptant les modalités de communication, les objectifs, les moyens et outils aux singularités des pratiquants
+
+-Analyse les écarts constatés entre les résultats et les objectifs fixés
+
+-Propose aux instances dirigeantes de nouvelles perspectives de développement selon une logique inclusive
+
+-Conçoit des actions de formation adaptées aux besoins des réseaux professionnels du club ou de la structure d'équitation
+
+-Coordonne la mise en œuvre des actions de formation décidées en prenant compte des caractéristiques singulières des publics impliqués
+
+-Anime des actions de formation en équitation en adaptant les démarches et les outils pédagogiques aux singularités de chacun
+
+-Participe aux échanges professionnels dans le cadre de formation de formateurs en équitation en veillant au respect de l'intégration de tous
+
+-Evalue des actions de formations en équitation notamment au regard de la prise en compte des caractéristiques spécifiques et des besoins de chacun |
+
+UC 4-Encadrer l'équitation en sécurité |
+
+Encadrement en équitation en assurant la sécurité des pratiquants et des tiers
+
+Encadrement en équitation en assurant la sécurité des pratiquants et des tiers, et en préservant l'intégrité physique et psychique des pratiquants au regard de leurs singularités
+
+Vérification de la conformité du matériel technique nécessaire à la réalisation de l'activité en équitation en prenant en compte les caractéristiques singulières des pratiquants
+
+Vérification de la conformité des lieux de travail au regard des normes d'hygiène et de sécurité en équitation |
+
+C 4.1-Réaliser en sécurité les démonstrations techniques en équitation
+
+C4. 2-Adapter sa posture pédagogique et les démarches d'intervention afin que chaque sportif évolue en sécurité
+
+C 4.3-Réaliser les gestes professionnels nécessaires à la sécurité des pratiquants en équitation en prenant en compte leurs caractéristiques singulières physiques, motrices, sensorielles, cognitives et psychiques
+
+C 4.4-Assurer la sécurité des pratiquants et des tiers en équitation tout en impliquant les pratiquants dans la gestion de leur propre sécurité et de celle des tiers |
+
+L'épreuve certificative est réalisée au moyen de :
+
+Une démonstration technique commentée
+
+L'analyse de la prestation et formulation d'objectifs de travail
+
+La réalisation de la séance de travail commenté
+
+Entretien portant sur l'analyse de la séance |
+
+Le candidat :
+
+-Evalue ses propres capacités à effectuer une démonstration technique en équitation
+
+-Explicite les différents éléments de la démonstration technique en équitation en choisissant des moyens de transmission de l'information adaptés aux caractéristiques des pratiquants
+
+-Met en œuvre des démarches pédagogiques adaptées permettant au pratiquant d'expérimenter la discipline en sécurité
+
+-Evalue et anticipe les risques objectifs et potentiels liés à la pratique en équitation pour le pratiquant en accordant une vigilance particulière à ses caractéristiques singulières (physiques, motrices, sensorielles, cognitives et psychiques)
+
+-Maîtrise le comportement et les gestes à réaliser en cas d'incident ou d'accident en équitation en prenant en compte les singularités du pratiquant
+
+-Evalue les risques objectifs liés au contexte de pratique en équitation
+
+-Anticipe les risques juridiques liés à la pratique en équitation et au milieu dans lequel elle se pratique
+
+-Assure la sécurité passive des équipements d'équitation
+
+-Prévient les comportements à risque en équitation
+
+-Agit, ou fait appel à un tiers lorsqu'il rencontre ses propres limites, pour préserver l'intégrité physique et psychique en cas de maltraitance des mineurs et des personnes vulnérables. |
+
+NOTA :
+
+Conformément à l’article à l’article 10 de l’arrêté du 27 mai 2024 (NOR : SPOV2414672A), ces dispositions s'appliquent aux sessions de formation ouvertes à compter du 1er septembre 2024.
