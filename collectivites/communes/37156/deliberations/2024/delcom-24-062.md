@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_062 — DELIBERATION 2024-62 ADOPTION DU BS 2024 BUDGET REGIE TRANSPORTS MONTLOUISIENS
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-06-24
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : DELIBERATION 2024-62 ADOPTION DU BS 2024 BUDGET REGIE TRANSPORTS MONTLOUISIENS
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/e1040927b392a06ef35e53c3f9a78162ae1be0f9acab0be730d6c610f77b006a.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
