@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_066 — DELIBERATION 2024-66 PROVISION BUDGET REGIE TRANSPORTS MONTLOUISIENS
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-06-24
+- Matière : 7.10 Finances locales/Divers
+- Objet : DELIBERATION 2024-66 PROVISION BUDGET REGIE TRANSPORTS MONTLOUISIENS
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/8bfcee101820802f58ae58bfafb1f39e50892929e1f68db25b1b50357d83aec8.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
