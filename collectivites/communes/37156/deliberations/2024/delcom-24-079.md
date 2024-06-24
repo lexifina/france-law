@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_079 — DELIBERATION 2024-79 APPROBATION DE LA CONVENTION CAMPING TARIFICATION PISCINE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-06-24
+- Matière : 1.3 Commande Publique/Conventions de Mandat
+- Objet : DELIBERATION 2024-79 APPROBATION DE LA CONVENTION CAMPING TARIFICATION PISCINE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/853cd37b40415854e1be7d4049adec680c8a1771d513019ca9227ecdcacd7b2e.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
