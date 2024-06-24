@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_073 — DELIBERATION 2024-73 ADOPTION REGLEMENT INTERIEUR RESTAURATION SCOLAIRE 2024
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-06-24
+- Matière : 8.1 Domaines de competences par themes/Enseignement
+- Objet : DELIBERATION 2024-73 ADOPTION REGLEMENT INTERIEUR RESTAURATION SCOLAIRE 2024
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/c07f084e986c7e9a7d0db1a642221dcd1883d55a09b990799e38e21c81b1dd0f.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
