@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_074 — DELIBERATION 2024-74 ADOPTION CONVENTION MANDAT VILLE OFFICE DU TOURISME BILLETTERIE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-06-24
+- Matière : 1.3 Commande Publique/Conventions de Mandat
+- Objet : DELIBERATION 2024-74 ADOPTION CONVENTION MANDAT VILLE OFFICE DU TOURISME BILLETTERIE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/462b70d0357bb6f9ccaed0f22dc65de0f35c3e948aaa8c445fa876aaaa3a0cb2.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
