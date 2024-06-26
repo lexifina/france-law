@@ -1,10 +1,8 @@
 # Article Annexe 3
 
-RÉGIME COMPLÉMENTAIRE DES INDÉPENDANTS
+DÉFINITION DE LA RÈGLE DE CUMUL ENTRE LE DROIT DE CONJOINT ISSU DU C DU 2° DE L'ARTICLE 14, ET LES AVANTAGES VIAGERS DU CONJOINT COEXISTANT
 
-Définition de la règle de cumul entre le droit de conjoint issu de l'article 14 b c, et les avantages viagers du conjoint coexistant
-
-La règle limitant le cumul entre le droit issu de l'ex-régime des conjoints de commerçants ouvert en application de l'article 14 b c, et les avantages personnels ou de réversion dont justifie le conjoint coexistant est appliquée selon la procédure et les opérations de calcul suivantes :
+La règle limitant le cumul entre le droit issu de l'ex-régime des conjoints de commerçants ouvert en application du c) du 2° de l'article 14 du présent règlement, et les avantages personnels ou de réversion dont justifie le conjoint coexistant est appliquée selon la procédure et les opérations de calcul suivantes :
 
 1. Définition des avantages viagers du conjoint coexistant pris en compte dans la règle de cumul :
 
@@ -30,4 +28,4 @@ La réduction est donc égale à :
 
 Le droit issu de l'ex-régime des conjoints à servir est donc égal à :
 
-Droit RC brut (article 15) ― réduction.
+Droit RC brut (article 15 du présent règlement) ― réduction.

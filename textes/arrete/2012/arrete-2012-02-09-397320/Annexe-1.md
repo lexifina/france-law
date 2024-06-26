@@ -1,10 +1,8 @@
 # Article Annexe 1
 
-RÉGIME COMPLÉMENTAIRE DES INDÉPENDANTS
+REPRISE DES POINTS DE RETRAITE COMPLÉMENTAIRE ACQUIS AU TITRE DE LA PÉRIODE ANTÉRIEURE AU 1ER JANVIER 2013
 
-Reprise des points de retraite complémentaire acquis au titre de la période antérieure au 1er janvier 2013
-
-Tous les points de retraite acquis ou à acquérir au titre des périodes antérieures au 1er janvier 2013, dans les régimes complémentaires obligatoires des artisans, des industriels et des commerçants en vigueur avant le 1er janvier 2013 sont repris dans le régime complémentaire des indépendants, dans les conditions suivantes :
+Tous les points de retraite acquis ou à acquérir au titre des périodes antérieures au 1er janvier 2013, dans les régimes complémentaires obligatoires des artisans, des industriels et des commerçants en vigueur avant le 1er janvier 2013 sont repris dans le présent régime, dans les conditions suivantes :
 
 1. Par le report au compte des points acquis ou à acquérir pour les périodes antérieures au 1er janvier 2013 dans les régimes complémentaires obligatoires des artisans, des industriels et des commerçants en vigueur avant le 1er janvier 2013.
 
@@ -12,17 +10,17 @@ a) Les points cotisés issus de la carrière industrielle ou commerciale ont ét
 
 b) Les points cotisés issus de la carrière artisanale ont été acquis conformément aux dispositions de l'article 12 du règlement du régime complémentaire obligatoire d'assurance vieillesse des professions artisanales annexé à l'arrêté du 15 décembre 1978 en vigueur à la date d'acquisition des points.
 
-2. Par le report au compte, au titre des périodes dispensées de cotisation suite à l'impossibilité de poursuivre l'activité professionnelle pendant une période d'au moins quatre-vingt-dix jours consécutifs, et sous les conditions prévues par l'article 7-III du règlement du régime complémentaire obligatoire d'assurance vieillesse des professions artisanales annexé à l'arrêté du 15 décembre 1978 en vigueur à la date d'acquisition des points :
+2. Par le report au compte, au titre des périodes dispensées de cotisation suite à l'impossibilité de poursuivre l'activité professionnelle pendant une période d'au moins quatre-vingt-dix jours consécutifs, et sous les conditions prévues au III de l'article 7 du règlement du régime complémentaire obligatoire d'assurance vieillesse des professions artisanales annexé à l'arrêté du 15 décembre 1978 en vigueur à la date d'acquisition des points :
 
-a) De points cotisés attribués par le régime visé ci-dessus pour les périodes d'activité antérieures au 1er janvier 2009, les sommes en cause faisant l'objet d'un compte de charges particulier du régime d'assurance vieillesse complémentaire, ce conformément aux dispositions de l'article 7-III du règlement du régime complémentaire obligatoire d'assurance vieillesse des professions artisanales visés ci-avant et après application de l'opération de conversion prévue à l'article 8 du présent règlement ;
+a) De points cotisés attribués par le régime visé ci-dessus pour les périodes d'activité antérieures au 1er janvier 2009, les sommes en cause faisant l'objet d'un compte de charges particulier du régime d'assurance vieillesse complémentaire, ce conformément aux dispositions du III de l'article 7 du règlement du régime complémentaire obligatoire d'assurance vieillesse des professions artisanales visés ci-avant et après application de l'opération de conversion prévue à l'article 8 du présent règlement ;
 
 b) De points gratuits et de points cotisés pour les périodes débutant à compter du 1er janvier 2009, portés au compte de l'assuré dans le nouveau régime complémentaire des indépendants après application de l'opération de conversion prévue à l'article 8 du présent règlement. Ces points ont été acquis selon les conditions suivantes :
 
-- lorsque l'assuré avait réglé les cotisations définitives de l'exercice comportant une ou plusieurs périodes dispensées et que son revenu professionnel de l'exercice concerné était inférieur au revenu retenu pour le calcul des cotisations provisionnelles, les points gratuits validés correspondent, pour la période dispensée, à la différence entre ceux qui auraient été acquis du fait des dispositions du a du présent article et ceux cotisés au titre de la régularisation ;
+- lorsque l'assuré avait réglé les cotisations définitives de l'exercice comportant une ou plusieurs périodes dispensées et que son revenu professionnel de l'exercice concerné était inférieur au revenu retenu pour le calcul des cotisations provisionnelles, les points gratuits validés correspondent, pour la période dispensée, à la différence entre ceux qui auraient été acquis du fait des dispositions du a) du présent 2 et ceux cotisés au titre de la régularisation ;
 
 - lorsque l'assuré avait été dans l'impossibilité de régler ses cotisations définitives pour la période concernée avant la date de la liquidation de sa retraite complémentaire ou, au plus tard, avant le dernier jour du trimestre civil de la prise d'effet de la retraite, les points gratuits ont été validés sur la base des cotisations provisionnelles normalement dues pour cette période.
 
-3. Par le report au compte de points gratuits au titre du service d'une pension d'invalidité ou d'incapacité au métier octroyée dans le cadre des régimes visés à l'article D. 635-11 du code de la sécurité sociale et conformément aux dispositions des articles 14 et 3 respectivement des règlements du régime complémentaire obligatoire d'assurance vieillesse des professions artisanales annexé à l'arrêté du 15 décembre 1978 et du règlement du régime complémentaire obligatoire d'assurance vieillesse des professions industrielles et commerciales annexé à l'arrêté du 17 décembre 2004, en vigueur à la date d'acquisition des points :
+3. Par le report au compte de points gratuits au titre du service d'une pension d'invalidité partielle ou totale et définitive ou d'incapacité au métier octroyée dans le cadre des régimes visés au 3 du IV de l'article 7 du présent règlement et conformément aux dispositions des articles 14 et 3 respectivement des règlements du régime complémentaire obligatoire d'assurance vieillesse des professions artisanales annexé à l'arrêté du 15 décembre 1978 et du règlement du régime complémentaire obligatoire d'assurance vieillesse des professions industrielles et commerciales annexé à l'arrêté du 17 décembre 2004, en vigueur à la date d'acquisition des points :
 
 a) Les points gratuits issus de la carrière industrielle ou commerciale ont été attribués :
 
@@ -46,7 +44,7 @@ Le nombre de points de retraite proportionnels est égal au quotient, établi à
 
 Les points acquis au titre de ce b ont été calculés et figés au 31 décembre 2012 compte tenu des cotisations versées à cette date et en faisant application du barème de valeur de revenu de référence du régime complémentaire obligatoire d'assurance vieillesse des professions artisanales converti conformément au III de l'article 7 du présent règlement.
 
-4. Par le report au compte de points gratuits au titre de la reconstitution de carrière, attribués conformément aux dispositions des articles 11, 11 bis et 11 ter du règlement du régime complémentaire obligatoire d'assurance vieillesse des professions artisanales annexé à l'arrêté du 15 décembre 1978, selon les conditions suivantes :
+4. Par le report au compte de points gratuits au titre de la reconstitution de carrière, attribués conformément aux dispositions des articles 11,11 bis et 11 ter du règlement du régime complémentaire obligatoire d'assurance vieillesse des professions artisanales annexé à l'arrêté du 15 décembre 1978, selon les conditions suivantes :
 
 1° Si l'assuré n'a pas versé de cotisation au titre du régime complémentaire d'assurance vieillesse, le nombre de points de retraite est égal à seize points forfaitaires par trimestre, avec réfaction de douze trimestres ;
 
@@ -66,10 +64,12 @@ Les points cotisés définis à l'alinéa précédent ont été attribués de la
 
 1° Le montant de la pension du régime de base de l'assuré est déterminé compte tenu d'un taux de liquidation fixé à 50 %, d'éléments de calcul servant à la détermination du revenu annuel moyen et de la durée d'assurance figés au 31 décembre 2003 et d'une durée de référence fixée à 150 trimestres.
 
-2° Il est appliqué sur le montant de la pension ainsi déterminé un taux d'abattement égal à 25 % lorsque l'assuré justifie d'une durée d'assurance comprise entre un trimestre et soixante trimestres d'activité ou un trimestre et soixante trimestres acquis par cotisations. Ce taux minimal de 25 % augmente de 0,25 points par trimestre supplémentaire d'activité ou acquis par cotisation jusqu'à un maximum de 160 trimestres. Le taux maximum est alors de 50 %. Les trimestres sont décomptés au titre de l'activité professionnelle non salariée industrielle ou commerciale effectuée avant 1973 ou depuis 1973 et au plus tard jusqu'au 31 décembre 2003.
+2° Il est appliqué sur le montant de la pension ainsi déterminé un taux de service égal à 25 % lorsque l'assuré justifie d'une durée d'assurance comprise entre un trimestre et soixante trimestres d'affiliation ayant donné lieu au versement de l'intégralité des cotisations exigibles ou un trimestre et soixante trimestres acquis par cotisations.
 
-3° Le résultat obtenu, arrondi à la Xe décimale, est converti en un nombre de points cotisés, sous la forme d'un nombre de point à × décimales, cette dernière décimale étant déterminée selon les règles habituelles d'arrondi, à partir de l'opération suivante :
+Ce taux minimal de 25 % augmente de 0,25 points par trimestre supplémentaire d'affiliation ayant donné lieu au versement de l'intégralité des cotisations exigibles ou acquis par cotisation jusqu'à un maximum de 160 trimestres. Le taux maximum est alors de 50 %. Les trimestres sont décomptés au titre de l'activité professionnelle non salariée industrielle ou commerciale effectuée avant 1973 ou depuis 1973 et au plus tard jusqu'au 31 décembre 2003.
 
-Points cotisés = montant fixés en application du 2°/1
+3° Le résultat obtenu est arrondi à l'entier le plus proche, la fraction d'euro égale à 0,50 étant comptée pour 1, et le nombre de points résulte de l'opération suivante :
 
-Il est tenu compte, le cas échéant et dans la limite du 31 décembre 2012, des cotisations versées au régime vieillesse de base postérieurement au 31 décembre 2003 pour des périodes antérieures au 1er janvier 2004.
+Points cotisés = montants fixés en application du 2° du présent 5/1
+
+Il est tenu compte, le cas échéant et dans la limite du 31 décembre 2012, des cotisations versées au régime d'assurance vieillesse de base postérieurement au 31 décembre 2003 pour des périodes antérieures au 1er janvier 2004.
