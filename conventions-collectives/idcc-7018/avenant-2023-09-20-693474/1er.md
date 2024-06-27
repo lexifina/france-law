@@ -1,0 +1,23 @@
+# Article 1er
+
+L'article 35 « Formation professionnelle » des dispositions communes de la CCN est modifié comme suit :
+
+« Les parties signataires de la présente convention collective reconnaissent que l'évolution des techniques et des compétences doit conduire leurs engagements et leurs efforts à développer la formation des salariés entrant dans le champ d'application de la convention collective.
+
+Les parties signataires de la présente convention décident de faire expressément référence, dans le cadre du présent chapitre, à l'accord national sur la formation professionnelle dans le secteur du paysage, à ses annexes et avenants en vigueur, relatifs notamment :
+
+– au compte personnel de formation ;
+
+– aux contrats de professionnalisation ;
+
+– aux reconversions ou promotions par l'alternance ;
+
+– au tutorat ;
+
+– à la validation des acquis de l'expérience ;
+
+– au plan de développement des compétences ;
+
+– au financement de la formation.
+
+Les partenaires sociaux s'engagent, en outre, à se conformer aux dispositions de l'article L. 2241-5 du code du travail relatives notamment à l'obligation de se réunir pour négocier sur les conditions d'accès à l'emploi, à la formation et à la promotion professionnelle des personnes en situation de handicap. »
