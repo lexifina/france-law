@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d’exécution du délégataire pour la gestion et l'exploitation des crèches « Les Cerfs-Volants », « Les Petits Sapeurs » et « Pont d’Issy ». Exercice 2023
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-06-27
+- Matière : PETITE ENFANCE
+- Objet : Présentation du rapport annuel d’exécution du délégataire pour la gestion et l'exploitation des crèches « Les Cerfs-Volants », « Les Petits Sapeurs » et « Pont d’Issy ». Exercice 2023
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNjcsInB1ciI6ImJsb2JfaWQifX0=--45beeb212a7afd8967851ac8b76be95df5bdfa1a/270624_29.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
