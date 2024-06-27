@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d’offres ouvert relatif à la fourniture de matériels et équipements sportifs
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-06-27
+- Matière : MOYENS GENERAUX
+- Objet : Lancement d’un appel d’offres ouvert relatif à la fourniture de matériels et équipements sportifs
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3NTIsInB1ciI6ImJsb2JfaWQifX0=--7aa97017965b208c8773c6d94a4eaa525ae760da/270624_34.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
