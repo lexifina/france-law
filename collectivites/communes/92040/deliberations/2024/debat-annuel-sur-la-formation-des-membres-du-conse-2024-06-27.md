@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Débat annuel sur la formation des membres du Conseil municipal pour l’exercice 20
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-06-27
+- Matière : RESSOURCES HUMAINES
+- Objet : Débat annuel sur la formation des membres du Conseil municipal pour l’exercice 20
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNjQsInB1ciI6ImJsb2JfaWQifX0=--288ae776e3a234a552f8b2f99310b79e588d7107/270624_19.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
