@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d’exécution du délégataire pour l’exploitation des marchés d’approvisionnement sur l’exercice 2023
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-06-27
+- Matière : COMMERCE ET ARTISANAT
+- Objet : Présentation du rapport annuel d’exécution du délégataire pour l’exploitation des marchés d’approvisionnement sur l’exercice 2023
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxNjUsInB1ciI6ImJsb2JfaWQifX0=--2b6bdc1a9555add7039edc7962ff640cd737538f/270624_39.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
