@@ -16,9 +16,9 @@ E4, E5, E6 |
 
 Economie sociale familiale |
 
-E1, E6 |
+E5, E6 |
 
-E2, E3, E4, E5 |
+E1, E2, E3, E4 |
 
 Maintenance des systèmes (options A, B, C et D) |
 
@@ -40,6 +40,6 @@ E4 (U41, U42, U43), E5, E6 |
 
 Services et prestations des secteurs sanitaire et social |
 
-E1, E2, E3 |
+E1, E2 |
 
-E4, E5, E6 |
+E3, E4, E5, E6 |
