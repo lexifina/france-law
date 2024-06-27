@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Actualisation des conditions d’exercice du travail à temps parti
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-06-27
+- Matière : RESSOURCES HUMAINES
+- Objet : Actualisation des conditions d’exercice du travail à temps parti
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNjMsInB1ciI6ImJsb2JfaWQifX0=--2e06e12964d0dba761186d58cc442b07345d217d/270624_17.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
