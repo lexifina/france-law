@@ -1,0 +1,200 @@
+# Délibération n° 2024-053 du 27 juin 2024 portant avis sur un projet de décret portant autorisation de mise en œuvre d'un traitement automatisé de données à caractère personnel dénommé « Données opérationnelles de cyberdéfense »
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2024-053
+- Date : 2024-06-27
+- Publication : 2024-07-23
+- NOR : CNIX2420475V
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000050042918
+
+N° de demande d’avis : 24007115
+
+|
+
+Thématiques : sécurité des systèmes d’information - cybersécurité
+
+|
+
+Organisme(s) à l’origine de la saisine : Secrétariat général de la défense et de la sécurité nationale (SGDSN)
+
+|
+
+Fondement de la saisine :
+
+Article 31-II
+
+de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés
+
+|
+
+L’essentiel :
+
+1. La CNIL a été saisie d’un projet de décret visant à autoriser l’Agence nationale de la sécurité des systèmes d’information (ANSSI) à mettre en œuvre un traitement de données à caractère personnel dénommé " Données opérationnelles de cyberdéfense " dans le cadre de ses missions prévues par les articles L. 2321-1 et suivants du code de la défense et le décret n° 2009-834 du 7 juillet 2009 modifié portant création d’un service à compétence nationale dénommé " Agence nationale de la sécurité des systèmes d’information ".
+
+2. Elle estime que les finalités poursuivies par ce traitement sont légitimes. Le traitement mis en œuvre relève d’un régime mixte (RGPD et titre IV de la loi " Informatique et libertés "), mais elle considère que le SGDSN devrait clarifier tant la détermination du régime juridique applicable en fonction du statut des bénéficiaires que la notion de fichiers soumis dans le cadre de services opérés par l’ANSSI.
+
+3. Elle observe que les dispositions projetées ne permettent pas de rattacher de manière certaine les données concernées à la finalité pour laquelle elles sont traitées. Elle considère que la mise en œuvre de marqueurs spécifiques, ou d'un dispositif équivalent, devrait permettre de déterminer les données considérées comme intéressant la sûreté de l'Etat, sur la base de critères précis. Une telle identification est de nature à permettre au responsable de traitement, saisi d'une demande d'exercice des droits sur le fondement du RGPD, de n'exclure de sa réponse que les données identifiées par avance, et sur la base de critères précis, comme relevant du régime du titre IV.
+
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­___________________
+
+La Commission nationale de l'informatique et des libertés,
+
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données ou RGPD) ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés (" loi informatique et libertés "), notamment son titre IV ;
+
+Après avoir entendu le rapport de Mme Isabelle Latournarie-Willems, commissaire, et les observations de M. Damien Milic, commissaire du Gouvernement,
+
+Adopte la délibération suivante :
+
+I. La saisine
+
+A. Le contexte
+
+1. Créée par le décret n° 2009-834 du 7 juillet 2009 portant création d’un service à compétence nationale dénommé " Agence nationale de la sécurité des systèmes d’information ", l’ANSSI est l’autorité nationale de défense des systèmes d’information ainsi que l’autorité nationale en matière de sécurité des systèmes d’information. A ce titre, elle a notamment pour missions de :
+
+mener des inspections des systèmes d'information des services de l'Etat et d'opérateurs publics ou privés ;
+
+mettre en œuvre des dispositifs de détection des événements susceptibles d'affecter la sécurité des systèmes d'information de l'Etat, des autorités publiques et d'opérateurs publics et privés et de coordonner la réaction à ces événements ;
+
+recueillir les informations techniques relatives aux incidents affectant les systèmes d'information des personnes mentionnées à l'alinéa précédent.
+
+Elle peut apporter son concours pour répondre à ces incidents.
+
+Son intervention se situe soit dans le cadre du code de la défense lorsque sont en cause la stratégie de sécurité nationale et la politique de défense, soit dans le cadre plus général fixé par le décret du 7 juillet 2009 susmentionné.
+
+2. La loi n° 2023-703 du 1er août 2023 relative à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (LPM) a complété les instruments juridiques à la disposition de l’ANSSI pour préserver la sécurité des systèmes d’information. Ces instruments juridiques visent à lutter contre les atteintes à la sécurité des systèmes d’information des autorités publiques, des opérateurs d’importance vitale (OIV), et des opérateurs de services essentiels (OSE) ainsi que d’autres opérateurs publics et privés.
+
+3. Le décret n° 2024-421 du 10 mai 2024 pris pour l’application des articles L. 2321-2-1 à L. 2321-4-1 du code de la défense et des articles L. 33-14 et L. 36-14 du code des postes et des communications électroniques, dont la CNIL a été saisie pour avis (CNIL, SP, 7 mars 2024, n° 2024-025, publiée), a d’ores et déjà mis en œuvre certaines dispositions du code de la défense issues de la récente LPM.
+
+B. L’objet de la saisine
+
+4. Le projet de décret vise à autoriser l’ANSSI à mettre en œuvre un traitement de données à caractère personnel dénommé " Données opérationnelles de cyberdéfense " dans le cadre de :
+
+ses missions d’autorité nationale de défense et de sécurité des systèmes d’information, mentionnées à l’article L. 2321-1 du code de la défense et à l’article 3 du décret du 7 juillet 2009 (à savoir, ceux de l’Etat, des autorités publiques et d’opérateurs publics et privés) ;
+
+sa mission de centre national de réponse aux incidents de sécurité informatique.
+
+Ainsi, il se fonde à la fois sur les dispositions du code de la défense et sur les dispositions plus générales du décret du 7 juillet 2009.
+
+II. L’avis de la CNIL
+
+A. Sur les finalités et le régime juridique applicable
+
+5. Le traitement " Données opérationnelles de cyberdéfense " a pour finalités :
+
+l’évaluation et l’amélioration du niveau de sécurité des systèmes d’information ainsi que son suivi dans le temps ;
+
+la supervision et l’analyse des évènements affectant ou susceptibles d’affecter la sécurité des systèmes d’information ainsi que leur suivi dans le temps ;
+
+la qualification, le traitement, l’analyse et le suivi dans le temps des incidents affectant les systèmes d’information ;
+
+la prévention et l’analyse des activités malveillantes affectant ou susceptibles d’affecter la sécurité des systèmes d’information.
+
+6. Les échanges avec le SGDSN ont permis de préciser que la quatrième finalité se distingue nettement des trois autres, en ce qu’elle est centrée sur les activités malveillantes lorsqu’une menace susceptible de porter atteinte aux systèmes d’information des entités concernées est avérée.
+
+7. Le traitement projeté est un traitement mixte : le III de l’article 1er énonce que les données traitées au titre des trois premières finalités " relèvent du régime [du RGPD], au titre de la sécurité nationale et publique, à l’exception de celles qui ont pour finalité la sûreté de l’Etat et la défense qui relèvent du titre IV de la loi du 6 janvier 1978 susvisée ". En revanche, les données traitées dans le cadre de la dernière finalité relèvent du titre IV de la loi du 6 janvier 1978 susvisée.
+
+8. S’agissant de la détermination du régime juridique applicable pour les trois premières finalités, d’après les précisions apportées par l’ANSSI, celui-ci sera déterminé en fonction du statut du bénéficiaire.
+
+9. Elle regrette néanmoins que le projet de décret et l’analyse d’impact relative à la protection des données (AIPD) transmis n’apportent pas davantage de précisions sur la détermination du régime juridique applicable. Elle considère que le SGDSN devrait clarifier notamment le régime juridique applicable aux données relatives aux autorités publiques qui n’entreraient pas dans le champ de la Directive (UE) 2016/1148 du Parlement européen et du Conseil du 6 juillet 2016 concernant des mesures destinées à assurer un niveau élevé commun de sécurité des réseaux et des systèmes d'information dans l'Union (directive " NIS ") ou de la directive (UE) 2022/2555 du Parlement européen et du Conseil du 14 décembre 2022 concernant des mesures destinées à assurer un niveau élevé commun de cybersécurité dans l’ensemble de l’Union (directive dite " NIS 2 ") lorsqu’elle aura été transposée.
+
+10. En outre, le e) du 4° du I de l’article 2 du projet de décret prévoit de soumettre au titre IV de la loi du 6 janvier 1978 susvisée les " fichiers soumis dans le cadre de services opérés par l’ANSSI ". Elle invite le SGDSN à clarifier les notions de " fichiers soumis " et de " services opérés ". A cet égard, elle prend acte de ce qu’il s’agit de services tels que " Jecliqueoupas ", mais que tous les fichiers concernés par ces services n’ont pas vocation à être enregistrés dans le traitement " Données opérationnelles de cyberdéfense ". Seuls les fichiers infectés dont les données à caractère personnel intéressent la sûreté de l’Etat et la défense seront concernés.
+
+11. Elle accueille favorablement le fait que le projet de texte ne prévoie pas d’exclure le contrôle a posteriori du traitement par la CNIL, pour autant qu’il relève du titre IV de la loi " informatique et libertés ". En outre, le SGDSN prévoit, nonobstant la possibilité de dispense de publication prévue au III de l’article 31 de la loi informatique et libertés, que le décret fera l’objet d’une publication.
+
+B. Sur les données collectées
+
+12. L’article 2 du projet de décret énumère les données à caractère personnel susceptibles d’être enregistrées en fonction des différentes finalités poursuivies par le traitement.
+
+13. La CNIL prend acte de ce que ces données pourront être collectées lors des audits menés par les agents de l’ANSSI ou en ligne sur internet, mais qu’il n’y aura pas d’autres mises en relation que celle prévue avec le traitement " Base relative à l’alerte de victimes ", créé par un projet d’arrêté dont la CNIL est également saisie.
+
+14. S’agissant de cette mise en relation, la CNIL prend acte de ce qu’il ne s’agira pas d’une mise en relation automatisée et que le traitement " Base relative à l’alerte de victimes " a vocation à n’être utilisé que s’il n’a pas été possible d’identifier autrement la victime d’activités malveillantes affectant ou susceptible d’affecter la sécurité des systèmes d’information. Elle prend acte de ce que cette mise en relation ne concernera que les cas qui apparaissent comme relevant du titre IV de la loi du 6 janvier 1978 susvisée.
+
+15. De manière incidente, l’ANSSI pourra être amenée à collecter des données sensibles au sens de l’article 9 du RGPD et de l’article 6 de la loi du 6 janvier 1978 susvisée (par exemple, des données de santé si l’organisme au bénéfice duquel l’ANSSI intervient est un établissement de santé, ou encore des données relatives à l’appartenance syndicale, dans l’hypothèse où les données d’une section syndicale seraient incluses dans le système d’information affecté par la menace). Cependant, l’ANSSI n’a pas vocation à conserver les données qui ne sont pas nécessaires à la réalisation de ses missions. Dès lors, l’article 5 du projet de décret prévoit que les données à caractère personnel collectées sur le fondement de l’articles L. 2321-2-1 du code de la défense que l’ANSSI ne qualifie pas comme étant " directement utiles à la prévention et à la caractérisation des menaces " sont détruites dans un délai de vingt-quatre heures à compter de cette qualification. Il en est de même pour les données à caractère personnel collectées sur le fondement de l’article L. 2321-2-3 qui ne sont pas qualifiées comme étant " directement utiles à la caractérisation des menaces ".
+
+16. Sous réserve, en particulier lorsqu’il s’agit des données sensibles, que l’ANSSI qualifie de manière très rigoureuse les données directement utiles à la prévention et à la caractérisation des menaces, la CNIL considère que les données traitées sont adéquates, pertinentes et non excessives au regard des finalités poursuivies, conformément au 3° de l'article 4 de la loi du 6 janvier 1978 susvisée.
+
+17. De manière complémentaire, la CNIL relève que, conformément à l’article L. 2321-5 du code de la défense, l’Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (Arcep) est chargée de veiller au respect par l’ANSSI des conditions d’application des dispositifs introduits par la LPM et notamment de contrôler que les données techniques recueillies soient strictement nécessaires à l’analyse des évènements et que ces données ne puissent être exploitées qu’aux seules fins de caractériser la menace affectant la sécurité de ces systèmes.
+
+C. Sur les durées de conservation
+
+18. L’article 5 du projet de décret prévoit que peuvent être conservées dix ans à compter de leur collecte par l’ANSSI, les données traitées pour les trois premières finalités – soit :
+
+l’évaluation et l’amélioration du niveau de sécurité des systèmes d’information ainsi que son suivi dans le temps ;
+
+la supervision et l’analyse des évènements affectant ou susceptibles d’affecter la sécurité des systèmes d’information ainsi que son suivi dans le temps ;
+
+la qualification, le traitement, l’analyse et le suivi dans le temps d’un incident affectant les systèmes d’information.
+
+19. La CNIL prend acte de ce que la détermination d’une telle durée vise à permettre de préserver les capacités d’anticipation, de détection et de réponse de l’ANSSI. En effet, le suivi du niveau de sécurité des systèmes d’information nécessite de pouvoir apprécier les évolutions mises en place et la prise en compte des recommandations de l’ANSSI par les entités qui bénéficient de son appui. Ces données sont utiles lors d’un incident chez une entité auditée ou ayant bénéficié d’un service automatisé de l’ANSSI afin, dans le cadre de " recherche d’antécédents ", de détecter les premières traces de la présence d’un attaquant, d’évaluer les actions ayant pu être effectuées par celui-ci sur les systèmes ou d’autres systèmes, ou encore de mesurer l’impact de ces actions. La continuité de l’historique des données sur plusieurs années permet en effet de reconstituer a posteriori le déroulement d’une attaque.
+
+20. Au regard de ces précisions, la CNIL s’interroge sur la nécessité de conserver pendant dix ans l’ensemble de ces données (par exemple, les données relatives à l’identité ou à la fonction des personnes physiques interrogées dans le cadre des audits). Elle considère que seules les données nécessaires à la " recherche d’antécédents " devraient être conservées pour une telle durée ; l’article 5 du projet de décret devrait donc être complété afin de prévoir des durées de conservation adaptées pour les données qui ne sont pas nécessaires à la " recherche d’antécédents ".
+
+21. La durée de conservation des données relatives à la finalité de prévention et d’analyse des activités malveillantes affectant ou susceptibles d’affecter la sécurité des systèmes d’information, mentionnée au 4° du II de l’article 1er du projet de décret, est fixée de la façon suivante par le projet de décret :
+
+deux ans à compter de la qualification par l’ANSSI comme étant directement utiles à la prévention et à la caractérisation des menaces et celles permettant d’identifier les victimes, pour les données à caractère personnel collectées sur le fondement de l’article L. 2321-2-1 du code de la défense relatif aux dispositifs exploitant des marqueurs techniques et permettant le recueil de données ;
+
+cinq ans à compter de cette même qualification pour les données à caractère personnel collectées sur le fondement de l’article L. 2321-2-3 du code de la défense relatif aux dispositifs permettant le blocage, l’enregistrement, la suspension, le transfert et la redirection de nom de domaine ;
+
+vingt-quatre heures à compter de leur qualification pour les données qui ne sont pas qualifiées comme étant directement utiles à la prévention et à la caractérisation des menaces ;
+
+cinq ans à compter de leur collecte par l’ANSSI pour les données collectées sur le fondement du deuxième alinéa de l’article L. 2321-3 du code de la défense relatif à la transmission à l’ANSSI, par les opérateurs, de l’identité et des coordonnées des utilisateurs ou détenteurs de systèmes d’information vulnérables, menacés ou attaqués, afin de les alerter sur la vulnérabilité ou l’atteinte de leur système.
+
+22. Sur ce point, le projet de décret reprend les durées de conservation fixées par les articles L. 2321-2-1 et L. 2321-2-3 du code de la défense. A cet égard, la CNIL s’interroge toutefois sur le point de départ du délai de conservation retenu au regard des dispositions du code de la défense. En effet, les articles R. 2321-1-5 et R. 2321-1-10 de ce code font débuter la durée de conservation des données à compter de leur recueil, alors que le projet de décret retient la qualification par l’ANSSI de la donnée comme directement liée à la menace comme point de départ de la durée de conservation des données. Elle invite ainsi le SGDSN à mettre en cohérence le projet de décret avec le code de la défense sur ce point.
+
+23. Par ailleurs, pour les " fichiers soumis dans le cadre de services opérés par l’ANSSI " mentionnés au e) du 4° du I de l’article 2 du projet, la durée de conservation de dix ans vise, selon le SGDSN, à permettre d’assurer que les capacités d’anticipation, de détection et de réponse de l’ANSSI soient préservées. La CNIL relève que cette durée de conservation ne résulte que du projet de décret qui lui est soumis, et diffère notablement de celle définie pour les autres données correspondant à la quatrième finalité qui relèvent des dispositions de la LPM. Il va de soi que cette durée de conservation de dix ans ne pourra s’appliquer que pour autant que les données en cause n’entreront pas dans le champ d’application de dispositions législatives du code de la défense qui prévoiraient une durée différente.
+
+24. Sous ces réserves, la Commission considère que les données sont conservées pendant une durée n'excédant pas celle nécessaire au regard des finalités pour lesquelles elles sont traitées, conformément au 5° de l'article 4 de la loi du 6 janvier 1978 susvisée.
+
+D. Sur les accédants et les destinataires
+
+25. L’article 4 du projet de décret liste les accédants (les agents de l’ANSSI) ainsi que les destinataires des données à caractère personnel et informations pouvant être enregistrées dans le traitement, en fonction des finalités :
+
+les commanditaires des audits, au titre de l’évaluation et l’amélioration du niveau de sécurité des systèmes d’information ;
+
+les agents de l’Etat, de l’autorité publique, le personnel de l’OIV ou celui de l’opérateur de services essentiels, les personnels de leurs prestataires ou sous-traitants qui sont les interlocuteurs du service de supervision de l’ANSSI dans la chaîne de traitement des incidents, au titre de la prévention, la supervision et l’analyse des évènements affectant ou susceptibles d’affecter la sécurité des systèmes d’information ;
+
+les entités contribuant au traitement de l’incident de sécurité si le bénéficiaire a donné son accord, au titre de la qualification, du traitement et de l’analyse d’un incident de sécurité affectant les systèmes d’information ;
+
+les partenaires de l’ANSSI pour certaines données limitativement énumérées.
+
+26. La CNIL prend acte de ce que les échanges avec les partenaires de l’ANSSI (nationaux, européens ou internationaux) visent notamment à communiquer les données relatives aux victimes potentielles à ces partenaires (adresses IP, url ou identifiants, adresses de courrier électronique ou identités (nom, prénom)), notamment lorsqu’ils concernent des entités relevant de la compétence d’autres Etats. Elle prend aussi acte de ce que ces échanges pourront concerner des " marqueurs d’attaque ". Elle relève que, si tel est le cas, le SGDSN devrait modifier le V de l’article 4 du projet de décret afin d’ajouter cette donnée à la liste.
+
+27. Sans remettre en cause ces échanges de données avec les partenaires de l’ANSSI, la CNIL considère que le projet de décret pourrait préciser, de manière cohérente avec les conditions concernant la conservation des données, qu’ils se limitent aux données " directement utiles " à la prévention et à la caractérisation des menaces pour celles collectées sur le fondement de l’article L. 2321-2-1 du code de la défense, et à la caractérisation des menaces seulement pour celles collectées sur le fondement de l’article L. 2321-2-3 de ce code.
+
+E. Sur les droits des personnes
+
+28. L’article 8 du projet de décret détaille les modalités d’exercice des droits, en fonction du régime juridique applicable. En outre, l’article 2 du projet de décret prévoit que les données à caractère personnel intéressant la sûreté de l’Etat et la défense, de façon isolée ou groupée, font l’objet d’une identification dans le traitement.
+
+29. Pour les données relevant du RGPD, il est prévu que les droits d’information et d’opposition ne s’appliquent pas, conformément à l’article 23 de ce règlement. Les droits d’accès, de rectification et d’effacement s’exercent directement auprès de l’ANSSI.
+
+30. Pour les données relevant du titre IV de la loi du 6 janvier 1978 susvisée, les droits d’information et d’opposition ne s’appliquent pas, conformément aux articles 116 et 117 de cette loi. Les droits d’accès, de rectification et d’effacement s’exercent de manière indirecte auprès de la CNIL, dans les conditions prévues à l’article 118 de la même loi.
+
+31. Le caractère de fichier mixte, relevant concurremment du RGPD et du titre IV de la loi " informatique et libertés ", entraîne une complexité particulière des modalités d'exercice des droits. Or, la CNIL rappelle que l'exercice des droits des personnes, et notamment la possibilité de demander à accéder aux données les concernant, constitue une garantie importante en vue de prévenir des atteintes à leur vie privée.
+
+32. Compte tenu des finalités poursuivies par le traitement, les restrictions prévues aux droits des personnes n’appellent pas d’observation particulière.
+
+33. En revanche, la CNIL observe que les dispositions projetées ne permettent pas de rattacher de manière certaine les données concernées à la finalité pour laquelle elles sont traitées.
+
+Elle considère que la mise en œuvre de marqueurs spécifiques, ou d'un dispositif équivalent, devrait permettre de déterminer les données considérées comme intéressant la sûreté de l'Etat, sur la base de critères précis. Une telle identification est de nature à permettre au responsable de traitement, saisi d'une demande d'exercice des droits sur le fondement du RGPD, de n'exclure de sa réponse que les données identifiées par avance, et sur la base de critères précis, comme relevant du régime du titre IV.
+
+F. Sur les mesures de sécurité
+
+34. L’analyse d’impact relative à la protection des données montre que le système d’information sur lequel repose le traitement dispose de fonctionnalités de cloisonnement appropriées au regard de la nature des données traitées et de leur classification.
+
+35. La CNIL prend acte de ce que la journalisation des accès a pour seule finalité la détection et la prévention d'opérations illégitimes sur les données du traitement. Elle prend également acte de la supervision en continu des accès qui, couplée à un système de détection des anomalies, permet d’exploiter ces données et contribue à la sécurité du traitement.
+
+36. La CNIL prend aussi acte de ce que l’ANSSI réalise une revue trimestrielle des privilèges afin de réaligner les habilitations sur les fonctions de chaque agent dans le cadre des habilitations spécifiques, et limite ainsi les risques que des personnes non autorisées accèdent aux données alors qu’elles n’auraient pas le besoin d’en connaître.
+
+37. Enfin, la CNIL prend également acte de l’absence de recours à la sous-traitance, de sorte que seuls les agents de la sous-direction des opérations de l’ANSSI auront accès aux données du traitement, y compris pour les opérations d’administration du système d’information. L’ANSSI indique que l’Arcep vérifie, notamment, l’adéquation entre les notes de nomination et les droits d’accès réels ouverts aux agents, dans le cadre de sa mission de contrôle définie dans l’article L. 2321-5 du code de la défense.
+
+38. De manière complémentaire, la CNIL relève que l’Arcep est chargée du contrôle des dispositifs liés à la LPM. Elle exerce ce contrôle de manière régulière notamment sur " le fonctionnement précis des mécanismes de traçabilité des actions réalisées au sein des différents réseaux et outils de l’ANSSI impliqués dans la supervision et la caractérisation des menaces " (rapport d’activité de 2023). L’Arcep indique aussi que, suite à ses contrôles, l’ANSSI conduit des travaux visant, entre autres, à améliorer ces mécanismes de traçabilité ; la CNIL estime que ces améliorations de mesures de sécurité contribuent à une logique d’amélioration continue.
+
+39. Les autres dispositions du projet de décret n’appellent pas d’observations de la part de la CNIL.
+
+La présidente,
+
+M.-L. Denis
