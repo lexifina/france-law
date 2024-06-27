@@ -2942,6 +2942,16 @@ Article L. 365-2. |
 
 Ministre chargé du logement |
 
+39 |
+
+Agrément des organismes de qualification des professionnels réalisant des travaux de rénovation énergétique des bâtiments, des audits énergétiques, l'installation de dispositifs de production d'électricité utilisant l'énergie solaire photovoltaïque, et l'installation et la maintenance des infrastructures de recharge pour véhicules électriques |
+
+Code de la construction et de l'habitation
+
+Article R. 125-40 |
+
+Ministre chargé de la construction et ministre chargé de l'énergie |
+
 DIVERS
 
 1 |
