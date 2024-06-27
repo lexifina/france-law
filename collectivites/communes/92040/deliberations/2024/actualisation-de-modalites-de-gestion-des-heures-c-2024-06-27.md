@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Actualisation de modalités de gestion des heures complémentaires, des heures supplémentaires et des astreinte
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-06-27
+- Matière : RESSOURCES HUMAINES
+- Objet : Actualisation de modalités de gestion des heures complémentaires, des heures supplémentaires et des astreinte
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxNTksInB1ciI6ImJsb2JfaWQifX0=--8db7e0ed23e21dd973452023270c0536d4eb18a8/270624_18.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
