@@ -1,0 +1,25 @@
+# Article 1er
+
+L'article 91.1.3 de la convention collective nationale de la métallurgie du 7 février 2022 est rédigé comme suit :
+
+« L'indemnisation versée s'entend de la rémunération brute que le salarié aurait perçue s'il avait continué à travailler. La rémunération à prendre en considération est celle correspondant à l'horaire pratiqué, pendant son absence, dans l'établissement ou partie d'établissement. Toutefois, si l'horaire des salariés a été augmenté par suite de l'absence du salarié, cette augmentation n'est pas prise en considération pour la fixation de la rémunération. Toute prime ou gratification à périodicité supérieure au mois, versée au salarié pendant cette période, n'est prise en compte que dans la limite d'un montant calculé à due proportion.
+
+L'indemnisation versée par l'employeur n'intervient qu'en complément des indemnités journalières de la sécurité sociale perçues par le salarié. Par conséquent, lorsque ces indemnités sont réduites, du fait, notamment, d'une sanction prononcée par la caisse à l'encontre du salarié ou de toute autre disposition légale ou réglementaire ayant pour incidence une réduction de leur montant, elles sont réputées être servies intégralement pour le calcul de l'indemnisation complémentaire versée par l'employeur au titre des présentes dispositions.
+
+En cas d'action en répétition de l'indu exercée par la caisse en vertu du code de la sécurité sociale, l'employeur est fondé à solliciter le remboursement des sommes versées au titre de l'indemnisation complémentaire, selon les règles légales en vigueur.
+
+L'indemnisation versée par l'employeur est effectuée sous déduction du montant des indemnités journalières de la sécurité sociale perçues par le salarié, ou des caisses complémentaires, mais en ne retenant dans ce dernier cas que la part des prestations résultant des versements patronaux. Sans préjudice des dispositions plus favorables, ces indemnités ou prestations sont retenues pour leur montant avant précompte des contributions sociales et impositions de toute nature, applicables, le cas échéant, sur lesdites indemnités ou prestations et mises à la charge du salarié par la loi.
+
+En tout état de cause, l'intéressé ne peut percevoir, après application des garanties de quelque nature que ce soit mentionnées ci-dessus et, le cas échéant, après application des garanties dont le salarié bénéficie en application d'un régime complémentaire de prévoyance, une indemnisation plus importante que la rémunération nette qu'il aurait perçue s'il avait continué à travailler pendant la période de suspension de son contrat.
+
+Pour le calcul des indemnités dues au salarié à chaque période de paie, il est tenu compte des indemnités déjà perçues par l'intéressé au cours de l'année civile, de telle sorte que si plusieurs absences pour maladie ou accident, séparées par une reprise effective du travail, ont été indemnisées au cours de ces douze mois, la durée totale d'indemnisation ne dépasse pas celle définie par les dispositions du présent article.
+
+Conformément à l'alinéa précédent, en présence d'une maladie chevauchante, laquelle s'entend d'un même arrêt de travail à cheval sur deux années civiles, les modalités d'indemnisation diffèrent selon que le salarié ait été ou non en incapacité de travail résultant de maladie ou d'accident au cours de l'année civile N :
+
+– si le salarié n'a jamais été en incapacité pendant l'année civile N avant l'arrêt de travail chevauchant, le changement d'année civile ne peut avoir pour effet d'allonger, pour un même arrêt de travail, les périodes d'indemnisation prévues par les dispositions de l'article 91.1.2 de la présente convention ;
+
+– si le salarié a déjà été en incapacité pendant l'année civile N, en présence d'un nouvel arrêt de travail chevauchant séparé du précédent par une reprise effective du travail, le crédit d'indemnisation au titre de ce dernier arrêt auquel le salarié peut prétendre est réévalué au 1er janvier de l'année civile N + 1 à hauteur du crédit total prévu à l'article 91.1.2 de la présente convention déduction faite de l'indemnisation déjà perçue au titre de cette seule absence pour maladie ou accident.
+
+En cas de nouvel arrêt de travail postérieur à l'arrêt de travail à cheval sur deux années civiles et séparé du précédent par une reprise effective du travail, le salarié bénéficie du crédit total prévu à l'article 91.1.2 de la présente convention, sous déduction de la durée d'indemnisation dont le salarié a déjà bénéficiée depuis le 1er janvier de l'année N + 1.
+
+L'indemnisation calculée conformément aux dispositions ci-dessus interviendra aux dates habituelles de la paie. »
