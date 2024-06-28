@@ -1,0 +1,10 @@
+# Département du Doubs : délibération — Rapport d'activité 2023, incluant les rapports 2023 sur la situation du Département en matière de développement durable et d’égalité entre les femmes et les hommes
+
+- Collectivité : Département du Doubs
+- SIREN : 222500019
+- Date : 2024-06-28
+- Séance : Conseil Départemental
+- Matière : 9.2 Autres domaines de competences des departements
+- Objet : Rapport d'activité 2023, incluant les rapports 2023 sur la situation du Département en matière de développement durable et d’égalité entre les femmes et les hommes
+- Acte publié : https://download.doubs.fr/mohican/deliberations/Délibération-7115-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/65cea6a4232b631b7f58ddc7
