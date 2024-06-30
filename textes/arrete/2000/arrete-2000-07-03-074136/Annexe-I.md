@@ -366,6 +366,8 @@ Savoie Réfractaires/Lafarge Réfractaire, 10, rue de l'Industrie, 69200 Véniss
 
 Socamel, quartier d'Allivet, 38140 Renage-sur-Rives : de 1960 à 1996 ;
 
+Unité d'exploitation Dauphiné le Villaret, Houillères Bassin Centre Midi (HBCM), 38350 Susville/ La Mure : de 1946 à 1997 ;
+
 Valeo, 8, rue Yves-Toudic, 69200 Vénissieux : de 1974 à 1987 ;
 
 SA GUICHARD, Les Marais, 38300 Bourgoin-Jallieu, et 38300 les Eparres, puis Société Nouvelle des Cartonneries GUICHARD, rue de la Plaine, BP 308, Les Marais, 38307 Bourgoin-Jallieu et rue de l'Etissey, 38300 Bourgoin-Jallieu : de 1971 à 1988
