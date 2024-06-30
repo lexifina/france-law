@@ -2,25 +2,25 @@
 
 ATTESTATION D'IDENTIFICATION POUR LES VÉHICULES IMPORTÉS CONFORMES À UN TYPE NATIONAL FRANÇAIS
 
-Pour les véhicules usagés suivants : véhicules d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes et véhicules agricoles ou forestiers conformes à un type national
+Pour les véhicules usagés suivants : véhicules conformes à un type national complets
 
-(Papier à en-tête du constructeur ou de son représentant accrédité en France ou de la DREAL, DEAL ou DRIEAT)
+(Papier à en-tête du constructeur ou de son représentant accrédité en France ou de la DREAL/ DEAL/ DRIEAT/ DEALM/ DGTM)
 
 Je soussigné (Nom, Prénom)
 
 - Constructeur du véhicule ou son représentant dûment accrédité en France (1)
 
-- DREAL, DEAL, DRIEAT (1) (1-1)
+- DREAL, DEAL, DRIEAT, DEALM ou DGTM (1) (1-1)
 
 (dans la mesure où elle dispose des moyens techniques d'identification)
 
-certifie que le véhicule ci-dessous décrit
+certifie que le véhicule complet ci-dessous décrit
 
-est du type ayant fait l'objet d'une réception nationale française,
+est du type ayant fait l'objet d'une réception nationale française permettant son immatriculation sans réception ou carrossage complémentaire,
 
 valide à la date de la première mise en circulation
 
-sous le numéro suivant , délivrée par la DREAL, DEAL, DRIEAT ou le CNRV :
+sous le numéro suivant, délivrée par la DREAL, DEAL, DRIEAT, DEALM, DGTM ou le CNRV :
 
 et que les données nécessaires à l'immatriculation en France sont les suivantes (2) :
 

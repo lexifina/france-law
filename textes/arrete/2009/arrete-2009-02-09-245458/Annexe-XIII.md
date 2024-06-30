@@ -2,13 +2,13 @@
 
 ATTESTATION D'IDENTIFICATION POUR LES VÉHICULES IMPORTÉS COMPLETS OU COMPLÉTÉS CONFORMES À UN TYPE COMMUNAUTAIRE
 
-(Papier à en-tête du constructeur ou de son représentant ou de la DREAL/DEAL/DRIEAT)
+(Papier à en-tête du constructeur ou de son représentant accrédité en France ou de la DREAL/ DEAL/ DRIEAT/ DEALM/ DGTM)
 
 Je soussigné (Nom, Prénom)
 
 - Constructeur du véhicule ou son représentant (1) (2)
 
-- DREAL/DEAL/DRIEAT (1) (1-1)
+- DREAL, DEAL, DRIEAT, DEALM ou DGTM (1) (1-1)
 
 (dans la mesure où elle dispose des moyens techniques d'identification)
 

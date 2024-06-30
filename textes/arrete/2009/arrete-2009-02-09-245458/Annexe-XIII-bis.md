@@ -2,11 +2,11 @@
 
 ATTESTATION DE RECONNAISSANCE POUR LES VÉHICULES IMPORTÉS CONFORMES À UNE RÉCEPTION NATIONALE INDIVIDUELLE D'UN ÉTAT MEMBRE DE L'UE AUTRE QUE LA FRANCE
 
-(Papier à en-tête de la DRIEAT, DREAL ou DEAL)
+(Papier à en-tête de la DREAL/ DEAL/ DRIEAT/ DEALM/ DGTM)
 
 Je soussigné (nom, prénom)
 
-DRIEAT, DREAL, DEAL (1)
+-DREAL, DEAL, DRIEAT, DEALM ou DGTM (1)
 
 certifie que le véhicule USAGÉ ou NEUF ci-dessous décrit (1) a fait l'objet d'une réception nationale individuelle sous le n° et que les données nécessaires à l'immatriculation en France sont les suivantes (2) :
 
@@ -73,7 +73,3 @@ A ............................., le ..................... Signature et fonction 
 (1) Rayer la mention inutile.
 
 (2) Références communautaires de la directive 1999/37/CE relative aux documents d'immatriculation.
-
-NOTA :
-
-Conformément à l'article 10 de l'arrêté du 4 août 2023 (NOR : TRER2319503A), ces dispositions entrent en vigueur à compter du 1er septembre 2023.

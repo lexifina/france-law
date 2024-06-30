@@ -186,7 +186,7 @@ Mélange de gazole et gaz naturel (véhicule dual fuel type 1A) |
 
 1A |
 
-Bicarburation gazole-GPL |
+Bicarburation gazole-GPL ou mode double carburant diesel/ GPL qui ne comporte pas de mode diesel seul |
 
 G2
 
@@ -343,7 +343,3 @@ HH
 (*) L'emploi de gazogène n'est autorisé que sous réserve de l'obtention d'une dérogation accordée conjointement par le directeur général des douanes et droits indirects et par le directeur des matières premières et des hydrocarbures au ministère de l'économie, des finances et de l'industrie.
 
 |
-
-NOTA :
-
-Conformément à l'article 10 de l'arrêté du 4 août 2023 (NOR : TRER2319503A), ces dispositions entrent en vigueur à compter du 1er septembre 2023.

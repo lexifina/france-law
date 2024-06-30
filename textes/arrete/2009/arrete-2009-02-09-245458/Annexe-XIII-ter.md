@@ -2,11 +2,11 @@
 
 ATTESTATION DE VÉRIFICATION DES DONNÉES TECHNIQUES DES VÉHICULES IMPORTÉS COMPLETS OU COMPLÉTÉS NON CONFORMES À UNE RÉCEPTION EUROPÉENNE OU UNE RÉCEPTION NATIONALE FRANÇAISE MUNIS D'UN CERTIFICAT D'IMMATRICULATION HARMONISÉ CE COMPLET
 
-(Papier à en-tête de la DRIEAT, DREAL, DEAL ou DGTM)
+(Papier à en-tête de la DREAL/ DEAL/ DRIEAT/ DEALM/ DGTM)
 
 Je soussigné (Nom, Prénom)
 
--DRIEAT, DREAL, DEAL, DGTM (1)
+-DREAL, DEAL, DRIEAT, DEALM ou DGTM (1)
 
 certifie que les données nécessaires à l'immatriculation en France sont les suivantes (2) :
 
@@ -57,7 +57,3 @@ Signature et fonction
 (3) Si disponible.
 
 (4) Le cas échéant.
-
-NOTA :
-
-Conformément à l'article 10 de l'arrêté du 4 août 2023 (NOR : TRER2319503A), ces dispositions entrent en vigueur à compter du 1er septembre 2023.

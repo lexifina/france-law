@@ -70,7 +70,7 @@ Ce dossier contient les rapports d'essais suivants relatifs au respect des règl
 
 - R. 318-3 / Emissions sonores (obligatoire) :
 
-- R. 318-4 / Anti-parasitage (si moteur à allumage commadé) :
+- R. 318-4 / Anti-parasitage (si moteur à allumage commandé) :
 
 - R. 317-23 / Réservoirs (pour les MAGA à 40 km/h) :
 

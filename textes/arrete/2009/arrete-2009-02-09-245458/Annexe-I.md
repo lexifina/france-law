@@ -38,9 +38,7 @@ a) Certificat d'immatriculation CE : certificat précédent conforme aux disposi
 
 b) Certificat d'immatriculation national : autre certificat d'immatriculation que le certificat d'immatriculation CE ;
 
-c) Pièce officielle de propriété : pièce officielle délivrée par l'autorité administrative du pays d'origine prouvant l'origine de propriété du véhicule ou certifiant que le certificat d'immatriculation a été retiré ;
-
-d) Certificat international pour automobiles : certificat en cours de validité délivré par l'autorité administrative du pays d'origine.
+c) Pièce officielle de propriété : pièce officielle délivrée par l'autorité administrative du pays d'origine prouvant l'origine de propriété du véhicule ou certifiant que le certificat d'immatriculation a été retiré.
 
 3. Justificatifs techniques de conformité
 
@@ -70,7 +68,7 @@ b) Attestation d'identification à un type communautaire : attestation selon mod
 
 Les attestations d'identification sont délivrées soit par le constructeur ou son représentant en France, soit par un service chargé des réceptions.
 
-c) Attestation de vérification des données techniques des véhicules importés complets ou complétés non conformes à une réception européenne ou une réception nationale française munis d'un certificat d'immatriculation définitif harmonisé CE au sens de la directive 1999/37/ CE du Conseil du 29 avril 1999 relative aux documents d'immatriculation des véhicules : attestation selon modèle indiqué en annexe XIII ter.
+c) Attestation de vérification des données techniques des véhicules importés complets ou complétés non conformes à une réception européenne ou une réception nationale française munis d'un certificat d'immatriculation définitif harmonisé CE au sens de la directive 1999/37/ CE du Conseil du 29 avril 1999 relative aux documents d'immatriculation des véhicules : attestation selon modèle indiqué en annexe XIII ter. Un récépissé relatif à cette attestation est conjointement émis.
 
 3.4. Attestations de carrossage
 
@@ -80,17 +78,11 @@ a) Certificat de carrossage
 
 2. Conforme à l'annexe VII bis de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules lorsqu'il s'agit de véhicules destinés à un usage spécial de genre VASP, RESP ou SRSP et établi dans les limites d'utilisation et les conditions fixées par cet arrêté ;
 
-b)Certificat de carrossage ou de montage de carrosserie conforme à l'annexe IX de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules ;
+b) Certificat de carrossage ou de montage de carrosserie conforme à l'annexe IX de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules ;
 
 c) Attestation de montage d'un dispositif d'attelage sur un tracteur routier conforme à l'annexe X de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules ;
 
 d) Procès-verbal de contrôle de conformité initial : annexe 2 de l'arrêté du 3 novembre 2022 relatif au contrôle de conformité initial prévu à l'article R. 321-15 du code de la route.
-
-Les documents suivants émis au plus tard le 31 décembre 2022 sont également valides :
-
-1. Véhicules utilitaires lourds d'un PTAC supérieur à 3,5 tonnes : annexe 3 de l'arrêté du 18 novembre 2005 modifié relatif au contrôle de conformité initial prévu à l'article R. 321-15 du code de la route.
-
-2. Véhicules utilitaires légers d'un PTAC inférieur ou égal à 3,5 tonnes : annexe 2 de l'arrêté du 14 mai 2014 relatif au contrôle de conformité initial des véhicules de PTAC inférieur ou égal à 3,5 tonnes.
 
 3.5. Autres justificatifs techniques
 
@@ -104,11 +96,11 @@ b) Preuve d'un contrôle technique : document prouvant un contrôle technique en
 
 La preuve d'un contrôle technique de moins de six mois en cours de validité est demandée en cas de cession.
 
-c) Procès-verbal de RTI : procès-verbal de réception à titre isolé délivré par le service chargé des réceptions ;
+c) Procès-verbal de RTI : procès-verbal de réception à titre isolé délivré par le service chargé des réceptions. Un récépissé relatif à ce procès-verbal de RTI est conjointement émis ;
 
-d) Fiche de RIN : fiche de réception nationale individuelle française établie selon les dispositions de l'article 22 de l'arrêté du 11 janvier 2021 relatif à la réception des véhicules à moteur, de leurs remorques et des systèmes et équipements destinés à ces véhicules en application du règlement UE/2018/858.
+d) Fiche de RIN : fiche de réception nationale individuelle française établie selon les dispositions de l'article 22 de l'arrêté du 11 janvier 2021 relatif à la réception des véhicules à moteur, de leurs remorques et des systèmes et équipements destinés à ces véhicules en application du règlement UE/2018/858 ;
 
-e) Fiche de RIUE : fiche de réception UE individuelle, établie selon les dispositions de l'article 44 du règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 (CE) et (CE) n° 595/2009 et abrogeant la directive 2007/46/ CE.
+e) Fiche de RIUE : fiche de réception UE individuelle, établie selon les dispositions de l'article 44 du règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 (CE) et (CE) n° 595/2009 et abrogeant la directive 2007/46/ CE ;
 
 f) Attestation d'adaptation réversible conforme à l'annexe 1-B de l'arrêté du 7 novembre 2014 relatif à l'adaptation réversible de série de certains types de véhicules, pour les véhicules neufs ou usagés de catégorie M1, genre VP faisant l'objet d'une transformation réversible dite " DERIV VP " ;
 
@@ -151,7 +143,3 @@ a) Document dit "3 en 1" : partie dédouanement portant une mention de dispense 
 b) Quitus fiscal : certificat d'acquisition d'un véhicule terrestre à moteur en provenance de la Communauté européenne délivré par les services fiscaux ;
 
 c) Mention de dispense : le certificat de conformité à un type national, le certificat de conformité à un type communautaire, l'attestation d'identification à un type national ou l'attestation d'identification à un type communautaire, revêtu d'une mention de dispense accordée par les services fiscaux.
-
-NOTA :
-
-Conformément à l'article 10 de l'arrêté du 4 août 2023 (NOR : TRER2319503A), ces dispositions entrent en vigueur à compter du 1er septembre 2023.

@@ -152,7 +152,7 @@ Places médicales :... places.
 
 Places modulables de... à...
 
-[Mention DREAL, DEAL ou DRIEAT (2).].
+[Mention DREAL, DEAL, DRIEAT, DEALM ou DGTM (2).].
 
 TE possible (3).
 
@@ -171,7 +171,3 @@ Train urbain avec maxi … remorques (type à préciser)
 (2) Direction régionale de l'environnement, de l'aménagement et du logement, direction de l'environnement, de l'aménagement et du logement de la région ou direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports d'Ile-de-France
 
 (3) Peut être combinée avec les mentions : " Autre F2 poss :... kg " et/ ou " Autre F3 poss :... kg. "
-
-NOTA :
-
-Conformément à l’article 7 du décret n° 2021-261 du 10 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.
