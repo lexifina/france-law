@@ -48,6 +48,10 @@ Service technique de l'outillage, des ateliers et centre d'activité de la répa
 
 SARL FLORIDE Marine, Zone technique, port de pêche, cale de Floride, 64700 Hendaye, De 1981 à 1985 puis Coopérative maritime Bidassoa, département mécanique, Zone technique, port de pêche, quai de Floride, 64700 Hendaye, De 1985 à 1998.
 
+Nouvelle-Aquitaine
+
+Jean ERZILBENGOA/ Jean-Pascal ERZILBENGOA/ PASCAL MARINE, 14, avenue Marinella (devenue avenue François-Mitterrand), puis 11, avenue Gabriel-Delaunay 64500 Ciboure : de 1986 à 2010.
+
 Basse-Normandie
 
 ACE Société ACE (GIE), 1, rue des Claires, BP 59, de sa création à 1996, puis 7, rue des Claires, BP 59, 50460 Querqueville : de 1996 à 2005.
@@ -1282,7 +1286,7 @@ Armor Marine :
 
 - 59140 Dunkerque : de 1950 à 1986.
 
-ARNO DUNKERQUE- route des Docks-Flottants, 59376 Dunkerque Cedex 1 : depuis 1987 jusqu’au 31 décembre 2027.
+ARNO DUNKERQUE puis DAMEN SHIPREPAIR DUNKERQUE, route des Docks-Flottants, 59376 Dunkerque Cedex 1 : depuis 1987 jusqu'au 31 décembre 2027.
 
 Ateliers chantiers navires Boulogne - 497, rue A.-et-P.-Vanheeckoet, 62480 Le Portel : depuis 1979 jusqu’au 31 décembre 2027.
 
