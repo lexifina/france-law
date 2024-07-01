@@ -188,12 +188,6 @@ CHALON-SUR-SAONE |
 
 1 |
 
-Chef de la circonscription de police nationale de Longwy |
-
-LONGWY |
-
-1 |
-
 OUEST |
 
 Ouest |
@@ -281,6 +275,12 @@ LYON |
 Chef du service interdépartemental adjoint de police judiciaire |
 
 LYON |
+
+1 |
+
+Directeur interdépartemental adjoint de la police nationale de la Savoie |
+
+CHAMBERY |
 
 1 |
 
@@ -385,3 +385,7 @@ Les postes de la DGSI éligibles à l'indemnité compensatrice de logement font 
 |
 
 3 |
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 11 juin 2024 (NOR : IOMC2413927A), ces dispositions entrent en vigueur le 1er juillet 2024.

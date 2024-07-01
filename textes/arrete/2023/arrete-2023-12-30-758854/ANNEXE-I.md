@@ -328,12 +328,6 @@ LILLE |
 
 1 |
 
-Chef du service interdépartemental adjoint de la police aux frontières |
-
-CALAIS |
-
-1 |
-
 EST |
 
 Est |
@@ -504,8 +498,6 @@ NICE |
 
 1 |
 
-|
-
 Chef de la division de la criminalité organisée et spécialisée |
 
 MARSEILLE |
@@ -519,6 +511,12 @@ MARSEILLE |
 1 |
 
 Chef de la brigade de recherche et d'intervention |
+
+MARSEILLE |
+
+1 |
+
+Chef du service interdépartemental adjoint de la police judiciaire |
 
 MARSEILLE |
 
@@ -688,8 +686,10 @@ PARIS |
 
 DGSI |
 
-Les postes de la DGSI éligibles à l'indemnité compensatrice de logement font l'objet d'un arrêté distinct, non publié conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure
-
-|
+Les postes de la DGSI éligibles à l'indemnité compensatrice de logement font l'objet d'un arrêté distinct, non publié conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure |
 
 5 |
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 11 juin 2024 (NOR : IOMC2413927A), ces dispositions entrent en vigueur le 1er juillet 2024.
