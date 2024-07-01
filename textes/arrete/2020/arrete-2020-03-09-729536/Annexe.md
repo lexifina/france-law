@@ -2510,11 +2510,13 @@ CQP " initiateur voile ", délivré jusqu'au 18 décembre 2023.
 
 Animation et initiation de la voile. |
 
-Sous l'autorité d'un titulaire :
+Sous l'autorité :
 
--d'une certification professionnelle d'encadrement des activités physiques ou sportives en voile de niveau IV ou supérieur ; ou
+-d'un titulaire d'une certification professionnelle d'encadrement des activités physiques ou sportives en voile de niveau 4 ou supérieur ; ou
 
--d'une certification professionnelle d'encadrement des activités physiques ou sportives de niveau IV minimum et d'un CQP " initiateur voile ".
+-d'un titulaire d'une certification professionnelle d'encadrement des activités physiques ou sportives de niveau 4 minimum et d'un CQP initiateur voile ; ou
+
+-d'un ou plusieurs superviseur (s) technique (s) et pédagogique (s) bénéficiant d'une dérogation délivrée par la Fédération française de voile après avis conforme de la commission ad hoc.
 
 Cette autorité s'exerce sur un nombre maximal de 10 titulaires du CQP et dans la limite de 140 pratiquants.
 
