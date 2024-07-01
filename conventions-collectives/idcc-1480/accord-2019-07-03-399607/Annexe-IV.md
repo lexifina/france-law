@@ -8,38 +8,36 @@ Salaires mensuels bruts minima garantis pour la durée légale de travail effect
 
 Groupe de qualification |
 
-Salaire mensuel brut
-
-minima garanti |
+Salaire mensuel brut minima garanti |
 
 Groupe 1 |
 
-1 829 € |
+1 890,00 € |
 
 Groupe 2 |
 
-2 028 € |
+2 089,00 € |
 
 Groupe 3 |
 
-2 226 € |
+2 281,65 € |
 
 Groupe 4 |
 
-2 426 € |
+2 486,65 € |
 
 Groupe 5 |
 
-2 677 € |
+2 730,54 € |
 
 Groupe 6 |
 
-2 928 € |
+2 986,56 € |
 
 Groupe 7 |
 
-3 179 € |
+3 226,69 € |
 
 Groupe 8 |
 
-3 531 € |
+3 583,97 € |
