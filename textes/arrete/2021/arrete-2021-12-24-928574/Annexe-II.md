@@ -34,7 +34,7 @@ Après recevabilité de la demande d'accréditation par l'instance nationale d'a
 
 1.4. Compétence des auditeurs
 
-L'organisme certificateur candidat à l'accréditation dispose d'un processus de sélection et de désignation des personnes réalisant les audits en tenant compte des exigences en matière d'indépendance et d'impartialité ainsi que de leurs compétences. L'organisme s'assure que ces personnes réalisant les audits ont les mêmes pré-requis que ceux exigés en annexe III pour les candidats à la certification avec mention et sans mention pour le domaine énergie.
+L'organisme certificateur candidat à l'accréditation dispose d'un processus de sélection et de désignation des personnes réalisant les audits en tenant compte des exigences en matière d'indépendance et d'impartialité ainsi que de leurs compétences.
 
 1.5. Suspension ou retrait de l'accréditation des organismes de certification
 
@@ -108,7 +108,7 @@ L'organisme de formation est en règle vis-à-vis de ses obligations administrat
 
 2.2. Référentiel de formation
 
-L'obligation de formation et la durée par domaine et par mention sont définies aux 3.1.1 et 3.3 de l'annexe I.
+L'obligation de formation et la durée par domaine et par mention sont définies aux 4.1.1 et 4.3 de l'annexe I.
 
 Le contenu de ces formations doit être basé sur les exigences des compétences des diagnostiqueurs, selon le domaine de diagnostic, telles que définies dans les programmes d'examen de l'annexe III du présent arrêté.
 
@@ -116,7 +116,7 @@ De plus les sessions de formation continue assurent un rappel des nouveautés l�
 
 2.3. Compétences des formateurs
 
-L'organisme de formation candidat à la certification dispose d'un processus de sélection et de désignation des formateurs en tenant compte des exigences en matière d'indépendance et d'impartialité ainsi que de leurs compétences. L'organisme s'assure que ces formateurs ont les mêmes pré-requis que ceux exigés en annexe III pour les candidats à la certification avec mention et sans mention pour le domaine énergie.
+L'organisme de formation candidat à la certification dispose d'un processus de sélection et de désignation des formateurs en tenant compte des exigences en matière d'indépendance et d'impartialité ainsi que de leurs compétences.
 
 2.4. Validation de la formation
 
@@ -211,3 +211,7 @@ L'organisme d'accueil examine les pièces fournies par le certifié qui sont a m
 Si le contrat est passé, l'organisme d'accueil prévient l'organisme d'origine, qui procède aussitôt au retrait de son certificat.
 
 Dans le cas d'une cessation d'activité de l'organisme de certification d'origine, les certificats émis avant la cessation sont réputés valides pendant 6 mois.
+
+NOTA :
+
+Conformément au I de l'article 7 de l'arrêté du 20 juillet 2023 (NOR : TREL2311731A), ces dispositions s'appliquent à compter du 1er juillet 2024.

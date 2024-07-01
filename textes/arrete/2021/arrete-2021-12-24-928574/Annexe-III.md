@@ -4,7 +4,7 @@ COMPÉTENCES DES PERSONNES PHYSIQUES EXIGÉES DANS LE CADRE DE LA CERTIFICATION
 
 1. Prérequis de certification
 
-Les candidats à la certification avec mention, et sans mention dans le domaine énergie, fournissent :
+Les candidats à la certification avec mention fournissent :
 
 -soit la preuve par tous moyens d'une expérience professionnelle de trois ans de technicien ou agent de maîtrise du bâtiment ou dans des fonctions d'un niveau professionnel équivalent dans le domaine des techniques du bâtiment ;
 
@@ -16,7 +16,7 @@ Les candidats à la certification avec mention, et sans mention dans le domaine 
 
 2. Programme des examens
 
-En application de l'article 10 du présent arrêté les exigences suivantes doivent être cohérentes avec la pratique et le contenu dudit diagnostic si la personne exerce outre-mer, pour les domaines termites et énergie.
+En application de l'article 10 du présent arrêté les exigences suivantes doivent être cohérentes avec la pratique et le contenu dudit diagnostic si la personne exerce outre-mer, pour le domaine termites.
 
 2.1. Programme des examens pour le domaine plomb
 
@@ -242,115 +242,7 @@ La personne physique candidate à la certification démontre qu'elle :
 
 - sait rédiger des rapports en langue française qui constituent la matérialisation des contrôles effectués.
 
-2.5. Programme des examens pour le domaine énergie
-
-2.5.1. Examen théorique pour toute personne certifiée
-
-La personne physique candidate à la certification démontre qu'elle possède les connaissances suivantes, appliquées aux maisons individuelles et aux appartements :
-
-- Les généralités sur le bâtiment :
-
-- la typologie des constructions, les bâtiments, les produits de construction, les principaux systèmes constructifs, les techniques constructives, notamment les différents types de murs, de toiture, de menuiseries, de planchers, de plafonds, leur évolution historique et leurs caractéristiques locales ;
-
-- les spécificités des bâtiments construits avant 1948, notamment en termes de conception architecturale et de caractéristiques hygrothermiques des matériaux.
-
-- La thermique du bâtiment :
-
-- la thermique des bâtiments, notamment les notions de thermique d'hiver et d'été, de prévention et de traitement des désordres thermiques ou hygrométriques sur les bâtiments ;
-
-- les grandeurs physiques thermiques, notamment la température, les degrés jours unifiés, la puissance, les énergies primaire et secondaire, le flux thermique, la résistance thermique, la conductivité thermique, la capacité calorifique, l'inertie thermique, les pouvoirs calorifiques supérieur et inférieur, la notion d'émission de gaz à effet de serre ;
-
-- les différents modes de transfert thermique : conduction, convection (naturelle et forcée), rayonnement ;
-
-- les principes des calculs de déperditions par les parois, par renouvellement d'air ;
-
-- les principes de calcul d'une méthode réglementaire ainsi que les différences pouvant apparaître entre les consommations estimées et les consommations réelles compte tenu notamment de la présence de scenarii conventionnels ;
-
-- les sources de différence entre les consommations conventionnelles et mesurées.
-
-- L'enveloppe du bâtiment :
-
-- les matériaux de construction, leurs propriétés thermiques et patrimoniales, notamment pour des matériaux locaux ou présentant un faible impact environnemental et leur évolution historique ;
-
-- les défauts d'étanchéité à l'air et de mise en œuvre des isolants ainsi que les sources d'infiltrations d'air parasites ;
-
-- les possibilités d'amélioration énergétique et de réhabilitation thermique de l'enveloppe du bâtiment et leurs impacts potentiels, notamment sur les besoins en énergie du bâtiment, ses émissions de gaz à effet de serre et sur les changements hygrothermiques des ambiances du bâtiment.
-
-- Les systèmes :
-
-- les réseaux de chaleur, les équipements techniques, notamment les principaux équipements individuels de chauffage, de climatisation et de production d'eau chaude sanitaire utilisant différentes sources d'énergie ;
-
-- les principaux équipements de ventilation : simple et double flux ;
-
-- les principaux équipements individuels utilisés pour contrôler le climat intérieur ;
-
-- les défauts de mise en œuvre des installations et les besoins de maintenance ;
-
-- les technologies innovantes ;
-
-- les notions de rendement des installations de chauffage et de production d'eau chaude sanitaire ;
-
-- la mise en place d'énergies renouvelables ;
-
-- les possibilités d'amélioration énergétique et de réhabilitation thermique des systèmes et leurs impacts potentiels, notamment sur les besoins en énergie du bâtiment, ses émissions de gaz à effet de serre et sur les changements hygrothermiques des ambiances du bâtiment.
-
-- Les textes réglementaires :
-
-- les textes législatifs et réglementaires sur le sujet, notamment les différentes méthodes d'élaboration des diagnostics, la liste des logiciels arrêtée et pouvant être utilisés ;
-
-- les notions juridiques de la propriété dans les bâtiments et les relations légales ou contractuelles entre les propriétaires du bâtiment, les propriétaires des locaux à usage privatif, les occupants, les exploitants et les distributeurs d'énergie ;
-
-- la terminologie technique et juridique du bâtiment, en rapport avec l'ensemble des domaines de connaissance mentionnés ci-dessus.
-
-2.5.2. Examen pratique pour toute personne certifiée
-
-La personne physique candidate à la certification démontre qu'elle :
-
-- est capable d'élaborer le diagnostic de performance énergétique en utilisant une méthodologie adaptée aux cas traités, à en interpréter les résultats et à les restituer à un non-spécialiste ;
-
-- sait évaluer la consommation d'un bâtiment par une au moins des méthodes réglementaires de consommations estimées et est capable de déterminer les données d'entrée de cette méthode ;
-
-- sait évaluer la consommation d'un bâtiment par la méthode des consommations relevées et est capable de déterminer les données utiles dans les factures et de les utiliser ;
-
-- est en mesure de proposer des recommandations adaptées aux cas traités, en tenant compte du contexte technique, juridique, économique et environnemental ;
-
-- sait rédiger des rapports en langue française qui constituent la matérialisation de la prestation effectuée.
-
-2.5.3. Programme complémentaire pour la certification avec mention
-
-La personne certifiée titulaire de la mention diagnostic de performance énergétique à l'immeuble ou des bâtiments à usage principal autre que d'habitation démontre qu'elle possède, en sus des compétences mentionnées aux 2.5.1 et 2.5.2 de la présente annexe, les connaissances suivantes appliquées aux immeubles et aux bâtiments à usage principal autre que d'habitation, tenant compte de leurs spécificités et de leur niveau de complexité :
-
-- Les généralités sur le bâtiment :
-
-- l'analyse des configurations thermiquement défavorables pour les locaux au sein de l'immeuble.
-
-- La thermique du bâtiment :
-
-- le diagramme de l'air humide.
-
-- Les systèmes :
-
-- les différents systèmes de chauffage, de refroidissement, de production d'eau chaude sanitaire, de ventilation et d'éclairages dans les bâtiments à usage principal autre que d'habitation et les parties communes des immeubles ;
-
-- les chaufferies : fonctionnement, sécurité, performances ;
-
-- les auxiliaires des différents systèmes ;
-
-- les notions de prévention des risques liés aux légionnelles ;
-
-- l'équilibrage des réseaux de distribution ;
-
-- les principaux équipements collectifs de chauffage, de climatisation, de production d'eau chaude sanitaire, de ventilation et ceux utilisés pour contrôler le climat intérieur ;
-
-- les possibilités d'amélioration énergétique et de réhabilitation thermique des systèmes des bâtiments ;
-
-- les notions de conditionnement d'air et de distributions hydraulique et aéraulique ;
-
-- les centrales de traitement d'air : mélange, filtration, humidification, chauffage, refroidissement, déshumidification, etc.
-
-- Les textes réglementaires :
-
-- les dispositions de sécurité et de santé applicables aux lieux de travail liées au sujet de la performance énergétique.
+2.5. (Supprimé)
 
 2.6. Programme des examens pour le domaine électricité
 
@@ -375,3 +267,7 @@ La personne physique candidate à la certification démontre qu'elle :
 - est capable de mettre en œuvre une méthodologie de réalisation des états de l'installation intérieure d'électricité et d'utiliser les outils dédiés à l'activité ;
 
 - sait rédiger des rapports en langue française qui constituent la matérialisation des vérifications effectuées.
+
+NOTA :
+
+Conformément au I de l'article 7 de l'arrêté du 20 juillet 2023 (NOR : TREL2311731A), ces dispositions s'appliquent à compter du 1er juillet 2024.

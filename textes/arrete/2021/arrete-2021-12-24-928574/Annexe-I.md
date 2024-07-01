@@ -40,15 +40,13 @@ Les examinateurs compétents sélectionnés par les organismes de certification 
 
 - ne pas avoir eu de lien, de quelque nature que ce soit, susceptible d'entacher leur éthique, avec les candidats.
 
-Ils justifient des mêmes pré-requis que ceux exigés en annexe III pour les candidats à la certification avec mention et sans mention pour le domaine énergie.
-
 3. Périmètre de la certification
 
-Pour les domaines relatifs au plomb, à l'amiante et à l'énergie, il existe deux niveaux de certification, qui se distinguent par leur périmètre :
+Pour les domaines relatifs au plomb et à l'amiante, il existe deux niveaux de certification, qui se distinguent par leur périmètre :
 
-- la certification sans mention dont le périmètre recouvre les compétences pour la réalisation des missions par domaine décrites aux articles 4 à 6 du présent arrêté ;
+- la certification sans mention dont le périmètre recouvre les compétences pour la réalisation des missions par domaine décrites aux articles 4 à 5 du présent arrêté ;
 
-- la certification avec mention dont le périmètre recouvre en sus les compétences pour la réalisation des missions par domaine décrites aux articles 4 à 6 du présent arrêté.
+- la certification avec mention dont le périmètre recouvre en sus les compétences pour la réalisation des missions par domaine décrites aux articles 4 à 5 du présent arrêté.
 
 Sauf cas de force majeure, la cessation d'activité spécifique à la mention est un critère de retrait de la mention.
 
@@ -241,3 +239,7 @@ En cas de difficulté dans l'analyse des pièces fournies par la personne physiq
 La compétence technique du déclarant est appréciée par référence aux exigences fixées dans l'annexe III du présent arrêté. Notamment, l'organisme de certification vérifie l'adéquation des formations suivies par la personne candidate avec les obligations du présent arrêté, en tenant compte des formations suivies dans son pays d'origine.
 
 Lorsque l'organisme de certification a autorisé l‘exercice de la profession de diagnostiqueur, la personne physique est soumise dans les deux ans au contrôle sur ouvrage défini à la présente annexe.
+
+NOTA :
+
+Conformément au I de l'article 7 de l'arrêté du 20 juillet 2023 (NOR : TREL2311731A), ces dispositions s'appliquent à compter du 1er juillet 2024.
