@@ -18,11 +18,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef du centre d'analyse et d'exploitation de la direction des opérations et de l'emploi ;
 
--chargé de mission auprès du directeur général de la gendarmerie nationale (6 emplois) ;
+-chargé de mission auprès du directeur général de la gendarmerie nationale (7 emplois) ;
 
--chargé de mission auprès du directeur des ressources humaines de la gendarmerie nationale (3 emplois) ;
+-chargé de mission auprès du directeur des ressources humaines de la gendarmerie nationale (4 emplois) ;
 
--chargé de mission auprès du directeur des opérations et de l'emploi (10 emplois) ;
+-chargé de mission auprès du directeur des opérations et de l'emploi (9 emplois) ;
 
 -chargé de mission jeux Olympiques 2024 affecté à la direction des opérations et de l'emploi (1 emploi) ;
 
@@ -340,7 +340,7 @@ Commandant de groupement de gendarmerie mobile de :
 
 -Mont-de-Marsan ;
 
--Mont saint Aignan ;
+-Mont-Saint-Aignan ;
 
 -Nîmes ;
 
@@ -353,8 +353,6 @@ Commandant de groupement de gendarmerie mobile de :
 5° Gendarmeries spécialisées :
 
 -chef d'état-major de la gendarmerie des transports aériens ;
-
--chargé de mission au commandement des forces aériennes de la gendarmerie nationale (1 emploi) ;
 
 -commandant de la section de recherches des transports aériens ;
 
@@ -408,7 +406,7 @@ Commandant en second de la gendarmerie :
 
 -commandant de la division de la formation initiale à l'école des officiers de la gendarmerie nationale ;
 
--chef de la division de la formation, adjoint au commandant d'une école de gendarmerie à l'exception de Dijon (6 emplois) ;
+-chef de la division de la formation, commandant en second d'une école de gendarmerie à l'exception de Dijon (6 emplois) ;
 
 -chef de la division de la formation, adjoint au commandant du centre national d'entraînement des forces de gendarmerie ;
 
@@ -460,9 +458,7 @@ Commandant en second de l'office central de lutte contre :
 
 -officier de liaison à la coordination nationale du renseignement et de la lutte contre le terrorisme (1 emploi) ;
 
--officier de liaison à la sous-direction de l'architecture et des infrastructures techniques au sein de la direction de la transformation du numérique (1 emploi) ;
-
--officier de liaison à l'agence des communications mobiles opérationnelles de sécurité et de secours (1 emploi) ;
+-chargé de mission à l'agence des communications mobiles opérationnelles de sécurité et de secours (1 emploi) ;
 
 -directeur de la stratégie des risques et des relations internationales de l'institut des hautes études du ministère de l'intérieur ;
 
@@ -470,14 +466,20 @@ Commandant en second de l'office central de lutte contre :
 
 -chargé de mission grands évènements affecté à la région de gendarmerie d'Ile-de-France ;
 
--chargé de mission auprès du commandement du ministère de l'intérieur dans le cyberespace (1 emploi).
+-chargé de mission auprès du commandement du ministère de l'intérieur dans le cyberespace (1 emploi) ;
+
+-chargé de mission au commandement des forces aériennes de la gendarmerie nationale (1 emploi).
 
 A l'agence du numérique des forces de sécurité intérieure :
 
--chef de direction adjoint à la direction des supports opérationnels ;
+-adjoint au chef de la direction des supports opérationnels ;
 
 -chargé de mission (2 emplois) ;
 
 -chef de pôle pilotage projet-appui méthode ;
 
 -chargé de mission au pôle pilotage projet-appui méthode.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 26 juin 2024 (NOR : IOMJ2417702A), ces dispositions entrent en vigueur le 1er juillet 2024.

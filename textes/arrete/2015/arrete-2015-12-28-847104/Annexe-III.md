@@ -8,9 +8,13 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -officier au pôle études enquêtes auprès de l'inspecteur général des armées-gendarmerie (1 emploi) ;
 
+-chargé de mission auprès de l'inspecteur général des armées-gendarmerie (1 emploi) ;
+
 -chargé de mission au cabinet du directeur général de la gendarmerie nationale (5 emplois) ;
 
 -chargé de mission auprès du directeur des soutiens et des finances (1 emploi) ;
+
+-chargé de mission auprès du chef du service de la transformation (1 emploi) ;
 
 -chargé de mission au sein du commandement de la gendarmerie pour les réserves et la jeunesse (1 emploi) ;
 
@@ -426,7 +430,9 @@ Coordonnateur d'un centre de coopération policière et douanière (4 emplois) ;
 
 4° Gendarmerie mobile-Garde républicaine :
 
--chef de la division de l'appui opérationnel ;
+-chef de la division de l'appui opérationnel de la Garde républicaine ;
+
+-chef de la division de l'emploi de la Garde républicaine ;
 
 -chef d'état-major groupement de gendarmerie mobile de Maisons-Alfort ;
 
@@ -460,7 +466,7 @@ Commandant en second de groupement de gendarmerie mobile de :
 
 -Mont-de-Marsan ;
 
--Mont-saint-Aignan ;
+-Mont-Saint-Aignan ;
 
 -Nîmes ;
 
@@ -478,25 +484,15 @@ Commandant en second de groupement de gendarmerie mobile de :
 
 -chef de la division de l'appui opérationnel de la gendarmerie maritime ;
 
+-chef de la division des opérations de la gendarmerie de l'air ;
+
+-chef de la division des opérations de la gendarmerie maritime ;
+
 -commandant de la section de recherches de la gendarmerie de l'air ;
 
 -commandant de la section de recherches en second de la gendarmerie maritime ;
 
--commandant de la section de recherches en second de la gendarmerie des transports aériens.
-
-Au sein du commandement des forces aériennes de la gendarmerie nationale :
-
--commandant d'une force aérienne gendarmerie ;
-
--chef de la division de l'appui opérationnel ;
-
--commandant du centre national d'instruction des forces aériennes de la gendarmerie ;
-
--commandant du centre national de maintenance aéronautique de la gendarmerie ;
-
--chargé de mission auprès du commandement des forces aériennes de la gendarmerie nationale (1 emploi) ;
-
--chef du bureau de maîtrise des risques au commandement des forces aériennes de la gendarmerie nationale ;
+-commandant de la section de recherches en second de la gendarmerie des transports aériens ;
 
 6° Outre-mer :
 
@@ -566,15 +562,15 @@ Commandant du centre national d'instruction :
 
 -adjoint au chef d'une division du CEGN (2 emplois) ;
 
--chef du centre de formation à la cybersécurité de la gendarmerie nationale ;
-
 8° Autres emplois :
 
 -commandant de la gendarmerie des voies navigables ;
 
 -commandant militaire de l'hôtel des Invalides ;
 
--chef d'état-major du commandement pour l'environnement et la santé ;
+-officier de liaison, adjoint au chef de l'office mineurs (1 emploi) ;
+
+-chef d'une division au sein du commandement pour l'environnement et la santé (3 emplois) ;
 
 -chargé de mission auprès du chef du pôle judiciaire de la gendarmerie nationale (1 emploi) ;
 
@@ -604,7 +600,7 @@ Commandant du centre national d'instruction :
 
 -officier de liaison à la direction des affaires criminelles et des grâces (1 emploi) ;
 
--officier de liaison à la direction du budget (2 emplois) ;
+-officier de liaison à la direction du budget (1 emploi) ;
 
 -officier rapporteur à la cour des comptes (1 emploi) ;
 
@@ -616,7 +612,7 @@ Commandant du centre national d'instruction :
 
 -officier de liaison auprès de l'association des maires de France (1 emploi) ;
 
--officier de liaison au bureau réservé au sein du cabinet du ministère des armées (1 emploi) ;
+-officier de liaison au bureau réservé au sein du cabinet du ministère des armées (2 emplois) ;
 
 -officier de liaison, chef du secteur sécurité de l'espace européen du secrétariat général des affaires européennes (1 emploi) ;
 
@@ -625,8 +621,6 @@ Commandant du centre national d'instruction :
 -chargé de mission auprès de l'inspecteur des armements nucléaires ;
 
 -chargé de mission auprès du chef du service sécurité de la direction générale de la sécurité extérieure (1 emploi) ;
-
--chargé de mission à l'inspection générale de l'administration ;
 
 -chargé de mission auprès du directeur des ressources humaines du ministère de l'intérieur ;
 
@@ -650,6 +644,8 @@ Commandant du centre national d'instruction :
 
 -chef de bureau à la direction des entreprises et partenariats de sécurité et des armes (3 emplois) ;
 
+-chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières ;
+
 -chef du centre national de formation en intervention spécialisée du groupe d'intervention de la gendarmerie nationale ;
 
 -chef de la division technique du groupe d'intervention de la gendarmerie nationale ;
@@ -664,9 +660,23 @@ Commandant du centre national d'instruction :
 
 -adjoint au chef de la cellule expertise nucléaire au sein du cabinet du ministère des armées (1 emploi) ;
 
--adjoint au chef de la cellule numérique au sein du cabinet du ministère des armées (1 emploi) ;
+-adjoint au chef de la cellule numérique au sein du cabinet du ministère des armées (1 emploi).
 
--chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières.
+Au sein du commandement des forces aériennes de la gendarmerie nationale :
+
+-commandant d'une force aérienne gendarmerie ;
+
+-chef de la division de l'appui opérationnel ;
+
+-de la division des opérations ;
+
+-commandant du centre national d'instruction des forces aériennes de la gendarmerie ;
+
+-commandant du centre national de maintenance aéronautique de la gendarmerie ;
+
+-chargé de mission auprès du commandement des forces aériennes de la gendarmerie nationale (1 emploi) ;
+
+-chef du bureau de maîtrise des risques au commandement des forces aériennes de la gendarmerie nationale jusqu'au 31 juillet 2024.
 
 A l'agence du numérique des forces de sécurité intérieure :
 
@@ -679,3 +689,7 @@ A l'agence du numérique des forces de sécurité intérieure :
 -chef du département des systèmes d'information de soutien ;
 
 -chargé de fonctions, conseiller filière système d'information et de communication (1 emploi).
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 26 juin 2024 (NOR : IOMJ2417702A), ces dispositions entrent en vigueur le 1er juillet 2024.

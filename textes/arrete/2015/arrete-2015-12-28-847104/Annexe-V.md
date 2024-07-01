@@ -6,7 +6,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef du service d'exploitation et de soutien des télécommunications et de l'informatique ;
 
--chargé de fonction au cabinet du directeur général de la gendarmerie nationale (10 emplois) ;
+-chargé de fonction au cabinet du directeur général de la gendarmerie nationale (9 emplois) ;
 
 Chef du pôle :
 
@@ -40,9 +40,7 @@ Au sein du commandement de la gendarmerie pour les réserves et la jeunesse :
 
 -chef du bureau de l'accompagnement et de la conformité ;
 
--chef du bureau des réserves pour le numérique et le cyber ;
-
--chargé de mission au commandement de la gendarmerie pour les réserves et la jeunesse (1 emploi).
+-chargé de mission au commandement de la gendarmerie pour les réserves et la jeunesse (2 emplois).
 
 Au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, le chef du :
 
@@ -160,7 +158,7 @@ Officier adjoint renseignement du groupement de gendarmerie départementale (1 e
 
 -de Corrèze ;
 
--de la Corse du Sud ;
+-de la Corse-du-Sud ;
 
 -de la Creuse ;
 
@@ -404,7 +402,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -d'Ecuires ;
 
--d'Épernay ;
+-d'Epernay ;
 
 -de Falaise ;
 
@@ -646,7 +644,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de Valenciennes ;
 
--de la Valette du Var ;
+-e la Valette du Var ;
 
 -de Vendôme ;
 
@@ -794,7 +792,7 @@ Commandant de l'escadron départemental de sécurité routière :
 
 -de la Mayenne ;
 
--de Meurthe-et-Moselle ;
+--de Meurthe-et-Moselle ;
 
 -de la Meuse ;
 
@@ -960,7 +958,7 @@ Commandant d'un peloton spécialisé de protection de la gendarmerie ;
 
 -officier adjoint renseignement rattaché à un groupement de gendarmerie maritime (3 emplois) ;
 
--commandant de compagnie de gendarmerie de l'armement sud.
+-commandant de compagnie de gendarmerie de l'armement Sud.
 
 Commandant de compagnie de gendarmerie des transports aériens :
 
@@ -1031,6 +1029,8 @@ Officier adjoint renseignement au sein du commandement de la gendarmerie de :
 Commandant de la compagnie de gendarmerie départementale :
 
 -d'Archipels-Papeete ;
+
+-de Dembeni ;
 
 -de Fort-de-France ;
 
@@ -1118,9 +1118,9 @@ A l'agence du numérique des forces de sécurité intérieure :
 
 -chargé de projets au sein à la direction de la sécurité et de l'architecture (1 emploi) ;
 
--chargé de fonctions pilotage et coordination à la direction des applications d'appui au commandement (1 emploi) ;
+-chargé de projets à la direction des applications d'appui au commandement (1 emploi) ;
 
--chargé de fonctions pilotage et coordination à la direction de la proximité et de l'appui à l'innovation (1 emploi) ;
+-chargé de projets à la direction de la proximité et de l'appui à l'innovation (1 emploi) ;
 
 -adjoint au chef du département de l'architecture, de la sécurité et de l'hébergement ;
 
@@ -1137,3 +1137,7 @@ A l'agence du numérique des forces de sécurité intérieure :
 -chef du pôle procédure pénale numérique/ plainte en ligne ;
 
 -chef du pôle DataLab.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 26 juin 2024 (NOR : IOMJ2417702A), ces dispositions entrent en vigueur le 1er juillet 2024.

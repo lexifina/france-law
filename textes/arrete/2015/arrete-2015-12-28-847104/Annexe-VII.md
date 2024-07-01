@@ -16,7 +16,7 @@ Commandant de la section d'appui judiciaire :
 
 -commandant en second de la section d'appui judiciaire de la région de gendarmerie d'Ile-de-France.
 
-Commandant en second de l'escadron départemental de sécurité routière :
+Commandant en second ou adjoint de l'escadron départemental de sécurité routière (1 emploi) :
 
 -de l'Ain ;
 
@@ -546,9 +546,73 @@ Commandant en second d'une compagnie de la gendarmerie des transports aériens :
 
 -de Toulouse ;
 
--commandant en second de la compagnie de la gendarmerie de l'armement sud ;
+-commandant en second de la compagnie de la gendarmerie de l'armement Sud ;
 
 -commandant en second d'une compagnie de la gendarmerie de l'air.
+
+Commandant de la brigade de gendarmerie des transports aériens de :
+
+-Bordeaux-Mérignac ;
+
+-Lyon-Saint-Exupéry ;
+
+-Marseille-Provence ;
+
+-Nice-Côte-d'Azur ;
+
+-Paris-Charles-de-Gaulle-Un ;
+
+-Paris-Charles-de-Gaulle-Deux ;
+
+-Paris-Charles-de-Gaulle-Fret ;
+
+-Paris-Orly.
+
+Commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
+
+-Paris-Charles-de-Gaulle ;
+
+-Paris-Orly ;
+
+4° Outre-mer :
+
+Commandant de la section d'appui judiciaire de :
+
+-la Guadeloupe ;
+
+-la Guyane ;
+
+-la Martinique ;
+
+-Mayotte ;
+
+-la Nouvelle-Calédonie ;
+
+-la Polynésie française ;
+
+-La Réunion.
+
+Commandant en second de la compagnie de gendarmerie départementale :
+
+-d'Archipels-Papeete ;
+
+-de Dembeni ;
+
+-de Fort-de-France ;
+
+-de Koné ;
+
+-de Kourou ;
+
+-de La-Foa ;
+
+-de Saint-Benoît ;
+
+-de Saint-Claude (Guadeloupe) ;
+
+-de la Trinité ;
+
+5° Autres emplois :
 
 Commandant de la section aérienne au commandement des forces aériennes de la gendarmerie (22 emplois) :
 
@@ -594,69 +658,7 @@ Commandant de la section aérienne au commandement des forces aériennes de la g
 
 -de Toulouse ;
 
--de Tours.
-
-Commandant de la brigade de gendarmerie des transports aériens de :
-
--Bordeaux-Mérignac ;
-
--Lyon-Saint-Exupéry ;
-
--Marseille-Provence ;
-
--Nice-Côte-d'Azur ;
-
--Paris-Charles-De-Gaulle-Un ;
-
--Paris-Charles-De-Gaulle-Deux ;
-
--Paris-Charles-De-Gaulle-Fret ;
-
--Paris-Orly.
-
-Commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
-
--Paris-Charles-De-Gaulle ;
-
--Paris-Orly ;
-
-4° Outre-mer :
-
-Commandant de la section d'appui judiciaire de :
-
--la Guadeloupe ;
-
--la Guyane ;
-
--la Martinique ;
-
--Mayotte ;
-
--la Nouvelle-Calédonie ;
-
--la Polynésie française ;
-
--La Réunion.
-
-Commandant en second de la compagnie de gendarmerie départementale :
-
--d'Archipels-Papeete ;
-
--de Fort-de-France ;
-
--de Koné ;
-
--de Kourou ;
-
--de La-Foa ;
-
--de Saint-Benoît ;
-
--de Saint-Claude (Guadeloupe) ;
-
--de la Trinité ;
-
-5° Autres emplois :
+-de Tours ;
 
 -adjoint au chef de la trésorerie militaire pour l'activité des forces de la gendarmerie ;
 
@@ -718,4 +720,4 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 20 décembre 2023 (NOR : IOMJ2331782A), ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l'article 2 de l'arrêté du 26 juin 2024 (NOR : IOMJ2417702A), ces dispositions entrent en vigueur le 1er juillet 2024.

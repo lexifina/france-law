@@ -40,6 +40,10 @@ Chef du bureau de la dépense militaire :
 
 -de la Nouvelle-Aquitaine.
 
+-adjoint commandant du groupement de sécurité et d'appui de Beynes ;
+
+-commandant de la compagnie de sécurité et d'accueil du camp de Beynes.
+
 Commandant de la section d'appui judiciaire située au chef-lieu des régions de gendarmerie :
 
 -d'Auvergne-Rhône-Alpes ;
@@ -314,15 +318,15 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de Dreux ;
 
--d'Épernay ;
+-d'Epernay ;
 
--d'Étampes ;
+-d'Etampes ;
 
--d'Évreux ;
+-d'Evreux ;
 
 -de la Flèche ;
 
--de Fontenay-le-Comte ;
+-dde Fontenay-le-Comte ;
 
 -de Gaillac ;
 
@@ -530,7 +534,7 @@ Chef de détachement territorial au sein d'une section de recherche :
 
 -de Bastia ;
 
--de Marseille ;
+-de Fréjus ;
 
 4° Gendarmerie mobile-Garde républicaine :
 
@@ -590,8 +594,6 @@ Commandant de la compagnie de sécurité et d'honneur :
 
 -chef du bureau du personnel de la gendarmerie des transport aérien ;
 
--chef du bureau soutiens finances au commandement des forces aériennes de la gendarmerie nationale ;
-
 -commandant d'un patrouilleur de la gendarmerie maritime ;
 
 -commandant de la section de recherches de la gendarmerie de l'armement ;
@@ -606,7 +608,7 @@ Commandant en second de compagnie de la gendarmerie maritime :
 
 -Toulon ;
 
--commandant en second de la compagnie de gendarmerie de l'armement nord.
+-commandant en second de la compagnie de gendarmerie de l'armement Nord.
 
 Commandant en second de compagnie de la gendarmerie des transports aériens :
 
@@ -674,7 +676,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -chef du bureau des soutiens opérationnels du groupement de soutien opérationnel des écoles ;
 
--commandant d'une compagnie d'instruction au sein d'une école de gendarmerie (50 emplois) ;
+-commandant d'une compagnie d'instruction au sein d'une école de gendarmerie (51 emplois) ;
 
 -commandant de peloton à l'école des officiers de la gendarmerie nationale (9 emplois) ;
 
@@ -691,8 +693,6 @@ Commandant en second de la compagnie de gendarmerie départementale :
 -commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc ;
 
 -commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-sous-Bois ;
-
--commandant de la compagnie de sécurité et d'accueil du camp de Beynes ;
 
 -commandant de la compagnie de soutien opérationnel du groupement de sécurité et d'appui d'Issy-les-Moulineaux ;
 
@@ -720,23 +720,23 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -chef du bureau soutien finances au commandement du ministère de l'intérieur dans le cyberespace ;
 
+-chef du bureau soutiens finances au commandement des forces aériennes de la gendarmerie nationale ;
+
 -chef du service expert ressources humaines à Rennes (1 emploi) ;
 
 -adjoint commandant du groupement de sécurité et d'appui de Rosny-sous-Bois ;
-
--adjoint commandant du groupement de sécurité et d'appui de Beynes ;
 
 -chef de département à l'école spéciale militaire de Saint-Cyr-Coëtquidan (1 emploi) ;
 
 -chef de section de l'école spéciale militaire de Saint-Cyr-Coëtquidan (3 emplois) ;
 
--commandant d'une compagnie de l'École polytechnique (2 emplois) ;
+-commandant d'une compagnie de l'Ecole polytechnique (2 emplois) ;
 
 -chargé de projet au sein du commandement pour l'environnement et la santé (1 emploi) ;
 
 -officier de liaison, adjoint au directeur du centre de veille du cabinet du ministère de l'intérieur (1 emploi) ;
 
--officier de liaison à l'état-major du commandement pour l'environnement et la santé (1 emploi) ;
+-adjoint au chef de la division appui opérationnel au sein du commandement pour l'environnement et la santé ;
 
 -officier de liaison à la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur (2 emplois) ;
 
@@ -745,3 +745,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 -officier rapporteur à la commission des recours des militaires (3 emplois) ;
 
 -officier de liaison au département de la sécurité nucléaire au ministère de la transition écologique (2 emplois).
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 26 juin 2024 (NOR : IOMJ2417702A), ces dispositions entrent en vigueur le 1er juillet 2024.
