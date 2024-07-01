@@ -4,9 +4,9 @@ CRITÈRES RELATIFS À LA QUALIFICATION DES PRESTATAIRES RÉALISANT DES ÉTUDES D
 
 La présente annexe permet de définir les critères relatifs à la qualification d'un prestataire pour la réalisation d'études de conception électrique en vue de l'installation d'infrastructures de recharge pour véhicules électriques (IRVE).
 
-Conformément à l'article 22 du décret n° 2017-26 du 12 janvier 2017 susvisé, deux cas sont envisagés pour la réalisation de ces études :
+Conformément à l'article D. 353-2 du code de l'énergie, deux cas sont envisagés pour la réalisation de ces études :
 
-- dans le cas où un raccordement indirect - tel que prévu à l'article L. 347-1 du code de l'énergie - est envisagé : une étude de conception IRVE évalue l'adéquation des installations électriques existantes aux équipements de recharge envisagés, et le cas échéant, les travaux à réaliser. Elle inclut un schéma électrique de l'installation envisagée ;
+- dans le cas où un raccordement indirect - tel que prévu à l'article L. 353-8 du code de l'énergie - est envisagé : une étude de conception IRVE évalue l'adéquation des installations électriques existantes aux équipements de recharge envisagés, et le cas échéant, les travaux à réaliser. Elle inclut un schéma électrique de l'installation envisagée ;
 
 - dans le cas de bâtiments d'habitation collectifs : une étude de conception IRVE envisage plusieurs scénarios afin d'anticiper l'impact de l'installation d'éventuels nouveaux points de recharge ultérieurs. Elle tient compte du foisonnement et des possibilités techniques de pilotage coordonné de la recharge des véhicules.
 
@@ -89,3 +89,7 @@ Dans le cas de bâtiments d'habitation collectifs, les références doivent incl
 - prise en compte du foisonnement et des possibilités techniques de pilotage coordonné de la recharge des véhicules.
 
 Une qualification probatoire peut être attribuée aux structures ne disposant pas de références ou des références en nombre insuffisant.
+
+NOTA :
+
+Conformément à l’article 1er du décret n° 2024-647 du 30 juin 2024, ces dispositions entrent en vigueur immédiatement.
