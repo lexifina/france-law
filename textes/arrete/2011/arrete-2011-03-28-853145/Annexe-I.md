@@ -4124,7 +4124,7 @@ Dégager les compétences et qualités attendues pour établir un profil de post
 
 |
 
-Identifier les organismes spécifiques au marché de l'emploi (pôle emploi, agence intérim, syndicat professionnel ...) en vue de rédiger l'annonce de recrutement
+Identifier les organismes spécifiques au marché de l'emploi (l'opérateur France Travail, agence intérim, syndicat professionnel ...) en vue de rédiger l'annonce de recrutement
 
 |
 

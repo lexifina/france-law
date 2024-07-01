@@ -22,7 +22,7 @@ Les opérations de contrôle présentent donc un caractère nécessaire, en vue 
 
 Vous relevez du régime général :
 
-Chef d'entreprise, travailleur indépendant, micro-entrepreneur (2), particulier employeur, membre d'une profession libérale, utilisateurs des offres de services (TESE, CEA,…), employeur de droit public, vous déclarez et payez vos cotisations et contributions de sécurité sociale et d'assurance chômage auprès de l'URSSAF, du service CESU ou du service Pajemploi.
+Chef d'entreprise, travailleur indépendant, micro-entrepreneur (2), particulier employeur, membre d'une profession libérale, utilisateurs des offres de services (TESE, CEA, …), employeur de droit public, vous déclarez et payez vos cotisations et contributions de sécurité sociale et d'assurance chômage auprès de l'URSSAF, du service CESU ou du service Pajemploi.
 
 Vous relevez du régime agricole :
 
@@ -102,15 +102,15 @@ Qui peut être contrôlé ?
 
 Quels que soient votre activité et votre effectif, vous pouvez être contrôlé si vous êtes :
 
-- employeur, personne morale ou physique, privée ou publique à titre professionnel ou en tant que particulier-employeur ;
+-employeur, personne morale ou physique, privée ou publique à titre professionnel ou en tant que particulier-employeur ;
 
-- travailleur indépendant ;
+-travailleur indépendant ;
 
-- chef d'exploitation ou d'entreprise agricole ou cotisant solidaire ;
+-chef d'exploitation ou d'entreprise agricole ou cotisant solidaire ;
 
-- une personne versant des cotisations ou contributions auprès des organismes chargés du recouvrement des cotisations et contributions du régime général ou du régime agricole ;
+-une personne versant des cotisations ou contributions auprès des organismes chargés du recouvrement des cotisations et contributions du régime général ou du régime agricole ;
 
-- redevable de contributions spécifiques recouvrées ou contrôlées par les organismes de recouvrement.
+-redevable de contributions spécifiques recouvrées ou contrôlées par les organismes de recouvrement.
 
 Sous certaines conditions, vous pouvez également, faire l'objet d'un contrôle même si vous n'êtes pas inscrit en qualité d'employeur auprès de ces organismes.
 
@@ -118,9 +118,9 @@ Quel type de contrôle ?
 
 Deux types de contrôles sont possibles :
 
-- le contrôle sur place qui se déroule en partie dans les locaux de votre entreprise ;
+-le contrôle sur place qui se déroule en partie dans les locaux de votre entreprise ;
 
-- le contrôle sur pièces qui se déroule exclusivement dans les locaux de l'organisme de recouvrement.
+-le contrôle sur pièces qui se déroule exclusivement dans les locaux de l'organisme de recouvrement.
 
 Ces deux types de contrôles offrent les mêmes garanties à la personne contrôlée pour faire valoir ses droits.
 
@@ -152,17 +152,17 @@ La durée totale de ces différentes étapes est donc variable selon la situatio
 
 Cependant, les contrôles portant sur des entreprises de moins de 20 salariés, les travailleurs indépendants et les travailleurs non-salariés agricoles ne peuvent s'étendre sur une durée totale supérieure à 3 mois, allant de la date du début effectif du contrôle à la date d'envoi de la lettre d'observations. Cette période peut être prorogée une fois à la demande expresse de la personne contrôlée ou de l'organisme de recouvrement.
 
-Cette limitation de la durée du contrôle n'est pas applicable lorsqu'est établi(e) au cours de cette période :
+Cette limitation de la durée du contrôle n'est pas applicable lorsqu'est établi (e) au cours de cette période :
 
-- une situation de travail dissimulé ;
+-une situation de travail dissimulé ;
 
-- une situation d'obstacle à contrôle ;
+-une situation d'obstacle à contrôle ;
 
-- une situation d'abus de droit ;
+-une situation d'abus de droit ;
 
-- en cas de constat d'une comptabilité insuffisante ou d'une documentation soit inexploitable, soit transmise ou remise plus de 15 jours après la réception de la demande faite par l'agent chargé du contrôle ;
+-en cas de constat d'une comptabilité insuffisante ou d'une documentation soit inexploitable, soit transmise ou remise plus de 15 jours après la réception de la demande faite par l'agent chargé du contrôle ;
 
-- le report à votre demande, d'une visite de l'agent chargé du contrôle.
+-le report à votre demande, d'une visite de l'agent chargé du contrôle.
 
 Elle n'est pas non plus appliquée lorsque la personne contrôlée appartient à un groupe dont l'effectif est égal ou supérieur à vingt salariés.
 
@@ -192,7 +192,7 @@ Le contrôle permet de vérifier la bonne application des législations relative
 
 Les cotisations et contributions sociales se prescrivent par trois ans à compter de l'expiration de l'année civile au titre de laquelle elles sont dues, pour tous les employeurs et pour les cotisants non-salariés agricoles. Pour les cotisations et contributions sociales dont sont redevables les travailleurs indépendants (non agricoles), cette durée s'apprécie à compter du 30 juin de l'année qui suit l'année au titre de laquelle elles sont dues.
 
-A titre d'exemple, un contrôle réalisé en 2024 porte sur les cotisations et contributions dues au titre des rémunérations des années 2021, 2022 et 2023 pour les entreprises qui emploient des salariés ou pour les cotisants non-salariés agricoles. Pour les travailleurs indépendants (non agricoles) si le contrôle est réalisé avant le 30 juin 2024, il porte sur les exercices 2022, 2021 et 2020, s'il est réalisé après le 30 juin il porte alors sur les exercices 2023, 2022 et 2021.
+A titre d'exemple, un contrôle réalisé en 2024 porte sur les cotisations et contributions dues au titre des rémunérations des années 2021,2022 et 2023 pour les entreprises qui emploient des salariés ou pour les cotisants non-salariés agricoles. Pour les travailleurs indépendants (non agricoles) si le contrôle est réalisé avant le 30 juin 2024, il porte sur les exercices 2022,2021 et 2020, s'il est réalisé après le 30 juin il porte alors sur les exercices 2023,2022 et 2021.
 
 En cas de constatation d'une infraction de travail illégal, ce délai de prescription est de cinq ans.
 
@@ -212,15 +212,15 @@ Vous devez mettre à disposition des agents chargés du contrôle tout document 
 
 A titre d'exemple, sont susceptibles de vous être demandés les documents suivants :
 
-- sociaux : dossiers du personnel, contrats de travail, tout document ou support permettant de reconstituer les éléments de paie intégrés dans la déclaration sociale nominative… ;
+-sociaux : dossiers du personnel, contrats de travail, tout document ou support permettant de reconstituer les éléments de paie intégrés dans la déclaration sociale nominative … ;
 
-- comptables : bilans, grands livres comptables, balances comptables, fichier des écritures comptables… ;
+-comptables : bilans, grands livres comptables, balances comptables, fichier des écritures comptables … ;
 
-- fiscaux : liasses fiscales, avis d'imposition… ;
+-fiscaux : liasses fiscales, avis d'imposition … ;
 
-- juridiques : statuts des sociétés, procès-verbaux d'assemblée générale, transactions, jugements de conseils de prud'hommes… ;
+-juridiques : statuts des sociétés, procès-verbaux d'assemblée générale, transactions, jugements de conseils de prud'hommes … ;
 
-- factures des sous-traitants et honoraires, ou factures émises par un travailleur indépendant (ou un cotisant non salarié agricole) justifiant de son chiffre d'affaires ou de ses recettes, justificatifs de frais professionnels (notes de restaurant, certificat d'immatriculation des véhicules,…).
+-factures des sous-traitants et honoraires, ou factures émises par un travailleur indépendant (ou un cotisant non salarié agricole) justifiant de son chiffre d'affaires ou de ses recettes, justificatifs de frais professionnels (notes de restaurant, certificat d'immatriculation des véhicules, …).
 
 Cette liste est indicative, l'agent chargé du contrôle adaptant les modalités de sa vérification et ses demandes à l'organisation et au système d'information de votre entreprise. Il peut donc être amené à vous demander tout document et tout support d'information supplémentaires. Les copies de ces éléments, y compris lorsqu'il s'agit de fichiers dématérialisés, peuvent être analysées en dehors de vos locaux afin d'en faciliter l'exploitation et de réduire le temps de présence de l'agent chargé du contrôle dans votre établissement. Avec votre accord exprès, les documents originaux peuvent également être exploités à l'extérieur de vos locaux.
 
@@ -290,15 +290,15 @@ Comment se déroule le contrôle ?
 
 Le contrôle s'effectue sur la base des documents transmis. Il peut s'agir à titre d'exemple, des documents :
 
-- sociaux : tout document ou support permettant de reconstituer les éléments de paie intégrés dans la déclaration sociale nominative, contrats de travail… ;
+-sociaux : tout document ou support permettant de reconstituer les éléments de paie intégrés dans la déclaration sociale nominative, contrats de travail … ;
 
-- comptables : bilans, extraits des grands livres comptables, balances comptables… ;
+-comptables : bilans, extraits des grands livres comptables, balances comptables … ;
 
-- fiscaux : liasses fiscales, avis d'imposition… ;
+-fiscaux : liasses fiscales, avis d'imposition … ;
 
-- juridiques : statuts des sociétés, procès-verbaux d'assemblées générales, jugements de conseils de prud'hommes…
+-juridiques : statuts des sociétés, procès-verbaux d'assemblées générales, jugements de conseils de prud'hommes …
 
-Toutefois des documents et/ou informations complémentaires nécessaires à la réalisation du contrôle peuvent vous être demandés par échanges écrits, téléphoniques ou électroniques, notamment en ce qui concerne certaines factures et les justificatifs de frais…
+Toutefois des documents et/ ou informations complémentaires nécessaires à la réalisation du contrôle peuvent vous être demandés par échanges écrits, téléphoniques ou électroniques, notamment en ce qui concerne certaines factures et les justificatifs de frais …
 
 Comme pour un contrôle sur place, l'analyse de l'agent chargé du contrôle porte sur les éléments déclarés à la date d'envoi de l'avis de contrôle. Si vous modifiez les déclarations portant sur la période contrôlée après la réception de cet avis, il vous appartient d'avertir l'agent chargé du contrôle au regard de l'impact de ces modifications sur le redressement envisagé et le cas échéant le montant des majorations et des pénalités applicables.
 
@@ -314,11 +314,11 @@ Dans le cadre de leurs missions, les agents chargés du contrôle peuvent utilis
 
 Si cette situation se présente, l'agent chargé du contrôle le précise dans la lettre d'observations qu'il vous adresse. Celle-ci détaille :
 
-- la nature des documents ou informations utilisés ;
+-la nature des documents ou informations utilisés ;
 
-- le contenu des documents ou éléments d'informations qui fondent le redressement ;
+-le contenu des documents ou éléments d'informations qui fondent le redressement ;
 
-- la référence au contrôle ainsi que l'identité de la ou des personnes du même groupe d'où proviennent les documents ou éléments d'information.
+-la référence au contrôle ainsi que l'identité de la ou des personnes du même groupe d'où proviennent les documents ou éléments d'information.
 
 Elle doit mentionner la faculté qui vous est donnée de demander une copie des documents utilisés. La demande de communication de la copie doit être effectuée durant la période contradictoire.
 
@@ -326,11 +326,11 @@ Fixation forfaitaire de l'assiette des cotisations et des contributions de sécu
 
 L'agent chargé du contrôle peut fixer forfaitairement, par tout moyen d'estimation probant, le montant de l'assiette des cotisations et contributions sociales dans les cas suivants :
 
-- lorsque votre comptabilité ne permet pas d'établir le chiffre exact des rémunérations des salariés de votre entreprise, ou de vos revenus, servant de base au calcul des cotisations dues ;
+-lorsque votre comptabilité ne permet pas d'établir le chiffre exact des rémunérations des salariés de votre entreprise, ou de vos revenus, servant de base au calcul des cotisations dues ;
 
-- ou lorsque vous ne mettez pas à disposition les documents ou justificatifs nécessaires à la réalisation du contrôle ;
+-ou lorsque vous ne mettez pas à disposition les documents ou justificatifs nécessaires à la réalisation du contrôle ;
 
-- ou lorsque leur présentation n'en permet pas l'exploitation.
+-ou lorsque leur présentation n'en permet pas l'exploitation.
 
 A défaut de la production d'éléments contraires probants, l'assiette fixée par l'agent chargé du contrôle sera retenue pour le calcul définitif des cotisations dues.
 
@@ -352,7 +352,7 @@ Le contrôle est une procédure contradictoire, c'est-à-dire qui permet à la p
 
 A noter que les observations sont nécessairement faites au regard des éléments déclarés à la date d'envoi de l'avis de contrôle. Si vous avez entre-temps modifié les déclarations relatives à la période contrôlée, c'est dans le cadre de la procédure contradictoire qu'il sera possible d'en tenir compte, sur la base des justifications produites à l'occasion de la réponse aux observations.
 
-Le contrôle peut aboutir au constat d'une bonne application des législations ou à des observations pour l'avenir et/ou à des régularisations de cotisations et/ou de contributions en votre faveur ou en faveur des organismes chargés du recouvrement.
+Le contrôle peut aboutir au constat d'une bonne application des législations ou à des observations pour l'avenir et/ ou à des régularisations de cotisations et/ ou de contributions en votre faveur ou en faveur des organismes chargés du recouvrement.
 
 La lettre d'observations :
 
@@ -360,19 +360,19 @@ A l'issue de chaque contrôle, un document daté et signé, intitulé « Lettre 
 
 Ce document mentionne a minima (cette liste n'est pas exhaustive) :
 
-- l'objet du contrôle ;
+-l'objet du contrôle ;
 
-- les documents consultés ;
+-les documents consultés ;
 
-- la période vérifiée ;
+-la période vérifiée ;
 
-- la date de la fin du contrôle ;
+-la date de la fin du contrôle ;
 
-- les modalités et délais de réponse ;
+-les modalités et délais de réponse ;
 
-- la possibilité de vous faire assister d'un conseil de votre choix pour répondre aux observations de l'agent chargé du contrôle ;
+-la possibilité de vous faire assister d'un conseil de votre choix pour répondre aux observations de l'agent chargé du contrôle ;
 
-- s'il y a lieu, le constat d'une situation d'abus de droit, de travail dissimulé ou l'absence de mise en conformité à la suite d‘observations formulées lors d'un précédent contrôle et l'application de majorations de redressement ou pénalités consécutives.
+-s'il y a lieu, le constat d'une situation d'abus de droit, de travail dissimulé ou l'absence de mise en conformité à la suite d ‘ observations formulées lors d'un précédent contrôle et l'application de majorations de redressement ou pénalités consécutives.
 
 En cas de redressement, le document indique les observations faites au cours du contrôle, motivées par chef de redressement, le montant des assiettes, des redressements envisagés et leur mode de calcul, ainsi que les éventuelles majorations de redressement et pénalités liées à ces redressements.
 
@@ -398,11 +398,11 @@ Lorsque votre entreprise appartient à un groupe et que l'agent chargé du contr
 
 A l'issue du délai de 30 ou 60 jours, en l'absence de réponse de votre part ou après la réponse aux observations que vous aurez formulées et la réponse apportée par l'agent chargé du contrôle à vos remarques, vous recevrez de la part de l'organisme chargé du recouvrement :
 
-- dans le cas d'observations sans redressement, la décision de l'organisme de recouvrement confirmant sa position et à laquelle vous devrez vous conformer à l'avenir ;
+-dans le cas d'observations sans redressement, la décision de l'organisme de recouvrement confirmant sa position et à laquelle vous devrez vous conformer à l'avenir ;
 
-- en cas de redressement conduisant à constater des sommes à payer, un document intitulé « mise en demeure », dans lequel seront notamment mentionnés au titre des différentes périodes annuelles contrôlées, les montants définitivement arrêtés par l'organisme de recouvrement, les références et les dates de la lettre d'observations initiale ainsi que, le cas échéant, celles du dernier courrier établi par l'agent chargé du contrôle ;
+-en cas de redressement conduisant à constater des sommes à payer, un document intitulé « mise en demeure », dans lequel seront notamment mentionnés au titre des différentes périodes annuelles contrôlées, les montants définitivement arrêtés par l'organisme de recouvrement, les références et les dates de la lettre d'observations initiale ainsi que, le cas échéant, celles du dernier courrier établi par l'agent chargé du contrôle ;
 
-- en cas de solde créditeur résultant de l'ensemble des points examinés, une notification de crédit vous sera adressée dont le montant vous sera remboursé dans un délai maximum d'1 mois après la notification.
+-en cas de solde créditeur résultant de l'ensemble des points examinés, une notification de crédit vous sera adressée dont le montant vous sera remboursé dans un délai maximum d'1 mois après la notification.
 
 Si vous êtes redevable par ailleurs de sommes auprès de l'organisme de recouvrement, celles-ci seront déduites du montant qu'il vous remboursera.
 
@@ -412,23 +412,23 @@ La majoration pour réitération est applicable en cas de répétition d'une err
 
 Le montant du redressement mis en recouvrement à l'issue du contrôle sera majoré de 25 % en cas de constat d'une infraction de travail dissimulé, majoration de redressement portée à 40 % si cette infraction est commise :
 
-- à l'égard de plusieurs personnes ;
+-à l'égard de plusieurs personnes ;
 
-- par l'emploi dissimulé d'un mineur soumis à l'obligation scolaire ;
+-par l'emploi dissimulé d'un mineur soumis à l'obligation scolaire ;
 
-- à l'égard d'une personne dont la vulnérabilité ou l'état de dépendance sont apparents ou connus de l'auteur ;
+-à l'égard d'une personne dont la vulnérabilité ou l'état de dépendance sont apparents ou connus de l'auteur ;
 
-- en bande organisée.
+-en bande organisée.
 
 Les majorations de redressement pour travail dissimulé peuvent être réduites de 10 points :
 
-- si vous procédez au règlement intégral des cotisations, pénalités et majorations de retard dans les 30 jours de la notification de la mise en demeure ;
+-si vous procédez au règlement intégral des cotisations, pénalités et majorations de retard dans les 30 jours de la notification de la mise en demeure ;
 
-- ou si vous présentez dans ce même délai un plan d'échelonnement du paiement qui est accepté par le directeur de l'organisme du recouvrement.
+-ou si vous présentez dans ce même délai un plan d'échelonnement du paiement qui est accepté par le directeur de l'organisme du recouvrement.
 
 A l'inverse, les majorations de redressement initiales de 25 % et 40 % sont portées respectivement à 45 % et 60 % lorsqu'il est constaté une nouvelle infraction pour travail dissimulé dans les 5 ans de la notification d'une première infraction.
 
-Enfin, le constat d'un abus de droit entraîne l'application d'une pénalité égale à 20% du redressement qui en résulte.
+Enfin, le constat d'un abus de droit entraîne l'application d'une pénalité égale à 20 % du redressement qui en résulte.
 
 Le délai de prescription :
 
@@ -438,9 +438,9 @@ En cas de constatation d'une infraction de travail illégal, ce délai de prescr
 
 Dans le cadre d'un contrôle, ce délai de prescription est suspendu pendant la période contradictoire. Par conséquent, le délai de prescription des cotisations et des contributions de sécurité sociale dues est suspendu selon les cas :
 
-- si vous n'avez pas formulé de remarques, entre la date de réception de la lettre d'observations et la fin de la période contradictoire de 30 jours (ou 60 jours si vous avez obtenu sa prolongation) ou ;
+-si vous n'avez pas formulé de remarques, entre la date de réception de la lettre d'observations et la fin de la période contradictoire de 30 jours (ou 60 jours si vous avez obtenu sa prolongation) ou ;
 
-- si vous avez fait des observations, entre la date de réception de la lettre d'observations et la date d'envoi de la réponse de l'agent chargé du contrôle à ces observations.
+-si vous avez fait des observations, entre la date de réception de la lettre d'observations et la date d'envoi de la réponse de l'agent chargé du contrôle à ces observations.
 
 La mise en demeure vous sera adressée après l'envoi de la réponse à vos observations par l'agent chargé du contrôle et dans la limite de la période de prescription éventuellement reportée telle que définie ci-dessus.
 
@@ -452,17 +452,17 @@ Afin de régulariser votre situation, vous devez régler à l'organisme chargé 
 
 Par ailleurs, des majorations de retard sont susceptibles d'être appliquées sur les sommes redressées :
 
-- les majorations de retard initiales de 5 % sur les sommes redressées ;
+-les majorations de retard initiales de 5 % sur les sommes redressées ;
 
-- les majorations de retard complémentaires de 0,2 % par mois ou fraction de mois écoulé à compter du 1er février de l'année qui suit celle au titre de laquelle les redressements sont effectués jusqu'à complet paiement des sommes dues. Si ce paiement intervient dans les trente jours suivant la mise en demeure, le taux de cette majoration complémentaire est abaissé à 0,1 %.
+-les majorations de retard complémentaires de 0,2 % par mois ou fraction de mois écoulé à compter du 1er février de l'année qui suit celle au titre de laquelle les redressements sont effectués jusqu'à complet paiement des sommes dues. Si ce paiement intervient dans les trente jours suivant la mise en demeure, le taux de cette majoration complémentaire est abaissé à 0,1 %.
 
 Vous pouvez demander une remise gracieuse des majorations.
 
 Les cas dans lesquels ces majorations de retard s'appliquent sont limités et leur niveau est réduit :
 
-- aucune majoration de retard initiale de 5 % n'est appliquée si le montant global redressé est inférieur au plafond annuel de la sécurité sociale (ce plafond est réévalué annuellement et s'élève à 46 368 € en 2024) ;
+-aucune majoration de retard initiale de 5 % n'est appliquée si le montant global redressé est inférieur au plafond annuel de la sécurité sociale (ce plafond est réévalué annuellement et s'élève à 46 368 € en 2024) ;
 
-- les majorations de retard complémentaires sont réduites de 0,2 % à 0,1 % si votre paiement intervient dans les 30 jours suivants l'émission de la mise en demeure. Ces majorations sont décomptées par mois ou fraction de mois à partir du 1er février de l'année qui suit celle au titre de laquelle les redressements sont effectués jusqu'à complet paiement des sommes dues.
+-les majorations de retard complémentaires sont réduites de 0,2 % à 0,1 % si votre paiement intervient dans les 30 jours suivants l'émission de la mise en demeure. Ces majorations sont décomptées par mois ou fraction de mois à partir du 1er février de l'année qui suit celle au titre de laquelle les redressements sont effectués jusqu'à complet paiement des sommes dues.
 
 Ces réductions ne sont pas applicables si vous êtes en situation d'abus de droit, d'absence de mise en conformité à la suite d'un précédent contrôle, d'obstacle à contrôle ou de travail dissimulé. Dans ce cas, les majorations spécifiques à ces situations restent en vigueur.
 
@@ -478,19 +478,19 @@ Sur une période déjà contrôlée :
 
 Les organismes du recouvrement ne peuvent pas procéder à un nouveau contrôle portant sur une période déjà contrôlée et sur des points de législation ayant déjà donné lieu à vérification, sauf :
 
-- en cas de fourniture d'éléments incomplets ou inexacts ;
+-en cas de fourniture d'éléments incomplets ou inexacts ;
 
-- en cas de fraude ou de travail dissimulé ;
+-en cas de fraude ou de travail dissimulé ;
 
-- ou encore sur demande de l'autorité judiciaire.
+-ou encore sur demande de l'autorité judiciaire.
 
 Sur des pratiques déjà vérifiées :
 
 Aucun redressement ne peut être effectué par l'organisme chargé du recouvrement sur des pratiques vérifiées lors d'un précédent contrôle et pour lesquelles il n'a été fait aucune observation, dès lors que :
 
-- cet organisme a eu l'occasion, au vu de l'ensemble des documents consultés, de se prononcer en toute connaissance de cause sur ces éléments ;
+-cet organisme a eu l'occasion, au vu de l'ensemble des documents consultés, de se prononcer en toute connaissance de cause sur ces éléments ;
 
-- les circonstances de droit et de fait au regard desquelles les éléments ont été examinés sont inchangées.
+-les circonstances de droit et de fait au regard desquelles les éléments ont été examinés sont inchangées.
 
 Il vous appartient d'apporter la preuve de cet accord tacite. Cette preuve peut être apportée au regard de la liste des documents consultés figurant dans la lettre d'observations du contrôle précédent.
 
@@ -500,13 +500,13 @@ Si vous n'êtes pas d'accord avec la décision de l'organisme de sécurité soci
 
 Si vous êtes confronté à des interprétations divergentes de plusieurs organismes du recouvrement :
 
-Si vous relevez de plusieurs organismes du recouvrement et que vous êtes confronté à des interprétations contradictoires concernant l'application de la législation de sécurité sociale, dans un ou plusieurs de vos établissements présentant une même situation au regard d'un même dispositif juridique, vous pouvez solliciter l'intervention de l'URSSAF - Caisse nationale qui prendra une position sur le point de législation soulevé. Cette position s'imposera aux organismes de recouvrement concernés.
+Si vous relevez de plusieurs organismes du recouvrement et que vous êtes confronté à des interprétations contradictoires concernant l'application de la législation de sécurité sociale, dans un ou plusieurs de vos établissements présentant une même situation au regard d'un même dispositif juridique, vous pouvez solliciter l'intervention de l'URSSAF-Caisse nationale qui prendra une position sur le point de législation soulevé. Cette position s'imposera aux organismes de recouvrement concernés.
 
 Dans le cadre d'un contrôle, cette demande d'intervention doit être effectuée postérieurement à la réception des lettres d'observations qui permettent de constater une divergence de position entre organismes et, en tout état de cause, avant de saisir les commissions de recours amiable des organismes concernés. Mais cette démarche ne suspend pas les délais de saisine des différentes Commissions de recours amiable.
 
 Si vous êtes confronté à des interprétations divergentes entre organismes du recouvrement et fédérations d'institutions de retraite complémentaires :
 
-Vous pouvez également solliciter l'intervention de l'URSSAF - Caisse nationale si vous êtes confrontés à des interprétations contradictoires entre un ou plusieurs organismes du recouvrement et une ou plusieurs fédérations d'institutions de retraite complémentaire sur certaines dispositions limitativement prévues par la loi, notamment lorsque cela porte sur les allègements généraux.
+Vous pouvez également solliciter l'intervention de l'URSSAF-Caisse nationale si vous êtes confrontés à des interprétations contradictoires entre un ou plusieurs organismes du recouvrement et une ou plusieurs fédérations d'institutions de retraite complémentaire sur certaines dispositions limitativement prévues par la loi, notamment lorsque cela porte sur les allègements généraux.
 
 La saisine de la commission de recours amiable :
 
@@ -530,13 +530,13 @@ A chaque étape, les modalités et délais de saisine vous sont précisés dans 
 
 Lexique
 
-URSSAF - Caisse nationale : la caisse nationale du réseau des URSSAF est l'Agence centrale des organismes de sécurité sociale (ACOSS).
+URSSAF-Caisse nationale : la caisse nationale du réseau des URSSAF est l'Agence centrale des organismes de sécurité sociale (ACOSS).
 
 Caisse centrale de la MSA : caisse à la tête du réseau des caisses de la MSA.
 
 Commission de recours amiable : Formation du conseil d'administration de l'organisme de recouvrement. Elle est composée d'un nombre égal de représentants des salariés et de représentants des employeurs et des travailleurs indépendants pour le régime général ou des non-salariés pour le régime agricole.
 
-DSN : Déclaration sociale nominative. Déclaration mensuelle obligatoire unique, produite automatiquement à l'issue du calcul de la paie des salariés, destinée à communiquer les informations nécessaires à la gestion de la protection sociale des salariés aux organismes et administrations concernés (CPAM, URSSAF, MSA, Agirc-Arrco, Pôle emploi, centre des impôts…)
+DSN : Déclaration sociale nominative. Déclaration mensuelle obligatoire unique, produite automatiquement à l'issue du calcul de la paie des salariés, destinée à communiquer les informations nécessaires à la gestion de la protection sociale des salariés aux organismes et administrations concernés (CPAM, URSSAF, MSA, Agirc-Arrco, l'opérateur France Travail, centre des impôts …)
 
 FNAL : La contribution au Fonds national d'aide au logement est due par tous les employeurs quelle que soit la taille de l'entreprise. Cette contribution assure le financement de l'allocation logement.
 
@@ -552,7 +552,7 @@ Procédure contradictoire : Lors du contrôle, procédure qui permet un dialogue
 
 Rescrit social : Permet d'obtenir une décision explicite des organismes de recouvrement sur l'application de certains points de législation à la situation particulière soulevée. Sauf changement de législation ou de la situation de fait, la réponse de l'organisme sera opposable pour l'avenir.
 
-Travail dissimulé : Infraction sanctionnée par le code du travail et qui vise à la fois la dissimulation d'activité (absence d'immatriculation et/ou de déclaration sociale ou fiscale, ou faux détachement) et la dissimulation d'emploi salarié ou d'heures travaillées.
+Travail dissimulé : Infraction sanctionnée par le code du travail et qui vise à la fois la dissimulation d'activité (absence d'immatriculation et/ ou de déclaration sociale ou fiscale, ou faux détachement) et la dissimulation d'emploi salarié ou d'heures travaillées.
 
 Tribunal judiciaire : Issu de la fusion du tribunal d'instance et du tribunal de grande instance. Il statue en première instance sur les affaires qui opposent les assurés, les allocataires ou les cotisants aux organismes de sécurité sociale. C'est également devant cette juridiction (ou devant l'une de ses chambres de proximité) que les agents chargés du contrôle prêtent serment.
 
@@ -560,7 +560,7 @@ URSSAF : Union pour le recouvrement des cotisations de sécurité sociale et d'a
 
 Pour en savoir plus :
 
-Retrouvez toute l'information relative à votre activité sur www.urssaf.fr « Espace employeur », ou sur www.msa.fr.
+Retrouvez toute l'information relative à votre activité sur www. urssaf. fr « Espace employeur », ou sur www. msa. fr.
 
 (1) URSSAF, CGSS, CSS de Mayotte.
 
@@ -568,8 +568,8 @@ Retrouvez toute l'information relative à votre activité sur www.urssaf.fr « E
 
 (3) L'établissement est une unité de production géographiquement individualisée, mais juridiquement dépendante de l'entreprise. Chaque établissement possède un numéro Siret propre partageant les mêmes neuf premiers chiffres du numéro SIREN de l'entreprise.
 
-(4) Pour en savoir plus sur le rescrit social, consulter www.urssaf.fr ou www.msa.fr.
+(4) Pour en savoir plus sur le rescrit social, consulter www. urssaf. fr ou www. msa. fr.
 
-(5) www.urssaf.fr ou www.msa.fr.
+(5) www. urssaf. fr ou www. msa. fr.
 
 (6) En cas de réponses incomplètes ou inexactes, de fraude, de travail dissimulé ou sur demande de l'autorité judiciaire.

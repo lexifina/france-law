@@ -124,11 +124,11 @@ règlement général ci-annexé.
 
 est prévu une aide spécifique au reclassement attribuée dans les conditions définies par le règlement général
 
-ci-annexé, dénommée aide à la reprise ou à la création d’entreprise .
+ci-annexé, dénommée aide à la reprise ou à la création d’entreprise.
 
 Article 3
 
-Contributions/Ressources
+Contributions/ Ressources
 
 § 1. Les contributions des employeurs et des salariés destinées à la couverture des dépenses relatives au
 
@@ -202,19 +202,19 @@ Article 5
 
 Règlement, annexes et accords d'application
 
-§ 1.A la présente convention est annexé le règlement général du régime d'assurance chômage.
+§ 1. A la présente convention est annexé le règlement général du régime d'assurance chômage.
 
 § 2. La situation des catégories professionnelles particulières fait l'objet de protocoles annexés au règlement général et négociés entre les organisations représentatives au plan national et interprofessionnel d'employeurs et de salariés. Ces protocoles sont dénommés annexes.
 
 Les annexes VIII et X, adoptées conformément au protocole du 18 avril 2006 relatif aux règles de prise en charge des professionnels intermittents du cinéma, de l'audiovisuel, de la diffusion et du spectacle par le régime d'assurance chômage, restent régies par les dispositions spécifiques fixées par ledit protocole.
 
-§ 3. Les conditions et / ou modalités de mise en œuvre des dispositions de la convention, du règlement général et des annexes font l'objet d'accords d'application négociés entre les organisations représentatives au plan national et interprofessionnel d'employeurs et de salariés.
+§ 3. Les conditions et/ ou modalités de mise en œuvre des dispositions de la convention, du règlement général et des annexes font l'objet d'accords d'application négociés entre les organisations représentatives au plan national et interprofessionnel d'employeurs et de salariés.
 
 Article 6
 
 Instances paritaires régionales
 
-Dans le cadre des mandats confiés par l'Unédic à Pôle emploi et conformément à la convention pluriannuelle visée à l'article L. 5312-3 du code du travail, il est donné compétence aux instances paritaires régionales siégeant au sein de chaque direction régionale de Pôle emploi pour statuer dans les cas prévus par le règlement général annexé à la présente convention et par les accords d'application.
+Dans le cadre des mandats confiés par l'Unédic à l'opérateur France Travail et conformément à la convention pluriannuelle visée à l'article L. 5312-3 du code du travail, il est donné compétence aux instances paritaires régionales siégeant au sein de chaque direction régionale de l'opérateur France Travail pour statuer dans les cas prévus par le règlement général annexé à la présente convention et par les accords d'application.
 
 Article 7
 
@@ -224,9 +224,9 @@ Le fonds de régulation est destiné à garantir la stabilité des prestations e
 
 Article 8
 
-Contribution au financement de Pôle emploi
+Contribution au financement de l'opérateur France Travail
 
-Les contributions des employeurs et des salariés mentionnées aux articles L. 5422-9, L. 5422-11 et L. 5424-20 du code du travail financent, à hauteur de 10 % des sommes collectées, une contribution globale versée à la section Fonctionnement et investissement et à la section Intervention du budget de Pôle emploi.
+Les contributions des employeurs et des salariés mentionnées aux articles L. 5422-9, L. 5422-11 et L. 5424-20 du code du travail financent, à hauteur de 10 % des sommes collectées, une contribution globale versée à la section Fonctionnement et investissement et à la section Intervention du budget de l'opérateur France Travail.
 
 Article 9
 

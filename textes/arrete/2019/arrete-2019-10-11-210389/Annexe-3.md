@@ -50,33 +50,33 @@ France Compétences |
 
 Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents habilités de France Compétences d'assurer les missions mentionnées aux dispositions de l'article L. 6123-5 et permettent à la Caisse des dépôts et consignations de rendre compte de sa gestion du compte personnel de formation aux agents habilités de France Compétences, conformément aux dispositions de l'article L. 6333-5 du code du travail . |
 
-Institut national de la jeunesse et de l'éducation populaire et des organismes qu'il mandate au moyen de conventions de recherche |
+Institut national de la jeunesse et de l'éducation populaire et des organismes qu'il mandate au moyen de conventions de rechercheDes |
 
-Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents habilités de l'Institut national de la jeunesse et de l'éducation populaire, et des organismes qu'il mandate, de suivre l'évolution du compte d'engagement citoyen et l'amélioration des effets de cette politique publique, conformément à ses missions qui consistent notamment à réaliser des enquêtes et des études statistiques en lien avec le service statistique public sur la vie associative. |
+traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents habilités de l'Institut national de la jeunesse et de l'éducation populaire, et des organismes qu'il mandate, de suivre l'évolution du compte d'engagement citoyen et l'amélioration des effets de cette politique publique, conformément à ses missions qui consistent notamment à réaliser des enquêtes et des études statistiques en lien avec le service statistique public sur la vie associative. |
 
 Opérateurs de compétences (OPCO) |
 
 Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux personnels habilités des opérateurs de compétences (OPCO), en tant qu'organisme financeur, d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
 
-Régions |
+RégionsDes |
 
-Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents habilités des Régions et aux personnels des organismes qu'elles mandatent, en tant qu'organisme financeur, d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
+traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents habilités des Régions et aux personnels des organismes qu'elles mandatent, en tant qu'organisme financeur, d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
 
-Pôle Emploi |
+Pôle EmploiDes |
 
-Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux personnels habilités de Pôle emploi, en tant qu'organisme financeur, d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
+traitements mis en place à partir du traitement automatisé SI-CPF permettent aux personnels habilités de l'opérateur France Travail, en tant qu'organisme financeur, d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
 
-Commissions paritaires interprofessionnelles régionales |
+Commissions paritaires interprofessionnelles régionalesDes |
 
-Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents habilités des Commissions paritaires interprofessionnelles régionales, en tant qu'organisme financeur, d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
+traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents habilités des Commissions paritaires interprofessionnelles régionales, en tant qu'organisme financeur, d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
 
-Organismes de conseil en évolution professionnelle |
+Organismes de conseil en évolution professionnelleDes |
 
-Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents et personnels habilités des organismes de conseil en évolution professionnelle, d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
+traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents et personnels habilités des organismes de conseil en évolution professionnelle, d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
 
-Caisse des dépôts et consignations assurant la gestion du traitement automatisé |
+Caisse des dépôts et consignations assurant la gestion du traitement automatiséDes |
 
-Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux personnels habilités de la Caisse des dépôts et consignations, d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
+traitements mis en place à partir du traitement automatisé SI-CPF permettent aux personnels habilités de la Caisse des dépôts et consignations, d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
 
 Agence de l'outre-mer pour la mobilité (LADOM)
 

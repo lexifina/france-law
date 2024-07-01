@@ -58,7 +58,7 @@ Si vous dispensez le salarié d'effectuer son préavis :
 
 Pour l'ensemble des cas :
 
-" A l'expiration de votre contrat de travail, votre certificat de travail, votre reçu pour solde de tout compte et votre attestation Pôle emploi vous seront remis (ou adressés par courrier).
+" A l'expiration de votre contrat de travail, votre certificat de travail, votre reçu pour solde de tout compte et votre attestation l'opérateur France Travail vous seront remis (ou adressés par courrier).
 
 Vous pouvez faire une demande de précision des motifs du licenciement énoncés dans la présente lettre, dans les quinze jours suivant sa notification par lettre recommandée avec avis de réception ou remise contre récépissé. Nous avons la faculté d'y donner suite dans un délai de quinze jours après réception de cette demande par lettre recommandée avec avis de réception ou remise contre récépissé. Nous pouvons également, le cas échéant et dans les mêmes formes, prendre l'initiative d'apporter des précisions à ces motifs dans un délai de quinze jours suivant la notification du licenciement. "
 

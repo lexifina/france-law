@@ -2,4125 +2,2077 @@
 
 II. 18. TYPDEM2 Description : type de la demande niveau 2.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Allocation aux adultes handicapés (AAH) |
 
-1
+1.1 |
 
-|
+AAH sans précision |
 
-Allocation aux adultes handicapés (AAH)
+1.2 |
 
-|
+AAH L. 821-1 |
 
-1.1
+1.3 |
 
-|
+AAH L. 821-1 + complément de ressources (CPR) |
 
-AAH sans précision
+1.4 |
 
-|
+AAH L. 821-1 + majoration vie autonomie (MVA) |
 
-1.2
+1.5 |
 
-|
+AAH L. 821-2 |
 
-AAH L. 821-1
+1.6 |
 
-|
+Complément de ressources pour bénéficiaires de l'allocation supplémentaire invalidité (ASI) |
 
-1.3
+1.7 |
 
-|
+Majoration vie autonome pour bénéficiaires de l'allocation supplémentaire invalidité (ASI) |
 
-AAH L. 821-1 + complément de ressources (CPR)
+2 |
 
-|
+Allocation d'éducation de l'enfant handicapée (AEEH) |
 
-1.4
+2.1 |
 
-|
+AEEH sans précision (y compris sans compléments précisés) |
 
-AAH L. 821-1 + majoration vie autonomie (MVA)
+2.2 |
 
-|
+AEEH de base |
 
-1.5
+2.3 |
 
-|
+AEEH + complément 1 |
 
-AAH L. 821-2
+2.4 |
 
-|
+AEEH + complément 2 |
 
-1.6
+2.5 |
 
-|
+AEEH + complément 3 |
 
-Complément de ressources pour bénéficiaires de l'allocation supplémentaire invalidité (ASI)
+2.6 |
 
-|
+AEEH + complément 4 |
 
-1.7
+2.7 |
 
-|
+AEEH + complément 5 |
 
-Majoration vie autonome pour bénéficiaires de l'allocation supplémentaire invalidité (ASI)
+2.8 |
 
-|
+AEEH + complément 6 |
 
-2
+2.9 |
 
-|
+Majoration parent isolé |
 
-Allocation d'éducation de l'enfant handicapée (AEEH)
+3 |
 
-|
+Allocation compensatrice |
 
-2.1
+3.1 |
 
-|
+Allocation compensatrice sans précision |
 
-AEEH sans précision (y compris sans compléments précisés)
+3.2 |
 
-|
+Allocation compensatrice pour frais professionnel (ACFP) sans précision |
 
-2.2
+3.2.1 |
 
-|
+ACFP 5 % |
 
-AEEH de base
+3.2.2 |
 
-|
+ACFP 10 % |
 
-2.3
+3.2.3 |
 
-|
+ACFP 15 % |
 
-AEEH + complément 1
+3.2.4 |
 
-|
+ACFP 20 % |
 
-2.4
+3.2.5 |
 
-|
+ACFP 25 % |
 
-AEEH + complément 2
+3.2.6 |
 
-|
+ACFP 30 % |
 
-2.5
+3.2.7 |
 
-|
+ACFP 35 % |
 
-AEEH + complément 3
+3.2.8 |
 
-|
+ACFP 40 % |
 
-2.6
+3.2.9 |
 
-|
+ACFP 45 % |
 
-AEEH + complément 4
+3.2.10 |
 
-|
+ACFP 50 % |
 
-2.7
+3.2.11 |
 
-|
+ACFP 55 % |
 
-AEEH + complément 5
+3.2.12 |
 
-|
+ACFP 60 % |
 
-2.8
+3.2.13 |
 
-|
+ACFP 65 % |
 
-AEEH + complément 6
+3.2.14 |
 
-|
+ACFP 70 % |
 
-2.9
+3.2.15 |
 
-|
+ACFP 75 % |
 
-Majoration parent isolé
+3.2.16 |
 
-|
+ACFP 80 % |
 
-3
+3.3 |
 
-|
+Allocation compensatrice pour tierce personne (ACTP) sans précision |
 
-Allocation compensatrice
+3.3.1 |
 
-|
+ACTP 40 % |
 
-3.1
+3.3.2 |
 
-|
+ACTP 45 % |
 
-Allocation compensatrice sans précision
+3.3.3 |
 
-|
+ACTP 50 % |
 
-3.2
+3.3.4 |
 
-|
+ACTP 55 % |
 
-Allocation compensatrice pour frais professionnel (ACFP) sans précision
+3.3.5 |
 
-|
+ACTP 60 % |
 
-3.2.1
+3.3.6 |
 
-|
+ACTP 65 % |
 
-ACFP 5 %
+3.3.7 |
 
-|
+ACTP 70 % |
 
-3.2.2
+3.3.8 |
 
-|
+ACTP 75 % |
 
-ACFP 10 %
+3.3.9 |
 
-|
+ACTP 80 % |
 
-3.2.3
+4 |
 
-|
+Prestation de compensation (PCH) |
 
-ACFP 15 %
+4.1 |
 
-|
+PCH sans précision |
 
-3.2.4
+4.2 |
 
-|
+PCH élément 1 |
 
-ACFP 20 %
+4.2.1 |
 
-|
+PCH élément 1 sans précision |
 
-3.2.5
+4.2.2 |
 
-|
+PCH élément 1/ Actes essentiels |
 
-ACFP 25 %
+4.2.3 |
 
-|
+PCH élément 1/ Entretien personnel |
 
-3.2.6
+4.2.4 |
 
-|
+PCH élément 1/ Déplacements |
 
-ACFP 30 %
+4.2.5 |
 
-|
+PCH élément 1/ Participation à la vie sociale |
 
-3.2.7
+4.2.6 |
 
-|
+PCH élément 1/ Besoins éducatifs |
 
-ACFP 35 %
+4.2.7 |
 
-|
+PCH élément 1/ Surveillance |
 
-3.2.8
+4.2.8 |
 
-|
+PCH élément 1/ Surveillance régulière |
 
-ACFP 40 %
+4.2.9 |
 
-|
+PCH élément 1/ Combinaison aide et surveillance seule |
 
-3.2.9
+4.2.10 |
 
-|
+PCH élément 1/ Combinaison aide totale et présence constante |
 
-ACFP 45 %
+4.2.11 |
 
-|
+PCH élément 1/ Frais professionnels ou fonctions électives |
 
-3.2.10
+4.2.12 |
 
-|
+PCH élément 1/ Forfait cécité |
 
-ACFP 50 %
+4.2.13 |
 
-|
+PCH élément 1/ Forfait surdité |
 
-3.2.11
+4.3 |
 
-|
+PCH élément 2/ Aides techniques |
 
-ACFP 55 %
+4.3.1 |
 
-|
+PCH élément 2/ Aides techniques inscrites dans la LPP |
 
-3.2.12
+4.3.1.1 |
 
-|
+PCH élément 2/ Lits médicaux |
 
-ACFP 60 %
+4.3.1.2 |
 
-|
+PCH élément 2/ Accessoires de lits médicaux |
 
-3.2.13
+4.3.1.3 |
 
-|
+PCH élément 2/ Compresseur pour surmatelas pneumatique à air statique et à pression alternée |
 
-ACFP 65 %
+4.3.1.4 |
 
-|
+PCH élément 2/ Coussins d'aide à la prévention des escarres |
 
-3.2.14
+4.3.1.5 |
 
-|
+PCH élément 2/ Coussins ischiatiques sur mesure |
 
-ACFP 70 %
+4.3.1.6 |
 
-|
+PCH élément 2/ Accessoires pour coussins |
 
-3.2.15
+4.3.1.7 |
 
-|
+PCH élément 2/ Matelas ou sur matelas d'aide à la prévention d'escarres de classe I |
 
-ACFP 75 %
+4.3.1.8 |
 
-|
+PCH élément 2/ Accessoires de protection du matelas ou surmatelas |
 
-3.2.16
+4.3.1.9 |
 
-|
+PCH élément 2/ Appareil modulaire de verticalisation |
 
-ACFP 80 %
+4.3.1.10 |
 
-|
+PCH élément 2/ Cannes et béquilles |
 
-3.3
+4.3.1.11 |
 
-|
+PCH élément 2/ Coussins de série de positionnement des hanches et des genoux, pour patients polyhandicapés, en position allongée |
 
-Allocation compensatrice pour tierce personne (ACTP) sans précision
+4.3.1.12 |
 
-|
+PCH élément 2/ Déambulateurs et prestation de livraison |
 
-3.3.1
+4.3.1.13 |
 
-|
+PCH élément 2/ Fauteuil roulant à la location et prestation de livraison |
 
-ACTP 40 %
+4.3.1.14 |
 
-|
+PCH élément 2/ Sièges pouvant être adaptés sur un châssis à roulettes |
 
-3.3.2
+4.3.1.15 |
 
-|
+PCH élément 2/ Appareils destinés au soulèvement du malade |
 
-ACTP 45 %
+4.3.1.16 |
 
-|
+PCH élément 2/ Appareils divers d'aide à la vie |
 
-3.3.3
+4.3.1.17 |
 
-|
+PCH élément 2/ Appareils électroniques correcteurs de surdité pour les patients non atteints de cécité et dont la perte auditive est inférieure ou égale à 70 db |
 
-ACTP 50 %
+4.3.1.18 |
 
-|
+PCH élément 2/ Appareils électroniques correcteurs de surdité pour les patients non atteints de cécité et dont la perte auditive est supérieure à 70 db |
 
-3.3.4
+4.3.1.19 |
 
-|
+PCH élément 2/ Appareils électroniques correcteurs de surdité pour les patients jusqu'au 20e anniversaire ou atteints de cécité |
 
-ACTP 55 %
+4.3.1.20 |
 
-|
+PCH élément 2/ Fauteuils roulants à propulsion manuelle |
 
-3.3.5
+4.3.1.21 |
 
-|
+PCH élément 2/ Fauteuils roulants à propulsion par moteur électrique |
 
-ACTP 60 %
+4.3.1.22 |
 
-|
+PCH élément 2/ Fauteuils roulants verticalisateurs |
 
-3.3.6
+4.3.1.23 |
 
-|
+PCH élément 2/ Fauteuil roulant électrique monte-marches |
 
-ACTP 65 %
+4.3.1.24 |
 
-|
+PCH élément 2/ Poussettes et fauteuils roulants à pousser |
 
-3.3.7
+4.3.1.25 |
 
-|
+PCH élément 2/ Tricycles à propulsion manuelle ou podale |
 
-ACTP 70 %
+4.3.1.26 |
 
-|
+PCH élément 2/ Options et accessoires applicables aux fauteuils roulants |
 
-3.3.8
+4.3.1.27 |
 
-|
+PCH élément 2/ Options et accessoires applicables aux véhicules divers |
 
-ACTP 75 %
+4.3.1.28 |
 
-|
+PCH élément 2/ Aides visuelles optiques |
 
-3.3.9
+4.3.1.29 |
 
-|
+PCH élément 2/ Aides visuelle électroniques |
 
-ACTP 80 %
+4.3.1.30 |
 
-|
+PCH élément 2/ Autres aides techniques inscrites dans la LPP |
 
-4
+4.3.2 |
 
-|
+PCH élément 2/ Aides techniques non inscrites dans la LPP |
 
-Prestation de compensation (PCH)
+4.3.2.1 |
 
-|
+PCH élément 2/ Aides à la protection portées sur le corps |
 
-4.1
+4.3.2.2 |
 
-|
+PCH élément 2/ Aides à l'habillage et au déshabillage |
 
-PCH sans précision
+4.3.2.3 |
 
-|
+PCH élément 2/ Aides à l'hygiène |
 
-4.2
+4.3.2.4 |
 
-|
+PCH élément 2/ Aides permettant de se laver, se baigner et se doucher |
 
-PCH élément 1
+4.3.2.5 |
 
-|
+PCH élément 2/ Cyclomoteurs et motocyclettes |
 
-4.2.1
+4.3.2.6 |
 
-|
+PCH élément 2/ Cycles |
 
-PCH élément 1 sans précision
+4.3.2.7 |
 
-|
+PCH élément 2/ Accessoires de fauteuils roulants |
 
-4.2.2
+4.3.2.8 |
 
-|
+PCH élément 2/ Aides au transfert |
 
-PCH élément 1/ Actes essentiels
+4.3.2.9 |
 
-|
+PCH élément 2/ Aides à la préparation de la nourriture et des boissons |
 
-4.2.3
+4.3.2.10 |
 
-|
+PCH élément 2/ Aides pour manger et boire |
 
-PCH élément 1/ Entretien personnel
+4.3.2.11 |
 
-|
+PCH élément 2/ Tables |
 
-4.2.4
+4.3.2.12 |
 
-|
+PCH élément 2/ Mobilier d'assise (surcoût) |
 
-PCH élément 1/ Déplacements
+4.3.2.13 |
 
-|
+PCH élément 2/ Aides pour régler la hauteur du mobilier |
 
-4.2.5
+4.3.2.14 |
 
-|
+PCH élément 2/ Equipement de sécurité pour la maison et autres locaux |
 
-PCH élément 1/ Participation à la vie sociale
+4.3.2.15 |
 
-|
+PCH élément 2/ Aides optiques |
 
-4.2.6
+4.3.2.16 |
 
-|
+PCH élément 2/ Dispositifs de sortie pour ordinateurs, machine à écrire et équipement électronique |
 
-PCH élément 1/ Besoins éducatifs
+4.3.2.17 |
 
-|
+PCH élément 2/ Machines à écrire et de traitement de texte |
 
-4.2.7
+4.3.2.18 |
 
-|
+PCH élément 2/ Aides pour dessiner et écrire |
 
-PCH élément 1/ Surveillance
+4.3.2.19 |
 
-|
+PCH élément 2/ Aides à la lecture non optique |
 
-4.2.8
+4.3.2.20 |
 
-|
+PCH élément 2/ Téléphones et aides pour téléphoner |
 
-PCH élément 1/ Surveillance régulière
+4.3.2.21 |
 
-|
+PCH élément 2/ Aides à la communication face à face |
 
-4.2.9
+4.3.2.22 |
 
-|
+PCH élément 2/ Systèmes d'alarme |
 
-PCH élément 1/ Combinaison aide et surveillance seule
+4.3.2.23 |
 
-|
+PCH élément 2/ Aides pour compenser et/ ou remplacer la fonction du bras et/ ou de la main et/ ou des doigts |
 
-4.2.10
+4.3.2.24 |
 
-|
+PCH élément 2/ Aides à la saisie à distance |
 
-PCH élément 1/ Combinaison aide totale et présence constante
+4.3.2.25 |
 
-|
+PCH élément 2/ Aides pour porter et transporter |
 
-4.2.11
+4.3.2.26 |
 
-|
+PCH élément 2/ Autres aides techniques non inscrites dans la LPP et dans l'arrêté des tarifs (tarif = 75 % du prix) |
 
-PCH élément 1/ Frais professionnels ou fonctions électives
+4.4 |
 
-|
+PCH élément 3 |
 
-4.2.12
+4.4.1 |
 
-|
+PCH élément 3 sans précision |
 
-PCH élément 1/ Forfait cécité
+4.4.2 |
 
-|
+PCH élément 3/ Aménagement du logement |
 
-4.2.13
+4.4.2.1 |
 
-|
+PCH élément 3/ Aménagement du logement sans précision |
 
-PCH élément 1/ Forfait surdité
+4.4.2.2 |
 
-|
+PCH élément 3/ Aménagement accès extérieur |
 
-4.3
+4.4.2.3 |
 
-|
+PCH élément 3/ Aménagement circulations intérieures sans précision |
 
-PCH élément 2/ Aides techniques
+4.4.2.4 |
 
-|
+PCH élément 3/ Aménagement circulations intérieures horizontales |
 
-4.3.1
+4.4.2.5 |
 
-|
+PCH élément 3/ Aménagement circulations intérieures verticales |
 
-PCH élément 2/ Aides techniques inscrites dans la LPP
+4.4.2.6 |
 
-|
+PCH élément 3/ Aménagement chambre |
 
-4.3.1.1
+4.4.2.7 |
 
-|
+PCH élément 3/ Aménagement séjour |
 
-PCH élément 2/ Lits médicaux
+4.4.2.8 |
 
-|
+PCH élément 3/ Aménagement cuisine |
 
-4.3.1.2
+4.4.2.9 |
 
-|
+PCH élément 3/ Aménagement salle de bains |
 
-PCH élément 2/ Accessoires de lits médicaux
+4.4.2.10 |
 
-|
+PCH élément 3/ Aménagement toilettes |
 
-4.3.1.3
+4.4.2.11 |
 
-|
+PCH élément 3/ Aménagement pièce pour exercer une activité professionnelle ou de loisir |
 
-PCH élément 2/ Compresseur pour surmatelas pneumatique à air statique et à pression alternée
+4.4.2.12 |
 
-|
+PCH élément 3/ Autre pièce PCH |
 
-4.3.1.4
+4.4.2.13 |
 
-|
+PCH élément 3/ Domotique |
 
-PCH élément 2/ Coussins d'aide à la prévention des escarres
+4.4.2.14 |
 
-|
+PCH élément 3/ Extension |
 
-4.3.1.5
+4.4.2.15 |
 
-|
+PCH élément 3/ Construction neuve |
 
-PCH élément 2/ Coussins ischiatiques sur mesure
+4.4.2.16 |
 
-|
+PCH élément 3/ Déménagement |
 
-4.3.1.6
+4.4.3 |
 
-|
+PCH élément 3/ Aménagement du véhicule |
 
-PCH élément 2/ Accessoires pour coussins
+4.4.3.1 |
 
-|
+PCH élément 3/ Aménagements du véhicule sans précision |
 
-4.3.1.7
+4.4.3.2 |
 
-|
+PCH élément 3/ Aménagement du poste de conduite |
 
-PCH élément 2/ Matelas ou sur matelas d'aide à la prévention d'escarres de classe I
+4.4.3.3 |
 
-|
+PCH élément 3/ Aménagement du poste passager |
 
-4.3.1.8
+4.4.3.4 |
 
-|
+PCH élément 3/ Autres aménagements du véhicule |
 
-PCH élément 2/ Accessoires de protection du matelas ou surmatelas
+4.4.4 |
 
-|
+PCH élément 3/ Surcoûts liés au transport |
 
-4.3.1.9
+4.5 |
 
-|
+PCH élément 4 |
 
-PCH élément 2/ Appareil modulaire de verticalisation
+4.5.1 |
 
-|
+PCH élément 4 sans précision |
 
-4.3.1.10
+4.5.2 |
 
-|
+PCH élément 4/ Aides spécifiques |
 
-PCH élément 2/ Cannes et béquilles
+4.5.3 |
 
-|
+PCH élément 4/ Aides exceptionnelles |
 
-4.3.1.11
+4.6 |
 
-|
+PCH élément 5/ Aides animalières |
 
-PCH élément 2/ Coussins de série de positionnement des hanches et des genoux, pour patients polyhandicapés, en position allongée
+5 |
 
-|
+Reconnaissance de la qualité de travailleur handicapé (RQTH) |
 
-4.3.1.12
+5.1 |
 
-|
+Reconnaissance de la qualité de travailleur handicapé (RQTH) |
 
-PCH élément 2/ Déambulateurs et prestation de livraison
+6 |
 
-|
+Carte d'invalidité ou de priorité |
 
-4.3.1.13
+6.1 |
 
-|
+Carte de priorité |
 
-PCH élément 2/ Fauteuil roulant à la location et prestation de livraison
+6.2 |
 
-|
+Carte d'invalidité |
 
-4.3.1.14
+6.2.1 |
 
-|
+Carte d'invalidité sans précision |
 
-PCH élément 2/ Sièges pouvant être adaptés sur un châssis à roulettes
+6.2.2 |
 
-|
+Carte d'invalidité sans mention |
 
-4.3.1.15
+6.2.3 |
 
-|
+Carte d'invalidité avec mention besoin d'accompagnement |
 
-PCH élément 2/ Appareils destinés au soulèvement du malade
+6.2.4 |
 
-|
+Carte d'invalidité avec mention besoin d'accompagnement et cécité |
 
-4.3.1.16
+7 |
 
-|
+Carte de stationnement |
 
-PCH élément 2/ Appareils divers d'aide à la vie
+7.1 |
 
-|
+Carte de stationnement |
 
-4.3.1.17
+8 |
 
-|
+Affiliation à l'assurance vieillesse des parents au foyer |
 
-PCH élément 2/ Appareils électroniques correcteurs de surdité pour les patients non atteints de cécité et dont la perte auditive est inférieure ou égale à 70 db
+8.1 |
 
-|
+Affiliation à l'assurance vieillesse des parents au foyer |
 
-4.3.1.18
+9 |
 
-|
+Orientation et accompagnement vers un dispositif jeune |
 
-PCH élément 2/ Appareils électroniques correcteurs de surdité pour les patients non atteints de cécité et dont la perte auditive est supérieure à 70 db
+9.1 |
 
-|
+Orientation vers un dispositif jeune sans précision |
 
-4.3.1.19
+9.2 |
 
-|
+Orientation vers un dispositif médico-social jeune |
 
-PCH élément 2/ Appareils électroniques correcteurs de surdité pour les patients jusqu'au 20e anniversaire ou atteints de cécité
+9.2.1 |
 
-|
+Accueil médico-social de jour enfant |
 
-4.3.1.20
+9.2.1.1 |
 
-|
+Accueil médico-social de jour enfant sans précision |
 
-PCH élément 2/ Fauteuils roulants à propulsion manuelle
+9.2.1.2 |
 
-|
+Institut médico-éducatif (IME) |
 
-4.3.1.21
+9.2.1.2.1 |
 
-|
+IME pour déficience intellectuelle sans précision |
 
-PCH élément 2/ Fauteuils roulants à propulsion par moteur électrique
+9.2.1.2.2 |
 
-|
+IME pour enfant polyhandicapé |
 
-4.3.1.22
+9.2.1.2.3 |
 
-|
+IME section d'éducation pour enfants avec handicaps associés (SEHA) |
 
-PCH élément 2/ Fauteuils roulants verticalisateurs
+9.2.1.2.4 |
 
-|
+IME section d'éducation et d'enseignement spécialisés (SEES) |
 
-4.3.1.23
+9.2.1.2.5 |
 
-|
+IME section d'initiation et de première formation professionnelle (SIPFPro) |
 
-PCH élément 2/ Fauteuil roulant électrique monte-marches
+9.2.1.3 |
 
-|
+Institut d'éducation motrice (IEM) |
 
-4.3.1.24
+9.2.1.3.1 |
 
-|
+IEM sans précision |
 
-PCH élément 2/ Poussettes et fauteuils roulants à pousser
+9.2.1.3.2 |
 
-|
+IEM sections de préparation à la vie sociale (SPVS) |
 
-4.3.1.25
+9.2.1.3.3 |
 
-|
+IEM section d'éducation pour enfants avec handicaps associés (SEHA) |
 
-PCH élément 2/ Tricycles à propulsion manuelle ou podale
+9.2.1.3.4 |
 
-|
+IEM section d'éducation et d'enseignement spécialisés (SEES) |
 
-4.3.1.26
+9.2.1.3.5 |
 
-|
+IEM section d'initiation et de première formation professionnelle (SIPFPro) |
 
-PCH élément 2/ Options et accessoires applicables aux fauteuils roulants
+9.2.1.4 |
 
-|
+Institut d'éducation sensorielle (IES) |
 
-4.3.1.27
+9.2.1.4.1 |
 
-|
+IES sans précision |
 
-PCH élément 2/ Options et accessoires applicables aux véhicules divers
+9.2.1.4.2 |
 
-|
+IES section d'éducation et d'enseignement spécialisés (SEES) déficience auditive |
 
-4.3.1.28
+9.2.1.4.3 |
 
-|
+IES section d'éducation et d'enseignement spécialisés (SEES) déficience visuelle |
 
-PCH élément 2/ Aides visuelles optiques
+9.2.1.4.4 |
 
-|
+IES section d'éducation pour enfants avec handicaps associés (SEHA) déficience auditive |
 
-4.3.1.29
+9.2.1.4.5 |
 
-|
+IES section d'éducation pour enfants avec handicaps associés (SEHA) déficience visuelle |
 
-PCH élément 2/ Aides visuelle électroniques
+9.2.1.4.6 |
 
-|
+IES section d'initiation et de première formation professionnelle (SIPFPro) déficience auditive |
 
-4.3.1.30
+9.2.1.4.7 |
 
-|
+IES section d'initiation et de première formation professionnelle (SIPFPro) déficience visuelle |
 
-PCH élément 2/ Autres aides techniques inscrites dans la LPP
+9.2.1.5 |
 
-|
+Institut éducatif, thérapeutique et pédagogique (ITEP) |
 
-4.3.2
+9.2.2 |
 
-|
+Accompagnement médico-social de jour enfant |
 
-PCH élément 2/ Aides techniques non inscrites dans la LPP
+9.2.2.1 |
 
-|
+Accompagnement médico-social de jour enfant sans précision |
 
-4.3.2.1
+9.2.2.2 |
 
-|
+Service d'éducation spéciale et de soins à domicile (SESSAD) |
 
-PCH élément 2/ Aides à la protection portées sur le corps
+9.2.2.2.1 |
 
-|
+SESSAD polyvalent |
 
-4.3.2.2
+9.2.2.2.2 |
 
-|
+SESSAD pour déficience intellectuelle |
 
-PCH élément 2/ Aides à l'habillage et au déshabillage
+9.2.2.2.3 |
 
-|
+SESSAD pour déficience motrice |
 
-4.3.2.3
+9.2.2.2.4 |
 
-|
+SESSAD pour troubles du comportement |
 
-PCH élément 2/ Aides à l'hygiène
+9.2.2.3 |
 
-|
+Service d'accompagnement familial et d'éducation précoce (SAFEP) déficience auditive |
 
-4.3.2.4
+9.2.2.4 |
 
-|
+Service d'accompagnement familial et d'éducation précoce (SAFEP) déficience visuelle |
 
-PCH élément 2/ Aides permettant de se laver, se baigner et se doucher
+9.2.2.5 |
 
-|
+Service de soutien à l'éducation familiale et à l'intégration scolaire (SSEFIS) |
 
-4.3.2.5
+9.2.2.6 |
 
-|
+Service d'aide à l'acquisition de l'autonomie et à l'intégration scolaire (SAAAIS) |
 
-PCH élément 2/ Cyclomoteurs et motocyclettes
+9.2.2.7 |
 
-|
+Service de soins et d'aide à domicile (SSAD) |
 
-4.3.2.6
+9.2.3 |
 
-|
+Hébergement |
 
-PCH élément 2/ Cycles
+9.2.3.1 |
 
-|
+Hébergement médico-social de nuit enfant |
 
-4.3.2.7
+9.2.3.2 |
 
-|
+Internat médico-social |
 
-PCH élément 2/ Accessoires de fauteuils roulants
+9.2.3.3 |
 
-|
+Centre d'accueil familial spécialisé (CAFS) |
 
-4.3.2.8
+9.2.3.4 |
 
-|
+Institut médico-éducatif (IME) |
 
-PCH élément 2/ Aides au transfert
+9.2.3.4.1 |
 
-|
+IME pour déficience intellectuelle sans précision |
 
-4.3.2.9
+9.2.3.4.2 |
 
-|
+IME pour enfant polyhandicapé |
 
-PCH élément 2/ Aides à la préparation de la nourriture et des boissons
+9.2.3.4.3 |
 
-|
+IME Section d'éducation pour enfants avec handicaps associés (SEHA) |
 
-4.3.2.10
+9.2.3.4.4 |
 
-|
+IME Section d'éducation et d'enseignement spécialisés (SEES) |
 
-PCH élément 2/ Aides pour manger et boire
+9.2.3.4.5 |
 
-|
+IME Section d'initiation et de première formation professionnelle (SIPFPro) |
 
-4.3.2.11
+9.2.3.5 |
 
-|
+Institut d'éducation motrice (IEM) |
 
-PCH élément 2/ Tables
+9.2.3.5.1 |
 
-|
+IEM sans précision |
 
-4.3.2.12
+9.2.3.5.2 |
 
-|
+IEM sections de préparation à la Vie Sociale (SPVS) |
 
-PCH élément 2/ Mobilier d'assise (surcoût)
+9.2.3.5.3 |
 
-|
+IEM section d'éducation pour enfants avec handicaps associés (SEHA) |
 
-4.3.2.13
+9.2.3.5.4 |
 
-|
+IEM section d'éducation et d'enseignement spécialisés (SEES) |
 
-PCH élément 2/ Aides pour régler la hauteur du mobilier
+9.2.3.5.5 |
 
-|
+IEM section d'initiation et de première formation professionnelle (SIPFPro) |
 
-4.3.2.14
+9.2.3.6 |
 
-|
+Institut d'éducation sensorielle (IES) |
 
-PCH élément 2/ Equipement de sécurité pour la maison et autres locaux
+9.2.3.6.1 |
 
-|
+IES sans précision |
 
-4.3.2.15
+9.2.3.6.2 |
 
-|
+IES section d'éducation et d'enseignement spécialisés (SEES) déficience auditive |
 
-PCH élément 2/ Aides optiques
+9.2.3.6.3 |
 
-|
+IES section d'éducation et d'enseignement spécialisés (SEES) déficience visuelle |
 
-4.3.2.16
+9.2.3.6.4 |
 
-|
+IES section d'éducation pour enfants avec handicaps associés (SEHA) déficience auditive |
 
-PCH élément 2/ Dispositifs de sortie pour ordinateurs, machine à écrire et équipement électronique
+9.2.3.6.5 |
 
-|
+IES section d'éducation pour enfants avec handicaps associés (SEHA) déficience visuelle |
 
-4.3.2.17
+9.2.3.6.6 |
 
-|
+IES section d'initiation et de première formation professionnelle (SIPFPro) déficience auditive |
 
-PCH élément 2/ Machines à écrire et de traitement de texte
+9.2.3.6.7 |
 
-|
+IES section d'initiation et de première formation professionnelle (SIPFPro) déficience visuelle |
 
-4.3.2.18
+9.2.3.7 |
 
-|
+Institut éducatif, thérapeutique et pédagogique (ITEP) |
 
-PCH élément 2/ Aides pour dessiner et écrire
+9.3 |
 
-|
+Préconisation vers un dispositif jeune |
 
-4.3.2.19
+9.3.1 |
 
-|
+Centre d'action médico sociale précoce (CAMSP) |
 
-PCH élément 2/ Aides à la lecture non optique
+9.3.2 |
 
-|
+CAMSP polyvalents |
 
-4.3.2.20
+9.3.3 |
 
-|
+CAMSP spécialisés |
 
-PCH élément 2/ Téléphones et aides pour téléphoner
+9.3.4 |
 
-|
+Centre médico-psycho-pédagogique (CMPP) |
 
-4.3.2.21
+9.3.5 |
 
-|
+Bureau d'aide psychologique universitaire (BAPU) |
 
-PCH élément 2/ Aides à la communication face à face
+9.4 |
 
-|
+Scolarité |
 
-4.3.2.22
+9.4.1 |
 
-|
+Accueil en milieu scolaire ordinaire |
 
-PCH élément 2/ Systèmes d'alarme
+9.4.2 |
 
-|
+Classe ordinaire de 1er degré |
 
-4.3.2.23
+9.4.2.1 |
 
-|
+Classe préélémentaire |
 
-PCH élément 2/ Aides pour compenser et/ ou remplacer la fonction du bras et/ ou de la main et/ ou des doigts
+9.4.2.2 |
 
-|
+Classe élémentaire |
 
-4.3.2.24
+9.4.3 |
 
-|
+Classe ordinaire de 2e degré |
 
-PCH élément 2/ Aides à la saisie à distance
+9.4.3.1 |
 
-|
+Collège |
 
-4.3.2.25
+9.4.3.2 |
 
-|
+Lycée général ou technologique |
 
-PCH élément 2/ Aides pour porter et transporter
+9.4.3.3 |
 
-|
+Lycée général ou technologique avant terminale (2de-1re) |
 
-4.3.2.26
+9.4.3.4 |
 
-|
+Lycée général ou technologique terminale |
 
-PCH élément 2/ Autres aides techniques non inscrites dans la LPP et dans l'arrêté des tarifs (tarif = 75 % du prix)
+9.4.3.5 |
 
-|
+Lycée professionnel |
 
-4.4
+9.4.3.6 |
 
-|
+Lycée professionnel CAP-BEP |
 
-PCH élément 3
+9.4.3.7 |
 
-|
+Lycée professionnel baccalauréat professionnel |
 
-4.4.1
+9.4.4 |
 
-|
+Enseignement supérieur |
 
-PCH élément 3 sans précision
+9.4.5 |
 
-|
+Enseignement par le CNED |
 
-4.4.2
+9.4.5.1 |
 
-|
+Enseignement à domicile par le CNED |
 
-PCH élément 3/ Aménagement du logement
+9.4.5.2 |
 
-|
+Enseignement à distance par le CNED |
 
-4.4.2.1
+9.4.6 |
 
-|
+Enseignement à domicile |
 
-PCH élément 3/ Aménagement du logement sans précision
+9.4.6.1 |
 
-|
+Enseignement à domicile par le SAPAD |
 
-4.4.2.2
+9.4.6.2 |
 
-|
+Enseignement à domicile autre |
 
-PCH élément 3/ Aménagement accès extérieur
+9.4.7 |
 
-|
+Classe pour l'inclusion scolaire (CLIS) |
 
-4.4.2.3
+9.4.7.1 |
 
-|
+CLIS 1 |
 
-PCH élément 3/ Aménagement circulations intérieures sans précision
+9.4.7.2 |
 
-|
+CLIS 2 |
 
-4.4.2.4
+9.4.7.3 |
 
-|
+CLIS 3 |
 
-PCH élément 3/ Aménagement circulations intérieures horizontales
+9.4.7.4 |
 
-|
+CLIS 4 |
 
-4.4.2.5
+9.4.8 |
 
-|
+Unité localisée pour l'inclusion scolaire (ULIS) |
 
-PCH élément 3/ Aménagement circulations intérieures verticales
+9.4.8.10 |
 
-|
+ULIS TFC |
 
-4.4.2.6
+9.4.8.11 |
 
-|
+ULIS TFC/ Collège |
 
-PCH élément 3/ Aménagement chambre
+9.4.8.12 |
 
-|
+ULIS TFC/ Lycée général ou technologique |
 
-4.4.2.7
+9.4.8.13 |
 
-|
+ULIS TFC/ Lycée général ou technologique avant terminale (2de-1re) |
 
-PCH élément 3/ Aménagement séjour
+9.4.8.14 |
 
-|
+ULIS TFC/ Lycée général ou technologique terminale |
 
-4.4.2.8
+9.4.8.15 |
 
-|
+ULIS TFC/ Lycée professionnel |
 
-PCH élément 3/ Aménagement cuisine
+9.4.8.16 |
 
-|
+ULIS TFC/ Lycée professionnel CAP-BEP |
 
-4.4.2.9
+9.4.8.17 |
 
-|
+ULIS TFC/ Lycée professionnel baccalauréat professionnel |
 
-PCH élément 3/ Aménagement salle de bains
+9.4.8.20 |
 
-|
+ULIS TED |
 
-4.4.2.10
+9.4.8.21 |
 
-|
+ULIS TED/ Collège |
 
-PCH élément 3/ Aménagement toilettes
+9.4.8.22 |
 
-|
+ULIS TED/ Lycée général ou technologique |
 
-4.4.2.11
+9.4.8.23 |
 
-|
+ULIS TED/ Lycée général ou technologique avant terminale (2nde-1re) |
 
-PCH élément 3/ Aménagement pièce pour exercer une activité professionnelle ou de loisir
+9.4.8.24 |
 
-|
+ULIS TED/ Lycée général ou technologique terminale |
 
-4.4.2.12
+9.4.8.25 |
 
-|
+ULIS TED/ Lycée professionnel |
 
-PCH élément 3/ Autre pièce PCH
+9.4.8.26 |
 
-|
+ULIS TED/ Lycée professionnel CAP-BEP |
 
-4.4.2.13
+9.4.8.27 |
 
-|
+ULIS TED/ Lycée professionnel baccalauréat professionnel |
 
-PCH élément 3/ Domotique
+9.4.8.30 |
 
-|
+ULIS TFM |
 
-4.4.2.14
+9.4.8.31 |
 
-|
+ULIS TFM/ Collège |
 
-PCH élément 3/ Extension
+9.4.8.32 |
 
-|
+ULIS TFM/ Lycée général ou technologique |
 
-4.4.2.15
+9.4.8.33 |
 
-|
+ULIS TFM/ Lycée général ou technologique avant terminale (2nde-1re) |
 
-PCH élément 3/ Construction neuve
+9.4.8.34 |
 
-|
+ULIS TFM/ Lycée général ou technologique terminale |
 
-4.4.2.16
+9.4.8.35 |
 
-|
+ULIS TFM/ Lycée professionnel |
 
-PCH élément 3/ Déménagement
+9.4.8.36 |
 
-|
+ULIS TFM/ Lycée professionnel CAP-BEP |
 
-4.4.3
+9.4.8.37 |
 
-|
+ULIS TFM/ Lycée professionnel baccalauréat professionnel |
 
-PCH élément 3/ Aménagement du véhicule
+9.4.8.40 |
 
-|
+ULIS TFA |
 
-4.4.3.1
+9.4.8.41 |
 
-|
+ULIS TFA/ Collège |
 
-PCH élément 3/ Aménagements du véhicule sans précision
+9.4.8.42 |
 
-|
+ULIS TFA/ Lycée général ou technologique |
 
-4.4.3.2
+9.4.8.43 |
 
-|
+ULIS TFA/ Lycée général ou technologique avant terminale (2de-1re) |
 
-PCH élément 3/ Aménagement du poste de conduite
+9.4.8.44 |
 
-|
+ULIS TFA/ Lycée général ou technologique terminale |
 
-4.4.3.3
+9.4.8.45 |
 
-|
+ULIS TFA/ Lycée professionnel |
 
-PCH élément 3/ Aménagement du poste passager
+9.4.8.46 |
 
-|
+ULIS TFA/ Lycée professionnel CAP-BEP |
 
-4.4.3.4
+9.4.8.47 |
 
-|
+ULIS TFA/ Lycée professionnel baccalauréat professionnel |
 
-PCH élément 3/ Autres aménagements du véhicule
+9.4.8.50 |
 
-|
+ULIS TFV |
 
-4.4.4
+9.4.8.51 |
 
-|
+ULIS TFV/ Collège |
 
-PCH élément 3/ Surcoûts liés au transport
+9.4.8.52 |
 
-|
+ULIS TFV/ Lycée général ou technologique |
 
-4.5
+9.4.8.53 |
 
-|
+ULIS TFV/ Lycée général ou technologique avant terminale (2de-1re) |
 
-PCH élément 4
+9.4.8.54 |
 
-|
+ULIS TFV/ Lycée général ou technologique terminale |
 
-4.5.1
+9.4.8.55 |
 
-|
+ULIS TFV/ Lycée professionnel |
 
-PCH élément 4 sans précision
+9.4.8.56 |
 
-|
+ULIS TFV/ Lycée professionnel CAP-BEP |
 
-4.5.2
+9.4.8.57 |
 
-|
+ULIS TFV/ Lycée professionnel baccalauréat professionnel |
 
-PCH élément 4/ Aides spécifiques
+9.4.8.60 |
 
-|
+ULIS TMA |
 
-4.5.3
+9.4.8.61 |
 
-|
+ULIS TMA/ Collège |
 
-PCH élément 4/ Aides exceptionnelles
+9.4.8.62 |
 
-|
+ULIS TMA/ Lycée général ou technologique |
 
-4.6
+9.4.8.63 |
 
-|
+ULIS TMA/ Lycée général ou technologique avant terminale (2nde-1re) |
 
-PCH élément 5/ Aides animalières
+9.4.8.64 |
 
-|
+ULIS TMA/ Lycée général ou technologique terminale |
 
-5
+9.4.8.65 |
 
-|
+ULIS TMA/ Lycée professionnel |
 
-Reconnaissance de la qualité de travailleur handicapé (RQTH)
+9.4.8.66 |
 
-|
+ULIS TMA/ Lycée professionnel CAP-BEP |
 
-5.1
+9.4.8.67 |
 
-|
+ULIS TMA/ Lycée professionnel baccalauréat professionnel |
 
-Reconnaissance de la qualité de travailleur handicapé (RQTH)
+9.4.9 |
 
-|
+Centre de formation d'apprentis spécialisé (CFAS) |
 
-6
+9.4.10 |
 
-|
+Unité d'enseignement |
 
-Carte d'invalidité ou de priorité
+9.5 |
 
-|
+Aménagement et accompagnement pour la scolarité |
 
-6.1
+9.5.1 |
 
-|
+Matériel pédagogique |
 
-Carte de priorité
+9.5.1.1 |
 
-|
+Matériel pédagogique pour déficience visuelle |
 
-6.2
+9.5.1.2 |
 
-|
+Matériel pédagogique pour déficience auditive |
 
-Carte d'invalidité
+9.5.1.3 |
 
-|
+Matériel informatique et audiovisuel adapté |
 
-6.2.1
+9.5.1.4 |
 
-|
+Matériel pédagogique adapté autre |
 
-Carte d'invalidité sans précision
+9.5.2 |
 
-|
+Mobilier adapté |
 
-6.2.2
+9.5.3 |
 
-|
+Préconisation scolaire |
 
-Carte d'invalidité sans mention
+9.5.4 |
 
-|
+Avis d'aménagement des conditions d'examens ou de concours |
 
-6.2.3
+9.5.4.1 |
 
-|
+Avis d'aménagement des conditions d'examens ou de concours sans précision |
 
-Carte d'invalidité avec mention besoin d'accompagnement
+9.5.4.2 |
 
-|
+Avis d'aménagement des conditions d'examens ou de concours de l'enseignement scolaire ou supérieur |
 
-6.2.4
+9.5.4.3 |
 
-|
+Avis d'aménagement des conditions d'examens ou de concours hors l'enseignement scolaire ou supérieur |
 
-Carte d'invalidité avec mention besoin d'accompagnement et cécité
+9.5.5 |
 
-|
+Auxiliaire de vie scolaire |
 
-7
+9.6 |
 
-|
+Choix pour le parcours scolaire des jeunes sourds, d'un mode de communication |
 
-Carte de stationnement
+9.6.1 |
 
-|
+Communication bilingue : langue des signes et langue française |
 
-7.1
+9.6.2 |
 
-|
+Communication en langue française |
 
-Carte de stationnement
+9.7 |
 
-|
+Transport scolaire |
 
-8
+9.7.1 |
 
-|
+Transport scolaire sans précision |
 
-Affiliation à l'assurance vieillesse des parents au foyer
+9.7.2 |
 
-|
+Ambulance |
 
-8.1
+9.7.3 |
 
-|
+Véhicule sanitaire léger |
 
-Affiliation à l'assurance vieillesse des parents au foyer
+9.7.4 |
 
-|
+Véhicule aménagé |
 
-9
+9.7.5 |
 
-|
+Taxi |
 
-Orientation et accompagnement vers un dispositif jeune
+9.7.6 |
 
-|
+Véhicule de la famille |
 
-9.1
+9.7.7 |
 
-|
+Transport en commun |
 
-Orientation vers un dispositif jeune sans précision
+10 |
 
-|
+Orientation et accompagnement vers un dispositif adulte |
 
-9.2
+10.1 |
 
-|
+Orientation vers un dispositif médico-social adulte |
 
-Orientation vers un dispositif médico-social jeune
+10.1.1 |
 
-|
+Orientation vers un dispositif médico-social adulte sans précision |
 
-9.2.1
+10.1.2 |
 
-|
+Accueil médico-social de jour adulte sans précision |
 
-Accueil médico-social de jour enfant
+10.1.2.1 |
 
-|
+Accompagnement médico-social ambulatoire adulte |
 
-9.2.1.1
+10.1.2.2 |
 
-|
+Maison d'accueil spécialisée (MAS) |
 
-Accueil médico-social de jour enfant sans précision
+10.1.2.3 |
 
-|
+Foyer d'accueil médicalisé (FAM) |
 
-9.2.1.2
+10.1.2.4 |
 
-|
+Unité d'évaluation, de réentraînement et d'orientation socioprofessionnelle (UEROS) |
 
-Institut médico-éducatif (IME)
+10.1.2.5 |
 
-|
+Foyer de vie/ occupationnel |
 
-9.2.1.2.1
+10.1.3 |
 
-|
+Accompagnement médico-social de jour adulte |
 
-IME pour déficience intellectuelle sans précision
+10.1.3.1 |
 
-|
+Service d'accompagnement médico-social pour adultes handicapés (SAMSAH) |
 
-9.2.1.2.2
+10.1.3.2 |
 
-|
+Service d'accompagnement à la vie sociale (SAVS) |
 
-IME pour enfant polyhandicapé
+10.1.4 |
 
-|
+Hébergement médico-social de nuit adulte |
 
-9.2.1.2.3
+10.1.4.1 |
 
-|
+Maison d'accueil spécialisée (MAS) |
 
-IME section d'éducation pour enfants avec handicaps associés (SEHA)
+10.1.4.2 |
 
-|
+Foyer d'accueil Médicalisé (FAM) |
 
-9.2.1.2.4
+10.1.4.3 |
 
-|
+Unité d'évaluation, de réentraînement et d'orientation socioprofessionnelle (UEROS) |
 
-IME section d'éducation et d'enseignement spécialisés (SEES)
+10.1.4.4 |
 
-|
+Foyer de vie/ occupationnel |
 
-9.2.1.2.5
+10.1.4.5 |
 
-|
+Foyer d'hébergement pour personnes handicapées |
 
-IME section d'initiation et de première formation professionnelle (SIPFPro)
+10.1.4.6 |
 
-|
+Foyer d'hébergement pour personnes âgées |
 
-9.2.1.3
+10.2 |
 
-|
+Préconisation vers un dispositif médico-social adulte |
 
-Institut d'éducation motrice (IEM)
+10.2.1 |
 
-|
+Hébergement par accueillant familial à titre onéreux |
 
-9.2.1.3.1
+10.2.2 |
 
-|
+Hébergement par lieu de vie et d'accueil pour adultes |
 
-IEM sans précision
+10.2.3 |
 
-|
+Service de soins infirmier à domicile (SSIAD) |
 
-9.2.1.3.2
+10.2.4 |
 
-|
+Service d'aide et d'accompagnement à domicile (SAAD) |
 
-IEM sections de préparation à la vie sociale (SPVS)
+10.2.5 |
 
-|
+Services polyvalents de soins et d'aide à domicile (SPASAD) |
 
-9.2.1.3.3
+10.3 |
 
-|
+Orientation professionnelle |
 
-IEM section d'éducation pour enfants avec handicaps associés (SEHA)
+10.3.1 |
 
-|
+Orientation professionnelle sans précision |
 
-9.2.1.3.4
+10.3.2 |
 
-|
+Orientation professionnelle en milieu ordinaire |
 
-IEM section d'éducation et d'enseignement spécialisés (SEES)
+10.3.2.1 |
 
-|
+Centre de reclassement professionnel (CRP) |
 
-9.2.1.3.5
+10.3.2.2 |
 
-|
+Centre de préorientation (CPO) |
 
-IEM section d'initiation et de première formation professionnelle (SIPFPro)
+10.3.3 |
 
-|
+Orientation professionnelle en établissement et service d'aide par le travail (ESAT) |
 
-9.2.1.4
+10.3.4 |
 
-|
+Aide à l'insertion professionnelle |
 
-Institut d'éducation sensorielle (IES)
+10.3.4.1 |
 
-|
+Prime de reclassement |
 
-9.2.1.4.1
+10.3.4.2 |
 
-|
+Subvention d'installation |
 
-IES sans précision
+10.3.5 |
 
-|
+Centre de formation d'apprentis (CFA) |
 
-9.2.1.4.2
+10.3.6 |
 
-|
+Centre de formation d'apprentis spécialisé (CFAS) |
 
-IES section d'éducation et d'enseignement spécialisés (SEES) déficience auditive
+10.4 |
 
-|
+Préconisation pour l'insertion professionnelle |
 
-9.2.1.4.3
+10.4.1 |
 
-|
+Orientation vers un CAP Emploi |
 
-IES section d'éducation et d'enseignement spécialisés (SEES) déficience visuelle
+10.4.2 |
 
-|
+Entreprise adaptée |
 
-9.2.1.4.4
+10.4.3 |
 
-|
+Formation professionnelle |
 
-IES section d'éducation pour enfants avec handicaps associés (SEHA) déficience auditive
+10.4.3.1 |
 
-|
+Formation en milieu ordinaire |
 
-9.2.1.4.5
+10.4.3.2 |
 
-|
+Formation aménagée (par exemple tutorat) |
 
-IES section d'éducation pour enfants avec handicaps associés (SEHA) déficience visuelle
+10.4.3.3 |
 
-|
+Reclassement professionnel |
 
-9.2.1.4.6
+10.4.3.4 |
 
-|
+Aides humaines |
 
-IES section d'initiation et de première formation professionnelle (SIPFPro) déficience auditive
+10.4.3.5 |
 
-|
+Adaptation du poste de travail |
 
-9.2.1.4.7
+11 |
 
-|
+Autres préconisations |
 
-IES section d'initiation et de première formation professionnelle (SIPFPro) déficience visuelle
+11.1 |
 
-|
+Aides humaines |
 
-9.2.1.5
+11.1.1 |
 
-|
+Accompagnement pour la vie sociale (loisirs, sports, culture, vie associative, citoyenneté) |
 
-Institut éducatif, thérapeutique et pédagogique (ITEP)
+11.1.2 |
 
-|
+Aides à domicile pour la vie domestique |
 
-9.2.2
+11.1.3 |
 
-|
+Aides à la parentalité |
 
-Accompagnement médico-social de jour enfant
+11.1.4 |
 
-|
+Interprète en langue des signes française (LSF) |
 
-9.2.2.1
+11.1.5 |
 
-|
+Codeur en langage parlé complété (LPC) |
 
-Accompagnement médico-social de jour enfant sans précision
+11.1.6 |
 
-|
+Autre dispositif de communication adapté nécessitant une aide humaine |
 
-9.2.2.2
+11.2 |
 
-|
+Aides techniques (hors prestation de compensation) |
 
-Service d'éducation spéciale et de soins à domicile (SESSAD)
+11.3 |
 
-|
+Logement |
 
-9.2.2.2.1
+11.3.1 |
 
-|
+Aménagement du logement |
 
-SESSAD polyvalent
+11.3.2 |
 
-|
+Recherche de logement adapté |
 
-9.2.2.2.2
+11.3.3 |
 
-|
+Logement supervisé |
 
-SESSAD pour déficience intellectuelle
+11.3.4 |
 
-|
+Logement regroupé |
 
-9.2.2.2.3
+11.4 |
 
-|
+Préconisation pour autres éléments de vie sociale |
 
-SESSAD pour déficience motrice
+11.4.1 |
 
-|
+Crèche |
 
-9.2.2.2.4
+11.4.2 |
 
-|
+Jardin d'enfant spécialisé |
 
-SESSAD pour troubles du comportement
+11.4.3 |
 
-|
+Assistante maternelle agréée |
 
-9.2.2.3
+11.4.4 |
 
-|
+Centre de loisirs |
 
-Service d'accompagnement familial et d'éducation précoce (SAFEP) déficience auditive
+11.4.5 |
 
-|
+Centre de loisirs adapté |
 
-9.2.2.4
+11.4.6 |
 
-|
+Autres loisirs |
 
-Service d'accompagnement familial et d'éducation précoce (SAFEP) déficience visuelle
+11.4.7 |
 
-|
+Citoyenneté |
 
-9.2.2.5
+11.4.8 |
 
-|
+Culture |
 
-Service de soutien à l'éducation familiale et à l'intégration scolaire (SSEFIS)
+11.4.9 |
 
-|
+Sport adapté |
 
-9.2.2.6
+11.4.10 |
 
-|
+Vacances adaptées |
 
-Service d'aide à l'acquisition de l'autonomie et à l'intégration scolaire (SAAAIS)
+11.4.11 |
 
-|
+Permis de conduire adapté |
 
-9.2.2.7
+11.5 |
 
-|
+Autres accompagnements |
 
-Service de soins et d'aide à domicile (SSAD)
+11.5.1 |
 
-|
+Groupe d'entraide mutuelle (GEM) |
 
-9.2.3
+11.5.2 |
 
-|
+Soutien psychologique |
 
-Hébergement
+11.6 |
 
-|
+Soins |
 
-9.2.3.1
+11.6.1 |
 
-|
+Garde de nuit |
 
-Hébergement médico-social de nuit enfant
+11.6.2 |
 
-|
+Hospitalisation à domicile (HAD) |
 
-9.2.3.2
+11.6.3 |
 
-|
+Hébergement par accueil familial thérapeutique |
 
-Internat médico-social
+11.6.4 |
 
-|
+Hospitalisation pour soins psychiatriques complète |
 
-9.2.3.3
+11.6.5 |
 
-|
+Hospitalisation pour soins somatiques complète |
 
-Centre d'accueil familial spécialisé (CAFS)
+11.6.6 |
 
-|
+Hospitalisation pour soins psychiatriques de jour |
 
-9.2.3.4
+11.6.7 |
 
-|
+Hospitalisation pour soins somatiques de jour |
 
-Institut médico-éducatif (IME)
+11.6.8 |
 
-|
+Hospitalisation pour soins psychiatriques de nuit |
 
-9.2.3.4.1
+11.6.9 |
 
-|
+Hospitalisation pour soins somatiques de nuit |
 
-IME pour déficience intellectuelle sans précision
+11.6.10 |
 
-|
+Suivi ambulatoire |
 
-9.2.3.4.2
+11.6.11 |
 
-|
+Centre médico-psychologique (CMP) |
 
-IME pour enfant polyhandicapé
+11.6.12 |
 
-|
+Centre de référence maladies rares |
 
-9.2.3.4.3
+11.6.13 |
 
-|
+Consultation autres spécialités |
 
-IME Section d'éducation pour enfants avec handicaps associés (SEHA)
+11.6.14 |
 
-|
+Centre de référence des troubles du langage |
 
-9.2.3.4.4
+11.7 |
 
-|
+Protection juridique |
 
-IME Section d'éducation et d'enseignement spécialisés (SEES)
+11.7.1 |
 
-|
+Autres mesures de protection juridique |
 
-9.2.3.4.5
+11.7.2 |
 
-|
+Curatelle |
 
-IME Section d'initiation et de première formation professionnelle (SIPFPro)
+11.7.3 |
 
-|
+Tutelle |
 
-9.2.3.5
+11.8 |
 
-|
+Accès aux droits |
 
-Institut d'éducation motrice (IEM)
+11.8.1 |
 
-|
+Allocation de présence parentale |
 
-9.2.3.5.1
+11.8.2 |
 
-|
-
-IEM sans précision
-
-|
-
-9.2.3.5.2
-
-|
-
-IEM sections de préparation à la Vie Sociale (SPVS)
-
-|
-
-9.2.3.5.3
-
-|
-
-IEM section d'éducation pour enfants avec handicaps associés (SEHA)
-
-|
-
-9.2.3.5.4
-
-|
-
-IEM section d'éducation et d'enseignement spécialisés (SEES)
-
-|
-
-9.2.3.5.5
-
-|
-
-IEM section d'initiation et de première formation professionnelle (SIPFPro)
-
-|
-
-9.2.3.6
-
-|
-
-Institut d'éducation sensorielle (IES)
-
-|
-
-9.2.3.6.1
-
-|
-
-IES sans précision
-
-|
-
-9.2.3.6.2
-
-|
-
-IES section d'éducation et d'enseignement spécialisés (SEES) déficience auditive
-
-|
-
-9.2.3.6.3
-
-|
-
-IES section d'éducation et d'enseignement spécialisés (SEES) déficience visuelle
-
-|
-
-9.2.3.6.4
-
-|
-
-IES section d'éducation pour enfants avec handicaps associés (SEHA) déficience auditive
-
-|
-
-9.2.3.6.5
-
-|
-
-IES section d'éducation pour enfants avec handicaps associés (SEHA) déficience visuelle
-
-|
-
-9.2.3.6.6
-
-|
-
-IES section d'initiation et de première formation professionnelle (SIPFPro) déficience auditive
-
-|
-
-9.2.3.6.7
-
-|
-
-IES section d'initiation et de première formation professionnelle (SIPFPro) déficience visuelle
-
-|
-
-9.2.3.7
-
-|
-
-Institut éducatif, thérapeutique et pédagogique (ITEP)
-
-|
-
-9.3
-
-|
-
-Préconisation vers un dispositif jeune
-
-|
-
-9.3.1
-
-|
-
-Centre d'action médico sociale précoce (CAMSP)
-
-|
-
-9.3.2
-
-|
-
-CAMSP polyvalents
-
-|
-
-9.3.3
-
-|
-
-CAMSP spécialisés
-
-|
-
-9.3.4
-
-|
-
-Centre médico-psycho-pédagogique (CMPP)
-
-|
-
-9.3.5
-
-|
-
-Bureau d'aide psychologique universitaire (BAPU)
-
-|
-
-9.4
-
-|
-
-Scolarité
-
-|
-
-9.4.1
-
-|
-
-Accueil en milieu scolaire ordinaire
-
-|
-
-9.4.2
-
-|
-
-Classe ordinaire de 1er degré
-
-|
-
-9.4.2.1
-
-|
-
-Classe préélémentaire
-
-|
-
-9.4.2.2
-
-|
-
-Classe élémentaire
-
-|
-
-9.4.3
-
-|
-
-Classe ordinaire de 2e degré
-
-|
-
-9.4.3.1
-
-|
-
-Collège
-
-|
-
-9.4.3.2
-
-|
-
-Lycée général ou technologique
-
-|
-
-9.4.3.3
-
-|
-
-Lycée général ou technologique avant terminale (2de-1re)
-
-|
-
-9.4.3.4
-
-|
-
-Lycée général ou technologique terminale
-
-|
-
-9.4.3.5
-
-|
-
-Lycée professionnel
-
-|
-
-9.4.3.6
-
-|
-
-Lycée professionnel CAP-BEP
-
-|
-
-9.4.3.7
-
-|
-
-Lycée professionnel baccalauréat professionnel
-
-|
-
-9.4.4
-
-|
-
-Enseignement supérieur
-
-|
-
-9.4.5
-
-|
-
-Enseignement par le CNED
-
-|
-
-9.4.5.1
-
-|
-
-Enseignement à domicile par le CNED
-
-|
-
-9.4.5.2
-
-|
-
-Enseignement à distance par le CNED
-
-|
-
-9.4.6
-
-|
-
-Enseignement à domicile
-
-|
-
-9.4.6.1
-
-|
-
-Enseignement à domicile par le SAPAD
-
-|
-
-9.4.6.2
-
-|
-
-Enseignement à domicile autre
-
-|
-
-9.4.7
-
-|
-
-Classe pour l'inclusion scolaire (CLIS)
-
-|
-
-9.4.7.1
-
-|
-
-CLIS 1
-
-|
-
-9.4.7.2
-
-|
-
-CLIS 2
-
-|
-
-9.4.7.3
-
-|
-
-CLIS 3
-
-|
-
-9.4.7.4
-
-|
-
-CLIS 4
-
-|
-
-9.4.8
-
-|
-
-Unité localisée pour l'inclusion scolaire (ULIS)
-
-|
-
-9.4.8.10
-
-|
-
-ULIS TFC
-
-|
-
-9.4.8.11
-
-|
-
-ULIS TFC/ Collège
-
-|
-
-9.4.8.12
-
-|
-
-ULIS TFC/ Lycée général ou technologique
-
-|
-
-9.4.8.13
-
-|
-
-ULIS TFC/ Lycée général ou technologique avant terminale (2de-1re)
-
-|
-
-9.4.8.14
-
-|
-
-ULIS TFC/ Lycée général ou technologique terminale
-
-|
-
-9.4.8.15
-
-|
-
-ULIS TFC/ Lycée professionnel
-
-|
-
-9.4.8.16
-
-|
-
-ULIS TFC/ Lycée professionnel CAP-BEP
-
-|
-
-9.4.8.17
-
-|
-
-ULIS TFC/ Lycée professionnel baccalauréat professionnel
-
-|
-
-9.4.8.20
-
-|
-
-ULIS TED
-
-|
-
-9.4.8.21
-
-|
-
-ULIS TED/ Collège
-
-|
-
-9.4.8.22
-
-|
-
-ULIS TED/ Lycée général ou technologique
-
-|
-
-9.4.8.23
-
-|
-
-ULIS TED/ Lycée général ou technologique avant terminale (2nde-1re)
-
-|
-
-9.4.8.24
-
-|
-
-ULIS TED/ Lycée général ou technologique terminale
-
-|
-
-9.4.8.25
-
-|
-
-ULIS TED/ Lycée professionnel
-
-|
-
-9.4.8.26
-
-|
-
-ULIS TED/ Lycée professionnel CAP-BEP
-
-|
-
-9.4.8.27
-
-|
-
-ULIS TED/ Lycée professionnel baccalauréat professionnel
-
-|
-
-9.4.8.30
-
-|
-
-ULIS TFM
-
-|
-
-9.4.8.31
-
-|
-
-ULIS TFM/ Collège
-
-|
-
-9.4.8.32
-
-|
-
-ULIS TFM/ Lycée général ou technologique
-
-|
-
-9.4.8.33
-
-|
-
-ULIS TFM/ Lycée général ou technologique avant terminale (2nde-1re)
-
-|
-
-9.4.8.34
-
-|
-
-ULIS TFM/ Lycée général ou technologique terminale
-
-|
-
-9.4.8.35
-
-|
-
-ULIS TFM/ Lycée professionnel
-
-|
-
-9.4.8.36
-
-|
-
-ULIS TFM/ Lycée professionnel CAP-BEP
-
-|
-
-9.4.8.37
-
-|
-
-ULIS TFM/ Lycée professionnel baccalauréat professionnel
-
-|
-
-9.4.8.40
-
-|
-
-ULIS TFA
-
-|
-
-9.4.8.41
-
-|
-
-ULIS TFA/ Collège
-
-|
-
-9.4.8.42
-
-|
-
-ULIS TFA/ Lycée général ou technologique
-
-|
-
-9.4.8.43
-
-|
-
-ULIS TFA/ Lycée général ou technologique avant terminale (2de-1re)
-
-|
-
-9.4.8.44
-
-|
-
-ULIS TFA/ Lycée général ou technologique terminale
-
-|
-
-9.4.8.45
-
-|
-
-ULIS TFA/ Lycée professionnel
-
-|
-
-9.4.8.46
-
-|
-
-ULIS TFA/ Lycée professionnel CAP-BEP
-
-|
-
-9.4.8.47
-
-|
-
-ULIS TFA/ Lycée professionnel baccalauréat professionnel
-
-|
-
-9.4.8.50
-
-|
-
-ULIS TFV
-
-|
-
-9.4.8.51
-
-|
-
-ULIS TFV/ Collège
-
-|
-
-9.4.8.52
-
-|
-
-ULIS TFV/ Lycée général ou technologique
-
-|
-
-9.4.8.53
-
-|
-
-ULIS TFV/ Lycée général ou technologique avant terminale (2de-1re)
-
-|
-
-9.4.8.54
-
-|
-
-ULIS TFV/ Lycée général ou technologique terminale
-
-|
-
-9.4.8.55
-
-|
-
-ULIS TFV/ Lycée professionnel
-
-|
-
-9.4.8.56
-
-|
-
-ULIS TFV/ Lycée professionnel CAP-BEP
-
-|
-
-9.4.8.57
-
-|
-
-ULIS TFV/ Lycée professionnel baccalauréat professionnel
-
-|
-
-9.4.8.60
-
-|
-
-ULIS TMA
-
-|
-
-9.4.8.61
-
-|
-
-ULIS TMA/ Collège
-
-|
-
-9.4.8.62
-
-|
-
-ULIS TMA/ Lycée général ou technologique
-
-|
-
-9.4.8.63
-
-|
-
-ULIS TMA/ Lycée général ou technologique avant terminale (2nde-1re)
-
-|
-
-9.4.8.64
-
-|
-
-ULIS TMA/ Lycée général ou technologique terminale
-
-|
-
-9.4.8.65
-
-|
-
-ULIS TMA/ Lycée professionnel
-
-|
-
-9.4.8.66
-
-|
-
-ULIS TMA/ Lycée professionnel CAP-BEP
-
-|
-
-9.4.8.67
-
-|
-
-ULIS TMA/ Lycée professionnel baccalauréat professionnel
-
-|
-
-9.4.9
-
-|
-
-Centre de formation d'apprentis spécialisé (CFAS)
-
-|
-
-9.4.10
-
-|
-
-Unité d'enseignement
-
-|
-
-9.5
-
-|
-
-Aménagement et accompagnement pour la scolarité
-
-|
-
-9.5.1
-
-|
-
-Matériel pédagogique
-
-|
-
-9.5.1.1
-
-|
-
-Matériel pédagogique pour déficience visuelle
-
-|
-
-9.5.1.2
-
-|
-
-Matériel pédagogique pour déficience auditive
-
-|
-
-9.5.1.3
-
-|
-
-Matériel informatique et audiovisuel adapté
-
-|
-
-9.5.1.4
-
-|
-
-Matériel pédagogique adapté autre
-
-|
-
-9.5.2
-
-|
-
-Mobilier adapté
-
-|
-
-9.5.3
-
-|
-
-Préconisation scolaire
-
-|
-
-9.5.4
-
-|
-
-Avis d'aménagement des conditions d'examens ou de concours
-
-|
-
-9.5.4.1
-
-|
-
-Avis d'aménagement des conditions d'examens ou de concours sans précision
-
-|
-
-9.5.4.2
-
-|
-
-Avis d'aménagement des conditions d'examens ou de concours de l'enseignement scolaire ou supérieur
-
-|
-
-9.5.4.3
-
-|
-
-Avis d'aménagement des conditions d'examens ou de concours hors l'enseignement scolaire ou supérieur
-
-|
-
-9.5.5
-
-|
-
-Auxiliaire de vie scolaire
-
-|
-
-9.6
-
-|
-
-Choix pour le parcours scolaire des jeunes sourds, d'un mode de communication
-
-|
-
-9.6.1
-
-|
-
-Communication bilingue : langue des signes et langue française
-
-|
-
-9.6.2
-
-|
-
-Communication en langue française
-
-|
-
-9.7
-
-|
-
-Transport scolaire
-
-|
-
-9.7.1
-
-|
-
-Transport scolaire sans précision
-
-|
-
-9.7.2
-
-|
-
-Ambulance
-
-|
-
-9.7.3
-
-|
-
-Véhicule sanitaire léger
-
-|
-
-9.7.4
-
-|
-
-Véhicule aménagé
-
-|
-
-9.7.5
-
-|
-
-Taxi
-
-|
-
-9.7.6
-
-|
-
-Véhicule de la famille
-
-|
-
-9.7.7
-
-|
-
-Transport en commun
-
-|
-
-10
-
-|
-
-Orientation et accompagnement vers un dispositif adulte
-
-|
-
-10.1
-
-|
-
-Orientation vers un dispositif médico-social adulte
-
-|
-
-10.1.1
-
-|
-
-Orientation vers un dispositif médico-social adulte sans précision
-
-|
-
-10.1.2
-
-|
-
-Accueil médico-social de jour adulte sans précision
-
-|
-
-10.1.2.1
-
-|
-
-Accompagnement médico-social ambulatoire adulte
-
-|
-
-10.1.2.2
-
-|
-
-Maison d'accueil spécialisée (MAS)
-
-|
-
-10.1.2.3
-
-|
-
-Foyer d'accueil médicalisé (FAM)
-
-|
-
-10.1.2.4
-
-|
-
-Unité d'évaluation, de réentraînement et d'orientation socioprofessionnelle (UEROS)
-
-|
-
-10.1.2.5
-
-|
-
-Foyer de vie/ occupationnel
-
-|
-
-10.1.3
-
-|
-
-Accompagnement médico-social de jour adulte
-
-|
-
-10.1.3.1
-
-|
-
-Service d'accompagnement médico-social pour adultes handicapés (SAMSAH)
-
-|
-
-10.1.3.2
-
-|
-
-Service d'accompagnement à la vie sociale (SAVS)
-
-|
-
-10.1.4
-
-|
-
-Hébergement médico-social de nuit adulte
-
-|
-
-10.1.4.1
-
-|
-
-Maison d'accueil spécialisée (MAS)
-
-|
-
-10.1.4.2
-
-|
-
-Foyer d'accueil Médicalisé (FAM)
-
-|
-
-10.1.4.3
-
-|
-
-Unité d'évaluation, de réentraînement et d'orientation socioprofessionnelle (UEROS)
-
-|
-
-10.1.4.4
-
-|
-
-Foyer de vie/ occupationnel
-
-|
-
-10.1.4.5
-
-|
-
-Foyer d'hébergement pour personnes handicapées
-
-|
-
-10.1.4.6
-
-|
-
-Foyer d'hébergement pour personnes âgées
-
-|
-
-10.2
-
-|
-
-Préconisation vers un dispositif médico-social adulte
-
-|
-
-10.2.1
-
-|
-
-Hébergement par accueillant familial à titre onéreux
-
-|
-
-10.2.2
-
-|
-
-Hébergement par lieu de vie et d'accueil pour adultes
-
-|
-
-10.2.3
-
-|
-
-Service de soins infirmier à domicile (SSIAD)
-
-|
-
-10.2.4
-
-|
-
-Service d'aide et d'accompagnement à domicile (SAAD)
-
-|
-
-10.2.5
-
-|
-
-Services polyvalents de soins et d'aide à domicile (SPASAD)
-
-|
-
-10.3
-
-|
-
-Orientation professionnelle
-
-|
-
-10.3.1
-
-|
-
-Orientation professionnelle sans précision
-
-|
-
-10.3.2
-
-|
-
-Orientation professionnelle en milieu ordinaire
-
-|
-
-10.3.2.1
-
-|
-
-Centre de reclassement professionnel (CRP)
-
-|
-
-10.3.2.2
-
-|
-
-Centre de préorientation (CPO)
-
-|
-
-10.3.3
-
-|
-
-Orientation professionnelle en établissement et service d'aide par le travail (ESAT)
-
-|
-
-10.3.4
-
-|
-
-Aide à l'insertion professionnelle
-
-|
-
-10.3.4.1
-
-|
-
-Prime de reclassement
-
-|
-
-10.3.4.2
-
-|
-
-Subvention d'installation
-
-|
-
-10.3.5
-
-|
-
-Centre de formation d'apprentis (CFA)
-
-|
-
-10.3.6
-
-|
-
-Centre de formation d'apprentis spécialisé (CFAS)
-
-|
-
-10.4
-
-|
-
-Préconisation pour l'insertion professionnelle
-
-|
-
-10.4.1
-
-|
-
-Orientation vers un CAP Emploi
-
-|
-
-10.4.2
-
-|
-
-Entreprise adaptée
-
-|
-
-10.4.3
-
-|
-
-Formation professionnelle
-
-|
-
-10.4.3.1
-
-|
-
-Formation en milieu ordinaire
-
-|
-
-10.4.3.2
-
-|
-
-Formation aménagée (par exemple tutorat)
-
-|
-
-10.4.3.3
-
-|
-
-Reclassement professionnel
-
-|
-
-10.4.3.4
-
-|
-
-Aides humaines
-
-|
-
-10.4.3.5
-
-|
-
-Adaptation du poste de travail
-
-|
-
-11
-
-|
-
-Autres préconisations
-
-|
-
-11.1
-
-|
-
-Aides humaines
-
-|
-
-11.1.1
-
-|
-
-Accompagnement pour la vie sociale (loisirs, sports, culture, vie associative, citoyenneté)
-
-|
-
-11.1.2
-
-|
-
-Aides à domicile pour la vie domestique
-
-|
-
-11.1.3
-
-|
-
-Aides à la parentalité
-
-|
-
-11.1.4
-
-|
-
-Interprète en langue des signes française (LSF)
-
-|
-
-11.1.5
-
-|
-
-Codeur en langage parlé complété (LPC)
-
-|
-
-11.1.6
-
-|
-
-Autre dispositif de communication adapté nécessitant une aide humaine
-
-|
-
-11.2
-
-|
-
-Aides techniques (hors prestation de compensation)
-
-|
-
-11.3
-
-|
-
-Logement
-
-|
-
-11.3.1
-
-|
-
-Aménagement du logement
-
-|
-
-11.3.2
-
-|
-
-Recherche de logement adapté
-
-|
-
-11.3.3
-
-|
-
-Logement supervisé
-
-|
-
-11.3.4
-
-|
-
-Logement regroupé
-
-|
-
-11.4
-
-|
-
-Préconisation pour autres éléments de vie sociale
-
-|
-
-11.4.1
-
-|
-
-Crèche
-
-|
-
-11.4.2
-
-|
-
-Jardin d'enfant spécialisé
-
-|
-
-11.4.3
-
-|
-
-Assistante maternelle agréée
-
-|
-
-11.4.4
-
-|
-
-Centre de loisirs
-
-|
-
-11.4.5
-
-|
-
-Centre de loisirs adapté
-
-|
-
-11.4.6
-
-|
-
-Autres loisirs
-
-|
-
-11.4.7
-
-|
-
-Citoyenneté
-
-|
-
-11.4.8
-
-|
-
-Culture
-
-|
-
-11.4.9
-
-|
-
-Sport adapté
-
-|
-
-11.4.10
-
-|
-
-Vacances adaptées
-
-|
-
-11.4.11
-
-|
-
-Permis de conduire adapté
-
-|
-
-11.5
-
-|
-
-Autres accompagnements
-
-|
-
-11.5.1
-
-|
-
-Groupe d'entraide mutuelle (GEM)
-
-|
-
-11.5.2
-
-|
-
-Soutien psychologique
-
-|
-
-11.6
-
-|
-
-Soins
-
-|
-
-11.6.1
-
-|
-
-Garde de nuit
-
-|
-
-11.6.2
-
-|
-
-Hospitalisation à domicile (HAD)
-
-|
-
-11.6.3
-
-|
-
-Hébergement par accueil familial thérapeutique
-
-|
-
-11.6.4
-
-|
-
-Hospitalisation pour soins psychiatriques complète
-
-|
-
-11.6.5
-
-|
-
-Hospitalisation pour soins somatiques complète
-
-|
-
-11.6.6
-
-|
-
-Hospitalisation pour soins psychiatriques de jour
-
-|
-
-11.6.7
-
-|
-
-Hospitalisation pour soins somatiques de jour
-
-|
-
-11.6.8
-
-|
-
-Hospitalisation pour soins psychiatriques de nuit
-
-|
-
-11.6.9
-
-|
-
-Hospitalisation pour soins somatiques de nuit
-
-|
-
-11.6.10
-
-|
-
-Suivi ambulatoire
-
-|
-
-11.6.11
-
-|
-
-Centre médico-psychologique (CMP)
-
-|
-
-11.6.12
-
-|
-
-Centre de référence maladies rares
-
-|
-
-11.6.13
-
-|
-
-Consultation autres spécialités
-
-|
-
-11.6.14
-
-|
-
-Centre de référence des troubles du langage
-
-|
-
-11.7
-
-|
-
-Protection juridique
-
-|
-
-11.7.1
-
-|
-
-Autres mesures de protection juridique
-
-|
-
-11.7.2
-
-|
-
-Curatelle
-
-|
-
-11.7.3
-
-|
-
-Tutelle
-
-|
-
-11.8
-
-|
-
-Accès aux droits
-
-|
-
-11.8.1
-
-|
-
-Allocation de présence parentale
-
-|
-
-11.8.2
-
-|
-
-Accès aux autres droits (pension d'invalidité, maladie professionnelle, retraite anticipée...)
-
-|
+Accès aux autres droits (pension d'invalidité, maladie professionnelle, retraite anticipée...) |
 
 II. 19. TYPPROC Description : type de procédure lié à la demande.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Normale |
 
-1
+2 |
 
-|
-
-Normale
-
-|
-
-2
-
-|
-
-Urgente
-
-|
+Urgente |
 
 II. 20. INITACT Description : initiateur de l'action (demande, suivi...).
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Personne handicapée |
 
-1
+2 |
 
-|
+Président du conseil départemental |
 
-Personne handicapée
+3 |
 
-|
+Etablissement médico-social |
 
-2
+4 |
 
-|
+Etablissement scolaire |
 
-Président du conseil départemental
+5 |
 
-|
+Etablissement professionnel |
 
-3
+6 |
 
-|
+Caisse d'allocation familiale (CAF) |
 
-Etablissement médico-social
+7 |
 
-|
+Mutualité sociale agricole (MSA) |
 
-4
+8 |
 
-|
+Représentant légal |
 
-Etablissement scolaire
+9 |
 
-|
+Aidant |
 
-5
+10 |
 
-|
+Préfet |
 
-Etablissement professionnel
+11 |
 
-|
-
-6
-
-|
-
-Caisse d'allocation familiale (CAF)
-
-|
-
-7
-
-|
-
-Mutualité sociale agricole (MSA)
-
-|
-
-8
-
-|
-
-Représentant légal
-
-|
-
-9
-
-|
-
-Aidant
-
-|
-
-10
-
-|
-
-Préfet
-
-|
-
-11
-
-|
-
-Autre
-
-|
+Autre |
 
 II. 21. TATDEM Description : statut de la demande.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Déposé |
 
-1
+2 |
 
-|
+Recevable (lorsque la demande comprend toute les pièces obligatoires) |
 
-Déposé
+3 |
 
-|
+Recevable à compléter (demande de pièce complémentaire par la MDPH) |
 
-2
+4 |
 
-|
-
-Recevable (lorsque la demande comprend toute les pièces obligatoires)
-
-|
-
-3
-
-|
-
-Recevable à compléter (demande de pièce complémentaire par la MDPH)
-
-|
-
-4
-
-|
-
-Annulé
-
-|
+Annulé |
 
 II. 22. STATEVA Description : stade de l'évaluation.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+A faire |
 
-1
+2 |
 
-|
+En cours |
 
-A faire
+3 |
 
-|
-
-2
-
-|
-
-En cours
-
-|
-
-3
-
-|
-
-Conclusive
-
-|
+Conclusive |
 
 II. 23. MODEVAL Description : type de modalités d'évaluation.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Visite à domicile |
 
-1
+2 |
 
-|
+Analyse par l'équipe pluridisciplinaire |
 
-Visite à domicile
+3 |
 
-|
+Avis d'expert |
 
-2
+4 |
 
-|
+Bilan, document, compte rendu |
 
-Analyse par l'équipe pluridisciplinaire
+5 |
 
-|
-
-3
-
-|
-
-Avis d'expert
-
-|
-
-4
-
-|
-
-Bilan, document, compte rendu
-
-|
-
-5
-
-|
-
-Autre modalité
-
-|
+Autre modalité |
 
 II. 24. LIEUEVAL Description : lieu évaluation.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Domicile de la personne handicapée |
 
-1
+2 |
 
-|
+Maison départementale des personnes handicapées (MDPH) |
 
-Domicile de la personne handicapée
+3 |
 
-|
+Etablissement |
 
-2
+4 |
 
-|
-
-Maison départementale des personnes handicapées (MDPH)
-
-|
-
-3
-
-|
-
-Etablissement
-
-|
-
-4
-
-|
-
-Autre
-
-|
+Autre |
 
 II. 25. FONCPLURI Description : fonctions de l'équipe pluridisciplinaire.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Médecin généraliste |
 
-1
+2 |
 
-|
+Médecin de médecine physique et réadaptation (MPR) |
 
-Médecin généraliste
+3 |
 
-|
+Médecin du travail |
 
-2
+4 |
 
-|
+Psychiatre |
 
-Médecin de médecine physique et réadaptation (MPR)
+5 |
 
-|
+Autre médecin |
 
-3
+6 |
 
-|
+Infirmier (e) |
 
-Médecin du travail
+7 |
 
-|
+Ergothérapeute |
 
-4
+8 |
 
-|
+Autre paramédical |
 
-Psychiatre
+9 |
 
-|
+Psychologue |
 
-5
+10 |
 
-|
+Assistante sociale |
 
-Autre médecin
+11 |
 
-|
+Conseiller en économie sociale et familiale (CESF) |
 
-6
+12 |
 
-|
+Educateur spécialisé |
 
-Infirmier (e)
+13 |
 
-|
+Autre travailleur social |
 
-7
+14 |
 
-|
+Enseignant |
 
-Ergothérapeute
+15 |
 
-|
+Référent insertion professionnelle |
 
-8
+16 |
 
-|
+Personnel administratif |
 
-Autre paramédical
+17 |
 
-|
+Technicien du bâti |
 
-9
+18 |
 
-|
-
-Psychologue
-
-|
-
-10
-
-|
-
-Assistante sociale
-
-|
-
-11
-
-|
-
-Conseiller en économie sociale et familiale (CESF)
-
-|
-
-12
-
-|
-
-Educateur spécialisé
-
-|
-
-13
-
-|
-
-Autre travailleur social
-
-|
-
-14
-
-|
-
-Enseignant
-
-|
-
-15
-
-|
-
-Référent insertion professionnelle
-
-|
-
-16
-
-|
-
-Personnel administratif
-
-|
-
-17
-
-|
-
-Technicien du bâti
-
-|
-
-18
-
-|
-
-Autre
-
-|
+Autre |
 
 II. 26. TYPEQUIP Description : type d'appartenance.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Interne |
 
-1
+2 |
 
-|
-
-Interne
-
-|
-
-2
-
-|
-
-Externe
-
-|
+Externe |
 
 II. 27. TYPAID Description : type d'aide extérieure.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Intervenant isolé |
 
-1
+2 |
 
-|
+Equipe externe conventionnée |
 
-Intervenant isolé
+3 |
 
-|
+Centre de référence maladie rare |
 
-2
+4 |
 
-|
+Centre de ressource handicap |
 
-Equipe externe conventionnée
+5 |
 
-|
+L'opérateur France Travail et ses cotraitants (Cap emploi) |
 
-3
+6 |
 
-|
+établissement mentionné à l'article L. 5315-1 du code du travail |
 
-Centre de référence maladie rare
+7 |
 
-|
+Centre de préorientation professionnelle |
 
-4
+8 |
 
-|
-
-Centre de ressource handicap
-
-|
-
-5
-
-|
-
-Pôle emploi et ses cotraitants (Cap emploi)
-
-|
-
-6
-
-|
-
-établissement mentionné à l'article L. 5315-1 du code du travail
-
-|
-
-7
-
-|
-
-Centre de préorientation professionnelle
-
-|
-
-8
-
-|
-
-Autre
-
-|
+Autre |
 
 II. 28. COMPPC Description : formulation de commentaire sur le plan personnalisé de compensation.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Pas d'avis exprimé au bout du délai de quinze jours |
 
-1
+2 |
 
-|
+Avis global positif sans commentaire |
 
-Pas d'avis exprimé au bout du délai de quinze jours
+3 |
 
-|
+Avis global positif avec commentaire |
 
-2
+4 |
 
-|
-
-Avis global positif sans commentaire
-
-|
-
-3
-
-|
-
-Avis global positif avec commentaire
-
-|
-
-4
-
-|
-
-Avis global négatif
-
-|
+Avis global négatif |
 
 II. 29. STATPPC Description : statut du plan personnalisé de compensation.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+En cours d'élaboration |
 
-1
+2 |
 
-|
+Transmis à la personne handicapée |
 
-En cours d'élaboration
+3 |
 
-|
+Retour à la maison départementale des personnes handicapées par la personne handicapée |
 
-2
+4 |
 
-|
+Présenté à la Commission des droits et de l'autonomie des personnes handicapées (CDAPH) |
 
-Transmis à la personne handicapée
+5 |
 
-|
-
-3
-
-|
-
-Retour à la maison départementale des personnes handicapées par la personne handicapée
-
-|
-
-4
-
-|
-
-Présenté à la Commission des droits et de l'autonomie des personnes handicapées (CDAPH)
-
-|
-
-5
-
-|
-
-Mise à jour après décision CDAPH
-
-|
+Mise à jour après décision CDAPH |
 
 II. 30. TYPPROP Description : type de proposition.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Aide |
 
-1
+2 |
 
-|
+Orientation |
 
-Aide
+3 |
 
-|
-
-2
-
-|
-
-Orientation
-
-|
-
-3
-
-|
-
-Préconisation
-
-|
+Préconisation |
 
 II. 31. TYPPRECO Description : type de préconisation.
 
@@ -4128,944 +2080,492 @@ Cette nomenclature est identique à la nomenclature mentionnée au II. 17 : type
 
 II. 32. MOTPROP Description : proposition de décision de l'équipe pluri disciplinaire.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Rejet |
 
-1
+2 |
 
-|
-
-Rejet
-
-|
-
-2
-
-|
-
-Attribution
-
-|
+Attribution |
 
 II. 33. MODAL Description : modalité.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Frais |
 
-1
+2 |
 
-|
+ETP 20 % |
 
-Frais
+3 |
 
-|
+ETP 50 % |
 
-2
+4 |
 
-|
+ETP 20 % Frais |
 
-ETP 20 %
+5 |
 
-|
+ETP 100 % |
 
-3
+6 |
 
-|
+ETP 50 % Frais |
 
-ETP 50 %
+7 |
 
-|
+ETP 100 % Frais |
 
-4
+8 |
 
-|
+Présence permanente |
 
-ETP 20 % Frais
+9 |
 
-|
+Prestataire |
 
-5
+10 |
 
-|
+Mandataire |
 
-ETP 100 %
+11 |
 
-|
+Gré à gré |
 
-6
+12 |
 
-|
+Aidant familial avec renoncement |
 
-ETP 50 % Frais
+13 |
 
-|
+Aidant familial sans renoncement |
 
-7
+14 |
 
-|
+Forfait cécité |
 
-ETP 100 % Frais
+15 |
 
-|
+Forfait surdité |
 
-8
+16 |
 
-|
+Entretien personnel |
 
-Présence permanente
+17 |
 
-|
+Déplacement |
 
-9
+18 |
 
-|
+Participation vie sociale |
 
-Prestataire
+19 |
 
-|
-
-10
-
-|
-
-Mandataire
-
-|
-
-11
-
-|
-
-Gré à gré
-
-|
-
-12
-
-|
-
-Aidant familial avec renoncement
-
-|
-
-13
-
-|
-
-Aidant familial sans renoncement
-
-|
-
-14
-
-|
-
-Forfait cécité
-
-|
-
-15
-
-|
-
-Forfait surdité
-
-|
-
-16
-
-|
-
-Entretien personnel
-
-|
-
-17
-
-|
-
-Déplacement
-
-|
-
-18
-
-|
-
-Participation vie sociale
-
-|
-
-19
-
-|
-
-Participation vie familiale
-
-|
+Participation vie familiale |
 
 II. 34. QUANTTYP Description : type de quantification.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+-1 |
 
-|
+Non renseigné |
 
--1
+1 |
 
-|
+Hors contrainte de l'offre (HCO) |
 
-Non renseigné
+2 |
 
-|
-
-1
-
-|
-
-Hors contrainte de l'offre (HCO)
-
-|
-
-2
-
-|
-
-Sous contrainte de l'offre (SCO)
-
-|
+Sous contrainte de l'offre (SCO) |
 
 II. 35. QUANTCAR Description : caractérisation de la quantification.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Montant |
 
-1
+2 |
 
-|
+Durée |
 
-Montant
+3 |
 
-|
+Quotité |
 
-2
+4 |
 
-|
-
-Durée
-
-|
-
-3
-
-|
-
-Quotité
-
-|
-
-4
-
-|
-
-Nombre d'heures
-
-|
+Nombre d'heures |
 
 II. 36. TYPCDA Description : type de commission des droits et de l'autonomie.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Plénière |
 
-1
+2 |
 
-|
-
-Plénière
-
-|
-
-2
-
-|
-
-Simplifiée
-
-|
+Simplifiée |
 
 II. 37. TYPDEC Description : type de décision.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Attribution |
 
-1
+2 |
 
-|
+Rejet |
 
-Attribution
+3 |
 
-|
-
-2
-
-|
-
-Rejet
-
-|
-
-3
-
-|
-
-Sursis
-
-|
+Sursis |
 
 II. 38. MOTIDEC Description : motivation de la décision.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Taux incapacité |
 
-1
+2 |
 
-|
-
-Taux incapacité
-
-|
-
-2
-
-|
-
-Critère administratif
-
-|
+Critère administratif |
 
 II. 39. ORGADEC Description : organisme décideur.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Président du conseil départemental |
 
-1
+2 |
 
-|
+Préfet |
 
-Président du conseil départemental
+3 |
 
-|
+Commission des droits et de l'autonomie des personnes handicapées (CDAPH) |
 
-2
+4 |
 
-|
+Autorité académique |
 
-Préfet
+5 |
 
-|
-
-3
-
-|
-
-Commission des droits et de l'autonomie des personnes handicapées (CDAPH)
-
-|
-
-4
-
-|
-
-Autorité académique
-
-|
-
-5
-
-|
-
-Caisse d'allocation familiale (CAF) ou Mutualité sociale agricole (MSA)
-
-|
+Caisse d'allocation familiale (CAF) ou Mutualité sociale agricole (MSA) |
 
 II. 40. STATDEC Description : statut de la décision.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Effective |
 
-1
+2 |
 
-|
-
-Effective
-
-|
-
-2
-
-|
-
-Echue
-
-|
+Echue |
 
 II. 41. TYPREC Description : type de contestation.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Conciliation |
 
-1
+2 |
 
-|
+Recours gracieux |
 
-Conciliation
+3 |
 
-|
-
-2
-
-|
-
-Recours gracieux
-
-|
-
-3
-
-|
-
-Recours contentieux
-
-|
+Recours contentieux |
 
 II. 42. ORGAREC Description : organisme de recours.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+TA |
 
-|
+Tribunal administratif |
 
-TA
+TCI |
 
-|
+Tribunal du contentieux de l'incapacité |
 
-Tribunal administratif
+CNIT |
 
-|
+Cours nationale d'incapacité et de la tarification |
 
-TCI
+CAA |
 
-|
+Cours administrative d'appel |
 
-Tribunal du contentieux de l'incapacité
+CE |
 
-|
+Conseil d'Etat |
 
-CNIT
+CC |
 
-|
+Cour de Cassation |
 
-Cours nationale d'incapacité et de la tarification
+AUT |
 
-|
-
-CAA
-
-|
-
-Cours administrative d'appel
-
-|
-
-CE
-
-|
-
-Conseil d'Etat
-
-|
-
-CC
-
-|
-
-Cour de Cassation
-
-|
-
-AUT
-
-|
-
-Autres
-
-|
+Autres |
 
 II. 43. CONCREC Description : type de conclusion du recours.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Validation décision Commission des droits et de l'autonomie des personnes handicapées (CDAPH) |
 
-1
+2 |
 
-|
-
-Validation décision Commission des droits et de l'autonomie des personnes handicapées (CDAPH)
-
-|
-
-2
-
-|
-
-Décision CDAPH cassée et nouvelle décision
-
-|
+Décision CDAPH cassée et nouvelle décision |
 
 II. 44. STATREC Description : statut du recours.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Notifié |
 
-1
+2 |
 
-|
-
-Notifié
-
-|
-
-2
-
-|
-
-Décidé
-
-|
+Décidé |
 
 II. 45. STATSMO Description : statut du suivi de mise en œuvre.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Effectif |
 
-1
+2 |
 
-|
+Non effectif |
 
-Effectif
+3 |
 
-|
+En attente |
 
-2
+4 |
 
-|
-
-Non effectif
-
-|
-
-3
-
-|
-
-En attente
-
-|
-
-4
-
-|
-
-Suspendu
-
-|
+Suspendu |
 
 II. 46. MOTSMO Description : motif associé au suivi de la mise en œuvre.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+1 |
 
-|
+Liste d'attente |
 
-1
+2 |
 
-|
+Admission |
 
-Liste d'attente
+3 |
 
-|
+Non-réalisation, refus de la personne handicapée |
 
-2
+4 |
 
-|
-
-Admission
-
-|
-
-3
-
-|
-
-Non-réalisation, refus de la personne handicapée
-
-|
-
-4
-
-|
-
-Non-réalisation, refus de l'établissement
-
-|
+Non-réalisation, refus de l'établissement |
 
 II. 47. STATAIDANT Description : statut aidant.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+-1 |
 
-|
+Non renseigné |
 
--1
+1 |
 
-|
+Emploi direct |
 
-Non renseigné
+2 |
 
-|
+Service mandataire |
 
-1
+3 |
 
-|
+Aidant familial |
 
-Emploi direct
+4 |
 
-|
-
-2
-
-|
-
-Service mandataire
-
-|
-
-3
-
-|
-
-Aidant familial
-
-|
-
-4
-
-|
-
-Service prestataire
-
-|
+Service prestataire |
 
 II. 48. TYPATTRIB Description : type attribution.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+-1 |
 
-|
+Non renseigné |
 
--1
+1 |
 
-|
+Mensuel |
 
-Non renseigné
+2 |
 
-|
-
-1
-
-|
-
-Mensuel
-
-|
-
-2
-
-|
-
-Ponctuel
-
-|
+Ponctuel |
 
 II. 49. UNITE Description : unité de valorisation de la décision.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+-1 |
 
-|
+Non renseigné |
 
--1
+1 |
 
-|
+Euros |
 
-Non renseigné
+2 |
 
-|
+Jours |
 
-1
+3 |
 
-|
+Heures |
 
-Euros
+4 |
 
-|
-
-2
-
-|
-
-Jours
-
-|
-
-3
-
-|
-
-Heures
-
-|
-
-4
-
-|
-
-Années
-
-|
+Années |
 
 II. 50. ETBFONC Description : mode de fonctionnement de l'établissement.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+-1 |
 
-|
+Non renseigné |
 
--1
+1 |
 
-|
+Internat/ hébergement |
 
-Non renseigné
+1.1 |
 
-|
+Internat de semaine |
 
-1
+1.2 |
 
-|
+Internat |
 
-Internat/ hébergement
+1.3 |
 
-|
+Accueil de nuit |
 
-1.1
+2 |
 
-|
+Externat |
 
-Internat de semaine
+2.1 |
 
-|
+Externat |
 
-1.2
+2.2 |
 
-|
+Semi-internat |
 
-Internat
+2.3 |
 
-|
+Accueil de jour |
 
-1.3
+3 |
 
-|
+Milieu ordinaire |
 
-Accueil de nuit
+3.1 |
 
-|
+Accompagnement milieu ordinaire |
 
-2
+3.2 |
 
-|
+Soins ambulatoires |
 
-Externat
+4 |
 
-|
-
-2.1
-
-|
-
-Externat
-
-|
-
-2.2
-
-|
-
-Semi-internat
-
-|
-
-2.3
-
-|
-
-Accueil de jour
-
-|
-
-3
-
-|
-
-Milieu ordinaire
-
-|
-
-3.1
-
-|
-
-Accompagnement milieu ordinaire
-
-|
-
-3.2
-
-|
-
-Soins ambulatoires
-
-|
-
-4
-
-|
-
-Placement familial
-
-|
+Placement familial |
 
 II. 51. ETBTEMP Description : temporalité de l'accueil.
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+-1 |
 
-|
+Non renseigné |
 
--1
+1 |
 
-|
+Accueil permanent |
 
-Non renseigné
+2 |
 
-|
-
-1
-
-|
-
-Accueil permanent
-
-|
-
-2
-
-|
-
-Accueil temporaire
-
-|
+Accueil temporaire |

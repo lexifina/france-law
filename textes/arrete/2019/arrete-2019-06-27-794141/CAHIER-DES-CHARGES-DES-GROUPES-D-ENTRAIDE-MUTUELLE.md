@@ -22,9 +22,9 @@ Dans le cadre de la stratégie nationale pour l'autisme au sein des troubles du 
 
 Le cahier des charges, dont le respect conditionne le conventionnement et le financement en tant que GEM au sens notamment de l'article L. 14-10-5 précité, porte sur les principes d'organisation et de fonctionnement des GEM et sur les modalités de conventionnement, de financement et de pilotage par les ARS.
 
-Définition des termes employés |
+Définition des termes employésLes |
 
-Les mots employés pour désigner les personnes fréquentant les GEM sont variés : usagers, adhérents, membres... Dans un souci de lisibilité et de distinction avec les services ou établissements médico-sociaux, le mot " usager " n'est pas retenu ; le GEM n'étant pas par définition une structure médico-sociale. Les termes " membres " et " adhérents " sont donc utilisés, " membre " renvoyant à toute personne venant au GEM, " adhérent " aux personnes ayant validé leur adhésion à l'association constitutive du GEM. Ces termes désignent cependant bien des personnes ayant une problématique de santé ou des situations de handicap similaires : ce sont bien elles qui doivent constituer et faire vivre le GEM. |
+mots employés pour désigner les personnes fréquentant les GEM sont variés : usagers, adhérents, membres... Dans un souci de lisibilité et de distinction avec les services ou établissements médico-sociaux, le mot " usager " n'est pas retenu ; le GEM n'étant pas par définition une structure médico-sociale. Les termes " membres " et " adhérents " sont donc utilisés, " membre " renvoyant à toute personne venant au GEM, " adhérent " aux personnes ayant validé leur adhésion à l'association constitutive du GEM. Ces termes désignent cependant bien des personnes ayant une problématique de santé ou des situations de handicap similaires : ce sont bien elles qui doivent constituer et faire vivre le GEM. |
 
 I.-Les principes d'organisation et de fonctionnement du groupe d'entraide mutuelle
 
@@ -218,7 +218,7 @@ Pour certains GEM, créés avec l'appui d'établissements de santé et/ ou d'ass
 
 Le partenariat avec les acteurs de l'insertion sociale et professionnelle
 
-D'autres relations peuvent également être envisagées avec différents organismes, essentiellement dans un souci d'information des adhérents du groupe sur les services auxquels ils peuvent avoir recours, et par exemple dans une perspective d'appui au maintien ou au retour vers l'emploi (organisme de logement social, caisse d'allocations familiales, agence de Pôle emploi, mission locale, etc.).
+D'autres relations peuvent également être envisagées avec différents organismes, essentiellement dans un souci d'information des adhérents du groupe sur les services auxquels ils peuvent avoir recours, et par exemple dans une perspective d'appui au maintien ou au retour vers l'emploi (organisme de logement social, caisse d'allocations familiales, agence de l'opérateur France Travail, mission locale, etc.).
 
 Le partenariat avec la maison départementale des personnes handicapées
 
@@ -332,7 +332,7 @@ Modèle type de convention de parrainage
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante :
 
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038792936
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000038792936
 
 ANNEXE 2
 
@@ -340,7 +340,7 @@ Modèle de convention de gestion ou de prestations de services
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante :
 
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038792936
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000038792936
 
 ANNEXE 3
 
@@ -348,7 +348,7 @@ Modèle de fiche de poste
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante :
 
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038792936
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000038792936
 
 ANNEXE 4
 
@@ -356,7 +356,7 @@ Modèle commenté de convention annuelle ou pluriannuelle de financement pour l'
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante :
 
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038792936
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000038792936
 
 ANNEXE 5
 
@@ -364,4 +364,4 @@ Trame d'activités à remplir annuellement par le GEM
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante :
 
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038792936
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000038792936

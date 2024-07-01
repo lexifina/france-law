@@ -84,7 +84,7 @@ Nous vous dispensons d'effectuer votre préavis qui débute le … (date d'expir
 
 Vous pouvez bénéficier d'une priorité de réembauche pendant une durée d'un an à compter de la date de prise d'effet de votre licenciement, si vous en faites la demande par écrit dans ce même délai.
 
-" A l'expiration de votre contrat de travail, nous tiendrons à votre disposition ou nous vous remettrons ou nous vous adresserons par courrier votre certificat de travail, votre reçu pour solde de tout compte et votre attestation Pôle emploi.
+" A l'expiration de votre contrat de travail, nous tiendrons à votre disposition ou nous vous remettrons ou nous vous adresserons par courrier votre certificat de travail, votre reçu pour solde de tout compte et votre attestation l'opérateur France Travail.
 
 Vous pouvez faire une demande de précision des motifs du licenciement énoncés dans la présente lettre, dans les quinze jours suivant sa notification par lettre recommandée avec avis de réception ou remise contre récépissé. Nous avons la faculté d'y donner suite dans un délai de quinze jours après réception de votre demande, par lettre recommandée avec avis de réception ou remise contre récépissé. Nous pouvons également, le cas échéant et dans les mêmes formes, prendre l'initiative d'apporter des précisions à ces motifs dans un délai de quinze jours suivant la notification du licenciement. "
 

@@ -40,7 +40,9 @@ Etablissement national des invalides de la marine (ENIM),
 
 Caisse nationale des barreaux français (CNBF)
 
-RAEP (Régime Additionnel de l'Enseignement Privé) |
+RAEP (Régime Additionnel de l'Enseignement Privé)
+
+|
 
 Les données mensuelles transmises concernent uniquement les salariés affiliés à ces régimes. |
 
@@ -48,9 +50,9 @@ CPRPSCNF |
 
 Les données mensuelles transmises concernent les salariés affiliés à ce régime ainsi que les salariés dépendant de la convention collective du ferroviaire. |
 
-PÔLE EMPLOI |
+L'opérateur France Travail |
 
-Les traitements mis en place à partir de la DSN permettent à Pôle emploi d'indemniser les demandeurs d'emploi en cas de signalement par l'employeur de la rupture d'un contrat de travail et d'améliorer le placement des demandeurs d'emploi, ainsi qued'assurer le recouvrement des cotisations d'assurance chômage des salariés expatriés et intermittents du spectacle. Des traitements de contrôle permettent également à Pôle emploi, sur sa demande, d'assurer un suivi de l'activité de ces demandeurs. |
+Les traitements mis en place à partir de la DSN permettent à l'opérateur France Travail d'indemniser les demandeurs d'emploi en cas de signalement par l'employeur de la rupture d'un contrat de travail et d'améliorer le placement des demandeurs d'emploi, ainsi qued'assurer le recouvrement des cotisations d'assurance chômage des salariés expatriés et intermittents du spectacle. Des traitements de contrôle permettent également à l'opérateur France Travail, sur sa demande, d'assurer un suivi de l'activité de ces demandeurs. |
 
 OC (organisme complémentaire) |
 
@@ -72,7 +74,9 @@ Direction générale du travail (DGT) |
 
 Les traitements annuels mis en place à partir des données de la DSN permettent à la DGT de mesurer l'audience et la représentativité syndicale et patronale et de constituer la liste électorale du scrutin TPE.
 
-Les traitements mensuels mis en place à partir des données de la DSN permettent à la DGT de fournir les informations nécessaires aux agents de contrôle du système d'inspection du travail pour l'exercice de leur mission de contrôle du recours aux contrats de travail temporaire (ex-RMM), de suivi des flux d'entrée et de sortie dans les établissements (ex-DMMO) mais également de lutte contre le travail illégal et de lutte contre la fraude au détachement. |
+Les traitements mensuels mis en place à partir des données de la DSN permettent à la DGT de fournir les informations nécessaires aux agents de contrôle du système d'inspection du travail pour l'exercice de leur mission de contrôle du recours aux contrats de travail temporaire (ex-RMM), de suivi des flux d'entrée et de sortie dans les établissements (ex-DMMO) mais également de lutte contre le travail illégal et de lutte contre la fraude au détachement.
+
+|
 
 Direction de l'Animation de la recherche, des Etudes et des Statistiques (DARES) et Direction de la Recherche, des Etudes, de l'Evaluation et des Statistiques (DREES) |
 
@@ -86,7 +90,7 @@ Agence de service et de paiement (ASP) |
 
 Les traitements mensuels et annuels mis en place à partir des données de la DSN permettent à l'ASP d'améliorer la gestion, le paiement et le contrôle des bénéficiaires et des employeurs qui ont recours à des contrats uniques d'insertion, à l'aide unique aux employeurs d'apprentis, à l'aide au poste pour les structures de l'insertion par l'activité économique, ou à l'aide au poste pour les entreprises adaptées Ces traitements permettent également le contrôle de l'activité partielle et le versement des aides exceptionnelles pour les employeurs d'apprentis et les salariés en contrats de professionnalisation |
 
-Caisse des dépôts et consignations, gestionnaire du système d'information du compte personnel de formation - CDC (CPF) |
+Caisse des dépôts et consignations, gestionnaire du système d'information du compte personnel de formation-CDC (CPF) |
 
 Les traitements mensuels mis en place à partir des données de la DSN permettent d'alimenter le compte personnel de formation des salariés concernés. |
 

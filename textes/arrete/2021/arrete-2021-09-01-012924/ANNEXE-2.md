@@ -56,7 +56,7 @@ Justificatif datant de moins de 12 mois avant la date de délivrance par la plat
 
 Demandeurs d'emploi de longue durée (DELD) (12 mois et plus) |
 
-Avis de situation Pôle Emploi
+Avis de situation l'opérateur France Travail
 
 ou récapitulatif des périodes d'inscription (en cas de radiation) |
 

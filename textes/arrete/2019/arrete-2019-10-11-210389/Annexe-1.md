@@ -12,7 +12,7 @@ b) Nom de naissance, nom d'usage, nom marital et prénoms, sexe, date et lieu de
 
 c) Statut de bénéficiaire de l'obligation d'emploi ;
 
-d) Adresse en France et, le cas échéant, à l'étranger, numéro(s) de téléphone et adresse (s) électronique (s) (sur son espace personnel accessible par le service dématérialisé mentionné au I de l'article L. 6328-8 du code du travail ou dans le cadre de son inscription au téléservice “ FranceConnect ”) ;
+d) Adresse en France et, le cas échéant, à l'étranger, numéro (s) de téléphone et adresse (s) électronique (s) (sur son espace personnel accessible par le service dématérialisé mentionné au I de l'article L. 6328-8 du code du travail ou dans le cadre de son inscription au téléservice “ FranceConnect ”) ;
 
 e) Date de liquidation des droits à la retraite selon les conditions prévues au dernier alinéa de l'article L. 5151-2 du code du travail ;
 
@@ -22,7 +22,7 @@ g) Le cas échéant, date et caractère certifié ou présumé du décès ;
 
 2° Données relatives au parcours professionnel du titulaire :
 
-a) Données relatives à l'employeur : SIRET de l'employeur, raison sociale de l'employeur, effectifs, adresse de l'employeur, URSSAF, code profession, activité principale de l'entreprise/nomenclature des activités françaises (APE/NAF), opérateurs de compétences de l'entreprise, identifiant convention collective / convention collective nationale (IDCC/CCN), imputation ;
+a) Données relatives à l'employeur : SIRET de l'employeur, raison sociale de l'employeur, effectifs, adresse de l'employeur, URSSAF, code profession, activité principale de l'entreprise/ nomenclature des activités françaises (APE/ NAF), opérateurs de compétences de l'entreprise, identifiant convention collective/ convention collective nationale (IDCC/ CCN), imputation ;
 
 b) Catégorie socioprofessionnelle selon la nomenclature des professions et catégories socioprofessionnelles des emplois salariés des employeurs privés et publics (PCS-ESE) ;
 
@@ -30,7 +30,7 @@ c) Adresse du lieu de travail ;
 
 d) Durée du temps de travail, taux de temps de travail ;
 
-e) Type de contrat de travail (contrat à durée indéterminée, contrat à durée déterminée…) ;
+e) Type de contrat de travail (contrat à durée indéterminée, contrat à durée déterminée …) ;
 
 f) Rémunération du titulaire ;
 
@@ -38,7 +38,7 @@ g) Périodes d'activité et d'inactivité (périodes concernées, motif, dates d
 
 h) Données relatives au bulletin de salaire (opérateur communiquant le bulletin de salaire ; clé de sécurité et date de validité de la clé) ;
 
-i) Le cas échéant, les numéros d'identifiant internes à Pôle emploi mentionnés au a du 1° de l'article R. 5312-42 du code du travail et le code Pôle emploi régional afférent ;
+i) Le cas échéant, les numéros d'identifiant internes à l'opérateur France Travail mentionnés au a du 1° de l'article R. 5312-42 du code du travail et le code l'opérateur France Travail régional afférent ;
 
 j) Profession et catégorie socioprofessionnelle du dernier emploi occupé pour les personnes à la recherche d'un emploi ;
 
@@ -796,13 +796,13 @@ Assujettissement à la TVA du financeur |
 
 |
 
-Source (s) de financement mobilisé (es) par le financeur |
+Source (s) de financement mobilisé (es) par le financeurDonnées |
 
 |
 
 |
 
-Données relatives aux personnes physiques se connectant, au nom et pour le compte d'un organisme financeur et d'un organisme de conseil en évolution professionnelle, au portail du SI-CPF permettant l'accès au reporting dans le cadre du partage de données mentionné au deuxième alinéa de l'article L. 6353-10 du code du travail : nom, prénom, adresse électronique, identifiant de connexion, SIRET de l'organisme)
+relatives aux personnes physiques se connectant, au nom et pour le compte d'un organisme financeur et d'un organisme de conseil en évolution professionnelle, au portail du SI-CPF permettant l'accès au reporting dans le cadre du partage de données mentionné au deuxième alinéa de l'article L. 6353-10 du code du travail : nom, prénom, adresse électronique, identifiant de connexion, SIRET de l'organisme)
 
 |
 
@@ -1060,13 +1060,13 @@ Date de fin prévisionnelle du contrat en alternance |
 
 |
 
-Date de fin effective du contrat en alternance |
+Date de fin effective du contrat en alternance4 |
 
 |
 
-4. Données relatives au parcours professionnel du titulaire |
+. Données relatives au parcours professionnel du titulaireSituation |
 
-Situation de la personne à l'entrée en formation ou en conseil en évolution professionnelle (CEP)
+de la personne à l'entrée en formation ou en conseil en évolution professionnelle (CEP)
 
 |
 
@@ -1104,7 +1104,7 @@ Caractérisation de la situation de la personne à la recherche d'un emploi à l
 
 |
 
-Identifiant national Pôle emploi
+Identifiant national l'opérateur France Travail
 
 |
 
@@ -1112,7 +1112,7 @@ Identifiant national Pôle emploi
 
 |
 
-Identifiant régional Pôle emploi
+Identifiant régional l'opérateur France Travail
 
 |
 
@@ -1120,7 +1120,7 @@ Identifiant régional Pôle emploi
 
 |
 
-Code Pôle emploi régional
+Code l'opérateur France Travail régional
 
 |
 
@@ -1432,11 +1432,11 @@ Allocations/ Droits du candidat |
 
 |
 
-Date prévisionnelle de fin d'indemnisation |
+Date prévisionnelle de fin d'indemnisationCaractéristiques |
 
 |
 
-Caractéristiques de la Période CEP
+de la Période CEP
 
 |
 
@@ -1606,7 +1606,7 @@ Adresse de la réalisation du service
 
 |
 
-Relations de suivi durant le CEP |
+Relations de suivi durant le CEPNombre |
 
 |
 
@@ -1614,7 +1614,7 @@ Relations de suivi durant le CEP |
 
 |
 
-Nombre d'entretiens sur place
+d'entretiens sur place
 
 |
 
@@ -1628,13 +1628,13 @@ Nombre d'entretiens à distance
 
 |
 
-Caractéristiques du projet de la personne en fin de CEP |
+Caractéristiques du projet de la personne en fin de CEPMotif |
 
 |
 
 |
 
-Motif de fin de CEP
+de fin de CEP
 
 |
 
@@ -1862,13 +1862,13 @@ Période d'interruption programmée durant la formation-Date de fin |
 
 |
 
-Motif de refus/ rejet de la demande |
+Motif de refus/ rejet de la demandeArgumentaire |
 
 |
 
 |
 
-Argumentaire de refus
+de refus
 
 |
 

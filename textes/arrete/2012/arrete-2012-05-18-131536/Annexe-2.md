@@ -64,7 +64,7 @@ Salarié |
 
 -Organisme de prévoyance
 
--Inscription à Pôle Emploi, numéro et durée d'inscription
+-Inscription à l'opérateur France Travail, numéro et durée d'inscription
 
 -Type de minimum social le cas échéant
 

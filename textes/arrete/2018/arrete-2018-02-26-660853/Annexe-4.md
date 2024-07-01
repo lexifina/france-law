@@ -88,9 +88,9 @@ En cas d'avis favorable à l'enregistrement de l'équivalence au label " qualit�
 
 □ Avertir sans délai le préfet du lieu d'implantation de son école de conduite ou de son association de la suspension ou du retrait de sa labellisation ou de sa certification faisant l'objet de la demande d'équivalence ;
 
-□ Autoriser le ministère de l'intérieur à publier sur le site internet de la sécurité routière les coordonnées de son établissement/association.
+□ Autoriser le ministère de l'intérieur à publier sur le site internet de la sécurité routière les coordonnées de son établissement/ association.
 
-Fait à , le .
+Fait à, le.
 
 Nom et prénom du titulaire de l'agrément :
 
@@ -112,7 +112,7 @@ Copie du certificat en cours de validité établissant l'adhésion à la labelli
 
 □ |
 
-Copie de la souscription à un dispositif de garantie financière en cours de validité. La garantie doit couvrir, a minima, 30 % du chiffre d'affaires hors taxe (HT), l'ensemble des élèves et des formations réalisées par l'école de conduite ou l'association à l'exclusion de celles préparant aux catégories C1, C1E, C, CE, D1, D1E, D et DE du permis conduire. Sont exclues également les actions financées par les organismes collecteurs paritaires agréés mentionnés à l'article L. 6332-1 du code du travail, les organismes paritaires agréés mentionnés à l'article L. 6333-1 du code du travail, l'Etat, les régions, Pôle emploi et l'association mentionnée à l'article L. 5214-1 du code du travail (cf. sous-critère 1.1 - Annexe 1). |
+Copie de la souscription à un dispositif de garantie financière en cours de validité. La garantie doit couvrir, a minima, 30 % du chiffre d'affaires hors taxe (HT), l'ensemble des élèves et des formations réalisées par l'école de conduite ou l'association à l'exclusion de celles préparant aux catégories C1, C1E, C, CE, D1, D1E, D et DE du permis conduire. Sont exclues également les actions financées par les organismes collecteurs paritaires agréés mentionnés à l'article L. 6332-1 du code du travail, les organismes paritaires agréés mentionnés à l'article L. 6333-1 du code du travail, l'Etat, les régions, l'opérateur France Travail et l'association mentionnée à l'article L. 5214-1 du code du travail (cf. sous-critère 1.1-Annexe 1). |
 
 □ |
 

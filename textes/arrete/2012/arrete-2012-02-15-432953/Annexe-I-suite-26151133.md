@@ -400,7 +400,7 @@ La recherche d'emploi
 
 |
 
-Repérer les différents organismes facilitateurs (pôle emploi, agences d'intérim, syndicats professionnels...)
+Repérer les différents organismes facilitateurs (l'opérateur France Travail, agences d'intérim, syndicats professionnels...)
 
 Distinguer les différents canaux de communication (presse, radio, internet,...)
 

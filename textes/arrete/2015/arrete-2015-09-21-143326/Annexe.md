@@ -2,11 +2,11 @@
 
 PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS AUPRÈS DES MÉNAGES ET DES COLLECTIVITÉS TERRITORIALES POUR 2016
 
-L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( http://www.cnis.fr/)
+L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( http :// www. cnis. fr/)
 
 1. Enquêtes d'intérêt général et obligatoires
 
-1.A Enquêtes d'initiative nationale
+1. A Enquêtes d'initiative nationale
 
 DÉMOGRAPHIE ET QUESTIONS SOCIALES |
 
@@ -24,7 +24,7 @@ Démographie |
 
 Bulletins d'état civil
 
-Enquêtes annuelles de recensement - Cycle 2015-2019 (dont recensement des communautés) |
+Enquêtes annuelles de recensement-Cycle 2015-2019 (dont recensement des communautés) |
 
 Annuelle
 
@@ -43,6 +43,16 @@ Enquête de conjoncture auprès des ménages mensuelle (CAMME)
 Enquête " Budget de famille " 2016-2017 |
 
 Mensuelle
+
+Ponctuelle |
+
+INSEE |
+
+Plate-forme annuelle CAMME* sur le Bien-être
+
+* Enquête méthodologique de conjoncture auprès des ménages mensuelle (CAMME).
+
+|
 
 Ponctuelle |
 
@@ -80,7 +90,7 @@ Ressources |
 
 Enquête " Statistiques sur les ressources et les conditions de vie " (SRCV)
 
-Enquête sur l'accès aux services - Module secondaire du dispositif SRCV 2016 |
+Enquête sur l'accès aux services-Module secondaire du dispositif SRCV 2016 |
 
 Annuelle
 
@@ -102,7 +112,7 @@ Emploi, insertion professionnelle, salaires |
 
 |
 
-Dispositif d'enquête sur les formations et les itinéraires des salariés (DEFIS) - Volet salariés |
+Dispositif d'enquête sur les formations et les itinéraires des salariés (DEFIS)-Volet salariés |
 
 Annuelle |
 
@@ -114,13 +124,13 @@ Emploi, insertion professionnelle, salaires |
 
 |
 
-Enquête auprès des bénéficiaires d'un contrat unique d'insertion (CUI) et d'une population témoin (vagues 1, 2, 3 et 4)
+Enquête auprès des bénéficiaires d'un contrat unique d'insertion (CUI) et d'une population témoin (vagues 1,2,3 et 4)
 
 Enquête auprès de bénéficiaires de la Garantie jeunes et d'une population témoin (deux cohortes et quatre interrogations)
 
 Enquête " Risques psycho-sociaux " (RPS) 2015-2016
 
-Enquête auprès des bénéficiaires d'un emploi d'avenir (EAv) et d'une population témoin (vagues 2, 3, 4 et 5)
+Enquête auprès des bénéficiaires d'un emploi d'avenir (EAv) et d'une population témoin (vagues 2,3,4 et 5)
 
 Enquête sur la formation des adultes (AES) 2016 |
 
@@ -148,7 +158,7 @@ Enquête annuelle Emploi à Mayotte
 
 Enquête sur l'entrée dans la vie adulte (EVA)
 
-Enquête " Insertion des jeunes sur le marché du travail " - Module complémentaire de l'enquête Emploi 2016 |
+Enquête " Insertion des jeunes sur le marché du travail "-Module complémentaire de l'enquête Emploi 2016 |
 
 Annuelle
 
@@ -174,9 +184,7 @@ DARES
 
 |
 
-Projet MUSE (MUltimode sur l'enquête emploi) : deux expérimentations quantitatives |
-
-Ponctuelle
+Projet MUSE (MUltimode sur l'enquête emploi) : deux expérimentations quantitativesPonctuelle |
 
 |
 
@@ -200,23 +208,27 @@ Annuelle
 
 Annuelle |
 
-DEPP |
+DEPP
 
-Enquête " Capacités, aides et ressources des seniors en ménages " (CARE) - Ménages, volets seniors et aidants 2015 |
+|
+
+Enquête " Capacités, aides et ressources des seniors en ménages " (CARE)-Ménages, volets seniors et aidants 2015 |
 
 Ponctuelle |
 
-DREES |
+DREES
+
+|
 
 Enquête statistique sur le devenir des bacheliers 2014 (ancien nom : enquête sur le suivi des bacheliers)
 
 Enquêtes sur les effectifs d'étudiants dans les établissements supérieurs (selon 3 types d'établissement) :
 
-- enquête auprès des écoles d'ingénieurs
+-enquête auprès des écoles d'ingénieurs
 
-- enquête auprès des établissements d'enseignement supérieur artistique et culturel
+-enquête auprès des établissements d'enseignement supérieur artistique et culturel
 
-- enquête auprès des autres établissements d'enseignement
+-enquête auprès des autres établissements d'enseignement
 
 supérieur non rattachés aux universités |
 
@@ -224,11 +236,23 @@ Annuelle
 
 Annuelle |
 
-SIES |
+SIES
+
+|
+
+Panel d'élèves du premier degré recruté en 2011 |
+
+Annuelle
+
+|
+
+DEPP
+
+|
 
 2. Enquêtes d'intérêt général
 
-2.A Enquêtes d'initiative nationale
+2. A Enquêtes d'initiative nationale
 
 DÉMOGRAPHIE ET QUESTIONS SOCIALES |
 
@@ -262,11 +286,11 @@ Emploi, insertion professionnelle, salaires |
 
 |
 
-Enquête auprès des sortants des listes de demandeurs d'emploi de Pôle emploi |
+Enquête auprès des sortants des listes de demandeurs d'emploi de l'opérateur France Travail |
 
 Trimestrielle |
 
-DARES et Pôle emploi |
+DARES et l'opérateur France Travail |
 
 Emploi, insertion professionnelle, salaires
 
@@ -316,7 +340,7 @@ Annuelle |
 
 DGER |
 
-Enquête sur l'action sociale des communes et des intercommunalités (ASCO)**
+Enquête sur l'action sociale des communes et des intercommunalités (ASCO) **
 
 Enquête nationale périnatale 2016 |
 
@@ -350,7 +374,39 @@ DREES
 
 ** Enquête examinée à la commission " Collectivités territoriales " du Comité du label. |
 
-2.B Enquête d'initiative régionale
+TERRITOIRES |
+
+PÉRIODICITÉ |
+
+PRODUCTEUR |
+
+Enquête trimestrielle de conjoncture sur l'investissement public local (*) |
+
+Trimestrielle |
+
+INSEE |
+
+(*) Enquête examinée à la commission collectivités territoriales du Comité du label. |
+
+Producteur
+
+SIGLE DU PRODUCTEUR |
+
+INTITULÉ DU PRODUCTEUR |
+
+MINISTÈRE OU MINISTÈRE DE TUTELLE
+
+le cas échéant |
+
+INSEE |
+
+Institut national de la statistique et des études économiques |
+
+Ministère des finances et des comptes publics
+
+Ministère de l'économie, de l'industrie et du numérique |
+
+2. B Enquête d'initiative régionale
 
 DÉMOGRAPHIE ET QUESTIONS SOCIALES |
 
@@ -370,7 +426,7 @@ Enquête " Migrations, Famille et Vieillissement " (MFV) à Mayotte |
 
 Ponctuelle |
 
-INSEE/Direction régionale de
+INSEE/ Direction régionale de
 
 La Réunion
 
@@ -440,9 +496,9 @@ Institut national de la santé et de la recherche médicale |
 
 Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche |
 
-Pôle emploi |
+L'opérateur France Travail |
 
-Pôle emploi (établissement public) |
+L'opérateur France Travail (établissement public) |
 
 Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social |
 
@@ -457,107 +513,3 @@ SOeS |
 Service de l'observation et des statistiques |
 
 Ministère de l'écologie, du développement durable et de l'énergie |
-
-PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS AUPRÈS DES MÉNAGES ET DES COLLECTIVITÉS TERRITORIALES POUR 2016
-
-L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( www.cnis.fr/).
-
-2. Enquête d'intérêt général
-
-2. A.-Enquête d'initiative nationale
-
-TERRITOIRES |
-
-PÉRIODICITÉ |
-
-PRODUCTEUR |
-
-Enquête trimestrielle de conjoncture sur l'investissement public local (*) |
-
-Trimestrielle |
-
-INSEE |
-
-(*) Enquête examinée à la commission "collectivités territoriales" du Comité du label. |
-
-Producteur
-
-SIGLE DU PRODUCTEUR |
-
-INTITULÉ DU PRODUCTEUR |
-
-MINISTÈRE OU MINISTÈRE DE TUTELLE
-
-le cas échéant |
-
-INSEE |
-
-Institut national de la statistique et des études économiques |
-
-Ministère des finances et des comptes publics
-
-Ministère de l'économie, de l'industrie et du numérique |
-
-PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS AUPRÈS DES MÉNAGES ET DES COLLECTIVITÉS TERRITORIALES POUR 2016
-
-L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( www.cnis.fr/).
-
-2. Enquête d'intérêt général et obligatoire
-
-1. A.-Enquête d'initiative nationale
-
-DÉMOGRAPHIE ET QUESTIONS SOCIALES |
-
-PÉRIODICITÉ |
-
-PRODUCTEUR |
-
-Conditions de vie |
-
-|
-
-|
-
-Plate-forme annuelle CAMME* sur le "Bien-être"
-
-* Enquête méthodologique de conjoncture auprès des ménages mensuelle (CAMME). |
-
-Ponctuelle |
-
-INSEE |
-
-SERVICES PUBLICS ET SERVICES AUX PUBLICS |
-
-PÉRIODICITÉ |
-
-PRODUCTEUR |
-
-Panel d'élèves du premier degré recruté en 2011 |
-
-Annuelle |
-
-DEPP |
-
-Liste des producteurs
-
-SIGLE DU PRODUCTEUR |
-
-INTITULÉ DU PRODUCTEUR |
-
-MINISTÈRE OU MINISTÈRE DE TUTELLE
-
-le cas échéant |
-
-DEPP |
-
-Direction de l'évaluation, de la prospective et de la performance |
-
-Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche |
-
-INSEE |
-
-Institut national de la statistique et des études économiques |
-
-Ministère des finances et des comptes publics
-
-Ministère de l'économie, de l'industrie et du numérique |

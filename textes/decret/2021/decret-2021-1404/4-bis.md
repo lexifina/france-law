@@ -6,8 +6,8 @@ II.-L'aide exceptionnelle prévue par le présent article est versée au titre d
 
 III.-Le bénéfice de l'aide est subordonné à l'accord de prise en charge du contrat par l'opérateur de compétences.
 
-L'opérateur de compétences adresse par voie dématérialisée à Pôle emploi les informations nécessaires au paiement de l'aide pour chaque contrat éligible.
+L'opérateur de compétences adresse par voie dématérialisée à l'opérateur France Travail les informations nécessaires au paiement de l'aide pour chaque contrat éligible.
 
-Pôle emploi vérifie l'éligibilité du contrat au regard des critères mentionnés au I du présent article.
+L'opérateur France Travail vérifie l'éligibilité du contrat au regard des critères mentionnés au I du présent article.
 
 IV.-Les modalités de versement et de gestion de l'aide prévue aux articles 2 et 4 du présent décret sont applicables à l'aide versée en application du présent article.

@@ -24,7 +24,7 @@ Attestation de bénéficiaire de l'AAH |
 
 Demandeurs d'emploi de très longue durée (DETLD) (24 mois et plus) |
 
-Avis de situation Pôle emploi ou récapitulatif des périodes d'inscription (en cas de radiation) |
+Avis de situation l'opérateur France Travail ou récapitulatif des périodes d'inscription (en cas de radiation) |
 
 Par exception, l'aide mentionnée au 2° de l'article 1er est attribuée aux publics qui remplissent au moins deux des critères de niveau 2 suivants :
 
@@ -42,7 +42,7 @@ Senior (+ 50 ans) |
 
 Copie pièce d'identité (carte d'identité, passeport, permis de conduire) |
 
-Jeunes (- 26 ans) |
+Jeunes (-26 ans) |
 
 Sortant de l'aide sociale à l'enfance (ASE) |
 
@@ -50,7 +50,7 @@ Attestation sur l'honneur |
 
 Demandeurs d'emploi de longue durée (DELD) (12 mois et plus) |
 
-Avis de situation Pôle emploi ou récapitulatif des périodes d'inscription (en cas de radiation) |
+Avis de situation l'opérateur France Travail ou récapitulatif des périodes d'inscription (en cas de radiation) |
 
 Travailleur handicapé |
 

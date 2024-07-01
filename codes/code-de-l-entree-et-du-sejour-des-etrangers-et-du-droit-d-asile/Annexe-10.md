@@ -54,19 +54,19 @@ L. 421-1 |
 
 -autorisation de travail correspondant au poste occupé ;
 
--éléments justifiant le maintien du contrat du travail : déclaration sociale nominative de l'employeur vous concernant avant la demande de renouvellement du titre de séjour, attestation d'activité ou attestation d'activité professionnelle des douze derniers mois accessible sur https://www.mesdroitssociaux.gouv.fr/ ;
+-éléments justifiant le maintien du contrat du travail : déclaration sociale nominative de l'employeur vous concernant avant la demande de renouvellement du titre de séjour, attestation d'activité ou attestation d'activité professionnelle des douze derniers mois accessible sur https :// www. mesdroitssociaux. gouv. fr/ ;
 
 -si votre employeur est un particulier employeur : attestation d'emploi (CESU ou autre organisme de déclaration).
 
 2.2. Si vous êtes sans emploi :
 
--attestation d'employeur destinée à Pôle emploi justifiant la rupture du contrat de travail ;
+-attestation d'employeur destinée à l'opérateur France Travail justifiant la rupture du contrat de travail ;
 
--avis de situation individuelle établi par Pôle emploi.
+-avis de situation individuelle établi par l'opérateur France Travail.
 
 2.3. Si vous souhaitez exercer un autre emploi :
 
--attestation de l'employeur précédent destinée à Pôle emploi justifiant la rupture du contrat de travail ;
+-attestation de l'employeur précédent destinée à l'opérateur France Travail justifiant la rupture du contrat de travail ;
 
 -autorisation de travail dématérialisée produite par le nouvel employeur
 
@@ -80,15 +80,15 @@ L. 421-1 |
 
 -autorisation de travail correspondant au poste occupé (formulaire CERFA n° 15187*01) ou autorisation de travail dématérialisée ;
 
--élément de la déclaration sociale nominative de l'employeur vous concernant avant la demande de renouvellement du titre de séjour ou attestation d'activité ou attestation d'activité professionnelle des douze derniers mois téléchargeable sur ; https://www.mesdroitssociaux.gouv.fr/
+-élément de la déclaration sociale nominative de l'employeur vous concernant avant la demande de renouvellement du titre de séjour ou attestation d'activité ou attestation d'activité professionnelle des douze derniers mois téléchargeable sur ; https :// www. mesdroitssociaux. gouv. fr/
 
 -si votre employeur est un particulier employeur : attestation de conformité aux déclarations en ligne du contrat de travail (CESU ou autre organisme de déclaration).
 
 4.2. Si vous n'occupez plus d'emploi :
 
--attestation du précédent employeur destinée à Pôle emploi justifiant la rupture du contrat de travail ;
+-attestation du précédent employeur destinée à l'opérateur France Travail justifiant la rupture du contrat de travail ;
 
--avis de situation individuelle établi par Pôle emploi.
+-avis de situation individuelle établi par l'opérateur France Travail.
 
 4.3. Si vous avez changé d'emploi :
 
@@ -136,13 +136,13 @@ L. 421-3 |
 
 2.1.1. Vous poursuivez l'exécution du contrat à durée déterminée qui a justifié la délivrance de votre dernière autorisation de travail dans la limite des prolongations autorisées par le code du travail :
 
--autorisation de travail correspondant au poste occupé ;-élément de la déclaration sociale nominative de l'employeur vous concernant avant la demande de renouvellement du titre de séjour ou attestation d'activité professionnelle des douze derniers mois accessible sur https://www.mesdroitssociaux.gouv.fr/ ;
+-autorisation de travail correspondant au poste occupé ;-élément de la déclaration sociale nominative de l'employeur vous concernant avant la demande de renouvellement du titre de séjour ou attestation d'activité professionnelle des douze derniers mois accessible sur https :// www. mesdroitssociaux. gouv. fr/ ;
 
 -si votre employeur est un particulier employeur : attestation d'emploi (CESU ou autre organisme de déclaration).
 
 2.1.2. Lorsque vous souhaitez occuper un autre emploi sous contrat à durée déterminée (nouveau contrat) :
 
--attestation de l'employeur précédent destinée à Pôle emploi justifiant la rupture du contrat de travail ;
+-attestation de l'employeur précédent destinée à l'opérateur France Travail justifiant la rupture du contrat de travail ;
 
 -autorisation de travail dématérialisée délivrée au nouvel employeur.
 
@@ -162,7 +162,7 @@ L. 421-3 |
 
 -autorisation de travail correspondant au poste occupé ;
 
--élément de la déclaration sociale nominative de l'employeur vous concernant avant la demande de renouvellement du titre de séjour ou attestation d'activité ou attestation d'activité professionnelle des douze derniers mois téléchargée sur https://www.mesdroitssociaux.gouv.fr/ ;
+-élément de la déclaration sociale nominative de l'employeur vous concernant avant la demande de renouvellement du titre de séjour ou attestation d'activité ou attestation d'activité professionnelle des douze derniers mois téléchargée sur https :// www. mesdroitssociaux. gouv. fr/ ;
 
 -si l'employeur est un particulier employeur : attestation de conformité aux déclarations en ligne du contrat de travail (CESU ou autre organisme de déclaration).
 
@@ -328,7 +328,7 @@ L. 421-9 |
 
 3. Pièces à fournir au renouvellement :
 
--attestation employeur ou en cas de perte involontaire d'emploi : attestation du précédent employeur destinée à Pôle emploi justifiant la rupture du contrat de travail et avis de situation individuelle établi par Pôle emploi.
+-attestation employeur ou en cas de perte involontaire d'emploi : attestation du précédent employeur destinée à l'opérateur France Travail justifiant la rupture du contrat de travail et avis de situation individuelle établi par l'opérateur France Travail.
 
 4. A Mayotte :
 
@@ -378,7 +378,7 @@ L. 421-10 |
 
 -si vous êtes salarié d'une entreprise innovante reconnue par un organisme public : attestation de reconnaissance du caractère innovant de l'entreprise établie par le ministre de l'économie et des finances.
 
--attestation employeur ou en cas de perte involontaire d'emploi : attestation du premier employeur destinée à Pôle emploi justifiant la rupture du contrat de travail et avis de situation individuelle établi par Pôle emploi.
+-attestation employeur ou en cas de perte involontaire d'emploi : attestation du premier employeur destinée à l'opérateur France Travail justifiant la rupture du contrat de travail et avis de situation individuelle établi par l'opérateur France Travail.
 
 4. A Mayotte :
 
@@ -434,7 +434,7 @@ L. 421-11 |
 
 -curriculum vitae
 
--attestation employeur ou en cas de perte involontaire d'emploi : attestation du premier employeur destinée à Pôle emploi justifiant la rupture du contrat de travail et avis de situation individuelle établi par Pôle emploi.
+-attestation employeur ou en cas de perte involontaire d'emploi : attestation du premier employeur destinée à l'opérateur France Travail justifiant la rupture du contrat de travail et avis de situation individuelle établi par l'opérateur France Travail.
 
 4. A Mayotte :
 
@@ -524,7 +524,7 @@ L. 421-14 |
 
 -attestation du premier employeur destinée à Pôle Emploi justifiant la rupture du contrat de travail ;
 
--avis de situation individuelle établi par Pôle emploi.
+-avis de situation individuelle établi par l'opérateur France Travail.
 
 4. A Mayotte :
 
@@ -1188,7 +1188,7 @@ Titre de séjour pour motif d'études |
 
 CST portant la mention " étudiant "
 
-CST ou CSP portant la mention "étudiant-programme de mobilité " |
+CST ou CSP portant la mention " étudiant-programme de mobilité " |
 
 L. 422-1
 
@@ -1226,7 +1226,7 @@ si vous travaillez : vos trois dernières fiches de paie ; si vous êtes pris en
 
 1.1 Si vous sollicitez une dispense de visa de long séjour :
 
--visa de court séjour avec la mention " étudiant-concours" et attestation de réussite au concours ou à l'examen d'admission préalable.
+-visa de court séjour avec la mention " étudiant-concours " et attestation de réussite au concours ou à l'examen d'admission préalable.
 
 1.2. Si vous ne disposez d'un visa de long séjour ou d'un titre de séjour en cours de validité
 
@@ -2552,7 +2552,7 @@ L. 426-10 |
 
 2. Pièces à fournir au renouvellement de la carte de séjour portant la mention " retraité " :
 
--carte de séjour portant la mention" retraité " arrivant à expiration ;
+-carte de séjour portant la mention " retraité " arrivant à expiration ;
 
 -carte d'identité et document de voyage dont vous êtes titulaire et le cas échéant, celui de votre conjoint ;
 

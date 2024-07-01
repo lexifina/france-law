@@ -18,7 +18,7 @@ Demandeur d'emploi |
 
 -Identifiant technique |
 
-Membres de l'équipe projet de la Direction générale de Pôle emploi |
+Membres de l'équipe projet de la Direction générale de l'opérateur France Travail |
 
 -Nom
 
@@ -30,9 +30,9 @@ Données de connexion |
 
 Demandeur d'emploi |
 
--Identifiant externe Pôle emploi |
+-Identifiant externe l'opérateur France Travail |
 
-Membres de l'équipe projet de la Direction générale de Pôle emploi |
+Membres de l'équipe projet de la Direction générale de l'opérateur France Travail |
 
 -Courrier électronique
 
@@ -46,7 +46,7 @@ Données de résultat |
 
 Demandeur d'emploi
 
-et agent Pôle emploi |
+et agent l'opérateur France Travail |
 
 Dans le cadre d'une campagne d'évaluation :
 

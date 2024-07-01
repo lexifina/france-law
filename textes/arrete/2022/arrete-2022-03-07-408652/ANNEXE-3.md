@@ -10,7 +10,7 @@ objet de l'arrêté |
 
 Catégories des données |
 
-SI Pôle emploi (Système d'information concernant les demandeurs d'emploi et salariés prévu aux articles L. 5312-38 du code du travail) |
+SI l'opérateur France Travail (Système d'information concernant les demandeurs d'emploi et salariés prévu aux articles L. 5312-38 du code du travail) |
 
 Gestion des campagnes |
 
@@ -28,7 +28,7 @@ Partage des résultats |
 
 -Données de résultats |
 
-SI Pôle emploi (Système d'information de pilotage et statistique de Pôle emploi) |
+SI l'opérateur France Travail (Système d'information de pilotage et statistique de l'opérateur France Travail) |
 
 Réalisation de statistiques |
 

@@ -8,15 +8,15 @@ Apprentis et titulaires d'un contrat de professionnalisation
 
 Les dispositions de la présente annexe sont applicables aux salariés involontairement privés d'emploi ayant bénéficié d'une ouverture de droits à l'assurance chômage consécutive à la cessation d'un contrat de travail conclu en application des articles :
 
-- L. 6221-1 et suivants du code du travail relatifs au contrat d'apprentissage ;
+-L. 6221-1 et suivants du code du travail relatifs au contrat d'apprentissage ;
 
-- L. 6325-1 et suivants du code du travail relatifs au contrat de professionnalisation.
+-L. 6325-1 et suivants du code du travail relatifs au contrat de professionnalisation.
 
 Pour son application aux salariés définis ci-dessus, le règlement général annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage est modifié comme suit :
 
-Art. 26 - Les § 3 et 4 de l'article 26 sont modifiés comme suit :
+Art. 26-Les § 3 et 4 de l'article 26 sont modifiés comme suit :
 
-§ 3 - Le salarié privé d'emploi, qui a été admis à la suite de la fin d'un contrat d'apprentissage ou d'un contrat de professionnalisation, et qui justifie d'une ou plusieurs périodes d'emploi dans les conditions définies au titre 1, peut opter pour l'ouverture de droits à laquelle il aurait été procédé en l'absence de reliquat de droits.
+§ 3-Le salarié privé d'emploi, qui a été admis à la suite de la fin d'un contrat d'apprentissage ou d'un contrat de professionnalisation, et qui justifie d'une ou plusieurs périodes d'emploi dans les conditions définies au titre 1, peut opter pour l'ouverture de droits à laquelle il aurait été procédé en l'absence de reliquat de droits.
 
 Dans ce cas, le reliquat de droits issu de l'ouverture de droits consécutive à la fin du contrat d'apprentissage ou du contrat de professionnalisation est considéré comme déchu.
 
@@ -24,13 +24,13 @@ L'option peut être exercée à l'occasion d'une reprise de droits consécutive 
 
 La prise en charge prend effet à compter de la demande de l'allocataire.
 
-§ 4 - L'allocataire qui réunit les conditions requises pour exercer l'option décrite au § 3 est informé du caractère irrévocable de l'option, de la perte du reliquat de droits qui en résulte, des caractéristiques de chacun des deux droits concernant notamment la durée et le montant de l'allocation journalière, et des conséquences de l'option sur le rechargement des droits.
+§ 4-L'allocataire qui réunit les conditions requises pour exercer l'option décrite au § 3 est informé du caractère irrévocable de l'option, de la perte du reliquat de droits qui en résulte, des caractéristiques de chacun des deux droits concernant notamment la durée et le montant de l'allocation journalière, et des conséquences de l'option sur le rechargement des droits.
 
 L'option peut être exercée dans un délai de 21 jours à compter de la date de la notification de l'information visée ci-dessus.
 
 La décision de l'allocataire doit être formalisée par écrit.
 
-Art. 40 - Réservé
+Art. 40-Réservé
 
 Pour le MEDEF, Pour la CFDT,
 
@@ -48,7 +48,7 @@ pris pour l'application du règlement général annexé et des annexes au règle
 
 Détermination de la réglementation applicable : ouverture des droits, rechargement des droits, calcul du salaire de référence
 
-§ 1er - La réglementation retenue pour apprécier les droits d'un salarié privé d'emploi est, normalement, celle sous l'empire de laquelle celui-ci se trouvait placé du fait de l'activité qu'il exerçait immédiatement avant la dernière fin de contrat de travail, ceci sous réserve :
+§ 1er-La réglementation retenue pour apprécier les droits d'un salarié privé d'emploi est, normalement, celle sous l'empire de laquelle celui-ci se trouvait placé du fait de l'activité qu'il exerçait immédiatement avant la dernière fin de contrat de travail, ceci sous réserve :
 
 • qu'il remplisse la condition de durée de travail, d'appartenance ou de durée de versement des contributions exigée par la réglementation considérée au titre des activités relevant de cette réglementation ;
 
@@ -66,47 +66,47 @@ Le nombre d'heures de travail ainsi exigé est de :
 
 • 30 jours d'embarquement administratif sont exigés pour l'application de l'annexe II et de l'annexe IX (rubrique 2.2.) ;
 
-- 45 vacations sont exigées pour l'application de l'annexe III ;
+-45 vacations sont exigées pour l'application de l'annexe III ;
 
-- la durée minimum des activités au titre desquelles des contributions doivent avoir été versées est de 30 jours pour l'application de l'annexe IX (chapitres 2 et 3).
+-la durée minimum des activités au titre desquelles des contributions doivent avoir été versées est de 30 jours pour l'application de l'annexe IX (chapitres 2 et 3).
 
 Si aucune des conditions qui précèdent n'est remplie au titre de l'activité la plus récente, c'est la dernière activité à l'occasion de laquelle une de ces conditions est satisfaite qui détermine la réglementation applicable, ceci sous réserve que le temps écoulé entre la date de la fin de contrat de travail, cause de la cessation d'activité ainsi déterminée, et le moment où l'intéressé s'inscrit comme demandeur d'emploi, soit inférieur à 12 mois.
 
 La période de 12 mois en cause est allongée, le cas échéant, dans les conditions prévues à l'article 7 du règlement général annexé.
 
-§ 2 - Une fois déterminée la réglementation applicable, il est tenu compte pour l'appréciation des conditions de durée de travail ou de durée d'appartenance, comme de durée minimum de temps de versement des contributions, des équivalences prévues au § 8 ci-après.
+§ 2-Une fois déterminée la réglementation applicable, il est tenu compte pour l'appréciation des conditions de durée de travail ou de durée d'appartenance, comme de durée minimum de temps de versement des contributions, des équivalences prévues au § 8 ci-après.
 
-§ 3 - Si, dans le cadre de la réglementation applicable, le salarié privé d'emploi ne satisfait pas aux conditions d'ouverture des droits visées au paragraphe précédent, des droits peuvent lui être ouverts en prenant en considération, dans les conditions prévues à l'avant-dernier alinéa du § 1er du présent accord d'application, la dernière activité au titre de laquelle les dispositions visées par les § 1er et § 2 ci-dessus sont à la fois satisfaites.
+§ 3-Si, dans le cadre de la réglementation applicable, le salarié privé d'emploi ne satisfait pas aux conditions d'ouverture des droits visées au paragraphe précédent, des droits peuvent lui être ouverts en prenant en considération, dans les conditions prévues à l'avant-dernier alinéa du § 1er du présent accord d'application, la dernière activité au titre de laquelle les dispositions visées par les § 1er et § 2 ci-dessus sont à la fois satisfaites.
 
-§ 4 - Lorsqu'un salarié privé d'emploi ne peut prétendre ni à l'ouverture d'une période d'indemnisation, ni au versement du reliquat d'une période d'indemnisation, mais peut justifier, compte tenu des règles d'équivalence prévues au § 8 ci-après :
+§ 4-Lorsqu'un salarié privé d'emploi ne peut prétendre ni à l'ouverture d'une période d'indemnisation, ni au versement du reliquat d'une période d'indemnisation, mais peut justifier, compte tenu des règles d'équivalence prévues au § 8 ci-après :
 
 • avoir accompli 610 heures de travail dans une ou plusieurs entreprises relevant du régime d'assurance chômage ;
 
 • ou avoir appartenu pendant 122 jours à de telles entreprises au cours des :
 
-- 28 mois précédant la date de la fin du contrat de travail, cause de la cessation d'activité relevant du régime, s'il est âgé de moins de 50 ans à la date de la fin de son contrat de travail ;
+-28 mois précédant la date de la fin du contrat de travail, cause de la cessation d'activité relevant du régime, s'il est âgé de moins de 50 ans à la date de la fin de son contrat de travail ;
 
 ou
 
-- 36 mois précédant la date de la fin du contrat de travail, cause de la cessation d'activité relevant du régime d'assurance chômage, s'il est âgé de 50 ans et plus à la date de la fin de son contrat de travail ;
+-36 mois précédant la date de la fin du contrat de travail, cause de la cessation d'activité relevant du régime d'assurance chômage, s'il est âgé de 50 ans et plus à la date de la fin de son contrat de travail ;
 
 il lui est ouvert une période d'indemnisation de 122 jours, pendant laquelle il reçoit l'allocation journalière d'un montant égal à celui visé au dernier alinéa de l'article 14 du règlement général annexé dans la limite du plafond prévu à l'article 16, à la condition que le temps écoulé entre le moment où l'intéressé se trouve en état de bénéficier de cette allocation et la date de la dernière fin de contrat de travail prise en compte soit inférieur à 12 mois, période allongée le cas échéant dans les conditions prévues à l'article 7 du règlement général annexé.
 
-§ 5 - A la date d'épuisement des droits, lorsqu'un salarié privé d'emploi peut justifier, compte tenu des règles d'équivalence prévues au § 8 ci-après, avoir accompli au moins 150 heures de travail dans une ou plusieurs entreprises relevant du régime d'assurance chômage au titre des activités exercées antérieurement à la date de fin de droits, il peut être procédé au rechargement des droits tel que défini à l'article 28 du règlement général annexé.
+§ 5-A la date d'épuisement des droits, lorsqu'un salarié privé d'emploi peut justifier, compte tenu des règles d'équivalence prévues au § 8 ci-après, avoir accompli au moins 150 heures de travail dans une ou plusieurs entreprises relevant du régime d'assurance chômage au titre des activités exercées antérieurement à la date de fin de droits, il peut être procédé au rechargement des droits tel que défini à l'article 28 du règlement général annexé.
 
 Le rechargement au sens de l'article 28 du règlement général annexé est prononcé au titre de la réglementation applicable lors de la précédente ouverture de droits lorsque la condition d'affiliation prévue à l'article 3 du règlement général annexé, recherchée dans les conditions du § 1er du présent accord d'application, n'est pas remplie.
 
-§ 6 - Lorsqu'au cours de la période prise en considération pour le calcul du salaire de référence, l'intéressé avait occupé plusieurs emplois relevant de réglementations différentes, le salaire est déterminé comme suit :
+§ 6-Lorsqu'au cours de la période prise en considération pour le calcul du salaire de référence, l'intéressé avait occupé plusieurs emplois relevant de réglementations différentes, le salaire est déterminé comme suit :
 
-a) - pour les périodes de travail relevant du règlement général annexé ou des annexes dans lesquelles sont prises en compte les rémunérations afférentes aux périodes considérées, ce sont ces rémunérations qui sont retenues ;
+a)-pour les périodes de travail relevant du règlement général annexé ou des annexes dans lesquelles sont prises en compte les rémunérations afférentes aux périodes considérées, ce sont ces rémunérations qui sont retenues ;
 
-- pour les périodes de travail relevant d'annexes dans lesquelles sont prises en compte les rémunérations effectivement perçues pendant ces périodes, celles-ci sont prises en compte ;
+-pour les périodes de travail relevant d'annexes dans lesquelles sont prises en compte les rémunérations effectivement perçues pendant ces périodes, celles-ci sont prises en compte ;
 
-- pour les périodes de travail relevant de l'annexe IX (chapitres 2 et 3), il s'agit des salaires correspondant aux contributions versées au titre de ces périodes ;
+-pour les périodes de travail relevant de l'annexe IX (chapitres 2 et 3), il s'agit des salaires correspondant aux contributions versées au titre de ces périodes ;
 
-b) la somme de ces salaires, après application des articles 11, 12 et 13 du règlement général annexé ou des annexes, permet de déterminer le salaire de référence et le salaire journalier de référence.
+b) la somme de ces salaires, après application des articles 11,12 et 13 du règlement général annexé ou des annexes, permet de déterminer le salaire de référence et le salaire journalier de référence.
 
-§ 7 - Si l'application des dispositions prévues aux paragraphes ci-dessus a pour conséquence :
+§ 7-Si l'application des dispositions prévues aux paragraphes ci-dessus a pour conséquence :
 
 • d'apprécier les droits d'un salarié privé d'emploi dans le cadre d'une réglementation ne correspondant pas à celle dont il relève habituellement ;
 
@@ -114,17 +114,17 @@ b) la somme de ces salaires, après application des articles 11, 12 et 13 du rè
 
 il peut être décidé d'office ou à la requête de l'allocataire, d'indemniser ce dernier en prenant en considération :
 
-- le dernier emploi correspondant à son activité habituelle ;
+-le dernier emploi correspondant à son activité habituelle ;
 
-- ou le dernier emploi au titre duquel il a reçu des rémunérations qui peuvent être considérées comme normales ; cette disposition s'applique également lorsque les activités exercées relèvent d'une même réglementation ;
+-ou le dernier emploi au titre duquel il a reçu des rémunérations qui peuvent être considérées comme normales ; cette disposition s'applique également lorsque les activités exercées relèvent d'une même réglementation ;
 
 ceci sous réserve que la fin du contrat de travail, cause de la cessation d'activité, ne se soit pas produite depuis plus de 12 mois à la date à laquelle des droits à indemnisation sont ouverts ou au maximum depuis plus de 15 mois, si l'intéressé s'est trouvé dans une des situations visées à l'article 7 du règlement général annexé.
 
 Les délais précités ne sont pas opposables à l'intéressé âgé de 55 ans et plus lors de la rupture du contrat de travail invoquée.
 
-§ 8 - Pour l'application des paragraphes précédents, 1 jour d'affiliation = 1 jour d'embarquement administratif = 2 vacations = 1 jour de contributions = 5 heures de travail.
+§ 8-Pour l'application des paragraphes précédents, 1 jour d'affiliation = 1 jour d'embarquement administratif = 2 vacations = 1 jour de contributions = 5 heures de travail.
 
-§ 9 - Lorsque les activités prises en considération pour l'ouverture des droits relèvent de l'annexe VIII ou de l'annexe X au règlement général annexé, les droits du travailleur privé d'emploi sont appréciés selon les dispositions ci-après :
+§ 9-Lorsque les activités prises en considération pour l'ouverture des droits relèvent de l'annexe VIII ou de l'annexe X au règlement général annexé, les droits du travailleur privé d'emploi sont appréciés selon les dispositions ci-après :
 
 • la condition d'affiliation est déterminée en totalisant les heures de travail accomplies au titre des annexes VIII et X respectivement au cours des 304 jours et 319 jours précédant la fin de contrat de travail ;
 
@@ -148,15 +148,15 @@ annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage
 
 Cumul du revenu de remplacement avec un avantage de vieillesse
 
-Le salarié privé d'emploi qui demande à bénéficier des allocations du régime d'assurance chômage, alors qu'il peut prétendre au versement d'un ou plusieurs avantage(s) de vieillesse, ou d'autres revenus de remplacement à caractère viager, direct(s), liquidé(s) ou liquidable(s), a droit à une allocation d'assurance chômage calculée suivant les dispositions du règlement général annexé et de ses annexes, dans les conditions suivantes :
+Le salarié privé d'emploi qui demande à bénéficier des allocations du régime d'assurance chômage, alors qu'il peut prétendre au versement d'un ou plusieurs avantage (s) de vieillesse, ou d'autres revenus de remplacement à caractère viager, direct (s), liquidé (s) ou liquidable (s), a droit à une allocation d'assurance chômage calculée suivant les dispositions du règlement général annexé et de ses annexes, dans les conditions suivantes :
 
-• avant 50 ans, l'allocation d'assurance chômage est cumulable intégralement avec l'avantage ou les avantages visé(s) ci-dessus ;
+• avant 50 ans, l'allocation d'assurance chômage est cumulable intégralement avec l'avantage ou les avantages visé (s) ci-dessus ;
 
-• entre 50 ans et 55 ans, l'allocation d'assurance est diminuée de 25 % de l'avantage ou des avantages visé(s) ci-dessus ;
+• entre 50 ans et 55 ans, l'allocation d'assurance est diminuée de 25 % de l'avantage ou des avantages visé (s) ci-dessus ;
 
-• entre 55 ans et 60 ans, l'allocation d'assurance est diminuée de 50 % de l'avantage ou des avantages visé(s) ci-dessus ;
+• entre 55 ans et 60 ans, l'allocation d'assurance est diminuée de 50 % de l'avantage ou des avantages visé (s) ci-dessus ;
 
-• à partir de 60 ans, l'allocation d'assurance est diminuée de 75 % de l'avantage ou des avantages visé(s) ci-dessus.
+• à partir de 60 ans, l'allocation d'assurance est diminuée de 75 % de l'avantage ou des avantages visé (s) ci-dessus.
 
 Il y a lieu de déduire de l'allocation tous les avantages de vieillesse ou autres avantages directs à caractère viager, liquidés ou liquidables, dont l'acquisition est rendue obligatoire dans l'entreprise.
 
@@ -198,13 +198,13 @@ Pour la CGT,
 
 Accord d'application n° 4 du 14 mai 2014
 
-pris pour l'application de l'article 4 § 1er, alinéas 5, 6 et 8 de la convention du 14 mai 2014
+pris pour l'application de l'article 4 § 1er, alinéas 5,6 et 8 de la convention du 14 mai 2014
 
 relative à l'indemnisation du chômage
 
 Modalités de calcul de la réduction des taux de contributions
 
-§ 1er - Pour la détermination du résultat d'exploitation, il est retenu le total des comptes de résultat de gestion technique, gestion administrative et des produits et charges financières tels qu'inscrits au bilan de l'assurance chômage au titre de la période comptable semestrielle.
+§ 1er-Pour la détermination du résultat d'exploitation, il est retenu le total des comptes de résultat de gestion technique, gestion administrative et des produits et charges financières tels qu'inscrits au bilan de l'assurance chômage au titre de la période comptable semestrielle.
 
 Afin d'apprécier le niveau d'endettement du régime d'assurance chômage, sont pris en compte :
 
@@ -212,9 +212,9 @@ Afin d'apprécier le niveau d'endettement du régime d'assurance chômage, sont 
 
 • le solde de la contribution due à l'institution mentionnée à l'article L. 5312-1 du code du travail en application de l'article L. 5422-24 du même code inscrit dans les livres de l'Unédic.
 
-§ 2 - Pour la détermination du montant des contributions mentionné aux alinéas 5 et 6 de l'article 4 § 1er de la convention, sont prises en compte les contributions encaissées visées aux articles L. 5422-9, L. 5422-11 et L. 5424-20 du code du travail, ainsi que la contribution prévue aux articles 4 § 3 et 4 § 4 de la convention.
+§ 2-Pour la détermination du montant des contributions mentionné aux alinéas 5 et 6 de l'article 4 § 1er de la convention, sont prises en compte les contributions encaissées visées aux articles L. 5422-9, L. 5422-11 et L. 5424-20 du code du travail, ainsi que la contribution prévue aux articles 4 § 3 et 4 § 4 de la convention.
 
-§ 3 - Pour la détermination de la réduction des taux des contributions, il est appliqué la règle suivante pour obtenir un montant arrondi au centième de point :
+§ 3-Pour la détermination de la réduction des taux des contributions, il est appliqué la règle suivante pour obtenir un montant arrondi au centième de point :
 
 • si le troisième chiffre après la virgule est égal ou supérieur à 5, l'arrondi est effectué au centième de point supérieur ;
 
@@ -222,9 +222,9 @@ Afin d'apprécier le niveau d'endettement du régime d'assurance chômage, sont 
 
 Cette réduction ne doit pas avoir pour effet de diminuer de plus de 0,4 point le taux global des contributions au cours d'une période de 12 mois à compter de sa date d'effet.
 
-§ 4 - La réduction des taux des contributions produit ses effets à compter du 1er jour du semestre suivant le semestre au cours duquel son calcul a été établi.
+§ 4-La réduction des taux des contributions produit ses effets à compter du 1er jour du semestre suivant le semestre au cours duquel son calcul a été établi.
 
-§ 5 - Le Bureau de l'Unédic est informé de la réduction des taux des contributions résultant de l'application des dispositions de l'article 4 § 1er, alinéas 5, 6 et 8 de la convention.
+§ 5-Le Bureau de l'Unédic est informé de la réduction des taux des contributions résultant de l'application des dispositions de l'article 4 § 1er, alinéas 5,6 et 8 de la convention.
 
 Pour le MEDEF, Pour la CFDT,
 
@@ -246,7 +246,7 @@ Cas des salariés qui n'exerçaient plus qu'une activité réduite dans leur ent
 
 Le salaire de référence pris en considération pour fixer le montant de l'allocation journalière est établi sur la base des rémunérations ayant servi au calcul des contributions au titre des 12 mois civils précédant le dernier jour de travail payé à l'intéressé.
 
-§ 1er - Toutefois, lorsqu'un salarié :
+§ 1er-Toutefois, lorsqu'un salarié :
 
 a) a accepté de travailler à temps partiel dans le cadre d'une convention d'aide au passage à temps partiel conclue en application des articles R. 5123-40 et R. 5123-41 du code du travail, et a été licencié ou dont le contrat de travail a fait l'objet d'une rupture conventionnelle au sens des articles L. 1237-11 et suivants du code du travail au cours de la période de 2 ans correspondant à la mise en œuvre du dispositif ou à l'issue de cette période ;
 
@@ -264,9 +264,9 @@ g) a bénéficié d'une période de travail à temps partiel pour la création o
 
 il peut être décidé d'office ou à la requête de l'allocataire de retenir comme salaire de référence, pour le calcul des allocations, les rémunérations perçues ou afférentes à la période précédant immédiatement la date à laquelle la situation a cessé de pouvoir être considérée comme normale.
 
-§ 2 - Il en va de même lorsqu'un salarié s'est trouvé dans l'une des situations suivantes et dans la mesure où elles ne se sont pas prolongées au-delà d'1 an :
+§ 2-Il en va de même lorsqu'un salarié s'est trouvé dans l'une des situations suivantes et dans la mesure où elles ne se sont pas prolongées au-delà d'1 an :
 
-a) soit, a accepté, en raison de la situation exceptionnelle dans laquelle se trouvait son entreprise (liquidation judiciaire - redressement judiciaire), de continuer à y exercer une activité suivant un horaire de travail réduit ayant cessé d'être indemnisé au titre de l'activité partielle, le contingent d'heures indemnisables à ce titre étant épuisé ;
+a) soit, a accepté, en raison de la situation exceptionnelle dans laquelle se trouvait son entreprise (liquidation judiciaire-redressement judiciaire), de continuer à y exercer une activité suivant un horaire de travail réduit ayant cessé d'être indemnisé au titre de l'activité partielle, le contingent d'heures indemnisables à ce titre étant épuisé ;
 
 b) soit, a accepté de continuer d'exercer son activité suivant un horaire de travail réduit décidé au niveau d'une unité de production par une convention ou un accord collectifs conclu en raison de difficultés économiques ;
 
@@ -292,7 +292,7 @@ relative à l'indemnisation du chômage
 
 Rémunérations majorées
 
-§ 1er - Le montant du revenu de remplacement versé à un salarié privé d'emploi doit être en rapport avec les rémunérations que celui-ci percevait d'une manière habituelle pendant la période de travail servant de référence au calcul du montant du revenu de remplacement.
+§ 1er-Le montant du revenu de remplacement versé à un salarié privé d'emploi doit être en rapport avec les rémunérations que celui-ci percevait d'une manière habituelle pendant la période de travail servant de référence au calcul du montant du revenu de remplacement.
 
 A ce titre, sont prises en compte dans le salaire de référence les rémunérations ou majorations de rémunération résultant, dans leur principe et leur montant :
 
@@ -300,7 +300,7 @@ A ce titre, sont prises en compte dans le salaire de référence les rémunérat
 
 • de la transformation d'un contrat de travail à temps partiel en un contrat de travail à temps plein, ou, plus généralement, d'un accroissement du temps de travail, d'un changement d'employeur, d'une promotion ou de l'attribution de nouvelles responsabilités effectivement exercées.
 
-§ 2 - Les majorations de rémunérations constatées pendant les périodes de délai congé et de délai de prévenance et qui ne s'expliquent pas par l'une des causes visées au § 1er ne sont pas prises en compte dans le salaire de référence.
+§ 2-Les majorations de rémunérations constatées pendant les périodes de délai congé et de délai de prévenance et qui ne s'expliquent pas par l'une des causes visées au § 1er ne sont pas prises en compte dans le salaire de référence.
 
 Les autres augmentations de rémunérations constatées pendant la période de référence et qui ne s'expliquent pas par l'une des causes visées au § 1er ne peuvent être prises en compte que sur décision favorable de l'instance paritaire régionale.
 
@@ -342,7 +342,7 @@ annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage
 
 Instruction de la demande d'allocations et information du salarié privé d'emploi
 
-§ 1er - Informations lors de la demande d'allocations
+§ 1er-Informations lors de la demande d'allocations
 
 Les formulaires de demande d'allocations indiquent au salarié privé d'emploi que tout changement de sa situation personnelle ou professionnelle susceptible de modifier ses conditions de prise en charge doit être communiqué immédiatement. Il s'agit notamment des changements ayant des effets sur :
 
@@ -356,7 +356,7 @@ Les formulaires de demande d'allocations indiquent au salarié privé d'emploi q
 
 • la détermination de la fraction saisissable des allocations.
 
-§ 2 - Recevabilité de la demande d'allocations
+§ 2-Recevabilité de la demande d'allocations
 
 La demande d'allocations est recevable dès lors qu'elle est complétée, datée et signée, et que le salarié privé d'emploi a présenté sa carte d'assurance maladie (carte Vitale) ou, à défaut, une attestation d'assujettissement à un des régimes de sécurité sociale gérés par la Caisse des Français à l'étranger.
 
@@ -364,7 +364,7 @@ A défaut, elle est restituée à l'intéressé avec la demande des éléments m
 
 Dans tous les cas, le dépôt de la demande d'allocations et sa restitution éventuelle au salarié privé d'emploi sont enregistrés.
 
-§ 3 - Instruction de la demande d'allocations et examen des droits en vue du rechargement
+§ 3-Instruction de la demande d'allocations et examen des droits en vue du rechargement
 
 Lorsque les éléments renseignés par le salarié privé d'emploi dans la demande d'allocations sont suffisants pour ouvrir un droit ou permettre la reprise du versement des allocations, celle-ci est instruite à compter de son enregistrement en vue d'une notification à l'intéressé, même si des éléments d'information complémentaires sont susceptibles de modifier le montant de l'allocation d'assurance ou la durée du droit ouvert.
 
@@ -378,7 +378,7 @@ A défaut de réception des pièces complémentaires dans le délai, l'intéress
 
 Les éléments pris en compte en vue du rechargement sont communiqués à l'allocataire au moins 30 jours avant la date d'épuisement des droits. L'absence de réponse de l'intéressé dans ce délai ne fait pas échec au rechargement, ni à la possibilité pour l'allocataire de communiquer postérieurement des informations complémentaires ou rectificatives. Le cas échéant, le droit issu du rechargement est modifié et fait l'objet d'une notification à l'intéressé conformément au § 4.
 
-§ 4 - Notification de la décision
+§ 4-Notification de la décision
 
 La notification de la décision d'admission au bénéfice de l'allocation d'assurance comporte les informations relatives au nom de l'allocation, à la date du premier jour indemnisé, à la durée du droit ouvert, au montant du salaire de référence et au montant journalier de l'allocation. Elle précise le taux de remplacement auquel correspond le montant de l'allocation, en pourcentage du montant brut du salaire de référence.
 
@@ -394,7 +394,7 @@ Lorsque la décision peut être prise après examen de la demande par l'Instance
 
 Les modèles de notification comprenant les éléments d'information mentionnés au présent paragraphe font l'objet d'un examen préalable par le Bureau de l'Unédic.
 
-§ 5 - Délais et mise en œuvre
+§ 5-Délais et mise en œuvre
 
 La convention pluriannuelle prévue à l'article L. 5312-3 du code du travail précise les délais de traitement et de notification des décisions d'admission ou de rejet de la demande d'allocations.
 
@@ -416,11 +416,11 @@ annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage
 
 Activités déclarées à terme échu et prestations indues
 
-§ 1er - Sont considérées comme régulièrement déclarées à terme échu, les activités déclarées à la fin de chaque mois et attestées ultérieurement par l'envoi de bulletin(s) de salaire.
+§ 1er-Sont considérées comme régulièrement déclarées à terme échu, les activités déclarées à la fin de chaque mois et attestées ultérieurement par l'envoi de bulletin (s) de salaire.
 
-§ 2 - Sont indues les prestations versées correspondant aux jours d'activité non déclarée.
+§ 2-Sont indues les prestations versées correspondant aux jours d'activité non déclarée.
 
-§ 3 - Toute période d'activité non déclarée fait l'objet dès sa constatation d'un signalement à l'intéressé.
+§ 3-Toute période d'activité non déclarée fait l'objet dès sa constatation d'un signalement à l'intéressé.
 
 Pour le MEDEF, Pour la CFDT,
 
@@ -436,7 +436,7 @@ Accord d'application n° 10 du 14 mai 2014pris pour l'application des articles 2
 
 Acomptes et avances
 
-§ 1er - Acomptes
+§ 1er-Acomptes
 
 Les acomptes sur prestations correspondent à des paiements partiels à valoir sur le montant d'une somme qui sera due à échéance normale.
 
@@ -444,7 +444,7 @@ En cours de mois, un acompte peut être versé à l'intéressé sur sa demande.
 
 Cet acompte correspond au nombre de jours indemnisables multiplié par le montant journalier de l'allocation servie à l'intéressé.
 
-§ 2 - Avances
+§ 2-Avances
 
 Les avances sur prestations prévues par l'article 24 dernier alinéa et 32 du règlement général annexé correspondent, au terme d'un calcul provisoire, au paiement d'un montant effectué préalablement à la transmission par l'allocataire du justificatif de sa rémunération perçue dans le cadre de l'exercice d'une activité professionnelle au sens des articles 30 à 32 du règlement général annexé.
 
@@ -512,7 +512,7 @@ Le présent accord a pour objet d'énumérer les catégories de cas dont le règ
 
 Une fois l'admission au bénéfice des allocations décidée, lesdites allocations sont calculées et versées suivant les règles du droit commun.
 
-§ 1er - Cas de départ volontaire d'un emploi précédemment occupé
+§ 1er-Cas de départ volontaire d'un emploi précédemment occupé
 
 Une ouverture de droit aux allocations ou un rechargement ou une reprise des droits peut être accordé au salarié qui a quitté volontairement son emploi, et dont l'état de chômage se prolonge contre sa volonté, sous réserve que les conditions suivantes soient réunies :
 
@@ -520,13 +520,13 @@ a) l'intéressé doit avoir quitté l'emploi au titre duquel les allocations lui
 
 b) il doit remplir toutes les conditions auxquelles le règlement général subordonne l'ouverture d'une période d'indemnisation, à l'exception de celle prévue à l'article 4 e) ;
 
-c) il doit enfin apporter des éléments attestant ses recherches actives d'emploi, ainsi que ses éventuelles reprises d'emploi de courte durée et ses démarches pour entre­prendre des actions de formation.
+c) il doit enfin apporter des éléments attestant ses recherches actives d'emploi, ainsi que ses éventuelles reprises d'emploi de courte durée et ses démarches pour entre ­ prendre des actions de formation.
 
 Le point de départ du versement des allocations ou de la reprise des droits ainsi accordées est fixé au 122e jour suivant :
 
-- la fin de contrat de travail au titre de laquelle les allocations ont été refusées en application de l'article 4 e) et ne peut être antérieur à l'inscription comme demandeur d'emploi ;
+-la fin de contrat de travail au titre de laquelle les allocations ont été refusées en application de l'article 4 e) et ne peut être antérieur à l'inscription comme demandeur d'emploi ;
 
-- la date d'épuisement des droits lorsqu'il s'agit d'une demande de rechargement au titre de l'article 28.
+-la date d'épuisement des droits lorsqu'il s'agit d'une demande de rechargement au titre de l'article 28.
 
 Le délai de 121 jours est allongé des périodes indemnisées au titre des indemnités journalières de sécurité sociale d'une durée au moins égale à 21 jours consécutifs.
 
@@ -534,13 +534,13 @@ Le point de départ du versement des allocations est décalé du nombre de jours
 
 L'examen de cette situation est effectué à la demande de l'intéressé.
 
-§ 2 - Cas d'appréciation des rémunérations majorées
+§ 2-Cas d'appréciation des rémunérations majorées
 
 Conformément au dernier alinéa du § 2 de l'accord d'application n° 6 relatif aux rémunérations majorées, l'instance paritaire régionale statue sur l'opportunité de prendre en compte dans le salaire de référence, les majorations de rémunérations autres que celles visées au § 1er et à l'alinéa 1er du § 2 de l'accord d'application précité.
 
 L'examen de cette situation est effectué à la demande de l'intéressé.
 
-§ 3 - Appréciation de certaines conditions d'ouverture des droits
+§ 3-Appréciation de certaines conditions d'ouverture des droits
 
 Il appartient à l'instance paritaire régionale de se prononcer sur les droits des intéressés, sur le règlement général annexé applicable pour le calcul de ces droits, dans les cas où, à l'occasion de l'instruction d'un dossier, une des questions suivantes se pose :
 
@@ -552,7 +552,7 @@ c) contestation sur la nature de l'activité antérieurement exercée ;
 
 d) appréciation sur l'existence d'un lien de subordination, élément caractéristique du contrat de travail.
 
-§ 4 - Maintien du versement des prestations
+§ 4-Maintien du versement des prestations
 
 Le maintien du versement des allocations au titre de l'article 9 § 3 du règlement général annexé peut être accordé, sur décision de l'instance paritaire régionale, aux allocataires :
 
@@ -560,17 +560,17 @@ Le maintien du versement des allocations au titre de l'article 9 § 3 du règlem
 
 2) licenciés pour motif économique qui, bien qu'inscrits sur la liste nominative des personnes susceptibles d'adhérer à une convention FNE (liste établie pour l'application des articles R. 5123-12 à R. 5123-21 du code du travail), ont opté pour le système d'indemnisation du régime d'assurance chômage.
 
-§ 5 - Remise des allocations et des prestations indûment perçues
+§ 5-Remise des allocations et des prestations indûment perçues
 
-Les personnes qui auraient perçu indûment tout ou partie des allocations et/ou des prestations ou qui auraient fait sciemment des déclarations inexactes ou présenté des attestations mensongères, en vue d'obtenir le bénéfice ou la continuation du service des prestations, doivent rembourser à l'assurance chômage les sommes indûment perçues par elles, sans préjudice éventuellement des sanctions pénales résultant de l'application de la législation en vigueur.
+Les personnes qui auraient perçu indûment tout ou partie des allocations et/ ou des prestations ou qui auraient fait sciemment des déclarations inexactes ou présenté des attestations mensongères, en vue d'obtenir le bénéfice ou la continuation du service des prestations, doivent rembourser à l'assurance chômage les sommes indûment perçues par elles, sans préjudice éventuellement des sanctions pénales résultant de l'application de la législation en vigueur.
 
 Les intéressés peuvent solliciter une remise de dette auprès de l'instance paritaire régionale visée par l'article 48 du règlement général annexé.
 
-§ 6 - Remise de majorations de retard et pénalités et délais de paiement
+§ 6-Remise de majorations de retard et pénalités et délais de paiement
 
 Les remises de majorations de retard et pénalités et délais de paiement des contributions prévues à l'article 57 du règlement général annexé sont accordées par les instances paritaires régionales sur recours des employeurs.
 
-§ 7 - Assignation en redressement ou liquidation judiciaire
+§ 7-Assignation en redressement ou liquidation judiciaire
 
 L'instance paritaire régionale doit être saisie pour accord avant toute assignation en redressement ou liquidation judiciaire d'un employeur débiteur de contributions d'assurance chômage.
 
@@ -596,7 +596,7 @@ Les demandeurs d'emploi dont les pièces d'état civil portent mention uniquemen
 
 Toutefois, les demandeurs d'emploi de nationalité grecque ou turque sont considérés nés le 1er juillet si leur mois de naissance est inconnu.
 
-Si seuls l'année et le mois de naissance sont connus, ces personnes sont consi­dérées nées le 1er jour du mois de leur naissance.
+Si seuls l'année et le mois de naissance sont connus, ces personnes sont consi ­ dérées nées le 1er jour du mois de leur naissance.
 
 Pour le MEDEF, Pour la CFDT,
 
@@ -610,15 +610,15 @@ Pour la CGT,
 
 Accord d'application n° 14 du 14 mai 2014
 
-pris pour l'application des articles 2, 4 e) et 26 § 1er b) du règlement général
+pris pour l'application des articles 2,4 e) et 26 § 1er b) du règlement général
 
 annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage
 
 Cas de démission considérés comme légitimes
 
-Chapitre 1er -
+Chapitre 1er-
 
-§ 1er - Est réputée légitime, la démission :
+§ 1er-Est réputée légitime, la démission :
 
 a) du salarié âgé de moins de 18 ans qui rompt son contrat de travail pour suivre ses ascendants ou la personne qui exerce l'autorité parentale ;
 
@@ -636,33 +636,33 @@ c) du salarié qui rompt son contrat de travail et dont le départ s'explique pa
 
 d) du salarié qui rompt son contrat de travail pour suivre son enfant handicapé admis dans une structure d'accueil dont l'éloignement entraîne un changement de résidence.
 
-§ 2 - Est réputée légitime, la rupture à l'initiative du salarié, d'un contrat d'insertion par l'activité ou d'un contrat emploi jeunes pour exercer un nouvel emploi ou pour suivre une action de formation.
+§ 2-Est réputée légitime, la rupture à l'initiative du salarié, d'un contrat d'insertion par l'activité ou d'un contrat emploi jeunes pour exercer un nouvel emploi ou pour suivre une action de formation.
 
-Est également réputée légitime, la rupture à l'initiative du salarié d'un contrat unique d'insertion-contrat initiative-emploi (CIE) à durée déterminée, d'un contrat unique d'insertion - contrat d'accompagnement dans l'emploi (CAE) ou d'un contrat insertion-revenu minimum d'activité (CI-RMA) pour exercer un emploi sous contrat de travail à durée déterminée d'au moins 6 mois ou sous contrat de travail à durée indéterminée ou pour suivre une action de formation qualifiante au sens des dispositions de l'article L. 6314-1 du code du travail.
+Est également réputée légitime, la rupture à l'initiative du salarié d'un contrat unique d'insertion-contrat initiative-emploi (CIE) à durée déterminée, d'un contrat unique d'insertion-contrat d'accompagnement dans l'emploi (CAE) ou d'un contrat insertion-revenu minimum d'activité (CI-RMA) pour exercer un emploi sous contrat de travail à durée déterminée d'au moins 6 mois ou sous contrat de travail à durée indéterminée ou pour suivre une action de formation qualifiante au sens des dispositions de l'article L. 6314-1 du code du travail.
 
-Chapitre 2 -
+Chapitre 2-
 
 Sont également considérées comme légitimes, les ruptures à l'initiative du salarié intervenues dans les situations suivantes :
 
-§ 1er - La démission intervenue pour cause de non-paiement des salaires pour des périodes de travail effectuées, à condition que l'intéressé justifie d'une ordonnance de référé lui allouant une provision de sommes correspondant à des arriérés de salaires.
+§ 1er-La démission intervenue pour cause de non-paiement des salaires pour des périodes de travail effectuées, à condition que l'intéressé justifie d'une ordonnance de référé lui allouant une provision de sommes correspondant à des arriérés de salaires.
 
-§ 2 - La démission intervenue à la suite d'un acte susceptible d'être délictueux dont le salarié déclare avoir été victime à l'occasion de l'exécution de son contrat de travail et pour lequel il justifie avoir déposé une plainte auprès du procureur de la République.
+§ 2-La démission intervenue à la suite d'un acte susceptible d'être délictueux dont le salarié déclare avoir été victime à l'occasion de l'exécution de son contrat de travail et pour lequel il justifie avoir déposé une plainte auprès du procureur de la République.
 
-§ 3 - La démission intervenue pour cause de changement de résidence justifié par une situation où le salarié est victime de violences conjugales et pour laquelle il justifie avoir déposé une plainte auprès du procureur de la République.
+§ 3-La démission intervenue pour cause de changement de résidence justifié par une situation où le salarié est victime de violences conjugales et pour laquelle il justifie avoir déposé une plainte auprès du procureur de la République.
 
-§ 4 - Le salarié qui, postérieurement à un licenciement, une rupture conventionnelle au sens des articles L. 1237-11 et suivants du code du travail ou à une fin de contrat de travail à durée déterminée n'ayant pas donné lieu à une inscription comme demandeur d'emploi, entreprend une activité à laquelle il met fin volontairement au cours ou au terme d'une période n'excédant pas 91 jours.
+§ 4-Le salarié qui, postérieurement à un licenciement, une rupture conventionnelle au sens des articles L. 1237-11 et suivants du code du travail ou à une fin de contrat de travail à durée déterminée n'ayant pas donné lieu à une inscription comme demandeur d'emploi, entreprend une activité à laquelle il met fin volontairement au cours ou au terme d'une période n'excédant pas 91 jours.
 
-§ 5 - Le salarié qui justifie de 3 années d'affiliation continue au sens de l'article 3 et qui quitte volontairement son emploi pour reprendre une activité salariée à durée indéterminée, concrétisée par une embauche effective, à laquelle l'employeur met fin avant l'expiration d'un délai de 91 jours.
+§ 5-Le salarié qui justifie de 3 années d'affiliation continue au sens de l'article 3 et qui quitte volontairement son emploi pour reprendre une activité salariée à durée indéterminée, concrétisée par une embauche effective, à laquelle l'employeur met fin avant l'expiration d'un délai de 91 jours.
 
-§ 6 - Lorsque le contrat de travail dit de couple ou indivisible comporte une clause de résiliation automatique, la cessation du contrat de travail est réputée légitime si le salarié quitte son emploi du fait du licenciement, d'une rupture conventionnelle du contrat au sens des articles L. 1237-11 et suivants du code du travail ou de la mise à la retraite de son conjoint par l'employeur.
+§ 6-Lorsque le contrat de travail dit de couple ou indivisible comporte une clause de résiliation automatique, la cessation du contrat de travail est réputée légitime si le salarié quitte son emploi du fait du licenciement, d'une rupture conventionnelle du contrat au sens des articles L. 1237-11 et suivants du code du travail ou de la mise à la retraite de son conjoint par l'employeur.
 
-§ 7 - La démission du salarié motivée par l'une des circonstances visée à l'article L. 7112-5 du code du travail à condition qu'il y ait eu versement effectif de l'indemnité prévue aux articles L. 7112-3 et L. 7112-4 du code du travail.
+§ 7-La démission du salarié motivée par l'une des circonstances visée à l'article L. 7112-5 du code du travail à condition qu'il y ait eu versement effectif de l'indemnité prévue aux articles L. 7112-3 et L. 7112-4 du code du travail.
 
-§ 8 - Le salarié qui quitte son emploi pour conclure un contrat de service civique conformément aux dispositions de l'article L. 120-10 du code du service national, un ou plusieurs contrats de volontariat de solidarité internationale pour une ou plusieurs missions de volontariat de solidarité internationale ou un contrat de volontariat associatif pour une ou plusieurs missions de volontariat associatif d'une durée continue minimale d'1 an.
+§ 8-Le salarié qui quitte son emploi pour conclure un contrat de service civique conformément aux dispositions de l'article L. 120-10 du code du service national, un ou plusieurs contrats de volontariat de solidarité internationale pour une ou plusieurs missions de volontariat de solidarité internationale ou un contrat de volontariat associatif pour une ou plusieurs missions de volontariat associatif d'une durée continue minimale d'1 an.
 
 Cette disposition s'applique également lorsque la mission a été interrompue avant l'expiration de la durée minimale d'engagement prévue initialement pour la forme de service civique retenue ou de la durée minimale continue d'un an d'engagement prévue initialement par le contrat de volontariat de solidarité internationale.
 
-§ 9 - Le salarié qui a quitté son emploi, et qui n'a pas été admis au bénéfice de l'allocation, pour créer ou reprendre une entreprise dont l'activité a donné lieu aux formalités de publicité requises par la loi, et dont l'activité cesse pour des raisons indépendantes de la volonté du créateur ou du repreneur.
+§ 9-Le salarié qui a quitté son emploi, et qui n'a pas été admis au bénéfice de l'allocation, pour créer ou reprendre une entreprise dont l'activité a donné lieu aux formalités de publicité requises par la loi, et dont l'activité cesse pour des raisons indépendantes de la volonté du créateur ou du repreneur.
 
 Pour le MEDEF, Pour la CFDT,
 
@@ -744,7 +744,7 @@ Détermination des périodes assimilées à des périodes d'emploi
 
 Pour la recherche de la condition d'affiliation prévue par l'article 9 § 3 du règlement général annexé, sont assimilées à des périodes d'emploi salarié :
 
-1 - Sans limite :
+1-Sans limite :
 
 • les périodes de travail pour le compte d'un employeur visé à l'article L. 5424-1 du code du travail ;
 
@@ -752,7 +752,7 @@ Pour la recherche de la condition d'affiliation prévue par l'article 9 § 3 du 
 
 • les périodes de travail accomplies avant le 3 juillet 1962 en Algérie et avant le 31 décembre 1956 au Maroc et en Tunisie.
 
-2 - Dans la limite de 5 ans :
+2-Dans la limite de 5 ans :
 
 • les périodes de formation visées aux articles L. 6313-1 à L. 6313-11 du code du travail ;
 
@@ -762,7 +762,7 @@ Pour la recherche de la condition d'affiliation prévue par l'article 9 § 3 du 
 
 • les périodes d'affiliation obligatoire au titre de l'assurance vieillesse visées à l'article L. 381-1 du code de la sécurité sociale pour les bénéficiaires du complément familial, de l'allocation de base de la prestation d'accueil du jeune enfant ou du complément de libre choix d'activité de cette prestation, de l'allocation de présence parentale ou pour les personnes assumant la charge d'un handicapé ;
 
-• les périodes d'affiliation volontaire au titre de l'assurance vieillesse des salariés de nationalité française travaillant hors du territoire français ou des parents chargés de famille ne relevant pas à titre personnel d'un régime obligatoire d'assurance vieillesse (C. sec. soc., art. L. 742-1, 1° et 2°) ;
+• les périodes d'affiliation volontaire au titre de l'assurance vieillesse des salariés de nationalité française travaillant hors du territoire français ou des parents chargés de famille ne relevant pas à titre personnel d'un régime obligatoire d'assurance vieillesse (C. sec. soc., art. L. 742-1,1° et 2°) ;
 
 • les périodes pour lesquelles les cotisations à l'assurance vieillesse ont été rachetées en application de la loi du 10 juillet 1965, pour des activités exercées hors métropole par des salariés expatriés autorisés par ailleurs à souscrire une assurance volontaire.
 
@@ -778,15 +778,15 @@ Pour la CGT,
 
 Accord d'application n° 18 du 14 mai 2014
 
-pris pour l'interprétation des articles 11, 12 et 51 du règlement général
+pris pour l'interprétation des articles 11,12 et 51 du règlement général
 
 annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage
 
-§ 1er - Par dérogation à l'article 51 du règlement général annexé, les contributions peuvent être assises sur des rémunérations reconstituées sur la base d'un salaire correspondant à un travail à temps plein, pour des salariés occupés à temps partiel, lorsqu'un accord collectif étendu le prévoit et lorsque les partenaires sociaux décident de mettre en œuvre la présente dérogation.
+§ 1er-Par dérogation à l'article 51 du règlement général annexé, les contributions peuvent être assises sur des rémunérations reconstituées sur la base d'un salaire correspondant à un travail à temps plein, pour des salariés occupés à temps partiel, lorsqu'un accord collectif étendu le prévoit et lorsque les partenaires sociaux décident de mettre en œuvre la présente dérogation.
 
 Relèvent de la présente dérogation, les salariés des entreprises de la métallurgie appliquant l'accord du 7 mai 1996 sur l'aménagement et la durée du travail en vue de favoriser l'emploi modifié.
 
-§ 2 - Le salaire de référence pris en compte pour déterminer le montant de l'allocation de chômage, est établi à partir des rémunérations reconstituées visées au § 1er, ayant servi au calcul des contributions au titre des 12 mois civils précédant le dernier jour de travail payé à l'intéressé, sous réserve que la fin de contrat de travail intervienne dans les 2 ans suivant la transformation de l'emploi à temps plein en emploi à temps partiel.
+§ 2-Le salaire de référence pris en compte pour déterminer le montant de l'allocation de chômage, est établi à partir des rémunérations reconstituées visées au § 1er, ayant servi au calcul des contributions au titre des 12 mois civils précédant le dernier jour de travail payé à l'intéressé, sous réserve que la fin de contrat de travail intervienne dans les 2 ans suivant la transformation de l'emploi à temps plein en emploi à temps partiel.
 
 Pour le MEDEF, Pour la CFDT,
 
@@ -844,7 +844,7 @@ Cette formation peut être poursuivie sous réserve des conditions suivantes :
 
 • que l'intéressé s'inscrive comme demandeur d'emploi ;
 
-• que la formation soit validée par Pôle emploi ou tout autre organisme participant au service public de l'emploi dans le cadre du projet personnalisé d'accès à l'emploi.
+• que la formation soit validée par l'opérateur France Travail ou tout autre organisme participant au service public de l'emploi dans le cadre du projet personnalisé d'accès à l'emploi.
 
 Pour le MEDEF, Pour la CFDT,
 
@@ -928,13 +928,13 @@ pris pour l'application de l'article 36 du règlement général annexé à la co
 
 Aide à la reprise ou à la création d'entreprise
 
-§ 1er - L'aide à la reprise ou à la création d'entreprise est accordée, à sa demande, à l'allocataire en sa qualité de repreneur ou de créateur d'entreprise telle que définie à l'article R. 5141-2 du code du travail.
+§ 1er-L'aide à la reprise ou à la création d'entreprise est accordée, à sa demande, à l'allocataire en sa qualité de repreneur ou de créateur d'entreprise telle que définie à l'article R. 5141-2 du code du travail.
 
 L'allocataire créateur ou repreneur d'entreprise doit justifier de l'obtention de l'aide aux chômeurs créateurs ou repreneurs d'entreprise (ACCRE), visée à l'article R. 5141-1 du code du travail.
 
 Dans les DOM, les allocataires bénéficiant de l'exonération de cotisations et de contributions prévue par l'article L. 756-5 du code de la sécurité sociale, pour une période de 24 mois, sont dispensés de justifier de l'obtention de l'ACCRE.
 
-§ 2 -Le montant de l'aide est égal à 45 % du montant du reliquat des droits restants :
+§ 2-Le montant de l'aide est égal à 45 % du montant du reliquat des droits restants :
 
 • soit au jour de la création ou de la reprise d'entreprise ;
 
@@ -946,7 +946,7 @@ L'aide donne lieu à 2 versements égaux :
 
 • le second versement de l'aide intervient 6 mois après la date de création ou de reprise d'entreprise sous réserve que l'intéressé atteste, à cette date, qu'il exerce toujours effectivement son activité professionnelle dans le cadre de la création ou de la reprise d'entreprise au titre de laquelle l'aide a été accordée.
 
-§ 3 - La durée que représente le montant de l'aide est imputée sur le reliquat des droits restant au jour du premier versement de l'aide.
+§ 3-La durée que représente le montant de l'aide est imputée sur le reliquat des droits restant au jour du premier versement de l'aide.
 
 Ainsi, si l'intéressé sollicite à nouveau le bénéfice de l'allocation d'aide au retour à l'emploi, le reliquat des droits ouverts au titre de la précédente admission est réduit du nombre de jours correspondant au quotient, arrêté au nombre entier, résultant du rapport entre le montant brut de l'aide à la reprise ou à la création d'entreprise versé et le montant journalier brut de l'allocation d'aide au retour à l'emploi afférent au reliquat.
 
@@ -970,11 +970,11 @@ Majoration de la part patronale des contributions dues par les employeurs public
 
 Pour les contrats à durée déterminée conclus par les employeurs publics visés à l'article L. 5424-2, alinéa 2 du code du travail et ayant adhéré au régime d'assurance chômage à titre révocable ou irrévocable, la part de la contribution à la charge de l'employeur est majorée en fonction de la durée du contrat et du motif de recours à ce type de contrat.
 
-§ 1er - Pour les contrats à durée déterminée conclus par les employeurs publics visés aux 3°, 4° et 6° de l'article L. 5424-1 du code du travail, le calcul de la contribution à la charge de l'employeur s'effectue dans les conditions prévues par l'article 4 de la convention du 14 mai 2014 relative à l'indemnisation du chômage, l'article 52 du règlement général annexé à la convention du 14 mai 2014 et l'article 60 des annexes VIII et X au règlement général annexé à la convention du 14 mai 2014.
+§ 1er-Pour les contrats à durée déterminée conclus par les employeurs publics visés aux 3°, 4° et 6° de l'article L. 5424-1 du code du travail, le calcul de la contribution à la charge de l'employeur s'effectue dans les conditions prévues par l'article 4 de la convention du 14 mai 2014 relative à l'indemnisation du chômage, l'article 52 du règlement général annexé à la convention du 14 mai 2014 et l'article 60 des annexes VIII et X au règlement général annexé à la convention du 14 mai 2014.
 
 Toutefois, la part de la contribution à la charge des établissements publics locaux d'enseignement ayant adhéré au régime d'assurance chômage à titre irrévocable pour leurs assistants d'éducation est majorée dans les conditions prévues par le § 2 du présent accord d'application.
 
-§ 2 - Pour les contrats à durée déterminée conclus par les employeurs publics visés au 2° de l'article L. 5424-1 et au 3° de l'article L. 5424-2 du code du travail, la part de la contribution à la charge de l'employeur est fixée à 6,40 % de la rémunération brute et, par dérogation, à :
+§ 2-Pour les contrats à durée déterminée conclus par les employeurs publics visés au 2° de l'article L. 5424-1 et au 3° de l'article L. 5424-2 du code du travail, la part de la contribution à la charge de l'employeur est fixée à 6,40 % de la rémunération brute et, par dérogation, à :
 
 • 9,40 % pour les contrats d'une durée inférieure ou égale à 1 mois conclus pour faire face à un besoin lié à un accroissement temporaire d'activité ;
 
@@ -984,7 +984,7 @@ Toutefois, la part de la contribution à la charge des établissements publics l
 
 Pour les contrats à durée déterminée conclus avec des salariés redevables du 1 % au titre du fonds national de solidarité, la part de la contribution à la charge de l'employeur est égale à la différence entre le montant de la contribution d'assurance chômage assise sur la rémunération brute et le montant de la contribution de solidarité visée à l'article L. 5423-26 du code du travail.
 
-§ 3 - Pour les contrats à durée déterminée conclus avec des salariés relevant des annexes VIII et X, la part de la contribution à la charge de l'employeur visé au 2° de l'article L. 5424-1 et au 3° de l'article L. 5424-2 du code du travail est fixée à 12,80 % de la rémunération brute et, par dérogation, à :
+§ 3-Pour les contrats à durée déterminée conclus avec des salariés relevant des annexes VIII et X, la part de la contribution à la charge de l'employeur visé au 2° de l'article L. 5424-1 et au 3° de l'article L. 5424-2 du code du travail est fixée à 12,80 % de la rémunération brute et, par dérogation, à :
 
 • 15,80 % pour les contrats d'une durée inférieure ou égale à 1 mois conclus pour faire face à un besoin lié à un accroissement temporaire d'activité ;
 
@@ -1014,9 +1014,9 @@ Majoration de la part patronale des contributions versées par des organismes ti
 
 Les rémunérations versées par des tiers pour le compte de l'employeur, dès lors qu'elles rentrent dans l'assiette des contributions prévue par l'article 51 du règlement général annexé, sont soumises à la majoration de la part patronale des contributions dans les conditions prévues par l'article 4 de la convention, l'article 52 du règlement général annexé et l'article 60 des annexes VIII et X.
 
-§ 1er - Pour les contrats de travail concernés par la majoration de la part patronale des contributions, l'organisme tiers calcule la majoration due en appliquant le taux majoré correspondant à la part de rémunération qu'il verse, pour le compte de chaque employeur, aux salariés titulaires d'un contrat à durée déterminée visé à l'article 52 § 2 du règlement général annexé.
+§ 1er-Pour les contrats de travail concernés par la majoration de la part patronale des contributions, l'organisme tiers calcule la majoration due en appliquant le taux majoré correspondant à la part de rémunération qu'il verse, pour le compte de chaque employeur, aux salariés titulaires d'un contrat à durée déterminée visé à l'article 52 § 2 du règlement général annexé.
 
-§ 2 - Afin de permettre aux organismes tiers de trouver les voies et moyens d'organiser le recueil des données nécessaires au calcul et au paiement de la majoration de la part patronale des contributions conformément au § 1er, à titre provisoire, lorsque l'organisme tiers ne dispose pas de l'ensemble des données nécessaires au calcul de la majoration due, le taux majoré de 4,5 % est appliqué par défaut à la part patronale des contributions dues au titre des rémunérations versées pour le compte de l'employeur à l'ensemble des salariés de l'entreprise titulaires d'un contrat à durée déterminée.
+§ 2-Afin de permettre aux organismes tiers de trouver les voies et moyens d'organiser le recueil des données nécessaires au calcul et au paiement de la majoration de la part patronale des contributions conformément au § 1er, à titre provisoire, lorsque l'organisme tiers ne dispose pas de l'ensemble des données nécessaires au calcul de la majoration due, le taux majoré de 4,5 % est appliqué par défaut à la part patronale des contributions dues au titre des rémunérations versées pour le compte de l'employeur à l'ensemble des salariés de l'entreprise titulaires d'un contrat à durée déterminée.
 
 Pour le MEDEF, Pour la CFDT,
 
@@ -1062,33 +1062,33 @@ Vu la convention du 14 mai 2014 relative à l'indemnisation du chômage ;
 
 Conviennent de ce qui suit :
 
-Art. 1er - Objet
+Art. 1er-Objet
 
 Le présent accord a pour objet de définir les conditions dans lesquelles seront appliquées les dispositions de l'article 11 de la loi n° 96-376 du 6 mai 1996.
 
-Art. 2 - Champ d'application
+Art. 2-Champ d'application
 
 Sont concernés par le présent accord, les salariés recrutés sous contrats d'apprentissage par les employeurs qui assument eux-mêmes la charge de l'assurance chômage en application de l'article L. 5424-2 du code du travail, et qui ont choisi d'assurer ces salariés contre le risque de privation d'emploi, auprès du régime d'assurance chômage visé à l'article L. 5422-13 dudit code.
 
-Art. 3 - Conditions de prise en charge
+Art. 3-Conditions de prise en charge
 
 Au terme de leur contrat d'apprentissage, la situation des salariés visés à l'article 2 du présent accord est examinée dans le cadre des dispositions des articles 1er à 48 du règlement annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage.
 
-Art. 4 - Contributions
+Art. 4-Contributions
 
 En application de l'article 20 VI de la loi n° 92-675 du 17 juillet 1992, l'Etat prend en charge la contribution globale d'assurance chômage. Celle-ci correspond à la cotisation due en cas d'adhésion d'une collectivité publique, au régime d'assurance chômage, majorée d'un supplément de cotisation fixé à 2,4 % du salaire brut.
 
-Art. 5 - Durée
+Art. 5-Durée
 
 Le présent accord est conclu pour la durée d'application de la convention du 14 mai 2014 relative à l'indemnisation du chômage. Il cessera de plein droit de produire ses effets à l'échéance de son terme.
 
 Au terme du dispositif, ou en cas d'interruption de celui-ci, le présent accord continuera de produire ses effets pour les contrats déjà conclus et engagés.
 
-Art. 6 - Modalités d'application
+Art. 6-Modalités d'application
 
 Les modalités d'application du présent accord sont fixées par une convention conclue entre l'Etat et l'Unédic.
 
-Art. 7 - Dépôt
+Art. 7-Dépôt
 
 Le présent accord est déposé à la Direction générale du travail.
 
@@ -1144,13 +1144,13 @@ Vu la convention du 19 juillet 2011 relative au contrat de sécurisation profess
 
 Conviennent de ce qui suit :
 
-Art. 1er - Champ d'application
+Art. 1er-Champ d'application
 
 Les bénéficiaires des allocations visées par la convention du 14 mai 2014 relative à l'indemnisation du chômage et la convention du 19 juillet 2011 relative au contrat de sécurisation professionnelle acquièrent des points de retraite complémentaire dans les conditions précisées par la convention collective nationale du 14 mars 1947 et l'accord du 8 décembre 1961.
 
 Sont également visés tous les bénéficiaires admis au titre des conventions d'assurance chômage précédentes et des conventions du 19 février 2009 et du 20 février 2010 relatives à la convention de reclassement personnalisé, en cours d'indemnisation à la date d'entrée en vigueur du présent accord.
 
-Art. 2 - Financement
+Art. 2-Financement
 
 L'assurance chômage contribue au financement des points de retraite en versant comme suit :
 
@@ -1174,15 +1174,15 @@ c) Pour les autres régimes de retraite complémentaire, en application d'une co
 
 • et du taux obligatoire de cotisation fixé par la convention collective nationale du 14 mars 1947 relative à l'AGIRC pour la fraction de la rémunération comprise entre le plafond de la sécurité sociale et quatre fois ce plafond.
 
-Art. 3 - Durée
+Art. 3-Durée
 
 Le présent accord est conclu pour la durée d'application de la convention du 14 mai 2014 relative à l'indemnisation du chômage.
 
-Art. 4 - Modalités d'application
+Art. 4-Modalités d'application
 
 Les modalités d'application du présent accord sont fixées par des conventions conclues entre l'Unédic et les régimes de retraite complémentaire.
 
-Art. 5 - Dépôt
+Art. 5-Dépôt
 
 Le présent accord est déposé à la Direction générale du travail.
 
@@ -1224,9 +1224,9 @@ Vu la convention du 14 mai 2014 relative à l'indemnisation du chômage.
 
 Conviennent de ce qui suit :
 
-Art. 1er - Champ d'application
+Art. 1er-Champ d'application
 
-§ 1er - Les dispositions de la convention du 14 mai 2014 relative à l'indemnisation du chômage, à l'exclusion de l'article 4 § 1er alinéas 3 et 4 et des articles 49 § 1er, alinéas 2 et 4, 49 § 2 et 3, 52 § 2 et 3, 53 à 61 du règlement général annexé, sont étendues aux employeurs concernés par les arrêtés ministériels pris en Principauté de Monaco suivants :
+§ 1er-Les dispositions de la convention du 14 mai 2014 relative à l'indemnisation du chômage, à l'exclusion de l'article 4 § 1er alinéas 3 et 4 et des articles 49 § 1er, alinéas 2 et 4,49 § 2 et 3,52 § 2 et 3,53 à 61 du règlement général annexé, sont étendues aux employeurs concernés par les arrêtés ministériels pris en Principauté de Monaco suivants :
 
 • arrêté n° 68-151 du 8 avril 1968, modifié par l'arrêté n° 85-143 du 21 mars 1985 ;
 
@@ -1236,31 +1236,31 @@ Art. 1er - Champ d'application
 
 • ordonnance souveraine n° 2924-2010 du 12 octobre 2010 relative au recouvrement des cotisations d'assurance chômage par la Caisse de Compensation des Services Sociaux prise par la Principauté de Monaco.
 
-§ 2 - Sont également exclus de l'extension, pour les allocataires inscrits à Monaco ou les employeurs situés sur ce territoire, les articles 3 § 4 (pour les créateurs d'entreprise seulement), et 4 § 3 et 4 de la convention, ainsi que l'article 36 (pour les créateurs d'entreprise seulement) du règlement général annexé, lorsque la création dont il s'agit est envisagée sur le territoire monégasque.
+§ 2-Sont également exclus de l'extension, pour les allocataires inscrits à Monaco ou les employeurs situés sur ce territoire, les articles 3 § 4 (pour les créateurs d'entreprise seulement), et 4 § 3 et 4 de la convention, ainsi que l'article 36 (pour les créateurs d'entreprise seulement) du règlement général annexé, lorsque la création dont il s'agit est envisagée sur le territoire monégasque.
 
-Art. 2 - Droits et obligations des demandeurs d'emploi
+Art. 2-Droits et obligations des demandeurs d'emploi
 
-§ 1er - Pour l'application des dispositions de l'assurance chômage visées à l'article 1er, l'inscription au Service de l'Emploi de Monaco en qualité de demandeur d'emploi produit les mêmes effets que l'inscription comme demandeur d'emploi auprès des services ou organismes français compétents et ouvre droit à l'ensemble des mesures et aides applicables aux demandeurs d'emploi.
+§ 1er-Pour l'application des dispositions de l'assurance chômage visées à l'article 1er, l'inscription au Service de l'Emploi de Monaco en qualité de demandeur d'emploi produit les mêmes effets que l'inscription comme demandeur d'emploi auprès des services ou organismes français compétents et ouvre droit à l'ensemble des mesures et aides applicables aux demandeurs d'emploi.
 
-§ 2 - Le soutien apporté par le Service de l'Emploi de Monaco à chaque allocataire en vue de son retour à l'emploi, ainsi que les engagements du demandeur d'emploi dans le cadre de sa démarche active de recherche d'emploi, produisent les mêmes effets que ceux résultant du projet personnalisé d'accès à l'emploi (PPAE) établi en France conformément aux dispositions du code du travail.
+§ 2-Le soutien apporté par le Service de l'Emploi de Monaco à chaque allocataire en vue de son retour à l'emploi, ainsi que les engagements du demandeur d'emploi dans le cadre de sa démarche active de recherche d'emploi, produisent les mêmes effets que ceux résultant du projet personnalisé d'accès à l'emploi (PPAE) établi en France conformément aux dispositions du code du travail.
 
-Art. 3 - Conditions d'attribution
+Art. 3-Conditions d'attribution
 
 Le dernier point de l'article 2 du règlement général annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage est modifié comme suit :
 
-D'une rupture de contrat de travail résultant d'un motif économique tel que défini par la législation monégasque .
+D'une rupture de contrat de travail résultant d'un motif économique tel que défini par la législation monégasque.
 
-Art. 4 - Différés d'indemnisation
+Art. 4-Différés d'indemnisation
 
 L'article 21 § 2 b) du règlement général annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage est modifié comme suit :
 
 En cas de rupture de contrat de travail résultant d'un motif économique tel que défini par la législation monégasque, le différé spécifique correspond à un nombre de jours égal au nombre entier obtenu en divisant le montant total des sommes visées au § 2 alinéa 1er, diminué éventuellement du montant résultant directement de l'application d'une disposition législative, par 90.
 
-Ce différé spécifique est limité à 75 jours .
+Ce différé spécifique est limité à 75 jours.
 
-Art. 5 - Affiliation des employeurs et recouvrement des contributions
+Art. 5-Affiliation des employeurs et recouvrement des contributions
 
-§ 1er - Les employeurs visés par le présent avenant sont tenus de s'affilier auprès de l'organisme de recouvrement monégasque compétent dans les conditions prévues par le règlement intérieur dudit organisme.
+§ 1er-Les employeurs visés par le présent avenant sont tenus de s'affilier auprès de l'organisme de recouvrement monégasque compétent dans les conditions prévues par le règlement intérieur dudit organisme.
 
 Le recouvrement des contributions dues par les employeurs monégasques au titre de l'emploi de salariés est effectué selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations sociales monégasques.
 
@@ -1268,7 +1268,7 @@ Les employeurs sont tenus de s'acquitter de toutes les obligations découlant de
 
 En cas de non-respect de ces obligations, les mesures prévues dans le règlement intérieur de l'organisme de recouvrement monégasque compétent à l'encontre des employeurs sont mises en œuvre.
 
-§ 2 - Sont tenus de s'affilier auprès de l'organisme chargé du recouvrement des contributions mentionné à l'article L. 5427-1 du code du travail :
+§ 2-Sont tenus de s'affilier auprès de l'organisme chargé du recouvrement des contributions mentionné à l'article L. 5427-1 du code du travail :
 
 • les salariés expatriés, au sens de l'annexe IX au règlement général annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage ;
 
@@ -1278,25 +1278,25 @@ En cas de non-respect de ces obligations, les mesures prévues dans le règlemen
 
 • les employeurs dont les salariés exercent leur activité en France et sont affiliés à ce titre auprès des régimes sociaux français.
 
-Art. 6 - Assiette
+Art. 6-Assiette
 
 Les contributions sont perçues sur les rémunérations brutes soumises au versement des cotisations sociales en application de la législation monégasque, augmentées du salaire maintenu par l'employeur en cas d'interruption de travail pour maladie.
 
 Sont exclues de l'assiette des contributions, les rémunérations visées au 2e alinéa de l'article 51 du règlement général annexé.
 
-Art. 7 - Instances paritaires régionales
+Art. 7-Instances paritaires régionales
 
-§ 1er - Les instances paritaires régionales visées à l'article 7 de la convention du 14 mai 2014 relative à l'indemnisation du chômage et à l'article 48 de son règlement général annexé sont compétentes pour examiner les dossiers intéressant les demandeurs d'emploi inscrits au Service de l'Emploi de Monaco.
+§ 1er-Les instances paritaires régionales visées à l'article 7 de la convention du 14 mai 2014 relative à l'indemnisation du chômage et à l'article 48 de son règlement général annexé sont compétentes pour examiner les dossiers intéressant les demandeurs d'emploi inscrits au Service de l'Emploi de Monaco.
 
-§ 2 - Les décisions des instances paritaires régionales, lorsqu'elles statuent dans les cas prévus par le règlement général annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage et par ses textes d'application, sont prises à la majorité des membres en exercice.
+§ 2-Les décisions des instances paritaires régionales, lorsqu'elles statuent dans les cas prévus par le règlement général annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage et par ses textes d'application, sont prises à la majorité des membres en exercice.
 
 Toutefois, les demandes de remise des majorations et intérêts de retard, de délai de paiement des contributions ainsi que l'admission en non-valeur d'une créance sont examinées par l'organisme de recouvrement monégasque compétent dans les conditions prévues par son règlement intérieur.
 
-Art. 8 - Date d'effet
+Art. 8-Date d'effet
 
 Les dispositions du présent avenant s'appliquent à compter de la date d'effet de la convention du 14 mai 2014 relative à l'indemnisation du chômage.
 
-Art. 9 - Dépôt
+Art. 9-Dépôt
 
 Le présent accord est déposé à la Direction générale du travail.
 

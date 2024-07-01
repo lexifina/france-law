@@ -2,7 +2,7 @@
 
 LISTE DES PRESCRIPTEURS D'UN PARCOURS D'INSERTION PAR L'ACTIVITÉ ÉCONOMIQUE
 
-1. Pôle emploi, les organismes de placement spécialisés dans l'insertion professionnelle des personnes handicapées (cap emploi) et les missions locales ;
+1. L'opérateur France Travail, les organismes de placement spécialisés dans l'insertion professionnelle des personnes handicapées (cap emploi) et les missions locales ;
 
 2. Les caisses d'allocations familiales (CAF) et les caisses de la Mutualité sociale agricole (MSA) ;
 
@@ -28,7 +28,7 @@ LISTE DES PRESCRIPTEURS D'UN PARCOURS D'INSERTION PAR L'ACTIVITÉ ÉCONOMIQUE
 
 13. L'Agence nationale pour la formation professionnelle des adultes (AFPA) ;
 
-14. Les points et bureaux information jeunesse (PIJ/BIJ) ;
+14. Les points et bureaux information jeunesse (PIJ/ BIJ) ;
 
 15. Les centres d'adaptation à la vie active (CAVA) ;
 

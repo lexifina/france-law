@@ -8,13 +8,13 @@ Objet des flux sortants |
 
 Catégories des données |
 
-SI Pôle emploi/ PIX |
+SI l'opérateur France Travail/ PIX |
 
 Faciliter l'accès à la plateforme PIX par l'intermédiaire de PE connect |
 
 Données d'identification, données de connexion |
 
-SI PIX/ SI Pôle emploi |
+SI PIX/ SI l'opérateur France Travail |
 
 Faciliter le partage des résultats |
 

@@ -22,9 +22,9 @@ Opérateurs de compétences (OPCO) |
 
 Les personnels habilités des opérateurs de compétences (OPCO), qui remplacent les organismes paritaires collecteurs agréés (OPCA) depuis le 1er janvier 2019 en application de l'article L. 6332-1 du code du travail, accèdent directement à tout ou partie des données à caractère personnel mentionnées à l'article R. 6323-34 du code du travail, dans les limites strictement nécessaires à l'exercice de leurs missions, pour assurer la prise en charge financière des dossiers de formation des salariés. |
 
-Pôle emploi |
+L'opérateur France Travail |
 
-Les personnels habilités de Pôle emploi accèdent directement à tout ou partie des données à caractère personnel mentionnées à l' article R. 6323-34 du code du travail , dans les limites strictement nécessaires à l'exercice de leurs missions, pour assurer la prise en charge financière des dossiers de formation. |
+Les personnels habilités de l'opérateur France Travail accèdent directement à tout ou partie des données à caractère personnel mentionnées à l' article R. 6323-34 du code du travail , dans les limites strictement nécessaires à l'exercice de leurs missions, pour assurer la prise en charge financière des dossiers de formation. |
 
 Régions et les organismes qu'elles mandatent |
 
@@ -36,7 +36,7 @@ Les agents et personnels habilités des organismes de conseil en évolution prof
 
 Commissions paritaires interprofessionnelles régionales |
 
-Les agents habilités des commissions paritaires interprofessionnelles régionales mentionnées à l'article L.6323-17-6 du code du travail accèdent directement à tout ou partie des données à caractère personnel mentionnées à l'article R. 6323-34 du code du travail, dans les limites strictement nécessaires à l'exercice de leurs missions, pour assurer la prise en charge financière du projet de transition professionnelle mentionné à l'article L. 6323-17-1 du code du travail. |
+Les agents habilités des commissions paritaires interprofessionnelles régionales mentionnées à l'article L. 6323-17-6 du code du travail accèdent directement à tout ou partie des données à caractère personnel mentionnées à l'article R. 6323-34 du code du travail, dans les limites strictement nécessaires à l'exercice de leurs missions, pour assurer la prise en charge financière du projet de transition professionnelle mentionné à l'article L. 6323-17-1 du code du travail. |
 
 Employeurs publics |
 

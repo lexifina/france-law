@@ -32,13 +32,13 @@ Justificatif de domicile (facture eau, électricité, internet, téléphone) |
 
 Demandeurs d'emploi de 45 ans et plus |
 
-Copie pièce d'identité (carte d'identité, passeport, permis de conduire) et attestation de Pôle emploi |
+Copie pièce d'identité (carte d'identité, passeport, permis de conduire) et attestation de l'opérateur France Travail |
 
 Personne sortant de prison ou sous-main de justice |
 
 Billet de sortie ou attestation du juge d'application des peines |
 
-Jeunes de moins de 26 ans disposant au plus d'une qualification de niveau 4 sans expérience professionnelle ou n'ayant pas exercé une activité professionnelle depuis au moins 2 ans en rapport avec leur qualification- sans emploi et ne suivant pas des études ou une formation |
+Jeunes de moins de 26 ans disposant au plus d'une qualification de niveau 4 sans expérience professionnelle ou n'ayant pas exercé une activité professionnelle depuis au moins 2 ans en rapport avec leur qualification-sans emploi et ne suivant pas des études ou une formation |
 
 Justificatif de diplôme, attestation de non-indemnisation, certificats de travail ou attestation sur l'honneur |
 

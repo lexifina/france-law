@@ -16,7 +16,7 @@ Fabrication de denrées alimentaires, de boissons et de produits à base de taba
 
 365 % |
 
-Production et distribution d'eau- assainissement, gestion des déchets et dépollution |
+Production et distribution d'eau-assainissement, gestion des déchets et dépollution |
 
 269 % |
 
@@ -76,7 +76,7 @@ Activités pour la santé humaine |
 
 91 % |
 
-Autres industries manufacturières- réparation et installation de machines et d'équipements |
+Autres industries manufacturières-réparation et installation de machines et d'équipements |
 
 88 % |
 
@@ -92,11 +92,11 @@ Industries extractives |
 
 84 % |
 
-Commerce- réparation d'automobiles et de motocycles |
+Commerce-réparation d'automobiles et de motocycles |
 
 82 % |
 
-Fabrication de machines et équipements n.c.a. |
+Fabrication de machines et équipements n. c. a. |
 
 73 % |
 
@@ -164,7 +164,7 @@ Activités des ménages en tant qu'employeurs ; activités indifférenciées des
 
 Sans objet, ce secteur ne comprend pas d'entreprise de plus de 11 salariés. |
 
-Source des données : Pôle emploi, DARES, ACOSS, CCMSA.
+Source des données : l'opérateur France Travail, DARES, ACOSS, CCMSA.
 
 Méthodologie :
 

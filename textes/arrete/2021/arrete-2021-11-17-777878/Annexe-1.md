@@ -22,7 +22,7 @@ DONNÉES À CARACTÈRE PERSONNEL POUVANT ÊTRE ENREGISTRÉES DANS LE TRAITEMENT
 
 9. Numéro de pièce d'identité du jeune et type de pièce ;
 
-10. Identifiant technique attribué par Pôle emploi relatif au positionnement dématérialisé en formation et à son suivi ;
+10. Identifiant technique attribué par l'opérateur France Travail relatif au positionnement dématérialisé en formation et à son suivi ;
 
 11. Numéro fiscal ;
 
@@ -72,9 +72,9 @@ A.-Formations, diplômes, qualifications et compétences :
 
 B.-Situation au regard de l'emploi :
 
-1. Périodes d'activité et d'inactivité (périodes concernées, motif, existence d'une indemnisation Pôle emploi catégorie d'inscription à Pôle emploi, type d'accompagnement par Pôle emploi, durée sans emploi, avancement du projet avec Pôle emploi, type de contrats et mesures visés, commentaire) ;
+1. Périodes d'activité et d'inactivité (périodes concernées, motif, existence d'une indemnisation l'opérateur France Travail catégorie d'inscription à l'opérateur France Travail, type d'accompagnement par l'opérateur France Travail, durée sans emploi, avancement du projet avec l'opérateur France Travail, type de contrats et mesures visés, commentaire) ;
 
-2. Le cas échéant, les numéros d'identifiant internes à Pôle emploi mentionnés au a du 1° de l'article R. 5312-42 du code du travail et le code Pôle emploi régional afférent ;
+2. Le cas échéant, les numéros d'identifiant internes à l'opérateur France Travail mentionnés au a du 1° de l'article R. 5312-42 du code du travail et le code l'opérateur France Travail régional afférent ;
 
 3. Informations relatives à l'employeur (nom, raison sociale et SIRET de l'employeur) ;
 
@@ -300,7 +300,7 @@ D.-Statut du dossier. |
 
 6. Numéro de fax ;
 
-7. Indication "Interlocuteur privilégié " ;
+7. Indication " Interlocuteur privilégié " ;
 
 8. Informations relatives à l'organisme partenaire :
 
@@ -398,7 +398,7 @@ B.-Fonctions au sein de l'entité parente :
 
 4. g. Informations relatives aux organismes de formation (nom, civilité, nom et prénom du contact de l'organisme de formation) ;
 
-4. h. Informations relatives aux organismes partenaires (cf. "partenaires dont l'utilisateur est référent ") ;
+4. h. Informations relatives aux organismes partenaires (cf. " partenaires dont l'utilisateur est référent ") ;
 
 1. Jeunes dont l'utilisateur est référent.
 
@@ -424,7 +424,7 @@ D.-Traçabilité
 
 5. Données d'usage du portail décisionnel : liste des requêtes lancées, pour chaque requête : matricule de l'utilisateur, profil de l'utilisateur, nom de la requête, message d'erreur, volume de cache généré, volume de cache utilisé, détail de la requête, serveur utilisé, nombre de lignes de résultat, date et heure d'exécution, durée d'exécution. |
 
-8° Données relatives aux personnes identifiées comme contact pour le service "sifflet silencieux" |
+8° Données relatives aux personnes identifiées comme contact pour le service " sifflet silencieux " |
 
 1. Nom, prénom ;
 

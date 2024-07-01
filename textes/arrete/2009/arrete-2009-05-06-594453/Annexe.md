@@ -86,11 +86,11 @@ IDENTITE EMPLOYEUR
 
 Entreprise et établissement de rattachement.
 
-N° SIREN/SIRET, dénomination.
+N° SIREN/ SIRET, dénomination.
 
 |
 
-DGFIP, INSEE, ACOSS (URSSAF), CNAMTS (CPAM, CRAM, CGSS), CNAVTS (CRAM, CRAV, CGSS), CNRACL (sauf établissement), IRCANTEC, RAFP, CNFPT, DARES, DGT, Pôle emploi, CNBF, SPE, CPR SNCF.
+DGFIP, INSEE, ACOSS (URSSAF), CNAMTS (CPAM, CRAM, CGSS), CNAVTS (CRAM, CRAV, CGSS), CNRACL (sauf établissement), IRCANTEC, RAFP, CNFPT, DARES, DGT, l'opérateur France Travail, CNBF, SPE, CPR SNCF.
 
 |
 
@@ -100,7 +100,7 @@ Adresse de l'entreprise.
 
 |
 
-DGFIP, INSEE, ACOSS (URSSAF), CNAVTS (CRAM, CRAV, CGSS), CNRACL, IRCANTEC, RAFP, CNFPT, DARES, DGT, Pôle emploi, CNBF, SPE, CPR SNCF.
+DGFIP, INSEE, ACOSS (URSSAF), CNAVTS (CRAM, CRAV, CGSS), CNRACL, IRCANTEC, RAFP, CNFPT, DARES, DGT, l'opérateur France Travail, CNBF, SPE, CPR SNCF.
 
 |
 
@@ -110,7 +110,7 @@ Adresse de l'établissement ou des établissements de rattachement.
 
 |
 
-DGFIP, INSEE, ACOSS (URSSAF), CNAVTS (CRAM, CRAV, CGSS), IRCANTEC, CNFPT, DGT, DARES, Pôle emploi, CNBF, SPE.
+DGFIP, INSEE, ACOSS (URSSAF), CNAVTS (CRAM, CRAV, CGSS), IRCANTEC, CNFPT, DGT, DARES, l'opérateur France Travail, CNBF, SPE.
 
 |
 
@@ -120,7 +120,7 @@ Code NAF de l'établissement.
 
 |
 
-DGT, DARES, CNFPT, DGFIP, ACOSS (URSSAF), Pôle emploi, CNAMTS (CPAM), CNAVTS (CRAM, CRAV, CGSS).
+DGT, DARES, CNFPT, DGFIP, ACOSS (URSSAF), l'opérateur France Travail, CNAMTS (CPAM), CNAVTS (CRAM, CRAV, CGSS).
 
 |
 
@@ -138,7 +138,7 @@ IDENTITÉ ÉMETTEUR
 
 |
 
-N° SIREN/SIRET.
+N° SIREN/ SIRET.
 
 Dénomination de l'émetteur, adresse de l'émetteur.
 
@@ -154,7 +154,7 @@ Personne à contacter.
 
 |
 
-INSEE, ACOSS (URSSAF), CNAMTS, CNAVTS (CRAM, CRAV, CGSS), RAFP, DGT, CNFPT, Pôle emploi, CNBF, IRCANTEC, SPE, CPR SNCF.
+INSEE, ACOSS (URSSAF), CNAMTS, CNAVTS (CRAM, CRAV, CGSS), RAFP, DGT, CNFPT, l'opérateur France Travail, CNBF, IRCANTEC, SPE, CPR SNCF.
 
 |
 
@@ -164,7 +164,7 @@ Adresses professionnelles téléphonique et électronique.
 
 |
 
-RAFP, CNFPT, DGT, CNBF, CNAVTS (CRAM, CRAV, CGSS), Pôle emploi, IRCANTEC, SPE.
+RAFP, CNFPT, DGT, CNBF, CNAVTS (CRAM, CRAV, CGSS), l'opérateur France Travail, IRCANTEC, SPE.
 
 |
 
@@ -246,7 +246,7 @@ Type de contrat de travail, statut professionnel.
 
 |
 
-INSEE, ACOSS (URSSAF), CNAMTS (CPAM, CRAM, CGSS), CNAVTS (CRAM, CRAV, CGSS), Pôle emploi, IRCANTEC, DGT, CNFPT, CNBF, CNRACL (sauf contrat), SPE, CPR SNCF.
+INSEE, ACOSS (URSSAF), CNAMTS (CPAM, CRAM, CGSS), CNAVTS (CRAM, CRAV, CGSS), l'opérateur France Travail, IRCANTEC, DGT, CNFPT, CNBF, CNRACL (sauf contrat), SPE, CPR SNCF.
 
 |
 
@@ -458,7 +458,7 @@ DGFIP, ACOSS (URSSAF).
 
 |
 
-CNFPT, CNAMTS (CRAM, CPAM, CGSS), CNRACL, ACOSS (URSSAF), INSEE, Pôle emploi, CNBF, CNAVTS (CRAM, CRAV, CGSS), CPR SNCF.
+CNFPT, CNAMTS (CRAM, CPAM, CGSS), CNRACL, ACOSS (URSSAF), INSEE, l'opérateur France Travail, CNBF, CNAVTS (CRAM, CRAV, CGSS), CPR SNCF.
 
 |
 
@@ -468,7 +468,7 @@ Bases brutes limitées au plafond de la sécurité sociale.
 
 |
 
-INSEE, ACOSS (URSSAF), CNAMTS (CPAM), CNAVTS (CRAM, CRAV, CGSS), Pôle emploi, CNBF, CPR SNCF.
+INSEE, ACOSS (URSSAF), CNAMTS (CPAM), CNAVTS (CRAM, CRAV, CGSS), l'opérateur France Travail, CNBF, CPR SNCF.
 
 |
 
@@ -478,7 +478,7 @@ Nature des bases de cotisations de sécurité sociale.
 
 |
 
-ACOSS (URSSAF), INSEE, Pôle emploi, CNFPT, CNAVTS (CRAM, CRAV, CGSS).
+ACOSS (URSSAF), INSEE, l'opérateur France Travail, CNFPT, CNAVTS (CRAM, CRAV, CGSS).
 
 |
 
@@ -548,7 +548,7 @@ Indemnités versées lors de la rupture du contrat de travail ou dans le cadre d
 
 |
 
-ACOSS, INSEE, Pôle emploi.
+ACOSS, INSEE, l'opérateur France Travail.
 
 |
 

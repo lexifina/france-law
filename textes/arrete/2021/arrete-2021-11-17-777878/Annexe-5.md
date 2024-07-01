@@ -1,6 +1,6 @@
 # Article Annexe 5
 
-TRAITEMENTS AUTOMATISÉS POUVANT ALIMENTER LE TRAITEMENT AUTOMATISÉ DÉNOMMÉ "I-MILO"
+TRAITEMENTS AUTOMATISÉS POUVANT ALIMENTER LE TRAITEMENT AUTOMATISÉ DÉNOMMÉ " I-MILO "
 
 Traitements automatisés pouvant alimenter I-MILO |
 
@@ -8,19 +8,19 @@ Finalités |
 
 Dispositif de collecte et de transmission des données prévu à l' article L. 313-7 du code de l'éducation |
 
-Des traitements mis en place à partir du dispositif de collecte et de transmission des données prévu à l'article L. 313-7 du code de l'éducation permettent d'alimenter "I-MILO" en données relatives aux coordonnées des jeunes sortant sans diplôme du système de formation initiale et à leur suivi par un des acteurs mentionnés à l'article L. 313-8 du même code. |
+Des traitements mis en place à partir du dispositif de collecte et de transmission des données prévu à l'article L. 313-7 du code de l'éducation permettent d'alimenter " I-MILO " en données relatives aux coordonnées des jeunes sortant sans diplôme du système de formation initiale et à leur suivi par un des acteurs mentionnés à l'article L. 313-8 du même code. |
 
 Dispositif de collecte et de transmission des données prévu à l' article L. 114-1 du code de l'éducation |
 
 Des traitements mis en place à partir des données transmises par le dispositif de collecte et de transmission des données prévu à l'article L. 114-1 du code de l'éducation permettent d'alimenter I-MILO avec les données nécessaires au contrôle du respect de l'obligation de formation des jeunes âgés de seize à dix-huit ans. |
 
-Traitement automatisé de gestion de Pôle emploi |
+Traitement automatisé de gestion de l'opérateur France Travail |
 
-Des traitements mis en place à partir des traitements automatisés de Pôle emploi permettent d'alimenter "I-MILO" en données relatives au suivi du parcours d'accompagnement et du parcours de formation des jeunes. |
+Des traitements mis en place à partir des traitements automatisés de l'opérateur France Travail permettent d'alimenter " I-MILO " en données relatives au suivi du parcours d'accompagnement et du parcours de formation des jeunes. |
 
 Traitements automatisés relatifs à l'orientation dématérialisée en formation |
 
-Des traitements mis en place à partir des traitements automatisés relatifs à l'orientation dématérialisée en formation permettent d'alimenter "I-MILO" en données relatives au parcours de formation des jeunes. |
+Des traitements mis en place à partir des traitements automatisés relatifs à l'orientation dématérialisée en formation permettent d'alimenter " I-MILO " en données relatives au parcours de formation des jeunes. |
 
 Traitement automatisé de gestion de l'Agence de services et de paiement |
 

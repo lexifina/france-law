@@ -1,6 +1,6 @@
 # Article Annexe 3
 
-ORGANISMES DONT LES PERSONNES ET AGENTS SONT HABILITÉS À ÊTRE DESTINATAIRES DES DONNÉES À CARACTÈRE PERSONNEL INCLUSES DANS LE TRAITEMENT AUTOMATISÉ DÉNOMMÉ "I-MILO"
+ORGANISMES DONT LES PERSONNES ET AGENTS SONT HABILITÉS À ÊTRE DESTINATAIRES DES DONNÉES À CARACTÈRE PERSONNEL INCLUSES DANS LE TRAITEMENT AUTOMATISÉ DÉNOMMÉ " I-MILO "
 
 A l'exclusion des commentaires et textes libres qui ne sont transmissibles à aucun destinataire de données personnelles,
 
@@ -42,7 +42,7 @@ Données 1,5,9 et 10 relatives à l'identité du jeune, listées au 1° de l'ann
 
 Donnée 2 relatives à la situation familiale du jeune, listée au 2° de l'annexe 1. |
 
-Pôle emploi |
+L'opérateur France Travail |
 
 Données relatives à l'identité du jeune, listées au 1° de l'annexe 1 ;
 
@@ -68,7 +68,7 @@ Départements |
 
 Données relatives à l'identité du jeune, à l'exclusion du numéro d'inscription au répertoire national d'identification des personnes physiques, listées au 1° de l'annexe 1 ;
 
-Données relatives à la vie professionnelle et extraprofessionnelle du jeune, listées au 3° de l'annexe 1, à l'exclusion des données listées aux C. et D. du même paragraphe .
+Données relatives à la vie professionnelle et extraprofessionnelle du jeune, listées au 3° de l'annexe 1, à l'exclusion des données listées aux C. et D. du même paragraphe.
 
 Données relatives au suivi du jeune par la mission locale, listées au 5° de l'annexe 1, à l'exclusion de la donnée listée au B. 2. h du même paragraphe. |
 

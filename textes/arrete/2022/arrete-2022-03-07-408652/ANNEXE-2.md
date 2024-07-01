@@ -6,7 +6,7 @@ Destinataires |
 
 Finalités |
 
-Pôle emploi |
+L'opérateur France Travail |
 
 L'accompagnement des demandeurs d'emploi et réalisation de statistiques |
 
