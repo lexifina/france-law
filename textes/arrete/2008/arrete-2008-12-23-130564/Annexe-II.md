@@ -46,7 +46,7 @@ Intendant de la résidence du préfet |
 
 Préfecture des Alpes-Maritimes |
 
-Chef du garage |
+Adjoint au chef du service automobile |
 
 1 |
 
@@ -1668,4 +1668,4 @@ Responsable de la cellule fabrication CNI |
 
 NOTA :
 
-Conformément au d) du 1° de l'article 2 de l'arrêté du 16 décembre 2022 (NOR : IOMA2229904A) ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l'article 2 de l'arrêté du 6 juin 2024 (NOR : IOMA2415547A) ces dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication au Journal officiel de la République française, soit le 1er juillet 2024.
