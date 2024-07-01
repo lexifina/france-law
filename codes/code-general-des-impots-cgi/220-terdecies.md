@@ -1,6 +1,6 @@
 # Article 220 terdecies
 
-I. – Les entreprises de création de jeux vidéo soumises à l'impôt sur les sociétés ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies, 44 quindecies, 44 sexdecies et 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses mentionnées au IV du présent article engagées jusqu'au 31 décembre 2026, ainsi qu'au titre des dépenses exposées postérieurement lorsque celles-ci se rapportent à des jeux vidéo pour lesquels l'agrément provisoire a été délivré avant cette date, qu'elles exposent en vue de la création de jeux vidéo agréés.
+I. – Les entreprises de création de jeux vidéo soumises à l'impôt sur les sociétés ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies, 44 quindecies, 44 quindecies A, 44 sexdecies et 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses mentionnées au IV du présent article engagées jusqu'au 31 décembre 2026, ainsi qu'au titre des dépenses exposées postérieurement lorsque celles-ci se rapportent à des jeux vidéo pour lesquels l'agrément provisoire a été délivré avant cette date, qu'elles exposent en vue de la création de jeux vidéo agréés.
 
 Le bénéfice du crédit d'impôt est subordonné au respect, par les entreprises de création de jeux vidéo, de la législation sociale en vigueur.
 
