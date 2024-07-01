@@ -1,0 +1,29 @@
+# Article Préambule
+
+Le présent accord d'intéressement a pour but d'associer collectivement les salariés aux résultats de l'entreprise.
+
+Il précise :
+
+– la période pour laquelle il est adopté ;
+
+– les bénéficiaires de l'intéressement ;
+
+– les modalités de calcul de l'enveloppe d'intéressement ;
+
+– les critères de répartition de cette enveloppe entre les bénéficiaires ;
+
+– les conditions de versement ;
+
+– les modalités d'information des bénéficiaires ;
+
+– les modalités de suivi de l'exécution de l'accord ;
+
+– les procédures de règlement des différends liés à l'application de l'accord ou sa révision.
+
+Les modalités de calcul ont été choisies, parmi les options proposées à l'article 5, afin de refléter de façon la plus pertinente possible l'amélioration des résultats de l'entreprise.
+
+Les modalités de répartition ont été choisies, parmi les options proposées à l'article 7, afin de refléter de façon la plus pertinente possible la contribution de chacun dans l'effort collectif nécessaire à l'amélioration des résultats de l'entreprise.
+
+De par sa nature aléatoire, l'intéressement est variable dans son montant mais aussi dans son principe.
+
+Ainsi, si les conditions requises par le présent accord ne sont pas satisfaites, l'intéressement peut être nul.
