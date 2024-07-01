@@ -68,6 +68,20 @@ Code de l'aviation civile Article R. 131-6. |
 
 Ministre chargé de l'aviation civile |
 
+7-1 |
+
+Décisions relatives au mécanisme d'ajustement carbone aux frontières pendant
+
+la période transitoire |
+
+Code de l'environnement
+
+Article R. 229-128 |
+
+Ministre chargé de la politique des marchés
+
+carbone |
+
 8 |
 
 Sanctions administratives prises après avis de la commission administrative de l'aviation civile. |
@@ -972,7 +986,9 @@ Décisions relatives à la francisation et l'immatriculation constituant l'enreg
 
 Décret n° 2006-142 du 10 février 2006
 
-Article 2 (deuxième et troisième alinéas). |
+Article 2 (deuxième et troisième alinéas).
+
+|
 
 Ministre chargé de la marine marchande |
 
@@ -1196,7 +1212,9 @@ L'enregistrement des hypothèques et saisies des navires immatriculés au regist
 
 Décret n° 2006-142 du 10 février 2006,
 
-Article 2 (sixième alinéa) |
+Article 2 (sixième alinéa)
+
+|
 
 Ministre chargé de la mer |
 
@@ -1206,7 +1224,9 @@ Evaluation des connaissances des officiers embarqués sur les navires immatricul
 
 Décret n° 2006-142 du 10 février 2006,
 
-Article 2 (septième alinéa) |
+Article 2 (septième alinéa)
+
+|
 
 Ministre chargé de la mer |
 
@@ -1216,7 +1236,9 @@ Décisions relatives aux sanctions prévues par l'article R. 5112-2-7 du code de
 
 Code des transports,
 
-Article R. 5112-2-7 |
+Article R. 5112-2-7
+
+|
 
 Ministre chargé de la mer |
 
@@ -1226,7 +1248,9 @@ Agrément spécial prévu au 1 de l'article L. 5112-1-3 du code des transports d
 
 Code des transports
 
-Article L. 5112-1-3 (1°) et article D. 5112-2-3 (2°) |
+Article L. 5112-1-3 (1°) et article D. 5112-2-3 (2°)
+
+|
 
 Ministre chargé de la mer |
 
@@ -1238,7 +1262,9 @@ Code des transports,
 
 Article L. 5112-1-3 (1°) et article D. 5112-2-3 (2°)
 
-Décret n° 2006-142 du 10 février 2006, article 2 (septième alinéa) |
+Décret n° 2006-142 du 10 février 2006, article 2 (septième alinéa)
+
+|
 
 Ministre chargé de la mer |
 
@@ -2234,7 +2260,9 @@ Mise en demeure et sanctions relatives à l'affirmation dans une publicité qu'u
 
 Code de l'environnement
 
-Article R. 229-110 |
+Article R. 229-110
+
+|
 
 Ministre chargé de l'environnement |
 
