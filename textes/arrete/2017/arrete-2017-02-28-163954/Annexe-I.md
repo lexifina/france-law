@@ -2,332 +2,176 @@
 
 CARACTÉRISTIQUES TECHNIQUES DU GAZOLE XTL
 
-PROPRIÉTÉS
+PROPRIÉTÉS |
 
-|
-
-UNITÉ
-
-|
-
-LIMITES
-
-|
-
-Min.
-
-|
-
-Max.
-
-|
-
-Indice de cétane
-
-|
-
--
-
-|
-
-70,0
-
-|
-
--
-
-|
-
-Masse volumique à 15 °C
-
-|
-
-kg/m3
-
-|
-
-765,0
-
-|
-
-800,0
-
-|
-
-Point éclair
-
-|
-
-°C
-
-|
-
-> 55,0
-
-|
-
--
-
-|
-
-Viscosité à 40 °C
-
-|
-
-mm2/s
-
-|
-
-2,000
-
-|
-
-4,500
-
-|
-
-Distillation :
-
-|
-
-|
-
-|
-
-|
-
-- % (v/v) récupéré à 250 °C
-
-|
-
-% (v/v)
-
-|
+UNITÉ |
 
--
+LIMITES |
 
-|
-
-< 65
-
-|
-
-- % (v/v) récupéré à 350 °C
-
-|
-
-% (v/v)
-
-|
-
-85
-
-|
-
--
-
-|
-
-- 95 % (v/v) récupéré à :
-
-|
-
-°C
-
-|
-
--
-
-|
-
-360
-
-|
-
-Pouvoir lubrifiant, diamètre de marque d'usure corrigé (wsd 1,4) à 60 °C
-
-|
-
-m
-
-|
-
--
-
-|
-
-460
+Min. |
 
-|
+Max. |
 
-Teneur en esters méthyliques d'acides gras conformes à l'arrêté du 30 juin 2010 modifié relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG)
+Indice de cétane |
 
-|
+- |
 
-% (v/v)
+70,0 |
 
-|
+- |
 
--
+Masse volumique à 15° C |
 
-|
+kg/ m3 |
 
-7,0
+765,0 |
 
-|
+800,0 |
 
-Teneur en manganèse
+Point éclair |
 
-|
+° C |
 
-mg/l
+Supérieur à 55,0 |
 
-|
+- |
 
--
+Viscosité à 40° C |
 
-|
+mm2/ s |
 
-2,0
+2,000 |
 
-|
+4,500 |
 
-Teneur totale en aromatiques (y compris les hydrocarbures polycycliques aromatiques)
+Distillation : |
 
 |
 
-% (m/m)
-
 |
-
--
 
 |
 
-1,1
+-% (V/ V) récupéré à 250° C |
 
-|
+% (V/ V) |
 
-Teneur en soufre
+- |
 
-|
+< 65 |
 
-mg/kg
+-% (V/ V) récupéré à 350° C |
 
-|
+% (V/ V) |
 
--
+85 |
 
-|
+- |
 
-5,0
+-95 % (V/ V) récupéré à : |
 
-|
+° C |
 
-Résidu de carbone (sur le résidu 10 % de distillation)
+- |
 
-|
+360,0 |
 
-% (m/m)
+Pouvoir lubrifiant, diamètre de marque d'usure (WSD) à 60° C |
 
-|
+µm |
 
--
+- |
 
-|
+400 |
 
-0,30
+Teneur en esters méthyliques d'acides gras conformes à l'arrêté du 30 juin 2010 modifié relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG) |
 
-|
+% (V/ V) |
 
-Teneur en cendres
+- |
 
-|
+7,0 |
 
-% (m/m)
+Teneur en manganèse |
 
-|
+mg/ l |
 
--
+- |
 
-|
+2,0 |
 
-0,01
+Teneur totale en aromatiques (y compris hydrocarbures polycycliques aromatiques) |
 
-|
+% (m/ m) |
 
-Teneur en eau
+- |
 
-|
+1,1 |
 
-mg/kg
+Teneur en soufre |
 
-|
+mg/ kg |
 
--
+- |
 
-|
+5,0 |
 
-200
+Résidu de carbone (sur le résidu 10 % de distillation) |
 
-|
+% (m/ m) |
 
-Contamination totale
+- |
 
-|
+0,30 |
 
-mg/kg
+Teneur en cendres |
 
-|
+% (m/ m) |
 
--
+- |
 
-|
+0,010 |
 
-24
+Teneur en eau |
 
-|
+% (m/ m) |
 
-Corrosion à la lame de cuivre (3 h à 50 °C)
+- |
 
-|
+0,020 |
 
-indice
+Contamination totale |
 
-|
+mg/ kg |
 
-classe 1
+- |
 
-|
+24 |
 
-Stabilité à l'oxydation
+Corrosion à la lame de cuivre (3 h à 50° C) |
 
-|
+indice |
 
-g/m3
+classe 1 |
 
-|
+Stabilité à l'oxydation |
 
--
+g/ m3 |
 
-|
+- |
 
-25
+25 |
 
-|
+Stabilité à l'oxydation pour les gazoles contenant plus de 2 % (V/ V) d'EMAG |
 
 h
 
-|
+min |
 
-20 (1)
+20,0
 
-|
+ou
 
--
+60,0 |
 
-|
-
-(1) Il s'agit d'une spécification supplémentaire pour les carburants diesel dont la teneur en EMAG est supérieure à 2 % (v/v).
-
-|
+- |

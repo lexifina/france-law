@@ -6,4 +6,6 @@ Un étiquetage spécifique doit être disposé de manière claire sur les appare
 
 Il devra également être disposé sur le pistolet de l'appareil distributeur un étiquetage spécifique qui est présenté ci-dessous, d'une largeur minimum de 1,5 cm :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 85 du 12 avril 2018, texte n° 10, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000036790000
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 153 du 30 juin 2024 :
+
+https://www.legifrance.gouv.fr/download/pdf?id=mwmKj6rjmGxXhLJ9Vn_Snlo7HqWR6wDUo19VGpmA_28=
