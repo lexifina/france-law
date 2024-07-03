@@ -430,7 +430,7 @@ F. - Emplois relevant du groupe 4 :
 
 42° Général commandant l'état-major interarmées du territoire national métropolitain ;
 
-43° Commandant de l'état-major des forces interarmées ;
+43° Commandant du centre expert du commandement interarmées ;
 
 44° Inspecteur de la médecine de prévention dans les armées au contrôle général des armées ;
 
@@ -596,7 +596,9 @@ F. - Emplois relevant du groupe 4 :
 
 125° Général commandant de l'école d'artillerie ou général commandant de l'école de l'infanterie (2) ;
 
-126° Chargé de mission auprès du major général des armées.
+126° Chargé de mission auprès du major général des armées ;
+
+127° Général commandant de la brigade du génie.
 
 G. - Emplois relevant du groupe 5 :
 
@@ -843,3 +845,7 @@ G. - Emplois relevant du groupe 5 :
 (1) N'occupant pas les fonctions de commandant des écoles militaires de Bourges.
 
 (2) N'occupant pas les fonctions de général commandant des écoles militaires de Draguignan et commandant de la base de défense de Draguignan.
+
+NOTA :
+
+Conformément à l’article 4 de l’arrêté du 28 juin 2024 (NOR : ARMH2418174A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de juillet 2024.
