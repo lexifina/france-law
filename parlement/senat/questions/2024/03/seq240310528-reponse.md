@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240310528
+
+- Question : [SEQ240310528](seq240310528.md) — Différences de traitement concernant la pension de réversion
+
+## Réponse
+
+*Travail, santé et solidarités, JO du 2024-07-04, page 2985*
+
+La pension de réversion est un avantage conjugal représentant une partie de la retraite dont bénéficiait ou aurait pu bénéficier l'assuré décédé, qui est reversée, sous certaines conditions, à son conjoint survivant ou ses ex-conjoints survivants. Toutefois, les conditions d'attribution et le montant de la pension de réversion diffèrent selon les régimes et font l'objet de débats quant à leur adaptation aux modèles familiaux et conjugaux actuels. En effet, au régime général, en cas de décès de l'assuré, son conjoint survivant a droit à une pension de réversion, sous condition d'âge minimum (avoir 55 ans) et si ses ressources personnelles ou celles du ménage n'excèdent pas les plafonds définis par les textes (article L.353-1 du code de la sécurité sociale). Ces conditions d'âge et de ressources ne sont pas applicables au régime de retraite de la fonction publique (article L. 38 du code des pensions civiles et militaires). C'est pourquoi le Gouvernement s'est engagé, dans le cadre des débats sur le projet de loi rectificatif de financement de la sécurité sociale pour 2023 portant réforme des retraites, à mener une réflexion pour étudier les effets des mesures adoptées sur les droits familiaux et conjugaux. Le conseil d'orientation des retraites a ainsi été saisi afin qu'il analyse à la fois l'impact des mesures adoptées dans le cadre de la loi de financement rectificative de la sécurité sociale pour 2023 en matière de droits familiaux et conjugaux et les pistes envisageables concernant ces droits, compte tenu des évolutions sociétales et des formes de conjugalité. Ces propositions devront toutefois être compatibles avec l'objectif de pérennité financière du système des retraites.
