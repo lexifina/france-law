@@ -34,6 +34,8 @@ Pour l'application du présent règlement, on appelle :
 
 - les dispositifs destinés à donner l'alerte visés au paragraphe 2, premier tiret, de l'article MS 70 ;
 
+- les installations relatives à la continuité des moyens de communications radioélectriques, définies à l'article MS 71 ;
+
 - tableau électrique : ensemble de dispositifs de commande, de protection, de distribution de l'énergie électrique regroupés sur un même support. Il peut être disposé dans une enveloppe telle que armoire, coffret. Il est dit "de sécurité" lorsque les dispositifs précités concernent exclusivement des installations de sécurité. Il est dit "normal" dans le cas contraire. Les dispositifs de commande, même groupés, ne constituent pas un tableau ;
 
 - canalisation électrique : ensemble constitué par un ou plusieurs conducteurs électriques et les éléments assurant leur fixation et, le cas échéant, leur protection mécanique. Les conditions d'essais et de classification du point de vue de la résistance au feu des conducteurs et des câbles électriques sont fixées par l'arrêté du 21 juillet 1994 modifié (NOR : INTE9400390A).
