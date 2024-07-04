@@ -108,11 +108,9 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 
 - bâtiments porte-aéronefs cités dans l'arrêté fixant la liste des formations administratives relevant du chef d'état-major de la marine pris en application de l'article R. 3231-10 du code de la défense ;
 
-- groupe de transformation et de renfort de Brest/Equipe de conduite de frégates multi-missions ;
+- flottille de perfectionnement du surfacier Brest ;
 
-- groupe de transformation et de renfort de Brest - alerte - lutte au-dessus de la surface ;
-
-- groupe de transformation et de renfort de Toulon - alerte - lutte au-dessus de la surface ;
+- flottille de perfectionnement du surfacier Toulon ;
 
 - patrouilleur de haute mer " Commandant Blaison " ;
 
@@ -211,3 +209,5 @@ d) Direction interarmées des réseaux d'infrastructure et des systèmes d'infor
 NOTA :
 
 Conformément à l'article 2 de l'arrêté du 7 juin 2024 (NOR : ARMH2415574A), les dispositions du c du 5° de l'article 1er dudit arrêté prennent effet le 1er août 2024.
+
+Conformément à l'article 3 de l'arrêté du 28 juin 2024 (NOR : ARMH2418044A), ces dispositions sont applicables aux rémunérations versées à compter du mois de juillet 2024.

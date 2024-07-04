@@ -74,7 +74,7 @@ Postes exigeant la mise en œuvre et la maintenance des aéronefs ou la certific
 
 - base navale de Fort-de-France - Secteur soutien aéronaval ;
 
-- base navale de Ports des Galets - 36 F La Réunion ;
+- base navale de Ports des Galets ;
 
 - flottilles et escadrilles d'hélicoptères et d'avion de surveillance maritime et leurs détachements en métropole et outre-mer ;
 

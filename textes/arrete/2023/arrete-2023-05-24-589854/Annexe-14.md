@@ -10,11 +10,7 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - flottilles 4F, 11F, 12F, 17F, 31F, 32F, 33F, 34F, 35F et 36F et leurs détachements ;
 
-- escadrille du centre d'expérimentations pratiques de l'aéronautique navale (CEPA/10S) ;
-
-- détachement du centre d'expérimentations pratiques et de réception de l'aéronautique navale " Chasse Istres " (DETCEPA CHASSE ISTRES) ;
-
-- détachement du centre d'expérimentations pratiques et de réception de l'aéronautique navale " Panther Standard 2 " (DETCEPAPTR STD 2) ;
+- centre d'expérimentations pratiques de l'aéronautique navale (CEPA/ 10S) et ses détachements ;
 
 - centre d'expertise d'hélicoptères (CENTEX HELICO) ;
 

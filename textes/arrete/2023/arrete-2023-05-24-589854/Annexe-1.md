@@ -50,7 +50,7 @@ II. - Au titre du II de la même annexe :
 
 III. - Au titre du III de la même annexe :
 
-L'ensemble des flottilles de l'aéronautique navale chargées de mettre en œuvre des aéronefs à partir des bâtiments ;
+l'ensemble des flottilles de l'aéronautique navale chargées de mettre en œuvre des aéronefs à partir des bâtiments ;
 
 - centre d'expertise du groupe aérien embarqué (CENTEX GAé) ;
 

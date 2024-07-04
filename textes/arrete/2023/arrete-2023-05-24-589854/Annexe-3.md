@@ -98,6 +98,8 @@ a) Marine nationale :
 
 - escadrille des sous-marins nucléaires d'attaque ;
 
+- escadrille des sous-marins nucléaires lanceurs d'engins ;
+
 - cours à l'école de plongée ;
 
 - cours du brevet d'aptitude technique de plongeur démineur ;
@@ -180,13 +182,17 @@ d) Service de santé des armées :
 
 - 2e antenne médicale spécialisée soutenant le commando Hubert.
 
-e) Autres unités :
+e) Autres organismes, unités et emplois :
 
-- service hydrographique et océanographique de la marine ;
+- Service hydrographique et océanographique de la marine ;
 
 - direction générale de l'armement (DGA) Essais de missiles - Site Landes ;
 
 - commandement des éléments français au Sénégal ;
+
+- école navale ;
+
+- services des districts du territoire des Terres Australes et Antarctiques Françaises ;
 
 - autres postes de plongeur hyperbariste, de plongeur subaquatique et de plongeur d'appui.
 
