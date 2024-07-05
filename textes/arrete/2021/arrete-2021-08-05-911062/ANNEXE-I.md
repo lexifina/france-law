@@ -20,33 +20,27 @@ La liste des cycles de formation dénommés "Prépas Talents" mentionnés à l'a
 
 - Prépa Talents du service public de l'université d'Aix-Marseille
 
-- Prépa Talents sécurité et défense de l'université de Besançon
-
 - Prépa Talents ESPOIR (Egalité Service Public Objectif Insertion Réussite) de l'Institut d'études politiques de Bordeaux (pôles Sécurité et Justice, Sanitaire et Social, et Objectif Institut national du service public)
 
 - Prépa Talents du service public de l'université de Bordeaux
 
-- Prépa Talents aux concours du secteur santé-social de CY Cergy Paris Université
-
 - Prépa Talents l'Institut national du service public de l'université d'Evry Val d'Essonne
 
-- Prépa Talents d'administration publique de l'université de La Réunion (concours A+ et A)
+- Masters Prépas Talents du service public (Droit public et Economie appliquée) de l'université de La Réunion
 
-- Prépa Talents de l'Institut d'études politiques de Lille
+- Prépa Talents aux Grands concours administratifs de Science Po Lille
 
 - Prépa Talents Métiers de l'administration pénitentiaire Hauts-de-France de l'université de Lille
 
-- Prépa Talents de l'université Paul Valéry Montpellier III
-
-- Prépa Talents du service public de l'université d'Orléans
+- Prépa Talents du service public “ Direction de l'Action Publique ” de l'université d'Orléans
 
 - Prépa MotivTalents de l'Institut d'études politiques de Paris
 
 - Prépa Talents tout au long de la vie du Centre national des arts et métiers
 
-- Prépa Talents M2 de l'université Paris II Panthéon-Assas
+- Prépa Talents M2 de “ Concours A + ” de l'université Paris-Panthéon-Assas
 
-- Prépa Talents de l'ENSP de l'université Paris II Panthéon-Assas
+- Prépa Talents de l'ENSP de l'université Paris-Panthéon-Assas
 
 - Prépa Talents sécurité justice de l'université de Poitiers
 
@@ -74,8 +68,10 @@ La liste des cycles de formation dénommés "Prépas Talents" mentionnés à l'a
 
 - Prépa Talents de l'université Toulouse 1 Capitole ;
 
-- Prépa Talents des services publics sociaux de l'université de Clermont-Auvergne.
+- Prépa Talents des services publics sociaux de l'université de Clermont-Auvergne ;
 
-NOTA :
+- Prépa Tremplin des Talents de l'université de Haute Alsace ;
 
-Conformément à l’article 11 de l‘ordonnance n° 2021-702 du 2 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+- Prépa Talents de l'université de Mayotte ;
+
+- Prépa Talents de l'université Paris Dauphine-PSL.

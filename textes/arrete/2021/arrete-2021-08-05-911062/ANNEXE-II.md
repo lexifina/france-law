@@ -10,7 +10,7 @@ La liste des cycles de formation dénommés " Prépas Talents " mentionnés à l
 
 -Prépa Talents de l'Ecole nationale de la concurrence, de la consommation et de la répression des fraudes
 
--Prépa Talents de l'Ecole nationale de la protection judiciaire de la jeunesse
+-Prépa Talents de l'Ecole nationale de protection judiciaire de la jeunesse
 
 -Prépa Talents de l'Ecole nationale des douanes
 
@@ -18,11 +18,11 @@ La liste des cycles de formation dénommés " Prépas Talents " mentionnés à l
 
 -Prépa Talents de l'Ecole nationale des greffes
 
--Prépa talents de l'Ecole nationale des techniciens de l'équipement
+-Prépa Talents du Centre Valorisation des Ressources Humaines Arras Valenciennes
 
 -Prépa Talents de l'École nationale supérieure de la police (Cannes-Ecluse)
 
--Prépa Talent de l'Institut de formation des personnels du ministère de l'agriculture
+-Prépa Talent de l'Institut national de formation des personnels du ministère de l'agriculture
 
 -Prépa Talents du centre de formation de l'Institut national de la statistique et des études économiques
 
@@ -52,11 +52,7 @@ La liste des cycles de formation dénommés " Prépas Talents " mentionnés à l
 
 -Prépa Talents du service public-Concours de la DGFIP de l'université de Montpellier
 
--Prépa Tremplin des talents de l'université de Haute-Alsace
-
 -Prépa Talents du service public de l'université de Paris Nanterre
-
--Prépa Talents concours de catégorie A du ministère de l'économie, des finances et de la relance de l'Institut d'études politiques de Toulouse
 
 -Prépa Talents du service public de l'université polytechnique des Hauts-de-France (filière économie, finances et travail)
 
@@ -68,12 +64,12 @@ La liste des cycles de formation dénommés " Prépas Talents " mentionnés à l
 
 -Prépa Talents “ collectivités territoriales ” de l'université d'Orléans (Châteauroux) ;
 
--Prépa Talents gendarmerie d'Amiens ;
-
--Prépa Talents inspecteur du travail de l'Institut de préparation à l'administration générale de Nanterre ;
-
 -Prépa Talents gendarmerie de Montpellier ;
 
 -Prépa Talents “ métiers de l'administration et de la justice ” de l'université d'Aix-Marseille ;
 
--Prépa Talents finances publiques de l'université de Picardie Jules Verne.
+-Prépa Talents inspecteur des finances publiques de l'université de Picardie Jules Verne ;
+
+-Prépa Talents concours de catégorie A du ministère de l'économie et des finances de l'université Paris 1 Panthéon -Sorbonne, E-prépa ;
+
+-Prépa Talents Campus connecté des quartiers nord de Marseille.
