@@ -40,7 +40,7 @@ F-SAAA à F-SZZZ.
 
 F-TAAA à F-TZZZ.
 
-F-UAAA à F-UZZZ.
+F-UAAA à F-UZY.
 
 Direction générale de la gendarmerie nationale
 
@@ -59,3 +59,7 @@ F-ZBAA, F-ZBAP, F-ZBAZ, F-ZBCZ, F-ZBEG, F-ZBEH.
 F-ZBET à F-ZBFZ.
 
 F-ZBMA à F-ZBZZ.
+
+Direction générale de la police nationale
+
+F-UZZA à F-UZZZ.
