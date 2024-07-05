@@ -858,15 +858,11 @@ FR000000000000038
 
 |
 
-Synthomer France SAS
+SYNTHOMER FRANCE SAS
 
 |
 
-Synthomer France SAS
-
-|
-
-12250
+SYNTHOMER FRANCE SAS
 
 |
 
@@ -874,19 +870,23 @@ Synthomer France SAS
 
 |
 
-12250
+11585
 
 |
 
-12250
+9887
 
 |
 
-12250
+9887
 
 |
 
-61250
+9887
+
+|
+
+53496
 
 |
 
@@ -1122,23 +1122,23 @@ DSSMITH PACKAGING CONTOIRE HAMEL
 
 |
 
-16701
+16731
 
 |
 
-16701
+16312
 
 |
 
-16701
+16312
 
 |
 
-16701
+16312
 
 |
 
-83505
+82368
 
 |
 
@@ -1218,15 +1218,11 @@ FR000000000000055
 
 |
 
-Tereos Starch & Sweeteners Europe Etablissement de Nesle (80190)
+TEREOS STARCH SWEETENERS EUROPE ETABLISSEMENT DE NESLE (80190)
 
 |
 
-Tereos Starch & Sweeteners
-
-|
-
-143540
+TEREOS STARCH SWEETENERS EUROPE
 
 |
 
@@ -1238,17 +1234,19 @@ Tereos Starch & Sweeteners
 
 |
 
-143540
+108241
 
 |
 
-143540
+108241
 
 |
 
-717700
+108241
 
 |
+
+611803 |
 
 FR000000000000056
 
@@ -4886,35 +4884,35 @@ FR000000000000226
 
 |
 
-OI France SAS Reims
+O-I FRANCE REIMS
 
 |
 
-OI France SAS
+OI FRANCE SAS
 
 |
 
-40138
+40376
 
 |
 
-40138
+50001
 
 |
 
-40138
+50001
 
 |
 
-40138
+50001
 
 |
 
-40138
+50001
 
 |
 
-200690
+240380
 
 |
 
@@ -15458,7 +15456,7 @@ FR000000000000705
 
 |
 
-Chaufferie de la maison d'arrêt de Fleury-Mérogis
+CHAUFFERIE DE LA MAISON D'ARRET DE FLEURY-MEROGIS
 
 |
 
@@ -15474,19 +15472,19 @@ SEER
 
 |
 
-1227
+1477
 
 |
 
-1227
+1477
 
 |
 
-1227
+1477
 
 |
 
-6135
+6885
 
 |
 
@@ -17812,19 +17810,17 @@ CENPA SAS
 
 |
 
-5695
+9242
 
 |
 
-5695
+9242 |
+
+9242
 
 |
 
-5695
-
-|
-
-27216
+37857
 
 |
 
@@ -22176,11 +22172,11 @@ FR000000000001028
 
 |
 
-tuilerie Monier Roumazières
+BMI PRODUCTION FRANCE-Usine de Roumazières
 
 |
 
-MONIER SAS
+BMI PRODUCTION FRANCE
 
 |
 
@@ -23056,19 +23052,19 @@ TEREOS France
 
 |
 
-52825
+52165
 
 |
 
-52825
+52165
 
 |
 
-52825
+52165
 
 |
 
-281943
+279963
 
 |
 
@@ -24444,11 +24440,11 @@ FR000000000001140
 
 |
 
-SAINT-GOBAIN EUROCOUSTIC
+BMI PRODUCTION FRANCE-Usine de Limoux Massia
 
 |
 
-SAINT-GOBAIN EUROCOUSTIC
+BMI PRODUCTION FRANCE
 
 |
 
@@ -25128,11 +25124,11 @@ FR000000000001161
 
 |
 
-tuilerie Monier Signy l'Abbaye
+BMI PRODUCTION France-Usine de Signy l'Abbaye
 
 |
 
-MONIER SAS
+BMI PRODUCTION FRANCE
 
 |
 
@@ -25488,11 +25484,11 @@ FR000000000201650
 
 |
 
-GlaxoSmithKline Biologicals SAS
+GLAXOSMITHKLINE BIOLOGICALS SAS
 
 |
 
-GlaxoSmithKline Biologicals SAS
+GLAXOSMITHKLINE BIOLOGICALS SAS
 
 |
 
@@ -25504,19 +25500,19 @@ GlaxoSmithKline Biologicals SAS
 
 |
 
-1459
+-
 
 |
 
-1459
+-
 
 |
 
-1459
+-
 
 |
 
-6945
+2568
 
 |
 
@@ -28804,7 +28800,7 @@ SUNDESHY - SITE DE SOUDRON
 
 |
 
-Société coopérative agricole de déshydratation SUNDESHY
+SOCIETE COOPERATIVE AGRICOLE DE DESHYDRATATION SUNDESHY
 
 |
 
@@ -28812,25 +28808,23 @@ Société coopérative agricole de déshydratation SUNDESHY
 
 |
 
-4883
+1570
 
 |
 
-4883
+1570
 
 |
 
-4883
+1570
 
 |
 
-4883
+1570
 
 |
 
-25813
-
-|
+12561 |
 
 FR000000000205702
 
@@ -29698,7 +29692,7 @@ FR000000000205876
 
 |
 
-MAISADOUR Haut-Mauco
+MAISADOUR HAUT-MAUCO
 
 |
 
@@ -29714,19 +29708,19 @@ MAISADOUR - HAUT MAUCO
 
 |
 
-1404
+1203
 
 |
 
-1404
+1203
 
 |
 
-1404
+1203
 
 |
 
-6819
+6216
 
 |
 
@@ -30130,15 +30124,9 @@ FR000000000205947
 
 |
 
-VALLOUREC TUBE France ETABLISSEMENT DE SAINT SAULVE
+VALLOUREC TUBE FRANCE ETABLISSEMENT DE SAINT SAULVE |
 
-|
-
-Vallourec Tubes France-tuberie de Saint Saulve
-
-|
-
-3650
+VALLOUREC TUBES FRANCE-TUBERIE DE SAINT SAULVE
 
 |
 
@@ -30150,15 +30138,19 @@ Vallourec Tubes France-tuberie de Saint Saulve
 
 |
 
-3650
+-
 
 |
 
-3650
+-
 
 |
 
-18250
+-
+
+|
+
+7300
 
 |
 
@@ -31496,35 +31488,35 @@ FR000000000206291
 
 |
 
-Colas France - Centrale d'enrobage mobile - TSM25-3
+COLAS FRANCE-CENTRALE D'ENROBAGE MOBILE-TSM25-3
 
 |
 
-Colas France
+COLAS FRANCE-TERRITOIRE NORD EST-ETABLISSEMENT GRAND TRAVAUX France
 
 |
 
-1386
+1381
 
 |
 
-1386
+1172
 
 |
 
-1386
+1362
 
 |
 
-1386
+1362
 
 |
 
-1386
+1362
 
 |
 
-6930
+6639
 
 |
 
@@ -33668,23 +33660,23 @@ SEMGEMA
 
 |
 
-724
+-
 
 |
 
-724
+-
 
 |
 
-724
+-
 
 |
 
-724
+-
 
 |
 
-3462
+566
 
 |
 
@@ -37832,35 +37824,35 @@ FR000000000217260
 
 |
 
-CHR Nancy-BRABOIS
+SEEV-CHR NANCY BRABOIS
 
 |
 
-Seev
+SEEV
 
 |
 
-694
+437
 
 |
 
-694
+437
 
 |
 
-694
+437
 
 |
 
-694
+437
 
 |
 
-694
+437
 
 |
 
-3470
+2185
 
 |
 
@@ -38120,35 +38112,33 @@ FR000000000218440
 
 |
 
-Unité SMR Gonfreville l'Orcher
+AIR LIQUIDE FRANCE INDUSTRIE
 
 |
 
-AR LIQUIDE FRANCE INDUSTRIE
+AIR LIQUIDE HYDROGENE
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
-478903
+237993 |
+
+237993
 
 |
 
-478903
+237993
 
 |
 
-478903
-
-|
-
-1436709
+713979
 
 |
 
@@ -38674,7 +38664,7 @@ TRABET |
 
 / |
 
-FR-new-000014959 |
+FR000000000222500 |
 
 SAINT-FONS POWER PLANT |
 
@@ -38769,6 +38759,146 @@ FR-new-006505859 |
 ETEX BUILDING MERIEL |
 
 ETEX BUILDING MERIEL |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-005200257
+
+|
+
+NOURYON PULP AND PERFORMANCE CHEMICALS SAS |
+
+NOURYON PULP AND PERFORMANCE CHEMICALS SAS |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-005600291
+
+|
+
+CLAUVAE-CHAUFFERIE DES CEZEAUX |
+
+CLAUVAE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100039196
+
+|
+
+ENGIE ENERGIE SERVICES BOURBOURG |
+
+ENGIE ENERGIE SERVICES |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100026825
+
+|
+
+Chaufferie Centrale ESTIA SMET |
+
+ESTIA RESEAUX DE CHALEUR |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-006412905
+
+|
+
+KNAUF PLATRES FOS |
+
+KNAUF PLATRES |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-006401643
+
+|
+
+ETEX Mazan |
+
+ETEX France BUILDING PERFORMANCE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-100000318
+
+|
+
+NOVASTEAM |
+
+SUEZ RV FRANCE |
 
 / |
 
@@ -39439,22 +39569,6 @@ SUEZ
 |
 
 Rambervillers
-
-|
-
-FR-new-003013459
-
-|
-
-B+T Energie France
-
-|
-
-B+T Energie France
-
-|
-
-Chalampé
 
 |
 
@@ -40177,3 +40291,7 @@ SMEDAR
 Le Grand-Quevilly
 
 |
+
+NOTA :
+
+Conformément au 6 de l'article annexe de l'arrtêté du 4 juillet 2024 (NOR : ECOR2418401A), l'installation FR-new-003013459 est supprimée de la liste des installations d'incinération de déchets municipaux dont la puissance calorifique totale de combustion est supérieure à 20 MW, soumises au système d'échange de quotas d'émission de gaz à effet de serre à compter du 1er janvier 2024 en ce qui concerne les obligations de déclaration des émissions et de vérification de l'article R. 229-20 du code de l'environnement.
