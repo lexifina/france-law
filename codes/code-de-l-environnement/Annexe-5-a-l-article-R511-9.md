@@ -726,7 +726,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
 
 |
 
-Hydrogène (numéro CAS 133-74-0).
+Hydrogène (numéro CAS 133-74-0)
 
 |
 
@@ -734,7 +734,7 @@ Hydrogène (numéro CAS 133-74-0).
 
 |
 
-La quantité susceptible d'être présente dans l'installation étant :
+La quantité susceptible d'être présente dans l'installation terrestre étant :
 
 |
 
@@ -756,11 +756,13 @@ A |
 
 D |
 
-|
+- |
 
-Quantité seuil bas au sens de l'article R. 511-10 : 5 t.
+Quantité seuil bas, au sens de l'article R. 511-10 : 5 t
 
-Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
+Quantité seuil haut, au sens de l'article R. 511-10 : 50 t
+
+Une installation est considérée comme terrestre dès lors qu'elle n'est pas en mer, sauf si elle est située dans les limites administratives d'un port maritime.
 
 |
 

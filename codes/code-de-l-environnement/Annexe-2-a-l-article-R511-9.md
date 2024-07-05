@@ -216,11 +216,19 @@ A |
 
 1416 |
 
-Stations-service : installations, ouvertes ou non au public, où l'hydrogène gazeux est transféré dans les réservoirs de véhicules, la quantité journalière d'hydrogène distribuée étant supérieure ou égale à 2 kg/ jour. |
+Stations-service : installations terrestres, ouvertes ou non au public, où l'hydrogène gazeux est transféré dans les réservoirs de véhicules, la quantité journalière d'hydrogène distribuée étant supérieure ou égale à 2 kg/ jour |
 
 DC |
 
 - |
+
+|
+
+Une installation est considérée comme terrestre dès lors qu'elle n'est pas en mer, sauf si elle est située dans les limites administratives d'un port maritime. |
+
+|
+
+|
 
 1421
 
@@ -667,7 +675,3 @@ D |
 (2) Rayon d'affichage en kilomètres.
 
 Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
-
-NOTA :
-
-Conformément à l’article 3 du décret n° 2020-1169 du 24 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
