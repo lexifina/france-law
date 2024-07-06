@@ -264,7 +264,7 @@ Elle précise qu'il est chargé de la succession ou qu'il est le notaire de la p
 
 |
 
-|
+Dispositif législatif ad hoc ou article 40-III de la loi n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises ou article L. 518-24-1 du code monétaire et financier et leurs décrets d'application. |
 
 1.2.1.5.1. Pièces générales |
 
@@ -1266,25 +1266,23 @@ Constituent des frais annexes les frais de délivrance de passeports, de visas, 
 
 2.1.6. Carte affaires |
 
-- Contrat d'ouverture de compte (dit " contrat d'entreprise ") entre l'émetteur et l'entité publique lors du premier paiement ;
+-Contrat d'ouverture de compte (dit " contrat d'entreprise ") entre l'émetteur et l'entité publique lors du premier paiement ; et, selon le cas :
 
-et, selon le cas :
+-paiement des frais de déplacement temporaires : se reporter au point 2.1.2 ;
 
-- Paiement des frais de déplacement temporaires : se reporter au point 2.1.2 ;
+-paiement des frais de réception et de représentation : se reporter au point 2.3.1. ;
 
-- Paiement des frais de réception et de représentation : se reporter au point 2.3.1. ;
+-paiement des frais annexes nécessités par la mission et justifiés par une facture ;
 
-- Paiement des frais annexes nécessités par la mission et justifiés par une facture ;
+-prestations financières liées à la délivrance et à l'utilisation de la carte : facture de l'établissement financier ;
 
-- Prestations financières liées à la délivrance et à l'utilisation de la carte : facture de l'établissement financier ;
+-frais d'opérations tenant à l'utilisation de la carte : éléments figurant dans l'état de frais ou relevé d'opérations. |
 
-- Frais d'opérations tenant à l'utilisation de la carte : éléments figurant dans l'état de frais ou relevé d'opérations. |
-
-Instruction interministérielle n° NOR CPAZI1733974J du 11 décembre 2017 relative au déploiement et à l'utilisation de la carte affaire et de la carte d'achat.
+Instruction interministérielle n° NOR ECOA2312033C du 16 mai 2023 relative au déploiement et à l'utilisation de la carte affaires et de la carte d'achat.
 
 La carte affaires est une carte personnelle de paiement à débit différé, adossée sur le compte bancaire de l'agent, lui permettant d'être remboursé de ses frais professionnels avant que son compte ne soit effectivement débité. Ces frais recouvrent les frais de déplacement temporaires, y compris, le cas échéant, les frais annexes et les frais de réception et de représentation.
 
-Les frais annexes concernent les dépenses accessoires nécessaires à l'exécution de la mission (frais de documentation, location de salle, ou de matériel audiovisuel…). Ces derniers sont encadrés par l'entité publique dont dépendent les agents porteurs de carte affaires. |
+Les frais annexes concernent les dépenses accessoires nécessaires à l'exécution de la mission (frais de documentation, location de salle, ou de matériel audiovisuel …). Ces derniers sont encadrés par l'entité publique dont dépendent les agents porteurs de carte affaires. |
 
 2.1.7. Carte voyagiste (ou carte logée) |
 
@@ -1400,25 +1398,25 @@ L'attestation que les conditions de versement du solde sont remplies peut figure
 
 2.3.1. Frais de représentation et de réception |
 
-- Facture ;
+-Facture ;
 
 et
 
-- Déclaration de frais certifiée par l'ordonnateur, mentionnant la nature de la réception, la date, le relevé des frais exposés ainsi que leur montant global. |
+-déclaration de frais certifiée par l'ordonnateur, mentionnant la nature de la réception, la date, le relevé des frais exposés ainsi que leur montant global. |
 
-Recueil des règles de comptabilité budgétaire de l'Etat publié par la Direction du budget.
+Recueil des règles de comptabilité budgétaire de l'État publié par la direction du budget.
 
 Les frais de représentation et de réception peuvent être pris en charge par une carte affaires.
 
-L'utilisation de la carte d'achat est par ailleurs autorisée, sauf dans le cadre de la mise en œuvre de la procédure simplifiée d'utilisation de la carte d'achat de niveau 1bis.
+L'utilisation de la carte d'achat est par ailleurs autorisée, sauf lorsque la dépense effectuée fait l'objet d'un référencement préalable de l'activité dans le système d'information financière Chorus (sous-rubrique 4.1.1.2.).
 
-Ces frais peuvent faire l'objet d'un remboursement à un agent qui a fait l'avance, ou directement au fournisseur.
+Ces frais peuvent être remboursés à un agent qui en a fait l'avance, ou être payés directement au fournisseur.
 
 La déclaration de frais peut prendre la forme d'une demande de remboursement formalisée par un agent ayant fait l'avance des frais, ou d'une attestation contenant l'ensemble des mentions précisées à la présente rubrique.
 
 La certification de l'ordonnateur est destinée à attester du caractère public de la dépense.
 
-Le comptable public ne s'assure pas du rattachement effectif de la dépense au service ; cet examen relève d'un contrôle de légalité qu'il ne lui appartient pas d'exercer (Conseil d'Etat, arrêt n° 306960, 21 octobre 2009). |
+Le comptable public ne s'assure pas du rattachement effectif de la dépense au service ; cet examen relève d'un contrôle de légalité qu'il ne lui appartient pas d'exercer (Conseil d'État, arrêt n° 306960,21 octobre 2009). |
 
 2.3.2. Dépenses liées aux élections politiques |
 
@@ -1434,31 +1432,39 @@ Le comptable public ne s'assure pas du rattachement effectif de la dépense au s
 
 2.3.2.1.1. Remboursement aux candidats des frais d'impression et d'affichage |
 
--Factures libellées au nom du candidat ou du candidat tête de liste ;
+-Factures libellées au nom du candidat ou du candidat tête de liste ou de son mandataire ;
 
 et,
 
--Etat liquidatif ;
+-état liquidatif ;
 
 et, le cas échéant,
 
--Subrogation du candidat au fournisseur ;
+-subrogation du candidat ou de son mandataire au fournisseur ;
 
-ou, lorsque le candidat a procédé à un recrutement de personnels,
+ou, lorsque le candidat a procédé à un recrutement de personnels ;
 
--Attestation du candidat ou de son mandataire ;
+-attestation du candidat ou de son mandataire ;
 
 et
 
--Pièces justifiant le recrutement. |
+-pièces justifiant le recrutement. |
 
-Ces frais ne peuvent concerner que des dépenses effectuées par des entreprises professionnelles. Les prestations bénévoles, associatives ou militantes n'ouvrent pas droit à remboursement.
+Article L. 52-4 du code électoral.
+
+Ces frais ne peuvent concerner que des dépenses effectuées par des entreprises professionnelles.
+
+Les prestations bénévoles, associatives ou militantes n'ouvrent pas droit à remboursement.
 
 Un arrêté fixe, pour chaque élection, les tarifs maxima de remboursement de ces frais.
 
-Par exemple, contrat de travail, bulletin de paye, déclaration préalable d'embauche.
+Par exemple, contrat de travail,
 
-Cf. Annexe D-Mentions relatives à l'affacturage |
+bulletin de paye, déclaration
+
+préalable d'embauche.
+
+Cf. Annexe D-Mentions relatives à l'affacturage. |
 
 2.3.2.1.2. Frais d'adressage, de mise sous pli et d'acheminement des documents électoraux |
 
@@ -2876,15 +2882,19 @@ Montant identique au premier versement. |
 
 -Décision plaçant l'agent en congé pour invalidité temporaire imputable au service à titre provisoire ;
 
-et
+ou, le cas échéant,
 
--Etat liquidatif des sommes à mettre en paiement, hors rémunération. |
+-certificat de prise en charge des frais médicaux ;
 
-Articles L. 822-18 et suivants du Code général de la Fonction publique
+ou
 
-Décret n° 86-442 du 14 mars 1986 (articles 47-1 et suivants du Titre VI bis).
+-décision de reconnaissance d'imputabilité au service d'un accident ou d'une maladie ;
 
-Pour la prise en charge des prestations en nature (remboursement des honoraires médicaux et des frais directement entraînés par la maladie ou l'accident) les justifications doivent être apportées aux services gestionnaires par les intéressés. |
+et-état liquidatif des sommes à mettre en paiement hors rémunération. |
+
+Articles L. 822-18 et suivants du code général de la fonction publique Décret n° 86-442 du 14 mars 1986 (articles 47-1 et suivants du titre VI bis). Pour la prise en charge des prestations en nature (remboursement des honoraires médicaux et des frais directement entraînés par la maladie ou l'accident) les justifications doivent être apportées aux services gestionnaires par les intéressés.
+
+Le certificat de prise en charge des frais médicaux est produit sous la responsabilité de l'ordonnateur. Si l'administration ne constate pas l'imputabilité au service, les sommes indûment payées font l'objet d'un titre de perception. Ce certificat de prise en charge n'engage pas l'administration quant à l'imputabilité de l'accident. |
 
 3.4.4. Assurance invalidité |
 
@@ -3158,77 +3168,79 @@ Le bon à mandater (BAM) produit par le système d'information HERMES du minist�
 
 Le BAM peut être complété par d'autres pièces justificatives générées par cet applicatif. |
 
-4.1.1. Marchés exécutés par carte d'achat |
+4.1.1. Marchés d'émission de cartes achat |
 
-Décret n° 2021-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique (article 23).
+Décret n° 2021-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique (article 32).
 
-Arrêté du 30 décembre 2013 portant détermination des dépenses de l'Etat payées sans ordonnancement, sans ordonnancement préalable et avant service fait (article 4-17°).
+Arrêté du 30 décembre 2013 portant détermination des dépenses de l'Etat payées sans ordonnancement, sans ordonnancement préalable, après ordonnancement tacite et avant service fait (article 4-17°).
 
-Décret n° 2004-1144 du 26 octobre 2004.
+Décret n° 2023-209 du 27 mars 2023 relatif à l'exécution de la dépense publique par carte d'achat.
 
-Instruction interministérielle n° NOR CPAZ1733974J du 11 décembre 2017 relative au déploiement et à l'utilisation de la carte affaires et de la carte d'achat.
+Arrêté du 22 mai 2023 portant application de l'article 3 du décret n° 2023-209 du 27 mars 2023.
 
-Instruction DGFiP n° 19-0015 du 29 mars 2019 relative à l'exécution des marchés publics écrits et non écrits par carte d'achat dans le cadre des services de l'Etat.
+Instruction interministérielle n° NOR ECOA2312033C du 16 mai 2023 relative au déploiement et à l'utilisation de la carte affaires et de la carte d'achat.
 
-Les marchés de travaux ne peuvent être exécutés par carte d'achat, sauf décision de l'entité publique motivée par des besoins d'entretien et de réparation courants n'ayant pas fait l'objet d'un programme.
+Ne peuvent être exécutés par carte d'achat :
 
-Les marchés publics comportant une avance ne peuvent être exécutés par carte d'achat.
+-les marchés de travaux, sauf décision de l'entité publique motivée par des besoins d'entretien et de réparation courants n'ayant pas fait l'objet d'un programme ;
 
-Le relevé d'opérations administration (ROA) à payer est produit sous format dématérialisé (pièce attachée et correspondant à la demande de paiement). |
+-les marchés conduisant à une comptabilisation des achats sur comptes de stocks ;
 
-4.1.1.1. Carte d'achat avec opération de niveau 1 |
+-les marchés publics comportant une avance.
+
+Le relevé d'opérations administration (ROA) à payer est produit sous format dématérialisé (pièce attachée à la demande de paiement d'un montant identique). |
+
+4.1.1.1. Carte d'achat avec demande de paiement Chorus de niveau 1 |
 
 Pour le premier paiement :
 
-- Marché d'émission de la carte d'achat ;
+-marché d'émission de cartes d'achat ;
 
-- Demande d'ouverture du compte (ou du sous-compte) technique ou liste détaillée des comptes techniques ouverts par l'émetteur ; |
-
-|
+-demande d'ouverture du compte technique ou liste détaillée des comptes techniques ouverts par l'émetteur.
 
 Pour tous les paiements :
 
-- Relevé d'opérations administration (ROA) ; |
-
-|
+-relevé d'opérations administration (ROA) ;
 
 et
 
-- Lorsque la présentation du ROA détaillée par l'article 7 alinéa 2 du décret n° 2004-1144 ne peut être obtenue, les factures concernant des dépenses payées par carte d'achat de niveau 1 sont transmises au comptable public. |
+-lorsque le ROA ne comporte pas les mentions prévues à l'article 4 du décret n° 2023-209 du 27 mars 2023, ainsi que les quantités, la nature des fournitures ou services, les dispositions du bordereau de prix, il convient de transmettre les factures et les justificatifs au comptable public. |
 
-Il convient de se référer à la rubrique de la présente nomenclature correspondant à la nature de la dépense payée par carte d'achat. |
+Il convient également de se référer à la rubrique de la présente nomenclature correspondant à la nature de la dépense payée par carte d'achat pour la production de pièces complémentaires. |
 
-4.1.1.2. Carte d'achat avec opération de niveau 1bis |
-
-Pour le premier paiement :
-
-- Marché d'émission de carte d'achat ;
-
-- Demande d'ouverture du compte (ou du sous-compte) technique ou liste détaillée des comptes techniques ouverts par l'émetteur ;
-
-Pour tous les paiements :
-
-- Relevé d'opérations administration (ROA). |
-
-Le ROA présente une ligne de dépense par fournisseur mentionné.
-
-Les frais de représentation et de réception sont exclus du dispositif de carte d'achat 1bis. |
-
-4.1.1.3. Carte d'achat avec opération de niveau 3 |
+4.1.1.2. Carte d'achat avec demande de paiement Chorus de niveau 1bis |
 
 Pour le premier paiement :
 
-- Marché d'émission de carte d'achat ;
+-marché d'émission de cartes d'achat ;
 
-- Demande d'ouverture du compte (ou du sous-compte) technique ;
-
-- Le cas échéant, marché public exécuté par carte d'achat et annexes ayant une incidence financière.
+-demande d'ouverture du compte technique ou liste détaillée des comptes techniques ouverts par l'émetteur.
 
 Pour tous les paiements :
 
-- Relevé d'opérations administration (ROA). |
+-relevé d'opérations administration (ROA). |
 
-Le relevé d'opérations administration (ROA) présenté au comptable public doit être conforme à la description fournie par l'article 7 alinéa 2 du décret n° 2004-1144 du 26 octobre 2004 pour dispenser l'ordonnateur de la présentation des factures. |
+Le ROA présente une ligne de dépense par fournisseur, avec mention de la nature de la dépense par la désignation d'un compte PCE dans Chorus Formulaires.
+
+Les frais de représentation et de réception et les opérations de dépenses hors marchés publics visées par l'arrêté du 22 mai 2023 portant application de l'article 3 du décret n° 2023-209 du 27 mars 2023 sont des dépenses exclues de la présente sous-rubrique. |
+
+4.1.1.3. Carte d'achat avec demande de paiement de niveau 3 |
+
+Pour le premier paiement :
+
+-marché d'émission de cartes d'achat ;
+
+-demande d'ouverture du compte technique ou liste détaillée des comptes techniques ouverts par l'émetteur ;
+
+-le cas échéant, marché public exécuté par carte d'achat et annexes ayant une incidence financière, si son existence est formalisée par un engagement dans Chorus.
+
+Pour tous les paiements :
+
+-relevé d'opérations administration (ROA). |
+
+Le relevé d'opérations administration (ROA) présenté au comptable public doit être conforme à la description fournie par l'article 4 du décret n° 2023-209 du 27 mars 2023 relatif à l'exécution de la dépense publique par carte achat, et comporte les quantités, la nature des fournitures ou services, les dispositions du bordereau de prix.
+
+Lorsque le ROA ne comporte pas ces informations, il convient de transmettre les factures et les justificatifs au comptable public. |
 
 4.1.2. Marchés publics ne faisant pas l'objet d'un écrit |
 
@@ -4644,31 +4656,23 @@ Les effets de l'expropriation sont également attachés à la cession amiable co
 
 1. Pièces n° 3 à 7 prévues au point 6.1.2.1. et pièce n° 1 en l'absence d'acte notarié ;
 
-2. En l'absence d'acte notarié, pièce n° 3 prévue au point 6.1.2.2.1. ;
+2. en l'absence d'acte notarié, pièce n° 3 prévue au point 6.1.2.2.1. ;
 
-3. Jugement motivé fixant l'indemnité avec mention de la date de notification à l'intéressé, à moins que ce dernier n'ait acquiescé au jugement avant sa notification ;
+3. jugement motivé fixant l'indemnité avec mention de la date de notification à l'intéressé, à moins que ce dernier n'ait acquiescé au jugement avant sa notification ;
 
-4. Certificat de non-appel contre le jugement fixant l'indemnité, délivré par le greffe du tribunal, à l'expiration d'un délai d'un mois à dater de la notification du jugement ou acquiescement au jugement rendu ;
+4. en cas d'appel :
 
-5. En cas d'appel :
+-attestation de l'ordonnateur qu'il souhaite entrer en possession du bien ; et
 
-- Attestation de l'ordonnateur qu'il souhaite entrer en possession du bien ;
+-attestation de l'ordonnateur que la chambre d'expropriation de la cour d'appel a été saisie ; et
 
-et
+-le cas échéant, si l'ordonnateur conteste le montant fixé par le juge, décision de consignation à concurrence du montant autorisé par le juge de l'expropriation ;
 
-- Attestation de l'ordonnateur que la chambre d'expropriation de la cour d'appel a été saisie ;
+5. en cas de pourvoi en cassation :
 
-et
+-arrêt motivé fixant l'indemnité statuant sur les dépens et mentionnant la date de signification à la partie intéressée ; et
 
-- Le cas échéant, si l'ordonnateur conteste le montant fixé par le juge, décision de consignation à concurrence du montant autorisé par le juge de l'expropriation ;
-
-6. En cas de pourvoi en cassation :
-
-- Arrêt motivé fixant l'indemnité statuant sur les dépens et mentionnant la date de signification à la partie intéressée ;
-
-et
-
-- Acte par lequel la Cour de cassation a été saisie. |
+-acte par lequel la Cour de cassation a été saisie. |
 
 Articles R. 311-4 et R. 311-22 du code de l'expropriation pour cause d'utilité publique.
 
@@ -4774,11 +4778,11 @@ Les mentions suivantes doivent figurer dans les baux ou conventions assimilées 
 
 6.2.1.2. Paiements ultérieurs |
 
-- Avis d'échéance, facture, quittance ou décompte ;
+-Avis d'échéance, facture, ou décompte ;
 
-- En cas de révision du montant du loyer, document faisant état d'une révision financière ;
+-en cas de révision du montant du loyer, document faisant état d'une révision financière ;
 
-- En cas de changement de bailleur, acte établissant la qualité et les droits du nouveau bailleur. |
+-en cas de changement de bailleur, acte établissant la qualité et les droits du nouveau bailleur. |
 
 |
 
@@ -5206,13 +5210,11 @@ Article R. 147-1 du CPP. |
 
 8.1.14. Indemnité à la suite d'un non-lieu, d'une relaxe ou d'un acquittement |
 
-- Décision de la juridiction d'instruction ou de jugement ;
-
-- Certificat de non appel délivré par le greffe. |
+-Décision de la juridiction d'instruction ou de jugement. |
 
 Article 800-2 du CPP.
 
-Article R. 92, 15° du CPP.
+Article R. 92,15° du CPP.
 
 Articles R. 249-2 à R. 249-8 du CPP. |
 
@@ -5276,41 +5278,41 @@ Article R. 93-II, 10° du CPP. |
 
 8.2.6. Frais en matière de procédures collectives de redressement et liquidations judiciaires |
 
-- Ordonnance du juge commissaire constatant l'insuffisance des fonds et ordonnant l'avance par le Trésor Public ;
+- Ordonnance du juge commissaire constatant l'insuffisance des fonds et ordonnant l'avance par le Trésor public ;
 
-- Justificatifs en fonction de la nature de la dépense ;
-
-- Certificat de non appel du parquet. |
+- justificatifs en fonction de la nature de la dépense. |
 
 Article L. 663-1 du code de commerce.
 
-Article R. 93-I, 12° du CPP. |
+Article R. 93-I, 12° du CPP.
+
+|
 
 8.3. DÉPENSES D'AIDE JURIDICTIONNELLE |
 
-- Attestation du greffier en chef ou du secrétaire de la juridiction ;
+-Attestation du greffier en chef ou du secrétaire de la juridiction ;
 
 ou
 
-- Décision de taxe ;
+-décision de taxe ;
 
 ou
 
-- Ordonnance du président de la juridiction saisie ;
+-ordonnance du président de la juridiction saisie ;
 
 et
 
-- Justification par l'avocat de l'exécution de sa mission (article 110 du décret n° 91-1266 du 19 décembre 1991). |
+-justification par l'avocat de l'exécution de sa mission. |
 
 Une contribution est versée par le comptable au titre de l'aide juridictionnelle.
 
-Article R. 93, 11° du CPP.
+Article R. 93,11° du CPP.
 
 Articles 24 et 40 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique.
 
-Articles 90 à 119 du décret n° 91-1266 du 19 décembre 1991 portant application de la loi du 10 juillet 1991.
+Articles 86 à 130 du décret n° 2020-1717 du 28 décembre 2020 et ses annexes.
 
-Par exception, la somme revenant à l'avocat est payée par la CARPA (article 105 du décret n° 91-1266 du 19 décembre 1991). Sont concernées : la part contributive due par l'Etat aux avocats au Conseil d'Etat et à la Cour de cassation, aux huissiers de justice, notaires, commissaires priseurs et greffiers des tribunaux de commerce (articles 106 et 107 du décret n° 91-1266 du 19 décembre 1991), ainsi que les rémunérations afférentes aux constatations, consultations, expertises et médiations nécessaires (article 119 du décret n° 91-1266 du 19 décembre 1991). |
+Par exception, la somme revenant à l'avocat est payée par la CARPA (article 105 du décret n° 2020-1717 du 28 décembre 2020). Sont concernées : la part contributive due par l'Etat aux avocats au Conseil d'Etat et à la Cour de cassation, aux huissiers de justice, notaires, commissaires priseurs et greffiers des tribunaux de commerce, (article 111 du décret n° 2020-1717 du 28 décembre 2020) ainsi que les rémunérations afférentes aux constatations, consultations, expertises et médiations nécessaires (article 116 du décret n° 2020-1717 du 28 décembre 2020). |
 
 9. PENSIONS DE L'ÉTAT, ACCESSOIRES DE PENSIONS ET ÉMOLUMENTS ASSIMILÉS |
 
