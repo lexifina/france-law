@@ -228,8 +228,6 @@ Huit leçons
 
 |
 
-NOTA :
+4. Dispositions spéciales applicables au département de la Guyane.
 
-Conformément à l’article 20 de l’arrêté du 19 décembre 2022 (NOR : TREP2235813A), ces dispositions entrent en vigueur le 1er janvier 2023.
-
-Toutefois, les dispositions du présent arrêté applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2023.
+4.1. Par dérogation aux dispositions de l'article 22 du présent arrêté, le préfet de la Guyane peut, après avis de la seule sous-commission permanente chargée du transport des marchandises dangereuses au sein du Conseil supérieur de la prévention des risques technologiques, fixer des conditions de navigation et de transport dérogatoires, pour les distributions à caractère local de marchandises dangereuses, réalisées au moyen de bateaux ne répondant pas aux dispositions de l'ADN, par voies de navigation intérieures, et sur les réseaux fluviaux non connectés aux réseaux des autres Etats membre de l'Union Européenne.

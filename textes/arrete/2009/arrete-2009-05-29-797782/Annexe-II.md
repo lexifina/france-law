@@ -138,6 +138,8 @@ Il est interdit au personnel du transporteur ferroviaire et du gestionnaire de l
 
 2.2.2.4. Les manutentions des matières dangereuses (chargement, remplissage, déchargement, vidange et transbordement) sont interdites sur les voies électrifiées lorsqu'elles sont sous tension.
 
+Néanmoins, sont autorisées les opérations de chargement ou de déchargement de fûts à pression contenant du GPL (n° ONU 1965) nécessaires au fonctionnement des réchauffeurs d'aiguilles présents sur le réseau ferré. Dans le cadre de ces opérations, les seuls matériels de manutention autorisés sont des grues de levage pourvues d'un limiteur de course.
+
 2.2.3. Lieux de chargement, de remplissage, de déchargement et de vidange et précautions à prendre pour les opérations autorises en gare dans le cadre du 1.9.5 et du décret n° 2012-70 du 20 janvier 2012 relatif aux gares de voyageurs et aux autres infrastructures de services du réseau ferroviaire.
 
 2.2.3.1. Transports en vrac.
