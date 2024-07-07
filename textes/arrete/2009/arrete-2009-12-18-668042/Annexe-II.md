@@ -100,7 +100,7 @@ f) La destination des volailles réformées.
 
 Pour l'ensemble des lots de volailles :
 
-a) L'adresse des marchés publics locaux sur lesquels les œufs sont cédés au consommateur final ;
+a) L'adresse des marchés publics locaux sur lesquels les œufs sont fournis au consommateur final ;
 
 b) La quantité d'œufs produits dans l'établissement présentée en moyenne sur chacun de ces marchés ;
 

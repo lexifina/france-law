@@ -4,23 +4,19 @@ DISPOSITIONS PARTICULIÈRES APPLICABLES AUX ABATTOIRS D'ONGULÉS DOMESTIQUES ET 
 
 La présente annexe fixe les conditions sanitaires particulières applicables aux établissements agréés d'abattage et de découpe des animaux domestiques appartenant aux espèces bovine, porcine, ovine, caprine, ainsi qu'aux solipèdes domestiques et aux espèces de gibier d'élevage ongulé.
 
-DÉFINITIONS
+Définitions
 
 Pour l'application de la présente annexe, on entend par :
 
-a) Animal accidenté : tout ongulé domestique ou gibier d'élevage ongulé qui présente des signes cliniques provoqués brusquement par un traumatisme ou par une défaillance de l'organisme lors d'une intervention chirurgicale ou obstétricale, alors qu'il était en bon état de santé avant le traumatisme ou l'intervention.
+a) Animal accidenté : tout ongulé domestique ou gibier d'élevage ongulé qui présente des signes cliniques provoqués brusquement par un traumatisme ou par une défaillance de l'organisme lors d'une intervention chirurgicale ou obstétricale, alors qu'il était en bon état de santé avant le traumatisme ou l'intervention ;
 
-b) Animal malade : tout ongulé domestique ou gibier d'élevage ongulé qui présente des signes cliniques pathologiques avec répercussions sur l'état général autres que ceux définis à l'alinéa précédent ou apparus dans des circonstances différentes.
+b) Animal malade : tout ongulé domestique ou gibier d'élevage ongulé qui présente des signes cliniques pathologiques avec répercussions sur l'état général autres que ceux définis à l'alinéa précédent ou apparus dans des circonstances différentes ;
 
-c) Animal dangereux : tout ongulé domestique qui, par son comportement, fait courir un risque pour la sécurité des personnes l'approchant ou le manipulant.
+c) Animal dangereux : tout ongulé domestique qui, par son comportement, fait courir un risque pour la sécurité des personnes l'approchant ou le manipulant ou qui, de par sa morphologie particulière, peut se blesser pendant le transport vers l'abattoir ;
 
-f) Apporteur : personne physique ou morale déchargeant ou confiant les animaux à l'abattoir.
+d) Apporteur : personne physique ou morale déchargeant ou confiant les animaux à l'abattoir.
 
-Section I
-
-Exigences applicables aux abattoirs
-
-et ateliers de découpe d'ongulés domestiques
+Section I : Exigences applicables aux abattoirs et ateliers de découpe d'ongulés domestiques
 
 1. Le préfet peut agréer, pour des abattages liés à une fête religieuse et pour une durée de quelques jours, des structures d'abattage temporaires, sous réserve d'une part que le demandeur démontre qu'il y a un réel besoin local en capacité d'abattage dans le département et les départements limitrophes et d'autre part que les conditions suivantes soient respectées :
 
@@ -34,45 +30,41 @@ Le préfet du département d'implantation de toute structure d'abattage temporai
 
 La durée pendant laquelle le fonctionnement des abattoirs temporaires est autorisé est précisée dans l'intitulé de la liste publiée au Bulletin officiel du ministère chargé de l'agriculture prévue à l'appendice 1 de la présente annexe. Le nombre d'animaux devant être abattus pendant la période d'essai de chaque établissement est fixé dans l'appendice 1 de la présente annexe qui décrit les modalités d'agrément et de fonctionnement des abattoirs temporaires.
 
-La marque de salubrité utilisée dans les abattoirs temporaires est décrite en appendice 2 de la présente annexe. Cette marque de salubrité peut en outre être utilisée, à l'occasion d'une fête religieuse, dans les abattoirs pérennes qui souhaitent bénéficier des assouplissements prévus pour les abattoirs temporaires à l'appendice 1 de la présente annexe.
+La marque de salubrité utilisée dans les abattoirs temporaires est décrite en appendice 2 de la présente annexe. Cette marque de salubrité peut en outre être utilisée, à l'occasion d'une fête religieuse, dans les abattoirs pérennes qui souhaitent bénéficier des assouplissements prévus pour les abattoirs temporaires.
 
 2. Le marquage de salubrité est effectué sous la responsabilité des services vétérinaires, qu'il s'agisse d'un marquage manuel ou mécanique.
 
-3. La fabrication des marques de salubrité doit respecter le cahier des charges défini dans l'appendice 2 de la présente annexe. Le fabricant doit faire parvenir une déclaration conforme au modèle figurant à l'appendice 3 de la présente annexe à la direction générale de l'alimentation. La liste des fabricants déclarés est publiée au Bulletin officiel du ministère chargé de l'agriculture.
+3. La fabrication des marques de salubrité doit respecter le cahier des charges défini dans l'appendice 2 de la présente annexe. Le fabricant doit faire parvenir une déclaration conforme au modèle figurant à l'appendice 3 de la présente annexe à la direction générale de l'alimentation. La liste des fabricants déclarés est publiée sur le site intranet du ministère chargé de l'agriculture. La commande des dispositifs de marquage de salubrité est effectuée par les services vétérinaires. Les frais afférents à l'acquisition des dispositifs de marquage, manuels ou mécaniques, sont à la charge des exploitants d'abattoir.
 
-La commande des dispositifs de marquage de salubrité est effectuée par les services vétérinaires. Les frais afférents à l'acquisition des dispositifs de marquage, manuels ou mécaniques, sont à la charge des exploitants d'abattoir.
+4. Conformément au b du 2 du chapitre II de la section I de l'annexe III du règlement (CE) n° 853/2004 susvisé, un abattoir d'ongulés domestiques peut ne pas disposer de local séparé pour la vidange et le nettoyage des estomacs et intestins, sous réserve que ces opérations soient séparées dans le temps et que la reprise de l'activité d'abattage se fasse après nettoyage et désinfection du local et des équipements. Une procédure écrite décrivant précisément la mise en œuvre de ces dispositions devra être intégrée au plan de maîtrise sanitaire et validée par le préfet.
 
-4. Conformément au b du 2 du chapitre II de la section I de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004, un abattoir d'ongulés domestiques peut ne pas disposer de local séparé pour la vidange et le nettoyage des estomacs et intestins, sous réserve que ces opérations soient séparées dans le temps et que la reprise de l'activité d'abattage se fasse après nettoyage et désinfection du local et des équipements. Une procédure écrite décrivant précisément la mise en œuvre de ces dispositions devra être intégrée au plan de maîtrise sanitaire et validée par le préfet.
+5. Conformément au 6 du chapitre II de la section I de l'annexe III du règlement (CE) n° 853/2004 susvisé, un abattoir d'ongulés domestiques peut, sans préjudice des dispositions relatives aux mesures de police sanitaire, ne pas disposer de station de nettoyage et désinfection des véhicules pour animaux dans l'enceinte de l'abattoir, sous réserve qu'il existe, à proximité immédiate de l'abattoir, une station de nettoyage et de désinfection des véhicules fonctionnant selon les modalités définies dans l'appendice 4 de la présente annexe. Les procédures de maîtrise sanitaire doivent être décrites dans le dossier d'agrément de l'abattoir et validées par le préfet.
 
-5. Conformément au 6 du chapitre II de la section I de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004, un abattoir d'ongulés domestiques peut, sans préjudice des dispositions relatives aux mesures de police sanitaire, ne pas disposer de station de nettoyage et désinfection des véhicules pour animaux dans l'enceinte de l'abattoir, sous réserve qu'il existe, à proximité immédiate de l'abattoir, une station de nettoyage et désinfection des véhicules fonctionnant selon les modalités définies dans l'appendice 4 de la présente annexe. Les procédures de maîtrise sanitaire doivent être décrites dans le dossier d'agrément de l'abattoir et validées par le préfet.
+A compter du 1er janvier 2025, l'agrément sanitaire prévu au 3 de l'article 6 du règlement (CE) n° 852/2004 susvisé ne peut être octroyé qu'aux nouveaux abattoirs disposant, dans l'enceinte de leur établissement, d'une station de lavage et de désinfection des véhicules de transport des animaux vivants. Une telle station n'est pas exigée pour les abattoirs abattant uniquement des animaux provenant de l'élevage annexé au site d'abattage et ne nécessitant aucun transport en dehors de l'exploitation.
 
-6. Conformément au 2 du chapitre VII de l'annexe II du règlement (CE) n° 852 / 2004 du 29 avril 2004, de l'eau non potable peut être utilisée pour le nettoyage des véhicules pour animaux, des étables, des cours et installations de prétraitement des effluents sous réserve de respecter les exigences fixées au point 2 précité du règlement.
+6. Conformément au 2 du chapitre VII de l'annexe II du règlement (CE) n° 852/2004 susvisé, de l'eau non potable peut être utilisée pour le nettoyage des véhicules pour animaux, des étables, des cours et installations de prétraitement des effluents sous réserve de respecter les exigences fixées au point 2 précité du règlement.
 
-7. Conformément au 8 du chapitre III de la section II de l'annexe I du règlement (CE) n° 854 / 2004 du 29 avril 2004, seuls peuvent sortir de l'abattoir d'une part les animaux vivants non déchargés du véhicule et uniquement s'ils sont à destination d'un autre abattoir, et d'autre part ceux présentés à l'abattage concernés par le 8 du chapitre III de la section II de l'annexe I du règlement précité.
+7. Conformément au 6 de l'article 43 du règlement d'exécution (UE) 2019/627 susvisé, seuls peuvent sortir de l'abattoir, d'une part, les animaux vivants non déchargés du véhicule et uniquement s'ils sont à destination d'un autre abattoir, et d'autre part, sur autorisation du vétérinaire officiel, ceux présentés à l'abattage et concernés par le 6 de l'article 43 du règlement précité. En vertu de l'article L. 201-4 du code rural et de la pêche maritime, le vétérinaire officiel peut interdire la sortie de l'abattoir d'animaux vivants lorsque le contexte zoosanitaire est défavorable.
 
-8. Conformément au règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015, les modalités de recherche de larves de trichines sur les espèces sensibles à la trichinellose, de consigne des carcasses en attente de résultat et le plan d'intervention décrivant les mesures à prendre dans le cas où un résultat d'analyse révèle la présence de Trichinella sont détaillés en appendice 7 de la présente annexe.
+8. Conformément au règlement d'exécution (UE) 2015/1375 précité, les modalités de recherche de larves de trichine sur les espèces sensibles à la trichinellose, de consigne des carcasses en attente de résultat et le plan d'intervention décrivant les mesures à prendre dans le cas où un résultat d'analyse révèle la présence de Trichinella sont détaillés en appendice 7 de la présente annexe.
 
 9. Les dispositions relatives à la collecte et au prétraitement de sang d'ongulés domestiques destiné à la consommation humaine sont décrites à l'appendice 5 de la présente annexe.
 
-10. Conformément au d du 16 du chapitre IV de la section I de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004, le vétérinaire officiel de l'abattoir peut autoriser que le cœur, le foie, les reins, la rate et le médiastin restent attachés à la carcasse par leurs connexions naturelles.
+10. Conformément au d du 16 du chapitre IV de la section I de l'annexe III du règlement (CE) n° 853/2004 susvisé, le vétérinaire officiel de l'abattoir peut autoriser que le cœur, le foie, les reins, la rate et le médiastin restent attachés à la carcasse par leurs connexions naturelles.
 
-11.L'insufflation des poumons peut être effectuée lorsqu'elle est imposée par un rite religieux. Une procédure écrite décrivant précisément la mise en œuvre de ces dispositions devra être intégrée au plan de maîtrise sanitaire et validée par le préfet.L'organe qui a fait l'objet de cette insufflation est interdit à la consommation humaine.
+11. L'insufflation des poumons peut être effectuée lorsqu'elle est imposée par un rite religieux. Une procédure écrite décrivant précisément la mise en œuvre de ces dispositions devra être intégrée au plan de maîtrise sanitaire et validée par le préfet. L'organe qui a fait l'objet de cette insufflation est interdit à la consommation humaine.
 
-12. Conformément au 3 du D du chapitre II de la section I de l'annexe I du règlement (CE) n° 854 / 2004 du 29 avril 2004, les carcasses de bovins dont l'âge est compris entre six et huit mois et bénéficiant de signes de qualité ou relevant de pratiques traditionnelles de commercialisation n'ont pas l'obligation d'être présentées fendues en demi-carcasse au poste d'inspection post mortem. Les signes de qualité et les pratiques traditionnelles de commercialisation pour lesquels l'absence de fente des bovins dont l'âge est compris entre six et huit mois est possible sont définis par instruction publiée au Bulletin officiel du ministre en charge de l'agriculture.
+12. Conformément au 2 de l'article 30 du règlement d'exécution (UE) 2019/627 précité, les modalités d'assainissement par le froid et de traçabilité des viandes présentant des lésions de cysticercose sont décrites en appendice 6 de la présente annexe.
 
-Le vétérinaire officiel de l'abattoir peut néanmoins ordonner la fente de toute carcasse pour les besoins de l'inspection post mortem.
+13. Il est interdit de destiner et d'introduire à l'abattoir ainsi que de mettre à mort en vue de la consommation humaine :
 
-13. Conformément au 2 du B du chapitre IX de la section IV de l'annexe I du règlement (CE) n° 854 / 2004 du 29 avril 2004, les modalités d'assainissement par le froid et de traçabilité des viandes présentant des lésions de cysticercose sont décrites en appendice 6 de la présente annexe.
-
-14. Il est interdit de destiner et d'introduire à l'abattoir :
-
-a) Tout ongulé domestique malade ou en état de misère physiologique ;
+a) Tout animal malade ou en état de misère physiologique ;
 
 b) Tout bovin, solipède ou porcin accidenté depuis plus de 48 heures ;
 
 c) Tout ovin ou caprin accidenté.
 
-15. Si un animal tel que défini au point 14 de la section I de la présente annexe, ou si un animal non accompagné d'un certificat vétérinaire d'information tel que défini au point 2 du chapitre Ier de la section III de la présente annexe dûment renseigné par le vétérinaire qui l'a examiné personnellement, est introduit à l'abattoir, le vétérinaire officiel refuse la préparation de cet animal en vue de la consommation humaine et demande à l'exploitant de l'abattoir de faire procéder à sa mise à mort sans souffrance :
+14. Si un animal tel que défini au point 13 de la section I de la présente annexe, ou si un animal non accompagné d'un certificat vétérinaire d'information tel que défini au point 2 de la section III de la présente annexe dûment renseigné par le vétérinaire qui l'a examiné personnellement, est introduit à l'abattoir, le vétérinaire officiel refuse la préparation de cet animal en vue de la consommation humaine et demande à l'exploitant de l'abattoir de faire procéder sans retard indu à sa mise à mort sans souffrance :
 
 a) Soit par euthanasie par un vétérinaire praticien au moyen d'une injection létale ;
 
@@ -84,35 +76,37 @@ Toutefois, lorsqu'un animal est présenté à l'abattoir alors même qu'il vient
 
 Si l'exploitant constate qu'un animal présente un état de souffrance important en dehors des heures d'abattage et en l'absence de vétérinaire officiel, il est tenu de faire procéder lui-même à la mise à mort sans souffrance de cet animal dans les meilleurs délais et d'en informer dès que possible le vétérinaire officiel.
 
-16. La liste des lésions anatomo-pathologiques et autres anomalies à mettre en lien avec les motifs de saisie réglementaires figurant au 1 du chapitre V de la section II de l'annexe I du règlement (CE) n° 854 / 2004 du 29 avril 2004 ainsi que les modalités de leur enregistrement dans des bases de données appropriées permettant d'établir le lien avec les informations d'abattage des animaux concernés et de leur transmission aux détenteurs d'animaux figurent dans des instructions publiées au Bulletin officiel du ministre chargé de l'agriculture.
+15. La liste des lésions anatomo-pathologiques et autres anomalies à mettre en lien avec les motifs de saisie réglementaires figurant à l'article 45 du règlement d'exécution (UE) 2019/627 précité ainsi que les modalités de leur enregistrement dans des bases de données appropriées permettant d'établir le lien avec les informations d'abattage des animaux concernés et de leur transmission aux détenteurs d'animaux figurent dans des instructions publiées au Bulletin officiel du ministre chargé de l'agriculture.
 
-17. Conformément au 3 du chapitre V et au 3a du chapitre VII de la section I de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004 , le transport et la découpe des carcasses d'ongulés domestiques aux fins de la production de produits spécifiques peuvent être effectués en cours de refroidissement sous réserve du respect des conditions suivantes :
+16. Conformément au 3 du chapitre V et au 3 a du chapitre VII de la section I de l'annexe III du règlement (CE) n° 853/2004 susvisé, le transport et la découpe des carcasses d'ongulés domestiques peuvent être effectués en cours de refroidissement sous réserve du respect des conditions suivantes :
 
 a) En ce qui concerne l'abattoir :
 
-i) La durée du transport est inférieure à 2 heures ;
+i) Les viandes sont destinées à la production de produits spécifiques nécessitant un transport en cours de refroidissement ;
 
-ii) La température des carcasses au moment du chargement est égale ou inférieure à 12° C en tous points ;
+ii) La durée du transport est inférieure à 2 heures ;
 
-iii) Une procédure écrite validée par le préfet décrivant précisément la mise en œuvre de ces dispositions est intégrée au plan de maîtrise sanitaire de l'abattoir.
+iii) La température des carcasses au moment du chargement est égale ou inférieure à 12 °C en tous points ;
+
+iv) Une procédure écrite validée par le préfet décrivant précisément la mise en œuvre de ces dispositions est intégrée au plan de maîtrise sanitaire de l'abattoir ;
 
 b) En ce qui concerne l'établissement destinataire :
 
-i) La température des carcasses au moment du déchargement est égale ou inférieure à 12° C en tous points ;
+i) La température des carcasses au moment du déchargement est égale ou inférieure à 12 °C en tous points ;
 
-ii) La température des viandes à l'issue de la découpe est égale ou inférieure à 7° C en tous points ;
+ii) La température des viandes à l'issue de la découpe est égale ou inférieure à 7 °C en tous points ;
 
 iii) Une procédure écrite validée par le préfet décrivant précisément la mise en œuvre de ces dispositions est intégrée au plan de maîtrise sanitaire de l'établissement destinataire.
 
-18. Conformément au 5 du chapitre V et au 3b du chapitre VII du règlement (CE) n° 853/2004 du 29 avril 2004, la sortie et le transport de carcasses, de demi-carcasses, de quartiers, de demi-carcasses découpées en 3 morceaux de gros maximum d'animaux des espèces bovine, ovine, caprine et porcine peuvent être réalisés à des températures supérieures à 7° C à cœur sous réserve du respect des conditions suivantes :
+17. Conformément au 5 du chapitre V et au 3 b du chapitre VII de la section I de l'annexe III du règlement (CE) n° 853/2004 susvisé, la sortie et le transport de carcasses, de demi-carcasses, de quartiers, de demi-carcasses découpées en 3 morceaux de gros maximum d'animaux des espèces bovine, ovine, caprine et porcine peuvent être réalisés à des températures supérieures à 7 °C à cœur sous réserve du respect des conditions suivantes :
 
-a) Une autorisation est préalablement délivrée à l'exploitant de l'abattoir par le préfet du département d'implantation de l'établissement :
+a) Une autorisation est préalablement délivrée à l'exploitant de l'abattoir ou à l'exploitant de l'entrepôt par le préfet du département d'implantation de l'établissement :
 
 i) L'autorisation est délivrée selon les paramètres de durées de transport et d'espèces définis réglementairement ;
 
-ii) La demande d'autorisation est adressée par l'exploitant de l'abattoir à l'aide du formulaire CERFA n° 15958 publié sur le site internet du ministère chargé de l'agriculture ;
+ii) La demande d'autorisation est adressée par l'exploitant de l'abattoir ou par l'exploitant de l'entrepôt à l'aide du formulaire CERFA n° 15958 publié sur le site internet du ministère chargé de l'agriculture ;
 
-iii) Pour que la demande soit recevable, elle doit être accompagnée d'un dossier justifiant le respect des conditions sanitaires pour sortir de l'abattoir des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en trois morceaux de gros maximum à des températures supérieures à 7° C à cœur. Une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture précise le contenu du dossier et les modalités d'attribution des autorisations correspondantes ;
+iii) Pour que la demande soit recevable, elle doit être accompagnée d'un dossier justifiant le respect des conditions sanitaires pour sortir de l'abattoir ou de l'entrepôt des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en trois morceaux de gros maximum à des températures supérieures à 7 °C à cœur. Une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture précise le contenu du dossier et les modalités d'attribution des autorisations correspondantes ;
 
 iv) Le renouvellement de la demande d'autorisation n'est pas nécessaire. Toutefois, toute modification importante en lien avec le dossier et le plan de maîtrise sanitaire doit entraîner son actualisation et sa notification auprès du préfet ;
 
@@ -120,15 +114,15 @@ v) L'autorisation ne peut être accordée qu'aux établissements dont le dossier
 
 vi) L'autorisation peut être suspendue voire retirée en cas de constats de non-conformités relevées lors d'un contrôle officiel ;
 
-vii) Les établissements autorisés à sortir des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en trois morceaux de gros maximum à des températures supérieures à 7° C à cœur, sont inscrits sur des listes publiées sur le site internet du ministère chargé de l'agriculture.
+vii) Les établissements autorisés à sortir des carcasses, des demi-carcasses, des quartiers, des demi- carcasses découpées en trois morceaux de gros maximum à des températures supérieures à 7 °C à cœur, sont inscrits sur des listes publiées sur le site internet du ministère chargé de l'agriculture.
 
-b) Une autorisation est préalablement délivrée à la société de transport nationale par le préfet de son département d'implantation ;
+b) Une autorisation est préalablement délivrée à l'exploitant d'un établissement implanté en France disposant d'un parc de véhicules par le préfet de son département d'implantation :
 
 i) L'autorisation est délivrée selon les paramètres de durées de transport définis réglementairement ;
 
-ii) L'autorisation est délivrée à la société de transport pour son parc de véhicule ;
+ii) L'autorisation est délivrée à l'exploitant de l'établissement pour son parc de véhicule ;
 
-iii) La demande d'autorisation est adressée par l'exploitant de la société de transport à l'aide du formulaire CERFA n° 15960 publié sur le site internet du ministère chargé de l'agriculture ;
+iii) La demande d'autorisation est adressée par l'exploitant de l'établissement à l'aide du formulaire CERFA n° 15960 publié sur le site internet du ministère chargé de l'agriculture ;
 
 iv) Une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture précise les modalités d'attribution des autorisations correspondantes ;
 
@@ -136,115 +130,119 @@ v) L'autorisation ne peut être accordée qu'aux établissements dont la demande
 
 vi) L'autorisation peut être suspendue voire retirée en cas de constats de non-conformités relevées lors d'un contrôle officiel ;
 
-vii) Les établissements autorisés à transporter des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en trois morceaux de gros maximum à des températures supérieures à 7° C à cœur, sont inscrits sur des listes publiées sur le site internet du ministère chargé de l'agriculture.
+vii) Les établissements autorisés à transporter des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en trois morceaux de gros maximum à des températures supérieures à 7 °C à cœur, sont inscrits sur des listes publiées sur le site internet du ministère chargé de l'agriculture.
 
-c) Une autorisation pour les transporteurs de l'Union européenne chargeant des viandes provenant d'abattoirs français est préalablement délivrée par le vétérinaire officiel de l'abattoir correspondant :
+c) Une autorisation pour les transporteurs de l'Union européenne chargeant des viandes provenant d'abattoirs français ou d'entrepôts frigorifiques est préalablement délivrée par le vétérinaire officiel de l'abattoir ou par la direction départementale en charge de la protection des populations du département d'implantation de l'entrepôt correspondant :
 
 i) L'autorisation est délivrée selon les paramètres de durées de transport définis réglementairement ;
 
 ii) L'autorisation est délivrée pour un véhicule et pour un seul chargement ;
 
-iii) La demande d'autorisation est adressée par le transporteur à l'aide du formulaire CERFA n° 15961 publié sur le site internet du ministère chargé de l'agriculture ;
+iii) La demande d'autorisation est adressée par l'exploitant de l'établissement ou son représentant à l'aide du formulaire CERFA n° 15961 publié sur le site internet du ministère chargé de l'agriculture ;
 
 iv) Une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture précise les modalités d'attribution des autorisations correspondantes ;
 
 v) L'autorisation ne peut être accordée qu'aux transporteurs dont la demande d'autorisation est complète et jugée recevable.
 
-d) Une déclaration est adressée par l'exploitant du secteur alimentaire souhaitant recevoir des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en 3 morceaux de gros maximum d'animaux des espèces bovine, ovine, caprine et porcine à des températures supérieures à 7° C à cœur, au préfet du département d'implantation de son établissement :
+d) Une déclaration est adressée par l'exploitant du secteur alimentaire souhaitant recevoir des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en 3 morceaux de gros maximum d'animaux des espèces bovine, ovine, caprine et porcine à des températures supérieures à 7 °C à cœur, au préfet du département d'implantation de son établissement :
 
-i) La déclaration est adressée par l'exploitant du secteur alimentaire destinataire des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en 3 morceaux de gros maximum d'animaux des espèces bovine, ovine, caprine et porcine à des températures supérieures à 7° C à cœur, à l'aide du formulaire CERFA n° 15959 publié sur le site internet du ministère chargé de l'agriculture avant de recevoir pour la première fois les viandes ;
+i) La déclaration est adressée par l'exploitant du secteur alimentaire destinataire des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en 3 morceaux de gros maximum d'animaux des espèces bovine, ovine, caprine et porcine à des températures supérieures à 7 °C à cœur, à l'aide du formulaire CERFA n° 15959 publié sur le site internet du ministère chargé de l'agriculture avant de recevoir pour la première fois les viandes ;
 
 ii) Une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture précise les modalités de cette déclaration.
 
-e) Ces obligations s'appliquent à compter de la publication du présent arrêté. Cependant, les dispositions applicables avant l'entrée en vigueur du présent arrêté et concernant le transport et la découpe de carcasses d'ongulés domestiques à des températures supérieures à 7° C à cœur restent autorisées jusqu'au 30 septembre 2019 afin de permettre aux professionnels d'obtenir les autorisations nécessaires pour sortir et transporter des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en 3 morceaux de gros maximum d'animaux des espèces bovine, ovine, caprine et porcine à des températures supérieures à 7° C à cœur.
+18. Conformément à l'article 13 du règlement d'exécution (UE) 2019/627 précité, l'inspection post mortem peut être réalisée jusqu'à 24 heures maximum après l'abattage sous réserve du respect des conditions décrites par ce même article.
 
-Section II
+Section II : Exigences applicables au gibier ongulé d'élevage
 
-Exigences applicables au gibier ongulé d'élevage
+1. Il est interdit de destiner et d'introduire à l'abattoir ainsi que de mettre à mort en vue de la consommation humaine tout gibier ongulé d'élevage accidenté depuis plus de 48 heures.
 
-1. Tout éleveur ou détenteur de gibier d'élevage ongulé désirant abattre en exploitation ses animaux doit faire parvenir au préfet une déclaration d'activité telle que mentionnée dans l'arrêté du 28 juin 1994 susvisé.
+2. Tout éleveur ou détenteur de gibier d'élevage ongulé désirant abattre en exploitation ses animaux doit faire parvenir au préfet une déclaration d'activité telle que mentionnée dans l'arrêté du 28 juin 1994 susvisé.
 
-2. La déclaration de l'éleveur ou du détenteur prévue au i du 3 de la section III de l'annexe III du règlement (CE) n° 853/2004 du 29 avril 2004, et le certificat vétérinaire prévu au j du 3 de la même section, accompagnent les carcasses en peau jusqu'à l'abattoir, conformément au modèle prévu par le formulaire CERFA n° 15912 mis à disposition sur le site http://mesdemarches.agriculture.gouv.fr. Les honoraires et frais de déplacement dus au vétérinaire sanitaire pour l'examen de l'animal et l'établissement du certificat vétérinaire d'information pour la partie qui concerne le vétérinaire sont à la charge du demandeur de la visite.
+3. Le certificat officiel prévu au j du 3 de la section III de l'annexe III du règlement (CE) n° 853/2004 susvisé accompagne les carcasses en peau jusqu'à l'abattoir agréé. Pour les mouvements nationaux, le certificat officiel est remplacé par un certificat vétérinaire d'information conformément au modèle prévu par le formulaire CERFA n° 15912 mis à disposition sur le site http://mesdemarches.agriculture.gouv.fr. Les honoraires et frais de déplacement dus au vétérinaire sanitaire pour l'examen de l'animal et l'établissement du certificat vétérinaire d'information pour la partie qui concerne le vétérinaire sont à la charge du demandeur de la visite.
 
-3. Les dispositions énoncées dans les paragraphes 1 et 2 de la présente section sont applicables aux bisons.
+4. Les dispositions énoncées dans la présente section sont applicables aux bisons.
 
-Section III
-
-Dispositions relatives à l'abattage
-
-des animaux accidentés et à l'abattage d'urgence
-
-Chapitre Ier
-
-Abattage à l'abattoir des animaux accidentés
+Section III : Dispositions relatives à l'abattage des animaux accidentés aptes au transport
 
 1. Seuls les animaux, accidentés depuis moins de 48 heures, des espèces bovine, équine, porcine et des grands gibiers d'élevage ongulés peuvent être abattus pour cause d'accident dans un abattoir.
 
-2. Tout animal accidenté doit faire l'objet, préalablement à son envoi à l'abattoir, sous réserve qu'il soit transportable au sens du règlement (CE) n° 1/2005 susvisé et que l'accident date de moins de 48 heures, d'un examen clinique détaillé par un vétérinaire sanitaire ou par un vétérinaire intervenant en cas d'indisponibilité du vétérinaire sanitaire. Les honoraires et frais de déplacement dus au vétérinaire pour l'examen de l'animal et l'établissement du certificat vétérinaire d'information sont à la charge du demandeur de la visite. La réalisation de cet examen est attestée par la délivrance d'un certificat vétérinaire d'information (formulaire CERFA n° 15766 mis à disposition sur le site http://mesdémarches.agriculture.gouv.fr), dûment renseigné par le détenteur, le vétérinaire qui réalise l'examen, et le conducteur du véhicule acheminant l'animal à l'abattoir. Ce certificat accompagne l'animal lors de son transport et doit être remis à l'exploitant de l'abattoir à l'arrivée à l'abattoir pour transmission immédiate au vétérinaire officiel devant réaliser l'inspection ante mortem de l'animal. Le vétérinaire officiel de l'abattoir le complète et renvoie une copie au vétérinaire qui l'a émis, si le détenteur initial ne s'y est pas opposé.
+2. Tout animal accidenté doit faire l'objet, préalablement à son envoi à l'abattoir, sous réserve qu'il soit transportable au sens du règlement (CE) n° 1/2005 susvisé et que l'accident date de moins de 48 heures, d'un examen clinique détaillé par un vétérinaire sanitaire. Les honoraires et frais de déplacement dus au vétérinaire sanitaire pour l'examen de l'animal et l'établissement du certificat vétérinaire d'information sont à la charge du demandeur de la visite. La réalisation de cet examen est attestée par la délivrance d'un certificat vétérinaire d'information (formulaire CERFA n° 15766 mis à disposition sur le site http://mesdemarches.agriculture.gouv.fr), dûment renseigné par le détenteur, le vétérinaire qui réalise l'examen, et le conducteur du véhicule acheminant l'animal à l'abattoir. Ce certificat accompagne l'animal lors de son transport et doit être remis à l'exploitant de l'abattoir à l'arrivée à l'abattoir pour transmission immédiate au vétérinaire officiel devant réaliser l'inspection ante mortem de l'animal. Le vétérinaire officiel de l'abattoir le complète et renvoie une copie au vétérinaire qui l'a émis, si le détenteur initial ne s'y est pas opposé.
 
-Chapitre II
+Section IV : Dispositions relatives à l'abattage des ongulés domestiques en dehors d'un abattoir
 
-Abattage d'urgence en dehors d'un abattoir
+Chapitre Ier : Abattage en dehors d'un abattoir d'animaux accidentés non aptes au transport
 
-1. L'abattage d'ongulés domestiques dangereux et la mise à mort d'animaux lors de corridas sont assimilés à un cas d'urgence pour cause d'accident. Ces animaux peuvent faire l'objet d'un abattage en dehors d'un abattoir, au même titre que les animaux accidentés depuis moins de 48 heures pour les espèces bovine, équine, porcine et des grands gibiers d'élevage ongulés qui sont non transportables, tel que prévu au chapitre VI de la section I de l'annexe III du règlement (CE) n° 853/2004. La déclaration de l'éleveur ou du détenteur telle que prévue au 5 du chapitre VI de la section I de l'annexe III du règlement (CE) n° 853/2004 du 29 avril 2004 et la déclaration vétérinaire telle que prévue au 6 du chapitre VI de la section I de l'annexe III du règlement (CE) n° 853/2004 du 29 avril 2004 accompagnent la carcasse en peau jusqu'à l'abattoir conformément au modèle prévu par le formulaire CERFA n° 15912 mis à disposition sur le site http://mesdemarches.agriculture.gouv.fr. Le certificat vétérinaire d'information dûment rempli par l'éleveur ou le détenteur de l'animal et par le vétérinaire qui réalise l'examen accompagne la carcasse en peau jusqu'à l'abattoir. Le vétérinaire officiel de l'abattoir complète le certificat vétérinaire d'information et renvoie une copie au vétérinaire qui a réalisé l'examen.
+1. En application du chapitre VI de la section I de l'annexe III du règlement (CE) n° 853/2004 du 29 avril 2004 susvisé et de l'article R. 231-6 du code rural et de la pêche maritime, peuvent faire l'objet d'un abattage en dehors d'un abattoir, les animaux accidentés depuis moins de 48 heures pour les espèces bovine, équine et porcine et qui sont non transportables. La mise à mort d'animaux lors de corridas est également assimilée à un abattage d'animaux accidentés non aptes au transport.
 
-2. Les honoraires et frais de déplacement dus au vétérinaire pour l'examen initial de l'animal en dehors d'un abattoir et l'établissement de la partie du certificat vétérinaire d'information concernant le vétérinaire sont à la charge du demandeur de la visite.
+2. Un certificat vétérinaire d'information accompagne la carcasse en peau jusqu'à l'abattoir conformément au modèle prévu par le formulaire CERFA n° 15912 mis à disposition sur le site http://mesdemarches.agriculture.gouv.fr. Le vétérinaire officiel de l'abattoir complète le certificat vétérinaire d'information et renvoie une copie au vétérinaire qui a réalisé l'examen.
 
-3. Les viscères, le sang et le cuir des animaux abattus d'urgence en dehors d'un abattoir ne peuvent en aucun cas être destinés à la consommation humaine.
+3. Les honoraires et frais de déplacement dus au vétérinaire pour l'examen de l'animal en dehors d'un abattoir et l'établissement de la partie du certificat vétérinaire d'information concernant le vétérinaire sont à la charge du demandeur de la visite.
 
-APPENDICE 1 DE L'ANNEXE V
+4. Les viscères tels que définis à l'annexe I du règlement (CE) n° 853/2004 susvisé et le sang des animaux accidentés non aptes au transport et abattus en dehors d'un abattoir et des animaux mis à mort lors de corridas ne peuvent en aucun cas être destinés à la consommation humaine.
 
-MODALITÉS D'AGRÉMENT ET DE FONCTIONNEMENT
+Chapitre II : Abattage d'animaux domestiques dans leur exploitation d'origine
 
-DES ABATTOIRS TEMPORAIRES
+1. En application des dispositions du chapitre VI bis de la section I de l'annexe III du règlement (CE) n° 853/2004 susvisé, l'abattage d'ongulés domestiques dans l'exploitation où les animaux ont été élevés peut être autorisé par le préfet du lieu d'implantation de l'élevage sous réserve que les dispositions réglementaires et législatives prévues pour pratiquer cet abattage soient respectées.
 
-Procédure d'agrément sanitaire des abattoirs
+2. L'abattage des animaux est réalisé dans l'unité mobile de l'abattoir agréé sous la responsabilité de l'exploitant de l'abattoir agréé. Par dérogation et sauf dispositions contraires prévues dans le cadre de la lutte contre un danger sanitaire mentionné au 3° du I et au 1° du II de l'article L. 201-1 du code rural et de la pêche maritime, l'abattage dans l'exploitation en dehors de l'unité mobile de l'abattoir agréé des bovins dangereux ou des bovins dont la morphologie particulière ne permet pas une mise à mort en abattoir ou dans l'unité mobile de celui-ci sans risque pour les animaux de se blesser, peut être autorisée par le préfet après réalisation d'une évaluation de la dangerosité de ces animaux et des possibilités d'abattage en abattoir agréé ou dans l'unité mobile de celui-ci. L'abattage des animaux dans l'exploitation en dehors de l'unité mobile d'un abattoir agréé est autorisée sous réserve que l'ensemble des dispositions prévues aux points 3 b à 3 g de la section III de l'annexe III du règlement (CE) n° 853/2004 susvisé soient respectées. L'exploitant de l'unité mobile de l'abattoir agréé dépose une demande d'autorisation dûment complétée, datée et signée via le formulaire CERFA n° 16400 mis à disposition sur le site http://mesdemarches.agriculture.gouv.fr, auprès du préfet du département d'implantation de l'élevage, préalablement au début de l'activité d'abattage en exploitation. Une instruction technique publiée au Bulletin officiel du ministère chargé de l'agriculture précise les modalités d'attribution des autorisations permettant l'abattage dans l'exploitation en dehors des unités mobiles des abattoirs agréés des bovins. L'autorisation ne peut être accordée qu'aux exploitants des unités mobiles des abattoirs agréés dont la demande d'autorisation est complète et jugée recevable et pour les sites d'abattage dont la conformité des installations et des équipements fixée par la réglementation a été constatée par un vétérinaire officiel au sens du point 32 de l'article 3 du règlement (UE) n° 2017/625 susvisé. L'autorisation peut être suspendue voire retirée en cas de constats de non-conformités relevées lors d'un contrôle officiel.
 
-bénéficiant d'un agrément temporaire
+3. Au cours d'une même tournée d'abattage, il ne peut être procédé qu'à l'abattage d'animaux d'une seule espèce autorisée par unité mobile d'un abattoir agréé dans le respect des bonnes pratiques d'hygiène.
+
+4. Aux fins de prévenir la propagation des maladies animales et en application de l'article 10 du règlement (UE) n° 2016/429 susvisé, l'unité mobile d'un abattoir agréé doit être soumise à une procédure de nettoyage et de désinfection complète (roues et bas de caisses inclus) avant d'accéder à un autre site d'abattage.
+
+5. Le certificat officiel prévu au point i du chapitre VI bis de la section I de l'annexe III du règlement (CE) n° 853/2004 susvisé accompagne la carcasse en peau jusqu'à l'abattoir. Pour les mouvements nationaux, le certificat officiel est remplacé par un certificat vétérinaire d'information conformément au modèle prévu par le formulaire CERFA n° 15912 mis à disposition sur le site http://mesdemarches.agriculture.gouv.fr.
+
+6. Par dérogation aux points 1 à 5 du présent chapitre, l'abattage d'animaux dangereux peut être réalisé dans les conditions définies au chapitre Ier de la présente section si aucun abattoir agréé pour l'espèce et la catégorie d'animaux concernés, présent dans le département ou dans un département limitrophe, ne dispose d'une unité mobile en capacité de prendre en charge les animaux.
+
+Appendice 1 de l'annexe V
+
+Modalités d'agrément et de fonctionnement des abattoirs temporaires
+
+Procédure d'agrément sanitaire des abattoirs bénéficiant d'un agrément temporaire
 
 Présentation d'un dossier de demande d'agrément au préfet du département d'implantation de la structure :
 
 Le dossier présenté par l'exploitant et déposé au minimum trois mois avant la fête religieuse doit comporter :
 
--la demande d'autorisation à déroger à l'obligation d'étourdissement des animaux ;
+- la demande d'autorisation à déroger à l'obligation d'étourdissement des animaux ;
 
--la preuve de la nécessité de l'implantation d'un abattoir temporaire ;
+- la preuve de la nécessité de l'implantation d'un abattoir temporaire ;
 
--des plans cotés permettant de visualiser les différents locaux et équipements envisagés, les circuits des animaux, des produits comestibles et des déchets, des personnes (employés, services vétérinaires et clients) ;
+- des plans cotés permettant de visualiser les différents locaux et équipements envisagés, les circuits des animaux, des produits comestibles et des déchets, des personnes (employés, services vétérinaires et clients) ;
 
--un plan général qui présentera l'environnement de l'établissement : zone réservée au parking des clients, au parcage des animaux...
+- un plan général qui présentera l'environnement de l'établissement : zone réservée au parking des clients, au parcage des animaux ;
 
--un descriptif des installations, des équipements et de leur fonctionnement. Une attention particulière sera portée aux modalités d'évacuation des sous-produits d'abattage ;
+- un descriptif des installations, des équipements et de leur fonctionnement. Une attention particulière sera portée aux modalités d'évacuation des sous-produits d'abattage ;
 
--les preuves des compétences et les justificatifs de formation des personnes qui pratiquent la manipulation des animaux et les différentes phases de l'abattage des animaux ;
+- les preuves des compétences et les justificatifs de formation des personnes qui pratiquent la manipulation des animaux et les différentes phases de l'abattage des animaux ;
 
--les aménagements qui permettront la réalisation de l'inspection ante et post mortem des animaux.
+- les aménagements qui permettront la réalisation de l'inspection ante et post mortem des animaux.
 
 Une attention particulière sera apportée à la description des activités suivantes :
 
--amenée et contention des animaux : le poste d'immobilisation et le matériel de contention seront décrits avec précision ;
+- amenée et contention des animaux : le poste d'immobilisation et le matériel de contention seront décrits avec précision ;
 
--saignée des animaux, prélèvement de la moelle épinière ;
+- saignée des animaux, prélèvement de la moelle épinière ;
 
--tri des sous-produits : retrait et tri des MRS, des autres sous-produits ;
+- tri des sous-produits animaux : retrait et tri des MRS, des autres sous-produits animaux ;
 
--modalité de stockage et fréquence d'enlèvement des sous-produits ;
+- modalité de stockage et fréquence d'enlèvement des sous-produits animaux ;
 
--évacuation des effluents ;
+- évacuation des effluents ;
 
--organisation de la chaîne : pour apprécier la cadence proposée, il conviendra de prendre en compte :
+- organisation de la chaîne : pour apprécier la cadence proposée, il conviendra de prendre en compte :
 
--le type de chaîne et les compétences des personnels ;
+- le type de chaîne et les compétences des personnels ;
 
--le tonnage maximal ou le nombre de têtes est précisé par l'exploitant dans le cadre de sa demande d'agrément.
+- le tonnage maximal ou le nombre de têtes est précisé par l'exploitant dans le cadre de sa demande d'agrément.
 
-L'exploitant précisera les dispositions qu'il envisage de mettre en place afin d'éviter les nuisances environnementales ; en particulier les dispositions prises pour l'évacuation des sous-produits et des effluents. Les accords des organismes qui collecteront sous-produits et effluents seront joints au dossier (entreprises d'équarrissage, municipalité pour les stations d'épuration...).
+L'exploitant précisera les dispositions qu'il envisage de mettre en place afin d'éviter les nuisances environnementales ; en particulier les dispositions prises pour l'évacuation des sous-produits animaux et des effluents. Les accords des organismes qui collecteront sous-produits animaux et effluents seront joints au dossier (entreprises d'équarrissage, municipalité pour les stations d'épuration…).
 
 L'exploitant précisera les mesures qu'il envisage de prendre en termes de sécurité des personnes.
 
 Phase d'essai de l'installation :
 
-Dès acceptation du dossier par le préfet, l'exploitant propose un essai de l'abattoir : l'abattoir est installé sur le site retenu pour le jour de la fête religieuse, afin que les accès des animaux, des particuliers, des véhicules de l'équarrissage ainsi que les raccordements aux réseaux d'assainissement puissent être appréciés.L'essai devra concerner un minimum de vingt animaux et permettra de valider le fonctionnement de la chaîne d'abattage et les compétences du personnel, y compris celles des sacrificateurs. Un agrément provisoire et la marque de salubrité seront délivrés afin de permettre la réalisation de cette phase de test et la commercialisation des carcasses produites au cours du test.
+Dès acceptation du dossier par le préfet, l'exploitant propose un essai de l'abattoir : l'abattoir est installé sur le site retenu pour le jour de la fête religieuse, afin que les accès des animaux, des particuliers, des véhicules de l'équarrissage ainsi que les raccordements aux réseaux d'assainissement puissent être appréciés. L'essai devra concerner un minimum de vingt animaux et permettra de valider le fonctionnement de la chaîne d'abattage et les compétences du personnel, y compris celles des sacrificateurs. Un agrément provisoire et la marque de salubrité seront délivrés afin de permettre la réalisation de cette phase de test et la commercialisation des carcasses produites au cours du test.
 
 Si l'essai est concluant ou, après amélioration du fonctionnement si des observations ont été faites par un vétérinaire officiel, l'abattoir se verra attribuer pour la durée de la fête religieuse un agrément temporaire par le préfet du département d'implantation de l'établissement.
 
@@ -264,65 +262,65 @@ L'exploitant déposera auprès des services préfectoraux précités un dossier 
 
 Un arrêté d'autorisation d'exploiter temporaire (pour la durée de la fête religieuse) pourra être signé par le préfet après avis de l'inspecteur des installations classées et avis du Conseil de l'environnement et des risques scientifiques et technologiques. Cette autorisation ne pourra être accordée qu'au bénéfice d'un exploitant parfaitement identifié.
 
-APPENDICE 2 DE L'ANNEXE V
+Appendice 2 de l'annexe V
 
-CAHIER DES CHARGES RELATIF À LA FABRICATION
+Cahier des charges relatif à la fabrication des marques de salubrité
 
-DES MARQUES DE SALUBRITÉ
+Les numéros d'agrément figurant dans les marques de salubrité devront satisfaire aux exigences suivantes :
 
-A compter du 1er janvier 2010, les numéros d'agrément figurant dans les marques de salubrité devront satisfaire aux exigences suivantes :
+- codification du département (2 chiffres) suivie d'un point ; puis
 
--codification du département (2 chiffres) suivie d'un point ; puis
+- codification de la commune (3 chiffres) ou, pour Paris, Lyon et Marseille, de l'arrondissement, suivie d'un point ; puis
 
--codification de la commune (3 chiffres) ou, pour Paris, Lyon et Marseille, de l'arrondissement, suivie d'un point ; puis
-
--du numéro d'ordre de l'établissement (3 chiffres).
+- du numéro d'ordre de l'établissement (3 chiffres).
 
 La codification du numéro d'agrément est différente en ce qui concerne les départements d'outre-mer : codification du département (3 chiffres) suivie d'un point puis codification de la commune (2 chiffres) suivie d'un point puis numéro d'ordre de l'établissement (3 chiffres).
 
 Les fabricants des marques de salubrité doivent satisfaire aux exigences suivantes :
 
-A.-Marque de salubrité communautaire (figure A) :
+A. - Marque de salubrité communautaire (figure A) :
 
 La marque de salubrité utilisée dans les abattoirs d'ongulés domestiques ou dans les établissements de traitement du gibier sauvage bénéficiant d'un agrément communautaire est une marque de forme ovale sur laquelle figurent, en caractères parfaitement lisibles, les indications suivantes :
 
--dans la partie supérieure, les lettres FR ;
+- dans la partie supérieure, les lettres FR ;
 
--au centre, le numéro d'agrément de l'établissement ;
+- au centre, le numéro d'agrément de l'établissement ;
 
--dans la partie inférieure, les lettres CE.
+- dans la partie inférieure, les lettres CE ou les lettres UE. A compter du 1er janvier 2029, les marques de salubrité communautaires ne peuvent comporter que les lettres UE.
 
 La longueur du grand axe de l'ovale est de 75 mm et celle du petit axe est de 55 mm. Les lettres ont une hauteur de 8 mm et les chiffres une hauteur de 10 mm. Les dimensions et les caractères de la marque peuvent être réduits pour le marquage des agneaux, des chevreaux et des porcelets sous réserve que les caractères demeurent parfaitement lisibles.
 
-B.-Marque de salubrité communautaire avec restriction de mise sur le marché pour des raisons de police sanitaire (figure B) :
+B. - Marque de salubrité communautaire avec restriction de mise sur le marché pour des raisons de police sanitaire (figure B) :
 
 La marque de salubrité utilisée dans les abattoirs d'ongulés domestiques ou dans les établissements de traitement du gibier sauvage bénéficiant d'un agrément communautaire qui sont soumis à des restrictions de mise sur le marché pour des raisons de police sanitaire est une marque de forme ovale barrée d'une croix constituée de deux traits perpendiculaires et apposée en oblique de sorte que l'intersection se situe au centre de la marque. Il y figure, en caractères parfaitement lisibles, les indications suivantes :
 
--dans la partie supérieure, les lettres FR ;
+- dans la partie supérieure, les lettres FR ;
 
--au centre, le numéro d'agrément de l'établissement ;
+- au centre, le numéro d'agrément de l'établissement ;
 
--dans la partie inférieure, les lettres CE.
+- dans la partie inférieure, les lettres CE ou les lettres UE. A compter du 1er janvier 2029, les marques de salubrité communautaires avec restriction de mise sur le marché pour des raisons de police sanitaire ne peuvent comporter que les lettres UE.
 
 La longueur du grand axe de l'ovale est de 75 mm et celle du petit axe est de 55 mm. Les lettres ont une hauteur de 8 mm et les chiffres une hauteur de 10 mm.
 
 La mise sur le marché des produits porteurs de cette marque de salubrité est limitée au territoire national et à destination d'un établissement de transformation de produits à base de viande agréé.
 
-C.-Marque de salubrité locale des abattoirs temporaires (figure C) :
+C. - Marque de salubrité locale des abattoirs temporaires (figure C) :
 
-La marque de salubrité utilisée dans les abattoirs temporaires est une marque de forme hexagonale régulière sur laquelle figurent, en caractères parfaitement lisibles, les indications suivantes :
+La marque de salubrité utilisée dans les abattoirs temporaires ou dans les abattoirs pérennes bénéficiant des assouplissements prévus pour les abattoirs temporaires est une marque de forme hexagonale régulière sur laquelle figurent, en caractères parfaitement lisibles, les indications suivantes :
 
--dans la partie supérieure, le numéro de codification du département (2 chiffres), précédé des lettres FR ;
+- dans la partie supérieure, le numéro de codification du département (2 chiffres), précédé des lettres FR ;
 
--au centre, le numéro de codification de la commune (3 chiffres) ou, pour Paris, Lyon et Marseille, de l'arrondissement, suivi d'un point et du numéro d'ordre de l'établissement (3 chiffres) ;
+- au centre, le numéro de codification de la commune (3 chiffres) ou, pour Paris, Lyon et Marseille, de l'arrondissement, suivi d'un point et du numéro d'ordre de l'établissement (3 chiffres) ;
 
--dans la partie inférieure, les lettres ISV, pour inspection sanitaire vétérinaire.
+- dans la partie inférieure, les lettres ISV, pour inspection sanitaire vétérinaire.
 
-La diagonale de l'hexagone est de 65 mm et les côtés mesurent 32, 5 mm chacun. Les lettres et les chiffres une hauteur de 10 mm.
+La diagonale de l'hexagone est de 65 mm et les côtés mesurent 32,5 mm chacun. Les lettres et les chiffres une hauteur de 10 mm.
 
-Cette marque de salubrité est rendue obligatoire pour tout abattoir temporaire agréé à compter du 1er janvier 2010.
+Cette marque de salubrité est rendue obligatoire pour tout abattoir temporaire agréé et pour tout abattoir pérenne agréé bénéficiant des assouplissements prévus pour les abattoirs temporaires.
 
-La mise sur le marché des produits porteurs de cette marque de salubrité est limitée au département d'implantation de l'abattoir temporaire et aux départements limitrophes.
+Pour les abattoirs temporaires, la mise sur le marché des produits porteurs de cette marque de salubrité est limitée au département d'implantation de l'abattoir et aux départements limitrophes situés sur le territoire national et à destination d'un consommateur final ou d'un commerce de détail fournissant directement le consommateur final.
+
+En ce qui concerne les abattoirs pérennes, la mise sur le marché des produits porteurs de cette marque de salubrité est étendue à l'ensemble du territoire national et à destination d'un consommateur final ou d'un commerce de détail fournissant directement le consommateur final. Un établissement intermédiaire de regroupement des carcasses peut être utilisé avant la fourniture au commerce de détail sous réserve de l'absence de manipulation des viandes et d'une livraison au commerce de détail dans les 48 heures qui suivent l'abattage.
 
 D. - Marque de salubrité nationale avec restriction de mise sur le marché pour des raisons de police sanitaire (figure D) :
 
@@ -336,210 +334,208 @@ Dans cette marque de salubrité figurent, en caractères parfaitement lisibles, 
 
 La taille de la marque de salubrité est de 75 mm de côté. Les lettres ont une hauteur de 8 mm et les chiffres une hauteur de 10 mm.
 
-APPENDICE 3 DE L'ANNEXE V
+E. - Marque de salubrité nationale avec restriction de mise sur le marché pour des raisons de police sanitaire (figure E) :
 
-Je soussigné (e)
+Cette marque de salubrité nationale ovale barrée de deux diagonales parallèles et apposées en oblique est utilisée dans les abattoirs d'ongulés domestiques ou dans les établissements de traitement du gibier sauvage bénéficiant d'un agrément communautaire qui sont soumis à des restrictions de mise sur le marché pour des raisons de police sanitaire. La mise sur le marché des produits porteurs de cette marque de salubrité et de tous produits qui en sont issus est limitée au territoire national.
 
-agissant en qualité de
+Dans cette marque de salubrité figurent, en caractères parfaitement lisibles, les indications suivantes :
 
-pour l'entreprise
+- dans la partie supérieure, les lettres FR ;
+
+- au centre, le numéro d'agrément de l'établissement ;
+
+- dans la partie inférieure, les lettres CE ou les lettres UE. A compter du 1er janvier 2029, les marques de salubrité nationales avec restriction de mise sur le marché pour des raisons de police sanitaire ne peuvent comporter que les lettres UE.
+
+La longueur du grand axe de l'ovale est de 75 mm et celle du petit axe est de 55 mm. Les lettres ont une hauteur de 8 mm et les chiffres une hauteur de 10 mm.
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+
+Appendice 3 de l'annexe V
+
+Je soussigné(e) ,
+
+agissant en qualité de ,
+
+pour l'entreprise ,
 
 sise à
 
-Tél :
+Tél. :
 
-Fax :
+Mail : ,
 
-Mail :
+déclare avoir pris connaissance du cahier des charges relatif à la fabrication des dispositifs de marquage de salubrité aptes au contact alimentaire défini dans un arrêté du ministère chargé de l'agriculture et respecter l'ensemble des conditions y figurant.
 
-déclare avoir pris connaissance du cahier des charges relatif à la fabrication des dispositifs de marquage de salubrité défini dans un arrêté du ministère chargé de l'agriculture et respecter l'ensemble des conditions y figurant.
+Je souhaite donc, par la présente, pouvoir fabriquer des dispositifs de marquage de salubrité à l'usage des services vétérinaires des abattoirs d'ongulés domestiques et des établissements de traitement de gibier sauvage agréés.
 
-Je souhaite donc, par la présente, pouvoir fabriquer des dispositifs de marquage de salubrité à l'usage des services vétérinaires des abattoirs d'ongulés domestiques et des établissements de traitement de gibier sauvage.
+Signature du responsable dans l'entreprise et cachet de l'entreprise :
 
-Signature du responsable dans l'entreprise
+Cette déclaration doit être renvoyée, dûment complétée et signée au ministère chargé de l'agriculture, direction générale de l'alimentation, service des actions sanitaires, sous-direction de la sécurité sanitaire des aliments, bureau des établissements d'abattage et de découpe, 251, rue de Vaugirard, 75732 Paris Cedex 15.
 
-et cachet de l'entreprise :
+Appendice 4 de l'annexe V
 
-Cette déclaration doit être renvoyée, dûment complétée et signée :
+Conditions particulières d'agrément des abattoirs ne disposant pas de station de lavage des véhicules pour animaux obligations des chauffeurs
 
-au ministère de l'alimentation, de l'agriculture et de la pêche
-
-Direction générale de l'alimentation,
-
-Service de l'alimentation
-
-Sous-direction de la sécurité sanitaire des aliments,
-
-Bureau des établissements d'abattage et de découpe
-
-251, rue de Vaugirard, 75732 Paris Cedex 15
-
-APPENDICE 4 DE L'ANNEXE V
-
-CONDITIONS PARTICULIÈRES D'AGRÉMENT DES ABATTOIRS NE DISPOSANT PAS DE STATION DE LAVAGE DES VÉHICULES POUR ANIMAUX.-OBLIGATIONS DES CHAUFFEURS
-
-Le préfet peut agréer un abattoir d'ongulés domestiques en l'absence de station de nettoyage et désinfection des véhicules pour animaux dans l'enceinte de l'abattoir, sous réserve qu'il existe, à proximité immédiate dudit abattoir, une station de nettoyage et désinfection des véhicules fonctionnant selon les conditions listées ci après.
+Avant le 1er janvier 2025, le préfet peut agréer un abattoir d'ongulés domestiques en l'absence de station de nettoyage et désinfection des véhicules pour animaux dans l'enceinte de l'abattoir, sous réserve qu'il existe, à proximité immédiate dudit abattoir, une station de nettoyage et désinfection des véhicules fonctionnant selon les conditions listées ci-après.
 
 Le plan de maîtrise sanitaire décrit dans le dossier d'agrément de l'abattoir comporte les procédures afférentes au nettoyage et à la désinfection des véhicules dans le cas particulier du recours à une station extérieure de nettoyage et désinfection des véhicules.
 
 Conditions d'installation et d'équipement :
 
--installation permettant la récupération et le stockage des litières ou fumiers contenus dans les véhicules. Cette installation peut néanmoins ne pas être présente dans la mesure où l'abattoir situé à proximité s'engage, via les procédures décrites dans son dossier d'agrément, à récupérer et stocker ces effluents dans l'enceinte de l'abattoir avant que le véhicule ne quitte l'abattoir ;
+- installation permettant la récupération et le stockage des litières ou fumiers contenus dans les véhicules. Cette installation peut néanmoins ne pas être présente dans la mesure où l'abattoir situé à proximité s'engage, via les procédures décrites dans son dossier d'agrément, à récupérer et stocker ces effluents dans l'enceinte de l'abattoir avant que le véhicule ne quitte l'abattoir ;
 
--dispositif de distribution d'eau permettant une aspersion de l'ensemble du véhicule (intérieurement et extérieurement) ;
+- dispositif de distribution d'eau permettant une aspersion de l'ensemble du véhicule (intérieurement et extérieurement) ;
 
--mise à disposition, en quantité suffisante, d'un détergent et d'un produit désinfectant avec notice d'utilisation.
+- mise à disposition, en quantité suffisante, d'un détergent et d'un produit désinfectant avec notice d'utilisation.
 
-Une instruction du ministère chargé de l'agriculture, publiée au Bulletin officiel, précise la liste des désinfectants homologués et autorisés.
+Les équipements adaptés aux produits mis à disposition doivent être en place. Un affichage informatif relatif au mode d'emploi des produits est mis en place à l'attention des usagers de la station :
 
-Les équipements adaptés aux produits mis à disposition doivent être en place. Un affichage informatif relatif au mode d'emploi des produits est mis en place à l'attention des usagers de la station ;
+- les conditions d'équipement et d'installation doivent satisfaire aux exigences de la réglementation relative aux installations classées pour la protection de l'environnement, notamment en matière de récupération des effluents (eaux de lavage) et de stockage des litières ;
 
--les conditions d'équipement et d'installation doivent satisfaire aux exigences de la réglementation relative aux installations classées pour la protection de l'environnement, notamment en matière de récupération des effluents (eaux de lavage) et de stockage des litières ;
-
--mise à disposition des chauffeurs d'un dispositif de collecte des doubles des déclarations de nettoyage-désinfection.L'exploitant de la station conserve ces déclarations pendant trois ans.
+- mise à disposition des chauffeurs d'un dispositif de collecte des doubles des déclarations de nettoyage-désinfection. L'exploitant de la station conserve ces déclarations pendant trois ans.
 
 Conditions de fonctionnement :
 
--nettoyage complet du véhicule, intérieur et extérieur (y compris les roues), à l'eau sous pression. Ce nettoyage peut se faire à l'aide d'un détergent si l'encrassement est important ; cette phase de nettoyage est suivie d'un rinçage si le détergent utilisé le nécessite ;
+- nettoyage complet du véhicule, intérieur et extérieur (y compris les roues), à l'eau sous pression. Ce nettoyage peut se faire à l'aide d'un détergent si l'encrassement est important ; cette phase de nettoyage est suivie d'un rinçage si le détergent utilisé le nécessite ;
 
--contrôle visuel du véhicule, de l'absence de toute trace de matière organique à l'intérieur et à l'extérieur du véhicule. Si le contrôle visuel s'avère non satisfaisant, il convient de recommencer les opérations de nettoyage du véhicule (à l'eau ou éventuellement avec détergent) ;
+- contrôle visuel du véhicule, de l'absence de toute trace de matière organique à l'intérieur et à l'extérieur du véhicule. Si le contrôle visuel s'avère non satisfaisant, il convient de recommencer les opérations de nettoyage du véhicule (à l'eau ou éventuellement avec détergent) ;
 
--application du désinfectant en respectant les modalités d'application spécifiques au produit utilisé ;
+- application du désinfectant en respectant les modalités d'application spécifiques au produit utilisé ;
 
--rinçage à l'eau, si nécessaire ;
+- rinçage à l'eau, si nécessaire ;
 
--tenue à jour du registre du véhicule tel que défini au 3 de l'annexe VI de l'arrêté du 5 novembre 1996, sur lequel doivent être inscrits la date et le lieu de la désinfection ;
+- tenue à jour du registre du véhicule tel que défini au 3 de l'annexe VI de l'arrêté du 5 novembre 1996 susvisé, sur lequel doivent être inscrits la date et le lieu de la désinfection ;
 
--établissement d'une déclaration de nettoyage-désinfection précisant la date de la désinfection et l'identification du véhicule, à l'attention du responsable de la station de lavage.
+- établissement d'une déclaration de nettoyage-désinfection précisant la date de la désinfection et l'identification du véhicule, à l'attention du responsable de la station de lavage.
 
-APPENDICE 5 DE L'ANNEXE V
+Appendice 5 de l'annexe V
 
-DISPOSITIONS RELATIVES AU SANG DES ONGULÉS
+Dispositions relatives au sang des ongulés domestiques destiné à la consommation humaine
 
-DOMESTIQUES DESTINÉ À LA CONSOMMATION HUMAINE
-
-A.-Caractéristiques du sang destiné à la consommation humaine
+A. − Caractéristiques du sang destiné à la consommation humaine :
 
 Le sang d'ongulés domestiques propre à la consommation humaine doit :
 
--provenir d'animaux dont la carcasse a été reconnue propre à la consommation humaine ;
+- provenir d'animaux dont la carcasse a été reconnue propre à la consommation humaine ;
 
--être recueilli dans les meilleures conditions d'hygiène : à l'aide d'un trocart raccordé à un système fermé de collecte, ou de tout autre dispositif permettant de respecter les critères microbiologiques définis au D du présent appendice.
+- être recueilli dans les meilleures conditions d'hygiène : à l'aide d'un trocart raccordé à un système fermé de collecte, ou de tout autre dispositif permettant de respecter les critères microbiologiques définis au D du présent appendice et de garantir l'absence de toute contamination du sang.
 
-Le sang des animaux accidentés, le sang d'égouttage ainsi que le sang des animaux dont les viandes sont reconnues impropres à la consommation humaine sont des sous-produits animaux au sens du règlement (CE) n° 1069/2009
+Le sang des animaux accidentés, le sang d'égouttage ainsi que le sang des animaux dont les viandes sont reconnues impropres à la consommation humaine sont des sous-produits animaux au sens du règlement (CE) n° 1069/2009 susvisé.
 
-La saignée doit suivre immédiatement l'étourdissement. Elle est suivie obligatoirement d'une phase d'égouttage en position verticale . Seul le sang issu de la saignée peut être destiné à la consommation humaine.
+La saignée doit suivre immédiatement l'étourdissement. Elle est suivie obligatoirement d'une phase d'égouttage. Seul le sang issu de la saignée peut être destiné à la consommation humaine.
 
-B.-Infrastructures nécessaires
+B. − Infrastructures nécessaires :
 
 Les aménagements imposés pour effectuer la récolte du sang destiné à l'alimentation humaine doivent comprendre au minimum :
 
--des récipients tampons en nombre et de capacité suffisants permettant de recueillir et d'identifier le sang par lot d'animaux abattus ;
+- des récipients tampons en nombre et de capacité suffisants permettant de recueillir et d'identifier le sang par lot d'animaux abattus ;
 
--une citerne réfrigérée destinée à recueillir le sang alimentaire et permettant de ramener le plus rapidement possible sa température à + 3° C. Le sang doit être maintenu à cette température jusqu'à sa commercialisation. Cette disposition peut toutefois ne pas être obligatoire s'il est démontré, par une analyse de dangers, qu'une autre technique conservatoire apporte les mêmes garanties sanitaires ;
+- une citerne réfrigérée destinée à recueillir le sang alimentaire et permettant de ramener le plus rapidement possible sa température à 3 °C. Le sang doit être maintenu à cette température jusqu'à sa commercialisation. Cette disposition peut toutefois ne pas être obligatoire s'il est démontré, par une analyse de dangers, qu'une autre technique conservatoire apporte les mêmes garanties sanitaires ;
 
--un système de nettoyage efficace de l'ensemble des équipements ;
+- un système de nettoyage efficace de l'ensemble des équipements ;
 
--éventuellement un dispositif mécanique placé à proximité du poste de saignée destiné à empêcher la coagulation du sang par défibrination et répondant à toutes les exigences de l'hygiène dans la mesure où il n'est pas fait usage de substances anticoagulantes.
+- éventuellement un dispositif mécanique placé à proximité du poste de saignée destiné à empêcher la coagulation du sang par défibrination et répondant à toutes les exigences de l'hygiène dans la mesure où il n'est pas fait usage de substances anticoagulantes.
 
-C.-Prétraitement du sang destiné à la consommation humaine
+C. − Prétraitement du sang destiné à la consommation humaine :
 
 Les opérations de prétraitement du sang destiné à la consommation humaine sont réalisées dans un local séparé de celui de la saignée.
 
 Les principales opérations de pré-traitement du sang sont :
 
--la centrifugation du sang : opération permettant de séparer deux phases de densités différentes sous l'action d'un champ de forces centrifuges ;
+- la centrifugation du sang : opération permettant de séparer deux phases de densités différentes sous l'action d'un champ de forces centrifuges ;
 
--l'ultrafiltration du sérum ou du plasma : opération ayant pour but de retenir les macromolécules dissoutes sous l'action d'une différence de pression hydrostatique appliquée de part et d'autre d'une membrane semi-perméable qui fait migrer les molécules de petite taille ;
+- l'ultrafiltration du sérum ou du plasma : opération ayant pour but de retenir les macromolécules dissoutes sous l'action d'une différence de pression hydrostatique appliquée de part et d'autre d'une membrane semi-perméable qui fait migrer les molécules de petite taille ;
 
--l'osmose inverse du sérum ou du plasma : opération permettant d'isoler le solvant constitutif du milieu grâce à l'action d'une différence de pression hydrostatique appliquée de part et d'autre d'une membrane semi-perméable ;
+- l'osmose inverse du sérum ou du plasma : opération permettant d'isoler le solvant constitutif du milieu grâce à l'action d'une différence de pression hydrostatique appliquée de part et d'autre d'une membrane semi-perméable ;
 
--la réfrigération du sang ou de ses constituants : opération assurant leur refroidissement à une température inférieure ou égale à + 3° C ;
+- la réfrigération du sang ou de ses constituants : opération assurant leur refroidissement à une température inférieure ou égale à 3 °C ;
 
--la congélation du sang ou de ses constituants : opération assurant leur refroidissement à une température inférieure ou égale à-18° C.
+- la congélation du sang ou de ses constituants : opération assurant leur refroidissement à une température inférieure ou égale à - 18 °C.
 
 Conditions d'application des opérations de prétraitement du sang :
 
-Ces opérations doivent être effectuées dans un local séparé de l'aire d'abattage et en dehors de l'intervalle de température compris entre 15 et 25° C. Elles doivent permettre, seules ou en association, le travail des lots identifiés dans les six heures qui suivent la saignée.A l'expiration de cette période de six heures, tous les produits issus du sang doivent se présenter sous une forme stabilisée qui aura été obtenue par :
+Ces opérations doivent être effectuées dans un local séparé de l'aire d'abattage et en dehors de l'intervalle de température compris entre 15 et 25 °C. Elles doivent permettre, seules ou en association, le travail des lots identifiés dans les six heures qui suivent la saignée. A l'expiration de cette période de six heures, tous les produits issus du sang doivent se présenter sous une forme stabilisée qui aura été obtenue par :
 
--le maintien sous régime de froid à une température ne dépassant pas + 3° C ;
+- le maintien sous régime de froid à une température ne dépassant pas 3 °C ; ou
 
--ou la déshydratation jusqu'à une teneur en eau résiduelle n'excédant pas 10 %.
+- la déshydratation jusqu'à une teneur en eau résiduelle n'excédant pas 10 %.
 
-D.-Critères microbiologiques indicateurs de l'hygiène des procédés auxquels doit répondre le sang destiné à la consommation humaine
+D. − Critères microbiologiques indicateurs de l'hygiène des procédés auxquels doit répondre le sang destiné à la consommation humaine :
 
-Les critères microbiologiques indicateurs de l'hygiène des procédés auxquels doit répondre le sang destiné à la consommation humaine sont précisés par instruction publiée au Bulletin officiel du ministre chargé de l'agriculture ou définis dans les Guides de bonnes pratiques d'hygiène et d'application du principe HACCP applicables aux abattoirs et validés par le ministre chargé de l'agriculture.
+Les exploitants du secteur alimentaire veillent à identifier des critères microbiologiques indicateurs de l'hygiène des procédés permettant d'assurer que le sang répond aux prescriptions réglementaires relatives à la sécurité des denrées alimentaires. Ces critères microbiologiques auxquels doit répondre le sang destiné à la consommation humaine peuvent être définis dans les guides de bonnes pratiques d'hygiène et d'application du principe HACCP applicables aux abattoirs et validés par le ministre chargé de l'agriculture.
 
-APPENDICE 6 DE L'ANNEXE V
+Appendice 6 de l'annexe V
 
-MODALITÉ D'ASSAINISSEMENT PAR LE FROID ET DE TRAÇABILITÉ DES VIANDES PRÉSENTANT DES LÉSIONS DE CYSTICERCOSE
+Modalité d'assainissement par le froid et de traçabilité des viandes présentant des lésions de cysticercose
 
-A.-Arbre de décision à suivre par les services vétérinaires
+A. − Arbre de décision à suivre par les services vétérinaires lors de découverte de cysticercose sur les porcins et bovins :
 
-lors de découverte de cysticercose sur les porcins et bovins
-
-Toute carcasse dans laquelle est décelé un cysticerque vivant, un cysticerque en voie de dégénérescence ou une lésion calcifiée qu'il n'est pas possible de rapporter avec certitude à une autre cause que la cysticercose est considérée comme atteinte de cysticercose. La carcasse doit alors être soumise à un examen approfondi en abattoir au cours duquel il peut être procédé à des incisions complémentaires pouvant aller jusqu'à la découpe de gros. Une découpe ou un désossage plus fins peuvent, si nécessaire, être réalisés en atelier de découpe selon les pratiques commerciales habituelles et sous contrôle des services vétérinaires afin que ceux-ci puissent examiner les surfaces de coupe
+Toute carcasse dans laquelle est décelé un cysticerque vivant, un cysticerque en voie de dégénérescence ou une lésion calcifiée qu'il n'est pas possible de rapporter avec certitude à une autre cause que la cysticercose est considérée comme atteinte de cysticercose. La carcasse doit alors être soumise à un examen approfondi en abattoir au cours duquel il peut être procédé à des incisions complémentaires pouvant aller jusqu'à la découpe de gros. Une découpe ou un désossage plus fins peuvent, si nécessaire, être réalisés en atelier de découpe selon les pratiques commerciales habituelles et sous contrôle des services vétérinaires afin que ceux-ci puissent examiner les surfaces de coupe.
 
 Lorsqu'il a été mis en évidence, en quelque lieu que ce soit, plus d'une lésion par décimètre carré (cysticerque vivant ou en voie de dégénérescence, ou lésions calcifiées), la carcasse est retirée de la consommation humaine dans sa totalité (y compris la tête, le cœur et l'œsophage).
 
 Lorsque les lésions (cysticerque vivant ou en voie de dégénérescence, ou lésions calcifiées) mises en évidence, en quelque lieu que ce soit, sont en quantité moindre (inférieure à une lésion par décimètre carré), les organes ou parties de carcasse porteurs des lésions sont saisis à l'abattoir (s'il ne s'agissait que d'une découpe de gros) ou à l'atelier de découpe (si la carcasse y a été dirigée pour une découpe plus fine sous contrôle des services vétérinaires). Le reste de la carcasse (y compris la tête, le cœur et l'œsophage) est assaini par le froid selon les procédures décrites au paragraphe B du présent appendice.
 
-B.-Assainissement par le froid
+B. − Assainissement par le froid :
 
-L'assainissement des carcasses, demi-carcasses ou morceaux découpés, désossés et conditionnés, y compris les têtes, les cœurs et les œsophages, s'effectue par maintien à une température inférieure ou égale à-10° C à cœur pendant un minimum de dix jours.
+L'assainissement des carcasses, demi-carcasses ou morceaux découpés, désossés et conditionnés, y compris les têtes, les cœurs et les œsophages, s'effectue par maintien à une température inférieure ou égale à - 10 °C à cœur pendant un minimum de dix jours.
 
 Les autres parties de la carcasse destinées à la consommation humaine peuvent ne pas subir ce traitement assainissant et être laissées à la disposition du propriétaire.
 
-C.-Traçabilité des carcasses atteintes de cysticercose
+C. − Traçabilité des carcasses atteintes de cysticercose dont une partie est soumise à un traitement assainissant par le froid :
 
-dont une partie est soumise à un traitement assainissant par le froid
-
-Les carcasses ou morceaux de découpe de gros sont identifiés en abattoir par un dispositif particulier et sont revêtus de l'estampille en vigueur dans l'établissement. Ils sont accompagnés du laissez-passer conforme au modèle ci-après (établi par le vétérinaire officiel du lieu d'abattage) lors de leur transfert vers un atelier de découpe ou une unité de congélation.
+Les carcasses ou morceaux de découpe de gros sont identifiés en abattoir par un dispositif particulier et sont revêtus de l'estampille en vigueur dans l'établissement. Ils sont accompagnés du laissez-passer conforme au modèle ci-après (établi par un agent du service vétérinaire responsable de l'inspection du lieu d'abattage) lors de leur transfert vers un atelier de découpe ou une unité de congélation.
 
 Si les carcasses ou morceaux de découpe de gros transitent par un atelier de découpe pour une inspection approfondie avant l'unité de congélation, un agent du service vétérinaire responsable de l'inspection de l'atelier de découpe doit être averti et présent lors de cette découpe. Les morceaux de découpe devant être assainis par le froid sont alors dirigés vers l'unité de congélation accompagnés du même laissez-passer.
 
 L'unité de congélation dans laquelle est effectué l'assainissement doit enregistrer spécifiquement les raisons et la durée de la congélation de ces denrées.
 
-A la fin de la période d'assainissement, un agent du service vétérinaire responsable de l'inspection de l'entrepôt frigorifique renvoie le laissez-passer signé aux services vétérinaires du département où l'animal a été abattu.
+A la fin de la période d'assainissement, le vétérinaire officiel de l'entrepôt frigorifique renvoie le laissez-passer signé aux services vétérinaires du département où l'animal a été abattu.
 
 Dans le cadre de l'information sur la chaîne alimentaire, le vétérinaire officiel de l'abattoir s'assure de la transmission à l'exploitant du secteur alimentaire ayant envoyé l'animal concerné à l'abattoir de l'information relative à la présence d'une ou plusieurs larves de cysticerques dans la carcasse.
 
 Les dispositions à mettre en œuvre par les éleveurs dans le cadre de l'information sur la chaîne alimentaire à la suite de la mise en évidence d'une ou plusieurs larves de cysticerques sont précisées par arrêté du ministre chargé de l'agriculture.
 
-Vous pouvez consulter le tableau dans le JO n° 301 du 29 / 12 / 2009 texte numéro 29
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
-APPENDICE 7 DE L'ANNEXE V
+Appendice 7 de l'annexe V
 
-MODALITÉS DE RECHERCHE DE LARVES DE TRICHINES ET PLAN D'INTERVENTION EN CAS DE RÉSULTAT NON NÉGATIF OU POSITIF
+Modalités de recherche de larves de trichines et plan d'intervention en cas de résultat non négatif ou positif
 
-A. - Modalités de recherche de larves de trichines
+A. - Modalités de recherche de larves de trichines :
 
-Les carcasses d'animaux d'espèces sensibles à l'infestation par Trichinella doivent subir un prélèvement en vue d'une recherche de larves de trichine par digestion pepsique effectué dans un laboratoire agréé dont la liste figure dans une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture. Les modalités de prélèvement et les méthodes d'analyse officielles sont décrites dans le règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015, par arrêté du ministre chargé de l'agriculture et par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
+Les carcasses d'animaux d'espèces sensibles à l'infestation par Trichinella doivent subir un prélèvement en vue d'une recherche de larves de trichine par digestion pepsique effectué dans un laboratoire agréé dont la liste figure sur le site internet du ministère chargé de l'agriculture. Les modalités de prélèvement et les méthodes d'analyse officielles sont décrites dans le règlement d'exécution (UE) 2015/1375 précité, par arrêté du ministre chargé de l'agriculture et par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
 
-En fonction du risque d'infestation, les masses de viande à prélever pour réaliser les analyses nécessaires à la détection de Trichinella peuvent être supérieures aux exigences du règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015. Ces dispositions sont décrites par instruction du ministre chargé de l'agriculture.
+En fonction du risque d'infestation, les masses de viande à prélever pour réaliser les analyses nécessaires à la détection de Trichinella peuvent être supérieures aux exigences du règlement d'exécution (UE) 2015/1375 précité. Ces dispositions sont décrites par instruction du ministre chargé de l'agriculture.
 
 S'agissant de contrôles officiels, tous les prélèvements en vue de la recherche de larves de trichine sont réalisés par les services vétérinaires.
 
 Les prélèvements sont envoyés dans un laboratoire agréé accompagnés de la fiche d'accompagnement des prélèvements pour la recherche de larves de trichine prévue au point C de l'appendice 7 dûment remplie ou de tout autre document reprenant a minima les éléments figurant sur la fiche.
 
-En attente de résultat, les carcasses prélevées sont consignées dans l'abattoir. Cependant, conformément au point 3 de l'article 2 du chapitre II du règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015, les carcasses de porcins domestiques et de chevaux peuvent être découpées en trois parties au maximum par demi-carcasses avant l'obtention des résultats d'analyse. Cette découpe doit être réalisée directement dans l'abattoir ou dans un atelier de découpe agréé, annexé ou non à l'abattoir. Les modalités d'obtention de l'autorisation de découpe en trois parties au maximum par demi-carcasses sont décrites par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
+En attente de résultat, les carcasses prélevées sont consignées dans l'abattoir. Cependant, conformément au point 3 de l'article 2 et au point 5 a de l'article 3 du règlement d'exécution (UE) 2015/1375 précité, les carcasses de porcins domestiques et de chevaux peuvent être découpées en trois parties au maximum par demi-carcasses avant l'obtention des résultats d'analyse. Cette découpe doit être réalisée directement dans l'abattoir ou dans un atelier de découpe agréé, annexé ou non à l'abattoir. Les modalités d'obtention de l'autorisation de découpe en trois parties au maximum par demi-carcasses dans un atelier de découpe annexé ou non à l'abattoir sont décrites par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
+
+Conformément au point 5 b de l'article 3 du règlement d'exécution (UE) 2015/1375 précité, les carcasses de porcins domestiques en attente de résultat peuvent être découpées en davantage de parties dans un atelier de découpe agréé situé dans les mêmes locaux ou attenant à l'abattoir. Les modalités d'obtention de l'autorisation de découpe en plus de trois parties par demi-carcasses dans un atelier de découpe situé dans les mêmes locaux ou annexé à l'abattoir sont décrites par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
 
 La marque de salubrité peut être apposée avant que les résultats soient connus s'il existe une procédure visant à assurer qu'aucune partie des carcasses prélevées ne quittera les locaux de l'abattoir ou éventuellement de l'atelier de découpe avant l'obtention du résultat négatif.
 
 Le financement du matériel nécessaire à la réalisation des prélèvements, des analyses et du transport est détaillé par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
 
-B. - Plan d'intervention lorsque l'examen d'échantillons révèle la présence de Trichinella
+B. - Plan d'intervention lorsque l'examen d'échantillons révèle la présence de Trichinella :
 
-Conformément à l'article 7 du chapitre II du règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015, les modalités de suivi et de gestion d'un cas non négatif ou positif sont précisées par arrêté du ministre chargé de l'agriculture et par instruction technique publiée au Bulletin officiel du ministère chargé de l'agriculture. Le laboratoire doit informer sans délai l'autorité compétente du lieu de prélèvement en cas de résultat non négatif ou confirmé positif.
+Conformément à l'article 7 du règlement d'exécution (UE) 2015/1375 précité, les modalités de suivi et de gestion d'un cas non négatif ou positif sont précisées par arrêté du ministre chargé de l'agriculture et par instruction technique publiée au Bulletin officiel du ministère chargé de l'agriculture. Le laboratoire doit informer sans délai l'autorité compétente du lieu de prélèvement en cas de résultat non négatif ou confirmé positif.
 
-C. - Fiche de transmission de prélèvements pour la recherche de larves de trichine réalisée dans le cadre d'un contrôle officiel.
+C. - Fiche de transmission de prélèvements pour le recherche de larves de trichine réalisée dans le cadre d'un contrôle officiel :
 
-APPENDICE 8 DE L'ANNEXE V
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
-MODALITÉS DE GESTION DES FOIES ET REINS DE SOLIPÈDES DOMESTIQUES
+Appendice 8 de l'annexe V
+
+Modalités de gestion des foies et reins de solipèdes domestiques
 
 1. Les foies et les reins de tous les solipèdes domestiques, quel que soit leur âge, sont déclarés impropres à la consommation humaine lorsque les animaux sont originaires du territoire national (ou lorsqu'ils ont été élevés sur celui-ci au moins 3 mois), la mise en œuvre des plans de surveillance et de contrôle prévus par la réglementation ayant permis de constater la présence de cadmium à des teneurs supérieures aux valeurs réglementaires dans ces organes.
 
-2. Les foies et les reins de tous les solipèdes domestiques seront donc systématiquement retirés et éliminés en sous-produits de catégorie 1 conformément à l'article 8, point d du règlement (CE) n° 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n° 1774/2002 (règlement relatif aux sous-produits animaux).
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037047275
+2. Les foies et les reins de tous les solipèdes domestiques seront donc systématiquement retirés et éliminés en sous-produits de catégorie 1 conformément à l'article 8, point d du règlement (CE) n° 1069/2009 précité.
