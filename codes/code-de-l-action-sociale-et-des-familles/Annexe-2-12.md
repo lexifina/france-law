@@ -4,252 +4,204 @@ CAHIER DES CHARGES DÉFINISSANT LES CONDITIONS DE FONCTIONNEMENT EN DISPOSITIF I
 
 Préambule
 
-L'article 91 de la loi de modernisation de notre système de santé en date du 26 janvier 2016 prévoit la possibilité pour les instituts thérapeutiques éducatifs et pédagogiques (ITEP) et les services d'éducation spéciale et de soins à domicile (SESSAD) d'un territoire de fonctionner en dispositif intégré, à compter de la conclusion d'une convention et après délibération de la commission exécutive de la maison départementale des personnes handicapées (MDPH).
+L'évolution du fonctionnement en dispositif intégré d'un établissement et service médico-social (ESMS) pour enfants, adolescents et jeunes adultes en situation de handicap recouvre les ambitions suivantes :
 
-Les établissements et services médico-sociaux qui relèvent du 2° du I de l'article L. 312-1 du code de l'action sociale et des familles (CASF) et qui peuvent s'inscrire dans le cadre du fonctionnement en dispositif intégré ITEP, sont :
+-viser prioritairement à ce que les enfants, adolescents et jeunes adultes en situation de handicap soient scolarisés en milieu ordinaire, et par définition dans leur établissement scolaire de référence, en veillant à ce que les conditions soient réunies pour assurer cet accueil, en conformité avec les orientations de la loi n° 2019-791 du 26 juillet 2019 pour une école de la confiance ;
 
-– les instituts thérapeutiques, éducatifs et pédagogiques (ITEP) dont l'article D. 312-59-1 du CASF prévoit qu'ils accueillent les enfants, adolescents ou jeunes adultes qui présentent des difficultés psychologiques dont l'expression, notamment l'intensité des troubles du comportement, perturbe gravement la s ocialisation et l'accès aux apprentissages. Ces enfants, adolescents et jeunes adultes se trouvent, malgré des potentialités intellectuelles et cognitives préservées, engagés dans un processus handicapant qui nécessite le recours à des actions conjuguées et à un accompagnement personnalisé (…). ;
+-associer l'enfant, l'adolescent, le jeune et sa famille sur les évolutions de parcours afin d'organiser et faciliter la continuité des accompagnements ou de la scolarisation en fonction des besoins évolutifs ;
 
-– les services d'éducation spéciale et de soins à domicile (SESSAD) qui interviennent également au bénéfice des enfants et des jeunes relevant de la même définition que ci-dessus, en application du 5° de l'article D. 312-59-5 du CASF. Ils proposent un accompagnement complémentaire à celui proposé au sein des ITEP.
+-engager l'acte II de l'école inclusive et de " l'Ecole pour tous " issus de la Conférence nationale du handicap du 26 avril 2023, afin de tracer, pour les élèves qui le souhaitent, un parcours d'études jusqu'à l'enseignement supérieur.
 
-Il est entendu que toute référence dans le présent cahier des charges aux SESSAD fait référence aux SESSAD autorisés pour un public relevant des ITEP, dont la définition est rappelée ci-dessus.
+-permettre la réalisation du projet de vie dans une visée inclusive et dans toutes ses dimensions (accès à l'école, au périscolaire, aux sports, à la culture, préparer l'accès aux études supérieures, à l'insertion professionnelle …) via un accompagnement et/ ou un appui médico-social (1) adapté et évolutif auprès de l'enfant, du jeune ou de son environnement (famille, communauté éducative, professionnels de droits commun …) ;
 
-Le fonctionnement en dispositif intégré vise à faciliter les passages des enfants et des jeunes entre les modalités d'accompagnement proposées par les ITEP et les SESSAD. Ainsi, la MDPH notifie en dispositif ITEP et l'établissement ou le service accueillant l'enfant ou le jeune peut ensuite procéder à des changements de modalités d'accompagnement sans nouvelle notification de la commission des droits et de l'autonomie des personnes handicapées (CDAPH), sous certaines conditions. Une souplesse est également rendue possible pour les changements de modalités de scolarisation.
+-s'inscrire dans une responsabilité populationnelle et territoriale dont le modèle est défini selon l'article L. 1434-10 du code de la santé publique, dans le cadre d'une logique interinstitutionnelle, inter-opérateur et dans une organisation graduée de l'offre de santé.
 
-Il s'agit de permettre une meilleure fluidité des parcours des enfants et des jeunes accompagnés au sein du dispositif et ainsi, une meilleure adaptation de la prise en charge à leurs besoins.
+Le présent cahier des charges définit les principes de fonctionnement en dispositif intégré et décrit le fonctionnement opérationnel du dispositif intégré en référence à l'article L. 312-7-1 du code de l'action sociale et des familles. Le fonctionnement en dispositif intégré respecte les recommandations de bonnes pratiques professionnelles.
 
-Ainsi, les termes dispositif ITEP caractérisent le fonctionnement en dispositif intégré des ITEP et des SESSAD.
+1. Principes de mise en œuvre du fonctionnement en dispositif intégré des ESMS pour enfants, adolescents et jeunes adultes en situation de handicap
 
-Le présent cahier des charges définit les conditions du fonctionnement en dispositif intégré ITEP mentionné à l'article L. 312-7-1 du code de l'action sociale et des familles.
+a) Tous les ESMS mentionnés au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles peuvent fonctionner en dispositif intégré (Article L. 312-7-1)
 
-Il fixe les conditions relatives :
+L'article L. 312-7-1 dans sa rédaction issue de l'article 31 de la loi n° 2019-791 du 26 juillet 2019 pour une école de la confiance permet aux ESMS (mentionnés au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles) qui accompagnent des enfants, adolescents ou jeunes adultes en situation de handicap ou présentant des difficultés d'adaptation, de fonctionner en dispositif intégré.
 
-1. Au partenariat entre les acteurs intéressés au fonctionnement en dispositif intégré ITEP et à la convention qui le traduit ;
+b) Prestations de l'ESMS fonctionnant en dispositif intégré
 
-2. Au parcours de l'enfant ou du jeune ;
+Dans le cadre du dispositif, les ESMS mentionnés au 2° du I de l'article L. 312-1 proposent, directement ou en partenariat avec un autre ESMS pour enfants, adolescents ou jeunes adultes en situation de handicap, l'ensemble des modalités d'accompagnement.
 
-3. A la place des titulaires de l'autorité parentale ;
+-modalités d'accompagnement de l'enfant et de la famille
 
-4. A la transmission des informations entre les partenaires et à la fiche de liaison ;
+Afin de répondre aux besoins évolutifs de l'enfant, de l'adolescent et du jeune adulte, l'ESMS fonctionnant en dispositif intégré, s'assure de proposer un ensemble de prestations adaptées, souples et modulaires. Pour ce faire il s'appuie sur des modalités d'accompagnement plurielles et combinées : prestations en milieu ordinaire, en accueil de jour et de nuit (selon l'offre du territoire : internat, internat modulé, accueil familial spécialisé), à temps partiel ou complet et peut s'associer le cas échéant à un autre ESMS pour proposer l'ensemble de ces prestations.
 
-5. Au suivi de l'activité des ITEP et des SESSAD ;
+-appui-ressources auprès de la communauté éducative, des acteurs de droits communs
 
-6. Aux modalités de tarification et de facturation des ITEP et des SESSAD ;
+Les ESMS mettent à disposition leur expertise auprès de l'ensemble des acteurs de la vie de l'enfant pour faciliter les parcours et la réalisation du projet de vie.
 
-7. Au circuit de gestion des prestations (prestation de compensation du handicap-PCH-, allocation d'éducation de l'enfant handicapé-AEEH).
+La fonction appui-ressources des ESMS permet d'apporter une réponse à tous les acteurs intervenant en proximité des lieux de vie de l'enfant, de l'adolescent ou du jeune adulte et concerne toutes les dimensions (école, périscolaire, activités sportives ou de loisirs, mission locale …). Elle peut prendre la forme de formation/ sensibilisation des professionnels ou de conseils sur une situation individuelle nécessitant un avis distancié et spécialisé.
 
-1. Principes, prérequis et dispositions relatives aux conditions partenariales du fonctionnement en dispositif integré ITEP
+La fonction appui-ressources permet de faciliter la gradation des réponses et vise également à renforcer la coopération territoriale.
 
-Les conditions partenariales de fonctionnement en dispositif intégré ITEP
+c) Régime d'autorisation, partenariat, contractualisation
 
-Le fonctionnement en dispositif intégré nécessite la conclusion d'une convention cadre départementale ou interdépartementale ou régionale entre MDPH, ARS, organismes de protection sociale, services académiques (rectorat et DRAAF, pour l'enseignement agricole) et organismes gestionnaires d'ITEP et de SESSAD qui s'engagent à fonctionner conformément au présent cahier des charges.
+Le fonctionnement en dispositif intégré des établissements et services médico-sociaux (ESMS) requiert une autorisation globale pour assurer toutes formes d'accueil et d'accompagnement. Celle-ci est prévue à l'article D. 312-0-1 créé par le décret n° 2017-982 du 9 mai 2017. Elle est délivrée par le directeur général de l'Agence régionale de santé (DGARS) aux établissements et services en capacité de proposer l'ensemble des modalités d'accueil et d'accompagnement au titre de l'accompagnement des publics relevant d'une spécialisation dans l'accompagnement ou des publics mentionnés au I de l'article D. 312-0-3.
 
-Ces partenaires sont les signataires obligatoires de la convention de fonctionnement en dispositif ITEP. Cette convention est dénommée ci-après convention cadre.
+La structure autorisée pour assurer toutes formes d'accueil et d'accompagnement est réputée fonctionner en dispositif intégré au sens de l'article L. 312-7-1.
 
-La convention cadre reste ouverte aux partenaires, notamment aux ITEP et aux SESSAD qui voudraient la rejoindre ultérieurement. Au regard des constats issus de l'expérimentation du fonctionnement en dispositif ITEP, il est recommandé d'associer aux signataires : les services de pédopsychiatrie/ psychiatrie, le conseil départemental (au nom du service de l'ASE) et les services de la protection judiciaire de la jeunesse (PJJ).
+En cas de dispositif partenarial permettant de proposer l'ensemble des modalités d'accompagnement, le fonctionnement en dispositif intégré est subordonné à la conclusion d'une convention entre les établissements et services intéressés. Cette convention est intégrée au contrat mentionné à l'article L. 313-12-2 de ces établissements et services.
 
-Ce partenariat est une nécessité afin de construire l'articulation des acteurs et d'élaborer, mettre en œuvre et évaluer le projet personnalisé d'accompagnement (PPA) de l'enfant ou du jeune.
+Dans ce cas, un seul ESMS est porteur pour l'autre ou les autres ESMS. Il est désigné comme " ESMS porteur du dispositif " dans la convention entre ESMS et assure la circulation des informations entre les partenaires et avec les institutions.
 
-Une attention particulière sera portée au partenariat avec les services de pédopsychiatrie.
+L'autorisation globale implique la mise en place d'une convention pluriannuelle d'objectifs et de moyens (CPOM) et la détermination d'indicateurs d'activité, dans la mesure où cette autorisation ne distingue plus de capacité dédiée aux différentes formes d'accompagnement.
 
-Cette convention cadre prévoit les engagements attendus des différentes parties prenantes afin de favoriser un fonctionnement en dispositif intégré. Elle précise les modalités de participation de chacun de signataires à ce fonctionnement.
+L'ESMS fonctionnant en dispositif intégré doit renseigner annuellement des indicateurs d'activités spécifiques. La liste des indicateurs relative aux ESMS fonctionnant en dispositif intégré est définie dans le cadre d'une instruction.
 
-Elle peut être complétée en tant que de besoin par des accords entre les différents acteurs relatifs à leur coordination, dans le respect de la réglementation et du présent cahier des charges.
+2. Coopérations inter-institutionnelles et inter-opérateurs
 
-Les conditions minimales de la convention cadre :
+Dans un objectif collectif de responsabilité populationnelle et territoriale, le fonctionnement en dispositif intégré de l'ESMS s'inscrit dans un partenariat élargi et des coopérations structurées avec l'ensemble des acteurs sanitaires, sociaux, médico-sociaux, éducatifs, associatifs, collectivités territoriales, services public ou autres organismes impliqués dans la réalisation du projet de vie des enfants, jeunes et adultes en situation de handicap.
 
-La convention prévue par l'alinéa 4 de l'article L. 312-7-1 du CASF comporte nécessairement les dispositions suivantes, qui permettront la mise en œuvre opérationnelle du dispositif :
+Il s'agit notamment de :
 
-1. Objets, signataires et engagements communs ;
+-mettre en œuvre des parcours de vie et de santé inclusifs, évolutifs, adaptés, modulaires et coordonnés pouvant impliquer une pluralité d'acteurs ;
 
-2. Pilotage de l'action ;
+-faciliter l'intervention des équipes médico-sociales (ex. mise à disposition de locaux, …) ;
 
-3. Dispositions relatives au partenariat avec les parents ou le représentant légal dont la participation au projet de l'enfant ou du jeune ;
+-organiser l'appui ressources et le recours à l'expertise si nécessaire, y compris par une intervention directe auprès de l'élève accompagné par un ESMS fonctionnant en dispositif intégré.
 
-4. Dispositions relatives aux MDPH (modalités de notification de l'accompagnement et de la scolarisation) ;
+La formalisation de cette coopération et de ces partenariats se fait au moyen de conventions.
 
-5. Dispositions relatives aux services académiques (changements de modalité de scolarisation) ;
+a) Coopération organisée avec le ministère de l'éducation nationale et le ministère chargé de l'agriculture
 
-6. Dispositions relatives aux ARS ;
+La coopération des ESMS pour enfants, adolescents et jeunes adultes en situation de handicap fonctionnant en dispositif intégré avec les établissements relevant du ministère de l'éducation nationale, du ministère chargé de l'agriculture pour l'enseignement agricole, et en concertation avec la famille ou représentants légaux de l'enfant, permet de répondre à l'ambition de scolarisation de tous les élèves en situation de handicap, tout en prenant en compte les besoins de l'enfant au sein d'un parcours fluide adaptable et coordonné. Cette coopération implique la mise en place de temps de concertation entre les écoles/ établissements et les ESMS concernés.
 
-7. Dispositions relatives aux ITEP, aux SESSAD et à leurs organismes gestionnaires (attendus dans le cadre du fonctionnement en dispositif intégré, partenariat et échanges d'informations, remontées d'informations à l'ARS …) ;
+Le fonctionnement en dispositif vise prioritairement à ce que les enfants, adolescents et jeunes en situation de handicap soient scolarisés en milieu ordinaire, et par définition dans leur établissement scolaire de référence. Sont concernés les écoles et les établissements publics ou privés sous contrat du premier et du second degré d'enseignement général ou agricole, ainsi que les établissements ou services médico-sociaux implantés dans ce secteur, de manière à favoriser la continuité des accompagnements et des parcours scolaires.
 
-8. Dispositions relatives aux caisses primaires d'assurance maladie-CPAM (modalités de facturation) ;
+Le fonctionnement en dispositif intégré permet d'éviter les ruptures de parcours de scolarisation en permettant d'adapter au mieux les modalités d'accompagnement.
 
-9. Dispositions relatives aux organismes débiteurs des prestations familiales et aux conseils départementaux (impacts sur les droits AEEH et PCH) ;
+Par ailleurs, la fonction d'appui-ressource des ESMS peut être mobilisée par la communauté éducative. L'ESMS peut répondre aux demandes en matière de conseils ou de sensibilisation-formation de la communauté éducative pour lui permettre une prise en compte des besoins particuliers d'élèves en situation de handicap, dans le cadre de son autorisation, conformément à l'article D. 312-0-3 du code de l'action sociale et des familles. Cette fonction d'appui-ressource organisée en lien avec la mission ressource des pôles mentionnés à l'article L. 351-3 du code de l'éducation et des chargés de mission de la direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF), s'inscrit dans le cadre de la coopération structurée par les dispositifs conventionnels prévus par les articles L. 312-1, VII du code de l'action sociale et des familles et L. 351-1-1 du code de l'éducation.
 
-10. Durée, révision et résiliation de la convention.
+b) Coopération interopérateurs médico-sociaux dans le cadre d'une organisation graduée de l'offre de santé
 
-En fonction des autres signataires, la convention cadre peut comporter les dispositions complémentaires suivantes :
+Dans un objectif de responsabilité populationnelle et territoriale, les ESMS mettent en place une coopération interopérateurs. Il s'agit notamment d'améliorer la couverture territoriale.
 
-1. Dispositions relatives au secteur de la pédopsychiatrie (rôle, partenariat) ;
+L'ESMS fonctionnant en dispositif intégré s'assure du concours d'ESMS permettant de conforter son expertise voire lui apporter le concours nécessaire pour l'accompagnement de situations individuelles. Le recours à l'expertise s'inscrit dans le cadre de l'organisation graduée de l'offre de santé. Il s'appuie également sur les ressources sanitaires du territoire.
 
-2. Dispositions relatives à l'ASE et à la PJJ.
+c) Coopération élargie avec l'ensemble des acteurs favorisant la réalisation des projets de vie
 
-Le pilotage local :
+Outre l'accompagnement dans sa globalité de l'enfant et de sa famille, l'ESMS fonctionnant en dispositif intégré articule son intervention avec et auprès des acteurs du droit commun : sanitaires, sociaux, collectivités territoriales, clubs sportifs ou acteurs socio-culturels, formation professionnelle et accès à l'emploi …
 
-La convention cadre prévoit les modalités de gouvernance et de pilotage de cette action. Ce pilotage peut s'inscrire dans les missions du comité départemental de suivi de l'école inclusive prévu à l'article D. 312-10-13 du CASF. Dans ce cas, une commission dédiée, réunissant les signataires de la convention cadre et les représentants des usagers et de leurs familles, est instituée.
+3. Principes de gouvernance
 
-La mobilisation d'au moins trois modalités d'accompagnement (internat, accueil de jour, SESSAD)
+a) Le déploiement des ESMS fonctionnant en dispositif intégré facilité dans le cadre du Comité départemental de suivi de l'école inclusive (CDSEI)
 
-Les organismes gestionnaires des structures médico-sociales fonctionnant en dispositif intégré respectent les règles de fonctionnement relatives au fonctionnement des ITEP rappelées aux articles D. 312-59-1 à D. 312-59-17 du code de l'action sociale et des familles.
+Le Comité départemental de suivi de l'école inclusive (CDSEI), instance d'échange et de concertation œuvrant à la programmation commune, mentionné à l'article D. 312-10-13 dans sa rédaction issue du décret n° 2020-515 du 4 mai 2020 favorise le déploiement des ESMS pour enfants, adolescents et jeunes fonctionnant en dispositif intégré.
 
-Le fonctionnement en dispositif intégré ITEP requiert :
+En effet, le CDSEI réunit l'ensemble des parties prenantes et facilite ainsi le déploiement du fonctionnement en dispositif intégré des ESMS. Les éventuelles difficultés de déploiement sont présentées et des solutions concertées avec l'ensemble des acteurs sont recherchées.
 
-La diversification des modes d'accompagnement à temps complet ou partiel.
+De plus et au besoin, des groupes infra départementaux permettant de rechercher la cohérence et l'adaptation de l'offre de service médico-sociale et scolaire sont mis en place. Ils associent les partenaires nécessaires (collectivités territoriales, maison départementale des personnes handicapées-MDPH …), le cas échéant.
 
-Pour chaque enfant ou jeune, en fonction de ses besoins et de leur évolution, le fonctionnement en dispositif ITEP permet de mobiliser les trois modalités suivantes d'accompagnement :
+Le déploiement du fonctionnement en dispositif des ESMS constitue une des actions de la feuille de route du CDSEI. Un bilan annuel est présenté au conseil départemental de l'éducation nationale conformément à l'article D. 312-10-13-3 du code de l'action sociale et des familles.
 
-– internat dont, le cas échéant, centre d'accueil familial spécialisé-CAFS (accueil de nuit) pouvant être décliné en internat de semaine, séquentiel, accueil temporaire, etc. ;
+b) Une convention cadre pour acter le fonctionnement en dispositif intégré et établir des processus particuliers
 
-– externat, semi-internat (accueil de jour) à temps plein, séquentiel ou temporaire ;
+Le fonctionnement en dispositif intégré nécessite la conclusion d'une convention cadre entre les acteurs au niveau départemental :
 
-– SESSAD (intervention ambulatoire).
+-le directeur général de l'agence régionale de santé (DGARS) ;
 
-Ces modalités d'accompagnement peuvent être proposées :
+-l'inspecteur d'académie, directeur académique des services de l'éducation nationale (IA-DASEN) par délégation du recteur ;
 
-– par une structure disposant d'une autorisation SESSAD et ITEP et proposant les trois modalités d'accompagnement ;
+-le directeur régional de l'alimentation, de l'agriculture et de la forêt (DRAAF) ;
 
-– par des structures relevant d'un même organisme gestionnaire dans le cadre d'une convention de partenariat ;
+-la maison départementale des personnes handicapées (MDPH) ;
 
-– par des structures relevant d'organismes gestionnaires différents dans le cadre d'une convention de partenariat.
+-la Caisse d'allocations familiales (CAF) ;
 
-La fluidité de l'accompagnement et de la mise en œuvre des PPC, PPS et PPA.
+-la Mutualité sociale agricole (MSA) ;
 
-Les établissements élaborent les projets personnalisés d'accompagnement (seuls ou en coopération) en conformité avec les besoins identifiés dans le plan personnalisé de compensation et avec l'accord du jeune majeur ou de ses parents ou de son représentant légal.
+-La Caisse primaire d'assurance maladie (CPAM) ;
 
-Conformément aux dispositions de l'article L. 114-1-1 du CASF, un enfant ou un jeune orienté vers le dispositif ITEP peut bénéficier de la mise en place d'un plan d'accompagnement global (PAG), le PAG constituant une dimension du plan personnalisé de compensation (PPC).
+-les organismes gestionnaires des ESMS concernés ;
 
-Les dispositifs ITEP s'assurent que leur organisation permet la fluidité de l'accompagnement. Ils s'assurent de la mise en œuvre des plans personnalisés de compensation (PPC), qui comportent le projet personnalisé de scolarisation (PPS) et sont déclinés dans les projets personnalisés d'accompagnement (PPA). L'objectif du dispositif est d'éviter les ruptures, ainsi qu'à l'inverse les logiques de filières trop systématiques.
+-le cas échéant et à leur demande, les collectivités territoriales impliquées peuvent signer la convention cadre.
 
-L'évolution du PPA est envisagée avec l'ensemble des partenaires intervenant dans l'accompagnement du jeune (services de pédopsychiatrie/ psychiatrie, ASE, PJJ, enseignant-représentant les services académiques, parents ou représentants légaux …) selon les modalités fixées dans la convention cadre.
+Au-delà de la définition des obligations et engagements des parties prenantes, la convention cadre permet, s'il y a lieu, d'établir des processus particuliers entre les parties signataires (ex : partenariats ESMS-aide sociale à l'enfance).
 
-Comme le prévoit l'article D. 351-6 du code de l'éducation, le PPS est transmis au directeur de l'établissement ou du service médico-social, à l'enseignant référent ainsi qu'au directeur d'école ou au chef d'établissement scolaire. De manière générale, l'échange d'informations est recommandé afin de faciliter la cohérence du parcours de l'enfant ou du jeune.
+4. Modalité d'accès au fonctionnement en dispositif intégré et évolution de l'accompagnement médico-social et de la scolarité
 
-2. Les conditions relatives au parcours de l'enfant et du jeune au sein du dispositif intégré ITEP
+a) Information et orientation initiale
 
-Les conditions relatives aux modalités de notification de l'accompagnement dans le cadre du plan personnalisé d'accompagnement (PPA)
+Sur la base de l'évaluation réalisée par l'équipe pluridisciplinaire, la commission des droits et de l'autonomie des personnes handicapées (CDAPH) oriente vers un établissement médico-social et précise la première modalité d'accompagnement et de scolarisation dans le cadre du fonctionnement en dispositif intégré, conformément à l'article D. 312-10-19.
 
-La première notification de la MDPH :
+L'ESMS et/ ou l'établissement scolaire public ou privé sous contrat mettent en œuvre les premières modalités d'accompagnement et de scolarisation conformément au projet d'accompagnement (PA) et au projet personnalisé de scolarisation (PPS). Cette mise en œuvre s'appuie sur des analyses croisées et des temps de concertation.
 
-Dans le cadre du fonctionnement en dispositif intégré ITEP, la décision d'orientation de la CDAPH désigne le " dispositif ITEP ".
+La MDPH transmet aux parents ou représentants légaux de l'enfant, de l'adolescent ou du jeune adulte, un document d'information écrit et accessible relatif aux modalités de fonctionnement en dispositif intégré, lequel est annexé à la notification d'orientation.
 
-La décision notifiée comprend l'indication de la modalité d'entrée dans le dispositif (internat, accueil de jour, SESSAD).
+L'accord est systématiquement recueilli en amont de l'orientation en dispositif intégré (dans les conditions prévues par l'article R. 146-29) et lors d'un changement de modalités d'accompagnement et/ ou de scolarisation.
 
-En cas de changement de département du jeune par le jeune, la MDPH du département d'origine transmet à la MDPH du département d'accueil la fiche de liaison actualisée. Si le département d'accueil ne fonctionne pas en dispositif intégré, la dernière modalité d'accompagnement prévaut.
+b) Evolutions du projet d'accompagnement et/ ou des modalités de scolarisation dans le cadre du fonctionnement en dispositif intégré pour éviter les ruptures de parcours
 
-Les notifications ultérieures : les changements de modalités d'accompagnement dans le cadre du plan personnalisé d'accompagnement (PPA).
+Les besoins d'évolution d'accompagnement médico-social et scolaire font l'objet d'un dialogue entre la famille, l'équipe pluridisciplinaire de l'ESMS et l'équipe éducative de l'établissement scolaire sous la responsabilité du chef d'établissement ou de l'inspecteur de l'éducation nationale dans le cadre du PPS de l'élève. Le jeune et/ ou sa famille sont parties prenantes de la révision du projet, comme de son élaboration.
 
-Les changements de modalité d'accompagnement s'appuient sur une évaluation complète des besoins de l'enfant ou du jeune, réalisé par le dispositif ITEP l'accueillant, en lien avec l'ensemble des partenaires de son accompagnement (y compris son représentant légal).
+i. Accord du jeune et de sa famille et droit de rétractation
 
-Deux situations peuvent se présenter :
+Dans tous les cas, l'accord du jeune et/ ou de sa famille ou de ses représentants légaux doit être constaté pour toutes modifications des modalités d'accompagnement ou de scolarisation. Dès lors qu'il y a accord, les nouvelles modalités d'accompagnement sont mises en œuvre sans que la CDAPH soit à nouveau saisie.
 
-1. Une modification non substantielle du PPA (qui n'aurait pas donné lieu, en dehors du fonctionnement en dispositif intégré, à une nouvelle décision de la CDAPH) : seul l'accord des parents ou du représentant légal est sollicité.
+La famille dispose d'un délai de rétractation de 15 jours pour revenir à la situation antérieure, et de 30 jours en ce qui concerne les modifications du projet personnalisé de scolarisation.
 
-2. Une modification substantielle du PPA (qui aurait donné lieu, en dehors du fonctionnement en dispositif intégré, à une nouvelle décision de la CDAPH) :
+A l'issue du délai de rétractation, la décision vaut notification et la CDAPH est informée des nouvelles modalités du plan de compensation afin de permettre l'actualisation de la situation du bénéficiaire et de ses droits en cours.
 
-– les établissements et services fonctionnant en dispositif ITEP et accueillant l'enfant ou le jeune et les représentants de l'autorité parentale sont d'accord sur les changements de modalités envisagées d'accompagnement. Dans ce cas, ces changements ne font pas l'objet d'une nouvelle notification de la CDAPH, y compris s'ils concernent des décisions d'orientation prises antérieurement à la mise en œuvre du fonctionnement en dispositif ITEP au sein du département concerné ;
+Les nouvelles modalités d'accompagnement ou de scolarisation ainsi que le recueil du consentement du jeune de sa famille ou de son représentant légal à ces évolutions, sont précisées dans la fiche de liaison prévue par l'article D. 351-10-2 du code de l'éducation.
 
-– un des partenaires (parmi ceux cités ci-dessus y compris le représentant légal) est en désaccord sur les changements de modalités envisagées d'accompagnement, il ne peut pas y avoir de changement. Dans ce cas, la CDAPH peut être saisie dans les conditions prévues par l'article L. 241-6 du CASF.
+A tout moment, la famille peut saisir la CDAPH pour un réexamen de la situation.
 
-Si la modification validée du PPA nécessite une évolution du PPS : le PPS est modifié dans les conditions prévues par le code de l'éducation et notamment les articles D. 351-10-1 à D. 351-10-3.
+ii. Responsabilité de la coordination du parcours de l'enfant, de l'adolescent ou du jeune adulte dans le cadre du fonctionnement en dispositif intégré.
 
-Ainsi, conformément à l'article D. 351-10, lorsque les parents sont invités à une réunion d'équipe de suivi de la scolarisation ou à une réunion durant laquelle sera évoquée une évolution du PPS ou du PPA, ils peuvent venir accompagnés d'une personne de leur choix ou se faire représenter. Conformément à la réglementation en vigueur, la CDAPH peut être saisie à tout moment par l'ESMS ou le représentant légal.
+Le représentant de l'ESMS porteur du fonctionnement en dispositif intégré est responsable des renseignements portés via la fiche de liaison et assure sa transmission le cas échéant à la CDAPH et à l'ensemble des partenaires concernés (à minima la famille, le service départemental de l'école inclusive (SDEI) de la direction des services départementaux de l'éducation nationale (DSDEN), l'enseignant référent pour la scolarisation des élèves Handicapés (ERSEH), l'établissement scolaire, les collectivités territoriales, le cas échéant …) au titre de la coordination du parcours du jeune au sein du dispositif intégré.
 
-Un référent de parcours est désigné. La convention cadre précise les modalités de désignation de ce référent. Conformément à l'article L. 112-2-1 du code de l'éducation, le référent de parcours est nécessairement membre de l'équipe de suivi de la scolarisation (ESS). Il participe à la construction du PPA.
+Afin d'assurer l'information des parties, le suivi du parcours de l'enfant, de l'adolescent ou du jeune adulte et l'ajustement du plan de compensation et des droits à l'allocation d'éducation de l'enfant handicapé (AEEH), la fiche de liaison revêt un caractère obligatoire.
 
-Toute fin d'accompagnement du dispositif ITEP doit faire l'objet d'une information anticipée à la MDPH, accompagnée d'un projet d'orientation travaillé au sein du dispositif.
+iii. Evolution du projet d'accompagnement médico-social dans le cadre du fonctionnement en dispositif intégré
 
-Le dispositif ITEP ne peut mettre fin de sa propre initiative à l'accompagnement sans décision préalable de la CDAPH, conformément aux dispositions du III de l'article L. 241-6 CASF.
+Lorsqu'un besoin d'adaptation des modalités d'accompagnement est exprimé par le jeune, sa famille ou l'ESMS, ce dernier organise une concertation avec le jeune, sa famille ou son représentant légal, pour faire évoluer le projet d'accompagnement.
 
-Les changements de modalités de la scolarisation
+En cas d'acceptation et de mise en œuvre de la nouvelle modalité, celle-ci vaut pour actualisation du projet d'accompagnement.
 
-Les conditions de modification des modalités de scolarisation inscrites dans le PPS dans le cadre du fonctionnement en dispositif intégré sont mentionnées aux articles D. 351-10-1 à D. 351-10-3 du code de l'éducation.
+Il convient de distinguer les cas de modifications des modalités d'accompagnement :
 
-Comme le prévoit l'article D. 351-10-3, la modification du PPS qui implique une orientation vers les classes des établissements régionaux d'enseignement adapté (EREA), les sections d'enseignement général et professionnel adapté (SEGPA) et les unités locales d'inclusion scolaire (ULIS) donne lieu à une affectation prononcée par l'autorité académique au vu de cette modification. L'objectif du fonctionnement en dispositif intégré est de garantir une meilleure fluidité des parcours et une plus grande souplesse des orientations.
+1. Dans le cas d'une modification " non substantielle ", ainsi que la définit l'article D. 351-10-2 du code de l'éducation, qui n'aurait pas donné lieu en dehors du fonctionnement en dispositif à une nouvelle décision de la CDAPH, seul l'accord du jeune, de ses parents ou du représentant légal est nécessaire.
 
-3. Les conditions relatives a la place des titulaires de l'autorité parentale dans le fonctionnement en dispositif intégré ITEP
+2. Dans le cas de modification " substantielle ", deux options :
 
-Le respect des dispositions de la loi n° 2002-2 du 2 janvier 2002 et la participation des familles et des usagers à l'élaboration du projet personnalisé d'accompagnement et tout au long de la prise en charge.
+-les établissements et services fonctionnant en dispositif et accueillant l'enfant ou le jeune et les représentants de l'autorité parentale sont d'accord sur les changements de modalités d'accompagnement envisagées :
 
-Les outils prévus par la loi n° 2002-2 du 2 janvier 2002 rénovant l'action sociale et médico-sociale (dont notamment le projet d'établissement ou de service, le livret d'accueil, le règlement de fonctionnement, le contrat de séjour ou document individuel de prise en charge) doivent faire référence à ce fonctionnement en dispositif, par exemple par le biais d'une annexe.
+-dans ce cas, ces changements ne font pas l'objet d'une nouvelle notification de la CDAPH, y compris si le parcours a débuté sur la base d'une décision d'orientation prise antérieurement à la mise en œuvre du fonctionnement en dispositif concerné. Néanmoins la MDPH reçoit l'information par la fiche de liaison ;
 
-Dans un esprit de co-construction, les parents participent à l'élaboration du PPA et donnent leur avis et accord concernant les décisions relatives à l'évolution de l'accompagnement, y compris les évolutions des modalités d'accompagnement ou de scolarisation de l'enfant, de l'adolescent ou, le cas échéant avec son accord, du jeune adulte.
+-en outre, lorsque le changement de modalité d'accompagnement conduit à un passage d'un hébergement en internat ou en centre d'accueil familial spécialisé-CAFS (accueil de nuit) à un hébergement à domicile (pour tous les enfants bénéficiaires de l'AEEH), ou à un accompagnement en accueil de jour de plus de 16 heures par semaine (pour les enfants bénéficiant d'un complément de 6e catégorie), la MDPH procède à un réexamen rapide de la situation de la famille, au regard de ses droits à l'AEEH ;
 
-Information des parents ou du représentant légal :
+-un des partenaires (ESMS/ jeune et ses parents) est en désaccord sur les changements de modalités envisagées d'accompagnement :
 
-Un document écrit d'information, élaboré par les partenaires à la convention cadre précitée et annexée à celle-ci, est transmis aux parents ou au représentant légal par la MDPH à l'appui de la notification d'orientation vers le " dispositif ITEP ".
+-dans ce cas, la modification proposée n'intervient pas ;
 
-Ce document permettra d'informer l'usager de l'incidence éventuelle d'une modification du PPA sur le montant des prestations versées.
+-la CDAPH peut toutefois être saisie dans les conditions prévues par l'article L. 241-6 du code de l'action sociale et des familles.
 
-Recueil de l'accord des parents ou du représentant légal et délai de rétractation :
+L'ESMS fonctionnant en dispositif intégré ne peut mettre fin de sa propre initiative à l'accompagnement sans décision préalable de la CDAPH.
 
-L'accord du jeune majeur ou des titulaires de l'autorité parentale est systématiquement recueilli lors d'un changement de modalité d'accompagnement ou de scolarisation. En l'absence de cet accord, la CDAPH peut être saisie dans les conditions prévues par l'article L. 241-6 du CASF.
+iv. Evolution des modalités de scolarisation dans le cadre du fonctionnement en dispositif intégré
 
-La fiche de liaison décrivant la modification des modalités d'accompagnement et/ ou de scolarisation est remise aux parents ou au représentant légal pour accord.
+Une équipe de suivi de la scolarisation est réunie systématiquement dès lors que les adaptations des modalités d'accompagnement modifient le projet de scolarisation et/ ou l'orientation scolaire. L'équipe de suivi de la scolarisation est réunie par l'enseignant référent pour la scolarisation des élèves en situation de handicap (ERSEH).
 
-Après signature de la fiche de liaison par les parents ou le représentant légal, celui-ci dispose d'un délai de rétractation de quinze jours pour revenir sur son accord concernant ce changement. Il en informe alors le dispositif ITEP.
+Les changements ou adaptations de modalités de scolarisation sont proposés au jeune et à sa famille ou représentants légaux en fonction de l'évolution de ses besoins.
 
-4. Les conditions relatives à la transmission des informations entre les partenaires et à la fiche de liaison
+Les modalités de scolarisation sont citées à l'article L. 351 du code de l'éducation. Ces adaptations sont décidées par l'équipe de suivi de la scolarisation comprenant nécessairement le jeune, sa famille ou ses représentants légaux, un enseignant ayant une connaissance approfondie de la situation particulière de l'élève et de son parcours scolaire et un représentant du dispositif intégré. Cette décision vaut modification du PPS de l'élève.
 
-La fiche de liaison prévue par l'article D. 351-10-2 du code de l'éducation, permet d'informer la MDPH des nouvelles modalités de scolarisation et d'accompagnement de l'enfant ou du jeune et des modifications substantielles de son PPS et de son PPA. Elle est complétée et transmise par le directeur de l'établissement ou du service qui accueille l'enfant ou le jeune et est signée par les parents ou le représentant légal de l'enfant ou du jeune.
+Ces évolutions ne sont validées qu'avec l'accord des membres cités supra.
 
-Les raisons qui ont conduit au changement de modalité d'accompagnement et/ ou de scolarisation de l'enfant ou du jeune sont explicitées dans la fiche de liaison.
+L'affectation de l'élève relève de la compétence de l'inspecteur d'académie-directeur académique des services de l'éducation nationale (IA-DASEN) sur proposition du service départemental de l'école inclusive (SDEI) après recueil de l'avis des équipes pédagogiques et de l'ERSEH.
 
-La fiche de liaison est transmise sans délais, à compter de la fin du délai de rétractation des parents ou du représentant légal, par le directeur de l'ITEP ou du SESSAD à la MDPH, à l'enseignant référent, au directeur d'école ou au chef d'établissement du lieu visé de scolarisation ou de formation et aux autres partenaires éventuels.
+c) Fonctionnement opérationnel : la fiche de liaison
 
-Une modification substantielle est définie comme tout changement relatif aux modalités d'accompagnement et de scolarisation qui aurait donné lieu, en dehors du fonctionnement en dispositif intégré, à une nouvelle décision de la CDAPH. Une évolution du nombre d'heures d'accompagnement qui n'aurait pas donné lieu, en droit commun, à une décision de la CDAPH ne nécessite pas la transmission de fiche de liaison.
+La fiche de liaison prévue par l'article D. 351-10-2 du code de l'éducation constitue l'outil matérialisant l'accord du jeune, sa famille ou son représentant légal.
 
-Elle est intégrée au projet personnalisé de scolarisation de l'élève et communiquée aux membres de l'ESS.
+Conformément au modèle type annexé à la convention prévue par l'article D. 312-10-18 du code de l'action sociale et des familles, l'ESMS transmet une copie de la fiche de liaison à la MDPH, à l'organisme débiteur des prestations familiales, au conseil départemental et, en cas de changement de modalités de scolarisation de l'enfant ou du jeune, à l'ensemble des partenaires concernés (service départemental de l'école inclusive (SDEI) de la direction des services départementaux de l'éducation nationale (DSDEN), enseignant référent pour la scolarisation des élèves handicapés (ERSEH) et directeur d'école ou chef d'établissement du lieu visé de scolarisation ou de formation).
 
-Un document d'information qui peut être un volet de la fiche de liaison vaut, selon la procédure décrite dans la convention cadre, saisine de la MDPH pour la réévaluation de la situation au regard du droit à l'AEEH et le cas échéant, information au conseil départemental pour la réévaluation de la situation au regard du droit à la PCH.
+Elle permet, outre la signature du jeune ou de sa famille, l'information de la MDPH et de toutes les parties prenantes concourant au parcours de vie de l'enfant, de l'adolescent ou du jeune adulte ainsi que le suivi de son parcours.
 
-La fiche de liaison établie par les partenaires locaux est annexée à la convention cadre prévue par l'article L. 312-7-1 du CASF.
-
-5. Les conditions relatives au suivi de l'activite des ITEP et des SESSAD
-
-Les établissements et services prenant part au fonctionnement en dispositif ITEP (signataires de la convention cadre) transmettent à la MDPH, à l'ARS, au rectorat et à la DRAAF, une fois par an, les données nécessaires au suivi des enfants ou des jeunes accueillis et au suivi de l'activité de l'ESMS, dans le cadre du dispositif ITEP.
-
-La date de transmission du bilan annuel, fixée par l'ARS figure dans la convention cadre et se situe entre le 30 avril et le 30 juin de chaque année.
-
-Ce bilan annuel, dont les modalités sont détaillées dans l'annexe 2-13 au présent code, comporte deux parties, à remplir par chaque établissement ou service :
-
-– la fiche d'indicateurs de suivi d'activité ;
-
-– un document de suivi individuel des enfants ou jeunes permettant de recueillir les informations concernant les changements de modalités d'accompagnement et de scolarisation intervenus durant l'année.
-
-6. Les conditions relatives aux modalités de tarification et de facturation des ITEP et des SESSAD
-
-Afin de faciliter le fonctionnement du dispositif, la tarification des ESMS signataires de la convention cadre s'effectue dans le cadre d'un contrat pluriannuel d'objectifs et de moyens (CPOM). Le CPOM permet un fonctionnement avec une dotation globalisée commune et le fonctionnement en dispositif ITEP n'a alors aucune incidence sur la tarification et la facturation.
-
-En application de l'article L. 313-12-2 du CASF (issu de la loi de financement de la sécurité sociale pour 2016), les ITEP et les SESSAD relèvent des catégories d'ESMS pour lesquelles la signature d'un CPOM est rendue obligatoire. La généralisation du CPOM est pilotée par les DGARS, sur six années, à compter du 1er janvier 2016.
-
-Jusqu'à la conclusion d'un CPOM, les modalités de tarification suivantes sont possibles :
-
-– maintien du mode de financement antérieur des structures (PJ, PJG) sur la base d'un accord entre les gestionnaires et l'ARS avec la garantie d'un équilibre budgétaire en fin d'exercice, dès lors que le fonctionnement en dispositif intégré assure le maintien du nombre d'enfants ou de jeunes accompagnés par l'établissement ou le service ;
-
-– CPOM spécifique pour le ou les ITEP et SESSAD ITEP gérés par un même organisme.
-
-7. Précisions sur le circuit de gestion des prestations
-
-Lorsque l'enfant est orienté vers un fonctionnement en dispositif ITEP intégré, les règles d'attribution de l'allocation d'éducation de l'enfant handicapé et de ses compléments sont assurées dans les conditions définies par le code de la sécurité sociale.
-
-La convention cadre doit prévoir le circuit de gestion à adopter afin de garantir une gestion à bon droit des compléments attribués.
-
-1. Pour un enfant ou un jeune orienté vers un dispositif ITEP, la CDAPH inscrit dans la décision initiale d'attribution du complément d'allocation d'éducation de l'enfant handicapé :
-
-– la mention d'orientation en dispositif ITEP ;
-
-– l'indication de la modalité d'accompagnement dans le dispositif correspondant à la situation effective de l'enfant ou du jeune au moment de la décision d'attribution du complément.
-
-2. Par la suite, la convention prévoit en cas de changements d'orientation de l'enfant, que les organismes débiteurs des prestations familiales et les conseils départementaux sont destinataires d'un document d'information, qui peut être un volet de la fiche de liaison et qui concerne l'AEEH pour les CAF et les CMSA et la PCH pour les conseils départementaux. Ce document-ou la fiche de liaison-est renseigné par l'établissement qui accompagne l'enfant afin de donner une information rapide sur les changements de modalités d'accompagnement de l'enfant au sein du dispositif intégré.
-
-La fiche de liaison à la disposition des partenaires locaux est définie par la convention cadre qui détermine également les modalités de transmission de ce document et d'information des familles et des acteurs concernés.
-
-2.1. Si la modification d'orientation de l'enfant se traduit par un accueil en internat, et afin de faciliter la gestion de l'AEEH et de son complément éventuel, la convention prévoit que le document est transmis à l'organisme débiteur des prestations familiales qui en informe la CDAPH. Une attestation signée par l'établissement et la famille et précisant le nombre de nuits effectivement passées par l'enfant au domicile des parents est transmise selon une échéance mensuelle à l'organisme débiteur des prestations familiales.
-
-2.2. Dans les autres cas de modification d'orientation, la convention prévoit que ce document signé par la famille vaut saisine de la CDAPH pour procéder à un réexamen de la situation de la famille qui donne lieu à une décision de révision du droit au complément à l'AEEH, dès lors que les changements portés à la connaissance de la CDAPH entraînent des modifications du taux d'activité des parents, de la durée du recours à une tierce personne rémunérée ou du montant des dépenses engagées, directement en lien avec le handicap de l'enfant.
-
-La convention cadre prévoit par ailleurs un dispositif de suivi et d'évaluation des modalités de gestion de l'allocation d'éducation de l'enfant handicapé et de son complément dans le cadre du dispositif intégré.
-
-Ce suivi, inscrit dans le cadre du pilotage local du dispositif intégré, fait l'objet de réunions spécifiques associant les représentants des organismes débiteurs des prestations familiales, les MDPH, et les différents acteurs concernés, qui permettent de dresser un bilan (nombre d'enfants et de familles concernés, impact du dispositif intégré sur les changements de droits, impact sur les familles, adéquation du complément octroyé avec la situation de la famille …) et de repérer les problèmes rencontrés et de proposer si nécessaire toutes mesures ou bonnes pratiques permettant d'améliorer le circuit de gestion de la prestation.
+La fiche de liaison revêt un caractère obligatoire sous la responsabilité du porteur du fonctionnement en dispositif intégré.
