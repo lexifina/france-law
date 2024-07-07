@@ -1,45 +1,323 @@
-# Article Annexe
+# Article ANNEXE I
 
-SITUATION D'ÉVALUATION CERTIFICATIVE DES UC3 ET UC4 DU DIPLÔME D'ÉTAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ " PERFORMANCE SPORTIVE " MENTION " VOILE "
+RÉFÉRENTIEL D'ACTIVITÉS, DE COMPÉTENCES ET D'ÉVALUATION DU DIPLÔME D'ÉTAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ” MENTION “ VOILE ”
 
-Epreuve certificative de l'UC 3
+Le titulaire du DESJEPS voile conçoit les stratégies d'organisation, de gestion et de développement de la performance ou d'une structure, en voile. Il intervient également dans le développement de la voile, au niveau territorial.
 
-Cette épreuve certificative, qui se déroule au sein de la structure d'alternance, se compose des deux modalités suivantes :
+En tant qu'entraîneur, sa fonction se spécifie moins par l'élévation du niveau des compétiteurs que par la direction de système d'entraînement intégrant la gestion de la carrière et du suivi socioprofessionnel du sportif.
 
-1° Mise en situation pratique suivi d'un bilan
+Ses fonctions de directeur de structure se spécifient dans la conception et la direction du projet de développement de celle-ci.
 
-a) A l'issue d'un cycle d'entraînement, le/la candidat (e) encadre une séance sur l'eau avec un groupe de pratiquants confirmés sur une durée de 1 heure au minimum. Le/la candidat (e) encadre le groupe avec lequel il/ elle a travaillé. Il/ elle intervient essentiellement sur le domaine de la performance sur lequel il/ elle a été en responsabilité au cours du stage en situation. Au cours de cette séance, le/la candidat (e) filme une ou plusieurs séquences significatives qu'il/ elle choisit.
+|
 
-b) Après un temps de travail personnel de 30 minutes et à l'aide des séquences filmées, le/la candidat (e) présente aux évaluateurs un bilan de la séance pendant 15 minutes au maximum. Il/ elle insistera essentiellement sur le développement des qualités visées pour un ou plusieurs sportifs et/ ou sportives.
+RÉFÉRENTIEL D'ACTIVITÉS
 
-Ce temps de présentation est suivi de :
+Décrit les situations de travail
 
-20 minutes au maximum d'échanges avec les évaluateurs portant sur la séance encadrée : évaluation des domaines de l'entraînement et de l'analyse des conduites ;
+et les activités exercées, les métiers
 
-20 minutes au maximum de questionnements par les évaluateurs sur les notions plus larges de programmation et d'évaluation du processus d'entraînement : évaluation des domaines de la planification et de la programmation.
+ou emplois visés. |
 
-2° Production d'un document écrit suivi d'un entretien
+RÉFÉRENTIEL DE COMPÉTENCES |
 
-Avant la date de l'épreuve, dans les conditions fixées par le directeur régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par le directeur de la jeunesse, des sports et de la cohésion sociale (DJSCS), le/la candidat (e) transmet un document écrit personnel de 4 pages maximum présentant son action dans le cadre d'une formation de cadres sportifs visant à développer les compétences d'intervention dans les domaines de l'enseignement ou de l'entraînement.
+RÉFÉRENTIEL D'ÉVALUATION
 
-Sur la base de ce document écrit, le/la candidat (e) présente aux évaluateurs pendant 15 minutes au maximum l'analyse de son intervention en matière de conception, d'animation et d'évaluation de l'action de formation qu'il/ elle a menée.
+Définit les critères et les modalités d'évaluation des acquis |
 
-A l'issue de cette présentation, le/la candidat (e) s'entretient pendant 15 minutes au maximum avec les évaluateurs sur les problématiques d'ingénierie, d'animation et d'évaluation des activités de formation réalisées et plus largement, dans le domaine de la formation de l'encadrement sportif français.
+Identifie les compétences et les connaissances, y compris transversales, qui découlent du référentiel d'activités. |
 
-Epreuve certificative de l'UC 4
+Les modalités d'évaluation des unités capitalisables (UC) 1 et 2 sont définies à l'article A 212-57 du code du sport.
 
-Cette épreuve certificative, qui se déroule au sein de la structure d'alternance, se compose des deux modalités suivantes :
+Les modalités d'évaluation des unités capitalisables (UC) 3 et 4 sont définies à l'annexe II du présent arrêté.
 
-1° Mise en situation pratique
+|
 
-Encadrement d'un groupe de pratiquant (e) s d'une durée minimum de 1 h 30 effective sur l'eau : le/la candidat (e) prend en charge un groupe de pratiquants de niveau 1 à 3 de la Fédération française de voile inscrits dans un cycle d'apprentissage pour une séance. Le/la candidat (e) démontre sa capacité à organiser l'activité en sécurité, en respectant les spécificités du dispositif de surveillance et d'intervention de la structure. Il/elle organise l'activité et intervient auprès des pratiquants de manière à accélérer leur progression technique.
+|
 
-2° Entretien
+|
 
-Après la séance, le/la candidat (e) présente pendant quinze minutes au maximum aux évaluateurs une analyse de sa pratique afin de mettre en avant les dimensions techniques et sécuritaires de son intervention. Le/ la candidat (e) s'appuie sur les situations vécues par les pratiquants pour illustrer son analyse.
+MODALITÉS D'ÉVALUATION |
 
-A l'issue de cette présentation, le/la candidat (e) s'entretient avec les évaluateurs pendant 30 minutes au maximum sur ses connaissances techniques et réglementaires relatives à l'organisation des activités d'enseignement de la voile, et sa maîtrise des enjeux et dispositifs d'enseignement attachés à la pratique en école de voile.
+CRITÈRES D'ÉVALUATION |
+
+UC 1-Construire la stratégie d'une organisation du secteur |
+
+Conception du projet de la structure
+
+Préparation du projet stratégique de performance en voile
+
+Formalisation d'un projet de développement en voile
+
+|
+
+C 1.1-Préparer la prise de décision |
+
+Une seule modalité certificative permet d'évaluer de façon distincte les UC 1 et 2. |
+
+Le candidat :
+
+-Organise une veille en termes d'information dans le champ d'intervention de l'organisation dans le cadre de réseaux professionnels,
+
+-Analyse les caractéristiques économiques, sociales, politiques et culturelles de son territoire
+
+|
+
+Partage d'analyses stratégiques avec les instances dirigeantes
+
+Elaboration de la stratégie de mise en œuvre du projet de développement
+
+Organisation de la mise en œuvre des actions partenariales dans le domaine du voile.
+
+Pilotage des actions de relation publiques dans le domaine du voile.
+
+Vérification de la mise en œuvre des procédures administratives au sein de la direction sportive
+
+|
+
+C 1.2-Elaborer un projet de développement
+
+C 1.3-Mobiliser les instances dirigeantes élues.
+
+|
+
+La situation d'évaluation certificative est réalisée au moyen :
+
+-de la production d'un document analysant une expérience de conception et de coordination de la mise en œuvre de programmes de performance sportive en voile.
+
+-d'une soutenance orale suivie d'un entretien.
+
+|
+
+-Formalise des diagnostics stratégiques pour les élus du club ou de la structure de voile
+
+-Veille au respect des objectifs, des valeurs et des méthodes du club ou de la structure de voile dans une perspective éducative
+
+-Mobilise les ressources interne dans la préparation d'un projet de développement
+
+-Anime une démarche d'ingénierie de projet
+
+-Formalise un projet de développement
+
+-Elabore des dossiers de financement
+
+-Transmet l'information nécessaire à la prise de décision
+
+-Expose les alternatives stratégiques aux instances dirigeantes
+
+-Prépare les travaux des assemblées décisionnelles.
+
+|
+
+UC 2-Gérer les ressources humaines et financières d'une organisation du secteur |
+
+Direction d'une structure
+
+Accompagnement de l'équipe dans l'analyse de son organisation de travail
+
+Prescription des organisations de travail des équipes
+
+Négociation du plan de formation du personnel
+
+Surveillance du respect des différents protocoles de travail établis
+
+Définition du fonctionnement financier de la direction sportive en voile
+
+Analyse du compte de résultats et du bilan annuel
+
+Evaluation de la pertinence du fonctionnement administratif de la direction sportive en voile
+
+Organisation des différentes délégations.
+
+Conduite de l'évaluation du système de travail.
+
+|
+
+C 2.1-Gérer les ressources humaines d'une organisation du secteur
+
+C 2.2-Gérer les ressources financières d'une organisation du secteur
+
+C 2.3-Rendre compte de la mise en œuvre de la délégation
+
+|
+
+Une seule modalité certificative permet d'évaluer de façon distincte les UC 1 et 2.
+
+La situation d'évaluation certificative est réalisée au moyen de :
+
+-la production d'un document analysant une expérience de conception et de coordination de la mise en œuvre de programmes de performance sportive en voile.
+
+-d'une soutenance orale suivie d'un entretien.
+
+|
+
+Le candidat :
+
+-Conçoit une stratégie de développement des ressources humaines
+
+-Anticipe l'évolution des besoins en personnel
+
+-Négocie le plan de formation du personnel
+
+-Gère les relations sociales au sein du club ou de la structure de voile
+
+-Contrôle la gestion administrative du personnel
+
+-Procède à l'évaluation des personnels
+
+-Etablit les budgets prévisionnels et les dossiers de financement
+
+-Organise le fonctionnement financier du club ou de la structure de voile
+
+-Négocie avec les prestataires du club ou de la structure de voile
+
+-Contrôle les différentes procédures d'exécution budgétaire
+
+-Evalue la pertinence des modes de fonctionnement du club ou de la structure de voile
+
+-Explique les écarts constatés entre les résultats et les objectifs fixés
+
+-Elabore des propositions d'évolutions possibles.
+
+|
+
+UC 3-Diriger un système d'entraînement en voile |
+
+Encadrer des activités complexes d'entraînement et de formation
+
+Pilotage du système de l'entraînement en voile
+
+Organisation du système de l'entraînement en voile
+
+Evaluation du système d'entraînement en voile
+
+Observation de la performance des autres joueurs pendant la compétition en voile
+
+Observation de la performance des autres équipes pendant la compétition en voile
+
+Organisation des échanges de pratique avec une équipe technique en voile
+
+Encadrement de stagiaires dans le cadre de formation de formateurs en voile
+
+Réalisation de comptes rendus et de bilans pédagogiques
+
+|
+
+C 3.1-Concevoir le plan de performance sportive en voile
+
+C 3.2-Planifier la préparation de la performance sportive en voile
+
+C 3.3-Accompagner l'athlète vers l'optimisation de la performance en voile
+
+C 3.4-Conduire l'évaluation du projet de la performance en voile
+
+C 3.5-Organiser des actions formatives dans le cadre des réseaux professionnels en voile
+
+|
+
+L'épreuve certificative est réalisée au moyen :
+
+-d'une mise en situation professionnelle d'encadrement d'une séance sur l'eau avec un groupe de pratiquants confirmés suivi d'un temps de bilan et d'échanges avec les évaluateurs
+
+-de la production d'un document présentant une action de formation de cadres sportifs menée par le candidat faisant l'objet d'une présentation suivie d'un entretien
+
+|
+
+Le candidat :
+
+-Analyse les facteurs de la performance sportive en voile
+
+-Définit les objectifs de performance à court, moyen et long terme en voile
+
+-Choisit les indicateurs de réussite intermédiaire
+
+-Définit une politique de détection des jeunes sportifs en voile
+
+-Organise les échanges de pratique avec une équipe technique en voile
+
+-Organise la cohérence de la planification en voile
+
+-Coordonne le système d'entrainement comprenant différents intervenants
+
+-Définit les axes de la préparation physique des sportifs en voile
+
+-Définit les axes de la préparation mentale des sportifs en voile
+
+-Conçoit une politique de suivi social et professionnel des sportifs en voile
+
+-Dirige l'entraînement en voile
+
+-Veille au respect des différents protocoles de travail établis
+
+-Encadre les sportifs en voile dans le cadre de la compétition
+
+-Analyse le comportement des sportifs pendant la compétition de voile
+
+-Met en œuvre des médiations d'ordre stratégique, technique, physique ou relationnel
+
+-Gère la relation avec les médias
+
+-Formalise les bilans sportifs en voile
+
+-Analyse les écarts constatés entre les résultats et les objectifs fixés
+
+-Propose aux instances dirigeantes de nouvelles perspectives de développement
+
+-Conçoit des actions de formation adaptées aux besoins des réseaux professionnels du club ou de la structure de voile
+
+-Coordonne la mise en œuvre des actions de formation décidées
+
+-Anime des actions de formation en voile
+
+-Participe aux échanges professionnels dans le cadre de formation de formateurs en voile
+
+-Evaluer des actions de formations en voile
+
+|
+
+UC 4-Encadrer la voile en sécurité |
+
+Encadrement de pratiquants confirmés en voile en sécurité
+
+Encadrement de la voile en assurant la sécurité des pratiquants et des tiers
+
+Vérification de la conformité du matériel technique nécessaire à la réalisation de l'activité voile
+
+Vérification de la conformité des lieux de travail au regard des normes d'hygiène et de sécurité en voile
+
+|
+
+C 4.1-Réaliser en sécurité les démonstrations techniques en voile
+
+C 4.2-Réaliser les gestes professionnels nécessaires à la sécurité des pratiquants en voile
+
+C 4.3-Assurer la sécurité des pratiquants et des tiers en voile
+
+|
+
+La situation d'évaluation certificative est réalisée au moyen d'une mise en situation pratique d'encadrement en sécurité d'un groupe de pratiquants inscrits dans un cycle d'apprentissage en voile, suivie d'un entretien. |
+
+Le candidat :
+
+-Evalue les risques objectifs liés à la pratique de la voile
+
+-Evalue ses propres capacités à effectuer une démonstration technique en voile
+
+-Explicite les différents éléments de la démonstration technique
+
+-Anticipe les risques potentiels pour le sportif
+
+-Maîtrise le comportement et les gestes à réaliser en cas d'incident ou d'accident
+
+-Evalue les risques objectifs liés au contexte de pratique
+
+-Anticipe les risques juridiques liés à la pratique de la voile et au milieu dans lequel il se pratique
+
+-Assure la sécurité passive des équipements
+
+-Agit en cas de maltraitance des mineurs
+
+|
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 30 août 2017, ces dispositions s'appliquent à toute nouvelle décision d'habilitation prise à compter de la date de publication dudit arrêté.
+Conformément à l'article 10 de l'arrêté du 19 juin 2024 (NOR : SPOV2417293A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter de sa publication.
