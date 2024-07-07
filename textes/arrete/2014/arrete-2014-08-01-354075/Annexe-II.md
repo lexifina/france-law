@@ -2,3730 +2,1874 @@
 
 LISTE DES ÉTABLISSEMENTS OU PARTIES D'ÉTABLISSEMENTS DE CONSTRUCTION ET DE RÉPARATION NAVALES SUSCEPTIBLES D'OUVRIR DROIT À L'ATTRIBUTION D'UNE ALLOCATION DE CESSATION ANTICIPÉE D'ACTIVITÉ À CERTAINS FONCTIONNAIRES ET AGENTS NON TITULAIRES RELEVANT DU MINISTÈRE CHARGÉ DE LA MER
 
-ÉTABLISSEMENTS OU SITES ET LIEUX CONCERNÉS
+ÉTABLISSEMENTS OU SITES ET LIEUX CONCERNÉS |
 
+PÉRIODE CONSIDÉRÉE |
+
 |
 
-PÉRIODE CONSIDÉRÉE
+Date de début |
 
-|
+Date de fin |
 
-|
+Centre d'études techniques maritimes et fluviales (CETMEF) |
 
-Date de début
+Ateliers de Bonneuil |
 
-|
+1963 |
 
-Date de fin
+2002 |
 
-|
+Corse-du-Sud (2A) |
 
-Centre d'études techniques maritimes et fluviales (CETMEF)
+Ateliers, magasins d'Ajaccio |
 
-|
+1968 |
 
-Ateliers de Bonneuil
+2012 |
 
-|
+Phare de Pertusato |
 
-1963
+1955 |
 
-|
+2002 |
 
-2002
+Phare des îles Lavezzi |
 
-|
+1950 |
 
-Corse-du-Sud (2A)
+2015 |
 
-|
+Phare de la Chiappa |
 
-Ateliers, magasins d'Ajaccio
+1950 |
 
-|
+2015 |
 
-1968
+Phare de Senetosa |
 
-|
+1950 |
 
-2012
+2011 |
 
-|
+Phare des îles Sanguinaires |
 
-Phare de Pertusato
+1950 |
 
-|
+1998 |
 
-1955
+Feu de la citadelle à Ajaccio |
 
-|
+1950 |
 
-2002
+1995 |
 
-|
+Feu de Capo du Muro |
 
-Phare des îles Lavezzi
+1950 |
 
-|
+1995 |
 
-1950
+Feu Scoglio Longo |
 
-|
+1950 |
 
-2015
+1995 |
 
-|
+Feu de Cap Feno |
 
-Phare de la Chiappa
+1950 |
 
-|
+1995 |
 
-1950
+Phare de San Ciprianu |
 
-|
+1950 |
 
-2015
+1995 |
 
-|
+Vedette de travail Iles Lavezzi |
 
-Phare de Senetosa
+1960 |
 
-|
+1998 |
 
-1950
+Baliseur Iles Sanguinaires |
 
-|
+1991 |
 
-2011
+1998 |
 
-|
+Centre d'exploitation de Bonifacio |
 
-Phare des îles Sanguinaires
+1955 |
 
-|
+1998 |
 
-1950
+Haute-Corse (2B) |
 
-|
+Feux du Dragon et du Génois (vieux port de Bastia) |
 
-1998
+1963 |
 
-|
+2002 |
 
-Feu de la citadelle à Ajaccio
+Phare de la Giraglia |
 
-|
+1950 |
 
-1950
+1998 |
 
-|
+Vedette de travail Ile de la Giraglia |
 
-1995
+1959 |
 
-|
+1998 |
 
-Feu de Capo du Muro
+Phare d'Alistro |
 
-|
+1950 |
 
-1950
+2000 |
 
-|
+CEI annexe de Calvi-dépôt de Mozzelo |
 
-1995
+1960 |
 
-|
+1998 |
 
-Feu Scoglio Longo
+Phare de la Revellata |
 
-|
+1950 |
 
-1950
+1998 |
 
-|
+Alpes-Maritimes (06) |
 
-1995
+Ateliers et CEI de Cannes |
 
-|
+1950 |
 
-Feu de Cap Feno
+1997 |
 
-|
+Ateliers et CEI de Villefranche |
 
-1950
+1980 |
 
-|
+1997 |
 
-1995
+Phare de la Garoupe |
 
-|
+1950 |
 
-Phare de San Ciprianu
+1996 |
 
-|
+Phare de Saint-Jean-Cap-Ferrat |
 
-1950
+1950 |
 
-|
+1997 |
 
-1995
+Phare de Vallauris |
 
-|
+1950 |
 
-Vedette de travail Iles Lavezzi
+1997 |
 
-|
+Phare de l'Islette |
 
-1960
+1950 |
 
-|
+1997 |
 
-1998
+Phare de Nice |
 
-|
+1950 |
 
-Baliseur Iles Sanguinaires
+1997 |
 
-|
+Aude (11) |
 
-1991
+Atelier du centre d'exploitation de Port-la-Nouvelle |
 
-|
+1971 |
 
-1998
+1998 |
 
-|
+Vedette Espérance |
 
-Centre d'exploitation de Bonifacio
+1971 |
 
-|
+1998 |
 
-1955
+Drague à godets Pas-de-Calais |
 
-|
+1971 |
 
-1998
+1972 |
 
-|
+Remorqueur Canna |
 
-Haute-Corse (2B)
+1971 |
 
-|
+1972 |
 
-Feux du Dragon et du Génois (vieux port de Bastia)
+Porteur Marie-Salope |
 
-|
+1971 |
 
-1963
+1972 |
 
-|
+Bouches-du-Rhône (13) |
 
-2002
+Phare du Planier |
 
-|
+1957 |
 
-Phare de la Giraglia
+2002 |
 
-|
+Baliseur A. Fresnel |
 
-1950
+1977 |
 
-|
+1994 |
 
-1998
+Vedette Largade |
 
-|
+1977 |
 
-Vedette de travail Ile de la Giraglia
+1994 |
 
-|
+Ateliers de Marseille (poste 123 digue du large) |
 
-1959
+1976 |
 
-|
+1998 |
 
-1998
+Centre de stockage POLMAR de Port-de-Bouc |
 
-|
+1981 |
 
-Phare d'Alistro
+2001 |
 
-|
+Phare de la Couronne |
 
-1950
+1960 |
 
-|
+2001 |
 
-2000
+Phare de Faraman |
 
-|
+1960 |
 
-CEI annexe de Calvi-dépôt de Mozzelo
+2004 |
 
-|
+Feu ouest de la passe Léon Gourret (GPMM) |
 
-1960
+1970 |
 
-|
+2009 |
 
-1998
+Feu ouest et feu est de la passe de la Madrague (GPMM) |
 
-|
+1970 |
 
-Phare de la Revellata
+2009 |
 
-|
+Feu nord, feu sud et feu ouest de la passe de Mourepiane (GPMM) |
 
-1950
+1970 |
 
-|
+2009 |
 
-1998
+Feu ouest entrée et feu de la digue du port de Saumaty (GPMM) |
 
-|
+1970 |
 
-Alpes-Maritimes (06)
+2009 |
 
-|
+Feu est de la passe du cap Janet (GPMM) |
 
-Ateliers et CEI de Cannes
+1970 |
 
-|
+2009 |
 
-1950
+Feu est de la passe des chalutiers (GPMM) |
 
-|
+1970 |
 
-1997
+2009 |
 
-|
+Feu ouest et feu est du port Abri (GPMM) |
 
-Ateliers et CEI de Villefranche
+1970 |
 
-|
+2009 |
 
-1980
+Feu du fort Saint-Nicolas |
 
-|
+1970 |
 
-1997
+2009 |
 
-|
+Feu de la pointe de l'Esquallidou |
 
-Phare de la Garoupe
+1970 |
 
-|
+2009 |
 
-1950
+Feu de la digue du bassin Bérouard (La Ciotat) |
 
-|
+1970 |
 
-1996
+2009 |
 
-|
+Feu des Capucins (La Ciotat) |
 
-Phare de Saint-Jean-Cap-Ferrat
+1970 |
 
-|
+2009 |
 
-1950
+Feu de la pointe Saint-Antoine (Port-de-Bouc) |
 
-|
+1970 |
 
-1997
+2009 |
 
-|
+Feu des trois frères (port de la Mède) |
 
-Phare de Vallauris
+1970 |
 
-|
+2009 |
 
-1950
+Balise de la digue (port de la Mède) |
 
-|
+1970 |
 
-1997
+2009 |
 
-|
+Calvados (14) |
 
-Phare de l'Islette
+Ateliers de la subdivision des Phares et balises de Ouistreham |
 
-|
+1982 |
 
-1950
+2005 |
 
-|
+Bâtiment-usine de la subdivision de Ouistreham |
 
-1997
+1982 |
 
-|
+2000 |
 
-Phare de Nice
+Drague CO1 |
 
-|
+1980 |
 
-1950
+1985 |
 
-|
+Drague Les Morées |
 
-1997
+1980 |
 
-|
+2000 |
 
-Aude (11)
+Vedette de balisage Les Essarts |
 
-|
+1980 |
 
-Atelier du centre d'exploitation de Port-la-Nouvelle
+2000 |
 
-|
+Ateliers de la subdivision maritime de Caen |
 
-1971
+1980 |
 
-|
+2000 |
 
-1998
+Charente-Maritime (17) |
 
-|
+Atelier de la subdivision Ports hydrographie et dragages |
 
-Vedette Espérance
+1990 |
 
-|
+1999 |
 
-1971
+Drague Cap d'Aunis |
 
-|
+1990 |
 
-1998
+1999 |
 
-|
+Atelier de la subdivision de La Rochelle ville |
 
-Drague à godets Pas-de-Calais
+1978 |
 
-|
+1989 |
 
-1971
+Drague TD6 |
 
-|
+1978 |
 
-1972
+1989 |
 
-|
+Atelier CEI de La Rochelle |
 
-Remorqueur Canna
+1974 |
 
-|
+2001 |
 
-1971
+Navire Estrée |
 
-|
+1974 |
 
-1972
+2001 |
 
-|
+Phare des Baleines |
 
-Porteur Marie-Salope
+1982 |
 
-|
+1995 |
 
-1971
+Phares de l'île d'Aix et phare de Chassiron |
 
-|
+1976 |
 
-1972
+1995 |
 
-|
+Phare de la Coubre |
 
-Bouches-du-Rhône (13)
+1971 |
 
-|
+1995 |
 
-Phare du Planier
+Feux du môle d'escale de La Pallice |
 
-|
+1969 |
 
-1957
+1995 |
 
-|
+Feux du pont d'Oléron |
 
-2002
+1967 |
 
-|
+1995 |
 
-Baliseur A. Fresnel
+Ateliers de la direction de la mer et de la coopération |
 
-|
+1970 |
 
-1977
+1997 |
 
-|
+Travée levante de Martrou |
 
-1994
+1967 |
 
-|
+1991 |
 
-Vedette Largade
+Drague Hydre |
 
-|
+1980 |
 
-1977
+1997 |
 
-|
+Drague Avalis |
 
-1994
+1966 |
 
-|
+1997 |
 
-Ateliers de Marseille (poste 123 digue du large)
+Drague Dragor |
 
-|
+1992 |
 
-1976
+1997 |
 
-|
+Train de dragage n° 2 |
 
-1998
+1960 |
 
-|
+1997 |
 
-Centre de stockage POLMAR de Port-de-Bouc
+Côtes-d'Armor (22) |
 
-|
+Phares des Côtes-d'Armor |
 
-1981
+1950 |
 
-|
+2006 |
 
-2001
+Phare des Sept Iles |
 
-|
+1950 |
 
-Phare de la Couronne
+2014 |
 
-|
+Phare des Roches Douvres |
 
-1960
+1950 |
 
-|
+2015 |
 
-2001
+Parcs, ateliers et magasin de la subdivision à Lézardrieux |
 
-|
+1950 |
 
-Phare de Faraman
+2006 |
 
-|
+Vedette La Horaine |
 
-1960
+1957 |
 
-|
+2000 |
 
-2004
+Vedette Le Trahillion |
 
-|
+1983 |
 
-Feu ouest de la passe Léon Gourret (GPMM)
+2000 |
 
-|
+Finistère (29) |
 
-1970
+Atelier et CEI maritime du quai Malbert à Brest |
 
-|
+1949 |
 
-2009
+1998 |
 
-|
+Atelier peinture-sablage de Brest |
 
-Feu ouest et feu est de la passe de la Madrague (GPMM)
+1995 |
 
-|
+1995 |
 
-1970
+Ancien CEI |
 
-|
+2003 |
 
-2009
+2004 |
 
-|
+Bureaux du quai Malbert à Brest |
 
-Feu nord, feu sud et feu ouest de la passe de Mourepiane (GPMM)
+2012 |
 
-|
+2012 |
 
-1970
+limité aux fonctions de technicien du génie civil |
 
-|
+Centre Polmar de Brest |
 
-2009
+1972 |
 
-|
+2003 |
 
-Feu ouest entrée et feu de la digue du port de Saumaty (GPMM)
+Navire Georges de Joly |
 
-|
+1929 |
 
-1970
+2002 |
 
-|
+Vedette Boldwen |
 
-2009
+1981 |
 
-|
+1996 |
 
-Feu est de la passe du cap Janet (GPMM)
+Vedette Velleda |
 
-|
+1968 |
 
-1970
+1998 |
 
-|
+Vedette de l'île de Batz |
 
-2009
+1960 |
 
-|
+1998 |
 
-Feu est de la passe des chalutiers (GPMM)
+Bouées-phares de Brest et du rail d'Ouessant |
 
-|
+1978 |
 
-1970
+1998 |
 
-|
+Atelier maritime Brest port |
 
-2009
+1972 |
 
-|
+1998 |
 
-Feu ouest et feu est du port Abri (GPMM)
+Phare du Créac'h |
 
-|
+1950 |
 
-1970
+1999 |
 
-|
+Antenne Phares et balises du Créac'h |
 
-2009
+2008 |
 
-|
+2010 |
 
-Feu du fort Saint-Nicolas
+Phare de l'île Vierge |
 
-|
+1950 |
 
-1970
+1998 |
 
-|
+Phare de Saint-Mathieu |
 
-2009
+1950 |
 
-|
+1998 |
 
-Feu de la pointe de l'Esquallidou
+Ateliers maritimes de l'antenne de Concarneau (quai est) |
 
-|
+1950 |
 
-1970
+1998 |
 
-|
+Phares rattachés à l'antenne de Concarneau |
 
-2009
+1950 |
 
-|
+1997 |
 
-Feu de la digue du bassin Bérouard (La Ciotat)
+Autres phares rattachés à la subdivision de Brest |
 
-|
+1950 |
 
-1970
+1999 |
 
-|
+Phare de la Vieille |
 
-2009
+1950 |
 
-|
+2013 |
 
-Feu des Capucins (La Ciotat)
+Phare des Pierres Noires |
 
-|
+1950 |
 
-1970
+2015 |
 
-|
+Phare d'Armen |
 
-2009
+1950 |
 
-|
+2013 |
 
-Feu de la pointe Saint-Antoine (Port-de-Bouc)
+Maison-feu de Lanildut |
 
-|
+1950 |
 
-1970
+2009 |
 
-|
+Gard (30) |
 
-2009
+Atelier du centre d'exploitation d'Aigues-Mortes |
 
-|
+1966 |
 
-Feu des trois frères (port de la Mède)
+1998 |
 
-|
+Vedette Bourgidou |
 
-1970
+1974 |
 
-|
+1998 |
 
-2009
+Vedette Disponibel |
 
-|
+1966 |
 
-Balise de la digue (port de la Mède)
+1974 |
 
-|
+Ateliers du centre d'exploitation et de l'écluse de Saint-Gilles |
 
-1970
+1966 |
 
-|
+1998 |
 
-2009
+Atelier du centre d'exploitation de Beaucaire |
 
-|
+1966 |
 
-Calvados (14)
+1998 |
 
-|
+Gironde (33) |
 
-Ateliers de la subdivision des Phares et balises de Ouistreham
+Atelier CEI du Verdon-sur-Mer |
 
-|
+1976 |
 
-1982
+1996 |
 
-|
+Phare de Cordouan |
 
-2005
+1973 |
 
-|
+1998 |
 
-Bâtiment-usine de la subdivision de Ouistreham
+Phare de la pointe de Grave |
 
-|
+1973 |
 
-1982
+1998 |
 
-|
+Phare d'Hourtin |
 
-2000
+1973 |
 
-|
+1998 |
 
-Drague CO1
+Phare de Lège-Cap-Ferret |
 
-|
+1973 |
 
-1980
+1998 |
 
-|
+Baliseur André Blondel |
 
-1985
+1975 |
 
-|
+1999 |
 
-Drague Les Morées
+Languedoc-Roussillon (34) |
 
-|
+Ateliers et magasins de la subdivision de Sète (docks Richelieu et quai d'Alger) |
 
-1980
+1966 |
 
-|
+2002 |
 
-2000
+Matériel naval du service réformé : |
 
 |
-
-Vedette de balisage Les Essarts
 
 |
 
-1980
+-porteurs, dragues, remorqueurs, chaloupes, pilonneuse |
 
-|
+1966 |
 
-2000
+2000 |
 
-|
+-ponton bigue Le Porthos |
 
-Ateliers de la subdivision maritime de Caen
+1966 |
 
-|
+2004 |
 
-1980
+Matériel naval en activité : |
 
 |
-
-2000
 
 |
 
-Charente-Maritime (17)
+-Cap Croisette |
 
-|
+1982 |
 
-Atelier de la subdivision Ports hydrographie et dragages
+2000 |
 
-|
+-Camargue |
 
-1990
+1986 |
 
-|
+2000 |
 
-1999
+-Languedoc VII |
 
-|
+1986 |
 
-Drague Cap d'Aunis
+2000 |
 
-|
+Ponts mobiles de Sète : |
 
-1990
+|
 
 |
 
-1999
+-pont de Tivoli (centrale de maintenance) |
 
-|
+1966 |
 
-Atelier de la subdivision de La Rochelle ville
+2007 |
 
-|
+-pont de la Victoire |
 
-1978
+1966 |
 
-|
+1998 |
 
-1989
+-pont de la Gare |
 
-|
+1966 |
 
-Drague TD6
+1998 |
 
-|
+-pont Sadi-Carnot (appartient à la région LR) |
 
-1978
+1966 |
 
-|
+Date de transfert à la région |
 
-1989
+Phares : de l'Espiguette (Le Grau-du-Roi), du mont Saint-Clair (Sète), de Brescou (Agde), du cap Leucate (Leucate), du cap Béar (Port-Vendres) |
 
-|
+1966 |
 
-Atelier CEI de La Rochelle
+1998 |
 
-|
+Atelier du centre d'exploitation de Palavas |
 
-1974
+1966 |
 
-|
+1998 |
 
-2001
+Drague Bergeron |
 
-|
+1976 |
 
-Navire Estrée
+1998 |
 
-|
+Remorqueur Mistral |
 
-1974
+1974 |
 
-|
+1998 |
 
-2001
+Porteur Lagarde |
 
-|
+1982 |
 
-Phare des Baleines
+1998 |
 
-|
+Centre de stockage POLMAR de Sète |
 
-1982
+1980 |
 
-|
+2001 |
 
-1995
+Feu est de la pointe rouge (étang de Thau) |
 
-|
+1966 |
 
-Phares de l'île d'Aix et phare de Chassiron
+2009 |
 
-|
+Feu ouest plagette (bassin de Thau) |
 
-1976
+1966 |
 
-|
+2009 |
 
-1995
+Feu de la digue est (port de Marseillan) |
 
-|
+1966 |
 
-Phare de la Coubre
+2009 |
 
-|
+Feux de la digue est et de la digue ouest (Cap-d'Agde) |
 
-1971
+1966 |
 
-|
+2009 |
 
-1995
+Feu de la jetée sud (port du Canet) |
 
-|
+1966 |
 
-Feux du môle d'escale de La Pallice
+2009 |
 
-|
+Feu de la jetée sud (port du Barcarès) |
 
-1969
+1966 |
 
-|
+2009 |
 
-1995
+Feu de la digue ouest (Port-Camargue) |
 
-|
+1966 |
 
-Feux du pont d'Oléron
+2009 |
 
-|
+Feux de la jetée est et de la jetée ouest (port du Grau-du-Roi) |
 
-1967
+1966 |
 
-|
+2009 |
 
-1995
+Feux de la jetée est et de la jetée ouest (port de Carnon) |
 
-|
+1966 |
 
-Ateliers de la direction de la mer et de la coopération
+2009 |
 
-|
+Feu rive gauche (port de Palavas) |
 
-1970
+1966 |
 
-|
+2009 |
 
-1997
+Feu de fort Fanal (Port-Vendres) |
 
-|
+1950 |
 
-Travée levante de Martrou
+1998 |
 
-|
+Ille-et-Vilaine (35) |
 
-1967
+Ateliers de l'antenne de Saint-Malo |
 
-|
+1946 |
 
-1991
+2007 |
 
-|
+Phare des Bas Sablons |
 
-Drague Hydre
+1946 |
 
-|
+1999 |
 
-1980
+Navire Traversaine |
 
-|
+1985 |
 
-1997
+1999 |
 
-|
+Phare du Herpin |
 
-Drague Avalis
+1946 |
 
-|
+2006 |
 
-1966
+Loire-Atlantique (44) |
 
-|
+Ateliers et CEI de la subdivision de Saint-Nazaire |
 
-1997
+1950 |
 
-|
+1998 |
 
-Drague Dragor
+Phares en mer (phares de la Banche, du Grand Charpentier, du Pilier, du Four) |
 
-|
+1954 |
 
-1992
+2008 |
 
-|
+Baliseur Charles Babin |
 
-1997
+1949 |
 
-|
+1997 |
 
-Train de dragage n° 2
+Vedette Avel Mad |
 
-|
+1949 |
 
-1960
+2006 |
 
-|
+Phare de la Noëveillard |
 
-1997
+1845 |
 
-|
+1983 |
 
-Côtes-d'Armor (22)
+Manche (50) |
 
-|
+Centre de liants de Granville |
 
-Phares des Côtes-d'Armor
+1950 |
 
-|
+1991 |
 
-1950
+Parc de balisage de Granville |
 
-|
+1971 |
 
-2006
+2008 |
 
-|
+Vedette Les Epiettes |
 
-Phare des Sept Iles
+1981 |
 
-|
+2002 |
 
-1950
+Pôle des Phares et balises de Granville |
 
-|
+1961 |
 
-2014
+2011 |
 
-|
+Bureaux de Cherbourg |
 
-Phare des Roches Douvres
+1970 |
 
-|
+2013 |
 
-1950
+Parcs, ateliers et magasins de la subdivision de Cherbourg |
 
-|
+1970 |
 
-2015
+2010 |
 
-|
+Ancien CEI de la subdivision de Cherbourg |
 
-Parcs, ateliers et magasin de la subdivision à Lézardrieux
+1986 |
 
-|
+2010 |
 
-1950
+Ateliers et hangar en bois de la subdivision de Cherbourg |
 
-|
+1970 |
 
-2006
+2013 |
 
-|
+Phare de Carteret |
 
-Vedette La Horaine
+1839 |
 
-|
+1998 |
 
-1957
+Phare de Gatteville |
 
-|
+1982 |
 
-2000
+2003 |
 
-|
-
-Vedette Le Trahillion
-
-|
-
-1983
-
-|
-
-2000
-
-|
-
-Finistère (29)
-
-|
-
-Atelier et CEI maritime du quai Malbert à Brest
-
-|
-
-1949
-
-|
-
-1998
-
-|
-
-Atelier peinture-sablage de Brest
-
-|
-
-1995
-
-|
-
-1995
-
-|
-
-Ancien CEI
-
-|
-
-2003
-
-|
-
-2004
-
-|
-
-Bureaux du quai Malbert à Brest
-
-|
-
-2012
-
-|
-
-2012
-
-|
-
-limité aux fonctions de technicien du génie civil
-
-|
-
-Centre Polmar de Brest
-
-|
-
-1972
-
-|
-
-2003
-
-|
-
-Navire Georges de Joly
-
-|
-
-1929
-
-|
-
-2002
-
-|
-
-Vedette Boldwen
-
-|
-
-1981
-
-|
-
-1996
-
-|
-
-Vedette Velleda
-
-|
-
-1968
-
-|
-
-1998
-
-|
-
-Vedette de l'île de Batz
-
-|
-
-1960
-
-|
-
-1998
-
-|
-
-Bouées-phares de Brest et du rail d'Ouessant
-
-|
-
-1978
-
-|
-
-1998
-
-|
-
-Atelier maritime Brest port
-
-|
-
-1972
-
-|
-
-1998
-
-|
-
-Phare du Créac'h
-
-|
-
-1950
-
-|
-
-1999
-
-|
-
-Antenne Phares et balises du Créac'h
-
-|
-
-2008
-
-|
-
-2010
-
-|
-
-Phare de l'île Vierge
-
-|
-
-1950
-
-|
-
-1998
-
-|
-
-Phare de Saint-Mathieu
-
-|
-
-1950
-
-|
-
-1998
-
-|
-
-Ateliers maritimes de l'antenne de Concarneau (quai est)
-
-|
-
-1950
-
-|
-
-1998
-
-|
-
-Phares rattachés à l'antenne de Concarneau
-
-|
-
-1950
-
-|
-
-1997
-
-|
-
-Autres phares rattachés à la subdivision de Brest
-
-|
-
-1950
-
-|
-
-1999
-
-|
-
-Phare de la Vieille
-
-|
-
-1950
-
-|
-
-2013
-
-|
-
-Phare des Pierres Noires
-
-|
-
-1950
-
-|
-
-2015
-
-|
-
-Phare d'Armen
-
-|
-
-1950
-
-|
-
-2013
-
-|
-
-Maison-feu de Lanildut
-
-|
-
-1950
-
-|
-
-2009
-
-|
-
-Gard (30)
-
-|
-
-Atelier du centre d'exploitation d'Aigues-Mortes
-
-|
-
-1966
-
-|
-
-1998
-
-|
-
-Vedette Bourgidou
-
-|
-
-1974
-
-|
-
-1998
-
-|
-
-Vedette Disponibel
-
-|
-
-1966
-
-|
-
-1974
-
-|
-
-Ateliers du centre d'exploitation et de l'écluse de Saint-Gilles
-
-|
-
-1966
-
-|
-
-1998
-
-|
-
-Atelier du centre d'exploitation de Beaucaire
-
-|
-
-1966
-
-|
-
-1998
-
-|
-
-Gironde (33)
-
-|
-
-Atelier CEI du Verdon-sur-Mer
-
-|
-
-1976
-
-|
-
-1996
-
-|
-
-Phare de Cordouan
-
-|
-
-1973
-
-|
-
-1998
-
-|
-
-Phare de la pointe de Grave
-
-|
-
-1973
-
-|
-
-1998
-
-|
-
-Phare d'Hourtin
-
-|
-
-1973
-
-|
-
-1998
-
-|
-
-Phare de Lège-Cap-Ferret
-
-|
-
-1973
-
-|
-
-1998
-
-|
-
-Baliseur André Blondel
-
-|
-
-1975
-
-|
-
-1999
-
-|
-
-Languedoc-Roussillon (34)
-
-|
-
-Ateliers et magasins de la subdivision de Sète (docks Richelieu et quai d'Alger)
-
-|
-
-1966
-
-|
-
-2002
-
-|
-
-Matériel naval du service réformé :
-
-|
-
-|
-
-|
-
--porteurs, dragues, remorqueurs, chaloupes, pilonneuse
-
-|
-
-1966
-
-|
-
-2000
-
-|
-
--ponton bigue Le Porthos
-
-|
-
-1966
-
-|
-
-2004
-
-|
-
-Matériel naval en activité :
-
-|
-
-|
-
-|
-
--Cap Croisette
-
-|
-
-1982
-
-|
-
-2000
-
-|
-
--Camargue
-
-|
-
-1986
-
-|
-
-2000
-
-|
-
--Languedoc VII
-
-|
-
-1986
-
-|
-
-2000
-
-|
-
-Ponts mobiles de Sète :
-
-|
-
-|
-
-|
-
--pont de Tivoli (centrale de maintenance)
-
-|
-
-1966
-
-|
-
-2007
-
-|
-
--pont de la Victoire
-
-|
-
-1966
-
-|
-
-1998
-
-|
-
--pont de la Gare
-
-|
-
-1966
-
-|
-
-1998
-
-|
-
--pont Sadi-Carnot (appartient à la région LR)
-
-|
-
-1966
-
-|
-
-Date de transfert à la région
-
-|
-
-Phares : de l'Espiguette (Le Grau-du-Roi), du mont Saint-Clair (Sète), de Brescou (Agde), du cap Leucate (Leucate), du cap Béar (Port-Vendres)
-
-|
-
-1966
-
-|
-
-1998
-
-|
-
-Atelier du centre d'exploitation de Palavas
-
-|
-
-1966
-
-|
-
-1998
-
-|
-
-Drague Bergeron
-
-|
-
-1976
-
-|
-
-1998
-
-|
-
-Remorqueur Mistral
-
-|
-
-1974
-
-|
-
-1998
-
-|
-
-Porteur Lagarde
-
-|
-
-1982
-
-|
-
-1998
-
-|
-
-Centre de stockage POLMAR de Sète
-
-|
-
-1980
-
-|
-
-2001
-
-|
-
-Feu est de la pointe rouge (étang de Thau)
-
-|
-
-1966
-
-|
-
-2009
-
-|
-
-Feu ouest plagette (bassin de Thau)
-
-|
-
-1966
-
-|
-
-2009
-
-|
-
-Feu de la digue est (port de Marseillan)
-
-|
-
-1966
-
-|
-
-2009
-
-|
-
-Feux de la digue est et de la digue ouest (Cap-d'Agde)
-
-|
-
-1966
-
-|
-
-2009
-
-|
-
-Feu de la jetée sud (port du Canet)
-
-|
-
-1966
-
-|
-
-2009
-
-|
-
-Feu de la jetée sud (port du Barcarès)
-
-|
-
-1966
-
-|
-
-2009
-
-|
-
-Feu de la digue ouest (Port-Camargue)
-
-|
-
-1966
-
-|
-
-2009
-
-|
-
-Feux de la jetée est et de la jetée ouest (port du Grau-du-Roi)
-
-|
-
-1966
-
-|
-
-2009
-
-|
-
-Feux de la jetée est et de la jetée ouest (port de Carnon)
-
-|
-
-1966
-
-|
-
-2009
-
-|
-
-Feu rive gauche (port de Palavas)
-
-|
-
-1966
-
-|
-
-2009
-
-|
-
-Feu de fort Fanal (Port-Vendres)
-
-|
-
-1950
-
-|
-
-1998
-
-|
-
-Ille-et-Vilaine (35)
-
-|
-
-Ateliers de l'antenne de Saint-Malo
-
-|
-
-1946
-
-|
-
-2007
-
-|
-
-Phare des Bas Sablons
-
-|
-
-1946
-
-|
-
-1999
-
-|
-
-Navire Traversaine
-
-|
-
-1985
-
-|
-
-1999
-
-|
-
-Phare du Herpin
-
-|
-
-1946
-
-|
-
-2006
-
-|
-
-Loire-Atlantique (44)
-
-|
-
-Ateliers et CEI de la subdivision de Saint-Nazaire
-
-|
-
-1950
-
-|
-
-1998
-
-|
-
-Phares en mer (phares de la Banche, du Grand Charpentier, du Pilier, du Four)
-
-|
-
-1954
-
-|
-
-2008
-
-|
-
-Baliseur Charles Babin
-
-|
-
-1949
-
-|
-
-1997
-
-|
-
-Vedette Avel Mad
-
-|
-
-1949
-
-|
-
-2006
-
-|
-
-Phare de la Noëveillard
-
-|
-
-1845
-
-|
-
-1983
-
-|
-
-Manche (50)
-
-|
-
-Centre de liants de Granville
-
-|
-
-1950
-
-|
-
-1991
-
-|
-
-Parc de balisage de Granville
-
-|
-
-1971
-
-|
-
-2008
-
-|
-
-Vedette Les Epiettes
-
-|
-
-1981
-
-|
-
-2002
-
-|
-
-Pôle des Phares et balises de Granville
-
-|
-
-1961
-
-|
-
-2011
-
-|
-
-Bureaux de Cherbourg
-
-|
-
-1970
-
-|
-
-2013
-
-|
-
-Parcs, ateliers et magasins de la subdivision de Cherbourg
-
-|
-
-1970
-
-|
-
-2010
-
-|
-
-Ancien CEI de la subdivision de Cherbourg
-
-|
-
-1986
-
-|
-
-2010
-
-|
-
-Ateliers et hangar en bois de la subdivision de Cherbourg
-
-|
-
-1970
-
-|
-
-2013
-
-|
-
-Phare de Carteret
-
-|
-
-1839
-
-|
-
-1998
-
-|
-
-Phare de Gatteville
-
-|
-
-1982
-
-|
-
-2003
-
-|
-
-Phare de cap Levi
-
-|
-
-1948
-
-|
-
-2006
-
-|
-
-Phare du fort de l'Ouest
-
-|
-
-1840
-
-|
-
-1985
-
-|
-
-Phare de la Hague
-
-|
-
-1837
-
-|
-
-1989
-
-|
-
-Ex-antenne RANA à Heauville
-
-|
-
-1984
-
-|
-
-2008
-
-|
-
-Ex-antenne RANA à Vauville
-
-|
-
-1984
-
-|
-
-1998
-
-|
-
-Bateau relève Phare de la Hague
-
-|
-
-1947
-
-|
-
-1984
-
-|
-
-Bateau relève Phare du Port de l'Ouest
-
-|
-
-1950
-
-|
-
-1994
-
-|
-
-Morbihan (56)
-
-|
-
-Magasin et ateliers de la subdivision de Lorient
-
-|
-
-1945
-
-|
-
-2008
-
-|
-
-Baliseur Roi Gradlon
-
-|
-
-1952
-
-|
-
-1999
-
-|
-
-Station de contrôle de Kerdonis à Locmaria (Belle-Ile en mer)
-
-|
-
-1970
-
-|
-
-2000
-
-|
-
-Station d'émission (Arn Rana) de Plouharnel
-
-|
-
-1970
-
-|
-
-2000
-
-|
-
-Station d'émission (Toran) de Saint-Philbert
-
-|
-
-1970
-
-|
-
-2001
-
-|
-
-Chaloupe de travaux et vedette de servitude Locmaria-Logoden
-
-|
-
-1960
-
-|
-
-1999
-
-|
-
-Phare de Goulphar (Belle-Ile)
-
-|
-
-1951
-
-|
-
-1998
-
-|
-
-Phare de Pen Men (Groix)
-
-|
-
-1953
-
-|
-
-1998
-
-|
-
-Phare de la Teignouse
-
-|
-
-1978
-
-|
-
-1998
-
-|
-
-Phare des Cardinaux
-
-|
-
-1973
-
-|
-
-1998
-
-|
-
-Nord (59)
-
-|
-
-Ateliers travaux de la subdivision de Dunkerque
-
-|
-
-1960
-
-|
-
-2015
-
-|
-
-Ateliers peinture-sablage-menuiserie
-
-|
-
-1950
-
-|
-
-2015
-
-|
-
-Phares et établissements de signalisation maritime (littoral)
-
-|
-
-1950
-
-|
-
-2000
-
-|
-
-Baliseur Emile Allard
-
-|
-
-1950
-
-|
-
-2003
-
-|
-
-Vedette d'intervention rapide Ruytingen
-
-|
-
-1950
-
-|
-
-2001
-
-|
-
-Bateaux feux locaux et bouées phares de la subdivision de Dunkerque
-
-|
-
-1940
-
-|
-
-1996
-
-|
-
-Locaux sociaux de Dunkerque
-
-|
-
-1966
-
-|
-
-2015
-
-|
-
-Bâtiment centre POLMAR de Dunkerque
-
-|
-
-1978
-
-|
-
-2015
-
-|
-
-Pas-de-Calais (62)
-
-|
-
-Ateliers dragages et magasin général (réparations industrie navale) du service maritime des ports de Boulogne et de Calais
-
-|
-
-1945
-
-|
-
-2015 ou date de transfert en cas de transfert à une collectivité
-
-|
-
-Ateliers Loubet
-
-|
-
-1972
-
-|
-
-2015 ou date de transfert en cas de transfert à une collectivité
-
-|
-
-Dragues La Liane et Maxime Outrey
-
-|
-
-1945
-
-|
-
-1987
-
-|
-
-Drague Opale
-
-|
-
-1987
-
-|
-
-2000
-
-|
-
-Porteurs Huron, Iroquois et Saint-Laurent
-
-|
-
-1945
-
-|
-
-1987
-
-|
-
-Canot SNSM
-
-|
-
-1945
-
-|
-
-2000
-
-|
-
-Vedettes rattachées à Boulogne : McKenzy, Margaret I, Margaret II, Tigre I, Tigre II
-
-|
-
-1945
-
-|
-
-2000
-
-|
-
-Pontons Turney et Titan
-
-|
-
-1945
-
-|
-
-1987
-
-|
-
-Ecluses : Marguet, Napoléon, Loubet
-
-|
-
-1945
-
-|
-
-2000
-
-|
-
-Ecluse Sanson
-
-|
-
-1972
-
-|
-
-2015 ou date de transfert en cas de transfert à une collectivité
-
-|
-
-Barrage Marguet
-
-|
-
-1974
-
-|
-
-1989
-
-|
-
-Feux darse et jetée sud-ouest
-
-|
-
-1950
-
-|
-
-1998
-
-|
-
-Ateliers et magasins du service maritime basé à Calais
-
-|
-
-1945
-
-|
-
-2015 ou date de transfert en cas de transfert à une collectivité
-
-|
-
-Dragues, porteurs, canot SNSM, vedettes rattachés à Calais
-
-|
-
-1945
-
-|
-
-2000
-
-|
-
-Ecluse : Carnot, ouest, de la Batellerie
-
-|
-
-1945
-
-|
-
-2015 ou date de transfert en cas de transfert à une collectivité
-
-|
-
-Pont mobile Vétillart
-
-|
-
-1945
-
-|
-
-2000
-
-|
-
-Phare de Calais
-
-|
-
-1945
-
-|
-
-2000
-
-|
-
-Pompes de sections des Wateringues
-
-|
-
-1960
-
-|
-
-2000
-
-|
-
-Groupes électrogènes et chaufferie de la gare maritime
-
-|
-
-1960
-
-|
-
-1975
-
-|
-
-Grues mobiles OTTON (CCI)
-
-|
-
-1945
-
-|
-
-1988
-
-|
-
-Groupes électrogènes de la capitainerie du port de Calais
-
-|
-
-1979
-
-|
-
-1996
-
-|
-
-Forme de radoub et bateau-porte
-
-|
-
-1945
-
-|
-
-2000
-
-|
-
-Feux jetées est et ouest (Calais)
-
-|
-
-1945
-
-|
-
-2000
-
-|
-
-Ponts : de Vic, Curie, des Attaques, de Boulogne
-
-|
-
-1945
-
-|
-
-1993
-
-|
-
-Phares : Carnot, Touquet
-
-|
-
-1945
-
-|
-
-1995
-
-|
-
-Phare de Berck
-
-|
-
-1945
-
-|
-
-2015
-
-|
-
-Ateliers de la subdivision maritime d'Etaples et vedette La Canche
-
-|
-
-1960
-
-|
-
-2003
-
-|
-
-Phare du cap Gris-Nez
-
-|
-
-1945
-
-|
-
-2015
-
-|
-
-Bâtiment Phares et balises Le Portel
-
-|
-
-1972
-
-|
-
-2003
-
-|
-
-Pyrénées-Atlantiques (64)
-
-|
-
-Ateliers de la subdivision du 8, avenue de l'Adour à Anglet
-
-|
-
-1945
-
-|
-
-1999
-
-|
-
-Ateliers de la subdivision du 19, avenue l'Adour à Anglet
-
-|
-
-2014
-
-|
-
-2014
-
-|
-
-Grue Titan
-
-|
-
-1945
-
-|
-
-1995
-
-|
-
-Drague Bayonne
-
-|
-
-1945
-
-|
-
-1998
-
-|
-
-Chalands Eskillac et Belhara
-
-|
-
-1945
-
-|
-
-1998
-
-|
-
-Phare de Biarritz
-
-|
-
-1990
-
-|
-
-2002
-
-|
-
-Bureau d'études et de sondages 10, allée Marines, Bayonne
-
-|
-
-1964
-
-|
-
-2001
-
-|
-
-Feux de Ciboure
-
-|
-
-1950
-
-|
-
-2015
-
-|
-
-Feux de Socoa
-
-|
-
-1950
-
-|
-
-2015
-
-|
-
-Feux de Sainte-Barbe à Saint-Jean-de-Luz
+Phare de cap Levi |
 
-|
-
-1950
-
-|
-
-2008
-
-|
-
-Pyrénées-Orientales (66)
-
-|
-
-Atelier du centre d'exploitation de Port-Vendres
-
-|
-
-1971
-
-|
-
-1998
-
-|
-
-Seine-Maritime (76)
-
-|
-
-Ouvrages mobiles du port de Dieppe (écluse, ponts)
-
-|
-
-1975
-
-|
-
-2015 ou date de transfert en cas de transfert à une collectivité
-
-|
-
-Engins de dragage du port de Dieppe et armés par la DDE 76
+1948 |
 
-|
-
-1975
-
-|
-
-2002
-
-|
-
-Ateliers du service maritime (2e section) de la DDE 76
-
-|
-
-1975
-
-|
-
-2002
-
-|
+2006 |
 
-Ateliers du service maritime (3e section) de la DDE 76
+Phare du fort de l'Ouest |
 
-|
-
-1975
+1840 |
 
-|
+1985 |
 
-2000
+Phare de la Hague |
 
-|
+1837 |
 
-Centres d'exploitation : Seine, Gironde, Dieppe
+1989 |
 
-|
+Ex-antenne RANA à Heauville |
 
-1983
+1984 |
 
-|
+2008 |
 
-2000
+Ex-antenne RANA à Vauville |
 
-|
+1984 |
 
-Phares et feux (de Dieppe, du Tréport, de l'Ailly, de La Hève, d'Antifer, de Polmar, du Havre)
+1998 |
 
-|
+Bateau relève Phare de la Hague |
 
-1975
+1947 |
 
-|
+1984 |
 
-2015
+Bateau relève Phare du Port de l'Ouest |
 
-|
+1950 |
 
-Navire baliseur Quinette de Rochemont II
+1994 |
 
-|
+Morbihan (56) |
 
-1948
+Magasin et ateliers de la subdivision de Lorient |
 
-|
+1945 |
 
-2004
+2008 |
 
-|
+Baliseur Roi Gradlon |
 
-Deux-Sèvres (79)
+1952 |
 
-|
+1999 |
 
-Ateliers de Marans
+Station de contrôle de Kerdonis à Locmaria (Belle-Ile en mer) |
 
-|
+1970 |
 
-1970
+2000 |
 
-|
+Station d'émission (Arn Rana) de Plouharnel |
 
-2000
+1970 |
 
-|
+2000 |
 
-Ateliers de Niort
+Station d'émission (Toran) de Saint-Philbert |
 
-|
+1970 |
 
-1970
+2001 |
 
-|
+Chaloupe de travaux et vedette de servitude Locmaria-Logoden |
 
-2000
+1960 |
 
-|
+1999 |
 
-Somme (80)
+Phare de Goulphar (Belle-Ile) |
 
-|
+1951 |
 
-Ateliers de Saint-Valery-sur-Somme
+1998 |
 
-|
+Phare de Pen Men (Groix) |
 
-1951
+1953 |
 
-|
+1998 |
 
-2003
+Phare de la Teignouse |
 
-|
+1978 |
 
-Phare de Cayeux
+1998 |
 
-|
+Phare des Cardinaux |
 
-1951
+1973 |
 
-|
+1998 |
 
-1999
+Nord (59) |
 
-|
+Ateliers travaux de la subdivision de Dunkerque |
 
-Phare d'Ault
+1960 |
 
-|
+2015 |
 
-1951
+Ateliers peinture-sablage-menuiserie |
 
-|
+1950 |
 
-2001
+2015 |
 
-|
+Phares et établissements de signalisation maritime (littoral) |
 
-Phare du Hourdel
+1950 |
 
-|
+2000 |
 
-1951
+Baliseur Emile Allard |
 
-|
+1950 |
 
-2001
+2003 |
 
-|
+Vedette d'intervention rapide Ruytingen |
 
-Var (83)
+1950 |
 
-|
+2001 |
 
-Ateliers CEI de Toulon
+Bateaux feux locaux et bouées phares de la subdivision de Dunkerque |
 
-|
+1940 |
 
-1981
+1996 |
 
-|
+Locaux sociaux de Dunkerque |
 
-1997
+1966 |
 
-|
+2015 |
 
-Phare du Grand Ribaud
+Bâtiment centre POLMAR de Dunkerque |
 
-|
+1978 |
 
-1950
+2015 |
 
-|
+Pas-de-Calais (62) |
 
-1997
+Ateliers dragages et magasin général (réparations industrie navale) du service maritime des ports de Boulogne et de Calais |
 
-|
+1945 |
 
-Phare du Grand Rouveau
+2015 ou date de transfert en cas de transfert à une collectivité |
 
-|
+Ateliers Loubet |
 
-1950
+1972 |
 
-|
+2015 ou date de transfert en cas de transfert à une collectivité |
 
-1997
+Dragues La Liane et Maxime Outrey |
 
-|
+1945 |
 
-Phare de Cépet
+1987 |
 
-|
+Drague Opale |
 
-1950
+1987 |
 
-|
+2000 |
 
-1997
+Porteurs Huron, Iroquois et Saint-Laurent |
 
-|
+1945 |
 
-Phare de Porquerolles
+1987 |
 
-|
+Canot SNSM |
 
-1950
+1945 |
 
-|
+2000 |
 
-1997
+Vedettes rattachées à Boulogne : McKenzy, Margaret I, Margaret II, Tigre I, Tigre II |
 
-|
+1945 |
 
-Phare de Camarat
+2000 |
 
-|
+Pontons Turney et Titan |
 
-1950
+1945 |
 
-|
+1987 |
 
-1997
+Ecluses : Marguet, Napoléon, Loubet |
 
-|
+1945 |
 
-Phare de Bénat
+2000 |
 
-|
+Ecluse Sanson |
 
-1950
+1972 |
 
-|
+2015 ou date de transfert en cas de transfert à une collectivité |
 
-1997
+Barrage Marguet |
 
-|
+1974 |
 
-Vedette Galy Merlin
+1989 |
 
-|
+Feux darse et jetée sud-ouest |
 
-1950
+1950 |
 
-|
+1998 |
 
-1997
+Ateliers et magasins du service maritime basé à Calais |
 
-|
+1945 |
 
-Vendée (85)
+2015 ou date de transfert en cas de transfert à une collectivité |
 
-|
+Dragues, porteurs, canot SNSM, vedettes rattachés à Calais |
 
-Vedettes de servitude La Grande Barge
+1945 |
 
-|
+2000 |
 
-1975
+Ecluse : Carnot, ouest, de la Batellerie |
 
-|
+1945 |
 
-1992
+2015 ou date de transfert en cas de transfert à une collectivité |
 
-|
+Pont mobile Vétillart |
 
-Vedettes de servitude La Clère
+1945 |
 
-|
+2000 |
 
-1975
+Phare de Calais |
 
-|
+1945 |
 
-1999
+2000 |
 
-|
+Pompes de sections des Wateringues |
 
-Phare de la Potence
+1960 |
 
-|
+2000 |
 
-1970
+Groupes électrogènes et chaufferie de la gare maritime |
 
-|
+1960 |
 
-2000
+1975 |
 
-|
+Grues mobiles OTTON (CCI) |
 
-Phare du Grouin du Cou
+1945 |
 
-|
+1988 |
 
-1970
+Groupes électrogènes de la capitainerie du port de Calais |
 
-|
+1979 |
 
-2006
+1996 |
 
-|
+Forme de radoub et bateau-porte |
 
-Phare de l'Armandèche
+1945 |
 
-|
+2000 |
 
-1970
+Feux jetées est et ouest (Calais) |
 
-|
+1945 |
 
-2004
+2000 |
 
-|
+Ponts : de Vic, Curie, des Attaques, de Boulogne |
 
-Phare des Barges
+1945 |
 
-|
+1993 |
 
-1985
+Phares : Carnot, Touquet |
 
-|
+1945 |
 
-2000
+1995 |
 
-|
+Phare de Berck |
 
-Station d'émission de Landevielle
+1945 |
 
-|
+2015 |
 
-1982
+Ateliers de la subdivision maritime d'Etaples et vedette La Canche |
 
-|
+1960 |
 
-2000
+2003 |
 
-|
+Phare du cap Gris-Nez |
 
-Station DGPS l'Aurière
+1945 |
 
-|
+2015 |
 
-1982
+Bâtiment Phares et balises Le Portel |
 
-|
+1972 |
 
-2000
+2003 |
 
-|
+Pyrénées-Atlantiques (64) |
 
-Phare des Corbeaux
+Ateliers de la subdivision du 8, avenue de l'Adour à Anglet |
 
-|
+1945 |
 
-1950
+1999 |
 
-|
+Ateliers de la subdivision du 19, avenue l'Adour à Anglet |
 
-2003
+2014 |
 
-|
+2014 |
 
-Grand phare de l'île d'Yeu
+Grue Titan |
 
-|
+1945 |
 
-1953
+1995 |
 
-|
+Drague Bayonne |
 
-2003
+1945 |
 
-|
+1998 |
 
-Vedette Esilab
+Chalands Eskillac et Belhara |
 
-|
+1945 |
 
-1992
+1998 |
 
-|
+Phare de Biarritz |
 
-2000
+1990 |
 
-|
+2002 |
 
-Baliseur Martroger
+Bureau d'études et de sondages 10, allée Marines, Bayonne |
 
-|
+1964 |
 
-1970
+2001 |
 
-|
+Feux de Ciboure |
 
-1992
+1950 |
 
-|
+2015 |
 
-Guadeloupe (971)
+Feux de Socoa |
 
-|
+1950 |
 
-Ateliers de la subdivision de Fouillole
+2015 |
 
-|
+Feux de Sainte-Barbe à Saint-Jean-de-Luz |
 
-1981
+1950 |
 
-|
+2008 |
 
-1983
+Pyrénées-Orientales (66) |
 
-|
+Atelier du centre d'exploitation de Port-Vendres |
 
-Navire baliseur Marius Moutet
+1971 |
 
-|
+1998 |
 
-1981
+Seine-Maritime (76) |
 
-|
+Ouvrages mobiles du port de Dieppe (écluse, ponts) |
 
-1983
+1975 |
 
-|
+2015 ou date de transfert en cas de transfert à une collectivité |
 
-Martinique (972)
+Engins de dragage du port de Dieppe et armés par la DDE 76 |
 
-|
+1975 |
 
-Ateliers de la subdivision des Phares et balises
+2002 |
 
-|
+Ateliers du service maritime (2e section) de la DDE 76 |
 
-1982
+1975 |
 
-|
+2002 |
 
-1995
+Ateliers du service maritime (3e section) de la DDE 76 |
 
-|
+1975 |
 
-Guyane (973)
+2000 |
 
-|
+Centres d'exploitation : Seine, Gironde, Dieppe |
 
-Remorqueurs Mahury et Oyapock
+1983 |
 
-|
+2000 |
 
-1980
+Phares et feux (de Dieppe, du Tréport, de l'Ailly, de La Hève, d'Antifer, de Polmar, du Havre) |
 
-|
+1975 |
 
-1996
+2015 |
 
-|
+Navire baliseur Quinette de Rochemont II |
 
-La Réunion (974)
+1948 |
 
-|
+2004 |
 
-Anciens ateliers de la subdivision Entretien et dragages
+Deux-Sèvres (79) |
 
-|
+Ateliers de Marans |
 
-1945
+1970 |
 
-|
+2000 |
 
-1986
+Ateliers de Niort |
 
-|
+1970 |
 
-Nouveaux ateliers de la subdivision Entretien et dragages
+2000 |
 
-|
+Somme (80) |
 
-1986
+Ateliers de Saint-Valery-sur-Somme |
 
-|
+1951 |
 
-2006
+2003 |
 
-|
+Phare de Cayeux |
 
-Darse à matériel
+1951 |
 
-|
+1999 |
 
-1986
+Phare d'Ault |
 
-|
+1951 |
 
-2006
+2001 |
 
-|
+Phare du Hourdel |
 
-Phare de Bel Air (Sainte-Suzanne)
+1951 |
 
-|
+2001 |
 
-1950
+Var (83) |
 
-|
+Ateliers CEI de Toulon |
 
-2012
+1981 |
 
-|
+1997 |
 
-Saint-Pierre-et-Miquelon (975)
+Phare du Grand Ribaud |
 
-|
+1950 |
 
-Ateliers Phares et balises de Saint-Pierre-et-Miquelon
+1997 |
 
-|
+Phare du Grand Rouveau |
 
-1950
+1950 |
 
-|
+1997 |
 
-2016
+Phare de Cépet |
 
-|
+1950 |
 
-Baliseur Paul Veillon
+1997 |
 
-|
+Phare de Porquerolles |
 
-1955
+1950 |
 
-|
+1997 |
 
-2012
+Phare de Camarat |
 
-|
+1950 |
 
-Tous centres de sécurité des navires
+1997 |
 
-|
+Phare de Bénat |
 
-Agents ayant effectués des visites de sécurité à bord des navires ou dans des chantiers navals utilisant de l'amiante
+1950 |
 
-|
+1997 |
 
--
+Vedette Galy Merlin |
 
-|
+1950 |
 
-avant 1996
+1997 |
 
-|
+Vendée (85) |
 
-Unités navigantes du dispositif de contrôle et de surveillance
+Vedettes de servitude La Grande Barge |
 
-|
+1975 |
 
-PM 13 Coriandre
+1992 |
 
-|
+Vedettes de servitude La Clère |
 
-1974
+1975 |
 
-|
+1999 |
 
-1998
+Phare de la Potence |
 
-|
+1970 |
 
-PM 24 AEC Thomas
+2000 |
 
-|
+Phare du Grouin du Cou |
 
-1979
+1970 |
 
-|
+2006 |
 
-1983
+Phare de l'Armandèche |
 
-|
+1970 |
 
-PM 28 Tourne-Pierre
+2004 |
 
-|
+Phare des Barges |
 
-1980
+1985 |
 
-|
+2000 |
 
-2001
+Station d'émission de Landevielle |
 
-|
+1982 |
 
-PM 30 Gabian
+2000 |
 
-|
+Station DGPS l'Aurière |
 
-1983
+1982 |
 
-|
+2000 |
 
-2003
+Phare des Corbeaux |
 
-|
+1950 |
 
-PM 283 Girondine
+2003 |
 
-|
+Grand phare de l'île d'Yeu |
 
-1984
+1953 |
 
-|
+2003 |
 
-1992
+Vedette Esilab |
 
-|
+1992 |
 
-PM 25 Ancelle
+2000 |
 
-|
+Baliseur Martroger |
 
-1978
+1970 |
 
-|
+1992 |
 
-2000
+Guadeloupe (971) |
 
-|
+Ateliers de la subdivision de Fouillole |
 
-PM 26 Patron Louis Renet
+1981 |
 
-|
+1983 |
 
-1975
+Navire baliseur Marius Moutet |
 
-|
+1981 |
 
-1995
+1983 |
 
-|
+Martinique (972) |
 
-PM 11 Garance
+Ateliers de la subdivision des Phares et balises |
 
-|
+1982 |
 
-1982
+1995 |
 
-|
+Guyane (973) |
 
-1990
+Remorqueurs Mahury et Oyapock |
 
-|
+1980 |
 
-PM 13 Marjolaine
+1996 |
 
-|
+La Réunion (974) |
 
-1979
+Anciens ateliers de la subdivision Entretien et dragages |
 
-|
+1945 |
 
-1992
+1986 |
 
-|
+Nouveaux ateliers de la subdivision Entretien et dragages |
 
-PM 54 Valériane
+1986 |
 
-|
+2006 |
 
-1974
+Darse à matériel |
 
-|
+1986 |
 
-1999
+2006 |
 
-|
+Phare de Bel Air (Sainte-Suzanne) |
 
-PM 23 Matelot Henri Nogues
+1950 |
 
-|
+2012 |
 
-1978
+Saint-Pierre-et-Miquelon (975) |
 
-|
+Ateliers Phares et balises de Saint-Pierre-et-Miquelon |
 
-1984
+1950 |
 
-|
+2016 |
 
-Vedette Armoise
+Baliseur Paul Veillon |
 
-|
+1955 |
 
-1968
+2012 |
 
-|
+Tous centres de sécurité des navires |
 
-1994
+Agents ayant effectués des visites de sécurité à bord des navires ou dans des chantiers navals utilisant de l'amiante |
 
-|
+- |
 
-Vedette Courlis
+avant 1996 |
 
-|
+Unités navigantes du dispositif de contrôle et de surveillance |
 
-1982
+PM 13 Coriandre |
 
-|
+1974 |
 
-1995
+1998 |
 
-|
+PM 24 AEC Thomas |
 
-Vedette Pluvier
+1979 |
 
-|
+1983 |
 
-1981
+PM 28 Tourne-Pierre |
 
-|
+1980 |
 
-1992
+2001 |
 
-|
+PM 30 Gabian |
 
-Vedette Carouge
+1983 |
 
-|
+2016 |
 
-1981
+PM 283 Girondine |
 
-|
+1984 |
 
-1992
+1992 |
 
-|
+PM 25 Ancelle |
 
-Vedette Avocette
+1978 |
 
-|
+2000 |
 
-1981
+PM 26 Patron Louis Renet |
 
-|
+1975 |
 
-1992
+1995 |
 
-|
+PM 11 Garance |
 
-Vedette Eder II
+1982 |
 
-|
+1990 |
 
-1981
+PM 13 Marjolaine |
 
-|
+1979 |
 
-1992
+1992 |
 
-|
+PM 54 Valériane |
 
-Vedette Océane
+1974 |
 
-|
+1999 |
 
-1984
+PM 23 Matelot Henri Nogues |
 
-|
+1978 |
 
-1992
+1984 |
 
-|
+Vedette Armoise |
 
-Vedette Romarin
+1968 |
 
-|
+1994 |
 
-1974
+Vedette Courlis |
 
-|
+1982 |
 
-1999
+1995 |
 
-|
+Vedette Pluvier |
 
-Vedette Tadorne
+1981 |
 
-|
+1992 |
 
-1986
+Vedette Carouge |
 
-|
+1981 |
 
-1996
+1992 |
 
-|
+Vedette Avocette |
 
-PM 63 Eider II
+1981 |
 
-|
+1992 |
 
-1986
+Vedette Eder II |
 
-|
+1981 |
 
-2002
+1992 |
 
-|
+Vedette Océane |
 
-PM 61 Petrel
+1984 |
 
-|
+1992 |
 
-1985
+Vedette Romarin |
 
-|
+1974 |
 
-2011
+1999 |
 
-|
+Vedette Tadorne |
 
-PM 269 Cauchoise
+1986 |
 
-|
+1996 |
 
-1982
+PM 63 Eider II |
 
-|
+1986 |
 
-1996
+2002 |
 
-|
+PM 61 Petrel |
 
-PM 279 Sarriette
+1985 |
 
-|
+2011 |
 
-1988
+PM 269 Cauchoise |
 
-|
+1982 |
 
-2000
+1996 |
 
-|
+PM 279 Sarriette |
 
-PM 50 Sorbier
+1988 |
 
-|
+2000 |
 
-1977
+PM 50 Sorbier |
 
-|
+1977 |
 
 1996 |
