@@ -22,6 +22,8 @@ Cette annexe comporte les appendices suivants :
 
 10. Appendice IV. 10- Prescriptions applicables à la distribution de carburants destinés aux moteurs à combustion (voir 3.7.2 de l'annexe I du présent arrêté).
 
+11. Appendice IV. 11.-Prescriptions applicables à certains déchets classés en tant que marchandises dangereuses.
+
 APPENDICE IV.1 : DISPOSITIONS RELATIVES AUX FLEXIBLES
 
 (Voir article 9.2)
@@ -2858,7 +2860,7 @@ Avant leur remplissage, l'emballeur procède à une vérification des GRV afin d
 
 4.5. Afin d'éviter tout risque d'erreur de déchargement (vidange d'un produit dans un mauvais réservoir), toutes les bouches de livraison ainsi que les réservoirs de stockage associés sont clairement identifiés à l'aide du n° ONU de la matière. Les bouches de livraison sont munies de fermetures sécurisées munies d'un dispositif de verrouillage de type cadenas ou autre dispositif. Lorsque la vidange est réalisée conformément aux dispositions du 2.2.1.2, un schéma clairement lisible de l'ensemble des réservoirs, des bouches de livraisons associées et de leur identification est affiché de façon permanente dans l'installation réceptionnaire.
 
-4.6. La vidange est effectuée conformément aux dispositions du présent arrêté applicables pour un transport en citerne. L'arrivée de produit dans le réservoir de réception doit être en connexion fixe. Pour le transfert de matières inflammables, toute arrivée en pluie dans le réservoir est interdite et la connexion à une prise de terre opérationnelle est requise. La vidange par mise sous pression du GRV est interdite. Préalablement au déchargement, le conducteur vérifie notamment que la cale de roue visée au 8.1.5.2 est correctement mise en place et que les équipements supplémentaires visés au 8.1.5.3 sont aisément accessibles.
+4.6. La vidange est effectuée conformément aux dispositions du présent arrêté applicables pour un transport en citerne. L'arrivée de produit dans le réservoir de réception doit être en connexion fixe. Préalablement à la vidange, le conducteur vérifie notamment que la cale de roue mentionnée au 8.1.5.2 est correctement mise en place et que les équipements supplémentaires mentionnés au 8.1.5.3 sont aisément accessibles. Pour le transfert de matières inflammables, toute arrivée en pluie dans le réservoir ainsi que toute vidange par mise sous pression du GRV sont interdites et la connexion à une prise de terre opérationnelle est requise. Pour les autres matières, la pression appliquée lors de la vidange ne doit pas dépasser 110 kPa (1,1 bar).
 
 4.7. A l'issue de chaque vidange, des mesures doivent être prises afin d'éviter que les flexibles ne laissent échapper des matières dangereuses durant le transport. Les flexibles sont rincés ou à défaut, placés dans des bacs permettant de contenir d'éventuelles fuites de marchandises. Il est strictement interdit de rejeter ces eaux de rinçage dans l'environnement ou dans les réseaux d'assainissement publics. L'eau nécessaire pour ces rinçages est disponible à chaque opération dans l'installation réceptionnaire. Le traitement des eaux de rinçage relève exclusivement de l'installation réceptionnaire.
 
@@ -3104,8 +3106,250 @@ Un document décrivant de manière détaillée les consignes de remplissage et d
 
 Le conducteur est titulaire d'un certificat correspondant à la formation de base ainsi qu'à la spécialisation “ produits pétroliers ” au sens du 4.3 b) de l'annexe I du présent arrêté.
 
-NOTA :
+APPENDICE IV. 11
 
-Conformément à l’article 20 de l’arrêté du 19 décembre 2022 (NOR : TREP2235813A), ces dispositions entrent en vigueur le 1er janvier 2023.
+PRESCRIPTIONS APPLICABLES À CERTAINS DÉCHETS CLASSÉS EN TANT QUE MARCHANDISES DANGEREUSES
 
-Toutefois, les dispositions du présent arrêté applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2023.
+(Voir 3.9 de l'annexe I au présent arrêté).
+
+Les dispositions du présent appendice sont applicables aux opérations de transport de certains déchets classés marchandises dangereuses au sens du présent arrêté. Les autres dispositions du présent arrêté auxquelles les prescriptions suivantes ne dérogent pas restent applicables à ces opérations.
+
+1. Transport des déchets issus des déchèteries et classés en tant que marchandises dangereuses.
+
+1.1. Domaine d'application et définitions.
+
+Les dispositions suivantes sont applicables aux déchets dangereux, au sens de l'ADR, faisant l'objet d'une collecte auprès des déchetteries et à destination des sites de regroupement ou de prétraitement. Elles sont également applicables aux opérations de transit et de séjour temporaire au cours desquelles aucune opération d'emballage n'est réalisée.
+
+Les autres dispositions du présent arrêté auxquelles les prescriptions suivantes ne dérogent pas restent applicables.
+
+Dans les dispositions qui suivent, on entend par :
+
+Déchèterie : point d'apport volontaire consistant en une installation fixe ou mobile de collecte de déchets apportés par le producteur initial de ces déchets (particulier ou professionnel) et exploité par une collectivité territoriale. Cet apport résulte de l'impossibilité du producteur de se défaire de ces déchets, du fait de leur nature, de manière satisfaisante par la collecte normale des ordures ménagères.
+
+Déchet non identifié : matière liquide ou solide soupçonnée de relever des classes 3,4.1,6.1 ou 8 et ne pouvant faire l'objet d'une procédure de classification complète conformément aux dispositions du 2.1.3 de l'ADR.
+
+1.2. Déchets autorisés.
+
+1.2.1. Les seuls déchets pouvant bénéficier du régime défini aux 1.3 à 1.6 sont listés et classés par assimilation selon les tableaux qui suivent.
+
+1.2.2. Tableau général relatif au classement par assimilation des déchets identifiés autorisés :
+
+Type de déchet |
+
+Classement par assimilation
+
+(n° ONU, désignation officielle, groupe d'emballage) |
+
+|
+
+Numéro ONU |
+
+Désignation officielle |
+
+Groupe d'emballage |
+
+Liquides inflammables de la classe 3
+
+sans danger subsidiaire |
+
+1993 |
+
+Liquide inflammable n. s. a. |
+
+II |
+
+Solide inflammable de la classe 4.1
+
+sans danger subsidiaire |
+
+3175 |
+
+Solides contenant du liquide inflammable n. s. a. |
+
+II |
+
+Matières comburantes de la classe 5.1
+
+sans danger subsidiaire |
+
+1479 |
+
+Solide comburant n. s. a. |
+
+II |
+
+3139 |
+
+Liquide comburant n. s. a. |
+
+II |
+
+Matières toxiques de la classe 6.1
+
+sans danger subsidiaire |
+
+2811 |
+
+Solide organique toxique n. s. a. |
+
+II |
+
+2810 |
+
+Liquide organique toxique n. s. a. |
+
+II |
+
+Matières corrosives de la classe 8
+
+sans danger subsidiaire |
+
+3264 |
+
+Liquide inorganique corrosif, acide, n. s. a. |
+
+II |
+
+3260 |
+
+Solide inorganique corrosif, acide, n. s. a. |
+
+II |
+
+3266 |
+
+Liquide inorganique corrosif, basique, n. s. a. |
+
+II |
+
+3262 |
+
+Solide inorganique corrosif, basique, n. s. a. |
+
+II |
+
+Matières dangereuses du point de vue
+
+de l'environnement de la classe 9 |
+
+3077 |
+
+Matière dangereuse du point de vue de l'environnement, solide, n. s. a. |
+
+III |
+
+3082 |
+
+Matière dangereuse du point de vue de l'environnement, liquide, n. s. a. |
+
+III |
+
+Type de déchet |
+
+Matières ne pouvant pas bénéficier d'un classement par assimilation (1) |
+
+|
+
+Numéro ONU |
+
+Désignation officielle |
+
+Groupe d'emballage |
+
+Matières comburantes de la classe 5.1 |
+
+UN 1495 |
+
+Chlorate de sodium |
+
+II |
+
+UN 2067 |
+
+Engrais au nitrate d'ammonium |
+
+III |
+
+(1) Le CHLORATE DE SODIUM (UN 1495) et les ENGRAIS AU NITRATE D'AMMONIUM (UN 2067) ne peuvent bénéficier d'aucune assimilation et sont transportés sous leurs numéros ONU respectifs.
+
+1.2.3. Les déchets non identifiés répondant à la définition figurant au 1.1, collectés dans les déchèteries, sont affectés aux numéros ONU suivants correspondant à des entrées n. s. a. couvrant une combinaison de risques potentiels. L'attribution des numéros ONU est uniquement réalisée sur la base du caractère solide ou liquide des déchets collectés.
+
+Classe |
+
+Numéro ONU |
+
+Désignation officielle |
+
+Groupe
+
+d'emballage |
+
+3 |
+
+3286 |
+
+Liquide inflammable, toxique, corrosif, n. s. a. |
+
+II |
+
+6.1 |
+
+2930 |
+
+Solide organique, toxique, inflammable, n. s. a. |
+
+II |
+
+1.3. Conditionnement des emballages contenant des déchets relevant des 1.2.2 ou 1.2.3.
+
+Par dérogation aux dispositions du 4.1.3 de l'ADR, les emballages collectés auprès des déchèteries et contenant des matières reprises aux 1.2.2 et 1.2.3 sont soumis aux règles de conditionnement suivantes pour leur transport.
+
+1.3.1. Les emballages collectés contenant des déchets figurant au 1.2.2 sont conditionnés comme suit :
+
+-les emballages collectés d'une contenance de moins de 10 litres sont disposés en tant qu'emballages intérieurs dans des emballages de type 4H2V, 4H2, 1H2, 1H2V ou 1A2, satisfaisant aux prescriptions d'épreuves du groupe d'emballage I ;
+
+-les emballages collectés d'une contenance supérieure ou égale à 10 litres sont disposés :
+
+-soit dans des grands emballages de type 50 H, à parois pleines, satisfaisant au moins au niveau d'épreuve du groupe des matières classées par assimilation qui y sont contenues, permettant de retenir toute fuite de liquides et pourvus d'un dispositif de fermeture assurant le recouvrement complet de leur contenu. Afin de prévenir tout risque de souillure, un liner en matière plastique est disposé dans ces grands emballages ;
+
+-soit dans des GRV souples de type 13H3, satisfaisant au moins au niveau d'épreuve du groupe des matières classées par assimilation qui y sont contenues, fermés conformément aux instructions du fabricant. Les GRV sont assujettis dans des emballages extérieurs en plastique rigide à parois pleines, capables de retenir toute fuite de liquide.
+
+1.3.2. Les emballages collectés contenant des déchets non identifiés figurant dans le tableau du 1.2.3 sont conditionnés comme suit :
+
+-les emballages collectés d'une contenance de moins de 10 litres sont disposés en tant qu'emballages intérieurs dans des emballages de type 4H2V, 1H2, 1H2V ou 1A2 satisfaisant aux prescriptions d'épreuves du groupe d'emballage I et d'une capacité maximale de 70 litres ;
+
+-les emballages collectés d'une contenance supérieure ou égale à 10 litres sont disposés de manière individuelle en tant qu'emballages intérieurs dans des emballages de type 4H2V, 1H2, 1H2V ou 1A2 adaptés à leur taille et satisfaisant aux niveaux d'épreuve du groupe d'emballage I.
+
+1.3.3. Les emballages collectés contenant des déchets figurant dans les tableaux des 1.2.2 et 1.2.3 sont fermés et sont disposés en tant qu'emballages intérieurs dans les emballages extérieurs avec leur fermeture orientée vers le haut. Des dispositifs de calage sont disposés afin que les emballages collectés ne puissent se déplacer dans les emballages extérieurs au cours de leur transport et de leur manutention. Les emballages extérieurs contiennent suffisamment de matériaux absorbants pour absorber la totalité du contenu liquide présent. En outre, les emballages collectés ne doivent pas nécessairement satisfaire aux dispositions du 4.1.1.3.
+
+Les déchets relevant des numéros ONU 1495,1479,2067 et 3139 sont conditionnés individuellement et séparément de tout autre déchet.
+
+1.3.4. Les emballages en plastique collectés contenant les déchets mentionnés aux 1.2.2 ou 1.2.3 sont dispensés :
+
+-des dispositions figurant au 4.1.1.21 visant à vérifier leur compatibilité chimique avec les matières qui y sont contenues ;
+
+-des dispositions figurant au 4.1.1.15 relatives à leur durée d'utilisation.
+
+1.4. Marquage et étiquetage des colis.
+
+Les emballages extérieurs mentionnés aux 1.3.1 et 1.3.2 sont marqués et étiquetés conformément aux dispositions de l'ADR. Les dispositions complémentaires suivantes sont également applicables.
+
+1.4.1. Les emballages extérieurs contenant des déchets figurant dans les tableaux des 1.2.2 et 1.2.3, quel que soit le volume individuel des emballages collectés contenus, portent la marque prescrite au 5.2.1.8.3.
+
+1.4.2. Les emballages extérieurs contenant les déchets figurant dans le tableau du 1.2.3, outre les marques et étiquettes prescrites, revêtent une marque comportant la mention “ DÉCHETS NON IDENTIFIÉS ”. Les lettres de la marque “ DÉCHETS NON IDENTIFIÉS ” doivent mesurer au moins 12 mm de hauteur. Cette marque est apposée de façon claire et durable sur chaque emballage extérieur.
+
+1.5. Document de transport.
+
+Lorsque des déchets sont transportés conformément aux présentes dispositions, le document de transport prévu au 5.4.1 comporte la mention suivante : “ Déchets conformes au 1 de l'appendice IV. 11 de l'arrêté TMD ”. Dans ce cadre, le report de la mention prescrite au 5.4.1.1.3.2 n'est pas obligatoire.
+
+Les prescriptions de la disposition spéciale 274 du chapitre 3.3 ne sont pas applicables aux déchets mentionnés au 1.2.2.
+
+Lorsque des déchets non identifiés mentionnés au 1.2.3 sont transportés, la mention “ déchets non identifiés ” figure entre parenthèse après la désignation officielle de transport, en lieu et place des mentions prévues par la disposition spéciale 274 du chapitre 3.3.
+
+1.6. Procédure de tri et de conditionnement des déchets mentionnés au 1.2.
+
+Conformément aux exigences du 1.4.3.2, les déchèteries sont tenues de procéder aux opérations d'emballage des déchets visés par les présentes dispositions. A cet effet, elles mettent en place des procédures pour le tri et le conditionnement desdits déchets. Ces procédures documentées sont mises en œuvre sur le site.
+
+Elles permettent notamment de s'assurer de la mise en œuvre des dispositions des 4.1.1.6 et 4.1.10 et font l'objet d'un suivi par le conseiller à la sécurité pour le transport de marchandises dangereuses désigné par l'exploitant de la déchèterie.
+
+Ces procédures de tri et de conditionnement sont mises à jour de manière régulière, et sont tenues à disposition de l'autorité compétente.

@@ -48,7 +48,7 @@ Ces dispositions précisent les dispositions particulières applicables concerna
 
 - dispositions spéciales relatives à la classe 7 (paragraphe 3.8) ;
 
-- dispositions spéciales relatives aux transports de certains déchets contaminés par de l'amiante non lié (paragraphe 3.9) ;
+- dispositions spéciales relatives aux transports de certains déchets classés en tant que marchandises dangereuses (paragraphe 3.9) ;
 
 - dispositions spéciales relatives aux livraisons assurées par les entreprises mentionnées au 5° de l'article R. 5124-2 du code de la santé publique (paragraphe 3.10).
 
@@ -88,7 +88,7 @@ Pour les expéditions de colis, il appartient au responsable du chargement tel q
 
 - les interdictions de chargement en commun soient respectées (en fonction des marchandises à charger et, le cas échéant, des marchandises étant déjà à bord) ;
 
-- les colis chargés soient correctement calés et arrimés.
+- les colis chargés soient correctement calés et arrimés, soit sur le plancher du véhicule, soit dans des casiers fixés ou disposés dans le compartiment destiné au chargement et qu'aucune marchandise dangereuse ne se trouve dans un compartiment ou coffre destiné à du transport de matériel (outils, palettes …) autre que des marchandises..
 
 En cas de rupture de charge, les exigences ci-dessus s'appliquent au responsable du nouveau chargement.
 
@@ -210,6 +210,16 @@ Est autorisée, sous réserve de la décision préfectorale prévue au 2.2.1.4, 
 
 2.2.1.4. Des dérogations aux dispositions du 2.2.1 de la présente annexe I peuvent être accordées par décision du préfet. Par ailleurs, les interdictions prévues aux 2.2.1.2 et 2.2.1.3 ci-dessus ne s'appliquent pas aux dessertes de chantier sur la voie publique.
 
+2.2.1.5. Opérations de chargement et de déchargement de véhicules assurant le transport de matériels contenant certaines marchandises dangereuses et destinés aux opérations de maintenance et de réparation du réseau de distribution d'électricité.
+
+Les opérations de chargement et de déchargement de véhicules assurant le transport de matériels contenant certaines marchandises dangereuses sont autorisées dans le cadre d'opérations de maintenance et de réparation du réseau de distribution d'électricité, sous réserve que les dispositions suivantes soient respectées :
+
+-les seuls matériels autorisés portent des étiquettes ou des plaques-étiquettes des modèles 2.1,3 ou 9 et relèvent des nos ONU 3536,3529 ou 3528 ;
+
+-un protocole est mis en place visant à assurer la sécurité des matériels déchargés et ce durant toute la durée des opérations de maintenance ou de réparation du réseau de distribution d'électricité. Ce protocole comprend, le cas échéant, la mise en place d'un balisage de la zone d'intervention ainsi qu'une condamnation par clef des matériels déchargés ;
+
+-après leur déchargement et pendant toute la durée des opérations de maintenance ou de réparation, les matériels affectés au n° ONU 3529 sont entourés de barrières de type “ Heras ”.
+
 2.2.2. Conditions de vidange des citernes.
 
 Le moteur de propulsion du véhicule doit être arrêté lorsque la vidange des citernes est effectuée par gravité ou à l'aide d'un groupe motopompe indépendant du véhicule. Toutefois, l'utilisation du moteur de propulsion est autorisée pour la vidange des citernes basculantes.
@@ -227,6 +237,8 @@ Dans tous les cas, la citerne du véhicule et les flexibles doivent être effica
 2.3.1. Modalités de stationnement des véhicules en dehors des établissements de chargement, déchargement, remplissage ou vidange, et des parcs de stationnement intérieurs aux entreprises de transport.
 
 Sans préjudice des prescriptions des 8.4 et 8.5, les dispositions suivantes s'appliquent au stationnement des véhicules transportant des marchandises dangereuses.
+
+Ces dispositions ne sont cependant pas applicables aux véhicules transportant les matériels décrits au paragraphe 2.2.1.5, y compris aux remorques ou semi-remorques non attelées, stationnés dans le cadre d'opérations de maintenance ou de réparation du réseau de distribution d'électricité.
 
 2.3.1.1. Dispositions relatives aux unités de transport soumises à l'apposition d'une signalisation orange.
 
@@ -738,91 +750,17 @@ Lorsque la livraison de ces produits par véhicule-citerne n'est pas possible ou
 
 Les livraisons de carburants destinés aux moteurs à combustion sont autorisées sous réserve d'appliquer les dispositions de sécurité complémentaires définies à l'appendice IV. 10 du présent arrêté. Les autres dispositions pertinentes du présent arrêté restent applicables.
 
-3.8. Dispositions spéciales relatives à la classe 7 concernant la signalisation orange.
+3.8. Dispositions spéciales relatives à la classe 7 concernant la signalisation orange et le placardage.
 
-Dans le cas du transport des marchandises dangereuses correspondant à un seul numéro ONU et qui ne sont pas destinés à être transportés sous utilisation exclusive, il est permis d'indiquer, sur les panneaux de couleur orange situés à l'avant et à l'arrière de l'unité de transport et prescrits au 5.3.2.1.1, le numéro d'identification de danger et le numéro ONU prescrits respectivement dans les colonnes (20) et (1) du tableau A du chapitre 3.2 pour ces marchandises (ou seulement le numéro ONU lorsque des panneaux de couleur orange de dimensions réduites sont utilisés conformément au 5.3.2.2.1), sous réserve de respecter les spécifications du 5.3.2.2.
+3.8.1. Dans le cas du transport des marchandises dangereuses correspondant à un seul numéro ONU et qui ne sont pas destinés à être transportés sous utilisation exclusive, il est permis d'indiquer, sur les panneaux de couleur orange situés à l'avant et à l'arrière de l'unité de transport et prescrits au 5.3.2.1.1, le numéro d'identification de danger et le numéro ONU prescrits respectivement dans les colonnes (20) et (1) du tableau A du chapitre 3.2 pour ces marchandises (ou seulement le numéro ONU lorsque des panneaux de couleur orange de dimensions réduites sont utilisés conformément au 5.3.2.2.1), sous réserve de respecter les spécifications du 5.3.2.2.
 
-3.9. Dispositions spéciales relatives au transport de déchets issus de chantiers routiers ou de de chantiers de démolition ou de réhabilitation d'immeubles sinistrés, contaminés par l'amiante non lié des n° ONU 2212 ou 2590
+3.8.2. Dans le cas du transport de colis de matières radioactives, avec ou sans danger subsidiaire, sur un conteneur de type plateforme (conteneur n'ayant aucune superstructure ou équipé uniquement de parois d'extrémités) répondant à la définition de conteneur du 1.2.1 de l'ADR et ne disposant pas de la place nécessaire à l'opposition des plaques-étiquettes prescrites aux 5.3.1.7.1 et 5.3.1.7.2, il est autorisé d'utiliser des plaques-étiquettes de danger principal et de danger subsidiaire aux dimensions réduites selon le 5.3.1.7.4 de l'ADR.
 
-Par dérogation aux dispositions du chapitre 7.3 et de la colonne (17) du Tableau A du chapitre 3.2 de l'ADR et sous réserve de respecter les prescriptions suivantes, le transport en vrac de déchets ou objets visés au 3.9.1 ci-dessous est autorisé dans des véhicules découverts, depuis le chantier de travaux routiers ou le chantier de démolition ou de réhabilitation d'ouvrages ou d'immeubles sinistrés où ces déchets sont générés vers un centre agréé de stockage de déchets. Les dispositions des codes VC1 à VC3 du 7.3.3 de l'ADR ne sont pas applicables.
+3.9. Dispositions relatives au transport de certains déchets classés en tant que marchandises dangereuses.
 
-3.9.1. Déchets admissibles
+Les conditions de transport des déchets suivants sont définies à l'appendice IV. 11 du présent arrêté :
 
-Sont admissibles exclusivement :
-
-- les déchets solides issus de chantiers routiers, tels que fraisats d'enrobés, etc., contaminés par l'amiante non lié ;
-
-ou
-
-- les déchets solides contaminés par l'amiante non lié issus de chantiers de démolition ou de réhabilitation d'ouvrages ou d'immeubles après sinistre. Ces déchets comprennent :
-
-- des terres contaminées par l'amiante non lié après sinistre, ou
-
-- des déchets de chantiers ou des objets contaminés par l'amiante non lié provenant d'ouvrages ou d'immeubles sinistrés, si leurs dimensions ou leur masse les rendent compatibles avec les prescriptions du 3.9.2 ci dessous.
-
-Les dispositions relatives au transport visées au 3.9.2 ci-dessous ne sont utilisées que si les déchets de chantiers ou les objets contaminés par l'amiante non lié visés ci-dessus ne peuvent, du fait de leurs dimensions, être emballés conformément aux instructions d'emballage P002 du 4.1.4.1 ou IBC08 du 4.1.4.2.
-
-Il est interdit de mélanger aux déchets visés par les présentes dispositions des déchets (par exemple déchets de flocage contenant de l'amiante non lié) ou des objets (par exemple équipements de protection individuelle contaminés par l'amiante non lié) qui, du fait de leurs dimensions, peuvent être emballés conformément aux instructions d'emballage P002 du 4.1.4.1 ou IBC08 du 4.1.4.2.
-
-Il est interdit de mélanger aux déchets visés par les présentes dispositions d'autres déchets, solides ou non, dangereux ou non, non contaminés par de l'amiante non lié.
-
-3.9.2. Dispositions relatives au transport
-
-Les déchets visés au 3.9.1 ci-dessus sont transportés dans des grands sacs dits “ conteneurs-bags ”, aux dimensions d'une benne, conformes aux dispositions des 7.3.1.3,7.3.1.4,7.3.1.7 et 7.3.1.8 de l'ADR. Il est interdit d'utiliser plusieurs conteneurs-bags de dimensions plus réduites dans une même benne pour le transport des déchets visés au 3.9.1.
-
-Les conteneurs-bags visés plus haut sont constitués au minimum de deux enveloppes, solidaires ou non. L'enveloppe intérieure est rendue étanche aux poussières afin d'empêcher la libération de fibres d'amiante en quantité dangereuse pendant le transport. L'enveloppe extérieure assure une fonction de résistance mécanique du conteneur-bag chargé avec les déchets, face aux chocs et aux sollicitations habituelles en cours de transport, notamment lors du transbordement de la benne chargée de son conteneur bag entre engins de transports ou entre engins de transport et entrepôts.
-
-Les conteneurs-bags résistent également au poinçonnement ou à la déchirure que les déchets ou objets contaminés visés au 3.9.1 qui y sont emballés sont susceptibles de provoquer du fait de leurs angles ou aspérités.
-
-Les conteneurs-bags disposent d'un système de fermeture suffisamment étanche pour éviter l'envol de fibres d'amiante en quantité dangereuse pendant le transport.
-
-La masse maximale de déchets indiquée par le fabricant du conteneur-bag pour la résistance de ce dernier est respectée.
-
-Les déchets issus de chantiers routiers contaminés par l'amiante non lié ou les terres contaminées par l'amiante non lié sont transportés dans un conteneur-bag unique, à condition de respecter la masse maximale admissible de déchets définie plus haut.
-
-Les déchets ou objets contaminés par l'amiante non lié, issus de chantiers de réhabilitation ou de démolition d'ouvrages ou d'immeubles sinistrés sont transportés dans un conteneur-bag doublé d'un second du même type. La masse totale de déchets est limitée à 7 tonnes maximum.
-
-3.9.3. Chargement-déchargement
-
-Les engins de transport sont équipés de bennes amovibles de type “ ampli roll ” ou de bennes “ TP ”. Les bennes équipées de systèmes de fermeture automatique des portes arrières ainsi que les bennes à enrochement sont prohibées. Les bennes ne comportent aucune aspérité intérieure (échelle intérieure …) susceptible de déchirer le conteneur-bag lors du déchargement.
-
-Lors d'un transbordement, toute manoeuvre visant à transférer un conteneur-bag chargé de déchets d'une benne dans une autre est interdite.
-
-La procédure de chargement et de déchargement des conteneurs-bags répond aux prescriptions relatives à la protection des travailleurs contre le risque d'exposition à l'amiante prévues par les articles R. 4412-94 et suivants du code du travail.
-
-Le déchargement des conteneurs-bags s'effectue de préférence avec la benne de transport déposée à terre.
-
-Le déchargement par bennage de conteneurs-bag chargés de déchets de chantier ou d'objets contaminés par l'amiante non lié issus d'ouvrages ou d'immeubles sinistrés est interdit.
-
-Le bennage de conteneurs-bags chargés de déchets issus de chantiers routiers contaminés par l'amiante non lié ou de terres contaminées par l'amiante non lié est autorisé, à condition de respecter un protocole de déchargement établi conjointement par l'entreprise de transport et l'exploitant du centre de stockage agréé, visant à se prémunir de tout déchirement du conteneur-bag lors du déchargement.
-
-3.9.4. Prescriptions complémentaires
-
-Chaque transport fait l'objet d'un “ chargement complet ” au sens du 1.2.1.
-
-Le document de transport visé au 5.4.1 comprend, outre la désignation officielle de transport pour l'amiante, les mentions suivantes :
-
--“ Déchets de chantiers routiers contaminés à l'amiante non lié ” ou “ Déchets de chantier de réhabilitation après sinistre contaminés à l'amiante non lié ” ou “ Déchets de chantier de démolition après sinistre contaminés à l'amiante non lié ” selon le cas,
-
--“ Transport effectué selon les dispositions du 3.9 de l'annexe I de l'arrêté TMD ”,
-
-- Adresse de départ (adresse du chantier de travaux publics ou de démolition ou de réhabilitation d'ouvrages ou d'immeubles sinistrés) et adresse d'arrivée (adresse du centre agréé de stockage de déchets) du transport.
-
-S'il est utilisé en lieu et place du document de transport visé ci-dessus, le bordereau d'élimination des déchets comprendra, outre la désignation officielle de transport pour l'amiante non lié, la mention “ Déchet contenant de l'amiante non lié, transport selon le 3.9 de l'annexe I de l'arrêté TMD ”.
-
-Le document de transport ou le bordereau d'élimination des déchets susvisé est en outre accompagné des documents suivants :
-
-- copie de la fiche technique du type de conteneur-bag utilisé, à en-tête du fabricant ou du distributeur des conteneurs-bags, mentionnant les dimensions de cet emballage ainsi que la masse maximale de déchets à laquelle il résiste ;
-
-- copie du certificat d'acceptation préalable des déchets visé à l'article 8 de l'arrêté du 30 décembre 2002 relatif au stockage de déchets dangereux, émis par le centre agréé de stockage de déchets destinataire du transport. Ce certificat d'acceptation préalable mentionne explicitement l'adresse du chantier de travaux publics routiers ou de démolition ou de réhabilitation d'ouvrages ou d'immeubles sinistrés d'où les déchets transportés sont issus ainsi que le conditionnement utilisé (simple ou double conteneur-bag) prévu par les dispositions visées au 3.9.2 ci-dessus ;
-
-- copie le cas échéant de la procédure de déchargement visée au 3.9.3 ci-dessus selon le cas.
-
-Les conteneurs-bags sont dispensés du marquage et de l'étiquetage visés au chapitre 5.2 de l'ADR. Un ou plusieurs marquages conformes à l'annexe I du décret n° 88-466 du 28 avril 1988 relatif aux produits contenant de l'amiante apparaissent de manière visible sur les conteneurs-bags.
-
-Le véhicule de transport respecte les prescriptions de placardage des 5.3.1.1 et 5.3.1.4 et de signalisation du 5.3.2 applicables au transport en vrac.
-
-Les autres prescriptions de l'ADR applicables au transport d'amiante non lié sont respectées.
+-déchets issus des déchèteries et classés en tant que marchandises dangereuses.
 
 3.10. Livraisons assurées par les entreprises mentionnées au 5° de l'article R. 5124-2 du code de la santé publique.
 
@@ -1159,9 +1097,3 @@ Lorsqu'une ou plusieurs infractions ont été constatées en matière de transpo
 sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et des mobilités.
 
 Pour chaque année calendaire et au plus tard douze mois après l'écoulement de celle-ci, un rapport conformément au modèle figurant en appendice IV. 3 du présent arrêté est transmis à la Commission européenne.
-
-NOTA :
-
-Conformément à l’article 20 de l’arrêté du 19 décembre 2022 (NOR : TREP2235813A), ces dispositions entrent en vigueur le 1er janvier 2023.
-
-Toutefois, les dispositions du présent arrêté applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2023.
