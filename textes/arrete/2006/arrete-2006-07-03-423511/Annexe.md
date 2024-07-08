@@ -226,7 +226,7 @@ DOLLAR US
 
 |
 
-207
+450
 
 |
 
@@ -310,7 +310,7 @@ DOLLAR DES BERMUDES
 
 |
 
-194
+450
 
 |
 
@@ -440,7 +440,7 @@ DOLLAR US
 
 |
 
-141
+450
 
 |
 
@@ -464,11 +464,23 @@ EURO
 
 |
 
-120
+161
 
 |
 
-CANADA
+CANADA ville de TORONTO |
+
+DOLLAR CANADIEN |
+
+552 |
+
+CANADA ville de VANCOUVER |
+
+DOLLAR CANADIEN |
+
+449 |
+
+CANADA AUTRES VILLES
 
 |
 
@@ -476,7 +488,7 @@ DOLLAR CANADIEN
 
 |
 
-260
+319
 
 |
 
@@ -500,7 +512,7 @@ FRANC CFA
 
 |
 
-80 000
+96 000
 
 |
 
@@ -584,9 +596,7 @@ EURO
 
 |
 
-195
-
-|
+240 |
 
 COOK (îles)
 
@@ -804,7 +814,7 @@ EURO
 
 |
 
-ETATS-UNIS D'AMERIQUE
+ETATS-UNIS D'AMERIQUE (HORS ville de NEW YORK
 
 |
 
@@ -812,7 +822,7 @@ DOLLAR US
 
 |
 
-320
+360
 
 |
 
@@ -832,9 +842,7 @@ DOLLAR US
 
 |
 
-320
-
-|
+360 |
 
 - période allant du 1er septembre au 31 décembre
 
@@ -844,7 +852,7 @@ DOLLAR US
 
 |
 
-450
+490
 
 |
 
@@ -1000,7 +1008,7 @@ EURO
 
 |
 
-105
+169
 
 |
 
@@ -1226,7 +1234,7 @@ EURO
 
 |
 
-140
+188
 
 |
 
@@ -1522,7 +1530,7 @@ ROUPIE ILE MAURICE
 
 |
 
-7 000
+9 450
 
 |
 
@@ -1542,11 +1550,11 @@ MEXIQUE
 
 |
 
-EURO
+PESO MEXICAIN
 
 |
 
-150
+3 800
 
 |
 
@@ -2284,7 +2292,7 @@ EURO
 
 |
 
-TOGO
+TOGO ville de LOMÉ
 
 |
 
@@ -2292,9 +2300,15 @@ FRANC CFA
 
 |
 
-82 640
+95 771
 
 |
+
+TOGO AUTRES VILLES |
+
+FRANC CFA |
+
+82 640 |
 
 TONGA
 
@@ -2340,7 +2354,7 @@ EURO
 
 |
 
-102
+224
 
 |
 
