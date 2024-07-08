@@ -2,6 +2,42 @@
 
 Le présent arrêté et ses annexes seront consultables au Bulletin officiel de l'éducation nationale sur le site http://www.education.gouv.fr.
 
+Arrêté du 17 avril 2024 (NOR : MENE2412777A)
+
+Conformément à l'article 1er de l'arrêté du 17 avril 2024 (NOR : MENE2412777A), la présente annexe est ainsi modifiée :
+
+" Le mot : " chef-d'œuvre " est remplacé, à chaque occurrence, par le mot : " projet "."
+
+Conformément à l'article 2 de l'arrêté du 17 avril 2024 (NOR : MENE2412777A), la présente annexe est ainsi modifiée :
+
+" Dans la partie relative aux enseignements en classe de terminale professionnelle :
+
+1° Dans le tableau relatif aux enseignements pluridisciplinaires, les mots : " enseignements pluridisciplinaires " sont remplacés par les mots : " enseignements de projets " ;
+
+2° Dans le même tableau, la phrase suivante : " Evaluation chiffrée unique en fin d'année scolaire, intégrant les enseignements généraux et professionnels mobilisés dans le cadre de la réalisation du chef-d'œuvre " est remplacée par la phrase suivante : " Evaluation chiffrée unique en fin d'année scolaire, intégrant les enseignements professionnels, et le cas échéant, les enseignements généraux, mobilisés dans le cadre de la réalisation du projet ". "
+
+Conformément à l'article 3 de l'arrêté du 17 avril 2024 (NOR : MENE2412777A), la présente annexe est ainsi modifiée :
+
+" Dans la partie relative aux enseignements en classe de terminale professionnelle :
+
+1° Dans le tableau relatif aux enseignements pluridisciplinaires, les mots : " enseignements pluridisciplinaires " sont remplacés par les mots : " enseignements de projets " ;
+
+2° Dans le même tableau, la phrase suivante : " Evaluation chiffrée unique en fin d'année scolaire, intégrant les enseignements généraux et professionnels mobilisés dans le cadre de la réalisation du chef-d'œuvre " est remplacée par la phrase suivante : " Evaluation chiffrée unique en fin d'année scolaire, intégrant les enseignements professionnels, et le cas échéant, les enseignements généraux, mobilisés dans le cadre de la réalisation du projet ". "
+
+Conformément à l'article 4 de l'arrêté du 17 avril 2024 (NOR : MENE2412777A), la présente annexe est ainsi modifiée :
+
+" Dans la partie relative aux périodes de formation en milieu professionnel (PFMP)-classe de Terminale :
+
+Après la phrase : " Nombre de semaines de PFMP réalisé sur l'ensemble du cycle ", les mots : " obligatoire pour l'examen " sont ajoutés. "
+
+Conformément à l'article 5 de l'arrêté du 17 avril 2024 (NOR : MENE2412777A), la présente annexe est ainsi modifiée :
+
+" Dans la partie relative aux informations relatives au parcours et aux apprentissages de l'élève, après la rubrique " CLASSE DE TERMINALE PROFESSIONNELLE ", une rubrique " PARCOURS DIFFÉRENCIÉ DE FIN DE TERMINALE " est créée.
+
+Elle comprend deux cases, dont l'une sera à cocher, la première s'intitule " Parcours de préparation à la poursuite d'études ", l'autre s'intitule " Parcours de préparation à l'insertion professionnelle ".
+
+A la suite, des observations pourront éventuellement être apportées par l'équipe pédagogique valorisant les éléments positifs en faveur de l'élève. "
+
 Arrêté du 1er juin 2021 (NOR : MENE2116917A)
 
 Le modèle de livret scolaire pour l'examen du baccalauréat professionnel publié en annexe 1 de l'arrêté du 17 juin 2020 modifiant l'arrêté du 4 mars 2020 susvisé est modifié comme suit :

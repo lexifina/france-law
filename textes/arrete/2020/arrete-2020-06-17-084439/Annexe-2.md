@@ -2,6 +2,24 @@
 
 Le présent arrêté et ses annexes seront consultables au Bulletin officiel de l'éducation nationale en date du 9 juillet 2020 sur le site http://www.education.gouv.fr
 
+Conformément à l'article 6 de l'arrêté du 17 avril 2024 (NOR : MENE2412777A), la présente annexe est ainsi modifiée :
+
+" Les sept nouveaux baccalauréats professionnels mis en œuvre en classe de première pour la rentrée scolaire 2024 et en classe de terminale pour la rentrée scolaire 2025 ainsi que les compétences à évaluer figurant en annexe du présent arrêté sont ajoutées à l'annexe 2 de l'arrêté du 17 juin 2020 susvisé :
+
+-carrossier peintre automobile ;
+
+-cybersécurité, informatique et réseaux, électronique ;
+
+-maintenance nautique ;
+
+-optique photonique : technologies de la lumière ;
+
+-production en industries pharmaceutiques, alimentaires et cosmétiques ;
+
+-transports par câbles et remontées mécaniques ;
+
+-travaux publics. "
+
 Conformément à l'arrêté du 1er juin 2021 (NOR : MENE2116917A), les compétences à évaluer figurant en annexe 2 dudit arrêté, pour chacun des baccalauréats suivants, sont ajoutées, pour chacun de ces diplômes, à l'annexe 2 du présente arrêté :
 
 - ANIMATION - ENFANCE ET PERSONNES ÂGÉES ;
