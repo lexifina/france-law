@@ -62,7 +62,7 @@ Relèvent de l'exonération du ticket modérateur :
 
 Les atteintes pariétales (lésions ulcéro-végétantes, anévrismes ou dissections) de l'aorte thoracique ou abdominale objectivement documentées, sont également exonérées au titre de cette affection.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable par période de dix ans.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 4. Critères médicaux utilisés pour la définition de l'affection de longue durée bilharziose compliquée
 
@@ -404,7 +404,7 @@ L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 Sont concernées les formes de syndrome néphrotique primitif ou idiopathique (le syndrome néphrotique est défini par l'association d'une protéinurie abondante ¹ 3 g/ j chez l'adulte ou ¹ 50 mg/ kg/ jr chez l'enfant et d'une hypoalbuminémie ¸ 30 g/ l) nécessitant une surveillance médicale, des examens biologiques de contrôle et un traitement médicamenteux au long cours.
 
-L'exonération initiale est accordée pour une durée de trois ans, renouvelable.
+L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
 
 Toute récidive ou apparition d'une séquelle tardive grave dont le lien de causalité avec le traitement est établi conduit à la reprise de l'exonération du ticket modérateur.
 
@@ -522,13 +522,13 @@ Relèvent de l'exonération du ticket modérateur les affections dont l'ancienne
 
 Les affections relevant de l'exonération du ticket modérateur sont celles ayant des conséquences fonctionnelles majeures et en relation directe avec cette affection. Il s'agit de décrire le handicap créé par l'affection dans la vie quotidienne du patient puisque, en psychiatrie, la sévérité du diagnostic n'est pas toujours corrélée à la sévérité du handicap qui en découle.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable pour les a, b et d et pour une durée de dix ans renouvelable pour le c.
+L'exonération initiale est accordée pour une durée de cinq ans, renouvelable pour les b et d et pour une durée de dix ans renouvelables pour les a et c.
 
 24. Critères médicaux utilisés pour la définition de l'affection de longue durée rectocolite hémorragique et maladie de Crohn évolutives
 
 Relève de l'exonération du ticket modérateur toute maladie inflammatoire chronique intestinale (MICI) dont le diagnostic est établi sur un ensemble de données cliniques, morphologiques et histologiques.
 
-L'exonération initiale est accordée pour une durée de trois ans, renouvelable.
+L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
 
 Toutefois le renouvellement n'est pas accordé pour :
 
