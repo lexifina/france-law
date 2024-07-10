@@ -1,0 +1,491 @@
+# Article ANNEXE 3
+
+ANNEXE 3
+
+GARANTIES POUR LES AGENTS AFFECTÉS À L'ÉTRANGER - PANIER DE SOINS DU MEAE
+
+Les garanties sont plafonnées à 300 000 € par an et par bénéficiaire pour les soins courants (honoraires médicaux et paramédicaux, imagerie et biologie médicale) et à 200 000 € pour les autres soins, actes, services et produits.
+
+Poste de soins |
+
+Soins réalisés à l'étranger |
+
+Catégorie Hospitalisation et Soins courants |
+
+|
+
+Hospitalisation |
+
+|
+
+Honoraires |
+
+|
+
+Praticien OPTAM/OPTAM-CO |
+
+90 % FR |
+
+Praticien non OPTAM/OPTAM-CO |
+
+90 % FR |
+
+Forfaits et frais de séjours |
+
+|
+
+Forfait journalier hospitalier |
+
+90 % FR |
+
+Forfait actes lourds (participation forfaitaire de 24 €) |
+
+- |
+
+Frais de séjour |
+
+- |
+
+Chambre particulière (sans limitation de durée) |
+
+|
+
+Court séjour et maternité |
+
+68 € / nuit |
+
+Soins de suite |
+
+68 € / nuit |
+
+Psychiatrie |
+
+68 € / nuit |
+
+Ambulatoire |
+
+25 € / jour |
+
+Frais d'accompagnant |
+
+|
+
+Etablissement conventionné |
+
+38,50 € / nuit |
+
+Etablissement non conventionné |
+
+38,50 € / nuit |
+
+Soins courants |
+
+|
+
+Honoraires médicaux |
+
+|
+
+Consultations / Visites de médecins généralistes |
+
+|
+
+Praticien OPTAM/OPTAM-CO |
+
+90% FR |
+
+Praticien non OPTAM/OPTAM-CO |
+
+90% FR |
+
+Consultations / Visites de médecins spécialistes |
+
+|
+
+Praticien OPTAM/OPTAM-CO |
+
+90% FR |
+
+Praticien non OPTAM/OPTAM-CO |
+
+90% FR |
+
+Actes techniques médicaux |
+
+|
+
+Praticien OPTAM/OPTAM-CO |
+
+90% FR |
+
+Praticien non OPTAM/OPTAM-CO |
+
+90% FR |
+
+Actes d'imagerie médicale |
+
+|
+
+Praticien OPTAM/OPTAM-CO |
+
+90% FR |
+
+Praticien non OPTAM/OPTAM-CO |
+
+90% FR |
+
+Mammographie praticien OPTAM/OPTAM-CO |
+
+90% FR |
+
+Mammographie praticien non OPTAM/OPTAM-CO |
+
+90% FR |
+
+Honoraires paramédicaux |
+
+|
+
+Infirmiers, pédicures, podologues, orthophonistes, orthoptistes |
+
+90% FR |
+
+Masseurs-kinésithérapeutes |
+
+90% FR |
+
+Analyses et examens de laboratoire |
+
+|
+
+Analyses et examens de laboratoire |
+
+- |
+
+Analyses et examens de laboratoire en affection de longue durée |
+
+100% FR |
+
+Médicaments |
+
+|
+
+Médicaments remboursés par la Sécurité sociale à 65 % |
+
+90% FR |
+
+Médicaments remboursés par la Sécurité sociale à 30 % |
+
+90% FR |
+
+Médicaments remboursés par la Sécurité sociale à 15% |
+
+90% FR |
+
+Pharmacie prescrite non remboursée par la Sécurité sociale (homéopathie, contraceptifs, tests de grossesse) |
+
+100 € / an |
+
+Matériel médical |
+
+|
+
+Appareillage et prothèses médicales (hors aides auditives et optique) : semelles orthopédiques et autres prothèses acceptées par le RO |
+
+150 % BRR |
+
+Frais de transport en véhicule sanitaire |
+
+|
+
+Ambulance, taxi conventionné (hors SMUR) |
+
+90% FR |
+
+Catégorie Dentaire |
+
+|
+
+Dentaire |
+
+|
+
+Soins et prothèses 100% Santé |
+
+- |
+
+Soins (hors 100% Santé) |
+
+90% FR |
+
+Consultations, soins courants, radiologie, chirurgie, parodontologie (acceptée SS) |
+
+- |
+
+Prothèses (hors 100% Santé) |
+
+|
+
+Panier Maitrisé |
+
+|
+
+Prothèses fixes (couronnes et bridges) |
+
+320% BRR |
+
+Prothèses amovibles |
+
+320% BRR |
+
+Prothèses provisoires |
+
+320% BRR |
+
+Inlay Core |
+
+320% BRR |
+
+Inlays onlays d'obturation |
+
+140% BRR |
+
+Panier Libre |
+
+|
+
+Prothèses fixes (couronnes et bridges) sur dent visible |
+
+320% BRR |
+
+Prothèses fixes (couronnes et bridges) sur dent non visible |
+
+320% BRR |
+
+Prothèses amovibles sur dent visible |
+
+320% BRR |
+
+Prothèses amovibles sur dent non visible |
+
+320% BRR |
+
+Prothèses provisoires |
+
+320% BRR |
+
+Inlay Core |
+
+140% BRR |
+
+Implantologie |
+
+|
+
+Couronne sur implant |
+
+200 € / couronne (max. 2/an) |
+
+Implants |
+
+500 € / implant (max. 2/an) |
+
+Prothèses dentaires non prises en charge |
+
+225% BRR |
+
+Orthodontie |
+
+|
+
+Orthodontie (remboursée par la Sécurité sociale) |
+
+255% BRR |
+
+Orthodontie (non remboursée par la Sécurité sociale) |
+
+225% BRR |
+
+Catégorie Aides auditives |
+
+|
+
+Aides auditives |
+
+|
+
+Equipements 100% Santé |
+
+- |
+
+Equipements à tarif libre pour un bénéficiaire (< ou > 20 ans) |
+
+1.200 € |
+
+Catégorie Optique |
+
+|
+
+Optique |
+
+|
+
+Equipements 100% Santé |
+
+- |
+
+Equipements à tarif libre |
+
+|
+
+Monture |
+
+100 € |
+
+Verres |
+
+- |
+
+Autres prestations optique |
+
+|
+
+Lentilles prescrites prises ou non prises en charge, y compris lentilles jetables |
+
+130 € / an |
+
+Chirurgie réfractive dont kératotomie (par œil) |
+
+400 € / an |
+
+Grille optique |
+
+|
+
+Verre unifocal, sphérique |
+
+|
+
+Sphère de - 6 à + 6 |
+
+125 € |
+
+Sphère < 6 ou Sphère > 6 |
+
+300 € |
+
+Verre unifocal, sphéro-cylindrique |
+
+|
+
+Cylindre ≤ + 4, sphère de - 6 à 0 |
+
+125 € |
+
+Sphère > 0 et (sphère + cylindre) ≤ + 6 |
+
+125 € |
+
+Sphère > 0 et (sphère + cylindre) > + 6 |
+
+300 € |
+
+Cylindre ≥ + 0,25, sphère < - 6 |
+
+300 € |
+
+Cylindre > + 4, sphère de - 6 à 0 |
+
+300 € |
+
+Verre multifocal ou progressif sphérique |
+
+|
+
+Sphère de - 4 à + 4 |
+
+300 € |
+
+Sphère < - 4 ou > + 4 |
+
+350 € |
+
+Verre multifocal ou progressif sphéro-cylindrique |
+
+|
+
+Cylindre ≤ + 4, sphère de - 8 à 0 |
+
+300 € |
+
+Sphère > 0 et (sphère + cylindre) ≤ + 8 |
+
+300 € |
+
+Cylindre > + 4, sphère de - 8 à 0 |
+
+350 € |
+
+Sphère > 0 et (sphère + cylindre) > + 8 |
+
+350 € |
+
+Cylindre ≥ + 0,25, sphère < - 8 |
+
+350 € |
+
+Catégorie Autres postes |
+
+|
+
+Autres postes |
+
+|
+
+Cures thermales acceptées par la Sécurité sociale : honoraires, traitements, frais d'hébergement et transport |
+
+100% BRR |
+
+Médecines additionnelles et de prévention |
+
+|
+
+Médecine douce : ostéopathe, chiropracteur, homéopathe, étiopathe, pédicure-podologue, acupuncteur, psychomotricien, sophrologue |
+
+2 séances / an (limite 30 € / séance) |
+
+Psychologue |
+
+8 séances / an (limite 40 € / séance) |
+
+Actes refusés par la Sécurité sociale |
+
+|
+
+Vaccins, consultation diététique, bilan parodontal, ostéodensitométrie osseuse, sevrage tabagique |
+
+80 € / an |
+
+Contraception, tests de grossesse |
+
+80 € / an |
+
+Prévention |
+
+|
+
+Amniocentèse, Dépistage Prénatal Non invasif |
+
+183 € / acte |
+
+Tout acte de prévention remboursé par la Sécurité sociale |
+
+100 % BRR |
+
+Services spécifiques |
+
+|
+
+Rapatriement sanitaire |
+
+100% FR |
