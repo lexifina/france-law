@@ -82,23 +82,23 @@ Réglementation de l'activité :
 
 Ce métier est très encadré sur le plan réglementaire. Le conducteur doit justifier :
 
-- de l'âge requis pour accéder à la profession (vingt et un ans) ;
+-de l'âge requis pour accéder à la profession (vingt et un ans) ;
 
-- de la détention de la catégorie D du permis de conduire valide (visite médicale) correspondant à la conduite des véhicules de transport en commun ;
+-de la détention de la catégorie D du permis de conduire valide (visite médicale) correspondant à la conduite des véhicules de transport en commun ;
 
-- de la détention de la carte de qualification de conducteur (cf. décret n° 1340-2007 du 11 septembre 2007, modifié par le décret n° 2010-931 du 24 août 2010) ;
+-de la détention de la carte de qualification de conducteur (cf. décret n° 1340-2007 du 11 septembre 2007, modifié par le décret n° 2010-931 du 24 août 2010) ;
 
-- éventuellement, de la détention d'une carte individuelle de conducteur pour l'utilisation d'un chronotachygraphe numérique, lorsque le véhicule en est équipé.
+-éventuellement, de la détention d'une carte individuelle de conducteur pour l'utilisation d'un chronotachygraphe numérique, lorsque le véhicule en est équipé.
 
 Le candidat se présentant par la voie de la validation des acquis de l'expérience (VAE) à une session de validation conduisant au titre professionnel de conducteur (trice) de transport urbain de voyageurs doit, lors de son inscription, satisfaire aux conditions énoncées ci-dessous :
 
 a) Etre détenteur des documents suivants :
 
-- la catégorie D du permis de conduire défini à l'article 6 du décret n° 2011-1475 du 9 novembre 2011 modifié par le décret n° 2013-58 du 17 janvier 2013 (permis requis pour la conduite de véhicules automobiles conçus et construits pour le transport de personnes comportant plus de huit places assises outre le siège du conducteur ou transportant plus de huit personnes, non compris le conducteur, et pouvant être attelés à une remorque dont le poids total autorisé en charge, PTAC, n'excède pas 750 kg) en cours de validité. La validité du permis est soumise notamment aux résultats de contrôles médicaux périodiques ;
+-la catégorie D du permis de conduire défini à l'article 6 du décret n° 2011-1475 du 9 novembre 2011 modifié par le décret n° 2013-58 du 17 janvier 2013 (permis requis pour la conduite de véhicules automobiles conçus et construits pour le transport de personnes comportant plus de huit places assises outre le siège du conducteur ou transportant plus de huit personnes, non compris le conducteur, et pouvant être attelés à une remorque dont le poids total autorisé en charge, PTAC, n'excède pas 750 kg) en cours de validité. La validité du permis est soumise notamment aux résultats de contrôles médicaux périodiques ;
 
-- une carte de qualification de conducteur réglementairement définie par l'arrêté du 31 décembre 2010 fixant les conditions de délivrance de la carte de qualification ou d'une attestation de formation initiale minimale obligatoire (FIMO) ou valant FIMO telle qu'une attestation d'exercice, de reprise du métier, une dispense d'obligation de FIMO, une attestation d'exercice d'une activité de conduite à titre professionnel, complétée éventuellement d'une attestation de formation continue obligatoire du transport routier de voyageurs ;
+-une carte de qualification de conducteur réglementairement définie par l'arrêté du 31 décembre 2010 fixant les conditions de délivrance de la carte de qualification ou d'une attestation de formation initiale minimale obligatoire (FIMO) ou valant FIMO telle qu'une attestation d'exercice, de reprise du métier, une dispense d'obligation de FIMO, une attestation d'exercice d'une activité de conduite à titre professionnel, complétée éventuellement d'une attestation de formation continue obligatoire du transport routier de voyageurs ;
 
-- un certificat de sauveteur secouriste du travail (SST) ou l'unité d'enseignement "prévention et secours civiques de niveau 1" (PSC1) ;
+-un certificat de sauveteur secouriste du travail (SST) ou l'unité d'enseignement " premiers secours citoyen " (PSC) ;
 
 b) Avoir l'âge requis pour accéder à la profession (vingt et un ans).
 

@@ -1,6 +1,6 @@
 # Article Annexe II
 
-Référentiel pédagogique S.S.I.A.P. 1
+Référentiel pédagogique S. S. I. A. P. 1
 
 Public
 
@@ -26,9 +26,9 @@ Pré requis
 
 |
 
-Respect des dispositions de l'article 4 §1 de l'arrêté du 02 mai 2005 dont par exemple :
+Respect des dispositions de l'article 4 § 1 de l'arrêté du 02 mai 2005 dont par exemple :
 
-*Soit AFPS ou PSC1 acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
+*Soit AFPS ou PSC acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
 
 * Evaluation de la capacité à retranscrire des anomalies sur une main courante
 
@@ -56,9 +56,9 @@ Le feu et ses conséquences
 
 |
 
-- le feu
+-le feu
 
-- comportement au feu
+-comportement au feu
 
 |
 
@@ -72,21 +72,21 @@ Sécurité incendie
 
 |
 
-- principes de classement des établissements
+-principes de classement des établissements
 
-- fondamentaux et principes généraux de sécurité incendie
+-fondamentaux et principes généraux de sécurité incendie
 
-- desserte des bâtiments
+-desserte des bâtiments
 
-- cloisonnement d'isolation des risques
+-cloisonnement d'isolation des risques
 
-- évacuation du public et des occupants
+-évacuation du public et des occupants
 
-- désenfumage
+-désenfumage
 
-- éclairage de sécurité
+-éclairage de sécurité
 
-- présentation des différents moyens de secours
+-présentation des différents moyens de secours
 
 |
 
@@ -100,15 +100,15 @@ Installations techniques
 
 |
 
-- installations électriques
+-installations électriques
 
-- ascenseurs et nacelles
+-ascenseurs et nacelles
 
-- installations fixes d'extinction automatique
+-installations fixes d'extinction automatique
 
-- colonnes sèches et humides
+-colonnes sèches et humides
 
-- système de sécurité incendie
+-système de sécurité incendie
 
 |
 
@@ -122,19 +122,19 @@ Rôles et missions des agents de sécurité incendie
 
 |
 
-- le service de sécurité
+-le service de sécurité
 
-- présentation des consignes de sécurité et main courante
+-présentation des consignes de sécurité et main courante
 
-- poste de sécurité
+-poste de sécurité
 
-- rondes de sécurité et surveillance des travaux
+-rondes de sécurité et surveillance des travaux
 
-- mise en œuvre des moyens d'extinction
+-mise en œuvre des moyens d'extinction
 
-- appel et réception des services publics de secours
+-appel et réception des services publics de secours
 
-- sensibilisation des occupants
+-sensibilisation des occupants
 
 |
 
@@ -148,9 +148,9 @@ Concrétisation des acquis
 
 |
 
-- visites applicatives
+-visites applicatives
 
-- mises en situation d'intervention
+-mises en situation d'intervention
 
 |
 
@@ -184,7 +184,7 @@ Ronde avec anomalies et sinistre
 
 |
 
-15 min/stagiaire
+15 min/ stagiaire
 
 |
 
@@ -246,7 +246,7 @@ Film vidéo sur l'évolution d'un feu dans une pièce
 
 Film vidéo sur un sinistre réel
 
-Ouvrages : "Physique du feu pour l'ingénieur" (Ed. CSTB), "Fire protection handbook" "National Fire Protection Association", "Traité pratique de sécurité incendie"
+Ouvrages : " Physique du feu pour l'ingénieur " (Ed. CSTB), " Fire protection handbook " " National Fire Protection Association ", " Traité pratique de sécurité incendie "
 
 |
 
@@ -314,7 +314,7 @@ Matériels et documentation recommandés
 
 Arrêtés :
 
-relatif à la réaction au feu des produits de construction de transposition "Euroclasses"
+relatif à la réaction au feu des produits de construction de transposition " Euroclasses "
 
 relatif à la performance au feu des toitures et couvertures exposées à un feu extérieur
 
@@ -484,7 +484,7 @@ Principes généraux (déclinaison du règlement) de sécurité
 
 |
 
-Implantation - dessertes et voiries - Isolement
+Implantation-dessertes et voiries-Isolement
 
 Matériaux de construction
 
@@ -502,7 +502,7 @@ Eclairage normal et de sécurité
 
 Installations techniques
 
-Moyens de secours - alarme
+Moyens de secours-alarme
 
 |
 
@@ -516,7 +516,7 @@ Arrêtés :
 
 25 juin 1980 modifié
 
-22 juin 1990 modifié - 18 octobre 1977 modifié
+22 juin 1990 modifié-18 octobre 1977 modifié
 
 |
 
@@ -636,9 +636,9 @@ Contenu
 
 Cloisonnement :
 
-- conception
+-conception
 
-- finalité
+-finalité
 
 Cas particuliers des types U et J en ERP
 
@@ -846,9 +846,9 @@ Contenu
 
 Définition de la notion d'éclairage de sécurité
 
-- Eclairage d'ambiance ou anti-panique
+-Eclairage d'ambiance ou anti-panique
 
-- Eclairage d'évacuation
+-Eclairage d'évacuation
 
 Fonctionnement de l'éclairage de sécurité
 
@@ -1040,17 +1040,17 @@ Dispositifs de sécurité concernant les personnes et le matériel
 
 Protection des personnes :
 
-- gaines / parois
+-gaines/ parois
 
-- portes palières
+-portes palières
 
-- parachute
+-parachute
 
-- sonnerie d'appel
+-sonnerie d'appel
 
-- trappes et portes latérales de secours
+-trappes et portes latérales de secours
 
-- éclairage de la cabine
+-éclairage de la cabine
 
 Procédures de dégagement
 
@@ -1160,19 +1160,19 @@ Contenu
 
 Colonnes sèches
 
-- composition
+-composition
 
-- positionnement
+-positionnement
 
-- entretien
+-entretien
 
 Colonnes humides
 
-- composition
+-composition
 
-- positionnement
+-positionnement
 
-- entretien
+-entretien
 
 |
 
@@ -1220,19 +1220,19 @@ Définition du SSI, différentes catégories et fonction
 
 Composition
 
-- système de détection incendie et déclencheurs manuels
+-système de détection incendie et déclencheurs manuels
 
-- dispositifs actionnés de sécurité
+-dispositifs actionnés de sécurité
 
-- unité de signalisation
+-unité de signalisation
 
-- unité de commande manuelle centralisée
+-unité de commande manuelle centralisée
 
-- centralisateur de mise en sécurité incendie
+-centralisateur de mise en sécurité incendie
 
-- unité de gestion centralisée des issues de secours
+-unité de gestion centralisée des issues de secours
 
-- unité de gestion d'alarme
+-unité de gestion d'alarme
 
 Niveaux d'accès aux fonctions du SSI
 
@@ -1366,9 +1366,9 @@ Contenu
 
 Consignes de sécurité
 
-- générales
+-générales
 
-- particulières
+-particulières
 
 Main courante
 
@@ -1600,9 +1600,9 @@ Application
 
 Exercices d'extinction sur feux réels de diverses classes au moyen :
 
-- d'un extincteur adapté au risque
+-d'un extincteur adapté au risque
 
-- d'un RIA
+-d'un RIA
 
 |
 
@@ -1716,13 +1716,13 @@ Contenu
 
 Information des occupants concernant la sécurité :
 
-- conduite à tenir devant un feu
+-conduite à tenir devant un feu
 
-- conduite à tenir en cas d'alarme
+-conduite à tenir en cas d'alarme
 
-- grands principes de prévention incendie du bâtiment
+-grands principes de prévention incendie du bâtiment
 
-- grands principes de communication
+-grands principes de communication
 
 |
 
@@ -1858,19 +1858,19 @@ Contenu
 
 L'action face à différents contextes :
 
-- fumées, incendie
+-fumées, incendie
 
-- évacuation des occupants
+-évacuation des occupants
 
-- prise en charge d'une victime
+-prise en charge d'une victime
 
-- dangers imminents
+-dangers imminents
 
-- non-respect des consignes de sécurité
+-non-respect des consignes de sécurité
 
-- levée de doute
+-levée de doute
 
-- etc.
+-etc.
 
 L'utilisation des moyens de communication mobiles
 

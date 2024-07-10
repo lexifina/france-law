@@ -20,7 +20,7 @@ Gens de mer des navires de pêche non titulaires d'un CFBS. L'attestation de sui
 
 |
 
-Prévention et secours civiques de niveau 1
+Premiers secours citoyen "
 
 |
 

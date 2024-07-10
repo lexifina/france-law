@@ -322,7 +322,7 @@ Décret n° 91-834 du 30 août 1991 relatif à la formation aux premiers secours
 
 Arrêté du 8 juillet 1992 relatif aux conditions d'habilitation ou d'agrément pour les formations aux premiers secours
 
-Arrêté du 24 juillet 2007 modifié fixant le référentiel national de compétences de sécurité civile relatif à l'unité d'enseignement " Prévention et secours civiques de niveau 1 "
+Arrêté du 24 juillet 2007 modifié fixant le référentiel national de compétences de sécurité civile relatif à l'unité d'enseignement " Premiers secours citoyen "
 
 Arrêté du 24 août 2007 modifié fixant le référentiel national de compétences de sécurité civile relatif à l'unité d'enseignement " Premiers secours en équipe de niveau 1 "
 

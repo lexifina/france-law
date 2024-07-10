@@ -58,19 +58,19 @@ Coordonnées du CESU :
 
 Adresse :
 
-Ville :Code postal :
+Ville : Code postal :
 
-Téléphone :Mél :
+Téléphone : Mél :
 
 Nom et coordonnées de l'établissement hospitalier de rattachement :
 
 Adresse :
 
-Ville :Code postal :
+Ville : Code postal :
 
 Directeur de l'hôpital siège du CESU :
 
-Nom :Prénom
+Nom : Prénom
 
 Téléphone : Mél :
 
@@ -402,17 +402,15 @@ Personnels administratifs ou logistiques du CESU
 
 QUALIFICATIONS
 
-professionnelles |
+professionnellesACTIVITÉSPOURCENTAGE |
 
-ACTIVITÉS |
-
-POURCENTAGE
+|
 
 du temps dédié
 
-au CESU |
+au CESUPersonnel |
 
-Personnel administratif ou autre personnel
+administratif ou autre personnel
 
 Fonctions (2) :
 
@@ -566,7 +564,7 @@ NOMBRE DE SESSIONS (3)
 
 NOMBRE
 
-de personnes/session
+de personnes/ session
 
 |
 
@@ -576,7 +574,7 @@ PUBLIC CONCERNÉ
 
 VOLUME
 
-horaire/session
+horaire/ session
 
 |
 
@@ -682,7 +680,7 @@ NOMBRE DE SESSIONS (4)
 
 NOMBRE
 
-de personnes/session
+de personnes/ session
 
 |
 
@@ -692,11 +690,11 @@ PUBLIC CONCERNÉ
 
 VOLUME
 
-horaire/session
+horaire/ session
 
 |
 
-PSC 1
+PSC
 
 |
 
@@ -756,7 +754,7 @@ PAE 2
 
 |
 
-PAE 3/BNMPS
+PAE 3/ BNMPS
 
 |
 
@@ -862,17 +860,17 @@ OBSERVATIONS
 
 Informatique, bureautique et audiovisuel :
 
-- PC portable ou fixe
+-PC portable ou fixe
 
-- imprimante(s)
+-imprimante (s)
 
-- accès internet
+-accès internet
 
-- vidéoprojecteur
+-vidéoprojecteur
 
-- rétroprojecteur
+-rétroprojecteur
 
-- autres (à préciser)
+-autres (à préciser)
 
 |
 
@@ -894,13 +892,13 @@ QUANTITÉ
 
 |
 
-Matériel de simulation avec accessoires et consommables |
+Matériel de simulation avec accessoires et consommablesMannequin |
 
-Mannequin adulte avec écran de contrôle :
+adulte avec écran de contrôle :
 
-- corps entier
+-corps entier
 
-- tronc
+-tronc
 
 Mannequin enfant
 
@@ -916,19 +914,19 @@ Autres : |
 
 |
 
-Matériel d'urgence avec tous les consommables |
+Matériel d'urgence avec tous les consommablesValise |
 
-Valise ou chariot d'urgence complet avec matériel de soin
+ou chariot d'urgence complet avec matériel de soin
 
 Bouteille d'oxygène ou prise murale
 
 Ballon insufflateur avec réserve :
 
-- adulte
+-adulte
 
-- enfant
+-enfant
 
-- nourrisson
+-nourrisson
 
 Masques haute concentration
 
@@ -938,17 +936,17 @@ Autres : |
 
 |
 
-Matériel de simulation de défibrillation |
+Matériel de simulation de défibrillationDAE |
 
-DAE automatique et semi-automatique
+automatique et semi-automatique
 
 Autres : |
 
 |
 
-Matériel de surveillance |
+Matériel de surveillanceAppareil |
 
-Appareil de mesure de pression artérielle
+de mesure de pression artérielle
 
 Oxymètre de pouls
 
@@ -956,9 +954,9 @@ Autres : |
 
 |
 
-Matériel d'immobilisation et de contention |
+Matériel d'immobilisation et de contentionColliers |
 
-Colliers cervicaux multitailles
+cervicaux multitailles
 
 Attelles de membre
 
@@ -968,47 +966,47 @@ Autres : |
 
 |
 
-Matériel de relevage |
+Matériel de relevageBrancard |
 
-Brancard allant au sol
+allant au sol
 
 Autres : |
 
 |
 
-Matériels et équipements de protection individuelle (EPI) face à un risque collectif |
+Matériels et équipements de protection individuelle (EPI) face à un risque collectifProtection |
 
-Protection cutanée :
+cutanée :
 
-- tenues carbonées
+-tenues carbonées
 
-- tenues de décontamination
+-tenues de décontamination
 
-- gants NG pour tenue carbonée
+-gants NG pour tenue carbonée
 
-- gants Butyle
+-gants Butyle
 
-- gants Vinyle
+-gants Vinyle
 
-- sur chaussons
+-sur chaussons
 
-- sur blouses
+-sur blouses
 
-- lunettes
+-lunettes
 
-- autres :
+-autres :
 
 Protection respiratoire :
 
-- masques complets à cartouche filtrante (CF)
+-masques complets à cartouche filtrante (CF)
 
-- CF d'exercice
+-CF d'exercice
 
-- cagoules de fuite
+-cagoules de fuite
 
-- demi-masques FFP2 ou 3
+-demi-masques FFP2 ou 3
 
-- autres : |
+-autres : |
 
 |
 
@@ -1016,25 +1014,25 @@ Protection respiratoire :
 
 Détection :
 
-- appareils de détection de contamination et/ou de contrôle de décontamination
+-appareils de détection de contamination et/ ou de contrôle de décontamination
 
-- autres :
+-autres :
 
 Divers :
 
-- mannequins
+-mannequins
 
-- brancards pour décontamination
+-brancards pour décontamination
 
-- matériels de découpe de vêtements
+-matériels de découpe de vêtements
 
-- feuilles de Vinyle
+-feuilles de Vinyle
 
-- matériels de balisage pour constitution de sacs
+-matériels de balisage pour constitution de sacs
 
-- gants poudreurs
+-gants poudreurs
 
-- autres : |
+-autres : |
 
 |
 

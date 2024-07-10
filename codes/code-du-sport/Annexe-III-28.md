@@ -16,17 +16,17 @@ Les sportifs doivent être de niveau technique et sportif équivalent, reconnu p
 
 Un médecin doit être présent tout au long de la manifestation. L'organisateur doit mettre à la disposition du médecin :
 
-- une ambulance ;
+-une ambulance ;
 
-- un téléphone au bord de l'aire de combat ;
+-un téléphone au bord de l'aire de combat ;
 
-- une civière à proximité de l'aire de combat ;
+-une civière à proximité de l'aire de combat ;
 
-- au moins deux personnes par aire de combat disposant d'une qualification en secourisme ;
+-au moins deux personnes par aire de combat disposant d'une qualification en secourisme ;
 
-- un local afin de pratiquer les premiers soins et la visite avant combat ;
+-un local afin de pratiquer les premiers soins et la visite avant combat ;
 
-- un local destiné à accueillir un contrôle relatif à la lutte contre le dopage.
+-un local destiné à accueillir un contrôle relatif à la lutte contre le dopage.
 
 Avant la manifestation, le médecin effectue pour l'ensemble des sportifs une visite médicale afin de contrôler d'éventuelles lésions récentes et leur aptitude à combattre en vérifiant, notamment, le certificat médical obligatoire prévu au 2° de l'article A. 331-34 du code du sport.
 
@@ -68,9 +68,9 @@ Lorsqu'un sportif est dans l'incapacité de se défendre correctement, debout co
 
 a) Compétences de l'arbitre Il doit être titulaire au minimum :
 
-- de l'unité d'enseignement prévention et secours civiques de niveau 1 ou d'une qualification équivalente ;
+-de l'unité d'enseignement premiers secours citoyen ou d'une qualification équivalente ;
 
-- d'une qualification de juge/ arbitre ;
+-d'une qualification de juge/ arbitre ;
 
 b) Conduite de l'arbitre avant la rencontre
 
@@ -78,9 +78,9 @@ L'arbitre est la première personne à monter sur l'aire de combat avant le comb
 
 L'arbitre contrôle :
 
-- les gants ;
+-les gants ;
 
-- les protections des sportifs.
+-les protections des sportifs.
 
 Au début de la rencontre, l'arbitre réunit les sportifs et les entraîneurs afin de leur expliciter les règles techniques et de sécurité.
 
@@ -92,30 +92,30 @@ L'arbitre peut intervenir à tout moment pendant le combat. Dès lors que l'un d
 
 Les techniques strictement interdites qui entraînent la disqualification immédiate des sportifs sont les suivantes :
 
-- les coups de poings, coups de pieds, coups de coudes et coups de genoux visant un combattant au sol ;
+-les coups de poings, coups de pieds, coups de coudes et coups de genoux visant un combattant au sol ;
 
-- les coups de coudes (visant n'importe quelle cible et dans toutes les positions) ;
+-les coups de coudes (visant n'importe quelle cible et dans toutes les positions) ;
 
-- les coups de tête ;
+-les coups de tête ;
 
-- les coups visant les parties génitales ;
+-les coups visant les parties génitales ;
 
-- les coups visant la colonne vertébrale et le derrière de la tête ;
+-les coups visant la colonne vertébrale et le derrière de la tête ;
 
-- les coups visant la gorge ;
+-les coups visant la gorge ;
 
-- saisir la trachée artère avec les doigts ;
+-saisir la trachée artère avec les doigts ;
 
-- mettre les doigts dans les yeux, la bouche, le nez ou une plaie ;
+-mettre les doigts dans les yeux, la bouche, le nez ou une plaie ;
 
-- griffer ou pincer intentionnellement ;
+-griffer ou pincer intentionnellement ;
 
-- attraper ou tirer les cheveux ;
+-attraper ou tirer les cheveux ;
 
-- mordre ;
+-mordre ;
 
-- projeter intentionnellement sur la tête et le cou ;
+-projeter intentionnellement sur la tête et le cou ;
 
-- projeter, pousser son adversaire hors du ring.
+-projeter, pousser son adversaire hors du ring.
 
 La plus grande vigilance des arbitres et des juges doit être portée sur un combattant au sol.

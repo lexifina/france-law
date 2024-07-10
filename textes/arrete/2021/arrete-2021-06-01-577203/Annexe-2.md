@@ -2,7 +2,7 @@
 
 Les professionnels et les étudiants en santé mentionnés au VIII quinquiès de l'article 5 sont :
 
-I. - Les professionnels de santé suivants, sous la responsabilité d'un médecin pouvant intervenir à tout moment et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins :
+I.-Les professionnels de santé suivants, sous la responsabilité d'un médecin pouvant intervenir à tout moment et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins :
 
 1° Les physiciens médicaux ;
 
@@ -36,7 +36,7 @@ I. - Les professionnels de santé suivants, sous la responsabilité d'un médeci
 
 16° Les assistants dentaires.
 
-II. - Les professionnels et les détenteurs de formation suivants, sous la responsabilité d'un médecin pouvant intervenir à tout moment et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins :
+II.-Les professionnels et les détenteurs de formation suivants, sous la responsabilité d'un médecin pouvant intervenir à tout moment et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins :
 
 1° Supprimé ;
 
@@ -58,9 +58,9 @@ II. - Les professionnels et les détenteurs de formation suivants, sous la respo
 
 9° Les détenteurs de la formation premiers secours en équipe de niveau 2 (PSE2) ;
 
-10° Les détenteurs d'au moins une formation prévention et secours civiques de niveau 1 (PSC1).
+10° Les détenteurs d'au moins une formation premiers secours citoyen (PSC).
 
-III. - Les étudiants en santé suivants :
+III.-Les étudiants en santé suivants :
 
 1° Les étudiants en santé suivants ayant suivi les enseignements théoriques et pratiques relatifs à la vaccination dans le cadre de leur cursus, en présence d'un médecin d'un infirmier ou d'un pharmacien formé à l'administration des vaccins ou ayant suivi une formation spécifique à la vaccination contre la covid-19 :
 

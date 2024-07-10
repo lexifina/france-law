@@ -16,7 +16,7 @@ Le dossier d'inscription comprend les pièces suivantes :
 
 4. Un certificat médical de non-contre-indication à l'exercice de la profession d'accompagnateur en moyenne montagne datant de moins d'un an à la date du probatoire ;
 
-5. La photocopie de l'unité d'enseignement prévention et secours civiques de niveau 1 (PSC 1) ou son équivalent ;
+5. La photocopie de l'unité d'enseignement premiers secours citoyen (PSC) ou son équivalent ;
 
 6. Une liste de randonnées, réalisées par le candidat, renseignées sur le site dédié de l'Ecole nationale des sports de montagne, site du Centre national de ski nordique et de moyenne montagne, pouvant être modifiée, en cas de besoin, annuellement, après avis de la Section permanente alpinisme de la Commission de l'emploi et de la formation.
 

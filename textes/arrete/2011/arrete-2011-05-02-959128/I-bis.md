@@ -6,7 +6,7 @@ DES CONDUCTEURS DE VÉHICULES DE GUIDAGE (FCG)
 
 Objectifs : perfectionner sa conduite d'un véhicule de guidage, améliorer ses pratiques et actualiser ses connaissances en matière de réglementations et règles applicables au transport exceptionnel et à l'accompagnement de ce transport.
 
-Prérequis : exercer une activité de conducteur de véhicule de guidage, être titulaire du permis de conduire des catégories A et B libéré du délai probatoire prévu à l'article L. 223-1 du code de la route, de l'attestation de formation aux premiers secours (AFPS) ou de l'unité d'enseignement prévention et secours civique de niveau 1 (PSC1) , justifier de la régularité de sa situation au regard de la formation initiale de véhicule de guidage (FIG).
+Prérequis : exercer une activité de conducteur de véhicule de guidage, être titulaire du permis de conduire des catégories A et B libéré du délai probatoire prévu à l'article L. 223-1 du code de la route, de l'attestation de formation aux premiers secours (AFPS) ou de l'unité d'enseignement premiers secours citoyen (PSC), justifier de la régularité de sa situation au regard de la formation initiale de véhicule de guidage (FIG).
 
 Effectifs : 15 stagiaires au maximum par stage.
 
@@ -14,11 +14,11 @@ Durée : 7 heures, soit une journée.
 
 Moyens matériels :
 
-- véhicules : motocyclettes de 34 CV, voitures pilotes ;
+-véhicules : motocyclettes de 34 CV, voitures pilotes ;
 
-- autres moyens : aires de manœuvres, plateau maniabilité, salles de cours équipées ;
+-autres moyens : aires de manœuvres, plateau maniabilité, salles de cours équipées ;
 
-- livret de suivi de la formation.
+-livret de suivi de la formation.
 
 Programme :
 

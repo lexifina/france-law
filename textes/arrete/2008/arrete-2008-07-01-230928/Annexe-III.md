@@ -1,6 +1,6 @@
 # Article Annexe III
 
-Tableau récapitulatif des dispenses des exigences préalables à l'entrée en formation (EPEF) et des exigences préalables à la mise en situation professionnelle (EPMSP) ainsi que des équivalences d'unités capitalisables (UC) avec le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité “perfectionnement sportif” mention “volley-ball”
+Tableau récapitulatif des dispenses des exigences préalables à l'entrée en formation (EPEF) et des exigences préalables à la mise en situation professionnelle (EPMSP) ainsi que des équivalences d'unités capitalisables (UC) avec le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité “ perfectionnement sportif ” mention “ volley-ball ”
 
 |
 
@@ -16,9 +16,7 @@ UC 3 |
 
 UC 4 |
 
-Sportif de haut niveau en volley-ball ou en beach-volley inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l'article L. 221-2 du code du sport
-
-|
+Sportif de haut niveau en volley-ball ou en beach-volley inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l'article L. 221-2 du code du sport |
 
 X |
 
@@ -46,7 +44,7 @@ X |
 
 X |
 
-BPJEPS* spécialité activités sport collectifs mention volley-ball . |
+BPJEPS* spécialité activités sport collectifs mention volley-ball. |
 
 X |
 
@@ -74,7 +72,7 @@ X |
 
 X |
 
-BPJEPS* spécialité éducateur sportif mention volley-ball et disciplines associées . |
+BPJEPS* spécialité éducateur sportif mention volley-ball et disciplines associées. |
 
 X |
 
@@ -186,9 +184,7 @@ X |
 
 X |
 
-Diplôme d'éducateur en école de volley-ball délivré par la FFVB* et unité d'enseignement prévention et secours civiques de niveau 1 (PSC 1) ou l'une des attestations mentionnées à l'article A. 212-52-1 du code du sport
-
-|
+Diplôme d'éducateur en école de volley-ball délivré par la FFVB* et unité d'enseignement premiers secours citoyen (PSC) ou l'une des attestations mentionnées à l'article A. 212-52-1 du code du sport |
 
 X |
 
@@ -202,7 +198,7 @@ X |
 
 |
 
-Diplôme d'entraîneur régional de volley ou de beach volley délivré par délivré par la FFVB* et unité d'enseignement prévention et secours civiques de niveau 1 ” (PSC 1) ou l'une des attestations mentionnées à l'article A. 212-52-1 du code du sport |
+Diplôme d'entraîneur régional de volley ou de beach volley délivré par délivré par la FFVB* et unité d'enseignement premiers secours citoyen ” (PSC) ou l'une des attestations mentionnées à l'article A. 212-52-1 du code du sport |
 
 X |
 
@@ -216,11 +212,11 @@ X |
 
 |
 
-Diplôme d'entraîneur fédéral de volley-ball ou de beach-volley délivré par la FFVB* et l'unité d'enseignement prévention et secours civiques de niveau 1 (PSC 1) ou l'une des attestations mentionnées à l'article A. 212-52-1 du code du sport. |
+Diplôme d'entraîneur fédéral de volley-ball ou de beach-volley délivré par la FFVB* et l'unité d'enseignement premiers secours citoyen (PSC) ou l'une des attestations mentionnées à l'article A. 212-52-1 du code du sport. |
 
 X |
 
-X |
+XEPEF |
 
 |
 
@@ -230,7 +226,7 @@ X |
 
 |
 
-EPEF : exigences préalables à l'entrée en formation.
+: exigences préalables à l'entrée en formation.
 
 EPMSP : exigences préalables à la mise en situation pédagogique.
 

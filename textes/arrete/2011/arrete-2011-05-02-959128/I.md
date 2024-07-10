@@ -6,7 +6,7 @@ DES CONDUCTEURS DE VÉHICULES DE GUIDAGE (FIG)
 
 Objectifs : se former à la conduite d'un véhicule de guidage ; connaître, appliquer, respecter la réglementation relative au transport exceptionnel et à l'accompagnement de ce transport et être capable de mettre en œuvre dans des conditions de sécurité optimales un arrêté préfectoral d'autorisation de circulation d'un transport exceptionnel.
 
-Prérequis : être âgé de vingt et un ans minimum à l'entrée en formation, être titulaire du permis de conduire des catégories A et B libéré du délai probatoire prévu à l'article L. 223-1 du code de la route et de l'attestation de formation aux premiers secours (AFPS) ou de l'unité d'enseignement prévention et secours civique de niveau 1 (PSC1) .
+Prérequis : être âgé de vingt et un ans minimum à l'entrée en formation, être titulaire du permis de conduire des catégories A et B libéré du délai probatoire prévu à l'article L. 223-1 du code de la route et de l'attestation de formation aux premiers secours (AFPS) ou de l'unité d'enseignement premiers secours citoyen (PSC).
 
 Effectifs : 15 stagiaires au maximum par stage.
 

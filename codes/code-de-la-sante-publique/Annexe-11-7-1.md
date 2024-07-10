@@ -24,7 +24,7 @@ Annexe 11-7-1 : Compétences requises pour la validation des certifications féd
 
 |
 
-6. Réagir face à un accident au cours de la pratique en mobilisant les connaissances et les compétences nécessaires à l'exécution conforme aux recommandations des gestes de premiers secours destinés à préserver l'intégrité physique d'une victime en attendant l'arrivée des secours organisés (attestation PSC-1)
+6. Réagir face à un accident au cours de la pratique en mobilisant les connaissances et les compétences nécessaires à l'exécution conforme aux recommandations des gestes de premiers secours destinés à préserver l'intégrité physique d'une victime en attendant l'arrivée des secours organisés (attestation PSC)
 
 |
 

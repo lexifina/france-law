@@ -2,7 +2,7 @@
 
 Référentiels emplois
 
-Chapitre 1 - Emploi d'agent de sécurité incendie
+Chapitre 1-Emploi d'agent de sécurité incendie
 
 MISSIONS
 
@@ -38,7 +38,7 @@ Relations extérieures
 
 |
 
-Public et personnel de l'établissement; services publics
+Public et personnel de l'établissement ; services publics
 
 |
 
@@ -58,7 +58,7 @@ Réglementaires
 
 * Evaluation de la capacité à retranscrire des anomalies sur la main courante
 
-* Soit AFPS ou PSC1 acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
+* Soit AFPS ou PSC acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
 
 |
 
@@ -96,7 +96,7 @@ Réglementaires
 
 |
 
-* Soit AFPS ou PSC1 acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
+* Soit AFPS ou PSC acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
 
 * Equivalences pour sapeurs-pompiers et pompiers militaires
 
@@ -108,13 +108,13 @@ Formation Initiale
 
 |
 
-* S.S.I.A.P. 1 ou SSIAP 2
+* S. S. I. A. P. 1 ou SSIAP 2
 
-* ou BP "agent technique de prévention et de sécurité"
+* ou BP " agent technique de prévention et de sécurité "
 
-* ou CAP "agent de prévention et de sécurité"
+* ou CAP " agent de prévention et de sécurité "
 
-* ou mention complémentaire: "sécurité civile et entreprises"
+* ou mention complémentaire : " sécurité civile et entreprises "
 
 * ou Bac professionnel spécialité sécurité prévention
 
@@ -138,7 +138,7 @@ Autres conditions d'exercice souhaitable
 
 |
 
-Pour les sites équipés d'ascenseurs et de nacelles : formation ascenseurs et/ou nacelles
+Pour les sites équipés d'ascenseurs et de nacelles : formation ascenseurs et/ ou nacelles
 
 |
 
@@ -180,7 +180,7 @@ Activités complémentaires
 
 |
 
-Chapitre 1.1 - Détail des activités exercées
+Chapitre 1.1-Détail des activités exercées
 
 Activité
 
@@ -442,13 +442,13 @@ Principaux outils techniques et moyens à mettre en œuvre
 
 |
 
-* Application des consignes/évacuation
+* Application des consignes/ évacuation
 
 * Désenfumage
 
 * SSI
 
-* Colonnes humides - colonnes sèches
+* Colonnes humides-colonnes sèches
 
 * Moyens radio
 
@@ -486,7 +486,7 @@ Principaux outils techniques et moyens à mettre en œuvre
 
 |
 
-Chapitre 2 - Emploi de chef d'équipe de sécurité incendie
+Chapitre 2-Emploi de chef d'équipe de sécurité incendie
 
 MISSIONS
 
@@ -524,7 +524,7 @@ Relations extérieures
 
 |
 
-* Services publics; prestataires de services
+* Services publics ; prestataires de services
 
 |
 
@@ -544,7 +544,7 @@ Réglementaires
 
 * Titulaire SSIAP 1 ou équivalent
 
-* Soit AFPS ou PSC1 acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
+* Soit AFPS ou PSC acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
 
 |
 
@@ -582,7 +582,7 @@ Réglementaires
 
 |
 
-* Soit AFPS ou PSC1 acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
+* Soit AFPS ou PSC acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
 
 * Equivalences pour sapeurs-pompiers et pompiers militaires
 
@@ -618,7 +618,7 @@ Autres conditions d'exercice souhaitable
 
 |
 
-* Pour les sites équipés d'ascenseurs et de nacelles : formation ascenseurs et/ou nacelles
+* Pour les sites équipés d'ascenseurs et de nacelles : formation ascenseurs et/ ou nacelles
 
 |
 
@@ -666,7 +666,7 @@ Activités complémentaires
 
 |
 
-Chapitre 2.1 - Détail des activités exercées
+Chapitre 2.1-Détail des activités exercées
 
 Activité
 
@@ -1052,7 +1052,7 @@ Principaux outils techniques et moyens à mettre en œuvre
 
 |
 
-Chapitre 3 - Emploi de chef de service de sécurité incendie
+Chapitre 3-Emploi de chef de service de sécurité incendie
 
 MISSIONS
 
@@ -1108,9 +1108,9 @@ Réglementaires
 
 * Diplôme niv 4 de l'éducation nationale au moins
 
-ou S.S.I.A.P. 2 ou ERP 2, IGH 2 avec 3 ans d'exercice de l'emploi
+ou S. S. I. A. P. 2 ou ERP 2, IGH 2 avec 3 ans d'exercice de l'emploi
 
-* Soit AFPS ou PSC1 acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
+* Soit AFPS ou PSC acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
 
 * Compréhension et retranscription de la langue française
 
@@ -1136,7 +1136,7 @@ Réglementaires
 
 |
 
-* Soit AFPS ou PSC1 acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
+* Soit AFPS ou PSC acquis depuis moins de 2 ans soit CFAPSE, PSE1 ou SST en cours de validité
 
 * L'habilitation électrique nécessaire sur les sites d'exercice de l'emploi
 
@@ -1146,7 +1146,7 @@ Formation Initiale
 
 |
 
-* S.S.I.A.P. 3
+* S. S. I. A. P. 3
 
 |
 
@@ -1192,7 +1192,7 @@ Activités complémentaires
 
 |
 
-Chapitre 3.1 - Détail des activités exercées
+Chapitre 3.1-Détail des activités exercées
 
 Activité
 
