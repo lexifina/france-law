@@ -1,115 +1,139 @@
 # Article Annexe
 
-MATÉRIELS DE GUERRE POSTÉRIEURS AU 1er JANVIER 1946 ÉLIGIBLES À LA COLLECTION
+MATÉRIELS DE GUERRE POSTÉRIEURS AU 1ER JANVIER 1946 ÉLIGIBLES À LA COLLECTION
 
-1. ENGINS BLINDÉS
+1.-ENGINS BLINDÉS.
 
 a) Matériels français :
 
--Char ARL 44 ;
+-char ARL 44 ;
 
--Char SOMUA SM ;
+-char SOMUA SM ;
 
--Char AMX 50 toutes versions ;
+-char AMX 50, de toutes versions ;
 
--Char de 40t. Lorraine ;
+-char AMX 13, uniquement dans les versions suivantes : DCA 40 modèle 1956, tourelle M24 et DDT modèle 1960, VCG modèle 1964, PDP modèle 1961, VCBT sanitaire et dépannage modèle 1955 ;
 
--Char de 25t. Batignolles-Chatillon ;
+-char de 40 tonnes " Lorraine " ;
 
--Char ERAC ;
+-char de 25 tonnes " Batignolles-Chatillon " ;
 
--Canon de 100mm automoteur Lorraine ;
+-char " ERAC " ;
 
--Canon de 155mm automoteur Lorraine ;
+-char FCM 12 tonnes ;
+
+-canon de 100 mm automoteur " Lorraine " ;
+
+-canon de 155 mm automoteur " Lorraine " ;
 
 -ELC AMX ;
 
--Hotchkiss CC2 ;
+-HOTCHKISS CC2 ;
 
--Engin blindé de reconnaissance EBR Panhard toutes versions ;
+-engin blindé de reconnaissance " EBR " PANHARD, de toutes versions ;
 
--Engin de transport de troupes ETT Panhard ;
+-engin de transport de troupes " ETT " PANHARD ;
 
--Mortier Brandt de 120mm modèle 1951 ;
+-mortier BRANDT de 120 mm, modèle 1951 ;
 
 b) Matériels américains :
 
--Char M 46 Patton ;
+-char M 46 Patton ;
 
--Char M 47 Patton ;
+-char M 47 Patton ;
 
--Char M 551 Sheridan ;
+-char M 551 Sheridan ;
 
--Char M 103 ;
+-char M 103 ;
 
--Char M 41 Walker Bulldog ;
+-char M 41 Walker Bulldog ;
 
--Char M 42 Duster ;
+-char M 42 Duster ;
 
--Char M 74 Recovery ;
+-char M 74 Recovery ;
 
--Char M 56 Scorpion ;
+-char M 56 Scorpion ;
 
--Char M 50 Ontos ;
+-char M 50 Ontos ;
 
--Véhicule blindé de transport de troupes M 75 ;
+-véhicule blindé de transport de troupes M 75 ;
 
--Véhicule blindé de transport de troupes M 59 ;
+-véhicule blindé de transport de troupes M 59 ;
 
--M 51 Armoured Recovery Vehicle.
+-M 51 Armoured Recovery Vehicle ;
 
 c) Matériels russes :
 
--Char Joseph-Staline (JS) toutes versions ;
+-char Joseph-Staline (JS), de toutes versions ;
 
--Char PT 76 ;
+-char PT 76 ;
 
--Véhicule blindé de transport de troupes OT-810 Tatra ;
+-véhicule blindé de transport de troupes OT-810 TATRA ;
 
--Véhicule blindé de transport de troupes OT-60 Topas, sauf versions suivantes : OT-62 et OT-64 ;
+-véhicule blindé de transport de troupes OT-60 Topas, sauf dans les versions suivantes : OT-62 et OT-64 ;
 
--Véhicule blindé de transport de troupe BTR 40, sauf versions suivantes : BTR-40-A, 40-B (BTR-40K), 40-V, 40-RH, 40-ZhD (AZhD), SPW-40A, SPW 40 Ch (Kh), SPW-40, Jababli (M1975/4) et Type 55 ;
+-véhicule blindé de transport de troupes BTR 40, sauf dans les versions suivantes : BTR-40-A, 40-B (BTR-40K), 40-V, 40-RH, 40-ZhD (AZhD), SPW-40A, SPW 40 Ch (Kh), SPW-40, Jababli (M1975/4) et Type 55 ;
 
--Véhicule blindé de transport de troupe BTR 50, sauf versions suivantes : BTR 50PA, 50PK, 50PU, 50PUM1, PK (B), MTP et MTK ;
+-véhicule blindé de transport de troupes BTR 50, sauf dans les versions suivantes : BTR 50PA, 50PK, 50PU, 50PUM1, PK (B), MTP et MTK ;
 
 -Airborne tankette ASU-57 ;
 
--Canon automoteur ASU 76.
+-canon automoteur ASU 76 ;
 
 d) Matériels britanniques :
 
--Char FV 214 Conqueror ;
+-char FV 214 Conqueror ;
 
--Char FV 4101 ;
+-char FV 4101 ;
 
--Char FV 432 ;
+-char FV 432 ;
 
--Char Centurion ;
+-char Centurion ;
 
--Automitrailleuse Daimler Ferret ;
+-automitrailleuse DAIMLER Ferret ;
 
--Engin blindé de reconnaissance Saladin ;
+-engin blindé de reconnaissance Saladin ;
 
--Engin blindé de reconnaissance Saracen.
+-engin blindé de reconnaissance Saracen ;
 
-e) Matériel suédois :
+e) Matériels suédois :
 
--Char NM 116 ;
+-char NM 116 ;
 
--Char Stridsvagn M. 103.
+-char Stridsvagn M. 103 ;
 
 f) Matériel suisse :
 
--Swiss Panzerjäger G 13.
+-Swiss Panzerjäger G 13 ;
 
 g) Matériel autrichien :
 
--Schutzenpanzer Saurer Steyr 4F4FA-version sanitaire uniquement.
+-Schutzenpanzer Saurer Steyr 4F4FA, uniquement dans leur version sanitaire.
 
-2. MATÉRIELS DE TRANSMISSION ET DE TÉLÉCOMMUNICATIONS
+2.-MATÉRIELS DE TRANSMISSION ET DE TÉLÉCOMMUNICATIONS.
 
-Les matériels de transmission et de télécommunications du 12° de la catégorie A2 mentionné à l'article R. 311-2 du code de la sécurité intérieure, dont la fabrication est antérieure au 1er janvier 1965.
+Les matériels de transmission et de télécommunications relevant du 12° de la catégorie A2, dont le modèle est antérieur au 1er janvier 1965.
 
-3. MATÉRIELS DE PROTECTION CONTRE LES GAZ
+3.-MATÉRIELS DE PROTECTION CONTRE LES GAZ.
 
-Les masques à gaz et cartouches filtrantes du 17° de la catégorie A2 mentionné à l'article R. 311-2 du code de la sécurité intérieure, dont la fabrication est antérieure au 1er janvier 1965.
+Les masques à gaz et cartouches filtrantes relevant du 17° de la catégorie A2, dont le modèle est antérieur au 1er janvier 1965.
+
+4.-AÉRONEFS.
+
+a) Matériels français :
+
+-DASSAULT Flamant, de toutes versions ;
+
+-FOUGA CM 170 Magister ;
+
+-FOUGA CM 175 Zéphyr ;
+
+-MORANE-SAULNIER MS 760 Paris ;
+
+-NORD Noratlas, de toutes versions ;
+
+-SOCATA TB30 Epsilon, dans leur version non armable ;
+
+b) Matériel américain :
+
+-NORTH AMERICAN T-28, de toutes versions.
