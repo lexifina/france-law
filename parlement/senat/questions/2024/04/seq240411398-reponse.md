@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240411398
+
+- Question : [SEQ240411398](seq240411398.md) — Impact de la mise en oeuvre des groupes de besoins sur l'enseignement scientifique
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2024-07-11, page 3033*
+
+Le budget 2024 de l'Education nationale et de la Jeunesse est le premier budget de la Nation. L'année scolaire 2024-2025 sera marquée par une nouvelle diminution forte du nombre d'élèves de l'ordre de - 83 000, poursuivant une tendance démographique observée depuis plusieurs années. Alors que les collèges et lycées (post-bac compris) ont accueilli 2 700 élèves de moins à la rentrée 2023, le second degré public devrait connaître une nouvelle baisse de 7 800 élèves à la rentrée 2024. Malgré cela, le schéma de rentrée 2024 prévoit des créations d'emplois dans le second degré, à hauteur de + 574 moyens d'enseignement. Ces moyens supplémentaires permettent la mise en oeuvre du « choc des savoirs » annoncé par le ministre de l'éducation nationale et de la jeunesse, Gabriel Attal, le 5 décembre dernier afin d'élever le niveau des élèves. Conformément à l'arrêté du 19 mai 2015 relatif à l'organisation des enseignements dans les classes de collège, chaque collège bénéficie d'une dotation horaire globalisée lui permettant de dispenser les horaires réglementaires. Chaque collège bénéficie également d'une marge d'autonomie réglementaire de 3 heures par semaine et par division qui lui permet de mettre en oeuvre des groupes à effectifs réduits et des dispositifs d'accompagnement personnalisé afin d'accompagner ces élèves, notamment dans les disciplines évoquées. Dans le cadre de la préparation de la rentrée scolaire 2024, des moyens supplémentaires ont été attribués de manière à permettre aux établissements la mise en place de groupes flexibles avec des effectifs réduits pour les élèves les plus fragiles.
