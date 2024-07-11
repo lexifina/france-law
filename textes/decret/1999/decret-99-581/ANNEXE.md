@@ -22,21 +22,19 @@ II.-Exercice de fonctions correspondant au titre de premier contrôleur et de co
 
 FONCTIONS EXERCÉES
 
-par les ingénieurs du contrôle
-
-de la navigation aérienne (ICNA) |
+par les ingénieurs du contrôle de la navigation aérienne (ICNA) |
 
 QUALIFICATION ET EXPÉRIENCE |
 
-Premier contrôleur dans un organisme de contrôle de la circulation aérienne classé dans le groupe A. |
+Premier contrôleur dans un organisme de contrôle de la circulation aérienne classé dans les listes 1 à 3. |
 
 Détention d'une licence de contrôleur de la circulation aérienne, avec l'ensemble des mentions d'unité correspondantes, depuis au moins neuf ans. |
 
-Premier contrôleur dans un organisme de contrôle de la circulation aérienne classé dans les groupes B ou C. |
+Premier contrôleur dans un organisme de contrôle de la circulation aérienne classé dans les listes 4 à 6. |
 
 Détention d'une licence de contrôleur de la circulation aérienne, avec l'ensemble des mentions d'unité correspondantes, depuis au moins dix ans. |
 
-Contrôleur dans un organisme de contrôle de la circulation aérienne classé dans les groupes D ou E. |
+Contrôleur dans un organisme de contrôle de la circulation aérienne classé dans les listes 7 et 8. |
 
 Détention d'une licence de contrôleur de la circulation aérienne, avec l'ensemble des mentions d'unité correspondantes, depuis au moins onze ans. |
 
