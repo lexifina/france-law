@@ -2,9 +2,9 @@
 
 Annexe II a
 
-Unités constitutives du diplôme
+UNITÉS CONSTITUTIVES DU DIPLÔME
 
-BTS Gestion des transports et logistique associée
+BTS " Gestion des transports et logistique associée "
 
 UNITÉS |
 
@@ -14,23 +14,33 @@ U1 |
 
 Culture générale et expression |
 
-U21 et U22 |
+U2 |
 
-Langue vivante étrangère |
+Langue vivante étrangère : Compréhension de l'écrit et expression
+
+écrite |
 
 U3 |
 
-Culture économique, juridique et managériale |
+Langue vivante étrangère : Production orale en continu et interaction |
 
 U4 |
 
+Culture économique, juridique et managériale |
+
+U5 |
+
 Mise en œuvre d'opérations de transport et de prestations logistiques |
 
-U51 et U52 |
-
-Conception des opérations de transport et de prestations logistiques et analyse de la performance d'une activité de transport et de prestations logistiques |
-
 U6 |
+
+Conception des opérations de transport et de prestations logistiques |
+
+U7 |
+
+Analyse de la performance d'une activité de transport et de prestations logistiques |
+
+U8 |
 
 Pérennisation et développement de l'activité de transport et de prestations logistiques |
 
@@ -41,3 +51,11 @@ Langue vivante |
 UF2 Unité facultative |
 
 Module d'approfondissement |
+
+UF3 Unité facultative |
+
+Engagement étudiant |
+
+NOTA :
+
+Conformément à l’article 8 de l’arrêté du 8 juillet 2024 (NOR : ESRS2414609A), ces dispositions s'appliquent à compter de la session d'examen 2025.

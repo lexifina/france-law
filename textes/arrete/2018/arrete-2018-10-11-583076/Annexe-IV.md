@@ -2,90 +2,172 @@
 
 TABLEAU DE CORRESPONDANCE
 
-BTS Gestion des transports et logistique associée
+BTS " Gestion des transports et logistique associée "
 
-Tableau de correspondance entre les épreuves et unités du BTS Transport et prestations logistiques et celles du BTS Gestion des transports et logistique associée
+Tableau de correspondance entre les épreuves et unités du BTS " Transport et prestations logistiques " et celles du BTS " Gestion des transports et logistique associée " modifié par le présent arrêté
 
 Brevet de technicien supérieur
 
-Transport et prestations logistiques à référentiel commun européen
+" Transport et prestations logistiques à référentiel commun européen "
 
 défini par arrêté du 26 avril 2011 |
 
 Brevet de technicien supérieur
 
-Gestion des transports et logistique associée
+" Gestion des transports et logistique associée " modifié par le présent arrêté |
 
-défini par le présent arrêté |
+E. 1. Culture générale et expression |
 
-E.1. Culture générale et expression |
+U. 1 |
 
-U.1 |
+E. 1. Culture générale et expression |
 
-E.1. Culture générale et expression |
+U. 1 |
 
-U.1 |
+1. Langue vivante
 
-E.2. Langue vivante
+-Compréhension de l'écrit et expression écrite |
 
-- Compréhension de l'écrit et expression écrite
+U. 21 |
 
-- Production orale en continu et interaction |
+E. 2. Langue vivante étrangère : Compréhension de l'écrit et expression écrite |
 
-U.21
+U. 2 |
 
-U.22 |
+-Production orale en continu et interaction |
 
-E.2. Langue vivante
+U. 22 |
 
-- Compréhension de l'écrit et expression écrite
+E. 3. Langue vivante étrangère : Production orale en continu et interaction |
 
-- Production orale en continu et interaction |
+U. 3 |
 
-U.21
+1. Economie, droit, management
 
-U.22 |
+-Economie et droit
 
-E.3. Economie, droit, management
+-Management des entreprises |
 
-- Economie et Droit
+U. 31
 
-- Management des entreprises |
+U32 |
 
-U.31
+E. 4. Culture économique, juridique et managériale |
 
-U.32 |
+U. 4 |
 
-E.3. Culture économique, juridique et managériale |
+E. 4. Analyse d'opérations de transport et de prestations logistiques |
 
-U.3 |
+U. 4 |
 
-E.4. Analyse d'opérations de transport et de prestations logistiques |
+E. 6. Conception des opérations de transport et de prestations logistiques |
 
-U.4 |
+U. 6 |
 
-E.51. Conception des opérations de transport et de prestations logistiques |
+E. 5. Gestion de la relation de service et management d'une équipe
 
-U.51 |
+-Gestion de la relation de service |
 
-E.5. Gestion de la relation de service et management d'une équipe
-
-- Gestion de la relation de service
-
-- Management d'une équipe |
-
-U.51
-
-U.52 |
+U. 51 |
 
 |
 
 |
 
-E.6. Gestion des opérations de transport et des prestations logistiques |
+--Management d'une équipe |
 
-U.6 |
+U. 52 |
 
-E.4. Mise en œuvre d'opérations de transport et de prestations logistiques |
+E. 6. Gestion des opérations de transport et des prestations logistiques |
 
-U.4 |
+U. 6. |
+
+E. 5. Mise en œuvre d'opérations de transport et de prestations logistiques |
+
+U. 5. |
+
+Tableau de correspondance entre les épreuves et unités du BTS " Gestion des transports et logistique associée " créé par l'arrêté du 11 octobre 2018 modifié et celles du BTS " Gestion des transports et logistique associée " modifié par le présent arrêté
+
+Brevet de technicien supérieur
+
+" Gestion des transports et logistique associée " créé par l'arrêté du 11 octobre 2018 |
+
+Brevet de technicien supérieur
+
+" Gestion des transports et logistique associée " modifié par le présent arrêté |
+
+E. 1. Culture générale et expression |
+
+U. 1 |
+
+E. 1. Culture générale et expression |
+
+U. 1 |
+
+E. 4. Langue vivante
+
+-Compréhension de l'écrit et expression écrite |
+
+U. 21 |
+
+E. 2. Langue vivante étrangère : Compréhension de l'écrit et expression écrite |
+
+U. 2 |
+
+--Production orale en continu et interaction |
+
+U. 22 |
+
+E. 3. Langue vivante étrangère : Production orale en continu et interaction |
+
+U. 3 |
+
+E. 3. Culture économique, juridique et managériale |
+
+U. 3 |
+
+E. 4. Culture économique, juridique et managériale |
+
+U. 4 |
+
+E. 4. Mise en œuvre d'opérations de transport et de prestations logistiques |
+
+U. 4 |
+
+E. 5. Mise en œuvre d'opérations de transport et de prestations logistiques |
+
+U. 5 |
+
+E. 5. Conception des opérations de transport et de prestations logistiques et analyse de la performance d'une activité de transport et de prestations logistiques
+
+E51 : Conception des opérations de transport et de prestations logistiques |
+
+U. 51 |
+
+E. 6. Conception des opérations de transport et de prestations logistiques |
+
+U. 6 |
+
+E52 : Analyse de la performance d'une activité de transport et de prestations
+
+logistiques |
+
+U. 52 |
+
+E. 7. Analyse de la performance d'une activité de transport et de prestations
+
+logistiques |
+
+U. 7 |
+
+E. 6. Pérennisation et développement de l'activité de transport et de prestations logistiques |
+
+U. 6. |
+
+E. 8. Pérennisation et développement de l'activité de transport et de prestations logistiques |
+
+U. 8. |
+
+NOTA :
+
+Conformément à l’article 8 de l’arrêté du 8 juillet 2024 (NOR : ESRS2414609A), ces dispositions s'appliquent à compter de la session d'examen 2025.
