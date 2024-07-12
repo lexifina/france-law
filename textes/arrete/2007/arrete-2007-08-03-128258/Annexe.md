@@ -2,7 +2,7 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 30 juin 2024 :
+Jusqu'au 31 octobre 2024 :
 
 Paris-Abidjan (Côte d'Ivoire) ;
 
@@ -12,7 +12,7 @@ Paris-Cotonou (Bénin) ;
 
 Paris-Tananarive (Madagascar) ;
 
-Saint-Denis de La Réunion-Tananarive (Madagascar).
+Saint-Denis de la Réunion-Tananarive (Madagascar).
 
 Jusqu'au 31 octobre 2024 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires :
 
@@ -60,9 +60,9 @@ Fort-de-France-Saint-Domingue (République dominicaine) ;
 
 Fort-de-France-San Juan (Porto Rico), y compris en continuation depuis Paris ;
 
-Fort-de-France-Phillipsburg (Etat de Saint-Martin), y compris en continuation depuis Paris.
+Fort-de-France-Phillipsburg (Etat de Saint-Martin), y compris en continuation depuis Paris ;
 
-Fort-de-France-Saint John's (Antigue et Barbude), y compris en continuation depuis Paris.
+Fort-de-France-Saint John's (Antigue et Barbude), y compris en continuation depuis Paris ;
 
 Fort-de-France-Douglas Charles (La Dominique), y compris en continuation depuis Paris ;
 
