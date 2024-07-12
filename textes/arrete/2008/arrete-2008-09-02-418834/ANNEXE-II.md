@@ -74,7 +74,7 @@ Présence d'au moins une offre hôtelière et de trois autres types d'hébergeme
 
 Préciser le n° de l'annexe ou de la page de la note de présentation visant ce critère |
 
-Présence d'une offre d'hébergements touristiques marchands composée au minimum de soixante-dix pour cent d'unités classées dans les catégories classables. |
+Classement, en application des dispositions de l'article L. 141-2 du code du tourisme, d'au-moins soixante-dix pour cent de l'offre d'hébergements touristiques marchands relevant de la compétence de l'organisme mentionné à cet article. |
 
 Remplir et joindre la grille de calcul d'hébergement |
 
@@ -222,4 +222,8 @@ Le président,
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 16 juin 2023 (NOR : ECOI2307038A), ces dispositions entrent en vigueur le 1er décembre 2023.
+Conformément à l'article 3 de l'arrêté du 3 juin 2024 (NOR : ECOI2410134A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le lendemain de sa publication, soit le 12 juillet 2024.
+
+Il s'applique aux dossiers de demande de classement en cours d'examen à la date de sa publication, sous réserve que le délai fixé à l'article R. 133-39 du code du tourisme n'ait pas expiré.
+
+Les classements en station de tourisme en cours de validité, délivrés en application des dispositions antérieurement applicables, demeurent régis par ces dispositions antérieures.
