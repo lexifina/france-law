@@ -2,18 +2,6 @@
 
 B2 (suite)
 
-53
-
-|
-
-Mayenne
-
-|
-
-Saint-Berthevin
-
-|
-
 54
 
 |
@@ -778,43 +766,7 @@ Morbihan
 
 |
 
-Arradon
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Baden
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
 Brandérion
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Brech
 
 |
 
@@ -851,18 +803,6 @@ Morbihan
 |
 
 Cléguer
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Crach
 
 |
 
@@ -922,31 +862,7 @@ Morbihan
 
 |
 
-Groix
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
 Le Hézo
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Ile-d’Houat
 
 |
 
@@ -1018,30 +934,6 @@ Morbihan
 
 |
 
-Locmariaquer
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Locmiquélic
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
 Meucon
 
 |
@@ -1066,79 +958,7 @@ Morbihan
 
 |
 
-Noyalo
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Pénestin
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Plescop
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Ploeren
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
 Plougoumelen
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Plouharnel
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Pluneret
 
 |
 
@@ -1162,31 +982,7 @@ Morbihan
 
 |
 
-Port-Louis
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
 Quéven
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Riantec
 
 |
 
@@ -1210,18 +1006,6 @@ Morbihan
 
 |
 
-Saint-Gildas-de-Rhuys
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
 Saint-Nolff
 
 |
@@ -1234,55 +1018,7 @@ Morbihan
 
 |
 
-Saint-Philibert
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Saint-Pierre-Quiberon
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
 Sulniac
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Surzur
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-Theix
 
 |
 
@@ -1307,18 +1043,6 @@ Morbihan
 |
 
 Treffléan
-
-|
-
-56
-
-|
-
-Morbihan
-
-|
-
-La Trinité-sur-Mer
 
 |
 
@@ -1474,18 +1198,6 @@ Moselle
 
 |
 
-Audun-le-Tiche
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
 Augny
 
 |
@@ -1511,18 +1223,6 @@ Moselle
 |
 
 Ay-sur-Moselle
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
-Le Ban-Saint-Martin
 
 |
 
@@ -2038,31 +1738,7 @@ Moselle
 
 |
 
-Guénange
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
 Guenviller
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
-Hagondange
 
 |
 
@@ -2159,18 +1835,6 @@ Moselle
 |
 
 Henriville
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
-Hettange-Grande
 
 |
 
@@ -2386,18 +2050,6 @@ Moselle
 
 |
 
-Longeville-lès-Metz
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
 Longeville-lès-Saint-Avold
 
 |
@@ -2435,18 +2087,6 @@ Moselle
 |
 
 Macheren
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
-Manom
 
 |
 
@@ -2518,18 +2158,6 @@ Moselle
 
 |
 
-Mondelange
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
 Montois-la-Montagne
 
 |
@@ -2543,18 +2171,6 @@ Moselle
 |
 
 Morsbach
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
-Moulins-lès-Metz
 
 |
 
@@ -3202,31 +2818,7 @@ Moselle
 
 |
 
-Talange
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
 Tenteling
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
-Terville
 
 |
 
@@ -3263,18 +2855,6 @@ Moselle
 |
 
 Tressange
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
-Uckange
 
 |
 
@@ -3359,18 +2939,6 @@ Moselle
 |
 
 Vitry-sur-Orne
-
-|
-
-57
-
-|
-
-Moselle
-
-|
-
-Volmerange-les-Mines
 
 |
 
@@ -3922,18 +3490,6 @@ Nord
 
 |
 
-Bersée
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
 Beuvrages
 
 |
@@ -4018,18 +3574,6 @@ Nord
 
 |
 
-Bray-Dunes
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
 Bruay-sur-l’Escaut
 
 |
@@ -4103,18 +3647,6 @@ Nord
 |
 
 Camphin-en-Carembault
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Camphin-en-Pévèle
 
 |
 
@@ -4246,18 +3778,6 @@ Nord
 
 |
 
-Coudekerque-Village
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
 Courchelettes
 
 |
@@ -4342,18 +3862,6 @@ Nord
 
 |
 
-Deûlémont
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
 Douchy-les-Mines
 
 |
@@ -4403,18 +3911,6 @@ Nord
 |
 
 Emerchicourt
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Ennetières-en-Weppes
 
 |
 
@@ -4510,18 +4006,6 @@ Nord
 
 |
 
-Escobecques
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
 Esquerchin
 
 |
@@ -4559,18 +4043,6 @@ Nord
 |
 
 Famars
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Faumont
 
 |
 
@@ -5230,18 +4702,6 @@ Nord
 
 |
 
-Le Maisnil
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
 Marcq-en-Ostrevent
 
 |
@@ -5339,18 +4799,6 @@ Nord
 |
 
 Maulde
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Mérignies
 
 |
 
@@ -5650,31 +5098,7 @@ Nord
 
 |
 
-Péronne-en-Mélantois
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
 Petite-Forêt
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Phalempin
 
 |
 
@@ -5807,18 +5231,6 @@ Nord
 |
 
 Râches
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Radinghem-en-Weppes
 
 |
 
@@ -6154,18 +5566,6 @@ Nord
 
 |
 
-Téteghem
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
 Thiant
 
 |
@@ -6215,18 +5615,6 @@ Nord
 |
 
 Tilloy-lez-Cambrai
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Tourmignies
 
 |
 
@@ -6334,30 +5722,6 @@ Nord
 
 |
 
-Wannehain
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Warneton
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
 Wasnes-au-Bac
 
 |
@@ -6383,18 +5747,6 @@ Nord
 |
 
 Wavrechain-sous-Faulx
-
-|
-
-59
-
-|
-
-Nord
-
-|
-
-Wavrin
 
 |
 
@@ -6526,31 +5878,7 @@ Oise
 
 |
 
-Apremont
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
 Auger-Saint-Vincent
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
-Aumont-en-Halatte
 
 |
 
@@ -6611,18 +5939,6 @@ Oise
 |
 
 Bargny
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
-Baron
 
 |
 
@@ -6719,18 +6035,6 @@ Oise
 |
 
 Bonneuil-en-Valois
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
-Borest
 
 |
 
@@ -6922,18 +6226,6 @@ Oise
 
 |
 
-Courteuil
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
 Crouy-en-Thelle
 
 |
@@ -7066,18 +6358,6 @@ Oise
 
 |
 
-Ermenonville
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
 Esches
 
 |
@@ -7091,18 +6371,6 @@ Oise
 |
 
 Etavigny
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
-Eve
 
 |
 
@@ -7150,31 +6418,7 @@ Oise
 
 |
 
-Fleurines
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
 Fleury
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
-Fontaine-Chaalis
 
 |
 
@@ -7525,3 +6769,7 @@ Oise
 Lachapelle-Saint-Pierre
 
 |
+
+NOTA :
+
+Conformément à l’article 8 de l’arrêté du 5 juillet 2024 (NOR : TREL2418376A), pour le bénéfice des prêts ne portant pas intérêts mentionnés à l'article L. 31-10-1 du code de la construction et de l'habitation et des prêts garantis par l'Etat mentionnés au troisième alinéa de l'article L. 312-1 du même code, ces dispositions s'appliquent aux offres de prêts émises à compter du 26 juillet 2024.

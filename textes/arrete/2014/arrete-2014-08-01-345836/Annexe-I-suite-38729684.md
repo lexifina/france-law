@@ -70,18 +70,6 @@ Savoie
 
 |
 
-Montmélian
-
-|
-
-73
-
-|
-
-Savoie
-
-|
-
 Ontex
 
 |
@@ -119,18 +107,6 @@ Savoie
 |
 
 Thénésol
-
-|
-
-73
-
-|
-
-Savoie
-
-|
-
-Trévignin
 
 |
 
@@ -190,103 +166,7 @@ Haute-Savoie
 
 |
 
-Bluffy
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Boëge
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Bogève
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Brenthonne
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Brizon
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Burdignin
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Cervens
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Chainaz-les-Frasses
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Champanges
 
 |
 
@@ -310,90 +190,6 @@ Haute-Savoie
 
 |
 
-Chapeiry
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Chaumont
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Chavannaz
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Chevenoz
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Chilly
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Clarafond-Arcine
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Contamine-Sarzin
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Cusy
 
 |
@@ -406,103 +202,7 @@ Haute-Savoie
 
 |
 
-Draillant
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Duingt
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Eloise
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Entrevernes
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Etercy
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Evires
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Fessy
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Féternes
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-La Forclaz
 
 |
 
@@ -550,79 +250,7 @@ Haute-Savoie
 
 |
 
-Hauteville-sur-Fier
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Héry-sur-Alby
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Lathuile
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Leschaux
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Lugrin
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Lully
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Lyaud
 
 |
 
@@ -646,115 +274,7 @@ Haute-Savoie
 
 |
 
-Marcellaz-Albanais
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Marlioz
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Maxilly-sur-Léman
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Mégevette
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Meillerie
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Menthonnex-sous-Clermont
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Mésigny
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Minzier
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Mont-Saxonnex
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Mûres
 
 |
 
@@ -778,67 +298,7 @@ Haute-Savoie
 
 |
 
-Nâves-Parmelan
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Nonglard
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Les Ollières
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Orcier
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Peillonnex
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Perrignier
 
 |
 
@@ -874,42 +334,6 @@ Haute-Savoie
 
 |
 
-La Rivière-Enverse
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Saint-André-de-Boëge
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Saint-Eusèbe
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Saint-Eustache
 
 |
@@ -922,139 +346,7 @@ Haute-Savoie
 
 |
 
-Saint-Gingolph
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Saint-Jean-de-Tholome
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Saint-Paul-en-Chablais
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Saint-Sigismond
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Saint-Sylvestre
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Sallenôves
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Saxel
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Servoz
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Thollon-les-Mémises
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Thorens-Glières
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Thusy
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-La Tour
 
 |
 
@@ -1079,102 +371,6 @@ Haute-Savoie
 |
 
 Vailly
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Vaulx
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-La Vernaz
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Villard
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Les Villards-sur-Thônes
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Ville-en-Sallaz
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Vinzier
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Viuz-la-Chiésaz
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Viuz-en-Sallaz
 
 |
 
@@ -1666,18 +862,6 @@ Seine-et-Marne
 
 |
 
-Arbonne-la-Forêt
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Argentières
 
 |
@@ -1882,18 +1066,6 @@ Seine-et-Marne
 
 |
 
-Beauvoir
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Bellot
 
 |
@@ -2039,42 +1211,6 @@ Seine-et-Marne
 |
 
 Boulancourt
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Bouleurs
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Bourron-Marlotte
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Boutigny
 
 |
 
@@ -2338,18 +1474,6 @@ Seine-et-Marne
 
 |
 
-La Chapelle-la-Reine
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 La Chapelle-Rablais
 
 |
@@ -2374,31 +1498,7 @@ Seine-et-Marne
 
 |
 
-Les Chapelles-Bourbon
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 La Chapelle-Moutils
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Charmentray
 
 |
 
@@ -2458,18 +1558,6 @@ Seine-et-Marne
 
 |
 
-Le Châtelet-en-Brie
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Châtenay-sur-Seine
 
 |
@@ -2506,31 +1594,7 @@ Seine-et-Marne
 
 |
 
-Châtres
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Chauffry
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Chaumes-en-Brie
 
 |
 
@@ -2650,18 +1714,6 @@ Seine-et-Marne
 
 |
 
-Compans
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Congis-sur-Thérouanne
 
 |
@@ -2674,31 +1726,7 @@ Seine-et-Marne
 
 |
 
-Coubert
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Coulombs-en-Valois
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Coulommes
 
 |
 
@@ -2746,18 +1774,6 @@ Seine-et-Marne
 
 |
 
-Courquetaine
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Courtacon
 
 |
@@ -2783,18 +1799,6 @@ Seine-et-Marne
 |
 
 Coutençon
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Crèvecœur-en-Brie
 
 |
 
@@ -3058,43 +2062,7 @@ Seine-et-Marne
 
 |
 
-Evry-Grégy-sur-Yerre
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Favières
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Faÿ-lès-Nemours
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Féricy
 
 |
 
@@ -3155,18 +2123,6 @@ Seine-et-Marne
 |
 
 Fontenailles
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Fontenay-Trésigny
 
 |
 
@@ -3406,31 +2362,7 @@ Seine-et-Marne
 
 |
 
-Gressy
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Grez-sur-Loing
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Grisy-Suisnes
 
 |
 
@@ -3550,18 +2482,6 @@ Seine-et-Marne
 
 |
 
-La Houssaye-en-Brie
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Ichy
 
 |
@@ -3587,18 +2507,6 @@ Seine-et-Marne
 |
 
 Iverny
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Jablines
 
 |
 
@@ -3730,55 +2638,7 @@ Seine-et-Marne
 
 |
 
-Lesches
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Leudon-en-Brie
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Limoges-Fourches
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Lissy
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Liverdy-en-Brie
 
 |
 
@@ -3910,18 +2770,6 @@ Seine-et-Marne
 
 |
 
-Maincy
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Maisoncelles-en-Brie
 
 |
@@ -3994,18 +2842,6 @@ Seine-et-Marne
 
 |
 
-Marles-en-Brie
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Marolles-en-Brie
 
 |
@@ -4043,18 +2879,6 @@ Seine-et-Marne
 |
 
 Mauperthuis
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Mauregard
 
 |
 
@@ -4115,30 +2939,6 @@ Seine-et-Marne
 |
 
 Méry-sur-Marne
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Le Mesnil-Amelot
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Messy
 
 |
 
@@ -4330,18 +3130,6 @@ Seine-et-Marne
 
 |
 
-Montigny-sur-Loing
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Montmachoux
 
 |
@@ -4366,30 +3154,6 @@ Seine-et-Marne
 
 |
 
-Mormant
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Mortcerf
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Mortery
 
 |
@@ -4403,18 +3167,6 @@ Seine-et-Marne
 |
 
 Mousseaux-lès-Bray
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Moussy-le-Vieux
 
 |
 
@@ -4475,18 +3227,6 @@ Seine-et-Marne
 |
 
 Nantouillet
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Neufmoutiers-en-Brie
 
 |
 
@@ -4607,18 +3347,6 @@ Seine-et-Marne
 |
 
 Ormesson
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Ozouer-le-Voulgis
 
 |
 
@@ -4798,30 +3526,6 @@ Seine-et-Marne
 
 |
 
-Précy-sur-Marne
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Presles-en-Brie
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Puisieux
 
 |
@@ -4859,18 +3563,6 @@ Seine-et-Marne
 |
 
 Rebais
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Recloses
 
 |
 
@@ -5050,18 +3742,6 @@ Seine-et-Marne
 
 |
 
-Saint-Fiacre
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Saint-Germain-Laxis
 
 |
@@ -5146,18 +3826,6 @@ Seine-et-Marne
 
 |
 
-Saint-Mard
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Saint-Mars-Vieux-Maisons
 
 |
@@ -5231,18 +3899,6 @@ Seine-et-Marne
 |
 
 Saint-Ouen-sur-Morin
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Saint-Pathus
 
 |
 
@@ -5410,18 +4066,6 @@ Seine-et-Marne
 
 |
 
-Sivry-Courtry
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Sognolles-en-Montois
 
 |
@@ -5518,31 +4162,7 @@ Seine-et-Marne
 
 |
 
-Thieux
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Thoury-Férottes
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Tigeaux
 
 |
 
@@ -5603,18 +4223,6 @@ Seine-et-Marne
 |
 
 Treuzy-Levelay
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Trilbardou
 
 |
 
@@ -5794,18 +4402,6 @@ Seine-et-Marne
 
 |
 
-Vignely
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Villebéon
 
 |
@@ -5878,43 +4474,7 @@ Seine-et-Marne
 
 |
 
-Villeneuve-le-Comte
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
 Villeneuve-les-Bordes
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Villeneuve-Saint-Denis
-
-|
-
-77
-
-|
-
-Seine-et-Marne
-
-|
-
-Villeneuve-sous-Dammartin
 
 |
 
@@ -6118,91 +4678,7 @@ Yvelines
 
 |
 
-Adainville
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 Allainville
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Andelu
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Arnouville-lès-Mantes
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Auteuil
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Autouillet
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Bazainville
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Béhoust
 
 |
 
@@ -6226,33 +4702,15 @@ Yvelines
 
 |
 
-Boinville-en-Mantois
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 Boinville-le-Gaillard
 
 |
 
-78
+78 |
 
-|
+Yvelines |
 
-Yvelines
-
-|
-
-Boinvilliers
-
-|
+Boinvilliers |
 
 78
 
@@ -6286,79 +4744,7 @@ Yvelines
 
 |
 
-Boissy-sans-Avoir
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Bonnelles
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Bourdonné
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 Bréval
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Les Bréviaires
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Bullion
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-La Celle-les-Bordes
 
 |
 
@@ -6383,30 +4769,6 @@ Yvelines
 |
 
 Civry-la-Forêt
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Clairefontaine-en-Yvelines
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Condé-sur-Vesgre
 
 |
 
@@ -6454,31 +4816,7 @@ Yvelines
 
 |
 
-Dannemarie
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 Flacourt
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Flexanville
 
 |
 
@@ -6502,54 +4840,6 @@ Yvelines
 
 |
 
-Galluis
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Gambais
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Gambaiseuil
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Garancières
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 Gommecourt
 
 |
@@ -6562,91 +4852,7 @@ Yvelines
 
 |
 
-Goupillières
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Goussonville
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Grandchamp
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Gressey
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Grosrouvre
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Hargeville
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 La Hauteville
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Herbeville
 
 |
 
@@ -6671,18 +4877,6 @@ Yvelines
 |
 
 Jeufosse
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Jumeauville
 
 |
 
@@ -6730,66 +4924,6 @@ Yvelines
 
 |
 
-Longvilliers
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Marcq
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Mareil-sur-Mauldre
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Maulette
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Millemont
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 Mittainville
 
 |
@@ -6815,18 +4949,6 @@ Yvelines
 |
 
 Mondreville
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Montainville
 
 |
 
@@ -6898,18 +5020,6 @@ Yvelines
 
 |
 
-Orgerus
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 Orphin
 
 |
@@ -6935,18 +5045,6 @@ Yvelines
 |
 
 Orvilliers
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Osmoy
 
 |
 
@@ -7006,18 +5104,6 @@ Yvelines
 
 |
 
-Prunay-le-Temple
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 Prunay-en-Yvelines
 
 |
@@ -7030,67 +5116,7 @@ Yvelines
 
 |
 
-La Queue-les-Yvelines
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Richebourg
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Rochefort-en-Yvelines
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Rosay
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 Sailly
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Saint-Arnoult-en-Yvelines
 
 |
 
@@ -7150,18 +5176,6 @@ Yvelines
 
 |
 
-Saint-Martin-des-Champs
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 Sainte-Mesme
 
 |
@@ -7174,31 +5188,7 @@ Yvelines
 
 |
 
-Septeuil
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 Sonchamp
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Tacoignières
 
 |
 
@@ -7234,18 +5224,6 @@ Yvelines
 
 |
 
-Thoiry
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 Tilly
 
 |
@@ -7258,43 +5236,7 @@ Yvelines
 
 |
 
-Vieille-Eglise-en-Yvelines
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
 La Villeneuve-en-Chevrie
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Villette
-
-|
-
-78
-
-|
-
-Yvelines
-
-|
-
-Villiers-le-Mahieu
 
 |
 
@@ -7429,3 +5371,7 @@ Somme
 Caours
 
 |
+
+NOTA :
+
+Conformément à l’article 8 de l’arrêté du 5 juillet 2024 (NOR : TREL2418376A), pour le bénéfice des prêts ne portant pas intérêts mentionnés à l'article L. 31-10-1 du code de la construction et de l'habitation et des prêts garantis par l'Etat mentionnés au troisième alinéa de l'article L. 312-1 du même code, ces dispositions s'appliquent aux offres de prêts émises à compter du 26 juillet 2024.

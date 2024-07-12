@@ -682,18 +682,6 @@ Var
 
 |
 
-Garéoult
-
-|
-
-83
-
-|
-
-Var
-
-|
-
 Gonfaron
 
 |
@@ -754,42 +742,6 @@ Var
 
 |
 
-Pignans
-
-|
-
-83
-
-|
-
-Var
-
-|
-
-Plan-d’Aups-Sainte-Baume
-
-|
-
-83
-
-|
-
-Var
-
-|
-
-Puget-Ville
-
-|
-
-83
-
-|
-
-Var
-
-|
-
 Rians
 
 |
@@ -803,18 +755,6 @@ Var
 |
 
 Riboux
-
-|
-
-83
-
-|
-
-Var
-
-|
-
-Rocbaron
 
 |
 
@@ -850,31 +790,7 @@ Var
 
 |
 
-Saint-Paul-en-Forêt
-
-|
-
-83
-
-|
-
-Var
-
-|
-
 Le Thoronet
-
-|
-
-83
-
-|
-
-Var
-
-|
-
-Vinon-sur-Verdon
 
 |
 
@@ -958,31 +874,7 @@ Vaucluse
 
 |
 
-Saumane-de-Vaucluse
-
-|
-
-84
-
-|
-
-Vaucluse
-
-|
-
 Vacqueyras
-
-|
-
-85
-
-|
-
-Vendée
-
-|
-
-La Barre-de-Monts
 
 |
 
@@ -1018,30 +910,6 @@ Vendée
 
 |
 
-Jard-sur-Mer
-
-|
-
-85
-
-|
-
-Vendée
-
-|
-
-Notre-Dame-de-Monts
-
-|
-
-85
-
-|
-
-Vendée
-
-|
-
 Le Perrier
 
 |
@@ -1055,30 +923,6 @@ Vendée
 |
 
 Notre-Dame-de-Riez
-
-|
-
-85
-
-|
-
-Vendée
-
-|
-
-La Roche-sur-Yon
-
-|
-
-85
-
-|
-
-Vendée
-
-|
-
-Saint-Vincent-sur-Jard
 
 |
 
@@ -2062,18 +1906,6 @@ Essonne
 
 |
 
-Angervilliers
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
 Arrancourt
 
 |
@@ -2182,18 +2014,6 @@ Essonne
 
 |
 
-Bouville
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
 Brouy
 
 |
@@ -2266,43 +2086,7 @@ Essonne
 
 |
 
-Chauffour-lès-Etréchy
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
 Corbreuse
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
-Courances
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
-Dannemois
 
 |
 
@@ -2398,18 +2182,6 @@ Essonne
 
 |
 
-Maisse
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
 Marolles-en-Beauce
 
 |
@@ -2458,42 +2230,6 @@ Essonne
 
 |
 
-Milly-la-Forêt
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
-Moigny-sur-Ecole
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
-Mondeville
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
 Monnerville
 
 |
@@ -2506,31 +2242,7 @@ Essonne
 
 |
 
-Oncy-sur-Ecole
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
 Ormoy-la-Rivière
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
-Orveau
 
 |
 
@@ -2555,18 +2267,6 @@ Essonne
 |
 
 Prunay-sur-Essonne
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
-Puiselet-le-Marais
 
 |
 
@@ -2638,18 +2338,6 @@ Essonne
 
 |
 
-Saint-Cyr-sous-Dourdan
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
 Saint-Escobille
 
 |
@@ -2687,42 +2375,6 @@ Essonne
 |
 
 Congerville-Thionville
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
-Valpuiseaux
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
-Le Val-Saint-Germain
-
-|
-
-91
-
-|
-
-Essonne
-
-|
-
-Videlles
 
 |
 
@@ -2782,31 +2434,7 @@ Val-d’Oise
 
 |
 
-Arronville
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
 Arthies
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Avernes
 
 |
 
@@ -2831,30 +2459,6 @@ Val-d’Oise
 |
 
 Le Bellay-en-Vexin
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Bellefontaine
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Belloy-en-France
 
 |
 
@@ -2962,18 +2566,6 @@ Val-d’Oise
 
 |
 
-Châtenay-en-France
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
 Chaussy
 
 |
@@ -3010,30 +2602,6 @@ Val-d’Oise
 
 |
 
-Commeny
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Cormeilles-en-Vexin
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
 Epiais-Rhus
 
 |
@@ -3046,55 +2614,7 @@ Val-d’Oise
 
 |
 
-Epinay-Champlâtreux
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Frémécourt
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Gadancourt
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
 Genainville
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Gouzangrez
 
 |
 
@@ -3178,54 +2698,6 @@ Val-d’Oise
 
 |
 
-Jagny-sous-Bois
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Lassy
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Magny-en-Vexin
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Mareil-en-France
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
 Marines
 
 |
@@ -3239,18 +2711,6 @@ Val-d’Oise
 |
 
 Maudétour-en-Vexin
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Menouville
 
 |
 
@@ -3334,30 +2794,6 @@ Val-d’Oise
 
 |
 
-Le Perchay
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Le Plessis-Luzarches
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
 La Roche-Guyon
 
 |
@@ -3394,103 +2830,7 @@ Val-d’Oise
 
 |
 
-Saint-Martin-du-Tertre
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Santeuil
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Théméricourt
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Theuville
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Us
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Vigny
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Villaines-sous-Bois
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
 Villers-en-Arthies
-
-|
-
-95
-
-|
-
-Val-d’Oise
-
-|
-
-Villiers-le-Sec
 
 |
 
@@ -3682,18 +3022,6 @@ Corse-du-Sud
 
 |
 
-Calcatoggio
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
 Campo
 
 |
@@ -3706,31 +3034,7 @@ Corse-du-Sud
 
 |
 
-Cannelle
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
 Carbini
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
-Carbuccia
 
 |
 
@@ -3874,18 +3178,6 @@ Corse-du-Sud
 
 |
 
-Coti-Chiavari
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
 Cozzano
 
 |
@@ -3899,18 +3191,6 @@ Corse-du-Sud
 |
 
 Cristinacce
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
-Eccica-Suarella
 
 |
 
@@ -4067,18 +3347,6 @@ Corse-du-Sud
 |
 
 Levie
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
-Lopigna
 
 |
 
@@ -4450,18 +3718,6 @@ Corse-du-Sud
 
 |
 
-Serra-di-Ferro
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
 Serra-di-Scopamène
 
 |
@@ -4523,18 +3779,6 @@ Corse-du-Sud
 |
 
 Sotta
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
-Sant’Andréa-d’Orcino
 
 |
 
@@ -4654,18 +3898,6 @@ Corse-du-Sud
 
 |
 
-Vero
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
 Vico
 
 |
@@ -4727,18 +3959,6 @@ Corse-du-Sud
 |
 
 Zigliara
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
-Zonza
 
 |
 
@@ -5314,18 +4534,6 @@ Haute-Corse
 
 |
 
-Corte
-
-|
-
-2B
-
-|
-
-Haute-Corse
-
-|
-
 Costa
 
 |
@@ -5387,18 +4595,6 @@ Haute-Corse
 |
 
 Ersa
-
-|
-
-2B
-
-|
-
-Haute-Corse
-
-|
-
-Farinole
 
 |
 
@@ -5494,18 +4690,6 @@ Haute-Corse
 
 |
 
-Ghisonaccia
-
-|
-
-2B
-
-|
-
-Haute-Corse
-
-|
-
 Ghisoni
 
 |
@@ -5543,18 +4727,6 @@ Haute-Corse
 |
 
 Isolaccio-di-Fiumorbo
-
-|
-
-2B
-
-|
-
-Haute-Corse
-
-|
-
-Lama
 
 |
 
@@ -5938,30 +5110,6 @@ Haute-Corse
 
 |
 
-Olcani
-
-|
-
-2B
-
-|
-
-Haute-Corse
-
-|
-
-Oletta
-
-|
-
-2B
-
-|
-
-Haute-Corse
-
-|
-
 Olmeta-di-Capocorso
 
 |
@@ -6250,18 +5398,6 @@ Haute-Corse
 
 |
 
-Pietracorbara
-
-|
-
-2B
-
-|
-
-Haute-Corse
-
-|
-
 Pietra-di-Verde
 
 |
@@ -6467,18 +5603,6 @@ Haute-Corse
 |
 
 Prunelli-di-Casacconi
-
-|
-
-2B
-
-|
-
-Haute-Corse
-
-|
-
-Prunelli-di-Fiumorbo
 
 |
 
@@ -6790,18 +5914,6 @@ Haute-Corse
 
 |
 
-Saint-Florent
-
-|
-
-2B
-
-|
-
-Haute-Corse
-
-|
-
 San-Gavino-d’Ampugnani
 
 |
@@ -6875,18 +5987,6 @@ Haute-Corse
 |
 
 Santa-Maria-Poggio
-
-|
-
-2B
-
-|
-
-Haute-Corse
-
-|
-
-San-Nicolao
 
 |
 
@@ -7243,3 +6343,5 @@ C Reste du territoire
 NOTA :
 
 (1) Supprimé par l'arrêté du 16 février 2022 ( LOGL2203825A ) à compter du 21 février 2022.
+
+Conformément à l’article 8 de l’arrêté du 5 juillet 2024 (NOR : TREL2418376A), pour le bénéfice des prêts ne portant pas intérêts mentionnés à l'article L. 31-10-1 du code de la construction et de l'habitation et des prêts garantis par l'Etat mentionnés au troisième alinéa de l'article L. 312-1 du même code, ces dispositions s'appliquent aux offres de prêts émises à compter du 26 juillet 2024.

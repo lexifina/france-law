@@ -1450,18 +1450,6 @@ Eure-et-Loir
 
 |
 
-Champagne
-
-|
-
-28
-
-|
-
-Eure-et-Loir
-
-|
-
 Champseru
 
 |
@@ -1738,18 +1726,6 @@ Eure-et-Loir
 
 |
 
-Goussainville
-
-|
-
-28
-
-|
-
-Eure-et-Loir
-
-|
-
 Guainville
 
 |
@@ -1871,18 +1847,6 @@ Eure-et-Loir
 |
 
 Luray
-
-|
-
-28
-
-|
-
-Eure-et-Loir
-
-|
-
-Maintenon
 
 |
 
@@ -2470,18 +2434,6 @@ Finistère
 
 |
 
-Bénodet
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
 Bohars
 
 |
@@ -2530,31 +2482,7 @@ Finistère
 
 |
 
-La Forêt-Fouesnant
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
 Gouesnach
-
-|
-
-29
-
-|
-
-Finistère
-
-|
-
-Gouesnou
 
 |
 
@@ -2878,18 +2806,6 @@ Gard
 
 |
 
-Bellegarde
-
-|
-
-30
-
-|
-
-Gard
-
-|
-
 Boisset-et-Gaujac
 
 |
@@ -2927,18 +2843,6 @@ Gard
 |
 
 Clarensac
-
-|
-
-30
-
-|
-
-Gard
-
-|
-
-Laudun-l’Ardoise
 
 |
 
@@ -3035,18 +2939,6 @@ Gard
 |
 
 Saint-Julien-les-Rosiers
-
-|
-
-30
-
-|
-
-Gard
-
-|
-
-Saint-Laurent-d’Aigouze
 
 |
 
@@ -3202,18 +3094,6 @@ Gironde
 
 |
 
-Lanton
-
-|
-
-33
-
-|
-
-Gironde
-
-|
-
 Pineuilh
 
 |
@@ -3227,18 +3107,6 @@ Gironde
 |
 
 Pomerol
-
-|
-
-33
-
-|
-
-Gironde
-
-|
-
-Saint-André-de-Cubzac
 
 |
 
@@ -3338,18 +3206,6 @@ Saint-Sulpice-de-Faleyrens
 
 |
 
-33
-
-|
-
-Gironde
-
-|
-
-Marcheprime
-
-|
-
 34
 
 |
@@ -3371,30 +3227,6 @@ Hérault
 |
 
 Boujan-sur-Libron
-
-|
-
-34
-
-|
-
-Hérault
-
-|
-
-Bouzigues
-
-|
-
-34
-
-|
-
-Hérault
-
-|
-
-Candillargues
 
 |
 
@@ -3502,43 +3334,7 @@ Hérault
 
 |
 
-Mudaison
-
-|
-
-34
-
-|
-
-Hérault
-
-|
-
-Poussan
-
-|
-
-34
-
-|
-
-Hérault
-
-|
-
 Valergues
-
-|
-
-34
-
-|
-
-Hérault
-
-|
-
-Vendres
 
 |
 
@@ -3575,18 +3371,6 @@ Ille-et-Vilaine
 |
 
 Brécé
-
-|
-
-35
-
-|
-
-Ille-et-Vilaine
-
-|
-
-Cancale
 
 |
 
@@ -3742,18 +3526,6 @@ Ille-et-Vilaine
 
 |
 
-Noyal-sur-Vilaine
-
-|
-
-35
-
-|
-
-Ille-et-Vilaine
-
-|
-
 Parthenay-de-Bretagne
 
 |
@@ -3767,18 +3539,6 @@ Ille-et-Vilaine
 |
 
 Plerguer
-
-|
-
-35
-
-|
-
-Ille-et-Vilaine
-
-|
-
-Pleurtuit
 
 |
 
@@ -3826,18 +3586,6 @@ Ille-et-Vilaine
 
 |
 
-Saint-Briac-sur-Mer
-
-|
-
-35
-
-|
-
-Ille-et-Vilaine
-
-|
-
 Saint-Coulomb
 
 |
@@ -3863,30 +3611,6 @@ Ille-et-Vilaine
 |
 
 Saint-Jouan-des-Guérets
-
-|
-
-35
-
-|
-
-Ille-et-Vilaine
-
-|
-
-Saint-Lunaire
-
-|
-
-35
-
-|
-
-Ille-et-Vilaine
-
-|
-
-Saint-Méloir-des-Ondes
 
 |
 
@@ -4102,18 +3826,6 @@ Indre-et-Loire
 
 |
 
-Monts
-
-|
-
-37
-
-|
-
-Indre-et-Loire
-
-|
-
 Noizay
 
 |
@@ -4235,18 +3947,6 @@ Isère
 |
 
 Le Péage-de-Roussillon
-
-|
-
-38
-
-|
-
-Isère
-
-|
-
-Pontcharra
 
 |
 
@@ -4390,30 +4090,6 @@ Isère
 
 |
 
-Satolas-et-Bonce
-
-|
-
-38
-
-|
-
-Isère
-
-|
-
-Seyssuel
-
-|
-
-38
-
-|
-
-Isère
-
-|
-
 La Tour-du-Pin
 
 |
@@ -4546,18 +4222,6 @@ Jura
 
 |
 
-Les Rousses
-
-|
-
-39
-
-|
-
-Jura
-
-|
-
 Villette-lès-Dole
 
 |
@@ -4631,18 +4295,6 @@ Landes
 |
 
 Saint-Vincent-de-Paul
-
-|
-
-40
-
-|
-
-Landes
-
-|
-
-Sanguinet
 
 |
 
@@ -5470,18 +5122,6 @@ Loire
 
 |
 
-Saint-Priest-en-Jarez
-
-|
-
-42
-
-|
-
-Loire
-
-|
-
 Saint-Just-Saint-Rambert
 
 |
@@ -5519,18 +5159,6 @@ Loire
 |
 
 Sury-le-Comtal
-
-|
-
-42
-
-|
-
-Loire
-
-|
-
-La Talaudière
 
 |
 
@@ -5662,18 +5290,6 @@ Loire-Atlantique
 
 |
 
-Ancenis
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
 Assérac
 
 |
@@ -5722,55 +5338,7 @@ Loire-Atlantique
 
 |
 
-Clisson
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
-Grandchamps-des-Fontaines
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
-La Haie-Fouassière
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
 Herbignac
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
-Mesquer
 
 |
 
@@ -5806,43 +5374,7 @@ Loire-Atlantique
 
 |
 
-Piriac-sur-Mer
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
-La Plaine-sur-Mer
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
 Pontchâteau
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
-Préfailles
 
 |
 
@@ -5890,67 +5422,7 @@ Loire-Atlantique
 
 |
 
-Saint-Mars-du-Désert
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
 Saint-Molf
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
-Savenay
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
-Sucé-sur-Erdre
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
-Treillières
-
-|
-
-44
-
-|
-
-Loire-Atlantique
-
-|
-
-Vigneux-de-Bretagne
 
 |
 
@@ -6430,31 +5902,7 @@ Maine-et-Loire
 
 |
 
-Beaucouzé
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
 Béhuard
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
-Bouchemaine
 
 |
 
@@ -6491,18 +5939,6 @@ Maine-et-Loire
 |
 
 Chanteloup-les-Bois
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
-Ecouflant
 
 |
 
@@ -6586,43 +6022,7 @@ Maine-et-Loire
 
 |
 
-Montreuil-Juigné
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
-Mûrs-Erigné
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
 Nuaillé
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
-Pellouailles-les-Vignes
 
 |
 
@@ -6670,18 +6070,6 @@ Maine-et-Loire
 
 |
 
-Saint-Barthélemy-d’Anjou
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
 Saint-Christophe-du-Bois
 
 |
@@ -6695,18 +6083,6 @@ Maine-et-Loire
 |
 
 Saint-Clément-de-la-Place
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
-Sainte-Gemmes-sur-Loire
 
 |
 
@@ -6767,18 +6143,6 @@ Maine-et-Loire
 |
 
 Saint-Martin-du-Fouilloux
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
-Saint-Sylvain-d’Anjou
 
 |
 
@@ -6958,54 +6322,6 @@ Manche
 
 |
 
-Cherbourg-Octeville
-
-|
-
-50
-
-|
-
-Manche
-
-|
-
-Donville-les-Bains
-
-|
-
-50
-
-|
-
-Manche
-
-|
-
-Equeurdreville-Hainneville
-
-|
-
-50
-
-|
-
-Manche
-
-|
-
-La Glacerie
-
-|
-
-50
-
-|
-
-Manche
-
-|
-
 Longueville
 
 |
@@ -7019,18 +6335,6 @@ Manche
 |
 
 Martinvast
-
-|
-
-50
-
-|
-
-Manche
-
-|
-
-Querqueville
 
 |
 
@@ -7066,31 +6370,7 @@ Manche
 
 |
 
-Saint-Pair-sur-Mer
-
-|
-
-50
-
-|
-
-Manche
-
-|
-
 Tollevast
-
-|
-
-50
-
-|
-
-Manche
-
-|
-
-Tourlaville
 
 |
 
@@ -7390,78 +6670,10 @@ Marne
 
 |
 
-Witry-lès-Reims
-
-|
-
-51
-
-|
-
-Marne
-
-|
-
 Magenta
 
 |
 
-53
+NOTA :
 
-|
-
-Mayenne
-
-|
-
-Bonchamp-lès-Laval
-
-|
-
-53
-
-|
-
-Mayenne
-
-|
-
-Changé
-
-|
-
-53
-
-|
-
-Mayenne
-
-|
-
-L’Huisserie
-
-|
-
-53
-
-|
-
-Mayenne
-
-|
-
-Laval
-
-|
-
-53
-
-|
-
-Mayenne
-
-|
-
-Louverné
-
-|
+Conformément à l’article 8 de l’arrêté du 5 juillet 2024 (NOR : TREL2418376A), pour le bénéfice des prêts ne portant pas intérêts mentionnés à l'article L. 31-10-1 du code de la construction et de l'habitation et des prêts garantis par l'Etat mentionnés au troisième alinéa de l'article L. 312-1 du même code, ces dispositions s'appliquent aux offres de prêts émises à compter du 26 juillet 2024.

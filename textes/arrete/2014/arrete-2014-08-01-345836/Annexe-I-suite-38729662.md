@@ -202,18 +202,6 @@ Oise
 
 |
 
-Montagny-Sainte-Félicité
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
 Montherlant
 
 |
@@ -227,18 +215,6 @@ Oise
 |
 
 Montjavoult
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
-Montlognon
 
 |
 
@@ -298,31 +274,7 @@ Oise
 
 |
 
-Mortefontaine
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
 Mortefontaine-en-Thelle
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
-Nanteuil-le-Haudouin
 
 |
 
@@ -514,43 +466,7 @@ Oise
 
 |
 
-Plailly
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
-Le Plessis-Belleville
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
 Ponchon
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
-Pontarmé
 
 |
 
@@ -934,18 +850,6 @@ Oise
 
 |
 
-Silly-le-Long
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
 Silly-Tillard
 
 |
@@ -983,18 +887,6 @@ Oise
 |
 
 Thibivillers
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
-Thiers-sur-Thève
 
 |
 
@@ -1150,31 +1042,7 @@ Oise
 
 |
 
-Ver-sur-Launette
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
 Verderel-lès-Sauqueuse
-
-|
-
-60
-
-|
-
-Oise
-
-|
-
-Versigny
 
 |
 
@@ -1654,18 +1522,6 @@ Pas-de-Calais
 
 |
 
-Boulogne-sur-Mer
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
 Bouvigny-Boyeffles
 
 |
@@ -1726,18 +1582,6 @@ Pas-de-Calais
 
 |
 
-Calais
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
 Calonne-Ricouart
 
 |
@@ -1763,18 +1607,6 @@ Pas-de-Calais
 |
 
 Cambrin
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
-Camiers
 
 |
 
@@ -3334,18 +3166,6 @@ Pas-de-Calais
 
 |
 
-Sangatte
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
 Serques
 
 |
@@ -3622,18 +3442,6 @@ Pas-de-Calais
 
 |
 
-Wimereux
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
 Wimille
 
 |
@@ -3731,18 +3539,6 @@ Puy-de-Dôme
 |
 
 Le Cendre
-
-|
-
-63
-
-|
-
-Puy-de-Dôme
-
-|
-
-Ceyrat
 
 |
 
@@ -3899,30 +3695,6 @@ Puy-de-Dôme
 |
 
 Riom
-
-|
-
-63
-
-|
-
-Puy-de-Dôme
-
-|
-
-Romagnat
-
-|
-
-63
-
-|
-
-Puy-de-Dôme
-
-|
-
-Royat
 
 |
 
@@ -4870,18 +4642,6 @@ Pyrénées-Orientales
 
 |
 
-Banyuls-sur-Mer
-
-|
-
-66
-
-|
-
-Pyrénées-Orientales
-
-|
-
 Bompas
 
 |
@@ -4895,18 +4655,6 @@ Pyrénées-Orientales
 |
 
 Le Boulou
-
-|
-
-66
-
-|
-
-Pyrénées-Orientales
-
-|
-
-Cabestany
 
 |
 
@@ -4943,18 +4691,6 @@ Pyrénées-Orientales
 |
 
 Claira
-
-|
-
-66
-
-|
-
-Pyrénées-Orientales
-
-|
-
-Collioure
 
 |
 
@@ -5074,18 +4810,6 @@ Pyrénées-Orientales
 
 |
 
-Port-Vendres
-
-|
-
-66
-
-|
-
-Pyrénées-Orientales
-
-|
-
 Rivesaltes
 
 |
@@ -5170,18 +4894,6 @@ Pyrénées-Orientales
 
 |
 
-Saleilles
-
-|
-
-66
-
-|
-
-Pyrénées-Orientales
-
-|
-
 Le Soler
 
 |
@@ -5207,18 +4919,6 @@ Pyrénées-Orientales
 |
 
 Thuir
-
-|
-
-66
-
-|
-
-Pyrénées-Orientales
-
-|
-
-Torreilles
 
 |
 
@@ -5291,30 +4991,6 @@ Bas-Rhin
 |
 
 Baldenheim
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
-Barr
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
-Benfeld
 
 |
 
@@ -5470,30 +5146,6 @@ Bas-Rhin
 
 |
 
-Drusenheim
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
-Duppigheim
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
 Duttlenheim
 
 |
@@ -5554,31 +5206,7 @@ Bas-Rhin
 
 |
 
-Ernolsheim-Bruche
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
 Erstein
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
-Gambsheim
 
 |
 
@@ -5638,18 +5266,6 @@ Bas-Rhin
 
 |
 
-Hœrdt
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
 Innenheim
 
 |
@@ -5663,18 +5279,6 @@ Bas-Rhin
 |
 
 Kaltenhouse
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
-Kilstett
 
 |
 
@@ -5746,18 +5350,6 @@ Bas-Rhin
 
 |
 
-Marlenheim
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
 Meistratzheim
 
 |
@@ -5794,18 +5386,6 @@ Bas-Rhin
 
 |
 
-Molsheim
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
 Mommenheim
 
 |
@@ -5831,18 +5411,6 @@ Bas-Rhin
 |
 
 Muttersholtz
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
-Mutzig
 
 |
 
@@ -5962,18 +5530,6 @@ Bas-Rhin
 
 |
 
-Rosheim
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
 Rottelsheim
 
 |
@@ -6011,30 +5567,6 @@ Bas-Rhin
 |
 
 Scherwiller
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
-Schweighouse-sur-Moder
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
-Sélestat
 
 |
 
@@ -6106,18 +5638,6 @@ Bas-Rhin
 
 |
 
-Wasselonne
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
 Wissembourg
 
 |
@@ -6155,18 +5675,6 @@ Haut-Rhin
 |
 
 Baldersheim
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Bartenheim
 
 |
 
@@ -6238,31 +5746,7 @@ Haut-Rhin
 
 |
 
-Blotzheim
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
 Bollwiller
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Brunstatt
 
 |
 
@@ -6286,43 +5770,7 @@ Haut-Rhin
 
 |
 
-Buschwiller
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
 Dannemarie
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Didenheim
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Ensisheim
 
 |
 
@@ -6370,55 +5818,7 @@ Haut-Rhin
 
 |
 
-Habsheim
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Hégenheim
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
 Herrlisheim-près-Colmar
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Hésingue
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Horbourg-Wihr
 
 |
 
@@ -6466,18 +5866,6 @@ Haut-Rhin
 
 |
 
-Ingersheim
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
 Issenheim
 
 |
@@ -6491,30 +5879,6 @@ Haut-Rhin
 |
 
 Jebsheim
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Kaysersberg
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Kembs
 
 |
 
@@ -6670,18 +6034,6 @@ Haut-Rhin
 
 |
 
-Ribeauvillé
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
 Richwiller
 
 |
@@ -6754,30 +6106,6 @@ Haut-Rhin
 
 |
 
-Rosenau
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Rouffach
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
 Ruelisheim
 
 |
@@ -6803,30 +6131,6 @@ Haut-Rhin
 |
 
 Saint-Hippolyte
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Sausheim
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Sierentz
 
 |
 
@@ -6910,18 +6214,6 @@ Haut-Rhin
 
 |
 
-Turckheim
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
 Uffholtz
 
 |
@@ -6947,18 +6239,6 @@ Haut-Rhin
 |
 
 Vieux-Thann
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Village-Neuf
 
 |
 
@@ -7006,30 +6286,6 @@ Haut-Rhin
 
 |
 
-Wintzenheim
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Wittelsheim
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
 Zellenberg
 
 |
@@ -7055,18 +6311,6 @@ Rhône
 |
 
 Ampuis
-
-|
-
-69
-
-|
-
-Rhône
-
-|
-
-Condrieu
 
 |
 
@@ -7610,18 +6854,8 @@ Yvré-l’Evêque
 
 |
 
-73
-
-|
-
-Savoie
-
-|
-
-Albens
-
-|
-
 NOTA :
 
 (1) Supprimé par l'arrêté du 16 février 2022 ( LOGL2203825A ) à compter du 21 février 2022.
+
+Conformément à l’article 8 de l’arrêté du 5 juillet 2024 (NOR : TREL2418376A), pour le bénéfice des prêts ne portant pas intérêts mentionnés à l'article L. 31-10-1 du code de la construction et de l'habitation et des prêts garantis par l'Etat mentionnés au troisième alinéa de l'article L. 312-1 du même code, ces dispositions s'appliquent aux offres de prêts émises à compter du 26 juillet 2024.

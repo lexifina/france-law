@@ -58,18 +58,6 @@ Ain
 
 |
 
-Bellegarde-sur-Valserine
-
-|
-
-01
-
-|
-
-Ain
-
-|
-
 Bressolles
 
 |
@@ -83,18 +71,6 @@ Ain
 |
 
 Chézery-Forens
-
-|
-
-01
-
-|
-
-Ain
-
-|
-
-Civrieux
 
 |
 
@@ -130,18 +106,6 @@ Ain
 
 |
 
-Lancrans
-
-|
-
-01
-
-|
-
-Ain
-
-|
-
 Lélex
 
 |
@@ -154,55 +118,7 @@ Ain
 
 |
 
-Massieux
-
-|
-
-01
-
-|
-
-Ain
-
-|
-
-Meximieux
-
-|
-
-01
-
-|
-
-Ain
-
-|
-
 Mijoux
-
-|
-
-01
-
-|
-
-Ain
-
-|
-
-Mionnay
-
-|
-
-01
-
-|
-
-Ain
-
-|
-
-Misérieux
 
 |
 
@@ -287,18 +203,6 @@ Ain
 |
 
 Rancé
-
-|
-
-01
-
-|
-
-Ain
-
-|
-
-Saint-André-de-Corcy
 
 |
 
@@ -419,30 +323,6 @@ Ain
 |
 
 Toussieux
-
-|
-
-01
-
-|
-
-Ain
-
-|
-
-Tramoyes
-
-|
-
-01
-
-|
-
-Ain
-
-|
-
-Villars-les-Dombes
 
 |
 
@@ -1522,43 +1402,7 @@ Alpes-de-Haute-Provence
 
 |
 
-Forcalquier
-
-|
-
-04
-
-|
-
-Alpes-de-Haute-Provence
-
-|
-
-Gréoux-les-Bains
-
-|
-
-04
-
-|
-
-Alpes-de-Haute-Provence
-
-|
-
 Mane
-
-|
-
-04
-
-|
-
-Alpes-de-Haute-Provence
-
-|
-
-Manosque
 
 |
 
@@ -1595,18 +1439,6 @@ Alpes-de-Haute-Provence
 |
 
 Peyruis
-
-|
-
-04
-
-|
-
-Alpes-de-Haute-Provence
-
-|
-
-Pierrevert
 
 |
 
@@ -1702,31 +1534,7 @@ Alpes-Maritimes
 
 |
 
-Bendejun
-
-|
-
-06
-
-|
-
-Alpes-Maritimes
-
-|
-
 Bézaudun-les-Alpes
-
-|
-
-06
-
-|
-
-Alpes-Maritimes
-
-|
-
-Blausasc
 
 |
 
@@ -1763,18 +1571,6 @@ Alpes-Maritimes
 |
 
 Breil-sur-Roya
-
-|
-
-06
-
-|
-
-Alpes-Maritimes
-
-|
-
-Castillon
 
 |
 
@@ -1966,30 +1762,6 @@ Alpes-Maritimes
 
 |
 
-Peillon
-
-|
-
-06
-
-|
-
-Alpes-Maritimes
-
-|
-
-Revest-les-Roches
-
-|
-
-06
-
-|
-
-Alpes-Maritimes
-
-|
-
 Roquestéron-Grasse
 
 |
@@ -2087,18 +1859,6 @@ Ardèche
 |
 
 Saint-Jean-de-Muzols
-
-|
-
-07
-
-|
-
-Ardèche
-
-|
-
-Saint-Péray
 
 |
 
@@ -2698,127 +2458,7 @@ Bouches-du-Rhône
 
 |
 
-Aurons
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Barbentane
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Les Baux-de-Provence
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Cabannes
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
 Eygalières
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Eyguières
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Eyragues
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Fontvieille
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Graveson
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Jouques
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Lamanon
 
 |
 
@@ -2842,43 +2482,7 @@ Bouches-du-Rhône
 
 |
 
-Mallemort
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
 Mollégès
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Mouriès
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Noves
 
 |
 
@@ -2902,55 +2506,7 @@ Bouches-du-Rhône
 
 |
 
-Paradou
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
 Plan-d’Orgon
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Puyloubier
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Rognonas
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-La Roque-d’Anthéron
 
 |
 
@@ -2974,18 +2530,6 @@ Bouches-du-Rhône
 
 |
 
-Saint-Antonin-sur-Bayon
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
 Saint-Paul-lès-Durance
 
 |
@@ -2998,31 +2542,7 @@ Bouches-du-Rhône
 
 |
 
-Sénas
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
 Vauvenargues
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Vernègues
 
 |
 
@@ -3154,42 +2674,6 @@ Calvados
 
 |
 
-Blainville-sur-Orne
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
-Blonville-sur-Mer
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
-Bonneville-sur-Touques
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
 Bretteville-l’Orgueilleuse
 
 |
@@ -3286,30 +2770,6 @@ Calvados
 
 |
 
-Dives-sur-Mer
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
-Douvres-la-Délivrande
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
 Equemauville
 
 |
@@ -3358,31 +2818,7 @@ Calvados
 
 |
 
-Giberville
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
 Gonneville-sur-Honfleur
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
-Hermanville-sur-Mer
 
 |
 
@@ -3418,31 +2854,7 @@ Calvados
 
 |
 
-Luc-sur-Mer
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
 Mathieu
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
-Merville-Franceville-Plage
 
 |
 
@@ -3502,18 +2914,6 @@ Calvados
 
 |
 
-Pont-l’Evêque
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
 La Rivière-Saint-Sauveur
 
 |
@@ -3538,31 +2938,7 @@ Calvados
 
 |
 
-Saint-Arnoult
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
 Saint-Aubin-d’Arquenay
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
-Saint-Aubin-sur-Mer
 
 |
 
@@ -3599,30 +2975,6 @@ Calvados
 |
 
 Sannerville
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
-Touques
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
-Tourgéville
 
 |
 
@@ -3671,18 +3023,6 @@ Calvados
 |
 
 Villons-les-Buissons
-
-|
-
-16
-
-|
-
-Charente
-
-|
-
-Angoulême
 
 |
 
@@ -4030,18 +3370,6 @@ Charente-Maritime
 
 |
 
-Dolus-d’Oléron
-
-|
-
-17
-
-|
-
-Charente-Maritime
-
-|
-
 Echillais
 
 |
@@ -4282,18 +3610,6 @@ Charente-Maritime
 
 |
 
-Sainte-Soulle
-
-|
-
-17
-
-|
-
-Charente-Maritime
-
-|
-
 Saint-Sulpice-de-Royan
 
 |
@@ -4319,18 +3635,6 @@ Charente-Maritime
 |
 
 Saint-Vivien
-
-|
-
-17
-
-|
-
-Charente-Maritime
-
-|
-
-Saint-Xandre
 
 |
 
@@ -4630,67 +3934,7 @@ Corrèze
 
 |
 
-Brive-la-Gaillarde
-
-|
-
-19
-
-|
-
-Corrèze
-
-|
-
 Larche
-
-|
-
-19
-
-|
-
-Corrèze
-
-|
-
-Malemort-sur-Corrèze
-
-|
-
-19
-
-|
-
-Corrèze
-
-|
-
-Saint-Pantaléon-de-Larche
-
-|
-
-19
-
-|
-
-Corrèze
-
-|
-
-Ussac
-
-|
-
-21
-
-|
-
-Côte-d’Or
-
-|
-
-Ahuy
 
 |
 
@@ -4822,18 +4066,6 @@ Côtes-d’Armor
 
 |
 
-Lancieux
-
-|
-
-22
-
-|
-
-Côtes-d’Armor
-
-|
-
 Langueux
 
 |
@@ -4847,18 +4079,6 @@ Côtes-d’Armor
 |
 
 Lannion
-
-|
-
-22
-
-|
-
-Côtes-d’Armor
-
-|
-
-Léhon
 
 |
 
@@ -5051,18 +4271,6 @@ Côtes-d’Armor
 |
 
 Rospez
-
-|
-
-22
-
-|
-
-Côtes-d’Armor
-
-|
-
-Saint-Brieuc
 
 |
 
@@ -6274,18 +5482,6 @@ Doubs
 
 |
 
-Métabief
-
-|
-
-25
-
-|
-
-Doubs
-
-|
-
 Miserey-Salines
 
 |
@@ -6335,18 +5531,6 @@ Doubs
 |
 
 Morre
-
-|
-
-25
-
-|
-
-Doubs
-
-|
-
-Morteau
 
 |
 
@@ -6790,18 +5974,6 @@ Drôme
 
 |
 
-Chatuzange-le-Goubet
-
-|
-
-26
-
-|
-
-Drôme
-
-|
-
 Etoile-sur-Rhône
 
 |
@@ -6922,31 +6094,7 @@ Drôme
 
 |
 
-Portes-lès-Valence
-
-|
-
-26
-
-|
-
-Drôme
-
-|
-
 Romans-sur-Isère
-
-|
-
-26
-
-|
-
-Drôme
-
-|
-
-Saint-Marcel-lès-Valence
 
 |
 
@@ -7445,3 +6593,5 @@ Croth
 NOTA :
 
 (1) Supprimé par l'arrêté du 16 février 2022 ( LOGL2203825A ) à compter du 21 février 2022.
+
+Conformément à l’article 8 de l’arrêté du 5 juillet 2024 (NOR : TREL2418376A), pour le bénéfice des prêts ne portant pas intérêts mentionnés à l'article L. 31-10-1 du code de la construction et de l'habitation et des prêts garantis par l'Etat mentionnés au troisième alinéa de l'article L. 312-1 du même code, ces dispositions s'appliquent aux offres de prêts émises à compter du 26 juillet 2024.
