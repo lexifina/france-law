@@ -30,9 +30,9 @@ Le dossier présenté par le candidat ne fait pas l'objet d'une notation.
 
 L'exposé est suivi d'un entretien avec le jury qui comporte des mises en situation permettant d'évaluer la capacité du candidat à réagir face à des situations professionnelles concrètes et son aptitude au management d'équipes pluricatégorielles.
 
-Cet entretien doit permettre au jury d'apprécier les aptitudes et la motivation du candidat à exercer les missions et les responsabilités qui sont confiées aux personnels de direction en établissement public local d'enseignement.
+Cet entretien doit permettre au jury d'apprécier les aptitudes et la motivation du candidat à exercer les missions et les responsabilités qui sont confiées aux personnels de direction en établissement public local d'enseignement. Il permet enfin de vérifier la capacité du candidat à incarner et garantir, dans l'exercice des fonctions auxquelles il se destine, le respect des valeurs de la République, dont la laïcité.
 
-Durée de l'exposé : dix minutes maximum. Il permet enfin de vérifier la capacité du candidat à incarner et garantir, dans l'exercice des fonctions auxquelles il se destine, le respect des valeurs de la République, dont la laïcité.
+Durée de l'exposé : dix minutes maximum.
 
 Durée de l'entretien : cinquante minutes maximum.
 

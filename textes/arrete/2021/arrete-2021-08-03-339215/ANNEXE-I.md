@@ -20,10 +20,10 @@ Elle débute par un exposé du candidat portant sur son parcours professionnel e
 
 Cet entretien comporte des mises en situation. Il doit permettre au jury d'apprécier les motivations et les capacités de réflexion du candidat, notamment en matière de gestion des ressources humaines et de déontologie.
 
-L'entretien permet également d'évaluer les compétences managériales du candidat ainsi que son aptitude à mettre en œuvre des réformes.
+L'entretien permet également d'évaluer les compétences managériales du candidat ainsi que son aptitude à mettre en œuvre des réformes. Il permet enfin de vérifier la capacité du candidat à incarner et garantir, dans l'exercice des fonctions auxquelles il se destine, le respect des valeurs de la République, dont la laïcité.
 
 Durée de l'exposé : dix minutes maximum.
 
-Durée de l'entretien : cinquante minutes maximum. Il permet enfin de vérifier la capacité du candidat à incarner et garantir, dans l'exercice des fonctions auxquelles il se destine, le respect des valeurs de la République, dont la laïcité.
+Durée de l'entretien : cinquante minutes maximum.
 
 Coefficient 2.
