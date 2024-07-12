@@ -229,3 +229,7 @@ Montpellier-Beyrouth (Liban) ;
 Nice-Beyrouth (Liban) ;
 
 Toulon-Alger (Algérie).
+
+Jusqu'au 31 juillet 2029 :
+
+Nice-Alger (Algérie).
