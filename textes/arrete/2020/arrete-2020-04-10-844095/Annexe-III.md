@@ -2757,3 +2757,5 @@ Calcul d'excédent - Refroidissement (Climaticien - Frigoriste)
 La température de référence retenue pour les DJChauf (chauffage) et les DJRefroid (refroidissement) est 18 °C, d'où les références en DJ18.
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=tT8Pn_noNUJrtHX0hN35x0kDKsw--9F4cO5LbLBvIoE=
+
+Conformément à au II de l'article 2 de l'arrêté du 5 juillet 2024 (NOR : TREL2412391A), la partie située entre les mots : " Valeur de la part chauffage CVC " et la fin de l'annexe III est remplacée par l'annexe II dudit arrêté. Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=0gWqprsKqZcRM9PXD42fpNw8THC9Ur0eP8vGw73cWt4=
