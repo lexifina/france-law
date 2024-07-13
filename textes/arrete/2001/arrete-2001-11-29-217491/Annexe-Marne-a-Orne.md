@@ -382,93 +382,65 @@ B |
 
 22 |
 
-Direction départementale de l'équipement et de l'agriculture (2) de la Nièvre
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES DE LA NIÈVRE
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification de l'emploi
+Nombre d'emplois |
 
-|
+Nombre de points (IM)
 
-NOMBRE
+par emploi |
 
-d'emplois
+Adjoint au chef du SAUH, chargé de mission ANRU-Service Aménagement Urbanisme Habitat |
 
-|
+A |
 
-NOMBRE DE POINTS (IM)
+1 |
 
-par emploi
+42 |
 
-|
+Chef du bureau habitat et précarité énergétique-Service Aménagement Urbanisme Habitat |
 
-Chef du bureau politique sociale de l'habitat
+A |
 
-|
+1 |
 
-A
+21 |
 
-|
+Chargé de mission logement social et ANRU-Service Aménagement Urbanisme Habitat |
 
-1
+B |
 
-|
+1 |
 
-42 points
+15 |
 
-|
+DIRECTION DÉPARTEMENTALE DE L'EMPLOI, DU TRAVAIL, DES SOLIDARITÉS ET DE LA PROTECTION DES POPULATIONS DE LA NIÈVRE
 
-Chef du bureau études générales ville
+Fonction exercée |
 
-|
+Niveau de qualification
 
-A
+de l'emploi |
 
-|
+Nombre d'emplois |
 
-1
+Nombre de points (IM)
 
-|
+par emploi |
 
-21 points
+Instructeur en politique sociale de logement CCAPEX-Service Hébergement et Logement |
 
-|
+C |
 
-Mise en œuvre de la politique sociale de l'habitat
+1 |
 
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Suivi de la politique sociale de l'habitat
-
-|
-
-C
-
-|
-
-1
-
-|
-
-10 points
-
-|
+10 |
 
 DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DU NORD
 
