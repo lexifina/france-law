@@ -188,7 +188,7 @@ Les coordonnateurs régionaux d'hémovigilance et de sécurité transfusionnelle
 
 1.2. Compétences des coordonnateurs régionaux d'hémovigilance et de sécurité transfusionnelle
 
-Les coordonnateurs régionaux d'hémovigilance et de sécurité transfusionnelle sont des médecins, praticiens hospitaliers ou contractuels. Ces professionnels disposent d'une expérience significative en matière de transfusion sanguine et d'hémovigilance.
+Les coordonnateurs régionaux d'hémovigilance et de sécurité transfusionnelle sont des professionnels de santé médicaux ou pharmaceutiques, disposant d'une formation ou d'une expérience professionnelle préalable, en matière d'immunohématologie, de transfusion sanguine, d'hémovigilance ou de bonnes pratiques de sécurité transfusionnelle.
 
 2. Missions et compétences spécifiques relatives aux centres régionaux de pharmacovigilance
 
