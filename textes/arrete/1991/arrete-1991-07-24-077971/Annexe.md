@@ -34,7 +34,7 @@ Ballon captif. Aérostat, non entraîné par un organe moteur dont la hauteur d'
 
 Dirigeable. Aérostat entraîné par un ou plusieurs organes moteurs.
 
-Aéronefs français : Aéronefs inscrits au registre d'immatriculation français, aéronefs portant les marques provisoires prévues par l'article D. 121-7 du code de l'aviation civile, et U.L.M. identifiés en France au sens de la convention internationale susvisée.
+Aéronefs français : Aéronefs inscrits au registre d'immatriculation français, aéronefs portant les marques provisoires prévues par l'article D. 6111-13 du code des transports, et U.L.M. identifiés en France au sens de la convention internationale susvisée.
 
 Aéronef léger : Avion ou giravion ne répondant pas à la définition des aéronefs lourds.
 
@@ -82,7 +82,7 @@ d'atterrissage, auxquels cas un atterrissage forcé peut être nécessaire.
 
 Classe de performances 3 : Les opérations d'hélicoptère en classe de performances 3 sont des opérations telles que en cas de défaillance d'un groupe motopropulseur à un moment quelconque du vol, un atterrissage forcé peut être nécessaire sur un hélicoptère multimoteur mais sera nécessaire sur un hélicoptère monomoteur.
 
-Consignes opérationnelles : Documents par lesquels le ministre chargé de l'aviation civile impose des limitations opérationnelles pour des raisons de sécurité, ou par lesquels les services compétents donnent des informations relatives à l'application ou à l'interprétation des règlements opérationnels.
+Consigne opérationnelle : Document par lequel le ministre chargé de l'aviation civile impose des limitations opérationnelles pour des raisons de sécurité, ou par lequel il donne des informations relatives à l'application ou à l'interprétation des règlements opérationnels.
 
 Convention de Chicago : Pour l'application de ce texte est appelée convention de Chicago, la convention relative à l'aviation civile internationale signée à Chicago le 7 décembre 1944.
 
@@ -98,7 +98,7 @@ ELT(AF) (ELT automatique fixe) : ELT à mise en marche automatique attaché de f
 
 ELT(AP) (ELT automatique portatif) : ELT à mise en marche automatique qui est attaché de façon rigide à un aéronef mais qui peut être aisément enlevé de l'aéronef.
 
-ELT(AD) (ELT automatique largable) : ELT qui est attaché de façon rigide à un aéronef et est largué et mis en marche utomatiquement par l'impact et, dans certains cas, par des détecteurs hydrostatiques. Le largage manuel est aussi prévu.
+ELT(AD) (ELT automatique largable) : ELT qui est attaché de façon rigide à un aéronef et est largué et mis en marche automatiquement par l'impact et, dans certains cas, par des détecteurs hydrostatiques. Le largage manuel est aussi prévu.
 
 ELT(S) (ELT de survie) : ELT pouvant être enlevé d'un aéronef, qui est rangé de manière à faciliter sa prompte utilisation dans une situation d'urgence et qui est mis en marche manuellement par des survivants
 
@@ -802,7 +802,7 @@ La fonction de commandant de bord doit être tenue par un pilote membre de l'éq
 
 4.1.1.3.
 
-Le commandant de bord peut déroger dans les limites du code de l'aviation civile à tout ou à une partie des règles de cette annexe chaque fois qu'il l'estime indispensable à la sécurité du vol. Il doit en rendre compte dans les 48 heures aux services de l'aviation civile.
+Le commandant de bord peut déroger dans les limites du code des transports à tout ou à une partie des règles de cette annexe chaque fois qu'il l'estime indispensable à la sécurité du vol. Il doit en rendre compte dans les 48 heures aux services de l'aviation civile.
 
 4.1.2. Vérifications précédant le vol
 
@@ -918,7 +918,7 @@ a) Pour se préparer seul à bord d'un aéronef en vue de la délivrance d'un br
 
 - détenir une autorisation écrite délivrée par un instructeur détenant les privilèges correspondants.
 
-) Un aéronef certifié avec un équipage minimal de conduite de deux pilotes ne peut être piloté par un pilote candidat à une qualification que si l'autre pilote possède la qualification d'instructeur appropriée.
+b) Un aéronef certifié avec un équipage minimal de conduite de deux pilotes ne peut être piloté par un pilote candidat à une qualification que si l'autre pilote possède la qualification d'instructeur appropriée.
 
 4.3.2.2. Vol de démonstration
 
@@ -1240,7 +1240,7 @@ Un exploitant est autorisé à exploiter un aéronef dans un espace, à travers 
 
 5.10.10. Vol de démonstration
 
-Seul un exploitant détenteur d'un des agréments prévus au R. 133-1-1 du code de l'aviation civile ou de l'un des agréments ayant le même objet prévus par le règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence de l'Union européenne de la sécurité aérienne peut postuler en vue d'effectuer des vols de démonstration, sous réserve du respect des exigences fixées en annexe VI ou d'exigences particulières fixées par le ministre chargé de l'aviation civile.
+Seul un exploitant détenteur d'un des agréments prévus aux R. 6221-8 à R. 6221-12 du code des transports ou de l'un des agréments ayant le même objet prévus par le règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence de l'Union européenne pour la sécurité aérienne peut postuler en vue d'effectuer des vols de démonstration, sous réserve du respect des exigences fixées en annexe VI ou d'exigences particulières fixées par le ministre chargé de l'aviation civile.
 
 5.10.11. Vol technique
 
@@ -1352,9 +1352,7 @@ Les exigences de ce chapitre VII ne concernent pas les U.L.M.
 
 7.1. Responsabilités
 
-Le propriétaire d'un aéronef est responsable de l'entretien de cet aéronef. En cas de location, la responsabilité du propriétaire (1) et de l'exploitant est fixée conformément au code de l'aviation
-
-civile.
+Le propriétaire d'un aéronef est responsable de l'entretien de cet aéronef. En cas de location, la responsabilité du propriétaire (1) et de l'exploitant est fixée conformément au code des transports.
 
 (1) Dans la suite du texte, le terme "propriétaire" désigne la personne responsable au sens du présent paragraphe.
 
