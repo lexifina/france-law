@@ -4,8 +4,12 @@ En dehors des situations d'astreinte, chacun devra agir de telle sorte que le dr
 
 En effet, l'effectivité du respect par le salarié des durées minimales de repos (quotidien et hebdomadaire) et des congés et du respect de la vie personnelle et familiale, implique pour le salarié une obligation de déconnexion des outils de communication à distance pendant ses périodes de repos.
 
+Au cours de celles-ci, le salarié est tenu d'éteindre ou désactiver les outils de communication à distance qui sont mis à sa disposition et doit veiller à ne pas répondre aux différentes sollicitations qui seraient susceptibles d'intervenir.
+
+Aucune sanction ne peut être infligée au salarié pour ne pas avoir répondu à une sollicitation pendant son temps de repos.
+
 L'employeur s'attachera à sensibiliser les salariés à la déconnexion et au respect des temps de repos et de congés ainsi que du respect de la vie personnelle et familiale.
 
-(1) Article étendu sous réserve d'être complété par un accord d'entreprise, en application du 3° de l'article L. 3121-64 II ou, à défaut, par la fixation par l'employeur lui-même, des modalités d'exercice du droit du salarié à la déconnexion, conformément aux dispositions de l'article L. 3121-65 II du code du travail.
+(1) Le dispositif relatif au forfait jour prévu à l'article 25 bis est applicable sous réserve que l'accord de branche du 16 mai 2024 soit complété en application du 4e alinéa de l'article L. 2261-25 du code du travail par un accord d'entreprise précisant les modalités d'exercice du droit du salarié à la déconnexion prévues au 3° du II de l'article L. 3121-64 du code du travail, ou à défaut par la fixation par l'employeur lui-même de ces modalités conformément aux dispositions du II de l'article L. 3121-65 du code du travail.
 
-(Arrêté du 15 février 2022 - art. 1)
+(Arrêté du 21 mars 2025 - art. 1)
