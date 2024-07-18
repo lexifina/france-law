@@ -733,3 +733,51 @@ Service concerné :
 Colmar division. |
 
 Du 1er janvier 2024 au 31 mars 2025 |
+
+Opération :
+
+Déménagement du bureau d'Angoulême
+
+Service concerné :
+
+Bureau d'Angoulême
+
+Emploi concerné :
+
+Agent contractuel en charge de l'entretien des locaux |
+
+Du 1er juillet 2024 au 30 juin 2025 |
+
+Opération :
+
+Fusion du bureau de Lyon-Ville et du bureau de Lyon Energies
+
+Service concerné :
+
+Bureau de Lyon-Ville
+
+Emploi concerné :
+
+Poste d'adjoint au chef du bureau de Lyon-Ville |
+
+Du 1er septembre 2024 au 31 août 2025 |
+
+Opération :
+
+Fermeture du Centre de liaison interservices (CLI) de Guadeloupe
+
+Service concerné :
+
+Centre de liaison interservices (CLI) de la circonscription de la Guadeloupe |
+
+Du 1er janvier 2025 au 31 août 2026 |
+
+Opération :
+
+Fermeture de la Brigade de recherche et de renseignement (BRR) de la direction régionale de Corse
+
+Service concerné :
+
+Brigades de recherche et de renseignement (BRR) d'Ajaccio et de Bastia |
+
+Du 1er septembre 2024 au 31 août 2025 |
