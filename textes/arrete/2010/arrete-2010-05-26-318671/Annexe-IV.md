@@ -74,6 +74,42 @@ X |
 
 X |
 
+DEJEPS (*) spécialité " perfectionnement sportif "
+
+mention " spéléologie "
+
+|
+
+2° b) TEP : Parcours d'aisance sur cordes chronométré uniquement |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+DESJEPS (*) spécialité " performance sportive "
+
+mention " spéléologie "
+
+|
+
+2° b) TEP : Parcours d'aisance sur cordes chronométré uniquement |
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Diplôme de guide de haute montagne du brevet d'Etat d'alpinisme délivré entre le 01/01/1997 et le 01/07/2013 |
 
 2° b) TEP uniquement |
@@ -130,6 +166,20 @@ X |
 
 |
 
+Diplôme d'Etat d'alpinisme-guide de haute montagne et activités assimilées, RNCP39574 délivré jusqu'au 1er mars 2028 |
+
+2° b) TEP uniquement |
+
+|
+
+X |
+
+X |
+
+|
+
+|
+
 Diplôme d'accompagnateur de moyenne montagne tropicale du brevet d'Etat d'alpinisme assorti du CQC (*) encadrement du canyon en milieu tropical justifiant d'une expérience professionnelle d'encadrement sportif en canyonisme de deux années et de 150h d'actions de formation dans le champ du canyonisme au cours des cinq dernières années |
 
 |
@@ -160,9 +210,7 @@ X |
 
 Brevet de moniteur fédéral de canyon délivré par Fédération française de montagne et d'escalade justifiant d'une expérience d'encadrement sportif en canyonisme de deux années au cours des cinq dernières années |
 
-1° et 2° a)
-
-2° b) TEP : Parcours d'un canyon uniquement |
+X |
 
 X |
 
@@ -203,7 +251,3 @@ DEJEPS (*) : diplôme d'Etat de la jeunesse, de l'éducation populaire et du spo
 CQC (*) : certificat de qualification complémentaire.
 
 AQA (*) : attestation de qualification.
-
-NOTA :
-
-Conformément à l'article 12 de l'arrêté du 21 décembre 2023 (NOR : MENV2400116A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er mars 2024.

@@ -10,21 +10,21 @@ En cas d'échec à une épreuve, le candidat ne poursuit pas la présentation du
 
 Le candidat réalise, un parcours d'aisance sur cordes chronométré sur structure artificielle, en site naturel de type falaise ou en canyon sec pouvant mobiliser les techniques suivantes :
 
--une évolution sur différents types de mains courantes ;
+- évolution sur différents types de mains courantes ;
 
--une descente sur corde simple avec arrêt sur clef de blocage ;
+- descente sur corde simple avec arrêt sur clef de blocage ;
 
--une descente sur corde double avec arrêt sur clef de blocage ;
+- descente sur corde double avec arrêt sur clef de blocage ;
 
--une descente fractionnée ;
+- descente fractionnée ;
 
--un franchissement de déviation ;
+- franchissement de déviation ;
 
--un déplacement pendulaire ;
+- déplacement pendulaire ;
 
--une remontée sur corde simple ;
+- remontée sur corde simple ;
 
--une remontée sur corde double.
+- remontée sur corde double.
 
 L'organisateur préinstalle les cordes.
 
@@ -47,7 +47,3 @@ et justifiant d'au moins deux années d'expérience professionnelle d'encadremen
 2° Parcours d'un canyon
 
 Le candidat prépare et réalise en équipe composée de deux candidats minimum à quatre candidats maximum, un parcours d'une journée maximum, comprenant des déplacements et franchissements d'obstacles en terrain variés et des franchissements d'obstacles verticaux et/ ou aquatiques dans un canyon comprenant au moins un critère technique de classement de niveau V4 selon la classification établie conformément à l'article L. 311-2 du code du sport.
-
-NOTA :
-
-Conformément à l'article 12 de l'arrêté du 21 décembre 2023 (NOR : MENV2400116A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er mars 2024.
