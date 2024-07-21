@@ -134,7 +134,7 @@ Mesure du débit en entrée ou en sortie |
 
 |
 
-X (1) |
+X (1) (6) |
 
 |
 
@@ -168,9 +168,11 @@ X (4) |
 
 (4) Les mesures sont effectuées sur des échantillons représentatifs constitués sur 24 heures, avec des préleveurs automatiques réfrigérés ou isothermes (maintenus à 5° +/- 3) et asservis au débit. Le maître d'ouvrage doit conserver au froid pendant 24 heures un double des échantillons prélevés sur la station.
 
-La mesure des caractéristiques des eaux usées est effectuée sur la base des paramètres listés à l'annexe 2.
+La mesure des caractéristiques des eaux usées concerne les paramètres listés à l'annexe 2 et est effectuée conformément au cahier des charges, consultable sur le site internet du ministère en charge de l'environnement à l'adresse suivante : https :// www. assainissement. developpement-durable. gouv. fr.
 
-(5) Cette disposition ne s'applique qu'aux stations de capacité nominale de traitement supérieure à 12 kg de DBO5/j nouvelles, faisant l'objet de travaux de réhabilitation ou déjà aménagées. |
+(5) Cette disposition ne s'applique qu'aux stations de capacité nominale de traitement supérieure à 12 kg de DBO5/j nouvelles, faisant l'objet de travaux de réhabilitation ou déjà aménagées.
+
+(6) Les mesures sont réalisées conformément au cahier des charges, consultable sur le site internet du ministère en charge de l'environnement à l'adresse suivante : https :// www. assainissement. developpement-durable. gouv. fr. |
 
 Tableau 2.2. Informations d'autosurveillance à recueillir relatives aux apports extérieurs sur la file eau (matières de vidange, matières de curage…)
 
