@@ -1,0 +1,11 @@
+# proposition de loi visant à sécuriser la procédure d’abrogation des cartes communales dans le cadre d’une approbation d’un plan local d’urbanisme (PLU) ou d’un plan local d’urbanisme intercommunal (PLUi) et à reporter la caducité des plans d’occupation des sols (POS)
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : visant à sécuriser la procédure d’abrogation des cartes communales dans le cadre d’une approbation d’un plan local d’urbanisme (PLU) ou d’un plan local d’urbanisme intercommunal (PLUi) et à reporter la caducité des plans d’occupation des sols (POS)
+- Déposé le : 2024-07-23
+- Dossier : DLR5L15N38410
+- Auteurs : Assemblée nationale de la 17ème législature
+- Identifiant : PIONANR5L17B0086
+- Législature : 17
