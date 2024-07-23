@@ -1,0 +1,29 @@
+# Article 1er
+
+L'article 20 de la CCN TAPS relatif à l'indemnité de licenciement est modifié comme suit :
+
+« Le salarié lié par un contrat de travail à durée indéterminée qui, sauf en cas de faute grave ou lourde, est licencié alors qu'il compte au moins 8 mois d'ancienneté de service ininterrompu dans l'entreprise a droit, dans les conditions fixées par les articles L. 1234-9, R. 1234-1, R. 1234-2 et R. 1234-4 du code du travail, à une indemnité de licenciement dont le taux et les modalités de calcul sont fixées comme suit :
+
+– 8 mois  -  5 ans d'ancienneté : 1/4 de mois de salaire par année de présence à compter de la date d'entrée dans l'entreprise pour les cadres, agents de maîtrise et techniciens, ouvriers et employés ;
+
+– 5-10 ans : 2/5 mois par année de présence au-delà de 5 ans : toute catégorie confondue ;
+
+– 10  -  15 ans : 4/5 de mois par année de présence au-delà de 10 ans pour les cadres, 3/5 de mois pour les agents de maîtrise et techniciens, ouvriers employés ;
+
+– 15  -  20 ans : 1 mois de salaire par année de présence au-delà de 15 ans pour les cadres, 4/5 mois pour les agents de maîtrise et techniciens, ouvriers employés ;
+
+– au-delà de 20 : 1 mois par année de présence au-delà de 20 ans.
+
+L'indemnité de licenciement ne peut dépasser la valeur de 18 mois de salaire.
+
+Les cadres de plus de 50 ans justifiant d'une ancienneté de 10 ans bénéficient d'une majoration de 1 mois entre 50 ans et 55 ans et de 2 mois au-delà de 55 ans en franchise du plafond ci-dessus.
+
+L'indemnité de licenciement est calculée par rapport au 1/12 de la rémunération des 12 derniers mois précédant le licenciement ou, selon la formule la plus avantageuse pour l'intéressé, 1/3 des 3 derniers mois, étant entendu que, dans ce cas, toute prime ou gratification de caractère annuel ou exceptionnel qui aurait été versée au salarié pendant cette période ne serait prise en compte que pro rata temporis.
+
+L'indemnité de licenciement peut, en cas de licenciement collectif ou lorsque son montant excède 6 mois, être versée en 2 fois dans un délai maximum de 2 mois, cet échelonnement ne portant que sur la portion de l'indemnité dépassant 1 mois de salaire.
+
+(1) »
+
+(1) Le dernier alinéa de l'article 20 de la convention collective est étendu sous réserve du respect des dispositions de l'article L. 1234-20 du code du travail afin que la totalité du montant de l'indemnité légale de licenciement soit versée au moment du solde de tout compte.
+
+(Arrêté du 24 septembre 2024 - art. 1)
