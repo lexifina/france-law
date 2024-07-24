@@ -1,0 +1,121 @@
+# Projet de loi de financement de la sécurité sociale pour 2025
+
+- Procédure : Projet de loi de financement de la sécurité sociale
+- Législature : 17
+- Identifiant : DLR5L17N50588
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/plfss_pour_2025
+- Sénat : https://www.senat.fr/dossier-legislatif/plfss2025.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2024-10-10 : 1er dépôt d'une initiative. (PRJLANR5L17B0325)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-10-10 : Renvoi en commission au fond
+      - 2024-07-24 : Nomination de rapporteur
+      - 2024-07-24 : Réunion de commission
+      - 2024-10-16 : Réunion de commission
+      - 2024-10-21 : Réunion de commission
+      - 2024-10-21 : Réunion de commission
+      - 2024-10-22 : Réunion de commission
+      - 2024-10-22 : Réunion de commission
+      - 2024-10-23 : Réunion de commission
+      - 2024-10-23 : Réunion de commission
+      - 2024-10-23 : Réunion de commission
+      - 2024-10-24 : Réunion de commission
+      - 2024-10-24 : Réunion de commission
+      - 2024-10-24 : Réunion de commission
+      - 2024-10-25 : Réunion de commission
+      - 2024-10-28 : Réunion de commission
+      - 2024-10-30 : Réunion de commission
+      - 2024-10-25 : Dépôt de rapport (RAPPANR5L17B0487)
+    - Travaux d'une commission saisie pour avis
+      - 2024-10-10 : Saisine pour avis d'une commission
+      - 2024-10-09 : Nomination de rapporteur
+      - 2024-10-23 : Dépôt de rapport (AVISANR5L17B0480)
+  - Discussion en séance publique
+    - 2024-10-28 : Discussion en séance publique
+    - 2024-10-28 : Discussion en séance publique
+    - 2024-10-29 : Discussion en séance publique
+    - 2024-10-29 : Discussion en séance publique
+    - 2024-10-30 : Discussion en séance publique
+    - 2024-10-30 : Discussion en séance publique
+    - 2024-11-04 : Discussion en séance publique
+    - 2024-11-04 : Discussion en séance publique
+    - 2024-11-05 : Discussion en séance publique
+    - 2024-11-05 : Discussion en séance publique
+- 1ère lecture (2ème assemblée saisie)
+  - 2024-11-08 : Dépôt d'une initiative en navette (PRJLSNR5S459B0129)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-11-08 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2024-11-13 : Dépôt de rapport (RAPPSNR5S459B0138)
+  - Discussion en séance publique
+    - 2024-11-26 : Discussion en séance publique
+    - 2024-11-26 : Décision
+- Commission Mixte Paritaire
+  - 2024-11-26 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2024-11-27 : Nomination de rapporteur
+    - 2024-11-27 : Dépôt du rapport d'une CMP (RAPPANR5L17B0638, PRJLANR5L17BTC0638)
+    - 2024-11-27 : Dépôt du rapport d'une CMP (RAPPSNR5S459B0168, PRJLSNR5S459BTC0169)
+  - Discussion en séance publique
+    - 2024-12-04 : Discussion en séance publique
+    - 2024-12-04 : Discussion en séance publique
+  - Discussion en séance publique
+    - 2024-12-02 : Discussion en séance publique
+    - 2024-12-04 : Décision
+  - Discussion en séance publique
+    - 2025-01-23 : Discussion en séance publique
+    - 2025-01-23 : Décision
+  - 2024-11-28 : Décision de la CMP
+  - 2024-12-02 : Dépôt d'une déclaration du gouvernement (DECLANR5L17B0638-N0)
+    - 2024-12-02 : Motion de censure (MIONANR5L17B0638-N2)
+      - 2024-12-04 : Décision sur une motion de censure
+    - 2024-12-02 : Motion de censure (MIONANR5L17B0638-N3)
+- Nouvelle Lecture
+  - 2024-11-26 : Dépôt d'une initiative en navette (PRJLANR5L17B0622)
+  - 2025-02-03 : Dépôt d'une déclaration du gouvernement (DECLANR5L17B0622-N0)
+    - 2025-02-03 : Motion de censure (MIONANR5L17B0622-N6)
+      - 2025-02-05 : Décision sur une motion de censure
+  - 2025-02-05 : Dépôt d'une déclaration du gouvernement (DECLANR5L17B0622-N1)
+    - 2025-02-06 : Motion de censure (MIONANR5L17B0622-N7)
+      - 2025-02-10 : Décision sur une motion de censure
+  - 2025-02-10 : Dépôt d'une déclaration du gouvernement (DECLANR5L17B0622-N2)
+    - 2025-02-10 : Motion de censure (MIONANR5L17B0622-N8)
+      - 2025-02-12 : Décision sur une motion de censure
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-11-26 : Renvoi en commission au fond
+      - 2025-01-22 : Nomination de rapporteur
+      - 2025-01-22 : Réunion de commission
+      - 2025-01-27 : Réunion de commission
+      - 2025-01-27 : Réunion de commission
+      - 2025-01-28 : Réunion de commission
+      - 2025-01-28 : Réunion de commission
+      - 2025-01-29 : Réunion de commission
+      - 2025-01-29 : Réunion de commission
+      - 2025-02-03 : Réunion de commission
+      - 2025-01-30 : Dépôt de rapport (RAPPANR5L17B0869)
+  - Discussion en séance publique
+    - 2025-02-03 : Discussion en séance publique
+    - 2025-02-05 : Discussion en séance publique
+    - 2025-02-05 : Discussion en séance publique
+    - 2025-02-10 : Discussion en séance publique
+    - 2025-02-12 : Discussion en séance publique
+    - 2025-02-12 : Décision
+- Nouvelle Lecture
+  - 2025-02-12 : Dépôt d'une initiative en navette (PRJLSNR5S459B0341)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-02-12 : Renvoi en commission au fond
+      - 2025-02-13 : Dépôt de rapport (RAPPSNR5S459B0344)
+  - Discussion en séance publique
+    - 2025-02-17 : Décision
+- Conseil constitutionnel
+  - 2025-02-20 : Saisine du conseil constitutionnel
+  - 2025-02-28 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2025-02-28 : Promulgation d'une loi
