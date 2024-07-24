@@ -8,7 +8,7 @@ Cette charte résume les dispositions les plus couramment mises en œuvre en mat
 
 Préambule
 
-Cette « Charte du cotisant contrôlé » vous informe sur vos droits et obligations lors du contrôle.
+Cette " Charte du cotisant contrôlé " vous informe sur vos droits et obligations lors du contrôle.
 
 Elle présente, de façon synthétique, les modalités de déroulement d'un contrôle ainsi que les droits et les garanties dont vous bénéficiez tout au long de cette procédure.
 
@@ -356,7 +356,7 @@ Le contrôle peut aboutir au constat d'une bonne application des législations o
 
 La lettre d'observations :
 
-A l'issue de chaque contrôle, un document daté et signé, intitulé « Lettre d'observations » vous est obligatoirement adressé.
+A l'issue de chaque contrôle, un document daté et signé, intitulé " Lettre d'observations " vous est obligatoirement adressé.
 
 Ce document mentionne a minima (cette liste n'est pas exhaustive) :
 
@@ -376,7 +376,7 @@ Ce document mentionne a minima (cette liste n'est pas exhaustive) :
 
 En cas de redressement, le document indique les observations faites au cours du contrôle, motivées par chef de redressement, le montant des assiettes, des redressements envisagés et leur mode de calcul, ainsi que les éventuelles majorations de redressement et pénalités liées à ces redressements.
 
-La lettre d'observations peut également faire état d'observations « pour l'avenir » qui invitent le cotisant à modifier des pratiques qui ne sont pas conformes à la législation sans qu'un redressement soit pour autant envisagé sur ce fondement.
+La lettre d'observations peut également faire état d'observations " pour l'avenir " qui invitent le cotisant à modifier des pratiques qui ne sont pas conformes à la législation sans qu'un redressement soit pour autant envisagé sur ce fondement.
 
 La réception de la lettre d'observations clôt les opérations de contrôle au sens strict. Elle permet d'engager une période contradictoire : vous disposez à ce moment d'un délai initial de 30 jours pour faire part, par écrit, de vos remarques, d'éléments nouveaux, de précisions ou compléments que vous jugerez nécessaires, ou de votre éventuel désaccord avec tout ou partie des constats.
 
@@ -386,7 +386,7 @@ Si vous avez corrigé, après la réception de l'avis de contrôle, les déclara
 
 Au cours de cette phase, vous avez la faculté de vous faire assister par le conseil de votre choix.
 
-Avant l'expiration du délai initial de 30 jours, et à l'exclusion des situations où est mise en œuvre la procédure d'abus de droit ou en cas de constat des infractions de travail illégal, vous pouvez demander une prolongation de 30 jours de la durée de la période contradictoire. A défaut de réponse de l'organisme de recouvrement, la prolongation du délai est considérée comme acceptée.
+Avant l'expiration du délai initial de 30 jours, et à l'exclusion des cas de constat de certaines infractions de travail illégal (travail dissimulé, marchandage, prêt illicite de main-d'œuvre et emploi d'étranger non autorisé à travailler), vous pouvez demander une prolongation de 30 jours de la durée de la période contradictoire. A défaut de réponse de l'organisme de recouvrement, la prolongation du délai est considérée comme acceptée.
 
 En l'absence de réponse de votre part à la lettre d'observations, la période contradictoire prend fin à l'issue du délai de 30 jours ou à l'issue des 60 jours si vous avez demandé et obtenu sa prolongation.
 
@@ -400,7 +400,7 @@ A l'issue du délai de 30 ou 60 jours, en l'absence de réponse de votre part ou
 
 -dans le cas d'observations sans redressement, la décision de l'organisme de recouvrement confirmant sa position et à laquelle vous devrez vous conformer à l'avenir ;
 
--en cas de redressement conduisant à constater des sommes à payer, un document intitulé « mise en demeure », dans lequel seront notamment mentionnés au titre des différentes périodes annuelles contrôlées, les montants définitivement arrêtés par l'organisme de recouvrement, les références et les dates de la lettre d'observations initiale ainsi que, le cas échéant, celles du dernier courrier établi par l'agent chargé du contrôle ;
+-en cas de redressement conduisant à constater des sommes à payer, un document intitulé " mise en demeure ", dans lequel seront notamment mentionnés au titre des différentes périodes annuelles contrôlées, les montants définitivement arrêtés par l'organisme de recouvrement, les références et les dates de la lettre d'observations initiale ainsi que, le cas échéant, celles du dernier courrier établi par l'agent chargé du contrôle ;
 
 -en cas de solde créditeur résultant de l'ensemble des points examinés, une notification de crédit vous sera adressée dont le montant vous sera remboursé dans un délai maximum d'1 mois après la notification.
 
@@ -548,7 +548,7 @@ Obstacle à contrôle : Manquement caractérisé lorsque l'agent en charge du co
 
 Période contradictoire : Période de la procédure contradictoire. Elle commence à la réception de la lettre d'observations. Elle se termine, soit 30 jours ou 60 jours plus tard en l'absence de remarque de la personne contrôlée, soit à la date d'envoi de la réponse de l'agent chargé du contrôle lorsque des observations ont été formulées par la personne contrôlée.
 
-Procédure contradictoire : Lors du contrôle, procédure qui permet un dialogue entre la personne contrôlée et celle qui effectue le contrôle. Elle permet notamment à la personne contrôlée de faire valoir ses droits et ses observations sur les régularisations envisagées en « contredisant » les observations de l'agent chargé du contrôle sur la base d'éléments probants.
+Procédure contradictoire : Lors du contrôle, procédure qui permet un dialogue entre la personne contrôlée et celle qui effectue le contrôle. Elle permet notamment à la personne contrôlée de faire valoir ses droits et ses observations sur les régularisations envisagées en " contredisant " les observations de l'agent chargé du contrôle sur la base d'éléments probants.
 
 Rescrit social : Permet d'obtenir une décision explicite des organismes de recouvrement sur l'application de certains points de législation à la situation particulière soulevée. Sauf changement de législation ou de la situation de fait, la réponse de l'organisme sera opposable pour l'avenir.
 
@@ -560,11 +560,11 @@ URSSAF : Union pour le recouvrement des cotisations de sécurité sociale et d'a
 
 Pour en savoir plus :
 
-Retrouvez toute l'information relative à votre activité sur www. urssaf. fr « Espace employeur », ou sur www. msa. fr.
+Retrouvez toute l'information relative à votre activité sur www. urssaf. fr " Espace employeur ", ou sur www. msa. fr.
 
 (1) URSSAF, CGSS, CSS de Mayotte.
 
-(2) Anciennement dénommé : « Auto-entrepreneur ».
+(2) Anciennement dénommé : " Auto-entrepreneur ".
 
 (3) L'établissement est une unité de production géographiquement individualisée, mais juridiquement dépendante de l'entreprise. Chaque établissement possède un numéro Siret propre partageant les mêmes neuf premiers chiffres du numéro SIREN de l'entreprise.
 
@@ -573,3 +573,7 @@ Retrouvez toute l'information relative à votre activité sur www. urssaf. fr «
 (5) www. urssaf. fr ou www. msa. fr.
 
 (6) En cas de réponses incomplètes ou inexactes, de fraude, de travail dissimulé ou sur demande de l'autorité judiciaire.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 22 juillet 2024 (NOR : ECOS2420692A), ces dispositions entrent en vigueur à compter du 1er janvier 2024.
