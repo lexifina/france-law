@@ -4,9 +4,9 @@ DÉFINITION DES MONTANTS DE PAIEMENTS DE BASE, PLAFONDS ET MODULATIONS EN GUYANE
 
 En Guyane, tous les bénéficiaires touchent un paiement de base qui varie en fonction du type de surfaces :
 
-- pour les surfaces cultivées en culture fruitière permanente ou semi permanente et canne à sucre, il est de 225 €/ha ;
+- pour les surfaces cultivées en culture fruitière permanente ou semi permanente et canne à sucre, il est de 255 €/ ha ;
 
-- pour les surfaces cultivées en racines et tubercules, il est de 225 €/ha ;
+- pour les surfaces cultivées en racines et tubercules, il est de 255 €/ ha ;
 
 - pour les surfaces cultivées en abattis, il est de 300 €/ha ;
 
