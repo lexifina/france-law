@@ -1,0 +1,3 @@
+# Article III.1
+
+Le présent accord s'applique sans distinction aux entreprises de moins de 50 salariés.

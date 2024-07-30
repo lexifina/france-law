@@ -1,0 +1,9 @@
+# Article III.3
+
+Le texte du présent accord a été notifié à l'ensemble des organisations syndicales représentatives dans le champ d'application.
+
+Il sera déposé au secrétariat du greffe du conseil de prud'hommes de Paris et auprès de la direction générale du travail, conformément aux dispositions des articles D. 2231-2 et suivants du code du travail.
+
+Il pourra être révisé conformément aux dispositions de l'article L. 2261-7 du code du travail.
+
+L'extension du présent avenant sera demandée, à l'expiration du délai légal d'opposition, conformément aux dispositions des articles L. 2261-15 et suivants du code du travail.
