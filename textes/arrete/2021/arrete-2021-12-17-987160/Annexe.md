@@ -6,19 +6,27 @@ Etat-major, direction ou service employeur |
 
 Emplois
 
-de 1er niveau |
+de
+
+1er niveau |
 
 Emplois
 
-de 2e niveau |
+de
+
+2e niveau |
 
 Emplois
 
-de 3e niveau |
+de
+
+3e niveau |
 
 Emplois
 
-de 4e niveau |
+de
+
+4e niveau |
 
 Cabinet du ministre de la défense |
 
@@ -32,13 +40,13 @@ Cabinet du ministre de la défense |
 
 Etat-major des armées |
 
-858 |
+859 |
 
-2 998 |
+2 997 |
 
-4 919 |
+4 920 |
 
-14 125 |
+14 126 |
 
 Secrétariat général de la défense et de la sécurité nationale |
 
@@ -62,7 +70,7 @@ Direction générale de l'armement |
 
 Secrétariat général pour l'administration |
 
-22 |
+21 |
 
 87 |
 
@@ -98,7 +106,7 @@ Direction générale du numérique et des systèmes d'information et de communic
 
 5 |
 
-10 |
+9 |
 
 Direction générale de la sécurité extérieure |
 
@@ -126,7 +134,7 @@ Etat-major particulier du Président de la République |
 
 3 |
 
-1 |
+0 |
 
 30 |
 
@@ -159,6 +167,16 @@ Délégation à l'information et à la communication de la défense |
 2 |
 
 5 |
+
+Agence ministérielle pour l'intelligence artificielle de défense |
+
+0 |
+
+1 |
+
+0 |
+
+0 |
 
 Direction de la protection des installations, moyens et activités de la défense |
 
@@ -218,4 +236,4 @@ TOTAL |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 28 novembre 2023 (NOR : ARMH2332628A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de décembre 2023.
+Conformément à l'article 2 de l'arrêté du 29 juillet 2024 (NOR : ARMH2421340A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de juillet 2024.
