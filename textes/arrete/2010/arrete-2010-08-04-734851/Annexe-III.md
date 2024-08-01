@@ -10,11 +10,15 @@ BRANCHES |
 
 PRÉSIDENCE
 
-de la commission titulaire |
+de la commission
+
+titulaire |
 
 PRÉSIDENCE
 
-de la commission suppléant |
+de la commission
+
+suppléante |
 
 MEMBRES |
 
@@ -28,13 +32,11 @@ Les commandants des groupements de gendarmerie départementale subordonnés ou, 
 
 Les commandants des sections de recherches ou, à défaut, leurs suppléants.
 
-L'officier adjoint police judiciaire de la région ou à défaut, le commandant de la section d'appui judiciaire (1).
+L'officier adjoint police judiciaire de la région ou à défaut, le commandant de la section d'appui judiciaire.
 
-L'officier adjoint commandement de la région, ou à défaut, l'officier le plus ancien dans le grade le plus élevé d'une division de la région (2). |
+L'officier adjoint commandement de la région, ou à défaut, l'officier le plus ancien dans le grade le plus élevé d'une division de la région (1). |
 
-(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Île-de-France, lire le commandant de la section d'appui judiciaire.
-
-(2) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Île-de-France, lire le chef d'état-major. |
+(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Île-de-France, lire le chef d'état-major. |
 
 Gendarmerie de l'air. |
 
@@ -86,11 +88,15 @@ BRANCHES |
 
 PRÉSIDENCE
 
-de la commission titulaire |
+de la commission
+
+titulaire |
 
 PRÉSIDENCE
 
-de la commission suppléante |
+de la commission
+
+suppléante |
 
 MEMBRES |
 
@@ -108,13 +114,13 @@ Le commandant en second de la garde républicaine. |
 
 L'officier supérieur le plus ancien dans le grade le plus élevé parmi les membres présents. |
 
-Le chef de l'état-major de la garde républicaine.
+Le chef de l'état-major de la garde républicaine ou le chef de l'état-major par suppléance.
 
 Les commandants de régiment ou les commandants de régiment par suppléance.
 
-Le commandant des maisons militaires.
+Le commandant des maisons militaires ou le commandant des maisons militaires par suppléance.
 
-L'administrateur, régisseur des formations musicales de la garde républicaine. |
+L'administrateur, régisseur des formations musicales de la garde républicaine ou l'administrateur régisseur des formations musicales de la garde républicaine par suppléance. |
 
 (1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Île-de-France, lire chef d'état-major. |
 
@@ -122,11 +128,15 @@ L'administrateur, régisseur des formations musicales de la garde républicaine.
 
 BRANCHES |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
+
+de la commission
 
 titulaire |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
+
+de la commission
 
 suppléant |
 
@@ -154,7 +164,7 @@ Le chef d'état-major du commandement de la gendarmerie outre-mer. |
 
 Le commandant de la gendarmerie pour les missions extérieures. |
 
-Ecoles de la gendarmerie nationale. |
+Écoles de la gendarmerie nationale. |
 
 Le commandant en second du commandement des écoles de la gendarmerie nationale. |
 
@@ -170,7 +180,7 @@ Un officier du grade de colonel de la branche considérée, à défaut, désign�
 
 Cinq officiers supérieurs désignés par le commandant du soutien opérationnel de la gendarmerie nationale.
 
-Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale de sécurité, commandement de la gendarmerie dans le cyberespace, commandement spécialisé pour la sécurité nucléaire, commandement de la gendarmerie pour les réserves et la jeunesse, service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, commandement pour l'environnement et la santé).
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale de sécurité, commandement de la gendarmerie dans le cyberespace, commandement spécialisé pour la sécurité nucléaire, commandement de la gendarmerie pour les réserves et la jeunesse, service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, commandement pour l'environnement et la santé, agence du numérique des forces de sécurité intérieure, commandement du ministère de l'intérieur dans le cyberespace).
 
 Ces membres sont désignés par le directeur des ressources humaines de la gendarmerie nationale. |
 
@@ -182,7 +192,7 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. 
 
 Trois officiers supérieurs appartenant respectivement à la direction des opérations et de l'emploi, à la direction des ressources humaines de la gendarmerie nationale et à la direction des soutiens et des finances.
 
-Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service des technologies et des systèmes d'information de la sécurité intérieure, service d'information et de relations publiques des armées-gendarmerie, service de la transformation).
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service d'information et de relations publiques des armées-gendarmerie, service de la transformation).
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
 
@@ -226,11 +236,15 @@ BRANCHES |
 
 PRÉSIDENCE
 
-de la commission titulaire |
+de la commission titulaire
+
+|
 
 PRÉSIDENCE
 
-de la commission suppléante |
+de la commission suppléante
+
+|
 
 MEMBRES |
 
@@ -240,7 +254,9 @@ Aéronautique, mécaniciens cellules et moteurs.
 
 Aéronautique, mécaniciens avionique.
 
-Aéronautique, opérateurs aérosurveillance et avitailleurs. |
+Aéronautique, opérateurs aérosurveillance et avitailleurs.
+
+|
 
 Le commandant des forces aériennes de la gendarmerie nationale. |
 
@@ -252,7 +268,9 @@ Affaires immobilières.
 
 Montagne.
 
-Systèmes d'information et de communication. |
+Systèmes d'information et de communication.
+
+|
 
 Le sous-directeur de la gestion du personnel. |
 

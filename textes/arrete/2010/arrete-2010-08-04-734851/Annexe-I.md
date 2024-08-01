@@ -8,21 +8,29 @@ PRÉSIDENCE
 
 DE LA COMMISSION
 
-titulaire |
+titulaire
+
+|
 
 PRÉSIDENCE
 
 DE LA COMMISSION
 
-suppléante |
+suppléante
+
+|
 
 MEMBRES
 
-titulaires |
+titulaires
+
+|
 
 MEMBRES
 
-suppléants |
+suppléants
+
+|
 
 Le directeur général de la gendarmerie nationale. |
 
@@ -34,10 +42,10 @@ Le chef de l'inspection générale de la gendarmerie nationale. |
 
 Le major général de la gendarmerie nationale. |
 
-Le commandant des écoles de la gendarmerie nationale. |
+Le général adjoint au major général de la gendarmerie nationale. |
 
 Le directeur des ressources humaines de la gendarmerie nationale |
 
-Le sous-directeur du personnel officier. |
+L'adjoint au directeur des ressources humaines de la gendarmerie nationale. |
 
 Le conseiller sécurité auprès du ministre de l'intérieur et des outre-mer, et le conseiller sécurité intérieure du chef du cabinet militaire du ministre des armées (CM 14) peuvent assister aux réunions de la commission. |
