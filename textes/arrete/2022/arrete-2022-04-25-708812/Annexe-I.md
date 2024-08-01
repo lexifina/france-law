@@ -42,7 +42,7 @@ C. - Emplois relevant du groupe 1 :
 
 5° Sous-chef d'état-major " plans " à l'état-major des armées ;
 
-6° Sous-chef d'état-major " performance " à l'état-major des armées ;
+6° Sous-chef d'état-major “ appui-environnement ” à l'état-major des armées ;
 
 7° Chef du cabinet militaire du Premier ministre ;
 
@@ -52,7 +52,7 @@ C. - Emplois relevant du groupe 1 :
 
 10° Inspecteur général du service de santé des armées ;
 
-11° Général commandant des forces terrestres ;
+11° Général commandant la force et les opérations terrestres, commandant terre pour l'Europe ;
 
 12° Commandant des forces sous-marines et de la force océanique stratégique ;
 
@@ -78,7 +78,7 @@ D. - Emplois relevant du groupe 2 :
 
 1° Conseiller du Gouvernement pour la défense ;
 
-2° Officier général en charge du contrôle et de l'emploi des moyens militaires du service action de la direction générale de la sécurité extérieure ;
+2° Chargé de mission auprès du major général des armées ;
 
 3° Officier général " commandant de la cyber défense " ;
 
@@ -110,7 +110,7 @@ D. - Emplois relevant du groupe 2 :
 
 17° Inspecteur du commissariat des armées ;
 
-18° Inspecteur technique de l'infrastructure de la défense ;
+18° Chargé de mission auprès du major général des armées ;
 
 19° Officier général auprès du directeur des ressources humaines du ministère de la défense ;
 
@@ -118,13 +118,11 @@ D. - Emplois relevant du groupe 2 :
 
 21° Directeur du service de l'énergie opérationnelle ;
 
-22° Chargé de mission auprès du major général des armées ;
+22° Officier général “ stratégie des ressources humaines ” ;
 
 23° Conseiller du Gouvernement pour la défense ;
 
-24° Conseiller du Gouvernement pour la défense ;
-
-25° Chargé de mission auprès du major général des armées.
+24° Conseiller du Gouvernement pour la défense.
 
 E. - Emplois relevant du groupe 3 :
 
@@ -138,13 +136,13 @@ E. - Emplois relevant du groupe 3 :
 
 5° Sous-chef d'état-major " plans et programmes " de l'état-major de l'armée de terre ;
 
-6° Sous-chef d'état-major " performance et synthèse " de l'état-major de l'armée de terre ;
+6° Sous-chef d'état-major “ performance et soutiens ” de l'état-major de l'armée de terre ;
 
 7° Général commandant de la 1re division et commandant de la base de défense de Besançon ;
 
-8° Général commandant de la 3e division ;
+8° Général commandant de la 3e division et commandant de la base de défense de Marseille-Aubagne ;
 
-9° Général commandant les forces spéciales terre et commandant de la base de défense de Pau-Bayonne ;
+9° Général commandant des actions spéciales terre et commandant de la base de défense de Pau-Bayonne ;
 
 10° Général commandant de l'aviation légère de l'armée de terre ;
 
@@ -152,29 +150,29 @@ E. - Emplois relevant du groupe 3 :
 
 12° Inspecteur adjoint à l'inspection de l'armée de terre ;
 
-13° Général commandant le renseignement des forces terrestres ;
+13° Général commandant les actions dans la profondeur et du renseignement ;
 
 14° Chef d'état-major du corps de réaction rapide - France ;
 
-15° Chef d'état-major du commandement des forces terrestres ;
+15° Chef d'état-major du commandement de la force et des opérations terrestres ;
 
-16° Général directeur du centre de doctrine et d'enseignement du commandement en charge de l'enseignement militaire supérieur Terre ;
+16° Général commandant en second du combat futur de l'armée de terre ;
 
 17° Général commandant de l'académie militaire de Saint-Cyr Coëtquidan ;
 
 18° Général adjoint au directeur des ressources humaines de l'armée de terre ;
 
-19° Général commandant de l'entraînement et des écoles du combat interarmes et commandant de la base de défense de Mourmelon-Mailly ;
+19° Général commandant de l'entrainement au combat interarmes et commandant de la base de défense de Mourmelon-Mailly ;
 
 20° Directeur du service de la maintenance industrielle terrestre ;
 
-21° Général commandant de la logistique des forces ;
+21° Général commandant de l'appui et de la logistique de théâtre ;
 
-22° Général commandant de la maintenance des forces terrestres ;
+22° Commandant du centre national des sports de la défense et commissaire aux sports militaires ;
 
-23° Général commandant les systèmes d'information et de communication des forces terrestres ;
+23° Général commandant de l'appui terrestre numérique et cyber et commandant de la base de défense de Rennes-Vannes-Coëtquidan ;
 
-24° Chargé des fonctions de sous-directeur du pôle formation de la direction des ressources humaines de l'armée de terre ;
+24° Général commandant le pôle formation de la direction des ressources humaines de l'armée de terre ;
 
 25° Sous-chef d'état-major " opérations aéronavales " de l'état-major de la marine ;
 
@@ -220,7 +218,7 @@ E. - Emplois relevant du groupe 3 :
 
 46° Inspecteur adjoint à l'inspection de l'armée de l'air et de l'espace ;
 
-47° Commandant des écoles des sous-officiers et militaires du rang de l'armée de l'air et de l'espace, de la base aérienne 721 de Rochefort Saint-Agnant et de la base de défense de Rochefort-Cognac ;
+47° Général adjoint de l'inspecteur des armées ;
 
 48° Commandant du centre d'expertise aérienne militaire ;
 
@@ -242,7 +240,7 @@ E. - Emplois relevant du groupe 3 :
 
 57° Directeur de la médecine des forces ;
 
-58° Directeur de la formation de la recherche et de l'innovation relevant de la direction centrale du service de santé des armées ;
+58° Officier général, directeur de l'audit interne des armées à l'inspection des armées ;
 
 59° Médecin-chef de l'hôpital d'instruction des armées Sainte Anne ;
 
@@ -270,23 +268,23 @@ E. - Emplois relevant du groupe 3 :
 
 71° Directeur central adjoint du service du commissariat des armées ;
 
-72° Chargé des fonctions de sous-directeur " activités " de la direction centrale du service du commissariat des armées ;
+72° Officier général “ directeur des activités ” de la direction centrale du service du commissariat des armées ;
 
-73° Chargé des fonctions de sous-directeur " métiers " de la direction centrale du service du commissariat des armées ;
+73° Officier général “ directeur des métiers ” de la direction centrale du service du commissariat des armées ;
 
 74° Directeur central adjoint du service d'infrastructure de la défense ;
 
 75° Directeur central adjoint de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense ;
 
-76° Chef de la division “ énergie opérationnelle ” de l'état-major des armées ;
+76° Chef de la division “ infrastructure et énergie opérationnelle ” de l'état-major des armées ;
 
 77° Officier général, directeur de projet " défense et sécurité " auprès du sous-chef d'état-major " opérations " de l'état-major des armées ;
 
 78° Officier général, directeur des projets " coopération capacitaire internationale ", " cessions " et " innovation " auprès du sous-chef d'état-major " plans " de l'état-major des armées ;
 
-79° Officier général, directeur de projet " transformation " auprès du sous-chef d'état-major " performance " de l'état-major des armées ;
+79° Officier général, directeur de projet “ transformation ” auprès du sous-chef d'état-major “ appui-environnement ” de l'état-major des armées ;
 
-80° Chef de la division " études, synthèses et management général " à l'état-major des armées ;
+80° Officier adjoint du major général des armées et chef de la division “ études, stratégie et management général ” de l'état-major des armées ;
 
 81° Chef de la division " forces nucléaires " à l'état-major des armées ;
 
@@ -308,7 +306,7 @@ E. - Emplois relevant du groupe 3 :
 
 90° Chef de cabinet du chef d'état-major des armées ;
 
-91° Général commandant en second les forces terrestres ;
+91° Général commandant en second la force et les opérations terrestres ;
 
 92° Officier général de zone de défense et de sécurité Nord et Gouverneur militaire de Lille ;
 
@@ -322,9 +320,9 @@ E. - Emplois relevant du groupe 3 :
 
 97° Commandant du centre du soutien des opérations et des acheminements ;
 
-98° Chef de la division “ stratégie numérique des armées ” de l'état-major des armées ;
+98° Officier général “ numérique ” et chef de la division “ stratégie numérique des armées ” de l'état-major des armées ;
 
-99° Chargé de mission auprès du major général des armées ;
+99° Chargé de mission auprès du chef d'état-major des armées ;
 
 100° Chargé de mission auprès du major général des armées ;
 
@@ -342,13 +340,15 @@ E. - Emplois relevant du groupe 3 :
 
 107° Directeur de l'agence du numérique de défense ;
 
-108° Chargé de projet “ simplification du fonctionnement de l'armée de terre ” auprès de l'inspecteur de l'armée de terre.
+108° Chargé de projet “ simplification du fonctionnement de l'armée de terre ” auprès de l'inspecteur de l'armée de terre ;
+
+109° Officier général en charge du contrôle et de l'emploi des moyens militaires du service action de la direction générale de la sécurité extérieure.
 
 F. - Emplois relevant du groupe 4 :
 
 1° Secrétaire général de la garde nationale ;
 
-2° Officier général, directeur de l'audit interne des armées à l'inspection des armées ;
+2° Officier général adjoint au directeur de l'enseignement militaire supérieur et secrétaire général de l'académie de défense de l'Ecole militaire ;
 
 3° Délégué adjoint à l'information et à la communication de la défense ;
 
@@ -398,7 +398,7 @@ F. - Emplois relevant du groupe 4 :
 
 26° Chef de la division " soutien de l'homme " à l'état-major des armées ;
 
-27° Officier général " prospective et stratégie militaire " ;
+27° Conseiller influence et lutte informationnelle et chef du pôle “ Anticipation stratégique et orientation ” ;
 
 28° Commandant de la logistique de l'énergie opérationnelle ;
 
@@ -418,7 +418,7 @@ F. - Emplois relevant du groupe 4 :
 
 36° Adjoint au commandant de l'arrondissement maritime de Toulon et commandant de la base de défense de Toulon ;
 
-37° Général adjoint de l'inspecteur des armées ;
+37° Commandant des écoles des sous-officiers et militaires du rang de l'armée de l'air et de l'espace, de la base aérienne 721 de Rochefort Saint-Agnant et de la base de défense de Rochefort-Cognac ;
 
 38° Directeur de l'Ecole de guerre ;
 
@@ -434,7 +434,7 @@ F. - Emplois relevant du groupe 4 :
 
 44° Inspecteur de la médecine de prévention dans les armées au contrôle général des armées ;
 
-45° Général commandant de la 4e brigade d'aérocombat ;
+45° Général commandant de la 4e brigade d'aérocombat et commandant de la base de défense de Clermont-Ferrand ;
 
 46° Gouverneur militaire de Strasbourg, général commandant la 2e brigade blindée et commandant de la base de défense de Strasbourg-Haguenau-Colmar ;
 
@@ -444,49 +444,49 @@ F. - Emplois relevant du groupe 4 :
 
 49° Général commandant de la 27e brigade d'infanterie de montagne et commandant de la base de défense de Grenoble-Annecy-Chambéry ;
 
-50° Général adjoint cohérence auprès du général commandant les forces terrestres ;
+50° Général adjoint anticipation auprès du général commandant la force et les opérations terrestres et commandant de la base de défense de Lille ;
 
 51° Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres, chargé des fonctions de sous-directeur " opérations " ;
 
-52° Commandant de l'état-major spécialisé de l'outre-mer et de l'étranger ;
+52° Général commandant de la brigade de maintenance ;
 
 53° Commandant en second de la 1re division ;
 
-54° Commandant en second de la 3e division ;
+54° Général commandant de la brigade d'appui numérique et cyber ;
 
-55° Général commandant la 9e brigade d'infanterie de marine ;
+55° Général commandant la 9e brigade d'infanterie de marine et commandant la base de défense de Poitiers-Saint-Maixent ;
 
 56° Général commandant la 7e brigade blindée ;
 
-57° Commandant du poste de commandement de force logistique et commandant en second de la logistique des forces ;
+57° Général commandant de la brigade logistique ;
 
 58° Commandant de la Légion étrangère ;
 
 59° Directeur de la section technique de l'armée de terre ;
 
-60° Commandant du centre national des sports de la défense et commissaire aux sports militaires ;
+60° Général adjoint partenariats auprès du général commandant la force et les opérations terrestres et chargé de la coalition artillerie ;
 
-61° Commandant de l'Ecole nationale des sous-officiers d'active et commandant de la base de défense de Poitiers - Saint-Maixent ;
+61° Commandant de l'école nationale des sous-officiers d'active ;
 
 62° Commandant des écoles militaires de Bourges ;
 
 63° Général commandant des écoles militaires de Saumur et de l'école de cavalerie ;
 
-64° Commandant de l'école de l'aviation légère de l'armée de terre ;
+64° Général commandant de la 19e brigade d'artillerie ;
 
 65° Général commandant de l'école du génie et commandant de la base de défense d'Angers-Le Mans-Saumur ;
 
 66° Général commandant des écoles militaires de Draguignan et commandant de la base de défense de Draguignan ;
 
-67° Officier général anticipation “ anticipation et stratégie ” de l'état-major de l'armée de terre ;
+67° Officier général “ anticipation et synthèse ” de l'état-major de l'armée de terre ;
 
-68° Chef du pôle “ relations internationales ” de l'état-major de l'armée de terre ;
+68° Officier général “ relations internationales ” de l'état-major de l'armée de terre ;
 
 69° Chargé des fonctions de sous-directeur des études et de la politique de la direction des ressources humaines de l'armée de terre et délégué aux réserves de l'armée de terre ;
 
 70° Chargé des fonctions de sous-directeur du pôle gestion du personnel de la direction des ressources humaines de l'armée de terre ;
 
-71° Chargé des fonctions de sous-directeur du pôle recrutement de la direction des ressources humaines de l'armée de terre et délégué à la jeunesse pour l'armée de terre ;
+71° Chargé des fonctions de sous-directeur du pôle recrutement jeunesse de la direction des ressources humaines de l'armée de terre et délégué à la jeunesse pour l'armée de terre ;
 
 72° Officier général “ transformation et synthèse ” de l'état-major de la marine ;
 
@@ -526,7 +526,7 @@ F. - Emplois relevant du groupe 4 :
 
 90° Commandant de la brigade aérienne connaissance et anticipation ;
 
-91° Commandant de la brigade aérienne de l'aviation de chasse ;
+91° Commandant de la brigade aérienne de l'aviation de chasse et gouverneur militaire de Nancy ;
 
 92° Commandant de la brigade aérienne d'assaut et de projection ;
 
@@ -588,23 +588,27 @@ F. - Emplois relevant du groupe 4 :
 
 121° Officier général " haut encadrement militaire " de l'état-major des armées ;
 
-122° Chargé de mission auprès du major général des armées ;
+122° Officier général commandant le commandement pour l'Afrique ;
 
-123° Commandant de l'école des transmissions et commandant en second du commandement des systèmes d'information et de communication des forces terrestres ;
+123° Commandant de l'école des transmissions, du numérique et du cyber ;
 
-124° Commandant de l'école du matériel ou commandant de l'école du train et de la logistique opérationnelle (1) ;
+124° Inspecteur à l'inspection du service de santé des armées ;
 
-125° Général commandant de l'école d'artillerie ou général commandant de l'école de l'infanterie (2) ;
+125° Officier général “ relations internationales ” de l'armée de l'air et de l'espace ;
 
 126° Chargé de mission auprès du major général des armées ;
 
-127° Général commandant de la brigade du génie.
+127° Général commandant de la brigade du génie ;
+
+128° Général commandant de la brigade de renseignement et cyber-électronique ;
+
+129° Directeur adjoint de l'école du Val-de-Grâce.
 
 G. - Emplois relevant du groupe 5 :
 
 1° Chef d'état-major de la direction du renseignement et de la sécurité de la défense ;
 
-2° Secrétaire permanent aux investissements auprès du ministre de la défense ;
+2° Chef du bureau réservé du cabinet du ministre de la défense ;
 
 3° Directeur de cabinet adjoint en charge de la sécurité de la direction générale de la sécurité extérieure ;
 
@@ -620,17 +624,9 @@ G. - Emplois relevant du groupe 5 :
 
 9° Chef de la mission de retour à la vie civile des officiers généraux ;
 
-10° Chargé de mission auprès du directeur central du service du commissariat des armées ;
-
-11° (Supprimé) ;
-
 12° Chef de la division " Euratlantique " à l'état-major des armées ;
 
 13° Chef de la division " coopération bilatérale Sud " à l'état-major des armées ;
-
-14° (Supprimé) ;
-
-15° (Supprimé) ;
 
 16° Officier général, commandant le service militaire volontaire ;
 
@@ -640,7 +636,7 @@ G. - Emplois relevant du groupe 5 :
 
 19° Adjoint au chef de la division opérations de la direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense ;
 
-20° Officier général chargé de la transformation digitale des armées, adjoint au chef de la division stratégie numérique des armées ;
+20° Officier général chargé de l'interopérabilité, adjoint au chef de la division stratégie numérique des armées ;
 
 21° Chargé de mission auprès du major général de la marine ;
 
@@ -648,13 +644,11 @@ G. - Emplois relevant du groupe 5 :
 
 23° Directeur adjoint du service interarmées des munitions ;
 
-24° (Supprimé) ;
+25° Chargé de mission auprès du major général des armées ;
 
-25° Sous-chef d'état-major " opérations " du corps de réaction rapide européen ;
+26° Commandant de l'école militaire de spécialisation de l'outre-mer et de l'étranger ;
 
-26° Sous-chef d'état-major " soutien " du corps de réaction rapide européen ;
-
-27° Sous-chef d'état-major " assistance et influence " du corps de réaction rapide européen ;
+27° Commandant en second de la 3e division ;
 
 28° Officier général adjoint engagements à l'officier général de zone de défense et de sécurité Est ;
 
@@ -668,13 +662,9 @@ G. - Emplois relevant du groupe 5 :
 
 33° Officier général adjoint engagements à l'officier général de zone de défense et de sécurité de Paris ;
 
-34° Officier général adjoint au directeur de l'enseignement militaire supérieur ;
-
 35° Directeur de l'enseignement de l'Ecole de guerre ;
 
 36° Directeur adjoint du centre interarmées de concepts, de doctrines et d'expérimentations ;
-
-37° Chargé de mission auprès du directeur central du service du commissariat des armées ;
 
 38° Adjoint au sous-directeur " opérations " de la direction de la maintenance aéronautique et commandant de la marine à Bordeaux ;
 
@@ -684,41 +674,41 @@ G. - Emplois relevant du groupe 5 :
 
 41° Chargé de mission auprès du major général de l'armée de l'air et de l'espace ;
 
-42° Commandant du service des essais et expérimentations aéronautiques de la défense ;
+42° Chargé de mission auprès du major général des armées ;
 
-43° (Supprimé) ;
+43° Commandant de l'école du matériel ou commandant de l'école du train et de la logistique opérationnelle (1) ;
 
-44° Officier général, chef de projet “ synthèse et transformation ” de l'état-major de l'armée de terre ;
+44° Officier général adjoint performance ;
 
-45° Officier général, chef de projet performance des soutiens de l'état-major de l'armée de terre ;
+45° Officiel général adjoint soutiens ;
 
-46° Officier général “ numérique et cyber ” de l'état-major de l'armée de terre ;
+46° Officier général “ numérique et cyberdéfense ” de l'état-major de l'armée de terre ;
 
-47° Chef de la division capacités Scorpion de l'état-major du commandement des forces terrestres ;
+47° Général adjoint au commandant terre pour l'Europe et commandant le poste de commandement terre pour les opérations en Europe ;
 
 48° Inspecteur à l'inspection de l'armée de terre ;
 
-49° Officier général en charge des blessés de l'armée de terre, rattaché au directeur des ressources humaines de l'armée de terre ;
+49° Chargé des fonctions de sous-directeur du pôle accompagnement de la direction des ressources humaines de l'armée de terre ;
 
-50° Général commandant en second des forces spéciales Terre ;
+50° Chargé de mission auprès du major général de l'armée de terre ;
 
 51° Général commandant en second de l'aviation légère de l'armée de terre ;
 
-52° Chef de la division formation préparation à l'engagement de l'état-major du commandement des forces terrestres ;
+52° Chef de la division “ emploi opérationnel ” de l'état-major du commandement de la force et des opérations terrestres ;
 
 53° Chef de la division performance de l'état-major du commandement des forces terrestres ;
 
-54° Commandant de la division renseignement du corps de réaction rapide-France ;
+54° Inspecteur à l'inspection de l'armée de terre ;
 
 55° Chargé de mission auprès du major général de l'armée de terre ;
 
 56° Secrétaire général adjoint du secrétaire général de la garde nationale ;
 
-57° Commandant de la division plans et environnement de l'état-major du corps de réaction rapide-France ;
+57° Chef de la division “ plans et environnement ” de l'état-major du corps de réaction rapide-France ;
 
-58° Général commandant en second du renseignement des forces terrestres ;
+58° Général commandant en second les actions dans la profondeur et du renseignement ;
 
-59° Chargé de mission auprès du major général de l'armée de terre ;
+59° Commandant de l'école de l'aviation légère de l'armée de terre ;
 
 60° Inspecteur à l'inspection de l'armée de terre ;
 
@@ -726,25 +716,23 @@ G. - Emplois relevant du groupe 5 :
 
 62° Inspecteur à l'inspection de l'armée de terre
 
-63° Chargé des fonctions de sous-directeur du pôle enseignement militaire supérieur-Terre de la direction des ressources humaines de l'armée de terre ;
+63° Directeur du centre de l'enseignement militaire supérieur Terre ;
 
-64° Général commandant en second de l'entraînement et des écoles du combat interarmes ;
+64° Commandant les centres d'entraînement spécialisés ;
 
-65° Inspecteur à l'inspection de l'armée de terre ;
+65° Général commandant de l'école d'artillerie ou général commandant de l'école de l'infanterie (2) ;
 
 66° Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres, chargé des fonctions de sous-directeur " performance-synthèse " ;
 
 67° Directeur adjoint du service de la maintenance industrielle terrestre ;
 
-68° Chargé de mission auprès du major général des armées ;
+68° Officier général commandant en second le commandement pour l'Afrique ;
 
 69° Chargé de mission auprès du major général de l'armée de terre ;
 
-70° Général adjoint, commandant en second de la maintenance des forces terrestres ;
+70° Commandant en second de l'appui et de la logistique de théâtre ;
 
-71° Commandant de la division systèmes d'information, communications et cyberdéfense de l'état-major du corps de réaction rapide-France ;
-
-72° Général adjoint opérations du commandement des systèmes d'information et de communication des forces terrestres ;
+71° Chef de la division “ systèmes d'information, communications et cyberdéfense ” de l'état-major du corps de réaction rapide-France ;
 
 73° Adjoint au sous-chef d'état-major " opérations aéronavales " chargé de la " maîtrise des fonds sous-marins " ;
 
@@ -778,11 +766,11 @@ G. - Emplois relevant du groupe 5 :
 
 88° Conseiller " administration générale et soutien commun " auprès du major général de l'armée de l'air et de l'espace ;
 
-89° Officier général délégué aux relations extérieures de l'armée de l'air et de l'espace ;
+89° Commandant de la brigade aérienne technique et logistique ;
 
-90° Directeur de projet " soutien opérationnel 4.0 " auprès du chef d'état-major de l'armée de l'air et de l'espace ;
+90° Général adjoint maintien en condition opérationnelle auprès du sous-chef d'état-major “ activité ” de l'état-major de l'armée de l'air et de l'espace ;
 
-91° Commandant de la brigade aérienne technique et logistique ;
+91° Commissaire général délégué et directeur de la plate-forme commissariat Sud-Est ;
 
 92° Chef du groupement de soutien de la base de défense de Brest-Lorient ;
 
@@ -790,9 +778,9 @@ G. - Emplois relevant du groupe 5 :
 
 94° Chef du groupement de soutien de la base de défense de Toulon ;
 
-95° Directeur de la plate-forme commissariat Sud-Ouest ;
+95° Commissaire général délégué et directeur de la plate-forme commissariat Sud-Ouest ;
 
-96° Chef de la division " numérique " de la direction centrale du service du commissariat des armées ;
+96° Chargé des fonctions de sous-directeur métiers au sein de la direction centrale du service du commissariat des armées ;
 
 97° Chargé des fonctions de sous-directeur " employeur " de la direction centrale du service du commissariat des armées ;
 
@@ -806,13 +794,13 @@ G. - Emplois relevant du groupe 5 :
 
 102° Directeur du centre interarmées du soutien " administration des opérations " ;
 
-103° Médecin-chef de l'hôpital d'instruction des armées Desgenettes ;
+103° Commissaire général délégué et directeur de la plate-forme commissariat Ouest ;
 
 104° Médecin-chef de l'hôpital d'instruction des armées Robert Picqué ;
 
 105° Médecin-chef de l'hôpital d'instruction des armées Legouest ;
 
-106° Chef du bureau " haut encadrement militaire en santé " de la direction centrale du service de santé des armées ;
+106° Officier général du patrimoine de l'académie de santé des armées ;
 
 107° Directeur adjoint des approvisionnements en produits de santé des armées ;
 
@@ -840,7 +828,7 @@ G. - Emplois relevant du groupe 5 :
 
 119° (Droit réservé à un organisme relevant du ministère de la défense) ;
 
-120° Directeur de l'atelier industriel aéronautique de Bretagne ;
+121° Directeur de l'atelier industriel aéronautique de Bretagne.
 
 (1) N'occupant pas les fonctions de commandant des écoles militaires de Bourges.
 
@@ -848,4 +836,4 @@ G. - Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 4 de l’arrêté du 28 juin 2024 (NOR : ARMH2418174A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de juillet 2024.
+Conformément à l’article 3 de l’arrêté du 29 juillet 2024 (NOR : ARMH2421078A), ces dispositions entrent en vigueur le 1er août 2024.
