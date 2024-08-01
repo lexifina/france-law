@@ -1,0 +1,37 @@
+# Article 1er
+
+L'article 7 « Régime de retraite et de prévoyance » de l'accord du 17 janvier 2018 relatif aux classifications est supprimé et remplacé comme suit :
+
+« Article 7
+
+Régimes de retraite et de prévoyance
+
+7.1.
+
+(1)
+
+La détermination des participants au régime de retraite complémentaire des cadres sera effectuée dans les conditions suivantes au regard l'accord national interprofessionnel du 17 novembre 2017 :
+
+7.1.1.   Les salariés classés au niveau II. 7 devront être affiliés au titre de l'article 2.2 de l'ANI du 17 novembre 2017 relatif à la prévoyance des cadres (anciennement “ article 4 bis ” de la CCN des cadres du 14 mars 1947) ;
+
+7.1.2.   Les salariés classés aux niveaux III. 1 à III. 10 devront être affiliés au titre de l'article 2.1 de l'ANI du 17 novembre 2017 relatif à la prévoyance des cadres (anciennement “ article 4 ” de la CCN des cadres du 14 mars 1947) ;
+
+7.1.3.   Les salariés classés aux niveaux II. 1 à II. 6 pourront être affiliés au titre de l'article 2 de l'ANI du 17 novembre 2017 relatif à la prévoyance des cadres (anciennement “ article 36 ” de la CCN des cadres du 14 mars 1947) ;
+
+7.1.4.   Aucun salarié classé aux niveaux I. 1 à I. 6 ne pourra être affilié au titre de l'article 2 de l'ANI du 17 novembre 2017 relatif à la prévoyance des cadres.
+
+Les salariés bénéficiant au moment de la mise en place de la nouvelle classification de l'article 2 de l'ANI du 17 novembre 2017 (anciennement articles 4,4 bis et 36 de la CCN des cadres du 14 mars 1947) bénéficient du maintien de leur situation antérieure en matière de droits et garanties afférents à la retraite complémentaire des cadres, quel que soit leur niveau de classification au sein de la nouvelle grille en application du présent accord.
+
+7.2.
+
+(2)   La détermination des participants au régime conventionnel de prévoyance au titre des avenants cadres et non-cadres est effectuée dans les mêmes conditions que celles prévues au paragraphe 7.1 ci-dessus en matière de retraite complémentaire.
+
+De même, les salariés bénéficiant du régime de prévoyance des cadres, au moment de la mise en place de la nouvelle classification, bénéficient du maintien de leur situation antérieure en matière de droits et garanties afférents audit régime, quel que soit leur niveau de classification au sein de la nouvelle grille en application du présent accord. »
+
+(1) L'article 7.1 est étendu sous réserve de l'application des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime unique de retraite complémentaire AGIRC-ARRCO et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres étendus par arrêtés du 24 avril et du 27 juillet 2018.
+
+(Arrêté du 2 octobre 2024 - art. 1)
+
+(2) L'article 7.2 est étendu sous réserve du respect des dispositions des articles L. 242-1 et R. 242-1-1 du code de la sécurité sociale.
+
+(Arrêté du 2 octobre 2024 - art. 1)
