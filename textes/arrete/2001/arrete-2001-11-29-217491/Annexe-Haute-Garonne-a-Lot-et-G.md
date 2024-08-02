@@ -140,61 +140,45 @@ C |
 
 13 |
 
-Direction départementale de l'équipement d'Ille-et-Vilaine
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER D'ILLE-ET-VILAINE
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification de l'emploi
+Nombre d'emplois |
 
-|
+Nombre de points (IM) par emploi |
 
-NOMBRE
+Chargé de mission ANRU-Pôle d'appui aux territoires et connaissance-Service Aménagement des territoires et transitions |
 
-d'emplois
+A |
 
-|
+1 |
 
-NOMBRE DE POINTS (IM)
+25 |
 
-par emploi
+Chargé de mission territoriales mutualisé-Pôle d'appui aux territoires et connaissance
 
-|
+-Service Aménagement des territoires et transitions |
 
-Chef du bureau chargé de la politique de la ville
+B |
 
-|
+1 |
 
-A
+15 |
 
-|
+Chargé du suivi des organismes bailleurs, instructrice du financement du logement social-Pôle logement
 
-1
+-Service logement et construction durable |
 
-|
+B |
 
-25 points
+1 |
 
-|
-
-Chargé de la gestion des crédits de la politique de la ville
-
-|
-
-B
-
-|
-
-2
-
-|
-
-15 points
-
-|
+15 |
 
 Direction départementale de l'équipement de l'Indre
 
