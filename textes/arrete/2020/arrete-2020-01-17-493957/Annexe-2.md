@@ -258,48 +258,6 @@ Commentaires :
 
 Le métier de psychomotricien s'exerce dans un cadre pluridisciplinaire et pluriprofessionnel. La conception et la réalisation d'interventions, en articulation avec celles des autres professionnels des équipes et des partenaires, sera indispensable. |
 
-Techniciens de laboratoire médical
+NOTA :
 
-Attendus nationaux |
-
-Critères nationaux pris en compte |
-
-1 - Intérêt pour les sciences, l'évolution scientifique, le domaine de la santé |
-
-1-1 Connaissances dans le champ scientifique et technologique (biologie, physiologie, physique-chimie, mathématiques) |
-
-1-2 Connaissances dans le domaine sanitaire et social |
-
-1-3 Représentation du métier et de la biologie médicale |
-
-1-4 Intérêt et usages des outils et ressources numériques |
-
-2 - Compétences à la démarche scientifique |
-
-2-1 Aptitude au raisonnement scientifique, logique |
-
-2-2, Aptitude à la recherche, mobilisation et mise en liens des informations |
-
-2-3 Capacité d'étonnement, sens critique et discernement, créativité |
-
-3 - Compétences relationnelles |
-
-3-1 Aptitude à l'attention, l'écoute et l'empathie |
-
-3-2 Aptitude à collaborer et travailler en équipe |
-
-3-3 Capacités à communiquer et intégrer des groupes |
-
-3-4 Sens de l'intérêt général |
-
-4 - Maitrise d'expression |
-
-4-1 Maîtrise du français à l'écrit comme à l'oral |
-
-4-2 Aptitude à communiquer en langues étrangères (notamment anglais) |
-
-5 - Compétences organisationnelles |
-
-5-1 Rigueur, assiduité, persévérance |
-
-5-2 Capacité à s'organiser, respect des engagements, autonomie au travail |
+Conformément à l’article 2 de l’arrêté du 31 juillet 2024 (NOR : TSSH2412643A), ces dispositions s'appliquent au 1er septembre 2024.
