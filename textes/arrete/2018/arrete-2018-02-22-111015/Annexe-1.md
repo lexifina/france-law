@@ -14,7 +14,7 @@ B. Financement des CRDN
 
 II. Missions du CRDN
 
-A. Identification, information et formation des professionnels de santé responsables du prélèvement - Fourniture du matériel nécessaire au dépistage
+A. Identification, information et formation des professionnels de santé responsables du prélèvement-Fourniture du matériel nécessaire au dépistage
 
 1. Missions dévolues au laboratoire de biologie médicale du centre régional de dépistage néonatal
 
@@ -70,11 +70,11 @@ Les missions confiées au CRDN, ses objectifs, ses moyens et son financement fon
 
 Le CRDN associe au sein du même établissement de santé une équipe comportant :
 
-- au moins un biologiste médical faisant partie du laboratoire de biologie médicale de l'établissement en charge de la réalisation des examens de biologie médicale nécessaires au DNN ;
+-au moins un biologiste médical faisant partie du laboratoire de biologie médicale de l'établissement en charge de la réalisation des examens de biologie médicale nécessaires au DNN ;
 
-- au moins un pédiatre de l'établissement. Ce pédiatre assure plus particulièrement les liens avec les professionnels de santé responsables des prélèvements et ceux en charge de la confirmation diagnostique. En cas de dépistage positif, il a la responsabilité de prévenir les professionnels de santé concernés, en particulier les pédiatres référents des structures de soins identifiées par le CRDN pour la confirmation diagnostique, afin d'organiser la confirmation diagnostique dans le délai attendu sans perte de chance pour le nouveau-né ;
+-au moins un pédiatre de l'établissement. Ce pédiatre assure plus particulièrement les liens avec les professionnels de santé responsables des prélèvements et ceux en charge de la confirmation diagnostique. En cas de dépistage positif, il a la responsabilité de prévenir les professionnels de santé concernés, en particulier les pédiatres référents des structures de soins identifiées par le CRDN pour la confirmation diagnostique, afin d'organiser la confirmation diagnostique dans le délai attendu sans perte de chance pour le nouveau-né ;
 
-- un secrétariat unique dédié.
+-un secrétariat unique dédié.
 
 Un coordonnateur est identifié au sein du CRDN par le directeur de l'établissement de santé qui l'abrite. Il est notamment l'interlocuteur de la direction de l'établissement, de l'ARS et des instances nationales du DNN. Il rédige le rapport annuel d'activité du CRDN.
 
@@ -86,43 +86,43 @@ Le CRDN centralise les données individuelles concernant le DNN dans sa région 
 
 Le CRDN identifie et coordonne au niveau régional l'ensemble des acteurs qui concourent au DNN :
 
-- les sites ou personnes qui réalisent les prélèvements selon le manuel de prélèvement du laboratoire du CRDN (les maternités et les services accueillant les nouveau-nés, les sages-femmes et médecins concernés en établissement et en ville) ;
+-les sites ou personnes qui réalisent les prélèvements selon le manuel de prélèvement du laboratoire du CRDN (les maternités et les services accueillant les nouveau-nés, les sages-femmes et médecins concernés en établissement et en ville) ;
 
-- les centres de référence maladies rares et centres de compétences maladies rares en charge des maladies dépistées, ou à défaut les unités de pédiatrie qui ont la responsabilité de l'étape de confirmation diagnostique et de la prise en charge ultérieure des nouveau-nés confirmés malades en organisant leur parcours de soins. Pour chacune des maladies dépistées, des pédiatres référents en charge de la confirmation diagnostique et du suivi des nouveau-nés confirmés malades sont identifiés par le CRDN dans ces structures de soins au sein de la région.
+-les centres de référence maladies rares et centres de compétences maladies rares en charge des maladies dépistées, ou à défaut les unités de pédiatrie qui ont la responsabilité de l'étape de confirmation diagnostique et de la prise en charge ultérieure des nouveau-nés confirmés malades en organisant leur parcours de soins. Pour chacune des maladies dépistées, des pédiatres référents en charge de la confirmation diagnostique et du suivi des nouveau-nés confirmés malades sont identifiés par le CRDN dans ces structures de soins au sein de la région.
 
 Le CRDN s'appuie sur les réseaux de santé en périnatalité, dans le cadre des missions qui leur sont confiées et financées par les ARS, pour :
 
-- l'identification des besoins et la mise en œuvre des actions d'amélioration du dispositif régional et de formation du personnel responsable du prélèvement ;
+-l'identification des besoins et la mise en œuvre des actions d'amélioration du dispositif régional et de formation du personnel responsable du prélèvement ;
 
-- l'information des professionnels et du grand public ;
+-l'information des professionnels et du grand public ;
 
-- ou toute autre mission identifiée par l'ARS en relation avec le DNN dans leur région.
+-ou toute autre mission identifiée par l'ARS en relation avec le DNN dans leur région.
 
 L'organisation régionale mise en place doit assurer autant que possible la réalisation à l'échelon régional de l'ensemble des techniques de biologie médicale nécessaires au dépistage de l'ensemble des maladies prévues par le programme national, sans transmission secondaire. Cependant, pour des raisons techniques, d'expertise ou d'efficience, la réalisation de tout ou partie des examens de biologie médicale du DNN peut être déléguée à un laboratoire de biologie médicale d'un autre établissement de santé que celui qui abrite le secrétariat du CRDN au sein de la même région ou éventuellement au laboratoire de biologie médicale de l'établissement de santé au sein duquel est établi le CRDN d'une autre région (cf. art. L. 6211-19 du CSP). Tout ou partie des missions de secrétariat peut alors être assuré par le secrétariat du CRDN dont le laboratoire réalise les examens de biologie médicale. Cette organisation doit permettre de respecter le délai de prise en charge optimale des nouveau-nés pour les maladies dépistées concernées, sans retard préjudiciable. Elle doit faire l'objet d'une convention entre les établissements de santé concernés au sein de la région et d'un accord de l'ARS, ou d'une convention entre les établissements concernés et d'un accord des ARS concernées si l'organisation est interrégionale (il s'agit d'un contrat de coopération visé à l'art. L. 6212-6 du CSP).
 
-Le CRDN s'engage à réaliser l'ensemble des actions prévues dans le cahier des charges, en particulier à assurer l'exhaustivité aux étapes clés du DNN (exhaustivité des prélèvements, des résultats du dépistage et des résultats de la confirmation diagnostique) dans les délais attendus (sont considérés comme attendus les délais médians enregistrés antérieurement par la/les association (s) régionale (s) que le CRDN remplace). Pour cela, il s'engage à communiquer régulièrement avec l'ARS et les instances nationales du DNN.
+Le CRDN s'engage à réaliser l'ensemble des actions prévues dans le cahier des charges, en particulier à assurer l'exhaustivité aux étapes clés du DNN (exhaustivité des prélèvements, des résultats du dépistage et des résultats de la confirmation diagnostique) dans les délais attendus (sont considérés comme attendus les délais médians enregistrés antérieurement par la/ les association (s) régionale (s) que le CRDN remplace). Pour cela, il s'engage à communiquer régulièrement avec l'ARS et les instances nationales du DNN.
 
 B. Financement des CRDN
 
 La construction du budget des CRDN prend en compte forfaitairement l'ensemble des coûts des dépistages :
 
-- le financement des examens de biologie médicale ;
+-le financement des examens de biologie médicale ;
 
-- les missions de coordination (d'amont et d'aval de la phase analytique) réalisées par les membres du CRDN ;
+-les missions de coordination (d'amont et d'aval de la phase analytique) réalisées par les membres du CRDN ;
 
-- le coût des consommables (buvards vierges, réactifs, enveloppes T qui permettent aux sites préleveurs d'adresser les buvards au CRDN pour la réalisation des examens de biologie médicale, documents d'information sur le DNN et les maladies dépistées, etc.) ;
+-le coût des consommables (buvards vierges, réactifs, enveloppes T qui permettent aux sites préleveurs d'adresser les buvards au CRDN pour la réalisation des examens de biologie médicale, documents d'information sur le DNN et les maladies dépistées, etc.) ;
 
-- la prise en compte des coûts de maintenance et d'adaptation (appareils de biologie médicale, SI spécifique au DNN) ;
+-la prise en compte des coûts de maintenance et d'adaptation (appareils de biologie médicale, SI spécifique au DNN) ;
 
-- les frais liés à l'édition des supports d'information définis à l'échelon national ;
+-les frais liés à l'édition des supports d'information définis à l'échelon national ;
 
-- l'affranchissement des enveloppes T.
+-l'affranchissement des enveloppes T.
 
 Chaque région perçoit une dotation construite à partir du nombre de naissances et tenant compte des missions du CRDN. Les montants régionaux sont arrêtés au terme de la sélection des CRDN dans chaque région. Les ARS conventionnent avec l'établissement abritant le CRDN pour définir les modalités d'attribution de la dotation.
 
 II. Missions du CRDN
 
-A. Identification, information et formation des professionnels de santé responsables du prélèvement - Fourniture du matériel nécessaire au dépistage
+A. Identification, information et formation des professionnels de santé responsables du prélèvement-Fourniture du matériel nécessaire au dépistage
 
 1. Missions dévolues au laboratoire de biologie médicale du centre régional de dépistage néonatal
 
@@ -130,7 +130,7 @@ Conformément à l'article L. 6212-1 du CSP, le laboratoire de biologie médical
 
 Concernant la phase pré-analytique, si elle est réalisée en dehors du laboratoire de biologie médicale, elle implique la mise en œuvre des conventions prévues aux articles L. 6211-14 (en cas de réalisation en dehors d'un établissement de santé) ou L. 6211-15 du CSP (en cas de réalisation au sein d'un établissement de santé).
 
-Le prélèvement en vue du DNN est réalisé sur buvard chez le nouveau-né au mieux 72 heures après la naissance et en aucun cas avant 48 heures. Ce prélèvement est réalisé par du personnel (sage-femme, médecin, biologiste médical, infirmière, puéricultrice, technicien de laboratoire médical) de la maternité ou du service accueillant le nouveau-né en cas de transfert. Il peut également être réalisé en ville en cas de sortie de maternité avant 48h ou d'accouchement en dehors d'une maternité. Dans le cas où les prélèvements sont réalisés au sein d'un établissement de santé, un professionnel référent pour le DNN est identifié pour assurer la bonne information sur le DNN et être l'interlocuteur principal du CRDN.
+Le prélèvement en vue du DNN est réalisé sur buvard chez le nouveau-né 48 heures après la naissance. A défaut, le prélèvement sanguin est effectué entre 48 heures et 72 heures après la naissance et, en cas d'impossibilité, au-delà de 72 heures après la naissance. Ce prélèvement est réalisé par du personnel (sage-femme, médecin, biologiste médical, infirmière, puéricultrice, technicien de laboratoire médical) de la maternité ou du service accueillant le nouveau-né en cas de transfert. Il peut également être réalisé en ville en cas de sortie de maternité avant 48h ou d'accouchement en dehors d'une maternité. Dans le cas où les prélèvements sont réalisés au sein d'un établissement de santé, un professionnel référent pour le DNN est identifié pour assurer la bonne information sur le DNN et être l'interlocuteur principal du CRDN.
 
 Les conventions susmentionnées prévoient que ce personnel est identifié, informé de l'organisation régionale du DNN et formé à la réalisation pratique du DNN. Il doit en particulier respecter les consignes de prélèvement et de délai d'envoi, et veiller à l'exhaustivité des prélèvements et de leur envoi. L'information et la formation relèvent des missions du CRDN. Le CRDN peut les déléguer, en particulier aux réseaux de santé en périnatalité.
 
@@ -138,41 +138,41 @@ Les conventions susmentionnées prévoient que ce personnel est identifié, info
 
 L'information et la formation du personnel assurant le prélèvement portent sur :
 
-- le DNN, son organisation et son délai de réalisation ;
+-le DNN, son organisation et son délai de réalisation ;
 
-- l'organisation régionale (CRDN) ;
+-l'organisation régionale (CRDN) ;
 
-- le caractère impératif de l'information des titulaires de l'autorité parentale préalablement à la réalisation du prélèvement (information donnée autant que possible avant l'accouchement et obligatoirement avant le prélèvement), comprenant la remise des documents écrits d'information sur le DNN et les maladies dépistées ;
+-le caractère impératif de l'information des titulaires de l'autorité parentale préalablement à la réalisation du prélèvement (information donnée autant que possible avant l'accouchement et obligatoirement avant le prélèvement), comprenant la remise des documents écrits d'information sur le DNN et les maladies dépistées ;
 
-- le caractère non obligatoire du DNN et la conduite à tenir si les titulaires de l'autorité parentale ne consentent pas à sa réalisation chez leur nouveau-né ;
+-le caractère non obligatoire du DNN et la conduite à tenir si les titulaires de l'autorité parentale ne consentent pas à sa réalisation chez leur nouveau-né ;
 
-- le recueil systématique du consentement écrit à la réalisation d'analyse des caractéristiques génétiques, en application de l'article L. 1131-1 du CSP, lorsque les examens de biologie médicale à réaliser dans le cadre du DNN comprennent des analyses des caractéristiques génétiques ;
+-le recueil systématique du consentement écrit à la réalisation d'analyse des caractéristiques génétiques, en application de l'article L. 1131-1 du CSP, lorsque les examens de biologie médicale à réaliser dans le cadre du DNN comprennent des analyses des caractéristiques génétiques ;
 
-- les conditions optimales de prélèvement et de transmission des buvards ;
+-les conditions optimales de prélèvement et de transmission des buvards ;
 
-- le remplissage du carnet de santé précisant la date du prélèvement.
+-le remplissage du carnet de santé précisant la date du prélèvement.
 
 3. Autres missions du CRDN
 
 Le CRDN doit :
 
-- mettre à disposition des personnels qui réalisent le prélèvement le chapitre concernant le DNN du manuel de prélèvement du laboratoire de biologie médicale ; ces dispositions tiennent compte des recommandations nationales pour la réalisation du prélèvement en vue du DNN ;
+-mettre à disposition des personnels qui réalisent le prélèvement le chapitre concernant le DNN du manuel de prélèvement du laboratoire de biologie médicale ; ces dispositions tiennent compte des recommandations nationales pour la réalisation du prélèvement en vue du DNN ;
 
-- mettre à disposition des personnels qui réalisent le prélèvement le buvard support de prélèvement et l'enveloppe T d'envoi du buvard (le modèle de buvard est établi à l'échelon national) ;
+-mettre à disposition des personnels qui réalisent le prélèvement le buvard support de prélèvement et l'enveloppe T d'envoi du buvard (le modèle de buvard est établi à l'échelon national) ;
 
-- mettre à disposition des personnels qui informent ou réalisent le prélèvement le matériel d'information destiné aux parents (les documents sont établis à l'échelon national) ;
+-mettre à disposition des personnels qui informent ou réalisent le prélèvement le matériel d'information destiné aux parents (les documents sont établis à l'échelon national) ;
 
-- mettre à disposition des personnels qui réalisent le prélèvement le formulaire de refus de réalisation du DNN ;
+-mettre à disposition des personnels qui réalisent le prélèvement le formulaire de refus de réalisation du DNN ;
 
-- réaliser des sessions de formation en tant que de besoin auprès des professionnels qui informent ou réalisent le prélèvement, en coopération avec les réseaux de santé en périnatalité ;
+-réaliser des sessions de formation en tant que de besoin auprès des professionnels qui informent ou réalisent le prélèvement, en coopération avec les réseaux de santé en périnatalité ;
 
-- organiser l'étape de confirmation diagnostique ;
+-organiser l'étape de confirmation diagnostique ;
 
-- assurer le retour d'information de tous les résultats du DNN auprès des maternités, services accueillant les nouveau-nés ou professionnels ayant réalisé le prélèvement en ville :
+-assurer le retour d'information de tous les résultats du DNN auprès des maternités, services accueillant les nouveau-nés ou professionnels ayant réalisé le prélèvement en ville :
 
-- résultats anormaux nécessitant une confirmation diagnostique dans un délai optimal permettant la prise en charge du nouveau-né sans perte de chance pour lui,
+-résultats anormaux nécessitant une confirmation diagnostique dans un délai optimal permettant la prise en charge du nouveau-né sans perte de chance pour lui,
 
-- résultats négatifs agrégés, communiqués mensuellement.
+-résultats négatifs agrégés, communiqués mensuellement.
 
 B. Réalisation du prélèvement et envoi du buvard
 
@@ -180,23 +180,23 @@ B. Réalisation du prélèvement et envoi du buvard
 
 Les professionnels de santé ont l'obligation d'informer les parents du programme de DNN. L'information est d'abord orale et se fait par la remise, autant que possible avant l'accouchement et obligatoirement avant le prélèvement, du dépliant d'information, réalisé au niveau national et fourni par le CRDN. Le but est d'expliquer la nature de l'acte, les objectifs du DNN et les maladies dépistées.
 
-Une personne titulaire de l'autorité parentale doit donner son consentement à la réalisation du DNN. Le consentement n'a pas besoin d'être écrit, hormis pour les examens de biologie médicale de génétique pour lesquels le consentement des deux parents est obligatoire (art. R. 1131-4 du CSP).
+Une personne titulaire de l'autorité parentale doit donner son consentement à la réalisation du dépistage néonatal. Le consentement n'a pas besoin d'être écrit, hormis pour le cas où le dépistage néonatal comporte un examen des caractéristiques génétiques. Dans ce cas, le consentement des titulaires de l'autorité parentale ou, le cas échéant, de l'un d'entre eux conformément à l'article R. 1131-22 du code de la santé publique, à la réalisation d'un examen des caractéristiques génétiques du nouveau-né, est recueilli par écrit sur le buvard de prélèvement.
 
 Le refus du DNN doit :
 
-- faire l'objet de la signature, par le titulaire de l'autorité parentale qui a refusé la réalisation du DNN, d'un formulaire type de refus, fixé par arrêté du ministère chargé de la santé et fourni aux services préleveurs par le CRDN ;
+-faire l'objet de la signature, par le titulaire de l'autorité parentale qui a refusé la réalisation du DNN, d'un formulaire type de refus, fixé par arrêté du ministère chargé de la santé et fourni aux services préleveurs par le CRDN ;
 
-- conduire à archiver le formulaire signé au niveau, d'une part, du service préleveur dans le dossier de la mère et, d'autre part, du CRDN après transmission systématique ;
+-conduire à archiver le formulaire signé au niveau, d'une part, du service préleveur dans le dossier de la mère et, d'autre part, du CRDN après transmission systématique ;
 
-- conduire à renseigner (cf. mentions ci-dessous) et transmettre systématiquement au CRDN un buvard de prélèvement sans prélèvement sanguin ( buvard blanc ) ;
+-conduire à renseigner (cf. mentions ci-dessous) et transmettre systématiquement au CRDN un buvard de prélèvement sans prélèvement sanguin (buvard blanc) ;
 
-- conduire à inscrire l'information dans le carnet de santé du nouveau-né remis aux titulaires de l'autorité parentale.
+-conduire à inscrire l'information dans le carnet de santé du nouveau-né remis aux titulaires de l'autorité parentale.
 
 En cas de refus du DNN, le CRDN doit :
 
-- archiver les formulaires de refus ;
+-archiver les formulaires de refus ;
 
-- recenser les refus et transmettre leur nombre à l'ARS et au niveau national.
+-recenser les refus et transmettre leur nombre à l'ARS et au niveau national.
 
 2. Demande de l'examen
 
@@ -208,61 +208,61 @@ L'identification du buvard respecte les mentions prévues à l'article D. 6211-2
 
 Les mentions figurant sur le buvard sont au moins les suivantes :
 
-- nom de naissance ;
+-nom de naissance ;
 
-- prénom ;
+-prénom ;
 
-- date de naissance et heure de naissance ;
+-date de naissance et heure de naissance ;
 
-- sexe ;
+-sexe ;
 
-- terme et poids de naissance ;
+-terme et poids de naissance ;
 
-- date et heure de prélèvement ;
+-date et heure de prélèvement ;
 
-- lieu d'accouchement et code de la maternité ;
+-lieu d'accouchement et code de la maternité ;
 
-- lieu de prélèvement autre que maternité et code ;
+-lieu de prélèvement autre que maternité et code ;
 
-- numéro d'accouchement ;
+-numéro d'accouchement ;
 
-- grossesse multiple et rang de naissance ;
+-grossesse multiple et rang de naissance ;
 
-- nom de naissance de la mère ;
+-nom de naissance de la mère ;
 
-- adresse des parents ;
+-adresse des parents ;
 
-- téléphone des parents, adresse électronique ;
+-téléphone des parents, adresse électronique ;
 
-- coordonnées du médecin traitant ;
+-coordonnées du médecin traitant ;
 
-- consentement des parents pour la réalisation d'examens de biologie médicale de génétique, si justifié ;
+-consentement des parents pour la réalisation d'examens de biologie médicale de génétique, si justifié ;
 
-- identification du préleveur ;
+-identification du préleveur ;
 
-- renseignements cliniques utiles si besoin.
+-renseignements cliniques utiles si besoin.
 
 Peuvent figurer sur le buvard des mentions concernant d'autres dépistages, notamment le dépistage de la surdité permanente néonatale.
 
 3. Réalisation du prélèvement sur buvard
 
-Le prélèvement doit être réalisé au mieux 72 heures après la naissance et en aucun cas avant 48 heures. Il est pratiqué conformément au manuel de prélèvement du laboratoire de biologie médicale.
+Le prélèvement doit être réalisé 48 heures après la naissance. A défaut, le prélèvement est effectué entre 48 heures et 72 heures après la naissance et, en cas d'impossibilité, au-delà de 72 heures après la naissance. Il est pratiqué conformément au manuel de prélèvement du laboratoire de biologie médicale.
 
 4. Transport du buvard
 
-Le transport des buvards est exempté de dispositions particulières de transport par la réglementation ADR (accord européen relatif au transport international des marchandises dangereuses par la route - European Agreement concerning the international Carriage of Dangerous Goods by Road, United Nations Economic Commission for Europe [UNECE, 2009]) (1).
+Le transport des buvards est exempté de dispositions particulières de transport par la réglementation ADR (accord européen relatif au transport international des marchandises dangereuses par la route-European Agreement concerning the international Carriage of Dangerous Goods by Road, United Nations Economic Commission for Europe [UNECE, 2009]) (1).
 
 Le transport se fait à l'aide d'une enveloppe spécifique prépayée fournie par le CRDN. Les envois vers le laboratoire du CDRN doivent avoir lieu immédiatement après le prélèvement.
 
 Il est possible de mettre plusieurs buvards dans la même enveloppe mais il ne faut pas que les taches de sang soient en contact.
 
-Le délai d'acheminement optimal est de deux jours ouvrables. Un délai de 4 jours est acceptable. Un délai supérieur est trop long et doit amener à la mise en œuvre de mesures correctrices avec le préleveur et/ou le transporteur.
+Le délai d'acheminement optimal est de deux jours ouvrables. Un délai de 4 jours est acceptable. Un délai supérieur est trop long et doit amener à la mise en œuvre de mesures correctrices avec le préleveur et/ ou le transporteur.
 
 C. Réception, enregistrement, vérification de l'exhaustivité et de la conformité des buvards
 
 1. Réception et enregistrement des buvards
 
-Les buvards sont réceptionnés, enregistrés et étiquetés dans une zone unique, identifiée et dédiée à l'accueil des prélèvements du DNN au sein du CRDN ( secrétariat dédié ), par du personnel habilité pour cette activité. Ces opérations relèvent des missions du laboratoire de biologie médicale, qui les organise.
+Les buvards sont réceptionnés, enregistrés et étiquetés dans une zone unique, identifiée et dédiée à l'accueil des prélèvements du DNN au sein du CRDN (secrétariat dédié), par du personnel habilité pour cette activité. Ces opérations relèvent des missions du laboratoire de biologie médicale, qui les organise.
 
 2. Vérification de la conformité du prélèvement
 
@@ -314,13 +314,13 @@ Le CRDN doit préalablement identifier au niveau régional les structures de soi
 
 En cas de résultat anormal du dépistage :
 
-- le médecin du CRDN contacte le pédiatre référent de la maladie concernée dans la zone d'habitation du nouveau-né. Le pédiatre référent de chaque maladie a la responsabilité de l'organisation de l'étape de confirmation diagnostique dans le délai optimal attendu sans perte de chance pour le nouveau-né. Il avertit les parents directement ou par l'intermédiaire de leur médecin traitant. Il programme un rendez-vous de confirmation diagnostique dans les meilleurs délais ;
+-le médecin du CRDN contacte le pédiatre référent de la maladie concernée dans la zone d'habitation du nouveau-né. Le pédiatre référent de chaque maladie a la responsabilité de l'organisation de l'étape de confirmation diagnostique dans le délai optimal attendu sans perte de chance pour le nouveau-né. Il avertit les parents directement ou par l'intermédiaire de leur médecin traitant. Il programme un rendez-vous de confirmation diagnostique dans les meilleurs délais ;
 
-- le médecin du CRDN s'assure que la famille a été prévenue dans les meilleurs délais ;
+-le médecin du CRDN s'assure que la famille a été prévenue dans les meilleurs délais ;
 
-- le pédiatre référent de chaque maladie doit transmettre au CRDN le résultat, quel qu'il soit, de l'étape de confirmation diagnostique. Il organise la prise en charge des nouveau-nés confirmés malades ;
+-le pédiatre référent de chaque maladie doit transmettre au CRDN le résultat, quel qu'il soit, de l'étape de confirmation diagnostique. Il organise la prise en charge des nouveau-nés confirmés malades ;
 
-- le médecin du CRDN s'assure que l'étape de confirmation diagnostique est réalisée et en récupère le résultat.
+-le médecin du CRDN s'assure que l'étape de confirmation diagnostique est réalisée et en récupère le résultat.
 
 G. Archivage par le CRDN
 
@@ -328,7 +328,7 @@ Les prélèvements sont conservés au moins un an, si possible à 4° et sous at
 
 Le laboratoire de biologie médicale conserve la traçabilité des examens de biologie médicale pendant au moins 18 mois.
 
-L'archivage du résultat doit être conservé pendant 20 ans. Les CRDN devront reprendre les archives des associations régionales.
+L'archivage du résultat doit être conservé pendant 30 ans. Les CRDN devront reprendre les archives des associations régionales.
 
 H. Suivi du dépistage néonatal
 

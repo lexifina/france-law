@@ -2,7 +2,7 @@
 
 DÉPISTAGE NÉONATAL DE LA TYROSINÉMIE DE TYPE 1
 
-Les examens de biologie médicale permettant le dépistage néonatal la tyrosinémie de type 1 sont effectués avec des réactifs conformes aux normes en vigueur, y compris les matériaux associés d'étalonnage et de contrôle spécifiquement destinés à cet usage. Ces réactifs sont adaptés à des méthodes de spectrométrie de masse en tandem permettant le dosage de la succinylacétone (SA) à partir de sang déposé sur buvard. Le prélèvement sanguin est réalisé au moins 48 heures après la naissance, idéalement 72 heures après la naissance. Les résultats sont rendus en µmol/ L de sang total.
+Les examens de biologie médicale permettant le dépistage néonatal la tyrosinémie de type 1 sont effectués avec des réactifs conformes aux normes en vigueur, y compris les matériaux associés d'étalonnage et de contrôle spécifiquement destinés à cet usage. Ces réactifs sont adaptés à des méthodes de spectrométrie de masse en tandem permettant le dosage de la succinylacétone (SA) à partir de sang déposé sur buvard. Le prélèvement sanguin est réalisé 48 heures après la naissance. A défaut, le prélèvement sanguin est effectué entre 48 heures et 72 heures après la naissance et, en cas d'impossibilité, au-delà de 72 heures après la naissance. Les résultats sont rendus en µmol/ L de sang total.
 
 L'interprétation biologique de la mesure de la SA est réalisée à l'aide de seuils d'action dépendants de la technique utilisée. Les valeurs de ces seuils sont proposées et validées à partir des données des percentiles de la population concernée et réévaluées régulièrement et à chaque changement majeur de la technique.
 
@@ -13,7 +13,3 @@ L'arbre décisionnel ci-dessous décrit la démarche de dépistage néonatal de 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à cette adresse :
 
 https://www.legifrance.gouv.fr/download/pdf?id=XXjxxQYFBF9TdK2CSDPCQyL_Io1YsmDK6sXM7d5GJdk=
-
-NOTA :
-
-Conformément à l'article 4 de l'arrêté du 9 novembre 2022 (NOR : SPRP2230282A), ces dispositions s'appliquent aux enfants nés à compter du 1er janvier 2023.
