@@ -4,7 +4,7 @@ RÈGLEMENT DES ÉPREUVES SPORTIVES
 
 I.-Conditions générales
 
-Tout candidat doit être en possession d'un certificat médical d'aptitude délivré par un médecin de son choix.
+Tout candidat doit être en possession d'un certificat médical d'aptitude délivré par un médecin de son choix, ou à défaut, signer une décharge personnelle qui lui sera fournie par le service organisateur au moment des épreuves.
 
 La chronologie de réalisation des tests est la suivante :
 
