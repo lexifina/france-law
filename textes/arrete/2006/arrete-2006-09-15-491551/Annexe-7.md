@@ -1,128 +1,146 @@
 # Article Annexe 7
 
-DONNÉES DES RÉSEAUX DE CHALEUR ET DE FROID
+DONNÉES DES RÉSEAUX DE CHALEUR ET DE FROID (ANNÉES D'EXPLOITATION 2020-2021-2022)
 
-(années d'exploitation 2019-2020-2021)
+Pour l'utilisation du tableau ci-dessous :
+
+I.-Les réseaux de chaleur sont les réseaux pour lesquels l'identifiant réseau, défini à la première colonne du tableau ci-dessus, se termine par la lettre " C ". Les réseaux de froid sont les réseaux pour lesquels l'identifiant réseau, défini à la première colonne du tableau ci-dessus, se termine par la lettre " F ".
+
+II.-Les facteurs d'émission des réseaux de chaleur ou de froid définis par la quatrième colonne du tableau ci-dessus, sont les facteurs d'émission utilisés pour l'application de l'arrêté du 26 octobre 2010 relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments, conformément à son annexe VIII, et de l'arrêté du 28 décembre 2012 relatif aux caractéristiques thermiques et aux exigences de performance énergétique des bâtiments nouveaux et des parties nouvelles de bâtiments autres que ceux concernés par l'article 2 du décret du 26 octobre 2010 relatif aux caractéristiques thermiques et à la performance énergétique des constructions, conformément à son annexe VIII.
+
+III.-Les facteurs d'émission des réseaux de chaleur ou de froid définis par la cinquième colonne du tableau ci-dessus, sont les facteurs d'émission utilisés pour l'application de l'arrêté du 15 septembre 2006 relatif au diagnostic de performance énergétique pour les bâtiments ou parties de bâtiment autres que d'habitation existants proposés à la vente en France métropolitaine, de l'arrêté du 10 avril 2020 relatif aux obligations d'actions de réduction des consommations d'énergie finale dans des bâtiments à usage tertiaire, et de l'arrêté du 4 août 2021 relatif aux exigences de performance énergétique et environnementale des constructions de bâtiments en France métropolitaine et portant approbation de la méthode de calcul prévue à l'article R. 172-6 du code de la construction et de l'habitation, conformément à son article 10.
+
+IV.-Les ratios d'énergie renouvelable et de récupération des réseaux de chaleur définis par la sixième colonne du tableau ci-dessus, sont les ratios d'énergie renouvelable et de récupération utilisés pour l'application de l'arrêté du 10 avril 2020 susmentionné, de l'arrêté du 31 mars 2021 relatif au diagnostic de performance énergétique pour les bâtiments ou parties de bâtiments à usage d'habitation en France métropolitaine, et de l'arrêté du 4 août 2021 susmentionné, conformément à son article 9. Quel que soit le réseau de chaleur ou de froid, les valeurs des lignes " autres réseaux de chaleur " et " Autres réseaux de froid " du tableau ci-dessus peuvent être utilisées ; le cas échéant, seules les valeurs de ces lignes sont utilisées.
+
+V.-Dans le cas où un réseau de chaleur ou de froid fait l'objet d'un agrément du ministre chargé de la construction et de l'habitation et du ministre chargé de l'énergie conformément aux dispositions du titre V de l'arrêté du 26 octobre 2010 susmentionné et du titre V de l'arrêté du 28 décembre 2012 susmentionné, les valeurs définies dans ledit agrément peuvent être utilisées pour l'application des deux arrêtés précédemment mentionnés.
+
+VI.-Dans le cas où un réseau de chaleur ou de froid fait l'objet d'une approbation du ministre chargé de la construction et du ministre chargé de l'énergie conformément aux dispositions du titre V de l'arrêté du 4 août 2021 susmentionné, les valeurs définies dans ledit agrément peuvent être utilisées pour l'application de l'arrêté précédemment mentionné.
 
 Identifiant réseau |
 
-Nom du réseau |
+NOM DU RESEAU |
 
 LOCALISATION |
 
-Contenu CO2
+Contenu CO ₂ [kgCO2/ kWh] |
 
-[kgCO2/ kWh] |
+Contenu CO2 ACV [kgCO2/ kWh] |
 
-Contenu CO2
+Taux EnR & R [%] |
 
-" ACV "
-
-[kgCO2/ kWh |
-
-Taux EnR & R
-
-[%] |
-
-Année de référence du taux [2021 ou moyenne 2019-2020-2021] |
+Année de référence du taux [2022 ou Moyenne 2020-2021-2022] |
 
 0102C |
 
-Réseau de chaleur d'Hauteville Lompnes |
+RESEAU DE CHALEUR D'HAUTEVILLE LOMPNES |
 
 PLATEAU D'HAUTEVILLE |
 
-0,050 |
+0,057 |
 
-0,077 |
+0,089 |
 
-82,7 % |
+85,8 |
 
-2021 |
+2022 |
 
 0103C |
 
-Oyonnax BioChaleur |
+OYONNAX BIOCHALEUR |
 
 OYONNAX |
 
-0,074 |
+0,026 |
 
-0,101 |
+0,049 |
 
-68,8 % |
+89,6 |
 
-moyenne |
+2022 |
 
 0105C |
 
-Réseau de Saint-Denis-les-Bourg |
+RESEAU DE SAINT-DENIS-LES-BOURG |
 
 SAINT-DENIS-LES-BOURG |
 
-0,037 |
+0,020 |
 
-0,062 |
+0,045 |
 
-86,0 % |
+93,3 |
 
-2021 |
+2022 |
 
 0106C |
 
-Belena |
+BELENA |
 
 BELLEY |
 
-0,041 |
+0,014 |
 
-0,066 |
+0,037 |
 
-84,7 % |
+95,0 |
 
-moyenne |
+2022 |
 
 0107C |
 
-Secteur Verger du Moulin |
+SECTEUR VERGER DU MOULIN |
 
 TREFFORT-VAL-REVERMONT |
 
-0,003 |
+0,001 |
 
-0,023 |
+0,021 |
 
-98,9 % |
+99,8 |
 
-2021 |
+2022 |
 
 0108C |
 
-Bourg-en-Bresse-La Vinaigrerie |
+BOURG-EN-BRESSE-LA VINAIGRERIE |
 
 BOURG-EN-BRESSE |
 
-0,056 |
+0,057 |
 
-0,079 |
+0,081 |
 
-77,7 % |
+77,5 |
 
-moyenne |
+2022 |
+
+0109C |
+
+RESEAU CHAUFFAGE DORTAN |
+
+DORTAN |
+
+0,157 |
+
+0,198 |
+
+41,8 |
+
+2022 |
 
 0110C |
 
-Réseau de chaleur ASSURC à Bourg-en-Bresse |
+RESEAU DE CHALEUR ASSURC A BOURG-EN-BRESSE |
 
 BOURG-EN-BRESSE |
 
-0,110 |
+0,118 |
 
-0,195 |
+0,171 |
 
-25,9 % |
+39,2 |
 
-2021 |
+2022 |
 
 0111C |
 
@@ -130,325 +148,283 @@ CORMARANCHE |
 
 PLATEAU D'HAUTEVILLE |
 
-0,083 |
+0,081 |
 
-0,129 |
+0,123 |
 
-83,5 % |
+83,6 |
 
-2021 |
+2022 |
 
 0201C |
 
-Zup du Quartier Europe |
+ZUP DU QUARTIER EUROPE |
 
 SAINT-QUENTIN |
 
-0,087 |
+0,056 |
 
-0,122 |
+0,093 |
 
-55,3 % |
+66,7 |
 
-2021 |
-
-0202C |
-
-Zup de Presles |
-
-SOISSONS |
-
-0,075 |
-
-0,097 |
-
-68,5 % |
-
-2021 |
-
-0203C |
-
-Réseau de Laon |
-
-BARENTON BUGNY |
-
-0,026 |
-
-0,048 |
-
-94,4 % |
-
-2021 |
+2022 |
 
 0204C |
 
-Réseau d'Urcel |
+RESEAU D'URCEL |
 
 URCEL |
 
-0,033 |
+0,049 |
 
-0,061 |
+0,078 |
 
-87,9 % |
+84,4 |
 
-2021 |
+Moyenne |
 
 0205C |
 
-Réseau de Château Thierry |
+RESEAU DE CHATEAU THIERRY |
 
 CHATEAU-THIERRY |
 
-0,017 |
+0,008 |
 
-0,039 |
+0,029 |
 
-93,6 % |
+97,4 |
 
-2021 |
+2022 |
 
 0301C |
 
-SDC Moulins CHAMPINS |
+SDC MOULINS CHAMPINS |
 
 MOULINS |
 
-0,056 |
+0,051 |
 
-0,085 |
+0,083 |
 
-71,1 % |
+73,3 |
 
-2021 |
+2022 |
 
 0302C |
 
-Quartier Fontbouillant et Bien-Assis |
+QUARTIER FONTBOUILLANT ET BIEN-ASSIS |
 
 MONTLUCON |
 
-0,080 |
+0,093 |
 
-0,109 |
+0,124 |
 
-63,6 % |
+58,6 |
 
-2021 |
+Moyenne |
 
 0303C |
 
-Réseau de Cerilly |
+RESEAU DE CERILLY |
 
 CERILLY |
 
 0,000 |
 
-0,019 |
+0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0304C |
 
-Réseau de Meaulne |
+RESEAU DE MEAULNE |
 
 MEAULNE |
 
 0,000 |
 
-0,066 |
+0,064 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0305C |
 
-Réseau du Mayet-de-Montagne |
+RESEAU DU MAYET-DE-MONTAGNE |
 
 LE MAYET-DE-MONTAGNE |
 
-0,012 |
+0,023 |
 
-0,040 |
+0,053 |
 
-97,1 % |
+97,3 |
 
-moyenne |
+2022 |
 
 0306C |
 
-Réseau-Bellenaves |
+RESEAU-BELLENAVES |
 
 BELLENAVES |
 
 0,000 |
 
-0,017 |
+0,019 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0307C |
 
-Réseau de Commentry |
+RESEAU DE COMMENTRY |
 
 COMMENTRY |
 
-0,038 |
+0,036 |
 
-0,061 |
+0,060 |
 
-86,4 % |
+86,7 |
 
-moyenne |
+Moyenne |
 
 0308C |
 
-Réseau de chaleur d'Ebreuil |
+RESEAU DE CHALEUR D'EBREUIL |
 
 EBREUIL |
 
-0,019 |
+0,022 |
 
-0,044 |
+0,049 |
 
-94,3 % |
+93,0 |
 
-moyenne |
+Moyenne |
 
 0309C |
 
-SDC Moulins Ville |
+SDC MOULINS VILLE |
 
 MOULINS |
 
-0,062 |
+0,056 |
 
-0,098 |
+0,096 |
 
-71,1 % |
+73,3 |
 
-2021 |
+2022 |
 
 0310C |
 
-Réseau de chaleur de Cusset |
+RESEAU DE CHALEUR DE CUSSET |
 
 CUSSET |
 
-0,026 |
-
-0,047 |
-
-89,3 % |
-
-2021 |
-
-0401C |
-
-RCU Manosque Zac Chanteprunier |
-
-MANOSQUE |
-
-0,058 |
-
-0,082 |
-
-76,2 % |
-
-2021 |
-
-0402C |
-
-Réseau de la chaufferie La Tomie |
-
-FORCALQUIER |
-
 0,018 |
-
-0,040 |
-
-92,0 % |
-
-2021 |
-
-0403C |
-
-Complexe sportif forcalquier |
-
-FORCALQUIER |
-
-0,000 |
-
-0,019 |
-
-100 % |
-
-2021 |
-
-0404C |
-
-Réseau communal d'Allos |
-
-ALLOS |
-
-0,000 |
-
-0,024 |
-
-100 % |
-
-2021 |
-
-0405C |
-
-Réseau communal de Castellane |
-
-CASTELLANE |
-
-0,000 |
-
-0,017 |
-
-100 % |
-
-2021 |
-
-0406C |
-
-Réseau communal de Barcelonnette |
-
-BARCELONNETTE |
-
-0,119 |
-
-0,158 |
-
-66,6 % |
-
-moyenne |
-
-0501C |
-
-Réseau de chaleur bois Delaroche |
-
-EMBRUN |
-
-0,015 |
 
 0,039 |
 
-96,1 % |
+92,6 |
 
-2021 |
+2022 |
+
+0401C |
+
+RCU MANOSQUE ZAC CHANTEPRUNIER |
+
+MANOSQUE |
+
+0,053 |
+
+0,077 |
+
+78,3 |
+
+2022 |
+
+0402C |
+
+RESEAU DE LA CHAUFFERIE LA TOMIE |
+
+FORCALQUIER |
+
+0,014 |
+
+0,037 |
+
+94,1 |
+
+2022 |
+
+0403C |
+
+COMPLEXE SPORTIF FORCALQUIER |
+
+FORCALQUIER |
+
+0,000 |
+
+0,022 |
+
+100,0 |
+
+2022 |
+
+0404C |
+
+RESEAU COMMUNAL D'ALLOS |
+
+ALLOS |
+
+0,007 |
+
+0,030 |
+
+97,2 |
+
+Moyenne |
+
+0406C |
+
+RESEAU COMMUNAL DE BARCELONNETTE |
+
+BARCELONNETTE |
+
+0,105 |
+
+0,146 |
+
+72,5 |
+
+2022 |
+
+0501C |
+
+RESEAU DE CHALEUR BOIS DELAROCHE |
+
+EMBRUN |
+
+0,017 |
+
+0,042 |
+
+95,3 |
+
+Moyenne |
 
 0502C |
 
-Quartier gare |
+QUARTIER GARE |
 
 EMBRUN |
 
@@ -456,51 +432,51 @@ EMBRUN |
 
 0,024 |
 
-98,8 % |
+98,8 |
 
-2021 |
+2022 |
 
 0504C |
 
-Réseau de l'Association La Chrysalide |
+RESEAU DE L'ASSOCIATION LA CHRYSALIDE |
 
 TALLARD |
 
-0,093 |
+0,067 |
 
-0,116 |
+0,087 |
 
-58,2 % |
+67,9 |
 
-2021 |
+2022 |
 
 0505C |
 
-Réseau de Veynes |
+RESEAU DE VEYNES |
 
 VEYNES |
 
-0,046 |
+0,243 |
 
-0,068 |
+0,270 |
 
-79,0 % |
+30,3 |
 
-2021 |
+Moyenne |
 
 0506C |
 
-Réseau de Briançon |
+RESEAU DE BRIANÇON |
 
 BRIANCON |
 
-0,026 |
+0,009 |
 
-0,051 |
+0,032 |
 
-91,3 % |
+97,1 |
 
-2021 |
+2022 |
 
 0507C |
 
@@ -508,171 +484,171 @@ REMPARTS |
 
 EMBRUN |
 
-0,009 |
+0,006 |
 
-0,036 |
+0,031 |
 
-97,7 % |
+98,4 |
 
-2021 |
+2022 |
 
 0508C |
 
-Réseau de chaleur bois énergie |
+RESEAU DE CHALEUR BOIS ENERGIE |
 
-LE DÉVOLUY |
+LE DEVOLUY |
 
 0,000 |
 
 0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
-0601C |
+0602C |
 
-SONITHERM-Réseau de l'Ariane |
+RESEAU NICE EST |
 
 NICE |
 
-0,013 |
+0,226 |
 
-0,018 |
+0,254 |
 
-94,4 % |
+0,0 |
 
-2021 |
+2022 |
 
 0603C |
 
-Ranguin |
+RANGUIN |
 
 CANNES |
 
-0,103 |
+0,068 |
 
-0,177 |
+0,092 |
 
-32,2 % |
+70,5 |
 
-moyenne |
-
-0604C |
-
-Réseau communal de Puget Théniers |
-
-PUGET-THENIERS |
-
-0,034 |
-
-0,057 |
-
-88,1 % |
-
-2021 |
+2022 |
 
 0605C |
 
-Réseau chaleur et froid chaine de vie 06 |
+RESEAU CHALEUR ET FROID CHAINE DE VIE 06 |
 
 LEVENS |
 
-0,025 |
+0,122 |
 
-0,046 |
+0,223 |
 
-91,1 % |
+89,5 |
 
-moyenne |
+Moyenne |
 
 0606C |
 
-MSE Réseau chaud |
+MSE RESEAU CHAUD |
 
 NICE |
 
-0,283 |
+0,171 |
 
-0,317 |
+0,121 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 0606F |
 
-MSE Réseau froid |
+MSE RESEAU FROID |
 
 NICE |
 
-0,040 |
+0,063 |
 
-0,069 |
+0,106 |
 
-Non défini |
+ND |
 
-2021 |
+Moyenne |
 
 0608C |
 
-BET CAP AZUR chaud |
+BET CAP AZUR CHAUD |
 
 ROQUEBRUNE |
 
-0,061 |
+0,064 |
 
-0,031 |
+0,032 |
 
-72,0 % |
+66,3 |
 
-2021 |
+Moyenne |
 
 0608F |
 
-BET CAP AZUR froid |
+BET CAP AZUR FROID |
 
 ROQUEBRUNE |
 
-0,015 |
+0,016 |
 
-0,024 |
+0,028 |
 
-Non défini |
+ND |
 
-2021 |
+Moyenne |
+
+0609C |
+
+E2N |
+
+NICE |
+
+0,003 |
+
+0,008 |
+
+98,9 |
+
+2022 |
 
 0701C |
 
-Réseau d'Aubenas |
+RESEAU D'AUBENAS |
 
 AUBENAS |
 
-0,029 |
+0,032 |
 
-0,053 |
+0,056 |
 
-89,7 % |
+89,1 |
 
-2021 |
+Moyenne |
 
 0702C |
 
-réseau du cheylard |
+RESEAU DU CHEYLARD |
 
 LE CHEYLARD |
 
-0,020 |
+0,022 |
 
-0,044 |
+0,046 |
 
-95,3 % |
+94,9 |
 
-2021 |
+Moyenne |
 
 0703C |
 
-Chaufferie bois |
+CHAUFFERIE BOIS |
 
 VALGORGE |
 
@@ -680,209 +656,209 @@ VALGORGE |
 
 0,020 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0704C |
 
-Réseau de chaleur de Banne |
+RESEAU DE CHALEUR DE BANNE |
 
 BANNE |
 
 0,000 |
 
-0,043 |
+0,017 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0705C |
 
-Réseau de chaleur communal de Burzet |
+RESEAU DE CHALEUR COMMUNAL DE BURZET |
 
 BURZET |
 
 0,000 |
 
-0,034 |
+0,031 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0706C |
 
-Réseau de la chaufferie bois de Chalencon |
+RESEAU DE LA CHAUFFERIE BOIS DE CHALENCON |
 
 CHALENCON |
 
 0,000 |
 
-0,019 |
+0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0707C |
 
-Réseau de la chaufferie bois |
+RESEAU DE LA CHAUFFERIE BOIS |
 
 MONTPEZAT-SOUS-BAUZON |
 
 0,000 |
 
-0,023 |
+0,028 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0801C |
 
-chaufferie communale |
+CHAUFFERIE COMMUNALE |
 
 ECORDAL |
 
 0,000 |
 
-0,017 |
+0,018 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0802C |
 
-La Citadelle |
+LA CITADELLE |
 
 CHARLEVILLE-MEZIERES |
 
-0,121 |
+0,120 |
 
-0,172 |
+0,166 |
 
-43,3 % |
+42,5 |
 
-moyenne |
+2022 |
 
 0803C |
 
-Zup de Sedan |
+ZUP DE SEDAN |
 
 SEDAN |
 
-0,088 |
+0,115 |
 
-0,126 |
+0,157 |
 
-59,5 % |
+56,7 |
 
-2021 |
+Moyenne |
 
 0804C |
 
-Réseau de chaleur bois de Machault |
+RESEAU DE CHALEUR BOIS DE MACHAULT |
 
 MACHAULT |
 
-0,079 |
+0,108 |
 
-0,116 |
+0,150 |
 
-82,3 % |
+75,4 |
 
-moyenne |
+Moyenne |
 
 0805C |
 
-Réseau de chaleur au bois déchiqueté à Clavy Warby |
+RESEAU DE CHALEUR AU BOIS DECHIQUETE A CLAVY WARBY |
 
 CLAVY-WARBY |
 
 0,000 |
 
-0,020 |
+0,025 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0806C |
 
-Ronde couture |
+RONDE COUTURE |
 
 CHARLEVILLE-MEZIERES |
 
-0,084 |
+0,082 |
 
-0,106 |
+0,105 |
 
-66,9 % |
+68,6 |
 
-2021 |
+2022 |
 
 0808C |
 
-Réseau de chaleur de Rocroi |
+RESEAU DE CHALEUR DE ROCROI |
 
 ROCROI |
 
-0,071 |
+0,079 |
 
-0,099 |
+0,109 |
 
-78,7 % |
+76,5 |
 
-moyenne |
+Moyenne |
 
 0809C |
 
-Réseau de chaleur bois de Lalobbe |
+RESEAU DE CHALEUR BOIS DE LALOBBE |
 
 LALOBBE |
 
 0,000 |
 
-0,033 |
+0,046 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0810C |
 
-Réseau de chaleur bois de Poix Terron |
+RESEAU DE CHALEUR BOIS DE POIX TERRON |
 
 POIX-TERRON |
 
 0,000 |
 
-0,026 |
+0,033 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0811C |
 
-Réseau de chaleur bois de Villers le Tourneur |
+RESEAU DE CHALEUR BOIS DE VILLERS LE TOURNEUR |
 
 VILLERS-LE-TOURNEUR |
 
 0,000 |
 
-0,024 |
+0,029 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0812C |
 
-Réseau de chaleur bois de St Loup Terrier |
+RESEAU DE CHALEUR BOIS DE ST LOUP TERRIER |
 
 SAINT-LOUP-TERRIER |
 
@@ -890,135 +866,163 @@ SAINT-LOUP-TERRIER |
 
 0,017 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0813C |
 
-Réseau de chaleur de Montcornet |
+RESEAU DE CHALEUR DE MONTCORNET |
 
 MONTCORNET |
 
 0,000 |
 
-0,017 |
+0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0814C |
 
-Réseau de chaleur de Thin le Moutier |
+RESEAU DE CHALEUR DE THIN LE MOUTIER |
 
 THIN-LE-MOUTIER |
 
 0,000 |
 
-0,030 |
+0,027 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 0817C |
 
-Réseau de Chaleur de REVIN |
+RESEAU DE CHALEUR DE REVIN |
 
 REVIN |
 
-0,035 |
+0,004 |
 
-0,055 |
+0,025 |
 
-83,9 % |
+98,5 |
 
-2021 |
+2022 |
 
 1001C |
 
-Zup de la Chapelle Saint-Luc |
+ZUP DE LA CHAPELLE SAINT-LUC |
 
 LES NOES-PRES-TROYES |
 
-0,244 |
+0,183 |
 
-0,267 |
+0,203 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 1002C |
 
-Les Chartreux |
+LES CHARTREUX |
 
 TROYES |
 
-0,090 |
-
-0,115 |
-
-64,7 % |
-
-moyenne |
-
-1003C |
-
-Biomasse de Piney |
-
-PINEY |
-
-0,096 |
-
-0,129 |
-
-70,7 % |
-
-moyenne |
-
-1101C |
-
-Zac Saint Jean et & Saint Pierre |
-
-NARBONNE |
+0,086 |
 
 0,109 |
 
-0,136 |
+63,2 |
 
-60,6 % |
+2022 |
 
-moyenne |
+1003C |
+
+BIOMASSE DE PINEY |
+
+PINEY |
+
+0,120 |
+
+0,160 |
+
+66,8 |
+
+Moyenne |
+
+1101C |
+
+ZAC SAINT JEAN ET & SAINT PIERRE |
+
+NARBONNE |
+
+0,155 |
+
+0,193 |
+
+61,2 |
+
+2022 |
+
+1103C |
+
+RESEAU PUBLIC BOIS DE LIMOUX |
+
+LIMOUX |
+
+0,000 |
+
+0,018 |
+
+100,0 |
+
+2022 |
 
 1201C |
 
-Réseau de Decazeville |
+RESEAU DE DECAZEVILLE |
 
 DECAZEVILLE |
 
-0,052 |
+0,062 |
 
-0,078 |
+0,088 |
 
-79,9 % |
+75,8 |
 
-moyenne |
+Moyenne |
+
+1203C |
+
+RESEAU SARRUS |
+
+RODEZ |
+
+0,055 |
+
+0,081 |
+
+82,3 |
+
+2022 |
 
 1204C |
 
-Réseau de Cantagrelh |
+RESEAU DE CANTAGRELH |
 
 ONET-LE-CHATEAU |
 
-0,131 |
+0,083 |
 
-0,153 |
+0,110 |
 
-30,2 % |
+70,3 |
 
-2021 |
+2022 |
 
 1206C |
 
@@ -1026,31 +1030,31 @@ RESEAU DE CAPDENAC-GARE |
 
 CAPDENAC-GARE |
 
-0,004 |
+0,009 |
 
-0,029 |
+0,033 |
 
-98,8 % |
+97,1 |
 
-moyenne |
+Moyenne |
 
 1207C |
 
-Réseau de Saint Affrique |
+RESEAU DE SAINT AFFRIQUE |
 
 SAINT AFFRIQUE |
 
-0,069 |
+0,026 |
 
-0,094 |
+0,049 |
 
-75,1 % |
+91,2 |
 
-2021 |
+2022 |
 
 1301F |
 
-Réseau de froid Thassalia Marseille |
+RESEAU DE FROID THASSALIA MARSEILLE |
 
 MARSEILLE |
 
@@ -1058,51 +1062,51 @@ MARSEILLE |
 
 0,021 |
 
-Non défini |
+ND |
 
-2021 |
+2022 |
 
 1302C |
 
-Réseau Castellane Bricarde |
+RESEAU CASTELLANE BRICARDE |
 
 MARSEILLE |
 
-0,144 |
+0,169 |
 
-0,209 |
+0,219 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 1302F |
 
-Réseau du pôle Yvon Morandat |
+RESEAU DU POLE YVON MORANDAT |
 
 GARDANNE |
 
-0,013 |
+0,014 |
 
-0,025 |
+0,026 |
 
-Non défini |
+ND |
 
-2021 |
+2022 |
 
 1303C |
 
-Zac des Canourgues |
+ZAC DES CANOURGUES |
 
 SALON-DE-PROVENCE |
 
-0,229 |
+0,252 |
 
-0,259 |
+0,283 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 1306C |
 
@@ -1110,157 +1114,157 @@ LUMINY |
 
 MARSEILLE |
 
-0,294 |
+0,252 |
 
-0,330 |
+0,283 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 1310C |
 
-Zac Paradis-Saint Roch |
+ZAC PARADIS-SAINT ROCH |
 
 MARTIGUES |
 
-0,242 |
+0,277 |
 
-0,280 |
+0,307 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 1311C |
 
-Zac Canto Perdrix |
+ZAC CANTO PERDRIX |
 
 MARTIGUES |
 
-0,081 |
+0,065 |
 
-0,108 |
+0,095 |
 
-66,5 % |
+71,0 |
 
-2021 |
+2022 |
 
 1315C |
 
-Centre urbain-Zac des Pins |
+CENTRE URBAIN-ZAC DES PINS |
 
 VITROLLES |
 
-0,202 |
+0,272 |
 
-0,239 |
+0,328 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 1317C |
 
-Aix-en-Provence |
+AIX-EN-PROVENCE |
 
 AIX-EN-PROVENCE |
 
-0,090 |
+0,063 |
 
-0,113 |
+0,086 |
 
-61,8 % |
+73,6 |
 
-2021 |
+2022 |
 
 1318C |
 
-La Bayanne |
+LA BAYANNE |
 
 ISTRES |
 
-0,115 |
+0,107 |
 
-0,141 |
+0,133 |
 
-51,5 % |
+55,0 |
 
-moyenne |
+2022 |
 
 1319C |
 
-Réseau de chaleur Thassalia Marseille |
+RESEAU DE CHALEUR THASSALIA MARSEILLE |
 
 MARSEILLE |
 
-0,049 |
+0,050 |
 
 0,026 |
 
-78,4 % |
+77,0 |
 
-moyenne |
+Moyenne |
 
 1320C |
 
-Réseau de Coudoux |
+RESEAU DE COUDOUX |
 
 COUDOUX |
 
-0,058 |
+0,060 |
 
-0,083 |
+0,086 |
 
-76,4 % |
+79,0 |
 
-2021 |
+2022 |
 
 1321C |
 
-Réseau du pôle Yvon Morandat |
+RESEAU DU POLE YVON MORANDAT |
 
 GARDANNE |
 
-0,060 |
+0,063 |
 
-0,030 |
+0,032 |
 
-74,1 % |
+71,8 |
 
-moyenne |
+Moyenne |
 
 1322C |
 
-BET MASSILEO chaud |
+BET MASSILEO CHAUD |
 
 MARSEILLE |
 
-0,071 |
+0,187 |
 
-0,035 |
+0,086 |
 
-86,2 % |
+86,8 |
 
-2021 |
+2022 |
 
 1322F |
 
-BET MASSILEO froid |
+BET MASSILEO FROID |
 
 MARSEILLE |
 
-0,054 |
+0,073 |
 
-0,090 |
+0,121 |
 
-Non défini |
+ND |
 
-moyenne |
+Moyenne |
 
 1401C |
 
-Réseau de Hérouville St Clair |
+HEROUVILLE ST CLAIR |
 
 HEROUVILLE-SAINT-CLAIR |
 
@@ -1268,251 +1272,265 @@ HEROUVILLE-SAINT-CLAIR |
 
 0,026 |
 
-92,7 % |
+92,0 |
 
-moyenne |
+Moyenne |
 
 1402C |
 
-Zup de Hauteville |
+ZUP DE HAUTEVILLE |
 
 LISIEUX |
 
-0,087 |
+0,079 |
 
-0,111 |
+0,104 |
 
-63,8 % |
+66,8 |
 
-2021 |
+2022 |
 
 1403C |
 
-Zac de Falaise |
+ZAC DE FALAISE |
 
 FALAISE |
 
-0,110 |
+0,130 |
 
-0,147 |
+0,161 |
 
-53,7 % |
+50,6 |
 
-moyenne |
+Moyenne |
 
 1405C |
 
-Réseau de Bois I |
+RESEAU DE BOIS I |
 
 BAYEUX |
 
-0,054 |
-
-0,078 |
-
-80,3 % |
-
-moyenne |
-
-1406C |
-
-Réseau bois Vallée des près (Bayeux 2) |
-
-BAYEUX |
-
-0,060 |
-
-0,084 |
-
-77,4 % |
-
-moyenne |
-
-1409C |
-
-RCU d'Aunay-sur-Odon |
-
-AUNAY-SUR-ODON |
-
-0,016 |
-
-0,042 |
-
-93,9 % |
-
-2021 |
-
-1410C |
-
-RCU de Vire |
-
-VIRE |
-
-0,025 |
-
-0,049 |
-
-90,7 % |
-
-2021 |
-
-1411C |
-
-RCU de Val-ès-Dunes |
-
-ARGENCES |
-
-0,053 |
+0,051 |
 
 0,075 |
 
-78,6 % |
+79,2 |
 
-2021 |
+2022 |
+
+1406C |
+
+RESEAU BOIS VALLEE DES PRES (BAYEUX 2) |
+
+BAYEUX |
+
+0,055 |
+
+0,078 |
+
+78,6 |
+
+2022 |
+
+1409C |
+
+RCU D'AUNAY-SUR-ODON |
+
+AUNAY-SUR-ODON |
+
+0,022 |
+
+0,046 |
+
+93,0 |
+
+2022 |
+
+1410C |
+
+RCU DE VIRE |
+
+VIRE |
+
+0,048 |
+
+0,073 |
+
+85,0 |
+
+2022 |
+
+1411C |
+
+RCU DE VAL-ES-DUNES |
+
+ARGENCES |
+
+0,058 |
+
+0,081 |
+
+74,7 |
+
+2022 |
 
 1412C |
 
-Réseau de chaleur-chaufferie bois |
+RESEAU DE CHALEUR-CHAUFFERIE BOIS |
 
 BLAINVILLE-SUR-ORNE |
 
-0,079 |
+0,089 |
 
-0,103 |
+0,118 |
 
-69,4 % |
+71,3 |
 
-2021 |
+2022 |
 
 1413C |
 
-Réseau de chaleur Caen Sud |
+RESEAU DE CHALEUR CAEN SUD |
 
 CAEN |
 
-0,084 |
+0,079 |
 
-0,109 |
+0,104 |
 
-64,9 % |
+67,9 |
 
-2021 |
+2022 |
+
+1501C |
+
+CENTRE HOSPITALIER HENRI MONDOR-AURILLAC |
+
+AURILLAC CEDEX |
+
+0,007 |
+
+0,032 |
+
+96,9 |
+
+2022 |
 
 1502C |
 
-Réseau de chaleur bois du Crozatier |
+RESEAU DE CHALEUR BOIS DU CROZATIER |
 
 SAINT-GEORGES |
 
-0,001 |
+0,002 |
 
-0,033 |
+0,034 |
 
-99,8 % |
+99,6 |
 
-2021 |
+2022 |
 
 1503C |
 
-Réseau de chaleur bois du Volzac |
+RESEAU DE CHALEUR BOIS DU VOLZAC |
 
 SAINT-FLOUR |
 
-0,005 |
+0,003 |
 
-0,026 |
+0,025 |
 
-98,7 % |
+99,1 |
 
-2021 |
+2022 |
 
 1504C |
 
-Réseau de Riom-Es-Montagnes |
+RESEAU DE RIOM-ES-MONTAGNES |
 
 RIOM-ES-MONTAGNES |
 
-0,014 |
+0,005 |
 
-0,039 |
+0,030 |
 
-96,1 % |
+98,5 |
 
-moyenne |
+2022 |
 
 1505C |
 
-Réseau de Vebret |
+RESEAU DE VEBRET |
 
 VEBRET |
 
 0,000 |
 
-0,017 |
+0,022 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 1506C |
 
-Réseau de l'OP HLM Du Cantal |
+RESEAU DE L'OP HLM DU CANTAL |
 
 ARPAJON-SUR-CERE |
 
 0,000 |
 
-0,018 |
+0,022 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 1507C |
 
-Réseau Chaleur Bois de Murat |
+RESEAU CHALEUR BOIS DE MURAT |
 
 MURAT |
 
 0,004 |
 
-0,024 |
+0,028 |
 
-98,7 % |
+98,7 |
 
-2021 |
+2022 |
 
 1511C |
 
-Réseau de chaleur d'Aurillac |
+RESEAU DE CHALEUR D'AURILLAC |
 
 AURILLAC |
 
-0,037 |
+0,031 |
 
-0,059 |
+0,053 |
 
-85,6 % |
+88,1 |
 
-2021 |
+2022 |
 
 1512C |
 
-Réseau de chaleur de Besserette |
+RESEAU DE CHALEUR DE BESSERETTE |
 
 SAINT FLOUR |
 
-0,006 |
+0,002 |
 
-0,028 |
+0,022 |
 
-98,3 % |
+99,5 |
 
-2021 |
+2022 |
 
 1601C |
 
-Réseau de Saint-Bonnet |
+RESEAU DE SAINT-BONNET |
 
 SAINT-BONNET |
 
@@ -1520,279 +1538,265 @@ SAINT-BONNET |
 
 0,049 |
 
-100 % |
+100,0 |
 
-2021 |
-
-1602C |
-
-Commune de Baignes-Sainte-Radegonde |
-
-BAIGNES |
-
-0,000 |
-
-0,024 |
-
-100 % |
-
-2021 |
-
-1603C |
-
-Réseau de Brossac |
-
-BROSSAC |
-
-0,000 |
-
-0,032 |
-
-100 % |
-
-2021 |
+2022 |
 
 1604C |
 
-Réseau de Champagne-Mouton |
+RESEAU DE CHAMPAGNE-MOUTON |
 
 CHAMPAGNE-MOUTON |
 
 0,000 |
 
-0,018 |
+0,020 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 1605C |
 
-Réseau " Champ de manœuvre " |
+RESEAU " CHAMP DE MANŒUVRE " |
 
 SOYAUX |
 
-0,198 |
+0,193 |
 
-0,230 |
+0,223 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 1606C |
 
-Chaufferie bois |
+CHAUFFERIE BOIS |
 
 MONTEMBOEUF |
 
 0,000 |
 
-0,022 |
+0,024 |
 
-100 % |
+100,0 |
 
-2021 |
-
-1607C |
-
-Chauffage Urbain Public |
-
-CHATEAUBERNARD |
-
-0,020 |
-
-0,037 |
-
-89,8 % |
-
-2021 |
+2022 |
 
 1608C |
 
-Réseau de chaleur de Basseau |
+RESEAU DE CHALEUR DE BASSEAU |
 
 ANGOULEME |
 
-0,137 |
+0,127 |
 
-0,164 |
+0,153 |
 
-44,2 % |
+45,8 |
 
-2021 |
+Moyenne |
+
+1609C |
+
+RESEAU DE CHALEUR DE SEGONZAC |
+
+SEGONZAC |
+
+0,012 |
+
+0,050 |
+
+97,8 |
+
+2022 |
 
 1610C |
 
-Réseau des Vauzelles |
+RESEAU DES VAUZELLES |
 
 CHATEAUBERNARD |
 
-0,027 |
+0,028 |
 
-0,049 |
+0,051 |
 
-89,3 % |
+89,1 |
 
-2021 |
+Moyenne |
 
 1611C |
 
-15 boulevard Jean Moulin |
+15 BOULEVARD JEAN MOULIN |
 
-ANGOULÊME |
+ANGOULEME |
 
-0,148 |
+0,181 |
 
-0,173 |
+0,208 |
 
-34,9 % |
+22,6 |
 
-2021 |
+Moyenne |
 
 1612C |
 
-Domaine de La Combe |
+DOMAINE DE LA COMBE |
 
 ST YRIEIX SUR CHARENTE |
 
-0,092 |
+0,093 |
 
 0,117 |
 
-62,3 % |
+61,6 |
 
-moyenne |
+Moyenne |
 
-1701C |
+1613C |
 
-Villeneuve les Salines |
+CHAUFFERIE BOIS LE LINDOIS |
 
-LA ROCHELLE |
+LE LINDOIS |
 
-0,053 |
-
-0,087 |
-
-71,1 % |
-
-2021 |
-
-1702C |
-
-Réseau de Jonzac |
-
-JONZAC |
+0,000 |
 
 0,022 |
 
-0,053 |
+100,0 |
 
-95,6 % |
+2022 |
 
-2021 |
+1701C |
 
-1703C |
-
-Réseau de Aytre |
-
-AYTRE |
-
-0,039 |
-
-0,063 |
-
-84,1 % |
-
-moyenne |
-
-1704C |
-
-Port Neuf Mireuil Energie |
+VILLENEUVE LES SALINES |
 
 LA ROCHELLE |
 
-0,028 |
+0,049 |
 
-0,035 |
+0,083 |
 
-89,3 % |
+72,5 |
 
-moyenne |
+2022 |
 
-1705C |
+1702C |
 
-Réseau de Chaleur urbain de Pons |
+RESEAU DE JONZAC |
 
-PONS |
-
-0,067 |
-
-0,093 |
-
-76,1 % |
-
-2021 |
-
-1706C |
-
-Réseau de chaleur Tonnay-Boutonne |
-
-TONNAY-BOUTONNE |
-
-0,078 |
-
-0,104 |
-
-73,1 % |
-
-2021 |
-
-1707C |
-
-Réseau de la chaufferie bois |
-
-GEMOZAC |
-
-0,048 |
-
-0,075 |
-
-88,0 % |
-
-moyenne |
-
-1801C |
-
-Chancellerie Gibjoncs-Zup de Bourges |
-
-BOURGES |
-
-0,009 |
+JONZAC |
 
 0,030 |
 
-95,8 % |
+0,062 |
 
-2021 |
+94,1 |
+
+Moyenne |
+
+1703C |
+
+RESEAU DE AYTRE |
+
+AYTRE |
+
+0,041 |
+
+0,065 |
+
+85,5 |
+
+2022 |
+
+1704C |
+
+PORT NEUF MIREUIL ENERGIE |
+
+LA ROCHELLE |
+
+0,019 |
+
+0,025 |
+
+93,2 |
+
+2022 |
+
+1705C |
+
+RESEAU DE CHALEUR URBAIN DE PONS |
+
+PONS |
+
+0,061 |
+
+0,090 |
+
+79,4 |
+
+2022 |
+
+1706C |
+
+RESEAU DE CHALEUR TONNAY-BOUTONNE |
+
+TONNAY-BOUTONNE |
+
+0,007 |
+
+0,026 |
+
+97,1 |
+
+2022 |
+
+1707C |
+
+RESEAU DE LA CHAUFFERIE BOIS |
+
+GEMOZAC |
+
+0,035 |
+
+0,059 |
+
+87,5 |
+
+2022 |
+
+1801C |
+
+CHANCELLERIE GIBJONCS-ZUP DE BOURGES |
+
+BOURGES |
+
+0,016 |
+
+0,037 |
+
+93,5 |
+
+Moyenne |
 
 1803C |
 
-Clos du Roy/ Tunnel Chateau |
+CLOS DU ROY/ TUNNEL CHATEAU |
 
 VIERZON |
 
-0,263 |
+0,191 |
 
-0,312 |
+0,193 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 1901C |
 
-Unité de Valorisation Energétique |
+UNITE DE VALORISATION ENERGETIQUE |
 
 SAINT-PANTALEON-DE-LARCHE |
 
@@ -1800,51 +1804,51 @@ SAINT-PANTALEON-DE-LARCHE |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 1902C |
 
-Egletons Bois Energie |
+EGLETONS BOIS ENERGIE |
 
 EGLETONS |
 
-0,015 |
+0,005 |
 
-0,026 |
+0,016 |
 
-95,2 % |
+98,4 |
 
-moyenne |
+2022 |
 
 1903C |
 
-Réseau de Sornac |
+RESEAU DE SORNAC |
 
 SORNAC |
 
-0,111 |
+0,061 |
 
-0,150 |
+0,094 |
 
-69,8 % |
+85,6 |
 
-moyenne |
+2022 |
 
 1904C |
 
-Réseau de Servières le Château |
+RESEAU DE SERVIERES LE CHATEAU |
 
 SERVIERES-LE-CHATEAU |
 
 0,000 |
 
-0,037 |
+0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 1906C |
 
@@ -1852,27 +1856,27 @@ BORG WARNER |
 
 EYREIN |
 
-0,286 |
+0,319 |
 
-0,323 |
+0,365 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 1907C |
 
-Réseau de Brive |
+RESEAU DE BRIVE |
 
 BRIVE-LA-GAILLARDE |
 
-0,097 |
+0,028 |
 
-0,103 |
+0,034 |
 
-64,1 % |
+89,4 |
 
-2021 |
+2022 |
 
 1908C |
 
@@ -1884,93 +1888,107 @@ ROSIERS D'EGLETONS |
 
 0,004 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
+
+1909C |
+
+RESEAU D'OBJAT |
+
+OBJAT |
+
+0,117 |
+
+0,144 |
+
+52,3 |
+
+2022 |
 
 2001C |
 
-Réseau de Corte |
+RESEAU DE CORTE |
 
 CORTE |
 
-0,000 |
+0,001 |
 
-0,023 |
+0,025 |
 
-99,9 % |
+99,9 |
 
-2021 |
+2022 |
 
 2102C |
 
-Réseau du Grand Dijon Ouest |
+RESEAU DU GRAND DIJON OUEST |
 
 DIJON |
 
-0,078 |
+0,077 |
 
-0,105 |
+0,101 |
 
-60,0 % |
+64,6 |
 
-2021 |
+2022 |
 
 2105C |
 
-Les Gresilles |
+LES GRESILLES |
 
 DIJON |
 
-0,078 |
+0,072 |
 
-0,114 |
+0,108 |
 
-57,7 % |
+55,4 |
 
-2021 |
+2022 |
 
 2106C |
 
-Dijon énergies |
+DIJON ENERGIES |
 
 DIJON |
 
-0,053 |
+0,043 |
 
-0,073 |
+0,061 |
 
-76,2 % |
+80,5 |
 
-2021 |
+2022 |
 
 2107C |
 
-Mairie |
+MAIRIE |
 
 BELLENEUVE |
 
-0,142 |
+0,125 |
 
-0,186 |
+0,166 |
 
-64,2 % |
+65,8 |
 
-moyenne |
+2022 |
 
 2108C |
 
-Réseau de la commune de Nuits Saint Georges |
+RESEAU DE LA COMMUNE DE NUITS SAINT GEORGES |
 
 NUITS-SAINT-GEORGES |
 
 0,000 |
 
-0,022 |
+0,019 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2202C |
 
@@ -1980,11 +1998,11 @@ PLOUARET |
 
 0,000 |
 
-0,037 |
+0,029 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2203C |
 
@@ -1994,15 +2012,15 @@ PLOUARET |
 
 0,000 |
 
-0,027 |
+0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2204C |
 
-SMITRED OUEST d'ARMOR |
+SMITRED OUEST D'ARMOR |
 
 PLUZUNET |
 
@@ -2010,65 +2028,65 @@ PLUZUNET |
 
 0,004 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2205C |
 
-Réseau de chaleur de Collinée |
+RESEAU DE CHALEUR DE COLLINEE |
 
 COLLINEE |
 
-0,000 |
+0,011 |
 
-0,017 |
+0,044 |
 
-99,9 % |
+96,8 |
 
-2021 |
+2022 |
 
 2206C |
 
-Réseau de chaleur de Pessala |
+RESEAU DE CHALEUR DE PESSALA |
 
 PLESSALA |
 
-0,234 |
+0,050 |
 
-0,263 |
+0,091 |
 
-33,3 % |
+87,2 |
 
-moyenne |
+2022 |
 
 2207C |
 
-Réseau de chaleur du Gouray |
+RESEAU DE CHALEUR DU GOURAY |
 
 LE GOURAY |
 
-0,016 |
-
-0,040 |
-
-95,6 % |
-
-2021 |
-
-2208C |
-
-Réseau de chaleur de Brézillet |
-
-PLOUFRAGAN |
+0,026 |
 
 0,069 |
 
-0,095 |
+95,9 |
 
-75,7 % |
+2022 |
 
-2021 |
+2208C |
+
+RESEAU DE CHALEUR DE BREZILLET |
+
+PLOUFRAGAN |
+
+0,090 |
+
+0,116 |
+
+65,4 |
+
+Moyenne |
 
 2209C |
 
@@ -2078,169 +2096,211 @@ LOUDEAC |
 
 0,000 |
 
-0,019 |
+0,021 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2210C |
 
-Hopital Rive Gauche |
+HOPITAL RIVE GAUCHE |
 
 LANNION |
 
-0,052 |
+0,062 |
 
-0,077 |
+0,088 |
 
-82,0 % |
+79,2 |
 
-2021 |
+2022 |
 
 2211C |
 
-Ploumilliau |
+PLOUMILLIAU |
 
 PLOUMILLIAU |
 
 0,000 |
 
-0,022 |
+0,023 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2212C |
 
-Monge Branly |
+MONGE BRANLY |
 
 LANNION |
 
-0,071 |
+0,041 |
 
-0,096 |
+0,064 |
 
-74,0 % |
+82,9 |
 
-2021 |
+2022 |
 
 2213C |
 
-Chauffferie bois et réseau de chaleur Plestin les Grèves |
+CHAUF BOIS ET RESEAU DE CHALEUR PLESTIN LES GREVES |
 
-PLESTIN LES GRÈVES |
+PLESTIN LES GREVES |
+
+0,001 |
+
+0,022 |
+
+99,8 |
+
+Moyenne |
+
+2214C |
+
+LA ROCHE-JAUDY |
+
+LA ROCHE-JAUDY |
 
 0,000 |
 
-0,017 |
+0,019 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
+
+2217C |
+
+RESEAU DE CHALEUR DE SAINT-JACUT |
+
+LE MENE |
+
+0,078 |
+
+0,197 |
+
+94,9 |
+
+2022 |
+
+2218C |
+
+RESEAU DE CHALEUR DESAINT-GOUENO |
+
+LE MENE |
+
+0,013 |
+
+0,066 |
+
+98,6 |
+
+2022 |
 
 2301C |
 
-Réseau de Bourganeuf |
+RESEAU DE BOURGANEUF |
 
 BOURGANEUF |
 
-0,035 |
+0,018 |
 
-0,062 |
+0,043 |
 
-90,9 % |
+94,7 |
 
-2021 |
+2022 |
 
 2302C |
 
-Réseau de Felletin |
+RESEAU DE FELLETIN |
 
 FELLETIN |
 
-0,027 |
+0,038 |
 
-0,052 |
+0,065 |
 
-90,8 % |
+86,9 |
 
-moyenne |
+Moyenne |
 
 2304C |
 
-Réseau de Gentioux |
+RESEAU DE GENTIOUX |
 
 GENTIOUX-PIGEROLLES |
 
 0,000 |
 
-0,031 |
+0,037 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2305C |
 
-Réseau de Guéret |
+RESEAU DE GUERET |
 
 GUERET |
 
-0,048 |
+0,043 |
 
-0,071 |
+0,065 |
 
-80,3 % |
+82,0 |
 
-moyenne |
+Moyenne |
 
 2401C |
 
-Réseau de chaleur de Saint-Astier |
+RESEAU DE CHALEUR DE SAINT-ASTIER |
 
 SAINT ASTIER |
 
-0,106 |
+0,141 |
 
-0,131 |
+0,169 |
 
-61,2 % |
+49,0 |
 
-moyenne |
+Moyenne |
 
 2402C |
 
-L'Arche au Bois |
+L'ARCHE AU BOIS |
 
 PERIGUEUX |
 
-0,057 |
+0,041 |
 
-0,105 |
+0,085 |
 
-72,3 % |
+81,6 |
 
-moyenne |
+2022 |
 
 2403C |
 
-Chaufferie bois de Cadouin |
+CHAUFFERIE BOIS DE CADOUIN |
 
 LE BUISSON-DE-CADOUIN |
 
-0,036 |
+0,024 |
 
-0,076 |
+0,053 |
 
-94,3 % |
+93,3 |
 
-moyenne |
+2022 |
 
 2404C |
 
-Chaufferie bois Douville |
+CHAUFFERIE BOIS DOUVILLE |
 
 DOUVILLE |
 
@@ -2248,125 +2308,125 @@ DOUVILLE |
 
 0,019 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2406C |
 
-Réseau de Coulounieix chamiers |
+RESEAU DE COULOUNIEIX CHAMIERS |
 
 COULOUNIEIX-CHAMIERS |
 
-0,041 |
+0,033 |
 
-0,063 |
+0,057 |
 
-82,6 % |
+88,0 |
 
-2021 |
+2022 |
 
 2407C |
 
-réseau de chaleur des Deux Rives Périgueux |
+RESEAU DE CHALEUR DES DEUX RIVES PERIGUEUX |
 
 PERIGUEUX |
 
-0,042 |
+0,050 |
 
-0,064 |
+0,073 |
 
-84,0 % |
+79,9 |
 
-moyenne |
+Moyenne |
 
 2501C |
 
-Besançon-Planoise |
+BESANÇON-PLANOISE |
 
 BESANCON |
 
-0,061 |
+0,068 |
 
-0,080 |
+0,086 |
 
-76,7 % |
+73,6 |
 
-moyenne |
+Moyenne |
 
 2502C |
 
-Zup de la Petite Hollande |
+ZUP DE LA PETITE HOLLANDE |
 
 MONTBELIARD |
 
-0,066 |
+0,076 |
 
-0,077 |
+0,088 |
 
-72,6 % |
+67,9 |
 
-2021 |
+Moyenne |
 
 2503C |
 
-Champvalon |
+CHAMPVALON |
 
 BETHONCOURT |
 
-0,128 |
+0,091 |
 
-0,222 |
+0,119 |
 
-28,2 % |
+68,9 |
 
-2021 |
+2022 |
 
 2504C |
 
-Chaufferie Bois du Russey |
+CHAUFFERIE BOIS DU RUSSEY |
 
 LE RUSSEY |
 
-0,040 |
+0,049 |
 
-0,072 |
+0,083 |
 
-89,8 % |
+87,3 |
 
-2021 |
+2022 |
 
 2505C |
 
-Champs Montants |
+CHAMPS MONTANTS |
 
 AUDINCOURT |
 
-0,110 |
+0,000 |
 
-0,232 |
+0,269 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 2506C |
 
-Domaine Universitaire de la Bouloie |
+DOMAINE UNIVERSITAIRE DE LA BOULOIE |
 
 BESANCON |
 
-0,071 |
+0,041 |
 
-0,095 |
+0,067 |
 
-71,3 % |
+85,8 |
 
-moyenne |
+2022 |
 
 2507C |
 
-Réseau de chaleur de Mouthe |
+RESEAU DE CHALEUR DE MOUTHE |
 
 MOUTHE |
 
@@ -2374,9 +2434,9 @@ MOUTHE |
 
 0,019 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2509C |
 
@@ -2386,11 +2446,25 @@ MYON |
 
 0,000 |
 
-0,017 |
+0,021 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
+
+2510C |
+
+CHAUFFERIE DU LYCEE E FAURE |
+
+MORTEAU |
+
+0,271 |
+
+0,304 |
+
+0,0 |
+
+2022 |
 
 2511C |
 
@@ -2398,139 +2472,167 @@ RESEAU DE CHALEUR |
 
 PONTARLIER |
 
-0,015 |
+0,019 |
 
-0,020 |
+0,025 |
 
-95,4 % |
+93,6 |
 
-moyenne |
+Moyenne |
 
 2512C |
 
-Réseau de chaleur de la commune de Nancray |
+RESEAU DE CHALEUR DE LA COMMUNE DE NANCRAY |
 
 NANCRAY |
 
 0,000 |
 
-0,017 |
+0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2513C |
 
-Réseau de Villars sous Ecot |
+VILLARS SOUS ECOT |
 
 VILLARS-SOUS-ECOT |
 
 0,000 |
 
-0,025 |
+0,027 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
+
+2514C |
+
+RESEAU DE CHALEUR DE FRASNE |
+
+FRASNE |
+
+0,000 |
+
+0,023 |
+
+100,0 |
+
+2022 |
 
 2515C |
 
-Réseau de Goux les Usiers |
+RESEAU DE GOUX LES USIERS |
 
 GOUX-LES-USIERS |
 
 0,000 |
 
-0,019 |
+0,020 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2516C |
 
-Réseau de AMANCEY LOUE LISON |
+RESEAU DE AMANCEY LOUE LISON |
 
 AMANCEY |
 
-0,016 |
+0,033 |
 
-0,044 |
+0,064 |
 
-95,6 % |
+91,0 |
 
-moyenne |
+Moyenne |
+
+2518C |
+
+RCU DE NOVILLARS |
+
+NOVILLARS |
+
+0,015 |
+
+0,020 |
+
+94,2 |
+
+2022 |
 
 2601C |
 
-Réseau de Valence |
+RESEAU DE VALENCE |
 
 VALENCE |
 
-0,106 |
+0,132 |
 
-0,161 |
+0,163 |
 
-45,0 % |
+48,3 |
 
-2021 |
+2022 |
 
 2602C |
 
-Réseau de chaleur de Vassieux en Vercors |
+RESEAU DE CHALEUR DE VASSIEUX EN VERCORS |
 
 VASSIEUX-EN-VERCORS |
 
-0,016 |
+0,068 |
 
-0,047 |
+0,110 |
 
-97,0 % |
+85,5 |
 
-2021 |
+2022 |
 
 2603C |
 
-Réseau de Pierrelatte-DES |
+RESEAU DE PIERRELATTE-DES |
 
 PIERRELATTE |
 
 0,000 |
 
-0,101 |
+0,117 |
 
-73,9 % |
+69,6 |
 
-moyenne |
+Moyenne |
 
 2604C |
 
-Réseau de Pracomptal |
+RESEAU DE PRACOMPTAL |
 
 MONTELIMAR |
 
-0,205 |
+0,216 |
 
-0,246 |
+0,257 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 2605C |
 
-Réseau de chaleur du quartier de la Monnaie |
+RESEAU DE CHALEUR DU QUARTIER DE LA MONNAIE |
 
 ROMANS-SUR-ISERE |
 
-0,175 |
+0,164 |
 
-0,221 |
+0,211 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 2701C |
 
@@ -2538,13 +2640,13 @@ THERMEVRA |
 
 EVREUX |
 
-0,060 |
+0,080 |
 
-0,071 |
+0,092 |
 
-73,9 % |
+65,6 |
 
-2021 |
+2022 |
 
 2702C |
 
@@ -2552,125 +2654,111 @@ LOUVIERS ENERGIE |
 
 LOUVIERS |
 
-0,074 |
+0,069 |
 
-0,098 |
+0,094 |
 
-70,0 % |
+71,8 |
 
-2021 |
+2022 |
 
 2703C |
 
-Quartier de l'Europe |
+QUARTIER DE L'EUROPE |
 
 PONT-AUDEMER |
 
-0,248 |
+0,265 |
 
-0,274 |
+0,297 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 2704C |
 
-Tours du Levant Clos Galots |
+TOURS DU LEVANT CLOS GALOTS |
 
 LES ANDELYS |
 
-0,225 |
+0,241 |
 
-0,252 |
+0,270 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 2705C |
 
-Zup Les Valmeux |
+ZUP LES VALMEUX |
 
 VERNON |
 
-0,187 |
+0,209 |
 
-0,223 |
+0,236 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 2706C |
 
-Réseau de chaleur de Conches-en-Ouche |
+RESEAU DE CHALEUR DE CONCHES-EN-OUCHE |
 
 CONCHES-EN-OUCHE |
 
-0,008 |
+0,009 |
 
-0,030 |
+0,034 |
 
-97,2 % |
+97,2 |
 
-2021 |
+2022 |
 
 2707C |
 
-Réseau-Canappeville |
+RESEAU-CANAPPEVILLE |
 
 CANAPPEVILLE |
 
 0,000 |
 
-0,018 |
+0,022 |
 
-100,0 % |
+100,0 |
 
-2021 |
-
-2708C |
-
-SCA Lin 2000 |
-
-GRANDVILLIERS |
-
-0,000 |
-
-0,004 |
-
-100,0 % |
-
-2021 |
+2022 |
 
 2709C |
 
-Réseau de Bernay Bourg Le Comte |
+RESEAU DE BERNAY BOURG LE COMTE |
 
 BERNAY |
 
-0,135 |
+0,144 |
 
-0,304 |
+0,324 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 2802C |
 
-Les Gauchetières |
+LES GAUCHETIERES |
 
 NOGENT-LE-ROTROU |
 
-0,255 |
+0,023 |
 
-0,284 |
+0,300 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 2803C |
 
@@ -2678,27 +2766,27 @@ DUNES |
 
 CHATEAUDUN |
 
-0,060 |
+0,073 |
 
-0,084 |
+0,100 |
 
-77,0 % |
+76,6 |
 
-moyenne |
+2022 |
 
-2804C |
+2806C |
 
-Tallemont |
+RESEAU DE CHALEUR DE VOVES |
 
-MAINVILLIERS |
+VOVES |
 
-0,224 |
+0,168 |
 
-0,252 |
+0,196 |
 
-0,0 % |
+33,7 |
 
-2021 |
+2022 |
 
 2807C |
 
@@ -2708,11 +2796,11 @@ CHARTRES |
 
 0,000 |
 
-0,084 |
+0,119 |
 
-82,2 % |
+90,4 |
 
-moyenne |
+2022 |
 
 2901C |
 
@@ -2720,31 +2808,31 @@ ECO CHALEUR DE BREST |
 
 BREST |
 
-0,028 |
+0,032 |
 
-0,039 |
+0,043 |
 
-89,1 % |
+88,0 |
 
-moyenne |
+Moyenne |
 
 2902C |
 
-Réseau de Plougastel Daoulas |
+RESEAU DE PLOUGASTEL DAOULAS |
 
 PLOUGASTEL-DAOULAS |
 
-0,068 |
+0,047 |
 
-0,094 |
+0,072 |
 
-77,6 % |
+84,4 |
 
-moyenne |
+2022 |
 
 2903C |
 
-Réseau de chaleur UVED |
+RESEAU DE CHALEUR UVED |
 
 BRIEC |
 
@@ -2752,9 +2840,9 @@ BRIEC |
 
 0,004 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2905C |
 
@@ -2764,15 +2852,15 @@ PLOUGASTEL-DAOULAS |
 
 0,000 |
 
-0,020 |
+0,021 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2906C |
 
-Vapeur SIRCOB-NUTRIBABIG |
+VAPEUR SIRCOB-NUTRIBABIG |
 
 CARHAIX-PLOUGER |
 
@@ -2780,37 +2868,51 @@ CARHAIX-PLOUGER |
 
 0,004 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 2907C |
 
-Réseau de chaleur Landerneau |
+RESEAU DE CHALEUR LANDERNEAU |
 
 LANDERNEAU |
 
-0,059 |
+0,051 |
 
-0,083 |
+0,077 |
 
-76,0 % |
+81,9 |
 
-2021 |
+2022 |
+
+2908C |
+
+PLAINE DES SPORTS |
+
+DOUARNENEZ |
+
+0,038 |
+
+0,062 |
+
+85,9 |
+
+2022 |
 
 3001C |
 
-Quartier Ouest |
+QUARTIER OUEST |
 
 NIMES |
 
-0,100 |
+0,109 |
 
-0,123 |
+0,134 |
 
-56,6 % |
+56,2 |
 
-2021 |
+2022 |
 
 3002C |
 
@@ -2820,39 +2922,39 @@ ALES |
 
 0,064 |
 
-0,093 |
+0,091 |
 
-70,0 % |
+68,5 |
 
-2021 |
+2022 |
 
 3003C |
 
-Réseau bois Lamelouze |
+RESEAU BOIS LAMELOUZE |
 
 LAMELOUZE |
 
 0,000 |
 
-0,018 |
+0,019 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 3101C |
 
-Réseau de Toulouse Mirail |
+RESEAU DE TOULOUSE MIRAIL |
 
 TOULOUSE |
 
-0,003 |
+0,002 |
 
-0,007 |
+0,006 |
 
-98,8 % |
+99,4 |
 
-moyenne |
+2022 |
 
 3101F |
 
@@ -2862,95 +2964,95 @@ TOULOUSE |
 
 0,011 |
 
-0,022 |
+0,021 |
 
-Non défini |
+ND |
 
-2021 |
+2022 |
 
 3102C |
 
-Éco-quartier Balma Vidailhan |
+ÉCO-QUARTIER BALMA VIDAILHAN |
 
 BALMA |
 
-0,090 |
+0,101 |
 
-0,115 |
+0,127 |
 
-62,4 % |
+59,1 |
 
-moyenne |
+Moyenne |
 
 3103C |
 
-Zac du Ritouret |
+ZAC DU RITOURET |
 
 BLAGNAC |
 
-0,077 |
+0,060 |
 
-0,070 |
+0,052 |
 
-63,4 % |
+74,9 |
 
-2021 |
+2022 |
 
 3104C |
 
-Canceropôle |
+CANCEROPOLE |
 
 TOULOUSE |
 
-0,038 |
+0,041 |
 
-0,046 |
+0,047 |
 
-82,8 % |
+83,3 |
 
-2021 |
+Moyenne |
 
 3106C |
 
-Réseau " Saint Exupéry " |
+RESEAU " SAINT EXUPERY " |
 
 TOULOUSE |
 
-0,065 |
+0,059 |
 
-0,077 |
+0,075 |
 
-78,2 % |
+81,1 |
 
-2021 |
+2022 |
 
 3107C |
 
-Ensemble Universitaire Toulouse Rangueil |
+ENSEMBLE UNIVERSITAIRE TOULOUSE RANGUEIL |
 
 TOULOUSE |
 
-0,065 |
+0,078 |
 
-0,089 |
+0,101 |
 
-76,1 % |
+74,3 |
 
-moyenne |
+2022 |
 
 3108C |
 
-En Turet |
+EN TURET |
 
 AYGUESVIVES |
 
-0,082 |
+0,090 |
 
-0,113 |
+0,120 |
 
-82,0 % |
+77,4 |
 
-2021 |
+Moyenne |
 
 3111C |
 
@@ -2958,55 +3060,55 @@ CAMUS |
 
 CASTANET-TOLOSAN |
 
-0,110 |
+0,104 |
 
-0,138 |
+0,132 |
 
-63,6 % |
+63,3 |
 
-moyenne |
+Moyenne |
 
 3112C |
 
-Toulouse énergie durable (TED) chaud |
+TOULOUSE ENERGIE DURABLE (TED) CHAUD |
 
 TOULOUSE |
 
-0,057 |
+0,049 |
 
-0,064 |
+0,060 |
 
-78,2 % |
+81,1 |
 
-2021 |
+2022 |
 
 3112F |
 
-Toulouse énergie durable (TED) froid |
+TOULOUSE ENERGIE DURABLE (TED) FROID |
 
 TOULOUSE |
 
-0,008 |
+0,011 |
 
-0,017 |
+0,022 |
 
-Non défini |
+ND |
 
-2021 |
+Moyenne |
 
 3113C |
 
-Réseau écoquartier Maragon Floralies |
+RESEAU ECOQUARTIER MARAGON FLORALIES |
 
 RAMONVILLE SAINT-AGNE |
 
-0,110 |
+0,149 |
 
-0,133 |
+0,174 |
 
-52,0 % |
+34,4 |
 
-2021 |
+Moyenne |
 
 3115C |
 
@@ -3018,9 +3120,9 @@ BESSIERES |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 3301F |
 
@@ -3028,31 +3130,31 @@ LASERIS |
 
 LE BARP |
 
-0,018 |
+0,017 |
 
-0,034 |
+0,032 |
 
-Non défini |
+ND |
 
-moyenne |
+2022 |
 
 3302C |
 
-Grand Parc |
+GRAND PARC ENERGIES |
 
 BORDEAUX |
 
-0,061 |
+0,044 |
 
-0,247 |
+0,237 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 3302F |
 
-BASSINS A FLOT-Froid |
+BASSINS A FLOT-FROID |
 
 BORDEAUX |
 
@@ -3060,205 +3162,289 @@ BORDEAUX |
 
 0,017 |
 
-Non défini |
+ND |
 
-2021 |
+2022 |
+
+3303C |
+
+MERIADECK |
+
+BORDEAUX |
+
+0,000 |
+
+0,017 |
+
+100,0 |
+
+2022 |
 
 3304C |
 
-Parc de Mérignac Ville Stemer |
+PARC DE MERIGNAC VILLE STEMER |
 
 MERIGNAC |
 
-0,179 |
+0,246 |
 
-0,219 |
+0,301 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 3305C |
 
-Laseris |
+LASERIS |
 
 LE BARP |
 
-0,141 |
+0,096 |
 
-0,113 |
+0,070 |
 
-0,0 % |
+56,9 |
 
-2021 |
+2022 |
 
 3310C |
 
-Réseau de chaleur de Gironde sur Dropt |
+RESEAU DE CHALEUR DE GIRONDE SUR DROPT |
 
 GIRONDE-SUR-DROPT |
 
+0,002 |
+
 0,027 |
 
-0,066 |
+99,2 |
 
-94,8 % |
-
-2021 |
+2022 |
 
 3311C |
 
-Réseau de chaleur de Pellegrue |
+RESEAU DE CHALEUR DE PELLEGRUE |
 
 PELLEGRUE |
 
-0,045 |
+0,038 |
 
-0,082 |
+0,074 |
 
-91,6 % |
+92,8 |
 
-2021 |
+2022 |
 
 3312C |
 
-Réseau de chaleur de Saint Pierre d'Aurillac |
+RESEAU DE CHALEUR DE SAINT PIERRE D'AURILLAC |
 
 SAINT-PIERRE-D'AURILLAC |
 
-0,014 |
+0,023 |
 
-0,044 |
+0,051 |
 
-96,5 % |
+93,4 |
 
-2021 |
+2022 |
 
 3313C |
 
-Réseau de La Réole |
+RESEAU DE LA REOLE |
 
 LA REOLE |
 
-0,009 |
+0,003 |
 
-0,035 |
+0,028 |
 
-97,2 % |
+99,1 |
 
-moyenne |
+2022 |
 
 3315C |
 
-Réseau de Terres Neuves |
+RESEAU DE TERRES NEUVES |
 
 BEGLES |
 
-0,102 |
-
-0,129 |
-
-61,8 % |
-
-moyenne |
-
-3316C |
-
-Réseau de l'éco-quartier Ginko |
-
-BORDEAUX |
-
-0,027 |
-
-0,109 |
-
-66,8 % |
-
-moyenne |
-
-3317C |
-
-Saige-Formanoir |
-
-PESSAC |
-
-0,078 |
-
-0,066 |
-
-64,2 % |
-
-moyenne |
-
-3318C |
-
-Bassins à Flot |
-
-BORDEAUX |
-
-0,089 |
-
-0,108 |
-
-61,8 % |
-
-moyenne |
-
-3319C |
-
-Bordeaux Begles Energies |
-
-BORDEAUX |
-
-0,007 |
-
-0,011 |
-
-97,9 % |
-
-moyenne |
-
-3320C |
-
-Réseau de la Clinique Lesparre |
-
-LESPARRE-MEDOC |
-
-0,075 |
-
-0,108 |
-
-81,9 % |
-
-moyenne |
-
-3321C |
-
-Réseau Portes du PYLA |
-
-LA TESTE DE BUCH |
+0,054 |
 
 0,079 |
 
-0,180 |
+78,6 |
 
-33,9 % |
+2022 |
 
-2021 |
+3316C |
 
-3324C |
+RESEAU DE L'ECO-QUARTIER GINKO |
 
-Réseau de chaleur des Hauts de Garonne |
+BORDEAUX |
 
-CENON |
+0,047 |
 
-0,042 |
+0,119 |
+
+61,3 |
+
+Moyenne |
+
+3317C |
+
+SAIGE-FORMANOIR |
+
+PESSAC |
+
+0,099 |
+
+0,092 |
+
+55,7 |
+
+Moyenne |
+
+3318C |
+
+BASSINS A FLOT |
+
+BORDEAUX |
+
+0,063 |
+
+0,115 |
+
+57,2 |
+
+2022 |
+
+3319C |
+
+BORDEAUX BEGLES ENERGIES |
+
+BORDEAUX |
+
+0,005 |
+
+0,010 |
+
+97,8 |
+
+2022 |
+
+3320C |
+
+RESEAU DE LA CLINIQUE LESPARRE |
+
+LESPARRE-MEDOC |
 
 0,060 |
 
-78,5 % |
+0,090 |
 
-2021 |
+83,1 |
+
+2022 |
+
+3321C |
+
+RESEAU PORTES DU PYLA |
+
+LA TESTE DE BUCH |
+
+0,084 |
+
+0,097 |
+
+63,5 |
+
+2022 |
+
+3324C |
+
+RESEAU DE CHALEUR DES HAUTS DE GARONNE |
+
+CENON |
+
+0,029 |
+
+0,046 |
+
+85,3 |
+
+2022 |
+
+3325C |
+
+RESEAU PLAINE DE GARONNE ENERGIES |
+
+BORDEAUX |
+
+0,088 |
+
+0,108 |
+
+52,9 |
+
+2022 |
+
+3326C |
+
+RESEAU D'AUBIERS |
+
+BORDEAUX |
+
+0,082 |
+
+0,106 |
+
+66,4 |
+
+2022 |
+
+3327C |
+
+BURCK |
+
+PESSAC |
+
+0,100 |
+
+0,256 |
+
+0,0 |
+
+2022 |
+
+3328C |
+
+CHAUFFERIE BOIS SAINT MEDARD |
+
+SAINT MEDARD |
+
+0,066 |
+
+0,090 |
+
+74,4 |
+
+2022 |
+
+3329C |
+
+PINSAN |
+
+EYSINES |
+
+0,017 |
+
+0,042 |
+
+94,2 |
+
+2022 |
 
 3401C |
 
@@ -3266,31 +3452,31 @@ RMCF |
 
 MONTPELLIER |
 
-0,073 |
+0,079 |
 
-0,097 |
+0,106 |
 
-69,0 % |
+65,1 |
 
-2021 |
+Moyenne |
 
 3401F |
 
-Polygone Antigone |
+POLYGONE ANTIGONE |
 
 MONTPELLIER |
 
-0,072 |
+0,073 |
 
-0,089 |
+0,090 |
 
-Non défini |
+ND |
 
-moyenne |
+2022 |
 
 3402F |
 
-Ernest Granier |
+ERNEST GRANIER |
 
 MONTPELLIER |
 
@@ -3298,13 +3484,13 @@ MONTPELLIER |
 
 0,024 |
 
-Non défini |
+ND |
 
-2021 |
+2022 |
 
 3403F |
 
-Port Marianne/ Odysseum |
+PORT MARIANNE/ ODYSSEUM |
 
 MONTPELLIER |
 
@@ -3312,79 +3498,79 @@ MONTPELLIER |
 
 0,024 |
 
-Non défini |
+ND |
 
-2021 |
+2022 |
 
 3404C |
 
-Réseau de Fraïsse-Agout |
+RESEAU DE FRAÏSSE-AGOUT |
 
 FRAISSE-SUR-AGOUT |
 
 0,000 |
 
-0,018 |
+0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 3405C |
 
-Réseau des universités |
+RESEAU DES UNIVERSITES |
 
 MONTPELLIER |
 
-0,044 |
+0,061 |
 
-0,065 |
+0,083 |
 
-81,8 % |
+74,3 |
 
-2021 |
+Moyenne |
 
 3406F |
 
-Réseau arche Jacques Coeur |
+RESEAU ARCHE JACQUES COEUR |
 
 MONTPELLIER |
 
-0,012 |
+0,013 |
 
-0,023 |
+0,025 |
 
-Non défini |
+ND |
 
-2021 |
+Moyenne |
 
 3409C |
 
-ZAC des Constellations |
+ZAC DES CONSTELLATIONS |
 
 JUVIGNAC |
 
-0,064 |
+0,068 |
 
-0,091 |
+0,094 |
 
-78,8 % |
+75,3 |
 
-2021 |
+Moyenne |
 
 3410C |
 
-Eco-Quartier Le Mas de Rochet |
+ECO-QUARTIER LE MAS DE ROCHET |
 
 CASTELNAU-LE-LEZ |
 
-0,125 |
+0,113 |
 
-0,150 |
+0,137 |
 
-49,9 % |
+51,7 |
 
-moyenne |
+2022 |
 
 3411C |
 
@@ -3396,9 +3582,9 @@ MONTPELLIER |
 
 0,004 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 3411F |
 
@@ -3406,17 +3592,17 @@ MUSE |
 
 MONTPELLIER |
 
-0,009 |
+0,010 |
 
-0,018 |
+0,020 |
 
-Non défini |
+ND |
 
-moyenne |
+Moyenne |
 
 3412C |
 
-BET BOIRARGUES chaud |
+BET BOIRARGUES CHAUD |
 
 LATTES |
 
@@ -3424,65 +3610,65 @@ LATTES |
 
 0,024 |
 
-84,6 % |
+81,3 |
 
-2021 |
+Moyenne |
 
 3412F |
 
-BET BOIRARGUES froid |
+BET BOIRARGUES FROID |
 
 LATTES |
 
+0,010 |
+
 0,020 |
 
-0,036 |
+ND |
 
-Non défini |
-
-moyenne |
+2022 |
 
 3413C |
 
-BET ODE chaud |
+BET ODE CHAUD |
 
 PEROLS |
 
-0,054 |
+0,058 |
 
-0,037 |
+0,036 |
 
-70,3 % |
+67,7 |
 
-moyenne |
+Moyenne |
 
 3414C |
 
-BET EUREKA chaud |
+BET EUREKA CHAUD |
 
 CASTELNAU-LE-LEZ |
 
-0,064 |
+0,076 |
 
-0,032 |
+0,038 |
 
-65,2 % |
+63,9 |
 
-2021 |
+2022 |
 
 3414F |
 
-BET EUREKA froid |
+BET EUREKA FROID |
 
 CASTELNAU-LE-LEZ |
 
-0,012 |
+0,013 |
 
-0,022 |
+0,024 |
 
-Non défini |
+ND |
 
-moyenne |
+Moyenne |
 
 3424F |
 
@@ -3490,111 +3676,125 @@ BEAUSOLEIL |
 
 MONTPELLIER |
 
-0,015 |
+0,014 |
 
-0,029 |
+0,027 |
 
-Non défini |
+ND |
 
-2021 |
+2022 |
 
 3425C |
 
-Prado Concorde |
+PRADO CONCORDE |
 
 CASTELNAU LE LEZ |
 
-0,204 |
+0,108 |
 
-0,207 |
+0,087 |
 
-24,9 % |
+58,1 |
 
-2021 |
+2022 |
 
 3426F |
 
-Prado Concorde |
+PRADO CONCORDE |
 
-CASTELNAU-LE-LEZ |
+CASTELNAU LE LEZ |
 
-0,030 |
+0,015 |
 
-0,052 |
+0,028 |
 
-Non défini |
+ND |
 
-2021 |
+2022 |
+
+3427F |
+
+NOUVEAU SAINT ROCH |
+
+MONTPELLIER |
+
+0,009 |
+
+0,022 |
+
+ND |
+
+2022 |
 
 3504C |
 
-Sarah Bernhardt |
+SARAH BERNHARDT |
 
 RENNES |
 
-0,243 |
+0,203 |
 
-0,281 |
+0,227 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 3505C |
 
-Campus Scientifique de Beaulieu |
+CAMPUS SCIENTIFIQUE DE BEAULIEU |
 
 RENNES |
 
-0,047 |
+0,039 |
 
-0,212 |
+0,237 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 3506C |
 
-Rennes Sud |
+RENNES SUD |
 
 RENNES |
 
-0,095 |
+0,091 |
 
-0,124 |
+0,119 |
 
-55,6 % |
+58,2 |
 
-moyenne |
+2022 |
 
 3507C |
 
-Réseau de RENNES NORD & EST |
+RESEAU DE RENNES NORD & EST |
 
 RENNES |
 
-0,043 |
+0,088 |
 
-0,053 |
+0,103 |
 
-84,5 % |
+66,1 |
 
-moyenne |
+Moyenne |
 
 3508C |
 
-Réseau de chaleur Bretagne romantique à Combourg |
+RESEAU DE CHALEUR BRETAGNE ROMANTIQUE A COMBOURG |
 
 COMBOURG |
 
 0,029 |
 
-0,051 |
+0,050 |
 
-83,8 % |
+88,6 |
 
-2021 |
+2022 |
 
 3510C |
 
@@ -3602,479 +3802,507 @@ REVERTEC |
 
 VITRE |
 
-0,071 |
-
-0,083 |
-
-71,1 % |
-
-moyenne |
-
-3511C |
-
-SILVA--Réseau de JANZE |
-
-JANZE |
-
-0,061 |
-
-0,087 |
-
-77,9 % |
-
-moyenne |
-
-3512C |
-
-Réseau de Vezin le Coquet |
-
-VEZIN-LE-COQUET |
-
-0,181 |
-
-0,210 |
-
-30,7 % |
-
-moyenne |
-
-3514C |
-
-Reseau Chartres de Bretagne (ZAC portes de Seiche) |
-
-CHARTRES-DE-BRETAGNE |
-
-0,066 |
-
-0,092 |
-
-72,2 % |
-
-2021 |
-
-3515C |
-
-RCU de RETIERS, MARTIGNE-FERCHAUD, COESMES |
-
-RETIERS, MARTIGNÉ-FERCHAUD, COËSMES |
-
-0,017 |
-
-0,044 |
-
-95,4 % |
-
-2021 |
-
-3602C |
-
-Réseau de chaleur de la cité de Beaulieu |
-
-CHATEAUROUX |
-
-0,035 |
-
-0,055 |
-
-83,4 % |
-
-moyenne |
-
-3603C |
-
-Réseau de chaleur Argenton sur Creuse |
-
-ARGENTON-SUR-CREUSE |
-
-0,025 |
-
-0,045 |
-
-88,0 % |
-
-2021 |
-
-3604C |
-
-Réseau communal Neuvy Saint Sepulchre |
-
-NEUVY-SAINT-SEPULCHRE |
-
-0,055 |
-
-0,080 |
-
-79,1 % |
-
-2021 |
-
-3605C |
-
-Réseau de chaleur d'Issoudun |
-
-ISSOUDUN |
-
-0,049 |
-
-0,072 |
-
-81,9 % |
-
-2021 |
-
-3606C |
-
-Centre Départemental Gériatrique de l'Indre (CDGI) |
-
-CHATEAUROUX |
-
-0,078 |
-
-0,102 |
-
-64,5 % |
-
-moyenne |
-
-3701C |
-
-Morier et Rabière |
-
-JOUE-LES-TOURS |
-
-0,127 |
-
-0,151 |
-
-51,2 % |
-
-2021 |
-
-3702C |
-
-Zup des Bords de Cher et Sanitas |
-
-TOURS |
+0,054 |
 
 0,064 |
 
-0,086 |
+76,6 |
 
-70,9 % |
+2022 |
 
-2021 |
+3511C |
 
-3704C |
+SILVA--RESEAU DE JANZE |
 
-Quartier Chateaubriand |
+JANZE |
+
+0,067 |
+
+0,092 |
+
+75,8 |
+
+Moyenne |
+
+3512C |
+
+RESEAU DE VEZIN LE COQUET |
+
+VEZIN-LE-COQUET |
+
+0,098 |
+
+0,127 |
+
+63,2 |
+
+2022 |
+
+3514C |
+
+RESEAU CHARTRES DE BRETAGNE (ZAC PORTES DE SEICHE) |
+
+CHARTRES-DE-BRETAGNE |
+
+0,077 |
+
+0,105 |
+
+69,8 |
+
+2022 |
+
+3515C |
+
+RCU DE RETIERS, MARTIGNE-FERCHAUD, COESMES |
+
+RETIERS, MARTIGNE-FERCHAUD, COËSMES |
+
+0,014 |
+
+0,040 |
+
+96,6 |
+
+2022 |
+
+3516C |
+
+SAVE |
+
+CORNILLE |
+
+0,000 |
+
+0,004 |
+
+100,0 |
+
+2022 |
+
+3601C |
+
+CITE SAINT JEAN |
+
+CHATEAUROUX |
+
+0,183 |
+
+0,176 |
+
+42,9 |
+
+2022 |
+
+3602C |
+
+RESEAU DE CHALEUR DE LA CITE DE BEAULIEU |
+
+CHATEAUROUX |
+
+0,016 |
+
+0,035 |
+
+92,2 |
+
+2022 |
+
+3603C |
+
+RESEAU DE CHALEUR ARGENTON SUR CREUSE |
+
+ARGENTON-SUR-CREUSE |
+
+0,005 |
+
+0,025 |
+
+97,4 |
+
+2022 |
+
+3604C |
+
+RESEAU COMMUNAL NEUVY SAINT SEPULCHRE |
+
+NEUVY-SAINT-SEPULCHRE |
+
+0,078 |
+
+0,109 |
+
+74,9 |
+
+Moyenne |
+
+3605C |
+
+RESEAU DE CHALEUR D'ISSOUDUN |
+
+ISSOUDUN |
+
+0,053 |
+
+0,076 |
+
+78,3 |
+
+Moyenne |
+
+3606C |
+
+CENTRE DEPARTEMENTAL GERIATRIQUE DE L'INDRE (CDGI) |
+
+CHATEAUROUX |
+
+0,053 |
+
+0,076 |
+
+76,5 |
+
+2022 |
+
+3701C |
+
+RCU JOUE-LES-TOURS |
+
+JOUE-LES-TOURS |
+
+0,112 |
+
+0,140 |
+
+56,0 |
+
+2022 |
+
+3702C |
+
+ZUP DES BORDS DE CHER ET SANITAS |
 
 TOURS |
 
-0,065 |
+0,062 |
 
-0,234 |
+0,084 |
 
-4,9 % |
+73,1 |
 
-moyenne |
+2022 |
+
+3704C |
+
+QUARTIER CHATEAUBRIAND |
+
+TOURS |
+
+0,054 |
+
+0,238 |
+
+0,0 |
+
+2022 |
 
 3705C |
 
-Réseau de la ville de Saint Pierre des Corps |
+RESEAU DE LA VILLE DE SAINT PIERRE DES CORPS |
 
 SAINT-PIERRE-DES-CORPS |
 
-0,085 |
+0,091 |
 
-0,110 |
+0,116 |
 
-68,6 % |
+65,4 |
 
-moyenne |
+Moyenne |
 
 3708C |
 
-Réseau de chauffage urbain de la Riche-Quartier |
+RESEAU DE CHAUFFAGE URBAIN DE LA RICHE-QUARTIER |
 
 LA RICHE |
 
-0,174 |
+0,110 |
 
-0,309 |
+0,253 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 3709C |
 
-Réseau DBT |
+RESEAU DBT |
 
 TOURS |
 
 0,000 |
 
-0,018 |
+0,019 |
 
-99,9 % |
+99,9 |
 
-moyenne |
+Moyenne |
 
 3710C |
 
-Résidence Febvotte 1 et 2 |
+RESIDENCE FEBVOTTE 1 ET 2 |
 
 TOURS |
 
-0,102 |
+0,103 |
 
-0,242 |
+0,256 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 3711C |
 
-CFA Joué Les Tours |
+CFA JOUE LES TOURS |
 
 JOUE LES TOURS |
 
-0,087 |
+0,080 |
 
-0,111 |
+0,204 |
 
-67,8 % |
+57,7 |
 
-moyenne |
+Moyenne |
 
 3712C |
 
-Réseau de Chaleur TM-ED |
+RESEAU DE CHALEUR TM-ED |
 
 TOURS ET LA RICHE |
 
-0,084 |
+0,056 |
 
-0,107 |
+0,080 |
 
-60,8 % |
+72,1 |
 
-2021 |
+2022 |
 
 3713C |
 
-Les Ilots Est |
+LES ILOTS EST |
 
 TOURS |
 
-0,200 |
+0,251 |
 
-0,235 |
+0,282 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
-3802C |
+3801C |
 
-Réseau principal de Grenoble-Alpes Métropole |
+CHAUFFERIE BOIS BATIMENTS COMMUNAUX |
 
-GRENOBLE |
-
-0,063 |
-
-0,090 |
-
-80,6 % |
-
-2021 |
-
-3802F |
-
-Réseau froid CCIAG Grenoble |
-
-GRENOBLE |
-
-0,015 |
-
-0,029 |
-
-Non défini |
-
-2021 |
-
-3803C |
-
-Berjalia |
-
-BOURGOIN-JALLIEU |
-
-0,039 |
-
-0,047 |
-
-85,2 % |
-
-moyenne |
-
-3804C |
-
-Réseau de chaleur de Vinay |
-
-VINAY |
-
-0,082 |
-
-0,123 |
-
-78,5 % |
-
-2021 |
-
-3805C |
-
-Réseau de Saint Marcellin |
-
-SAINT-MARCELLIN |
+NOYAREY |
 
 0,031 |
 
-0,062 |
+0,053 |
 
-92,0 % |
+87,3 |
 
-moyenne |
+2022 |
+
+3802C |
+
+RESEAU PRINCIPAL DE GRENOBLE-ALPES METROPOLE |
+
+GRENOBLE |
+
+0,042 |
+
+0,090 |
+
+79,4 |
+
+2022 |
+
+3802F |
+
+RESEAU FROID CCIAG GRENOBLE |
+
+GRENOBLE |
+
+0,014 |
+
+0,026 |
+
+ND |
+
+2022 |
+
+3803C |
+
+BERJALIA |
+
+BOURGOIN-JALLIEU |
+
+0,044 |
+
+0,052 |
+
+83,1 |
+
+Moyenne |
+
+3804C |
+
+RESEAU DE CHALEUR DE VINAY |
+
+VINAY |
+
+0,061 |
+
+0,096 |
+
+86,6 |
+
+2022 |
+
+3805C |
+
+RESEAU DE SAINT MARCELLIN |
+
+SAINT-MARCELLIN |
+
+0,022 |
+
+0,052 |
+
+94,5 |
+
+2022 |
 
 3806C |
 
-Réseau d'Allevard |
+RESEAU D'ALLEVARD |
 
 ALLEVARD |
 
-0,073 |
+0,018 |
 
-0,110 |
+0,048 |
 
-77,5 % |
+94,8 |
 
-2021 |
+2022 |
 
 3807C |
 
-Les Laiches |
+LES LAICHES |
 
 VILLARD-DE-LANS |
 
-0,041 |
-
-0,073 |
-
-90,5 % |
-
-moyenne |
-
-3808C |
-
-Réseau de Lans-en-Vercors |
-
-LANS-EN-VERCORS |
-
-0,038 |
-
-0,070 |
-
-91,5 % |
-
-2021 |
-
-3809C |
-
-Réseau de Monestier-de-Clermont |
-
-MONESTIER-DE-CLERMONT |
-
-0,015 |
-
-0,041 |
-
-96,0 % |
-
-2021 |
-
-3810C |
-
-Réseau de Mens |
-
-MENS |
-
-0,074 |
-
-0,106 |
-
-78,1 % |
-
-2021 |
-
-3811C |
-
-Réseau de Chaleur Bois Pontcharra RCBP |
-
-PONTCHARRA |
-
-0,082 |
-
-0,109 |
-
-74,0 % |
-
-2021 |
-
-3813C |
-
-Réseau de chaleur de Voreppe |
-
-VOREPPE |
-
-0,081 |
-
-0,109 |
-
-72,8 % |
-
-moyenne |
-
-3814C |
-
-Réseau de Coublevie |
-
-COUBLEVIE |
-
-0,037 |
-
-0,058 |
-
-83,5 % |
-
-2021 |
-
-3817C |
-
-Réseau de chaleur de Villard-de-Lans |
-
-VILLARD-DE-LANS |
-
-0,025 |
+0,022 |
 
 0,051 |
 
-93,2 % |
+95,2 |
 
-moyenne |
+2022 |
+
+3808C |
+
+RESEAU DE LANS-EN-VERCORS |
+
+LANS-EN-VERCORS |
+
+0,040 |
+
+0,072 |
+
+91,0 |
+
+Moyenne |
+
+3809C |
+
+RESEAU DE MONESTIER-DE-CLERMONT |
+
+MONESTIER-DE-CLERMONT |
+
+0,028 |
+
+0,054 |
+
+91,8 |
+
+Moyenne |
+
+3811C |
+
+RESEAU DE CHALEUR BOIS PONTCHARRA RCBP |
+
+PONTCHARRA |
+
+0,099 |
+
+0,128 |
+
+68,1 |
+
+2022 |
+
+3813C |
+
+RESEAU DE CHALEUR DE VOREPPE |
+
+VOREPPE |
+
+0,061 |
+
+0,088 |
+
+79,5 |
+
+2022 |
+
+3814C |
+
+RESEAU DE COUBLEVIE |
+
+COUBLEVIE |
+
+0,030 |
+
+0,051 |
+
+86,9 |
+
+Moyenne |
+
+3817C |
+
+RESEAU DE CHALEUR DE VILLARD-DE-LANS |
+
+VILLARD-DE-LANS |
+
+0,023 |
+
+0,050 |
+
+93,9 |
+
+2022 |
 
 3819C |
 
-Réseau YOPLAIT Vienne |
+RESEAU YOPLAIT VIENNE |
 
 VIENNE |
 
@@ -4082,41 +4310,41 @@ VIENNE |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 3820C |
 
-Réseau de chaleur de Gières Centre |
+RESEAU DE CHALEUR DE GIERES CENTRE |
 
-GIÈRES |
+GIERES |
 
-0,048 |
+0,052 |
 
-0,074 |
+0,078 |
 
-83,4 % |
+81,4 |
 
-2021 |
+Moyenne |
 
 3821C |
 
-Réseau de chaleur de Fontaine ZAC Bastille |
+RESEAU DE CHALEUR DE FONTAINE ZAC BASTILLE |
 
 FONTAINE |
 
-0,067 |
+0,069 |
 
-0,091 |
+0,093 |
 
-75,5 % |
+74,2 |
 
-2021 |
+2022 |
 
 3823C |
 
-Osiris |
+OSIRIS |
 
 ST MAURICE L'EXIL |
 
@@ -4124,97 +4352,111 @@ ST MAURICE L'EXIL |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
-3901C |
+3824C |
 
-Réseau de Dole |
+RESEAU DE MOIRANS |
 
-DOLE |
+VILLE DE MOIRANS |
 
-0,115 |
-
-0,143 |
-
-51,6 % |
-
-2021 |
-
-3902C |
-
-La Marjorie |
-
-LONS-LE-SAUNIER |
-
-0,034 |
+0,018 |
 
 0,046 |
 
-87,0 % |
+93,9 |
 
-2021 |
+2022 |
+
+3826C |
+
+RESEAU DE CHALEUR DES BANNETTES |
+
+VOREPPE |
+
+0,051 |
+
+0,074 |
+
+79,9 |
+
+2022 |
+
+3901C |
+
+RESEAU DE DOLE |
+
+DOLE |
+
+0,099 |
+
+0,127 |
+
+57,6 |
+
+2022 |
+
+3902C |
+
+LA MARJORIE |
+
+LONS-LE-SAUNIER |
+
+0,042 |
+
+0,057 |
+
+84,0 |
+
+Moyenne |
 
 3903C |
 
-Réseau de Champvans |
+RESEAU DE CHAMPVANS |
 
 CHAMPVANS |
 
 0,000 |
 
-0,017 |
+0,033 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 3904C |
 
-Réseau de chaleur de Moirans en Montagne |
+RESEAU DE CHALEUR DE MOIRANS EN MONTAGNE |
 
 MOIRANS-EN-MONTAGNE |
 
-0,071 |
+0,082 |
 
-0,105 |
+0,117 |
 
-82,1 % |
+78,0 |
 
-moyenne |
+Moyenne |
 
 3905C |
 
-Réseau ARINTHOD CC TEC |
+RESEAU ARINTHOD CC TEC |
 
 ARINTHOD |
 
 0,000 |
 
-0,021 |
+0,024 |
 
-100,0 % |
+100,0 |
 
-2021 |
-
-3906C |
-
-Réseau de Morez-le Puit |
-
-HAUTS DE BIENNE |
-
-0,008 |
-
-0,031 |
-
-96,9 % |
-
-moyenne |
+2022 |
 
 3907C |
 
-Réseau de Chissey sur Loue |
+RESEAU DE CHISSEY SUR LOUE |
 
 CHISSEY-SUR-LOUE |
 
@@ -4222,55 +4464,69 @@ CHISSEY-SUR-LOUE |
 
 0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
+
+3908C |
+
+CHAUFFERIE BOIS LES ORCHIDEES |
+
+AVIGNON-LES-SAINT-CLAUDE |
+
+0,000 |
+
+0,037 |
+
+100,0 |
+
+2022 |
 
 4003C |
 
-Géothermie Mont-de-Marsan (GMM1) |
+GEOTHERMIE MONT-DE-MARSAN (GMM1) |
 
 MONT-DE-MARSAN |
+
+0,026 |
 
 0,024 |
 
-0,020 |
+88,7 |
 
-88,7 % |
-
-moyenne |
+Moyenne |
 
 4004C |
 
-écoquartier Mousse |
+ECOQUARTIER MOUSSE (ARRET EN 2024) |
 
 DAX |
 
-0,243 |
+0,458 |
 
-0,232 |
+0,499 |
 
-38,5 % |
+49,6 |
 
-moyenne |
+Moyenne |
 
 4005C |
 
-Réseau de chaleur Peyrouat |
+RESEAU DE CHALEUR PEYROUAT |
 
 MONT-DE-MARSAN |
 
-0,157 |
+0,204 |
 
-0,136 |
+0,186 |
 
-50,8 % |
+45,2 |
 
-2021 |
+Moyenne |
 
 4006C |
 
-Géothermie Mont-de-Marsan (GMM2) |
+GEOTHERMIE MONT-DE-MARSAN (GMM2) |
 
 MONT-DE-MARSAN |
 
@@ -4278,65 +4534,79 @@ MONT-DE-MARSAN |
 
 0,014 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 4101C |
 
-Quartier Bégon et Chevalier |
+QUARTIER BEGON ET CHEVALIER |
 
 BLOIS |
 
-0,018 |
+0,021 |
 
-0,028 |
+0,030 |
 
-92,7 % |
+91,7 |
 
-moyenne |
+Moyenne |
 
 4102C |
 
-Zac des Paradis |
+ZAC DES PARADIS |
 
 VINEUIL |
 
-0,271 |
+0,370 |
 
-0,352 |
+0,456 |
 
-46,6 % |
+33,5 |
 
-moyenne |
+Moyenne |
 
 4103C |
 
-Réseau de Mondoubleau |
+RESEAU DE MONDOUBLEAU |
 
 MONDOUBLEAU |
 
-0,016 |
+0,045 |
 
-0,036 |
+0,068 |
 
-92,9 % |
+84,0 |
 
-moyenne |
+Moyenne |
+
+4104C |
+
+RESEAU NEUNG SUR BEUVRON |
+
+NEUNG-SUR-BEUVRON |
+
+0,026 |
+
+0,053 |
+
+93,5 |
+
+2022 |
 
 4105C |
 
-Hubert CHEVALLIER |
+HUBERT CHEVALLIER |
 
 VILLENY |
 
 0,000 |
 
-0,022 |
+0,025 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 4106C |
 
@@ -4344,115 +4614,115 @@ ECO CHALEUR DE BLOIS |
 
 BLOIS |
 
-0,014 |
+0,017 |
 
-0,019 |
+0,023 |
 
-94,5 % |
+93,4 |
 
-2021 |
+Moyenne |
 
 4202C |
 
-Quartier la Cotonne |
+QUARTIER LA COTONNE |
 
 SAINT-ETIENNE |
 
-0,219 |
+0,216 |
 
-0,259 |
+0,253 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 4203C |
 
-Quartier de La Métare |
+QUARTIER DE LA METARE |
 
 SAINT-ETIENNE |
 
-0,183 |
+0,199 |
 
-0,225 |
+0,231 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 4204C |
 
-HLM Beaulieu Montchovet IV |
+HLM BEAULIEU MONTCHOVET IV |
 
 SAINT-ETIENNE |
 
-0,268 |
+0,289 |
 
-0,294 |
+0,305 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 4206C |
 
-Réseau de Firminy |
+RESEAU DE FIRMINY |
 
 FIRMINY |
 
-0,109 |
+0,089 |
 
-0,135 |
+0,111 |
 
-52,1 % |
+62,0 |
 
-2021 |
+2022 |
 
 4207C |
 
-Roanne énergies |
+ROANNE ENERGIES |
 
 ROANNE |
 
-0,054 |
+0,059 |
 
-0,076 |
+0,082 |
 
-77,4 % |
+75,9 |
 
-moyenne |
+2022 |
 
 4208C |
 
-Quartier Parc des Sports |
+QUARTIER PARC DES SPORTS |
 
 ROANNE |
 
-0,198 |
+0,254 |
 
-0,223 |
+0,286 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 4210C |
 
-Quartier Montreynaud |
+QUARTIER MONTREYNAUD |
 
 SAINT-ETIENNE |
 
-0,093 |
+0,067 |
 
-0,117 |
+0,091 |
 
-63,2 % |
+74,3 |
 
-moyenne |
+2022 |
 
 4211C |
 
-Andrézieux-Bouthéon |
+ANDREZIEUX-BOUTHEON |
 
 ANDREZIEUX-BOUTHEON |
 
@@ -4460,41 +4730,41 @@ ANDREZIEUX-BOUTHEON |
 
 0,075 |
 
-79,6 % |
+80,5 |
 
-2021 |
+2022 |
 
 4212C |
 
-Montrond-les-Bains |
+MONTROND-LES-BAINS |
 
 MONTROND-LES-BAINS |
 
-0,088 |
+0,050 |
 
-0,116 |
+0,077 |
 
-71,0 % |
+83,2 |
 
-moyenne |
+2022 |
 
 4213C |
 
-Réseau de Chaleur VIACONFORT |
+RESEAU DE CHALEUR VIACONFORT |
 
 SAINT-ETIENNE |
 
-0,034 |
+0,039 |
 
-0,100 |
+0,089 |
 
-76,5 % |
+74,1 |
 
-moyenne |
+2022 |
 
 4213F |
 
-Réseaux de Froid VIACONFORT |
+RESEAUX DE FROID VIACONFORT |
 
 SAINT-ETIENNE |
 
@@ -4502,279 +4772,279 @@ SAINT-ETIENNE |
 
 0,024 |
 
-Non défini |
+ND |
 
-2021 |
+2022 |
 
 4214C |
 
-Scevia quartier de fonsala |
+SCEVIA QUARTIER DE FONSALA |
 
 SAINT-CHAMOND |
 
-0,074 |
+0,072 |
 
-0,118 |
+0,106 |
 
-61,8 % |
+65,7 |
 
-2021 |
+2022 |
 
 4215C |
 
-Usson en Forez |
+USSON EN FOREZ |
 
 USSON-EN-FOREZ |
 
-0,077 |
+0,017 |
 
-0,122 |
+0,050 |
 
-88,0 % |
+96,9 |
 
-moyenne |
+2022 |
 
 4216C |
 
-LOIRE FOREZ AGGLOMERATION Espace Déchelette |
+LOIRE FOREZ AGGLOMERATION ESPACE DECHELETTE |
 
 SAINT-BONNET-LE-CHATEAU |
 
-0,151 |
+0,162 |
 
-0,199 |
+0,217 |
 
-64,9 % |
+86,3 |
 
-2021 |
+2022 |
 
 4217C |
 
-Jonzieux |
+JONZIEUX |
 
 JONZIEUX |
 
-0,053 |
+0,051 |
 
-0,086 |
+0,083 |
 
-87,9 % |
+88,3 |
 
-2021 |
+Moyenne |
 
 4218C |
 
-Roisey |
+ROISEY |
 
 ROISEY |
 
-0,001 |
+0,004 |
 
-0,028 |
+0,032 |
 
-99,8 % |
+98,9 |
 
-moyenne |
+Moyenne |
 
 4219C |
 
-Planfoy 2-ZAC des Lucioles |
+PLANFOY 2-ZAC DES LUCIOLES |
 
 PLANFOY |
 
-0,037 |
+0,028 |
 
-0,066 |
+0,057 |
 
-89,1 % |
+92,0 |
 
-moyenne |
+2022 |
 
 4220C |
 
-Le Bessat 1-Ecole |
+LE BESSAT 1-ECOLE |
 
 LE BESSAT |
 
 0,000 |
 
-0,022 |
+0,027 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 4221C |
 
-St Bonnet le Courreau |
+ST BONNET LE COURREAU |
 
 SAINT-BONNET-LE-COURREAU |
 
 0,000 |
 
-0,037 |
+0,023 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 4222C |
 
-La Terrasse sur Dorlay |
+LA TERRASSE SUR DORLAY |
 
 LA TERRASSE-SUR-DORLAY |
 
 0,000 |
 
-0,020 |
+0,018 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 4223C |
 
-St Régis du Coin |
+ST REGIS DU COIN |
 
 SAINT-REGIS-DU-COIN |
 
-0,009 |
+0,003 |
 
-0,040 |
+0,026 |
 
-98,2 % |
+98,9 |
 
-2021 |
+2022 |
 
 4224C |
 
-St Didier sur Rochefort |
+ST DIDIER SUR ROCHEFORT |
 
 SAINT-DIDIER-SUR-ROCHEFORT |
 
-0,004 |
+0,000 |
 
-0,027 |
+0,030 |
 
-98,8 % |
+100,0 |
 
-moyenne |
+2022 |
 
 4225C |
 
-Neulise |
+NEULISE |
 
 NEULISE |
 
-0,043 |
+0,050 |
 
-0,077 |
+0,085 |
 
-89,1 % |
+92,4 |
 
-2021 |
+2022 |
 
 4226C |
 
-Pélussin-Quartier Notre Dame |
+PELUSSIN-QUARTIER NOTRE DAME |
 
 PELUSSIN |
 
-0,025 |
+0,021 |
 
-0,055 |
+0,065 |
 
-91,5 % |
+96,4 |
 
-moyenne |
+2022 |
 
 4227C |
 
-St Christo en Jarez |
+ST CHRISTO EN JAREZ |
 
 SAINT-CHRISTO-EN-JAREZ |
 
 0,000 |
 
-0,021 |
+0,023 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 4228C |
 
-St Martin la Sauveté |
+ST MARTIN LA SAUVETE |
 
 SAINT-MARTIN-LA-SAUVETE |
 
-0,031 |
+0,051 |
 
-0,066 |
+0,093 |
 
-94,3 % |
+92,3 |
 
-moyenne |
+Moyenne |
 
 4229C |
 
-St Symphorien de Lay |
+ST SYMPHORIEN DE LAY |
 
 SAINT-SYMPHORIEN-DE-LAY |
 
-0,001 |
+0,005 |
 
-0,022 |
+0,028 |
 
-99,6 % |
+98,7 |
 
-moyenne |
+Moyenne |
 
 4230C |
 
-Marlhes-Interconnexion |
+MARLHES-INTERCONNEXION |
 
 MARLHES |
 
+0,053 |
+
 0,081 |
 
-0,118 |
+84,1 |
 
-76,8 % |
-
-moyenne |
+2022 |
 
 4231C |
 
-St Haon le Châtel |
+ST HAON LE CHATEL |
 
 SAINT-HAON-LE-CHATEL |
 
-0,032 |
+0,049 |
 
-0,063 |
+0,077 |
 
-91,7 % |
+84,6 |
 
-moyenne |
+Moyenne |
 
 4232C |
 
-St Joseph |
+ST JOSEPH |
 
 SAINT-JOSEPH |
 
-0,107 |
+0,058 |
 
-0,150 |
+0,095 |
 
-73,2 % |
+82,8 |
 
-moyenne |
+2022 |
 
 4233C |
 
-St Cyr de Favières |
+ST CYR DE FAVIERES |
 
 SAINT-CYR-DE-FAVIERES |
 
@@ -4782,191 +5052,191 @@ SAINT-CYR-DE-FAVIERES |
 
 0,024 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 4234C |
 
-Roanne-Quartier de Mâtel |
+ROANNE-QUARTIER DE MATEL |
 
 ROANNE |
 
-0,027 |
+0,051 |
 
-0,049 |
+0,074 |
 
-88,1 % |
+76,7 |
 
-moyenne |
+Moyenne |
 
 4235C |
 
-Roche en Forez |
+ROCHE EN FOREZ |
 
 ROCHE |
 
-0,063 |
+0,013 |
 
-0,098 |
+0,037 |
 
-83,3 % |
+95,4 |
 
-2021 |
+2022 |
 
 4236C |
 
-Pélussin 2-Quartier des Croix |
+PELUSSIN 2-QUARTIER DES CROIX |
 
 PELUSSIN |
 
-0,010 |
+0,027 |
 
-0,036 |
+0,059 |
 
-95,9 % |
+92,1 |
 
-2021 |
+Moyenne |
 
 4237C |
 
-Roanne-Quartier Arsenal |
+ROANNE-QUARTIER ARSENAL |
 
 ROANNE |
 
-0,068 |
+0,107 |
 
-0,095 |
+0,137 |
 
-76,4 % |
+63,1 |
 
-moyenne |
+Moyenne |
 
 4238C |
 
-St Maurice en Gourgois |
+ST MAURICE EN GOURGOIS |
 
 SAINT-MAURICE-EN-GOURGOIS |
 
-0,038 |
+0,033 |
 
-0,071 |
+0,065 |
 
-90,2 % |
+91,2 |
 
-moyenne |
+2022 |
 
 4239C |
 
-Pélussin-Siège CCPR |
+PELUSSIN-SIEGE CCPR |
 
 PELUSSIN |
 
-0,014 |
+0,018 |
 
-0,040 |
+0,059 |
 
-97,4 % |
+98,8 |
 
-2021 |
+2022 |
 
 4240C |
 
-Colombier |
+COLOMBIER |
 
 COLOMBIER |
 
-0,064 |
+0,078 |
 
-0,108 |
+0,127 |
 
-89,6 % |
+90,0 |
 
-moyenne |
+2022 |
 
 4241C |
 
-Farnay |
+FARNAY |
 
 FARNAY |
 
-0,043 |
+0,034 |
 
-0,070 |
+0,061 |
 
-87,7 % |
+89,0 |
 
-2021 |
+2022 |
 
 4243C |
 
-La Tuilière |
+LA TUILIERE |
 
 LA TUILIERE |
 
-0,004 |
+0,009 |
 
-0,024 |
+0,031 |
 
-98,2 % |
+99,9 |
 
-2021 |
+2022 |
 
 4244C |
 
-LOIRE FOREZ AGGLOMERATION Rezo |
+LOIRE FOREZ AGGLOMERATION REZO |
 
 LURIECQ |
 
 0,000 |
 
-0,022 |
+0,020 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 4245C |
 
-Réseau de La Valla en Gier |
+RESEAU DE LA VALLA EN GIER |
 
 LA VALLA EN GIER |
 
 0,000 |
 
-0,017 |
+0,020 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 4246C |
 
-Réseau d'Unieux |
+RESEAU D'UNIEUX |
 
 UNIEUX |
 
-0,034 |
+0,035 |
 
-0,059 |
+0,062 |
 
-87,7 % |
+89,1 |
 
-moyenne |
+2022 |
 
 4247C |
 
-Réseau de Saint Héand |
+RESEAU DE SAINT HEAND |
 
-SAINT HÉAND |
+SAINT HEAND |
 
-0,004 |
+0,002 |
 
-0,025 |
+0,027 |
 
-98,2 % |
+99,3 |
 
-2021 |
+2022 |
 
 4248C |
 
@@ -4974,27 +5244,27 @@ ST MARTIN D'ESTREAUX |
 
 ST MARTIN D'ESTREAUX |
 
-0,006 |
+0,009 |
 
-0,030 |
+0,035 |
 
-98,6 % |
+98,0 |
 
-2021 |
+Moyenne |
 
 4249C |
 
-Chaufferie BELMONT DE LA LOIRE |
+CHAUFFERIE BELMONT DE LA LOIRE |
 
 BELMONT DE LA LOIRE |
 
-0,048 |
+0,033 |
 
-0,075 |
+0,058 |
 
-83,1 % |
+87,1 |
 
-2021 |
+2022 |
 
 4250C |
 
@@ -5002,13 +5272,13 @@ CDC VAL D'AIX ET ISABLE |
 
 ST GERMAIN LAVAL |
 
-0,056 |
+0,012 |
 
-0,091 |
+0,035 |
 
-87,9 % |
+99,9 |
 
-2021 |
+2022 |
 
 4251C |
 
@@ -5016,45 +5286,45 @@ GUMIERES |
 
 GUMIERES |
 
-0,046 |
+0,002 |
 
-0,086 |
+0,025 |
 
-94,2 % |
+99,3 |
 
-2021 |
+2022 |
 
 4252C |
 
 ST ROMAIN LA MOTTE |
 
-|
+ST ROMAIN LA MOTTE |
 
-0,005 |
+0,008 |
 
-0,031 |
+0,034 |
 
-98,5 % |
+97,3 |
 
-2021 |
+Moyenne |
 
 4301C |
 
-Réseau de Tence |
+RESEAU DE TENCE |
 
 TENCE |
 
-0,022 |
+0,020 |
 
-0,058 |
+0,059 |
 
-96,4 % |
+96,9 |
 
-moyenne |
+2022 |
 
 4302C |
 
-4302C Mairie de Langeac |
+4302C MAIRIE DE LANGEAC |
 
 LANGEAC |
 
@@ -5062,107 +5332,135 @@ LANGEAC |
 
 0,023 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 4303C |
 
-Réseau du Puy en Velay VERT VEINE |
+RESEAU DU PUY EN VELAY VERT VEINE |
 
 LE PUY-EN-VELAY |
 
-0,018 |
+0,012 |
 
-0,042 |
+0,035 |
 
-93,2 % |
+96,0 |
 
-2021 |
+2022 |
 
 4304C |
 
-Chaufferie de la Mairie |
+CHAUFFERIE DE LA MAIRIE |
 
 DUNIERES |
 
 0,000 |
 
-0,017 |
+0,020 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 4305C |
 
-Réseau d'allegre |
+RESEAU D'ALLEGRE |
 
 ALLEGRE |
 
-0,007 |
+0,000 |
 
-0,033 |
+0,024 |
 
-98,4 % |
+100,0 |
 
-moyenne |
+2022 |
 
 4306C |
 
-Chaufferie de la Piscine |
+CHAUFFERIE DE LA PISCINE |
 
 DUNIERES |
 
 0,000 |
 
-0,017 |
+0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 4307C |
 
-Réseaux de Chaleur YES |
+RESEAUX DE CHALEUR YES |
 
 YSSINGEAUX |
 
-0,029 |
+0,018 |
 
-0,053 |
+0,041 |
 
-89,8 % |
+93,9 |
 
-moyenne |
+2022 |
 
-4308C |
+4309C |
 
-Pradelles |
+RESEAU DE MAZET ST VOY |
 
-PRADELLES |
+MAZET-SAINT-VOY |
 
-0,005 |
+0,000 |
 
-0,028 |
+0,027 |
 
-98,6 % |
+100,0 |
 
-moyenne |
+2022 |
+
+4310C |
+
+RESEAU DE ST BONNET LE FROID |
+
+SAINT-BONNET-LE-FROID |
+
+0,000 |
+
+0,022 |
+
+100,0 |
+
+2022 |
+
+4314C |
+
+LA MION 2 |
+
+MAZET-SAINT-VOY |
+
+0,000 |
+
+0,024 |
+
+100,0 |
+
+2022 |
 
 4401C |
 
-Réseau de Nantes |
+RESEAU DE NANTES |
 
 NANTES |
 
-0,038 |
+0,036 |
 
-0,054 |
+0,053 |
 
-82,1 % |
+81,6 |
 
-2021 |
+2022 |
 
 4402C |
 
@@ -5170,13 +5468,13 @@ CHATEAUBRIANT |
 
 CHATEAUBRIANT |
 
-0,087 |
+0,080 |
 
-0,126 |
+0,114 |
 
-57,7 % |
+63,0 |
 
-2021 |
+2022 |
 
 4403C |
 
@@ -5184,283 +5482,283 @@ NANTES CHANTRERIE |
 
 NANTES |
 
-0,111 |
+0,102 |
 
-0,135 |
+0,127 |
 
-53,8 % |
+59,6 |
 
-2021 |
+2022 |
 
 4405C |
 
-Zup de Bellevue Saint Herblain |
+ZUP DE BELLEVUE SAINT HERBLAIN |
 
 NANTES |
 
-0,108 |
+0,115 |
 
-0,136 |
+0,146 |
 
-56,4 % |
+52,8 |
 
-moyenne |
+Moyenne |
 
 4406C |
 
-AFUL Rezé-Château |
+AFUL REZE-CHATEAU |
 
 REZE |
 
-0,069 |
+0,091 |
 
-0,094 |
+0,117 |
 
-73,2 % |
+68,2 |
 
-2021 |
+Moyenne |
 
 4407C |
 
-Réseau de Saint-Jean-de-Boiseau |
+RESEAU DE SAINT-JEAN-DE-BOISEAU |
 
 SAINT-JEAN-DE-BOISEAU |
 
-0,317 |
+0,362 |
 
-0,358 |
+0,413 |
 
-17,9 % |
+26,0 |
 
-moyenne |
+2022 |
 
 4408C |
 
-Réseau ZAC de la Minais |
+RESEAU ZAC DE LA MINAIS |
 
 SAINTE-LUCE-SUR-LOIRE |
 
-0,084 |
+0,073 |
 
-0,110 |
+0,124 |
 
-66,2 % |
+71,2 |
 
-2021 |
+2022 |
 
 4409C |
 
-Saint Julien de Concelles-Chaufferie Bois |
+SAINT JULIEN DE CONCELLES-CHAUFFERIE BOIS |
 
 SAINT-JULIEN-DE-CONCELLES |
 
-0,000 |
+0,058 |
 
-0,019 |
+0,083 |
 
-100,0 % |
+77,6 |
 
-2021 |
+2022 |
 
 4410C |
 
-Réseau de Nantes Nord Chézine |
+RESEAU DE NANTES NORD CHEZINE |
 
 NANTES |
 
-0,126 |
+0,078 |
 
-0,143 |
+0,090 |
 
-63,0 % |
+68,1 |
 
-2021 |
+2022 |
 
 4501C |
 
-Socos source |
+SOCOS SOURCE |
 
 ORLEANS |
 
-0,084 |
+0,091 |
 
-0,108 |
+0,114 |
 
-65,8 % |
+64,7 |
 
-2021 |
+2022 |
 
 4503C |
 
-Quartier Centre Ville et Nord |
+QUARTIER CENTRE VILLE ET NORD |
 
 ORLEANS |
 
 0,000 |
 
-0,047 |
+0,048 |
 
-91,7 % |
+91,7 |
 
-2021 |
+Moyenne |
 
 4504C |
 
-Zup du Grand Clos |
+ZUP DU GRAND CLOS |
 
 MONTARGIS |
 
-0,078 |
-
-0,103 |
-
-66,9 % |
-
-2021 |
-
-4505C |
-
-Réseau de Fleury les Aubrais |
-
-FLEURY-LES-AUBRAIS |
-
-0,088 |
-
-0,122 |
-
-59,0 % |
-
-moyenne |
-
-4507C |
-
-Réseau de Amilly |
-
-AMILLY |
-
-0,017 |
-
-0,022 |
-
-93,5 % |
-
-moyenne |
-
-4601C |
-
-Réseau de Nuzéjouls |
-
-NUZEJOULS |
-
-0,032 |
-
-0,063 |
-
-92,9 % |
-
-moyenne |
-
-4603C |
-
-Réseau de Gramat |
-
-GRAMAT |
-
-0,000 |
-
-0,018 |
-
-100 % |
-
-2021 |
-
-4604C |
-
-Réseau de Biars sur Cere |
-
-BIARS-SUR-CERE |
-
-0,009 |
-
-0,038 |
-
-98,2 % |
-
-2021 |
-
-4605C |
-
-Réseau de Cajarc |
-
-CAJARC |
-
-0,009 |
-
-0,032 |
-
-97,4 % |
-
-2021 |
-
-4607C |
-
-Réseau de CATUS |
-
-CATUS |
-
-0,017 |
-
-0,043 |
-
-95,5 % |
-
-moyenne |
-
-4608C |
-
-Réseau de Caillac |
-
-CAILLAC |
+0,030 |
 
 0,044 |
 
-0,082 |
+87,7 |
 
-92,0 % |
+2022 |
 
-moyenne |
+4505C |
+
+RESEAU DE FLEURY LES AUBRAIS |
+
+FLEURY-LES-AUBRAIS |
+
+0,092 |
+
+0,126 |
+
+57,9 |
+
+Moyenne |
+
+4507C |
+
+RESEAU DE AMILLY |
+
+AMILLY |
+
+0,021 |
+
+0,028 |
+
+90,3 |
+
+Moyenne |
+
+4601C |
+
+RESEAU DE NUZEJOULS |
+
+NUZEJOULS |
+
+0,054 |
+
+0,088 |
+
+88,0 |
+
+Moyenne |
+
+4603C |
+
+RESEAU DE GRAMAT |
+
+GRAMAT |
+
+0,006 |
+
+0,026 |
+
+97,9 |
+
+Moyenne |
+
+4604C |
+
+RESEAU DE BIARS SUR CERE |
+
+BIARS-SUR-CERE |
+
+0,007 |
+
+0,037 |
+
+98,7 |
+
+2022 |
+
+4605C |
+
+RESEAU DE CAJARC |
+
+CAJARC |
+
+0,013 |
+
+0,037 |
+
+96,5 |
+
+Moyenne |
+
+4607C |
+
+RESEAU DE CATUS |
+
+CATUS |
+
+0,010 |
+
+0,037 |
+
+97,6 |
+
+2022 |
+
+4608C |
+
+RESEAU DE CAILLAC |
+
+CAILLAC |
+
+0,055 |
+
+0,094 |
+
+89,8 |
+
+Moyenne |
 
 4609C |
 
-Réseau de St Germain du Bel air |
+RESEAU DE ST GERMAIN DU BEL AIR |
 
 SAINT-GERMAIN-DU-BEL-AIR |
 
-0,015 |
+0,020 |
 
-0,043 |
+0,049 |
 
-96,4 % |
+95,5 |
 
-2021 |
+Moyenne |
 
 4610C |
 
-Réseau des 4 routes du Lot |
+RESEAU DES 4 ROUTES DU LOT |
 
 LES QUATRE-ROUTES-DU-LOT |
 
-0,017 |
+0,015 |
 
-0,047 |
+0,045 |
 
-96,3 % |
+96,7 |
 
-moyenne |
+Moyenne |
 
 4611C |
 
-Réseau de Sousceyrac |
+RESEAU DE SOUSCEYRAC |
 
 SOUSCEYRAC |
 
@@ -5468,135 +5766,149 @@ SOUSCEYRAC |
 
 0,029 |
 
-98,0 % |
+98,1 |
 
-2021 |
+Moyenne |
 
 4612C |
 
-Réseau de Figeac |
+RESEAU DE FIGEAC |
 
 FIGEAC |
 
-0,006 |
+0,005 |
 
 0,028 |
 
-98,3 % |
+98,4 |
 
-moyenne |
+Moyenne |
 
 4613C |
 
-Réseau de Livernon |
+RESEAU DE LIVERNON |
 
 LIVERNON |
 
-0,016 |
+0,028 |
 
-0,042 |
+0,056 |
 
-95,8 % |
+93,3 |
 
-2021 |
+Moyenne |
 
 4614C |
 
-Réseau de CAHORS |
+RESEAU DE CAHORS |
 
 CAHORS |
 
-0,013 |
+0,018 |
 
-0,036 |
+0,041 |
 
-95,1 % |
+93,0 |
 
-2021 |
+Moyenne |
 
 4615C |
 
-Réseau de THEGRA |
+RESEAU DE THEGRA |
 
 THEGRA |
 
-0,010 |
+0,007 |
 
-0,040 |
+0,037 |
 
-98,0 % |
+98,5 |
 
-2021 |
+Moyenne |
 
 4616C |
 
-Réseau de Lacapelle Marival |
+RESEAU DE LACAPELLE MARIVAL |
 
 LACAPELLE-MARIVAL |
 
-0,008 |
+0,015 |
 
-0,035 |
+0,042 |
 
-98,2 % |
+96,4 |
 
-2021 |
+Moyenne |
 
 4617C |
 
-Réseau de GOURDON |
+RESEAU DE GOURDON |
 
 GOURDON |
 
+0,006 |
+
+0,027 |
+
+98,2 |
+
+2022 |
+
+4701C |
+
+SOGAD |
+
+LE PASSAGE |
+
+0,000 |
+
 0,004 |
 
-0,025 |
+100,0 |
 
-98,7 % |
-
-2021 |
+2022 |
 
 4802C |
 
-Mende |
+MENDE |
 
 MENDE |
 
 0,000 |
 
-0,021 |
+0,022 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 4803C |
 
-SCABE Saint Chely d'Apcher Bois Energie |
+SCABE SAINT CHELY D'APCHER BOIS ENERGIE |
 
 SAINT-CHELY-D'APCHER |
 
-0,005 |
+0,004 |
 
-0,024 |
+0,023 |
 
-98,6 % |
+99,1 |
 
-2021 |
+2022 |
 
 4901C |
 
-Réseau d'Angers La Roseraie |
+RESEAU D'ANGERS LA ROSERAIE |
 
 ANGERS |
 
-0,021 |
+0,020 |
 
-0,028 |
+0,027 |
 
-91,7 % |
+91,8 |
 
-moyenne |
+Moyenne |
 
 4902C |
 
@@ -5604,265 +5916,279 @@ RESEAU DES DEUX CROIX (NOZAY-UPJM) |
 
 ANGERS |
 
-0,101 |
+0,114 |
 
-0,140 |
+0,172 |
 
-48,7 % |
+45,7 |
 
-moyenne |
+Moyenne |
 
 4903C |
 
-CHU Angers |
+CHU ANGERS |
+
+ANGERS |
+
+0,031 |
+
+0,052 |
+
+85,8 |
+
+Moyenne |
+
+4904C |
+
+RESEAU DE CHALEUR D'ANDREZE |
+
+ANDREZE |
+
+0,083 |
+
+0,108 |
+
+68,6 |
+
+Moyenne |
+
+4905C |
+
+CHEMIN VERT |
+
+SAUMUR |
+
+0,079 |
+
+0,104 |
+
+71,6 |
+
+2022 |
+
+4907C |
+
+RESEAU D'ORGEMONT |
 
 ANGERS |
 
 0,022 |
 
-0,042 |
+0,070 |
 
-90,2 % |
+78,0 |
 
-moyenne |
-
-4904C |
-
-Réseau de chaleur d'Andrezé |
-
-ANDREZE |
-
-0,056 |
-
-0,077 |
-
-74,4 % |
-
-2021 |
-
-4905C |
-
-Chemin Vert |
-
-SAUMUR |
-
-0,089 |
-
-0,117 |
-
-69,7 % |
-
-2021 |
-
-4907C |
-
-Réseau d'Orgemont |
-
-ANGERS |
-
-0,000 |
-
-0,054 |
-
-84,3 % |
-
-moyenne |
+Moyenne |
 
 4908C |
 
-Réseau de chaleur d'Ecouflant |
+RESEAU DE CHALEUR D'ECOUFLANT |
 
 ECOUFLANT |
 
-0,118 |
+0,073 |
 
-0,144 |
+0,099 |
 
-55,7 % |
+73,3 |
 
-2021 |
+2022 |
 
 4910C |
 
-Hauts de Saint Aubin |
+HAUTS DE SAINT AUBIN |
 
 ANGERS |
 
-0,091 |
+0,103 |
 
-0,118 |
+0,132 |
 
-67,6 % |
+65,4 |
 
-moyenne |
+2022 |
 
 4911C |
 
-Réseau de Belle Beille |
+RESEAU DE BELLE BEILLE |
 
 ANGERS |
 
-0,078 |
+0,060 |
 
-0,102 |
+0,084 |
 
-68,6 % |
+76,2 |
 
-2021 |
+2022 |
 
 4912C |
 
-Réseau de chaleur de la Herse |
+RESEAU DE CHALEUR DE LA HERSE |
 
 MONTREUIL-BELLAY |
 
-0,032 |
+0,017 |
 
-0,057 |
+0,040 |
 
-90,1 % |
+96,3 |
 
-moyenne |
+2022 |
 
 4913C |
 
-Réseau les Mauges |
+RESEAU LES MAUGES |
 
 CHOLET |
 
-0,123 |
+0,090 |
 
-0,160 |
+0,138 |
 
-49,4 % |
+51,2 |
 
-moyenne |
+2022 |
 
 4914C |
 
-Réseau POINCLOUX |
+RESEAU POINCLOUX |
 
-OMBRÉE D'ANJOU |
+OMBREE D'ANJOU |
 
-0,017 |
+0,000 |
 
-0,042 |
+0,019 |
 
-93,8 % |
+100,0 |
 
-2021 |
+2022 |
 
 4915C |
 
-Réseau de chaleur de Monplaisir |
+RESEAU DE CHALEUR DE MONPLAISIR |
 
 ANGERS |
 
-0,252 |
+0,255 |
 
-0,283 |
+0,286 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
+
+4916C |
+
+LES PLAINES |
+
+TRELAZE |
+
+0,231 |
+
+0,251 |
+
+0,0 |
+
+2022 |
 
 5001C |
 
-Provinces Energies |
+PROVINCES ENERGIES |
 
 CHERBOURG-OCTEVILLE |
 
-0,035 |
+0,010 |
 
-0,061 |
+0,036 |
 
-88,0 % |
+98,0 |
 
-2021 |
+2022 |
 
 5002C |
 
-Ilot Divette |
+ILOT DIVETTE |
 
 CHERBOURG-OCTEVILLE |
 
-0,135 |
+0,136 |
 
-0,131 |
+0,114 |
 
-10,5 % |
+0,0 |
 
-moyenne |
+2022 |
 
 5003C |
 
-Régie de chauffage du Teilleul |
+REGIE DE CHAUFFAGE DU TEILLEUL |
 
 LE TEILLEUL |
 
-0,102 |
+0,106 |
 
-0,139 |
+0,146 |
 
-72,0 % |
+74,0 |
 
-moyenne |
+2022 |
 
 5004C |
 
-Centre Hospitalier de L'estran |
+CENTRE HOSPITALIER DE L'ESTRAN |
 
 PONTORSON |
 
-0,145 |
+0,202 |
 
-0,169 |
+0,230 |
 
-36,7 % |
+17,9 |
 
-moyenne |
+Moyenne |
 
 5005C |
 
-Réseau communal La Lucerne d'Outremer |
+RESEAU COMMUNAL LA LUCERNE D'OUTREMER |
 
 LA LUCERNE-D'OUTREMER |
 
 0,000 |
 
-0,024 |
+0,026 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 5006C |
 
-Chauffage Urbain Biomasse d'Avranches |
+CHAUFFAGE URBAIN BIOMASSE D'AVRANCHES |
 
-|
+AVRANCHES |
 
-0,020 |
+0,013 |
 
-0,042 |
+0,034 |
 
-92,0 % |
+94,6 |
 
-2021 |
+2022 |
 
 5101C |
 
-Zup de Laon Neufchatel |
+ZUP DE LAON NEUFCHATEL |
 
 REIMS |
 
-0,239 |
+0,275 |
 
-0,262 |
+0,355 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 5103C |
 
@@ -5872,81 +6198,81 @@ VITRY-LE-FRANCOIS |
 
 0,024 |
 
-0,045 |
+0,047 |
 
-90,4 % |
+90,9 |
 
-2021 |
+2022 |
 
 5104C |
 
-Quartier Bernon |
+QUARTIER BERNON |
 
 EPERNAY |
 
-0,194 |
+0,207 |
 
 0,242 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 5106C |
 
-Croix Rouge |
+CROIX ROUGE |
 
 REIMS |
 
-0,098 |
+0,116 |
 
-0,115 |
+0,144 |
 
-61,1 % |
+61,2 |
 
-2021 |
+2022 |
 
 5107C |
 
-La renaissance Immobilière Chalonnaise |
+LA RENAISSANCE IMMOBILIERE CHALONNAISE |
 
 CHALONS-EN-CHAMPAGNE |
 
-0,060 |
+0,074 |
 
-0,080 |
+0,099 |
 
-75,3 % |
+69,0 |
 
-moyenne |
+Moyenne |
 
 5108C |
 
-St Rémi |
+ST REMI |
 
 REIMS |
 
-0,154 |
+0,125 |
 
-0,174 |
+0,189 |
 
-38,0 % |
+36,0 |
 
-2021 |
+Moyenne |
 
 5109C |
 
 DSP SAINTE MENEHOULD |
 
-STE MENEHOULD |
+REIMS |
 
-0,112 |
+0,082 |
 
-0,145 |
+0,110 |
 
-54,0 % |
+71,0 |
 
-2021 |
+2022 |
 
 5202C |
 
@@ -5954,59 +6280,45 @@ DSP ST DIZIER |
 
 SAINT-DIZIER |
 
-0,071 |
+0,072 |
 
-0,094 |
+0,096 |
 
-71,7 % |
+72,5 |
 
-moyenne |
+2022 |
 
 5204C |
 
-Réseau de chaleur du sud de la ville de Chaumont |
+RESEAU DE CHALEUR DU SUD DE LA VILLE DE CHAUMONT |
 
 CHAUMONT |
 
-0,056 |
+0,044 |
 
-0,068 |
+0,055 |
 
-78,2 % |
+82,7 |
 
-moyenne |
+2022 |
 
 5205C |
 
-Réseau de chaleur bois de Marac |
+RESEAU DE CHALEUR BOIS DE MARAC |
 
 MARAC |
 
 0,000 |
 
-0,021 |
+0,022 |
 
-100 % |
+100,0 |
 
-2021 |
-
-5206C |
-
-Réseau de chaleur de l'EHPAD St Augustin |
-
-LONGEAU-PERCEY |
-
-0,000 |
-
-0,017 |
-
-100 % |
-
-2021 |
+2022 |
 
 5207C |
 
-Réseau de Wassy |
+RESEAU DE WASSY |
 
 WASSY |
 
@@ -6014,13 +6326,13 @@ WASSY |
 
 0,019 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 5208C |
 
-Réseau de Bourmont |
+RESEAU DE BOURMONT |
 
 BOURMONT |
 
@@ -6028,23 +6340,23 @@ BOURMONT |
 
 0,020 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 5209C |
 
-Réseau de Langres |
+RESEAU DE LANGRES |
 
 LANGRES |
 
-0,078 |
+0,089 |
 
-0,107 |
+0,118 |
 
-62,2 % |
+58,0 |
 
-2021 |
+Moyenne |
 
 5213C |
 
@@ -6054,57 +6366,57 @@ FAYL-BILLOT |
 
 0,000 |
 
-0,021 |
+0,020 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 5214C |
 
-Réseau de Saint BLIN |
+RESEAU DE SAINT BLIN |
 
 SAINT-BLIN |
 
 0,000 |
 
-0,019 |
+0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 5302C |
 
-Zup Saint Nicolas |
+ZUP SAINT NICOLAS |
 
 LAVAL |
 
-0,028 |
+0,031 |
 
-0,035 |
+0,038 |
 
-89,6 % |
+88,5 |
 
-moyenne |
+Moyenne |
 
 5303C |
 
-Réseau de chaleur (piscine et salles omnisports) |
+RCU CHATEAU-GONTIER (PISCINE ET SALLES OMNISPORTS) |
 
 CHATEAU-GONTIER |
 
-0,094 |
+0,054 |
 
-0,119 |
+0,079 |
 
-64,3 % |
+80,9 |
 
-2021 |
+2022 |
 
 5304C |
 
-Vapeur SOFIVO |
+VAPEUR COSYNERGIE 53 |
 
 PONTMAIN |
 
@@ -6112,135 +6424,135 @@ PONTMAIN |
 
 0,004 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 5305C |
 
-RCU d'EVRON |
+RCU D'EVRON |
 
 EVRON |
 
 0,047 |
 
-0,069 |
+0,070 |
 
-81,1 % |
+81,5 |
 
-2021 |
+2022 |
 
 5401C |
 
-ESTIA-Saint Julien Kennedy |
+ESTIA-SAINT JULIEN KENNEDY |
 
 NANCY |
 
-0,100 |
+0,105 |
 
-0,125 |
+0,132 |
 
-61,9 % |
+63,4 |
 
-2021 |
+2022 |
 
 5403C |
 
-S. E. E. V-Ville de Vandoeuvre |
+S. E. E. V-VILLE DE VANDOEUVRE |
 
 VANDOEUVRE-LES-NANCY |
 
-0,048 |
+0,041 |
 
-0,059 |
+0,052 |
 
-79,3 % |
+82,8 |
 
-2021 |
+2022 |
 
 5407C |
 
-ESTIA-Plateau de Haye |
+ESTIA-PLATEAU DE HAYE |
 
 NANCY |
 
-0,094 |
+0,097 |
 
-0,129 |
+0,143 |
 
-56,0 % |
+55,8 |
 
-2021 |
+2022 |
 
 5408C |
 
-Réseau d'Ecrouves |
+RESEAU D'ECROUVES |
 
 ECROUVES |
 
-0,085 |
+0,087 |
 
-0,110 |
+0,113 |
 
-67,6 % |
+67,4 |
 
-2021 |
+Moyenne |
 
 5409C |
 
-Réseau chaufferie bois-Barbonville |
+RESEAU CHAUFFERIE BOIS-BARBONVILLE |
 
 BARBONVILLE |
 
 0,000 |
 
-0,023 |
+0,021 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 5410C |
 
-S. E. E. V-Plateau de Brabois |
+S. E. E. V-PLATEAU DE BRABOIS |
 
 VANDOEUVRE-LES-NANCY |
 
-0,077 |
+0,085 |
 
-0,100 |
+0,108 |
 
-65,4 % |
+63,1 |
 
-2021 |
+2022 |
 
 5411C |
 
-ESTIA-Blandan Medreville |
+ESTIA-BLANDAN MEDREVILLE |
 
 NANCY |
 
-0,088 |
+0,092 |
 
-0,110 |
+0,109 |
 
-61,5 % |
+64,6 |
 
-2021 |
+2022 |
 
 5412C |
 
-Réseau de Pont à Mousson |
+RESEAU DE PONT A MOUSSON |
 
 PONT-A-MOUSSON |
 
-0,031 |
+0,019 |
 
-0,069 |
+0,047 |
 
-88,6 % |
+92,5 |
 
-2021 |
+2022 |
 
 5413C |
 
@@ -6248,101 +6560,101 @@ ESTIA-LAXOU-VILLERS |
 
 LAXOU |
 
-0,082 |
+0,079 |
 
-0,112 |
+0,103 |
 
-56,6 % |
+63,2 |
 
-2021 |
+2022 |
 
 5414C |
 
-Réseau de chaleur BRIEY |
+RESEAU DE CHALEUR BRIEY |
 
 BRIEY |
 
-0,055 |
+0,058 |
 
-0,079 |
+0,083 |
 
-79,6 % |
+77,6 |
 
-moyenne |
+Moyenne |
 
 5415C |
 
-Réseau des jardinets |
+RESEAU DES JARDINETS |
 
 AMENONCOURT |
 
 0,000 |
 
-0,036 |
+0,093 |
 
-1000 % |
+100,0 |
 
-2021 |
+2022 |
 
 5501C |
 
-Côte Sainte Catherine |
+COTE SAINTE CATHERINE |
 
 BAR LE DUC |
 
-0,140 |
+0,068 |
 
-0,251 |
+0,090 |
 
-22,3 % |
+73,0 |
 
-2021 |
+2022 |
 
 5502C |
 
-Zup Anthouard |
+ZUP ANTHOUARD |
 
 VERDUN |
 
-0,213 |
+0,236 |
 
-0,257 |
+0,265 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 5503C |
 
-Ligny en Barrois |
+LIGNY EN BARROIS |
 
 LIGNY-EN-BARROIS |
 
-0,102 |
+0,084 |
 
-0,130 |
+0,112 |
 
-65,6 % |
+73,2 |
 
-moyenne |
+2022 |
 
 5504C |
 
-Réseau de Baâlon |
+RESEAU DE BAALON |
 
 BAALON |
 
 0,000 |
 
-0,033 |
+0,026 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 5505C |
 
-Réseau Meuse-Energie |
+RESEAU MEUSE-ENERGIE |
 
 TRONVILLE-EN-BARROIS |
 
@@ -6350,377 +6662,447 @@ TRONVILLE-EN-BARROIS |
 
 0,004 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 5601C |
 
-Réseau de Lanester |
+RESEAU DE LANESTER |
 
 LANESTER |
 
-0,112 |
+0,084 |
 
-0,139 |
+0,110 |
 
-60,5 % |
+71,6 |
 
-moyenne |
+2022 |
 
 5602C |
 
-Réseau de chaleur zac centre |
+RESEAU DE CHALEUR ZAC CENTRE |
 
 HENNEBONT |
 
 0,000 |
 
-0,017 |
+0,021 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 5603C |
 
-Réseau de chaleur du GUMENEN |
+RESEAU DE CHALEUR DU GUMENEN |
 
 AURAY |
 
-0,110 |
+0,134 |
 
-0,234 |
+0,303 |
 
-23,5 % |
+0,0 |
 
-moyenne |
+2022 |
 
 5604C |
 
-Réseau de chaleur Liger |
+RESEAU DE CHALEUR LIGER |
 
 LOCMINE |
 
 0,000 |
 
-0,069 |
+0,071 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
+
+5605C |
+
+RESEAU DE LA COMMUNE DE GUER |
+
+GUER |
+
+0,000 |
+
+0,022 |
+
+100,0 |
+
+2022 |
 
 5607C |
 
-Réseau de Serent |
+RESEAU DE SERENT |
 
 SERENT |
 
-0,012 |
-
 0,033 |
 
-94,9 % |
+0,060 |
 
-moyenne |
+89,1 |
+
+Moyenne |
 
 5608C |
 
-Réseau de chaleur de Locmiquelic |
+RESEAU DE CHALEUR DE LOCMIQUELIC |
 
 LOCMIQUELIC |
 
 0,005 |
 
-0,024 |
+0,025 |
 
-97,9 % |
+97,6 |
 
-2021 |
+2022 |
 
 5701C |
 
-Réseau de Metz |
+RESEAU DE METZ |
 
 METZ |
 
-0,040 |
+0,031 |
 
-0,107 |
+0,097 |
 
-65,9 % |
+70,2 |
 
-moyenne |
+2022 |
 
 5702C |
 
-Réseau de la Ville de Yutz |
+RESEAU DE LA VILLE DE YUTZ |
 
 YUTZ |
 
-0,055 |
+0,060 |
 
-0,079 |
+0,083 |
 
-78,4 % |
+77,0 |
 
-2021 |
+2022 |
 
 5703C |
 
-Réseau de Chaleur de Farébersviller |
+RESEAU DE CHALEUR DE FAREBERSVILLER |
 
 FAREBERSVILLER |
 
-0,082 |
+0,068 |
 
-0,153 |
+0,092 |
 
-49,1 % |
+70,8 |
 
-2021 |
+2022 |
 
 5705C |
 
-Wenheck |
+WENHECK |
 
 SAINT-AVOLD |
 
-0,209 |
+0,268 |
 
-0,270 |
+0,324 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 5706C |
 
-Réseau de Freyming Merlebach |
+RESEAU DE FREYMING MERLEBACH |
 
 FREYMING-MERLEBACH |
 
-0,094 |
+0,084 |
 
-0,123 |
+0,118 |
 
-62,1 % |
+63,8 |
 
-2021 |
+2022 |
 
 5707C |
 
-Réseau de Sarreguemines |
+RESEAU DE SARREGUEMINES |
 
 SARREGUEMINES |
 
-0,174 |
+0,076 |
 
-0,249 |
+0,121 |
 
-0,0 % |
+63,2 |
 
-2021 |
+2022 |
 
 5708C |
 
-Réseau de Holweg-Forbach-Behren |
+RESEAU DE HOLWEG-FORBACH-BEHREN |
 
 BEHREN-LES-FORBACH |
 
 0,000 |
 
-0,062 |
+0,066 |
 
-87,9 % |
+86,1 |
 
-2021 |
+Moyenne |
 
 5709C |
 
-Carrière |
+CARRIERE |
 
 SAINT-AVOLD |
 
-0,231 |
+0,232 |
 
-0,260 |
+0,261 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 5710C |
 
-Côte de la Justice |
+COTE DE LA JUSTICE |
 
 SAINT-AVOLD |
 
-0,254 |
+0,150 |
 
-0,286 |
+0,178 |
 
-0,0 % |
+41,9 |
 
-2021 |
+2022 |
 
 5711C |
 
-Huchet |
+HUCHET |
 
 SAINT-AVOLD |
 
-0,201 |
+0,203 |
 
-0,226 |
+0,228 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 5712C |
 
-Stiring Wendel |
+STIRING WENDEL |
 
 STIRING-WENDEL |
 
 0,000 |
 
-0,019 |
+0,044 |
 
-100,0 % |
+94,0 |
 
-2021 |
+Moyenne |
 
 5713C |
 
-Réseau de chauffage urbain de Creutzwald |
+RESEAU DE CHAUFFAGE URBAIN DE CREUTZWALD |
 
 CREUTZWALD |
 
-0,196 |
+0,216 |
 
-0,265 |
+0,267 |
 
-13,1 % |
+14,3 |
 
-2021 |
+2022 |
+
+5714C |
+
+RESEAU DE SARREBOURG |
+
+SARREBOURG |
+
+0,120 |
+
+0,147 |
+
+55,6 |
+
+2022 |
 
 5714F |
 
-Réseau Zac Amphithéâtre |
+RESEAU ZAC AMPHITHEATRE |
 
 METZ |
 
-0,010 |
+0,008 |
 
-0,020 |
+0,017 |
 
-Non défini |
+ND |
 
-2021 |
+2022 |
 
 5716C |
 
-Réseau Cité Belle-Roche |
+RESEAU CITE BELLE-ROCHE |
 
 COCHEREN |
 
-0,264 |
+0,282 |
 
-0,296 |
+0,317 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 5717C |
 
-Réseau Cité Pasteur |
+RESEAU CITE PASTEUR |
 
 ROUHLING |
 
-0,254 |
+0,277 |
 
-0,286 |
+0,311 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
+
+5719C |
+
+RESEAU DE CATTENOM |
+
+CATTENOM |
+
+0,002 |
+
+0,027 |
+
+99,5 |
+
+2022 |
 
 5720C |
 
-Réseau de chaleur d'Amnéville |
+RESEAU DE CHALEUR D'AMNEVILLE |
 
-AMNÉVILLE |
+AMNEVILLE |
 
-0,020 |
+0,024 |
 
-0,041 |
+0,046 |
 
-91,6 % |
+90,6 |
 
-2021 |
+Moyenne |
+
+5721C |
+
+RESEAU DE CHALEUR DE ROMBAS |
+
+ROMBAS |
+
+0,052 |
+
+0,075 |
+
+78,4 |
+
+2022 |
+
+5722C |
+
+POLESTAR |
+
+SAINT-AVOLD |
+
+0,227 |
+
+0,269 |
+
+0,0 |
+
+2022 |
 
 5802C |
 
-Reseau de chaleur du Banlay |
+RESEAU DE CHALEUR DU BANLAY |
 
 NEVERS |
 
-0,047 |
+0,051 |
 
-0,070 |
+0,077 |
 
-76,6 % |
+73,1 |
 
-moyenne |
+Moyenne |
 
 5803C |
 
-Réseau de decize |
+RESEAU DE DECIZE |
 
 DECIZE |
 
-0,073 |
+0,068 |
 
 0,099 |
 
-74,6 % |
+81,8 |
 
-moyenne |
+2022 |
 
 5804C |
 
-Réseau de chaleur de la Maison du Parc du Morvan |
+RESEAU DE CHALEUR DE LA MAISON DU PARC DU MORVAN |
 
 SAINT-BRISSON |
 
 0,000 |
 
-0,024 |
+0,023 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 5805C |
 
-Réseau de chaleur d'Arleuf |
+RESEAU DE CHALEUR D'ARLEUF |
 
 ARLEUF |
 
-0,037 |
+0,000 |
 
-0,072 |
+0,028 |
 
-92,8 % |
+100,0 |
 
-moyenne |
+2022 |
 
 5806C |
 
-Réseau de chaleur de Bazolles |
+RESEAU DE CHALEUR DE BAZOLLES |
 
 BAZOLLES |
 
@@ -6728,97 +7110,97 @@ BAZOLLES |
 
 0,020 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 5807C |
 
-Réseau de chaleur de Corbigny |
+RESEAU DE CHALEUR DE CORBIGNY |
 
 CORBIGNY |
 
-0,052 |
+0,075 |
 
-0,081 |
+0,112 |
 
-86,1 % |
+83,4 |
 
-2021 |
+Moyenne |
 
 5808C |
 
-Réseau de chaleur de Lormes |
+RESEAU DE CHALEUR DE LORMES |
 
 LORMES |
 
-0,036 |
+0,033 |
 
-0,061 |
+0,063 |
 
-88,9 % |
+92,3 |
 
-moyenne |
+2022 |
 
 5809C |
 
-Réseau de chaleur de Montigny en morvan |
+RESEAU DE CHALEUR DE MONTIGNY EN MORVAN |
 
 MONTIGNY-EN-MORVAN |
 
-0,011 |
+0,022 |
 
-0,042 |
+0,049 |
 
-97,1 % |
+94,2 |
 
-2021 |
+2022 |
 
 5810C |
 
-Réseau de chaleur d'Ouroux en Morvan |
+RESEAU DE CHALEUR D'OUROUX EN MORVAN |
 
 OUROUX-EN-MORVAN |
 
 0,000 |
 
-0,023 |
+0,021 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 5811C |
 
-Réseau de chaleur de Planchez |
+RESEAU DE CHALEUR DE PLANCHEZ |
 
 PLANCHEZ |
 
-0,002 |
+0,001 |
 
-0,031 |
+0,027 |
 
-99,5 % |
+99,6 |
 
-2021 |
+Moyenne |
 
 5812C |
 
-Réseau de chaleur de Saint Amand en Puisaye |
+RESEAU DE CHALEUR DE SAINT AMAND EN PUISAYE |
 
 SAINT-AMAND-EN-PUISAYE |
 
-0,029 |
+0,052 |
 
-0,061 |
+0,089 |
 
-89,6 % |
+85,6 |
 
-2021 |
+Moyenne |
 
 5813C |
 
-Réseau de chaleur de Varzy |
+RESEAU DE CHALEUR DE VARZY |
 
 VARZY |
 
@@ -6826,13 +7208,13 @@ VARZY |
 
 0,021 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 5814C |
 
-Réseau de chaleur de Corancy |
+RESEAU DE CHALEUR DE CORANCY |
 
 CORANCY |
 
@@ -6840,93 +7222,93 @@ CORANCY |
 
 0,020 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 5815C |
 
-Réseau de chaleur de Saint Saulge |
+RESEAU DE CHALEUR DE SAINT SAULGE |
 
 SAINT-SAULGE |
 
-0,021 |
+0,057 |
 
-0,044 |
+0,089 |
 
-93,7 % |
+92,5 |
 
-2021 |
+2022 |
 
 5816C |
 
-Réseau de chaleur de Billy sur Oisy |
+RESEAU DE CHALEUR DE BILLY SUR OISY |
 
 BILLY-SUR-OISY |
 
 0,000 |
 
-0,021 |
+0,026 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 5817C |
 
-Réseau de chaleur de Brassy |
+RESEAU DE CHALEUR DE BRASSY |
 
 BRASSY |
 
-0,086 |
+0,137 |
 
-0,127 |
+0,187 |
 
-82,4 % |
+73,1 |
 
-2021 |
+Moyenne |
 
 5818C |
 
-Réseau de chaleur de Château Chinon Ville |
+RESEAU DE CHALEUR DE CHATEAU CHINON VILLE |
 
 CHATEAU-CHINON (VILLE) |
 
 0,000 |
 
-0,021 |
+0,020 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 5819C |
 
-Réseau de chaleur de Cosne-Cours-sur-Loire |
+RESEAU DE CHALEUR DE COSNE-COURS-SUR-LOIRE |
 
 COSNE-COURS-SUR-LOIRE |
 
-0,022 |
+0,021 |
 
-0,044 |
+0,042 |
 
-91,4 % |
+91,2 |
 
-2021 |
+2022 |
 
 5820C |
 
-Château Chinon EIAT |
+CHATEAU CHINON EIAT |
 
 CHATEAU-CHINON (VILLE) |
 
-0,095 |
+0,221 |
 
-0,131 |
+0,280 |
 
-73,3 % |
+55,0 |
 
-moyenne |
+Moyenne |
 
 5821C |
 
@@ -6934,143 +7316,199 @@ CHALLUY |
 
 CHALLUY |
 
-0,068 |
+0,098 |
 
-0,092 |
+0,125 |
 
-71,9 % |
+63,9 |
 
-moyenne |
+Moyenne |
 
 5822C |
 
-Moux en Morvan |
+MOUX EN MORVAN |
 
 MOUX-EN-MORVAN |
 
-0,043 |
-
-0,074 |
-
-89,4 % |
-
-2021 |
-
-5823C |
-
-La Charité sur Loire |
-
-LA CHARITE-SUR-LOIRE |
-
-0,030 |
-
-0,053 |
-
-88,4 % |
-
-moyenne |
-
-5824C |
-
-Réseau de Luzy |
-
-LUZY |
-
-0,012 |
-
-0,036 |
-
-95,6 % |
-
-2021 |
-
-5901C |
-
-Réseau de Roubaix |
-
-ROUBAIX |
-
-0,056 |
+0,048 |
 
 0,079 |
 
-72,5 % |
+88,4 |
 
-2021 |
+Moyenne |
+
+5823C |
+
+LA CHARITE SUR LOIRE |
+
+LA CHARITE-SUR-LOIRE |
+
+0,022 |
+
+0,044 |
+
+92,0 |
+
+2022 |
+
+5824C |
+
+RESEAU DE LUZY |
+
+LUZY |
+
+0,010 |
+
+0,033 |
+
+96,4 |
+
+2022 |
+
+5825C |
+
+OUROUX EN MORVAN 2 |
+
+OUROUX EN MORVAN |
+
+0,000 |
+
+0,021 |
+
+100,0 |
+
+2022 |
+
+5826C |
+
+VAUX D'AMOGNES |
+
+VAUX D'AMOGNES |
+
+0,000 |
+
+0,023 |
+
+100,0 |
+
+2022 |
+
+5827C |
+
+MONTSAUCHE LES SETTONS |
+
+MONTSAUCHE LES SETTONS |
+
+0,127 |
+
+0,173 |
+
+77,6 |
+
+2022 |
+
+5828C |
+
+URZY |
+
+URZY |
+
+0,012 |
+
+0,032 |
+
+94,5 |
+
+2022 |
+
+5901C |
+
+RESEAU DE ROUBAIX |
+
+ROUBAIX |
+
+0,062 |
+
+0,089 |
+
+69,5 |
+
+2022 |
 
 5902C |
 
-Les Canonniers |
+LES CANONNIERS |
 
 VALENCIENNES |
 
-0,115 |
+0,110 |
 
-0,263 |
+0,252 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 5904C |
 
-Quartier Pont de Bois |
+QUARTIER PONT DE BOIS |
 
 VILLENEUVE-D'ASCQ |
 
-0,184 |
-
-0,211 |
-
-31,0 % |
-
-2021 |
-
-5905C |
-
-Domaine Universitaire et Scientifique |
-
-VILLENEUVE-D'ASCQ |
-
-0,218 |
-
-0,254 |
-
-0,0 % |
-
-2021 |
-
-5906C |
-
-Réseaux de Wattignies |
-
-WATTIGNIES |
-
-0,101 |
-
-0,167 |
-
-42,3 % |
-
-2021 |
-
-5907C |
-
-Réseau de Wattrelos |
-
-WATTRELOS |
+0,099 |
 
 0,120 |
 
-0,147 |
+62,5 |
 
-53,4 % |
+2022 |
 
-2021 |
+5905C |
+
+DOMAINE UNIVERSITAIRE ET SCIENTIFIQUE |
+
+VILLENEUVE-D'ASCQ |
+
+0,239 |
+
+0,269 |
+
+0,0 |
+
+2022 |
+
+5906C |
+
+RESEAUX DE WATTIGNIES |
+
+WATTIGNIES |
+
+0,112 |
+
+0,168 |
+
+44,8 |
+
+2022 |
+
+5907C |
+
+RESEAU DE WATTRELOS |
+
+WATTRELOS |
+
+0,114 |
+
+0,141 |
+
+55,7 |
+
+2022 |
 
 5908C |
 
-Réseau de chaleur de Sin Le Noble |
+RESEAU DE CHALEUR DE SIN LE NOBLE |
 
 SIN-LE-NOBLE |
 
@@ -7078,51 +7516,51 @@ SIN-LE-NOBLE |
 
 0,110 |
 
-66,8 % |
+65,4 |
 
-moyenne |
+Moyenne |
 
 5909C |
 
-Réseau de Mons-en-Baroeul |
+RESEAU DE MONS-EN-BAROEUL |
 
 MONS-EN-BAROEUL |
 
-0,093 |
+0,083 |
 
-0,128 |
+0,114 |
 
-53,7 % |
+59,3 |
 
-moyenne |
+2022 |
 
 5910C |
 
-Réseau de Lille |
+RESEAU DE LILLE |
 
 LILLE |
 
-0,133 |
+0,082 |
 
-0,153 |
+0,096 |
 
-49,1 % |
+67,2 |
 
-2021 |
+2022 |
 
 5911C |
 
-Réseau de LAMBERSART |
+RESEAU DE LAMBERSART |
 
 LAMBERSART |
 
-0,098 |
+0,119 |
 
-0,155 |
+0,157 |
 
-52,1 % |
+51,5 |
 
-2021 |
+2022 |
 
 5912C |
 
@@ -7130,293 +7568,307 @@ MAUBEUGE ENERGIE RENOUVELABLE |
 
 MAUBEUGE |
 
-0,149 |
+0,066 |
 
-0,171 |
+0,077 |
 
-45,9 % |
+73,0 |
 
-2021 |
+2022 |
 
 5913C |
 
-Géothermie des rives créatives |
+GEOTHERMIE DES RIVES CREATIVES |
 
 ANZIN |
 
-0,000 |
+0,199 |
 
-0,018 |
+0,167 |
 
-100,0 % |
+33,3 |
 
-2021 |
+Moyenne |
 
 5914C |
 
-Energie Grand Littoral-Dunkerque |
+ENERGIE GRAND LITTORAL-DUNKERQUE |
 
 DUNKERQUE |
 
-0,131 |
+0,118 |
 
-0,169 |
+0,140 |
 
-46,8 % |
+56,1 |
 
-2021 |
+2022 |
 
 5915C |
 
-Réseau de chaleur de Douchy |
+RESEAU DE CHALEUR DE DOUCHY |
 
 DOUCHY-LES-MINES |
 
-0,034 |
-
-0,040 |
-
-80,9 % |
-
-2021 |
-
-5916C |
-
-Réseau de chaleur d'Hazebrouck |
-
-HAZEBROUCK |
-
-0,078 |
-
-0,109 |
-
-71,9 % |
-
-moyenne |
-
-5917C |
-
-Quartier Tournebride Lomme-Capinghem |
-
-LILLE |
-
-0,092 |
-
-0,117 |
-
-63,8 % |
-
-moyenne |
-
-5918C |
-
-Réseau de chaleur de Baisieux |
-
-BAISIEUX |
-
-0,223 |
-
-0,251 |
-
-10,1 % |
-
-moyenne |
-
-5919C |
-
-Réseau du Parc St Maur |
-
-LILLE |
-
-0,198 |
-
-0,239 |
-
-0,0 % |
-
-2021 |
-
-5920C |
-
-Réseau ARSYEL |
-
-GRANDE-SYNTHE |
-
-0,027 |
-
-0,038 |
-
-91,2 % |
-
-2021 |
-
-5922C |
-
-Réseau de Denain |
-
-DENAIN |
-
-0,234 |
-
-0,263 |
-
-0,0 % |
-
-2021 |
-
-6001C |
-
-Réseau de Compiègne |
-
-COMPIEGNE |
-
-0,174 |
-
-0,199 |
-
-0,0 % |
-
-2021 |
-
-6002C |
-
-La Cavée et les hironvalles |
-
-CREIL |
-
-0,089 |
-
-0,136 |
-
-48,9 % |
-
-2021 |
-
-6003C |
-
-Quartier des Obiers |
-
-NOGENT-SUR-OISE |
-
-0,078 |
-
-0,101 |
-
-61,9 % |
-
-2021 |
-
-6004C |
-
-Les Martinets |
-
-MONTATAIRE |
-
-0,185 |
-
-0,246 |
-
-0,0 % |
-
-2021 |
-
-6005C |
-
-Réseau du Quartier Saint Jean |
-
-BEAUVAIS |
-
-0,034 |
-
-0,056 |
-
-87,1 % |
-
-2021 |
-
-6006C |
-
-Réseau de Breteuil-sur-Noye |
-
-BRETEUIL |
-
-0,018 |
-
-0,042 |
-
-94,1 % |
-
-moyenne |
-
-6007C |
-
-VSPU Villers Saint Paul Utilités |
-
-VILLERS-SAINT-PAUL |
-
-0,063 |
-
-0,074 |
-
-78,4 % |
-
-moyenne |
-
-6101C |
-
-Perseigne |
-
-ALENCON |
-
-0,043 |
-
-0,067 |
-
-82,0 % |
-
-moyenne |
-
-6102C |
-
-Quartier Saint Sauveur |
-
-FLERS |
-
-0,046 |
-
-0,070 |
-
-83,5 % |
-
-2021 |
-
-6103C |
-
-Quartier Nord-Route de la Falaise |
-
-ARGENTAN |
-
-0,097 |
-
-0,122 |
-
-60,3 % |
-
-2021 |
-
-6104C |
-
-Réseau de la Ferté Mace |
-
-LA FERTE-MACE |
+0,030 |
 
 0,036 |
 
-0,058 |
+88,2 |
 
-85,9 % |
+Moyenne |
 
-moyenne |
+5916C |
+
+RESEAU DE CHALEUR D'HAZEBROUCK |
+
+HAZEBROUCK |
+
+0,082 |
+
+0,113 |
+
+69,0 |
+
+Moyenne |
+
+5917C |
+
+QUARTIER TOURNEBRIDE LOMME-CAPINGHEM |
+
+LILLE |
+
+0,095 |
+
+0,121 |
+
+62,0 |
+
+2022 |
+
+5918C |
+
+RESEAU DE CHALEUR DE BAISIEUX |
+
+BAISIEUX |
+
+0,219 |
+
+0,246 |
+
+0,0 |
+
+2022 |
+
+5919C |
+
+RESEAU DU PARC ST MAUR |
+
+LILLE |
+
+0,222 |
+
+0,265 |
+
+0,0 |
+
+2022 |
+
+5920C |
+
+RESEAU ARSYEL |
+
+GRANDE-SYNTHE |
+
+0,029 |
+
+0,039 |
+
+92,7 |
+
+2022 |
+
+5922C |
+
+RESEAU DE DENAIN |
+
+DENAIN |
+
+0,138 |
+
+0,156 |
+
+51,8 |
+
+2022 |
+
+6001C |
+
+RESEAU DE COMPIEGNE |
+
+COMPIEGNE |
+
+0,179 |
+
+0,208 |
+
+31,6 |
+
+2022 |
+
+6002C |
+
+LA CAVEE ET LES HIRONVALLES |
+
+CREIL |
+
+0,095 |
+
+0,144 |
+
+46,5 |
+
+Moyenne |
+
+6003C |
+
+QUARTIER DES OBIERS |
+
+NOGENT-SUR-OISE |
+
+0,085 |
+
+0,109 |
+
+59,4 |
+
+Moyenne |
+
+6004C |
+
+LES MARTINETS |
+
+MONTATAIRE |
+
+0,219 |
+
+0,253 |
+
+0,0 |
+
+2022 |
+
+6005C |
+
+RESEAU DU QUARTIER SAINT JEAN |
+
+BEAUVAIS |
+
+0,006 |
+
+0,027 |
+
+98,1 |
+
+2022 |
+
+6006C |
+
+RESEAU DE BRETEUIL-SUR-NOYE |
+
+BRETEUIL |
+
+0,017 |
+
+0,042 |
+
+94,4 |
+
+Moyenne |
+
+6007C |
+
+VSPU VILLERS SAINT PAUL UTILITES |
+
+VILLERS-SAINT-PAUL |
+
+0,071 |
+
+0,083 |
+
+73,8 |
+
+Moyenne |
+
+6008C |
+
+SCA LIN 2000 |
+
+GRANDVILLIERS |
+
+0,000 |
+
+0,004 |
+
+100,0 |
+
+2022 |
+
+6101C |
+
+PERSEIGNE |
+
+ALENCON |
+
+0,045 |
+
+0,068 |
+
+82,5 |
+
+2022 |
+
+6102C |
+
+QUARTIER SAINT SAUVEUR |
+
+FLERS |
+
+0,054 |
+
+0,078 |
+
+80,2 |
+
+2022 |
+
+6103C |
+
+QUARTIER NORD-ROUTE DE LA FALAISE |
+
+ARGENTAN |
+
+0,098 |
+
+0,124 |
+
+60,5 |
+
+2022 |
+
+6104C |
+
+RESEAU DE LA FERTE MACE |
+
+LA FERTE-MACE |
+
+0,017 |
+
+0,039 |
+
+93,0 |
+
+2022 |
 
 6105C |
 
@@ -7424,27 +7876,13 @@ RECBIA |
 
 L'AIGLE |
 
-0,030 |
+0,031 |
 
-0,054 |
+0,056 |
 
-86,4 % |
+86,3 |
 
-moyenne |
-
-6106C |
-
-Réseau de Perrou |
-
-PERROU |
-
-0,000 |
-
-0,004 |
-
-100,0 % |
-
-2021 |
+Moyenne |
 
 6109C |
 
@@ -7452,279 +7890,307 @@ ALENCON ENERGIE BOIS |
 
 ALENCON |
 
-0,109 |
+0,106 |
 
-0,133 |
+0,130 |
 
-53,2 % |
+55,1 |
 
-2021 |
+2022 |
 
 6201C |
 
-Zup du Quartier République-Avion |
+ZUP DU QUARTIER REPUBLIQUE-AVION |
 
 AVION |
 
-0,194 |
+0,201 |
 
-0,249 |
+0,254 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 6202C |
 
-Réseau de ARQUES |
+RESEAU DE ARQUES |
 
 ARQUES |
 
-0,083 |
+0,099 |
 
-0,110 |
+0,126 |
 
-73,2 % |
+64,2 |
 
-2021 |
+Moyenne |
 
 6203C |
 
-Réseau de chaleur de Lens |
+RESEAU DE CHALEUR DE LENS |
 
 LENS |
 
-0,019 |
+0,023 |
 
-0,039 |
+0,043 |
 
-92,9 % |
+91,2 |
 
-moyenne |
+Moyenne |
 
 6204C |
 
-Réseau de chaleur de Béthune |
+RESEAU DE CHALEUR DE BETHUNE |
 
 BETHUNE |
 
-0,149 |
+0,105 |
 
-0,186 |
+0,137 |
 
-43,8 % |
+61,0 |
 
-2021 |
+2022 |
 
 6205C |
 
-Le Portel-Outreau |
+LE PORTEL-OUTREAU |
 
 OUTREAU |
 
-0,123 |
+0,195 |
 
-0,279 |
+0,381 |
 
-19,5 % |
+0,0 |
 
-moyenne |
+2022 |
 
 6206C |
 
-Réseau de chaleur de Liévin |
+RESEAU DE CHALEUR DE LIEVIN |
 
 LIEVIN |
 
-0,243 |
+0,224 |
 
-0,273 |
+0,250 |
 
-0,0 % |
+11,5 |
 
-2021 |
+2022 |
 
 6207C |
 
-Réseau de Chaleur de Calais |
+RESEAU DE CHALEUR DE CALAIS |
 
 CALAIS |
 
-0,120 |
+0,135 |
 
-0,147 |
+0,165 |
 
-55,9 % |
+52,1 |
 
-2021 |
+Moyenne |
 
 6209C |
 
-Réseau de chaleur d'Achicourt |
+RESEAU DE CHALEUR D'ACHICOURT |
 
 ACHICOURT |
 
-0,103 |
+0,088 |
 
-0,118 |
+0,105 |
 
-57,1 % |
+63,2 |
 
-moyenne |
+2022 |
 
 6210C |
 
-Réseau de chaleur d'Arras |
+RESEAU DE CHALEUR D'ARRAS |
 
 ARRAS |
 
-0,110 |
+0,121 |
 
-0,136 |
+0,164 |
 
-54,0 % |
+47,3 |
 
-2021 |
+Moyenne |
 
 6211C |
 
-Réseau de chaleur de Boulogne sur Mer |
+RESEAU DE CHALEUR DE BOULOGNE SUR MER |
 
 BOULOGNE-SUR-MER |
 
-0,089 |
+0,098 |
 
-0,144 |
+0,152 |
 
-41,4 % |
+36,9 |
 
-moyenne |
+Moyenne |
 
 6212C |
 
-Réseau de chaleur Le Portel-Outreau |
+RESEAU DE CHALEUR LE PORTEL-OUTREAU |
 
 OUTREAU |
 
-0,134 |
+0,143 |
 
-0,303 |
+0,324 |
 
-10,0 % |
+0,0 |
 
-moyenne |
+2022 |
+
+6213C |
+
+CHAUFFERIE BOIS D'ANVIN |
+
+ANVIN |
+
+0,000 |
+
+0,022 |
+
+100,0 |
+
+2022 |
+
+6215C |
+
+RESEAU CVE FLAMOVAL |
+
+WARDRECQUES |
+
+0,000 |
+
+0,004 |
+
+100,0 |
+
+2022 |
 
 6301C |
 
-Réseau de Riom RCBE |
+RESEAU DE RIOM RCBE |
 
 RIOM |
 
-0,028 |
+0,020 |
 
-0,052 |
+0,043 |
 
-89,6 % |
+92,9 |
 
-moyenne |
+2022 |
 
 6303C |
 
-HLM Saint Jacques |
+HLM SAINT JACQUES |
 
 CLERMONT-FERRAND |
 
-0,208 |
+0,231 |
 
-0,236 |
+0,253 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 6304C |
 
-Quartier du Masage |
+QUARTIER DU MASAGE |
 
 BEAUMONT |
 
-0,187 |
+0,213 |
 
-0,222 |
+0,248 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 6305C |
 
-Réseau de Rochefort-Montagne |
+RESEAU DE ROCHEFORT-MONTAGNE |
 
 ROCHEFORT-MONTAGNE |
 
 0,007 |
 
-0,036 |
+0,038 |
 
-98,5 % |
+98,5 |
 
-2021 |
+2022 |
 
 6306C |
 
-La Gauthière |
+LA GAUTHIERE |
 
 CLERMONT-FERRAND |
 
-0,101 |
+0,074 |
 
-0,150 |
+0,127 |
 
-49,8 % |
+58,6 |
 
-2021 |
+2022 |
 
 6307C |
 
-Réseau de Royat |
+RESEAU DE ROYAT |
 
 ROYAT |
 
-0,238 |
+0,239 |
 
 0,268 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 6308C |
 
-Croix-de-Neyrat/ Champratel/ Les Vergnes |
+CROIX-DE-NEYRAT/ CHAMPRATEL/ LES VERGNES |
 
 CLERMONT-FERRAND |
 
-0,014 |
+0,025 |
 
-0,036 |
+0,047 |
 
-94,6 % |
+90,5 |
 
-2021 |
+2022 |
 
 6309C |
 
-Réseau de chaleur bois de Pontaumur |
+RESEAU DE CHALEUR BOIS DE PONTAUMUR |
 
 PONTAUMUR |
 
-0,072 |
+0,077 |
 
-0,111 |
+0,116 |
 
-83,2 % |
+81,7 |
 
-moyenne |
+Moyenne |
 
 6310C |
 
@@ -7736,69 +8202,69 @@ AMBERT |
 
 0,021 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 6311C |
 
-Réseau de chaleur de St-Germain-l'Herm |
+RESEAU DE CHALEUR DE ST-GERMAIN-L'HERM |
 
 SAINT-GERMAIN-L'HERM |
 
 0,000 |
 
-0,029 |
+0,027 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 6312C |
 
-Réseau de chaleur de Ardes-sur-Couze |
+RESEAU DE CHALEUR DE ARDES-SUR-COUZE |
 
 ARDES |
 
 0,000 |
 
-0,029 |
+0,030 |
 
-100,0 % |
+100,0 |
 
-2021 |
-
-6313C |
-
-Réseau de St Clément de Régnat |
-
-SAINT-CLEMENT-DE-REGNAT |
-
-0,000 |
-
-0,019 |
-
-100,0 % |
-
-2021 |
+2022 |
 
 6314C |
 
-Réseau de chaleur du Brugeron |
+RESEAU DE CHALEUR DU BRUGERON |
 
 LE BRUGERON |
 
 0,000 |
 
+0,027 |
+
+100,0 |
+
+2022 |
+
+6315C |
+
+RESEAU DE CHALEUR D'ANZAT |
+
+ANZAT-LE-LUGUET |
+
+0,000 |
+
 0,026 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 6401C |
 
-SPIC réseau de chaleur du hameau |
+RESEAU DE CHALEUR DU HAMEAU |
 
 PAU |
 
@@ -7806,9 +8272,9 @@ PAU |
 
 0,049 |
 
-89,8 % |
+89,5 |
 
-moyenne |
+Moyenne |
 
 6402C |
 
@@ -7816,31 +8282,45 @@ EGURRETIK |
 
 BAYONNE |
 
-0,040 |
+0,044 |
 
-0,065 |
+0,069 |
 
-84,1 % |
+82,8 |
 
-moyenne |
+2022 |
+
+6403C |
+
+RCU DE PAU |
+
+PAU |
+
+0,047 |
+
+0,061 |
+
+82,2 |
+
+2022 |
 
 6501C |
 
-Réseau de Vic-en-Bigorre |
+RESEAU DE VIC-EN-BIGORRE |
 
 VIC-EN-BIGORRE |
 
-0,073 |
+0,069 |
 
-0,099 |
+0,097 |
 
-74,7 % |
+75,2 |
 
-moyenne |
+2022 |
 
 6601C |
 
-Réseau communal de Bolquere |
+RESEAU COMMUNAL DE BOLQUERE |
 
 BOLQUERE |
 
@@ -7848,247 +8328,233 @@ BOLQUERE |
 
 0,022 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 6604C |
 
-réseau de perpignan |
+RESEAU DE PERPIGNAN |
 
 PERPIGNAN |
 
-0,005 |
+0,006 |
 
 0,010 |
 
-97,8 % |
+98,3 |
 
-moyenne |
-
-6701C |
-
-Elsau |
-
-STRASBOURG |
-
-0,123 |
-
-0,144 |
-
-54,1 % |
-
-2021 |
+2022 |
 
 6702C |
 
-Hautepierre |
+HAUTEPIERRE |
 
 STRASBOURG |
 
-0,095 |
+0,160 |
 
-0,264 |
+0,251 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 6703C |
 
-L'Esplanade |
+STRASBOURG CENTRE |
 
 STRASBOURG |
 
-0,076 |
+0,081 |
 
-0,098 |
+0,103 |
 
-70,8 % |
+69,4 |
 
-moyenne |
+Moyenne |
 
 6704C |
 
-Eco-quartier Brasserie Cronenbourg |
+ECO-QUARTIER BRASSERIE CRONENBOURG |
 
 STRASBOURG |
 
 0,059 |
 
-0,030 |
+0,031 |
 
-69,4 % |
+69,1 |
 
-2021 |
+2022 |
 
 6705C |
 
-Réseau de Hochfelden |
+RESEAU DE HOCHFELDEN |
 
 STRASBOURG |
 
-0,090 |
+0,128 |
 
-0,069 |
+0,122 |
 
-61,2 % |
+43,3 |
 
-2021 |
+Moyenne |
 
 6708C |
 
-Cité de l'Ill |
+CITE DE L'ILL |
 
 STRASBOURG |
 
-0,079 |
-
-0,101 |
-
-64,0 % |
-
-moyenne |
-
-6709C |
-
-Le Ried |
-
-SCHILTIGHEIM |
-
-0,184 |
-
-0,243 |
-
-0,0 % |
-
-2021 |
-
-6710C |
-
-Réseau de Haguenau |
-
-HAGUENAU |
-
-0,048 |
-
-0,071 |
-
-80,5 % |
-
-2021 |
-
-6711C |
-
-Réseau de la COMMUNAUTÉ DE COMMUNES SAUER-PECHELBR |
-
-MORSBRONN-LES-BAINS |
+0,033 |
 
 0,053 |
 
-0,080 |
+84,8 |
 
-83,4 % |
+2022 |
 
-2021 |
+6709C |
+
+LE RIED |
+
+SCHILTIGHEIM |
+
+0,204 |
+
+0,270 |
+
+0,0 |
+
+2022 |
+
+6710C |
+
+RESEAU DE HAGUENAU |
+
+HAGUENAU |
+
+0,060 |
+
+0,081 |
+
+72,7 |
+
+2022 |
+
+6711C |
+
+RESEAU DE LA COMMUNAUTÉ DE COMMUNES SAUER-PECHELBR |
+
+MORSBRONN-LES-BAINS |
+
+0,051 |
+
+0,078 |
+
+80,9 |
+
+2022 |
 
 6712C |
 
-Chaufferie |
+CHAUFFERIE |
 
 SAALES |
 
 0,000 |
 
-0,023 |
+0,025 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 6713C |
 
-Réseau des Tanneries-Bohrie-Wihrel |
+RESEAU DES TANNERIES-BOHRIE-WIHREL |
 
 LINGOLSHEIM |
 
-0,004 |
+0,086 |
 
-0,100 |
+0,156 |
 
-63,2 % |
+54,3 |
 
-2021 |
+2022 |
 
 6714C |
 
-Réseau MARS |
+RESEAU MARS |
 
 HAGUENAU |
 
-0,037 |
+0,000 |
 
-0,045 |
+0,004 |
 
-82,7 % |
+100,0 |
 
-2021 |
+2022 |
 
 6715C |
 
-Niederbronn |
+NIEDERBRONN |
 
 NIEDERBRONN-LES-BAINS |
 
-0,090 |
+0,050 |
 
-0,120 |
+0,072 |
 
-68,4 % |
+78,0 |
 
-2021 |
+2022 |
+
+6716C |
+
+RESEAU DE CHALEUR D'ALLENWILLER |
+
+ALLENWILLER |
+
+0,000 |
+
+0,029 |
+
+100,0 |
+
+2022 |
 
 6717C |
 
-Réseau de chaleur du Rebberg |
+RESEAU DE CHALEUR DU REBBERG |
 
 LA PETITE-PIERRE |
 
 0,000 |
 
-0,020 |
+0,021 |
 
-100,0 % |
+100,0 |
 
-2021 |
-
-6721C |
-
-Réseau de Villé-Bassemberg |
-
-VILLE |
-
-0,022 |
-
-0,044 |
-
-92,3 % |
-
-moyenne |
+2022 |
 
 6722C |
 
-Colmar Vosges |
+COLMAR VOSGES |
 
 STRASBOURG |
 
-0,090 |
+0,067 |
 
-0,113 |
+0,089 |
 
-64,7 % |
+67,8 |
 
-2021 |
+2022 |
 
 6723C |
 
@@ -8100,111 +8566,111 @@ RITTERSHOFFEN |
 
 0,015 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 6724C |
 
-Sélestat |
+SELESTAT |
 
 SELESTAT |
 
-0,028 |
+0,035 |
 
-0,049 |
+0,056 |
 
-88,6 % |
+85,9 |
 
-2021 |
+Moyenne |
 
 6725C |
 
-Réseau de Chaleur ECO2WACKEN |
+RESEAU DE CHALEUR ECO2WACKEN |
 
 STRASBOURG |
 
-0,042 |
+0,027 |
 
-0,064 |
+0,041 |
 
-83,6 % |
+89,8 |
 
-moyenne |
+2022 |
 
 6726C |
 
-Réseau de Chaleur Quartier du Lac |
+RESEAU DE CHALEUR QUARTIER DU LAC |
 
 LINGOLSHEIM |
 
-0,000 |
+0,138 |
 
-0,197 |
+0,316 |
 
-33,7 % |
+0,8 |
 
-moyenne |
+Moyenne |
 
 6727C |
 
-Réseau de Chaleur Quartier des Hirondelles |
+RESEAU DE CHALEUR QUARTIER DES HIRONDELLES |
 
 ESCHAU |
 
-0,029 |
+0,103 |
 
-0,151 |
+0,274 |
 
-18,5 % |
+0,0 |
 
-moyenne |
+2022 |
 
 6728C |
 
-Réseau de Chaleur Quartier Solaire Schiltigheim |
+RESEAU DE CHALEUR QUARTIER SOLAIRE SCHILTIGHEIM |
 
 SCHILTIGHEIM |
 
-0,083 |
+0,073 |
 
-0,065 |
+0,048 |
 
-61,5 % |
+65,8 |
 
-moyenne |
+Moyenne |
 
 6730C |
 
-ILOT ZD5 de la ZAC ETOILE |
+ILOT ZD5 DE LA ZAC ETOILE |
 
 STRASBOURG |
 
+0,092 |
+
 0,079 |
 
-0,071 |
+54,7 |
 
-61,8 % |
-
-moyenne |
+Moyenne |
 
 6731C |
 
-Quartier des Ecrivains |
+QUARTIER DES ECRIVAINS |
 
 SCHILTIGHEIM |
 
-0,101 |
-
 0,108 |
 
-50,7 % |
+0,164 |
 
-2021 |
+39,2 |
+
+Moyenne |
 
 6732C |
 
-Réseau de chaleur Cogénération Sarre-Union |
+RESEAU DE CHALEUR COGENERATION SARRE-UNION |
 
 SARRE UNION |
 
@@ -8212,23 +8678,23 @@ SARRE UNION |
 
 0,202 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 6733C |
 
-Réseau de Chaleur SPL |
+RESEAU DE CHALEUR SPL-QPR |
 
 STRASBOURG |
 
-0,000 |
+0,011 |
 
-0,197 |
+0,110 |
 
-43,7 % |
+57,1 |
 
-2021 |
+2022 |
 
 6735C |
 
@@ -8240,9 +8706,9 @@ STRASBOURG |
 
 0,023 |
 
-98,3 % |
+98,1 |
 
-2021 |
+Moyenne |
 
 6736C |
 
@@ -8254,9 +8720,9 @@ SCHWEIGHOUSE-SUR-MODER |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 6737C |
 
@@ -8268,139 +8734,153 @@ SCHWEIGHOUSE-SUR-MODER |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 6738C |
 
-Réseau de Chaleur du Port Autonome de Strasbourg |
+RESEAU DE CHALEUR DU PORT AUTONOME DE STRASBOURG |
 
 STRASBOURG |
 
-0,000 |
+0,009 |
 
-0,018 |
+0,021 |
 
-100,0 % |
+96,2 |
 
-2021 |
+Moyenne |
 
 6739C |
 
-Réseau de Chaleur Les Prairies du Canal |
+RESEAU DE CHALEUR LES PRAIRIES DU CANAL |
 
 ILLKIRCH |
 
-0,000 |
+0,088 |
 
-0,260 |
+0,255 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
+
+6741C |
+
+RESEAU DE CHALEUR ZAC DES VERGERS |
+
+REICHSTETT |
+
+0,160 |
+
+0,366 |
+
+0,0 |
+
+2022 |
 
 6801C |
 
-Réseau de Colmar |
+RESEAU DE COLMAR |
 
 COLMAR |
 
-0,052 |
+0,053 |
 
-0,066 |
+0,068 |
 
-83,9 % |
+84,3 |
 
-2021 |
+Moyenne |
 
 6802C |
 
-L'Illberg |
+L'ILLBERG |
 
 BRUNSTATT-DIDENHEIM |
 
-0,083 |
+0,085 |
 
-0,114 |
+0,115 |
 
-57,1 % |
+56,2 |
 
-2021 |
+Moyenne |
 
 6803C |
 
-Porte de Bâle |
+PORTE DE BALE |
 
 MULHOUSE |
 
-0,185 |
+0,272 |
 
-0,208 |
+0,305 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 6804C |
 
-Réseau de la ville de Saint Louis |
+RESEAU DE LA VILLE DE SAINT LOUIS |
 
 SAINT-LOUIS |
 
 0,000 |
 
-0,049 |
+0,042 |
 
-90,4 % |
+95,3 |
 
-2021 |
+2022 |
 
 6806C |
 
-Réseau de Cernay |
+RESEAU DE CERNAY |
 
 CERNAY |
 
-0,061 |
+0,077 |
 
-0,086 |
+0,104 |
 
-76,9 % |
+72,4 |
 
-moyenne |
+Moyenne |
 
 6809C |
 
-Réseau d'Heimersdorf |
+RESEAU D'HEIMERSDORF |
 
 HEIMERSDORF |
 
 0,000 |
 
-0,024 |
+0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 6810C |
 
-Réseau de chaleur de Rixheim |
+RESEAU DE CHALEUR BIOMASSE DE L'AERODROME |
 
 RIXHEIM |
 
-0,059 |
+0,037 |
 
-0,086 |
+0,062 |
 
-81,3 % |
+86,5 |
 
-moyenne |
+2022 |
 
 6812C |
 
-Réseau de Bernwiller |
+RESEAU DE BERNWILLER |
 
 BERNWILLER |
 
@@ -8408,111 +8888,111 @@ BERNWILLER |
 
 0,004 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 6813C |
 
-Réseau de chaleur de Feldbach |
+RESEAU DE CHALEUR DE FELDBACH |
 
 FELDBACH |
 
-0,101 |
+0,155 |
 
-0,134 |
+0,197 |
 
-61,7 % |
+49,1 |
 
-2021 |
+2022 |
 
 6814C |
 
-Réseau de chaleur de Kaysersberg |
+RESEAU DE CHALEUR DE KAYSERSBERG |
 
 KAYSERSBERG VIGNOBLE |
 
-0,107 |
+0,110 |
 
-0,132 |
+0,135 |
 
-58,9 % |
+57,1 |
 
-moyenne |
+2022 |
 
 6815C |
 
-Réseau d'Ammerzwiller |
+RESEAU D'AMMERZWILLER |
 
 AMMERZWILLER |
 
 0,000 |
 
-0,021 |
+0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 6816C |
 
-Réseau de chaleur de Thann |
+RESEAU DE CHALEUR DE THANN |
 
 THANN |
 
-0,000 |
+0,005 |
 
-0,017 |
+0,023 |
 
-100,0 % |
+98,2 |
 
-2021 |
+Moyenne |
 
 6817C |
 
-réseau communal de Friesen |
+RESEAU COMMUNAL DE FRIESEN |
 
 FRIESEN |
 
 0,000 |
 
-0,017 |
+0,022 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 6818C |
 
-Réseau de Lapoutroie |
+RESEAU DE LAPOUTROIE |
 
 LAPOUTROIE |
 
 0,000 |
 
-0,028 |
+0,025 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
 6819C |
 
-Réseau Val d'Argent |
+RESEAU VAL D'ARGENT |
 
 SAINTE-MARIE-AUX-MINES |
 
-0,067 |
+0,043 |
 
-0,090 |
+0,066 |
 
-71,3 % |
+85,8 |
 
-2021 |
+2022 |
 
 6820C |
 
-Réseau chaufferies bois Freland |
+RESEAU CHAUFFERIES BOIS FRELAND |
 
 FRELAND |
 
@@ -8520,205 +9000,205 @@ FRELAND |
 
 0,022 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
-6901C |
+6821C |
 
-Vénissieux énergies |
+PAPETERIES DU RHIN |
 
-VENISSIEUX |
+ILLZACH |
 
-0,116 |
+0,000 |
 
-0,146 |
+0,004 |
 
-50,0 % |
+100,0 |
 
-moyenne |
+2022 |
 
-6902C |
+6822C |
 
-HLM Les Sources |
+RESEAU DE CHALEUR DE LA HARDT |
 
-ECULLY |
-
-0,204 |
-
-0,227 |
-
-0,0 % |
-
-2021 |
-
-6904C |
-
-Quartier La Duchère et Lyon 9e |
-
-CHAMPAGNE-AU-MONT-D'OR |
-
-0,093 |
-
-0,120 |
-
-61,8 % |
-
-moyenne |
-
-6905C |
-
-Réseau de Lyon |
-
-LYON |
-
-0,113 |
-
-0,131 |
-
-55,5 % |
-
-2021 |
-
-6905F |
-
-Réseau de Lyon |
-
-LYON |
-
-0,010 |
-
-0,020 |
-
-Non défini |
-
-2021 |
-
-6906C |
-
-Réseau de Vaulx en Velin |
-
-VAULX-EN-VELIN |
-
-0,091 |
-
-0,119 |
-
-59,5 % |
-
-2021 |
-
-6908C |
-
-Quartier La Perralière |
-
-VILLEURBANNE |
-
-0,214 |
-
-0,241 |
-
-0,0 % |
-
-2021 |
-
-6912C |
-
-Réseau de Givors |
-
-GIVORS |
+RIXHEIM |
 
 0,067 |
 
-0,089 |
+0,078 |
 
-72,6 % |
+79,5 |
 
-2021 |
+2022 |
 
-6913C |
+6901C |
 
-UIOM Villefranche |
+VENISSIEUX ENERGIES |
 
-VILLEFRANCHE-SUR-SAONE |
+VENISSIEUX |
 
-0,008 |
+0,122 |
 
-0,016 |
+0,140 |
 
-97,1 % |
+51,8 |
 
-moyenne |
+2022 |
 
-6914C |
+6904C |
 
-Plateau de Montmein |
+QUARTIER LA DUCHERE ET LYON 9E |
 
-OULLINS |
+CHAMPAGNE-AU-MONT-D'OR |
 
-0,205 |
+0,097 |
 
-0,237 |
+0,140 |
 
-0,0 % |
+52,4 |
 
-2021 |
+Moyenne |
 
-6915C |
+6905C |
 
-ZH Champvert |
+RESEAU DE LYON |
 
 LYON |
 
-0,199 |
+0,091 |
 
-0,224 |
+0,112 |
 
-0,0 % |
+62,1 |
 
-2021 |
+2022 |
+
+6905F |
+
+RESEAU DE LYON |
+
+LYON |
+
+0,011 |
+
+0,022 |
+
+ND |
+
+Moyenne |
+
+6906C |
+
+RESEAU DE VAULX EN VELIN |
+
+VAULX-EN-VELIN |
+
+0,079 |
+
+0,108 |
+
+64,9 |
+
+2022 |
+
+6912C |
+
+RESEAU DE GIVORS |
+
+GIVORS |
+
+0,053 |
+
+0,073 |
+
+78,5 |
+
+2022 |
+
+6913C |
+
+UIOM VILLEFRANCHE |
+
+VILLEFRANCHE-SUR-SAONE |
+
+0,013 |
+
+0,021 |
+
+95,1 |
+
+Moyenne |
+
+6914C |
+
+PLATEAU DE MONTMEIN |
+
+OULLINS |
+
+0,230 |
+
+0,246 |
+
+0,0 |
+
+2022 |
+
+6915C |
+
+ZH CHAMPVERT |
+
+LYON |
+
+0,207 |
+
+0,233 |
+
+0,0 |
+
+2022 |
 
 6918C |
 
-Quartier Belleroche Ouest |
+QUARTIER BELLEROCHE OUEST |
 
 GLEIZE |
 
-0,068 |
+0,079 |
 
-0,084 |
+0,097 |
 
-75,1 % |
+70,7 |
 
-moyenne |
+Moyenne |
 
 6921C |
 
-Quartier de la Roue |
+QUARTIER DE LA ROUE |
 
 RILLIEUX-LA-PAPE |
 
-0,199 |
+0,232 |
 
-0,211 |
+0,248 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 6923C |
 
-Réseau de chaleur de La Tour-de-Salvagny |
+RESEAU DE CHALEUR DE LA TOUR-DE-SALVAGNY |
 
 LA TOUR-DE-SALVAGNY |
 
-0,134 |
+0,165 |
 
-0,159 |
+0,192 |
 
-45,3 % |
+34,2 |
 
-moyenne |
+Moyenne |
 
 6924C |
 
@@ -8726,13 +9206,13 @@ LES COMBES |
 
 YZERON |
 
-0,022 |
+0,071 |
 
-0,049 |
+0,106 |
 
-94,2 % |
+80,2 |
 
-moyenne |
+Moyenne |
 
 6925C |
 
@@ -8740,31 +9220,31 @@ LE BOURG |
 
 YZERON |
 
-0,100 |
+0,131 |
 
-0,147 |
+0,180 |
 
-86,2 % |
+76,7 |
 
-moyenne |
+Moyenne |
 
 6928C |
 
-Réseau chauffage Centre Hospitalier Villefranche |
+RESEAU CHAUFFAGE CENTRE HOSPITALIER VILLEFRANCHE |
 
 GLEIZE |
 
-0,054 |
+0,075 |
 
-0,076 |
+0,100 |
 
-81,4 % |
+79,6 |
 
-moyenne |
+Moyenne |
 
 6929C |
 
-Réseau du Breuil |
+RESEAU DU BREUIL |
 
 CHEVIGNY SAINT SAUVEUR |
 
@@ -8772,9 +9252,9 @@ CHEVIGNY SAINT SAUVEUR |
 
 0,266 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 6930C |
 
@@ -8782,223 +9262,349 @@ PLATEAU NORD |
 
 METROPOLE DE LYON |
 
-0,031 |
-
-0,040 |
-
-88,2 % |
-
-moyenne |
-
-6931C |
-
-Réseau Sytraival |
-
-VILLEFRANCHE SUR SAONE |
-
-0,009 |
-
-0,017 |
-
-96,7 % |
-
-moyenne |
-
-6932C |
-
-Réseau chaleur bois de Thizy-les-Bourgs |
-
-THIZY-LES-BOURGS |
-
-0,067 |
-
-0,091 |
-
-74,3 % |
-
-2021 |
-
-6933C |
-
-Réseau de chaleur bois Cours-la-Ville |
-
-COURS LA VILLE |
+0,020 |
 
 0,029 |
 
-0,051 |
+93,4 |
 
-88,6 % |
+2022 |
 
-2021 |
+6931C |
+
+RESEAU SYTRAIVAL |
+
+VILLEFRANCHE SUR SAONE |
+
+0,012 |
+
+0,020 |
+
+95,6 |
+
+Moyenne |
+
+6932C |
+
+RESEAU CHALEUR BOIS DE THIZY-LES-BOURGS |
+
+THIZY-LES-BOURGS |
+
+0,088 |
+
+0,115 |
+
+69,7 |
+
+Moyenne |
+
+6933C |
+
+RESEAU DE CHALEUR BOIS COURS-LA-VILLE |
+
+COURS LA VILLE |
+
+0,035 |
+
+0,058 |
+
+87,2 |
+
+Moyenne |
+
+6934C |
+
+LONGES |
+
+LONGES |
+
+0,000 |
+
+0,022 |
+
+100,0 |
+
+2022 |
+
+6935C |
+
+LARAJASSE |
+
+LARAJASSE |
+
+0,000 |
+
+0,022 |
+
+100,0 |
+
+2022 |
+
+6936C |
+
+MONSOLS |
+
+MONSOLS |
+
+0,043 |
+
+0,074 |
+
+88,9 |
+
+2022 |
+
+6937C |
+
+RONNO |
+
+RONNO |
+
+0,002 |
+
+0,028 |
+
+99,6 |
+
+2022 |
+
+6938C |
+
+SAINT MARTIN EN HAUT |
+
+SAINT MARTIN EN HAUT |
+
+0,059 |
+
+0,084 |
+
+79,3 |
+
+2022 |
+
+6939C |
+
+LONGESSAIGNE |
+
+LONGESSAIGNE |
+
+0,066 |
+
+0,102 |
+
+84,6 |
+
+2022 |
+
+6940C |
+
+CHENAS |
+
+CHENAS |
+
+0,000 |
+
+0,030 |
+
+100,0 |
+
+2022 |
+
+6941C |
+
+RONTALON |
+
+RONTALON |
+
+0,138 |
+
+0,182 |
+
+65,3 |
+
+2022 |
 
 7001C |
 
-Zup des Capucins |
+ZUP DES CAPUCINS |
 
 GRAY |
 
-0,100 |
+0,085 |
 
-0,127 |
+0,112 |
 
-66,5 % |
+71,5 |
 
-2021 |
+2022 |
+
+7002C |
+
+RESEAU DE SAULNOT |
+
+SAULNOT |
+
+0,007 |
+
+0,034 |
+
+98,2 |
+
+2022 |
 
 7003C |
 
-Réseau de Breurey les Faverney |
+RESEAU DE BREUREY LES FAVERNEY |
 
 BREUREY-LES-FAVERNEY |
 
 0,000 |
 
-0,017 |
+0,038 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 7004C |
 
-Réseau de Dampierre sur Linotte |
+RESEAU DE DAMPIERRE SUR LINOTTE |
 
 DAMPIERRE-SUR-LINOTTE |
 
-0,029 |
+0,142 |
 
-0,058 |
+0,194 |
 
-92,8 % |
+75,6 |
 
-2021 |
+Moyenne |
 
 7006C |
 
-Réseau de la chaufferie de CHAMPEY |
+RESEAU DE LA CHAUFFERIE DE CHAMPEY |
 
 CHAMPEY |
 
 0,000 |
 
-0,028 |
+0,037 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 7007C |
 
-Chaufferie de SCEY/ SAONE |
+CHAUFFERIE DE SCEY/ SAONE |
 
 SCEY-SUR-SAONE-ET-SAINT-ALBIN |
 
-0,130 |
+0,171 |
 
-0,175 |
+0,221 |
 
-67,0 % |
+55,9 |
 
-moyenne |
+Moyenne |
 
 7008C |
 
-Chaufferie de MARNAY |
+CHAUFFERIE DE MARNAY |
 
 MARNAY |
 
-0,077 |
+0,072 |
 
-0,114 |
+0,108 |
 
-85,2 % |
+86,1 |
 
-moyenne |
+Moyenne |
 
 7009C |
 
-Chaufferie de GY |
+CHAUFFERIE DE GY |
 
 GY |
 
 0,000 |
 
-0,023 |
+0,022 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 7011C |
 
-Réseau d'Hericourt-Quartier Maunoury |
+RESEAU D'HERICOURT-QUARTIER MAUNOURY |
 
 HERICOURT |
 
+0,046 |
+
 0,075 |
 
-0,100 |
+87,0 |
 
-72,3 % |
-
-2021 |
+2022 |
 
 7101C |
 
-Réseau de Chalon |
+RESEAU DE CHALON |
 
 CHALON-SUR-SAONE |
 
-0,097 |
+0,100 |
 
-0,127 |
+0,122 |
 
-55,6 % |
+61,7 |
 
-2021 |
+2022 |
 
 7102C |
 
-Réseau de Montceau les mines |
+RESEAU DE MONTCEAU LES MINES |
 
 MONTCEAU-LES-MINES |
 
-0,118 |
+0,109 |
 
-0,149 |
+0,141 |
 
-55,6 % |
+59,3 |
 
-moyenne |
+2022 |
 
 7104C |
 
-Réseau d'Autun |
+RESEAU D'AUTUN |
 
 AUTUN |
 
-0,090 |
+0,086 |
 
-0,127 |
+0,125 |
 
-57,5 % |
+60,0 |
 
-2021 |
+2022 |
 
 7105C |
 
-Réseau de chaleur de Tramayes |
+RESEAU DE CHALEUR DE TRAMAYES |
 
 TRAMAYES |
 
-0,015 |
+0,008 |
 
-0,041 |
+0,031 |
 
-96,4 % |
+97,8 |
 
-moyenne |
+2022 |
 
 7107C |
 
@@ -9006,41 +9612,55 @@ MACON ENERGIES SERVICES |
 
 MÂCON |
 
-0,085 |
+0,066 |
 
-0,122 |
+0,101 |
 
-57,2 % |
+68,5 |
 
-2021 |
+2022 |
 
 7108C |
 
-Réseau de Matour |
+RESEAU DE MATOUR |
 
 MATOUR |
 
-0,028 |
+0,042 |
 
-0,054 |
+0,071 |
 
-92,0 % |
+88,8 |
 
-2021 |
+Moyenne |
+
+7109C |
+
+RESEAU DE CHALEUR DES BATIMENTS COMMUNAUX |
+
+SAINT GENGOUX DE SCISSE |
+
+0,069 |
+
+0,102 |
+
+80,9 |
+
+2022 |
 
 7202C |
 
-Percée Centrale |
+PERCEE CENTRALE |
 
 LE MANS |
 
-0,232 |
+0,223 |
 
-0,264 |
+0,255 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 7203C |
 
@@ -9048,31 +9668,31 @@ SYNER'GIE (ALLONNES-BDH) |
 
 ALLONNES |
 
-0,021 |
-
 0,027 |
 
-92,0 % |
+0,033 |
 
-moyenne |
+90,0 |
+
+Moyenne |
 
 7204C |
 
-Bellevue |
+BELLEVUE |
 
 COULAINES |
 
-0,179 |
+0,212 |
 
-0,262 |
+0,265 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 7205C |
 
-Réseau de la commune de Tuffe |
+RESEAU DE LA COMMUNE DE TUFFE |
 
 TUFFE |
 
@@ -9080,111 +9700,97 @@ TUFFE |
 
 0,017 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 7206C |
 
-RCU du GRAND LUCE |
+RCU DU GRAND LUCE |
 
-GRAND-LUCÉ |
+GRAND-LUCE |
 
-0,018 |
+0,025 |
 
-0,043 |
+0,051 |
 
-94,2 % |
+91,6 |
 
-2021 |
+Moyenne |
 
 7301C |
 
-Bissy et Croix Rouge |
+BISSY ET CROIX ROUGE |
 
 CHAMBERY |
 
-0,084 |
+0,079 |
 
-0,105 |
+0,099 |
 
-67,6 % |
+70,0 |
 
-moyenne |
+2022 |
 
 7304C |
 
-La Plagne |
+LA PLAGNE |
 
 MACOT-LA-PLAGNE |
 
-0,053 |
+0,067 |
 
-0,083 |
+0,099 |
 
-84,7 % |
+80,3 |
 
-2021 |
+Moyenne |
 
 7305C |
 
-Les Arcs |
+LES ARCS |
 
 BOURG-SAINT-MAURICE |
 
-0,028 |
+0,039 |
 
-0,054 |
+0,066 |
 
-92,1 % |
+88,9 |
 
-2021 |
-
-7306C |
-
-Réseau de Notre Dame des Millières |
-
-NOTRE-DAME-DES-MILLIERES |
-
-0,007 |
-
-0,031 |
-
-98,3 % |
-
-2021 |
+Moyenne |
 
 7307C |
 
-Réseau de Saint Etienne de Cuines |
+RESEAU DE SAINT ETIENNE DE CUINES |
 
 SAINT-ETIENNE-DE-CUINES |
 
-0,037 |
+0,068 |
 
-0,060 |
+0,096 |
 
-86,7 % |
+76,2 |
 
-moyenne |
+Moyenne |
 
 7308C |
 
-Réseau de Beaufort |
+RESEAU DE BEAUFORT |
 
 BEAUFORT |
 
-0,017 |
+0,015 |
 
-0,041 |
+0,040 |
 
-94,9 % |
+95,7 |
 
-2021 |
+Moyenne |
 
 7310C |
 
-Ecole |
+ECOLE |
 
 CHANAZ |
 
@@ -9192,41 +9798,41 @@ CHANAZ |
 
 0,022 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 7311C |
 
-Gilly-sur-Isère |
+GILLY-SUR-ISERE |
 
 GILLY-SUR-ISERE |
 
-0,055 |
+0,073 |
 
-0,080 |
+0,103 |
 
-80,8 % |
+76,4 |
 
-moyenne |
+Moyenne |
 
 7312C |
 
-Yenne |
+YENNE |
 
 YENNE |
 
-0,019 |
+0,000 |
 
-0,048 |
+0,023 |
 
-95,6 % |
+100,0 |
 
-moyenne |
+2022 |
 
 7313C |
 
-Ilots |
+ILOTS |
 
 CHANAZ |
 
@@ -9234,23 +9840,23 @@ CHANAZ |
 
 0,022 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 7314C |
 
-La Bauche |
+LA BAUCHE |
 
 LA BAUCHE |
 
 0,000 |
 
-0,036 |
+0,023 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 7315C |
 
@@ -9258,69 +9864,69 @@ AIX ENERGIES NOUVELLES |
 
 AIX-LES-BAINS |
 
-0,047 |
+0,060 |
 
-0,071 |
+0,083 |
 
-81,3 % |
+76,1 |
 
-2021 |
+Moyenne |
 
 7316C |
 
-Réseau de St Jean d'Arvey |
+RESEAU DE ST JEAN D'ARVEY |
 
 SAINT-JEAN-D'ARVEY |
 
-0,010 |
+0,036 |
 
-0,041 |
+0,072 |
 
-98,0 % |
+93,2 |
 
-2021 |
+Moyenne |
 
 7318C |
 
-Réseau d'Ugine |
+RESEAU D'UGINE |
 
 UGINE |
 
-0,118 |
+0,053 |
 
-0,148 |
+0,077 |
 
-56,1 % |
+81,1 |
 
-2021 |
+2022 |
 
 7319C |
 
-Réseau d'Albertville |
+RESEAU D'ALBERTVILLE |
 
 ALBERTVILLE |
 
-0,025 |
+0,016 |
 
-0,049 |
+0,040 |
 
-90,7 % |
+94,1 |
 
-2021 |
+2022 |
 
 7320C |
 
-Réseau de chaleur de Barby |
+RESEAU DE CHALEUR DE BARBY |
 
 BARBY |
 
-0,029 |
+0,045 |
 
-0,052 |
+0,068 |
 
-89,0 % |
+84,0 |
 
-2021 |
+Moyenne |
 
 7321C |
 
@@ -9328,27 +9934,27 @@ CROUZE |
 
 TIGNES |
 
-0,055 |
+0,063 |
 
-0,086 |
+0,095 |
 
-85,0 % |
+82,6 |
 
-2021 |
+Moyenne |
 
 7402C |
 
-Quartier de Champ Fleury |
+QUARTIER DE CHAMP FLEURY |
 
 SEYNOD |
 
-0,090 |
+0,043 |
 
-0,104 |
+0,052 |
 
-63,3 % |
+83,1 |
 
-2021 |
+2022 |
 
 7403C |
 
@@ -9356,391 +9962,405 @@ BOIS ENERGIES ANNEMASSE |
 
 ANNEMASSE |
 
-0,052 |
-
-0,074 |
-
-79,5 % |
-
-moyenne |
-
-7407C |
-
-Quartier de la Rénovation |
-
-THONON-LES-BAINS |
-
-0,230 |
-
-0,258 |
-
-0,0 % |
-
-2021 |
-
-7408C |
-
-Quartier Les Ewues |
-
-CLUSES |
-
-0,122 |
-
-0,269 |
-
-0,0 % |
-
-2021 |
-
-7409C |
-
-Flaine Energie |
-
-ARACHES-LA-FRASSE |
-
-0,228 |
-
-0,280 |
-
-0,0 % |
-
-2021 |
-
-7410C |
-
-Quartier La Cudray |
-
-FAVERGES |
+0,037 |
 
 0,059 |
 
-0,089 |
+85,1 |
 
-78,7 % |
+2022 |
 
-moyenne |
+7407C |
+
+QUARTIER DE LA RENOVATION |
+
+THONON-LES-BAINS |
+
+0,228 |
+
+0,257 |
+
+0,0 |
+
+2022 |
+
+7408C |
+
+QUARTIER LES EWUES |
+
+CLUSES |
+
+0,091 |
+
+0,187 |
+
+40,1 |
+
+2022 |
+
+7409C |
+
+FLAINE ENERGIE |
+
+ARACHES-LA-FRASSE |
+
+0,318 |
+
+0,334 |
+
+0,0 |
+
+2022 |
+
+7410C |
+
+QUARTIER LA CUDRAY |
+
+FAVERGES |
+
+0,029 |
+
+0,056 |
+
+89,5 |
+
+2022 |
 
 7411C |
 
-Quartier du Crozets |
+QUARTIER DU CROZETS |
 
 SCIONZIER |
 
-0,246 |
-
-0,251 |
-
-0,0 % |
-
-2021 |
-
-7412C |
-
-Réseau d'Avoriaz |
-
-MORZINE |
-
-0,108 |
-
-0,063 |
-
-49,7 % |
-
-moyenne |
-
-7416C |
-
-Réseau de Viry |
-
-VIRY |
-
-0,003 |
-
-0,030 |
-
-99,3 % |
-
-2021 |
-
-7417C |
-
-Réseau de chaleur de Vallorcine |
-
-VALLORCINE |
-
-0,074 |
-
-0,105 |
-
-78,0 % |
-
-2021 |
-
-7418C |
-
-Réseau UVE du STOC |
-
-THONON-LES-BAINS |
-
-0,000 |
-
-0,004 |
-
-100,0 % |
-
-2021 |
-
-7419C |
-
-Réseau Serres Municipales du STOC |
-
-THONON-LES-BAINS |
-
-0,000 |
-
-0,004 |
-
-100,0 % |
-
-2021 |
-
-7421C |
-
-Annecy Bio chaleur |
-
-ANNECY |
-
-0,044 |
-
-0,066 |
-
-80,8 % |
-
-moyenne |
-
-7422C |
-
-Thorens Glières |
-
-THORENS-GLIERES |
-
-0,047 |
-
-0,079 |
-
-87,9 % |
-
-moyenne |
-
-7423C |
-
-Réseau de Reignier |
-
-REIGNIER |
-
-0,016 |
-
-0,039 |
-
-93,9 % |
-
-2021 |
-
-7424C |
-
-Cran Gevrier-Les Passerelles |
-
-CRAN-GEVRIER |
-
-0,082 |
-
-0,109 |
-
-71,7 % |
-
-moyenne |
-
-7426C |
-
-Réseau bois énergie et citoyen de Lucinges |
-
-LUCINGES |
-
-0,013 |
-
-0,039 |
-
-96,7 % |
-
-moyenne |
-
-7427C |
-
-Réseau de chaleur du Centre Bourg de Cusy |
-
-COMMUNE DE CUSY |
-
-0,000 |
-
-0,028 |
-
-99,9 % |
-
-2021 |
-
-7428C |
-
-Réseau Saint-Jeoire en Faucigny |
-
-SAINT-JEOIRE EN FAUCIGNY |
-
-0,090 |
-
-0,125 |
-
-77,7 % |
-
-2021 |
-
-7475C |
-
-Réseau d'Annemasse Le Livron |
-
-ANNEMASSE |
-
-0,215 |
+0,255 |
 
 0,256 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
-7476C |
+7412C |
 
-Réseau d'Annemasse Perrier |
+RESEAU D'AVORIAZ |
 
-ANNEMASSE |
-
-0,190 |
-
-0,236 |
-
-0,0 % |
-
-2021 |
-
-7501C |
-
-Paris et communes limitrophes |
-
-PARIS |
-
-0,154 |
-
-0,188 |
-
-50,1 % |
-
-moyenne |
-
-7503F |
-
-Réseau Climespace |
-
-PARIS |
-
-0,008 |
-
-0,016 |
-
-Non défini |
-
-2021 |
-
-7507C |
-
-CLIMESPACE |
-
-PARIS |
-
-0,211 |
-
-0,254 |
-
-50,5 % |
-
-moyenne |
-
-7511C |
-
-Boucle d'eau chaude Chapelle International |
-
-PARIS |
-
-0,118 |
-
-0,265 |
-
-2,9 % |
-
-moyenne |
-
-7601C |
-
-Réseau Petite Bouverie |
-
-ROUEN |
-
-0,088 |
-
-0,156 |
-
-42,7 % |
-
-2021 |
-
-7602C |
-
-Zac du Mont Gaillard |
-
-LE HAVRE |
-
-0,074 |
-
-0,112 |
-
-58,0 % |
-
-2021 |
-
-7603C |
-
-Resocéane |
-
-LE HAVRE |
-
-0,246 |
-
-0,261 |
-
-0,0 % |
-
-2021 |
-
-7605C |
-
-Réseau de Mont-Saint-Aignan |
-
-MONT-SAINT-AIGNAN |
+MORZINE |
 
 0,103 |
 
+0,069 |
+
+55,7 |
+
+2022 |
+
+7413C |
+
+RESEAU DE CLARAFOND LA PRESLE |
+
+CLARAFOND-ARCINE |
+
+0,207 |
+
+0,241 |
+
+45,5 |
+
+Moyenne |
+
+7416C |
+
+RESEAU DE VIRY |
+
+VIRY |
+
+0,008 |
+
+0,035 |
+
+98,4 |
+
+Moyenne |
+
+7417C |
+
+RESEAU DE CHALEUR DE VALLORCINE |
+
+VALLORCINE |
+
+0,041 |
+
+0,065 |
+
+86,4 |
+
+2022 |
+
+7418C |
+
+RESEAU UVE DU STOC |
+
+THONON-LES-BAINS |
+
+0,000 |
+
+0,004 |
+
+100,0 |
+
+2022 |
+
+7419C |
+
+RESEAU SERRES MUNICIPALES DU STOC |
+
+THONON-LES-BAINS |
+
+0,000 |
+
+0,004 |
+
+100,0 |
+
+2022 |
+
+7421C |
+
+ANNECY BIO CHALEUR |
+
+ANNECY |
+
+0,045 |
+
+0,067 |
+
+79,8 |
+
+Moyenne |
+
+7422C |
+
+THORENS GLIERES |
+
+THORENS-GLIERES |
+
+0,064 |
+
+0,099 |
+
+83,3 |
+
+Moyenne |
+
+7423C |
+
+RESEAU DE REIGNIER |
+
+REIGNIER |
+
+0,012 |
+
+0,034 |
+
+95,4 |
+
+Moyenne |
+
+7424C |
+
+CRAN GEVRIER-LES PASSERELLES |
+
+CRAN-GEVRIER |
+
+0,069 |
+
+0,096 |
+
+76,5 |
+
+2022 |
+
+7426C |
+
+RESEAU BOIS ENERGIE ET CITOYEN DE LUCINGES |
+
+LUCINGES |
+
+0,005 |
+
+0,030 |
+
+98,8 |
+
+2022 |
+
+7427C |
+
+RESEAU DE CHALEUR DU CENTRE BOURG DE CUSY |
+
+COMMUNE DE CUSY |
+
+0,020 |
+
+0,051 |
+
+95,8 |
+
+Moyenne |
+
+7428C |
+
+RESEAU SAINT-JEOIRE EN FAUCIGNY |
+
+SAINT-JEOIRE EN FAUCIGNY |
+
+0,060 |
+
+0,091 |
+
+83,0 |
+
+2022 |
+
+7475C |
+
+RESEAU D'ANNEMASSE LE LIVRON |
+
+ANNEMASSE |
+
+0,218 |
+
+0,242 |
+
+0,0 |
+
+2022 |
+
+7476C |
+
+RESEAU D'ANNEMASSE PERRIER |
+
+ANNEMASSE |
+
+0,202 |
+
+0,243 |
+
+0,0 |
+
+2022 |
+
+7501C |
+
+PARIS ET COMMUNES LIMITROPHES |
+
+PARIS |
+
 0,143 |
 
-47,9 % |
+0,171 |
 
-2021 |
+52,7 |
+
+2022 |
+
+7503F |
+
+FRAICHEUR DE PARIS |
+
+PARIS |
+
+0,007 |
+
+0,015 |
+
+ND |
+
+2022 |
+
+7504C |
+
+RUE LEGENDRE |
+
+PARIS |
+
+0,145 |
+
+0,177 |
+
+52,7 |
+
+2022 |
+
+7511C |
+
+BOUCLE D'EAU CHAUDE CHAPELLE INTERNATIONAL |
+
+PARIS |
+
+0,115 |
+
+0,244 |
+
+7,3 |
+
+2022 |
+
+7601C |
+
+RESEAU PETITE BOUVERIE |
+
+ROUEN |
+
+0,097 |
+
+0,145 |
+
+47,4 |
+
+2022 |
+
+7602C |
+
+ZAC DU MONT GAILLARD |
+
+LE HAVRE |
+
+0,084 |
+
+0,127 |
+
+51,8 |
+
+Moyenne |
+
+7603C |
+
+RESOCEANE |
+
+LE HAVRE |
+
+0,288 |
+
+0,279 |
+
+0,0 |
+
+2022 |
+
+7605C |
+
+RESEAU DE MONT-SAINT-AIGNAN |
+
+MONT-SAINT-AIGNAN |
+
+0,072 |
+
+0,096 |
+
+72,8 |
+
+2022 |
 
 7606C |
 
@@ -9748,41 +10368,41 @@ CANTELEU ENERGIE |
 
 CANTELEU |
 
-0,068 |
+0,050 |
 
-0,092 |
+0,074 |
 
-71,9 % |
+79,6 |
 
-2021 |
+2022 |
 
 7607C |
 
-ZAC Nobel Bozel |
+ZAC NOBEL BOZEL |
 
 LE PETIT-QUEVILLY |
 
-0,067 |
+0,059 |
 
-0,087 |
+0,083 |
 
-68,8 % |
+70,4 |
 
-moyenne |
+2022 |
 
 7608C |
 
-Château Blanc |
+CHATEAU BLANC |
 
 SAINT ETIENNE DU ROUVRAY |
 
-0,027 |
+0,009 |
 
-0,051 |
+0,033 |
 
-91,2 % |
+96,3 |
 
-2021 |
+2022 |
 
 7609C |
 
@@ -9790,13 +10410,13 @@ SODINEUF |
 
 DIEPPE |
 
-0,212 |
+0,234 |
 
-0,245 |
+0,266 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 7610C |
 
@@ -9804,69 +10424,69 @@ SECGO |
 
 GONFREVILLE-L'ORCHER |
 
-0,033 |
+0,018 |
 
-0,057 |
+0,042 |
 
-89,0 % |
+94,5 |
 
-moyenne |
+2022 |
 
 7612C |
 
-Chu Charles Nicolle |
+CHU CHARLES NICOLLE |
 
 ROUEN |
 
-0,189 |
+0,219 |
 
-0,228 |
+0,246 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 7613C |
 
-La Côte Brulée |
+LA COTE BRULEE |
 
 LE HAVRE |
 
-0,218 |
+0,226 |
 
-0,241 |
+0,254 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 7614C |
 
-Chaufferie bois Grammont |
+CHAUFFERIE BOIS GRAMMONT |
 
 ROUEN |
 
-0,025 |
+0,013 |
 
-0,047 |
+0,034 |
 
-89,9 % |
+94,8 |
 
-2021 |
+2022 |
 
 7615C |
 
-Réseau de Maromme |
+RESEAU DE MAROMME |
 
 MAROMME |
 
-0,014 |
+0,017 |
 
-0,036 |
+0,039 |
 
-95,0 % |
+93,7 |
 
-moyenne |
+Moyenne |
 
 7616C |
 
@@ -9874,31 +10494,31 @@ SRGB |
 
 NOTRE-DAME-DE-GRAVENCHON |
 
-0,022 |
+0,024 |
 
-0,045 |
+0,049 |
 
-92,0 % |
+92,5 |
 
-2021 |
+2022 |
 
 7617C |
 
-RCU de Neufchatel-en-Bray |
+RCU DE NEUFCHATEL-EN-BRAY |
 
 NEUFCHATEL-EN-BRAY |
 
-0,057 |
+0,075 |
 
-0,084 |
+0,102 |
 
-77,2 % |
+76,4 |
 
-2021 |
+2022 |
 
 7618C |
 
-Réseau de Semedi-Sedibex |
+RESEAU DE SEMEDI-SEDIBEX |
 
 SANDOUVILLE |
 
@@ -9906,37 +10526,37 @@ SANDOUVILLE |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 7619C |
 
-BET ZAC Luciline chaud |
+BET ZAC LUCILINE CHAUD |
 
 ROUEN |
 
-0,142 |
+0,107 |
 
-0,149 |
+0,086 |
 
-35,6 % |
+49,9 |
 
-2021 |
+2022 |
 
 7619F |
 
-BET ZAC Luciline froid |
+BET ZAC LUCILINE FROID |
 
 ROUEN |
 
-0,078 |
+0,098 |
 
-0,104 |
+0,160 |
 
-Non défini |
+ND |
 
-moyenne |
+Moyenne |
 
 7620C |
 
@@ -9948,13 +10568,13 @@ LE GRAND-QUEVILLY |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 7621C |
 
-Réseau vapeur SEVEDE |
+RESEAU VAPEUR SEVEDE |
 
 SAINT-JEAN-DE-FOLLEVILLE |
 
@@ -9962,83 +10582,83 @@ SAINT-JEAN-DE-FOLLEVILLE |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 7701C |
 
-Réseaux de Meaux |
+RESEAUX DE MEAUX |
 
 MEAUX |
 
-0,097 |
+0,089 |
 
-0,120 |
+0,110 |
 
-61,8 % |
+66,5 |
 
-2021 |
+2022 |
 
 7703C |
 
-Almont-Montaigu |
+ALMONT-MONTAIGU |
 
 MELUN |
 
-0,076 |
+0,049 |
 
-0,094 |
+0,062 |
 
-67,8 % |
+78,8 |
 
-moyenne |
+2022 |
 
 7704C |
 
-Réseau CDC HABITAT anciennement OSICA |
+RESEAU CDC HABITAT ANCIENNEMENT OSICA |
 
 OZOIR-LA-FERRIERE |
 
-0,161 |
+0,115 |
 
-0,185 |
+0,137 |
 
-19,0 % |
+36,9 |
 
-moyenne |
+2022 |
 
 7705C |
 
-Zup du Mont Saint Martin |
+ZUP DU MONT SAINT MARTIN |
 
 NEMOURS |
 
-0,093 |
+0,074 |
 
-0,119 |
+0,099 |
 
-65,4 % |
+72,9 |
 
-2021 |
+2022 |
 
 7706C |
 
-Réseau de Dammarie les Lys |
+RESEAU DE DAMMARIE LES LYS |
 
 DAMMARIE-LES-LYS |
 
-0,020 |
+0,023 |
 
-0,036 |
+0,040 |
 
-91,4 % |
+89,8 |
 
-moyenne |
+Moyenne |
 
 7707C |
 
-Centrale de la Butte Monceau |
+CENTRALE DE LA BUTTE MONCEAU |
 
 AVON |
 
@@ -10046,219 +10666,275 @@ AVON |
 
 0,261 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 7708C |
 
-Réseau du Mee sur Seine |
+RESEAU DU MEE SUR SEINE |
 
 LE MEE-SUR-SEINE |
 
-0,071 |
+0,074 |
 
-0,090 |
+0,094 |
 
-70,4 % |
+69,3 |
 
-moyenne |
+Moyenne |
 
 7710C |
 
-Réseau de Vaux le Penil |
+RESEAU DE VAUX LE PENIL |
 
 VAUX-LE-PENIL |
 
-0,117 |
+0,079 |
 
-0,145 |
+0,105 |
 
-65,6 % |
+78,8 |
 
-2021 |
+2022 |
 
 7711C |
 
-Réseau de Coulommiers |
+RESEAU DE COULOMMIERS |
 
 COULOMMIERS |
 
-0,014 |
-
-0,031 |
-
-94,2 % |
-
-moyenne |
-
-7715C |
-
-ZUP de Surville |
-
-MONTEREAU-FAULT-YONNE |
-
-0,018 |
-
-0,032 |
-
-93,1 % |
-
-moyenne |
-
-7716C |
-
-Réseau de Marne la Vallée |
-
-TORCY |
-
-0,038 |
-
-0,056 |
-
-84,6 % |
-
-moyenne |
-
-7717C |
-
-Réseau de Chelles |
-
-CHELLES |
-
-0,097 |
-
-0,130 |
-
-53,4 % |
-
-2021 |
-
-7718C |
-
-La renardière |
-
-ROISSY-EN-BRIE |
-
-0,072 |
-
-0,097 |
-
-73,1 % |
-
-2021 |
-
-7721C |
-
-Réseau de Bailly Romainvilliers |
-
-BAILLY-ROMAINVILLIERS |
+0,013 |
 
 0,030 |
 
-0,037 |
+94,5 |
 
-90,4 % |
+Moyenne |
 
-2021 |
+7715C |
 
-7722C |
+ZUP DE SURVILLE |
 
-Réseau de Village Nature |
+MONTEREAU-FAULT-YONNE |
 
-VILLENEUVE-SAINT-DENIS |
+0,014 |
 
-0,002 |
+0,028 |
 
-0,018 |
+94,6 |
 
-99,3 % |
+2022 |
 
-moyenne |
+7716C |
 
-7723C |
+RESEAU DE MARNE LA VALLEE |
 
-Réseau Val d'Europe |
+TORCY |
 
-CHESSY |
+0,033 |
 
-0,211 |
+0,051 |
 
-0,253 |
+86,0 |
 
-34 % |
+2022 |
 
-2021 |
+7717C |
 
-7724C |
+RESEAU DE CHELLES |
 
-Bussycomore |
-
-BUSSY-SAINT-GEORGES |
-
-0,143 |
-
-0,320 |
-
-39,4 % |
-
-moyenne |
-
-7802C |
-
-Le Val Fourré |
-
-MANTES-LA-JOLIE |
+CHELLES |
 
 0,100 |
 
-0,132 |
+0,127 |
 
-54,7 % |
+57,4 |
 
-2021 |
+2022 |
+
+7718C |
+
+LA RENARDIERE |
+
+ROISSY-EN-BRIE |
+
+0,093 |
+
+0,118 |
+
+63,0 |
+
+Moyenne |
+
+7721C |
+
+RESEAU DE BAILLY ROMAINVILLIERS |
+
+BAILLY-ROMAINVILLIERS |
+
+0,042 |
+
+0,050 |
+
+87,0 |
+
+Moyenne |
+
+7722C |
+
+RESEAU DE VILLAGE NATURE |
+
+VILLENEUVE-SAINT-DENIS |
+
+0,000 |
+
+0,016 |
+
+99,9 |
+
+2022 |
+
+7723C |
+
+RESEAU VAL D'EUROPE |
+
+CHESSY |
+
+0,175 |
+
+0,234 |
+
+47,1 |
+
+2022 |
+
+7724C |
+
+BUSSYCOMORE |
+
+BUSSY-SAINT-GEORGES |
+
+0,116 |
+
+0,142 |
+
+54,0 |
+
+2022 |
+
+7725C |
+
+RESEAU EURODISNEY |
+
+CHESSY |
+
+0,129 |
+
+0,147 |
+
+44,0 |
+
+2022 |
+
+7726C |
+
+RCU LIZY-SUR-OURCQ |
+
+LIZY-SUR-OURCQ |
+
+0,123 |
+
+0,146 |
+
+43,5 |
+
+2022 |
+
+7727C |
+
+CHAMPS SUR MARNE |
+
+CHAMPS SUR MARNE |
+
+0,032 |
+
+0,040 |
+
+86,1 |
+
+2022 |
+
+7801C |
+
+LES NOUVEAUX HORIZONS |
+
+ELANCOURT |
+
+0,335 |
+
+0,375 |
+
+0,0 |
+
+2022 |
+
+7802C |
+
+LE VAL FOURRE |
+
+MANTES-LA-JOLIE |
+
+0,098 |
+
+0,129 |
+
+56,9 |
+
+2022 |
 
 7803C |
 
-Réseau de Versailles |
+RESEAU DE VERSAILLES |
 
 VERSAILLES |
 
-0,237 |
+0,094 |
 
-0,280 |
+0,298 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 7804C |
 
-Parly II |
+PARLY II |
 
 LE CHESNAY |
 
-0,179 |
+0,225 |
 
-0,224 |
+0,254 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 7805C |
 
-Réseau de Saint Germain en Laye |
+RESEAU DE SAINT GERMAIN EN LAYE |
 
 SAINT-GERMAIN-EN-LAYE |
 
-0,114 |
+0,077 |
 
-0,149 |
+0,106 |
 
-52,3 % |
+64,3 |
 
-moyenne |
+2022 |
 
 7806C |
 
@@ -10266,307 +10942,377 @@ DOMNIS ACHERES |
 
 ACHERES |
 
-0,121 |
+0,116 |
 
-0,147 |
+0,143 |
 
-53,4 % |
+54,5 |
 
-2021 |
+Moyenne |
+
+7807C |
+
+ZAC DE LA NOE |
+
+CHANTELOUP-LES-VIGNES |
+
+0,210 |
+
+0,255 |
+
+0,0 |
+
+2022 |
 
 7808C |
 
-Grand Ouest et Musiciens |
+GRAND OUEST ET MUSICIENS |
 
 LES MUREAUX |
 
-0,104 |
+0,106 |
 
-0,130 |
+0,133 |
 
-57,1 % |
+58,9 |
 
-2021 |
+2022 |
 
 7809C |
 
-Réseau de Vélizy |
+RESEAU DE VELIZY |
 
 VELIZY-VILLACOUBLAY |
 
-0,231 |
+0,111 |
 
-0,264 |
+0,166 |
 
-0,0 % |
+32,6 |
 
-2021 |
+2022 |
 
 7811C |
 
-Réseau de Carrières-Chatou |
+RESEAU DE CARRIERES-CHATOU |
 
 CARRIERES-SUR-SEINE |
 
-0,011 |
+0,009 |
 
-0,016 |
+0,014 |
 
-95,8 % |
+96,4 |
 
-moyenne |
+2022 |
 
 7812C |
 
-Réseau de Plaisir-Resop |
+RESEAU DE PLAISIR-RESOP |
 
 PLAISIR |
 
-0,059 |
+0,043 |
 
-0,069 |
+0,052 |
 
-76,3 % |
+82,8 |
 
-2021 |
+2022 |
+
+7813C |
+
+RESEAU DE LA BOISSIERE |
+
+LA BOISSIERE-ECOLE |
+
+0,000 |
+
+0,022 |
+
+100,0 |
+
+2022 |
 
 7816C |
 
-Carrière sous Poissy |
+CARRIERE SOUS POISSY |
 
 CARRIERES-SOUS-POISSY |
 
-0,067 |
+0,076 |
 
-0,164 |
+0,178 |
 
-42,4 % |
+37,6 |
 
-moyenne |
+Moyenne |
+
+7818C |
+
+FLOWERGY ASNIERES-RCU PARC D'AFFAIRES |
+
+ASNIERE-SUR-SEINE |
+
+0,226 |
+
+0,254 |
+
+0,0 |
+
+2022 |
+
+7820C |
+
+VELIGEO |
+
+VELIZY VILLACOUBLAY |
+
+0,045 |
+
+0,024 |
+
+75,3 |
+
+2022 |
 
 7901C |
 
-Le Clou Bouchet |
+LE CLOU BOUCHET |
 
 NIORT |
 
-0,250 |
+0,261 |
 
-0,277 |
+0,288 |
 
-0,0 % |
+0,0 |
 
-2021 |
-
-7902C |
-
-Réseau de Bressuire |
-
-BRESSUIRE |
-
-0,116 |
-
-0,157 |
-
-69,6 % |
-
-2021 |
+2022 |
 
 7903C |
 
-Réseau de Romans |
+RESEAU DE ROMANS |
 
 ROMANS |
 
 0,000 |
 
+0,019 |
+
+100,0 |
+
+2022 |
+
+7904C |
+
+RESEAU DE L'ABSIE |
+
+L'ABSIE |
+
+0,000 |
+
 0,017 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 7906C |
 
-Réseau de chaleur CC Mellois en Poitou |
+RESEAU DE CHALEUR CC MELLOIS EN POITOU |
 
 LEZAY |
 
 0,000 |
 
-0,035 |
+0,036 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 8001C |
 
-Etouvie |
+ETOUVIE |
+
+AMIENS |
+
+0,078 |
+
+0,104 |
+
+62,8 |
+
+2022 |
+
+8001F |
+
+RESEAU DE LA VILLE D'AMIENS-FROID |
+
+AMIENS |
+
+0,043 |
+
+0,073 |
+
+ND |
+
+2022 |
+
+8002C |
+
+RESEAU DE LA VILLE D'AMIENS |
 
 AMIENS |
 
 0,072 |
 
-0,194 |
+0,124 |
 
-36,2 % |
+51,9 |
 
-2021 |
-
-8002C |
-
-Réseau de la ville d'AMIENS |
-
-AMIENS |
-
-0,082 |
-
-0,153 |
-
-39,1 % |
-
-2021 |
-
-8004C |
-
-Rodolphe BRAL |
-
-MONTDIDIER |
-
-0,000 |
-
-0,025 |
-
-100,0 % |
-
-2021 |
+2022 |
 
 8005C |
 
-Réseau d'Abbeville |
+RESEAU D'ABBEVILLE |
 
 ABBEVILLE |
 
-0,100 |
+0,103 |
 
 0,129 |
 
-59,5 % |
+59,3 |
 
-2021 |
+2022 |
 
 8006C |
 
-Réseau de chaleur de Corbie |
+RESEAU DE CHALEUR DE CORBIE |
 
 CORBIE |
 
-0,008 |
+0,007 |
 
-0,031 |
+0,027 |
 
-97,0 % |
+96,9 |
 
-2021 |
+2022 |
 
 8101C |
 
-Réseau de Carmaux |
+RESEAU DE CARMAUX |
 
 CARMAUX |
 
-0,236 |
+0,200 |
 
-0,278 |
+0,243 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 8102C |
 
-Chauffage urbain de Mazamet |
+CHAUFFAGE URBAIN DE MAZAMET |
 
 MAZAMET |
 
-0,032 |
+0,051 |
 
-0,056 |
+0,075 |
 
-88,5 % |
+82,0 |
 
-2021 |
+Moyenne |
 
 8103C |
 
-Réseau de Chauffage Urbain Castres Lameilhé |
+RESEAU DE CHAUFFAGE URBAIN CASTRES LAMEILHE |
 
 CASTRES |
-
-0,009 |
-
-0,031 |
-
-96,9 % |
-
-2021 |
-
-8104C |
-
-Gaillac-ZAC de Pouille |
-
-GAILLAC |
-
-0,060 |
-
-0,083 |
-
-76,7 % |
-
-2021 |
-
-8105C |
-
-Réseau de chaleur de Graulhet |
-
-GRAULHET |
 
 0,034 |
 
 0,057 |
 
-87,9 % |
+87,3 |
 
-moyenne |
+2022 |
 
-8106C |
+8104C |
 
-Réseau de chaleur d'ALBAN |
+GAILLAC-ZAC DE POUILLE |
 
-ALBAN |
+GAILLAC |
 
-0,032 |
+0,055 |
+
+0,079 |
+
+78,9 |
+
+Moyenne |
+
+8105C |
+
+RESEAU DE CHALEUR DE GRAULHET |
+
+GRAULHET |
+
+0,035 |
 
 0,058 |
 
-91,7 % |
+87,6 |
 
-moyenne |
+Moyenne |
+
+8106C |
+
+RESEAU DE CHALEUR D'ALBAN |
+
+ALBAN |
+
+0,049 |
+
+0,078 |
+
+85,7 |
+
+Moyenne |
 
 8112C |
 
-Réseau de chaleur de LACAUNE |
+RESEAU DE CHALEUR DE LACAUNE |
 
 LACAUNE |
 
-0,004 |
+0,003 |
 
-0,025 |
+0,024 |
 
-99,1 % |
+99,2 |
 
-moyenne |
+Moyenne |
+
+8113C |
+
+RESEAU DE CHALEUR DE SAINT-PIERRE-DE-TRIVISY |
+
+SAINT-PIERRE-DE-TRIVISY |
+
+0,014 |
+
+0,040 |
+
+96,5 |
+
+2022 |
 
 8201C |
 
@@ -10574,45 +11320,45 @@ RESEAUX SUD OUEST ENERGIES SERVICES |
 
 MONTAUBAN |
 
-0,005 |
+0,013 |
 
-0,010 |
+0,019 |
 
-98,0 % |
+95,1 |
 
-moyenne |
+Moyenne |
 
 8202C |
 
-Réseau de Caylus |
+RESEAU DE CAYLUS |
 
 CAYLUS |
 
 0,000 |
 
-0,024 |
+0,022 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 8204C |
 
-Villebrumier |
+VILLEBRUMIER |
 
 VILLEBRUMIER |
 
 0,000 |
 
-0,020 |
+0,022 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 8301C |
 
-La Beaucaire |
+LA BEAUCAIRE |
 
 TOULON |
 
@@ -10620,13 +11366,13 @@ TOULON |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 8304C |
 
-Berthe |
+BERTHE |
 
 LA SEYNE-SUR-MER |
 
@@ -10634,83 +11380,83 @@ LA SEYNE-SUR-MER |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 8305C |
 
-Chaudière bois |
+CHAUDIERE BOIS |
 
 COGOLIN |
 
 0,000 |
 
-0,017 |
+0,022 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 8306C |
 
-Réseau communal de Puget Ville |
+RESEAU COMMUNAL DE PUGET VILLE |
 
 PUGET-VILLE |
 
-0,270 |
+0,362 |
 
-0,328 |
+0,439 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 8307C |
 
-Seyne |
+RESEAU THALASSO THERMIE LA SEYNE |
 
-LA SEYNE SUR MER |
+SEYNE |
 
-0,062 |
+0,082 |
 
-0,170 |
+0,133 |
 
-50,8 % |
+48,3 |
 
-2021 |
+Moyenne |
 
 8307F |
 
-Seyne |
+RESEAU THALASSO THERMIE LA SEYNE |
 
 LA SEYNE SUR MER |
 
-0,008 |
+0,013 |
 
-0,016 |
+0,025 |
 
-Non défini |
+ND |
 
-2021 |
+Moyenne |
 
 8401C |
 
-Le Triennal |
+LE TRIENNAL |
 
 AVIGNON |
 
-0,155 |
+0,094 |
 
-0,262 |
+0,238 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 8404C |
 
-Réseaux vapeur verte GB Foods |
+RESEAUX VAPEUR VERTE GB FOODS |
 
 LE PONTET |
 
@@ -10718,279 +11464,251 @@ LE PONTET |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 8405C |
 
 NOVALIE |
 
-VEDÈNE |
+VEDENE |
 
 0,000 |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 8501C |
 
-ZAD Nord-Est |
+ZAD NORD-EST |
 
 LA ROCHE-SUR-YON |
 
-0,223 |
+0,205 |
 
-0,251 |
+0,231 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 8502C |
 
-Réseau les Herbiers |
+RESEAU LES HERBIERS |
 
 LES HERBIERS |
 
-0,060 |
+0,073 |
 
-0,091 |
+0,105 |
 
-82,4 % |
+78,7 |
 
-moyenne |
+Moyenne |
 
 8503C |
 
-Réseau de chaleur Saint-pierre-du-chemin |
+RESEAU DE CHALEUR SAINT-PIERRE-DU-CHEMIN |
 
 SAINT-PIERRE-DU-CHEMIN |
 
 0,000 |
 
-0,024 |
+0,019 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 8601C |
 
-Zup des Couronneries |
+ZUP DES COURONNERIES |
 
 POITIERS |
 
-0,083 |
+0,091 |
 
-0,109 |
+0,116 |
 
-67,0 % |
+65,2 |
 
-moyenne |
+Moyenne |
 
 8605C |
 
-Réseau Lusignan |
+RESEAU LUSIGNAN |
 
 LUSIGNAN |
 
-0,036 |
+0,075 |
 
-0,066 |
+0,110 |
 
-91,0 % |
+80,2 |
 
-moyenne |
+Moyenne |
 
 8606C |
 
-Réseau de Chaleur Ozon Sud |
+RESEAU DE CHALEUR OZON SUD |
 
 CHATELLERAULT |
 
-0,100 |
+0,110 |
 
-0,222 |
+0,248 |
 
-16,7 % |
+0,0 |
 
-moyenne |
+2022 |
 
 8607C |
 
-Réseau de Civaux |
+RESEAU DE CIVAUX |
 
 CIVAUX |
 
-0,111 |
+0,198 |
 
-0,094 |
+0,214 |
 
-56,9 % |
+35,5 |
 
-moyenne |
+Moyenne |
 
 8608C |
 
-Réseau de BEL AIR |
+RESEAU DE BEL AIR |
 
 POITIERS |
 
-0,154 |
+0,206 |
 
-0,202 |
+0,224 |
 
-0,0 % |
+0,0 |
 
-2021 |
-
-8609C |
-
-Réseau Saint Cyprien-Clos Gaultier |
-
-POITIERS |
-
-0,147 |
-
-0,196 |
-
-29,8 % |
-
-2021 |
+2022 |
 
 8610C |
 
-Réseau chaleur université de Poitiers |
+RESEAU CHALEUR UNIVERSITE DE POITIERS |
 
 POITIERS |
 
-0,037 |
+0,058 |
 
-0,061 |
+0,086 |
 
-87,9 % |
+78,3 |
 
-moyenne |
+Moyenne |
 
 8701C |
 
-Zup Val de l'Aurence |
+ZUP VAL DE L'AURENCE |
 
 LIMOGES |
 
 0,000 |
 
-0,096 |
+0,093 |
 
-70,9 % |
+71,8 |
 
-moyenne |
+2022 |
 
 8702C |
 
-Zac de Beaubreuil |
+ZAC DE BEAUBREUIL |
 
 LIMOGES |
 
-0,000 |
+0,002 |
 
-0,004 |
+0,006 |
 
-99,8 % |
+99,3 |
 
-2021 |
+Moyenne |
 
 8703C |
 
-Réseau de Bellac |
+RESEAU DE BELLAC |
 
 BELLAC |
 
-0,185 |
+0,231 |
 
-0,208 |
+0,259 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 8704C |
 
-Quartier de l'Hôtel de Ville |
+QUARTIER DE L'HOTEL DE VILLE |
 
 LIMOGES |
 
-0,073 |
+0,108 |
 
-0,200 |
+0,270 |
 
-20,4 % |
+0,0 |
 
-moyenne |
-
-8705C |
-
-Réseau de Chamboret |
-
-CHAMBORET |
-
-0,000 |
-
-0,022 |
-
-100,0 % |
-
-2021 |
+2022 |
 
 8707C |
 
-Réseau de chaleur Saint Yrieix la Perche |
+RESEAU DE CHALEUR SAINT YRIEIX LA PERCHE |
 
 SAINT YRIEIX LA PERCHE |
 
-0,033 |
+0,041 |
 
-0,056 |
+0,064 |
 
-87,6 % |
+84,3 |
 
-moyenne |
+Moyenne |
 
 8801C |
 
-Plateau de la Justice |
+PLATEAU DE LA JUSTICE |
 
 EPINAL |
 
 0,000 |
 
-0,067 |
+0,071 |
 
-86,3 % |
+87,3 |
 
-moyenne |
+2022 |
 
 8802C |
 
-Quartier Kellerman |
+QUARTIER KELLERMAN |
 
 SAINT-DIE-DES-VOSGES |
 
-0,067 |
+0,048 |
 
-0,099 |
+0,094 |
 
-65,6 % |
+67,5 |
 
-2021 |
+2022 |
 
 8805C |
 
-Réseau de Fresse sur Moselle |
+RESEAU DE FRESSE SUR MOSELLE |
 
 FRESSE-SUR-MOSELLE |
 
@@ -10998,125 +11716,153 @@ FRESSE-SUR-MOSELLE |
 
 0,033 |
 
-95,3 % |
+95,5 |
 
-2021 |
+2022 |
 
 8806C |
 
-Réseau de Monthureux-sur-Saône |
+RESEAU DE MONTHUREUX-SUR-SAONE |
 
 MONTHUREUX-SUR-SAONE |
 
-0,041 |
+0,045 |
 
-0,068 |
+0,072 |
 
-86,4 % |
+85,6 |
 
-moyenne |
+Moyenne |
 
 8807C |
 
-Chauffage urbain Fraize |
+CHAUFFAGE URBAIN FRAIZE |
 
 FRAIZE |
 
-0,069 |
+0,124 |
 
-0,097 |
+0,152 |
 
-73,2 % |
+50,1 |
 
-2021 |
+2022 |
 
 8808C |
 
-Réseau de La Bresse 1 |
+RESEAU DE LA BRESSE 1 |
 
 LA BRESSE |
 
-0,039 |
+0,114 |
 
-0,063 |
+0,154 |
 
-86,3 % |
+73,4 |
 
-2021 |
+Moyenne |
 
 8809C |
 
-Réseau de La Bresse 2 |
+RESEAU DE LA BRESSE 2 |
 
 LA BRESSE |
 
-0,111 |
+0,070 |
 
-0,150 |
+0,101 |
 
-68,4 % |
+79,4 |
 
-moyenne |
+2022 |
+
+8811C |
+
+RESEAU DE FREMIFONTAINE |
+
+FREMIFONTAINE |
+
+0,000 |
+
+0,019 |
+
+100,0 |
+
+2022 |
 
 8812C |
 
-Réseau de Ventron |
+RESEAU DE VENTRON |
 
 VENTRON |
 
-0,026 |
+0,009 |
 
-0,049 |
+0,030 |
 
-91,4 % |
+97,1 |
 
-moyenne |
+2022 |
 
 8814C |
 
-Vittel |
+VITTEL |
 
 VITTEL |
 
-0,080 |
+0,099 |
 
-0,112 |
+0,134 |
 
-61,7 % |
+63,9 |
 
-moyenne |
+2022 |
 
 8815C |
 
-Réseau de la ville de VAGNEY |
+RESEAU DE LA VILLE DE VAGNEY |
 
 VAGNEY |
 
-0,028 |
+0,032 |
 
-0,053 |
+0,060 |
 
-88,5 % |
+87,7 |
 
-moyenne |
+Moyenne |
+
+8816C |
+
+RESEAU BAN DE SAPT |
+
+BAN-DE-SAPT |
+
+0,000 |
+
+0,034 |
+
+100,0 |
+
+2022 |
 
 8817C |
 
-Réseau de Hurbache |
+RESEAU DE HURBACHE |
 
 HURBACHE |
 
 0,000 |
 
-0,017 |
+0,024 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 8818C |
 
-Réseau de Saint-Jean-d'Ormont |
+RESEAU DE SAINT-JEAN D'ORMONT |
 
 SAINT-JEAN-D'ORMONT |
 
@@ -11124,93 +11870,93 @@ SAINT-JEAN-D'ORMONT |
 
 0,039 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 8819C |
 
-Réseau de Denipaire |
+RESEAU DE DENIPAIRE |
 
 DENIPAIRE |
 
 0,000 |
 
-0,017 |
+0,020 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 8820C |
 
-Réseau de RAMBERVILLIERS |
+RESEAU DE RAMBERVILLIERS |
 
 RAMBERVILLIERS |
 
-0,000 |
+0,012 |
 
-0,004 |
+0,017 |
 
-100,0 % |
+96,3 |
 
-2021 |
+Moyenne |
 
 8821C |
 
-Chaufferie Bois de Saulxures sur Moselotte |
+CHAUFFERIE BOIS DE SAULXURES SUR MOSELOTTE |
 
 SAULXURES SUR MOSELOTTE |
 
-0,055 |
+0,053 |
 
-0,084 |
+0,086 |
 
-84,4 % |
+87,8 |
 
-2021 |
+2022 |
 
 8901C |
 
-Zup des Grahuches |
+ZUP DES GRAHUCHES |
 
 SENS |
 
-0,027 |
+0,034 |
 
-0,041 |
+0,048 |
 
-90,9 % |
+87,8 |
 
-moyenne |
+Moyenne |
 
 8902C |
 
-Zup de Sainte Geneviève |
+ZUP DE SAINTE GENEVIEVE |
 
 AUXERRE |
 
-0,067 |
+0,060 |
 
-0,092 |
+0,087 |
 
-75,4 % |
+75,3 |
 
-2021 |
+2022 |
 
 8904C |
 
-Réseau de Quarré-les-Tombes |
+RESEAU DE QUARRE-LES-TOMBES |
 
 QUARRE-LES-TOMBES |
 
 0,000 |
 
-0,017 |
+0,018 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 9002C |
 
@@ -11218,139 +11964,125 @@ ZUP DES GLACIS |
 
 BELFORT |
 
-0,106 |
+0,112 |
 
-0,229 |
+0,201 |
 
-0,0 % |
+26,0 |
 
-2021 |
-
-9003C |
-
-Réseau de chaleur de Delle |
-
-DELLE |
-
-0,123 |
-
-0,178 |
-
-48,2 % |
-
-moyenne |
+2022 |
 
 9101C |
 
-Réseau de Massy-Antony |
+RESEAU DE MASSY-ANTONY |
 
 MASSY |
 
-0,072 |
-
-0,090 |
-
-79,4 % |
-
-2021 |
-
-9101F |
-
-BET Paris Saclay |
-
-SACLAY |
-
-0,034 |
-
-0,059 |
-
-Non défini |
-
-moyenne |
-
-9102C |
-
-Réseau des Ulis |
-
-LES ULIS |
-
-0,066 |
-
-0,088 |
-
-67,7 % |
-
-2021 |
-
-9103C |
-
-Réseau d'Evry |
-
-EVRY |
-
-0,098 |
-
-0,120 |
-
-54,6 % |
-
-2021 |
-
-9104C |
-
-Domaine du Bois des Roches |
-
-SAINT-MICHEL-SUR-ORGE |
-
-0,190 |
-
-0,210 |
-
-0,0 % |
-
-2021 |
-
-9105C |
-
-Réseau de Grigny |
-
-GRIGNY |
-
-0,145 |
-
-0,189 |
-
-16,5 % |
-
-moyenne |
-
-9106C |
-
-OROBIA-Réseau de Brétigny-sur-Orge |
-
-BRETIGNY-SUR-ORGE |
-
-0,057 |
+0,064 |
 
 0,080 |
 
-77,4 % |
+80,9 |
 
-2021 |
+2022 |
+
+9101F |
+
+BET PARIS SACLAY |
+
+SACLAY |
+
+0,032 |
+
+0,055 |
+
+ND |
+
+2022 |
+
+9102C |
+
+RESEAU DES ULIS |
+
+LES ULIS |
+
+0,064 |
+
+0,086 |
+
+69,2 |
+
+2022 |
+
+9103C |
+
+RESEAU D'EVRY |
+
+EVRY |
+
+0,099 |
+
+0,119 |
+
+56,2 |
+
+2022 |
+
+9104C |
+
+DOMAINE DU BOIS DES ROCHES |
+
+SAINT-MICHEL-SUR-ORGE |
+
+0,169 |
+
+0,214 |
+
+0,0 |
+
+2022 |
+
+9105C |
+
+RESEAU DE GRIGNY |
+
+GRIGNY |
+
+0,121 |
+
+0,176 |
+
+22,1 |
+
+2022 |
+
+9106C |
+
+OROBIA-RESEAU DE BRETIGNY-SUR-ORGE |
+
+BRETIGNY-SUR-ORGE |
+
+0,065 |
+
+0,089 |
+
+74,9 |
+
+Moyenne |
 
 9107C |
 
-Réseau de Dourdan |
+RESEAU DE DOURDAN |
 
 DOURDAN |
 
-0,239 |
+0,259 |
 
-0,285 |
+0,312 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 9108C |
 
@@ -11358,73 +12090,73 @@ CEA DIF |
 
 BRUYERES-LE-CHATEL |
 
-0,189 |
+0,167 |
 
-0,199 |
+0,169 |
 
-42,1 % |
+40,7 |
 
-moyenne |
+2022 |
 
 9109C |
 
-DSP-Vigneux-Concorde |
+DSP-VIGNEUX-CONCORDE |
 
 VIGNEUX SUR SEINE |
 
-0,050 |
+0,037 |
 
-0,068 |
+0,056 |
 
-79,6 % |
+85,9 |
 
-moyenne |
+2022 |
 
 9114C |
 
-Réseau d'Epinay-sous-Sénart |
+RESEAU D'ÉPINAY-SOUS-SENART |
 
-EPINAY-SOUS-SENART |
+ÉPINAY-SOUS-SENART |
 
-0,083 |
+0,076 |
 
-0,091 |
+0,096 |
 
-69,1 % |
+70,7 |
 
-moyenne |
+2022 |
 
 9115C |
 
-Réseau de Ris-Orangis |
+RESEAU DE RIS-ORANGIS |
 
 RIS-ORANGIS |
 
-0,022 |
+0,030 |
 
-0,040 |
+0,049 |
 
-89,9 % |
+86,5 |
 
-moyenne |
+Moyenne |
 
 9118C |
 
-Réseau SEER Grigny-Viry |
+RESEAU SEER GRIGNY-VIRY |
 
 GRIGNY |
 
-0,052 |
+0,062 |
 
-0,069 |
+0,082 |
 
-76,0 % |
+71,3 |
 
-2021 |
+Moyenne |
 
 9119C |
 
-Parc d'activités |
+PARC D'ACTIVITES |
 
 VILLEJUST |
 
@@ -11432,153 +12164,195 @@ VILLEJUST |
 
 0,004 |
 
-100,0 % |
+100,0 |
 
-2021 |
+2022 |
 
 9120C |
 
-Réseau de Viry Chatillon |
+RESEAU DE VIRY CHATILLON |
 
 VIRY-CHATILLON |
 
-0,199 |
+0,206 |
 
-0,244 |
+0,249 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 9121C |
 
-Réseau de chaleur de l'écoquartier Camille Claudel |
+RESEAU DE CHALEUR DE L'ECOQUARTIER CAMILLE CLAUDEL |
 
 PALAISEAU |
 
-0,053 |
+0,064 |
 
-0,076 |
+0,088 |
 
-77,2 % |
+72,1 |
 
-2021 |
+Moyenne |
 
 9122C |
 
-Réseau du quartier du Grand Parc de Bondoufle |
+RESEAU DU QUARTIER DU GRAND PARC DE BONDOUFLE |
 
 BONDOUFLE |
 
-0,066 |
+0,033 |
 
-0,089 |
+0,055 |
 
-73,4 % |
+86,9 |
 
-2021 |
+2022 |
 
 9123C |
 
-BET Paris Saclay |
+BET PARIS SACLAY |
 
 SACLAY |
 
-0,266 |
+0,119 |
 
-0,274 |
+0,112 |
 
-29,1 % |
+46,7 |
 
-2021 |
+2022 |
+
+9125C |
+
+RIS-ORANGIS DOCK ET GARE |
+
+RIS ORANGIS |
+
+0,114 |
+
+0,116 |
+
+50,3 |
+
+2022 |
 
 9201C |
 
-Réseau de Meudon |
+RESEAU DE MEUDON |
 
 MEUDON |
 
-0,230 |
+0,237 |
 
-0,267 |
+0,272 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
+
+9202C |
+
+LES FOSSES JEAN NORD |
+
+COLOMBES |
+
+0,258 |
+
+0,290 |
+
+0,0 |
+
+2022 |
 
 9204C |
 
-ZAC Sainte Geneviève |
+ZAC SAINTE GENEVIEVE |
 
 NANTERRE |
 
-0,086 |
+0,113 |
 
-0,109 |
+0,121 |
 
-49,9 % |
+31,1 |
 
-moyenne |
+Moyenne |
 
 9205C |
 
-Réseau Gennevilliers |
+RESEAU GENNEVILLIERS |
 
 GENNEVILLIERS |
 
-0,098 |
+0,081 |
 
-0,124 |
+0,114 |
 
-56,8 % |
+65,0 |
 
-moyenne |
+2022 |
 
 9209C |
 
-Réseau de Chaville |
+RESEAU DE CHAVILLE |
 
 CHAVILLE |
 
-0,199 |
+0,213 |
 
-0,245 |
+0,260 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 9211C |
 
-Réseau de chaleur de Levallois |
+RESEAU DE CHALEUR DE LEVALLOIS |
 
 LEVALLOIS PERRET |
 
-0,176 |
+0,162 |
 
-0,215 |
+0,197 |
 
-50,5 % |
+52,7 |
 
-moyenne |
+2022 |
+
+9217C |
+
+RESEAU DU PLESSIS-ROBINSON (HLM)-TECNI |
+
+LE PLESSIS-ROBINSON |
+
+0,180 |
+
+0,270 |
+
+14,3 |
+
+2022 |
 
 9219C |
 
-Réseau chaud Seguin Rives de Seine |
+RESEAU CHAUD SEGUIN RIVES DE SEINE |
 
 BOULOGNE-BILLANCOURT |
 
-0,122 |
+0,120 |
 
-0,132 |
+0,135 |
 
-56,5 % |
+59,0 |
 
-moyenne |
+2022 |
 
 9219F |
 
-Réseau froid Seguin Rives de Seine |
+RESEAU FROID SEGUIN RIVES DE SEINE |
 
 BOULOGNE-BILLANCOURT |
 
@@ -11586,97 +12360,97 @@ BOULOGNE-BILLANCOURT |
 
 0,026 |
 
-Non défini |
+ND |
 
-2021 |
+2022 |
 
 9222C |
 
-Réseau de Suresnes |
+RESEAU DE SURESNES |
 
 SURESNES |
 
-0,236 |
+0,106 |
 
-0,266 |
+0,217 |
 
-0,0 % |
+12,6 |
 
-2021 |
+2022 |
 
 9224C |
 
-Réseau SEINERGIE |
+RESEAU SEINERGIE |
 
 COURBEVOIE |
 
-0,196 |
+0,098 |
 
-0,252 |
+0,141 |
 
-6,3 % |
+37,5 |
 
-2021 |
+2022 |
 
 9225C |
 
-Réseau de La Défense |
+RESEAU DE LA DEFENSE |
 
 COURBEVOIE |
 
-0,028 |
+0,104 |
 
-0,178 |
+0,203 |
 
-31,9 % |
+38,5 |
 
-moyenne |
+2022 |
 
 9225F |
 
-Réseau de La Défense |
+RESEAU DE LA DEFENSE |
 
 COURBEVOIE |
 
-0,012 |
+0,013 |
 
 0,024 |
 
-Non défini |
+ND |
 
-moyenne |
+Moyenne |
 
 9226C |
 
-Résidence Villeneuve |
+RESIDENCE VILLENEUVE |
 
 VILLENEUVE-LA-GARENNE |
 
-0,213 |
+0,212 |
 
-0,229 |
+0,239 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 9230C |
 
-Réseau Ciceo |
+RESEAU CICEO |
 
 PUTEAUX |
 
-0,175 |
+0,000 |
 
-0,264 |
+0,273 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 9231F |
 
-Réseau Suc-Société Urbaine de Climatisation |
+RESEAU SUC-SOCIETE URBAINE DE CLIMATISATION |
 
 COURBEVOIE |
 
@@ -11684,9 +12458,9 @@ COURBEVOIE |
 
 0,021 |
 
-Non défini |
+ND |
 
-2021 |
+Moyenne |
 
 9232C |
 
@@ -11694,181 +12468,279 @@ RESEAU QUARTIER HOCHE |
 
 NANTERRE |
 
-0,051 |
+0,080 |
 
-0,075 |
+0,105 |
 
-78,9 % |
+67,0 |
 
-2021 |
+Moyenne |
 
 9233C |
 
-Réseau de la Zac de la Marine |
+RESEAU DE LA ZAC DE LA MARINE |
 
 COLOMBES |
 
-0,114 |
+0,115 |
 
-0,140 |
+0,141 |
 
-52,4 % |
+52,5 |
 
-moyenne |
+Moyenne |
 
 9234C |
 
-Réseau du Fort d'Issy |
+RESEAU DU FORT D'ISSY |
 
 ISSY-LES-MOULINEAUX |
 
-0,139 |
+0,103 |
 
-0,127 |
+0,092 |
 
-29,6 % |
+57,9 |
 
-2021 |
+2022 |
 
 9234F |
 
-Cristalia |
+CRISTALIA |
 
 LEVALLOIS-PERRET |
 
-0,012 |
+0,011 |
 
 0,023 |
 
-Non défini |
+ND |
 
-moyenne |
+Moyenne |
 
 9235C |
 
-Réseau de CLICHY |
+RESEAU DE CLICHY |
 
 CLICHY |
 
-0,117 |
+0,119 |
 
-0,236 |
+0,196 |
 
-32,8 % |
+45,8 |
 
-2021 |
+2022 |
 
 9235F |
 
-Réseau de froid de Suresnes-ICEIS |
+RESEAU DE FROID DE SURESNES-ICEIS |
 
 SURESNES |
 
-0,018 |
+0,022 |
 
-0,033 |
+0,039 |
 
-Non défini |
+ND |
 
-2021 |
+Moyenne |
 
 9236C |
 
-Réseau de Bagneux-Chatillon |
+RESEAU DE BAGNEUX-CHATILLON |
 
 BAGNEUX |
 
-0,089 |
+0,093 |
 
-0,103 |
+0,107 |
 
-58,0 % |
+57,4 |
 
-moyenne |
+Moyenne |
 
-9301C |
+9237C |
 
-Réseau de Saint Denis |
+BET NANTERRE CHAUD |
 
-SAINT-DENIS |
+NANTERRE |
 
-0,120 |
+0,136 |
 
-0,149 |
+0,159 |
 
-53,3 % |
+52,0 |
 
-2021 |
+2022 |
 
-9302C |
+9237F |
 
-Réseau de Bagnolet |
+BET NANTERRE FROID |
 
-BAGNOLET |
+NANTERRE |
 
-0,127 |
+0,010 |
 
-0,187 |
+0,021 |
 
-41,6 % |
+ND |
 
-moyenne |
+2022 |
 
-9303C |
+9239C |
 
-Zup de Bobigny |
+RUEIL ENERGIE |
 
-BOBIGNY |
+RUEIL-MALMAISON |
 
 0,172 |
 
-0,186 |
+0,184 |
 
-35,7 % |
+19,5 |
 
-2021 |
+2022 |
+
+9240F |
+
+RESEAU SEINERGIE FROID |
+
+COURBEVOIE |
+
+0,011 |
+
+0,026 |
+
+ND |
+
+2022 |
+
+9242C |
+
+RCU CLAMART PLAINE SUD |
+
+CLAMART |
+
+0,091 |
+
+0,115 |
+
+64,2 |
+
+2022 |
+
+9242F |
+
+RESEAU ENEBIO FROID |
+
+PUTEAUX |
+
+0,011 |
+
+0,026 |
+
+ND |
+
+2022 |
+
+9301C |
+
+RESEAU DE SAINT DENIS |
+
+SAINT-DENIS |
+
+0,097 |
+
+0,123 |
+
+64,1 |
+
+2022 |
+
+9302C |
+
+RESEAU DE BAGNOLET |
+
+BAGNOLET |
+
+0,106 |
+
+0,132 |
+
+58,7 |
+
+2022 |
+
+9303C |
+
+ZUP DE BOBIGNY |
+
+BOBIGNY |
+
+0,142 |
+
+0,146 |
+
+41,3 |
+
+2022 |
 
 9304C |
 
-Zac de Sevran |
+ZAC DE SEVRAN |
 
 SEVRAN |
 
-0,098 |
+0,104 |
 
-0,122 |
+0,125 |
 
-58,5 % |
+58,9 |
 
-2021 |
+2022 |
 
 9305C |
 
-Zup des Fauvettes |
+ZUP DES FAUVETTES |
 
 NEUILLY SUR MARNE |
 
-0,073 |
+0,055 |
 
-0,086 |
+0,064 |
 
-74,1 % |
+79,7 |
 
-moyenne |
+2022 |
 
 9306C |
 
-Réseau de Villepinte |
+RESEAU DE VILLEPINTE |
 
 VILLEPINTE |
 
-0,065 |
+0,090 |
 
-0,084 |
+0,111 |
 
-72,8 % |
+62,6 |
 
-moyenne |
+Moyenne |
+
+9307C |
+
+PARIFERIC |
+
+AUBERVILLIERS |
+
+0,255 |
+
+0,286 |
+
+0,0 |
+
+2022 |
 
 9309C |
 
@@ -11876,335 +12748,377 @@ SEBIO |
 
 SEVRAN |
 
-0,101 |
+0,089 |
 
-0,147 |
+0,142 |
 
-49,0 % |
+47,1 |
 
-moyenne |
+Moyenne |
 
 9310C |
 
-Réseau chaud ADP le Bourget |
+RESEAU CHAUD ADP LE BOURGET |
 
 LE BOURGET |
 
-0,227 |
+0,240 |
 
-0,251 |
+0,269 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 9310F |
 
-Réseau froid ADP Le Bourget |
+RESEAU FROID ADP LE BOURGET |
 
 LE BOURGET |
 
-0,040 |
-
-0,068 |
-
-Non défini |
-
-2021 |
-
-9311C |
-
-Le Chêne Pointu |
-
-CLICHY-SOUS-BOIS |
-
-0,223 |
-
-0,257 |
-
-0,0 % |
-
-2021 |
-
-9312C |
-
-Le Gros Saule |
-
-AULNAY-SOUS-BOIS |
-
-0,194 |
-
-0,239 |
-
-0,0 % |
-
-2021 |
-
-9313C |
-
-Réseau de La Courneuve |
-
-LA COURNEUVE |
-
-0,085 |
-
-0,096 |
-
-57,6 % |
-
-moyenne |
-
-9314C |
-
-Réseau de Tremblay en France |
-
-TREMBLAY EN FRANCE |
-
-0,058 |
-
-0,077 |
-
-77,2 % |
-
-moyenne |
-
-9315C |
-
-Réseau du Blanc Mesnil |
-
-LE BLANC-MESNIL |
-
-0,088 |
-
-0,107 |
-
-56,8 % |
-
-2021 |
-
-9316C |
-
-Réseau de Bondy |
-
-BONDY |
-
-0,102 |
-
-0,130 |
-
-54,4 % |
-
-2021 |
-
-9317C |
-
-Garonor |
-
-AULNAY-SOUS-BOIS |
-
-0,263 |
-
-0,309 |
-
-0,0 % |
-
-2021 |
-
-9322F |
-
-Stade Energies SAS |
-
-SAINT-DENIS |
-
-0,005 |
-
-0,012 |
-
-Non défini |
-
-2021 |
-
-9324C |
-
-Réseau de Rosny-sous-Bois/ Noisy-le-Sec/ Montreui |
-
-ROSNY-SOUS-BOIS |
-
-0,044 |
-
-0,045 |
-
-93,9 % |
-
-2021 |
-
-9326C |
-
-Réseau de chaleur de la ZAC des docks Saint-Ouen |
-
-SAINT-OUEN-SUR-SEINE |
-
-0,084 |
-
-0,108 |
-
-73,9 % |
-
-moyenne |
-
-9401C |
-
-Réseau de Limeil-Brévannes |
-
-LIMEIL-BREVANNES |
-
-0,068 |
+0,053 |
 
 0,089 |
 
-73,5 % |
+ND |
 
-moyenne |
+Moyenne |
 
-9402C |
+9311C |
 
-Réseaux de Créteil-Scuc |
+LE CHENE POINTU |
 
-CRETEIL |
+CLICHY-SOUS-BOIS |
 
-0,071 |
+0,238 |
 
-0,084 |
+0,317 |
 
-69,1 % |
+0,0 |
 
-2021 |
+2022 |
 
-9403C |
+9312C |
 
-Réseau de Choisy-Vitry |
+LE GROS SAULE |
 
-VITRY-SUR-SEINE |
+AULNAY-SOUS-BOIS |
+
+0,182 |
+
+0,232 |
+
+0,0 |
+
+2022 |
+
+9313C |
+
+RESEAU DE LA COURNEUVE |
+
+LA COURNEUVE |
+
+0,090 |
+
+0,097 |
+
+59,2 |
+
+2022 |
+
+9314C |
+
+RESEAU DE TREMBLAY EN FRANCE |
+
+TREMBLAY EN FRANCE |
+
+0,044 |
+
+0,062 |
+
+82,9 |
+
+2022 |
+
+9315C |
+
+RESEAU DU BLANC MESNIL |
+
+LE BLANC-MESNIL |
+
+0,090 |
+
+0,110 |
+
+55,5 |
+
+Moyenne |
+
+9316C |
+
+RESEAU DE BONDY |
+
+BONDY |
+
+0,116 |
+
+0,157 |
+
+46,0 |
+
+2022 |
+
+9317C |
+
+GARONOR |
+
+AULNAY-SOUS-BOIS |
+
+0,393 |
+
+0,403 |
+
+0,0 |
+
+2022 |
+
+9321C |
+
+AULNAY 3000-ROSE DES VENTS |
+
+AULNAY-SOUS-BOIS |
+
+0,186 |
+
+0,227 |
+
+0,0 |
+
+2022 |
+
+9322F |
+
+STADE ENERGIES SAS |
+
+SAINT-DENIS |
+
+0,006 |
+
+0,013 |
+
+ND |
+
+Moyenne |
+
+9324C |
+
+RESEAU DE ROSNY-SOUS-BOIS/ NOISY-LE-SEC/ MONTREUI |
+
+ROSNY-SOUS-BOIS |
+
+0,041 |
+
+0,039 |
+
+85,6 |
+
+Moyenne |
+
+9326C |
+
+RESEAU DE CHALEUR DE LA ZAC DES DOCKS SAINT-OUEN |
+
+SAINT-OUEN-SUR-SEINE |
+
+0,100 |
+
+0,123 |
+
+70,1 |
+
+Moyenne |
+
+9327C |
+
+OPH DE DRANCY |
+
+DRANCY |
+
+0,113 |
 
 0,137 |
 
+53,0 |
+
+2022 |
+
+9328C |
+
+RESEAU DE NOISY LE GRAND |
+
+NOISY LE GRAND |
+
+0,072 |
+
+0,087 |
+
+79,7 |
+
+2022 |
+
+9401C |
+
+RESEAU DE LIMEIL-BREVANNES |
+
+LIMEIL-BREVANNES |
+
+0,072 |
+
+0,094 |
+
+71,8 |
+
+Moyenne |
+
+9402C |
+
+RESEAUX DE CRETEIL-SCUC |
+
+CRETEIL |
+
+0,066 |
+
+0,076 |
+
+71,5 |
+
+2022 |
+
+9403C |
+
+RESEAU DE CHOISY-VITRY |
+
+VITRY-SUR-SEINE |
+
+0,136 |
+
 0,166 |
 
-64,2 % |
+63,3 |
 
-moyenne |
+Moyenne |
 
 9404C |
 
-Réseau de Fontenay-sous-Bois |
+RESEAU DE FONTENAY SOUS BOIS |
 
 FONTENAY-SOUS-BOIS |
 
-0,156 |
+0,170 |
 
-0,191 |
+0,205 |
 
-27,4 % |
+24,7 |
 
-2021 |
+2022 |
 
 9406C |
 
-Réseau de IVRY PORT |
+RESEAU DE IVRY PORT |
 
 IVRY-SUR-SEINE |
 
-0,070 |
+0,067 |
 
-0,096 |
+0,090 |
 
-76,0 % |
+77,9 |
 
-2021 |
+2022 |
 
 9408C |
 
-Marché International de Rungis |
+MARCHE INTERNATIONAL DE RUNGIS |
 
 RUNGIS |
 
-0,001 |
+0,006 |
 
-0,005 |
+0,011 |
 
-99,5 % |
+98,3 |
 
-2021 |
+Moyenne |
 
 9409C |
 
-Réseau de Sucy en Brie |
+RESEAU DE SUCY EN BRIE |
 
 SUCY-EN-BRIE |
 
-0,018 |
+0,008 |
 
-0,034 |
+0,024 |
 
-92,9 % |
+96,7 |
 
-moyenne |
+2022 |
 
 9410C |
 
-Réseau de Cachan |
+RESEAU DE CACHAN |
 
 CACHAN |
 
-0,080 |
+0,061 |
 
-0,099 |
+0,079 |
 
-66,6 % |
+73,4 |
 
-moyenne |
+2022 |
 
 9411C |
 
-Réseau de Champigny sur Marne |
+RESEAU DE CHAMPIGNY SUR MARNE |
 
 CHAMPIGNY-SUR-MARNE |
 
-0,060 |
+0,071 |
 
-0,083 |
+0,096 |
 
-70,2 % |
+75,0 |
 
-moyenne |
+2022 |
 
 9412C |
 
-Réseau de maisons-alfort |
+RESEAU DE MAISONS-ALFORT |
 
 MAISONS-ALFORT |
 
-0,095 |
+0,105 |
 
-0,115 |
+0,126 |
 
-59,4 % |
+55,6 |
 
-moyenne |
+Moyenne |
 
 9413C |
 
-Réseau de Thiais |
+RESEAU DE THIAIS |
 
 THIAIS |
 
-0,018 |
+0,024 |
 
-0,034 |
+0,040 |
 
-92,1 % |
+90,3 |
 
-2021 |
+Moyenne |
 
 9414C |
 
@@ -12212,129 +13126,129 @@ SETBO |
 
 BONNEUIL-SUR-MARNE |
 
-0,000 |
+0,009 |
 
-0,015 |
+0,025 |
 
-100,0 % |
+96,5 |
 
-2021 |
+Moyenne |
 
 9415C |
 
-Réseau de Chevilly-Larue L'Haÿ-les-Roses Villejuif |
+RESEAU DE CHEVILLY-LARUE L'HAŸ-LES-ROSES VILLEJUIF |
 
 CHEVILLY-LARUE |
 
-0,069 |
+0,058 |
 
-0,089 |
+0,077 |
 
-70,5 % |
+74,0 |
 
-moyenne |
+2022 |
 
 9419C |
 
-Réseau de Fresnes |
+RESEAU DE FRESNES |
 
 FRESNES |
 
-0,079 |
-
-0,101 |
-
-60,1 % |
-
-2021 |
-
-9420C |
-
-Réseau d'Orly |
-
-ORLY |
-
-0,066 |
-
-0,087 |
-
-74,5 % |
-
-moyenne |
-
-9421C |
-
-Réseau d'Alfortville |
-
-ALFORTVILLE |
-
-0,037 |
-
-0,054 |
-
-84,3 % |
-
-moyenne |
-
-9422C |
-
-Arcueil-Gentilly |
-
-ARCUEIL |
-
-0,047 |
-
-0,055 |
-
-80,5 % |
-
-moyenne |
-
-9423C |
-
-Réseau d'IVRY CENTRE VILLE |
-
-IVRY-SUR-SEINE |
-
-0,071 |
-
-0,102 |
-
-75,6 % |
-
-2021 |
-
-9424C |
-
-Réseau de Villeneuve Saint Georges |
-
-VILLENEUVE-SAINT-GEORGES |
-
-0,115 |
-
-0,160 |
-
-41,9 % |
-
-moyenne |
-
-9425C |
-
-Réseau chaud ADP Orly |
-
-ORLY |
+0,082 |
 
 0,103 |
 
-0,118 |
+62,0 |
 
-60,4 % |
+2022 |
 
-moyenne |
+9420C |
+
+RESEAU D'ORLY |
+
+ORLY |
+
+0,049 |
+
+0,067 |
+
+80,0 |
+
+2022 |
+
+9421C |
+
+RESEAU D'ALFORTVILLE |
+
+ALFORTVILLE |
+
+0,034 |
+
+0,051 |
+
+85,4 |
+
+Moyenne |
+
+9422C |
+
+ARCUEIL-GENTILLY |
+
+ARCUEIL |
+
+0,044 |
+
+0,047 |
+
+80,9 |
+
+2022 |
+
+9423C |
+
+RESEAU D'IVRY CENTRE VILLE |
+
+IVRY-SUR-SEINE |
+
+0,068 |
+
+0,095 |
+
+77,7 |
+
+2022 |
+
+9424C |
+
+RESEAU DE VILLENEUVE SAINT GEORGES-SCVG |
+
+VILLENEUVE-SAINT-GEORGES |
+
+0,088 |
+
+0,112 |
+
+59,6 |
+
+2022 |
+
+9425C |
+
+RESEAU CHAUD ADP ORLY |
+
+ORLY |
+
+0,081 |
+
+0,099 |
+
+61,8 |
+
+2022 |
 
 9425F |
 
-Réseau froid ADP Orly |
+RESEAU FROID ADP ORLY |
 
 ORLY |
 
@@ -12342,125 +13256,139 @@ ORLY |
 
 0,019 |
 
-Non défini |
+ND |
 
-moyenne |
+Moyenne |
 
-9428C |
+9429C |
 
-Champs sur Marne |
+MAISON ALFORT |
 
-CHAMPS SUR MARNE |
+ALFORTVILLE |
 
-0,040 |
+0,217 |
 
-0,059 |
+0,244 |
 
-88,5 % |
+0,0 |
 
-2021 |
+2022 |
+
+9430C |
+
+RESEAU ENERUNGIS |
+
+RUNGIS |
+
+0,014 |
+
+0,005 |
+
+99,6 |
+
+2022 |
 
 9501C |
 
-Zac Croix Rouge |
+IDEX CROIX ROUGE GEOTHERMIE |
 
 TAVERNY |
 
-0,100 |
+0,115 |
 
-0,212 |
+0,264 |
 
-22,4 % |
+0,0 |
 
-moyenne |
+2022 |
 
 9502C |
 
-Grand Ensemble Sarcelles-Locheres |
+GRAND ENSEMBLE SARCELLES-LOCHERES |
 
 SARCELLES |
 
-0,060 |
+0,062 |
 
-0,073 |
+0,076 |
 
-74,4 % |
+73,3 |
 
-2021 |
+Moyenne |
 
 9503C |
 
-Réseau de Cergy-Pontoise |
+RESEAU DE CERGY-PONTOISE |
 
 CERGY |
 
-0,102 |
+0,093 |
 
-0,121 |
+0,111 |
 
-65,4 % |
+65,1 |
 
-moyenne |
+Moyenne |
 
 9505C |
 
-Van Gogh |
+VAN GOGH |
 
 GARGES-LES-GONESSE |
 
-0,202 |
+0,217 |
 
-0,236 |
+0,250 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 9507C |
 
-Zup de Sannois-Ermont-Franconville |
+ZUP DE SANNOIS-ERMONT-FRANCONVILLE |
 
 FRANCONVILLE |
 
-0,088 |
+0,077 |
 
-0,113 |
+0,101 |
 
-61,9 % |
+67,1 |
 
-2021 |
+2022 |
 
 9509C |
 
-Réseau d'Argenteuil |
+RESEAU D'ARGENTEUIL |
 
 ARGENTEUIL |
 
-0,050 |
+0,054 |
 
-0,060 |
+0,064 |
 
-79,4 % |
+78,3 |
 
-moyenne |
+Moyenne |
 
 9510C |
 
-Réseaux chaud ADP Roissy |
+RESEAUX CHAUD ADP ROISSY |
 
 ROISSY-EN-FRANCE |
 
-0,223 |
+0,165 |
 
-0,252 |
+0,189 |
 
-11,6 % |
+21,6 |
 
-moyenne |
+2022 |
 
 9510F |
 
-Réseau froid ADP Roissy |
+RESEAU FROID ADP ROISSY |
 
 ROISSY-EN-FRANCE |
 
@@ -12468,83 +13396,83 @@ ROISSY-EN-FRANCE |
 
 0,020 |
 
-Non défini |
+ND |
 
-2021 |
+2022 |
 
 9511C |
 
-Zup de l'Epine Guyon |
+ZUP DE L'EPINE GUYON |
 
 FRANCONVILLE |
 
-0,184 |
+0,218 |
 
-0,234 |
+0,274 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 9514C |
 
-Réseau de Villiers le Bel-Gonesse |
+RESEAU DE VILLIERS LE BEL-GONESSE |
 
 VILLIERS-LE-BEL |
 
-0,089 |
+0,097 |
 
-0,109 |
+0,118 |
 
-59,8 % |
+56,8 |
 
-moyenne |
+Moyenne |
 
 9515C |
 
-Réseau de Pontoise |
+RESEAU DE PONTOISE |
 
 PONTOISE |
 
-0,189 |
+0,210 |
 
-0,234 |
+0,252 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 9516C |
 
-Zac de Montedour |
+ZAC DE MONTEDOUR |
 
 FRANCONVILLE |
 
-0,226 |
+0,221 |
 
-0,254 |
+0,249 |
 
-0,0 % |
+0,0 |
 
-2021 |
+2022 |
 
 9518C |
 
-Réseau de Goussainville |
+RESEAU DE GOUSSAINVILLE |
 
 GOUSSAINVILLE |
 
-0,035 |
+0,018 |
 
-0,043 |
+0,024 |
 
-85,3 % |
+90,6 |
 
-moyenne |
+2022 |
 
 9519C |
 
-Placo |
+" PLACO " |
 
 ARGENTEUIL |
 
@@ -12552,17 +13480,45 @@ ARGENTEUIL |
 
 0,004 |
 
-100 % |
+100,0 |
 
-2021 |
+2022 |
 
-AUTRES RÉSEAUX DE CHALEUR |
+9520C |
+
+RESEAU DE VEMARS |
+
+VEMARS |
+
+0,278 |
+
+0,312 |
+
+0,0 |
+
+2022 |
+
+9521C |
+
+LES CHENES |
+
+ERMONT |
+
+0,212 |
+
+0,239 |
+
+0,0 |
+
+2022 |
+
+AUTRES RESEAUX DE CHALEUR |
 
 |
 
 0,385 |
 
-0 % |
+0,0 |
 
 |
 
@@ -12578,4 +13534,4 @@ AUTRES RÉSEAUX DE FROID |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 16 mars 2023 (NOR : ENER2301915A), ces dispositions entrent en vigueur un mois après la publication dudit arrêté.
+Conformément à l'article 2 de l'arrêté du 5 juillet 2024 (NOR : TRER2416274A), ces dispositions entrent en vigueur un mois après la publication dudit arrêté, soit le 10 août 2024.
