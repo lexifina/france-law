@@ -1588,6 +1588,66 @@ Encadrement, animation, enseignement et entraînement du ski nordique de fond et
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
+Diplôme d'Etat d'alpinisme-guide de haute montagne, jusqu'au 21 juillet 2024 (**).
+
+|
+
+Conduite et accompagnement de personnes dans des excursions ou des ascensions de montagne en rocher, neige, glace et terrain mixte.
+
+Conduite et accompagnement de personnes dans des excursions de ski de randonnée, ski alpinisme et en ski hors-pistes.
+
+Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski alpinisme et ski hors-pistes.
+
+Entraînement aux pratiques de compétition dans les disciplines précitées.
+
+Enseignement et entraînement de l'escalade pratiquée en environnement spécifique et hors environnement spécifique.
+
+|
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
+
+|
+
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " milieu montagnard enneigé ", jusqu'au 30 juin 2024 (**).
+
+|
+
+Encadrement, conduite, animation, enseignement, entraînement en randonnée pédestre et activités assimilées en moyenne montagne ainsi qu'en terrain enneigé sur des reliefs vallonnés excluant tout accident de terrain important.
+
+|
+
+A l'exclusion :
+
+-des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+
+-de la pratique de toutes les disciplines du ski et activités dérivées, à l'exception de la raquette à neige ;
+
+-de l'exercice professionnel dans les régions à climat tropical et équatorial, en périodes de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
+
+|
+
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " milieu montagnard tropical et équatorial ", jusqu'au 30 juin 2024 (**).
+
+|
+
+Encadrement, conduite, animation, enseignement, entraînement en randonnée pédestre et activités assimilées en moyenne montagne ainsi que dans les régions à climat tropical et équatorial en périodes de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés.
+
+|
+
+A l'exclusion :
+
+-des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+
+-des terrains enneigés.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
+
+|
+
 D.-Titres à finalité professionnelle
 
 D-1.-Titres à finalité professionnelle délivrés par le ministère chargé de la défense
