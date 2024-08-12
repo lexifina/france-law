@@ -662,63 +662,33 @@ B
 
 |
 
-Direction départementale des territoires de la Dordogne
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES DE LA DORDOGNE
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification de l'emploi |
 
-NIVEAU
+Nombre
 
-de qualification
+d'emplois |
 
-de l'emploi
+Nombre de points (IM) par emploi |
 
-|
+Chef du pôle logement construction - Service aménagement et développement durable |
 
-NOMBRE
+A |
 
-d'emplois
+1 |
 
-|
+25 |
 
-NOMBRE DE POINTS (IM)
+Chef de mission parc public - pôle logement construction - Service aménagement et développement durable |
 
-par emploi
+A |
 
-|
+1 |
 
-Chef du pôle logement construction-Service aménagement et développement durable
-
-|
-
-A
-
-|
-
-1
-
-|
-
-25
-
-|
-
-Chef de cellule documents stratégiques et ville durable-Pôle urbanisme, aménagement et ville durable-Service aménagement et développement durable
-
-|
-
-A
-
-|
-
-1
-
-|
-
-25
-
-|
+25 |
 
 Direction départementale des territoires du Doubs (8)
 
