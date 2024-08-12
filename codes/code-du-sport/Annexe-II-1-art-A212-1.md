@@ -498,22 +498,6 @@ ALPINISME-ENVIRONNEMENT SPÉCIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-Diplôme d'Etat d'alpinisme-guide de haute montagne, jusqu'au 21 juillet 2024 (**). |
-
-6 |
-
-Conduite et accompagnement de personnes dans des excursions ou des ascensions de montagne en rocher, neige, glace et terrain mixte.
-
-Conduite et accompagnement de personnes dans des excursions de ski de randonnée, ski alpinisme et en ski hors-pistes.
-
-Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski alpinisme et ski hors-pistes.
-
-Entraînement aux pratiques de compétition dans les disciplines précitées.
-
-|
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
-
 Diplôme d'Etat d'alpinisme-guide de haute montagne et activités assimilées, jusqu'au 1er mars 2028 (**). |
 
 6 |
@@ -557,40 +541,6 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une 
 ACTIVITÉS DE RANDONNÉE EN MOYENNE MONTAGNE |
 
 Diplômes délivrés par le ministère chargé des sports |
-
-Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " milieu montagnard enneigé ", jusqu'au 30 juin 2024 (**). |
-
-5 |
-
-Encadrement, conduite, animation, enseignement, entraînement en randonnée pédestre et activités assimilées en moyenne montagne ainsi qu'en terrain enneigé sur des reliefs vallonnés excluant tout accident de terrain important. |
-
-A l'exclusion :
-
-- des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
-
-- de la pratique de toutes les disciplines du ski et activités dérivées, à l'exception de la raquette à neige ;
-
-- de l'exercice professionnel dans les régions à climat tropical et équatorial, en périodes de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
-
-|
-
-Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " milieu montagnard tropical et équatorial ", jusqu'au 30 juin 2024 (**). |
-
-5 |
-
-Encadrement, conduite, animation, enseignement, entraînement en randonnée pédestre et activités assimilées en moyenne montagne ainsi que dans les régions à climat tropical et équatorial en périodes de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés. |
-
-A l'exclusion :
-
-- des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
-
-- des terrains enneigés.
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau.
-
-|
 
 Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " concevoir, conduire en sécurité et évaluer une randonnée en milieu montagnard enneigé pour tout public ", délivré jusqu'au 8 janvier 2029 (**). |
 
@@ -709,6 +659,20 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 AÏKIDO, AÏKIBUDO
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
+
+|
+
+Certificat de qualification délivrés par la Commission paritaire nationale emploi formation du sport
+
+|
+
+CQP moniteur d'arts martiaux option aïkido, aïkibudo et disciplines associées, du 31 mai 2024 au 31 mai 2027 (**).
+
+|
+
+3 |
+
+Conduite de séances de découverte et d'initiation des activités d'aïkido, aïkibudo et disciplines associées. |
 
 |
 
@@ -1694,14 +1658,6 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une 
 
 |
 
-Diplôme d'Etat d'alpinisme-guide de haute montagne, délivré jusqu'au 1er juillet 2024 (**). |
-
-6 |
-
-Enseignement et entraînement de l'escalade pratiquée en environnement spécifique et hors environnement spécifique. |
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
-
 Diplôme d'Etat d'alpinisme-guide de haute montagne et activités assimilées, du 1er mars 2024 au 1er mars 2028 (**). |
 
 |
@@ -2204,6 +2160,16 @@ Conduite de séances d'animation, de cycles d'initiation et d'apprentissage en h
 
 |
 
+Entraîneur de handball, du 27 juin 2024 au 27 juin 2027 (**).
+
+|
+
+5 |
+
+Conduite de séances et de cycles de séances d'enseignement et d'entraînement en handball. |
+
+|
+
 Entraineur de handball du secteur professionnel mention entraineur professionnel, délivré du 26 avril 2024 au 26 avril 2027(**). |
 
 6 |
@@ -2323,6 +2289,30 @@ Entrainement en hockey sur glace pour un public de moins de treize ans. |
 JUDO-JUJITSU
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
+
+|
+
+Certificat de qualification délivrés par la Commission paritaire nationale emploi formation du sport
+
+|
+
+CQP moniteur d'arts martiaux option judo, du 31 mai 2024 au 31 mai 2027 (**).
+
+|
+
+3 |
+
+Conduite de séances de découverte et d'initiation des activités du judo. |
+
+|
+
+CQP moniteur d'arts martiaux option jiu-jitsu brésilien, du 31 mai 2024 au 31 mai 2027 (**).
+
+|
+
+3 |
+
+Conduite de séances de découverte et d'initiation des activités du jiu-jitsu brésilien. |
 
 |
 
@@ -3068,11 +3058,11 @@ Sous réserve de la présentation du certificat d'aptitude à l'exercice de la p
 
 Titre à finalité professionnelle délivré par la Fédération française de natation |
 
-Moniteur sportif de natation, délivré jusqu'au 5 juillet 2024. |
+Moniteur sportif de natation, jusqu'au 31 mai 2029 (**). |
 
 4 |
 
-Encadrement de séances d'apprentissage de la natation et de séances d'entraînement en natation. |
+Conduite de séances d'apprentissage de la natation et de séances d'entraînement en natation. |
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
@@ -3351,6 +3341,20 @@ RUGBY
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
 
 |
+
+Certificat de qualification délivrés par la Commission paritaire nationale emploi formation du sport
+
+|
+
+CQP technicien sportif de rugby à XV, du 31 mai 2024 au 31 mai 2027 (**).
+
+|
+
+4 |
+
+Conduite de séances d'entraînement en rugby à XV |
+
+A partir de la catégorie des moins de 14 ans. |
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
 
@@ -3646,27 +3650,33 @@ A l'exclusion de la compétition y compris la préparation |
 
 CC " encadrer des activités de sport automobile de loisir ou émergentes " associé à :
 
-- l'option A : " perfectionnement au pilotage " de la mention " sport automobile " du BPJEPS spécialité " éducateur sportif " ;
+-l'option A : " perfectionnement au pilotage " de la mention " sport automobile " du BPJEPS spécialité " éducateur sportif " ;
 
-- l'option B : " karting " de la mention " sport automobile " du BPJEPS spécialité " éducateur sportif " ;
+-l'option B : " karting " de la mention " sport automobile " du BPJEPS spécialité " éducateur sportif " ;
 
-- la mention " perfectionnement du pilotage " du BPJEPS spécialité " sport automobile " ;
+-la mention " perfectionnement du pilotage " du BPJEPS spécialité " sport automobile " ;
 
-- la mention " circuit " du BPJEPS spécialité " sport automobile " ;
+-la mention " circuit " du BPJEPS spécialité " sport automobile " ;
 
-- la mention " rallye " du BPJEPS spécialité " sport automobile " ;
+-la mention " rallye " du BPJEPS spécialité " sport automobile " ;
 
-- la mention " karting " du BPJEPS spécialité " sport automobile "
-
-|
+-la mention " karting " du BPJEPS spécialité " sport automobile ". |
 
 |
 
-Animation de séances et de cycles de découverte, d'initiation ou d'apprentissage à la conduite de véhicules de catégorie Kart B1/B2 ou tout-terrain type Sprintcar ou SSV, sur un circuit automobile revêtu homologué.
+Animation de séances et de cycles de découverte, d'initiation ou d'apprentissage à la conduite de véhicules :
+
+-Karts loisirs B1/ B2, sur des circuits non revêtus homologués conformément aux règles techniques et de sécurité (RTS) de la discipline ;
+
+-Sprint-car homologués par la Fédération française de sport automobile correspondant aux divisions " junior sprint " et " maxi sprint ", sur circuits non revêtus homologués conformément aux RTS de la discipline ;
+
+-SSV homologués par la Fédération française de sport automobile, sur circuits non revêtus homologués conformément aux RTS de la discipline ;
+
+-SSV route ayant reçu une homologation permettant d'évoluer sur route ouverte à la circulation, sur circuits non revêtus homologués ou parcours non revêtus conformément aux RTS de la discipline ou sur route ouverte à la circulation conformément à l'article R. 221-1 du code de la route.
 
 |
 
-A l'exclusion de la compétition y compris la préparation. |
+A l'exclusion de la compétition y compris la préparation |
 
 SPORTS BOULES
 
@@ -4021,6 +4031,20 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 TAEKWONDO
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
+
+|
+
+Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport
+
+|
+
+CQP moniteur d'arts martiaux option taekwondo et disciplines associées, du 31 mai 2024 au 31 mai 2027 (**).
+
+|
+
+3 |
+
+Conduite de séances de découverte et d'initiation des activités du taekwondo et disciplines associées. |
 
 |
 
@@ -4496,7 +4520,9 @@ Encadrement et conduite de séances d'entraînement d'activités de vol en souff
 
 VOL LIBRE ENVIRONNEMENT SPÉCIFIQUE (à l'exception de l'activité de cerf-volant acrobatique et de combat) |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " vol libre " option " deltaplane ", délivré jusqu'au 1er mai 2028. |
+DE JEPS, spécialité " perfectionnement sportif " mention " vol libre " option " deltaplane ", délivré jusqu'au 1er mai 2028.
+
+|
 
 5 |
 
@@ -4574,13 +4600,11 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une 
 
 CC " enseignement en milieu aménagé " associé au :
 
-- DE JEPS spécialité
+-DE JEPS spécialité " perfectionnement sportif " mention " parapente " ou mention " vol libre " option " parapente "
 
-" perfectionnement sportif " mention " parapente "
+-DES JEPS spécialité " performance sportive " mention " parapente " ou mention " vol libre " option " parapente "
 
-- DES JEPS spécialité
-
-" performance sportive " mention " parapente " |
+|
 
 |
 
@@ -4641,6 +4665,30 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 WUSHU
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
+
+|
+
+Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport
+
+|
+
+CQP moniteur d'arts martiaux option arts énergétiques chinois, du 31 mai 2024 au 31 mai 2027 (**).
+
+|
+
+3 |
+
+Conduite de séances de découverte et d'initiation des activités d'arts énergétiques chinois. |
+
+|
+
+CQP moniteur d'arts martiaux option arts martiaux chinois internes et externes, du 31 mai 2024 au 31 mai 2027 (**).
+
+|
+
+3 |
+
+Conduite de séances de découverte et d'initiation des activités d'arts martiaux chinois internes et externes. |
 
 |
 
