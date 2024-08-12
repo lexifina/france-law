@@ -22,6 +22,8 @@ Directeur zonal de la police nationale à Lille.
 
 Directeur interdépartemental de la police nationale à Marseille.
 
+Directeur interdépartemental de la police nationale à Lille.
+
 Directeur interdépartemental de la police nationale à Lyon.
 
 Chef d'état-major de la police nationale.
@@ -155,8 +157,6 @@ Directeur interdépartemental de la police nationale à Nantes.
 Directeur interdépartemental de la police nationale à Nancy.
 
 Directeur interdépartemental de la police nationale à Metz.
-
-Directeur interdépartemental de la police nationale à Lille.
 
 Directeur interdépartemental de la police nationale à Beauvais.
 
@@ -320,4 +320,4 @@ Directeur de l'école nationale supérieure de la police.
 
 NOTA :
 
-Conformément à l’article 2 de l'arrêté du 19 juin 2024 (NOR : IOMC2415314A), ces dispositions entrent en vigueur à compter du premier jour du mois suivant sa publication au Journal officiel de la République française, à savoir le 1er juillet 2024.
+Conformément à l’article 3 de l'arrêté du 2 août 2024 (NOR : IOMC2421103A), ces dispositions entrent en vigueur le 12 août 2024.
