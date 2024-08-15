@@ -14,21 +14,19 @@ Productions |
 
 Conduite et gestion de l'entreprise vitivinicole |
 
-Conduite et gestion d'une entreprise du secteur canin et félin |
+Conduite d'activités d'élevage et d'hébergement dans le secteur canin-félin |
 
-Productions aquacoles |
+Conduite de productions aquacoles |
 
 Conduite et gestion de l'entreprise hippique |
 
-Conduite de productions horticoles
-
-(arbres, arbustes, fruits, fleurs, légumes) |
+Conduite de productions horticoles (arbres, arbustes, fruits, fleurs, légumes) |
 
 Agroéquipement |
 
 Aménagements paysagers |
 
-Nature ― Jardin ― Paysage ― Forêt |
+Nature-Jardin-Paysage-Forêt |
 
 Forêt |
 
@@ -38,12 +36,14 @@ Technicien conseil vente en animalerie |
 
 Conseil vente |
 
-Technicien conseil vente en alimentation |
+Technicien conseil vente en alimentation (produits alimentaires et boissons) |
 
-Technicien conseil vente en produits de jardin |
+Technicien conseil vente univers jardinerie |
 
-Bio-industries de transformation |
+Production en industries pharmaceutiques, alimentaires et cosmétiques (*) |
 
 Alimentation-Bio-industrie-Laboratoire |
 
 Laboratoire contrôle qualité |
+
+(*) Cette spécialité du baccalauréat professionnel relève également d'un champ professionnel défini par arrêté du ministre de l'éducation nationale.
