@@ -4,47 +4,43 @@ PROCÈS-VERBAL DE LA COMMISSION DE RÉFORME DES MILITAIRES
 
 La commission de réforme des militaires, composée des membres ci-après :
 
-(1) ..........................., président ;
+(1), président ;
 
-(1) ..........................., assesseur ;
+(1), assesseur ;
 
-(1) ..........................., représentant de l'autorité militaire,
+(1), représentant de l'autorité militaire,
 
-s'est réunie à .....................(lieu de la réunion), le ......................,
+s'est réunie à (lieu de la réunion), le,
 
 afin de donner son avis sur :
 
-- l'inaptitude physique définitive du (1) ....................................
+- l'inaptitude médicale définitive du (1)
 
 susceptible de faire l'objet d'une décision de réforme définitive ;
 
-- l'aptitude physique du (1) .............................
+- l'aptitude médicale du (1)
 
 à l'exercice effectif des fonctions afférentes aux emplois de son grade ou aux emplois pour lesquels il demande son engagement (2).
 
-La commission est d'avis que le (1) .................................:
+La commission est d'avis que le (1) :
 
-- ne présente pas l'aptitude physique nécessaire à l'exercice effectif des fonctions afférentes aux emplois de son grade ;
+- ne présente pas l'aptitude médicale nécessaire à l'exercice effectif des fonctions afférentes aux emplois de son grade :
+
+- inaptitude médicale sans infirmité constatée : OUI-NON (2) ;
 
 - doit être ajourné pour qu'il soit procédé à des examens médicaux supplémentaires ;
 
-- présente l'aptitude physique nécessaire à l'exercice effectif des fonctions afférentes aux emplois de son grade ou aux emplois pour lesquels il demande son engagement (2).
+- présente l'aptitude médicale nécessaire à l'exercice effectif des fonctions afférentes aux emplois de son grade ou aux emplois pour lesquels il demande son engagement (2).
 
-Observations : intéressé présent - absent (2).
+Observations : intéressé présent-absent (2).
 
-Signature des membres
+Signature des membres :
 
-Président.
+Président. |
 
-|
+Assesseur. |
 
-Assesseur.
-
-|
-
-Représentant de l'autorité militaire
-
-|
+Représentant de l'autorité militaire |
 
 (1) Grade, nom, prénoms.
 

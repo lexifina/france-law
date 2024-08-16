@@ -1,33 +1,31 @@
 # Article Annexe II
 
-FICHE INDIVIDUELLE DE PRÉSENTATION DEVANT LA COMMISSION DE RÉFORME
+FICHE INDIVIDUELLE DE PRÉSENTATION DEVANT LA COMMISSION DE RÉFORME DES MILITAIRES AVANT UNE DÉCISION DE RÉFORME DÉFINITIVE
 
-DES MILITAIRES AVANT UNE DÉCISION DE RÉFORME DÉFINITIVE
+Le (nom, prénoms et qualité),
 
-Le (nom, prénoms et qualité) .......................,
+né à, le,
 
-né à ................., le .......................,
+Numéro national d'identité :,
 
-Numéro national d'identité : .............................,
+Identifiant défense :,
 
-Identifiant défense : ............................,
+domicilié à :,
 
-domicilié à : .............................,
+Formation de rattachement :,
 
-Formation de rattachement : ..........................,
+Situation au regard du statut général des militaires (1) :,
 
-Situation au regard du statut général des militaires (1) : ..........................,
+Position actuelle (nature du congé) :,
 
-Position actuelle (nature du congé) : ...........................,
-
-dont l'inaptitude physique définitive au service a été constatée par (2) .................................,
+dont l'inaptitude médicale définitive au service a été constatée par (2),
 
 est présenté devant la commission de réforme des militaires avant l'intervention à son égard d'une décision de réforme définitive.
 
-Observations éventuelles : ....................................
+Observations éventuelles :
 
-Signature et cachet du commandant
+Signature et cachet du commandant de la formation administrative :
 
-de la formation administrative
+(1) Militaire de carrière, militaire sous contrat, militaire servant à titre étranger …
 
-(1) Militaire de carrière, militaire sous contrat, militaire servant à titre étranger... (2) Indiquer la nature et la date du document médical joint à la fiche.
+(2) Indiquer la nature et la date du document médical joint à la fiche.
