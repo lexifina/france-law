@@ -28,7 +28,7 @@ Chef du bureau des villes et territoires durables |
 
 ICTPE 2 |
 
-Chef du bureau du développement de l'offre de logement social et intermédiaire (à compter du 16/05/2024) |
+Chef du bureau du développement de l'offre de logement social et intermédiaire |
 
 ICTPE 2 |
 
@@ -50,9 +50,9 @@ ICTPE 2 |
 
 Direction générale de l'aviation civile |
 
-Direction du Transport Aérien |
+Direction du transport aérien |
 
-Chargé de mission pour le renouvellement des concessions aéroportuaires auprès du sous-directeur des aéroports (à compter du 01/03/2024) |
+Chargé de mission pour le renouvellement des concessions aéroportuaires auprès du sous-directeur des aéroports |
 
 ICTPE 2 |
 
@@ -94,27 +94,21 @@ Adjoint au chef de département territorial sud-ouest en charge du pôle de Bord
 
 ICTPE 2 |
 
-Adjoint au chef du département ingénierie infrastructures |
+Adjoint au chef de département Ingénierie bâtiment (à compter du 01/10/2024) |
 
 ICTPE 2 |
 
-Adjoint au chef de la mission gestion du patrimoine immobilier |
+Adjoint au chef du département programmation, environnement, aménagement (à compter du 01/01/2024) |
 
 ICTPE 2 |
 
-Service Technique de l'Aviation Civile |
+Service technique de l'aviation civile |
 
 Directeur de projet AMO et expertises auprès du chef du département structures et adhérences |
 
 ICTPE 2 |
 
 Direction générale de la prévention des pollutions et des risques |
-
-Service central d'hydrométéorologie et d'appui à la prévision des inondations |
-
-Chef du pôle Système d'information au SCHAPI |
-
-ICTPE 2 |
 
 Service des risques naturels et hydrauliques |
 
@@ -136,9 +130,15 @@ ICTPE 1 |
 
 Direction générale des affaires maritimes, de la pêche et de l'aquaculture |
 
-Mission Vie Des Services Et Ressources Humaines |
+Sous-direction de la Transformation numérique |
 
-Adjoint au chef de mission MVSRH et chef de bureau RH et logistique (à compter du 01/02/2024) |
+Chef de bureau de l'Hébergement des systèmes et de l'assistance Informatique (à compter du 01/11/2024) |
+
+ICTPE 2 |
+
+Mission vie des services et ressources humaines |
+
+Adjoint au chef de mission MVSRH et chef de bureau RH et logistique |
 
 ICTPE 2 |
 
@@ -164,15 +164,19 @@ Chargé de mission avis et contrôle externe équipements |
 
 ICTPE 1 |
 
-Chargé de mission Transition dans les Pratiques et Développement Durable |
+Chargé de mission transition dans les pratiques et développement durable |
 
 ICTPE 2 |
 
-Chef du pôle Ventilation Environnement (à compter du 01/01/2024) |
+Chef du pôle ventilation environnement |
 
 ICTPE 2 |
 
 Direction des mobilités routières |
+
+Inspecteur général des routes, responsable du pôle Nord-Ouest (à compter du 16/09/2024) |
+
+ICTPE 1 |
 
 Chef du bureau des transports publics particuliers de personnes |
 
@@ -182,15 +186,11 @@ Chef du bureau programmation et modernisation du réseau routier national |
 
 ICTPE 2 |
 
-Chef du bureau de l'exploitation routière, de la sécurité et de l'appui aux services |
-
-ICTPE 2 |
-
 Chef du bureau de l'information routière et des systèmes d'information, en charge des systèmes d'information |
 
 ICTPE 2 |
 
-Chef du Pôle véhicule automatisé |
+Chef du pôle véhicule automatisé |
 
 ICTPE 2 |
 
@@ -198,7 +198,7 @@ Chargé de mission d'audit, adjoint au chef du pôle de Lyon |
 
 ICTPE 1 |
 
-Chargé de mission, coordinateur Aménagement urbain (à compter du 01/01/2024) |
+Chargé de mission, coordinateur aménagement urbain |
 
 ICTPE 2 |
 
@@ -222,15 +222,11 @@ ICTPE 2 |
 
 Service technique des remontées mécaniques et des transports guidés |
 
-Adjoint au directeur en charge des bureaux et de la normalisation |
+Chef du département des installations de transport par câbles |
 
 ICTPE 1 |
 
-Chef du département des installations de transport par Câbles |
-
-ICTPE 1 |
-
-Chef du département Transports Publics Automatisés |
+Chef du département transports publics automatisés |
 
 ICTPE 1 |
 
@@ -238,7 +234,7 @@ Chef du département métros et systèmes ferroviaires |
 
 ICTPE 2 |
 
-Chargé de missions sûreté et développement durable (à compter du 01/01/2024) |
+Chargé de missions sûreté et développement durable |
 
 ICTPE 2 |
 
@@ -248,17 +244,21 @@ ICTPE 2 |
 
 Sous-direction de la multimodalité, de l'innovation, du numérique et des territoires |
 
+Directeur de projet transformation numérique (à compter du 02/05/2024) |
+
+ICTPE 2 |
+
 Chef du pôle territoires |
 
 ICTPE 1 |
 
-Chargé de mission Transports de marchandises et logistique |
+Chargé de mission transports de marchandises et logistique |
 
 ICTPE 2 |
 
 Inspection générale de l'Environnement et du Développement durable |
 
-Section Ressources Humaines et Moyens |
+Secrétariat général |
 
 Chef du bureau des systèmes d'information |
 
@@ -272,13 +272,13 @@ Chef du bureau de l'administration exemplaire |
 
 ICTPE 2 |
 
-Chef de la mission SI achat et portail des achats (à compter du 01/03/2024) |
+Chef de la mission SI achat et portail des achats |
 
 ICTPE 2 |
 
-Adjoint au chef du département de l'immobilier opérationnel de l'administration centrale |
+Adjoint au chef du département de l'immobilier opérationnel de l'administration centrale (à compter du 01/01/2024) |
 
-ICTPE 2 |
+ICTPE 1 |
 
 Direction des ressources humaines |
 
@@ -298,11 +298,19 @@ Directeur du CVRH de Toulouse |
 
 ICTPE 1 |
 
-Adjoint au directeur CVRH Arras et Responsable du DCFP |
+Directeur du centre d'évaluation, de documentation et d'innovation pédagogiques (à compter du 16/09/2024) |
 
 ICTPE 2 |
 
-Adjoint au directeur du CVRH d'Aix-en-Provence, Chargé du pilotage du conseil aux services et de l'innovation |
+Adjoint au directeur du CVRH d'Arras-Valenciennes-Site de Valenciennes (à compter du 01/10/2023) |
+
+ICTPE 2 |
+
+Adjoint au directeur du CVRH d'Arras-Valenciennes et chef de département formation |
+
+ICTPE 2 |
+
+Directeur adjoint du CVRH d'Aix-en-Provence |
 
 ICTPE 2 |
 
@@ -310,11 +318,7 @@ Directeur adjoint du CVRH Clermont-Ferrand |
 
 ICTPE 2 |
 
-Chef du bureau des personnels techniques de catégorie A et de recherche |
-
-ICTPE 2 |
-
-Chef du bureau des référentiels transverses et des systèmes de gestion (à compter du 01/01/2024) |
+Chef du bureau des référentiels transverses et des systèmes de gestion |
 
 ICTPE 2 |
 
@@ -352,12 +356,24 @@ Adjoint au chef du département des services de proximité |
 
 ICTPE 2 |
 
-Adjoint au chef du département produits numériques des métiers 1-Route et statistique (à compter du 01/01/2024) |
+Adjoint au chef du département produits numériques des métiers 1-Route et statistique |
 
 ICTPE 2 |
 
-Service du pilotage de l'évolution des services |
+Adjoint au chef du département produits numériques des métiers 3-Fonctions support RH (à compter du 01/01/2024) |
 
-Chef de projets innovation pour les transitions |
+ICTPE 2 |
+
+Adjoint au chef du département et suivi plan de transformation numérique (à compter du 01/01/2024) |
+
+ICTPE 2 |
+
+Responsable technique au sein de la mission appui à l'innovation (à compter du 01/01/2024) |
+
+ICTPE 2 |
+
+Service du haut fonctionnaire de défense et de sécurité |
+
+Chef de la mission de veille opérationnelle et d'Alerte-Centre ministériel de veille opérationnelle et d'alerte (à compter du 01/01/2024) |
 
 ICTPE 2 |
