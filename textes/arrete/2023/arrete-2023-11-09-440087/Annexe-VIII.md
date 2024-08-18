@@ -12,11 +12,11 @@ Voie BTSA et BTS |
 
 Epreuve |
 
-DUREE |
+DURÉE |
 
 COEFFICIENTS |
 
-DUREE |
+DURÉE |
 
 COEFFICIENTS |
 
@@ -28,7 +28,7 @@ Sélection sur dossier |
 
 / |
 
-2 (*) |
+2 |
 
 Epreuve écrite d'analyse et de synthèse de documents techniques et scientifiques |
 
@@ -59,8 +59,6 @@ Total |
 |
 
 3 |
-
-(*) La sélection sur dossier de la voie " BTSA et BTS " comprend une sélection à partir la moyenne des notes d'anglais des trois premiers semestres du BTSA, du BTS ou du BTSM qui peut être supérieure à un niveau éliminatoire fixé par le règlement du concours.
 
 Epreuves d'admission
 

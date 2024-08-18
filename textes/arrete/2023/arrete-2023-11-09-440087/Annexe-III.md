@@ -63,3 +63,5 @@ LISTE DES DIPLÔMES REQUIS POUR L'ACCÈS AUX ÉCOLES NATIONALES VÉTÉRINAIRES P
 -diplôme relevant du ministère chargé de l'écologie :
 
 -brevet de technicien supérieur maritime (BTSM), spécialité Pêche et gestion de l'environnement marin.
+
+Les candidats dont le diplôme ne correspond pas à cette liste peuvent faire valoir leur droit à demande de validation des études supérieures, conformément à l'article 9.

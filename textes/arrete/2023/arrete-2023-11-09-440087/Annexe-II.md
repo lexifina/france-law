@@ -31,3 +31,5 @@ LISTE DES MENTIONS DE LICENCE PROFESSIONNELLE, ISSUES DE L'ARRÊTÉ DU 27 MAI 20
 -productions végétales ;
 
 -valorisation des agro-ressources.
+
+Les candidats dont le diplôme ne correspond pas à cette liste peuvent faire valoir leur droit à demande de validation des études supérieures, conformément à l'article 9.
