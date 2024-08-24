@@ -366,7 +366,7 @@ F. - Emplois relevant du groupe 4 :
 
 10° Directeur de l'établissement du service d'infrastructure de la défense de Metz ;
 
-11° Directeur de l'établissement du service d'infrastructure de la défense de Rennes ;
+11° Directeur adjoint " opérations " du service d'infrastructure de la défense ;
 
 12° Directeur de l'établissement du service d'infrastructure de la défense de Bordeaux ;
 
@@ -408,7 +408,7 @@ F. - Emplois relevant du groupe 4 :
 
 31° Chargé des fonctions de sous-directeur de l'exploitation à la direction du renseignement militaire ;
 
-32° Chargé des fonctions de sous-directeur " appui " à la direction du renseignement militaire ;
+32° Chargé des fonctions de sous-directeur " capacités " à la direction du renseignement militaire ;
 
 33° Chargé des fonctions de sous-directeur technique de la direction du renseignement militaire ;
 
@@ -666,6 +666,8 @@ G. - Emplois relevant du groupe 5 :
 
 36° Directeur adjoint du centre interarmées de concepts, de doctrines et d'expérimentations ;
 
+37° (Transféré) ;
+
 38° Adjoint au sous-directeur " opérations " de la direction de la maintenance aéronautique et commandant de la marine à Bordeaux ;
 
 39° Chargé des fonctions de sous-directeur systèmes et techniques du maintien en condition opérationnelle aéronautique de la direction de la maintenance aéronautique ;
@@ -836,4 +838,4 @@ G. - Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 29 juillet 2024 (NOR : ARMH2421078A), ces dispositions entrent en vigueur le 1er août 2024.
+Conformément à l’article 5 de l’arrêté du 19 août 2024 (NOR : ARMH2422604A), ces dispositions sont applicables aux rémunérations versées à compter du mois d'août 2024.
