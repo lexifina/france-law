@@ -50,6 +50,8 @@ Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRE
 
 - Rénovation d’éclairage extérieur / Fiche d’opération n° RES-EC-104
 
+Conformément à l’article 2 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d’opération n° RES-EC-104 remplace, à compter du 1er janvier 2025, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
+
 - Horloge astronomique pour l’éclairage extérieur / Fiche d’opération n° RES-EC-107 (Abrogée à compter du 1er janvier 2022)
 
 Conformément à l’article 1er de l’arrêté du 13 juin 2023 (NOR : ENER2313571A), la fiche d'opération standardisée d'économies d'énergie est remplacée, à compter du 1er octobre 2023, par la fiche portant les mêmes références en annexe 5 dudit arrêté.
