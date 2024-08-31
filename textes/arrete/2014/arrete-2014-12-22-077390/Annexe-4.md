@@ -102,6 +102,18 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 
 - Freecooling par eau de refroidissement en substitution d’un groupe froid / Fiche d’opération standardisée n° IND-UT-135
 
+- Mise en place d'un système de pompe(s) à chaleur en rehausse de température de chaleur fatale récupérée / Fiche d’opération standardisée n° IND-UT-137
+
+Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée, à compter du 1er janvier 2025, par la fiche d'opération standardisée figurant à l'annexe G du l'arrêté précité.
+
+- Conversion de chaleur fatale en électricité ou en air comprimé / Fiche d'opération standardisée n° IND-UT-138
+
+Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée, à compter du 1er janvier 2025, par la fiche d'opération standardisée figurant à l'annexe G du l'arrêté précité.
+
+- Système de stockage de chaleur fatale / Fiche d'opération standardisée n° IND-UT-139
+
+Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée, à compter du 1er janvier 2025, par la fiche d'opération standardisée figurant à l'annexe G du l'arrêté précité.
+
 Liens :
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0227 du 30/09/2023, texte n° 39, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=2eo_9bKPruY9aVYxIHHqRZAonPLOBawu6mXaWDKqFfw=

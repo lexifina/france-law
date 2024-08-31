@@ -140,13 +140,13 @@ B. 2. Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-C.-Fiches d'opérations standardisées BAR-TH-171 “ Pompe à chaleur de type air/ eau ” et BAR-TH-172 “ Pompe à chaleur de type eau/ eau ou sol/ eau ”
+C. - Fiches d'opérations standardisées BAR-TH-171 &laquo; Pompe à chaleur de type air/ eau &raquo; et BAR-TH-172 &laquo; Pompe à chaleur de type eau/ eau ou sol/ eau &raquo;.
 
-Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en " non satisfaisant ".
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en &laquo; non satisfaisant &raquo;.
 
-C. I.-Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations :
+C. I. - Les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
 
-C. I. A.-Critères directement liés à la fiche d'opération standardisée :
+C. I. A. - Critères directement liés à la fiche d'opération standardisée :
 
 1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ou le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
 
@@ -154,55 +154,59 @@ C. I. A.-Critères directement liés à la fiche d'opération standardisée :
 
 3. La PAC n'assure pas le chauffage des surfaces chauffées ;
 
-4. La PAC ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération (marque, référence, efficacité énergétique saisonnière). Le rapport est accompagné d'une photo de la plaque signalétique ;
+4. La PAC ou le régulateur ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération (marque, référence). Le rapport est accompagné d'une photo de la plaque signalétique ;
 
 5. L'efficacité énergétique saisonnière (η s) de la PAC selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 est inférieure à l'efficacité énergétique saisonnière exigée par la fiche d'opération standardisée ;
 
-6. L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : efficacité énergétique saisonnière, zone climatique et, dans le cas où l'opération ne s'inscrit pas dans le cadre du Coup de pouce " Chauffage ", la surface chauffée ; un écart de surface chauffée conduit à un classement " non satisfaisant " si l'écart entre la surface déclarée et la surface mesurée est supérieur à 10 % (écart = (surface déclarée-surface mesurée)/ surface mesurée*100) ;
+6. La PAC n'est pas équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/ C 207/02 ;
 
-Nota.-La surface chauffée est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée.
+7. L'usage de la PAC ne correspond pas à l'usage déclaré dans la preuve de réalisation ;
+
+8. L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : efficacité énergétique saisonnière, zone climatique et, dans le cas où l'opération ne s'inscrit pas dans le cadre du Coup de pouce &laquo; Chauffage &raquo;, la surface chauffée ; un écart de surface chauffée conduit à un classement &laquo; non satisfaisant &raquo; si l'écart entre la surface déclarée et la surface mesurée est supérieur à 10 % (écart = (surface déclarée-surface mesurée)/ surface mesurée*100).
+
+NB : La surface chauffée est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée.
 
 C. I. B.-Autres critères :
 
 S'agissant d'aspects généraux :
 
-7. Il est constaté l'absence d'une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase remise au bénéficiaire, et le bénéficiaire atteste par écrit ne pas avoir reçu cette note ; les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents ;
+9. Il est constaté l'absence d'une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase remise au bénéficiaire, et le bénéficiaire atteste par écrit ne pas avoir reçu cette note ; les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents ;
 
-8. La PAC est manifestement sous-dimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre moins de 60 % des déperditions à T = Tbase (si T arrêt PAC < Tbase), ou T = T arrêt PAC ;
+10. La PAC est manifestement sous-dimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre moins de 60 % des déperditions à T = Tbase (si T arrêt PAC < Tbase), ou T = T arrêt PAC ;
 
-9. La PAC air/ eau est manifestement surdimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre plus de 130 % des déperditions à T = Tbase (si T arrêt PAC < T base), ou T = T arrêt PAC, et au régime de température du réseau de distribution prévu ;
+11. La PAC air/ eau est manifestement surdimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre plus de 130 % des déperditions à T = Tbase (si T arrêt PAC < T base), ou T = T arrêt PAC, et au régime de température du réseau de distribution prévu ;
 
-10. La PAC eau/ eau est manifestement surdimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre plus de 130 % des déperditions à T = Tbase ;
+12. La PAC eau/ eau est manifestement surdimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre plus de 130 % des déperditions à T = Tbase ;
 
-11. Hors PAC eau/ eau, il est constaté un problème manifeste quant aux fixations et à l'accrochage de l'une des unités extérieure et intérieure composant la PAC ;
+13. Hors PAC eau/ eau, il est constaté un problème manifeste quant aux fixations et à l'accrochage de l'une des unités extérieure et intérieure composant la PAC ;
 
-12. Les émetteurs ne sont manifestement pas compatibles avec la PAC installée ;
+14. Les émetteurs ne sont manifestement pas compatibles avec la PAC installée ;
 
-13. L'unité extérieure, ou l'échangeur eau/ eau dans le cas d'une PAC eau/ eau, n'est manifestement pas convenablement installée (obstacles, échange non libre) ;
+15. L'unité extérieure, ou l'échangeur eau/ eau dans le cas d'une PAC eau/ eau, n'est manifestement pas convenablement installée (obstacles, échange non libre).
 
 S'agissant du réseau hydraulique :
 
-14. Les réseaux de distribution ne sont pas calorifugés en volumes non chauffés ;
+16. Les réseaux de distribution ne sont pas calorifugés en volumes non chauffés ;
 
-15. Il est constaté l'absence d'un dispositif de réglage permettant l'équilibrage du réseau hydraulique ;
+17. Il est constaté l'absence d'un dispositif de réglage permettant l'équilibrage du réseau hydraulique ;
 
-16. Dans le cas d'un ventilo-convecteur, si refroidissement, le raccordement de l'évacuation des condensats n'est pas réalisé ;
+18. Dans le cas d'un ventilo-convecteur, si refroidissement, le raccordement de l'évacuation des condensats n'est pas réalisé.
 
 S'agissant du réseau frigorifique :
 
-17. Lorsque cela est nécessaire, le réseau frigorifique n'est pas entièrement calorifugé ;
+19. Lorsque cela est nécessaire, le réseau frigorifique n'est pas entièrement calorifugé.
 
 S'agissant des collecteurs (dans le cas d'une PAC eau/ eau) :
 
-18. Les collecteurs ne sont pas équipés de robinets de réglage sur chaque boucle ;
+20. Les collecteurs ne sont pas équipés de robinets de réglage sur chaque boucle ;
 
-19. Les collecteurs ne comportent pas autant de départs et de retours que le nombre de boucles composant le capteur.
+21. Les collecteurs ne comportent pas autant de départs et de retours que le nombre de boucles composant le capteur.
 
 C. II.-Doivent être vérifiés lors des contrôles par contact :
 
--l'existence d'une PAC installée ;
+- l'existence d'une PAC installée ;
 
--l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+- l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
@@ -1516,38 +1520,46 @@ AO. II. Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-AP. Fiche d'opération standardisée RES-EC-104 Rénovation d'éclairage extérieur :
+AP.-Fiche d'opération standardisée RES-EC-104 &laquo; Rénovation d'éclairage extérieur &raquo; :
 
-Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en &laquo; non satisfaisant &raquo;.
 
-AP. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
+AP. I.-Les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
 
-1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
-2) La preuve de réalisation de l'opération ou le document issu du fabricant ne comporte pas les mentions prévues par la fiche RES-EC-104 ;
+2. La preuve de réalisation de l'opération ou le document issu du fabricant ne comporte pas les mentions prévues par la fiche RES-EC-104 ;
 
-3) La preuve de réalisation de l'opération (ou le document issu du fabricant) et l'attestation sur l'honneur présentent des incohérences (différences en termes de nombre ou de caractéristiques des luminaires neufs installés : degré de protection de l'ensemble optique fermé (IP), efficacité lumineuse en lumen par Watt, et ULOR [ou ULR pour les luminaires à LED]) ;
+3. La preuve de réalisation de l'opération (ou le document issu du fabricant) et l'attestation sur l'honneur présentent des incohérences (différences en termes de nombre ou de caractéristiques des luminaires neufs installés : degré de protection (IP) dans le cas des luminaires neufs, température de couleur (K), efficacité lumineuse en lumen par watt à 50 % du flux lumineux nominal (i. e. à pleine charge), durée de vie annoncée pour L90B50 du module LED (en heures) et taux de mortalité à 100 000 heures de l'appareillage auxiliaire [en %]) ;
 
-4) L'opération ne concerne pas, ou pas uniquement, l'éclairage extérieur ;
+4. L'opération ne concerne pas exclusivement le secteur d'application de la fiche RES-EC-104 (cf. partie 1 de la fiche) ;
 
-5) L'opération concerne les illuminations de mise en valeur de sites ou l'éclairage de terrains de sport ;
+5. Dans le cas de l'installation de luminaires neufs, les luminaires existants n'ont pas été déposés ;
 
-6) Les luminaires existants n'ont pas été déposés ;
+6. Dans le cas du rééquipement de luminaires existants, il n'a pas été installé un ensemble constitué d'un module LED et d'un appareillage auxiliaire ;
 
-7) Les luminaires neufs n'ont pas été installés à la date de preuve de réalisation de l'opération (correspondant, le cas échéant, à l'attestation d'installation par les services techniques du bénéficiaire personne morale) ou le nombre de luminaires neufs installés ne correspond pas à celui indiqué dans la preuve de réalisation de l'opération ;
+7. Les luminaires neufs ou rééquipés n'ont pas été installés à la date de preuve de réalisation de l'opération (correspondant, le cas échéant, à l'attestation d'installation par les services techniques du bénéficiaire personne morale) ou le nombre de luminaires neufs ou rééquipés installés ne correspond pas à celui indiqué dans la preuve de réalisation de l'opération ;
 
-8) La source lumineuse des luminaires installés ne peut pas être remplacée ;
+8. Les modules LED ou les auxiliaires ne peuvent pas être remplacés ;
 
-9) Au vu de la preuve de réalisation de l'opération ou, à défaut, du document issu du fabricant, il apparaît que les luminaires installés ne respectent pas les exigences de la fiche RES-EC-104 en termes de degré de protection (IP), d'efficacité lumineuse, d'ULOR et d'ULR.
+9. Au vu de la preuve de réalisation de l'opération ou, à défaut, du document issu du fabricant, il apparaît que les luminaires neufs ou rééquipés installés ne respectent pas les exigences de la fiche RES-EC-104 en termes de degré de protection (pour les luminaires neufs), de température de couleur, d'efficacité lumineuse à 50 % du flux lumineux nominal (i. e. à pleine charge), de durée de vie annoncée pour L90B50 du module LED ou de taux de mortalité à 100 000 heures de l'appareillage auxiliaire ;
 
-Pour les besoins du contrôle, le bénéficiaire, indique, notamment au moyen d'un inventaire, la localisation et le nombre des luminaires installés. En l'absence d'une telle indication, le contrôle est considéré comme non satisfaisant .
+10. Les luminaires ne sont pas pilotés par un dispositif automatique contrôlant a minima l'allumage et l'extinction pour interdire l'allumage de jour (sauf maintenance) ;
 
-L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : nombre de luminaires neufs installés correspondant au cas n° 1 mentionné par la fiche RES-EC-104 ; nombre de luminaires neufs installés correspondant au cas n° 2 mentionné par la fiche RES-EC-104.
+11. Les luminaires ne sont pas gradables ;
 
-AP. II. Doivent être vérifiés lors des contrôles par contact :
+12. Le flux lumineux sortant de la source lumineuse ne peut pas être abaissé d'au moins 50 % du flux lumineux nominal (i. e. à pleine charge) durant au moins cinq heures par nuit et il ne peut pas être totalement éteint durant au moins cinq heures par nuit ;
 
--la mise en place de luminaires neufs installés ;
+13. S'il est demandé le forfait de certificats d'économies d'énergie relatif au fonctionnement avec détection de présence, le dispositif installé ne permet pas cette détection de présence ;
 
--l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+14. Le bénéficiaire n'a pas remis à l'organisme d'inspection de document indiquant la localisation et le nombre des luminaires installés ou la précision des indications portées dans ce document ne permet pas d'identifier sans ambiguïté les luminaires concernés par l'opération ;
 
-Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
+15. Le bénéficiaire n'a pas remis à l'organisme d'inspection la ou les preuves de recyclage des luminaires ou des sources lumineuses déposés dans le cadre de l'opération.
+
+L'organisme d'inspection effectue les vérifications nécessaires sur au moins 10 % des luminaires neufs ou rééquipés, pour chaque type d'espace qu'il aura défini (ex. : autoroute ; route hors milieu urbain ; voies routières urbaines ; voies piétonnes ; voiries privées ; parkings privés, etc.).
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : nombre de luminaires neufs ou rééquipés installés dans le cas d'un fonctionnement avec gradation seule ; nombre de luminaires neufs ou rééquipés installés dans le cas d'un fonctionnement avec gradation et détection de présence.
+
+NOTA :
+
+Conformément à l’article 6 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), ces dispositions s'appliquent aux opérations engagées à compter du 1er janvier 2025.

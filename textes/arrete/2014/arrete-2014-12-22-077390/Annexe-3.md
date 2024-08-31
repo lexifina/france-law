@@ -108,6 +108,8 @@ Conformément à l’article 2 de l’arrêté du 25 juillet 2022 (NOR : TRER212
 
 Conformément à l’article 1 de l’arrêté du 22 décembre 2023 (NOR : ENER2333436A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe dudit arrêté, à compter du 1er janvier 2024.
 
+Conformément à l’article 2 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d’opération n° BAT-TH-116 remplace, à compter du 1er janvier 2025, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
+
 -Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119 (Abrogée à compter du 1er avril 2018)
 
 Conformément à l’article 2 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
@@ -192,9 +194,17 @@ Conformément à l’article 1 de de l’arrêté du 20 décembre 2022 (NOR : EN
 
 Conformément à l’article 1er de l’arrêté du 26 janvier 2022 (NOR : TRER2202916A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe dudit arrêté, à compter du 1er septembre 2022.
 
+Conformément à l’article 2 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d’opération n° BAT-TH-158 remplace, à compter du 1er janvier 2025, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
+
 -Raccordement d’un bâtiment tertiaire à un réseau de froid / Fiche d’opération standardisée n° BAT-TH-159
 
 -Vannes de régulation étanches à servomoteurs économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-160
+
+Conformément à l'article 4 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d'opération standardisée portant la référence BAT-TH-160 est supprimée de la présente annexe à compter du 1er septembre 2024.
+
+- Maintien en température des groupes électrogènes de secours par pompe à chaleur de type air/eau / Fiche d'opération standardisée n° BAT-TH-161
+
+Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée par la fiche d'opération standardisée figurant à l'annexe F de l'arrêté précité. Vous pouvez consulter l'annexe à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
 
 -Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111 (abrogée à compter du 1er avril 2019)
 
@@ -235,6 +245,10 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 -Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
 
 -Meuble frigorifique de vente performant avec groupe de production de froid intégré / Fiche d’opération standardisée n° BAT-EQ-134
+
+- Dispositif performant d'alimentation sans interruption / Fiche d'opération standardisée n° BAT-EQ-135
+
+Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée par la fiche d'opération standardisée figurant à l'annexe F de l'arrêté précité. Vous pouvez consulter l'annexe à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
 
 Liens :
 

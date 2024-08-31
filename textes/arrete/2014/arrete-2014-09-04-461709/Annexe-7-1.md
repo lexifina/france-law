@@ -58,6 +58,18 @@ Pour une opération engagée à compter du 1er avril 2021, indiquer les coordonn
 
 (indiquer : néant si le bénéficiaire ne dispose pas d'une adresse de courriel)
 
+(*) La totalité du matériel a été installée par un tiers : □ oui □ non
+
+L'installation est nécessairement réalisée en totalité par un tiers :
+
+- lorsque la fiche requiert une qualification spécifique du professionnel installateur ;
+
+- lorsque le bénéficiaire est une personne physique.
+
+(*) Dans le cas où au moins une partie du matériel n'a pas été installée par un tiers, mes services techniques ont mis en œuvre ou achevé l'opération (ex. : installation de toutes les lampes, de toutes les pommes de douche, etc.) : □ oui □ non
+
+(*) Non concerné par ces cas (l'opération ne nécessite aucune installation de matériel) : □
+
 (*) Cocher l'une des deux cases suivantes : à l'issue des opérations d'économies d'énergie :
 
 □ Je suis : le seul propriétaire (final) ou le locataire des équipements installés ; ou le syndic de la copropriété où prend place l'opération d'économies d'énergie ; ou l'occupant du logement où prend place l'opération d'économies d'énergie et je finance cette opération ; ou la personne recevant le service acheté ;
@@ -710,4 +722,4 @@ Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'é
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 20 décembre 2023 (NOR : ENER2333434A), ces dispositions s'appliquent aux opérations engagées à compter du 1er janvier 2024. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant le 1er janvier 2024 peuvent être utilisées pour les opérations engagées avant le 1er juillet 2024.
+Conformément à l’article 6 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), ces dispositions s'appliquent aux opérations engagées à compter du 1er janvier 2025.

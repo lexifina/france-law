@@ -4,6 +4,8 @@ Secteur agriculture
 
 - Dispositif de stockage d’eau chaude de type Open Buffer / Fiche d’opération n° AGRI-TH-101
 
+Conformément à l’article 2 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d’opération n° AGRI-TH-101 remplace, à compter du 1er janvier 2025, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
+
 - Dispositif de stockage d’eau chaude / Fiche d’opération n° AGRI-TH-102
 
 - Pré-refroidisseur de lait / Fiche d'opération n° AGRI-TH-103
@@ -46,6 +48,8 @@ Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER23252
 
 - Ecrans thermiques latéraux / Fiche d’opération n° AGRI-EQ-104
 
+Conformément à l’article 2 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d’opération n° AGRI-EQ-104 remplace, à compter du 1er janvier 2025, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
+
 - Stop & Start pour véhicules agricoles à moteur / Fiche d'opération n° AGRI-EQ-105
 
 Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° AGRI-EQ-105 remplace, à compter du 1er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047310913.
@@ -63,6 +67,10 @@ Conformément à l'article 1 de l'arrêté du 20 décembre 2023 (NOR : ENER23334
 Conformément à l'article 1 de l'arrêté du 20 décembre 2023 (NOR : ENER2333440A), la fiche d'opération standardisée n° AGRI-EQ-109 est remplacée par la fiche figurant en annexe A audit arrêté, à compter du 1er février 2024.
 
 - Séchage solaire par insufflation des produits et co-produits agricoles et forestiers utilisant des panneaux solaires hybrides / Fiche d'opération n° AGRI-EQ-110
+
+- Simple écran thermique / Fiche d'opération n° AGRI-EQ-111
+
+Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée par la fiche d'opération standardisée figurant à l'annexe E de l'arrêté précité. Vous pouvez consulter l'annexe à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
 
 - Moto-variateur synchrone à aimants permanents / Fiche d'opération n° AGRI-UT-101
 
@@ -147,7 +155,3 @@ https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0294 du 24/12/2014, texte nº 18
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Conformément à l'article 1 de l’arrêté du 15 septembre 2023 (NOR : ENER2325207A), ces dispositions entrent en vigueur à compter du 1er janvier 2024.
