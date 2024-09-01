@@ -180,6 +180,8 @@ Directeur interdépartemental de la police nationale à Cergy-Pontoise.
 
 Chef de la mission " Grande Couronne ".
 
+Commandant des réserves.
+
 2. Direction des ressources humaines, des finances et des soutiens de la police nationale :
 
 Sous-directeur de l'encadrement supérieur, des commissaires et des officiers.
@@ -320,4 +322,4 @@ Directeur de l'école nationale supérieure de la police.
 
 NOTA :
 
-Conformément à l’article 3 de l'arrêté du 2 août 2024 (NOR : IOMC2421103A), ces dispositions entrent en vigueur le 12 août 2024.
+Conformément à l’article 2 de l'arrêté du 12 août 2024 (NOR : IOMC2422030A), ces dispositions entrent en vigueur à compter du premier jour du mois suivant sa publication au Journal officiel de la République française, à savoir le 1er septembre 2024.
