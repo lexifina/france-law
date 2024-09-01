@@ -58,7 +58,7 @@ IDE spécialisé |
 
 S |
 
-236 |
+675 |
 
 Enfin, la fiche emploi d'IDE spécialisé est intégrée, juste après celle de l'attaché de recherche clinique spécialisé, dans le chapitre 2 « Définition des emplois du personnel non cadre » de l'annexe 2 de la CCN.
 
