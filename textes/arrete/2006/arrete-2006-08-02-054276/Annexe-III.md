@@ -1,163 +1,141 @@
 # Article Annexe III
 
-Référentiel de formation
+RÉFÉRENTIEL DE FORMATION
 
-Le niveau de compétences visé pour ce diplôme implique une connaissance affirmée des fondements scientifiques des activités professionnelles et la maîtrise des processus de conception et de recherche. Compte tenu de ces objectifs et des pré-requis exigés des candidats à l'entrée en formation, le contenu des enseignements doit être fondé sur une réactualisation et un approfondissement des connaissances. En outre, la compréhension et l'analyse des questions sociales nécessite de faire appel de façon systématique à des approches transversales et pluridisciplinaires. Enfin, les enseignements devront intégrer le contexte européen (territoires, politiques, institutions).
-
-DOMAINES
-
-de formation
-
-|
-
-CONTENU INDICATIF
-
-|
-
-VOLUME
-
-horaire
-
-|
+Le niveau de compétences visé pour ce diplôme implique une connaissance affirmée des fondements scientifiques des activités professionnelles et la maîtrise des processus de conception et de recherche. Compte tenu de ces objectifs et des pré requis exigés des candidats à l'entrée en formation, le contenu des enseignements doit être fondé sur une réactualisation et un approfondissement des connaissances. En outre, la compréhension et l'analyse des questions sociales nécessite de faire appel de façon systématique à des approches transversales et pluridisciplinaires. Enfin, les enseignements devront intégrer le contexte européen (territoires, politiques, institutions).
 
 DOMAINES
 
-de compétences visés
+DE FORMATION |
 
-|
+CONTENU INDICATIF |
 
-DF1. Production de connaissances 300 heures
+VOLUME HORAIRE |
 
-|
+BLOCS DE COMPÉTENCES VISÉS |
 
-UF1.1 Outils conceptuels d'analyse
+DF 1. Contribuer à la production de connaissances dans le champ de l'action sociale et médico-sociale
 
-- des organisations ;
+300 heures |
 
-- des territoires et des populations ;
+UF 1.1 Outils conceptuels d'analyse
 
-- des politiques sociales et économiques.
+-des organisations
 
-UF1.2 Langues, cultures et civilisations.
+-des territoires et des populations
 
-UF1.3 Démarches de recherche en sciences humaines et sociales ;
+-des politiques sociales et économiques |
 
-- stratégies de recherche : de la demande à la restitution ;
+70 à 110 heures |
 
-- éthique de la recherche, de l'intervention et de l'expertise ;
+BC1 : Contribuer à la production de connaissances dans le champ de l'action sociale et médico-sociale
 
-- accompagnement méthodologique.
+C 1.1 Réaliser des analyses contextualisées de problèmes complexes appliqués à une question sociale, un territoire, une organisation
 
-|
+C 1.2 Construire un dispositif d'observation et de veille sociale
 
-70 à 110 heures
+C 1.3 conduire des études ou des recherches |
 
-30 heures
+UF 1.2 Langues, cultures et civilisations |
 
-160 à 200 heures
+30 heures |
 
-|
+UF 1.3 Démarches de recherche en sciences humaines et sociales
 
-DC1. Production de connaissances
+-stratégies de recherche : de la demande à la restitution
 
-C1.1 Réaliser des analyses contextualisées de problèmes complexes appliqués à une question sociale, un territoire, une organisation.
+-éthique de la recherche, de l'intervention et de l'expertise
 
-C1.2 Construire un dispositif d'observation et de veille sociale.
+-accompagnement méthodologique |
 
-C1.3 Conduire des études ou des recherches.
+160 à 200 heures |
 
-|
+DF 2. Développer de l'ingénierie de projets et des analyses prospectives
 
-DF2. Conception et conduite d'actions 250 heures + 5 semaines (175 heures) d'étude de terrain
+250 heures
 
-|
++
 
-UF2.1 Politiques sociales
+5 semaines (175 heures) d'étude de terrain |
 
-- élaboration, mise en œuvre, évaluation ;
+UF 2.1 Politiques sociales
 
-- acteurs et structures administratives.
+-élaboration, mise en œuvre, évaluation
 
-UF2.2 Épistémologie
+-acteurs et structures administratives |
 
-- fondements et critiques des théories et méthodes d'intervention sociale ;
+50 à 80 heures |
 
-- fondements et critiques des théories et méthodologies de projet ;
+BC 2. Développer de l'ingénierie de projets et des analyses prospectives
 
-- fondements et critiques des théories et méthodologies d'évaluation.
+C 2.1 conduire des analyses prospectives
 
-UF2.3 Ingénierie
+C 2.2 Développer une ingénierie de projet ou de programme
 
-- stratégies et méthodes ;
+C 2.3 Piloter des démarches évaluatives |
 
-- acteurs, dispositifs et programmes ;
+UF 2.2 Epistémologie
 
-- objectifs, démarches et évaluation ;
+-fondements et critiques des théories et méthodes d'intervention sociale
 
-- démarches prospectives.
+-fondements et critiques des théories et méthodologies de projet
 
-UF2.4 Étude de terrain
+-fondements et critiques des théories et méthodologies d'évaluation |
 
-Étude de terrain réalisée collectivement dans le cadre d'une proposition formulée par une organisation et validée par l'établissement de formation.
+40 à 60 heures |
 
-|
+UF 2.3 Ingénierie
 
-50 à 80 heures
+-stratégies et méthodes
 
-40 à 60 heures
+-acteurs, dispositifs et programmes
 
-110 à 160 heures
+-objectifs, démarches et évaluation
 
-175 heures
+-démarches prospectives |
 
-|
+110 à 160 heures |
 
-DC2. Conception et conduite d'actions
+UF 2.4 Etude de terrain
 
-C2.1 Conduire des analyses prospectives.
+Etude de terrain réalisée collectivement dans le cadre d'une proposition formulée par une organisation et validée par l'établissement de formation. |
 
-C2.2 Développer une ingénierie de projet ou de programme.
+175 heures |
 
-C2.3 Piloter des démarches évaluatives.
+DF3. Contribuer à conduire des projets de transformation sociale
 
-|
+150 heures |
 
-DF3. Communication ressources humaines 150 heures
+UF 3.1 Gestion et dynamiques des ressources humaines
 
-|
+-logiques d'organisation et modèles de gestion des ressources humaines
 
-UF3.1 Gestion et dynamiques des ressources humaines
+-outils du management stratégique et opérationnel
 
-- logiques d'organisation et modèles de gestion des ressources humaines ;
+-compétences, formations, qualifications : analyse des concepts et des enjeux |
 
-- outils du management stratégique et opérationnel ;
+80 à 120 heures |
 
-- compétences, formations, qualifications : analyse des concepts et des enjeux.
+BC 3. Contribuer à conduire des projets de transformation sociale
 
-UF3.2 Information et communication ;
+C 3.1 Evaluer et mobiliser les ressources nécessaires pour conduire un projet, pour susciter le changement, pour favoriser la transmission des savoirs professionnels
 
-- méthodes de recherche, d'analyse et d'organisation de l'information ;
+C 3.2 Promouvoir des processus formatifs pour développer les compétences individuelles et collectives
 
-- stratégies et techniques de communication ;
+C 3.3 Coordonner, animer et réguler des collectifs de travail
 
-- communication et dynamiques collectives de production de connaissances.
+C 3.4 Assurer la communication et l'information pour l'efficience des actions et la diffusion des connaissances |
 
-|
+UF 3.2 Information et communication
 
-80 à 120 heures
+-méthodes de recherche, d'analyse et d'organisation de l'information
 
-30 à 70 heures
+-stratégies et techniques de communication
 
-|
+-communication et dynamiques collectives de production de connaissances |
 
-DC3. Communication ressources humaines
+30 à 70 heures |
 
-C3.1 Évaluer et mobiliser les ressources nécessaires pour conduire un projet, pour susciter le changement, pour favoriser la transmission des savoirs professionnels.
+NOTA :
 
-C3.2 Promouvoir des processus formatifs pour développer les compétences individuelles et collectives.
-
-C3.3 Coordonner, animer et réguler des collectifs de travail.
-
-C3.4 Assurer la communication et l'information pour l'efficience des actions et la diffusion des connaissances.
-
-|
+Conformément à l’article 4 de l’arrêté du 17 juin 2024 (NOR : TSSA2415479A), ces dispositions entrent en vigueur le 1er septembre 2024.

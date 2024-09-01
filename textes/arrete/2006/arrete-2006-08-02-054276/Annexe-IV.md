@@ -1,107 +1,45 @@
 # Article Annexe IV
 
-Tableau d'allègements et de dispenses de domaines de formation
+TABLEAU D'ALLÈGEMENTS DE FORMATION OU DE DISPENSES DE FORMATION AU TITRE D'UN DIPLÔME DU TRAVAIL SOCIAL
 
-DIPLÔME DÉTENU PAR LE CANDIDAT/
+Diplôme détenu par le candidat |
 
-domaines de formation du DEIS
+CAFERUIS |
 
-|
+CAFDES |
 
-CAFERUIS
+DSTS |
 
-|
+BC1 : contribuer à la production de connaissances dans le champ de l'action sociale et médico-sociale |
 
-DSTS
+Allègement 50 % de l'UF1. 1 |
 
-|
+Allègement 50 % de l'UF1. 1 |
 
-CAFDES
+Dispense |
 
-|
+BC2 : développer de l'ingénierie de projets et des analyses prospectives |
 
-DF1. Production de connaissances 300 h
+Allègement total de l'UF2. 1 |
 
-UF1.1 Outils conceptuels d'analyse (70 à 110 h).
+Allègement total de l'UF2. 1
 
-UF1.2 Langues, cultures et civilisations (30 h).
+Allègement total de l'UF2. 3 |
 
-UF1.3. Démarches de recherche en sciences humaines et sociales (160 à 200 h).
+Allègement total de l'UF2. 1
 
-|
+Allègement total de l'UF2. 2
 
-Allègement 50 % de l'UF1.1
+Allègement total de l'UF2. 3 |
 
-|
+BC3 : contribuer à conduire des projets de transformation sociale |
 
-Dispense
+Dispense |
 
-|
+Dispense |
 
-Allègement 50 % de l'UF1.1
+Dispense |
 
-|
+NOTA :
 
-DF2. Conception et conduite d'actions 250 h + 175 h d'étude de terrain
-
-UF2.1 Politiques sociales (50 à 80 h).
-
-UF2.2 Epistémologie (40 à 60 h).
-
-UF2.3 Ingénierie (110 à 160 h).
-
-UF2.4 Etude de terrain (175 h).
-
-|
-
-Allègement total de l'UF2.1
-
-|
-
-Allègement total de l'UF2.1
-
-Allègement total de l'UF2.2
-
-Allègement total de l'UF2.3
-
-|
-
-Allègement total de l'UF2.1
-
-Allègement total de l'UF2.3
-
-|
-
-DF3 Communication, ressources humaines 150 h
-
-|
-
-Dispense
-
-|
-
-Dispense
-
-|
-
-Dispense
-
-|
-
-Total allègements
-
-|
-
-235 à 285 heures
-
-|
-
-700 heures
-
-|
-
-345 à 445 heures
-
-|
-
-La dispense d'un domaine de formation entraîne la validation du domaine de compétences correspondant et donc la dispense de l'épreuve de certification s'y rapportant.
+Conformément à l’article 4 de l’arrêté du 17 juin 2024 (NOR : TSSA2415479A), ces dispositions entrent en vigueur le 1er septembre 2024.
