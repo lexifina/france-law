@@ -1,11 +1,7 @@
 # Article Annexe III
 
-Les annexes peuvent être obtenues ou téléchargées en s'adressant à l'UCEM, rue Gabriel-Péri, BP 90303, 44103 Nantes Cedex 04. mel :
+L'annexe introductive et les annexes I, II et III peuvent être consultées sur le site : https :// formations. mer. gouv. fr.
 
-ucem.igem@developpement-durable.gouv.fr
+NOTA :
 
-, site internet :
-
-www.ucem-nantes.fr
-
-.
+Conformément à l’article 10 de l’arrêté du 17 juillet 2024 (NOR : TREM2420016A), ces dispositions entrent en vigueur le 1er septembre 2024.

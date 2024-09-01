@@ -1,12 +1,12 @@
 # Article Annexe V
 
-Modalités de calcul de la moyenne des enseignements professionnels prise en compte pour la délivrance de l'attestation de réussite intermédiaire
+MODALITÉS DE CALCUL DE LA MOYENNE DES ENSEIGNEMENTS PROFESSIONNELS PRISE EN COMPTE POUR LA DÉLIVRANCE DE L'ATTESTATION DE RÉUSSITE INTERMÉDIAIRE
 
-Spécialité " Polyvalent navigant pont/ machine " de baccalauréat professionnel |
+Spécialité " Polyvalent navigant pont/machine "
+
+de baccalauréat professionnel |
 
 Première |
-
-|
 
 |
 
@@ -14,15 +14,11 @@ Enseignements |
 
 coefficient |
 
-|
-
 Enseignements professionnels maritimes |
 
 Mécanique navale |
 
 0,50 |
-
-6 |
 
 Mécanique navale-TP |
 
@@ -31,14 +27,6 @@ Mécanique navale-TP |
 Techniques d'atelier-TP |
 
 0,40 |
-
-Navire et construction |
-
-0,40 |
-
-Navire et construction-TP |
-
-0,25 |
 
 Electrotechnique et automatisme |
 
@@ -82,19 +70,17 @@ Enseignements professionnels et mathématiques-sciences en co-intervention |
 
 Prévention-santé-environnement |
 
-1,00 |
+1 |
 
 Économie-gestion |
 
-1,00 |
+1 |
 
 Enseignements généraux |
 
 Français |
 
 1 |
-
-7 |
 
 Histoire-géographie, enseignement moral et civique |
 
@@ -126,10 +112,10 @@ Consolidation et accompagnement personnalisé |
 
 |
 
-|
-
 Accompagnement au choix d'orientation à la pêche (renfort ramendage et matelotage) |
 
 |
 
-|
+NOTA :
+
+Conformément à l’article 10 de l’arrêté du 17 juillet 2024 (NOR : TREM2420016A), ces dispositions entrent en vigueur le 1er septembre 2024.
