@@ -514,6 +514,8 @@ EPLEFPA d'Amboise-Chambray-Lès-Tours (Site de Chambray-Lès-Tours)
 
 EPLEFPA d'Avignon (Site de l'Isle sur Sorgue)
 
+EPLEFPA de Bordeaux-Gironde (site du Haillan)
+
 EPLEFPA de Bordeaux Gironde (Site de la Tour blanche)
 
 EPLEFPA de Bordeaux Gironde (Site de Libourne Montagne)
@@ -522,9 +524,13 @@ EPLEFPA de Châteaulin Morlaix Kerliver (Site de Morlaix)
 
 EPLEFPA de Crézancy (Site d'Aumont)
 
+EPLEFPA de Douai (site de le Quesnoy)
+
 EPLEFPA de Douai (Site de Sains)
 
 EPLEFPA de Haute Corrèze-Neuvic (Site de Meymac)
+
+EPLEFPA de la Haute-Marne (site de Fayl-Billot)
 
 EPLEFPA Campus Terres de l'Aube (Site de Saint Pouange)
 
@@ -534,6 +540,8 @@ EPLEFPA de l'Hérault (Site de Pézenas)
 
 EPLEFPA de Limoges et du Nord Haute Vienne (Site de Magnac Laval)
 
+EPLEFPA de la Lozère (site de la Canourge)
+
 EPLEFPA de l'Oisellerie (Site de Barbezieux)
 
 EPLEFPA de Nantes-Terre-Atlantique (Site du Grand Blottereau)
@@ -541,6 +549,10 @@ EPLEFPA de Nantes-Terre-Atlantique (Site du Grand Blottereau)
 EPLEFPA de Pontivy-Saint-Jean-Brévelay-Hennebont (site de Saint-Jean-Brévelay)
 
 EPLEFPA de Quétigny Plombières-lès-Dijon (Site de Plombières-lès-Dijon)
+
+EPLEFPA de Roanne-Chervé (site de Noirétable)
+
+EPLEFPA de Seine-Maritime (site d'Envermeu)
 
 EPLEFPA des Sillons de Haute-Alsace (Site Colmar Wintzenheim)
 
@@ -551,6 +563,8 @@ EPLEFPA de Saintonge à Saintes (Site du Petit Chadignac à Saintes)
 EPLEFPA de Seine-Maritime (Site de Brémontiers Merval)
 
 EPLEFPA de Seine-Maritime (Site de Neufchâtel en Bray)
+
+EPLEFPA du Tarn-et-Garonne (site de Moissac)
 
 EPLEFPA de Terres et Paysages Sud Deux-Sèvres (Melle)
 
@@ -596,7 +610,9 @@ EPLEFPA des Terres de l'Yonne La Brosse (Site de Champs sur Yonne)
 
 EPLEFPA de Vendôme (Site de Blois)
 
-EPLEFPA de Vendôme (Site de Montoire) |
+EPLEFPA de Vendôme (Site de Montoire)
+
+|
 
 Emplois du groupe III |
 
@@ -908,8 +924,6 @@ EPLEFPA de Quimper Brehoulou
 
 EPLEFPA de Raismes
 
-EPLEFPA de Roanne-Chervé
-
 EPLEFPA de Romans
 
 EPLEFPA de Saint Affrique
@@ -984,6 +998,8 @@ EPLEFPA de La Roche sur Foron
 
 EPLEFPA de Lons Le Saunier-Mancy
 
+EPLEFPA de Lyon-Dardilly
+
 EPLEFPA de Pau Montardon
 
 EPLEFPA de Perpignan Roussillon
@@ -992,11 +1008,15 @@ EPLEFPA Les Sillons de Haute-Alsace
 
 EPLEFPA de Seine-Maritime
 
+EPLEFPA de Valence
+
 EPLEFPA de Vesoul
 
 EPLEFPA du Pas de Calais
 
-EPLEFPA du Tarn et Garonne |
+EPLEFPA du Tarn et Garonne
+
+|
 
 Etablissement public d'enseignement et de formation professionnelle agricoles |
 
@@ -1025,8 +1045,6 @@ EPLEFPA de Carpentras
 EPLEFPA de Châteaulin Morlaix Kerliver
 
 EPLEFPA de Châteauroux
-
-EPLEFPA de Clermont Ferrand
 
 EPLEFPA de Digne Carmejane
 
@@ -1819,3 +1837,7 @@ CFPPA du Tarn et Garonne
 Site de Périgueux du CFPPA de la Dordogne
 
 CFA-CFPPA de l'EPLEFPA de l'Eure-(Eure agricole-le Neubourg) |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 16 avril 2024 (NOR : AGRS2404301A), ces dispositions entrent en vigueur le 1er septembre 2024.
