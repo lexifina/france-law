@@ -58,7 +58,7 @@ Au service de la transformation, le chef du département :
 
 -chef du département national d'assistance cyber auprès du commandement de la gendarmerie dans le cyberespace ;
 
--chef du département de l'appui opérationnel numérique auprès de l'unité nationale cyber ;
+-chef de département d'appui aux opérations numériques auprès de l'unité nationale cyber ;
 
 -chef du bureau logistique de la mobilité au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur.
 
@@ -1046,6 +1046,8 @@ Adjoint au commandant du centre national d'instruction :
 
 -commandant du centre national de soutien logistique ;
 
+-chef du centre national d'expertise numérique auprès du commandement du ministère de l'intérieur dans le cyberespace ;
+
 -chef du service de soutien à la projection opérationnelle du commandement du soutien opérationnel de la gendarmerie nationale ;
 
 -chef d'état-major soutien finances du groupe d'intervention de la gendarmerie nationale ;
@@ -1088,8 +1090,6 @@ Au sein du groupe d'intervention de la gendarmerie nationale, chef de la force :
 
 -officier de liaison au centre de planification et de conduite des opérations de l'état-major des armées (2 emplois) ;
 
--officier de liaison référent intelligence économique à l'assemblée des départements de France ;
-
 -directeur de cabinet du directeur général de l'Agence nationale de la cohésion des territoires (1 emploi) ;
 
 -officier de liaison chargé de mission à la direction des ressources humaines du ministère de la défense (1 emploi) ;
@@ -1104,7 +1104,7 @@ Au sein du groupe d'intervention de la gendarmerie nationale, chef de la force :
 
 Au sein du commandement des forces aériennes de la gendarmerie nationale, le chef :
 
--du bureau de maîtrise des risques à compter du 1er août 2024.
+-du bureau de maîtrise des risques.
 
 A l'agence du numérique des forces de sécurité intérieure :
 
@@ -1140,4 +1140,4 @@ A l'agence du numérique des forces de sécurité intérieure :
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 26 juin 2024 (NOR : IOMJ2417702A), ces dispositions entrent en vigueur le 1er juillet 2024.
+Conformément à l’article 6 de l’arrêté du 2 août 2024 (NOR : IOMJ2421762A), ces dispositions entrent en vigueur le 1er septembre 2024.

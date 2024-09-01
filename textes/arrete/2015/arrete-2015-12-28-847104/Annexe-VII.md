@@ -552,8 +552,6 @@ Commandant en second d'une compagnie de la gendarmerie des transports aériens :
 
 Commandant de la brigade de gendarmerie des transports aériens de :
 
--Bordeaux-Mérignac ;
-
 -Lyon-Saint-Exupéry ;
 
 -Marseille-Provence ;
@@ -566,7 +564,9 @@ Commandant de la brigade de gendarmerie des transports aériens de :
 
 -Paris-Charles-de-Gaulle-Fret ;
 
--Paris-Orly.
+-Paris-Orly ;
+
+-commandant de la communauté de brigades gendarmerie des transports aériens de Bordeaux.
 
 Commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
 
@@ -720,4 +720,4 @@ Commandant de la section aérienne au commandement des forces aériennes de la g
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 26 juin 2024 (NOR : IOMJ2417702A), ces dispositions entrent en vigueur le 1er juillet 2024.
+Conformément à l’article 6 de l’arrêté du 2 août 2024 (NOR : IOMJ2421762A), ces dispositions entrent en vigueur le 1er septembre 2024.

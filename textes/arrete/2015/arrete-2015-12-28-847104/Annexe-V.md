@@ -1062,9 +1062,9 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -chef du cabinet du commandement des écoles de la gendarmerie nationale ;
 
--officier adjoint ressources humaines de l'école des officiers de la gendarmerie nationale ;
+-chef du département ressources humaines de l'école des officiers de la gendarmerie nationale ;
 
--officier adjoint soutien finances de l'école des officiers de la gendarmerie nationale ;
+-chef du département soutiens logistique finances de l'école des officiers de la gendarmerie nationale ;
 
 8° Autres emplois :
 
@@ -1140,4 +1140,4 @@ A l'agence du numérique des forces de sécurité intérieure :
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 26 juin 2024 (NOR : IOMJ2417702A), ces dispositions entrent en vigueur le 1er juillet 2024.
+Conformément à l’article 6 de l’arrêté du 2 août 2024 (NOR : IOMJ2421762A), ces dispositions entrent en vigueur le 1er septembre 2024.

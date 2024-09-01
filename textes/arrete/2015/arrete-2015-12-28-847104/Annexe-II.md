@@ -32,7 +32,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de mission auprès du chef du service de la transformation (2 emplois) ;
 
--chargé de mission au sein du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi) ;
+-chef de la mission d'appui et de modernisation au sein du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi) ;
 
 -chargé de mission à la mission des hauts potentiels (2 emplois) ;
 
@@ -156,6 +156,8 @@ Commandant du groupement de gendarmerie départementale :
 
 -d'Eure-et-Loir ;
 
+-du Gard ;
+
 -du Gers ;
 
 -du Haut-Rhin ;
@@ -171,6 +173,8 @@ Commandant du groupement de gendarmerie départementale :
 -des Hautes-Pyrénées ;
 
 -de la Haute-Saône ;
+
+-de la Haute-Vienne ;
 
 -de l'Indre ;
 
@@ -396,15 +400,15 @@ Commandant en second de la gendarmerie :
 
 -commandant du centre de production multimédia de la gendarmerie nationale ;
 
--directeur des enseignements de l'école des officiers de la gendarmerie nationale ;
+-commandant la division des enseignements militaires et académiques ;
 
 -commandant de la division des compétences au commandement des écoles de la gendarmerie nationale ;
 
 -commandant de la division du recrutement, des concours et des examens au commandement des écoles de la gendarmerie nationale ;
 
--commandant de la division des compétences et de l'ingénierie pédagogique à l'école des officiers de la gendarmerie nationale ;
+-officier adjoint commandement à l'école des officiers de la gendarmerie nationale ;
 
--commandant de la division de la formation initiale à l'école des officiers de la gendarmerie nationale ;
+-commandant de la division des formations élèves à l'école des officiers de la gendarmerie nationale ;
 
 -chef de la division de la formation, commandant en second d'une école de gendarmerie à l'exception de Dijon (6 emplois) ;
 
@@ -482,4 +486,4 @@ A l'agence du numérique des forces de sécurité intérieure :
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 26 juin 2024 (NOR : IOMJ2417702A), ces dispositions entrent en vigueur le 1er juillet 2024.
+Conformément à l’article 6 de l’arrêté du 2 août 2024 (NOR : IOMJ2421762A), ces dispositions entrent en vigueur le 1er septembre 2024.

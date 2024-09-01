@@ -110,6 +110,8 @@ A la direction générale de la gendarmerie nationale, le chef du bureau :
 
 -de la synthèse budgétaire ;
 
+-directeur de projet Maintenance-MI au sein du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi) ;
+
 -chef du bureau logistique des équipements du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur ;
 
 -chef du bureau de l'habillement du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur ;
@@ -556,11 +558,11 @@ Commandant du centre national d'instruction :
 
 -chef de groupe à l'école de guerre (5 emplois) ;
 
--chef de département au centre de formation des dirigeants (3 emplois) ;
+-chef de département au centre d'enseignement militaire supérieur de la gendarmerie (3 emplois) ;
 
 -chef de la division de la formation de l'école de gendarmerie de Dijon ;
 
--adjoint au chef d'une division du CEGN (2 emplois) ;
+-adjoint au chef d'une division du CEGN (2 emplois).
 
 8° Autres emplois :
 
@@ -581,8 +583,6 @@ Commandant du centre national d'instruction :
 -chef d'état-major auprès du commandement du ministère de l'intérieur dans le cyberespace ;
 
 -chef du centre de formation à la cybersécurité au commandement du ministère de l'intérieur dans le cyberespace ;
-
--chef du centre national d'expertise numérique auprès du commandement du ministère de l'intérieur dans le cyberespace ;
 
 -adjoint au chef de l'état-major opérationnel du groupe d'intervention de la gendarmerie nationale ;
 
@@ -676,20 +676,16 @@ Au sein du commandement des forces aériennes de la gendarmerie nationale :
 
 -chargé de mission auprès du commandement des forces aériennes de la gendarmerie nationale (1 emploi) ;
 
--chef du bureau de maîtrise des risques au commandement des forces aériennes de la gendarmerie nationale jusqu'au 31 juillet 2024.
-
 A l'agence du numérique des forces de sécurité intérieure :
 
--chargé de mission (1 emploi) ;
+-chargé de mission (2 emplois) ;
 
 -chef du pôle prospective-stratégie ;
 
 -chef du département des communications résilientes opérationnelles ;
 
--chef du département des systèmes d'information de soutien ;
-
--chargé de fonctions, conseiller filière système d'information et de communication (1 emploi).
+-chef du département des systèmes d'information de soutien.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 26 juin 2024 (NOR : IOMJ2417702A), ces dispositions entrent en vigueur le 1er juillet 2024.
+Conformément à l’article 6 de l’arrêté du 2 août 2024 (NOR : IOMJ2421762A), ces dispositions entrent en vigueur le 1er septembre 2024.
