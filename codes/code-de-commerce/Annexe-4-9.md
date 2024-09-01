@@ -6,9 +6,9 @@ I. - Sont notamment réalisées par les professions concernées dans les conditi
 
 a) L'ensemble des prestations prévues au chapitre Ier du titre Ier du livre VI du présent code, réalisées dans le cadre d'un mandat ad hoc, d'une procédure de conciliation, d'un mandat à l'exécution de l'accord ou d'une expertise ;
 
-2° S'agissant des huissiers de justice :
+2° S'agissant des commissaires de justice :
 
-a) Les prestations et formalités compatibles avec le statut d'huissier de justice, et n'ayant pas un acte d'huissier de justice pour support, notamment :
+a) Les prestations et formalités compatibles avec le statut de commissaire de justice, et n'ayant pas un acte de commissaire de justice pour support, notamment :
 
 i. Les consultations juridiques et la rédaction d'actes sous seing privé délivrés dans le cadre des prérogatives qui leur sont imparties par l'article 56 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques ;
 
@@ -36,7 +36,9 @@ e) Les congés et demandes de renouvellement de bail commercial, prévus à l'ar
 
 f) Etablissement d'un constat autre que celui visé au numéro 112 du tableau 3-1 annexé à l'article R. 444-3 ;
 
-g) Rédaction préparatoire à la signification des assignations ou congés.
+g) Rédaction préparatoire à la signification des assignations ou congés ;
+
+h) L'intermédiation immobilière en vue de la vente d'un bien dont le commissaire de justice assure déjà l'administration, et par laquelle ce professionnel, agissant en vertu d'un mandat écrit, recherche un acquéreur, le met en relation avec son mandant et négocie les termes de la transaction immobilière.
 
 3° S'agissant des greffiers des tribunaux de commerce :
 
@@ -69,3 +71,7 @@ Les frais de publicité nécessaires à la recherche d'un co-contractant sont à
 III. - Les honoraires de la négociation et de la transaction, respectivement mentionnées aux b et c du 4° du I, sont exclusifs l'un de l'autre.
 
 L'honoraire de transaction ne peut être perçu par le notaire qu'à la réception de l'acte et seulement si ce dernier mentionne les points sur lesquels portait le désaccord.
+
+NOTA :
+
+Conformément au I de l’article 17 du décret n° 2024-673 du 3 juillet 2024, ces dispositions entrent en vigueur le 1er septembre 2024. Elles sont applicables aux instances en cours à cette date.
