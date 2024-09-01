@@ -2,250 +2,174 @@
 
 RÉFÉRENTIEL DE FORMATION DIPLÔME D'ÉTAT DE MÉDIATEUR FAMILIAL
 
-UNITÉS DE FORMATION
+UNITÉS DE FORMATION |
+
+CONTENU INDICATIF |
+
+VOLUME HORAIRE |
+
+COMPÉTENCES VISÉES |
+
+Unité de formation principale portant sur le processus de médiation et l'intégration des techniques de médiation |
+
+La médiation : un concept |
+
+70 heures |
 
 |
 
-CONTENU INDICATIF
+1 |
 
 |
 
-VOLUME HORAIRE
+BC1/ BC3 |
+
+-Principes fondamentaux
+
+-Philosophie et éthique des médiations
+
+-Phénoménologie des médiations
+
+-Historique et spécificité des médiations |
 
 |
 
-COMPÉTENCES VISÉES
+2 |
 
 |
 
-Unité de formation principale portant sur le processus de médiation et l'intégration des techniques de médiation
+BC1 |
 
-|
+-Différentes étapes du processus de médiation
 
-La médiation : un concept
+-Gestion des conflits et effets
 
-|
+-Restauration des liens
 
-70 heures
-
-|
-
-|
-
-1
-
-|
-
-|
-
-DC1/ DC3
-
-|
-
-Principes fondamentaux
-
-Philosophie et éthique des médiations
-
-Phénoménologie des médiations
-
-Historique et spécificité des médiations
-
-|
-
-|
-
-2
-
-|
-
-|
-
-DC1
-
-|
-
-Différentes étapes du processus de médiation
-
-Gestion des conflits et effets
-
-Restauration des liens
-
-Grilles d'analyse des situations et techniques d'entretiens spécifiques
-
-|
+-Grilles d'analyse des situations et techniques d'entretiens spécifiques |
 
 |
 
 La médiation familiale :
 
-- cadre légal
+-cadre légal
 
-- potentialités et limites
+-potentialités et limites
 
-- définition, processus particulier
+-définition, processus particulier
 
-- posture du médiateur familial : position de tiers
+-posture du médiateur familial : position de tiers
 
-- responsabilités du médiateur familial
+-responsabilités du médiateur familial
 
-- place de l'écrit
+-place de l'écrit
 
-- médiation familiale et violences conjugales et familiales
+-médiation familiale et violences conjugales et familiales
 
-- médiation intergénérationnelle
+-médiation intergénérationnelle
 
-- médiation familiale successorale
+-médiation familiale successorale
 
-- médiation familiale dans le contexte de la protection de l'enfance et de l'adolescence
+-médiation familiale dans le contexte de la protection de l'enfance et de l'adolescence
 
-- médiation familiale dans le contexte pénal
+-médiation familiale dans le contexte pénal
 
-- médiation familiale internationale et interculturelle
+-médiation familiale internationale et interculturelle
 
-- médiation familiale en dehors d'un contexte de rupture
+-médiation familiale en dehors d'un contexte de rupture |
 
-|
+210 heures |
 
-210 heures
+Accompagnement au processus de médiation familiale et analyse de sa pratique |
 
-|
+35 heures |
 
-Accompagnement au processus de médiation familiale et analyse de sa pratique
+BC1/ BC3 |
 
-|
+Unité de formation contributive : droit |
 
-35 heures
+-Droit civil et droit pénal de la famille
 
-|
+-Droit patrimonial de la famille
 
-DC1/ DC3
+-Présentation des normes juridiques
 
-|
+-Le sujet de droit et les droits subjectifs
 
-Unité de formation contributive : droit
+-L'organisation juridictionnelle
 
-|
+-L'action en justice
 
-Droit civil et droit pénal de la famille
+-Les procédures de divorce et de séparation |
 
-Droit patrimonial de la famille
+63 heures |
 
-Présentation des normes juridiques
+BC2 |
 
-Le sujet de droit et les droits subjectifs
+Unité de formation contributive : psychologie |
 
-L'organisation juridictionnelle
+-Etude des structures familiales
 
-L'action en justice
+-Développement psycho-affectif et construction identitaire de l'enfant
 
-Les procédures de divorce et de séparation
+-Processus de construction du couple
 
-|
+-Effets psychologiques du conflit sur la famille
 
-63 heures
+-Psycho-pathologie de la famille
 
-|
+-Les séparations et (ou) la rupture et leurs effets sur la dynamique familiale |
 
-DC2
+63 heures |
 
-|
+BC2 |
 
-Unité de formation contributive : psychologie
+Unité de formation contributive : sociologie |
 
-|
+-Evolution sociologique et démographique de la famille
 
-Etude des structures familiales
+-Anthropologie des relations familiales
 
-Développement psycho-affectif et construction identitaire de l'enfant
+-Interculturalité et famille
 
-Processus de construction du couple
+-Du couple à la parentalité
 
-Effets psychologiques du conflit sur la famille
+-Les liens familiaux |
 
-Psycho-pathologie de la famille
+35 heures |
 
-Les séparations et (ou) la rupture et leurs effets sur la dynamique familiale
+BC2 |
 
-|
-
-63 heures
+Méthodologie d'élaboration du mémoire |
 
 |
 
-DC2
+14 heures |
 
-|
+BC2 |
 
-Unité de formation contributive : sociologie
+Formation pratique |
 
-|
+Stage de mise en situation dans un service de médiation familiale favorisant l'acquisition des savoirs opérationnels dans leur globalité |
 
-Evolution sociologique et démographique de la famille
+105 heures en discontinu |
 
-Anthropologie des relations familiales
+BC1
 
-Interculturalité et famille
+BC2
 
-Du couple à la parentalité
+BC3 |
 
-Les liens familiaux
-
-|
-
-35 heures
-
-|
-
-DC2
-
-|
-
-Méthodologie d'élaboration du mémoire
-
-|
-
-|
-
-14 heures
-
-|
-
-DC2
-
-|
-
-Formation pratique
-
-|
-
-Stage de mise en situation dans un service de médiation familiale favorisant l'acquisition des savoirs opérationnels dans leur globalité
-
-|
-
-105 heures en discontinu
-
-|
-
-DC1
-
-DC2
-
-DC3
-
-|
-
-En cas de validation partielle du diplôme par VAE et de poursuite par la voie de la formation, la durée de stage est allégée de :
-
-|
+En cas de validation partielle du diplôme par VAE et de poursuite par la voie de la formation, la durée de stage est allégée de : |
 
 70 heures
 
-35 heures
+35 heures |
 
-|
+si BC1 validé
 
-si DC1 validé
+si BC2 validé |
 
-si DC2 validé
+NOTA :
 
-|
+Conformément à l'article 4 de l'arrêté du 4 juin 2024 (NOR : TSSA2415466A), ces dispositions entrent en vigueur le 1er septembre 2024.
