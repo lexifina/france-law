@@ -64,6 +64,14 @@ Pour l'année 2025 |
 
 23 |
 
+Professeur des écoles de classe exceptionnelle |
+
+|
+
+Pour les années 2024, 2025, 2026 |
+
+29 |
+
 Ces taux sont également applicables au corps des professeurs des écoles du corps de l'Etat créé pour la Polynésie française, régi par le décret n° 2003-1260 du 23 décembre 2003
 
 |
@@ -106,6 +114,14 @@ Pour l'année 2025 |
 
 23 |
 
+Professeur agrégé de classe exceptionnelle |
+
+|
+
+Pour les années 2024, 2025, 2026 |
+
+13,5 |
+
 Corps des professeurs certifiés
 
 Régi par le décret n° 72-581 du 4 juillet 1972 modifié
@@ -141,6 +157,18 @@ Pour l'année 2024 |
 Pour l'année 2025 |
 
 23 |
+
+Professeur certifié de classe exceptionnelle |
+
+|
+
+Pour les années 2024 et 2025 |
+
+9 |
+
+Pour l'année 2026 |
+
+9,5 |
 
 Corps des professeurs d'éducation physique et sportive
 
@@ -178,6 +206,18 @@ Pour l'année 2025 |
 
 23 |
 
+Professeur d'éducation physique et sportive de classe exceptionnelle |
+
+|
+
+Pour les années 2024 et 2025 |
+
+10,5 |
+
+Pour l'année 2026 |
+
+9,5 |
+
 Corps des professeurs de lycée professionnel
 
 Régi par le décret n° 92-1189 du 6 novembre 1992 modifié
@@ -213,6 +253,18 @@ Pour l'année 2024 |
 Pour l'année 2025 |
 
 23 |
+
+Professeur de lycée professionnel de classe exceptionnelle |
+
+|
+
+Pour les années 2024 et 2025 |
+
+9 |
+
+Pour l'année 2026 |
+
+9,5 |
 
 Corps des professeurs d'enseignement général de collège (en voie d'extinction)
 
@@ -302,6 +354,18 @@ Pour l'année 2025 |
 
 23 |
 
+Conseiller principal d'éducation de classe exceptionnelle |
+
+|
+
+Pour les années 2024 et 2025 |
+
+10,5 |
+
+Pour l'année 2026 |
+
+9,5 |
+
 Corps des psychologues de l'éducation nationale
 
 Régi par le décret n° 2017-120 du 1er février 2017 portant dispositions statutaires relatives aux psychologues de l'éducation nationale
@@ -335,3 +399,19 @@ Pour l'année 2024 |
 Pour l'année 2025 |
 
 23 |
+
+Psychologue de l'éducation nationale de classe exceptionnelle |
+
+|
+
+Pour les années 2024 et 2025 |
+
+7,5 |
+
+Pour l'année 2026 |
+
+9,5 |
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 28 mai 2024 (NOR : MENH2405863A), ces dispositions entrent en vigueur pour les promotions à la classe exceptionnelle prononcées à compter du 1er septembre 2024.
