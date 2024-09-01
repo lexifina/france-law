@@ -110,9 +110,9 @@ a) Soustraction à l'exécution d'une décision d'éloignement (lieu, date et he
 
 b) Recours contentieux (type de recours, juridiction saisie, date et heure du recours, date et heure de l'audience, décision) ;
 
-c) Présentation devant le juge des libertés et de la détention aux fins de prolongation de la rétention administrative (requête aux fins de prolongation, date, heure et lieu de la présentation, adresse du greffe du tribunal de grande instance compétent) ;
+c) Présentation devant le magistrat du siège du tribunal judiciaire aux fins de prolongation de la rétention administrative (requête aux fins de prolongation, date, heure et lieu de la présentation, adresse du greffe du tribunal de grande instance compétent) ;
 
-d) Décision du juge des libertés et de la détention (prolongation de la rétention, refus de prolongation, assignation à résidence, date et heure de l'ordonnance) ;
+d) Décision du magistrat du siège du tribunal judiciaire (prolongation de la rétention, refus de prolongation, assignation à résidence, date et heure de l'ordonnance) ;
 
 e) Conditions de l'assignation à résidence (lieu de l'assignation, lieu et fréquence des contrôles, date de fin de l'assignation, préfecture en charge du suivi) ;
 
@@ -323,3 +323,7 @@ Images numérisées de sa photographie et de deux empreintes digitales.
 C. Données contenues dans le composant électronique de la carte de frontalier :
 
 Les données sont celles figurant au 2° du C du II de la présente annexe (mentions figurant sur la carte de frontalier) ainsi que les images numérisées de deux empreintes digitales.
+
+NOTA :
+
+Conformément au I de l'article 5 du décret n° 2024-570 du 20 juin 2024, ces dispositions entrent en vigueur le 1er septembre 2024.
