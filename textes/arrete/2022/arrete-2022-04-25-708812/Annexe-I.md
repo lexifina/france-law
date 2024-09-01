@@ -324,7 +324,7 @@ E. - Emplois relevant du groupe 3 :
 
 99° Chargé de mission auprès du chef d'état-major des armées ;
 
-100° Chargé de mission auprès du major général des armées ;
+100° Directeur de la protection des installations, moyens et activités de la défense ;
 
 101° Adjoint au directeur du renseignement militaire ;
 
@@ -624,9 +624,17 @@ G. - Emplois relevant du groupe 5 :
 
 9° Chef de la mission de retour à la vie civile des officiers généraux ;
 
+10° (Transféré) ;
+
+11° (Transféré) ;
+
 12° Chef de la division " Euratlantique " à l'état-major des armées ;
 
 13° Chef de la division " coopération bilatérale Sud " à l'état-major des armées ;
+
+14° (Transféré) ;
+
+15° (Transféré) ;
 
 16° Officier général, commandant le service militaire volontaire ;
 
@@ -643,6 +651,8 @@ G. - Emplois relevant du groupe 5 :
 22° Adjoint au chef du service historique de la défense ;
 
 23° Directeur adjoint du service interarmées des munitions ;
+
+24° (Transféré) ;
 
 25° Chargé de mission auprès du major général des armées ;
 
@@ -661,6 +671,8 @@ G. - Emplois relevant du groupe 5 :
 32° Officier général adjoint engagements à l'officier général de zone de défense et de sécurité Nord ;
 
 33° Officier général adjoint engagements à l'officier général de zone de défense et de sécurité de Paris ;
+
+34° (Transféré) ;
 
 35° Directeur de l'enseignement de l'Ecole de guerre ;
 
@@ -728,13 +740,15 @@ G. - Emplois relevant du groupe 5 :
 
 67° Directeur adjoint du service de la maintenance industrielle terrestre ;
 
-68° Officier général commandant en second le commandement pour l'Afrique ;
+68° Adjoint au commandant le commandement pour l'Afrique ;
 
 69° Chargé de mission auprès du major général de l'armée de terre ;
 
 70° Commandant en second de l'appui et de la logistique de théâtre ;
 
 71° Chef de la division “ systèmes d'information, communications et cyberdéfense ” de l'état-major du corps de réaction rapide-France ;
+
+72° (Transféré) ;
 
 73° Adjoint au sous-chef d'état-major " opérations aéronavales " chargé de la " maîtrise des fonds sous-marins " ;
 
@@ -830,6 +844,8 @@ G. - Emplois relevant du groupe 5 :
 
 119° (Droit réservé à un organisme relevant du ministère de la défense) ;
 
+120° (Transféré) ;
+
 121° Directeur de l'atelier industriel aéronautique de Bretagne.
 
 (1) N'occupant pas les fonctions de commandant des écoles militaires de Bourges.
@@ -838,4 +854,4 @@ G. - Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 5 de l’arrêté du 19 août 2024 (NOR : ARMH2422604A), ces dispositions sont applicables aux rémunérations versées à compter du mois d'août 2024.
+Conformément à l’article 5 de l’arrêté du 19 août 2024 (NOR : ARMH2422604A), ces dispositions entrent en vigueur le 1er septembre 2024.
