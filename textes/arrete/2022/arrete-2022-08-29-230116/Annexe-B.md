@@ -318,6 +318,10 @@ Précisez votre motivation |
 
 Texte libre rédigé par les soins du donneur |
 
+Courrier joint |
+
+Texte libre rédigé par les soins du donneur numérisé au format PDF |
+
 Annexe
 
 Liste des catégories socio-professionnelles
@@ -564,4 +568,4 @@ Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retrai
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 8 mars 2024 (NOR : TSSP2407121A), ces dispositions entrent en vigueur le 1er avril 2024.
+Conformément à l'article 2 de l'arrêté du 8 mars 2024 (NOR : TSSP2407121A), ces dispositions entrent en vigueur le 1er septembre 2024.
