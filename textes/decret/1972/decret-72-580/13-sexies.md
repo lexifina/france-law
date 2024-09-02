@@ -4,14 +4,22 @@ I.-Les professeurs agrégés peuvent être promus au grade de professeur agrég�
 
 Le nombre maximum de professeurs agrégés pouvant être promus chaque année à la classe exceptionnelle est déterminé conformément aux dispositions du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
 
-Selon les orientations définies par les lignes directrices de gestion, les professeurs agrégés sont inscrits, après proposition des recteurs d'académie, sur un tableau d'avancement, arrêté chaque année par le ministre chargé de l'éducation nationale.
+Le tableau d'avancement est arrêté chaque année, selon des orientations définies par les lignes directrices de gestion :
 
-Les promotions sont prononcées dans l'ordre d'inscription au tableau annuel d'avancement par le ministre.
+1° Par le recteur d'académie, pour les professeurs agrégés mentionnés au I de l'article 8 ;
 
-II.-Dès leur nomination, les professeurs agrégés de la classe exceptionnelle sont classés, par le ministre chargé de l'éducation nationale, à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans la hors-classe.
+2° Par le ministre chargé de l'éducation nationale, pour les professeurs agrégés mentionnés au II du même article.
 
-Les professeurs agrégés ayant atteint le 4e échelon de la hors-classe conservent l'ancienneté qu'ils avaient acquise dans cet échelon dans la limite du temps nécessaire à une promotion d'échelon dans la classe exceptionnelle.
+Les promotions sont prononcées, dans l'ordre d'inscription au tableau annuel d'avancement, par le recteur d'académie pour les professeurs agrégés mentionnés au I de cet article et par le ministre pour les professeurs agrégés mentionnés au II du même article.
+
+II.-Les professeurs agrégés promus à la classe exceptionnelle sont classés, dès leur nomination, à l'échelon comportant un indice égal ou à défaut immédiatement supérieur à celui dont ils bénéficiaient dans la hors classe.
+
+Le recteur d'académie classe les professeurs agrégés mentionnés au I de l'article 8.
+
+Le ministre chargé de l'éducation nationale classe les professeurs agrégés mentionnés au II du même article.
+
+Les professeurs agrégés ayant atteint le 4e échelon de la hors classe conservent l'ancienneté qu'ils avaient acquise dans cet échelon dans la limite du temps nécessaire à une promotion d'échelon dans la classe exceptionnelle.
 
 NOTA :
 
-Conformément à l’article 32 du décret n° 2023-720 du 4 août 2023, ces dispositions entrent en vigueur pour les promotions prenant effet au 1er septembre 2024.
+Conformément au deuxième alinéa de l'article 12 du décret n° 2024-727 du 6 juillet 2024, ces dispositions entrent en vigueur le 2 septembre 2024.
