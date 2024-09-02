@@ -606,7 +606,7 @@ UF 2 |
 
 Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention.
 
-S'agissant de l'évaluation du chef-d'œuvre, présenté uniquement par les candidats scolaires des établissements d'enseignement public et privé (sous ou hors contrat) et les candidats apprentis, sont pris en compte les points d'écart par rapport à 10 sur 20 affectés du coefficient 2. S'ils sont supérieurs, ils abondent le total général des points servant au calcul de la moyenne générale conditionnant l'obtention du diplôme ; s'ils sont inférieurs, ils viennent en déduction de ce total général. Aucun coefficient d'épreuve ou de sous-épreuve du règlement d'examen n'est modifié. Les modalités de l'évaluation du chef d'œuvre au baccalauréat professionnel sont définies par l'arrêté du 20 octobre 2020 définissant les modalités de l'évaluation du chef-d'œuvre prévue à l'examen du baccalauréat professionnel. |
+S'agissant de l'évaluation du projet, présenté uniquement par les candidats scolaires des établissements d'enseignement public et privé (sous ou hors contrat) et les candidats apprentis, sont pris en compte les points d'écart par rapport à 10 sur 20 affectés du coefficient 2. S'ils sont supérieurs, ils abondent le total général des points servant au calcul de la moyenne générale conditionnant l'obtention du diplôme ; s'ils sont inférieurs, ils viennent en déduction de ce total général. Aucun coefficient d'épreuve ou de sous-épreuve du règlement d'examen n'est modifié. Les modalités de l'évaluation du projet au baccalauréat professionnel sont définies par l'arrêté du 20 octobre 2020 définissant les modalités de l'évaluation du projet prévue à l'examen du baccalauréat professionnel. |
 
 IV c - Définition des épreuves
 
@@ -718,7 +718,7 @@ La sous-épreuve doit permettre de vérifier que le candidat est capable :
 
 - de se placer dans une posture professionnelle, dans le respect de ses limites de compétences.
 
-La sous-épreuve se déroule en année de terminale. Elle prend appui sur un dossier élaboré par le candidat au cours d'une période de formation en milieu professionnel (PFMP) ou lors d'une activité professionnelle d'une durée minimale de trois semaines.
+La sous-épreuve se déroule en année de terminale. Elle prend appui sur un dossier élaboré par le candidat au cours d'une période de formation en milieu professionnel (PFMP) ou lors d'une activité professionnelle d'une durée minimale de quatre semaines.
 
 La PFMP ou l'activité professionnelle est effectuée obligatoirement dans des services ou structures suivants :
 
@@ -864,7 +864,7 @@ La commission d'évaluation est composée de deux membres, un enseignant de la s
 
 Contrôle en cours de formation
 
-Le contrôle en cours de formation a lieu au cours d'une période de formation en milieu professionnel auprès d'adultes non autonomes, dans un établissement sanitaire ou médicosocial, dans un service d'hospitalisation à domicile ou de soins infirmiers à domicile. Cette période, d'une durée d'au moins trois semaines, a lieu au cours de la classe de terminale.
+Le contrôle en cours de formation a lieu au cours d'une période de formation en milieu professionnel auprès d'adultes non autonomes, dans un établissement sanitaire ou médicosocial, dans un service d'hospitalisation à domicile ou de soins infirmiers à domicile. Cette période, d'une durée d'au moins quatre semaines, a lieu au cours de la classe de terminale.
 
 L'évaluation est réalisée par le tuteur sur l'ensemble de la période de formation en milieu professionnel, elle porte sur des activités :
 
@@ -1202,4 +1202,4 @@ L'épreuve facultative secteur sportif est définie par l'arrêté du 8 juillet 
 
 NOTA :
 
-Conformément à l'article 8 de l'arrêté du 13 juin 2024 (NOR : MENE2411418A), ces dispositions entrent en vigueur à la rentrée scolaire 2024.
+Conformément à l'article 2 de l'arrêté du 13 juin 2024 (NOR : MENE2411397A), ces dispositions entrent en vigueur à la rentrée 2024.

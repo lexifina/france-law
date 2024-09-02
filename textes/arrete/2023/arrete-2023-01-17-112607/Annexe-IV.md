@@ -572,7 +572,7 @@ UF2 |
 
 (1) Le candidat peut choisir une ou deux unités facultatives parmi les unités possibles, les conditions sont fixées par la réglementation en vigueur. La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire. Elle a une durée de 25 min. dont 5 min. de préparation. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention.
 
-S'agissant de l'évaluation du chef-d'œuvre, présenté uniquement par les candidats scolaires des établissements d'enseignement public et privé (sous ou hors contrat) et les candidats apprentis, sont pris en compte les points d'écart par rapport à 10 sur 20 affectés du coefficient 2. S'ils sont supérieurs, ils abondent le total général des points servant au calcul de la moyenne générale conditionnant l'obtention du diplôme ; s'ils sont inférieurs, ils viennent en déduction de ce total général. Aucun coefficient d'épreuve ou de sous-épreuve du règlement d'examen n'est modifié. Les modalités de l'évaluation du chef d'œuvre au baccalauréat professionnel sont définies par l'arrêté du 20 octobre 2020 définissant les modalités de l'évaluation du chef-d'œuvre prévue à l'examen du baccalauréat professionnel. |
+S'agissant de l'évaluation du projet, présenté uniquement par les candidats scolaires des établissements d'enseignement public et privé (sous ou hors contrat) et les candidats apprentis, sont pris en compte les points d'écart par rapport à 10 sur 20 affectés du coefficient 2. S'ils sont supérieurs, ils abondent le total général des points servant au calcul de la moyenne générale conditionnant l'obtention du diplôme ; s'ils sont inférieurs, ils viennent en déduction de ce total général. Aucun coefficient d'épreuve ou de sous-épreuve du règlement d'examen n'est modifié. Les modalités de l'évaluation du projet au baccalauréat professionnel sont définies par l'arrêté du 20 octobre 2020 définissant les modalités de l'évaluation du projet prévue à l'examen du baccalauréat professionnel. |
 
 IV-3. Définition des épreuves
 
@@ -1129,3 +1129,7 @@ L'épreuve actuellement en vigueur qui est attachée à cette unité a pour but 
 Epreuve facultative de mobilité :
 
 L'épreuve facultative de mobilité est définie par l'arrêté du 30 août 2019 portant création d'une unité facultative de mobilité et de l'attestation MobilitéPro dans le diplôme du baccalauréat professionnel, du brevet professionnel et du brevet des métiers d'art (BO n° 35 du 26 septembre 2019).
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 13 juin 2024 (NOR : MENE2411397A), ces dispositions entrent en vigueur à la rentrée 2024.
