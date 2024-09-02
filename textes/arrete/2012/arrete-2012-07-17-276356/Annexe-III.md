@@ -34,7 +34,9 @@ Les périodes de formation en milieu professionnel font partie intégrante du cu
 
 2.1 Voie scolaire
 
-La durée de la formation en milieu professionnel est de 22 semaines, incluant la durée nécessaire à la validation du diplôme de niveau V. Les 22 semaines sont réparties sur les trois années de formation (Arrêté du 10 février 2009 - BOEN spécial n° 2 du 19 février 2009).
+La durée de la formation en milieu professionnel est de 20 semaines.
+
+Les 20 semaines sont réparties sur les trois années de formation (arrêté du 21 novembre 2018 modifié relatif aux enseignements dispensés dans les formations sous statut scolaire préparant au baccalauréat professionnel).
 
 Cette durée ne peut être fractionnée en plus de six périodes, la durée de chaque période ne pouvant être inférieure à trois semaines.
 
@@ -64,7 +66,7 @@ Les périodes de formation en milieu professionnel s'effectuent dans les entrepr
 
 En classe de seconde, les six semaines sont réparties en 3 semaines dans le secteur A51 et 3 semaines dans les secteurs A52 ou A53.
 
-En classes de première et terminale les seize semaines sont réparties comme suit :
+En classes de première et terminale les 14 semaines sont réparties comme suit :
 
 Secteur(s) dominant(s)
 
@@ -74,11 +76,11 @@ Secteur(s) complémentaire(s)
 
 |
 
-12 semaines
+11 semaines
 
 |
 
-4 semaines
+3 semaines
 
 |
 
@@ -147,3 +149,7 @@ Pour les candidats positionnés par décision du recteur (articles D337-62 à D3
 - 8 semaines pour les candidats issus de la voie de la formation professionnelle continue.
 
 L'équipe pédagogique détermine avec l'élève, en fonction de son parcours et de son projet professionnel, un secteur dominant (6 à 7 semaines) et un secteur complémentaire (3 à 4 semaines).
+
+NOTA :
+
+Conformément à l'article 8 de l'arrêté du 13 juin 2024 (NOR : MENE2411418A), ces dispositions entrent en vigueur à la rentrée scolaire 2024.

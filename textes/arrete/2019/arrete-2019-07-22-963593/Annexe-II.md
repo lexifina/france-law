@@ -606,7 +606,7 @@ Modes d'évaluation :
 
 1. Contrôle en cours de formation :
 
-La situation d'évaluation prend appui sur un dossier élaboré individuellement par le candidat au cours d'une période de formation en milieu professionnel d'une durée minimale de huit semaines dans une même structure.
+La situation d'évaluation prend appui sur un dossier élaboré individuellement par le candidat au cours d'une période de formation en milieu professionnel d'une durée minimale de six semaines dans une même structure.
 
 Le dossier, composé d'une dizaine de pages hors annexes, explicite un projet d'animation conduit de façon autonome par le candidat, de sa conception à sa mise en œuvre jusqu'à son évaluation. A ce dossier est joint l'attestation de périodes de formation professionnelle exigée.
 
@@ -927,3 +927,7 @@ L'épreuve actuellement en vigueur vise à valider des acquis obtenus lors d'une
 Épreuve facultative d'EPS*
 
 La définition de l'épreuve actuellement en vigueur est celle fixée dans l'annexe de l'arrêté du 07 juillet 2015 créant une unité facultative d'éducation physique et sportive au baccalauréat professionnel.
+
+NOTA :
+
+Conformément à l'article 8 de l'arrêté du 13 juin 2024 (NOR : MENE2411418A), ces dispositions entrent en vigueur à la rentrée scolaire 2024.

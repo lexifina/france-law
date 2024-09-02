@@ -64,7 +64,7 @@ L'élève devra obligatoirement avoir réalisé une PFMP dans chacun des deux se
 
 - animation sociale auprès de personnes âgées en perte d'autonomie.
 
-Il est préconisé de réaliser une durée minimale de huit semaines dans une même structure, afin de permettre aux élèves de construire dans le cadre de l'épreuve E1, un projet d'animation abouti en lien avec une connaissance suffisante de l'environnement professionnel.
+Il est préconisé de réaliser une durée minimale de six semaines dans une même structure, afin de permettre aux élèves de construire dans le cadre de l'épreuve E2, un projet d'animation abouti en lien avec une connaissance suffisante de l'environnement professionnel.
 
 ■ Les modalités de planification
 
@@ -80,13 +80,11 @@ Dans un souci de cohérence de la formation, la programmation des PFMP doit pren
 
 Il est préconisé que l'apprenant effectue :
 
-- Six semaines dans le secteur socioculturel ou socioéducatif, en classe de seconde
+- Huit semaines auprès de personnes âgées en perte d'autonomie.
 
-- Seize semaines réparties en classes de première et terminale
+- Huit semaines dans le secteur socioculturel ou socioéducatif, incluant dans la mesure du possible une période durant les vacances scolaires.
 
-- Huit semaines auprès de personnes âgées en perte d'autonomie
-
-- Huit semaines dans le secteur socioculturel ou socioéducatif, incluant une période durant les vacances scolaires ainsi qu'une période de 4 semaines consécutives.
+Les quatre semaines restant à réaliser peuvent être effectuées indistinctement dans l'un ou l'autre secteur.
 
 2.1.4. Accompagnement pédagogique
 
@@ -145,3 +143,7 @@ Pour les candidats positionnés par décision du Recteur, la durée minimale de 
 L'équipe pédagogique détermine avec le candidat, en fonction de son parcours et de son projet professionnel, le ou les secteurs sur lesquels doivent porter les PFMP ainsi que leur durée.
 
 Dans le cas où le cycle de formation se déroule sur deux ans (élèves venant d'un CAP d'un autre secteur ou d'une seconde générale ou technologique par exemple) la durée des PFMP est ramenée à 16 semaines.
+
+NOTA :
+
+Conformément à l'article 8 de l'arrêté du 13 juin 2024 (NOR : MENE2411418A), ces dispositions entrent en vigueur à la rentrée scolaire 2024.

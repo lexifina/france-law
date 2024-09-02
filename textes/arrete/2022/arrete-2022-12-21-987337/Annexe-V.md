@@ -88,7 +88,7 @@ Durant le cycle des trois années de formation :
 
 - une autre semaine consacrée à des journées de découverte du futur environnement professionnel de l'apprenant
 
-- 20 semaines de PFMP sont dédiées à l'acquisition des compétences en lien avec le référentiel et/ou à des évaluations certificatives.
+- 18 semaines de PFMP sont dédiées à l'acquisition des compétences en lien avec le référentiel et/ou à des évaluations certificatives.
 
 (***) La découverte du milieu professionnel et de son environnement :
 
@@ -183,3 +183,7 @@ L'équipe pédagogique détermine avec le candidat, en fonction de son parcours 
 Les entreprises retenues pour les immersions en milieu professionnel doivent permettre au candidat de découvrir les secteurs d'activité ciblés par le référentiel, en adéquation avec le positionnement établi.
 
 Dans le cas où le cycle de formation se déroule sur deux ans (élèves venant d'un CAP d'un autre secteur ou d'une seconde générale ou technologique par exemple) la durée des PFMP est ramenée à 16 semaines conformément à l'arrêté du 21 novembre 2018 précité.
+
+NOTA :
+
+Conformément à l'article 8 de l'arrêté du 13 juin 2024 (NOR : MENE2411418A), ces dispositions entrent en vigueur à la rentrée scolaire 2024.
