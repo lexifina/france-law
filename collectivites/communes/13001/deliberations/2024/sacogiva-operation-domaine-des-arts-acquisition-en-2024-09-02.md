@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SACOGIVA - OPÉRATION DOMAINE DES ARTS - ACQUISITION EN VEFA DE L'USUFRUIT TEMPORAIRE DE 8 LOGEMENTS LOCATIFS SOCIAUX PLS - EMPRUNT DE 335 087 EUROS SOUSCRIT AUPRÈS DE LA CAISSE D'ÉPARGNE CEPAC - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 100 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2024-09-02
+- Séance : Conseil Municipal 1CA
+- Objet : SACOGIVA - OPÉRATION DOMAINE DES ARTS - ACQUISITION EN VEFA DE L'USUFRUIT TEMPORAIRE DE 8 LOGEMENTS LOCATIFS SOCIAUX PLS - EMPRUNT DE 335 087 EUROS SOUSCRIT AUPRÈS DE LA CAISSE D'ÉPARGNE CEPAC - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 100 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-17179-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
