@@ -1,6 +1,6 @@
 # Article ANNEXE III
 
-TABLEAU RÉCAPITULATIF DES DISPENSES ET ÉQUIVALENCES D'UNITÉ CAPITALISABLE (UC) AVEC DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ”, MENTION “ KARATÉ ET DISCIPLINES ASSOCIÉES ”
+TABLEAU RÉCAPITULATIF DES DISPENSES DES EXIGENCES PREALABLES A L'ENTREE EN FORMATION (EPEF) ET DES EXIGENCES PREALABLES A LA MISE EN SITUATION PROFESSIONNELLE (EPMSP) AINSI QUE DES ÉQUIVALENCES D'UNITÉ CAPITALISABLE (UC) AVEC LE DIPLÔME D'ETAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ”, MENTION “ KARATÉ ET DISCIPLINES ASSOCIÉES ”
 
 |
 
@@ -159,3 +159,7 @@ X |
 (*) BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
 
 (1) Justification d'une expérience d'encadrement technique en sécurité du karaté et disciplines associées d'une durée de trois cents heures au sein d'une association sportive agréée ou d'un établissement d'activités physiques et sportives déclaré, et titulaire du deuxième dan délivré par la Fédération française de karaté et disciplines associées. L'expérience au sein d'une association affiliée à la Fédération française de karaté et disciplines associées est attestée par le directeur technique national du karaté et des disciplines associées. L'expérience au sein d'une association sportive agréée ou d'un établissement d'activités physiques et sportives déclaré est attestée, sur présentation de pièces justificatives, par le directeur régional de la jeunesse, des sports et de la cohésion sociale .
+
+NOTA :
+
+Conformément à l'article 12 de l'arrêté du 2 juillet 2024 (NOR : SPOV2418711A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter de sa publication.

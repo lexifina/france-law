@@ -1,57 +1,281 @@
 # Article ANNEXE I
 
-SITUATION D'ÉVALUATION CERTIFICATIVE DES UC3 ET UC4 DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ” MENTION “ KARATÉ ET DISCIPLINES ASSOCIÉES ”
+RÉFÉRENTIELS D'ACTIVITÉS, DE COMPÉTENCES ET D'ÉVALUATION DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ” MENTION “ KARATÉ ET DISCIPLINES ASSOCIÉES ”
 
-L'épreuve certificative est évaluée dans les conditions prévues à l'article A. 212-26 du code du sport par au moins deux évaluateurs titulaires d'une qualification à minima de niveau III en karaté et disciplines associées et justifiant d'une expérience professionnelle dans le champ de l'encadrement dans la mention “ karaté et disciplines associées ” de deux années au minimum.
+Le DE JEPS mention " karaté et disciplines associées " permet à son titulaire d'enseigner le karaté et disciplines associées, contre rémunération, dans tout type de structure et pour tout niveau.
 
-Sont dispensés de ces exigences, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
+Le diplôme atteste :
 
-Epreuve certificative de l'UC 3 :
+-d'une aptitude à gérer un programme permettant de s'inscrire dans un projet local ;
 
-L'épreuve se déroule au sein de la structure d'alternance pédagogique. Elle se compose d'une mise en situation professionnelle suivie d'un entretien.
+-d'une capacité d'animation d'un groupe ;
 
-Avant la date de l'épreuve, dans les conditions fixées par le directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale (DRDJSCS), par le directeur régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par le directeur de la jeunesse, des sports et de la cohésion sociale (DJSCS), le candidat transmet un dossier relatant son expérience en enseignement, en perfectionnement sportif et formation de cadres réalisée dans une ou plusieurs structures d'alternance pédagogique pour différents publics.
+-d'une maîtrise technique de la discipline suffisante pour l'enseignement à toutes sortes de publics ;
 
-Le candidat prépare pendant 30 minutes maximum une séance de perfectionnement technique.
+-d'une disposition à conduire des actions de formations.
 
-Le candidat conduit cette séance pendant une durée comprise entre 30 minutes minimum et 45 minutes maximum, pour un public confirmé d'au moins 2 pratiquants.
+Il permet la diversification des heures au sein de plusieurs établissements et auprès de multiples employeurs qui contribue à un potentiel d'employabilité non négligeable.
 
-La séance de perfectionnement technique est suivie d'un entretien d'une durée comprise entre 30 minutes minimum et 45 minutes maximum :
+Le DE JEPS est particulièrement adapté aux professeurs de karaté et disciplines associées exerçant cette activité à titre principal. |
 
--10 et 15 minutes au maximum au cours desquelles le candidat analyse et évalue sa séance en mobilisant les connaissances acquises et justifie les choix éducatifs et pédagogiques, ainsi que la pertinence de cette séance au sein d'un cycle de perfectionnement sportif ;
+REFERENTIEL D'ACTIVITES
 
--20 et 30 minutes au maximum à partir du dossier préalablement transmis.
+Décrit les situations de travail et les activités exercées, les métiers ou emplois visés. |
 
-Epreuve certificative de l'UC 4 :
+REFERENTIEL
 
-L'épreuve se déroule au sein de l'organisme de formation.
+DE COMPETENCES
 
-L'épreuve certificative se compose d'une démonstration technique commentée suivie d'un entretien, à partir de l'un des thèmes suivants :
+Identifie les compétences et les connaissances, y compris transversales, qui découlent du référentiel d'activités. |
 
--d'un kata ou son équivalent pour les disciplines associées ;
+REFERENTIEL D'EVALUATION
 
--ou, d'un kihon ou son équivalent pour les disciplines associées ;
+Définit les critères et les modalités d'évaluation des acquis
 
--ou, d'un travail avec partenaire.
+Les modalités d'évaluation des unités capitalisables (UC) 1 et 2 sont définies à l'article A 212-52 du code du sport.
 
-Le jour de l'épreuve, le candidat réalise une démonstration technique commentée à partir de l'un des thèmes susvisés qu'il tire au sort. La progression est présentée par un document détaillé remis par le candidat.
+Les modalités d'évaluation des unités capitalisables (UC) 3 et 4 sont définies à l'annexe II du présent arrêté. |
 
-La démonstration, d'une durée maximale de 30 minutes, se déroule selon le thème tiré au sort et de la manière suivante :
+|
 
-Kata :
+|
 
--deux katas (ou son équivalent pour les disciplines associées) au choix du candidat. Le candidat démontre les deux katas ou équivalents afin d'évaluer sa maitrise des conditions sécuritaires.
+MODALITES D'EVALUATION |
 
-Kihon :
+CRITERES D'EVALUATION |
 
--un ou des enchainements de techniques au choix du candidat.
+UC1-CONCEVOIR UN PROJET D'ACTION |
 
-Le candidat démontre le ou les kihons ou équivalents afin d'évaluer sa maitrise des conditions sécuritaires.
+Participation à la conception de projets et à la direction d'une structure de karaté et disciplines associées
 
-Travail avec partenaire :
+Contribution à l'analyse des attentes des prescripteurs en prenant en compte les caractéristiques physiques, cognitives et psychiques des publics impliqués
 
--travail de défense et/ ou attaque avec partenaire.
+Participation au temps de concertation avec les instances dirigeantes en adaptant les modalités de communication de l'information aux singularités de son interlocuteur pour favoriser l'intégration de tous
 
-Le candidat démontre le travail avec partenaire afin d'évaluer sa maitrise des conditions sécuritaires.
+Proposition d'actions dans le cadre des objectifs de la structure de karaté et disciplines associées en lien avec les spécificités des publics encadrés
 
-Cette démonstration technique est suivie d'un entretien de vingt minutes maximum, sur les aspects sécuritaires liés à la discipline parmi lesquels : la sécurité des pratiquants et des tiers, la prévention des conduites à risque ou l'éthique sportive.
+Elaboration et partage de programmes sportifs en karaté et disciplines associées adaptés aux caractéristiques et besoins de chacun
+
+Anticipation des évolutions possibles du projet d'action en prenant en compte les caractéristiques singulières des différents publics notamment ceux en situation de handicap |
+
+C1. 1-Analyser les enjeux du contexte socioprofessionnel en tenant compte des particularités des publics impliqués
+
+C1. 2-Formaliser les éléments d'un projet d'action en lien avec les caractéristiques physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués
+
+C1. 3-Définir les moyens nécessaires à la mise en œuvre d'un projet d'action en prenant en compte les spécificités physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués |
+
+Une seule modalité certificative permet d'évaluer de façon distincte les UC 1 et 2.
+
+La situation d'évaluation certificative est réalisée au moyen de :
+
+-un document écrit analysant une expérience de conception et de coordination de la mise en œuvre de programmes de perfectionnement sportif en karaté et disciplines associées
+
+-une soutenance orale. |
+
+Le candidat :
+
+-Inscrit son action dans le cadre des orientations et des valeurs de la structure de karaté et disciplines associées, dans une perspective éducative et intégrative
+
+-Participe à des diagnostics sur un territoire
+
+-Inscrit son action dans le cadre des politiques publiques locales
+
+-Prend en compte les réalités sociales, éducatives et culturelles des publics concernés et leurs caractéristiques spécifiques
+
+-Agit dans le cadre des réseaux professionnels et institutionnels locaux
+
+-Implique les bénévoles dans la conception en prenant en compte les caractéristiques spécifiques de chacun afin de favoriser la dimension collective du travail en équipe et l'intégration de tous
+
+-Définit les objectifs d'un projet d'action
+
+-Propose les démarches pédagogiques adaptées aux objectifs et aux publics pour répondre aux objectifs et aux besoins particuliers des publics.
+
+-Organise la mise en œuvre de démarches participatives
+
+-Conçoit des démarches d'évaluation
+
+-Compose une équipe d'intervenants en favorisant la dimension collective du travail en équipe et l'intégration de tous
+
+-Élabore un budget prévisionnel
+
+-Négocie avec sa hiérarchie les financements du projet d'action
+
+-Prend en compte l'impact de son action sur l'environnement professionnel |
+
+UC2 : COORDONNER LA MISE EN ŒUVRE D'UN PROJET D'ACTION |
+
+Coordination d'une équipe bénévole et professionnelle au sein d'une structure de karaté et disciplines associées
+
+Organisation des collaborations entre professionnels et bénévoles en adaptant les modalités de communication, les objectifs, les moyens et outils aux particularités de chaque membre de l'équipe pour favoriser l'intégration de tous
+
+Gestion de la dynamique de groupe en incluant chaque membre au regard de ses caractéristiques et besoins particuliers
+
+Définition des choix techniques et stratégiques
+
+Conception de la communication adaptée aux caractéristiques singulières du public visé
+
+Représentation de la structure auprès des différents acteurs et partenaires |
+
+C2. 1-Animer une équipe de travail en favorisant la dimension collective et l'intégration de tous
+
+C2. 2-Promouvoir les actions programmées en adaptant les modalités de communication aux singularités de son interlocuteur
+
+C2. 3-Gérer la logistique des programmes d'action
+
+C2. 4-Animer la démarche qualité |
+
+Une seule modalité certificative permet d'évaluer de façon distincte les UC 1 et 2.
+
+La situation d'évaluation certificative est réalisée au moyen de :
+
+-un document écrit analysant une expérience de conception et de coordination de la mise en œuvre de programmes de perfectionnement sportif en karaté et disciplines associées ;
+
+-une soutenance orale. |
+
+Le candidat :
+
+-Participe au recrutement en veillant à respecter l'intégration de tous
+
+-Anime les réunions au sein de la structure de karaté et disciplines associées en adaptant les objectifs, plan d'actions, démarches et outils aux particularités de chaque membre de l'équipe pour favoriser l'intégration de tous
+
+-Met en œuvre les procédures de travail adaptées aux caractéristiques spécifiques des acteurs
+
+-Participe aux actions de tutorat dans la structure de karaté et disciplines associées en prenant en compte les caractéristiques spécifiques du tutoré
+
+-Facilite les démarches participatives au sein de la structure de karaté et disciplines associées afin de favoriser l'intégration de tous
+
+-Accompagne le développement des membres de l'équipe en prenant en compte les caractéristiques et besoins particuliers de manière à favoriser l'intégration
+
+-Représente la structure de karaté et disciplines associées
+
+-Conçoit une démarche de communication
+
+-Participe aux actions des réseaux partenaires
+
+-Contrôle le budget des actions programmées
+
+-Gère les partenariats financiers
+
+-Planifie l'utilisation des espaces de pratiques et des moyens matériels adaptés aux caractéristiques des publics
+
+-Rend compte de l'utilisation des moyens financiers
+
+-Anticipe les besoins en termes logistique
+
+-Organise la maintenance technique
+
+-Veille au respect des procédures de travail
+
+-Adapte le programme d'action en cas de nécessité
+
+-Effectue le bilan des actions réalisées |
+
+UC3 : CONDUIRE UNE DÉMARCHE DE PERFECTIONNEMENT SPORTIF EN KARATÉ ET DISCIPLINES ASSOCIÉES |
+
+Encadrement d'activités de perfectionnement sportif en karaté et disciplines associées
+
+Proposition de programme de perfectionnement sportif dans la cadre des objectifs de la structure de karaté et disciplines associées adapté aux caractéristiques spécifiques des publics encadrés
+
+Définition des modes d'intervention à caractère technique adaptées au niveau de progression technique et aux caractéristiques spécifiques des pratiquants
+
+Proposition de démarches d'entraînement adaptés aux objectifs et aux caractéristiques spécifiques des compétiteurs
+
+Encadrement des apprentissages techniques en karaté et disciplines associées en prenant en compte les caractéristiques spécifiques des pratiquants
+
+Conduite des temps de perfectionnement en karaté et disciplines associées en lien avec les singularités des pratiquants
+
+Analyse les potentiels et les limites des pratiquants en lien avec leurs spécificités
+
+Accompagnement des pratiquants dans l'analyse de leur pratique en adaptant les démarches et outils pédagogiques à leurs caractéristiques spécifiques
+
+Conception des interventions dans le champ de la formation en karaté et disciplines associées à partir des singularités des stagiaires
+
+Mise en œuvre de situations formatives en karaté et disciplines associées à partir des singularités des stagiaires |
+
+C3. 1-Conduire une démarche d'enseignement en karaté et disciplines associées en prenant en compte les particularités physiques, motrices, sensorielles, cognitives et psychiques de tous les pratiquants
+
+C3. 2-Conduire une démarche d'entraînement en karaté et disciplines associées à partir des caractéristiques singulières adaptées aux objectifs de perfectionnement sportif des pratiquants
+
+C3. 3-Conduire des actions de formation en karaté et disciplines associées en prenant en compte les singularités physiques, motrices, sensorielles, cognitives et psychiques des pratiquants |
+
+L'épreuve certificative est réalisée au moyen d'une épreuve composée de :
+
+une conduite, en sécurité, d'une séance de perfectionnement en karaté ou dans l'une de ses disciplines associées, suivie d'un entretien ;
+
+un entretien portant sur la conduite d'un projet d'enseignement, de perfectionnement sportif et de formation en karaté ou dans l'une de ses disciplines associées à partir de la production d'un document relatif à la conception et la mise en œuvre d'un projet d'enseignement, de perfectionnement et de formation. |
+
+Le candidat :
+
+-Définit une progression pédagogique en karaté et disciplines associées adaptée aux caractéristiques spécifiques des publics encadrés
+
+-Conduit un enseignement collectif en karaté et disciplines associées adapté aux caractéristiques spécifiques des publics encadrés
+
+-Régule son intervention en fonction des réactions du public
+
+-Évalue un cycle d'enseignement en karaté et disciplines associées notamment au regard de la prise en compte des caractéristiques et des besoins particuliers des pratiquants
+
+-Définit le plan d'entraînement en karaté et disciplines associées adapté aux spécificités des publics encadrés
+
+-Conduit l'entraînement en karaté et disciplines associées en prenant en compte les caractéristiques physiques, motrices, sensorielles, cognitives et psychiques des pratiquants
+
+-Encadre un groupe dans le cadre de compétitions en karaté et disciplines associées en prenant en compte la singularité de chaque pratiquant
+
+-Évalue le cycle d'entraînement en karaté et disciplines associées
+
+-Élabore des scénarios pédagogiques en karaté et disciplines associées adapté au caractéristiques singulières de chaque stagiaire
+
+-Prépare les supports de ses interventions en karaté et disciplines associées en adaptant les modalités de transmission de l'information aux singularités de son public afin de s'assurer de sa compréhension par tous
+
+-Met en œuvre une situation formative en karaté et disciplines associées en prenant en compte les singularités motrices, sensorielles, cognitives et psychiques des pratiquants et des stagiaires
+
+-Adapte son intervention aux réactions et aux caractéristiques spécifiques des stagiaires en karaté et disciplines associées
+
+-Évalue des actions de formation en karaté et disciplines associées au regard de la prise en compte des caractéristiques et des besoins particuliers des stagiaires |
+
+UC 4 : ENCADRER LE KARATÉ ET DISCIPLINES ASSOCIÉES EN SÉCURITÉ |
+
+Encadrement du karaté et disciplines associées en assurant la sécurité des pratiquants, des tiers et de lui-même
+
+Encadrement du karaté et disciplines associées en assurant la sécurité des pratiquants et des tiers, et en préservant l'intégrité physique et psychique des pratiquants au regard de leurs singularités
+
+Vérification de la conformité du matériel technique nécessaire à la réalisation de l'activité karaté et disciplines associées en prenant en compte les caractéristiques singulières des pratiquants
+
+Vérification de la conformité des lieux de travail au regard des normes d'hygiène et de sécurité en karaté et disciplines associées |
+
+C 4.1-Réaliser en sécurité les démonstrations techniques en karaté et disciplines associées
+
+C4. 2-Adapter sa posture pédagogique et les démarches d'intervention afin que chaque sportif évolue en sécurité
+
+C 4.3-Réaliser les gestes professionnels nécessaires à la sécurité des pratiquants en karaté et disciplines associées en prenant en compte leurs caractéristiques singulières physiques, motrices, sensorielles, cognitives et psychiques
+
+C 4.4-Assurer la sécurité des pratiquants et des tiers en karaté et disciplines associées tout en impliquant les pratiquants dans la gestion de leur propre sécurité et de celle des tiers |
+
+L'épreuve certificative est réalisée au moyen d'une épreuve composée d'une démonstration technique commentée s'appuyant sur la production d'un document, suivie d'un entretien portant sur les aspects sécuritaires. |
+
+Le candidat :
+
+-Évalue ses propres capacités à effectuer une démonstration technique en karaté et disciplines associées
+
+-Explicite les différents éléments de la démonstration technique en karaté et disciplines associées en choisissant des moyens de transmission de l'information adaptés aux caractéristiques des pratiquants
+
+-Met en œuvre des démarches pédagogiques adaptées permettant au pratiquant d'expérimenter la discipline en sécurité
+
+-Evalue et anticipe les risques objectifs et potentiels liés à la pratique du karaté et disciplines associées pour le pratiquant
+
+en accordant une vigilance particulière à ses caractéristiques singulières (physiques, motrices, sensorielles, cognitives et psychiques)
+
+-Maîtrise le comportement et les gestes à réaliser en cas d'incident ou d'accident en karaté et disciplines associées en prenant en compte les singularités du pratiquant
+
+-Évalue les risques objectifs liés au contexte de pratique du karaté et disciplines associées
+
+-Anticipe les risques juridiques liés à la pratique du karaté et disciplines associées et au milieu dans lequel il se pratique
+
+-Assure la sécurité passive des équipements de karaté et disciplines associées
+
+-Prévient les comportements à risque en karaté et disciplines associées
+
+-Agit ou fait appel à un tiers lorsqu'il rencontre ses propres limites, pour préserver l'intégrité physique et psychique en cas de maltraitance des mineurs et des personnes vulnérables |
+
+NOTA :
+
+Conformément à l'article 12 de l'arrêté du 2 juillet 2024 (NOR : SPOV2418711A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter de sa publication.
