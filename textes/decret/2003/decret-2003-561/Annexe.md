@@ -10,4 +10,4 @@ www.insee.fr
 
 .
 
-Se reporter aux dispositions prévues par les articles 1, 2 et 3 du décret n° 2023-351 du 10 mai 2023.
+Se reporter aux dispositions prévues par les articles 2 à 6 du décret n° 2024-888 du 4 septembre 2024.
