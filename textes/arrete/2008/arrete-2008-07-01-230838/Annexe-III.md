@@ -1,16 +1,22 @@
 # Article Annexe III
 
-TABLEAU RÉCAPITULATIF DES DISPENSES ET ÉQUIVALENCES D'UNITÉS CAPITALISABLES (UC) AVEC LE DIPLÔME D'ETAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ”, MENTION “ SAVATE BOXE FRANÇAISE ”
+TABLEAU RÉCAPITULATIF DES DISPENSES DES EXIGENCES PRÉALABLES A L'ENTRÉE EN FORMATION (EPEF) ET DES EXIGENCES PRÉALABLES À LA MISE EN SITUATION PROFESSIONNELLE (EPMSP) AINSI QUE DES ÉQUIVALENCES D'UNITÉ CAPITALISABLE (UC) AVEC LE DIPLÔME D'ETAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ” MENTION “ SAVATE BOXE FRANÇAISE ”
+
+La personne titulaire de l'une des certifications mentionnées dans le tableau figurant ci-après est dispensée des exigences préalables à l'entrée en formation et/ ou de la vérification des exigences préalables à la mise en situation professionnelle et/ ou obtient les unités capitalisables (UC) correspondantes du DESJEPS spécialité “ performance sportive ” mention “ savate boxe française ” suivantes :
 
 |
 
-EPEF
+EPEF (*)
 
-(*) |
+visées
 
-EPMSP
+à l'article 3 |
 
-(*) |
+EPMSP (*)
+
+visées
+
+à l'article 5 |
 
 UC 1 |
 
@@ -20,9 +26,7 @@ UC 3 |
 
 UC 4 |
 
-Sportif de haut niveau de savate, boxe française et disciplines associées inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l'article L. 221-2 du code du sport
-
-|
+Sportif de haut niveau de savate, boxe française et disciplines associées inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l'article L. 221-2 du code du sport |
 
 X |
 
@@ -36,7 +40,7 @@ X |
 
 |
 
-DEJEPS* “ perfectionnement sportif ” mention “ savate boxe française ”   |
+DEJEPS spécialité perfectionnement sportif mention "savate boxe française " et justifier d'une expérience d'encadrement sportif en savate boxe française de deux années au cours des cinq dernières années. |
 
 X |
 
@@ -50,7 +54,7 @@ X |
 
 X |
 
-BEES1* option “ boxe française ” spécialité “ savate ” |
+BEES (*) 1er degré option "boxe française " spécialité "savate " et justifier d'une expérience d'encadrement sportif en savate boxe française de deux années au cours des cinq dernières années. |
 
 X |
 
@@ -64,7 +68,7 @@ X |
 
 X |
 
-BEES2* option “ boxe française savate ” |
+BEES (*) 2e degré option "boxe française savate " (**) |
 
 |
 
@@ -78,7 +82,7 @@ X |
 
 X |
 
-BPJEPS* spécialité “ activités pugilistiques ” mention “ boxe française savate ”. |
+BPJEPS (*) spécialité "activités pugilistiques " mention "boxe française savate " et justifier d'une expérience professionnelle d'encadrement sportif de deux années au cours des cinq dernières années. |
 
 X |
 
@@ -92,7 +96,7 @@ X |
 
 |
 
-BPJEPS* spécialité “ éducateur sportif ” mention “ activités de la savate ” option “ boxe française ”. |
+BPJEPS (*) spécialité "éducateur sportif " mention "activités de la savate " option "boxe française " et justifier d'une expérience professionnelle d'encadrement sportif de deux années au cours des cinq dernières années. |
 
 X |
 
@@ -106,7 +110,7 @@ X |
 
 |
 
-Monitorat fédéral de savate qualification boxe française, délivré par la fédération française de savate boxe française et disciplines associées |
+Monitorat fédéral de savate qualification boxe française, délivré par la fédération française de savate boxe française et disciplines associées et justifier d'une expérience professionnelle d'encadrement sportif de deux années au cours des cinq dernières années. |
 
 X |
 
@@ -120,7 +124,7 @@ X |
 
 X |
 
-Certificat de qualification professionnelle animateur de savate option boxe française |
+CQP animateur de savate option boxe française et justifier d'une expérience professionnelle d'encadrement sportif de deux années au cours des cinq dernières années. |
 
 X |
 
@@ -134,12 +138,20 @@ X |
 
 X |
 
-EPEF : exigences préalables à l'entrée en formation.
+(*) EPEF : exigences préalables à l'entrée en formation.
 
-EPMSP : exigences préalables à la mise en situation pédagogique.
+(*) EPMSP : exigences préalables à la mise en situation professionnelle.
 
-DEJEPS : diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport.
+(*) BEES : brevet d'Etat d'éducateur sportif.
 
-BEES1 : brevet d'Etat d'éducateur sportif du premier degré.
+(*) BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
 
-BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport .
+(*) DEJEPS : diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport.
+
+(*) CQP : certificat de qualification professionnelle.
+
+(**) Le diplôme est réputé équivalent il ne sera pas délivré de parchemin correspondant.
+
+NOTA :
+
+Conformément à l'article 12 de l'arrêté du 20 août 2024 (NOR : SPOV2422804A), ces dispositions s'appliquent aux sessions de formation ouvertes à compter de sa publication.
