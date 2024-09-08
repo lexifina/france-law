@@ -2,7 +2,7 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 29 août 2024 :
+Jusqu'au 29 septembre 2024 :
 
 Saint-Denis de La Réunion-Rodrigues (Maurice) ;
 
