@@ -107,3 +107,5 @@ LISTE DES DIPLÔMES REQUIS POUR L'ACCÈS AUX ÉCOLES D'INGÉNIEURS PAR LA VOIE B
 - génie mécanique et productique ;
 
 - sciences de la donnée.
+
+Les candidats dont le diplôme ne correspond pas à cette liste peuvent faire valoir leur droit à demande de validation des études supérieures, conformément à l'article 8.

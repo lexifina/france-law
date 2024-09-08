@@ -20,19 +20,23 @@ COEFFICIENT |
 
 1 |
 
-2 (*) |
+2 |
 
 1 |
 
-Epreuve écrite d'analyse et de synthèse de documents techniques et scientifiques |
+Epreuve écrite d'analyse
 
-DUREE |
+et de synthèse
 
-2 heures 30 |
+de documents techniques et scientifiques |
 
-2 heures 30 |
+DURÉE |
 
-2 heures 30 |
+2 h 30 |
+
+2 h 30 |
+
+2 h 30 |
 
 COEFFICIENT |
 
@@ -44,7 +48,7 @@ COEFFICIENT |
 
 Anglais |
 
-DUREE |
+DURÉE |
 
 2 heures |
 
@@ -69,8 +73,6 @@ Total coefficient |
 3 |
 
 3 |
-
-(*) La sélection sur dossier de la voie " BTSA et BTS " comprend une sélection à partir de la moyenne des notes d'anglais des trois premiers semestres du BTSA, du BTS ou du BTSM qui peut être supérieure à un niveau éliminatoire fixé par le règlement du concours.
 
 Epreuves d'admission
 
