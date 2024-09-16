@@ -830,7 +830,7 @@ G. - Emplois relevant du groupe 5 :
 
 112° Officier général " performance " auprès du chef de la division " performance et management général " de la direction centrale du service de santé des armées ;
 
-113° Chef de projet protection aérienne et anti-drones des jeux Olympiques et Paralympiques 2024 ;
+113° Chargé de mission auprès du chef d'état-major de l'armée de l'air et de l'espace ;
 
 114° Chef de pôle des sécurités de la direction centrale du service de santé des armées ;
 
@@ -854,4 +854,4 @@ G. - Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 5 de l’arrêté du 19 août 2024 (NOR : ARMH2422604A), ces dispositions entrent en vigueur le 1er septembre 2024.
+Conformément à l’article 5 de l’arrêté du 19 août 2024 (NOR : ARMH2422604A), ces dispositions entrent en vigueur le 16 septembre 2024.
