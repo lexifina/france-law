@@ -1,0 +1,14 @@
+# Instaurer des sessions de remplacement pour chaque passage d’examen conduisant à l’obtention d’un diplôme national
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N50377
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/sessions_remplacement_examens_diplome_national
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2024-09-17 : 1er dépôt d'une initiative. (PIONANR5L17B0214)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-09-17 : Renvoi en commission au fond
