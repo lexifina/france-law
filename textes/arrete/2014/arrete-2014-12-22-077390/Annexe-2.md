@@ -384,6 +384,10 @@ Conformément au III de l'article 2 de l'arrêté du 19 décembre 2023 (NOR : EN
 
 - Récupération de chaleur fatale issue de serveurs informatiques pour l'eau chaude sanitaire collective / Fiche d’opération standardisée n° BAR-TH-170
 
+- Rénovation globale d'un bâtiment résidentiel collectif (France métropolitaine) / Fiche d'opération standardisée n° BAR-TH-177
+
+Conformément à l'article 1 de l'arrêté du 6 septembre 2024 (NOR : ECOR2416035A), la présente annexe est complétée par la fiche d'opération standardisée figurant en annexe A à l'arrêté précité.
+
 - Lampe fluo-compacte de classe A / Fiche d’opération standardisée n° BAR-EQ-101
 
 Conformément à l’article 6 de l’arrêté du 26 juillet 2017 (NOR : TRER1720041A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 7 dudit arrêté pour les opérations dont la date de distribution des lampes à l’utilisateur final intervient à compter du 1er octobre 2017.
@@ -449,6 +453,8 @@ Conformément à l’article 1 de l’arrêté du 19 décembre 2023 (NOR : ENER2
 Conformément à l'article 3 de l'arrêté du 20 décembre 2023 (NOR : ENER2333440A), la fiche d'opération standardisée n° BAR-TH-176 est ajoutée par la fiche figurant en annexe E audit arrêté.
 
 Liens :
+
+Vous pouvez consulter l'intégralité de l'arrêté du 6 septembre 2024 (NOR : ECOR2416035A) à partir de l'extrait du Journal officiel électronique authentifié n° 221 du 17 septembre 2024, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=vUKI-T4g1oWQ3tNHivMSv596WAkxk7JLKoUd3uP63A4=
 
 Vous pouvez consulter l'intégralité de l’arrêté du 22 août 2024 (NOR : ECOR2422700A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 206 du 30 août 2024, texte 100, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
 
@@ -532,4 +538,12 @@ https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-
 
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 19 décembre 2023 (NOR : ENER2334670A), la suppression de la fiche d'opération standardisée BAR-TH-164 est applicable aux opérations engagées à compter du 1er janvier 2024. Les dispositions de la fiche d'opération standardisée BAR-TH-164 s'appliquent aux opérations engagées jusqu'au 31 décembre 2023, achevées au plus tard le 31 décembre 2025 et incluses dans une liste transmise, au plus tard le 15 janvier 2024, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-164 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
+Conformément au I de l'article 4 de l'arrêté du 6 septembre 2024 (NOR : ECOR2416035A), ces dispositions s'appliquent aux opérations engagées à compter du 1er novembre 2024. Les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 31 octobre 2024, achevées au plus tard le 31 décembre 2026 et incluses dans une liste transmise, au plus tard le 30 novembre 2024, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
+
+Conformément au II dudit article, et par dérogation aux dispositions dudit I, s'agissant des bâtiments relevant de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis et pour lesquels une assemblée générale des copropriétaires réunie avant le 1er janvier 2025 a décidé de travaux relevant de la fiche BAR-TH-145 s'appliquent aux opérations engagées à compter du 1er mars 2025 et les dispositions du I de l'article 2 s'appliquent aux opérations engagées à compter du 1er mars 2025 ou achevées à compter du 1er mai 2027. Dans ces cas, le demandeur de certificats archive une copie du procès-verbal de cette assemblée générale des copropriétaires.
+
+Dans ces cas, les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 28 février 2025, achevées au plus tard le 30 avril 2027 et incluses dans une liste transmise, au plus tard le 31 mars 2025, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
+
+Conformément au III dudit article, et par dérogation aux dispositions dudit I, s'agissant des bâtiments autres que ceux mentionnés au II du présent article et pour lesquels une demande de permis de construire ou une déclaration préalable de travaux a été déposée avant le 1er novembre 2024, la date du récépissé mentionné à l'article R. 423-2 du code de la construction et de l'habitation faisant foi, relative à des travaux relevant de la fiche BAR-TH-145, les dispositions de l'article 1er, des II et III de l'article 2 et de l'article 3 s'appliquent aux opérations engagées à compter du 1er mars 2025 et les dispositions du I de l'article 2 s'appliquent aux opérations engagées à compter du 1er mars 2025 ou achevées à compter du 1er mai 2027. Dans ces cas, le demandeur de certificats archive une copie du récépissé susmentionné.
+
+Dans ces cas, les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 28 février 2025, achevées au plus tard le 30 avril 2027 et incluses dans une liste transmise, au plus tard le 31 mars 2025, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.

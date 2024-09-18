@@ -396,6 +396,68 @@ Les critères suivants doivent conduire à un classement “ non satisfaisant �
 
 7) Des non-qualités au regard des référentiels de contrôle ou des non-qualités manifestes sont relevées, susceptibles, notamment, de remettre en cause la classe du bâtiment rénové, la pérennité des travaux ou les émissions annuelles de gaz à effet de serre après rénovation, ou susceptibles de remettre en cause la sécurité des installations ou l'usage normal des lieux ; à cette fin, l'organisme d'inspection se fonde, le cas échéant, sur les listes des éléments à contrôler de la présente annexe III correspondant aux travaux réalisés geste par geste, à l'exception des parties A. 1.1, B. 1.1.1, C. I. A, D. I. A et F. I. A.
 
+E ter. Fiche d'opération standardisée BAR-TH-177 “ Rénovation globale d'un bâtiment résidentiel collectif (France métropolitaine) ” :
+
+Le contrôle de ces opérations est réalisé sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance énergétique, la pérennité ou la sécurité des matériaux et équipements doit conduire à classer l'opération en “ non satisfaisant ”.
+
+L'organisme d'inspection mène des opérations de contrôle en fin de phase d'audit énergétique et avant la réalisation des travaux (cf. partie E ter. I ci-dessous) et à l'achèvement des travaux (cf. partie E ter. II ci-dessous).
+
+E ter. I. En fin de phase d'audit énergétique, l'organisme d'inspection réalise un contrôle du contenu de l'audit énergétique, et vérifie, lors d'une visite sur site, la cohérence avec les données d'entrée de la situation initiale de l'audit.
+
+E ter. I. 1 Contrôle du contenu de l'audit énergétique :
+
+Les critères suivants doivent conduire à un classement “ non satisfaisant ” de l'opération :
+
+1) L'audit énergétique n'a pas été réalisé à l'aide d'un logiciel répondant aux exigences de la fiche d'opération standardisée BAR-TH-177 ; le rapport de contrôle mentionne, dans tous les cas, le nom et la version du logiciel utilisé ;
+
+2) L'audit énergétique ne mentionne pas les valeurs des consommations conventionnelles en énergie primaire et en énergie finale avant et après l'opération ;
+
+3) Il est constaté un écart de surface habitable de plus de 10 % (écart = (surface déclarée-surface mesurée)/ surface mesurée * 100) ; la surface mesurée correspond à une surface évaluée par l'organisme d'inspection ;
+
+4) L'audit énergétique montre que le niveau de confort thermique de la situation après travaux est inférieur à celui de la situation initiale, y compris en période de rigueur hivernale, notamment au travers de la note de calcul de dimensionnement du nouveau générateur de chauffage le cas échéant ;
+
+5) L'audit énergétique retranche des consommations conventionnelles d'énergies primaire ou finale la production d'électricité autoconsommée ou exportée ;
+
+6) L'audit énergétique prend en compte des installations de chauffage qui ne sont pas fixes ;
+
+E ter. I. 2 Dans le cas où l'opération s'inscrit dans le cadre du Coup de pouce “ Rénovation performante de bâtiment résidentiel collectif ”, l'organisme d'inspection identifie, dans le rapport d'audit, les scénarios de travaux qui satisfont aux critères du Coup de pouce sur la base des critères suivants, et donne un avis “ non satisfaisant ” dès lors qu'aucun scénario de travaux ne satisfait à ces critères :
+
+7) La consommation conventionnelle annuelle en énergie primaire après travaux, rapportée à la surface de référence du bâtiment, est inférieure à 331 kWh/ (m2. an) ;
+
+8) La baisse de consommation conventionnelle annuelle en énergie primaire est conforme à celle attendue par la fiche d'opération standardisée BAR-TH-177 ;
+
+9) Les émissions annuelles de gaz à effet de serre après rénovation, rapportées à la surface de référence du bâtiment, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux ;
+
+10) Les changements d'équipements de chauffage ou de production d'eau chaude sanitaire le cas échéant préconisés, hors raccordement à un réseau de chaleur, ne conduisent :
+
+a . ni à l'installation d'équipements de chauffage ou de production d'eau chaude sanitaire consommant du charbon ou du fioul ;
+
+b . ni à l'installation d'un système de chauffage ou de production d'eau chaude sanitaire incluant l'installation d'au moins une chaudière au gaz, dont le taux de couverture défini comme le rapport entre la quantité de chaleur fournie par l'ensemble des chaudières au gaz du système et les besoins annuels de chaleur pour les usages couverts par le système, est supérieur à 30 % ;
+
+c . ni à une hausse des émissions de gaz à effet de serre.
+
+E ter. I. 3 Dans le cas où l'opération ne s'inscrit pas dans le cadre du Coup de pouce, l'organisme d'inspection identifie, dans le rapport d'audit, les scénarios de travaux qui satisfont aux critèresde la fiche d'opération standardisée BAR-TH-177 sur la base des critères suivants, et donne un avis “ non satisfaisant ” dès lors qu'aucun scénario de travaux ne satisfait à ces critères :
+
+11) La consommation conventionnelle annuelle en énergie primaire après travaux, rapportée à la surface de référence du bâtiment, est inférieure à 331 kWh/ (m2. an) ;
+
+12) La baisse de consommation conventionnelle annuelle en énergie primaire est conforme à celle attendue par la fiche d'opération standardisée BAR-TH-177 ;
+
+13) Les émissions annuelles de gaz à effet de serre après rénovation, rapportées à la surface de référence du bâtiment, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux.
+
+E ter. I. 4 Le contrôle de l'audit énergétique conduit, par ailleurs, à un résultat “ non satisfaisant ” dès lors qu'un écart manifeste est constaté entre les données d'entrée de la situation initiale utilisées dans l'audit énergétique et les éléments constatés lors de la visite sur site (avant travaux), concernant les points suivants :
+
+14) Niveau d'isolation des parois du bâtiment, et surfaces mises en jeu ;
+
+15) Niveau d'isolation des menuiseries, et surfaces mises en jeu ;
+
+16) Nature des combles (aménagés, perdus) ;
+
+17) Description des systèmes de chauffage et de production d'eau chaude sanitaire, de la génération à l'émission ;
+
+18) Description des systèmes de ventilation ;
+
+19) Description des systèmes de refroidissement, le cas échéant.
+
 F.-Fiche d'opération standardisée BAR-TH-159 " Pompe à chaleur hybride individuelle " :
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en " non satisfaisant ".
@@ -1562,4 +1624,12 @@ L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires
 
 NOTA :
 
-Conformément à l’article 6 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), ces dispositions s'appliquent aux opérations engagées à compter du 1er janvier 2025.
+Conformément au I de l'article 4 de l'arrêté du 6 septembre 2024 (NOR : ECOR2416035A), ces dispositions s'appliquent aux opérations engagées à compter du 1er novembre 2024. Les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 31 octobre 2024, achevées au plus tard le 31 décembre 2026 et incluses dans une liste transmise, au plus tard le 30 novembre 2024, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
+
+Conformément au II dudit article, et par dérogation aux dispositions dudit I, s'agissant des bâtiments relevant de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis et pour lesquels une assemblée générale des copropriétaires réunie avant le 1er janvier 2025 a décidé de travaux relevant de la fiche BAR-TH-145 s'appliquent aux opérations engagées à compter du 1er mars 2025. Dans ces cas, le demandeur de certificats archive une copie du procès-verbal de cette assemblée générale des copropriétaires.
+
+Dans ces cas, les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 28 février 2025, achevées au plus tard le 30 avril 2027 et incluses dans une liste transmise, au plus tard le 31 mars 2025, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
+
+Conformément au III dudit article, et par dérogation aux dispositions dudit I, s'agissant des bâtiments autres que ceux mentionnés au II du présent article et pour lesquels une demande de permis de construire ou une déclaration préalable de travaux a été déposée avant le 1er novembre 2024, la date du récépissé mentionné à l'article R. 423-2 du code de la construction et de l'habitation faisant foi, relative à des travaux relevant de la fiche BAR-TH-145, les dispositions de l'article 1er, des II et III de l'article 2 et de l'article 3 s'appliquent aux opérations engagées à compter du 1er mars 2025. Dans ces cas, le demandeur de certificats archive une copie du récépissé susmentionné.
+
+Dans ces cas, les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 28 février 2025, achevées au plus tard le 30 avril 2027 et incluses dans une liste transmise, au plus tard le 31 mars 2025, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
