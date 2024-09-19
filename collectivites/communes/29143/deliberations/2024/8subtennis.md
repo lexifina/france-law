@@ -1,0 +1,11 @@
+# COMMUNE DE MAHALON : délibération 8SUBTENNIS — 8 SUBVENTION TENNIS CLUB
+
+- Collectivité : COMMUNE DE MAHALON
+- SIRET : 21290143300012
+- Code INSEE : 29143
+- Date : 2024-09-19
+- Matière : 7.5 Finances locales/Subventions
+- Objet : 8 SUBVENTION TENNIS CLUB
+- Transmis à la préfecture : 2024-09-26 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212901433/Deliberation/2024/711022/8b76613bdbc91ca26af57ee1cef0103c2b9c19e53835e54d29fb772a0fdad9c0.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
