@@ -1,0 +1,11 @@
+# Trignac : délibération — ZAC Place de la Mairie – Approbation du Programme d’Equipement Public (PEP)
+
+- Collectivité : Trignac
+- SIREN : 214402109
+- Code INSEE : 44210
+- Date : 2024-09-24
+- Matière : 2.1 Urbanisme,Documents d'urbanisme
+- Objet : ZAC Place de la Mairie – Approbation du Programme d’Equipement Public (PEP)
+- Transmis à la préfecture : 2024-10-01
+- Acte publié : https://www.mairie-trignac.fr/medias/2024/10/Tamponne_ss_pref_DEL_20240925_01-Deliberation.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/66fb3b9df38a0ba45a679c34
