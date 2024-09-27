@@ -38,11 +38,9 @@ La liste des quartiers pour mineurs prévue à l'article R. 124-9 est fixée com
 
 -quartier des mineurs du centre pénitentiaire de Borgo (Haute-Corse) ;
 
--quartier des mineurs de la maison d'arrêt de Bourges (Cher) ;
-
 -quartier des mineurs de la maison d'arrêt de Brest (Finistère) ;
 
--quartier des mineurs de la maison d'arrêt de Caen (Calvados) ;
+-quartier des mineurs du centre pénitentiaire de Caen-Ifs (Calvados) ;
 
 -quartier des mineurs du centre pénitentiaire de Nouméa (Nouvelle-Calédonie) ;
 
@@ -56,11 +54,11 @@ La liste des quartiers pour mineurs prévue à l'article R. 124-9 est fixée com
 
 -quartier des mineurs du centre pénitentiaire de Faa'a-Nuutania (Papeete) ;
 
--quartier des mineurs de la maison d'arrêt de Fleury-Mérogis (Essonne) ;
+-quartier des mineurs du centre pénitentiaire de Fleury-Mérogis (Essonne) ;
 
 -quartier des mineurs de la maison d'arrêt de Grasse (Alpes-Maritimes) ;
 
--quartier des mineurs de la maison d'arrêt de Grenoble-Varces (Isère) ;
+-quartier des mineurs du centre pénitentiaire de Grenoble-Varces (Isère) ;
 
 -quartier des mineurs du centre pénitentiaire du Havre (Seine-Maritime) ;
 
@@ -108,7 +106,7 @@ La liste des quartiers pour mineurs prévue à l'article R. 124-9 est fixée com
 
 -quartier des mineurs du centre pénitentiaire de Villeneuve-lès-Maguelone (Hérault) ;
 
--quartier des mineurs de la maison d'arrêt de Villepinte (Seine-Saint-Denis).
+-quartier des mineurs du centre pénitentiaire de Seine-Saint-Denis (Seine-Saint-Denis).
 
 Article 3
 
@@ -120,14 +118,10 @@ La liste des unités affectées à la prise en charge des mineures prévue à l'
 
 -unité de l'établissement spécialisé pour mineurs du Rhône (Meyzieu, Rhône) ;
 
--unité du centre pénitentiaire de Marseille (Bouches-du-Rhône) ;
+-unité du centre pénitentiaire de Marseille-Baumettes (Bouches-du-Rhône) ;
 
 -unité de la maison d'arrêt d'Epinal (Vosges) ;
 
 -unité de la maison d'arrêt de Fleury-Mérogis (Essonne) ;
 
 -unité du centre pénitentiaire de Rennes (Ille-et-Vilaine).
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 4 novembre 2021 (NOR : JUSK2133007A), ces dispositions entrent en vigueur le 10 novembre 2021.
