@@ -12,15 +12,19 @@ Secrétariat général |
 
 Service des ressources humaines |
 
-Sous-direction de la stratégie, de l'attractivité et de l'accompagnement des évolutions professionnelles |
+Sous-direction de la stratégie,
+
+de l'attractivité et de l'accompagnement
+
+des évolutions professionnelles |
 
 Chef du bureau de la stratégie et de la gouvernance RH ministérielle |
 
 Chef du bureau de la formation et de l'accompagnement des parcours professionnels |
 
-|
+Sous-direction des politiques
 
-Sous-direction des politiques statutaire et salariale ministérielles et de la gestion des ressources humaines de l'administration centrale |
+statutaire et salariale ministérielles et de la gestion des ressources humaines de l'administration centrale |
 
 Chef du bureau des carrières et de la rémunération des personnels d'administration centrale |
 
@@ -96,9 +100,15 @@ Administration centrale |
 
 Sous-direction des finances, de l'immobilier et de la performance |
 
-Chef du bureau de l'immobilier et de la sûreté des juridictions |
+Chef du bureau de la gestion
 
-Chef du bureau du budget, de la comptabilité et des moyens |
+de la performance
+
+|
+
+Chef du bureau du budget, de la comptabilité et des moyens
+
+|
 
 Sous-direction des ressources humaines des greffes |
 
@@ -242,6 +252,10 @@ Direction interrégionale de la protection judiciaire de la jeunesse Ile-de-Fran
 
 Directeur de l'évaluation, de la programmation et des affaires financières |
 
+Directeur des ressources humaines
+
+|
+
 Direction interrégionale de la protection judiciaire de la jeunesse Sud |
 
 Directeur de l'évaluation, de la programmation et des affaires financières |
@@ -257,7 +271,3 @@ Direction interrégionale de la protection judiciaire de la jeunesse Sud-Ouest |
 Directeur de l'évaluation, de la programmation et des affaires financières |
 
 Directeur des ressources humaines |
-
-Ecole nationale de la protection judiciaire de la jeunesse |
-
-Secrétaire général |
