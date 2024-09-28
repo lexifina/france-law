@@ -32,7 +32,7 @@ b) Armée de terre :
 
 - flottille de lutte contre les mines ;
 
-- groupes de plongeurs-démineurs Manche-Mer du Nord, Atlantique et Méditerranée ;
+- groupes de plongeurs démineurs ;
 
 - bâtiments base des plongeurs démineurs ;
 
@@ -195,7 +195,3 @@ e) Autres organismes, unités et emplois :
 - services des districts du territoire des Terres Australes et Antarctiques Françaises ;
 
 - autres postes de plongeur hyperbariste, de plongeur subaquatique et de plongeur d'appui.
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 23 octobre 2023 (NOR : ARMH2328475A), ces dispositions s'appliquent aux rémunérations versées à compter du mois d'octobre 2023.

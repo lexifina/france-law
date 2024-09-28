@@ -44,6 +44,20 @@ I. - Au titre du I de l'annexe 1 à l'arrêté du 24 mai 2023 susvisé :
 
 - centre d'expérimentations pratiques et de réception de l'aéronautique navale - détachement de guerre électronique ;
 
+5° Autres unités et organismes :
+
+- centre d'expérimentations pratiques et de réception de l'aéronautique navale-détachement drones ;
+
+- détachements d'hélicoptères embarqués ;
+
+- éléments chargés de levés hydro-océanographiques à bord de bâtiments militaires ou navires civils au sein des groupes hydrographiques et océanographiques du service hydrographique et océanographique de la marine ;
+
+- flottille amphibie de Toulon (sections chargées des engins de débarquement amphibie) ;
+
+- flottilles de perfectionnement du surfacier ;
+
+- groupes de plongeurs démineurs.
+
 II. - Au titre du II de la même annexe :
 
 - services portuaires des bases navales de Brest, Toulon, Cherbourg, Dégrad des Cannes, Papeete, Fort-de-France, Port des Galets, Nouméa, Mayotte, Djibouti et Abou Dhabi, base opérationnelle Ile Longue.

@@ -62,11 +62,7 @@ Postes désignés sur proposition du directeur ou le chef du service gestionnair
 
 2° Unités de la marine nationale :
 
-- groupement de plongeurs-démineurs (GPD) Manche ;
-
-- groupement de plongeurs-démineurs (GPD) Atlantique ;
-
-- groupement de plongeurs-démineurs (GPD) Méditerranée ;
+- groupes de plongeurs démineurs ;
 
 - base opérationnelle de l'Ile Longue - Secteur plongée ;
 
