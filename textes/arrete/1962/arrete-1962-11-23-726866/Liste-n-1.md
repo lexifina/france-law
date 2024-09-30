@@ -832,6 +832,14 @@ Var |
 
 Hélistation |
 
+Guadeloupe-Maryse Condé
+
+|
+
+Guadeloupe |
+
+|
+
 Guéret - Saint-Laurent |
 
 Creuse |
@@ -1527,12 +1535,6 @@ Drôme |
 Ploërmel-Loyat |
 
 Morbihan |
-
-|
-
-Pointe-à-Pitre - Le Raizet |
-
-Guadeloupe |
 
 |
 
