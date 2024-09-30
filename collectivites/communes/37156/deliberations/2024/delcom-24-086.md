@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_086 — DELIBERATION 2024-86 MODIFICATION DE L'ECHEANCIER SUBVENTION DE LA PASSERELLE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-09-30
+- Matière : 7.5 Finances locales/Subventions
+- Objet : DELIBERATION 2024-86 MODIFICATION DE L'ECHEANCIER SUBVENTION DE LA PASSERELLE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/38759/6abee641494bcd3c13ec5f732f6296fc549e7ec02d2d075ccd1658efbae1dea8.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
