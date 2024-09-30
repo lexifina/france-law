@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_089 — DELIBERATION 2024-89 DCRH RENOUVELLEMENT DE LA CONVENTION DE MISE A DISPOSITION DU CABINET A LA TEV
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-09-30
+- Matière : 1.3 Commande Publique/Conventions de Mandat
+- Objet : DELIBERATION 2024-89 DCRH RENOUVELLEMENT DE LA CONVENTION DE MISE A DISPOSITION DU CABINET A LA TEV
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/38763/f1d6b12be3dcd9104bddeeb82c890bbbfbfdc9a337a655546fb3acf2ac90e0bb.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
