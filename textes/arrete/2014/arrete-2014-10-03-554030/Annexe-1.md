@@ -14,19 +14,17 @@ L‘établissement candidat transmet sa demande à l'organisme mentionné à l'a
 
 - une note explicitant comment les critères d'appréciation de l'annexe 3 sont remplis ;
 
-- l'engagement par l'établissement candidat de permettre la visite du rapporteur et du contre-rapporteur de la commission d'attribution dans les trois mois à compter de la transmission du dossier complet et de prendre en charge les frais liés à leur séjour.
+- l'engagement par l'établissement candidat de permettre la visite du rapporteur et du contre-rapporteur de la commission d'attribution et de prendre en charge les frais liés à leur séjour.
 
 L'organisme mentionné à l'article L. 141-2 du code du tourisme délivre par écrit ou par voie électronique un accusé de réception à l'établissement demandeur lors de la réception de son dossier complet.
 
 Lorsque le dossier de demande est incomplet, l'organisme mentionné à l'article L. 141-2 du code du tourisme lui adresse par écrit ou par voie électronique, au plus tard huit (8) jours à compter de la réception du dossier de candidature, une demande de complément d'informations en précisant les pièces manquantes.
 
-La demande de renouvellement de la distinction est transmise à l'organisme mentionné à l'article L. 141-2 du même code au plus tard quatre mois avant le terme de validité fixé par la décision initiale. La demande de renouvellement est examinée selon la même procédure qu'une demande initiale.
-
 2. Eligibilité de la demande
 
 L'organisme mentionné à l'article L. 141-2 du code du tourisme dispose d'un délai d'un mois à compter de la date de réception du dossier complet pour se prononcer sur l'éligibilité de l'établissement candidat, après examen de la conformité de son dossier aux conditions prévues à l'article 2 de l'arrêté. Il avertit par un courrier motivé, indiquant les délais et voies de recours, l'établissement candidat inéligible dans les quatorze (14) jours maximum de la signature de son rapport.
 
-L'organisme mentionné à l'article L. 141-2 du code du tourisme transmet son rapport sur l'établissement candidat éligible aux membres de la commission d'attribution. Il comprend au moins la note explicitant comment les critères d'appréciation de l'annexe 3 sont remplis. Chacun des membres de la commission a accès à l'ensemble des pièces constituant le dossier. Cette transmission, qui comprend également pour information la liste des établissements non éligibles, intervient le même jour que la convocation des membres de la commission par son président, soit au plus tard trente (30) jours ouvrés avant ladite réunion.
+L'organisme mentionné à l'article L. 141-2 du code du tourisme transmet son rapport sur l'établissement candidat éligible aux membres de la commission d'attribution. Il comprend au moins la note explicitant comment les critères d'appréciation de l'annexe 3 sont remplis. Chacun des membres de la commission a accès à l'ensemble des pièces constituant le dossier. Cette transmission comprend également pour information la liste des établissements non éligibles.
 
 Les personnes chargées au sein de l'organisme mentionné à l'article L. 141-2 du code du tourisme de l'instruction des candidatures sont soumises à l'obligation de discrétion en ce qui concerne tous les faits, informations et documents dont ils ont connaissance à l'occasion de l'exercice de leurs fonctions.
 
@@ -40,7 +38,7 @@ Durant leur visite, les membres de la commission se conforment à des règles d'
 
 Les frais liés à la visite sont assumés par l'établissement candidat sur justificatifs selon des modalités définies par le secrétariat de la commission. Le déroulement de la visite répond à des modalités définies par le secrétariat de la commission. Ces modalités sont transmises aux hôtels classés en catégorie 5 étoiles qui souhaitent déposer leur candidature.
 
-Au plus tard quatorze (14) jours avant la tenue de la réunion prévue au point 2 de la présente annexe, les membres missionnés pour la visite établissent un rapport écrit reprenant, en particulier, chacun des critères d'appréciation de l'annexe 3, énonçant la nature, la date et le lieu de leurs constatations sur place et répondant à un format établi par le secrétariat de la commission.
+Au plus tard quatorze (14) jours avant la tenue de la réunion prévue au point 3.2 de la présente annexe, les membres missionnés pour la visite établissent un rapport écrit reprenant, en particulier, chacun des critères d'appréciation de l'annexe 3, énonçant la nature, la date et le lieu de leurs constatations sur place et répondant à un format établi par le secrétariat de la commission.
 
 3.2. Rôle de la commission
 
@@ -54,7 +52,7 @@ La qualité de membre de la commission des personnalités qualifiées prend fin 
 
 La démission d'un membre de la commission doit être adressée immédiatement au ministre chargé du tourisme.
 
-En cas d'empêchement du président de la commission ou de vacance, ses fonctions sont assurées par son suppléant.
+En cas d'empêchement du président de la commission ou de vacance, ses fonctions sont assurées par le vice-président le plus âgé ou, à défaut, le membre le plus âgé des personnalités qualifiées.
 
 En cas de vacance, la nomination du nouveau président intervient dans le délai d'un mois à compter de la saisine du ministre chargé du tourisme.
 
@@ -64,7 +62,7 @@ Le ministre chargé du tourisme peut exclure un membre de la commission en cas d
 
 Les membres de la commission ne peuvent prendre part à l'instruction ou aux délibérations portant sur une demande dans laquelle ils ont un intérêt personnel, direct ou indirect.
 
-En cas de situation de conflit d'intérêt du président de la commission, ses fonctions sont assurées par son suppléant.
+En cas de situation de conflit d'intérêt du président de la commission, ses fonctions sont assurées par le vice-président le plus âgé ou, à défaut, le membre le plus âgé des personnalités qualifiées.
 
 Les membres de la commission sont soumis à l'obligation de discrétion en ce qui concerne tous les faits, informations et documents dont ils ont connaissance à l'occasion de l'exercice de leurs fonctions. La même obligation s'applique aux débats et délibérations auxquels ils participent.
 
@@ -82,7 +80,7 @@ La commission entend le rapporteur et le contre-rapporteur ayant effectué la vi
 
 Le candidat est ensuite entendu par les membres de la commission afin de présenter sa candidature. Il peut être accompagné ou représenté par toute personne de son choix.
 
-L'audition dure au maximum vingt (20) minutes. Une fois l'audition terminée, le candidat se retire de la réunion. Les membres de la commission débattent ensuite de la candidature avant de passer au vote sur celle-ci.
+L'audition dure au maximum trente (30) minutes. Une fois l'audition terminée, le candidat se retire de la réunion. Les membres de la commission débattent ensuite de la candidature avant de passer au vote sur celle-ci.
 
 Les membres de la commission qui ne peuvent être présents à la réunion peuvent valablement assister à la réunion et voter par visioconférence.
 
@@ -118,12 +116,6 @@ L'avis de la commission d'attribution pour chaque candidature est formalisé par
 
 Le secrétariat de la commission veille au respect de l'ensemble des dispositions du présent article.
 
-3.6. Procédure simplifiée
+NOTA :
 
-Toute candidature n'ayant pas abouti, après examen de la commission, à l'attribution de la distinction Palace peut être déposée une nouvelle fois, sans qu'il soit nécessaire pour l'établissement candidat de communiquer les éléments du dossier ayant permis de conclure à son éligibilité lors de la première instruction.
-
-Le président de la commission exige, le cas échéant, de l'établissement éligible la communication des éléments complémentaires nécessaires au réexamen de son dossier par la commission.
-
-La procédure d'examen de la candidature répond aux mêmes règles que celles prévues aux points 3.1 à 3.5 de la présente annexe.
-
-La procédure simplifiée n'est offerte qu'une seule fois au candidat concerné.
+Conformément à l’article 2 de l’arrêté du 24 janvier 2024 (NOR : ECOI2335791A), ces dispositions entrent en vigueur à partir du 1er octobre 2024 et sont applicables aux demandes d'attribution de la distinction Palace déposées auprès de l'organisation mentionnée à l'article L. 141-2 du code du tourisme antérieurement à la date de publication dudit arrêté et n'ayant pas encore donné lieu à une attribution ou à un refus.
