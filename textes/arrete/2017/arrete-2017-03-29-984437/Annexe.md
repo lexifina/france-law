@@ -134,6 +134,8 @@ Directeur territorial de la police nationale de Mayotte.
 
 Directeur territorial de la police nationale de la Guyane.
 
+Directeur territorial de la police nationale de Nouvelle-Calédonie.
+
 Directeur interdépartemental de la police nationale à Nice.
 
 Directeur interdépartemental de la police nationale à Ajaccio.
@@ -322,4 +324,4 @@ Directeur de l'école nationale supérieure de la police.
 
 NOTA :
 
-Conformément à l’article 2 de l'arrêté du 12 août 2024 (NOR : IOMC2422030A), ces dispositions entrent en vigueur à compter du premier jour du mois suivant sa publication au Journal officiel de la République française, à savoir le 1er septembre 2024.
+Conformément à l’article 2 de l'arrêté du 11 septembre 2024 (NOR : IOMC2423588A), ces dispositions entrent en vigueur à compter du premier jour du mois suivant sa publication au Journal officiel de la République française, à savoir le 1er octobre 2024.
