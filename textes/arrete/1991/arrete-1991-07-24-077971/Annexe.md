@@ -1328,27 +1328,29 @@ Le carnet de route doit être tenu à jour et convenablement rempli, au plus tar
 
 - les anomalies constatées pendant le vol ou une mention explicite d'absence d'anomalie.
 
-6.2.1.4. Pour les aéronefs français, après toute opération d'entretien, le carnet de route doit être revêtu de l'approbation pour remise en service (conformément au chapitre VII), ainsi que de l'identification de l'organisme ou de la personne physique ayant effectué ces opérations d'entretien.
+6.2.1.4. Pour les aéronefs français, après toute opération d'entretien, le carnet de route doit être revêtu de l'approbation pour remise en service (conformément au chapitre VII de la présente annexe ou, le cas échéant, conformément à l'annexe I (partie M-FR) de l'arrêté du 8 juillet 2024 relatif au maintien de la navigabilité des aéronefs civils immatriculés en France, exclus du champ de compétence de l'Agence de l'Union européenne pour la sécurité aérienne, et des produits, pièces et équipements aéronautiques destinés à y être installés, et relatif à l'agrément des organismes et des personnels participant à ces tâches), ainsi que de l'identification de l'organisme ou de la personne physique ayant effectué ces opérations d'entretien.
 
 6.2.1.5. Pour les aéronefs français, après toute action de remise en état consécutive à une anomalie signalée au carnet de route, mention doit être faite des actions correctives effectuées ainsi que de l'identification de l'organisme ou de la personne physique ayant effectué ces opérations.
 
-6.2.2. Documents liés à l'entretien
+6.2.2. Documents liés à l'entretien.
 
-Le "propriétaire" (au sens du chapitre VII, paragraphe 7.1) doit tenir à jour les documents suivants dans lesquels sont consignées les opérations d'entretien effectuées et leurs résultats :
+6.2.2.1. Les dispositions du présent 6.2.2. ne s'appliquent pas aux aéronefs redevables l'annexe I (partie M-FR) de l'arrêté du 8 juillet 2024 relatif au maintien de la navigabilité des aéronefs civils immatriculés en France, exclus du champ de compétence de l'Agence de l'Union européenne pour la sécurité aérienne, et des produits, pièces et équipements aéronautiques destinés à y être installés, et relatif à l'agrément des organismes et des personnels participant à ces tâches.
 
-- le livret d'aéronef ;
+6.2.2.2. Le “ propriétaire ” (au sens du présent chapitre VII, paragraphe 7.1) tient à jour les documents suivants dans lesquels sont consignées les opérations d'entretien effectuées et leurs résultats :
 
-- le livret moteur ;
+-le livret d'aéronef ;
 
-- la fiche hélice ;
+-le livret moteur ;
 
-- le livret radio.
+-la fiche hélice ;
 
-La forme et le contenu de ces documents, ainsi que les méthodes pour les tenir à jour, sont fixés en annexe III.
+-le livret radio.
+
+La forme et le contenu de ces documents, ainsi que les méthodes pour les tenir à jour, sont fixés en annexe III du présent arrêté.
 
 CHAPITRE VII - Entretien
 
-Les exigences de ce chapitre VII ne concernent pas les U.L.M.
+Les exigences de ce chapitre VII ne s'appliquent ni aux ULM. ni aux aéronefs redevables de l'annexe I (partie M-FR) de l'arrêté du 8 juillet 2024 relatif au maintien de la navigabilité des aéronefs civils immatriculés en France, exclus du champ de compétence de l'Agence de l'Union européenne pour la sécurité aérienne, et des produits, pièces et équipements aéronautiques destinés à y être installés, et relatif à l'agrément des organismes et des personnels participant à ces tâches.
 
 7.1. Responsabilités
 
@@ -1637,3 +1639,7 @@ c) Le ministre chargé de l'aviation civile peut notifier à l'organisme le retr
 - que les déclarations de niveau de compétence délivrées ne correspondent pas à la formation objet du dossier de référence déposé ;
 
 - que les personnes auxquelles est délivrée une déclaration de niveau de compétence ne possèdent pas les compétences correspondant à l'objectif de la formation objet du dossier de référence déposé.
+
+NOTA :
+
+Conformément à l’article 15 de l’arrêté du 8 juillet 2024 (NOR : TREA2417554A), ces dispositions entrent en vigueur le 1er octobre 2024.
