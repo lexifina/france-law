@@ -406,6 +406,14 @@ Chef du bureau de la relation avec les opérateurs et agences |
 
 1 |
 
+Chef du bureau de la coordination budgétaire au sein de la direction centrale des compagnies républicaines de sécurité |
+
+30 |
+
+- |
+
+1 |
+
 Direction générale de la police nationale |
 
 Chef du bureau des affaires disciplinaires au sein de la sous-direction de la stratégie des ressources humaines de la direction des ressources humaines, des finances et des soutiens de la police nationale |
@@ -449,6 +457,14 @@ Adjoint au chef du bureau des personnels administratifs, techniques et spéciali
 1 |
 
 Chef du bureau des personnels scientifiques au sein de la sous-direction des personnels administratifs, techniques, spécialisés et scientifiques de la direction des ressources humaines, des finances et des soutiens de la police nationale |
+
+30 |
+
+- |
+
+1 |
+
+Préfigurateur du bureau des personnels contractuels au sein de la sous-direction des personnels administratifs, techniques, spécialisés et scientifiques de la direction des ressources humaines, des finances et des soutiens de la police nationale |
 
 30 |
 
@@ -1542,19 +1558,13 @@ Secrétaire général chargé du pilotage transversal et de coordination au sein
 
 4° Périmètre services de police nationale
 
-Directions
-
-et services |
+Directions et services |
 
 Fonctions |
 
-Points
+Points de NBI |
 
-de NBI |
-
-Nombre d'emplois à forte responsabilité
-
-(EFR) |
+Nombre d'emplois à forte responsabilité (EFR) |
 
 Nombre d'emplois
 
@@ -1564,13 +1574,11 @@ d'administration
 
 de l'intérieur
 
-et de l'outre-mer
+et de l'outre-mer (CAIOM) |
 
-(CAIOM) |
+06 DIPN des Alpes-Maritimes |
 
-06 DDSP des Alpes Maritimes |
-
-Chef de service de gestion opérationnelle |
+Chef du service de soutien opérationnel |
 
 30 |
 
@@ -1578,9 +1586,9 @@ Chef de service de gestion opérationnelle |
 
 1 |
 
-13 DZSP Sud |
+13 DIPN des Bouches-du-Rhône |
 
-Chef de service zonal de gestion opérationnelle |
+Chef du service de soutien opérationnel |
 
 50 |
 
@@ -1588,9 +1596,9 @@ Chef de service zonal de gestion opérationnelle |
 
 1 |
 
-13 DIPJ des Bouches-du-Rhône |
+13 DZPN Sud |
 
-Chef de la division de la logistique |
+Adjoint au chef du département de synthèse, stratégie et soutien |
 
 30 |
 
@@ -1598,17 +1606,249 @@ Chef de la division de la logistique |
 
 1 |
 
-13 DZPAF |
+30 DIPN du Gard |
 
-Chef de la division de l'administration et des finances |
+Chef du service de soutien opérationnel |
 
-20 |
+30 |
 
 - |
 
 1 |
 
-30 Direction centrale du recrutement et de la formation de la police nationale |
+31 DIPN Haute-Garonne |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+33 DIPN de Gironde |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+34 DIPN de l'Hérault |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+35 DIPN d'Ille-et-Vilaine |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+35 DZPN Ouest |
+
+Adjoint au chef du département de synthèse, stratégie et soutien |
+
+30 |
+
+- |
+
+1 |
+
+38 DIPN de l'Isère |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+42 DIPN de la Loire |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+44 DIPN de la Loire-Atlantique |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+51 DIPN de la Marne |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+57 DZPN Est |
+
+Adjoint au chef du département de synthèse, stratégie et soutien |
+
+30 |
+
+- |
+
+1 |
+
+59 DIPN du Nord |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+59 DZPN Nord |
+
+Adjoint au chef du département de synthèse, stratégie et soutien |
+
+30 |
+
+- |
+
+1 |
+
+62 DIPN du Pas-de-Calais |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+67 DIPN du Bas-Rhin |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+69 DZPN Sud-Est |
+
+Adjoint au chef du département de synthèse, stratégie et soutien |
+
+30 |
+
+- |
+
+1 |
+
+69 DIPN du Rhône |
+
+Chef du service de soutien opérationnel |
+
+50 |
+
+- |
+
+1 |
+
+76 DIPN de la Seine-Maritime |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+77 DIPN de la Seine-et-Marne |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+78 DIPN des Yvelines |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+83 DIPN du Var |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+91 DIPN de l'Essonne |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+95 DIPN du Val-d'Oise |
+
+Chef du service de soutien opérationnel |
+
+30 |
+
+- |
+
+1 |
+
+95 DNPAF/ DAP/
+
+Direction de la police aux frontières de Roissy et du Bourget |
+
+Chef du département administration et finances |
+
+30 |
+
+- |
+
+1 |
+
+30 Académie de Police |
 
 Chef du département des ressources de l'école nationale de police de Nîmes |
 
@@ -1618,19 +1858,9 @@ Chef du département des ressources de l'école nationale de police de Nîmes |
 
 1 |
 
-30 DDSP du Gard |
+76 Académie de Police |
 
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-31 DDSP Haute Garonne |
-
-Chef de service de gestion opérationnelle |
+Chef de la division des ressources à l'école nationale de police de Rouen-Oissel |
 
 20 |
 
@@ -1638,199 +1868,9 @@ Chef de service de gestion opérationnelle |
 
 1 |
 
-33 DZSP Sud-Ouest |
-
-Chef de service zonal de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-34 DDSP de l'Hérault |
-
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-35 DZSP Ouest |
-
-Chef de service zonal de gestion opérationnelle |
-
-20 |
-
-- |
-
-1 |
-
-38 DDSP de l'Isère |
-
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-42 DDSP de la Loire |
-
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-44 DDSP de la Loire-Atlantique |
-
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-51 DDSP de la Marne |
-
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-57 DZSP Est |
-
-Chef de service zonal de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-59 DZSP Nord |
-
-Chef de service zonal de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-62 DDSP du Pas-de-Calais |
-
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-67 DDSP du Bas-Rhin |
-
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-69 DZSP Sud-Est |
-
-Chef de service zonal de gestion opérationnelle |
-
-50 |
-
-- |
-
-1 |
-
-69 Ecole nationale supérieure de la police |
+69 École nationale supérieure de la police |
 
 Secrétaire général |
-
-30 |
-
-- |
-
-1 |
-
-76 DDSP de la Seine-Maritime |
-
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-77 DDSP de la Seine-et-Marne |
-
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-78 DDSP des Yvelines |
-
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-83 DDSP du Var |
-
-Chef de service de gestion opérationnelle |
-
-20 |
-
-- |
-
-1 |
-
-91 DDSP de l'Essonne |
-
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-95 DDSP du Val-d'Oise |
-
-Chef de service de gestion opérationnelle |
-
-30 |
-
-- |
-
-1 |
-
-95 DPAF Roissy |
-
-Chef de la division de l'administration et des finances |
 
 30 |
 
