@@ -1202,7 +1202,7 @@ Adjoint au chef de cuisine |
 
 77 |
 
-RZG IdF/ EOGN Melun Musée |
+RZG IdF/ AMGN Melun Musée |
 
 Adjoint au chef de section sécurité et logistique du musée de la GN |
 
@@ -1386,7 +1386,7 @@ Adjoint au chef du service général |
 
 77 |
 
-Ecole des officiers de la gendarmerie nationale de Melun
+Académie militaire de la gendarmerie nationale de Melun
 
 |
 
@@ -1430,7 +1430,7 @@ Adjoint au chef du service général |
 
 77 |
 
-Ecole des officiers de la gendarmerie nationale de Melun |
+Académie militaire de la gendarmerie nationale de Melun |
 
 Maître d'hôtel |
 
@@ -1665,7 +1665,3 @@ Direction de la transformation numérique/ SDENTAT/ CNSN Lognes |
 Responsable de la cellule fabrication CNI |
 
 1 |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 6 juin 2024 (NOR : IOMA2415547A) ces dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication au Journal officiel de la République française, soit le 1er juillet 2024.

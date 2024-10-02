@@ -32,7 +32,7 @@ LISTE DES FORMATIONS MENTIONNÉES À L'ARTICLE 3 DU PRÉSENT ARRÊTÉ
 
 - le commandement de la gendarmerie pour l'environnement et la santé.
 
-(1) Les militaires affectés au sein des écoles de gendarmerie (EG), de l'école des officiers de la gendarmerie nationale (EOGN) et du centre national d'entraînement des forces de gendarmerie (CNEFG) relèvent de la commission assurée par le commandement des écoles de la gendarmerie nationale (CEGN) pour l'attribution du diplôme de qualification supérieure.
+(1) Les militaires affectés au sein des écoles de gendarmerie (EG), de l'Académie militaire de la gendarmerie nationale (AMGN) et du centre national d'entraînement des forces de gendarmerie (CNEFG) relèvent de la commission assurée par le commandement des écoles de la gendarmerie nationale (CEGN) pour l'attribution du diplôme de qualification supérieure.
 
 (2) Les militaires affectés au sein des commandements de la gendarmerie des territoires ultramarins (COMGEND), du commandement de la gendarmerie prévôtale (CGP) et du commandement de la gendarmerie pour les missions extérieures (CGMEX) relèvent de la commission assurée par le commandement de la gendarmerie outre-mer (CGOM) pour l'attribution du diplôme de qualification supérieure.
 

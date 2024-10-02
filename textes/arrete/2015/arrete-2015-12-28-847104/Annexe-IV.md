@@ -1024,7 +1024,7 @@ Commandant du centre national de formation :
 
 -chef du centre national d'assistance aux utilisateurs ;
 
--chef de la division de l'appui à la formation d'une école de gendarmerie, à l'exception de l'école des officiers de la gendarmerie nationale (7 emplois) ;
+-chef de la division de l'appui à la formation d'une école de gendarmerie, à l'exception de l'Académie militaire de la gendarmerie nationale (7 emplois) ;
 
 -chef de la division de l'appui à la formation du centre national d'entraînement des forces de gendarmerie ;
 
@@ -1137,7 +1137,3 @@ A l'agence du numérique des forces de sécurité intérieure :
 -adjoint au chef du département gestion de crise et des événements ;
 
 -adjoint au chef du département des systèmes d'information de soutien.
-
-NOTA :
-
-Conformément à l’article 6 de l’arrêté du 2 août 2024 (NOR : IOMJ2421762A), ces dispositions entrent en vigueur le 1er septembre 2024.

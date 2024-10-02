@@ -538,7 +538,7 @@ Commandant de la section de recherches de :
 
 -chargé de projet auprès du commandement des écoles de la gendarmerie nationale (2 emplois) ;
 
--commandant de groupement à l'école des officiers de la gendarmerie nationale (3 emplois) ;
+-commandant de groupement à l'Académie militaire de la gendarmerie nationale (3 emplois) ;
 
 -commandant en second du centre de production multimédia de la gendarmerie nationale.
 
@@ -685,7 +685,3 @@ A l'agence du numérique des forces de sécurité intérieure :
 -chef du département des communications résilientes opérationnelles ;
 
 -chef du département des systèmes d'information de soutien.
-
-NOTA :
-
-Conformément à l’article 6 de l’arrêté du 2 août 2024 (NOR : IOMJ2421762A), ces dispositions entrent en vigueur le 1er septembre 2024.

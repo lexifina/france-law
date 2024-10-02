@@ -10,7 +10,7 @@ LISTE DES ÉCOLES DE SERVICE PUBLIC ET ORGANISMES ASSURANT UNE FORMATION INITIAL
 
 -Ecole des hautes études en santé publique ;
 
--Ecole des officiers de la gendarmerie nationale ;
+-Académie militaire de la gendarmerie nationale ;
 
 -Ecole nationale d'administration pénitentiaire ;
 

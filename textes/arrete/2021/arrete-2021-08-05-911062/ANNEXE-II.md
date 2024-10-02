@@ -4,7 +4,7 @@ LISTE DES AUTRES CYCLES DE FORMATION DÉNOMMÉS " PRÉPAS TALENTS " PRÉPARANT A
 
 La liste des cycles de formation dénommés " Prépas Talents " mentionnés à l'article 1er de l'arrêté du 5 août 2021 susvisé, à l'exception de ceux mentionnés au troisième alinéa du même article, est la suivante. Cette liste inclut les cycles de formation mentionnés en annexe I en tant qu'ils préparent à d'autres concours que ceux mentionnés au 2° de l'article 4 du décret du 3 mars 2021 susvisé :
 
--Prépa Talents de l'Ecole des officiers de la gendarmerie nationale
+-Prépa Talents de l'Académie militaire de la gendarmerie nationale
 
 -Prépa Talents de l'Ecole nationale de la magistrature
 

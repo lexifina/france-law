@@ -678,9 +678,9 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -commandant d'une compagnie d'instruction au sein d'une école de gendarmerie (51 emplois) ;
 
--commandant de peloton à l'école des officiers de la gendarmerie nationale (9 emplois) ;
+-commandant de peloton à l'Académie militaire de la gendarmerie nationale (9 emplois) ;
 
--commandant de la compagnie de sécurité et d'appui de l'école des officiers de la gendarmerie nationale ;
+-commandant de la compagnie de sécurité et d'appui de l'Académie militaire de la gendarmerie nationale ;
 
 -chef d'une classe Prépa Talents de la gendarmerie nationale (4 emplois) ;
 
@@ -745,7 +745,3 @@ Commandant en second de la compagnie de gendarmerie départementale :
 -officier rapporteur à la commission des recours des militaires (3 emplois) ;
 
 -officier de liaison au département de la sécurité nucléaire au ministère de la transition écologique (2 emplois).
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 26 juin 2024 (NOR : IOMJ2417702A), ces dispositions entrent en vigueur le 1er juillet 2024.

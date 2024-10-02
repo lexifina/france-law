@@ -406,15 +406,15 @@ Commandant en second de la gendarmerie :
 
 -commandant de la division du recrutement, des concours et des examens au commandement des écoles de la gendarmerie nationale ;
 
--officier adjoint commandement à l'école des officiers de la gendarmerie nationale ;
+-officier adjoint commandement à l'Académie militaire de la gendarmerie nationale ;
 
--commandant de la division des formations élèves à l'école des officiers de la gendarmerie nationale ;
+-commandant de la division des formations élèves à l'Académie militaire de la gendarmerie nationale ;
 
 -chef de la division de la formation, commandant en second d'une école de gendarmerie à l'exception de Dijon (6 emplois) ;
 
 -chef de la division de la formation, adjoint au commandant du centre national d'entraînement des forces de gendarmerie ;
 
--chef de la division de l'appui à la formation de l'école des officiers de la gendarmerie nationale ;
+-chef de la division de l'appui à la formation de l'Académie militaire de la gendarmerie nationale ;
 
 8° Autres emplois :
 
@@ -483,7 +483,3 @@ A l'agence du numérique des forces de sécurité intérieure :
 -chef de pôle pilotage projet-appui méthode ;
 
 -chargé de mission au pôle pilotage projet-appui méthode.
-
-NOTA :
-
-Conformément à l’article 6 de l’arrêté du 2 août 2024 (NOR : IOMJ2421762A), ces dispositions entrent en vigueur le 1er septembre 2024.

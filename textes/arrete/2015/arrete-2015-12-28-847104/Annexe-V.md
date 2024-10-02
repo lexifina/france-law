@@ -1062,9 +1062,9 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -chef du cabinet du commandement des écoles de la gendarmerie nationale ;
 
--chef du département ressources humaines de l'école des officiers de la gendarmerie nationale ;
+-chef du département ressources humaines de l'Académie militaire de la gendarmerie nationale ;
 
--chef du département soutiens logistique finances de l'école des officiers de la gendarmerie nationale ;
+-chef du département soutiens logistique finances de l'Académie militaire de la gendarmerie nationale ;
 
 8° Autres emplois :
 
@@ -1137,7 +1137,3 @@ A l'agence du numérique des forces de sécurité intérieure :
 -chef du pôle procédure pénale numérique/ plainte en ligne ;
 
 -chef du pôle DataLab.
-
-NOTA :
-
-Conformément à l’article 6 de l’arrêté du 2 août 2024 (NOR : IOMJ2421762A), ces dispositions entrent en vigueur le 1er septembre 2024.

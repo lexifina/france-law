@@ -36,7 +36,7 @@ MAPA × 40 |
 
 MAPA × 2 |
 
-Le commandant de l'école des officiers de la gendarmerie nationale |
+Le commandant de l'Académie militaire de la gendarmerie nationale |
 
 MAPA × 1 |
 
@@ -72,4 +72,4 @@ Le commandant de la garde républicaine |
 
 MAPA × 1 |
 
-(1) L'expression « MAPA × » s'entend comme suit : marché ou accord-cadre dont le montant est inférieur à n fois le seuil de procédure formalisée tel que défini dans l'avis prévu par les dispositions de l'article R. 2124-1 du code de la commande publique et en dessous duquel les marchés et accords-cadres peuvent être passés selon une procédure adaptée. |
+(1) L'expression " MAPA × " s'entend comme suit : marché ou accord-cadre dont le montant est inférieur à n fois le seuil de procédure formalisée tel que défini dans l'avis prévu par les dispositions de l'article R. 2124-1 du code de la commande publique et en dessous duquel les marchés et accords-cadres peuvent être passés selon une procédure adaptée. |
