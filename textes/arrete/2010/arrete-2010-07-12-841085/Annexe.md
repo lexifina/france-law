@@ -2,12 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 29 septembre 2024 :
-
-Saint-Denis de La Réunion-Rodrigues (Maurice) ;
-
-Saint-Pierre de La Réunion-Port Louis (Maurice).
-
 Jusqu'au 31 octobre 2024 :
 
 Dzaoudzi-Moroni (Comores) ;
@@ -38,7 +32,11 @@ Saint-Denis de La Réunion-Moroni (Comores) ;
 
 Saint-Denis de La Réunion-Dar es Salaam (Tanzanie) ;
 
-Saint-Denis de La Réunion-Perth (Australie).
+Saint-Denis de La Réunion-Perth (Australie) ;
+
+Saint-Denis de La Réunion-Rodrigues (Maurice) ;
+
+Saint-Pierre de La Réunion-Port Louis (Maurice).
 
 Jusqu'au 31 octobre 2026 :
 
