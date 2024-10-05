@@ -233,3 +233,11 @@ Toulon-Alger (Algérie).
 Jusqu'au 31 juillet 2029 :
 
 Nice-Alger (Algérie).
+
+Jusqu'au 30 septembre 2029 :
+
+Toulouse-Alger (Algérie) ;
+
+Marseille-Alger (Algérie) ;
+
+Toulouse-Oran (Algérie).
