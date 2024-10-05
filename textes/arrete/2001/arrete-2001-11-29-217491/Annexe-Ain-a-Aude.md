@@ -234,19 +234,25 @@ B
 
 01/09/17 |
 
-Direction départementale des territoires et de la mer des Alpes-Maritimes (1)
+Direction départementale des territoires et de la mer des Alpes-Maritimes
 
-Fonctions exercées |
+Fonction exercée |
 
-Niveau de qualification
+Niveau de
+
+qualification
 
 de l'emploi |
 
-Nombre d'emplois |
+Nombre
+
+d'emplois |
 
 Nombre de points (IM) par emploi |
 
-Adjoint au chef du service habitat et renouvellement urbain |
+Adjoint au chef de du service habitat et renouvellement urbain
+
+Service habitat et renouvellement urbain |
 
 A |
 
@@ -254,7 +260,7 @@ A |
 
 50 |
 
-Chef du pôle politiques locales de l'habitat et renouvellement urbain |
+Chef du pôle politiques locales de l'habitat et renouvellement urbain-service habitat et renouvellement urbain |
 
 A |
 
@@ -262,7 +268,7 @@ A |
 
 40 |
 
-Chef du pôle social et foncier |
+Chef du pôle social et foncier-service habitat et renouvellement urbain |
 
 A |
 
@@ -270,7 +276,9 @@ A |
 
 40 |
 
-Chargé de projets ANRU et référent réglementaire |
+Chargé de projet ANRU et référent réglementaire
+
+Pôle politique locale de l'habitat et renouvellement urbain-délégation locale de l'ANRU |
 
 B |
 
@@ -278,7 +286,9 @@ B |
 
 30 |
 
-Chargé d'études données logement |
+Chargé de projet ANRU
+
+Pôle politique locale de l'habitat et renouvellement urbain-délégation locale de l'ANRU |
 
 B |
 
@@ -286,7 +296,9 @@ B |
 
 30 |
 
-Adjoint au chef de pôle logement social et foncier |
+Adjoint au chef de pôle logement social et foncier
+
+Service habitat et renouvellement urbain |
 
 B |
 
@@ -294,7 +306,9 @@ B |
 
 30 |
 
-Chargé de projet ANRU |
+Chargé de projet ANRU
+
+Pôle politique locale de l'habitat et renouvellement urbain-délégation locale de l'ANRU |
 
 B |
 
@@ -302,7 +316,9 @@ B |
 
 30 |
 
-Chargé d'études planification de l'habitat |
+Chargé d'études planification de l'habitat
+
+Pôle politique locale de l'habitat et renouvellement urbain-délégation locale de l'ANRU |
 
 B |
 
