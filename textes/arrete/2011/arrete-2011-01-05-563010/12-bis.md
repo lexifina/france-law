@@ -4,6 +4,10 @@ A l'issue d'une période probatoire de six mois à compter de leur affectation �
 
 Lors du renouvellement de l'affectation, le maintien du niveau d'habilitation est subordonné à l'aptitude médicale du fonctionnaire et au suivi régulier des séances de formation continue définies par une instruction du préfet de police prise sur la proposition du chef de la brigade de recherche et d'intervention, ainsi qu'à l'exercice des missions tant d'intervention que judiciaires.
 
-L'habilitation peut être retirée ou son niveau modifié par le chef de la BRI.
+L'habilitation peut être retirée ou son niveau modifié par le chef de la brigade de recherche et d'intervention de la préfecture de police.
 
-Un fonctionnaire habilité quittant la BRI en raison d'une mutation, d'un détachement ou d'une période de disponibilité conserve le bénéfice de son habilitation un an à compter de son départ du service, sous réserve, à son retour, de la vérification de son aptitude médicale. Au-delà de cette période d'un an, l'ensemble des conditions définies par le présent article sont applicables.
+Un fonctionnaire habilité qui a quitté la brigade de recherche et d'intervention de la préfecture de police en raison d'une mutation, d'un détachement ou d'une mise en disponibilité conserve son habilitation pendant un an.
+
+Au-delà, il peut réintégrer l'unité après accord du chef de la brigade de recherche et d'intervention exprimé lors d'un entretien individuel, sous réserve de la vérification de son aptitude médicale et de la validation de la période probatoire de 6 mois définie au premier alinéa, pendant laquelle a lieu la formation au tronc commun intervention de la brigade de recherche et d'intervention.
+
+Les fonctionnaires non habilités sont informés de leur mise à disposition auprès de leur direction d'emploi précédente lors d'un entretien.
