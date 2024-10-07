@@ -418,31 +418,23 @@ C
 
 |
 
-Direction départementale des territoires et de la mer de la Corse-du-Sud
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES DE CORSE-DU-SUD (15)
 
-FONCTIONS EXERCÉES |
+Fonction exercée |
 
-NIVEAU DE
+Niveau de qualification
 
-QUALIFICATION
+de l'emploi |
 
-DE L'EMPLOI |
+Nombre
 
-NOMBRE
+d'emplois |
 
-D'EMPLOIS |
+Nombre de points (IM)
 
-NOMBRE DE POINTS (IM) PAR EMPLOI |
+par emploi |
 
-Chef du service urbanisme, planification, habitat |
-
-A |
-
-1 |
-
-50 |
-
-Chef de l'unité habitat, rénovation urbaine |
+Chef du service aménagement et cohésion des territoires |
 
 A |
 
@@ -450,7 +442,15 @@ A |
 
 50 |
 
-Secrétaire du service urbanisme, planification, habitat |
+Adjoint au chef du service aménagement et cohésion des territoires |
+
+A |
+
+1 |
+
+50 |
+
+Assistante du service aménagement et cohésion des territoires |
 
 C |
 
@@ -458,23 +458,23 @@ C |
 
 20 |
 
-Direction départementale de la cohésion sociale et de la protection des populations de la Corse-du-Sud
+DIRECTION DÉPARTEMENTALE DE L'EMPLOI, DU TRAVAIL, DES SOLIDARITÉS ET DE LA PROTECTION DES POPULATIONS DE LA CORSE-DU-SUD (15)
 
-FONCTIONS EXERCÉES |
+Fonction exercée |
 
-NIVEAU DE
+Niveau de qualification
 
-QUALIFICATION
+de l'emploi |
 
-DE L'EMPLOI |
+Nombre
 
-NOMBRE
+d'emplois |
 
-D'EMPLOIS |
+Nombre de points (IM)
 
-NOMBRE DE POINTS (IM) PAR EMPLOI |
+par emploi |
 
-Adjoint au chef du service logement et urgence sociale |
+Chef du service des solidarités et de l'emploi |
 
 A |
 
@@ -1121,3 +1121,5 @@ NOTA :
 (13) En application de l'article 1 de l'arrêté du 1er février 2024 (NOR : TREK2403559A), la présente annexe est remplacée à effet de la date de signature de l'arrêté précité, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Gard.
 
 (14) En application de l'article 1 de l'arrêté du 28 mars 2024 (NOR : TREK2409225A), la présente annexe est remplacée à effet de la date de signature de l'arrêté précité, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer des Bouches-du-Rhône.
+
+(15) En application de l'article 1 de l'arrêté du 24 septembre 2024 (NOR : TECK2424985A), la présente annexe est remplacée pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Corse-du-Sud et de la direction départementale de l'emploi, du travail, des solidarités et de la protection des populations de la Corse-du-Sud, par les dispositions de l'annexe audit arrêté, prenant effet à la date de signature dudit acte.
