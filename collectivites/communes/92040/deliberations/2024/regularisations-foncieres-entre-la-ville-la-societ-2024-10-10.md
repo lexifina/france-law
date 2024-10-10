@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Régularisations foncières entre la Ville, la Société des Grands Projets et la SNCF Gares & Connexions dans le cadre de la construction de la nouvelle gare ISSY RER du Grand Paris Express
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-10-10
+- Matière : PATRIMOINE
+- Objet : Régularisations foncières entre la Ville, la Société des Grands Projets et la SNCF Gares & Connexions dans le cadre de la construction de la nouvelle gare ISSY RER du Grand Paris Express
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3NTYsInB1ciI6ImJsb2JfaWQifX0=--2bc034226254974bb6f8485cd4257593223ab852/101024_18.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
