@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du Rapport Social Unique 2023.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-10-10
+- Matière : RESSOURCES HUMAINES
+- Objet : Présentation du Rapport Social Unique 2023.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3NTQsInB1ciI6ImJsb2JfaWQifX0=--efe8a12eb3ea8864e0062c733f525018ddb1c20f/101024_10.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
