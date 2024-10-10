@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation des nouvelles modalités de remboursement des médecins agréés sollicités par le conseil médical placé auprès du Centre Interdépartemental de Gestion de la petite couronne.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-10-10
+- Matière : RESSOURCES HUMAINES
+- Objet : Approbation des nouvelles modalités de remboursement des médecins agréés sollicités par le conseil médical placé auprès du Centre Interdépartemental de Gestion de la petite couronne.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MjQsInB1ciI6ImJsb2JfaWQifX0=--d628a7addf14c6ee84aa9fcbaee2364267034d47/101024_11.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
