@@ -184,6 +184,8 @@ Chef de la mission " Grande Couronne ".
 
 Commandant des réserves.
 
+Conseiller prospective et stratégie.
+
 2. Direction des ressources humaines, des finances et des soutiens de la police nationale :
 
 Sous-directeur de l'encadrement supérieur, des commissaires et des officiers.
