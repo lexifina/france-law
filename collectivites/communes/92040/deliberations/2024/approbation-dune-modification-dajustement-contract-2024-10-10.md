@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une modification d’ajustement contractuel n°1 relative au lot n°2 (Dommages aux biens) du marché d’assurances de la Ville en groupement de commandes avec le CCAS
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-10-10
+- Matière : ASSURANCES
+- Objet : Approbation d’une modification d’ajustement contractuel n°1 relative au lot n°2 (Dommages aux biens) du marché d’assurances de la Ville en groupement de commandes avec le CCAS
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MjYsInB1ciI6ImJsb2JfaWQifX0=--a1545de33f03215fe1e540428315fb2b8a5f0d87/101024_17.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
