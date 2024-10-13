@@ -156,7 +156,7 @@ E. - Emplois relevant du groupe 3 :
 
 15° Chef d'état-major du commandement de la force et des opérations terrestres ;
 
-16° Général commandant en second du combat futur de l'armée de terre ;
+16° Chef de la division “ cohésion nationale ” de l'état-major des armées ;
 
 17° Général commandant de l'académie militaire de Saint-Cyr Coëtquidan ;
 
@@ -412,7 +412,7 @@ F. - Emplois relevant du groupe 4 :
 
 33° Chargé des fonctions de sous-directeur technique de la direction du renseignement militaire ;
 
-34° Chef de la division “ cohésion nationale ” de l'état-major des armées ;
+34° Général commandant en second du combat futur de l'armée de terre ;
 
 35° Adjoint au commandant de l'arrondissement maritime de Brest et commandant de la base de défense de Brest-Lorient ;
 
@@ -854,4 +854,4 @@ G. - Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 5 de l’arrêté du 19 août 2024 (NOR : ARMH2422604A), ces dispositions entrent en vigueur le 16 septembre 2024.
+Conformément à l’article 3 de l’arrêté du 9 octobre 2024 (NOR : ARMH2426987A), ces dispositions sont applicables aux rémunérations versées à compter du mois d'octobre 2024.
