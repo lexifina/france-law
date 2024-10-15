@@ -1,0 +1,55 @@
+# Contre toutes les fraudes aux aides publiques
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N50715
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/contre_fraudes_aides_publiques
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl24-274.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2024-10-15 : 1er dépôt d'une initiative. (PIONANR5L17B0447)
+  - 2024-11-28 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-10-15 : Renvoi en commission au fond
+      - 2024-11-13 : Nomination de rapporteur
+      - 2024-11-13 : Réunion de commission
+      - 2024-12-02 : Réunion de commission
+      - 2025-01-27 : Réunion de commission
+      - 2024-11-27 : Dépôt de rapport (RAPPANR5L17B0633, PIONANR5L17BTC0633)
+  - Discussion en séance publique
+    - 2025-01-27 : Discussion en séance publique
+    - 2025-01-27 : Discussion en séance publique
+    - 2025-01-27 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2025-01-28 : Dépôt d'une initiative en navette (PIONSNR5S459B0274)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-01-28 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2025-03-19 : Dépôt de rapport (RAPPSNR5S459B0468, PIONSNR5S459BTC0469)
+  - Discussion en séance publique
+    - 2025-04-02 : Discussion en séance publique
+    - 2025-04-02 : Décision
+- Commission Mixte Paritaire
+  - 2025-04-03 : Dépôt d'un projet de loi (PIONANR5L17B1249)
+  - 2025-04-03 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2025-05-06 : Nomination de rapporteur
+    - 2025-05-06 : Dépôt du rapport d'une CMP (RAPPANR5L17B1368, PIONANR5L17BTC1368)
+    - 2025-05-06 : Dépôt du rapport d'une CMP (RAPPSNR5S459B0569, PIONSNR5S459BTC0570)
+  - Discussion en séance publique
+    - 2025-05-14 : Discussion en séance publique
+    - 2025-05-14 : Discussion en séance publique
+    - 2025-05-14 : Décision
+  - Discussion en séance publique
+    - 2025-05-21 : Discussion en séance publique
+    - 2025-05-21 : Décision
+  - 2025-05-09 : Décision de la CMP
+- Conseil constitutionnel
+  - 2025-05-26 : Saisine du conseil constitutionnel
+  - 2025-06-26 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2025-06-30 : Promulgation d'une loi
