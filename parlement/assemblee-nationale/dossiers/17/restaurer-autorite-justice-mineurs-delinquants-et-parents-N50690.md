@@ -1,0 +1,56 @@
+# Restaurer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N50690
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/restaurer_autorite_justice_mineurs_delinquants_et_parents
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl24-343.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2024-10-15 : 1er dépôt d'une initiative. (PIONANR5L17B0448)
+  - 2025-01-20 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-10-15 : Renvoi en commission au fond
+      - 2024-11-13 : Nomination de rapporteur
+      - 2024-11-13 : Réunion de commission
+      - 2024-11-26 : Réunion de commission
+      - 2024-11-26 : Réunion de commission
+      - 2024-12-02 : Réunion de commission
+      - 2024-11-27 : Dépôt de rapport (RAPPANR5L17B0628, PIONANR5L17BTC0628)
+  - Discussion en séance publique
+    - 2025-02-12 : Discussion en séance publique
+    - 2025-02-13 : Discussion en séance publique
+    - 2025-02-13 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2025-02-13 : Dépôt d'une initiative en navette (PIONSNR5S459B0343)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-02-13 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2025-03-19 : Dépôt de rapport (RAPPSNR5S459B0463, PIONSNR5S459BTC0464)
+  - Discussion en séance publique
+    - 2025-03-26 : Décision
+- Commission Mixte Paritaire
+  - 2025-03-26 : Dépôt d'un projet de loi (PIONANR5L17B1188)
+  - 2025-04-02 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2025-05-06 : Nomination de rapporteur
+    - 2025-05-06 : Dépôt du rapport d'une CMP (RAPPSNR5S459B0572, PIONSNR5S459BTC0573)
+    - 2025-05-06 : Dépôt du rapport d'une CMP (RAPPANR5L17B1367, PIONANR5L17BTC1367)
+  - Discussion en séance publique
+    - 2025-05-13 : Discussion en séance publique
+    - 2025-05-13 : Discussion en séance publique
+    - 2025-05-13 : Décision
+  - Discussion en séance publique
+    - 2025-05-19 : Décision
+  - 2025-05-06 : Décision de la CMP
+- Conseil constitutionnel
+  - 2025-05-20 : Saisine du conseil constitutionnel
+  - 2025-05-22 : Saisine du conseil constitutionnel
+  - 2025-05-27 : Saisine du conseil constitutionnel
+  - 2025-06-19 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2025-06-23 : Promulgation d'une loi
