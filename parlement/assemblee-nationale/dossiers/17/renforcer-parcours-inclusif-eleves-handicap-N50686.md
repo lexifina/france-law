@@ -1,0 +1,54 @@
+# Renforcer le parcours inclusif des élèves en situation de handicap
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N50686
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_parcours_inclusif_eleves_handicap
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl24-571.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2024-10-15 : 1er dépôt d'une initiative. (PIONANR5L17B0439)
+  - 2025-05-05 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-10-15 : Renvoi en commission au fond
+      - 2025-04-02 : Nomination de rapporteur
+      - 2025-04-30 : Réunion de commission
+      - 2025-04-30 : Dépôt de rapport (RAPPANR5L17B1360, PIONANR5L17BTC1360)
+  - Discussion en séance publique
+    - 2025-05-05 : Discussion en séance publique
+    - 2025-05-05 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2025-05-06 : Dépôt d'une initiative en navette (PIONSNR5S459B0571)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-05-06 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2025-06-11 : Dépôt de rapport (RAPPSNR5S459B0725, PIONSNR5S459BTC0726)
+  - Discussion en séance publique
+    - 2025-06-19 : Décision
+- Commission Mixte Paritaire
+  - 2025-06-20 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2025-07-01 : Nomination de rapporteur
+    - 2025-07-01 : Dépôt du rapport d'une CMP (RAPPSNR5S459B0805, PIONSNR5S459BTC0806)
+    - 2025-07-01 : Dépôt du rapport d'une CMP (RAPPANR5L17B1654)
+  - 2025-07-01 : Décision de la CMP
+- Nouvelle Lecture
+  - 2025-06-19 : Dépôt d'une initiative en navette (PIONANR5L17B1610)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-06-19 : Renvoi en commission au fond
+      - 2026-05-05 : Réunion de commission
+      - 2026-05-11 : Réunion de commission
+      - 2026-05-06 : Dépôt de rapport (RAPPANR5L17B2751, PIONANR5L17BTC2751)
+  - Discussion en séance publique
+    - 2026-05-11 : Discussion en séance publique
+    - 2026-05-11 : Décision
+- Nouvelle Lecture
+  - 2026-05-12 : Dépôt d'une initiative en navette (PIONSNR5S479B0608)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-05-12 : Renvoi en commission au fond
