@@ -1,0 +1,81 @@
+# Réformer le mode d'élection des membres du Conseil de Paris et des conseils municipaux de Lyon et Marseille
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N50692
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/reformer_mode_election_membres_Conseil_Paris
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl24-532.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2024-10-15 : 1er dépôt d'une initiative. (PIONANR5L17B0451)
+  - 2025-02-18 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-10-15 : Renvoi en commission au fond
+      - 2025-03-03 : Nomination de rapporteur
+      - 2025-03-03 : Réunion de commission
+      - 2025-04-02 : Réunion de commission
+      - 2025-04-02 : Réunion de commission
+      - 2025-04-07 : Réunion de commission
+      - 2025-04-02 : Dépôt de rapport (RAPPANR5L17B1247, PIONANR5L17BTC1247)
+  - Discussion en séance publique
+    - 2025-04-08 : Discussion en séance publique
+    - 2025-04-08 : Discussion en séance publique
+    - 2025-04-09 : Discussion en séance publique
+    - 2025-04-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2025-04-09 : Dépôt d'une initiative en navette (PIONSNR5S459B0532)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-04-09 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2025-05-21 : Dépôt de rapport (RAPPSNR5S459B0648, PIONSNR5S459BTC0649)
+  - Discussion en séance publique
+    - 2025-06-03 : Discussion en séance publique
+    - 2025-06-03 : Décision
+- Commission Mixte Paritaire
+  - 2025-06-04 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2025-06-24 : Nomination de rapporteur
+    - 2025-06-24 : Dépôt du rapport d'une CMP (RAPPANR5L17B1618)
+    - 2025-06-24 : Dépôt du rapport d'une CMP (RAPPSNR5S459B0769, PIONSNR5S459BTC0770)
+  - Discussion en séance publique
+    - 2025-07-07 : Décision
+  - 2025-06-26 : Décision de la CMP
+- Nouvelle Lecture
+  - 2025-06-03 : Dépôt d'une initiative en navette (PIONANR5L17B1487)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-06-03 : Renvoi en commission au fond
+      - 2025-07-02 : Réunion de commission
+      - 2025-07-07 : Réunion de commission
+      - 2025-07-02 : Dépôt de rapport (RAPPANR5L17B1656, PIONANR5L17BTC1656)
+  - Discussion en séance publique
+    - 2025-07-07 : Discussion en séance publique
+- Nouvelle Lecture
+  - 2025-07-08 : Dépôt d'une initiative en navette (PIONSNR5S459B0829)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-07-08 : Renvoi en commission au fond
+      - 2025-07-08 : Dépôt de rapport (RAPPSNR5S459B0836, PIONSNR5S459BTC0837)
+  - Discussion en séance publique
+    - 2025-07-09 : Décision
+- Lecture définitive
+  - 2025-07-10 : Dépôt d'une initiative en navette (PIONANR5L17BTA0161)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-07-10 : Renvoi en commission au fond
+      - 2025-07-10 : Réunion de commission
+      - 2025-07-10 : Dépôt de rapport (RAPPANR5L17B1699)
+  - Discussion en séance publique
+    - 2025-07-10 : Discussion en séance publique
+    - 2025-07-10 : Décision
+- Conseil constitutionnel
+  - 2025-07-15 : Saisine du conseil constitutionnel
+  - 2025-07-16 : Saisine du conseil constitutionnel
+  - 2025-07-18 : Saisine du conseil constitutionnel
+  - 2025-08-07 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2025-08-11 : Promulgation d'une loi
