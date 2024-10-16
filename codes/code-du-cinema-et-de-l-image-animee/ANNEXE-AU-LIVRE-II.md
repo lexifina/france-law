@@ -904,6 +904,18 @@ II.-Formation :
 
 7° Une note détaillant le contenu de la formation envisagée et les initiatives que l'exploitant entend développer à la suite de la formation.
 
+II-11. Aides financières sélectives au développement de l'emploi dans le secteur de l'exploitation cinématographique itinérante
+
+II-11.1. Documents justificatifs à joindre à l'appui d'une demande d'aide
+
+(Articles 233-1 et suivants)
+
+1° Une présentation de l'exploitant et de son activité cinématographique notamment le contexte local, l'environnement cinématographique, la programmation, la politique d'animation et d'accompagnement des œuvres, le volume d'activité et les résultats atteints en termes de fréquentation ;
+
+2° Le projet de développement des emplois avec la (les) fiche (s) de poste, les budgets prévisionnels relevant de ce (s) poste (s) ainsi qu'un argumentaire sur les possibilités offertes par ce (s) nouveau (x) poste (s) telles que l'accroissement de la fréquentation, la conquête de publics spécifiques, la pérennisation de l'activité, etc. ;
+
+3° Des documents permettant d'évaluer la situation financière et économique de l'exploitant, notamment les bilans.
+
 NOTA :
 
 Conformément à l'article 3 de la délibération n° 2024/CA/16 du 27 juin 2024, ces dispositions s'appliquent aux œuvres cinématographiques dont les prises de vues débutent à compter du 1er décembre 2024.
