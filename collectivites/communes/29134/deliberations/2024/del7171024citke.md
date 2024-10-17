@@ -1,0 +1,11 @@
+# COMMUNE DE LOCRONAN : délibération DEL7171024CITKE — Proposition - suivi de l'éxécution du chantier de Kerguénolé au Cabinet CIT Quimper
+
+- Collectivité : COMMUNE DE LOCRONAN
+- SIRET : 21290134200015
+- Code INSEE : 29134
+- Date : 2024-10-17
+- Matière : 1.4 Commande Publique/Autres types de contrats
+- Objet : Proposition - suivi de l'éxécution du chantier de Kerguénolé au Cabinet CIT Quimper
+- Transmis à la préfecture : 2024-10-22 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212901342/Deliberation/2024/728674/3d3027ffccdeee9529594a8c1388dae8e1331270152f73a94bdc02be401a7f19.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
