@@ -32,7 +32,7 @@ Le candidat s'appuie sur des projets menés ou des missions confiées pour mettr
 
 Le candidat expose son expérience, ses motivations, les dominantes qu'il souhaite suivre, ses qualités personnelles, ses compétences et son savoir-être.
 
-Une note sur 20 affectée d'un coefficient 10 est attribuée à ce dossier.
+Une note sur 20 affectée d'un coefficient 8 est attribuée à ce dossier.
 
 2. En phase d'admission :
 

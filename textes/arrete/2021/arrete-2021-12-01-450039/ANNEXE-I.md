@@ -14,8 +14,8 @@ Sont autorisés à concourir les candidats réunissant les conditions suivantes 
 
 - être âgé de 26 ans au plus au 1er janvier de l'année du concours ;
 
-- posséder l'un des diplômes ou titres donnant accès au concours externe d'entrée à l'Ecole nationale d'administration ;
+- posséder l'un des diplômes ou titres donnant accès au concours externe d'entrée à l'Institut national du service public ;
 
-- détenir l'aptitude médicale exigée par l'arrêté du 10 juillet 2017 susvisé ;
+- détenir l'aptitude médicale exigée par l'arrêté du 30 novembre 2021 susvisé ;
 
 - ne pas s'être déjà présenté trois fois à ce concours.

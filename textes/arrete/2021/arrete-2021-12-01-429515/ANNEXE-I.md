@@ -22,6 +22,6 @@ Sont autorisés à concourir les candidats réunissant les conditions suivantes 
 
 - diplôme remis par un établissement autorisé à délivrer un diplôme officiel visé par le ministre chargé de l'enseignement supérieur et préparant à des emplois de niveau 1.
 
-- détenir l'aptitude médicale exigée par l'arrêté du 10 juillet 2017 susvisé ;
+- détenir l'aptitude médicale exigée par l'arrêté du 30 novembre 2021 susvisé ;
 
 - ne pas s'être déjà présenté trois fois à ce concours.
