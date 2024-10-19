@@ -4,4 +4,6 @@ Peuvent accéder au choix à l'échelon exceptionnel de la hors classe, dans la 
 
 L'avancement à l'échelon exceptionnel de la hors classe a lieu sur la base de critères définis par les sections du Conseil national des universités pour les disciplines de santé. Parmi ces critères, l'investissement des maîtres de conférences dans leur mission d'enseignement doit être particulièrement pris en compte.
 
-Il est prononcé par arrêté du ministre chargé de l'enseignement supérieur, après avis du conseil de l'unité de formation et de recherche concernée, sur proposition de la sous-section compétente pour la médecine générale du Conseil national des universités pour les disciplines de santé.
+Il est prononcé par arrêté du ministre chargé de l'enseignement supérieur, après avis du conseil de l'unité de formation et de recherche concernée sur l'ensemble des candidatures à l'avancement, sur proposition de la sous-section compétente pour la médecine générale du Conseil national des universités pour les disciplines de santé, sur la base de critères rendus publics par cette sous-section.
+
+La section compétente du Conseil national des universités pour les disciplines de santé peut se réunir selon les règles de fonctionnement des jurys prévues à l'article 13-1.
