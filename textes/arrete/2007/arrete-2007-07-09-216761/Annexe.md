@@ -20,16 +20,6 @@ France métropolitaine-Royaume-Uni.
 
 2. Liaisons internationales extracommunautaires :
 
-Jusqu'au 31 octobre 2024
-
-Nantes-Istanbul (Turquie) ;
-
-Lyon-Monastir (Tunisie) ;
-
-Nantes-Djerba (Tunisie) ;
-
-Nantes-Monastir (Tunisie).
-
 Jusqu'au 13 février 2025
 
 Lyon-Bejaïa (Algérie) ;
@@ -241,3 +231,31 @@ Toulouse-Alger (Algérie) ;
 Marseille-Alger (Algérie) ;
 
 Toulouse-Oran (Algérie).
+
+Jusqu'au 31 octobre 2029 :
+
+Lyon-Monastir (Tunisie) ;
+
+Nantes-Djerba (Tunisie) ;
+
+Nantes-Istanbul (Turquie) ;
+
+Nantes-Monastir (Tunisie) ;
+
+Marseille-Hurghada (Egypte) ;
+
+Nice-Dakar (Sénégal) ;
+
+Lille-Dakar (Sénégal) ;
+
+Toulouse-Dubaï (Emirats arabes unis) ;
+
+Bordeaux-Istanbul (Turquie) ;
+
+Paris-Djeddah (Arabie Saoudite) ;
+
+Lyon-Djeddah (Arabie Saoudite) ;
+
+Marseille-Sal (Cap-Vert) ;
+
+Lyon-Sal (Cap-Vert).
