@@ -1,0 +1,411 @@
+# Article Annexe I
+
+ANNEXES
+
+ANNEXE I
+
+RÉFÉRENTIEL D'ACTIVITÉS, DE COMPÉTENCES ET D'ÉVALUATION DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT, SPÉCIALITÉ « PERFECTIONNEMENT SPORTIF », MENTION « ACTIVITÉS DU CYCLISME »
+
+Le titulaire du DEJEPS, spécialité « perfectionnement sportif », mention « activités du Cyclisme », option BMX, option Cyclisme traditionnel ou option VTT occupe des fonctions d'éducateur, d'entraîneur ou de moniteur de cyclisme. Il contribue notamment à la formation des pratiquants dans une démarche de perfectionnement sportif. Par son expertise technique de l'activité, il contribue à l'accompagnement des pratiquants en maîtrisant la sécurité de l'activité proposée. A ce titre, il exerce au sein des associations sportives, des structures commerciales, ou des collectivités en tant que salarié ou travailleur indépendant |
+
+RÉFÉRENTIEL
+
+D'ACTIVITÉS
+
+Décrit les situations de travail
+
+et les activités exercées, les métiers
+
+ou emplois visés. |
+
+RÉFÉRENTIEL
+
+DE COMPÉTENCES
+
+Identifie les compétences
+
+et les connaissances, y compris
+
+transversales, qui découlent
+
+du référentiel d'activités. |
+
+RÉFÉRENTIEL D'ÉVALUATION
+
+Définit les critères et les modalités d'évaluation des acquis |
+
+Les modalités d'évaluation des unités capitalisables (UC) 1 et 2 sont définies à l'article A. 212-52 du code du sport.
+
+Les modalités d'évaluation des unités capitalisables (UC) 3 et 4 sont définies à l'annexe II du présent arrêté. |
+
+|
+
+|
+
+MODALITÉS
+
+D'ÉVALUATION |
+
+CRITÈRES
+
+D'ÉVALUATION |
+
+UC1 - CONCEVOIR UN PROJET D'ACTION |
+
+Participation à la conception de projets et à la direction d'une structure des activités du cyclisme
+
+Contribution à l'analyse des attentes des prescripteurs en prenant en compte les caractéristiques physiques, cognitives et psychiques des publics impliqués
+
+Participation au temps de concertation avec les instances dirigeantes en adaptant les modalités de communication de l'information aux singularités de son interlocuteur pour favoriser l'intégration de tous
+
+Proposition d'actions dans le cadre des objectifs de la structure en activités du cyclisme en lien avec les spécificités des publics encadrés
+
+Elaboration et partage de programmes sportifs en activités du cyclisme adaptés aux caractéristiques et besoins de chacun
+
+Anticipation des évolutions possibles du projet d'action en prenant en compte les caractéristiques singulières des différents publics notamment ceux en situation de handicap |
+
+C1.1 - Analyser les enjeux du contexte socioprofessionnel en tenant compte des particularités des publics impliqués
+
+C1.2 - Formaliser les éléments d'un projet d'action en lien avec les caractéristiques physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués
+
+C1.3 - Définir les moyens nécessaires à la mise en œuvre d'un projet d'action en prenant en compte les spécificités physiques, motrices, sensorielles, cognitives et psychiques des publics impliqués |
+
+Une seule situation d'évaluation permet d'évaluer de façon distincte les UC 1 et 2.
+
+La situation d'évaluation certificative est réalisée au moyen de :
+
+- un document écrit analysant une expérience de conception et de coordination de la mise en œuvre de programmes de perfectionnement sportif en activités du cyclisme
+
+- une soutenance orale. |
+
+Le candidat :
+
+- Inscrit son action dans le cadre des orientations et des valeurs de la structure en activités du cyclisme, dans une perspective éducative et intégrative
+
+- Participe à des diagnostics sur un territoire
+
+- Inscrit son action dans le cadre des politiques publiques locales
+
+- Prend en compte les réalités sociales, éducatives et culturelles des publics concernés et leurs caractéristiques spécifiques
+
+- Agit dans le cadre des réseaux professionnels et institutionnels locaux
+
+- Implique les bénévoles dans la conception en prenant en compte les caractéristiques spécifiques de chacun afin de favoriser la dimension collective du travail en équipe et l'intégration de tous
+
+- Définit les objectifs d'un projet d'action
+
+- Propose les démarches pédagogiques adaptées aux objectifs et aux publics pour répondre aux objectifs et aux besoins particuliers des publics.
+
+- Organise la mise en œuvre de démarches participatives
+
+- Conçoit des démarches d'évaluation
+
+- - Compose une équipe d'intervenants en favorisant la dimension collective du travail en équipe et l'intégration de tous
+
+- Elabore un budget prévisionnel
+
+- Négocie avec sa hiérarchie les financements du projet d'action
+
+- Prend en compte l'impact de son action sur l'environnement professionnel |
+
+UC2 - COORDONNER LA MISE EN ŒUVRE D'UN PROJET D'ACTION |
+
+Coordination d'une équipe bénévole et professionnelle au sein d'une structure en activités su cyclisme
+
+Organisation des collaborations entre professionnels et bénévoles en adaptant les modalités de communication, les objectifs, les moyens et outils aux particularités de chaque membre de l'équipe pour favoriser l'intégration de tous
+
+Gestion de la dynamique de groupe en incluant chaque membre au regard de ses caractéristiques et besoins particuliers
+
+Définition des choix techniques et stratégiques
+
+Conception de la communication adaptée aux caractéristiques singulières du public visé
+
+Représentation de la structure auprès des différents acteurs et partenaires |
+
+C2.1 - Animer une équipe de travail en favorisant la dimension collective et l'intégration de tous
+
+C2.2 - Promouvoir les actions programmées en adaptant les modalités de communication aux singularités de son interlocuteur
+
+C2.3 - Gérer la logistique des programmes d'action
+
+C2.4 - Animer la démarche qualité |
+
+Une seule situation d'évaluation permet d'évaluer de façon distincte les UC 1 et 2.
+
+La situation d'évaluation certificative est réalisée au moyen de :
+
+- un document écrit analysant une expérience de conception et de coordination de la mise en œuvre de programmes de perfectionnement sportif en activités du cyclisme
+
+- une soutenance orale. |
+
+Le candidat :
+
+- Participe au recrutement en veillant à respecter l'intégration de tous
+
+- Anime les réunions au sein de la structure en activités du cyclisme en adaptant les objectifs, plan d'actions, démarches et outils aux particularités de chaque membre de l'équipe pour favoriser l'intégration de tous
+
+- Met en œuvre les procédures de travail adaptées aux caractéristiques spécifiques des acteurs
+
+- Participe aux actions de tutorat dans la structure en activités du cyclisme et en prenant en compte les caractéristiques spécifiques du tutoré
+
+- Facilite les démarches participatives au sein de la structure en activités du cyclisme afin de favoriser l'intégration de tous
+
+- Accompagne le développement des membres de l'équipe en prenant en compte les caractéristiques et besoins particuliers de manière à favoriser l'intégration
+
+- Représente la structure en activités du cyclisme
+
+- Conçoit une démarche de communication
+
+- Participe aux actions des réseaux partenaires
+
+- Contrôle le budget des actions programmées
+
+- Gère les partenariats financiers
+
+- Planifie l'utilisation des espaces de pratiques et des moyens matériels adaptés aux caractéristiques des publics
+
+- Rend compte de l'utilisation des moyens financiers
+
+- Anticipe les besoins en termes logistique
+
+- Organise la maintenance technique
+
+- Veille au respect des procédures de travail
+
+- Adapte le programme d'action en cas de nécessité
+
+- Effectue le bilan des actions réalisées |
+
+UC3 - CONDUIRE UNE DÉMARCHE DE PERFECTIONNEMENT SPORTIF EN ACTIVITÉS DU CYCLISME |
+
+Encadrement d'activités d'enseignement et d'entraînement de perfectionnement sportif en activités du cyclisme
+
+Proposition de programme de perfectionnement sportif dans le cadre des objectifs de la structure de cyclisme adapté aux caractéristiques spécifiques des publics encadrés
+
+Définition des modes d'intervention à caractère technique adaptées au niveau de progression technique et aux caractéristiques spécifiques des pratiquants
+
+Proposition des démarches d'entrainement adaptés aux objectifs et aux caractéristiques spécifiques des compétiteurs
+
+Encadrement des apprentissages techniques en activités du cyclisme en prenant en compte les caractéristiques spécifiques des pratiquants
+
+Conduite des temps de perfectionnement en activités du cyclisme en lien avec les singularités des pratiquants
+
+Analyse les potentiels et les limites des compétiteurs en lien avec leurs spécificités
+
+Accompagnement des compétiteurs dans l'analyse de leur pratique en adaptant les démarches et outils pédagogiques à leurs caractéristiques spécifiques
+
+Conception interventions dans le champ de la formation en activités du cyclisme à partir des singularités des stagiaires
+
+Mise en œuvre de situations formatives en activités du cyclisme à partir des singularités des stagiaires |
+
+C3.1 - Conduire une démarche d'enseignement en activités du cyclisme en prenant en compte les particularités physiques, motrices, sensorielles, cognitives et psychiques de tous les pratiquants
+
+C3.2 - Conduire une démarche d'entraînement en activités du cyclisme à partir des caractéristiques singulières adaptées aux objectifs de perfectionnement sportif des pratiquants
+
+C3.3 - Conduire des actions de formation en activités du cyclisme en prenant en compte les singularités physiques, motrices, sensorielles, cognitives et psychiques des pratiquants |
+
+L'épreuve certificative est réalisée au moyen de :
+
+1) Une épreuve certificative commune aux UC 3 et 4 réalisée au moyen de :
+
+- un dossier, exposant une démarche de perfectionnement sportif
+
+- la conduite d'une séance de perfectionnement
+
+- de quatre pilotes minimum suivie d'un entretien
+
+- la présentation d'un document vidéo et de son analyse technico-tactique suivie d'un entretien
+
+2) Une épreuve permettant l'évaluation de l'UC3 réalisée au moyen de :
+
+- une analyse d'expérience de conception, de mise en œuvre et d'évaluation de situations formatives en activités du cyclisme, suivie d'un échange avec les évaluateurs |
+
+Le candidat :
+
+- Définit une progression pédagogique en activités du cyclisme adaptée aux caractéristiques spécifiques des publics encadrés
+
+- Conduit un enseignement en activités du cyclisme adapté aux caractéristiques spécifiques des publics encadrés
+
+- Régule son intervention en fonction des réactions du public
+
+- Evalue un cycle d'enseignement en activités du cyclisme notamment au regard de la prise en compte des caractéristiques et des besoins particuliers des pratiquants
+
+- Définit un plan d'entraînement en activités du cyclisme adapté aux spécificités des publics encadrés
+
+- Conduit l'entraînement en activités du cyclisme en prenant en compte les caractéristiques physiques, motrices, sensorielles, cognitives et psychiques des pratiquants
+
+- Encadre un groupe dans le cadre de la compétition en activités du cyclisme en prenant en compte la singularité de chaque pratiquant
+
+- Evalue le cycle d'entraînement en activités du cyclisme
+
+- Elabore des scénarios pédagogiques en activités du cyclisme adaptés aux caractéristiques singulières de chaque stagiaire
+
+- Prépare les supports de ses interventions en activités du cyclisme en adaptant les modalités de transmission de l'information aux singularités de son public afin de s'assurer de sa compréhension par tous
+
+- Met en œuvre une situation formative en activités du cyclisme en prenant en compte les singularités motrices, sensorielles, cognitives et psychiques des pratiquants et des stagiaires
+
+- Adapte son intervention aux réactions et aux caractéristiques spécifiques des stagiaires
+
+- Evalue des actions de formation en activités du cyclisme au regard de la prise en compte des caractéristiques et des besoins particuliers des stagiaires |
+
+UC 4A - ENCADRER LE BMX EN SÉCURITÉ |
+
+Encadrement du BMX en assurant la sécurité des pratiquants, des tiers et de lui-même
+
+Encadrement du BMX en assurant la sécurité des pratiquants et des tiers, et en préservant l'intégrité physique et psychique des pratiquants au regard de leurs singularités
+
+Vérification de la conformité du matériel technique nécessaire à la réalisation des activités BMX en prenant en compte les caractéristiques singulières des pratiquants
+
+Vérification de la conformité des lieux de travail au regard des normes d'hygiène et de sécurité en BMX |
+
+C4.1A - Réaliser en sécurité les démonstrations techniques en BMX
+
+C4.2A - Adapter sa posture pédagogique et les démarches d'intervention afin que chaque sportif évolue en sécurité
+
+C4.3A - Réaliser les gestes professionnels nécessaires à la sécurité des pratiquants en BMX en prenant en compte leurs caractéristiques singulières physiques, motrices, sensorielles, cognitives et psychiques
+
+C4.4A - Assurer la sécurité des pratiquants et des tiers en BMX tout en impliquant les pratiquants dans la gestion de leur propre sécurité et de celle des tiers |
+
+La situation d'évaluation certificative est réalisée au moyen d'une épreuve certificative commune aux UC 3 et 4 réalisée au moyen de :
+
+un dossier, exposant une démarche de perfectionnement sportif
+
+- la conduite d'une séance de perfectionnement
+
+- de quatre pilotes minimum suivie d'un entretien
+
+- la présentation d'un document vidéo et de son analyse technico-tactique suivie d'un entretien |
+
+Le candidat :
+
+- Evalue ses propres capacités à effectuer une démonstration technique en BMX
+
+- Explicite les différents éléments de la démonstration technique en BMX en choisissant des moyens de transmission de l'information adaptés aux caractéristiques des pratiquants.
+
+- Met en œuvre des démarches pédagogiques adaptées permettant au pratiquant d'évoluer dans la discipline en sécurité.
+
+- Evalue et anticipe les risques objectifs et potentiels liés à la pratique du BMX pour le pratiquant en accordant une vigilance particulière à ses caractéristiques singulières (physiques, motrices, sensorielles, cognitives et psychiques).
+
+- Maîtrise le comportement et les gestes à réaliser en cas d'incident ou d'accident en BMX en prenant en compte les singularités du pratiquant
+
+- Evalue et anticipe les risques objectifs liés au contexte de pratique BMX, et propres à chaque piste de BMX
+
+- Anticipe les risques juridiques liés à la pratique du BMX et au milieu dans lequel il se pratique
+
+- Assure la sécurité des équipements en BMX
+
+- Prévient les comportements à risque en BMX
+
+- Agit ou fait appel à un tiers lorsqu'il rencontre ses propres limites, pour préserver l'intégrité physique et psychique en cas de maltraitance des mineurs et des personnes vulnérables |
+
+UC 4B - ENCADRER LE CYCLISME TRADITIONNEL EN SÉCURITÉ |
+
+Encadrement du cyclisme traditionnel en assurant la sécurité des pratiquants, des tiers et de lui-même
+
+Encadrement du cyclisme traditionnel en assurant la sécurité des pratiquants et des tiers, et en préservant l'intégrité physique et psychique des pratiquants au regard de leurs singularités
+
+Vérification de la conformité du matériel technique nécessaire à la réalisation des activités de cyclisme traditionnel en prenant en compte les caractéristiques singulières des pratiquants
+
+Vérification de la conformité des lieux de travail au regard des normes d'hygiène et de sécurité en cyclisme traditionnel |
+
+C4.1B - Réaliser en sécurité les démonstrations techniques en cyclisme traditionnel
+
+C4.2B - Adapter sa posture pédagogique et les démarches d'intervention afin que chaque sportif évolue en sécurité
+
+C4.3B - Réaliser les gestes professionnels nécessaires à la sécurité des pratiquants en cyclisme traditionnel en prenant en compte leurs caractéristiques singulières physiques, motrices, sensorielles, cognitives et psychiques
+
+C4.4B - Assurer la sécurité des pratiquants et des tiers en cyclisme traditionnel tout en impliquant les pratiquants dans la gestion de leur propre sécurité et de celle des tiers |
+
+La situation d'évaluation certificative est réalisée au moyen d'une épreuve certificative commune aux UC 3 et 4 réalisée au moyen de :
+
+un dossier, exposant une démarche de perfectionnement sportif
+
+- la conduite d'une séance de perfectionnement
+
+- de quatre pilotes minimum suivie d'un entretien
+
+- la présentation d'un document vidéo et de son analyse technico-tactique suivie d'un entretien |
+
+Le candidat :
+
+- Evalue ses propres capacités à effectuer une démonstration technique en cyclisme traditionnel
+
+- Explicite les différents éléments de la démonstration technique en cyclisme traditionnel en choisissant des moyens de transmission de l'information adaptés aux caractéristiques des pratiquants.
+
+- Met en œuvre des démarches pédagogiques adaptées permettant au pratiquant d'évoluer dans la discipline en sécurité.
+
+- Evalue et anticipe les risques objectifs et potentiels liés à la pratique du cyclisme traditionnel pour le pratiquant en accordant une vigilance particulière à ses caractéristiques singulières (physiques, motrices, sensorielles, cognitives et psychiques).
+
+- Maîtrise le comportement et les gestes à réaliser en cas d'incident ou d'accident en cyclisme traditionnel en prenant en compte les singularités du pratiquant
+
+- Evalue et anticipe les risques objectifs liés au contexte de pratique du cyclisme traditionnel
+
+- Anticipe les risques juridiques liés à la pratique du cyclisme traditionnel et au milieu dans lequel il se pratique
+
+- Assure la sécurité des équipements en cyclisme traditionnel
+
+- Prévient les comportements à risque en cyclisme traditionnel
+
+- Agit ou fait appel à un tiers lorsqu'il rencontre ses propres limites, pour préserver l'intégrité physique et psychique en cas de maltraitance des mineurs et des personnes vulnérables |
+
+UC 4C - ENCADRER LE VTT EN SÉCURITÉ |
+
+Encadrement du VTT en assurant la sécurité des pratiquants, des tiers et de lui-même
+
+Encadrement du VTT en assurant la sécurité des pratiquants et des tiers, et en préservant l'intégrité physique et psychique des pratiquants au regard de leurs singularités
+
+Vérification de la conformité du matériel technique nécessaire à la réalisation des activités de VTT en prenant en compte les caractéristiques singulières des pratiquants
+
+Vérification de la conformité des lieux de travail au regard des normes d'hygiène et de sécurité en VTT |
+
+C4.1B - Réaliser en sécurité les démonstrations techniques en VTT
+
+C4.2B - Adapter sa posture pédagogique et les démarches d'intervention afin que chaque sportif évolue en sécurité
+
+C4.3B - Réaliser les gestes professionnels nécessaires à la sécurité des pratiquants en VTT en prenant en compte leurs caractéristiques singulières physiques, motrices, sensorielles, cognitives et psychiques
+
+C4.4B - Assurer la sécurité des pratiquants et des tiers en VTT tout en impliquant les pratiquants dans la gestion de leur propre sécurité et de celle des tiers |
+
+La situation d'évaluation certificative est réalisée au moyen d'une épreuve certificative commune aux UC 3 et 4 réalisée au moyen de :
+
+- un dossier, exposant une démarche de perfectionnement sportif
+
+- la conduite d'une séance de perfectionnement
+
+- de quatre pilotes minimum suivie d'un entretien
+
+- la présentation d'un document vidéo et de son analyse technico-tactique suivie d'un entretien
+
+Epreuve certificative de l'UC 4 C :
+
+Cette épreuve certificative permet l'évaluation distincte de l'unité capitalisable 4C .
+
+Est réalisée au moyen de :
+
+- 1 : Une démonstration de trial comprenant deux zones de maniabilité de catégorie minime
+
+- 2 : Une démonstration chronométrée sur une piste de VTT de descente de niveau bleu ou rouge
+
+- 3 : conduite d'séance de perfectionnement technique en VTT enduro |
+
+Le candidat :
+
+- Evalue ses propres capacités à effectuer une démonstration technique en VTT
+
+- Explicite les différents éléments de la démonstration technique en VTT en choisissant des moyens de transmission de l'information adaptés aux caractéristiques des pratiquants.
+
+- Met en œuvre des démarches pédagogiques adaptées permettant au pratiquant d'évoluer dans la discipline en sécurité.
+
+- Evalue et anticipe les risques objectifs et potentiels liés à la pratique du VTT pour le pratiquant en accordant une vigilance particulière à ses caractéristiques singulières (physiques, motrices, sensorielles, cognitives et psychiques).
+
+- Maîtrise le comportement et les gestes à réaliser en cas d'incident ou d'accident en VTT en prenant en compte les singularités du pratiquant
+
+- Évalue et anticipe les risques objectifs liés au contexte de pratique du VTT
+
+- Anticipe les risques juridiques liés à la pratique du VTT et au milieu dans lequel il se pratique
+
+- Assure la sécurité des équipements en VTT
+
+- Prévient les comportements à risque en VTT
+
+- Agit ou fait appel à un tiers lorsqu'il rencontre ses propres limites, pour préserver l'intégrité physique et psychique en cas de maltraitance des mineurs et des personnes vulnérables |
