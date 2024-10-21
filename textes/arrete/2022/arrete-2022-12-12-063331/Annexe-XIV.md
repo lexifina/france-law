@@ -70,4 +70,10 @@ ii) Les déchets d'équipements électriques et électroniques inclus dans le ch
 
 iii) Les déchets d'équipements électrique et électroniques relevant de la filière REP des déchets d'équipements électriques et électroniques
 
-iv) Les autres matières ou déchets
+iv) Les déchets de piles et accumulateurs relevant de la filière REP des déchets de piles et accumulateurs ;
+
+v) Les déchets d'articles de sport et de loisirs relevant de la filière REP des déchets d'articles de sport et de loisirs ;
+
+vi) Les déchets de produits pyrotechniques relevant de la catégorie des produits pyrotechniques de la filière REP des déchets des contenus et contenants des produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement ;
+
+vii) Les autres matières ou déchets.

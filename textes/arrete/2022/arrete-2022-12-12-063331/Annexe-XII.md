@@ -47,3 +47,5 @@ La quantité d'articles de bricolage et de jardin mis sur le marché, exprimée 
 II.-Informations complémentaires par éco-organisme et par système individuel à transmettre à l'Agence et à l'Autorité compétente pour l'élaboration et le suivi du SRADDET ou, le cas échéant, du PRPGD
 
 Le montant des contributions financières perçues par catégorie d'articles de bricolage et de jardin.
+
+- l'ensemble des données nécessaires au calcul de l'équilibrage, sur la base des modalités de calculs définies par le cahier des charges d'agrément ou l'organisme coordonnateur, pour le 30 juin.
