@@ -100,7 +100,9 @@ L'habilitation porte sur :
 
 -le Lloyd's Register Group Ltd. (LR) ;
 
--KR (Korean Register) .
+-KR (Korean Register) ;
+
+-ABS (American Bureau of Shipping).
 
 6. Organismes habilités pour procéder au mesurage de l'exposition aux vibrations mécaniques des personnes employées à bord des navires en application du décret n° 2005-748 du 4 juillet 2005 relatif aux prescriptions de sécurité et de santé applicables en cas d'exposition aux risques dus aux vibrations mécaniques des personnels employés à bord des navires :
 
