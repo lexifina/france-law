@@ -1,0 +1,10 @@
+# COMMUNE DE PLUGUFFAN : délibération DCISION_2024_81 — Budget principal 2024 -Virement n°1 entre chapitres - Fongibilité des crédits
+
+- Collectivité : COMMUNE DE PLUGUFFAN
+- SIRET : 21290216700015
+- Code INSEE : 29216
+- Date : 2024-10-21
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : Budget principal 2024 -Virement n°1 entre chapitres - Fongibilité des crédits
+- Transmis à la préfecture : 2024-10-21 00:00:00
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
