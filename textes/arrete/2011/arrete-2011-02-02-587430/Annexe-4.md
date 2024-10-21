@@ -4,17 +4,17 @@ LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTR�
 
 |
 
-SOCIÉTÉ |
+Société |
 
-ADRESSE |
+Adresse |
 
-TYPES D'APPAREILS AGRÉÉS |
+Types d'appareils agréés |
 
 1 |
 
 AEMI |
 
-56, avenue Pierre-Berthelot
+56, avenue Pierre-Berthelot-
 
 14000 Caen |
 
@@ -26,11 +26,13 @@ AEMI |
 
 ALPHATRON MARINE FRANCE |
 
-114, chemin de la Plaine
+1720, avenue de la Plaine-
 
 06250 Mougins |
 
--Em-track A 100 Combined Class A/ Inland AIS Transceiver (R-4-308)
+-Em-track A 100 Combined Class A
+
+/ Inland AIS Transceiver (R-4-308)
 
 -A200 Combined Class A/ inland AIS Transceiver (R-4-316) |
 
@@ -38,7 +40,7 @@ ALPHATRON MARINE FRANCE |
 
 ALSACE PLAISANCE |
 
-25 c, rue de Cernay
+25c, rue de Cernay-
 
 68210 Hagenbach |
 
@@ -48,9 +50,9 @@ ALSACE PLAISANCE |
 
 BARILLEC SAS |
 
-ZI du Moros
+ZI du Moros-
 
-1, rue des Sardiniers
+1, rue des Sardiniers-
 
 29900 Concarneau |
 
@@ -60,11 +62,9 @@ ZI du Moros
 
 CEGELEC SDEM |
 
-Cours Bourbon
+Cours Bourbon-
 
-BP 87
-
-76370 Martin-Église |
+BP 87-76370 Martin-Église |
 
 -FA 150 AIS Transponder (R-4-206) (*)
 
@@ -74,7 +74,7 @@ BP 87
 
 CLAUDIN SERVICE |
 
-41, avenue Henri-Barbusse
+41, avenue Henri-Barbusse-
 
 69250 Albigny-sur-Saône |
 
@@ -84,7 +84,7 @@ CLAUDIN SERVICE |
 
 E-NAUTIC |
 
-12, quai du Capitaine-Allègre
+12, quai du capitaine Allègre-
 
 33120 Arcachon |
 
@@ -94,7 +94,7 @@ E-NAUTIC |
 
 ENTCO |
 
-1, impasse des Peupliers
+1, impasse des Peupliers-
 
 91160 Saulx-les-Chartreux |
 
@@ -104,13 +104,15 @@ ENTCO |
 
 FLUVIAL ELEC |
 
-4, quai Fernand-Saguet
+4, Quai Fernand-Saguet-
 
-94700 Maisons-Alfort |
+94700 Maisons Alfort |
 
 -OceanSat Combined Class A/ Inland AIS Transceiver (R-4-209) (*)
 
--Em-track A 100 Combined Class A/ Inland AIS Transceiver (R-4-308)
+-Em-track A 100 Combined Class A
+
+/ Inland AIS Transceiver (R-4-308)
 
 -A200 Combined Class A/ inland AIS Transceiver (R-4-316) |
 
@@ -118,11 +120,9 @@ FLUVIAL ELEC |
 
 FURUNO FRANCE |
 
-Zone industrielle du Phare
+Zone industrielle du Phare-
 
-Rue Laplace
-
-33700 Mérignac |
+Rue Laplace-33700 Mérignac |
 
 -FA-170 Class A/ Inland AIS (R-4-314) |
 
@@ -130,9 +130,9 @@ Rue Laplace
 
 H2O |
 
-Port de plaisance
+Port de plaisance-
 
-21170 Saint-Jean-de-Losne |
+21170 Saint Jean de Losne |
 
 -AIS 950 Combined Class A/ Inland AIS Transceiver (R-4-311) |
 
@@ -140,7 +140,7 @@ Port de plaisance
 
 HEXA MARINE |
 
-46 Kerolivier
+46 Kerolivier-
 
 44410 Saint-Lyphard |
 
@@ -150,9 +150,7 @@ HEXA MARINE |
 
 LORRAINE NAUTISME |
 
-2, rue des Alliés
-
-57050 Metz |
+2, rue des Alliés-57050 Metz |
 
 -Orolia type Z601, Mc Murdo Smartfind M5 Class A/ Inland AIS (R-4-301) |
 
@@ -160,11 +158,9 @@ LORRAINE NAUTISME |
 
 MAP Marine |
 
-1, quai de la Grande-Bigue
+1, Quai de la Grande Bigue-
 
-Bat. B
-
-13002 Marseille |
+Bat. B-13002 Marseille |
 
 -Nauticast
 
@@ -178,13 +174,15 @@ Bat. B
 
 MAX GUERDIN ET SES FILS |
 
-13, rue de Clermont
+13, rue de Clermont-
 
 60200 Compiègne |
 
 -OceanSat Combined Class A/ Inland AIS Transceiver (R-4-209) (*)
 
--Em-trak A 100 Combined Class A/ Inland AIS Transceiver (R-4-308)
+-Em-trak A 100 Combined Class A
+
+/ Inland AIS Transceiver (R-4-308)
 
 -A200 Combined Class A/ inland AIS Transceiver (R-4-316) |
 
@@ -192,9 +190,9 @@ MAX GUERDIN ET SES FILS |
 
 NAUTOR VILLEFRANCHE |
 
-Maison Cantonnière
+Maison Cantonnière-
 
-Quartier La Darse-BP 33
+Quartier La Darse-BP 33-
 
 06231 Villefranche-sur-Mer Cedex |
 
@@ -204,7 +202,7 @@ Quartier La Darse-BP 33
 
 PROMAT SECURITE |
 
-68, boulevard Jules-Durand
+68, boulevard Jules-Durand-
 
 76056 Le Havre |
 
@@ -218,7 +216,7 @@ PROMAT SECURITE |
 
 RADIO HOLLAND FRANCE |
 
-21, rue Paul-Verlaine
+21, rue Paul-Verlaine-
 
 76700 Harfleur |
 
@@ -242,9 +240,9 @@ RADIO HOLLAND FRANCE |
 
 RADIO NAVIGATION |
 
-62, rue Gambetta-BP 44
+62, rue Gambetta-BP 44-
 
-13110 Port-de-Bouc |
+13110 Port de Bouc |
 
 -SIMRAD V5035 Class A/ Inland AIS (R-4-303) |
 
@@ -252,7 +250,7 @@ RADIO NAVIGATION |
 
 SIECMI |
 
-3, quai Est
+3, quai Est-
 
 29900 Concarneau |
 
@@ -266,9 +264,9 @@ SIECMI |
 
 SUD COMMUNICATION |
 
-317, rue Antoine-de-Saint-Exupéry
+317, rue Antoine-de-Saint-Exupéry-
 
-Espace Fréjorgues Ouest
+Espace Fréjorgues Ouest-
 
 34130 Mauguio |
 
@@ -280,9 +278,9 @@ Espace Fréjorgues Ouest
 
 SUD MAINTENANCE |
 
-ZI Portuaire
+ZI Portuaire-
 
-496, rue de la Péniche
+496, rue de la Péniche-
 
 84130 Le Pontet |
 
@@ -292,9 +290,9 @@ ZI Portuaire
 
 THEMYS |
 
-Quartier de la Chaume
+Quartier de la chaume-
 
-CD 45-Pont de l'Etoile
+CD 45-Pont de l'Etoile-
 
 13360 Roquevaire |
 
@@ -304,4 +302,4 @@ CD 45-Pont de l'Etoile
 
 -Sailor 6280/6281 AIS System Class A/ Inland AIS (R-4-302) |
 
-(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.
+(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.

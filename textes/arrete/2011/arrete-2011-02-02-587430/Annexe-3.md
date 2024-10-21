@@ -1,6 +1,6 @@
 # Article Annexe 3
 
-LISTE SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTRÔLE DE FONCTIONNEMENT DES APPAREILS RADAR ET DES INDICATEURS DE VITESSE DE GIRATION
+LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTRÔLE DE FONCTIONNEMENT DES APPAREILS RADAR ET DES INDICATEURS DE VITESSE DE GIRATION
 
 |
 
@@ -8,13 +8,15 @@ SOCIÉTÉ |
 
 ADRESSE |
 
-APPAREILS AGRÉÉS POUR lesquels la société reçoit l'habilitation |
+APPAREILS AGRÉÉS
+
+pour lesquels la société reçoit l'habilitation |
 
 1 |
 
 AEMI |
 
-56, avenue Pierre-Berthelot-
+56, avenue Pierre-Berthelot
 
 14000 Caen |
 
@@ -30,7 +32,7 @@ Simrad |
 
 ALPHATRON MARINE FRANCE |
 
-114, avenue de la Plaine-
+1720, avenue de la Plaine
 
 06250 Mougins |
 
@@ -58,7 +60,7 @@ AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) |
 
 E-NAUTIC |
 
-12, quai du Capitaine-Allègre-
+12, quai du capitaine Allègre
 
 33120 Arcachon |
 
@@ -84,13 +86,19 @@ AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) |
 
 ENTCO |
 
-1, impasse des Peupliers-
+1, impasse des Peupliers
 
 91160 Saulx-les-Chartreux |
 
 Appareils radar :
 
 JRC JMA-610 6/7/9 (R-4-015)
+
+JFS-364/ JFS 364 C (JFS Electronic) (R-4-002)
+
+Swiss Radar IndicatorPlus (e-01-104)
+
+Swiss Radar Precision Navigator II (R-4-018)
 
 Indicateurs de vitesse de giration :
 
@@ -110,7 +118,7 @@ AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) |
 
 HEXA MARINE |
 
-46 Kerolivier-
+46 Kerolivier
 
 44410 Saint-Lyphard |
 
@@ -132,7 +140,7 @@ AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) |
 
 MAP Marine |
 
-1, quai de la Grande-Bigue, bât. B-13002 Marseille |
+1, quai de la Grande Bigue-bât. B-13002 Marseille |
 
 Appareils radar :
 
@@ -146,7 +154,7 @@ Radio Zeeland |
 
 PROMAT SÉCURITÉ |
 
-68, boulevard Jules-Durand-
+68, boulevard Jules-Durand
 
 76056 Le Havre |
 
@@ -166,7 +174,7 @@ AlphaTurn (River) MFM/ MFL 90°/ min 300°/ min + EBF01a (e-01-086) |
 
 RADIO HOLLAND FRANCE |
 
-21, rue Paul-Verlaine-
+21, rue Paul-Verlaine
 
 76700 Harfleur |
 
@@ -210,7 +218,7 @@ Titan 1000 90°/ min 300°/ min + S300 (e-01-083) |
 
 SIECMI |
 
-3, quai Est-
+3, quai Est
 
 29900 Concarneau |
 
@@ -226,9 +234,9 @@ Radio Holland ; Radio Zeeland ; Alphatron |
 
 THEMYS |
 
-Quartier de la Chaume-
+Quartier de la chaume
 
-CD 45-pont de l'Etoile-
+CD 45-pont de l'Etoile
 
 13360 Roquevaire |
 
