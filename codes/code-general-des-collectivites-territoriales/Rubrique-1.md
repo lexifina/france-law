@@ -86,7 +86,7 @@ Acte notarié contenant les débours.
 
 2. Le cas échéant, décompte portant référence à la décision de justice.
 
-(7) Y compris les décisions non contentieuses telles les provisions destinées aux commissaires enquêteurs dans le cadre de l'ouverture d'une enquête publique (article R.123-27 du code de l'environnement).
+(7) Y compris les décisions non contentieuses telles les provisions destinées aux commissaires enquêteurs dans le cadre de l'ouverture d'une enquête publique (article R.123-45-3 du code de l'environnement).
 
 Dans le cas où la décision de justice administrative (revêtue de la formule exécutoire) ne ferait pas apparaître la mention du greffier relative à la certification conforme, seul l'accusé de réception émanant de la juridiction dans le cadre de la procédure Télérecours permet de suppléer valablement cette carence. Dans ce cas, cette décision devra obligatoirement être accompagnée de cet accusé de réception.
 
@@ -235,3 +235,7 @@ Avertissement ou exemplaire de l'état liquidatif des droits ou de la déclarati
 Décision de l'assemblée délibérante, de l'autorité exécutive (15) ou du directeur pour les EPS autorisant la remise gracieuse.
 
 (15) Par exemple, le président du Conseil Départemental, s'agissant du RSA, conformément à l'article L.262-46 du CASF.
+
+NOTA :
+
+Conformément au II de l’article 70 du décret n° 2024-742 du 6 juillet 2024, ces dispositions entrent en vigueur le 22 octobre 2024.
