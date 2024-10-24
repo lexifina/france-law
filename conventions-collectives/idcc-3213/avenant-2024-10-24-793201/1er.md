@@ -1,0 +1,41 @@
+# Article 1er
+
+L'article 79 actuellement rédigé : « Le financement de ce fonds est assuré par une cotisation annuelle, à la charge des employeurs, assise sur la masse salariale brute de l'effectif salariés des entreprises d'économistes de la construction et de métreurs-vérificateurs. Le taux de cette cotisation est fixé à 0,15 %, appelé dès le premier euro.
+
+Les parties signataires mandatent l'OPCA-PL (organisme paritaire collecteur agréé des professions libérales) pour recouvrer auprès des entreprises d'économistes de la construction et de métreurs-vérificateurs cette cotisation selon des modalités suivantes :
+
+– la cotisation est appelée en même temps mais distinctement des cotisations de financement de la formation continue ;
+
+– la cotisation de l'année N est appelée l'année N   +   1 ;
+
+– l'assiette de contribution est constituée par la masse salariale brute de l'année N ».
+
+Et révisé ainsi :
+
+« Le financement de ce fonds est assuré par une cotisation annuelle, à la charge des employeurs, assise sur la masse salariale brute de l'effectif salariés des entreprises d'économistes de la construction et de métreurs-vérificateurs.
+
+La masse salariale brute comprend :
+
+– l'ensemble des rémunérations brutes et avantages versés aux salariés d'une entreprise sur une période donnée ;
+
+– les salaires de base, ainsi que les primes, les indemnités, les avantages en nature, les cotisations salariales et patronales, sans oublier les charges sociales.
+
+Le taux de cette cotisation est fixé à 0,15 %, appelé dès le premier euro.
+
+Les parties signataires mandatent l'association APGTP via une convention pour recouvrer par tous moyens auprès des entreprises d'économistes de la construction et de métreurs-vérificateurs cette cotisation selon des modalités suivantes :
+
+– la cotisation est appelée en même temps mais distinctement des cotisations de financement de la formation continue ;
+
+– la cotisation de l'année N est appelée l'année N + 1 ;
+
+– l'assiette de contribution est constituée par la somme totale des coûts directs et indirects liés à la main-d'œuvre employée par l'entreprise au cours de l'année N ;
+
+– la prescription de cette cotisation est quinquennale.
+
+Les entreprises redevables de cette cotisation sont celles dont les activités exercées sont définies à l'article 1er de l'accord de substitution du 10 juin 2024.
+
+Les signataires du présent avenant sont également les signataires de la convention susvisée. »
+
+(1) L'article 1er de l'avenant est étendu sous réserve du respect des articles L. 931-1 et L. 931-2 du code de la sécurité sociale aux termes desquels la délégation de la collecte de la contribution au dialogue social ne peut être confiée à un organisme de prévoyance.
+
+(Arrêté du 21 mars 2025 - art. 1)
