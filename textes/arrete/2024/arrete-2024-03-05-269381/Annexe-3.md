@@ -38,7 +38,7 @@ Le centre d'évaluation délivre une attestation de suivi de la mise à jour de 
 
 2. Critères d'évaluation
 
-Les critères d'évaluation permettent de juger et d'estimer de l'acquisition de l'ensemble des connaissances théoriques et pratiques décrites dans l'annexe de l'arrêté du 12 décembre 2008 modifié pris pour l'application de l'article R. 1311-3 du code de la santé publique et relatif à la formation des personnes qui mettent en œuvre les techniques de tatouage par effraction cutanée et de perçage corporel et dans le référentiel de compétences.
+Les critères d'évaluation permettent de juger et d'estimer de l'acquisition de l'ensemble des connaissances théoriques et pratiques décrites dans l'annexe de l'arrêté du 5 mars 2024 pris en application de l'article R. 1311-3 du code de la santé publique et relatif à la formation des personnes qui mettent en œuvre les techniques, y compris de tatouage par effraction cutanée, y compris la technique du maquillage permanent, et de perçage corporel et dans le référentiel de compétences.
 
 L'évaluateur doit a minima apprécier l'acquisition de l'ensemble des connaissances et des compétences (savoirs et savoir-faire) suivantes :
 

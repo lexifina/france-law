@@ -6,15 +6,15 @@ Garant de la délivrance du certificat, le jury devra donc être collégial, ind
 
 Le jury est composé d'au moins trois personnes :
 
-- 2 représentants du secteur professionnel extérieur au centre de formation ;
+- 2 représentants du secteur professionnel extérieurs au centre de formation ;
 
 - 1 représentant du centre de formation.
 
-Il est présidé par un représentant du monde professionnel en activité justifiant d'un minimum de cinq ans d'expérience professionnelle dans le domaine.
+Il est présidé par un professionnel en activité justifiant d'un minimum de cinq ans d'expérience professionnelle dans le domaine du tatouage, du maquillage permanent ou du perçage corporel.
 
 Au moins un membre du jury justifie d'une qualification en hygiène hospitalière.
 
-Au moins un membre du jury est un professionnel du tatouage et du perçage corporel ou, au sein du jury deux de ses membres sont l'un professionnel du tatouage et le second professionnel du perçage corporel.
+Au moins un membre du jury est un professionnel du tatouage y compris du maquillage permanent et du perçage corporel ou, au sein du jury deux de ses membres sont l'un professionnel du tatouage y compris du maquillage permanent et le second professionnel du perçage corporel.
 
 Le jury s'assure de la bonne conduite des évaluations, conformément aux modalités décrites dans le référentiel d'évaluation.
 
