@@ -720,8 +720,6 @@ Route de Tournai
 
 Date d'agrément : 19.02.2020 |
 
-|
-
 CHAROLAISE (Charolais) |
 
 France |
@@ -770,9 +768,25 @@ Angus |
 
 France |
 
-|
+- |
 
-|
+8 novembre 2021 |
+
+Association French Highland Cattle Society
+
+Chez Pion
+
+63290 Lachaux
+
+Date d'agrément : 23 octobre 2024. |
+
+Highland Cattle |
+
+France |
+
+- |
+
+23 octobre 2024. |
 
 II. - Liste des organismes de sélection agréés qui réalisent des programmes de sélection avec des reproducteurs de race pure de l'espèce ovine
 
@@ -1776,15 +1790,15 @@ France |
 
 29.12.2022 |
 
-CHOICE GENETICS FRANCE
+AXIOM FRANCE
 
-Rue Maryse Bastié
+Rue Maryse-Bastié
 
 Bât. AK3
 
 Campus de Ker Lann
 
-35170 BRUZ
+35170 Bruz
 
 Date d'agrément : 01.07.2014 |
 
@@ -1818,15 +1832,13 @@ P81 |
 
 France, Pologne |
 
-26.07.2019 |
+01.07.2014 |
 
 |
 
 CG36 |
 
-France,
-
-Allemagne, Pologne, Croatie, Hongrie, Espagne |
+France, Allemagne, Pologne, Croatie, Hongrie, Espagne |
 
 01.07.2014 |
 
@@ -1835,30 +1847,6 @@ Allemagne, Pologne, Croatie, Hongrie, Espagne |
 P98 |
 
 France, Pologne |
-
-26.07.2019 |
-
-COOPÉRATIVE DES PRODUCTEURS DE PORCS DE LA RÉUNION
-
-1 allée du Petit Paris
-
-97410 SAINT PIERRE
-
-Date d'agrément : 01.07.2014 |
-
-|
-
-CADINA |
-
-France |
-
-01.07.2014 |
-
-|
-
-TITAN |
-
-France |
 
 01.07.2014 |
 
@@ -2016,14 +2004,6 @@ France |
 
 01.07.2014 |
 
-TOPIGS LIGNÉE B |
-
-|
-
-France |
-
-01.07.2014 |
-
 TOPIGS LIGNÉE D (TN TALENT) |
 
 |
@@ -2066,23 +2046,7 @@ France |
 
 |
 
-TOPIGS 20 |
-
-France |
-
-01.07.2014 |
-
-|
-
 TN 60 |
-
-France |
-
-01.07.2014 |
-
-|
-
-TRAXX |
 
 France |
 
