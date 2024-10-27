@@ -6362,15 +6362,13 @@ Cumul autorisé à l'exploitation et à la surface ou à l'élément |
 
 |
 
-Mesures agroenvironnementales et climatiques et aides à l'agriculture biologique relevant du Plan stratégique national 2015-2022 |
+Mesures agroenvironnementales et climatiques et aides à l'agriculture biologique relevant du Plan stratégique national 2023-2027 |
 
-Types d'opération des Plans
-
-de développement rural 2015-2022 |
+Types d'opération des Plans de développement rural 2015-2022 |
 
 DROM |
 
-MAEC Entretien durable des infrastructures agroécologiques - Linéaires |
+MAEC Entretien durable des infrastructures agroécologiques-Linéaires |
 
 MAEC Banane |
 
@@ -6392,7 +6390,7 @@ CAB-MAB Canne |
 
 CAB-MAB Maraîchage, cultures vivrières |
 
-CAB - MAB Arboriculture |
+CAB-MAB Arboriculture |
 
 CAB-MAB Prairies associées à un atelier d'élevage |
 
@@ -6492,7 +6490,7 @@ Guadeloupe |
 
 E |
 
-X |
+E |
 
 E |
 
@@ -6522,7 +6520,7 @@ Guadeloupe |
 
 E |
 
-X |
+E |
 
 E |
 
@@ -6552,7 +6550,7 @@ Guadeloupe |
 
 E |
 
-X |
+E |
 
 E |
 
@@ -7236,7 +7234,7 @@ E |
 
 E |
 
-PAILVEG_ |
+PAILVEG _ |
 
 Guyane |
 
@@ -8165,6 +8163,14 @@ E |
 E |
 
 E |
+
+X |
+
+Aucun cumul autorisé |
+
+E |
+
+Cumul autorisé à l'exploitation uniquement (pas de cumul à la surface ou à l'élément) |
 
 X |
 
