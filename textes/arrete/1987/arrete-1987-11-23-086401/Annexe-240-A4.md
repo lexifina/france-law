@@ -1,335 +1,141 @@
 # Article Annexe 240-A.4
 
-EXEMPTIONS AU MATÉRIEL D'ARMEMENT ET DE SÉCURITÉ ET AUX MOYENS DE PRÉVENTION DES CHUTES À L'EAU ACCORDÉES POUR LES NAVIRES, EMBARCATIONS ET ENGINS EXPLOITÉS DANS LE CADRE D'ACTIVITÉS ORGANISÉES PAR UN ORGANISME D'ÉTAT OU PAR UNE STRUCTURE MEMBRE D'UNE FÉDÉRATION SPORTIVE AGRÉE PAR LE MINISTRE CHARGÉ DES SPORTS
+GUIDE SUR LE CHOIX DE L'ÉQUIPEMENT INDIVIDUEL DE FLOTTABILITÉ
 
-FÉDÉRATION FRANÇAISE DE CANOË-KAYAK (FFCK)
+La présente annexe fournit un guide pour effectuer le choix des équipements individuels de flottabilité en fonction de la masse des utilisateurs.
 
-Exemptions accordées pour les canoë-Kayaks évoluant entre 2 et 6 milles d'un abri, dans le cadre :
+Les équipements individuels de flottabilité de différentes tailles sont accompagnés de l'indication de la masse minimale et maximale de l'utilisateur, qui doit être conforme aux gammes de tailles marquées.
 
--de pratiques encadrées (le/ les encadrants est/ sont sur l'eau, avec son/ leur groupe) ; et
+Le moyen principal d'indication de la taille de l'équipement individuel de flottabilité en ce qui concerne le port adéquat doit être celui adapté à l'utilisateur potentiel et qui lui apporte une information bien compréhensible, par exemple la mention de gamme de masse et de gamme de tour de taille.
 
--de pratiques organisées par des structures affiliées ou agréées à la FFCK.
+Si l'aide à la flottabilité est prévue pour plusieurs catégories de masses, la flottabilité doit être au moins égale à la flottabilité spécifiée pour la catégorie de masse la plus élevée.
 
-(PV CCS CONS 978/435.01 du 10 mai 2023)
+Flottabilité minimale en fonction de la masse de l'utilisateur
 
-Ne bénéficie (nt) en aucun cas des exemptions ci-dessous :
+Equipements individuels de flottabilité de niveau de performance 50
 
--le ou les encadrants, accompagnant le groupe ;
+Paramètre |
 
--l'ensemble des canoës-kayaks évoluant à moins de 2 milles d'un abri ;
+Utilisateur |
 
--les canoës-kayaks évoluant, entre 2 et 6 milles d'un abri, en pratique isolée ou non-encadrée par une structure affiliée ou agréée à la FFCK.
+Aide
 
-Exemption accordée |
+à la flottabilité
 
-Référence article |
+pour enfants |
 
-Mesures compensatrices |
+Aide à la flottabilité
 
-Exemption conditionnelle
+pour adultes |
 
-La ou les cartes marines, ou encore leurs extraits, officiels, élaborés à partir des informations d'un service hydrographique national |
+Masse de l'utilisateur,
 
-Art.
+m (kg) |
 
-240-2.10 |
+25 < m ≤ 40 |
 
-Information par l'encadrant avant la sortie, via l'affichage obligatoire de la carte dans le club et sur le site de pratique lorsque celui-ci n'est pas le site habituel de navigation
+40 < m ≤ 50 |
 
-L'encadrant garde la possibilité d'imposer à son groupe d'embarquer une carte marine (ou leurs extraits officiels) par embarcation
+50 < m ≤ 60 |
 
-Un extrait de la carte du parcours réalisé est fixé sur chaque canoé kayak, afin que le pratiquant puisse se repérer |
+60 < m ≤ 70 |
 
-Exemption totale
+m > 70 |
 
-Règlement international pour prévenir les abordages en mer (RIPAM), ou un résumé textuel et graphique, éventuellement sous forme de plaquettes autocollantes ou sur support électronique et son appareil de lecture |
+Flottabilité minimale,
 
-Art.
+F (N) |
 
-240-2.10 |
+35 |
 
-Information par l'encadrant avant la sortie,
+40 |
 
-via l'affichage du RIPAM dans le club.
+40 |
 
-L'encadrant garde la possibilité d'imposer à son groupe d'embarquer un RIPAM (ou un résumé textuel et graphique) par embarcation |
+45 |
 
-Exemption conditionnelle
+50 |
 
-Document décrivant le système de balisage de la zone fréquentée, éventuellement sous forme de plaquettes autocollantes ou sur support électronique et son appareil de lecture |
+Flottabilité minimale en fonction de la masse de l'utilisateur
 
-Art.
+Equipements individuels de flottabilité de niveau de performance 100 (1) et 150 (2)
 
-240-2.10 |
+Paramètre |
 
-Information par l'encadrant avant la sortie,
+Utilisateur |
 
-via l'affichage du document décrivant le système de balisage de la zone fréquentée dans le club.
+Gilet
 
-L'encadrant garde la possibilité d'imposer à son groupe d'embarquer un document (ou un résumé) par embarcation
+de sauvetage
 
-Le balisage placé sur la parcours de la sortie est indiqué sur l'extrait de la carte du parcours fixée sur l'embarcation. |
+pour jeunes
 
-Exemption partielle
+enfants |
 
-Trois feux rouges à main conformes aux dispositions de la division 311 du règlement |
+Gilet de sauvetage
 
-Art.
+pour enfants |
 
-240-2.10 |
+Gilet de sauvetage
 
-Chaque embarcation dispose d'un (1) feu rouge à main.
+pour adultes
 
-L'encadrant garde la possibilité d'imposer à son groupe d'embarquer les 3 feux rouges réglementaires par embarcation |
+Masse |
 
-Exemption conditionnelle
+Masse de l'utilisateur,
 
-Compas magnétique étanche conforme aux normes ISO pertinentes ou un système de positionnement satellitaire étanche faisant fonction de compas |
+m (kg) |
 
-Art.
+m ≤ 15 |
 
-240-2.10 |
+15 < m ≤ 30 |
 
-Chaque embarcation dispose d'un moyen alternatif de navigation adapté à la zone de navigation (GPS-GSM, compas portatif de relèvement)
+30 < m ≤ 40 |
 
-L'encadrant dispose d'un compas magnétique réglementaire.
+40 < m ≤ 50 |
 
-L'encadrant garde la possibilité d'imposer à son groupe d'embarquer un compas magnétique étanche réglementaire
+50 < m ≤ 60 |
 
-Lorsque le GSM est utilisé comme moyen alternatif, l'encadrant doit s'assurer qu'il peut être protégé des intempéries et de la mer en étant placé par exemple dans une poche étanche, et que chaque GSM embarqué est chargé pour pouvoir disposer d'une autonomie suffisante pendant toute la sortie. |
+60 < m ≤ 70 |
 
-FÉDÉRATION FRANÇAISE DE VOILE (FFV)
+m > 70 |
 
-I.-Exemption accordée pour les voiliers de moins de 250 kg, les planches à voile et les planches aérotractées évoluant en navigation diurne, à moins de 2 milles d'un abri et sur des plans d'eau surveillés, dans le cadre :
+(1)
 
--de pratiques encadrées (le/ les encadrants est/ sont sur l'eau, avec son/ leur groupe) d'enseignement, de découverte, d'entrainement ou de compétition ; et
+Flottabilité minimale,
 
--de pratiques organisées par des structures affiliées ou agréées à la FFV.
+F (N) |
 
-(PV CCS INF 943/401.01 du 4 mars 2020)
+30 |
 
-Ne bénéficie (nt) en aucun cas des exemptions ci-dessous :
+40 |
 
--le ou les encadrants, accompagnant le groupe ;
+50 |
 
--les voiliers de moins de 250 kg, planches à voiles et planches aérotractées évoluant à moins de 2 milles d'un abri en pratique isolée ou non-encadrée par une structure affiliée ou agréée à la FFV.
+60 |
 
-Exemption accordée |
+70 |
 
-Référence article |
+80 |
 
-Mesures compensatrices |
+100 |
 
-Exemption conditionnelle
+(2)
 
-Dispositif lumineux |
+Flottabilité minimale,
 
-Art.
+F (N) |
 
-240-2.03 |
+45 |
 
-Une VHF est embarquée sur le bateau d'encadrement et d'intervention |
+60 |
 
-II.-Exemption accordée pour les voiliers de moins de 250 kg évoluant à moins de 2 milles d'un abri et en dehors des eaux territoriales, qui sont identifiés conformément à l'annexe G des règles de Courses à la voile-World Sailing (arborant dans la grand-voile le trigramme FRA).
+75 |
 
-(PV CCS INF 943/401.01 du 4 mars 2020)
+90 |
 
-Exemption accordée |
+100 |
 
-Référence article |
+130 |
 
-Mesures compensatrices |
-
-Exemption totale
-
-Pavillon national |
-
-Art.
-
-240-2.04 |
-
-Trigramme FRA dans la grand-voile pour les navires identifiés conformément à la World Sailing identification régulation |
-
-III.-Exemption accordée pour tous les voiliers évoluant en navigation diurne, à moins de 2 milles d'un abri, dans le cadre :
-
--de pratiques encadrées (le/ les encadrants est/ sont sur l'eau, avec son/ leur groupe) d'enseignement et de découverte ; et
-
--de pratiques organisées par des structures affiliées ou agréées à la FFV.
-
-(PV CCS INF 943/401.01 du 4 mars 2020)
-
-Ne bénéficie (nt) en aucun cas des exemptions ci-dessous :
-
--le ou les encadrants, accompagnant le groupe ;
-
--les voiliers évoluant à moins de 2 milles d'un abri en pratique isolée ou non-encadrée par une structure affiliée ou agréée à la FFV.
-
-Exemption accordée |
-
-Référence article |
-
-Mesures compensatrices |
-
-Exemption totale
-
-Sifflet associé au vêtement à flottabilité intégrée |
-
-Art.
-
-240-2.04
-
-Art.
-
-240-2.16 |
-
-Une VHF est embarquée sur le bateau d'encadrement et d'intervention |
-
-IV.-Exemption accordée pour les voiliers de moins de 250 kg évoluant en navigation diurne, à moins de 6 milles d'un abri, dans le cadre :
-
--de pratiques encadrées (le/ les encadrants est/ sont sur l'eau, avec son/ leur groupe) d'enseignement, de découverte, d'entraînement et de compétition ; et
-
--de pratiques organisées par des structures affiliées ou agréées à la FFV.
-
-(PV CCS CONS 980/437.01 du 5 juillet 2023)
-
-Ne bénéficie (nt) en aucun cas des exemptions ci-dessous :
-
--le ou les encadrants, accompagnant le groupe ;
-
--les voiliers évoluant à moins de 6 milles d'un abri en pratique isolée ou non-encadrée par une structure affiliée ou agréée à la FFV.
-
-Exemption accordée |
-
-Référence article |
-
-Mesures compensatrices |
-
-Exemption conditionnelle
-
-Matériel d'armement et de sécurité côtier |
-
-Art.
-
-240-2.04 |
-
-Chaque pratiquant embarque le matériel d'armement et de sécurité basique
-
-Chaque pratiquant porte un équipement individuel de flottabilité (EIF) d'au moins 50 N
-
-Une VHF est embarquée sur chaque bateau d'encadrement et d'intervention |
-
-ÉCOLE NATIONALE DE VOILE ET DES SPORTS NAUTIQUES (ENVSN)
-
-I.-Exemption accordée pour les voiliers de moins de 250 kg, les planches à voile et les planches aérotractées évoluant en navigation diurne, à moins de 2 milles d'un abri, dans le cadre :
-
--de pratiques encadrées (le/ les encadrants est/ sont sur l'eau, avec son/ leur groupe) d'enseignement, de découverte, d'entrainement ou de compétition ; et
-
--de pratiques organisées par l'ENVSN.
-
-(PV CCS INF 948/406.03 du 2 septembre 2020)
-
-Ne bénéficie (nt) en aucun cas des exemptions ci-dessous :
-
--le ou les encadrants, accompagnant le groupe ;
-
--les voiliers de moins de 250 kg, planches à voiles et planches aérotractées évoluant à moins de 2 milles d'un abri en pratique isolée ou non-encadrée par l'ENVSN.
-
-Exemption accordée |
-
-Référence article |
-
-Mesures compensatrices |
-
-Exemption conditionnelle
-
-Dispositif lumineux |
-
-Art.
-
-240-2.03 |
-
-Une VHF est embarquée sur chaque bateau d'encadrement et d'intervention |
-
-II.-Exemption accordée pour les voiliers de moins de 250 kg évoluant à moins de 2 milles d'un abri et en dehors des eaux territoriales, qui sont identifiés conformément à l'annexe G des règles de courses à la voile-World Sailing (arborant dans la grand-voile le trigramme FRA).
-
-(PV CCS INF 948/406.03 du 2 septembre 2020)
-
-Exemption accordée |
-
-Référence article |
-
-Mesures compensatrices |
-
-Exemption totale
-
-Pavillon national |
-
-Art.
-
-240-2.04 |
-
-Trigramme FRA dans la grand-voile pour les navires identifiés conformément à la World Sailing identification régulation |
-
-III.-Exemption accordée pour tous les voiliers évoluant en navigation diurne, à moins de 2 milles d'un abri, dans le cadre :
-
--de pratiques encadrées (le/ les encadrants est/ sont sur l'eau, avec son/ leur groupe) d'enseignement, de formation, de découverte, d'entrainement ou de compétition ; et
-
--de pratiques organisées par l'ENVSN.
-
-Ne bénéficie (nt) en aucun cas des exemptions ci-dessous :
-
--le ou les encadrants, accompagnant le groupe ;
-
--les voiliers évoluant à moins de 2 milles d'un abri en pratique isolée ou non-encadrée par l'ENVSN.
-
-Exemption accordée |
-
-Référence article |
-
-Mesures compensatrices |
-
-Exemption totale
-
-Sifflet associé au vêtement à flottabilité intégrée |
-
-Art.
-
-240-2.04
-
-Art.
-
-240-2.16 |
-
-Une VHF est embarquée sur chaque bateau d'encadrement et d'intervention |
-
-IV.-Exemption accordée pour les voiliers de moins de 250 kg évoluant en navigation diurne, à moins de 6 milles d'un abri, dans le cadre :
-
--de pratiques encadrées (le/ les encadrants est/ sont sur l'eau, avec son/ leur groupe) d'enseignement, de découverte, d'entrainement et de compétition ; et
-
--de pratiques organisées par l'ENVSN.
-
-Ne bénéficie (nt) en aucun cas des exemptions ci-dessous :
-
--le ou les encadrants, accompagnant le groupe.
-
-Les voiliers de moins de 250 kg évoluant à moins de 6 milles d'un abri en pratique isolée ou non-encadrée par l'ENVSN.
-
-Exemption accordée |
-
-Référence article |
-
-Mesures compensatrices |
-
-Exemption conditionnelle
-
-Matériel d'armement et de sécurité côtier |
-
-Art.
-
-240-2.04 |
-
-Chaque pratiquant embarque le matériel d'armement et de sécurité basique.
-
-Chaque pratiquant porte un équipement individuel de flottabilité (EIF) d'au moins 50 N
-
-Une VHF est embarquée sur chaque bateau d'encadrement et d'intervention |
+150 |

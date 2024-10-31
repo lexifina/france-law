@@ -1,20 +1,74 @@
 # Article Annexe 244-A.2
 
-DÉCLARATION DE CONFORMITÉ D'UN NAVIRE DE PLAISANCE TRADITIONNEL
+ATTESTATION DE CONFORMITÉ D'UN NAVIRE DE PLAISANCE TRADITIONNEL
 
-construit conformément aux dispositions de la division 244 du règlement relatif à la sécurité des navires
+construit conformément aux dispositions de la division 244 du règlement relatif à la sécurité des navires et à la prévention de la pollution
 
 Loi n° 83-581 du 5 juillet 1983, modifiée, sur la sauvegarde de la vie humaine en mer, l'habitabilité à bord des navires et la prévention de la pollution
 
-Décret n° 84-810 du 30 août 1984, modifié, relatif à la sauvegarde de la vie humaine en mer, l'habitabilité à bord des navires et la prévention de la pollution
+Décret n° 84-810 du 30 août 1984, modifié, relatif à la sauvegarde de la vie humaine en mer, à la prévention de la pollution, à la sûreté et à la certification sociale des navires
 
-Division 244 du règlement annexé à l'arrêté du 23 novembre 1987, modifié, relatif à la sécurité des navires
+Division 244 du règlement annexé à l'arrêté du 23 novembre 1987, modifié, relatif à la sécurité des navires et à la prévention de la pollution
 
-(Formulaire non reproduit)
+Je soussigné(e) :
 
-Notice de remplissage de la déclaration de conformité d'un navire de plaisance traditionnel, mis en service
+01 M. / Mme / Mlle _________________________________________________________________
 
-conformément aux dispositions de la division 244 du règlement relatif à la sécurité des navires
+02 né(e) le __ / __ / __ (03) à _______________________________________________________
+
+04 résidant à : ____________________________________________________________________
+
+_______________________________________________________________________________
+
+05 □ fabricant identifié en tant que professionnel avec raison sociale 06 □ mandataire du fabricant
+
+07 agissant au nom de l'entreprise dont la raison sociale et l'adresse sont : ____________________
+
+_______________________________________________________________________________
+
+________________________________________________________________________________
+
+08 □ constructeur amateur, ou personne autre que le constructeur, et ayant réalisé des modifications |
+
+que le navire dont le numéro d'identification est (09) □ □ - □ □ □ □ □ □ □ □ □ □ □ □
+
+et répondant à la description suivante :
+
+10 □ navire traditionnel existant 11 □ réplique neuve
+
+12 Désignation du modèle ou du plan :
+
+13 Date de conception du modèle ou du plan : _____ 14 Date de début de construction : __ / __ / __
+
+Propulsion principale : 15 □ voilier 16 □ non-voilier 17 □ énergie humaine
+
+18 Puissance max : _____ kW 19 Surface de la voilure : _____ m²
+
+20 Longueur de coque : _____ m 21 Bau maximum : _________ m
+
+22 Nombre maximum de personnes de 75 kg embarquées : ____ |
+
+23 ayant subi des modifications concernant : |
+
+24 □ longueur de coque |
+
+25 □ déplacement lège |
+
+26 □ nature du carburant de propulsion |
+
+27 □ mode de propulsion |
+
+28 □ chargement max |
+
+29 □ puissance propulsion |
+
+30 □ nombre de personnes max |
+
+est conforme aux dispositions de la division 244 en vigueur.
+
+30 Signature du déclarant : |
+
+Notice de remplissage de l'attestation de conformité d'un navire de plaisance traditionnel, mis en service conformément aux dispositions de la division 244 du règlement annexé à l'arrêté du 23 novembre 1987, modifié, relatif à la sécurité des navires et à la prévention de la pollution
 
 1. Rayer la mention "M." , "Mme." ou "Mlle." inutile. Prénoms, et nom patronymique en majuscules.
 
@@ -66,14 +120,16 @@ conformément aux dispositions de la division 244 du règlement relatif à la s�
 
 25. Cocher cette case si le déplacement lège du navire a subi une variation de plus de 10 % du déplacement initial.
 
-26. Cocher cette case si le nombre de personnes pouvant être embarquées a été modifié.
+26. Cocher cette case si la nature du combustible de propulsion a été modifiée
 
-27. Cocher cette case en cas de modification du chargement maximal admissible.
+27. Cocher cette case en cas de modification du mode de propulsion
 
-28. Cocher cette case en cas de modification de la puissance de propulsion.
+28. Cocher cette case en cas de modification du chargement maximal admissible
 
-29. Cocher cette case en cas de modification de la nature du combustible de propulsion.
+29. Cocher cette case en cas de modification de la puissance de propulsion
 
-30. Signature de personne ayant rempli le champ n° 1.
+30. Cocher cette case en cas de modification du nombre maximum de personnes pouvant embarquer
+
+31. Signature de la personne ayant rempli le champ n° 1
 
 Les renseignements manuscrits sont portés à l'encre permanente et en lettres capitales. Les reproductions de signatures ne peuvent pas être prises en compte.

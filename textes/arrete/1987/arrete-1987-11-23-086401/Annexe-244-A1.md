@@ -54,8 +54,6 @@ Fournir une fiche comprenant, dès qu'ils sont connus, les renseignements qui su
 
 21. Zone océanique SMDSM
 
-22. Centre de sécurité des navires chargé de la mise en service (navires de Lh >_ 24 m)
-
 I.B. - Documents généraux
 
 Fournir soit un plan général du navire, en une ou plusieurs feuilles au format A4, soit un jeu de photographies.
