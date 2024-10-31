@@ -60,17 +60,9 @@ France métropolitaine-Vietnam.
 
 3.1. De/ vers la France métropolitaine
 
-Afrique du Sud :
+Afrique du Sud : Paris-Johannesbourg ; Paris-Le Cap ; Paris-Durban ; Paris-East London ; Paris-George ;
 
-Paris-Durban ;
-
-Paris-East London ;
-
-Paris-George ;
-
-Paris-Johannesbourg ;
-
-Paris-Le Cap ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie sud-africaine entre un point du territoire français et un point du territoire sud-africain, eswatinien ou lesothane situé au-delà de Johannesbourg ou Le Cap.
 
 Algérie :
 
@@ -184,11 +176,13 @@ Bolivie :
 
 Paris-Santa Cruz ;
 
-Botswana :
+Botswana : Paris-Gaborone ;
 
-Paris-Gaborone ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie sud-africaine entre un point du territoire français et un point du territoire botswanais situé au-delà de Johannesbourg ou Le Cap.
 
 Brésil :
+
+Paris-Salvador de Bahia ;
 
 Paris-Brasilia ;
 
@@ -494,9 +488,9 @@ Paris-Malé ;
 
 Malawi :
 
-Paris-Blantyre ;
+Paris-Blantyre ; Paris-Lilongwé ;
 
-Paris-Lilongwé ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie sud-africaine entre un point du territoire français et un point du territoire malawite situé au-delà de Johannesbourg ou Le Cap.
 
 Mali :
 
@@ -526,17 +520,13 @@ Mongolie :
 
 Paris-Oulan-Bator ;
 
-Mozambique :
+Mozambique : Paris-Maputo ; Paris-Nampula ;
 
-Paris-Maputo ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie sud-africaine entre un point du territoire français et un point du territoire mozambicain situé au-delà de Johannesbourg ou Le Cap.
 
-Paris-Nampula ;
+Namibie : Paris-Walvis Bay ; Paris-Windhoek ;
 
-Namibie :
-
-Paris-Walvis Bay ;
-
-Paris-Windhoek ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie sud-africaine entre un point du territoire français et un point du territoire namibien situé au-delà de Johannesbourg ou Le Cap.
 
 Népal :
 
@@ -754,19 +744,13 @@ Vénézuela :
 
 Paris-Caracas ;
 
-Zambie :
+Zambie : Paris-Lusaka ; Paris-Livingston ; Paris-N'Dola ;
 
-Paris-Lusaka ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie sud-africaine entre un point du territoire français et un point du territoire zambien situé au-delà du point de Johannesbourg ou Le Cap.
 
-Paris-Livingston ;
+Zimbabwe : Paris-Hararé ; Paris-Victoria Falls ;
 
-Paris-N'Dola ;
-
-Zimbabwe :
-
-Paris-Hararé ;
-
-Paris-Victoria Falls ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie sud-africaine entre un point du territoire français et un point du territoire zimbabwéen situé au-delà de Johannesbourg ou Le Cap.
 
 3.2. De/ vers les Antilles et la Guyane
 
