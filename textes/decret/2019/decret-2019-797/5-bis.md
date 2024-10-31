@@ -6,4 +6,6 @@ Pour l'application des dispositions de l'alinéa précédent, la date d'engageme
 
 Les articles 50-3, 50-5, 50-7, 50-9 et 51 de l'annexe A, dans leur rédaction issue du décret n° 2023-33 du 26 janvier 2023 relatif au régime d'assurance chômage, sont applicables à compter du 1er février 2023.
 
+Les articles 50-2 à 50-15 de l'annexe A, dans leur rédaction issue du décret n° 2024-853 du 30 juillet 2024 relatif au régime d'assurance chômage, sont applicables à compter du 1er septembre 2024. L'article 51 de la même annexe, dans sa rédaction issue du même décret, est applicable du 1er septembre au 31 octobre 2024 et, dans sa rédaction issue du décret n° 2024-963 du 29 octobre 2024 relatif au régime d'assurance chômage, est applicable à compter du 1er novembre 2024.
+
 L'article 35 de l'annexe A, dans sa rédaction issue du même décret est applicable aux travailleurs privés d'emploi dont la fin de contrat de travail est intervenue à compter du 1er juillet 2023.
