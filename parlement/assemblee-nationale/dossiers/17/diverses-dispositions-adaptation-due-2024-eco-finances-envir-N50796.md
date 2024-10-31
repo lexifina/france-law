@@ -1,0 +1,68 @@
+# Diverses dispositions d’adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes
+
+- Procédure : Projet de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N50796
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/diverses_dispositions_adaptation_due_2024_eco_finances_environnement
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl24-352.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2024-10-31 : 1er dépôt d'une initiative. (PRJLANR5L17B0529)
+  - 2024-10-31 : Etude d'impact (ETDIANR5L17B0529)
+  - 2024-10-31 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-10-31 : Renvoi en commission au fond
+      - 2024-11-13 : Nomination de rapporteur
+      - 2024-11-13 : Réunion de commission
+      - 2024-11-27 : Réunion de commission
+      - 2025-01-22 : Réunion de commission
+      - 2024-11-27 : Dépôt de rapport (RAPPANR5L17B0631, PRJLANR5L17BTC0631)
+    - Travaux d'une commission saisie pour avis
+      - 2024-11-14 : Saisine pour avis d'une commission
+      - 2024-11-19 : Nomination de rapporteur
+      - 2024-11-27 : Réunion de commission
+    - Travaux d'une commission saisie pour avis
+      - 2024-11-14 : Saisine pour avis d'une commission
+      - 2024-11-13 : Nomination de rapporteur
+      - 2024-11-13 : Réunion de commission
+      - 2024-11-27 : Réunion de commission
+    - Travaux d'une commission saisie pour avis
+      - 2024-11-14 : Saisine pour avis d'une commission
+      - 2024-11-12 : Nomination de rapporteur
+      - 2024-11-12 : Réunion de commission
+  - Discussion en séance publique
+    - 2025-01-22 : Discussion en séance publique
+    - 2025-01-22 : Discussion en séance publique
+    - 2025-02-17 : Discussion en séance publique
+    - 2025-02-17 : Discussion en séance publique
+    - 2025-02-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2025-02-18 : Dépôt d'une initiative en navette (PRJLSNR5S459B0352)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-02-18 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2025-03-05 : Dépôt de rapport (RAPPSNR5S459B0401, PRJLSNR5S459BTC0402)
+  - Discussion en séance publique
+    - 2025-03-10 : Décision
+- Commission Mixte Paritaire
+  - 2025-03-11 : Dépôt d'un projet de loi (PRJLANR5L17B1103)
+  - 2025-03-11 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2025-03-31 : Nomination de rapporteur
+    - 2025-04-01 : Dépôt du rapport d'une CMP (RAPPANR5L17B1198, PRJLANR5L17BTC1198)
+    - 2025-04-01 : Dépôt du rapport d'une CMP (RAPPSNR5S459B0497, PRJLSNR5S459BTC0498)
+  - Discussion en séance publique
+    - 2025-04-02 : Discussion en séance publique
+    - 2025-04-02 : Décision
+  - Discussion en séance publique
+    - 2025-04-03 : Décision
+  - 2025-04-01 : Décision de la CMP
+- Conseil constitutionnel
+  - 2025-04-08 : Saisine du conseil constitutionnel
+  - 2025-04-29 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2025-04-30 : Promulgation d'une loi
