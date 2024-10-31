@@ -8,7 +8,9 @@ Je déclare en outre que les renseignements portés sur ce formulaire sont exact
 
 Bénéficiaire
 
-Nom : M., Mme, Mlle (en majuscules, suivi du nom du conjoint le cas échéant) :
+Nom : M., Mme :
+
+Nom d'usage :
 
 Prénom :
 
@@ -16,7 +18,9 @@ Né(e) le :
 
 Accompagnateur(trice)
 
-Nom : M., Mme, Mlle (en majuscules, suivi du nom du conjoint le cas échéant) :
+Nom : M., Mme :
+
+Nom d'usage :
 
 Prénom :
 
