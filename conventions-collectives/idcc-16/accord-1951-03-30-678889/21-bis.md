@@ -14,9 +14,11 @@ le personnel technicien ou agent de maîtrise bénéficie dans les conditions fi
 
 a) Dispositions générales
 
-L'ancienneté prise en compte pour la détermination du droit à l'indemnisation s'exprime au premier jour de l'absence.
+L'ancienneté prise en compte pour la détermination du droit à l'indemnisation s'apprécie au premier jour de l'absence.
 
 Les pourcentages d'indemnisation s'appliquent sur la base de la rémunération qui aurait été perçue si ce personnel avait continué à travailler.
+
+Dans le respect des dispositions prévues au dernier paragraphe du point 3 du présent article, l'employeur doit inclure dans le calcul du maintien de salaire dû à l'intéressé la part variable de la rémunération, à savoir l'ensemble des éléments de rémunération versés en contrepartie du travail mais excluant, d'une part, les remboursements forfaitaires de frais puisque le salarié ne les a pas supportés, d'autre part, certaines primes en raison des modalités de versement prévues dans l'accord, le contrat ou l'usage, les instituant (exemple d'une prime conditionnée à la présence, ou d'une prime non impactée par l'absence du salarié).
 
 b) Absences pour maladies
 
