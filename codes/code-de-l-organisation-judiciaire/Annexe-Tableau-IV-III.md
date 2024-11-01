@@ -70,9 +70,11 @@ Cayenne |
 
 Saint-Laurent-du-Maroni |
 
-1° Sous réserve du 2°, affaires civiles et pénales de la compétence du tribunal judiciaire à l'exception de celles relevant des fonctions visées au premier alinéa de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ;
+1° Sous réserve du 2°, affaires civiles et pénales de la compétence du tribunal judiciaire, à l'exception du contrôle des mesures privatives et restrictives de libertés prévues par le code de l'entrée et du séjour des étrangers et du droit d'asile et le code de la santé publique et de celles relevant des fonctions visées au premier alinéa de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ;
 
-2° Fonctions relevant de la compétence du juge des enfants et présidence du tribunal pour enfants lorsque cette juridiction tient ses audiences au siège de la chambre de proximité ; |
+2° Fonctions relevant de la compétence du juge des enfants et présidence du tribunal pour enfants lorsque cette juridiction tient ses audiences au siège de la chambre de proximité ;
+
+|
 
 Colmar |
 
