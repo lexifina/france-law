@@ -2556,7 +2556,7 @@ Chef DAJ |
 
 DIPN95/ CPN Sarcelles |
 
-Adjoint chef DAJ |
+Chef de brigade stupéfiants |
 
 95 |
 
@@ -2714,7 +2714,7 @@ Chef DAJ |
 
 DIPN06/ CPN Nice-SLPJ |
 
-Chef EM |
+Chef secrétariat judiciaire |
 
 6 |
 
@@ -2792,7 +2792,7 @@ Adjoint au chef de centre de rétention administrative (CRA) |
 
 DIPN13/ SIPAF |
 
-Chef de la brigade mobile de recherche zonale (BMRZ) |
+Chef antenne OLTIM |
 
 13 |
 
@@ -4202,9 +4202,9 @@ Adjoint chef SLPJ |
 
 60 |
 
-DIPN60/ CPN Beauvais |
+DIPN60/ CPN Creil |
 
-Adjoint CPN-Chef SLSP |
+Adjoint Chef SLPJ |
 
 60 |
 
@@ -4322,7 +4322,7 @@ Chef SDN |
 
 80 |
 
-DIPN80/ CPN Amiens |
+DIPN80/ CPN Abbeville |
 
 Chef SLPJ |
 
@@ -4528,7 +4528,7 @@ Chef détachement OFAST |
 
 DIPN68/ CPN Mulhouse |
 
-Adjoint chef SLPJ |
+Adjoint chef SDSP |
 
 68 |
 
