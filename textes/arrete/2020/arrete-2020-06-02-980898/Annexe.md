@@ -694,11 +694,11 @@ ACADEMIE DE POLICE/ SDREF/ CNTIS Cannes-Ecluse |
 
 Chef de centre national |
 
-77 |
+89 |
 
-ACADEMIE DE POLICE/ SOUS DIRECTION DU RECRUTEMENT ET DES ETABLISSEMENTS DE FORMATION |
+ACADEMIE DE POLICE/ SDREF/ CNFMPN Sens (Motocycliste) |
 
-Chef de division des centres nationaux |
+Chef de centre national |
 
 91 |
 
@@ -1554,15 +1554,15 @@ Chef EM de circonscription |
 
 60 |
 
-DIPN60/ SIPAF |
+DIPN60/ SDPAF |
 
-Adjoint au SIPAF-Chef SPAFA |
+Adjoint au SDPAF-Chef SPAFA |
 
 60 |
 
-DIPN60/ SIPAF |
+DIPN60/ SDPAF |
 
-Chef SIPAF |
+Chef SDPAF |
 
 60 |
 
@@ -3700,7 +3700,7 @@ Chef d'antenne |
 
 971 |
 
-RAID/ Antenne de Pointe-à-Pitre |
+RAID/ Antenne des Abymes |
 
 Chef d'antenne |
 
