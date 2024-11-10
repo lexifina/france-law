@@ -1,17 +1,31 @@
 # Article Annexe 7
 
-BTSA option développement, animation des territoires ruraux
+BTSA SPÉCIALITÉ DÉVELOPPEMENT ET ANIMATION DE PROJETS TERRITORIAUX
 
--S'intéresser à la mise en œuvre de projets de service, des études de faisabilité et d'opportunité.
+Intérêts :
 
--S'intéresser à la création et l'animation d'événements, à la construction de partenariats.
+-s'intéresser aux territoires, aux acteurs et à leurs besoins ;
 
--S'intéresser à la gestion de structures de services.
+-s'intéresser à la mise en œuvre de projets et à la conduite d'études de faisabilité et d'opportunité ;
 
--Disposer de compétences relationnelles, de capacité d'écoute, d'empathie, de recherche d'un consensus.
+-s'intéresser à la communication des institutions, à la création et l'animation d'événements ;
 
--Disposer de capacités de prise de décisions, d'organisation et d'autonomie.
+-s'intéresser à l'animation des territoires ;
 
--Disposer de compétences en matière d'expression écrite et orale pour communiquer et argumenter.
+-s'intéresser à l'accompagnement des acteurs du territoire dans leurs initiatives et leurs projets ;
 
--Disposer de compétences collaboratives et d'animation d'équipe.
+-s'intéresser aux questions liées aux transitions écologiques, climatiques et sociales en lien avec l'agriculture.
+
+Capacités et connaissances attendues :
+
+-disposer de compétences relationnelles, de capacité d'écoute, d'empathie, de sens de la négociation ;
+
+-disposer de capacités de prise de décisions, d'organisation et d'autonomie ;
+
+-disposer de compétences en matière d'expression écrite et orale pour communiquer et argumenter ;
+
+-disposer de compétences collaboratives et d'animation d'équipe dans une démarche de projet.
+
+NOTA :
+
+Le contenu des annexes peut être consulté sur le site internet " Parcoursup ", à l'adresse suivante : https://www.parcoursup.fr. Les compétences et connaissances attendues sont accessibles pour chacune des formations par le moteur de recherche : " Je recherche une formation sur Parcoursup " et elles sont détaillées dans l'onglet " caractéristiques " de chaque formation consultée.
