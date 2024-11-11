@@ -86,27 +86,25 @@ TEREOS France
 
 |
 
-73419
+67702
 
 |
 
-73419
+67702
 
 |
 
-373489
-
-|
+362055 |
 
 FR000000000000004
 
 |
 
-WEPA GREENFIELD
+Wepa Greenfield sas
 
 |
 
-WEPA GREENFIELD
+Wepa Greenfield
 
 |
 
@@ -122,15 +120,15 @@ WEPA GREENFIELD
 
 |
 
-3530
+2986
 
 |
 
-3530
+2986
 
 |
 
-16886
+15798
 
 |
 
@@ -266,15 +264,15 @@ ROQUETTE VIC SA
 
 |
 
-22649
+17587
 
 |
 
-22649
+17587
 
 |
 
-116973
+106849
 
 |
 
@@ -302,15 +300,15 @@ ENGIE Cofely
 
 |
 
-2492
+2117
 
 |
 
-2422
+2058
 
 |
 
-12631
+11892
 
 |
 
@@ -338,15 +336,15 @@ TEREOS France
 
 |
 
-168759
+167572
 
 |
 
-168759
+167572
 
 |
 
-850335
+847961
 
 |
 
@@ -398,27 +396,27 @@ SOISSONS RESEAU CHALEUR
 
 |
 
-1542
+1801
 
 |
 
-1502
+1801
 
 |
 
-1463
+1801
 
 |
 
-1423
+1518
 
 |
 
-1384
+1518
 
 |
 
-7314
+8439
 
 |
 
@@ -446,15 +444,13 @@ ATEMAX France
 
 |
 
-12990
+10972
 
 |
 
-12990
+10972 |
 
-|
-
-64950
+60914
 
 |
 
@@ -518,15 +514,15 @@ SPONTEX SAS
 
 |
 
-7224
+5885
 
 |
 
-7224
+5885
 
 |
 
-36120
+33442
 
 |
 
@@ -590,15 +586,15 @@ TEREOS France
 
 |
 
-36117
+35918
 
 |
 
-36117
+35918
 
 |
 
-197789
+197391
 
 |
 
@@ -806,15 +802,15 @@ NSO ENERGIE
 
 |
 
-974
+795
 
 |
 
-946
+773
 
 |
 
-5004
+4652
 
 |
 
@@ -970,7 +966,7 @@ Chaufferie de la ZUP d'Etouvie
 
 |
 
-ETOUVIE ENERGIES & ENVIRONNEMENT
+ETOUVIE ENERGIES ENVIRONNEMENT
 
 |
 
@@ -986,15 +982,15 @@ ETOUVIE ENERGIES & ENVIRONNEMENT
 
 |
 
-1339
+1072
 
 |
 
-1301
+1042
 
 |
 
-6879
+6353
 
 |
 
@@ -1022,15 +1018,15 @@ METEX NOOVISTAGO
 
 |
 
-61918
+39248
 
 |
 
-61918
+39248
 
 |
 
-347829
+302489
 
 |
 
@@ -1038,7 +1034,7 @@ FR000000000000047
 
 |
 
-Chaufferie Opac Nord Le Pigeonnier
+Chaufferie Opac Nord " Le Pigeonnier "
 
 |
 
@@ -1058,15 +1054,13 @@ AMIENS ENERGIES
 
 |
 
-390
+209 |
+
+204
 
 |
 
-379
-
-|
-
-2880
+2524
 
 |
 
@@ -1094,15 +1088,15 @@ NESTLE PURINA PETCARE France S.A.S.
 
 |
 
-1769
+-
 
 |
 
-1769
+-
 
 |
 
-8845
+5307
 
 |
 
@@ -1202,15 +1196,15 @@ BONDUELLE EUROPE LONG LIFE
 
 |
 
-963
+1205
 
 |
 
-963
+1205
 
 |
 
-4954
+5438
 
 |
 
@@ -1218,15 +1212,11 @@ FR000000000000055
 
 |
 
-TEREOS STARCH SWEETENERS EUROPE ETABLISSEMENT DE NESLE (80190)
+Tereos Starch Sweeteners Europe Etablissement de Nesle (80190)
 
 |
 
-TEREOS STARCH SWEETENERS EUROPE
-
-|
-
-143540
+Tereos Starch Sweeteners Europe
 
 |
 
@@ -1234,7 +1224,7 @@ TEREOS STARCH SWEETENERS EUROPE
 
 |
 
-108241
+143540
 
 |
 
@@ -1242,11 +1232,15 @@ TEREOS STARCH SWEETENERS EUROPE
 
 |
 
-108241
+95709
 
 |
 
-611803 |
+95709
+
+|
+
+586739 |
 
 FR000000000000056
 
@@ -1344,15 +1338,15 @@ ROQUETTE Frères SA - site de Vecquemont
 
 |
 
-21538
+17634
 
 |
 
-21538
+17634
 
 |
 
-118047
+110239
 
 |
 
@@ -1452,15 +1446,13 @@ EURENCO
 
 |
 
-4117
+3246
 
 |
 
-4003
+3156 |
 
-|
-
-24230
+22512
 
 |
 
@@ -1468,11 +1460,11 @@ FR000000000000068
 
 |
 
-AHLSTROM ROTTERSAC
+AHLSTROM - MUNKJSO ROTTERSAC SAS
 
 |
 
-AHLSTROM ROTTERSAC
+AHLSTROM ROTTERSAC SAS
 
 |
 
@@ -1488,15 +1480,15 @@ AHLSTROM ROTTERSAC
 
 |
 
-27088
+26441
 
 |
 
-27088
+26441
 
 |
 
-134641
+133347
 
 |
 
@@ -1560,15 +1552,15 @@ CHAUX DE SAINT ASTIER
 
 |
 
-20507
+22857
 
 |
 
-20507
+22857
 
 |
 
-97992
+102692
 
 |
 
@@ -1756,11 +1748,11 @@ FR000000000000078
 
 |
 
-Smurfit Kappa Cellulose du Pin
+Smurfit Westrock Cellulose du Pin
 
 |
 
-Smurfit Kappa Cellulose du Pin
+Smurfit Westrock Cellulose du Pin
 
 |
 
@@ -1920,15 +1912,15 @@ Gascogne Papier
 
 |
 
-27291
+24990
 
 |
 
-27291
+24990
 
 |
 
-149165
+144563
 
 |
 
@@ -2244,15 +2236,13 @@ TEREGA
 
 |
 
-1390
+1529
 
 |
 
-1390
+1529 |
 
-|
-
-8905
+9183
 
 |
 
@@ -2496,17 +2486,15 @@ BOUYER LEROUX
 
 |
 
-24245
+22638
 
 |
 
-24245
+22638
 
 |
 
-123088
-
-|
+119874 |
 
 FR000000000000113
 
@@ -2568,15 +2556,13 @@ TERREAL
 
 |
 
-4731
+4621
 
 |
 
-4731
+4621 |
 
-|
-
-23453
+23233
 
 |
 
@@ -2640,15 +2626,13 @@ LISIEUX ENERGIE
 
 |
 
-1642
+1266 |
+
+1266
 
 |
 
-1642
-
-|
-
-8210
+7458
 
 |
 
@@ -2676,15 +2660,15 @@ Coopérative ISIGNY Sainte mère
 
 |
 
-26180
+24410
 
 |
 
-26180
+24410
 
 |
 
-127578
+124038
 
 |
 
@@ -2712,17 +2696,15 @@ ELVIR SAS
 
 |
 
-4414
+-
 
 |
 
-4414
+-
 
 |
 
-21695
-
-|
+12867 |
 
 FR000000000000123
 
@@ -2928,17 +2910,15 @@ ENERGIE VERTE DE CAEN LA MER
 
 |
 
-420
+541
 
 |
 
-420
+541
 
 |
 
-1904
-
-|
+2146 |
 
 FR000000000000136
 
@@ -3000,15 +2980,15 @@ INDUSTEEL France site du Creusot
 
 |
 
-31400
+31139
 
 |
 
-31400
+31139
 
 |
 
-165497
+164975
 
 |
 
@@ -3020,7 +3000,7 @@ THERMODYN
 
 |
 
-BHGE THERMODYN SAS
+THERMODYN SAS
 
 |
 
@@ -3036,15 +3016,15 @@ BHGE THERMODYN SAS
 
 |
 
-554
+371
 
 |
 
-554
+371
 
 |
 
-2770
+2404
 
 |
 
@@ -3072,17 +3052,15 @@ CHALON'ENERGIE
 
 |
 
-482
+684
 
 |
 
-482
+684
 
 |
 
-2410
-
-|
+2814 |
 
 FR000000000000144
 
@@ -3144,15 +3122,13 @@ CHALON'ENERGIE
 
 |
 
-4044
+3333
 
 |
 
-3932
+3240 |
 
-|
-
-20784
+19381
 
 |
 
@@ -3180,15 +3156,15 @@ MFPMichelin
 
 |
 
-2440
+2033
 
 |
 
-2440
+2033
 
 |
 
-12200
+11386
 
 |
 
@@ -3252,15 +3228,15 @@ SOCIETE DIJONNAISE D'ENERGIE NOUVELLE
 
 |
 
-1644
+1336
 
 |
 
-1599
+1299
 
 |
 
-8451
+7843
 
 |
 
@@ -3288,15 +3264,15 @@ SOCIETE D'EXPLOITATION DU CHAUFFAGE URBAIN D'AUTUN (SECUA)
 
 |
 
-1153
+995
 
 |
 
-1153
+995
 
 |
 
-5765
+5449
 
 |
 
@@ -3720,15 +3696,15 @@ BUNGE France SAS
 
 |
 
-13662
+16025
 
 |
 
-13662
+16025
 
 |
 
-75992
+80718
 
 |
 
@@ -3828,15 +3804,15 @@ PDM Industries
 
 |
 
-27110
+26603
 
 |
 
-27110
+26603
 
 |
 
-135358
+134344
 
 |
 
@@ -3844,11 +3820,11 @@ FR000000000000178
 
 |
 
-CGPA PENY
+D'Aucy France-Etablissement St-Thurien
 
 |
 
-CGPA Peny
+D'Aucy France
 
 |
 
@@ -3936,15 +3912,15 @@ SOLEVAL
 
 |
 
-9430
+7478
 
 |
 
-9430
+7478
 
 |
 
-51648
+47744
 
 |
 
@@ -4006,13 +3982,13 @@ SOCIETE LAITIERE DE RETIERS
 
 |
 
-23605 |
+22241 |
 
-23605
+22241
 
 |
 
-120894
+118166
 
 |
 
@@ -4040,15 +4016,15 @@ Université de Rennes 1
 
 |
 
-1119
+898
 
 |
 
-1088
+873
 
 |
 
-5750
+5314
 
 |
 
@@ -4092,11 +4068,11 @@ FR000000000000186
 
 |
 
-UFM - Union Fermière Morbihannaise SAS
+D'Aucy France-Etablissement Locminé
 
 |
 
-UFM - Union Fermière Morbihannaise SAS
+D'Aucy France
 
 |
 
@@ -4236,11 +4212,11 @@ FR000000000000193
 
 |
 
-En'RnoV
+ENGIE ENERGIE SERVICES Rennes Villejean
 
 |
 
-En'RnoV
+ENGIE Energie Services (Engie Réseaux)
 
 |
 
@@ -4256,15 +4232,15 @@ En'RnoV
 
 |
 
-3116
+5463
 
 |
 
-3116
+5463
 
 |
 
-11308
+16002
 
 |
 
@@ -4292,15 +4268,15 @@ ADISSEO SAS
 
 |
 
-12944
+5407
 
 |
 
-12584
+5256
 
 |
 
-76620
+61755
 
 |
 
@@ -4312,7 +4288,7 @@ ERASTEEL COMMMENTRY
 
 |
 
-ERASTEEL
+ERASTEEL Commentry
 
 |
 
@@ -4328,15 +4304,15 @@ ERASTEEL
 
 |
 
-9429
+7946
 
 |
 
-9429
+7946
 
 |
 
-50063
+47097
 
 |
 
@@ -4364,15 +4340,15 @@ SA VICAT
 
 |
 
-225163
+202921
 
 |
 
-225163
+202921
 
 |
 
-1085046
+1040562
 
 |
 
@@ -4384,7 +4360,7 @@ Aubert et Duval
 
 |
 
-Aubert et Duval
+AUBERT DUVAL
 
 |
 
@@ -4400,15 +4376,15 @@ Aubert et Duval
 
 |
 
-19169
+18365
 
 |
 
-19169
+18260
 
 |
 
-116394
+114681
 
 |
 
@@ -4472,15 +4448,15 @@ PAPETERIES DE GIROUX
 
 |
 
-6399
+7383
 
 |
 
-6399
+7383
 
 |
 
-31995
+33963
 
 |
 
@@ -4580,15 +4556,15 @@ SECANIM SUD EST
 
 |
 
-5480
+4534
 
 |
 
-5480
+4534
 
 |
 
-28783
+26891
 
 |
 
@@ -4616,15 +4592,15 @@ Société de Distribution de Chaleur de Moulins (SDC Moulins)
 
 |
 
-2563
+2242
 
 |
 
-2491
+2179
 
 |
 
-12948
+12315
 
 |
 
@@ -4632,11 +4608,11 @@ FR000000000000218
 
 |
 
-CIMENTS CALCIA - Usine de Couvrot
+Heidelberg Materials France Ciments-Usine de Couvrot
 
 |
 
-Ciments Calcia
+Heidelberg Materials France Ciments
 
 |
 
@@ -4668,7 +4644,7 @@ FR000000000000219
 
 |
 
-McCain alimentaire Matougues
+McCain alimentaire SAS
 
 |
 
@@ -4688,15 +4664,15 @@ Mccain Alimentaire sas
 
 |
 
-22071
+26106
 
 |
 
-22071
+26106
 
 |
 
-110355
+118425
 
 |
 
@@ -4832,15 +4808,15 @@ ENGIE Cofely
 
 |
 
-420
+303
 
 |
 
-420
+303
 
 |
 
-2100
+1866
 
 |
 
@@ -4868,15 +4844,15 @@ GRTgaz Territoire Nord Est
 
 |
 
-3936
+7168
 
 |
 
-3936
+7168
 
 |
 
-17955
+24419
 
 |
 
@@ -4940,17 +4916,15 @@ SOCCRAM
 
 |
 
-5323
+4507
 
 |
 
-5323
+4507
 
 |
 
-26615
-
-|
+24983 |
 
 FR000000000000230
 
@@ -4976,15 +4950,15 @@ CRISTAL UNION
 
 |
 
-53167
+53851
 
 |
 
-53167
+53851
 
 |
 
-266672
+268040
 
 |
 
@@ -5100,11 +5074,11 @@ FR000000000000234
 
 |
 
-ADM BAZANCOUR
+ADM BAZANCOURT SASU
 
 |
 
-ADM BAZANCOUR
+ADM BAZANCOURT SASU
 
 |
 
@@ -5120,15 +5094,15 @@ ADM BAZANCOUR
 
 |
 
-29901
+27820
 
 |
 
-29901
+27820
 
 |
 
-167857
+163695
 
 |
 
@@ -5208,7 +5182,7 @@ FR000000000000241
 
 |
 
-Chaufferie-Réseau TCM La Chapelle Saint-Luc/ Les Noës-Près-Troyes
+TCM-Chaufferie de La Chapelle Saint-Luc/Les Noës-Près-Troyes
 
 |
 
@@ -5228,15 +5202,15 @@ Troyes Champagne Métropole
 
 |
 
-1173
+776
 
 |
 
-1173
+776
 
 |
 
-5865
+5071
 
 |
 
@@ -5264,15 +5238,15 @@ Troyes Champagne Métropole
 
 |
 
-1006
+860
 
 |
 
-1006
+860
 
 |
 
-4884
+4592
 
 |
 
@@ -5316,7 +5290,7 @@ FR000000000000245
 
 |
 
-SEDAN ENERGIE CHAUFFERIE ZUP DE LA PRAIRIE
+DALKIA CHAUFFERIE ZUP DE LA PRAIRIE
 
 |
 
@@ -5336,15 +5310,15 @@ SEDAN ENERGIE
 
 |
 
-2444
+1947
 
 |
 
-2376
+1893
 
 |
 
-12560
+11580
 
 |
 
@@ -5480,15 +5454,15 @@ CRISTAL UNION
 
 |
 
-72941
+83592
 
 |
 
-72941
+83592
 
 |
 
-373817
+395119
 
 |
 
@@ -5496,11 +5470,23 @@ FR000000000000250
 
 |
 
-SAICA PAPER FRANCE-Usine de Nogent sur Seine
+SAICA PAPER France Nogent sur Seine
 
 |
 
-SAICA PAPER FRANCE
+SAICA PAPER France
+
+|
+
+50222
+
+|
+
+50222
+
+|
+
+57836
 
 |
 
@@ -5512,19 +5498,7 @@ SAICA PAPER FRANCE
 
 |
 
-57836
-
-|
-
-57836
-
-|
-
-57836
-
-|
-
-273952
+258724
 
 |
 
@@ -5532,7 +5506,7 @@ FR000000000000251
 
 |
 
-Cogénération-Réseau TCM La Chapelle Saint-Luc/ Les Noës-Près-Troyes
+TCM - Cogénération de La Chapelle Saint-Luc/Les Noës-Près-Troyes
 
 |
 
@@ -5552,15 +5526,15 @@ Troyes Champagne Métropole
 
 |
 
-613
+224
 
 |
 
-596
+217
 
 |
 
-3459
+2691
 
 |
 
@@ -5604,11 +5578,11 @@ FR000000000000254
 
 |
 
-Tourres&Cie
+TourresCie
 
 |
 
-Tourres&Cie
+TourresCie
 
 |
 
@@ -5624,15 +5598,15 @@ Tourres&Cie
 
 |
 
-41167
+33311
 
 |
 
-41167
+33311
 
 |
 
-199708
+183996
 
 |
 
@@ -6392,11 +6366,11 @@ FR000000000000287
 
 |
 
-DA ALIZAY SAS
+VPK PAPER NORMANDIE
 
 |
 
-DA ALIZAY
+VPK PAPER NORMANDIE
 
 |
 
@@ -7162,15 +7136,15 @@ DALKIA
 
 |
 
-325
+-
 
 |
 
-325
+-
 
 |
 
-1625
+975
 
 |
 
@@ -7234,15 +7208,15 @@ Peugeot Citroën Sochaux SNC
 
 |
 
-10683
+6704
 
 |
 
-10683
+6704
 
 |
 
-55011
+47053
 
 |
 
@@ -7378,15 +7352,13 @@ PRODIA SNC
 
 |
 
-21076
+21567
 
 |
 
-21076
+21567 |
 
-|
-
-105494
+106476
 
 |
 
@@ -7486,15 +7458,15 @@ Smurfit Kappa Papier Recyclé France
 
 |
 
-54439
+53098
 
 |
 
-54439
+53098
 
 |
 
-272195
+269513
 
 |
 
@@ -7594,15 +7566,15 @@ SYLVAMO
 
 |
 
-74506
+64134
 
 |
 
-74506
+64134
 
 |
 
-372290
+351546
 
 |
 
@@ -7702,15 +7674,15 @@ société SDCL (Société de Distribution de Chaleur de Limoges)
 
 |
 
-1778
+1353
 
 |
 
-1728
+1315
 
 |
 
-9146
+8308
 
 |
 
@@ -7774,17 +7746,13 @@ BOUYER LEROUX
 
 |
 
-13813
+10918 |
+
+10918
 
 |
 
-13813
-
-|
-
-70453
-
-|
+64663 |
 
 FR000000000000347
 
@@ -7810,15 +7778,15 @@ KEM ONE
 
 |
 
-21869
+18350
 
 |
 
-21869
+18350
 
 |
 
-110188
+103150
 
 |
 
@@ -7918,15 +7886,13 @@ Verallia Lagnieu
 
 |
 
-65181
+65339
 
 |
 
-65181
+65339 |
 
-|
-
-325905
+326221
 
 |
 
@@ -7954,15 +7920,15 @@ WIENERBERGER SAS
 
 |
 
-17279
+13981
 
 |
 
-17279
+13981
 
 |
 
-81411
+74815
 
 |
 
@@ -8078,11 +8044,11 @@ FR000000000000357
 
 |
 
-Ciments Calcia Cruas
+Heidelberg Materials France Ciments-Usine de Cruas
 
 |
 
-Ciments Calcia
+Heidelberg Materials France Ciments
 
 |
 
@@ -8242,15 +8208,15 @@ GRTgaz Territoire Rhône Méditerranée
 
 |
 
-2332
+3983
 
 |
 
-2332
+3983
 
 |
 
-9920
+13222
 
 |
 
@@ -8350,15 +8316,13 @@ ENERGIE VERTE DE VALENCE
 
 |
 
-1087
+841
 
 |
 
-1057
+817 |
 
-|
-
-5882
+5396
 
 |
 
@@ -8458,15 +8422,15 @@ Compagnie de chauffage de Grenoble
 
 |
 
-8196
+7273
 
 |
 
-7968
+7071
 
 |
 
-46513
+44693
 
 |
 
@@ -8494,15 +8458,15 @@ ARKEMA France
 
 |
 
-30440
+32104
 
 |
 
-30440
+32104
 
 |
 
-158195
+161523
 
 |
 
@@ -8530,15 +8494,15 @@ Rhodia Opérations
 
 |
 
-37679
+29046
 
 |
 
-36630
+28237
 
 |
 
-200486
+183460
 
 |
 
@@ -8550,7 +8514,7 @@ AHLSTROM LA GERE
 
 |
 
-AHLSTROM LA GERE
+Ahlstrom La Gère
 
 |
 
@@ -8566,15 +8530,15 @@ AHLSTROM LA GERE
 
 |
 
-34912
+29306
 
 |
 
-34912
+29306
 
 |
 
-174560
+163348
 
 |
 
@@ -8618,15 +8582,11 @@ FR000000000000390
 
 |
 
-EUROFLOAT
+Eurofloat
 
 |
 
-EUROFLOAT
-
-|
-
-82774
+Eurofloat
 
 |
 
@@ -8634,7 +8594,7 @@ EUROFLOAT
 
 |
 
-82504
+82774
 
 |
 
@@ -8642,13 +8602,15 @@ EUROFLOAT
 
 |
 
-82504
+82236
 
 |
 
-413060
+82236
 
 |
+
+412524 |
 
 FR000000000000391
 
@@ -8710,15 +8672,15 @@ CCIAG
 
 |
 
-894
+1179
 
 |
 
-894
+1179
 
 |
 
-6121
+6691
 
 |
 
@@ -8802,7 +8764,7 @@ AUBERT ET DUVAL Usine de Firminy
 
 |
 
-Aubert & Duval Usine de Firminy
+Aubert Duval Usine de Firminy
 
 |
 
@@ -8818,27 +8780,25 @@ Aubert & Duval Usine de Firminy
 
 |
 
-1908
+2069
 
 |
 
-1908
+2069
 
 |
 
-9861
-
-|
+10183 |
 
 FR000000000000399
 
 |
 
-Industeel France Site de Châteauneuf
+Industeel France Site de Chateauneuf
 
 |
 
-Industeel France Site de Châteauneuf
+Industeel France Site de Chateauneuf
 
 |
 
@@ -8854,15 +8814,15 @@ Industeel France Site de Châteauneuf
 
 |
 
-25313
+25436
 
 |
 
-25313
+25436
 
 |
 
-122371
+122617
 
 |
 
@@ -8926,15 +8886,15 @@ Verallia Saint-Romain Le Puy
 
 |
 
-36804
+39836
 
 |
 
-36804
+39836
 
 |
 
-181916
+187980
 
 |
 
@@ -8998,15 +8958,15 @@ ELM OPERATIONS
 
 |
 
-433
+92
 
 |
 
-421
+90
 
 |
 
-3126
+2454
 
 |
 
@@ -9070,15 +9030,15 @@ RHODIA OPERATION - SOLVAY SILICA
 
 |
 
-70790
+54823
 
 |
 
-70790
+54823
 
 |
 
-350551
+318617
 
 |
 
@@ -9106,15 +9066,15 @@ Sanofi Pasteur
 
 |
 
-5326
+3794
 
 |
 
-5326
+3794
 
 |
 
-26630
+23566
 
 |
 
@@ -9142,17 +9102,13 @@ Arkema
 
 |
 
-12391
+8991 |
+
+8991
 
 |
 
-12391
-
-|
-
-71533
-
-|
+64733 |
 
 FR000000000000416
 
@@ -9214,15 +9170,13 @@ AIR LIQUIDE France INDUSTRIE
 
 |
 
-62999
+52766 |
+
+52766
 
 |
 
-62999
-
-|
-
-314995
+294529
 
 |
 
@@ -9230,15 +9184,11 @@ FR000000000000418
 
 |
 
-Spécialty Opérations France - Usine de Saint-Fons Spécialités
+Rhodia Opérations Usine de Saint Fons Spécialités
 
 |
 
-Spécialty Opérations France
-
-|
-
-58864
+SPECIALTY OPERATIONS France
 
 |
 
@@ -9254,13 +9204,15 @@ Spécialty Opérations France
 
 |
 
-58864
+44925
 
 |
 
-294320
+44925
 
 |
+
+266442 |
 
 FR000000000000419
 
@@ -9302,11 +9254,11 @@ FR000000000000422
 
 |
 
-Chaufferie urbaine de Vaux en Velin
+V3E - Chaufferie de Vaulx En Velin
 
 |
 
-Vaulx-en-Velin Villeurbanne Energies
+V3E
 
 |
 
@@ -9322,15 +9274,15 @@ Vaulx-en-Velin Villeurbanne Energies
 
 |
 
-4814
+3866
 
 |
 
-4680
+3759
 
 |
 
-24740
+22871
 
 |
 
@@ -9394,15 +9346,15 @@ VENISSIEUX ENERGIES
 
 |
 
-5588
+4654
 
 |
 
-5432
+4525
 
 |
 
-28716
+26875
 
 |
 
@@ -9446,15 +9398,11 @@ FR000000000000428
 
 |
 
-Chaufferie des Semailles à Rillieux-La-Pape
+Chaufferie des Semailles à Rillieux - La-Pape COFELY
 
 |
 
-PLATEAU NORD ENERGIE
-
-|
-
-500
+Plateau Nord Energie
 
 |
 
@@ -9462,7 +9410,7 @@ PLATEAU NORD ENERGIE
 
 |
 
-327
+500
 
 |
 
@@ -9470,11 +9418,15 @@ PLATEAU NORD ENERGIE
 
 |
 
-327
+128
 
 |
 
-1981
+128
+
+|
+
+1583
 
 |
 
@@ -9538,15 +9490,15 @@ ELM OPERATIONS
 
 |
 
-3963
+3021
 
 |
 
-3963
+3021
 
 |
 
-20978
+19094
 
 |
 
@@ -9554,15 +9506,11 @@ FR000000000000432
 
 |
 
-CHAUFFERIE DE LA DUCHERE
+ECLYDE - CHAUFFERIE URBAINE LA DUCHERE
 
 |
 
-ECLYDE
-
-|
-
-2813
+ECLYDE - CHAUFFERIE URBAINE LA DUCHERE
 
 |
 
@@ -9578,11 +9526,15 @@ ECLYDE
 
 |
 
-2813
+2338
 
 |
 
-14065
+2338
+
+|
+
+13115
 
 |
 
@@ -9630,7 +9582,7 @@ FYSOL SAS
 
 |
 
-FYSOL SAS
+FYSOL
 
 |
 
@@ -9646,15 +9598,15 @@ FYSOL SAS
 
 |
 
-29871
+31586
 
 |
 
-29871
+29298
 
 |
 
-152865
+154007
 
 |
 
@@ -9662,7 +9614,7 @@ FR000000000000435
 
 |
 
-SCDC Croix-Rouge Chambéry
+SCDC Croix-Rouge Chambéryf
 
 |
 
@@ -9718,15 +9670,15 @@ SCDC (Société Chambérienne de Distribution de chaleur)
 
 |
 
-4906
+3584
 
 |
 
-4769
+3483
 
 |
 
-25212
+22604
 
 |
 
@@ -9738,7 +9690,7 @@ ARKEMA Usine de La Chambre
 
 |
 
-ARKEMA France
+ARKEMA La Chambre
 
 |
 
@@ -9754,15 +9706,15 @@ ARKEMA France
 
 |
 
-24351
+17761
 
 |
 
-24351
+17761
 
 |
 
-135447
+122267
 
 |
 
@@ -9774,7 +9726,7 @@ La Rochette Cartonboard SAS
 
 |
 
-La Rochette Cartonboard SAS
+La Rochette Cartonboard
 
 |
 
@@ -9790,17 +9742,15 @@ La Rochette Cartonboard SAS
 
 |
 
-30712
+24769
 
 |
 
-30712
+24769
 
 |
 
-153395
-
-|
+141509 |
 
 FR000000000000439
 
@@ -9934,15 +9884,15 @@ DALKIA
 
 |
 
-777
+469
 
 |
 
-777
+469
 
 |
 
-4577
+3961
 
 |
 
@@ -10206,7 +10156,7 @@ NOVACOGE
 
 |
 
-NOVACOGE
+NOVACARB
 
 |
 
@@ -10274,11 +10224,11 @@ FR000000000000459
 
 |
 
-Glanzstoff Longlaville
+INDORAMA VENTURES MOBILITY LONGLAVILLE
 
 |
 
-Glanzstoff Longlaville
+INDORAMA VENTURES MOBILITY LONGLAVILLE SAS
 
 |
 
@@ -10418,13 +10368,11 @@ FR000000000000468
 
 |
 
-SOREV
+SEEV
 
 |
 
-Seev
-
-|
+SEEV |
 
 2414
 
@@ -10438,15 +10386,15 @@ Seev
 
 |
 
-2498
+2284
 
 |
 
-2428
+2221
 
 |
 
-12544
+12123
 
 |
 
@@ -10474,15 +10422,15 @@ Kimberly Clark SAS
 
 |
 
-22817
+17737
 
 |
 
-22817
+17737
 
 |
 
-124850
+114690
 
 |
 
@@ -10726,17 +10674,15 @@ ENGIE COFELY
 
 |
 
-575
+459
 
 |
 
-575
+459
 
 |
 
-2875
-
-|
+2643 |
 
 FR000000000000482
 
@@ -11050,17 +10996,15 @@ Ineos Polymers Sarralbe SAS
 
 |
 
-58008
+56529
 
 |
 
-58008
+57939
 
 |
 
-285231
-
-|
+283683 |
 
 FR000000000000494
 
@@ -11086,15 +11030,15 @@ DALKIA
 
 |
 
-723
+-
 
 |
 
-703
+-
 
 |
 
-3715
+2289
 
 |
 
@@ -11302,15 +11246,15 @@ EGGER Panneaux et Décors
 
 |
 
-36381
+36122
 
 |
 
-35368
+35117
 
 |
 
-179044
+178534
 
 |
 
@@ -11408,15 +11352,15 @@ ENGIE COFELY
 
 |
 
-1512
+1321
 
 |
 
-1470
+1284
 
 |
 
-7282
+6905
 
 |
 
@@ -11444,15 +11388,15 @@ GRTgaz Territoire Nord Est
 
 |
 
-12681
+19347
 
 |
 
-12681
+19347
 
 |
 
-65582
+78914
 
 |
 
@@ -11480,17 +11424,13 @@ SOLEVAL France
 
 |
 
-3788
+3595
 
 |
 
-3788
+3595 |
 
-|
-
-20130
-
-|
+19744 |
 
 FR000000000000517
 
@@ -11552,15 +11492,15 @@ Société des Fours à Chaux de Sorcy
 
 |
 
-200471
+156291
 
 |
 
-200471
+156291
 
 |
 
-981099
+892739
 
 |
 
@@ -11768,15 +11708,15 @@ MFPM Siège des Carmes
 
 |
 
-3593
+2549
 
 |
 
-3493
+2478
 
 |
 
-18465
+16406
 
 |
 
@@ -11804,15 +11744,15 @@ LTR Industries
 
 |
 
-7802
+9602
 
 |
 
-7802
+9602
 
 |
 
-37300
+40900
 
 |
 
@@ -11876,15 +11816,11 @@ Laiterie du Val d'Ancenis
 
 |
 
-12851
+10906 |
 
-|
+10906 |
 
-12851
-
-|
-
-64255
+60365
 
 |
 
@@ -11964,11 +11900,11 @@ FR000000000000538
 
 |
 
-AIRBUS ATLANTIC - établissement de Nantes
+Airbus Atlantic - établissement de Nantes
 
 |
 
-AIRBUS ATLANTIC
+Airbus Atlantic - établissement de Nantes
 
 |
 
@@ -11984,15 +11920,15 @@ AIRBUS ATLANTIC
 
 |
 
-2076
+1862
 
 |
 
-2076
+1862
 
 |
 
-11215
+10787
 
 |
 
@@ -12056,15 +11992,15 @@ SARVAL OUEST
 
 |
 
-6489
+-
 
 |
 
-6489
+-
 
 |
 
-33317
+20339
 
 |
 
@@ -12128,15 +12064,13 @@ ERENA
 
 |
 
-3627
+3348
 
 |
 
-3627
+3348 |
 
-|
-
-17567
+17009
 
 |
 
@@ -12180,11 +12114,11 @@ FR000000000000554
 
 |
 
-SECANIM CENTRE
+SecAnim Centre
 
 |
 
-SECANIM CENTRE
+SecAnim Centre
 
 |
 
@@ -12200,15 +12134,13 @@ SECANIM CENTRE
 
 |
 
-10597
+9317
 
 |
 
-10597
+9317 |
 
-|
-
-54710
+52150
 
 |
 
@@ -12504,13 +12436,11 @@ FR000000000000563
 
 |
 
-CLEA
+CHEZINE LOIRE ENERGIES D'AVENIR, EN ABREGE - CLEA
 
 |
 
-CLEA
-
-|
+CHEZINE LOIRE ENERGIES D'AVENIR, EN ABREGE - CLEA |
 
 1578
 
@@ -12524,15 +12454,15 @@ CLEA
 
 |
 
-1778
+1572
 
 |
 
-1728
+1528
 
 |
 
-8681
+8275
 
 |
 
@@ -12740,17 +12670,15 @@ BOUYER LEROUX
 
 |
 
-2374
+1946
 
 |
 
-2374
+1946
 
 |
 
-10642
-
-|
+9786 |
 
 FR000000000000581
 
@@ -12848,17 +12776,15 @@ PIGEON CHAUX SA
 
 |
 
-29864
+21112
 
 |
 
-29864
+21112
 
 |
 
-161982
-
-|
+144478 |
 
 FR000000000000584
 
@@ -12884,17 +12810,15 @@ ALTEO GARDANNE
 
 |
 
-108902
+55245
 
 |
 
-108902
+55245
 
 |
 
-648317
-
-|
+541003 |
 
 FR000000000000585
 
@@ -13044,11 +12968,11 @@ FR000000000000591
 
 |
 
-CPCU - VITRY
+COGE VITRY
 
 |
 
-COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
+COGE VITRY
 
 |
 
@@ -13064,17 +12988,13 @@ COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
 
 |
 
-36690
+31788 |
+
+30903
 
 |
 
-35668
-
-|
-
-183245
-
-|
+173578 |
 
 FR000000000000592
 
@@ -13100,15 +13020,13 @@ COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
 
 |
 
-25139
+21080
 
 |
 
-24439
+20493 |
 
-|
-
-119027
+111022
 
 |
 
@@ -13208,15 +13126,15 @@ VICAT
 
 |
 
-401927
+345161
 
 |
 
-401927
+345161
 
 |
 
-1896103
+1782571
 
 |
 
@@ -13460,15 +13378,15 @@ GRTgaz Territoire Rhône Méditerranée
 
 |
 
-937
+360
 
 |
 
-937
+360
 
 |
 
-7393
+6239
 
 |
 
@@ -13820,15 +13738,11 @@ ASCOMETAL FOS SUR MER SAS
 
 |
 
-38241
+28376 |
 
-|
+28376 |
 
-38241
-
-|
-
-175391
+155661
 
 |
 
@@ -14036,17 +13950,15 @@ Salon-de-Provence Energie Verte (SEV)
 
 |
 
-1519
+-
 
 |
 
-1476
+-
 
 |
 
-7805
-
-|
+4810 |
 
 FR000000000000636
 
@@ -14160,11 +14072,11 @@ FR000000000000639
 
 |
 
-LAFARGE CIMENTS-Usine de La Malle
+Lafarge Ciments - Usine de La Malle
 
 |
 
-LAFARGE CIMENTS
+Lafarge Ciments
 
 |
 
@@ -14180,15 +14092,15 @@ LAFARGE CIMENTS
 
 |
 
-302626
+249889
 
 |
 
-302626
+249889
 
 |
 
-1530024
+1424550
 
 |
 
@@ -14324,15 +14236,11 @@ GENNEVILLIERS ENERGIE
 
 |
 
-1589
+1202 |
 
-|
+1168 |
 
-1545
-
-|
-
-8356
+7592
 
 |
 
@@ -14340,7 +14248,7 @@ FR000000000000652
 
 |
 
-PCE - NORD
+PLAINE COMMUNE ENERGIE NORD
 
 |
 
@@ -14360,17 +14268,13 @@ Plaine Commune Energie (PCE)
 
 |
 
-6991
+6044
 
 |
 
-6991
+6044 |
 
-|
-
-38223
-
-|
+36329 |
 
 FR000000000000654
 
@@ -14432,17 +14336,15 @@ KERAGLASS
 
 |
 
-21925
+19075
 
 |
 
-21925
+19075
 
 |
 
-103740
-
-|
+98040 |
 
 FR000000000000657
 
@@ -14504,15 +14406,15 @@ CHELLES CHALEUR
 
 |
 
-2140
+1851
 
 |
 
-2140
+1851
 
 |
 
-10122
+9544
 
 |
 
@@ -14524,7 +14426,7 @@ Site Disneyland Resort Paris - Centrale d'Energie
 
 |
 
-EURO DISNEY ASSOCIES S.A.S.
+EURO DISNEY ASSOCIES S. A. S.
 
 |
 
@@ -14540,15 +14442,15 @@ EURO DISNEY ASSOCIES S.A.S.
 
 |
 
-1169
+1652
 
 |
 
-1169
+1652
 
 |
 
-6225
+7191
 
 |
 
@@ -14596,7 +14498,7 @@ RAFFINERIE DE GRANDPUITS
 
 |
 
-TotalEnergies Raffinage France
+TotalEnergies RAFFINAGE France - Raffinerie de Grandpuits
 
 |
 
@@ -14612,15 +14514,15 @@ TotalEnergies Raffinage France
 
 |
 
-2938
+102
 
 |
 
-2938
+102
 
 |
 
-380462
+374790
 
 |
 
@@ -14648,15 +14550,15 @@ GEOVAL
 
 |
 
-2888
+2450
 
 |
 
-2888
+2450
 
 |
 
-14002
+13126
 
 |
 
@@ -14684,15 +14586,15 @@ COMPAGNIE GEOTHERMIQUE DE CHAUFFAGE URBAIN (CGCU)
 
 |
 
-4154
+3553
 
 |
 
-4154
+3553
 
 |
 
-20360
+19158
 
 |
 
@@ -14720,17 +14622,15 @@ SC2M (Société de Chauffage de Melun Montaigu)
 
 |
 
-795
+329
 
 |
 
-795
+329
 
 |
 
-3975
-
-|
+3043 |
 
 FR000000000000671
 
@@ -14792,17 +14692,13 @@ SAM MONTEREAU SAS
 
 |
 
-71652
+49204
 
 |
 
-71652
+49204 |
 
-|
-
-327375
-
-|
+282479 |
 
 FR000000000000673
 
@@ -14828,17 +14724,13 @@ ERIVA
 
 |
 
-959
+810 |
+
+810
 
 |
 
-959
-
-|
-
-4795
-
-|
+4497 |
 
 FR000000000000674
 
@@ -14880,7 +14772,7 @@ FR000000000000675
 
 |
 
-SAS Lesaffre Frères
+LESAFFRE FRERES
 
 |
 
@@ -14900,15 +14792,15 @@ SAS Lesaffre Frères
 
 |
 
-17180
+14738
 
 |
 
-17180
+14738
 
 |
 
-78467
+73583
 
 |
 
@@ -14916,11 +14808,11 @@ FR000000000000680
 
 |
 
-Sucrerie et Distillerie de Souppes OUVRÉ Fils S.A.
+Sucrerie et Distillerie de Souppes OUVRÉ Fils S. A.
 
 |
 
-Sucrerie et Distillerie de SOUPPES OUVRÉ Fils S.A.
+Sucrerie et Distillerie de SOUPPES OUVRÉ Fils S. A.
 
 |
 
@@ -14936,17 +14828,15 @@ Sucrerie et Distillerie de SOUPPES OUVRÉ Fils S.A.
 
 |
 
-12112
+12222
 
 |
 
-12112
+12222
 
 |
 
-60408
-
-|
+60628 |
 
 FR000000000000684
 
@@ -14956,7 +14846,7 @@ ITON SEINE
 
 |
 
-ITON SEINE SAS
+Iton Seine
 
 |
 
@@ -14972,31 +14862,23 @@ ITON SEINE SAS
 
 |
 
-32870
+29316
 
 |
 
-32870
+29316 |
 
-|
-
-153761
-
-|
+146653 |
 
 FR000000000000685
 
 |
 
-Société CHRISTAL ECO CHALEUR
+OUEST O. M. ENERGIE
 
 |
 
-Société CHRISTAL ECO CHALEUR
-
-|
-
-62
+Ouest OM Energies (OOME)
 
 |
 
@@ -15012,13 +14894,15 @@ Société CHRISTAL ECO CHALEUR
 
 |
 
-62
+167
 
 |
 
-310
+167
 
 |
+
+520 |
 
 FR000000000000686
 
@@ -15080,15 +14964,15 @@ SNC Renault (Flins)
 
 |
 
-10128
+7069
 
 |
 
-10128
+7069
 
 |
 
-51877
+45759
 
 |
 
@@ -15188,17 +15072,13 @@ TERREAL
 
 |
 
-4722
+4079
 
 |
 
-4722
+4079 |
 
-|
-
-21944
-
-|
+20658 |
 
 FR000000000000693
 
@@ -15260,15 +15140,13 @@ ALPA, ACIERIES ET LAMINOIRS DE PARIS
 
 |
 
-38125
+36208 |
+
+36208
 
 |
 
-38125
-
-|
-
-188111
+184277
 
 |
 
@@ -15332,17 +15210,15 @@ VELIDIS
 
 |
 
-3565
+2020
 
 |
 
-3466
+1964
 
 |
 
-21620
-
-|
+18573 |
 
 FR000000000000700
 
@@ -15584,27 +15460,25 @@ Aéroports de Paris
 
 |
 
-1144
+1035
 
 |
 
-1144
+1035
 
 |
 
-5614
-
-|
+5396 |
 
 FR000000000000712
 
 |
 
-SAINT-MICHEL-SUR-ORGE
+Domaine du Bois des Roches
 
 |
 
-COFELY GDFSUEZ
+ENGIE Energie Services
 
 |
 
@@ -15620,15 +15494,15 @@ COFELY GDFSUEZ
 
 |
 
-1857
+1459
 
 |
 
-1805
+1418
 
 |
 
-9543
+8758
 
 |
 
@@ -15692,17 +15566,15 @@ SOCCRAM
 
 |
 
-1078
+993
 
 |
 
-1048
+966
 
 |
 
-5717
-
-|
+5550 |
 
 FR000000000000715
 
@@ -15800,15 +15672,15 @@ SEFIR
 
 |
 
-892
+733
 
 |
 
-867
+713
 
 |
 
-4585
+4272
 
 |
 
@@ -15836,17 +15708,15 @@ AEROPORTS DE PARIS
 
 |
 
-8161
+7540
 
 |
 
-8161
+7540
 
 |
 
-39563
-
-|
+38321 |
 
 FR000000000000725
 
@@ -15856,7 +15726,7 @@ CENERGY - Chaufferie des Bellevues
 
 |
 
-CERNERGY
+CenergY
 
 |
 
@@ -15872,17 +15742,13 @@ CERNERGY
 
 |
 
-4987
+6343
 
 |
 
-4987
+6343 |
 
-|
-
-25943
-
-|
+28655 |
 
 FR000000000000726
 
@@ -15960,7 +15826,7 @@ FR000000000000728
 
 |
 
-CPCU- VAUGIRARD
+COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN-VAUGIRARD
 
 |
 
@@ -15980,15 +15846,15 @@ COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
 
 |
 
-20001
+21600
 
 |
 
-20001
+21600
 
 |
 
-87802
+91000
 
 |
 
@@ -15996,7 +15862,7 @@ FR000000000000730
 
 |
 
-CPCU - GRENELLE
+COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN-CHAUFFERIE DE GRENELLE
 
 |
 
@@ -16016,15 +15882,15 @@ COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
 
 |
 
-8037
+6512
 
 |
 
-8037
+6512
 
 |
 
-38784
+35734
 
 |
 
@@ -16032,7 +15898,7 @@ FR000000000000733
 
 |
 
-IDEX La Défense - CENTRALE D'ALENCON
+IDEX LA DEFENSE-CENTRALE D'ALENCON à COURBEVOIE
 
 |
 
@@ -16052,15 +15918,15 @@ IDEX La Défense
 
 |
 
-10361
+8678
 
 |
 
-10361
+8678
 
 |
 
-51805
+48439
 
 |
 
@@ -16212,7 +16078,7 @@ FR000000000000745
 
 |
 
-DALKIA - Chaufferie SEM
+Chaufferie urbaine DALKIA-Chaufferie SEM
 
 |
 
@@ -16232,15 +16098,15 @@ DALKIA
 
 |
 
-506
+390
 
 |
 
-492
+379
 
 |
 
-2600
+2371
 
 |
 
@@ -16304,15 +16170,13 @@ DALKIA France
 
 |
 
-1996
+1637 |
+
+1592
 
 |
 
-1940
-
-|
-
-10258
+9551
 
 |
 
@@ -16482,15 +16346,13 @@ GEOPICTA
 
 |
 
-2634
+2144
 
 |
 
-2634
+2144 |
 
-|
-
-12680
+11700
 
 |
 
@@ -16518,15 +16380,15 @@ Plaine Commune Energie (PCE)
 
 |
 
-1782
+1146
 
 |
 
-1782
+1146
 
 |
 
-6850
+5578
 
 |
 
@@ -16554,15 +16416,13 @@ COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
 
 |
 
-59578
+53835 |
+
+53835
 
 |
 
-59578
-
-|
-
-316608
+305122
 
 |
 
@@ -16610,7 +16470,7 @@ Chaufferie urbaine de SEVRAN
 
 |
 
-SEVEO GIE
+SEVEO
 
 |
 
@@ -16626,15 +16486,15 @@ SEVEO GIE
 
 |
 
-3607
+2940
 
 |
 
-3507
+2858
 
 |
 
-18539
+17223
 
 |
 
@@ -16642,7 +16502,7 @@ FR000000000000760
 
 |
 
-DALKIA - SCUC Chaufferie du Palais
+Chaufferie urbaine DALKIA-SCUC Chaufferie Le Palais
 
 |
 
@@ -16662,15 +16522,15 @@ SCUC (Société de Chauffage Urbain de Créteil)
 
 |
 
-176
+285
 
 |
 
-176
+285
 
 |
 
-1013
+1231
 
 |
 
@@ -16934,7 +16794,7 @@ Sanofi chimie Vitry
 
 |
 
-SANOFI WINTHROP INDUSTRIE
+SANOFI CHIMIE
 
 |
 
@@ -16946,19 +16806,19 @@ SANOFI WINTHROP INDUSTRIE
 
 |
 
-7033
+6907
 
 |
 
-7033
+6247
 
 |
 
-7033
+6247
 
 |
 
-34444
+32746
 
 |
 
@@ -16986,15 +16846,15 @@ ARGEVAL
 
 |
 
-1169
+987
 
 |
 
-1169
+987
 
 |
 
-4814
+4450
 
 |
 
@@ -17094,15 +16954,13 @@ TEREGA
 
 |
 
-1366
+1631 |
+
+1631
 
 |
 
-1366
-
-|
-
-7095
+7625
 
 |
 
@@ -17202,15 +17060,15 @@ TERREAL
 
 |
 
-13457
+12872
 
 |
 
-13457
+12872
 
 |
 
-67285
+66115
 
 |
 
@@ -17274,15 +17132,15 @@ TERREAL
 
 |
 
-12726
+10454
 
 |
 
-12726
+10454
 
 |
 
-60860
+56316
 
 |
 
@@ -17290,11 +17148,11 @@ FR000000000000793
 
 |
 
-CIMENTS CALCIA - Usine de Beaucaire
+Heidelberg Materials France Ciments-Usine de Beaucaire
 
 |
 
-Ciments Calcia Usine de Beaucaire
+Heidelberg Materials France Ciments
 
 |
 
@@ -17346,15 +17204,15 @@ CEA Centre de Marcoule
 
 |
 
-2655
+2189
 
 |
 
-2655
+2189
 
 |
 
-12690
+11758
 
 |
 
@@ -17418,15 +17276,15 @@ NIMERGIE
 
 |
 
-1482
+1319
 
 |
 
-1440
+1282
 
 |
 
-7946
+7625
 
 |
 
@@ -17614,11 +17472,11 @@ FR000000000000808
 
 |
 
-STRASBOURG CENTRE ENERGIES Esplanade
+Chaufferie Esplanade
 
 |
 
-STRASBOURG CENTRE ENERGIES
+Strasbourg Centre Energies
 
 |
 
@@ -17634,15 +17492,13 @@ STRASBOURG CENTRE ENERGIES
 
 |
 
-768
+969
 
 |
 
-768
+969 |
 
-|
-
-3427
+3829
 
 |
 
@@ -17670,15 +17526,15 @@ Société Colmarienne de Chauffage Urbain
 
 |
 
-3536
+2526
 
 |
 
-3536
+2526
 
 |
 
-17680
+15660
 
 |
 
@@ -17778,17 +17634,15 @@ DOW France SAS Lauterbourg
 
 |
 
-10379
+7872
 
 |
 
-10379
+7872
 
 |
 
-51926
-
-|
+46912 |
 
 FR000000000000815
 
@@ -17814,13 +17668,13 @@ CENPA SAS
 
 |
 
-9242 |
+5459 |
 
-9242
+5459
 
 |
 
-37857
+30291
 
 |
 
@@ -17884,15 +17738,15 @@ PEUGEOT CITROEN MULHOUSE SNC
 
 |
 
-9093
+9312
 
 |
 
-9093
+9312
 
 |
 
-45678
+46116
 
 |
 
@@ -17920,15 +17774,15 @@ PAPETERIES DU RHIN
 
 |
 
-10217
+11350
 
 |
 
-10217
+11350
 
 |
 
-51085
+53351
 
 |
 
@@ -18026,15 +17880,15 @@ ARLANXEO Emulsion Rubber SAS France
 
 |
 
-30519
+24132
 
 |
 
-30519
+24132
 
 |
 
-147387 |
+134613 |
 
 FR000000000000827
 
@@ -18168,15 +18022,15 @@ WIENERBERGER SAS
 
 |
 
-13475
+12544
 
 |
 
-13475
+12544
 
 |
 
-72487
+70625
 
 |
 
@@ -18276,15 +18130,15 @@ WIENERBERGER SAS
 
 |
 
-17401
+15804
 
 |
 
-17401
+15804
 
 |
 
-88745
+85551
 
 |
 
@@ -18292,9 +18146,9 @@ FR000000000000836
 
 |
 
-ESSITY OPERATIONS France-site de Kunheim |
+ESSITY PLD FRANCE-Site de Kunheim |
 
-ESSITY OPERATIONS Le Theil
+ESSITY PLD FRANCE
 
 |
 
@@ -18326,11 +18180,11 @@ FR000000000000837
 
 |
 
-Tereos Starch & Sweeteners Europe
+Tereos Starch Sweeteners Europe
 
 |
 
-Tereos Starch & Sweeteners Europe
+Tereos Starch Sweeteners Europe
 
 |
 
@@ -18342,19 +18196,17 @@ Tereos Starch & Sweeteners Europe
 
 |
 
-108371
+107054
 
 |
 
-108371
+105886
 
 |
 
-108371
+105886 |
 
-|
-
-541421
+535134
 
 |
 
@@ -18454,15 +18306,15 @@ CRISTAL UNION
 
 |
 
-15391
+15625
 
 |
 
-15391
+15625
 
 |
 
-78399
+78867
 
 |
 
@@ -18722,11 +18574,11 @@ FR000000000000855
 
 |
 
-STRASBOURG CENTRE ENERGIES Meinau
+Chaufferie Meinau
 
 |
 
-STRASBOURG CENTRE ENERGIES
+Strasbourg Centre Energies
 
 |
 
@@ -18742,15 +18594,15 @@ STRASBOURG CENTRE ENERGIES
 
 |
 
-4110
+2855
 
 |
 
-4110
+2855
 
 |
 
-21373
+18863
 
 |
 
@@ -18814,15 +18666,13 @@ EDILIANS
 
 |
 
-2924
+2297
 
 |
 
-2924
+2297 |
 
-|
-
-13366
+12112
 
 |
 
@@ -18922,15 +18772,15 @@ GELATINES WEISHARDT
 
 |
 
-7012
+-
 
 |
 
-7012
+-
 
 |
 
-35060
+21036
 
 |
 
@@ -19138,15 +18988,15 @@ ARKEMA France
 
 |
 
-32156
+28056
 
 |
 
-32156
+28056
 
 |
 
-173262
+165062
 
 |
 
@@ -19174,15 +19024,15 @@ FIBRE EXCELLENCE SAINT-GAUDENS SAS
 
 |
 
-203077
+169512
 
 |
 
-203077
+169512
 
 |
 
-987362
+920232
 
 |
 
@@ -19246,15 +19096,15 @@ Lafarge Ciments
 
 |
 
-302241
+368787
 
 |
 
-302241
+368787
 
 |
 
-1464518
+1597610
 
 |
 
@@ -19318,15 +19168,15 @@ RANGUEIL ENERGIE SERVICES
 
 |
 
-2281
+1853
 
 |
 
-2217
+1801
 
 |
 
-11258
+10414
 
 |
 
@@ -19386,19 +19236,19 @@ TERREAL
 
 |
 
-28676
+28964
 
 |
 
-28676
+24309
 
 |
 
-28676
+24309
 
 |
 
-139410
+130964
 
 |
 
@@ -19462,15 +19312,15 @@ BASF Health and Care Products France SAS
 
 |
 
-17365
+13752
 
 |
 
-17365
+13752
 
 |
 
-87025
+79799
 
 |
 
@@ -19606,15 +19456,13 @@ WIENERBERGER SAS
 
 |
 
-1892
+2046 |
+
+2046
 
 |
 
-1892
-
-|
-
-10482
+10790
 
 |
 
@@ -19750,15 +19598,15 @@ CARTONNERIES de GONDARDENNES WARDRECQUES sa
 
 |
 
-24666
+19269
 
 |
 
-24666
+19269
 
 |
 
-147408
+136614
 
 |
 
@@ -19786,15 +19634,15 @@ R-ENERGIE
 
 |
 
-2481
+2077
 
 |
 
-2412
+2020
 
 |
 
-14279
+13483
 
 |
 
@@ -19822,15 +19670,15 @@ VYNOVA Mazingarbe SAS
 
 |
 
-15790
+13393
 
 |
 
-15790
+13393
 
 |
 
-78950
+74156
 
 |
 
@@ -20058,7 +19906,7 @@ ASCOMETAL USINE DES DUNES
 
 |
 
-ASCOMETAL
+ASCOMETAL France HOLDING
 
 |
 
@@ -20072,15 +19920,15 @@ ASCOMETAL
 
 |
 
-5391
+4484
 
 |
 
-5391
+4484
 
 |
 
-36002
+34188
 
 |
 
@@ -20092,7 +19940,7 @@ Usine Renault Douai-Georges BESSE
 
 |
 
-Renault Electricity
+Ampère Electricity
 
 |
 
@@ -20108,17 +19956,13 @@ Renault Electricity
 
 |
 
-4199
+3501 |
+
+3501
 
 |
 
-4199
-
-|
-
-24069
-
-|
+22673 |
 
 FR000000000000931
 
@@ -20216,17 +20060,15 @@ R-ENERGIE
 
 |
 
-684
+593
 
 |
 
-664
+576
 
 |
 
-4129
-
-|
+3950 |
 
 FR000000000000935
 
@@ -20252,15 +20094,15 @@ INGREDIA
 
 |
 
-21076
+20769
 
 |
 
-21076
+20769
 
 |
 
-105950
+105336
 
 |
 
@@ -20360,15 +20202,15 @@ NYRSTAR France
 
 |
 
-41210
+37183
 
 |
 
-41210
+37985
 
 |
 
-222197
+214945
 
 |
 
@@ -20432,15 +20274,13 @@ Laminés Marchands Européens
 
 |
 
-58159
+59022
 
 |
 
-58159
+59022 |
 
-|
-
-290795
+292521
 
 |
 
@@ -20540,15 +20380,15 @@ HEINEKEN ENTREPRISE
 
 |
 
-2277
+2155
 
 |
 
-2277
+2155
 
 |
 
-11385
+11141
 
 |
 
@@ -20576,15 +20416,15 @@ TEREOS France
 
 |
 
-84447
+79482
 
 |
 
-84447
+79482
 
 |
 
-422235
+412305
 
 |
 
@@ -20628,11 +20468,11 @@ FR000000000000955
 
 |
 
-Arcelormittal France - site de Mardyck
+ArcelorMittal France (ex ArcelorMittal Atlantique et Lorraine)-site de Mardyck
 
 |
 
-Arcelormittal France
+ArcelorMittal France (ex ArcelorMittal Atlantique et Lorraine)
 
 |
 
@@ -20648,13 +20488,13 @@ Arcelormittal France
 
 |
 
-54378 |
+45382 |
 
-54378
+45382
 
 |
 
-259906 |
+241914 |
 
 FR000000000000956
 
@@ -20696,11 +20536,11 @@ FR000000000000958
 
 |
 
-CHAUFFERIE DE LA ZUP BEAU MARAIS - CALAIS
+CHAUFFERIE CALAIS ENERGIE
 
 |
 
-CALAIS ENERGIE
+CALOREV
 
 |
 
@@ -20716,15 +20556,15 @@ CALAIS ENERGIE
 
 |
 
-2514
+2165
 
 |
 
-2444
+2105
 
 |
 
-12542
+11854
 
 |
 
@@ -20932,15 +20772,15 @@ VILLAE
 
 |
 
-647
+478
 
 |
 
-647
+478
 
 |
 
-2997
+2659
 
 |
 
@@ -21040,17 +20880,15 @@ CARGILL Haubourdin
 
 |
 
-30413
+22965
 
 |
 
-30413
+22965
 
 |
 
-179060
-
-|
+164164 |
 
 FR000000000000977
 
@@ -21112,17 +20950,15 @@ C&D Foods France
 
 |
 
-1499
+-
 
 |
 
-1499
+-
 
 |
 
-7495
-
-|
+4497 |
 
 FR000000000000979
 
@@ -21256,15 +21092,15 @@ EDILIANS
 
 |
 
-4248
+3550
 
 |
 
-4248
+3550
 
 |
 
-21240
+19844
 
 |
 
@@ -21292,15 +21128,15 @@ MONS ENERGIES
 
 |
 
-2011
+1398
 
 |
 
-1955
+1359
 
 |
 
-10335
+9126
 
 |
 
@@ -21328,17 +21164,13 @@ RESONOR
 
 |
 
-3998
+3030
 
 |
 
-3887
+2945 |
 
-|
-
-29068
-
-|
+27158 |
 
 FR000000000000986
 
@@ -21364,15 +21196,15 @@ RESONOR
 
 |
 
-286
+10
 
 |
 
-286
+10
 
 |
 
-2667
+2115
 
 |
 
@@ -21544,15 +21376,15 @@ ARTOIS ENERGIES
 
 |
 
-288
+127
 
 |
 
-280
+124
 
 |
 
-4157
+3840
 
 |
 
@@ -21652,17 +21484,15 @@ GRTgaz Territoire Nord Est
 
 |
 
-12081
+11586
 
 |
 
-12081
+11586
 
 |
 
-52082
-
-|
+51092 |
 
 FR000000000001004
 
@@ -21780,7 +21610,7 @@ Briqueteries de TEMPLEUVE
 
 |
 
-Gilles BERNARD
+Briqueteries du Nord
 
 |
 
@@ -21796,15 +21626,15 @@ Gilles BERNARD
 
 |
 
-3729
+3414
 
 |
 
-3729
+3414
 
 |
 
-17999
+17369
 
 |
 
@@ -21832,15 +21662,15 @@ ROQUETTE Frères SA
 
 |
 
-368002
+349278
 
 |
 
-368002
+349278
 
 |
 
-1840010
+1802562
 
 |
 
@@ -21964,27 +21794,25 @@ ALBIOMA BOIS-ROUGE
 
 |
 
-39370
+38679
 
 |
 
-31298
+37685 |
+
+36691
 
 |
 
-30472
+26606
 
 |
 
-29648
+25865
 
 |
 
-28822
-
-|
-
-159610
+165526
 
 |
 
@@ -22044,19 +21872,19 @@ BONILAIT PROTEINES
 
 |
 
-7330
+6632
 
 |
 
-7330
+-
 
 |
 
-7330
+-
 
 |
 
-36199
+20841
 
 |
 
@@ -22084,15 +21912,15 @@ TERREAL
 
 |
 
-26706
+25712
 
 |
 
-26706
+25712
 
 |
 
-132520
+130532
 
 |
 
@@ -22120,15 +21948,15 @@ RHODIA OPERATIONS
 
 |
 
-9470
+9275
 
 |
 
-9470
+9275
 
 |
 
-49421
+49031
 
 |
 
@@ -22136,7 +21964,7 @@ FR000000000001024
 
 |
 
-AHLSTROM SPECIALTIES Usine de SAINT SEVERIN
+AHLSTROM SPECIALTIES SAINT SEVERIN
 
 |
 
@@ -22156,15 +21984,15 @@ AHLSTROM MUNKSJO SPECIALTIES SAINT-SEVERIN
 
 |
 
-21375
+21015
 
 |
 
-21375
+21015
 
 |
 
-106300
+105580
 
 |
 
@@ -22208,11 +22036,11 @@ FR000000000001030
 
 |
 
-Ciments Calcia - Site d'Airvault
+Heidelberg Materials France Ciments-Usine d'Airvault
 
 |
 
-Ciments Calcia
+Heidelberg Materials France Ciments
 
 |
 
@@ -22300,15 +22128,15 @@ Verallia France
 
 |
 
-55674
+57149
 
 |
 
-55674
+57149
 
 |
 
-299667
+302617
 
 |
 
@@ -22336,15 +22164,15 @@ PAPETERIE SAINT-MICHEL GROUPE THIOLLET
 
 |
 
-12671
+10248
 
 |
 
-12671
+10248
 
 |
 
-69769
+64923
 
 |
 
@@ -22376,11 +22204,11 @@ ROUSSELOT ANGOULEME SAS
 
 |
 
-4342
+3549
 
 |
 
-22953
+22160
 
 |
 
@@ -22444,15 +22272,15 @@ Ciments Calcia
 
 |
 
-271268
+152806
 
 |
 
-271268
+152806
 
 |
 
-1519612
+1282688
 
 |
 
@@ -22480,17 +22308,15 @@ DALKIA
 
 |
 
-1867
+1767
 
 |
 
-1815
+1718
 
 |
 
-8739
-
-|
+8542 |
 
 FR000000000001040
 
@@ -22712,11 +22538,11 @@ FR000000000001061
 
 |
 
-Ciments Calcia Villiers-au-Bouin
+Heidelberg Materials France Ciments-Usine de Villiers-au-Bouin
 
 |
 
-Ciments Calcia
+Heidelberg Materials France Ciments
 
 |
 
@@ -23216,11 +23042,11 @@ FR000000000001081
 
 |
 
-NEW DURALEX INTERNATIONAL
+DURALEX SCOP SA
 
 |
 
-NEW DURALEX INTERNATIONAL
+DURALEX SCOP SA
 
 |
 
@@ -23396,13 +23222,11 @@ FR000000000001091
 
 |
 
-Ciments Calcia Usine de Beffes
+Heidelberg Materials France Ciments-Usine de Beffes
 
 |
 
-Ciments Calcia
-
-|
+Heidelberg Materials France Ciments |
 
 270381
 
@@ -23632,15 +23456,15 @@ Albioma Le Moule
 
 |
 
-15773
+13083
 
 |
 
-15334
+12719
 
 |
 
-81061
+75756
 
 |
 
@@ -23848,15 +23672,15 @@ SARA
 
 |
 
-22338
+31293
 
 |
 
-22338
+31293
 
 |
 
-121993
+139903
 
 |
 
@@ -23868,7 +23692,7 @@ GRTgaz station de compression de Palleau
 
 |
 
-GRTgaz Région Rhône Méditerranée
+GRTgaz Territoire Rhône Méditerranée
 
 |
 
@@ -23884,23 +23708,21 @@ GRTgaz Région Rhône Méditerranée
 
 |
 
-511
+129
 
 |
 
-511
+129
 
 |
 
-2838
-
-|
+2074 |
 
 FR000000000001122
 
 |
 
-COGESTAR Papeterie Arjo Wiggins
+COGESTAR SITE AHLSTROM
 
 |
 
@@ -23936,7 +23758,7 @@ FR000000000001123
 
 |
 
-DALKIA - SCUC Chaufferie A CENTRE
+Chaufferie Urbaine DALKIA-SCUC Chaufferie A CENTRE
 
 |
 
@@ -23956,15 +23778,15 @@ SCUC (Société de Chauffage Urbain de Créteil)
 
 |
 
-1968
+1411
 
 |
 
-1968
+1411
 
 |
 
-11552
+10438
 
 |
 
@@ -24064,15 +23886,15 @@ ENORIS
 
 |
 
-1426
+1200
 
 |
 
-1426
+1200
 
 |
 
-7934
+7482
 
 |
 
@@ -24080,11 +23902,11 @@ FR000000000001130
 
 |
 
-MONIER LIMOUX MASSIA
+BMI PRODUCTION FRANCE-Usine de Limoux Massia
 
 |
 
-MONIER SAS
+BMI PRODUCTION FRANCE
 
 |
 
@@ -24100,15 +23922,15 @@ MONIER SAS
 
 |
 
-15208
+15099
 
 |
 
-15208
+15099
 
 |
 
-75931
+75713
 
 |
 
@@ -24172,15 +23994,15 @@ WEYLCHEM LAMOTTE SAS
 
 |
 
-99933
+78803
 
 |
 
-99933
+78803
 
 |
 
-557525
+515265
 
 |
 
@@ -24296,11 +24118,11 @@ FR000000000001136
 
 |
 
-D'AUCY LE FAOUËT
+D'Aucy France-Etablissement Le Faouët
 
 |
 
-D'AUCY LE FAOUËT
+D'Aucy France
 
 |
 
@@ -24424,15 +24246,15 @@ CABOT CARBONE
 
 |
 
-137623
+115730
 
 |
 
-137623
+115730
 
 |
 
-636447
+592661
 
 |
 
@@ -24440,11 +24262,11 @@ FR000000000001140
 
 |
 
-BMI PRODUCTION FRANCE-Usine de Limoux Massia
+SAINT-GOBAIN EUROCOUSTIC
 
 |
 
-BMI PRODUCTION FRANCE
+SAINT-GOBAIN EUROCOUSTIC
 
 |
 
@@ -25000,15 +24822,13 @@ TEREGA
 
 |
 
-454
+593 |
+
+593
 
 |
 
-454
-
-|
-
-3476
+3754
 
 |
 
@@ -25108,15 +24928,15 @@ AEROPORTS DE PARIS
 
 |
 
-2154
+1858
 
 |
 
-2154
+1858
 
 |
 
-10771
+10179
 
 |
 
@@ -25128,7 +24948,7 @@ BMI PRODUCTION France-Usine de Signy l'Abbaye
 
 |
 
-BMI PRODUCTION FRANCE
+BMI Production France
 
 |
 
@@ -25144,15 +24964,15 @@ BMI PRODUCTION FRANCE
 
 |
 
-7556
+7424
 
 |
 
-7556
+7424
 
 |
 
-35009
+34745
 
 |
 
@@ -25196,15 +25016,9 @@ FR000000000001163
 
 |
 
-KNAUF INSULATION
+KNAUF INSULATION LANNEMEZAN |
 
-|
-
-KNAUF INSULATION
-
-|
-
-22405
+KNAUF INSULATION LANNEMEZAN
 
 |
 
@@ -25220,11 +25034,15 @@ KNAUF INSULATION
 
 |
 
-22405
+25776
 
 |
 
-112025
+25776
+
+|
+
+118767
 
 |
 
@@ -25524,9 +25342,7 @@ CENERGY - Chaufferie des Linandes
 
 |
 
-CENERGY
-
-|
+CenergY |
 
 4989
 
@@ -25540,15 +25356,15 @@ CENERGY
 
 |
 
-4989
+2692
 
 |
 
-4989
+2692
 
 |
 
-26286
+21692
 
 |
 
@@ -25648,15 +25464,11 @@ DROME ENERGIE SERVICES
 
 |
 
-4761
+4579 |
 
-|
+4452 |
 
-4628
-
-|
-
-27505
+27147
 
 |
 
@@ -25828,15 +25640,15 @@ ADISSEO - Plateforme chimique de Roussillon
 
 |
 
-36980
+35729
 
 |
 
-36980
+35729
 
 |
 
-208713
+206211
 
 |
 
@@ -26044,15 +25856,13 @@ CANELIA ROUVROY POUDRE
 
 |
 
-10060
+9579
 
 |
 
-10060
+9579 |
 
-|
-
-49961
+48999
 
 |
 
@@ -26080,15 +25890,15 @@ SOCIETE LAITIERE DE PONTIVY
 
 |
 
-8456
+6492
 
 |
 
-8456
+6492
 
 |
 
-45683
+41755
 
 |
 
@@ -26116,15 +25926,15 @@ SOCIETE LAITIERE DE L'HERMITAGE
 
 |
 
-2785
+-
 
 |
 
-2785
+-
 
 |
 
-13515
+7945
 
 |
 
@@ -26332,15 +26142,15 @@ SOCIETE CELIA-LAITERIE DE CRAON
 
 |
 
-10127
+9618
 
 |
 
-10127
+9618
 
 |
 
-52486
+51468
 
 |
 
@@ -26440,15 +26250,13 @@ SOCIETE LAITIERE DE CLERMONT
 
 |
 
-937
+- |
+
+-
 
 |
 
-937
-
-|
-
-4685
+2811
 
 |
 
@@ -26568,7 +26376,7 @@ Atelier acide nitrique Grandpuits
 
 |
 
-LAT NITROGEN FRANCE
+Borealis Chimie SAS
 
 |
 
@@ -26584,15 +26392,15 @@ LAT NITROGEN FRANCE
 
 |
 
-44633
+18430
 
 |
 
-44633
+18430
 
 |
 
-266497
+214091
 
 |
 
@@ -26652,19 +26460,17 @@ Ferroglobe Manganese France
 
 |
 
-128391
+185114 |
+
+130028
 
 |
 
-128391
+130028
 
 |
 
-128391
-
-|
-
-646444
+706441
 
 |
 
@@ -26728,15 +26534,15 @@ Axens
 
 |
 
-4951
+-
 
 |
 
-4951
+-
 
 |
 
-25723
+15821
 
 |
 
@@ -26960,13 +26766,11 @@ FR000000000204783
 
 |
 
-POLYTECHNYL Belle-Etoile Polyamides Intermediates
+Polytechnyl Belle-Etoile Polyamides intermediates
 
 |
 
-POLYTECHNYL
-
-|
+Polytechnyl |
 
 36618
 
@@ -26980,15 +26784,15 @@ POLYTECHNYL
 
 |
 
-44675
+34452
 
 |
 
-44675
+34452
 
 |
 
-215318
+194872
 
 |
 
@@ -26996,11 +26800,11 @@ FR000000000204784
 
 |
 
-POLYTECHNYL Belle-Etoile Engineering Plastics
+Polytechnyl Belle-Etoile Engineering Plastics
 
 |
 
-POLYTECHNYL
+Polytechnyl
 
 |
 
@@ -27016,15 +26820,15 @@ POLYTECHNYL
 
 |
 
-8434
+6833
 
 |
 
-8434
+8405
 
 |
 
-38478
+36848
 
 |
 
@@ -27124,15 +26928,15 @@ ELKEM SILICONES SAS France
 
 |
 
-13725
+10944
 
 |
 
-13725
+10944
 
 |
 
-68782
+63220
 
 |
 
@@ -27144,7 +26948,7 @@ ELKEM SILICONES Site de Roussillon
 
 |
 
-ELKEM Silicones France
+ELKEM SILICONES SAS France
 
 |
 
@@ -27160,17 +26964,15 @@ ELKEM Silicones France
 
 |
 
-59527
+43376
 
 |
 
-59527
+43376
 
 |
 
-287574
-
-|
+255272 |
 
 FR000000000204944
 
@@ -27232,15 +27034,15 @@ KEM ONE
 
 |
 
-6865
+6259
 
 |
 
-6865
+6259
 
 |
 
-38135
+36923
 
 |
 
@@ -27268,15 +27070,15 @@ MONDELANGE INDUSTRIES
 
 |
 
-2485
+2230
 
 |
 
-2485
+2230
 
 |
 
-11630
+11120
 
 |
 
@@ -27484,15 +27286,15 @@ CAPDEA ASSENCIERES
 
 |
 
-4816
+2832
 
 |
 
-4816
+2832
 
 |
 
-27762
+23794
 
 |
 
@@ -27520,15 +27322,15 @@ CAPDEA
 
 |
 
-4533
+3143
 
 |
 
-4533
+3143
 
 |
 
-25217
+22437
 
 |
 
@@ -27556,15 +27358,15 @@ CAPDEA
 
 |
 
-9569
+12919
 
 |
 
-9569
+12919
 
 |
 
-42378
+49078
 
 |
 
@@ -27624,19 +27426,19 @@ COMILOG DUNKERQUE
 
 |
 
-91796
+71121
 
 |
 
-91796
+55404
 
 |
 
-91796
+55404
 
 |
 
-458980
+365521
 
 |
 
@@ -27664,15 +27466,15 @@ Novoceram SAS
 
 |
 
-13015
+14408
 
 |
 
-13015
+14408
 
 |
 
-65325
+68111
 
 |
 
@@ -27700,15 +27502,15 @@ TEREOS France
 
 |
 
-14471
+11630
 
 |
 
-14471
+11630
 
 |
 
-75517
+69835
 
 |
 
@@ -27752,15 +27554,11 @@ FR000000000205488
 
 |
 
-Renault Usine de Maubeuge
+Maubeuge Construction Automobile
 
 |
 
-Renault Electricity
-
-|
-
-5292
+MAUBEUGE CONSTRUCTION AUTOMOBILE
 
 |
 
@@ -27768,7 +27566,7 @@ Renault Electricity
 
 |
 
-3722
+5292
 
 |
 
@@ -27776,11 +27574,15 @@ Renault Electricity
 
 |
 
-3722
+2888
 
 |
 
-21750
+2888
+
+|
+
+20082
 
 |
 
@@ -27844,15 +27646,15 @@ TEREOS NUTRITION ANIMALE
 
 |
 
-5084
+3438
 
 |
 
-5084
+3438
 
 |
 
-26853
+23561
 
 |
 
@@ -27952,15 +27754,15 @@ TEREOS NUTRITION ANIMALE
 
 |
 
-6144
+5720
 
 |
 
-6144
+5720
 
 |
 
-35365
+34517
 
 |
 
@@ -28004,15 +27806,11 @@ FR000000000205574
 
 |
 
-ETEX Usine Auneuil
+Etex France Building Performance usine d'Auneuil
 
 |
 
-ETEX France BUILDING PERFORMANCE
-
-|
-
-8848
+Etex France Building Performance
 
 |
 
@@ -28028,11 +27826,13 @@ ETEX France BUILDING PERFORMANCE
 
 |
 
-8848
+9052 |
+
+9052
 
 |
 
-44240
+44648
 
 |
 
@@ -28040,11 +27840,11 @@ FR000000000205575
 
 |
 
-ETEX Usine St Loubes
+ETEX Usine Saint-Loubès
 
 |
 
-ETEX France BUILDING PERFORMANCE
+ETEX
 
 |
 
@@ -28060,15 +27860,15 @@ ETEX France BUILDING PERFORMANCE
 
 |
 
-6380
+6123
 
 |
 
-6380
+6123
 
 |
 
-30946
+30432
 
 |
 
@@ -28112,11 +27912,11 @@ FR000000000205579
 
 |
 
-ETEX Le Pin
+Etex France Building Performance usine de Le Pin
 
 |
 
-ETEX France BUILDING PERFORMANCE
+Etex France Building Performance
 
 |
 
@@ -28132,15 +27932,15 @@ ETEX France BUILDING PERFORMANCE
 
 |
 
-5659
+5500
 
 |
 
-5659
+5500
 
 |
 
-27442
+27124
 
 |
 
@@ -28148,7 +27948,7 @@ FR000000000205580
 
 |
 
-ETEX Ottmarsheim
+ETEX OTTMARSHEIM
 
 |
 
@@ -28168,15 +27968,15 @@ ETEX France BUILDING PERFORMANCE
 
 |
 
-4496
+4062
 
 |
 
-4496
+4062
 
 |
 
-22633
+21765
 
 |
 
@@ -28240,15 +28040,15 @@ UNION INVIVO
 
 |
 
-226
+82
 
 |
 
-226
+82
 
 |
 
-1528
+1240
 
 |
 
@@ -28256,9 +28056,7 @@ FR000000000205590
 
 |
 
-UNION INVIVO STOCKAGE OTTMARSHEIM
-
-|
+UNION INVIVO STOCKAGE OTTMARSHEIM |
 
 UNION INVIVO
 
@@ -28276,15 +28074,13 @@ UNION INVIVO
 
 |
 
-366
+257
 
 |
 
-366
+257 |
 
-|
-
-1830
+1612
 
 |
 
@@ -28348,15 +28144,15 @@ GIE CHARDONNEUSE
 
 |
 
-12739
+13021
 
 |
 
-12739
+13021
 
 |
 
-64060
+64624
 
 |
 
@@ -28384,15 +28180,11 @@ LUZEAL
 
 |
 
-9442
+11239 |
 
-|
+11239 |
 
-9442
-
-|
-
-45740
+49334
 
 |
 
@@ -28456,15 +28248,15 @@ LUZEAL
 
 |
 
-946
+1049
 
 |
 
-946
+1049
 
 |
 
-4585
+4791
 
 |
 
@@ -28492,15 +28284,15 @@ LUZEAL
 
 |
 
-5770
+4106
 
 |
 
-5770
+4106
 
 |
 
-29337
+26009
 
 |
 
@@ -28528,15 +28320,15 @@ APERAM STAINLESS France
 
 |
 
-32220
+25272
 
 |
 
-32220
+25272
 
 |
 
-166292
+152396
 
 |
 
@@ -28600,15 +28392,13 @@ TRIMET France
 
 |
 
-236063
+230603 |
+
+230603
 
 |
 
-236063
-
-|
-
-1180538
+1169618
 
 |
 
@@ -28620,7 +28410,7 @@ KRONOSPAN AUXERRE
 
 |
 
-KRONOSPAN SAS
+Kronospan-sas
 
 |
 
@@ -28628,23 +28418,21 @@ KRONOSPAN SAS
 
 |
 
-10646
+13869
 
 |
 
-10646
+10317
 
 |
 
-10646
+19469
 
 |
 
-10646
+19469 |
 
-|
-
-53230
+73770
 
 |
 
@@ -28712,11 +28500,11 @@ SNF
 
 |
 
-34513
+27632
 
 |
 
-172565
+165684
 
 |
 
@@ -28744,17 +28532,15 @@ Société coopérative agricole de déshydratation SUNDESHY
 
 |
 
-15121
+11831
 
 |
 
-15121
+11831
 
 |
 
-72473
-
-|
+65893 |
 
 FR000000000205689
 
@@ -28958,15 +28744,13 @@ Air Liquide Hydrogene
 
 |
 
-4861
+4715
 
 |
 
-4861
+4715 |
 
-|
-
-22410
+22118
 
 |
 
@@ -29316,17 +29100,15 @@ SA VICAT
 
 |
 
-20653
+17687
 
 |
 
-20653
+17687
 
 |
 
-100299
-
-|
+94367 |
 
 FR000000000205787
 
@@ -29532,15 +29314,15 @@ Aubert et Duval
 
 |
 
-1899
+2001
 
 |
 
-1899
+2001
 
 |
 
-10448
+10652
 
 |
 
@@ -29600,19 +29382,19 @@ COOPERL ARC ATLANTIQUE
 
 |
 
-1681
+1939
 
 |
 
-1681
+1569
 
 |
 
-1681
+1671
 
 |
 
-8493
+8629
 
 |
 
@@ -29640,15 +29422,13 @@ COOPERL ARC ATLANTIQUE
 
 |
 
-742
+606
 
 |
 
-742
+606 |
 
-|
-
-3518
+3246
 
 |
 
@@ -29692,7 +29472,7 @@ FR000000000205876
 
 |
 
-MAISADOUR HAUT-MAUCO
+MAISADOUR Haut-Mauco
 
 |
 
@@ -29712,17 +29492,13 @@ MAISADOUR - HAUT MAUCO
 
 |
 
-1203
+828 |
+
+828
 
 |
 
-1203
-
-|
-
-6216
-
-|
+5466 |
 
 FR000000000205877
 
@@ -29748,15 +29524,11 @@ Maisadour - Begaar
 
 |
 
-710
+535 |
 
-|
+535 |
 
-710
-
-|
-
-4066
+3716
 
 |
 
@@ -29836,11 +29608,11 @@ FR000000000205891
 
 |
 
-Site de Strasbourg
+SITE STRASBOURG
 
 |
 
-ARMBRUSTER FRERES SAS
+ARMBRUSTER GRANDES CULTURES SAS
 
 |
 
@@ -29856,27 +29628,23 @@ ARMBRUSTER FRERES SAS
 
 |
 
-641
+168
 
 |
 
-641
+168 |
 
-|
-
-3270
-
-|
+2324 |
 
 FR000000000205893
 
 |
 
-Site OTTMARSHEIM
+SITE OTTMARSHEIM
 
 |
 
-ARMBRUSTER FRERES SAS
+ARMBRUSTER GRANDES CULTURES SAS
 
 |
 
@@ -29892,15 +29660,13 @@ ARMBRUSTER FRERES SAS
 
 |
 
-796
+310
 
 |
 
-796
+310 |
 
-|
-
-4010
+3038
 
 |
 
@@ -30000,15 +29766,15 @@ LIMAGRAIN. S.C.A
 
 |
 
-431
+163
 
 |
 
-431
+163
 
 |
 
-2002
+1466
 
 |
 
@@ -30072,15 +29838,15 @@ NOVAPEX S.A.S. (SEQENS SPS)
 
 |
 
-103971
+86585
 
 |
 
-103971
+86585
 
 |
 
-514566
+479794
 
 |
 
@@ -30108,17 +29874,15 @@ VALTI
 
 |
 
-7533
+5660
 
 |
 
-7533
+5660
 
 |
 
-34294
-
-|
+30548 |
 
 FR000000000205947
 
@@ -30214,15 +29978,15 @@ VALLOUREC TUBES FRANCE - Tuberie d'Aulnoye
 
 |
 
-9722
+9021
 
 |
 
-9722
+9021
 
 |
 
-52352 |
+50950 |
 
 FR000000000205960
 
@@ -30316,19 +30080,19 @@ SOLEVAL France
 
 |
 
-2703
+2705
 
 |
 
-2703
+2568
 
 |
 
-2703
+2568
 
 |
 
-15674
+15406
 
 |
 
@@ -30356,17 +30120,15 @@ PLACOPLATRE
 
 |
 
-8942
+9245
 
 |
 
-8942
+9245
 
 |
 
-44014
-
-|
+44620 |
 
 FR000000000206025
 
@@ -30392,15 +30154,13 @@ PLACOPLATRE
 
 |
 
-6914
+6794
 
 |
 
-6914
+6794 |
 
-|
-
-35023
+34783
 
 |
 
@@ -30428,15 +30188,15 @@ PLACOPLATRE
 
 |
 
-6209
+5402
 
 |
 
-6209
+5402
 
 |
 
-30124
+28510
 
 |
 
@@ -30464,15 +30224,15 @@ PLACOPLATRE
 
 |
 
-30205
+30490
 
 |
 
-30205
+30490
 
 |
 
-151025
+151595
 
 |
 
@@ -30588,7 +30348,7 @@ FR000000000206033
 
 |
 
-Société Européenne de Véhicule Legers du Nord
+Société Européenne de Véhicules Légers du Nord
 
 |
 
@@ -30608,15 +30368,15 @@ SEVELNORD
 
 |
 
-4911
+3883
 
 |
 
-4911
+3883
 
 |
 
-24555
+22499
 
 |
 
@@ -30644,15 +30404,13 @@ Peugeot Citroën Mécanique de l'Est
 
 |
 
-22720
+21513
 
 |
 
-22720
+21513 |
 
-|
-
-107982
+105568
 
 |
 
@@ -30788,15 +30546,13 @@ ArcelorMittal Gandrange
 
 |
 
-19910
+16853 |
+
+16853
 
 |
 
-19910
-
-|
-
-88823
+82709
 
 |
 
@@ -30948,11 +30704,11 @@ FR000000000206150
 
 |
 
-Sanofi Aramon
+Sanofi Winthrop Industrie ARAMON
 
 |
 
-SANOFI CHIMIE
+Sanofi Winthrop Industrie
 
 |
 
@@ -30968,17 +30724,13 @@ SANOFI CHIMIE
 
 |
 
-2732
+3087
 
 |
 
-2732
+3087 |
 
-|
-
-14431
-
-|
+15141 |
 
 FR000000000206151
 
@@ -31020,11 +30772,11 @@ FR000000000206159
 
 |
 
-Saint-Gobain PAM BÂTIMENT - Usine de Bayard
+Saint-Gobain PAM - Usine de Bayard
 
 |
 
-SAINT GOBAIN PAM BÂTIMENT
+SAINT GOBAIN PAM - Usine de Bayard
 
 |
 
@@ -31040,15 +30792,11 @@ SAINT GOBAIN PAM BÂTIMENT
 
 |
 
-13596
+10694 |
 
-|
+10694 |
 
-13596
-
-|
-
-65870
+60066
 
 |
 
@@ -31220,17 +30968,15 @@ UCLAB Industrie
 
 |
 
-6782
+6898
 
 |
 
-6782
+6898
 
 |
 
-33545
-
-|
+33777 |
 
 FR000000000206194
 
@@ -31364,15 +31110,15 @@ société d'intérêt collectif agricole
 
 |
 
-4654
+4391
 
 |
 
-4654
+4391
 
 |
 
-23274
+22748
 
 |
 
@@ -31760,15 +31506,13 @@ COOPERATIVE AGRICOLE DE CEREALES
 
 |
 
-1081
+453
 
 |
 
-1081
+453 |
 
-|
-
-5857
+4601
 
 |
 
@@ -31868,15 +31612,15 @@ LEROUX
 
 |
 
-2423
+1826
 
 |
 
-2423
+1826
 
 |
 
-10921
+9727
 
 |
 
@@ -32156,17 +31900,13 @@ CHEMINEES PHILIPPE
 
 |
 
-411
+516 |
+
+516
 
 |
 
-411
-
-|
-
-3166
-
-|
+3376 |
 
 FR000000000206363
 
@@ -32408,15 +32148,15 @@ SOCIETE COOPERATIVE AGRICOLE ET VITICOLE BOURGOGNE DU SUD
 
 |
 
-173
+59
 
 |
 
-173
+59
 
 |
 
-865
+637
 
 |
 
@@ -32444,15 +32184,13 @@ COOPERATIVE BOURGOGNE DU SUD
 
 |
 
-271
+61 |
+
+61
 
 |
 
-271
-
-|
-
-1243
+823
 
 |
 
@@ -32480,17 +32218,15 @@ COOPERATIVE BOURGOGNE DU SUD
 
 |
 
-285
+141
 
 |
 
-285
+141
 
 |
 
-1425
-
-|
+1137 |
 
 FR000000000206406
 
@@ -32516,15 +32252,13 @@ COMPTOIR AGRICOLE
 
 |
 
-628
+154 |
+
+154
 
 |
 
-628
-
-|
-
-2932
+1984
 
 |
 
@@ -32588,15 +32322,15 @@ COMPTOIR AGRICOLE
 
 |
 
-235
+101
 
 |
 
-235
+101
 
 |
 
-1175
+907
 
 |
 
@@ -32624,17 +32358,13 @@ COMPTOIR AGRICOLE
 
 |
 
-722
+293
 
 |
 
-722
+293 |
 
-|
-
-3370
-
-|
+2512 |
 
 FR000000000206411
 
@@ -32660,15 +32390,15 @@ COMPTOIR AGRICOLE
 
 |
 
-936
+312
 
 |
 
-936
+312
 
 |
 
-4210
+2962
 
 |
 
@@ -32840,15 +32570,15 @@ CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE
 
 |
 
-917
+735
 
 |
 
-917
+735
 
 |
 
-4585
+4221
 
 |
 
@@ -32876,15 +32606,13 @@ Safran Aircraft Engines
 
 |
 
-2462
+2325
 
 |
 
-2462
+2325 |
 
-|
-
-12622
+12348
 
 |
 
@@ -33020,15 +32748,15 @@ GUSTAVE MULLER SAS
 
 |
 
-301
+139
 
 |
 
-301
+139
 
 |
 
-1617
+1293
 
 |
 
@@ -33056,15 +32784,15 @@ GUSTAVE MULLER SAS
 
 |
 
-664
+362
 
 |
 
-664
+362
 
 |
 
-3443
+2839
 
 |
 
@@ -33108,15 +32836,11 @@ FR000000000206703
 
 |
 
-TRONOX FRANCE SAS
+Tronox France SAS
 
 |
 
-TRONOX FRANCE SAS
-
-|
-
-28100
+TRONOX France SAS
 
 |
 
@@ -33132,11 +32856,15 @@ TRONOX FRANCE SAS
 
 |
 
-28100
+26979
 
 |
 
-140500
+26979
+
+|
+
+138258
 
 |
 
@@ -33216,7 +32944,7 @@ FR000000000206804
 
 |
 
-Thermal Ceramics de France ; site de Saint Marcellin en Forez
+Thermal Ceramics de France site de Saint Marcellin en Forez
 
 |
 
@@ -33236,15 +32964,15 @@ Thermal Ceramics de France
 
 |
 
-982
+811
 
 |
 
-982
+811
 
 |
 
-4526
+4184
 
 |
 
@@ -33432,7 +33160,7 @@ FR000000000207223
 
 |
 
-DESVRES SURFACES-Maubeuge
+DESVRES SURFACES
 
 |
 
@@ -33452,15 +33180,15 @@ DESVRES SURFACES
 
 |
 
-10185
+11946
 
 |
 
-10185
+11946
 
 |
 
-61711
+65233
 
 |
 
@@ -33524,17 +33252,13 @@ ENERGIE CLERMONT AVENIR (ECLA)
 
 |
 
-2561
+3085
 
 |
 
-2561
+3085 |
 
-|
-
-12115
-
-|
+13163 |
 
 FR000000000207462
 
@@ -33596,15 +33320,15 @@ DALKIA
 
 |
 
-1012
+653
 
 |
 
-1012
+653
 
 |
 
-5060
+4342
 
 |
 
@@ -33704,17 +33428,11 @@ PORT NEUF MIREUIL ENERGIES
 
 |
 
-281
+134 |
 
-|
+134 |
 
-281
-
-|
-
-1258
-
-|
+964 |
 
 FR000000000207685
 
@@ -33992,17 +33710,13 @@ GUSTAVE MULLER SAS
 
 |
 
-204
+84
 
 |
 
-204
+84 |
 
-|
-
-1020
-
-|
+780 |
 
 FR000000000209262
 
@@ -34016,27 +33730,27 @@ MP Hygiène
 
 |
 
-7204
+7206
 
 |
 
-7204
+7206
 
 |
 
-7204
+7329
 
 |
 
-7204
+7329
 
 |
 
-7204
+7329
 
 |
 
-36020
+36399
 
 |
 
@@ -34224,11 +33938,11 @@ FR000000000209503
 
 |
 
-SIORAT GTX NGE CENTRALE D ENROBAGE TEMPORAIRE ASTEC 11-110
+CENTRALE D'ENROBAGE TEMPORAIRE ASTEC 11-110
 
 |
 
-SIORAT
+NGE ROUTES
 
 |
 
@@ -34280,15 +33994,15 @@ Annecy Biochaleur
 
 |
 
-2378
+2020
 
 |
 
-2378
+2020
 
 |
 
-11890
+11174
 
 |
 
@@ -34964,15 +34678,15 @@ GRTgaz Territoire Val de Seine
 
 |
 
-3734
+4325
 
 |
 
-3734
+4325
 
 |
 
-15348
+16530
 
 |
 
@@ -35232,11 +34946,11 @@ FR000000000210395
 
 |
 
-Cellulose de la Loire
+CDL SAS
 
 |
 
-Cellulose de la Loire
+CDL SAS
 
 |
 
@@ -35252,17 +34966,15 @@ Cellulose de la Loire
 
 |
 
-17948
+17717
 
 |
 
-17948
+17717
 
 |
 
-89509
-
-|
+89047 |
 
 FR000000000210434
 
@@ -35376,7 +35088,7 @@ FR000000000210608
 
 |
 
-NUTRI'BABIG - Usine de Carhaix
+NUTRIBABIG
 
 |
 
@@ -35396,15 +35108,15 @@ NUTRI'BABIG
 
 |
 
-8516
+9452
 
 |
 
-8516
+9452
 
 |
 
-41286
+43158
 
 |
 
@@ -35432,15 +35144,11 @@ TEREGA
 
 |
 
-236
+100 |
 
-|
+100 |
 
-236
-
-|
-
-1068
+796
 
 |
 
@@ -35468,17 +35176,15 @@ AJINOMOTO FOODS EUROPE
 
 |
 
-463
+576
 
 |
 
-463
+576
 
 |
 
-2315
-
-|
+2541 |
 
 FR000000000210721
 
@@ -35628,7 +35334,7 @@ FR000000000210797
 
 |
 
-ESTIA - Chaufferie de la Haye
+ESTIA-Chaufferie du Plateau de Haye
 
 |
 
@@ -35648,15 +35354,15 @@ ESTIA réseaux de chaleur
 
 |
 
-1351
+1099
 
 |
 
-1314
+1069
 
 |
 
-6944
+6447
 
 |
 
@@ -36296,15 +36002,15 @@ ELM Opérations
 
 |
 
-4083
+5194
 
 |
 
-4083
+5194
 
 |
 
-19295
+21517
 
 |
 
@@ -36348,7 +36054,7 @@ FR000000000214620
 
 |
 
-CAC ENSISHEIM
+SECHOIRS CAC ENSISHEIM
 
 |
 
@@ -36368,27 +36074,25 @@ COOPERATIVE AGRICOLE DE CEREALES
 
 |
 
-142
+38
 
 |
 
-142
+38
 
 |
 
-710
-
-|
+502 |
 
 FR000000000214700
 
 |
 
-Chaufferie Énergie Verte de Valence site de Laforêt/ Briffaut
+ENERGIE VERTE DE VALENCE-Chaufferie La Forêt
 
 |
 
-Chaufferie Energie verte de Valence
+ENERGIE VERTE DE VALENCE
 
 |
 
@@ -36404,15 +36108,15 @@ Chaufferie Energie verte de Valence
 
 |
 
-2165
+1824
 
 |
 
-2114
+1781
 
 |
 
-11080
+10406
 
 |
 
@@ -36496,7 +36200,7 @@ NOVAWOOD
 
 |
 
-ENGIE Energie Services SA
+NOVAWOOD
 
 |
 
@@ -37392,11 +37096,11 @@ FR000000000215801
 
 |
 
-ALH2 - DONGES SMR
+ALFI-DONGES SMR
 
 |
 
-Air Liquide Hydrogene
+Air Liquide France Industrie
 
 |
 
@@ -38004,27 +37708,11 @@ FR000000000218080
 
 |
 
-RUEIL-ENERGIE
+RUEIL ENERGIE
 
 |
 
-RUEIL-ENERGIE
-
-|
-
-0
-
-|
-
-163
-
-|
-
-0
-
-|
-
-0
+Rueil Energie
 
 |
 
@@ -38033,6 +37721,22 @@ RUEIL-ENERGIE
 |
 
 163
+
+|
+
+1121
+
+|
+
+1096
+
+|
+
+1070
+
+|
+
+3450
 
 |
 
@@ -38270,21 +37974,19 @@ CLERVIA
 
 |
 
-0
+1425
 
 |
 
-0
+1393
 
 |
 
-0
+1360
 
 |
 
-1853
-
-|
+6031 |
 
 FR000000000218941
 
@@ -38700,7 +38402,7 @@ EQUINIX HYPERSCALE 2 (PA 12) |
 
 / |
 
-FR-new-100002939 |
+FR000000000222741 |
 
 Unité SMR |
 
@@ -38812,7 +38514,7 @@ CLAUVAE |
 
 / |
 
-FR-new-100039196
+FR000000000222687
 
 |
 
@@ -38858,7 +38560,7 @@ FR-new-006412905
 
 KNAUF PLATRES FOS |
 
-KNAUF PLATRES |
+KNAUF PLATRES FOS |
 
 / |
 
@@ -38912,6 +38614,66 @@ SUEZ RV FRANCE |
 
 / |
 
+FR-new-003902012
+
+|
+
+Normand'hy |
+
+Air Liquide France Industrie |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-003802096
+
+|
+
+ROCKWOOL Courmelles |
+
+ROCKWOOL FRANCE SAS |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-007003732
+
+|
+
+EURO-INFORMATION VERLINGHEM |
+
+EURO-INFORMATION |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 ANNEXE 2
 
 Liste des installations d'incinération de déchets municipaux dont la puissance calorifique totale de combustion est supérieure à 20 MW, soumises au système d'échange de quotas d'émission de gaz à effet de serre à compter du 1er janvier 2024 seulement en ce qui concerne les obligations de déclaration des émissions et de vérification de l'article R. 229-20 du code de l'environnement.
@@ -38940,7 +38702,7 @@ UIOM/UVE de La-Rochelle
 
 |
 
-SETRAD ONYX
+Communauté d'agglomération de La-Rochelle
 
 |
 
@@ -39032,11 +38794,11 @@ FR-new-006000275
 
 |
 
-UIOM/UVE de Limoges
+Centrale énergie déchets Limoges (CEDLM)
 
 |
 
-Centrale énergie déchets Limoges (CEDLM)
+Limoges Métropole
 
 |
 
@@ -39048,11 +38810,11 @@ FR-new-007205801
 
 |
 
-UIOM/UVE de Échillais
+CMVD d'Échillais
 
 |
 
-SETRAD ONYX
+Syndicat intercommunautaire du littoral (SIL)
 
 |
 
@@ -40291,7 +40053,3 @@ SMEDAR
 Le Grand-Quevilly
 
 |
-
-NOTA :
-
-Conformément au 6 de l'article annexe de l'arrtêté du 4 juillet 2024 (NOR : ECOR2418401A), l'installation FR-new-003013459 est supprimée de la liste des installations d'incinération de déchets municipaux dont la puissance calorifique totale de combustion est supérieure à 20 MW, soumises au système d'échange de quotas d'émission de gaz à effet de serre à compter du 1er janvier 2024 en ce qui concerne les obligations de déclaration des émissions et de vérification de l'article R. 229-20 du code de l'environnement.
