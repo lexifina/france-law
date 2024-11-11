@@ -184,7 +184,7 @@ Chef de la mission " Grande Couronne ".
 
 Commandant des réserves.
 
-Conseiller prospective et stratégie.
+Conseiller prospective et stratégie (2 postes).
 
 2. Direction des ressources humaines, des finances et des soutiens de la police nationale :
 
@@ -326,4 +326,4 @@ Directeur de l'école nationale supérieure de la police.
 
 NOTA :
 
-Conformément à l’article 2 de l'arrêté du 11 septembre 2024 (NOR : IOMC2423588A), ces dispositions entrent en vigueur à compter du premier jour du mois suivant sa publication au Journal officiel de la République française, à savoir le 1er octobre 2024.
+Conformément à l’article 2 de l'arrêté du 17 octobre 2024 (NOR : INTC2427926A), ces dispositions entrent en vigueur à compter du 11 novembre 2024.
