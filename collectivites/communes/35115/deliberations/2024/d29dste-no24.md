@@ -1,0 +1,11 @@
+# COMMUNE DE FOUGERES : délibération D29DSTE_NO24 — CM du 07/11/24 : Convention de servitude entre la Ville de Fougères et Orange  parcelles AX 319 et AX 350, quartier de la Forairie.
+
+- Collectivité : COMMUNE DE FOUGERES
+- SIRET : 21350115800017
+- Code INSEE : 35115
+- Date : 2024-11-14
+- Matière : 3.5 Domaine et patrimoine/Autres actes de gestion du domaine public
+- Objet : CM du 07/11/24 : Convention de servitude entre la Ville de Fougères et Orange  parcelles AX 319 et AX 350, quartier de la Forairie.
+- Transmis à la préfecture : 2024-11-14 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213501158/Deliberation/2024/739913/394e9e9a4d334a3561c9e8fd48768ec715964b03521f56af694b9a80b09cac0f.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
