@@ -52,8 +52,6 @@ Paris-Istanbul (Turquie) ;
 
 Montpellier-Alger (Algérie) ;
 
-Montpellier-Constantine (Algérie) ;
-
 Montpellier-Oran (Algérie) ;
 
 Montpellier-Djerba (Tunisie) ;
@@ -216,9 +214,7 @@ Dans la limite d'une (1) fréquence hebdomadaire sur l'une des deux liaisons sui
 
 Montpellier-Beyrouth (Liban) ;
 
-Nice-Beyrouth (Liban) ;
-
-Toulon-Alger (Algérie).
+Nice-Beyrouth (Liban).
 
 Jusqu'au 31 juillet 2029 :
 
