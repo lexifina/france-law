@@ -108,7 +108,7 @@ Conformément à l’article 2 de l’arrêté du 25 juillet 2022 (NOR : TRER212
 
 Conformément à l’article 1 de l’arrêté du 22 décembre 2023 (NOR : ENER2333436A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe dudit arrêté, à compter du 1er janvier 2024.
 
-Conformément à l’article 2 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d’opération n° BAT-TH-116 remplace, à compter du 1er janvier 2025, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
+Conformément à l’article 2 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d’opération n° BAT-TH-116 en annexe C remplace, à compter du 1er janvier 2025, la fiche portant la même référence dans la présente annexe. Conformément à l'article 1er de l'arrêté du 24 octobre 2024 (NOR : TECR2428117A), la fiche d'opération standardisée portant la référence BAT-TH-116 et figurant en annexe I de l'arrêté précité remplace la fiche portant la même référence figurant dans l'annexe C de l'arrêté du 22 août 2024 (NOR : ECOR2422700A).
 
 -Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119 (Abrogée à compter du 1er avril 2018)
 

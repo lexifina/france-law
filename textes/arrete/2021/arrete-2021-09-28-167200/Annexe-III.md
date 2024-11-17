@@ -140,11 +140,11 @@ B. 2. Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-C. - Fiches d'opérations standardisées BAR-TH-171 &laquo; Pompe à chaleur de type air/ eau &raquo; et BAR-TH-172 &laquo; Pompe à chaleur de type eau/ eau ou sol/ eau &raquo;.
+C. - Fiches d'opérations standardisées BAR-TH-171"Pompe à chaleur de type air/ eau"et BAR-TH-172"Pompe à chaleur de type eau/ eau ou sol/ eau .
 
-Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en &laquo; non satisfaisant &raquo;.
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en"non satisfaisant .
 
-C. I. - Les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+C. I. - Les critères suivants doivent conduire à un classement"non satisfaisant"de l'opération pour les contrôles sur le lieu des opérations :
 
 C. I. A. - Critères directement liés à la fiche d'opération standardisée :
 
@@ -162,7 +162,7 @@ C. I. A. - Critères directement liés à la fiche d'opération standardisée :
 
 7. L'usage de la PAC ne correspond pas à l'usage déclaré dans la preuve de réalisation ;
 
-8. L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : efficacité énergétique saisonnière, zone climatique et, dans le cas où l'opération ne s'inscrit pas dans le cadre du Coup de pouce &laquo; Chauffage &raquo;, la surface chauffée ; un écart de surface chauffée conduit à un classement &laquo; non satisfaisant &raquo; si l'écart entre la surface déclarée et la surface mesurée est supérieur à 10 % (écart = (surface déclarée-surface mesurée)/ surface mesurée*100).
+8. L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : efficacité énergétique saisonnière, zone climatique et, dans le cas où l'opération ne s'inscrit pas dans le cadre du Coup de pouce"Chauffage , la surface chauffée ; un écart de surface chauffée conduit à un classement"non satisfaisant"si l'écart entre la surface déclarée et la surface mesurée est supérieur à 10 % (écart = (surface déclarée-surface mesurée)/ surface mesurée*100).
 
 NB : La surface chauffée est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée.
 
@@ -1582,11 +1582,11 @@ AO. II. Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-AP.-Fiche d'opération standardisée RES-EC-104 &laquo; Rénovation d'éclairage extérieur &raquo; :
+AP.-Fiche d'opération standardisée RES-EC-104"Rénovation d'éclairage extérieur":
 
-Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en &laquo; non satisfaisant &raquo;.
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en"non satisfaisant .
 
-AP. I.-Les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+AP. I.-Les critères suivants doivent conduire à un classement"non satisfaisant"de l'opération pour les contrôles sur le lieu des opérations :
 
 1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
@@ -1621,6 +1621,198 @@ AP. I.-Les critères suivants doivent conduire à un classement &laquo; non sati
 L'organisme d'inspection effectue les vérifications nécessaires sur au moins 10 % des luminaires neufs ou rééquipés, pour chaque type d'espace qu'il aura défini (ex. : autoroute ; route hors milieu urbain ; voies routières urbaines ; voies piétonnes ; voiries privées ; parkings privés, etc.).
 
 L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : nombre de luminaires neufs ou rééquipés installés dans le cas d'un fonctionnement avec gradation seule ; nombre de luminaires neufs ou rééquipés installés dans le cas d'un fonctionnement avec gradation et détection de présence.
+
+AQ. Fiche d'opération standardisée IND-UT-137 “ Mise en place d'un système de pompe (s) à chaleur en rehausse de température de chaleur fatale récupérée ” :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en “ non satisfaisant ”.
+
+Les critères suivants doivent conduire à un classement “ non satisfaisant ” de l'opération pour les contrôles sur le lieu des opérations :
+
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, l'étude préalable de dimensionnement ;
+
+2) La preuve de la réalisation de l'opération ne comporte pas les mentions prévues par la fiche d'opération standardisée ou, le cas échéant, n'est pas accompagnée du document issu du fabricant indiquant les caractéristiques de l'équipement ;
+
+3) L'adresse du chantier indiquée dans l'étude de dimensionnement ne correspond pas à celle indiquée pour le contrôle ;
+
+4) L'équipement installé n'est pas un système de pompe (s) à chaleur (PAC) de type air/ air, air/ eau ou eau/ eau à compression de vapeur entrainée par un moteur électrique ;
+
+5) Le fluide entrant dans le système installé n'est pas de la chaleur fatale (i. e. chaleur générée par une installation qui n'en constitue pas une des finalités premières, et qui n'est pas récupérée) récupérée ;
+
+6) La température en continu sur l'année de la chaleur fatale est inférieure à 25° C ;
+
+7) La chaleur fatale n'est pas générée par le site industriel concerné par l'opération ;
+
+8) La chaleur fatale récupérée ne couvre pas un besoin de chaleur (procédé, chauffage des locaux ou eau chaude sanitaire) sur le site ;
+
+9) Le besoin de chaleur sur le site a une puissance thermique “ chaud ” supérieure à 2 MW (le contrôle pourra être réalisé sur une base documentaire) ;
+
+10) Le système installé utilise un ou des fluide (s) frigorigène (s) dont le PRG (potentiel de réchauffement global) est supérieur ou égal à 150 ;
+
+11) Le calcul du COP annuel moyen, selon la formule COP = Q/ Eélec, est erroné dans l'étude de dimensionnement ;
+
+12) Le système installé a un coefficient de performance (COP) annuel moyen, tel que COP annuel moyen = Q/ Eélec, inférieur au COP annuel moyen minimal défini conformément au tableau de la fiche d'opération standardisée en fonction de la rehausse en température et de la température de l'eau en sortie du condenseur ;
+
+13) Dans le cas où la récupération de chaleur nécessite l'installation d'un système comportant plusieurs PAC, le système installé ne comporte pas l'ensemble des PAC nécessaires ;
+
+14) Le montage des PAC ne correspond ni à un montage en série, ni à un montage en parallèle, tels que définis par la fiche d'opération standardisée ;
+
+15) Les instruments de mesure ne sont pas installés ou ne sont pas complets en termes de paramètres mesurés ;
+
+16) Les mesures n'ont pas été conservées ;
+
+17) L'étude de dimensionnement ne comporte pas les éléments décrits aux points I et II de la partie 3 de la fiche d'opération standardisée ;
+
+18) La température de la chaleur fatale récupérée indiquée au b du II. 3 de l'étude de dimensionnement n'est manifestement pas cohérente avec le fonctionnement du site, notamment au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative) ;
+
+19) La quantité de chaleur nécessaire pour couvrir les besoins identifiés du site évaluée au II. 2 de l'étude de dimensionnement est manifestement surévaluée par rapport aux besoins du site ou est manifestement supérieure à la chaleur fatale produite par le site, notamment au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative) ;
+
+20) L'énergie électrique annuelle absorbée par le système indiquée dans l'étude de dimensionnement est manifestement sous-évaluée, notamment au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative) ;
+
+21) La puissance disponible n'est manifestement pas adaptée à la puissance nécessaire au besoin ;
+
+22) L'énergie thermique annuelle fournie par le système installé est inférieure à celle calculée au d du II. 3 de l'étude de dimensionnement ;
+
+23) L'énergie électrique annuelle absorbée par le système installé est supérieure à celle calculée au e du II. 3 de l'étude de dimensionnement ;
+
+24) Dans le cas d'un site existant, la période représentative ne respecte pas les conditions du II de la partie 3 de la fiche d'opération standardisée ;
+
+25) Dans le cas d'un site neuf, il n'est pas fait usage d'une simulation thermique ;
+
+26) Pour l'évaluation de la quantité de chaleur fatale récupérée par l'opération, la chaleur fatale le cas échéant déjà récupérée avant l'opération n'a pas été soustraite ;
+
+27) La période utilisée pour évaluer les économies d'énergie attendues n'est manifestement pas représentative du fonctionnement du site ;
+
+28) La durée prévisionnelle de fonctionnement du système indiquée dans l'étude de dimensionnement est manifestement surestimée ;
+
+29) L'équipement installé ne correspond pas au schéma simplifié de l'installation décrit dans l'étude de dimensionnement ;
+
+30) L'équipement installé ne correspond pas à celui mentionné dans la preuve de la réalisation de l'opération ;
+
+31) La nature des besoins de chaleur à couvrir mentionnée dans l'étude de dimensionnement ne correspond pas à l'utilisation constatée lors du contrôle ;
+
+32) La température d'entrée du condenseur, côté besoin, lorsque le système de PAC est en fonctionnement, n'est manifestement pas en permanence supérieure à la moyenne des températures de chaleur fatale disponible, au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative).
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : Q, l'énergie thermique annuelle fournie sous forme de chaleur en sortie du système (en kWh/ an) ; Eélec, l'énergie électrique annuelle absorbée par le système. Il s'agit des valeurs indiquées dans l'étude de dimensionnement.
+
+AR. Fiche d'opération standardisée IND-UT-138 “ Conversion de chaleur fatale en électricité ou en air comprimé ” :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en “ non satisfaisant ”.
+
+Les critères suivants doivent conduire à un classement “ non satisfaisant ” de l'opération pour les contrôles sur le lieu des opérations :
+
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, l'étude préalable de dimensionnement ;
+
+2) La preuve de la réalisation de l'opération ne comporte pas les mentions prévues par la fiche d'opération standardisée ou, le cas échéant, n'est pas accompagnée du document issu du fabricant indiquant les caractéristiques de l'équipement ;
+
+3) L'adresse du chantier indiquée dans l'étude de dimensionnement ne correspond pas à celle indiquée pour le contrôle ;
+
+4) Le système installé n'est pas un système de récupération de chaleur pour conversion en électricité ou en air comprimé ;
+
+5) L'électricité ou l'air comprimé produit n'est pas autoconsommé sur le site ;
+
+6) La chaleur récupérée par l'équipement installé n'est pas de la chaleur fatale au sens de la fiche d'opération standardisée (i. e. chaleur issue d'un effluent liquide ou gazeux ayant une température de rejet supérieure à 25° C, générée par une installation qui n'en constitue pas une des finalités premières, et qui n'est pas récupérée) ;
+
+7) La chaleur fatale n'est pas générée par le site industriel concerné par l'opération ;
+
+8) La chaleur est récupérée, au moins en partie, sur les effluents d'un équipement de secours ;
+
+9) Le système installé valorise une quantité de chaleur fatale prélevée supérieure à 16 GWh/ an (le contrôle pourra être réalisé sur une base documentaire) ;
+
+10) Les instruments de mesure ne sont pas installés ou ne sont pas complets en termes de paramètres mesurés ;
+
+11) Les mesures n'ont pas été conservées ou n'ont pas été archivées dans les formes voulues (bilans annuels et mensuels) ;
+
+12) L'étude de dimensionnement ne comporte pas les éléments décrits aux points I, II et III de la partie 3 de la fiche d'opération standardisée ;
+
+13) La puissance de chaleur récupérée nominale du système installé est inférieure à Précup issue de l'étude de dimensionnement ;
+
+14) Selon le cas, la puissance électrique nominale produite par le système installé est inférieure à la puissance électrique produite par le système issue de l'étude de dimensionnement ou le volume d'air comprimé produit par le système installé est inférieur à celui issu de l'étude de dimensionnement ;
+
+15) La puissance électrique absorbée nominale du système installé (ne prenant pas en compte les auxiliaires) est supérieure à celle issue de l'étude de dimensionnement ;
+
+16) Le rendement brut du système installé est inférieur au rendement brut, η, issu de l'étude de dimensionnement ;
+
+17) La variation de la puissance électrique absorbée par les auxiliaires induite par le système installé est supérieure à Pconso issue de l'étude de dimensionnement ;
+
+18) Pour l'évaluation de la puissance de chaleur fatale récupérable, l'éventuelle puissance de chaleur fatale déjà récupérée avant l'opération n'a pas été soustraite ;
+
+19) Dans le cas d'effluents encrassants ou corrosifs, l'étude de dimensionnement ne comporte pas la définition d'un plan de maintenance de l'échangeur ;
+
+20) La puissance thermique apportée en entrée de la machine thermodynamique indiquée dans l'étude de dimensionnement, Précup, est manifestement surestimée ou n'est manifestement pas en cohérence avec le dimensionnement de l'échangeur et de la machine thermodynamique (le contrôle pourra être réalisé sur une base documentaire) ;
+
+21) Le calcul du rendement brut de la machine thermodynamique, η, présenté dans l'étude de dimensionnement, est erroné ;
+
+22) Les puissances électriques absorbées par les auxiliaires avant et après l'opération ne correspondent pas à celles constatées sur site ;
+
+23) La durée annuelle, D, de fonctionnement de la machine thermodynamique indiquée dans l'étude de dimensionnement est manifestement surestimée (le contrôle pourra être réalisé sur une base documentaire) ;
+
+24) L'évaluation des économies d'énergie annuelles indiquée dans l'étude de dimensionnement, selon la formule suivante (kWh/ an) : D × (Précup × η-Pconso), est manifestement surestimée, notamment au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative) ;
+
+25) Le rendement énergétique brut de la machine thermodynamique installée (ne prenant pas en compte les consommations des auxiliaires), η, ne respecte pas la condition suivante :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0271 du 16 novembre 2024 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=XTp6eThAdXCu6Gjtk0heDCVuWr0oZmjTy5LY7ucMcns=
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : D, la durée annuelle de fonctionnement (en heures) ; Précup, la puissance thermique apportée par le fluide caloporteur à la machine thermodynamique (en kW thermique) ; η, le rendement brut estimé de la machine thermodynamique (en %) ; Pconso, la variation de la puissance électrique absorbée par les auxiliaires avant et après l'opération (en kW électrique). Il s'agit des valeurs indiquées dans l'étude de dimensionnement.
+
+AS. Fiche d'opération standardisée IND-UT-139 “ Système de stockage de chaleur fatale ” :
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en “ non satisfaisant ”.
+
+Les critères suivants doivent conduire à un classement “ non satisfaisant ” de l'opération pour les contrôles sur le lieu des opérations :
+
+1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, l'étude préalable de dimensionnement ;
+
+2) La preuve de la réalisation de l'opération ne comporte pas les mentions prévues par la fiche d'opération standardisée ou, le cas échéant, n'est pas accompagnée du document issu du fabricant indiquant les caractéristiques de l'équipement ;
+
+3) L'adresse du chantier indiquée dans l'étude de dimensionnement ne correspond pas à celle indiquée pour le contrôle ;
+
+4) L'équipement installé n'est pas un système de stockage de chaleur composé d'une ou plusieurs batteries thermiques, montées en parallèle ou en série, ainsi que du ou des systèmes de récupération et de distribution de chaleur associés ;
+
+5) L'équipement installé n'est pas fixe ou n'est pas connecté au réseau de distribution de chaleur ;
+
+6) Le fluide entrant dans le système installé n'est pas de la chaleur fatale (i. e. chaleur issue d'un effluent liquide ou gazeux ayant une température supérieure à 25° C, générée par une installation qui n'en constitue pas une des finalités premières, et qui n'est pas récupérée) récupérée ;
+
+7) La chaleur fatale n'est pas générée par le site industriel concerné par l'opération ;
+
+8) La chaleur fatale récupérée ne couvre pas un besoin de chaleur sur le site ;
+
+9) La chaleur fatale annuelle valorisée indiquée dans l'étude de dimensionnement est supérieure à 16 GWh/ an ;
+
+10) Pour les sites existants, l'étude de dimensionnement n'est pas réalisée sur deux années représentatives ou, pour les sites ne disposant pas de données historiques sur deux ans, s'appuie sur une période représentative du fonctionnement du site inférieure à deux mois ;
+
+11) Dans le cas d'un site neuf, il n'est pas fait usage d'une simulation thermique ;
+
+12) La représentativité de la durée choisie n'est pas justifiée ;
+
+13) La nature de la chaleur fatale récupérable et récupérée indiquée dans l'étude de dimensionnement ne correspond manifestement pas au fonctionnement du site ;
+
+14) L'évaluation de la quantité de chaleur fatale récupérée, indiquée au b du II. 1 de l'étude de dimensionnement, est manifestement surestimée par rapport au fonctionnement du site, au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative) ;
+
+15) La nature des besoins de chaleur à couvrir indiquée dans l'étude de dimensionnement ne correspond manifestement pas au fonctionnement du site ;
+
+16) La description, dans l'étude de dimensionnement, des équipements existant avant l'étude de dimensionnement permettant, antérieurement à l'opération, une récupération de chaleur provenant de la source concernée par l'opération et de ceux qui sont mis en place dans le cadre de l'opération ne correspond pas au fonctionnement du site ;
+
+17) L'évaluation de la quantité de chaleur nécessaire pour couvrir les besoins identifiés du site évaluée au II. 2 de l'étude de dimensionnement est manifestement surévaluée par rapport aux besoins du site ou est manifestement supérieure à la chaleur fatale produite par le site ;
+
+18) Il y a manifestement simultanéité dans le temps, en termes de puissances, de la source de chaleur fatale et du besoin (sur une durée représentative) ;
+
+19) L'évaluation de la chaleur fatale annuelle valorisée au moyen du système de stockage, indiquée dans l'étude de dimensionnement, selon la formule suivante : η × C × Nc, est manifestement surévaluée, notamment au vu des mesures enregistrées (sous réserve que la période de mesure soit suffisamment représentative) ;
+
+20) Les instruments de mesure ne sont pas installés ou ne sont pas complets en termes de paramètres mesurés ;
+
+21) Les mesures n'ont pas été conservées ;
+
+22) L'étude de dimensionnement ne comporte pas les éléments décrits aux points I et II de la partie 3 de la fiche d'opération standardisée ;
+
+23) Le système de stockage installé ne correspond pas au schéma simplifié indiqué dans l'étude de dimensionnement ;
+
+24) La capacité maximale de stockage de chaleur du système installé est inférieure à celle issue de l'étude de dimensionnement ;
+
+25) Le nombre annuel, Nc, de cycles équivalents à 100 % de la capacité maximale du système installé est inférieur au nombre Nc issu de l'étude de dimensionnement ;
+
+26) Le rendement du système installé est inférieur au rendement issu de l'étude de dimensionnement.
+
+L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : η, le rendement du système de stockage (en %) ; C, la capacité maximale de stockage de chaleur du système (en kWh) ; Nc, le nombre annuel de cycles équivalents à 100 % de la capacité maximale du système de stockage, effectués sur une année représentative. Il s'agit des valeurs indiquées dans l'étude de dimensionnement.
 
 NOTA :
 

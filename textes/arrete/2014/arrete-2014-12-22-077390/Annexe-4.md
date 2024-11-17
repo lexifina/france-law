@@ -112,9 +112,11 @@ Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A)
 
 - Système de stockage de chaleur fatale / Fiche d'opération standardisée n° IND-UT-139
 
-Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée, à compter du 1er janvier 2025, par la fiche d'opération standardisée figurant à l'annexe G du l'arrêté précité.
+Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée, à compter du 1er janvier 2025, par la fiche d'opération standardisée figurant à l'annexe G du l'arrêté précité. Conformément à l'article 1er de l'arrêté du 24 octobre 2024 (NOR : TECR2428117A), la fiche d'opération standardisée portant la référence IND-UT-139 et figurant en annexe II à l'arrêté précité remplace la fiche portant la même référence figurant dans l'annexe G de l'arrêté du 22 août 2024 (NOR : ECOR2422700A).
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 271 du 16 novembre 2024, texte n° 16, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=XTp6eThAdXCu6Gjtk0heDCVuWr0oZmjTy5LY7ucMcns=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0227 du 30/09/2023, texte n° 39, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=2eo_9bKPruY9aVYxIHHqRZAonPLOBawu6mXaWDKqFfw=
 
