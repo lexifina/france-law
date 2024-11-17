@@ -260,7 +260,7 @@ APES (automatismes pneumatiques électroniques systèmes). ZI de Roumagoua, 1360
 
 APEX, ZI Le Sylvain, route de la Gare, 83123 Sanary, de 1989 à 2005.
 
-Applications Techniques Maritimes (ATM)-34, rue Ruffi, 13002 Marseille : depuis 1991 jusqu’au 31 décembre 2027.
+Applications Techniques Maritimes (ATM), 34, rue Ruffi, 13002 Marseille, 164-166 Boulevard de Paris, 13003 Marseille, depuis 1991 jusqu’au 31 décembre 2027.
 
 ARIM :
 
