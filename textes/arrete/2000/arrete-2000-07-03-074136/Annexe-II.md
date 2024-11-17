@@ -548,7 +548,7 @@ Plurisol SA, 1, rue de l'Avenir, 76124 Le Grand-Quevilly : de 1962 à 1999, parc
 
 Realisol, 6, rue du Quesnot, ZA, BP 39,76410 saint-aubin-lès-Elbeuf : de 1990 à 1996 ;
 
-Roclaine, rue Michel-Poulmarch, 76800 Saint-Etienne-du-Rouvray : de 1950 à 1973 ; Isover Saint-Gobain : de 1973 à 1981 ;
+Roclaine rue Michel-Poulmarch, 76800 Saint-Etienne-du-Rouvray : de 1950 à 1973 ; Isover Saint-Gobain : de 1973 à 1981 ;
 
 SA Normande de l'amiante manufacture, 72, rue de Louviers, Saint-Pierre-lès-Elbeuf, 76320 Caudebec-lès-Elbeuf : de 1945 à 1980.
 
