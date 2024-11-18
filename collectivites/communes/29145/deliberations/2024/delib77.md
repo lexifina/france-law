@@ -1,0 +1,11 @@
+# COMMUNE DE CONFORT MEILARS : délibération DELIB77 — REHABILITATION DE LA SALLE POLYVALENTE : INSTALLATION D'UN EQUIPEMENT DE SECURITE ANTICHUTE DU TOIT TERRASSE
+
+- Collectivité : COMMUNE DE CONFORT MEILARS
+- SIRET : 21290145800019
+- Code INSEE : 29145
+- Date : 2024-11-18
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : REHABILITATION DE LA SALLE POLYVALENTE : INSTALLATION D'UN EQUIPEMENT DE SECURITE ANTICHUTE DU TOIT TERRASSE
+- Transmis à la préfecture : 2024-11-21 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212901458/Deliberation/2024/744017/2b29a568e27c41a1914ce1d6f696d046eba00c1f5d02aa9792428a69556fb3d7.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
