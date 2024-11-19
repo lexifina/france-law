@@ -1,0 +1,10 @@
+# SYNDICAT MIXTE DE GESTION DU PARC NATUREL REGIONAL DU GOLFE DU MORBIHAN : délibération DECISION2024_38 — FIXATION DES TARIFS DE VENTE DES PRODUITS DE PROMOTION DU PARC
+
+- Collectivité : SYNDICAT MIXTE DE GESTION DU PARC NATUREL REGIONAL DU GOLFE DU MORBIHAN
+- SIRET : 20004970800015
+- Date : 2024-11-19
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : FIXATION DES TARIFS DE VENTE DES PRODUITS DE PROMOTION DU PARC
+- Transmis à la préfecture : 2024-11-19 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/200049708/Deliberation/2024/742880/498155f44f0a423a0f9fcc5ba57f059f8ad2c59190d526fe732ea5e4a871a9f4.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
