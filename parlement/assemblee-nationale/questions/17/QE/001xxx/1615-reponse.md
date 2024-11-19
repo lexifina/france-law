@@ -1,0 +1,9 @@
+# Réponse à la question n° 1615
+
+- Question : [1615](1615.md) — Question n° 1615 — Réduction du Fonds de soutien à l'expression radiophonique (FSER)
+
+## Réponse
+
+*JO du 2024-11-19, page 6106*
+
+Les radios associatives jouent un rôle essentiel en faveur de la cohésion sociale et du pluralisme. Chaque année, environ 750 d'entre elles bénéficient des aides du fonds de soutien à l'expression radiophonique locale (FSER), qui représentent en moyenne 40 % de leurs ressources. Cet attachement a en outre été réaffirmé dans le cadre du Plan Culture Ruralité présenté à l'été 2024 qui prévoit de créer une aide supplémentaire pour les radios associatives situées en zone rurale et en Outre-mer. Cette mesure vise à prendre en compte les difficultés particulières de ces radios et leur permettre de poursuivre et d'amplifier leurs actions au sein de ces territoires. Dès la fin de l'année 2024, chaque radio concernée se verra accorder une majoration d'environ 10 000 euros supplémentaires en moyenne de leur subvention au titre du FSER. Dans un contexte budgétaire contraint, le projet de loi de finances pour 2025 déposé à l'Assemblée nationale le 10 octobre 2024 prévoyait une baisse des crédits du FSER. Cette situation n'était pas satisfaisante. La ministre de la culture a indiqué qu'elle souhaitait que des solutions soient trouvées lors de l'examen du texte. Le Gouvernement a entendu les préoccupations trans-partisanes exprimées par les parlementaires et les élus locaux et a décidé de déposer un amendement pour rétablir les crédits du FSER à leur niveau de 2024. Les radios locales et associatives pourront ainsi continuer à assurer leur rôle essentiel en faveur du lien social et de la culture de proximité, particulièrement dans les territoires les plus isolés. Cette décision témoigne de l'engagement du ministère de la culture aux côtés des radios associatives.
