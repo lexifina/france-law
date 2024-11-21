@@ -2,51 +2,885 @@
 
 Secteur résidentiel
 
-- Isolation de combles ou de toitures / Fiche d’opération standardisée n° BAR-EN-101
+Opération n° BAR-EN-101
 
-Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
+Isolation de combles ou de toiture |
 
-Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
+1. Secteur d'application
 
-Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
+Bâtiments résidentiels existants.
 
-Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-EN-101, figurant en annexe B dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.
+2. Dénomination
 
-- Isolation des murs / Fiche d’opération standardisée n° BAR-EN-102
+Mise en place d'un procédé d'isolation thermique en comble perdu ou en rampant de toiture. Un procédé d'isolation est constitué de l'association d'un matériau isolant et de dispositifs de fixation et de protection (tels que des revêtements, parements, membranes continues si nécessaire) contre des dégradations liées à son exposition aux environnements extérieurs et intérieurs (telles que le rayonnement solaire, le vent, la pluie, la neige, les chocs, l'humidité, le feu).
 
-Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
+La présente fiche est abrogée à compter du 1er mai 2027.
 
-Conformément à l’article 1 de l’arrêté du 18 février 2022 (NOR : TRER2205456A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
+3. Conditions pour la délivrance de certificats
 
-- Isolation d’un plancher / Fiche d’opération standardisée n° BAR-EN-103
+La résistance thermique R de l'isolation installée (la résistance thermique de l'isolation existante n'étant pas, le cas échéant, prise en compte) est supérieure ou égale à :
 
-Conformément à l’article 1er de l’arrêté du 10 janvier 2019 (NOR : TRER1834746A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe dudit arrêté, à compter du 1er avril 2019.
+-7 m2. K/ W en comble perdu ;
 
-Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
+-6 m2. K/ W en rampant de toiture.
 
-Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
+La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants. La présente fiche respecte, de plus, les dispositions de l'article 2 bis de l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie.
 
-Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
+Un pare-vapeur ou tout autre dispositif permettant d'atteindre un résultat équivalent est mis en place, lorsqu'il est nécessaire de protéger les matériaux d'isolation thermique contre les transferts d'humidité pour garantir la performance de l'ouvrage.
+
+La mise en place est réalisée par un professionnel.
+
+Le professionnel effectue, au plus tard avant l'établissement du devis, une visite technique du bâtiment au cours de laquelle il valide que la mise en place du procédé d'isolation dans les combles ou en toiture de ce bâtiment est en adéquation avec ce dernier. Le cas échéant, il s'assure, lors de cette visite, que l'isolation existante peut être conservée en l'état. Dans le cas contraire, il est procédé, lors des travaux, soit à la remise en état de l'isolation existante, soit à sa dépose.
+
+Un délai minimal de sept jours francs est respecté entre la date d'acceptation du devis et la date de début des travaux (pose de l'isolant).
+
+Le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l' article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 11°, du 13° ou du 14° du I de l'article 1er du décret précité.
+
+La preuve de la réalisation de l'opération comporte les mentions de :
+
+-la mise en place d'une isolation de combles ou de toiture ;
+
+-les marque et référence ainsi que l'épaisseur et la surface d'isolant installé ;
+
+-la résistance thermique de l'isolation mise en place évaluée, suivant la nature de l'isolant, selon l'une des normes susvisées ;
+
+-les aménagements nécessaires à la mise en place de l'isolation (coffrage ou écran de protection autour des conduits de fumées et des dispositifs d'éclairage encastrés ; rehausse rigide au-dessus de la trappe d'accès ; pare-vapeur ou tout autre dispositif équivalent lorsqu'il est nécessaire de protéger les matériaux d'isolation thermique contre les transferts d'humidité pour garantir la performance de l'ouvrage) ;
+
+-la date de la visite du bâtiment.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un matériau avec ses marque et référence et la surface de matériau installée ainsi que la date de la visite du bâtiment par le professionnel et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Ce document indique que le matériau de marque et référence mis en place est un isolant et précise ses caractéristiques thermiques (résistance thermique ; ou conductivité thermique et épaisseur) évaluées, suivant la nature de l'isolant, selon l'une des normes susvisées. En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité. Pour les références proposées en différentes épaisseurs, la preuve de réalisation, si elle ne mentionne pas la résistance thermique de l'isolation installée, doit impérativement en préciser l'épaisseur.
+
+Le document justificatif spécifique à l'opération est la décision de qualification ou de certification du professionnel ayant réalisé l'opération.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+Montant en kWh cumac par m2 d'isolant en fonction de la zone climatique |
+
+|
+
+Surface d'isolant (m2) |
+
+H1 |
+
+H2 |
+
+H3 |
+
+X |
+
+S |
+
+1 700 |
+
+1 400 |
+
+920 |
+
+Annexe 1 à la fiche d'opération standardisée BAR-EN-101, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-EN-101 (v. A64.6) : Mise en place d'un procédé d'isolation thermique en comble perdu ou en rampant de toiture
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+* Date de la visite préalable du bâtiment où ont eu lieu les travaux :
+
+* Date de début des travaux (pose de l'isolant) :
+
+Référence de la facture :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ Oui □ Non
+
+* Type de pose (l'isolation est réalisée entre un espace chauffé et un espace non chauffé) :
+
+□ en combles perdus ;
+
+□ en rampant de toitures.
+
+Caractéristiques de l'isolant posé :
+
+* Surface d'isolant posé (m2) :
+
+* Résistance thermique : R (m2.K/W) :
+
+A ne remplir que si la résistance thermique n'est pas mentionnée sur la preuve de réalisation de l'opération :
+
+* Épaisseur (mm) :
+
+L'isolation thermique réalisée a nécessité la mise en place d'un pare-vapeur ou tout autre dispositif permettant d'atteindre un résultat équivalent : □ Oui □ Non
+
+A ne remplir que si les marque et référence de l'isolant posé ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque(s) :
+
+* Référence(s) :
+
+NB1 : pour la mise en place d'une isolation thermique en comble perdu, la résistance thermique R doit être supérieure ou égale à 7 m2.K/W. Pour la mise en place d'une isolation thermique en rampant de toiture, la résistance thermique R doit être supérieure ou égale à 6 m2.K/W.
+
+NB2 : La résistance thermique de l'isolation existante n'est pas, le cas échéant, prise en compte pour la détermination de la résistance thermique ci-dessus.
+
+NB3 : La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants. La résistance thermique est établie conformément à l'annexe 7 à l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie.
+
+NB4 : dans le cas d'une pose superposée de plusieurs isolants, indiquer les marques et références de chacun des isolants posés ainsi que le R global et pour la surface d'isolant posée, la surface résultant de la superposition des isolants.
+
+Le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 11°, du 13° ou du 14° du I de l'article 1er du décret précité.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
+
+* Nom
+
+* Prénom
+
+* Raison sociale :
+
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Opération n° BAR-EN-102
+
+Isolation des murs |
+
+1. Secteur d'application
+
+Bâtiments résidentiels existants.
+
+2. Dénomination
+
+Mise en place d'un procédé d'isolation (complexe ou sur ossature) sur mur(s) en façade ou en pignon. Un procédé d'isolation est constitué de l'association d'un matériau isolant et de dispositifs de fixation et de protection (tels que des revêtements, parements, membranes continues si nécessaire) contre des dégradations liées à son exposition aux environnements extérieurs et intérieurs (telles que le rayonnement solaire, le vent, la pluie, la neige, les chocs, l'humidité, le feu).
+
+La présente fiche est abrogée à compter du 1er mai 2027.
+
+3. Conditions pour la délivrance de certificats
+
+La résistance thermique R de l'isolation installée (la résistance thermique de l'isolation existante n'étant pas, le cas échéant, prise en compte) est supérieure ou égale à 3,7 m2.K/W.
+
+La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants. La présente fiche respecte, de plus, les dispositions de l'article 2 bis de l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie.
+
+La mise en place est réalisée par un professionnel.
+
+Le professionnel effectue, avant l'établissement du devis, une visite technique du bâtiment au cours de laquelle il valide que la mise en place du procédé d'isolation sur les murs de ce bâtiment est en adéquation avec ce dernier. Le cas échéant, il s'assure, lors de cette visite, que l'isolation existante peut être conservée en l'état. Dans le cas contraire, il est procédé, lors des travaux, soit à la remise en état de l'isolation existante, soit à sa dépose.
+
+Un délai minimal de sept jours francs est respecté entre la date d'acceptation du devis et la date de début des travaux (pose de l'isolant).
+
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 11° ou du 12° du I de l'article 1er du décret précité.
+
+La preuve de la réalisation de l'opération mentionne :
+
+- la mise en place d'une isolation ;
+
+- et la surface d'isolant installé ;
+
+- et la résistance thermique de l'isolation installée ;
+
+- et la date de la visite technique préalable par le professionnel.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un matériau avec ses marque et référence et la surface installée, et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Ce document indique que le matériau de marque et référence mis en place est un isolant et précise ses caractéristiques thermiques (résistance thermique ; ou conductivité thermique et épaisseur). En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité. Pour les références proposées en différentes épaisseurs, la preuve de réalisation, si elle ne mentionne pas la résistance thermique de l'isolation installée, doit impérativement en préciser l'épaisseur.
+
+Le document justificatif spécifique à l'opération est la décision de qualification ou de certification du professionnel ayant réalisé l'opération.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+Zone climatique |
+
+Montant en kWh cumac par m2 d'isolant |
+
+|
+
+Surface d'isolant (m2) |
+
+H1 |
+
+1 600 |
+
+X |
+
+S |
+
+H2 |
+
+1 300 |
+
+H3 |
+
+880 |
+
+Annexe 1 à la fiche d'opération standardisée BAR-EN-102, définissant le contenu de la partie A de l'attestation sur l'honneur.
+
+A/ BAR-EN-102 (v.A64.3) : Mise en place d'un procédé d'isolation (complexe ou sur ossature) sur mur(s) en façade ou en pignon
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ Oui □ Non
+
+Caractéristiques de l'isolant posé en façade ou en pignon :
+
+* Surface d'isolant posé (m2) :
+
+* Résistance thermique : R (m2.K/W) :
+
+A ne remplir que si la résistance thermique n'est pas mentionnée sur la preuve de réalisation de l'opération :
+
+* Epaisseur (mm) :
+
+A ne remplir que si les marque et référence de l'isolant posé ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque(s) :
+
+* Référence(s) :
+
+NB1 : pour la mise en place d'une isolation thermique des murs, sa résistance thermique R doit être ≥ 3,7 m2.K/W.
+
+NB2 : La résistance thermique de l'isolation existante n'est pas, le cas échéant, prise en compte pour la détermination de la résistance thermique ci-dessus.
+
+NB3 : la résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants. La résistance thermique est établie conformément à l'annexe 7 à l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie.
+
+NB4 : dans le cas d'une pose superposée de plusieurs isolants, indiquer les marques et références de chacun des isolants posés ainsi que le R global et pour la surface d'isolant posée, la surface résultant de la superposition des isolants.
+
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 11° ou du 12° du I de l'article 1er du décret précité.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation
+
+(sous traitant par exemple) :
+
+* Nom
+
+* Prénom
+
+* Raison sociale :
+
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Opération n° BAR-EN-103
+
+Isolation d'un plancher |
+
+1. Secteur d'application
+
+Bâtiments résidentiels existants.
+
+2. Dénomination
+
+- mise en place d'un procédé d'isolation sur/sous un plancher bas situé entre un volume chauffé et un sous-sol non chauffé, un vide sanitaire ou un passage ouvert. Un procédé d'isolation est constitué de l'association d'un matériau isolant et de dispositifs de fixation et de protection (tels que des revêtements, parements, membranes continues si nécessaire) contre des dégradations liées à son exposition aux environnements extérieurs et intérieurs (telles que le rayonnement solaire, le vent, la pluie, la neige, les chocs, l'humidité, le feu).
+
+La présente fiche est abrogée à compter du 1er mai 2027.
+
+3. Conditions pour la délivrance de certificats
+
+La résistance thermique R de l'isolation installée (la résistance thermique de l'isolation existante n'étant pas, le cas échéant, prise en compte) est supérieure ou égale à 3 m2.K/W.
+
+La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants. La présente fiche respecte, de plus, les dispositions de l'article 2 bis de l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie.
+
+Un pare-vapeur ou tout autre dispositif permettant d'atteindre un résultat équivalent est mis en place, lorsqu'il est nécessaire de protéger les matériaux d'isolation thermique contre les transferts d'humidité pour garantir la performance de l'ouvrage.
+
+La mise en place est réalisée par un professionnel.
+
+Le professionnel effectue, au plus tard avant l'établissement du devis, une visite technique du bâtiment au cours de laquelle il valide que la mise en place des isolants en plancher bas de ce bâtiment est en adéquation avec ce dernier. Le cas échéant, il s'assure, lors de cette visite, que l'isolation existante peut être conservée en l'état. Dans le cas contraire, il est procédé, lors des travaux, soit à la remise en état de l'isolation existante, soit à sa dépose.
+
+Un délai minimal de sept jours francs est respecté entre la date d'acceptation du devis et la date de début des travaux (pose de l'isolant).
+
+Le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 15° du I de l'article 1er du décret précité.
+
+La preuve de la réalisation de l'opération mentionne :
+
+- la mise en place d'une isolation thermique d'un plancher bas ;
+
+- les marque et référence ainsi que l'épaisseur et la surface d'isolant installé ;
+
+- la résistance thermique de l'isolation mise en place évaluée, suivant la nature de l'isolant, selon l'une des normes susvisées ;
+
+- les aménagements nécessaires à la mise en place de l'isolation (coffrage ou écran de protection autour des conduits de fumées et des dispositifs d'éclairage encastrés ; rehausse rigide au niveau de la trappe d'accès ; pare-vapeur ou tout autre dispositif équivalent lorsqu'il est nécessaire de protéger les matériaux d'isolation thermique contre les transferts d'humidité pour garantir la performance de l'ouvrage) ;
+
+- la date de la visite technique préalable par le professionnel.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un matériau d'isolation en plancher bas avec ses marque et référence et la surface de matériau installée ainsi que la date de la visite préalable par le professionnel et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Ce document indique que le matériau de marque et référence mis en place est un isolant et précise ses caractéristiques thermiques (résistance thermique ; ou conductivité thermique et épaisseur) évaluées, suivant la nature de l'isolant, selon l'une des normes susvisées. En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité. Pour les références proposées en différentes épaisseurs, la preuve de réalisation, si elle ne mentionne pas la résistance thermique de l'isolation installée, doit impérativement en préciser l'épaisseur.
+
+Le document justificatif spécifique à l'opération est la décision de qualification ou de certification du professionnel ayant réalisé l'opération.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+Montant en kWh cumac par m2 d'isolant en fonction de la zone climatique |
+
+|
+
+Surface d'isolant (m2) |
+
+H1 |
+
+H2 |
+
+H3 |
+
+X |
+
+S |
+
+1 100 |
+
+890 |
+
+590 |
+
+Annexe 1 à la fiche d'opération standardisée BAR-EN-103, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-EN-103 (v. A64.6) : Mise en place d'un procédé d'isolation sur/sous un plancher bas situé entre un volume chauffé et un sous-sol non chauffé, un vide sanitaire ou un passage ouvert.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
+
+* Date de la visite préalable, par le professionnel, du bâtiment où ont eu lieu les travaux : //
+
+* Date de début des travaux (pose de l'isolant) : //
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) : //
+
+Référence de la facture :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ Oui □ Non
+
+Caractéristiques de l'isolant posé :
+
+* Surface d'isolant posé (m2) :
+
+* Résistance thermique R (m2.K/W) :
+
+A ne remplir que si la résistance thermique n'est pas mentionnée sur la preuve de réalisation de l'opération :
+
+* Epaisseur (mm) :
+
+L'isolation thermique réalisée a nécessité la mise en place d'un pare-vapeur ou tout autre dispositif permettant d'atteindre un résultat équivalent : □ Oui □ Non
+
+A ne remplir que si les marque et référence de l'isolant mis en place ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque(s) :
+
+* Référence(s) :
+
+NB1 : pour l'isolation thermique d'un plancher bas, la résistance thermique R doit être supérieure ou égale à 3 m2.K/W.
+
+NB2 : La résistance thermique de l'isolation existante n'est pas, le cas échéant, prise en compte pour la détermination de la résistance thermique ci-dessus.
+
+NB3 : la résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants. La résistance thermique est établie conformément à l'annexe 7 à l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie.
+
+NB4 : dans le cas d'une pose superposée de plusieurs isolants, indiquer les marques et références de chacun des isolants posés ainsi que la résistance thermique R globale et pour la surface d'isolant posée, la surface résultant de la superposition des isolants.
+
+Le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 15° du I de l'article 1er du décret précité.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
+
+* Nom
+
+* Prénom
+
+* Raison sociale :
+
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 - Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération standardisée n° BAR-EN-104
 
-- Isolation des toitures terrasses / Fiche d’opération standardisée n° BAR-EN-105
+Opération n° BAR-EN-105
 
-Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2021.
+Isolation des toitures terrasses |
 
-Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
+1. Secteur d'application
 
-Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-EN-104, figurant en annexe B dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.
+Bâtiments résidentiels existants.
 
-- Isolation de combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-106
+2. Dénomination
 
-Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
+Mise en place, en toiture terrasse, d'un procédé d'isolation extérieur. Un procédé d'isolation est constitué de l'association d'un matériau isolant et de dispositifs de protection (tels que des revêtements, parements, membranes continues si nécessaire) contre des dégradations liées à son exposition aux environnements extérieurs et intérieurs (telles que le rayonnement solaire, le vent, la pluie, la neige, les chocs, l'humidité, le feu).
 
-Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
+La présente fiche est abrogée à compter du 1er mai 2027.
 
-- Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-107
+3. Conditions pour la délivrance de certificats
 
-Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
+La résistance thermique R de l'isolation installée (la résistance thermique de l'isolation existante n'étant pas, le cas échéant, prise en compte) est supérieure ou égale à 4,5 m2.K/W.
+
+La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants. La présente fiche respecte, de plus, les dispositions de l'article 2 bis de l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie.
+
+La mise en place est réalisée par un professionnel.
+
+Le cas échéant, le professionnel s'assure que l'isolation existante peut être conservée en l'état. Dans le cas contraire, il est procédé soit à la remise en état de l'isolation existante, soit à sa dépose.
+
+Le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 13° du I de l'article 1er du décret précité.
+
+La preuve de la réalisation de l'opération mentionne :
+
+- la mise en place d'une isolation ;
+
+- et la surface d'isolant installé ;
+
+- et la résistance thermique de l'isolation installée.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un matériau avec ses marque et référence et la surface installée, et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Ce document indique que le matériau de marque et référence mis en place est un isolant et précise ses caractéristiques thermiques (résistance thermique ; ou conductivité thermique et épaisseur). En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an aprés sa date de fin de validité. Pour les références proposées en différentes épaisseurs, la preuve de réalisation, si elle ne mentionne pas la résistance thermique de l'isolation installée, doit impérativement en préciser l'épaisseur.
+
+Le document justificatif spécifique à l'opération est la décision de qualification ou de certification du professionnel ayant réalisé l'opération.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+Zone climatique |
+
+Montant en kWh cumac par m2 d'isolant |
+
+|
+
+Surface d'isolant
+
+en m2 |
+
+H1 |
+
+1 200 |
+
+X |
+
+S |
+
+H2 |
+
+1 000 |
+
+H3 |
+
+670 |
+
+Annexe 1 à la fiche d'opération standardisée BAR-EN-105, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-EN-105 (v.A64.4) : Mise en place, en toiture terrasse, d'un procédé d'isolation extérieur.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ Oui □ Non
+
+Caractéristiques de l'isolant posé :
+
+* Surface d'isolant posé (m2) :
+
+* Résistance thermique : R (m2.K/W) :
+
+A ne remplir que si la résistance thermique n'est pas mentionnée sur la preuve de réalisation de l'opération :
+
+* Epaisseur (mm) :
+
+A ne remplir que si les marque et modèle de l'isolant posé ne sont pas mentionnés sur la preuve de réalisation de l'opération :
+
+* Marque(s) :
+
+* Référence(s) :
+
+NB1 : pour la mise en place d'une isolation thermique des toitures terrasses, la résistance thermique R doit être ≥ 4,5 m2.K/W.
+
+NB2 : La résistance thermique de l'isolation existante n'est pas, le cas échéant, prise en compte pour la détermination de la résistance thermique ci-dessus.
+
+NB3 : la résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants. La résistance thermique est établie conformément à l'annexe 7 à l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie.
+
+NB4 : dans le cas d'une pose superposée de plusieurs isolants, indiquer les marques et références de chacun des isolants posés ainsi que le R global et pour la surface d'isolant posée, la surface résultant de la superposition des isolants.
+
+Le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 13° du I de l'article 1er du décret précité.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant, par exemple) :
+
+* Nom
+
+* Prénom
+
+* Raison sociale :
+
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Opération n° BAR-EN-106
+
+Isolation de combles ou de toitures
+
+(France d'outre-mer) |
+
+1. Secteur d'application
+
+Bâtiments résidentiels existants ou neufs en France d'outre-mer à l'exception des bâtiments neufs à la Réunion construits à une altitude supérieure à 600 m.
+
+2. Dénomination
+
+Mise en place d'une isolation thermique en comble perdu ou en rampant de toiture.
+
+La présente fiche est abrogée à compter du 1er mai 2027.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+La résistance thermique R de l'isolation installée est supérieure ou égale à 1,5 m2.K/W.
+
+La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants.
+
+Le professionnel effectue, au plus tard avant l'établissement du devis, une visite du bâtiment au cours de laquelle il valide que la mise en place des isolants dans les combles ou en toiture de ce bâtiment est en adéquation avec ce dernier.
+
+Un délai minimal de sept jours francs est respecté entre la date d'acceptation du devis et la date de début des travaux (pose de l'isolant).
+
+Lorsque le bénéficiaire est une personne physique, le professionnel qui procède à la réalisation de l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
+
+Ce signe de qualité correspond à des travaux relevant du 4 du I de l'article 46 AX de l'annexe III du code général des impôts.
+
+La preuve de la réalisation de l'opération mentionne :
+
+- la mise en place d'une isolation ;
+
+- la surface d'isolant installé ;
+
+- la résistance thermique de l'isolation installée évaluée, suivant la nature de l'isolant, selon les normes NF EN 12664, NF EN 12667, NF EN 12939 ou NF EN ISO 22097 ;
+
+- la date de la visite du bâtiment ;
+
+- les aménagements nécessaires à la mise en place de l'isolation (coffrage ou écran de protection autour des conduits de fumées et des dispositifs d'éclairage encastrés ; rehausse rigide au-dessus de la trappe d'accès).
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un matériau avec ses marque et référence et la surface installée, et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Ce document indique que le matériau de marque et référence mis en place est un isolant et précise ses caractéristiques thermiques (résistance thermique ; ou conductivité thermique et épaisseur) évaluées, suivant la nature de l'isolant, selon l'une des normes susvisées. En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité. Pour les références proposées en différentes épaisseurs, la preuve de réalisation, si elle ne mentionne pas la résistance thermique de l'isolation installée, doit impérativement en préciser l'épaisseur.
+
+Le document justificatif spécifique à l'opération est la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+Type de logement |
+
+Montant en kWh cumac par m2 d'isolant posé |
+
+X |
+
+Surface d'isolant posé (m2) |
+
+logement existant |
+
+logement neuf |
+
+Maison individuelle |
+
+320 |
+
+210 |
+
+S |
+
+Bâtiment collectif |
+
+380 |
+
+250 |
+
+Annexe 1 à la fiche d'opération standardisée BAR-EN-106, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-EN-106 (v. A64.5) : Mise en place d'une isolation thermique en comble perdu ou en rampant de toiture
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+* Date de la visite préalable, par le professionnel, du bâtiment où ont eu lieu les travaux :
+
+* Date de début des travaux (pose de l'isolant) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment résidentiel en France d'outre-mer : □ OUI □ NON
+
+A La Réunion, le bâtiment ne se situe pas dans une zone au-dessus de 600 m d'altitude.
+
+* Type de logement :
+
+□ Existant □ Neuf □ Maison individuelle □ Bâtiment collectif
+
+Caractéristiques de l'isolant posé :
+
+* Surface d'isolant posé (m2) :
+
+* Résistance thermique : R (m2.K/W) :
+
+A ne remplir que si la résistance thermique n'est pas mentionnée sur la preuve de réalisation de l'opération :
+
+* Epaisseur (mm) :
+
+A ne remplir que si les marque et référence de l'isolant posé ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque(s) :
+
+* Référence(s) :
+
+NB1 : la résistance thermique R doit être ≥ 1,5 m2.K/W.
+
+NB2 : La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants.
+
+NB3 : dans le cas d'une pose superposée de plusieurs isolants, indiquer les marques et références de chacun des isolants posés ainsi que le R global et pour la surface d'isolant posée, la surface résultant de la superposition des isolants.
+
+Lorsque le bénéficiaire est une personne physique, le professionnel qui procède à la réalisation de l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 4 du I de l'article 46 AX de l'annexe III du code général des impôts.
+
+Identité du professionnel titulaire du signe qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
+
+* Nom :
+
+* Prénom :
+
+* Raison sociale :
+
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Opération n° BAR-EN-10
+
+Isolation des murs
+
+(France d'outre-mer) |
+
+1. Secteur d'application
+
+Bâtiments résidentiels existants ou neufs en France d'outre-mer à l'exception des bâtiments neufs à la Réunion construits à une altitude supérieure à 600 m.
+
+2. Dénomination
+
+Mise en place d'un doublage isolant (complexe ou sur ossature) sur mur(s) en façade ou en pignon.
+
+La présente fiche est abrogée à compter du 1er mai 2027.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+La résistance thermique R de l'isolation installée est supérieure ou égale à 0,5 m2.K/W. Elle est évaluée selon les normes suivantes :
+
+- pour les isolants non réfléchissants : normes NF EN 12664, NF EN 12667 ou NF EN 12939 ;
+
+- pour les isolants réfléchissants : norme NF EN ISO 22097.
+
+Lorsque le bénéficiaire est une personne physique, le professionnel qui procède à la réalisation de l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
+
+Ce signe de qualité correspond à des travaux relevant du 3 du I de l'article 46 AX de l'annexe III du code général des impôts.
+
+La preuve de la réalisation de l'opération mentionne :
+
+- la mise en place d'une isolation ;
+
+- et la surface d'isolant installé ;
+
+- et la résistance thermique de l'isolation installée évaluée, suivant la nature de l'isolant, selon les normes NF EN 12664, NF EN 12667, NF EN 12939 ou NF EN ISO 22097.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un matériau avec ses marque et référence et la surface installée, et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Ce document indique que le matériau de marque et référence mis en place est un isolant et précise ses caractéristiques thermiques (résistance thermique ; ou conductivité thermique et épaisseur) évaluées, suivant la nature de l'isolant, selon les normes NF EN 12664, NF EN 12667, NF EN 12939 ou NF EN ISO 22097. En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité. Pour les références proposées en différentes épaisseurs, la preuve de réalisation, si elle ne mentionne pas la résistance thermique de l'isolation installée, doit impérativement en préciser l'épaisseur.
+
+Le document justificatif spécifique à l'opération est la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+|
+
+Montant en kWh cumac / m2 d'isolant posé
+
+en fonction de la résistance R de l'isolant (en m2.K/W) |
+
+|
+
+Surface d'isolant posé
+
+(m2) |
+
+Type de logement |
+
+Bâtiment existant |
+
+Bâtiment neuf |
+
+|
+
+0,5 ≤ R < 1,2 |
+
+1,2 ≤ R |
+
+0,5 ≤ R < 1,2 |
+
+1,2 ≤ R |
+
+|
+
+Maison individuelle |
+
+200 |
+
+240 |
+
+130 |
+
+150 |
+
+X |
+
+S |
+
+Bâtiment collectif |
+
+240 |
+
+280 |
+
+160 |
+
+180 |
+
+Annexe 1 à la fiche d'opération standardisée BAR-EN-107, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-EN-107 (v. A64.4) : Mise en place d'un doublage isolant (complexe ou sur ossature) sur mur(s) en façade ou en pignon
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment résidentiel en France d'outre-mer : □ OUI □ NON
+
+A La Réunion, le bâtiment ne se situe pas dans une zone au-dessus de 600 m d'altitude.
+
+* Type de logement :
+
+□ Existant
+
+□ Neuf
+
+□ Maison individuelle
+
+□ Bâtiment collectif
+
+Caractéristiques de l'isolant posé en façade ou en pignon :
+
+* Surface d'isolant posé (m2) :
+
+* Résistance thermique : R (m2.K/W) :
+
+A ne remplir que si la résistance thermique n'est pas mentionnée sur la preuve de réalisation de l'opération :
+
+* Epaisseur (mm) :
+
+A ne remplir que si les marque et référence de l'isolant posé ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque(s) :
+
+* Référence(s) :
+
+NB1 : la résistance thermique R doit être ≥ 0,5 m2.K/W. Elle est évaluée selon les normes suivantes :
+
+- pour les isolants non réfléchissants : normes NF EN 12664, NF EN 12667 ou NF EN 12939 ;
+
+- pour les isolants réfléchissants : norme NF EN ISO 22097.
+
+NB2 : dans le cas d'une pose superposée de plusieurs isolants, indiquer les marques et références de chacun des isolants posés ainsi que le R global et pour la surface d'isolant posée, la surface résultant de la superposition des isolants.
+
+Lorsque le bénéficiaire est une personne physique, le professionnel qui procède à la réalisation de l'opération doit être titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
+
+Ce signe de qualité correspond à des travaux relevant du 3 du I de l'article 46 AX de l'annexe III du code général des impôts.
+
+Identité du professionnel titulaire du signe qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous traitant par exemple) :
+
+* Nom :
+
+* Prénom :
+
+* Raison sociale :
+
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 - Fermeture isolante / Fiche d’opération standardisée n° BAR-EN-108
 
@@ -384,9 +1218,197 @@ Conformément au III de l'article 2 de l'arrêté du 19 décembre 2023 (NOR : EN
 
 - Récupération de chaleur fatale issue de serveurs informatiques pour l'eau chaude sanitaire collective / Fiche d’opération standardisée n° BAR-TH-170
 
-- Rénovation globale d'un bâtiment résidentiel collectif (France métropolitaine) / Fiche d'opération standardisée n° BAR-TH-177
+CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
 
-Conformément à l'article 1 de l'arrêté du 6 septembre 2024 (NOR : ECOR2416035A), la présente annexe est complétée par la fiche d'opération standardisée figurant en annexe A à l'arrêté précité.
+Opération n° BAR-TH-177
+
+Rénovation globale d'un bâtiment résidentiel collectif (France métropolitaine) |
+
+1. Secteur d'application
+
+Bâtiments résidentiels collectifs existants en France métropolitaine.
+
+2. Dénomination
+
+Rénovation thermique globale d'un bâtiment résidentiel collectif existant.
+
+L'approche globale consiste à déterminer et à mettre en œuvre un bouquet de travaux optimal sur le plan technico-économique.
+
+Cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou posterieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe du bâtiment, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
+
+La présente fiche s'applique aux opérations engagées jusqu'au 31 octobre 2029.
+
+3. Conditions pour la délivrance de certificats
+
+Pour chaque catégorie de travaux intégrée dans le projet de rénovation globale et mentionnée aux 1° à 16° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décret et dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1er du décret précité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décret correspondant aux travaux réalisés.
+
+Un audit énergétique est réalisé préalablement aux travaux de rénovation globale du bâtiment. Cet audit énergétique respecte les dispositions de l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020 relatif à la prime de transition énergétique.
+
+Les travaux permettent d'atteindre une performance énergétique globale minimale du bâtiment, déterminée par l'audit énergétique, qui satisfait aux deux critères suivants :
+
+-consommation conventionnelle annuelle en énergie primaire après travaux, rapportée à la surface de référence des logements, inférieure à 331 kWh/ m2. an pour les usages chauffage, refroidissement, production d'eau chaude sanitaire, éclairage, et les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation ;
+
+-gain énergétique d'au moins 35 % par rapport à la consommation conventionnelle annuelle en énergie primaire avant travaux pour les usages définis ci-dessus.
+
+Hors raccordement à un réseau de chaleur, les changements d'équipements de chauffage ou de production d'eau chaude sanitaire ne doivent conduire ni à l'installation de chaudières consommant du charbon ou du fioul, ni à l'installation d'un système de chauffage ou de production d'eau chaude sanitaire incluant l'installation d'au moins une chaudière au gaz, dont le taux de couverture défini comme le rapport entre la quantité de chaleur fournie par l'ensemble des chaudières au gaz du système et les besoins annuels de chaleur pour les usages couverts par le système, est supérieur à 30 %.
+
+Les émissions annuelles de gaz à effet de serre après rénovation, rapportée à la surface de référence du bâtiment, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux.
+
+La preuve de réalisation de l'opération mentionne la liste des travaux réalisés avec leurs niveaux de performance.
+
+Les bâtiments d'habitation collectifs éligibles à la présente fiche sont ceux disposant d'au moins trois foyers fiscaux distincts rattachés à des logements distincts.
+
+Les documents justificatifs spécifiques à l'opération sont :
+
+-le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, précisant les données de consommations conventionnelles en énergie primaire et en énergie finale (sans déduction de la production d'électricité autoconsommée ou exportée), avant et après travaux ainsi que le gain énergétique apporté par la rénovation du bâtiment et les quantités annuelles de gaz à effet de serre émis dans l'atmosphère avant et après travaux du fait de la quantité d'énergie consommée, rapportés à la surface de référence du bâtiment. Ce rapport précise le nom du logiciel de calcul utilisé dans le cadre de l'opération et son numéro de version ;
+
+-le fichier source de l'audit énergétique (format . xml ou équivalent) retraçant l'ensemble des paramètres utilisés pour la réalisation de l'audit énergétique ;
+
+-la liste des travaux préconisés avec leurs niveaux de performance et la correspondance avec la liste des travaux réalisés, datée et signée par le bénéficiaire, le professionnel ayant réalisé l'audit énergétique et chaque professionnel mettant en œuvre ou assurant la maîtrise d'œuvre de tout ou partie de l'opération, permettant d'atteindre les performances énergétiques requises ;
+
+-la liste des entreprises ayant effectué les travaux de rénovation en indiquant la nature de ces travaux et la référence de leur qualification ou certification lorsque celle-ci est requise ;
+
+-les attestations fiscales d'au moins trois foyers fiscaux distincts rattachés à des logements distincts ;
+
+-les attestations déclarations préalables de travaux (DP) déposées par le propriétaire correspondant aux surfaces supplémentaires rendues habitables par un nouvel aménagement intérieur du bâtiment existant (aménagement de cave, de combles ou de tout autre espace, etc.) ou par une extension neuve ;
+
+-dans le cas de bâtiments relèvant de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis, l'accord de la copropriété autorisant les travaux pour les logements de la copropriété.
+
+Lorsque les travaux mis en œuvre diffèrent des travaux préconisés, l'audit énergétique est mis à jour sur la base des travaux effectivement réalisés.
+
+Le rapport de synthèse de l'audit énergétique, ainsi que sa mise à jour éventuelle, sont datés et signés par le prestataire les ayant réalisés. Ils comportent les mentions des valeurs suivantes :
+
+-la consommation conventionnelle (en kWh/ m2. an) du bâtiment (sans déduction de la production d'électricité autoconsommée ou exportée), en précisant les usages considérés :
+
+-d'énergie primaire, avant les travaux de rénovation : Cep initial ;
+
+-d'énergie primaire, après les travaux de rénovation : Cep projet ;
+
+-d'énergie finale, avant les travaux de rénovation : Cef initial ;
+
+-d'énergie finale, après les travaux de rénovation : Cef projet ;
+
+-le rejet de CO2 exprimé en kgeqCO2/ m2. an, avant les travaux de rénovation ;
+
+-le rejet de CO2 exprimé en kgeqCO2/ m2. an, après les travaux de rénovation ;
+
+-la surface habitable du bâtiment après rénovation, exprimée en m2 : Shab.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+Le volume de certificats d'économies d'énergie est déterminé comme suit :
+
+Montants en kWh cumac/ m2 |
+
+X |
+
+Surface habitable du bâtiment Shab (m2) |
+
+2 100 |
+
+Shab est la surface de habitable (exprimée en m2) du bâtiment après rénovation.
+
+Annexe 1 à la fiche d'opération standardisée BAR-TH-177, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-TH-177 (v. A63.1) : Rénovation thermique globale d'un bâtiment résidentiel collectif existant.
+
+*Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) : //
+
+Référence de la facture :
+
+*Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+*Adresse des travaux :
+
+Complément d'adresse :
+
+*Code postal :
+
+*Ville :
+
+*Bâtiment résidentiel collectif existant depuis plus de 2 ans à la date d'engagement de l'opération : □ Oui □ Non
+
+*Surface de habitable du bâtiment résidentiel Shab (m2) :
+
+NB1 : Shab est la surface habitable (exprimée en m2) du bâtiment après rénovation.
+
+*Nombre de logements distincts :
+
+* Nombre de foyers fiscaux distincts rattachés à des logements distincts :
+
+*Le bâtiment relève de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis :
+
+□ Oui □ Non
+
+*Numéro d'immatriculation de la copropriété prévu par les articles L. 711-1 et suivants du code de la construction et de l'habitation :
+
+*Préalablement aux travaux de rénovation thermique, il a été réalisé un audit énergétique respectant les dispositions de l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique : □ Oui □ Non
+
+Caractéristiques du bâtiment données par l'audit énergétique :
+
+*Consommation conventionnelle en énergie primaire avant les travaux de rénovation : Cep initial (kWh/m2.an) :
+
+*Consommation conventionnelle en énergie primaire après les travaux de rénovation : Cep projet (kWh/m2.an) :
+
+*Consommation conventionnelle en énergie finale avant les travaux de rénovation : Cef initial (kWh/m2.an) :
+
+*Consommation conventionnelle en énergie finale après les travaux de rénovation : Cef projet (kWh/m2.an) :
+
+*Gain énergétique du projet par rapport à la consommation conventionnelle en énergie primaire avant travaux : ... %
+
+NB2 : les consommations conventionnelles (en kWh/m2.an) du bâtiment s'entendent sans déduction de la production d'électricité (autoconsommée ou exportée) et prennent en compte les usages pour le chauffage, le refroidissement, la production d'eau chaude sanitaire, l'éclairage et les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation.
+
+* Hors raccordement à un réseau de chaleur, les changements d'équipements de chauffage ou de production d'eau chaude sanitaire conduisent à l'installation de chaudières consommant du charbon ou du fioul, ou à l'installation d'un système de chauffage ou de production d'eau chaude sanitaire incluant l'installation d'au moins une chaudière au gaz, dont le taux de couverture défini comme le rapport entre la quantité de chaleur fournie par l'ensemble des chaudières au gaz du système et les besoins annuels de chaleur pour les usages couverts par le système, est supérieur à 30 % : □ Oui □ Non
+
+*Type d'équipements de chauffage ou de production d'eau chaude sanitaire avant travaux :
+
+*Type d'équipements de chauffage ou de production d'eau chaude sanitaire après travaux :
+
+*Les émissions de gaz à effet de serre après rénovation, exprimées en kgeqCO2/m2.an, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux : □ Oui □ Non
+
+Coordonnées de l'entreprise ayant effectué l'audit énergétique de l'opération au regard des exigences de la fiche standardisée :
+
+*Raison sociale :
+
+*Numéro SIREN :
+
+*Date de l'audit énergétique :
+
+*Référence de l'audit énergétique :
+
+Logiciel de calcul utilisé pour réaliser l'audit énergétique :
+
+* Nom du logiciel et de son éditeur :
+
+* Date et n° de version :
+
+NB3 : cette opération n'est pas cumulable avec d'autres opérations relevant d'autres fiches et ayant une date d'engagement égale ou posterieure à la présente opération, pouvant donner lieu à la délivrance de certificats d'économies d'énergie pour des travaux concernant le chauffage ou sa régulation, la production d'eau chaude sanitaire, la ventilation, l'isolation de l'enveloppe du bâtiment, l'isolation du réseau hydraulique de chauffage ou d'eau chaude sanitaire ou les systèmes d'automatisation et de contrôle du bâtiment dès lors que ces travaux sont valorisés au titre de la présente fiche.
+
+Qualification ou certification du (ou des) professionnel (s)
+
+En cas d'intervention de plusieurs professionnels, il convient de dupliquer pour chaque professionnel les informations du cartouche suivant en précisant le domaine des travaux qu'il a effectué :
+
+Identification du professionnel ayant réalisé les travaux :
+
+*Nom du représentant :
+
+*Prénom :
+
+*Raison sociale :
+
+*N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+*Domaine des travaux réalisés :
+
+*Référence de la qualification ou certification : Date :// |
+
+La qualification ou certification de l'entreprise est mentionnée dans le cas où cette dernière a réalisé des travaux relevant de l'une au moins des catégories de travaux mentionnées aux 1° à 17° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
 
 - Lampe fluo-compacte de classe A / Fiche d’opération standardisée n° BAR-EQ-101
 
@@ -422,19 +1444,871 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 - Désembouage d'un réseau hydraulique de chauffage collectif en France métropolitaine / Fiche d’opération standardisée n° BAR-SE-109
 
-- Pompe à chaleur de type air/ eau / Fiche d’opération standardisée BAR-TH-171
+Opération n° BAR-TH-171
 
-Conformément à l’article 1 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), les fiches d'opérations standardisées BAR-TH-171 Pompe à chaleur de type air/ eau et BAR-TH-172 Pompe à chaleur de type eau/ eau ou sol/ eau figurant en annexe A dudit arrêté sont ajoutées à la présente annexe à compter du 1er janvier 2024.
+Pompe à chaleur de type air/ eau |
 
-Conformément à l'article 2 de l'arrêté du 20 décembre 2023 (NOR : ENER2333440A), la fiche d'opération standardisée n° BAR-TH-171 est remplacée par la fiche figurant en annexe D audit arrêté.
+1. Secteur d'application
 
-Conformément à l’article 2 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d’opération n° BAR-TH-171 remplace, à compter du 1er janvier 2025, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
+Bâtiments résidentiels existants.
 
-- Pompe à chaleur de type eau/ eau ou sol/ eau / Fiche d’opération standardisée BAR-TH-172
+2. Dénomination
 
-Conformément à l'article 2 de l'arrêté du 20 décembre 2023 (NOR : ENER2333440A), la fiche d'opération standardisée n° BAR-TH-172 est remplacée par la fiche figurant en annexe D audit arrêté.
+Mise en place d'une pompe à chaleur (PAC) de type air/ eau.
 
-Conformément à l’article 2 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d’opération n° BAR-TH-172 remplace, à compter du 1er janvier 2025, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
+Ne donnent pas lieu à la délivrance de certificats d'économies d'énergie au titre de la présente fiche, les PAC associées à un autre système de chauffage et les PAC utilisées uniquement pour le chauffage de l'eau chaude sanitaire.
+
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 " Chauffe-eau thermodynamique à accumulation " si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
+
+La présente fiche s'applique aux opérations engagées jusqu'au 30 juin 2028.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
+
+L'efficacité énergétique saisonnière pour le chauffage des locaux (η s) de la PAC selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013, déterminée selon l'application de la PAC installée, est supérieure ou égale à :
+
+-126 % pour une application basse température au sens du règlement susmentionné ;
+
+-111 % pour une application moyenne ou haute température.
+
+La PAC est équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/ C 207/02.
+
+Le professionnel rédige une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase. Les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents. Cette note est remise au bénéficiaire à l'achèvement des travaux.
+
+La preuve de la réalisation de l'opération mentionne :
+
+-la mise en place d'une pompe à chaleur de type air/ eau ; et
+
+-le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
+
+-l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
+
+-l'efficacité énergétique saisonnière (η s) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
+
+-l'installation d'un régulateur ainsi que la classe, la marque et la référence de celui-ci.
+
+L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Ce document indique :
+
+-que l'équipement de marque et référence mis en place est une pompe à chaleur de type air/ eau ; et
+
+-le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
+
+-l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
+
+-l'efficacité énergétique saisonnière (η s) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
+
+-que l'équipement est équipé d'un régulateur, en précisant la classe, la marque et la référence de celui-ci.
+
+En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité.
+
+Les documents justificatifs spécifiques à l'opération sont :
+
+-la note de dimensionnement susmentionnée ;
+
+-la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé.
+
+4. Durée de vie conventionnelle
+
+17 ans.
+
+5. Montant de certificats en kWh cumac
+
+Pour un appartement :
+
+Efficacité énergétique
+
+saisonnière (Etas) |
+
+Usage |
+
+Montant kWhc |
+
+|
+
+Facteur correctif selon la surface chauffée |
+
+Surface chauffée S en m2 |
+
+|
+
+Facteur correctif selon la zone
+
+géographique |
+
+Zone
+
+géographique |
+
+111 % ≤ Etas < 140 % |
+
+Chauffage
+
+et ECS |
+
+26 000 |
+
+|
+
+0,5 |
+
+S < 35 |
+
+|
+
+1,2 |
+
+H1 |
+
+Chauffage |
+
+16 600 |
+
+|
+
+0,7 |
+
+35 ≤ S < 60 |
+
+|
+
+1 |
+
+H2 |
+
+140 % ≤ Etas < 170 % |
+
+Chauffage
+
+et ECS |
+
+42 000 |
+
+|
+
+1 |
+
+60 ≤ S < 70 |
+
+|
+
+0,7 |
+
+H3 |
+
+Chauffage |
+
+26 900 |
+
+X |
+
+1,2 |
+
+70 ≤ S < 90 |
+
+X |
+
+|
+
+|
+
+170 % ≤ Etas < 200 % |
+
+Chauffage
+
+et ECS |
+
+52 700 |
+
+|
+
+1,5 |
+
+90 ≤ S < 110 |
+
+|
+
+|
+
+|
+
+Chauffage |
+
+33 700 |
+
+|
+
+1,9 |
+
+110 ≤ S ≤ 130 |
+
+|
+
+|
+
+|
+
+200 % ≤ Etas |
+
+Chauffage
+
+et ECS |
+
+57 600 |
+
+|
+
+2,5 |
+
+130 < S |
+
+|
+
+|
+
+|
+
+Chauffage |
+
+36 800 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Pour une maison individuelle :
+
+Efficacité énergétique
+
+saisonnière (Etas) |
+
+Usage |
+
+Montant kWhc |
+
+|
+
+Facteur correctif selon la surface chauffée |
+
+Surface chauffée S en m2 |
+
+|
+
+Facteur correctif
+
+selon la zone
+
+géographique |
+
+Zone
+
+géographique |
+
+111 % ≤ Etas < 140 % |
+
+Chauffage
+
+et ECS |
+
+47 800 |
+
+|
+
+0,5 |
+
+S < 70 |
+
+|
+
+1,2 |
+
+H1 |
+
+Chauffage |
+
+37 600 |
+
+|
+
+0,7 |
+
+70 ≤ S < 90 |
+
+|
+
+1 |
+
+H2 |
+
+140 % ≤ Etas < 170 % |
+
+Chauffage
+
+et ECS |
+
+77 300 |
+
+|
+
+1 |
+
+90 ≤ S < 110 |
+
+|
+
+0,7 |
+
+H3 |
+
+Chauffage |
+
+60 800 |
+
+X |
+
+1,1 |
+
+110 ≤ S < 130 |
+
+X |
+
+|
+
+|
+
+170 % ≤ Etas < 200 % |
+
+Chauffage
+
+et ECS |
+
+97 100 |
+
+|
+
+1,6 |
+
+130 ≤ S |
+
+|
+
+|
+
+|
+
+Chauffage |
+
+76 300 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+200 % ≤ Etas |
+
+Chauffage
+
+et ECS |
+
+106 000 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chauffage |
+
+83 300 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+NB : la surface prise en compte est la surface chauffée par la PAC installée.
+
+Annexe 1 à la fiche d'opération standardisée BAR-TH-171, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-TH-171 (v. A62.2) : Mise en place d'une pompe à chaleur (PAC) de type air/eau.
+
+*Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+*Pour les personnes morales, nom du site des travaux ou nom de la copropriété :
+
+*Adresse des travaux :
+
+Complément d'adresse :
+
+*Code postal :
+
+*Ville :
+
+*Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+
+*Type de logement : □ Maison individuelle □ Appartement
+
+*Surface chauffée par la PAC installée (m2) :
+
+Caractéristiques de la pompe à chaleur (PAC) :
+
+*La pompe à chaleur est de type air/eau et est installée pour une application :
+
+□ à basse température
+
+□ à moyenne ou haute température
+
+NB : Une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
+
+NB : Une application à moyenne ou haute température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur d'au moins 55 °C.
+
+NB : Une solution mixte de chauffage des locaux associe différents types d'émetteurs de chauffage fonctionnant à basse température pour les uns et à moyenne ou haute température pour les autres ; elle est alors considérée comme une application à moyenne ou haute température.
+
+*Classe du régulateur :
+
+*Efficacité énergétique saisonnière (ηs) (en %) :
+
+L'efficacité énergétique saisonnière (ηs) est calculée selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013.
+
+NB : L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
+
+*Usage couvert par la PAC :
+
+□ Chauffage
+
+□ Chauffage et eau chaude sanitaire
+
+*Une note de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
+
+A ne remplir que si les marque et référence de la pompe à chaleur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+*Marque :
+
+*Référence :
+
+A ne remplir que si les marque et référence du régulateur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+*Marque :
+
+*Référence :
+
+NB : La présente opération n'est pas cumulable avec les opérations relevant des fiches BAR-TH-148 " Chauffe-eau thermodynamique à accumulation " si la PAC est utilisée pour le chauffage et l'eau chaude sanitaire.
+
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
+
+*Nom
+
+*Prénom
+
+*Raison sociale :
+
+*N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Opération n° BAR-TH-172
+
+Pompe à chaleur de type eau/ eau ou sol/ eau |
+
+1. Secteur d'application
+
+Maisons individuelles existantes.
+
+2. Dénomination
+
+Mise en place d'une pompe à chaleur (PAC) de type eau/ eau ou sol/ eau.
+
+Ne donnent pas lieu à la délivrance de certificats d'économies d'énergie au titre de la présente fiche, les PAC associées à un autre système de chauffage et les PAC utilisées uniquement pour le chauffage de l'eau chaude sanitaire.
+
+La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 Chauffe-eau thermodynamique à accumulation si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
+
+La présente fiche s'applique aux opérations engagées jusqu'au 30 juin 2028.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
+
+L'efficacité énergétique saisonnière pour le chauffage des locaux (η s) de la PAC selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013, déterminée selon l'application de la PAC installée, est supérieure ou égale à :
+
+-126 % pour une application basse température au sens du règlement susmentionné ;
+
+-111 % pour une application moyenne ou haute température.
+
+La PAC est équipée d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/ C 207/02.
+
+Le professionnel rédige une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase. Les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents. Cette note est remise au bénéficiaire à l'achèvement des travaux.
+
+La preuve de la réalisation de l'opération mentionne :
+
+-la mise en place d'une pompe à chaleur de type eau/ eau ou sol/ eau ; et
+
+-le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
+
+-l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
+
+-l'efficacité énergétique saisonnière (η s) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
+
+-l'installation d'un régulateur ainsi que la classe, la marque et la référence de celui-ci.
+
+L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Ce document indique :
+
+-que l'équipement de marque et référence mis en place est une pompe à chaleur de type eau/ eau ou sol/ eau ; et
+
+-le type d'application choisi pour l'installation de la pompe à chaleur (basse température ; moyenne ou haute température) ; et
+
+-l'usage de la pompe à chaleur (chauffage ; chauffage et eau chaude sanitaire) ; et
+
+-l'efficacité énergétique saisonnière (η s) selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013 déterminée selon l'application de la PAC installée ; et
+
+-que l'équipement est équipé d'un régulateur, en précisant la classe, la marque et la référence de celui-ci.
+
+En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité.
+
+Les documents justificatifs spécifiques à l'opération sont :
+
+-la note de dimensionnement susmentionnée ;
+
+-la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé.
+
+4. Durée de vie conventionnelle
+
+20 ans.
+
+5. Montant de certificats en kWh cumac
+
+Efficacité énergétique saisonnière (ns) |
+
+Usage |
+
+Montant pour une maison individuelle,
+
+en kWhc |
+
+|
+
+Facteur correctif selon la surface chauffée |
+
+Surface chauffée S en m2 |
+
+|
+
+Facteur correctif selon la zone
+
+géographique |
+
+Zone
+
+géographique |
+
+111 % ≤ Etas < 140 % |
+
+Chauffage
+
+et ECS |
+
+53 400 |
+
+|
+
+0,5 |
+
+S < 70 |
+
+|
+
+1,2 |
+
+H1 |
+
+Chauffage |
+
+42 000 |
+
+|
+
+0,7 |
+
+70 ≤ S < 90 |
+
+|
+
+1 |
+
+H2 |
+
+140 % ≤ Etas < 170 % |
+
+Chauffage
+
+et ECS |
+
+86 400 |
+
+|
+
+1 |
+
+90 ≤ S < 110 |
+
+|
+
+0,7 |
+
+H3 |
+
+Chauffage |
+
+67 900 |
+
+X |
+
+1,1 |
+
+110 ≤ S < 130 |
+
+X |
+
+|
+
+|
+
+170 % ≤ Etas < 200 % |
+
+Chauffage
+
+et ECS |
+
+108 400 |
+
+|
+
+1,6 |
+
+130 ≤ S |
+
+|
+
+|
+
+|
+
+Chauffage |
+
+85 200 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+200 % ≤ Etas < 230 % |
+
+Chauffage
+
+et ECS |
+
+124 200 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chauffage |
+
+97 600 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+230 % ≤ Etas |
+
+Chauffage
+
+et ECS |
+
+131 600 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chauffage |
+
+103 500 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+NB : la surface prise en compte est la surface chauffée par la PAC installée.
+
+Annexe 1 à la fiche d'opération standardisée BAR-TH-172, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-TH-172 (v. A62.2) : Mise en place d'une pompe à chaleur (PAC) de type eau/eau ou sol/eau.
+
+*Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+*Pour les personnes morales, nom du site des travaux ou nom de la copropriété :
+
+*Adresse des travaux :
+
+Complément d'adresse :
+
+*Code postal :
+
+*Ville :
+
+*Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+
+*Le logement est une maison individuelle : □ OUI □ NON
+
+*Surface chauffée par la PAC installée (m2) :
+
+Caractéristiques de la pompe à chaleur (PAC) :
+
+*La pompe à chaleur est de type eau/eau ou sol/eau et est installée pour une application :
+
+□ à basse température
+
+□ à moyenne ou haute température
+
+NB : Une application à basse température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur de 35 °C.
+
+NB : Une application à moyenne ou haute température est une application dans laquelle un dispositif de chauffage des locaux par pompe à chaleur fournit sa puissance calorifique déclarée pour une température de sortie de l'échangeur thermique intérieur d'au moins 55 °C.
+
+NB : Une solution mixte de chauffage des locaux associe différents types d'émetteurs de chauffage fonctionnant à basse température pour les uns et à moyenne ou haute température pour les autres ; elle est alors considérée comme une application à moyenne ou haute température.
+
+*Classe du régulateur :
+
+*Efficacité énergétique saisonnière (ηs) (en %) :
+
+L'efficacité énergétique saisonnière (ηs) est calculée selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013.
+
+NB : L'efficacité énergétique saisonnière prise en compte est celle de la pompe à chaleur seule pour les besoins de chauffage des locaux (hors dispositif de régulation).
+
+*Usage couvert par la PAC :
+
+□ Chauffage
+
+□ Chauffage et eau chaude sanitaire
+
+*Une note de dimensionnement a été remise au bénéficiaire : □ OUI □ NON
+
+A ne remplir que si les marque et référence de la pompe à chaleur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+*Marque :
+
+*Référence :
+
+A ne remplir que si les marque et référence du régulateur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+*Marque :
+
+*Référence :
+
+NB : La présente opération n'est pas cumulable avec les opérations relevant de la fiche BAR-TH-148 Chauffe-eau thermodynamique à accumulation si la PAC installée au titre de la présente fiche est utilisée pour le chauffage et l'eau chaude sanitaire.
+
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
+
+*Nom
+
+*Prénom
+
+*Raison sociale :
+
+*N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 - Système de régulation par programmation horaire pièce par pièce / Fiche d’opération standardisée BAR-TH-173
 
@@ -537,6 +2411,8 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-us85fgyoEk=
 
 NOTA :
+
+Conformément à l’article 7 de l’arrêté du 18 novembre 2024 (NOR : TECR2428116A), les fiches remplacées conformément à l’article 1er dudit arrêté s'appliquent aux opérations engagées à compter du 1er janvier 2025.
 
 Conformément au I de l'article 4 de l'arrêté du 6 septembre 2024 (NOR : ECOR2416035A), ces dispositions s'appliquent aux opérations engagées à compter du 1er novembre 2024. Les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 31 octobre 2024, achevées au plus tard le 31 décembre 2026 et incluses dans une liste transmise, au plus tard le 30 novembre 2024, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
 

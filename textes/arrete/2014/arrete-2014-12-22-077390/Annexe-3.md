@@ -2,21 +2,503 @@
 
 Secteur tertiaire
 
--Isolation de combles ou de toitures / Fiche d’opération n° BAT-EN-101
+Opération n° BAT-EN-101
 
-Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
+Isolation de combles ou de toitures |
 
-Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
+1. Secteur d'application
 
--Isolation des murs / Fiche d’opération standardisée n° BAT-EN-102
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
 
-Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
+2. Dénomination
 
--Isolation d’un plancher / Fiche d’opération standardisée n° BAT-EN-103
+Mise en place d'une isolation thermique en plancher de combles perdus ou en rampant de toiture.
 
-Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
+La présente fiche est abrogée à compter du 1er mai 2027.
 
-Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+La résistance thermique R de l'isolation installée est supérieure ou égale à 6 m2. K/ W en plancher de comble perdu ou en rampant de toiture.
+
+La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants.
+
+Un pare-vapeur ou tout autre dispositif permettant d'atteindre un résultat équivalent est mis en place, lorsqu'il est nécessaire de protéger les matériaux d'isolation thermique contre les transferts d'humidité pour garantir la performance de l'ouvrage.
+
+Un délai minimal de sept jours francs est respecté entre la date d'acceptation du devis et la date de début des travaux (pose de l'isolant).
+
+Une opération ne peut être engagée moins de douze mois suivant l'engagement d'une opération portant sur un même bâtiment et un même bénéficiaire.
+
+La preuve de la réalisation de l'opération mentionne :
+
+-la mise en place d'une isolation de combles ou de toiture ;
+
+-la surface d'isolant installé ;
+
+-la résistance thermique de l'isolation mise en place évaluée, suivant la nature de l'isolant, selon l'une des normes susvisées.
+
+-les aménagements nécessaires à la mise en place de l'isolation (coffrage ou écran de protection autour des conduits de fumées et des dispositifs d'éclairage encastrés ; rehausse rigide au-dessus de la trappe d'accès ; pare-vapeur ou tout autre dispositif équivalent lorsqu'il est nécessaire de protéger les matériaux d'isolation thermique contre les transferts d'humidité pour garantir la performance de l'ouvrage).
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un matériau avec ses marque et référence et la surface de matériau installée, et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Ce document indique que le matériau de marque et référence mis en place est un isolant et précise ses caractéristiques thermiques (résistance thermique ; ou conductivité thermique et épaisseur) évaluées, suivant la nature de l'isolant, selon l'une des normes susvisées. En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité. Pour les références proposées en différentes épaisseurs, la preuve de réalisation, si elle ne mentionne pas la résistance thermique de l'isolation installée, doit impérativement en préciser l'épaisseur.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+Zone climatique |
+
+Montant en kWh cumac
+
+par m2 d'isolant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Secteur d'activité |
+
+Facteur correctif |
+
+|
+
+Surface d'isolant
+
+en m2 |
+
+X |
+
+Bureaux, Enseignement,
+
+Commerces |
+
+0,6 |
+
+X |
+
+S |
+
+H1 |
+
+2 600 |
+
+H2 |
+
+2 100 |
+
+Hôtellerie-Restauration |
+
+0,7 |
+
+Santé |
+
+1,2 |
+
+H3 |
+
+1 400 |
+
+Autres secteurs |
+
+0,6 |
+
+Annexe 1 à la fiche d'opération standardisée BAT-EN-101, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAT-EN-101 (v. A64.4) : Mise en place d'une isolation thermique en plancher de combles perdus ou en rampant de toiture
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+NB : une opération ne peut être engagée moins de douze mois suivant l'engagement d'une opération portant sur un même bâtiment et un même bénéficiaire.
+
+* Date de début des travaux (pose de l'isolant) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment tertiaire existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+
+* Secteur d'activité (une seule case à cocher) :
+
+□ Bureaux □ Hôtellerie / Restauration □ Santé □ Autres secteurs
+
+□ Enseignement □ Commerces
+
+* Energie de chauffage : □ Electricité □ Combustible
+
+Caractéristiques de l'isolant posé :
+
+* Surface d'isolant posé (m2) :
+
+* Résistance thermique : R (m2.K/W) :
+
+A ne remplir que si la résistance thermique n'est pas mentionnée sur la preuve de réalisation de l'opération :
+
+* Epaisseur (mm) :
+
+L'isolation thermique réalisée a nécessité la mise en place d'un pare-vapeur ou tout autre dispositif permettant d'atteindre un résultat équivalent : □ Oui □ Non
+
+A ne remplir que si les marque et référence de l'isolant posé ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque(s) :
+
+* Référence(s) :
+
+NB1 : la résistance thermique R doit être supérieure ou égale à 6 m2.K/W. Elle est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants.
+
+NB2 : dans le cas d'une pose superposée de plusieurs isolants, indiquer les marque et référence de chacun des isolants posés ainsi que le R global et pour la surface d'isolant posée, la surface résultant de la superposition des isolants.
+
+Opération n° BAT-EN-102
+
+Isolation des murs |
+
+1. Secteur d'application
+
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
+
+2. Dénomination
+
+Mise en place d'un doublage isolant (complexe ou sur ossature) sur murs par l'intérieur ou par l'extérieur.
+
+La présente fiche est abrogée à compter du 1er mai 2027.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+La résistance thermique R de l'isolation installée est supérieure ou égale à 3,7 m2. K/ W.
+
+La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants.
+
+La preuve de la réalisation de l'opération mentionne :
+
+-la mise en place d'une isolation des murs ;
+
+-et la surface d'isolant installé ;
+
+-et la résistance thermique de l'isolation mise en place évaluée, suivant la nature de l'isolant, selon l'une des normes susvisées.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un matériau avec ses marque et référence et la surface de matériau installée, et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Ce document indique que le matériau de marque et référence mis en place est un isolant et précise ses caractéristiques thermiques (résistance thermique ; ou conductivité thermique et épaisseur) évaluées, suivant la nature de l'isolant, selon l'une des normes susvisées. En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité. Pour les références proposées en différentes épaisseurs, la preuve de réalisation, si elle ne mentionne pas la résistance thermique de l'isolation installée, doit impérativement en préciser l'épaisseur.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+Montant en kWh cumac par m2 d'isolant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Zone climatique |
+
+Energie de chauffage |
+
+|
+
+Secteur d'activité |
+
+Facteur correctif |
+
+|
+
+Surface d'isolant
+
+en m2 |
+
+Electricité |
+
+Combustible |
+
+X |
+
+Bureaux, Enseignement,
+
+Commerces |
+
+0,6 |
+
+X |
+
+S |
+
+H1 |
+
+3 000 |
+
+4 800 |
+
+H2 |
+
+2 500 |
+
+3 900 |
+
+Hôtellerie-Restauration |
+
+0,7 |
+
+Santé |
+
+1,3 |
+
+H3 |
+
+1 600 |
+
+2 600 |
+
+Autres secteurs |
+
+0,6 |
+
+Annexe 1 à la fiche d'opération standardisée BAT-EN-102, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAT-EN-102 (v. A64.3) : Mise en place d'un doublage isolant (complexe ou sur ossature) sur murs par l'intérieur ou par l'extérieur
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment tertiaire existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+
+* Secteur d'activité :
+
+□ Bureaux □ Enseignement □ Hôtellerie / Restauration □ Santé
+
+□ Commerces □ Autres secteurs
+
+*Energie de chauffage : □Electricité □ Combustible
+
+Caractéristiques de l'isolant posé (l'isolation est réalisée entre un espace chauffé et un espace non chauffé) :
+
+* Surface d'isolant posé (m2) :
+
+* Résistance thermique : R (m2.K/W) :
+
+A ne remplir que si la résistance thermique n'est pas mentionnée sur la preuve de réalisation de l'opération :
+
+* Epaisseur (mm) :
+
+A ne remplir que si les marque et référence de l'isolant posé ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque(s) :
+
+* Référence(s) :
+
+NB1 : la résistance thermique R doit être supérieure ou égale à 3,7 m2.K/W. Elle est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants.
+
+NB2 : dans le cas d'une pose superposée de plusieurs isolants, indiquer les marque et référence de chacun des isolants posés ainsi que le R global et pour la surface d'isolant posée, la surface résultant de la superposition des isolants.
+
+Opération n° BAT-EN-103
+
+Isolation d'un plancher |
+
+1. Secteur d'application
+
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
+
+2. Dénomination
+
+Mise en place d'un doublage isolant sur/ sous plancher bas situé sur un sous-sol non chauffé, sur un vide sanitaire ou sur un passage ouvert.
+
+La présente fiche est abrogée à compter du 1er mai 2027.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+La résistance thermique R de l'isolation installée est supérieure ou égale à 3 m2. K/ W.
+
+La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants.
+
+Un pare-vapeur ou tout autre dispositif permettant d'atteindre un résultat équivalent est mis en place, lorsqu'il est nécessaire de protéger les matériaux d'isolation thermique contre les transferts d'humidité pour garantir la performance de l'ouvrage.
+
+Un délai minimal de sept jours francs est respecté entre la date d'acceptation du devis et la date début des travaux (pose de l'isolant).
+
+Une opération ne peut être engagée moins de douze mois suivant l'engagement d'une opération portant sur un même bâtiment et un même bénéficiaire.
+
+La preuve de la réalisation de l'opération mentionne :
+
+-la mise en place d'une isolation d'un plancher ; et
+
+-la surface d'isolant installé ; et
+
+-la résistance thermique de l'isolation mise en place évaluée, suivant la nature de l'isolant, selon l'une des normes susvisées.
+
+-les aménagements nécessaires à la mise en place de l'isolation (coffrage ou écran de protection autour des conduits de fumées et des dispositifs d'éclairage encastrés ; rehausse rigide au niveau de la trappe d'accès ; pare-vapeur ou tout autre dispositif équivalent lorsqu'il est nécessaire de protéger les matériaux d'isolation thermique contre les transferts d'humidité pour garantir la performance de l'ouvrage).
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un matériau avec ses marque et référence et la surface de matériau installée, et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Ce document indique que le matériau de marque et référence mis en place est un isolant et précise ses caractéristiques thermiques (résistance thermique ; ou conductivité thermique et épaisseur) évaluées, suivant la nature de l'isolant, selon l'une des normes susvisées. En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité. Pour les références proposées en différentes épaisseurs, la preuve de réalisation, si elle ne mentionne pas la résistance thermique de l'isolation installée, doit impérativement en préciser l'épaisseur.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+Zone climatique |
+
+Montant en kWh cumac par m2 d'isolant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Secteur d'activité |
+
+Facteur correctif |
+
+|
+
+Surface d'isolant
+
+en m2 |
+
+X |
+
+Bureaux, Enseignement,
+
+Commerces |
+
+0,6 |
+
+X |
+
+S |
+
+H1 |
+
+5 200 |
+
+H2 |
+
+4 200 |
+
+Hôtellerie-Restauration |
+
+0,7 |
+
+Santé |
+
+1,2 |
+
+H3 |
+
+2 800 |
+
+Autres secteurs |
+
+0,6 |
+
+Annexe 1 à la fiche d'opération standardisée BAT-EN-103, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAT-EN-103 (v. A64.4) : Mise en place d'un doublage isolant sur/sous plancher bas situé sur un sous-sol non chauffé, sur un vide sanitaire ou sur un passage ouvert.
+
+*Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+NB : Une opération ne peut être engagée moins de douze mois suivant l'engagement d'une opération portant sur un même bâtiment et un même bénéficiaire.
+
+*Date de début des travaux (pose de l'isolant) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Nom du site des travaux ou nom de la copropriété :
+
+*Adresse des travaux :
+
+Complément d'adresse :
+
+*Code postal :
+
+*Ville :
+
+*Bâtiment tertiaire existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+
+*Secteur d'activité :
+
+□ Bureaux □ Enseignement □ Hôtellerie / Restauration □ Santé
+
+□ Commerces □ Autres secteurs
+
+*Energie de chauffage : □ Electricité □ Combustible
+
+Caractéristiques de l'isolant posé (l'isolation est réalisée entre un espace chauffé et un espace non chauffé) :
+
+*Surface d'isolant posé (m2) :
+
+*Résistance thermique : R (m2.K/W) :
+
+A ne remplir que si la résistance thermique n'est pas mentionnée sur la preuve de réalisation de l'opération :
+
+*Epaisseur (mm) :
+
+L'isolation thermique réalisée a nécessité la mise en place d'un pare-vapeur ou tout autre dispositif permettant d'atteindre un résultat équivalent : □ Oui □ Non
+
+A ne remplir que si les marque et référence de l'isolant posé ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+*Marque(s) :
+
+*Référence(s) :
+
+NB1 : la résistance thermique R doit être supérieure ou égale à 3 m2.K/W. Elle est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants.
+
+NB2 : dans le cas d'une pose superposée de plusieurs isolants, indiquer les marque et référence de chacun des isolants posés ainsi que le R global et pour la surface d'isolant posée, la surface résultant de la superposition des isolants.
 
 -Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération standardisée n° BAT-EN-104
 
@@ -24,13 +506,323 @@ Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TR
 
 Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-EN-104, figurant en annexe D dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
 
--Isolation des combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-106
+Opération n° BAT-EN-106
 
-Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
+Isolation de combles ou de toitures
 
--Isolation des toitures-terrasses / Fiche d’opération standardisée n° BAT-EN-107
+(France d'outre-mer) |
 
-Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
+1. Secteur d'application
+
+Bâtiments tertiaires existants ou neufs, en France d'outre-mer.
+
+2. Dénomination
+
+Mise en place d'une isolation thermique en comble perdu, en rampant de toiture ou en toiture terrasse.
+
+La présente fiche est abrogée à compter du 1er mai 2027.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+La résistance thermique R de l'isolation installée est supérieure ou égale à 1,2 m2. K/ W.
+
+La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants.
+
+Un délai minimal de sept jours francs est respecté entre la date d'acceptation du devis et la date de début des travaux (pose de l'isolant).
+
+La preuve de la réalisation de l'opération mentionne :
+
+-la mise en place d'une isolation ;
+
+-la surface d'isolant installé ;
+
+-la résistance thermique de l'isolation installée ;
+
+-les aménagements nécessaires à la mise en place de l'isolation (coffrage ou écran de protection autour des conduits de fumées et des dispositifs d'éclairage encastrés ; rehausse rigide au-dessus de la trappe d'accès).
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un matériau avec ses marque et référence et la surface installée, et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Ce document indique que le matériau de marque et référence mis en place est un isolant et précise ses caractéristiques thermiques (résistance thermique ; ou conductivité thermique et épaisseur) évaluées, suivant la nature de l'isolant, selon l'une des normes susvisées. En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité. Pour les références proposées en différentes épaisseurs, la preuve de réalisation, si elle ne mentionne pas la résistance thermique de l'isolation installée, doit impérativement en préciser l'épaisseur.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+Secteur d'activité |
+
+Montant en kWh cumac par m2 d'isolant posé |
+
+|
+
+Surface d'isolant posé (m2) |
+
+Bâtiment existant |
+
+Bâtiment neuf |
+
+|
+
+Bureaux |
+
+1 400 |
+
+1 000 |
+
+X |
+
+S |
+
+Commerce |
+
+1 800 |
+
+1 300 |
+
+Hôtellerie |
+
+2 800 |
+
+2 000 |
+
+Enseignement |
+
+1 600 |
+
+1 100 |
+
+Santé |
+
+2 500 |
+
+1 800 |
+
+Autres secteurs |
+
+1 400 |
+
+1 000 |
+
+Annexe 1 à la fiche d'opération standardisée BAT-EN-106, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAT-EN-106 (v. A64.3) : Mise en place d'une isolation thermique en comble perdu, en rampant de toiture ou en toiture terrasse
+
+*Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+*Date de début des travaux (pose de l'isolant) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+*Nom du site des travaux ou nom de la copropriété :
+
+*Adresse des travaux :
+
+Complément d'adresse :
+
+*Code postal :
+
+*Ville :
+
+*Bâtiment tertiaire en France d'outre-mer : □ OUI □ NON
+
+*Type de construction :
+
+□ Existant
+
+□ Neuf
+
+*Secteur d'activité :
+
+□ Bureaux □ Enseignement □ Hôtellerie □ Santé □ Commerces □ Autres secteurs
+
+Caractéristiques de l'isolant posé :
+
+*Surface d'isolant posé (m2) :
+
+*Résistance thermique R (m2.K/W) :
+
+NB1 : la résistance thermique R doit être supérieure ou égale à 1,2 m2.K/W.
+
+NB2 : La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants.
+
+A ne remplir que si la résistance thermique n'est pas mentionnée sur la preuve de réalisation de l'opération :
+
+*Epaisseur (mm) :
+
+A ne remplir que si les marque et référence de l'isolant posé ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+*Marque(s) :
+
+*Référence(s) :
+
+Opération n° BAT-EN-107
+
+Isolation des toitures-terrasses |
+
+1. Secteur d'application
+
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
+
+2. Dénomination
+
+Mise en place d'un doublage extérieur isolant en toiture terrasse ou couverture de pente inférieure à 5 %.
+
+La présente fiche est abrogée à compter du 1er mai 2027.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+La résistance thermique R de l'isolation installée est supérieure ou égale à 4,5 m2. K/ W.
+
+La résistance thermique est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants.
+
+La preuve de la réalisation de l'opération mentionne :
+
+-la mise en place d'une isolation de toiture-terrasse ; et
+
+-la surface d'isolant installé ; et
+
+-la résistance thermique de l'isolation mise en place évaluée, suivant la nature de l'isolant, selon l'une des normes susvisées.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un matériau avec ses marque et référence et la surface de matériau installée, et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Ce document indique que le matériau de marque et référence mis en place est un isolant et précise ses caractéristiques thermiques (résistance thermique ; ou conductivité thermique et épaisseur) évaluées, suivant la nature de l'isolant, selon l'une des normes susvisées. En cas de mention d'une date de validité, ce document est considéré comme valable jusqu'à un an après sa date de fin de validité. Pour les références proposées en différentes épaisseurs, la preuve de réalisation, si elle ne mentionne pas la résistance thermique de l'isolation installée, doit impérativement en préciser l'épaisseur.
+
+4. Durée de vie conventionnelle
+
+30 ans.
+
+5. Montant de certificats en kWh cumac
+
+Montant en kWh cumac par m2 d'isolant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Zone climatique |
+
+Energie de chauffage |
+
+|
+
+Secteur d'activité |
+
+Facteur correctif |
+
+|
+
+Surface d'isolant
+
+en m2 |
+
+Electricité |
+
+Combustible |
+
+X |
+
+Bureaux, Enseignement,
+
+Commerces |
+
+0,6 |
+
+X |
+
+S |
+
+H1 |
+
+1 800 |
+
+2 800 |
+
+H2 |
+
+1 500 |
+
+2 300 |
+
+Hôtellerie-Restauration |
+
+0,7 |
+
+Santé |
+
+1,3 |
+
+H3 |
+
+1 000 |
+
+1 500 |
+
+Autres secteurs |
+
+0,6 |
+
+Annexe 1 à la fiche d'opération standardisée BAT-EN-107, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAT-EN-107 (v. A64.3) : Mise en place d'un doublage extérieur isolant en toiture-terrasse ou couverture de pente inférieure à 5 %
+
+*Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Nom du site des travaux ou nom de la copropriété :
+
+*Adresse des travaux :
+
+Complément d'adresse :
+
+*Code postal :
+
+*Ville :
+
+*Bâtiment tertiaire existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+
+*Secteur d'activité :
+
+□ Bureaux □ Enseignement □ Hôtellerie / Restauration □ Santé
+
+□ Commerces □ Autres secteurs
+
+*Energie de chauffage : □ Electricité □ Combustible
+
+Caractéristiques de l'isolant posé :
+
+*Surface d'isolant posé (m2) :
+
+*Résistance thermique : R (m2.K/W) :
+
+A ne remplir que si la résistance thermique n'est pas mentionnée sur la preuve de réalisation de l'opération :
+
+*Epaisseur (mm) :
+
+A ne remplir que si les marque et référence de l'isolant posé ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+*Marque(s) :
+
+*Référence(s) :
+
+NB1 : la résistance thermique R doit être supérieure ou égale à 4,5 m2.K/W. Elle est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non réfléchissants et selon la norme NF EN ISO 22097 pour les isolants réfléchissants.
+
+NB2 : dans le cas d'une pose superposée de plusieurs isolants, indiquer les marque et référence de chacun des isolants posés ainsi que le R global et pour la surface d'isolant posée, la surface résultant de la superposition des isolants.
 
 -Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-108
 
@@ -303,3 +1095,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Conformément à l’article 7 de l’arrêté du 18 novembre 2024 (NOR : TECR2428116A), les fiches remplacées conformément à l’article 1er dudit arrêté s'appliquent aux opérations engagées à compter du 1er janvier 2025.

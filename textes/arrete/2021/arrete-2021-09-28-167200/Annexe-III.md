@@ -396,33 +396,33 @@ Les critères suivants doivent conduire à un classement “ non satisfaisant �
 
 7) Des non-qualités au regard des référentiels de contrôle ou des non-qualités manifestes sont relevées, susceptibles, notamment, de remettre en cause la classe du bâtiment rénové, la pérennité des travaux ou les émissions annuelles de gaz à effet de serre après rénovation, ou susceptibles de remettre en cause la sécurité des installations ou l'usage normal des lieux ; à cette fin, l'organisme d'inspection se fonde, le cas échéant, sur les listes des éléments à contrôler de la présente annexe III correspondant aux travaux réalisés geste par geste, à l'exception des parties A. 1.1, B. 1.1.1, C. I. A, D. I. A et F. I. A.
 
-E ter. Fiche d'opération standardisée BAR-TH-177 “ Rénovation globale d'un bâtiment résidentiel collectif (France métropolitaine) ” :
+E ter. Fiche d'opération standardisée BAR-TH-177 " Rénovation globale d'un bâtiment résidentiel collectif (France métropolitaine) " :
 
-Le contrôle de ces opérations est réalisé sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance énergétique, la pérennité ou la sécurité des matériaux et équipements doit conduire à classer l'opération en “ non satisfaisant ”.
+Le contrôle de ces opérations est réalisé sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance énergétique, la pérennité ou la sécurité des matériaux et équipements doit conduire à classer l'opération en " non satisfaisant ".
 
-L'organisme d'inspection mène des opérations de contrôle en fin de phase d'audit énergétique et avant la réalisation des travaux (cf. partie E ter. I ci-dessous) et à l'achèvement des travaux (cf. partie E ter. II ci-dessous).
+L'organisme d'inspection mène des opérations de contrôle en fin de phase d'audit énergétique et avant la réalisation des travaux (cf. partie E ter.I ci-dessous) et à l'achèvement des travaux (cf. partie E ter.II ci-dessous).
 
-E ter. I. En fin de phase d'audit énergétique, l'organisme d'inspection réalise un contrôle du contenu de l'audit énergétique, et vérifie, lors d'une visite sur site, la cohérence avec les données d'entrée de la situation initiale de l'audit.
+E ter.I. - En fin de phase d'audit énergétique, l'organisme d'inspection réalise un contrôle du contenu de l'audit énergétique, et vérifie, lors d'une visite sur site, la cohérence avec les données d'entrée de la situation initiale de l'audit.
 
-E ter. I. 1 Contrôle du contenu de l'audit énergétique :
+E ter.I.1. Contrôle du contenu de l'audit énergétique :
 
-Les critères suivants doivent conduire à un classement “ non satisfaisant ” de l'opération :
+Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération :
 
 1) L'audit énergétique n'a pas été réalisé à l'aide d'un logiciel répondant aux exigences de la fiche d'opération standardisée BAR-TH-177 ; le rapport de contrôle mentionne, dans tous les cas, le nom et la version du logiciel utilisé ;
 
 2) L'audit énergétique ne mentionne pas les valeurs des consommations conventionnelles en énergie primaire et en énergie finale avant et après l'opération ;
 
-3) Il est constaté un écart de surface habitable de plus de 10 % (écart = (surface déclarée-surface mesurée)/ surface mesurée * 100) ; la surface mesurée correspond à une surface évaluée par l'organisme d'inspection ;
+3) Il est constaté un écart de surface habitable de plus de 10 % (écart = (surface déclarée - surface mesurée) / surface mesurée * 100) ; la surface mesurée correspond à une surface évaluée par l'organisme d'inspection ;
 
 4) L'audit énergétique montre que le niveau de confort thermique de la situation après travaux est inférieur à celui de la situation initiale, y compris en période de rigueur hivernale, notamment au travers de la note de calcul de dimensionnement du nouveau générateur de chauffage le cas échéant ;
 
 5) L'audit énergétique retranche des consommations conventionnelles d'énergies primaire ou finale la production d'électricité autoconsommée ou exportée ;
 
-6) L'audit énergétique prend en compte des installations de chauffage qui ne sont pas fixes ;
+6) L'audit énergétique prend en compte des installations de chauffage qui ne sont pas fixes.
 
-E ter. I. 2 Dans le cas où l'opération s'inscrit dans le cadre du Coup de pouce “ Rénovation performante de bâtiment résidentiel collectif ”, l'organisme d'inspection identifie, dans le rapport d'audit, les scénarios de travaux qui satisfont aux critères du Coup de pouce sur la base des critères suivants, et donne un avis “ non satisfaisant ” dès lors qu'aucun scénario de travaux ne satisfait à ces critères :
+E ter.I.2. Dans le cas où l'opération s'inscrit dans le cadre du Coup de pouce " Rénovation performante de bâtiment résidentiel collectif ", l'organisme d'inspection identifie, dans le rapport d'audit, les scénarios de travaux qui satisfont aux critères du Coup de pouce sur la base des critères suivants, et donne un avis " non satisfaisant " dès lors qu'aucun scénario de travaux ne satisfait à ces critères :
 
-7) La consommation conventionnelle annuelle en énergie primaire après travaux, rapportée à la surface de référence du bâtiment, est inférieure à 331 kWh/ (m2. an) ;
+7) La consommation conventionnelle annuelle en énergie primaire après travaux, rapportée à la surface de référence du bâtiment, est inférieure à 331 kWh/(m2.an) ;
 
 8) La baisse de consommation conventionnelle annuelle en énergie primaire est conforme à celle attendue par la fiche d'opération standardisée BAR-TH-177 ;
 
@@ -430,21 +430,21 @@ E ter. I. 2 Dans le cas où l'opération s'inscrit dans le cadre du Coup de pouc
 
 10) Les changements d'équipements de chauffage ou de production d'eau chaude sanitaire le cas échéant préconisés, hors raccordement à un réseau de chaleur, ne conduisent :
 
-a . ni à l'installation d'équipements de chauffage ou de production d'eau chaude sanitaire consommant du charbon ou du fioul ;
+a. Ni à l'installation d'équipements de chauffage ou de production d'eau chaude sanitaire consommant du charbon ou du fioul ;
 
-b . ni à l'installation d'un système de chauffage ou de production d'eau chaude sanitaire incluant l'installation d'au moins une chaudière au gaz, dont le taux de couverture défini comme le rapport entre la quantité de chaleur fournie par l'ensemble des chaudières au gaz du système et les besoins annuels de chaleur pour les usages couverts par le système, est supérieur à 30 % ;
+b. Ni à l'installation d'un système de chauffage ou de production d'eau chaude sanitaire incluant l'installation d'au moins une chaudière au gaz, dont le taux de couverture défini comme le rapport entre la quantité de chaleur fournie par l'ensemble des chaudières au gaz du système et les besoins annuels de chaleur pour les usages couverts par le système, est supérieur à 30 % ;
 
-c . ni à une hausse des émissions de gaz à effet de serre.
+c. Ni à une hausse des émissions de gaz à effet de serre.
 
-E ter. I. 3 Dans le cas où l'opération ne s'inscrit pas dans le cadre du Coup de pouce, l'organisme d'inspection identifie, dans le rapport d'audit, les scénarios de travaux qui satisfont aux critèresde la fiche d'opération standardisée BAR-TH-177 sur la base des critères suivants, et donne un avis “ non satisfaisant ” dès lors qu'aucun scénario de travaux ne satisfait à ces critères :
+E ter.I.3. Dans le cas où l'opération ne s'inscrit pas dans le cadre du Coup de pouce, l'organisme d'inspection identifie, dans le rapport d'audit, les scénarios de travaux qui satisfont aux critèresde la fiche d'opération standardisée BAR-TH-177 sur la base des critères suivants, et donne un avis " non satisfaisant " dès lors qu'aucun scénario de travaux ne satisfait à ces critères :
 
-11) La consommation conventionnelle annuelle en énergie primaire après travaux, rapportée à la surface de référence du bâtiment, est inférieure à 331 kWh/ (m2. an) ;
+11) La consommation conventionnelle annuelle en énergie primaire après travaux, rapportée à la surface de référence du bâtiment, est inférieure à 331 kWh/(m2.an) ;
 
 12) La baisse de consommation conventionnelle annuelle en énergie primaire est conforme à celle attendue par la fiche d'opération standardisée BAR-TH-177 ;
 
 13) Les émissions annuelles de gaz à effet de serre après rénovation, rapportées à la surface de référence du bâtiment, sont inférieures ou égales à la valeur initiale de ces émissions avant travaux.
 
-E ter. I. 4 Le contrôle de l'audit énergétique conduit, par ailleurs, à un résultat “ non satisfaisant ” dès lors qu'un écart manifeste est constaté entre les données d'entrée de la situation initiale utilisées dans l'audit énergétique et les éléments constatés lors de la visite sur site (avant travaux), concernant les points suivants :
+E ter.I.4. Le contrôle de l'audit énergétique conduit, par ailleurs, à un résultat " non satisfaisant " dès lors qu'un écart manifeste est constaté entre les données d'entrée de la situation initiale utilisées dans l'audit énergétique et les éléments constatés lors de la visite sur site (avant travaux), concernant les points suivants :
 
 14) Niveau d'isolation des parois du bâtiment, et surfaces mises en jeu ;
 
@@ -457,6 +457,20 @@ E ter. I. 4 Le contrôle de l'audit énergétique conduit, par ailleurs, à un r
 18) Description des systèmes de ventilation ;
 
 19) Description des systèmes de refroidissement, le cas échéant.
+
+E ter.II. - Contrôles à l'achèvement des travaux :
+
+L'organisme d'inspection s'assure d'un avis satisfaisant donné à l'audit énergétique.
+
+L'organisme d'inspection réalise l'inspection sur le lieu de l'opération.
+
+Les critères suivants doivent conduire à un classement non satisfaisant de l'opération :
+
+1) Les travaux réalisés ne font pas partie des scénarios de travaux de l'audit énergétique éligibles au Coup de pouce Rénovation performante de bâtiment résidentiel collectif, alors que l'opération s'inscrit dans ce Coup de pouce ; ou, pour les opérations hors Coup de pouce, les travaux réalisés ne font pas partie des scénarios de travaux de l'audit énergétique respectant les critères de la fiches d'opération standardisée BAR-TH-177 ;
+
+2) Un écart est relevé entre les équipements et matériaux mis en place et le scénario retenu de l'audit énergétique ou les factures des travaux en quantité et en qualité (performances thermiques et énergétiques) ;
+
+3) Des non-qualités manifestes sont relevées, susceptibles, notamment, de remettre en cause le volume de consommation conventionnelle annuelle d'énergie primaire ou d'énergie finale économisée du bâtiment rénové, la pérennité des travaux ou les émissions annuelles de gaz à effet de serre après rénovation, ou susceptibles de remettre en cause la sécurité des installations ou l'usage normal des lieux ; à cette fin, l'organisme d'inspection se fonde, le cas échéant, sur les listes des éléments à contrôler de la présente annexe III correspondant aux travaux réalisés geste par geste, à l'exception des parties A. 1 (point 3), B. 1.1.1, C. I. A, D. I. A et F. I. A.” ;
 
 F.-Fiche d'opération standardisée BAR-TH-159 " Pompe à chaleur hybride individuelle " :
 

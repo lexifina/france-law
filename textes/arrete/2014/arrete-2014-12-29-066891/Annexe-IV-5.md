@@ -1,6 +1,8 @@
 # Article Annexe IV-5
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 300 du 28 décembre 2023, texte n° 100, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=QRgTaQfM0balM0WO-DVjXpwWNLb9rmqINmyEx1QxYqg=
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible au lien suivant :
+
+https://www.legifrance.gouv.fr/download/pdf?id=t4u1izLUq57SYHk5Z94ux-CYmb_NW4v-_mh_fgozqVE=
 
 Engagement pris par : (1) N° SIREN :
 
@@ -10,13 +12,11 @@ Date de la notification du statut de délégataire par le PNCEE ://
 
 Adresse du siège social du signataire :
 
-Date de prise d'effet de la charte (postérieure à la date de signature) ://
-
-Je participe à l'opération " Coup de pouce Rénovation d'ampleur des maisons et appartements individuels ", dans le cadre du dispositif des certificats d'économies d'énergie (CEE). Cette opération a pour objectif d'inciter financièrement les propriétaires de maisons individuelles ou d'appartements individuels en France métropolitaine à réaliser une rénovation d'ampleur de leur patrimoine immobilier.
+Date de prise d'effet de la charte (postérieure à la date de signature) :// Je participe à l'opération " Coup de pouce Rénovation d'ampleur des maisons et appartements individuels ", dans le cadre du dispositif des certificats d'économies d'énergie (CEE). Cette opération a pour objectif d'inciter financièrement les propriétaires de maisons individuelles ou d'appartements individuels en France métropolitaine à réaliser une rénovation d'ampleur de leur patrimoine immobilier.
 
 Je suis informé du fait que je ne peux pas proposer l'offre " Coup de pouce Rénovation d'ampleur des maisons et appartements individuels " à une personne physique propriétaire occupant ou bailleur d'un logement occupé à titre de résidence principale, ou une personne physique titulaire d'un droit réel immobilier conférant l'usage d'un logement occupé à titre de résidence principale.
 
-OFFRES FINANCIÈRES
+Offres financières
 
 Je m'engage à mettre en place une offre pour la rénovation d'ampleur des maisons individuelles ou des appartements individuels, au moyen de travaux conformes à la fiche d'opération standardisée CEE BAR-TH-174 " Rénovation d'ampleur d'une maison individuelle (France métropolitaine) " ou à la fiche d'opération standardisée CEE BAR-TH-175 " Rénovation d'ampleur d'un appartement (France métropolitaine) " en vigueur.
 
@@ -26,11 +26,17 @@ L'incitation financière s'établit aux valeurs minimales suivantes pour les mai
 
 Nombre de sauts de classe |
 
-Montant minimum en € |
+Montant
+
+minimum
+
+en € |
 
 |
 
-Facteur correctif selon la surface habitable Shab |
+Facteur correctif selon
+
+la surface habitable Shab |
 
 Surface habitable Shab en m2 |
 
@@ -98,11 +104,11 @@ Shab est la surface habitable (exprimée en m2) de la maison avant les travaux d
 
 La date d'engagement de l'opération est égale ou postérieure à la date de prise d'effet de la charte.
 
-COUVERTURE GÉOGRAPHIQUE
+Couverture géographique
 
 Je m'engage à proposer cette offre en France métropolitaine dans au moins 10 départements ou une région ou une métropole.
 
-OBJECTIF
+Objectif
 
 Je m'engage à suivre mensuellement le déploiement de mes offres au travers des critères suivants :
 
@@ -116,15 +122,15 @@ Je m'engage à suivre mensuellement le déploiement de mes offres au travers des
 
 -le montant des travaux engagés et le montant des travaux achevés ;
 
--le montant des contributions financières associées aux offres proposées, aux travaux de rénovation engagés et aux travaux de rénovation achevés ainsi que le montant des primes versées.
+-le montant des contributions financières associées aux offres proposées, aux travaux de rénovation engagés et aux travaux de rénovation achevés ainsi que le montant des primes versées ;
 
 -le nombre de logements faisant l'objet de travaux de changement de chauffage engagés et achevés, en distinguant l'énergie de chauffage remplacée (fioul, charbon, gaz, électricité) et l'énergie de chauffage après travaux.
 
-CUMUL DES AIDES
+Cumul des aides
 
 Les offres financières prévues par la présente charte ne sont pas cumulables avec les autres incitations mises en place dans le cadre du dispositif des certificats d'économies d'énergie en particulier avec les aides de l'Agence nationale de l'habitat valorisant les certificats d'économies d'énergie des travaux subventionnés.
 
-ACCOMPAGNEMENT DES BÉNÉFICIAIRES
+Accompagnement des bénéficiaires
 
 Je m'engage à proposer à chaque bénéficiaire, directement ou par l'intermédiaire d'un partenaire, une prestation d'assistance à maîtrise d'ouvrage afin de l'assister dans la réalisation du projet notamment sur le choix des options techniques, la sélection des professionnels intervenant, le suivi des travaux et leur réception, de constituer son plan de financement et de l'aider dans sa démarche pour l'obtention des aides auxquelles il peut prétendre. Le bénéficiaire formule par écrit sa décision sur l'acceptation ou le refus des prestations proposées.
 
@@ -132,9 +138,9 @@ Je m'engage à proposer des solutions de financement conduisant à un plan de fi
 
 Je m'engage à diffuser auprès des bénéficiaires de mes offres des informations sur le réseau France Rénov'.
 
-SITE INTERNET
+Site internet
 
-Je m'engage, avant la prise d'effet de ma charte, à présenter mes offres et mes engagements résultant de la présente charte au travers d'un site Internet accessible aux bénéficiaires de mes offres comprenant notamment :
+Je m'engage, avant la prise d'effet de ma charte, à présenter mes offres et mes engagements résultant de la présente charte au travers d'un site internet accessible aux bénéficiaires de mes offres comprenant notamment :
 
 -une présentation du dispositif, de ses objectifs et des offres proposées ;
 
@@ -150,13 +156,15 @@ Je m'engage, avant la prise d'effet de ma charte, à présenter mes offres et me
 
 -les informations sur les dispositifs d'aides existants ou les liens renvoyant vers ces informations ainsi que la promotion du réseau France Rénov'.
 
-POLITIQUE DE CONTRÔLE
+Politique de contrôle
 
 Je m'engage à mettre en place une politique de contrôle sur site des opérations relevant de la fiche d'opération standardisée BAR-TH-174 ou de la fiche d'opération standardisée BAR-TH-175, réalisées avec mon concours dans le cadre de la présente charte et à compter de la date de prise d'effet de mon engagement.
 
 Ces contrôles sont réalisés sur chacune des opérations de rénovation d'ampleur réalisées correspondant à la fiche BAR-TH-174 ou la fiche BAR-TH-175, engagées à compter de la date de prise d'effet de mon engagement. Ils sont réalisés préalablement au dépôt de demandes de CEE auprès du Pôle national des certificats d'économies d'énergie (PNCEE).
 
 Ces contrôles sont conduits par un organisme de contrôle accrédité selon la norme NF EN ISO/ CEI 17020 applicable en tant qu'organisme d'inspection de type A pour le domaine " Inspection d'opérations standardisées d'économies d'énergie dans le cadre du dispositif de délivrance des certificats d'économies d'énergie ".
+
+Un organisme de contrôle ne peut effectuer le contrôle d'une opération pour laquelle il a, le cas échéant, réalisé l'audit énergétique.
 
 Chaque opération contrôlée fait l'objet d'un rapport.
 
@@ -180,7 +188,7 @@ Je m'engage à apporter des mesures correctives en cas de problème détecté lo
 
 En cas de mesures correctives jugées insuffisantes, le présent engagement est caduc après mise en demeure par le ministère chargé de l'Energie non suivie d'effets.
 
-RECONNAISSANCE ET SUIVI DE MON ENGAGEMENT
+Reconnaissance et suivi de mon engagement
 
 Afin de faire reconnaître mon engagement dans cette opération, je transmets à la Direction générale de l'énergie et du climat (DGEC) :
 
@@ -188,17 +196,17 @@ Afin de faire reconnaître mon engagement dans cette opération, je transmets à
 
 -les références de l'offre d'incitation financière répondant à la présente charte, que je m'engage à mettre en œuvre dans les 60 jours suivant sa signature : nom commercial de l'offre, coordonnées du porteur de l'offre, lien internet de présentation de l'offre et coordonnées de contact pour les bénéficiaires.
 
-Dès publication des références de mon offre sur le site Internet du ministère chargé de l'énergie, je serai autorisé à :
+Dès publication des références de mon offre sur le site internet du ministère chargé de l'énergie, je serai autorisé à :
 
 -utiliser la dénomination " Coup de pouce Rénovation d'ampleur des maisons et appartements individuels " ;
 
 -bénéficier de la bonification prévue par l'article 3-5-2 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, pour les opérations engagées jusqu'au 31 décembre 2025 inclus, et achevées d'ici le 31 décembre 2026.
 
-Je prends acte que je peux mettre fin à mon engagement dans les conditions fixées à l'article 3-8 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie et que le ministre chargé de l'énergie peut retirer le bénéfice des droits attachés à la présente charte, en cas de manquement à cette charte ou aux dispositions relatives aux certificats d'économies d'énergie, après mise en demeure non suivie d'effet. Mes offres sont alors retirées du site Internet du ministère chargé de l'énergie et je m'engage à supprimer toute référence à mon engagement dès que ma charte est résiliée ou m'est retirée.
+Je prends acte que je peux mettre fin à mon engagement dans les conditions fixées à l'article 3-8 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie et que le ministre chargé de l'énergie peut retirer le bénéfice des droits attachés à la présente charte, en cas de manquement à cette charte ou aux dispositions relatives aux certificats d'économies d'énergie, après mise en demeure non suivie d'effet. Mes offres sont alors retirées du site internet du ministère chargé de l'énergie et je m'engage à supprimer toute référence à mon engagement dès que ma charte est résiliée ou m'est retirée.
 
-Fait à
+Fait à.
 
-Le...../...../.....
+Le//
 
 (Nom et qualité du signataire, signature et cachet)
 
