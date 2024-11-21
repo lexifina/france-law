@@ -1,0 +1,11 @@
+# COMMUNE DE BROUALAN : délibération BROUALAN202445D — CONSTRUCTION DE LA SALLE POLYVALENTE ACTUALISATION DU PLAN DE FINANCEMENT  PREVISIONNEL ET DES DEMANDES DE SUBVENTIONS
+
+- Collectivité : COMMUNE DE BROUALAN
+- SIRET : 21350044000010
+- Code INSEE : 35044
+- Date : 2024-11-21
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : CONSTRUCTION DE LA SALLE POLYVALENTE ACTUALISATION DU PLAN DE FINANCEMENT  PREVISIONNEL ET DES DEMANDES DE SUBVENTIONS
+- Transmis à la préfecture : 2024-11-25 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500440/Deliberation/2024/746129/96312eb0ccd549ef5302857ff4c7bc4dbc443c0d3b80927fd9cbd6edcb2c7cb2.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
