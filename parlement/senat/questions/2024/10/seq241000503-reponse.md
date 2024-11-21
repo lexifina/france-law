@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000503
+
+- Question : [SEQ241000503](seq241000503.md) — Interprétation de la notion « de services déjà organisés » dans le cadre du transfert de la compétence mobilité prévu par la loi d'orientation des mobilités
+
+## Réponse
+
+*Transports, JO du 2024-11-21, page 4475*
+
+L'organisation d'un service de transport consiste à décider des modalités d'exécution telles que les itinéraires, les tarifs, le niveau de service, etc. La loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités a redéfini la gouvernance des mobilités autour du couple intercommunalité-région, invitant les communes membres d'une communauté de communes à décider de lui confier ou non la compétence d'autorité organisatrice de la mobilité (AOM) qui reviendrait par défaut à la région. Dans ce dernier cas, en application du II de l article L. 1231-1 du code des transports, une commune peut continuer à organiser les services préexistants et continuer à lever, le cas échéant, le versement mobilité pour les financer. En revanche, la commune ne peut pas créer de nouvelles offres ; l'AOM reste la seule autorité compétente pour développer le bouquet de services de mobilité sur le territoire. Les services préexistants peuvent être exécutés en régie ou confiés à des exploitants par gestion déléguée, au travers de marchés publics ou de conventions de délégations de service public. Dans la mesure où la délégation ne dessaisit pas le titulaire initial de la compétence, la commune est considérée comme l'organisatrice de ces services même si elle les a délégués à une autre entité. En conséquence, quel que soit le mode de gestion choisi, la commune reste responsable de l'organisation des services dont elle a souhaité la poursuite, au sens du II de l article L. 1231-1 du code des transports.
