@@ -36,6 +36,24 @@ de
 
 suppléants |
 
+Agence nationale de l'habitat
+
+|
+
+Le directeur de l'établissement public administratif
+
+le directeur des ressources humaines ou le chef de service des ressources humaines |
+
+7 |
+
+7 |
+
+liste |
+
+63.60 % |
+
+36,40 % |
+
 Agence de l'eau Adour-Garonne |
 
 - le directeur de l'établissement public administratif
