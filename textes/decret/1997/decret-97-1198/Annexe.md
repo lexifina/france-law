@@ -2334,14 +2334,6 @@ Article R. 141-13.
 
 Ministre chargé de l'environnement |
 
-7 |
-
-Agrément des sites naturels de compensation mentionnés à l'article L. 163-3 du code de l'environnement. |
-
-Code de l'environnement Article R. 163-2. |
-
-Ministre chargé de l'environnement |
-
 9 |
 
 Opposition à une délibération à caractère budgétaire ou financier du conseil d'administration d'une agence de l'eau. |
