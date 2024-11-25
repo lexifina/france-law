@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_109 — DELIBERATION 2024-109 FONDS CONCOURS CCTEV - VIDEOPROTECTION OFFICE DU TOURISME
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-11-25
+- Matière : 7.8 Finances locales/Fonds de concours
+- Objet : DELIBERATION 2024-109 FONDS CONCOURS CCTEV - VIDEOPROTECTION OFFICE DU TOURISME
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/41726/68eff5af8881c5beb7cc41d166c3190e16fc5b0c63615025bd69ea8e14ae1c91.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
