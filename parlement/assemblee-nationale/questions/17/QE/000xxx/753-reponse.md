@@ -1,0 +1,9 @@
+# Réponse à la question n° 753
+
+- Question : [753](753.md) — Question n° 753 — Protection des salariés issus d'entreprises britanniques en France
+
+## Réponse
+
+*JO du 2024-11-26, page 6284*
+
+Bien que les salariés français travaillant pour des entreprises britanniques en France soient sous contrat de travail de droit français et bien que leurs employeurs cotisent au régime obligatoire de garantie des salaires (AGS), ils sont exclus du bénéfice de cette garantie en raison du fait que leur employeur a son siège dans un État qui n'est membre ni de l'Union européenne, ni de l'Espace économique européen. En effet, les dispositions de l'article L. 3253-18-1 du code du travail disposent expressément que « les institutions de garantie mentionnées à l'article L. 3253-14 assurent le règlement des créances impayées des salariés qui exercent ou exerçaient habituellement leur activité sur le territoire français, pour le compte d'un employeur dont le siège social, s'il s'agit d'une personne morale, ou, s'il s'agit d'une personne physique, l'activité ou l'adresse de l'entreprise est situé dans un autre Etat membre de la Communauté européenne ou de l'Espace économique européen, lorsque cet employeur se trouve en état d'insolvabilité ». Il n'existe pas pour le moment de négociations en vue de conclure un accord bilatéral entre la France et le Royaume-Uni afin d'étendre le bénéfice de l'Association pour la gestion du régime de garantie des créances des salaires (AGS) aux salariés titulaires d'un contrat de travail de droit français travaillant pour des entreprises britanniques établies en France. Dans le cadre du droit actuellement applicable, il appartient par conséquent aux salariés dont l'employeur britannique se trouve en état d'insolvabilité de saisir les juridictions compétentes au Royaume-Uni.
