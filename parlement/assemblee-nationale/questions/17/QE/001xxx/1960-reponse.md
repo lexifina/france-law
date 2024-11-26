@@ -1,0 +1,9 @@
+# Réponse à la question n° 1960
+
+- Question : [1960](1960.md) — Question n° 1960 — Création d'un statut d'assistant dentaire hygiéniste de niveau II
+
+## Réponse
+
+*JO du 2024-11-26, page 6273*
+
+La profession d'assistant dentaire consiste à assister le chirurgien-dentiste ou le médecin exerçant dans le champ de la chirurgie dentaire dans son activité professionnelle, sous sa responsabilité et son contrôle effectif. Dans ce cadre, l'assistant dentaire contribue aux activités de prévention et d'éducation pour la santé dans le domaine bucco-dentaire. Un groupe de travail portant sur l'extension des compétences des assistants dentaires s'est réuni à de multiples reprises depuis décembre 2023 et les échanges avec les membres se sont poursuivis ces derniers mois. Contrairement à ce qui était attendu par les acteurs, la loi n° 2023-379 du 19 mai 2023 portant amélioration de l'accès aux soins par la confiance aux professionnels de santé, telle qu'elle est ressortie des débats parlementaires ne permet pas d'enregistrer la formation complémentaire requise pour les nouveaux actes réalisables par l'assistant dentaire au répertoire national des certifications professionnelles, entraînant ainsi le maintien des assistants dentaires dans un niveau IV de formation (équivalent bac). Le groupe de travail souhaitait une formation de niveau V (équivalent bac+2). Une modification des dispositions législatives serait alors nécessaire. Ces modifications sont majeures et doivent sécuriser la création d'un nouveau métier distinct de celui des assistants dentaires actuels. Les travaux pourront prochainement reprendre afin de confirmer les modifications législatives. Un projet de décret en Conseil d'Etat fixant la liste des actes des assistants dentaires dits « de niveau II » est en cours de finalisation et sera revu avec le groupe de travail selon les modifications législatives envisagées.
