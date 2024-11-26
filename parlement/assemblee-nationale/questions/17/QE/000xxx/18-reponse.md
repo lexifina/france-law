@@ -1,0 +1,9 @@
+# Réponse à la question n° 18
+
+- Question : [18](18.md) — Question n° 18 — Effectivité de la mise en œuvre du plan vélo national
+
+## Réponse
+
+*JO du 2024-11-26, page 6276*
+
+Le fonds mobilités actives a permis de soutenir plus de 1 200 projets d'aménagements cyclables sur plus de 700 territoires. Le fonds a rendu possible l'engagement de politiques cyclables et a ainsi joué un rôle accélérateur partout en France métropolitaine et dans les outre-mer. Dans un contexte budgétaire exigeant, le Gouvernement poursuit en 2024 et 2025 le redressement clair et déterminé des comptes publics en mettant en œuvre prioritairement une réduction de la dépense publique, en veillant à son efficacité et à la préservation des missions de service public essentielles de l'État. Dans ce contexte inédit de finances publiques, le septième appel à projets du fonds mobilités actives ne sera effectivement pas attribué et aucun nouvel appel à projets ne sera lancé en 2025. Néanmoins, l'ensemble des engagements pris par l'État à hauteur de 641 M€ depuis 2019, auprès des collectivités locales sera assuré. C'est également le cas des 185 M€ de subventions de l'État en faveur des véloroutes prévus au titre des contrats de plan État régions signés ou en cours de l'être. Il revient aux collectivités locales, gestionnaires de voirie, de faire le choix de poursuivre l'aménagement cyclable de leur réseau. Les dotations locales de l'Etat permettent de financer des aménagements pour cela. Enfin, le reste du plan vélo et marche 2023-2027 se poursuit et reste donc une priorité pour le gouvernement : les programmes CEE en faveur du vélo sont actifs et ont été prolongés en 2025 et permettent de soutenir le savoir rouler à vélo, le stationnement, l'émergence de politiques cyclables, etc. L'appel à projets industries du vélo se poursuit également et est en phase d'instruction des premiers dossiers.
