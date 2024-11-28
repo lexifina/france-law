@@ -10,13 +10,11 @@ Type d'engagement |
 
 Nombre
 
-de primes
+maximum
 
-attribuables en 2023 |
+de primes |
 
 Montant
-
-individuel
 
 minimum
 
@@ -24,8 +22,6 @@ de la prime (€) |
 
 Montant
 
-individuel
-
 maximum
 
 de la prime (€) |
@@ -36,7 +32,9 @@ maximum
 
 de primes
 
-attribuables en 2023 |
+attribuables
+
+en 2024 |
 
 Montant
 
@@ -44,42 +42,36 @@ maximum
 
 de primes
 
-payables en 2023 |
+payables en 2024 |
 
-Familles professionnelles/ filières
+Familles professionnelles/filières professionnelles |
 
-professionnelles |
-
-Armée de terre (brigade de sapeurs-pompiers de Paris) |
+Armée de terre / Brigade de sapeurs-pompiers de Paris |
 
 Engagement à servir général (ESG) |
 
-450 |
+482 |
 
 4 000 |
 
 4 000 |
 
-1 800 000 € |
+1 928 000 € |
 
-1 800 000 € |
+1 928 000 € |
 
 Toutes. |
 
 Engagement à servir spécifique (ESS) |
 
-121 |
+142 |
 
 4 000 |
 
 15 000 |
 
-978 300 € |
+850 300 € |
 
-978 300 € |
+850 300 € |
 
-Achats ; communication ; entraînement militaire physique et sportif ; finances ; infrastructure et politique immobilière ; logistique et chaîne logistique ; maintenance des matériels terrestres ; musique ; opérations en milieu terrestre ; gestion des ressources humaines ; restauration hôtellerie et loisirs ; santé sécurité au travail ; sécurité secours incendie ; systèmes d'information et de communication. |
-
-NOTA :
-
-Conformément à l'article 3 de l'arrêté du 25 janvier 2023 (NOR : ARMH2237028A), ces dispositions entrent en vigueur le 1er janvier 2023.
+Achats ; finances ; infrastructure et politique immobilière ; logistique et chaîne logistique ; maintenance des matériels terrestres ; opérations en milieu terrestre ; gestion des ressources humaines ; santé ; sécurité secours incendie ; systèmes d'information et de communication ; santé, sécurité au travail, environnement et développement durable. |
