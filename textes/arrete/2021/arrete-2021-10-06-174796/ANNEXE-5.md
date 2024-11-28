@@ -1,6 +1,6 @@
 # Article ANNEXE 5
 
-1.1. Le signe de qualité mentionné au 5° de l'article 4 du présent arrêté répond à un référentiel d'exigences de moyens et de compétences et est délivré par un organisme accrédité par le Comité français d'accréditation ou tout autre organisme d'accréditation signataire de l'accord multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation.
+1.1. Le signe de qualité mentionné au 5° de l'article 4 du présent arrêté répond à un référentiel d'exigences de moyens et de compétences et est délivré par un organisme disposant d'un agrément tel que défini à l'article R. 125-40 du code de la construction et de l'habitation. Par dérogation, jusqu'au 31 décembre 2024, un tel signe de qualité peut être délivré par un organisme titulaire, à la date du 30 juin 2024, d'une accréditation délivrée par le Comité français d'accréditation ou tout autre organisme d'accréditation signataire de l'accord multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation.
 
 1.2. Pour les travaux d'installation d'une unité de production d'électricité photovoltaïque, et lorsque les compétences mentionnées au 1.1 de cette présente annexe sont acquises grâce à la formation continue, celle-ci est dispensée par un organisme de formation respectant un cahier des charges défini par le point 7 de cette présente annexe. Le respect de ce cahier des charges est contrôlé par un organisme ayant passé une convention avec l'Etat.
 
@@ -633,9 +633,3 @@ Une toiture couverte de tuiles d'au moins 10 m2 et inclinée au moins à 15° (p
 7.3. Prérequis des stagiaires
 
 Selon la configuration de son plateau technique, du contenu de la formation, et des ambitions des employeurs ayant placé les stagiaires en formation, l'organisme de formation s'assure que ledit stagiaire dispose des pré-requis et habilitations suffisantes à son admission en formation.
-
-NOTA :
-
-Conformément à l’article 18 de l’arrêté du 22 décembre 2023 (NOR : ENER2328400A), ces dispositions s'appliquent aux installations dont la demande complète de raccordement est postérieure au 22 décembre 2023. Pour les installations dont la demande complète de raccordement est antérieure au 22 décembre 2023, ce sont les dispositions de l'arrêté du 6 octobre 2021 dans sa version antérieure qui s'appliquent.
-
-Les installations pour lesquelles une demande complète de raccordement a été déposée entre le 1er août 2023 et la veille de l'entrée en vigueur dudit arrêté bénéficient des conditions d'achat découlant des modalités de l'article 9 de cet arrêté.
