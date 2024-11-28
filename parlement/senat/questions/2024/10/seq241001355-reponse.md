@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001355
+
+- Question : [SEQ241001355](seq241001355.md) — Pertes financières subies par les groupements de défense sanitaire
+
+## Réponse
+
+*Agriculture, souveraineté alimentaire et forêt, JO du 2024-11-28, page 4542*
+
+Les organismes à vocation sanitaire (OVS) définis à l'article L. 201-9 du code rural et de la pêche maritime (CRPM) sont « des personnes morales reconnues par l'autorité administrative […] dont l'objet essentiel est la protection de l'état sanitaire des animaux, des végétaux, des produits végétaux, des aliments pour animaux ou des denrées alimentaires d'origine animale, dans le secteur d'activité et l'aire géographique sur lesquels elles interviennent. ». Le mandat de reconnaissance court pour cinq ans et est confié par le préfet de région. En santé animale, les fédérations régionales des groupements de défense sanitaire (FRGDS) reconnues OVS, en lien avec leurs sections départementales, les GDS, se voient ainsi déléguer des missions de contrôles officiels et d'autres activités officielles. Parmi ces missions figurent l'édition et la gestion des attestations sanitaires à délivrance anticipée (ASDA) et des laissez-passer sanitaires (LPS). Le financement des missions déléguées repose sur une contribution des détenteurs d'animaux conformément à l'article L. 201-8 du CRPM. L'État participe néanmoins à ce financement selon les principes exposés dans la note de service DGAL/SDSPA/2019-526 modifiée. Les FRGDS reconnues OVS font face à des factures impayées par certains éleveurs qui perturbent l'équilibre financier de ces structures. Le ministère chargé de l'agriculture travaille actuellement, en lien avec GDS France, à l'élaboration d'une solution réglementaire qui permettra de conforter dans un court terme l'action et le financement des FRGDS reconnues OVS.
