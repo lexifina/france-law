@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001510
+
+- Question : [SEQ241001510](seq241001510.md) — Cas dérogatoire des logements insolites sur des terrains agricoles
+
+## Réponse
+
+*Partenariat territoires et décentralisation, JO du 2024-11-28, page 4571*
+
+Les roulottes et les tipis ne sont pas définis dans le code de l'urbanisme. Leur installation est soumise à des régimes différents selon leurs caractéristiques. Dans tous les cas, il faudra que l'installation respecte les règles de fond en application de l'article L. 421-6 du code de l'urbanisme. En matière de réglementation d'urbanisme, les secteurs d'une commune situés en zones agricoles (A) ou naturelles (N) d'un plan local d'urbanisme ont vocation à être protégés en raison notamment du potentiel agronomique, biologique ou économique des terres agricoles, ou de leur caractère d'espaces naturels. Les constructions et installations nécessaires à l'exploitation agricole peuvent néanmoins y être autorisées, la notion de nécessité à l'exploitation agricole devant être justifiée par le demandeur de l'autorisation d'urbanisme. Il ressort de la jurisprudence que la construction d'hébergements à vocation touristique ne répond pas à cette condition. Ainsi, en matière d'urbanisme, une structure d'accueil touristique complémentaire de l'activité agricole, de type gîte rural ou chambres d'hôtes, n'est pas considérée comme nécessaire à une exploitation agricole et ne peut donc bénéficier à ce titre de l'exception au principe d'inconstructibilité dans les zones agricoles ou naturelles (Conseil d'État, 14 février 2007, n° 282398). La construction d'hébergements insolites sur des terrains situés en zone agricole ou naturelle ne pourra donc être envisagée que dans le cadre de la délimitation de secteurs de taille et de capacité d'accueil limitée (STECAL) pouvant accueillir « des constructions » dans les conditions prévues par l'article L. 151-13 du code de l'urbanisme.
