@@ -2,13 +2,11 @@
 
 ANNEXE I
 
-LOCALISATION DES EMPLOIS À FORTE RESPONSABILITÉ BÉNÉFICIANT DE LA NOUVELLE BONIFICATION INDICIAIRE ET DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER
+LOCALISATION DES EMPLOIS À FORTE RESPONSABILITE BÉNEFICIANT DE LA NOUVELLE BONIFICATION INDICIAIRE ET DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER
 
 1° Périmètre administration centrale, établissements publics et services à compétence nationale
 
-Directions
-
-et services |
+Directions et services |
 
 Fonctions |
 
@@ -16,9 +14,19 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte responsabilité (EFR) |
+Nombre d'emplois
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+à forte responsabilité
+
+(EFR) |
+
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -96,7 +104,7 @@ Chef de la mission du pilotage et de l'appui juridique aux territoires au sein d
 
 1 |
 
-Chef du bureau du droit et des procédures d'expulsion au sein de la sous-direction des polices administratives |
+Adjoint au chef de bureau central des cultes |
 
 30 |
 
@@ -246,7 +254,7 @@ Chef du bureau de la synthèse, du patrimoine et de la stratégie au sein de la 
 
 1 |
 
-Adjoint au chef du centre des prestations financières au sein de la sous-direction de la performance financière |
+Chef du centre des prestations financières au sein de la sous-direction de la performance financière |
 
 30 |
 
@@ -406,11 +414,13 @@ Chef du bureau de la relation avec les opérateurs et agences |
 
 1 |
 
+|
+
 Chef du bureau de la coordination budgétaire au sein de la direction centrale des compagnies républicaines de sécurité |
 
 30 |
 
-- |
+|
 
 1 |
 
@@ -468,7 +478,7 @@ Préfigurateur du bureau des personnels contractuels au sein de la sous-directio
 
 30 |
 
-- |
+|
 
 1 |
 
@@ -479,6 +489,14 @@ Chef du bureau de la prévention et de la qualité de vie au travail au sein de 
 - |
 
 1 |
+
+|
+
+|
+
+|
+
+|
 
 Secrétaire adjoint pour l'administration générale au sein de la direction des ressources humaines, des finances et des soutiens de la police nationale |
 
@@ -758,7 +776,7 @@ Chef du bureau de l'accès à la nationalité au sein de la direction de l'inté
 
 1 |
 
-Adjoint au sous-directeur de l'accès à la nationalité française, chef du département ressources et modernisation au sein de la direction de l'intégration et de l'accès à la nationalité |
+Chef du département ressources et modernisation au sein de la direction de l'intégration et de l'accès à la nationalité française |
 
 - |
 
@@ -952,11 +970,19 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte responsabilité
+Nombre d'emplois
+
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -1166,7 +1192,7 @@ Directeur de l'administration générale et des finances |
 
 1 |
 
-1 poste |
+Chef d'Etat-Major |
 
 20 |
 
@@ -1184,9 +1210,7 @@ Directeur des ressources humaines |
 
 3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
 
-Directions
-
-et services |
+Directions et services |
 
 Fonctions |
 
@@ -1562,9 +1586,15 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte responsabilité (EFR) |
+de NBI |
+
+Nombre d'emplois
+
+à forte responsabilité
+
+(EFR) |
 
 Nombre d'emplois
 
@@ -1574,9 +1604,11 @@ d'administration
 
 de l'intérieur
 
-et de l'outre-mer (CAIOM) |
+et de l'outre-mer
 
-06 DIPN des Alpes-Maritimes |
+(CAIOM) |
+
+06 DIPN des Alpes Maritimes |
 
 Chef du service de soutien opérationnel |
 
@@ -1606,6 +1638,16 @@ Adjoint au chef du département de synthèse, stratégie et soutien |
 
 1 |
 
+30 Académie de police |
+
+Chef du département des ressources de l'école nationale de police de Nîmes |
+
+20 |
+
+- |
+
+1 |
+
 30 DIPN du Gard |
 
 Chef du service de soutien opérationnel |
@@ -1616,7 +1658,7 @@ Chef du service de soutien opérationnel |
 
 1 |
 
-31 DIPN Haute-Garonne |
+31 DIPN Haute Garonne |
 
 Chef du service de soutien opérationnel |
 
@@ -1646,7 +1688,7 @@ Chef du service de soutien opérationnel |
 
 1 |
 
-35 DIPN d'Ille-et-Vilaine |
+35 DIPN d'Ille-et-Vilaine- |
 
 Chef du service de soutien opérationnel |
 
@@ -1662,7 +1704,7 @@ Adjoint au chef du département de synthèse, stratégie et soutien |
 
 30 |
 
-- |
+|
 
 1 |
 
@@ -1732,7 +1774,7 @@ Adjoint au chef du département de synthèse, stratégie et soutien |
 
 30 |
 
-- |
+|
 
 1 |
 
@@ -1762,15 +1804,25 @@ Adjoint au chef du département de synthèse, stratégie et soutien |
 
 30 |
 
-- |
+|
 
 1 |
 
 69 DIPN du Rhône |
 
-Chef du service de soutien opérationnel |
+Chef du service soutien opérationnel |
 
 50 |
+
+- |
+
+1 |
+
+69 Ecole nationale supérieure de la police |
+
+Secrétaire général |
+
+30 |
 
 - |
 
@@ -1783,6 +1835,16 @@ Chef du service de soutien opérationnel |
 30 |
 
 - |
+
+1 |
+
+76 Académie de police |
+
+Chef de la division des ressources à l'école nationale de police de Rouen-Oissel |
+
+20 |
+
+|
 
 1 |
 
@@ -1836,41 +1898,9 @@ Chef du service de soutien opérationnel |
 
 1 |
 
-95 DNPAF/ DAP/
-
-Direction de la police aux frontières de Roissy et du Bourget |
+95 DNPAF/ DAP/ Direction de la police aux frontières de Roissy et du Bourget |
 
 Chef du département administration et finances |
-
-30 |
-
-- |
-
-1 |
-
-30 Académie de Police |
-
-Chef du département des ressources de l'école nationale de police de Nîmes |
-
-20 |
-
-- |
-
-1 |
-
-76 Académie de Police |
-
-Chef de la division des ressources à l'école nationale de police de Rouen-Oissel |
-
-20 |
-
-- |
-
-1 |
-
-69 École nationale supérieure de la police |
-
-Secrétaire général |
 
 30 |
 
@@ -2086,9 +2116,7 @@ Chef du département du soutien |
 
 1 |
 
-973
-
-Commandement de la gendarmerie nationale en Guyane |
+973 Commandement de la gendarmerie nationale en Guyane |
 
 Chef du bureau soutien finances |
 
@@ -2098,9 +2126,7 @@ Chef du bureau soutien finances |
 
 1 |
 
-974
-
-Commandement de la gendarmerie nationale de la Réunion |
+974 Commandement de la gendarmerie nationale de la Réunion |
 
 Chef du bureau des soutien et des finances |
 
@@ -2112,9 +2138,7 @@ Chef du bureau des soutien et des finances |
 
 6° Périmètre juridictions administratives
 
-Juridiction
-
-administrative |
+Juridiction administrative |
 
 Fonctions |
 
@@ -2128,7 +2152,13 @@ Nombre d'emplois
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -2332,6 +2362,8 @@ Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
+|
+
 Total du nombre d'EFR |
 
 60 points |
@@ -2342,7 +2374,9 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du nombre
+Total
+
+du nombre
 
 d'emplois
 
@@ -2356,7 +2390,9 @@ de CAIOM |
 
 20 points |
 
-Sans point de NBI |
+Sans point
+
+de NBI |
 
 01 Ain |
 
@@ -2640,11 +2676,11 @@ Sans point de NBI |
 
 - |
 
-1 |
+- |
 
 2 |
 
-- |
+1 |
 
 13 Bouches-du-Rhône |
 
@@ -3320,7 +3356,7 @@ Sans point de NBI |
 
 40 Landes |
 
-- |
+1 |
 
 - |
 
@@ -3328,7 +3364,7 @@ Sans point de NBI |
 
 - |
 
-- |
+1 |
 
 2 |
 
@@ -3338,9 +3374,9 @@ Sans point de NBI |
 
 - |
 
-2 |
+1 |
 
-- |
+1 |
 
 41 Loir-et-Cher |
 
@@ -3430,13 +3466,13 @@ Sans point de NBI |
 
 - |
 
-7 |
+6 |
 
 - |
 
 - |
 
-- |
+1 |
 
 45 Loiret |
 
@@ -3656,19 +3692,13 @@ Sans point de NBI |
 
 54 Meurthe-et-Moselle |
 
-- |
+1 |
 
 - |
 
 - |
 
-- |
-
-- |
-
-2 |
-
-- |
+1 |
 
 - |
 
@@ -3677,6 +3707,12 @@ Sans point de NBI |
 - |
 
 - |
+
+1 |
+
+- |
+
+1 |
 
 55 Meuse |
 
@@ -4448,19 +4484,13 @@ Sans point de NBI |
 
 87 Haute-Vienne |
 
-- |
+1 |
 
 - |
 
 - |
 
-- |
-
-- |
-
-3 |
-
-- |
+1 |
 
 - |
 
@@ -4469,6 +4499,12 @@ Sans point de NBI |
 - |
 
 - |
+
+2 |
+
+- |
+
+1 |
 
 88 Vosges |
 
@@ -4544,9 +4580,9 @@ Sans point de NBI |
 
 91 Essonne |
 
-- |
+3 |
 
-- |
+3 |
 
 - |
 
@@ -4556,7 +4592,7 @@ Sans point de NBI |
 
 6 |
 
-6 |
+3 |
 
 - |
 
@@ -4564,13 +4600,13 @@ Sans point de NBI |
 
 - |
 
-- |
+3 |
 
 92 Hauts-de-Seine |
 
-1 |
+2 |
 
-- |
+1 |
 
 - |
 
@@ -4580,7 +4616,7 @@ Sans point de NBI |
 
 6 |
 
-4 |
+3 |
 
 - |
 
@@ -4588,7 +4624,7 @@ Sans point de NBI |
 
 - |
 
-1 |
+2 |
 
 93 Seine-Saint-Denis |
 
@@ -4650,9 +4686,9 @@ Sans point de NBI |
 
 - |
 
-6 |
+7 |
 
-6 |
+5 |
 
 1 |
 
@@ -4920,7 +4956,9 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du nombre
+Total
+
+du nombre
 
 d'emplois
 
@@ -4934,7 +4972,9 @@ de CAIOM |
 
 20 points |
 
-Sans point de NBI |
+Sans point
+
+de NBI |
 
 01 Ain |
 
@@ -5218,11 +5258,11 @@ Sans point de NBI |
 
 - |
 
-- |
-
-- |
-
 1 |
+
+- |
+
+- |
 
 13 Bouches-du-Rhône |
 
@@ -5946,11 +5986,11 @@ Sans point de NBI |
 
 44 Loire Atlantique |
 
-- |
+1 |
 
 - |
 
-- |
+1 |
 
 - |
 
