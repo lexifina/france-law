@@ -146,40 +146,44 @@ TOTAL |
 
 III. - Emplois fonctionnels
 
-CATÉGORIES
+CATÉGORIES D'EMPLOIS |
 
-D'EMPLOIS |
+Rappel
 
-Rappel nombre d'emplois
+nombre d'emplois
 
-2022 |
+2023 |
 
 Nombre d'emplois
 
-à compter de 2023 |
+à compter de 2024 |
 
-Nombre de points par emploi |
+Nombre
+
+de points
+
+par emploi |
 
 Total des points
 
-à compter de 2023 |
+à compter de 2024 |
 
 Responsable d'unité locale de police |
 
-1 385 |
-
 1 459 |
+
+1 547 |
 
 20 |
 
-29 180 |
+30 940 |
 
 TOTAL |
 
-1 385 |
-
 1 459 |
+
+1 547 |
 
 20 |
 
-29 180 |
+30 940 |
