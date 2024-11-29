@@ -6,21 +6,25 @@ A.-Ministère de l'Europe et des affaires étrangères
 
 Catégorie de personnel |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnels en fonctions sur le territoire national |
 
-Étranger |
+Etranger |
 
 B.-Ministère de la culture
 
 Catégorie de personnel |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnels des services centraux |
 
@@ -34,17 +38,19 @@ Personnels affectés à Mayotte |
 
 Hauts-de-Seine |
 
-Personnels des Ecoles Normales Supérieures d'Architecture |
+Personnels des écoles normales supérieures d'architecture |
 
 Hauts-de-Seine |
 
-C.-Ministère de l'agriculture et de la souveraineté alimentaire
+C.-Ministère de l'agriculture, de la souveraineté alimentaire et de la forêt
 
 Catégorie de personnels |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnels des services centraux |
 
@@ -62,23 +68,27 @@ Personnels des services déconcentrés en poste à Mayotte |
 
 Hauts-de-Seine |
 
-D.-Ministère de l'éducation nationale et de la jeunesse, ministère de l'enseignement supérieur et de la recherche, ministère des sports et des jeux Olympiques et Paralympiques
+D.-Ministère de l'éducation nationale, ministère de l'enseignement supérieur et de la recherche, ministère des sports, de la jeunesse et de la vie associative
 
-1° Enseignement
+1° Enseignement :
 
-Population ou région académique (académie) |
+Population ou région académique
+
+(académie) |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Recteurs de région académique, recteurs d'académie, recteurs délégués pour l'enseignement supérieur, la recherche et l'innovation |
 
 Services déconcentrés de métropole et des collectivités d'outre-mer régies par l'article 73 de la Constitution hors Mayotte |
 
-Paris |
+Seine-Saint-Denis |
 
 Auvergne-Rhône-Alpes (Clermont-Ferrand, Grenoble, Lyon) |
 
@@ -96,7 +106,7 @@ Rhône |
 
 Bourgogne-Franche-Comté (Besançon, Dijon) |
 
-Doubs, Jura, Haute-Saône, territoire-de-Belfort |
+Doubs, Jura, Haute-Saône, Territoire de Belfort |
 
 Doubs |
 
@@ -166,7 +176,7 @@ Seine-Saint-Denis |
 
 |
 
-Paris (personnels de l'enseignement supérieur rémunérés sur le budget général de l'État) |
+Paris (personnels de l'enseignement supérieur rémunérés sur le budget général de l'Etat) |
 
 Paris |
 
@@ -176,7 +186,7 @@ Val-de-Marne |
 
 |
 
-Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (personnels de l'enseignement supérieur rémunérés sur le budget général de l'État et gérés par leur établissement d'affectation) |
+Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (personnels de l'enseignement supérieur rémunérés sur le budget général de l'Etat et gérés par leur établissement d'affectation) |
 
 Seine-Saint-Denis |
 
@@ -184,9 +194,9 @@ Seine-Saint-Denis |
 
 |
 
-Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (personnels de l'enseignement supérieur rémunérés sur le budget général de l'État et gérés par le rectorat de l'académie de Créteil) |
+Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (personnels de l'enseignement supérieur rémunérés sur le budget général de l'Etat et gérés par le rectorat de l'académie de Créteil) |
 
-Val-de Marne |
+Val-de-Marne |
 
 |
 
@@ -264,15 +274,19 @@ Alpes-Maritimes, Var |
 
 Alpes-Maritimes |
 
-2° Corps des conseillers d'éducation populaire et de jeunesse, des conseillers techniques et pédagogiques supérieurs, des inspecteurs de la jeunesse et des sports, des professeurs de sport rémunérés sur le programme 214 soutien de la politique de l'éducation nationale et conseillers techniques sportifs rémunérés sur le programme 219 sport
+2° Corps des conseillers d'éducation populaire et de jeunesse, des conseillers techniques et pédagogiques supérieurs, des inspecteurs de la jeunesse et des sports, des professeurs de sport rémunérés sur le programme 214 soutien de la politique de l'éducation nationale et conseillers techniques sportifs rémunérés sur le programme 219 sport :
 
-Région académique (académie) |
+Région académique
+
+(académie) |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Administration centrale |
 
@@ -406,15 +420,17 @@ Bouches-du-Rhône |
 
 Alpes-Maritimes, Var |
 
-3° Agents affectés dans le ressort territorial de la région académique de Normandie
+3° Agents affectés dans le ressort territorial de la région académique de Normandie :
 
 Population |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnels enseignants titulaires et contractuels du 1er degré public, maîtres et documentalistes de l'enseignement privé sous contrat du 1er degré, contractuels alternants de l'enseignement public ou privé du 1er degré |
 
@@ -464,15 +480,17 @@ Seine-Maritime |
 
 Eure, Seine-Maritime |
 
-E.-Ministère de l'économie, des finances et de la souveraineté industrielle et numérique
+E.-Ministère de l'économie, des finances et de l'industrie, ministère du budget et des comptes publics
 
-1° Direction générale de la concurrence de la consommation et de la répression des fraudes
+1° Direction générale de la concurrence de la consommation et de la répression des fraudes :
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Services déconcentrés de métropole et des collectivités d'outre-mer régies par l'article 73 de la Constitution hors Mayotte |
 
@@ -486,13 +504,15 @@ Personnels affectés au Service commun des laboratoires des ministères économi
 
 Hauts-de-Seine |
 
-2° Direction générale des douanes et droits indirects
+2° Direction générale des douanes et droits indirects :
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Direction nationale garde-côtes des douanes |
 
@@ -572,25 +592,25 @@ Hauts-de-Seine |
 
 Personnels rémunérés sur le programme 134 développement des entreprises et régulations |
 
-Gironde
-
-à compter du 1er janvier 2024 |
+Gironde |
 
 Personnels rémunérés sur le programme 218 Conduite et pilotage des politiques économiques et financières |
 
-Gironde
+Gironde |
 
-à compter du 1er janvier 2024 |
-
-3° Direction générale des finances publiques
+3° Direction générale des finances publiques :
 
 Service ou catégorie de personnel |
 
-Centre de services de ressources humaines |
+Centre de services
 
-Direction des finances publiques chargée
+de ressources humaines |
 
-de la paye sans ordonnancement préalable |
+Direction des finances publiques
+
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Services centraux |
 
@@ -598,31 +618,25 @@ Personnels relevant des corps de fonctionnaires des finances publiques affectés
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Corps des administrateurs des finances publiques en extinction (toutes affectations) |
 
 Bureau rémunération et reconnaissance |
 
-Puy-de-Dôme
+Puy-de-Dôme |
 
-à compter du 1er janvier 2024 |
-
-Corps des administrateurs de l'État détachés sur emploi fonctionnel relevant de la direction générale des finances publiques (toutes affectations) |
+Corps des administrateurs de l'Etat détachés sur emploi fonctionnel relevant de la direction générale des finances publiques (toutes affectations) |
 
 Bureau rémunération et reconnaissance |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Directions régionales et départementales |
 
 Ain |
 
-Saint-Étienne |
+Saint-Etienne |
 
 Puy-de-Dôme |
 
@@ -630,9 +644,7 @@ Aisne |
 
 Lille |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Allier |
 
@@ -640,15 +652,15 @@ Clermont-Ferrand |
 
 Puy-de-Dôme |
 
-Alpes de-Haute-Provence |
+Alpes-de-Haute-Provence |
 
-Saint-Étienne |
+Saint-Etienne |
 
 Puy-de-Dôme |
 
 Hautes-Alpes |
 
-Saint-Étienne |
+Saint-Etienne |
 
 Puy-de-Dôme |
 
@@ -668,9 +680,7 @@ Ardennes |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Ariège |
 
@@ -682,9 +692,7 @@ Aube |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Aude |
 
@@ -708,9 +716,7 @@ Calvados |
 
 Saint-Brieuc |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Cantal |
 
@@ -758,17 +764,13 @@ Côte-d'Or |
 
 Metz |
 
-Puy-de-Dôme
+Puy-de-Dôme |
 
-à compter du 1er janvier 2024 |
-
-Côtes d'Armor |
+Côtes-d'Armor |
 
 Saint-Brieuc |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Creuse |
 
@@ -786,13 +788,11 @@ Doubs |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Drôme |
 
-Saint-Étienne |
+Saint-Etienne |
 
 Puy-de-Dôme |
 
@@ -812,9 +812,7 @@ Finistère |
 
 Saint-Brieuc |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Gard |
 
@@ -850,9 +848,7 @@ Ille-et-Vilaine |
 
 Saint-Brieuc |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Indre |
 
@@ -868,13 +864,13 @@ Puy-de-Dôme |
 
 Isère |
 
-Saint-Étienne |
+Saint-Etienne |
 
 Puy-de-Dôme |
 
 Jura |
 
-Saint-Étienne |
+Saint-Etienne |
 
 Puy-de-Dôme |
 
@@ -892,7 +888,7 @@ Puy-de-Dôme |
 
 Loire |
 
-Saint-Étienne |
+Saint-Etienne |
 
 Puy-de-Dôme |
 
@@ -906,9 +902,7 @@ Loire-Atlantique |
 
 Saint-Brieuc |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Loiret |
 
@@ -944,25 +938,19 @@ Manche |
 
 Saint-Brieuc |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Marne |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Haute-Marne |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Mayenne |
 
@@ -974,33 +962,25 @@ Meurthe-et-Moselle |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Meuse |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Morbihan |
 
 Saint-Brieuc |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Moselle |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Nièvre |
 
@@ -1012,9 +992,7 @@ Nord |
 
 Lille |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Oise |
 
@@ -1062,21 +1040,17 @@ Bas-Rhin |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Haut-Rhin |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Rhône |
 
-Saint-Étienne |
+Saint-Etienne |
 
 Puy-de-Dôme |
 
@@ -1084,13 +1058,11 @@ Haute-Saône |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Saône-et-Loire |
 
-Saint-Étienne |
+Saint-Etienne |
 
 Puy-de-Dôme |
 
@@ -1102,13 +1074,13 @@ Puy-de-Dôme |
 
 Savoie |
 
-Saint-Étienne |
+Saint-Etienne |
 
 Puy-de-Dôme |
 
 Haute-Savoie |
 
-Saint-Étienne |
+Saint-Etienne |
 
 Puy-de-Dôme |
 
@@ -1116,9 +1088,7 @@ Paris |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Seine-Maritime |
 
@@ -1178,9 +1148,7 @@ Vendée |
 
 Saint-Brieuc |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Vienne |
 
@@ -1198,9 +1166,7 @@ Vosges |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Yonne |
 
@@ -1212,17 +1178,13 @@ Territoire-de-Belfort |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Essonne |
 
 Lille |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Hauts-de-Seine |
 
@@ -1234,17 +1196,13 @@ Seine-Saint-Denis |
 
 Lille |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Val-de-Marne |
 
 Lille |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Val-d'Oise |
 
@@ -1288,95 +1246,73 @@ Cap numérique (Noisy-le-Grand) |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Direction des grandes entreprises (Pantin) |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Direction des impôts des non-résidents (Noisy-le-Grand) |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Direction impôts service (Pantin, Lille, Nancy, Rouen) |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Direction nationale d'enquêtes fiscales (Pantin) |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Direction nationale d'interventions domaniales (Saint-Maurice) |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Direction nationale de vérification de situations fiscales (Pantin) |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Direction des vérifications nationales et internationales (Pantin) |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Ecole nationale des finances publiques |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Service d'appui aux ressources humaines (Noisy-le-Grand) |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Services de contrôle budgétaire et comptable ministériels |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Directions de contrôle fiscal |
 
 Centre-Est (Lyon) |
 
-Saint-Étienne |
+Saint-Etienne |
 
 Puy-de-Dôme |
 
@@ -1384,33 +1320,25 @@ Centre-Ouest (Rennes) |
 
 Saint-Brieuc |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Est (Nancy) |
 
 Metz |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Ile-de-France (La Plaine Saint-Denis) |
 
 Noisy-le-Grand |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Nord (Lille) |
 
 Lille |
 
-Puy-de-Dôme
-
-à compter du 1er janvier 2024 |
+Puy-de-Dôme |
 
 Sud-Est (Marseille) |
 
@@ -1418,129 +1346,101 @@ Montpellier |
 
 Puy-de-Dôme |
 
-Sud-Ouest (Bordeaux) |
+Nouvelle-Aquitaine (Bordeaux) |
 
 Bordeaux |
 
 Puy-de-Dôme |
 
-Sud-Pyrénées (Toulouse) |
+Occitanie (Toulouse) |
 
 Montpellier |
 
 Puy-de-Dôme |
 
-4° Institut national de la statistique et des études économiques
+4° Institut national de la statistique et des études économiques :
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Direction générale |
 
-Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction régionale d'Auvergne-Rhône-Alpes |
 
-Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction régionale de Bourgogne-Franche-Comté |
 
-Gironde Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction régionale de Bretagne |
 
-Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction régionale de Centre-Val de Loire |
 
-Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction régionale de Corse |
 
-Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction interrégionale de Guadeloupe (services territoriaux de Guadeloupe, de Guyane et de Martinique) |
 
-Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction régionale des Hauts-de-France |
 
-Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction régionale d'Ile-de-France |
 
-Moselle
+Moselle |
 
-à compter du 1er janvier 2024 |
+Direction interrégionale de La Réunion-Mayotte (services territoriaux de La réunion et de Mayotte) |
 
-Direction interrégionale de La Réunion-Mayotte (services territoriaux
-
-de La Réunion et de Mayotte) |
-
-Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction régionale de Normandie |
 
-Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction régionale de Nouvelle-Aquitaine |
 
-Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction régionale d'Occitanie |
 
-Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction régionale des Pays de la Loire |
 
-Moselle
-
-à compter du 1er janvier 2024 |
+Moselle |
 
 Direction régionale de Provence-Alpes-Côte d'Azur |
 
-Moselle
+Moselle |
 
-à compter du 1er janvier 2024 |
+F.-Ministère de l'intérieur
 
-F.-Ministère de l'intérieur et des outre-mer
-
-1° Administration territoriale de l'Etat
+1° Administration territoriale de l'Etat :
 
 Service ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Corps préfectoral |
 
@@ -1568,7 +1468,7 @@ Sud-Est (Lyon) |
 
 Isère |
 
-Alpes de-Haute-Provence |
+Alpes-de-Haute-Provence |
 
 Sud (Marseille) |
 
@@ -2156,7 +2056,7 @@ La Réunion |
 
 La Réunion |
 
-2° Direction générale de la police nationale
+2° Direction générale de la police nationale :
 
 Direction de la police nationale
 
@@ -2164,9 +2064,11 @@ ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Direction zonale Est (Bourgogne-Franche-Comté Grand Est) |
 
@@ -2228,47 +2130,37 @@ Ile-de-France (Paris-Versailles) |
 
 Yvelines |
 
-Direction territoriale
-
-de Guadeloupe |
+Direction territoriale de Guadeloupe |
 
 Guadeloupe |
 
 Martinique |
 
-Direction territoriale
-
-de Guyane |
+Direction territoriale de Guyane |
 
 Guyane |
 
 Martinique |
 
-Direction territoriale
-
-de Martinique |
+Direction territoriale de Martinique |
 
 Martinique |
 
 Martinique |
 
-Direction territoriale
-
-de Mayotte |
+Direction territoriale de Mayotte |
 
 Mayotte |
 
 La Réunion |
 
-Direction territoriale
-
-de La Réunion |
+Direction territoriale de La Réunion |
 
 La Réunion |
 
 La Réunion |
 
-3° Personnels civils de la direction générale de la gendarmerie nationale
+3° Personnels civils de la direction générale de la gendarmerie nationale :
 
 Zone de sécurité et de défense
 
@@ -2276,9 +2168,11 @@ ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Est (Bourgogne-Franche-Comté Grand Est) |
 
@@ -2352,13 +2246,15 @@ La Réunion |
 
 La Réunion |
 
-4° Autres
+4° Autres :
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Bureau des cultes du Bas-Rhin et du Haut-Rhin |
 
@@ -2378,15 +2274,17 @@ Paris |
 
 G.-Ministère de la justice
 
-1° Services judiciaires
+1° Services judiciaires :
 
-Cour d'appel |
+Cour d'Appel |
 
 Ressort |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Agen |
 
@@ -2468,7 +2366,7 @@ Doubs |
 
 Dijon |
 
-Côte d'Or, Haute-Marne, Saône-et-Loire |
+Côte-d'Or, Haute-Marne, Saône-et-Loire |
 
 Doubs |
 
@@ -2558,7 +2456,7 @@ Doubs |
 
 Rennes |
 
-Côtes d'Armor, Finistère, Ille-et-Vilaine, Loire-Atlantique, Morbihan |
+Côtes-d'Armor, Finistère, Ille-et-Vilaine, Loire-Atlantique, Morbihan |
 
 Doubs |
 
@@ -2596,7 +2494,7 @@ Eure-et-Loir, Yvelines, Hauts-de-Seine, Val d'Oise |
 
 Doubs |
 
-2° Services pénitentiaires
+2° Services pénitentiaires :
 
 Direction interrégionale
 
@@ -2604,9 +2502,11 @@ des services pénitentiaires |
 
 Ressort |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Bordeaux |
 
@@ -2646,7 +2546,7 @@ Haute-Vienne |
 
 Rennes |
 
-Calvados, Côtes d'Armor, Eure, Finistère, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Seine-Maritime, Vendée |
+Calvados, Côtes-d'Armor, Eure, Finistère, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Seine-Maritime, Vendée |
 
 Haute-Vienne |
 
@@ -2680,7 +2580,7 @@ Val-de-Marne (siège) |
 
 Haute-Vienne |
 
-3° Protection judiciaire de la jeunesse
+3° Protection judiciaire de la jeunesse :
 
 Direction interrégionale
 
@@ -2688,9 +2588,11 @@ de la protection judiciaire de la jeunesse |
 
 Ressort |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Centre-Est (Lyon) |
 
@@ -2724,7 +2626,7 @@ Haute-Vienne |
 
 Ile-de-France/ Outre-Mer (Paris) |
 
-Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise |
+Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val d'Oise |
 
 Haute-Vienne |
 
@@ -2758,13 +2660,15 @@ Charente, Charente-Maritime, Corrèze, Creuse, Dordogne, Gironde, Landes, Lot-et
 
 Haute-Vienne |
 
-4° Autres services
+4° Autres services :
 
 Services |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Services centraux |
 
@@ -2794,13 +2698,15 @@ Ecole nationale de la protection judiciaire de la jeunesse de Roubaix |
 
 Haute-Vienne |
 
-H.-Services de la Première ministre-Juridictions administratives et financières
+H.-Services du Premier ministre-Juridictions administratives et financières
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Magistrats des tribunaux administratifs et cours administratives d'appel |
 
@@ -2812,9 +2718,7 @@ Paris |
 
 Commission du contentieux du stationnement payant |
 
-Paris
-
-à compter du 1er janvier 2024 |
+Paris |
 
 Chambres régionales des comptes |
 
@@ -2824,17 +2728,21 @@ Personnels en poste à Mayotte |
 
 Paris |
 
-I.-Ministère de la transition écologique et de la cohésion des territoires
+I.-Ministère de la transition écologique, de l'énergie, du climat et de la prévention des risques, ministère du logement et de la rénovation urbaine, ministère du partenariat avec les territoires et de la décentralisation
 
-Service, catégorie de personnel ou affectation |
+Service, catégorie de personnel
+
+ou affectation |
 
 Centre de gestion des personnels
 
 ou service gestionnaire |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Agents de catégorie A affectés dans les services centraux ou dans les services déconcentrés (tous départements) |
 
@@ -2854,199 +2762,149 @@ Centre ministériel de gestion de La Défense |
 
 Val-de-Marne |
 
-Agents de catégorie B et C et ouvriers des parcs et ateliers
-
-affectés dans les services déconcentrés |
+Agents de catégorie B et C et ouvriers des parcs et ateliers affectés dans les services déconcentrés |
 
 Auvergne-Rhône-Alpes (Allier, Cantal, Haute-Loire, Puy-de-Dôme) |
 
-Centre régional de gestion
-
-de Clermont-Ferrand |
+Centre régional de gestion de Clermont-Ferrand |
 
 Val-de-Marne |
 
 Auvergne-Rhône-Alpes (Ain, Ardèche, Drôme, Isère, Loire, Rhône, Savoie, Haute-Savoie) |
 
-Centre régional de gestion
-
-de Lyon |
+Centre régional de gestion de Lyon |
 
 Val-de-Marne |
 
 Bourgogne-Franche-Comté (Côte-d'Or, Nièvre, Saône-et-Loire, Yonne) |
 
-Centre régional de gestion
-
-de Dijon |
+Centre régional de gestion de Dijon |
 
 Val-de-Marne |
 
-Bourgogne-Franche-Comté (Doubs, Jura, Haute-Saône, territoire-de-Belfort) |
+Bourgogne-Franche-Comté (Doubs, Jura, Haute-Saône, Territoire de Belfort) |
 
-Centre régional de gestion
-
-de Besançon |
+Centre régional de gestion de Besançon |
 
 Val-de-Marne |
 
 Bretagne |
 
-Centre régional de gestion
-
-de Rennes |
+Centre régional de gestion de Rennes |
 
 Val-de-Marne |
 
-Centre Val de Loire |
+Centre-Val de Loire |
 
-Centre régional de gestion
-
-d'Orléans |
+Centre régional de gestion d'Orléans |
 
 Val-de-Marne |
 
 Corse |
 
-Centre régional de gestion
-
-de Marseille |
+Centre régional de gestion de Marseille |
 
 Val-de-Marne |
 
 Grand Est (Ardennes, Aube, Marne, Haute-Marne |
 
-Centre régional de gestion
-
-de Chalons-en-Champagne |
+Centre régional de gestion de Chalons-en-Champagne |
 
 Val-de-Marne |
 
 Grand Est (Meurthe-et-Moselle, Meuse, Moselle, Vosges) |
 
-Centre régional de gestion
-
-de Metz |
+Centre régional de gestion de Metz |
 
 Val-de-Marne |
 
 Grand Est (Bas-Rhin, Haut-Rhin) |
 
-Centre régional de gestion
-
-de Strasbourg |
+Centre régional de gestion de Strasbourg |
 
 Val-de-Marne |
 
 Guadeloupe |
 
-Centre régional de gestion
-
-de Caen |
+Centre régional de gestion de Caen |
 
 Val-de-Marne |
 
 Guyane |
 
-Centre régional de gestion
-
-de Caen |
+Centre régional de gestion de Caen |
 
 Val-de-Marne |
 
 Hauts-de-France |
 
-Centre régional de gestion
-
-d'Amiens |
+Centre régional de gestion d'Amiens |
 
 Val-de-Marne |
 
 Ile-de-France |
 
-Centre régional de gestion
-
-de Paris |
+Centre régional de gestion de Paris |
 
 Val-de-Marne |
 
 Martinique |
 
-Centre régional de gestion
-
-de Caen |
+Centre régional de gestion de Caen |
 
 Val-de-Marne |
 
 Mayotte |
 
-Centre régional de gestion
-
-de Caen |
+Centre régional de gestion de Caen |
 
 Val-de-Marne |
 
 Normandie |
 
-Centre régional de gestion
-
-de Rouen |
+Centre régional de gestion de Rouen |
 
 Val-de-Marne |
 
 Nouvelle-Aquitaine (Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques) |
 
-Centre régional de gestion
-
-de Bordeaux |
+Centre régional de gestion de Bordeaux |
 
 Val-de-Marne |
 
 Nouvelle-Aquitaine (Charente, Charente-Maritime, Corrèze, Creuse, Deux-Sèvres, Vienne, Haute-Vienne) |
 
-Centre régional de gestion
-
-de Limoges |
+Centre régional de gestion de Limoges |
 
 Val-de-Marne |
 
 Occitanie (Aude, Gard, Hérault, Lozère, Pyrénées-Orientales) |
 
-Centre régional de gestion
-
-de Montpellier |
+Centre régional de gestion de Montpellier |
 
 Val-de-Marne |
 
 Occitanie (Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne) |
 
-Centre régional de gestion
-
-de Toulouse |
+Centre régional de gestion de Toulouse |
 
 Val-de-Marne |
 
 Pays de la Loire |
 
-Centre régional de gestion
+Centre régional de gestion de Nantes |
 
-de Nantes |
-
-Val-de-Marne |
+|
 
 Provence-Alpes-Côte d'Azur |
 
-Centre régional de gestion
-
-de Marseille |
+Centre régional de gestion de Marseille |
 
 Val-de-Marne |
 
 La Réunion |
 
-Centre régional de gestion
-
-de Caen |
+Centre régional de gestion de Caen |
 
 Val-de-Marne |
 
@@ -3054,25 +2912,19 @@ Autorités administratives indépendantes |
 
 Autorité de contrôle des nuisances aéroportuaires (ACNUSA) |
 
-Service gestionnaire
-
-de l'ACNUSA |
+Service gestionnaire de l'ACNUSA |
 
 Val-de-Marne |
 
 Commission nationale du débat public (CNDP) |
 
-Service gestionnaire
-
-de la CNDP |
+Service gestionnaire de la CNDP |
 
 Val-de-Marne |
 
 Commission de régulation de l'énergie (CRE) |
 
-Service gestionnaire
-
-de la CRE |
+Service gestionnaire de la CRE |
 
 Val-de-Marne |
 
@@ -3080,9 +2932,7 @@ Autres services |
 
 Armement des Phares et Balises (APB-Bouches-du-Rhône, Calvados, Charente-Maritime, Côtes d'Armor, Finistère, Corse-du-Sud, Haute-Corse, Gironde, Hauts-de-Seine, Hérault, Ille-et-Vilaine, Loire-Atlantique, Manche, Morbihan, Nord, Somme, Seine-Maritime, Vendée, Var, Guadeloupe, Guyane, Martinique, Saint-Pierre-et-Miquelon |
 
-Service gestionnaire
-
-de l'APB |
+Service gestionnaire de l'APB |
 
 Val-de-Marne |
 
@@ -3096,9 +2946,7 @@ Val-de-Marne |
 
 Centre d'études des tunnels (CETU) |
 
-Centre ministériel de gestion de La Défense
-
-à compter du 1er février 2024 |
+Centre ministériel de gestion de La Défense |
 
 Val-de-Marne |
 
@@ -3106,27 +2954,25 @@ Centre ministériel de valorisation des ressources humaines (CMVRH-Bouches-du-Rh
 
 Puy-de-Dôme, Saône-et-Loire, Paris, Seine-Maritime) |
 
-Centre ministériel de gestion de La Défense
-
-à compter du 1er février 2024 |
+Centre ministériel de gestion de La Défense |
 
 Val-de-Marne |
 
 Ecole nationale des techniciens de l'équipement (ENTE) |
 
-Centre ministériel de gestion de La Défense
-
-à compter du 1er février 2024 |
+Centre ministériel de gestion de La Défense |
 
 Val-de-Marne |
 
-J.-Ministère de la santé et de la prévention, ministère du travail, du plein emploi et de l'insertion et ministère des solidarités et des familles
+J.-Ministère de la santé et de l'accès aux soins, ministère des solidarités, de l'autonomie et de l'égalité entre les femmes et les hommes, ministère du travail et de l'emploi
 
 Service |
 
-Direction des finances publiques chargée
+Direction des finances publiques
 
-de la paye sans ordonnancement préalable |
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Services centraux |
 
