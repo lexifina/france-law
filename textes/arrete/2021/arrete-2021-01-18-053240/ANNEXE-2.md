@@ -30,7 +30,9 @@ b) le cas échéant, les résultats de l'analyse de sensibilité réalisée pour
 
 c) une description des méthodes, modèles, hypothèses de base et principaux paramètres d'entrée et de sortie.
 
-2. Les projections des émissions sont estimées et agrégées pour les secteurs sources concernés. Une projection avec mesures (mesures adoptées) et, le cas échéant, une projection avec mesures supplémentaires (mesures prévues) doivent être fourni pour chaque polluant conformément aux orientations fournies dans le guide d'inventaire des émissions de polluants de l'air EMEP/AEE.
+2. Les projections des émissions sont estimées et déclarées par catégorie de sources de la nomenclature de notification des données (NND) définie par la convention de la Commission économique pour l'Europe des Nations unies sur la pollution atmosphérique transfrontière à longue distance. Lorsque cela n'est pas possible en raison d'un manque de données suffisamment détaillées, une justification de la nécessité de déclarer à un niveau plus agrégé est incluse dans le rapport d'inventaire.
+
+Une projection “ avec mesures ” (mesures adoptées) et, le cas échéant, une projection “ avec mesures supplémentaires ” (mesures prévues) doivent être fourni pour chaque polluant conformément aux orientations fournies dans le guide d'inventaire des émissions de polluants atmosphériques EMEP/ AEE.
 
 3. Les projections nationales des émissions sont cohérentes par rapport à l'inventaire national des émissions annuelles pour l'année X-3 et aux projections communiquées au titre règlement (UE) no 525/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif à un mécanisme pour la surveillance et la déclaration des émissions de gaz à effet de serre et pour la déclaration, au niveau national et au niveau de l'Union, d'autres informations ayant trait au changement climatique et abrogeant la décision n° 280/2004/CE
 

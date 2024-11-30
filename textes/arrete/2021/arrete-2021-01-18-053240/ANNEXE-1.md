@@ -108,23 +108,21 @@ Exigences de déclaration des projections nationales des émissions
 
 Polluants |
 
-Série chronologique/Années cibles |
+Série chronologique
 
-Dates de déclaration
+/ Années cibles |
 
-à la Commission
+Dates
 
-et à l'Agence européenne
+de déclaration |
 
-pour l'environnement |
+Projections des émissions par catégorie de sources
 
-Projections des émissions, agrégées selon NND |
+NND |
 
-SO2, NOX, NH3, COVNM, PM2,5 et, si disponible, CS |
+SO2, NOx, NH3, COVNM, PM2, 5 et, si disponible, CS |
 
-Tous les deux ans, couvrant les années de projection 2020, 2025, 2030 et, si disponibles, 2040 et 2050
-
-à partir de 2017 |
+Tous les deux ans, couvrant les années de projection 2020,2025,2030 et, si disponibles, 2040 et 2050 à partir de 2017 |
 
 15 mars |
 
