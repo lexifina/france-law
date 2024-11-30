@@ -2,17 +2,13 @@
 
 SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 
-|
-
-|
-
-SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES |
-
 DÉPARTEMENT |
 
 TRIBUNAL
 
 JUDICIAIRE |
+
+SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES |
 
 Siège du conseil
 
@@ -46,8 +42,6 @@ Agen |
 
 Ressort du tribunal judiciaire d'Agen, à l'exception du ressort de la chambre de proximité de Marmande. |
 
-|
-
 Marmande |
 
 Ressort de la chambre de proximité de Marmande. |
@@ -58,7 +52,7 @@ Alpes-de-Haute-Provence |
 
 Digne-les-Bains |
 
-|
+Digne-les-Bains |
 
 Ressort du tribunal judiciaire de Digne-les-Bains. |
 
@@ -88,8 +82,6 @@ Aix-en-Provence |
 
 Ressort du tribunal judiciaire d'Aix-en-Provence, à l'exception du ressort de la chambre de proximité de Martigues. |
 
-|
-
 Martigues |
 
 Ressort de la chambre de proximité de Martigues. |
@@ -113,8 +105,6 @@ Draguignan |
 Draguignan |
 
 Ressort du tribunal judiciaire de Draguignan, à l'exception du ressort de la chambre de proximité de Fréjus. |
-
-|
 
 Fréjus |
 
@@ -176,13 +166,9 @@ Abbeville |
 
 Ressort de la chambre de proximité d'Abbeville. |
 
-|
-
 Amiens |
 
 Ressort du tribunal judiciaire d'Amiens, à l'exception des ressorts des chambres de proximité d'Abbeville et Péronne. |
-
-|
 
 Péronne |
 
@@ -238,6 +224,22 @@ Bastia |
 
 Ressort du tribunal judiciaire de Bastia. |
 
+Cour d'appel Basse-Terre |
+
+Guadeloupe |
+
+Basse-Terre |
+
+Basse-Terre |
+
+Ressort du tribunal judiciaire de Basse-Terre. |
+
+Pointe-à-Pitre |
+
+Pointe-à-Pitre |
+
+Ressort du tribunal judiciaire de Pointe-à-Pitre. |
+
 Cour d'appel de Besançon |
 
 Territoire de Belfort |
@@ -270,8 +272,6 @@ Dole |
 
 Ressort de la chambre de proximité de Dole. |
 
-|
-
 Lons-le-Saunier |
 
 Ressort du tribunal judiciaire de Lons-le-Saunier, à l'exception du ressort de la chambre de proximité de Dole. |
@@ -283,8 +283,6 @@ Vesoul |
 Lure |
 
 Ressort de la chambre de proximité de Lure. |
-
-|
 
 Vesoul |
 
@@ -312,7 +310,7 @@ Périgueux |
 
 Périgueux |
 
-Ressort du tribunal judiciaire Périgueux. |
+Ressort du tribunal judiciaire de Périgueux. |
 
 Gironde |
 
@@ -384,8 +382,6 @@ Coutances |
 
 Ressort du tribunal judiciaire de Coutances, à l'exception du ressort de la chambre de proximité d'Avranches. |
 
-|
-
 Avranches |
 
 Ressort de la chambre de proximité d'Avranches. |
@@ -403,6 +399,16 @@ Argentan |
 Argentan |
 
 Ressort du tribunal judiciaire d'Argentan. |
+
+Cour d'appel de Cayenne |
+
+Guyane |
+
+Cayenne |
+
+Cayenne |
+
+Ressort du tribunal judiciaire de Cayenne. |
 
 Cour d'appel de Chambéry |
 
@@ -466,7 +472,7 @@ Ressort de la chambre de proximité de Schiltigheim et cantons de Brumath, Hochf
 
 Strasbourg |
 
-Ressort du tribunal judiciaire de Strasbourg, à l'exception des ressorts des chambres de proximité de Hagueneau et Schiltigheim. |
+Ressort du tribunal judiciaire de Strasbourg, à l'exception des ressorts des chambres de proximité de Haguenau et Schiltigheim. |
 
 Haut-Rhin |
 
@@ -544,13 +550,11 @@ Ressort du tribunal judiciaire de Dunkerque, à l'exception du ressort de la cha
 
 Hazebrouck |
 
-Ressort de la chambre de proximité de Hazebrouck.
-
-|
+Ressort de la chambre de proximité de Hazebrouck. |
 
 Lille |
 
-Lys-Lez-Lannoy |
+Lys-lez-Lannoy |
 
 Cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud. |
 
@@ -584,9 +588,7 @@ Béthune |
 
 Béthune |
 
-Ressort du tribunal judiciaire de Béthune, à l'exception e la chambre de proximité de Lens. |
-
-|
+Ressort du tribunal judiciaire de Béthune, à l'exception de la chambre de proximité de Lens. |
 
 Lens |
 
@@ -598,8 +600,6 @@ Boulogne-sur-Mer |
 
 Ressort du tribunal judiciaire de Boulogne-sur-Mer, à l'exception du ressort de la chambre de proximité de Calais. |
 
-|
-
 Calais |
 
 Ressort de la chambre de proximité de Calais. |
@@ -609,6 +609,16 @@ Saint-Omer |
 Saint-Omer |
 
 Ressort du tribunal judiciaire de Saint-Omer. |
+
+Cour d'appel de Fort-de-France |
+
+Martinique |
+
+Fort-de-France |
+
+Fort-de-France |
+
+Ressort du tribunal judiciaire de Fort-de-France. |
 
 Cour d'appel de Grenoble |
 
@@ -627,8 +637,6 @@ Valence |
 Montélimar |
 
 Ressort de la chambre de proximité de Montélimar. |
-
-|
 
 Valence |
 
@@ -696,13 +704,9 @@ Belley |
 
 Ressort de la chambre de proximité de Belley. |
 
-|
-
 Bourg-en-Bresse |
 
 Ressort du tribunal judiciaire de Bourg-en-Bresse, à l'exception des ressorts des chambres de proximité de Belley et Nantua. |
-
-|
 
 Oyonnax |
 
@@ -716,15 +720,13 @@ Roanne |
 
 Ressort du tribunal judiciaire de Roanne. |
 
-Saint-Etienne |
+Saint-Étienne |
 
 Montbrison |
 
 Ressort de la chambre de proximité de Montbrison. |
 
-|
-
-Saint-Etienne |
+Saint-Étienne |
 
 Ressort du tribunal judiciaire de Saint-Etienne, à l'exception du ressort de la chambre de proximité de Montbrison. |
 
@@ -788,8 +790,6 @@ Millau |
 
 Ressort de la chambre de proximité de Millau. |
 
-|
-
 Rodez |
 
 Ressort du tribunal judiciaire de Rodez, à l'exception du ressort de la chambre de proximité de Millau. |
@@ -807,8 +807,6 @@ Montpellier |
 Montpellier |
 
 Ressort du tribunal judiciaire de Montpellier, à l'exception du ressort de la chambre de proximité de Sète. |
-
-|
 
 Sète |
 
@@ -873,8 +871,6 @@ Privas |
 Annonay |
 
 Ressort de la chambre de proximité d'Annonay. |
-
-|
 
 Aubenas |
 
@@ -952,13 +948,11 @@ Cour d'appel de Paris |
 
 Essonne |
 
-Evry-Courcouronnes |
+Évry-Courcouronnes |
 
-Evry-Courcouronnes |
+Évry-Courcouronnes |
 
-Ressort du tribunal judiciaire d'Evry-Courcouronnes, à l'exception des ressorts des chambres de proximité de Longjumeau et Palaiseau. |
-
-|
+Ressort du tribunal judiciaire d'Évry-Courcouronnes, à l'exception des ressorts des chambres de proximité de Longjumeau et Palaiseau. |
 
 Longjumeau |
 
@@ -999,8 +993,6 @@ Créteil |
 Créteil |
 
 Ressort des chambres de proximité de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif, à l'exception des cantons de Choisy-le-Roi et Orly, et de l'emprise de l'aérodrome de Paris-Orly. |
-
-|
 
 Villeneuve-Saint-Georges |
 
@@ -1076,8 +1068,6 @@ La Rochelle |
 
 Ressort du tribunal judiciaire de La Rochelle, à l'exception du ressort de la chambre de proximité de Rochefort. |
 
-|
-
 Rochefort |
 
 Ressort de la chambre de proximité de Rochefort. |
@@ -1096,17 +1086,15 @@ Thouars |
 
 Ressort de la chambre de proximité de Bressuire. |
 
-|
-
 Niort |
 
 Ressort du tribunal judiciaire de Niort, à l'exception du ressort de la chambre de proximité de Bressuire. |
 
 Vendée |
 
-La Roche-sur-Yon |
+La-Roche-sur-Yon |
 
-La Roche-sur-Yon |
+La-Roche-sur-Yon |
 
 Ressort du tribunal judiciaire de La Roche-sur-Yon. |
 
@@ -1150,8 +1138,6 @@ Châlons-en-Champagne |
 
 Ressort du tribunal judiciaire de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne et à l'exception de la partie de la commune de Blancs-Coteaux correspondant aux anciennes communes de Vertus et de Voipreux. |
 
-|
-
 Epernay |
 
 Cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne et commune de Blancs-Coteaux. |
@@ -1172,11 +1158,9 @@ Guingamp |
 
 Ressort de la chambre de proximité de Guingamp. |
 
-|
-
 Saint-Brieuc |
 
-Ressort du tribunal judiciaire de Saint-Brieux, à l'exception du ressort de la chambre de proximité de Guingamp. |
+Ressort du tribunal judiciaire de Saint-Brieuc, à l'exception du ressort de la chambre de proximité de Guingamp. |
 
 Finistère |
 
@@ -1185,8 +1169,6 @@ Brest |
 Brest |
 
 Ressort du tribunal judiciaire de Brest, à l'exception du ressort de la chambre de proximité de Morlaix. |
-
-|
 
 Morlaix |
 
@@ -1211,8 +1193,6 @@ Saint-Malo |
 Dinan (Côtes-d'Armor) |
 
 Ressort de la chambre de proximité de Dinan. |
-
-|
 
 Saint-Malo |
 
@@ -1254,7 +1234,7 @@ Cusset |
 
 Vichy |
 
-Ressort du tribunal judiciaire de Cusset |
+Ressort du tribunal judiciaire de Cusset. |
 
 Montluçon |
 
@@ -1290,9 +1270,7 @@ Clermont-Ferrand |
 
 Clermont-Ferrand |
 
-Ressort du tribunal judiciaire de Clermont-Ferrand, à l'exception du ressort de la chambre de proxmité de Riom. |
-
-|
+Ressort du tribunal judiciaire de Clermont-Ferrand, à l'exception du ressort de la chambre de proximité de Riom. |
 
 Riom |
 
@@ -1306,15 +1284,11 @@ Evreux |
 
 Bernay |
 
-Ressort de la chambre de proximité de Bernay |
-
-|
+Ressort de la chambre de proximité de Bernay. |
 
 Evreux |
 
 Ressort du tribunal judiciaire d'Evreux, à l'exception des ressorts des chambres de proximité de Bernay et de Louviers. |
-
-|
 
 Louviers |
 
@@ -1339,6 +1313,40 @@ Rouen |
 Rouen |
 
 Ressort du tribunal judiciaire de Rouen. |
+
+Cour d'appel de Saint-Denis |
+
+Mayotte |
+
+Mamoudzou |
+
+Mamoudzou |
+
+Ressort du tribunal judiciaire de Mamoudzou. |
+
+La Réunion |
+
+Saint-Denis |
+
+Saint-Denis |
+
+Ressort du tribunal judiciaire de Saint-Denis. |
+
+Saint-Pierre |
+
+Saint-Pierre |
+
+Ressort du tribunal judiciaire de Saint-Pierre. |
+
+Tribunal supérieur d'appel de Saint-Pierre |
+
+Saint-Pierre-et-Miquelon |
+
+Saint-Pierre |
+
+Saint-Pierre |
+
+Ressort du tribunal supérieur d'appel de Saint-Pierre. |
 
 Cour d'appel de Toulouse |
 
@@ -1370,7 +1378,7 @@ Albi |
 
 Albi |
 
-Ressort du tribunal judiciaire d'Albi |
+Ressort du tribunal judiciaire d'Albi. |
 
 Castres |
 
@@ -1396,13 +1404,9 @@ Chartres |
 
 Ressort du tribunal judiciaire de Chartres, à l'exception du ressort de la chambre de proximité de Dreux et des cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce. |
 
-|
-
 Châteaudun |
 
 Cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce. |
-
-|
 
 Dreux |
 
@@ -1416,8 +1420,6 @@ Boulogne-Billancourt |
 
 Ressort des chambres de proximité d'Antony, Boulogne-Billancourt et Vanves. |
 
-|
-
 Nanterre |
 
 Ressort des chambres de proximité d'Asnières-sur-Seine, Colombes, Courbevoie et Puteaux. |
@@ -1430,13 +1432,9 @@ Argenteuil |
 
 Ressort de la chambre de proximité de Sannois. |
 
-|
-
 Montmorency |
 
 Ressort des chambres de proximité de Gonesse et Montmorency. |
-
-|
 
 Pontoise |
 
@@ -1450,102 +1448,18 @@ Mantes-la-Jolie |
 
 Ressort de la chambre de proximité de Mantes-la-Jolie. |
 
-|
-
 Poissy |
 
 Ressort de la chambre de proximité de Poissy. |
-
-|
 
 Rambouillet |
 
 Ressort de la chambre de proximité de Rambouillet. |
 
-|
-
 Saint-Germain-en-Laye |
 
 Ressort de la chambre de proximité de Saint-Germain-en-Laye. |
 
-|
-
 Versailles |
 
 Ressort du tribunal judiciaire de Versailles, à l'exception des ressorts des chambres de proximité de Mantes-la-Jolie, Poissy, Rambouillet et Saint-Germain-en-Laye. |
-
-Cour d'appel de Basse-Terre |
-
-Guadeloupe |
-
-Basse-Terre |
-
-Basse-Terre |
-
-Ressort du tribunal judiciaire de Basse-Terre. |
-
-Pointe-à-Pitre |
-
-Pointe-à-Pitre |
-
-Ressort du tribunal judiciaire de Pointe-à-Pitre. |
-
-Cour d'appel de Cayenne |
-
-Guyane |
-
-Cayenne |
-
-Cayenne |
-
-Ressort du tribunal judiciaire de Cayenne. |
-
-Cour d'appel de Fort-de-France |
-
-Martinique |
-
-Fort-de-France |
-
-Fort-de-France |
-
-Ressort du tribunal judiciaire de Fort-de-France. |
-
-Cour d'appel de Saint-Denis de la Réunion |
-
-Mayotte |
-
-Mamoudzou |
-
-Mamoudzou |
-
-Ressort du tribunal judiciaire de Mamoudzou (*) |
-
-Réunion |
-
-Saint-Denis |
-
-Saint-Denis |
-
-Ressort du tribunal judiciaire de Saint-Denis. |
-
-Saint-Pierre |
-
-Saint-Pierre |
-
-Ressort du tribunal judiciaire de Saint-Pierre. |
-
-Tribunal supérieur de Saint-Pierre |
-
-Saint-Pierre-et-Miquelon |
-
-Saint-Pierre |
-
-Saint-Pierre |
-
-Ressort du tribunal supérieur d'appel de Saint-Pierre. |
-
-(*) Siège à compter du 1er janvier 2022. |
-
-NOTA :
-
-Conformément à l’article 2 du décret n° 2023-38 du 27 janvier 2023, ces dispositions entrent en vigueur le 9 avril 2023.
