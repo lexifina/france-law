@@ -38,7 +38,7 @@ Postes désignés sur proposition du directeur des ressources humaines de l'arm�
 
 - cabinet du ministre des armées (cellule nucléaire) ;
 
-- direction du personnel militaire de la marine (DPMM - bureau " écoles et formation ") ;
+- direction du personnel militaire de la marine (bureaux chargés des écoles et de la formation) ;
 
 - état-major du commandement de l'arrondissement maritime Atlantique (CECLANT) ;
 
@@ -50,11 +50,11 @@ Postes désignés sur proposition du directeur des ressources humaines de l'arm�
 
 - base navale de Toulon (BN Toulon) ;
 
-- état-major du commandement de la base de défense de Brest-Lorient (cellule cohérence-synthèse) ;
+- état-major du commandement de la base de défense de Brest-Lorient (cellules chargées de la cohérence et de la synthèse) ;
 
-- état-major du commandement de la base de défense de Cherbourg (cellule cohérence-synthèse) ;
+- état-major du commandement de la base de défense de Cherbourg (cellules chargées de la cohérence et de la synthèse) ;
 
-- état-major du commandement de la base de défense de Toulon (cellule cohérence-synthèse) ;
+- état-major du commandement de la base de défense de Toulon (cellules chargées de la cohérence et de la synthèse) ;
 
 - escadrille des sous-marins nucléaires lanceurs d'engins (ESNLE) ;
 
@@ -70,7 +70,13 @@ Postes désignés sur proposition du directeur des ressources humaines de l'arm�
 
 - secrétariat général de la défense et de la sécurité nationale (SGDSN) ;
 
-- état-major des forces sous-marines (ALFOST).
+- état-major des forces sous-marines (ALFOST) ;
+
+- état-major de la force d'action navale-antenne Brest ;
+
+- service logistique de la marine de Toulon ;
+
+- commission permanente des programmes et des essais des bâtiments de la flotte.
 
 2° Au titre de la mise en œuvre des armements nucléaires :
 
@@ -134,4 +140,16 @@ Postes désignés sur proposition du directeur des ressources humaines de l'arm�
 
 - base opérationnelle de l'Ile Longue (ILONG BASE) ;
 
-- école de navigation sous-marine de Brest (ENSM Brest).
+- école de navigation sous-marine de Brest (ENSM Brest) ;
+
+- base d'aéronautique navale d'Hyères ;
+
+- flottille 11F (secteur chargé de l'armement-ASMPA) ;
+
+- flottille 12F (secteur chargé de l'armement-ASMPA) ;
+
+- flottille 17F (secteur chargé de l'armement-ASMPA).
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 9 octobre 2024 (NOR : ARMH2427401A), ces dispositions entrent en vigueur le 1er décembre 2024.
