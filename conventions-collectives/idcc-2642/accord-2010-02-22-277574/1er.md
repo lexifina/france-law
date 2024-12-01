@@ -1,11 +1,17 @@
 # Article 1er
 
-Les organisations syndicales de salariés et d'employeurs de la production audiovisuelle, soucieuses de suivre et d'améliorer les conditions d'hygiène, de sécurité et de travail dans la branche de la production audiovisuelle, décident de créer un comité central d'hygiène, de sécurité et des conditions de travail de la production audiovisuelle (CCHSCT-PAV).
+Afin de suivre et d'améliorer les conditions d'hygiène, de sécurité et les conditions de travail dans la branche, les partenaires sociaux ont institué un comité central d'hygiène, de sécurité et des conditions de travail dans la production audiovisuelle (CCHSCT PAV) par le présent accord.
 
-Le CCHSCT-PAV est composé de représentants des organisations syndicales de salariés et des organisations d'employeurs, représentatives dans la branche de la production audiovisuelle, en nombre égal. A la date de la signature du présent accord, ce nombre est de 6 titulaires et de 6 suppléants par collège.
+Les missions du CCHSCT PAV sont les suivantes :
 
-Le CCHSCT est présidé par un membre du collège patronal. Le président est assisté d'un vice-président appartenant au collège salariés.
+– assurer un rôle de prévention des risques professionnels, d'information et de conseil en matière d'hygiène et de sécurité auprès des entreprises appliquant la présente convention collective et l'ensemble des salariés qu'elles engagent ;
 
-Le CCHSCT-PAV a pour fonction d'exercer les missions prévues aux articles L. 4612-1, L. 4612-3 et L. 4612-5 du code du travail.
+– contribuer à la protection de la santé physique et mentale des salariés, à la promotion de la prévention des risques professionnels ainsi qu'à l'amélioration des conditions de travail dans la branche ;
 
-La compétence du CCHSCT-PAV est étendue à l'ensemble des entreprises couvertes par la présente convention collective, à la seule exception de celles où doit être mis en place un CHSCT. Cette compétence porte sur l'ensemble des salariés, quel que soit leur contrat de travail.
+– proposer et mettre en œuvre toute action qu'il estime utile entrant dans le cadre de ses missions ;
+
+– contribuer à la représentation institutionnelle de la branche en matière d'hygiène, de santé, de sécurité et des conditions de travail.
+
+Il décide de réaliser des enquêtes en cas d'accident du travail ou de maladie professionnelle, à des fins d'amélioration de la prévention.
+
+La compétence du CCHSCT PAV porte sur l'ensemble des entreprises de la branche et de leurs salariés, quel que soit leur contrat de travail.
