@@ -1,0 +1,9 @@
+# Réponse à la question n° 391
+
+- Question : [391](391.md) — Question n° 391 — Suspension des paiements aux offices HLM et communes des loyers des casernes
+
+## Réponse
+
+*JO du 2024-12-03, page 6471*
+
+S'agissant de la réserve opérationnelle, si les contraintes financières connues au cours de la gestion 2024 ont conduit à optimiser les crédits du programme 152 Gendarmerie nationale, les crédits disponibles doivent permettre de respecter les engagements prévus jusqu'à la fin de l'année. Au niveau opérationnel, ce sujet est suivi avec attention : la réduction constatée du nombre moyen de réservistes employés par jour sur les mois de septembre et octobre est majoritairement liée à l'écart d'activité par rapport aux mois estivaux, période pendant laquelle la mobilisation des réservistes a été particulièrement marquée par la sécurisation des grands évènements (jeux Olylmpiques et Paralympiques - JOP) et pour maintenir la continuité d'action sur l'ensemble du territoire, en particulier dans un contexte de projection des personnels d'active au profit des JOP et du rétablissement de l'ordre public en Nouvelle-Calédonie. S'agissant des loyers, le report de paiement porte sur les seuls loyers de septembre, octobre et novembre souscrits auprès de bailleurs insitutionnels métropolitains (collectivités, SA HLM, CDC Habitat, etc.). Les bailleurs les plus fragiles, notamment les particuliers, ne sont pas concernés, de même que l'ensemble des bailleurs en outre-mer. Dans l'attente de l'ouverture des crédits supplémentaires demandés dans le cadre d'une loi de fin de gestion qui devrait intervenir au début du mois de décembre, une procédure de demande d'exception au blocage des loyers est mise en place pour permettre la remise en paiement immédiate des échéances dues aux bailleurs les plus exposés qui en expriment le besoin. La gendarmerie procédera au versement intégral des loyers dès que les crédits nouveaux seront mis à disposition du programme.
