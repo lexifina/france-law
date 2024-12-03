@@ -1,0 +1,53 @@
+# Renforcer les conditions d'accès à la nationalité française à Mayotte
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N51039
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_conditions_acces_nationalite_francaise_mayotte
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl24-315.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2024-12-03 : 1er dépôt d'une initiative. (PIONANR5L17B0693)
+  - 2025-02-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-12-03 : Renvoi en commission au fond
+      - 2025-01-22 : Nomination de rapporteur
+      - 2025-01-22 : Réunion de commission
+      - 2025-01-29 : Réunion de commission
+      - 2025-02-05 : Réunion de commission
+      - 2025-01-29 : Dépôt de rapport (RAPPANR5L17B0864, PIONANR5L17BTC0864)
+  - Discussion en séance publique
+    - 2025-02-06 : Discussion en séance publique
+    - 2025-02-06 : Discussion en séance publique
+    - 2025-02-06 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2025-02-06 : Dépôt d'une initiative en navette (PIONSNR5S459B0315)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-02-06 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2025-03-19 : Dépôt de rapport (RAPPSNR5S459B0466, PIONSNR5S459BTC0467)
+  - Discussion en séance publique
+    - 2025-03-25 : Décision
+- Commission Mixte Paritaire
+  - 2025-03-26 : Dépôt d'un projet de loi (PIONANR5L17B1176)
+  - 2025-03-26 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2025-04-01 : Nomination de rapporteur
+    - 2025-04-01 : Dépôt du rapport d'une CMP (RAPPSNR5S459B0499, PIONSNR5S459BTC0500)
+    - 2025-04-01 : Dépôt du rapport d'une CMP (RAPPANR5L17B1199, PIONANR5L17BTC1199)
+  - Discussion en séance publique
+    - 2025-04-03 : Décision
+  - Discussion en séance publique
+    - 2025-04-08 : Discussion en séance publique
+    - 2025-04-08 : Décision
+  - 2025-04-01 : Décision de la CMP
+- Conseil constitutionnel
+  - 2025-04-10 : Saisine du conseil constitutionnel
+  - 2025-04-14 : Saisine du conseil constitutionnel
+  - 2025-05-07 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2025-05-12 : Promulgation d'une loi
