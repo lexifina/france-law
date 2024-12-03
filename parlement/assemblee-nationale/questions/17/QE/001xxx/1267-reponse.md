@@ -1,0 +1,9 @@
+# Réponse à la question n° 1267
+
+- Question : [1267](1267.md) — Question n° 1267 — Dette publique en Nouvelle-Calédonie
+
+## Réponse
+
+*JO du 2024-12-03, page 6458*
+
+L'État est très attentif à la situation économique et financière de la Nouvelle-Calédonie et de ses collectivités. Un travail de grande ampleur a été mené par les membres du Gouvernement de Nouvelle-Calédonie (GNC) et les services de l'État pour éviter la cessation de paiement des collectivités locales et pour assainir leurs finances. C'est tout l'objet des avances remboursables de juillet et septembre 2024, qui étaient conditionnées à des mesures de gestion et fléchées vers le financement des services publics essentiels. Les institutions mentionnées, à l'image de la Caisse de compensation des prestations familiales, des accidents du travail et de prévoyance des travailleurs de Nouvelle-Calédonie (CAFAT), du Régime unifié d'assurance maladie et maternité (RUAMM) ou d'ENERCAL, ont ainsi pu assurer la continuité de service. Ces financements s'accompagnent d'un soutien technique des services de l'État pour permettre à la collectivité de Nouvelle-Calédonie de transformer son modèle socio-économique et aux opérateurs de retrouver une autonomie financière. Dans ce contexte, la mobilisation de BPIFrance apparait d'autant moins opportune qu'elle a deux défauts conséquents. Tout d'abord, elle serait longue à déployer car elle implique le développement d'un produit dédié. Par ailleurs, cette solution de court terme pourrait pénaliser d'avantage les collectivités à plus long terme en raison du coût de cette facilité de crédit ; celle-ci pourrait se révéler coûteuse si elles ne parvenaient pas à solder rapidement leur créance. Les avances remboursables du Trésor telles que déployées aujourd'hui par l'État permettent d'agir rapidement, efficacement et à moindre coût pour les finances publiques locales en soutien aux collectivités.
