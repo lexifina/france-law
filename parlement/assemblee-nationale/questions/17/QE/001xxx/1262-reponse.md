@@ -1,0 +1,9 @@
+# Réponse à la question n° 1262
+
+- Question : [1262](1262.md) — Question n° 1262 — Demande d'acquisition de la nationalité française par les conjointes de Français
+
+## Réponse
+
+*JO du 2024-12-03, page 6467*
+
+Les autorités diplomatiques et consulaires reçoivent les demandes d'acquisition et de perte de la nationalité française pour le compte du ministère de l'Intérieur ou du ministère de la Justice, en fonction de la nature de la demande, en application du décret n° 93-1362 du 30/12/1993. L'article 14-1 de ce texte, qui liste les justificatifs à produire à l'appui d'une déclaration acquisitive de nationalité au titre du mariage (article 21-2 du code civil), prévoit, dans son point 6°, la production d'un « extrait de casier judiciaire ou un document équivalent délivré par une autorité judiciaire ou administrative compétente du ou des pays où il a résidé au cours des dix dernières années, ou, lorsqu'il est dans l'impossibilité de produire ces documents, du pays dont il a la nationalité ». La date de délivrance d'une durée inférieure à 3 mois à la date de la demande est une exigence de la sous-direction de l'accès à la nationalité française (SDANF) du ministère de l'Intérieur, pour le compte duquel les déclarations au titre du mariage sont reçues à l'étranger. L'impossibilité dans laquelle se trouverait la déclarante de produire la totalité de ces documents, dans les délais contraints qui lui sont imposés, doit être justifiée. Si ces justificatifs sont effectivement apportés, la SDANF peut faire preuve de compréhension en acceptant les documents qui auront pu être rassemblés, même s'ils sont datés de plus de trois mois. En cas de difficultés, la postulante est invitée à informer le poste consulaire, qui prendra l'attache du bureau des affaires juridiques du service central d'état civil. En cas de doute, ce dernier sollicitera les instructions de la SDANF sur le cas particulier qui lui sera soumis.
