@@ -1,0 +1,9 @@
+# Réponse à la question n° 808
+
+- Question : [808](808.md) — Question n° 808 — Prix excessifs des assurances pour les entreprises de traitement de surface
+
+## Réponse
+
+*JO du 2024-12-03, page 6457*
+
+Le Gouvernement est conscient des difficultés assurantielles pouvant être rencontrées par les entreprises exerçant une activité de traitement de surface. Néanmoins, ces difficultés sont pour la plupart des cas dues à une prévention insuffisante. L'industrie de l'assurance dommages aux biens connaît des sinistres conséquents provoqués par les bains de traitement chauffés en bacs plastiques depuis de nombreuses années. Les bains de traitement chauffés en bacs plastiques sont utilisés dans de nombreuses industries, telles que l'électronique ou la métallurgie et la galvanoplastie, du fait de la nature corrosive des solutions utilisées. Les plastiques les plus couramment utilisés présentent d'excellentes propriétés de résistance à la corrosion, cependant, ils sont fortement combustibles et les systèmes de chauffe des bacs représentent une source d'ignition potentielle. Sans systèmes de surveillance, de protection ni maintenances appropriées, les opérations impliquant des bains de traitement chauffés en réservoirs plastiques peuvent générer un risque d'incendie significatif. Pour pallier ces difficultés assurantielles, le Gouvernement enjoint donc aux entreprises de traitement de surface à accroître leurs mesures de prévention. Il est par exemple recommandé d'utiliser des bacs et des gaines d'aspiration des vapeurs des bains construits avec des matériaux incombustibles (comme l'action inoxydable) ou encore d'installer un système d'extinction automatique par sprinkler, en utilisant des matériaux résistant à la corrosion, au-dessus des bacs et à l'intérieur des canalisations d'extractions.
