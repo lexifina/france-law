@@ -8,25 +8,25 @@ I. ― Personnel d'exécution :
 
 Agents des filières suivantes :
 
-― filière Informatique » (ex-mécanographie) ;
+― filière Informatique (ex-mécanographie) ;
 
-― filière Magasins ».
+― filière Magasins .
 
 II. ― Personnel de maîtrise :
 
 Agents des filières et sous-filières suivantes :
 
-― sous-filière Contrôle administratif et enquêtes » ;
+― sous-filière Contrôle administratif et enquêtes ;
 
-― sous-filière Travaux » ;
+― sous-filière Travaux ;
 
-― filière Informatique » (ex-mécanographie) ;
+― filière Informatique (ex-mécanographie) ;
 
-― filière Magasins des dépôts du réseau routier » ;
+― filière Magasins des dépôts du réseau routier ;
 
-― sous-filière Infirmiers » ;
+― sous-filière Infirmiers ;
 
-― agents de la sous-filière Opérateurs de psychotechnique » du laboratoire de Villiers.
+― agents de la sous-filière Opérateurs de psychotechnique du laboratoire de Villiers.
 
 III. ― Cadres :
 
@@ -42,17 +42,17 @@ I. ― Personnel d'exécution :
 
 Agents des filières et sous-filières suivantes :
 
-― sous-filière Bureau de dépôt » ;
+― sous-filière Bureau de dépôt ;
 
-― filière Entretien et ateliers » à l'exception de ceux énumérés au tableau B annexé au présent décret.
+― filière Entretien et ateliers à l'exception de ceux énumérés au tableau B annexé au présent décret.
 
 II. ― Personnel de maîtrise :
 
 Agents des filières et sous-filières suivantes :
 
-― sous-filière Bureau de dépôt » ;
+― sous-filière Bureau de dépôt ;
 
-― filière Entretien et ateliers » à l'exception de ceux énumérés au tableau B annexé au présent décret.
+― filière Entretien et ateliers à l'exception de ceux énumérés au tableau B annexé au présent décret.
 
 TABLEAU B
 
@@ -60,13 +60,13 @@ I. ― Personnel d'exécution :
 
 Tous agents des filières et sous-filières suivantes :
 
-― filière Exploitation du réseau ferré » ;
+― filière Exploitation du réseau ferré ;
 
-― sous-filière Receveurs » ;
+― sous-filière Receveurs ;
 
-― sous-filière Machinistes ».
+― sous-filière Machinistes .
 
-Tous agents de la filière Entretien et ateliers » énumérés ci-après :
+Tous agents de la filière Entretien et ateliers énumérés ci-après :
 
 ― agents des équipes de pose des voies ;
 
@@ -90,11 +90,11 @@ II. ― Personnel de maîtrise :
 
 Tous agents des filières et sous-filières suivantes :
 
-― filière Exploitation du réseau ferré » ;
+― filière Exploitation du réseau ferré ;
 
-― sous-filière Machinistes ».
+― sous-filière Machinistes .
 
-Agents de la filière Entretien et ateliers » énumérés ci-après :
+Agents de la filière Entretien et ateliers énumérés ci-après :
 
 ― contremaîtres-visiteurs ;
 
@@ -198,6 +198,64 @@ Le représentant du conseil de prévoyance assiste à ces séances à titre cons
 
 L'intéressé peut se faire assister par un médecin de son choix qui sera entendu à titre consultatif.
 
+Article 108
+
+Le personnel est réparti dans les catégories suivantes :
+
+- opérateurs ;
+
+- membres de l'encadrement : agents de maîtrise et techniciens supérieurs, cadres, cadres supérieurs et cadres de direction.
+
 Article 128
 
-La rémunération statutaire comprend un élément dit complément spécial de traitement » qui peut être réduit chaque mois de la moitié de sa valeur horaire pour chaque heure de travail perdue par suite de congé de maladie.
+La rémunération statutaire comprend un élément dit complément spécial de traitement qui peut être réduit chaque mois de la moitié de sa valeur horaire pour chaque heure de travail perdue par suite de congé de maladie.
+
+Annexes du statut du personnel de la Régie autonome des transports parisiens
+
+Annexe 8. Rémunération statutaire
+
+(…)
+
+I.-Structure des grilles de rémunération
+
+1. Catégories
+
+Les salariés sont répartis en 3 catégories :
+
+-les opérateurs ;
+
+-les agents de maîtrise et les techniciens supérieurs ;
+
+-les cadres.
+
+(…)
+
+3. Les majorations collectives
+
+(…)
+
+3.2. Rétablissement des majorations au titre du départ à la retraite
+
+Depuis le 1er juillet 1977, à l'exception du personnel supérieur, les agents ayant bénéficié de profils de majoration collectives liées aux conditions d'utilisation pendant au moins 15 ans au cours de leur carrière, mais qui s'en trouvent dépourvus lors de leur départ à la retraite, bénéficient du rétablissement de ces majorations les six mois précédant leur départ.
+
+Modalités :
+
+Le cumul des 15 ans s'apprécie au sein de la catégorie où se trouve l'intéressé au moment de son départ et la précédente.
+
+Si les agents ont subi la même sujétion pendant 15 ans, la majoration à attribuer est celle correspondant à cette sujétion.
+
+S'ils ont subi des sujétions différentes donnant lieu à l'attribution d'un même nombre de points de majoration, la majoration rétablie au titre du départ à la retraite sera celle perçue le plus longtemps par l'agent.
+
+S'ils ont subi des sujétions donnant lieu à l'attribution de points de majoration de valeur différente, la majoration la plus faible est retenue.
+
+(…)
+
+II.-Rémunération statutaire
+
+(…)
+
+3. Cotisations pour la retraite
+
+Particularités : Cotisations supplémentaires sur la base du salaire statutaire.
+
+Les agents qui exercent certains métiers comportant des sujétions, cotisent pour la retraite sur la base de leur salaire statutaire, majoré selon leur niveau, par un nombre de points issu des textes réglementaires en vigueur rattachés au métier concerné.
