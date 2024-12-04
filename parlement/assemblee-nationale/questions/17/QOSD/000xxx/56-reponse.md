@@ -1,0 +1,31 @@
+# Réponse à la question n° 56
+
+- Question : [56](56.md) — Question n° 56 — Impact de l'installation massive d'éoliennes dans l'Aisne
+
+## Réponse
+
+*JO du 2024-12-04, page 7379*
+
+ÉOLIENNES DANS L'AISNE
+
+M. le président . La parole est à M. Nicolas Dragon, pour exposer sa question, no 56, relative aux éoliennes dans l'Aisne.
+
+M. Nicolas Dragon . Dans mon département de l'Aisne, où il n'y a pas plus de vent qu'ailleurs, nous subissons la présence massive d'éoliennes, implantées ou en cours d'implantation. Selon l'observatoire des éoliennes en Hauts-de-France, dans l'Aisne, 516 machines sont en activité, 204 en construction et 235 en instruction. Pour une majorité d'habitants, ces engins entraînent une pollution visuelle de jour comme de nuit, des infrasons particulièrement insupportables pour les riverains, une baisse des prix de l'immobilier et des conséquences non négligeables sur la faune et les paysages.
+
+Le patrimoine bâti et historique est clairement menacé. Combien de villages, de villes, d'églises sont désormais pollués visuellement par ces installations ? Citons les seules éoliennes implantées autour de Laon, de Guignicourt, de Montcornet, de Montaigu et même du site historique du Chemin des Dames… Et pour quel gain ? Les factures d'électricité sont de plus en plus chères – en hausse de 120 % depuis douze ans –, alors même que de plus en plus de machines sont installées, dans l'Aisne comme ailleurs. Je dénonce l'inflation des prix de l'électricité, pour nos habitants et nos très petites, petites et moyennes entreprises, notamment alimentée par les coûts de raccordement et d'adaptation des réseaux électriques à ces productions intermittentes et émiettées sur tout le territoire, davantage financées par les consommateurs que par les producteurs, au bout du compte.
+
+Ce vent de folie provenant des éoliennes semble une hérésie, sachant qu'au moyen de nos cinquante-six réacteurs nucléaires et de nos barrages hydrauliques, 95 % de l'électricité du territoire est décarbonée depuis des années. À l'inverse de son voisin d'outre-Rhin, la France émet ainsi – fait indiscutable depuis des décennies – très peu de CO2 en produisant son électricité. Cette hérésie est d'autant plus surprenante que RTE – Réseau de transport d’électricité – montre clairement dans son dernier rapport que la production française d'électricité est restée stable depuis le début des années 2000.
+
+Dans sa déclaration de politique générale, le premier ministre avait annoncé une réévaluation des conséquences de la production d'énergies renouvelables. Quelles solutions proposez-vous pour faire face à la saturation en éoliennes du territoire axonais ? L'implantation massive de mâts et d'autres équipements en lien avec cette technologie menacent l'attractivité, l'économie, le patrimoine, la qualité de vie et la biodiversité du département, le tout sans apporter de réels profits à nos concitoyens. Comment comptez-vous faire cesser cette hérésie énergétique ?
+
+M. le président . La parole est à Mme la ministre déléguée chargée de l'énergie.
+
+Mme Olga Givernet, ministre déléguée chargée de l'énergie . J’entends les revendications de certains élus quant aux conséquences de l’éolien, notamment sur les paysages. L’acceptabilité est d'ailleurs un facteur important – peut-être le plus important – pour favoriser le développement des énergies, en particulier des énergies renouvelables. Le premier ministre avait souligné dans sa déclaration de politique générale que nous devions en mesurer toutes les conséquences. Nous le faisons : les éoliennes terrestres sont soumises au régime des installations classées pour la protection de l’environnement, dont l'autorisation est strictement encadrée et se fonde sur une analyse précise des conséquences potentielles sur le paysage et la biodiversité. Lorsque certains effets n’ont pu être évités, je comprends que ces installations puissent gêner nos concitoyens ; et je sais l’Aisne particulièrement concernée par leur développement.
+
+Des travaux sont en cours afin d'améliorer l'acceptabilité des éoliennes à l'aide d'un balisage circonstancié – qui permettrait de limiter très fortement leur nuisance lumineuse la nuit ; en réduisant leur nombre et en variant leur taille – ce qui diminue la sensation d’encerclement ; enfin, en facilitant le renouvellement des parcs existants, qui entraîne également, vous devez le savoir, une réduction du nombre de machines, puisque pour cinq parcs obsolètes démantelés, seuls trois sont créés en remplacement.
+
+Rappelons néanmoins que cette énergie fonctionne, qu'elle est un atout pour les territoires en termes de finances publiques, qu'elle bénéficie aux communes, aux établissements publics de coopération intercommunale (EPCI), aux départements et même aux riverains, qu'elle est une ressource non négligeable pour les collectivités, et enfin qu'elle est une technologie essentielle pour atteindre nos objectifs de développement des énergies renouvelables – développement que je souhaite poursuivre, en concertation avec les élus. Je salue d'ailleurs ceux d'entre eux qui se sont portés volontaires pour développer l'éolien terrestre – quatre-vingt-dix zones d'accélération des énergies renouvelables sont recensées dans l'Aisne.
+
+M. le président . La parole est à M. Nicolas Dragon.
+
+M. Nicolas Dragon . Merci pour votre réponse. Le niveau de saturation, donc d'acceptabilité, est cependant largement dépassé dans le département. Les habitants ne supportent plus ces implantations massives qui entraînent de vraies nuisances. J'entends vos arguments, s'agissant du financement public des communes et des EPCI ; nous en tenons compte au sein du groupe Rassemblement national. Mais s'agissant du gain énergétique pour nos concitoyens, le compte n'y est pas et je le déplore.
