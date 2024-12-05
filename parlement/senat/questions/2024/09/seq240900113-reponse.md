@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240900113
+
+- Question : [SEQ240900113](seq240900113.md) — Conditions d'obtention d'un visa Schengen pour les conjoints et ayants droit étrangers de Français établis hors de France
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2024-12-05, page 4701*
+
+« L'article 15 du code communautaire des visas (CCV) prévoit que : « 1. Les demandeurs de visa uniforme à une ou deux entrées prouvent qu'ils sont titulaires d'une assurance maladie en voyage adéquate et valide couvrant les éventuels frais de rapatriement pour raison médicale, de soins médicaux d'urgence et/ou de soins hospitaliers d'urgence ou de décès pendant leur (s) séjour (s) sur le territoire des États membres. (…) ; 3. Cette assurance est valable sur l'ensemble du territoire des États membres et pendant toute la durée du séjour ou du transit prévu de l'intéressé. (…) ». Si un conjoint de Français déclare vouloir séjourner en France ou dans l'espace Schengen pendant moins de 90 jours par période de 180 jours, les dispositions du CCV s'appliquent. Il doit donc prouver qu'il est titulaire d'une assurance maladie en voyage adéquate et valide couvrant les éventuels frais de rapatriement pour raison médicale à partir de l'ensemble du territoire des États membres. Une offre santé qui ne prévoirait la prise en charge d'un rapatriement de ses adhérents que vers la France ne répondrait pas aux critères fixés par le CCV. S'agissant de conjoints de Français, l'ambassade ou le consulat amené à recevoir la demande de visa appliquera la gratuité et n'exigera pas de justificatifs de ressources, de résidence ni d'attestation d'accueil. Comme indiqué, le demandeur devra, en revanche, fournir à l'appui de sa demande un justificatif de la nationalité française de son conjoint, un justificatif du lien matrimonial et une assurance médicale de voyage couvrant les éventuels frais de rapatriement pour raison médicale à partir de l'ensemble du territoire des Etats membres.
