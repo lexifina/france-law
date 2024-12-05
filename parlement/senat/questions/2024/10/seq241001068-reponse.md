@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001068
+
+- Question : [SEQ241001068](seq241001068.md) — Information et recours des entreprises privées au forfait mobilités durables
+
+## Réponse
+
+*Transports, JO du 2024-12-05, page 4748*
+
+Les principales informations dont dispose le ministère du partenariat avec les territoires et de la décentralisation sur le déploiement du forfait mobilités durables sont issues du dernier baromètre, mis en ligne sur le site de l'observatoire et disponible à l'adresse suivante : https://observatoire.covoiturage.gouv.fr/. Elles montrent que le forfait mobilités durables reste insuffisamment connu des entreprises pour que celles-ci en fassent un véritable outil au service de la marque employeur et de la réduction de leur empreinte carbone : il reste majoritairement mis en place pour renforcer le pouvoir d'achat des salariés, répondre à leurs besoins de mobilité et encourager des pratiques plus durables. Le ministère du partenariat avec les territoires et de la décentralisationpoursuit ses efforts pour faire connaître le forfait mobilités durables, en tenant notamment à jour et en diffusant, en partenariat avec le Mouvement des entreprises de France, une plaquette de synthèse sur ces aides, disponible sur le site du service public : https://entreprendre.service-public.fr/vosdroits/F33808. Il rappelle également qu'en vertu de l'article R. 3261-13-2 du code du travail, une simple attestation sur l'honneur suffit pour faire valoir ses droits au forfait mobilités durables. Enfin, un « titre mobilité » a été introduit par la loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités. Fonctionnant sur le modèle du « titre restaurant », ce titre est une solution de paiement dématérialisée et prépayée facile à utiliser, que les employeurs peuvent mobiliser pour les remboursements liés au forfait mobilités durables ou à la prime transport. Il en existe des offres « clefs en main ».
