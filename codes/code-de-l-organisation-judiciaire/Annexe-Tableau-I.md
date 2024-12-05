@@ -600,50 +600,56 @@ Comportant la mention “ République française ” et la mention du nom de la 
 
 Largeur de 35 mm, divisé dans le sens vertical en deux parties égales, noire et verte. |
 
-Directeurs des services de greffe judiciaires et greffiers
+DIRECTEURS DES SERVICES DE GREFFE JUDICIAIRES, CADRES GREFFIERS DES SERVICES JUDICIAIRES ET GREFFIERS DES SERVICES JUDICIAIRES
 
 AUDIENCE |
 
-GRADE |
+CORPS |
 
 COSTUME |
 
-Cour de cassation. |
+Cour
+
+de cassation |
 
 Directeur des services de greffe judiciaires |
 
 Même costume que les conseillers de la Cour de cassation, sans or à la toque. Ceinture rouge à franges rouges. |
 
-|
-
-Greffier. |
+Cadre greffier des services judiciaires |
 
 Robe noire sans simarre ni toque noire. |
 
-Cour d'appel. |
+Greffier des services judiciaires |
+
+Robe noire sans simarre ni toque noire. |
+
+Cour d'appel |
 
 Directeur des services de greffe judiciaires |
 
 Même costume que les conseillers de la cour d'appel, sans galon à la toque. |
 
-|
-
-Greffier. |
+Cadre greffier des services judiciaires |
 
 Robe noire sans simarre ni toque noire. |
 
-Tribunal judiciaire |
+Greffier des services judiciaires |
+
+Robe noire sans simarre ni toque noire. |
+
+Tribunal
+
+judiciaire |
 
 Directeur des services de greffe judiciaires |
 
 Même costume que les juges du tribunal judiciaire, sans galon à la toque. |
 
-|
-
-Greffier. |
+Cadre greffier des services judiciaires |
 
 Robe noire sans simarre ni toque noire. |
 
-NOTA :
+Greffier des services judiciaires |
 
-Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.
+Robe noire sans simarre ni toque noire. |

@@ -62,6 +62,8 @@ Corps des directeurs techniques de l'administration pénitentiaire.
 
 Corps des directeurs des services de greffe judiciaires.
 
+Corps des cadres greffiers des services judiciaires.
+
 Corps des psychologues de la protection judiciaire de la jeunesse.
 
 Corps des directeurs des services de la protection judiciaire de la jeunesse.
