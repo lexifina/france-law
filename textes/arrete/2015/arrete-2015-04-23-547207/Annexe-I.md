@@ -118,17 +118,31 @@ Directeur du service logistique de la marine
 
 Service du commissariat des armées |
 
-Directeur du centre interarmées du soutien “ administration des opérations ”
+Directeur du centre interarmées du soutien ” administration des opérations ”
+
+|
 
 Directeurs du commissariat en opération extérieure
 
+|
+
 Directeur du centre interarmées du soutien “ multiservices ”
+
+|
 
 Directeur du centre interarmées du soutien “ équipements commissariat ”
 
+|
+
 Directeur du centre interarmées du soutien “ restauration et loisirs ”
 
+|
+
 Directeur du centre interarmées du soutien “ métiers et contrôle interne ”
+
+|
+
+Chefs de détachement modulaire du commissariat
 
 |
 

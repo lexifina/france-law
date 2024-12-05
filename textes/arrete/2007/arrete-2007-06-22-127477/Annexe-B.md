@@ -18,23 +18,37 @@ Commandant du centre national de soutien opérationnel |
 
 Sans limitation |
 
-Direction centrale du service du commissariat des armées |
+Direction centrale du service du commissariat des armées
 
-Directeur du centre interarmées du soutien administration des opérations |
+|
 
-Sans limitation |
+Directeur du centre interarmées du soutien administration des opérations
 
-Directeurs du commissariat d'outre-mer |
+|
+
+Sans limitation
+
+|
+
+Directeurs du commissariat-groupements de soutien commissariat outre-mer et à l'étranger (DICOM-GSC)
+
+|
 
 MAPA × 150 |
 
-Directeurs du commissariat en opération extérieure |
+Directeurs du commissariat en opération extérieure (DIRCOM)
 
-MAPA × 150 |
+|
 
-Chefs de détachement mixte du commissariat (DMC) |
+MAPA × 250
 
-MAPA × 10 |
+|
+
+Chefs de détachement modulaire du commissariat (DMC) |
+
+MAPA × 250
+
+|
 
 Service interarmées des munitions |
 

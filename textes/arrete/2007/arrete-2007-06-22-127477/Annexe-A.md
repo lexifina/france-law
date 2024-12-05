@@ -36,19 +36,29 @@ Sans limitation |
 
 Direction centrale du service du commissariat des armées |
 
-Directeurs des plates-formes commissariat |
+Directeurs des plates-formes commissariat
+
+|
 
 Sans limitation |
 
-Directeur de la plate-forme affrètement et transport |
+Directeur de la plate-forme affrètement et transport
+
+|
 
 Sans limitation |
 
-Directeur de l'établissement logistique de Roanne |
+Directeur de l'établissement logistique de Roanne
 
-MAPA x 0,66 |
+|
 
-Chefs des groupements de soutien de base de défense en métropole (2) |
+MAPA x 0,66
+
+|
+
+Chefs de groupement de soutien commissariat en métropole (2)
+
+|
 
 MAPA × 1 |
 

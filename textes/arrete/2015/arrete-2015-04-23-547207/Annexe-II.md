@@ -4,47 +4,47 @@ AUTORITÉS |
 
 PROGRAMMES |
 
-Directeur du centre interarmées du soutien "administration des opérations" |
+Directeur du centre interarmées du soutien “ administration des opérations " |
 
 P. 144, P. 146, P. 169, P. 178, P. 191, P. 212 |
 
-Directeur de la direction du commissariat d'outre-mer des forces françaises aux Emirats arabes unis (stationnée à Abou Dhabi) |
+Directeur du commissariat-groupement de soutien commissariat outre-mer et à l'étranger des forces françaises aux Emirats arabes unis (stationnée à Abou Dhabi) |
 
 P. 144, P. 146, P. 178, P. 212 |
 
-Directeur de la direction du commissariat d'outre-mer des éléments français au Sénégal (stationnée à Dakar) |
+Directeur du commissariat-groupement de soutien commissariat outre-mer et à l'étranger des éléments français au Sénégal (stationnée à Dakar) |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur de la direction du commissariat d'outre-mer des forces françaises à Djibouti (stationnée à Djibouti) |
+Directeur du commissariat-groupement de soutien commissariat outre-mer et à l'étranger des forces françaises à Djibouti (stationnée à Djibouti) |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur de la direction du commissariat d'outre-mer des forces françaises au Gabon (stationnée à Libreville) |
+Directeur du commissariat-groupement de soutien commissariat outre-mer et à l'étranger des forces françaises au Gabon (stationnée à Libreville) |
 
 P. 144, P. 178, P. 212 |
 
-Directeur de la direction du commissariat d'outre-mer des forces armées en Guyane (stationnée à Cayenne) |
+Directeur du commissariat-groupement de soutien commissariat outre-mer et à l'étranger des forces armées en Guyane (stationnée à Cayenne) |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur de la direction du commissariat d'outre-mer des forces armées aux Antilles (stationnée à Fort-de-France) |
+Directeur du commissariat-groupement de soutien commissariat outre-mer et à l'étranger des forces armées aux Antilles (stationnée à Fort-de-France) |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur de la direction du commissariat d'outre-mer des forces armées de la Nouvelle-Calédonie (stationnée à Nouméa) |
+Directeur du commissariat-groupement de soutien commissariat outre-mer et à l'étranger des forces armées de la Nouvelle-Calédonie (stationnée à Nouméa) |
 
 P. 144, P. 169, P. 178, P. 212 |
 
-Directeur de la direction du commissariat d'outre-mer des forces armées de la Polynésie française (stationnée à Papeete) |
+Directeur du commissariat-groupement de soutien commissariat outre-mer et à l'étranger des forces armées de la Polynésie française (stationnée à Papeete) |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur de la direction du commissariat d'outre-mer des forces armées de la zone sud de l'océan Indien (stationnée à Saint-Denis de La Réunion) |
+Directeur du commissariat-groupement de soutien commissariat outre-mer et à l'étranger des forces armées de la zone sud de l'océan Indien (stationnée à Saint-Denis de La Réunion) |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur de la direction du commissariat d'outre-mer des forces françaises en Côte d'Ivoire (stationnée à Abidjan) |
+Directeur du commissariat-groupement de soutien commissariat outre-mer et à l'étranger des forces françaises en Côte d'Ivoire (stationnée à Abidjan) |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
