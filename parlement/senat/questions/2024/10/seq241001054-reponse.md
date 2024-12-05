@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001054
+
+- Question : [SEQ241001054](seq241001054.md) — Éducation financière des plus jeunes et cryptoactifs
+
+## Réponse
+
+*Économie, finances et industrie, JO du 2024-12-05, page 4686*
+
+Le Ministre est très attentif à l'information qui peut être donnée au jeune public dans le cadre bancaire notamment en ce qui concerne les cryptoactifs. Il convient de rappeler que les cryptoactifs ne sont en effet pas abordés dans le passeport « éducation économique budgétaire et financière (Educfi) », proposé par la Banque de France (BDF), à destination des élèves de 4e. En revanche, le sujet est bien évoqué dans les différentes ressourcesdédiées au grand public notamment sur le site pédagogique « La Finance pour tous », organisme indépendant soutenu par la Fédération bancaire française (FBF) et le Ministère de l'éducation nationale diffusant des informations sur la gestion financière des ménages, ou encore sur le portail national de la stratégie de la Banque de France « Mes questions d'argent ». Les explications fournies visent à expliciter le fait que les cryptoactifs ne constituent pas une monnaie au sens légal, ni un moyen de paiement sûr et efficace. Les cryptoactifs ne sont pas abordés dans leur dimension de produit d'investissement, et la Banque de France ne communique pas explicitement sur « les connaissances nécessaires à un investissement éclairé sur ce type de marché financier ». Le prochain comité stratégique d'éducation financière pourra enrichir la stratégie nationale d'éducation financière de nouvelles thématiques, en réponse aux enjeux actuels d'éducation financière tels que les risques liés aux nouveaux comportements d'investissement, et d'arrêter avec l'ensemble des parties prenantes les principales actions concrètes et opérationnelles à destination des trois publics cibles (collégiens et lycéens ; jeunes actifs ; investisseurs de détails).
