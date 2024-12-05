@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240900111
+
+- Question : [SEQ240900111](seq240900111.md) — Prestations versées au titre du handicap aux Français résidant hors de France
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2024-12-05, page 4700*
+
+L'article R. 512-1 du code de la sécurité sociale prévoit que lorsqu'il conserve ses attaches familiales en France métropolitaine, l'enfant est réputé résider en France même s'il effectue hors de ce territoire : Un ou plusieurs séjours provisoires dont la durée n'excède pas trois mois sur une année civile. Un séjour de plus longue durée lorsqu'il est justifié que le séjour est nécessaire pour lui permettre soit de poursuivre des études, soit d'apprendre une langue étrangère, soit de parfaire sa formation professionnelle. Un séjour d'une durée maximum équivalente à une année scolaire lorsqu'il est établi que la famille a sa résidence principale en France dans une zone frontalière, que l'enfant fréquente un établissement de soins ou d'enseignement dans le pays voisin à proximité de la frontière et qu'il rejoint sa famille à intervalles réguliers. Ces dérogations visent à soutenir l'insertion scolaire, universitaire et professionnelle des personnes en situation de handicap. Le versement de l'allocation d'éducation de l'enfant handicapé (AEEH) au sens de l'article L. 541-1 du code de la sécurité sociale est alors maintenu par la caisse d'allocations familiales en France. Cette allocation ne relève pas des crédits du programme 151 dédiés aux Français de l'étranger du ministère de l'Europe et des affaires étrangères. Aussi, l'allocataire doit se rapprocher de sa caisse d'allocations familiales pour déclarer sa nouvelle situation, obtenir la liste des justificatifs à fournir et se faire confirmer les conditions du maintien de l'allocation handicapé avant le départ.
