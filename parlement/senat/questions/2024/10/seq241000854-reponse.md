@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000854
+
+- Question : [SEQ241000854](seq241000854.md) — Nombre de Français détenus à l'étranger
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2024-12-05, page 4714*
+
+Comme indiqué dans le rapport du gouvernement sur la situation des Français établis hors de France pour l'année 2022, les services du ministère de l'Europe et des affaires étrangères ont eu connaissance de 2 065 cas de Français détenus à l'étranger au cours de l'année civile 2022. En 2023, ce nombre s'élevait à 2 297. Sur les huit premiers mois de l'année 2024, 2071 cas de Français détenus à l'étranger ont été portés à la connaissance des services du ministère de l'Europe et des affaires étrangères. A la date du 1er septembre 2024, ils avaient connaissance de 1 658 Français effectivement incarcérés. En effet, le nombre des Français détenus dans le monde varie quotidiennement en fonction des nouvelles incarcérations et des fins de détention. La majorité est localisée dans l'Union européenne et en Europe occidentale (59 % du total), en particulier dans les pays frontaliers de la France (38 % du total). On trouve ensuite l'Afrique du Nord et le Moyen-Orient (18 %), les Amériques (9 %), l'Afrique (7 %), l'Asie et l'Océanie (6 %) et enfin l'Europe continentale (1 %). Il convient de préciser que tous ces chiffres doivent être pris avec précaution dans la mesure où les services du ministère ne sont pas systématiquement informés des arrestations et incarcérations de ressortissants. En effet, les Français concernés ne souhaitent pas nécessairement se faire connaître des services du ministère ou bénéficier de la protection consulaire. Quant aux autorités locales, dans de nombreux pays, notamment frontaliers, elles n'ont l'obligation d'avertir les autorités consulaires françaises que si la personne arrêtée ou incarcérée en fait la demande expresse.
