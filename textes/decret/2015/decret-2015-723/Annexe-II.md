@@ -544,29 +544,25 @@ Tableau III.-Titres permettant d'exercer des fonctions au pont sur des navires a
 
 |
 
-Navires de moins de 9 mètres armés à la petite pêche-en 4e ou 5e catégorie de navigation sauf pour l'outre-mer où la limite est portée à 12 milles des côtes |
+Navires de longueur hors tout inférieure à 9 mètres armés à la petite pêche-en 4e ou 5e catégorie de navigation sauf pour l'outre-mer où la limite est portée à 12 milles des côtes |
 
-Navires armés à la petite pêche et navires armés à la pêche côtière ou à la pêche au large d'une longueur < à 24 mètres et allant au plus à 100 milles des côtes |
+Navires armés à la petite pêche et navires armés à la pêche côtière ou à la pêche au large d'une longueur de référence < à 24 mètres et allant au plus à 100 milles des côtes |
 
-Navires armés à la pêche côtière ou
+Navires armés à la pêche côtière ou à la pêche au large et :
 
-à la pêche au large et :
+1. D'une longueur de référence < à 24 mètres et navigant en eaux illimitées ;
 
-1. D'une longueur < à
+ou
 
-24 mètres et navigant en
+2. D'une longueur de référence ≥ à 24 mètres et < à 45 mètres et allant au plus à 100 milles des côtes |
 
-eaux illimitées ; ou
+Navires armés à la pêche côtière
 
-2. D'une longueur
-
-> à 24 mètres et < à 45 mètres et allant au plus à 100 milles des côtes |
-
-Navires armés à la pêche côtière ou à la pêche au large |
+ou à la pêche au large |
 
 Navires armés à la grande pêche |
 
-Fonction |
+Fonctions |
 
 Officier chargé du quart à la passerelle |
 
@@ -764,15 +760,37 @@ Tableau IV.-Titres permettant d'exercer des fonctions à la machine à bord de t
 
 |
 
-NAVIRES D'UNE PUISSANCE PROPULSIVE INFÉRIEURE À 250 kW (3) |
+NAVIRES D'UNE PUISSANCE
 
-NAVIRES D'UNE PUISSANCE PROPULSIVE INFÉRIEURE À 750 kW |
+PROPULSIVE INFÉRIEURE
 
-NAVIRES D'UNE PUISSANCE PROPULSIVE INFÉRIEURE À 3000 kW |
+À 250 KW (3) |
 
-NAVIRES D'UNE PUISSANCE PROPULSIVE INFÉRIEURE À 8000 kW |
+NAVIRES D'UNE PUISSANCE
 
-NAVIRES D'UNE PUISSANCE PROPULSIVE ÉGALE OU SUPÉRIEURE À 8000 kW |
+PROPULSIVE INFÉRIEURE
+
+À 750 KW |
+
+NAVIRES D'UNE PUISSANCE
+
+PROPULSIVE INFÉRIEURE
+
+À 3 000 KW |
+
+NAVIRES D'UNE PUISSANCE
+
+PROPULSIVE INFÉRIEURE
+
+À 8 000 KW |
+
+NAVIRES D'UNE PUISSANCE
+
+PROPULSIVE ÉGALE OU
+
+SUPÉRIEURE
+
+À 8 000 KW |
 
 Fonctions |
 
@@ -780,33 +798,43 @@ Officier chargé du quart à la machine |
 
 Second mécanicien |
 
-Chef mécanicien |
+Chef
+
+mécanicien |
 
 Officier chargé du quart à la machine |
 
 Second mécanicien |
 
-Chef mécanicien |
+Chef
+
+mécanicien |
 
 Officier chargé du quart à la machine |
 
 Second mécanicien |
 
-Chef mécanicien |
+Chef
+
+mécanicien |
 
 Officier chargé du quart à la machine |
 
 Second mécanicien |
 
-Chef mécanicien |
+Chef
+
+mécanicien |
 
 Officier chargé du quart à la machine |
 
 Second mécanicien |
 
-Chef mécanicien |
+Chef
 
-Titre |
+mécanicien |
+
+Titres |
 
 Brevet de mécanicien 250 kW |
 
@@ -886,11 +914,11 @@ X |
 
 X |
 
-X (5) |
+X (5) (7) |
 
-X (5) |
+X (5) (7) |
 
-X (5) |
+X (5) (7) |
 
 |
 
@@ -1332,6 +1360,8 @@ X |
 
 (6) Les titulaires du brevet de mécanicien 250 kW, du brevet de capitaine 200 et du brevet capitaine 200 pêche peuvent également exercer les fonctions définies dans le présent tableau à bord des navires de moins de 400 kW armés à la petite pêche. Les titulaires de ces mêmes brevets peuvent également exercer les fonctions définies dans le présent tableau à bord des navires de moins de 400 kW armés à la pêche côtière et autorisés à prendre la mer en 3e, 4e ou 5e catégorie de navigation.
 
+(7) Les titulaires du brevet de mécanicien 750 kW peuvent exercer des fonctions définies dans le présent tableau à bord des navires de maintenance en mer lorsque ces navires pratiquent le cabotage national ou la navigation côtière, sont dotés de deux moteurs de propulsion d'une puissance totale de moins de 3 000 kW, ont une jauge inférieure ou égale à 200, ne s'éloignent pas à plus de 60 milles des côtes et pour la seule navigation dans les eaux sous juridiction française permettant d'assurer l'exploitation du navire en toute sécurité.
+
 Tableau V.-Titres permettant d'exercer des fonctions opérationnelles ou d'appui en matière d'électronique et d'électrotechnique à bord de navires de plus de 750 kW
 
 TITRES |
@@ -1723,3 +1753,7 @@ Brevet d'aptitude à la conduite de petits navires à voile |
 × |
 
 (1) Pour l'exercice des activités définies à l'article D. 921-67 et au 5e alinéa de l'article D. 922-30 du code rural et de la pêche maritime, les titulaires du brevet restreint d'aptitude à la conduite de petits navires exercent leurs prérogatives à bord de navires de longueur inférieure à 12 mètres effectuant une navigation à moins de 6 milles du point de départ et de puissance propulsive strictement inférieure à 250 kW.
+
+NOTA :
+
+Conformément à l'article 2 du décret n° 2024- du 3 décembre 2024 (NOR : PTDM2426838D), ces dispositions sont applicables en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
