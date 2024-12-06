@@ -9,3 +9,7 @@ ucem.igem@developpement-durable.gouv.fr
 www.ucem-nantes.fr
 
 .
+
+NOTA :
+
+Conformément à l'article 8 de l'arrêté du 27 novembre 2024 (NOR : PTDM2428531A), la première partie de l'annexe I-b intitulée &laquo; Référentiel de compétences - Spécialité &laquo; CGEM Commerce &raquo; de baccalauréat professionnel &raquo; est supprimée.
