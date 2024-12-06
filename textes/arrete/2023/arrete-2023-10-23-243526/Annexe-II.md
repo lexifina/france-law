@@ -32,13 +32,13 @@ Le papier utilisé est de couleur blanche et son grammage est au minimum de 80 g
 
 2. La nature du contrôle :
 
-&laquo; Contrôle technique périodique &raquo;
+• &laquo; Contrôle technique périodique &raquo;
 
-&laquo; Contre-visite &raquo;
+• &laquo; Contre-visite &raquo;
 
-&laquo; CT Collection &raquo;
+• &laquo; CT Collection &raquo;
 
-&laquo; CV Collection &raquo;
+• &laquo; CV Collection &raquo;
 
 3. (3) La date du contrôle
 
@@ -46,81 +46,83 @@ Le papier utilisé est de couleur blanche et son grammage est au minimum de 80 g
 
 5. (7) Le résultat du contrôle :
 
-&laquo; Favorable &raquo;
+• &laquo; Favorable &raquo;
 
-&laquo; Défavorable pour défaillances majeures &raquo;
+• &laquo; Défavorable pour défaillances majeures &raquo;
 
-&laquo; Défavorable pour défaillances critiques &raquo;
+• &laquo; Défavorable pour défaillances critiques &raquo;
 
 6. (8) La limite de validité du contrôle réalisé
 
 7. La nature du prochain contrôle :
 
-&laquo; Contrôle technique périodique &raquo;
+• &laquo; Contrôle technique périodique &raquo;
 
-&laquo; Contre-visite &raquo;
+• &laquo; Contre-visite &raquo;
 
 8. L’identification du centre de contrôle :
 
-Numéro d’agrément
+• Numéro d’agrément
 
-(9) Raison sociale
+• (9) Raison sociale
 
-(3) Coordonnées
+• (3) Coordonnées
 
 9. (9) L’identification du contrôleur :
 
-Numéro d’agrément
+• Numéro d’agrément
 
-Signature
+• Signature
 
 10. L’identification du véhicule :
 
-(2) Le numéro d’immatriculation et le symbole du pays d’immatriculation
+• (2) Le numéro d’immatriculation et le symbole du pays d’immatriculation
 
-La date d’immatriculation
+• La date d’immatriculation
 
-La date de première mise en circulation
+• La date de première mise en circulation
 
-La marque
+• La marque
 
-La désignation commerciale du véhicule
+• La désignation commerciale du véhicule
 
-(1) Le numéro dans la série du type (VIN)
+• (1) Le numéro dans la série du type (VIN)
 
-(5) La catégorie internationale
+• (5) La catégorie internationale
 
-Le genre
+• Le genre
 
-Le type/CNIT
+• Le type/CNIT
 
-L’énergie
+• L’énergie
 
-Le(s) document(s) présenté(s)
+• Le(s) document(s) présenté(s)
 
 11. (4) Le kilométrage relevé
 
 12. Les informations sur le contrôle technique défavorable :
 
-Le numéro du procès-verbal
+• Le numéro du procès-verbal
 
-La date
+• La date
 
-Le numéro d’agrément du centre
+• Le numéro d’agrément du centre
 
 13. (6) Les défaillances et niveaux de gravité :
 
-Les défaillances critiques
+• Les défaillances critiques
 
-Les défaillances majeures
+• Les défaillances majeures
 
-Les défaillances mineures
+• Les défaillances mineures
 
-Les kilométrages relevés en contrôle technique
+• Les kilométrages relevés en contrôle technique
 
-Les commentaires
+• Les commentaires
 
 En cas de contre-visite, suite à un contrôle technique périodique, &laquo; La connaissance de l’ensemble des défaillances constatées sur ce véhicule nécessite de disposer également du procès-verbal de contrôle technique périodique &raquo;.
+
+Lorsque le contrôle a entraîné la validation de commentaires spécifiques conformément aux instructions techniques prévues à l'annexe I du présent arrêté, les mentions correspondantes sont imprimées sur le procès-verbal à la suite des défaillances et niveaux de gravité.
 
 En cas de discordance entre le numéro de frappe à froid relevé sur le châssis et le numéro de série relevé sur le document d'identification, &laquo; Numéro de frappe à froid relevé sur le châssis : &raquo;, suivi du numéro de frappe à froid relevé sur le châssis.
 
@@ -138,45 +140,45 @@ En cas d’impression sur un procès-verbal conforme aux dispositions de l’ann
 
 14. Les mesures réalisées et les valeurs limites correspondantes :
 
-Emissions sonores
+• Emissions sonores
 
-Emissions de polluants
+• Emissions de polluants
 
-Mesure de la vitesse
+• Mesure de la vitesse
 
 1.2.2. Inscriptions fixes
 
-&laquo; Procès-verbal de contrôle technique &raquo;
+• &laquo; Procès-verbal de contrôle technique &raquo;
 
-&laquo; Exemplaire remis à l’usager &raquo;
+• &laquo; Exemplaire remis à l’usager &raquo;
 
-La désignation de chacune des rubriques mentionnées dans les informations variables.
+• La désignation de chacune des rubriques mentionnées dans les informations variables.
 
 1.3. Verso
 
 Le verso du procès-verbal comporte exclusivement les mentions suivantes :
 
-&laquo; Les points de contrôle sont définis à l’annexe I de l’arrêté du 18 juin 1991 modifié (véhicules légers) ou de l’arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur &raquo; ;
+• &laquo; Les points de contrôle sont définis à l’annexe I de l’arrêté du 18 juin 1991 modifié (véhicules légers) ou de l’arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur &raquo; ;
 
-&laquo; Les valeurs limites prises en compte correspondent aux valeurs limites applicables au véhicule contrôlé (date de mise en circulation, caractéristiques techniques) &raquo; ;
+• &laquo; Les valeurs limites prises en compte correspondent aux valeurs limites applicables au véhicule contrôlé (date de mise en circulation, caractéristiques techniques) &raquo; ;
 
-&laquo; En cas de litige, les voies de recours amiables sont affichées dans le centre qui a délivré le procès-verbal &raquo; ;
+• &laquo; En cas de litige, les voies de recours amiables sont affichées dans le centre qui a délivré le procès-verbal &raquo; ;
 
-&laquo; Le contrôle technique d’un véhicule n’exonère pas son propriétaire de l’obligation de maintenir le véhicule en bon état de marche et en état satisfaisant d’entretien conformément aux dispositions du code de la route et des textes pris pour son application (art. 1er de l’arrêté du 18 juin 1991 modifié pour les véhicules légers ou de l’arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur &raquo; ;
+• &laquo; Le contrôle technique d’un véhicule n’exonère pas son propriétaire de l’obligation de maintenir le véhicule en bon état de marche et en état satisfaisant d’entretien conformément aux dispositions du code de la route et des textes pris pour son application (art. 1er de l’arrêté du 18 juin 1991 modifié pour les véhicules légers ou de l’arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur &raquo; ;
 
-&laquo; La contre-visite doit avoir lieu dans un délai maximal de deux mois après le contrôle technique. Passé ce délai, un nouveau contrôle technique est obligatoire. Lorsque la contre-visite est réalisée dans un centre différent de celui où a été réalisé le contrôle technique périodique, le procès-verbal du contrôle technique périodique doit obligatoirement être présenté au contrôleur, faute de quoi un contrôle technique complet est réalisé. Les points ou ensembles de points à contrôler lors de la contre-visite sont définis à l’annexe I de l’arrêté du 18 juin 1991 modifié (véhicules légers) ou de l’arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur) &raquo; ;
+• &laquo; La contre-visite doit avoir lieu dans un délai maximal de deux mois après le contrôle technique. Passé ce délai, un nouveau contrôle technique est obligatoire. Lorsque la contre-visite est réalisée dans un centre différent de celui où a été réalisé le contrôle technique périodique, le procès-verbal du contrôle technique périodique doit obligatoirement être présenté au contrôleur, faute de quoi un contrôle technique complet est réalisé. Les points ou ensembles de points à contrôler lors de la contre-visite sont définis à l’annexe I de l’arrêté du 18 juin 1991 modifié (véhicules légers) ou de l’arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur) &raquo; ;
 
-“ Vous disposez d'un droit d'accès et de rectification des informations nominatives vous concernant. Vous pouvez exercer ce droit en vous adressant au centre ayant édité le présent procès-verbal ”.
+• “ Vous disposez d'un droit d'accès et de rectification des informations nominatives vous concernant. Vous pouvez exercer ce droit en vous adressant au centre ayant édité le présent procès-verbal ”.
 
-La signalétique prévue à l'article L. 541-9-3 du code de l'environnement.
+• La signalétique prévue à l'article L. 541-9-3 du code de l'environnement.
 
 1.4. Couleurs d’impression
 
 Les couleurs d’impression des inscriptions fixes sont :
 
-Recto : bleu process (centre non rattaché) ou couleurs spécifiques du réseau ;
+• Recto : bleu process (centre non rattaché) ou couleurs spécifiques du réseau ;
 
-Verso : bleu process (centre non rattaché) ou couleurs spécifiques du réseau.
+• Verso : bleu process (centre non rattaché) ou couleurs spécifiques du réseau.
 
 Les dispositions relatives aux couleurs d’impression ne s'appliquent pas à la signalétique prévue à l'article L. 541-9-3 du code de l'environnement.
 
@@ -212,11 +214,11 @@ Le graphisme de la vignette est conforme à celui du fac-similé disponible sur 
 
 Les inscriptions fixes sont :
 
-&laquo; N° d’agrément &raquo; ;
+• &laquo; N° d’agrément &raquo; ;
 
-&laquo; N° de série &raquo; ;
+• &laquo; N° de série &raquo; ;
 
-&laquo; N° d’imprimé &raquo;.
+• &laquo; N° d’imprimé &raquo;.
 
 Les inscriptions fixes sont imprimées en lettres capitales avec une encre résistant à la lumière pendant une durée d’au moins deux ans. La taille des caractères d’imprimerie de ces inscriptions est de type Univers 65.
 
@@ -224,13 +226,13 @@ Les inscriptions fixes sont imprimées en lettres capitales avec une encre rési
 
 Les informations variables sont les suivantes :
 
-Le numéro d’agrément du centre ;
+• Le numéro d’agrément du centre ;
 
-Le numéro de série ;
+• Le numéro de série ;
 
-L’immatriculation du véhicule ;
+• L’immatriculation du véhicule ;
 
-Le numéro d’imprimé.
+• Le numéro d’imprimé.
 
 La vignette porte les lettres &laquo; CT &raquo; suivies de la date de limite de validité du contrôle réalisé.
 
@@ -246,17 +248,17 @@ Cette face reste vierge.
 
 Elles sont les suivantes :
 
-Fond de sécurité : bleu PMS 287 solidité lumière ;
+• Fond de sécurité : bleu PMS 287 solidité lumière ;
 
-Textes : bleu reflex ou noir.
+• Textes : bleu reflex ou noir.
 
 2.5. Sécurité de la vignette
 
 L’emploi d’un fond sécurisé est obligatoire. Ce fond sécurisé est constitué d’une trame comprise entre cent et cent cinquante lignes par pouce dans un pourcentage de dix à quinze pour cent et laisse apparaître en transparence les lettres &laquo; CT &raquo; d’une hauteur de trente millimètres et d’une graisse de cinq millimètres, centrées sur la vignette. Il est, en outre, renforcé :
 
-Soit par la présence d’un pictogramme latent, constitué d’une croix de dix millimètres d’épaisseur de trait calquée sur les deux diagonales de la vignette, relevable sur toute photocopie ;
+• Soit par la présence d’un pictogramme latent, constitué d’une croix de dix millimètres d’épaisseur de trait calquée sur les deux diagonales de la vignette, relevable sur toute photocopie ;
 
-Soit par la présence d’un timbre réfléchissant avec perforation.
+• Soit par la présence d’un timbre réfléchissant avec perforation.
 
 3. Timbre certificat d’immatriculation
 
@@ -272,11 +274,11 @@ La disposition des informations sur le timbre est conforme à celle du fac-simil
 
 Les informations sont les suivantes :
 
-Sur la première ligne, le numéro d’agrément du centre ;
+• Sur la première ligne, le numéro d’agrément du centre ;
 
-Sur la deuxième ligne, la lettre correspondant au résultat du dernier contrôle technique périodique ou de la dernière contre-visite (&laquo; A &raquo;, &laquo; S &raquo; ou &laquo; R &raquo;), suivie de la date de limite de validité du contrôle réalisé ;
+• Sur la deuxième ligne, la lettre correspondant au résultat du dernier contrôle technique périodique ou de la dernière contre-visite (&laquo; A &raquo;, &laquo; S &raquo; ou &laquo; R &raquo;), suivie de la date de limite de validité du contrôle réalisé ;
 
-Sur la troisième ligne, le numéro d’immatriculation du véhicule.
+• Sur la troisième ligne, le numéro d’immatriculation du véhicule.
 
 Ces informations sont apposées par impression. Elles permettent une lecture facile du timbre et correspondent à une utilisation optimale de la surface disponible.
 
@@ -286,9 +288,9 @@ L’identification du réseau (dénomination sociale ou nom commercial) peut êt
 
 Elles sont les suivantes :
 
-Fond : bleu PMS 287 solidité lumière ;
+• Fond : bleu PMS 287 solidité lumière ;
 
-Textes : bleu reflex ou noir (centre non rattaché) et/ou couleurs spécifiques du réseau.
+• Textes : bleu reflex ou noir (centre non rattaché) et/ou couleurs spécifiques du réseau.
 
 3.4. Sécurité du timbre
 
