@@ -410,7 +410,7 @@ I. ― France Télévisions doit être l'un des premiers investisseurs dans la c
 
 En matière cinématographique, cette ambition se traduit par une contribution étendue à l'ensemble des services de France Télévisions diffusant annuellement au moins une œuvre cinématographique de longue durée.
 
-La société contribue au renouvellement des genres et à la diversité des formats : promotion de nouvelles écritures et de nouveaux talents, thèmes adaptés en permanence pour être en phase avec l'évolution de la société. En matière cinématographique, la diversité est notamment assurée par une attention particulière aux premiers et seconds films et par la variété des niveaux de devis.
+La société contribue au renouvellement des genres et à la diversité des formats : promotion de nouvelles écritures et de nouveaux talents, thèmes adaptés en permanence pour être en phase avec l'évolution de la société.
 
 Le contrat d'objectifs et de moyens conclu entre l'Etat et France Télévisions détermine notamment les montants minimaux d'investissements de la société dans la production d'œuvres audiovisuelle et cinématographique européennes et d'expression originale française, en pourcentage de ses recettes et en valeur absolue.
 
@@ -418,7 +418,7 @@ La société peut par ailleurs nouer des accords spécifiques avec les organisat
 
 I bis. ― Le service de télévision Franceinfo ne diffuse pas d'œuvres cinématographiques de longue durée et réserve annuellement moins de 20 % de son temps de diffusion à des œuvres audiovisuelles.
 
-II. ― Dans les conditions prévues par les articles 8 et 10 à 13 du décret n° 2021-1926 du 30 décembre 2021 relatif à la contribution à la production d'œuvres cinématographiques et audiovisuelles des services de télévision diffusés par voie hertzienne terrestre, France Télévisions consacre une part du chiffre d'affaires annuel net de l'exercice précédent de ses services de télévision qui diffusent chaque année civile au moins une œuvre cinématographique de longue durée et de son service de télévision de rattrapage à des dépenses contribuant au développement de la production d'œuvres cinématographiques européennes au moins égale à 3,5 %. Le chiffre d'affaires établissant l'assiette de cette contribution est déterminé grâce à la mise en place d'une comptabilité analytique. France Télévisions transmet à l'Autorité de régulation de la communication audiovisuelle et numérique la méthode suivie et les données correspondantes.
+II. ― Dans les conditions prévues par les articles 8 et 10 à 13 du décret n° 2021-1926 du 30 décembre 2021 relatif à la contribution à la production d'œuvres cinématographiques et audiovisuelles des services de télévision diffusés par voie hertzienne terrestre, France Télévisions consacre une part du chiffre d'affaires annuel net de l'exercice précédent de ses services de télévision qui diffusent chaque année civile au moins une œuvre cinématographique de longue durée et de ses services de médias audiovisuels à la demande à des dépenses contribuant au développement de la production d'œuvres cinématographiques européennes au moins égale à 3,5 %. Le chiffre d'affaires établissant l'assiette de cette contribution est déterminé grâce à la mise en place d'une comptabilité analytique. France Télévisions transmet à l'Autorité de régulation de la communication audiovisuelle et numérique la méthode suivie et les données correspondantes.
 
 Pour les services dont le chiffre d'affaires annuel net de l'exercice précédent est compris entre 75 et 150 millions d'euros, et en l'absence de globalisation permise par l'article 8 du décret n° 2021-1926 du 30 décembre 2021, la part de leur contribution consacrée aux dépenses mentionnées aux 1°, 2° et 4° du I de l'article 5 du même décret est fixée à 90 %.
 
@@ -428,9 +428,23 @@ La contribution porte globalement sur le chiffre d'affaires réalisé par les se
 
 -services de télévision mentionnés au premier alinéa du présent II ;
 
--service de télévision de rattrapage mentionné au 6° de l'article 3 du présent cahier des charges.
+-services de médias audiovisuels à la demande, dont le service de télévision de rattrapage, mentionnés au 6° de l'article 3 du présent cahier des charges.
 
-Dans le cadre de cette globalisation, la société aura la possibilité de faire circuler les droits de diffusion des œuvres entre les services de télévision mentionnés au premier alinéa du présent II, dans les conditions contractuelles prévues au jour de l'engagement des dépenses. La part de la contribution consacrée aux dépenses mentionnées aux 1°, 2° et 4° du I de l'article 5 du décret n° 2021-1926 du 30 décembre 2021 s'apprécie sur le chiffre d'affaires globalisé de l'ensemble des services concernés.
+Dans le cadre de cette globalisation, la société aura la possibilité de faire circuler les droits de diffusion des œuvres entre les services de télévision mentionnés au premier alinéa du présent II, dans les conditions de l'article 7 de l'accord conclu le 17 mai 2024 avec les organisations professionnelles de l'industrie cinématographique. La part de la contribution consacrée aux dépenses mentionnées aux 1°, 2° et 4° du I de l'article 5 du décret n° 2021-1926 du 30 décembre 2021 s'apprécie sur le chiffre d'affaires globalisé de l'ensemble des services concernés.
+
+France Télévisions contribue à la diversité de la production et de la diffusion cinématographique et soutient un cinéma d'initiative française et européenne fort, pluriel et indépendant. La diversité de l'investissement de la société dans la production cinématographique est assurée par une attention particulière aux premiers et seconds films et aux différents genres du cinéma français, la variété des niveaux de devis ainsi que, entre 2024 et 2028, la réalisation des dépenses prévues aux 1° et 2° de l'article 5 du même décret dans au moins 60 œuvres différentes chaque année et au moins 25 œuvres d'animation.
+
+Conformément au 1° de l'article 26 du décret n° 2021-1926 du 30 décembre 2021, la durée mentionnée au 1° du II de l'article 13 est portée à 36 mois dans les conditions de l'article 5 de l'accord du 17 mai 2024 précité.
+
+Conformément au 3° de l'article 25 du décret n° 2021-1926 du 30 décembre 2021, dans la limite de 15 %, la société peut :
+
+-reporter sur l'exercice suivant, la réalisation d'une partie de la contribution ;
+
+-rattacher à l'exercice suivant les dépenses engagées lors de l'exercice qui n'ont pas encore été prises en compte.
+
+Les modalités d'acquisition et d'exploitation des œuvres cinématographiques en télévision de rattrapage respectent les stipulations des articles 2 et 3 de l'accord du 17 mai 2024 précité.
+
+L'accord conclu le 17 mai 2024 par France Télévisions avec les organisations professionnelles de l'industrie cinématographique est consultable auprès de l'Autorité de régulation de la communication audiovisuelle et numérique.
 
 III. ― Sur ses services nationaux, France Télévisions doit aller au-delà des obligations légales pour que 70 % des œuvres audiovisuelles qu'elle diffuse soient d'origine européenne dont 50 % d'œuvres audiovisuelles d'expression originale française. Cette obligation doit être respectée entre 18 heures et 23 heures, ainsi que le mercredi, le samedi et le dimanche entre 14 heures et 18 heures.
 
@@ -502,7 +516,7 @@ Article 10
 
 Le cinéma
 
-France Télévisions contribue à la diversité de la production cinématographique et soutient un cinéma d'initiative française et européenne fort, pluriel et indépendant.
+Entre 2024 à 2028, France Télévisions diffuse annuellement au moins 250 œuvres cinématographiques de longue durée sur ses services de télévision diffusés par voie hertzienne terrestre dont au moins 150 œuvres européennes ou d'expression originale française.
 
 La société s'attache à diversifier sa programmation cinématographique, à favoriser la diffusion d'œuvres cinématographiques de court-métrages et à développer la partie éditoriale des cases cinéma pour les mettre en valeur. Afin de favoriser la connaissance du patrimoine cinématographique, elle propose des émissions de ciné-club. Elle programme régulièrement des œuvres d'art et d'essai, afin de refléter cet aspect de la création cinématographique. Elle renforce la place du cinéma aux heures de grande écoute.
 
@@ -707,6 +721,12 @@ Ne comportent pas de messages publicitaires autres que des messages génériques
 1° Les programmes prioritairement destinés aux enfants de moins de douze ans qui sont mis à la disposition du public par les services mentionnés au 6° de l'article 3 ;
 
 2° Tout ou partie des services mentionnés au 6° de l'article 3 qui sont prioritairement destinés aux enfants de moins de douze ans.
+
+Article 27-2
+
+Interruption publicitaire des œuvres cinématographiques
+
+Les œuvres cinématographiques diffusées ou mises à disposition sur un service mentionné à l'article 3 ne sont pas interrompues par des messages publicitaires.
 
 Article 28
 
