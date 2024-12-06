@@ -781,3 +781,35 @@ Service concerné :
 Brigades de recherche et de renseignement (BRR) d'Ajaccio et de Bastia |
 
 Du 1er septembre 2024 au 31 août 2025 |
+
+Opération :
+
+Fermeture du bureau de Rouen-Energies dans le cadre de la création d'une cellule &laquo; Energies &raquo; au bureau de Rouen port
+
+Service concerné :
+
+Bureau de Rouen-Energies
+
+Emploi concerné :
+
+Poste de chef de bureau de Rouen-Energies
+
+|
+
+Du 1er janvier 2025 au 31 mars 2026 |
+
+Opération :
+
+Transfert des activités de contributions indirects au sein de la direction régionale d'Annecy
+
+Service concerné :
+
+Bureau de Vallard Thonex
+
+Emploi concerné :
+
+Agent en charge des contributions indirects au sein du bureau de Vallard Thonex
+
+|
+
+Du 1er février 2025 au 31 mars 2026 |
