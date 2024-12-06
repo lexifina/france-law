@@ -1,0 +1,7 @@
+# Article 2 bis
+
+Le préparateur en pharmacie mentionné à l'article L. 4241-1 du code de la santé publique est autorisé à administrer certains vaccins, sous la supervision d'un pharmacien formé à la prescription ou à l'administration de vaccins ou ayant suivi une formation spécifique à la vaccination contre la covid-19, à condition d'avoir été formé au préalable à l'administration des vaccins.
+
+Lorsque le préparateur en pharmacie n'a pas suivi d'enseignement relatif à l'administration de vaccins dans le cadre de sa formation initiale, il communique au pharmacien titulaire de la pharmacie d'officine une attestation de formation délivrée par un organisme ou une structure de formation respectant les objectifs pédagogiques de la partie 2 du module administration de vaccins telle que fixé en annexe du présent arrêté, à l'exception de la transmission des informations au médecin traitant de la personne qui relève du pharmacien.
+
+Lorsque le préparateur en pharmacie a déjà suivi la formation spécifique à la vaccination dans les conditions mentionnées au VIII quinquies de l'article 5 de l'arrêté du 1er juin 2021 relatif aux mesures d'organisation et de fonctionnement du système de santé maintenues en matière de lutte contre la covid-19, il est dispensé du suivi de la formation mentionnée au précédent alinéa dès lors qu'il n'administre que les seuls vaccins contre la grippe saisonnière et contre la covid-19. Dans ce cas, il communique au pharmacien titulaire de la pharmacie d'officine une attestation de suivi de cette formation.
