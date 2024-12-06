@@ -9,3 +9,5 @@ ucem.igem@developpement-durable.gouv.fr
 www.ucem-nantes.fr
 
 .
+
+(*) L'annexe II-b peut être consultée sur le site : https://formations.mer.gouv.fr
