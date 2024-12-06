@@ -1,12 +1,12 @@
 # Article Annexe 2
 
-MODÈLE DE GARANTIE
+Modèle de garantie
 
 Garantie d'Affilié
 
-Garantie Autonome à Première Demande
+Garantie Autonome à Première Demande.
 
-Nous, soussignés [nom], une société dûment constituée selon les lois de [pays], ayant son siège social [adresse], représentée par [nom], dûment autorisé, (le " Garant " ou " Nous "), acceptons par le présent document de donner, ce jour, à la Caisse des dépôts et consignations (CDC) intervenant en tant que mandataire d'Electricité de France (" EDF "), société anonyme au capital de 2 084 365 041 euros (deux milliard quatre-vingt-quatre millions trois cent soixante-cinq mille quarante et un euros), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, RCS Paris n° 552 081 317, une garantie autonome à première demande des obligations de notre Affilié, la société [nom de l'Acheteur] au titre de l'accord-cadre signé entre l'Affilié et EDF (" accord-cadre ") au titre de l'accès régulé à l'électricité nucléaire historique (ARENH) et de toutes les Notifications de Cession annuelle d'énergie, dans les conditions énoncées ci-dessous (la " Garantie ").
+Nous, soussignés [nom], une société dûment constituée selon les lois de [pays], ayant son siège social [adresse], représentée par [nom], dûment autorisé, (le &laquo; Garant &raquo; ou &laquo; Nous &raquo;), acceptons par le présent document de donner, ce jour, à la Caisse des dépôts et consignations (CDC) intervenant en tant que mandataire d'Electricité de France (&laquo; EDF &raquo;), société anonyme au capital de 2 084 365 041 euros (deux milliard quatre-vingt-quatre millions trois cent soixante-cinq mille quarante et un euros), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, RCS Paris n° 552 081 317, une garantie autonome à première demande des obligations de notre Affilié, la société [nom de l'Acheteur] au titre de l'accord-cadre signé entre l'Affilié et EDF (&laquo; accord-cadre &raquo;) au titre de l'accès régulé à l'électricité nucléaire historique (ARENH) et de toutes les Notifications de Cession annuelle d'énergie, dans les conditions énoncées ci-dessous (la &laquo; Garantie &raquo;).
 
 Préambule
 
@@ -20,13 +20,21 @@ Il est convenu ce qui suit :
 
 1. Nous nous engageons, expressément, de manière irrévocable et sans condition, à payer à première demande toute somme, dans la limite d'une Somme Maximum (telle que définie ci-dessous), que la CDC pourrait réclamer au titre de la présente Garantie, à compter de la date visée au paragraphe 4 ci-dessous et pour la durée totale de la Garantie telle que visée au paragraphe 4 ci-dessous.
 
-2. La Garantie sera mise en œuvre par l'envoi par la CDC d'une demande au Garant, dans la forme prévue à l'annexe de cette Garantie (la " Demande "). Le Garant reconnaît et accepte que la Demande constituera une preuve suffisante de l'obligation de [l'Acheteur] de payer toute somme réclamée par la CDC dans la limite de la Somme Maximum (telle que définie ci-dessous). Cette demande devra indiquer la somme demandée au titre de la Garantie dans la limite de la Somme Maximum (telle que définie ci-dessous). La CDC peut adresser plusieurs demandes au titre de la Garantie dans la mesure où la totalité des sommes ainsi versées par le Garant à la demande de la CDC n'excède pas la Somme Maximum.
+2. La Garantie sera mise en œuvre par l'envoi par la CDC d'une demande au Garant, dans la forme prévue à l'annexe de cette Garantie (la &laquo; Demande &raquo;). Le Garant reconnaît et accepte que la Demande constituera une preuve suffisante de l'obligation de [l'Acheteur] de payer toute somme réclamée par la CDC dans la limite de la Somme Maximum (telle que définie ci-dessous). Cette demande devra indiquer la somme demandée au titre de la Garantie dans la limite de la Somme Maximum (telle que définie ci-dessous). La CDC peut adresser plusieurs demandes au titre de la Garantie dans la mesure où la totalité des sommes ainsi versées par le Garant à la demande de la CDC n'excède pas la Somme Maximum.
 
 3. La Garantie constitue une obligation personnelle du Garant ; elle est indépendante des obligations de [l'Acheteur] au titre de l'accord-cadre. Le Garant renonce, expressément et de manière irrévocable, au droit d'invoquer toute relation présente, passée ou future, entre [l'Acheteur] et EDF ou le Garant dans le but de s'opposer aux paiements prévus au paragraphe 1 ci-dessus.
 
-4. La Garantie prendra effet le _ _ _ _
+4. La Garantie prendra effet le _ _ _ _ et prendra fin le _ _ _ _, date au-delà de laquelle toute demande sera irrecevable.
 
-_ _ _ _ _ est dûment habilité à signer la Garantie, cette habilitation lui ayant été conférée par une [du conseil d'administration ou autre organe compétent, suivant la forme sociétaire du Garant] prise conformément au droit [pays où le Garant a été constitué] ;
+Si nouvelle Garantie : [4. La Garantie prendra effet le _ _ _ _ et prendra fin le _ _ _ _, date au-delà de laquelle toute demande sera irrecevable. Cette Garantie entraîne résiliation de plein droit, à sa date de prise d'effet, de la Garantie en cours.]
+
+5. Le Garant reconnaît et accepte qu'il demeurera lié par ses obligations en qualité de Garant au titre de la Garantie, indépendamment de la validité ou de l'absence de validité de l'accord-cadre.
+
+6. Par la présente, le Garant déclare et garantit :
+
+(i) qu'il est une [forme sociétaire] dûment constituée selon les lois de [pays], jouissant de la personnalité morale et possédant la pleine capacité juridique et le pouvoir d'exercer ses activités dans lesquelles il est actuellement engagé, de fournir la Garantie et de remplir toutes ses obligations au titre de la Garantie ;
+
+(ii) que [M.] _ _ _ _ _ est dûment habilité à signer la Garantie, cette habilitation lui ayant été conférée par une [du conseil d'administration ou autre organe compétent, suivant la forme sociétaire du Garant] prise conformément au droit [pays où le Garant a été constitué] ;
 
 (iii) Que la signature, l'exécution de la Garantie et les obligations qui en résultent ne contreviennent en aucune façon ni à ses statuts ni aux textes légaux ou réglementaires qui lui sont applicables ni à un quelconque engagement auquel il pourrait être tenu ;
 
@@ -42,11 +50,11 @@ _ _ _ _ _ est dûment habilité à signer la Garantie, cette habilitation lui ay
 
 9. Tous les paiements devant être effectués par le Garant au titre de la Garantie seront :
 
-(v) Effectués dans les délais et lieux indiqués dans la demande que la CDC pourrait être amené à délivrer conformément au paragraphe 2 ci-dessus, et dans tous les cas, au plus tard deux (2) jours ouvrés suivant la réception de la Demande par le Garant ;
+(i) Effectués dans les délais et lieux indiqués dans la demande que la CDC pourrait être amené à délivrer conformément au paragraphe 2 ci-dessus, et dans tous les cas, au plus tard deux (2) jours ouvrés suivant la réception de la Demande par le Garant ;
 
-(vi) Exempts de tous droits, taxes ou dépenses de toute sorte (présents ou à venir) qui seraient autrement déduits, prélevés ou retenus ; et
+(ii) Exempts de tous droits, taxes ou dépenses de toute sorte (présents ou à venir) qui seraient autrement déduits, prélevés ou retenus ; et
 
-(vii) Exempts de toute compensation ou demande reconventionnelle relative à toute somme qui pourrait être due par EDF au Garant au titre de tout autre contrat ou de toute autre relation juridique.
+(iii) Exempts de toute compensation ou demande reconventionnelle relative à toute somme qui pourrait être due par EDF au Garant au titre de tout autre contrat ou de toute autre relation juridique.
 
 10. La somme maximum est de [montant en chiffres et en lettres] euros.
 
@@ -89,8 +97,6 @@ Représentée par :
 Nom et qualité
 
 Signé et conclu le :
-
-ANNEXE
 
 Modèle de demande
 

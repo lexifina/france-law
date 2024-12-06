@@ -1,6 +1,6 @@
 # Article Annexe
 
-Electricité de France (" EDF ") société anonyme
+Electricité de France (&laquo; EDF &raquo;) société anonyme
 
 et
 
@@ -100,7 +100,7 @@ Préambule
 
 16. Invalidité partielle
 
-17.Période Dispositions relatives au bénéfice de l'ARENH dans le cadre de la fourniture de secours
+17. Période Dispositions relatives au bénéfice de l'ARENH dans le cadre de la fourniture de secours
 
 18. Notification
 
@@ -114,9 +114,9 @@ Préambule
 
 Annexe I : Définitions
 
-Annexe II : Modèle de garantie-Garantie d'Affilié
+Annexe II : Modèle de garantie-garantie d'affilié
 
-Annexe III : Modèle de garantie-Garantie Approuvée
+Annexe III : Modèle de garantie-garantie approuvée
 
 ACCORD-CADRE POUR L'ACCÈS RÉGULÉ À L'ÉLECTRICITÉ NUCLÉAIRE HISTORIQUE
 
@@ -130,21 +130,23 @@ et
 
 ci-après dénommées individuellement ou ensemble une Partie ou les Parties.
 
-PréambuleLa loi n° 2010-1488 du 7 décembre 2010 portant nouvelle organisation du marché de l'électricité, puis sa codification aux articles L. 336-1 et suivants, a mis en place à titre transitoire un accès régulé à l'électricité nucléaire historique produite par les centrales nucléaires d'EDF situées sur le territoire national et mises en service avant sa publication (ci-après l'ARENH). Cet accès régulé est ouvert à tous les opérateurs fournissant des consommateurs finals résidant sur le territoire métropolitain continental ou des gestionnaires de réseaux pour leurs pertes (ci-après l'Acheteur ou les Acheteurs).
+Préambule
 
-Les articles R. 336-1 à R. 336-39 du code de l'énergie, issus de la codification du décret n° 2011-466 du 28 avril 2011 (ci-après le Décret) précisent les modalités de mise en œuvre de l'ARENH ainsi que les missions des divers intermédiaires intervenant dans le cadre du dispositif de l'ARENH et du présent accord-cadre :
+La loi n° 2010-1488 du 7 décembre 2010 portant nouvelle organisation du marché de l'électricité, puis sa codification aux articles L. 336-1 et suivants, a mis en place à titre transitoire un accès régulé à l'électricité nucléaire historique produite par les centrales nucléaires d'EDF situées sur le territoire national et mises en service avant sa publication (ci-après l'ARENH). Cet accès régulé est ouvert à tous les opérateurs fournissant des consommateurs finals résidant sur le territoire métropolitain continental ou des gestionnaires de réseaux pour leurs pertes (ci-après l'Acheteur ou les Acheteurs).
 
-- la Commission de régulation de l'énergie (ci-après la CRE), qui définit et veille sur l'exercice des droits à l'ARENH des Acheteurs ;
+Les articles R. 336-1 à R. 336-39 du code de l'énergie , issus de la codification du décret n° 2011-466 du 28 avril 2011 (ci-après le Décret) précisent les modalités de mise en œuvre de l'ARENH ainsi que les missions des divers intermédiaires intervenant dans le cadre du dispositif de l'ARENH et du présent accord-cadre :
 
-- le gestionnaire du Réseau public de transport (ci-après RTE), qui assure la gestion des flux physiques d'électricité liés à l'ARENH, notamment la livraison des produits et le calcul de la consommation constatée ;
+-la Commission de régulation de l'énergie (ci-après la CRE), qui définit et veille sur l'exercice des droits à l'ARENH des Acheteurs ;
 
-- la Caisse des dépôts et consignations (ci-après la CDC), qui assure notamment la gestion des flux financiers.
+-le gestionnaire du Réseau public de transport (ci-après RTE), qui assure la gestion des flux physiques d'électricité liés à l'ARENH, notamment la livraison des produits et le calcul de la consommation constatée ;
 
-En application du premier alinéa de l'article L. 336-5 du code de l'énergie, le présent accord-cadre fixe les modalités selon lesquelles l'Acheteur peut exercer son droit à l'ARENH auprès d'EDF dans les conditions fixées par les dispositions du chapitre VI du titre III du livre III du code de l'énergie.
+-la Caisse des dépôts et consignations (ci-après la CDC), qui assure notamment la gestion des flux financiers.
+
+En application du premier alinéa de l'article L. 336-5 du code de l'énergie , le présent accord-cadre fixe les modalités selon lesquelles l'Acheteur peut exercer son droit à l'ARENH auprès d'EDF dans les conditions fixées par les dispositions du chapitre VI du titre III du livre III du code de l'énergie .
 
 L'Acheteur déclare être titulaire du récépissé délivré par la CRE en application de l'article R. 336-8 du code de l'énergie et en avoir fourni une copie au Vendeur.
 
-Pour les besoins du présent accord-cadre, EDF et la CDC ont signé un contrat de mandat définissant leurs droits et obligations respectifs en application des dispositions du code de l'énergie. Il est prévu que la CDC se substitue à EDF dans l'exécution de ses obligations conformément aux dispositions du code de l'énergie afin, notamment, de préserver la confidentialité des positions individuelles des Acheteurs.
+Pour les besoins du présent accord-cadre, EDF et la CDC ont signé un contrat de mandat définissant leurs droits et obligations respectifs en application des dispositions du code de l'énergie . Il est prévu que la CDC se substitue à EDF dans l'exécution de ses obligations conformément aux dispositions du code de l'énergie afin, notamment, de préserver la confidentialité des positions individuelles des Acheteurs.
 
 Ceci exposé, les Parties sont convenues de ce qui suit :
 
@@ -164,11 +166,11 @@ Les termes avec majuscule utilisés dans le présent accord-cadre sont définis 
 
 L'Accord-cadre est constitué du présent document et de ses annexes :
 
-- annexe I : Définitions ;
+-annexe I : Définitions ;
 
-- annexe II : Modèle de Garantie-Garantie d'Affilié ;
+-annexe II : Modèle de Garantie-Garantie d'Affilié ;
 
-- annexe III : Modèle de Garantie-Garantie Approuvée.
+-annexe III : Modèle de Garantie-Garantie Approuvée.
 
 En cas de conflit d'interprétation entre le présent document et ses annexes, le présent document prévaudra sur les annexes.
 
@@ -176,29 +178,29 @@ En cas de conflit d'interprétation entre le présent document et ses annexes, l
 
 4.1. Dossier de demande d'ARENH
 
-L'Acheteur, afin d'exercer son droit à l'ARENH, adresse à la CRE le dossier de demande d'ARENH tel que précisé par les articles R. 336-8 à R. 336-12 du code de l'énergie. La liste des pièces de ce dossier ainsi que leurs supports sont définis par la CRE.
+L'Acheteur, afin d'exercer son droit à l'ARENH, adresse à la CRE le dossier de demande d'ARENH tel que précisé par les articles R. 336-8 à R. 336-12 du code de l'énergie . La liste des pièces de ce dossier ainsi que leurs supports sont définis par la CRE.
 
-Afin de permettre à la CRE de procéder aux notifications mentionnées à l'article R. 336-19 du code de l'énergie, chaque Partie communique à la CRE les coordonnées de la personne destinataire des notifications.
+Afin de permettre à la CRE de procéder aux notifications mentionnées à l'article R. 336-19 du code de l'énergie , chaque Partie communique à la CRE les coordonnées de la personne destinataire des notifications.
 
 4.2. Notification des Cessions annuelles d'électricité et de garanties de capacité
 
-En application de l'article R. 336-19 du code de l'énergie, la CRE notifie à l'Acheteur les Quantités et Profils des Produits cédés par EDF au titre de l'ARENH sur la Période de livraison à venir (ci-après la Notification de Cession annuelle d'électricité et de garanties de capacité).
+En application de l'article R. 336-19 du code de l'énergie , la CRE notifie à l'Acheteur les Quantités et Profils des Produits cédés par EDF au titre de l'ARENH sur la Période de livraison à venir (ci-après la Notification de Cession annuelle d'électricité et de garanties de capacité).
 
 Cette Notification de Cession annuelle d'électricité et de garanties de capacité précise notamment :
 
-- la Quantité de chaque Produit cédé ;
+-la Quantité de chaque Produit cédé ;
 
-- le Profil de chaque Produit cédé ;
+-le Profil de chaque Produit cédé ;
 
-- la date du début de la Période de livraison ;
+-la date du début de la Période de livraison ;
 
-- le périmètre d'équilibre du Responsable d'équilibre désigné par l'Acheteur et les Périodes de validité de ce périmètre, tel que précisé dans le dossier de demande de l'Acheteur ;
+-le périmètre d'équilibre du Responsable d'équilibre désigné par l'Acheteur et les Périodes de validité de ce périmètre, tel que précisé dans le dossier de demande de l'Acheteur ;
 
-- le périmètre de l'Acteur Obligé désigné par l'Acheteur et les Périodes de validité de ce périmètre, tel que précisé dans le dossier de demande de l'Acheteur ;
+-le périmètre de l'Acteur Obligé désigné par l'Acheteur et les Périodes de validité de ce périmètre, tel que précisé dans le dossier de demande de l'Acheteur ;
 
-- le montant de la Garantie définie à l'article 9 du présent accord-cadre.
+-le montant de la Garantie définie à l'article 9 du présent accord-cadre.
 
-En application de ce même article R. 336-19 du code de l'énergie, la CRE notifie simultanément à EDF l'agrégation des Quantités de Produits Cédés pour l'ensemble des Acheteurs sur la Période.
+En application de ce même article R. 336-19 du code de l'énergie , la CRE notifie simultanément à EDF l'agrégation des Quantités de Produits Cédés pour l'ensemble des Acheteurs sur la Période.
 
 A compter de la réception de la Notification de Cession annuelle d'électricité et de garanties de capacité, l'Acheteur s'engage à prendre livraison de la totalité des Produits cédés, objets de la Notification.
 
@@ -208,7 +210,7 @@ La Notification de Cession annuelle d'électricité et de garanties de capacité
 
 Chaque Cession annuelle d'électricité et de garantie de capacité est d'une durée de douze (12) mois à compter du premier jour de livraison.
 
-4.3. Notification modificative des Cessions annuelles d'électricité et de garanties de capacité
+4.3. Notification modificative des cessions annuelles d'électricité et de garanties de capacité
 
 Par exception à l'article 4.2 du présent accord-cadre, en cas de Cessation de livraison, la CRE adresse dans les plus brefs délais, et au plus tard cinq (5) jours ouvrés suivant sa connaissance de la Cessation de livraison, à l'Acheteur, une Notification modificative de Cession annuelle d'électricité et de garanties de capacité.
 
@@ -218,25 +220,25 @@ Cette Notification modificative précise notamment les modifications apportées 
 
 5.1. Livraison d'énergie
 
-La gestion des flux d'énergie est assurée par RTE conformément aux dispositions de l'article R. 336-19 du code de l'énergie. Les livraisons sont effectuées dans le périmètre d'équilibre du ou des Responsable (s) d'équilibre désigné (s) par l'Acheteur dans sa demande d'ARENH et conformément aux quantités et profils indiqués dans la Notification de Cession annuelle d'électricité et de garanties de capacité de la CRE.
+La gestion des flux d'énergie est assurée par RTE conformément aux dispositions de l'article R. 336-19 du code de l'énergie . Les livraisons sont effectuées dans le périmètre d'équilibre du ou des Responsable (s) d'équilibre désigné (s) par l'Acheteur dans sa demande d'ARENH et conformément aux quantités et profils indiqués dans la Notification de Cession annuelle d'électricité et de garanties de capacité de la CRE.
 
 5.2. Livraison de garanties de capacité
 
-La gestion des transferts de garanties de capacité est assurée conformément aux dispositions de l'arrêté pris sur proposition de la CRE en application de l'article R. 335-69 du code de l'énergie.
+La gestion des transferts de garanties de capacité est assurée conformément aux dispositions de l'arrêté pris sur proposition de la CRE en application de l'article R. 335-69 du code de l'énergie .
 
 5.3. Prix
 
 5.3.1. Prix du Produit cédé
 
-Le prix du Produit cédé est arrêté par les ministres chargés de l'énergie et de l'économie sur proposition de la CRE en application des dispositions de l'article L. 337-13 du code de l'énergie.
+Le prix du Produit cédé est arrêté par les ministres chargés de l'énergie et de l'économie sur proposition de la CRE en application des dispositions de l'article L. 337-13 du code de l'énergie .
 
 5.3.2. Complément de prix
 
-Conformément aux dispositions de l'article L. 336-5 du code de l'énergie, dans le cas où les droits cédés à l'Acheteur s'avèrent supérieurs aux droits correspondant à la consommation constatée de ses clients finals sur le territoire métropolitain continental et des gestionnaires de réseaux pour leurs pertes, la CRE notifie à l'Acheteur et à la CDC le Complément de prix devant être acquitté.
+Conformément aux dispositions de l'article L. 336-5 du code de l'énergie , dans le cas où les droits cédés à l'Acheteur s'avèrent supérieurs aux droits correspondant à la consommation constatée de ses clients finals sur le territoire métropolitain continental et des gestionnaires de réseaux pour leurs pertes, la CRE notifie à l'Acheteur et à la CDC le Complément de prix devant être acquitté.
 
-Conformément aux dispositions de l'article R. 336-35 du code de l'énergie, le Complément de prix est constitué de deux termes : CP1 et CP2.
+Conformément aux dispositions de l'article R. 336-35 du code de l'énergie , le Complément de prix est constitué de deux termes : CP1 et CP2.
 
-Les modalités de calcul et de répartition du Complément de prix sont définies par la CRE conformément aux dispositions des articles R. 336-33 et suivants du code de l'énergie.
+Les modalités de calcul et de répartition du Complément de prix sont définies par la CRE conformément aux dispositions des articles R. 336-33 et suivants du code de l'énergie .
 
 6. Taxe sur la valeur ajoutée
 
@@ -246,7 +248,7 @@ Les montants mentionnés dans le présent accord-cadre sont expressément stipul
 
 En vue de la correcte application des articles 38,39 et 195 de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée, les parties font les déclarations suivantes :
 
-a) Déclarations du Vendeur
+a) Déclarations du Vendeur :
 
 Le Vendeur déclare à l'Acheteur que l'établissement qui réalise les livraisons des Produits cédés prévues par l'accord-cadre, ainsi que son numéro intra-communautaire de TVA sont les suivants :
 
@@ -256,7 +258,7 @@ N° de TVA du Vendeur : (EDF = FR 03552081317)
 
 Le Vendeur déclare à l'Acheteur que l'établissement ci-dessus constitue le lieu où il a établi le siège de son activité économique pour les besoins de la TVA.
 
-b) Déclarations de l'Acheteur
+b) Déclarations de l'Acheteur :
 
 L'Acheteur déclare au Vendeur, pour les seuls besoins de la TVA, qu'au titre de ses achats de Produits cédés il constitue un assujetti revendeur dont le numéro intra-communautaire de TVA et le lieu d'établissement qui acquiert les Produits cédés sont les suivants :
 
@@ -282,19 +284,19 @@ Tous les montants prévus au présent accord-cadre sont exclusifs de toute taxe 
 
 8. Facturation, règlement et suivi de la facturation
 
-Les modalités de facturation des frais de gestion de la CDC et des parts du montant global correspondant aux versements du terme " CP1 " attribuées à certains fournisseurs conformément à l'article R. 336-35-2 du code de l'énergie sont précisées par le code de l'énergie et, le cas échéant, par une délibération de la CRE.
+Les modalités de facturation des frais de gestion de la CDC sont précisées par le code de l'énergie et, le cas échéant, par une délibération de la CRE.
 
 Le montant des factures ci-dessous est arrondi aux deux (2) décimales les plus proches.
 
 8.1. Facture mensuelle
 
-En application de l'article R. 336-25 du code de l'énergie, la CRE notifie vingt (20) jours avant le premier jour de chaque Période de livraison à la CDC le montant dû par chaque Acheteur pour la Période de livraison à venir.
+En application de l'article R. 336-25 du code de l'énergie , la CRE notifie vingt (20) jours avant le premier jour de chaque Période de livraison à la CDC le montant dû par chaque Acheteur pour la Période de livraison à venir.
 
 Au plus tard le premier jour ouvré du mois de livraison [M], la CDC adressera, au nom et pour le compte d'EDF, une facture (la Facture mensuelle) sur la base des éléments qui lui ont été communiqués par la CRE, à l'Acheteur récapitulant les divers éléments constituant le montant à payer par l'Acheteur au titre du Produit cédé le mois [M].
 
 8.2. Factures relatives au terme CP1 du complément de prix
 
-Tout montant dû à EDF au titre du terme CP1, sur la base de la méthode de répartition prise en application de l'article R. 336-35-2 du code de l'énergie, fait l'objet d'une facture émise par la CDC, au nom et pour le compte d'EDF, sur la base des éléments qui lui ont été transmis par la CRE.
+Tout montant dû à EDF au titre du terme CP1, sur la base de la méthode d'évaluation prise en application de l'article R. 336-35-1 du code de l'énergie , fait l'objet d'une facture émise par la CDC, au nom et pour le compte d'EDF, sur la base des éléments qui lui ont été transmis par la CRE.
 
 La CDC, agissant au nom et pour le compte d'EDF, adresse cette facture à l'Acheteur au plus tard cinq (5) jours ouvrés après réception des éléments transmis par la CRE.
 
@@ -308,15 +310,15 @@ La CDC, agissant au nom et pour le compte d'EDF, adresse cette facture à l'Ache
 
 L'Acheteur s'engage à payer à la CDC, agissant au nom et pour le compte d'EDF, les montants dus comme suit :
 
-- en ce qui concerne les montants indiqués dans la Facture mensuelle, le dernier jour ouvré du Mois M ;
+-en ce qui concerne les montants indiqués dans la Facture mensuelle, le dernier jour ouvré du Mois M ;
 
-- en ce qui concerne le montant indiqué dans la facture relative au Complément de prix CP1, le dernier jour ouvré du Mois de juillet ;
+-en ce qui concerne le montant indiqué dans la facture relative au Complément de prix CP1, le dernier jour ouvré du Mois de juillet ;
 
-- en ce qui concerne le montant indiqué dans la facture relative au Complément de prix CP2, le dernier jour ouvré du Mois de juillet.
+-en ce qui concerne le montant indiqué dans la facture relative au Complément de prix CP2, le dernier jour ouvré du Mois de juillet.
 
 (Ci-après, pris individuellement, la Date d'échéance).
 
-Le règlement sera effectué en euros, à la Date d'échéance, par virement sur le compte du fonds ARENH tel que défini à l'article R. 336-21 du code de l'énergie.
+Le règlement sera effectué en euros, à la Date d'échéance, par virement sur le compte du fonds ARENH tel que défini à l'article R. 336-21 du code de l'énergie .
 
 8.5. Montants contestés
 
@@ -334,11 +336,11 @@ d) La CDC, la CRE et l'Acheteur se rencontreront afin de résoudre à l'amiable 
 
 Tout remboursement de tout ou partie d'un montant contesté rendu exigible à l'issue du processus de résolution de la contestation, fera l'objet d'une facture rectificative et d'un versement à l'Acheteur dans les cinq (5) jours ouvrés qui suivent la résolution amiable de la contestation. Le montant versé sera actualisé au taux d'intérêt prévu au deuxième alinéa de l'article 8.6.1 du présent accord-cadre.
 
-Au cas où la contestation ne serait pas résolue dans un délai de trente (30) jours à compter de la réception par la CDC de la contestation de l'Acheteur, la CDC qui agit au nom et pour le compte d'EDF, informera EDF de l'existence de cette contestation. La Partie la plus diligente, , saisira le tribunal compétent.
+Au cas où la contestation ne serait pas résolue dans un délai de trente (30) jours à compter de la réception par la CDC de la contestation de l'Acheteur, la CDC qui agit au nom et pour le compte d'EDF, informera EDF de l'existence de cette contestation. La Partie la plus diligente saisira le tribunal compétent.
 
 8.5.2. Procédure en cas d'erreur manifeste ou grossière
 
-Si l'Acheteur conteste, de bonne foi, un montant manifestement erroné figurant sur la Facture mensuelle ou les factures relatives au Complément de prix, visées aux articles 8.1, 8.2 et 8.3 du présent accord-cadre, et devant être payé à la CDC agissant au nom et pour le compte d'EDF, il doit communiquer le montant contesté ainsi que les motifs de sa contestation à la CDC dans les deux (2) jours ouvrés (la date d'envoi faisant foi) qui suivent la réception de la facture.
+Si l'Acheteur conteste, de bonne foi, un montant manifestement erroné figurant sur la Facture mensuelle ou les factures relatives au Complément de prix, visées aux articles 8.1,8.2 et 8.3 du présent accord-cadre, et devant être payé à la CDC agissant au nom et pour le compte d'EDF, il doit communiquer le montant contesté ainsi que les motifs de sa contestation à la CDC dans les deux (2) jours ouvrés (la date d'envoi faisant foi) qui suivent la réception de la facture.
 
 Si la CDC, agissant au nom et pour le compte d'EDF, convient du caractère manifestement erroné du montant contesté, elle adresse dans les cinq (5) jours ouvrés qui suivent la réception de la contestation une facture rectificative. L'Acheteur paiera à la Date d'échéance les montants figurant dans la facture rectificative.
 
@@ -354,25 +356,25 @@ Si une Partie est redevable envers l'autre Partie d'un montant dû pour corriger
 
 Les intérêts dus au titre du présent article seront calculés sur la base du nombre exact de jours rapportés à une année de 360 jours, étant précisé que toute Période de référence pour le calcul de ce montant inclura lors dudit calcul le premier jour de cette Période et exclura le dernier.
 
-Tout retard de paiement entraîne de plein droit, outre les pénalités de retard, une obligation pour le débiteur de payer une indemnité forfaitaire pour frais de recouvrement dont le montant est de 40 € conformément aux dispositions de l'article D. 441-5 du code de commerce.
+Tout retard de paiement entraîne de plein droit, outre les pénalités de retard, une obligation pour le débiteur de payer une indemnité forfaitaire pour frais de recouvrement dont le montant est de 40 € conformément aux dispositions de l'article D. 441-5 du code de commerce .
 
 8.6.2. Cessation de livraison pour défaut de paiement
 
-La CDC, agissant au nom et pour le compte d'EDF, informe l'Acheteur dès connaissance de tout défaut de paiement par courrier électronique ou lettre recommandée avec accusé de réception. Conformément à l'article R. 336-26 du code de l'énergie, la CDC met immédiatement en demeure l'Acheteur de régulariser sa situation dans un délai de quatre jours ouvrés à compter de la Date d'échéance.
+La CDC, agissant au nom et pour le compte d'EDF, informe l'Acheteur dès connaissance de tout défaut de paiement par courrier électronique ou lettre recommandée avec accusé de réception. Conformément à l'article R. 336-26 du code de l'énergie , la CDC met immédiatement en demeure l'Acheteur de régulariser sa situation dans un délai de quatre jours ouvrés à compter de la Date d'échéance.
 
 Si, faute d'avoir régularisé sa situation dans le délai de quatre (4) jours ouvrés, la Garantie du fournisseur doit être appelée, la CRE notifie à RTE, au Vendeur et au fournisseur concerné, la Cessation de la livraison par le Vendeur de l'électricité au titre de l'ARENH.
 
 La cessation intervient le treizième (13e) jour ouvré du mois suivant la constatation du défaut de paiement. L'Acheteur rétrocède une partie des garanties de capacité conformément aux stipulations de l'article 14.
 
-A compter de la Cessation de livraison pour défaut de paiement, en application de l'article R. 336-27 du code de l'énergie, l'Acheteur ne peut à nouveau bénéficier de la cession de produits au titre de l'ARENH qu'après une durée d'un an à compter de la date de cette cessation et à la condition que la régularisation du défaut de paiement ait été effectuée. La reprise des Cessions annuelles d'électricité ne pourra reprendre qu'à partir de la Période de livraison suivant celle qui suit la Période de livraison au cours de laquelle a lieu la cessation.
+A compter de la Cessation de livraison pour défaut de paiement, en application de l'article R. 336-27 du code de l'énergie , l'Acheteur ne peut à nouveau bénéficier de la cession de produits au titre de l'ARENH qu'après une durée d'un an à compter de la date de cette cessation et à la condition que la régularisation du défaut de paiement ait été effectuée. La reprise des Cessions annuelles d'électricité ne pourra reprendre qu'à partir de la Période de livraison suivant celle qui suit la Période de livraison au cours de laquelle a lieu la cessation.
 
 8.7. Adaptation de la facturation en cas de Cessation de livraison
 
 Dans les cas de Cessation de livraison, par dérogation aux articles 8.1 et 8.4 du présent accord-cadre, et si l'Acheteur ne s'est pas encore acquitté de sa Facture mensuelle pour le mois [M] en cours :
 
-- au plus tard dix jours ouvrés après la décision d'interrompre ou de suspendre totalement ou partiellement les livraisons, la CDC adressera, au nom et pour le compte d'EDF, une Facture mensuelle rectificative pour le Mois [M] en cours sur la base des éléments qui lui ont été communiqués par la CRE, à l'Acheteur récapitulant les divers éléments constituant le montant à payer par l'Acheteur au titre du Produit cédé le Mois [M] ;
+-au plus tard dix jours ouvrés après la décision d'interrompre ou de suspendre totalement ou partiellement les livraisons, la CDC adressera, au nom et pour le compte d'EDF, une Facture mensuelle rectificative pour le Mois [M] en cours sur la base des éléments qui lui ont été communiqués par la CRE, à l'Acheteur récapitulant les divers éléments constituant le montant à payer par l'Acheteur au titre du Produit cédé le Mois [M] ;
 
-- l'Acheteur s'engage à payer à la CDC, agissant au nom et pour le compte d'EDF le montant indiqué dans la Facture mensuelle, le dernier jour ouvré du Mois [M] ou, s'il intervient ultérieurement, le cinquième jour ouvré qui suit l'envoi par la CDC de la facture mentionnée à l'alinéa précédent.
+-l'Acheteur s'engage à payer à la CDC, agissant au nom et pour le compte d'EDF le montant indiqué dans la Facture mensuelle, le dernier jour ouvré du Mois [M] ou, s'il intervient ultérieurement, le cinquième jour ouvré qui suit l'envoi par la CDC de la facture mentionnée à l'alinéa précédent.
 
 Si l'Acheteur s'est déjà acquitté de sa Facture mensuelle au moment de la décision d'interrompre ou de suspendre totalement ou partiellement les livraisons, au plus tard dix jours ouvrés après cette décision, la CDC adressera, au nom et pour le compte d'EDF, une Facture mensuelle rectificative pour le Mois [M] en cours sur la base des éléments qui lui ont été communiqués par la CRE, à l'Acheteur récapitulant les divers éléments constituant le montant à payer par l'Acheteur au titre du Produit cédé le Mois [M], et procèdera au remboursement du trop-versé correspondant.
 
@@ -404,13 +406,13 @@ Dans le cadre d'une consignation, la garantie est considérée remise au moment 
 
 Aux fins de garantie du paiement des Factures mensuelles de chaque Notification de Cession annuelle d'ARENH, et de tout montant dû à EDF en vertu du présent accord-cadre, l'Acheteur s'engage à remettre à la CDC agissant au nom et pour le compte d'EDF, ou à maintenir en vigueur, au plus tard douze (12) jours avant le début de livraison de la Cession annuelle d'électricité une Garantie :
 
-- éventuellement constituée de deux Garanties ;
+-éventuellement constituée de deux Garanties ;
 
-- valable du dernier jour ouvré du premier mois de la Période de livraison jusqu'à la fin de la Période de livraison augmentée de 20 jours ouvrés ;
+-valable du dernier jour ouvré du premier mois de la Période de livraison jusqu'à la fin de la Période de livraison augmentée de 20 jours ouvrés ;
 
-- qui pourra être appelée par la CDC au nom et pour le compte d'EDF, en cas de non-paiement des Factures mensuelles et des factures relatives au Complément de prix et de tout autre montant dû au titre du présent accord-cadre ;
+-qui pourra être appelée par la CDC au nom et pour le compte d'EDF, en cas de non-paiement des Factures mensuelles et des factures relatives au Complément de prix et de tout autre montant dû au titre du présent accord-cadre ;
 
-- pour un montant de Garantie correspondant à une fois et demie (1,5) le volume mensuel moyen de la Notification de Cession annuelle d'électricité prévue au 4.2 du présent accord-cadre, valorisé au prix de l'ARENH en vigueur.
+-pour un montant de Garantie correspondant à une fois et demie (1,5) le volume mensuel moyen de la Notification de Cession annuelle d'électricité prévue au 4.2 du présent accord-cadre, valorisé au prix de l'ARENH en vigueur.
 
 En cas de non-paiement par l'Acheteur dans les délais prévus par le code de l'énergie et par le présent accord-cadre, la CDC, agissant au nom et pour le compte d'EDF, appelle, à la demande de la CRE, la Garantie (pour les montants impayés) dans les dix (10) jours ouvrés qui suivent cette demande.
 
@@ -420,15 +422,15 @@ Sauf cas de défaillance, lorsque le montant impayé est inférieur ou égal au 
 
 Lorsque le montant impayé est supérieur au montant couvert par la garantie prioritaire, la garantie prioritaire est appelée à concurrence de la totalité de son montant et la garantie subsidiaire est appelée en complément.
 
-10.3. Evolution de la Garantie en cas de modification des quantités cédées
+9.3. Evolution de la Garantie en cas de modification des quantités cédées
 
 Lorsque les quantités cédées sont modifiées à l'issue d'une nouvelle demande d'ARENH, l'Acheteur doit souscrire une nouvelle Garantie adaptée au montant précisé dans la Notification de cession annuelle d'ARENH. La nouvelle Garantie peut être établie par modification par avenant de la Garantie en vigueur.
 
-La nouvelle Garantie, conforme aux principes des articles 9.1, 9.2 et 9.3 du présent accord-cadre, prend effet à la date de résiliation de la Garantie en cours, laquelle doit obligatoirement correspondre au dernier jour ouvré du premier mois de la Période de livraison de la nouvelle Cession annuelle d'électricité et de garanties de capacité.
+La nouvelle Garantie, conforme aux principes des articles 9.1,9.2 et 9.3 du présent accord-cadre, prend effet à la date de résiliation de la Garantie en cours, laquelle doit obligatoirement correspondre au dernier jour ouvré du premier mois de la Période de livraison de la nouvelle Cession annuelle d'électricité et de garanties de capacité.
 
 Lorsque l'Acheteur effectue une demande nulle d'ARENH ou en cas d'absence de demande d'ARENH, il n'a pas l'obligation de constituer une Garantie. Le cas échéant, et si l'Acheteur bénéficie d'une Garantie au titre de la précédente Période de livraison, à la demande de l'Acheteur et après avoir vérifié que plus aucun Produit ne lui est cédé et qu'il n'est plus redevable d'aucune somme au titre de l'accord-cadre pour la Période de livraison précédente, la CDC, agissant au nom et pour le compte du Vendeur, prononce la mainlevée de la Garantie.
 
-Lorsque, sans être nulle, la nouvelle demande d'ARENH de l'Acheteur donne lieu à un montant à garantir inférieur à celui qui était couvert par une Garantie dont il bénéficie au titre de la précédente Période de livraison, à la demande de l'Acheteur, et après avoir vérifié qu'il n'est plus redevable d'aucune somme au titre de l'accord-cadre ni, plus généralement, au titre des ventes d'électricité nucléaire historique par EDF aux fournisseurs mentionnés à l'article L. 336-2 du code de l'énergie, y compris les montants de complément de prix en cas d'atteinte du plafond tel que prévu à l'article L. 336-5 du code de l'énergie, pour la Période de livraison précédente, la CDC, agissant au nom et pour le compte du Vendeur, prononce la mainlevée partielle de la Garantie à concurrence du nouveau montant à garantir pour la Période de livraison en cours. La CDC en informe la CRE.
+Lorsque, sans être nulle, la nouvelle demande d'ARENH de l'Acheteur donne lieu à un montant à garantir inférieur à celui qui était couvert par une Garantie dont il bénéficie au titre de la précédente Période de livraison, à la demande de l'Acheteur, et après avoir vérifié qu'il n'est plus redevable d'aucune somme au titre de l'accord-cadre ni, plus généralement, au titre des ventes d'électricité nucléaire historique par EDF aux fournisseurs mentionnés à l'article L. 336-2 du code de l'énergie , y compris les montants de complément de prix en cas d'atteinte du plafond tel que prévu à l'article L. 336-5 du code de l'énergie , pour la Période de livraison précédente, la CDC, agissant au nom et pour le compte du Vendeur, prononce la mainlevée partielle de la Garantie à concurrence du nouveau montant à garantir pour la Période de livraison en cours. La CDC en informe la CRE.
 
 10. Force majeure
 
@@ -460,11 +462,11 @@ La cession ne prend effet qu'à l'échéance d'une Cession annuelle d'électrici
 
 Par exception, la cession prend effet au cours de la Cession annuelle d'électricité et de garantie de capacité, dans un délai de quarante (40) jours calendaires à compter de la réception de la notification de la cession de l'accord-cadre à la Commission de régulation de l'énergie :
 
-- en cas de retrait de l'Union européenne du pays dans lequel l'Acheteur est établi ;
+-en cas de retrait de l'Union européenne du pays dans lequel l'Acheteur est établi ;
 
-- en cas de reprise, dans les conditions définies par le code de commerce, de l'activité du cédant dans le cadre d'une procédure de redressement judiciaire ou de liquidation judiciaire ;
+-en cas de reprise, dans les conditions définies par le code de commerce , de l'activité du cédant dans le cadre d'une procédure de redressement judiciaire ou de liquidation judiciaire ;
 
-- en cas de cession concomitante de la totalité du portefeuille de clients du cédant au cessionnaire, sous réserve de la notification préalable à la Commission de régulation de l'énergie de l'accord prenant acte de cette cession.
+-en cas de cession concomitante de la totalité du portefeuille de clients du cédant au cessionnaire, sous réserve de la notification préalable à la Commission de régulation de l'énergie de l'accord prenant acte de cette cession.
 
 Pour la mise en œuvre de cette cession qui prend effet en cours de livraison, la procédure suivante sera appliquée :
 
@@ -476,7 +478,7 @@ Pour la mise en œuvre de cette cession qui prend effet en cours de livraison, l
 
 4. Au plus tard quarante (40) jours calendaires avant la date prévue pour la cession ou le transfert, le cessionnaire transmets à la CRE les documents mentionnés au point précédent ;
 
-5. Au plus tard trente (30) jours calendaires avant la date prévue pour la cession ou le transfert, la CRE adresse une notification de cession des volumes d'électricité au cessionnaire, et une notification de Cessation de livraison - le défaut de remise d'une garantie conforme par le cessionnaire entraîne la cessation des livraisons d'ARENH dès la date prévue pour la cession au cédant ;
+5. Au plus tard trente (30) jours calendaires avant la date prévue pour la cession ou le transfert, la CRE adresse une notification de cession des volumes d'électricité au cessionnaire, et une notification de Cessation de livraison-le défaut de remise d'une garantie conforme par le cessionnaire entraîne la cessation des livraisons d'ARENH dès la date prévue pour la cession au cédant ;
 
 6. Au plus tard douze (12) jours calendaires avant la date prévue pour la cession ou le transfert, le cessionnaire constitue sa garantie auprès de la CDC ;
 
@@ -496,17 +498,17 @@ Le présent accord-cadre entre en vigueur à sa date de signature par les Partie
 
 L'exécution de l'Accord-cadre pourra être suspendue, dans les cas de défaillance et suivant les modalités indiquées ci-après :
 
-- en cas de manquement grave ou répété de l'une des Parties à ses obligations au titre de l'Accord-cadre (1) ;
+-en cas de manquement grave ou répété de l'une des Parties à ses obligations au titre de l'Accord-cadre (1) ;
 
-- en cas de déclaration établie ou considérée comme établie par la Partie défaillante dans le présent Accord-cadre et qui se révélerait frauduleuse au moment où elle a été établie ou réputée établie (2) ;
+-en cas de déclaration établie ou considérée comme établie par la Partie défaillante dans le présent Accord-cadre et qui se révélerait frauduleuse au moment où elle a été établie ou réputée établie (2) ;
 
-- en cas de survenance d'un événement de force majeure, défini à l'article 10.1 de l'Accord-cadre (3) ;
+-en cas de survenance d'un événement de force majeure, défini à l'article 10.1 de l'Accord-cadre (3) ;
 
-- en cas de suspension du dispositif ARENH par arrêté des ministres chargés de l'économie et de l'énergie pris en application de l'article L. 336-3 du code de l'énergie du fait de circonstances exceptionnelles affectant les centrales nucléaires d'EDF situées sur le territoire national et mises en service avant le 8 décembre 2010 (4) ;
+-en cas de suspension du dispositif ARENH par arrêté des ministres chargés de l'économie et de l'énergie pris en application de l'article L. 336-3 du code de l'énergie du fait de circonstances exceptionnelles affectant les centrales nucléaires d'EDF situées sur le territoire national et mises en service avant le 8 décembre 2010 (4) ;
 
-- en cas d'absence de responsable d'équilibre tel que désigné par l'Acheteur dans son dossier de demande dans la mesure où l'Acheteur ne serait pas en mesure de le remplacer sans délai (5) ;
+-en cas d'absence de responsable d'équilibre tel que désigné par l'Acheteur dans son dossier de demande dans la mesure où l'Acheteur ne serait pas en mesure de le remplacer sans délai (5) ;
 
-- en cas de suspension par arrêté de l'Autorisation de Fourniture renseignée par l'Acheteur dans son dossier de demande (6).
+-en cas de suspension par arrêté de l'Autorisation de Fourniture renseignée par l'Acheteur dans son dossier de demande (6).
 
 Pour les points 1 et 2, l'exécution des obligations de l'Accord-cadre peut être suspendue à l'initiative de la Partie non défaillante sous réserve d'informer l'autre Partie ainsi que la CRE et la CDC par lettre recommandée avec demande d'avis de réception. La suspension prend effet quinze (15) jours ouvrés après la notification effective à l'autre Partie de la demande de suspension, sauf disparition dans ce délai du motif qui a fondé la demande de suspension.
 
@@ -546,9 +548,9 @@ Dans l'hypothèse où l'une des Parties fait l'objet d'une procédure collective
 
 La Partie non défaillante aura la faculté de résilier l'accord-cadre, par lettre recommandée avec demande d'avis de réception :
 
-- lorsque la suspension intervenue dans les cas 1 et 2 prévus à l'article 13.1 du présent accord-cadre perdure au-delà de trente (30) jours ;
+-lorsque la suspension intervenue dans les cas 1 et 2 prévus à l'article 13.1 du présent accord-cadre perdure au-delà de trente (30) jours ;
 
-- lorsque la suspension intervenue dans le cas 3 et 5 prévus à l'article 13.1 du présent Accord-cadre perdure au-delà de deux (2) mois. La résiliation prendra effet le quinzième (15e) jour calendaire suivant le jour de la notification effective.
+-lorsque la suspension intervenue dans le cas 3 et 5 prévus à l'article 13.1 du présent Accord-cadre perdure au-delà de deux (2) mois. La résiliation prendra effet le quinzième (15e) jour calendaire suivant le jour de la notification effective.
 
 En cas de perte par l'Acheteur de son Autorisation de Fourniture renseignée dans son dossier de demande, l'Accord-cadre est résilié de plein droit sans qu'aucune action de l'autre Partie ne soit nécessaire. La CRE notifie immédiatement EDF, la CDC, RTE et l'Acheteur de l'interruption de la Cession annuelle d'électricité et de garanties de capacité en cours.
 
@@ -556,29 +558,29 @@ En cas de perte par l'Acheteur de son Autorisation de Fourniture renseignée dan
 
 Lorsque les cas listés ci-après affectent la Période de livraison en cours ou la Période de livraison à venir ayant déjà fait l'objet d'une demande, l'Acheteur a la faculté de résilier l'Accord-cadre :
 
-A. En cas de modification du prix prévu à l'article L. 337-13 du code de l'énergie strictement supérieure à 2 % ;
+A.-En cas de modification du prix prévu à l'article L. 337-13 du code de l'énergie strictement supérieure à 2 % ;
 
-B. En cas de modification substantielle de l'accord-cadre ;
+B.-En cas de modification substantielle de l'accord-cadre ;
 
-C. En cas d'évolution de la réglementation relative à l'ARENH autre que visée aux points A et B, affectant substantiellement et défavorablement l'équilibre de ses conditions d'approvisionnement.
+C.-En cas d'évolution de la réglementation relative à l'ARENH autre que visée aux points A et B, affectant substantiellement et défavorablement l'équilibre de ses conditions d'approvisionnement.
 
 Le cas échéant, l'Acheteur dispose de trente (30) jours à compter de la survenance de l'événement à l'origine des cas mentionnés ci-dessus pour notifier au Vendeur de sa décision de résiliation anticipée. Il en informe le Vendeur par lettre recommandée avec demande d'avis de réception, en respectant un préavis de trente (30) jours à compter de la notification effective. Une copie doit être adressée à la CRE et la CDC. La résiliation prend effet le premier (1er) jour du mois suivant le terme du préavis ou le jour de prise d'effet de la modification ou de l'évolution visée ci-dessus si cette dernière prend effet après le terme du préavis.
 
 14. Rétrocession de garanties de capacité en cas de Cessation de livraison
 
-En cas de Cessation de livraison, l'Acheteur doit rétrocéder au Vendeur un volume de garanties de capacité calculé selon des modalités prévues par l'arrêté pris en application de l'article L. 336-2 du code de l'énergie.
+En cas de Cessation de livraison, l'Acheteur doit rétrocéder au Vendeur un volume de garanties de capacité calculé selon des modalités prévues par l'arrêté pris en application de l'article L. 336-2 du code de l'énergie .
 
 Cette modalité s'applique dans toutes les situations induisant une Cessation de livraison, notamment :
 
-- le défaut de remise d'une Garantie conforme par l'Acheteur ;
+-le défaut de remise d'une Garantie conforme par l'Acheteur ;
 
-- la suspension ou résiliation de l'Accord-cadre ;
+-la suspension ou résiliation de l'Accord-cadre ;
 
-- le défaut de paiement mentionné à l'article 8.6.2 du présent Accord-cadre ;
+-le défaut de paiement mentionné à l'article 8.6.2 du présent Accord-cadre ;
 
-- la décision d'interruption totale ou partielle prononcée par le Comité de règlement des différends et sanctions en application de l'article L. 336-9 du code de l'énergie, telle que mentionnée à l'article 8.7 du présent accord-cadre ;
+-la décision d'interruption totale ou partielle prononcée par le Comité de règlement des différends et sanctions en application de l'article L. 336-9 du code de l'énergie , telle que mentionnée à l'article 8.7 du présent accord-cadre ;
 
-- la résiliation ou suspension du présent Accord-cadre aux termes de l'article 13 du présent accord-cadre.
+-la résiliation ou suspension du présent Accord-cadre aux termes de l'article 13 du présent accord-cadre.
 
 15. Modification-Adaptation
 
@@ -592,21 +594,21 @@ Si tout ou partie d'une stipulation non substantielle du présent accord-cadre d
 
 17. Dispositions relatives au bénéfice de l'ARENH dans le cadre de la fourniture de secours
 
-Les dispositions suivantes s'appliquent lorsque l'Acheteur a été désigné par les pouvoirs publics " Fournisseur de secours " en application de l'article L. 333-3 du code de l'énergie, et qu'à ce titre il bénéficie des volumes d'électricité au titre de l'ARENH qui étaient livrées au fournisseur dont l'Autorisation de Fourniture a été retirée ou suspendue.
+Les dispositions suivantes s'appliquent lorsque l'Acheteur a été désigné par les pouvoirs publics &laquo; Fournisseur de secours &raquo; en application de l'article L. 333-3 du code de l'énergie , et qu'à ce titre il bénéficie des volumes d'électricité au titre de l'ARENH qui étaient livrées au fournisseur dont l'Autorisation de Fourniture a été retirée ou suspendue.
 
 17.1. Notification et livraison du Produit additionnel transféré
 
 Les Quantités et Profils des Produits au titre de l'ARENH transférés dans le cadre de la fourniture de secours font l'objet d'une notification de la CRE à l'Acheteur (ci-après la Notification de Cession d'électricité et de garanties de capacité transférées au titre de la fourniture de secours). Cette Notification de Cession d'électricité et de garanties de capacité transférées au titre de la fourniture de secours précise notamment :
 
-- la Quantité de Produit additionnel transféré ;
+-la Quantité de Produit additionnel transféré ;
 
-- le Profil de Produit additionnel transféré ;
+-le Profil de Produit additionnel transféré ;
 
-- la date du début du transfert ;
+-la date du début du transfert ;
 
-- la Période de livraison du Produit additionnel transféré ;
+-la Période de livraison du Produit additionnel transféré ;
 
-- le complément de Garantie induit.
+-le complément de Garantie induit.
 
 A compter de la date de début du transfert, le Produit cédé est la somme du Produit cédé avant le transfert et du Produit additionnel transféré.
 
@@ -614,9 +616,9 @@ A compter de la réception de la Notification de Cession d'électricité et de g
 
 Aux fins de garantie du paiement des Factures mensuelles relatives à la Notification de cession annuelle d'ARENH et à la Notification de Cession d'électricité et de garanties de capacité transférées au titre de la fourniture de secours, et de tout montant dû à EDF en vertu du présent accord-cadre, l'Acheteur s'engage à remettre à la CDC agissant au nom et pour le compte d'EDF, 10 jours après la Notification de Cession d'électricité et de garanties de capacité transférées au titre de la fourniture de secours, une Garantie qui est, par dérogation à l'article 9.2 :
 
-- éventuellement constituée d'au plus trois garanties ;
+-éventuellement constituée d'au plus trois garanties ;
 
-- pour un montant de garantie correspondant à la somme de la Garantie déposée au titre Produit cédé avant le transfert, et d'une fois et demie (1,5) le volume mensuel moyen de la Notification de Cession d'électricité et de garanties de capacité transférées au titre de la fourniture de secours valorisé au prix défini pour la Période de livraison.
+-pour un montant de garantie correspondant à la somme de la Garantie déposée au titre Produit cédé avant le transfert, et d'une fois et demie (1,5) le volume mensuel moyen de la Notification de Cession d'électricité et de garanties de capacité transférées au titre de la fourniture de secours valorisé au prix défini pour la Période de livraison.
 
 En l'absence d'adaptation de la Garantie dans ces délais, la cession des volumes correspondant à la Quantité de Produit additionnel transféré sera suspendue, sans remise en cause des livraisons ayant déjà débuté et pour lesquelles la Garantie a déjà été constituée.
 
@@ -674,11 +676,11 @@ Numéro de télécopie : (*)
 
 Une notification écrite est considérée comme reçue et effective :
 
-- si elle est envoyée par lettre recommandée avec demande d'avis de réception ou autre forme équivalente de courrier avec traçabilité, le jour ouvré de l'avis de premier passage ou le jour ouvré suivant la date de l'avis de premier passage si cette date ne correspond pas à un jour ouvré ; ou
+-si elle est envoyée par lettre recommandée avec demande d'avis de réception ou autre forme équivalente de courrier avec traçabilité, le jour ouvré de l'avis de premier passage ou le jour ouvré suivant la date de l'avis de premier passage si cette date ne correspond pas à un jour ouvré ; ou
 
-- si elle est transmise par télécopie et qu'un rapport de confirmation de transmission valable est établi, le jour de transmission si elle est transmise avant 18 heures un jour ouvré, ou, dans le cas contraire, le jour ouvré suivant la transmission ; ou
+-si elle est transmise par télécopie et qu'un rapport de confirmation de transmission valable est établi, le jour de transmission si elle est transmise avant 18 heures un jour ouvré, ou, dans le cas contraire, le jour ouvré suivant la transmission ; ou
 
-- si elle est envoyée par courrier électronique et qu'un accusé de réception valable est établi, au jour de réception si celui-ci est transmis avant 18 heures un jour ouvré (heure locale pour le destinataire) ou, dans le cas contraire, le jour ouvré suivant la date de réception.
+-si elle est envoyée par courrier électronique et qu'un accusé de réception valable est établi, au jour de réception si celui-ci est transmis avant 18 heures un jour ouvré (heure locale pour le destinataire) ou, dans le cas contraire, le jour ouvré suivant la date de réception.
 
 Quand une notification écrite a été adressée par plusieurs canaux de transmission, elle est considérée comme reçue et effective à la première des dates visées au présent article.
 
