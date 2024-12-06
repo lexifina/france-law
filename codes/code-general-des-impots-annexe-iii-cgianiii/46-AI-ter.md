@@ -18,7 +18,7 @@ c) L'identité et l'adresse du souscripteur ;
 
 d) Le nombre de parts souscrites, le montant et la date de leur souscription.
 
-Cet état précise que les conditions mentionnées à l'article L. 214-30 du code monétaire et financier et au 1 du VI de l'article 199 terdecies-0 A du code général des impôts sont remplies.
+Cet état précise que les conditions mentionnées à l'article L. 214-30 du code monétaire et financier et au A du VI de l'article 199 terdecies-0 A du code général des impôts sont remplies.
 
 VI. – La société de gestion du fonds ou le dépositaire des actifs de ce fonds isole dans un compte spécial les parts dont la souscription ouvre droit au bénéfice de la réduction d'impôt. Il tient ce compte jusqu'à l'expiration de la cinquième année qui suit celle de la souscription.
 

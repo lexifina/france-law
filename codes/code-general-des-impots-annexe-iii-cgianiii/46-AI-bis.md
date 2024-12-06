@@ -1,6 +1,6 @@
 # Article 46 AI bis
 
-I. – 1. Lorsqu'un contribuable souscrit au capital d'une société dans les conditions prévues aux 1° et 2° du I de l'article 199 terdecies-0 A du code général des impôts et dont les titres ne sont pas admis aux négociations sur un marché d'instruments financiers français ou étranger, cette société lui délivre un état individuel qui mentionne :
+I. – 1. Lorsqu'un contribuable souscrit au capital d'une société dans les conditions prévues aux A et C du I de l'article 199 terdecies-0 A du code général des impôts et dont les titres ne sont pas admis aux négociations sur un marché d'instruments financiers français ou étranger, cette société lui délivre un état individuel qui mentionne :
 
 a) L'objet pour lequel il est établi : application de l'article 199 terdecies-0 A du code général des impôts ;
 
@@ -12,9 +12,9 @@ d) Le nombre des titres souscrits, le montant et la date de leur souscription ;
 
 e) La date et le montant des versements effectués au titre de la souscription au capital initial ou aux augmentations de capital.
 
-Cet état précise, pour chacune des conditions mentionnées aux 1° et 2° du I de l'article 199 terdecies-0 A précité si elles sont ou non satisfaites.
+Cet état précise, pour chacune des conditions mentionnées aux A et C du I de l'article 199 terdecies-0 A précité si elles sont ou non satisfaites.
 
-2. Les dispositions du premier alinéa du 1 s'appliquent également en cas de souscription au capital d'une société mentionnée au premier alinéa du 3° du I de l'article 199 terdecies-0 A précité et dont les titres ne sont pas admis aux négociations sur un marché d'instruments financiers français ou étranger.
+2. Les dispositions du premier alinéa du 1 s'appliquent également en cas de souscription au capital d'une société mentionnée au premier alinéa du D du I de l'article 199 terdecies-0 A précité et dont les titres ne sont pas admis aux négociations sur un marché d'instruments financiers français ou étranger.
 
 Dans ce cas, outre les informations prévues au 1, cette société mentionne également sur l'état individuel précité, pour chacun des versements effectués avant la date de clôture de son exercice au titre de ses souscriptions au capital de sociétés mentionnées au 1 et correspondant aux capitaux qu'elle a reçus au cours de ce même exercice à raison de la constitution de son capital initial ou de l'augmentation de son capital :
 
@@ -24,9 +24,9 @@ b. Le nombre de titres souscrits, le montant et la date de leur souscription ;
 
 c. La date et le montant des versements effectués au titre de la souscription au capital initial ou aux augmentations de capital.
 
-3. Afin de permettre au contribuable de bénéficier de la réduction d'impôt sur le revenu prévue aux 1° et 3° du I de l'article 199 terdecies-0 A du code général des impôts, la société au capital de laquelle il a souscrit et dont les titres sont admis, dans les conditions prévues au 2° du I du même article, sur un système multilatéral de négociation s'engage, dans le prospectus prévu par la directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003, à satisfaire, selon le cas, aux conditions prévues aux 1° et 2° ou au 3° du I de l'article 199 terdecies-0 A précité. A défaut de prospectus, elle délivre au contribuable l'état individuel mentionné au premier alinéa du 1.
+3. Afin de permettre au contribuable de bénéficier de la réduction d'impôt sur le revenu prévue aux A, B et D du I de l'article 199 terdecies-0 A du code général des impôts, la société au capital de laquelle il a souscrit et dont les titres sont admis, dans les conditions prévues au C du I du même article, sur un système multilatéral de négociation s'engage, dans le prospectus prévu par la directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003, à satisfaire, selon le cas, aux conditions prévues aux A, B et C ou au D du I de l'article 199 terdecies-0 A précité. A défaut de prospectus, elle délivre au contribuable l'état individuel mentionné au premier alinéa du 1.
 
-4. Lorsqu'un contribuable souscrit au capital d'une société remplissant les conditions prévues au premier alinéa du 3° du I de l'article 199 terdecies-0 A du code général des impôts et dont les titres sont admis sur un système multilatéral de négociation mentionné au 3, il informe la société afin qu'elle lui délivre un état individuel qui mentionne les informations prévues au 2.
+4. Lorsqu'un contribuable souscrit au capital d'une société remplissant les conditions prévues au premier alinéa du D du I de l'article 199 terdecies-0 A du code général des impôts et dont les titres sont admis sur un système multilatéral de négociation mentionné au 3, il informe la société afin qu'elle lui délivre un état individuel qui mentionne les informations prévues au 2.
 
 II. – 1. En cas de souscription au capital d'une société dont les titres ne sont pas admis sur un système multilatéral de négociation mentionné au 3 du I, le contribuable produit, à la demande de l'administration fiscale, les documents qui lui ont été remis conformément au I.
 
@@ -44,9 +44,9 @@ Le contribuable justifie de l'éligibilité de son investissement à la réducti
 
 III. – 1. Le contribuable produit, à la demande de l'administration fiscale, tout document de nature à justifier :
 
-a) La durée de détention des titres reçus en contrepartie des souscriptions dont les versements ont ouvert droit à l'avantage fiscal prévu au 1° du I de l'article 199 terdecies-0 A du code général des impôts ;
+a) La durée de détention des titres reçus en contrepartie des souscriptions dont les versements ont ouvert droit à l'avantage fiscal prévu au A et B du I de l'article 199 terdecies-0 A du code général des impôts ;
 
-b) La durée de détention par la société mentionnée au premier alinéa du 3° du I de l'article 199 terdecies-0 A précité des titres reçus en contrepartie des souscriptions qu'elle a effectuées au capital de sociétés vérifiant l'ensemble des conditions prévues au 2° du I du même article 199 terdecies-0 A et dont les versements ont ouvert droit à l'avantage fiscal prévu au 3° du I de ce même article.
+b) La durée de détention par la société mentionnée au premier alinéa du D du I de l'article 199 terdecies-0 A précité des titres reçus en contrepartie des souscriptions qu'elle a effectuées au capital de sociétés vérifiant l'ensemble des conditions prévues au C du I du même article 199 terdecies-0 A et dont les versements ont ouvert droit à l'avantage fiscal prévu au D du I de ce même article.
 
 2. En cas de cession mentionnée au IV de l'article 199 terdecies-0 A précité, le contribuable produit, à la demande de l'administration fiscale, une attestation de la société dont il a cédé les titres indiquant :
 
