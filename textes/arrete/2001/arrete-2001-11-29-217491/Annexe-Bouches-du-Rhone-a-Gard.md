@@ -548,61 +548,49 @@ A |
 
 50 |
 
-Direction départementale de l'équipement de la Côte-d'Or
+Direction départementale de la Côte-d'Or
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
-
-NIVEAU
+Niveau
 
 de qualification
 
-de l'emploi
+de l'emploi |
 
-|
+Nombre
 
-NOMBRE
+d'emplois |
 
-d'emplois
+Nombre
 
-|
+de points (IM)
 
-NOMBRE DE POINTS (IM)
+par emploi |
 
-par emploi
-
-|
-
-Responsable du pôle Agence nationale pour la rénovation urbaine.
-
-|
+Chef du bureau politique territoriale de l'habitat et renouvellement urbain-service habitat et construction |
 
 A |
 
 1 |
 
-40 points |
+40 |
 
-Assistant politique de la ville au pôle lutte contre les exclusions.
-
-|
+Assistant politique de la ville au pôle lutte contre les exclusions |
 
 B |
 
 1 |
 
-25 points |
+25 |
 
-Instructeur au pôle Agence nationale pour la rénovation urbaine.
-
-|
+Instructeur au pôle Agence nationale pour la rénovation urbaine-pôle d'instruction mutualisé ANRU-service habitat et construction |
 
 C |
 
 1 |
 
-10 points |
+10 |
 
 Direction départementale de l'équipement et de l'agriculture (2) des Côtes-d'Armor
 
