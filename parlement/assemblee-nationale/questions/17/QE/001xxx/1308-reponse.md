@@ -1,0 +1,9 @@
+# Réponse à la question n° 1308
+
+- Question : [1308](1308.md) — Question n° 1308 — Position de la France dans le conflit sino-taïwanais
+
+## Réponse
+
+*JO du 2024-12-10, page 6647*
+
+La politique de la France est constante depuis 1964 et n'a pas vocation à changer : nous reconnaissons une seule Chine et le gouvernement de la République populaire de Chine comme son unique gouvernement légal. Un conflit dans la zone aurait des conséquences considérables pour la sécurité et l'économie régionales et mondiales, et ne serait bénéfique à aucun pays. Nous appelons de façon continue au maintien de la paix et de la stabilité dans le détroit, et à la préservation du statu quo, qui en est aujourd'hui la meilleure garantie. Nous rappelons aussi de façon constante à nos interlocuteurs chinois aussi bien que taiwanais notre opposition à toute modification unilatérale du statu quo, a fortiori par le recours ou la menace de recours à la force et à la coercition, en invitant les deux parties au dialogue, afin d'éviter toute escalade. Le Président de la République a ainsi rappelé notre position au Président Xi Jinping lors de leurs entretiens en Chine en 2023 et en France en 2024. La France est fortement préoccupée par les tensions croissantes dans le détroit, qui se manifestent, entre autres, par des manœuvres militaires chinoises quotidiennes, et l'organisation, plusieurs fois par an, d'exercices militaires de grande ampleur. Nous avons exprimé notre préoccupation suite aux exercices menés par la Chine autour de l'île de Taiwan en octobre. Nous faisons partie des pays européens dont la Marine nationale effectue régulièrement des transits dans les eaux du détroit, qui sont l'occasion de rappeler notre attachement à la liberté de navigation et de survol, conformément au droit international. Une de nos frégates a ainsi transité dans le détroit le 28 octobre dernier.
