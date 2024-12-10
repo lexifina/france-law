@@ -1,0 +1,9 @@
+# Réponse à la question n° 1244
+
+- Question : [1244](1244.md) — Question n° 1244 — Indemnités des membres des commissions départementales de conciliation
+
+## Réponse
+
+*JO du 2024-12-10, page 6686*
+
+L'article 20 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 prévoit la création dans chaque département d'une commission départementale de conciliation (CDC). La CDC a pour objet de concilier les parties, bailleurs et locataires, lorsqu'un litige locatif les oppose, tant dans le parc social que dans le parc privé. Selon les cas, cette saisine peut être obligatoire avant tout recours devant le juge ou facultative. Placé auprès du préfet de chaque département, ce service administratif de l'Etat est gratuit. La composition de la CDC, le mode de désignation de ses membres, son organisation et ses règles de saisine et de fonctionnement sont fixés par décret. Cette commission est composée en nombre égal de représentants d'organisations de bailleurs et d'organisations de locataires représentatives au niveau local. Le décret n° 2001-653 du 19 juillet 2001 pris pour l'application de l'article 20 de la loi du 6 juillet 1989 modifiée et relatif aux commissions départementales de conciliation prévoit que les membres de la commission sont rémunérés sous forme de vacations. L'arrêté du 18 décembre 2001 précise ces modalités d'indemnisation en prévoyant qu'il peut être alloué, pour les heures passées en séance, sous forme de vacations, des indemnités aux membres des CDC et en fixant le taux horaire de cette vacation à 8 euros. Ces indemnités horaires sont exclusives de toute autre rémunération de quelque nature que ce soit, versée à ce titre, en dehors du remboursement des frais de déplacement et ceci afin de préserver le caractère bénévole de cette mission et la gratuité de ce service. Il n'est pas prévu à ce jour de revalorisation de cette indemnité horaire.
