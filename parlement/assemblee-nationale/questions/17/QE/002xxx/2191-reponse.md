@@ -1,0 +1,9 @@
+# Réponse à la question n° 2191
+
+- Question : [2191](2191.md) — Question n° 2191 — Canal Seine-Nord
+
+## Réponse
+
+*JO du 2024-12-10, page 6714*
+
+Le projet de canal Seine-Nord Europe (CSNE) constitue le maillon manquant de la liaison fluviale à grand gabarit Seine-Escaut, qui comprend une partie des réseaux fluviaux wallon, flamand et la partie nord du réseau français, du Havre à Dunkerque. Il complétera les importants travaux de mise à grand gabarit qui ont déjà été réalisés et se poursuivent sur ce réseau, et permettra de relier le bassin de la Seine aux 20 000 km de réseau fluvial européen à grand gabarit. Ce canal est un projet hors norme à l'échelle du secteur fluvial et aujourd'hui bien engagé. Financé par l'Union européenne, l'Etat et les collectivités territoriales, il est réalisé sous la maîtrise d'ouvrage de la société du canal Seine Nord Europe (SCSNE), établissement public local dont la présidence du conseil de surveillance est assurée par le Président de la Région Hauts-de-France. La dernière autorisation environnementale nécessaire à la réalisation des travaux a été accordée le 9 août 2024. Le futur canal Seine-Nord Europe lèvera un goulet d'étranglement entre la vallée de l'Oise et le canal de Dunkerque à Valenciennes, desserte assurée actuellement par le canal du Nord. Celui-ci, à petit gabarit (bateaux limités à 700 tonnes) et comprenant une vingtaine d'écluses, est un frein à un développement massif du transport fluvial. La réalisation du canal Seine-Nord Europe permettra ainsi de bénéficier d'un effet « réseau » en ouvrant le bassin de la Seine à un réseau plus vaste. Dans ce contexte, il est prévisible que d'autres activités fluviales bénéficieront du canal telles que les activités de croisière ou de mobilités selon les décisions qui seront prises par les autorités organisatrices des transports. A cet égard la SCSNE mène des études sur le potentiel touristique et de mobilisation des acteurs locaux.
