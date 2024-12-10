@@ -1,0 +1,9 @@
+# Réponse à la question n° 897
+
+- Question : [897](897.md) — Question n° 897 — Versement de prime de sujétion aux fonctionnaires en décharge syndicale totale
+
+## Réponse
+
+*JO du 2024-12-10, page 6653*
+
+L'article L. 212-1 du code général de la fonction publique dispose que « l'agent public est réputé conserver sa position statutaire » lorsqu'il bénéficie « d'une décharge d'activités de services à titre syndical ». Ainsi, les décharges d'activité de services à titre syndical ne modifient pas la situation statutaire des agents publics concernés. Ceux-ci demeurent en position d'activité dans leur corps et continuent à bénéficier des dispositions concernant cette position. De plus, l'article 7 du décret n° 2017-1419 du 28 septembre 2017 relatif aux garanties accordées aux agents publics exerçant une activité syndicale précise les conditions de rémunération des agents consacrant la totalité de leur service ou une quotité de temps de travail égale ou supérieure à 70 % d'un service à temps plein à une activité syndicale. En vertu de ses dispositions, « l'agent bénéficiant d'une décharge totale ou d'une mise à disposition conserve le montant annuel des primes et indemnités attachées aux fonctions exercées dans son corps ou cadre d'emplois avant d'en être déchargé ». Toutefois, le texte prévoit certaines exceptions clairement définies à ce principe du maintien. Notamment, sont exclues les primes et indemnités "liées à des horaires de travail atypiques losqu'elles ne sont pas versées à la majorité des agents de la même spécialité ou à défaut du même corps ou cadre d'emploi". Le maintien de ces primes et indemnités liées aux fonctions exercées dans le corps ou cadre d'emploi de l'agent est ainsi conditionné au fait que ces primes et indemnités soient versées à la majorité des agents appartenant à la même spécialité ou au même corps ou cadre d'emplois.
