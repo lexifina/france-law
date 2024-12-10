@@ -1,0 +1,9 @@
+# Réponse à la question n° 1839
+
+- Question : [1839](1839.md) — Question n° 1839 — Position du Gouvernement quant à l'obligation de vidange annuelle des piscines
+
+## Réponse
+
+*JO du 2024-12-10, page 6690*
+
+L'obligation de vidange complète est appliquée jusqu'à présent pour des motifs sanitaires afin de permettre notamment le nettoyage et la désinfection des bassins ainsi que le renouvellement de l'eau de la piscine dont la qualité ne peut plus être assurée par le traitement habituel. A la suite de la sécheresse de l'été 2022, le ministère chargé de la santé a saisi le 9 juin 2023 l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail sur ce point particulier, notamment sur l'opportunité d'envisager une vidange au cas par cas, en lieu et place d'une vidange périodique minimale obligatoire. Le rendu de ces travaux, estimé au premier trimestre 2025, est un prérequis nécessaire avant l'engagement par le ministère chargé de la santé des travaux règlementaires requis par la décision du comité interministériel de la transformation publique. Dans l'attente, il est rappelé que depuis le 1er janvier 2022, la réutilisation des eaux de lavage des filtres des bassins (sauf premières eaux et à condition de mettre en œuvre un traitement de microfiltration a minima) est autorisée pour le lavage des filtres ainsi que l'alimentation des bassins, des pédiluves et des rampes d'aspersion pour pieds. Par ailleurs, depuis le décret et l'arrêté du 12 juillet 2024 relatifs à des utilisations des eaux impropres à la consommation humaine, en vigueur depuis le 1er septembre 2024, les eaux issues des piscines (provenant notamment des vidanges partielles ou complètes) peuvent être utilisées pour divers usages domestiques (notamment pour l'évacuation des excréta, le lavage des surfaces extérieures, l'arrosage des toitures et des murs végétalisés à l'échelle du bâtiment).
