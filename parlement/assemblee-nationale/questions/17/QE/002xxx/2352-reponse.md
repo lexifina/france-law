@@ -1,0 +1,9 @@
+# Réponse à la question n° 2352
+
+- Question : [2352](2352.md) — Question n° 2352 — Lutte contre la pollution plastique
+
+## Réponse
+
+*JO du 2024-12-10, page 6705*
+
+La France vise à réduire l'utilisation du plastique et à favoriser la substitution du plastique par d'autres matériaux ou le développement d'emballages réutilisables ou recyclables et recyclés. Pour ce faire, diverses mesures ont été mises en place à travers plusieurs lois telles que la loi de transition énergétique pour la croissance verte, la loi anti-gaspillage pour une économie circulaire, et la loi climat et résilience. A titre d'exemple, la la loi anti-gaspillage pour une économie circulaire fixe comme objectif de diviser par deux le nombre de bouteilles en plastique à usage unique mises sur le marché d'ici 2030. Cette ambition nécessite une adaptation des industriels. Par ailleurs, certains produits en plastique à usage unique sont d'ores et déjà interdits et d'autres le seront dans les années suivantes, de manière progressive. La France a interdit l'usage des plastiques à usage unique dans de très nombreux domaines, comme par exemple, à travers l'obligation d'utiliser de la vaisselle réemployable dans la restauration sur place, l'interdiction d'expédier les publications de presse dans des emballages en plastique. A Busan, du 30 novembre au 1er décembre 2024, la cinquième session du comité intergouvernemental de négociation a échoué à déboucher sur un accord et a renvoyé les négociations à une session ultérieure. Obtenir un texte mentionnant la réduction mondiale de production plastique reste la première priorité de la France lors des négociations internationales. Le gouvernement reste en lien étroit avec ses partenaires de la Coalition de la haute ambition pour mettre fin à la pollution plastique (HAC EPP) et ses partenaires européens et du G7, pour parvenir à un accord ambitieux lors de la prochaine session de négociation.
