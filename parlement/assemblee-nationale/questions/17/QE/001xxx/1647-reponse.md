@@ -1,0 +1,9 @@
+# Réponse à la question n° 1647
+
+- Question : [1647](1647.md) — Question n° 1647 — Géobiologie et éoliennes
+
+## Réponse
+
+*JO du 2024-12-10, page 6637*
+
+Les éoliennes terrestres ont un rôle important à jouer dans la politique énergétique que je souhaite porter, qui repose sur le nucléaire et sur les énergies reouvelables. Cette énergie est compétitive, et permet d'apporter des retombées économiques dans certains territoires. Je souhaite donc qu'elles puissent poursuivre leur développement en concertation avec les élus locaux. Les impacts des éoliennes terrestres sont aujourd'hui très encadrés. En effet, celles-ci sont soumises, depuis 2011, à la législation des installations classées pour la protection de l'environnement (ICPE) afin d'assurer la sécurité des riverains et de limiter les impacts potentiels de ces installations. Ainsi, toute implantation d'un parc éolien terrestre doit préalablement faire l'objet d'une étude d'impact qui prend en compte l'état initial de l'environnement (biodiversité, paysage, patrimoine, bruit, etc.) et qui évalue les impacts potentiels du projet afin de les éviter, les réduire et de compenser en dernier recours. Les études d'impact prennent en compte la présence de zones naturelles d'intérêt écologique, faunistique et floristique (ZNIEFF) et d'aires protégées sur l'emplacement des projets concernés. Les communes peuvent également définir des zones d'exclusion sur leur territoire. Ces mesures permettent de continuer à développer cette énergie indispensable à notre mix énergétique, tout en veillant à son acceptabilité sociale et à la préservation des enjeux locaux. L'usage de la géobiologie n'apparait donc pas nécessaire dans cet encadrement du développement de l'éolien terrestre et, à ce titre, aucune aide à la géobiologie n'est mise en œuvre par l'État.
