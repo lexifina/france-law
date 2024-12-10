@@ -1,0 +1,9 @@
+# Réponse à la question n° 406
+
+- Question : [406](406.md) — Question n° 406 — Augmentation de la taxe foncière
+
+## Réponse
+
+*JO du 2024-12-10, page 6626*
+
+Conformément aux dispositions de l'article 1518 bis du code général des impôts, les valeurs locatives foncières des locaux d'habitation sont majorées par l'application d'un coefficient déterminé, depuis 2018, en fonction de l'évolution de l'indice des prix à la consommation harmonisé (IPCH). Cet indice, a conduit à revaloriser les bases des valeurs locatives des locaux d'habitation de 7,1 % en 2023 et de 3,9 % en 2024, deux exercices affectés par la résurgence de l'inflation. Avec la baisse de l'inflation constatée ces derniers mois, le taux de la revalorisation annuelle pour 2025 devrait s'établir en deçà de 2 %, soit à un niveau plus conforme aux évolutions constatées avant 2023. Il est rappelé que la question d'un plafonnement de ce taux s'est posée à l'occasion de la préparation du projet de loi de finances pour 2023, ainsi que lors des débats parlementaires sur ce texte. Il est alors apparu que la mise en place d'un plafonnement de la revalorisation annuelle proposée à l'article cette demande des associations nationales d'élus locaux concernées, ni des parlementaires, lesquels ont mis en avant la nécessité de préserver la progression des recettes des collectivités pour faire face à la hausse de leurs charges courantes de fonctionnement liée notamment à l'augmentation des coûts de l'énergie. Enfin, l'article 146 de la loi de finances pour 2020 prévoit une révision des valeurs locatives des locaux d'habitation (RVLLH) qui a pour objectif de proposer un système d'évaluation simplifié aboutissant à des évaluations cohérentes avec la réalité économique du marché locatif. Cette réforme reprend les principes de la révision des valeurs locatives des locaux professionnels, notamment avec un dispositif de mise à jour annuelle qui prendra en compte les évolutions de ce marché.
