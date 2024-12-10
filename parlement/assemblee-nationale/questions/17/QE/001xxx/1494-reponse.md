@@ -1,0 +1,9 @@
+# Réponse à la question n° 1494
+
+- Question : [1494](1494.md) — Question n° 1494 — Accès au logement des agents publics
+
+## Réponse
+
+*JO du 2024-12-10, page 6655*
+
+La garantie Visale (Visa pour le logement et l'emploi) est une caution locative accordée par le groupe Action Logement dont les agents publics peuvent bénéficier s'ils ont moins de 30 ans. Elle garantit le paiement du loyer et des charges locatives au propriétaire en cas de défaillance de paiement. Gratuite, elle vise à faciliter la recherche de logement en rassurant les bailleurs. Par ailleurs, le rapport du député de Paris David Amiel, intitulé « Loger les travailleurs des services publics », recommande l'ouverture de la garantie Visale aux agents publics de plus de 30 ans dans les mêmes conditions que celles appliquées aux salariés du secteur privé. Il préconise en outre de préserver la possibilité pour les employeurs publics de proposer, en plus de ce socle, des dispositifs complémentaires de garantie, s'ils le jugent nécessaire et recommande une concertation avec les collectivités sur les modalités de l'extension à la fonction publique territoriale. Sur la base de ce rapport et dans le cadre des concertations syndicales en cours, l'État et Action Logement étudient actuellement les modalités et conditions nécessaires pour une extension de la garantie Visale aux agents publics de plus de 30 ans pour les trois versants de la fonction publique. Les personnes de moins de 30 ans et ayant un emploi non permanent dans la fonction publique (vacataires, contractuels, auxiliaires), peuvent bénéficier du Loca-Pass. L'avance Loca-Pass peut financer le dépôt de garantie, en totalité ou en partie. De nombreux employeurs publics proposent par ailleurs à leurs agents des aides à l'installation ou leur permettent d'accéder à des garanties locatives de type assurantiel qui peuvent constituer une alternative pour les publics aujourd'hui non éligibles à Visale.
