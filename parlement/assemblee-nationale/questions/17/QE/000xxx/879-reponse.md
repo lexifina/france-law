@@ -1,0 +1,9 @@
+# Réponse à la question n° 879
+
+- Question : [879](879.md) — Question n° 879 — Gratification des stages de mineurs non accompagnés
+
+## Réponse
+
+*JO du 2024-12-10, page 6688*
+
+Le principe du versement d'une allocation de stage financée par l'État en faveur des lycéens professionnels dans le cadre de la valorisation de leurs périodes de formation en milieu professionnel (PFMP) s'inscrit dans le cadre de la réforme des lycées professionnels et est entré en vigueur au 1er septembre 2023. Ainsi, les PFMP réalisées à partir de la rentrée scolaire 2023 sont éligibles à cette allocation pour laquelle les premiers versements sont intervenus fin janvier 2024. L'article 4 du décret n° 2023-765 du 11 août 2023 relatif au versement d'une allocation en faveur des lycéens de la voie professionnelle dans le cadre de la valorisation des périodes de formation en milieu professionnel dispose que les élèves mineurs peuvent recevoir l'allocation sur leur compte bancaire avec une autorisation écrite du représentant légal. Dans le cas des élèves mineurs non accompagnés, l'Agence de services et de paiement, organisme payeur de l'allocation de stage pour le compte de l'État, accepte le paiement sur le compte bancaire d'une personne morale. Cette modalité reste limitée aux structures qui agissent pour le compte de l'élève mineur avec, à l'appui, un mandat ou une décision de justice prise par un juge ce qui vaut mandat de représentation légale. Sont concernés notamment l'Aide sociale à l'enfance, les associations mandatées et un tiers digne de confiance mandaté. Une foire aux questions permet d'apporter des réponses aux cas particuliers d'élèves et aux questions relatives au périmètre de cette allocation à la rubrique « Allocation de stage au lycée professionnel » du site éduscol du ministère de l'éducation nationale (https://eduscol.education.fr/3860/allocation-de-stage-au-lycee-professionnel).
