@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001517
+
+- Question : [SEQ241001517](seq241001517.md) — Application de l'indemnité de résidence
+
+## Réponse
+
+*Fonction publique, simplification et transformation de l'action publique, JO du 2024-12-12, page 4841*
+
+L'indemnité de résidence (IR) a été instituée en 1919 pour compenser les disparités du coût de la vie sur le territoire national. Codifiée à l'article L. 712-1 du code général de la fonction publique (CGFP), comme l'une des composantes de la rémunération des fonctionnaires, ses modalités d'attribution sont fixées à l'article 9 du décret n° 85-1148 du 24 octobre 1985 modifié relatif à la rémunération des personnels civils et militaires de l'Etat, des personnels des collectivités territoriales et des personnels des établissements publics d'hospitalisation. Son montant est calculé en appliquant au traitement indiciaire brut (TIB) de l'agent un taux variable (0 %, 1 % ou 3 %) selon la zone territoriale dans laquelle est classée la commune où il exerce ses fonctions. La répartition actuelle des communes dans les trois zones de l'indemnité de résidence correspond aux zones territoriales d'abattement de salaires telles que déterminées par l'article 3 du décret n° 62-1263 du 30 octobre 1962, c'est-à-dire au classement opéré après-guerre par le ministère du travail pour instaurer une modulation géographique du salaire minimum national interprofessionnel en fonction du niveau du coût de la vie dans chaque localité de travail. Le Gouvernement reste attentif aux préoccupations exprimées sur les dispositifs indemnitaires dont bénéficient les agents publics, notamment s'agissant des enjeux d'attractivité territoriale et en particulier d'accès au logement. Toutefois, compte tenu du contexte budgétaire actuellement très contraint pour les finances publiques, il n'est pas envisagé à court terme de faire évoluer le dispositif de l'indemnité de résidence.
