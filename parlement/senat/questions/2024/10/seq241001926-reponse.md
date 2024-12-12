@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001926
+
+- Question : [SEQ241001926](seq241001926.md) — Installation de brouilleurs de drones dans les prisons
+
+## Réponse
+
+*Justice, JO du 2024-12-12, page 4856*
+
+La lutte contre les drones malveillants constitue l'une des priorités de la direction de l'administration pénitentiaire (DAP). Depuis 2016, la DAP est associée à des groupes de réflexion sur l'identification de la menace et la neutralisation des drones malveillants initiés par le secrétariat général de la défense et de la sécurité nationale (SGDSN). Ils oeuvrent conjointement à : - La définition et la circonscription de la menace ; - La poursuite de la réflexion relative aux solutions techniques et technologiques pour la lutte anti-drones (LAD) ; - L'élaboration du cadre juridique de la LAD ; - L'élaboration des règles de neutralisation de la menace. La politique de lutte contre les drones malveillants mise en oeuvre par les services de l'administration pénitentiaire repose sur trois objectifs : - Détecter les drones et leur télépilotes ; - Caractériser et analyser la menace ; - Neutraliser et empêcher la progression des drones. Les marchés passés successivement en 2019 et 2021 par la DAP ont permis de mobiliser de nouveaux dispositifs techniques de lutte contre les drones malveillants qui font obstacle à 95 % de la menace. S'agissant du coût de fonctionnement de ces outils, celui-ci s'élève en moyenne à 3 Meuros par an depuis 2019, pour un montant total cumulé d'environ 16,3 Meuros en 2024, maintenance comprise. En 2025, 2,3 Meuros seront alloués au déploiement du dispositif anti-drone. Au 29 novembre 2024, 49 sites sont équipés d'un système anti-drone. Un plan volontariste de déploiement des dispositifs anti-drones est en cours et vise notamment à doter les établissements pénitentiaires particulièrement exposés.
