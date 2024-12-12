@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241102187
+
+- Question : [SEQ241102187](seq241102187.md) — Interdiction des emballages en polystyrène
+
+## Réponse
+
+*Transition écologique, énergie, climat et prévention des risques, JO du 2024-12-12, page 4882*
+
+La loi du 22 août 2021 avait acté, sur la base des déclarations des représentants des metteurs en marché d'emballage en polystyrène, que seuls les emballages recyclables et de fait faisant l'objet d'un recyclage pourraient continuer à être mis sur le marché. Cependant, le principe acté par la loi française a été repris dans le projet de règlement sur les emballages, mais ne trouvera pas à s'appliquer avant 2030. Ce projet de règlement a fait l'objet d'un consensus entre le Parlement européen, le Conseil européen et la Commission européene. Il sera bientôt publié au Journal Officiel de l'Union européenne après la phase de traduction dans les langues officielles des Etats de l'Union. Ce règlement précise que « les États membres n'interdisent, ne restreignent, ni n'entravent la mise à disposition sur le marché du territoire d'un État membre des emballages conformes aux exigences du présent règlement pour des raisons de non-conformité avec lesdites exigences nationales ». Ainsi, une application d'une disposition nationale manifestement contraire au droit européen pourait être entachée d'irrégularité. Alors que certaines dispositions du projet de règlement laissent une marge d'appréciation aux Etats membres pour la mise en oeuvre de certaines dispositions, celle-ci n'en fait pas l'objet. De fait, l'adoption d'une mesure législative supplémentaire n'apparait pas nécessaire pour acter le report de la mesure à 2030. Le dépôt d'une proposition de loi réalignant le délai de la loi de 2021 sur le délai du règlement européen est évidemment possible, sans préjuger toutefois de la décision du Parlement souverain quant à son éventuelle adoption.
