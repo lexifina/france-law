@@ -1,0 +1,11 @@
+# Article 1er
+
+Le présent avenant annule l'article 6 de l'accord susvisé et le remplace par :
+
+« Article 6
+
+Prise en charge financière
+
+Les formations réalisées dans le cadre de ce dispositif sont prises en charge par l'OPCO des entreprises de proximité, désigné par la branche par l'accord du 6 décembre 2018, sur la base d'un forfait horaire couvrant tout ou partie des frais pédagogiques, rémunération du salarié pendant les périodes de formation théorique, ainsi que, le cas échéant, des frais de transport, restauration et/ou d'hébergement (informations à retrouver sur le site Internet de l'OPCO EP : https://www.opcoep.fr/).
+
+Les travaux de la CPNEFP permettent de définir des niveaux de prise en charge différents selon les qualifications visées. »
