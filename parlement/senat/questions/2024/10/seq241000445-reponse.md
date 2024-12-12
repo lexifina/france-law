@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000445
+
+- Question : [SEQ241000445](seq241000445.md) — Disparités concernant les conditions d'accès imposées par l'office national des forêts aux fédérations sportives pour l'utilisation des forêts domaniales
+
+## Réponse
+
+*Agriculture, souveraineté alimentaire et forêt, JO du 2024-12-12, page 4816*
+
+L'article L. 122-10 du code forestier prévoit que dans les bois et forêts relevant du régime forestier, en particulier ceux appartenant à l'État, l'ouverture au public doit être recherchée le plus largement possible. L'ouverture au public implique des mesures permettant d'une part la protection des bois et forêts et des milieux naturels, notamment pour garantir la conservation des sites les plus fragiles et, d'autre part, des mesures nécessaires à la sécurité du public accueilli. Le comité national olympique et sportif français (CNOSF) a relayé auprès de l'office national des forêts (ONF), gestionnaire des forêts domaniales, le besoin d'élaboration d'un cadre de développement des pratiques dans les espaces forestiers commun et harmonisé sur l'ensemble du territoire, exprimé par les fédérations sportives. Conformément à l'article L. 311-5 du code du sport, l'objectif est de rédiger dans les prochains mois une convention cadre entre le CNOSF et l'ONF qui servirait de cadre aux conventions bilatérales élaborées entre l'établissement et chacune des fédérations de sport de pleine nature. Elle énoncera des dispositions communes telles que les modalités relatives aux autorisations, l'accès gratuit aux forêts domaniales, les frais d'instruction des demandes de réalisation d'une manifestation sportive établis selon une grille nationale et, le cas échéant, le principe d'un devis/facturation en cas de prestation supplémentaire de la part de l'ONF. Des conventions spécifiques avec les fédérations pourront préciser en tant que de besoin les dispositions particulières à chaque sport.
