@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000202
+
+- Question : [SEQ241000202](seq241000202.md) — Interdiction des polystyrènes
+
+## Réponse
+
+*Transition écologique, énergie, climat et prévention des risques, JO du 2024-12-12, page 4868*
+
+La pollution de notre environnement présente un caractère préoccupant dont les scientifiques n'ont montré qu'un aspect de ses réelles conséquences. Il n'est pas possible d'attendre éternellement pour prendre des mesures pour réduire cette contamination aux matières plastiques alors même que la courbe de la production de plastique dans le monde présente un caractère exponentiel. La France, à travers la loi AGEC promulguée en février 2020 a lancé le mouvement pour réduire l'usage du plastique à usage unique. Plus récemment encore, une disposition a été adoptée dans le loi Climat et résilience visant à n'autoriser l'usage du polystyrène qu'à condition que celui-ci soit recyclé, et ce à partir du 1er janvier 2025. Force est de constater que les engagements de la filière des polymères styréniques n'ont pas été respectés. Pour autant, les dispositions françaises concernant le polystyrène ont été reprises dans le projet de règlement européen sur les emballages, dont les dispositions ont été validées tant par le Parlement européen que par le Conseil d'Union, avec cependant un décalage de date. Il est en effet prévu qu'à partir du 1er janvier 2030, les emballages, quels que soient les matériaux utilisés devront être conçus pour être recyclables, ce qui signifie entre autres qu'ils devront être recyclés à l'échelle à partir de 2035. Afin de préciser les règles applicables en attendant les interdictions européennes, le Gouvernement a publié un avis au Journal officiel du 28 septembre 2024 indiquant qu'en l'état du droit, les emballages en résine polymères peuvent continuer à être mis sur le marché dans les conditions du projet de règlement.
