@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modification du tableau des emplois et autorisation d’occuper des emplois permanents par des agents contractuels.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-12-12
+- Matière : RESSOURCES HUMAINES
+- Objet : Modification du tableau des emplois et autorisation d’occuper des emplois permanents par des agents contractuels.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNzcsInB1ciI6ImJsb2JfaWQifX0=--64a1f384a02ba68286153b555fbe6983a6cfcf34/121224_14.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
