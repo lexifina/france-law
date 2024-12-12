@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la modification n°1 du marché MA22016 relatif aux prestations d’entretien et de dépannage, la fourniture et les travaux d’installation et d’extension des équipements de détection d’intrusion, de contrôle d’accès, d’alarmes techniques, ainsi que des équipements de vidéophonie, d’interphonie et de vidéosurveillance des bâtiments communaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-12-12
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Approbation de la modification n°1 du marché MA22016 relatif aux prestations d’entretien et de dépannage, la fourniture et les travaux d’installation et d’extension des équipements de détection d’intrusion, de contrôle d’accès, d’alarmes techniques, ainsi que des équipements de vidéophonie, d’interphonie et de vidéosurveillance des bâtiments communaux.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxNzAsInB1ciI6ImJsb2JfaWQifX0=--1fc1b255c278980cfd6520caa1393d2b18137c17/121224_10.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
