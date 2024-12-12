@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Attribution du marché de maîtrise d’œuvre relatif à la transformation du Musée.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2024-12-12
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Attribution du marché de maîtrise d’œuvre relatif à la transformation du Musée.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxNzEsInB1ciI6ImJsb2JfaWQifX0=--84d2e0bff5add582b56c306664bf81df156b4da1/121224_11.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
