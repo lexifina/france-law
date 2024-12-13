@@ -1,3 +1,0 @@
-# Article Annexe
-
-Le cahier des charges est publié, dans sa rédaction issue du décret n° 2015-1071 du 26 août 2015, au Bulletin officiel du ministère de l'agriculture, de l'agroalimentaire et de la forêt et peut être consulté à l'adresse suivante : https://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-a54c4dae-8259-439b-a64b-4f8ed64f432e.
