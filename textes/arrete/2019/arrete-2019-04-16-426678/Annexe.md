@@ -10,15 +10,15 @@ Exerçant la profession d'ergothérapeute/ psychomotricien (ne)/ psychologue dan
 
 Adresse
 
-Téléphone :
+N° téléphone :
 
 Courriel :
 
-N° ADELI :
+N° ADELI ou RPPS :
 
 N° SIRET :
 
-Ci-après désigné le "professionnel libéral"
+Ci-après désigné &laquo; le professionnel libéral &raquo;
 
 Et d'autre part :
 
@@ -30,15 +30,15 @@ Téléphone :
 
 Courriel :
 
-N° FINESS :
+N° FINESS géographique de la structure :
 
-Ci-après désignée "la plateforme"
+Ci-après désignée &laquo; la plateforme &raquo;
 
 Il a été convenu ce qui suit :
 
 1. Objet
 
-Le présent contrat a pour objet de fixer les modalités de collaboration du professionnel libéral au parcours de bilan et intervention précoce pour les troubles du neuro-développement organisé par la plateforme.
+Le présent contrat a pour objet de fixer les modalités de collaboration du professionnel libéral au parcours de bilan et intervention précoce pour les troubles du neuro-développement organisé par la plateforme de coordination et d'orientation.
 
 Les conditions d'application du parcours de bilan et intervention précoce, préalables au diagnostic d'un trouble du neuro-développement, sont précisées au chapitre V du titre III du livre 1er de la deuxième partie du code de la santé publique (articles R. 2135-1 à R. 2135-4).
 
@@ -58,7 +58,7 @@ Elles se déroulent dans le cabinet du professionnel libéral ou, si nécessaire
 
 3. Modalités d'exercice du professionnel libéral
 
-Le professionnel libéral s'engage à respecter les recommandations de bonnes pratiques établies par la Haute Autorité de Santé (HAS) (cf. annexe n° 1) ainsi que les principes généraux exposés à l'article L. 1111-2 du code de la santé publique.
+Le professionnel libéral s'engage à respecter les recommandations de bonnes pratiques établies par la Haute Autorité de santé (HAS) (cf. annexe n° 1) ainsi que les principes généraux exposés à l'article L. 1111-2 du code de la santé publique.
 
 Il s'engage également à l'utilisation des outils recommandés par la HAS ou validés scientifiquement et étalonnés. Une liste non exhaustive est, à titre indicatif, établie en annexe n° 2 de ce contrat. Cette liste sera amenée à être réactualisée périodiquement en fonction de l'évolution des recommandations et des outils et plus généralement de l'évolution des connaissances scientifiques.
 
@@ -68,13 +68,13 @@ Le professionnel libéral transmet le compte-rendu d'évaluation ou de bilan à 
 
 Le professionnel libéral participe aux réunions d'équipes pluri-professionnelles organisées par la plateforme autour de la situation des enfants pour lesquels il intervient, afin d'élaborer un diagnostic fonctionnel et de contribuer au diagnostic nosographique et, le cas échéant, d'adapter le projet personnalisé d'interventions du parcours de bilan et intervention précoce de l'enfant.
 
-Il transmet, au moins une fois tous les trois mois, les compte-rendus quantitatifs et qualitatifs des interventions qu'il réalise, à la plateforme, à la famille et au médecin traitant de l'enfant ou au médecin désigné par la famille. Les ergothérapeutes, psychomotriciens et psychologues peuvent s'appuyer sur les modèles de compte-rendu figurant en annexe n° 3.
+Il transmet, au moins une fois tous les trois mois, les comptes-rendus quantitatifs et qualitatifs des interventions qu'il réalise, à la plateforme, à la famille et au médecin traitant de l'enfant ou au médecin désigné par la famille. Les ergothérapeutes, psychomotriciens et psychologues peuvent s'appuyer sur les modèles de compte-rendu figurant en annexe n° 3.
 
 Le professionnel libéral peut participer aux formations organisées à l'initiative de la plateforme autour de l'application des recommandations de bonnes pratiques, du développement des connaissances sur les troubles du neuro-développement et de l'amélioration des parcours des personnes. La plateforme veille, s'agissant des ergothérapeutes et psychomotriciens, à la bonne articulation de ces formations avec le dispositif de développement professionnel continu (DPC) de ces professionnels de santé.
 
 En cas de congé ou d'empêchement, le professionnel s'engage à prendre toutes les mesures nécessaires à la poursuite du bilan et des interventions pour éviter toute rupture dans le parcours de l'enfant.
 
-L'activité du professionnel de santé libéral dans le cadre du présent contrat est couverte par son ou ses contrat (s) d'assurance professionnelle personnelle (responsabilité civile notamment concernant les actes de soins, véhicule et trajets travail, etc.). Une copie des polices d'assurance nécessaires devra être remise à la plateforme dans les quinze jours suivantla signature du présent contrat et actualisée chaque année.
+L'activité du professionnel de santé libéral dans le cadre du présent contrat est couverte par son ou ses contrat (s) d'assurance professionnelle personnelle (responsabilité civile notamment concernant les actes de soins, véhicule et trajets travail, etc.). Une copie des polices d'assurance nécessaires devra être remise à la plateforme dans les quinze jours suivant la signature du présent contrat et actualisée chaque année.
 
 4. L'utilisation et la protection des données personnelles des enfants pris en charge par la plateforme
 
@@ -92,7 +92,13 @@ La plateforme est chargée de l'organisation des réunions pluridisciplinaires a
 
 6. Rémunération des prestations
 
-Le professionnel libéral est rémunéré pour la séquence de prestations qu'il réalise par le versement par la plateforme d'un forfait versé par étapes : après réception du bilan ou de l'évaluation, et tous les trois mois après réception du compte-rendu d'intervention du professionnel.
+Le professionnel établit un formulaire de facturation à l'attention de la caisse d'affiliation du bénéficiaire des soins.
+
+Pour donner lieu au versement des prestations réalisées, le professionnel libéral transmet à la plateforme de coordination et d'orientation le formulaire de facturation à échéance mensuelle, à terme échu pour les séquences réalisées pour chaque enfant. Le formulaire de facturation comprend le détail des bilans et séances réalisés dont le montant correspond aux forfaits décrits ci-dessous.
+
+La plateforme reçoit et centralise chaque mois l'ensemble des formulaires de facturation.
+
+Après vérification des conditions mentionnées aux 2 et 3 de la présente convention, la plateforme réalise les contrôles de bon remplissage des formulaires de facturation et les transmet à l'Assurance Maladie, conformément à la procédure établie par cette dernière.
 
 Pour les ergothérapeutes et psychomotriciens, ce forfait s'élève à :
 
@@ -100,47 +106,45 @@ Pour les ergothérapeutes et psychomotriciens, ce forfait s'élève à :
 
 -140 €, pour un bilan psychomoteur comportant un examen du développement sensorimoteur ;
 
--1 500 €, pour une évaluation par un ergothérapeute et une séquence d'interventions précoces d'un ergothérapeutes à prescrire dans le délai compris entre la réalisation de l'évaluation et l'échéance des douze mois courant après la date du premier rendez-vous du parcours avec le professionnel libéral contribuant à cette évaluation ;
+-1 500 €, pour une évaluation par un ergothérapeute et une séquence d'interventions précoces d'un ergothérapeute à prescrire dans le délai compris entre la réalisation de l'évaluation et l'échéance des douze mois courant après la date du premier rendez-vous du parcours avec le professionnel libéral contribuant à cette évaluation ;
 
--1 500 €, pour un bilan psychomoteur et une séquence d'interventions précoces d'un psychomotricien à prescrire dans le délai compris entre la réalisation du bilan et l'échéance des douze mois courant après la date du premier rendez-vous du parcours avec le professionnel libéral contribuant à ce bilan ;
+-1 500 €, pour un bilan psychomoteur et une séquence d'interventions précoces d'un psychomotricien à prescrire dans le délai compris entre la réalisation du bilan et l'échéance des douze mois courant après la date du premier rendez-vous du parcours avec le professionnel libéral contribuant à ce bilan.
 
-Le forfait "bilan et interventions précoces", s'appliquant aux ergothérapeutes, psychomotriciens comprend la partie bilan ou évaluation et un minimum de 35 séances d'interventions de 45 minutes, à réaliser sur cette période de douze mois.
+Le forfait &laquo; bilan et interventions précoces &raquo;, s'appliquant aux ergothérapeutes, psychomotriciens comprend la partie bilan ou évaluation et une moyenne de 35 séances d'interventions de 45 minutes, à réaliser sur cette période de douze mois.
 
 Conformément à l'arrêté du 10 mars 2021 relatif à la définition de l'expertise spécifique des psychologues, le psychologue peut être saisi au cours du parcours de bilan et d'intervention précoce d'un enfant par le médecin coordonnateur de la plateforme pour faire une première évaluation ou une évaluation complémentaire ou pour intervenir auprès de l'enfant. Selon la date de la saisine et la nature des difficultés de l'enfant, la plateforme peut déclencher un forfait de :
 
--120 €, pour une évaluation qualitative et quantitative des compétences développementales de l'enfant par un psychologue ; cette évaluation correspond à un premier entretien d'évaluation cognitive, ou à un complément d'évaluation quantitative et qualitative ciblant un secteur spécifique du développement cognitif et socio-communicationnel (mémoire, fonctions exécutives)
+-120 €, pour une évaluation qualitative et quantitative des compétences développementales de l'enfant par un psychologue ; cette évaluation correspond à un premier entretien d'évaluation cognitive, ou à un complément d'évaluation quantitative et qualitative ciblant un secteur spécifique du développement cognitif et socio-communicationnel (mémoire, fonctions exécutives) ;
 
 -300 €, pour une évaluation qualitative et quantitative des compétences développementales de l'enfant par un psychologue incluant des tests neuropsychologiques complémentaires ciblant des secteurs spécifiques du développement cognitif et socio-communicationnel ;
 
--513 €, pour une séquence d'interventions précoces de 12 séances minimum de 45 minutes chacune, renouvelable sur prescription de la plateforme dans un délai de douze mois courant après la date du premier rendez-vous de la première séquence d'intervention ;
+-513 €, pour une séquence d'interventions précoces qui peuvent se répartir en moyenne en 12 séances de 45 minutes chacune, renouvelable sur prescription de la plateforme dans un délai de douze mois courant après la date du premier rendez-vous de la première séquence d'intervention ;
 
--1 500 €, pour une séquence d'interventions précoces d'un minimum de 35 séances de 45 minutes chacune à prescrire dans le délai compris entre la réalisation du bilan et l'échéance des douze mois courant après la date du premier rendez-vous du parcours avec le professionnel libéral contribuant à ce bilan ;
+-1 500 €, pour une séquence d'interventions précoces de 35 séances en moyenne de 45 minutes chacune à prescrire dans le délai compris entre la réalisation du bilan et l'échéance des douze mois courant après la date du premier rendez-vous du parcours avec le professionnel libéral contribuant à ce bilan.
+
+Les deux forfaits relatifs aux évaluations quantitatives et qualitatives sus cités sont cumulables.
 
 Le nombre, la durée et la fréquence des séances de chacun des professionnels (ergothérapeutes, psychomotriciens et psychologues) pourront varier pour s'adapter aux besoins et capacités de l'enfant et correspondre aux recommandations de bonnes pratiques. Dans ce cas, les comptes rendus spécifient à la plateforme la quotité de temps retenu et la fréquence des séances.
 
 Ces forfaits s'entendent comme incluant la rédaction des comptes rendus de bilan et d'intervention et les temps de coordination avec la plateforme, ainsi que les coûts de déplacement quel que soit le lieu d'exercice.
 
-Un complément pourra être versé, à titre dérogatoire et au prorata du nombre de prestations supplémentaires en cas de prolongation de la séquence d'interventions dans l'attente d'une décision de la commission des droits et de l'autonomie des personnes handicapées, sans que cette prolongation au-delà d ‘ un an ne puisse dépasser 12 mois.
-
-Une majoration de 10 % s'applique aux tarifs pour les départements et collectivités d'outremer.
+Un complément pourra être versé, à titre dérogatoire et au prorata du nombre de prestations supplémentaires en cas de prolongation de la séquence d'interventions dans l'attente d'une décision de la commission des droits et de l'autonomie des personnes handicapées, sans que cette prolongation au-delà d ‘ un an ne puisse dépasser 12 mois. Une majoration de 10 % s'applique aux tarifs pour les départements et collectivités d'outremer.
 
 7. Modalités de paiement
 
-La plateforme rémunère le professionnel libéral après réception des comptes rendus de bilan et d'interventions, selon les modalités suivantes :
+L'assurance maladie verse chaque mois le montant à payer au professionnel libéral après la réception des formulaires de facturation centralisés par la plateforme :
 
 -en un seul versement, si les bilans ou évaluations ne sont pas suivis de séquences d'interventions ;
 
--en quatre versements minimum, si le parcours comprend bilan ou évaluation et interventions précoces.
+-au prorata des bilans et séances réalisés, si le parcours comprend bilan ou évaluation et interventions précoces conformément à l'article 6.
 
 8. Suspension/ arrêt
 
 Le professionnel libéral s'engage à ne pas prendre de décision unilatérale de suspension des interventions sans concertation préalable avec la plateforme et l'accord éclairé de la famille.
 
-Le professionnel libéral s'engage également à signaler à la plateforme toute absence non justifiée par la famille à deux séances consécutives programmées. Dans ce cas, la plateforme s'engage à contacter elle-même la famille.
+Le professionnel libéral s'engage également à signaler à la plateforme toute absence non justifiée par la famille à deux séances consécutives programmées. Il s'engage également à ne pas facturer les prestations non réalisées pour ce même motif. Dans ce cas, la plateforme s'engage à contacter elle-même la famille.
 
-En cas de sortie du parcours à l'initiative de la famille, le professionnel libéral s'assure des raisons de cet arrêt, vérifie s'il est cohérent avec l'évolution de l'enfant, en informe sans délais la plateforme pour qu'elle organise, le cas échéant, les suites de ce parcours. Il lui remet une note de fin de prise en charge.
-
-Dans ces cas, le forfait dû au professionnel libéral est proratisé en fonction du taux de réalisation du parcours prescrit.
+En cas de sortie du parcours à l'initiative de la famille, le professionnel libéral s'assure des raisons de cet arrêt, vérifie s'il est cohérent avec l'évolution de l'enfant, en informe sans délais la plateforme pour qu'elle organise, le cas échéant, les suites de ce parcours. Il s'engage à ne pas facturer les prestations non réalisées pour ce même motif. Il lui remet une note de fin de prise en charge.
 
 9. Durée et résiliation
 
