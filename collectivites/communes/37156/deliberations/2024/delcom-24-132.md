@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_24_132 — DELIBERATION 2024-132 DCRH INTEGRATION DU COMPLEMENT DE REMUNERATION IFSE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2024-12-16
+- Matière : 4.5.1 Fonction publique/Regime indemnitaire
+- Objet : DELIBERATION 2024-132 DCRH INTEGRATION DU COMPLEMENT DE REMUNERATION IFSE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2024/43439/0d11b23db3e09afe5bbc11e5226d5b5d1451962af5d3da82cd9b216739bb0c51.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
