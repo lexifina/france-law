@@ -1,0 +1,10 @@
+# CENTRE COMMUNAL D ACTION SOCIALE : délibération DELIB252024CCAS — D - 4.5 - RESIDENCE AUTONOMIE LES HERMELLES - ADHESION A LA CONVENTION DE PARTICIPATION PREVOYANCE DU CDG 35
+
+- Collectivité : CENTRE COMMUNAL D ACTION SOCIALE
+- SIRET : 26350242900016
+- Date : 2024-12-16
+- Matière : 4.5 Fonction publique/Regime indemnitaire
+- Objet : D - 4.5 - RESIDENCE AUTONOMIE LES HERMELLES - ADHESION A LA CONVENTION DE PARTICIPATION PREVOYANCE DU CDG 35
+- Transmis à la préfecture : 2024-12-20 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/263502429/Deliberation/2024/772350/f79249dafdc91f26b9b62148010a235ef70234976396b5bc20d22b17d073e5b1.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
