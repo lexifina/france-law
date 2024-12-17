@@ -1,0 +1,9 @@
+# Réponse à la question n° 1581
+
+- Question : [1581](1581.md) — Question n° 1581 — Protection des cyclistes face aux violences motorisées
+
+## Réponse
+
+*JO du 2024-12-17, page 6782*
+
+A la suite de la forte et légitime émotion suscitée par le décès dramatique de Paul Varry, le Gouvernement a reçu les associations de cyclistes et a lancé une mission « contre les violences, protéger tous les usagers de la route », confiée à Emmanuel Barbe. Issu de l'École nationale de la magistrature, ancien magistrat et préfet, Emmanuel Barbe est inspecteur général de l'administration, a préfiguré l'Académie de police et a été délégué interministériel à la sécurité routière de 2015 à 2020. Dans le contexte d'une diversification des modes de mobilités, cette mission proposera au Gouvernement de nouvelles mesures pour réduire les conflits d'usage et les comportements agressifs liés au partage de la voie publique et de manière générale pour apaiser les relations entre usagers et mieux protéger notamment des plus vulnérables d'entre eux, piétons et usagers de modes doux, en milieu urbain comme en dehors des agglomérations. Cette démarche associe les collectivités locales, les gestionnaires de voiries et les associations d'usagers de la route, notamment les cyclistes et les piétons. Les conclusions de la mission sont attendues à la fin du premier trimestre 2025, autour de quatre axes : l'éducation routière tout au long de la vie ; la prévention et la communication sur la règle et le partage de la route ; l'amélioration continue des aménagements et des signalisations ; la détection et la constatation à l'encontre des comportements violents sur la route. Les préconisations s'inscriront en complément des actions déjà engagées dans ce domaine, notamment dans le cadre du plan vélo et marche 2023-2027 et du comité interministériel de sécurité routière du 17 juillet 2023.
