@@ -1,0 +1,9 @@
+# Réponse à la question n° 761
+
+- Question : [761](761.md) — Question n° 761 — Qualification « voie verte »
+
+## Réponse
+
+*JO du 2024-12-17, page 6779*
+
+La définition de la « voie verte » et les règles de circulation qui s'y appliquent figurent dans l'article R. 110-2 du code de la route. En 2022, l'article R. 411-3-2 y a été ajouté afin d'ouvrir une possibilité de dérogation laissée à l'appréciation de l'autorité détentrice du pouvoir de police en vue de permettre la circulation de véhicules motorisés souhaitant accéder aux terrains riverains. Ces dispositions ne sont donc pas expérimentales. Il ne semble aujourd'hui pas nécessaire d'envisager la modification de la partie réglementaire du code de la route pour y introduire une distinction selon que la voie verte est ouverte ou non à d'autres catégories d'usagers admis à titre dérogatoire, au risque de compliquer l'appréhension de ces articles du code de la route. En effet, la signalisation routière existante telle que prévue par l'instruction interministérielle sur la signalisation routière permet d'apporter aux usagers toutes les précisions nécessaires sur les spécificités d'accès autorisées par l'autorité de police. Ainsi, le panneau de type C115 annonçant le début de la voie verte doit être complété par un panonceau spécifique de type M4y lorsque l'accès des cavaliers n'a pas été interdit, et il peut lui être adjoint un panonceau de type M9z précisant les conditions d'accès pour les véhicules motorisés, par exemple « ACCES RIVERAINS AUTORISES ». L'utilisation de cette signalisation permet d'ores et déjà, sans qu'il soit nécessaire de modifier le code de la route, de délivrer une information claire et précise sur les types de véhicules susceptibles de circuler sur une voie verte, ce qui contribue à la bonne compréhension de l'aménagement, facilite la cohabitation entre tous les usagers admis à s'y trouver et limite les risques de tensions entre eux.
