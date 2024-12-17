@@ -1,0 +1,9 @@
+# Réponse à la question n° 568
+
+- Question : [568](568.md) — Question n° 568 — Restriction de l'octocrylène
+
+## Réponse
+
+*JO du 2024-12-17, page 6773*
+
+L'octocrylène est une substance chimique présente dans des produits de consommation, notamment dans les cosmétiques pour son rôle de filtre solaire. Les travaux conduits jusqu'à présent par l'Anses ont conduit à identifier l'existence de risques inacceptables pour les milieux aquatiques pour certains usages de l'octocrylène, notamment dans les cosmétiques ainsi que la formulation de plastisol. L'Anses a donc réalisé une analyse de la meilleure option réglementaire pour gérer ces risques. Cette analyse conclut à la pertinence de mettre en place une restriction, c'est-à-dire une interdiction partielle ou complète, ou la prescription de conditions appliquées aux usages permettant de prévenir les risques pour la santé humaine et pour l'environnement, dans le cadre du règlement européen REACH sur les produits chimiques. L'objectif de la restriction sera de limiter les rejets d'octocrylène dans l'environnement pour les usages présentant des risques inacceptables. Sur la base de ces travaux, la France a notifié au niveau européen son intention de déposer un dossier de restriction, en cours de finalisation par l'Anses. La soumission de ce dossier au niveau européen est prévue pour le 11 avril 2025. Le dossier fera l'objet d un examen par les deux comités scientifiques de l'Agence européenne des produits (ECHA), à savoir le comité d évaluation des risques (RAC) et le comité d'analyse socio-économique (SEAC), et d'une consultation publique d'une durée de 6 mois. Les comités scientifiques délivreront des avis qui seront adressés à la Commission européenne qui sera chargée d'élaborer un projet de règlement. Ce projet fera l'objet de négociations entre États membres avant vote et adoption définitive.
