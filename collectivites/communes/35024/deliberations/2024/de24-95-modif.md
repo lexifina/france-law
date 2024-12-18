@@ -1,0 +1,11 @@
+# COMMUNE DE BETTON : délibération DE24_95_MODIF — AUTORISATION DE SIGNATURE DU MARCHÉ DE MAÎTRISE DUVRE  RELATIF À LOPÉRATION DE RÉNOVATION ET DE RESTRUCTURATION DE  LANCIEN PRIEURÉ
+
+- Collectivité : COMMUNE DE BETTON
+- SIRET : 21350024200259
+- Code INSEE : 35024
+- Date : 2024-12-18
+- Matière : 1.1 Commande Publique/Marches publics
+- Objet : AUTORISATION DE SIGNATURE DU MARCHÉ DE MAÎTRISE DUVRE  RELATIF À LOPÉRATION DE RÉNOVATION ET DE RESTRUCTURATION DE  LANCIEN PRIEURÉ
+- Transmis à la préfecture : 2024-12-24 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500242/Deliberation/2024/775515/4a668d675f0be55ab7a845c87a639e4b2fc512ea4bdaded8fc57bb406bf85a8c.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
