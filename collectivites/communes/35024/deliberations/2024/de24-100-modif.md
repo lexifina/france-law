@@ -1,0 +1,11 @@
+# COMMUNE DE BETTON : délibération DE24_100_MODIF — DEMANDE DE SUBVENTION AUPRÈS DE LANS POUR LA CRÉATION DE DEUX TERRAINS DE BASKET 3X3 : VALIDATION  DU PLAN DE FINANCEMENT
+
+- Collectivité : COMMUNE DE BETTON
+- SIRET : 21350024200259
+- Code INSEE : 35024
+- Date : 2024-12-18
+- Matière : 7.5 Finances locales/Subventions
+- Objet : DEMANDE DE SUBVENTION AUPRÈS DE LANS POUR LA CRÉATION DE DEUX TERRAINS DE BASKET 3X3 : VALIDATION  DU PLAN DE FINANCEMENT
+- Transmis à la préfecture : 2024-12-24 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500242/Deliberation/2024/775547/93cd63904fd32bcc15fb916a29b4110b2b26e2136f7824b7e3006384537f1112.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
