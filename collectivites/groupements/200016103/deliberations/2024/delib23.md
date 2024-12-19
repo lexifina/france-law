@@ -1,0 +1,10 @@
+# SYNDICAT MIXTE DE PORTAGE DU SAGE RANCE FREMUR BAIE DE BEAUSSAIS : délibération DELIB23 — SUBVENTIONS 2025 DU PLAN DE GESTION SEDIMENTAIRE DE L ESTUAIRE DE LA RANCE
+
+- Collectivité : SYNDICAT MIXTE DE PORTAGE DU SAGE RANCE FREMUR BAIE DE BEAUSSAIS
+- SIRET : 20001610300059
+- Date : 2024-12-19
+- Matière : 7.5 Finances locales/Subventions
+- Objet : SUBVENTIONS 2025 DU PLAN DE GESTION SEDIMENTAIRE DE L ESTUAIRE DE LA RANCE
+- Transmis à la préfecture : 2024-12-19 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/200016103/Deliberation/2024/767503/f79c877fdcbd9867baccb69d46d266b34f414afdf77d85691bfae7da91104bb7.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
