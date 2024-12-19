@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001806
+
+- Question : [SEQ241001806](seq241001806.md) — Éligibilité des conducteurs de travailleurs à l'indemnité carburant travailleur
+
+## Réponse
+
+*Transports, JO du 2024-12-19, page 4924*
+
+Afin de limiter les effets de la hausse des coûts du carburant et de préserver le pouvoir d'achat des Français, le Gouvernement a mis en place une indemnité carburant en 2023, qui faisait suite à l'aide exceptionnelle à l'acquisition de carburants mise en oeuvre en 2022. Cette indemnité - quérable - a pris la forme d'un versement de 100 euros au bénéfice des personnes qui utilisent pour leurs déplacements professionnels un véhicule valablement assuré et ont déclaré des revenus professionnels l'année précédente, qui se situaient dans les cinq premiers déciles de revenus. Afin de limiter le risque de fraude, l'aide, versée à la demande des bénéficiaires sur production du numéro fiscal et d'un justificatif de possession d'un véhicule (numéro de carte grise) ne pouvait pas bénéficier à des tiers, à l'occasion d'un prêt de véhicule, ou à raison d'un covoiturage régulier entre le domicile et le lieu de travail. Le 24 septembre 2023, le président de la République a annoncé qu'une indemnité carburant travailleur similaire à celle de 2023 pourrait être versée en 2024 si le prix du carburant devait dépasser un « seuil d'alerte ». Si le prix des carburants est, aujourd'hui, bien inférieur aux niveaux observés pendant la crise sur les énergies, et ne justifie pas de mettre en place une aide de même nature qu'en 2023, le Gouvernement n'en reste pas moins attentif aux évolution des prix des carburants. Dans l'hypothèse où une indemnité carburant était réactivée dans un futur proche, son fonctionnement serait similaire à celle de 2023 et ne devrait pas permettre de transfert d'aide à un tiers.
