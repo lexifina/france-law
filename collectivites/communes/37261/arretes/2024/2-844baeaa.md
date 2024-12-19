@@ -1,0 +1,10 @@
+# Tours Mairie - Production : arrêté 2
+
+- Collectivité : Tours Mairie - Production
+- SIREN : 213702616
+- Code INSEE : 37261
+- Date : 2024-12-19
+- Matière : 5.8 Decision d ester en justice
+- Objet : (non reproduit : désigne une personne ou une mesure individuelle / names a person or is an individual measure)
+- Acte publié : https://data.tours-metropole.fr/api/explore/v2.1/catalog/datasets/arretes-et-decisions-tours/files/3962db1fbedf0b8eacbf707bd73e2d3e
+- Jeu de données : https://www.data.gouv.fr/datasets/661dc5f8d73c53b03a00c511
