@@ -100,7 +100,7 @@ amisulbrom |
 
 540/2011 |
 
-amitrole |
+aminotriazole |
 
 61-82-5 |
 
@@ -364,16 +364,6 @@ fluazifop-p-butyl |
 
 540/2011 |
 
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention "exclusion" et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention "substitution" et soumises aux taux additionnels prévus au III du même article.
-
-Nom substance |
-
-n° CAS |
-
-ä |
-
-Règlement |
-
 fluazinam |
 
 79622-59-6 |
@@ -614,6 +604,22 @@ metconazole |
 
 540/2011 |
 
+metirame |
+
+9006-42-2 |
+
+exclusion |
+
+540/2011 |
+
+metirame-zinc |
+
+9006-42-2 |
+
+exclusion |
+
+540/2011 |
+
 metobromuron |
 
 3060-89-7 |
@@ -766,16 +772,6 @@ quizalofop-p-tefuryl |
 
 540/2011 |
 
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention "exclusion" et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention "substitution" et soumises aux taux additionnels prévus au III du même article.
-
-Nom substance |
-
-n° CAS |
-
-ä |
-
-Règlement |
-
 sedaxane |
 
 874967-67-6 |
@@ -888,9 +884,7 @@ valifenalate |
 
 540/2011 |
 
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention "exclusion" et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention "substitution" et soumises aux taux additionnels prévus au III du même article.
-
-2. Appartenant, en raison de leur toxicité aiguë de catégorie 1, 2 ou 3 ou en raison de leur toxicité spécifique pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée, soit en raison de leurs effets sur ou via l'allaitement, à une classe de danger prévue par le règlement (CE) n° 1272/2008
+2. Appartenant, en raison de leur toxicité aiguë de catégorie 1,2 ou 3 ou en raison de leur toxicité spécifique pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée, soit en raison de leurs effets sur ou via l'allaitement, à une classe de danger prévue par le règlement (CE) n° 1272/2008
 
 Nom substance |
 
@@ -958,7 +952,7 @@ substitution |
 
 cuivre de l'oxychlorure de cuivre |
 
-1332-65-6 |
+1332-40-7 |
 
 substitution |
 
@@ -966,7 +960,15 @@ substitution |
 
 cuivre de l'oxychlorure de cuivre |
 
-1332-40-7 |
+1332-65-6 |
+
+substitution |
+
+540/2011 |
+
+cuivre de l'oxychlorure de cuivre (trihydroxychlorure de dicuivre) |
+
+1332-65-6 |
 
 substitution |
 
@@ -1220,15 +1222,13 @@ zirame |
 
 540/2011 |
 
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention "exclusion" et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention "substitution" et soumises aux taux additionnels prévus au III du même article.
-
 3. Appartenant, en raison de leur toxicité aiguë pour le milieu aquatique de catégorie 1 ou de leur toxicité chronique pour le milieu aquatique de catégorie 1 ou 2, à une classe de danger prévue par le règlement (CE) n° 1272/2008
 
 Nom substance |
 
 n° CAS |
 
-|
+ä |
 
 Règlement |
 
@@ -1504,7 +1504,7 @@ substitution |
 
 540/2011 |
 
-cuivre du sulfate tetracuivrique et tricalcique |
+cuivre du sulfate de cuivre |
 
 8011-63-0 |
 
@@ -1632,16 +1632,6 @@ dithianon |
 
 540/2011 |
 
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention "exclusion" et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention "substitution" et soumises aux taux additionnels prévus au III du même article.
-
-Nom substance |
-
-n° CAS |
-
-|
-
-Règlement |
-
 dodine |
 
 2439-10-3 |
@@ -1679,6 +1669,14 @@ etoxazole |
 153233-91-1 |
 
 substitution |
+
+540/2011 |
+
+pyrèthres naturels |
+
+8003-34-7 |
+
+|
 
 540/2011 |
 
@@ -1890,17 +1888,17 @@ malathion |
 
 540/2011 |
 
-mandipropamide |
+mandestrobine |
 
-374726-62-2 |
+173662-97-0 |
 
 |
 
 540/2011 |
 
-mandestrobine |
+mandipropamide |
 
-173662-97-0 |
+374726-62-2 |
 
 |
 
@@ -1978,22 +1976,6 @@ substitution |
 
 540/2011 |
 
-metirame |
-
-9006-42-2 |
-
-exclusion |
-
-540/2011 |
-
-metirame-zinc |
-
-9006-42-2 |
-
-exclusion |
-
-540/2011 |
-
 metrafenone |
 
 220899-03-6 |
@@ -2041,16 +2023,6 @@ nicosulfuron |
 |
 
 540/2011 |
-
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention "exclusion" et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention "substitution" et soumises aux taux additionnels prévus au III du même article.
-
-Nom substance |
-
-n° CAS |
-
-|
-
-Règlement |
 
 oxadiazon |
 
@@ -2191,14 +2163,6 @@ prothioconazole |
 pyraflufen-ethyl |
 
 129630-19-9 |
-
-|
-
-540/2011 |
-
-pyrèthres naturels |
-
-8003-34-7 |
 
 |
 
@@ -2444,7 +2408,13 @@ zoxamide |
 
 540/2011 |
 
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention "exclusion" et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention "substitution" et soumises aux taux additionnels prévus au III du même article.
+zirame |
+
+137-30-4 |
+
+|
+
+540/2011 |
 
 4. Appartenant, en raison de leur toxicité chronique pour le milieu aquatique de catégorie 3 ou 4, à une classe de danger prévue par le règlement (CE) n° 1272/2008
 
@@ -2452,7 +2422,7 @@ Nom substance |
 
 n° CAS |
 
-|
+ä |
 
 Règlement |
 
@@ -2560,8 +2530,6 @@ triclopyr |
 
 540/2011 |
 
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention "exclusion" et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention "substitution" et soumises aux taux additionnels prévus au III du même article.
-
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 19 décembre 2023 (NOR : TREL2333903A), ces dispositions sont applicables à compter du 1er janvier 2024.
+Conformément à l’article 2 de l’arrêté du 2 décembre 2024 (NOR : TECL2423543A), ces dispositions sont applicables à compter du 1er janvier 2025.
