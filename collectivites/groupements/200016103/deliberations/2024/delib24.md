@@ -1,0 +1,10 @@
+# SYNDICAT MIXTE DE PORTAGE DU SAGE RANCE FREMUR BAIE DE BEAUSSAIS : délibération DELIB24 — PROJET FONCTIONNEMENT ALTERNATIF DU BARRAGE FINANCE PAR APPEL A PROJET 2024 FIM
+
+- Collectivité : SYNDICAT MIXTE DE PORTAGE DU SAGE RANCE FREMUR BAIE DE BEAUSSAIS
+- SIRET : 20001610300059
+- Date : 2024-12-19
+- Matière : 7.6 Finances locales/Contributions budgetaires
+- Objet : PROJET FONCTIONNEMENT ALTERNATIF DU BARRAGE FINANCE PAR APPEL A PROJET 2024 FIM
+- Transmis à la préfecture : 2024-12-19 00:00:00
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/200016103/Deliberation/2024/767513/fbff8169515cf625948e0b99b9f4f90a0dbc25e78bd4f5126a2203f0c7e7a3fc.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
