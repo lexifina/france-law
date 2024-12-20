@@ -490,7 +490,7 @@ F. - Emplois relevant du groupe 4 :
 
 72° Officier général “ transformation et synthèse ” de l'état-major de la marine ;
 
-73° Commandant de la force aéromaritime de réaction rapide et adjoint au commandant de la force d'action navale pour la préparation opérationnelle des états-majors ;
+73° (Supprimé) ;
 
 74° Adjoint opérations au commandant de la zone maritime Atlantique ;
 
@@ -854,4 +854,4 @@ G. - Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 9 octobre 2024 (NOR : ARMH2426987A), ces dispositions sont applicables aux rémunérations versées à compter du mois d'octobre 2024.
+Conformément à l’article 2 de l’arrêté du 16 décembre 2024 (NOR : ARMH2434215A), ces dispositions sont applicables aux rémunérations versées à compter du mois de janvier 2025.
