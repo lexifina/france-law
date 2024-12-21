@@ -6,27 +6,19 @@ Etat-major, direction ou service employeur |
 
 Emplois
 
-de
-
-1er niveau |
+de 1er niveau |
 
 Emplois
 
-de
-
-2e niveau |
+de 2e niveau |
 
 Emplois
 
-de
-
-3e niveau |
+de 3e niveau |
 
 Emplois
 
-de
-
-4e niveau |
+de 4e niveau |
 
 Cabinet du ministre de la défense |
 
@@ -36,7 +28,7 @@ Cabinet du ministre de la défense |
 
 17 |
 
-17 |
+18 |
 
 Etat-major des armées |
 
@@ -46,7 +38,7 @@ Etat-major des armées |
 
 4 920 |
 
-14 126 |
+14 125 |
 
 Secrétariat général de la défense et de la sécurité nationale |
 
@@ -98,7 +90,9 @@ Direction générale des relations internationales et de la stratégie |
 
 12 |
 
-Direction générale du numérique et des systèmes d'information et de communication |
+Direction générale du numérique et des systèmes d'information
+
+et de communication |
 
 1 |
 
@@ -188,7 +182,7 @@ Direction de la protection des installations, moyens et activités de la défens
 
 3 |
 
-TOTAL : |
+TOTAL |
 
 952 |
 
@@ -198,9 +192,7 @@ TOTAL : |
 
 14 894 |
 
-Emplois relevant de l'
-
-article L. 2513-4
+Emplois relevant de l'article L. 2513-4
 
 du code général des collectivités territoriales |
 
@@ -233,7 +225,3 @@ Bataillon de marins-pompiers de Marseille |
 TOTAL |
 
 270 |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 29 juillet 2024 (NOR : ARMH2421340A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de juillet 2024.
