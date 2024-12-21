@@ -2,7 +2,7 @@
 
 Le présent accord est conclu en application de l'article L. 3322-9 du code du travail, lequel permet à toute entreprise de faire application d'un accord de participation conclu au niveau de la branche professionnelle dès lors que celui-ci a fait l'objet d'une décision d'agrément par l'autorité administrative.
 
-Les entreprises de plus de 50 salariés qui souhaitent appliquer le présent accord de branche devront à cet égard conclure un accord collectif dans les conditions prévues à l'article L. 3322-6 du code du travail relatif à la mise en place de la participation.
+Les entreprises de plus de 50 salariés qui souhaitent appliquer le présent accord de branche devront à cet égard conclure un accord collectif de droit commun dans les conditions prévues à l'article L. 3322-6 du code du travail relatif à la mise en place de la participation, et pourront à cet égard s'inspirer des clauses du présent accord.
 
 Les entreprises de moins de 50 salariés pourront, en application de l'article L. 2232-10-1 du code du travail, mettre en place un régime de participation au moyen d'une décision unilatérale de l'employeur. En effet, cet accord comporte, sous forme d'accord type, les stipulations spécifiques pour les entreprises de moins de 50 salariés en matière de durée du travail indiquant les différents choix laissés à l'employeur.
 
