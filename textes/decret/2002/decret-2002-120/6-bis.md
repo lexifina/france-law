@@ -1,6 +1,6 @@
 # Article 6 bis
 
-Le présent décret s'applique à Mayotte, avec, jusqu'au 31 décembre 2024, les adaptations suivantes :
+Le présent décret s'applique à Mayotte, avec, jusqu'au 31 décembre 2029, les adaptations suivantes :
 
 1° Le 5 de l'article 2 est remplacé par un alinéa ainsi rédigé :
 
