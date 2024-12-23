@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 7 — E400 - Accompagner les talents et les ambitions collectives
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2024-12-23
+- Matière : 9.3
+- Objet : E400 - Accompagner les talents et les ambitions collectives
+- Transmis à la préfecture : 2024-12-23
+- Votants : 86
+- Pour : 62
+- Contre : 24
+- Abstentions : 0
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-80899.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
