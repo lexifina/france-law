@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 19 — J500 - Accompagner la jeunesse
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2024-12-23
+- Matière : 9.3.2
+- Objet : J500 - Accompagner la jeunesse
+- Transmis à la préfecture : 2024-12-23
+- Votants : 92
+- Pour : 65
+- Contre : 24
+- Abstentions : 3
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-80990.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
