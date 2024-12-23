@@ -250,7 +250,7 @@ Paris-Moroni ;
 
 Congo :
 
-Paris-Brazzaville ;
+Paris-Brazzaville, dans la limite de dix (10) fréquences hebdomadaires ;
 
 Paris-Pointe-Noire ;
 
