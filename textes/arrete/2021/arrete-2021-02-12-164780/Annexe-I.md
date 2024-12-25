@@ -100,7 +100,7 @@ Admission et maintien dans la réserve opérationnelle
 
 / |
 
-Le personnel de la réserve opérationnelle doit posséder les aptitudes requises pour l'emploi qu'il occupe, conformément au 5° de l'article L. 4211-2 du code de la défense. |
+Le personnel de la réserve opérationnelle doit posséder les aptitudes requises pour l'emploi qu'il occupe, conformément au 5° de l'article L. 4211-2 du code de la défense. La fiche de poste précise le cas échéant les contraintes liées à l'emploi telles que celles listées en annexe IX. |
 
 Admission et maintien dans la réserve spécialiste
 
@@ -120,7 +120,25 @@ Admission et maintien dans la réserve spécialiste
 
 0/1 |
 
-Les réservistes spécialistes sont recrutés sur le fondement de l'article L. 4221-3 du code de la défense. Ils doivent posséder les aptitudes requises pour l'emploi qu'ils occupent, conformément au 5° de l'article L. 4211-2 du code de la défense. |
+Les réservistes spécialistes sont recrutés sur le fondement de l'article L. 4221-3 du code de la défense. Ils doivent posséder les aptitudes requises pour l'emploi qu'ils occupent, conformément au 5° de l'article L. 4211-2 du code de la défense. La fiche de poste précise le cas échéant les contraintes liées à l'emploi telles que celles listées en annexe IX. |
+
+Admission et maintien comme militaire commissionné |
+
+3 |
+
+3 |
+
+4 |
+
+5 |
+
+4 |
+
+3 |
+
+0/1 |
+
+Les militaires commissionnés sont recrutés au titre de l'article L. 4132-10 du code de la défense en vue d'exercer des fonctions déterminées à caractère scientifique, technique ou pédagogique correspondant aux diplômes qu'ils détiennent ou à leur expérience professionnelle. |
 
 APTITUDES À LA PROJECTION |
 
