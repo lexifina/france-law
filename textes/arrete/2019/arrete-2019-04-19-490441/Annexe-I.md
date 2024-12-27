@@ -10,7 +10,9 @@ SECTEURS |
 
 RATTACHEMENT
 
-DES ENSEIGNEMENTS |
+DES ENSEIGNEMENTS
+
+|
 
 INTITULÉ DE LA SPÉCIALITÉ |
 
@@ -20,13 +22,17 @@ PRODUCTION
 
 OU
 
-SERVICES |
+SERVICES
+
+|
 
 Economie-gestion ou économie-droit
 
 ET
 
-Physique-chimie ou langue vivante B |
+Physique-chimie ou langue vivante B
+
+|
 
 ACCOMPAGNEMENT, SOINS ET SERVICES À LA PERSONNE-option A : à domicile (dernière session 2024) |
 
@@ -284,9 +290,21 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-FONDERIE |
+FONDERIE (dernière session 2027) |
 
 Arrêté du 30 avril 2009 modifié |
+
+PRODUCTION |
+
+Economie-gestion/ Physique-chimie |
+
+FONDERIE
+
+(première session 2028)
+
+|
+
+Arrêté du 10/12/24 |
 
 PRODUCTION |
 
