@@ -272,7 +272,7 @@ Dans les locaux pyrotechniques, toutes les masses et tous les éléments conduct
 
 2. 3. 7. 3. Protection contre la foudre
 
-Les bâtiments de stockage sont équipés de moyens de protection efficaces contre la foudre selon la norme NF EN 62305 (version de 2006 pour les parties 1, 2 et 4 et version de 2009 pour la partie 3).
+Les bâtiments de stockage sont équipés de moyens de protection efficaces contre la foudre conçus de sorte à garantir la sécurité de l'installation. Le respect de la norme NF EN 62305-1 à 4, dans leur version vigueur au moment de leur réalisation, est présumé satisfaire à cette exigence.
 
 Cette disposition n'est pas applicable aux installations de stockage d'explosifs situés dans les réserves attenantes aux établissements recevant du public mentionnées au point 5. 2 de la présente annexe sous réserve que celles-ci soient protégées contre la foudre de façon adéquate par rapport aux produits stockés en application de la réglementation relative aux établissements recevant du public.
 

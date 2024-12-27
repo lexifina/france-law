@@ -454,7 +454,7 @@ Objet du contrôle du point 2.3.3 :
 
 Lorsque leurs dimensions le permettent, les cellules abritant le stockage d'au moins un liquide inflammable sont divisées en cantons de désenfumage d'une superficie maximale de 1 600 mètres carrés et d'une longueur maximale de 60 mètres.
 
-Les écrans de cantonnement sont constitués soit par des éléments de la structure (couverture, poutre et murs), soit par des écrans fixes, rigides ou flexibles, soit par des écrans mobiles asservis à la détection incendie. Ces écrans sont DH 30, en référence aux normes en vigueur.
+Les écrans de cantonnement sont constitués soit par des éléments de la structure (couverture, poutre et murs), soit par des écrans fixes, rigides ou flexibles, soit par des écrans mobiles asservis à la détection incendie. Ils disposent d'un niveau de performance de sorte à assurer la sécurité de l'installation. Le respect de la classification DH 30, défini par la norme NF EN 12101-1+A1 : 2006, est présumé satisfaire à cette exigence.
 
 Chaque écran de cantonnement a une hauteur minimale de 1 mètre, sans préjudice des dispositions applicables par ailleurs au titre des articles R. 4216-13 et suivants du code du travail. La distance entre le point bas de l'écran et le point le plus près du stockage est supérieure ou égale à 1 mètre. La différence de hauteur entre le point le plus haut du stockage et le point le plus bas de l'écran de cantonnement est supérieure ou égale à 0,5 mètre.
 
@@ -474,19 +474,19 @@ L'action d'une commande de mise en sécurité ne peut pas être inversée par un
 
 En exploitation normale, le réarmement (fermeture) est possible depuis le sol du bâtiment, depuis la zone de désenfumage ou depuis la cellule à désenfumer dans le cas d'un bâtiment divisé en plusieurs cantons ou cellules.
 
-Les commandes manuelles des DENFC sont facilement accessibles depuis les issues du bâtiment ou des cellules contenant au moins un liquide inflammable. Ces commandes d'ouverture manuelle sont installées conformément aux normes en vigueur.
+Les commandes manuelles des DENFC sont facilement accessibles depuis les issues du bâtiment ou des cellules contenant au moins un liquide inflammable. Ces commandes d'ouverture manuelle sont installées de sorte à garantir la sécurité de l'installation. Le respect de la norme NF S 61-932 et, le cas échéant, de ses amendements A1-A2-A3-A4, dans leur version en vigueur lors de leur installation, est présumé satisfaire à cette exigence.
 
-Les DENFC, en référence aux normes en vigueur, présentent les caractéristiques suivantes :
+Les DENFC sont conçus de sorte à garantir la sécurité de l'installation. Ils sont présumés satisfaire à cette exigence lorsqu'ils répondent aux caractéristiques suivantes définies par la norme NF EN 12101-2, dans sa version en vigueur lors de leur installation :
 
--système d'ouverture de type B (ouverture + fermeture) ;
+- système d'ouverture de type B (ouverture + fermeture) ;
 
--fiabilité : classe RE 300 (300 cycles de mise en sécurité) ;
+- fiabilité : classe RE 300 (300 cycles de mise en sécurité) ;
 
--classification de la surcharge neige à l'ouverture : SL 250 (25 daN/ m2) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN/ m2) pour des altitudes comprises entre 400 et 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
+- classification de la surcharge neige à l'ouverture : SL 250 (25 daN/m²) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN/m²) pour des altitudes comprises entre 400 et 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
 
--classe de température ambiante T (00) ;
+- classe de température ambiante T(00) ;
 
--classe d'exposition à la chaleur B 300.
+- classe d'exposition à la chaleur B 300.
 
 Le déclenchement du désenfumage n'est pas asservi à la même détection que celle à laquelle est asservi le système d'extinction automatique d'incendie visé au point 4.3.3 de la présente annexe.
 
@@ -1274,17 +1274,17 @@ Lorsque le stockage comprend des réservoirs aériens, des dispositifs permettan
 
 Toutes mesures sont prises pour recueillir l'ensemble des eaux et écoulements susceptibles d'être pollués lors d'un sinistre, y compris les eaux utilisées lors d'un incendie, afin que celles-ci soient récupérées ou traitées afin de prévenir toute pollution des sols, des égouts, des cours d'eau ou du milieu naturel. Les rejets respectent alors les valeurs-limites suivantes :
 
-- pH (selon la norme mentionnée dans un avis publié au Journal officiel) : 5,5-8,5 ;
+- pH : entre 5,5 et 8,5 ;
 
-- matières en suspension (selon la norme mentionnée dans un avis publié au Journal officiel) : 100 mg/l ;
+- matières en suspension (Code SANDRE : 1305) : 100 mg/L ;
 
-- DCO (selon la norme mentionnée dans un avis publié au Journal officiel) : 300 mg/l ;
+- DCO (sur effluent non décanté) (Code SANDRE : 1314) : 300 mg/L ;
 
-- DBO5 (selon la norme mentionnée dans un avis publié au Journal officiel) : 100 mg/l ;
+- DBO5 (sur effluent non décanté) (Code SANDRE : 1313) : 100 mg/L ;
 
-- hydrocarbures totaux (selon la norme mentionnée dans un avis publié au Journal officiel) : 10 mg/l si le flux est supérieur à 100 g/j ;
+- hydrocarbures totaux (code SANDRE : 7009) : 10 mg/L si le flux est supérieur à 100 g/j ;
 
-- pour les installations de la chimie, indice phénols (selon la norme mentionnée dans un avis publié au Journal officiel) : 0,3 mg/l si le flux est supérieur à 3 g/j.
+- pour les installations de la chimie, indice phénols (code SANDRE : 1440) : 0,3 mg/L si le flux est supérieur à 3 g/j.
 
 6.5. Interdiction des rejets en nappe
 

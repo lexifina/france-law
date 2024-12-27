@@ -68,6 +68,6 @@ Articles 41 à 43 (déchets) |
 
 |
 
-En cas de remplacement d'une bande de transporteurs, la nouvelle bande respecte les normes en vigueur, conformément au D du II de l'article 10.
+En cas de remplacement d'une bande de transporteurs, la nouvelle bande est conçue de sorte à garantir la sécurité de l'installation. Le respect de la norme NF EN ISO 340, ou des normes NF EN 12881-1, et NF EN 12881-2 et, le cas échéant, de son amendement A1, dans leur version en vigueur lors de son installation, est présumé satisfaire cette exigence.
 
 Les prescriptions auxquelles ces installations sont déjà soumises demeurent applicables, le cas échéant, jusqu'à l'application de dispositions plus contraignantes.

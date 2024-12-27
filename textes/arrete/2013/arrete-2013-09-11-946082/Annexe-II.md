@@ -126,4 +126,4 @@ Articles 41 à 43 (déchets)
 
 |
 
-En cas de remplacement d'une bande de transporteurs, la nouvelle bande respecte la norme NF EN ISO 340, version avril 2005, ou les normes NF EN 12881-1, version juillet 2008, et NF EN 12881-2, version juin 2008 (bandes difficilement propagatrices de la flamme), conformément au D du II de l'article 10.
+En cas de remplacement d'une bande de transporteurs, la nouvelle bande est conçue de sorte à garantir la sécurité de l'installation. Le respect de la norme NF EN ISO 340, ou des normes NF EN 12881-1, et NF EN 12881-2 et, le cas échéant, de son amendement A1, dans leur version en vigueur lors de son installation, est présumé satisfaire à cette exigence.
