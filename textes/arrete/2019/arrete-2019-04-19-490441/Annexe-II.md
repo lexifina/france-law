@@ -384,9 +384,15 @@ Arrêté du 16 février 2004 |
 
 14 |
 
-CONSTRUCTEUR D'OUVRAGES EN BETON ARME |
+CONSTRUCTEUR D'OUVRAGES EN BETON ARME (dernière session 2026) |
 
 Arrêté du 8 avril 2019 |
+
+14 |
+
+CONSTRUCTEUR D'OUVRAGES EN BETON ARME (première session 2027) |
+
+Arrêté du 13 décembre 2024 |
 
 14 |
 
