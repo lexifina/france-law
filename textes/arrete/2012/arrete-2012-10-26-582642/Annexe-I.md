@@ -150,12 +150,6 @@ LIEU JAUNE |
 
 Pollachius pollachius |
 
-30 cm |
-
-LIEU JAUNE (zone CIEM VIII) |
-
-Pollachius pollachius |
-
 42 cm |
 
 LINGUE |
@@ -368,11 +362,7 @@ HOMARD |
 
 Homarus gammarus |
 
-Région Hauts de France :
-
-9 cm (LC) (*)
-
-Autres régions : 8.7 cm (LC) (*) |
+9 cm (LC) (*) |
 
 LANGOUSTE |
 
@@ -919,7 +909,3 @@ Palinurus spp. |
 IV.-Saint-Pierre-et-Miquelon
 
 Les tailles minimales de capture et de débarquement applicables dans les eaux territoriales ainsi que dans la zone économique française au large des côtes de Saint-Pierre-et-Miquelon figurent dans le décret n° 87-182 du 19 mars 1987 et l'arrêté du 20 mars 1987 fixant certaines mesures de gestion et de conservation des ressources halieutiques dans les eaux territoriales et la zone économique française au large des côtes de Saint-Pierre-et-Miquelon pris en application du décret n° 87-182 du 19 mars 1987.
-
-NOTA :
-
-Par décision n°497657 du 29 septembre 2026 du Conseil d’Etat statuant au contentieux, ECLI:FR:CECHR:2026:497657.20260929, l’arrêté du 4 juillet 2024 modifiant l'arrêté du 26 octobre 2012 modifié déterminant la taille minimale ou le poids minimal de capture des poissons et autres organismes marins (pour une espèce donnée ou pour une zone géographique donnée) effectuée dans le cadre de la pêche maritime de loisir est annulé en tant qu’il fixe à 42 cm la taille minimale de capture du lieu jaune dans la division CIEM 8c.
