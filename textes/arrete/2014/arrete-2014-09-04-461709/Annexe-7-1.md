@@ -88,7 +88,7 @@ En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste su
 
 -l'exactitude des informations que j'ai communiquées ci-dessus sur les caractéristiques de mon bien (type de bâtiment, surfaces, énergie de chauffage, etc.) et que la ou les opérations d'économies d'énergie décrites ci-dessus ont été intégralement réalisées. Je suis informé que je suis susceptible d'être contacté par les services du ministère chargé de l'énergie (ou tout organisme désigné par le ministère chargé de l'énergie) ou par [raison sociale du demandeur] ou son partenaire (ou tout organisme désigné par ceux-ci), dans le cadre d'un contrôle concernant la nature de l'opération et la réalisation effective de celle-ci. La réalisation effective d'un contrôle à la demande du demandeur ou de son partenaire (ou tout organisme désigné par ceux-ci) peut être une des conditions imposées par ces derniers pour le versement de leur contribution au financement de l'opération. Je m'engage à répondre aux demandes qui me seront faites dans le cadre des contrôles et, le cas échéant, à permettre l'accès au lieu de l'opération pour la réalisation de ces contrôles ;
 
--que les économies d'énergie réalisées par cette opération ne viennent pas réduire les émissions de gaz à effet de serre d'une installation classée visée à l'article L. 229-5 du code de l'environnement dont je suis l'exploitant ;
+-que les économies d'énergie réalisées par cette opération ne viennent pas réduire les émissions de gaz à effet de serre d'une installation classée visée à l'article L. 229-5 du code de l'environnementdont je suis l'exploitant ;
 
 -qu'aucune aide à l'investissement de l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) n'a été reçue ou ne sera sollicitée pour cette opération ou qu'une aide à l'investissement de l'ADEME a été reçue ou sollicitée et que le calcul et la décision d'attribution de cette aide prennent en compte la délivrance de certificats d'économies d'énergie.
 
@@ -226,39 +226,39 @@ pour les autres régions (€) |
 
 1 |
 
-23 541 |
+23 768 |
 
-17 009 |
+17 173 |
 
 2 |
 
-34 551 |
+34 884 |
 
-24 875 |
+25 115 |
 
 3 |
 
-41 493 |
+41 893 |
 
-29 917 |
+30 206 |
 
 4 |
 
-48 447 |
+48 914 |
 
-34 948 |
+35 285 |
 
 5 |
 
-55 427 |
+55 961 |
 
-40 002 |
+40 388 |
 
 Par personne supplémentaire |
 
-6 970 |
+7 038 |
 
-5 045 |
+5 094 |
 
 Tableau B
 
@@ -276,39 +276,39 @@ pour les autres régions (€) |
 
 1 |
 
-28 657 |
+28 933 |
 
-21 805 |
+22 015 |
 
 2 |
 
-42 058 |
+42 463 |
 
-31 889 |
+32 197 |
 
 3 |
 
-50 513 |
+51 000 |
 
-38 349 |
+38 719 |
 
 4 |
 
-58 981 |
+59 549 |
 
-44 802 |
+45 234 |
 
 5 |
 
-67 473 |
+68 123 |
 
-51 281 |
+51 775 |
 
 Par personne supplémentaire |
 
-8 486 |
+8 568 |
 
-6 462 |
+6 525 |
 
 Fait à.
 
@@ -356,7 +356,7 @@ Pour une opération engagée à compter du 1er avril 2021, indiquer les coordonn
 
 J'atteste sur l'honneur :
 
--que l'organisme cité ci-dessus que je représente est un organisme d'habitations à loyer modéré défini à l'article L. 411-2 du code de la construction et de l'habitation, ou un maître d'ouvrage d'insertion agréé au titre de l'article L. 365-2 du même code ou une société d'économie mixte, ou un autre bailleur mentionné aux quatrième et cinquième alinéas de l'article 41 ter de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière ;
+-que l'organisme cité ci-dessus que je représente est un organisme d'habitations à loyer modéré défini à l'article L. 411-2 du code de la construction et de l'habitation, ou un maître d'ouvrage d'insertion agréé au titre de l'article L. 365-2 du même code ou une société d'économie mixte, ou un autre bailleur mentionné aux quatrième et cinquième alinéas de l'article 41 ter de la loi n° 86-1290 du 23 décembre 1986tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière ;
 
 -le nombre total de ménages concernés par l'opération :
 
@@ -460,7 +460,7 @@ Pour une opération engagée à compter du 1er avril 2021, indiquer les coordonn
 
 (indiquer : néant si le bénéficiaire ne dispose pas d'une adresse de courriel)
 
-J'atteste sur l'honneur que l'opération bénéficie à une copropriété située dans un quartier prioritaire de la politique de la ville défini à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine ou, dans le cas d'une infrastructure de transport, est réalisée dans un tel quartier et bénéficie majoritairement à des ménages y résidant :
+J'atteste sur l'honneur que l'opération bénéficie à une copropriété située dans un quartier prioritaire de la politique de la ville défini à l'article 5 de la loi n° 2014-173 du 21 février 2014de programmation pour la ville et la cohésion urbaine ou, dans le cas d'une infrastructure de transport, est réalisée dans un tel quartier et bénéficie majoritairement à des ménages y résidant :
 
 (*) Adresse (n°, rue, code postal, ville) de la copropriété ou de l'infrastructure de transport :
 
@@ -544,39 +544,39 @@ pour les autres régions (€) |
 
 1 |
 
-23 541 |
+23 768 |
 
-17 009 |
+17 173 |
 
 2 |
 
-34 551 |
+34 884 |
 
-24 875 |
+25 115 |
 
 3 |
 
-41 493 |
+41 893 |
 
-29 917 |
+30 206 |
 
 4 |
 
-48 447 |
+48 914 |
 
-34 948 |
+35 285 |
 
 5 |
 
-55 427 |
+55 961 |
 
-40 002 |
+40 388 |
 
 Par personne supplémentaire |
 
-6 970 |
+7 038 |
 
-5 045 |
+5 094 |
 
 Tableau B
 
@@ -594,39 +594,39 @@ pour les autres régions (€) |
 
 1 |
 
-28 657 |
+28 933 |
 
-21 805 |
+22 015 |
 
 2 |
 
-42 058 |
+42 463 |
 
-31 889 |
+32 197 |
 
 3 |
 
-50 513 |
+51 000 |
 
-38 349 |
+38 719 |
 
 4 |
 
-58 981 |
+59 549 |
 
-44 802 |
+45 234 |
 
 5 |
 
-67 473 |
+68 123 |
 
-51 281 |
+51 775 |
 
 Par personne supplémentaire |
 
-8 486 |
+8 568 |
 
-6 462 |
+6 525 |
 
 Liste des ménages bénéficiant de l'opération et dont les revenus sont inférieurs aux plafonds du tableau B ci-dessus (une ligne par ménage) :
 
@@ -722,4 +722,4 @@ Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'é
 
 NOTA :
 
-Conformément à l’article 6 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), ces dispositions s'appliquent aux opérations engagées à compter du 1er janvier 2025.
+Conformément à l'article 3 de l'arrêté du 20 décembre 2024 (NOR : TECR2432997A), ces dispositions s'appliquent aux opérations engagées à compter du 1er janvier 2025. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant le 1er janvier 2025 peuvent être utilisées pour les opérations engagées avant le 1er juillet 2025.
