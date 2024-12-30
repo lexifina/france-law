@@ -1,10 +1,10 @@
 # Article Annexe II
 
-EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER JANVIER 2024
-
-PREFECTURE DE PARIS |
+EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER JANVIER 2025
 
 |
+
+PREFECTURE DE PARIS |
 
 |
 
@@ -45,6 +45,10 @@ A |
 |
 
 AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
+
+|
+
+|
 
 |
 
@@ -104,7 +108,7 @@ Gestionnaire budgétaire des dépenses de fonctionnement du BOP 354 |
 
 B |
 
-Gestionnaire budgétaire |
+Chef de la section 2-coordination DRIEETS et DRAC |
 
 B |
 
@@ -200,7 +204,7 @@ FONCTION D'ENCADREMENT, CONTRAINTES ET RESPONSABILITES PARTICULIERES |
 
 |
 
-Adjoint au chef du service de la prévention et des urgences sociales |
+Adjoint au chef du bureau des affaires réservées |
 
 A |
 
@@ -228,7 +232,7 @@ Chef du bureau des parcours professionnels et de l'accompagnement interministér
 
 A |
 
-Chef du service régional de communication interministérielle |
+Adjoint au chef du service régional de communication interministérielle |
 
 A |
 
@@ -262,11 +266,7 @@ A |
 
 |
 
-|
-
 PREFECTURE DE POLICE DE PARIS |
-
-|
 
 |
 
@@ -521,3 +521,7 @@ A |
 Chef du pôle interdépartemental Dublin (DZAE) |
 
 A |
+
+NOTA :
+
+Conformément à l'article 1 de l'arrêté du 13 décembre 2024 (NOR : INTA2433646A), ces dispositions entrent en vigueur le 1er janvier 2025.

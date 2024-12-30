@@ -1,10 +1,8 @@
 # Article Annexe I
 
-EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER JANVIER 2024
+EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER JANVIER 2025
 
 CABINET DU MINISTRE |
-
-|
 
 |
 
@@ -170,11 +168,7 @@ C |
 
 |
 
-|
-
 INSPECTION GENERALE DE L'ADMINISTRATION |
-
-|
 
 |
 
@@ -210,11 +204,11 @@ B |
 
 |
 
-FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES |
-
-|
+FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES
 
 ET DE RESPONSABILITES PARTICULIERES |
+
+|
 
 |
 
@@ -226,15 +220,7 @@ A |
 
 |
 
-|
-
-|
-
-|
-
 CABINET DU SECRETARIAT GENERAL |
-
-|
 
 |
 
@@ -282,7 +268,7 @@ B |
 
 |
 
-FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
+FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES ET DE RESPONSABILITES PARTICULIERES |
 
 |
 
@@ -290,21 +276,17 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
-AU TITRE DES COMPETENCES TECHNIQUES |
-
 |
 
 |
 
 |
 
-Adjoint au chef de cabinet en charge de la politique de sécurité des systèmes informatiques |
+|
+
+Adjoint au chef de cabinet du secrétariat général |
 
 A |
-
-|
-
-|
 
 |
 
@@ -312,11 +294,7 @@ SECRETARIAT GENERAL |
 
 |
 
-|
-
 SERVICE DU HAUT FONCTIONNAIRE DE DEFENSE |
-
-|
 
 |
 
@@ -378,11 +356,7 @@ B |
 
 |
 
-|
-
 SECRETARIAT GENERAL |
-
-|
 
 |
 
@@ -446,7 +420,7 @@ A |
 
 Chargé de mission RH-Budget auprès du chef de cabinet (CABINET) |
 
-B |
+A |
 
 Responsable de la gestion des crédits élections (SELFIN-BEP) |
 
@@ -496,27 +470,11 @@ Secrétaire du directeur |
 
 B |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 SECRETARIAT GENERAL |
 
 |
 
-|
-
 DIRECTION DES RESSOURCES HUMAINES |
-
-|
 
 |
 
@@ -552,7 +510,7 @@ Chef de la section production et animation pédagogique (SDRF/ BCNF) |
 
 A |
 
-Chef de la section accompagnement des parcours (BPP) |
+Chef de la section accompagnement des parcours (SDP/ BPP) |
 
 A |
 
@@ -568,13 +526,13 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES COMPTABLES ET JURIDIQUES |
 
 |
 
-Chef de la section achats, programmation, exécution budgétaire et suivi de l'activité (BPPF/ SDRF) |
+Chef de la section achats, programmation, exécution budgétaire et suivi de l'activité (SDRF/ BPPF) |
 
 A |
 
-Encadrement et instruction dossiers pensions, adjoint chef de secteur (BPAI) (SDASAP) |
+Encadrement et instruction dossiers pensions, adjoint chef de secteur (SDASAP/ BPAI) |
 
-B |
+A |
 
 Chef de la section du laboratoire digital (SDRF/ BPPF) |
 
@@ -592,147 +550,139 @@ Adjoint au chef du bureau du centre national de la formation (SDRF/ BCNF) |
 
 A |
 
-Chef de la mission CIF (MIPPAR) |
+Chef de la mission CIF (SDP/ MIPPAR) |
 
 A |
 
-Adjoint au chef de la section accompagnement des parcours (BPP) |
+Adjoint au chef de la section accompagnement des parcours (SDP/ BPP) |
 
 A |
 
-Chef de la section des contractuels et des emplois non permanents (BPP) |
+Chef de la section des contractuels et des emplois non permanents (SDP/ BPP) |
 
 A |
 
-Adjoint au chef de la section des contractuels et des emplois non permanents (BPP) |
+Adjoint au chef de la section des contractuels et des emplois non permanents (SDP/ BPP) |
 
 A |
 
-Responsable des contrats (BPP) |
+Responsable des contrats (SDP/ BPP) |
 
 B |
 
-Chef de la section sécurité routière (BGPS) |
+Chef de la section sécurité routière (SDP/ BGPS) |
 
 A |
 
-Adjoint au chef de la section sécurité routière (BGPS) |
+Adjoint au chef de la section sécurité routière (SDP/ BGPS) |
 
 A |
 
-Chef de la section de la filière numérique (BGPS) |
+Chef de la section de la filière numérique (SDP/ BGPS) |
 
 A |
 
-Adjoint au chef de la section de la filière numérique (BGPS) |
+Adjoint au chef de la section de la filière numérique (SDP/ BGPS) |
 
 A |
 
-Chef de la section de la filière technique, ouvriers d'État et filière médico-sociale (BGPS) |
+Chef de la section de la filière technique, ouvriers d'État et filière médico-sociale (SDP/ BGPS) |
 
 A |
 
-Adjoint au chef de la section de la filière technique chargé du pôle C et OE (BGPS) |
+Adjoint au chef de la section de la filière technique chargé du pôle C et OE (SDP/ BGPS) |
 
 A |
 
-Adjoint au chef de la section filière technique chargé de la filière ST et médico-sociale (BGPS) |
+Adjoint au chef de la section filière technique chargé de la filière ST et médico-sociale (SDP/ BGPS) |
 
 A |
 
-Chef de la section paie des actifs de la police nationale (BGPS) |
+Chef de la section politique indemnitaire (SDP/ BGPS) |
 
 A |
 
-Adjoint au chef de la section paie des actifs de la police nationale (BGPS) |
+Adjoint au chef de la section politique indemnitaire (SDP/ BGPS) |
 
-C |
+B |
 
-Chef de la section politique indemnitaire (BGPS) |
-
-A |
-
-Adjoint au chef de la section politique indemnitaire (BGPS) |
+Chef de la section médico-disciplinaire (SDP/ BDRH-RS) |
 
 A |
 
-Chef de la section médico-disciplinaire (BDRH-RS) |
+Adjoint au chef de la section médico-disciplinaire (SDP/ BDRH-RS) |
 
 A |
 
-Adjoint au chef de la section médico-disciplinaire (BDRH-RS) |
+Chef de la section du droit des statuts et des ressources humaines (SDP/ BDRH-RS) |
 
 A |
 
-Chef de la section du droit des statuts et des ressources humaines (BDRH-RS) |
+Adjoint au chef de la section du droit des statuts et des ressources humaines (SDP/ BDRH-RS) |
 
 A |
 
-Adjoint au chef de la section du droit des statuts et des ressources humaines (BDRH-RS) |
+Chef de la section dialogue social ministériel et des DDI (SDP/ BDRH-RS) |
 
 A |
 
-Chef de la section dialogue social ministériel et des DDI (BDRH-RS) |
+Adjoint au chef de la section dialogue social ministériel et des DDI (SDP/ BDRH-RS) |
 
 A |
 
-Adjoint au chef de la section dialogue social ministériel et des DDI (BDRH-RS) |
+Chef de la section A (SDP/ BGPA) |
 
 A |
 
-Chef de la section A (BGPA) |
+Adjoint au chef de la section A (SDP/ BGPA) |
 
 A |
 
-Adjoint au chef de la section A (BGPA) |
+Chef de la section B (SDP/ BGPA) |
 
 A |
 
-Chef de la section B (BGPA) |
+Adjoint au chef de la section B (SDP/ BGPA) |
 
 A |
 
-Adjoint au chef de la section B (BGPA) |
+Chef de la section C (SDP/ BGPA) |
 
 A |
 
-Chef de la section C (BGPA) |
+Adjoint au chef de la section C (SDP/ BGPA) |
 
 A |
 
-Adjoint au chef de la section C (BGPA) |
+Chef de la section indemnitaire, paye secondaire et juridique (SDP/ BGPA) |
 
 A |
 
-Chef de la section indemnitaire, paye secondaire et juridique (BGPA) |
+Adjoint au chef de la section indemnitaire, paye secondaire et juridique (SDP/ BGPA) |
 
 A |
 
-Adjoint au chef de la section indemnitaire, paye secondaire et juridique (BGPA) |
+Chef de section mobilité et emplois fonctionnels (SDP/ BPP) |
 
 A |
 
-Chef de section mobilité et emplois fonctionnels (BPP) |
+Adjoint au chef de section mobilité et emplois fonctionnels (SDP/ BPP) |
 
 A |
 
-Adjoint au chef de section mobilité et emplois fonctionnels (BPP) |
+Chef de la mission des études et des statistiques (MGMRH/ MES) |
 
 A |
 
-Chef de la mission des études et des statistiques (MES) |
+Adjoint au chef de la mission des affaires budgétaires et des emplois (MGMRH/ MABE) |
 
 A |
 
-Adjoint au chef de la mission des affaires budgétaires et des emplois (MABE/ MGMRH) |
+Chef de la section pilotage budgétaire et mesures catégorielles (MGMRH/ MABE) |
 
 A |
 
-Chef de la section pilotage budgétaire et mesures catégorielles (MABE/ MGMRH) |
-
-A |
-
-Adjoint au chef de la mission pour l'innovation en ressources humaines (MIRH/ MGMRH) |
+Adjoint au chef de la mission pour l'innovation en ressources humaines (MGMRH/ MIRH) |
 
 A |
 
@@ -748,11 +698,11 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
-Chef de la section de la préparation aux concours (BRPP/ SDRF) |
+Chef de la section de la préparation aux concours (SDRF/ BRPP) |
 
 A |
 
-Adjoint au chef de section du réseau des acteurs de la formation et grands dispositifs (BPPF/ SDRF) |
+Chef de section du réseau des acteurs de la formation et grands dispositifs (SDRF/ BPPF) |
 
 A |
 
@@ -768,11 +718,11 @@ FONCTIONS D'ACCUEIL |
 
 |
 
-Correspondant handicap national (BCVTPH/ SDASAP) |
+Correspondant handicap national (SDASAP/ BCVTPH) |
 
 A |
 
-Chef de la section logistique du CNF (BCNF/ SDRF) |
+Chef de la section logistique du CNF (SDRF/ BCNF) |
 
 B |
 
@@ -788,47 +738,47 @@ FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
 
 |
 
-Chef de bureau (BCVTPH/ SDASAP) |
+Chef de bureau (SDASAP/ BCVTPH) |
 
 A |
 
-Adjoint au chef de bureau (BCVTPH/ SDASAP) |
+Adjoint au chef de bureau (SDASAP/ BCVTPH) |
 
 A |
 
-Adjoint au chef de bureau (BAFED) (SDASAP) |
+Adjoint au chef de bureau (SDASAP/ (BAFED) |
 
 A |
 
-Adjoint au chef de bureau (BPAI/ SDASAP) |
+Adjoint au chef de bureau (SDASAP/ BPAI) |
 
 A |
 
-Adjoint au chef de bureau (BCVTPH/ SDASAP) |
+Adjoint au chef de bureau (SDASAP/ BPPS) |
 
 A |
 
-Chef de section (BCVTPH/ SDASAP) |
+Chef de section (SDASAP/ BCVTPH) |
 
 A |
 
-Chef de section (BPPS/ SDASAP) |
+Chef de section (SDASAP/ BPPS) |
 
 A |
 
-Chef de secteur (BAFED/ SDASAP) |
+Chef de secteur (SDASAP/ BAFED) |
 
 A |
 
-Chef de la section SIC et communication |
+Chef de la section SIC et communication (DRH/ CAB) |
 
 A |
 
-Chef de cabinet |
+Chef de cabinet (DRH/ CAB) |
 
 A |
 
-Adjoint au chef de cabinet |
+Adjoint au chef de cabinet (DRH/ CAB) |
 
 A |
 
@@ -850,23 +800,13 @@ B |
 
 |
 
-|
-
-|
-
-|
-
 SECRETARIAT GENERAL |
 
 |
 
-|
-
-DIRECTION DE L'EVALUATION DE LA PERFORMANCE, |
+DIRECTION DE L'EVALUATION DE LA PERFORMANCE,
 
 DES AFFAIRES FINANCIERES ET IMMOBILIERES |
-
-|
 
 |
 
@@ -900,7 +840,7 @@ A |
 
 Responsable de la section entretien des locaux (BGSAC) |
 
-C |
+A |
 
 |
 
@@ -996,6 +936,10 @@ A |
 
 |
 
+|
+
+|
+
 AU TITRE DES ATTRIBUTIONS FINANCIERES ET COMPTABLES |
 
 |
@@ -1036,11 +980,11 @@ Chef du pôle affaires réservées MI4 (CPFI) |
 
 A |
 
-Chef du pôle investissement au centre des prestations financières (CPFI) |
+Chef du pôle &laquo; investissement &raquo; au centre des prestations financières (CPFI) |
 
 A |
 
-Chef du pôle Recettes non fiscales au centre des prestations financières (CPFI) |
+Chef du pôle &laquo; Recettes non fiscales &raquo; au centre des prestations financières (CPFI) |
 
 A |
 
@@ -1072,7 +1016,9 @@ A |
 
 |
 
-AU TITRE DES FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE AU TITRE DES COMPETENCES TECHNIQUES |
+AU TITRE DES FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE
+
+AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
@@ -1102,7 +1048,7 @@ EMPLOIS DE SECRETARIAT |
 
 Responsable de la coordination des secrétariats de la DEPAFI |
 
-C |
+B |
 
 Responsable du secrétariat de direction (cabinet DEPAFI) |
 
@@ -1114,25 +1060,11 @@ C |
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
 SECRETARIAT GENERAL |
 
 |
 
-|
-
 DIRECTION DE LA TRANSFORMATION DU NUMERIQUE |
-
-|
 
 |
 
@@ -1160,11 +1092,13 @@ C |
 
 |
 
-FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES |
+FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES
+
+ET DE RESPONSABILITES PARTICULIERES |
 
 |
 
-ET DE RESPONSABILITES PARTICULIERES |
+|
 
 Chef du bureau du suivi et du conseil achat |
 
@@ -1178,19 +1112,19 @@ Adjoint au chef du bureau des ressources humaines |
 
 A |
 
-Chef de la section gestion de proximité |
+Chef de la section gestion de proximité
 
-A |
+Chef du pôle temps de travail/ cartes agents |
+
+A
+
+B |
 
 Adjoint au chef de la section gestion de proximité |
 
 A |
 
 Chef de la section développement RH |
-
-A |
-
-Responsable du pôle synthèse budgétaire et démarche qualité |
 
 A |
 
@@ -1236,7 +1170,7 @@ EMPLOIS DE SECRETARIAT |
 
 Assistante de direction du DTNUM |
 
-C |
+B |
 
 Assistante de direction |
 
@@ -1244,17 +1178,11 @@ B |
 
 |
 
-|
-
 SECRETARIAT GENERAL |
 
 |
 
-|
-
 DELEGATION A L'INFORMATION ET A LA COMMUNICATION |
-
-|
 
 |
 
@@ -1308,11 +1236,7 @@ B |
 
 |
 
-|
-
 DIRECTION DES LIBERTES PUBLIQUES ET DES AFFAIRES JURIDIQUES |
-
-|
 
 |
 
@@ -1342,7 +1266,7 @@ A |
 
 Responsable du pôle RH du cabinet |
 
-A |
+B |
 
 |
 
@@ -1352,13 +1276,9 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
-|
+Adjoint au chef de bureau du droit et des procédures d'expulsion |
 
-|
-
-Responsable de l'élaboration informatisée des passeports de service |
-
-C |
+A |
 
 Responsable de l'élaboration informatisée des passeports de service |
 
@@ -1390,7 +1310,7 @@ A |
 
 Chef de la section comptabilité à la mission du pilotage et de l'appui juridique aux territoires |
 
-B |
+A |
 
 Chargé du suivi des crédits globalisés de la direction |
 
@@ -1434,13 +1354,9 @@ A |
 
 |
 
-|
-
 DIRECTION DES RESSOURCES HUMAINES DES FINANCES ET DES SOUTIENS
 
 (EX DRCPN) |
-
-|
 
 |
 
@@ -1464,11 +1380,11 @@ AU TITRE DE LA MODERNISATION |
 
 |
 
-Chef de la section budget au bureau du pilotage des emplois et de la masse salariale de la sous-direction des finances et du soutien opérationnel |
+Chef de la mission pilotage des effectifs (MPE) au bureau du pilotage des emplois et de la masse salariale de la sous-direction des finances et du soutien opérationnel |
 
 A |
 
-Adjoint au chef du bureau des effectifs, de la prospective et des systèmes d'information de la sous-direction de la stratégie des ressources humaines |
+Adjoint au chef du bureau de la gouvernance et de l'animation territoriales |
 
 A |
 
@@ -1494,17 +1410,17 @@ Adjoint au chef du bureau du pilotage des emplois et de la masse salariale de la
 
 A |
 
-|
+Chef de la mission Paie police de centrale (MPAC) au bureau du pilotage des emplois et de la masse salariale de la sous-direction des finances et du soutien opérationnel |
 
-|
+A |
 
-|
+Adjoint au chef de la mission Paie police de centrale (MPAC) au bureau du pilotage des emplois et de la masse salariale de la sous-direction des finances et du soutien opérationnel |
+
+B |
 
 |
 
 DIRECTION GENERALE DES COLLECTIVITES LOCALES |
-
-|
 
 |
 
@@ -1547,10 +1463,6 @@ B |
 Rédacteur chargé de la gestion budgétaire de dotation aux collectivités territoriales |
 
 B |
-
-Responsable de la gouvernance des systèmes d'information et de communication |
-
-A |
 
 |
 
@@ -1608,11 +1520,13 @@ A |
 
 |
 
-FONCTIONS ASSORTIES DE CONTRAINTES |
+FONCTIONS ASSORTIES DE CONTRAINTES
+
+ET DE RESPONSABILITES PARTICULIERES |
 
 |
 
-ET DE RESPONSABILITES PARTICULIERES |
+|
 
 |
 
@@ -1622,7 +1536,15 @@ Adjoint au chef du bureau des structures territoriales |
 
 A |
 
-Adjoint au chef du pôle interrégional d'appui au contrôle de légalité |
+Adjoint au chef du pôle interrégional d'appui au contrôle de légalité
+
+Adjoint au chef du bureau des affaires financières et budgétaires
+
+Adjoint au chef de bureau de la stratégie, de la contractualisation et de l'évaluation |
+
+A
+
+A
 
 A |
 
@@ -1630,11 +1552,13 @@ A |
 
 |
 
-FONCTIONS D'ENCADREMENT ASSORTIES DE CONTRAINTES |
+FONCTIONS D'ENCADREMENT ASSORTIES DE CONTRAINTES
+
+ET DE RESPONSABILITES PARTICULIERES |
 
 |
 
-ET DE RESPONSABILITES PARTICULIERES |
+|
 
 |
 
@@ -1650,11 +1574,7 @@ EMPLOIS DE SECRETARIAT |
 
 Secrétariat particulier du directeur général des collectivités locales |
 
-B |
-
-Secrétariat particulier du directeur général des collectivités locales |
-
-B |
+C |
 
 |
 
@@ -1676,11 +1596,7 @@ Secrétaire du conseil supérieur de la fonction publique territoriale |
 
 C |
 
-|
-
-|
-
-DIRECTION GENERALE DE LA SECURITE CIVILE |
+DIRECTION GENERALE DE LA SECURITE CIVILE
 
 ET DE LA GESTION DES CRISES |
 
@@ -1711,10 +1627,6 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 |
 
 |
-
-Adjoint au chef du bureau des ressources humaines et financières pour les ressources humaines |
-
-A |
 
 Chef de la section " gestion des personnels administratifs, techniques STM et SIC, contractuels et ouvriers d'État " |
 
@@ -1754,9 +1666,13 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
 
 Chargé de mission auprès de l'adjoint du sous-directeur de la préparation, de l'anticipation et de la gestion des crises (affaires générales) |
 
-B |
+A |
 
 Chef de la section contrôle interne financier |
+
+A |
+
+‍ Chef de la section hors titre deux et performance |
 
 A |
 
@@ -1806,13 +1722,13 @@ Directeur adjoint de cabinet |
 
 A |
 
+‍ Chef de cabinet du directeur général de la sécurité civile et de la gestion des crises |
+
+A |
+
 Secrétaire du directeur général |
 
 B |
-
-Adjoint au responsable du courrier |
-
-C |
 
 Secrétaire du directeur général et du directeur de cabinet |
 
@@ -1824,15 +1740,7 @@ B |
 
 |
 
-|
-
-|
-
-|
-
 PRESIDENCE DE LA REPUBLIQUE |
-
-|
 
 |
 
@@ -1898,11 +1806,9 @@ B |
 
 |
 
-|
+SECRETARIAT GENERAL DU COMITE INTERMINISTERIEL DE PREVENTION DE LA DELINQUANCE
 
-SECRETARIAT GENERAL DU COMITE INTERMINISTERIEL DE PREVENTION DE LA DELINQUANCE ET DE LA RADICALISATION |
-
-|
+ET DE LA RADICALISATION |
 
 |
 
@@ -1930,17 +1836,13 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES ET JURIDIQUES |
 
 |
 
-Directeur de Cabinet |
+Chef du pôle administratif et financier |
 
 A |
 
 |
 
-|
-
 DELEGATION DE LA SECURITE ROUTIERE |
-
-|
 
 |
 
@@ -2015,3 +1917,7 @@ A |
 Adjoint au chef de la section de fiabilisation des données et contrôle des droits à conduire |
 
 B |
+
+NOTA :
+
+Conformément à l'article 1 de l'arrêté du 13 décembre 2024 (NOR : INTA2433646A), ces dispositions entrent en vigueur le 1er janvier 2025.
