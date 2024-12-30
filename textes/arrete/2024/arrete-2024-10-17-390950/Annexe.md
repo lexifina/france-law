@@ -398,6 +398,50 @@ DREES |
 
 (*) Voir liste des producteurs.
 
+Entreprises et stratégies de marché |
+
+Périodicité |
+
+Producteur (*) |
+
+‍ Enquête " Observation des prix de l'industrie et des services " (OPISE) |
+
+Mensuelle |
+
+INSEE |
+
+Enquête européenne sur l'activité des filiales étrangères des groupes français (Outward FATS-OFATS) |
+
+Annuelle |
+
+INSEE |
+
+Enquête mensuelle auprès des accouveurs et sélectionneurs (AccSél). |
+
+Mensuelle |
+
+SSP |
+
+(*) Voir liste des producteurs.
+
+Emploi, qualification et revenus du travail |
+
+Périodicité |
+
+Producteur (*) |
+
+Enquête Formation Employeur-annuelle (EFE-a) |
+
+Annuelle |
+
+CEREQ
+
+DARES
+
+France Compétences |
+
+(*) Voir liste des producteurs.
+
 2. Enquêtes d'intérêt général
 
 2.A. Enquêtes d'initiative nationale
