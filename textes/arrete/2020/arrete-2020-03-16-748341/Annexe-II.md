@@ -8,41 +8,21 @@ Administration centrale et structures assimilées |
 
 Directions d'administration centrale |
 
--Adjoint à un chef de service |
+Adjoint à un chef de service |
 
 Directions d'administration centrale |
 
--Adjoint à un sous-directeur |
+Adjoint à un sous-directeur |
 
-|
-
-|
-
-Services déconcentrés et directions départementales interministérielles : |
+Services déconcentrés et directions départementales interministérielles |
 
 Directions interdépartementales des routes |
 
--directeur |
+Directeur |
 
 Directions interdépartementales des routes |
 
--Adjoint à un directeur |
-
-|
-
-|
-
-Région Bretagne |
-
-|
-
-DREAL Bretagne/ AGIR |
-
-Chef de la division des finances |
-
-|
-
-|
+Adjoint à un directeur |
 
 Région de Corse |
 
@@ -52,10 +32,6 @@ DREAL Corse |
 
 Secrétaire général |
 
-|
-
-|
-
 Région Grand Est |
 
 |
@@ -64,18 +40,6 @@ DIR EST |
 
 Secrétaire général |
 
-|
-
-|
-
-Région Pays de Loire |
-
-|
-
-DIRM Nord atlantique Manche Ouest |
-
-Secrétaire général |
-
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 27 décembre 2023 (NOR : TREK2314318A), ces dispositions prennent effet le 1er janvier 2024 sous réserve des mentions particulières indiquées dans les annexes.
+Conformément à l’article 2 de l’arrêté du 23 décembre 2024 (NOR : TECK2433895A), ces dispositions prennent effet le 1er janvier 2025 sous réserve des mentions particulières indiquées dans les annexes.
