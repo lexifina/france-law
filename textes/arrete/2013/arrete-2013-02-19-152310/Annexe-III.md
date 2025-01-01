@@ -28,7 +28,7 @@ Il ne peut être fait mention de la certification dont une entreprise est titula
 
 3.2. Sites couverts
 
-Lorsque le demandeur dispose de plusieurs établissements, ci-après dénommés sites, la demande de certification ou de renouvellement précise les sites du prestataire concernés par la demande. A défaut d'indication à ce sujet, le siège du demandeur sera considéré comme le seul site concerné par la demande de certification.
+Lorsque le demandeur dispose de plusieurs établissements, ci-après dénommés sites, la demande de certification ou de renouvellement précise les sites du prestataire concernés par la demande. A défaut d'indication à ce sujet, le siège du demandeur sera considéré comme le seul site concerné par la demande de certification et sera repris dans le certificat en tant que site.
 
 4. Comité de pilotage de la certification
 
@@ -62,11 +62,9 @@ Le comité de pilotage est composé de :
 
 - 1 représentant de la Fédération européenne des métiers de l'ingénierie et de la topographie liés aux réseaux aériens, souterrains et subaquatiques (FEMITRAS) ;
 
-2 représentants des exploitants de réseaux entrant dans le champ de l'article R. 554-2 du code de l'environnement ;
+3 représentants des exploitants de réseaux entrant dans le champ de l'article R. 554-2 du code de l'environnement ;
 
-1 représentant de la Fédération nationale des travaux publics (FNTP) ou des canalisateurs de France ;
-
-1 représentant de la Fédération française du bâtiment (FFB) ;
+3 représentants des entreprises exécutants des travaux à proximités des réseaux (fédération nationale des travaux publics (FNTP), Les Canalisateurs, fédération française du bâtiment (FFB) ou autre) ;
 
 1 représentant de l'organisation syndicale de salariés CGT énergie ;
 
@@ -108,31 +106,53 @@ Pour être candidat à l'approbation, par le comité de pilotage de la certifica
 
 - justifier d'une formation spécifique à l'audit sur la base du ou des référentiel(s) relatif(s) à l'option sur laquelle porte l'audit ;
 
-- s'engager à une obligation de confidentialité et d'impartialité.
+- justifier d'une formation dans le domaine technique pour lequel l'approbation est demandée ;
 
-L'approbation est délivrée par le comité de pilotage lorsque l'ensemble des critères est satisfait. Elle est matérialisée par un courrier mentionnant les options du § 3.1, dont copie est transmise à l'INERIS pour publication sur le site internet du guichet unique "reseaux-et-canalisations.gouv.fr".
+- s'engager à une obligation de confidentialité et d'impartialité et, en particulier, à ne pas avoir de relation commerciale avec les entreprises auditées durant une période de 24 mois précédant et suivant un audit.
+
+En cas de risque de conflit d'intérêt potentiel identifié pour un candidat, le comité de pilotage peut demander à chaque organisme ayant recours à ce candidat les mesures qu'il met en œuvre pour limiter ce risque et, le cas échéant, refuser ce candidat.
+
+La liste des auditeurs approuvés par le comité de pilotage est publiée sur le site internet du guichet unique à l'adresse suivante : https://www.reseaux-et-canalisations.ineris.fr
 
 Il ne peut être fait mention de l'approbation dont dispose un auditeur, dans le cadre de la certification des prestataires en localisation des réseaux, sans y adjoindre le libellé du domaine sur lequel porte cette approbation parmi les 3 options mentionnées au § 3-1.
 
-4.5. Approbation temporaire des auditeurs
+En cas de manquements constatés, le comité de pilotage peut retirer un auditeur de la liste des auditeurs approuvés.
 
-Un auditeur souhaitant être inscrit dans la liste des auditeurs approuvés doit en faire la demande au secrétariat du comité de pilotage de la certification.
-
-Une approbation temporaire peut être accordée au nouvel auditeur par le comité de pilotage de la certification, s'il répond à toutes les conditions du § 4.4 à l'exception de celle relative à la justification d'une formation spécifique à l'audit sur la base du ou des référentiel(s) relatif(s) à l'option sur laquelle porte l'audit, et de celle relative à l'attestation de compétences dans l'attente de l'arrêté prévu au 2° de l'article 22 de l'arrêté du 15 février 2012 précité.
-
-L'approbation temporaire est valable jusqu'à l'inscription de l'auditeur à la première session de formation proposée en matière d'audit entrant dans le champ du présent règlement, et l'obtention de l'attestation de compétences précitée, et au maximum pour une durée de dix-huit mois. Le comité de pilotage se réserve le droit de demander un rapport d'audit.
-
-4.6. Liste des auditeurs approuvés
-
-La liste des auditeurs approuvés est publiée sur le site du guichet unique : www.réseaux-et-canalisations.gouv.fr et mise à jour par l'Observatoire national DT-DICT.
-
-4.7. Impartialité et confidentialité
+4.5. Impartialité et confidentialité
 
 Les membres du comité de pilotage sont soumis à une obligation d'impartialité et de confidentialité. Afin d'en respecter les clauses, un "engagement d'impartialité et de confidentialité" est signé par chacun d'eux (cf. § 13-3).
 
 Le secrétariat est également tenu au secret professionnel par la signature d'un "engagement de confidentialité".
 
 Lorsque le comité de pilotage examine une question relative à l'un de ses membres représentant un "prestataire en localisation des réseaux", ce dernier doit se retirer de la séance pendant la durée d'examen du rapport et de la délibération.
+
+4.6. Bilans annuels
+
+Lors des réunions du comité de pilotage, les organismes certificateurs présentent le bilan annuel de leur activité. Les bilans comportent notamment :
+
+- une présentation de l'évolution du nombre de prestataires sous certification (dont le nombre de nouveaux prestataires certifiés et le nombre de prestataires renouvelés dans leur certification à la suite d'un audit de renouvellement) ;
+
+- la liste des auditeurs et leurs activités ;
+
+- le nombre d'audits réalisés par type d'audit tel que défini au 7-1 ;
+
+- le nombre d'audits complémentaires réalisés ;
+
+- une analyse des non-conformités constatées lors de ces audits, en distinguant les non-conformités majeures et mineures ;
+
+- le nombre de suspensions ou retraits de certification prononcés par l'organisme ;
+
+- le nombre de plaintes reçues et les éventuelles actions menées.
+
+Le représentant de l'ordre des géomètres experts présente un bilan annuel relatif aux contrôles des géomètres experts figurant dans la liste complémentaire publiée sur le site du guichet unique, comprenant :
+
+- le nombre de contrôles réalisés ;
+
+- une analyse des non-conformités constatées lors de ces contrôles ;
+
+- le nombre de sanctions prononcées pour un motif lié à l'activité couverte par la certification ;
+
+- le nombre de plaintes reçues et les éventuelles actions menées par les conseils régionaux.
 
 5. Qualification des auditeurs par les organismes certificateurs
 
@@ -160,13 +180,19 @@ Pour pouvoir se porter candidat, l'organisme certificateur doit disposer de - ou
 
 La durée de validité de la certification en tant que "prestataire en localisation des réseaux" est de six ans, conformément à l'article 23 de l'arrêté du 15 février 2012 relatif à l'exécution de travaux à proximité des réseaux. La surveillance de l'activité des prestataires certifiés par les organismes certificateurs repose sur la réalisation d'au moins un audit triennal.
 
-7-1. Différents types d'audits
+7-1. Différents types d'audits et fréquences associées
 
 Audit initial : premier audit réalisé chez un prestataire ayant demandé à être certifié pour l'une des trois options possibles.
 
-Audit de surveillance : audit réalisé au plus tard trois ans après un audit de certification par le même organisme certificateur.
+Audit de surveillance :
 
-Audit de renouvellement : audit réalisé au plus tard six ans après un audit de certification en vue du renouvellement de la certification d'un prestataire avec le même organisme certificateur.
+- dans un cycle initial débuté à compter du 1er janvier 2025, audits réalisés au plus tard deux ans et quatre ans après la date du premier certificat initial ;
+
+- dans un cycle de renouvellement ou dans un cycle initial débuté avant le 1er janvier 2025, audit réalisé au plus tard 3 ans après la date du certificat de renouvellement.
+
+Audit de renouvellement : audit réalisé au plus tard six ans après la date d'un certificat initial ou de renouvellement.
+
+Audit complémentaire : audit pouvant être réalisé à l'initiative de l'organisme certificateur en cas de plaintes ou à la suite d'une détection de non-conformités.
 
 7-2. Contenu et durée de l'audit
 
@@ -230,6 +256,8 @@ La durée ci-dessus s'applique pour chaque site.
 
 L'organisme certificateur applique son système d'évaluation défini en interne.
 
+L'organisme ne peut pas délivrer un certificat initial ou le maintien d'une certification s'il constate une ou plusieurs non-conformités ayant un impact sur la conformité des livrables (rapports, plans et, le cas échéant, le tracé au sol), la sécurité du personnel ou des tiers ou un défaut d'assurance.
+
 7-6. Rapport d'audit
 
 Suite à la réalisation de l'audit, l'auditeur établit un rapport d'audit qui décrit les vérifications réalisées, afin de permettre de proposer d'attribuer, maintenir ou refuser la certification au prestataire. Il mentionne notamment, s'ils existent, les écarts identifiés entre le système de gestion du prestataire et le référentiel, et ceux relatifs à l'application de ce système de gestion par le personnel du prestataire.
@@ -242,7 +270,7 @@ P : Prestataire.
 
 OC : Organisme certificateur.
 
-GU : Guichet unique http://www.reseaux-et-canalisations.gouv.fr/.
+GU : Guichet unique https://www.reseaux-et-canalisations.ineris.fr/.
 
 Vous pouvez consulter le schéma dans le fac-similé du JO nº 0149 du 29/06/2014, texte nº 4 à l'adresse suivante :
 
@@ -270,19 +298,61 @@ Le certificat délivré par l'organisme certificateur comprend les éléments su
 
 - une référence à l'accréditation de l'organisme certificateur.
 
-L'organisme certificateur communique le certificat au prestataire, et en adresse une copie intégrale au guichet unique gestionnaire du site http://www.reseaux-et-canalisations.gouv.fr/.
+L'organisme certificateur communique le certificat au prestataire et le tient à disposition du ministre chargé de la sécurité à proximité des réseaux.
 
-Toutes les informations mentionnées sur le certificat et ses annexes sont consultables en ligne sur le site susmentionné.
+Il communique mensuellement au ministre chargé de la sécurité à proximité des réseaux, et selon le format défini par ce dernier, la liste des prestataires certifiés en vue de sa publication sur le site : https://www.reseaux-et-canalisations.ineris.fr
 
-Les audits de surveillance donnent lieu à la délivrance d'attestations de surveillance, qui doivent être transmises dans les mêmes conditions au guichet unique.
+Les audits de surveillance donnent lieu à la délivrance d'attestations de surveillance, qui sont transmises dans les mêmes conditions aux prestataires certifiés et tenues à disposition du ministre.
 
 En cas de changement de périmètre de la certification (changement d'option ou changement des sites bénéficiaires), le certificat et/ou ses annexes doivent être renouvelés.
 
 11. Validité de la certification
 
-La certification est valable six ans, sous réserve de la réalisation de l'audit de surveillance triennal. Le certificat de renouvellement doit être adressé au guichet unique dans le délai maximal d'un mois après la date limite de validité mentionnée au certificat précédent. Au-delà, le prestataire est retiré de la liste des prestataires certifiés.
+11.1. Durée de validité de la certification
 
-Selon les critères fixés par l'organisme certificateur, ce dernier peut suspendre ou retirer une certification qu'il a délivrée. La suspension ou le retrait prennent effet à la date de leur notification, exception faite des éventuelles prestations déjà commandées à cette date et sous réserve que ces prestations soient effectuées dans le délai maximal de trois mois complémentaires.
+La certification est valable six ans, sous réserve de la réalisation des audits de surveillance selon les fréquences définies au point 7.1.
+
+Les audits de renouvellement donnent lieu à la délivrance de certificats de renouvellement qui sont transmis aux prestataires certifiés et tenus à disposition du ministre chargé de la sécurité à proximité des réseaux.
+
+Selon les critères fixés par l'organisme certificateur, ce dernier peut suspendre ou retirer une certification qu'il a délivrée. La suspension ou le retrait prennent effet à la date de leur notification, exception faite des éventuelles prestations déjà commandées à cette date et sous réserve que ces prestations soient effectuées dans un délai maximal de trois mois complémentaires. Le prestataire est retiré de la liste communiquée mensuellement au ministre chargé de la sécurité à proximité des réseaux en application du point 10.
+
+11.2. Transfert de certification
+
+Tout prestataire souhaitant changer d'organisme certificateur doit :
+
+- soit déposer une nouvelle demande de certification et satisfaire à un audit initial ;
+
+- soit déposer une demande de transfert à un organisme certificateur dans les conditions définies ci-après.
+
+Le transfert d'une certification est la reprise, sur l'ensemble de son périmètre, d'une certification existante et valide, par un autre organisme certificateur.
+
+Le prestataire demandant le transfert de sa certification transmet sa demande au nouvel organisme certificateur souhaité au moins deux mois avant les échéances définies à l'article 7.1. En réalisant une demande de transfert, le prestataire autorise l'ancien organisme certificateur à transmettre les informations requises à l'organisme certificateur récepteur.
+
+L'organisme certificateur récepteur vérifie :
+
+-le respect des délais précités ;
+
+- le fait que les activités certifiées entrent dans le cadre de la portée de son accréditation ;
+
+- le fait que l'entreprise souhaitant transférer la certification possède une certification conforme au dispositif en vigueur ;
+
+- le fait que la certification de l'entreprise demandant le transfert n'est pas suspendue ou retirée ou qu'il n'y a pas de non-conformité majeure non traitée. Dans le cas où la certification de l'entreprise est suspendue ou retirée, le transfert de la certification n'est pas possible.
+
+L'ancien organisme certificateur transmet, sous un délai de quinze jours à compter de la demande, à l'organisme récepteur une copie du certificat émis et, le cas échéant, un dossier détaillant les non-conformités détectées et le plan d'action associé pour y remédier transmis par le prestataire.
+
+L'organisme récepteur examine les éléments transmis par l'ancien organisme certificateur, l'état des non-conformités en suspens, les dernières conclusions d'audit, le cas échéant les réclamations reçues et les actions correctives mises en œuvre. Il décide, dans un délai de trente jours à compter de la réception des éléments transmis par l'ancien organisme certificateur, selon les cas :
+
+- de reprendre le dossier en confirmant la certification ;
+
+- d'organiser, après analyse du dossier, une évaluation adaptée ;
+
+- de refuser le transfert de la certification.
+
+Les motifs de refus sont formulés par écrit et transmis au prestataire demandant le transfert.
+
+Dans le cas où l'ancien organisme certificateur refuse de transmettre les pièces, l'organisme récepteur le signale au ministre chargé de la sécurité des travaux à proximité des réseaux.
+
+L'organisme récepteur informe l'ancien organisme certificateur de sa décision d'acceptation ou de refus du transfert de certification. La décision de transfert de certification fait l'objet de l'émission d'un nouveau certificat, qui reprend l'échéance du certificat antérieur. La délivrance du certificat par le nouvel organisme certificateur entraîne la caducité du certificat précédemment émis par l'ancien organisme certificateur, qui procède à la mise à jour de la liste des entreprises certifiées.
 
 12. Recours concernant une interprétation du référentiel
 
@@ -351,3 +421,7 @@ respecter la confidentialité des dossiers portés à ma connaissance ;
 Fait à..., le [jj/mm/aaaa]
 
 [Signature du membre du comité de pilotage]
+
+NOTA :
+
+Conformément à l’article 4 de l’arrêté du 23 décembre 2024 (NOR : TECP2429856A), ces dispositions entrent en vigueur le 1er janvier 2025.
