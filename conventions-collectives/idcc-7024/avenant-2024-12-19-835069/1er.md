@@ -1,0 +1,29 @@
+# Article 1er
+
+Le texte de l'article 1.1 « Champs d'application » est annulé et remplacé comme suit :
+
+« Chapitre 1er   Dispositions générales relatives à l'application de l'accord interdépartemental
+
+Article 1.1
+
+Champ d'application professionnel et territorial
+
+Le présent accord concerne les rapports entre les employeurs et les salariés :
+
+– des exploitations de polyculture et d'élevage ;
+
+– des établissements de forçage et de conditionnement des endives ;
+
+– des établissements de production de grains et de graines de semences ;
+
+– des exploitations horticoles, maraîchères, de cressiculture et de pépinières ;
+
+– des exploitations d'arboriculture fruitière ;
+
+– des coopératives d'utilisation en commun du matériel agricole ;
+
+– des groupements d'employeurs dont l'activité principale entre dans l'un des champs d'application des exploitations ou établissement énumérés ci-dessus ; et plus généralement toute exploitation ou entreprise agricole dont l'activité est prévue à l'article 1.1 de la convention collective nationale, à l'exception des exploitations et entreprises champignonnistes des départements de l'Aisne et l'Oise couverts par l'accord territorial du 20 juin 2024.
+
+Ayant leur siège social dans les départements de l'Aisne, du Nord, de l'Oise et de la Somme.
+
+Dans la mesure où le présent accord a vocation à s'appliquer essentiellement auprès de très petites entreprises, les partenaires sociaux estiment que ces dispositions leur sont particulièrement applicables et que, par conséquent, ils répondent à l'obligation issue de l'article L. 2261-23-1 du code du travail. »
