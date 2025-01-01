@@ -1,0 +1,13 @@
+# Article 1er
+
+L'article 3 « Salariés bénéficiaires » de l'accord du 9 juillet 2009 est annulé et réécrit comme suit :
+
+« Article 3
+
+Salariés bénéficiaires
+
+Les dispositions de l'accord départemental du 9 juillet 2009 s'appliquent à tous les salariés ne relevant pas des articles 2.1 et 2.2 de l'accord national interprofessionnel relatif à la prévoyance des cadres du 17 novembre 2017 à l'exclusion :
+
+– des salariés relevant des articles 2.1 et 2.2 de l'accord national interprofessionnel (ANI) relatif à la prévoyance des cadres du 17 novembre 2017 et des techniciens, agents de maîtrise et cadres relevant de la convention collective du 2 avril 1952 et du régime Agirc-Arrco, et bénéficiant à ce titre du régime de prévoyance défini dans la convention précitée ;
+
+– les catégories particulières de salariés (VRP par exemple) ressortissant d'autres dispositions conventionnelles. »
