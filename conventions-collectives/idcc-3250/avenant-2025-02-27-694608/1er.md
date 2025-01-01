@@ -1,0 +1,55 @@
+# Article 1er
+
+Les dispositions de l'article 43.2 de la convention collective, telles que modifiées par l'avenant n° 10, sont remplacées par les dispositions suivantes :
+
+« Article 43.2
+
+Le contrat de professionnalisation
+
+Le contrat de professionnalisation peut être conclu sous la forme d'un contrat à durée déterminée (CDD) ou à durée indéterminée (CDI) associant des enseignements généraux, professionnels et technologiques dispensés dans des organismes publics ou privés de formation, et l'acquisition de savoir-faire professionnels en entreprise. Le salarié bénéficie du soutien d'un tuteur.
+
+Il vise l'obtention de titres ou diplômes correspondant à des qualifications :
+
+– enregistrées dans le Répertoire national des certifications professionnelles (RNCP) ; ou
+
+– reconnues dans la grille des classifications figurant en annexe de la convention collective ; ou
+
+– figurant sur la liste ouvrant droit à un certificat de qualification professionnelle.
+
+Le contrat de professionnalisation s'adresse :
+
+– aux jeunes de 16 ans à 25 ans révolus (26 ans moins un jour) pour compléter leur formation initiale ;
+
+– aux bénéficiaires du revenu de solidarité active (RSA) ;
+
+– aux bénéficiaires de l'allocation de solidarité spécifique (ASS) ;
+
+– aux bénéficiaires de l'allocation aux adultes handicapés (AAH) ;
+
+– aux personnes ayant bénéficié d'un contrat unique d'insertion (CUI) ;
+
+– aux personnes âgées de 16 à 25 ans révolus sans qualification professionnelle, qui n'ont pas validé un second cycle de l'enseignement secondaire et qui ne sont pas titulaires d'un diplôme de l'enseignement technologique ou professionnel ;
+
+– aux demandeurs d'emploi âgés de 26 ans ou plus.
+
+L'action de professionnalisation d'un contrat de professionnalisation à durée déterminée ou qui se situe au début d'un contrat de professionnalisation à durée indéterminée est d'une durée minimale comprise entre six et douze mois. Elle peut être allongée jusqu'à trente-six mois pour les personnes visées à l'article L. 6325-1-1 du code du travail.
+
+Conformément aux dispositions légales en vigueur, les partenaires sociaux conviennent que la durée mentionnée ci-dessus peut être portée, dans le cadre de contrats de professionnalisation, jusqu'à 24 mois pour les formations suivantes identifiées comme prioritaires selon la définition de la CPNEFP :
+
+– clerc assistant : durée portée à 13 mois (264 heures de formation) ;
+
+– clerc gestionnaire : durée portée à 16 mois (337 heures de formation) ;
+
+– accès à la profession de commissaire de justice : durée portée à 24 mois (642 heures de formation) à compter de la date de la rentrée solennelle à l'institut national de formation des commissaires de justice.
+
+Cette durée est définie par référence à la durée de formation prévue pour l'acquisition de la CQP (clerc assistant, clerc gestionnaire) ou dans le cadre du stage imposé par le décret n° 2019-1185 du 15 novembre 2019 relatif à la formation professionnelle des commissaires de justice (art. 14 et suivants).
+
+Les actions de formation incluses dans la durée du travail du salariés doivent être d'une durée minimale comprise entre 15 %, sans être inférieure à 150 heures, et 25 % de la durée totale du contrat.
+
+Sauf dispositions contractuelles plus favorables, les bénéficiaires du contrat de professionnalisation âgés de moins de 26 ans percevront une rémunération calculée en fonction du Smic. Celle-ci peut varier en fonction de l'âge du bénéficiaire et du niveau de sa formation.
+
+La rémunération pour un bénéficiaire âgé d'au moins 26 ans ne peut être inférieure ni au Smic, ni à 95 % du salaire minimum prévu par les dispositions de la convention collective et correspondant à l'emploi occupé pendant la durée du contrat.
+
+Pendant la durée du contrat ou de l'action de professionnalisation, le salarié ayant conclu un contrat dans le cadre de la formation de clerc gestionnaire, et quel que soit son âge percevra une rémunération égale à celle du Smic, sauf dispositions contractuelles plus favorables.
+
+Pendant la durée du contrat ou de l'action de professionnalisation, le salarié ayant conclu un contrat dans le cadre du stage imposé par le décret n° 2019-1185 du 15 novembre 2019 relatif à la formation professionnelle des commissaires de justice (art. 14 et suivants) percevra une rémunération égale à celle prévue à la grille de classification de la convention collective (catégorie “ commissaire de justice stagiaire ”), sauf dispositions contractuelles plus favorables. »
