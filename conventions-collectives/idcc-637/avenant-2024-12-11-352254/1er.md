@@ -1,0 +1,19 @@
+# Article 1er
+
+À compter du 1er janvier 2025, l'article 3 « Bénéficiaires » de l'accord du 10 octobre 2019 est ainsi rédigé :
+
+« Le présent accord s'applique obligatoirement dès l'embauche au personnel de la totalité des entreprises relevant du champ d'application de la présente convention collective selon les modalités suivantes :
+
+– les dispositions prévoyance définies aux articles 4.1 à 4.6 de l'accord du 10 octobre 2019 sont réservées aux salariés non-cadres qui ne relèvent pas de l'accord collectif du 3 juillet 2024 relatif aux catégories de bénéficiaires du régime de protection sociale complémentaire. Les partenaires sociaux rappellent aux entreprises qu'elles sont tenues de respecter leur obligation de prévoyance issue de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres vis-à-vis de leurs salariés ayant le statut cadre et ETAM au sens de cet accord national interprofessionnel y compris pour les personnes visées à l'article 1.3 de l'accord du 3 juillet 2024 ;
+
+– sont concernés par la distinction ci-dessus les salariés en activité, les salariés en arrêt de travail pour maladie ou accident indemnisés par la sécurité sociale, les salariés durant leur congé de maternité ou de paternité ainsi que les salariés en formation à l'extérieur de l'entreprise (CPF). »
+
+À compter du 1er janvier 2026, l'article 3 « Bénéficiaires » de l'accord du 10 octobre 2019 est ainsi rédigé :
+
+« Le présent accord s'applique obligatoirement dès l'embauche au personnel de la totalité des entreprises relevant du champ d'application de la présente convention collective selon les modalités suivantes :
+
+– les dispositions prévoyance définies aux articles 4.1 à 4.6 de l'accord du 10 octobre 2019 sont réservées aux salariés non-cadres qui ne relèvent pas de l'accord collectif du 3 juillet 2024 relatif aux catégories de bénéficiaires du régime de protection sociale complémentaire. Les partenaires sociaux rappellent aux entreprises qu'elles sont tenues de respecter leur obligation de prévoyance issue de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres vis-à-vis de leurs salariés ayant le statut cadre et ETAM au sens de cet accord national interprofessionnel y compris pour les personnes visées à l'article 1.3 de l'accord du 3 juillet 2024 ;
+
+– les dispositions frais de santé prévues aux articles 5 à 8 sont applicables à l'ensemble du personnel y compris les cadres et non cadres visés par l'accord collectif du 3 juillet 2024. Il en est de même de l'article 9.2 “ Cotisations frais de santé ” tel que revu par l'article 3 du présent avenant et du reste de l'accord du 10 octobre 2019 ;
+
+– sont concernés par la distinction ci-dessus les salariés en activité, les salariés en arrêt de travail pour maladie ou accident indemnisés par la sécurité sociale, les salariés durant leur congé de maternité ou de paternité ainsi que les salariés en formation à l'extérieur de l'entreprise (CPF). »
