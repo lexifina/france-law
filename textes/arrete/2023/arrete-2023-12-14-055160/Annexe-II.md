@@ -2,7 +2,7 @@
 
 RÉFÉRENTIEL DES ACTIVITÉS PROFESSIONNELLES
 
-Spécialité " solier " de mention complémentaire (niveau 3)
+Spécialité " solier " de certificat de spécialisation (niveau 3)
 
 II.1. Insertion professionnelle visée
 

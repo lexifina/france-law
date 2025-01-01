@@ -4,7 +4,7 @@ RÉFÉRENTIEL D'ÉVALUATION
 
 IV.1. Unités constitutives du diplôme
 
-Spécialité " solier " de mention complémentaire (niveau 3)
+Spécialité " solier " de certificat de spécialisation (niveau 3)
 
 IV.1. Unités constitutives du diplôme
 

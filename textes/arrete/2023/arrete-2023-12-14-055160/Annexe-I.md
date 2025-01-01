@@ -2,11 +2,11 @@
 
 PRÉSENTATION SYNTHÉTIQUE DU RÉFÉRENTIEL DU DIPLÔME
 
-Spécialité " solier " de mention complémentaire (niveau 3)
+Spécialité " solier " de certificat de spécialisation (niveau 3)
 
 I.1.Présentation
 
-Le titulaire de la spécialité " solier " de mention complémentaire (MC), niveau 3, met en œuvre des revêtements de sols souples, tels que textiles, linoléum, PVC, matériaux naturels, caoutchouc… Il assure le confort à la marche des usagers, en améliorant les performances acoustiques et thermiques des sols.
+Le titulaire de la spécialité " solier " de certificat de spécialisation (CS), niveau 3, met en œuvre des revêtements de sols souples, tels que textiles, linoléum, PVC, matériaux naturels, caoutchouc… Il assure le confort à la marche des usagers, en améliorant les performances acoustiques et thermiques des sols.
 
 Il contribue à la sécurité des personnes en améliorant les circulations à travers l'accessibilité visuelle et sensorielle. Il participe à la décoration des espaces intérieurs.
 

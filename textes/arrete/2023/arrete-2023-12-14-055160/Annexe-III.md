@@ -2,7 +2,7 @@
 
 RÉFÉRENTIEL DE COMPÉTENCES
 
-Spécialité " solier " de mention complémentaire (niveau 3)
+Spécialité " solier " de certificat de spécialisation (niveau 3)
 
 III.1. Définition des blocs de compétences
 

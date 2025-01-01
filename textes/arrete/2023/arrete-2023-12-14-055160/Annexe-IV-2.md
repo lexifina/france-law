@@ -4,13 +4,13 @@ RÉFÉRENTIEL D'ÉVALUATION
 
 IV.2. Règlement d'examen
 
-Spécialité " solier " de mention complémentaire (niveau 3)
+Spécialité " solier " de certificat de spécialisation (niveau 3)
 
 IV.2. Règlement d'examen
 
 Spécialité
 
-solier de mention complémentaire
+solier de certificat de spécialisation
 
 niveau 3 |
 
