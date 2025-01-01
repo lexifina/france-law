@@ -16,9 +16,9 @@ Le jour de leur convocation, les candidats doivent se présenter munis d'une pi�
 
 6° Une des pièces suivantes permettant de justifier que le candidat, autre que volontaire dans les armées en service au sein de la gendarmerie nationale (1), remplit l'une des conditions de service exigées pour s'inscrire aux sélections :
 
-a) Une photocopie du diplôme du baccalauréat ou d'un diplôme ou titre enregistré et classé au moins au niveau IV dans le répertoire national des certifications professionnelles prévu par les articles R. 335-12 et R. 335-23 du code de l'éducation ;
+a) Une photocopie du diplôme du baccalauréat ou d'un diplôme ou titre enregistré et classé au moins au niveau 4 au sens du répertoire national des certifications professionnelles ;
 
-b) Pour les adjoints de sécurité de la police nationale en activité : une attestation de l'autorité d'emploi justifiant d'au moins un an de service en cette qualité, au 1er janvier de l'année des épreuves de sélection ;
+b) Pour les policiers adjoints en activité : une attestation de l'autorité d'emploi justifiant d'au moins un an de service en cette qualité, au 1er janvier de l'année des épreuves de sélection ;
 
 c) Pour les militaires des forces armées autres que la gendarmerie nationale servant en vertu d'un contrat, en activité ou en détachement : une fiche de synthèse des systèmes d'information des ressources humaines (SIRH) propre à chaque armée (ou un état signalétique et des services militaires) justifiant d'au moins quatre ans de service en cette qualité, au 1er janvier de l'année des épreuves de sélection ;
 

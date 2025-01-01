@@ -6,11 +6,13 @@ I. - Par voie électronique sur le site internet du recrutement de la gendarmeri
 
 La procédure d'inscription par internet se déroule comme suit :
 
-1° Le candidat indique son identité ainsi que les différents renseignements nécessaires à la constitution de son dossier de candidature ;
+1° Le candidat indique son identité ainsi que les différents renseignements nécessaires à la constitution de son dossier de candidature. Les candidats souhaitant bénéficier des dispenses prévues à l'article 4-1 et 4-2 de l'arrêté du 8 avril 2019 modifié relatif au recrutement des sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale, devront renseigner leur diplôme ou titre professionnel lors de l'inscription et envoyer une copie de ce dernier par mail à l'adresse suivante : cstagn-drce-cegn@gendarmerie.interieur.gouv.fr.
 
 2° Des écrans informatifs guident le candidat tout au long du cheminement de la saisie des données et indiquent, à la fin de la saisie, les opérations à effectuer pour que la candidature soit valable, les délais de rigueur ainsi que l'adresse du service chargé de l'organisation de la sélection ;
 
-3° Pour procéder à la validation de son inscription, un écran informatif présente de façon récapitulative les données saisies. Le candidat les vérifie, les confirme ou les modifie puis procède à la validation. Un écran informatif indique au candidat le numéro d'enregistrement qui lui est attribué. Ce numéro d'enregistrement sera nécessaire pour modifier ultérieurement, le cas échéant, les informations de son dossier de candidature. Une confirmation d'inscription est envoyée à chaque candidat à l'adresse électronique indiquée lors de son inscription ;
+3° Pour procéder à la validation de son inscription, un écran informatif présente de façon récapitulative les données saisies. Le candidat les vérifie, les confirme ou les modifie puis procède à la validation. Un écran informatif indique au candidat le numéro d'enregistrement qui lui est attribué. Ce numéro d'enregistrement sera nécessaire pour modifier ultérieurement, le cas échéant, les informations de son dossier de candidature.
+
+Une confirmation d'inscription est envoyée à chaque candidat à l'adresse électronique indiquée lors de son inscription ;
 
 4° Après la validation, le candidat peut modifier sa candidature ;
 
@@ -27,3 +29,7 @@ II. - Dépôt d'un dossier de candidature :
 Le dossier de candidature peut être soit téléchargé sur le site internet du recrutement de la gendarmerie http://www.lagendarmerierecrute.fr, soit retiré auprès d'une brigade de gendarmerie, d'un centre d'information et de recrutement ou d'un centre de recrutement, concours et sélection.
 
 Le dossier d'inscription rempli doit être adressé pour la métropole au centre de sélection et de concours dont relève le candidat et, pour l'outre-mer, au centre de recrutement, concours et sélection dont relève le candidat (la liste des différents centres est disponible dans le dossier d'inscription).
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 11 juin 2024 (NOR : IOMJ2415820A), ces dispositions sont applicables aux épreuves de sélection organisées à compter du 1er janvier 2025.
