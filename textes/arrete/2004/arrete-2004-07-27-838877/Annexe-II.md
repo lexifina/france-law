@@ -70,8 +70,6 @@ Numéro d'agrément
 
 Signature
 
-Jusqu'au 31 décembre 2024, la mention : " Nom et prénom : non renseignés " peut figurer en complément dans cette rubrique.
-
 10. L'identification du véhicule :
 
 (2) Le numéro d'immatriculation et le symbole du pays d'immatriculation
@@ -218,7 +216,7 @@ Le verso du procès-verbal comporte exclusivement les mentions suivantes :
 
 “ Vous disposez d'un droit d'accès et de rectification des informations nominatives vous concernant. Vous pouvez exercer ce droit en vous adressant au centre ayant édité le présent procès-verbal ” ;
 
-- La signalétique prévue à l'article L. 541-9-3 du code de l'environnement. Jusqu'au 31 décembre 2024, cette signalétique est facultative.
+- La signalétique prévue à l'article L. 541-9-3 du code de l'environnement.
 
 1.4. Couleurs d'impression
 
@@ -347,3 +345,7 @@ Le timbre est autocollant et comporte un prédécoupage entraînant son déchire
 Il ne permet également pas, du moins sans sa destruction partielle ou totale, un quelconque effacement des informations variables qui y sont portées.
 
 Sa sécurité peut, en outre, être renforcée par la présence d'un pictogramme latent révélable sur toute photocopie.
+
+NOTA :
+
+Conformément à l'article 17 de l'arrêté du 22 décembre 2023 (NOR : TRER2330739A), ces dispositions entrent en vigueur le 1er janvier 2025.
