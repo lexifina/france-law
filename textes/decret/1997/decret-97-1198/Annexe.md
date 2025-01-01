@@ -308,7 +308,7 @@ Conseil médical de l'aviation civile |
 
 34 |
 
-Autorisation d'un régime répartissant le temps de vol et d'arrêt du personnel navigant sur une autre période de temps que celles prévues au code de l'aviation civile. |
+Autorisation d'un régime répartissant le temps de vol et d'arrêt du personnel navigant sur une autre période de temps que celles prévues au code de l'aviation civile . |
 
 Code de l'aviation civile Article D. 422-6. |
 
@@ -362,7 +362,7 @@ Ministre chargé de l'aviation civile |
 
 Délivrance de la qualification permettant l'exercice des fonctions assurant le service d'information de vol et d'alerte. |
 
-Code de l'aviation civile,
+Code de l'aviation civile ,
 
 Article R. 135-8.
 
@@ -860,7 +860,7 @@ Ministre chargé de la mer |
 
 29 |
 
-Refus d'accès aux ports et aux mouillages sur l'ensemble du territoire national à tout navire ayant fait l'objet d'une décision d'immobilisation ou d'interdiction d'exploitation dans les cas prévus au I de l'article 41-9 du décret n° 84-810 du 30 août 1984. |
+Refus d'accès aux ports et aux mouillages sur l'ensemble du territoire national à tout navire ayant fait l'objet d'une décision d'immobilisation ou d'interdiction d'exploitation dans les cas prévus au I de l'article 41-9 du décret n° 84-810 du 30 août 1984 . |
 
 Décret n° 84-810 du 30 août 1984
 
@@ -904,7 +904,7 @@ Ministre chargé de la mer |
 
 33 |
 
-Mise en œuvre du rapatriement des gens de mer et du recouvrement des frais avancés auprès de l'armateur et de l'employeur dans les conditions du II de l'article L. 5542-33-1 du code des transports. |
+Mise en œuvre du rapatriement des gens de mer et du recouvrement des frais avancés auprès de l'armateur et de l'employeur dans les conditions du II de l'article L. 5542-33-1 du code des transports . |
 
 Décret n° 2017-441 du 30 mars 2017 Article 2. |
 
@@ -994,7 +994,7 @@ Ministre chargé de la marine marchande |
 
 42 |
 
-Délivrance des certificats d'assurance ou autre garantie financière des navires immatriculés au registre international français prévus par l'article L. 5123-2 du code des transports, à l'exception de ceux de ces certificats dont la délivrance a été déléguée en application de l'article L. 5123-3 du code des transports. |
+Délivrance des certificats d'assurance ou autre garantie financière des navires immatriculés au registre international français prévus par l'article L. 5123-2 du code des transports , à l'exception de ceux de ces certificats dont la délivrance a été déléguée en application de l'article L. 5123-3 du code des transports . |
 
 Décret n° 2006-142 du 10 février 2006 Article 2 (quatrième alinéa). |
 
@@ -2972,6 +2972,22 @@ Article R. 125-40 |
 
 Ministre chargé de la construction et ministre chargé de l'énergie |
 
+39 |
+
+Décisions relatives à l'habilitation et au commissionnement à rechercher et constater les manquements et infractions mentionnées aux articles L. 125-2 à L. 125-4 |
+
+Code des assurances Articles L. 125-2-2 et L. 125-2-3 ; code de la construction et de l'habitation : articles R. 132-10 à R. 132-21 |
+
+Ministre chargé de la construction |
+
+40 |
+
+Sanctions administratives relatives aux obligations incombant aux experts désignés par les assureurs dans la conduite de l'expertise sur les dommages ayant eu pour cause déterminante les mouvements de terrain différentiels |
+
+Code des assurances Article L. 125-2-4 ; code de la construction et de l'habitation : articles R. 132-10 à R. 132-21 |
+
+Ministre chargé de la construction |
+
 DIVERS
 
 1 |
@@ -2988,6 +3004,6 @@ Décisions relatives aux personnes morales placées sous la tutelle ou le contr�
 
 NOTA :
 
-Conformément au premier alinéa de l'article 3 du décret n° 2023-1143 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au décret n° 2024-1103 du 3 décembre 2024, ces dispositions entrent en vigueur au 1er janvier 2025.
 
-Toutefois, les bureaux d'étude mentionnés à l'article R. 122-33 du code de la construction et de l'habitation, dans sa rédaction en vigueur à la date de publication dudit décret, peuvent établir le document attestant du respect des règles concernant l'acoustique prévu à l'article L. 122-10 jusqu'au 31 décembre 2024, sans être titulaire de l'agrément prévu à l'article L. 122-12.
+Elles s'appliquent aux sinistres résultant des causes reconnues dans les arrêtés de catastrophe naturelle pris à compter du 1er janvier 2025.
