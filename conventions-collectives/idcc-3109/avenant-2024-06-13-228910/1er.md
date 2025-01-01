@@ -1,0 +1,23 @@
+# Article 1er
+
+Il est créé un article 10 bis dans la convention collective nationale intitulé « Régime de prévoyance pour les salariés cadres » rédigé comme suit :
+
+« Article 10 bis
+
+Régime de prévoyance pour les salariés cadres
+
+Salariés bénéficiaires
+
+Les bénéficiaires des garanties prévues au présent avenant sont tous les salariés dits “ cadres ” à savoir ceux relevant des articles 2.1 et 2.2 de l'ANI Prévoyance du 17 novembre 2017, quelle que soit la nature de leur contrat de travail et sans condition d'ancienneté.
+
+Sont visés à l'alinéa précédent pour l'application du présent dispositif, les salariés des entreprises entrant dans le champ d'application de la convention collective nationale des 5 branches industries alimentaires diverses et relevant de la classification conventionnelle suivante :
+
+– techniciens/ agents de maîtrise niveau VI échelons 1 et 2 ;
+
+– cadres à partir du niveau VII échelon 1.
+
+En outre, les entreprises relevant du champ d'application du présent avenant ont la faculté de faire bénéficier aux salariés relevant de la catégorie des techniciens et agents de maîtrise dont l'emploi est classé aux niveaux IV et V (échelons 1 et 2) du présent régime de prévoyance à destination des salariés cadres (conformément à l'agrément APEC de l'avenant n° 21 du 8 décembre 2023).
+
+L'usage de cette faculté suppose pour l'entreprise, la formalisation de ce choix.
+
+Les salariés bénéficiaires du présent avenant ne relèvent pas du régime de prévoyance applicable aux salariés non-cadres. »
