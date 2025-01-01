@@ -1,0 +1,189 @@
+# Article 1er
+
+L'article 20.2. C « Montant et assiette des cotisations » du régime de prévoyance de la convention collective nationale de la charcuterie de détail est remplacé par :
+
+« Article 20.2. C
+
+Montant et assiette des cotisations
+
+Les taux de cotisation sont fixés et répartis comme suit :
+
+Régime général
+
+• Non-cadres :
+
+Garanties |
+
+Taux T1 – T2 |
+
+Décès-IAD |
+
+0,15 % |
+
+Rente éducation OCIRP
+
+(1)
+
+|
+
+0,07 % |
+
+Incapacité de travail |
+
+1,02 % |
+
+Taux global
+
+|
+
+1,24 %
+
+|
+
+La participation minimale de l'employeur s'élève à 69 % tranches 1 et 2.
+
+Dans le cadre de sa quote-part, l'employeur finance les obligations légales de maintien de salaire mises à sa charge exclusive à hauteur de 0,75 % T1/ T2.
+
+• Cadres :
+
+Garanties |
+
+Taux T1 |
+
+Taux T2 |
+
+Décès-IAD |
+
+0,88 % |
+
+0,88 % |
+
+Rente éducation OCIRP
+
+(1)
+
+|
+
+0,07 % |
+
+0,07 % |
+
+Incapacité de travail |
+
+1,20 % |
+
+1,92 % |
+
+Taux global
+
+|
+
+2,16 %
+
+|
+
+2,88 %
+
+|
+
+La participation minimale de l'employeur s'élève à 97 % de la tranche 1 et 53,5 % de la tranche 2.
+
+Dans le cadre de sa quote-part, l'employeur finance les obligations légales de maintien de salaire mises à sa charge exclusive à hauteur de 0,82 % T1 et de 1,26 % T2.
+
+Régime local
+
+• Non-cadres :
+
+Garanties |
+
+Taux T1 – T2 |
+
+Décès-IAD |
+
+0,15 % |
+
+Rente éducation OCIRP
+
+(1)
+
+|
+
+0,07 % |
+
+Incapacité de travail |
+
+1,80 % |
+
+Taux global
+
+|
+
+2,02 %
+
+|
+
+La participation minimale de l'employeur s'élève à 69 % tranches 1 et 2.
+
+Dans le cadre de sa quote-part, l'employeur finance les obligations légales de maintien de salaire mises à sa charge exclusive à hauteur de 1,14 % T1/ T2.
+
+• Cadres :
+
+Garanties |
+
+Taux T1 |
+
+Taux T2 |
+
+Décès-IAD |
+
+0,88 % |
+
+0,88 % |
+
+Rente éducation OCIRP
+
+(1)
+
+|
+
+0,07 % |
+
+0,07 % |
+
+Incapacité de travail |
+
+1,95 % |
+
+2,60 % |
+
+Taux global
+
+|
+
+2,91 %
+
+|
+
+3,56 %
+
+|
+
+La participation minimale de l'employeur s'élève à 97 % de la tranche 1 et 53,5 % de la tranche 2.
+
+Dans le cadre de sa quote-part, l'employeur finance les obligations légales de maintien de salaire mises à sa charge exclusive à hauteur de 1,14 % T1/ T2.
+
+Assiette de cotisations
+
+Est soumise à cotisation au régime de prévoyance la totalité des salaires bruts de l'ensemble du personnel concerné. Le salaire soumis à cotisation se décompose comme suit :
+
+– tranche 1 (T1) : partie du salaire dans la limite du plafond annuel de la sécurité sociale ;
+
+– tranche 2 (T2) : partie du salaire comprise entre le plafond mensuel de la sécurité sociale et quatre fois son montant.
+
+Aucune cotisation n'est due sur les prestations versées par l'organisme assureur.
+
+En application de la loi n° 89-1009 du 31 décembre 1989 et de la loi n° 94-678 du 8 août 1994, les entreprises qui rejoindront le régime de prévoyance alors qu'un ou plusieurs de leurs salariés ou anciens salariés sont en arrêt de travail à la date d'effet de leur adhésion devront en faire la déclaration auprès de l'organisme assureur. »
+
+(1) Les quatre mentions du terme « OCIRP » figurant dans les tableaux sont exclues de l'extension en tant qu'elles contreviennent aux dispositions de l'article L. 912-1 du code de la sécurité sociale.
+
+(Arrêté du 16 mai 2025 - art. 1)
