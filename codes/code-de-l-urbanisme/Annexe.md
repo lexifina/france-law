@@ -68,8 +68,6 @@ II. – Servitudes relatives à l'utilisation de certaines ressources et équipe
 
 A. – Energie.
 
-Servitudes applicables aux canalisations de transport de gaz, d'hydrocarbures et de produits chimiques en application de la section IV du chapitre V du titre V du livre V du code de l'environnement.
-
 a) Electricité.
 
 Périmètres à l'intérieur desquels ont été instituées des servitudes en application des articles L. 323-3 à L. 323-10 du code de l'énergie.
@@ -90,15 +88,11 @@ B. – Mines et carrières.
 
 Périmètres à l'intérieur desquels sont applicables les dispositions des articles L. 153-3 à L. 153-8, L. 153-14 et L. 153-15 du code minier ;
 
-Servitudes d'utilité publique prévues à l'article L. 174-5-1 du code minier ;
-
-Servitudes relatives à la protection des stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle prévues à l'article L. 264-1 du code minier.
-
 C. – Canalisations.
 
-a) Transport de gaz, d'hydrocarbures et de produits chimiques.
+a) Transport de gaz naturel ou assimilé, d'hydrocarbures et de produits chimiques.
 
-Servitudes relatives aux canalisations de transport de gaz, d'hydrocarbures et de produits chimiques instituées en application des articles L. 555-16, L. 555-27 et L. 555-28 du code de l'environnement, et de l'article 7 de la loi n° 49-1060 du 2 août 1949 relative à la construction d'un pipeline entre la Basse-Seine et la région parisienne et à la création d'une société des transports pétroliers par pipelines, ainsi que celles conservées en application de l'article L. 555-29 du code de l'environnement et mentionnées à l'article R. 555-30 de ce code.
+Servitudes relatives aux canalisations de transport de gaz naturel ou assimilé, d'hydrocarbures et de produits chimiques instituées en application des articles L. 555-27 et L. 555-28 du code de l'environnement, ainsi que celles maintenues en application de l'article L. 555-29 du code de l'environnement et mentionnées à l'article R. 555-30 du même code.
 
 b) Eaux et assainissement.
 
@@ -220,4 +214,14 @@ Servitudes de passage et d'aménagement instituées en application de l'article 
 
 Servitudes d'utilité publique relatives aux “ zones de danger ”, instituées en application des articles L. 567-4 à L. 567-6 du code de l'environnement.
 
+Servitudes d'utilité publique relatives à la maîtrise de l'urbanisation autour des canalisations de transport de gaz naturel ou assimilé, d'hydrocarbures et de produits chimiques instituées en application de l'article L. 555-16 du code de l'environnement.
+
+Servitudes d'utilité publique relatives à la sécurité et à la prévention des risques miniers applicables aux travaux miniers instituées en application de l'article L. 174-5-1 du code minier.
+
+Servitudes relatives à la sécurité et à la prévention des risques pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux, d'hydrogène ou de produits chimiques à destination industrielle ou énergétique instituées en application de l'article L. 264-1 du code minier.
+
 Un arrêté du ministre chargé de l'urbanisme fixe la légende des différentes servitudes d'utilité publique figurant sur cette liste.
+
+NOTA :
+
+Conformément à l’article 7 du décret n° 2024-1022 du 13 novembre 2024 (NOR : TECP2409386D), ces dispositions entrent en vigueur le 1er janvier 2025.
