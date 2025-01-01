@@ -1,0 +1,23 @@
+# Article 1er
+
+Les dispositions de l'article 41.1 de la convention collective sont remplacées par les dispositions suivantes :
+
+« Article 41.1
+
+Méthode de calcul du salaire minimum conventionnel
+
+Les partenaires sociaux rappellent qu'en toute hypothèse les salariés ne peuvent bénéficier d'une rémunération d'un montant inférieur au salaire minimum de croissance.
+
+Les négociations sont menées pour permettre de déterminer conventionnellement les salaires minimums applicables au personnel en fonction de leur classification et fondée sur :
+
+– une valeur de base du point applicable aux seuls 214 premiers points de chaque coefficient dite “ valeur de référence ” ;
+
+– une deuxième valeur de point dite “ valeur complémentaire ” applicable au-delà des 214 premiers points.
+
+Ces valeurs de points, multipliés par le coefficient correspondant à un emploi, permettent de déterminer le salaire minimum conventionnel applicable.
+
+À compter du 1er janvier 2025 :
+
+– la valeur du point dite “ valeur de référence ” est fixée à 8,65 euros ;
+
+– la valeur du point dite “ valeur complémentaire ” est fixée à 8,19 euros. »
