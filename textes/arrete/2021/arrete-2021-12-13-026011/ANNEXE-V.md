@@ -240,7 +240,7 @@ Le stage en milieu professionnel se déroule au sein d'un ou de plusieurs office
 
 -l'office notarial confie à l'étudiant des activités professionnelles correspondant au référentiel et au niveau d'exigence du diplôme et participe à l'évaluation de certaines compétences au travers d'échanges écrits avec l'équipe pédagogique ;
 
--l'étudiant définit, avec l'office notarial et l'équipe pédagogique, les objectifs de son immersion et de son activité. Il rend compte de ses observations et de ses activités au travers de différents documents (voir définition des épreuves E3 et E4) ;
+-l'étudiant définit, avec l'office notarial et l'équipe pédagogique, les objectifs de son immersion et de son activité. Il rend compte de ses observations et de ses activités au travers de différents documents (voir définition des épreuves E4, E5 et E6) ;
 
 -l'équipe pédagogique encadre, conseille, met en cohérence et articule les différentes modalités d'appropriation des compétences. Chaque stagiaire a un enseignant référent pour l'accompagnement de son stage.
 
@@ -327,3 +327,7 @@ La durée obligatoire du stage en milieu professionnel peut être réduite, soit
 -Candidats ayant échoué à une session antérieure de l'examen
 
 Les candidats ayant échoué à une session antérieure de l'examen, notamment les candidats scolaires, devront à nouveau effectuer les stages que leur établissement organise.
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 8 juillet 2024 (NOR : ESRS2414601A), ces dispositions s'appliquent à compter de la session d'examen 2025.

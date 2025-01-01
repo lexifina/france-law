@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-Présentation synthétique du diplôme
+PRÉSENTATION SYNTHÉTIQUE DU DIPLÔME
 
 Brevet de technicien supérieur " Collaborateur juriste notarial "
 
@@ -14,17 +14,23 @@ UNITÉS |
 
 Pôle d'activités 1
 
-Accompagnement du client selon les règles déontologiques
+Accompagnement du client
+
+selon les règles déontologiques |
+
+Bloc de compétences 1
+
+Accompagnement du client
+
+selon les règles déontologiques |
+
+|
 
 -Explication au client du statut d'officier public et ministériel et de la mission de service public du notaire
 
 -Accueil et accompagnement du client en respectant les règles de déontologie
 
 -Gestion de dossiers dans le respect des règles de déontologie et de sécurité des données |
-
-Bloc de compétences 1
-
-Accompagnement du client selon les règles déontologiques
 
 -Comprendre le principe de délégation de la puissance publique
 
@@ -50,13 +56,25 @@ Accompagnement du client selon les règles déontologiques
 
 -Collaborer au sein d'un collectif de travail |
 
-U4
+U6
 
-Accompagnement du client selon les règles déontologiques |
+Accompagnement du client
+
+selon les règles déontologiques |
 
 Pôle d'activités 2
 
-Conduite d'un dossier en droit des personnes, de la famille et du patrimoine familial
+Conduite d'un dossier en droit des personnes,
+
+de la famille et du patrimoine familial |
+
+Bloc de compétences 2
+
+Conduite d'un dossier en droit des personnes,
+
+de la famille et du patrimoine familial |
+
+|
 
 -Pratique du droit de la filiation
 
@@ -69,10 +87,6 @@ Conduite d'un dossier en droit des personnes, de la famille et du patrimoine fam
 -Conduite d'un dossier de libéralités
 
 -Règlement d'une succession |
-
-Bloc de compétences 2
-
-Conduite d'un dossier en droit des personnes, de la famille et du patrimoine familial
 
 -Rédiger des projets d'actes notariés spécifiques en matière de filiation
 
@@ -102,13 +116,29 @@ Conduite d'un dossier en droit des personnes, de la famille et du patrimoine fam
 
 -Contribuer à la gestion de l'indivision |
 
-U5
+U7
 
-Conduite d'un dossier en droit des personnes, de la famille et du patrimoine familial |
+Conduite d'un dossier en droit des personnes,
+
+de la famille et du patrimoine familial |
 
 Pôle d'activités 3
 
-Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise
+Conduite d'un dossier en droit
+
+des biens dans le domaine immobilier
+
+ou de l'entreprise |
+
+Bloc de compétences 3
+
+Conduite d'un dossier en droit des biens
+
+dans le domaine immobilier
+
+ou de l'entreprise |
+
+|
 
 -Pratique des opérations immobilières
 
@@ -124,15 +154,11 @@ Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entr
 
 -Pratique des actes notariés en présence d'une entreprise |
 
-Bloc de compétences 3
-
-Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise
-
 -Analyser le contexte d'une opération immobilière
 
 -Analyser un bail déjà conclu
 
--Établir un bail en veillant à la protection des parties
+-Etablir un bail en veillant à la protection des parties
 
 -Assurer l'efficacité juridique des contrats préparatoires
 
@@ -152,15 +178,23 @@ Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entr
 
 -Prendre en compte le statut juridique de l'entreprise dans la conduite d'un dossier |
 
-Unité U6
+Unité U8
 
-Conduite d'un dossier en droit des biens dans le domaine immobilier ou de l'entreprise |
+Conduite d'un dossier en droit des biens
+
+dans le domaine immobilier
+
+ou de l'entreprise |
 
 |
 
 Bloc de compétences 4
 
-Culture générale et expression
+Culture générale et expression |
+
+|
+
+|
 
 -Appréhender et réaliser un message écrit :
 
@@ -184,7 +218,11 @@ Culture générale et expression |
 
 Bloc de compétences 5
 
-Communication en langue vivante étrangère anglaise (écrit)
+Communication en langue vivante étrangère anglaise (écrit) |
+
+|
+
+|
 
 Niveau B2 du CECRL pour les activités langagières suivantes :
 
@@ -192,15 +230,23 @@ Niveau B2 du CECRL pour les activités langagières suivantes :
 
 . Production et interactions écrites |
 
-U21
+U2
 
-Compréhension de l'écrit et expression écrite |
+Langue vivante étrangère anglaise :
+
+Compréhension de l'écrit
+
+et expression écrite |
 
 |
 
 Bloc de compétences 6
 
-Communication en langue vivante étrangère anglaise (oral)
+Communication en langue vivante étrangère anglaise (oral) |
+
+|
+
+|
 
 Niveau B2 du CECRL pour les activités langagières suivantes :
 
@@ -208,15 +254,19 @@ Niveau B2 du CECRL pour les activités langagières suivantes :
 
 . Interaction orale |
 
-U22
+U3
 
-Production orale en continu et interaction |
+Langue vivante étrangère anglaise : Production orale en continu et interaction |
 
 |
 
 Bloc de compétences 7
 
-Éléments fondamentaux du droit
+Eléments fondamentaux du droit |
+
+|
+
+|
 
 -Compétences méthodologiques transversales :
 
@@ -240,15 +290,19 @@ Bloc de compétences 7
 
 . Analyser un acte juridique |
 
-U31
+U4
 
-Éléments fondamentaux du droit |
+Eléments fondamentaux du droit |
 
 |
 
 Bloc de compétences 8
 
-Environnement de l'activité notariale
+Environnement de l'activité notariale |
+
+|
+
+|
 
 -Analyser des données économiques et sociales de formes variées (tableaux de données chiffrées, graphiques, cartes, schémas, etc.) issues de sources institutionnelles ou scientifiquement fondées
 
@@ -260,13 +314,19 @@ Environnement de l'activité notariale
 
 -Construire un écrit argumenté et structuré |
 
-U32
+U5
 
 Environnement de l'activité notariale |
 
 |
 
-Bloc facultatif Langue vivante étrangère 2
+Bloc facultatif
+
+Langue vivante étrangère 2 |
+
+|
+
+|
 
 Niveau B2 du CECRL pour les activités langagières suivantes :
 
@@ -284,8 +344,14 @@ LV2 |
 
 |
 
-Bloc facultatif Engagement étudiant |
+Bloc facultatif
+
+Engagement étudiant |
 
 Unité UF2
 
 Engagement étudiant |
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 8 juillet 2024 (NOR : ESRS2414601A), ces dispositions s'appliquent à compter de la session d'examen 2025.
