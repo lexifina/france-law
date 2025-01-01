@@ -104,23 +104,21 @@ Tableau 2.1. Informations d'autosurveillance à recueillir en entrée et/ou sort
 
 |
 
-CAPACITÉ NOMINALE DE LA STATION (KG/J DE DBO5) |
+CAPACITÉ NOMINALE DE LA STATION (KG/ J DE DBO5) |
 
-< 30
+< 12 |
 
-|
+≥ 12 et < 30 |
 
-≥ 30 et
+≥ 30 et < 120 |
 
-< 120 |
-
-≥ 120 et
-
-< 600 |
+≥ 120 et < 600 |
 
 ≥ 600 |
 
 Estimation du débit en entrée ou en sortie |
+
+X (1) |
 
 X (1) |
 
@@ -131,6 +129,8 @@ X (1) |
 |
 
 Mesure du débit en entrée ou en sortie |
+
+|
 
 |
 
@@ -146,15 +146,19 @@ Mesure et enregistrement en continu du débit en entrée et sortie |
 
 |
 
+|
+
 X (2) |
 
 X |
 
 Mesure des caractéristiques des eaux usées (paramètres mentionnés à l'annexe 2) en entrée et en sortie |
 
-X (3) (5) |
+X (3) |
 
-X (3) (4) |
+X (3) (4) (5) (6) |
+
+X (3) (4) (6) |
 
 X (4) |
 
@@ -166,13 +170,11 @@ X (4) |
 
 (3) Le recours à des préleveurs mobiles est autorisé.
 
-(4) Les mesures sont effectuées sur des échantillons représentatifs constitués sur 24 heures, avec des préleveurs automatiques réfrigérés ou isothermes (maintenus à 5° +/- 3) et asservis au débit. Le maître d'ouvrage doit conserver au froid pendant 24 heures un double des échantillons prélevés sur la station.
+4) Les mesures sont effectuées sur des échantillons représentatifs constitués sur 24 heures, avec des préleveurs automatiques réfrigérés ou isothermes (maintenus à 5° +/-3) et asservis au débit. Le maître d'ouvrage doit conserver au froid pendant 24 heures un double des échantillons prélevés sur la station. La mesure des caractéristiques des eaux usées concerne les paramètres listés à l'annexe 2.
 
-La mesure des caractéristiques des eaux usées concerne les paramètres listés à l'annexe 2 et est effectuée conformément au cahier des charges, consultable sur le site internet du ministère en charge de l'environnement à l'adresse suivante : https :// www. assainissement. developpement-durable. gouv. fr.
+(5) Cette disposition ne s'applique qu'aux stations de capacité nominale de traitement supérieure à 12 kg de DBO5/ j nouvelles, faisant l'objet de travaux de réhabilitation ou déjà aménagées.
 
-(5) Cette disposition ne s'applique qu'aux stations de capacité nominale de traitement supérieure à 12 kg de DBO5/j nouvelles, faisant l'objet de travaux de réhabilitation ou déjà aménagées.
-
-(6) Les mesures sont réalisées conformément au cahier des charges, consultable sur le site internet du ministère en charge de l'environnement à l'adresse suivante : https :// www. assainissement. developpement-durable. gouv. fr. |
+(6) Les mesures sont réalisées conformément au cahier des charges, consultable sur le site internet du ministère en charge de l'environnement à l'adresse suivante : https://www.assainissement.developpement-durable.gouv.fr. |
 
 Tableau 2.2. Informations d'autosurveillance à recueillir relatives aux apports extérieurs sur la file eau (matières de vidange, matières de curage…)
 
@@ -310,4 +312,6 @@ X |
 
 NOTA :
 
-Conformément à l'article 19 de l'arrêté du 31 juillet 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
+Conformément à l'article 4 de l'arrêté du 24 décembre 2024 (NOR : TECL2432470A), ces dispositions entrent en vigueur le 1er janvier 2025.
+
+Conformément à l’article 1er du décret n° 2024-1264 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement à compter de leur publication au Journal officiel de la République française.
