@@ -294,6 +294,8 @@ Les locaux, voies de circulation et aires de stationnement sont maintenus propre
 
 L'exploitant doit tenir à jour un registre indiquant la nature et la quantité des produits dangereux détenus, auquel est annexé un plan général des stockages. Ce registre est tenu à la disposition des services d'incendie et de secours et consigné dans le dossier "installations classées" prévu au point 1.4.
 
+En complément de ce registre, l'exploitant tient la comptabilité des stocks présents sur l'exploitation par différence à partir des bons de pesée établis. L'état des déchets stockés est mis à jour au moins de manière hebdomadaire et accessible à tout moment, y compris en cas d'incident, accident, pertes d'utilité ou tout autre événement susceptible d'affecter l'installation. Pour les déchets dangereux, cet état est mis à jour au moins de manière quotidienne. Un bilan annuel tenu à disposition à l'inspection des installations classées indique nominativement la liste des sites destinataires des déchets.
+
 La présence dans l'installation de matières dangereuses ou combustibles est limitée au plus juste des besoins de l'exploitation.
 
 Objet du contrôle :

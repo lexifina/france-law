@@ -348,7 +348,7 @@ Objet du contrôle :
 
 Les aires de réception, de transit, regroupement et tri des déchets sont distinctes et clairement repérées. Les zones d'entreposage sont distinguées en fonction du type de déchet, de l'opération réalisée (tri effectué ou non par exemple) et du débouché si pertinent (élimination, recyclage par exemple).
 
-L'exploitant dispose de moyens nécessaires pour évaluer le volume de ses stocks (bornes, piges, etc.).
+En compléments du registre prévu l'article R. 541-43 du code de l'environnement, l'exploitant tient la comptabilité des stocks présents sur l'exploitation par différence à partir des bons de pesée établis. L'état des déchets stockés est mis à jour au moins de manière hebdomadaire et accessible à tout moment, y compris en cas d'incident, accident, pertes d'utilité ou tout autre événement susceptible d'affecter l'installation. Pour les déchets dangereux, cet état est mis à jour, au moins, de manière quotidienne. Un bilan annuel tenu à disposition de l'inspection des installations classées indique nominativement la liste des sites destinataires des déchets.
 
 La hauteur des déchets entreposés n'excède pas trois mètres si le dépôt est à moins de 100 mètres d'un bâtiment à usage d'habitation. Dans tous les cas, la hauteur n'excède pas six mètres.
 
@@ -362,7 +362,7 @@ Objet du contrôle :
 
 - vérification que la hauteur des déchets entreposés n'excède pas trois mètres si le dépôt est à moins de 100 mètres d'un bâtiment à usage d'habitation et six mètres dans les autres cas ;
 
-- présence des moyens nécessaires pour évaluer le volume de ses stocks (bornes, piges, etc.) ;
+-présence de l'état des déchets stockés ;
 
 - couverture des zones d'entreposage quand cela s'avère justifié.
 
