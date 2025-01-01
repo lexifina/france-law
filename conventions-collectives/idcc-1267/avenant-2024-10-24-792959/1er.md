@@ -1,0 +1,39 @@
+# Article 1er
+
+Les cotisations sont établies sur la base de la législation de l'assurance maladie et de la réglementation fiscale en vigueur au moment de la prise d'effet du présent régime.
+
+Les cotisations seront revues sans délai en cas de changement de ces textes.
+
+Les parties signataires pourront également convenir d'une révision des garanties en tout ou partie.
+
+À compter du 1er janvier 2025, la cotisation mensuelle du régime « remboursement complémentaire frais de soins de santé » est fixée à :
+
+• 1,49 % du PMSS pour les salariés relevant du régime général et de 0,97 % du PMSS pour les salariés relevant du régime Alsace-Moselle.
+
+Au 1er janvier de chaque année, la cotisation sera indexée au minimum sur le dernier indice connu de l'évolution des dépenses de santé une fois par an par les parties signataires, en fonction des résultats du régime et
+
+(1) de l'évolution des dépenses de santé communiqué par les caisses nationales d'assurance maladie sauf si les résultats du régime compensent l'évolution de cet indice
+
+(1). Le montant de la cotisation sera revu par les parties en fonction notamment de l'évolution de la législation et des résultats du régime
+
+(1).
+
+La contribution de l'employeur devra être au minimum de 50 % de la cotisation.
+
+Par dérogation à la répartition de la cotisation définie dans l'entreprise, les employeurs pourront prendre en charge l'intégralité de la cotisation due par les salariés à temps très partiel qui sinon auraient dû acquitter une cotisation au moins égale à 10 % de leur rémunération.
+
+Les cotisations sont payables trimestriellement à terme échu. Elles doivent être versées à l'organisme assureur dans le premier mois de chaque trimestre civil pour le trimestre écoulé.
+
+Les cotisations sont dues pour la totalité du mois au cours duquel les garanties sont accordées.
+
+L'organisme assureur, en application de l'article L. 932-9 du code de la sécurité sociale, procédera, le cas échéant, au recouvrement des cotisations dues par l'entreprise en cas de non paiement dans les délais.
+
+(2)
+
+(1) Les mots « des résultats du régime et », les mots « sauf si les résultats du régime compensent l'évolution de cet indice », ainsi que les mots « et des résultats du régime » sont exclus de l'extension en tant qu'ils contreviennent aux dispositions de l'article L. 912-1 du code de la sécurité sociale. En l'absence de recommandation, les parties sont libres de fixer des taux de cotisation et des niveaux de garantie, mais elles ne pilotent pas un régime mutualisé qui n'a pas d'existence conventionnelle au sein de la branche.
+
+(Arrêté du 15 juillet 2025 - art. 1)
+
+(2) Le dernier alinéa est étendu sous réserve d'une part, s'agissant des mentions relatives au non-paiement des cotisations, du régime juridique applicable à l'organisme assureur librement choisi par l'employeur et d'autre part, de l'article 1er de la loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques, relatif aux organismes habilités à mettre en œuvre une couverture collective de protection sociale.
+
+(Arrêté du 15 juillet 2025 - art. 1)
