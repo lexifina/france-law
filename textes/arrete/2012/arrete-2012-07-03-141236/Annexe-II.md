@@ -1,97 +1,45 @@
 # Article Annexe II
 
-LISTE DES SECTEURS SCIENTIFIQUES ET TECHNIQUES PROTÉGÉS
+LISTE DES CATÉGORIES D'INFORMATIONS NÉCESSAIRES À LA PROTECTION DU POTENTIEL SCIENTIFIQUE ET TECHNIQUE DE LA NATION ET LEURS MODALITÉS DE TRANSMISSION
 
-Les secteurs scientifiques et techniques protégés sont identifiés par un nombre.
+Le haut fonctionnaire de défense et de sécurité mentionné dans cette annexe est celui rattaché au ministre compétent pour déterminer le besoin de protection.
 
-Biologie, médecine et santé :
+Des directives ministérielles précisent les supports de transmission des informations nécessitant une protection particulière (demande d'accès en zone à régime restrictif, éléments relatifs à la vie privée ou au secret des affaires ou industriel) entre le haut fonctionnaire de défense et de sécurité et le chef de service, d'établissement ou d'entreprise ainsi que le processus de traitement de l'information relative aux incidents de sécurité en zone à régime restrictif.
 
-11. - Aspects moléculaires et cellulaires de la biologie.
+I. - Informations communiquées au haut fonctionnaire de défense et de sécurité
 
-12. - Biomolécules, pharmacologie, thérapeutique.
+Au sein d'un secteur scientifique et technique protégé, le chef de service, d'établissement ou d'entreprise informe le haut fonctionnaire de défense et de sécurité des projets relatifs :
 
-13. - Physiologie, biologie des organismes, populations, interactions.
+- aux coopérations internationales de nature scientifique ou technique ;
 
-14. - Recherche clinique, innovation technologique, santé publique.
+- à la création d'une unité ou aux modifications nécessitant une nouvelle évaluation du niveau de protection ;
 
-Chimie :
+- à toute procédure collective susceptible de donner lieu à la fermeture ou à la cession, totale ou partielle, d'une unité.
 
-21. - Chimie des matériaux.
+Le responsable de l'activité d'enseignement ou le chef de service ou d'établissement informe le haut fonctionnaire de défense et de sécurité des autorisations d'inscription qu'il accorde aux formations relevant d'un secteur scientifique et technique protégé et dispensées dans une unité protégée.
 
-22. - Chimie organique, minérale, industrielle.
+Des directives ministérielles précisent les modalités d'information préalable de certaines visites dans les zones à régime restrictif.
 
-23. - Chimie théorique, physique, analytique.
+II. - Données consultables par le haut fonctionnaire de défense et de sécurité
 
-24. - Génie des matériaux.
+Au sein d'un secteur scientifique et technique protégé, le chef de service, d'établissement ou d'entreprise fournit sur demande du haut fonctionnaire de défense et de sécurité les informations lui permettant d'évaluer le besoin de protection (notamment les plans des locaux, la description des activités, les partenaires impliqués dans ces activités, les effectifs et mesures de protection physique et de cybersécurité mises en œuvre).
 
-Mathématiques et leurs interactions :
+Le haut fonctionnaire de défense et de sécurité peut notamment consulter :
 
-31. - Mathématiques et leurs interactions.
+- les répertoires des visites dans les unités protégées ;
 
-Physique :
+- les conventions de fonctionnement et de financement des unités protégées ;
 
-41. - Constituants élémentaires et physique théorique.
+- les documents organisant la sécurité au sein d'une unité protégée, en particulier son règlement intérieur ;
 
-42. - Plasmas chauds.
+- la liste des coopérations internationales de nature scientifique ou technique en cours ou à venir ;
 
-43. - Milieux denses, matériaux et composants.
+- la politique de sécurité des systèmes d'information d'un service, établissement ou entreprise abritant une zone à régime restrictif.
 
-44. - Milieux dilués et optique fondamentale.
+III. - Bilans annuels
 
-45. - Physique nucléaire.
+Des directives ministérielles précisent les modalités de transmission des éléments statistiques annuels concernant la protection du potentiel scientifique et technique adressés par le chef de service, d'établissement ou d'entreprise d'une unité protégée au haut fonctionnaire de défense et de sécurité.
 
-Sciences agronomiques et écologiques :
+NOTA :
 
-51. - Biologie de l'environnement, des populations, écologie.
-
-52. - Biologie des organismes ; biotechnologies animales, végétales et microbienne.
-
-53. - Biotechnologies agroalimentaires, sciences de l'aliment.
-
-Sciences de la terre et de l'univers, espace :
-
-61. - Astronomie, astrophysique.
-
-62. - Terre solide et enveloppes superficielles.
-
-63. - Terre, enveloppes fluides.
-
-Sciences et technologies de l'information et de la communication :
-
-71. - Automatique, productique.
-
-72. - Traitement du signal et des images.
-
-73. - Electronique, microélectronique, nanoélectronique et micro-ondes.
-
-74. - Micro-nanosystèmes et capteurs.
-
-75. - Systèmes optiques et photoniques.
-
-76. - Informatique et applications.
-
-Sciences pour l'ingénieur :
-
-81. - Génie des procédés.
-
-82. - Plasmas froids.
-
-83. - Electronique de puissance.
-
-84. - Génie électrique.
-
-85. - Acoustique.
-
-86. - Bio-mécanique et bio-ingénierie.
-
-87. - Energétique, thermique, combustion.
-
-88. - Mécanique des milieux fluides.
-
-89. - Génie civil.
-
-810. - Génie mécanique, productique, transport.
-
-811. - Mécanique des solides, des matériaux, des structures et des surfaces.
-
-812. - Missiles, armes, sciences et techniques de défense.
+Conformément à l'article 2 de l'arrêté du 24 octobre 2024 (NOR : PRMD2414680A), ces dispositions entrent en vigueur le 1er janvier 2025.
