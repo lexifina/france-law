@@ -1,0 +1,21 @@
+# Article 1er
+
+Les dispositions de l'article 2 « Bénéficiaires » de l'accord précité sont ainsi modifiées comme suit :
+
+« Article 2
+
+Bénéficiaires
+
+Par dérogation aux dispositions de l'accord national, les dispositions du présent accord s'appliquent aux salariés ne relevant pas des articles 2.1 et 2.2 de l'accord national interprofessionnel (ANI) relatif à la prévoyance des cadres du 17 novembre 2017 :
+
+– justifiant d'une ancienneté de 3 mois continus dans l'entreprise pour les garanties incapacité temporaire et permanente de travail ;
+
+– sans condition d'ancienneté pour les garanties décès,
+
+À l'exclusion :
+
+– des salariés relevant des articles 2.1 et 2.2 de l'accord national interprofessionnel (ANI) relatif à la prévoyance des cadres du 17 novembre 2017, techniciens, agents de maîtrise et cadres ressortissants de la convention collective du 2 avril 1952 et relevant du régime Agirc-Arrco, et bénéficiant à ce titre du régime de prévoyance défini dans la convention précitée ;
+
+– des VRP ressortissants d'autres dispositions conventionnelles obligatoires. »
+
+Les autres dispositions du présent article demeurent inchangées.
