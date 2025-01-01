@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent avenant s'applique à l'ensemble des entreprises entrant dans le champ d'application de la convention collective nationale (CCN) des entreprises du négoce et de l'industrie des produits du sol, engrais et produits connexes (IDCC 1077).
