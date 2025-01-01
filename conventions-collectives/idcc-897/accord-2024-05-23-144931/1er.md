@@ -1,0 +1,29 @@
+# Article 1er
+
+Les partenaires sociaux décident de modifier l'article 20 de la CCN comme suit :
+
+« Article 20
+
+Classification des emplois
+
+Les salariés sont classés dans l'une des deux filières suivantes :
+
+– filière prévention ;
+
+– filière support.
+
+L'annexe I à la présente convention collective énumère les différents emplois conventionnels, leurs missions générales, leurs activités et les formations ou l'expérience.
+
+Ces emplois ont été évalués en commission paritaire permanente de négociation et d'interprétation (CPPNI).
+
+L'emploi réellement occupé par le salarié doit nécessairement être rattaché à un emploi conventionnel, le cas échéant, par assimilation.
+
+Par assimilation, il faut entendre la recherche de l'emploi le plus approchant au regard des activités réellement et concrètement exercées. C'est le contenu du travail, tel qu'il est mentionné dans les fiches descriptives, qui conduit à la détermination de l'emploi conventionnel d'affectation et non le seul intitulé. De même, le diplôme mentionné dans les fiches descriptives constitue un repère en référence à l'éducation nationale. Il n'est pas requis (à l'exception des emplois réglementés) et ne garantit pas l'affectation à un emploi conventionnel pour le titulaire du diplôme évoqué.
+
+Il est précisé que les SPSTI ne peuvent créer d'autres emplois conventionnels que ceux prévus dans la présente convention collective. En revanche, les partenaires sociaux de la branche peuvent, si nécessaire, décider de créer de nouveaux emplois conventionnels.
+
+En cas de pluralité d'emplois exercés de façon permanente par le même salarié, ce dernier bénéficie de la classe la plus élevée d'entre eux et de la rémunération minimale annuelle garantie correspondante.
+
+De plus jusqu'à la classe D incluse, le salarié cumulant deux emplois d'une même classe ou de deux classes différentes bénéficie d'une prime de 5 % calculée sur la base de la rémunération minimale annuelle garantie de la classe correspondante ou de la classe la plus élevée des deux. Cette prime s'ajoute au salaire mensuel réel.
+
+Enfin, chaque salarié a la possibilité d'accéder au niveau 2 des emplois repères dans les conditions fixées par l'article 20.1 de la présente convention ».
