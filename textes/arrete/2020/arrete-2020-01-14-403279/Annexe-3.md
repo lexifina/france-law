@@ -32,7 +32,7 @@ Devis détaillé des travaux |
 
 Formulaire CERFA de désignation d'un mandataire de gestion |
 
-A compter du 1er janvier 2025, uniquement pour les travaux et prestations visés du 2 au 12 de l'annexe 1 du décret du 14 janvier 2020 susvisé, hors logements situés en Guadeloupe, en Martinique, à La Réunion ou à Mayotte et hors travaux ou prestations visés aux troisième et quatrième alinéas du V de l'article 1 du décret du 14 janvier 2020 susvisé : diagnostic de performance énergétique ou audit énergétique visés au 3° du I de l'article 4 du présent arrêté |
+A compter du 1er janvier 2026, uniquement pour les travaux et prestations visés du 2 au 12 de l'annexe 1 du décret du 14 janvier 2020 susvisé, hors logements situés en Guadeloupe, en Martinique, à La Réunion ou à Mayotte et hors travaux ou prestations visés aux troisième et quatrième alinéas du V de l'article 1 du décret du 14 janvier 2020 susvisé : diagnostic de performance énergétique ou audit énergétique visés au 3° du I de l'article 4 du présent arrêté |
 
 Uniquement pour les travaux et prestations visés du 2 au 13-2 de l'annexe 1 du décret du 14 janvier 2020 susvisé : cadre de contribution CEE ou MDE, le cas échéant |
 
@@ -88,4 +88,4 @@ Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 21 mars 2024 (NOR : TREL2405736A), ces dispositions entrent en vigueur le 15 mai 2024 et s'appliquent aux demandes de primes déposées à compter de cette même date.
+Conformément à l’article 6 de l’arrêté du 4 décembre 2024 (NOR : LRUL2427040A), ces dispositions entrent en vigueur le 1er janvier 2025 et s'appliquent aux demandes de primes déposées à compter de cette même date.

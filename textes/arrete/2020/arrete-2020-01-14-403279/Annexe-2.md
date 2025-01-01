@@ -56,11 +56,11 @@ Chaudières à alimentation automatique fonctionnant au bois ou autres biomasse,
 
 |
 
-7 000 € |
+5 000 € |
 
-5 500 € |
+3 850 € |
 
-3 000 € |
+2 100 € |
 
 X |
 
@@ -68,11 +68,11 @@ X |
 
 Chaudières à alimentation manuelle fonctionnant au bois ou autres biomasse, mentionnées au b du 2 de l'annexe 1 |
 
-5 500 € |
+3 750 € |
 
-4 500 € |
+3 150 € |
 
-2 000 € |
+1 400 € |
 
 X |
 
@@ -92,11 +92,11 @@ Equipements de chauffage ou de fourniture d'eau chaude sanitaire indépendants f
 
 Poêles à granulés, cuisinières à granulés |
 
-1 800 € |
-
-1 500 € |
+1 250 € |
 
 1 000 € |
+
+750 € |
 
 X |
 
@@ -104,11 +104,11 @@ X |
 
 Poêles à bûches, cuisinières à bûches |
 
-1 800 € |
+1 250 € |
 
-1 500 € |
+1 000 € |
 
-700 € |
+500 € |
 
 X |
 
@@ -116,11 +116,11 @@ X |
 
 Foyers fermés, inserts |
 
-1 800 e |
+1 250 € |
 
-1 000 € |
+750 € |
 
-600 € |
+500 € |
 
 X |
 
@@ -372,13 +372,15 @@ Tableau 2.-Dépense visée au 15 de l'annexe 1 du décret n° 2020-26 du 14 janv
 
 |
 
-Plafond de dépense éligible (€ HT) |
+Plafond de dépense éligible (HT) |
 
-Ménages aux ressources
+Ménages
 
-intermédiaires |
+aux ressources intermédiaires |
 
-Ménages aux ressources supérieures |
+Ménages
+
+aux ressources supérieures |
 
 Ensemble de travaux associé à un gain de 2 classes au sens du I de l'article 3 du présent arrêté |
 
@@ -386,7 +388,7 @@ Ensemble de travaux associé à un gain de 2 classes au sens du I de l'article 3
 
 45 % de la dépense éligible |
 
-30 % de la dépense éligible |
+10 % de la dépense éligible |
 
 Ensemble de travaux associé à un gain de 3 classes au sens du I de l'article 3 du présent arrêté |
 
@@ -394,11 +396,13 @@ Ensemble de travaux associé à un gain de 3 classes au sens du I de l'article 3
 
 50 % de la dépense éligible |
 
-35 % de la dépense éligible |
+15 % de la dépense éligible |
 
 Ensemble de travaux associé à un gain de 4 classes ou plus au sens du I de l'article 3 du présent arrêté |
 
 70 000 € |
+
+20 % de la dépense éligible |
 
 Majoration visée au septième alinéa du I de l'article 3 du décret du 14 janvier 2020 |
 
@@ -430,4 +434,6 @@ Mission d'accompagnement par un opérateur agréé prévue à l'article L. 232-3
 
 NOTA :
 
-Conformément au premier alinéa de l’article 16 de l’arrêté du 29 décembre 2023 (NOR : TREL2332041A), ces dispositions entrent en vigueur le 1er janvier 2024 et s'appliquent aux demandes de prime déposées à compter de cette même date.
+Conformément à l’article 6 de l’arrêté du 4 décembre 2024 (NOR : LRUL2427040A), ces dispositions entrent en vigueur le 1er janvier 2025 et s'appliquent aux demandes de primes déposées à compter de cette même date.
+
+Par décision n° 501151 du 11 mars 2026 du Conseil d’Etat statuant au contentieux, ECLI:FR:CECHR:2026:501151.20260311, le 1° de l’article 4 de l’arrêté du 4 décembre 2024 (NOR : LRUL2427040A) modifiant l'arrêté du 14 janvier 2020 relatif à la prime de transition énergétique est annulé.
