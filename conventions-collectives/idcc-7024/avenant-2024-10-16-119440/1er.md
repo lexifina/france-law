@@ -1,0 +1,17 @@
+# Article 1er
+
+L'article 3 « Salariés bénéficiaires » est modifié et réécrit comme suit :
+
+« Article 3
+
+Salariés bénéficiaires
+
+Les dispositions du présent accord, au titre des garanties santé, s'appliquent à tous les salariés ne relevant pas des articles 2.1 et 2.2 de l'accord national interprofessionnel relatif à la prévoyance des cadres du 17 novembre 2017, et qui relèvent du champ d'application du présent accord, sans condition d'ancienneté,
+
+à l'exclusion :
+
+– des salariés relevant des articles 2.1 et 2.2 de l'accord national interprofessionnel (ANI) relatif à la prévoyance des cadres du 17 novembre 2017 et des techniciens, agents de maitrise et cadres relevant de la convention collective du 2 avril 1952 et du régime Agirc-Arrco, et bénéficiant à ce titre du régime de prévoyance défini dans la convention précitée ;
+
+– des salariés non cadres définis ci-dessus relevant d'un accord collectif étendu plus favorable que le présent accord ;
+
+– des VRP et bûcherons-tâcherons relevant d'autres dispositions conventionnelles. »
