@@ -138,7 +138,7 @@ Commission compétente en matière de finances publiques
 
 |
 
-Présidence de l'Autorité de sûreté nucléaire
+Présidence de l'Autorité de sûreté nucléaire et de radioprotection
 
 |
 
@@ -324,14 +324,6 @@ Commission compétente en matière de recherche
 
 |
 
-Direction générale de l'Institut de radioprotection et de sûreté nucléaire
-
-|
-
-Commission compétente en matière d'environnement
-
-|
-
 Direction générale de l'institution nationale publique mentionnée à l'article L. 5312-1 du code du travail (Pôle emploi)
 
 |
@@ -422,4 +414,4 @@ Commission compétente en matière de transports
 
 NOTA :
 
-Conformément au C du II de l'article de la loi n° 2024-450 du 21 mai 2024, ces dispositions ne s'appliquent pas au mandat de président du conseil d'administration de la société Orano en cours à la date de publication de la présente loi.
+Conformément à l’article 20 de la loi n° 2024-450 du 21 mai 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
