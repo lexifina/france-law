@@ -1,0 +1,11 @@
+# Article 27 bis
+
+Sur la base du critère 1° de l'article R. 242-1-1 du code de la sécurité sociale, lequel prévoit la possibilité d'intégrer des salariés à la catégorie des cadres pour le bénéfice des garanties collectives de protection sociale complémentaire prévoyance (art. L. 911-1) par accord de branche et sous réserve que celui-ci reçoive un agrément par la commission paritaire APEC mentionnée à l'article 3 de l'accord national interprofessionnel du 17 novembre 2017, sont intégrés à la catégories des cadres et assimilés, pour le bénéfice des avantages en matière de prévoyance des cadres et assimilés, tel que défini par l'article premier de l'ANI du 17 novembre 2017 :
+
+– salariés relevant de l'article 2.1 de l'ANI de 2017 : l'ensemble des salariés ayant le statut cadre et étant positionnés au niveau IX de la classification issue de l'avenant n° 47 (art. 4) de la convention collective pour le personnel des entreprises de restauration de collectivités ;
+
+– salariés relevant de l'article 2.2 de l'ANI de 2017 : l'ensemble des salariés ayant le statut agent de maîtrise et étant positionnés au niveau VIII de la classification issue de l'avenant n° 47 (art. 4) de la convention collective pour le personnel des entreprises de restauration de collectivités.
+
+L'ensemble des salariés positionnés au niveau VII pourront relever de l'article 2.2 de l'ANI de 2017. L'assimilation de ces salariés aux cadres visés à l'article 2.1 de l'ANI de 2017 n'étant ni automatique ni obligatoire, les entreprises qui y recourent demeurent libres de le prévoir ou non.
+
+Les salariés agents de maîtrise qui relèveront de l'article 2.2 de l'ANI de 2017 ne pourront pas prétendre au bénéfice des dispositions propres au statut cadre autres que les avantages en matière de prévoyance des cadres et assimilés définis par l'article premier de l'ANI de 2017.
