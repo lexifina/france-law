@@ -1,0 +1,25 @@
+# Article 1er
+
+L'article 5 de l'accord du 13 juin 2022 considéré comme un avenant à la convention collective nationale des fleuristes, de la vente et services des animaux familiers est modifié comme suit :
+
+« Article 5
+
+Financement du régime de base frais de santé
+
+Les cotisations mensuelles sont exprimées en pourcentage du plafond mensuel de la sécurité sociale (PMSS).
+
+La cotisation globale est répartie à raison de 50 % minimum à la charge de l'employeur et 50 % maximum à la charge du salarié, dans les conditions ci-après :
+
+– la cotisation patronale est a minima de :
+
+–– 0,715 % du plafond mensuel de la sécurité sociale pour les entreprises dont les salariés relèvent du régime général ;
+
+–– 0,44 % du plafond mensuel de la sécurité sociale pour les entreprises dont les salariés relèvent du régime Alsace-Moselle ;
+
+– la cotisation salariale est a maxima de :
+
+–– 0,715 % du plafond mensuel de la sécurité sociale pour les entreprises dont les salariés relèvent du régime général ;
+
+–– 0,44 % du plafond mensuel de la sécurité sociale pour les entreprises dont les salariés relèvent du régime Alsace-Moselle.
+
+Les taux de cotisation ci-dessus sont maintenus pendant deux ans à compter de la date d'effet du présent avenant, à législation et réglementation constante. »
