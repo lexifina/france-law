@@ -462,14 +462,6 @@ Directeur général des services |
 
 Armée |
 
-Ecole nationale supérieure de techniques avancées de Bretagne |
-
-Directeur adjoint
-
-Directeur général des services |
-
-Armée |
-
 Ecole nationale supérieure des officiers de sapeurs-pompiers |
 
 Secrétaire général |
@@ -999,3 +991,7 @@ Directeurs de siège
 Directeurs territoriaux |
 
 Transition écologique |
+
+NOTA :
+
+Conformément à l’article 34 du décret n° 2024-1081 du 29 novembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
