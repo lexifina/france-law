@@ -1,3 +1,3 @@
 # Article 1er
 
-Le présent accord a pour objet la mise en place d'un régime minimum obligatoire de prévoyance complémentaire au plan national à tout le personnel non cadre inscrit à l'effectif des entreprises entrant dans le champ d'application territorial et professionnel de la convention collective nationale du bricolage.
+Le présent accord a pour objet la mise en place d'un régime minimum obligatoire de prévoyance complémentaire au plan national à tout le personnel non cadre inscrit à l'effectif des entreprises entrant dans le champ d'application territorial et professionnel de la convention collective nationale du bricolage, à savoir les salariés ne relevant pas des articles 2.1 et 2.2 de l'accord national interprofessionnel (ANI) du 17 novembre 2017 relatif à la prévoyance des cadres.
