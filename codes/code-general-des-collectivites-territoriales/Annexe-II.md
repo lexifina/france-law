@@ -20,9 +20,7 @@ NOMBRE
 
 total
 
-de RAPO reçus
-
-|
+de RAPO reçus |
 
 DÉLAI
 
@@ -30,9 +28,7 @@ moyen de
 
 traitement
 
-en jours
-
-|
+en jours |
 
 NOMBRE
 
@@ -40,9 +36,7 @@ de
 
 décisions
 
-explicites
-
-|
+explicites |
 
 NOMBRE
 
@@ -50,9 +44,7 @@ de
 
 décisions
 
-implicites
-
-|
+implicites |
 
 NOMBRE
 
@@ -60,17 +52,13 @@ de
 
 décisions
 
-d'irrecevabilité
-
-|
+d'irrecevabilité |
 
 NOMBRE
 
 de RAPO
 
-rejetés
-
-|
+rejetés |
 
 NOMBRE
 
@@ -86,9 +74,7 @@ annulés
 
 ou
 
-rectifiés)
-
-|
+rectifiés) |
 
 NOMBRE
 
@@ -98,9 +84,7 @@ de rejet
 
 rendues par la
 
-commission du contentieux du stationnement payant
-
-|
+commission du contentieux du stationnement payant |
 
 NOMBRE
 
@@ -108,13 +92,9 @@ de décisions
 
 d'annulation
 
-rendues par la commission du contentieux du stationnement payant
+rendues par le tribunal du stationnement payant |
 
-|
-
-RAPO formés par des personnes résidant en dehors de la commune, de l'EPCI, du syndicat mixte
-
-|
+RAPO formés par des personnes résidant en dehors de la commune, de l'EPCI, du syndicat mixte |
 
 |
 
@@ -134,7 +114,7 @@ RAPO formés par des personnes résidant en dehors de la commune, de l'EPCI, du 
 
 |
 
-RAPO formés par des personnes résidant dans la commune, l'EPCI, le syndicat mixte
+RAPO formés par des personnes résidant dans la commune, l'EPCI, le syndicat mixte |
 
 |
 
@@ -154,11 +134,7 @@ RAPO formés par des personnes résidant dans la commune, l'EPCI, le syndicat mi
 
 |
 
-|
-
-Ensemble des RAPO formés
-
-|
+Ensemble des RAPO formés |
 
 |
 
@@ -184,17 +160,13 @@ Ensemble des RAPO formés
 
 NOMBRE
 
-total
-
-|
+total |
 
 NOMBRE
 
 concernant des usagers résidant dans la commune, l'EPCI,
 
-le syndicat mixte
-
-|
+le syndicat mixte |
 
 NOMBRE
 
@@ -202,13 +174,9 @@ concernant des usagers résidant
 
 en dehors de la commune, de l'EPCI,
 
-du syndicat mixte
+du syndicat mixte |
 
-|
-
-Motifs de contestation du forfait post-stationnement
-
-|
+Motifs de contestation du forfait post-stationnement |
 
 |
 
@@ -216,9 +184,7 @@ Motifs de contestation du forfait post-stationnement
 
 |
 
-Le requérant estime avoir payé/ ne pas avoir à payer
-
-|
+Le requérant estime avoir payé/ ne pas avoir à payer |
 
 |
 
@@ -226,7 +192,7 @@ Le requérant estime avoir payé/ ne pas avoir à payer
 
 |
 
-Le requérant allègue être de bonne foi (notamment en cas de destruction du véhicule)
+Le requérant allègue être de bonne foi (notamment en cas de destruction du véhicule) |
 
 |
 
@@ -234,31 +200,23 @@ Le requérant allègue être de bonne foi (notamment en cas de destruction du v�
 
 |
 
-|
-
-Le requérant dit être victime d'une usurpation de ses plaques d'immatriculation ou du vol de son véhicule
-
-|
+Le requérant dit être victime d'une usurpation de ses plaques d'immatriculation ou du vol de son véhicule |
 
 |
 
 |
 
 |
-
-L'avis de paiement a été délivré avant l'heure indiquée sur le précédent
 
-|
+L'avis de paiement a été délivré avant l'heure indiquée sur le précédent |
 
 |
 
 |
 
 |
-
-Autres
 
-|
+Autres |
 
 |
 
@@ -266,9 +224,7 @@ Autres
 
 |
 
-Motifs d'irrecevabilité du RAPO
-
-|
+Motifs d'irrecevabilité du RAPO |
 
 |
 
@@ -276,7 +232,7 @@ Motifs d'irrecevabilité du RAPO
 
 |
 
-Le requérant n'a pas intérêt à agir
+Le requérant n'a pas intérêt à agir |
 
 |
 
@@ -284,11 +240,7 @@ Le requérant n'a pas intérêt à agir
 
 |
 
-|
-
-Le requérant n'a pas envoyé sa demande suivant les modalités indiquées dans l'avis de paiement
-
-|
+Le requérant n'a pas envoyé sa demande suivant les modalités indiquées dans l'avis de paiement |
 
 |
 
@@ -296,7 +248,7 @@ Le requérant n'a pas envoyé sa demande suivant les modalités indiquées dans 
 
 |
 
-Le requérant ne produit aucun motif
+Le requérant ne produit aucun motif |
 
 |
 
@@ -304,31 +256,23 @@ Le requérant ne produit aucun motif
 
 |
 
-|
-
-Le requérant est hors délai
-
-|
+Le requérant est hors délai |
 
 |
 
 |
 
 |
-
-Autres
 
-|
+Autres |
 
 |
 
 |
 
 |
-
-Motifs de rejet du RAPO
 
-|
+Motifs de rejet du RAPO |
 
 |
 
@@ -336,9 +280,7 @@ Motifs de rejet du RAPO
 
 |
 
-Les éléments produits n'ont pas emporté la conviction de l'autorité en charge du RAPO
-
-|
+Les éléments produits n'ont pas emporté la conviction de l'autorité en charge du RAPO |
 
 |
 
@@ -346,19 +288,15 @@ Les éléments produits n'ont pas emporté la conviction de l'autorité en charg
 
 |
 
-Le forfait post-stationnement était fondé
+Le forfait post-stationnement était fondé |
 
 |
 
 |
 
 |
-
-|
-
-Autres
 
-|
+Autres |
 
 |
 
@@ -366,9 +304,7 @@ Autres
 
 |
 
-Motifs d'annulation
-
-|
+Motifs d'annulation |
 
 |
 
@@ -376,7 +312,7 @@ Motifs d'annulation
 
 |
 
-L'usager avait bien un justificatif de paiement et a payé la durée nécessaire
+L'usager avait bien un justificatif de paiement et a payé la durée nécessaire |
 
 |
 
@@ -384,11 +320,7 @@ L'usager avait bien un justificatif de paiement et a payé la durée nécessaire
 
 |
 
-|
-
-L'usager apporte des éléments probants de l'usurpation de sa plaque d'immatriculation ou du vol de son véhicule
-
-|
+L'usager apporte des éléments probants de l'usurpation de sa plaque d'immatriculation ou du vol de son véhicule |
 
 |
 
@@ -396,7 +328,7 @@ L'usager apporte des éléments probants de l'usurpation de sa plaque d'immatric
 
 |
 
-Une erreur a été commise dans le décompte de la somme due après application du forfait post-stationnement et compte tenu de la somme déjà réglée par l'usager
+Une erreur a été commise dans le décompte de la somme due après application du forfait post-stationnement et compte tenu de la somme déjà réglée par l'usager |
 
 |
 
@@ -404,31 +336,23 @@ Une erreur a été commise dans le décompte de la somme due après application 
 
 |
 
-|
-
-L'avis de paiement a été délivré avant l'heure indiquée sur le précédent
-
-|
+L'avis de paiement a été délivré avant l'heure indiquée sur le précédent |
 
 |
 
 |
 
 |
-
-Verbalisation malgré gratuité temporaire
 
-|
+Verbalisation malgré gratuité temporaire |
 
 |
 
 |
 
 |
-
-Avis de paiement comportant des erreurs
 
-|
+Avis de paiement comportant des erreurs |
 
 |
 
@@ -436,9 +360,7 @@ Avis de paiement comportant des erreurs
 
 |
 
-Avis de paiement incomplet ou mal rédigé
-
-|
+Avis de paiement incomplet ou mal rédigé |
 
 |
 
@@ -446,7 +368,7 @@ Avis de paiement incomplet ou mal rédigé
 
 |
 
-Autres motifs tirés de la bonne foi de l'usager
+Autres motifs tirés de la bonne foi de l'usager |
 
 |
 
@@ -454,9 +376,7 @@ Autres motifs tirés de la bonne foi de l'usager
 
 |
 
-|
-
-Autres
+Autres |
 
 |
 
@@ -464,4 +384,6 @@ Autres
 
 |
 
-|
+NOTA :
+
+Conformément à l’article 17 du décret n° 2024-733 du 5 juillet 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
