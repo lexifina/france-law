@@ -4,13 +4,13 @@ RÉFÉRENTIEL D'ÉVALUATION
 
 IV.2 - Règlement d'examen
 
-Spécialité " Serrurier " de mention complémentaire (niveau 3)
+Spécialité " Serrurier " de certificat de spécialisation (niveau 3)
 
 IV.2. - Règlement d'examen
 
 Spécialité
 
-Serrurier de mention complémentaire
+Serrurier de certificat de spécialisation
 
 niveau 3 |
 

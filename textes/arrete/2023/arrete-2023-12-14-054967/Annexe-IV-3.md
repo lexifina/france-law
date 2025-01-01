@@ -4,7 +4,7 @@ RÉFÉRENTIEL D'ÉVALUATION
 
 IV.3. - Définition des épreuves
 
-Spécialité " Serrurier " de mention complémentaire (niveau 3)
+Spécialité " Serrurier " de certificat de spécialisation (niveau 3)
 
 IV.3. - Définition des épreuves
 
@@ -44,7 +44,7 @@ Forme ponctuelle
 
 L'épreuve se déroule sous la forme d'une épreuve ponctuelle écrite d'une durée de 2 heures et permet aux examinateurs d'évaluer le niveau de maîtrise attendu de la compétence C1 " Exploiter des documents ".
 
-L'épreuve se déroule dans un centre d'examen, établissement formant à la mention complémentaire " Serrurier ", en salle ; chaque candidat dispose d'un espace individuel de travail comprenant :
+L'épreuve se déroule dans un centre d'examen, établissement formant à la certificat de spécialisation " Serrurier ", en salle ; chaque candidat dispose d'un espace individuel de travail comprenant :
 
 - une table pouvant accueillir des dossiers au format A3.
 

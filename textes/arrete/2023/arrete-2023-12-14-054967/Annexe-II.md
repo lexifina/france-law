@@ -2,13 +2,13 @@
 
 RÉFÉRENTIEL DES ACTIVITÉS PROFESSIONNELLES
 
-Spécialité " Serrurier " de mention complémentaire (niveau 3)
+Spécialité " Serrurier " de certificat de spécialisation (niveau 3)
 
 II.1. - Insertion professionnelle visée
 
 II.1.1. - Secteurs d'activité
 
-Le titulaire de la spécialité Serrurier de mention complémentaire, niveau 3 intervient principalement dans des entreprises du domaine de la fermeture du bâtiment, de la métallerie, de la menuiserie, ayant des activités de serrurerie.
+Le titulaire de la spécialité Serrurier de certificat de spécialisation, niveau 3 intervient principalement dans des entreprises du domaine de la fermeture du bâtiment, de la métallerie, de la menuiserie, ayant des activités de serrurerie.
 
 Il effectue son activité, seul ou en équipe, sur site occupé ou non et en atelier. Il peut être amené à travailler en co-activité avec les autres corps d'état.
 

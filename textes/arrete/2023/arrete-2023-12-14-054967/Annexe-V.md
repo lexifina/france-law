@@ -2,7 +2,7 @@
 
 PÉRIODES DE FORMATION EN MILIEU PROFESSIONNEL
 
-Spécialité " Serrurier " de mention complémentaire (niveau 3)
+Spécialité " Serrurier " de certificat de spécialisation (niveau 3)
 
 Périodes de formation en milieu professionnel
 
@@ -78,7 +78,7 @@ A l'issue de chaque période de formation en milieu professionnel, une attestati
 
 Candidat en situation de perfectionnement :
 
-Le candidat doit avoir exercé des activités relevant du secteur professionnel de la mention complémentaire, en tant que salarié à temps plein, pendant six mois au moins au cours de l'année précédant l'examen ou les a exercées à temps partiel pendant un an au cours des deux années précédant l'examen.
+Le candidat doit avoir exercé des activités relevant du secteur professionnel de la certificat de spécialisation, en tant que salarié à temps plein, pendant six mois au moins au cours de l'année précédant l'examen ou les a exercées à temps partiel pendant un an au cours des deux années précédant l'examen.
 
 L'attestation de formation en milieu professionnel est remplacée par un ou plusieurs certificats de travail.
 
@@ -90,6 +90,6 @@ Un candidat de la formation professionnelle continue peut être dispensé de PFM
 
 Candidats se présentant au titre de trois années d'expérience professionnelle
 
-Le candidat n'effectue pas de stage, mais doit justifier de trois années d'expériences professionnelles dans un emploi qualifié correspondant à la finalité de la mention complémentaire à l'examen de laquelle il s'inscrit.
+Le candidat n'effectue pas de stage, mais doit justifier de trois années d'expériences professionnelles dans un emploi qualifié correspondant à la finalité de la certificat de spécialisation à l'examen de laquelle il s'inscrit.
 
 Le candidat produit ses certificats de travail ou attestations de travail pour l'inscription à l'examen.

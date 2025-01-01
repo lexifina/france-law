@@ -2,11 +2,11 @@
 
 PRÉSENTATION SYNTHÉTIQUE DU RÉFÉRENTIEL DU DIPLÔME
 
-Spécialité " Serrurier " de mention complémentaire (niveau 3)
+Spécialité " Serrurier " de certificat de spécialisation (niveau 3)
 
 I.1. - Présentation
 
-Le titulaire de la spécialité Serrurier de mention complémentaire, niveau 3, assure la sécurisation des biens et des personnes en s'adaptant à l'évolution des technologies actuelles. Il Installe des produits en liaison avec le monde de la domotique et des produits connectés.
+Le titulaire de la spécialité Serrurier de certificat de spécialisation, niveau 3, assure la sécurisation des biens et des personnes en s'adaptant à l'évolution des technologies actuelles. Il Installe des produits en liaison avec le monde de la domotique et des produits connectés.
 
 Il assure aux usagers une assistance au quotidien lors d'interventions de dépannage des ouvrages de fermeture, en cas de défaillance, en termes de sécurité ou d'incendie.
 
