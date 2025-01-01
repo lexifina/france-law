@@ -36,25 +36,35 @@ En cas de changement d'assureur (s) et conformément à l'article L. 912-3 du co
 
 1.2. Bénéficiaires du régime de prévoyance
 
-Est réputé bénéficiaire du présent régime de prévoyance, à titre obligatoire, tout salarié cadre ou non cadre et personne assimilée au sens des articles L. 311-3-11 et L. 311-3-12 du code de la sécurité sociale, y compris les VRP, sous réserve de l'application de l'article 7 de la convention collective nationale des cadres de 1947, présents à l'effectif d'une entreprise entrant dans le champ d'application de l'accord relatif au régime conventionnel de prévoyance du 3 décembre 1992. Le terme de bénéficiaire s'applique à toutes les dispositions du présent accord et de ses avenants.
+Est réputé bénéficiaire du présent régime de prévoyance, à titre obligatoire, tout salarié, et personne assimilée au sens des articles L. 311-3-11 et L. 311-3-12 du code de la sécurité sociale, y compris les VRP, présents à l'effectif d'une entreprise entrant dans le champ d'application de l'accord relatif au régime conventionnel de prévoyance du 3 décembre 1992. Le terme de bénéficiaire s'applique à toutes les dispositions du présent accord et de ses avenants.
 
-Est réputé cadre et assimilé cadre de la fabrication et du commerce des produits à usage pharmaceutique, parapharmaceutique et vétérinaire, le salarié bénéficiant des articles 4,4 bis ou 36 de la convention collective nationale des cadres du 14 mars 1947 (ci-après « cadres »).
-
-Est réputé non cadre et non assimilé cadre de la fabrication et du commerce des produits à usage pharmaceutique, parapharmaceutique et vétérinaire, le salarié ne bénéficiant pas des articles 4,4 bis ou 36 de la convention collective nationale des cadres du 14 mars 1947 (ci-après « non cadres »).
-
-La notion de « salariés présents à l'effectif » comprend tous les salariés dont le contrat de travail est en cours ainsi que les salariés dont le contrat de travail est suspendu dès lors qu'ils bénéficient soit :
+La notion de “ salariés présents à l'effectif ” comprend tous les salariés dont le contrat de travail est en cours ainsi que les salariés dont le contrat de travail est suspendu dès lors qu'ils bénéficient soit :
 
 – d'un maintien total ou partiel de salaire ;
 
-– d'un revenu de remplacement versé par l'employeur ; ce cas concerne notamment les salariés placés en activité partielle ou en activité partielle de longue durée, dont l'activité est totalement suspendue ou dont les horaires sont réduits, ainsi que toute période de congé rémunéré par l'employeur (reclassement, mobilité …) ;
-
 – d'indemnités journalières du régime obligatoire sécurité sociale ;
 
-– d'indemnités journalières complémentaires financées au moins en partie par l'entreprise qu'elles soient versées directement par cette dernière ou pour son compte par l'intermédiaire d'un tiers.
+– d'indemnités journalières complémentaires financées au moins en partie par l'entreprise qu'elles soient versées directement par cette dernière ou pour son compte par l'intermédiaire d'un tiers ;
+
+– d'un revenu de remplacement versé par l'employeur ; ce cas concerne notamment les salariés placés en activité partielle ou en activité partielle de longue durée, dont l'activité est totalement suspendue ou dont les horaires sont réduits, ainsi que toute période de congé rémunéré par l'employeur (reclassement, mobilité …).
 
 Les annexes I et II précisent l'assiette des garanties servant de base au calcul des prestations.
 
-L'annexe I précise en outre, au titre du régime maladie-chirurgie-maternité des salariés, les ayants droit affiliés à titre obligatoire et les conditions dans lesquelles, sous réserve de formaliser leur adhésion par écrit, certaines personnes peuvent également à titre facultatif, adhérer au régime maladie-chirurgie-maternité des salariés, en contrepartie d'une cotisation spécifique et sans participation financière de l'employeur.
+L'annexe I précise en outre, au titre du régime maladie-chirurgie-maternité des salariés, les ayants-droits affiliés à titre obligatoire et les conditions dans lesquelles, sous réserve de formaliser leur adhésion par écrit, certaines personnes peuvent également à titre facultatif, adhérer au régime maladie-chirurgie-maternité des salariés, en contrepartie d'une cotisation spécifique et sans participation financière de l'employeur.
+
+Les cotisations mentionnées dans les annexes I et II sont définies en fonction de chacune des catégories dites “ Cadres ” et “ Non-cadres ” telles que définis ci-après :
+
+Est réputé “ Cadre ” de la fabrication et du commerce des produits à usage pharmaceutique, parapharmaceutique et vétérinaire, le salarié, dont l'emploi est classé III. 1 à III. 10 de l'accord du 17 janvier 2018 relatif aux classifications, relevant de l'article 2.1 de l'ANI du 17 novembre 2017 relatif à la prévoyance des cadres.
+
+Est réputé “ Assimilé cadre ” de la fabrication et du commerce des produits à usage pharmaceutique, parapharmaceutique et vétérinaire, le salarié, dont l'emploi est classé II. 7 de l'accord du 17 janvier 2018 relatif aux classifications, relevant de l'article 2.2 de l'ANI du 17 novembre 2017 relatif à la prévoyance des cadres.
+
+En application du 2e alinéa du 1° de l'article R. 242-1-1 du code de la sécurité sociale et sous réserve de l'agrément du présent avenant par la commission paritaire rattachée à l'APEC, les salariés, dont l'emploi est classé II. 1 à II. 6 de l'accord du 17 janvier 2018 relatif aux classifications, peuvent être intégrés à la catégorie des cadres pour le bénéfice des garanties de prévoyance. Cette faculté d'intégration correspond à celle antérieurement prévue par les stipulations de l'article 36 de l'annexe I à la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947.
+
+Pour l'application du présent article :
+
+– les “ Cadres ” sont les salariés relevant des articles 2.1 et 2.2 de l'ANI du 17 novembre 2017 relatif à la prévoyance des cadres. Les entreprises relevant du champ d'application de la présente convention ont la faculté d'intégrer à cette catégorie des “ Cadres ”, les salariés dont l'emploi est classé II. 1 à II. 6 de l'accord du 17 janvier 2018 relatif aux classifications, sous réserve de l'agrément du présent avenant qui, d'un commun accord, sera demandé à la commission paritaire rattachée à l'APEC par la partie la plus diligente. Cette faculté suppose pour l'entreprise, la formalisation d'un acte de mise en place précisant ce choix ;
+
+– les ” Non-cadres ” sont les salariés ne remplissant pas les conditions précitées.
 
 (1) Termes exclus de l'extension comme étant contraires aux dispositions de l'article L. 2253-1 du code du travail.
 
