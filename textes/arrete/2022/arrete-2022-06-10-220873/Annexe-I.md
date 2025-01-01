@@ -62,6 +62,8 @@ Lorsque plusieurs éco-organismes sont agréés pour la prise en charge des déc
 
 L'éco-organisme met en œuvre les actions nécessaires pour atteindre au moins les objectifs annuels de collecte en vue d'une valorisation et les objectifs de valorisation définis dans les tableaux suivants.
 
+En application de l'article R. 541-89, l'éco-organisme informe l'autorité administrative des projets de modifications des montants de contribution financières versées par les producteurs. Cette information est accompagnée des éléments techniques et financiers justifiant que ces projets sont sans incidences sur les capacités techniques et financières de l'éco-organisme.
+
 3.1.1. Objectifs de collecte en vue d'une valorisation
 
 Les objectifs de collecte en vue d'une valorisation sont calculés comme étant la quantité de déchets (en masse) issus de PMCB collectés par l'éco-organisme orientée vers une opération de valorisation rapportée au gisement de référence pour la catégorie ou le flux de matériau considéré. Ce gisement de référence est défini comme la quantité de déchets (en masse) de la catégorie de PMCB ou du flux de matériau produits annuellement qui est indiquée par l'étude de préfiguration de la filière REP (1) réalisée par l'ADEME.
@@ -194,6 +196,24 @@ Verre |
 
 L'éco-organisme réalise un suivi annuel des quantités de déchets issus de PMCB faisant l'objet d'une collecte séparée réalisée selon les modalités du 1° du I de l'article R. 543-290-4, ainsi que des quantités de déchets issus de PMCB recyclés ou valorisés à l'issue de cette collecte et des quantités de déchets dangereux collectés et traités. Il présente chaque année un bilan de ce suivi dans le rapport annuel prévu au 1° de l'article D. 541-93 du code de l'environnement.
 
+3.1.5. Contribution à l'atteinte des objectifs de collecte et de recyclage
+
+Pour les produits et matériaux de construction du secteur du bâtiment de la catégorie relevant du 2° du II de l'article R. 543-289, les éco-organismes appliquent en année N un abattement des contributions financières versées par les producteurs à l'éco-organisme pour les produits composés majoritairement de matériaux dont les taux de valorisation des déchets pour l'année N-2 sont supérieurs au taux moyen de valorisation de l'ensemble des déchets de PMCB de la catégorie pour cette même année.
+
+Au sens du présent paragraphe, le taux de valorisation est calculé comme étant la quantité de déchets (en masse) issus de PMCB de la catégorie ou du flux de matériau considéré entrant l'année considérée dans une installation de valorisation (matière ou énergie), rapportée au gisement de la catégorie ou du flux de matériau considéré.
+
+Pour l'année 2025, les taux de valorisation sont ceux indiqués dans l'étude de préfiguration de la filière REP réalisée par l'ADEME (1).
+
+A compter de 2026, les taux de valorisation sont calculés à partir des données déclarées par les éco-organismes en application des articles L. 541-10-13 et L. 541-10-16.
+
+Ce taux d'abattement est au minimum de 50 % du tarif moyen des contributions appliquées à l'ensemble des produits et matériaux de la catégorie visée au 2° du II de l'article R. 543-289.
+
+Les charges liées à l'octroi de ce taux d'abattement sont réparties sur les produits pour lesquels les taux de valorisation des déchets sont inférieurs au taux moyen de valorisation des déchets de PMCB de la catégorie.
+
+Les éco-organismes, le cas échéant sous l'égide de l'organisme coordonnateur, peuvent proposer au ministre chargé de l'environnement pour accord avant sa mise en œuvre une révision du taux d'abattement et des modalités d'attribution de cet abattement. L'accord est réputé acquis en l'absence d'opposition dans un délai de deux mois suivant la réception de la proposition.
+
+En cas d'accord, le taux d'abattement et les modalités d'attribution proposés se substituent aux dispositions du présent paragraphe.
+
 3.2. Conditions minimales du maillage des points de reprise
 
 Conformément aux dispositions du II de l'article R. 543-290-5, tout éco-organisme met en place un maillage des points de reprise pour chaque région de France métropolitaine, pour la collectivité territoriale de Corse, ainsi qu'en Guadeloupe, en Guyane, en Martinique, à la Réunion, à Mayotte, à Saint-Pierre et Miquelon et à Saint-Martin.
@@ -215,6 +235,14 @@ Les contrats-types prévus en application de l'article R. 543-290-8 précisent l
 Lorsque l'éco-organisme pourvoit à l'enlèvement et au traitement de déchets issus de PMCB, il s'engage à fournir ses meilleurs efforts pour prendre en charge ces déchets dans un délai raisonnable et en tout état de cause n'excédant pas 60 jours à compter de la date de signature par le gestionnaire de l'installation de reprise du contrat établi en application de l'article R. 541-105 du code de l'environnement.
 
 Lorsque l'éco-organisme couvre les coûts de gestion des déchets issus de PMCB, il est tenu de couvrir ces coûts au plus tard le lendemain de la signature par le gestionnaire de l'installation de reprise du contrat établi en application de l'article R. 541-104 du code de l'environnement.
+
+L'éco-organisme propose, pour toute personne qui le demande, un contrat-type de soutien financier permettant d'assurer uniquement la traçabilité des déchets collectés, sous réserve que ces déchets soient repris sans frais pour le détenteur et que la performance de réemploi ou des différents modes de valorisation des déchets ainsi collectés soit au moins équivalente aux objectifs correspondants qui sont fixés par le présent cahier des charges.
+
+Pour la reprise des déchets auprès des entreprises du secteur du bâtiment prévue au b du 2° du I de l'article R. 543-290-4, dans le cas où l'entreprise dispose de contenants dont elle supporte les coûts de mise à disposition, l'éco-organisme procède à leur reprise sans frais quelle que soit la fréquence d'enlèvement dès lors que ces contenants ont un volume unitaire supérieur à 8 m3.
+
+Les éco-organismes, le cas échéant sous l'égide de l'organisme coordonnateur, en lien avec les fédérations représentant les entreprises du bâtiment, peuvent proposer au ministre chargé de l'environnement pour accord avant sa mise en œuvre une révision des seuils de volume et de fréquence ci-dessus. L'accord est réputé acquis en l'absence d'opposition dans un délai de deux mois suivant la réception de la proposition.
+
+En cas d'accord, les dispositions proposées se substituent aux seuils mentionnés ci-dessus.
 
 3.4. Reprise des déchets de PMCB issus des catastrophes naturelles ou accidentelles
 
@@ -252,7 +280,7 @@ L'éco-organisme met en place un dispositif de traçabilité des déchets dont i
 
 - l'article L. 541-7 du code de l'environnement concernant la traçabilité des déchets, en particulier celle des déchets dangereux.
 
-Lorsque plusieurs éco-organismes sont agréés pour la prise en charge des déchets issus de PMCB, ils s'assurent de la cohérence de leur dispositif de traçabilité sous l'égide de l'organisme coordonnateur, et peuvent proposer, le cas échéant, un outil conjoint.
+Lorsque plusieurs éco-organismes sont agréés pour la prise en charge des déchets issus de PMCB, ils s'assurent de la cohérence de leur dispositif de traçabilité sous l'égide de l'organisme coordonnateur et proposent un outil unique conjoint.
 
 3.9. Etudes
 
@@ -260,7 +288,9 @@ Lorsque plusieurs éco-organismes sont agréés pour la prise en charge des déc
 
 3.9.1. Caractérisation de la présence de polluants organiques persistants et de retardateurs de flamme bromés
 
-Dans un délai de deux ans à compter de la date de son agrément, l'éco-organisme réalise une étude de caractérisation des flux de déchets issus des PMCB relevant de son agrément visant à qualifier et à quantifier la présence de polluants organiques persistants (POP) de retardateurs de flamme bromés (RFB) et d'autres substances dont l'usage est interdit, telles que les phtalates et le plomb.
+Au plus tard le 30 juin 2025, l'éco-organisme réalise une étude de caractérisation des flux de déchets issus des PMCB relevant de son agrément visant à qualifier et à quantifier la présence de polluants organiques persistants (POP) de retardateurs de flamme bromés (RFB) et d'autres substances dont l'usage est interdit, telles que les phtalates et le plomb.
+
+Un rapport intermédiaire est transmis au ministre chargé de l'environnement pour le 1er octobre 2024 présentant le dimensionnement prévu de l'étude avec notamment une liste des substances identifiées.
 
 La méthodologie prévue pour l'échantillonnage et la caractérisation est transmise pour avis au ministre chargé de l'environnement au moins deux mois avant l'engagement de l'étude.
 
@@ -464,11 +494,13 @@ En complément des dispositions prévues à l'article R. 543-290-12, les éco-or
 
 - la mise à disposition du public des données prévues à l'article L. 541-10-15, notamment par la mise en place avant le 30 avril 2023 d'un site internet commun aux éco-organismes agréés indiquant les informations prévues au 3° de l'article L. 541-10-15 ;
 
-- les études prévues aux chapitres 2, 3 et 4 ;
-
-- le dispositif de traçabilité des déchets prévu en application du III de l'article L. 541-10-6 du code de l'environnement.
+- les études prévues aux chapitres 2, 3 et 4.
 
 Les éco-organismes, sous l'égide de l'organisme coordonnateur, formulent des propositions conjointes concernant les modalités de collecte conjointe prévue au b du 1° du I de l'article R. 543-290-4.
+
+Ils mettent en place un outil unique conjoint permettant d'assurer le dispositif de traçabilité des déchets prévu en application du III de l'article L. 541-10-6 du code de l'environnement.
+
+Ils mettent également en place un outil unique conjoint à destination des détenteurs professionnels de déchets du bâtiment leur permettant un accès simplifié aux différents points de reprise de leurs déchets. Cet outil précise notamment les modalités d'accueil et de reprise des déchets pour chacun des points recensés, et est accessible depuis le guichet unique prévu en application de l'article R. 543-290-12. Les éco-organismes ne peuvent imposer aux détenteurs de s'enregistrer pour les dépôts de moins d'une tonne.
 
 S'agissant de la mise en œuvre du 1°, 2° et du 3° de l'article R. 543-290-12 du code de l'environnement, les éco-organismes peuvent se coordonner dès l'élaboration de leur demande d'agrément si aucun n'est encore agréé, et en tout état de cause si une première demande d'agrément est encore en cours d'instruction afin de formuler une proposition conjointe de guichet unique, de maillage territorial des points de reprise et de contrat type destiné aux collectivités qui assurent la reprise des déchets du bâtiment dans le cadre du service public de gestion des déchets.
 
@@ -476,10 +508,16 @@ Lorsque la proposition conjointe de contrat type diffère de celle qui a été p
 
 Chaque éco-organisme agréé transmet trimestriellement à l'organisme coordonnateur les informations nécessaires à l'élaboration d'un état de synthèse de suivi des obligations de collecte.
 
+8. Réfaction
+
+Les producteurs qui assurent eux-mêmes ou organisent pour leur compte des opérations de gestion des déchets de produits et matériaux de construction du bâtiment contribuant à l'atteinte des objectifs fixés par le présent cahier des charges bénéficient, à leur demande, de la réfaction prévue à l'article R. 541-120. Le montant de cette réfaction est calculé par l'éco-organisme dans les conditions prévues au même article.
+
+Les quantités de déchets de produits et matériaux de construction du bâtiment qui bénéficient de la réfaction mentionnée au précédent alinéa ne peuvent pas bénéficier des soutiens financiers mentionnés à l'article R. 541-104.
+
 (1) Etude de préfiguration de la filière REP Produits et Matériaux de Construction du secteur du Bâtiment, ADEME, mars 2021. Synthèse disponible et téléchargeable sur la librairie ADEME : https://librairie.ademe.fr/dechets-economie-circulaire/4573-etude-de-prefiguration-de-la-filiere-rep-produits-et-materiaux-de-construction-du-secteur-du-batiment.html.
 
 (2) Etude de préfiguration de la filière REP Produits et Matériaux de Construction du secteur du Bâtiment, ADEME, mars 2021. Synthèse disponible et téléchargeable sur la librairie ADEME : https://librairie.ademe.fr/dechets-economie-circulaire/4573-etude-de-prefiguration-de-la-filiere-rep-produits-et-materiaux-de-construction-du-secteur-du-batiment.html.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 20 février 2024 (NOR : TREP2333319A), ces dispositions entrent en vigueur le 1er avril 2024.
+Conformément au premier alinéa de l'article 2 de l'arrêté du 3 juillet 2024 (NOR : TREP2418547A), ces dispositions entrent en vigueur au 1er janvier 2025.

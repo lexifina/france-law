@@ -24,9 +24,7 @@ L'organisme coordonnateur organise les travaux communs entre les éco-organismes
 
 - la mise à disposition des informations mentionnées à l'article L. 541-10-15 notamment par la mise en place avant le 30 avril 2023 d'un site internet commun aux éco-organismes agréés indiquant les informations prévues au 3° de l'article L. 541-10-15 ;
 
-- les études prévues aux chapitres 2, 3 et 4 de l'annexe I ;
-
-- le dispositif de traçabilité mis en place en application du III de l'article L. 541-10-6 du code de l'environnement.
+- les études prévues aux chapitres 2, 3 et 4 de l'annexe I.
 
 L'organisme coordonnateur veille à ce que les éco-organismes élaborent une proposition conjointe concernant les modalités de collecte conjointe prévue au b du 1° du I de l'article R. 543-290-4 et assurent de façon mutualisée une concertation sur les standards de collecte séparée.
 
@@ -34,9 +32,13 @@ L'organisme coordonnateur organise les travaux entre les éco-organismes agréé
 
 L'organisme coordonnateur organise les travaux entre les éco-organismes agréés afin que le projet de maillage mentionné au 2° de l'article R. 543-290-12 soit élaboré par les éco-organismes au plus tard dans un délai de 10 mois à compter de la date de publication de l'arrêté d'agrément du deuxième éco-organisme.
 
+L'organisme coordonnateur organise les travaux entre les éco-organismes agréés afin qu'ils mettent en place un outil unique conjoint permettant d'assurer le dispositif de traçabilité des déchets prévu en application du III de l'article L. 541-10-6 du code de l'environnement.
+
 3. Guichet unique pour les usagers de la filière REP et les collectivités territoriales collectant des déchets de PMCB dans le cadre du service public de gestion des déchets (SPGD)
 
 L'organisme coordonnateur assure un service de guichet unique permettant aux usagers de la filière REP d'être mis en relation avec les éco-organismes et les services associés, notamment concernant les modalités de collecte des déchets produits ou détenus.
+
+L'organisme coordonnateur met également en place un outil unique conjoint à destination des détenteurs professionnels de déchets du bâtiment leur permettant accès simplifié aux différents points de reprise de leurs déchets. Cet outil précise notamment les modalités d'accueil et de reprise des déchets pour chacun des points recensés, et est accessible depuis le guichet unique prévu en application de l'article R. 543-290-12. L'organisme coordonnateur veille à ce que les éco-organismes n'imposent pas aux détenteurs de s'enregistrer pour les dépôts de moins d'une tonne.
 
 L'organisme coordonnateur assure également une interface administrative unique de contractualisation avec les éco-organismes pour les collectivités territoriales et leurs groupements en charge du service public de gestion des déchets. A ce titre, ce guichet unique centralise les demandes de contractualisation des collectivités territoriales avec les éco-organismes agréés.
 
@@ -69,3 +71,7 @@ La formule d'équilibrage des obligations est présentée par l'organisme coordo
 Lorsqu'il est nécessaire de pourvoir à la reprise des déchets pour assurer le maillage territorial prévu à l'article R. 543-290-5, l'organisme coordonnateur procède à une répartition géographique des obligations de collecte des déchets des éco-organismes, afin que, pour une même catégorie d'agrément, un seul éco-organisme soit chargé de mettre en place le point de reprise des déchets prévu par le maillage territorial, si nécessaire en lien avec un éco-organisme agréé sur l'autre catégorie d'agrément.
 
 L'organisme coordonnateur réalise avant le 30 juin 2025 un bilan des exercices d'équilibrage réalisés et formule, le cas échéant, une proposition d'évolution de la formule d'équilibrage financier ou de nouvelles modalités de calcul pour la mise en œuvre de cet équilibrage. Ces propositions sont transmises à l'autorité administrative pour accord avant leur mise en œuvre.
+
+NOTA :
+
+Conformément au premier alinéa de l'article 2 de l'arrêté du 3 juillet 2024 (NOR : TREP2418547A), ces dispositions entrent en vigueur au 1er janvier 2025.
