@@ -86,6 +86,8 @@ ii) A compter du 1er janvier 2031, le niveau de performance minimal du logement 
 
 La consommation d'énergie finale et le niveau de performance du logement sont déterminés selon la méthode du diagnostic de performance énergétique mentionné à l'article L. 126-26 du code de la construction et de l'habitation.
 
+- niveau de performance du logement : [classe du diagnostic de performance énergétique].
+
 B. Destination des locaux : [usage d'habitation ou usage mixte professionnel et d'habitation]
 
 C. Le cas échéant, Désignation des locaux et équipements accessoires de l'immeuble à usage privatif du locataire : [exemples : cave, parking, garage etc.]
@@ -268,6 +270,4 @@ Signature du bailleur [ou de son mandataire, le cas échéant] Signature du loca
 
 NOTA :
 
-Conformément à l’article 4 du décret n° 2020-1609 du 17 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2024.
-
-Au A du III il convient de lire "à son terme"
+Conformément à l’article 7 du décret n° 2023-796 du 18 août 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
