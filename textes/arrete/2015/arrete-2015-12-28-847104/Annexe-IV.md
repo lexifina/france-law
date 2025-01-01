@@ -4,69 +4,31 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Administration centrale :
 
--adjoint au chef de la division de la proximité numérique au sein de l'unité nationale cyber.
-
-A la direction générale de la gendarmerie nationale, le chef du bureau :
-
--Agorha des ressources humaines droits individuels ;
-
--de la délinquance générale ;
-
--des études d'organisation ;
-
--des généraux de la gendarmerie ;
-
--du management de l'information opérationnelle ;
-
--de l'emploi, des soutiens et des finances au sein du commandement de la gendarmerie pour les réserves et la jeunesse ;
-
--chef de département au pôle stratégie capacitaire (2 emplois) ;
-
--chef du pôle des perspectives professionnelles à la sous-direction du personnel officier.
+-adjoint au chef d'une division au sein de l'unité nationale cyber (3 emplois) ;
 
 Au centre national des opérations, le chef du bureau :
 
--J1 ;
-
--J3 ;
-
--J4 ;
-
--J5 ;
-
--J6 ;
-
--J7 ;
-
 -J8 ;
 
--J9.
+-J9 ;
 
-Au service de la transformation, le chef du département :
-
--de l'administration de la donnée ;
-
--de la prospective et de l'innovation ;
-
--de l'accompagnement et de la transformation ;
-
--chef de bureau à la direction de la transformation du numérique (3 emplois) ;
+-chef de bureau à la direction du numérique (3 emplois) ;
 
 -chef du centre sécurité économique et protection des entreprises ;
 
--chef du centre national d'expertise numérique auprès du commandement de la gendarmerie dans le cyberespace ;
-
--chef du département national d'assistance cyber auprès du commandement de la gendarmerie dans le cyberespace ;
-
--chef de département d'appui aux opérations numériques auprès de l'unité nationale cyber ;
-
--chef du bureau logistique de la mobilité au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur.
+-chef de département d'appui aux opérations numériques auprès de l'unité nationale cyber.
 
 A la direction générale de la gendarmerie nationale, adjoint au chef du bureau (1 emploi) :
+
+-des actes de gestion et des études ;
 
 -de l'action sociale, des blessés et du handicap ;
 
 -Agorha études et qualités ;
+
+-Agorha infocentre décisionnel ressources humaines ;
+
+-Agorha des ressources humaines droits individuels ;
 
 -de l'analyse et de l'anticipation ;
 
@@ -82,7 +44,13 @@ A la direction générale de la gendarmerie nationale, adjoint au chef du bureau
 
 -de la défense et de la sécurité nationale ;
 
+-de la délinquance générale ;
+
 -des effectifs et des référentiels ;
+
+-des études d'organisation ;
+
+-des généraux de la gendarmerie ;
 
 -de la lutte antiterroriste ;
 
@@ -120,6 +88,8 @@ A la direction générale de la gendarmerie nationale, adjoint au chef du bureau
 
 -de la synthèse budgétaire ;
 
+-adjoint au chef du pôle des perspectives professionnelles (1 emploi) ;
+
 -adjoint au chef du bureau des matériels et des équipements au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur ;
 
 -chargé de fonction au cabinet du directeur général de la gendarmerie nationale (1 emploi) ;
@@ -129,6 +99,8 @@ A la direction générale de la gendarmerie nationale, adjoint au chef du bureau
 -chargé de projets au sein d'une sous-direction de la direction des opérations et de l'emploi (4 emplois) ;
 
 -chargé de projets au sein d'une sous-direction de la direction des ressources humaines (4 emplois) ;
+
+-officier de liaison à la mission juridique opérationnelle de la direction des opérations et de l'emploi (1 emploi) ;
 
 -conseiller technique montagne (1 emploi) ;
 
@@ -140,8 +112,6 @@ A la direction générale de la gendarmerie nationale, adjoint au chef du bureau
 
 -chef du bureau de l'audit de la santé et la sécurité au travail ;
 
--chef du bureau des signalements et des réclamations ;
-
 3° Gendarmerie départementale :
 
 -officier adjoint en charge de la police judiciaire au sein de la région Occitanie à Montpellier (1 emploi) ;
@@ -150,21 +120,9 @@ A la direction générale de la gendarmerie nationale, adjoint au chef du bureau
 
 -officier adjoint soutien finances d'une région de gendarmerie non zonale (6 emplois) ;
 
--commandant du groupement de sécurité et d'appui de Beynes ;
+-commandant du groupement de sécurité et d'appui de Beynes.
 
-Chef de division régionale des réserves :
-
--de Bourgogne-Franche-Comté ;
-
--du Grand-Est ;
-
--des Hauts-de-France ;
-
--d'Ile-de-France ;
-
--d'Occitanie ;
-
--de Provence-Alpes-Côte d'Azur ;
+Chef d'une division régionale des réserves ;
 
 -chef d'un bureau renseignement d'une région zonale (7 emplois) ;
 
@@ -228,7 +186,7 @@ Officier adjoint de police judiciaire du groupement de gendarmerie départementa
 
 -de l'Ardèche ;
 
--des Ardennes ;
+--des Ardennes ;
 
 -de l'Aube ;
 
@@ -914,7 +872,7 @@ Adjoint au commandant de groupement de gendarmerie mobile de :
 
 -Arras ;
 
--Sathonay-Camp ;
+-Sathonay-Camp.
 
 Commandant en second de groupement de gendarmerie mobile de :
 
@@ -1044,8 +1002,6 @@ Adjoint au commandant du centre national d'instruction :
 
 8° Autres emplois :
 
--commandant du centre national de soutien logistique ;
-
 -chef du centre national d'expertise numérique auprès du commandement du ministère de l'intérieur dans le cyberespace ;
 
 -chef du service de soutien à la projection opérationnelle du commandement du soutien opérationnel de la gendarmerie nationale ;
@@ -1078,10 +1034,6 @@ Au sein du groupe d'intervention de la gendarmerie nationale, chef de la force :
 
 -antennes du groupe d'intervention de la gendarmerie nationale ;
 
--commandant du centre national d'administration de la solde gendarmerie ;
-
--commandant du centre administratif financier national du Blanc ;
-
 -chef de la trésorerie militaire pour l'activité des forces de la gendarmerie ;
 
 -chef de la trésorerie militaire de la solde gendarmerie ;
@@ -1090,13 +1042,15 @@ Au sein du groupe d'intervention de la gendarmerie nationale, chef de la force :
 
 -officier de liaison au centre de planification et de conduite des opérations de l'état-major des armées (2 emplois) ;
 
+-officier de liaison à la direction du budget (1 emploi) ;
+
+-officier de liaison au sein de la mission sécurité de la division production nucléaire (1 emploi) ;
+
 -directeur de cabinet du directeur général de l'Agence nationale de la cohésion des territoires (1 emploi) ;
 
 -officier de liaison chargé de mission à la direction des ressources humaines du ministère de la défense (1 emploi) ;
 
 -chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi) ;
-
--chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur ;
 
 -conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi) ;
 
@@ -1105,6 +1059,12 @@ Au sein du groupe d'intervention de la gendarmerie nationale, chef de la force :
 Au sein du commandement des forces aériennes de la gendarmerie nationale, le chef :
 
 -du bureau de maîtrise des risques.
+
+Au sein du commandement du ministère de l'intérieur dans le cyberespace :
+
+-chef du centre d'analyse et de regroupement des cybermenaces au commandement du ministère de l'intérieur dans le cyberespace ;
+
+-adjoint au chef d'une division du commandement du ministère de l'intérieur dans le cyberespace (3 emplois).
 
 A l'agence du numérique des forces de sécurité intérieure :
 
@@ -1137,3 +1097,7 @@ A l'agence du numérique des forces de sécurité intérieure :
 -adjoint au chef du département gestion de crise et des événements ;
 
 -adjoint au chef du département des systèmes d'information de soutien.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : INTJ2433487A), ces dispositions entrent en vigueur le 1er janvier 2025.

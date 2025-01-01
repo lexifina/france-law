@@ -10,6 +10,10 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de fonction auprès du commandement de la direction des ressources humaines de la gendarmerie nationale (2 emplois) ;
 
+-chargé de projets au sein d'un bureau de la sous-direction de la police judiciaire (2 emplois) ;
+
+-chargé de projets au service de la transformation (1 emploi) ;
+
 -chef de section au sein d'une direction de la direction générale de la gendarmerie nationale ;
 
 -commandant de compagnie numérique au sein de la division de la proximité numérique ;
@@ -66,7 +70,9 @@ Commandant de la section d'appui judiciaire située au chef-lieu des régions de
 
 -officier adjoint sécurité routière du Tarn ;
 
--officier adjoint sécurité des mobilités de la Haute-Corse.
+-officier adjoint sécurité des mobilités de la Haute-Corse ;
+
+-chef du centre régional de sécurité des mobilités en région de gendarmerie Corse.
 
 Chef du groupe de soutien ressources humaines du groupement de gendarmerie départementale :
 
@@ -326,7 +332,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de la Flèche ;
 
--dde Fontenay-le-Comte ;
+-de Fontenay-le-Comte ;
 
 -de Gaillac ;
 
@@ -498,43 +504,25 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de Vichy.
 
-Commandant du peloton de gendarmerie de haute montagne :
-
--d'Ajaccio ;
-
--de Bagnères-de-Luchon ;
-
--de Bourg-Saint-Maurice ;
-
--de Briançon ;
-
--de Chamonix-Mont-Blanc ;
-
--de Jausiers ;
-
--d'Oloron-Sainte-Marie ;
-
--d'Osséja ;
-
--de Pierrefitte-Nestalas ;
-
--de Sainte-Marie ;
-
--de Saint-Sauveur-sur-Tinée ;
-
--de Savignac-les-Ormeaux ;
-
--du Versoud ;
+Commandant d'peloton de gendarmerie de haute montagne :
 
 -chef d'un service départemental du renseignement territorial.
 
 Chef de détachement territorial au sein d'une section de recherche :
 
+-d'Ajaccio ;
+
 -d'Agen ;
 
 -de Bastia ;
 
+-de Bourgoin-Jallieu ;
+
 -de Fréjus ;
+
+-de Pia ;
+
+-de Valserhône ;
 
 4° Gendarmerie mobile-Garde républicaine :
 
@@ -632,7 +620,9 @@ Commandant en second de compagnie de la gendarmerie des transports aériens :
 
 -chef du service départemental de renseignement territorial de Cayenne ;
 
--officier adjoint commandement du commandement la gendarmerie de Saint-Barthélemy et Saint-Martin.
+-officier adjoint commandement du commandement de la gendarmerie de Saint-Barthélemy et Saint-Martin ;
+
+-officier adjoint en charge de la police judiciaire au sein du commandement de la gendarmerie de Saint-Barthélemy et Saint-Martin.
 
 Officier adjoint sécurité routière au sein du commandement de la gendarmerie de :
 
@@ -678,11 +668,13 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -commandant d'une compagnie d'instruction au sein d'une école de gendarmerie (51 emplois) ;
 
--commandant de peloton à l'Académie militaire de la gendarmerie nationale (9 emplois) ;
+-commandant de peloton à l'Académie militaire de la gendarmerie nationale (11 emplois) ;
 
 -commandant de la compagnie de sécurité et d'appui de l'Académie militaire de la gendarmerie nationale ;
 
 -chef d'une classe Prépa Talents de la gendarmerie nationale (4 emplois) ;
+
+-directeur du musée à l'Académie militaire de la gendarmerie nationale ;
 
 8° Autres emplois :
 
@@ -722,8 +714,6 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -chef du bureau soutiens finances au commandement des forces aériennes de la gendarmerie nationale ;
 
--chef du service expert ressources humaines à Rennes (1 emploi) ;
-
 -adjoint commandant du groupement de sécurité et d'appui de Rosny-sous-Bois ;
 
 -chef de département à l'école spéciale militaire de Saint-Cyr-Coëtquidan (1 emploi) ;
@@ -740,8 +730,16 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -officier de liaison à la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur (2 emplois) ;
 
+-officier de liaison à la direction de la protection des installations, moyens et activités de la défense (1 emploi) ;
+
+-officier de liaison, chef de section au sein de l'unité de coordination de lutte anti-terroriste (1 emploi) ;
+
 -officier de liaison auprès d'une préfecture maritime (3 emplois) ;
 
 -officier rapporteur à la commission des recours des militaires (3 emplois) ;
 
 -officier de liaison au département de la sécurité nucléaire au ministère de la transition écologique (2 emplois).
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : INTJ2433487A), ces dispositions entrent en vigueur le 1er janvier 2025.

@@ -12,19 +12,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef du service central des réseaux et technologies avancées ;
 
--chef du centre opérationnel de soutien infrastructure et logement ;
-
 -chef de la mission d'appui et de coordination logistique de la direction des soutiens et des finances ;
 
 -chef du centre d'analyse et d'exploitation de la direction des opérations et de l'emploi ;
 
 -chargé de mission auprès du directeur général de la gendarmerie nationale (7 emplois) ;
 
--chargé de mission auprès du directeur des ressources humaines de la gendarmerie nationale (4 emplois) ;
+-chargé de mission auprès du directeur des ressources humaines de la gendarmerie nationale (5 emplois) ;
 
 -chargé de mission auprès du directeur des opérations et de l'emploi (9 emplois) ;
-
--chargé de mission jeux Olympiques 2024 affecté à la direction des opérations et de l'emploi (1 emploi) ;
 
 -chargé de mission responsable du pôle international auprès du directeur des opérations et de l'emploi (1 emploi) ;
 
@@ -32,11 +28,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de mission auprès du chef du service de la transformation (2 emplois) ;
 
--chef de la mission d'appui et de modernisation au sein du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi) ;
-
 -chargé de mission à la mission des hauts potentiels (2 emplois) ;
-
--chargé de mission auprès du commandement de la gendarmerie dans le cyberespace (2 emplois) ;
 
 -chargé de fonction auprès du directeur des ressources humaines de la gendarmerie nationale (1 emploi) ;
 
@@ -64,7 +56,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -adjoint au chef de la fonction retour d'expérience auprès de l'inspection générale de la gendarmerie nationale (1 emploi) ;
 
--chef du bureau des enquêtes administratives ;
+-adjoint au chef de la division des signalements et de la déontologie (1 emploi) ;
+
+-adjoint au chef du bureau des enquêtes administratives (1 emploi) ;
 
 -adjoint au chef du bureau des enquêtes judiciaires (1 emploi) ;
 
@@ -103,6 +97,8 @@ Officier adjoint commandement de la région zonale de gendarmerie :
 -chef d'une division zonale opérations emploi (7 emplois) ;
 
 -chef d'une division de l'appui opérationnel d'une région de gendarmerie zonale (7 emplois).
+
+-chef de la division de l'immobilier et du logement (1 emploi).
 
 Commandant du groupement de gendarmerie départementale :
 
@@ -396,6 +392,8 @@ Commandant en second de la gendarmerie :
 
 -commandant de groupement de l'école de guerre ;
 
+-chargé de projet auprès du commandement des écoles de la gendarmerie nationale (1 emploi) ;
+
 -commandant en second de l'école de gendarmerie de Dijon ;
 
 -commandant du centre de production multimédia de la gendarmerie nationale ;
@@ -438,7 +436,7 @@ Commandant en second de l'office central de lutte contre :
 
 -directeur de l'enseignement et de recherche au pôle de judiciaire de la gendarmerie nationale ;
 
--chef de pôle à l'office anti-stupéfiants (1 emploi) ;
+-commandant du centre national d'administration de la solde gendarmerie ;
 
 -adjoint au commandant du service du traitement de l'information de la gendarmerie ;
 
@@ -450,9 +448,13 @@ Commandant en second de l'office central de lutte contre :
 
 -représentant gendarmerie auprès de l'unité de coordination des forces mobiles (1 emploi) ;
 
--secrétaire général adjoint du conseil supérieur de la garde nationale ;
+-secrétaire général adjoint de la garde nationale ;
+
+-secrétaire général adjoint d'un secrétariat général pour l'administration du ministère de l'intérieur ;
 
 -sous-directeur à la directions des entreprises et partenariats de sécurité et des armes ;
+
+-chef du département des opérations et de l'emploi au commandement spécialisé pour la sécurité nucléaire ;
 
 -officier de liaison auprès du préfet chargé de la lutte contre la cybercriminalité (1 emploi) ;
 
@@ -464,15 +466,21 @@ Commandant en second de l'office central de lutte contre :
 
 -chargé de mission à l'agence des communications mobiles opérationnelles de sécurité et de secours (1 emploi) ;
 
+-conseiller sécurité intérieure auprès de la direction générale de la sécurité civile et de la gestion des crises (1 emploi) ;
+
 -directeur de la stratégie des risques et des relations internationales de l'institut des hautes études du ministère de l'intérieur ;
 
 -chargé de mission jeux Olympiques 2024 affecté à la région de gendarmerie d'Ile-de-France (1 emploi) ;
 
--chargé de mission grands évènements affecté à la région de gendarmerie d'Ile-de-France ;
+-chargé de mission au commandement des forces aériennes de la gendarmerie nationale (1 emploi).
+
+Au commandement du ministère de l'intérieur dans le cyberespace :
 
 -chargé de mission auprès du commandement du ministère de l'intérieur dans le cyberespace (1 emploi) ;
 
--chargé de mission au commandement des forces aériennes de la gendarmerie nationale (1 emploi).
+-chef d'une division du commandement du ministère de l'intérieur dans le cyberespace (3 emplois) ;
+
+-chef du centre de formation à la cybersécurité au commandement du ministère de l'intérieur dans le cyberespace.
 
 A l'agence du numérique des forces de sécurité intérieure :
 
@@ -483,3 +491,7 @@ A l'agence du numérique des forces de sécurité intérieure :
 -chef de pôle pilotage projet-appui méthode ;
 
 -chargé de mission au pôle pilotage projet-appui méthode.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : INTJ2433487A), ces dispositions entrent en vigueur le 1er janvier 2025.

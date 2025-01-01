@@ -476,17 +476,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -chef d'un centre d'opérations et de renseignement de la gendarmerie ;
 
--chef de centre d'opérations de la gendarmerie.
-
-Commandant du peloton de gendarmerie de haute montagne :
-
--des Hauts-de-Bienne ;
-
--de Hohrod ;
-
--de Mont-Dore ;
-
--de Murat ;
+-chef de centre d'opérations de la gendarmerie ;
 
 -commandant d'un détachement de peloton de gendarmerie de haute montagne ;
 
@@ -720,4 +710,4 @@ Commandant de la section aérienne au commandement des forces aériennes de la g
 
 NOTA :
 
-Conformément à l’article 6 de l’arrêté du 2 août 2024 (NOR : IOMJ2421762A), ces dispositions entrent en vigueur le 1er septembre 2024.
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : INTJ2433487A), ces dispositions entrent en vigueur le 1er janvier 2025.

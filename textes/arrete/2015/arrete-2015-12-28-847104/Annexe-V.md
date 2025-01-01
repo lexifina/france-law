@@ -6,7 +6,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef du service d'exploitation et de soutien des télécommunications et de l'informatique ;
 
--chargé de fonction au cabinet du directeur général de la gendarmerie nationale (9 emplois) ;
+-chargé de fonction au cabinet du directeur général de la gendarmerie nationale (9 emplois).
 
 Chef du pôle :
 
@@ -16,25 +16,9 @@ Chef du pôle :
 
 -prospective pénale et pratiques judiciaires ;
 
--adjoint au chef du pôle des perspectives professionnelles (1 emploi) ;
-
 -adjoint d'une division au service central de renseignement criminel de la gendarmerie nationale (3 emplois) ;
 
 -adjoint d'une division à l'institut de recherches criminelles de la gendarmerie nationale (4 emplois).
-
-A la direction générale de la gendarmerie nationale, adjoint au chef du bureau (1 emploi) :
-
--des actes de gestion et des études ;
-
--Agorha infocentre décisionnel ressources humaines ;
-
--Agorha des ressources humaines droits individuels ;
-
--de la délinquance générale ;
-
--des études d'organisation ;
-
--des généraux de la gendarmerie.
 
 Au sein du commandement de la gendarmerie pour les réserves et la jeunesse :
 
@@ -96,9 +80,7 @@ Officier adjoint commandement du groupement de gendarmerie départementale (1 em
 
 -de la Meuse ;
 
--du Territoire de Belfort ;
-
--du Var.
+-du Territoire de Belfort.
 
 Officier adjoint de police judiciaire du groupement de gendarmerie départementale (1 emploi) :
 
@@ -644,7 +626,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de Valenciennes ;
 
--e la Valette du Var ;
+-de la Valette du Var ;
 
 -de Vendôme ;
 
@@ -792,7 +774,7 @@ Commandant de l'escadron départemental de sécurité routière :
 
 -de la Mayenne ;
 
---de Meurthe-et-Moselle ;
+-de Meurthe-et-Moselle ;
 
 -de la Meuse ;
 
@@ -1092,8 +1074,6 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -conseiller PSDC et OPEX à la direction des affaires européennes et internationales du ministère de l'intérieur (1 emploi) ;
 
--officier de liaison, adjoint au chef d'un pôle de la coordination nationale pour la sécurité des jeux Olympiques et Paralympiques 2024 et des grands évènements sportifs internationaux (2 emplois) ;
-
 -chef de la mission protection du ministère de la transition écologique (1 emploi) ;
 
 -officier de liaison affecté au sein d'un pôle au comité interministériel de prévention de la délinquance et de la radicalisation (2 emplois) ;
@@ -1108,7 +1088,23 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -chef de service de permanence au sein du cabinet du Premier ministre ;
 
+-chef d'état-major VIGINUM ;
+
 -chef de cabinet au secrétariat général de la défense et de la sécurité nationale (1 emploi).
+
+Au sein du du commandement des forces aériennes de la gendarmerie nationale :
+
+-commandant de la force aérienne gendarmerie :
+
+-Est ;
+
+-Nord ;
+
+-Ouest ;
+
+-Sud-Est ;
+
+-chargé de projets auprès du commandement des forces aériennes de la gendarmerie nationale (1 emploi).
 
 A l'agence du numérique des forces de sécurité intérieure :
 
@@ -1137,3 +1133,7 @@ A l'agence du numérique des forces de sécurité intérieure :
 -chef du pôle procédure pénale numérique/ plainte en ligne ;
 
 -chef du pôle DataLab.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : INTJ2433487A), ces dispositions entrent en vigueur le 1er janvier 2025.
