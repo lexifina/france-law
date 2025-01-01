@@ -12,7 +12,7 @@ I. – Les mentions obligatoires qui doivent figurer sur les factures en applica
 
 5° Lorsque le redevable de la taxe est un représentant fiscal au sens de l'article 289 A du code précité, le numéro individuel d'identification attribué à ce représentant fiscal en application de l'article 286 ter du même code, ainsi que son nom complet et son adresse ;
 
-5° bis Lorsque la livraison de biens ou la prestation de services est effectuée par le membre d'un assujetti unique constitué en application de l'article 256 C du code général des impôts, la mention “Membre d'un assujetti unique” ainsi que le nom, l'adresse et le numéro individuel d'identification à la taxe sur la valeur ajoutée de ce membre ;
+5° bis Lorsque la livraison de biens ou la prestation de services est effectuée par le membre d'un assujetti unique constitué en application de l'article 256 C du code général des impôts, la mention “ Membre d'un assujetti unique ” ainsi que le nom, l'adresse et le numéro individuel d'identification à la taxe sur la valeur ajoutée de ce membre ;
 
 6° Sa date d'émission ;
 
@@ -32,7 +32,7 @@ I. – Les mentions obligatoires qui doivent figurer sur les factures en applica
 
 11° bis Lorsque le prestataire a opté pour le paiement de la taxe d'après les débits, la mention : “ Option pour le paiement de la taxe d'après les débits ” ;
 
-12° En cas d'exonération, la référence à la disposition pertinente du code général des impôts ou à la disposition correspondante de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée ou à toute autre mention indiquant que l'opération bénéficie d'une mesure d'exonération ;
+12° En cas d'exonération, la référence à la disposition pertinente du code général des impôts ou à la disposition correspondante de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée ou à toute autre mention indiquant que l'opération bénéficie d'une mesure d'exonération ;
 
 13° Lorsque l'acquéreur ou le preneur est redevable de la taxe, la mention : " Autoliquidation " ;
 
@@ -46,7 +46,7 @@ I. – Les mentions obligatoires qui doivent figurer sur les factures en applica
 
 18° De manière distincte, le prix d'adjudication du bien, les impôts, droits, prélèvements et taxes ainsi que les frais accessoires tels que les frais de commission, d'emballage, de transport et d'assurance demandés par l'organisateur à l'acheteur du bien, pour les livraisons aux enchères publiques visées au d du 1 du I de l'article 289 du code précité effectuées par un organisateur de ventes aux enchères publiques agissant en son nom propre, soumises au régime de la marge bénéficiaire mentionné à l'article 297 A du même code. Cette facture ne doit pas mentionner de taxe sur la valeur ajoutée.
 
-II. – Les factures dont le montant est inférieur ou égal à 150 € hors taxe ainsi que celles mentionnées au 5 du I de l'article 289 du code général des impôts peuvent ne pas comporter les mentions énoncées aux 2° et 12° du I du présent article.
+II. – Les factures dont le montant est inférieur ou égal à 150 € hors taxe ainsi que celles établies par les assujettis bénéficiant du régime de franchise en base prévu aux articles 293 B et 293 B ter du code général des impôts et celles mentionnées au 5 du I de l'article 289 du même code peuvent ne pas comporter les mentions énoncées aux 2° et 12° du I du présent article.
 
 Les dispositions du premier alinéa ne s'appliquent pas :
 
@@ -69,3 +69,5 @@ Toutefois, ces dispositions ne s'appliquent qu'à compter du 1er septembre 2027 
 Pour les opérations mentionnées aux articles 290 et 290 A du code général des impôts, les dispositions du présent article dans sa rédaction issue de l'article 1er du décret précité s'appliquent aux factures émises ou, à défaut, aux opérations réalisées à compter du 1er septembre 2026.
 
 Toutefois, cette date est portée au 1er septembre 2027 pour les assujettis relevant des catégories d'entreprises mentionnées au second alinéa du I.
+
+Conformément à l'article 2 du décret n° 2024-1195 du 21 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
