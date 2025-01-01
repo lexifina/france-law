@@ -10,7 +10,7 @@ CONDITIONS DE CIRCULATION DES VÉHICULES SOUS COUVERT D'UN CERTIFICAT W GARAGE, 
 
 1.2.1. Aucun transport de personnes, à l'exclusion des clients éventuels et exceptionnellement des membres de la famille du titulaire du certificat d'immatriculation ou de son préposé, aucun transport de matériel ou de marchandises, à l'exclusion d'outillage ou de pièces détachées se rapportant à l'activité de l'entreprise et figurant sur une liste signée par le titulaire du certificat d'immatriculation et placé à bord du véhicule, ne peuvent être effectués dans des véhicules affectés à la démonstration.
 
-Par exception à la règle énoncée ci-dessus, l'essai, par un client éventuel, d'un véhicule utilitaire d'un PTAC n'excédant pas 3,5 tonnes peut être réalisé en charge dans des conditions qui seront celles de son exploitation normale, sous réserve du respect de la réglementation relative aux transports routiers de marchandises.
+Par exception à la règle énoncée ci-dessus, l'essai, par un client éventuel, d'un véhicule utilitaire d'un PTAC n'excédant pas 3,5 tonnes ou d'un véhicule de catégorie N2 ou N3 dont la source d'énergie est EL, H2, HE ou HH peut être réalisé en charge dans des conditions qui seront celles de son exploitation normale, sous réserve du respect de la réglementation relative aux transports routiers de marchandises.
 
 Le bénéficiaire du prêt doit pouvoir présenter à toute réquisition des services de contrôle une attestation de mise à disposition du véhicule à l'essai, établie par le constructeur, l'importateur ou son concessionnaire, désignant le bénéficiaire de ce prêt et sa qualité. La durée de validité d'une telle attestation est limitée à dix jours au plus. Elle ne peut être ni prorogée ni renouvelée.
 
@@ -100,4 +100,4 @@ Le véhicule porteur ou tracteur doit être en règle au regard des dispositions
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 14 décembre 2023 (NOR : TRER2333539A), ces dispositions entrent en vigueur le 21 février 2024.
+Conformément à l’article 13 de l’arrêté du 21 juin 2024 (NOR : TRER2409842A), ces dispositions entrent en vigueur en vigueur le 1er janvier 2025.
