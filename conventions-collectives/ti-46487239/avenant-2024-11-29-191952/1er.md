@@ -1,0 +1,13 @@
+# Article 1er
+
+L'article 4.1.1 « Présidence paritaire » de l'accord du 7 février 2022 relatif à la gouvernance et aux garanties contributives et non-contributives du régime de protection sociale complémentaire de la branche de la métallurgie est rédigé comme suit :
+
+« La présidence paritaire de la CPS est assurée par un représentant employeur et un représentant des organisations syndicales représentatives de salariés signataires du présent accord, élus pour un mandat de deux ans. Pendant cette durée de mandat de deux ans, la présidence est assurée pendant une année par un représentant employeur et l'année suivante par un représentant des organisations syndicales représentatives de salariés signataires du présent accord. En vue de satisfaire à une représentation équilibrée de l'instance, il est précisé qu'un représentant de l'une des organisations syndicales représentatives signataires ne pourra exercer à nouveau la présidence sans qu'un représentant des autres organisations syndicales représentatives signataires n'ait occupé la fonction.
+
+Le candidat est désigné à la majorité simple des membres du collège auquel il appartient. En cas de partage des voix, le candidat le plus âgé est élu.
+
+La vice-présidence est assurée et désignée selon les mêmes conditions que la présidence, au sein de l'autre collège que celui du président.
+
+La présidence paritaire est composée du président et du vice-président.
+
+En cas d'absence du président, son vice-président assure la présidence. En cas d'absence du vice-président, la présidence est assurée par le membre présent le plus âgé des organisations signataires. »
