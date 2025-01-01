@@ -18,37 +18,25 @@ du délai de 2 mois
 
 |
 
-Code pénal
+Code pénal |
 
-|
-
-Autorisation de fabrication, d'importation, d'exposition, d'offre, de location ou de vente d'appareils permettant de porter atteinte à la vie privée en interceptant les correspondances d'une personne, en enregistrant ses conversations ou son image ou en captant ses données informatiques.
-
-|
+Autorisation de fabrication, d'importation, d'exposition, d'offre, de location ou de vente d'appareils permettant de porter atteinte à la vie privée en interceptant les correspondances d'une personne, en enregistrant ses conversations ou son image ou en captant ses données informatiques. |
 
 Article R. 226-3
 
 |
 
-9 mois
+9 mois |
 
-|
-
-Autorisation d'acquisition ou de détention d'appareils permettant de porter atteinte à la vie privée en interceptant les correspondances d'une personne, en enregistrant ses conversations ou son image ou en captant ses données informatiques.
-
-|
+Autorisation d'acquisition ou de détention d'appareils permettant de porter atteinte à la vie privée en interceptant les correspondances d'une personne, en enregistrant ses conversations ou son image ou en captant ses données informatiques. |
 
 Article R. 226-7
 
 |
 
-9 mois
+9 mois |
 
-|
-
-Accès à une zone protégée.
-
-|
+Accès à une zone protégée. |
 
 Article R. 413-5
 
@@ -56,23 +44,17 @@ Article R. 413-5
 
 |
 
-Accès à une zone à régime restrictif.
-
-|
+Accès à une zone à régime restrictif |
 
 Article R. 413-5-1
 
 |
 
-|
+Trois mois |
 
-Code de la défense
+Code de la défense |
 
-|
-
-Agrément des dispositifs, matériels ou logiciels, assurant la protection des systèmes d'information contenant des informations classifiées.
-
-|
+Agrément des dispositifs, matériels ou logiciels, assurant la protection des systèmes d'information contenant des informations classifiées. |
 
 Article R. 2311-6-1
 
@@ -80,9 +62,7 @@ Article R. 2311-6-1
 
 |
 
-Habilitation à connaître d'informations et supports classifiés.
-
-|
+Habilitation à connaître d'informations et supports classifiés. |
 
 Article R. 2311-7
 
@@ -90,9 +70,7 @@ Article R. 2311-7
 
 |
 
-Habilitation à accéder à un système d'information contenant des informations classifiées ou à ses dispositifs, matériels ou logiciels, de protection.
-
-|
+Habilitation à accéder à un système d'information contenant des informations classifiées ou à ses dispositifs, matériels ou logiciels, de protection. |
 
 Article R. 2311-7-1
 
@@ -100,9 +78,7 @@ Article R. 2311-7-1
 
 |
 
-Demande de nomination comme conseiller de défense et de sécurité.
-
-|
+Demande de nomination comme conseiller de défense et de sécurité. |
 
 Article D. 1143-12
 
@@ -110,9 +86,7 @@ Article D. 1143-12
 
 |
 
-Demande d'autorisation de transfert de matières nucléaires d'une activité soumise au contrôle de sécurité d'EURATOM vers une activité non soumise à ce contrôle et inversement.
-
-|
+Demande d'autorisation de transfert de matières nucléaires d'une activité soumise au contrôle de sécurité d'EURATOM vers une activité non soumise à ce contrôle et inversement. |
 
 Article D. 1333-26
 
@@ -120,13 +94,9 @@ Article D. 1333-26
 
 |
 
-Décret n° 2002-535 du 18 avril 2002 relatif à l'évaluation et à la certification de la sécurité offerte par les produits et les systèmes des technologies de l'information
+Décret n° 2002-535 du 18 avril 2002 relatif à l'évaluation et à la certification de la sécurité offerte par les produits et les systèmes des technologies de l'information |
 
-|
-
-Certification de la sécurité offerte par des produits ou des systèmes des technologies de l'information.
-
-|
+Certification de la sécurité offerte par des produits ou des systèmes des technologies de l'information. |
 
 Article 2
 
@@ -134,23 +104,15 @@ Article 2
 
 |
 
-Agrément des centres d'évaluation chargés de procéder à l'évaluation des produits ou des systèmes des technologies de l'information.
+Agrément des centres d'évaluation chargés de procéder à l'évaluation des produits ou des systèmes des technologies de l'information. |
+
+Article 11 |
 
 |
 
-Article 11
+Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9,10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives |
 
-|
-
-|
-
-Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9,10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives
-
-|
-
-Qualification de produits de sécurité attestant leur conformité à un niveau de sécurité prévu par le référentiel général de sécurité.
-
-|
+Qualification de produits de sécurité attestant leur conformité à un niveau de sécurité prévu par le référentiel général de sécurité. |
 
 Article 6
 
@@ -158,9 +120,7 @@ Article 6
 
 |
 
-Habilitation des organismes qui procèdent à la qualification des prestataires de services de confiance.
-
-|
+Habilitation des organismes qui procèdent à la qualification des prestataires de services de confiance. |
 
 Article 12
 
@@ -168,13 +128,9 @@ Article 12
 
 |
 
-Décret n° 80-247 du 3 avril 1980 relatif aux activités d'études et de recherches dans le domaine de la fusion thermonucléaire par confinement inertiel
+Décret n° 80-247 du 3 avril 1980 relatif aux activités d'études et de recherches dans le domaine de la fusion thermonucléaire par confinement inertiel |
 
-|
-
-Autorisation d'entreprendre des études et des recherches dans le domaine de la fusion thermonucléaire par confinement inertiel, lorsque ces études et recherches bénéficient de façon directe ou indirecte d'une aide ou d'un financement publics.
-
-|
+Autorisation d'entreprendre des études et des recherches dans le domaine de la fusion thermonucléaire par confinement inertiel, lorsque ces études et recherches bénéficient de façon directe ou indirecte d'une aide ou d'un financement publics. |
 
 Article 2
 
@@ -182,56 +138,38 @@ Article 2
 
 |
 
-Instruction générale interministérielle n° 1300 sur la protection du secret de la défense nationale, approuvée par l'arrêté du 30 novembre 2011
+Instruction générale interministérielle n° 1300 sur la protection du secret de la défense nationale, approuvée par l'arrêté du 30 novembre 2011 |
+
+Agrément pour accéder ponctuellement à des informations ou des supports classifiés. |
+
+Article 33 |
 
 |
 
-Agrément pour accéder ponctuellement à des informations ou des supports classifiés.
+Autorisation de transport d'informations ou de supports classifiés. |
+
+Article 36 |
 
 |
 
-Article 33
+Autorisation de reproduction d'informations ou de supports classifiés. |
+
+Article 49 |
 
 |
 
-|
+Homologation d'un système d'information traitant d'informations classifiées au niveau Très Secret-Défense. |
 
-Autorisation de transport d'informations ou de supports classifiés.
-
-|
-
-Article 36
+Article 90 |
 
 |
 
-|
+Agrément des officiers et officiers adjoints de sécurité des entreprises. |
 
-Autorisation de reproduction d'informations ou de supports classifiés.
-
-|
-
-Article 49
+Article 105 |
 
 |
 
-|
+NOTA :
 
-Homologation d'un système d'information traitant d'informations classifiées au niveau Très Secret-Défense.
-
-|
-
-Article 90
-
-|
-
-|
-
-Agrément des officiers et officiers adjoints de sécurité des entreprises.
-
-|
-
-Article 105
-
-|
-
-|
+Conformément à l’article 5 du décret n° 2024-430 du 14 mai 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
