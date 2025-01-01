@@ -1,0 +1,15 @@
+# Article 1er
+
+La rédaction de l'article 42 de la convention collective est remplacée par la rédaction suivante :
+
+« Les employeurs et les personnels cadres et non cadres cotisent à la retraite complémentaire sur la base des taux définis par l'Agirc-Arrco.
+
+Les articles 2.1 et 2.2 de l'accord national interprofessionnel du 17 novembre 2017 sur la prévoyance des cadres (qui précisent qu'ils n'apportent aucune modification par rapport à la liste des bénéficiaires définis respectivement par les articles 4 et 4 bis de la convention collective nationale du 14 mars 1947) s'appliquent respectivement aux :
+
+– salariés cadres dont les emplois sont classés aux coefficients 350 à 900 de la classification conventionnelle des emplois (ancien article 4 de la convention collective nationale de 1947) ;
+
+– salariés dont les emplois sont classés aux coefficients 310, 325 et 340 de la classification conventionnelle des emplois (ancien article 4 bis de la convention collective nationale de 1947).
+
+Conformément au décret n° 2021-1002 du 30 juillet 2021 qui maintient la possibilité d'étendre à des salariés non-cadres les dispositions prévues en matière de retraite complémentaire pour des cadres, les entreprises peuvent demander l'extension du régime obligatoire de retraite complémentaire des cadres au bénéficie des salariés dont les emplois sont classés à partir du coefficient 240.
+
+Le départ et la mise à la retraite s'effectuent conformément aux dispositions du code du travail. »
