@@ -8,7 +8,7 @@ DANGEREUSES PAR VOIES DE NAVIGATION INTÉRIEURES (ADN)
 
 1.1. La présente annexe est composée :
 
-- de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2023, tels que visés à la section III. 1 de l'annexe III de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive déléguée (UE) 2022/2407. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.html ;
+- de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2025, tels que visés à la section III. 1 de l'annexe III de la directive 2008/68/CE du Parlement européen et du Conseil modifiée. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : https://unece.org/about-adr ;
 
 - des dispositions particulières qui complètent notamment le règlement annexé à l'ADN et en précisent les modalités d'application aux transports nationaux ou internationaux de marchandises dangereuses par voies de navigation intérieures effectués en France.
 
@@ -82,15 +82,23 @@ Il appartient en outre au conducteur de vérifier :
 
 - la présence des étiquettes de dangers, de panneaux orange, marques ou signaux de mise en garde, sur les unités de transport intermodales.
 
-2.2. Chargement, déchargement.
+2.2. Chargement, déchargement et transbordement.
 
-Les dispositions de la partie 7 du règlement ADN relatives au chargement, au déchargement et au transbordement des bateaux peuvent être précisées par arrêté du préfet du département où s'effectuent ces opérations.
+En application des dispositions de la partie 7 du règlement annexé à l'ADN et de l'article R. 4241-29 du code des transports, et à l'exception des opérations réalisées au sein des installations classées pour la protection de l'environnement (ICPE), les opérations relatives au chargement, au déchargement et au transbordement des marchandises dangereuses ne sont réalisées que dans les lieux désignés à cet effet.
+
+La liste des lieux, ainsi que des opérations de chargement, de déchargement et de transbordement autorisées sont fixées dans le respect des dispositions du règlement annexé à l'ADN, ainsi que du règlement faisant l'objet de l'annexe V au présent arrêté.
+
+En cas de manquement grave à ces dispositions, le lieu peut être retiré de la liste, ou la liste des opérations peut être limitée.
+
+Les dispositions mentionnées ci-dessus ne s'appliquent pas aux opérations de chargement, de déchargement ou de manutention réalisées pour les spectacles pyrotechniques organisés conformément aux dispositions réglementaires définies par le décret n° 2010-580 du 31 mai 2010 modifié, relatif à l'acquisition, la détention et l'utilisation des artifices de divertissement et des articles pyrotechniques destinés au théâtre, et de l'arrêté du 31 mai 2010 modifié pris pour son application.
 
 2.3. Transport et stationnement.
 
-2.3.1. Stationnement.
+2.3.1. Stationnement et arrêt.
 
-Les dispositions de la partie 7 du règlement ADN relatives au stationnement des bateaux peuvent être précisées par arrêté du préfet du département concerné. Cet arrêté tient compte, le cas échéant, des résultats de l'étude de dangers lorsqu'elle est requise par l'article L. 551-2 du code de l'environnement.
+Les bateaux transportant des marchandises dangereuses ne s'arrêtent ou ne stationnent que dans les lieux désignés à cet effet, dans le respect des dispositions des 7.1.5.4,7.1.5.5 et 7.2.5.4 du règlement annexé à l'ADN, du paragraphe 2.3.3 de la présente annexe et du règlement faisant l'objet de l'annexe V au présent arrêté ou, en dehors de ces lieux, dans le respect des dispositions des 7.1.5.4.1 à 7.1.5.4.3,7.1.5.5 et 7.2.5.4 du règlement annexé à l'ADN.
+
+En cas de manquement grave à ces dispositions, le lieu peut être retiré de la liste, ou son activité peut être limitée.
 
 2.3.2. (supprimé)
 
@@ -230,4 +238,10 @@ Huit leçons
 
 4. Dispositions spéciales applicables au département de la Guyane.
 
-4.1. Par dérogation aux dispositions de l'article 22 du présent arrêté, le préfet de la Guyane peut, après avis de la seule sous-commission permanente chargée du transport des marchandises dangereuses au sein du Conseil supérieur de la prévention des risques technologiques, fixer des conditions de navigation et de transport dérogatoires, pour les distributions à caractère local de marchandises dangereuses, réalisées au moyen de bateaux ne répondant pas aux dispositions de l'ADN, par voies de navigation intérieures, et sur les réseaux fluviaux non connectés aux réseaux des autres Etats membre de l'Union Européenne.
+4.1. Par dérogation aux dispositions de l'article 22 du présent arrêté, le préfet de la Guyane peut, après avis de la seule sous-commission permanente chargée du transport des marchandises dangereuses au sein du Conseil supérieur de la prévention des risques technologiques, fixer des conditions de navigation et de transport dérogatoires, pour les distributions à caractère local de marchandises dangereuses, réalisées au moyen de bateaux ne répondant pas aux dispositions de l'ADN, par voies de navigation intérieures, et sur les réseaux fluviaux non connectés aux réseaux des autres Etats membres de l'Union Européenne.
+
+NOTA :
+
+Conformément à l’article 4 de l’arrêté du 23 novembre 2023 (NOR : TREP2328916A), ces dispositions entrent en vigueur le 1er janvier 2025.
+
+Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), ces dispositions entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.

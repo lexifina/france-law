@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGE
 
 1.1. La présente annexe est composée :
 
-- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive déléguée (UE) 2022/2407 susvisée. Cet accord, y compris les amendements en vigueur au 1er janvier 2023, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.htm;
+- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée susvisée. Cet accord, y compris les amendements en vigueur au 1er janvier 2025, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : https://unece.org/about-adr ;
 
 - des dispositions particulières qui complètent notamment les annexes A et B de l'ADR et en précisent les modalités d'application aux transports nationaux ou internationaux par route de marchandises dangereuses effectués sur le territoire national.
 
@@ -252,7 +252,7 @@ Lorsque le conducteur quitte son véhicule en stationnement, il doit disposer à
 
 2.3.1.2. Précautions spécifiques.
 
-Lorsque le véhicule est soumis aux dispositions du 9.2.2.8, les circuits électriques doivent être coupés par une manœuvre du coupe-circuit de batteries pendant que le véhicule est en stationnement.
+Lorsque le véhicule est soumis aux dispositions du 9.2.2.8, les circuits électriques doivent être coupés par une manœuvre du dispositif de mise hors tension des circuits électriques pendant que le véhicule est en stationnement.
 
 Dans le cas d'un transport en citerne, il y a lieu de s'assurer de la fermeture des vannes et autres dispositifs d'obturation, au début et à la fin du stationnement.
 
@@ -290,15 +290,15 @@ Lorsqu'ils accueillent pour des durées de stationnement supérieures à 12 heur
 
 Sont concernés par l'ensemble des dispositions de la présente section :
 
--les parcs de stationnement de véhicules transportant des marchandises dangereuses au sens et en quantités ou capacités supérieures à celles mentionnées dans le tableau 2.3.2.1.2 ci-dessous, exploités par des entreprises de transport, y compris en compte propre, dont les véhicules y stationnent habituellement dans le cadre de leurs activités programmées ; et
+- les parcs de stationnement de véhicules transportant des marchandises dangereuses au sens et en quantités ou capacités supérieures à celles mentionnées dans le tableau 2.3.2.1.2 ci-dessous, exploités par des entreprises de transport, y compris en compte propre, dont les véhicules y stationnent habituellement dans le cadre de leurs activités programmées ; et
 
--susceptibles d'accueillir habituellement plus de trente véhicules transportant des marchandises dangereuses, au sens et en quantités ou capacités supérieures à celles mentionnées dans le tableau 2.3.2.1.2 ci-dessous, ou plus de cinq véhicules transportant des gaz inflammables ou du GPL au sens du tableau 2.3.2.1.2 ci-dessous.
+- susceptibles d'accueillir habituellement plus de trente véhicules transportant des marchandises dangereuses, au sens et en quantités ou capacités supérieures à celles mentionnées dans le tableau 2.3.2.1.2 ci-dessous, ou plus de cinq véhicules transportant des gaz inflammables ou du GPL au sens du tableau 2.3.2.1.2 ci-dessous.
 
 Ces prescriptions s'appliquent, avec les mêmes critères de seuil, aux zones de stationnement de véhicules transportant des marchandises dangereuses dans l'emprise des installations classées pour la protection de l'environnement, sauf règles particulières définies par arrêté ministériel ou fixées par arrêté préfectoral.
 
 Ne sont pas considérés comme stationnant habituellement dans un parc, les véhicules en transit susceptibles d'y stationner de façon exceptionnelle et non programmée pour une durée maximale permettant de satisfaire aux interdictions de circuler (week-end, jours fériés …) ou de respecter les prescriptions relatives au temps de repos du conducteur, ainsi que les véhicules en attente de réparation. Ces véhicules, qui ne sont pas pris en compte dans les seuils définis plus haut, peuvent stationner dans les parcs, sans que s'appliquent les prescriptions de la présente section.
 
-Tableau 2.3.2.1.2.-Liste des marchandises dangereuses
+Tableau 2.3.2.1.2. - Liste des marchandises dangereuses
 
 Classe |
 
@@ -318,7 +318,9 @@ Gaz inflammables (codes de classification comprenant uniquement la lettre F, cod
 
 Non concerné |
 
-GPL (nos ONU 1011,1075,1965,1969,1978) |
+GPL (nos ONU 1011,1075,1965,1969,1978)
+
+|
 
 3 000 |
 
@@ -340,9 +342,9 @@ Non concerné |
 
 Pour l'application de la présente section, sont désignés par :
 
--exploitant, toute entreprise de transport visée au présent point ci-dessus ou son représentant, chargé de la gestion du parc de stationnement ;
+- exploitant, toute entreprise de transport visée au présent point ci-dessus ou son représentant, chargé de la gestion du parc de stationnement ;
 
--surveillant, tout préposé désigné par l'exploitant ou tout personnel non présent sur site (télésurveilleurs) en charge de la surveillance d'un parc de stationnement surveillé (voir le 2.3.2.5. ci-dessous).
+- surveillant, tout préposé désigné par l'exploitant ou tout personnel non présent sur site (télésurveilleurs) en charge de la surveillance d'un parc de stationnement surveillé (voir le 2.3.2.5. ci-dessous).
 
 2.3.2.2 Implantation
 
@@ -386,9 +388,9 @@ Le stationnement est organisé en zones. Ces zones correspondent a minima aux ca
 
 - zone de stationnement des véhicules transportant des liquides inflammables au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1.2 ci-dessus ;
 
-- zone de stationnement des véhicules transportant des gaz inflammables ou du GPL au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1.2 ci-dessus ;
+- zone de stationnement des véhicules transportant des gaz inflammables ou du GPL au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1 ci-dessus ;
 
-- zone de stationnement des véhicules transportant des gaz toxiques au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1.2 ci-dessus ;
+- zone de stationnement des véhicules transportant des gaz toxiques au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1 ci-dessus ;
 
 L'implantation de ces zones est réalisée de façon à permettre le libre accès des véhicules de secours en cas d'intervention. Les zones sont séparées d'au moins une place de stationnement.
 
@@ -422,7 +424,7 @@ Dans le cas de parcs de stationnement surveillés par un préposé, l'exploitant
 
 Une consigne établit les modalités d'inspection des véhicules avant leur stationnement.
 
-Les circuits électriques des véhicules en stationnement sont coupés par une manœuvre du coupe-circuit de batteries lorsque le véhicule en est équipé.
+Les circuits électriques des véhicules en stationnement sont coupés par une manœuvre du dispositif de mise hors tension des circuits électriques lorsque le véhicule en est équipé.
 
 Les véhicules transportant des gaz inflammables, du GPL ou des liquides inflammables au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1.2 ci-dessus sont équipés de témoins indiquant une chauffe anormale des essieux. Ils ne stationnent en cas de chauffe anormale des essieux qu'après mise en œuvre d'actions correctives et autorisation de l'exploitant.
 
@@ -758,9 +760,9 @@ Les livraisons de carburants destinés aux moteurs à combustion sont autorisée
 
 3.8.1. Dans le cas du transport des marchandises dangereuses correspondant à un seul numéro ONU et qui ne sont pas destinés à être transportés sous utilisation exclusive, il est permis d'indiquer, sur les panneaux de couleur orange situés à l'avant et à l'arrière de l'unité de transport et prescrits au 5.3.2.1.1, le numéro d'identification de danger et le numéro ONU prescrits respectivement dans les colonnes (20) et (1) du tableau A du chapitre 3.2 pour ces marchandises (ou seulement le numéro ONU lorsque des panneaux de couleur orange de dimensions réduites sont utilisés conformément au 5.3.2.2.1), sous réserve de respecter les spécifications du 5.3.2.2.
 
-3.8.2. Dans le cas du transport de colis de matières radioactives, avec ou sans danger subsidiaire, sur un conteneur de type plateforme (conteneur n'ayant aucune superstructure ou équipé uniquement de parois d'extrémités) répondant à la définition de conteneur du 1.2.1 de l'ADR et ne disposant pas de la place nécessaire à l'opposition des plaques-étiquettes prescrites aux 5.3.1.7.1 et 5.3.1.7.2, il est autorisé d'utiliser des plaques-étiquettes de danger principal et de danger subsidiaire aux dimensions réduites selon le 5.3.1.7.4 de l'ADR.
+3.8.2. Dans le cas du transport de colis de matières radioactives, avec ou sans danger subsidiaire, sur un conteneur de type plateforme (conteneur n'ayant aucune superstructure ou équipé uniquement de parois d'extrémités) répondant à la définition de conteneur du 1.2.1 de l'ADR et ne disposant pas de la place nécessaire à l'apposition des plaques-étiquettes prescrites aux 5.3.1.7.1 et 5.3.1.7.2, il est autorisé d'utiliser des plaques-étiquettes de danger principal et de danger subsidiaire aux dimensions réduites selon le 5.3.1.7.4 de l'ADR.
 
-3.9. Dispositions relatives au transport de certains déchets classés en tant que marchandises dangereuses.
+3.9. Dispositions spéciales relatives au transport de certains déchets classés en tant que marchandises dangereuses.
 
 Les conditions de transport des déchets suivants sont définies à l'appendice IV. 11 du présent arrêté :
 
@@ -1092,12 +1094,16 @@ Lorsqu'une ou plusieurs infractions ont été constatées en matière de transpo
 
 - nombre de contrôles effectués ;
 
-- nombre de véhicules contrôlés, selon l'immatriculation (véhicules immatriculés sur le territoire national, d'autres Etats membres ou d'Etats tiers) ;
+- nombre de véhicules contrôlés, selon le lieu d'immatriculation (véhicules immatriculés sur le territoire national, d'autres Etats membres ou d'Etats tiers) ;
 
-- nombre d'infractions constatées et type d'infractions ;
+- nombre d'infractions constatées par catégorie de risques mentionnée au 5.4 ;
 
 - nombre et type des sanctions infligées,
 
 sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et des mobilités.
 
-Pour chaque année calendaire et au plus tard douze mois après l'écoulement de celle-ci, un rapport conformément au modèle figurant en appendice IV. 3 du présent arrêté est transmis à la Commission européenne.
+Pour chaque année calendaire, un rapport conforme au modèle figurant à l'appendice IV. 3 du présent arrêté est rédigé. Tous les deux ans, les deux derniers rapports sont transmis à la Commission européenne, au plus tard douze mois après la fin de la deuxième année calendaire.
+
+NOTA :
+
+Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), ces dispositions entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.

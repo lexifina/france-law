@@ -280,7 +280,7 @@ Contrôle des transports de marchandises dangereuses par route
 
 |
 
-Lieu d'immatriculation des véhicules (1)
+Lieu/pays d'immatriculation des véhicules (1)
 
 |
 
@@ -419,16 +419,6 @@ Autres
 |
 
 |
-
-|
-
-QUANTITE TOTALE ESTIMEE DES MARCHANDISES DANGEREUSES TRANSPORTEES PAR ROUTE : |
-
-....................................t
-
-|
-
-Soit................................t.km
 
 |
 
@@ -2442,7 +2432,7 @@ Par ailleurs, le propriétaire a obligation de déclarer à la direction région
 
 Ces visites techniques périodiques sont réalisées et sanctionnées dans les conditions définies par l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds.
 
-Au cours des visites techniques, le contrôleur vérifie, en réalisant les contrôles décrits dans l'arrêté du 27 juillet 2004 susvisé :
+Au cours des visites techniques, le contrôleur vérifie, en réalisant les contrôles décrits dans l'arrêté du 27 juillet 2004 susvisé et l'instruction technique sur les contrôles supplémentaires pour véhicules de transport de marchandises dangereuses soumis à certificat d'agrément,
 
 - la concordance du véhicule et de la citerne avec les attestations délivrées en application du présent arrêté ainsi que la validité de ces documents ;
 
@@ -2470,9 +2460,7 @@ Il porte :
 
 Par ailleurs, à l'issue de toute visite technique initiale favorable, la date limite de validité et le cachet de la direction régionale chargée des contrôles de sécurité des véhicules sont portés sur l'original du certificat d'agrément, à l'emplacement réservé à cet effet.
 
-Les dates limites de validité portées sur la carte grise et sur le certificat d'agrément sont identiques.
-
-Dans le cas où le certificat d'agrément ne peut être délivré le jour même de la visite, le procès-verbal de visite technique le remplace sur le territoire national lors des contrôles routiers des véhicules immatriculés en France.
+Les dates limites de validité portées sur le certificat d'immatriculation et sur le certificat d'agrément sont identiques.
 
 2.2. Visite périodique.
 
@@ -2492,31 +2480,21 @@ Méthode d'examen
 
 Moyens mis en œuvre |
 
-Référence
+Référence ADR, arrêté TMD et autres textes |
 
-ADR, arrêté
+1. Conformité
 
-TMD
+et identification |
 
-et autres textes |
-
-1. Identification |
-
-1.1. Notice (s) descriptive (s), fiche de réception européenne et ses annexes, certificat (s) de conformité, ou procès-verbal de RTI et justificatifs de conformité |
+1.1. Notice (s) descriptive (s), données techniques, certificat (s) de conformité, ou procès-verbal de RTI et justificatifs de conformité |
 
 Etat, présence et conformité |
 
 Présence, état, concordance avec le véhicule et la citerne, validité (mise à jour de la liste des matières, réforme) |
 
-9.1.2.2,
+9.1.2.2,6.8.2.3,6.13.4.4 |
 
-6.8.2.3,
-
-6.9.4.4 |
-
-2. Equipements
-
-de sécurité |
+2. Equipement de freinage |
 
 2.1. Freinage |
 
@@ -2525,6 +2503,12 @@ Présence et conformité |
 Contrôle des documents permettant d'établir la conformité aux règlements et directives applicables. Vérification de la concordance avec la chaîne cinématique du véhicule |
 
 9.2.3 |
+
+2.2. Frein d'endurance (ralentisseur) |
+
+Examen visuel |
+
+9.2.3.3 |
 
 3. Equipement électrique |
 
@@ -2542,21 +2526,15 @@ Examen visuel |
 
 Etat, fixation, présence et conformité |
 
-3.3. Coffre à batteries |
+3.3. Canalisations (gaines et câbles) |
 
-3.4. Canalisations (gaines et câbles) |
-
-3.5. Barrière de sécurité |
-
-Contrôle du marquage de l'appareil pour utilisation en atmosphère explosive |
-
-3.6. Chronotachygraphe |
+3.4. Equipement alimenté en permanence (chronotachygraphe …) |
 
 Présence et conformité |
 
-4. Commandes de sécurité intérieures |
+Contrôle du marquage de l'appareil pour utilisation en atmosphère explosive |
 
-4.1. Commande d'ouverture du coupe-batterie |
+3.5. Dispositifs de mise hors tension des circuits électriques (et dispositifs additionnels le cas échéant) |
 
 Etat, fonctionnement, fixation, présence et conformité |
 
@@ -2564,135 +2542,97 @@ Mise en action. Examen visuel |
 
 9.2.2.8 |
 
-5. Commandes de sécurité extérieures |
+4. Système de propulsion du véhicule |
 
-5.1. Dispositif d'ouverture du coupe-batterie |
-
-|
-
-|
-
-9.2.2.8.2 si
-
-présence |
-
-6. Prévention des risques d'incendie |
-
-6.1. Supprimé |
+4.1. Réservoirs et bouteilles de carburant |
 
 Présence et conformité |
 
-|
+Examen visuel et, le cas échéant contrôle des attestations |
 
-|
+9.2.4.2,9.7.7.2 |
 
-6.2. Réservoirs et bouteilles de carburant |
+4.2. Moteur à combustion interne (y compris auxiliaire) |
 
-Examen visuel |
+9.2.4.3 |
 
-9.2.4.3,9.7.7 |
+4.3. Dispositif d'échappement |
 
-6.3. Chauffage à combustion |
+9.2.4.3.2 |
 
-Contrôle de l'attestation de montage |
-
-9.2.4.8 |
-
-6.4. Frein d'endurance (ralentisseur) |
-
-Examen visuel et, le cas échéant, en visite initiale, contrôle des attestations |
-
-9.2.4.7 |
-
-6.5. Dispositif d'échappement |
-
-9.2.4.5 |
-
-6.6. Moteur (y compris auxiliaire) |
+4.4. Chaîne de traction électrique |
 
 9.2.4.4 |
 
-7. Citernes |
+5. Chauffage à combustion |
 
-7.1. Attestation de contrôle initial, intermédiaire ou périodique |
+5.1. Chauffage à combustion |
+
+Présence et conformité |
+
+Contrôle de l'attestation de montage |
+
+9.2.5,9.7.7 |
+
+6. Citernes |
+
+6.1. Attestation de contrôle initial, intermédiaire ou périodique |
+
+Présence et conformité |
 
 Concordance de la citerne avec les documents fournis. Vérification de leur validité |
 
-6.8.2.4.5,
+6.8.2.4.5,6.13.5.1.2 |
 
-6.9.5.1.2 |
-
-7.2. Plan de chargement |
-
-|
-
-7.3. Marquage |
+6.2. Marquage |
 
 Etat, fixation, présence et conformité |
 
 Examen visuel |
 
-6.8.2.5,
+6.8.2.5,6.8.3.5,6.13.6 |
 
-6.8.3.5,
-
-6.9.6 |
-
-7.4. Partie extérieure de l'enveloppe |
+6.3. Isolation thermique |
 
 Etat, présence et conformité |
 
-|
+6.8.2.2,6.8.3.2 |
 
-7.5. Isolation thermique |
+6.4. Equipements de service |
 
-6.8.2.2,
+6.5. Equipements COV |
 
-6.8.3.2 |
+AM 19/12/1995 |
 
-7.6. Equipements de service |
-
-7.7. Equipements COV |
-
-AM
-
-19/12/1995 |
-
-7.8. Protections supérieures |
+6.6. Protections supérieures |
 
 6.8.2.1.28 |
 
-7.9. Protection latérale |
-
-|
-
-7.10. Protection arrière |
+6.7. Protection arrière |
 
 9.7.6 |
 
-7.11. Connexion électrique |
+6.8. Prise de terre |
 
 6.8.2.1.27 |
 
-7.12. Fixations |
+6.9. Fixations |
 
 9.7.3 |
 
-7.13. Flexibles |
+6.10. Flexibles |
 
 Contrôle de la fiche de suivi, de l'attestation de contrôle initial, intermédiaire ou périodique |
 
-Appendice
+Appendice IV. 1 |
 
-IV. 1 |
-
-7.14. Liaison équipotentielle |
+6.11. Liaison équipotentielle |
 
 Examen visuel |
 
 9.7.4 |
 
-7.15. Stabilité du véhicule-citerne |
+6.12. Stabilité du véhicule-citerne |
 
 Présence et conformité |
 
@@ -2700,47 +2640,45 @@ Concordance du véhicule avec les documents fournis |
 
 9.7.5 |
 
-8. Explosifs |
+6.13. Prescriptions en matière de sécurité |
 
-8.1. Caisse |
+Etat, présence et conformité |
+
+Examen visuel |
+
+9.7.9 |
+
+7. Explosifs |
+
+7.1. Caisse |
 
 Etat, fixation, présence et conformité |
 
 Examen visuel |
 
-9.3.1,9.3.3
+9.3.1,9.3.3 9.3.4 |
 
-9.3.4 |
-
-8.2. Porte |
+7.2. Porte |
 
 Etat, présence et conformité |
 
-9.3.3
+9.3.3 9.3.4 |
 
-9.3.4 |
-
-8.3. Eclairage intérieur |
+7.3. Eclairage intérieur |
 
 Etat, fonctionnement, présence et conformité |
 
 9.3.7 |
 
-8.4. Chauffage à combustion |
+7.4. Chauffage à combustion |
 
 Etat, présence et conformité |
 
 9.3.2 |
 
-8.5. Moteur et sources externes de chaleur et compartiment de chargement |
+7.5. Moteur et sources externes de chaleur et compartiment de chargement |
 
-9.3.5
-
-9.3.6 |
-
-8.6. Prescriptions en matière de sécurité |
-
-9.7.9 |
+9.3.5 9.3.6 |
 
 APPENDICE IV.8 : PRESCRIPTIONS APPLICABLES À LA MISE SOUS PRESSION DE GAZ DES CITERNES ÉQUIPÉES DE COUVERCLES AMOVIBLES
 
@@ -3353,3 +3291,7 @@ Conformément aux exigences du 1.4.3.2, les déchèteries sont tenues de procéd
 Elles permettent notamment de s'assurer de la mise en œuvre des dispositions des 4.1.1.6 et 4.1.10 et font l'objet d'un suivi par le conseiller à la sécurité pour le transport de marchandises dangereuses désigné par l'exploitant de la déchèterie.
 
 Ces procédures de tri et de conditionnement sont mises à jour de manière régulière, et sont tenues à disposition de l'autorité compétente.
+
+NOTA :
+
+Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), ces dispositions entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.

@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT FERROVIAIRE DE MARCHANDISES DAN
 
 1.1. La présente annexe est composée :
 
-- de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le RID, tel que visé à la section II. 1 de l'annexe II de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive déléguée (UE) 2022/2407 susvisée. Ce règlement, y compris les amendements en vigueur au 1er janvier 2023, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30,3006 Berne, Suisse. Il est disponible sur le site internet de l'OTIF à l'adresse suivante : http://www.otif.org/.
+- de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le RID, tel que visé à la section II. 1 de l'annexe II de la directive 2008/68/CE du Parlement européen et du Conseil modifiée susvisée. Ce règlement, y compris les amendements en vigueur au 1er janvier 2025, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30,3006 Berne, Suisse. Il est disponible sur le site internet de l'OTIF à l'adresse suivante : http://www.otif.org/.
 
 - des dispositions particulières qui complètent notamment l'annexe du RID et en précisent les modalités d'application aux transports nationaux ou internationaux ferroviaires de marchandises dangereuses effectués en France.
 
@@ -86,9 +86,9 @@ Après le remplissage, comme après la vidange, l'établissement expéditeur ou 
 
 - tous les dispositifs de fermeture sont en position fermée et étanches ;
 
-- il ne subsiste pas de résidus de produit sur les parties extérieures du wagon ;
+- il ne subsiste pas de résidus de produit sur les parties extérieures de la citerne ;
 
-- le placardage et la signalisation sont conformes.
+- le placardage, la signalisation et le marquage sont conformes.
 
 2.1.3. Transfert de marchandises entre transport ferroviaire et autres modes de transport.
 
@@ -100,23 +100,21 @@ Les responsables des chantiers de transfert doivent veiller à ce que :
 
 Il appartient au responsable qui effectue l'opération de transfert sur wagon :
 
-- de veiller :
+-de veiller :
 
-- aux interdictions de chargement en commun des colis ;
+-au calage et à l'arrimage des unités de transport intermodal ;
 
-- au calage et à l'arrimage des colis ou des unités de transport intermodal ;
+-le cas échéant au placardage, à la signalisation et au marquage des wagons ;
 
-- au placardage des wagons chargés de colis ;
+-de vérifier :
 
-- de vérifier :
+-le bon état apparent des unités de transport intermodal ;
 
-- le bon état apparent des colis ou des unités de transport intermodal ;
+-la présence des plaques-étiquettes, des panneaux orange et des marques sur les unités de transport intermodal ;
 
-- la présence des plaques-étiquettes et des panneaux orange sur les unités de transport intermodal ;
+-que le document de transport comporte bien la mention “ Transport selon 1.1.4.4 ” ou “ Transport selon 1.1.4.2.1 ” selon le cas ;
 
-- que le document de transport comporte bien la mention " transport selon 1.1.4.4 ", pour le trafic ferroutage ;
-
-- que le document de transport comporte bien le numéro d'identification de danger devant le n° ONU, pour le transport de citernes ou de marchandises dangereuses en vrac, pour lequel l'ADR prévoit un panneau orange avec indication du numéro d'identification du danger.
+-que le document de transport comporte bien le numéro d'identification de danger devant le n° ONU, pour le transport de marchandises dangereuses pour lesquelles l'ADR prévoit l'apposition d'un panneau orange avec indication du numéro d'identification du danger.
 
 2.1.4. Mission du transporteur ferroviaire avant acceptation au transport des envois de marchandises dangereuses.
 
@@ -148,7 +146,7 @@ Le remplissage, le déchargement et la vidange des marchandises des classes 4.2 
 
 2.2.3.2. Transports en citernes.
 
-Le remplissage, le déchargement et la vidange des matières dangereuses transportées en citerne ne peuvent pas être effectués en gare. Sont toutefois admis le remplissage, le déchargement et la vidange des marchandises suivantes :
+Le remplissage et la vidange des matières dangereuses transportées en citerne ne peuvent pas être effectués en gare. Sont toutefois admis le remplissage et la vidange des marchandises suivantes :
 
 - classe 2 : gaz du groupe A ;
 
@@ -232,7 +230,7 @@ Ecoulement en provenance des trappes de déchargement lorsque ce dernier est sup
 
 c) Transport en colis :
 
-Epandage du contenu des colis en dehors d'une UTI, d'un véhicule transporté en ferroutage ou du compartiment de charge d'un wagon.
+Epandage du contenu des colis en dehors d'une UTI, d'un véhicule transporté en ferroutage ou du compartiment de chargement d'un wagon.
 
 d) Perte de confinement d'une unité de transport sous fumigation (n° ONU 3359).
 
@@ -252,7 +250,7 @@ b) Déraillement sans renversement :
 
 c) Renversement d'un wagon-citerne ou d'un conteneur-citerne, citerne mobile, CGEM, ou véhicule-citerne, ou d'un wagon transportant des marchandises dangereuses en vrac (wagon-trémie, conteneur ou véhicule pour le transport en vrac).
 
-d) Tout événement qui a rendu impropre à l'emploi une UTI ou un compartiment de charge contenant des colis de marchandises de la classe 1 ou de matières radioactives, ou qui a permis d'observer une dégradation de l'intégrité d'un colis, l'ayant rendu impropre à la poursuite du transport sans mesure de sécurité complémentaire.
+d) Tout événement qui a rendu impropre à l'emploi une UTI ou un compartiment de chargement contenant des colis de marchandises de la classe 1 ou de matières radioactives, ou qui a permis d'observer une dégradation de l'intégrité d'un colis, l'ayant rendu impropre à la poursuite du transport sans mesure de sécurité complémentaire.
 
 2.3.3.2. Evénement de type 1.
 
@@ -352,7 +350,7 @@ Les wagons à remettre sur embranchement particulier doivent être livrés de jo
 
 2.6.1.1. Marchandises concernées
 
-Sont concernés par les dispositions du présent paragraphe les matières dangereuses de la classe 2, ayant un code de classification TFC ou TOC au sens du 2.2.2.1.3 du RID (voir également la colonne 3 [b] du tableau A du chapitre 3.2 du RID), transportés en citernes portant l'étiquette de manœuvre n° 13 au sens du 5.3.4.2 du RID (voir également la colonne 5 du tableau A). Ces matières comprennent notamment les matières des n° ONU 1017,1067,1749,2189,2901 et 3057.
+Sont concernées par les dispositions du présent paragraphe les matières dangereuses de la classe 2, ayant un code de classification TFC ou TOC au sens du 2.2.2.1.3 du RID (voir également la colonne 3 [b] du tableau A du chapitre 3.2 du RID), transportées en citernes portant l'étiquette de manœuvre n° 13 au sens du 5.3.4.2 du RID (voir également la colonne 5 du tableau A).
 
 2.6.1.2. Infrastructures concernées
 
@@ -362,7 +360,7 @@ Sont concernées par les dispositions du présent paragraphe les infrastructures
 
 Les gestionnaires des infrastructures visées au 2.6.1.2 établissent une instruction opérationnelle particulière relative au triage des coupes de wagons comprenant au moins un wagon-citerne transportant des marchandises visées au 2.6.1.1.
 
-Cette instruction précise les précautions de manœuvres liés à l'apposition de l'étiquette n° 13 au sens du 5.3.4.2 du RID ("A manœuvrer avec précaution"), pour les cas visés au 2.6.1.1 et 2.6.1.2. Elle a pour but de diminuer le risque accidentel de perte de confinement lors de manœuvres des wagons-citernes concernés du fait de tamponnements ou accostages brutaux.
+Cette instruction précise les précautions de manœuvres liées à l'apposition de l'étiquette n° 13 au sens du 5.3.4.2 du RID ("A manœuvrer avec précaution"), pour les cas visés au 2.6.1.1 et 2.6.1.2. Elle a pour but de diminuer le risque accidentel de perte de confinement lors de manœuvres des wagons-citernes concernés du fait de tamponnements ou accostages brutaux.
 
 Elle garantit en permanence le respect des consignes opérationnelles suivantes :
 
@@ -376,13 +374,13 @@ Elle garantit en permanence le respect des consignes opérationnelles suivantes 
 
 - la masse maximale des coupes est définie par le gestionnaire de l'infrastructure visée au 2.6.1.2 en fonction des paramètres opérationnels de l'installation de tri à la bosse, de façon à ce qu'elle permette en toute circonstance le fonctionnement optimal des dispositifs de freinage automatique de l'installation de tri ;
 
-- les dispositifs de freinage automatique ainsi que les aiguillages font l'objet d'une maintenance régulière de façon à rester opérationnels en permanence. En cas de leur dysfonctionnement, les voies concernées sont neutralisées jusqu'à réparation de ces matériels et il n'est pas effectué de triage sur ces voies.
+- les dispositifs de freinage automatique ainsi que les aiguillages font l'objet d'une maintenance régulière de façon à rester opérationnels en permanence. Dans le cas d'un dysfonctionnement de ces systèmes, les voies concernées sont neutralisées jusqu'à réparation de ces matériels et il n'est pas effectué de triage sur ces voies.
 
 Ces consignes s'appliquent également à la coupe de wagons suivant immédiatement une coupe de wagons transportant une marchandise visée au 2.6.1.1 ci-dessus.
 
 2.6.1.4. Connaissance des wagons présents sur l'infrastructure et traçabilité des opérations de triage
 
-Le responsable des débranchements a accès à tout moment aux informations concernant le nombre et la localisation des wagons transportant des marchandises visées au 2.1.6.1 présents sur les différents chantiers de l'infrastructure visée au 2.6.1.2 par interrogation du système de suivi des voies.
+Le responsable des débranchements a accès à tout moment aux informations concernant le nombre et la localisation des wagons transportant des marchandises visées au 2.6.1.1 présents sur les différents chantiers de l'infrastructure visée au 2.6.1.2 par interrogation du système de suivi des voies.
 
 L'entreprise ferroviaire qui utilise l'installation de tri automatique à la bosse met à disposition du gestionnaire d'infrastructure les données concernant les opérations de triage visant les marchandises dangereuses visées au 2.6.1.1. Les données ainsi tracées (date, nombre de wagons triés par numéro ONU), sont archivées et sont également tenues à disposition de l'EPSF ou des agents chargés du contrôle des transports terrestres, à leur demande.
 
@@ -458,6 +456,4 @@ Les matières des n° ONU 3082 et 3077 de la classe 9 bénéficiant d'autorisati
 
 NOTA :
 
-Conformément à l’article 20 de l’arrêté du 19 décembre 2022 (NOR : TREP2235813A), ces dispositions entrent en vigueur le 1er janvier 2023.
-
-Toutefois, les dispositions du présent arrêté applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2023.
+Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), ces dispositions entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.
