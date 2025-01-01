@@ -224,15 +224,15 @@ Secrétariat général pour l'administration |
 
 Service d'infrastructure de la défense |
 
-Directeur du centre d'expertise des techniques de l'infrastructure de la défense |
+Directeur du SID Expertise et production nationale |
 
 Sans limitation |
 
-Directeurs des établissements du service d'infrastructure de la défense |
+Directeurs des SID Atlantique, Ile-de-France, Méditerranée, Nord-Est, Nord-Ouest, Sud-Est et Sud-Ouest |
 
 Sans limitation |
 
-Directeur du centre national de production d'infrastructure de la défense |
+Directeur de l'académie ministérielle de l'infrastructure |
 
 Sans limitation |
 
@@ -277,7 +277,3 @@ MAPA × 10 (10) |
 (9) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
 (10) Délégation limitée aux marchés de prestations intellectuelles et de fournitures courantes dans le domaine de l'insertion et de la formation professionnelle. |
-
-NOTA :
-
-Conformément à l'article 18 de l'arrêté du 23 février 2024 (NOR : ARMD2405335A), ces dispositions entrent en vigueur le 1er mars 2024.

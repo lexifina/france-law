@@ -128,31 +128,35 @@ Directeur du centre expert des ressources humaines du personnel civil |
 
 P. 144, P. 169, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense de Bordeaux |
+Directeur du SID Sud-Ouest |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense de Brest |
+Directeur du SID Atlantique |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense d'Ile-de-France |
+Directeur du SID Ile-de-France |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense de Lyon |
+Directeur du SID Sud-Est |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense de Metz |
+Directeur du SID Nord-Est |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense de Rennes |
+Directeur du SID Nord-Ouest |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense de Toulon |
+Directeur du SID Méditerranée |
+
+P. 144, P. 146, P. 169, P. 178, P. 212 |
+
+Directeur du SID Expertise et production nationale |
 
 P. 144, P. 146, P. 169, P. 178, P. 212 |
 
