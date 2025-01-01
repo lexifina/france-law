@@ -150,7 +150,7 @@ Par conséquent, les tarifs applicables à ces anciens salariés :
 
 Conformément aux dispositions de l'article L. 862-4 du code de la sécurité sociale, les cotisations ne sont pas fixées en fonction de l'état de santé des bénéficiaires du régime.
 
-La cotisation mensuelle s'élève à 51,50 euros pour les salariés relevant du régime général de sécurité sociale et à 30,90 euros pour les salariés relevant du régime local d'Alsace-Moselle. Elle est prise pour moitié par l'employeur et pour moitié par le salarié.
+La cotisation mensuelle s'élève à 54,10 euros pour les salariés relevant du régime général de sécurité sociale et à 32,45 euros pour les salariés relevant du régime local d'Alsace-Moselle. Elle est prise pour moitié par l'employeur et pour moitié par le salarié.
 
 6.   Règlement des prestations
 
@@ -246,7 +246,7 @@ La commission paritaire permanente de négociation et d'interprétation (CPPNI) 
 
 – par voie postale, à l'adresse suivante : commission paritaire permanente de négociation et d'interprétation de la branche de la boucherie : 98, boulevard Pereire, 75850 Paris Cedex 17 ;
 
-– sous format numérique, à l'adresse suivante : cppni. idcc992 @ boucherie-france. org.
+– sous format numérique, à l'adresse suivante : cppni.idcc992@boucherie-france.org.
 
 8.   Organisme assureur
 
