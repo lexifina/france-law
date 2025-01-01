@@ -12,8 +12,8 @@ Le présent accord est applicable de manière obligatoire à l'ensemble des empl
 
 2. Bénéficiaires
 
-Les dispositions du présent accord s'appliquent à tous les salariés non cadres sans condition d'ancienneté (sauf la garantie incapacité temporaire pour laquelle une condition de 2 mois d'ancienneté dans l'entreprise et de 6 mois dans la branche est requise), à l'exclusion :
+Les dispositions du présent accord s'appliquent aux salariés ne relevant pas des articles 2.1 et 2.2 de l'accord national interprofessionnel relatif à la prévoyance des cadres du 17 novembre 2017, sans condition d'ancienneté (sauf la garantie incapacité temporaire pour laquelle une condition de deux mois d'ancienneté dans l'entreprise et de 6 mois dans la branche est requise), à l'exclusion :
 
-–   des cadres ressortissants de la convention collective nationale du 2 avril 1952 et relevant de la caisse de retraite complémentaire cadre en application des décisions de l'AGIRC et bénéficiant à ce titre du régime de prévoyance défini dans la convention précitée ;
+– des salariés relevant des articles 2.1 et 2.2 de l'accord national interprofessionnel (ANI) relatif à la prévoyance des cadres du 17 novembre 2017 et personnels relevant de la convention collective du 2 avril 1952 et du régime Agirc-Arrco, et bénéficiant à ce titre du régime de prévoyance défini dans la convention précitée.
 
-–   des VRP et bûcherons-tâcherons ressortissants d'autres dispositions conventionnelles.
+– des VRP et bûcherons-tâcherons relevant d'autres dispositions conventionnelles.
