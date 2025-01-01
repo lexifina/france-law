@@ -28,9 +28,7 @@ Pour les salariés qui justifient des conditions définies à l'article 3 du pr�
 
 Le salaire pris en compte pour le calcul des indemnités journalières complémentaires est celui retenu pour le calcul des indemnités journalières légales versées par le régime de base de sécurité sociale.
 
-Il est déterminé à partir des éléments de rémunération et, le cas échéant, du revenu de remplacement versé par l'entreprise adhérente
-
-(1), notamment en cas d'activité partielle, d'activité partielle de longue durée, de congé de reclassement ou de congé de mobilité.
+Il est déterminé à partir des éléments de rémunération et, le cas échéant, du revenu de remplacement versé par l'entreprise, notamment en cas d'activité partielle, d'activité partielle de longue durée, de congé de reclassement ou de congé de mobilité.
 
 L'indemnisation prévue ci-dessus ne peut avoir pour effet de servir au salarié un montant supérieur à la rémunération nette qu'il aurait effectivement perçue s'il avait continué à travailler.
 
