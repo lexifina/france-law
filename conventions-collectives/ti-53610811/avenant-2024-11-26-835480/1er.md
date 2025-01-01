@@ -1,0 +1,15 @@
+# Article 1er
+
+Les dispositions de l'article 3 « Salariés bénéficiaires » sont modifiées et remplacées comme suit :
+
+« Les dispositions du présent accord à s'appliquent à tous les salariés de la production agricole ne relevant pas des articles 2.1 et 2.2 de l'accord national interprofessionnel relatif à la prévoyance des cadres du 17 novembre 2017, sans condition d'ancienneté, pour chacune des garanties mises en place, relevant du champ d'application du présent accord, à l'exclusion :
+
+– des salariés relevant des articles 2.1 et 2.2 de l'accord national interprofessionnel relatif à la prévoyance des cadres du 17 novembre 2017 et des techniciens, agents de maîtrise et cadres ressortissants de la convention collective du 2 avril 1952 et relevant du régime Agirc-Arrco, et bénéficiant à ce titre du régime de prévoyance défini dans la convention précitée ;
+
+– des VRP ressortissant d'autres dispositions conventionnelles obligatoires ;
+
+– des salariés tels que définis ci-dessus bénéficiant d'un régime plus favorable que le présent accord institué dans leur entreprise conformément aux dispositions légales, par accord collectif d'entreprise, décision unilatérale ou référendum. »
+
+(1) Article étendu sous réserve du respect des dispositions de l'article L. 2253-1 du code du travail relatif à la hiérarchie des normes conventionnelles en application duquel l'accord de branche prévaut sur l'accord d'entreprise sauf lorsque ce dernier assure des garanties au moins équivalentes.
+
+(Arrêté du 5 mai 2025 - art. 1)
