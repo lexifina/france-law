@@ -104,8 +104,6 @@ En cas de contrôle technique périodique ou de contre-visite d'un véhicule sou
 
 -signature.
 
-Jusqu'au 31 décembre 2024, la mention :-“ nom et prénom : non renseignés ” peut figurer en complément dans cette rubrique.
-
 10. L'identification du véhicule :
 
 -(2) le numéro d'immatriculation et le symbole du pays d'immatriculation ;
@@ -224,19 +222,13 @@ Le verso du procès-verbal comporte exclusivement les mentions suivantes :
 
 -“ Les points de contrôle sont définis à l'annexe I de l'arrêté du 18 juin 1991 modifié (véhicules légers) ou de l'arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur ”
 
-La précédente mention peut être remplacée par la mention : “-Les points de contrôle sont définis à l'annexe I de l'arrêté du 18 juin 1991 modifié ” ;
-
 -“ Les valeurs limites prises en compte correspondent aux valeurs limites applicables au véhicule contrôlé (date de mise en circulation, caractéristiques techniques) ” ;
 
 -“ En cas de litige, les voies de recours amiables sont affichées dans le centre qui a délivré le procès-verbal ” ;
 
 -“ Le contrôle technique d'un véhicule n'exonère pas son propriétaire de l'obligation de maintenir le véhicule en bon état de marche et en état satisfaisant d'entretien conformément aux dispositions du code de la route et des textes pris pour son application (article 1er de l'arrêté du 18 juin 1991 modifié pour les véhicules légers ou de l'arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur) ” ;
 
-La précédente mention peut être remplacée par la mention :-“ Le contrôle technique d'un véhicule n'exonère pas son propriétaire de l'obligation de maintenir le véhicule en bon état de marche et en état satisfaisant d'entretien conformément aux dispositions du code de la route et des textes pris pour son application (article 1er de l'arrêté du 18 juin 1991 modifié) ” ;
-
 -“ La contre-visite doit avoir lieu dans un délai maximal de deux mois après le contrôle technique. Passé ce délai, un nouveau contrôle technique est obligatoire. Lorsque la contre-visite est réalisée dans un centre différent de celui où a été réalisé le contrôle technique périodique, le procès-verbal du contrôle technique périodique doit obligatoirement être présenté au contrôleur, faute de quoi un contrôle technique complet est réalisé. Les points ou ensembles de points à contrôler lors de la contre-visite sont définis à l'annexe I de l'arrêté du 18 juin 1991 modifié (véhicules légers) ou de l'arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur ” ;
-
-La précédente mention peut être remplacée par la mention :-“ La contre-visite doit avoir lieu dans un délai maximal de deux mois après le contrôle technique. Passé ce délai, un nouveau contrôle technique est obligatoire. Lorsque la contre-visite est réalisée dans un centre différent de celui où a été réalisé le contrôle technique périodique, le procès-verbal du contrôle technique périodique doit obligatoirement être présenté au contrôleur, faute de quoi un contrôle technique complet est réalisé. Les points ou ensembles de points à contrôler lors de la contre-visite sont définis à l'annexe I de l'arrêté du 18 juin 1991 modifié ” ;
 
 -“ Vous disposez d'un droit d'accès et de rectification des informations nominatives vous concernant. Vous pouvez exercer ce droit en vous adressant au centre ayant édité le présent procès-verbal ”.
 
@@ -416,4 +408,4 @@ Sa sécurité peut, en outre, être renforcée par la présence d'un pictogramme
 
 NOTA :
 
-Conformément à l’article 11 de l’arrêté du 25 juillet 2023 (NOR : TRER2314642), ces dispositions entrent en vigueur le 1er décembre 2023.
+Conformément à l’article 8 de l’arrêté du 25 juillet 2023 (NOR : TRER2330734A), ces dispositions entrent en vigueur le 1er janvier 2025.
