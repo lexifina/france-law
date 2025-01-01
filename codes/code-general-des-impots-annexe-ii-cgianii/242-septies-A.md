@@ -1,6 +1,6 @@
 # Article 242 septies A
 
-1. Les entreprises soumises au régime simplifié d'imposition des taxes sur le chiffre d'affaires qui clôturent leur exercice au terme d'un mois autre que celui de décembre doivent déposer, dans les trois mois qui suivent sa clôture, une déclaration conforme au modèle prescrit par l'administration et faisant ressortir les taxes sur le chiffre d'affaires dues au titre de cet exercice. Cette déclaration se substitue à celle prévue à l'article 242 sexies.
+1. La déclaration commune des entreprises qui relèvent du régime simplifié et qui clôturent leur exercice au terme d'un mois autre que celui de décembre est souscrite aux échéances particulières déterminées par l'arrêté mentionné au deuxième alinéa de l'article L. 161-2 du code des impositions sur les biens et services.
 
 2. La déclaration annuelle, déposée dans le délai prévu au 1, détermine les acomptes ultérieurement exigibles selon la périodicité suivante :
 
@@ -8,37 +8,23 @@ DATE LIMITE DE DÉPÔT
 
 de la déclaration annuelle
 
-au cours de l'année n
-
-|
+au cours de l'année n |
 
 ACOMPTES DES ANNÉES N
 
 et n + 1 déterminés
 
-par cette déclaration
+par cette déclaration |
 
-|
+Janvier, février, avril, mai n |
 
-Janvier, février, avril, mai n
+Juillet n, décembre n |
 
-|
+Juin, juillet, août, septembre, octobre n |
 
-Juillet n, décembre n
+Décembre n, juillet n + 1 |
 
-|
-
-Juin, juillet, août, septembre, octobre n
-
-|
-
-Décembre n, juillet n + 1
-
-|
-
-Novembre, décembre n
-
-|
+Novembre, décembre n |
 
 Juillet n + 1, décembre n + 1 |
 
@@ -48,4 +34,4 @@ Lorsque deux déclarations successives déterminent des acomptes pour des mois i
 
 NOTA :
 
-Décret n° 2014-1686 du 29 décembre 2014, article 2 : les modifications prévues aux 1° à 4° de l'article 1er dudit décret s'appliquent aux acomptes dus à compter du 1er janvier 2015.
+Conformément à l’article 51 du décret n° 2024-610 du 26 juin 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
