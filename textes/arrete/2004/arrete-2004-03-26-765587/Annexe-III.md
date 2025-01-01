@@ -1,8 +1,8 @@
 # Article Annexe III
 
-Nombre de personnes |
+NOMBRE DE PERSONNES |
 
-ZONE A (et Abis) |
+ZONE A (et A bis) |
 
 ZONE B1 |
 
@@ -10,60 +10,56 @@ ZONES B2 ET C |
 
 1 |
 
-37 581 |
+38 508 |
 
-37 581 |
+38 508 |
 
-32 673 |
+33 479 |
 
 2 |
 
-56 169 |
+57 555 |
 
-56 169 |
+57 555 |
 
-43 633 |
+44 710 |
 
 3 |
 
-73 630 |
+75 447 |
 
-67 517 |
+69 183 |
 
-52 471 |
+53 766 |
 
 4 |
 
-87 909 |
+90 078 |
 
-80 875 |
+82 871 |
 
-63 347 |
+64 910 |
 
 5 |
 
-104 592 |
+107 173 |
 
-95 739 |
+98 101 |
 
-74 518 |
+76 357 |
 
 6 |
 
-117 694 |
+120 598 |
 
-107 738 |
+110 396 |
 
-83 983 |
+86 055 |
 
 Pers. suppl. |
 
-13 116 |
+13 440 |
 
-12 005 |
+12 301 |
 
-9 368 |
-
-NOTA :
-
-Conformément à l'article 3 de l'arrêté du 11 décembre 2024 (NOR : TREL2334003A), ces dispositions entrent en vigueur le 1er janvier 2024.
+9 599 |
