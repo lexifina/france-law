@@ -1,9 +1,0 @@
-# Article Annexe 6
-
-Dans le cas où l'évolution est disponible et calculable pour un indicateur, le score de cet indicateur correspond à la somme :
-
-- du pourcentage de rémunération obtenu pour cet indicateur au titre du niveau atteint - déterminé selon les modalités définies au 1° du I de l'article 7 - pondéré de la part de dotation allouée au titre du niveau atteint (soit 50 %) ;
-
-- et du pourcentage de rémunération obtenu pour cet indicateur au titre de l'évolution - déterminé selon les modalités définies au 2° du I de l'article 7 - pondéré de la part de dotation allouée au titre de l'évolution (soit 50 %).
-
-Dans le cas où l'évolution n'est pas disponible et calculable, le score d'un indicateur correspond au pourcentage de rémunération obtenu pour cet indicateur au titre du niveau atteint.
