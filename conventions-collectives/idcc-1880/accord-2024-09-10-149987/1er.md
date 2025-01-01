@@ -1,0 +1,3 @@
+# Article 1er
+
+Pour l'application des dispositions des articles R. 242-1-1 du code de la sécurité sociale, peuvent être intégrés à la catégorie des cadres, pour le bénéfice des garanties collectives mentionnées à l'article L. 914-1 du même code, les salariés classés au moins aux groupes 4 et 5. Pour ces salariés, il est rappelé que cette intégration dans la catégorie des cadres reste facultative à l'exception de celles ayant déjà procédé à cette intégration et que chaque entreprise a la faculté de décider de cette intégration pour tout ou partie des emplois concernés.
