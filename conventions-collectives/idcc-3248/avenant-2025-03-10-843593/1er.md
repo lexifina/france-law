@@ -1,0 +1,7 @@
+# Article 1er
+
+Le présent avenant est conclu pour une durée indéterminée.
+
+Le présent avenant peut être révisé à tout moment, par accord collectif conclu sous la forme d'un avenant. Les organisations syndicales de salariés et les organisations professionnelles d'employeurs, habilitées à engager la procédure de révision, sont déterminées conformément aux dispositions légales.
+
+Le présent avenant peut être dénoncé, à tout moment, par les parties signataires dans les conditions prévues par les dispositions législatives et réglementaires.
