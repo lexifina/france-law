@@ -1928,13 +1928,15 @@ La certification et le renouvellement de la certification pour les instructeurs 
 
 - module général : pédagogie, connaissances réglementaires sûreté ;
 
-- module de spécialisation du module général, relatif à l'analyse d'images et à l'exploitation des équipements de sûreté ;
+- module de spécialisation du module général dit " imagerie et équipements ", relatif à l'analyse d'images et à l'exploitation des équipements de sûreté ;
 
-- module " management " : capacité à parrainer, à former sur le tas, à motiver ; connaissance de la gestion des conflits.
+- module de spécialisation du module général dit “management”, relatif à la capacité à parrainer, à former sur le tas, à motiver ; connaissance de la gestion des conflits ; connaissance du contrôle qualité.
 
-La certification au module général ainsi que la certification au module " management " peuvent s'effectuer indépendamment de la certification à tout autre module.
+La certification au module général peut s'effectuer indépendamment de la certification à tout autre module.
 
-La durée de validité d'une certification d'instructeur est limitée à 5 ans.
+La validité de la certification aux modules de spécialisation est soumise à la détention d'une certification au module général valide.
+
+La durée de validité d'une certification d'instructeur est limitée à 5 ans. La fin de validité de la certification aux modules de spécialisation est celle de la certification au module général en cours de validité.
 
 Article 11-5-4-T - Modalités de certification des instructeurs dispensant les formations mentionnées aux points 11.2.3.1 à 11.2.3.5, 11.2.4 (sauf s'il s'agit de la formation des agents qui supervisent directement les agents visées aux point 11.2.3.6 à 11.2.3.11 ) et 11.2.5 de l'annexe du règlement (UE) 2015/1998 susvisé
 
@@ -1964,39 +1966,47 @@ IV. - L'examen de certification d'instructeur en sûreté de l'aviation civile c
 
 - une épreuve écrite portant sur les connaissances règlementaires des domaines de la sûreté, scindés en différents thèmes ; et
 
-- une épreuve orale portant sur les techniques pédagogiques, les méthodes d'apprentissage et les connaissances réglementaires.
+- une épreuve orale scindée en deux parties portant sur les techniques pédagogiques, les méthodes d'apprentissage et les connaissances réglementaires.
 
 Pour réussir l'épreuve écrite, le candidat doit obtenir :
 
 - une note minimale de 10 sur 20 à chaque thème ; et
 
-- une note moyenne minimale de 12 sur 20 à l'épreuve écrite.
+- une note moyenne minimale de 14 sur 20 à l'épreuve écrite.
 
 Pour se présenter à l'épreuve orale, le candidat doit avoir réussi l'épreuve écrite.
 
-Pour réussir l'épreuve orale, il doit obtenir une note minimale de 12 sur 20.
+Pour réussir l'épreuve orale, il doit obtenir une note minimale de 10 sur 20 à chaque partie et une moyenne de 14 sur 20 sur les deux parties de l'épreuve orale.
 
 Un candidat obtient sa certification correspondant au module général s'il a réussi ces deux épreuves.
 
 V. - L'examen de certification d'instructeur en sûreté de l'aviation civile correspondant au module de spécialisation du module général, relatif à l'analyse d'images et à l'exploitation des équipements de sûreté, comporte :
 
-- une épreuve écrite portant sur les connaissances théoriques relatives aux équipements de sûreté et à l'imagerie ; et
+- une épreuve écrite portant sur les connaissances théoriques relatives aux équipements de sûreté et à l'analyse d'images ; et
 
-- une épreuve d' analyse d'images.
+- quatre épreuves d'analyse d'images : épreuve inspection/filtrage des passagers, des bagages de cabine, épreuve inspection/filtrage des bagages de soute, épreuve fret et courrier, épreuve approvisionnements de bord et fournitures d'aéroport.
 
 Pour se présenter à cet examen, le candidat doit être titulaire de la certification module général.
 
-Pour réussir cet examen, le candidat doit obtenir une note minimale de 12 sur 20 à chacune des deux épreuves.
+Pour réussir cet examen, le candidat doit obtenir :
+
+- une note minimale de 10 sur 20 à l'épreuve écrite ; et
+
+- une note minimale de 12 sur 20 à chaque épreuve d'analyse d'images ; et
+
+- une moyenne minimale de 14 sur 20 à l'ensemble des épreuves de l'examen.
 
 Un candidat obtient sa certification correspondant au module de spécialisation du module général relatif à l'analyse d'images et à l'exploitation des équipements de sûreté s'il a réussi cet examen.
 
-VI. - L'examen de certification d'instructeur en sûreté de l'aviation civile correspondant au module " management " comporte une épreuve écrite et une épreuve orale.
+VI. - L'examen de certification d'instructeur en sûreté de l'aviation civile correspondant au module de spécialisation du module général relatif au management, comporte une épreuve écrite et une épreuve orale.
+
+Pour se présenter à cet examen, le candidat doit être titulaire de la certification au module général et avoir une expérience d'un an en tant qu'instructeur certifié au module général.
 
 Pour se présenter à l'épreuve orale, le candidat doit avoir réussi l'épreuve écrite.
 
-Pour réussir cet examen, le candidat doit obtenir une note minimale de 12 sur 20 à chacune des deux épreuves.
+Pour réussir cet examen, le candidat doit obtenir une note minimale de 14 sur 20 à chacune des deux épreuves.
 
-Un candidat obtient sa certification correspondant au module " management " s'il a réussi cet examen.
+Un candidat obtient sa certification correspondant au module de spécialisation du module général relatif au management s'il a réussi cet examen.
 
 VII. - En cas d'échec à l'examen de certification relatif à un module de certification d'instructeur en sûreté de l'aviation civile :
 
@@ -2037,8 +2047,6 @@ Appendice laissé intentionnellement vierge.
 Appendice 11B
 
 Durées minimale de formation
-
-Un semestre calendaire est une des deux périodes de l'année courant de janvier à juin ou de juillet à décembre.
 
 La formation initiale et périodique des personnes assumant une responsabilité générale au niveau national ou local en relation avec le respect de toutes les dispositions légales applicables dans le cas d'un programme de sûreté et de sa mise en œuvre, telle que prévue aux points 11.2.2 et 11.2.5 de l'annexe du règlement (UE) 2015/1998 susvisé, n'est pas soumise à une durée minimale.
 
@@ -2394,9 +2402,7 @@ RX et EDS simple vue multi vues
 
 |
 
-semestre calendaire
-
-|
+par période de six mois |
 
 EDS simple vue multi vues coupes et 3D
 
@@ -2406,9 +2412,7 @@ EDS simple vue multi vues coupes et 3D
 
 |
 
-semestre calendaire
-
-|
+par période de six mois |
 
 RX et EDS simple vue multi vues coupes et 3 D
 
@@ -2418,9 +2422,7 @@ RX et EDS simple vue multi vues coupes et 3 D
 
 |
 
-semestre calendaire
-
-|
+par période de six mois |
 
 Les durées d'entrainement périodique mentionnées ci-dessus sont à répartir sur l'ensemble des familles d'équipements utilisés par l'agent en formation périodique imagerie.
 
@@ -5626,4 +5628,4 @@ ancien article 12-11-2
 
 NOTA :
 
-Conformément au deuxième alinéa de l’article 4 de l’arrêté du 8 décembre 2023 (NOR : TREA2322766A), ces dispositions entrent en vigueur le 1er avril 2024.
+Conformément au troisième alinéa de l’article 4 de l’arrêté du 8 décembre 2023 (NOR : TREA2322766A), ces dispositions entrent en vigueur le 1er janvier 2025.
