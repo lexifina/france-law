@@ -1,0 +1,11 @@
+# Article 1er
+
+Cotisations
+
+L'article 5.4 est modifié comme suit :
+
+« Les taux de cotisation des garanties, exprimés en pourcentage du plafond sécurité sociale sont fixés à :
+
+(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)
+
+https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20250023 _ 0000 _ 0018. pdf/ BOCC
