@@ -1,0 +1,9 @@
+# Article C
+
+La partie la plus diligente des organisations signataires du présent avenant le notifie à l'ensemble des organisations représentatives à l'issue de la procédure de signature.
+
+Conformément aux articles L. 2231-6 et D. 2231-2 et suivants du code du travail, un exemplaire du présent avenant sera déposé auprès de la direction départementale de l'emploi, du travail et des solidarités de Vendée (DDETS 85), ainsi qu'au secrétariat-greffe du conseil de prud'hommes du lieu de sa conclusion.
+
+Une version sur support électronique est également communiquée à la DDETS du lieu de signature de l'avenant.
+
+Les parties conviennent de solliciter l'extension du présent avenant.
