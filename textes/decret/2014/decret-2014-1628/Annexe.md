@@ -56,7 +56,7 @@ Institut national de transfusion sanguine (INTS).
 
 Institut de recherche pour le développement (IRD).
 
-Institut de radioprotection et de sûreté nucléaire (IRSN).
+Autorité de sûreté nucléaire et de radioprotection (ASNR).
 
 Institut des sciences et industries du vivant et de l'environnement (AgroParisTech).
 

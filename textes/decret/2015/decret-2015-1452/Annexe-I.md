@@ -94,7 +94,7 @@ Code de la santé publique
 
 |
 
-Enregistrement des sources radioactives en préalable à leur cession ou acquisition (Institut de radioprotection et de sûreté nucléaire)
+Enregistrement des sources radioactives en préalable à leur cession ou acquisition (Autorité de sûreté nucléaire et de radioprotection)
 
 |
 
@@ -104,7 +104,7 @@ Article R. 1333-154
 
 |
 
-Enregistrement des sources radioactives en préalable à leur importation ou exportation (Institut de radioprotection et de sûreté nucléaire)
+Enregistrement des sources radioactives en préalable à leur importation ou exportation (Autorité de sûreté nucléaire et de radioprotection)
 
 |
 
@@ -215,3 +215,7 @@ Contrats de concession d'autoroutes approuvés par décret en Conseil d'Etat
 |
 
 |
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2024-1194 du 19 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

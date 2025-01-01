@@ -20,8 +20,8 @@ AUTRES EMPLOIS
 
 -directeur général de l'Autorité de régulation de la communication audiovisuelle et numérique ;
 
--directeur général de l'Autorité de sûreté nucléaire.
+-directeur général de l'Autorité de sûreté nucléaire et de radioprotection.
 
 NOTA :
 
-Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 9 du décret n° 2024-1194 du 19 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

@@ -28,12 +28,6 @@ Recrutement réservé sans concours
 
 Agents contractuels relevant des ministres chargés de l'économie, des finances, de l'industrie, du budget et de la fonction publique (direction générale de l'administration et de la fonction publique)
 
-Agents contractuels de l'Autorité de sûreté nucléaire
-
-Agents contractuels de l'Autorité de la concurrence
-
-Agents contractuels des établissements publics sous tutelle des ministres chargés de l'économie, des finances, de l'industrie, du budget et de la fonction publique, hors emplois mentionnés en annexe du décret n° 84-38 du 18 janvier 1984 ou recrutements au titre de l'article 22 de la loi n° 96-659 du 26 juillet 1996 de réglementation des télécommunications
-
 |
 
 Adjoint administratif de 1re classe
@@ -50,6 +44,12 @@ Examen professionnalisé réservé
 
 |
 
+Agents contractuels de l'Autorité de sûreté nucléaire et de radioprotection
+
+Agents contractuels de l'Autorité de la concurrence
+
+|
+
 Attaché d'administration
 
 Ingénieur-économiste de la construction de classe normale
@@ -61,6 +61,8 @@ Traducteur
 Concours réservé
 
 |
+
+Agents contractuels des établissements publics sous tutelle des ministres chargés de l'économie, des finances, de l'industrie, du budget et de la fonction publique, hors emplois mentionnés en annexe du décret n° 84-38 du 18 janvier 1984 ou recrutements au titre de l'article 22 de la loi n° 96-659 du 26 juillet 1996 de réglementation des télécommunications |
 
 Agent technique des finances publiques de 2e classe
 
@@ -154,7 +156,7 @@ Examen professionnalisé réservé
 
 Agents contractuels relevant des ministres chargés de l'économie, des finances, de l'industrie et du budget
 
-Agents contractuels de l'Autorité de sûreté nucléaire
+Agents contractuels de l'Autorité de sûreté nucléaire et de radioprotection
 
 Agents contractuels de l'Institut Mines-Télécom et des écoles nationales supérieures des Mines, hors emplois mentionnés en annexe du décret n° 84-38 du 18 janvier 1984 ou recrutements au titre de l'article 22 de la loi n° 96-659 du 26 juillet 1996 de réglementation des télécommunications
 
@@ -171,3 +173,7 @@ Ingénieur de laboratoire du ministère de l'économie, des finances et de l'ind
 Concours réservé
 
 |
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2024-1194 du 19 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

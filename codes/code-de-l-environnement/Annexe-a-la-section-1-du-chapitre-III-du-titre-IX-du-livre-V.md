@@ -28,7 +28,7 @@ Pour les radionucléides figurant au tableau 2 de l'annexe 13-8 à la première 
 
 Toutefois, pour le tritium, la valeur de référence est fixée à 107 Bq.
 
-La valeur de référence des autres radionucléides peut être fixée par décision de l'Autorité de sûreté nucléaire en fonction des impératifs de radioprotection. A défaut, la valeur de référence est fixée à 1 000 Bq.
+La valeur de référence des autres radionucléides peut être fixée par décision de l'Autorité de sûreté nucléaire et de radioprotection en fonction des impératifs de radioprotection. A défaut, la valeur de référence est fixée à 1 000 Bq.
 
 2° Quantification de l'activité des radionucléides présents dans une installation :
 
@@ -47,3 +47,7 @@ La présence de sources radioactives dans les installations mentionnées au IV d
 Les radionucléides contenus dans des substances radioactives dont l'activité massique totale est inférieure à 100 kBq par kilogramme ne sont pris en compte ni dans le calcul du coefficient “ Q ”, ni pour l'application des seuils énoncés au 2° du III de l'article R. 593-2.
 
 Il en est de même des radionucléides naturels contenus dans des substances radioactives qui ne sont pas ou n'ont jamais été utilisées pour leurs propriétés radioactives, fissiles ou fertiles.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2024-1194 du 19 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
