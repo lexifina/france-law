@@ -72,129 +72,141 @@ A |
 
 SGAMI EST |
 
-Adjoint directeur SIC chef du département DSI Dijon |
+Directeur des SIC |
+
+A |
+
+30 |
+
+Adjoint au directeur des SIC |
 
 A |
 
 25 |
 
-Chef du département réseaux fixes Metz |
+Chef du département réseau |
 
 A |
 
 20 |
 
-Chef du département pilotage et coordination des moyens Dijon |
-
-A |
-
-20 |
-
-Chargé de mission veille technologique Dijon |
+Chef du département pilotage et coordination des moyens Metz |
 
 A |
 
 15 |
 
-Adjoint chef du département des réseaux fixes Metz |
+Chef du département des systèmes d'information Metz |
 
 A |
 
 15 |
 
-Chef de bureau-opérateur Metz |
+Adjoint au chef du département réseaux-Responsable technique |
 
 A |
 
-15 |
+10 |
 
-Chef du département réseaux mobiles Dijon |
+Adjoint au chef du département réseaux-Responsable des opérations |
 
 A |
 
-15 |
+10 |
 
-Chef du bureau Data Center Metz |
+Chef du bureau opérateur |
 
 A |
 
-15 |
+10 |
 
-Chef du bureau exploitation réglementation et soutien Dijon |
+Chef du bureau data center |
 
 A |
 
-15 |
+10 |
 
-Chef de bureau applications et postes de travail Metz |
+Chef de bureau réseau |
 
 A |
 
-15 |
+10 |
 
-Chef du bureau développement Dijon |
+Chef du bureau développement |
 
 A |
 
-15 |
+10 |
 
-Chef de bureau affaires générales et moyens Metz |
+Chef du bureau de la veille technologique |
+
+A |
+
+10 |
+
+Chef du bureau infrastructure |
+
+A |
+
+10 |
+
+Chef du bureau logistique et approvisionnement |
+
+A/ B + |
+
+10 |
+
+Chef du bureau support utilisateur |
+
+A |
+
+10 |
+
+Chef du bureau architecture zonale et urbanisation |
+
+A |
+
+10 |
+
+Chef du bureau sécurité système d'information bâtimentaire |
+
+A |
+
+10 |
+
+Chef du bureau hébergement internet |
+
+A |
+
+10 |
+
+Chef du bureau hébergement intranet |
+
+A |
+
+10 |
+
+Chef du bureau SSI |
+
+A |
+
+10 |
+
+Chef de section réseau mobile |
 
 B |
 
 10 |
 
-Chef de section radio Metz |
+Chef de section réseau fixe Dijon |
 
 B |
 
 10 |
 
-Adjoint chef du département pilotage et coordination des moyens Dijon |
+Chef de section réseau fixe Strasbourg |
 
 B |
-
-10 |
-
-Chef de section technique TTD Dijon |
-
-B |
-
-10 |
-
-Chef de section radio Dijon |
-
-B |
-
-10 |
-
-Chef de bureau Telecom Dijon |
-
-B |
-
-10 |
-
-Chef STD Strasbourg |
-
-B |
-
-10 |
-
-Chef STD Châlons-en-Champagne |
-
-B |
-
-10 |
-
-Chef de STD Besançon |
-
-A/B |
-
-10 |
-
-Chef de STD Nancy |
-
-A/B |
 
 10 |
 
@@ -206,123 +218,123 @@ A |
 
 20 |
 
-Chef de la délégation régionale des système d'information et de communication (Tours) |
+Chef du bureau études et projets |
 
 A |
 
 20 |
 
-Chef du bureau développement (Rennes) |
+Adjoint au chef du bureau-chef de la section études et projets secteur Nord |
 
 A |
 
 15 |
 
-Chef du bureau défense et sécurité des systèmes d'information + DZSN (Rennes) |
+Chef du bureau défense et sécurité des systèmes d'information + DZSN |
 
 A |
 
 15 |
 
-Chef du bureau datacenter (Rennes) |
+Chef de la section Datacenter |
 
 A |
 
 15 |
 
-Chef du bureau exploitation expertise réseaux et télécoms (Rennes) |
+Adjoint au chef du bureau-chef de la section déploiement exploitation maintenance secteur Nord |
 
 A |
 
 15 |
 
-Chef du département réseaux mobiles (Rennes) |
+Chef du bureau de l'innovation et développement de logiciel |
 
 A |
 
 15 |
 
-Adjoint au chef du département (Rennes) |
+Chargé de mission radio |
 
 A |
 
 15 |
 
-Chef bureau infrastructure (Rennes) |
+Chef de la section études et projets secteur Sud |
 
 A |
 
 15 |
 
-Chef du département des réseaux fixes (Rennes) |
+Chef de la section déploiement exploitation maintenance secteur Sud |
 
 A |
 
 15 |
 
-Technicien réseau (Nantes) |
+Technicien réseau et système d'information expert |
 
 B |
 
 10 |
 
-Chef de la section radio et réglementation (Tours) |
+Chef de la section innovation |
+
+A/ B |
+
+10 |
+
+Chef de projet en systèmes et réseaux d'information et de communication (Rouen) |
 
 B |
 
 10 |
 
-Adjoint BDSSI - chef de projet SSI et sûreté (Rennes) |
+Adjoint au chef de section déploiement exploitation maintenance secteur Sud |
+
+A/ B |
+
+10 |
+
+Chef de la section soutien aux utilisateurs (Rennes) |
 
 B |
 
 10 |
 
-Adjoint technique au chef du département (Rennes) |
+Concepteur développeur et intégrateur d'application Web |
 
 B |
 
 10 |
 
-Chef du bureau soutien aux utilisateurs (Rennes) |
+Adjoint au chef de la section déploiement exploitation maintenance secteur Nord |
+
+A/ B |
+
+10 |
+
+Technicien réseau et système d'information |
 
 B |
 
 10 |
 
-Chef de la section développement (Tours) |
+Adjoint DZSN et adjoint au chef du bureau sécurité et sureté |
 
-B |
-
-10 |
-
-Chef du bureau pilotage (Rennes) |
-
-B |
+A/ B |
 
 10 |
 
-Technicien réseau - référent atelier (Rouen) |
+Chef de la section supervision et exploitation |
 
-B |
-
-10 |
-
-Chef de la STD 44 (Nantes) |
-
-A/B |
+A/ B |
 
 10 |
 
-Adjoint au chef de la DRSIC, chef de la section système réseau et intégration de service (Tours) |
+Adjoint au chef du bureau-Chef de la section développement de logiciel et support aux applications |
 
-A/B |
-
-10 |
-
-Chef de projet réseau télécoms, référent du pôle technique local (Quimper) |
-
-A/B |
+A/ B |
 
 10 |
 
@@ -378,13 +390,13 @@ A |
 
 Chef du centre technique de Bordeaux (DRM) |
 
-A/B |
+A/ B |
 
 10 |
 
 Responsable de la cellule zonale de sécurité des systèmes d'information & gestion de crise |
 
-A/B |
+A/ B |
 
 10 |
 
@@ -396,7 +408,7 @@ A |
 
 Responsable de la cellule sûreté bâtimentaire |
 
-A/B |
+A/ B |
 
 10 |
 
@@ -420,7 +432,7 @@ A |
 
 20 |
 
-Chef du bureau des systèmes d'information du SGAMI sud-est |
+Chef du département des systèmes d'information et du support du SGAMI Sud-Est |
 
 A |
 
@@ -432,13 +444,13 @@ A |
 
 15 |
 
-Chef du bureau des réseaux de données du SGAMI sud-est |
+Chef du département des réseaux mobiles du SGAMI Sud-Est |
 
 A |
 
 15 |
 
-Chef du bureau des réseaux mobiles du SGAMI sud-est |
+Chef du département des réseaux fixes du SGAMI Sud-Est |
 
 A |
 
@@ -482,7 +494,7 @@ A |
 
 20 |
 
-Chef du pôle Défense SSSI et Evénements Nice |
+Chef du pôle Défense SSI et Evénements Marseille |
 
 A |
 
@@ -536,9 +548,9 @@ A |
 
 10 |
 
-Chef du pôle infrastructures serveurs Marseille |
+Chef du pôle exploitation systèmes Marseille |
 
-A/B |
+A/ B |
 
 10 |
 
@@ -574,11 +586,11 @@ A |
 
 10 |
 
-Chef du bureau du support des réseaux fixes et adjoint fonctionnel du SEET |
+Adjoint au sous-directeur des technologies en charge des infrastructures opérationnelles |
 
 A |
 
-15 |
+13 |
 
 Technicien expert et administrateur téléphonie |
 
@@ -592,12 +604,12 @@ B |
 
 10 |
 
-Chef de la section des techniciens d'intervention sur le poste de travail |
+Adjoint au sous-directeur des technologies |
 
 B |
 
-10 |
+12 |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 27 mai 2024 (NOR : IOMA2414212A), ces dispositions entrent en vigueur le 1er juin 2024.
+Conformément à l'article 2 de l'arrêté du 21 janvier 2025 (NOR : INTA2502298A), ces dispositions entrent en vigueur le 1er janvier 2025.

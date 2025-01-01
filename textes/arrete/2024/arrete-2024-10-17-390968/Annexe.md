@@ -104,6 +104,12 @@ Ponctuelle |
 
 INSEE |
 
+Recensement général de la population de Nouvelle-Calédonie |
+
+Ponctuelle |
+
+INSEE |
+
 (*) Voir liste des producteurs.
 
 Emploi, qualification et revenus du travail |
@@ -200,6 +206,18 @@ Annuelle |
 
 DREES |
 
+Panel d'élèves de petite section recruté en septembre 2021 |
+
+Ponctuelle |
+
+DEPP |
+
+Enquête &laquo; Vécu et ressenti en matière de sécurité &raquo; (VRS) |
+
+Annuelle |
+
+SSMSI |
+
 (*) Voir liste des producteurs.
 
 2. Enquêtes d'intérêt général
@@ -217,6 +235,40 @@ Enquête SHARE (Vague 10) |
 Ponctuelle |
 
 LEDa |
+
+Enquête auprès des personnes fréquentant des services d'aide, dite &laquo; Sans domicile &raquo; 2025, volet Individus |
+
+Ponctuelle |
+
+INSEE |
+
+(*) Voir liste des producteurs.
+
+Environnement et développement durable |
+
+Périodicité |
+
+Producteur (*) |
+
+Enquête nationale auprès des passagers aériens (ENPA) |
+
+Ponctuelle |
+
+DGAC |
+
+(*) Voir liste des producteurs.
+
+Services publics et services aux publics |
+
+Périodicité |
+
+Producteur (*) |
+
+Enquête SHARE (Vague 10) |
+
+Ponctuelle |
+
+DEPP |
 
 (*) Voir liste des producteurs.
 
@@ -257,6 +309,14 @@ DEPP |
 Direction de l'évaluation, de la prospective et de la performance |
 
 Ministère de l'éducation nationale |
+
+DGAC |
+
+Direction générale de l'aviation civile |
+
+Ministère des transports
+
+Ministère du partenariat avec les territoires et de la décentralisation |
 
 DREES |
 
