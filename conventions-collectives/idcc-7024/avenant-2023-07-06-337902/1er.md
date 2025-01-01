@@ -4,19 +4,17 @@ L'accord de prévoyance du 26 novembre 2002 et ses avenants sont ainsi réécrit
 
 « 1.   Champ d'application professionnel et territorial.   Groupe assuré
 
-Le présent accord met en place un régime de prévoyance comprenant les garanties incapacité, invalidité, décès, rente éducation et frais d'obsèques, ainsi qu'une garantie maintien de salaire au bénéfice de l'ensemble des salariés non-cadres occupés habituellement et principalement à des travaux d'arboriculture sur une exploitation fruitière, à des travaux de production de petits fruits sur une exploitation dont cette dernière production est l'activité principale, ou à des travaux effectués dans les établissements de transformation, de conditionnement et de commercialisation lorsque ces activités constituent le prolongement de la production de fruits.
+Le présent accord met en place un régime de prévoyance comprenant les garanties incapacité, invalidité, décès, rente éducation et frais d'obsèques, ainsi qu'une garantie maintien de salaire au bénéfice de l'ensemble des salariés ne relevant pas des articles 2.1 et 2.2 de l'accord national interprofessionnel (ANI) relatif à la prévoyance des cadres du 17 novembre 2017, occupés habituellement et principalement à des travaux d'arboriculture sur une exploitation fruitière, à des travaux de production de petits fruits sur une exploitation dont cette dernière production est l'activité principale, ou à des travaux effectués dans les établissements de transformation, de conditionnement et de commercialisation lorsque ces activités constituent le prolongement de la production de fruits.
 
 Sont donc exclus du dispositif de prévoyance :
 
-– les cadres et personnel relevant de la convention collective du 2 avril 1952 et de la caisse de retraite complémentaire cadre en application des décisions de l'Agirc et bénéficiant à ce titre, du régime de prévoyance défini dans la convention précitée ;
-
-– les salariés tels que définis ci-dessus relevant d'un accord collectif étendu plus favorable que la présente convention ;
+– les salariés relevant des articles 2.1 et 2.2 de l'accord national interprofessionnel (ANI) relatif à la prévoyance des cadres du 17 novembre 2017, techniciens, agents de maîtrise et cadres relevant de la convention collective du 2 avril 1952 et du régime Agirc-Arrco, et bénéficiant à ce titre du régime de prévoyance défini dans la convention précitée ;
 
 – les catégories particulières de salariés (VRP par exemple) relevant d'autres dispositions conventionnelles.
 
-Territorialement, le présent accord s'applique aux travaux effectués sur toutes les exploitations et établissements dont le siège est situé sur le territoire des départements de l'Ouest de la France (Côtes-d'Armor, Deux-Sèvres, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Mayenne, Morbihan, Sarthe et Vendée).
+Territorialement, le présent accord s'applique aux travaux effectués sur toutes les exploitations dont le siège est situé sur le territoire des départements de l'Ouest de la France (Côtes d'Armor, Deux-Sèvres, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Mayenne, Morbihan, Sarthe et Vendée).
 
-Les dispositions du présent accord s'appliquent aux salariés non-cadres, sans condition d'ancienneté, sauf pour la garantie maintien de salaire accordée après une année d'ancienneté au sein de l'entreprise.
+Les dispositions du présent accord s'appliquent aux salariés ne relevant pas des articles 2.1 et 2.2 de l'accord national interprofessionnel (ANI) relatif à la prévoyance des cadres du 17 novembre 2017, sans condition d'ancienneté, sauf pour la garantie maintien de salaire accordée après une année d'ancienneté au sein de l'entreprise.
 
 2.   Garanties
 
@@ -48,7 +46,7 @@ Pour le bénéfice de la majoration pour enfant à charge, est considéré comme
 
 • “ Enfant ” du participant :
 
-– l'enfant du participant (légitime, adopté ou reconnu, né ou à naître) ;
+– l'enfant tel que défini par le code civil (articles 311-25 à 317) ;
 
 – l'enfant recueilli par le participant et pour lequel la qualité de tuteur lui a été reconnue ;
 
@@ -62,15 +60,15 @@ Pour le bénéfice de la majoration pour enfant à charge, est considéré comme
 
 – l'enfant jusqu'à son 26e anniversaire et sous conditions, soit :
 
-–– de poursuivre des études dans un établissement d'enseignement secondaire, supérieur ou professionnel ;
+– – de poursuivre des études dans un établissement d'enseignement secondaire, supérieur ou professionnel ;
 
-–– d'être en apprentissage ;
+– – d'être en apprentissage ;
 
-–– de poursuivre une formation professionnelle en alternance, dans le cadre d'un contrat d'aide à l'insertion professionnelle des jeunes associant d'une part des enseignements généraux professionnels et technologiques dispensés pendant le temps de travail, dans des organismes publics ou privés de formation et d'autre part, l'acquisition d'un savoir-faire par l'exercice en entreprise d'une ou plusieurs activités professionnelles en relation avec les enseignements reçus ;
+– – de poursuivre une formation professionnelle en alternance, dans le cadre d'un contrat d'aide à l'insertion professionnelle des jeunes associant d'une part des enseignements généraux professionnels et technologiques dispensés pendant le temps de travail, dans des organismes publics ou privés de formation et d'autre part, l'acquisition d'un savoir-faire par l'exercice en entreprise d'une ou plusieurs activités professionnelles en relation avec les enseignements reçus ;
 
-–– d'être préalablement à l'exercice d'un premier emploi rémunéré : inscrit à Pôle emploi comme demandeur d'emploi ou stagiaire de la formation professionnelle ;
+– – d'être préalablement à l'exercice d'un premier emploi rémunéré : inscrit à Pôle emploi comme demandeur d'emploi ou stagiaire de la formation professionnelle ;
 
-–– d'être employé dans un centre d'aide par le travail ou dans un atelier protégé en tant que travailleur handicapé ;
+– – d'être employé dans un centre d'aide par le travail ou dans un atelier protégé en tant que travailleur handicapé ;
 
 – l'enfant invalide, en cas d'invalidité équivalente à l'invalidité de deuxième ou troisième catégorie de la sécurité sociale, justifiée par un avis médical ou tant qu'il bénéficie de l'allocation d'adulte handicapé et tant qu'il est titulaire de la carte d'invalide civil.
 
