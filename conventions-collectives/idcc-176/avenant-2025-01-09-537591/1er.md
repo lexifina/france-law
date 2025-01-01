@@ -1,0 +1,479 @@
+# Article 1er
+
+Les dispositions de l'article 5.2 « Cotisations contractuelles et cotisations appelées » de l'accord collectif du 22 juin 2007 sur le régime frais de soins de santé des anciens salariés sont annulées et remplacées par les dispositions suivantes :
+
+« 5.2.   Cotisations contractuelles et cotisations appelées
+
+La cotisation contractuelle doit permettre l'équilibre global du régime et le financement des taxes et contributions diverses auxquelles sont assujetties les cotisations santé. Elle est exprimée en euros et est indépendante du revenu de remplacement.
+
+La cotisation appelée est la cotisation à payer par l'assuré.
+
+5.2.1.   RPC
+
+5.2.1.1.   Cotisations contractuelles TTC
+
+Le montant des cotisations contractuelles est fixé comme suit pour le régime professionnel conventionnel :
+
+Cotisations contractuelles 2025 [1]
+
+RPC TTC – RG
+
+Cotisations mensuelles hors affiliés au régime local de sécurité sociale des départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Année d'adhésion |
+
+1re année [1] |
+
+2e année [1] |
+
+3e année [1] |
+
+4e année [1] |
+
+5e année et plus [1] |
+
+Pour chaque adhérent retraité |
+
+89,27 € |
+
+97,29 € |
+
+105,31 € |
+
+113,33 € |
+
+122,65 € |
+
+Pour chaque conjoint d'adhérent retraité ou veuf (ve) de l'adhérent |
+
+122,65 € |
+
+122,65 € |
+
+122,65 € |
+
+122,65 € |
+
+122,65 € |
+
+Pour chaque adhérent non retraité |
+
+89,27 € |
+
+97,29 € |
+
+105,31 € |
+
+106,50 € |
+
+108,16 € |
+
+Pour chaque conjoint d'adhérent non retraité ou veuf (ve) d'adhérent décédé en activité |
+
+108,16 € |
+
+108,16 € |
+
+108,16 € |
+
+108,16 € |
+
+108,16 € |
+
+Pour chaque enfant à charge (gratuité à partir du 4e enfant) |
+
+54,23 € |
+
+54,23 € |
+
+54,23 € |
+
+54,23 € |
+
+54,23 € |
+
+[1]   Le montant des cotisations est indexé au 1er janvier de chaque année en fonction de l'évolution du plafond annuel de la sécurité sociale de l'année N – 1. En outre, le montant peut être revu en fonction des résultats du régime des anciens salariés et des évolutions réglementaires. |
+
+-----
+
+Cotisations contractuelles 2025
+
+RPC TTC – ALS
+
+Cotisations mensuelles pour les affiliés au régime local de sécurité sociale des départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Année d'adhésion |
+
+1re année [1] |
+
+2e année [1] |
+
+3e année [1] |
+
+4e année [1] |
+
+5e année et plus [1] |
+
+Pour chaque adhérent retraité |
+
+49,16 € |
+
+53,51 € |
+
+57,96 € |
+
+68,00 € |
+
+73,59 € |
+
+Pour chaque conjoint d'adhérent retraité ou veuf (ve) de l'adhérent |
+
+73,59 € |
+
+73,59 € |
+
+73,59 € |
+
+73,59 € |
+
+73,59 € |
+
+Pour chaque adhérent non retraité |
+
+49,16 € |
+
+53,51 € |
+
+57,96 € |
+
+63,86 € |
+
+64,89 € |
+
+Pour chaque conjoint d'adhérent non retraité ou veuf (ve) d'adhérent décédé en activité |
+
+64,89 € |
+
+64,89 € |
+
+64,89 € |
+
+64,89 € |
+
+64,89 € |
+
+Pour chaque enfant à charge (gratuité à partir du 4e enfant) |
+
+32,50 € |
+
+32,50 € |
+
+32,50 € |
+
+32,50 € |
+
+32,50 € |
+
+[1]   Le montant des cotisations est indexé au 1er janvier de chaque année en fonction de l'évolution du plafond annuel de la sécurité sociale de l'année N – 1. En outre, le montant peut être revu en fonction des résultats du régime des anciens salariés et des évolutions réglementaires. |
+
+5.2.1.2.   Réduction accordée pour les retraités bénéficiant de la réserve de couverture : “ l'abondement ”
+
+Le montant appelé auprès de l'ancien salarié au titre du RPC est réduit pour les anciens salariés retraités qui bénéficient de la réserve de couverture et dont le revenu de remplacement est inférieur ou égal au plafond de la tranche 3 définie ci-après :
+
+|
+
+Tranche en fonction du revenu de remplacement annuel |
+
+Jusqu'au 31 décembre 2024 [1] |
+
+À compter du 1er janvier 2025 [1] |
+
+Tranche 1 |
+
+19 200 € ou moins |
+
+21 120 € ou moins |
+
+Tranche 2 |
+
+De 19 201 € à 24 000 € |
+
+De 21 121 € à 26 400 € |
+
+Tranche 3 |
+
+De 24 001 € à 31 200 € |
+
+De 26 401 € à 34 320 € |
+
+Tranche 4 |
+
+Supérieur à 31 200 € |
+
+Supérieur à 34 320 € |
+
+[1]   Le nouveau plafond des tranches entre en vigueur au 1er janvier 2025 pour les adhésions nouvelles au régime des anciens salariés à compter du 1er janvier 2024 ; Les adhésions en cours au 31 décembre 2023 ne sont pas concernées et conservent le bénéfice de la tranche d'abondement dans laquelle elles ont été classées en fonction des règles en vigueur au 31 décembre 2023. |
+
+Le montant de réduction appelé “ abondement ” est fixé par la commission paritaire de branche après préconisation du comité paritaire de gestion selon les dispositions de l'article 6.2, en fonction du revenu de remplacement des anciens salariés retraités qui bénéficient de la réserve de couverture.
+
+Le montant mensuel de l'abondement est fixé comme suit en fonction de la tranche dans laquelle se situe le revenu de remplacement :
+
+Tranche de revenu de remplacement |
+
+Abondement mensuel TTC |
+
+Tranche 1 |
+
+30,00 € |
+
+Tranche 2 |
+
+25,00 € |
+
+Tranche 3 |
+
+15,50 € |
+
+Tranche 4 |
+
+0,0 € |
+
+Le revenu de remplacement est déterminé en fonction du revenu “ traitements, salaires, prime pour l'emploi, pensions et rentes ” figurant sur l'avis d'imposition dès lors qu'une année complète figure sur cet avis.
+
+Dans le cas où le montant du revenu de remplacement n'est pas connu à la date d'adhésion au présent régime, la cotisation sera fixée sur la base de 60 % du dernier revenu net d'activité déclaré par l'entreprise.
+
+Lorsque l'ancien salarié ne fournit pas à l'assureur le justificatif du montant de son revenu net de remplacement, il ne bénéficie d'aucune réduction de cotisation, c'est la cotisation contractuelle qui s'applique.
+
+5.2.1.3.   Cotisations appelées TTC pour les retraités bénéficiant de la réserve de couverture
+
+La cotisation appelée auprès des anciens salariés retraités qui bénéficient de la réserve de couverture est égale à la cotisation contractuelle visée au 5.2.1.1 moins l'abondement visé au 5.2.1.2.
+
+Cotisations TTC mensuelles appelées en 2025 au titre du RPC pour les adhérents retraités bénéficiant de la réserve de couverture
+
+(hors affiliés au régime local de sécurité sociale des départements du Bas-Rhin, du Haut-Rhin et de la Moselle) |
+
+Cotisations mensuelles |
+
+Année d'adhésion |
+
+Revenu de remplacement annuel |
+
+1re année [1] |
+
+2e année [1] |
+
+3e année [1] |
+
+4e année [1] |
+
+5e année et plus [1] |
+
+Tranche 1 |
+
+59,27 € |
+
+67,29 € |
+
+75,31 € |
+
+83,33 € |
+
+92,65 € |
+
+Tranche 2 |
+
+64,27 € |
+
+72,29 € |
+
+80,31 € |
+
+88,33 € |
+
+97,65 € |
+
+Tranche 3 |
+
+73,77 € |
+
+81,79 € |
+
+89,81 € |
+
+97,83 € |
+
+107,15 € |
+
+Tranche 4 |
+
+89,27 € |
+
+97,29 € |
+
+105,31 € |
+
+113,33 € |
+
+122,65 € |
+
+[1]   Le montant des cotisations évolue chaque année en fonction de l'évolution des cotisations contractuelles visées au 5.2.1.1 et de l'abondement visé au 5.2.1.2. |
+
+-----
+
+Cotisations TTC mensuelles appelées en 2025 au titre du RPC pour les adhérents retraités bénéficiant de la réserve de couverture
+
+(affiliés au régime local de sécurité sociale des départements du Bas-Rhin, du Haut-Rhin et de la Moselle) |
+
+Cotisations mensuelles |
+
+Année d'adhésion |
+
+Revenu de remplacement annuel |
+
+1re année [1] |
+
+2e année [1] |
+
+3e année [1] |
+
+4e année [1] |
+
+5e année et plus [1] |
+
+Tranche 1 |
+
+19,16 € |
+
+23,51 € |
+
+27,96 € |
+
+38,00 € |
+
+43,59 € |
+
+Tranche 2 |
+
+24,16 € |
+
+28,51 € |
+
+32,96 € |
+
+43,00 € |
+
+48,59 € |
+
+Tranche 3 |
+
+33,66 € |
+
+38,01 € |
+
+42,46 € |
+
+52,50 € |
+
+58,09 € |
+
+Tranche 4 |
+
+49,16 € |
+
+53,51 € |
+
+57,96 € |
+
+68,00 € |
+
+73,59 € |
+
+[1]   Le montant des cotisations évolue chaque année en fonction de l'évolution des cotisations contractuelles visées au 5.2.1.1 et de l'abondement visé au 5.2.1.2. |
+
+5.2.1.4. Cotisations appelées TTC pour les retraités ne bénéficiant pas de la réserve de couverture et les autres catégories
+
+Pour les retraités ne bénéficiant pas de la réserve de couverture et les autres catégories (conjoints, enfants, adhérents non retraités) le montant de la cotisation appelée est égal au montant de la cotisation contractuelle visées à l'article 5.2.1.1.
+
+5.2.2.   RS
+
+Le montant des cotisations contractuelles est fixé comme suit pour le régime supplémentaire (le montant s'ajoute à la cotisation du RPC) :
+
+Cotisations contractuelles 2025 [1]
+
+RS TTC par mois |
+
+Année d'adhésion |
+
+1re année [1] |
+
+2e année [1] |
+
+3e année [1] |
+
+4e année [1] |
+
+Année 5 et plus [1] |
+
+Adhérent retraité |
+
+11,49 € |
+
+14,28 € |
+
+17,18 € |
+
+19,98 € |
+
+22,87 € |
+
+Conjoint d'adhérent retraité ou veuf (ve) de l'adhérent |
+
+22,87 € |
+
+22,87 € |
+
+22,87 € |
+
+22,87 € |
+
+22,87 € |
+
+Adhérent non retraité |
+
+11,49 € |
+
+14,28 € |
+
+17,18 € |
+
+19,98 € |
+
+22,87 € |
+
+Conjoint d'adhérent non retraité ou veuf (ve) d'adhérent décédé en activité |
+
+22,87 € |
+
+22,87 € |
+
+22,87 € |
+
+22,87 € |
+
+22,87 € |
+
+Enfant à charge (gratuité à partir du 4e enfant) |
+
+15,11 € |
+
+15,11 € |
+
+15,11 € |
+
+15,11 € |
+
+15,11 € |
+
+[1]   Le montant des cotisations est indexé au 1er janvier de chaque année en fonction de l'évolution du plafond annuel de la sécurité sociale de l'année N – 1. En outre, le montant peut être revu en fonction des résultats du régime des anciens salariés et des évolutions réglementaires. |
+
+Le montant de la cotisation appelée au titre du RS est égal au montant de la cotisation contractuelle. »
