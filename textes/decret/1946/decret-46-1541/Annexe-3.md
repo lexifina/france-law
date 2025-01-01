@@ -176,9 +176,7 @@ Le montant de la pension est calculé en multipliant le pourcentage de liquidati
 
 Article 9-1
 
-La durée des services et des bonifications nécessaire à l'obtention du pourcentage maximum de la pension est celle qui est en vigueur lorsque les agents atteignent l'âge de soixante ans.
-
-Par dérogation à l'alinéa précédent, la durée des services et des bonifications exigée des agents qui remplissent les conditions de liquidation d'une pension avant l'âge de soixante ans est celle exigée des agents atteignant l'âge de soixante ans l'année à compter de laquelle la liquidation peut intervenir.
+(Abrogé)
 
 Article 10
 
@@ -188,7 +186,7 @@ I.-Sous réserve des dispositions transitoires de l'article 45 ci-après, lorsqu
 
 Le nombre de trimestres pris en compte pour ce calcul est égal :
 
-1° Soit au nombre de trimestres correspondant à la durée qui sépare l'âge auquel la pension est liquidée d'un âge de référence correspondant à l'âge minimum d'ouverture du droit à pension applicable à l'assuré majoré de cinq ans. Pour les personnes dont l'ouverture du droit à pension n'est pas subordonnée à une condition d'âge minimum, l'âge de référence est celui qui résulterait de l'application de la phrase précédente si elles n'étaient pas dispensées d'une telle condition ;
+1° Soit au nombre de trimestres correspondant à la durée qui sépare l'âge auquel la pension est liquidée d'un âge de référence correspondant à l'âge minimum d'ouverture du droit à pension applicable à l'assuré majoré de trois ans ou, lorsque celui-ci relève du 7° de l'article 16, de cinq ans. Pour les personnes dont l'ouverture du droit à pension n'est pas subordonnée à une condition d'âge minimum, l'âge de référence est celui qui résulterait de l'application de la phrase précédente si elles n'étaient pas dispensées d'une telle condition ;
 
 2° Soit au nombre de trimestres supplémentaires qui serait nécessaire, à la date de liquidation de la pension, pour atteindre le nombre de trimestres permettant d'obtenir le pourcentage maximum de la pension mentionné au quatrième alinéa de l'article 9 ci-dessus. Toutefois, le nombre de trimestres pris en compte ne peut excéder la différence entre ledit nombre de trimestres permettant d'obtenir le pourcentage maximum de la pension et cent cinquante, ce maximum étant réduit, le cas échéant, du nombre de trimestres d'assurance, au sens du III ci-après, cotisés et effectués au-delà de l'âge auquel le droit à pension est ouvert lorsqu'il existe une telle condition d'âge.
 
@@ -204,7 +202,9 @@ c) Sous réserve qu'ils soient reconnus inaptes au travail par la médecine-cons
 
 d) Aux agents ayant bénéficié d'un dispositif légal ou conventionnel de cessation anticipée d'activité des travailleurs de l'amiante ;
 
-e) Aux agents âgés d'au moins soixante-cinq ans qui bénéficient d'un nombre minimum de trimestres, fixé par le décret prévu au septième alinéa du I de l'article L. 14 du code des pensions civiles et militaires de retraite, au titre de la majoration de durée d'assurance prévue à l'article 15 ou qui, pendant une durée et dans des conditions fixées par le même décret, ont apporté une aide effective à leur enfant bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 245-3 du code de l'action sociale et des familles.
+e) Aux agents âgés d'au moins soixante-cinq ans qui bénéficient d'un nombre minimum de trimestres, fixé par le décret prévu au septième alinéa du I de l'article L. 14 du code des pensions civiles et militaires de retraite, au titre de la majoration de durée d'assurance prévue à l'article 15 ou qui, pendant une durée et dans des conditions fixées par le même décret, ont apporté une aide effective à leur enfant bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 245-3 du code de l'action sociale et des familles ;
+
+f) Aux agents bénéficiant d'un abaissement de l'âge d'ouverture du droit à pension en application de l'article 17-1.
 
 II.-Lorsque la durée d'assurance, définie au III ci-après, est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension mentionné au quatrième alinéa de l'article 9 ci-dessus sans être inférieure à cent soixante trimestres, et que l'agent a atteint l'âge mentionné au 1° du I de l'article 16, un coefficient de majoration s'applique au montant de la pension calculée en application de l'article 9 ci-dessus.
 
@@ -223,6 +223,10 @@ Pour le calcul de la durée d'assurance :
 1° Les périodes d'activité à temps partiel sont décomptées comme des périodes d'activité à temps plein ;
 
 2° Une année civile ne peut compter plus de quatre trimestres, sous réserve des majorations de durée de services et des bonifications prévues par la présente annexe.
+
+IV. - Pour les assurés qui bénéficient d'au moins un trimestre de bonification de services ou de majoration de durée d'assurance au titre des articles 12, 14 et 15, la durée d'assurance ayant donné lieu à cotisations à la charge de l'assuré, accomplie l'année précédant l'âge mentionné au 1° du I de l'article 16, lorsque celui-ci est égal ou supérieur à soixante-trois ans, et au-delà du nombre de trimestres mentionné au quatrième alinéa de l'article 9 ouvre droit à une majoration de pension dans les mêmes conditions que celles prévues au II du présent article.
+
+Les conditions dans lesquelles sont prises en compte, pour le bénéfice des bonifications ou majorations de pension mentionnés à l'alinéa précédent, les trimestres de majoration de durée d'assurance ou de bonification accordés à l'assuré, aux mêmes titres que ceux mentionnés aux articles 12, 14 et 15, par d'autres régimes légaux ou rendus légalement obligatoires d'assurance vieillesse, sont déterminées par le décret prévu au IV de l'article L. 14 du code des pensions civiles et militaires de retraite.
 
 Article 11
 
@@ -298,9 +302,9 @@ Conditions d'ouverture du droit à pension de vieillesse
 
 I.-La liquidation de la pension de vieillesse intervient sur demande :
 
-1° Lorsque l'agent a atteint au moins l'âge de soixante-deux ans ;
+1° Lorsque l'agent a atteint au moins l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale ;
 
-2° Lorsque l'agent a atteint au moins l'âge de cinquante-sept ans s'il totalise dix-sept ans de services effectifs actifs, insalubres et militaires ou dix ans de services effectifs insalubres. L'agent totalisant moins de dix-sept ans de services effectifs actifs, insalubres et militaires bénéficie d'un abaissement de l'âge mentionné au 1° du présent I comme indiqué dans le tableau suivant :
+2° Lorsque l'agent a atteint au moins l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale abaissé de cinq ans, s'il totalise dix-sept ans de services effectifs actifs, insalubres et militaires ou dix ans de services effectifs insalubres. L'agent totalisant moins de dix-sept ans de services effectifs actifs, insalubres et militaires bénéficie d'un abaissement de l'âge mentionné au 1° du présent I comme indiqué dans le tableau suivant :
 
 POUR LES AGENTS QUI ONT ACCOMPLI DES SERVICES EFFECTIFS
 
@@ -346,6 +350,8 @@ a) Soit reconnu inapte par le médecin du travail à être maintenu dans son emp
 
 b) Soit en position de longue maladie ;
 
+7° bis Lorsque l'agent a atteint l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale abaissé de deux années et est bénéficiaire de la pension d'invalidité mentionnée à l'article 31 ;
+
 8° Lorsque l'agent est accidenté du travail, réformé de guerre, victime civile de guerre ou pompier bénévole et qu'il est atteint en service d'une incapacité permanente partielle d'un taux au moins égal à 25 %. Il peut bénéficier d'une anticipation de l'âge de départ en retraite à raison de :
 
 a) Trois mois par tranche de 10 % de taux d'incapacité permanente partielle, pour les agents totalisant au moins quinze ans de services effectifs actifs insalubres et militaires ou au moins dix ans de services effectifs insalubres ;
@@ -364,83 +370,37 @@ Article 17
 
 Salariés en situation de handicap
 
-I.-Pour les agents handicapés qui totalisent, alors qu'ils étaient atteints d'une incapacité permanente d'au moins 50 %, une durée d'assurance minimale telle que définie au III de l'article 10, tout ou partie de cette durée ayant donné lieu à versement de cotisations, l'âge d'ouverture du droit à pension est fixé, sous réserve des dispositions transitoires du I de l'article 45, conformément au tableau ci après :
+I.-Pour les agents handicapés qui totalisent, alors qu'ils étaient atteints d'une incapacité permanente d'au moins 50 %, une durée d'assurance minimale telle que définie au III de l'article 10, cette durée ayant donné lieu à versement de cotisations, l'âge d'ouverture du droit à pension est fixé, sous réserve des dispositions transitoires du I de l'article 45, conformément au tableau ci après :
 
-AGE D'OUVERTURE
+Age d'ouverture du droit |
 
-du droit
+Durée d'assurance minimale cotisée |
 
-|
+55 ans |
 
-DURÉE D'ASSURANCE MINIMALE COTISÉE
+Durée mentionnée au troisième alinéa de l'article 9 diminuée de 60 trimestres. |
 
-|
+56 ans |
 
-DURÉE D'ASSURANCE TELLE QUE DEFINIE AU III
+Durée mentionnée au troisième alinéa de l'article 9 diminuée de 70 trimestres. |
 
-de l'article 10
+57 ans |
 
-|
+Durée mentionnée au troisième alinéa de l'article 9 diminuée de 80 trimestres. |
 
-55 ans
+58 ans |
 
-|
+Durée mentionnée au troisième alinéa de l'article 9 diminuée de 90 trimestres. |
 
-Durée mentionnée au troisième alinéa de l'article 9 diminuée de 60 trimestres.
+59 ans |
 
-|
+Durée mentionnée au troisième alinéa de l'article 9 diminuée de 100 trimestres. |
 
-Durée mentionnée au troisième alinéa de l'article 9 diminuée de 40 trimestres.
+I bis. - Pour les agents nés entre le 1er janvier 1963 et le 31 décembre 1972, les dispositions du I s'appliquent en retranchant aux durées d'assurance minimale cotisées définies au I :
 
-|
+1° Pour les agents nés en 1963, 1964, 1965, 1967, 1970, 1971 et 1972, un trimestre supplémentaire ;
 
-56 ans
-
-|
-
-Durée mentionnée au troisième alinéa de l'article 9 diminuée de 70 trimestres.
-
-|
-
-Durée mentionnée au troisième alinéa de l'article 9 diminuée de 50 trimestres.
-
-|
-
-57 ans
-
-|
-
-Durée mentionnée au troisième alinéa de l'article 9 diminuée de 80 trimestres.
-
-|
-
-Durée mentionnée au troisième alinéa de l'article 9 diminuée de 60 trimestres.
-
-|
-
-58 ans
-
-|
-
-Durée mentionnée au troisième alinéa de l'article 9 diminuée de 90 trimestres.
-
-|
-
-Durée mentionnée au troisième alinéa de l'article 9 diminuée de 70 trimestres.
-
-|
-
-59 ans
-
-|
-
-Durée mentionnée au troisième alinéa de l'article 9 diminuée de 100 trimestres.
-
-|
-
-Durée mentionnée au troisième alinéa de l'article 9 diminuée de 80 trimestres.
-
-|
+2° Pour les agents nés en 1966, 1968 et 1969, deux trimestres supplémentaires.
 
 II.-Une majoration de pension est accordée aux agents en situation de handicap mentionnés au I en fonction du nombre de trimestres cotisés alors que l'agent était atteint d'une incapacité au moins égale à 50 %. La majoration de pension est égale à un tiers que multiplie le rapport entre le nombre de trimestres pris en compte pour la liquidation tel que défini au deuxième alinéa de l'article 9 ci-dessus réduit des bonifications éventuelles alors que l'agent était atteint d'une incapacité permanente égale au moins à 50 % et le nombre de trimestres admissibles en liquidation tel que défini au deuxième alinéa de l'article 9 ci-dessus. Ce nombre est arrondi, le cas échéant, au centième le plus proche.
 
@@ -450,11 +410,159 @@ III. - Pour bénéficier des dispositions du présent article, l'agent handicap�
 
 Article 17-1
 
-L'âge d'ouverture du droit à pension résultant de l'application du 1° du I de l'article 16 est abaissé pour les agents relevant du régime de retraite régi par la présente annexe qui ont commencé leur activité avant un âge et dans les conditions déterminés par le décret pris pour l'application de l'article L. 25 bis du code des pensions civiles et militaires de retraite et ont accompli une durée totale d'assurance et de périodes reconnues équivalentes dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires au moins égale à une limite définie par le même décret, tout ou partie de cette durée totale ayant donné lieu à cotisations à la charge de l'agent. Les modalités d'application du présent article et, notamment, les conditions dans lesquelles, le cas échéant, une partie des périodes de service national et les périodes pendant lesquelles les agents ont été placés en congé de maladie ainsi que les périodes comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité et de l'inaptitude temporaire peuvent être réputées avoir donné lieu au versement de cotisations sont celles prévues par ce même décret.
+I. - L'âge d'ouverture du droit à pension résultant de l'application du 1° du I de l'article 16 est abaissé pour les agents relevant du régime de retraite régi par la présente annexe qui ont commencé leur activité avant un âge et dans les conditions déterminés au I de l'article D. 16-1 et aux articles D. 16-2 et D. 16-3 du code des pensions civiles et militaires de retraite et ont accompli une durée totale d'assurance et de périodes reconnues équivalentes dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires au moins égale à la durée de services et bonifications requise pour obtenir le pourcentage maximum de la pension mentionnée au quatrième alinéa de l'article 9 de la présente annexe, tout ou partie de cette durée totale ayant donné lieu à cotisations à la charge de l'agent.
 
-Toutefois, pour l'application de la condition de durée minimale d'assurance ayant donné lieu à cotisations, sont également réputées cotisées les périodes pendant lesquelles l'agent a perçu une pension d'invalidité servie au titre de l'article 31 dans la limite de deux trimestres.
+Toutefois, pour l'application de la condition de durée minimale d'assurance ayant donné lieu à cotisations, sont également réputées cotisées, outre les périodes mentionnées au I de l'article D. 16-2 du code des pensions civiles et militaires de retraite les périodes pendant lesquelles l'agent a perçu une pension d'invalidité servie au titre de l'article 31 dans la limite de deux trimestres.
 
 Pour l'application de cette limite, il est tenu compte des trimestres réputés cotisés auprès de l'ensemble des régimes obligatoires de base, au titre de ces mêmes dispositions ou de dispositions réglementaires ayant le même objet et se rapportant aux périodes de même nature.
+
+II. - Par dérogation au I, le droit à liquidation anticipée à compter d'un certain âge des assurés nés entre le 1er janvier 1963 et le 31 décembre 1971 est ouvert aux assurés selon les conditions de date de naissance et d'âge de début d'activité fixées dans le tableau ci-dessous :
+
+Date de naissance |
+
+Age du droit à liquidation anticipée |
+
+Début d'activité avant |
+
+1963 |
+
+57 ans |
+
+16 ans |
+
+60 ans |
+
+20 ans |
+
+1964 |
+
+57 ans et 4 mois |
+
+16 ans |
+
+60 ans |
+
+20 ans |
+
+1965 |
+
+57 ans et 8 mois |
+
+16 ans |
+
+60 ans |
+
+18 ans |
+
+60 ans et trois mois |
+
+20 ans |
+
+1966 |
+
+58 ans |
+
+16 ans |
+
+60 ans |
+
+18 ans |
+
+60 ans et six mois |
+
+20 ans |
+
+1967 |
+
+58 ans |
+
+16 ans |
+
+60 ans |
+
+18 ans |
+
+60 ans et neuf mois |
+
+20 ans |
+
+63 ans |
+
+21 ans |
+
+1968 |
+
+58 ans |
+
+16 ans |
+
+60 ans |
+
+18 ans |
+
+61 ans |
+
+20 ans |
+
+63 ans |
+
+21 ans |
+
+1969 |
+
+58 ans |
+
+16 ans |
+
+60 ans |
+
+18 ans |
+
+61 ans et 3 mois |
+
+20 ans |
+
+63 ans |
+
+21 ans |
+
+1970 |
+
+58 ans |
+
+16 ans |
+
+60 ans |
+
+18 ans |
+
+61 ans et 6 mois |
+
+20 ans |
+
+63 ans |
+
+21 ans |
+
+1971 |
+
+58 ans |
+
+16 ans |
+
+60 ans |
+
+18 ans |
+
+61 ans et 9 mois |
+
+20 ans |
+
+63 ans |
+
+21 ans |
+
+III. - Par dérogation aux I et II, les assurés nés entre le 1er janvier 1963 et le 31 décembre 1964 et qui justifient, avant le 1er janvier 2025, de la durée d'assurance mentionnée au I de l'article D. 16-1 du code des pensions civiles et militaires dans sa rédaction antérieure au décret n° 2023-436 du 3 juin 2023 portant application des articles 10 et 11 de la loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023, peuvent demander à bénéficier, pour une pension prenant effet à partir du 1er janvier 2025, d'un âge d'ouverture du droit à pension abaissé dans les conditions prévues au I du présent article dans sa rédaction antérieure à cette date.
 
 Article 18
 
@@ -788,7 +896,7 @@ Article 37
 
 Transformation en pension de vieillesse
 
-La pension d'invalidité est servie au maximum jusqu'à l'âge mentionné au 1° du I de l'article 16. Sauf en cas de reprise ou de poursuite d'une activité, une pension de vieillesse lui est substituée d'office le premier jour du mois qui suit la date à laquelle l'agent a atteint l'âge mentionné au 1° du I de l'article 16. Toutefois, pour les agents affiliés au régime spécial des industries électriques et gazières au titre des prestations de vieillesse, la pension d'invalidité est également substituée d'office avant cet âge dès lors que l'agent ouvre droit à pension de vieillesse et qu'il réunit, au sein du régime spécial, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de pension de vieillesse visé à l'article 9 de la présente annexe.
+La pension d'invalidité est servie au maximum jusqu'à l'âge mentionné au premier alinéa de l'article L. 161-17-2 du code de la sécurité sociale abaissé de deux ans. Sauf en cas de reprise ou de poursuite d'une activité, une pension de vieillesse lui est substituée d'office le premier jour du mois qui suit la date à laquelle l'agent a atteint cet âge. Toutefois, pour les agents affiliés au régime spécial des industries électriques et gazières au titre des prestations de vieillesse, la pension d'invalidité est également substituée d'office avant cet âge dès lors que l'agent ouvre droit à pension de vieillesse et qu'il réunit, au sein du régime spécial, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de pension de vieillesse visé à l'article 9 de la présente annexe.
 
 L'agent placé en invalidité de catégorie 1 qui exerce une activité professionnelle continue à bénéficier de sa pension d'invalidité jusqu'à la date pour laquelle il demande le bénéfice de sa pension de vieillesse et, au plus tard, jusqu'à l'âge mentionné au deuxième alinéa de la section intitulée "départ en inactivité" de l'article 4 du présent statut ou, le cas échéant, au plus tard à l'âge mentionné au 1° de la section intitulée "dispositions transitoires" de ce même article. Lorsque l'agent est affilié au régime spécial des industries électriques et gazières au titre des prestations de vieillesse, ses droits à pension de vieillesse sont alors liquidés sur sa demande dans les conditions prévues à l'article 39 de la présente annexe.
 
@@ -870,19 +978,87 @@ A compter du 1er juillet 2019, elle est fixée à :
 
 167 trimestres, pour les agents nés entre le 1er juillet 1959 et le 31 décembre 1960 ;
 
-168 trimestres, pour les agents nés entre le 1er janvier 1961 et le 31 décembre 1963 ;
+168 trimestres, pour les agents nés entre le 1er janvier 1961 et le 31 décembre 1962 ;
 
-169 trimestres, pour les agents nés entre le 1er janvier 1964 et le 31 décembre 1966 ;
+169 trimestres, pour les agents nés entre le 1er janvier et le 31 décembre 1963 ;
 
-170 trimestres, pour les agents nés entre le 1er janvier 1967 et le 31 décembre 1969 ;
+170 trimestres, pour les agents nés entre le 1er janvier 1964 et le 31 décembre 1965 ;
 
-171 trimestres, pour les agents nés entre le 1er janvier 1970 et le 31 décembre 1972 ;
+171 trimestres, pour les agents nés entre le 1er janvier 1966 et le 31 décembre 1967 ;
 
-172 trimestres, pour les agents nés à partir du 1er janvier 1973.
+172 trimestres, pour les agents nés à partir du 1er janvier 1968.
+
+I bis. - Par dérogation à l'article 9 de la présente annexe et au I du présent article, à compter du 1er janvier 2025 :
+
+1° La durée des services et de bonification requise pour les agents mentionnés au 2° du I de l'article 16, qui ont accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à cinq ans, est égale :
+
+- pour ceux nés avant le 1er janvier 1964, à celle applicable avant l'entrée en vigueur du décret n° 2023-692 du 28 juillet 2023 relatif au régime spécial de retraite des industries électriques et gazières ;
+
+- pour ceux nés à compter du 1er janvier 1964 et jusqu'au 31 décembre 1966, à 170 trimestres ;
+
+- pour ceux nés à compter du 1er janvier 1967 et jusqu'au 31 décembre 1968, à 171 trimestres ;
+
+- pour ceux nés à compter du 1er janvier 1969, à 172 trimestres ;
+
+2° Pour les agents mentionnés au 2° du I de l'article 16, qui ont accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à huit ans, cette durée est égale :
+
+- pour ceux nés avant le 1er janvier 1965, à celle applicable avant l'entrée en vigueur du décret n° 2023-692 du 28 juillet 2023 relatif au régime spécial de retraite des industries électriques et gazières ;
+
+- pour ceux nés à compter du 1er janvier 1965 et jusqu'au 31 décembre 1967, à 170 trimestres ;
+
+- pour ceux nés à compter du 1er janvier 1968 et jusqu'au 31 décembre 1969, à 171 trimestres ;
+
+- pour ceux nés à compter du 1er janvier 1970, à 172 trimestres ;
+
+3° Pour les agents mentionnés au 2° du I de l'article 16, qui ont accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à onze ans, cette durée est égale :
+
+- pour ceux nés avant le 1er janvier 1966, à celle applicable avant l'entrée en vigueur du décret n° 2023-692 du 28 juillet 2023 relatif au régime spécial de retraite des industries électriques et gazières ;
+
+- pour ceux nés à compter du 1er janvier 1966 et jusqu'au 31 décembre 1968, à 170 trimestres ;
+
+- pour ceux nés à compter du 1er janvier 1969 et jusqu'au 31 décembre 1970, à 171 trimestres ;
+
+- pour ceux nés à compter du 1er janvier 1971, à 172 trimestres ;
+
+4° Pour les agents mentionnés au 2° du I de l'article 16, qui ont accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à quatorze ans, cette durée est égale :
+
+- pour ceux nés avant le 1er janvier 1967, à celle applicable avant l'entrée en vigueur du décret n° 2023-692 du 28 juillet 2023 relatif au régime spécial de retraite des industries électriques et gazières ;
+
+- pour ceux nés à compter du 1er janvier 1967 et jusqu'au 31 décembre 1969, à 170 trimestres ;
+
+- pour ceux nés à compter du 1er janvier 1970 et jusqu'au 31 décembre 1971, à 171 trimestres ;
+
+- pour ceux nés à compter du 1er janvier 1972, à 172 trimestres ;
+
+5° Pour les agents mentionnés au 2° du I de l'article 16, qui ont accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à dix-sept ans, cette durée est égale :
+
+- pour ceux nés avant le 1er janvier 1968, à celle applicable avant l'entrée en vigueur du décret n° 2023-692 du 28 juillet 2023 relatif au régime spécial de retraite des industries électriques et gazières ;
+
+- pour ceux nés à compter du 1er janvier 1968 et jusqu'au 31 décembre 1970, à 170 trimestres ;
+
+- pour ceux nés à compter du 1er janvier 1971 et jusqu'au 31 décembre 1972, à 171 trimestres ;
+
+- pour ceux nés à compter du 1er janvier 1973, à 172 trimestres.
+
+I ter. - Par dérogation à l'article 16 et aux I et I bis du présent article, l'âge d'ouverture des droits et la durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné à l'article 9, pour les assurés remplissant les conditions de liquidation de la pension avant le 1er janvier 2025 sont égaux à ceux applicables avant l'entrée en vigueur du décret n° 2023-692 du 28 juillet 2023 relatif au régime spécial de retraite des industries électriques et gazières.
 
 II.-Le coefficient de minoration prévu au I de l'article 10 n'est applicable qu'aux personnes remplissant les conditions définies à l'article 16 à compter du 1er juillet 2010. Pour les personnes remplissant les conditions définies à l'article 16 entre le 1er juillet 2010 et le 30 juin 2011 inclus, son taux est fixé par trimestre manquant à un dixième du taux prévu au premier alinéa du I de l'article 10. Pour les personnes remplissant les conditions définies à l'article 16 postérieurement au 30 juin 2011, ce taux augmente du même montant au 1er juillet de chaque année jusqu'à égaler le taux prévu au premier alinéa du I de l'article 10.
 
-L'âge auquel le coefficient de minoration s'annule correspond, pour la période comprise entre le 1er juillet 2010 et le 30 juin 2011 inclus, à l'âge de référence mentionné au 1° du I de l'article 10 ci-dessus diminué de seize trimestres. Pour les périodes postérieures au 30 juin 2011, cette diminution est réduite de deux trimestres au 1er juillet de chaque année jusqu'au 30 juin 2013 inclus puis d'un trimestre au 1er juillet de chaque année jusqu'au 30 juin 2024 inclus.
+Pour les pensions prenant effet avant le 1er janvier 2025, l'âge auquel le coefficient de minoration s'annule correspond, pour la période comprise entre le 1er juillet 2010 et le 30 juin 2011 inclus, à l'âge de référence mentionné au 1° du I de l'article 10 ci-dessus diminué de seize trimestres. Pour les périodes postérieures au 30 juin 2011, cette diminution est réduite de deux trimestres au 1er juillet de chaque année jusqu'au 30 juin 2013 inclus puis d'un trimestre au 1er juillet de chaque année jusqu'au 30 juin 2024 inclus.
+
+Pour les pensions prenant effet à compter du 1er janvier 2025, l'âge auquel le coefficient de minoration s'annule est égal à :
+
+- soixante-deux ans pour les agents mentionnés au 2° du I de l'article 16 nés avant le 1er janvier 1975 ;
+
+- soixante-trois ans pour les agents mentionnés au 9° du V de l'article 45 nés avant le 1er janvier 1974 ;
+
+- soixante-quatre ans pour les agents mentionnés au 8° du V de l'article 45 nés avant le 1er janvier 1973 ;
+
+- soixante-cinq ans pour les agents mentionnés 7° du V de l'article 45 nés avant le 1er janvier 1972 ;
+
+- soixante-six ans pour les agents mentionnés au 6° du V de l'article 45 nés avant le 1er janvier 1971 ;
+
+- soixante-sept ans pour les agents mentionnés au 1° du I de l'article 16 nés avant le 1er janvier 1970.
 
 III.- (Abrogé)
 
@@ -948,7 +1124,7 @@ Entre le 1er janvier 1959 inclus et le 30 juin 1959 inclus
 
 |
 
-V.-1° L'âge d'ouverture du droit à pension de soixante-deux ans mentionné au 1° du I de l'article 16 s'applique aux agents nés à compter du 1er janvier 1962. Pour les agents nés antérieurement à cette date, cet âge est abaissé :
+V.-1° L'âge d'ouverture du droit à pension mentionné au 1° du I de l'article 16 s'applique aux agents nés à compter du 1er janvier 1970. Pour les agents nés antérieurement à cette date, cet âge est abaissé :
 
 -à soixante ans pour les agents nés avant le 1er janvier 1957 ;
 
@@ -960,9 +1136,25 @@ V.-1° L'âge d'ouverture du droit à pension de soixante-deux ans mentionné au
 
 -à soixante et un ans et quatre mois pour les agents nés en 1960 ;
 
--à soixante et un ans et huit mois pour les agents nés en 1961.
+-à soixante et un ans et huit mois pour les agents nés en 1961 ;
 
-2° L'âge d'ouverture du droit à pension de cinquante-sept ans mentionné au 2° du I de l'article 16 s'applique aux agents nés à compter du 1er janvier 1967. Pour les agents nés antérieurement à cette date, cet âge est abaissé :
+- à soixante-deux ans pour les agents nés en 1962 ;
+
+- à soixante-deux ans et trois mois pour les agents nés en 1963 ;
+
+- à soixante-deux ans et six mois pour les agents nés en 1964 ;
+
+- à soixante-deux ans et neuf mois pour les agents nés en 1965 ;
+
+- à soixante-trois ans pour les agents nés en 1966 ;
+
+- à soixante-trois ans et trois mois pour les agents nés en 1967 ;
+
+- à soixante-trois ans et six mois pour les agents nés en 1968 ;
+
+- à soixante-trois ans et neuf mois pour les agents nés en 1969.
+
+2° L'âge d'ouverture du droit à pension mentionné à la première phrase du 2° du I de l'article 16 s'applique aux agents nés à compter du 1er janvier 1975. Pour les agents nés antérieurement à cette date, cet âge est abaissé :
 
 -à cinquante-cinq ans pour les agents nés avant le 1er janvier 1962 ;
 
@@ -974,9 +1166,25 @@ V.-1° L'âge d'ouverture du droit à pension de soixante-deux ans mentionné au
 
 -à cinquante-six ans et quatre mois pour les agents nés en 1965 ;
 
--à cinquante-six ans et huit mois pour les agents nés en 1966.
+-à cinquante-six ans et huit mois pour les agents nés en 1966 ;
 
-3° L'âge de soixante ans mentionné au II de l'article 10 et à l'article 37, dans leur rédaction antérieure à la date d'entrée en vigueur du décret n° 2011-290 du 18 mars 2011 relatif au régime spécial de retraite du personnel des industries électriques et gazières, évolue jusqu'à atteindre l'âge de soixante-deux ans mentionné au 1° du I de l'article 16 dans les conditions fixées par le 1° du présent V.
+- à cinquante-sept ans pour les agents nés en 1967 ;
+
+- à cinquante-sept ans et trois mois pour les agents nés en 1968 ;
+
+- à cinquante-sept ans et six mois pour les agents nés en 1969 ;
+
+- à cinquante-sept ans et neuf mois pour les agents nés en 1970 ;
+
+- à cinquante-huit ans pour les agents nés en 1971 ;
+
+- à cinquante-huit ans et trois mois pour les agents nés en 1972 ;
+
+- à cinquante-huit ans et six mois pour les agents nés en 1973 ;
+
+- à cinquante-huit ans et neuf mois pour les agents nés en 1974.
+
+3° (Abrogé).
 
 4° La durée de services effectifs actifs, insalubres et militaires de dix-sept ans et la durée minimale de services de dix-sept ans prévues au 2° du I de l'article 16 pour la liquidation des pensions ne sont pas applicables aux agents qui ont accompli une durée de services effectifs actifs, insalubres et militaires de quinze ans et d'une durée minimale de services de quinze ans telle que définie à l'article 1er avant le 1er janvier 2022. Pour ces agents, les durées de services de dix-sept ans prévues au 2° du I de l'article 16 sont abaissées :
 
@@ -994,759 +1202,359 @@ V.-1° L'âge d'ouverture du droit à pension de soixante-deux ans mentionné au
 
 5° Par dérogation, le 4° du présent V n'est pas applicable aux agents qui, après avoir effectué les durées de services de quinze ans mentionnées audit 4° avant la date d'entrée en vigueur du décret n° 2011-290 du 18 mars 2011 relatif au régime spécial de retraite du personnel des industries électriques et gazières, soit ont été intégrés dans un emploi relevant de la catégorie des services sédentaires, soit ont quitté la branche professionnelle des industries électriques et gazières.
 
-6° a) L'abaissement d'un an de l'âge mentionné au 1° du I de l'article 16 pour les agents ayant accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à cinq ans, en application du 2° du I dudit article 16 pour la liquidation des pensions, s'applique aux agents nés à compter du 1er janvier 1963 qui justifient d'une durée de services effectifs actifs, insalubres et militaires de trois ans à compter du 1er janvier 2022.
+6° a) L'abaissement d'un an de l'âge mentionné au 1° du I de l'article 16 pour les agents ayant accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à cinq ans, en application du 2° du I de l'article 16 pour la liquidation des pensions, s'applique aux agents nés à compter du 1er janvier 1971.
 
-Pour les agents nés à compter du 1er janvier 1963 qui justifient de la durée de services de trois ans mentionnée au premier alinéa du présent a avant le 1er janvier 2022, la durée de services effectifs actifs, insalubres et militaires ouvrant droit à l'abaissement d'un an prévu au 2° du I de l'article 16 est déterminée, par dérogation audit 2°, comme indiqué dans le tableau suivant :
+Pour les agents nés avant le 1er janvier 1971, l'âge d'ouverture du droit à pension est abaissé à :
 
-POUR LES AGENTS NÉS À COMPTER du 1er JANVIER 1963
+- cinquante-neuf ans pour les agents nés avant le 1er janvier 1958 ;
 
-qui justifient d'une durée de services effectifs actifs,
+- cinquante-neuf ans et quatre mois pour les agents nés en 1958 ;
 
-insalubres et militaires de trois ans...
+- cinquante-neuf ans et huit mois pour les agents nés en 1959 ;
 
-|
+- soixante ans pour les agents nés en 1960 ;
 
-..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
+- soixante ans et quatre mois pour les agents nés en 1961 ;
 
-et militaires ouvrant droit à un abaissement d'un an
+- soixante ans et huit mois pour les agents nés en 1962 ;
 
-de l'âge d'ouverture du droit à pension en application du 2°
+- soixante-et-un ans pour les agents nés en 1963 ;
 
-du I de l'article 16 est fixée à...
+- soixante-et-un ans et trois mois pour les agents nés en 1964 ;
 
-|
+- soixante-et-un ans et six mois pour les agents nés en 1965 ;
 
-Avant le 1er janvier 2017
+- soixante-et-un ans et neuf mois pour les agents nés en 1966 ;
 
-|
+- soixante-deux ans pour les agents nés à compter de 1967 ;
 
-3 ans
+- soixante-deux ans et trois mois pour les agents nés en 1968 ;
 
-|
+- soixante-deux ans et six mois pour les agents nés en 1969 ;
 
-En 2017
+- soixante-deux ans et neuf mois pour les agents nés en 1970 ;
 
-|
+b) Le a du présent 6° s'applique aux agents justifiant de la durée de services effectifs actifs, insalubres et militaires indiquée dans le tableau suivant :
 
-3 ans et 4 mois
+Pour les agents qui justifient d'une durée de services effectifs actifs, insalubres et militaires de trois ans… |
 
-|
+…, la durée des services effectifs actifs, insalubres et militaires ouvrant droit
 
-En 2018
+à un abaissement de l'âge d'ouverture du droit à pension
 
-|
+en application du a du présent 6° est fixée à … |
 
-3 ans et 8 mois
+Avant le 1er janvier 2017 |
 
-|
+3 ans |
 
-En 2019
+En 2017 |
 
-|
+3 ans et 4 mois |
 
-4 ans
+En 2018 |
 
-|
+3 ans et 8 mois |
 
-En 2020
+En 2019 |
 
-|
+4 ans |
 
-4 ans et 4 mois
+En 2020 |
 
-|
+4 ans et 4 mois |
 
-En 2021
+En 2021 |
 
-|
+4 ans et 8 mois |
 
-4 ans et 8 mois
+A compter du 1er janvier 2022 |
 
-|
+5 ans |
 
-b) Pour les agents nés antérieurement au 1er janvier 1963, l'âge d'ouverture du droit à pension est abaissé à :
+7° a) L'abaissement de deux ans de l'âge mentionné au 1° du I de l'article 16 pour les agents ayant accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à huit ans, en application du 2° du I de l'article 16 pour la liquidation des pensions, s'applique aux agents nés à compter du 1er janvier 1972.
 
--cinquante-neuf ans pour les agents nés avant le 1er janvier 1958 ;
+Pour les agents nés avant le 1er janvier 1972, l'âge d'ouverture du droit à pension est abaissé à :
 
--cinquante-neuf ans et quatre mois pour les agents nés en 1958 ;
+- cinquante-huit ans pour les agents nés avant le 1er janvier 1959 ;
 
--cinquante-neuf ans et huit mois pour les agents nés en 1959 ;
+- cinquante-huit ans et quatre mois pour les agents nés en 1959 ;
 
--soixante ans pour les agents nés en 1960 ;
+- cinquante-huit ans et huit mois pour les agents nés en 1960 ;
 
--soixante ans et quatre mois pour les agents nés en 1961 ;
+- cinquante-neuf ans pour les agents nés en 1961 ;
 
--soixante ans et huit mois pour les agents nés en 1962.
+- cinquante-neuf ans et quatre mois pour les agents nés en 1962 ;
 
-c) Le b du présent 6° s'applique aux agents justifiant d'une durée de services effectifs actifs, insalubres et militaires comme indiqué dans le tableau suivant :
+- cinquante-neuf ans et huit mois pour les agents nés en 1963 ;
 
-POUR LES AGENTS NÉS ANTÉRIEUREMENT AU 1er JANVIER 1963
+- soixante ans pour les agents nés en 1964 ;
 
-qui justifient d'une durée de services effectifs actifs,
+- soixante ans et trois mois pour les agents nés en 1965 ;
 
-insalubres et militaires de trois ans...
+- soixante ans et six mois pour les agents nés en 1966 ;
 
-|
+- soixante ans et neuf mois pour les agents nés en 1967 ;
 
-..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
+- soixante-et-un an pour les agents nés en 1968 ;
 
-et militaires ouvrant droit à un abaissement
+- soixante-et-un an et trois mois pour les agents nés en 1969 ;
 
-de l'âge d'ouverture du droit à pension
+- soixante-et-un an et six mois pour les agents nés en 1970 ;
 
-en application du b du présent 6° est fixée à...
+- soixante-et-un an et neuf mois pour les agents nés en 1971 ;
 
-|
+b) Le a du présent 7° s'applique aux agents justifiant de la durée de services effectifs actifs, insalubres et militaires indiquée dans le tableau suivant :
 
-Avant le 1er janvier 2017
+Pour les agents qui justifient d'une durée de services effectifs actifs, insalubres et militaires de six ans… |
 
-|
+…, la durée des services effectifs actifs, insalubres, et militaires ouvrant droit
 
-3 ans
+à un abaissement de l'âge d'ouverture du droit à pension
 
-|
+en application du a du présent 7° est fixée à ... |
 
-En 2017
+Avant le 1er janvier 2017 |
 
-|
+6 ans |
 
-3 ans et 4 mois
+En 2017 |
 
-|
+6 ans et 4 mois |
 
-En 2018
+En 2018 |
 
-|
+6 ans et 8 mois |
 
-3 ans et 8 mois
+En 2019 |
 
-|
+7 ans |
 
-En 2019
+En 2020 |
 
-|
+7 ans et 4 mois |
 
-4 ans
+En 2021 |
 
-|
+7 ans et 8 mois |
 
-En 2020
+A compter du 1er janvier 2022 |
 
-|
+8 ans |
 
-4 ans et 4 mois
+8° a) L'abaissement de trois ans de l'âge mentionné au 1° du I de l'article 16 pour les agents ayant accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à onze ans, en application du 2° du I de l'article 16 pour la liquidation des pensions, s'applique aux agents nés à compter du 1er janvier 1973.
 
-|
+Pour les agents nés avant le 1er janvier 1973, l'âge d'ouverture du droit à pension est abaissé à :
 
-En 2021
+- cinquante-sept ans pour les agents nés avant le 1er janvier 1960 ;
 
-|
+- cinquante-sept ans et quatre mois pour les agents nés en 1960 ;
 
-4 ans et 8 mois
+- cinquante-sept ans et huit mois pour les agents nés en 1961 ;
 
-|
+- cinquante-huit ans pour les agents nés en 1962 ;
 
-A compter du 1er janvier 2022
+- cinquante-huit ans et quatre mois pour les agents nés en 1963 ;
 
-|
+- cinquante-huit ans et huit mois pour les agents nés en 1964 ;
 
-5 ans
+- cinquante-neuf ans pour les agents nés en 1965 ;
 
-|
+- cinquante-neuf ans et trois mois pour les agents nés en 1966 ;
 
-7° a) L'abaissement de deux ans de l'âge mentionné au 1° du I de l'article 16 pour les agents ayant accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à huit ans, en application du 2° du I dudit article 16 pour la liquidation des pensions, s'applique aux agents nés à compter du 1er janvier 1964 qui justifient d'une durée de services effectifs actifs, insalubres et militaires de six ans à compter du 1er janvier 2022.
+- cinquante-neuf ans et six mois pour les agents nés en 1967 ;
 
-Pour les agents nés à compter du 1er janvier 1964 qui justifient de la durée de services de six ans mentionnée au premier alinéa du présent a avant le 1er janvier 2022, la durée de services effectifs actifs, insalubres et militaires ouvrant droit à l'abaissement de deux ans prévu au 2° du I de l'article 16 est déterminée, par dérogation audit 2°, comme indiqué dans le tableau suivant :
+- cinquante-neuf ans et neuf mois pour les agents nés en 1968 ;
 
-POUR LES AGENTS NÉS À COMPTER DU 1er JANVIER 1964
+- soixante ans pour les agents nés en 1969 ;
 
-qui justifient d'une durée de services effectifs actifs,
+- soixante ans et trois mois pour les agents nés en 1970 ;
 
-insalubres et militaires de six ans...
+- soixante ans et six mois pour les agents nés en 1971 ;
 
-|
+- soixante ans et neuf mois pour les agents nés en 1972 ;
 
-..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
+b) Le a du présent 8° s'applique aux agents justifiant de la durée de services effectifs actifs, insalubres et militaires indiquée dans le tableau suivant :
 
-et militaires ouvrant droit à un abaissement de deux ans
+Pour les agents qui justifient d'une durée de services effectifs actifs, insalubres et militaires de neuf ans… |
 
-de l'âge d'ouverture du droit à pension
+…, la durée des services effectifs actifs, insalubres et militaires ouvrant droit
 
-en application du 2° du I de l'article 16 est fixée à...
+à un abaissement de l'âge d'ouverture du droit à pension
 
-|
+en application du a du présent 8° est fixée à ... |
 
-Avant le 1er janvier 2017
+Avant le 1er janvier 2017 |
 
-|
+9 ans |
 
-6 ans
+En 2017 |
 
-|
+9 ans et 4 mois |
 
-En 2017
+En 2018 |
 
-|
+9 ans et 8 mois |
 
-6 ans et 4 mois
+En 2019 |
 
-|
+10 ans |
 
-En 2018
+En 2020 |
 
-|
+10 ans et 4 mois |
 
-6 ans et 8 mois
+En 2021 |
 
-|
+10 ans et 8 mois |
 
-En 2019
+A compter du 1er janvier 2022 |
 
-|
+11 ans |
 
-7 ans
+9° a) L'abaissement de quatre ans de l'âge mentionné au 1° du I de l'article 16 pour les agents ayant accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à quatorze ans, en application du 2° du I de l'article 16 pour la liquidation des pensions, s'applique aux agents nés à compter du 1er janvier 1974.
 
-|
+Pour les agents nés avant le 1er janvier 1974, l'âge d'ouverture du droit à pension est abaissé à :
 
-En 2020
+- cinquante-six ans pour les agents nés avant le 1er janvier 1961 ;
 
-|
+- cinquante-six ans et quatre mois pour les agents nés en 1961 ;
 
-7 ans et 4 mois
+- cinquante-six ans et huit mois pour les agents nés en 1962 ;
 
-|
+- cinquante-sept ans pour les agents nés en 1963 ;
 
-En 2021
+- cinquante-sept ans et quatre mois pour les agents nés en 1964 ;
 
-|
+- cinquante-sept ans et huit mois pour les agents nés en 1965 ;
 
-7 ans et 8 mois
+- cinquante-huit ans pour les agents nés en 1966 ;
 
-|
+- cinquante-huit ans et trois mois pour les agents nés en 1967 ;
 
-b) Pour les agents nés antérieurement au 1er janvier 1964, l'âge d'ouverture du droit à pension est abaissé à :
+- cinquante-huit ans et six mois pour les agents nés en 1968 ;
 
--cinquante-huit ans pour les agents nés avant le 1er janvier 1959 ;
+- cinquante-huit ans et neuf mois pour les agents nés en 1969 ;
 
--cinquante-huit ans et quatre mois pour les agents nés en 1959 ;
+- cinquante-neuf ans pour les agents nés en 1970 ;
 
--cinquante-huit ans et huit mois pour les agents nés en 1960 ;
+- cinquante-neuf ans et trois mois pour les agents nés en 1971 ;
 
--cinquante-neuf ans pour les agents nés en 1961 ;
+- cinquante-neuf ans et six mois pour les agents nés en 1972 ;
 
--cinquante-neuf ans et quatre mois pour les agents nés en 1962 ;
+- cinquante-neuf ans et neuf mois pour les agents nés en 1973 ;
 
--cinquante-neuf ans et huit mois pour les agents nés en 1963.
+b) Le a du présent 9° s'applique aux agents justifiant de la durée de services effectifs actifs, insalubres et militaires indiquée dans le tableau suivant :
 
-c) Le b du présent 7° s'applique aux agents justifiant d'une durée de services effectifs actifs, insalubres et militaires comme indiqué dans le tableau suivant :
+Pour les agents qui justifient d'une durée de services effectifs actifs, insalubres et militaires de douze ans… |
 
-POUR LES AGENTS NÉS ANTÉRIEUREMENT AU 1er JANVIER 1964
+…, la durée des services effectifs actifs, insalubres, et militaires ouvrant droit
 
-qui justifient d'une durée de services effectifs actifs,
+à un abaissement de l'âge d'ouverture du droit à pension
 
-insalubres et militaires de six ans...
+en application du présent a du 9° est fixée à … |
 
-|
+Avant le 1er janvier 2017 |
 
-..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
+12 ans |
 
-et militaires ouvrant droit à un abaissement
+En 2017 |
 
-de l'âge d'ouverture du droit à pension
+12 ans et 4 mois |
 
-en application du b du présent 7° est fixée à...
+En 2018 |
 
-|
+12 ans et 8 mois |
 
-Avant le 1er janvier 2017
+En 2019 |
 
-|
+13 ans |
 
-6 ans
+En 2020 |
 
-|
+13 ans et 4 mois |
 
-En 2017
+En 2021 |
 
-|
+13 ans et 8 mois |
 
-6 ans et 4 mois
+A compter du 1er janvier 2022 |
 
-|
-
-En 2018
-
-|
-
-6 ans et 8 mois
-
-|
-
-En 2019
-
-|
-
-7 ans
-
-|
-
-En 2020
-
-|
-
-7 ans et 4 mois
-
-|
-
-En 2021
-
-|
-
-7 ans et 8 mois
-
-|
-
-A compter du 1er janvier 2022
-
-|
-
-8 ans
-
-|
-
-8° a) L'abaissement de trois ans de l'âge mentionné au 1° du I de l'article 16 pour les agents ayant accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à onze ans, en application du 2° du I dudit article 16 pour la liquidation des pensions, s'applique aux agents nés à compter du 1er janvier 1965 qui justifient d'une durée de services effectifs actifs, insalubres et militaires de neuf ans à compter du 1er janvier 2022.
-
-Pour les agents nés à compter du 1er janvier 1965 qui justifient de la durée de services de neuf ans mentionnée au premier alinéa du présent a avant le 1er janvier 2022, la durée de services effectifs actifs, insalubres et militaires ouvrant droit à l'abaissement de trois ans prévu au 2° du I de l'article 16 est déterminée, par dérogation audit 2°, comme indiqué dans le tableau suivant :
-
-POUR LES AGENTS NÉS ANTÉRIEUREMENT AU 1er JANVIER 1965
-
-qui justifient d'une durée de services effectifs actifs,
-
-insalubres et militaires de neuf ans...
-
-|
-
-..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
-
-et militaires ouvrant droit à un abaissement
-
-de trois ans de l'âge d'ouverture du droit à pension
-
-en application du 2° du I de l'article 16 est fixée à...
-
-|
-
-Avant le 1er janvier 2017
-
-|
-
-9 ans
-
-|
-
-En 2017
-
-|
-
-9 ans et 4 mois
-
-|
-
-En 2018
-
-|
-
-9 ans et 8 mois
-
-|
-
-En 2019
-
-|
-
-10 ans
-
-|
-
-En 2020
-
-|
-
-10 ans et 4 mois
-
-|
-
-En 2021
-
-|
-
-10 ans et 8 mois
-
-|
-
-b) Pour les agents nés antérieurement au 1er janvier 1965, l'âge d'ouverture du droit à pension est abaissé à :
-
--cinquante-sept ans pour les agents nés avant le 1er janvier 1960 ;
-
--cinquante-sept ans et quatre mois pour les agents nés en 1960 ;
-
--cinquante-sept ans et huit mois pour les agents nés en 1961 ;
-
--cinquante-huit ans pour les agents nés en 1962 ;
-
--cinquante-huit ans et quatre mois pour les agents nés en 1963 ;
-
--cinquante-huit ans et huit mois pour les agents nés en 1964.
-
-c) Le b du présent 8° s'applique aux agents justifiant d'une durée de services effectifs actifs, insalubres et militaires comme indiqué dans le tableau suivant :
-
-POUR LES AGENTS NÉS ANTÉRIEUREMENT AU 1er JANVIER 1965
-
-qui justifient d'une durée de services effectifs actifs,
-
-insalubres et militaires de neuf ans...
-
-|
-
-..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
-
-et militaires ouvrant droit à un abaissement
-
-de l'âge d'ouverture du droit à pension
-
-en application du b du présent 8° est fixée à...
-
-|
-
-Avant le 1er janvier 2017
-
-|
-
-9 ans
-
-|
-
-En 2017
-
-|
-
-9 ans et 4 mois
-
-|
-
-En 2018
-
-|
-
-9 ans et 8 mois
-
-|
-
-En 2019
-
-|
-
-10 ans
-
-|
-
-En 2020
-
-|
-
-10 ans et 4 mois
-
-|
-
-En 2021
-
-|
-
-10 ans et 8 mois
-
-|
-
-A compter du 1er janvier 2022
-
-|
-
-11 ans
-
-|
-
-9° a) L'abaissement de quatre ans de l'âge mentionné au 1° du I de l'article 16 pour les agents ayant accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à quatorze ans, en application du 2° du I dudit article 16 pour la liquidation des pensions, s'applique aux agents nés à compter du 1er janvier 1966 qui justifient d'une durée de services effectifs actifs, insalubres et militaires de douze ans à compter du 1er janvier 2022.
-
-Pour les agents nés à compter du 1er janvier 1966 qui justifient de la durée de services de douze ans mentionnée au premier alinéa du présent a avant le 1er janvier 2022, la durée de services effectifs actifs, insalubres et militaires ouvrant droit à l'abaissement de quatre ans prévu au 2° du I de l'article 16 est déterminée, par dérogation audit 2°, comme indiqué dans le tableau suivant :
-
-POUR LES AGENTS NÉS À COMPTER DU 1er JANVIER 1966
-
-qui justifient d'une durée de services effectifs actifs,
-
-insalubres et militaires de douze ans...
-
-|
-
-..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
-
-et militaires ouvrant droit à un abaissement
-
-de quatre ans de l'âge d'ouverture du droit à pension
-
-en application du 2° du I de l'article 16 est fixée à...
-
-|
-
-Avant le 1er janvier 2017
-
-|
-
-12 ans
-
-|
-
-En 2017
-
-|
-
-12 ans et 4 mois
-
-|
-
-En 2018
-
-|
-
-12 ans et 8 mois
-
-|
-
-En 2019
-
-|
-
-13 ans
-
-|
-
-En 2020
-
-|
-
-13 ans et 4 mois
-
-|
-
-En 2021
-
-|
-
-13 ans et 8 mois
-
-|
-
-b) Pour les agents nés antérieurement au 1er janvier 1966, l'âge d'ouverture du droit à pension est abaissé à :
-
--cinquante-six ans pour les agents nés avant le 1er janvier 1961 ;
-
--cinquante-six ans et quatre mois pour les agents nés en 1961 ;
-
--cinquante-six ans et huit mois pour les agents nés en 1962 ;
-
--cinquante-sept ans pour les agents nés en 1963 ;
-
--cinquante-sept ans et quatre mois pour les agents nés en 1964 ;
-
--cinquante-sept ans et huit mois pour les agents nés en 1965.
-
-c) Le b du présent 9° s'applique aux agents justifiant d'une durée de services effectifs actifs, insalubres et militaires comme indiqué dans le tableau suivant :
-
-POUR LES AGENTS NÉS ANTÉRIEUREMENT AU 1er JANVIER 1966
-
-qui justifient d'une durée de services effectifs actifs,
-
-insalubres et militaires de douze ans...
-
-|
-
-..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
-
-et militaires ouvrant droit à un abaissement
-
-de l'âge d'ouverture du droit à pension
-
-en application du b du présent 9° est fixée à...
-
-|
-
-Avant le 1er janvier 2017
-
-|
-
-12 ans
-
-|
-
-En 2017
-
-|
-
-12 ans et 4 mois
-
-|
-
-En 2018
-
-|
-
-12 ans et 8 mois
-
-|
-
-En 2019
-
-|
-
-13 ans
-
-|
-
-En 2020
-
-|
-
-13 ans et 4 mois
-
-|
-
-En 2021
-
-|
-
-13 ans et 8 mois
-
-|
-
-A compter du 1er janvier 2022
-
-|
-
-14 ans
-
-|
+14 ans |
 
 10° Par dérogation, les 6°, 7°, 8° et 9° du présent V ne sont pas applicables aux agents qui, après avoir effectué les durées de services de trois ans, six ans, neuf ans et douze ans mentionnées auxdits 6°, 7°, 8° et 9° avant la date d'entrée en vigueur du décret n° 2011-290 du 18 mars 2011 relatif au régime spécial de retraite du personnel des industries électriques et gazières, soit ont été intégrés dans un emploi relevant de la catégorie des services sédentaires, soit ont quitté la branche professionnelle des industries électriques et gazières.
 
 VI.-1° Par dérogation à l'article 16, l'âge d'ouverture du droit à pension des agents parents de deux enfants est fixé à cinquante-sept ans sous réserve que ces agents aient, pour chaque enfant, interrompu ou réduit leur activité dans les conditions fixées à l'article 13 et à condition qu'ils justifient d'une durée minimale de services de quinze ans telle que définie à l'article 1er avant le 1er janvier 2017 et qu'ils atteignent l'âge de cinquante-sept ans avant cette même date. Lorsque ces conditions de durée de services et d'âge sont remplies à compter du 1er janvier 2017, l'âge d'ouverture du droit à pension de ces agents est fixé comme indiqué dans le tableau suivant :
 
-POUR LES AGENTS PARENTS DE DEUX ENFANTS QUI JUSTIFIENT
+Pour les agents parents de deux enfants qui justifient d'une durée minimale
 
-d'une durée minimale de services de quinze ans
+de services de quinze ans telle que définie à l'article 1er
 
-telle que définie à l'article 1er et qui ont atteint
+et qui ont atteint l'âge de cinquante-sept ans… |
 
-l'âge de cinquante-sept ans...
+…, l'âge d'ouverture du droit à pension est fixé à… |
 
-|
+En 2017 |
 
-..., L'ÂGE D'OUVERTURE DU DROIT À PENSION EST FIXÉ À...
+Cinquante-sept ans et dix mois |
 
-|
+En 2018 |
 
-En 2017
+Cinquante-huit ans et huit mois |
 
-|
+En 2019 |
 
-Cinquante-sept ans et dix mois
+Cinquante-neuf ans et six mois |
 
-|
+En 2020 |
 
-En 2018
+Soixante ans et quatre mois |
 
-|
+En 2021 |
 
-Cinquante-huit ans et huit mois
+Soixante-et-un ans et deux mois |
 
-|
+En 2022 |
 
-En 2019
+Soixante-deux ans |
 
-|
+En 2023 |
 
-Cinquante-neuf ans et six mois
-
-|
-
-En 2020
-
-|
-
-Soixante ans et quatre mois
-
-|
-
-En 2021
-
-|
-
-Soixante et un ans et deux mois
-
-|
+Soixante-deux ans et dix mois |
 
 2° Par dérogation à l'article 16, l'âge d'ouverture du droit à pension des agents parents d'un enfant est fixé à cinquante-neuf ans sous réserve que ces agents aient, pour chaque enfant, interrompu ou réduit leur activité dans les conditions fixées à l'article 13 et à condition qu'ils justifient d'une durée minimale de services de quinze ans telle que définie à l'article 1er avant le 1er janvier 2017 et qu'ils atteignent l'âge de cinquante-neuf ans avant cette même date. Lorsque ces conditions de durée de services et d'âge sont remplies à compter du 1er janvier 2017, l'âge d'ouverture du droit à pension de ces agents est fixé comme indiqué dans le tableau suivant :
 
-POUR LES AGENTS PARENTS D'UN ENFANT QUI JUSTIFIENT
+Pour les agents parents d'un enfant qui justifient d'une durée minimale
 
-d'une durée minimale de services de quinze ans
+de services de quinze ans telle que définie à l'article 1er
 
-telle que définie à l'article 1er
+et qui ont atteint l'âge de cinquante-neuf ans… |
 
-et qui ont atteint l'âge de cinquante-neuf ans...
+…, l'âge d'ouverture du droit à pension est fixé à… |
 
-|
+En 2017 |
 
-..., L'ÂGE D'OUVERTURE DU DROIT À PENSION EST FIXÉ À...
+Cinquante-neuf ans et six mois |
 
-|
+En 2018 |
 
-En 2017
+Soixante ans |
 
-|
+En 2019 |
 
-Cinquante-neuf ans et six mois
+Soixante ans et six mois |
 
-|
+En 2020 |
 
-En 2018
+Soixante et un ans |
 
-|
+En 2021 |
 
-Soixante ans
+Soixante-et-un an et six mois |
 
-|
+En 2022 |
 
-En 2019
-
-|
-
-Soixante ans et six mois
-
-|
-
-En 2020
-
-|
-
-Soixante et un ans
-
-|
-
-En 2021
-
-|
-
-Soixante et un an et six mois
-
-|
+Soixante-deux ans |
 
 3° Les enfants mentionnés au présent VI sont les enfants nés de l'agent ou adoptés pléniers avant la cessation d'activité dans les industries électriques et gazières et antérieurement au 1er juillet 2008.
 
@@ -1920,4 +1728,4 @@ Tout emploi qui n'est pas classé en services actifs est classé en services sé
 
 NOTA :
 
-Conformément au I de l'article 3 du décret n° 2023-692 du 28 juillet 2023, ces dispositions entrent en vigueur le 1er septembre 2023. Se reporter aux conditions d'application prévues aux II et III de l'article 3 dudit décret.
+Conformément au IV de l'article 3 du décret n° 2023-692 du 28 juillet 2023, ces dispositions sont applicables aux pensions prenant effet à compter du 1er janvier 2025.
