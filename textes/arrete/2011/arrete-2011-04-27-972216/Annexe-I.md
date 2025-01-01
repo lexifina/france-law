@@ -20,11 +20,7 @@ II. - Nature, forme et programmes des épreuves d'admission.
 
 La phase d'admission comprend :
 
-2.1. Evaluation de l'aptitude professionnelle.
-
-Elle vise à évaluer le potentiel intellectuel général des candidats et notamment leur capacité à comprendre et s'adapter à une situation avec rapidité et justesse, par le développement d'un système de raisonnement logique.
-
-Destinée à préparer leur entretien individuel avec un ou plusieurs psychologues, cette évaluation n'est pas une épreuve du concours ; aucune préparation n'est nécessaire.
+2.1. (Abrogé)
 
 2.2. Inventaires de personnalité.
 
@@ -36,7 +32,7 @@ Cette épreuve consiste en un entretien avec le jury sur un sujet d'ordre géné
 
 Elle vise à mettre en valeur l'aptitude du candidat à l'état de sous-officier de gendarmerie au regard de sa personnalité, de sa motivation, de sa culture générale, de ses facultés d'expression et de raisonnement, de sa vivacité d'esprit et de son équilibre émotionnel.
 
-L'évaluation de l'aptitude professionnelle, les inventaires de personnalité et l'entretien avec le ou les psychologues constituent une aide à la décision des groupes d'examinateurs.
+Les inventaires de personnalité et l'entretien avec le ou les psychologues constituent une aide à la décision des groupes d'examinateurs.
 
 Le candidat devra se présenter à cette épreuve avec un curriculum vitae.
 
@@ -51,3 +47,7 @@ Les conditions de déroulement et le barème de cette épreuve sont définis en 
 2.5 Epreuve d'évaluation numérique (durée : 30 minutes ; coefficient 1).
 
 Cette épreuve consiste en un questionnaire à choix multiples visant à évaluer les connaissances et à mesurer les compétences numériques du candidat. Il est attendu des candidats qu'ils détiennent les fondamentaux de la culture WEB, de l'environnement numérique, de la protection et de la sécurité informatique.
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 30 juillet 2024 (NOR : IOMJ2419946A), ces dispositions entrent en vigueur le 1er janvier 2025.

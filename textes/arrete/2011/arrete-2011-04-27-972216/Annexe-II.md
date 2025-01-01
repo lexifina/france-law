@@ -18,11 +18,7 @@ II. - Nature, forme et programmes des épreuves d'admission.
 
 La phase d'admission comprend :
 
-2.1. Evaluation de l'aptitude professionnelle.
-
-Elle vise à évaluer le potentiel intellectuel général des candidats et notamment leur capacité à comprendre et s'adapter à une situation avec rapidité et justesse, par le développement d'un système de raisonnement logique.
-
-Destinée à préparer leur entretien individuel avec un ou plusieurs psychologues, cette évaluation n'est pas une épreuve du concours ; aucune préparation n'est nécessaire.
+2.1. (Abrogé)
 
 2.2. Inventaires de personnalité.
 
@@ -34,7 +30,7 @@ Cette épreuve consiste en un entretien avec le jury s'appuyant sur un dossier p
 
 Le jury a toute latitude pour élargir la discussion.
 
-L'épreuve vise à mettre en valeur l'aptitude du candidat à l'état de sous-officier de gendarmerie au regard de ses acquis de l'expérience professionnelle durant son activité de volontaire dans les armées servant dans la gendarmerie nationale, titulaire du diplôme de gendarme adjoint, d'adjoint de sécurité de la police nationale, de militaire des forces armées autres que la gendarmerie nationale servant en vertu d'un contrat, ou encore de réserviste de la gendarmerie nationale. L'évaluation de l'aptitude professionnelle, les inventaires de personnalité et l'entretien avec le ou les psychologues constituent une aide à la décision des groupes d'examinateurs.
+L'épreuve vise à mettre en valeur l'aptitude du candidat à l'état de sous-officier de gendarmerie au regard de ses acquis de l'expérience professionnelle durant son activité de volontaire dans les armées servant dans la gendarmerie nationale, titulaire du diplôme de gendarme adjoint, de policier adjoint, de militaire des forces armées autres que la gendarmerie nationale servant en vertu d'un contrat, ou encore de réserviste de la gendarmerie nationale. Les inventaires de personnalité et l'entretien avec le ou les psychologues constituent une aide à la décision des groupes d'examinateurs.
 
 Le modèle de dossier est disponible sur le site internet de la gendarmerie nationale : www.lagendarmerierecrute.fr.
 
@@ -161,3 +157,7 @@ d) Sécurité des territoires et des mobilités :
 3. Formation aux systèmes d'information et de communication :
 
 -La procédure radio et le réseau rubis.
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 30 juillet 2024 (NOR : IOMJ2419946A), ces dispositions entrent en vigueur le 1er janvier 2025.

@@ -578,69 +578,65 @@ II.-Sciences de gestion
 
 1° La théorie des organisations :
 
-a) Théories traditionnelles, théorie des relations humaines.
+a) Théories traditionnelles, théorie des relations humaines ;
 
-b) Théories de la contingence, théorie des systèmes.
+b) Théories de la contingence, théorie des systèmes ;
 
-c) Approches nouvelles : théorie de la décision, analyse stratégique, théorie des ressources et des compétences, écologie des populations et évolutionnisme, néo-institutionnalisme.
+c) Approches nouvelles : théorie de la décision, analyse stratégique, théorie des ressources et des compétences, écologie des populations et évolutionnisme, néo-institutionnalisme ;
 
-2° Les grandes fonctions :
+2° Les grandes fonctions organisationnelles :
 
-a) La gestion commerciale : l'approche du marché et la démarche marketing.
+a) La gestion des ressources humaines : le contenu de la fonction et les problématiques contemporaines ;
 
-b) La gestion de production : contenu et pilotage.
+b) La gestion des connaissances et compétences ;
 
-c) La gestion des achats et la logistique.
+c) La logistique et l'approvisionnement ;
 
-d) La gestion des ressources humaines : le contenu de la fonction et les problématiques contemporaines.
+d) La gestion comptable et financière ;
 
-e) La gestion comptable et financière.
+e) La conception et l'innovation ;
 
-3° Les nouvelles formes d'organisation :
+f) La gestion commerciale : l'approche du marché et la démarche marketing ;
 
-a) Le management de projet.
+g) La gestion de production : contenu, pilotage et qualité ;
 
-b) La gestion par processus.
+h) La responsabilité sociétale des entreprises ;
 
-c) Les formes d'organisation en réseau : entreprise en réseau, réseau d'entreprises, partenariats, alliances, coopération.
+3° Les nouvelles formes d'organisation et de management :
 
-4° L'entreprise et la stratégie :
+a) Le management de projet ;
 
-a) L'évolution de la pensée stratégique.
+b) La gestion par processus ;
 
-b) La démarche stratégique.
+c) Le management public ;
 
-c) Information et système d'information.
+d) Les formes d'organisation en réseau : entreprise en réseau, réseau d'entreprises, partenariats, alliances, coopération ;
 
-5° Le diagnostic stratégique :
+e) La conduite du changement ;
 
-a) Le diagnostic et la dynamique concurrentielle : l'analyse des forces concurrentielles.
+f) La flexibilité ;
 
-b) Le diagnostic et la dynamique organisationnelle :
+4° La stratégie organisationnelle :
 
--l'analyse technologique ;
+a) L'évolution de la pensée stratégique ;
 
--l'analyse du potentiel de l'organisation (chaîne de valeur).
+b) La démarche stratégique ;
 
-6° Les choix stratégiques :
+c) Information et système d'information ;
 
-a) Stratégies intersectorielles et interentreprises.
+d) Le diagnostic et la dynamique concurrentielle et organisationnelle ;
 
-b) Stratégies internationales.
+e) Les choix stratégiques ;
 
-c) La mise en œuvre des choix stratégiques.
+5° La science de la décision :
 
-7° Quelques problématiques actuelles :
+a) Le comportement organisationnel ;
 
-a) La gestion de la qualité.
+b) Le leadership ;
 
-b) La gestion des connaissances et des compétences.
+c) Le contrôle de gestion, l'audit et l'aide à la décision ;
 
-c) La gestion du risque et de l'incertitude.
-
-d) La gestion de la flexibilité.
-
-e) La gestion de l'innovation et du changement.
+d) La gestion du risque et de l'incertitude.
 
 E.-OPTION HISTOIRE-GÉOGRAPHIE
 
@@ -837,3 +833,7 @@ Les épreuves sportives sont définies :
 a) A l'annexe VI pour le concours prévu au 1° de l'article 6 du même décret susvisé.
 
 b) A l'annexe VII pour le concours prévu au 2° de l'article 6 du même décret susvisé.
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 30 juillet 2024 (NOR : IOMJ2419946A), ces dispositions entrent en vigueur le 1er janvier 2025.

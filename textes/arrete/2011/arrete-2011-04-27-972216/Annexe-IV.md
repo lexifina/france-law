@@ -68,9 +68,9 @@ Faute relevée : incapacité à soulever le sac, à le porter en se déplaçant 
 
 Dans tous les cas l'ensemble de l'exercice doit être repris. Trois essais infructueux signifient un échec.
 
-II. - Présentation de l'EPG par un moniteur d'entraînement physique et sportif
+II. - Présentation de l'EPG par un examinateur spécialement formé à l'épreuve
 
-Avant que le premier candidat convoqué ne passe l'EPG, une démonstration de l'épreuve est faite à l'ensemble des candidats par un moniteur d'entraînement physique et sportif en insistant sur les fautes qui, dans un premier temps, obligent le candidat à recommencer l'épreuve et qui peuvent provoquer, le cas échéant, l'échec de l'épreuve.
+Avant que le premier candidat convoqué ne passe l'EPG, une démonstration de l'épreuve est faite à l'ensemble des candidats par un examinateur spécialement formé à l'épreuve en insistant sur les fautes qui, dans un premier temps, obligent le candidat à recommencer l'épreuve et qui peuvent provoquer, le cas échéant, l'échec de l'épreuve.
 
 III. - Echauffement
 
@@ -219,3 +219,7 @@ En cas de performance intermédiaire, la note à attribuer est celle qui corresp
 4.2. Atelier 3 : transport de poids
 
 L'échec au troisième atelier entraîne le retrait d'un point sur la note obtenue lors des deux premiers ateliers chronométrés.
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 30 juillet 2024 (NOR : IOMJ2419946A), ces dispositions entrent en vigueur le 1er janvier 2025.
