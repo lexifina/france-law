@@ -846,10 +846,6 @@ Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER23252
 
 -Abaissement de la température de retour vers un réseau de chaleur / Fiche d’opération standardisée n° BAT-SE-105
 
--Chaudière collective haute performance énergétique / Fiche d’opération standardisée n° BAT-TH-102
-
-Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
-
 -Plancher chauffant hydraulique à basse température / Fiche d’opération standardisée n° BAT-TH-103
 
 Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER1923457A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
@@ -1040,7 +1036,7 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 
 - Dispositif performant d'alimentation sans interruption / Fiche d'opération standardisée n° BAT-EQ-135
 
-Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée par la fiche d'opération standardisée figurant à l'annexe F de l'arrêté précité. Vous pouvez consulter l'annexe à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° BAT-EQ-135 est remplacée à compter du 1er janvier 2025 par la fiche portant la même référence présente à l'annexe C de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
 Liens :
 

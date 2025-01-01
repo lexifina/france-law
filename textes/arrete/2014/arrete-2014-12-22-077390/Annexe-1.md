@@ -38,13 +38,19 @@ Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER23252
 
 - Déshumidificateur thermodynamique pour serres / Fiche d’opération n° AGRI-TH-117
 
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° AGRI-TH-117 est remplacée à compter du 1er janvier 2025 par la fiche portant la même référence présente à l'annexe A de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+
 - Double tube de chauffage pour serres / Fiche d’opération n° AGRI-TH-118
 
 - Système de déshumidification avec air extérieur / Fiche d'opération n° AGRI-TH-119
 
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° AGRI-TH-119 est remplacée à compter du 1er janvier 2025 par la fiche portant la même référence présente à l'annexe A de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+
 - Module d’intégration de température installé sur un ordinateur climatique / Fiche d’opération n° AGRI-EQ-101
 
 - Double écran thermique / Fiche d’opération n° AGRI-EQ-102
+
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° AGRI-EQ-102 est remplacée à compter du 1er janvier 2025 par la fiche portant la même référence présente à l'annexe A de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
 - Ecrans thermiques latéraux / Fiche d’opération n° AGRI-EQ-104
 
@@ -71,6 +77,8 @@ Conformément à l'article 1 de l'arrêté du 20 décembre 2023 (NOR : ENER23334
 - Simple écran thermique / Fiche d'opération n° AGRI-EQ-111
 
 Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée par la fiche d'opération standardisée figurant à l'annexe E de l'arrêté précité. Vous pouvez consulter l'annexe à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.
+
+Conformément à l'article 3 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° AGRI-EQ-112 est ajoutée à compter du 1er janvier 2025 à la présente annexe. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
 - Moto-variateur synchrone à aimants permanents / Fiche d'opération n° AGRI-UT-101
 

@@ -46,8 +46,6 @@ Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRE
 
 - Système de maîtrise de la puissance réactive en éclairage extérieur / Fiche d’opération n° RES-EC-102 (Abrogée à compter du 1er avril 2022)
 
-- Système de variation de puissance en éclairage extérieur / Fiche d’opération n° RES-EC-103
-
 - Rénovation d’éclairage extérieur / Fiche d’opération n° RES-EC-104
 
 Conformément à l’article 2 de l’arrêté du 22 août 2024 (NOR : ECOR2422700A), la fiche d’opération n° RES-EC-104 remplace, à compter du 1er janvier 2025, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZbBEIZBpGcGHOKQbKS9utmtc_Fh71x9KoG_z3damffY=.

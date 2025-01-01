@@ -216,7 +216,7 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 
 - Mise en place d'un système de pompe(s) à chaleur en rehausse de température de chaleur fatale récupérée / Fiche d’opération standardisée n° IND-UT-137
 
-Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée, à compter du 1er janvier 2025, par la fiche d'opération standardisée figurant à l'annexe G du l'arrêté précité.
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° IND-UT-137 est remplacée à compter du 1er janvier 2025 par la fiche portant la même référence présente à l'annexe D de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
 - Conversion de chaleur fatale en électricité ou en air comprimé / Fiche d'opération standardisée n° IND-UT-138
 
@@ -225,6 +225,8 @@ Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A)
 - Système de stockage de chaleur fatale / Fiche d'opération standardisée n° IND-UT-139
 
 Conformément à l'article 3 de l'arrêté du 22 août 2024 (NOR : ECOR2422700A), la présente annexe est complétée, à compter du 1er janvier 2025, par la fiche d'opération standardisée figurant à l'annexe G du l'arrêté précité. Conformément à l'article 1er de l'arrêté du 24 octobre 2024 (NOR : TECR2428117A), la fiche d'opération standardisée portant la référence IND-UT-139 et figurant en annexe II à l'arrêté précité remplace la fiche portant la même référence figurant dans l'annexe G de l'arrêté du 22 août 2024 (NOR : ECOR2422700A).
+
+Conformément à l'article 3 de l'arrêté du 30 décembre 2024 et à son annexe G (NOR : ECOR2435303A), la fiche d’opération n° IND-UT-140 est ajoutée à compter du 1er janvier 2025 à la présente annexe. remplacée par la fiche portant la même référence présente à l'annexe D de l'arrêté précité. Vous pouvez consulter la présente fiche au sein de l'annexe G disposnible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
 Liens :
 
