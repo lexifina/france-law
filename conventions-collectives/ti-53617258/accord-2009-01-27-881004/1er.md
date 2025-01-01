@@ -10,14 +10,6 @@ Sont concernées par le présent accord les entreprises entrant dans le champ d'
 
 2. Les salariés couverts
 
-Les dispositions du présent accord s'appliquent :
+Les dispositions de l'accord collectif de prévoyance interprofessionnel du 27 janvier 2009 s'appliquent à tous les salariés ne relevant pas des articles 2.1 et 2.2 de l'accord national interprofessionnel (ANI) relatif à la prévoyance des cadres du 17 novembre 2017, à l'exclusion :
 
-– à tout salarié relevant de la convention collective nationale de retraite du 24 mars 1971 (non affiliés à l'AGIRC) et répondant à la condition d'ancienneté spécifiée, le cas échéant, aux articles définissant chaque garantie ;
-
-– et relevant du champ d'application du présent accord,
-
-à l'exclusion :
-
-– des cadres et personnels ressortissants de la convention collective du 2 avril 1952 et relevant de la caisse de retraite complémentaire cadre en application des décisions de l'AGIRC et bénéficiant à ce titre du régime de prévoyance défini dans la convention précitée.
-
-– des VRP et bûcherons-tâcherons ressortissants d'autres dispositions conventionnelles.
+des salariés relevant des articles 2.1 et 2.2 de l'accord national interprofessionnel (ANI) relatif à la prévoyance des cadres du 17 novembre 2017 et des techniciens, agents de maîtrise et cadres relevant de la convention collective du 2 avril 1952 et du régime Agirc-Arrco, et bénéficiant à ce titre du régime de prévoyance défini dans la convention précitée.
