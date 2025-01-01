@@ -1,0 +1,5 @@
+# Article 1er
+
+L'article 3 « Organisme assureur et garanties » de l'accord du 7 décembre 2006, tel que modifié par l'avenant n° 7 du 8 décembre 2022, est révisé de la manière suivante :
+
+« Les garanties telles qu'en vigueur à la date de prise d'effet du présent régime sont résumées, à titre d'information, dans le tableau des garanties. Toutefois, elles ne constituent pas un engagement pour l'entreprise qui n'est tenue qu'au seul paiement des cotisations et, a minima, au respect de ses obligations légales et réglementaires en vigueur. Elles relèvent, en conséquence, de la seule responsabilité de l'organisme assureur tout comme les modalités, limitations et exclusions de garantie. »
