@@ -90,7 +90,7 @@ Présidence
 
 |
 
-Autorité de sûreté nucléaire |
+Autorité de sûreté nucléaire et de radioprotection |
 
 Présidence |
 
@@ -214,10 +214,6 @@ Institut national de la santé et de la recherche médicale |
 
 Présidence |
 
-Institut de radioprotection et de sûreté nucléaire |
-
-Direction générale |
-
 Institution nationale publique mentionnée à l'article L. 5312-1 du code du travail (Pôle emploi) |
 
 Direction générale |
@@ -272,4 +268,4 @@ Présidence du conseil d'administration |
 
 NOTA :
 
-Conformément au premier alinéa de l'article 3 de la loi organique n° 2024-448 du 21 mai 2024, ces dispositions ne s'appliquent pas au mandat de président du conseil d'administration de la société Orano en cours à la date de publication de la loi précitée.
+Conformément à l'article 2 de la loi organique n° 2024-448 du 21 mai 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
