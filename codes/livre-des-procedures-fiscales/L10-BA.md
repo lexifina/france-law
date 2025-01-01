@@ -16,7 +16,7 @@ IV. – Le numéro individuel d'identification n'est pas attribué ou est invali
 
 4° Des modifications de données n'ont pas été communiquées ;
 
-5° L'obligation de représentation par un assujetti établi en France accrédité auprès des services des impôts, en application des I ou II de l'article 289 A du code général des impôts, a cessé d'être respectée.
+5° L'obligation de représentation par un assujetti établi en France accrédité auprès des services des impôts, en application du I de l'article 289 A du code général des impôts, a cessé d'être respectée.
 
 V.-Lorsqu'il existe des indices concordants indiquant que ce numéro est utilisé par un opérateur identifié qui savait ou ne pouvait ignorer être impliqué dans une fraude visant à ne pas reverser la taxe due en France ou dans l'Union européenne, il peut être invalidé dans la base de données des assujettis établis dans les Etats membres par l'administration :
 
@@ -43,3 +43,7 @@ Le numéro est rétabli sans délai lorsque :
 3° L'opérateur identifié a levé l'obstacle au déroulement des opérations mentionnées au VI ;
 
 4° Les observations transmises par l'opérateur identifié sont de nature à justifier ce rétablissement.
+
+NOTA :
+
+Conformément au VI de l’article 112 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
