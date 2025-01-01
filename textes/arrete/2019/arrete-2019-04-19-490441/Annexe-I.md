@@ -326,9 +326,19 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-HYGIÈNE, PROPRETÉ, STÉRILISATION |
+HYGIÈNE, PROPRETÉ, STÉRILISATION (dernière session 2027) |
 
 Arrêté du 17 juillet 2012 modifié |
+
+PRODUCTION |
+
+Economie-gestion/ Physique-chimie |
+
+Hygiène, propreté, stérilisation
+
+(première session 2028) |
+
+Arrêté du 13 décembre 2024 |
 
 PRODUCTION |
 
