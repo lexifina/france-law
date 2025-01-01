@@ -6,21 +6,105 @@ Code ISIN |
 
 Libellé |
 
-Société de gestion |
+Société
 
-Indicateur de risque de l'unité de compte (SRI) : 1 (faible) à 7 (élevé) |
+de gestion |
 
-Performance de l'unité de compte (A) |
+Indicateur
 
-Frais de gestion de l'unité de compte (B) dont frais rétrocédés (taux de rétrocessions de commissions) |
+de risque
 
-Performance nette de l'unité de compte (A-B) |
+de l'unité
 
-Frais de gestion du contrat (C) |
+de compte (SRI) : 1 (faible)
 
-Frais totaux (B + C) dont frais rétrocédés (taux de rétrocessions de commissions) |
+à 7 (élevé) |
+
+Performance brute
+
+de l'unité de compte (A) |
+
+Frais de gestion
+
+de l'unité de compte (B)
+
+dont frais rétrocédés
+
+(taux de rétrocessions
+
+de commissions) |
+
+Performance nette
+
+de l'unité de compte (A-B) |
+
+Frais
+
+de gestion
+
+du contrat
+
+(C) |
+
+Frais totaux (B+C)
+
+dont frais rétrocédés
+
+(taux de rétrocessions
+
+de commissions) |
 
 Performance finale (A-B-C) |
+
+|
+
+|
+
+|
+
+|
+
+Annuelle
+
+(N-1) |
+
+Moyenne annualisée
+
+sur 5 ans
+
+(N-1 / N-5) |
+
+|
+
+Annuelle
+
+(N-1) |
+
+Moyenne
+
+annualisée
+
+sur 5 ans
+
+(N-1 / N-5) |
+
+|
+
+|
+
+Annuelle
+
+(N-1) |
+
+Moyenne
+
+annualisée
+
+sur 5 ans
+
+(N-1 / N-5) |
+
+|
 
 Fonds actions |
 
@@ -32,19 +116,31 @@ XXXX |
 
 6 |
 
-5 % |
+5% |
 
-1,5 % (dont 1 %) |
+4,5% |
 
-3,5 % |
+1,5% (dont 1%) |
 
-1 % |
+3,5% |
 
-2,5 % (dont 1 %) |
+3% |
 
-2,5 % |
+1% |
+
+2,5% (dont 1%) |
+
+2,5% |
+
+2% |
 
 Fonds obligations |
+
+|
+
+|
+
+|
 
 |
 
@@ -88,7 +184,19 @@ Fonds mixtes |
 
 |
 
+|
+
+|
+
+|
+
 Fonds immobiliers |
+
+|
+
+|
+
+|
 
 |
 
@@ -132,7 +240,19 @@ Fonds spéculatifs |
 
 |
 
+|
+
+|
+
+|
+
 Fonds de capital investissement |
+
+|
+
+|
+
+|
 
 |
 
@@ -176,7 +296,21 @@ Fonds monétaires |
 
 |
 
+|
+
+|
+
+|
+
 Autres |
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -198,6 +332,4 @@ Autres |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 4 avril 2023 (NOR : ECOT2304075A), ces dispositions entrent en vigueur le 1er juillet 2023.
-
-Par exception, ces dispositions entrent en vigueur le 1er janvier 2024 en ce qu'elles s'appliquent à l'information annuelle mentionnée à l'article L. 132-22 du code des assurances et à l'actualisation annuelle mentionnée l'article L. 224-7 du code monétaire et financier.
+Conformément à l'article 3 de l'arrêté du 20 juin 2024 (NOR : ECOT2414176A), ces dispositions entrent en vigueur le 1er janvier 2025.
