@@ -4,21 +4,19 @@ PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CO
 
 CATÉGORIE
 
-DE MÉNAGES |
+de ménages |
 
 PARIS
 
-et communes limitrophes
+et communes
 
-(en euros) |
+limitrophes (en euros) |
 
 ILE-DE-FRANCE
 
-hors Paris
+hors Paris et communes
 
-et communes limitrophes
-
-(en euros) |
+limitrophes (en euros) |
 
 AUTRES
 
@@ -28,60 +26,60 @@ RÉGIONS
 
 1 |
 
-14 329 |
+14 683 |
 
-14 329 |
+14 683 |
 
-12 452 |
+12 759 |
 
 2 |
 
-23 355 |
+23 931 |
 
-23 355 |
+23 931 |
 
-18 143 |
+18 591 |
 
 3 |
 
-30 614 |
+31 369 |
 
-28 074 |
+28 767 |
 
-21 818 |
+22 356 |
 
 4 |
 
-33 511 |
+34 338 |
 
-30 824 |
+31 585 |
 
-24 276 |
+24 875 |
 
 5 |
 
-39 863 |
+40 847 |
 
-36 493 |
+37 393 |
 
-28 404 |
+29 105 |
 
 6 |
 
-44 861 |
+45 968 |
 
-41 064 |
+42 077 |
 
-32 010 |
+32 800 |
 
 Par personne supplémentaire |
 
-4 998 |
+5 121 |
 
-4 573 |
+4 686 |
 
-3 569 |
+3 657 |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 18 décembre 2023 (NOR : TREL2334174A), ces dispositions entrent en vigueur le le 1er janvier 2024.
+Conformément à l'article 2 de l'arrêté du 23 décembre 2024 (NOR : ATDL2432625A), ces dispositions entrent en vigueur le 1er janvier 2025.

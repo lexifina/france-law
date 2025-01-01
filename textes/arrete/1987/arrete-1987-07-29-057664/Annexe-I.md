@@ -1,24 +1,22 @@
 # Article Annexe I
 
-PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTICLES L. 441-3, R. 331-12 ET R. 441-1 (1°) DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS AUTRES QUE CEUX MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (NOTAMMENT PLUS)
+PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTICLES L. 441-3, R. 331-12 ET R. 441-1 (1O) DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS AUTRES QUE CEUX MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (NOTAMMENT PLUS)
 
-CATÉGORIE
+CATEGORIE
 
-DE MÉNAGES |
+de ménages |
 
 PARIS
 
-et communes limitrophes
+et communes
 
-(en euros) |
+limitrophes (en euros) |
 
 ILE-DE-FRANCE
 
-hors Paris
+hors Paris et communes
 
-et communes limitrophes
-
-(en euros) |
+limitrophes (en euros) |
 
 AUTRES
 
@@ -28,60 +26,60 @@ REGIONS
 
 1 |
 
-26 044 |
+26 687 |
 
-26 044 |
+26 687 |
 
-22 642 |
+23 201 |
 
 2 |
 
-38 925 |
+39 885 |
 
-38 925 |
+39 885 |
 
-30 238 |
+30 984 |
 
 3 |
 
-51 025 |
+52 284 |
 
-46 789 |
+47 944 |
 
-36 362 |
+37 259 |
 
 4 |
 
-60 921 |
+62 424 |
 
-56 046 |
+57 429 |
 
-43 899 |
+44 982 |
 
 5 |
 
-72 482 |
+74 271 |
 
-66 347 |
+67 984 |
 
-51 641 |
+52 915 |
 
 6 |
 
-81 562 |
+83 575 |
 
-74 662 |
+76 504 |
 
-58 200 |
+59 636 |
 
 Par personne supplémentaire |
 
-9 089 |
+9 313 |
 
-8 319 |
+8 524 |
 
-6 492 |
+6 652 |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 18 décembre 2023 (NOR : TREL2334174A), ces dispositions entrent en vigueur le le 1er janvier 2024.
+Conformément à l'article 2 de l'arrêté du 23 décembre 2024 (NOR : ATDL2432625A), ces dispositions entrent en vigueur le 1er janvier 2025.
