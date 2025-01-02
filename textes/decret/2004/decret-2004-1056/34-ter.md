@@ -12,10 +12,6 @@ II. - La perte définitive de la pension prend effet :
 
 2° Pour le motif mentionné au 2° du I, le premier jour du mois suivant la prise d'activité à temps plein. Toutefois, si la prise d'activité prend effet le premier jour du mois, dans ce cas, la cessation prend effet ce même jour.
 
-III. - Le service de la pension partielle est suspendu lorsque l'ouvrier, en dehors des cas prévus au précédent alinéa, ne réunit plus les conditions pour en bénéficier.
+III. - Le service de la pension partielle est suspendu lorsque l'ouvrier, en dehors des cas prévus au I et au II, ne réunit plus les conditions pour en bénéficier.
 
 La suspension prend effet le premier jour du mois suivant la date à laquelle ces conditions ne sont plus réunies. Toutefois, si cela intervient le premier jour du mois, dans ce cas, la suspension prend effet ce même jour.
-
-NOTA :
-
-Conformément au I de l'article 9 du décret n° 2023-751 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

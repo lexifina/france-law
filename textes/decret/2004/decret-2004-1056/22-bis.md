@@ -18,6 +18,4 @@ Pour l'appréciation des conditions fixées par les dispositions précitées, la
 
 Les dispositions des articles L. 161-21-1 et D. 161-2-4-3 du code de la sécurité sociale sont applicables aux ouvriers des établissements industriels de l'Etat en situation de handicap.
 
-NOTA :
-
-Conformément au I de l’article 13 du décret n° 2023-435 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023. Se reporter aux conditions d’application prévues au II dudit article.
+Pour l'application du présent article, les périodes d'année d'études ayant fait l'objet d'une prise en compte par le versement d'une cotisation prévue par l'article 9 du présent décret ou mentionnée à l'article L. 173-7 du code de la sécurité sociale ne sont pas comptabilisées au sein de la durée d'assurance ayant donné lieu à cotisation à la charge de l'ouvrier.
