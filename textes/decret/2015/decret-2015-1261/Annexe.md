@@ -456,6 +456,330 @@ Pic Saint-Loup |
 
 15 |
 
+Saint-Estèphe |
+
+11 |
+
+28 |
+
+Mâcon |
+
+13 |
+
+19 |
+
+Mâcon suivi d'une dénomination géographique complémentaire |
+
+12 |
+
+17 |
+
+Aloxe-Corton |
+
+10 |
+
+15 |
+
+Aloxe-Corton 1ercru |
+
+10 |
+
+14 |
+
+Auxey-Duresses |
+
+10 |
+
+14 |
+
+Auxey-Duresses 1er cru |
+
+10 |
+
+14 |
+
+Beaune |
+
+10 |
+
+14 |
+
+Beaune 1er cru |
+
+10 |
+
+14 |
+
+Chambolle-Musigny |
+
+8 |
+
+15 |
+
+Chambolle-Musigny 1er cru |
+
+8 |
+
+14 |
+
+Chassagne-Montrachet |
+
+10 |
+
+14 |
+
+Chassagne-Montrachet 1er cru |
+
+10 |
+
+14 |
+
+Chorey-lès-Beaune |
+
+10 |
+
+15 |
+
+Côte de Beaune |
+
+10 |
+
+14 |
+
+Côte de Beaune-Villages |
+
+10 |
+
+15 |
+
+Côte de Nuits-Villages |
+
+10 |
+
+25 |
+
+Fixin |
+
+10 |
+
+25 |
+
+Fixin 1er cru |
+
+9 |
+
+24 |
+
+Gevrey-Chambertin |
+
+10 |
+
+25 |
+
+Gevrey-Chambertin 1er cru |
+
+10 |
+
+25 |
+
+Givry |
+
+10 |
+
+26 |
+
+Givry 1er cru |
+
+10 |
+
+26 |
+
+Irancy |
+
+10 |
+
+15 |
+
+Ladoix |
+
+10 |
+
+25 |
+
+Ladoix 1er cru |
+
+10 |
+
+14 |
+
+Maranges |
+
+10 |
+
+24 |
+
+Maranges 1er cru |
+
+10 |
+
+24 |
+
+Marsannay |
+
+10 |
+
+25 |
+
+Monthélie |
+
+8 |
+
+24 |
+
+Monthélie 1er cru |
+
+8 |
+
+24 |
+
+Morey-Saint-Denis |
+
+10 |
+
+15 |
+
+Morey-Saint-Denis 1er cru |
+
+10 |
+
+15 |
+
+Pernand-Vergelesses |
+
+10 |
+
+15 |
+
+Pernand-Vergelesses 1er cru |
+
+10 |
+
+14 |
+
+Pommard |
+
+10 |
+
+25 |
+
+Pommard 1er cru |
+
+9 |
+
+24 |
+
+Puligny-Montrachet |
+
+10 |
+
+25 |
+
+Puligny-Montrachet 1er cru |
+
+9 |
+
+24 |
+
+Rully |
+
+10 |
+
+27 |
+
+Rully 1er cru |
+
+10 |
+
+26 |
+
+Saint-Aubin |
+
+10 |
+
+25 |
+
+Saint-Aubin 1er cru |
+
+9 |
+
+24 |
+
+Saint-Romain |
+
+10 |
+
+15 |
+
+Santenay |
+
+10 |
+
+25 |
+
+Santenay 1er cru |
+
+10 |
+
+24 |
+
+Savigny-lès-Beaune |
+
+10 |
+
+24 |
+
+Savigny-lès-Beaune 1er cru |
+
+10 |
+
+24 |
+
+Vougeot |
+
+10 |
+
+14 |
+
+Vougeot 1er cru |
+
+10 |
+
+14 |
+
+Volnay |
+
+10 |
+
+15 |
+
+Volnay 1er cru |
+
+10 |
+
+14 |
+
+Vosne-Romanée |
+
+8 |
+
+15 |
+
+Vosne-Romanée 1er cru |
+
+8 |
+
+14 |
+
 II.-Liste des vins blancs tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
 
 APPELLATION D'ORIGINE PROTÉGÉE |
@@ -500,9 +824,9 @@ Muscadet Côte de Grandlieu |
 
 Touraine (sans mention complémentaire) |
 
-10 |
+13 |
 
-20 |
+25 |
 
 Chinon |
 
@@ -518,9 +842,9 @@ Menetou-Salon |
 
 Quincy |
 
-7 |
+10 |
 
-19,5 |
+21 |
 
 Reuilly |
 
@@ -604,7 +928,7 @@ Bourgogne Côtes d'Or |
 
 13 |
 
-19 |
+33 |
 
 Bourgogne Tonnerre |
 
@@ -632,13 +956,13 @@ Chablis accompagnée de la mention Premier cru |
 
 Beaune |
 
-5 |
+10 |
 
 15 |
 
 Beaune premier cru |
 
-5 |
+10 |
 
 15 |
 
@@ -646,25 +970,25 @@ Mâcon |
 
 14 |
 
-21 |
+35 |
 
 Mâcon Villages |
 
 14 |
 
-20 |
+34 |
 
 Mâcon suivi d'une dénomination géographique complémentaire |
 
 13 |
 
-19 |
+33 |
 
 Marsannay |
 
-6 |
+11 |
 
-16 |
+28 |
 
 Montagny |
 
@@ -680,15 +1004,15 @@ Montagny 1er cru |
 
 Pernand-Vergelesses |
 
-5 |
+11 |
 
-15 |
+17 |
 
 Pernand-Vergelesses premier cru |
 
-5 |
+11 |
 
-15 |
+16 |
 
 Pouilly-Fuissé |
 
@@ -708,35 +1032,23 @@ Pouilly-Vinzelles |
 
 18 |
 
-Pouilly-Vinzelles suivi du nom d'une unité géographique plus petite |
-
-7 |
-
-17 |
-
 Pouilly-Loché |
 
-7 |
+12 |
 
-18 |
-
-Pouilly-Loché suivi du nom d'une unité géographique plus petite |
-
-7 |
-
-17 |
+30 |
 
 Rully |
 
-6 |
+12 |
 
-17 |
+30 |
 
 Rully premier cru |
 
-6 |
+11 |
 
-17 |
+29 |
 
 Saint-Bris |
 
@@ -746,7 +1058,7 @@ Saint-Bris |
 
 Saint-Romain |
 
-6 |
+11 |
 
 28 |
 
@@ -764,25 +1076,25 @@ Saint-Véran suivi du nom d'une unité géographique plus petite |
 
 Savigny-lès-Beaune |
 
-5 |
+10 |
 
-15 |
+24 |
 
 Savigny-lès-Beaune premier cru |
 
-5 |
+10 |
 
-15 |
+24 |
 
 Viré-Clessé |
 
-6 |
+13 |
 
 19 |
 
 Viré-Clessé suivi du nom d'une unité géographique plus petite |
 
-6 |
+12 |
 
 18 |
 
@@ -944,15 +1256,15 @@ Touraine suivi de la dénomination géographique complémentaire Chenonceaux |
 
 Givry |
 
-4 |
+12 |
 
-18 |
+29 |
 
 Givry complété par la mention " premier cru " |
 
-4 |
+12 |
 
-17 |
+29 |
 
 Mercurey |
 
@@ -1028,51 +1340,189 @@ Beaujolais + nom de commune |
 
 Monthélie |
 
-7 |
+8 |
 
-17 |
+24 |
 
 Monthélie 1er cru |
 
-7 |
+8 |
 
-16 |
+24 |
 
 Puligny-Montrachet |
 
-7 |
+11 |
 
 28 |
 
 Puligny-Montrachet premier cru |
 
-7 |
+11 |
 
 27 |
 
 Saint-Aubin |
 
-7 |
+11 |
 
 28 |
 
 Saint-Aubin premier cru |
 
-7 |
+11 |
 
 27 |
 
 Santenay |
 
-7 |
+11 |
 
 28 |
 
 Santenay premier cru |
 
-7 |
+11 |
 
 27 |
+
+Touraine suivi de la dénomination géographique complémentaire Oisly |
+
+5 |
+
+15 |
+
+Saumur |
+
+7 |
+
+21 |
+
+Aloxe-Corton |
+
+11 |
+
+17 |
+
+Aloxe-Corton 1ercru |
+
+11 |
+
+16 |
+
+Auxey-Duresses |
+
+11 |
+
+17 |
+
+Auxey-Duresses 1er cru |
+
+11 |
+
+17 |
+
+Chassagne-Montrachet |
+
+11 |
+
+17 |
+
+Chassagne-Montrachet 1er cru |
+
+11 |
+
+17 |
+
+Chorey-lès-Beaune |
+
+11 |
+
+17 |
+
+Côte de Beaune |
+
+10 |
+
+15 |
+
+Côte de Nuits-Villages |
+
+11 |
+
+28,5 |
+
+Fixin |
+
+11 |
+
+28 |
+
+Fixin 1er cru |
+
+11 |
+
+27 |
+
+Ladoix |
+
+10 |
+
+25 |
+
+Ladoix 1er cru |
+
+10 |
+
+14 |
+
+Maranges |
+
+11 |
+
+28 |
+
+Maranges 1er cru |
+
+11 |
+
+14 |
+
+Morey-Saint-Denis |
+
+10 |
+
+17 |
+
+Morey-Saint-Denis 1er cru |
+
+10 |
+
+17 |
+
+Pouilly-Loché 1er cru |
+
+12 |
+
+30 |
+
+Pouilly-Vinzelles 1er cru |
+
+12 |
+
+30 |
+
+Vougeot |
+
+11 |
+
+14 |
+
+Vougeot 1er cru |
+
+11 |
+
+14 |
 
 III.-Liste des vins rosés tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
 
@@ -1122,6 +1572,18 @@ Touraine |
 
 12 |
 
+Marsannay |
+
+12 |
+
+30 |
+
+Vin de Savoie |
+
+15 |
+
+35,5 |
+
 IV.-Liste des vins de base destinés à l'élaboration de vins mousseux ou pétillants bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
 
 APPELLATION D'ORIGINE PROTÉGÉE |
@@ -1157,6 +1619,40 @@ Saumur |
 12 |
 
 18 |
+
+Vin de Savoie (rosé) |
+
+15 |
+
+37,5 |
+
+Vin de Savoie indication Crémant (blanc)
+
+Densité supérieure à 5 500 pieds par hectare |
+
+16 |
+
+39 |
+
+Vin de Savoie indication Crémant (blanc)
+
+Densité entre 5 000 et 5 500 pieds par hectare |
+
+16 |
+
+37 |
+
+Vin de Savoie suivi d'une dénomination géographique complémentaire Ayze |
+
+15 |
+
+37,5 |
+
+Seyssel |
+
+15 |
+
+37,5 |
 
 V.-Liste des vins issus de raisins récoltés à surmaturité et manuellement par tries successives dits vins liquoreux :
 
