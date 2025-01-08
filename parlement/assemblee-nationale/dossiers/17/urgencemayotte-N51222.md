@@ -1,0 +1,54 @@
+# Projet de loi d'urgence pour Mayotte
+
+- Procédure : Projet de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N51222
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/urgenceMayotte
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl24-260.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2025-01-08 : 1er dépôt d'une initiative. (PRJLANR5L17B0772)
+  - 2025-01-08 : Etude d'impact (ETDIANR5L17B0772)
+  - 2025-01-08 : Avis du Conseil d'Etat (AVCEANR5L17B0772)
+  - 2025-01-08 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-01-08 : Renvoi en commission au fond
+      - 2025-01-13 : Nomination de rapporteur
+      - 2025-01-20 : Réunion de commission
+      - 2025-01-15 : Dépôt de rapport (RAPPANR5L17B0775, PRJLANR5L17BTC0775)
+  - Discussion en séance publique
+    - 2025-01-20 : Discussion en séance publique
+    - 2025-01-20 : Discussion en séance publique
+    - 2025-01-21 : Discussion en séance publique
+    - 2025-01-21 : Discussion en séance publique
+    - 2025-01-22 : Discussion en séance publique
+    - 2025-01-22 : Discussion en séance publique
+    - 2025-01-22 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2025-01-22 : Dépôt d'une initiative en navette (PRJLSNR5S459B0260)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-01-22 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2025-01-29 : Dépôt de rapport (RAPPSNR5S459B0282, PRJLSNR5S459BTC0283)
+  - Discussion en séance publique
+    - 2025-02-04 : Discussion en séance publique
+    - 2025-02-04 : Décision
+- Commission Mixte Paritaire
+  - 2025-02-05 : Dépôt d'un projet de loi (PRJLANR5L17B0911)
+  - 2025-02-05 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2025-02-10 : Nomination de rapporteur
+    - 2025-02-10 : Dépôt du rapport d'une CMP (RAPPANR5L17B0920, PRJLANR5L17BTC0920)
+    - 2025-02-10 : Dépôt du rapport d'une CMP (RAPPSNR5S459B0320, PRJLSNR5S459BTC0321)
+  - Discussion en séance publique
+    - 2025-02-12 : Discussion en séance publique
+    - 2025-02-12 : Décision
+  - Discussion en séance publique
+    - 2025-02-13 : Décision
+  - 2025-02-10 : Décision de la CMP
+- Promulgation de la loi
+  - 2025-02-24 : Promulgation d'une loi
