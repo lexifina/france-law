@@ -1,89 +1,47 @@
 # Article ANNEXE II
 
-NORMES D'APTITUDE MÉDICALE REQUISES DES RÉSERVISTES OPÉRATIONNELS DE LA GENDARMERIE NATIONALE
+I. - Dans le cadre de la souscription ou du renouvellement d'un engagement à servir dans la réserve, le gestionnaire établit une fiche de poste précisant les conditions particulières d'emploi et les situations qui nécessitent une évaluation médicale particulière. Peuvent être notamment indiquées :
 
-Emploi |
+- pratique entraînement physique militaire et sportif (EPMS) ;
 
-Profil médical requis |
+- port et usage de l'arme ;
 
-Critères complémentaires |
+- conduite de véhicules légers ;
 
-|
+- service de jour comme de nuit ;
 
-S |
+- travail en poste isolé ;
 
-I |
+- port de charges + 15 kg : équipement de protection individuelle (EPI) et/ ou manutention ;
 
-G |
+- travail en hauteur ;
 
-Y |
+- travail en ambiance froide ;
 
-C |
+- travail en ambiance sonore ;
 
-O |
+- permis poids lourd (PL), super poids lourd (SPL), transport en commun (TC) ;
 
-P |
+- habilitation électrique : sens chromatique ;
 
-|
+- engins spéciaux : certificat d'aptitude à la conduite en sécurité (CACES) ;
 
-Souscription ou renouvellement d'un engagement à servir dans la réserve (ESR) pour un emploi emportant l'exercice de missions opérationnelles |
+- station debout prolongée.
 
-3 |
+La fiche de poste doit préciser le niveau d'employabilité attendu.
 
-3 |
+II. - Les formations administratives ou assimilées souhaitant engager ou renouveler l'engagement d'un réserviste opérationnel doivent au préalable adresser à l'antenne médicale la fiche de poste précisant les conditions d'emploi.
 
-3 |
+III. - Les candidats souhaitant souscrire ou renouveler un engagement à servir dans la réserve sont présentés à l'antenne médicale pour détermination de l'aptitude médicale à servir. Cet examen médical est réalisé par un médecin des armées qui a pour charge d'évaluer l'état de santé du candidat et de vérifier la compatibilité entre les éléments figurant sur la fiche de poste et cet état de santé. A ce titre, le médecin des armées peut demander tout test médical qu'il estime utile.
 
-5 |
+A l'issue, le médecin des armées émet des conclusions sur un certificat de visite, qui sont :
 
-4 |
+- “ employable ” ;
 
-3 |
+- “ non employable ” ;
 
-2 |
+- “ inapte ”.
 
--Absence de contre-indication au port et à l'usage de l'arme de dotation individuelle ;
+Lorsque la conclusion indique “ non employable ”, le médecin précise les contre-indications identifiées.
 
--Absence de contre-indication à la conduite de véhicules légers ;
-
--Absence de contre-indication au service externe de jour comme de nuit.
-
-|
-
-Souscription ou renouvellement d'un engagement à servir dans la réserve (ESR) souscrit au titre de l'article L4221-3 du code de la défense et pour un emploi emportant l'exercice de missions opérationnelles |
-
-3 |
-
-3 |
-
-3 |
-
-5 |
-
-4 |
-
-3 |
-
-2 |
-
-Souscription ou renouvellement d'un engagement à servir dans la réserve (ESR) pour un emploi n'emportant pas l'exercice de missions opérationnelles |
-
-4 |
-
-4 |
-
-4 |
-
-5 |
-
-4 |
-
-4 |
-
-2 |
-
-Absence de contre-indication à l'emploi |
-
-Souscription ou renouvellement d'un engagement à servir dans la réserve (ESR) souscrit au titre de l'article L4221-3 du code de la défense et pour un emploi n'emportant pas l'exercice de missions opérationnelles |
-
-Pas de profil médical spécifique |
+Le certificat de visite est remis au candidat à l'issue de la conclusion.
