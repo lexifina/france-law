@@ -570,9 +570,19 @@ Arrêté du 17 novembre 1998 modifié |
 
 12 |
 
-GARDIEN D'IMMEUBLE |
+GARDIEN D'IMMEUBLE (dernière session 2026) |
 
 Arrêté du 23 février 2010 |
+
+12 |
+
+Gardien d'immeubles
+
+(première session 2027)
+
+|
+
+Arrêté du 26 novembre 2024 |
 
 12 |
 
