@@ -1,6 +1,6 @@
 # Article Annexe
 
-PROGRAMME DÉFINISSANT LE SOCLE COMMUN MINIMAL DE CONNAISSANCES EXIGÉES EN MATHÉMATIQUES ET EN PHYSIQUE POUR LES ÉPREUVES ORALES D'ADMISSION À L'ÉCOLE POLYTECHNIQUE DE CANDIDATS FRANÇAIS POURSUIVANT LEURS ÉTUDES SUPÉRIEURES SCIENTIFIQUES DANS DES UNIVERSITÉS FRANÇAISES OU ÉTRANGÈRES (FUF)
+Programme définissant le socle commun minimal de connaissances exigées en mathématiques, en physique et en informatique pour les épreuves orales d'admission à l'Ecole polytechnique de candidats français poursuivant leurs études supérieures scientifiques dans des universités françaises ou étrangères (FUF)
 
 MATHÉMATIQUES
 
@@ -106,6 +106,6 @@ Loi de Planck, atome de Bohr, relation de de Broglie, principe d'incertitude, fo
 
 L'atome d'hydrogène, les éléments et la classification périodique, la molécule, l'état solide, notions de physique statistique.
 
-NOTA :
+INFORMATIQUE
 
-Conformément à l’article 18 de l’arrêté du 8 janvier 2024 (NOR : ARMA2400612A), ces dispositions sont applicables à partir du concours organisé en 2024.
+Le socle commun de connaissances attendues en informatique est celui du programme d'informatique commun aux filières MP, PC, PT, PSI tel qu'il figure sous le lien : https://prepas.org/index.php? document = 72 .
