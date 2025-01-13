@@ -372,33 +372,49 @@ Franchir les ronds-points et les carrefours à sens giratoire. |
 
 |
 
-3. CIRCULER DANS DES
+3 - CIRCULER DANS DES CONDITIONS
 
-CONDITIONS DIFFICILES ET
+DIFFICILES ET PARTAGER LA ROUTE
 
-PARTAGER LA ROUTE AVEC LES AUTRES USAGERS |
+AVEC LES AUTRES USAGERS |
 
 |
 
-POURQUOI : raisons |
+POURQUOI :
 
-COMMENT : procédures |
+RAISONS |
+
+COMMENT :
+
+PROCEDURES |
 
 RISQUES |
 
 INFLUENCES
 
-de son entourage et de son mode de vie |
+DE SON
+
+ENTOURAGE
+
+ET DE SON
+
+MODE DE VIE |
 
 PRESSIONS
 
-exercées par la société : publicité, travail… |
+EXERCEES
+
+PAR LA SOCIETE :
+
+PUBLICITE,
+
+TRAVAIL … |
 
 AUTO-
 
-évaluation |
+EVALUATION |
 
-Evaluer et maintenir les distances de sécurité. |
+Évaluer et maintenir les distances de sécurité. |
 
 □ |
 
@@ -494,7 +510,7 @@ Connaître les particularités des véhicules lourds et savoir se rendre visible
 
 |
 
-S'insérer, circuler et sortir d'une voie rapide |
+S'insérer, circuler et sortir d'une voie rapide. |
 
 □ |
 
@@ -526,9 +542,9 @@ Conduire dans une file de véhicules et dans une circulation dense. |
 
 |
 
-Connaître la signalisation spécifique et les règles relatives à la circulation inter-files : types de routes et voies de circulations autorisées, types de véhicules, vitesses autorisées, comportements à adopter, cas d'interdiction.
+Connaître les règles relatives à la circulation inter-files.
 
-Savoir la pratiquer dans les départements expérimentaux et si les conditions de sécurité et la situation d'apprentissage le permettent. Dans ce cas, l'apprentissage insiste sur : la recherche d'indices et la perception des risques, la communication avec les autres usagers, le respect des distances de sécurité, l'adaptation de l'allure, notamment en fonction de la vitesse des véhicules dépassés. |
+Savoir la pratiquer si les conditions de sécurité et la situation d'apprentissage le permettent. Dans ce cas, l'apprentissage insiste sur : la recherche d'indices et la perception des risques, la communication avec les autres usagers, le respect des distances de sécurité, l'adaptation de l'allure, notamment en fonction de la vitesse des véhicules dépassés. |
 
 □ |
 
@@ -560,7 +576,7 @@ Conduire quand l'adhérence et la visibilité sont réduites. |
 
 |
 
-Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts… |
+Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts … |
 
 □ |
 

@@ -82,7 +82,7 @@ L'objectif de cette phase de formation est de permettre au futur conducteur de m
 
 -choisir la voie de circulation ;
 
--savoir pratiquer la circulation inter-files dans les départements où celle-ci est autorisée à titre expérimental, si les règles de circulation et les conditions de sécurité ainsi que la situation d'apprentissage le permettent. Dans ce cas, l'apprentissage insiste sur : la recherche d'indices et la perception des risques, la communication avec les autres usagers, le respect des distances de sécurité, l'adaptation de l'allure, notamment en fonction de la vitesse des véhicules dépassés ;
+-savoir pratiquer la circulation inter-files si les règles de circulation et les conditions de sécurité ainsi que la situation d'apprentissage le permettent. Dans ce cas, l'apprentissage insiste sur : la recherche d'indices et la perception des risques, la communication avec les autres usagers, le respect des distances de sécurité, l'adaptation de l'allure, notamment en fonction de la vitesse des véhicules dépassés ;
 
 -se placer sur la chaussée en fonction des autres véhicules, connaître et prendre en compte les spécificités des véhicules lourds (angles morts) ;
 

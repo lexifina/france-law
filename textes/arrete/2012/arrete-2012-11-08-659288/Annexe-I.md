@@ -88,7 +88,7 @@ L'objectif de cette séquence est de réaliser un audit de la conduite du ou des
 
 -Dans le véhicule suiveur prend (nent) place l'enseignant, installé au poste de conduite, en liaison radio avec l'élève conducteur de la motocyclette ainsi que, le cas échéant, au maximum trois autres élèves en situation d'écoute pédagogique.
 
--Chaque élève effectue 30 minutes au minimum de conduite à l'issue desquelles 10 minutes sont consacrées au bilan de sa prestation. L'élève peut pratiquer la circulation inter-files dans les départements expérimentaux et si les conditions de sécurité et la situation d'apprentissage le permettent. Dans ce cas, l'apprentissage insiste sur : la recherche d'indices et la perception des risques, la communication avec les autres usagers, le respect des distances de sécurité, l'adaptation de l'allure, notamment en fonction de la vitesse des véhicules dépassés.
+-Chaque élève effectue 30 minutes au minimum de conduite à l'issue desquelles 10 minutes sont consacrées au bilan de sa prestation. L'élève peut pratiquer la circulation inter-files si les conditions de sécurité et la situation d'apprentissage le permettent. Dans ce cas, l'apprentissage insiste sur : la recherche d'indices et la perception des risques, la communication avec les autres usagers, le respect des distances de sécurité, l'adaptation de l'allure, notamment en fonction de la vitesse des véhicules dépassés.
 
 Ce bilan comprend :
 
