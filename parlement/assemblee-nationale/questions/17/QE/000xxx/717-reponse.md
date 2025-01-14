@@ -1,0 +1,9 @@
+# Réponse à la question n° 717
+
+- Question : [717](717.md) — Question n° 717 — TVA - accession sociale - taux réduit de la TVA
+
+## Réponse
+
+*JO du 2025-01-14, page 125*
+
+En application des dispositions du b du 2° du III de l'article 278 sexies du code général des impôts (CGI), dans le secteur de l'accession sociale à la propriété, relèvent du taux réduit de 5,5 % de la taxe sur la valeur ajoutée (TVA) les livraisons et livraisons à soi-même de certains logements faisant l'objet d'un contrat d'accession sociale à la propriété, lorsque ces logements sont intégrés à un ensemble immobilier partiellement situé à moins de 300 mètres et entièrement situé à moins de 500 mètres de la limite d'un quartier prioritaire de la politique de la ville (QPV) faisant l'objet d'un contrat de ville et d'une convention de renouvellement urbain. Dans le cas de ces livraisons, la situation de certaines parties communes hors du périmètre des 500 mètres n'est pas de nature à remettre en cause l'éligibilité des logements au dispositif, à la condition toutefois que tous les logements de l'ensemble immobilier restent intégralement situés dans ce périmètre. Il en va de même des dépendances bâties (par exemple, des locaux commerciaux ou des bureaux) situés hors de ce périmètre, étant toutefois précisé que la livraison de ces dépendances n'est alors pas éligible au taux réduit, tout comme, bien évidemment, celle des locaux autres qu'affectés à l'habitation. En revanche, les livraisons et livraisons à soi-même de logements intégrés à un ensemble immobilier au sein duquel certains logements sont situés, même partiellement, au-delà de la limite des 500 mètres ne satisfont pas aux critères d'application du taux réduit de la TVA prévus par le législateur au b du 2° du III de l'article 278 sexies du CGI et relèvent par conséquent du taux normal de la TVA.
