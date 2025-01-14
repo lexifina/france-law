@@ -58,7 +58,7 @@ L'exonération mentionnée au premier alinéa du présent IV bis est remise en c
 
 Lorsque l'une des conditions prévues au b du 1° ou au 2° n'est pas remplie au terme du délai prévu à ce même b, l'exonération prévue au présent IV bis est remise en cause au titre de l'année au cours de laquelle intervient le terme de ce délai.
 
-V. – 1. L'indemnité compensatrice versée à un agent général d'assurances exerçant à titre individuel par la compagnie d'assurances qu'il représente à l'occasion de la cessation du mandat bénéficie du régime mentionné au I si les conditions suivantes sont réunies :
+V. – 1. L'indemnité compensatrice versée à un agent général d'assurances par la compagnie d'assurances qu'il représente à l'occasion de la cessation du mandat bénéficie du régime mentionné au I si les conditions suivantes sont réunies :
 
 a) Le contrat dont la cessation est indemnisée doit avoir été conclu depuis au moins cinq ans au moment de la cessation ;
 
@@ -69,9 +69,3 @@ c) L'activité est intégralement poursuivie dans le délai de deux ans.
 2. Lorsque le régime de faveur prévu au 1 s'applique, l'agent général d'assurances qui cesse son activité est assujetti, sur le montant de l'indemnité compensatrice, à une taxe exceptionnelle établie selon le tarif prévu à l'article 719. Cette taxe est établie, contrôlée et recouvrée comme l'impôt sur le revenu et sous les mêmes garanties et sanctions. Un décret détermine les modalités d'application du présent 2 et les obligations déclaratives incombant aux redevables et aux compagnies d'assurances.
 
 VI. – L'option pour le bénéfice du régime défini au présent article est exclusive de celui des régimes prévus au I ter de l'article 93 quater et aux articles 151 octies et 151 octies A.
-
-NOTA :
-
-Par une décision n° 2024-1116 QPC du 10 janvier 2025, le Conseil constitutionnel a déclaré les mots " exerçant à titre individuel " figurant au premier alinéa du 1 du paragraphe V de l’article 151 septies A du code général des impôts, dans sa rédaction résultant de la loi n° 2022-1499 du 1er décembre 2022 de finances rectificatives pour 2022 contraires à la Constitution.
-
-Conformément au pararaphe 13 de la décision précitée, la déclaration d'inconstitutionnalité intervient à compter de la date de publication de ladite décision. Elle est applicable à toutes les affaires non jugées définitivement à cette date.
