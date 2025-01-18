@@ -348,15 +348,17 @@ Arrêté du 12 mars 2023 |
 
 12 |
 
-CONDUCTEUR D'ENGINS : TRAVAUX PUBLICS ET CARRIERES (dernière session 2024) |
+CONDUCTEUR D'ENGINS : TRAVAUX PUBLICS ET CARRIERES (première session 2025) et dernière session 2026 |
 
-Arrêté du 24 mars 2006 |
+Arrêté du 29 août 2022 |
 
 14 |
 
-CONDUCTEUR D'ENGINS : TRAVAUX PUBLICS ET CARRIERES (première session 2025) |
+CONDUCTEUR D'ENGINS DE TRAVAUX PUBLICS ET CARRIÈRES (première session 2027)
 
-Arrêté du 29 août 2022 |
+|
+
+Arrêté du 13 décembre 2024 |
 
 14 |
 
@@ -402,9 +404,15 @@ Arrêté du 15 avril 2019 |
 
 14 |
 
-CONSTRUCTEUR DE ROUTES ET D'AMENAGEMENTS URBAINS |
+CONSTRUCTEUR DE ROUTES ET D'AMENAGEMENTS URBAINS (dernière session 2026) |
 
 Arrêté du 30 mars 2021 |
+
+14 |
+
+Constructeur de routes et d'aménagements urbains (première session 2027) |
+
+Arrêté du 13/12/24 |
 
 14 |
 
