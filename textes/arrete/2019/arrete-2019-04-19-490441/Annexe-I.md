@@ -840,7 +840,15 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-TECHNICIEN GAZ |
+TECHNICIEN EN TRANSPORT ET DISTRIBUTION DES GAZ (première session 2028) |
+
+Arrêté du 13 décembre 2024 |
+
+PRODUCTION |
+
+Économie-gestion/Physique-chimie |
+
+TECHNICIEN GAZ (dernière session 2027) |
 
 Arrêté du 2 mars 2017 modifié |
 
