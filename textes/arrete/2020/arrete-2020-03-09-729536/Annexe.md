@@ -1804,6 +1804,24 @@ Encadrement et conduite de séances de découverte, d'animation et d'entraîneme
 
 |
 
+D-7.-Titres à finalité professionnelle délivrés par la Fédération française de karaté
+
+INTITULE DU DIPLÔME |
+
+CONDITIONS D'EXERCICE |
+
+LIMITES
+
+DES CONDITIONS
+
+D'EXERCICE |
+
+Moniteur professionnel karaté wushu et disciplines associées, délivré jusqu'au 24 octobre 2024 |
+
+Conduite de séances de découverte, d'initiation et d'apprentissage en karaté, wushu et disciplines associées |
+
+|
+
 E.-Certificats de qualification délivrés par les branches professionnelles
 
 E-1.-Certificats de qualification délivrés par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-EE)
@@ -2595,5 +2613,29 @@ CQP " moniteur d'arts martiaux " option " arts martiaux chinois internes et exte
 |
 
 Encadrement de séances de découverte et d'animation des activités d'arts martiaux chinois internes et externes |
+
+|
+
+CQP " technicien sportif d'athlétisme " option " stade " jusqu'au 15 septembre 2024.
+
+|
+
+Encadrement et conduite de séances d'entraînement d'activités d'athlétisme visées par l'option |
+
+|
+
+CQP " technicien sportif d'athlétisme " option " demi-fond/ marche/ running/ trail " jusqu'au 15 septembre 2024.
+
+|
+
+Encadrement et conduite de séances d'entraînement d'activités d'athlétisme visées par l'option |
+
+|
+
+CQP " moniteur d'arts martiaux " option " arts énergétiques chinois ", du 31 mai 2024 au 31 mai 2027 (**).
+
+|
+
+Conduite de séances de découverte et d'initiation des activités d'arts énergétiques chinois. |
 
 |
