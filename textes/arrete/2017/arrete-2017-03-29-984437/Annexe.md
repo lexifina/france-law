@@ -28,8 +28,6 @@ Directeur interdépartemental de la police nationale à Lyon.
 
 Chef d'état-major de la police nationale.
 
-Conseiller stratégie et prospective (2 postes)
-
 2. Direction des ressources humaines, des finances et des soutiens de la police nationale :
 
 Directeur adjoint des ressources humaines, des finances et des soutiens de la police nationale.
@@ -56,25 +54,29 @@ Les postes de la direction générale de la sécurité intérieure font l'objet 
 
 Directeur national adjoint de la sécurité publique.
 
-8. Direction nationale du renseignement territorial :
+8. Direction nationale de la police aux frontières :
+
+Directeur national adjoint de la police aux frontières.
+
+9. Direction nationale du renseignement territorial :
 
 Directeur national adjoint du renseignement territorial.
 
-9. Direction centrale des compagnies républicaines de sécurité :
+10. Direction centrale des compagnies républicaines de sécurité :
 
 Directeur central adjoint des compagnies républicaines de sécurité.
 
-10. Service de la protection :
+11. Service de la protection :
 
 Chef du service de la protection.
 
 Chef du groupe de sécurité de la Présidence de la République et directeur de la sécurité de la Présidence de la République.
 
-11. Service national de police scientifique :
+12. Service national de police scientifique :
 
 Chef du service national de police scientifique
 
-12. Préfecture de police :
+13. Préfecture de police :
 
 Préfecture de police : Direction de l'ordre public et de la circulation :
 
@@ -100,11 +102,15 @@ Préfecture de police-Divers :
 
 Directeur adjoint des ressources humaines.
 
-13. Agence du numérique des forces de sécurité intérieure :
+14. Ecole nationale supérieure de la police :
+
+Directeur de l'école nationale supérieure de la police.
+
+15. Agence du numérique des forces de sécurité intérieure
 
 Directeur adjoint de l'agence du numérique des forces de sécurité intérieure.
 
-14. Autres :
+16. Autres :
 
 Coordonnateur adjoint du renseignement et de la lutte contre le terrorisme.
 
@@ -190,6 +196,8 @@ Conseiller prospective et stratégie (2 postes).
 
 Sous-directeur de l'encadrement supérieur, des commissaires et des officiers.
 
+Sous-directeur des personnels d'encadrement et d'application, des policiers-adjoints et des réserves.
+
 Chef du service juridique.
 
 3. Académie de police :
@@ -244,8 +252,6 @@ Sous-directeur de la rétention, de l'éloignement et des procédures.
 
 Sous-directeur du soutien et du pilotage territorial.
 
-Directeur national adjoint de la police aux frontières.
-
 9. Direction nationale du renseignement territorial :
 
 Sous-directeur de la recherche, de l'appui opérationnel et du cyber.
@@ -298,7 +304,7 @@ Sous-directeur du soutien opérationnel.
 
 Sous-directeur des services spécialisés de l'agglomération.
 
-Sous-directeur régional de police des transports.
+Sous-directeur de la police régionale des transports.
 
 Directeur territorial de la sécurité de proximité des Hauts-de-Seine.
 
@@ -320,10 +326,6 @@ Préfecture de police-Divers :
 
 Conseiller technique chargé des affaires de police.
 
-15. Ecole nationale supérieure de la police :
-
-Directeur de l'école nationale supérieure de la police.
-
 NOTA :
 
-Conformément à l’article 2 de l'arrêté du 17 octobre 2024 (NOR : INTC2427926A), ces dispositions entrent en vigueur à compter du 11 novembre 2024.
+Conformément à l’article 9 de l'arrêté du 17 janvier 2025 (NOR : INTC2428140A), ces dispositions entrent en vigueur à compter du 20 janvier 2025.
