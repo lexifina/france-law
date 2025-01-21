@@ -1,0 +1,9 @@
+# Réponse à la question n° 853
+
+- Question : [853](853.md) — Question n° 853 — Libre consultation des listes d'émargement
+
+## Réponse
+
+*JO du 2025-01-21, page 257*
+
+Aux termes de l'article L. 68 du code électoral, « les listes d'émargement déposées à la préfecture ou à la sous-préfecture sont communiquées à tout électeur requérant pendant un délai de dix jours à compter de l'élection et, éventuellement, durant le dépôt des listes entre les deux tours de scrutin, soit à la préfecture ou à la sous-préfecture, soit à la mairie ». Au-delà de ce délai légal de dix jours à compter de l'élection, les listes d'émargement ne sont plus communicables et deviennent des archives publiques tombant sous un délai d'incommunicabilité de cinquante ans au titre de la protection de la vie privée, en application du 3° de l'article L. 213-2 du code du patrimoine. Par un avis du 18 juin 2015 n° 20152277, la commission d'accès aux documents administratifs (CADA) a pu déclarer que de telles listes révélaient « le choix d'électeurs nommément désignés de se rendre ou non aux urnes, choix qui relève du secret de la vie privée ». En outre, à des fins électorales, tout électeur peut d'ores et déjà demander la communication des listes électorales, à condition de s'engager à ne pas en faire un usage commercial en application de l'article L. 37 du code électoral. Le vote est un droit et la liberté de l'électeur de voter ou non doit prévaloir. Rendre publique la liste d'émargement au-delà de la période de recours contentieux entraînerait le risque de voir cette publication faire office de moyen de pression de la part d'individus ou groupements. Dès lors, en dehors de la période de recours contentieux, afin de protéger les électeurs de tout emploi malintentionné de leurs données personnelles, il n'est pas envisagé de proposer une réforme du cadre juridique relatif aux listes d'émargement.
