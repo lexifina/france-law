@@ -1,0 +1,9 @@
+# Réponse à la question n° 920
+
+- Question : [920](920.md) — Question n° 920 — Industrie verte : situation du groupe SAFRA
+
+## Réponse
+
+*JO du 2025-01-21, page 254*
+
+La députée a souhaité attirer l'attention du ministre de l'économie, des finances et de l'industrie, chargé de l'industrie sur la situation économique préoccupante de la société SAFRA à Albi, constructeur français de bus à hydrogène et acteur important de la filière de la mobilité à hydrogène décarboné, ayant fait l'objet d'investissements prioritaires à l'échelle nationale. L'État accompagne de longue date cette entreprise, dont le développement a été soutenu pendant de nombreuses années au travers du crédit d'impôt recherche (CIR) et de l'Agence de l'Environnement et de la Maîtrise de l'Énergie (ADEME) et qui a récemment été lauréate d'une subvention de l'ADEME à hauteur de 4.8 M€ début 2022, puis fin 2023 d'un prêt de la Banque Publique d'Investissement (BPI) à hauteur de 2.9 M€ au titre de l'appel à projets de France 2030 « véhicules routiers de demain », dont la concrétisation s'est cependant heurtée à sa situation financière, incompatible avec le respect des exigences communautaires en matière d'aides d'État. Alors que la filière est confrontée à des défaillances, dont celle du concurrent belge VAN HOOL, le soutien de l'actionnaire majoritaire de SAFRA, le fonds Transition Evergreen, est essentiel, outre le renforcement de la structure financière de l'entreprise et la mise en œuvre de partenariats capitalistiques et/ou industriels. Dans ce cadre, le ministre a demandé à ses services de poursuivre l'attention particulière portée depuis de nombreux mois déjà à la situation de cette entreprise et de mettre en place un suivi aussi étroit que régulier, en lien avec les acteurs locaux, afin de favoriser l'aboutissement des démarches engagées dans l'objectif du maintien des emplois et de la pérennité de l'activité industrielle sur le territoire.
