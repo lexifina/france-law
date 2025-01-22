@@ -1,0 +1,27 @@
+# Réponse à la question n° 77
+
+- Question : [77](77.md) — Question n° 77 — Dérogation pour l'usage de l'acétamipride afin de sauver la filière noisette
+
+## Réponse
+
+*JO du 2025-01-22, page 260*
+
+FILIÈRE DE LA NOISETTE
+
+M. le président . La parole est à M. Michel Lauzzana, pour exposer sa question, no 77, relative à la filière de la noisette.
+
+M. Michel Lauzzana . J'appelle votre attention sur un problème crucial que rencontre la filière de la noisette française et tout particulièrement la coopérative Unicoque, implantée dans le Lot-et-Garonne. Cette coopérative réalise une part importante de la production nationale de noisettes et constitue un levier économique et social vital pour les agriculteurs de mon département. Depuis plusieurs années, la filière de la noisette est confrontée à une pression croissante des ravageurs, tels que le balanin et le carpocapse, qui compromettent gravement les récoltes. En conséquence, et puisqu'il n'existe actuellement aucune – je dis bien aucune – solution alternative, il apparaît nécessaire d'accorder une dérogation pour permettre l'usage temporaire de l'acétamipride, afin de protéger cette production stratégique et les nombreux emplois directs et indirects, notamment agricoles, qui en dépendent.
+
+Cette demande s'inscrit dans un cadre strictement limité et temporaire, en attendant que des solutions alternatives, actuellement à l'étude à l'Institut national de recherche pour l’agriculture, l’alimentation et l’environnement (Inrae) et à l'Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail (Anses), soient disponibles et opérationnelles. Sans cette dérogation, la filière française devra faire face à une concurrence européenne et internationale déloyale, et à l'importation de noisettes issues de pays autorisant l'usage de produits similaires à l'acétamipride. Cette situation créerait une distorsion inacceptable et fragiliserait notre souveraineté alimentaire, alors qu'elle constitue un enjeu stratégique dans le contexte international actuel.
+
+Madame la ministre de l'agriculture, je connais votre engagement à ce sujet et vous remercie des échanges que vous avez eus avec la filière de la noisette. Je souhaite connaître les mesures que votre ministère entend prendre en urgence pour sauver cette filière française, ainsi que votre position sur la proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur, qui sera prochainement examinée au Sénat.
+
+M. le président . La parole est à Mme la ministre de l’agriculture et de la souveraineté alimentaire.
+
+Mme Annie Genevard, ministre de l’agriculture et de la souveraineté alimentaire . Vous évoquez la situation de la filière de la noisette, et particulièrement de la coopérative Unicoque, acteur majeur implanté dans le Lot-et-Garonne, dont j'ai reçu les représentants le 18 novembre dernier. Cette filière fait face à des difficultés croissantes pour protéger ses cultures, ravagées par la punaise diabolique et le balanin. Cette année, elle connaît des baisses de rendement sans précédent qui menacent sa pérennité. Je ne peux me résoudre à ce que l'absence de traitement alternatif hypothèque l'avenir de filières entières qui, par leur diversité, sont essentielles à la richesse de notre agriculture et à l'équilibre des territoires. Nous devons coûte que coûte préserver leur capacité de production, leur compétitivité et leur pérennité. Il y va de notre souveraineté, pour les grandes comme pour les petites filières.
+
+Depuis l'interdiction par la France des néonicotinoïdes, le balanin ne peut plus être maîtrisé par l'usage de l'acétamipride, alors que cette substance est encore autorisée au niveau européen jusqu'en 2033. Cette interdiction a été votée par le Parlement et inscrite dans la loi ; il ne s'agit pas d'une interdiction émise par l'Anses. Or ce qu'une loi a fait, seule une loi peut le défaire. C'est la raison pour laquelle, contrairement à ce qu'espère la filière, je ne peux pas autoriser l'usage de l'acétamipride par une dérogation de cent vingt jours, comme je peux le faire pour d'autres substances.
+
+Vous évoquez la proposition de loi des sénateurs Duplomb et Menonville qui entend revenir sur cette interdiction. L'occasion est ainsi donnée de rouvrir la discussion, au Sénat et à l'Assemblée, à propos de ce néonicotinoïde particulier – il n'est pas comparable aux quatre autres néonicotinoïdes qui, eux, sont interdits au niveau aussi bien européen que français.
+
+Au demeurant, nous apportons un plein soutien, par le plan d’action stratégique pour l’anticipation du potentiel retrait européen des substances actives et le développement de techniques alternatives pour la protection des cultures (Parsada), aux travaux lancés par la filière en lien avec l'Inrae pour trouver des solutions nouvelles. Sans attendre, je mobilise toutes les pistes permettant de sécuriser la production de cette filière ; j'ai ainsi souhaité la création d'un groupe de travail associant mes services, les professionnels, la direction régionale de l’alimentation, de l’agriculture et de la forêt (Draaf) et le délégué ministériel Hervé Durand. Ce groupe de travail, qui se réunira pour la première fois demain, vise à répondre aux problèmes phytosanitaires des producteurs et à identifier l'ensemble des difficultés rencontrées par la coopérative Unicoque. Inutile de vous dire que je suivrai très attentivement ses travaux, car je ne peux me résoudre à la disparition de cette filière. Des solutions doivent être trouvées.
