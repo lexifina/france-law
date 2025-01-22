@@ -1,0 +1,35 @@
+# Réponse à la question n° 83
+
+- Question : [83](83.md) — Question n° 83 — Organisation opaque entourant les JOP de 2030 dans les Alpes françaises
+
+## Réponse
+
+*JO du 2025-01-22, page 281*
+
+CONTRAT « VILLE HÔTE » DES JOP 2030
+
+M. le président . La parole est à M. Jean-François Coulomme, pour exposer sa question, no 83, relative au contrat « ville hôte » des JOP 2030.
+
+M. Jean-François Coulomme . En février 2030, les Jeux olympiques et paralympiques d'hiver devraient avoir lieu dans les Alpes françaises. La preuve a été faite que, pour le pays qui l'accueille, le coût d'un événement sportif de cette ampleur est astronomique ; quant à son impact sur l'environnement, alors que le réchauffement climatique et la pression foncière affectent déjà largement nos montagnes, il s'annonce désastreux.
+
+À l'aberration écologique, sociale et financière que constitue cette opération s'ajoutent des questions démocratiques de probité, d'opacité et de conflits d'intérêts. Le 24 juillet dernier, le Comité international olympique (CIO) octroyait aux Alpes françaises les Jeux d'hiver de 2030 ; le 18 septembre, nous apprenions par le média Reporterre, d'après une information provenant du CIO lui-même, que le contrat « ville hôte » avait été signé par les présidents des régions Aura et Paca, en d'autres termes Auvergne-Rhône-Alpes et Provence-Alpes-Côte d’Azur, ainsi que par le Comité national olympique et sportif français (CNOSF). Rien n'a été rendu public. Au sein de la région Aura, aucune délibération n'a porté sur cette signature ; pire, un conseiller, membre de la commission JOP du conseil régional, ayant sollicité de manière répétée des informations la concernant, n'a jamais obtenu de réponse. Personne n'a vu le contrat : l'opacité perdure, alors que rien, dans le fait d'une telle signature, ne justifie qu'elle soit dissimulée.
+
+Ce n'est pas tout : dans une version du contrat mise en ligne fin juillet, donc avant signature, mais contenant les noms des futurs cosignataires, M. Wauquiez figure au nombre de ceux-ci en tant que président de la région Aura. Il avait pourtant été proclamé député le 8 juillet, ce qui, en vertu de l'interdiction du cumul des mandats, mettait fin à sa fonction exécutive locale, strictement incompatible avec son nouveau rôle. De surcroît, dans ce contrat se trouve une clause compromissoire, c'est-à-dire excluant la compétence des juridictions étatiques et prévoyant, en cas de litige, un recours à l'arbitrage, autrement dit à des tribunaux privés extraterritoriaux ; souscrire de telles clauses est pourtant interdit aux collectivités territoriales.
+
+Deux régions ont donc engagé l'État dans un projet qui coûtera des milliards d'euros aux contribuables, dans le secret le plus total, par un contrat comprenant des clauses illégales et dont l'un des cosignataires a agi en flagrant délit de cumul de mandats. Vous défiez ainsi toute éthique et toute logique juridique. Comme si cela ne suffisait pas, le premier ministre de l'époque, M. Barnier, a offert à ces Jeux la garantie financière de l'État – pour un demi-milliard d'euros – alors qu'il était membre du conseil d'administration de la commission de la durabilité et de l'héritage du CIO, à laquelle est destiné ce chèque en blanc : sacré conflit d'intérêts, vous en conviendrez !
+
+Madame la ministre, mes questions seront très simples. Premièrement, par qui a été signé ce contrat qui engage nos finances publiques ? Deuxièmement, que comptez-vous faire de l'engagement financier pris par M. Barnier en dépit du conflit d'intérêts entre ses fonctions de premier ministre et son rôle au sein du CIO ?
+
+M. le président . La parole est à Mme la ministre des sports, de la jeunesse et de la vie associative.
+
+Mme Marie Barsacq, ministre des sports, de la jeunesse et de la vie associative . Ce contrat « ville hôte », officiellement appelé contrat hôte olympique, compte quatre signataires : le CIO, le CNOSF, la région Aura et la région Sud. Les parties françaises ont signé le contrat dès le début du processus d'attribution : il s'agit d'un engagement obligatoire pour la désignation du pays hôte. La région Aura était alors représentée par Laurent Wauquiez, raison pour laquelle son président actuel, Fabrice Pannekoucke, ne figure pas parmi les signataires originels.
+
+Le CIO n'a pas encore apposé sa signature car, comme cela était prévu au terme de la désignation de la France le 24 juillet, celle-ci interviendra lorsque les garanties exigées seront apportées par la partie française. Le processus suit son cours et Michel Barnier, alors premier ministre, a signé et transmis au CIO une lettre de garanties le 2 octobre dernier. Cette démarche doit encore être entérinée par l'adoption de la loi de finances. Ce n'est que lorsque ce processus législatif sera achevé que le CIO pourra signer définitivement le contrat hôte olympique.
+
+J'ajoute qu'il n'existe pas de contrat hôte paralympique, le contrat hôte olympique valant pour les deux compétitions et comportant une clause relative aux Jeux paralympiques, tel que prévu entre les deux comités internationaux. C'est pourquoi le comité international paralympique n'est pas signataire du contrat.
+
+M. le président . La parole est à M. Jean-François Coulomme.
+
+M. Jean-François Coulomme . L'organisation des Jeux de 2030 dans les Alpes françaises est le résultat d'un déni démocratique et risque d'entraîner des conséquences économiques, sociales et environnementales colossales. Depuis le dépôt de la candidature des Alpes françaises en novembre 2023, se sont enchaînées une série de décisions complètement déconnectées de la réalité économique de notre pays, prises dans une totale opacité et avec une rapidité irresponsable.
+
+La censure a mis en lumière l'absurdité du circuit des décisions prises par les présidents des régions concernées, le président de la République et l'ancien premier ministre concernant ces Jeux. Il y a des raisons de s'alarmer, car tout est critiquable, tant sur le fond que sur la forme : aucune consultation citoyenne, des procédures élaborées en catimini, des signatures de la part des régions qui engagent l'État et sont dissimulées au sein même des conseils régionaux, des conflits d'intérêts à tout va, le tout en engageant financièrement l'État pour la modique somme de 900 millions au minimum, selon l'Inspection générale des finances. À ces vives critiques démocratiques et financières s'ajoute l'impact même du déroulement d'un tel événement sportif dans les Alpes et les conséquences environnementales et sociales qui en découleraient.
