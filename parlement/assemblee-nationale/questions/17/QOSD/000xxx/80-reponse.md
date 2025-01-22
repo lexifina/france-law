@@ -1,0 +1,33 @@
+# Réponse à la question n° 80
+
+- Question : [80](80.md) — Question n° 80 — Effets de la vaccination contre le covid-19
+
+## Réponse
+
+*JO du 2025-01-22, page 267*
+
+VACCINATION CONTRE LE COVID-19
+
+M. le président . La parole est à M. Yannick Monnet, pour exposer sa question, no 80, relative à la vaccination contre le covid-19.
+
+M. Yannick Monnet . En 2020, notre pays a été confronté au covid-19. Selon Santé publique France, 41 millions de personnes ont été vaccinées, ce qui a drastiquement réduit le nombre de cas graves et de décès liés au virus. Mon propos n'est donc pas de remettre en question l'efficacité du vaccin, mais de rappeler que certains citoyens souffrent d'effets secondaires parfois invalidants et qu'une information transparente sur les bénéfices et les risques des vaccins est indispensable. Or, à ce jour, aucune étude n'a été menée en France pour recueillir des données fiables quant à l'impact des vaccins sur la santé.
+
+De plus, nous savons aujourd'hui que les symptômes du covid-19 peuvent persister dans certains cas au-delà de quelques semaines et correspondre à des pathologies sérieuses, voire graves. La loi du 24 janvier 2022 prévoyait la création d'une plateforme destinée à recenser les personnes touchées et à faciliter leur parcours de soins, mais dans les faits, il n'existe aucun suivi. Par conséquent, des malades se trouvent en détresse physique et psychologique et se sentent abandonnés. Certains manquent de ressources car ils sont incapables de reprendre une activité professionnelle. Il est crucial de faire preuve de considération à l'égard de ces malades et de leur garantir une prise en charge adéquate, fondée sur une approche holistique.
+
+Nous avons besoin d'études rigoureuses pour mieux connaître les conséquences du covid-19 et l'impact des vaccins sur la santé, identifier les populations vulnérables et orienter les politiques de santé publique. Investir dans la recherche permet de préparer notre système de santé aux défis du futur.
+
+Par ailleurs, les patients en arrêt maladie perçoivent une indemnité mensuelle qui les place sous le seuil de pauvreté. Il est urgent d'étudier leur situation et de leur garantir un soutien financier lorsque leurs symptômes sont trop sévères pour leur permettre de travailler dans des conditions normales. Le manque d'accompagnement aggrave leur pathologie tout en étant source d'inégalités dans l'accès aux soins.
+
+Il est donc essentiel de reconnaître l'existence de ces pathologies, d'en comprendre les mécanismes et d'agir rapidement. Comptez-vous mettre en place un programme de suivi de ces patients, notamment en leur proposant une prise en charge médicale adaptée ? Mettrez-vous ainsi au premier plan l'intérêt des patients et contribuerez-vous à renforcer l'efficacité du système de soins ? Et répondrez-vous au besoin urgent de soutien financier de certains patients ?
+
+M. le président . La parole est à M. le ministre chargé de la santé et de l’accès aux soins.
+
+M. Yannick Neuder, ministre chargé de la santé et de l’accès aux soins . Je suis moi-même souvent interpellé au sujet du covid long, qui intervient à la suite d'une infection au covid. Les patients atteints développent des symptômes persistants qui peuvent varier d'un individu à l'autre. La perte du goût et de l'odorat fait partie des symptômes les plus fréquents, tout comme une fatigabilité accrue. C'est un sujet de santé publique important. Les processus doivent quoi qu'il en soit être vérifiés en collaboration avec l'Agence nationale de sécurité du médicament et des produits de santé.
+
+Il faut encourager la recherche sur ce sujet, car le mécanisme physiopathologique n'est pas encore bien cerné. Un article assez récent publié dans la revue Nature indique que le problème viendrait d'une altération des mitochondries, mais d'autres hypothèses ont été envisagées, notamment une réactivation du virus d'Epstein-Barr, qui concernerait des franges spécifiques de la population. Les scientifiques doivent pouvoir explorer les causes du covid long.
+
+Nous avons débloqué des moyens pour accompagner les personnes qui souffrent d'effets secondaires ou de symptômes prolongés. Je citerai trois mesures concrètes. Des centres spécialisés ont été créés, où l'on peut bénéficier de consultations post-covid assurées par des experts, ainsi que des cellules d'appui et de coordination dédiées au covid long, qui sont réparties sur l'ensemble du territoire. Si besoin, je vous indiquerai les structures les plus proches de votre circonscription, dans l'Allier. L'accompagnement médical a été renforcé : mon ministère a saisi la Haute Autorité de santé pour élaborer un guide sur le parcours de soins des adultes et des adolescents qui présentent des symptômes prolongés à la suite du covid-19. Enfin, nous avons créé une plateforme sur le site de l'assurance maladie avec l'association Tous partenaires Covid, plateforme qui permet de faciliter l'orientation des patients potentiellement concernés par le covid long.
+
+Le covid long peut avoir des répercussions économiques et sociales d'importance pour les personnes concernées. Les dispositifs existants, tels que la reconnaissance de l'affection de longue durée, permettent de soutenir financièrement les malades.
+
+Je m'engage à continuer de communiquer sur le sujet avec transparence, en me fondant sur les données récentes de la recherche et sur les rapports de pharmacovigilance qui seront publiés en France. Il s'agit d'obtenir les connaissances les plus complètes possibles afin de trouver une solution à ce problème. Soyez assuré que mon ministère et moi-même sommes pleinement mobilisés pour identifier les mécanismes physiopathologiques du covid long, proposer aux patients concernés des consultations spécialisées et l'accès à des ressources adéquates dans des structures ad hoc, et enfin prendre les mesures financières permettant de garantir à ces patients une soutenabilité économique et sociale.
