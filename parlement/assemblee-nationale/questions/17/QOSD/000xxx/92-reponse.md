@@ -1,0 +1,47 @@
+# Réponse à la question n° 92
+
+- Question : [92](92.md) — Question n° 92 — Avenir du site Valéo de Saint-Quentin-Fallavier et de l'industrie automobile
+
+## Réponse
+
+*JO du 2025-01-22, page 273*
+
+SITE VALEO DE SAINT-QUENTIN-FALLAVIER
+
+M. le président . La parole est à M. Thierry Perez, pour exposer sa question, no 92, relative au site Valeo de Saint-Quentin-Fallavier.
+
+M. Thierry Perez . Je souhaite appeler l'attention du ministre de l'industrie sur la situation dramatique de l'usine Valeo de Saint-Quentin-Fallavier en Nord-Isère, où 238 travailleurs seront bientôt contraints de renoncer à leur travail en raison d'un plan de suppression d'emplois. Cette décision, brutale et lourde de conséquences, suscite une vive inquiétude chez les salariés et leurs familles, mais aussi chez tous les acteurs du tissu économique local.
+
+Ce nouvel épisode de désindustrialisation vient frapper un territoire déjà éprouvé et accentuer le sentiment d'abandon de nos régions productives. L'impact économique pour le Nord-Isère est considérable et se mesure en pertes d'emploi directes et indirectes, en commerces affectés et par le déséquilibre croissant entre les territoires ruraux et les métropoles.
+
+C'est bien l'ensemble de l'industrie française qui est en danger et, en Isère, une véritable chaîne de désindustrialisation menace des secteurs stratégiques. Je veux également parler de Vencorex, acteur clé de la chimie grenobloise, spécialisé dans la production de chlore, de soude et d'isocyanates, dont 460 emplois sont menacés. Ses productions sont indispensables à l'activité d'Arkema, dont l'usine de Jarrie emploie 340 salariés et joue un rôle crucial dans la production de perchlorate, un oxydant utilisé comme propulseur pour les fusées Ariane, ainsi que dans la fabrication de composants stratégiques pour le nucléaire et la défense. Au risque de perdre la capacité à produire ces matériaux en France s'ajoute celui d'une reprise par un groupe chinois, c'est-à-dire d'une vente de notre savoir-faire technologique à des intérêts étrangers.
+
+Face à une concurrence étrangère déloyale, aux délocalisations et à l'absence de stratégie industrielle claire, nos entreprises et leurs ouvriers paient le prix des politiques menées depuis des décennies.
+
+Le Rassemblement national défend une politique de réindustrialisation ambitieuse, axée autour de la relocalisation des productions stratégiques, la protection de nos savoir-faire, le soutien aux entreprises qui choisissent la France et le rétablissement de la souveraineté industrielle.
+
+Au-delà des annonces, quelles actions immédiates comptez-vous mettre en œuvre pour sauvegarder les 238 emplois de Valeo et accompagner dignement les travailleurs concernés ? Comment éviter que d'autres sites, comme ceux d'entreprises stratégiques telles que Vencorex et Arkema, subissent le même sort ?
+
+M. le président . La parole est à Mme la ministre déléguée chargée de l’intelligence artificielle et du numérique.
+
+Mme Clara Chappaz, ministre déléguée chargée de l'intelligence artificielle et du numérique . Valeo a annoncé, à la mi-juillet, un processus de réorganisation comprenant la recherche de repreneurs pour trois sites, dont celui de l'Isle d'Abeau. Un dialogue rapproché avec les services de l'État a été engagé, afin de limiter autant que possible les conséquences économiques et sociales de cette réorganisation pour ces territoires.
+
+Ce travail a permis d'obtenir des engagements clairs, portant sur le respect du dialogue social, la qualité des mesures d'accompagnement et de reconversion des salariés, la recherche d'un repreneur et les actions de revitalisation et de redynamisation de ce site.
+
+Alors que sa fermeture était annoncée par tous, le groupe Valeo a finalement décidé de ne pas fermer le site de Saint-Quentin-Fallavier-l'Isle d'Abeau. L'activité du site sera toutefois redimensionnée, notamment celle de ses équipes de recherche et développement (R&D), mais l'activité de production de moteurs électriques pour véhicules hybrides et électriques y sera maintenue.
+
+Enfin, Valeo poursuit la recherche d'un repreneur de l'espace disponible au sein de son site, afin de consolider l'activité économique dans le territoire. Ce travail est mené en collaboration avec les services de l'État.
+
+Face aux difficultés que traverse actuellement le secteur automobile, le gouvernement s'est engagé à défendre au niveau européen un plan visant à soutenir la filière en France. Ce plan doit comprendre des mesures de soutien de la demande et de l'offre, mais également des mesures de défense commerciale, destinées à répondre aux actions de dumping pratiquées hors de l'Union européenne. Il doit également permettre d'affirmer un cadre réglementaire incitatif et non punitif. Enfin, les mesures de soutien devront viser la transition des équipementiers et des sous-traitants européens et accompagner ainsi toute une branche en mutation.
+
+Le dialogue stratégique lancé par la Commission permettra de définir l'ensemble des mesures à prendre au niveau européen. Le gouvernement sera particulièrement vigilant à ce que des critères de production nationale ambitieux soient intégrés pour soutenir nos équipementiers et nos constructeurs.
+
+S'agissant de la situation de Vencorex au Pont-de-Claix en Isère, une procédure de redressement judiciaire a été ouverte en septembre, par son actionnaire thaïlandais – il ne voulait plus assumer les pertes de l'entreprise.
+
+Cette décision a été prise après cinq mois d'une procédure de conciliation qui n'a donné aucun résultat. Les services de l'État et notamment la Délégation interministérielle aux restructurations d'entreprise (Dire) se sont mobilisés sans relâche au côté des salariés de la filière chimie et des collectivités, avec pour objectif de trouver une solution non seulement pour les salariés mais également pour les clients et les fournisseurs de Vencorex.
+
+Ils ont notamment obtenu de l'actionnaire qu'il assume ses responsabilités, en proposant aux salariés un traitement social digne, avec l'attribution d'une indemnité supralégale de 40 000 euros à chaque salarié qui ne serait pas repris à l'issue de la procédure collective. De plus, l'actionnaire prendra toutes les mesures nécessaires à la mise en sécurité du site. L'action de l'État a également permis de circonscrire autant que possible les conséquences en cascade que pourrait avoir la défaillance de Vencorex sur la chimie française et les activités engageant la souveraineté française.
+
+Des solutions de reprise de l'usine ont été recherchées très tôt par les services de l'État, mais aucune solution pérenne n'a pu être trouvée, malgré l'approche d'une douzaine d'acteurs industriels : l'absence de perspective de redressement du marché et le coût important de la reprise envisagée n'ont pas permis la construction de scénarios industriels viables.
+
+Tous les acteurs s'accordent pour constater l'absence d'équilibre économique à la reprise de tout ou partie de l'activité. Enfin, le gouvernement s'est déjà exprimé quant à une éventuelle nationalisation de l'entreprise. Le seul plan présenté prévoyait des pertes cumulées de plusieurs centaines de millions d'euros en près de dix ans : le modèle économique des activités de Vencorex ne semblant pas viable à terme, la nationalisation de cette société ne saurait être envisagée.
