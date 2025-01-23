@@ -1,0 +1,11 @@
+# COMMUNE DE BROUALAN : délibération BROUALAN202504D — ADHESION A L'ASSISTANCE TECHNIQUE DEPARTEMENTALE POUR LE SUIVI ET L'EXPLOITATION DU SYSTEME D'ASSAINISSEMENT COLLECTIF
+
+- Collectivité : COMMUNE DE BROUALAN
+- SIRET : 21350044000010
+- Code INSEE : 35044
+- Date : 2025-01-23
+- Matière : 8.8 Domaines de competences par themes/Environnement
+- Objet : ADHESION A L'ASSISTANCE TECHNIQUE DEPARTEMENTALE POUR LE SUIVI ET L'EXPLOITATION DU SYSTEME D'ASSAINISSEMENT COLLECTIF
+- Transmis à la préfecture : 2025-01-27
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500440/Deliberation/2025/788358/000f9deafbabbace1a867d83f58f0b5880c311acf98a3596df6049f59b5ae273.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
