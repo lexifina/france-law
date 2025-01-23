@@ -2,7 +2,7 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 15 janvier 2025
+Jusqu'au 31 mars 2025
 
 Paris-Abidjan (Côte d'Ivoire) ;
 
@@ -12,19 +12,19 @@ Paris-Cotonou (Bénin) ;
 
 Paris-Tananarive (Madagascar) ;
 
-Saint-Denis de la Réunion-Tananarive (Madagascar).
+Saint-Denis de La Réunion-Tananarive (Madagascar).
 
-Jusqu'au 15 janvier 2025, pour du transport de fret uniquement
+Pour du transport de fret uniquement :
 
 Saint-Denis de La Réunion-Port-Louis (île Maurice).
 
 Jusqu'au 31 mars 2026 et dans la limite de cinq (5) fréquences hebdomadaires sur l'ensemble des trois liaisons suivantes
 
-Paris-Port Louis (Maurice) ;
+Paris-Port-Louis (Maurice) ;
 
-Lyon-Port Louis (Maurice) ;
+Lyon-Port-Louis (Maurice) ;
 
-Marseille-Port Louis (Maurice).
+Marseille-Port-Louis (Maurice).
 
 Jusqu'au 31 mars 2026 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie russe disposant des autorisations nécessaires
 
@@ -56,9 +56,9 @@ Fort-de-France-Saint-Domingue (République dominicaine) ;
 
 Fort-de-France-San Juan (Porto Rico), y compris en continuation depuis Paris ;
 
-Fort-de-France-Phillipsburg (Etat de Saint-Martin), y compris en continuation depuis Paris.
+Fort-de-France-Phillipsburg (Etat de Saint-Martin), y compris en continuation depuis Paris ;
 
-Fort-de-France-Saint John's (Antigue et Barbude), y compris en continuation depuis Paris.
+Fort-de-France-Saint John's (Antigue et Barbude), y compris en continuation depuis Paris ;
 
 Fort-de-France-Douglas Charles (La Dominique), y compris en continuation depuis Paris ;
 
