@@ -10,7 +10,15 @@ https://www.legifrance.gouv.fr/download/pdf?id=nzgXN7TG-7Lj6-dWGEVcVoOIURU_fHHyt
 
 II.b RÈGLEMENT D'EXAMEN
 
-Spécialité : |
+Spécialité :
+
+Métiers du commerce et de la vente du Baccalauréat professionnel
+
+Option A Animation et gestion de l'espace commercial
+
+Option B Prospection clientèle et valorisation de l'offre commerciale
+
+|
 
 -élèves dans un établissement public ou privé sous contrat ;
 
@@ -18,7 +26,9 @@ Spécialité : |
 
 -apprentis dans un CFA habilité au CCF ;
 
--stagiaires de la formation professionnelle continue dans un établissement public. |
+-stagiaires de la formation professionnelle continue dans un établissement public.
+
+|
 
 -élèves dans un établissement privé hors contrat ;
 
@@ -28,23 +38,19 @@ Spécialité : |
 
 -candidats de l'enseignement à distance ;
 
--candidats justifiant de 3 années d'activités professionnelles. |
+-candidats justifiant de 3 années d'activités professionnelles
 
-Stagiaires de la formation professionnelle continue dans un établissement public habilité au CCF intégral. |
+|
 
-MÉTIERS DU COMMERCE ET DE LA VENTE
+Stagiaires de la formation professionnelle continue dans un établissement public habilité au CCF
 
-du Baccalauréat professionnel |
+intégral
 
-Option A Animation et gestion
+|
 
-de l'espace commercial |
+Epreuves
 
-Option B Prospection clientèle
-
-et valorisation de l'offre commerciale |
-
-Epreuves |
+|
 
 Unités |
 
@@ -80,7 +86,11 @@ E1 Epreuve scientifique et technique |
 
 |
 
-Sous-épreuve E11 : Economie-droit |
+Sous-épreuve E11 :
+
+Economie-droit
+
+|
 
 U 11 |
 
@@ -88,15 +98,21 @@ U 11 |
 
 Ponctuel écrit |
 
-2 h 30 |
+2 heures |
 
 Ponctuel écrit |
 
-2 h 30 |
+2 heures |
 
 CCF |
 
-Sous-épreuve E12 : Mathématiques |
+|
+
+Sous-épreuve E12 :
+
+Mathématiques
+
+|
 
 U 12 |
 
@@ -110,15 +126,17 @@ Ponctuel écrit
 
 et pratique |
 
-1 h |
+1 heure |
 
 CCF |
+
+|
 
 E2 Analyse et résolution de situations professionnelles |
 
 |
 
-|
+8 |
 
 |
 
@@ -140,11 +158,11 @@ U2 |
 
 Ponctuel écrit |
 
-3 h |
+3 heures |
 
 Ponctuel écrit |
 
-3 h |
+3 heures |
 
 CCF |
 
@@ -156,11 +174,11 @@ U2 |
 
 Ponctuel écrit |
 
-3 h |
+3 heures |
 
 Ponctuel écrit |
 
-3 h |
+3 heures |
 
 CCF |
 
@@ -168,8 +186,6 @@ E3 Pratique professionnelle |
 
 |
 
-9 |
-
 |
 
 |
@@ -182,7 +198,13 @@ E3 Pratique professionnelle |
 
 |
 
-Sous épreuve E31 : Vente-conseil |
+|
+
+Sous épreuve E31 :
+
+Vente-conseil
+
+|
 
 U31 |
 
@@ -194,11 +216,15 @@ CCF |
 
 Ponctuel oral |
 
-30 min |
+30 minutes |
 
 CCF |
 
-Sous-épreuve E32 : Suivi des ventes |
+Sous-épreuve E32 :
+
+Suivi des ventes
+
+|
 
 U32 |
 
@@ -210,11 +236,15 @@ CCF |
 
 Ponctuel oral |
 
-30 min |
+30 minutes |
 
 CCF |
 
-Sous-épreuve E33 : Fidélisation de clientèle et développement de la relation client |
+Sous-épreuve E33 :
+
+Fidélisation de clientèle et développement de la relation client
+
+|
 
 U33 |
 
@@ -226,11 +256,15 @@ CCF |
 
 Ponctuel oral |
 
-40 min |
+40 minutes |
 
 CCF |
 
-Sous épreuve E34 Prévention santé environnement |
+Sous épreuve E34 :
+
+Prévention santé environnement
+
+|
 
 U34 |
 
@@ -238,11 +272,11 @@ U34 |
 
 Ponctuel écrit |
 
-2 h |
+2 heures |
 
 Ponctuel écrit |
 
-2 h |
+2 heures |
 
 CCF |
 
@@ -264,7 +298,11 @@ E4 Epreuves de Iangue vivante |
 
 |
 
-Sous-épreuve E41 Langue vivante 1 |
+Sous-épreuve E41 :
+
+Langue vivante 1
+
+|
 
 U44 |
 
@@ -272,15 +310,17 @@ U44 |
 
 CCF |
 
-Ponctuel oral |
+Ponctuel écrit et oral |
 
-20 min
-
-(1) |
+1 heure + 10 minutes |
 
 CCF |
 
-Sous-épreuve E42 Langue vivante 2 |
+Sous-épreuve E42 :
+
+Langue vivante 2
+
+|
 
 U42 |
 
@@ -288,11 +328,11 @@ U42 |
 
 CCF |
 
-Ponctuel oral |
+|
 
-20 min
+Ponctuel écrit et oral |
 
-(1) |
+1 heure + 10 minutes |
 
 CCF |
 
@@ -314,7 +354,11 @@ E5 Epreuve de français, histoire géographie et enseignement moral et civique |
 
 |
 
-Sous-épreuve E51 : Français |
+Sous-épreuve E51 :
+
+Français
+
+|
 
 U54 |
 
@@ -322,15 +366,19 @@ U54 |
 
 Ponctuel écrit |
 
-2 h 30 |
+3 heures |
 
 Ponctuel écrit |
 
-2 h 30 |
+3 heures |
 
 CCF |
 
-Sous-épreuve E52 : Histoire géographie et enseignement moral et civique |
+Sous-épreuve E52 :
+
+Histoire géographie et enseignement moral et civique
+
+|
 
 U52 |
 
@@ -338,11 +386,11 @@ U52 |
 
 Ponctuel écrit |
 
-2 h |
+2 h 30 |
 
 Ponctuel écrit |
 
-2 h |
+2 h 30 |
 
 CCF |
 
@@ -358,13 +406,17 @@ CCF |
 
 Ponctuel écrit |
 
-1 h 30 |
+2 heures |
 
 CCF |
 
 |
 
-E7 Epreuve d'éducation physique et sportive |
+E7 Epreuve d'éducation
+
+physique et sportive
+
+|
 
 U7 |
 
@@ -374,45 +426,39 @@ CCF |
 
 |
 
-Pratique |
-
-|
+Ponctuel pratique |
 
 CCF |
 
 |
 
-Epreuves facultatives (2) |
+Epreuves facultatives (1) |
 
 UF1
 
-UF2 |
+UF2
 
 |
 
-Ponctuel oral |
+|
 
-20 min
+|
 
-(1) |
+|
 
-Ponctuel
+|
 
-oral |
+|
 
-20 min
+|
 
-(1) |
+|
 
-Oral |
+(1) Le candidat peut choisir une ou deux unités facultatives parmi les unités possibles, les conditions sont fixées par la réglementation en vigueur. La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention.
 
-20 min
+S'agissant de l'évaluation du projet, présenté uniquement par les candidats scolaires des établissements d'enseignement public et privé (sous ou hors contrat) et les candidats apprentis, sont pris en compte les points d'écart par rapport à 10 sur 20 affectés du coefficient 2. S'ils sont supérieurs, ils abondent le total général des points servant au calcul de la moyenne générale conditionnant l'obtention du diplôme ; s'ils sont inférieurs, ils viennent en déduction de ce total général. Aucun coefficient d'épreuve ou de sous-épreuve du règlement d'examen n'est modifié. Les modalités de l'évaluation du projet au baccalauréat professionnel sont définies par l'arrêté du 20 octobre 2020 modifié définissant les modalités de l'évaluation du projet prévue à l'examen du baccalauréat professionnel.
 
-(1) |
-
-(1) Dont 5 minutes de préparation.
-
-(2) La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention. |
+|
 
 II.c Définition des épreuves
 
