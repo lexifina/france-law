@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_25_002 — DELIBERATION 2025-02 TARIFS CIMETIERE 2025 MODIFICATIF
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2025-01-27
+- Matière : 7.10 Finances locales/Divers
+- Objet : DELIBERATION 2025-02 TARIFS CIMETIERE 2025 MODIFICATIF
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2025/45745/b27b99b86740610990b55c949c0488246a59370562c5a470959bd8e66c16623e.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
