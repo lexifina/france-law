@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_25_010 — DELIBERATION 2025-10 ACHAT DE PARCELLES A L'INDIVISION BERTHELOT
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2025-01-27
+- Matière : 7.10 Finances locales/Divers
+- Objet : DELIBERATION 2025-10 ACHAT DE PARCELLES A L'INDIVISION BERTHELOT
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2025/45751/c1fad9ec5f70074db2fe7b87c74624e3c4a9182014ed383f2214d88c832d8f09.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
