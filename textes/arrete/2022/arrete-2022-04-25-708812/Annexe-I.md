@@ -76,7 +76,7 @@ C. - Emplois relevant du groupe 1 :
 
 D. - Emplois relevant du groupe 2 :
 
-1° Conseiller du Gouvernement pour la défense ;
+1° Conseiller armement auprès du chef d'état-major des armées ;
 
 2° Chargé de mission auprès du major général des armées ;
 
@@ -270,7 +270,7 @@ E. - Emplois relevant du groupe 3 :
 
 72° Officier général “ directeur des activités ” de la direction centrale du service du commissariat des armées ;
 
-73° Officier général “ directeur des métiers ” de la direction centrale du service du commissariat des armées ;
+73° Officier général “ directeur des métiers et des risques ” de la direction centrale du service du commissariat des armées ;
 
 74° Directeur central adjoint du service d'infrastructure de la défense ;
 
@@ -330,7 +330,7 @@ E. - Emplois relevant du groupe 3 :
 
 102° Officier général, commandant les services des officiers généraux ;
 
-103° Chargé des fonctions de sous-directeur " droits individuels et études juridiques " de la direction centrale du service du commissariat des armées ;
+103° Officier général “ directeur du conseil juridique et des droits individuels ” de la direction centrale du service du commissariat des armées ;
 
 104° Général adjoint “ engagements ” à l'officier général de zone de défense et de sécurité Sud-Ouest et commandant de zone terre Sud-Ouest ;
 
@@ -490,7 +490,7 @@ F. - Emplois relevant du groupe 4 :
 
 72° Officier général “ transformation et synthèse ” de l'état-major de la marine ;
 
-73° (Supprimé) ;
+73° Conseiller pour le secrétariat des conseils de défense et de sécurité nationale et occupant les fonctions de conseiller défense et sécurité n° 1 du secrétaire général de la défense et de la sécurité nationale ;
 
 74° Adjoint opérations au commandant de la zone maritime Atlantique ;
 
@@ -548,7 +548,7 @@ F. - Emplois relevant du groupe 4 :
 
 101° Directeur du centre des études stratégiques aérospatiales ;
 
-102° Officier général " transformation opérationnelle " du service du commissariat des armées ;
+102° Chargé des fonctions de sous-directeur “ emploi ” de la direction centrale du service du commissariat des armées ;
 
 103° Directeur du centre interarmées du soutien " solde et administration du personnel " ;
 
@@ -558,7 +558,7 @@ F. - Emplois relevant du groupe 4 :
 
 106° Directeur du centre interarmées du soutien " restauration et loisirs " ;
 
-107° Chef de la division " exploitation " du service du commissariat des armées ;
+107° Adjoint au chef du service Europe, Amérique du Nord et action multilatérale de la direction générale des relations internationales et de la stratégie ;
 
 108° Directeur du centre interarmées du soutien " métiers et contrôle interne " ;
 
@@ -654,7 +654,7 @@ G. - Emplois relevant du groupe 5 :
 
 24° (Transféré) ;
 
-25° Chargé de mission auprès du major général des armées ;
+25° Chef de la division développement des forces du commandement du combat futur de l'armée de terre ;
 
 26° Commandant de l'école militaire de spécialisation de l'outre-mer et de l'étranger ;
 
@@ -704,13 +704,13 @@ G. - Emplois relevant du groupe 5 :
 
 49° Chargé des fonctions de sous-directeur du pôle accompagnement de la direction des ressources humaines de l'armée de terre ;
 
-50° Chargé de mission auprès du major général de l'armée de terre ;
+50° Chef de la division “ renseignement ” de l'état-major du corps de réaction rapide France ;
 
 51° Général commandant en second de l'aviation légère de l'armée de terre ;
 
 52° Chef de la division “ emploi opérationnel ” de l'état-major du commandement de la force et des opérations terrestres ;
 
-53° Chef de la division performance de l'état-major du commandement des forces terrestres ;
+53° Chef de la division “ cohérence opérationnelle ” de l'état-major du commandement de la force et des opérations terrestres ;
 
 54° Inspecteur à l'inspection de l'armée de terre ;
 
@@ -742,7 +742,7 @@ G. - Emplois relevant du groupe 5 :
 
 68° Adjoint au commandant le commandement pour l'Afrique ;
 
-69° Chargé de mission auprès du major général de l'armée de terre ;
+69° Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres, chef du pôle “ soutien des opérations ” ;
 
 70° Commandant en second de l'appui et de la logistique de théâtre ;
 
@@ -808,7 +808,7 @@ G. - Emplois relevant du groupe 5 :
 
 101° Directeur du centre interarmées du soutien " à la mobilité " ;
 
-102° Directeur du centre interarmées du soutien " administration des opérations " ;
+102° Chargé des fonctions de sous-directeur “ droits individuels et études juridiques ” de la direction centrale du service du commissariat des armées ;
 
 103° Commissaire général délégué et directeur de la plate-forme commissariat Ouest ;
 
@@ -854,4 +854,4 @@ G. - Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 16 décembre 2024 (NOR : ARMH2434215A), ces dispositions sont applicables aux rémunérations versées à compter du mois de janvier 2025.
+Conformément à l'article 4 de l'arrêté du 24 janvier 2025 (NOR : ARMH2502609A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de janvier 2025.
