@@ -398,9 +398,15 @@ Arrêté du 13 décembre 2024 |
 
 14 |
 
-CONSTRUCTEUR DE RESEAUX DE CANALISATIONS DE TRAVAUX PUBLICS |
+CONSTRUCTEUR DE RESEAUX DE CANALISATIONS DE TRAVAUX PUBLICS (dernière session 2026) |
 
 Arrêté du 15 avril 2019 |
+
+14 |
+
+Constructeur de réseaux de canalisations de travaux publics (première session 2027) |
+
+Arrêté du 13 décembre 2024 |
 
 14 |
 
