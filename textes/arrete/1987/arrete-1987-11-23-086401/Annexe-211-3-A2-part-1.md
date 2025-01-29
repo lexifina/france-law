@@ -12,7 +12,7 @@ Conformément aux dispositions de l'article 211-3.06, paragraphe 3, de la prése
 
 Paragraphe 1
 
-Tous les navires rouliers à passagers visés à l'article 211-3.03, paragraphe 1, de la présente division doivent tout d'abord respecter la norme SOLAS 90 relative à la stabilité résiduelle, car cette norme s'applique à tous les navires à passagers construits le 29 avril 1990 ou après cette date. C'est sur la base de cette norme qu'est déterminé le franc-bord résiduel (fr), qui permet d'effectuer les calculs définis au paragraphe 1.1.
+Tous les navires rouliers à passagers visés à l'article 211-3.03, paragraphe 1, de la présente division doivent tout d'abord respecter la norme SOLAS 90 relative à la stabilité résiduelle, car cette norme s'applique à tous les navires à passagers construits le 29 avril 1990 ou après cette date. C'est sur la base de cette norme qu'est déterminé le franc-bord résiduel (fr), qui permet d'effectuer les calculs définis au paragraphe 1.1, section A.
 
 Paragraphe 1.1
 
