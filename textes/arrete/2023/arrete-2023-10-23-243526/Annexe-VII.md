@@ -118,7 +118,7 @@ I. - Composition du dossier
 
 5. Le cahier des charges visé au 2ème alinéa du I de l’article R. 323-14 du code de la route comprenant notamment :
 
-a) Une description de l’organisation et des moyens matériels, suivant le modèle de l’appendice 6 de la présente annexe ainsi que la liste des contrôleurs rattachés le cas échéant
+a) Une description de l'organisation et des moyens matériels, suivant le modèle de l'appendice 6 de la présente annexe, la liste éventuelle des contrôleurs rattachés ainsi que les modalités de partage du dispositif de contrôle de la vitesse, le cas échéant, conformément au point 3.1 de l'annexe V
 
 b) Un plan de situation permettant d’identifier l’emprise immobilière et la zone de contrôle par rapport à l’environnement
 
@@ -190,7 +190,7 @@ I. - Composition du dossier
 
 5. Le cahier des charges visé au 2ème alinéa du I de l’article R. 323-14 du code de la route comprenant notamment :
 
-a) Une description de l’organisation et des moyens matériels, suivant le modèle de l’appendice 6 de la présente annexe ainsi que la liste des contrôleurs rattachés, le cas échéant ;
+a) Une description de l'organisation et des moyens matériels, suivant le modèle de l'appendice 6 de la présente annexe, la liste éventuelle des contrôleurs rattachés ainsi que les modalités de partage du dispositif de contrôle de la vitesse, le cas échéant, conformément au point 3.1 de l'annexe V ;
 
 b) Un plan de situation permettant d’identifier l’emprise immobilière et la zone de contrôle par rapport à l’environnement ;
 
@@ -601,6 +601,8 @@ Surface des zones de contrôle des véhicules de catégorie L :
 Équipements
 
 Pour tous les équipements indiqués à l’annexe III de l’arrêté relatif au contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur et présents dans le centre (y compris optionnels), indiquer la marque, le type, le cas échéant, le cahier des charges auquel il est conforme, le numéro de série et la date d’installation.
+
+Préciser si l'installation de contrôle a recours à la possibilité de partager le dispositif de contrôle de la vitesse visé au point 6 du A de l'annexe III, et dans ce cas, indiquer l'installation de contrôle responsable des opérations d'étalonnage, de maintenance et d'entretien de ce matériel.
 
 Informatique
 
