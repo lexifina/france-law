@@ -40,6 +40,6 @@ CAP locale compétente à l'égard du corps des agents spécialisés de la polic
 
 II. ― Liste des commissions consultatives paritaires (CCP) qui demeurent compétentes pendant la période transitoire mentionnée à l'article 7 :
 
-CCP compétente à l'égard des adjoints de sécurité (SGAP de Paris) ;
+CCP compétente à l'égard des policiers adjoints (SGAP de Paris) ;
 
-CCP compétente à l'égard des adjoints de sécurité (SGAP de Versailles).
+CCP compétente à l'égard des policiers adjoints (SGAP de Versailles).
