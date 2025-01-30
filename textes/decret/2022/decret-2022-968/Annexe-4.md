@@ -20,9 +20,9 @@ SEUIL DE NOTIFICATION
 
 12 380 000 EUR |
 
-40 % |
+20 % |
 
-33 000 000 EUR |
+16 500 000 EUR |
 
 50 % |
 
@@ -32,6 +32,6 @@ SEUIL DE NOTIFICATION
 
 49 500 000 EUR |
 
-70 % |
+70 % et plus |
 
 57 750 000 EUR |
