@@ -154,6 +154,8 @@ En cas de contre-visite, suite à un contrôle technique périodique, “ La con
 
 En cas de contre-visite complémentaire, “ La connaissance de l'ensemble des défaillances constatées sur ce véhicule nécessite de disposer également du procès-verbal de contrôle technique complémentaire ”.
 
+Lorsque le contrôle a entraîné la validation de commentaires spécifiques conformément aux instructions techniques prévues à l'annexe I du présent arrêté, les mentions correspondantes sont imprimées sur le procès-verbal à la suite des défaillances et niveaux de gravité.
+
 Lorsque le contrôle a entraîné la mise en œuvre de méthodes spécifiques, hors contrôle des émissions à l'échappement, “ Véhicule présentant des particularités incompatibles avec les installations de contrôle ayant entraîné la mise en œuvre de méthodes spécifiques ”.
 
 Lorsque le contrôle des émissions à l'échappement a entraîné la mise en œuvre de méthodes spécifiques, “ Contrôle des émissions à l'échappement réalisé selon des méthodes spécifiques ”.
@@ -405,7 +407,3 @@ Le timbre est autocollant et comporte un pré-découpage entraînant son déchir
 Il ne permet également pas, du moins sans sa destruction partielle ou totale, un quelconque effacement des informations variables qui y sont portées.
 
 Sa sécurité peut, en outre, être renforcée par la présence d'un pictogramme latent révélable sur toute photocopie.
-
-NOTA :
-
-Conformément à l’article 8 de l’arrêté du 25 juillet 2023 (NOR : TRER2330734A), ces dispositions entrent en vigueur le 1er janvier 2025.

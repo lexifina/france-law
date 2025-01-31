@@ -12,9 +12,9 @@ A. 2.1. Qualification préalable
 
 Le candidat justifie d'une des qualifications visées ci-dessous :
 
-- un diplôme de niveau 4 du ministère de l’éducation nationale (baccalauréat professionnel maintenance des véhicules option voitures particulières ou baccalauréat professionnel maintenance des véhicules) ou un diplôme équivalent au regard de FRANCE Compétences ;
+- un diplôme de niveau 4 du ministère de l’éducation nationale (baccalauréat professionnel maintenance des véhicules) ou un diplôme équivalent au regard de FRANCE Compétences ;
 
-- un diplôme de niveau 5 du ministère de l'éducation nationale (diplôme d'expert en automobile ou brevet de technicien supérieur après-vente automobile option véhicules particuliers ou brevet de technicien supérieur après-vente automobile option véhicules industriels ) ou un diplôme équivalent vis-à-vis de FRANCE Compétences.
+- un diplôme de niveau 5 du ministère de l'éducation nationale (diplôme d'expert automobile ou brevet de technicien supérieur maintenance des véhicules) ou un diplôme équivalent vis-à-vis de FRANCE Compétences.
 
 - un agrément valide de contrôleur de véhicules lourds au sens de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds ;
 
