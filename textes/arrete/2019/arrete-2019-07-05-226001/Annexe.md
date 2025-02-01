@@ -1826,27 +1826,11 @@ France, Allemagne, Pologne, Hongrie |
 
 01.07.2014 |
 
-P81 |
-
-|
-
-France, Pologne |
-
-01.07.2014 |
-
 |
 
 CG36 |
 
 France, Allemagne, Pologne, Croatie, Hongrie, Espagne |
-
-01.07.2014 |
-
-|
-
-P98 |
-
-France, Pologne |
 
 01.07.2014 |
 
