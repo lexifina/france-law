@@ -8,4 +8,8 @@ La signature de la convention a lieu au moins quinze jours francs après le dern
 
 Chaque partie reçoit un exemplaire de la convention.
 
-Une copie de la convention est versée au dossier individuel de l'agent prévu à l'article 1-1.
+Une copie de la convention est versée au dossier individuel de l'agent prévu à l'article R. 137-1 du code général de la fonction publique.
+
+NOTA :
+
+Conformément au premier alinéa de l'article 30 du décret n° 2024-1038 du 6 novembre 2024, ces dispositions entrent en vigueur le premier jour du troisième mois qui suit celui de la publication du décret précité, soit le 1er février 2025.
