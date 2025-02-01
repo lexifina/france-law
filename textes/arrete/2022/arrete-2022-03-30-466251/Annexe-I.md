@@ -70,39 +70,39 @@ Maintien au titre de l'armée active |
 
 Admission et maintien dans la réserve opérationnelle |
 
-3 |
-
-2 |
-
-3 |
-
-5 |
-
-3 |
-
-3 |
-
-1 |
+|
 
 |
 
+|
+
+|
+
+|
+
+|
+
+|
+
+Les normes médicales d'aptitude applicables au personnel de la réserve opérationnelle sont définies au 5° de l'article L. 4211-2 et à l'article R. 4221-2 du code de la défense. L'employabilité du personnel réserviste est évaluée en fonction de la fiche de poste lors des visites médicales, initiale ou en cours de carrière. |
+
 Admission et maintien dans la réserve spécialiste |
 
-3 |
+|
 
-3 |
+|
 
-3 |
+|
 
-5 |
+|
 
-4 |
+|
 
-3 |
+|
 
-0/1 |
+|
 
-Les réservistes spécialistes sont recrutés sur le fondement de l'article L4221-3 du code de la défense. |
+Les normes médicales d'aptitude applicables au personnel de la réserve opérationnelle sont définies au 5° de l'article L. 4211-2 et à l'article R. 4221-2 du code de la défense. L'employabilité du personnel réserviste est évaluée en fonction de la fiche de poste lors des visites médicales, initiale ou en cours de carrière. |
 
 Admission en tant que militaire commissionné |
 
@@ -170,39 +170,39 @@ Maintien au titre de l'armée active |
 
 Admission et maintien dans la réserve opérationnelle |
 
-3 |
-
-2 |
-
-3 |
-
-4 |
-
-3 |
-
-3 |
-
-1 |
+|
 
 |
 
+|
+
+|
+
+|
+
+|
+
+|
+
+Les normes médicales d'aptitude applicables au personnel de la réserve opérationnelle sont définies au 5° de l'article L. 4211-2 et à l'article R. 4221-2 du code de la défense. L'employabilité du personnel réserviste est évaluée en fonction de la fiche de poste lors des visites médicales, initiale ou en cours de carrière. |
+
 Admission et maintien dans la réserve spécialiste |
 
-3 |
+|
 
-3 |
+|
 
-3 |
+|
 
-5 |
+|
 
-4 |
+|
 
-3 |
+|
 
-0/1 |
+|
 
-Les réservistes spécialistes sont recrutés sur le fondement de l'article L4221-3 du code de la défense. |
+Les normes médicales d'aptitude applicables au personnel de la réserve opérationnelle sont définies au 5° de l'article L. 4211-2 et à l'article R. 4221-2 du code de la défense. L'employabilité du personnel réserviste est évaluée en fonction de la fiche de poste lors des visites médicales, initiale ou en cours de carrière. |
 
 Militaires du rang du SEO |
 
@@ -250,39 +250,39 @@ Maintien au titre de l'armée active |
 
 Admission et maintien dans la réserve opérationnelle |
 
-3 |
-
-2 |
-
-3 |
-
-4 |
-
-3 |
-
-3 |
-
-1 |
+|
 
 |
 
+|
+
+|
+
+|
+
+|
+
+|
+
+Les normes médicales d'aptitude applicables au personnel de la réserve opérationnelle sont définies au 5° de l'article L. 4211-2 et à l'article R. 4221-2 du code de la défense. L'employabilité du personnel réserviste est évaluée en fonction de la fiche de poste lors des visites médicales, initiale ou en cours de carrière. |
+
 Admission et maintien dans la réserve spécialiste |
 
-3 |
+|
 
-3 |
+|
 
-3 |
+|
 
-5 |
+|
 
-3 |
+|
 
-3 |
+|
 
-0/1 |
+|
 
-Les réservistes spécialistes sont recrutés sur le fondement de l'article L4221-3 du code de la défense. |
+Les normes médicales d'aptitude applicables au personnel de la réserve opérationnelle sont définies au 5° de l'article L. 4211-2 et à l'article R. 4221-2 du code de la défense. L'employabilité du personnel réserviste est évaluée en fonction de la fiche de poste lors des visites médicales, initiale ou en cours de carrière. |
 
 (1) P=0 possible uniquement durant la période probatoire.
 
