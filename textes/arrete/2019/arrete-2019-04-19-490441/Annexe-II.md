@@ -84,7 +84,7 @@ Arrêté du 6 juillet 2004 modifié |
 
 14 |
 
-AGENT DE PROPRETE ET D'HYGIENE |
+AGENT DE PROPRETE ET D'HYGIENE (dernière session 2026) |
 
 Arrêté du 23 décembre 2013 |
 
@@ -1026,9 +1026,17 @@ Arrêté du 29 octobre 2019 |
 
 14 |
 
-PROPRETE DE L'ENVIRONNEMENT URBAIN-COLLECTE ET RECYCLAGE |
+PROPRETE DE L'ENVIRONNEMENT URBAIN-COLLECTE ET RECYCLAGE (dernière session 2026) |
 
 Arrêté du 10 mars 2015 |
+
+14 |
+
+PROPRETÉ ET PRÉVENTION DES BIOCONTAMINATIONS (PREMIÈRE SESSION 2027)
+
+|
+
+Arrêté du 13 décembre 2024 |
 
 14 |
 
@@ -1173,6 +1181,12 @@ Arrêté du 21 octobre 1999 |
 TRANSPORTS PAR CABLES ET REMONTEES MECANIQUES (première session 2025) |
 
 Arrêté du 21 décembre 2022 |
+
+14 |
+
+VALORISATION DES MATIÈRES ET PROPRETÉ DES ESPACES URBAINS (PREMIÈRE SESSION 2027) |
+
+Arrêté du 13 décembre 2024 |
 
 14 |
 
