@@ -318,9 +318,17 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-GESTION DES POLLUTIONS ET PROTECTION DE L'ENVIRONNEMENT |
+GESTION DES POLLUTIONS ET PROTECTION DE L'ENVIRONNEMENT (dernière session 2027) |
 
 Arrêté du 17 juillet 2012 modifié |
+
+PRODUCTION |
+
+Economie-gestion/ Physique-chimie |
+
+Maintenance environnementale et propreté des espaces urbains (première session 2028) |
+
+Arrêté du 13 décembre 2024 |
 
 PRODUCTION |
 
