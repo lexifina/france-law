@@ -2,13 +2,9 @@
 
 SERVICE |
 
-OBJET
+OBJET DE L'ASTREINTE |
 
-DE L'ASTREINTE |
-
-NOMBRE
-
-ET TYPE D'ASTREINTE |
+NOMBRE ET TYPE D'ASTREINTE |
 
 Direction générale |
 
@@ -56,7 +52,7 @@ Astreinte technique. |
 
 Secrétariat interrégional Grand-Paris-Division informatique de gestion |
 
-Astreinte technique opérationnelle. |
+Astreinte technique opérationnelle |
 
 3 astreintes de semaine du 15/07/2024 au 08/09/2024. |
 
@@ -154,9 +150,9 @@ Astreinte d'exploitation viabilité hivernale. |
 
 2 astreintes de semaine (entre le 15/11 et le 31/03). |
 
-Ecole nationale
+École Nationale
 
-de l'aviation civile |
+de l'Aviation Civile |
 
 |
 
@@ -182,17 +178,13 @@ Astreinte opérationnelle et technique. |
 
 2 astreintes de semaine. |
 
-Bureau d'enquêtes et d'analyses
-
-pour la sécurité de l'aviation civile |
+Bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile |
 
 Astreinte enquêtes-accidents (niveau central). |
 
-1 astreinte de semaine et 2 astreintes de fin de semaine. |
+1 astreinte de semaine et 2 astreintes de fin de semaine |
 
-Direction de la stratégie et des ressources
-
-de la direction des services de la navigation aérienne |
+Direction de la stratégie et des ressources de la direction des services de la navigation aérienne |
 
 |
 
@@ -202,21 +194,17 @@ SDRH |
 
 Astreinte de continuité opérationnelle. |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
-1 astreinte de fin de semaine et jours fériés. |
+1 astreinte de fin de semaine et jours fériés |
 
-Direction de la sécurité de la direction
-
-des services de la navigation aérienne |
+Direction de la sécurité de la direction des services de la navigation aérienne |
 
 Astreinte opérationnelle cyber. |
 
 1 astreinte de semaine (entre le 06/05 et le 13/05/2024, entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024). |
 
-Direction des opérations de la direction
-
-des services de la navigation aérienne |
+Direction des opérations de la direction des services de la navigation aérienne |
 
 |
 
@@ -236,9 +224,11 @@ Astreinte opérationnelle. |
 
 Echelon central (Cyber) |
 
-Astreinte opérationnelle cyber.. |
+Astreinte opérationnelle cyber. |
 
-1 astreinte de semaine (entre le 06/05 et le 13/05/2024, entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024). |
+1 astreinte de semaine
+
+(entre le 06/05 et le 13/05/2024, entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024). |
 
 CESNAC |
 
@@ -350,7 +340,7 @@ Astreinte opérationnelle et technique. |
 
 Service technique de CDG-Pôle communication navigation surveillance (CNS) |
 
-Astreinte technique (énergie-climatisation).. |
+Astreinte technique (énergie-climatisation). |
 
 1 astreinte de semaine entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024. |
 
@@ -368,15 +358,15 @@ Astreinte opérationnelle et technique. |
 
 Organisme d'Orly |
 
-Astreinte technique (antennes avancées, Melun). |
+Astreinte technique (antennes avancées, Melun) |
 
-2 astreintes de fin de semaine et jours fériés. |
+2 astreintes de fin de semaine et jours fériés |
 
 Organisme d'Orly |
 
 Astreinte opérationnelle (aviation générale). |
 
-1 astreinte de fin de semaine et de jours fériés et 1 astreinte de semaine entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024. |
+1 astreinte de semaine. |
 
 Organisme d'Orly |
 
@@ -443,6 +433,12 @@ Siège |
 Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
+
+Service technique-Section énergie/ climatisation |
+
+Astreinte technique (énergie-climatisation). |
+
+1 astreinte de fin de semaine. |
 
 SNA Centre-Est |
 
@@ -614,7 +610,7 @@ Direction de la sécurité de l'aviation civile |
 
 DSAC |
 
-Astreinte de direction. |
+Astreinte de direction |
 
 8 astreintes de semaine entre le 15/07 et le 08/09/2024. |
 
@@ -756,7 +752,7 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Centre-Val-de-Loire (Tours) |
+Région Centre-Val de Loire (Tours) |
 
 Astreinte enquêtes-accidents. |
 
@@ -778,7 +774,7 @@ DSAC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-1 astreinte de semaine dans la limite de 26 semaines par an. |
+1 astreinte de semaine dans la limite de 26 semaines par an |
 
 DSAC (Strasbourg) |
 
@@ -788,7 +784,7 @@ Astreinte de direction. |
 
 Région Bourgogne-Franche-Comté (Dijon) |
 
-Astreinte enquêtes-accidents (Bourgogne-Franche-Comté). |
+Astreinte enquêtes-accidents (Bourgogne-Franche-Comté) |
 
 1 astreinte de semaine. |
 
@@ -964,7 +960,7 @@ SEAC-Département des ressources et de l'ingénierie-Division informatique et mo
 
 Astreinte technique opérationnelle. |
 
-3 astreintes de semaine du 22/07/2024 au 05/08/2024. |
+1 astreinte de semaine du 22/07/2024 au 05/08/2024. |
 
 Tahiti-Faaa |
 
@@ -990,15 +986,15 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service mixte "Direction de l'aviation civile
+Service mixte Direction de l'aviation civile
 
-en Nouvelle-Calédonie" |
-
-|
+en Nouvelle-Calédonie |
 
 |
 
-Service mixte "DAC/ NC" |
+|
+
+Service mixte DAC/ NC |
 
 Astreinte de contrôle technique d'exploitation. |
 
@@ -1006,7 +1002,7 @@ Astreinte de contrôle technique d'exploitation. |
 
 Nouméa |
 
-Astreinte de direction (Service mixte "DAC/ NC"). |
+Astreinte de direction (Service mixte DAC/ NC ). |
 
 1 astreinte de semaine. |
 
