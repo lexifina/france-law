@@ -912,7 +912,9 @@ L'aérodrome de Saint-Barthélemy est réservé aux aéronefs dont les pilotes s
 
 -s'agissant des avions, les pilotes justifient d'une aptitude reconnue préalablement à la desserte de l'aérodrome par un instructeur sur le type ou la classe d'avion envisagé, sauf si le vol s'inscrit dans le cadre d'une formation pratique en vol du pilote en vue de la reconnaissance de l'aptitude précitée ;
 
--s'agissant des giravions, les pilotes justifient d'une aptitude reconnue, préalablement à la desserte de l'aérodrome, par un instructeur dans le cadre d'une formation théorique au sol.
+-s'agissant des giravions, les pilotes justifient d'une aptitude reconnue préalablement à la desserte de l'aérodrome par un instructeur, sauf si le vol s'inscrit dans le cadre d'un vol de familiarisation de l'environnement de l'aérodrome en vue de la reconnaissance de l'aptitude précitée.
+
+La reconnaissance d'aptitude couvre les opérations de décollage en piste 10 et d'atterrissage en pistes 10 et 28.
 
 Les pilotes d'avions ayant desservi l'aérodrome dans les six mois précédant la date d'entrée en vigueur du présent arrêté sur le type ou la classe d'avion envisagé, ainsi que les pilotes de giravions ayant assuré cette desserte au cours de la même période, sont réputés satisfaire à cette exigence.
 
@@ -920,11 +922,9 @@ Les exigences de formation théorique et pratique et les conditions du maintien 
 
 Sur cette base, le programme de formation des pilotes en vue d'une exploitation en transport public est défini par l'exploitant de l'aéronef. La formation pratique en vol en vue d'une exploitation en transport public est réalisée à l'occasion de vols d'entraînement en présence uniquement de l'équipage technique concerné par la formation, sans passager à bord.
 
-Les exigences du présent article ne sont pas applicables aux aéronefs ultralégers motorisés.
+Les transporteurs aériens publics sollicitant l'autorisation d'exploiter des services aériens par avion de/ vers l'aérodrome de Saint-Barthélemy soumettent au préalable à l'autorisation du directeur de la sécurité de l'aviation civile Antilles-Guyane un dossier de démonstration de performances à l'atterrissage, dans des conditions publiées par la voie de l'information aéronautique.
 
-Les transporteurs aériens publics sollicitant l'autorisation d'exploiter des services aériens par avion de/ vers l'aérodrome de Saint-Barthélemy soumettent au préalable à l'autorisation de la direction de la sécurité de l'aviation civile Antilles-Guyane un dossier de démonstration de performances à l'atterrissage, dans des conditions publiées par la voie de l'information aéronautique.
-
-Il peut être dérogé aux conditions d'utilisation prévues aux articles 1er et 2 par décision de la direction de la sécurité de l'aviation civile Antilles-Guyane.
+Il peut être dérogé aux conditions d'utilisation prévues aux articles 1er et 1-1 par décision du directeur de la sécurité de l'aviation civile Antilles-Guyane.
 
 |
 
@@ -1213,3 +1213,7 @@ Yvetot-Baons-le-Comte |
 Seine-Maritime |
 
 Les conditions d'utilisations sont validées par les services de la direction de la sécurité de l'aviation civile Ouest et portées à la connaissance des navigateurs aériens par insertion dans les publications aéronautiques appropriées. |
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 14 janvier 2025 (NOR : ATDA2434624A), ces dispositions entrent en vigueur le 3 février 2025.
