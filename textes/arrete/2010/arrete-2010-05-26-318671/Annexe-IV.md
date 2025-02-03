@@ -238,6 +238,26 @@ X |
 
 |
 
+Test d'exigences préalables des EPEF définies par l'arrêté du 26 mai 2010 portant création de la mention " canyonisme " du DEJEPS, délivré jusqu'au 30 septembre 2024 |
+
+X
+
+1° et 2° a) TEP
+
+uniquement
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 EPEF (*) : exigences préalables à l'entrée en formation.
 
 EPMSP (*) : exigences préalables à la mise en situation professionnelle.
