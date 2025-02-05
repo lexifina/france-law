@@ -1,0 +1,41 @@
+# Réponse à la question n° 122
+
+- Question : [122](122.md) — Question n° 122 — Accueil des enfants en situation de handicap dans les établissements scolaires
+
+## Réponse
+
+*JO du 2025-02-05, page 831*
+
+ACCUEIL DES ÉLÈVES EN SITUATION DE HANDICAP
+
+M. le président . La parole est à M. Salvatore Castiglione, pour exposer sa question, no 122, relative à l'accueil des élèves en situation de handicap.
+
+M. Salvatore Castiglione . De Aubry-du-Hainaut à Wallers-Arenberg, les problèmes liés au manque d’accompagnants d'élèves en situation de handicap (AESH) sont les mêmes. Dans ma circonscription de Valenciennes, des enseignants, des parents d'élèves, des maires m’alertent régulièrement sur ce manque d’AESH et la trop longue attente pour obtenir une notification de la maison départementale des personnes handicapées (MDPH).
+
+Ce déficit se confirme dans l’ensemble du département du Nord avec pour conséquence de fragiliser l'inclusion scolaire des élèves. Pour le Nord et le Pas-de-Calais, le nombre d’enfants qui devraient être accompagnés est évalué à 13 000. À la veille du vingtième anniversaire de la loi de 2005, qui pose comme principe que « toute personne handicapée a droit à la solidarité de l’ensemble de la collectivité nationale », cette situation n’est pas acceptable.
+
+Confrontés à des conditions de travail précaires et à une formation insuffisante – la formation initiale de soixante heures n’étant bien souvent que partiellement dispensée et la formation continue non obligatoire –, les AESH eux-mêmes revendiquent la création d’un véritable statut qui permettrait de renforcer l’attractivité et la reconnaissance de leur métier, de lutter contre la pénurie de personnel, et d’améliorer les conditions de travail et de rémunération.
+
+Par ailleurs, l’application de la loi Vial relative au financement des AESH par l’État pendant la pause méridienne est très inégalement appliquée sur le terrain, contraignant les municipalités à engager des frais pour ne pas laisser les élèves sans solution. Pourtant, cette loi devait entrer pleinement en vigueur dès la rentrée scolaire de 2024.
+
+Qui plus est, aucune disposition n’est prévue concernant le temps scolaire pour lequel les communes se substituent à l’éducation nationale lorsque plus de 25 % des enseignants sont en grève. Les AESH, même non grévistes, ne peuvent pas accompagner les enfants.
+
+Je souhaite par conséquent savoir quelles solutions concrètes le gouvernement entend appliquer pour répondre à cette situation préoccupante et pour garantir à chaque élève l'accompagnement humain auquel il a droit.
+
+M. le président . La parole est à Mme la ministre chargée du travail et de l’emploi.
+
+Mme Astrid Panosyan-Bouvet, ministre chargée du travail et de l’emploi . Je tiens à nouveau à excuser l'absence de Mme Élisabeth Borne, en déplacement à l'occasion de la Journée mondiale contre le cancer.
+
+Garantir à chaque élève une scolarisation de qualité, c’est une exigence et c’est un engagement clair du gouvernement. Ainsi, depuis 2017, nous avons créé 34 000 postes d’AESH pour répondre à l’augmentation du nombre d’élèves en situation de handicap et pour relever le pari – toujours à l'ordre du jour – de l'école inclusive.
+
+Or cet effort va s'amplifier à la rentrée 2025 : 2 000 AESH supplémentaires renforceront les effectifs. Cela signifie concrètement que 90 000 AESH seront mobilisés dans les académies en 2025, soit une augmentation de 68 % depuis 2017.
+
+Cette montée en puissance – et c'est ici la ministre du travail qui s'exprime – va de pair avec la question essentielle de l'amélioration des conditions de travail et de la reconnaissance due à ce personnel de l'éducation nationale. Nous avons en effet revalorisé les grilles indiciaires pour mieux rémunérer ces professionnels essentiels. Une indemnité de 1 529 euros brut par an a été créée, et les AESH référents bénéficient désormais d’une majoration de 10 %. À cela s’ajoute le relèvement des grilles de 5 points d’indice depuis janvier 2024.
+
+Une mesure très importante est également entrée en vigueur : un CDI pourra être signé au bout de trois ans au lieu de six. C’est une avancée concrète pour plus de stabilité et de reconnaissance. En outre, dans les prochains jours, un décret sécurisera le financement des AESH intervenant pendant la pause méridienne. Enfin, nous déployons les pôles d’appui à la scolarité (PAS) pour répondre plus vite et mieux aux besoins des familles.
+
+Soyez donc assuré de notre détermination à faire de l’école inclusive une réalité et à continuer d'avancer sur le chemin que nous avons emprunté.
+
+M. le président . La parole est à M. Salvatore Castiglione.
+
+M. Salvatore Castiglione . Je vous remercie pour tous ces éléments de réponse. Il nous faut aller encore plus vite dans certains domaines comme la formation. Encore une fois, il convient d'apporter des solutions concrètes à ces enfants qui, sans accompagnement, sont en souffrance.
