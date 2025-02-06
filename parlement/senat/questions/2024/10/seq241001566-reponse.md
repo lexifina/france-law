@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001566
+
+- Question : [SEQ241001566](seq241001566.md) — Définition du télétravail pour les travailleurs transfrontaliers
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2025-02-06, page 447*
+
+Le Gouvernement a connaissance des multiples problématiques posées par l'émergence et le développement du télétravail et notamment en matière fiscale s'agissant de la caractérisation d'un établissement stable de l'employeur dans l'Etat de résidence de l'employé. Dans la majorité des situations, les jours de télétravail ne sont pas de nature à entraîner, à eux seuls, la qualification d'un établissement stable au sens de l'article 5 du modèle de convention fiscale de l'OCDE. Toutefois, la qualification d'un établissement stable est une question d'espèce qui doit s'apprécier au cas par cas, conformément aux dispositions conventionnelles applicables et à la lumière des commentaires du modèle de l'OCDE. Si un doute devait subsister dans certaines situations particulières, l'administration fiscale est à la disposition des contribuables concernés pour y répondre, par la voie du rescrit. Toute systématisation de cette problématique ne peut pas être recherchée dans un cadre bilatérale. Elle doit nécessairement s'inscrire dans un cadre multilatéral. C'est pourquoi la France soutient et participe pleinement aux travaux menés sous l'égide de l'OCDE en vue de clarifier les situations dans lesquelles l'exercice du télétravail peut être constitutif d'un établissement stable et à apporter davantage de sécurité juridique aux entreprises. En tout état de cause, l'accord relatif à la coordination des systèmes de sécurité sociale n'a pas d'incidence sur la qualification d'un établissement stable, sa portée se limitant aux conditions d'affiliation au système de sécurité sociale de l'Etat de l'employeur ou celui de résidence du salarié.
