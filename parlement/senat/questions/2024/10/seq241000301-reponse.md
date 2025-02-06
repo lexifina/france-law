@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000301
+
+- Question : [SEQ241000301](seq241000301.md) — Délégation pour le louage de choses et résiliation amiable des baux
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-02-06, page 409*
+
+L'article L. 2122-22 du code général des collectivités territoriales (CGCT) dispose que "le maire peut, en outre, par délégation du conseil municipal, être chargé, en tout ou partie, et pour la durée de son mandat : [...] 5° De décider de la conclusion et de la révision du louage de choses pour une durée n'excédant pas douze ans ; […] ". Dans le cadre du 5° de l'article L. 2122-22 du CGCT, le louage de choses doit s'entendre au sens de l'article 1709 du code civil qui prévoit que "le louage des choses est un contrat par lequel l'une des parties s'oblige à faire jouir l'autre d'une chose pendant un certain temps, et moyennant un certain prix que celle-ci s'oblige de lui payer.". Le législateur n'a pas entendu préciser la nature juridique du contrat, incluant ainsi l'ensemble des baux régis par les dispositions du code civil. L'article 1193 du code civil prévoit, par ailleurs, que "les contrats ne peuvent être modifiés ou révoqués que du consentement mutuel des parties, ou pour les causes que la loi autorise.". Les parties peuvent ainsi mutuellement décider de résilier à l'amiable le contrat. Le maire peut décider de ne pas renouveler un bail de location à son échéance (Cour de cassation, 15 février 2018, n° 16-18.463). Sous réserve de l'appréciation souveraine du juge judiciaire, il peut également convenir, avec le ou les cocontractants de la commune, de la résiliation du contrat de louage de choses, par l'application des stipulations contractuelles lorsque celles-ci prévoient la possibilité de résilier, ou par la conclusion d'un avenant afin d'intégrer de telles clauses.
