@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241102205
+
+- Question : [SEQ241102205](seq241102205.md) — Offre de transports pour le projet de centre pénitentiaire Loire-Authion
+
+## Réponse
+
+*Transports, JO du 2025-02-06, page 498*
+
+Les études concernant la desserte du futur centre pénitentiaire de Loire-Authion n'ont à ce stade pas fait apparaître un besoin de redimensionner les infrastructures ferroviaires existantes, compte tenu du volume limité des déplacements générés par le projet. Un comité de pilotage réunissant l'État et les collectivités territoriales s'est en revanche tenu le 26 septembre dernier, sous l'égide de la préfecture du Maine-et-Loire, afin d'identifier et de programmer d'autres projets de mobilité (aménagements routiers, cyclables, transports en commun, covoiturage) qui pourront contribuer à optimiser la desserte du centre. Si, à terme, l'évolution du contexte mettait en évidence un besoin d'adaptation des infrastructures, la question de leur financement dans le cadre d'un éventuel avenant au CPER pourra être examinée. S'agissant des services ferroviaires, les gares des Rosiers-sur-Loire, de Saint-Mathurin-sur-Loire et de la Bohalle sont desservies par des TER de la ligne Angers-Saumur exploités par SNCF Voyageurs dans le cadre d'une convention avec la Région des Pays de la Loire. En tant qu'autorité organisatrice des services ferroviaires d'intérêt régional, la Région est la seule compétente pour définir l'offre TER, comprenant notamment la volumétrie et la grille horaire des dessertes, en fonction de l'analyse qu'elle fait des besoins de mobilité des usagers et en tenant compte aussi des contraintes particulières d'exploitation qu'elle étudie avec l'entreprise ferroviaire et le gestionnaire du réseau. L'État, au regard du principe de libre administration des collectivités territoriales, n'intervient pas dans ces choix.
