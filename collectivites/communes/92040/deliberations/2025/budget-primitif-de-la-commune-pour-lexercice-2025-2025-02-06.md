@@ -1,0 +1,14 @@
+# Ville d'Issy-les-Moulineaux : délibération — Budget primitif de la commune pour l’exercice 2025.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-02-06
+- Matière : FINANCES
+- Objet : Budget primitif de la commune pour l’exercice 2025.
+- Transmis à la préfecture : 2025-02-14
+- Votants : 46
+- Pour : 39
+- Contre : 7
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI1NDksInB1ciI6ImJsb2JfaWQifX0=--cdac49a4811b79f719e28b77401af5789f66ac30/6%20-%20FIN%20-%20BP%202025.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
