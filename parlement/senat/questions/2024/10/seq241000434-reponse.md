@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000434
+
+- Question : [SEQ241000434](seq241000434.md) — Versement de la Prime Exceptionnelle de Pouvoir d'Achat
+
+## Réponse
+
+*Action publique, fonction publique et simplification , JO du 2025-02-06, page 390*
+
+Le décret n° 2023-702 du 31 juillet 2023 a créé une prime de pouvoir d'achat exceptionnelle (PPAE) destinée aux agents publics de la fonction publique de l'État et de la fonction publique hospitalière ainsi qu'aux militaires. Cette prime exceptionnelle vise à compenser les effets d'une inflation encore élevée au cours de l'année 2023 et vient compléter les mesures générales de revalorisation des rémunérations des agents publics dont la mise en oeuvre est intervenue à compter du 1er juillet 2023. Les agents percevant une rémunération brute inférieure ou égale à 39 000 euros (soit 3 250 euros mensuels) entre le 1er juillet 2022 et le 30 juin 2023 sont éligibles à la prime dont le montant est compris entre 300 et 800 euros. La PPAE est fiscalisée et intégrée au revenu de référence pris en compte pour déterminer le montant versé au titre des prestations auxquelles les agents sont susceptibles d'être éligibles. Ainsi, la prime de pouvoir d'achat exceptionnelle entre en compte dans le montant de la rémunération qui détermine le calcul de la prime d'activité. Par ailleurs, la prime de pouvoir d'achat exceptionnelle est intégrée dans les éléments de rémunération compris dans le salaire de référence pris en compte pour calculer l'allocation de retour à l'emploi (ARE). En effet, cette prime est versée au titre d'un emploi exercé au cours de la période du 1er juillet 2022 au 30 juin 2023. Dès lors, si, dans la période prise comme référence pour le calcul de l'ARE (24 à 36 mois avant la fin de la relation de travail, selon l'âge), figure le mois de juin 2023, la PPAE intègrera alors le salaire de référence, même si son versement intervient postérieurement à cette date.
