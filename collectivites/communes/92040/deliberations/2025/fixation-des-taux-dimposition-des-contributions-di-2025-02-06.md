@@ -1,0 +1,14 @@
+# Ville d'Issy-les-Moulineaux : délibération — Fixation des taux d’imposition des contributions directes locales - Année 2025.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-02-06
+- Matière : FINANCES
+- Objet : Fixation des taux d’imposition des contributions directes locales - Année 2025.
+- Transmis à la préfecture : 2025-02-14
+- Votants : 45
+- Pour : 42
+- Contre : 3
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI1NTAsInB1ciI6ImJsb2JfaWQifX0=--7b561d10b358e90d984b5d26584d7f554b3a963f/7%20-%20FIN%20-%20Taux%20d'imposition%202025.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
