@@ -41,3 +41,13 @@ La plateforme ouverte des données publiques de l'Etat est mise en relation avec
 Raison sociale de l'organisme de formation
 
 Adresse de l'organisme de formation (sous réserve de consentement) |
+
+Système d'information du compte personnel de formation
+
+|
+
+Le système d'information du compte personnel de formation est mis en relation avec le traitement automatisé Mon Activité formation, pour l'accomplissement des finalités mentionnées au 1° bis et 4° bis de l'article R. 6323-33 du code du travail. |
+
+Raison sociale de l'organisme de formation
+
+Adresse de l'organisme de formation (sous réserve de consentement) |
