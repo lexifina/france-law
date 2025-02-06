@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000594
+
+- Question : [SEQ241000594](seq241000594.md) — Portée de l'article R412-127 du code des communes
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-02-06, page 412*
+
+Le premier alinéa de l'article 2 du décret n° 92-850 du 28 août 1992 portant statut particulier du cadre d'emplois des agents territoriaux spécialisés des écoles maternelles (ATSEM) rappelle que les ATSEM sont chargés de l'assistance au personnel enseignant pour l'accueil et l'hygiène des enfants des classes maternelles ou enfantines ainsi que de la préparation et la mise en état de propreté des locaux et du matériel servant directement à ces enfants. La compétence de création des classes d'école maternelle et d'école primaire appartient au conseil municipal (article L. 2121-30 du code général des collectivités territoriales). La classe ou la section enfantine est une annexe de l'école maternelle ou de l'école primaire élémentaire (article L. 113-1 du code de l'éducation). Par conséquent, la création d'une classe ou d'une section enfantine relève également de la compétence du conseil municipal, en lien avec le directeur académique des services de l'éducation nationale du département, concernant la nomination des enseignants. L'article R. 412-127 du code des communes prévoit expressément que toute classe maternelle doit bénéficier des services d'un agent occupant l'emploi d'agent spécialisé des écoles maternelles et des classes enfantines. Le recrutement et l'affectation des ATSEM relèvent de la seule compétence du maire, en concertation avec le directeur de l'école, qui donne son avis. La classe enfantine accueillant des élèves d'école maternelle et d'école primaire, il convient que le conseil municipal affecte un ATSEM pour l'accueil des enfants d'âge maternel dans la classe enfantine.
