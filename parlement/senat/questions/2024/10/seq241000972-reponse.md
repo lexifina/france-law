@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000972
+
+- Question : [SEQ241000972](seq241000972.md) — Avenir de la journée de défense et citoyenneté
+
+## Réponse
+
+*Armées, JO du 2025-02-06, page 437*
+
+La nécessité de renforcer la cohésion et la résilience nationales met en évidence l'intérêt de la journée défense et citoyenneté (JDC) comme dispositif unique, obligatoire et universel pour les jeunes Français. Face aux enjeux d'attractivité des armées et de mobilisation des compétences utiles à la Nation, le ministre des armées a donné mandat au directeur du service national et de la jeunesse pour rénover ce moment du parcours citoyen. La JDC « nouvelle génération » sera ainsi recentrée sur la défense du pays, avec une sensibilisation accrue aux enjeux mémoriels mais aussi au rôle de nos armées et au fonctionnement de notre modèle de défense. Elle sera également plus immersive pour permettre à chaque appelé d'être acteur de sa journée, et non plus spectateur. Le contenu de cette journée évoluera donc vers une animation plus dynamique, originale et participative au travers d'échanges avec les militaires dans différents ateliers. Par ailleurs, le sentiment d'appartenance à la Nation étant plus fort au contact des valeurs communes et des symboles, le chant de l'hymne national et la levée des couleurs seront systématisés lors de cette journée. Ce dispositif favorisera aussi l'identification des compétences et le maintien du contact avec les jeunes par la mise à disposition d'une application dédiée. Enfin, plusieurs mesures seront étudiées afin que les armées puissent être davantage au contact des jeunes dans les territoires dépourvus d'unités militaires et les quartiers prioritaires de la ville. Ces défis seront relevés en articulation avec l'évolution du service national universel, auquel le ministère des armées contribue, lors des séjours de cohésion, en animant la journée défense et mémoire nationale.
