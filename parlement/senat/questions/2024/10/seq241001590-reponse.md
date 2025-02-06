@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001590
+
+- Question : [SEQ241001590](seq241001590.md) — Produit des amendes de police
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-02-06, page 425*
+
+Les départements, les communes et les EPCI à fiscalité propre d'Ile-de-France font l'objet une minoration du produit des amendes qui leur est reversé. Cette minoration correspond à un versement annuel au bénéfice d'Ile-de-France Mobilités (IDFM) et de la région Ile-de-France (RIF), figé depuis 2018, suite à la dépénalisation du stationnement payant mise en oeuvre en 2017. Si cette minoration est supérieure au montant du produit des amendes de police attribué à la collectivité, la différence est prélevée sur sa fiscalité. Ce prélèvement est nécessaire dans la mesure où il vise à reverser, comme cela était le cas avant la réforme du stationnement payant, une portion du produit des amendes de police à des organismes qui ne sont pas en mesure de mettre en place le forfait post-stationnement (Ile-de-France Mobilités et à la région Ile-de-France) et qui sont pourtant fortement impliqués dans le développement des transports dans la région capitale. Dès lors, mettre fin à ce prélèvement reviendrait à ne plus garantir un niveau de ressource suffisant et stabilisé, au titre du produit des amendes de police, à ces deux organismes. Par ailleurs, il n'est pas établi que les prélèvements effectués au profit de ces deux organismes se traduisent par des pertes de recettes pour les communes, qui depuis la réforme du stationnement payant, ont bénéficié, à la fois, de la mise en oeuvre du forfait post-stationnement et d'une hausse conséquente et régulière depuis la crise du Covid 19, du produit des amendes de police qui leur est reversé. Ainsi, en 2023, le produit des amendes de police reversé aux collectivités hors stationnement payant (738 Meuros) a quasiment atteint le montant reversé en 2017 (743 Meuros) avec le stationnement payant.
