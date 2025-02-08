@@ -384,7 +384,7 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-LOGISTIQUE |
+LOGISTIQUE (dernière session 2027) |
 
 Arrêté du 3 juin 2010 modifié |
 
@@ -535,6 +535,18 @@ Arrêté du 28 septembre 2023 |
 PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
+
+Métiers de la logistique
+
+(première session 2028)
+
+|
+
+Arrêté du 8 janvier 2025 |
+
+SERVICES |
+
+Economie-droit/ Langue vivante B |
 
 MÉTIERS DE LA MODE-VÊTEMENTS (dernière session 2026-session supplémentaire 2027) |
 
