@@ -1,0 +1,9 @@
+# Réponse à la question n° 56
+
+- Question : [56](56.md) — Question n° 56 — Déficit notoriété n° d'urgence 114 réservé aux personnes sourdes/malentendantes
+
+## Réponse
+
+*JO du 2025-02-11, page 793*
+
+Le 114 est un numéro d'urgence unique, national et gratuit, accessible sous plusieurs formats (application, site internet, téléphone, visio, tchat, images, fax et SMS). Des agents, sourds ou entendants, gèrent la situation en lien direct avec le service d'urgence (SAMU, sapeurs-pompiers, police, gendarmerie) le plus proche. Pour assurer l'effectivité de ce service auprès des quelques sept millions de personnes déficientes auditives en France (sourds profonds, sourds d'une oreille, devenus sourds, malentendants, personnes âgées atteintes de presbyacousie etc.) et des 450 000 personnes en incapacité d'utiliser le téléphone du fait de leur handicap, les pouvoirs publics se sont mobilisés pour promouvoir cette ligne d'urgences dédiée. Un kit de communication est ainsi proposé pour informer le public concerné par ce service et expliquer son mode d'emploi en fonction du type de difficulté rencontré par la personne. Une vidéo explicative permet de présenter les modalités et le déroulé des interventions du 114. Pour renforcer le service rendu, une dynamique de développement de la notoriété du 114 et de la formation de tous les secteurs d'urgence concernés est engagée. Des ateliers de co-construction organisés en 2023 avec les différents publics cibles ont permis de tester la perception de la notoriété de la plateforme et la compréhension globale de son fonctionnement et ainsi de faire évoluer les outils d'information. Deux campagnes de communication (médias, presse, réseaux sociaux) ont été soutenues en 2024 pour promouvoir le dispositif et se poursuivront en 2025, afin de maintenir la visibilité du 114 tout au long de l'année et de renforcer la connaissance du grand public et de manière plus ciblée vers les services de secours.
