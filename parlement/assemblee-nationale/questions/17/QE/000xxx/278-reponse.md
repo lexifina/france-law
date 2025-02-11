@@ -1,0 +1,9 @@
+# Réponse à la question n° 278
+
+- Question : [278](278.md) — Question n° 278 — Revente en surplus de l'électricité produite par panneaux solaires
+
+## Réponse
+
+*JO du 2025-02-11, page 821*
+
+Les modalités du soutien de l'État à l'installation de panneaux solaires de moins de 9 kWc sur des bâtiments sont définies par l'arrêté du 6 octobre 2021. Lorsque le producteur choisit d'autoconsommer l'électricité produite par son installation, il bénéficie d'une prime à l'investissement, dont le montant est fixé par l'arrêté, et de la possibilité de revendre à un acheteur obligé l'électricité produite en surplus, à un tarif également fixé par l'arrêté. Ce dispositif permet aux producteurs de réduire leur facture d'électricité en consommant l'électricité produite par leur installation. Ils réduisent ainsi la quantité d'électricité achetée auprès de leur fournisseur et sont protégés des variations des prix de marché. La revente d'électricité peut également leur permettre des revenus supplémentaires, mais qui ne sont pas l'objectif de ce dispositif pour les petits particuliers. Depuis le 1er novembre 2022, le prix d'achat du surplus est indexé par un coefficient qui prend en compte l'évolution du coût de la dette, des prix des matières premières, de la production industrielle et de la main d'œuvre. Il s'agit là d'une des mesures d'urgence prises par le gouvernement dès 2022 pour maintenir le développement du photovoltaïque pour les particuliers, malgré l'augmentation des coûts. Les montants des tarifs d'achat du surplus pour la tranche 0 à 9 kilowatt crète (kWc) sont publiés sur le site internet de la Commission de régulation de l'énergie (CRE). A titre d'exemple, pour les installations dont la demande complète de raccordement au réseau a été effectuée entre le 1er novembre 2024 et le 31 janvier 2025, le tarif est 12,69 c€/kWh.
