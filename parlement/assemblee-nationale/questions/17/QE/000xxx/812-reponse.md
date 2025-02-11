@@ -1,0 +1,9 @@
+# Réponse à la question n° 812
+
+- Question : [812](812.md) — Question n° 812 — Réemploi des voitures
+
+## Réponse
+
+*JO du 2025-02-11, page 838*
+
+Les transports étaient responsables en 2022 de 31 % des émissions françaises de gaz à effet de serre (GES), ce qui en fait le secteur le plus émetteur. A elles seules, les voitures particulières sont responsables de plus de la moitié du total de ces émissions. Le transport routier est également un émetteur majeur de polluants atmosphériques locaux (particules fines et dioxydes d'azote en particulier). Afin d'accélérer la mise au rebut des véhicules les plus polluants et leur remplacement par des véhicules performants en la matière, une prime à la conversion des véhicules a été mise en place en 2015. La loi n° 2024-310 du 5 avril 2024 visant à favoriser le réemploi des véhicules devait permettre aux autorités organisatrices de la mobilité (AOM) de récupérer gratuitement des véhicules destinés à être mis au rebut dans le cadre de la prime à la conversion, afin de développer des services de mobilité solidaire. Un décret devait préciser les modalités d'application de cette loi. Cependant, dans un contexte budgétaire contraint et dans une volonté de rationaliser le nombre de dispositifs et de cibler le soutien de l'Etat sur l'acquisition de véhicules électriques neufs pour soutenir l'atteinte de nos objectifs environnementaux, le Gouvernement français a fait le choix fort de maintenir une aide à l'achat de voitures 100% électriques pour les particuliers, mais a supprimé la prime à la conversion, dans le cadre du décret n° 2024-1084 du 29 novembre 2024 relatif aux aides à l'achat ou à la location de véhicules peu polluants. En l'état, la loi susmentionnée ne pourra donc pas faire l'objet de la prise d'un décret d'application, la suppression de la prime à la conversion rendant inapplicable le dispositif de réemploi.
