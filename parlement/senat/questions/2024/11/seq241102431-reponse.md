@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241102431
+
+- Question : [SEQ241102431](seq241102431.md) — Gestion du patrimoine archéologique des territoires d'outre-mer
+
+## Réponse
+
+*Culture, JO du 2025-02-13, page 604*
+
+La préservation et la valorisation du patrimoine archéologique dans les territoires d'outre-mer est un enjeu essentiel pour le ministère de la culture. Ces territoires, en raison de leur richesse culturelle et historique exceptionnelle, mais aussi de leur vulnérabilité aux risques naturels et aux pressions liées aux aménagements, nécessitent une attention particulière et des actions adaptées. La programmation nationale de la recherche archéologique traduit cette priorité pour ces territoires à travers une problématique de recherche dédiée dans l'axe 15 « Territoires maritimes, fluviaux et lacustres ». Par ailleurs, les directions des affaires culturelles (DAC) et le département des recherches archéologiques subaquatiques et sous-marines sont particulièrement mobilisés sur ces questions. Comme dans l'ensemble du territoire national, les DAC sont intégrées dans le processus d'instruction des projets d'aménagement au titre de l'archéologie préventive. Une collaboration renforcée entre les DAC et les collectivités territoriales ne peut qu'être encouragée, notamment dans le cadre de la procédure d'archéologie préventive, afin d'améliorer le cas échéant la transmission des projets de travaux. Il en est de même pour la conservation et la valorisation du patrimoine archéologique. Le ministère de la culture a également engagé des actions pour la protection de ce patrimoine, à travers par exemple la convention passée entre la direction générale des patrimoines et de l'architecture et la direction générale de la Gendarmerie nationale en 2022, qui permet de renforcer la coopération entre les directions régionales des affaires culturelles et la Gendarmerie nationale.
