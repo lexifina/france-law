@@ -2,13 +2,15 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 31 janvier 2025 :
+Jusqu'au 30 avril 2025 :
+
+Saint-Denis de La Réunion-Johannesburg (Afrique du Sud).
+
+Jusqu'au 30 juin 2025 :
 
 Dzaoudzi-Moroni (Comores) exploitée exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires ;
 
 Saint-Denis de La Réunion-Bangkok (Thaïlande) ;
-
-Saint-Denis de La Réunion-Johannesburg (Afrique du Sud) ;
 
 Saint-Denis de La Réunion-Perth (Australie) exploitée exclusivement, au-delà de Port-Louis (Maurice), dans le cadre d'une opération de partage de codes avec une compagnie mauricienne disposant des autorisations nécessaires ;
 
@@ -29,6 +31,12 @@ Saint-Denis de La Réunion-Moroni (Comores) exploitée exclusivement, au-delà d
 Saint-Denis de La Réunion-Rodrigues (Maurice) ;
 
 Saint-Pierre de La Réunion-Port Louis (Maurice).
+
+Pour du transport de fret uniquement et exclusivement dans le cadre de l'exploitation de la liaison Mayotte-Paris :
+
+Mayotte-Nairobi ;
+
+Nairobi-Paris.
 
 Jusqu'au 31 octobre 2026 :
 
