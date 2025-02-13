@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000309
+
+- Question : [SEQ241000309](seq241000309.md) — Avenir des chasses traditionnelles
+
+## Réponse
+
+*Transition écologique, biodiversité, forêt, mer et pêche, JO du 2025-02-13, page 615*
+
+La palome ou pigeon ramier (Columba palumbus), peut être chassée dans le Sud-Ouest, comme dans le reste de la France, à partir de la date d'ouverture générale de la chasse, conformément à l'article 1er de l'arrêté du 24 mars 2006 relatif à l'ouverture de la chasse aux oiseaux de passage et au gibier d'eau. La chasse à la palombe ferme le 10 février, conformément à l'article 1er de l'arrêté du 19 janvier 2009 relatif aux dates de fermeture de la chasse aux oiseaux de passage et au gibier d'eau. L'arrêté du 3 avril 2012 permet aux préfets de classer le pigeon ramier parmi les espèces susceptibles d'occasionner des dégâts (ESOD), ce qui est le cas dans les départements du Sud-Ouest (Lot-et-Garonne, Pyrénées-Atlantiques, Gers, Gironde et Landes). Ainsi, le pigeon ramier peut alors être « détruit » à tir entre la date de clôture de le chasse (10 février) et le 31 mars. Le préfet peut, en outre, prolonger cette période de destruction à tir jusqu'au 31 juillet, sur autorisation préfectorale individuelle. En complément des actions de chasse et de destruction par voie de tir, le pigeon ramier, classé ESOD dans tous les départements concernés, peut également être chassé à l'aide de filets dans les départements du Sud-Ouest, de l'ouverture de la chasse au 20 novembre inclus, en application des arrêtés ministériels en vigueur, comme celui du 11 août 2006 relatif à la chasse des colombidés au moyen de filets (Gers), ou encore celui du 10 septembre 2007 (Pyrénées-Atlantiques). La France répond, avec les données fournies par les instances cynégétiques, à l'ensemble des questions posées par la Commission européenne sur cette pratique qui n'a pas fait l'objet d'un contentieux formalisé à ce jour.
