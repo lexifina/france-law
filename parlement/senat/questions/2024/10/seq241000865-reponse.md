@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000865
+
+- Question : [SEQ241000865](seq241000865.md) — Tarifs de revente d'électricité photovoltaïque par les agriculteurs
+
+## Réponse
+
+*Industrie et énergie, JO du 2025-02-13, page 610*
+
+En l'état actuel de la réglementation, il est possible pour les installations photovoltaïques sur bâtiments agricoles de souscrire des contrats selon les modalités de l'arrêté tarifaire S21 (arrêté du 6 octobre 2021 fixant les conditions d'achat de l'électricité produite par les installations implantées sur bâtiment, hangar, ou ombrière utilisant l'énergie solaire photovoltaïque, d'une puissance crête installée inférieure ou égale à 500 kW). Cet arrêté prévoit différentes tranches (0-3, 3-9, 9-36, 36-100 et 100-500 kWc) pour lesquelles il est possible de souscrire un contrat de vente en totalité ou de vente en surplus. Le second cas revient à choisir d'autoconsommer en partie la production d'électricité. Les installations d'une puissance supérieure à 500 kWc peuvent candidater aux appels d'offres de la Commission de régulation de l'énergie (CRE) portant sur la réalisation et l'exploitation d'installations de production d'électricité à partir de l'énergie solaire. Un projet d'arrêté permettant de soutenir, par le biais d'un guichet tarifaire ouvert, les projets photovoltaïques au sol de puissance inférieure à 1 MWc est en préparation, et a été soumis cet été aux consultations obligatoires (Conseil supérieur de l'énergie et CRE). Par ailleurs, à la suite de la publication du décret n° 2024-318 du 8 avril 2024, prévoyant l'application des dispositions de l'article 54 de la loi APER relatives à l'agrivoltaïsme, une réflexion associant le monde agricole est en cours pour ajuster les mécanismes de soutien public à la filière agrivoltaïque, du fait de ses spécificités.
