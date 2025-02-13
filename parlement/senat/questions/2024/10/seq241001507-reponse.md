@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001507
+
+- Question : [SEQ241001507](seq241001507.md) — Durée de validité d'un devis
+
+## Réponse
+
+*Commerce, artisanat, PME, économie sociale et solidaire, JO du 2025-02-13, page 603*
+
+Lorsque le devis litigieux ne comporte aucun délai d'exécution, il est constant en jurisprudence que le devis doit être exécuté dans un « délai raisonnable [1] ». La première chambre civile de la Cour de cassation a confirmé sa jurisprudence constante en 2022 et a rappelé « qu'en l'absence de stipulation d'un délai d'exécution, l'entreprise est tenue de livrer les travaux qui lui ont été confiés dans un délai raisonnable dont le point de départ est la date du devis [2] ». Ce « délai raisonnable » n'est pas défini ou quantifié de manière uniforme dans les textes législatifs, réglementaires ou par la jurisprudence. Ce délai raisonnable relève de l'appréciation souveraine des juges du fond sur la base de critères objectifs, notamment des usages, de la nature des travaux ou des prestations concernés [3]. Il est ainsi observé dans les faits des délais variables, suivant lesdits critères objectifs et du cas d'espèce. Ainsi par exemple, le tribunal judiciaire de Bordeaux par un jugement du 2 septembre 2024 a précisé que l'entrepreneur individuel « n'a pas indiqué dans le devis de date de début des travaux et de délai d'intervention, n'a pas davantage respecté les délais raisonnables, au regard d'une jurisprudence constante qui se situe entre un et trois mois pour réaliser les travaux [4] ». Cette appréciation n'est toutefois pas limitative et reste spécifique aux faits de l'espèce qui ne s'applique pas à toutes les situations juridiques. [1] Cass. 3ème civ., 16 mars 2011, n° 10-14051 [2] Cass. 1re civ., 9 novembre 2022, n° 21-17.205 [3] Cass. 3ème civ., 29 septembre 2016, n° 15-18.238 [4] Tribunal Judiciaire de Bordeaux, 2 septembre 2024, nº 24/01002
