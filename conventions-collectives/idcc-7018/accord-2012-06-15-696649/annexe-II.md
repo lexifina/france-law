@@ -4,7 +4,7 @@ Annexe II
 
 Tableaux des garanties santé
 
-Les prestations du présent contrat respectent l'ensemble des obligations liées aux contrats « solidaires et responsables ».
+Les prestations du présent contrat respectent l'ensemble des obligations liées aux contrats “ solidaires et responsables ”.
 
 Aussi, il ne prend pas en charge les pénalités appliquées en cas de non-respect du parcours de soins (majoration du ticket modérateur et dépassements d'honoraires autorisés), de même que la participation forfaitaire et les franchises médicales mentionnées à l'article L. 160-13 du code de la sécurité sociale.
 
@@ -12,14 +12,6 @@ Il répond également aux exigences de prise en charge mentionnées aux articles
 
 Le montant total des remboursements ne peut excéder les frais réellement engagés.
 
-Tableau des prestations santé hors Alsace-Moselle
-
 (Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)
 
-https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230005 _ 0000 _ 0044. pdf/ BOCC
-
-Tableau des prestations santé Alsace-Moselle
-
-(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)
-
-https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230005 _ 0000 _ 0044. pdf/ BOCC
+https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20250002 _ 0000 _ 0050. pdf/ BOCC
