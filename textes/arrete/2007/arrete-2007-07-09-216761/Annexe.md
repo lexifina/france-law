@@ -14,35 +14,17 @@ France métropolitaine-Arménie ;
 
 France métropolitaine-Albanie ;
 
-France métropolitaine-Monténégro.
+France métropolitaine-Monténégro ;
 
-France métropolitaine-Royaume-Uni.
+France métropolitaine-Royaume-Uni ;
+
+France métropolitaine-Géorgie ;
+
+France métropolitaine-Serbie ;
+
+France métropolitaine-Moldavie.
 
 2. Liaisons internationales extracommunautaires :
-
-Jusqu'au 13 février 2025
-
-Lyon-Bejaïa (Algérie) ;
-
-Lyon-Constantine (Algérie) ;
-
-Lyon-Oran (Algérie) ;
-
-Paris-Alger (Algérie) ;
-
-Paris-Oran (Algérie) ;
-
-Paris-Bejaïa (Algérie) ;
-
-Paris-Constantine (Algérie) ;
-
-Paris-Sétif (Algérie) ;
-
-Paris-Tlemcen (Algérie) ;
-
-Paris-Beyrouth (Liban), dans la limite de sept (7) fréquences hebdomadaires ;
-
-Lyon-Beyrouth (Liban), dans la limite de deux (2) fréquences hebdomadaires ;
 
 Jusqu'au 31 mars 2025
 
@@ -255,3 +237,31 @@ Lyon-Djeddah (Arabie Saoudite) ;
 Marseille-Sal (Cap-Vert) ;
 
 Lyon-Sal (Cap-Vert).
+
+Jusqu'au 31 janvier 2030 :
+
+Lyon-Bejaïa (Algérie) ;
+
+Lyon-Constantine (Algérie) ;
+
+Lyon-Oran (Algérie) ;
+
+Paris-Alger (Algérie) ;
+
+Paris-Oran (Algérie) ;
+
+Paris-Bejaïa (Algérie) ;
+
+Paris-Constantine (Algérie) ;
+
+Paris-Sétif (Algérie) ;
+
+Paris-Tlemcen (Algérie) ;
+
+Paris-Beyrouth (Liban), dans la limite de sept (7) fréquences hebdomadaires ;
+
+Lyon-Beyrouth (Liban), dans la limite de deux (2) fréquences hebdomadaires.
+
+Jusqu'au 31 janvier 2028 :
+
+Strasbourg-Istanbul (Turquie).
