@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001478
+
+- Question : [SEQ241001478](seq241001478.md) — Aides aux étudiants par alternance dans les collectivités territoriales
+
+## Réponse
+
+*Travail et emploi, JO du 2025-02-13, page 640*
+
+Un dispositif de prise en charge des frais de formation des apprentis recrutés par les employeurs territoriaux a été mis en place par la loi, au bénéfice entre autres des communes. L'article L. 451-11 du code général de la fonction publique dispose en effet que le Centre national de la fonction publique territoriale (CNFPT) verse aux centres de formation d'apprentis les frais de formation des apprentis employés par les collectivités territoriales et leurs établissements. Le CNFPT bénéficie pour exercer cette mission d'un dispositif de financement pérenne, à savoir une cotisation versée par les employeurs territoriaux, assise sur leur masse salariale et dont le taux est fixé annuellement par le conseil d'administration du CNFPT, dans la limite d'un plafond de 0,1 %. A cette cotisation peuvent s'ajouter des contributions de France Compétences et de l'Etat. Dans le cadre de la convention d'objectifs et de moyens couvrant les exercices 2023 à 2025 entre l'Etat et le CNFPT, il est prévu que la contribution de l'Etat peut atteindre 15 millions d'euros pour chacune des années. La commune qui conclut un contrat d'apprentissage peut ainsi présenter au CNFPT une demande de prise en charge des frais de formation liés à ce contrat, selon les modalités arrêtées par l'établissement public et dans les limites des ressources qui sont affectées à cette mission. A l'instar des employeurs du secteur privé, les collectivités territoriales qui recrutent un apprenti disposent donc d'une prise en charge des frais de formation qui est assurée par une contribution mutualisée de ces collectivités en tant qu'employeur et partiellement par un soutien de l'Etat.
