@@ -40,9 +40,7 @@ Montpellier-Djerba (Tunisie) ;
 
 Montpellier-Monastir (Tunisie) ;
 
-Montpellier-Tunis (Tunisie) ;
-
-Paris-Moscou (Russie), dans la limite de sept fréquences hebdomadaires.
+Montpellier-Tunis (Tunisie).
 
 Jusqu'au 31 octobre 2025
 
@@ -236,7 +234,7 @@ Lyon-Djeddah (Arabie Saoudite) ;
 
 Marseille-Sal (Cap-Vert) ;
 
-Lyon-Sal (Cap-Vert).
+Lyon-Sal (Cap-Vert) ;
 
 Jusqu'au 31 janvier 2030 :
 
@@ -265,3 +263,13 @@ Lyon-Beyrouth (Liban), dans la limite de deux (2) fréquences hebdomadaires.
 Jusqu'au 31 janvier 2028 :
 
 Strasbourg-Istanbul (Turquie).
+
+Jusqu'au 31 janvier 2030 :
+
+Marseille-Annaba (Algérie) ;
+
+Marseille-Sétif (Algérie).
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 14 janvier 2025 (NOR : ATDA2435448A), ces dispositions entrent en vigueur le 14 février 2025.
