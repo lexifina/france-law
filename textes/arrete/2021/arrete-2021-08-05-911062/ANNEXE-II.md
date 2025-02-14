@@ -66,8 +66,6 @@ La liste des cycles de formation dénommés " Prépas Talents " mentionnés à l
 
 -Prépa Talents gendarmerie de Montpellier ;
 
--Prépa Talents “ métiers de l'administration et de la justice ” de l'université d'Aix-Marseille ;
-
 -Prépa Talents inspecteur des finances publiques de l'université de Picardie Jules Verne ;
 
 -Prépa Talents concours de catégorie A du ministère de l'économie et des finances de l'université Paris 1 Panthéon -Sorbonne, E-prépa ;

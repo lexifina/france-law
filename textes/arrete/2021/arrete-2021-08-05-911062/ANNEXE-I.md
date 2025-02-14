@@ -74,4 +74,6 @@ La liste des cycles de formation dénommés "Prépas Talents" mentionnés à l'a
 
 - Prépa Talents de l'université de Mayotte ;
 
-- Prépa Talents de l'université Paris Dauphine-PSL.
+- Prépa Talents de l'université Paris Dauphine-PSL ;
+
+- Prépa Talents “ métiers de l'administration et de la justice ” de l'université d'Aix-Marseille.
