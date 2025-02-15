@@ -506,15 +506,15 @@ Les prélèvements de sol doivent être effectués dans un rayon de 7,50 mètres
 
 - à la même époque de l'année que la première analyse et au même point de prélèvement.
 
-Les modalités d'exécution des prélèvements élémentaires et de constitution et de conditionnement des échantillons sont conformes à la norme NF X 31 100.
+Les modalités d'exécution des prélèvements élémentaires et de constitution et de conditionnement des échantillons sont conformes à la norme NF X 31 100 : 2020, ou à toute autre méthode permettant l'obtention de résultats d'une qualité équivalente.
 
 Méthodes de préparation et d'analyse des sols :
 
-La préparation des échantillons de sols en vue d'analyse est effectuée selon la norme NF ISO 11464 (décembre 1994). L'extraction des éléments-traces métalliques Cd, Cr, Cu, Ni, Pb et Zn et leur analyse est effectuée selon la norme NF X 31-147 (juillet 1996). Le pH est effectué selon la norme NF ISO 10390 (novembre 1994).
+La préparation des échantillons de sols en vue d'analyse est effectuée selon la norme NF ISO 11464 : 2006 ou toute autre méthode permettant l'obtention de résultats d'une qualité équivalente. L'extraction des éléments-traces métalliques Cd, Cr, Cu, Ni, Pb et Zn et leur analyse est effectuée selon la norme NF X 31-147 : 1996 ou toute autre méthode permettant l'obtention de résultats d'une qualité équivalente.
 
 Echantillonnage des effluents et des déchets :
 
-Les méthodes d'échantillonnage peuvent être adaptées en fonction des caractéristiques du déchet ou de l'effluent à partir des normes suivantes :
+Les méthodes d'échantillonnage peuvent être adaptées en fonction des caractéristiques du déchet ou de l'effluent à partir des normes suivantes ou toute autre méthode permettant l'obtention de résultats d'une qualité équivalente :
 
 - NF U 44-101 : produits organiques, amendements organiques, support de culture-échantillonnage ;
 

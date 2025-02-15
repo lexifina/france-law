@@ -242,7 +242,9 @@ e) Ouvrages d'entreposage :
 
 Les ouvrages permanents d'entreposage de déchets ou d'effluents sont dimensionnés pour faire face aux périodes où l'épandage est soit impossible, soit interdit par l'étude préalable. De plus, l'exploitant identifie les installations de traitement du déchet ou de l'effluent auxquelles il peut faire appel en cas de dépassement de ces capacités de stockage du déchet ou effluent.
 
-Toutes dispositions sont prises pour que les dispositifs d'entreposage ne soient pas source de gêne ou de nuisances pour le voisinage et n'entraînent pas de pollution des eaux ou des sols par ruissellement ou infiltration. Le déversement dans le milieu naturel des trop-pleins des ouvrages d'entreposage est interdit. Les ouvrages d'entreposage à l'air libre sont interdits d'accès aux tiers non autorisés.
+Toutes dispositions sont prises pour que les dispositifs d'entreposage ne soient pas source de gêne ou de nuisances pour le voisinage et n'entraînent pas de pollution des eaux ou des sols par ruissellement ou infiltration.
+
+Le déversement dans le milieu naturel des trop-pleins des ouvrages d'entreposage est interdit. Les ouvrages d'entreposage à l'air libre sont interdits d'accès aux tiers non autorisés.
 
 Le dépôt temporaire de déchets, sur les parcelles d'épandage et sans travaux d'aménagement, n'est autorisé que lorsque les cinq conditions suivantes sont simultanément remplies :
 
@@ -656,9 +658,7 @@ Chrome + cuivre + nickel + zinc
 
 |
 
-Point II. - Eléments de caractérisation de la valeur
-
-agronomique des déchets ou des effluents et des sols
+Point II. - Eléments de caractérisation de la valeur agronomique des déchets ou des effluents et des sols
 
 1. Analyses pour la caractérisation de la valeur agronomique des déchets ou des effluents destinés à l'épandage :
 
@@ -696,15 +696,15 @@ Les prélèvements de sol doivent être effectués dans un rayon de 7,50 mètres
 
 - à la même époque de l'année que la première analyse et au même point de prélèvement.
 
-Les modalités d'exécution des prélèvements élémentaires et de constitution et de conditionnement des échantillons sont conformes à la norme NF X 31 100.
+Les modalités d'exécution des prélèvements élémentaires et de constitution et de conditionnement des échantillons sont conformes à la norme NF X 31 100 : 2020, ou à toute autre méthode permettant l'obtention de résultats d'une qualité équivalente.
 
 Méthodes de préparation et d'analyse des sols :
 
-La préparation des échantillons de sols en vue d'analyse est effectuée selon la norme NF ISO 11464 décembre 1994). L'extraction des éléments-traces métalliques Cd, Cr, Cu, Ni, Pb et Zn et leur analyse est effectuée selon la norme NF X 31-147 (juillet 1996). Le pH est effectué selon la norme NF ISO 10390 (novembre 1994).
+La préparation des échantillons de sols en vue d'analyse est effectuée selon la norme NF ISO 11464 : 2006 ou toute autre méthode permettant l'obtention de résultats d'une qualité équivalente. L'extraction des éléments-traces métalliques Cd, Cr, Cu, Ni, Pb et Zn et leur analyse est effectuée selon la norme NF X 31-147 : 1996 ou toute autre méthode permettant l'obtention de résultats d'une qualité équivalente
 
 Echantillonnage des effluents et des déchets :
 
-Les méthodes d'échantillonnage peuvent être adaptées en fonction des caractéristiques du déchet ou de l'effluent à partir des normes suivantes :
+Les méthodes d'échantillonnage peuvent être adaptées en fonction des caractéristiques du déchet ou de l'effluent à partir des normes suivantes ou toute autre méthode permettant l'obtention de résultats d'une qualité équivalente :
 
 NF U 44-101 : produits organiques, amendements organiques, support de culture-échantillonnage ;
 
