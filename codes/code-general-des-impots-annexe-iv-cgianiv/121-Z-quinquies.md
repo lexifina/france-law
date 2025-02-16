@@ -1,6 +1,6 @@
 # Article 121 Z quinquies
 
-I. – Les personnes physiques qui résident habituellement dans la Principauté de Monaco, qu'elles soient ou non fiscalement domiciliées en France, souscrivent au service des impôts de Menton les déclarations :
+I. – Les personnes physiques qui résident habituellement dans la Principauté de Monaco, qu'elles soient ou non fiscalement domiciliées en France, souscrivent au service des impôts des particuliers de Nice Est-Ouest-Menton les déclarations :
 
 1° d'impôt sur le revenu ;
 
