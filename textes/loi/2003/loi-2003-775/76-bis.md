@@ -1,6 +1,6 @@
 # Article 76 bis
 
-I. - Les fonctionnaires de l'Etat, les magistrats et les militaires, lors de leur prise de poste à Wallis-et-Futuna, en Polynésie française, à Saint-Pierre-et-Miquelon ou en Nouvelle-Calédonie, peuvent choisir, pour la durée de celui-ci, de cotiser au régime prévu à l'article 76 de la présente loi au delà de la fraction maximale prévue au I du même article 76, sur l'ensemble des éléments de rémunération afférents à leur affectation dans ces territoires et indexés sur leur traitement indiciaire, dans des conditions fixées par décret en Conseil d'Etat.
+I. - Les fonctionnaires de l'Etat, les magistrats et les militaires, peuvent choisir, lors de leur prise de poste à Wallis-et-Futuna, en Polynésie française, à Saint-Pierre-et-Miquelon ou en Nouvelle-Calédonie et pour la durée de leur affectation, de cotiser au régime prévu à l'article 76 de la présente loi, au-delà de la fraction maximale prévue au I du même article 76, sur les indemnités spécifiques à leur affectation dans ces territoires, versées mensuellement et correspondant à une majoration de leur traitement ou de leur solde, dans des conditions fixées par décret en Conseil d'Etat. La liste des indemnités concernées est précisée par décret..
 
 Leur employeur cotise, au même taux que l'agent bénéficiaire, sur l'assiette définie au premier alinéa du présent I.
 
@@ -26,6 +26,10 @@ IV. - Le II est applicable :
 
 1° Aux pensionnés relevant du code des pensions militaires d'invalidité et des victimes de guerre dont la pension prend effet à compter du 1er janvier 2024 et qui justifient d'une résidence effective dans les territoires mentionnés au I sans que les conditions prévues au II leur soient applicables ;
 
-2° Aux agents relevant du code des pensions civiles et militaires de retraite dont la pension prend effet à compter du 1er janvier 2024. La condition de cotisation volontaire mentionnée au 3° du II n'est pas applicable aux fonctionnaires de l'Etat, aux magistrats et aux militaires dont la pension prend effet entre le 1er janvier et le 30 avril 2024.
+2° Aux agents relevant du code des pensions civiles et militaires de retraite dont la pension prend effet à compter du 1er janvier 2024. La condition de cotisation volontaire mentionnée au 3° du II n'est pas applicable aux fonctionnaires de l'Etat, aux magistrats et aux militaires dont la pension prend effet entre le 1er janvier et le 1er mai 2024.
 
-V. - Pour les fonctionnaires de l'Etat, les magistrats et les militaires en activité à Wallis-et-Futuna, en Polynésie française, à Saint-Pierre-et-Miquelon ou en Nouvelle-Calédonie, le droit de cotiser volontairement au régime mentionné au I à compter du 1er avril 2024 est ouvert pendant une période limitée à six mois à compter de la date d'entrée en vigueur du même I.
+V. - Pour les fonctionnaires de l'Etat, les magistrats et les militaires en activité à Wallis-et-Futuna, en Polynésie française, à Saint-Pierre-et-Miquelon ou en Nouvelle-Calédonie, le droit de cotiser volontairement au régime mentionné au I à compter du 1er avril 2024 est ouvert jusqu'au 31 décembre 2025.
+
+NOTA :
+
+Conformément au II de l'article 167 de la loi n° 2025-127 du 14 février 2025, les dispositions issues du 1° du I s'appliquent aux fonctionnaires de l'Etat, aux magistrats et aux militaires dont la prise de poste ou le changement de poste à Wallis-et-Futuna, en Polynésie française, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie intervient à compter du 1er avril 2025. Les dispositions réglementaires d'application du même 1° peuvent prévoir une entrée en vigueur au plus tôt le 1er avril 2025.

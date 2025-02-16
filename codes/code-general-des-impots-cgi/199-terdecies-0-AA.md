@@ -4,7 +4,7 @@ L'article 199 terdecies-0 A s'applique sous les mêmes conditions et sous les m�
 
 1° Les exclusions prévues au 3° du C du I de l'article 199 terdecies-0 A relatives à l'exercice d'une activité financière, de construction d'immeubles ou immobilière ne sont pas applicables aux entreprises solidaires. Toutefois, les exclusions relatives à l'exercice d'une activité immobilière ou de construction d'immeubles sont applicables aux entreprises solidaires, à l'exception :
 
-a) Des entreprises solidaires qui n'exercent pas une activité de gestion immobilière à vocation sociale ;
+a) Des entreprises solidaires qui exercent une activité de gestion immobilière à vocation sociale ;
 
 b) Des entreprises solidaires agréées par le ministre chargé de la culture et ayant pour mission de contribuer à la préservation et à la mise en valeur des monuments historiques et des sites, parcs et jardins protégés ;
 
@@ -18,4 +18,4 @@ c) Elle a besoin d'un investissement initial qui, sur la base d'un plan d'entrep
 
 NOTA :
 
-Conformément au III de l’article 48 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er janvier 2024.
+Conformément au III de l’article 14 de la loi n° 2025-127 du 14 février 2025, le b du 1° du présent article s'applique aux versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de plus de deux mois à la date de la réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne.
