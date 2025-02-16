@@ -2363,3 +2363,49 @@ Immersion dans un bain d'urée à une concentration maximale de 3 % (m/ m). La c
 Cette opération doit être suivie d'un rinçage à l'eau potable. |
 
 Teneur résiduelle maximale d'urée de 40 mg/ kg de végétaux traités |
+
+2-méthyloxolane |
+
+Solvants
+
+d'extraction
+
+|
+
+Beurre de cacao |
+
+Production ou fractionnement de graisses, d'huiles ou de beurre de cacao |
+
+1 mg/ kg dans la graisse ou l'huile ou le beurre de cacao |
+
+2-méthyloxolane |
+
+Solvants
+
+d'extraction
+
+|
+
+Produits à base de protéines dégraissées et de farines dégraissées. |
+
+Préparation de produits à base de protéines dégraissées, de farines dégraissées |
+
+10 mg/ kg dans la denrée alimentaire contenant le produit à base de protéines dégraissées et les farines dégraissées
+
+30 mg/ kg dans les produits dégraissés de soja tels que vendus au consommateur final
+
+|
+
+2-méthyloxolane |
+
+Solvants
+
+d'extraction
+
+|
+
+Germes de céréales dégraissées |
+
+Préparation de germes de céréales dégraissées |
+
+5 mg/ kg dans les germes de céréales dégraissées |
