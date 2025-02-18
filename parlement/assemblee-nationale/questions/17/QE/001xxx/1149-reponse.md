@@ -1,0 +1,9 @@
+# Réponse à la question n° 1149
+
+- Question : [1149](1149.md) — Question n° 1149 — Création d'une filière doctorale en orthophonie
+
+## Réponse
+
+*JO du 2025-02-18, page 1002*
+
+La formation conduisant à la délivrance du certificat de capacité d'orthophoniste confère depuis 2013 le grade de master, première initiation à la recherche. D'autres efforts ont été entrepris par le ministère de l'enseignement supérieur et de la recherche dans le domaine de la recherche concernant l'orthophonie, avec la création de la section 91 intitulée « Sciences de la rééducation/réadaptation » au sein de la liste du Conseil national des universités (CNU). La création d'une filière doctorale dédiée à l'orthophonie ne s'inscrirait pas dans l'organisation actuelle du doctorat en France. En effet, l'article L. 612-7 du code de l'éducation, prévoit que le troisième cycle est une formation à la recherche et par la recherche qui comporte, dans le cadre de formations doctorales, la réalisation individuelle ou collective de travaux scientifiques originaux qui s'inscrivent dans un cadre transversal et pluridisciplinaire. Le rapport conjoint IGAS-IGESR « Ressources humaines et statuts des encadrants et enseignants-chercheurs dans les formations paramédicales universitarisées » de 2023 préconise dans ses recommandations, notamment la recommandation n° 17, d'encourager les universités avec composante santé à créer des spécialités du diplôme national de doctorat en lien notamment avec la section CNU 91 « Sciences de la rééducation/réadaptation ». Cette recommandation permet aux orthophonistes de poursuivre leur exercice clinique tout en contribuant à l'avancée scientifique de la profession et de favoriser la recherche et permettre de réduire le déficit de la France en termes de production scientifique dans ce domaine porteur d'innovation. La création d'une filière doctorale concernant exclusivement l'orthophonie n'est donc pas envisagée.
