@@ -1,0 +1,9 @@
+# Réponse à la question n° 2655
+
+- Question : [2655](2655.md) — Question n° 2655 — Réglementation relative à l'assurance obligatoire des véhicules et PM
+
+## Réponse
+
+*JO du 2025-02-18, page 1010*
+
+Depuis le 1er avril 2024, les conducteurs de véhicules immatriculés ne sont plus obligés d'apposer une vignette d'assurance ou de détenir une carte verte, la vérification de la couverture assurantielle du véhicule se faisant désormais exclusivement par consultation du fichier des véhicules assurés (FVA). Mesure de simplification pour les usagers, la suppression de la carte verte est également destinée à lutter plus efficacement contre les risques de falsification élevés en raison de la faible sécurité des anciens documents d'assurance. Les infractions de non-présentation ou de non-apposition de la vignette sur un véhicule immatriculé ont par conséquent disparu en même temps que l'objet physique. L'obligation d'assurance demeure et la conduite ou la mise en circulation d'un véhicule sans assurance est un délit. Pour être mis en évidence, il nécessite une consultation du FVA, action considérée comme un acte d'enquête. Or, comme l'a rappelé le Conseil Constitutionnel dans sa décision du 20 mai 2021, relative à la loi pour une sécurité globale préservant les libertés, la qualification judiciaire des policiers municipaux et leur subordination hiérarchique au maire ne leur permettent pas d'exercer des attributions en matière délictuelle, tout comme elles ne leur permettent pas de réaliser des actes d'enquête. Par conséquent, en l'état actuel du droit, la consultation du FVA ne peut pas être autorisée aux policiers municipaux. Le « Beauvau des polices municipales », relancé le 21 novembre 2024, a vocation, parmi ses différents chantiers, à examiner ce point et les évolutions possibles.
