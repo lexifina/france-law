@@ -1,0 +1,9 @@
+# Réponse à la question n° 562
+
+- Question : [562](562.md) — Question n° 562 — Éligibilité des particuliers employeurs à la prime de partage de la valeur
+
+## Réponse
+
+*JO du 2025-02-18, page 1060*
+
+Instituée par la loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat, la prime de partage de la valeur remplace la prime exceptionnelle de pouvoir d'achat. Ce dispositif permet aux employeurs de verser à leurs salariés une prime de partage de la valeur exonérée de cotisations et contributions sociales dans la limite de 3 000 €, et jusqu'à 6 000 € pour les entreprises ayant mis en place un dispositif d'intéressement ou de participation volontaire. Au terme du II de l'article 1 de la loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat, les employeurs pouvant verser une prime de partage de la valeur sont ceux mentionnés à l'article L. 3311-1 du code du travail qui peuvent mettre en place un dispositif d'intéressement. Il s'agit des employeurs de droit privé, des établissements publics à caractère industriel et commercial et des établissements publics administratifs lorsqu'ils emploient du personnel de droit privé. Les particuliers-employeurs sont exclus du champ d'application de l'intéressement. A ce champ d'application, il a été ajouté les établissements ou services d'aide par le travail pour les travailleurs handicapés bénéficiant d'un contrat de soutien et d'aide par le travail. Lorsque le Bulletin officiel de la sécurité sociale indique que « l'ensemble des salariés titulaires d'un contrat de travail est éligible à l'exonération de cotisations sociales », il s'agit des salariés des employeurs éligibles à l'exonération de la prime de partage de la valeur. Etant exclus du champ d'application de l'intéressement, les particuliers-employeurs sont donc exclus de ce dispositif. Leurs salariés ne peuvent pas bénéficier de la prime de partage de la valeur.
