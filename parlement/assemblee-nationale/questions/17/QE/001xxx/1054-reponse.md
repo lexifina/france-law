@@ -1,0 +1,9 @@
+# Réponse à la question n° 1054
+
+- Question : [1054](1054.md) — Question n° 1054 — Impact des clauses de non-concurrence sur l'activité de France Travail
+
+## Réponse
+
+*JO du 2025-02-18, page 1063*
+
+La clause de non-concurrence est une clause du contrat de travail par laquelle le salarié s'engage à ne pas exercer, pendant une période déterminée à partir de la cessation de la relation de travail, une activité concurrente à celle de son employeur, pour son propre compte ou celui d'un autre employeur. Ces clauses visent à protéger l'entreprise (confidentialité, savoir-faire, etc.). Le régime juridique de ces clauses a été dégagé par la jurisprudence. Si celui-ci n'est pas respecté, la nullité de la clause peut être décidée par le juge. Sous le double visa du principe fondamental du libre exercice d'une activité professionnelle et de l'article L. 1121-1 du code du travail selon lequel « nul ne peut apporter aux droits des personnes et aux libertés individuelles et collectives des restrictions qui ne seraient pas justifiées par la nature de la tâche à accomplir ni proportionnées au but recherché », la Cour de cassation subordonne la validité d'une clause de non-concurrence au respect de cinq conditions obligatoires et cumulatives. Ainsi, pour être licite, la clause de non-concurrence doit être indispensable à la protection des intérêts légitimes de l'entreprise, être limitée dans le temps et dans l'espace, tenir compte des spécificités de l'emploi du salarié et comporter l'obligation pour l'employeur de verser au salarié une contrepartie financière. À défaut de l'une des conditions précitées, la clause de non-concurrence est considérée par la Cour de cassation comme étant illicite et le salarié, seul, peut en demander la nullité. Ces conditions cumulatives de validité permettent d'opérer un équilibre entre la protection des intérêts de l'entreprise et du salarié.
