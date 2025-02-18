@@ -1,0 +1,9 @@
+# Réponse à la question n° 1646
+
+- Question : [1646](1646.md) — Question n° 1646 — Chèque énergie et logements APL
+
+## Réponse
+
+*JO du 2025-02-18, page 1021*
+
+Depuis la généralisation du chèque énergie en 2018, les catégories des professionnels pouvant accepter ont été élargis au fur et à mesure, avec l'inclusion des gestionnaires d'EHPA, EHPAD, les résidences autonomie et les établissements ou unités de soins de longue durée (ESLD, USLD) en 2021. Dans ce cas, l'article R.124-4 du code de l'énergie prévoit que le montant du chèque énergie peut être utilisé pour le paiement du montant acquitté pour l'occupation d'un logement au sein de ces établissements. L'article 231 de la loi de finances pour 2024 a introduit l'obligation pour les gestionnaires de logements du parc social conventionnés APL d'accepter le chèque énergie. Les modalités d'application de ces nouvelles dispositions ont été précisées par le décret du 4 mai 2024, qui a fait l'objet d'une concertation avec l'Union sociale pour l'habitat. Ainsi, l'article R.124-4 du code de l'énergie prévoit également que le chèque énergie peut être utilisé pour le paiement des charges récupérables incluant des frais d'énergie quittancés pour l'occupation d'un logement social conventionné APL. Dans ces deux cas, les bénéficiaires du chèque énergie peuvent bien l'utiliser même s'ils ne disposent pas d'un contrat de fourniture d'énergie à leur nom. L'élargissement des acceptants du chèque énergie à d'autres catégories que celles actuellement prévues doit être étudié au regard des modalités de gestion et de contrôle de ces entités. S'agissant d'une dépense publique, il est en effet nécessaire que le statut des entités demandant à être acceptant du chèque énergie puisse être encadré et contrôlé, afin d'éviter tout risque de fraude. Le Gouvernement veille à maintenir un cadre opérationnel afin de préserver l'efficacité et l'accessibilité de ce dispositif au plus grand nombre.
