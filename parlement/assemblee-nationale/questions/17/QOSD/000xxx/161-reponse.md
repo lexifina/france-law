@@ -1,0 +1,33 @@
+# Réponse à la question n° 161
+
+- Question : [161](161.md) — Question n° 161 — Nécessité d'amélioration des taux d'expulsion des OQTF suite à placement en CRA
+
+## Réponse
+
+*JO du 2025-02-19, page 1359*
+
+OBLIGATIONS DE QUITTER LE TERRITOIRE FRANÇAIS
+
+Mme la présidente . La parole est à M. Julien Gabarron, pour exposer sa question, no 161, relative aux obligations de quitter le territoire français.
+
+M. Julien Gabarron . En France, une mesure d'obligation de quitter le territoire français est prononcée toutes les cinq minutes. Néanmoins, alors que les préfets prononcent en moyenne 100 000 OQTF chaque année, le taux d'exécution reste bien inférieur à 20 %. Chaque semaine, un individu circulant en totale liberté alors qu'il est sous le coup d'une obligation de quitter le territoire commet un méfait, un délit, voire de multiples délits, ou pire, des crimes, parfois malheureusement parmi les plus atroces. Les Français n'en peuvent plus et ne l'acceptent plus.
+
+Je pense que nous partagerons le même constat, monsieur le ministre : cette situation est devenue insupportable pour notre peuple et son installation dans le temps autant que son accentuation résonnent comme une insulte permanente faite à la France. La reconduite hors du territoire des immigrés en situation irrégulière est devenue un enjeu de cohérence pour l'État de droit, une condition sine qua non du contrat social, une question de survie pour notre patrie. Ne nous payons pas de mots, monsieur le ministre : trouvons des solutions.
+
+Pour augmenter le nombre d'exécutions des OQTF, le placement préalable en centre de rétention administrative nous est présenté comme la solution incontournable. Malheureusement, les chiffres sont têtus et le taux d'exécution des OQTF après rétention atteint seulement 45 %. Bien sûr, il faut construire davantage de places en CRA, car nous ne pouvons pas lutter contre l'immigration sans construire de nouveaux centres de rétention administrative. En parallèle, il faut surtout se donner les moyens d'augmenter le taux d'exécution des OQTF par une politique forte, volontariste, assumée. Chez moi, à Béziers, un CRA va bientôt sortir de terre. Un établissement de 120 places est donc construit sur un territoire qui donne déjà sa part à l'accueil, car il abrite un centre pénitentiaire de 1 200 détenus et un centre d’accueil pour demandeurs d’asile en cœur de ville.
+
+Si le taux d'exécution n'augmente pas, les Biterrois savent que plus de la moitié des clandestins en rétention, qui n'étaient pas à Béziers avant leur arrivée en CRA, seront ensuite relâchés sur notre territoire, aux abords de nos maisons, de nos commerces et de nos écoles. Que les choses soient claires : je suis favorable à la construction de centres de rétention administrative, à Béziers comme partout où cela sera nécessaire à la France pour reprendre le contrôle de sa politique migratoire, dont les membres des gouvernements successifs avaient totalement perdu le contrôle. L'État semble regarder ailleurs, inexorablement, alors qu'à l'heure où nous parlons, le maire de Béziers va être jugé pour avoir eu, sur le sujet des OQTF, le courage qui a lâchement manqué à un État défaillant depuis quarante ans.
+
+Ma question est très simple. Pouvez-vous préciser aux Français et aux Biterrois les mesures concrètes que vous allez – que vous devez – déployer pour qu'enfin, le taux d'exécution des OQTF, que les personnes soient ou non placées en CRA, atteigne son seul taux acceptable, à savoir 100 % ?
+
+Mme la présidente . La parole est à M. le ministre auprès du ministre d’État, ministre de l’intérieur.
+
+M. François-Noël Buffet, ministre auprès du ministre d’État, ministre de l’intérieur . Vous posez une question fondamentale. Y répondre en deux minutes est un exercice difficile ; je m'y essaierai, même si cela mériterait plus de temps. Il est incontestable que le taux d'éloignement depuis les CRA est insuffisant ; il est cependant supérieur, voire très supérieur aux chiffres habituellement mentionnés. Nous poursuivons nos efforts pour être plus efficaces afin d'éloigner en priorité ceux qui sont placés en CRA, et en particulier ceux qui menacent l'ordre et la sécurité publique, mais pas seulement. Nous n'avons pas de difficulté à le reconnaître. L'instruction a été donnée très clairement pour l'éloignement des personnes dont la présence en France constitue une menace pour l'ordre public.
+
+En 2024, 6 909 personnes relevant de ce profil ont été éloignées, contre 5 647 en 2023, soit une augmentation de 22 %, ou contre 1 800 en 2021. L'effort est donc bien réel.
+
+Pour bien comprendre la chaîne de l'éloignement et obtenir des résultats en la matière, il faut avoir en tête les différentes étapes de la procédure. Chacun sait qu'elles sont longues et complexes, trop complexes. Il faudra sans doute, à un moment ou à un autre, simplifier les procédures. Sans entrer dans le détail, vous savez que la dualité des ordres – judiciaire et administratif – qui interviennent quand un étranger en situation irrégulière est placé en CRA pose parfois quelques difficultés. L'obtention de laissez-passer consulaires constitue un autre écueil. Vous connaissez les efforts que nous y consacrons et l'importance de consolider les accords de réadmission – c'est l'objet de la mission confiée par Bruno Retailleau à Patrick Stefanini. Il s'agit d'une question fondamentale, qui conditionne notre efficacité, efficacité que j'appelle tout autant que vous de nos vœux.
+
+Nos efforts commencent à produire leurs effets. Selon les données d'Eurostat, la France est en tête des pays qui réalisent le plus d'éloignements de ressortissants de pays tiers hors Union européenne. Au total, les éloignements d'étrangers en situation irrégulière poursuivent leur tendance à la hausse : ils ont augmenté de 26,7 % entre 2023 et 2024. Tous départs confondus, forcés ou volontaires, 21 601 éloignements d'étrangers en situation irrégulière ont été enregistrés en 2024.
+
+Pour s'assurer de l'expulsion des étrangers les plus dangereux, il faut plus de places en CRA. En 2017, la capacité du parc de rétention en France était de 1 488 places. Elle est actuellement de 1 959 places. Notre objectif est d'atteindre 3 000 places en 2027, c'est-à-dire dans deux ans. Le centre de rétention administrative en projet à Béziers, qui comportera 140 places, contribuera à cet effort – je donne le chiffre de 140 places, car c'est celui que retient le ministère. Cela traduit la volonté d'agir beaucoup plus fortement, de mieux réussir ces renvois, pour une raison simple : c'est une question de crédibilité, au-delà du principe, que nous pouvons partager, qui consiste à ne pas laisser sur le territoire des personnes en situation irrégulière,
