@@ -1,0 +1,27 @@
+# Réponse à la question n° 164
+
+- Question : [164](164.md) — Question n° 164 — Aéroport Tarbes Lourdes Pyrénées
+
+## Réponse
+
+*JO du 2025-02-19, page 1364*
+
+AÉROPORT TARBES-LOURDES-PYRÉNÉES
+
+Mme la présidente . La parole est à M. Denis Fégné, pour exposer sa question, no 164, relative à l'aéroport Tarbes-Lourdes-Pyrénées.
+
+M. Denis Fégné . Si les Hautes-Pyrénées disposent de formidables atouts touristiques, agricoles, industriels, le souhait d'exploiter ce potentiel, d'en faire une source d'attractivité, soulève aussitôt la question des mobilités. Le rail, certes tout indiqué pour décarboner les transports, met le chef-lieu, Tarbes, à plus de cinq heures de Paris. Dès lors, le transport aérien joue un rôle essentiel dans le désenclavement de ce département, la continuité des lignes devenant un enjeu majeur en vue de son développement économique.
+
+Les nouvelles pratiques en matière de travail ayant entraîné une baisse importante des voyages d'affaires, les aéroports qui tirent leur épingle du jeu sont ceux qui bénéficient d'une puissante attractivité touristique : Biarritz-Pays basque, mais aussi Tarbes-Lourdes-Pyrénées. Avec 3 millions de visiteurs annuels au sanctuaire de Lourdes, beaucoup de thermalisme et de tourisme de montagne, celui-ci, vous l'aurez compris, est en bonne santé : 590 000 passagers par an, des liaisons avec sept capitales européennes, une délégation de service public (DSP) vers Paris-Orly dont les deux rotations quotidiennes fonctionnent bien – 144 000 passagers en 2024, soit 30 % de plus qu'en 2019, et un coefficient de remplissage de 82 %. Autour de lui s'est créé tout un écosystème : outre deux fleurons industriels, le groupe de services aéronautiques Tarmac Aerosave et le groupe Daher, acteur majeur de l’industrie aéronautique, qui emploie 1 800 personnes, tous deux engagés dans la transition écologique, près de 3 600 emplois ont été recensés dans les zones d'activité Pyrénia et Pyrène Aéro Pôle.
+
+Pour toutes ces raisons, objectives et chiffrées, il n'existe, contrairement à ce que peuvent affirmer des élus du Béarn, aucune concurrence entre cet aéroport et celui de Pau-Pyrénées. Un récent rapport de l'Inspection générale de l’environnement et du développement durable a d'ailleurs abouti à la même conclusion, claire et sans appel : les deux entités ne visent pas le même public. Le fait qu'elles ne soient distantes que d'une cinquantaine de kilomètres devrait, plutôt qu'à une opposition, conduire à une coopération ; cependant, il convient que ce processus résulte d'une démarche apaisée, sans intervention arbitraire. Les élus bigourdans souhaitent cette synergie, mais pas à n'importe quel prix. Or, le 10 février, nous apprenions par la presse, sans avoir été consultés, que reprendrait le 17 février – hier – la liaison entre Pau et Orly, avec un avion de quarante-neuf places. C'est faire fi de l'étude juridique commandée et cofinancée, pour 160 000 euros, par les deux aéroports, afin d’étudier la régularité d’une obligation de service public (OSP) commune ou partagée entre eux.
+
+Ma question sera donc simple : si les conclusions de cette étude en cours étaient négatives, garantiriez-vous, au nom de l'État, le maintien de la situation actuelle entre Orly et Tarbes-Lourdes ?
+
+Mme la présidente . La parole est à Mme la ministre déléguée chargée de la ville.
+
+Mme Juliette Méadel, ministre déléguée chargée de la ville . Le gouvernement vous rejoint concernant l’importance de la connectivité de nos territoires les plus enclavés. Les lignes d’aménagement du territoire constituent à cet égard un vecteur de continuité territoriale et un outil de développement économique. S’agissant de la liaison aérienne Tarbes-Orly, la DSP a été renouvelée pour la période 2022-2026 ; les OSP associées prévoient la desserte d'Orly, depuis Tarbes, à raison de deux rotations quotidiennes toute l’année.
+
+À l'échéance du contrat, ou en l’absence d’autre solution de connectivité, peut se poser la question de son renouvellement et du maintien des OSP actuelles. L’article 16 du règlement du Parlement européen et du Conseil du 24 septembre 2008 établissant des règles communes pour l'exploitation de services aériens dans la Communauté, et ses lignes directrices interprétatives touchant les OSP, précisent en effet que la justification économique d’une OSP s’évalue au cas par cas, en particulier lors des renouvellements des conventions de DSP. Aussi, la nécessité des OSP telles qu’elles existent pour la liaison Tarbes-Orly sera évaluée, je le répète, à l'expiration du contrat de DSP en cours, le 31 mai 2026. Il conviendra alors d'en démontrer le caractère à la fois vital et proportionné aux besoins du territoire bigourdan en matière de connectivité aérienne ; à ce stade, cette démonstration reste à consolider, si bien que le maintien des OSP ne peut être anticipé.
+
+En parallèle, un travail a été engagé pour réfléchir aux meilleures solutions de connectivité au sein du territoire couvert par les aéroports de Pau et Tarbes. Cette étude vise à l'instauration d'OSP mutualisées, la coopération permettant par exemple d’optimiser le coût des services aériens subventionnés et de maximiser les dessertes possibles dans l’ensemble de la zone de chalandise. La prochaine réunion du comité de pilotage du projet, qui comprend des représentants de l'État et des collectivités locales, aura lieu en mars, afin de déterminer les contours de l’OSP et de la DSP ; dans l’intérêt des territoires concernés, j'espère qu'elle trouvera une issue positive.
