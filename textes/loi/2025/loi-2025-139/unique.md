@@ -1,0 +1,3 @@
+# Article unique
+
+Est autorisée l'approbation de l'avenant à la convention entre le Gouvernement de la République française et le Gouvernement du Grand-duché de Luxembourg en vue d'éviter les doubles impositions et de prévenir l'évasion et la fraude fiscales en matière d'impôts sur le revenu et la fortune et le protocole y relatif, faits à Paris, le 20 mars 2018, tels que modifiés par l'avenant, fait à Luxembourg, le 10 octobre 2019, signé à Bruxelles le 7 novembre 2022, et dont le texte est annexé à la présente loi (2).
