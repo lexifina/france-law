@@ -24,7 +24,9 @@ Pour le matériel visé au point 6, la conformité du dispositif est démontrée
 
 Les matériels visés aux points 2, 3, 4 et 6 transmettent, par liaison informatique, à l’outil informatique de l’installation de contrôle les informations relatives aux essais réalisés. La liste des mesures transmises par liaison informatique est définie dans le protocole prévu au point c) de l’article 33 du présent arrêté. La conformité à ce protocole est démontrée dans le cadre d’un certificat de conformité délivré par l’Union technique de l’automobile, du motocycle et du cycle (UTAC), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, ou par un laboratoire agréé par un Etat membre de l’Union européenne ou partie à l’accord instituant l’Espace économique européen, offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d’essais fixés par la norme NF EN ISO/CEI 17025.
 
-Les obligations relatives aux matériels des points 4 et 6 sont applicables respectivement au 1er mars 2025 et au 1er mars 2026.
+Les obligations relatives aux matériels des points 4 et 6 sont applicables respectivement au 1er juillet 2025 et au 1er mars 2026.
+
+Du 1er mars au 30 juin 2025, le matériel visé au point 4 peut être utilisé par les centres, qui en sont équipés, en dehors des opérations de contrôle technique, afin d'informer l'usager. Les modalités d'utilisation de ce matériel respectent l'instruction technique IT CL F8 publiée sur le site de l'organisme technique central.
 
 Les installations de contrôle comprennent également :
 
