@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240900112
+
+- Question : [SEQ240900112](seq240900112.md) — Versement de la prestation complémentaire pour recours à tierce personne liée à une pension d'invalidité perçue à l'étranger
+
+## Réponse
+
+*Autonomie et handicap, JO du 2025-02-20, page 736*
+
+La Prestation complémentaire pour recours à une tierce personne (PCRTP) est réservée aux assurés du régime général et des régimes de salariés et non-salariés des professions agricoles percevant une rente d'incapacité permanente liée à un accident professionnel ou une maladie professionnelle, dont le taux d'incapacité permanente est supérieur à 80 % et ayant recours à l'assistance d'une tierce personne. Comme la Majoration pour tierce personne (MTP) qu'elle remplace, la PCRTP est exportable à l'étranger si la législation française en matière de sécurité sociale reste applicable à l'intéressé. Les règlements européens de coordination des systèmes de sécurité sociale, applicables dans l'Union européenne, l'Espace économique européen, la Suisse et le Royaume-Uni, ainsi que certaines conventions bilatérales de sécurité sociale conclues par la France avec des Etats tiers, prévoient que, dans certains cas, un pensionné puisse être maintenu à la sécurité sociale française après transfert de sa résidence dans l'un de ces Etats. En revanche, dans les situations où ces règlements et conventions prévoient que le nouvel Etat de résidence est compétent en matière de sécurité sociale (par exemple, lorsque la personne perçoit une pension française et une pension de cet Etat) ou lorsque le pensionné réside dans un Etat non couvert par ces règlements ou conventions, il pourra continuer à percevoir sa pension mais pas la PCRT. Il lui appartiendra alors de s'adresser aux organismes de sécurité sociale de l'Etat de résidence afin, le cas échéant, d'obtenir des prestations en espèces équivalentes.
