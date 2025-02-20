@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000565
+
+- Question : [SEQ241000565](seq241000565.md) — Situation des secrétaires de mairie sous statut contractuel
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-02-20, page 726*
+
+Avec la loi n° 2023-1380 du 30 décembre 2023 visant à revaloriser le métier de secrétaire de mairie, le Parlement a souhaité conforter le rôle et les missions des secrétaires de mairie et renforcer l'attractivité de ce métier en tension, essentiel au bon fonctionnement des services publics locaux. Les diverses mesures de revalorisation portées par cette loi sont en effet majoritairement à destination des agents titulaires, à l'instar du « plan de requalification », du dispositif de « promotion-formation » ou des accélérateurs de carrière. Les agents contractuels n'appartenant à aucun cadre d'emplois, ils ne peuvent bénéficier des possibilités d'avancement et de promotion propres au schéma de carrière dans lequel s'inscrivent les fonctionnaires. Il n'est pas non plus prévu un plan de titularisation des agents territoriaux contractuels exerçant les fonctions de secrétaire général de mairie, qui ont la possibilité, s'ils le souhaitent, de présenter les concours internes d'accès à la fonction publique. Toutefois, il est toujours loisible aux employeurs territoriaux de revaloriser leurs agents contractuels en usant des voies de droit commun. Il ressort en particulier de l'article L. 713-1 du code général de la fonction publique et de l'article 1-2 du décret n° 88-145 du 15 février 1988 relatif aux agents contractuels de la fonction publique territoriale, que la rémunération des agents contractuels peut tenir compte de leurs résultats professionnels et des résultats collectifs du service et être réévaluée au vu des résultats des entretiens professionnels ou à la suite d'une évolution des fonctions.
