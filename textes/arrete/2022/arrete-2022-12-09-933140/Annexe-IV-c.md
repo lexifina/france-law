@@ -4,41 +4,41 @@ Règlement d'examen
 
 BTS MECP |
 
-Scolaires (établissements publics ou privés
+Scolaires (établissements publics
 
-sous contrat)
+ou privés sous contrat)
 
 Apprentis
 
 (CFA ou sections d'apprentissage habilités)
 
-Formation professionnelle continue dans les établissements publics habilités |
+Formation professionnelle continue
 
-Formation professionnelle continue (établissements publics habilités
+dans les établissements publics habilités |
 
-à pratiquer le CCF) |
+Formation professionnelle continue
 
-Scolaires (établissements
+(établissements publics
 
-privés hors contrat)
+habilités à pratiquer le CCF) |
 
-Apprentis
+Scolaires (établissements privés hors contrat)
 
-(CFA ou sections d'apprentissage non habilités)
+Apprentis (CFA ou sections d'apprentissage non habilités)
 
-Formation professionnelle continue (établissements privés)
+Formation Professionnelle continue
 
-Au titre de
+(établissements privés)
 
-l'expérience professionnelle Enseignement à
+Au titre de l'expérience professionnelle
 
-distance |
+Enseignement à distance |
 
 Epreuves |
 
 Unité |
 
-Coef |
+Coef. |
 
 Forme |
 
@@ -78,7 +78,9 @@ Ponctuelle orale |
 
 Compréhension :
 
-30 min sans préparation ; Expression :
+30 min sans préparation ;
+
+Expression :
 
 15 min sans préparation |
 
@@ -144,9 +146,7 @@ Ponctuelle orale |
 
 Epreuve professionnelle
 
-E5A Management
-
-d'une entité commerciale |
+E5A Management d'une entité commerciale |
 
 U5A |
 
@@ -214,15 +214,11 @@ UF1 |
 
 |
 
-CCF
-
-1 situation d'évaluation |
+Ponctuelle orale |
 
 15 min (3) |
 
-CCF
-
-1 situation d'évaluation |
+Ponctuelle orale |
 
 15 min (3) |
 
@@ -244,18 +240,20 @@ Ponctuelle orale |
 
 20 min |
 
-CCF
+Ponctuelle orale |
 
-1 situation d'évaluation |
-
-|
+20 min |
 
 Ponctuelle orale |
 
 20 min |
 
-(1) Seuls les points au-dessus de la moyenne sont pris en compte.
+(1) : Seuls les points au-dessus de la moyenne sont pris en compte.
 
-(2) La langue vivante étrangère choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire.
+(2) : La langue vivante étrangère choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire.
 
-(3) + 15 min de préparation.
+(3) : + 15 min de préparation.
+
+NOTA :
+
+Conformément à l'article 5 de l'arrêté du 13 février 2025 (NOR : MENS2429116A), ces dispositions s'appliquent à compter de la session d'examen 2025.
