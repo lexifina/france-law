@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001791
+
+- Question : [SEQ241001791](seq241001791.md) — Décision rendue par le Conseil d'État, abrogeant les arrêtés du 4 octobre 2022 relatifs à la capture de l'alouette des champs à l'aide de pantes et de matoles
+
+## Réponse
+
+*Transition écologique, biodiversité, forêt, mer et pêche, JO du 2025-02-20, page 783*
+
+Dans sa décision du 6 mai 2024, le Conseil d'Etat a statué sur la chasse traditionnelle de l'alouette des champs à l'aide de pantes et de matoles en annulant au fond les arrêtés-cadres et quotas du 4 octobre 2022. Estimant la chasse aux pantes non sélective et considérant l'existence de solutions alternatives satisfaisantes, le Conseil d'Etat conclut que les conditions figurant à l'article 9 de la directive « Oiseaux » ne sont pas remplies, malgré l'attention particulière apportée à la rédaction de ces arrêtés. L'élaboration d'un nouvel arrêté encadrant la capture de l'alouette des champs au moyen de pantes se heurterait par principe à cette décision rendue en dernier ressort. Dès lors, le renforcement de la démonstration de la sélectivité de la chasse des alouettes des champs aux pantes est apparu nécessaire. Ainsi, à l'automne 2024, la réalisation d'expérimentations sur la sélectivité de la capture de l'alouette des champs à l'aide de pantes, sans mise à mort des oiseaux capturés, a été autorisée et encadrée par des arrêtés préfectoraux dans les Landes et les Pyrénées-Atlantiques. Ainsi, les arrêtés préfectoraux n° 64-2024-10-15-00001 pour les Pyrénées-Atlantiques et n° 2024/1313 pour les Landes ont permis la réalisation d'une expérimentation du 16 octobre au 20 novembre 2024. Depuis la fin de l'expérimentation, les fédérations départementales des chasseurs analysent les données récoltées afin d'évaluer la sélectivité de cette méthode de capture, notamment au regard de l'article 9 de la directive « Oiseaux ».
