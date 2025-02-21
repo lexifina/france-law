@@ -1,0 +1,19 @@
+# Article 1er
+
+À l'article premier, le groupe d'activités 97.23 est rédigé de la façon suivante :
+
+« 97.23.   Autres services fournis à la collectivité (non marchands à caractère privé).
+
+Dans ce groupe sont uniquement visés les associations de formation professionnelle de l'industrie (AFPI), les centres de formation d'apprentis de l'industrie (CFAI), tout organisme ayant principalement pour objet statutaire de rassembler et animer les AFPI et CFAI, les organismes de formation d'entreprise et les centres de formation d'apprentis d'entreprise, définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III. »
+
+Au même article premier, le contenu de la clause de rattachement prévue au paragraphe III est rédigé comme suit :
+
+« Les organismes privés de formation continue, les organismes privés de formation par apprentissage ainsi que les organismes chargés de leur rassemblement et animation, pour lesquels a été prévue la présente clause de rattachement seront les suivants :
+
+1.   Les associations de formation professionnelle de l'industrie (AFPI), créées à l'initiative d'organisations professionnelles d'employeurs relevant des industries de la métallurgie telles que définies par le présent accord ;
+
+2.   Les centres de formation d'apprentis de l'industrie (CFAI) créés à l'initiative d'organisations professionnelles d'employeurs relevant des industries de la métallurgie telles que définies par le présent accord ;
+
+3.   Tout organisme ayant principalement pour objet statutaire de rassembler et animer les AFPI et CFAI visés aux 1 et 2 de la présente clause de rattachement ;
+
+4.   Les organismes de formation d'entreprise et les centres de formation d'apprentis d'entreprise, non dotés de la personnalité morale et intégrés à une entreprise relevant des industries de la métallurgie telles que définies par le présent accord, ainsi que les organismes de formation d'entreprise et les centres de formation d'apprentis d'entreprise dotés de la personnalité morale et dont l'activité s'exerce principalement au profit de l'entreprise qui a été à l'initiative de leur création, ou du groupe auquel appartient cette entreprise, dès lors que cette entreprise relève des industries de la métallurgie telles que définies par le présent accord. »

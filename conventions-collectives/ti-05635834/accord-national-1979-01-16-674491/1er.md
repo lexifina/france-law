@@ -346,4 +346,4 @@ Dans ce groupe sont uniquement visés les associations de formation professionne
 
 97.23. Autres services fournis à la collectivité (non marchands à caractère privé).
 
-Dans ce groupe sont uniquement visés les associations de formation professionnelle de l'industrie (AFPI), les centres de formation d'apprentis de l'industrie (CFAI), les organismes de formation d'entreprise et les centres de formation d'apprentis d'entreprise, définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III.
+Dans ce groupe sont uniquement visés les associations de formation professionnelle de l'industrie (AFPI), les centres de formation d'apprentis de l'industrie (CFAI), tout organisme ayant principalement pour objet statutaire de rassembler et animer les AFPI et CFAI, les organismes de formation d'entreprise et les centres de formation d'apprentis d'entreprise, définis par la clause de rattachement figurant à la fin du présent champ d'application, au paragraphe III.
