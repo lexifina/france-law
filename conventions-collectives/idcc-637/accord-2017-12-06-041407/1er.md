@@ -10,7 +10,7 @@ Sont concernées les entreprises entrant dans le champ professionnel et territor
 
 1.2 Montant de la contribution
 
-La contribution à la charge des employeurs est calculée sur la base de la masse salariale brute de l'année civile précédente, à hauteur de 0,05 % de celle-ci.
+La contribution à la charge des employeurs est calculée sur la base de la masse salariale brute de l'année civile précédente, à hauteur de 0,06 % de celle-ci.
 
 Le taux de la contribution est déterminé par la commission paritaire et fera l'objet d'un réexamen chaque année, en fonction du bilan de l'utilisation des fonds et des perspectives. À défaut de réévaluation, il sera automatiquement reconduit.
 
