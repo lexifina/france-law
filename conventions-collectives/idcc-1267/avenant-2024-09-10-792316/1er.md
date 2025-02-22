@@ -1,0 +1,97 @@
+# Article 1er
+
+L'article 53 de la convention collective nationale du 30 juin 1983 est ainsi rédigé :
+
+« Article 53.1
+
+La commission paritaire permanente de négociation et d'interprétation (CPPNI)
+
+Il est institué une commission paritaire permanente de négociation et d'interprétation composée d'un nombre égal de représentants des employeurs ressortissant des organisations patronales adhérentes à la présente convention collective, à raison de 4 membres désignés par la confédération nationale de la pâtisserie et de 1 membre désigné par la confédération nationale de la glacerie, et de représentants des organisations syndicales de salariés à raison de 1 membre par organisation syndicale signataire ou adhérente.
+
+Une organisation syndicale de salariés a la faculté de donner mandat à une autre organisation syndicale de salariés pour la représenter aux réunions de la commission paritaire permanente de négociation et d'interprétation. La commission paritaire permanente de négociation et d'interprétation négocie la présente convention collective. Elle délibère sur les éventuelles interprétations qui s'avéreraient nécessaires à son application.
+
+La négociation collective dans la branche a entraîné la mise en place de structures particulières de secrétariat pour chacune des confédérations et syndicats y ayant adhéré.
+
+Dans le cadre de l'application de la convention, ces structures spécialisées :
+
+– assurent les travaux administratifs ;
+
+– informent les employeurs et les salariés ;
+
+– répondent aux demandes de renseignements et de conseils ;
+
+– procèdent, à la demande, à des conciliations lors des différends collectifs.
+
+En cas de différend à caractère collectif né de la présente convention et qui n'aurait pu être réglé au niveau départemental, interdépartemental ou régional par les commissions paritaires instituées par l'article 52 de la présente convention, la commission paritaire nationale peut être saisie par l'une quelconque des parties signataires. Cette saisie devra être adressée sous forme de lettre recommandée avec accusé de réception et exposer succinctement le différend.
+
+La commission paritaire nationale se réunira alors dans le mois suivant la réception de la lettre de demande, sous réserve qu'il y ait un délai d'un mois entre deux réunions entre les commissions sauf accord entre les signataires.
+
+La commission paritaire nationale pourra demander l'audition des représentants des parties en différend.
+
+Un procès-verbal de conciliation ou de non-conciliation sera établi par la commission paritaire nationale et sera signé par les parties en différend si elles acceptent les propositions de conciliation émises par la commission paritaire nationale.
+
+Article 53.2
+
+Financement du dialogue social
+
+La négociation paritaire et la promotion des métiers dans le champ de la branche de la pâtisserie artisanale exigent de nombreuses réunions, requièrent la collaboration de conseillers techniques, la consultation d'experts ainsi que la production d'étude ou la réalisation d'actions de communication qui doivent être financées.
+
+Afin que la charge effective de la négociation paritaire et la promotion des métiers dans le champ de la branche de la pâtisserie artisanale mentionnées au 1er alinéa, soit équitablement répartie sur la totalité des entreprises ressortissant de son champ d'application, il est institué une contribution de 0,20 % fixée en pourcentage de la masse salariale brute des entreprises entrant dans le champ d'application, entièrement à la charge de l'employeur.
+
+Une contribution de 0,08 % fixée en pourcentage de la masse salariale brute due par toutes les entreprises relevant de la présente convention est également collectée et reversée à l'association paritaire interprofessionnelle nationale pour le développement du dialogue social.
+
+Article 53.3
+
+Collecte des contributions conventionnelles au titre du financement du dialogue social
+
+Ces contributions sont collectées par l'organisme mentionné à l'article L. 225-1-1 du code de la sécurité sociale dans les conditions fixées par une convention passée avec l'association paritaire agréée de la branche de la pâtisserie artisanale (APAPA) conformément à l'article 13 de la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024.
+
+Le produit de la collecte est transféré à l'association paritaire agréée de la branche de la pâtisserie artisanale (APAPA).
+
+Article 53.4
+
+Affectation des cotisations
+
+Après versement de 7 % de son montant à la CNAP au titre de la gestion administrative de l'association paritaire, le produit de la collecte de la contribution en faveur de la négociation paritaire et la promotion des métiers dans le champ de la branche de la pâtisserie artisanale est affecté à l'exercice des missions suivantes :
+
+20 % affectés à l'association paritaire, notamment pour financer :
+
+– les frais d'organisation et de fonctionnement des différentes instances paritaires de la branche (CPPNI, CPNEFP, SPP, réunions des organes de gouvernance des instances de pilotage des régimes complémentaires de prévoyance et de frais de santé), frais de réception, frais d'études, documents de travail, rapports, etc.) ;
+
+– la formation et l'information des négociateurs paritaires sur les thèmes négociés dans la branche ;
+
+– la réalisation d'études ou de tout autre rapport intéressant la branche ;
+
+– le recours à une expertise extérieure sur diverses questions intéressant les travaux des différentes instances de la branche.
+
+40 % affectés au financement de l'exercice du droit à la négociation collective des salariés, ainsi qu'à leur information et leur accompagnement, répartis entre les organisations syndicales reconnues représentatives dans la branche, selon les modalités suivantes :
+
+– 60 % à parts égales ;
+
+– 20 % selon la présence aux réunions paritaires liées à la négociation collective ;
+
+– 20 % selon le poids conféré à chaque organisation par la mesure de représentativité des organisations syndicales et fixé par l'arrêté, en vigueur, du ministre en charge du travail.
+
+40 % affectés au financement de l'exercice du droit à la négociation collective des employeurs, ainsi qu'à leur information et leur accompagnement, répartis entre les organisations syndicales d'employeurs reconnues représentatives dans la branche selon le poids conféré à chaque organisation par la mesure de représentativité et fixé par l'arrêté en vigueur du ministre en charge du travail.
+
+L'association paritaire rendra compte chaque année à la CPPNI des fonds ainsi collectés et de leur utilisation.
+
+Après l'approbation des comptes de l'association paritaire, les éventuels excédents seront portés au report à nouveau de l'association jusqu'à constituer une réserve correspondant à 25 % d'un exercice.
+
+Au-delà, les excédents de l'exercice clos seront répartis à parts égales entre les 2 collèges selon les modalités définies ci-dessus.
+
+Article 53.5
+
+Objet de l'association paritaire agréée de la branche de la pâtisserie artisanale
+
+L'association paritaire agréée de la branche de la pâtisserie artisanale (APAPA) a pour objet, sous la responsabilité de son conseil de d'administration :
+
+– de recueillir le produit de la collecte des contributions mentionnées à l'article 53.2 en vue d'une répartition entre ses membres constitués des signataires de l'accord ;
+
+– de financer les moyens d'usage à la négociation paritaire et la promotion des métiers du champ de la branche de la pâtisserie artisanale mentionnées au 1er alinéa de l'article 53.2 ;
+
+– d'étudier la situation de l'activité de la pâtisserie et glacerie artisanale française dans ses différents aspects, notamment ceux liés à l'emploi ;
+
+– de conduire tous projets ou actions en vue d'assurer la promotion des métiers, notamment auprès des jeunes, ainsi que le développement des entreprises.
+
+L'association paritaire agréée de la branche de la pâtisserie artisanale (APAPA) est gérée, conformément à ses statuts. »
