@@ -2,7 +2,7 @@
 
 EMPLOIS DE DIRECTEUR ET ASSIMILÉ
 
-A. - Emplois de directeur
+A.-Emplois de directeur
 
 DÉSIGNATION DE L'EMPLOI |
 
@@ -110,7 +110,7 @@ Directeur central du service du commissariat des armées |
 
 140 |
 
-Directeur du personnel militaire de la marine |
+Directeur du personnel de la marine |
 
 1 |
 
@@ -206,7 +206,7 @@ Directeur de la sécurité aéronautique d'Etat |
 
 120 |
 
-B. - Emplois de délégué
+B.-Emplois de délégué
 
 DÉSIGNATION DE L'EMPLOI |
 
@@ -228,9 +228,9 @@ Délégué à la sûreté nucléaire et à la radioprotection des installations 
 
 1 |
 
-140 |
+140C |
 
-C.-Emplois de sous-chef d'état-major à l'état-major des armées
+.-Emplois de sous-chef d'état-major à l'état-major des armées
 
 DESIGNATION DE L'EMPLOI |
 

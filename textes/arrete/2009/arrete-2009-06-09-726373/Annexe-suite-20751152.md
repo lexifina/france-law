@@ -106,7 +106,7 @@ Directeur-adjoint à la structure intégrée du maintien en condition opération
 
 100 |
 
-Directeur adjoint à la direction du personnel militaire de la marine |
+Directeur adjoint à la direction du personnel de la marine |
 
 1 |
 

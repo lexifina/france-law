@@ -2,11 +2,11 @@
 
 LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ SPÉCIFIQUE DE HAUTE RESPONSABILITÉ
 
-A. - Emplois relevant du hors groupe 1 :
+A.-Emplois relevant du hors groupe 1 :
 
 1° Chef d'état-major des armées.
 
-B. - Emplois relevant du hors groupe 2 :
+B.-Emplois relevant du hors groupe 2 :
 
 1° Chef d'état-major de l'armée de terre ;
 
@@ -20,17 +20,17 @@ B. - Emplois relevant du hors groupe 2 :
 
 6° Chef du contrôle général des armées ;
 
-7° Inspecteur général des armées - armée de terre ;
+7° Inspecteur général des armées-armée de terre ;
 
-8° Inspecteur général des armées - marine ;
+8° Inspecteur général des armées-marine ;
 
-9° Inspecteur général des armées - armée de l'air et de l'espace ;
+9° Inspecteur général des armées-armée de l'air et de l'espace ;
 
-10° Inspecteur général des armées - armement ;
+10° Inspecteur général des armées-armement ;
 
-11° Inspecteur général des armées - gendarmerie nationale.
+11° Inspecteur général des armées-gendarmerie nationale.
 
-C. - Emplois relevant du groupe 1 :
+C.-Emplois relevant du groupe 1 :
 
 1° Major général de l'armée de terre ;
 
@@ -74,7 +74,7 @@ C. - Emplois relevant du groupe 1 :
 
 21° Directeur de l'Institut des hautes études de défense nationale et directeur de l'enseignement militaire supérieur.
 
-D. - Emplois relevant du groupe 2 :
+D.-Emplois relevant du groupe 2 :
 
 1° Conseiller armement auprès du chef d'état-major des armées ;
 
@@ -124,7 +124,7 @@ D. - Emplois relevant du groupe 2 :
 
 24° Conseiller du Gouvernement pour la défense.
 
-E. - Emplois relevant du groupe 3 :
+E.-Emplois relevant du groupe 3 :
 
 1° Inspecteur des armements nucléaires ;
 
@@ -152,7 +152,7 @@ E. - Emplois relevant du groupe 3 :
 
 13° Général commandant les actions dans la profondeur et du renseignement ;
 
-14° Chef d'état-major du corps de réaction rapide - France ;
+14° Chef d'état-major du corps de réaction rapide-France ;
 
 15° Chef d'état-major du commandement de la force et des opérations terrestres ;
 
@@ -344,7 +344,7 @@ E. - Emplois relevant du groupe 3 :
 
 109° Officier général en charge du contrôle et de l'emploi des moyens militaires du service action de la direction générale de la sécurité extérieure.
 
-F. - Emplois relevant du groupe 4 :
+F.-Emplois relevant du groupe 4 :
 
 1° Secrétaire général de la garde nationale ;
 
@@ -564,7 +564,7 @@ F. - Emplois relevant du groupe 4 :
 
 109° Chef de la division " performance et management général " de la direction centrale du service de santé des armées ;
 
-110° Commandant des écoles militaires de santé Lyon - Bron ;
+110° Commandant des écoles militaires de santé Lyon-Bron ;
 
 111° Chargé des fonctions de sous-directeur " appui à l'activité " de la direction centrale du service de santé des armées ;
 
@@ -604,7 +604,7 @@ F. - Emplois relevant du groupe 4 :
 
 129° Directeur adjoint de l'école du Val-de-Grâce.
 
-G. - Emplois relevant du groupe 5 :
+G.-Emplois relevant du groupe 5 :
 
 1° Chef d'état-major de la direction du renseignement et de la sécurité de la défense ;
 
@@ -758,7 +758,7 @@ G. - Emplois relevant du groupe 5 :
 
 76° Adjoint au commandant de la force d'action navale pour la maîtrise des fonds marins ;
 
-77° Chargé des fonctions de sous-directeur “ gestion et administration du personnel ” de la direction du personnel militaire de la marine ;
+77° Chargé des fonctions de sous-directeur “ gestion et administration du personnel ” de la direction du personnel de la marine ;
 
 78° Adjoint pour le commandement organique à Toulon au commandement de la force d'action navale ;
 
@@ -851,7 +851,3 @@ G. - Emplois relevant du groupe 5 :
 (1) N'occupant pas les fonctions de commandant des écoles militaires de Bourges.
 
 (2) N'occupant pas les fonctions de général commandant des écoles militaires de Draguignan et commandant de la base de défense de Draguignan.
-
-NOTA :
-
-Conformément à l'article 4 de l'arrêté du 24 janvier 2025 (NOR : ARMH2502609A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de janvier 2025.

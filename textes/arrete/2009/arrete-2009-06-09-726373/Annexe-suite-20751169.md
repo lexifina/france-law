@@ -4,7 +4,7 @@ TABLEAU VI
 
 EMPLOIS DE SOUS-DIRECTEUR ET ASSIMILÉ
 
-A. - Emplois de sous-directeur
+A.-Emplois de sous-directeur
 
 DÉSIGNATION DE L'EMPLOI |
 
@@ -220,7 +220,7 @@ Sous-directeur projets (DCSID) |
 
 80 |
 
-Sous-directeur ressources "métier" (DSNJ) |
+Sous-directeur ressources " métier " (DSNJ) |
 
 1 |
 
@@ -244,7 +244,7 @@ Sous-directeur du recrutement (DRHAT) |
 
 80 |
 
-Chef de service, adjoint "pilotage performance", chargé de la transformation du lien RH-Solde-Pensions de l'armée de Terre (DRHAT) |
+Chef de service, adjoint " pilotage performance ", chargé de la transformation du lien RH-Solde-Pensions de l'armée de Terre (DRHAT) |
 
 1 |
 
@@ -256,67 +256,67 @@ Sous-directeur du budget, des finances et de la comptabilité (SIMMT) |
 
 80 |
 
-Adjoint "offre de soins et expertise" au directeur central du service de santé des armées (DCSSA) |
+Adjoint " offre de soins et expertise " au directeur central du service de santé des armées (DCSSA) |
 
 1 |
 
 100 |
 
-Adjoint "emploi" au directeur central du service de santé des armées (DCSSA) |
+Adjoint " emploi " au directeur central du service de santé des armées (DCSSA) |
 
 1 |
 
 100 |
 
-Adjoint "ressources spécialisées" au directeur central du service de santé des armées (DCSSA) |
+Adjoint " ressources spécialisées " au directeur central du service de santé des armées (DCSSA) |
 
 1 |
 
 100 |
 
-Adjoint "personnel et écoles" au directeur central du service de santé des armées (DCSSA) |
+Adjoint " personnel et écoles " au directeur central du service de santé des armées (DCSSA) |
 
 1 |
 
 100 |
 
-Sous-directeur "appui à l'activité" (DCSSA) |
+Sous-directeur " appui à l'activité " (DCSSA) |
 
 1 |
 
 80 |
 
-Chef de la division "performance synthèse" (DCSSA) |
+Chef de la division " performance synthèse " (DCSSA) |
 
 1 |
 
 100 |
 
-Sous-directeur "performance synthèses" (SCA) |
+Sous-directeur " performance synthèses " (SCA) |
 
 1 |
 
 80 |
 
-Adjoint "métiers" (SCA) |
+Adjoint " métiers " (SCA) |
 
 1 |
 
 80 |
 
-Sous-directeur "réglementation-études juridiques" (SCA) |
+Sous-directeur " réglementation-études juridiques " (SCA) |
 
 1 |
 
 80 |
 
-Adjoint "filières" (SCA) |
+Adjoint " filières " (SCA) |
 
 1 |
 
 80 |
 
-Adjoint "organique" (SCA) |
+Adjoint " organique " (SCA) |
 
 1 |
 
@@ -406,7 +406,7 @@ Sous-directeur études, politique des ressources humaines et gestion des hauts p
 
 80 |
 
-Sous-directeur études et politiques ressources humaines (DPMM) |
+Sous-directeur études et politiques ressources humaines (DPM) |
 
 1 |
 
@@ -454,7 +454,7 @@ Conseiller auprès du directeur stratégie de défense, prospective et contre-pr
 
 80 |
 
-B. - Emplois assimilés à sous-directeur
+B.-Emplois assimilés à sous-directeur
 
 DÉSIGNATION DE L'EMPLOI |
 

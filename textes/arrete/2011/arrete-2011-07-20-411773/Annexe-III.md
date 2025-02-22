@@ -44,7 +44,7 @@ Le directeur des ressources humaines de l'armée de terre ;
 
 Le directeur des ressources humaines de l'armée de l'air ;
 
-Le directeur du personnel militaire de la marine ;
+Le directeur du personnel de la marine ;
 
 Le commandant des forces terrestres ;
 
