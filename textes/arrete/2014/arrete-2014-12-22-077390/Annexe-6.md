@@ -140,7 +140,7 @@ Conformément à l'article 3 de l'arrêté du 30 décembre 2024 et à son annexe
 
 -Achat ou location, par une personne morale, de vélos-cargos neufs ou reconditionnés / Fiche d'opération n° TRA-EQ-131
 
-Conformément à l'article 3 de l'arrêté du 30 décembre 2024 et à son annexe G (NOR : ECOR2435303A), la fiche d’opération n° TRA-EQ-131 est ajoutée à compter du 1er janvier 2025 à la présente annexe. remplacée par la fiche portant la même référence présente à l'annexe H de l'arrêté précité. Vous pouvez consulter la présente fiche au sein de l'annexe G disposnible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+(Supprimé).
 
 -Appareil de mesure, d’analyse et d’optimisation de la consommation de carburant d’un navire de pêche / Fiche d'opération n° TRA-EQ-132
 
@@ -387,3 +387,7 @@ https :// www. legifrance. gouv. fr/ download/ pdf ? id = xhmSfzOnsCkjNrGahHphZr
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 24/12/2014, texte n º 18, accessible à l’adresse suivante :
 
 https :// www. legifrance. gouv. fr/ download/ pdf ? id = FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s =
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 19 février 2025 (NOR : ECOR2505423A), les dispositions de la fiche d'opération standardisée TRA-EQ-131 s'appliquent aux opérations incluses dans une liste transmise, au plus tard le 28 février 2025, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé &laquo; Tableau de recensement des engagements TRA-EQ-131 &raquo; établi par la DGEC et mis à disposition sur le site internet du ministère.
