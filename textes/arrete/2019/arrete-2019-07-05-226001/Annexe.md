@@ -1414,6 +1414,30 @@ France |
 
 04.01.2016 |
 
+Association Organisme de Sélection des Races Ovines Bretonnes (OS-ROB)
+
+3, allée des Sapins-Verts, 44880 Sautron
+
+Date d'agrément : 18 février 2025
+
+|
+
+Ouessant |
+
+France |
+
+3 ; 4 |
+
+18 février 2025 |
+
+Belle-Ile |
+
+France |
+
+3 ; 4 |
+
+18 février 2025 |
+
 III. - Liste des organismes de sélection agréés qui réalisent des programmes de sélection avec des reproducteurs de race pure de l'espèce caprine
 
 Organisme de sélection
