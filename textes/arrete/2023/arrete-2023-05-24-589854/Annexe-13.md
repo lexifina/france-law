@@ -84,61 +84,69 @@ Postes exigeant la mise en œuvre de la compétence spécifique d'électronicien
 
 3° Unités du service d'infrastructure de la défense :
 
-Etablissement du service d'infrastructure de la défense (ESID) de Bordeaux :
+Service d'infrastructure de la défense Sud-Ouest (SID SO) :
 
-- unité du service d'infrastructure de la défense (USID) de Cazaux/Antenne Cazaux ;
+- Unité du service d'infrastructure de la défense (USID) Cazaux/ Antenne exploitation maintenance Cazaux ;
 
-- USID de Mont-de-Marsan ;
+- USID Mont-de-Marsan ;
 
-- USID de Rochefort/Antenne Cognac.
+- USID Rochefort/ Antenne exploitation maintenance Cognac ;
 
-- ESID de Brest - Equipe Centrale Électrique Brest-Loperhet ;
+SID Atlantique (ATL) :
 
-ESID Ile-de-France :
+- USID Landivisiau/ Antenne exploitation maintenance Loperhet ;
 
-- section Régie des Infrastructures de Creil ;
+SID Ile-de-France (IDF) :
 
-- cellule régie opérationnelle Doullens ;
+- USID Creil/ Antenne exploitation maintenance Creil ;
 
-- cellule régie opérationnelle Taverny ;
+- USID Creil/ Antenne exploitation maintenance Doullens ;
 
-- USID Vélizy-Villacoublay/Section Régies des Infrastructures ;
+- USID Creil/ Antenne exploitation maintenance Taverny ;
 
-- ESID Lyon/Cellule Régie des Infrastructures/Antenne Narbonne ;
+- USID Villacoublay/ Antenne exploitation maintenance Villacoublay ;
 
-- ESID Lyon USID Draguignan/Antenne Mont-Agel ;
+SID Sud-Est (SE) :
 
-- ESID Lyon/USID Istres ;
+- USID Carcassonne/ Antenne exploitation maintenance Narbonne ;
 
-- ESID Lyon/USID Istres/Antenne Orange ;
+- USID Draguignan ;
 
-- ESID Lyon/USID Istres/Antenne Salon-de-Provence ;
+- USID Istres ;
 
-- ESID Lyon/USID Lyon/Antenne Mont-Verdun ;
+- USID Istres/ Antenne exploitation maintenance Orange ;
 
-- ESID Lyon/USID Solenzara ;
+- USID Istres/ Antenne exploitation maintenance Salon de Provence ;
 
-- ESID Metz/USID Luxeuil ;
+- USID Lyon/ Antenne exploitation maintenance Mont Verdun ;
 
-- ESID Metz/USID Nancy ;
+- USID Solenzara ;
 
-- ESID Metz/USID Nancy/Antenne Ochey ;
+SID Nord-Est (NE) :
 
-- ESID Metz/USID Saint-Dizier ;
+- USID Luxeuil ;
 
-- ESID Rennes/Cellule Régie des Infrastructures/Antenne Cinq-Mars-la-Pile ;
+- USID Nancy ;
 
-- ESID Rennes/Cellule Régie des Infrastructures/Antenne Tours ;
+- USID Nancy/ Antenne exploitation maintenance Ochey ;
 
-- ESID Rennes/USID Avord/Antenne Avord ;
+- USID Saint Dizier ;
 
-- ESID Rennes/USID Avord/Antenne Henrichemont ;
+SID Nord-Ouest (NO) :
 
-- ESID Rennes/USID Bricy/Antenne Bricy ;
+- USID Tours/ Antenne exploitation maintenance Cinq Mars la Pile ;
 
-- ESID Rennes/USID Evreux/Antenne Evreux et Sémaphores ;
+- USID Tours/ Antenne exploitation maintenance Tulasne ;
 
-- direction d'Infrastructure de la Défense de Djibouti.
+- USID Avord/ Antenne exploitation maintenance Avord ;
+
+- USID Avord/ Antenne exploitation maintenance Henrichemont ;
+
+- USID Bricy/ Antenne exploitation maintenance Bricy ;
+
+- USID Evreux/ Antenne exploitation maintenance Evreux et Sémaphores ;
+
+Direction d'Infrastructure de la Défense de Djibouti.
 
 4° Unités de la direction interarmées des réseaux d'infrastructure et des systèmes d'information (DIRISI) :
 
@@ -241,3 +249,7 @@ Relevant de la DIRISI de Toulon :
 - pôle opérationnel sécurité et administration ;
 
 - Centre national de mise en œuvre des intranets de Maisons-Laffitte (CNMO I MLF) et centre national de mise en œuvre des intranets de Rennes (CNMO I RNS).
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 18 février 2025 (NOR : ARMH2505278A), ces dispositions sont applicables aux rémunérations versées à compter du mois de février 2025.
