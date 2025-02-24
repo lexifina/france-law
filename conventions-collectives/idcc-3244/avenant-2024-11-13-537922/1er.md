@@ -1,0 +1,11 @@
+# Article 1er
+
+L'article 5 est remplacé par les dispositions suivantes :
+
+« Mise en œuvre de la collecte conventionnelle
+
+Le présent accord délègue à l'opérateur de compétence de la branche, l'OPCO des entreprises de proximité, la collecte des cotisations conventionnelles prévues dans la convention collective nationale du personnel des administrateurs et des mandataires judiciaires (IDCC 2706).
+
+Cette contribution est due sur la base des salaires de l'année 2024 ; elle sera recouvrée dès le 1er trimestre 2025.
+
+Les présentes dispositions cessent de produire effet au 31 décembre 2025 ; les partenaires sociaux de la branche décideront en 2025 de l'opportunité de poursuivre ce dispositif. Dans l'hypothèse où les partenaires sociaux décideraient de maintenir ou de modifier en 2026 cette contribution conventionnelle, un avenant aux présentes dispositions sera conclu. »
