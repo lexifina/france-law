@@ -1,0 +1,9 @@
+# Réponse à la question n° 1681
+
+- Question : [1681](1681.md) — Question n° 1681 — Moyens financiers et humains pour améliorer l'accès aux soins palliatifs
+
+## Réponse
+
+*JO du 2025-02-25, page 1262*
+
+Le renforcement de l'offre de soins palliatifs pour mieux répondre aux besoins actuels et futurs de nos concitoyens est une priorité du Gouvernement. Dans le cadre de la stratégie décennale annoncée en avril 2024, ce sont 100 M€ supplémentaires qui seront dédiés annuellement au renfort des soins palliatifs et à l'accompagnement de la fin de vie, dès 2025. L'un des objectifs de la stratégie décennale est d'assurer l'accès aux soins palliatifs en tout point du territoire. Des crédits sont ainsi alloués pour aider à la création de nouvelles unités de soins palliatifs, dans un objectif d'accès à des soins très spécialisés, en structure hospitalière et en proximité. Ainsi, ce sont 14 projets qui seront accompagnés dans les prochains mois pour doter en unités de soins palliatifs les départements qui n'en disposent pas. Au-delà de la prise en charge spécialisée assurée dans les unités de soins palliatifs, les agences régionales de santé sont particulièrement vigilantes à ce que cet accès aux soins palliatifs soit assuré, à l'hôpital, mais aussi sur le lieu de vie des personnes malades via notamment l'hospitalisation à domicile, l'intervention d'équipes mobiles de soins palliatifs ou encore le développement des prises en charge ambulatoires. Des filières de soins palliatifs sont en cours de structuration pour garantir l'accès à des soins adaptés, dans une logique de proximité et de réponse aux besoins des personnes malades et de leurs proches, aussi bien en termes de soins que d'accompagnement. Cela suppose également de disposer de professionnels formés pour réaliser les missions spécifiques des unités de soins palliatifs, d'où les actions de développement de la formation des professionnels prévues par la stratégie décennale.
