@@ -1,0 +1,9 @@
+# Réponse à la question n° 181
+
+- Question : [181](181.md) — Question n° 181 — Création d'une fête des grands-parents
+
+## Réponse
+
+*JO du 2025-02-25, page 1258*
+
+Les fêtes des grand-mères et des grands-pères, comme celles des mères et des pères, sont un moment de partage au sein des familles, de reconnaissance des rôles importants des grands-parents à l'égard de leurs petits-enfants et de plaisir partagé entre les différentes générations. Seule la fête des mères est inscrite dans le code de l'action sociale et des familles (article R215-1). Les fêtes des pères, des grand-mères et des grands-pères n'ont, en revanche, pas d'existence juridique et sont des initiatives commerciales. Il ne revient, dès lors, pas à l'Etat de réglementer ces célébrations. Le choix a été fait, en France comme dans d'autres pays, de valoriser non pas les grands-parents mais les personnes âgées dans leur ensemble. En effet, l'Organisation des Nations unies a proclamé, en 1990, le 1er octobre journée internationale des personnes âgées. En France, la semaine bleue ou semaine nationale des retraités et des personnes âgées qui a lieu chaque année, la première semaine d'octobre, consacre ainsi la place des personnes âgées au sein de la famille et de la société toute entière. Le vieillissement de la population est célébré comme une chance pour les générations de partager des moments de vie. La semaine bleue est ainsi propice à des actions pour lutter contre l'invisibilité des personnes âgées, de sensibiliser les personnes à la contribution économique, sociale et culturelle des seniors et de diffuser une représentation positive des personnes âgées dans notre société. La semaine bleue et la célébration de la journée internationale des personnes âgées le 1er octobre sont complémentaires de la fête des grands-pères qui a lieu au même moment. Ces différents moments sont des lieux de partage et de reconnaissance de leur rôle au sein de la famille et de la société.
