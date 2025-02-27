@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001826
+
+- Question : [SEQ241001826](seq241001826.md) — Forages d'eau potable
+
+## Réponse
+
+*Ruralité, JO du 2025-02-27, page 883*
+
+Conformément à l'article L. 2224-7-1 du code général des collectivités territoriales (CGCT), les communes sont compétentes en matière de distribution d'eau potable et disposent de la faculté d'assurer sa production, son transport et son stockage. En vertu du second alinéa du I de l'article L. 2224-7 du code précité, la production d'eau destinée à la consommation humaine comprend tout ou partie du prélèvement, de la protection du point de prélèvement ainsi que du traitement de l'eau brute. La commune ou le groupement compétent peut donc recourir à des forages afin d'alimenter en eau potable les usagers du service. Il prend en charge, le cas échéant, le coût de ces activités. Toutefois, la personne publique compétente n'a pas d'obligation de raccordement dès lors que la construction ne figure pas dans une zone desservie par le réseau de distribution d'eau potable définie dans le schéma mentionné à l'article L. 2224-7-1 du CGCT. Par ailleurs, l'article L. 1321-6 du code de la santé publique prévoit que des personnes privées peuvent être responsables de la production d'eau. Il leur est donc possible, dans ce cadre, de financer des forages afin de satisfaire leurs besoins en eau potable. Il convient de rappeler que conformément à l'article L. 2224-9 du code général des collectivités territoriales, tout prélèvement, puits ou forage réalisé à des fins d'usage domestique de l'eau doit faire l'objet d'une déclaration auprès du maire de la commune concernée. En outre, en application de l'article L. 1321-7 du code de la santé publique, l'utilisation d'un captage privé pour l'utilisation de l'eau en vue de la consommation humaine est soumise à autorisation préfectorale.
