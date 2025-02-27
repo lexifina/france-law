@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001912
+
+- Question : [SEQ241001912](seq241001912.md) — Modalités d'indemnisation chômage des travailleurs de retour en France ayant perdu leur emploi dans un pays de l'Union européenne, de l'espace économique européen ou en Suisse
+
+## Réponse
+
+*Travail et emploi, JO du 2025-02-27, page 908*
+
+Il existe deux conditions pour que les périodes de travail à l'étranger soient prises en compte dans le calcul des droits aux allocations chômage en France : les périodes accomplies à l'étranger doivent correspondre à des périodes d'assurance et une période d'emploi doit avoir été accomplie en dernier lieu en France. En effet, l'article 61 du règlement européen (CE) n° 883/2004 du 29 avril 2004 relatif à la coordination des systèmes de sécurité sociale prévoit qu'un demandeur d'emploi ayant perdu son dernier emploi en France peut faire valoir l'ensemble des périodes d'activité réalisées dans d'autres Etats de l'Espace économique européen (EEE) ou en Suisse pour déterminer ses droits aux prestations chômage. L'article 62 du même règlement précise que le calcul des prestations chômage prend en compte la rémunération perçue lors de la dernière activité exercée. Par conséquent, l'Allocation de retour à l'emploi (ARE) est calculée sur la base des rémunérations perçues au titre de cette dernière activité seulement et ne tient pas compte des rémunérations perçues au titre des périodes d'emploi exercées dans d'autres Etats membres auparavant. Il convient en outre de préciser que les périodes d'emploi non salarié ne sont pas considérées en France comme des périodes d'assurance car elles ne sont pas contributives au régime d'assurance chômage. L'ARE ne peut donc être calculée qu'à partir des rémunérations perçues au titre d'une activité salariée. La dernière période d'emploi exercée en France doit donc impérativement être une période d'emploi salarié.
