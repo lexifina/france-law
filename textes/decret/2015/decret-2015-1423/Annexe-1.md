@@ -192,18 +192,6 @@ Accès aux enregistrements de vidéoprotection |
 
 Article R. 253-3 |
 
-Autorisation d'ouverture de casino et autorisation de jeux dans le casino |
-
-Articles L. 321-1, L. 321-2 et L. 321-3
-
-Articles R. 321-2 à R. 321-6 |
-
-Autorisation préalable d'investissement dans les casinos |
-
-Article L. 323-3
-
-Articles R. 323-1 à R. 323-3 et D. 323-4 |
-
 Agrément d'agent de police municipale |
 
 Article L. 511-2 |
@@ -267,10 +255,6 @@ Articles R. 315-5 et R. 315-6 |
 Accord préalable à l'acquisition d'une arme des catégories A1, B, C ou D dans un autre Etat pour les personnes résidant en France |
 
 Articles R. 316-5 ET R. 316-6 |
-
-Renouvellement d'autorisation de jeux et de transfert |
-
-Article R. 321-3 |
 
 Agrément des véhicules blindés |
 
@@ -842,4 +826,4 @@ Arrêté du 12 janvier 2012 |
 
 NOTA :
 
-Conformément à l’article 6 du décret n° 2023-1102 du 27 novembre 2023, ces dispositions sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+Conformément à l'article 3 du décret n° 2025-184 du 26 février 2025, le décret précité entre en vigueur immédiatement.
