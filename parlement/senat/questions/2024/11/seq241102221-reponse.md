@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241102221
+
+- Question : [SEQ241102221](seq241102221.md) — Modalités de financement de la vie sportive dans notre pays
+
+## Réponse
+
+*Sports, jeunesse et vie associative, JO du 2025-02-27, page 889*
+
+Depuis 2017, la France a articulé sa politique sportive autour de deux axes majeurs : l'organisation exemplaire des jeux Olympiques et Paralympiques de Paris 2024 et l'objectif de développement de la pratique pour 3 à 6 millions de nouveaux pratiquants supplémentaires, afin de faire de notre pays une nation plus active et plus sportive. La réussite unanimement reconnue, en France et à l'international, du plus grand événement planétaire de sport, au cours de l'été dernier, qui est venue parachever une politique volontariste d'accueil sur notre territoire de grands événements sportifs internationaux engagée dès 2016, a contribué à renforcer la place du sport dans notre société, notamment en disséminant de façon plus structurée les bienfaits que le sport est en mesure d'apporter en termes de santé, de cohésion sociale, de développement éducatif, de rayonnement international et de valorisation des savoir-faire entrepreneuriaux. En outre, les premiers éléments chiffrés déjà collectés montrent que, dans la droite ligne des affluences et des audiences que les jeux ont fédérées auprès des Français, une dynamique positive de prise de licences dans les clubs et de fréquentation des lieux de pratique s'est faite jour dès l'automne dernier. Le secteur des paris sportifs bénéficie de cette dynamique et voit son activité croître également. Comme a pu l'expliquer la ministre, il est important de développer un modèle du sport qui finance le sport. Le projet de loi de finances pour 2025 adopté par le Parlement a ainsi retenu une hausse de 80 millions d'euros du plafond de la taxe sur les paris sportifs au budget du sport.
