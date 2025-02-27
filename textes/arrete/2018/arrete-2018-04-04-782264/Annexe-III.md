@@ -142,7 +142,9 @@ Pilote Initiateur Bateau + Hélice noire délivré par la FFSNW (*) |
 
 |
 
-X option bateau |
+X
+
+option bateau |
 
 |
 
@@ -158,7 +160,9 @@ Opérateur Initiateur Câble délivré par la FFSNW (*) |
 
 |
 
-X option câble |
+X
+
+option câble |
 
 |
 
@@ -174,7 +178,9 @@ Moniteur ski classique bateau délivré par la FFSNW (*) |
 
 X |
 
-X option bateau |
+X
+
+option bateau |
 
 |
 
@@ -218,7 +224,7 @@ X |
 
 |
 
-Moniteur fédéral Bateau délivré par la FFSNW*après le 1er janvier 2018 |
+Moniteur fédéral Bateau délivré par la FFSNW (*) après le 1er janvier 2018 |
 
 X |
 
@@ -314,7 +320,9 @@ Diplôme fédéral palo noir délivré par la FFSNW (*) |
 
 X
 
-Test technique traction bateau figures et slalom
+Test technique traction bateau
+
+slalom
 
 Profil skieur. |
 
@@ -334,7 +342,7 @@ Diplôme fédéral palo jaune délivré par la FFSNW (*) |
 
 X
 
-Test technique traction bateau wakeboard et wakeskate
+Test technique traction bateau et wakeskate
 
 Profil wakeboardeur. |
 
@@ -352,9 +360,21 @@ Profil wakeboardeur. |
 
 Diplôme fédéral palo bleu délivré par la FFSNW (*) |
 
-Test technique traction cable en wakeboard profil wakeboardeur
+X
 
-Test technique traction cable en wakeskate profil wakeskateur |
+Test technique traction câble en wakeboard profil wakeboardeur
+
+Test technique traction câble en wakeskate profil wakeskateur
+
+Test technique traction
+
+bateau figures Profil skieur
+
+Test technique traction
+
+bateau wakeboard Profil
+
+wakeboardeur |
 
 |
 
@@ -383,7 +403,3 @@ EPMSP : exigences préalables à la mise en situation professionnelle.
 BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
 
 BEES : brevet d'Etat d'éducateur sportif.
-
-NOTA :
-
-Conformément à l'article 9 de l’arrêté du 6 mars 2023 (NOR : SPOV2307206A), ces dispositions s'appliquent aux sessions de formation ouvertes à compter du 1er juin 2023.
