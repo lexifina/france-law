@@ -6,7 +6,7 @@ I. - Obligations conditionnant le financement
 
 Le financement des nuitées d'hébergement temporaire non médicalisé versé à l'établissement prescripteur est calculé en multipliant le montant du forfait par nuitée par le nombre de nuitées d'hébergement réalisé.
 
-Afin de bénéficier du versement du forfait pour toute activité réalisée entre le 1er janvier 2021 et le 31 décembre 2023, les établissements de santé doivent remplir deux conditions cumulatives :
+Afin de bénéficier du versement du forfait, les établissements de santé doivent remplir deux conditions cumulatives :
 
 1) Remplir et transmettre les informations relatives à l'activité en hébergement temporaire non médicalisé. Ce décompte de l'activité est remonté mensuellement par l'établissement de santé via le fichier DATEXP de l'ATIH instauré à cet effet.
 
