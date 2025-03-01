@@ -6,6 +6,10 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS AUPRÈS DES ENTREPRISES 
 
 L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( www.cnis.fr) |
 
+PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS AUPRÈS DES ENTREPRISES ET DES EXPLOITATIONS AGRICOLES POUR 2025
+
+Dès disponibilité, l'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( www. cnis. fr) |
+
 1. Enquêtes d'intérêt général et obligatoires
 
 1.A. Enquêtes d'initiative nationale
@@ -442,6 +446,118 @@ France Compétences |
 
 (*) Voir liste des producteurs.
 
+Entreprises et stratégies de marché |
+
+Périodicité |
+
+Producteur (*) |
+
+Enquête " Capacité à innover et stratégie " (CIS) |
+
+Biennale |
+
+INSEE |
+
+(*) Voir liste des producteurs.
+
+Environnement et développement durable |
+
+Périodicité |
+
+Producteur (*) |
+
+Enquête " Déchets et déblais produits par l'activité de BTP en 2024 " (EDD 2024) |
+
+Ponctuelle |
+
+SDES |
+
+Enquête annuelle sur les réseaux de chaleur et de froid (EARCF) |
+
+Annuelle |
+
+SDES |
+
+(*) Voir liste des producteurs.
+
+Emploi, qualification et revenus du travail |
+
+Périodicité |
+
+Producteur (*) |
+
+Enquête sur les emplois vacants (Evac) |
+
+Annuelle |
+
+DARES |
+
+Services publics et services aux publics |
+
+Périodicité |
+
+Producteur (*) |
+
+Enquêtes " Santé 2025 " : " Santé et Recours au soin " (ERS), " Santé en Outre-mer " (ESO) et " Santé et Territoires " (EST) |
+
+Ponctuelle |
+
+DREES |
+
+(*) Voir liste des producteurs.
+
+Entreprises et stratégies de marché |
+
+Périodicité |
+
+Producteur (*) |
+
+Enquête sur la filière aéronautique et spatiale (FAS) |
+
+Ponctuelle |
+
+INSEE |
+
+Enquête sur les pratiques culturales en grandes cultures en 2025 (PK GC 2025) |
+
+Ponctuelle |
+
+SSP |
+
+Enquête "Situation des associations en 2024" |
+
+Ponctuelle |
+
+INSEE |
+
+Système d'information sur les nouvelles entreprises-Enquête SINE 2022 vague 2 |
+
+Ponctuelle |
+
+INSEE |
+
+(*) Voir liste des producteurs.
+
+Producteurs
+
+Sigle du producteur |
+
+Intitulé du producteur |
+
+Ministère ou ministère de tutelle le cas échéant |
+
+INSEE |
+
+Institut national de la statistique et des études économiques |
+
+Ministère de l'économie, des finances et de la souveraineté industrielle et numérique |
+
+‍SSP |
+
+Service de la statistique et de la prospective |
+
+Ministère de l'agriculture et de la souveraineté alimentaire |
+
 2. Enquêtes d'intérêt général
 
 2.A. Enquêtes d'initiative nationale
@@ -469,6 +585,20 @@ Enquête annuelle sur les moyens consacrés à la recherche et au développement
 Annuelle |
 
 SIES |
+
+(*) Voir liste des producteurs.
+
+Démographie et questions sociales |
+
+Périodicité |
+
+Producteur (*) |
+
+Etude sur la santé en prison |
+
+Ponctuelle |
+
+DREES |
 
 (*) Voir liste des producteurs.
 
@@ -561,3 +691,49 @@ Institut national de l'information géographique et forestière (IGN) |
 Ministère de la transition écologique, de l'énergie, du climat et de la prévention des risques
 
 Ministère de l'agriculture, de la souveraineté alimentaire et de la forêt |
+
+Producteurs
+
+Sigle
+
+du producteur |
+
+Intitulé du producteur |
+
+Ministère ou ministère de tutelle le cas échéant |
+
+INSEE |
+
+Institut national de la statistique et des études économiques |
+
+Ministère de l'économie, des finances et de la souveraineté industrielle et numérique |
+
+‍SDES |
+
+Service des données et études statistiques |
+
+Premier ministre
+
+Ministère de la transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche
+
+Ministère de l'aménagement du territoire et de la décentralisation |
+
+DARES |
+
+Direction de l'animation de la recherche, des études et des statistiques |
+
+Ministère du travail, de la santé, des solidarités et des familles |
+
+Liste des producteurs
+
+Sigle du producteur |
+
+Intitulé du producteur |
+
+Ministère ou ministères de tutelle le cas échéant |
+
+DREES |
+
+Direction de la recherche, des études, de l'évaluation et des statistiques |
+
+Ministère du travail, de la santé, des solidarités et des familles |
