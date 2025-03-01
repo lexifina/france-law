@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-LOCALISATION DES EMPLOIS À FORTE RESPONSABILITÉ BÉNÉFICIANT DE LA NOUVELLE BONIFICATION INDICIAIRE ET DES EMPLOIS DE CHEF DES SERVICES TECHNIQUES
+LOCALISATION DES EMPLOIS À FORTE RESPONSABILITÉ BÉNÉFICIANT DE LA NOUVELLE BONIFICATION INDICIAIRE ET DES EMPLOIS DE CHEF DES SERVICES TECHNIQUESSGAMI de la zone de défense et de sécurité Ile-de-France
 
 Directions et services |
 
@@ -208,7 +208,7 @@ SGAMI de la zone de défense et de sécurité Ile-de-France |
 
 Direction de l'immobilier et de l'environnement |
 
-Adjoint au directeur de l'immobilier et de l'environnement |
+Sous-directeur de l'exploitation |
 
 40 |
 
@@ -367,3 +367,7 @@ Adjoint au chef du bureau du soutien logistique et juridique |
 - |
 
 1 |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 4 février 2025 (NOR : INTA2503048A), ces dispositions entrent en vigueur le premier jour du mois suivant sa publication, soit le 1er mars 2025.
