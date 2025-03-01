@@ -492,13 +492,13 @@ Caen |
 
 |
 
-Cantons de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize (à l'exception de la fraction de commune de Mézidon Vallée d'Auge), Cabourg, Caen 1er Canton, Caen 2ème Canton, Caen 3ème Canton, Caen 4ème Canton, Caen 7ème Canton, Caen 8ème Canton, Caen 9ème Canton, Caen 10ème Canton, Caen-Hérouville Caen 6ème Canton, Caumont-l'Éventé, Creully, Douvres-la-Délivrande, Évrecy, Falaise-Nord, Falaise-Sud, Hérouville-Saint-Clair Caen 5ème Canton, Isigny-sur-Mer, Morteaux-Couliboeuf, Ouistreham, Ryes, Tilly-sur-Seulles, Trévières, Troarn, Thury-Harcourt et Villers-Bocage et communes des Monts d'Aunay et Val de Drôme. |
+Cantons de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize (à l'exception de la fraction de commune de Mézidon Vallée d'Auge), Cabourg, Caen 1er Canton, Caen 2e Canton, Caen 3e Canton, Caen 4e Canton, Caen 5e Canton, Caen 6e Canton, Caen 7e Canton, Caen 8e Canton, Caen 9e Canton, Caen 10e Canton, Caen-Hérouville, Caumont-l'Éventé, Creully, Douvres-la-Délivrande, Évrecy, Falaise-Nord, Falaise-Sud, Hérouville-Saint-Clair, Isigny-sur-Mer, Morteaux-Coulibœuf, Ouistreham, Ryes, Tilly-sur-Seulles, Trévières, Troarn, Thury-Harcourt et Villers-Bocage et communes des Monts d'Aunay et Val de Drôme. |
 
 |
 
-Vire |
+Vire Normandie |
 
-Cantons d'Aunay-sur-Odon (à l'exception des fractions de communes des Monts d'Aunay et de Val de Drôme), Condé-sur-Noireau, Le Bény-Bocage, Saint-Sever-Calvados (à l'exception de la fraction de commune de Tessy-Bocage), Vassy et Vire. |
+Cantons d'Aunay-sur-Odon (à l'exception des fractions de communes des Monts d'Aunay et de Val de Drôme), Condé-sur-Noireau, Le Bény-Bocage, Saint-Sever-Calvados (à l'exception de la fraction de commune de Tessy-Bocage), Vassy et Vire Normandie. |
 
 Lisieux |
 
@@ -532,13 +532,13 @@ Alençon |
 
 |
 
-Cantons d'Alençon 1er Canton, Alençon 2e Canton, Alençon 3e Canton, Bazoches-sur-Hoëne, Bellême, Carrouges, Courtomer, L'Aigle-Est, L'Aigle-Ouest, Le Theil, Le Mêle-sur-Sarthe, Longny-au-Perche, Mortagne-au-Perche, Moulins-la-Marche, Nocé, Pervenchères, Rémalard, Sées (à l'exception de la fraction de commune de Mortrée) et Tourouvre et commune de Chailloué. |
+Cantons d'Alençon 1er Canton, Alençon 2e Canton, Alençon 3e Canton, Bazoches-sur-Hoëne, Bellême, Carrouges, Courtomer (à l'exception de la fraction de commune de Merlerault-Le-Pin), L'Aigle-Est, L'Aigle-Ouest, Le Theil, Le Mêle-sur-Sarthe, Longny-au-Perche, Mortagne-au-Perche, Moulins-la-Marche, Nocé, Pervenchères, Rémalard, Sées (à l'exception de la fraction de commune de Mortrée) et Tourouvre et commune de Chailloué. |
 
 Argentan |
 
 |
 
-Cantons d'Argentan-Est, Argentan-Ouest, Briouze, Écouché, Exmes, Gacé, La Ferté-Frênel, Le Merlerault, Mortrée (à l'exception de la fraction de commune de Chailloué), Putanges-Pont-Écrepin, Trun et Vimoutiers et commune de Mortrée. |
+Cantons d'Argentan-Est, Argentan-Ouest, Briouze, Écouché, Exmes, Gacé, La Ferté-Frênel, Le Merlerault, Mortrée (à l'exception de la fraction de commune de Chailloué), Putanges-Pont-Écrepin, Trun et Vimoutiers et communes de Merlerault-le-Pin et Mortrée. |
 
 |
 
@@ -904,10 +904,6 @@ Vienne |
 
 Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean-de-Bournay (à l'exception de la fraction de la commune d'Eclose-Badinières), Vienne-Nord et Vienne-Sud. |
 
-|
-
-|
-
 Cour d'appel de Limoges |
 
 Corrèze |
@@ -916,19 +912,13 @@ Brive-la-Gaillarde |
 
 |
 
-Cantons d'Ayen, Beaulieu-sur-Dordogne, Beynat, Brive-la-Gaillarde-Centre, Brive-la-Gaillarde-Nord-Est, Brive-la-Gaillarde-Nord-Ouest, Brive-la-Gaillarde-Sud-Est, Brive-la-Gaillarde-Sud-Ouest, Donzenac, Juillac, Larche, Lubersac, Malemort-sur-Corrèze, Meyssac et Vigeois. |
-
-|
-
-|
-
-|
+Cantons d'Ayen, Beaulieu-sur-Dordogne, Beynat, Brive-la-Gaillarde-Centre, Brive-la-Gaillarde-Nord-Est, Brive-la-Gaillarde-Nord-Ouest, Brive-la-Gaillarde-Sud-Est, Brive-la-Gaillarde-Sud-Ouest, Donzenac, Juillac, Larche, Lubersac (à l'exception de la fraction de commune des Trois-Saints), Malemort-sur-Corrèze, Meyssac et Vigeois. |
 
 Tulle |
 
 |
 
-Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Égletons, Eygurande, La Roche-Canillac, Lapleau, Mercoeur, Meymac, Neuvic, Saint-Privat, Seilhac, Sornac, Treignac, Tulle-Campagne-Nord, Tulle-Campagne-Sud, Tulle-Urbain-Nord, Tulle-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche. |
+Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Égletons, Eygurande, La Roche-Canillac, Lapleau, Mercoeur, Meymac, Neuvic, Saint-Privat, Seilhac, Sornac, Treignac, Tulle-Campagne-Nord, Tulle-Campagne-Sud, Tulle-Urbain-Nord, Tulle-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche et commune des Trois-Saints. |
 
 Creuse |
 
@@ -2100,6 +2090,6 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 NOTA :
 
-Conformément au premier alinéa de l’article 3 du décret n° 2023-788 du 18 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément à l'article 2 du décret n° 2025-122 du 11 février 2025, les dispositions dudit décret entrent en vigueur le 1er mars 2025.
 
-Se reporter aux modalités d’application prévues au second alinéa dudit article 3.
+Conformément à l'article 2 du décret n° 2025-145 du 18 février 2025, les dispositions dudit décret entrent en vigueur le 1er mars 2025.
