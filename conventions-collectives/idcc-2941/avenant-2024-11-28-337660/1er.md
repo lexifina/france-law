@@ -1,0 +1,37 @@
+# Article 1er
+
+Au chapitre Ier du titre V de la convention collective :
+
+L'article 19 relatif au travail du dimanche et des jours fériés, et intitulé « Conditions d'intervention » nouveau est rédigé comme suit :
+
+« Article 19
+
+Conditions d'intervention
+
+Dans la mesure du possible et afin de permettre à chaque salarié de concilier vie professionnelle et vie personnelle, les employeurs :
+
+– font intervenir les salariés sur leur secteur d'activité ou sur un secteur limitrophe ;
+
+– font intervenir le même salarié pendant tout le dimanche ou jour férié ;
+
+– établissent un planning trimestriel remis à chaque salarié indiquant les dimanches ou jours fériés pour lesquels il sera amené à travailler, conformément au délai prévu à l'article V.37 de la présente convention collective. L'employeur qui choisit de remettre ce planning en main propre doit planifier ce temps et le rémunérer comme toute autre période de travail effectif. »
+
+L'article 22 relatif aux astreintes et intitulé « Principes généraux » nouveau est rédigé comme suit :
+
+« Article 22
+
+Principes généraux
+
+Tous les salariés peuvent être amenés à assurer des astreintes à leur domicile ou à proximité, y compris les dimanches et jours fériés.
+
+Dans la mesure du possible et afin de permettre à chaque salarié de concilier vie professionnelle et vie personnelle, les employeurs établissent un planning trimestriel remis à chaque salarié indiquant ses jours ou périodes d'astreinte. L'employeur qui choisit de remettre ce planning en main propre doit planifier ce temps et le rémunérer comme toute autre période de travail effectif.
+
+Les modifications concernant ce planning ne peuvent être réalisées dans un délai inférieur à un mois, sauf cas de remplacement d'un collègue en absence non prévue auquel cas le salarié peut être prévenu dans un délai inférieur à trois jours.
+
+L'employeur met en place une organisation permettant de joindre, à tout moment, les salariés d'astreinte. Il est rappelé que les intervenants positionnés en degré 1 – échelon 1 ne sont pas habilités à assurer les actes essentiels de la vie quotidienne, y compris lorsqu'ils sont d'astreinte.
+
+Si les salariés d'astreinte sont appelés à travailler, leur temps de travail est un temps de travail effectif y compris le temps de trajet aller-retour.
+
+Le temps de travail effectif pendant le temps d'astreinte se cumule avec l'indemnité d'astreinte.
+
+Un dimanche travaillé ou jour férié travaillé ne peut pas être suivi d'un dimanche ou jour férié d'astreinte. »
