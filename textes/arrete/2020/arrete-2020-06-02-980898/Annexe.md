@@ -28,9 +28,9 @@ SGAMI ZDS de Paris |
 
 75 |
 
-DZCRS Paris/ Délégation CRS Agglomération Parisienne (Paris) |
+DZCRS Paris/Délégation CRS Agglomération Parisienne (Paris) |
 
-Adjoint au chef de délégation |
+Adjoint au chef de la délégation des CRS de l'agglomération parisienne |
 
 77 |
 
@@ -65,12 +65,6 @@ Commandant de compagnie |
 91 |
 
 DZCRS Paris/ CRS 03 Quincy-sous-Sénart |
-
-Commandant de compagnie |
-
-91 |
-
-DZCRS Paris/ CRS 05 Massy |
 
 Commandant de compagnie |
 
@@ -120,18 +114,6 @@ DZCRS Sud-ouest/ CRS 17 Bergerac |
 
 Commandant de compagnie |
 
-24 |
-
-DZCRS Sud-ouest/ CRS 22 Périgueux |
-
-Commandant de compagnie |
-
-33 |
-
-DZCRS Sud-ouest/ CRS 14 Bordeaux |
-
-Commandant de compagnie |
-
 33 |
 
 DZCRS Sud-ouest/ CRS Autoroutière Aquitaine Bordeaux (Cenon) |
@@ -147,12 +129,6 @@ Commandant d'unité |
 47 |
 
 DZCRS Sud-ouest/ CRS 24 Agen (Bon-Encontre) |
-
-Commandant de compagnie |
-
-64 |
-
-DZCRS Sud-ouest/ CRS 25 Pau |
 
 Commandant de compagnie |
 
@@ -262,12 +238,6 @@ Chef de centre |
 
 69 |
 
-DZCRS Sud-est/ CRS 45 Lyon (Chassieu) |
-
-Commandant de compagnie |
-
-69 |
-
 DZCRS Sud-est/ CRS 46 Lyon (Sainte-Foy-lès-Lyon) |
 
 Commandant de compagnie |
@@ -289,6 +259,30 @@ Commandant de compagnie |
 DZCRS Sud-est/ UMZ CRS Sud-est Sainte-Foy-lès-Lyon |
 
 Commandant d'unité |
+
+69 |
+
+DZCRS SUD-EST/ CRS NG 83 Lyon (Chassieu)
+
+|
+
+Adjoint au commandant de compagnie |
+
+69 |
+
+DZCRS SUD-EST/ CRS NG 83 Lyon (Chassieu)
+
+|
+
+Officier de compagnie |
+
+69 |
+
+DZCRS SUD-EST/ CRS NG 83 Lyon (Chassieu)
+
+|
+
+Officier de compagnie |
 
 74 |
 
@@ -338,9 +332,27 @@ Commandant de compagnie |
 
 13 |
 
-DZCRS Sud/ CRS 55 Marseille |
+DCCRS/ DZCRS SUD/ CRS 81 NG Marseille
 
-Commandant de compagnie |
+|
+
+Adjoint au commandant de compagnie |
+
+13 |
+
+DCCRS/ DZCRS SUD/ CRS 81 NG Marseille
+
+|
+
+Officier de compagnie |
+
+13 |
+
+DCCRS/ DZCRS SUD/ CRS 81 NG Marseille
+
+|
+
+Officier de compagnie |
 
 13 |
 
@@ -357,12 +369,6 @@ Adjoint au chef de délégation |
 31 |
 
 DZCRS Sud/ CRS 26 Toulouse |
-
-Commandant de compagnie |
-
-31 |
-
-DZCRS Sud/ CRS 27 Toulouse |
 
 Commandant de compagnie |
 
@@ -401,6 +407,22 @@ Commandant de compagnie |
 DZCRS Sud/ CRS 28 Montauban |
 
 Commandant de compagnie |
+
+82 |
+
+DZCRS Sud/ CRS NG 84 Montauban
+
+|
+
+Adjoint au commandant de compagnie |
+
+82 |
+
+DZCRS Sud/ CRS NG 84 Montauban
+
+|
+
+Officier de compagnie |
 
 83 |
 
@@ -442,12 +464,6 @@ DZCRS Est/ Centre de Formation (Dijon) |
 
 Chef de Centre |
 
-51 |
-
-DZCRS Est/ CRS 33 Reims |
-
-Commandant de compagnie |
-
 54 |
 
 DZCRS Est/ CRS 39 Nancy (Jarville) |
@@ -457,12 +473,6 @@ Commandant de compagnie |
 57 |
 
 DZCRS Est/ CRS 30 Châtel-Saint-Germain |
-
-Commandant de compagnie |
-
-57 |
-
-DZCRS Est/ CRS 36 Châtel-Saint-Germain |
 
 Commandant de compagnie |
 
@@ -481,12 +491,6 @@ Commandant d'unité |
 67 |
 
 DZCRS Est/ CRS 37 Strasbourg |
-
-Commandant de compagnie |
-
-68 |
-
-DZCRS Est/ CRS 38 Mulhouse (Illzach-Modenheim) |
 
 Commandant de compagnie |
 
@@ -554,6 +558,30 @@ DZCRS Ouest/ CRS 82 Nantes |
 
 Commandant de compagnie |
 
+44 |
+
+DZCRS OUEST/ CRS NG 82 Nantes
+
+|
+
+Adjoint au commandant de compagnie |
+
+44 |
+
+DZCRS OUEST/ CRS NG 82 Nantes
+
+|
+
+Officier de compagnie |
+
+44 |
+
+DZCRS OUEST/ CRS NG 82 Nantes
+
+|
+
+Officier de compagnie |
+
 45 |
 
 DZCRS Ouest/ CRS 51 Orléans (Saran) |
@@ -569,12 +597,6 @@ Commandant de compagnie |
 76 |
 
 DZCRS Ouest/ CRS 31 Rouen (Darnetal) |
-
-Commandant de compagnie |
-
-76 |
-
-DZCRS Ouest/ CRS 32 Le Havre (Saint Adresse) |
 
 Commandant de compagnie |
 
@@ -700,11 +722,11 @@ ACADEMIE DE POLICE/ SDREF/ CNFMPN Sens (Motocycliste) |
 
 Chef de centre national |
 
-91 |
+77 |
 
-ACADEMIE DE POLICE/ Direction zonale Paris Ile de France/ CRF Draveil |
+ACADEMIE DE POLICE/Sous-direction des ressources et des moyens |
 
-Chef du CRF |
+Chef de la division des ressources et des moyens |
 
 DNRT : 1 poste
 
@@ -1316,9 +1338,9 @@ Chef CPN |
 
 50 |
 
-DIPN50/ SD |
+DIPN50/CPN Saint-Lô |
 
-Chef SD |
+Chef CPN |
 
 50 |
 
@@ -1810,9 +1832,9 @@ Chef d'antenne OFAST |
 
 2A |
 
-DIPN2A/ SIPAF |
+DIPN2A/SIPAF |
 
-Adjoint au chef SIPAF |
+Chef SIPAF |
 
 2B |
 
@@ -1856,11 +1878,9 @@ DIPN31/ Haute-Garonne-SDN |
 
 Chef SDN |
 
-31 |
+un poste au renseignement territorial
 
-DIPN31/ Haute-Garonne |
-
-CTCC |
+|
 
 31 |
 
@@ -2295,12 +2315,6 @@ Chef SIPJ |
 DIPN24/ CPN Bergerac |
 
 Chef CPN |
-
-33 |
-
-DZPN SO/ SZRF |
-
-Adjoint chef SZRF et coordonnateur pôles formation |
 
 33 |
 
@@ -3748,4 +3762,4 @@ Total : 720.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 9 août 2024 (NOR : IOMC2404011A), ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l'article 4 de l'arrêté du 6 mars 2025 (NOR : INTC2503177A), ces dispositions entrent en vigueur le 1er mars 2025.
