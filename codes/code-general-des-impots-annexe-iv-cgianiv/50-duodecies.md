@@ -1,12 +1,8 @@
 # Article 50 duodecies
 
-I. – La liste des produits, matériaux de construction, engrais et outillages industriels et agricoles dont l'importation dans les départements de la Guadeloupe, de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur ajoutée, est fixée ainsi qu'il suit :
+I. – La liste des produits, matériaux de construction, engrais et outillages industriels et agricoles dont l'importation en Guadeloupe, en Martinique et à la Réunion peut avoir lieu en franchise de la taxe sur la valeur ajoutée, est fixée ainsi qu'il suit :
 
-NUMEROS DU TARIF
-
-des droits de douane
-
-d'importation
+Codes de la nomenclature combinée
 
 |
 
@@ -342,13 +338,19 @@ Eviers, lavabos, colonnes de lavabo, baignoires, bidets, cuvettes d'aisances, r�
 
 |
 
-70-03-11-90
+70-03-12-91
 
 |
 
-Verre coulé ou laminé, non travaillé (même armé ou plaqué en cours de fabrication), en plaques ou en feuilles de forme carrée ou rectangulaire.
+Verre coulé ou laminé, non travaillé (même armé ou plaqué en cours de fabrication), en plaques ou en feuilles de forme carrée ou rectangulaire ", à couche non réfléchissante
 
 |
+
+70-03-12-99
+
+|
+
+Verre coulé ou laminé, non travaillé (même armé ou plaqué en cours de fabrication), en plaques ou en feuilles de forme carrée ou rectangulaire ", autres qu'à couche non réfléchissante |
 
 Ex 70-03-19-90
 
@@ -356,17 +358,11 @@ Ex 70-03-19-90
 
 |
 
-70-03-20-10
+70-03-20-00
 
 |
 
-|
-
-Ex 70-03-20-90
-
-|
-
-|
+Verre coulé ou laminé, non travaillé (même armé ou plaqué en cours de fabrication), en plaques ou en feuilles de forme carrée ou rectangulaire ", plaques et feuilles, armées. |
 
 Ex 70-04
 
@@ -392,21 +388,21 @@ Plaques en verre.
 
 |
 
-70-16-90-30
+70-16-90-40
 
 |
 
-Pavés, briques, carreaux, tuiles et autres articles en verre coulé ou moulé, même armé, pour le bâtiment et la construction ; verre dit multicellulaire ou verre mousse en blocs, panneaux, plaques et coquilles.
+Pavés et briques, pour le bâtiment ou la construction
 
 |
 
-70-16-90-90
+70-16-90-70
 
 |
 
-|
+Pavés, briques, carreaux, tuiles et autres articles en verre coulé ou moulé, même armé, pour le bâtiment et la construction ; verre dit multicellulaire ou verre mousse en blocs, panneaux, plaques et coquilles. |
 
-Ex 70-19-32-00
+70-19-71-00
 
 |
 
@@ -414,29 +410,35 @@ Fibres non textiles (verrofibre) destinées à la construction.
 
 |
 
-Ex 70-19-39-10
+70-19-62-00
 
 |
 
-|
+Fibres non textiles (verrofibre) destinées à la construction. |
 
-Ex 70-19-39-30
-
-|
+70-19-69-10
 
 |
 
-Ex 70-19-39-50
+Fibres non textiles (verrofibre) destinées à la construction. |
+
+70-19-72-00
 
 |
 
-|
+Fibres non textiles (verrofibre) destinées à la construction. |
 
-Ex 70-19-39-90
-
-|
+70-19-73-00
 
 |
+
+Fibres non textiles (verrofibre) destinées à la construction. |
+
+70-19-80-10
+
+|
+
+Fibres non textiles (verrofibre) destinées à la construction. |
 
 Ex chapitre 72
 
@@ -614,14 +616,6 @@ Ex-79-07 |
 
 Autres ouvrages en zinc (tubes, tuyaux et accessoires de tuyauterie, gouttières, faîtages, lucarnes et autres ouvrages façonnés pour le bâtiment uniquement) |
 
-Ex 79-07-90
-
-|
-
-Toiles, tissus, grillages, treillis, y compris les treillis d'une seule pièce exécutés à l'aide d'une tôle ou d'une bande incisée ou déployée ; autres ouvrages en zinc, destinés à la construction, réservoirs, cuves et autres récipients analogues, pour toutes matières, en zinc.
-
-|
-
 Ex 80-03
 
 |
@@ -756,19 +750,23 @@ Chauffe eau non électrique, à chauffage instantané ou à accumulation.
 
 |
 
-84-19-31
-
-|
+84-19-33-00 |
 
 Séchoirs.
 
 |
 
-84-19-32
+84-19-34-00
 
 |
 
+Séchoirs. |
+
+84-19-35-00
+
 |
+
+Séchoirs. |
 
 84-19-39
 
@@ -904,19 +902,11 @@ Tous produits de ces positions.
 
 |
 
-84-71
+84-71-30-00
 
 |
 
-Tous produits de cette position.
-
-|
-
-Ex 84-73
-
-|
-
-Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme étant exclusivement ou principalement destinés aux machines ou appareils du n° 84-71.
+Machines automatiques de traitement de l'information, portatives, d'un poids n'excédant pas 10 kg, comportant au moins une unité centrale de traitement, un clavier et un écran (à l'exclusion des unités périphériques).
 
 |
 
@@ -1032,9 +1022,11 @@ Tous produits de ces positions.
 
 |
 
-85-17-12 |
+85-17-14
 
-Téléphones pour réseaux cellulaires et autres réseaux sans fil. |
+|
+
+Téléphones pour réseaux cellulaires ou pour autres réseaux sans fil (autre que les postes téléphoniques d'usagers par fil à combinés sans fils et les téléphones intelligents). |
 
 85-25-50
 
@@ -1084,13 +1076,29 @@ Tous produits de ces positions.
 
 |
 
-85-41-40
-
-|
+85-41-41-00 |
 
 Dispositifs photosensibles à semi-conducteur, y compris les cellules photovoltaïques même assemblées en modules ou constituées en panneaux ; diodes émettrices de lumière.
 
 |
+
+85-41-42-00
+
+|
+
+Dispositifs photosensibles à semi-conducteur, y compris les cellules photovoltaïques même assemblées en modules ou constituées en panneaux ; diodes émettrices de lumière. |
+
+85-41-43-00
+
+|
+
+Dispositifs photosensibles à semi-conducteur, y compris les cellules photovoltaïques même assemblées en modules ou constituées en panneaux ; diodes émettrices de lumière. |
+
+85-41-49-00
+
+|
+
+Dispositifs photosensibles à semi-conducteur, y compris les cellules photovoltaïques même assemblées en modules ou constituées en panneaux ; diodes émettrices de lumière. |
 
 85-44 à 85-48
 
@@ -1130,11 +1138,11 @@ Ambulances.
 
 |
 
-87-03-22-19
+87-03-22-10
 
 |
 
-|
+Ambulance. |
 
 87-03-22-90
 
@@ -1204,9 +1212,7 @@ Autres véhicules aériens ; véhicules spatiaux et leurs véhicules lanceurs.
 
 |
 
-Ex 88-03
-
-|
+88-07 |
 
 Parties des appareils du n° 88-02.
 
@@ -1317,3 +1323,265 @@ Constructions préfabriquées.
 |
 
 II. – La liste des produits cités au I est complétée par le pain (ex 19-05) et le riz (10-06).
+
+III. – A La Réunion, la liste des produits fixée au I est complétée par les matériels informatiques relevant de la position de la nomenclature douanière 84-71-15 à 84-71-70, 84-73, et les téléphones relevant de la position de la nomenclature douanière 85-17-13.
+
+IV. – En Guadeloupe et en Martinique, la liste des produits fixée au I est complétée des produits suivants :
+
+Codes de la
+
+nomenclature
+
+combinée |
+
+DÉSIGNATION DES PRODUITS |
+
+02-02-30-90 |
+
+Viandes désossées de bovins, congelées (à l'exclusion des quartiers avant entiers ou découpés en cinq morceaux au maximum, chaque quartier avant étant présenté en un seul bloc de congélation, ou quartiers compensés présentés en deux blocs de congélation contenant, l'un, le quartier avant entier ou découpé en cinq morceaux au maximum et, l'autre, le quartier arrière (sauf filet, en un seul morceau) ainsi que les découpes de quartiers avant et de poitrines australiennes) |
+
+02-06-29-99 |
+
+Abats comestibles de bovins, congelés (à l'exclusion de ceux destinés à la fabrication de produits pharmaceutiques ainsi que des langues, foies, onglets et hampes) |
+
+02-07-27-30 |
+
+Ailes entières, même sans la pointe, de dindons ou de dindes, congelées |
+
+02-10-12-19 |
+
+Poitrines (entrelardés) et morceaux de poitrines de porcins, séchés ou fumés |
+
+04-01-10 |
+
+Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses n'excédant pas 1 % |
+
+04-01-20 |
+
+Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses excédant 1 % mais n'excédant pas 3 % |
+
+04-01-20-91 |
+
+Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses excédant 3 % mais n'excédant pas 6 %, en emballages immédiats d'un contenu net n'excédant pas 2 L |
+
+04-02-21 |
+
+Lait et crème de lait, en poudre, en granulés ou sous d'autres formes solides, d'une teneur en poids de matières grasses excédant 1,5 % mais n'excédant pas 27 %, sans addition de sucre ou d'autres édulcorants |
+
+04-02-29-11 |
+
+Laits spéciaux pour nourrissons, en poudre, en granulés ou sous d'autres formes solides, avec addition de sucre ou d'autres édulcorants, en récipients hermétiquement fermés d'un contenu net n'excédant pas 500 g et d'une teneur en poids de matières grasses excédant 10 % mais n'excédant pas 27 % |
+
+04-02-91-10 |
+
+Lait et crème de lait, concentrés, sans addition de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses n'excédant pas 8 % (à l'exclusion des laits et crèmes de lait en poudre, en granulés ou sous d'autres formes solides) |
+
+04-02-91-51 |
+
+Lait et crème de lait, concentrés, sans addition de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses excédant 10 % mais n'excédant pas 45 %, en emballages immédiats d'un contenu net n'excédant pas 2,5 kg (à l'exclusion des laits et crèmes de lait en poudre, en granulés ou sous d'autres formes solides) |
+
+04-02-99-10 |
+
+Lait et crème de lait, concentrés, additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses n'excédant pas 9,5 % (à l'exclusion des laits et crèmes de lait en poudre, en granulés ou sous d'autres formes solides) |
+
+04-02-99-31 |
+
+Lait et crème de lait, concentrés, additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses excédant 9,5 % mais n'excédant pas 45 %, en emballages immédiats d'un contenu net n'excédant pas 2,5 kg (à l'exclusion des laits et crèmes de lait en poudre, en granulés ou sous d'autres formes solides) |
+
+04-02-99-91 |
+
+Lait et crème de lait, concentrés, additionnés de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses excédant 45 %, en emballages immédiats d'un contenu net n'excédant pas 2,5 kg (à l'exclusion des laits et crèmes de lait en poudre, en granulés ou sous d'autres formes solides) |
+
+04-05-10 |
+
+Beurre naturel, d'une teneur en poids de matières grasses n'excédant pas 85 % (sauf beurre déshydraté et ghee) |
+
+04-06-20-00 |
+
+Fromages râpés ou en poudre, de tous types |
+
+04-06-30 |
+
+Fromages fondus, autres que râpés ou en poudre, d'une teneur en poids de matières grasses n'excédant pas 36 % (à l'exclusion des fromages dans la fabrication desquels ne sont pas entrés d'autres fromages que l'emmental, le gruyère et l'appenzell et, éventuellement, à titre additionnel, du fromage de Glaris aux herbes, conditionnés pour la vente au détail) |
+
+04-06-40-50 |
+
+Gorgonzola |
+
+07-01-90-90 |
+
+Pommes de terre, à l'état frais ou réfrigéré (à l'exclusion des pommes de terre de primeurs du 1er janvier au 30 juin, des pommes de terre de semence et des pommes de terre destinées à la fabrication de la fécule) |
+
+07-03-10-19 |
+
+Oignons, à l'état frais ou réfrigéré (à l'exclusion des oignons de semence) |
+
+07-03-20-00 |
+
+Aulx, à l'état frais ou réfrigéré |
+
+07-06-10-00 |
+
+Carottes et navets, à l'état frais ou réfrigéré |
+
+07-10-90-00 |
+
+Mélanges de légumes, non cuits ou cuits à l'eau ou à la vapeur, congelés |
+
+07-13-32-00 |
+
+Haricots " petits rouges " (haricots Adzuki) (Phaseolus ou Vigna angularis), secs, écossés, même décortiqués ou cassés |
+
+07-13-33-90 |
+
+Haricots communs (Phaseolus vulgaris), secs, écossés, même décortiqués ou cassés (à l'exclusion des haricots destinés à l'ensemencement) |
+
+07-13-40-00 |
+
+Lentilles sèches écossées |
+
+07-13-90-00 |
+
+Légumes à cosse secs, écossés, même décortiqués ou cassés (à l'exclusion des pois, pois chiches, haricots, lentilles, fèves, féveroles et pois d'Ambrevade ou pois d'Angole) |
+
+08-05-10-28 |
+
+Oranges douces, fraîches (à l'exclusion des oranges navel et des oranges blanches) |
+
+08-08-10-80 |
+
+Pommes fraîches (à l'exclusion des pommes à cidre présentées en vrac, du 16 septembre au 15 décembre) |
+
+15-12-19-90 |
+
+Huiles de tournesol ou de carthame et leurs fractions, même raffinées, mais non chimiquement modifiées (à l'exclusion des huiles brutes et des huiles destinées à des usages techniques ou industriels) |
+
+15-17-10-90 |
+
+Margarine d'une teneur en poids de matières grasses provenant du lait n'excédant pas 10 % ou excédant 15 % (à l'exclusion de la margarine liquide) |
+
+16-04-13-19 |
+
+Préparations et conserves de sardines entières ou en morceaux (à l'exclusion des préparations et conserves de sardines hachées ainsi que des préparations et conserves à l'huile d'olive) |
+
+16-04-14-38 |
+
+Préparations et conserves de thons à nageoires jaunes (Thunnus albacares), entiers ou en morceaux (à l'exclusion des thons hachés, à l'huile végétale et de filets dénommés " longes ") |
+
+16-04-14-41 |
+
+Préparations et conserves de thons, entiers ou en morceaux, à l'huile végétale (à l'exclusion des thons hachés, listaos, bonites à ventre rayé et thons à nageoires jaunes (Thunnus albacares)) |
+
+16-04-14-48 |
+
+Préparations et conserves de thons, entiers ou en morceaux (à l'exclusion des thons hachés, à l'huile végétale, listaos, bonites à ventre rayé et thons à nageoires jaunes (Thunnus albacares) et des filets dénommés " longes)) |
+
+19-02-11 à 19-02-19 |
+
+Pâtes alimentaires non cuites ni farcies ni autrement préparées |
+
+19-04-10-90 |
+
+Produits à base de céréales obtenus par soufflage ou grillage (à l'exclusion des produits à base de maïs ou de riz) |
+
+19-05-31-99 |
+
+Biscuits additionnés d'édulcorants, même contenant du cacao, d'une teneur en poids de matières grasses provenant du lait n'excédant pas 8 % (à l'exclusion des doubles biscuits fourrés ainsi que des produits entièrement ou partiellement enrobés ou recouverts de chocolat ou d'autres préparations contenant du cacao) |
+
+19-05-40-10 |
+
+Biscottes |
+
+20-02-10-90 |
+
+Tomates, entières ou en morceaux, préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique (à l'exclusion des tomates pelées) |
+
+20-02-90-20 |
+
+Tomates préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique d'une teneur en poids de matière sèche égale ou supérieure à 12 % mais inférieur ou égale à 34 % en emballages immédiats d'un contenu net n'excédant pas 1kg |
+
+20-04-10-99 |
+
+Pommes de terre, préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique, congelées (à l'exclusion des pommes de terre simplement cuites ou des pommes de terre sous forme de farines, semoules ou flocons) |
+
+20-04-90-98 |
+
+Légumes et mélanges de légumes, préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, congelés (à l'exclusion des confits au sucre, des tomates, des champignons, des truffes, des pommes de terre, du maïs doux (Zea mays var. saccharata), de la choucroute, des câpres, des olives, des pois (Pisum sativum), des haricots verts (Phaseolus spp.) et des oignons simplement cuits, non mélangés) |
+
+20-05-20-20 |
+
+Pommes de terre, en fines tranches, frites, même salées ou aromatisées, en emballages hermétiquement clos, propres à la consommation en l'état, non congelées |
+
+20-05-51
+
+et 20-05-59 |
+
+Haricots (Vigna spp., Phaseolus spp.), préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, non congelés |
+
+21-03-20-00 |
+
+Tomato ketchup et autres sauces tomates |
+
+22-09-00-91 |
+
+Vinaigres comestibles et succédanés de vinaigre comestibles obtenus à partir d'acide acétique, présentés en récipients d'une contenance n'excédant pas 2 L (à l'exclusion des vinaigres de vin) |
+
+25-01-00-91 |
+
+Sel propre à l'alimentation humaine |
+
+33-06-10-00 |
+
+Dentifrices, préparés, même des types utilisés par les dentistes |
+
+34-01-30-00 |
+
+Produits et préparations organiques tensio-actifs destinés au lavage de la peau, sous forme de liquide ou de crème, conditionnés pour la vente au détail, même contenant du savon |
+
+48-18-10-10 |
+
+Papier hygiénique d'un poids, par pli, au mètre carré n'excédant pas 25 g |
+
+48-18-20-10 |
+
+Mouchoirs et serviettes à démaquiller |
+
+48-18-20-91 |
+
+Essuie-mains, en pâte à papier, papier, ouate de cellulose ou nappes de fibres de cellulose, en rouleaux (à l'exclusion des produits en rouleaux d'une largeur n'excédant pas 36 cm) |
+
+56-01-21-10 |
+
+Ouates de coton hydrophile et articles en ces ouates (sauf serviettes et tampons hygiéniques, couches pour bébés et articles hygiéniques similaires, produits imprégnés ou recouverts de substances pharmaceutiques ou conditionnés pour la vente au détail à des fins médicales, chirurgicales, dentaires ou vétérinaires ainsi que produits imprégnés, enduits ou recouverts de parfum, de fard, de savon, de détergents, etc.) |
+
+82-12-10-10 |
+
+Rasoirs de sûreté à lames non remplaçables en métaux communs |
+
+96-03-21-00 |
+
+Brosses à dents, y compris les brosses à prothèses dentaires |
+
+96-19-00-30 |
+
+Serviettes et tampons hygiéniques, couches et langes et articles hygiéniques similaires, en ouates de matières textiles |
+
+96-19-00-71 |
+
+Serviettes hygiéniques (sauf en matières textiles) |
+
+96-19-00-75 |
+
+Tampons hygiéniques (sauf en matières textiles) |
+
+96-19-00-81 |
+
+Couches et langes pour bébés (sauf en matières textiles) |
+
+96-19-00-89 |
+
+Articles hygiéniques, par exemple articles pour l'incontinence (sauf en matières textiles, et des serviettes et tampons hygiéniques ainsi que des couches et langes pour bébés) |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 27 février 2025 (NOR : ECOE2505510A), ces dispositions entrent en vigueur le 1er mars 2025.
