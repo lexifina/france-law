@@ -26,6 +26,8 @@ Areva.
 
 Arte France.
 
+ASN Holding SAS
+
 Bpifrance EPIC.
 
 Caisse nationale des autoroutes.
@@ -44,7 +46,7 @@ Dassault Aviation.
 
 Défense conseil international (DCI).
 
-Dexia.
+Dexia Holding.
 
 Electricité de France (EDF).
 
@@ -85,6 +87,8 @@ Grand port maritime de Nantes Saint-Nazaire.
 Grand port fluvio-maritime de l'Axe-Seine.
 
 IN Groupe.
+
+John Cockerill Defense
 
 KNDS NV.
 
@@ -138,8 +142,6 @@ Société pour le logement intermédiaire SAS.
 
 Société technique pour l'énergie atomique.
 
-Sofema.
-
 Thales.
 
 TSA SAS ;
@@ -148,19 +150,21 @@ TSA SAS ;
 
 Adit SAS.
 
+Airbus Defence and Space Holding France SAS
+
 ArianeGroup SAS.
 
 Aubert & Duval SAS.
 
 Bpifrance.
 
+Bull
+
 CILAS.
 
 Exxelia International SAS.
 
-GEAST SAS.
-
-Nexter systems.
+KNDS France.
 
 Safran Ceramics.
 
