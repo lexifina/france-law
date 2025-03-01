@@ -4,7 +4,9 @@ ANNEXE 19
 
 LISTE DES DIAGNOSTICS
 
-Liste 1 : Diagnostics pour lesquels la prise en charge au sein de la structure des urgences autorisée donne lieu à la facturation d'un supplément dénommé “ Supplément prise en charge pédiatrique ” (PE1).
+Liste 1
+
+DIAGNOSTICS POUR LESQUELS LA PRISE EN CHARGE AU SEIN DE LA STRUCTURE DES URGENCES AUTORISÉE DONNE LIEU À LA FACTURATION D'UN SUPPLÉMENT DÉNOMMÉ " SUPPLÉMENT PRISE EN CHARGE PÉDIATRIQUE " (PE1)
 
 Code CIM 10 |
 
@@ -5890,7 +5892,9 @@ Z04. 0 |
 
 Alcootest et recherche de substances pharmacologiques dans le sang |
 
-Liste 2 : Diagnostics pour lesquels la prise en charge au sein de la structure des urgences autorisée donne lieu à la facturation d'un supplément dénommé “ Supplément prise en charge pédiatrique ” (PE2).
+Liste 2
+
+DIAGNOSTICS POUR LESQUELS LA PRISE EN CHARGE AU SEIN DE LA STRUCTURE DES URGENCES AUTORISÉE DONNE LIEU À LA FACTURATION D'UN SUPPLÉMENT DÉNOMMÉ " SUPPLÉMENT PRISE EN CHARGE PÉDIATRIQUE " (PE2)
 
 Code CIM 10 |
 
@@ -16191,3 +16195,11 @@ Soins palliatifs |
 Z76. 5 |
 
 Simulateur |
+
+Z51. 86 |
+
+Sédation palliative hors SPCMJD |
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 26 février 2025 (TSSH2504725A), ces dispositions entrent en vigueur au 1er mars 2025.

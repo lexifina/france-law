@@ -1,6 +1,8 @@
 # Article Annexe 8
 
-LISTE 1 : DIAGNOSTICS ET ACTES ASSOCIÉS AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE
+Liste 1
+
+DIAGNOSTICS ET ACTES ASSOCIÉS AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE
 
 CODES CIM-10 |
 
@@ -2382,6 +2384,26 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
+O72. 00 |
+
+Hémorragie de la délivrance (troisième période), sévère |
+
+|
+
+|
+
+|
+
+O72. 08 |
+
+Hémorragie de la délivrance (troisième période), autre et sans précision |
+
+FELF011 |
+
+|
+
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
+
 O72. 1 |
 
 Autres hémorragies immédiates du post-partum |
@@ -2392,9 +2414,49 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
+O72. 10 |
+
+Autres hémorragies immédiates du post-partum, sévère |
+
+|
+
+|
+
+|
+
+O72. 18 |
+
+Autres hémorragies immédiates du postpartum et sans précision |
+
+FELF011 |
+
+|
+
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
+
 O72. 2 |
 
 Hémorragie du post-partum, tardive et secondaire |
+
+FELF011 |
+
+|
+
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
+
+O72. 20 |
+
+Hémorragie du post-partum, tardive et secondaire, sévère |
+
+|
+
+|
+
+|
+
+O72. 28 |
+
+Hémorragie du post-partum, tardive et secondaire, autre et sans précision |
 
 FELF011 |
 

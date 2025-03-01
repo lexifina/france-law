@@ -1,8 +1,12 @@
 # Article Annexe 8 (suite)
 
-LISTE 3 : DIAGNOSTICS ET ACTES ASSOCIÉS AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE POUR LES ENFANTS DE MOINS DE 18 ANS
+Liste 3
 
-CODES CIM-10 |
+DIAGNOSTICS ET ACTES ASSOCIÉS AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE POUR LES ENFANTS DE MOINS DE 18 ANS
+
+CODES
+
+CIM-10 |
 
 LIBELLÉS CIM-10 |
 
@@ -1934,4 +1938,4 @@ Dépendance envers une dialyse rénale, autre |
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 1er mars 2023 (SPRH2305803A), ces dispositions entrent en vigueur au 1er mars 2023.
+Conformément à l’article 3 de l’arrêté du 26 février 2025 (TSSH2504725A), ces dispositions entrent en vigueur au 1er mars 2025.

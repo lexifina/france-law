@@ -1,6 +1,8 @@
 # Article Annexe 8 (suite)
 
-LISTE 2 : ACTES AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE
+Liste 2
+
+ACTES AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE
 
 CODES ACTES CCAM |
 
@@ -6008,12 +6010,6 @@ JFFA007 |
 
 Exérèse d'une lipomatose pelvienne, par laparotomie |
 
-|
-
-|
-
-|
-
 JFFA008 |
 
 |
@@ -7138,4 +7134,4 @@ Administration locorégionale d'agent pharmacologique anticancéreux par voie ar
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 1er mars 2023 (SPRH2305803A), ces dispositions entrent en vigueur au 1er mars 2023.
+Conformément à l’article 3 de l’arrêté du 26 février 2025 (TSSH2504725A), ces dispositions entrent en vigueur au 1er mars 2025.
