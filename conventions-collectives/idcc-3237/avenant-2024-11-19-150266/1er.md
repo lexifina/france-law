@@ -1,0 +1,83 @@
+# Article 1er
+
+Les salaires minimaux hiérarchiques mensuels bruts sont fixés comme suit :
+
+(En euros.)
+
+Niveau |
+
+Salaire mensuel |
+
+Taux horaire
+
+(Calculé comme suit : salaire mensuel/151,67 heures) |
+
+E1
+
+(Après 6 mois d'ancienneté dans l'entreprise,
+
+passage automatique au niveau E2 [art. 53.2 CCN]) |
+
+1 817,53 |
+
+11,98 |
+
+E2 |
+
+1 836,07 |
+
+12,11 |
+
+E3 |
+
+1 856,17 |
+
+12,24 |
+
+E4 |
+
+1 883,99 |
+
+12,42 |
+
+E5 |
+
+1 911,80 |
+
+12,61 |
+
+E6 |
+
+1 933,44 |
+
+12,75 |
+
+E7 |
+
+1 987,54 |
+
+13,10 |
+
+AM1 |
+
+2 415,64 |
+
+15,93 |
+
+AM2 |
+
+2 488,28 |
+
+16,41 |
+
+C1 |
+
+3 016,85 |
+
+19,89 |
+
+C2 |
+
+3 384,68 |
+
+22,32 |
