@@ -2,35 +2,35 @@
 
 LISTE DES FORMATIONS MENTIONNÉES À L'ARTICLE 3 DU PRÉSENT ARRÊTÉ
 
-- les régions de gendarmerie ;
+-les régions de gendarmerie ;
 
-- le commandement des écoles de la gendarmerie nationale (1) ;
+-le commandement des écoles de la gendarmerie nationale (1) ;
 
-- le commandement de la gendarmerie outre-mer (2) ;
+-le commandement de la gendarmerie outre-mer (2) ;
 
-- la garde républicaine ;
+-la garde républicaine ;
 
-- le groupe d'intervention de la gendarmerie nationale ;
+-le groupe d'intervention de la gendarmerie nationale ;
 
-- la gendarmerie de l'air ;
+-la gendarmerie de l'air et de l'espace ;
 
-- la gendarmerie des transports aériens ;
+-la gendarmerie des transports aériens ;
 
-- la gendarmerie maritime ;
+-la gendarmerie maritime ;
 
-- la gendarmerie de l'armement ;
+-la gendarmerie de l'armement ;
 
-- le pôle judiciaire de la gendarmerie nationale ;
+-le pôle judiciaire de la gendarmerie nationale ;
 
-- le commandement du soutien opérationnel de la gendarmerie nationale (3) ;
+-le commandement du soutien opérationnel de la gendarmerie nationale (3) ;
 
-- la gendarmerie de la sécurité des armements nucléaires ;
+-la gendarmerie de la sécurité des armements nucléaires ;
 
-- le commandement des forces aériennes de la gendarmerie nationale ;
+-le commandement des forces aériennes de la gendarmerie nationale ;
 
-- le commandement de la gendarmerie dans le cyberespace ;
+-le commandement de la gendarmerie dans le cyberespace ;
 
-- le commandement de la gendarmerie pour l'environnement et la santé.
+-le commandement de la gendarmerie pour l'environnement et la santé.
 
 (1) Les militaires affectés au sein des écoles de gendarmerie (EG), de l'Académie militaire de la gendarmerie nationale (AMGN) et du centre national d'entraînement des forces de gendarmerie (CNEFG) relèvent de la commission assurée par le commandement des écoles de la gendarmerie nationale (CEGN) pour l'attribution du diplôme de qualification supérieure.
 

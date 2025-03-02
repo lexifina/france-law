@@ -38,7 +38,7 @@ L'officier adjoint commandement de la région, ou à défaut, l'officier le plus
 
 (1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Île-de-France, lire le chef d'état-major. |
 
-Gendarmerie de l'air. |
+Gendarmerie de l'air et de l'espace. |
 
 Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des ressources humaines de la gendarmerie nationale. |
 
@@ -234,23 +234,21 @@ Un officier supérieur du pôle judiciaire désigné par le commandant du pôle 
 
 BRANCHES |
 
-PRÉSIDENCE
-
-de la commission titulaire
+PRÉSIDENCEde la commission titulaire
 
 |
 
-PRÉSIDENCE
+PRÉSIDENCEde
 
-de la commission suppléante
+la commission suppléante
 
 |
 
 MEMBRES |
 
-Aéronautique, pilotes
+Aéronautique,
 
-Aéronautique, mécaniciens cellules et moteurs.
+pilotesAéronautique, mécaniciens cellules et moteurs.
 
 Aéronautique, mécaniciens avionique.
 

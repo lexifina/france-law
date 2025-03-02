@@ -936,7 +936,7 @@ Commandant d'un peloton spécialisé de protection de la gendarmerie ;
 
 -officier adjoint renseignement rattaché à un groupement de gendarmerie des transports aériens (2 emplois) ;
 
--officier adjoint commandement rattaché à un groupement de gendarmerie de l'air (2 emplois) ;
+-officier adjoint commandement rattaché à un groupement de gendarmerie de l'air et de l'espace (2 emplois) ;
 
 -officier adjoint renseignement rattaché à un groupement de gendarmerie maritime (3 emplois) ;
 
@@ -956,7 +956,7 @@ Commandant de compagnie de gendarmerie des transports aériens :
 
 -commandant d'une compagnie de gendarmerie maritime ;
 
--commandant d'une compagnie de gendarmerie de l'air ;
+-commandant d'une compagnie de gendarmerie de l'air et de l'espace ;
 
 -chef du bureau de la réglementation, de la formation et de la protection du secret de la gendarmerie de la sécurité des armements nucléaires ;
 

@@ -900,17 +900,17 @@ Commandant en second de groupement de gendarmerie mobile de :
 
 -commandant du centre national d'instruction de la gendarmerie maritime ;
 
--commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air ;
+-commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air et de l'espace ;
 
--commandant en second d'un groupement de gendarmerie de l'air ;
+-commandant en second d'un groupement de gendarmerie de l'air et de l'espace ;
 
 -commandant en second d'un groupement de gendarmerie maritime ;
 
 -commandant en second d'un groupement de la gendarmerie des transports aériens ;
 
--commandant de la section de recherches en second de la gendarmerie de l'air ;
+-commandant de la section de recherches en second de la gendarmerie de l'air et de l'espace ;
 
--officier adjoint commandement rattaché à un groupement de gendarmerie de l'air (2 emplois).
+-officier adjoint commandement rattaché à un groupement de gendarmerie de l'air et de l'espace (2 emplois).
 
 Commandant de compagnie de gendarmerie des transports aériens :
 

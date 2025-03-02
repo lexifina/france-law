@@ -538,7 +538,7 @@ Commandant en second d'une compagnie de la gendarmerie des transports aériens :
 
 -commandant en second de la compagnie de la gendarmerie de l'armement Sud ;
 
--commandant en second d'une compagnie de la gendarmerie de l'air.
+-commandant en second d'une compagnie de la gendarmerie de l'air et de l'espace.
 
 Commandant de la brigade de gendarmerie des transports aériens de :
 

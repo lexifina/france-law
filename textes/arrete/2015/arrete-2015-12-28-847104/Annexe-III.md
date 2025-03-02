@@ -516,23 +516,23 @@ Commandant en second de groupement de gendarmerie mobile de :
 
 5° Gendarmeries spécialisées :
 
--commandant du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air ;
+-commandant du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air et de l'espace ;
 
--commandant d'un groupement de gendarmerie de l'air ;
+-commandant d'un groupement de gendarmerie de l'air et de l'espace ;
 
 -commandant d'un groupement de gendarmerie maritime ;
 
 -commandant d'un groupement de gendarmerie des transports aériens ;
 
--chef de la division de l'appui opérationnel de la gendarmerie de l'air ;
+-chef de la division de l'appui opérationnel de la gendarmerie de l'air et de l'espace ;
 
 -chef de la division de l'appui opérationnel de la gendarmerie maritime ;
 
--chef de la division des opérations de la gendarmerie de l'air ;
+-chef de la division des opérations de la gendarmerie de l'air et de l'espace ;
 
 -chef de la division des opérations de la gendarmerie maritime ;
 
--commandant de la section de recherches de la gendarmerie de l'air ;
+-commandant de la section de recherches de la gendarmerie de l'air et de l'espace ;
 
 -commandant de la section de recherches en second de la gendarmerie maritime ;
 
