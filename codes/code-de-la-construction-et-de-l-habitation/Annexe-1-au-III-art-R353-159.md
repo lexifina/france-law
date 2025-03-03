@@ -194,13 +194,17 @@ Article 10
 
 Maxima applicables à la part de la redevance assimilable au loyer et aux charges locatives récupérables
 
-La part de la redevance mensuelle prise en compte pour le calcul de l'aide personnalisée au logement, assimilable au loyer et aux charges locatives récupérables, acquittée par le résident, hors dépenses liées aux prestations définies à l'article 12, ne doit pas excéder un maximum qui est fixé en euros par type de logement et dont le montant est inscrit dans le tableau du III de l'annexe à la présente convention.
+La part de la redevance mensuelle prise en compte pour le calcul de l'aide personnalisée au logement, assimilable au loyer et aux charges locatives récupérables, acquittée par le résident, hors dépenses liées aux prestations définies à l'article 12, ne doit pas excéder un maximum qui est fixé en euros par type de logement et dont le montant est inscrit dans le tableau du III de l'annexe à la présente convention applicable au logement concerné selon le type de prêt locatif aidé ayant permis sa construction ou sa rénovation.
+
+Lorsque le logement-foyer a bénéficié de plus d'un prêt locatif aidé (PLAi, PLUS, PLS), une redevance maximale est déterminée pour chacun des prêts obtenus et le tableau III de l'annexe à la présente convention précise la répartition des logements par redevance maximale.
 
 Ce maximum applicable à la part de la redevance assimilable au loyer et aux charges locatives récupérables est révisé au 1er janvier de chaque année, dans les conditions prévues à l'article L. 353-9-2 du code de la construction et de l'habitation.
 
 La redevance pratiquée, fixée dans la limite de ce maximum, est révisée au 1er janvier de chaque année, dans les conditions prévues au premier alinéa de l'article L. 353-9-3 du code de la construction et de l'habitation.
 
 Le gestionnaire peut, en outre, être autorisé à augmenter cette redevance au-delà de l'indice de référence des loyers, dans la limite de la redevance maximale et dans les conditions prévues au deuxième alinéa de l'article L. 353-9-3 du code de la construction et de l'habitation.
+
+Lorsque la redevance maximale a fait l'objet d'une augmentation par avenant en application du troisième alinéa de l'article L. 353-9-2, elle n'est applicable qu'aux nouveaux résidents.
 
 Article 11
 
@@ -386,7 +390,7 @@ Description du programme des travaux :
 
 Variante 3 : programme neuf dont la construction est financée dans les conditions visées au 3° de l'article R. 832-21 du code de la construction et de l'habitation.
 
-III.-Composition du programme
+III.- Composition du programme
 
 A.-Locaux auxquels s'applique la présente convention :
 
@@ -397,6 +401,160 @@ Surface habitable totale : … mètres carrés, dont :
 Se décomposant comme suit :
 
 Nombre total de logements :
+
+-Logements financés via un PLAi
+
+TYPES DE LOGEMENT (*)
+
+(une ligne par logement) |
+
+SURFACE HABITABLE
+
+par local |
+
+NUMÉRO
+
+du logement |
+
+REDEVANCE MAXIMALE
+
+par logement prise en compte pour le calcul de l'APL |
+
+Logement T 1' |
+
+|
+
+|
+
+|
+
+Logement T 2 |
+
+|
+
+|
+
+|
+
+Logement T 3 |
+
+|
+
+|
+
+|
+
+Logement T 4 |
+
+|
+
+|
+
+|
+
+Logement T 5 |
+
+|
+
+|
+
+|
+
+Logement T 6 |
+
+|
+
+|
+
+|
+
+Logement T 7 |
+
+|
+
+|
+
+|
+
+(*) Normes des typologies définies par l'arrêté du 17 octobre 2011. |
+
+-Logements financés via un PLUS
+
+TYPES DE LOGEMENT (*)
+
+(une ligne par logement) |
+
+SURFACE HABITABLE
+
+par local |
+
+NUMÉRO
+
+du logement |
+
+REDEVANCE MAXIMALE
+
+par logement prise en compte pour le calcul de l'APL |
+
+Logement T 1' |
+
+|
+
+|
+
+|
+
+Logement T 2 |
+
+|
+
+|
+
+|
+
+Logement T 3 |
+
+|
+
+|
+
+|
+
+Logement T 4 |
+
+|
+
+|
+
+|
+
+Logement T 5 |
+
+|
+
+|
+
+|
+
+Logement T 6 |
+
+|
+
+|
+
+|
+
+Logement T 7 |
+
+|
+
+|
+
+|
+
+(*) Normes des typologies définies par l'arrêté du 17 octobre 2011. |
+
+-Logements financés via un PLS
 
 TYPES DE LOGEMENT (*)
 
@@ -496,7 +654,7 @@ B.-Locaux auxquels ne s'applique pas la convention [Exemple : logement de foncti
 
 -
 
--
+-.
 
 IV.-Renseignements administratifs
 

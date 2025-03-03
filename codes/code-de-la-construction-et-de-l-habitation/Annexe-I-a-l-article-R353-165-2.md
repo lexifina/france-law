@@ -174,13 +174,17 @@ Article 10
 
 Maxima applicables à la part de la redevance assimilable au loyer et aux charges locatives récupérables
 
-La part de la redevance mensuelle prise en compte pour le calcul de l'aide personnalisée au logement, assimilable au loyer et aux charges locatives récupérables, acquittée par le résident, hors dépenses liées aux prestations définies à l'article 12 ne doit pas excéder un maximum qui est fixé en euros par type de logement et dont le montant est inscrit dans le tableau du III de l'annexe à la présente convention.
+La part de la redevance mensuelle prise en compte pour le calcul de l'aide personnalisée au logement, assimilable au loyer et aux charges locatives récupérables, acquittée par le résident, hors dépenses liées aux prestations définies à l'article 12 ne doit pas excéder un maximum qui est fixé en euros par type de logement et dont le montant est inscrit dans le tableau du III de l'annexe à la présente convention applicable au logement concerné selon le type de prêt locatif aidé ayant permis sa construction ou sa rénovation.
+
+Lorsque le logement-foyer a bénéficié de plus d'un prêt locatif aidé (PLAi, PLUS, PLS), une redevance maximale est déterminée pour chacun des prêts obtenus et le tableau III de l'annexe à la présente convention précise la répartition des logements par redevance maximale.
 
 Ce maximum applicable à la part de la redevance assimilable au loyer et aux charges locatives récupérables est révisé, en application de l'article L. 353-9-2 du code de la construction et de l'habitation, au 1er janvier de chaque année en fonction de l'indice de référence des loyers (IRL) prévu au I de l'article 17-1 de la loi n° 89-462 du 6 juillet 1989 modifiée. La date de l'IRL prise en compte pour cette révision est celle du deuxième trimestre de l'année précédente.
 
 La redevance pratiquée peut, dans la limite de la redevance maximum et de l'IRL, être réactualisée au 1er janvier de chaque année, dans les conditions prévues à l'article L. 353-9-3 du code de la construction et de l'habitation.
 
 Le gestionnaire peut, en outre, être autorisé à augmenter cette redevance au-delà de l'IRL, dans la limite de la redevance maximale et dans les conditions prévues au deuxième alinéa de l'article L. 353-9-3 du code de la construction et de l'habitation.
+
+Lorsque la redevance maximale a fait l'objet d'une augmentation par avenant en application du troisième alinéa de l'article L. 353-9-2, elle n'est applicable qu'aux nouveaux résidents.
 
 Article 11
 
@@ -352,47 +356,37 @@ Description du programme des travaux :
 
 Variante 3 : programme neuf dont la construction est financée dans les conditions visées au 3° de l'article R. 832-21 du code de la construction et de l'habitation.
 
-III.-Composition du programme :
+III.- Composition du programme
 
 A.-Surface habitable totale :
 
 B.-Locaux auxquels s'applique la présente convention :
 
-1. Surface habitable totale : mètres carrés, dont :
+1. Surface habitable totale : … mètres carrés, dont :
 
-2. Surface habitable totale des parties privatives :
-
-2. mètres carrés,
+2. Surface habitable totale des parties privatives : … mètres carrés ;
 
 Se décomposant comme suit :
 
 Nombre total de logements :
 
+2.1.-Logements financés via un PLAi
+
 TYPES DE LOGEMENT (*)
 
-(une ligne par logement)
-
-|
+(une ligne par logement) |
 
 SURFACE HABITABLE
 
-par local
-
-|
+par local |
 
 NUMÉRO
 
-du logement
-
-|
+du logement |
 
 REDEVANCE MAXIMALE
 
-par logement prise en compte
-
-pour le calcul de l'APL
-
-|
+par logement prise en compte pour le calcul de l'APL |
 
 Logement T 1 |
 
@@ -403,14 +397,6 @@ Logement T 1 |
 |
 
 Logement T 1' |
-
-|
-
-|
-
-|
-
-Logement T 1 bis |
 
 |
 
@@ -458,9 +444,185 @@ Logement T 6 |
 
 |
 
-(*) Normes des typologies définies par l'arrêté du 10 juin 1996. |
+Logement T 7 |
 
-3. Surface totale des locaux à usage collectif : mètres carrés de surface habitable ;
+|
+
+|
+
+|
+
+(*) Normes des typologies définies par l'arrêté du 17 octobre 2011. |
+
+2.2.-Logements financés via un PLUS
+
+TYPES DE LOGEMENT (*)
+
+(une ligne par logement) |
+
+SURFACE HABITABLE
+
+par local |
+
+NUMÉRO
+
+du logement |
+
+REDEVANCE MAXIMALE
+
+par logement prise en compte pour le calcul de l'APL |
+
+Logement T 1 |
+
+|
+
+|
+
+|
+
+Logement T 1' |
+
+|
+
+|
+
+|
+
+Logement T 2 |
+
+|
+
+|
+
+|
+
+Logement T 3 |
+
+|
+
+|
+
+|
+
+Logement T 4 |
+
+|
+
+|
+
+|
+
+Logement T 5 |
+
+|
+
+|
+
+|
+
+Logement T 6 |
+
+|
+
+|
+
+|
+
+Logement T 7 |
+
+|
+
+|
+
+|
+
+(*) Normes des typologies définies par l'arrêté du 17 octobre 2011. |
+
+2.3-Logements financés via un PLS
+
+TYPES DE LOGEMENT (*)
+
+(une ligne par logement) |
+
+SURFACE HABITABLE
+
+par local |
+
+NUMÉRO
+
+du logement |
+
+REDEVANCE MAXIMALE
+
+par logement prise en compte pour le calcul de l'APL |
+
+Logement T 1 |
+
+|
+
+|
+
+|
+
+Logement T 1' |
+
+|
+
+|
+
+|
+
+Logement T 2 |
+
+|
+
+|
+
+|
+
+Logement T 3 |
+
+|
+
+|
+
+|
+
+Logement T 4 |
+
+|
+
+|
+
+|
+
+Logement T 5 |
+
+|
+
+|
+
+|
+
+Logement T 6 |
+
+|
+
+|
+
+|
+
+Logement T 7 |
+
+|
+
+|
+
+|
+
+(*) Normes des typologies définies par l'arrêté du 17 octobre 2011. |
+
+3. Surface totale des locaux à usage collectif : … mètres carrés de surface habitable :
 
 Se décomposant comme suit :
 
@@ -476,13 +638,11 @@ NOMBRE |
 
 |
 
-|
-
 4. Dépendances (nombre et surface) :
 
 5. Garages et/ ou parking (nombre) :
 
-C.-Locaux auxquels ne s'applique pas la convention [exemple : logement de fonction, logement d'accueil temporaire...] :
+C.-Locaux auxquels ne s'applique pas la convention [Exemple : logement de fonction, logement d'accueil temporaire …] :
 
 -
 
