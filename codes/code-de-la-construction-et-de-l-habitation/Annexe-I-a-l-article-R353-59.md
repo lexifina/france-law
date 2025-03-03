@@ -92,7 +92,27 @@ Article 8
 
 Montants des loyers maximums et modalités de révision.
 
-Le montant du loyer maximum mentionné à l'article D. 353-70 du code de la construction et de l'habitation est fixé à … € le mètre carré par … (mois ou année selon que la superficie est exprimée en surface utile ou en surface corrigée).
+Lorsque la superficie est exprimée en surface corrigée ou lorsque l'opération a bénéficié d'un des prêts locatifs aidés ou n'a pas bénéficié d'un de ces prêts, le montant du loyer maximum mentionné à l'article D. 353-70 du code de la construction et de l'habitation est fixé à … € le mètre carré par … (mois ou année selon que la superficie est exprimée en surface utile ou en surface corrigée).
+
+Lorsque l'opération a bénéficié de plus d'un prêt locatif aidé (PLAi, PLUS, PLS), le loyer maximum déterminé pour chacun des prêts obtenus est renseigné dans le tableau ci-dessous :
+
+Prêt locatif aidé |
+
+Loyer maximum en euros par mètre carré par mois
+
+(exprimé en surface utile) |
+
+PLAi |
+
+… |
+
+PLUS |
+
+… |
+
+PLS |
+
+… |
 
 Ce montant est majoré de 33 % au plus pour les logements qui ont été attribués dans les conditions du b du 3° de l'article 7 de la présente convention.
 
@@ -100,11 +120,33 @@ Les annexes qui n'entrent pas dans le calcul de la surface utile peuvent donner 
 
 Les loyers maximums sont révisés chaque année, le 1er janvier, dans les conditions prévues à l'article L. 353-9-2 du code de la construction et de l'habitation.
 
+Lorsque le loyer maximum a fait l'objet d'une augmentation par avenant en application du troisième alinéa de l'article L. 353-9-2, il n'est applicable qu'aux nouveaux locataires.
+
 Article 8 bis
 
 Dispositions particulières relatives aux loyers maximums des logements conventionnés lors d'une acquisition ou d'une convention sans travaux faisant suite à une nouvelle acquisition lorsque les loyers ne sont pas établis sur la base de la surface corrigée, résultant de l'application du décret n° 48-1766 du 22 novembre 1948 fixant les conditions de détermination de la surface corrigée des locaux d'habitation ou à usage professionnel et de l'article 4 du décret n° 60-1063 du 1er octobre 1960 modifiant le décret n° 48-1766 du 22 novembre 1948 fixant les conditions de détermination de la surface corrigée des locaux d'habitation ou à usage professionnel.
 
-Lorsque l'opération faisant l'objet de la présente convention est une opération d'acquisition ou n'est pas liée à la réalisation de travaux mais fait suite à une nouvelle acquisition, le loyer maximum applicable à chaque logement occupé par un locataire ou un occupant de bonne foi dont les ressources excèdent les plafonds de ressources prévus à l'article D. 331-12 précité pour l'attribution des logements sociaux au moment de l'acquisition ou n'ayant pas fourni d'informations sur le niveau de ses ressources, par dérogation et à titre transitoire, est fixé à … € par mètre carré de surface utile par mois. Ce loyer maximum est révisé chaque année, le 1er janvier, dans les conditions prévues à l'article L. 353-9-2 précité. Il ne peut avoir pour effet d'autoriser, au moment de l'entrée en vigueur de la convention, une majoration de plus de 10 % du loyer acquitté par le locataire ou l'occupant de bonne foi, lorsque ce loyer est supérieur à celui fixé à l'article 8 de la présente convention.
+Lorsque l'opération faisant l'objet de la présente convention est une opération d'acquisition ou n'est pas liée à la réalisation de travaux mais fait suite à une nouvelle acquisition, et lorsque l'opération a bénéficié d'un des prêts locatifs aidés ou n'a pas bénéficié d'un de ces prêts, le loyer maximum applicable à chaque logement occupé par un locataire ou un occupant de bonne foi dont les ressources excèdent les plafonds de ressources prévus à l'article D. 331-12 précité pour l'attribution des logements sociaux au moment de l'acquisition ou n'ayant pas fourni d'informations sur le niveau de ses ressources, par dérogation et à titre transitoire, est fixé à … € par mètre carré de surface utile par mois. Lorsque l'opération a bénéficié de plus d'un prêt locatif aidé (PLAi, PLUS, PLS), le loyer dérogatoire maximum déterminé pour chacun des prêts obtenus est renseigné dans le tableau ci-dessous :
+
+Prêt locatif aidé |
+
+Loyer dérogatoire maximum en euros par mètre carré par mois
+
+(exprimé en surface utile) |
+
+PLAi |
+
+… |
+
+PLUS |
+
+… |
+
+PLS |
+
+… |
+
+Ce loyer maximum est révisé chaque année, le 1er janvier, dans les conditions prévues à l'article L. 353-9-2 précité. Il ne peut avoir pour effet d'autoriser, au moment de l'entrée en vigueur de la convention, une majoration de plus de 10 % du loyer acquitté par le locataire ou l'occupant de bonne foi, lorsque ce loyer est supérieur à celui fixé à l'article 8 de la présente convention.
 
 Article 8 ter
 
@@ -432,6 +474,8 @@ A.-Locaux auxquels s'applique la présente convention.
 
 5. Décompte des surfaces et des coefficients propres au logement appliqués pour le calcul du loyer :
 
+5-a) L'opération a bénéficié d'un des prêts locatifs aidés ou n'a pas bénéficié d'un de ces prêts :
+
 DÉSIGNATION
 
 des logements |
@@ -440,31 +484,39 @@ SURFACE
 
 habitable
 
-(art. R. 111-2) |
+(art. R. 156-1) |
 
 SURFACE
 
-réelle des annexes |
+réelle
+
+des annexes |
 
 SURFACE UTILE
 
-(surface habitable augmentée de 50 % de la surface des annexes) |
+(surface habitable augmentée de
+
+50 % de la surface des annexes |
 
 LOYER
 
-maximum du logement en euros par mètre carré de surface utile |
+maximum
+
+du logement en
+
+euros par mètre carré de surface utile |
 
 COEFFICIENT
 
-propre au
+propre au logement |
 
-logement |
+LOYER
 
-LOYER MAXIMUM
+MAXIMUM
 
 du logement
 
-(col. 4 x col. 5 x col. 6) * |
+(col. 4 × col. 5 × col. 6) (*) |
 
 Col. 1 |
 
@@ -508,7 +560,257 @@ Total |
 
 |
 
-* La majoration prévue à l'article 8 de la convention est susceptible de s'appliquer à ces loyers. |
+(*) La majoration prévue à l'article 9 de la convention est susceptible de s'appliquer à ces loyers. |
+
+. |
+
+5-b) L'opération a bénéficié de plus d'un prêt locatif aidé (PLAi, PLUS, PLS) :
+
+-Logements financés via un PLAi
+
+DÉSIGNATION des logements |
+
+SURFACE habitable
+
+(art. R. 156-1) |
+
+SURFACE réelle des annexes |
+
+SURFACE UTILE
+
+(surface habitable augmentée de
+
+50 % de la surface des annexes) |
+
+LOYER
+
+maximum du logement en
+
+euros par mètre
+
+carré de surface
+
+utile |
+
+COEFFICIENT propre au logement |
+
+LOYER MAXIMUM du logement
+
+(col. 4 × col.
+
+5 × col. 6) |
+
+Col. 1 |
+
+Col. 2 |
+
+Col. 3 |
+
+Col. 4 |
+
+Col. 5 |
+
+Col. 6 |
+
+Col. 7 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Total |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+-Logements financés via un PLUS
+
+DÉSIGNATION des logements |
+
+SURFACE habitable
+
+(art. R. 156-1) |
+
+SURFACE réelle des annexes |
+
+SURFACE UTILE
+
+(surface habitable augmentée de
+
+50 % de la surface des annexes) |
+
+LOYER
+
+maximum du logement en
+
+euros par mètre
+
+carré de surface
+
+utile |
+
+COEFFICIENT propre au logement |
+
+LOYER MAXIMUM du logement
+
+(col. 4 × col.
+
+5 × col. 6) (*) |
+
+Col. 1 |
+
+Col. 2 |
+
+Col. 3 |
+
+Col. 4 |
+
+Col. 5 |
+
+Col. 6 |
+
+Col. 7 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Total |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(*) La majoration prévue à l'article 9 de la convention est susceptible de s'appliquer à ces loyers. |
+
+-Logements financés via un PLS
+
+DÉSIGNATION
+
+des logements |
+
+SURFACE
+
+habitable
+
+(art. R. 156-1) |
+
+SURFACE
+
+réelle
+
+des annexes |
+
+SURFACE UTILE
+
+(surface habitable augmentée de
+
+50 % de la surface des annexes) |
+
+LOYER
+
+maximum
+
+du logement en
+
+euros par mètre
+
+carré de surface
+
+utile |
+
+COEFFICIENT
+
+propre au logement |
+
+LOYER
+
+MAXIMUM
+
+du logement
+
+(col. 4 × col.
+
+5 × col. 6) |
+
+Col. 1 |
+
+Col. 2 |
+
+Col. 3 |
+
+Col. 4 |
+
+Col. 5 |
+
+Col. 6 |
+
+Col. 7 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Total |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 6. Nombre et liste des annexes susceptibles de donner lieu à perception d'un loyer accessoire :
 

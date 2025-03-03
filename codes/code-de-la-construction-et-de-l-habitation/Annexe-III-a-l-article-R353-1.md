@@ -108,37 +108,47 @@ A.-Locaux auxquels s'applique la présente convention.
 
 5. Décompte des surfaces et des coefficients propres au logement appliqués pour le calcul du loyer :
 
+5-a) L'opération a bénéficié d'un des prêts locatifs aidés ou n'a pas bénéficié d'un de ces prêts :
+
 DÉSIGNATION
 
 des logements |
 
 SURFACE
 
-habitable (art. R. 111-2) |
+habitable
+
+(art. R. 156-1) |
 
 SURFACE
 
-réelle des annexes |
+réelle
+
+des annexes |
 
 SURFACE UTILE
 
-(surface habitable augmentée de 50 % de la surface des annexes) |
+(surface habitable augmentée de
+
+50 % de la surface des annexes) |
 
 LOYER
 
-maximum du logement en euros par mètre carré de surface utile |
+maximum
+
+du logement en euros par mètre carré de surface utile |
 
 COEFFICIENT
 
-propre au
+propre au logement |
 
-logement |
+LOYER
 
-LOYER MAXIMUM
+MAXIMUM
 
 du logement
 
-(col. 4 x col. 5 x col. 6) * |
+(col. 4 × col. 5 × col. 6) (*) |
 
 Col. 1 |
 
@@ -182,7 +192,289 @@ Total |
 
 |
 
-* La majoration prévue à l'article 9 de la convention est susceptible de s'appliquer à ces loyers. |
+(*) La majoration prévue à l'article 9 de la convention est susceptible de s'appliquer à ces loyers. |
+
+|
+
+5-b) L'opération a bénéficié de plus d'un prêt locatif aidé (PLAi, PLUS, PLS) :
+
+- Logements financés via un PLAi
+
+DÉSIGNATION
+
+des logements |
+
+SURFACE
+
+habitable
+
+(art. R. 156-1) |
+
+SURFACE
+
+réelle
+
+des annexes |
+
+SURFACE UTILE
+
+(surface habitable augmentée de
+
+50 % de la surface des annexes) |
+
+LOYER
+
+maximum
+
+du logement en
+
+euros par mètre
+
+carré de surface
+
+utile |
+
+COEFFICIENT
+
+propre au logement |
+
+LOYER
+
+MAXIMUM
+
+du logement
+
+(col. 4 × col.
+
+5 × col. 6) |
+
+Col. 1 |
+
+Col. 2 |
+
+Col. 3 |
+
+Col. 4 |
+
+Col. 5 |
+
+Col. 6 |
+
+Col. 7 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Total |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+- Logements financés via un PLUS
+
+DÉSIGNATION
+
+des logements |
+
+SURFACE
+
+habitable
+
+(art. R. 156-1) |
+
+SURFACE
+
+réelle
+
+des annexes |
+
+SURFACE UTILE
+
+(surface habitable augmentée de
+
+50 % de la surface des annexes) |
+
+LOYER
+
+maximum
+
+du logement en
+
+euros par mètre
+
+carré de surface
+
+utile |
+
+COEFFICIENT
+
+propre au logement |
+
+LOYER
+
+MAXIMUM
+
+du logement
+
+(col. 4 × col.
+
+5 × col. 6) (*) |
+
+Col. 1 |
+
+Col. 2 |
+
+Col. 3 |
+
+Col. 4 |
+
+Col. 5 |
+
+Col. 6 |
+
+Col. 7 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Total |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(*) La majoration prévue à l'article 9 de la convention est susceptible de s'appliquer à ces loyers. |
+
+- Logements financés via un PLS
+
+DÉSIGNATION
+
+des logements |
+
+SURFACE
+
+habitable
+
+(art. R. 156-1) |
+
+SURFACE
+
+réelle
+
+des annexes |
+
+SURFACE UTILE
+
+(surface habitable augmentée de
+
+50 % de la surface des annexes) |
+
+LOYER
+
+maximum
+
+du logement en
+
+euros par mètre
+
+carré de surface
+
+utile |
+
+COEFFICIENT
+
+propre au logement |
+
+LOYER
+
+MAXIMUM
+
+du logement
+
+(col. 4 × col.
+
+5 × col. 6) |
+
+Col. 1 |
+
+Col. 2 |
+
+Col. 3 |
+
+Col. 4 |
+
+Col. 5 |
+
+Col. 6 |
+
+Col. 7 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Total |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 6. Nombre et liste des annexes susceptibles de donner lieu à perception d'un loyer accessoire :
 
