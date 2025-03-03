@@ -1,30 +1,30 @@
 # Article Annexe
 
-Liste des directions zonales de la police aux frontières (DZPAF), de la direction centrale (DCPAF), de la direction des aérodromes parisiens, des directions départementales (DDPAF) et interdépartementales de la police aux frontières (DIDPAF) auprès desquelles est instituée une régie d'avances et de recettes relevant de la police nationale du ministère de l'intérieur et des outre-mer.
+LISTE DES SERVICES DE POLICE AUX FRONTIÈRES AUPRÈS DESQUELS EST INSTITUÉE UNE RÉGIE D'AVANCES ET DE RECETTES
 
 STRUCTURES |
 
 ABRÉVIATION |
 
-MONTANT DE L'AVANCE
+Montant
+
+de l'avance
 
 (en euros) |
 
-MONTANT MAXIMUM
+Montant maximum
 
 du fonds de caisse
 
 (en euros) |
 
-MONTANT MAXIMUM
-
-de l'encaisse
+Montant maximum de l'encaisse
 
 (en euros) |
 
-Direction centrale de la Police aux Frontières |
+Direction nationale de la police aux frontières |
 
-DCPAF |
+DNPAF |
 
 100 000 |
 
@@ -40,7 +40,7 @@ Direction de la police aux frontières de l'aéroport de Roissy Charles de Gaull
 
 DPAF ROISSY-CDG |
 
-50 000 |
+8 000 |
 
 0 |
 
@@ -56,9 +56,9 @@ DPAF ORLY |
 
 25 000 |
 
-Direction zonale de la Police aux Frontières Nord |
+Direction zonale de la police nationale Nord |
 
-DZPAF NORD |
+DZPN NORD |
 
 1 000 |
 
@@ -66,9 +66,9 @@ DZPAF NORD |
 
 60 000 |
 
-Direction zonale de la Police aux Frontières Est |
+Direction interdépartementale de la police aux frontières aéroport Strasbourg Entzheim |
 
-DZPAF EST |
+DIDPAF 57 |
 
 1 000 |
 
@@ -76,19 +76,19 @@ DZPAF EST |
 
 1 000 |
 
-Direction zonale de la Police aux Frontières Sud-Est |
+Direction zonale de la police aux frontières Sud-Est |
 
 DZPAF SUD-EST |
 
-1 000 |
+4 500 |
 
 0 |
 
 2 000 |
 
-Direction interdépartementale de la Police aux Frontières de Marseille |
+Service de la police aux frontières aéroportuaire-Aéroport Marseille Provence |
 
-DIDPAF 13 |
+SPAFA 13 |
 
 9 500 |
 
@@ -96,7 +96,7 @@ DIDPAF 13 |
 
 60 000 |
 
-Direction interdépartementale de la Police aux Frontières de Toulouse |
+Direction interdépartementale de la police aux frontières de Toulouse |
 
 DIDPAF 31 |
 
@@ -106,9 +106,9 @@ DIDPAF 31 |
 
 1 000 |
 
-Direction zonale de la Police aux Frontières Sud-Ouest |
+Service de la police aux frontières aéroportuaire-Aéroport Bordeaux Mérignac |
 
-DZPAF SUD-OUEST |
+SPAFA 33 |
 
 9 500 |
 
@@ -116,7 +116,7 @@ DZPAF SUD-OUEST |
 
 1 000 |
 
-Direction zonale de la Police aux Frontières Ouest |
+Direction zonale de la police aux frontières Ouest |
 
 DZPAF OUEST |
 
