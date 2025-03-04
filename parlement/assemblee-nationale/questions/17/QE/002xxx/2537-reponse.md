@@ -1,0 +1,9 @@
+# Réponse à la question n° 2537
+
+- Question : [2537](2537.md) — Question n° 2537 — Financement du projet européen JA GHI
+
+## Réponse
+
+*JO du 2025-03-04, page 1402*
+
+Le projet européen JA GHI est un projet d'action conjointe à 24 pays inscrivant, dans un cadre de travail de 2 ans (projet démarré le 1er octobre 2023), différentes actions entre Etats membres et la Commission européenne afin de maximiser l'impact de la stratégie de l'Union européenne en santé mondiale. Il ne s'agit donc en aucun cas d'un projet « de communication ». Sur le plan budgétaire, le financement d'une action conjointe – qui est une pratique courante au sein de l'Union européenne - est assuré par la Commission européenne au profit des institutions des Etats membres participant au projet, et piloté / coordonné par un des Etats membres. Dans ce cas précis, l'action conjointe JA GHI est pilotée par la France et plus précisément par les ministères sociaux. Les crédits de la Commission européenne ont donc été reçus par la France sur le programme 124 (via un fonds de concours), les ministères sociaux pilotant ces crédits afin de les répartir auprès des institutions des Etats membres engagées sur le projet et de suivre les dépenses affectées afin d'assurer le reporting requis auprès du financeur, la Commission européenne. Les ministères sociaux ont transféré une quote-part des crédits européens de l'action conjointe au profit du ministère de l'Europe et des affaires étrangères (MEAE) (49 263 euros), en avance de trésorerie (préfinancement de 50 %) pour le « temps fonctionnaire » consacré par ce ministère à ce projet. La contribution financière maximale possible de la Commission européenne au profit du MEAE pour ce projet d'action conjointe JA GHI est fixée à 98 525,6 euros sur les deux années du projet sur la base des coûts réels déclarés par le MEAE.
