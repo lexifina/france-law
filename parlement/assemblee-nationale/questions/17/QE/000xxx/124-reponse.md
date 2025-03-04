@@ -1,0 +1,9 @@
+# Réponse à la question n° 124
+
+- Question : [124](124.md) — Question n° 124 — Absence de soutien financier pour les refuges d'animaux
+
+## Réponse
+
+*JO du 2025-03-04, page 1405*
+
+L'accueil des animaux issus de saisies représente un enjeu complexe en France et nécessite la mise en place d'une structure centralisée pour la gestion et le suivi de ces animaux. Pour répondre à ce besoin de suivi et de centralisation des animaux saisis et afin de faire suite aux recommandations du rapport de l'Inspection générale de l'environnement et du développement durable (IGEDD), le Ministère de la transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche (MTEBFMP) a désigné en novembre 2024 l'Association française des parcs zoologiques (AFdPZ) comme prestataire en charge d'organiser, coordonner et suivre le placement des animaux d'espèces non domestiques vivants, saisis par les autorités de contrôle ou abandonnés par leur propriétaire. La prestation en cours de création s'intitule le "Service d'assistance aux animaux sauvages saisis" (SAASS). Celle-ci s'inscrit dans les objectifs de lutte contre le trafic d'espèces protégées mené par le MTEBFMP, ainsi que dans l'objectif 14 « Améliorer l'accès aux soins des spécimens vivants d'animaux et de plantes saisis ou confisqués » du plan d'action révisé de l'Union européenne contre le trafic des espèces sauvages adopté en novembre 2022. En créant un réseau national de centres d'accueil spécialisés, il sera possible d'identifier les places disponibles en temps réel et d'optimiser le placement des animaux dans des conditions conformes aux normes de bien-être animal et de sécurité sanitaire. En ce qui concerne la prise en charge des frais d'hébergement des animaux saisis, l'État n'a pas vocation à couvrir les frais de fonctionnement de ces structures, dont certaines ont su mettre en place un modèle économique pérenne, notamment par la tarification des visites.
