@@ -1,0 +1,31 @@
+# Réponse à la question n° 200
+
+- Question : [200](200.md) — Question n° 200 — Dérives de l'enseignement supérieur privé à but lucratif
+
+## Réponse
+
+*JO du 2025-03-05, page 1676*
+
+ENSEIGNEMENT SUPÉRIEUR PRIVÉ À BUT LUCRATIF
+
+M. le président . La parole est à M. Emmanuel Grégoire, pour exposer sa question, no 200, relative à l'enseignement supérieur privé à but lucratif.
+
+M. Emmanuel Grégoire . Ma question concerne le secteur de l’enseignement supérieur privé à but lucratif, dont les trop nombreuses dérives sont progressivement dévoilées à la vue de toutes et de tous. L’enquête de Mme Claire Marchal sur le sujet, sobrement intitulée Le cube, paraîtra demain, mercredi 5 mars. Ce livre ne sera pas qu’un simple travail journalistique, mais montrera à nos concitoyennes et à nos concitoyens les pratiques les plus obscures envers nos étudiants, dépassant sans cesse le cadre de la loi, et qui sont pourtant monnaie courante dans certains établissements.
+
+Il est urgent d'agir. C'est pourquoi j’ai déposé une proposition de loi visant à un meilleur encadrement de l’enseignement supérieur privé à but lucratif pour mieux protéger les étudiants. Dans le vaste ensemble que représentent les établissements privés d’enseignement supérieur, dont la place centrale au sein du paysage éducatif français n’est plus à démontrer, une sous-catégorie s’est progressivement développée, loin du contrôle de la puissance publique : celle de l’enseignement supérieur privé à but lucratif. Selon le Haut Conseil de l’évaluation de la recherche et de l’enseignement supérieur (HCERES), le privé lucratif représenterait près de 15 % de la population étudiante totale, soit près de 400 000 jeunes.
+
+Alors que ces établissements jouent un rôle croissant dans notre paysage éducatif, ils demeurent insuffisamment contrôlés par la puissance publique. Leur essor est avant tout caractérisé par un cadre juridique obsolète et une connaissance lacunaire par les pouvoirs publics du contrôle des pratiques commerciales et pédagogiques observables. Comme a pu le montrer l’enquête nationale lancée en 2020 par la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) à la demande du ministère de l’enseignement supérieur et de la recherche auprès de quatre-vingts établissements, plus de 56 % d’entre eux présentaient une anomalie sur au moins un des points de la réglementation contrôlée.
+
+Parmi les pratiques abusives les plus fréquentes, figure la présence de clauses permettant la modification unilatérale des prix ou l’absence de remboursement des frais de scolarité en cas de départ anticipé de l’étudiant. Ces comportements exploitent la méconnaissance des familles et le désarroi parfois ressenti face à des choix d'orientation cruciaux pour les jeunes.
+
+Il ne s'agit là que d'une première étape législative ; le Parlement devra nécessairement poursuivre ses travaux sur le sujet dans un avenir proche. Cependant, toute initiative législative demeure insuffisante si le gouvernement n'intervient pas à son tour par la voie réglementaire. Nous savons que les ministères de l'enseignement supérieur et du travail sont pleinement conscients de cette problématique, et espérons que leurs préoccupations seront rapidement suivies de mesures concrètes. Dans cette optique, je souhaite connaître les délais dans lesquels le gouvernement prendra différentes mesures indispensables à la bonne régulation du secteur.
+
+Plusieurs questions devront ainsi être traitées par les ministères compétents. Premièrement, il faudra réguler la publicité dont de trop nombreux établissements font usage sur les réseaux sociaux, conduisant à la prolifération de diplômes non reconnus aux dénominations baroques, dont la qualité de formation n'est pas toujours garantie. Je vous épargnerai le florilège des bachelors, master of et autres mastères qui polluent l'enseignement supérieur français. Deuxièmement, il faudra modifier les conditions d'accès à Parcoursup pour ces formations ne disposant d'aucune certification, mais dont la présence sur la plateforme fragilise la lisibilité des labels attribués par les pouvoirs publics, alors même que les familles peinent déjà à s'orienter au sein de ce système critiquable. Il faudra enfin interdire les pratiques dites de location de titres et redéfinir le système de labellisation dans son ensemble, en commençant par réviser les critères d'attribution du label Qualiopi.
+
+Madame la ministre d'État, je crois que vous avez conscience de l'urgence. Nous attendons des précisions quant à vos intentions et au calendrier d'action du gouvernement.
+
+M. le président . La parole est à Mme la ministre d'État, ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche.
+
+Mme Élisabeth Borne, ministre d'État, ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche . Le ministre chargé de l'enseignement supérieur et de la recherche, Philippe Baptiste, et moi-même partageons totalement votre préoccupation quant aux pratiques de certains établissements d'enseignement supérieur privé à but lucratif et votre volonté d'obtenir davantage de garanties de leur part. Depuis 2024, le ministère a engagé plusieurs travaux visant notamment à améliorer la lisibilité et la transparence du contenu des formations sur Parcoursup, à moderniser et à simplifier le cadre juridique applicable à l'enseignement supérieur privé – ce qui devrait conduire à la réécriture de certaines dispositions du code de l'éducation –, et à instaurer un véritable contrôle de la qualité pédagogique des formations proposées par le privé, notamment des brevets de technicien supérieur (BTS) en apprentissage. Il s'agit ainsi, en coopération avec le ministère du travail, de conditionner l'accès au financement de l'apprentissage à des critères de qualité de la formation.
+
+Nous sommes donc pleinement d'accord avec vous : il faut garantir aux familles que les jeunes s'engagent dans des formations de qualité. Dans cet esprit, nous envisageons la création d'un label de qualité distinct du label Qualiopi, lequel constitue plutôt une certification formelle du respect des exigences réglementaires. Cela passera sans doute, là encore, par l'adaptation du code de l'éducation dans le but de mieux encadrer les formations supérieures privées.
