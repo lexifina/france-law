@@ -10,4 +10,14 @@ Les communes pouvant être considérées comme présentant un caractère rural s
 
 Les communes pouvant être considérées comme présentant un caractère périurbain sont celles appartenant aux catégories “ petites villes ” et “ ceintures urbaines ” de la grille communale de densité établie par l'Institut national de la statistique, en vigueur à la date de la demande.
 
-La dérogation est valable pour la durée de vie de l'opération d'autoconsommation collective en objet, sous réserve que l'ensemble des producteurs et consommateurs y participant respectent la distance maximale autorisée et restent localisés sur l'une des communes listées dans la dérogation.
+Une dérogation peut également être accordée à tout projet d'autoconsommation collective étendue situé sur le territoire métropolitain continental, qui répond aux critères cumulatifs suivants :
+
+-l'un des producteurs ou des consommateurs participants est une commune ou un EPCI à fiscalité propre ;
+
+-l'ensemble des producteurs et des consommateurs participants sont des organismes publics ou privés exerçant une mission de service public ou des sociétés d'économie mixtes locales mentionnées à l'article L. 1522-1 du CGCT et leurs filiales ;
+
+-les points de soutirage et d'injection sont situés exclusivement dans le ressort géographique de l'établissement public de coopération intercommunale à fiscalité propre participant au projet ou auquel adhèrent la ou les communes participant au projet.
+
+Par dérogation, la puissance cumulée des installations de production des projets répondants aux critères cumulatifs de cette dérogation est inférieure à 10MW.
+
+La dérogation est valable pour la durée de vie de l'opération d'autoconsommation collective en objet, sous réserve que les conditions à laquelle elle est subordonnée demeurent satisfaites.
