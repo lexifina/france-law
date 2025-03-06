@@ -4,10 +4,10 @@ Annexe non publiée.
 
 NOTA :
 
-(1) Le plan annexé au présent décret peut être consulté :
+(1) Ce plan peut être consulté :
 
-- à la direction générale de la sûreté nucléaire et de la radioprotection, 6, place du Colonel-Bourgoin, 75012 Paris ;
+- au siège de l'Autorité de sûreté nucléaire et de radioprotection (ASNR), 15, rue Louis-Lejeune, 92120 Montrouge ;
 
-- à la direction régionale de l'industrie, de la recherche et de l'environnement Basse-Normandie, CITIS " Le Pentacle ", avenue de Tsukuba, 14209 Hérouville-Saint-Clair ;
+- à la division territoriale de l'Autorité de sûreté nucléaire et de radioprotection (ASNR), 1, rue du Recteur-Daure, 14000 Caen ;
 
-- à la préfecture de la Manche, 50009 Saint-Lô.
+- à la préfecture de la Manche, place de la Préfecture, 50000 Saint-Lô.
