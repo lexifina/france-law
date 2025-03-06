@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001873
+
+- Question : [SEQ241001873](seq241001873.md) — Inscription des personnes « Mortes pour la France » sur les monuments aux morts
+
+## Réponse
+
+*Mémoire et anciens combattants, JO du 2025-03-06, page 992*
+
+L'article L515-1 du code des pensions militaires d'invalidité et des victimes de guerre prévoit que « lorsque la mention « Mort pour la France » a été portée sur l'acte de décès […], l'inscription du nom du défunt sur le monument aux morts de sa commune de naissance, ou du dernier domicile, ou du lieu d'inhumation, ou sur une stèle placée dans l'environnement immédiat de ce monument est obligatoire ». Cette inscription est également obligatoire, en application des mêmes dispositions, pour le défunt reconnu « Mort pour le service de la Nation ». Cette obligation permet que le nom de chaque défunt « Mort pour la France » ou « Mort pour le service de la Nation » soit inscrit sur le monument aux morts d'au moins une commune avec laquelle il a entretenu un lien. Ces dispositions n'interdisent pas l'inscription du nom d'un défunt sur le monument aux morts d'une autre commune répondant à l'un des critères légaux d'inscription prévus par l'article L515-1 précité. Cette inscription est facultative et relève du pouvoir discrétionnaire de la commune. De plus, le juge administratif a considéré que les communes ont « toute latitude pour décider à titre gracieux, ou non, d'ajouter des noms sur un monument aux morts existant » (Cour administrative d'appel de Nancy, 4ème chambre, 7 décembre 2021 - n° 19NC02624). Une telle inscription doit cependant être justifiée par « des circonstances particulières », notamment « l'existence d'un lien particulier [du défunt] avec la commune », et ne doit pas faire « perdre au monument son caractère et sa nature » (Tribunal administratif de Poitiers, 19 décembre 2019 - n° 1802123).
