@@ -252,7 +252,9 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - état-major de la brigade logistique ;
 
-- état-major de la brigade de maintenance.
+- état-major de la brigade de maintenance ;
+
+- régiment de cyberdéfense.
 
 NOTA :
 
