@@ -84,7 +84,7 @@ Commandants de forces françaises à l'étranger
 
 Directeur de l'enseignement militaire supérieur
 
-Commandant du commandement pour les opérations interarmées
+Commandant du centre expert du commandement interarmées
 
 Commandant des opérations spéciales
 
