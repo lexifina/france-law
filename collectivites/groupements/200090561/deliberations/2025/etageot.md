@@ -1,0 +1,9 @@
+# CC VIERZON-SOLOGNE-BERRY : délibération ETAGEOT — AMENAGEMENT DU 1ER ETAGE DE L'OFFICE DE TOURISME MODIFICATION N° 1 - LOT 4 MENUISERIES EXTERIEURES
+
+- Collectivité : CC VIERZON-SOLOGNE-BERRY
+- SIREN : 200090561
+- Date : 2025-03-10
+- Matière : 1.1.1 Commande Publique/Marches publics
+- Objet : AMENAGEMENT DU 1ER ETAGE DE L'OFFICE DE TOURISME MODIFICATION N° 1 - LOT 4 MENUISERIES EXTERIEURES
+- Acte publié : https://publication-actes.fr/OpenData/200090561/Deliberation/2025/48094/f29f89af5a88dc878d8a655bbfba20a871e1eb793613049aec02205f5934d29a.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
