@@ -48,7 +48,7 @@ Conseil de prud'hommes d'Aix-les-bains |
 
 Cour d'appel de Douai |
 
-Conseil de prud'hommes de Lannoy |
+Conseil de prud'hommes de Lys-lez-Lannoy |
 
 Cour d'appel de Lyon |
 
@@ -109,7 +109,3 @@ Conseil de prud'hommes de Châteaudun |
 Conseil de prud'hommes d'Argenteuil |
 
 Conseil de prud'hommes de Saint-Germain-en-Laye |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 23 avril 2021 (NOR : JUSB2112667A), ces dispositions entrent en vigueur le 1er septembre 2021.
