@@ -4,4 +4,10 @@ Annexes non publiées.
 
 NOTA :
 
-(1) Ce plan peut être consulté à l'Autorité de sûreté nucléaire (ASN), 6, place du Colonel-Bourgoin, 75012 Paris, au CITIS Le Pentacle , avenue de Tsukuba, 14209 Hérouville Saint-Clair, ou à la préfecture du Calvados, rue Saint-Laurent, 14038 Caen Cedex.
+Ce plan peut être consulté :
+
+- au siège de l'Autorité de sûreté nucléaire et de radioprotection (ASNR), 15, rue Louis-Lejeune, 92120 Montrouge ;
+
+- à la division territoriale de l'Autorité de sûreté nucléaire et de radioprotection (ASNR), 1, rue Recteur-Daure, 14006 Caen ;
+
+- à la préfecture du Calvados, 1, rue Daniel-Huet, 14000 Caen.
