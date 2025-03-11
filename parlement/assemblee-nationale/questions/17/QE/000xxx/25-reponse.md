@@ -1,0 +1,9 @@
+# Réponse à la question n° 25
+
+- Question : [25](25.md) — Question n° 25 — Prolongation de l'accord de financement de l'ovosexage
+
+## Réponse
+
+*JO du 2025-03-11, page 1558*
+
+En 2022, afin de répondre aux attentes sociétales, la France a interdit l'élimination des poussins mâles, non valorisés par les éleveurs de poules pondeuses, en devenant, avec l'Allemagne, l'un des premiers pays européens à mettre fin à cette pratique pour les œufs de consommation. L'État a notamment mobilisé 10,5 millions d'euros du plan France Relance pour soutenir les investissements liés à l'ovosexage dans les couvoirs français concernés. Un accord interprofessionnel établi par la filière œuf, en octobre 2022, a permis de financer le coût de l'ovosexage, c'est-à-dire la détermination du sexe du futur poussin au stade d'œuf. Conscients de l'importance de cet enjeu pour les éleveurs, les consommateurs et les associations de protection animale, le ministère chargé de l'agriculture travaille activement avec le comité national pour la promotion de l'œuf afin de reconduire cet accord. Afin d'éviter toute interruption brutale, le ministère chargé de l'agriculture et le ministère chargé des finances en collaboration avec les parties prenantes ont prolongé l'accord actuel pour une durée complémentaire de trois mois, jusqu'à fin février 2025. Cette prolongation vise à laisser aux parties prenantes le temps nécessaire pour aboutir à un compromis équilibré avec l'objectif de préserver la compétitivité de l'amont agricole et de ne pas renchérir les coûts de production supportés par les éleveurs. En janvier 2025, le ministère chargé de l'agriculture a rencontré les professionnels de la filière œuf et reste pleinement mobilisé pour accompagner les acteurs de la filière œuf à renouveler cet accord dans le respect du droit de la concurrence et sans rupture brutale.
