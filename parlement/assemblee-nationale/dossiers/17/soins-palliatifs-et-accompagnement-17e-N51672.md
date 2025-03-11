@@ -1,0 +1,88 @@
+# Soins palliatifs et d’accompagnement
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N51672
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/soins_palliatifs_et_accompagnement_17e
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl24-662.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2025-03-11 : 1er dépôt d'une initiative. (PIONANR5L17B1102)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-03-11 : Renvoi en commission au fond
+      - 2025-03-18 : Nomination de rapporteur
+      - 2025-03-18 : Réunion de commission
+      - 2025-03-25 : Réunion de commission
+      - 2025-03-26 : Réunion de commission
+      - 2025-04-01 : Réunion de commission
+      - 2025-04-02 : Réunion de commission
+      - 2025-04-02 : Réunion de commission
+      - 2025-04-02 : Réunion de commission
+      - 2025-04-09 : Réunion de commission
+      - 2025-04-09 : Réunion de commission
+      - 2025-04-09 : Réunion de commission
+      - 2025-04-10 : Réunion de commission
+      - 2025-04-10 : Réunion de commission
+      - 2025-04-10 : Réunion de commission
+      - 2025-04-11 : Réunion de commission
+      - 2025-04-11 : Réunion de commission
+      - 2025-04-11 : Réunion de commission
+      - 2025-04-28 : Réunion de commission
+      - 2025-04-28 : Réunion de commission
+      - 2025-04-29 : Réunion de commission
+      - 2025-04-29 : Réunion de commission
+      - 2025-04-30 : Réunion de commission
+      - 2025-04-30 : Réunion de commission
+      - 2025-04-30 : Réunion de commission
+      - 2025-05-02 : Réunion de commission
+      - 2025-05-02 : Réunion de commission
+      - 2025-05-12 : Réunion de commission
+      - 2025-04-11 : Dépôt de rapport (RAPPANR5L17B1281, PIONANR5L17BTC1281)
+  - Discussion en séance publique
+    - 2025-05-12 : Discussion en séance publique
+    - 2025-05-12 : Discussion en séance publique
+    - 2025-05-13 : Discussion en séance publique
+    - 2025-05-13 : Discussion en séance publique
+    - 2025-05-14 : Discussion en séance publique
+    - 2025-05-14 : Discussion en séance publique
+    - 2025-05-16 : Discussion en séance publique
+    - 2025-05-16 : Discussion en séance publique
+    - 2025-05-16 : Discussion en séance publique
+    - 2025-05-27 : Discussion en séance publique
+    - 2025-05-27 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2025-05-27 : Dépôt d'une initiative en navette (PIONSNR5S459B0662)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-05-27 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2026-01-07 : Dépôt de rapport (RAPPSNR5S479B0266, PIONSNR5S479BTC0267)
+  - Discussion en séance publique
+    - 2026-01-28 : Décision
+- deuxième lecture
+  - 2026-01-28 : Dépôt d'une initiative en navette (PIONANR5L17B2406)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-01-28 : Renvoi en commission au fond
+      - 2026-02-17 : Réunion de commission
+      - 2026-02-10 : Dépôt de rapport (RAPPANR5L17B2457, PIONANR5L17BTC2457)
+  - Discussion en séance publique
+    - 2026-02-16 : Discussion en séance publique
+    - 2026-02-17 : Discussion en séance publique
+    - 2026-02-17 : Discussion en séance publique
+    - 2026-02-18 : Discussion en séance publique
+    - 2026-02-25 : Discussion en séance publique
+    - 2026-02-25 : Décision
+- deuxième lecture
+  - 2026-02-25 : Dépôt d'une initiative en navette (PIONSNR5S479B0439)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-02-25 : Renvoi en commission au fond
+      - 2026-04-29 : Dépôt de rapport (RAPPSNR5S479B0584, PIONSNR5S479BTC0585)
+  - Discussion en séance publique
+    - 2026-05-11 : Décision
+- Promulgation de la loi
+  - 2026-05-26 : Promulgation d'une loi
