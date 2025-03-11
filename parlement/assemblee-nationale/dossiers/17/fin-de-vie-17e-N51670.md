@@ -1,0 +1,169 @@
+# Fin de vie
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N51670
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl24-661.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2025-03-11 : 1er dépôt d'une initiative. (PIONANR5L17B1100)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-03-11 : Renvoi en commission au fond
+      - 2025-03-18 : Nomination de rapporteur
+      - 2025-03-18 : Réunion de commission
+      - 2025-03-25 : Réunion de commission
+      - 2025-03-26 : Réunion de commission
+      - 2025-04-01 : Réunion de commission
+      - 2025-04-02 : Réunion de commission
+      - 2025-04-02 : Réunion de commission
+      - 2025-04-02 : Réunion de commission
+      - 2025-04-09 : Réunion de commission
+      - 2025-04-09 : Réunion de commission
+      - 2025-04-09 : Réunion de commission
+      - 2025-04-10 : Réunion de commission
+      - 2025-04-10 : Réunion de commission
+      - 2025-04-10 : Réunion de commission
+      - 2025-04-11 : Réunion de commission
+      - 2025-04-11 : Réunion de commission
+      - 2025-04-11 : Réunion de commission
+      - 2025-04-28 : Réunion de commission
+      - 2025-04-28 : Réunion de commission
+      - 2025-04-29 : Réunion de commission
+      - 2025-04-29 : Réunion de commission
+      - 2025-04-30 : Réunion de commission
+      - 2025-04-30 : Réunion de commission
+      - 2025-04-30 : Réunion de commission
+      - 2025-05-02 : Réunion de commission
+      - 2025-05-02 : Réunion de commission
+      - 2025-05-21 : Réunion de commission
+      - 2025-05-02 : Dépôt de rapport (RAPPANR5L17B1364, PIONANR5L17BTC1364)
+  - Discussion en séance publique
+    - 2025-05-12 : Discussion en séance publique
+    - 2025-05-16 : Discussion en séance publique
+    - 2025-05-17 : Discussion en séance publique
+    - 2025-05-17 : Discussion en séance publique
+    - 2025-05-17 : Discussion en séance publique
+    - 2025-05-19 : Discussion en séance publique
+    - 2025-05-19 : Discussion en séance publique
+    - 2025-05-19 : Discussion en séance publique
+    - 2025-05-20 : Discussion en séance publique
+    - 2025-05-20 : Discussion en séance publique
+    - 2025-05-21 : Discussion en séance publique
+    - 2025-05-21 : Discussion en séance publique
+    - 2025-05-22 : Discussion en séance publique
+    - 2025-05-22 : Discussion en séance publique
+    - 2025-05-22 : Discussion en séance publique
+    - 2025-05-23 : Discussion en séance publique
+    - 2025-05-23 : Discussion en séance publique
+    - 2025-05-23 : Discussion en séance publique
+    - 2025-05-24 : Discussion en séance publique
+    - 2025-05-27 : Discussion en séance publique
+    - 2025-05-27 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2025-05-27 : Dépôt d'une initiative en navette (PIONSNR5S459B0661)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-05-27 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2026-01-07 : Dépôt de rapport (RAPPSNR5S479B0264, PIONSNR5S479BTC0265)
+  - Discussion en séance publique
+    - 2026-01-28 : Décision
+- deuxième lecture
+  - 2026-01-28 : Dépôt d'une initiative en navette (PIONANR5L17B2401)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-01-28 : Renvoi en commission au fond
+      - 2026-01-28 : Nomination de rapporteur
+      - 2026-02-04 : Réunion de commission
+      - 2026-02-04 : Réunion de commission
+      - 2026-02-17 : Réunion de commission
+      - 2026-02-05 : Dépôt de rapport (RAPPANR5L17B2453, PIONANR5L17BTC2453)
+  - Discussion en séance publique
+    - 2026-02-16 : Discussion en séance publique
+    - 2026-02-17 : Discussion en séance publique
+    - 2026-02-18 : Discussion en séance publique
+    - 2026-02-18 : Discussion en séance publique
+    - 2026-02-19 : Discussion en séance publique
+    - 2026-02-19 : Discussion en séance publique
+    - 2026-02-19 : Discussion en séance publique
+    - 2026-02-20 : Discussion en séance publique
+    - 2026-02-20 : Discussion en séance publique
+    - 2026-02-20 : Discussion en séance publique
+    - 2026-02-23 : Discussion en séance publique
+    - 2026-02-23 : Discussion en séance publique
+    - 2026-02-23 : Discussion en séance publique
+    - 2026-02-24 : Discussion en séance publique
+    - 2026-02-24 : Discussion en séance publique
+    - 2026-02-25 : Discussion en séance publique
+    - 2026-02-25 : Discussion en séance publique
+    - 2026-02-25 : Décision
+- deuxième lecture
+  - 2026-02-25 : Dépôt d'une initiative en navette (PIONSNR5S479B0440)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-02-25 : Renvoi en commission au fond
+      - 2026-04-29 : Dépôt de rapport (RAPPSNR5S479B0586, PIONSNR5S479BTC0587)
+  - Discussion en séance publique
+    - 2026-05-12 : Décision
+- Commission Mixte Paritaire
+  - 2026-05-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2026-06-02 : Nomination de rapporteur
+    - 2026-06-02 : Dépôt du rapport d'une CMP (RAPPANR5L17B2861)
+    - 2026-06-02 : Dépôt du rapport d'une CMP (RAPPSNR5S479B0680, PIONSNR5S479BTC0681)
+  - 2026-06-03 : Décision de la CMP
+- Nouvelle Lecture
+  - 2026-05-12 : Dépôt d'une initiative en navette (PIONANR5L17B2773)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-05-12 : Renvoi en commission au fond
+      - 2026-05-27 : Nomination de rapporteur
+      - 2026-06-08 : Réunion de commission
+      - 2026-06-08 : Réunion de commission
+      - 2026-06-09 : Réunion de commission
+      - 2026-06-10 : Réunion de commission
+      - 2026-06-10 : Réunion de commission
+      - 2026-06-11 : Dépôt de rapport (RAPPANR5L17B2915, PIONANR5L17BTC2915)
+  - Discussion en séance publique
+    - 2026-06-22 : Discussion en séance publique
+    - 2026-06-22 : Discussion en séance publique
+    - 2026-06-23 : Discussion en séance publique
+    - 2026-06-23 : Discussion en séance publique
+    - 2026-06-24 : Discussion en séance publique
+    - 2026-06-24 : Discussion en séance publique
+    - 2026-06-26 : Discussion en séance publique
+    - 2026-06-26 : Discussion en séance publique
+    - 2026-06-26 : Discussion en séance publique
+    - 2026-06-27 : Discussion en séance publique
+    - 2026-06-27 : Discussion en séance publique
+    - 2026-06-30 : Discussion en séance publique
+    - 2026-06-30 : Décision
+- Nouvelle Lecture
+  - 2026-06-30 : Dépôt d'une initiative en navette (PIONSNR5S479B0814)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-06-30 : Renvoi en commission au fond
+      - 2026-07-01 : Dépôt de rapport (RAPPSNR5S479B0825, PIONSNR5S479BTC0826)
+  - Discussion en séance publique
+    - 2026-07-07 : Décision
+- Lecture définitive
+  - 2026-07-09 : Dépôt d'une initiative en navette (PIONANR5L17BTA0323)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-07-09 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2026-07-15 : Discussion en séance publique
+    - 2026-07-15 : Décision
+- Conseil constitutionnel
+  - 2026-07-16 : Saisine du conseil constitutionnel
+  - 2026-07-17 : Saisine du conseil constitutionnel
+  - 2026-07-17 : Saisine du conseil constitutionnel
+  - 2026-07-20 : Saisine du conseil constitutionnel
+  - 2026-07-20 : Saisine du conseil constitutionnel
+  - 2026-08-14 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2026-08-18 : Promulgation d'une loi
