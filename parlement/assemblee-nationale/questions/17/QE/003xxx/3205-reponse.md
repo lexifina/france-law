@@ -1,0 +1,9 @@
+# Réponse à la question n° 3205
+
+- Question : [3205](3205.md) — Question n° 3205 — Conférer la dignité de maréchal de France au général de Castelnau
+
+## Réponse
+
+*JO du 2025-03-11, page 1603*
+
+Le général Edouard de Castelnau fut incontestablement l'un des grands artisans de la victoire en 1918, une authentique figure de droiture et un exemple de vertus militaires. Étudiée à maintes reprises au cours des cent dernières années qui nous séparent de ses actes de bravoure, la question de son élévation à titre posthume à la dignité de maréchal de France n'a jamais abouti à une décision favorable. À l'occasion du centenaire de l'armistice du 11 novembre 1918, les services du ministère des armées ont procédé à un nouvel examen de cette question. Ce travail a permis de remettre en lumière le caractère décisif de certaines de ses décisions pendant la Grande Guerre, mais aussi de mesurer l'importance de ses engagements politiques d'après-guerre, y compris les polémiques qui ont émaillé les différentes périodes où son élévation au maréchalat a fait l'objet de débats, ou de rappeler son refus du régime de Vichy. Mais il n'est pas apparu opportun, plus d'un siècle après les faits, de rouvrir le dossier de son élévation à la dignité de maréchal de France. Le général de Castelnau appartient désormais à l'histoire, aux historiens et à tous ceux qui peuvent puiser dans sa vie des leçons, notamment celles qui sont utiles à tout militaire. Le souvenir de ce grand soldat demeure d'ailleurs présent au sein de l'institution militaire : la promotion 2011-2014 de l'Ecole spéciale militaire de Saint-Cyr porte ainsi le nom de "promotion de Castelnau" pour rappeler et honorer à la fois, le général Edouard de Castelnau et le sous-lieutenant Xavier de Castelnau, l'un de ses trois fils tombés pour la France au cours du premier conflit mondial.
