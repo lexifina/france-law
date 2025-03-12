@@ -1,0 +1,33 @@
+# Réponse à la question n° 232
+
+- Question : [232](232.md) — Question n° 232 — Publication décret d'application du crédit d'impôt - logement social outre-mer
+
+## Réponse
+
+*JO du 2025-03-12, page 2028*
+
+LOGEMENT SOCIAL DANS LES OUTRE-MER
+
+M. le président . La parole est à M. Philippe Naillet, pour exposer sa question, no 232, relative au logement social dans les outre-mer.
+
+M. Philippe Naillet . Le 28 février, il y a quelques jours, le cyclone Garance, d'une violence inouïe, a frappé La Réunion, faisant de nombreuses victimes et laissant des familles endeuillées, détruisant des équipements, mettant à terre le système agricole, fragilisant notre tissu économique et détériorant le parc social.
+
+Cet événement climatique nous montre qu'il est devenu nécessaire de construire différemment dans nos territoires, en particulier les îles, où ces phénomènes seront de plus en plus violents, mais aussi qu'il est temps de rénover le parc social. La Réunion compte plus de 84 000 logements sociaux.
+
+Le décret d'application relatif au crédit d'impôt pour les opérations de réhabilitation des logements sociaux, attendu pour le début de l'année 2024, n'a toujours pas été publié. Le courrier adressé au ministre des outre-mer le 7 octobre 2024 par plusieurs organismes du secteur du logement ultramarin, dont l’Union sociale pour l’habitat outre-mer (Ushom), indique que ce retard met en péril la réhabilitation de près de 5 000 logements en 2024 et d'un nombre similaire en 2025, ce qui pénalise directement les populations concernées en retardant l'amélioration de l'habitat social.
+
+Il est impératif que ce décret soit publié en urgence afin de sécuriser ces opérations et de permettre aux bailleurs sociaux d'engager les travaux nécessaires.
+
+De surcroît, les critères restrictifs relatifs à la nature des travaux éligibles doivent être levés. En effet, ces restrictions pénalisent lourdement les projets de réhabilitation, alors que le gouvernement n’a par ailleurs pas encore prévu le nouveau diagnostic de performance énergétique en outre-mer, ce qui rend encore plus difficile l'adaptation des logements aux normes énergétiques actuelles.
+
+Quelles mesures seront prises pour publier sans délai ce décret et assouplir les critères de travaux éligibles, afin de garantir la réhabilitation des logements sociaux et de répondre aux enjeux de transition énergétique outre-mer ?
+
+M. le président . La parole est à M. le ministre de l'action publique, de la fonction publique et de la simplification.
+
+M. Laurent Marcangeli, ministre de l'action publique, de la fonction publique et de la simplification . Je tiens à redire mon soutien et celui du gouvernement aux familles des victimes ainsi qu'à l'ensemble des Réunionnaises et des Réunionnais qui ont été durement frappés, il y a un peu plus d'une semaine, par le cyclone Garance. Le ministre d'État, dont je vous prie de bien vouloir excuser l'absence ce matin, a pu exprimer la solidarité du gouvernement, lors de son déplacement sur l'île, la semaine dernière.
+
+Vous l'avez indiqué, à la suite du comité interministériel aux outre-mer de juillet 2023, la loi de finances pour 2024 a étendu, au-delà des quartiers prioritaires de la politique de la ville (QPV), le crédit d'impôt relatif à la réhabilitation du parc locatif social. Pour rappel, les bailleurs sociaux dans les départements et régions d'outre-mer peuvent en bénéficier. Il s'applique aux travaux de rénovation ou de réhabilitation pour lesquels une déclaration préalable de travaux ou une demande de permis de construire est déposée à compter du 1er janvier 2024.
+
+Pour être éligibles, les travaux doivent conférer aux logements des performances techniques voisines de celles des logements neufs ou les conforter contre les risques sismique et cyclonique. En outre, le Parlement a souhaité que les performances énergétiques et environnementales à atteindre soient voisines de celles des logements neufs. Elles seront définies par décret.
+
+Vous l'avez souligné à raison, le décret d'application n'a toujours pas été publié. Une première rédaction a été présentée aux acteurs du secteur mais ces derniers ont indiqué qu'elle fixait des critères si exigeants que les opérations de réhabilitation seraient trop coûteuses pour être viables. Aussi, les services des ministères des outre-mer, du logement et de l'économie ont-ils repris leur travail interministériel afin que le texte que vous appelez de vos vœux puisse être publié rapidement. Tout en tenant compte des exigences de qualité de logement et des critères environnementaux, ce décret devra assurer la viabilité des opérations de réhabilitation. L'objectif est de laisser davantage de temps aux bailleurs pour traiter les dossiers qui n'ont pas été déposés en 2024.
