@@ -2,70 +2,72 @@
 
 LISTE DES ENTREPRISES COMPOSANT LE COLLÈGE D'ENTREPRISES DU CONSEIL NATIONAL DU COMMERCE
 
-- Auchan
+Auchan
 
-- Boulanger
+Boulanger
 
-- Bonne Gueule
+Bonne Gueule
 
-- Groupe Carrefour
+Groupe Carrefour
 
-- Cdiscount
+Cdiscount
 
-- Celio France
+Celio France
 
-- Décathlon France
+Décathlon France
 
-- Echoppe de la Lune
+Echoppe de la Lune
 
-- E.Leclerc
+E. Leclerc
 
-- L'EPICERIE (Epicery)
+L'EPICERIE (Epicery)
 
-- Etam Lingerie (ETAM)
+Etam Lingerie (ETAM)
 
-- Fnac-Darty
+Fnac-Darty
 
-- Fromageries Philippe Olivier
+Fromageries Philippe Olivier
 
-- Magasins Galeries Lafayette
+Magasins Galeries Lafayette
 
-- Grand Frais
+Grand Frais
 
-- Groupement Les Mousquetaires
+Groupement Les Mousquetaires
 
-- Meubles IKEA France (IKEA)
+Meubles IKEA France (IKEA)
 
-- Kiabi europe
+Kiabi europe
 
-- Kingfisher France
+Kingfisher France
 
-- Leroy Merlin France
+Leroy Merlin France
 
-- Metro France
+Metro France
 
-- Monoprix
+Monoprix
 
-- Picard
+Picard
 
-- La Redoute
+La Redoute
 
-- Rexel
+Rexel
 
-- Groupe Roche Bobois
+Groupe Roche Bobois
 
-- Selency
+Selency
 
-- Une Glace à Paris
+Une Glace à Paris
 
-- Luval
+Luval
 
-- Groupe Sandro Maje Claudie Pierlot Fursac
+Groupe Sandro Maje Claudie Pierlot Fursac
 
-- Selency
+Selency
 
-- Sports Aventure
+Sports Aventure
 
-- System U
+System U
 
-- ETS Horticoles Georges Truffaut (Truffaut)
+ETS Horticoles Georges Truffaut (Truffaut)
+
+LIDL
