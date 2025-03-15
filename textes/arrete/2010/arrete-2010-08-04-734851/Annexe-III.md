@@ -266,7 +266,7 @@ Affaires immobilières.
 
 Montagne.
 
-Systèmes d'information et de communication.
+Cyber-numérique
 
 |
 
@@ -274,4 +274,4 @@ Le sous-directeur de la gestion du personnel. |
 
 L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
-Un officier supérieur de la direction générale de la gendarmerie nationale et un officier désigné comme conseiller pour la spécialité considérée désignés tous deux par le directeur des ressources humaines de la gendarmerie nationale. |
+Un officier supérieur de la direction générale de la gendarmerie nationale et un ou plusieurs officiers désignés comme conseillers pour la spécialité considérée désignés tous deux par le directeur des ressources humaines de la gendarmerie nationale. |
