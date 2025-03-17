@@ -64,8 +64,6 @@ Sauf mention contraire expresse dans la suite du présent tableau, espèces prot
 
 - Arrêté du 17 février 1989 relatif aux mesures de protection des espèces animales représentées dans le département de La Réunion. Le régime de détention indiqué ci-contre s'applique aux espèces concernées uniquement sur le territoire réunionnais.
 
-- Arrêté du 17 février 1989 relatif aux oiseaux protégés de Guadeloupe. Le régime de détention indiqué ci-contre s'applique aux espèces concernées uniquement sur le territoire guadeloupéen.
-
 - Arrêté du 17 février 1989 relatif aux oiseaux protégés de Martinique. Le régime de détention indiqué ci-contre s'applique aux espèces concernées uniquement sur le territoire martiniquais.
 
 - Arrêté du 22 juillet 1993 relatif à la liste des insectes protégés en région Ile-de-France complétant la liste nationale.
@@ -115,6 +113,14 @@ Sauf mention contraire expresse dans la suite du présent tableau, espèces prot
 - Arrêté du 24 janvier 2020 fixant la liste des insectes représentés dans le département de la Guadeloupe protégés sur l'ensemble du territoire national et les modalités de leur protection Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
 - Arrêté du 10 novembre 2022 fixant la liste des tortues marines protégées sur le territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
+
+- Arrêté du 7 mars 2025 fixant la liste des oiseaux représentés dans le département de la Guadeloupe protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
+
+- Arrêté du 7 mars 2025 fixant la liste des oiseaux représentés dans la collectivité d'outre-mer de Saint-Martin sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
+
+- Arrêté du 7 mars 2025 fixant la liste des oiseaux représentés dans la collectivité d'outre-mer de Saint-Pierre-et-Miquelon sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
+
+- Arrêté du 7 mars 2025 fixant la liste des mammifères représentés dans la collectivité d'outre-mer de Saint-Pierre et Miquelon sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
 |
 
