@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_25_019 — DELIBERATION 2025-19 DCRH - INDEMNITE FORFAITAIRE POUR DES FONCTIONS ESSENTIELLEMENT ITINERANTES
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2025-03-17
+- Matière : 8.6 Domaines de competences par themes/Emploi-formation professionnelle
+- Objet : DELIBERATION 2025-19 DCRH - INDEMNITE FORFAITAIRE POUR DES FONCTIONS ESSENTIELLEMENT ITINERANTES
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2025/48815/9466ce26b121424b65dac790e9064b1b92d641c6a22fee7e127bc6f1d5eec7d3.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
