@@ -1,0 +1,9 @@
+# Réponse à la question n° 766
+
+- Question : [766](766.md) — Question n° 766 — Assiette des cotisations sociales d'un agriculteur
+
+## Réponse
+
+*JO du 2025-03-18, page 1810*
+
+L'article 18 de la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale (LFSS) pour 2024 a procédé à la réforme de l'assiette des cotisations et contributions de sécurité sociale des travailleurs indépendants. Celle-ci sera constituée à partir du montant des produits et recettes diminué de l'ensemble des charges hors cotisations et contributions sociales. Le montant résultant de cette opération fera l'objet d'un abattement de 26 %. Cette réforme s'appliquera au calcul des cotisations et des contributions dues par les travailleurs indépendants agricoles au titre des périodes courant à compter du 1er janvier 2026. En cas de difficulté de trésorerie des entreprises qui subissent des sinistres, le dispositif fiscal prévu au 1 ter de l'article 39 quaterdecies du code général des impôts (CGI) permet d'étaler les plus-values à court terme résultant de la perception d'indemnités d'assurances sur la durée moyenne d'amortissement déjà pratiquée sur les biens sinistrés. La prise en compte dans l'assiette sociale de l'étalement des plus-values à court terme résultant de la perception d'indemnités d'assurance est déjà prévue par le droit existant à l'article L. 136-4 du code de la sécurité sociale, qui renvoie au 1° du I de l'article L. 136-3 du même code, dans leur rédaction issue de l'article 18 de la LFSS pour 2024. Un décret en Conseil d'État viendra préciser les éléments qui résultent des articles 36 à 40 et 72 à 73 E du CGI permettant des déductions, des provisions exceptionnelles, l'étalement, le report de parties des bénéfices ou des plus-values qui seront applicables à l'assiette sociale des travailleurs indépendants agricoles.
