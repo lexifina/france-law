@@ -1,0 +1,9 @@
+# Réponse à la question n° 3128
+
+- Question : [3128](3128.md) — Question n° 3128 — Possibilité de transférer la somme d'un CPF
+
+## Réponse
+
+*JO du 2025-03-18, page 1876*
+
+Conformément à la loi du 5 septembre 2018 relative à la liberté de choisir son avenir professionnel ainsi qu'aux dispositions du code du travail, la cessibilité des droits issus du compte personnel de formation (CPF) n'est pas autorisée, que ce soit en partie ou en totalité, ceci pour le financement de toute formation. En effet, le don des droits CPF à un tiers, quel qu'il soit, va à l'encontre de la philosophie portée au moment de la création du CPF par les partenaires sociaux et réaffirmée par la loi susmentionnée. Le CPF a pour objet de maintenir l'employabilité des actifs, d'accompagner leur montée en compétence, leur reconversion et de sécuriser leurs parcours professionnels. L'ambition du Gouvernement est de rendre le système plus juste, plus efficace et toujours associer la formation à un projet professionnel d'avenir. Les droits du CPF sont rattachés à la personne et leurs comptes sont alimentés en fonction de leur activité professionnelle, dès 16 ans ou 15 ans en cas d'apprentissage pour toute période travaillée et modulés selon leur situation personnelle. Le don de CPF à un tiers nuirait à la personne qui aurait besoin de se former régulièrement, notamment pour se maintenir dans l'emploi et prévenir les futures mutations et transitions des besoins du marché du travail. Par conséquent, le solde du CPF ne peut être transféré à quelqu'un, ni à un autre salarié ni au sein de la cellule familiale, conformément à la loi du 5 septembre 2018 précitée. Les droits issus de la solidarité nationale correspondent à une part des contributions à la formation professionnelle versée par le ou les employeurs du titulaire du CPF. Or, le transfert du solde du CPF va à l'encontre du principe de mutualisation de ce dispositif.
