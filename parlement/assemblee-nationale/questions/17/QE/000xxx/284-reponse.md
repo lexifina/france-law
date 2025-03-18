@@ -1,0 +1,9 @@
+# Réponse à la question n° 284
+
+- Question : [284](284.md) — Question n° 284 — Atteinte à la loi du 10 juillet 2019 relative aux violences éducatives ordinaire
+
+## Réponse
+
+*JO du 2025-03-18, page 1878*
+
+Le Gouvernement est pleinement mobilisé pour lutter contre les violences faites aux enfants dans tous les milieux de vie de l'enfant. Le plan interministériel de lutte contre les violences faites aux enfants 2023-2027 incarne notamment cette ambition. Articulé autour de 6 axes et décliné de façon opérationnelle en 22 mesures, il concerne un large panel d'acteurs institutionnels et associatifs en tant que pilotes et/ou partenaires des différentes mesures. La mesure 15 prévoit de réaliser chaque année une campagne de communication à destination du grand public pour mobiliser l'attention de la société sur ce phénomène. Les différentes campagnes permettent de mettre en lumière les différentes manifestations des violences et leurs impacts en invitant à signaler et protéger les enfants en contactant le 119. Les pilotes de cette mesure ainsi que le comité d'associations expertes qui suivent sa mise en œuvre ont bien identifié la thématique de l'interdiction des violences éducatives ordinaires. Parmi les mesures du plan de lutte contre les violences faites aux enfants, la mesure 14 vise à inscrire la loi de 2019 sur l'interdiction des violences éducatives ordinaires dans le carnet de santé et le carnet de grossesse et à intégrer la prévention des violences éducatives ordinaires dans les entretiens prénataux précoces. Le nouveau carnet de santé entré en vigueur au 1er janvier 2025 a été publié au journal officiel du 14 novembre 2024. Les pages 12 et 13 de ce carnet sont consacrées à la prévention des violences faites aux enfants avec l'inscription de la loi du 10 juillet 2019 relative à l'interdiction des violences éducatives ordinaires.
