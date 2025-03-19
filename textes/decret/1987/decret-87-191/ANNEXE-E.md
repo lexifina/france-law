@@ -10,4 +10,4 @@ Les articles A à D ci-dessus sont applicables à l'acquéreur, au locataire ou 
 
 Le cessionnaire devra notifier au cédant, au moins trois mois avant la signature de l'acte prévu, la date de signature de l'acte et l'identité complète de l'acquéreur, du locataire ou du concessionnaire.
 
-Les actes de vente, baux ou concessions qui seraient consentis par le cessionnaire en violation des dispositions du présent article sont nuls et de nul effet, en application du quatrième alinéa de l'article L. 21-3 du code de l'expropriation pour cause d'utilité publique.
+Les actes de vente, baux ou concessions qui seraient consentis par le cessionnaire en violation des dispositions du présent article sont nuls et de nul effet, en application du quatrième alinéa de l'article L. 411-3 du code de l'expropriation pour cause d'utilité publique.

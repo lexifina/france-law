@@ -10,6 +10,6 @@ Si la résolution intervient après le commencement des travaux, l'indemnité de
 
 A défaut d'accord, le montant de la plus-value mentionnée à l'alinéa précédent sera fixé par voie d'expertise contradictoire. L'expert du cédant sera l'administration des domaines, l'expert du cessionnaire pouvant, si le cessionnaire ne pourvoit pas à sa désignation, être désigné d'office par le président du tribunal de grande instance, sur la requête du cédant.
 
-Tous les frais seront à la charge du cessionnaire. Les privilèges et hypothèques ayant grevé l'immeuble du chef du cessionnaire défaillant seront reportés sur l'indemnité de résolution dans les conditions fixées à l'article L. 21-3 du code de l'expropriation pour cause d'utilité publique.
+Tous les frais seront à la charge du cessionnaire. Les privilèges et hypothèques ayant grevé l'immeuble du chef du cessionnaire défaillant seront reportés sur l'indemnité de résolution dans les conditions fixées à l'article L. 411-4 du code de l'expropriation pour cause d'utilité publique.
 
 Tous les actes passés avec des tiers par le cessionnaire en application de l'article E ci-dessous, doivent, à peine de nullité, être conclus sous la condition résolutoire du respect par lesdits tiers des délais opposables au cessionnaire par application du présent cahier des charges.
