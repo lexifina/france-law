@@ -1,0 +1,433 @@
+# Article 1er
+
+L'accord relatif à la participation dérogatoire dans la branche des commerces de détail non alimentaires en date du 5 septembre 2024 est modifié comme suit :
+
+L'annexe B est remplacée par l'annexe B révisée, ci-après.
+
+« Annexe B   Participation dérogatoire
+
+L'entreprise … …, dont le siège social est situé … …., représentée par … …. agissant en vertu des pouvoirs dont il/ elle dispose,
+
+Ci-après dénommée la société ou l'entreprise,
+
+d'une part,
+
+et
+
+(Sélectionner l'option retenue)
+
+□   Les organisations syndicales représentatives dans l'entreprise … …, représentées respectivement par leur délégué syndical, Mme/ M. … …, Mme/ M. … … ;
+
+□   Le comité social et économique ayant voté à la majorité des membres présents, dont le procès-verbal est annexé au présent accord, représenté par Mme/ M...... en vertu du mandat reçu à cet effet au cours de la réunion du … … ;
+
+□   L'ensemble du personnel de l'entreprise ayant ratifié l'accord à la suite d'un vote (dont le procès-verbal est joint au présent accord) qui a recueilli la majorité des deux tiers, ladite ratification intervenant, le cas échéant, suite à une demande conjointe effectuée par la direction de l'entreprise et le comité social et économique ou les organisations syndicales représentatives ;
+
+□   Par décision unilatérale de l'employeur dans les entreprises de moins de 50 salariés.
+
+Préambule
+
+Le personnel, par son engagement, est un acteur déterminant de la réussite de l'entreprise.
+
+Le présent dispositif de participation est adopté sur le fondement de l'accord de branche du 5 septembre 2024 relatif à la participation dérogatoire dans la branche des commerces de détail non alimentaires (IDCC 1517, agréé par arrêté en date du … … (date). Il est rappelé que cet accord a été conclu sur le fondement des dispositions issues de l'article 4 de la loi n° 2023-1107 du 29 novembre 2023, portant transposition de l'ANI relatif au partage de la valeur.
+
+Le montant de la réserve spéciale de participation qui en résulte peut ainsi être moins favorable que celui résultant de l'application de la formule légale.
+
+Il est rappelé que la participation présente un caractère aléatoire.
+
+Article 1er
+
+Objet
+
+Le présent accord a pour objet de fixer notamment :
+
+– les bénéficiaires ;
+
+– la formule servant de base au calcul de la réserve de participation ;
+
+– les modalités et plafonds de répartition de la réserve entre les bénéficiaires ;
+
+– la nature et les modalités de gestion des droits des salariés ;
+
+– la durée d'indisponibilité des droits des salariés ;
+
+– la nature et la procédure suivant laquelle seront réglés les différends qui pourraient survenir entre les parties ;
+
+– les modalités d'information individuelle et collective.
+
+Tout ce qui ne serait pas prévu par le présent accord est régi par les textes en vigueur relatifs à la participation des salariés aux résultats de l'entreprise et, s'il y a lieu, par tous les avenants qui pourraient être ultérieurement conclus.
+
+Article 2
+
+Bénéficiaires
+
+Peuvent bénéficier des droits nés du présent accord, les salariés comptant au moins trois mois d'ancienneté continue ou discontinue dans l'entreprise.
+
+L'ancienneté s'apprécie à la date de clôture de l'exercice concerné ou à la date de départ en cas de rupture de contrat en cours d'exercice.
+
+Pour la détermination de l'ancienneté requise, sont pris en compte tous les contrats de travail exécutés au cours de la période de calcul et des douze mois qui la précèdent. Les périodes de suspension du contrat de travail, pour quelque motif que cela soit, ne sont pas déduites du calcul de l'ancienneté. S'agissant de l'ancienneté, il s'agit bien d'une ancienneté dans l'entreprise et non d'une ancienneté dans l'exercice fiscal considéré, aucune condition de présence du salarié à une date donnée ne pouvant être ajoutée. Il convient donc de distinguer l'ancienneté juridique d'un salarié qui lui permet de bénéficier de la participation et son temps de présence qui, selon la formule de répartition retenue, pourra avoir des conséquences sur le montant de sa prime.
+
+Le présent accord bénéficiera également, s'il y en a, aux mandataires sociaux, au dirigeant non-salarié, à son conjoint ou à son partenaire lié par un Pacs dès lors qu'il a le statut de conjoint collaborateur ou de conjoint associé.
+
+En cas d'embauche d'un stagiaire à l'issue d'un stage en entreprise de plus de deux mois, la durée de ce dernier est prise en compte pour l'ouverture et le calcul des droits liés à l'ancienneté et pour bénéficier des dispositifs d'épargne salariale, conformément aux règles légales en vigueur.
+
+Les titulaires d'un contrat d'apprentissage ou de professionnalisation bénéficient de la participation.
+
+Article 3
+
+Détermination de la réserve spéciale
+
+Le présent accord propose plusieurs formules de calcul de la réserve spéciale de participation définies en modifiant les éléments qui composent la formule de droit commun.
+
+L'entreprise sélectionne, parmi les trois propositions possibles, la proposition de formule de son choix en cochant la case correspondante.
+
+3.1.   Première proposition
+
+Le montant de la réserve spéciale de participation est calculé pour chaque exercice sur la base d'une formule dérogatoire définie comme suit : (sélectionner l'option retenue)
+
+□   RSP = 1/4 (B – 5 % C) × S/ VA
+
+□   RSP = 1/6 (B – 5 % C) × S/ VA
+
+□   RSP = 1/8 (B – 5 % C) × S/ VA
+
+Formule dans laquelle :
+
+– B représente le bénéfice net, c'est-à-dire le bénéfice net réalisé en France métropolitaine et en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy et à Saint-Martin, tel qu'il est retenu pour être imposé au taux de l'impôt sur les sociétés. Ce bénéfice est diminué de l'impôt correspondant et augmenté du montant de la provision pour investissement dans les conditions prévues par la réglementation ;
+
+– C représente les capitaux propres, comprenant le capital, les primes liées au capital social, les réserves, le report à nouveau, les provisions ayant supporté l'impôt, les provisions réglementées constituées en franchise d'impôt. Leur montant est retenu d'après les valeurs figurant au bilan de clôture de l'exercice. Toutefois, en cas de variation du capital au cours de l'exercice, le montant du capital et des primes est pris en compte pro rata temporis ;
+
+– S représente les salaires, correspondant aux revenus d'activité tels qu'ils sont pris en compte pour la détermination de l'assiette des cotisations définie à l'article L. 242-1 du code de la sécurité sociale ;
+
+– VA représente la valeur ajoutée, c'est-à-dire la somme des postes suivants du compte de résultat : charges de personnel + impôts et taxes, à l'exclusion de la taxe sur le chiffre d'affaires + charges financières + dotations de l'exercice aux provisions, à l'exclusion des dotations figurant dans les charges exceptionnelles + résultat courant avant impôts.
+
+Le calcul de la réserve spéciale de participation est effectué au début de chaque exercice sur la base du bilan de l'année précédente.
+
+3.2   Deuxième proposition
+
+Le montant de la réserve spéciale de participation est calculé pour chaque exercice sur la base d'une formule dérogatoire définie comme suit :
+
+RSP = 1/2 (B – 2 % C) × S/ VA
+
+Les éléments composant le C, le S et la VA sont ceux définis au 3.1.
+
+3.3.   Troisième proposition
+
+Le montant de la réserve spéciale de participation est égal à 5 % du bénéfice net comptable tel qu'il apparaît dans les comptes de l'entreprise.
+
+Le montant de la réserve spéciale est, en tout état de cause, quelle que soit la proposition de formule retenue, plafonné au montant suivant (cocher la limite de l'un des plafonds suivants) :
+
+□   La moitié du bénéfice net comptable ;
+
+□   Le bénéfice net comptable diminué de 5 % des capitaux propres ;
+
+□   Le bénéfice net fiscal diminué de 5 % des capitaux propres ;
+
+□   La moitié du bénéfice net fiscal.
+
+Article 4
+
+Droits individuels
+
+4.1.   Formules de répartition
+
+La réserve spéciale de participation est répartie entre les bénéficiaires selon la formule retenue ci-dessous :
+
+(Sélectionner l'option retenue en cochant la case correspondante)
+
+□   1re formule
+
+La répartition de la réserve entre les bénéficiaires est effectuée proportionnellement aux salaires bruts perçus au cours de l'exercice considéré, dans les conditions suivantes :
+
+– le salaire s'entend du total des revenus d'activité tels qu'ils sont pris en compte pour la détermination de l'assiette des cotisations définies à l'article L. 242-1 du code de la sécurité sociale ;
+
+– le salaire à prendre en considération ne peut, pour un même exercice, excéder une somme égale à 3 fois le plafond annuel de sécurité sociale. Ce plafond est réduit pro rata temporis en cas d'entrée ou de sortie des effectifs en cours d'exercice ;
+
+– il est rappelé que s'agissant des périodes de congé maternité, de congé de paternité et d'accueil de l'enfant, de congé d'adoption, de congé de deuil, de suspension du contrat de travail consécutive à un accident du travail ou à une maladie professionnelle (à l'exception des accidents de trajet et des rechutes dues à un accident du travail intervenu chez un précédent employeur), des périodes d'activité partielle ou de mise en quarantaine au sens du 2° du I de l'article L. 3131-1 du code de la santé publique, des congés annuels payés, des jours de réduction du temps de travail, des congés conventionnels individuels et collectifs comme les congés pour ancienneté et les congés de développement des compétences, les salaires pris en compte sont ceux qu'auraient perçus les salariés concernés pendant les mêmes périodes s'ils avaient travaillé. Il en va de même de toute autre période d'absence ultérieurement prévue par la réglementation.
+
+Le cas échéant, pour les mandataires sociaux de la société (ou le chef d'entreprise ainsi que son conjoint ou son partenaire de Pacs dès lors qu'il a le statut de conjoint collaborateur ou de conjoint associé), la répartition tient compte de la rémunération annuelle ou du revenu professionnel imposé à l'impôt sur le revenu de l'année précédente plafonné au niveau du salaire le plus élevé versé dans l'entreprise et dans la limite du plafond visé au paragraphe précédent.
+
+□   2e formule
+
+La répartition de la réserve entre les bénéficiaires est effectuée en fonction de la durée de présence correspondant aux périodes de travail effectif et aux périodes assimilées comme telles dans l'entreprise au cours de l'exercice.
+
+Il est rappelé que sont notamment assimilées à des périodes de présence les périodes de congé de maternité, de congé de paternité et d'accueil de l'enfant, de congé d'adoption, de congé de deuil, de suspension du contrat de travail consécutive à un accident du travail ou à une maladie professionnelle (à l'exception des accidents de trajet et des rechutes dues à un accident du travail intervenu chez un précédent employeur), les périodes d'activité partielle ou de mise en quarantaine au sens du 2° du I de l'article L. 3131-1 du code de la santé publique, les congés annuels payés, les jours de réduction du temps de travail, les congés conventionnels individuels et collectifs comme les congés pour ancienneté et les congés pour événements familiaux, les absences pour formation dans le cadre du plan de développement des compétences, ainsi que toute nouvelle absence ultérieurement prévue par la réglementation.
+
+En cas de travail à temps partiel, la durée de présence prend en compte le taux d'activité du salarié concerné.
+
+Ainsi, la répartition de la réserve spéciale de participation est effectuée au prorata des heures travaillées par le salarié selon le rapport suivant :
+
+Droit individuel = (RSP × Total des heures de travail effectif ou assimilées du salarié)/ Total des heures de travail effectif ou assimilées de l'entreprise
+
+□   3e formule
+
+La répartition de la réserve entre les bénéficiaires est effectuée dans les conditions suivantes :
+
+(Sélectionner l'option retenue)
+
+□   Option 1
+
+– pour 50 % en fonction de la durée de présence effective ou assimilée au cours de l'exercice de référence selon les modalités définies précédemment ;
+
+– pour 50 % proportionnellement aux salaires bruts perçus au cours de l'exercice selon les modalités définies précédemment.
+
+□   Option 2
+
+– pour 60 % en fonction de la durée de présence effective ou assimilée au cours de l'exercice de référence selon les modalités définies précédemment ;
+
+– pour 40 % proportionnellement aux salaires bruts perçus au cours de l'exercice selon les modalités définies précédemment.
+
+□   Option 3
+
+– pour 40 % en fonction de la durée de présence effective ou assimilée au cours de l'exercice de référence selon les modalités définies précédemment ;
+
+– pour 60 % proportionnellement aux salaires bruts perçus au cours de l'exercice selon les modalités définies précédemment.
+
+4.2.   Plafonnement
+
+Le montant des droits susceptibles d'être attribués à un bénéficiaire ne peut, pour un même exercice, excéder une somme égale aux trois quarts du plafond annuel de la sécurité sociale. Ce plafond est calculé au prorata du temps de présence en cas d'entrée ou de sortie des effectifs au cours de l'exercice.
+
+Les sommes qui n'auraient pu être distribuées en raison des règles de répartition ou de plafonnement seront réparties entre les salariés n'atteignant pas ledit plafond, et ce selon les mêmes modalités de répartition. Les sommes ayant fait l'objet d'une nouvelle répartition qui, en raison du plafond individuel, n'auraient pu être mises en distribution demeurent dans la réserve spéciale de participation des salariés pour être réparties au cours des exercices ultérieurs.
+
+Article 5
+
+Perception immédiate des fonds
+
+La participation est attribuée aux bénéficiaires au plus tard à la fin du cinquième mois suivant l'exercice de calcul.
+
+Lorsque le versement au salarié ou l'affectation de ses droits à participation à un plan d'épargne salarial est effectué au-delà du cinquième mois suivant l'exercice de calcul, les articles D. 3324-21-2 et D. 3324-25 du code du travail disposent respectivement du versement d'un intérêt de retard égal à 1,33 fois le taux moyen de rendement des obligations des sociétés privées.
+
+Les bénéficiaires de droits au titre du présent accord peuvent demander le versement immédiat de tout ou partie des sommes correspondantes, ou décider de les affecter sur le plan d'épargne existant au niveau de l'entreprise.
+
+Chaque année, les salariés seront informés :
+
+– du montant des sommes attribuées au titre de la participation ;
+
+– du montant dont ils peuvent demander, en tout ou partie, le versement immédiat ;
+
+– des modalités d'affectation par défaut de la prime en l'absence de choix ;
+
+– et du délai de quinze jours dont ils bénéficient pour formuler leur demande.
+
+À défaut de retour de la demande de paiement immédiat dans les quinze jours ou d'un choix d'affectation explicite du bénéficiaire, la quote-part de participation dans la limite de celle calculée à l'article L. 3324-1 du code du travail est affectée :
+
+– pour moitié à un plan d'épargne pour la retraite collectif (PERCO) ou à un plan d'épargne retraite d'entreprise collectif (PERECO) s'il a été mis en place dans l'entreprise ;
+
+– et pour l'autre moitié dans les conditions prévues par l'accord.
+
+Article 6
+
+Indisponibilité
+
+Sauf pour les salariés qui demandent le versement immédiat de tout ou partie des sommes correspondantes, les droits constitués au profit des bénéficiaires ne seront négociables ou exigibles qu'à l'expiration d'un délai d'indisponibilité de cinq ans à compter du premier jour du sixième mois suivant la clôture de l'exercice au titre duquel ils sont calculés.
+
+Ces droits s'agissant d'un plan d'épargne d'entreprise peuvent faire l'objet d'un déblocage anticipé, lors de la survenance de l'un des cas suivants (art. R 3324-22 du code du travail) :
+
+– mariage de l'intéressé ou conclusion d'un Pacs ;
+
+– naissance ou arrivée au foyer d'un enfant en vue de son adoption dès lors que le foyer compte déjà au moins deux enfants à charge ;
+
+– divorce, séparation ou dissolution d'un Pacs lorsqu'ils sont assortis d'une convention ou d'une décision judiciaire prévoyant la résidence habituelle unique ou partagée d'au moins un enfant au domicile de l'intéressé ;
+
+– violences commises contre l'intéressé par son conjoint, son concubin ou son partenaire lié par un Pacs, ou son ancien conjoint, concubin ou partenaire :
+
+a) Soit lorsqu'une ordonnance de protection est délivrée au profit de l'intéressé par le juge aux affaires familiales en application de l'article 515-9 du code civil ;
+
+b) Soit lorsque les faits relèvent de l'article 132-80 du code pénal et donnent lieu à une alternative aux poursuites, à une composition pénale, à l'ouverture d'une information par le procureur de la République, à la saisine du tribunal correctionnel par le procureur de la République ou le juge d'instruction, à une mise en examen à une condamnation pénale, même non définitive ;
+
+– invalidité du bénéficiaire, de ses enfants, de son conjoint ou de la personne qui lui est liée par un Pacs, l'invalidité s'appréciant au sens des 2° et 3° de l'article L. 341-4 du code de la sécurité sociale ou étant reconnue par décision de la commission des droits et de l'autonomie des personnes handicapées ou du président du conseil départemental, à condition que le taux d'incapacité atteigne au moins 80 % et que l'intéressé n'exerce aucune activité professionnelle ;
+
+– décès du bénéficiaire, de son conjoint ou de la personne liée par un Pacs ;
+
+– cessation du contrat de travail ainsi que, le cas échéant, cessation de son activité par l'entrepreneur individuel ; fin du mandat social ; perte du statut de conjoint collaborateur ou de conjoint associé ;
+
+– affectation des sommes épargnées à la création ou reprise par le bénéficiaire, ses enfants, son conjoint ou la personne liée par un Pacs, d'une entreprise industrielle, commerciale, artisanale ou agricole, soit à titre individuel, soit sous la forme d'une société à condition d'en exercer effectivement le contrôle au sens de l'article R. 5141-2 du code du travail, ou installation en vue de l'exercice d'une autre profession non salariée ou à l'acquisition de parts sociales d'une SCOP ;
+
+– affectation des sommes épargnées à l'acquisition ou agrandissement de la résidence principale emportant création de surface habitable nouvelle telle que définie à l'article R. 156-1 du code de la construction et de l'habitation, sous réserve de l'existence d'un permis de construire ou d'une déclaration préalable de travaux, ou à la remise en état de la résidence principale endommagée à la suite d'une catastrophe naturelle reconnue par arrêté ministériel ;
+
+– affectation des sommes épargnées aux travaux de rénovation énergétique de la résidence principale mentionnés aux articles D. 319-16 et D. 319-17 du code de la construction et de l'habitation ;
+
+– situation de surendettement du salarié définie à l'article L. 711-1 du code de la consommation sur demande adressée à l'organisation gestionnaire des fonds ou à l'employeur par le président de la commission de surendettement des particuliers ou par le juge lorsqu'il estime que le déblocage des droits paraît nécessaire à l'apurement du passif de l'intéressé ;
+
+– l'activité de proche aidant exercée par l'intéressé, son conjoint ou son partenaire lié par un Pacs auprès d'un proche, telle que définie aux articles L. 3142-16 et L. 3142-17 du code du travail ;
+
+– l'achat d'un véhicule qui réponde à l'une des deux conditions suivantes :
+
+a) Il appartient, au sens de l'article R. 311-1 du code de la route, à la catégorie M1, à la catégorie des camionnettes ou à la catégorie des véhicules à moteur à deux ou trois roues et quadricycles à moteur, et il utilise l'électricité, l'hydrogène ou une combinaison des deux comme source exclusive d'énergie ;
+
+b) Il est un cycle à pédalage assisté, neuf, au sens du point 6.11 de l'article R. 311-1 du code de la route.
+
+En outre, les sommes n'atteignant pas un montant fixé par arrêté (80 € à la date de signature du présent accord) sont payées directement.
+
+Sauf dans les cas de cessation du contrat de travail, de décès du conjoint ou de la personne liée par un Pacs, d'invalidité, de violences conjugales, de surendettement et d'activité de proche aidant, pour lesquels le salarié peut demander à tout moment la liquidation de ses droits, les demandes doivent être présentées dans le délai de six mois à compter du fait générateur. En cas de décès, il appartient aux ayants droit de demander la liquidation des droits.
+
+Ces droits s'agissant d'un plan d'épargne pour la retraite collectif (PERCO) peuvent faire l'objet d'un déblocage anticipé, lors de la survenance de l'un des cas suivants (art. R. 3334-4 du code du travail) :
+
+– invalidité de l'intéressé, de ses enfants, de son conjoint ou de son partenaire lié par un pacte civil de solidarité. Cette invalidité s'apprécie au sens des 2° et 3° de l'article L. 341-4 du code de la sécurité sociale, ou est reconnue par décision de la commission des droits et de l'autonomie des personnes handicapées prévue à l'article L. 241-5 du code de l'aide sociale et des familles, à condition que le taux d'incapacité atteigne au moins 80 % et que l'intéressé n'exerce aucune activité professionnelle. Le déblocage pour chacun de ces motifs ne peut intervenir qu'une seule fois ;
+
+– décès de l'intéressé, de son conjoint ou de son partenaire lié par un pacte civil de solidarité. En cas de décès de l'intéressé, il appartient à ses ayants droit de demander la liquidation de ses droits, et les dispositions du 4 du III de l'article 150-0-A du code général des impôts cessent d'être applicables à l'expiration des délais fixés par l'article 641 du même code ;
+
+– affectation des sommes épargnées à l'acquisition de la résidence principale ou à la remise en état de la résidence principale endommagées à la suite d'une catastrophe naturelle reconnue par arrêté interministériel ;
+
+– situation de surendettement du participant définie à l'article L. 711-1 du code de la consommation, sur demande adressée à l'organisme gestionnaire des fonds ou à l'employeur, soit par le président de la commission de surendettement des particuliers, soit par le juge lorsque le déblocage des droits paraît nécessaire à l'apurement du passif de l'intéressé ;
+
+– expiration des droits à l'assurance chômage de l'intéressé.
+
+Il est précisé que la demande de liquidation anticipée peut ici intervenir à tout moment, sauf dans le cas d'affectation des sommes épargnées à l'acquisition de la résidence principale ou sa remise en état à la suite d'une catastrophe naturelle où dans cas elle doit intervenir dans un délai de six mois à compter de la survenance du fait générateur.
+
+Ces droits s'agissant d'un plan d'épargne retraite d'entreprise collectif (PERECO) peuvent faire l'objet d'un déblocage anticipé, lors de la survenance de l'un des cas suivants (art. L. 224-4 du code monétaire et financier) :
+
+– décès du conjoint du titulaire ou de son partenaire lié par un pacte civil de solidarité ;
+
+– invalidité du titulaire, de ses enfants, de son conjoint ou de son partenaire lié par un pacte civil de solidarité. Cette invalidité s'apprécie au sens des 2° et 3° de l'article L. 341-4 du code de la sécurité sociale ;
+
+– situation de surendettement du titulaire, au sens de l'article L. 711-1 du code de la consommation ;
+
+– expiration des droits à l'assurance chômage du titulaire, ou le fait pour le titulaire d'un plan qui a exercé des fonctions d'administrateur, de membre du directoire ou de membre du conseil de surveillance et n'a pas liquidé sa pension dans un régime obligatoire d'assurance vieillesse de ne pas être titulaire d'un contrat de travail ou d'un mandat social depuis deux ans au moins à compter du non-renouvellement de son mandat ou de sa révocation ;
+
+– cessation d'activité non salariée du titulaire à la suite d'un jugement de liquidation judiciaire en application du titre IV du livre VI du code de commerce ou toute situation justifiant ce retrait ou ce rachat selon le président du tribunal de commerce auprès duquel est instituée une procédure de conciliation mentionnée à l'article L. 611-4 du même code, qui en effectue la demande avec l'accord du titulaire ;
+
+– affectation des sommes épargnées à l'acquisition de la résidence principale. Les droits correspondant aux sommes mentionnées au 3° de l'article L. 224-2 du code monétaire et financier ne peuvent être liquidées ou rachetées pour ce motif ;
+
+– lorsque, à la date de la demande de liquidation ou de rachat, le titulaire du plan est âgé de moins de dix-huit ans.
+
+Le décès du titulaire avant l'échéance mentionnée à l'article L. 224-1 du code monétaire et financier entraîne la clôture du plan.
+
+Article 7
+
+Gestion des fonds
+
+Les sommes correspondant aux droits issus de la réserve spéciale de participation au profit des bénéficiaires, dont ils ne demandent pas le versement en tout ou partie, sont versés sur des comptes ouverts au nom des intéressés dans le cadre du plan d'épargne d'entreprise (PEE) mis en place par l'entreprise.
+
+Les sommes recueillies dans le plan d'épargne sont affectées conformément au règlement de ce plan.
+
+Pour les salariés qui ne décident pas de l'affectation, la somme est affectée dans le fonds par défaut désigné dans le règlement du plan d'épargne applicable.
+
+Le cas échéant, la quote-part de participation est affectée pour moitié dans un plan d'épargne pour la retraite collectif (PERCO) ou dans un plan d'épargne retraite d'entreprise collectif (PERECO), s'il a été mis en place dans l'entreprise, et pour l'autre moitié dans les conditions prévues ci-dessus.
+
+Article 8
+
+Information collective
+
+L'application du présent dispositif est suivie par le CSE ou par une commission spécialisée créée par lui ou, à défaut de CSE, par une commission ad hoc comprenant au moins un salarié.
+
+Dans les cinq mois qui suivent la clôture de chaque exercice, la direction présente un rapport comportant notamment :
+
+– les éléments servant de base au calcul du montant de la réserve spéciale de participation des salariés pour l'exercice écoulé ;
+
+– des indications précises sur la gestion et l'utilisation des sommes affectées à cette réserve.
+
+Lorsque le CSE est appelé à siéger pour examiner le rapport, les questions ainsi examinées font l'objet d'une mention spéciale à son ordre du jour.
+
+Lorsqu'il n'existe pas de CSE, le rapport relatif à l'accord de participation est adressé à chaque salarié présent dans l'entreprise à l'expiration du délai de cinq mois suivant la clôture de l'exercice.
+
+Article 9
+
+Information individuelle
+
+Tout salarié reçoit lors de son embauche un livret d'épargne salariale présentant le dispositif d'épargne salariale mis en place au sein de l'entreprise.
+
+Conformément à la loi, la société établit tous les documents nécessaires pour l'information des salariés, tant sur le plan du calcul de la réserve spéciale de participation que sur le plan de leurs créances individuelles.
+
+Pour les salariés présents à la date de signature du présent accord, et pour ceux embauchés ultérieurement, le texte intégral de l'accord est communiqué au personnel par voie d'affichage ou par voie de transmission électronique.
+
+Lors de la répartition entre bénéficiaires, il est remis à chacun d'eux une fiche distincte du bulletin de paie indiquant notamment :
+
+– le montant total de la RSP pour l'exercice écoulé ;
+
+– le montant des droits attribués à l'intéressé ;
+
+– le montant du précompte effectué au titre de la CSG et de la CRDS ;
+
+– l'organisme auquel est confiée la gestion des droits ;
+
+– la date à partir de laquelle les droits seront négociables ou exigibles ;
+
+– les cas dans lesquels ils peuvent être exceptionnellement liquidés ou transférés avant l'expiration du délai d'indisponibilité ;
+
+– les modalités d'affectation par défaut au plan d'épargne pour la retraite collectif, ou dans un plan d'épargne retraite d'entreprise collectif lorsqu'un tel plan a été mis en place, des sommes attribuées au titre de la participation, conformément aux dispositions de l'article L. 3324-12 du code du travail.
+
+À cette fiche est annexée une note rappelant les règles de calcul et de répartition prévues par le présent accord.
+
+Sauf opposition du salarié, la remise de cette fiche peut être faite par voie électronique à l'adresse communiquée.
+
+Dans les cinq mois qui suivent la clôture de l'exercice, chaque salarié est informé des sommes et valeurs qu'il détient au titre de la participation.
+
+Lorsqu'un salarié quitte l'entreprise, il lui est remis un état récapitulatif de ses avoirs, ainsi qu'un avis lui indiquant qu'il devra faire connaître à la direction l'adresse à laquelle il pourra être contacté.
+
+En cas de changement d'adresse, il appartient au bénéficiaire d'en aviser la direction en temps utile.
+
+Enfin, il est rappelé que si lors de son départ, le salarié souhaite transférer les sommes qu'il détient au titre de la participation dans un plan d'épargne de son nouvel employeur, il doit indiquer à la société les avoirs acquis qu'il souhaite voir transférer ainsi que le nom et l'adresse du nouvel employeur.
+
+À défaut de retour de la demande de paiement immédiat dans les quinze jours ou d'un choix d'affectation explicite du bénéficiaire, la quote-part de participation est affectée pour moitié à un plan d'épargne pour la retraite collectif (PERCO) ou à un plan d'épargne retraite d'entreprise collectif (PERECO) s'il a été mis en place dans l'entreprise, et pour l'autre moitié dans les conditions prévues par l'accord.
+
+Il est rappelé que les sommes versées sur un plan d'épargne d'entreprise sont bloquées pendant au moins 5 ans alors que celles versées sur un plan d'épargne retraite le sont jusqu'à la retraite.
+
+Article 10
+
+Règlement des différends
+
+Les contestations pouvant naître de l'application du présent dispositif et d'une manière générale tous les problèmes relatifs à la participation sont réglés suivant des procédures appropriées à la nature du litige.
+
+• Bénéfices nets et capitaux propres : ces montants font l'objet d'une attestation de l'inspecteur des impôts ou du commissaire aux comptes, qui ne peut être remise en cause ; si cependant, il apparaissait qu'une erreur matérielle a été commise dans son établissement, les parties pourraient en demander une nouvelle à l'inspecteur concerné ou au commissaire aux comptes.
+
+• Salaires et valeur ajoutée : les litiges portant sur les salaires et la valeur ajoutée relèvent des juridictions compétentes en matière d'impôts directs, à savoir le tribunal administratif en premier ressort et le Conseil d'État en appel.
+
+• Autres litiges individuels ou collectifs : tous les autres litiges, qu'ils soient d'ordre individuel ou collectif, sont de la compétence des tribunaux judiciaires.
+
+Toutefois, afin d'éviter le recours aux tribunaux, les parties conviennent, en cas de désaccord constaté sur ces éléments lors de la réunion prévue à l'article 8 du présent accord, de mettre en œuvre une tentative de règlement amiable. Ainsi, le différend concernant l'application du présent dispositif est d'abord soumis à l'examen des parties en vue de rechercher une solution amiable. Si le différend porte sur une question d'interprétation de l'accord, la CPPNI de la branche des commerces de détail non alimentaires pourra être saisie.
+
+Article 11
+
+Durée et dénonciation
+
+La présente décision unilatérale, ou le cas échéant le présent accord, est mis (e) en place pour une durée déterminée de … … exercices sociaux (un, deux ou trois) et s'appliquera pour la première fois à compter de celui ouvert le … …
+
+Le dernier exercice d'application devra se clôturer au plus tard le 29 novembre 2028. La réserve de participation ne se calculant que par exercice entier, il en résulte que pour une entreprise clôturant son exercice le 31 décembre, le dernier exercice d'application de l'expérimentation s'achèvera au 31 décembre 2027.
+
+Article 12
+
+Révision
+
+Le présent dispositif ayant été conclu en application des dispositions de droit commun, toutes modifications de ces dispositions ultérieures à la signature du présent dispositif se substitueront de plein droit à celles du présent accord devenues non conformes.
+
+En outre, chaque partie peut demander, par écrit, la révision de tout ou partie du présent dispositif, en indiquant les points de révision souhaités.
+
+Le texte révisé ne peut concerner l'exercice en cours que si l'acte de révision est signé avant le premier jour du septième mois de l'exercice. À défaut, il prend effet pour l'exercice suivant. L'acte de révision ainsi conclu doit faire l'objet d'un dépôt dans les mêmes conditions que celles prévues dans le cadre de l'acte initial, sauf en cas de modification des dispositions législatives et/ ou réglementaires en la matière.
+
+Article 13
+
+Dépôt.   Publicité
+
+Le présent dispositif est déposé sur la plateforme de téléprocédure dans des conditions prévues par la réglementation.
+
+Le présent dispositif est également adressé par l'entreprise au greffe du conseil de prud'hommes du ressort du lieu de conclusion.
+
+Il est établi en nombre suffisant pour remise à chacune des parties.
+
+Son existence figurera aux emplacements réservés à la communication avec le personnel.
+
+Une copie de la décision unilatérale ou de l'accord d'entreprise est transmise à la commission paritaire permanente de négociation et d'interprétation (CPPNI) de la branche professionnelle des commerces de détail non alimentaires (adresse : contact @ cdna. pro).
+
+(En cas de décision unilatérale de l'employeur dans les entreprises de moins de 50 salariés.)
+
+Fait à … …, le … …
+
+Le chef d'entreprise.
+
+(En cas d'accord d'entreprise.)
+
+Fait à … …, le … …
+
+□   Pour l'organisation syndicale
+
+Le chef d'entreprise.
+
+□   Pour le CSE
+
+Le chef d'entreprise.
+
+□   Pour le personnel en cas de référendum
+
+Le chef d'entreprise.
+
+En … … exemplaires. »
