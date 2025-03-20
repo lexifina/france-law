@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250102746
+
+- Question : [SEQ250102746](seq250102746.md) — Protection des agents publics victimes d'atteintes en lien avec leur fonction
+
+## Réponse
+
+*Action publique, fonction publique et simplification , JO du 2025-03-20, page 1267*
+
+En application des articles L. 134-1 à L. 134-12 du code général de la fonction publique, les agents publics bénéficient, quel que soit le mode d'accès à leur fonction, d'une protection organisée par leur employeur lorsqu'ils font l'objet de condamnations civiles, de poursuites pénales, ou lorsqu'ils sont victimes d'attaques. Cette protection a fait l'objet d'un élargissement tant du point de vue de ses bénéficiaires que de son champ d'application notamment par la loi n° 2016-483 du 20 avril 2016 relative à la déontologie et aux droits et obligations des fonctionnaires qui a, par exemple, étendu cette protection aux agents placés en garde à vue. Toute autorité constituée est par ailleurs tenue de signaler tout crime ou délit dont elle a connaissance au procureur de la République en application de l'article 40 du code de procédure pénale. La substitution de la collectivité publique à l'agent public pour un dépôt de plainte a pour finalité de compenser la situation de faiblesse de certaines victimes directes qui ne peuvent ou n'osent agir, notamment par crainte de représailles. Cet accompagnement de la collectivité publique constitue un soutien actif de cette dernière. L'article L. 433-3-1 du code pénal, issu de la loi du 24 août 2021 confortant le respect des principes de la République, prévoit ainsi le dépôt de plainte de l'administration en cas de délit de « séparatisme ». Cette disposition présentant un caractère restrictif, le Gouvernement étudie actuellement la possibilité de prévoir un cadre juridique plus large au dépôt de plainte de l'administration à la place de l'agent.
