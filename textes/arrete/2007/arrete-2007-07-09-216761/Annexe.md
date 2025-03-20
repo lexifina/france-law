@@ -26,22 +26,6 @@ France métropolitaine-Moldavie.
 
 2. Liaisons internationales extracommunautaires :
 
-Jusqu'au 31 mars 2025
-
-Paris-Antalya (Turquie) ;
-
-Paris-Istanbul (Turquie) ;
-
-Montpellier-Alger (Algérie) ;
-
-Montpellier-Oran (Algérie) ;
-
-Montpellier-Djerba (Tunisie) ;
-
-Montpellier-Monastir (Tunisie) ;
-
-Montpellier-Tunis (Tunisie).
-
 Jusqu'au 31 octobre 2025
 
 Nantes-Alger (Algérie) ;
@@ -129,6 +113,10 @@ Lyon-Istanbul (Turquie) ;
 Paris-Biskra (Algérie) ;
 
 Paris-Charm El-Cheikh (Egypte).
+
+Jusqu'au 31 mars 2028 :
+
+Strasbourg-Istanbul.
 
 Jusqu'au 31 mars 2028 :
 
@@ -270,6 +258,14 @@ Marseille-Annaba (Algérie) ;
 
 Marseille-Sétif (Algérie).
 
-NOTA :
+Jusqu'au 31 mars 2030 :
 
-Conformément à l'article 3 de l'arrêté du 14 janvier 2025 (NOR : ATDA2435448A), ces dispositions entrent en vigueur le 14 février 2025.
+Paris-Antalya (Turquie) ;
+
+Paris-Istanbul (Turquie) ;
+
+Montpellier-Alger (Algérie) ;
+
+Montpellier-Oran (Algérie) ;
+
+Montpellier-Tunis (Tunisie).
