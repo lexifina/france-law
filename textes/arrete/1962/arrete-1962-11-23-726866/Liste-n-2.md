@@ -32,12 +32,6 @@ Finistère |
 
 Hélistation |
 
-Cambrai-Epinoy |
-
-Nord |
-
-|
-
 Came |
 
 Pyrénées-Atlantiques |
@@ -199,9 +193,3 @@ Toulon-Milhaud |
 Var |
 
 Hélistation |
-
-Toulon - Saint-Mandrier |
-
-Var |
-
-Hydrobase : procédure de fermeture de l’hydrobase en cours |

@@ -290,12 +290,6 @@ Réservé aux aéronefs qui y sont basés.
 
 Utilisable par les hélicoptères. |
 
-Dunkerque-Les Moëres |
-
-Nord |
-
-Réservé aux avions, aux hélicoptères et aéronefs ultralégers motorisés basés dans les départements suivants : Nord, Pas-de-Calais, Somme, Aisne et Oise. Utilisable par les pilotes en provenance d'autres départements, après avoir été nommément autorisés par le délégué régional de l'aviation civile Nord-Pas-de-Calais. |
-
 Enghien-Moisselles |
 
 Val-d'Oise |
@@ -325,12 +319,6 @@ Les aéronefs ne relevant pas des points n° 2 à 4 pourront être exceptionnell
 Etrépagny |
 
 Eure |
-
-Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins. |
-
-Eu-Mers-Le Tréport |
-
-Seine-Maritime |
 
 Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins. |
 
@@ -675,6 +663,20 @@ Lyon-Corbas |
 Rhône |
 
 Réservé au vol à voile, au parachutisme, aux avions qui y sont basés et aux avions de servitude. |
+
+Mafate-La Nouvelle-Cirque de Mafate
+
+|
+
+La Réunion |
+
+Cette hélistation est réservée :
+
+1° Aux aéronefs basés, ainsi qu'aux aéronefs non-basés sous conditions contractualisées avec l'exploitant ;
+
+2° Aux vols à vue de jour ;
+
+3° Aux activités de travail aérien, d'acheminement des secours, de transport sanitaire et de transport de biens et marchandises nécessaires au ravitaillement du Cirque de Mafate et de ses habitants. |
 
 Mantes-Chérence |
 
@@ -1124,13 +1126,13 @@ Hélistation.
 
 Réservée :
 
--aux hélicoptères en provenance de Point-à-Pitre-Le Raizet ou n'ayant pas quitté la Guadeloupe depuis leur dernier décollage de Point-à-Pitre-Le Raizet ; provenance de Pointe-à-Pitre-Le Raizet ou n'ayant pas quitté la Guadeloupe depuis leur dernier décollage de Pointe-à-Pitre-Le Raizet ; |
+-aux hélicoptères en provenance de Guadeloupe-Maryse Condé ou n'ayant pas quitté la Guadeloupe depuis leur dernier décollage de Guadeloupe-Maryse Condé ; |
 
 |
 
 |
 
--aux hélicoptères à destination de Point-à-Pitre-Le Raizet ou devant atterrir à Point-à-Pitre-Le Raizet avant de quitter la Guadeloupe. Destination de Pointe-à-Pitre-Le Raizet ou devant atterrir à Pointe-à-Pitre-Le Raizet avant de quitter la Guadeloupe. |
+-aux hélicoptères à destination de Guadeloupe-Maryse Condé ou devant atterrir à Guadeloupe-Maryse Condé avant de quitter la Guadeloupe. |
 
 |
 
@@ -1206,14 +1208,20 @@ Villacoublay-Vélizy |
 
 Yvelines |
 
-|
+Réservé :
+
+1° Aux aéronefs d'Etat français ;
+
+2° Aux aéronefs d'Etat étrangers ;
+
+3° Aux aéronefs basés ou détachés ;
+
+4° Aux aéronefs loués ou affrétés au profit d'autorités militaires ou gouvernementales françaises ou étrangères ;
+
+5° Aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré et des caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
 
 Yvetot-Baons-le-Comte |
 
 Seine-Maritime |
 
 Les conditions d'utilisations sont validées par les services de la direction de la sécurité de l'aviation civile Ouest et portées à la connaissance des navigateurs aériens par insertion dans les publications aéronautiques appropriées. |
-
-NOTA :
-
-Conformément à l'article 6 de l'arrêté du 14 janvier 2025 (NOR : ATDA2434624A), ces dispositions entrent en vigueur le 3 février 2025.

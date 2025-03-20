@@ -20,7 +20,7 @@ Lot-et-Garonne |
 
 |
 
-Aire-sur-Adour |
+Aire-sur-l'Adour |
 
 Landes |
 
@@ -502,7 +502,7 @@ Ardennes |
 
 |
 
-Chartres-Champhol |
+Chartres-Métropole |
 
 Eure-et-Loir |
 
@@ -576,7 +576,7 @@ Seine-et-Marne |
 
 |
 
-Cherbourg-Maupertus |
+Cherbourg-Manche |
 
 Manche |
 
@@ -706,6 +706,14 @@ Eure-et-Loir |
 
 |
 
+Dunkerque-Les Moëres
+
+|
+
+Nord |
+
+|
+
 Egletons |
 
 Corrèze |
@@ -733,6 +741,14 @@ Vosges |
 Etampes-Mondésir |
 
 Essonne |
+
+|
+
+Eu-Mers-Le Tréport
+
+|
+
+Seine-Maritime |
 
 |
 
@@ -1204,7 +1220,7 @@ Aveyron |
 
 |
 
-Mimizan |
+Mimizan-Assollant, Lefèvre et Lotti |
 
 Landes |
 
@@ -1412,12 +1428,6 @@ Finistère |
 
 |
 
-Oyonnax-Arbent |
-
-Ain |
-
-|
-
 Pamiers-les-Pujols |
 
 Ariège |
@@ -1429,12 +1439,6 @@ Paray-le-Monial |
 Saône-et-Loire |
 
 |
-
-Paris-Austerlitz |
-
-Paris |
-
-Hélistation |
 
 Paris-Charles de Gaulle |
 
@@ -1604,12 +1608,6 @@ Ille-et-Vilaine |
 
 |
 
-Reims-Champagne |
-
-Marne |
-
-|
-
 Reims-Prunay |
 
 Marne |
@@ -1742,7 +1740,7 @@ Pas-de-Calais |
 
 |
 
-Saint-Jean-d'Angély - Saint-Denis-du-Pin |
+Saint-Jean-d'Angély-Essouvert |
 
 Charente-Maritime |
 
@@ -1910,12 +1908,6 @@ Hautes-Pyrénées |
 
 |
 
-Thionville-Yutz |
-
-Moselle |
-
-|
-
 Thouars |
 
 Deux-Sèvres |
@@ -1988,7 +1980,7 @@ Vaucluse |
 
 |
 
-Vannes-Meucon |
+Vannes-Golfe du Morbihan |
 
 Morbihan |
 
