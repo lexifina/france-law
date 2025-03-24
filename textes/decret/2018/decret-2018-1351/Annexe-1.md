@@ -174,6 +174,10 @@ Décret n° 2006-441 du 14 avril 2006 portant statut particulier des corps du pe
 
 Décret n° 2015-1275 du 13 octobre 2015 portant statut particulier des greffiers des services judiciaires
 
+Décret n° 2023-1341 du 29 décembre 2023 portant statut particulier des corps du personnel de surveillance de l'administration pénitentiaire.
+
+Agents contractuels de droit public recrutés en application de l'article L. 113-4-1 du code pénitentiaire.
+
 MINISTÈRE DE L'AGRICULTURE ET DE L'ALIMENTATION
 
 Décret n° 68-537 du 30 mai 1968 relatif aux personnels de direction et d'enseignement de l'Ecole nationale supérieure féminine d'agronomie et des Ecoles nationales féminines d'agronomie et portant statut particulier des professeurs et des chefs de travaux de ces établissements
