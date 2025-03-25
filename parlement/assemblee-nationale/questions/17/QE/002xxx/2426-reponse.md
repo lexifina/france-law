@@ -1,0 +1,9 @@
+# Réponse à la question n° 2426
+
+- Question : [2426](2426.md) — Question n° 2426 — Rappel des véhicules équipés de moteurs 1.2 puretech et indemnisation
+
+## Réponse
+
+*JO du 2025-03-25, page 2075*
+
+Le Gouvernement est attentif à l'exercice des droits des consommateurs dans les signalements cités relatifs au moteur 1.2 Puretech. Deux services de l'Etat travaillent conjointement sur le traitement de ces signalements, compte tenu de leurs compétences respectives : le service de surveillance du marché des véhicules et des moteurs (SSMVM) relevant du ministère chargé des transports et la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF). Le SSMVM mène les investigations auprès des constructeurs pour vérifier la conformité des moteurs concernés aux exigences techniques. Parallèlement à ces contrôles de conformité technique et en complément de la garantie légale de conformité, les constructeurs automobiles peuvent prendre des engagements volontaires pour tenir compte des difficultés rencontrées par leurs consommateurs. C'est ainsi que Stellantis a, d'une part, engagé en application de la réglementation des campagnes de rappel en 2020 et 2022 et, d'autre part, a pris des engagements publics consistant en une extension de la garantie commerciale de deux ans à dix ans ou 175 000 kilomètres et couvrant la totalité des coûts pour les pièces et la main-d'œuvre. Cette prise en charge est conditionnée au fait que l'entretien du véhicule ait été effectué selon les recommandations du constructeur par tout professionnel de l'automobile, et que le diagnostic et la réparation soient effectués dans le réseau agréé Stellantis. Les services de la DGCCRF mèneront des investigations dans le courant de l'années 2025 afin de s'assurer que les engagements publics pris par le constructeur sont respectés.
