@@ -1,0 +1,9 @@
+# Réponse à la question n° 2228
+
+- Question : [2228](2228.md) — Question n° 2228 — Prise en charge du transport des personnes malades d'Alzheimer
+
+## Réponse
+
+*JO du 2025-03-25, page 2049*
+
+Lorsque les activités non thérapeutiques sont proposées aux personnes malades d'Alzheimer par des entités qui ne sont pas financées par la sécurité sociale, elles ne peuvent pas donner lieu à une prise en charge du transport par l'Assurance maladie pour s'y rendre. Cependant, lorsqu'elles sont proposées par des accueils de jour, ces activités sont financées par la branche autonomie. Les frais de transport des personnes bénéficiant d'un accueil de jour sont alors pris en charge par l'Etablissement d'hébergement pour personnes âgées dépendantes (EHPAD) auquel l'accueil de jour se rattache, dans la limite d'un plafond fixé par arrêté ministériel chaque année. L'EHPAD qui organise un accueil de jour en complément des prises en charge d'hébergement doit par conséquent proposer une solution de transport adaptée aux besoins des personnes bénéficiant de l'accueil de jour. Pour bénéficier de la prise en charge d'un forfait journalier de frais de transport, les gestionnaires des accueils de jour doivent justifier des modalités d'organisation des transports. A défaut, ils remboursent aux personnes accueillies ou à leurs familles les frais de transport qu'elles supportent, dans la limite de ce forfait. La prise en charge du transport ou certaines solutions de transports peuvent être également proposées par les collectivités locales au titre du handicap ou de la perte d'autonomie, en premier lieu les conseils départementaux ou les services sociaux de la mairie. La ministre chargée de l'autonomie et du handicap privilégie que les collectivités locales définissent elles-mêmes leurs actions pour que ces personnes aient le meilleur accès possible aux activités organisées en leur faveur sur leur territoire.
