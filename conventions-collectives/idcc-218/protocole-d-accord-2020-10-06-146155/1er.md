@@ -30,31 +30,31 @@ Il s'agit des métiers suivants :
 
 Métiers |
 
-Durée minimale de travail hebdomadaire |
+Durée minimale
 
-Cadre médical (niveau 9E à 12E) |
+de travail hebdomadaire |
+
+Cadre médical
+
+Cadre de santé
+
+Cadre éducatif
+
+Conseiller professionnel rééducateur |
 
 2 heures |
 
-Cadre de santé (niveau 7E à 8E) |
+Infirmier
 
-Cadre éducatif (niveau 7E) |
+Manipulateur en électroradiologie
 
-Conseiller professionnel (niveau 6E) |
+Personnel médico-technique B
 
-Rééducateur (niveau 6E) |
-
-Infirmier (niveau 6E) |
-
-4 heures |
-
-Manipulateur en électroradiologie (niveau 6E) |
-
-Personnel médico-technique B (niveau 5E) |
-
-Personnel d'éducation technique B (niveau 5E) |
+Personnel d'éducation technique B
 
 Chargé d'intervention sociale (grille des employés et cadres) |
+
+4 heures |
 
 Lorsque la répartition des horaires de travail se fait sur une période supérieure à la semaine, la durée minimale hebdomadaire s'apprécie en moyenne sur la période de référence.
 
