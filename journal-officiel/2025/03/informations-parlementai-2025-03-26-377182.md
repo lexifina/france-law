@@ -1,0 +1,788 @@
+# Commissions et organes de contrôle
+
+- Nature : Informations Parlementaires
+- Publication : 2025-03-26
+- JO n° : 0073
+- NOR : INPA2509085X
+- Origine : JORF n°0073 du 26 mars 2025
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051377182
+
+## Article
+
+Assemblée nationale
+
+Session ordinaire 2024-2025
+
+1. Composition
+
+MODIFICATIONS À LA COMPOSITION DES COMMISSIONS |
+
+DÉMISSIONS |
+
+Affaires culturelles |
+
+M. Erwan Balanant |
+
+M. André Chassaigne |
+
+Mme Anne Genetet |
+
+Mme Sarah Legrain |
+
+M. Christophe Marion |
+
+Mme Graziella Melchior |
+
+M. Jean-Claude Raux |
+
+Mme Véronique Riotton |
+
+M. Bertrand Sorre |
+
+Mme Violette Spillebout |
+
+Affaires économiques |
+
+Mme Marie-Noëlle Battistel |
+
+Mme Cyrielle Chatelain |
+
+Mme Olga Givernet |
+
+M. Frédéric Maillot |
+
+M. Ludovic Mendes |
+
+M. Thomas Portes |
+
+Affaires sociales |
+
+M. Elie Califer |
+
+Mme Fanny Dombre Coste |
+
+Mme Marie-Charlotte Garin |
+
+Mme Karine Lebon |
+
+M. Benjamin Lucas-Lundy |
+
+M. Jean-Philippe Nilor |
+
+M. Stéphane Viry |
+
+Défense |
+
+Mme Delphine Batho |
+
+M. François Cormier-Bouligeon |
+
+M. Yannick Favennec-Bécot |
+
+M. Emmanuel Fernandes |
+
+M. Moerani Frébault |
+
+M. Guillaume Garot |
+
+Mme Julie Laernoes |
+
+Mme Murielle Lepvraud |
+
+Développement durable |
+
+M. Stéphane Delautrette |
+
+Mme Olivia Grégoire |
+
+Mme Chantal Jourdan |
+
+M. Andy Kerbrat |
+
+M. Jimmy Pahun |
+
+M. Fabrice Roussel |
+
+Mme Ersilia Soudais |
+
+Finances |
+
+M. David Amiel |
+
+Mme Perrine Goulet |
+
+Mme Marietta Karamanli |
+
+M. Nicolas Metzdorf |
+
+M. Charles Rodwell |
+
+M. Nicolas Sansu |
+
+M. Éric Woerth |
+
+Lois |
+
+M. Pouria Amirshahi |
+
+Mme Blandine Brocard |
+
+M. Vincent Caure |
+
+M. Bérenger Cernon |
+
+M. Paul Christophle |
+
+M. Jean-Luc Fugit |
+
+M. Roland Lescure |
+
+Mme Élisa Martin |
+
+Mme Manon Meunier |
+
+Mme Sophie Pantel |
+
+NOMINATIONS |
+
+Le groupe Ensemble pour la République a désigné : |
+
+Affaires culturelles |
+
+M. David Amiel |
+
+M. Moerani Frébault |
+
+M. Roland Lescure |
+
+M. Nicolas Metzdorf |
+
+M. Charles Rodwell |
+
+Affaires économiques |
+
+M. Jean-Luc Fugit |
+
+Mme Olivia Grégoire |
+
+Défense |
+
+M. Vincent Caure |
+
+M. Éric Woerth |
+
+Développement durable |
+
+Mme Olga Givernet |
+
+Finances |
+
+M. François Cormier-Bouligeon |
+
+Mme Anne Genetet |
+
+M. Christophe Marion |
+
+M. Bertrand Sorre |
+
+Mme Violette Spillebout |
+
+Lois |
+
+Mme Graziella Melchior |
+
+M. Ludovic Mendes |
+
+Mme Véronique Riotton |
+
+Le groupe La France insoumise - Nouveau Front Populaire a désigné : |
+
+Affaires culturelles |
+
+M. Thomas Portes |
+
+Affaires économiques |
+
+Mme Manon Meunier |
+
+Affaires sociales |
+
+Mme Murielle Lepvraud |
+
+Défense |
+
+M. Andy Kerbrat |
+
+M. Jean-Philippe Nilor |
+
+Développement durable |
+
+M. Bérenger Cernon |
+
+Mme Élisa Martin |
+
+Lois |
+
+M. Emmanuel Fernandes |
+
+Mme Sarah Legrain |
+
+Mme Ersilia Soudais |
+
+Le groupe Socialistes et apparentés a désigné : |
+
+Affaires économiques |
+
+M. Stéphane Delautrette |
+
+Affaires sociales |
+
+M. Guillaume Garot |
+
+Mme Chantal Jourdan |
+
+Défense |
+
+M. Elie Califer |
+
+Développement durable |
+
+Mme Marie-Noëlle Battistel |
+
+Mme Fanny Dombre Coste |
+
+Mme Sophie Pantel |
+
+Finances |
+
+M. Paul Christophle |
+
+Lois |
+
+Mme Marietta Karamanli |
+
+M. Fabrice Roussel |
+
+Le groupe Écologiste et Social a désigné : |
+
+Affaires culturelles |
+
+M. Pouria Amirshahi |
+
+Affaires économiques |
+
+Mme Julie Laernoes |
+
+Affaires sociales |
+
+Mme Delphine Batho |
+
+M. Jean-Claude Raux |
+
+Défense |
+
+Mme Cyrielle Chatelain |
+
+M. Benjamin Lucas-Lundy |
+
+Lois |
+
+Mme Marie-Charlotte Garin |
+
+Le groupe Les Démocrates a désigné : |
+
+Affaires culturelles |
+
+Mme Blandine Brocard |
+
+Développement durable |
+
+Mme Perrine Goulet |
+
+Finances |
+
+M. Jimmy Pahun |
+
+Lois |
+
+M. Erwan Balanant |
+
+Le groupe Libertés, Indépendants, Outre-mer et Territoires a désigné : |
+
+Affaires sociales |
+
+M. Yannick Favennec-Bécot |
+
+Défense |
+
+M. Stéphane Viry |
+
+Le groupe Gauche Démocrate et Républicaine a désigné : |
+
+Affaires culturelles |
+
+M. Frédéric Maillot |
+
+Affaires économiques |
+
+M. André Chassaigne |
+
+Affaires sociales |
+
+M. Nicolas Sansu |
+
+Finances |
+
+Mme Karine Lebon |
+
+MODIFICATION À LA COMPOSITION DE LA COMMISSION SPÉCIALE CHARGÉE D'EXAMINER LE PROJET DE LOI DE SIMPLIFICATION DE LA VIE ÉCONOMIQUE |
+
+DÉMISSION |
+
+Mme Sandra Marsaud |
+
+NOMINATION |
+
+Le groupe Ensemble pour la République a désigné : |
+
+M. Sylvain Maillard |
+
+MODIFICATION À LA COMPOSITION DE LA COMMISSION DES AFFAIRES EUROPÉENNES |
+
+DÉMISSION |
+
+M. David Amiel |
+
+NOMINATION |
+
+Le groupe Ensemble pour la République a désigné : |
+
+M. Daniel Labaronne |
+
+BUREAU |
+
+COMMISSION D'ENQUÊTE SUR LES EFFETS PSYCHOLOGIQUES DE TIKTOK SUR LES MINEURS |
+
+Dans sa séance du mardi 25 mars 2025, la commission d'enquête a nommé son bureau ainsi composé : |
+
+|
+
+|
+
+Président : |
+
+M. Arthur Delaporte |
+
+|
+
+|
+
+Vice-Présidents : |
+
+M. Pouria Amirshahi |
+
+|
+
+Mme Josiane Corneloup |
+
+|
+
+Mme Anne Genetet |
+
+|
+
+Mme Isabelle Rauch |
+
+|
+
+|
+
+Secrétaires : |
+
+Mme Constance Le Grip |
+
+|
+
+M. Kévin Mauvieux |
+
+|
+
+M. Arnaud Saint-Martin |
+
+|
+
+M. Thierry Sother |
+
+|
+
+|
+
+|
+
+|
+
+La commission d'enquête a désigné Mme Laure Miller rapporteure. |
+
+|
+
+2. Réunions
+
+Mercredi 26 mars 2025
+
+Commission des affaires culturelles,
+
+A 9 h 30 (Salle 6242 - Palais Bourbon, 2e sous-sol) :
+
+- audition de M. Bruno Patino, président du comité de pilotage des états généraux de l'information, et Mme Anne Perrot, membre du comité de pilotage, sur les états généraux de l'information ;
+
+A 15 heures (Salle 6242 - Palais Bourbon, 2e sous-sol) :
+
+- dans le cadre de l'enquête sur les modalités du contrôle par l'Etat et de la prévention des violences dans les établissements scolaires (article 5 ter de l'ordonnance n° 58 1100 du 17 novembre 1958), table ronde réunissant des représentants d'associations de défense des enfants victimes de violences : Mme Isabelle Debré, présidente de l'association L'Enfant Bleu enfance maltraitée, Mme Nathalie Cougny, fondatrice et directrice générale de l'association Les maltraitances moi j'en parle ! , et M. Arnaud Gallais, président de l'association Mouv'enfants.
+
+A 16 h 30 (Salle 6242 - Palais Bourbon, 2e sous-sol) :
+
+- dans le cadre de l'enquête sur les modalités du contrôle par l'Etat et de la prévention des violences dans les établissements scolaires (article 5 ter de l'ordonnance n° 58 1100 du 17 novembre 1958), table ronde réunissant des journalistes : M. Gabriel Blaise, de Sud-Ouest, Mme America Lopez, de France 3 Aquitaine, et MM. David Perrotin et Antton Rouget, de Mediapart.
+
+- A 18 heures (Salle 6242 - Palais Bourbon, 2ème sous-sol) :
+
+- dans le cadre de l'enquête sur les modalités du contrôle par l'Etat et de la prévention des violences dans les établissements scolaires (article 5 ter de l'ordonnance n° 58 1100 du 17 novembre 1958), audition de Mme Françoise Gullung, professeure ayant signalé des faits de violences à Notre-Dame de Bétharram.
+
+Commission des affaires économiques,
+
+A 9 h 30 (Salle 6241 - Palais Bourbon, 2e sous-sol) :
+
+- examen de la proposition de loi visant à assurer le développement raisonné et juste de l'agrivoltaisme (n° 962) (M. Pascal Lecamp, rapporteur) ;
+
+En application de l'article 86 alinéa 5 du Règlement de l'Assemblée nationale, la date limite de dépôt des amendements a été fixée au samedi 22 mars 2025, à 17 heures ;
+
+- éventuellement, suite de l'examen de la proposition de loi portant fin du maintien à vie dans le logement social (n° 905) (M. Stéphane Vojetta, rapporteur).
+
+A 15 h 30 (Salle 6241 - Palais Bourbon, 2e sous-sol) :
+
+- éventuellement, suite de l'examen de la proposition de loi visant à assurer le développement raisonné et juste de l'agrivoltaisme (n° 962) (M. Pascal Lecamp, rapporteur) ;
+
+- éventuellement, suite de l'examen de la proposition de loi portant fin du maintien à vie dans le logement social (n° 905) (M. Stéphane Vojetta, rapporteur).
+
+Commission des affaires étrangères,
+
+A 9 h 30 (Salle 4223 - Commission des affaires étrangères, 9, rue de Bourgogne, 2e étage) :
+
+- examen, ouvert à la presse, et vote sur les projets de loi suivants :
+
+- projet de loi autorisant l'approbation de l'accord-cadre entre le Gouvernement de la République française et les Nations unies portant sur les arrangements relatifs aux privilèges et immunités ainsi que d'autres questions afférentes aux réunions des Nations unies tenues sur le territoire français (n° 1154) (Mme Maud Petit, rapporteure) ;
+
+- projet de loi, adopté par le Sénat, autorisant la ratification de la résolution LP.3(4) portant amendement de l'article 6 du protocole de Londres de 1996 à la convention de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets et autres matières (n° 942) (M. Xavier Lacombe, rapporteur) ;
+
+- projet de loi autorisant l'approbation de la résolution n° 259 portant modification de l'article 1er de l'accord portant création de la Banque européenne pour la reconstruction et le développement afin de permettre l'élargissement limité et progressif du champ d'action géographique de la Banque à l'Afrique subsaharienne et à l'Irak (n° 1110) (M. Vincent Ledoux, rapporteur).
+
+- nomination de rapporteurs sur les projets de loi suivants :
+
+- projet de loi, adopté par le Sénat, autorisant l'approbation de l'accord portant création du Centre de développement des capacités cyber dans les Balkans occidentaux (C3BO) (n° 944) ;
+
+- projet de loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de la République du Panama et de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République du Panama (n° 1028).
+
+Commission des affaires européennes,
+
+A 16 h 30 (Salle 4325 - Commission des affaires européennes, 9, rue de Bourgogne, 3e étage) :
+
+- audition de M. Benjamin Haddad, ministre délégué chargé de l'Europe, sur les résultats du Conseil européen des 20 et 21 mars 2025 ;
+
+- nomination de rapporteurs d'information
+
+Commission des affaires sociales,
+
+A 9 heures (Salle 6351 - Palais Bourbon, 1er étage) :
+
+- examen de la proposition de loi visant à lutter contre les déserts médicaux, d'initiative transpartisane (n° 966) ;
+
+- examen de la proposition de loi visant à renforcer la démographie professionnelle des orthophonistes (n° 666) (Mme Agnès Firmin Le Bodo, rapporteure).
+
+A 17 heures (Salle 6351 - Palais Bourbon, 1er étage) :
+
+- table ronde sur les propositions de loi relative aux soins palliatifs et d'accompagnement (n° 1102) et relative à la fin de vie (n° 1100) :
+
+- mouvement « Être-là » : M. Jacques Clarion de Beauval, président, et M. Matthieu Lantier, délégué général ;
+
+- association « Jusqu'à la mort accompagner la vie » (Jalmalv) (sous réserve de confirmation) ;
+
+- france Assos Santé (Sous réserve de confirmation) ;
+
+- association pour la recherche sur la sclérose latérale amyotrophique (sous réserve de confirmation) ;
+
+- collectif Handicaps : Mme Marie-Christine Tézenas, présidente du Groupe Polyhandicap France.
+
+Commission de la défense,
+
+A 10 h 30 (Salle 4123 - 9, rue de Bourgogne, 1er étage) :
+
+- audition, ouverte à la presse, de Mme Eva Berneke, directrice générale d'Eutelsat sur l'Europe de la défense et les coopérations européennes.
+
+A 16 h 30 (Salle 4123 - 9, rue de Bourgogne, 1er étage) :
+
+- audition, ouverte à la presse, de Mme Clara Chappaz, ministre déléguée auprès du ministre de l'économie, des finances et de la souveraineté industrielle et numérique, chargée de l'intelligence artificielle et du numérique, sur l'actualisation de la revue nationale stratégique (RNS) de 2022 : les enjeux du cyber et de l'intelligence artificielle.
+
+Commission du développement durable,
+
+A 15 heures (Salle 6238 - Palais Bourbon, 2e sous-sol) :
+
+- audition conjointe de Mme Florence Lustman, présidente de France Assureurs, accompagnée de M. Christophe Delcamp, directeur des assurances dommages et responsabilité et Mme Viviane Mitrache, directrice des affaires publiques, ainsi que de M. Benoit Hugonin, président de l'Association des professionnels de la réassurance en France (Apref), accompagné de M. Dominique Lauré, vice-président, M. Arthur Dutel, président de la commission catastrophes et M. Alexis Valleron, délégué général.
+
+Commission des finances,
+
+A 9 h 30 (Salle 6350 - Palais Bourbon, 1er étage) :
+
+- audition, en application de l'article 13 de la Constitution, de Mme Florence Peybernes dont la nomination au poste de présidente de la Haute autorité de l'audit a été proposée par le Président de la République puis vote sur cette proposition de nomination (M. Matthias Renault, rapporteur).
+
+A 11 heures (Salle 6350 - Palais Bourbon, 1er étage) :
+
+- audition de M. François Villeroy de Galhau, gouverneur de la Banque de France, sur la conjoncture économique.
+
+A 16 h 30 (Salle 6350 - Palais Bourbon, 1er étage) :
+
+- présentation d'une contribution de M. Charles de Courson, rapporteur général, sur l'évaluation des recettes fiscales en 2023, 2024 et 2025 (article 5 ter de l'ordonnance n° 58-1100 du 17 novembre 1958).
+
+Commission des lois,
+
+A 9 heures (6e Bureau - Palais Bourbon, 1er étage) :
+
+- audition de M. Vincent Mazauric, dont la nomination en tant que président de la Commission nationale de contrôle des techniques de renseignement (CNCTR) est proposée par le Président de la République, et vote sur cette proposition de nomination dans les conditions prévues par l'article 29-1 du Règlement (Mme Sophie Ricourt Vaginay, rapporteure) ;
+
+- examen de la proposition de loi visant à modifier la définition pénale du viol et des agressions sexuelles (n° 842) (Mme Marie-Charlotte Garin, Mme Véronique Riotton, co-rapporteures) ;
+
+- examen de la proposition de loi visant à faire exécuter les peines d'emprisonnement ferme (n° 374) (M. Loïc Kervran, rapporteur) ;
+
+- examen de la proposition de loi pour réformer l'accueil des gens du voyage (n° 906) (M. Xavier Albertini, rapporteur) ;
+
+- examen de la proposition de loi visant à restaurer l'autorité de l'Etat (n° 959) (Mme Naïma Moutchou, rapporteure).
+
+A 14 h 30 (6e Bureau - Palais Bourbon, 1er étage) :
+
+- suite de l'ordre du jour du matin.
+
+A 21 heures (6e Bureau - Palais Bourbon, 1er étage) :
+
+- Suite de l'ordre du jour de l'après-midi.
+
+Commission d'enquête sur les défaillances des pouvoirs publics face à la multiplication des plans de licenciements,
+
+A 15 heures (Salle 6237 - Palais Bourbon, 2e sous-sol) :
+
+- élection d'un secrétaire ;
+
+- audition, ouverte à la presse, de M. Michel Houdebine, directeur de l'animation de la recherche, des études et des statistiques (Dares) au ministère chargé du travail, Mme Sophie Ozil, cheffe du département suivi et indemnisation des demandeurs d'emploi de la Dares, et Mme Laurie Pinel, adjointe au chef de la mission analyse économique de la Dares.
+
+A 16 h 15 (Salle 6237 - Palais Bourbon, 2e sous-sol) :
+
+- audition de Mmes Carine Camby, présidente de la 1re chambre de la Cour des comptes, et Anne-Laure de Coincy, présidente de section à la 5ème chambre de la Cour des comptes.
+
+A 17 h 30 (Salle 6237 - Palais Bourbon, 2e sous-sol) :
+
+- audition, ouverte à la presse, de M. Rémi Bourguignon, professeur des universités, co-auteur du rapport La négociation des plans de sauvegarde de l'emploi, quels arbitrages ? (septembre 2020).
+
+Commission d'enquête concernant l'organisation des élections en France,
+
+A 17 heures (Salle Lamartine - 101, rue de l'Université, 1er sous-sol) :
+
+- table ronde, ouverte à la presse, réunissant les dirigeants des instituts de sondage implantés en France, produisant des études d'opinion sur des sujets liés au débat électoral : Ifop, Verian, BVA Xsight, Ipsos, CSA, Harris Interactive, OpinionWay, Viavoice, Odoxa, Elabe et Cluster 17.
+
+Commission d'enquête visant à établir les freins à la réindustrialisation de la France,
+
+A 11 h 30 (Salle 6238 - Palais Bourbon, 2e sous-sol) :
+
+- audition, ouverte à la presse, de Mme Agnès Bénassy-Quéré, seconde sous-gouverneure à la Banque de France, professeure d'économie.
+
+Commission spéciale chargée d'examiner le projet de loi de simplification de la vie économique,
+
+A 15 heures (Salle 4223 - Commission des affaires étrangères, 9, rue de Bourgogne, 2e étage) :
+
+- suite de l'examen des articles du projet de loi de simplification de la vie économique (n° 481 rect.) (M. Christophe Naegelen et M. Stéphane Travert, rapporteurs).
+
+A 21 h 30 (Salle 6238 - Palais Bourbon, 2e sous-sol) :
+
+- suite de l'examen des articles du projet de loi de simplification de la vie économique (n° 481 rect.) (M. Christophe Naegelen et M. Stéphane Travert, rapporteurs).
+
+Délégation aux collectivités territoriales et à la décentralisation,
+
+A 15 heures (Salle 7040 - 103, rue de l'Université, 2e sous-sol) :
+
+- audition conjointe de MM. Philippe Laurent, président du Conseil supérieur de la fonction publique territoriale (CSFPT), Yohann Nédélec, président du Centre national de la fonction publique territoriale (CNFPT) et co-président de la commission « fonction publique territoriale » de l'Association des maires de France et présidents d'intercommunalité (AMF), Jean-Marc Frizot, vice-président de la Fédération nationale des centres de gestion (FNCDG) et Thomas FROMENTIN, vice-président d'Intercommunalités de France, de Mme Emmanuelle Rousset, co-présidente de la commission « fonction publique territoriale » de France Urbaine, et de M. Igor Sémo, vice-président de l'Association des petites villes de France (APVF), sur la situation financière et les perspectives de la Caisse nationale de retraites des agents des collectivités locales (CNRACL).
+
+Jeudi 27 mars 2025
+
+Commission des affaires culturelles,
+
+A 10 heures (Salle 6241 - Palais Bourbon, 2e sous-sol) :
+
+- dans le cadre de l'enquête sur les modalités du contrôle par l'Etat et de la prévention des violences dans les établissements scolaires (article 5 ter de l'ordonnance n° 58 1100 du 17 novembre 1958), table ronde de représentants de parents d'élèves, réunissant M. Grégoire Ensel, vice-président de la fédération des conseils de parents d'élèves (FCPE), Mme Marie-Françoise Wittrant, secrétaire générale adjointe de la Fédération des parents d'élèves de l'enseignement public (PEEP), et Mme Hélène Laubignat, présidente du bureau national de l'association des parents d'élèves de l'école libre (Apel).
+
+- désignation de rapporteurs sur :
+
+- la mission flash sur les impacts des réformes successives sur le baccalauréat professionnel ;
+
+- la mission flash sur l'évaluation de l'accompagnement des élèves à la découverte des métiers et à l'orientation ;
+
+- la mission d'évaluation de la loi n° 2022-296 du 2 mars 2022 visant à démocratiser le sport en France.
+
+Commission d'enquête visant à établir les freins à la réindustrialisation de la France,
+
+A 9 heures (Salle 6237 - Palais Bourbon, 2e sous-sol) :
+
+- table ronde, ouverte à la presse, sur l'attractivité économique de la France :
+
+- M. Olivier Marchal, président de Bain & Cie France ;
+
+- M. David Cousquer, directeur de Trendeo ;
+
+- M. Marc Lhermitte, associé au sein de EY Consulting.
+
+A 14 heures (Salle 6237 - Palais Bourbon, 2e sous-sol) :
+
+- audition conjointe, ouverte à la presse, réunissant :
+
+- M. Christophe Couesnon, président de Syensqo France et M. Geoffroy Sigrist, directeur des affaires gouvernementales et publiques ;
+
+- M. Christian Auboyneau, directeur général de DZA Entreprises étrangères en France et M. Gabriel Collardey, chef de cabinet du directeur général et responsable des affaires publiques.
+
+A 15 h 30 (Salle 6237 - Palais Bourbon, 2e sous-sol) :
+
+- table ronde, ouverte à la presse, sur l'intelligence économique, réunissant :
+
+- M. Bernard Carayon, maire de Lavaur, ancien député, auteur de rapports au Premier ministre sur l'intelligence économique ;
+
+- M. Alain Juillet, ancien directeur du renseignement au sein de la direction générale de la Sécurité extérieure (DGSE), ancien haut responsable chargé de l'intelligence économique ;
+
+- M. Christian Harbulot, directeur de l'école de Guerre économique ;
+
+- M. Frédéric Pierucci, ancien directeur des ventes et du marketing mondial chaudières d'Alstom, fondateur et président du cabinet Ikarian.
+
+A 17 h 30 (Salle 6237 - Palais Bourbon, 2e sous-sol) :
+
+- table ronde, ouverte à la presse, des acteurs publics en charge de la sécurité économique :
+
+- Mme Agnès Romatet-Espagne, directrice des affaires internationales, stratégiques et technologiques au sein du secrétariat général de la défense et de la sécurité nationale ;
+
+- Mme Sabine Lemoyne de Forges, sous-directrice de la politique commerciale et de l'investissement au sein de la direction générale du Trésor ;
+
+- M. Thomas Ernoult, chef du bureau du contrôle des investissements étrangers en France au sein de la direction générale du Trésor ;
+
+- M. Joffrey Celestin-Urbain, chef du service de l'information stratégique et de la sécurité économiques au sein de la direction générale des entreprises.
+
+Commission spéciale chargée d'examiner le projet de loi de simplification de la vie économique,
+
+A 9 heures (Salle 6238 - Palais Bourbon, 2e sous-sol) :
+
+- suite de l'examen des articles du projet de loi de simplification de la vie économique (n° 481 rect.) (M. Christophe Naegelen et M. Stéphane Travert, rapporteurs).
+
+A 15 heures (Salle 6238 - Palais Bourbon, 2e sous-sol) :
+
+- suite de l'examen des articles du projet de loi de simplification de la vie économique (n° 481 rect.) (M. Christophe Naegelen et M. Stéphane Travert, rapporteurs).
+
+A 21 h 30 (Salle 6238 - Palais Bourbon, 2e sous-sol) :
+
+- suite de l'examen des articles du projet de loi de simplification de la vie économique (n° 481 rect.) (M. Christophe Naegelen et M. Stéphane Travert, rapporteurs).
+
+Vendredi 28 mars 2025
+
+Commission spéciale chargée d'examiner le projet de loi de simplification de la vie économique,
+
+A 9 heures (Salle 6238 - Palais Bourbon, 2e sous-sol) :
+
+- éventuellement, suite de l'examen des articles du projet de loi de simplification de la vie économique (n° 481 rect.) (M. Christophe Naegelen et M. Stéphane Travert, rapporteurs).
+
+A 15 heures (Salle 6238 - Palais Bourbon, 2e sous-sol) :
+
+- éventuellement, suite de l'examen des articles du projet de loi de simplification de la vie économique (n° 481 rect.) (M. Christophe Naegelen et M. Stéphane Travert, rapporteurs).
+
+Mardi 1er avril 2025
+
+Commission d'enquête sur les manquements des politiques publiques de protection de l'enfance,
+
+A 13 h 30 (Salle 6549 - Palais Bourbon, 2e étage) :
+
+- examen du rapport suivi d'un vote, à huis clos.
+
+Mercredi 2 avril 2025
+
+Commission d'enquête relative aux violences commises dans les secteurs du cinéma, de l'audiovisuel, du spectacle vivant, de la mode et de la publicité,
+
+A 15 heures (Salle 6566 - Palais Bourbon, 2e étage) :
+
+- examen du rapport, à huis clos ;
+
+- vote sur une saisine de l'Autorité de la concurrence.
+
+Délégation aux droits des enfants,
+
+A 17 heures (Salle 7040 - 103, rue de l'Université, 2e sous-sol) :
+
+- audition, ouverte à la presse, de Mme Clara Chappaz, ministre déléguée auprès du ministre de l'économie, des finances et de la souveraineté industrielle et numérique, chargée de l'intelligence artificielle et du numérique.
+
+3. Membres présents ou excusés
+
+Commission des affaires culturelles et de l'éducation
+
+Réunion du mardi 25 mars 2025 à 16 h 30
+
+Présents. - M. Raphaël Arnault, Mme Géraldine Bannier, M. Bruno Bilde, M. Arnaud Bonnet, M. Roger Chudeau, Mme Julie Delpech, Mme Ayda Hadizadeh, Mme Florence Herouin-Léautey, Mme Céline Hervieu, Mme Fatiha Keloua Hachi, M. Eric Liégeon, Mme Graziella Melchior, Mme Marie Mesmeur, M. Christophe Proença, M. Jean-Claude Raux, Mme Violette Spillebout, M. Paul Vannier
+
+Excusés. - Mme Farida Amrani, M. Gabriel Attal, M. José Beaurain, M. Xavier Breton, Mme Céline Calvez, Mme Nathalie Da Conceicao Carvalho, Mme Anne Genetet, M. Frantz Gumbs, M. Steevy Gustave, Mme Tiffany Joncour, Mme Véronique Riotton, Mme Claudia Rouaux, Mme Nicole Sanquer
+
+Commission de la défense nationale et des forces armées
+
+Réunion du mardi 25 mars 2025 à 16 h 35
+
+Présents. - M. Édouard Bénard, M. Philippe Bonnecarrère, M. Alexandre Dufosset, M. Frank Giletti, Mme Catherine Hervieu, M. Laurent Jacobelli, M. Jean-Michel Jacques, M. Abdelkader Lahmar, M. Julien Limongi, Mme Anna Pic, Mme Marie Récalde, Mme Catherine Rimbert, M. Arnaud Saint-Martin, M. Sébastien Saint-Pasteur, M. Jean-Louis Thiériot, M. Romain Tonussi, Mme Corinne Vignon
+
+Excusés. - M. Christophe Bex, Mme Anne-Laure Blin, M. Frédéric Boccaletti, M. Manuel Bompard, M. Bernard Chaix, M. Paul Christophe, M. Moerani Frébault, M. Damien Girard, Mme Lise Magnier, Mme Natalia Pouzyreff, Mme Mereana Reid Arbelot, M. Mikaele Seo, M. Thierry Tesson, M. Boris Vallaud
+
+Assistaient également à la réunion. - M. Pieyre-Alexandre Anglade, Mme Sylvie Josserand, M. Laurent Mazaury, M. Frédéric Petit, Mme Liliana Tanguy
+
+Commission du développement durable et de l'aménagement du territoire
+
+Réunion du mardi 25 mars 2025 à 16 h 30
+
+Présents. - M. Jean-Yves Bony, M. Jean-Michel Brard, M. Vincent Descoeur, Mme Sylvie Ferrer, Mme Clémence Guetté, Mme Chantal Jourdan, Mme Sandrine Le Feur, M. Jimmy Pahun, Mme Christelle Petex, M. Loïc Prud'homme, M. David Taupiac, M. Vincent Thiébaut, M. Nicolas Thierry, Mme Anne-Cécile Violland
+
+Excusés. - Mme Yaël Braun-Pivet, M. Jean-Victor Castor, M. Jean-Marie Fiévet, M. Alexis Jolly, M. Stéphane Lenormand, M. Éric Michoux, M. Marcellin Nadeau, M. Hubert Ott, M. Freddy Sertin, M. Olivier Serva
+
+Commission d'enquête relative aux violences commises dans les secteurs du cinéma, de l'audiovisuel, du spectacle vivant, de la mode et de la publicité
+
+Réunion du lundi 24 mars 2025 à 16 heures
+
+Présents. - M. Erwan Balanant, Mme Sandrine Rousseau
+
+Commission d'enquête sur les effets psychologiques de TikTok sur les mineurs
+
+Réunion du mardi 25 mars 2025 à 14 heures
+
+Présents. - Mme Nadège Abomangoli, M. Pouria Amirshahi, Mme Nathalie Colin-Oesterlé, Mme Josiane Corneloup, Mme Christelle D'Intorni, M. Arthur Delaporte, M. Emmanuel Fouquart, Mme Anne Genetet, M. Jonathan Gery, M. Guillaume Gouffier Valente, Mme Ayda Hadizadeh, Mme Constance Le Grip, M. René Lioret, Mme Claire Marais-Beuil, M. Kévin Mauvieux, Mme Laure Miller, Mme Caroline Parmentier, M. Thierry Perez, M. Arnaud Saint-Martin, M. Thierry Sother, Mme Anne Stambach-Terrenoir, Mme Sophie Taillé-Polian, M. Stéphane Vojetta
+
+Excusé. - Mme Constance de Pélichy
+
+Commission des affaires européennes
+
+Réunion du mardi 25 mars 2025 à 16 h 35
+
+Présents. - M. Pieyre-Alexandre Anglade, Mme Sylvie Josserand, M. Laurent Mazaury, M. Frédéric Petit, Mme Anna Pic, Mme Liliana Tanguy
+
+Excusés. - Mme Nathalie Oziol, M. Charles Sitzenstuhl, Mme Estelle Youssouffa
+
+Commission spéciale chargée d'examiner le projet de loi de simplification de la vie économique
+
+Réunion du lundi 24 mars 2025 à 15 heures
+
+Présents. - M. Henri Alfandari, M. Charles Alloncle, Mme Béatrice Bellamy, Mme Anne-Laure Blin, M. Philippe Bolo, M. Ian Boucard, Mme Danielle Brulebois, Mme Josiane Corneloup, M. Hendrik Davi, M. Charles Fournier, M. Antoine Golliot, Mme Olivia Grégoire, M. Thomas Lam, Mme Annaïg Le Meur, M. Robert Le Bourgeois, Mme Marie Lebec, Mme Claire Lejeune, M. Guillaume Lepers, M. Hervé de Lépinau, M. Gérard Leseul, M. Sylvain Maillard, Mme Sandra Marsaud, M. Éric Martineau, M. Emmanuel Maurel, Mme Manon Meunier, M. Pierre Meurin, M. Éric Michoux, Mme Louise Morel, M. Christophe Naegelen, M. Karl Olive, Mme Julie Ozenne, M. Matthias Renault, Mme Anne-Sophie Ronceret, M. Xavier Roseren, Mme Sophie-Laurence Roy, M. Emeric Salmon, M. Jean-Pierre Taite, M. Thierry Tesson, M. Stéphane Travert
+
+Excusé. - M. Davy Rimane
+
+Réunion du lundi 24 mars 2025 à 21 h 30
+
+Présents. - M. Henri Alfandari, M. Charles Alloncle, Mme Béatrice Bellamy, Mme Anne-Laure Blin, M. Philippe Bolo, M. Éric Bothorel, M. Ian Boucard, Mme Danielle Brulebois, Mme Josiane Corneloup, M. Hendrik Davi, M. Charles Fournier, M. Antoine Golliot, M. Thomas Lam, Mme Annaïg Le Meur, M. Robert Le Bourgeois, Mme Marie Lebec, Mme Claire Lejeune, M. Guillaume Lepers, M. Hervé de Lépinau, M. Gérard Leseul, M. Éric Martineau, M. Emmanuel Maurel, Mme Manon Meunier, M. Pierre Meurin, M. Éric Michoux, Mme Louise Morel, M. Christophe Naegelen, Mme Sandrine Nosbé, M. Matthias Renault, Mme Anne-Sophie Ronceret, M. Xavier Roseren, Mme Anne Stambach-Terrenoir, M. Thierry Tesson
+
+Assistait également à la réunion. - M. Christophe Bentz
+
+4. Saisine pour avis d'une commission
+
+La commission des affaires étrangères a décidé de se saisir pour avis de la proposition de loi relative à la réforme de l'audiovisuel public et à la souveraineté audiovisuelle (n° 118).
+
+La commission des finances, de l'économie générale et du contrôle budgétaire a décidé de se saisir pour avis de l'article 5 de la proposition de loi relative à la réforme de l'audiovisuel public et à la souveraineté audiovisuelle (n° 118).
