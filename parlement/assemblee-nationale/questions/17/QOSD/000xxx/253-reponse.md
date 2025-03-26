@@ -1,0 +1,29 @@
+# Réponse à la question n° 253
+
+- Question : [253](253.md) — Question n° 253 — Fermeture du site de l'INSPE à Saint-Denis
+
+## Réponse
+
+*JO du 2025-03-26, page 2812*
+
+SITE DE SAINT-DENIS DE L'INSTITUT NATIONAL SUPÉRIEUR DU PROFESSORAT ET DE L'ÉDUCATION DE L'ACADÉMIE DE CRÉTEIL
+
+M. le président . La parole est à M. Stéphane Peu, pour exposer sa question, no 253, relative au site de Saint-Denis de l'institut national supérieur du professorat et de l'éducation de l'académie de Créteil.
+
+M. Stéphane Peu . L'annonce de la prochaine fermeture de l'Inspe – l'institut national supérieur du professorat et de l'éducation – de Saint-Denis, dans ma circonscription, suscite de l'incompréhension et une inquiétude que je partage. Chargé de former les futurs enseignants du second degré technologique et professionnel, l'Inspe dionysien est un site historique et emblématique. Créé en 1945, et issu d'une des écoles normales nationales d'apprentissage, il est adossé à un lycée d'application et propose en Île-de-France des formations uniques dont il tire sa spécificité, sa bonne réputation et son attrait. Le site, vieillissant, est aujourd'hui menacé et doit être réhabilité. Or l'université Paris-Est Créteil (Upec) dont il dépend est en déficit budgétaire : elle dit ne pas pouvoir supporter un tel effort financier. Aucune expertise permettant d'évaluer les coûts n'a pourtant été réalisée.
+
+Alors que présidence de l’université envisage de répartir sur d’autres sites – déjà surchargés – les étudiants et les enseignants, ces derniers déplorent le manque de considération pour leur métier et pour la voie professionnelle, ainsi que le fait qu'aucune solution alternative visant à préserver ce site accessible et accueillant ne soit recherchée. Au cœur d’un département où l’enseignement professionnel est plébiscité – près de 30 % des élèves entrant en seconde empruntent la voie professionnelle –, former les enseignants dans de bonnes conditions est une impérieuse nécessité. La fermeture de ce site dionysien emblématique enverrait un très mauvais signal à ceux qui s’engagent dans la voie professionnelle – que nous savons être la clé de l’insertion de très nombreux jeunes des quartiers populaires.
+
+La fermeture du site, prévue initialement en 2025, a été reportée à juillet 2026, laissant vraisemblablement le temps à l’État de reprendre la main. Si nul ne peut ignorer les difficultés financières des universités publiques, les arbitrages doivent néanmoins être passés au crible : sacrifier quatre-vingts ans d’histoire et de réussites, tout comme l’avenir d’une partie de notre jeunesse, ce n’est tout simplement pas possible. L’État compte-t-il se saisir de ce dossier ? Les syndicats réclament une concertation et, d'ici là, de surseoir à ce projet de fermeture : que leur répondez-vous ?
+
+M. le président . La parole est à Mme la ministre déléguée auprès du premier ministre, porte-parole du gouvernement.
+
+Mme Sophie Primas, ministre déléguée auprès du premier ministre, porte-parole du gouvernement . Je vous prie d'excuser le ministre chargé de l'enseignement supérieur et de la recherche. Je vous apporte de sa part une réponse assez technique car, sur le fond, vos arguments sont les bons.
+
+L'Inspe de l'académie de Créteil et le lycée d'application occupent conjointement deux bâtiments dans votre circonscription, pour une superficie totale de 18 000 mètres carrés. Sur le même site, d'autres bâtiments accueillent des locaux de l'université Sorbonne Paris-Nord et du centre régional des œuvres universitaires et scolaires de l'académie de Créteil. Le lycée accueille 500 élèves et l'Inspe 400 étudiants, sur un territoire qui connaît en effet une forte tension. Les espaces dédiés à ces deux entités sont totalement enchevêtrés ; ils ne sont pas séparés physiquement, ce qui engendre des difficultés importantes de gestion, notamment en matière de sécurité incendie – sujet non négligeable. L'Upec souhaite quitter Saint-Denis et regrouper les implantations de l'Inspe qui lui est rattaché – actuellement dispersées sur trois sites, à Bonneuil-sur-Marne, Saint-Denis et Livry-Gargan. Cette démarche s'inscrit dans la politique immobilière de l'État. Elle présente surtout un intérêt pour les enseignants et les étudiants.
+
+Ce contexte permet de comprendre que la réflexion de l'Upec s'oriente dans un premier temps vers un transfert des étudiants du site de Saint-Denis vers les deux autres, idéalement pour la rentrée 2026 – ce qui laisse du temps pour une concertation. Quoi qu'il en soit, le ministère de l'enseignement supérieur veille à ce que l'université prenne les mesures nécessaires pour continuer à assurer la sécurité incendie du site dionysien. Le ministère est pleinement conscient de la nécessité de partager une même vision de l'avenir du site avec l'ensemble des parties concernées, qu'il s'agisse de l'Upec, des universités Sorbonne Paris-Nord et Paris 8 Vincennes-Saint-Denis, du Crous ou des élus du territoire – dont vous-même. Ce site est et restera un lieu important d'enseignement supérieur. Les évolutions doivent s'opérer dans l'intérêt de tous ; vous serez donc associé aux réflexions.
+
+M. le président . La parole est à M. Stéphane Peu.
+
+M. Stéphane Peu . Je vous remercie. Je retiens que la concertation, qui n'a pas encore eu lieu, se tiendra bien avec les représentants du personnel et les élus. J'espère que le projet n'ira pas à son terme car, depuis quatre-vingts ans, l'originalité et la richesse du site tiennent précisément au couplage entre le lycée professionnel et la formation des maîtres. Dans un département comme la Seine-Saint-Denis, il est impensable d'affaiblir l'enseignement professionnel, tant il est à la fois important pour la jeunesse dionysienne et important tout court. Il faut soutenir cette voie et la développer, en formant mieux les enseignants.
