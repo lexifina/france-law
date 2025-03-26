@@ -1,22 +1,22 @@
 # Article Annexe 5
 
-CAHIER DES CHARGES APPLICABLE POUR DISPENSER LES FORMATIONS RELATIVES AUX TRAVAUX MENTIONNÉS AU 8 DU I DE L'ARTICLE IER DU DÉCRET DU 16 JUILLET 2014 SUSVISÉ
+CAHIER DES CHARGES APPLICABLE POUR DISPENSER LES FORMATIONS RELATIVES À LA CATÉGORIE DE TRAVAUX MENTIONNÉE AU 16° DU I DE L'ARTICLE 1ER DU DÉCRET DU 16 JUILLET 2014 SUSVISÉ
 
-Une session de formation est organisée pour douze stagiaires maximum.
+Une session de formation est organisée pour quatorze stagiaires maximum.
 
 1. Objectifs de la formation
 
 Les objectifs de la formation sont les suivants :
 
-- conseiller son client sur les plans techniques, financiers et divers ;
+-conseiller son client sur les plans techniques, réglementaires et financiers ;
 
-- concevoir et dimensionner une installation au plus juste des besoins et en fonction de l'existant ;
+-concevoir et dimensionner une installation au plus juste des besoins et en fonction de l'existant ;
 
-- organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur ;
+-organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur ;
 
-- planifier la maintenance de l'exploitation ;
+-planifier la maintenance de l'exploitation ;
 
-- planifier la fin de vie d'une installation de forage.
+-planifier la fin de vie d'une installation de forage.
 
 2. Architecture de la formation
 
@@ -28,165 +28,123 @@ de la formation |
 
 OBJECTIFS PÉDAGOGIQUES |
 
-CONTENU/POINTS CLÉS |
+CONTENU/ POINTS CLÉS |
 
 DURÉE
 
 minimale |
 
-Objectif 1 : conseiller le client sur les plans techniques, financiers et divers. |
+Objectif 1 : conseiller le client sur les plans techniques, réglementaires et financiers |
 
-1.1. Etre capable de situer à un client le contexte environnemental de la PAC, l'aspect réglementaire, le marché et les labels de qualité. |
+1.1. Connaître le contexte environnemental de la géothermie |
 
-- contexte environnemental global énergétique et GES :
+-le potentiel de l'énergie géothermique en France, les secteurs de valorisation ;
 
-a) Potentiel de l'énergie géothermique ;
+-le positionnement de la géothermie en termes d'efficacité énergétique, de bilan carbone, etc. ;
 
-b) Contexte réglementaire ;
+-les acteurs de la filière |
 
-c) Marché de la géothermie (contexte) ;
+7 h 00 |
 
-d) Positionnement environnemental de la géothermie (énergie grise, bilan carbone, etc.) ;
+1.2. Connaître la réglementation associée aux forages et savoir où trouver l'information |
 
-e) Labels/signes de qualité. |
+-le contexte réglementaire de la géothermie de minime importance (GMI) |
 
-5 h 30 |
+1.3. Connaître les schémas administratifs et financiers pour la mise en œuvre d'une opération de forage géothermique |
 
-1.2. Maîtriser les points clés de la technologie de la géothermie, son fonctionnement et les zones à risque. |
+-les formalités préalables à la réalisation d'un forage (assurances, DT et DCIT) ;-la télé-déclaration d'une opération de GMI ;-le rapport de fin de forage ;
 
-- principe d'une pompe à chaleur géothermique ;
+-la garantie AQUAPAC, les incitations financières en géothermie de surface ;
 
-- différentes techniques de forage en adéquation avec la géologie rencontrée : marteau fond de trou, rotary, havage, battage, etc. ;
-
-- principes et technologies d'échangeurs géothermiques en circuit fermé ;
-
-- principes et technologies d'échangeurs géothermiques en circuit ouvert (notamment les caractéristiques des forages de prise et de rejet, principe du doublet) ;
-
-- différentes zones à risque. |
-
-1.3. Connaître les différents schémas administratifs et financiers pour la mise en œuvre d'une opération géothermique. |
-
-- incitations financières ;
-
-- différentes formalités administratives préalables à la réalisation d'un forage (procédure prévue par le code minier) ;
-
-- télédéclaration (niveau national) ;
-
-- différentes assurances (AQUAPAC, décennale et responsabilité civile) et sensibiliser sur les points de vigilance et TRC. |
-
-1.4. Savoir faire un devis. |
-
-- concevoir un devis précis pour délimiter les prestations vis-à-vis du maître d'ouvrage, maître d'œuvre et installateur ;
-
-- spécificités entre le forage sonde et le forage eau. |
-
-1.5. Jeu de rôle. |
-
-- rappel des points clés de l'objectif 1. |
+-les éléments techniques et financiers d'un devis (forage sur nappe et forage sur sonde) |
 
 Objectif 2 : concevoir et dimensionner une installation au plus juste des besoins et en fonction de l'existant. |
 
-2.1. Savoir trouver les informations sur les caractéristiques du sous-sol. |
+2.1. Savoir analyser le projet et le contexte géologique/ hydrogéologique, savoir trouver et exploiter les informations sur les caractéristiques du sous-sol |
 
-- différents types de formations hydrogéologiques et géologiques ;
+-les données du projet (client, bureau d'études, installateur) avant dimensionnement ;-les différents types de formations géologiques et hydrogéologiques ;-les principales banques de données en ligne |
 
-- sensibilisation aux cartes géologiques ;
+7 h 00 |
 
-- utilisation de l'outil Info Terre/Atlas géothermiques. |
+2.2. Choisir la méthode de forage et la technologie d'échangeur géothermiques en fonction du contexte |
 
-3 h 45 |
+-les différentes techniques de forage en adéquation avec la géologie rencontrée ;-les principes et technologies d'échangeurs géothermiques |
 
-2.2. Identifier les données à recevoir du donneur d'ordre (client, BE ou installateur) avant tout dimensionnement. |
+2.3. Savoir dimensionner l'échangeur souterrain en boucle ouverte |
 
-- interface avec le maître d'ouvrage/le maître d'œuvre/l'installateur et limites de prestation ;
+-le dimensionnement de l'échangeur souterrain et des systèmes de pompage en fonction des besoins du bâti et de la nature du sous-sol, les points clés des normes en vigueur ;
 
-- périmètre de responsabilité. |
+-les limites de dimensionnement de l'échangeur souterrain ;
 
-2.3. Savoir dimensionner l'échangeur souterrain. |
+-les pompages d'essai (programme, suivi, interprétations)
 
-- dimensionnement de l'échangeur souterrain et des systèmes de pompage en fonction des besoins du bâti et de la nature du sous-sol ;
+|
 
-- appréhender les limites de dimensionnement de l'échangeur souterrain. |
+2.4. Savoir dimensionner l'échangeur souterrain en boucle fermée |
+
+-le dimensionnement des sondes géothermiques, les points clés des normes en vigueur |
 
 Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur. |
 
-3.1. Connaître la réglementation et normes associées aux forages. Savoir où trouver l'information. |
+3.1. Savoir mettre en œuvre les différents types d'équipements de forage (sondes, crépines, tubages, massif filtrant …) selon les règles de l'art |
 
-- points clés des normes associées aux forages d'eau et à la mise en œuvre de sondes géothermiques (notamment : NFX 10 970 et NFX 10 999 ; PR NFX 10 950 ; NFX 10 960) points clés des dispositions du code minier et du code de l'environnement applicables au régime de minime importance. |
+-les équipements de forage sur sondes, les techniques de déroulage sonde ;
 
-2 h 30 |
+-les équipements de forage sur eau (crépines, tubages, massif filtrant, pompes …) ;
 
-3.2. Connaître les différents types d'équipements de forages (sondes, crépines, tubages, massif filtrant…) et savoir les mettre en œuvre. |
+-le suivi et le cahier de chantier |
 
-- cas des équipements de forages sondes / techniques de déroulage sonde ;
+7 h 00 |
 
-- cas des équipements de forages sur eau (crépines, tubages, massif filtrant, pompes…). |
+3.2. Maîtriser la cimentation |
 
-3.3. Maîtriser la cimentation. |
+-le rôle de la cimentation ;
 
-- caractéristiques des ciments ;
+-les caractéristiques des ciments ;-le choix du ciment ;-les méthodes et matériels d'injection ;-le contrôle |
 
-- choix du ciment ;
+3.3. Savoir organiser les différents éléments de surface selon les types de forage |
 
-- méthodes et matériels d'injection ;
+-les systèmes de pompage ;
 
-- contrôle. |
+-les liaisons hydrauliques et électriques ;
 
-3.4. Connaître les différents éléments de surface selon les types de forage. |
+-le regard de tête de puits ;-la filtration, etc.
 
-- systèmes de pompage ;
+|
 
-- liaisons hydrauliques et électriques ;
+3.4. Connaître les risques liés au chantier |
 
-- regard de tête, de puits ;
+-les équipements de protection individuelle ;-les règles de sécurité, de sécurisation des accès et de conduite de chantier ;-les risques environnementaux (mise en relation d'aquifères, artésianisme, etc.) ;-les modalités de traitement des boues de forage et des rejets de chantier, déblais de forage, etc. |
 
-- filtration, etc. |
+3.5. Savoir contrôler et réceptionner une installation en différenciant les deux types d'échangeurs (ouvert/ fermé) |
 
-3.5. Connaître les risques liés au chantier. |
-
-- différents équipements de protection individuelle ;
-
-- règles de sécurité, de sécurisation des accès et conduite de chantier ;
-
-- risques environnementaux, mise en relation d'aquifères, artésianisme, etc. ;
-
-- traitement des boues de forage et des rejets de chantier, déblais, etc. |
-
-3.6. Savoir contrôler et réceptionner une installation en différenciant les deux types de d'échangeurs (ouvert/fermé). |
-
-- réception des travaux avec pompage d'essais et essais conformes aux normes en fonction du type de forage ;
-
-- différentes procédures de contrôle selon la norme NFX 10 999 et NFX 10 970 ;
-
-- réaliser un dossier des ouvrages exécutés même sommaire ;
-
-- remplir un PV de réception. |
+-la réception des travaux conforme aux normes en vigueur, en fonction du type d'échangeur géothermique ;-les procédures de contrôle selon les normes en vigueur ;-le dossier des ouvrages exécutés |
 
 Objectif 4 : planifier la maintenance de l'exploitation. |
 
-4.1. Connaître les différents points clés d'un suivi d'une installation en différenciant les deux types d'échangeurs (ouvert/fermé). |
+4.1. Connaître les points clés du suivi d'une installation en différenciant les deux types d'échangeurs (ouvert/ fermé) |
 
-- apports d'informations sur les différents points à vérifier lors d'un suivi d'installation. |
+-les points à vérifier lors d'un suivi d'installation |
 
-1 h 30 |
+2 h 00 |
 
-4.2. Savoir diagnostiquer un problème de fonctionnement sur l'ouvrage souterrain. |
+4.2. Savoir diagnostiquer un problème de fonctionnement sur l'ouvrage souterrain |
 
-- résoudre les études de cas présentant les deux, trois problèmes les plus récurrents rencontrés par les foreurs. |
+-les problèmes les plus récurrents rencontrés par les foreurs |
 
-Objectif 5 : planifier la fin de vie d'une installation de forage. |
+Objectif 5 : planifier la fin de vie d'une installation de forage |
 
-Savoir aborder les forages en fin de vie. |
+5.1. Connaître les procédures d'abandon d'un forage selon la réglementation et les normes en vigueur |
 
-- différents cas de figure (particulier, administration, etc) ;
+-les points clés et les règles de sécurisation des ouvrages abandonnés ;-le rapport de fin de travaux |
 
-- les différents points clés et les règles afin de neutraliser les ouvrages abandonnés. |
-
-0 h 15 |
+1 h 00 |
 
 3. Plate-forme technique
 
 Aucune plate-forme technique n'est requise.
+
+Mise à disposition d'une salle équipée d'ordinateurs pour la réalisation des exercices pratiques et des évaluations de cas pratiques.
 
 NOTA :
 
