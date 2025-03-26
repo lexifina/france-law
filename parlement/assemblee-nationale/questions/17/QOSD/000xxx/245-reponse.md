@@ -1,0 +1,45 @@
+# Réponse à la question n° 245
+
+- Question : [245](245.md) — Question n° 245 — Filière REP pour les textiles sanitaires à usage unique (TSUU)
+
+## Réponse
+
+*JO du 2025-03-26, page 2818*
+
+RESPONSABILITÉ ÉLARGIE DU PRODUCTEUR
+
+M. le président . La parole est à Mme Eva Sas pour exposer la question, no 245, de Mme Delphine Batho, relative à la filière à responsabilité élargie du producteur pour le textile.
+
+Mme Eva Sas . Je pose la question de ma collègue Delphine Batho, qui n’est malheureusement pas là en raison d’une contrainte indépendante de sa volonté.
+
+Plusieurs amendements parlementaires adoptés lors des débats sur la loi Agec du 10 février 2020 prévoyaient la création d'une filière à responsabilité élargie du producteur (REP) pour l’ensemble des textiles sanitaires à usage unique : lingettes, couches, protections féminines ou masques.
+
+Le 20 décembre 2024, vous avez publié un arrêté limitant la filière aux seules lingettes préimbibées, soit 1 % des 2 millions de tonnes de déchets potentiellement concernées, alors que ces déchets représentent un coût annuel de 700 millions d’euros pour les collectivités et les contribuables.
+
+À titre d’exemple, 3,5 milliards de couches sont jetées chaque année en France. Pourtant, des alternatives existent – couches lavables ou compostables par exemple. Des communes telles que Lyon, Poitiers ou Bordeaux ont déployé de telles solutions, et des acteurs industriels ont développé des produits made in France.
+
+Or l’absence de filière REP rend impossible la structuration d’une véritable filière industrielle. Elle empêche également les collectivités de soutenir et de déployer ces solutions innovantes, qui subissent la concurrence déloyale des produits jetables.
+
+La loi prévoyait pourtant la mise en place de la filière au 1er janvier 2024. Pour quelle raison ne l'appliquerait-on pas ?
+
+Mme Batho, et les collectivités engagées sur ce sujet, souhaiteraient connaître le calendrier de publication de l'arrêté complémentaire applicable à tous les autres textiles à usage unique, afin que les dispositions adoptées par la représentation nationale deviennent effectives.
+
+M. le président . La parole est à Mme la ministre de l’agriculture et de la souveraineté alimentaire.
+
+Mme Annie Genevard, ministre de l’agriculture et de la souveraineté alimentaire . Mme la ministre de la transition écologique vous prie de bien vouloir excuser son absence. Vous l'interrogez sur la mise en œuvre de la filière REP des textiles sanitaires à usage unique et soulignez le fait que le cahier des charges de cette filière ne concerne que les lingettes, et non l'ensemble des textiles sanitaires.
+
+En préambule, rappelons que les déchets plastiques présents dans les océans menacent les écosystèmes, la biodiversité, la santé humaine, ainsi que le tourisme, la pêche et le transport maritime.
+
+C'est pourquoi la directive européenne relative à la réduction de l’incidence de certains produits en plastique sur l’environnement réglemente l'usage des produits en plastique à usage unique les plus fréquemment retrouvés dans l'environnement. Elle impose la mise en place d'une filière REP, mais uniquement sur les lingettes. Le cahier des charges que nous avons publié répond à cette obligation.
+
+La loi Agec a surtransposé la directive en prévoyant une extension du champ de la filière à certains produits de première nécessité, tels que les couches ou les protections périodiques féminines et, de manière plus générale, à de nombreux produits absorbants.
+
+À ce stade, il est préférable de limiter toute surtransposition, afin de mieux apprécier l'impact environnemental et économique d'une telle extension, notamment sur le prix des couches et des protections périodiques féminines, produits de première nécessité utilisés quotidiennement par des millions de femmes et de parents.
+
+En tant qu'ancienne élue locale, connaissant l'impact des lingettes sur le bon fonctionnement des réseaux d'assainissement et des stations d'épuration, permettez-moi d'ajouter qu'une filière opérationnelle pour ces produits sera déjà un énorme progrès, apprécié des collectivités locales.
+
+M. le président . La parole est à Mme Eva Sas.
+
+Mme Eva Sas . Je ne comprends pas votre réponse : il s'agit de dispositions législatives et rien ne justifie que le pouvoir réglementaire s'en affranchisse. La loi prévoyait que les lingettes n'étaient pas seules concernées, puisque la filière devait englober les couches, les protections féminines et les masques.
+
+Votre gouvernement assume-t-il donc le fait de ne pas respecter la loi ?
