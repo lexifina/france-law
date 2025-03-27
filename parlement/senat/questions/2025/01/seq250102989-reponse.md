@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250102989
+
+- Question : [SEQ250102989](seq250102989.md) — Prise en charge des frais de transport des résidents d'établissements d'hébergement pour personnes âgées dépendantes
+
+## Réponse
+
+*Autonomie et handicap, JO du 2025-03-27, page 1423*
+
+L'accès aux soins des résidents en Établissement d'hébergement pour personnes âgées dépendantes (EHPAD) constitue un sujet de préoccupation pour le gouvernement. Lorsque le patient doit recevoir des soins et ne peut se déplacer sans assistance particulière, seul ou accompagné par une personne de son entourage, le médecin prescrit un moyen de transport individuel (véhicule d'un proche) ou un transport en commun (bus, métro, train, etc.). Dans le cas contraire, le médecin prescrit un moyen de transport sanitaire. Dans les deux cas, les frais de transport individuel des personnes résidant en EHPAD sont pris en charge dans le cadre du droit commun et dans les conditions suivantes : une hospitalisation (entrée et / ou sortie de l'hôpital), quelle que soit la durée (complète, partielle ou ambulatoire), une Affection de longue durée (ALD) ou un état justifiant un transport allongé ou une surveillance constante (ambulance). Près de 80% des résidents en EHPAD sont atteints d'une ALD et se voient rembourser de plein droit leurs frais de transports lorsque le lien entre le motif de la consultation et l'affection de longue durée est avéré. Les services de l'Etat, en lien avec ceux de l'Assurance maladie, mènent actuellement plusieurs travaux sur l'accès des résidents d'EHPAD à certains soins. A titre d'exemple, les services travaillent actuellement sur l'intervention des chirurgiens-dentistes en EHPAD à travers l'élaboration d'un contrat type entre l'EHPAD et le ou les chirurgiens-dentistes intervenants. Le gouvernement entend renforcer la capacité d'intervention des professionnels de santé au sein des établissements à travers des démarches d'"aller vers".
