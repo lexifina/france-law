@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000527
+
+- Question : [SEQ241000527](seq241000527.md) — Manque de médecins traitants
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-03-27, page 1395*
+
+Le dispositif du bail réel solidaire d'activité permettant aux organismes de foncier solidaire de proposer des logements en accession à des prix abordables à des ménages modeste dans un régime de démembrement de la propriété, est très récent. Les toutes premières opérations ont été livrées en 2019. Depuis cette date, ce dispositif n'a cessé d'évoluer pour s'adapter aux besoins des territoires. L'élargissement de ce dispositif de démembrement de la propriété aux locaux d'activités pour les seules microentreprises prévu par l'ordonnance n° 2023-80 du 8 février 2023 s'inscrit dans ces évolutions. Il a pour objectif d'encourager la mixité fonctionnelle en accompagnant l'installation d'activités qui ne pourraient pas s'implanter dans certains territoires ou quartiers compte tenu du prix du foncier, sans toutefois créer d'avantage injustifié pour les bénéficiaires. Le dispositif de bail réel solidaire d'activité est donc, en l'état du droit, limité aux microentreprises au sens de la définition donnée par la recommandation 2003/361/ CE de la Commission du 6 mai 2003, c'est-à-dire aux entreprises de moins de dix salariés et moins de deux millions d'euros de chiffres d'affaires. Les conditions de mise en oeuvre effective de cet outil ont été fixées en juillet 2024 (décret n° 2024-838 du 16 juillet 2024 portant diverses mesures d'application relatives aux organismes de foncier solidaire, au bail réel solidaire et au bail réel solidaire d'activité) et il n'est pas envisagé à ce stade l'ouverture à de nouvelles activités éligibles telles que les professions libérales réglementées.
