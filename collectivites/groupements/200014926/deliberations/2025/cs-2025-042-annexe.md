@@ -1,0 +1,10 @@
+# TE44 : délibération CS-2025-042_Annexe — CS-2025-042_Annexe Subventions CASA
+
+- Collectivité : TE44
+- SIREN : 200014926
+- Date : 2025-03-27
+- Séance : Comité
+- Matière : Affaires générales
+- Objet : CS-2025-042_Annexe Subventions CASA
+- Acte publié : https://sydela.sharepoint.com/:b:/s/DeliberationsTE44/EZuxTWpV4pxPt5kB9XIK1noBHDtpZoFDCMZ7RLtbcvFxUQ?e=THpSMI
+- Jeu de données : https://www.data.gouv.fr/datasets/deliberations-te44@te44-loireatlantique
