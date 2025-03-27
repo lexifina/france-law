@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203289
+
+- Question : [SEQ250203289](seq250203289.md) — Difficultés rencontrées par les collectivités locales concernant les taux d'encadrement des activités périscolaires
+
+## Réponse
+
+*Sports, jeunesse et vie associative, JO du 2025-03-27, page 1458*
+
+La réglementation fixe les dispositions relatives à la qualification des personnes encadrant les enfants dans les accueils collectifs de mineurs à caractère éducatif mentionnés à l'article L. 227-4 du code de l'action sociale et des familles. En outre, elle définit les taux d'encadrement en fonction de l'âge des mineurs et des caractéristiques des accueils. Ces règles visent à garantir la santé et la sécurité des mineurs ainsi que la qualité éducative des accueils. S'agissant plus particulièrement des accueils de loisirs périscolaires, définis à l'article R. 227-1 du code de l'action sociale et des familles, la réglementation fixe des taux d'encadrement adaptés selon la durée de l'accueil et l'âge des enfants accueillis. Elle prévoit en outre la possibilité d'un taux d'encadrement réduit pour les activités organisées dans le cadre d'un projet éducatif territorial (articles R. 227-16 du code de l'action sociale et des familles et R. 551-13 du code de l'éducation). Par ailleurs, dans les accueils de loisirs organisés pour un effectif d'au plus cinquante mineurs, le directeur peut, en application de l'article R. 227-17 du code de l'action sociale et des familles, être inclus dans l'effectif d'encadrement. Enfin, la réglementation fixe les conditions dans lesquelles le préfet peut accorder des dérogations pour l'exercice des fonctions de direction d'un accueil de loisirs en cas de difficultés manifestes de recrutement. À ce jour, il n'est pas envisagé de modifier ce cadre juridique des accueils collectifs de mineurs.
