@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241102316
+
+- Question : [SEQ241102316](seq241102316.md) — Recrutement d'animateurs périscolaires dans les communes
+
+## Réponse
+
+*Sports, jeunesse et vie associative, JO du 2025-03-27, page 1456*
+
+L'article R. 227-12 du code de l'action sociale et des familles dispose que les fonctions d'animation en séjours de vacances et en accueils de loisirs sont exercées par les titulaires du brevet d'aptitude aux fonctions d'animateur (BAFA) ou de l'un des diplômes, titres ou certificats de qualifications figurant sur une liste fixée par arrêté du ministre chargé de la jeunesse après avis du conseil d'orientation des politiques de jeunesse. Cette liste est détaillée aux articles 2 et 2-1 de l'arrêté du 9 février 2007 fixant les titres et diplômes permettant d'exercer les fonctions d'animation et de direction en séjours de vacances, en accueils sans hébergement et en accueils de scoutisme. Elle comprend plus de 40 qualifications, offrant ainsi une grande variété de profils pouvant d'exercer en accueils collectifs de mineurs, parmi lesquelles figurent le certificat d'aptitude professionnel d'accompagnement éducatif petite enfance et le baccalauréat professionnel spécialité « animation-enfance et personnes âgées ». Le ministère des sports, de la jeunesse et de la vie associative est favorable à l'élargissement de cette liste afin de favoriser le recrutement d'animateurs qualifiés. C'est pourquoi cet arrêté est régulièrement mis à jour et de nouvelles inscriptions sont à l'étude. Toutefois, préalablement à toute inscription, il convient de vérifier que la formation diplômante conduit bien à l'acquisition des compétences nécessaires à l'exercice des fonctions d'animation en accueils collectifs de mineurs, afin de garantir la qualité éducative de ces accueils et la sécurité des mineurs qui y sont accueillis.
