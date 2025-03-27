@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001007
+
+- Question : [SEQ241001007](seq241001007.md) — Exercice de la compétence « petite enfance » par les intercommunalités
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-03-27, page 1400*
+
+L'article 17 de la loi pour le plein emploi désigne les communes comme autorité organisatrice (AO) de l'accueil du jeune enfant à compter du 1er janvier 2025. A ce titre, elles se voient attribuer quatre compétences : le recensement des besoins, l'information et l'accompagnement des familles, la planification du développement des modes d'accueil et le soutien à la qualité de ces modes d'accueil. Ces deux dernières compétences sont obligatoirement exercées par les communes de plus de 3500 habitants. Les communes peuvent transférer, selon les modalités de droit commun prévues par le code général des collectivités territoriales, une ou plusieurs de ces quatre compétences à un établissement public de coopération intercommunal (EPCI) ou à un syndicat mixte. Enfin, ces nouvelles dispositions ne remettent pas en cause la compétence facultative de création, extension et transformation d'établissements et services publics d'accueil du jeune enfant prévu à l'article L.2324-1 du code de la santé publique qui permet à toutes les collectivités territoriales de créer et gérer des établissements accueillant des enfants de moins de six ans. Ainsi, en qualifiant la commune d'autorité organisatrice, la loi ne revient pas sur la possible répartition des compétences entre le niveau communal ou intercommunal. Sans méconnaître le rôle essentiel joué par les intercommunalités, elle formalise le rôle essentiel des maires sur le sujet de la petite enfance. Une équipe projet placée auprès du directeur de la sécurité sociale, spécifiquement chargée du comité de filière petite enfance et du service public de la petite enfance, est particulièrement vigilante à l'équilibre du nouveau paysage de cette compétence.
