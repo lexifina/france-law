@@ -1,0 +1,9 @@
+# CC VIERZON-SOLOGNE-BERRY : délibération ANNEXEDEL25089B — ANNEXE DELIBERATION DEL25.089 - SERVICE EAU POTABLE - REDEVANCE ET FRAIS DE PENALITES
+
+- Collectivité : CC VIERZON-SOLOGNE-BERRY
+- SIREN : 200090561
+- Date : 2025-03-27
+- Matière : 7.1.7 Finances locales/Decisions budgetaires
+- Objet : ANNEXE DELIBERATION DEL25.089 - SERVICE EAU POTABLE - REDEVANCE ET FRAIS DE PENALITES
+- Acte publié : https://publication-actes.fr/OpenData/200090561/Deliberation/2025/50941/e5e2302d0458863f285a8291e4b152317c26e255e700061c43fe231ceab205ab.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
