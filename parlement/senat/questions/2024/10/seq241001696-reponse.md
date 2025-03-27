@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001696
+
+- Question : [SEQ241001696](seq241001696.md) — Contrats d'engagement éducatifs
+
+## Réponse
+
+*Sports, jeunesse et vie associative, JO du 2025-03-27, page 1455*
+
+Conformément aux dispositions de l'article L. 432-1 du code de l'action sociale et des familles, le contrat d'engagement éducatif est destiné aux personnes qui exercent, de façon occasionnelle, des fonctions d'animation ou de direction d'un accueil collectif de mineurs (ACM) à caractère éducatif, organisé à l'occasion de vacances scolaires, de congés professionnels ou de loisirs. Ce contrat répond à la réalité de l'activité d'animation socio-éducative dans les séjours de vacances, tant par son caractère occasionnel que par le rythme spécifique d'alternance qu'elle implique entre temps de travail et de repos. Il s'agit donc d'un contrat de travail destiné aux animateurs et encadrants en ACM, adapté à la nature des missions exercées, notamment en matière de temps de travail et de jours de repos. La participation, dans le cadre d'un contrat d'engagement éducatif, de mineurs âgés de 16 à 17 ans à l'encadrement d'un ACM est possible à condition de respecter des dispositions du code du travail régissant le travail des mineurs, en particulier en matière de temps de travail et de jours de repos. Les organisateurs d'ACM peuvent, dans le respect de la réglementation fixant les taux d'encadrement, conclure un contrat d'engagement éducatif avec une personne non diplômée ou stagiaire (article R. 227-12 et suivants du code de l'action sociale et des familles). Dans tous les cas, les organisateurs d'ACM doivent, par des modalités d'organisation adaptées, assurer la sécurité physique et morale des mineurs. Pour toute question relative à la réglementation applicable dans les ACM, les organisateurs sont invités à prendre l'attache du service départemental à la jeunesse, à l'engagement et aux sports.
