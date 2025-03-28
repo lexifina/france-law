@@ -8,45 +8,55 @@ Pour que l'évaluation carbone simplifiée soit considérée comme valide, l'app
 
 Le certificat doit mentionner a minima :
 
-- pour les modules photovoltaïques en silicium cristallin, le caractère (numéro ou lettre) d'identification, présent également dans le code produit de chaque module, et comportant a minima les éléments suivants :
+-pour les modules photovoltaïques en silicium cristallin, le caractère (numéro ou lettre) d'identification, présent également dans le code produit de chaque module, et comportant a minima les éléments suivants :
 
-- la référence des plaquettes de silicium utilisées dans le module, cette référence devant comporter le caractère (numéro ou lettre) d'identification unique du site de fabrication des plaquettes de silicium ;
+-la référence des plaquettes de silicium utilisées dans le module, cette référence devant comporter le caractère (numéro ou lettre) d'identification unique du site de fabrication des plaquettes de silicium ;
 
-- la référence des cellules utilisées dans le module, cette référence devant comporter le caractère(numéro ou lettre) d'identification unique du site de fabrication des cellules ;
+-la référence des cellules utilisées dans le module, cette référence devant comporter le caractère (numéro ou lettre) d'identification unique du site de fabrication des cellules ;
 
-- le caractère (numéro ou lettre) d'identification unique du site d'assemblage du module ; ˗pour les modules photovoltaïques en couche mince, le caractère (numéro ou lettre) d'identification unique du site d'assemblage du module.
+-le caractère (numéro ou lettre) d'identification unique du site d'assemblage du module ; pour les modules photovoltaïques en couche mince, le caractère (numéro ou lettre) d'identification unique du site d'assemblage du module.
 
 Le certificat doit également mentionner :
 
-- le nom et l'adresse des sites de production susmentionnés ;
+-le nom et l'adresse des sites de production susmentionnés ;
 
-- pour chacun de ces sites de production, les étapes de production réalisées sur le site de production ;
+-pour chacun de ces sites de production, les étapes de production réalisées sur le site de production ;
 
-- la date du dernier audit réalisé sur le site d'assemblage du module.
+-la date du dernier audit réalisé sur le site d'assemblage du module.
 
-Si l'installation comporte plusieurs types de modules, la valeur carbone considérée sera la moyenne des bilans carbone de chaque type de module pondérée par les puissances crêtes de ces différents types de modules ;
+Si l'installation comporte plusieurs types de modules, la valeur carbone considérée sera la moyenne des bilans carbone de chaque type de module pondérée par les puissances crêtes de ces différents types de modules.
 
-1. Hypothèses et périmètre d'évaluation de la méthode d'évaluation carbone simplifiée
+I.-Hypothèses et périmètre d'évaluation de la méthode d'évaluation carbone simplifiée
 
-L'évaluation carbone simplifiée de la centrale photovoltaïque se fonde uniquement sur l'évaluation carbone simplifiée du laminé photovoltaïque (module photovoltaïque sans cadre). Les émissions de gaz à effet de serre liées aux autres composants de la centrale ne sont pas considérées.
+L'évaluation carbone simplifiée des modules de la centrale photovoltaïque se fonde uniquement sur l'évaluation carbone simplifiée du laminé photovoltaïque (module photovoltaïque sans cadre). La puissance crête des modules est considérée uniquement sur la face avant (la puissance face arrière n'est pas prise en compte).
+
+Une tolérance négative de la puissance crête n'est pas autorisée dans le calcul de l'évaluation carbone simplifiée.
+
+Les émissions de gaz à effet de serre liées aux autres composants de la centrale ne sont pas prises en compte dans le calcul.
 
 Par souci de simplicité et de traçabilité, seules les étapes de fabrication suivantes sont prises en compte pour l'évaluation carbone simplifiée du module :
 
 Filière silicium cristallin :
 
+-fabrication du silicium métallurgique (MG-Si) ;
+
 -fabrication du polysilicium ;
 
--fabrication du lingot ;
+-fabrication du lingot (Ingot as-grown) ;
+
+-fabrication de la brique de silicium (ingot to brick) ;
 
 -fabrication de la plaquette (wafer) ;
 
--fabrication de la cellule ;
+-fabrication de la cellule (cell) (avant processus de découpe réalisé sur le site d'assemblage du module) ;
 
 -fabrication du module ;
 
 -fabrication du verre et du verre trempé ;
 
--fabrication de l'EVA, du PET et du PVF.
+-fabrication de l'encapsulant (EVA, POE ou autre) ;
+
+-fabrication de la face arrière (PET, PVF, POE ou autre) (backsheet).
 
 Filière couche mince :
 
@@ -54,29 +64,29 @@ Filière couche mince :
 
 -fabrication du verre et du verre trempé ;
 
--fabrication de l'EVA, du PET et du PVF.
+-fabrication de l'encapsulant (EVA, PET, PVF, POE ou autre) ;
 
-Les émissions de gaz à effet de serre provenant des autres étapes du cycle de vie du module ne sont pas considérées (transport vers le site de mise en service et d'exploitation, installation, utilisation, fin de vie). Il est précisé ici que le transport des intrants relatif à un procédé donné doit être pris en compte dans le périmètre de l'ACV. Les hypothèses prises quant aux modes de transport seront détaillées.
+-fabrication de la face arrière (PET, PVF, POE ou autre) (backsheet).
 
-On se limite donc à l'évaluation des émissions de GES liées à la production du module, aux équipements de procédés, aux bâtiments et utilités (hors administratif et R & D). L'énergie grise, c'est-à-dire l'énergie nécessaire à la fabrication, des équipements bâtiments et utilités est prise en compte dans le calcul des émissions de gaz à effet de serre.
+Les émissions de gaz à effet de serre provenant des autres étapes du cycle de vie du module ne sont pas prises en compte (transport vers le site de mise en service et d'exploitation, installation, utilisation, fin de vie).
 
-I.-Formule de calcul utilisée
+II.-Formule de calcul utilisée
 
 L'évaluation carbone simplifiée des modules utilisés pour la centrale photovoltaïque se base sur la formule 1 suivante :
 
 Formule 1 :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : Légifrance - Publications officielles - Journal officiel - JORF n° 0235 du 08/10/2021 (legifrance.gouv.fr)
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
 formule dans laquelle :
 
--G, [kg eq CO2/ kWc], représente la quantité de gaz à effet de serre émise lors de la fabrication d'un kilowatt crête de module photovoltaïque.
+-G, [kg eq CO2/ kWc], représente la quantité de gaz à effet de serre émise lors de la fabrication d'un kilowatt crête de module photovoltaïque ;
 
-G s'obtient par l'addition des Gi, qui représentent les valeurs d'émissions de gaz à effet de serre de chaque composant i du module photovoltaïque rapportées à un kilowatt crête de Puissance. Gi s'exprime dans la même unité que G. Chaque Gi s'obtient par la formule 2.
+-G s'obtient par l'addition des Gi, qui représentent les valeurs d'émissions de gaz à effet de serre de chaque composant i du module photovoltaïque rapportées à un kilowatt crête de Puissance. Gi s'exprime dans la même unité que G. Chaque Gi s'obtient par la formule 2.
 
 Formule 2 :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : Légifrance - Publications officielles - Journal officiel - JORF n° 0235 du 08/10/2021 (legifrance.gouv.fr)
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
 formule dans laquelle :
 
@@ -88,141 +98,59 @@ formule dans laquelle :
 
 III.-Etapes nécessaires au calcul du bilan carbone simplifié du module ou film photovoltaïque
 
-III. 1. Inventaire de la quantité de matériau nécessaire à la fabrication du module ou film photovoltaïque
+III-1. Inventaire de la quantité de matériau nécessaire à la fabrication du module ou film photovoltaïque
 
 La première étape de calcul de l'analyse carbone simplifiée du module photovoltaïque consiste à inventorier et à quantifier les composants nécessaires à la fabrication d'un kilowatt crête de module photovoltaïque. On appliquera les coefficients du tableau 2, relatifs à la quantité de matériaux et composants nécessaires à la fabrication du produit intermédiaire, pour prendre en compte les pertes et casses lors de la fabrication des modules en technologies silicium cristallin.
 
 La quantité de chaque composant nécessaire à la fabrication dans un kilowatt crête de module, notée Qi, est indiquée dans une unité propre au composant :
 
+-MG-Si en kg. Cette valeur est ramenée à la masse de silicium nécessaire à la fabrication d'1 kWc de module. Les pertes et casses seront prises en compte ;
+
 -Polysilicium en kg. Cette valeur est ramenée à la masse de silicium nécessaire à la fabrication d'1 kWc de module. Les pertes et casses seront prises en compte ;
 
 -Lingots en kg de silicium. Cette valeur est ramenée à la masse de silicium nécessaire à la fabrication d'1 kWc de module. Les pertes et casses seront prises en compte ;
 
--Plaquettes (wafers) en nombre de wafers. Cette valeur est ramenée au nombre de wafers nécessaire pour faire 1 kWc. Les pertes et casses seront prises en compte. Le cas échéant, la contribution sera ramenée à la surface réelle des wafers (référence wafer 156 × 156 mm) ;
+-Brique en kg de silicium. Cette valeur est ramenée à la masse de silicium nécessaire à la fabrication d'1 kWc de module. Les pertes et casses seront prises en compte (tête, queue et squaring) ;
 
--Cellules en nombre de cellules. Cette valeur est le nombre de cellules nécessaire pour faire 1 kWc. Les pertes et casses seront prises en compte. Le cas échéant, la contribution sera ramenée à la surface réelle des cellules (référence wafer 156 × 156 mm) ;
+-Plaquettes (wafers) en m2 de plaquettes. Cette valeur est ramenée à la surface de plaquettes nécessaire pour faire 1 kWc. Les pertes et casses seront prises en compte. Le calcul des pertes et casses est détaillé dans le tableau 2 pour une perte sciage (kerf) fixée à 70 µm et une densité de silicium de 2 330 kg/ m2 ;
 
--Modules en m2 de modules. Cette valeur est la surface de module nécessaire pour faire 1 kWc que ce soit pour les modules cristallins ou en couches minces. Les éléments présents dans le module (diodes et boites de jonctions) seront également inventoriés ;
+-Cellules en m2 de cellules. Cette valeur est ramenée à la surface de cellules nécessaire pour faire 1 kWc. Les pertes et casses seront prises en compte ;
+
+-Modules en m2 de modules. Cette valeur est la surface de module nécessaire pour faire 1 kWc que ce soit pour les modules cristallins ou en couches minces ;
 
 -Verre en kg. Cette valeur est la masse de verre nécessaire pour faire 1 kWc (ramenée donc à la surface et l'épaisseur de verre, masse volumique de référence 2 700 kg/ m3) ;
 
 -Verre trempé en kg. Cette valeur est la masse de verre trempé nécessaire pour faire 1 kWc (ramenée donc à la surface et l'épaisseur de verre trempé, masse volumique de référence 2 700 kg/ m3) ;
 
--EVA en kg. Cette valeur est la masse d'EVA nécessaire pour faire 1 kWc (ramenée donc à la surface et l'épaisseur d'EVA, masse volumique de référence 963 kg/ m3) ;
+-Encapsulant : EVA ou autre matériau équivalent en kg. Cette valeur est la masse d'encapsulant nécessaire pour faire 1 kWc (ramenée donc à la surface et l'épaisseur d'encapsulant, masse volumique de référence 963 kg/ m3) ;
 
--PET en kg. Cette valeur est la masse de PET nécessaire pour faire 1 kWc (ramenée donc à la surface et l'épaisseur de PET, masse volumique de référence 1 400 kg/ m3) ;
+-Face arrière : PET, backsheet ou autre matériau équivalent en kg. Cette valeur est la masse de face arrière nécessaire pour faire 1 kWc (ramenée donc à la surface et l'épaisseur de face arrière, masse volumique de référence 1 400 kg/ m3) ;
 
 -PVF en kg. Cette valeur est la masse de PVF nécessaire pour faire 1 kWc (ramenée donc à la surface et l'épaisseur de PVF, masse volumique de référence 1 400 kg/ m3).
 
-III. 2. Identification du ou des sites de fabrication de chaque composant
+III-2. Identification du ou des sites de fabrication de chaque composant
 
-Le calcul de l'évaluation carbone simplifiée nécessite de connaître les sites de fabrication de chacun des composants du module photovoltaïque. En effet, la quantité de gaz à effet de serre émise directement ou indirectement (production d'électricité) en conséquence est fortement dépendante du pays de fabrication.
+Le calcul de l'évaluation carbone simplifiée nécessite de connaître les sites de fabrication de chacun des composants du module photovoltaïque. En effet, la quantité de gaz à effet de serre émise directement ou indirectement (production d'électricité) en conséquence est dépendante du pays de fabrication.
 
-Le site et le pays de fabrication de chaque composant doivent obligatoirement être reportés dans les colonnes 4 et 5 du tableau 1.
+Le site et le pays de fabrication de chaque composant doivent obligatoirement être mentionnés dans les colonnes 6 du tableau 1.
 
-Si un même composant i provient de différents sites de fabrication j, les coefficients de répartition xij des sources d'approvisionnement sur les différents sites de production (moyennés sur une année d'approvisionnement) doivent être indiqués dans la colonne 6 du tableau 1 (pour chaque composant i, la somme sur j des xij est égale 1).
+Si un même composant i provient de différents sites de fabrication j, les coefficients de répartition xij des sources d'approvisionnement sur les différents sites de production (moyennés sur une année d'approvisionnement) doivent être indiqués dans la colonne 3 du tableau 1 (pour chaque composant i, la somme sur j des xij est égale 1).
 
-III. 3. Détermination de la quantité de gaz à effet de serre en équivalent CO2 émise directement ou indirectement lors de la fabrication du composant i par unité de quantification du composant dans le site de fabrication j (termes GWPij unitaire de la formule 1)
+III-3. Détermination de la quantité de gaz à effet de serre en équivalent CO2 émise directement ou indirectement lors de la fabrication du composant i par unité de quantification du composant dans le site de fabrication j (termes GWPij unitaire de la formule 1)
 
-Les termes GWPij unitaires peuvent être déterminés de 2 uniques façons. La seconde méthode de calcul étant à l'initiative du fabricant, il revient à chaque Candidat de choisir de prendre en compte ou non une telle évaluation par son (ou ses) fabricant (s) dans son dossier.
+Les termes GWPij unitaires sont déterminés en utilisant les valeurs fournies dans le tableau 3 selon la méthodologie décrite dans le paragraphe ci-dessous. Le tableau 3 donne les valeurs d'émission de gaz à effet de serre en CO2eq pour les étapes de fabrication des composants du module photovoltaïque selon le pays ou la zone géographique du pays de fabrication.
 
-1re méthode de calcul :
+Chaque ligne du tableau correspond à un type de technologie de module photovoltaïque : monocristallin, multicristallin/ monolike, silicium amorphe (a-Si), film CdTe ou film CIGS.
 
-Les GWPij unitaires sont déterminés en utilisant les valeurs fournies dans le tableau 3 selon la méthodologie décrite dans le paragraphe ci-dessous. Le tableau 3 donne les valeurs d'émission de gaz à effet de serre en CO2eq pour les étapes de fabrication des composants du module photovoltaïque selon le pays ou la zone géographique du pays de fabrication.
+-si le (ou les) pays de fabrication figure dans le tableau, la valeur d'émission spécifique de CO2eq de la colonne correspondante devra être utilisée ;
 
-Chaque ligne du tableau correspond à un type de technologie de module photovoltaïque : monocristallin, multicristallin, silicium amorphe (a-Si ou a-Si/ μ c-Si), film CdTe ou film CIGS.
+-si le (ou les) pays de fabrication ne figure pas dans le tableau 3 : une valeur d'émission spécifique conservatrice sera utilisée :
 
--si le (ou les) pays de fabrication est connu et figure dans le tableau, la valeur d'émission spécifique de CO2eq de la colonne correspondante devra être utilisée ;
+-si le pays fait partie de l'Espace économique européen la valeur à utiliser est indiquée dans la colonne " autre pays d'Europe " ;
 
--si le (ou les) pays de fabrication est connu et ne figure pas dans le tableau 3 : une valeur d'émission spécifique conservatrice dans le monde sera utilisée si le pays ne fait pas partie de l'Espace économique européen (colonne " others ").
+-si le pays ne fait pas partie de l'Espace économique européen, la valeur à utiliser est indiquée dans la colonne " Autre pays du monde ".
 
-2e méthode de calcul :
-
-Dans le cas où le fabricant du composant i développerait un procédé de fabrication innovant et peu énergivore et qu'il souhaiterait le valoriser, les valeurs de GWPij unitaires associées à cette étape de fabrication peuvent être différentes de celles indiquées dans le tableau 3.
-
-La nouvelle valeur utilisée pour cette étape de procédé doit alors être issue d'une analyse de cycle de vie complète et récente (à compter de 2011) réalisée sur ce procédé de fabrication selon la norme ISO 14040 : 2006 et ayant fait l'objet d'une revue critique indépendante par un bureau d'études ayant déjà établi des ACV sur la chaîne de fabrication de modules photovoltaïques. La revue critique indépendante sera menée dès le début du travail d'ACV afin de mieux en contrôler la qualité et la transparence.
-
-Cette analyse de cycle de vie fera preuve de la plus grande transparence dans son inventaire. Entre autres, l'origine des données, les périodes d'inventaires et la description fine des flux de matières et énergétiques seront détaillés. Les hypothèses relatives à la répartition ou allocations des flux seront explicitées. Enfin, les facteurs d'impacts utilisés et les procédés associés seront clairement mentionnés.
-
-Dans un souci de cohérence, cette analyse de cycle de vie doit prendre en compte les mêmes hypothèses ayant permis l'établissement du tableau 3, à savoir :
-
--les GWPij sont obtenus en utilisant les valeurs des émissions de GES pour la fabrication des composants correspondant à des valeurs en CO2-EQUIVALENTS calculées selon la méthode IPCC2007-GWP100a. Ces calculs doivent se baser sur le mix électrique du pays de fabrication j du composant i dont les facteurs d'émission sont fournis dans le tableau 4 (données Ecoinvent 3.1). Le candidat a pour obligation d'utiliser ces facteurs d'émission ;
-
--les économies liées au recyclage du module en fin de vie ne sont pas prises en compte pour limiter la valeur du GWPij unitaire spécifique à la fabrication du composant i.
-
-De plus, pour être utilisée, cette valeur de GWPij unitaire doit avoir été validée par l'ADEME.
-
-Ainsi, s'il est souhaité de recourir à cette méthode, le fabricant de module doit envoyer à l'ADEME sa demande conforme à l'annexe 2 bis, accompagnée de l'analyse de cycle de vie qui a permis de la calculer :
-
-Pour les demandes concernant des coefficients qui ont déjà été validés, l'ADEME enverra au fabricant une attestation dans un délai de 1 mois.
-
-Pour les demandes concernant des coefficients qui doivent être validés pour la première fois, l'ADEME analysera l'ensemble des demandes reçues le 1er de chacun des mois suivants : janvier, mars, mai, juillet, septembre, et novembre, et enverra au fabricant l'attestation dans un délai de 2 mois.
-
-L'ADEME évaluera la qualité de l'ACV ayant conduit à l'établissement du GWPij au vu des critères mentionnés plus haut.
-
-Si la demande concerne plusieurs coefficients GWPij, le mail de demande doit inclure le tableau de synthèse ci-dessous complété :
-
-Fabricant
-
-de composant |
-
-Fabricant
-
-de module |
-
-Pays de fabrication du composant |
-
-Composant |
-
-Nouvelle valeur proposée
-
-par le candidat |
-
-Valeur déjà validée par l'ADEME ? |
-
-Unité |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Le document confirmant la validation de l'ADEME pour la nouvelle valeur de GWPij unitaire doit être joint à l'évaluation carbone simplifiée. L'évaluation carbone simplifiée du laminé photovoltaïque ne peut prendre en compte un taux de silicium recyclé (valeurs de GWPij obtenu par la 2e méthode de calcul, cf. supra) supérieur à :
-
--25 % dans le cas des panneaux photovoltaïques polycristallins (famille " Multi ") ;
-
--33 % dans le cas des panneaux photovoltaïques monocristallins hors monolike (famille " Mono ") ;
-
--34 % dans le cas des panneaux photovoltaïques monolike (famille " Monolike ").
-
-La famille " Multi " désigne les produits dont le lingot est élaboré par solidification directionnelle.
-
-La famille " Mono " désigne les produits dont le lingot est élaboré par les procédés dits CZ (pour Czochralski).
-
-III. 4. Calcul final de G
+III-4. Calcul final de G
 
 Le calcul final de G à partir de la formule 1 se fait grâce à l'addition des Gi pour tous les composants i du module ou film photovoltaïque.
 
@@ -236,317 +164,407 @@ Tableau 1 :
 
 |
 
-Quantification de chaque composant nécessaire à la fabrication d'1 kWc de Puissance. Qi (unité selon le composant considéré) |
+Quantification de chaque composant nécessaire à la fabrication d'1 kWc de Puissance |
+
+Coefficients de répartition des sources d'approvisionnement sur les différents sites de fabrication |
 
 Référence type du composant |
 
-Site (s) de fabrication |
+Raison sociale du site de fabrication du composé |
 
-Pays de fabrication j |
+Adresse complète et pays du site de fabrication du composant |
 
-Coefficients de répartition des sources d'approvisionnement sur les différents sites de fabrication (valeur des coefficients xij entre 0 et 1 ; pour chaque composant i la somme sur j des xij = 1) |
+Valeurs de GWPij unitaires
 
-Valeurs de GWPij unitaire (en kg eq CO2/ unité de quantification du composant) |
+à utiliser par défaut |
 
-Polysilicium |
+Polysilicium
 
-Unité : kg |
+métallurgique
 
-|
+(Mg-Si) |
+
+Quantité : kg |
+
+X 1 : %
+
+X 2 : % |
+
+Réf 1
+
+Réf 2 |
 
 Site 1
 
 Site 2 … |
 
-Pays 1
+Adresse complète 1
 
-Pays 2 … |
+Pays
 
-X11 :
+Adresse complète 2
 
-X12 : |
+Payx |
 
-kg eqCO2/ kg
+Valeur 1 : kg eqCO2/ kg
 
-kg eqCO2/ kg |
+Valeur 2 : kg eqCO2/ kg |
+
+Polysilicium siemens
+
+(SoG-Si) |
+
+Quantité : kg |
+
+X 1 : %
+
+X 2 : %
+
+… |
+
+Réf 1
+
+Réf 2
+
+… |
+
+Site 1
+
+Site 2
+
+… |
+
+Adresse complète 1
+
+Adresse complète 2 |
+
+Valeur 1 : kg eqCO2/ kg
+
+Valeur 2 : kg eqCO2/ kg |
 
 Lingots |
 
-Unité : kg |
+Quantité : kg |
 
-|
+X 1 : %
 
-Site 1
+… |
 
-Site 2 … |
+Réf 1
 
-Pays 1
+… |
 
-Pays 2 … |
+Site 1 :
 
-X21 :
+… |
 
-X22 : |
+Adresse complète 1 |
 
-kg eqCO2/ kg
+Valeur 1 : kg eqCO2/ kg |
 
-kg eqCO2/ kg |
+Briques |
+
+Quantité : kg |
+
+X 1 : %
+
+… |
+
+Réf 1
+
+… |
+
+Site 1 :
+
+… |
+
+Adresse complète 1 |
+
+Valeur 1 : kg eqCO2/ kg |
 
 Plaquettes (wafer) |
 
-Unité : nombre de wafers |
+Longueur : mm
 
-|
+Largeur : mm
 
-Site 1
+Epaisseur : mm |
 
-Site 2 … |
+X 1 : %
 
-Pays 1
+… |
 
-Pays 2 … |
+Réf 1
 
-X31 :
+… |
 
-X32 : |
+Site 1 :
 
-kg eqCO2/ wafer
+… |
 
-kg eqCO2/ wafer |
+Adresse complète 1 |
+
+Valeur 1 : kg eqCO2/ m2 |
 
 Cellules |
 
-Unité : nombre de cellules |
+Technologie :
 
-|
+Longueur : mm
 
-Site 1
+Largeur : mm
 
-Site 2 … |
+Epaisseur : mm |
 
-Pays 1
+X 1 : %
 
-Pays 2 … |
+… |
 
-X41 :
+Réf 1
 
-X42 : |
+… |
 
-kg eqCO2/ cellule
+Site 1 :
 
-kg eqCO2/ cellule |
+… |
+
+Adresse complète 1
+
+… |
+
+Valeur 1 : kg eqCO2/ m2
+
+… |
 
 Modules |
 
-Unité : m2 |
+Longueur : mm
 
-|
+Largeur : mm
 
-Site 1
+Plage de puissances par pas de 5 Wc |
 
-Site 2 … |
+X 1 : %
 
-Pays 1
+… |
 
-Pays 2 … |
+Réf 1
 
-X51 :
+… |
 
-X52 : |
+Site 1 :
 
-kg eqCO2/ m2
+… |
 
-kg eqCO2/ m2 |
+Adresse complète 1
+
+… |
+
+Valeur 1 : kg eqCO2/ m2
+
+… |
 
 Verre |
 
-Unité : kg |
+Longueur : mm
 
-|
+Largeur : mm
 
-Site 1
+Epaisseur : mm |
 
-Site 2 … |
+X 1 : %
 
-Pays 1
+… |
 
-Pays 2 … |
+Réf 1
 
-X61 :
+… |
 
-X62 : |
+Site 1 :
 
-kg eqCO2/ kg
+… |
 
-kg eqCO2/ kg |
+Adresse complète 1
+
+… |
+
+Valeur 1 : kg eqCO2/ kg
+
+… |
 
 Verre trempé |
 
-Unité : kg |
+Longueur : mm
 
-|
+Largeur : mm
 
-Site 1
+Epaisseur : mm |
 
-Site 2 … |
+X 1 : %
 
-Pays 1
+… |
 
-Pays 2 … |
+Réf 1
 
-X71 :
+… |
 
-X72 : |
+Site 1 :
 
-kg eqCO2/ kg
+… |
 
-kg eqCO2/ kg |
+Adresse complète 1
 
-EVA |
+… |
 
-Unité : kg |
+Valeur 1 : kg eqCO2/ kg
 
-|
+… |
 
-Site 1
+Encapsulant |
 
-Site 2 … |
+Epaisseur : µm |
 
-Pays 1
+X 1 : %
 
-Pays 2 … |
+X 2 : %
 
-X81 :
+… |
 
-X82 : |
+Réf 1
 
-kg eqCO2/ kg
+Réf 2
 
-kg eqCO2/ kg |
+… |
 
-PET |
+Site 1 :
 
-Unité : kg |
+Site 2 : |
 
-|
+Adresse complète 1
 
-Site 1
+Adresse complète 2 |
 
-Site 2 … |
+Valeur 1 kg eqCO2/ kg :
 
-Pays 1
+Valeur 2 : kg eqCO2/ kg : |
 
-Pays 2 … |
+Face arrière |
 
-X91 :
+Epaisseur : µm |
 
-X92 : |
+X 1 : %
 
-kg eqCO2/ kg
+X 2 : %
 
-kg eqCO2/ kg |
+… |
 
-PVF ou Tedlar |
+Réf 1
 
-Unité : kg |
+Réf 2
 
-|
+… |
 
-Site 1
+Site 1 :
 
-Site 2 … |
+Site 2 :
 
-Pays 1
+… |
 
-Pays 2 … |
+Adresse complète 1
 
-X101 :
+Adresse complète 2
 
-X102 : |
+… |
 
-kg eqCO2/ kg
+Valeur 1 kg eqCO2/ kg :
 
-kg eqCO2/ kg |
+Valeur 2 : kg eqCO2/ kg :
+
+… |
 
 Tableau 2.-Coefficients de pertes et casses pour les produits intermédiaires
 
 Etape de procédé/ matériau |
 
-Quantité de matériau nécessaire à la fabrication
+Quantité de matériau nécessaire à la fabrication du produit
 
-du produit intermédiaire incluant les pertes et casses |
+intermédiaire incluant les pertes et casses |
 
-ingot, mono, as-grown |
+Polysilicium, as grown |
 
-1.04 kg polySi/ kg ingot |
+1,13 kg MG-Si/ kg polycilium |
 
-ingot, multi and monolike, as-grown |
+Lingot, mono, as-grown |
 
-1.01 kg polySi/ kg ingot |
+1.04 kg polySi/ kg lingot |
 
-wafer, mono, 156mm x 156mm |
+|
 
-2. 9e-2 kg mono-ingot/ wafer |
+Lingot, multi/ monolike, as-grown |
 
-wafer, multi and monolike, 156mm x 156mm (sciage slurry) |
+1,01 kg polySi/ kg lingot |
 
-3. 3e-2 kg multi-ingot/ wafer |
+|
 
-wafer, multi and monolike, 156mm x 156mm (sciage diamant) |
+Brique mono (Ingot to brick) |
 
-2. 5e-2 kg multi-ingot/ wafer |
+1,79 kg lingot/ kg brique |
 
-cell, mono, 156mm x 156mm |
+Brique multi/ monolike (Ingot to brick) |
 
-1.03 wafers/ cell |
+1,56 kg lingot/ kg brique |
 
-cell, multi and monolike, 156mm x 156mm |
+Plaquette (wafer), |
 
-1.04 wafers/ cell |
+[(perte sciage + épaisseur wafer) * densité du silicium * surface wafer] kg brique/ wafer |
 
-module, mono/ multi, number of cells, 156mm x 156mm |
+Cellule mono, multi et monolike |
 
-1.02 x nb cells/ module |
+1,01 m2 plaquette/ m2 cellule |
 
-glass |
+Module, mono/ multi, m2 de cellules |
 
-1.01 kg glass/ kg glass in module |
+1,02 m2 cellule/ module |
 
-glass tempering |
+Verre |
 
-1.01 kg glass/ kg glass in module |
+1 kg verre/ kg verre par module |
 
-EVA foil |
+Verre trempé |
 
-1.01 kg EVA/ kg EVA in module |
+1 kg verre/ kg verre par module |
 
-PET granulate |
+Feuille d'encapsulant (EVA, POE …) |
 
-1.01 kg PET/ kg PET in module |
+1,01 kg encapsulant/ kg encapsulant par module |
 
-PVF film |
+Feuille face arrière (PET/ POE/ PVF) |
 
-1.01 kg PVF/ kg PVF in module |
+1,02 kg feuille arrière/ kg feuille arrière par module |
 
-modules, a-Si |
-
-Non concerné |
-
-modules, a-Si/ μ c-Si |
+Modules, a-Si |
 
 Non concerné |
 
-modules, CdTe, First Solar |
+Modules, a-Si/ μ c-Si |
 
 Non concerné |
 
-modules, CIGS |
+Modules, CdTe, |
 
 Non concerné |
 
-Exemple : considérons un module de 1,6 m2 de 60 cellules en silicium multicristallin.
+Modules, CIGS |
 
-La masse d'EVA contenu dans un module est de 1,422 kg. La masse d'EVA nécessaire à la fabrication d'un module s'élève à 1,436 kg en tenant compte des pertes. On multiplie en effet 1,422 kg par le coefficient du tableau 2 égal à 1,01 kg EVA/ kg EVA dans le module.
+Non concerné |
+
+Le recyclage du polysilicium des pertes et casses de la fabrication du lingot est pris en compte avec une valeur d'émission valeurs de GWPij définies dans le tableau 3 (valeur par défaut = 0 kgCO2eq/ kg).
+
+Exemple :
+
+Considérons un module de 2,56 m2 contenant 72 cellules 182 × 182 mm2 en silicium monocristallin. L'épaisseur du wafer est de 160 µm.
+
+La masse d'encapsulant (EVA) contenu dans ce module est de 2,5 kg. La masse d'encapsulant nécessaire à la fabrication d'un module s'élève à 2,525 kg en tenant compte des pertes. On multiplie en effet 2,5 kg par le coefficient du tableau 2 égal à 1,01 kg EVA/ kg EVA dans le module.
 
 Le tableau suivant présente les résultats des quantités de composants nécessaires à la fabrication du module, incluant les pertes et casses :
 
@@ -554,2050 +572,2892 @@ Matériaux/ composant |
 
 Quantité contenue dans un module (pertes et casses négligées) |
 
-Quantité nécessaire à la fabrication d'un module |
+Quantité nécessaire
 
-Coefficient de pertes/ casses |
+à la fabrication d'un module |
 
-EVA |
+Coefficient de pertes et casses |
 
-1,422 kg |
+Encapsulant |
 
-1,436 kg |
+2,5 kg |
+
+2,525 kg |
 
 1,01 kg/ kg EVA |
 
-PET |
+Face arrière |
 
-0,408 kg |
+1,08 kg |
 
-0,424 kg |
+1,10 kg |
 
-1.04 kg/ kg PET |
+1,02 kg/ kg PET |
 
 Verre |
 
-13,28 kg |
+20,5 kg |
 
-13,41 kg |
+20,5 kg |
 
-1,01 kg/ kg Verre |
+1,00 kg/ kg Verre |
 
 Trempe |
 
-13,28 kg |
+20,5 kg |
 
-13,41 kg |
+20,5 kg |
 
-1,01 kg/ kg Verre |
+1,00 kg/ kg Verre |
 
 Module (m2) |
 
-1,6 |
+2,56 |
 
-1,6 |
+2,56 |
 
 1 |
 
-Cellules (nbre) |
+Cellules (m2) |
 
-60 |
+2,38
 
-61,2 |
+= 72 * 0,182 * 0,182 |
 
-1,02 x nb cellules/ module |
+2,43 |
 
-Wafers (nbre) |
+1,02 x m2 cellule/ module |
 
-60 |
+Plaquette (m2) |
 
-63,65 |
+2,38 |
 
-1,04 wafers/ cellule |
+2,46 |
 
-Lingot multi Si (kg) |
+1,01 m2 plaquette/ m2 cellule |
 
-0,70 |
+Brique (kg) |
 
-1,578 |
+0,89 |
 
-2,48 10-2 kg/ wafer |
+1,32
+
+= 2, 46* (160 + 70) *2330*10-6 |
+
+|
+
+Lingot mono Si (kg) |
+
+0,89 |
+
+2,36 |
+
+1,79 kg lingot/ kg brique |
 
 Polysilicium (kg) |
 
-0,70 |
+0,89 |
 
-1.594 |
+2,45 |
 
-1,01 kg polySi/ kg ingot |
+1,04 kg polySi/ kg ingot |
+
+Silicium métallurgique (MG-Si) |
+
+0,89 |
+
+2,77 |
+
+1,13 kg MG-Si/ kg Poly Si |
 
 Il reste ensuite à déterminer Q, quantité de composant nécessaire à la fabrication d'un kWc de module, et d'appliquer la formule 2 pour calculer G.
 
-Tableau 3.-Valeurs des émissions de GES en CO2eq pour la fabrication des composants
+Tableau 3.-Valeurs des émissions de GES en CO2eq pour la fabrication des composants : GWP = Global Warming Potential, IPCC2021 GWP100ans Simapro 9.3 (sources : Ecoinvent 3.9, CEA INES)
 
-GWP = Global Warming Potential IPCC2007 GWP100a v1. 02 in Simapro 7.3.3, Croatie Simapro 8.1.1.
+Etape de fabrication/
 
-Source : Mariska de Wild-Scholten, SmartGreenScans, mars 2016.
+Matériau |
 
-Process step/ Material |
+Unité |
 
-Unit |
+Autriche |
 
-Austria |
+Belgique |
 
-Belgium |
+Bulgarie |
 
-Bulgaria |
+Suisse |
 
-Switzerland |
+Chypre |
 
-Cyprus |
+République Tchèque |
 
-Czech Republic |
+Allemagne |
 
-Germany |
+Danemark |
 
-Denmark |
+Estonie |
 
-Estonia |
+Espagne |
 
-Spain |
-
-Finland |
-
-polySi, Siemens process |
-
-kg CO2-eq/ kg |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-87,724 |
-
-|
-
-|
-
-|
-
-|
-
-ingot processing, mono |
-
-kg CO2-eq/ kg |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-47,310 |
-
-|
-
-|
-
-|
-
-|
-
-ingot processing, multi |
-
-kg CO2-eq/ kg |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-10,819 |
-
-|
-
-|
-
-|
-
-|
-
-wafers processing, mono, 156 mm x 156 mm |
-
-kg CO2-eq/ wafer |
-
-0,536 |
-
-0,547 |
-
-0,724 |
-
-0,351 |
-
-0,901 |
-
-0,825 |
-
-0,761 |
-
-0,736 |
-
-1,053 |
-
-0,665 |
-
-0,581 |
-
-wafers processing, multi, 156 mm x 156 mm |
-
-kg CO2-eq/ wafer |
-
-0,464 |
-
-0,472 |
-
-0,616 |
-
-0,314 |
-
-0,760 |
-
-0,697 |
-
-0,646 |
-
-0,625 |
-
-0,883 |
-
-0,568 |
-
-0,500 |
-
-cell processing, mono, 156 mm x 156 mm |
-
-kg CO2-eq/ cell |
-
-0,224 |
-
-0,230 |
-
-0,329 |
-
-0,120 |
-
-0,429 |
-
-0,386 |
-
-0,350 |
-
-0,336 |
-
-0,514 |
-
-0,296 |
-
-0,249 |
-
-cells processing, multi, 156 mm x 156 mm |
-
-kg CO2-eq/ cell |
-
-0,282 |
-
-0,288 |
-
-0,387 |
-
-0,178 |
-
-0,486 |
-
-0,443 |
-
-0,408 |
-
-0,394 |
-
-0,571 |
-
-0,354 |
-
-0,307 |
-
-glass |
-
-kg CO2-eq/ kg |
-
-1,070 |
-
-1,072 |
-
-1,103 |
-
-1,037 |
-
-1,135 |
-
-1,121 |
-
-1,110 |
-
-1,105 |
-
-1,162 |
-
-1,093 |
-
-1,078 |
-
-glass tempering |
-
-kg CO2-eq/ kg |
-
-0,232 |
-
-0,232 |
-
-0,236 |
-
-0,228 |
-
-0,239 |
-
-0,238 |
-
-0,236 |
-
-0,236 |
-
-0,243 |
-
-0,234 |
-
-0,232 |
-
-EVA foil |
-
-kg CO2-eq/ kg |
-
-2,629 |
-
-2,634 |
-
-2,731 |
-
-2,528 |
-
-2,827 |
-
-2,785 |
-
-2,751 |
-
-2,737 |
-
-2,910 |
-
-2,699 |
-
-2,653 |
-
-PET granulate |
-
-kg CO2-eq/ kg |
-
-2,657 |
-
-2,660 |
-
-2,715 |
-
-2,600 |
-
-2,770 |
-
-2,747 |
-
-2,727 |
-
-2,719 |
-
-2,818 |
-
-2,697 |
-
-2,671 |
-
-PVF film |
-
-kg CO2-eq/ kg |
-
-19,085 |
-
-19,221 |
-
-21,504 |
-
-16,693 |
-
-23,795 |
-
-22,806 |
-
-21,985 |
-
-21,658 |
-
-25,756 |
-
-20,745 |
-
-19,666 |
-
-modules processing mono or multi |
-
-kg CO2-eq/ m2 module |
-
-8,298 |
-
-8,360 |
-
-9,416 |
-
-7,191 |
-
-10,476 |
-
-10,018 |
-
-9,639 |
-
-9,488 |
-
-11,383 |
-
-9,065 |
-
-8,566 |
-
-modules processing a-Si |
-
-kg CO2-eq/ m2 module |
-
-25,091 |
-
-25,726 |
-
-36,459 |
-
-13,847 |
-
-47,228 |
-
-42,578 |
-
-38,719 |
-
-37,186 |
-
-56,445 |
-
-32,894 |
-
-27,820 |
-
-modules processing a-Si/ µc-Si |
-
-kg CO2-eq/ m2 module |
-
-26,782 |
-
-27,833 |
-
-45,575 |
-
-8,194 |
-
-63,380 |
-
-55,692 |
-
-49,313 |
-
-46,778 |
-
-78,617 |
-
-39,683 |
-
-31,294 |
-
-modules processing CdTe, |
-
-kg CO2-eq/ m2 module |
-
-14,821 |
-
-15,290 |
-
-23,194 |
-
-6,541 |
-
-31,126 |
-
-27,701 |
-
-24,859 |
-
-23,730 |
-
-37,914 |
-
-20,569 |
-
-16,832 |
-
-modules processing CIGS |
-
-kg CO2-eq/ m2 module |
-
-35,926 |
-
-36,675 |
-
-49,336 |
-
-22,662 |
-
-62,040 |
-
-56,555 |
-
-52,003 |
-
-50,194 |
-
-72,913 |
-
-45,131 |
-
-39,146 |
-
-Process step/ Material |
-
-Unit |
+Finlande |
 
 France |
 
-United Kingdom |
+Silicium Métallurgique MG-Si |
 
-Greece |
+kg CO2-eq/ kg |
 
-Croatia |
+7,73 |
 
-Hungary |
+7,11 |
 
-Ireland |
+10,74 |
 
-Iceland |
+5,22 |
 
-Italy |
+16,89 |
 
-Liechtenstein |
+12,25 |
 
-Lithuania |
+10,06 |
+
+7,21 |
+
+11,96 |
+
+7,82 |
+
+7,34 |
+
+5,73 |
+
+polySi, Siemens process |
+
+kg CO2-eq/ kg |
+
+29,72 |
+
+25,81 |
+
+48,88 |
+
+13,78 |
+
+88,02 |
+
+58,51 |
+
+44,59 |
+
+26,40 |
+
+56,64 |
+
+30,30 |
+
+27,23 |
+
+17,04 |
+
+Réalisation du Lingot, mono |
+
+kg CO2-eq/ kg |
+
+16,52 |
+
+14,74 |
+
+25,28 |
+
+9,24 |
+
+43,17 |
+
+29,68 |
+
+23,32 |
+
+15,01 |
+
+28,83 |
+
+16,79 |
+
+15,39 |
+
+10,73 |
+
+Réalisation du lingot, multi |
+
+kg CO2-eq/ kg |
+
+2,44 |
+
+2,05 |
+
+4,36 |
+
+0,85 |
+
+8,27 |
+
+5,32 |
+
+3,93 |
+
+2,11 |
+
+5,14 |
+
+2,50 |
+
+2,20 |
+
+1,18 |
+
+Réalisation du lingot, monolike |
+
+kg CO2-eq/ kg |
+
+5,07 |
+
+4,68 |
+
+6,99 |
+
+3,48 |
+
+10,90 |
+
+7,95 |
+
+6,56 |
+
+4,74 |
+
+7,76 |
+
+5,13 |
+
+4,82 |
+
+3,80 |
+
+Réalisation de la brique |
+
+kg CO2-eq/ kg |
+
+0,87 |
+
+0,80 |
+
+1,20 |
+
+0,59 |
+
+1,87 |
+
+1,36 |
+
+1,12 |
+
+0,81 |
+
+1,33 |
+
+0,88 |
+
+0,82 |
+
+0,65 |
+
+Fabrication des plaquettes mono |
+
+kg CO2-eq/ m2 |
+
+3,72 |
+
+3,44 |
+
+5,08 |
+
+2,59 |
+
+7,86 |
+
+5,76 |
+
+4,77 |
+
+3,48 |
+
+5,63 |
+
+3,76 |
+
+3,54 |
+
+2,82 |
+
+Fabrication des plaquettes multi/ monolike |
+
+kg CO2-eq/ m2 |
+
+4,12 |
+
+3,85 |
+
+5,47 |
+
+3,00 |
+
+8,22 |
+
+6,15 |
+
+5,17 |
+
+3,89 |
+
+6,02 |
+
+4,16 |
+
+3,95 |
+
+3,23 |
+
+Réalisation des cellules |
+
+Kg CO2-eq/ m2 |
+
+20,52 |
+
+19,12 |
+
+27,37 |
+
+14,82 |
+
+41,37 |
+
+30,81 |
+
+25,84 |
+
+19,33 |
+
+30,15 |
+
+20,73 |
+
+19,63 |
+
+15,99 |
+
+Verre |
+
+kg CO2-eq/ kg |
+
+1,00 |
+
+1,00 |
+
+1,03 |
+
+0,98 |
+
+1,09 |
+
+1,05 |
+
+1,02 |
+
+1,00 |
+
+1,04 |
+
+1,00 |
+
+1,00 |
+
+0,98 |
+
+Verre trempé |
+
+kg CO2-eq/ kg |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,08 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+Encapsulant (EVA ou équivalent) |
+
+kg CO2-eq/ kg |
+
+2,69 |
+
+2,65 |
+
+2,88 |
+
+2,54 |
+
+3,25 |
+
+2,97 |
+
+2,84 |
+
+2,66 |
+
+2,95 |
+
+2,70 |
+
+2,67 |
+
+2,57 |
+
+Feuille face arrière (PET ou équivalent) |
+
+kg CO2-eq/ kg |
+
+3,71 |
+
+3,67 |
+
+3,90 |
+
+3,56 |
+
+4,27 |
+
+3,99 |
+
+3,86 |
+
+3,68 |
+
+3,97 |
+
+3,72 |
+
+3,69 |
+
+3,59 |
+
+Feuille face arrière (PVF) |
+
+kg CO2-eq/ kg |
+
+20,52 |
+
+20,37 |
+
+21,29 |
+
+19,89 |
+
+22,86 |
+
+21,68 |
+
+21,12 |
+
+20,39 |
+
+21,60 |
+
+20,55 |
+
+20,43 |
+
+20,02 |
+
+Module cristallin |
+
+kg CO2-eq/ m2 module |
+
+4,96 |
+
+4,75 |
+
+5,99 |
+
+4,10 |
+
+8,10 |
+
+6,51 |
+
+5,76 |
+
+4,78 |
+
+6,41 |
+
+4,99 |
+
+4,82 |
+
+4,27 |
+
+Fabrication module a-Si |
+
+kg CO2-eq/ m2 module |
+
+25,18 |
+
+22,49 |
+
+38,38 |
+
+14,20 |
+
+65,34 |
+
+45,01 |
+
+35,42 |
+
+22,90 |
+
+43,73 |
+
+25,58 |
+
+23,47 |
+
+16,45 |
+
+Fabrication module CdTe, |
+
+kg CO2-eq/ m2 module |
+
+25,55 |
+
+22,30 |
+
+41,45 |
+
+12,31 |
+
+73,95 |
+
+49,45 |
+
+37,89 |
+
+22,79 |
+
+47,90 |
+
+26,03 |
+
+23,48 |
+
+15,02 |
+
+Fabrication module CIGS |
+
+kg CO2-eq/ m2 module |
+
+39,73 |
+
+32,89 |
+
+73,23 |
+
+11,87 |
+
+141,65 |
+
+90,06 |
+
+65,72 |
+
+33,93 |
+
+86,80 |
+
+40,75 |
+
+35,38 |
+
+17,56 |
+
+Etape de fabrication/
+
+Matériau |
+
+Unité |
+
+Royaume-Uni |
+
+Grèce |
+
+Croatie |
+
+Hongrie |
+
+Irlande |
+
+Islande |
+
+Italie |
+
+Lituanie |
 
 Luxembourg |
 
-Latvia |
+Lettonie |
+
+Malte |
+
+Pays-Bas |
+
+Silicium Métallurgique MG-Si |
+
+kg CO2-eq/ kg |
+
+8,12 |
+
+12,77 |
+
+9,40 |
+
+9,30 |
+
+9,65 |
+
+5,44 |
+
+9,29 |
+
+9,84 |
+
+9,24 |
+
+10,60 |
+
+10,11 |
+
+10,43 |
 
 polySi, Siemens process |
 
 kg CO2-eq/ kg |
 
-23,117 |
+32,21 |
 
-|
+61,83 |
 
-|
+40,38 |
 
-|
+39,75 |
 
-|
+41,96 |
 
-|
+15,17 |
 
-|
+39,64 |
 
-|
+43,18 |
 
-|
+39,33 |
 
-|
+47,98 |
 
-|
+44,85 |
 
-|
+46,95 |
 
-ingot processing, mono |
-
-kg CO2-eq/ kg |
-
-7,268 |
-
-43,068 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-ingot processing, multi |
+Réalisation du Lingot, mono |
 
 kg CO2-eq/ kg |
 
-1,724 |
+17,66 |
 
-9,856 |
+31,20 |
 
-|
+21,40 |
 
-|
+21,11 |
 
-|
+22,12 |
 
-|
+9,87 |
 
-|
+21,06 |
 
-|
+22,68 |
 
-|
+20,92 |
 
-|
+24,87 |
 
-|
+23,44 |
 
-|
+24,40 |
 
-wafers processing, mono, 156 mm x 156 mm |
-
-kg CO2-eq/ wafer |
-
-0,394 |
-
-0,722 |
-
-0,980 |
-
-0,515 |
-
-0,782 |
-
-0,836 |
-
-0,350 |
-
-0,743 |
-
-0,368 |
-
-0,429 |
-
-0,674 |
-
-0,491 |
-
-wafers processing, multi, 156 mm x 156 mm |
-
-kg CO2-eq/ wafer |
-
-0,349 |
-
-0,614 |
-
-0,823 |
-
-0,477 |
-
-0,663 |
-
-0,706 |
-
-0,313 |
-
-0,631 |
-
-0,327 |
-
-0,377 |
-
-0,575 |
-
-0,427 |
-
-cell processing, mono, 156 mm x 156 mm |
-
-kg CO2-eq/ cell |
-
-0,145 |
-
-0,328 |
-
-0,473 |
-
-0,238 |
-
-0,362 |
-
-0,392 |
-
-0,120 |
-
-0,340 |
-
-0,130 |
-
-0,164 |
-
-0,301 |
-
-0,199 |
-
-cells processing, multi, 156 mm x 156 mm |
-
-kg CO2-eq/ cell |
-
-0,202 |
-
-0,386 |
-
-0,530 |
-
-0,291 |
-
-0,420 |
-
-0,450 |
-
-0,177 |
-
-0,398 |
-
-0,187 |
-
-0,222 |
-
-0,359 |
-
-0,257 |
-
-glass |
+Réalisation du lingot, multi |
 
 kg CO2-eq/ kg |
 
-1,045 |
+2,69 |
 
-1,103 |
+5,66 |
 
-1,149 |
+3,51 |
 
-1,073 |
+3,45 |
 
-1,114 |
+3,67 |
 
-1,123 |
+0,99 |
 
-1,037 |
+3,44 |
 
-1,107 |
+3,79 |
 
-1,040 |
+3,41 |
 
-1,051 |
+4,27 |
 
-1,094 |
+3,96 |
 
-1,062 |
+4,17 |
 
-glass tempering |
-
-kg CO2-eq/ kg |
-
-0,228 |
-
-0,235 |
-
-0,241 |
-
-0,232 |
-
-0,237 |
-
-0,238 |
-
-0,228 |
-
-0,236 |
-
-0,228 |
-
-0,229 |
-
-0,234 |
-
-0,231 |
-
-EVA foil |
+Réalisation du lingot, monolike |
 
 kg CO2-eq/ kg |
 
-2,551 |
+5,32 |
 
-2,730 |
+8,28 |
 
-2,870 |
+6,14 |
 
-2,637 |
+6,08 |
 
-2,762 |
+6,30 |
 
-2,791 |
+3,62 |
 
-2,527 |
+6,06 |
 
-2,741 |
+6,42 |
 
-2,537 |
+6,03 |
 
-2,570 |
+6,90 |
 
-2,703 |
+6,59 |
 
-2,604 |
+6,79 |
 
-PET granulate |
-
-kg CO2-eq/ kg |
-
-2,613 |
-
-2,715 |
-
-2,795 |
-
-2,662 |
-
-2,733 |
-
-2,750 |
-
-2,599 |
-
-2,721 |
-
-2,605 |
-
-2,624 |
-
-2,700 |
-
-2,643 |
-
-PVF film |
+Réalisation de la brique |
 
 kg CO2-eq/ kg |
 
-17,248 |
+0,91 |
 
-21,483 |
+1,42 |
 
-24,811 |
+1,05 |
 
-19,286 |
+1,04 |
 
-22,259 |
+1,08 |
 
-22,948 |
+0,61 |
 
-16,677 |
+1,04 |
 
-21,749 |
+1,10 |
 
-16,905 |
+1,03 |
 
-17,701 |
+1,18 |
 
-20,854 |
+1,13 |
 
-18,500 |
+1,16 |
 
-modules processing mono or multi |
+Fabrication des plaquettes mono |
+
+kg CO2-eq/ m2 |
+
+3,89 |
+
+6,00 |
+
+4,47 |
+
+4,43 |
+
+4,59 |
+
+2,68 |
+
+4,42 |
+
+4,67 |
+
+4,40 |
+
+5,01 |
+
+4,79 |
+
+4,94 |
+
+Fabrication des plaquettes multi/ monolike |
+
+kg CO2-eq/ m2 |
+
+4,30 |
+
+6,38 |
+
+4,87 |
+
+4,83 |
+
+4,98 |
+
+3,10 |
+
+4,82 |
+
+5,07 |
+
+4,80 |
+
+5,41 |
+
+5,19 |
+
+5,33 |
+
+Réalisation des cellules |
+
+Kg CO2-eq/ m2 |
+
+21,41 |
+
+32,00 |
+
+24,33 |
+
+24,11 |
+
+24,90 |
+
+15,32 |
+
+24,07 |
+
+25,34 |
+
+23,96 |
+
+27,05 |
+
+25,93 |
+
+26,68 |
+
+Verre |
+
+kg CO2-eq/ kg |
+
+1,01 |
+
+1,05 |
+
+1,02 |
+
+1,02 |
+
+1,02 |
+
+0,98 |
+
+1,02 |
+
+1,02 |
+
+1,02 |
+
+1,03 |
+
+1,03 |
+
+1,03 |
+
+Verre trempé |
+
+kg CO2-eq/ kg |
+
+0,07 |
+
+0,08 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+Encapsulant (EVA ou équivalent) |
+
+kg CO2-eq/ kg |
+
+2,72 |
+
+3,00 |
+
+2,79 |
+
+2,79 |
+
+2,81 |
+
+2,55 |
+
+2,79 |
+
+2,82 |
+
+2,78 |
+
+2,87 |
+
+2,84 |
+
+2,86 |
+
+Feuille face arrière (PET ou équivalent) |
+
+kg CO2-eq/ kg |
+
+3,74 |
+
+4,02 |
+
+3,81 |
+
+3,81 |
+
+3,83 |
+
+3,57 |
+
+3,81 |
+
+3,84 |
+
+3,80 |
+
+3,89 |
+
+3,86 |
+
+3,88 |
+
+Feuille face arrière (PVF) |
+
+kg CO2-eq/ kg |
+
+20,62 |
+
+21,81 |
+
+20,95 |
+
+20,93 |
+
+21,01 |
+
+19,94 |
+
+20,92 |
+
+21,06 |
+
+20,91 |
+
+21,26 |
+
+21,13 |
+
+21,21 |
+
+Module cristallin |
 
 kg CO2-eq/ m2 module |
 
-7,448 |
+5,09 |
 
-9,406 |
+6,69 |
 
-10,946 |
+5,53 |
 
-8,379 |
+5,50 |
 
-9,765 |
+5,62 |
 
-10,084 |
+4,17 |
 
-7,184 |
+5,49 |
 
-9,530 |
+5,68 |
 
-7,289 |
+5,47 |
 
-7,657 |
+5,94 |
 
-9,116 |
+5,77 |
 
-8,027 |
+5,88 |
 
-modules processing a-Si |
-
-kg CO2-eq/ m2 module |
-
-16,454 |
-
-36,360 |
-
-52,005 |
-
-26,035 |
-
-40,007 |
-
-43,247 |
-
-13,772 |
-
-37,612 |
-
-14,840 |
-
-18,585 |
-
-33,405 |
-
-22,338 |
-
-modules processing a-Si/ µc-Si |
+Fabrication module a-Si |
 
 kg CO2-eq/ m2 module |
 
-12,503 |
+26,90 |
 
-45,413 |
+47,30 |
 
-71,276 |
+32,53 |
 
-28,342 |
+32,09 |
 
-51,442 |
+33,62 |
 
-56,798 |
+15,16 |
 
-8,070 |
+32,02 |
 
-47,483 |
+34,46 |
 
-9,835 |
+31,80 |
 
-16,026 |
+37,76 |
 
-40,527 |
+35,61 |
 
-22,232 |
+37,05 |
 
-modules processing CdTe, |
-
-kg CO2-eq/ m2 module |
-
-8,461 |
-
-23,122 |
-
-34,643 |
-
-15,517 |
-
-25,808 |
-
-28,193 |
-
-6,486 |
-
-24,044 |
-
-7,272 |
-
-10,030 |
-
-20,945 |
-
-12,795 |
-
-modules processing CIGS |
+Fabrication module CdTe, |
 
 kg CO2-eq/ m2 module |
 
-25,737 |
+27,61 |
 
-49,220 |
+52,21 |
 
-67,675 |
+34,40 |
 
-34,474 |
+33,88 |
 
-53,522 |
+35,71 |
 
-57,344 |
+13,47 |
 
-22,574 |
+33,78 |
 
-50,697 |
+36,72 |
 
-23,833 |
+33,53 |
 
-28,251 |
+40,71 |
 
-45,733 |
+38,11 |
 
-32,679 |
+39,85 |
 
-Process step/ Material |
+Fabrication module CIGS |
 
-Unit |
+kg CO2-eq/ m2 module |
 
-Malta |
+44,09 |
 
-Netherlands |
+95,87 |
 
-Norway |
+58,37 |
 
-Poland |
+57,27 |
+
+61,14 |
+
+14,29 |
+
+57,07 |
+
+63,27 |
+
+56,53 |
+
+71,66 |
+
+66,19 |
+
+69,85 |
+
+Etape de fabrication/
+
+Matériau |
+
+Unité |
+
+Norvège |
+
+Pologne |
 
 Portugal |
 
-Romania |
+Roumanie |
 
-Sweden |
+Suède |
 
-Slovenia |
+Slovénie |
 
-Slovakia |
+Slovaquie |
+
+Chine |
+
+Japon |
+
+Corée
+
+du Sud |
+
+Malaisie |
+
+Philippines |
+
+Silicium Métallurgique MG-Si |
+
+kg CO2-eq/ kg |
+
+5,18 |
+
+15,28 |
+
+8,57 |
+
+9,32 |
+
+5,28 |
+
+8,83 |
+
+9,41 |
+
+15,37 |
+
+12,24 |
+
+12,56 |
+
+14,24 |
+
+14,98 |
 
 polySi, Siemens process |
 
 kg CO2-eq/ kg |
 
-|
+13,54 |
 
-|
+77,81 |
 
-|
+35,08 |
 
-|
+39,89 |
 
-|
+14,15 |
 
-|
+36,74 |
 
-|
+40,43 |
 
-|
+75,21 |
 
-|
+55,27 |
 
-ingot processing, mono |
+57,34 |
 
-kg CO2-eq/ kg |
+68,02 |
 
-|
+72,72 |
 
-|
-
-1,836 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-ingot processing, multi |
+Réalisation du Lingot, mono |
 
 kg CO2-eq/ kg |
 
-|
+9,12 |
 
-|
+38,51 |
 
-0,490 |
+18,97 |
 
-|
+21,17 |
 
-|
+9,40 |
 
-|
+19,73 |
 
-|
+21,42 |
 
-|
+38,77 |
 
-|
+29,66 |
 
-wafers processing, mono, 156 mm x 156 mm |
+30,60 |
 
-kg CO2-eq/ wafer |
+35,49 |
 
-0,821 |
+37,64 |
 
-0,773 |
-
-0,344 |
-
-1,063 |
-
-0,730 |
-
-0,759 |
-
-0,363 |
-
-0,651 |
-
-0,574 |
-
-wafers processing, multi, 156 mm x 156 mm |
-
-kg CO2-eq/ wafer |
-
-0,695 |
-
-0,656 |
-
-0,308 |
-
-0,890 |
-
-0,620 |
-
-0,644 |
-
-0,323 |
-
-0,557 |
-
-0,494 |
-
-cell processing, mono, 156 mm x 156 mm |
-
-kg CO2-eq/ cell |
-
-0,384 |
-
-0,357 |
-
-0,117 |
-
-0,519 |
-
-0,332 |
-
-0,349 |
-
-0,127 |
-
-0,289 |
-
-0,245 |
-
-cells processing, multi, 156 mm x 156 mm |
-
-kg CO2-eq/ cell |
-
-0,441 |
-
-0,415 |
-
-0,174 |
-
-0,577 |
-
-0,390 |
-
-0,407 |
-
-0,185 |
-
-0,346 |
-
-0,303 |
-
-glass |
+Réalisation du lingot, multi |
 
 kg CO2-eq/ kg |
 
-1,121 |
+0,83 |
 
-1,112 |
+7,25 |
 
-1,036 |
+2,98 |
 
-1,164 |
+3,46 |
 
-1,104 |
+0,89 |
 
-1,110 |
+3,15 |
 
-1,039 |
+3,52 |
 
-1,090 |
+7,64 |
 
-1,077 |
+5,64 |
 
-glass tempering |
+5,85 |
 
-kg CO2-eq/ kg |
+6,92 |
 
-0,238 |
+7,39 |
 
-0,237 |
-
-0,227 |
-
-0,243 |
-
-0,236 |
-
-0,236 |
-
-0,228 |
-
-0,234 |
-
-0,232 |
-
-EVA foil |
+Réalisation du lingot, monolike |
 
 kg CO2-eq/ kg |
 
-2,783 |
+3,45 |
 
-2,757 |
+9,88 |
 
-2,524 |
+5,61 |
 
-2,915 |
+6,09 |
 
-2,734 |
+3,51 |
 
-2,750 |
+5,77 |
 
-2,534 |
+6,14 |
 
-2,691 |
+9,93 |
 
-2,649 |
+7,94 |
 
-PET granulate |
+8,15 |
 
-kg CO2-eq/ kg |
+9,22 |
 
-2,746 |
+9,69 |
 
-2,731 |
-
-2,597 |
-
-2,821 |
-
-2,717 |
-
-2,726 |
-
-2,603 |
-
-2,693 |
-
-2,669 |
-
-PVF film |
+Réalisation de la brique |
 
 kg CO2-eq/ kg |
 
-22,760 |
+0,59 |
 
-22,141 |
+1,70 |
 
-16,605 |
+0,96 |
 
-25,879 |
+1,04 |
 
-21,579 |
+0,60 |
 
-21,957 |
+0,99 |
 
-16,846 |
+1,05 |
 
-20,568 |
+1,71 |
 
-19,564 |
+1,36 |
 
-modules processing mono or multi |
+1,40 |
+
+1,58 |
+
+1,66 |
+
+Fabrication des plaquettes mono |
+
+kg CO2-eq/ m2 |
+
+2,57 |
+
+7,13 |
+
+4,10 |
+
+4,44 |
+
+2,61 |
+
+4,22 |
+
+4,48 |
+
+7,37 |
+
+5,95 |
+
+6,10 |
+
+6,86 |
+
+7,19 |
+
+Fabrication des plaquettes multi/ monolike |
+
+kg CO2-eq/ m2 |
+
+2,99 |
+
+7,50 |
+
+4,50 |
+
+4,84 |
+
+3,03 |
+
+4,62 |
+
+4,88 |
+
+7,09 |
+
+5,69 |
+
+5,84 |
+
+6,59 |
+
+6,92 |
+
+Réalisation des cellules |
+
+Kg CO2-eq/ m2 |
+
+14,73 |
+
+37,71 |
+
+22,44 |
+
+24,16 |
+
+14,95 |
+
+23,03 |
+
+24,35 |
+
+37,91 |
+
+30,78 |
+
+31,52 |
+
+35,34 |
+
+37,02 |
+
+Verre |
+
+kg CO2-eq/ kg |
+
+0,98 |
+
+1,08 |
+
+1,01 |
+
+1,02 |
+
+0,98 |
+
+1,01 |
+
+1,02 |
+
+1,08 |
+
+1,04 |
+
+1,05 |
+
+1,06 |
+
+1,07 |
+
+Verre trempé |
+
+kg CO2-eq/ kg |
+
+0,07 |
+
+0,08 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,07 |
+
+0,06 |
+
+0,06 |
+
+0,06 |
+
+0,06 |
+
+0,06 |
+
+Encapsulant (EVA ou équivalent) |
+
+kg CO2-eq/ kg |
+
+2,54 |
+
+3,15 |
+
+2,74 |
+
+2,79 |
+
+2,54 |
+
+2,76 |
+
+2,80 |
+
+3,45 |
+
+3,26 |
+
+3,28 |
+
+3,38 |
+
+3,42 |
+
+Feuille face arrière (PET ou équivalent) |
+
+kg CO2-eq/ kg |
+
+3,56 |
+
+4,17 |
+
+3,76 |
+
+3,81 |
+
+3,56 |
+
+3,78 |
+
+3,82 |
+
+4,14 |
+
+3,95 |
+
+3,97 |
+
+4,07 |
+
+4,11 |
+
+Feuille face arrière (PVF) |
+
+kg CO2-eq/ kg |
+
+19,88 |
+
+22,45 |
+
+20,74 |
+
+20,93 |
+
+19,90 |
+
+20,81 |
+
+20,95 |
+
+21,97 |
+
+21,17 |
+
+21,26 |
+
+21,68 |
+
+21,87 |
+
+Module cristallin |
 
 kg CO2-eq/ m2 module |
 
-9,997 |
+4,08 |
 
-9,711 |
+7,55 |
 
-7,151 |
+5,24 |
 
-11,440 |
+5,50 |
 
-9,451 |
+4,12 |
 
-9,626 |
+5,33 |
 
-7,262 |
+5,53 |
 
-8,983 |
+7,57 |
 
-8,519 |
+6,50 |
 
-modules processing a-Si |
+6,61 |
 
-kg CO2-eq/ m2 module |
+7,19 |
 
-42,365 |
+7,44 |
 
-39,454 |
-
-13,433 |
-
-57,024 |
-
-36,813 |
-
-38,590 |
-
-14,564 |
-
-32,060 |
-
-27,343 |
-
-modules processing a-Si/ µc-Si |
+Fabrication module a-Si |
 
 kg CO2-eq/ m2 module |
 
-55,340 |
+14,03 |
 
-50,527 |
+58,31 |
 
-7,509 |
+28,88 |
 
-79,574 |
+32,18 |
 
-46,161 |
+14,45 |
 
-49,099 |
+30,02 |
 
-9,379 |
+32,56 |
 
-38,304 |
+58,68 |
 
-30,505 |
+44,94 |
 
-modules processing CdTe, |
+46,37 |
 
-kg CO2-eq/ m2 module |
+53,73 |
 
-27,544 |
+56,96 |
 
-25,400 |
-
-6,236 |
-
-38,340 |
-
-23,455 |
-
-24,764 |
-
-7,069 |
-
-19,955 |
-
-16,480 |
-
-modules processing CIGS |
+Fabrication module CdTe, |
 
 kg CO2-eq/ m2 module |
 
-56,303 |
+12,11 |
 
-52,869 |
+65,47 |
 
-22,174 |
+30,00 |
 
-73,596 |
+33,99 |
 
-49,754 |
+12,61 |
 
-51,850 |
+31,38 |
 
-23,508 |
+34,44 |
 
-44,147 |
+65,92 |
 
-38,582 |
+49,36 |
 
-Process step/ Material |
+51,08 |
 
-Unit |
+59,95 |
 
-China |
+63,85 |
 
-Japan |
+Fabrication module CIGS |
 
-South-Korea |
+kg CO2-eq/ m2 module |
 
-Malaysia |
+11,43 |
 
-Philippines |
+123,80 |
+
+49,10 |
+
+57,50 |
+
+12,50 |
+
+52,01 |
+
+58,46 |
+
+124,75 |
+
+89,88 |
+
+93,50 |
+
+112,17 |
+
+120,39 |
+
+Etape de fabrication/
+
+Matériau |
+
+Unité |
 
 Taiwan |
 
-USA |
+Etats-Unis |
 
-Others |
-
-polySi, Siemens process |
-
-kg CO2-eq/ kg |
-
-141,023 |
-
-75,120 |
-
-85,555 |
-
-127,962 |
-
-79,309 |
-
-124,480 |
-
-93,149 |
-
-169,228 |
-
-ingot processing, mono |
-
-kg CO2-eq/ kg |
-
-80,345 |
-
-39,489 |
-
-45,966 |
-
-72,249 |
-
-42,095 |
-
-70,092 |
-
-50,673 |
-
-96,4145 |
-
-ingot processing, multi |
-
-kg CO2-eq/ kg |
-
-18,323 |
-
-9,045 |
-
-10,514 |
-
-16,484 |
-
-9,635 |
-
-15,994 |
-
-11,583 |
-
-21,988 |
-
-wafers processing, mono, 156 mm x 156 mm |
-
-kg CO2-eq/ wafer |
-
-1,064 |
-
-0,690 |
-
-0,749 |
-
-0,990 |
-
-0,713 |
-
-0,970 |
-
-0,792 |
-
-1,277 |
-
-wafers processing, multi, 156 mm x 156 mm |
-
-kg CO2-eq/ wafer |
-
-0,891 |
-
-0,588 |
-
-0,636 |
-
-0,831 |
-
-0,607 |
-
-0,815 |
-
-0,671 |
-
-1,069 |
-
-cell processing, mono, 156 mm x 156 mm |
-
-kg CO2-eq/ cell |
-
-0,520 |
-
-0,310 |
-
-0,343 |
-
-0,478 |
-
-0,323 |
-
-0,467 |
-
-0,367 |
-
-0,624 |
-
-cells processing, multi, 156 mm x 156 mm |
-
-kg CO2-eq/ cell |
-
-0,577 |
-
-0,368 |
-
-0,401 |
-
-0,536 |
-
-0,381 |
-
-0,525 |
-
-0,425 |
-
-0,692 |
-
-glass |
-
-kg CO2-eq/ kg |
-
-1,164 |
-
-1,097 |
-
-1,108 |
-
-1,151 |
-
-1,101 |
-
-1,147 |
-
-1,115 |
-
-1,397 |
-
-glass tempering |
-
-kg CO2-eq/ kg |
-
-0,243 |
-
-0,235 |
-
-0,236 |
-
-0,241 |
-
-0,235 |
-
-0,241 |
-
-0,237 |
-
-0,292 |
-
-EVA foil |
-
-kg CO2-eq/ kg |
-
-2,915 |
-
-2,712 |
-
-2,744 |
-
-2,875 |
-
-2,725 |
-
-2,864 |
-
-2,768 |
-
-3,498 |
-
-PET granulate |
-
-kg CO2-eq/ kg |
-
-2,821 |
-
-2,705 |
-
-2,723 |
-
-2,798 |
-
-2,712 |
-
-2,792 |
-
-2,736 |
-
-3,385 |
-
-PVF film |
-
-kg CO2-eq/ kg |
-
-25,892 |
-
-21,061 |
-
-21,826 |
-
-24,935 |
-
-21,368 |
-
-24,680 |
-
-22,382 |
-
-31,070 |
-
-modules processing mono or multi |
-
-kg CO2-eq/ m2 module |
-
-11,446 |
-
-9,211 |
-
-9,565 |
-
-11,003 |
-
-9,353 |
-
-10,885 |
-
-9,822 |
-
-13,735 |
-
-modules processing a-Si |
-
-kg CO2-eq/ m2 module |
-
-57,088 |
-
-34,375 |
-
-37,972 |
-
-52,587 |
-
-35,819 |
-
-51,387 |
-
-40,589 |
-
-68,506 |
-
-modules processing a-Si/ µc-Si |
-
-kg CO2-eq/ m2 module |
-
-79,680 |
-
-42,123 |
-
-48,077 |
-
-72,238 |
-
-44,518 |
-
-70,255 |
-
-52,404 |
-
-95,616 |
-
-modules processing CdTe, |
-
-kg CO2-eq/ m2 module |
-
-38,387 |
-
-21,660 |
-
-24,308 |
-
-35,072 |
-
-22,723 |
-
-34,188 |
-
-26,236 |
-
-46,064 |
-
-modules processing CIGS |
-
-kg CO2-eq/ m2 module |
-
-73,672 |
-
-46,878 |
-
-51,121 |
-
-68,361 |
-
-48,582 |
-
-66,946 |
-
-54,208 |
-
-88,406 |
-
-Tableau 4.-Facteur d'émission du mix électrique (source, Ecoinvent 3.1, IPCC2007 GWP100a)
-
-Pays |
-
-g CO2eq/ kWh |
-
-Pays |
-
-g CO2eq/ kWh |
-
-Pays |
-
-g CO2eq/ kWh |
-
-UAE |
-
-595 |
-
-World |
-
-881 |
-
-Netherlands |
-
-651 |
-
-Austria |
-
-391 |
-
-Greece |
-
-1058 |
-
-Norway |
-
-23 |
-
-Bosnia and Herzegovina |
-
-1070 |
-
-Croatia |
-
-594 |
-
-Philippines |
-
-606 |
-
-Belgium |
-
-309 |
-
-Hungary |
-
-659 |
-
-Poland |
-
-1121 |
-
-Bulgaria |
-
-690 |
-
-Ireland |
-
-737 |
-
-Portugal |
-
-578 |
-
-Brazil |
-
-262 |
-
-India |
-
-1429 |
-
-Romania |
-
-615 |
+Russie |
 
 Canada |
 
-254 |
+Turquie |
 
-Iceland |
-
-21 |
-
-Serbia |
-
-1014 |
-
-Switzerland |
-
-133 |
-
-Italy |
-
-621 |
-
-Russia |
-
-774 |
-
-China |
-
-1155 |
-
-Japan |
-
-638 |
-
-Sweden |
-
-63 |
-
-Cyprus |
-
-905 |
-
-South-Korea |
-
-629 |
-
-Singapore |
-
-1015 |
-
-Czech Republic |
-
-802 |
-
-Liechtenstein |
-
-50 |
-
-Slovenia |
-
-452 |
-
-Germany |
-
-666 |
-
-Lithuania |
-
-150 |
-
-Slovakia |
-
-505 |
-
-Denmark |
-
-515 |
-
-Luxembourg |
-
-657 |
-
-Thailand |
-
-709 |
-
-Estonia |
-
-1154 |
-
-Latvia |
-
-251 |
-
-Taiwan |
-
-860 |
-
-Spain |
-
-492 |
-
-Macedonia |
-
-1178 |
-
-Ukraine |
-
-667 |
-
-Finland |
-
-401 |
-
-Malta |
-
-777 |
-
-USA |
-
-736 |
-
-France |
-
-112 |
-
-Mexico |
-
-679 |
+Tunisie |
 
 Vietnam |
 
-727 |
+Thaïlande |
 
-United Kingdom |
+Singapour |
 
-673 |
+Mexique |
 
-Malaysia |
+Jordanie |
 
-816 |
+Inde |
 
-South-Africa |
+Silicium Métallurgique MG-Si |
 
-1087 |
+kg CO2-eq/ kg |
 
-NOTA :
+13,32 |
 
-Conformément à l’article 18 de l’arrêté du 22 décembre 2023 (NOR : ENER2328400A), ces dispositions s'appliquent aux installations dont la demande complète de raccordement est postérieure au 22 décembre 2023. Pour les installations dont la demande complète de raccordement est antérieure au 22 décembre 2023, ce sont les dispositions de l'arrêté du 6 octobre 2021 dans sa version antérieure qui s'appliquent.
+10,08 |
 
-Les installations pour lesquelles une demande complète de raccordement a été déposée entre le 1er août 2023 et la veille de l'entrée en vigueur dudit arrêté bénéficient des conditions d'achat découlant des modalités de l'article 9 de cet arrêté.
+12,72 |
+
+6,97 |
+
+11,34 |
+
+12,00 |
+
+12,31 |
+
+13,49 |
+
+10,40 |
+
+11,92 |
+
+11,23 |
+
+19,40 |
+
+polySi, Siemens process |
+
+kg CO2-eq/ kg |
+
+62,18 |
+
+41,56 |
+
+58,35 |
+
+21,79 |
+
+49,56 |
+
+53,78 |
+
+55,75 |
+
+63,25 |
+
+43,61 |
+
+53,24 |
+
+48,87 |
+
+100,84 |
+
+Réalisation du Lingot, mono |
+
+kg CO2-eq/ kg |
+
+32,82 |
+
+23,39 |
+
+31,07 |
+
+14,35 |
+
+27,05 |
+
+28,98 |
+
+29,88 |
+
+33,31 |
+
+24,33 |
+
+28,73 |
+
+26,73 |
+
+50,49 |
+
+Réalisation du lingot, multi |
+
+kg CO2-eq/ kg |
+
+6,33 |
+
+4,27 |
+
+5,95 |
+
+2,29 |
+
+5,07 |
+
+5,49 |
+
+5,69 |
+
+6,44 |
+
+4,48 |
+
+5,44 |
+
+5,00 |
+
+10,20 |
+
+Réalisation du lingot, monolike |
+
+kg CO2-eq/ kg |
+
+8,63 |
+
+6,57 |
+
+8,25 |
+
+4,59 |
+
+7,37 |
+
+7,79 |
+
+7,99 |
+
+8,74 |
+
+6,78 |
+
+7,74 |
+
+7,30 |
+
+12,50 |
+
+Réalisation de la brique |
+
+kg CO2-eq/ kg |
+
+1,48 |
+
+1,13 |
+
+1,42 |
+
+0,78 |
+
+1,26 |
+
+1,34 |
+
+1,37 |
+
+1,50 |
+
+1,16 |
+
+1,33 |
+
+1,25 |
+
+2,15 |
+
+Fabrication des plaquettes mono |
+
+kg CO2-eq/ m2 |
+
+6,44 |
+
+4,98 |
+
+6,17 |
+
+3,58 |
+
+5,55 |
+
+5,85 |
+
+5,99 |
+
+6,52 |
+
+5,13 |
+
+5,81 |
+
+5,50 |
+
+9,19 |
+
+Fabrication des plaquettes multi/ monolike |
+
+kg CO2-eq/ m2 |
+
+6,18 |
+
+4,73 |
+
+5,91 |
+
+3,34 |
+
+5,29 |
+
+5,59 |
+
+5,72 |
+
+6,25 |
+
+4,87 |
+
+5,55 |
+
+5,24 |
+
+8,89 |
+
+Réalisation des cellules |
+
+kg CO2-eq/ m2 |
+
+33,25 |
+
+25,88 |
+
+31,88 |
+
+18,81 |
+
+28,74 |
+
+30,25 |
+
+30,95 |
+
+33,63 |
+
+26,61 |
+
+30,05 |
+
+28,49 |
+
+47,07 |
+
+Verre |
+
+kg CO2-eq/ kg |
+
+1,06 |
+
+1,02 |
+
+1,05 |
+
+0,99 |
+
+1,04 |
+
+1,04 |
+
+1,05 |
+
+1,06 |
+
+1,03 |
+
+1,04 |
+
+1,03 |
+
+1,12 |
+
+Verre trempé |
+
+kg CO2-eq/ kg |
+
+0,06 |
+
+0,05 |
+
+0,06 |
+
+0,05 |
+
+0,05 |
+
+0,05 |
+
+0,06 |
+
+0,06 |
+
+0,05 |
+
+0,05 |
+
+0,05 |
+
+0,06 |
+
+Encapsulant (EVA ou équivalent) |
+
+kg CO2-eq/ kg |
+
+3,32 |
+
+3,13 |
+
+3,29 |
+
+2,94 |
+
+3,20 |
+
+3,24 |
+
+3,26 |
+
+3,33 |
+
+3,15 |
+
+3,24 |
+
+3,20 |
+
+3,70 |
+
+Feuille face arrière (PET ou équivalent) |
+
+kg CO2-eq/ kg |
+
+4,01 |
+
+3,82 |
+
+3,98 |
+
+3,63 |
+
+3,89 |
+
+3,93 |
+
+3,95 |
+
+4,02 |
+
+3,84 |
+
+3,93 |
+
+3,89 |
+
+4,39 |
+
+Feuille face arrière (PVF) |
+
+kg CO2-eq/ kg |
+
+21,45 |
+
+20,62 |
+
+21,30 |
+
+19,83 |
+
+20,94 |
+
+21,11 |
+
+21,19 |
+
+21,49 |
+
+20,71 |
+
+21,09 |
+
+20,92 |
+
+23,00 |
+
+Module cristallin |
+
+kg CO2-eq/ m2 module |
+
+6,87 |
+
+5,76 |
+
+6,67 |
+
+4,70 |
+
+6,19 |
+
+6,42 |
+
+6,53 |
+
+6,93 |
+
+5,87 |
+
+6,39 |
+
+6,16 |
+
+8,96 |
+
+Fabrication module a-Si |
+
+kg CO2-eq/ m2 module |
+
+49,71 |
+
+35,50 |
+
+47,07 |
+
+21,88 |
+
+41,01 |
+
+43,92 |
+
+45,28 |
+
+50,44 |
+
+36,91 |
+
+43,55 |
+
+40,53 |
+
+76,34 |
+
+Fabrication module CdTe, |
+
+kg CO2-eq/ m2 module |
+
+55,10 |
+
+37,98 |
+
+51,92 |
+
+21,56 |
+
+44,62 |
+
+48,13 |
+
+49,77 |
+
+55,99 |
+
+39,69 |
+
+47,68 |
+
+44,05 |
+
+87,20 |
+
+Fabrication module CIGS |
+
+kg CO2-eq/ m2 module |
+
+101,97 |
+
+65,92 |
+
+95,28 |
+
+31,35 |
+
+79,90 |
+
+87,28 |
+
+90,73 |
+
+103,84 |
+
+69,51 |
+
+86,34 |
+
+78,69 |
+
+169,55 |
+
+Etape de fabrication/
+
+Matériau |
+
+Unité |
+
+Afrique
+
+du Sud |
+
+Qatar |
+
+Arabie saoudite |
+
+UAE |
+
+Algérie |
+
+Maroc |
+
+Egypte |
+
+Brésil |
+
+Ukraine |
+
+Macédoine du Nord |
+
+Serbie |
+
+Silicium Métallurgique MG-Si |
+
+kg CO2-eq/ kg |
+
+16,77 |
+
+11,36 |
+
+16,53 |
+
+11,24 |
+
+12,44 |
+
+14,91 |
+
+12,21 |
+
+6,72 |
+
+10,85 |
+
+15,33 |
+
+15,22 |
+
+polySi, Siemens process |
+
+kg CO2-eq/ kg |
+
+84,12 |
+
+49,68 |
+
+82,59 |
+
+48,91 |
+
+56,57 |
+
+72,31 |
+
+55,12 |
+
+20,15 |
+
+46,44 |
+
+78,09 |
+
+74,27 |
+
+Réalisation du Lingot, mono |
+
+kg CO2-eq/ kg |
+
+42,85 |
+
+27,10 |
+
+42,15 |
+
+26,75 |
+
+30,25 |
+
+37,45 |
+
+29,59 |
+
+13,61 |
+
+25,62 |
+
+38,64 |
+
+38,34 |
+
+Réalisation du lingot, multi |
+
+kg CO2-eq/ kg |
+
+8,53 |
+
+5,08 |
+
+8,38 |
+
+5,01 |
+
+5,77 |
+
+7,35 |
+
+5,63 |
+
+2,13 |
+
+4,76 |
+
+7,28 |
+
+7,54 |
+
+Réalisation du lingot, monolike |
+
+kg CO2-eq/ kg |
+
+10,83 |
+
+7,38 |
+
+10,67 |
+
+7,31 |
+
+8,07 |
+
+9,65 |
+
+7,93 |
+
+4,43 |
+
+7,06 |
+
+9,91 |
+
+9,84 |
+
+Réalisation de la brique |
+
+kg CO2-eq/ kg |
+
+1,86 |
+
+1,27 |
+
+1,83 |
+
+1,25 |
+
+1,38 |
+
+1,66 |
+
+1,36 |
+
+0,76 |
+
+1,21 |
+
+1,70 |
+
+1,69 |
+
+Fabrication des plaquettes mono |
+
+kg CO2-eq/ m2 |
+
+8,00 |
+
+5,56 |
+
+7,89 |
+
+5,50 |
+
+6,05 |
+
+7,16 |
+
+5,94 |
+
+3,46 |
+
+5,33 |
+
+7,15 |
+
+7,30 |
+
+Fabrication des plaquettes multi/ monolike |
+
+kg CO2-eq/ m2 |
+
+7,72 |
+
+5,30 |
+
+7,61 |
+
+5,24 |
+
+5,78 |
+
+6,89 |
+
+5,68 |
+
+3,22 |
+
+5,07 |
+
+7,52 |
+
+7,03 |
+
+Réalisation des cellules |
+
+kg CO2-eq/ m2 |
+
+41,10 |
+
+28,78 |
+
+40,55 |
+
+28,51 |
+
+31,24 |
+
+36,87 |
+
+30,72 |
+
+18,22 |
+
+27,62 |
+
+37,82 |
+
+37,57 |
+
+Verre |
+
+kg CO2-eq/ kg |
+
+1,09 |
+
+1,04 |
+
+1,09 |
+
+1,03 |
+
+1,05 |
+
+1,07 |
+
+1,04 |
+
+0,99 |
+
+1,03 |
+
+1,08 |
+
+1,07 |
+
+Verre trempé |
+
+kg CO2-eq/ kg |
+
+0,06 |
+
+0,05 |
+
+0,06 |
+
+0,05 |
+
+0,06 |
+
+0,06 |
+
+0,05 |
+
+0,05 |
+
+0,05 |
+
+0,08 |
+
+0,06 |
+
+Encapsulant (EVA ou équivalent) |
+
+kg CO2-eq/ kg |
+
+3,53 |
+
+3,20 |
+
+3,52 |
+
+3,20 |
+
+3,27 |
+
+3,42 |
+
+3,26 |
+
+2,92 |
+
+3,17 |
+
+3,16 |
+
+3,44 |
+
+Feuille face arrière (PET ou équivalent) |
+
+kg CO2-eq/ kg |
+
+4,22 |
+
+3,89 |
+
+4,21 |
+
+3,89 |
+
+3,96 |
+
+4,11 |
+
+3,95 |
+
+3,61 |
+
+3,86 |
+
+4,18 |
+
+4,13 |
+
+Feuille face arrière (PVF) |
+
+kg CO2-eq/ kg |
+
+22,33 |
+
+20,95 |
+
+22,27 |
+
+20,92 |
+
+21,22 |
+
+21,85 |
+
+21,17 |
+
+19,77 |
+
+20,82 |
+
+22,46 |
+
+21,93 |
+
+Module cristallin |
+
+kg CO2-eq/ m2 module |
+
+8,05 |
+
+6,20 |
+
+7,97 |
+
+6,16 |
+
+6,57 |
+
+7,42 |
+
+6,49 |
+
+4,61 |
+
+6,03 |
+
+7,56 |
+
+7,52 |
+
+Fabrication module a-Si |
+
+kg CO2-eq/ m2 module |
+
+64,82 |
+
+41,09 |
+
+63,77 |
+
+40,57 |
+
+45,84 |
+
+56,69 |
+
+44,84 |
+
+20,76 |
+
+38,86 |
+
+58,50 |
+
+58,03 |
+
+Fabrication module CdTe, |
+
+kg CO2-eq/ m2 module |
+
+73,32 |
+
+44,72 |
+
+72,05 |
+
+44,09 |
+
+50,44 |
+
+63,52 |
+
+49,24 |
+
+20,21 |
+
+42,03 |
+
+65,71 |
+
+65,14 |
+
+Fabrication module CIGS |
+
+kg CO2-eq/ m2 module |
+
+140,33 |
+
+80,11 |
+
+137,65 |
+
+78,78 |
+
+92,16 |
+
+119,68 |
+
+89,62 |
+
+28,49 |
+
+74,45 |
+
+124,29 |
+
+123,10 |
+
+Etape de fabrication/ Matériau |
+
+Unité |
+
+Autre pays d'Europe |
+
+Autre pays du Monde |
+
+Silicium Métallurgique MG-Si |
+
+kg CO2-eq/ kg |
+
+8,60 |
+
+12,67 |
+
+polySi, Siemens process |
+
+kg CO2-eq/ kg |
+
+35,29 |
+
+58,03 |
+
+Réalisation du Lingot, mono |
+
+kg CO2-eq/ kg |
+
+19,07 |
+
+30,92 |
+
+Réalisation du lingot, multi |
+
+kg CO2-eq/ kg |
+
+3,00 |
+
+5,92 |
+
+Réalisation du lingot, monolike |
+
+kg CO2-eq/ kg |
+
+5,63 |
+
+8,22 |
+
+Réalisation de la brique |
+
+kg CO2-eq/ kg |
+
+0,96 |
+
+1,41 |
+
+Fabrication des plaquettes mono |
+
+kg CO2-eq/ m2 |
+
+4,11 |
+
+6,15 |
+
+Fabrication des plaquettes multi/ monolike |
+
+kg CO2-eq/ m2 |
+
+4,51 |
+
+5,88 |
+
+Réalisation des cellules |
+
+kg CO2-eq/ m2 |
+
+22,51 |
+
+31,77 |
+
+Verre |
+
+kg CO2-eq/ kg |
+
+1,01 |
+
+1,05 |
+
+Verre trempé |
+
+kg CO2-eq/ kg |
+
+0,07 |
+
+0,06 |
+
+Encapsulant (EVA ou équivalent) |
+
+kg CO2-eq/ kg |
+
+2,75 |
+
+3,28 |
+
+Feuille face arrière (PET ou équivalent) |
+
+kg CO2-eq/ kg |
+
+3,77 |
+
+3,97 |
+
+Feuille face arrière (PVF) |
+
+kg CO2-eq/ kg |
+
+20,75 |
+
+21,28 |
+
+Module cristallin |
+
+kg CO2-eq/ m2 module |
+
+5,26 |
+
+6,65 |
+
+Fabrication module a-Si |
+
+kg CO2-eq/ m2 module |
+
+29,02 |
+
+46,85 |
+
+Fabrication module CdTe, |
+
+kg CO2-eq/ m2 module |
+
+30,17 |
+
+51,66 |
+
+Fabrication module CIGS |
+
+kg CO2-eq/ m2 module |
+
+49,46 |
+
+94,72 |

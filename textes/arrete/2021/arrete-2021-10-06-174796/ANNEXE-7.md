@@ -1,33 +1,63 @@
 # Article ANNEXE 7
 
-Le 3 de la section TARIFS D'ACHAT de l'annexe 1 de l'arrêté du 4 mai 2017 fixant les conditions d'achat de l'électricité produite par les installations implantées sur bâtiment utilisant l'énergie solaire photovoltaïque, d'une puissance crête installée inférieure ou égale à 100 kilowatts telles que visées au 3° de l'article D. 314-15 du code de l'énergie et situées en Corse, en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, telle que modifiée par l'annexe 6 de l'arrêté du 9 mai 2017 susvisé, est ainsi modifié :
+IDENTIFICATION DU OU DES PROPRIETAIRES DU BATIMENT, HANGAR OU OMBRIERE ET IDENTIFICATION DU OU DES PROPRIETAIRES DU TERRAIN D'ASSIETTE DE L'INSTALLATION
 
-Le paragraphe :
+La preuve de la propriété du bâtiment, hangar, ombrière ou la preuve de la propriété du terrain d'assiette peuvent être apportées par les documents et pièces justificatives suivantes.
 
-"-le symbole
+Cas général
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : Légifrance - Publications officielles - Journal officiel - JORF n° 0235 du 08/10/2021 (legifrance.gouv.fr)
+:
 
-est égal à 1 lorsque N vaut 1 ou 2, et est égal au produit des coefficients (1-Vi), pour i variant de 1 à N-2 lorsque N est strictement supérieur à 2, décrits au 2 de l'annexe 1 de l'arrêté du 9 mai 2017 susvisé ;
+-l'avis de taxe foncière pour l'année civile en cours ou l'année précédente. Le producteur pourra masquer le montant à payer ;
 
-"-le symbole
+-les actes de vente datant de moins de deux ans ;
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : Légifrance - Publications officielles - Journal officiel - JORF n° 0235 du 08/10/2021 (legifrance.gouv.fr)
+-tout acte notarial attestant de la propriété datant de moins de deux ans, L'extrait fourni doit permettre l'identification du propriétaire et du notaire ;
 
-est égal à 1 lorsque N vaut 1, et est égal au produit des coefficients (1-V'i), pour i variant de 1 à N-2 lorsque N est strictement supérieur à 2, décrits au 2 de l'annexe 1 de l'arrêté du 9 mai 2017 susvisé ; "
+-l'attestation du service de la publicité foncière de moins de deux ans ;
 
-est remplacé par le paragraphe :
+-le relevé de propriété, aussi appelé extrait de matrice cadastrale.
 
-"-i0 est l'indice correspondant au trimestre civil durant lequel l'arrêté du 6 octobre 2021 fixant les conditions d'achat de l'électricité produite par les installations implantées sur bâtiment, hangar ou ombrière utilisant l'énergie solaire photovoltaïque, d'une puissance crête installée inférieure ou égale à 500 kilowatts telles que visées au 3° de l'article D. 314-15 du code de l'énergie et situées en métropole continentale est entré en vigueur ;
+Cas particuliers :
 
-"-le symbole
+Cas d'un producteur ayant construit seul sa maison :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : Légifrance - Publications officielles - Journal officiel - JORF n° 0235 du 08/10/2021 (legifrance.gouv.fr)
+-l'avis de fin de travaux de moins de deux ans envoyé à l'administration ainsi que le titre de propriété du terrain.
 
-est égal à 1 lorsque N vaut 0,1 ou 2, et est égal au produit des coefficients (1-Vi), pour i variant de 1 à N-2 lorsque N est strictement supérieur à 2. Si l'indice i est inférieur ou égal à i0, Vi est le coefficient décrit au 3 de l'annexe 1 de l'arrêté du 9 mai 2017 susvisé. Si l'indice i est strictement supérieur à i0, Vi est égal au coefficient Vi-i0 défini au 3 de l'annexe 1 de l'arrêté du 6 octobre 2021 fixant les conditions d'achat de l'électricité produite par les installations implantées sur bâtiment, hangar ou ombrière utilisant l'énergie solaire photovoltaïque, d'une puissance crête installée inférieure ou égale à 500 kilowatts telles que visées au 3° de l'article D. 314-15 du code de l'énergie et situées en métropole continentale ;
+Cas des bâtiments à construire :
 
-"-le symbole
+-le titre de propriété du terrain, le bail à construction, le bail emphytéotique ou le bail civil du bâtiment sont acceptés, de même que les promesses de bail à construction, emphytéotique ou civil ;
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : Légifrance - Publications officielles - Journal officiel - JORF n° 0235 du 08/10/2021 (legifrance.gouv.fr)
+-le producteur précise dans la demande complète de raccordement le nom du ou des propriétaire (s) du ou des bâtiment (s) à son achèvement. Il n'est pas systématiquement demandé de titre de propriété du ou des bâtiment (s) suite à son achèvement ;
 
-est égal à 1 lorsque N vaut 0 ou 1, et est égal au produit des coefficients (1-V'i), pour i variant de 1 à N-1 lorsque N est strictement supérieur à 1. Si l'indice i est inférieur ou égal à i0, V'i est le coefficient décrit au 3 de l'annexe 1 de l'arrêté du 9 mai 2017 susvisé. Si l'indice i est strictement supérieur à i0, V'i est égal au coefficient V ʹ i-i0 défini au 3 de l'annexe 1 de l'arrêté 6 octobre 2021 fixant les conditions d'achat de l'électricité produite par les installations implantées sur bâtiment, hangar ou ombrière utilisant l'énergie solaire photovoltaïque, d'une puissance crête installée inférieure ou égale à 500 kilowatts telles que visées au 3° de l'article D. 314-15 du code de l'énergie et situées en métropole continentale ; ".
+-Lle document d'architecte s'appuie sur le permis de construire.
+
+Cas des copropriétés :
+
+-le procès-verbal de l'assemblée générale autorisant l'installation des panneaux ;
+
+-des copropriétés distinctes sont considérées comme des propriétaires distincts, y compris si tout ou partie des copropriétaires sont communs aux deux copropriétés.
+
+Cas des indivisions :
+
+-le titre de propriété précise l'identité des indivisaires. La puissance Q de l'installation tient compte des installations situées sur d'autres bâtiments appartenant à l'un des indivisaires ou à une indivision ayant un indivisaire en commun avec l'installation considérée.
+
+Cas des démembrements et des baux emphytéotiques :
+
+-le titre de propriété fera apparaître l'usufruitier ou le bénéficiaire du bail, lequel est considéré comme propriétaire de l'installation au regard de l'arrêté tarifaire.
+
+Cas des bâtiments de collectivités territoriales :
+
+-dans le cas où la collectivité ne dispose pas de titre de propriété et ne paie pas d'impôt foncier (bâti à mission de service public), l'attestation du représentant de la collectivité (maire …) selon un modèle mis à disposition par EDF OA est suffisante.
+
+Date de référence pour la propriété du bâtiment
+
+La propriété du bâtiment s'apprécie au moment du dépôt de la demande complète de raccordement le concernant.
+
+Pour les bâtiments non construits à la date de la demande complète de raccordement, la propriété du bâtiment s'apprécie au moment de l'achèvement de l'installation, sur déclaration du producteur à la date de la demande complète de raccordement.
+
+NOTA :
+
+Conformément à l’article 18 de l’arrêté du 22 décembre 2023 (NOR : ENER2328400A), ces dispositions s'appliquent aux installations dont la demande complète de raccordement est postérieure au 22 décembre 2023. Pour les installations dont la demande complète de raccordement est antérieure au 22 décembre 2023, ce sont les dispositions de l'arrêté du 6 octobre 2021 dans sa version antérieure qui s'appliquent.
+
+Les installations pour lesquelles une demande complète de raccordement a été déposée entre le 1er août 2023 et la veille de l'entrée en vigueur dudit arrêté bénéficient des conditions d'achat découlant des modalités de l'article 9 de cet arrêté.

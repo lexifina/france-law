@@ -1,56 +1,74 @@
 # Article ANNEXE 9
 
-ATTESTATION DÉLIVRÉE PAR UN ORGANISME AGRÉÉ
+MODÈLE POUR LES GARANTIES FINANCIÈRES DE MISE EN ŒUVRE
 
-Au titre de l'article R. 311-33 du code de l'énergie remplaçant l'attestation de l'entreprise ayant réalisé l'installation prévue à l'article 6
+Emise par :
 
-Numéro de contrat : BTA
+[…], établissement de crédit/ entreprise d'assurance, au capital de € […] dont le siège social est […], immatriculé au Registre du commerce et des sociétés de […], sous le numéro […], représenté par […],
 
-Attestation de l'organisme agréé concernant l'installation du système photovoltaïque (installation inférieure à 100 kWc)
+(Ci-après dénommé le “ Garant ”),
 
-Je soussigné (e)
+En faveur de :
 
-(nom de l'inspecteur, de l'organisme agréé et adresse de son siège social),
+La République française représentée par le ministre chargé de l'énergie,
 
-atteste que
+(Ci-après dénommée l'“ Etat ”).
 
-(nom de l'installeur, de l'entreprise installatrice et adresse de son siège social),
+Préambule :
 
-en qualité d'installateur du système photovoltaïque objet du présent contrat d'achat,
+En date du [XX] le ministre chargé de l'énergie a publié en application des dispositions de l'article L. 314-1 du code de l'énergie un arrêté tarifaire “ Arrêté du 6 octobre 2021 fixant les conditions d'achat de l'électricité produite par les installations implantées sur bâtiment, hangar ou ombrière utilisant l'énergie solaire photovoltaïque, d'une puissance crête installée inférieure ou égale à 500 kilowatts telles que visées au 3° de l'article D. 314-15 du code de l'énergie et situées en métropole continentale ”.
 
--dispose, en date d'achèvement de l'installation, d'une qualification ou d'une certification professionnelle pour la réalisation d'installations photovoltaïques qui corresponde au type d'installation réalisée et à la taille du chantier ;
+La société [XX] (ci-après désignée “ la Société ”) demande un contrat d'achat pour le projet [XX], situé [adresse du projet] et d'une puissance de [XX] kWc en application de l'arrêté susmentionné.
 
--a installé des matériels de caractéristiques suivantes (préciser ces informations si disponibles) :
+La Société doit joindre à sa demande de contrat d'achat une attestation de constitution d'une garantie financière de mise en œuvre, conformément à l'article 4 de l'arrêté susmentionné.
 
-□ Panneaux :
+Il est convenu ce qui suit :
 
--marque : ;
+1. Etendue et modalités d'appel de la Garantie :
 
--référence : ;
+1.1. Dans les limites prévues à l'article 1.2, le Garant s'engage, inconditionnellement et irrévocablement, à payer à l'Etat, à première demande de sa part, toute somme faisant l'objet d'une demande de paiement adressée par l'Etat au Garant par lettre recommandée avec accusé de réception à l'adresse suivante : […] ;
 
--nom du fabricant :.
+1.2. La présente garantie est émise pour un montant maximum de 10 000 € ;
 
-□ Connectique (si différent) :
+1.3. Le Garant reconnaît et accepte que, dans les conditions visées au paragraphe 1.1 ci-dessus et à l'article 2321 du code civil, toute demande de paiement entraîne une obligation de paiement de sa part, à titre principal et autonome, envers l'Etat de toute somme que celui-ci lui réclame à concurrence du montant figurant à l'article 1.2 ci-dessus. Il est précisé, en tant que de besoin, que le caractère exact ou le bien fondé des déclarations contenues dans une Demande de Paiement n'est pas une condition de l'exécution par le Garant de ses obligations au titre de la présente garantie ;
 
--marque : ;
+1.4. La présente garantie pourra faire l'objet d'un ou de plusieurs appels. Tout paiement par le Garant réduira à due concurrence le montant de la présente garantie ;
 
--référence : ;
+1.5. Le Garant devra effectuer tout paiement faisant l'objet d'une Demande de Paiement dans un délai de vingt et un (21) jours calendaires à compter de sa réception par le Garant ;
 
--nom du fabricant :.
+1.6. Toute somme due par le Garant au titre de la présente garantie sera payée en euros, sans compensation pour quelque raison que ce soit. Tous ces paiements seront effectués nets de toute déduction ou retenue à la source de nature fiscale, sauf si le Garant est tenu d'opérer une telle retenue, auquel cas il devra majorer le montant du paiement, de sorte qu'après imputation de la retenue l'Etat reçoive une somme nette égale à celle qu'il aurait s'il n'y avait pas eu de retenue ;
 
-□ Boitier (si différent) :
+1.7. Si le Garant n'exécute pas une obligation de paiement en vertu de la présente garantie à bonne date, le Garant sera redevable envers l'Etat en sus de la somme indiquée dans la Demande de Paiement concernée, d'intérêts de retard calculé sur cette somme au taux légal majoré de 3 % par an, sur la base d'une année de 365 jours et rapporté au nombre de jours écoulés entre la date d'expiration du délai de paiement et la date de paiement effectif à l'Etat.
 
--marque : ;
+2. Indépendance et autonomie de la Garantie :
 
--référence : ;
+2.1. Les parties conviennent expressément que la présente garantie est une garantie autonome à première demande régie par les dispositions de l'article 2321 du code civil ;
 
--nom du fabricant :.
+2.2. Les engagements du Garant au titre de la présente garantie sont indépendants et autonomes. En conséquence, le Garant ne peut, pour retarder ou se soustraire à l'exécution inconditionnelle et immédiate de ses obligations au titre de la présente garantie, soulever toute exception ou autre moyen de défense résultant des relations juridiques existant entre le Garant et l'Etat ou tout autre tiers, et notamment une éventuelle nullité, résiliation, résolution ou compensation.
 
-J'atteste que, si le producteur demande à bénéficier de la prime à l'intégration paysagère, l'installation respecte bien les critères d'intégration paysagère mentionnées à l'annexe 2 de l'arrêté du 6 octobre 2021.
+3. Durée :
 
-Fait à (nom, qualité, signature et cachet de l'inspecteur).
+Conformément aux prescriptions de l'arrêté susmentionné, la présente garantie financière est valable à compter [SUPPRIMER OU RAYER LE TIRET INUTILE] :
 
-Le.
+-du [INSCRIRE UNE DATE EN DUR SITUÉE AVANT LA DATE DE LA DEMANDE DE CONTRAT D'ACHAT] et expire à la fourniture à l'acheteur obligé de l'attestation de conformité du projet [XX] mentionnée à l'article R. 314-7 du code de l'énergie, tel que prévu à l'article 6 de l'arrêté susmentionné ou à la date du courrier du gestionnaire de réseau indiquant la suspension du traitement de la demande de raccordement jusqu'à la révision du S3REnR ;
+
+-du [INSCRIRE UNE DATE EN DUR SITUÉE AVANT LA DATE DE LA DEMANDE COMPLÈTE DE CONTRAT D'ACHAT], pour une durée de QUARANTE-HUIT (48) MOIS.
+
+4. Droit applicable :
+
+La présente garantie est régie par le droit français.
+
+5. Tribunaux compétents :
+
+Tout litige relatif à la présente garantie (y compris tout litige concernant l'existence, la validité ou la résiliation de la présente garantie) sera de la compétence exclusive de la juridiction française compétente en application des règles de procédure nationales applicables ou, lorsque le Garant est domicilié hors du territoire national français, de la compétence exclusive du tribunal de grande instance de Paris.
+
+Fait à […], le […], en trois exemplaires.
+
+Le Garant,
+
+.......................................
+
+M. […] en qualité de […]
 
 NOTA :
 

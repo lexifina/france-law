@@ -1,60 +1,56 @@
 # Article ANNEXE 8
 
-IDENTIFICATION DU OU DES PROPRIETAIRES DU BATIMENT, HANGAR OU OMBRIERE ET IDENTIFICATION DU OU DES PROPRIETAIRES DU TERRAIN D'ASSIETTE DE L'INSTALLATION
+ATTESTATION DÉLIVRÉE PAR UN ORGANISME AGRÉÉ
 
-La preuve de la propriété du bâtiment, hangar, ombrière ou la preuve de la propriété du terrain d'assiette peuvent être apportées par les documents et pièces justificatives suivantes.
+Au titre de l'article R. 311-33 du code de l'énergie remplaçant l'attestation de l'entreprise ayant réalisé l'installation prévue à l'article 6
 
-Cas général
+Numéro de contrat : BTA
 
-:
+Attestation de l'organisme agréé concernant l'installation du système photovoltaïque (installation inférieure à 100 kWc)
 
--l'avis de taxe foncière pour l'année civile en cours ou l'année précédente. Le producteur pourra masquer le montant à payer ;
+Je soussigné (e)
 
--les actes de vente datant de moins de deux ans ;
+(nom de l'inspecteur, de l'organisme agréé et adresse de son siège social),
 
--tout acte notarial attestant de la propriété datant de moins de deux ans, L'extrait fourni doit permettre l'identification du propriétaire et du notaire ;
+atteste que
 
--l'attestation du service de la publicité foncière de moins de deux ans ;
+(nom de l'installeur, de l'entreprise installatrice et adresse de son siège social),
 
--le relevé de propriété, aussi appelé extrait de matrice cadastrale.
+en qualité d'installateur du système photovoltaïque objet du présent contrat d'achat,
 
-Cas particuliers :
+-dispose, en date d'achèvement de l'installation, d'une qualification ou d'une certification professionnelle pour la réalisation d'installations photovoltaïques qui corresponde au type d'installation réalisée et à la taille du chantier ;
 
-Cas d'un producteur ayant construit seul sa maison :
+-a installé des matériels de caractéristiques suivantes (préciser ces informations si disponibles) :
 
--l'avis de fin de travaux de moins de deux ans envoyé à l'administration ainsi que le titre de propriété du terrain.
+□ Panneaux :
 
-Cas des bâtiments à construire :
+-marque : ;
 
--le titre de propriété du terrain, le bail à construction, le bail emphytéotique ou le bail civil du bâtiment sont acceptés, de même que les promesses de bail à construction, emphytéotique ou civil ;
+-référence : ;
 
--le producteur précise dans la demande complète de raccordement le nom du ou des propriétaire (s) du ou des bâtiment (s) à son achèvement. Il n'est pas systématiquement demandé de titre de propriété du ou des bâtiment (s) suite à son achèvement ;
+-nom du fabricant :.
 
--Lle document d'architecte s'appuie sur le permis de construire.
+□ Connectique (si différent) :
 
-Cas des copropriétés :
+-marque : ;
 
--le procès-verbal de l'assemblée générale autorisant l'installation des panneaux ;
+-référence : ;
 
--des copropriétés distinctes sont considérées comme des propriétaires distincts, y compris si tout ou partie des copropriétaires sont communs aux deux copropriétés.
+-nom du fabricant :.
 
-Cas des indivisions :
+□ Boitier (si différent) :
 
--le titre de propriété précise l'identité des indivisaires. La puissance Q de l'installation tient compte des installations situées sur d'autres bâtiments appartenant à l'un des indivisaires ou à une indivision ayant un indivisaire en commun avec l'installation considérée.
+-marque : ;
 
-Cas des démembrements et des baux emphytéotiques :
+-référence : ;
 
--le titre de propriété fera apparaître l'usufruitier ou le bénéficiaire du bail, lequel est considéré comme propriétaire de l'installation au regard de l'arrêté tarifaire.
+-nom du fabricant :.
 
-Cas des bâtiments de collectivités territoriales :
+J'atteste que, si le producteur demande à bénéficier de la prime à l'intégration paysagère, l'installation respecte bien les critères d'intégration paysagère mentionnées à l'annexe 2 de l'arrêté du 6 octobre 2021.
 
--dans le cas où la collectivité ne dispose pas de titre de propriété et ne paie pas d'impôt foncier (bâti à mission de service public), l'attestation du représentant de la collectivité (maire …) selon un modèle mis à disposition par EDF OA est suffisante.
+Fait à (nom, qualité, signature et cachet de l'inspecteur).
 
-Date de référence pour la propriété du bâtiment
-
-La propriété du bâtiment s'apprécie au moment du dépôt de la demande complète de raccordement le concernant.
-
-Pour les bâtiments non construits à la date de la demande complète de raccordement, la propriété du bâtiment s'apprécie au moment de l'achèvement de l'installation, sur déclaration du producteur à la date de la demande complète de raccordement.
+Le.
 
 NOTA :
 
