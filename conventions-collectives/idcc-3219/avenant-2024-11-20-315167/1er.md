@@ -1,0 +1,13 @@
+# Article 1er
+
+Le 2.1 de l'article 2 est modifié comme suit :
+
+« 2.1.   Conditions et modalités du maintien des garanties de branche en cas de suspension du contrat de travail
+
+L'adhésion du salarié à la couverture définie par le présent accord est maintenue en cas de suspension de son contrat de travail, quelle qu'en soit la cause, dès lors qu'il bénéficie, pendant cette période, d'un maintien de salaire, total ou partiel, d'indemnités journalières complémentaires, de rentes d'invalidité et/ ou d'indemnités journalières de sécurité sociale ou d'un revenu de remplacement versé par l'employeur (par exemple : allocation d'activité partielle, congés rémunérés par l'employeur tels que le congé de remplacement ou le congé de mobilité).
+
+Ce maintien dans les conditions visées ci-dessus est également applicable aux ayants droit du salarié bénéficiaire, dans le cadre d'une extension facultative, de la couverture base obligatoire.
+
+Dans une telle hypothèse, l'entreprise de portage salarial verse une contribution calculée selon les règles applicables à l'ensemble du personnel pendant toute la période de suspension du contrat de travail indemnisée.
+
+Parallèlement, le salarié doit obligatoirement continuer à acquitter sa propre part de cotisation, calculée selon les mêmes modalités que celles applicables aux autres salariés, et le cas échéant la ou les cotisations afférentes au paiement des extensions facultatives pour la couverture frais de santé de ses ayants droit. »
