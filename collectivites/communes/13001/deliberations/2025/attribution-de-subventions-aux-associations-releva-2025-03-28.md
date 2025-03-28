@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ATTRIBUTION DE SUBVENTIONS AUX ASSOCIATIONS RELEVANT DE LA DELEGATION FINANCEMENT DE LA VIE ASSOCIATIVE ET ADOPTION DE LA CONVENTION ANNUELLE D'OBJECTIFS LIANT LA VILLE A DURANNE ANIMATION
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2025-03-28
+- Séance : Conseil Municipal 1CA
+- Objet : ATTRIBUTION DE SUBVENTIONS AUX ASSOCIATIONS RELEVANT DE LA DELEGATION FINANCEMENT DE LA VIE ASSOCIATIVE ET ADOPTION DE LA CONVENTION ANNUELLE D'OBJECTIFS LIANT LA VILLE A DURANNE ANIMATION
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-20530-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
