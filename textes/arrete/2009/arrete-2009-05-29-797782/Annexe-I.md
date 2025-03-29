@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGE
 
 1.1. La présente annexe est composée :
 
-- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée susvisée. Cet accord, y compris les amendements en vigueur au 1er janvier 2025, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : https://unece.org/about-adr ;
+- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive déléguée (UE) 2025/149 susvisée. Cet accord, y compris les amendements en vigueur au 1er janvier 2025, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : https://unece.org/about-adr ;
 
 - des dispositions particulières qui complètent notamment les annexes A et B de l'ADR et en précisent les modalités d'application aux transports nationaux ou internationaux par route de marchandises dangereuses effectués sur le territoire national.
 
@@ -744,7 +744,7 @@ En application du 8.3.3. de l'ADR, l'ouverture des colis en cours de transport e
 
 3.7.1. Livraison de certaines matières dangereuses liquides en GRV (à l'exception des carburants visés au 3.7.2).
 
-Lorsque la livraison de ces produits par véhicule-citerne n'est pas possible ou lorsque leur déchargement dans les réservoirs destinés à les accueillir ne peut s'effectuer autrement sans risque excessif pour la sécurité des personnes ou pour l'environnement, le déchargement des produits de traitement de l'eau par vidange de GRV peut être autorisé. La liste des matières autorisées ainsi que les prescriptions complémentaires applicables à ces livraisons figurent à l'appendice IV. 9 du présent arrêté.
+Lorsque la livraison de ces produits par véhicule-citerne n'est pas possible ou lorsque leur déchargement dans les réservoirs destinés à les accueillir ne peut s'effectuer autrement sans risque excessif pour la sécurité des personnes ou pour l'environnement, le déchargement des produits de traitement de l'eau par vidange de GRV peut être autorisé. Les prescriptions complémentaires applicables à ces livraisons figurent à l'appendice IV. 9 du présent arrêté.
 
 3.7.1.1. Lorsque la livraison de ces produits par véhicule-citerne n'est pas possible ou lorsque leur déchargement dans les réservoirs destinés à les accueillir ne peut s'effectuer autrement sans risque excessif pour la sécurité des personnes ou pour l'environnement, le déchargement par vidange de GRV des matières destinées au traitement de l'eau dont la liste figure au 2.2.1.2 peut être autorisé sur la voie publique.
 
@@ -1106,4 +1106,4 @@ Pour chaque année calendaire, un rapport conforme au modèle figurant à l'appe
 
 NOTA :
 
-Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), ces dispositions entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.
+Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), les dispositions de l'arrêté précité entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.

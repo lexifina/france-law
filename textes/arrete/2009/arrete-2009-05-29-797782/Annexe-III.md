@@ -8,7 +8,7 @@ DANGEREUSES PAR VOIES DE NAVIGATION INTÉRIEURES (ADN)
 
 1.1. La présente annexe est composée :
 
-- de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2025, tels que visés à la section III. 1 de l'annexe III de la directive 2008/68/CE du Parlement européen et du Conseil modifiée. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : https://unece.org/about-adr ;
+- de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2025, tels que visés à la section III. 1 de l'annexe III de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive déléguée (UE) 2025/149. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : https://unece.org/about-adr ;
 
 - des dispositions particulières qui complètent notamment le règlement annexé à l'ADN et en précisent les modalités d'application aux transports nationaux ou internationaux de marchandises dangereuses par voies de navigation intérieures effectués en France.
 
@@ -242,6 +242,4 @@ Huit leçons
 
 NOTA :
 
-Conformément à l’article 4 de l’arrêté du 23 novembre 2023 (NOR : TREP2328916A), ces dispositions entrent en vigueur le 1er janvier 2025.
-
-Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), ces dispositions entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.
+Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), les dispositions de l'arrêté précité entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.

@@ -2432,7 +2432,7 @@ Par ailleurs, le propriétaire a obligation de déclarer à la direction région
 
 Ces visites techniques périodiques sont réalisées et sanctionnées dans les conditions définies par l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds.
 
-Au cours des visites techniques, le contrôleur vérifie, en réalisant les contrôles décrits dans l'arrêté du 27 juillet 2004 susvisé et l'instruction technique sur les contrôles supplémentaires pour véhicules de transport de marchandises dangereuses soumis à certificat d'agrément,
+Au cours des visites techniques, le contrôleur vérifie, en réalisant les contrôles décrits dans l'arrêté du 27 juillet 2004 susvisé et l'instruction technique sur les contrôles supplémentaires pour véhicules de transport de marchandises dangereuses soumis à certificat d'agrément :
 
 - la concordance du véhicule et de la citerne avec les attestations délivrées en application du présent arrêté ainsi que la validité de ces documents ;
 
@@ -3012,9 +3012,9 @@ Afin de prévenir tout risque d'incendie les équipements suivants sont présent
 
 -un extincteur à poudre de type ABC de 2 kg disposé en cabine ;
 
--un extincteur à poudre de type ABC de 6 kg disposé dans le compartiment de charge ;
+-un extincteur à poudre de type ABC de 6 kg disposé dans le compartiment de chargement ;
 
--un système d'extinction automatique dans le compartiment de charge.
+-un système d'extinction automatique dans le compartiment de chargement.
 
 6.3. Equipements de protection individuelle.
 
@@ -3294,4 +3294,4 @@ Ces procédures de tri et de conditionnement sont mises à jour de manière rég
 
 NOTA :
 
-Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), ces dispositions entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.
+Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), les dispositions de l'arrêté précité entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.

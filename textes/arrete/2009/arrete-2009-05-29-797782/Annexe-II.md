@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT FERROVIAIRE DE MARCHANDISES DAN
 
 1.1. La présente annexe est composée :
 
-- de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le RID, tel que visé à la section II. 1 de l'annexe II de la directive 2008/68/CE du Parlement européen et du Conseil modifiée susvisée. Ce règlement, y compris les amendements en vigueur au 1er janvier 2025, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30,3006 Berne, Suisse. Il est disponible sur le site internet de l'OTIF à l'adresse suivante : http://www.otif.org/.
+- de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le RID, tel que visé à la section II. 1 de l'annexe II de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive déléguée (UE) 2025/149 susvisée. Ce règlement, y compris les amendements en vigueur au 1er janvier 2025, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30,3006 Berne, Suisse. Il est disponible sur le site internet de l'OTIF à l'adresse suivante : http://www.otif.org/.
 
 - des dispositions particulières qui complètent notamment l'annexe du RID et en précisent les modalités d'application aux transports nationaux ou internationaux ferroviaires de marchandises dangereuses effectués en France.
 
@@ -456,4 +456,4 @@ Les matières des n° ONU 3082 et 3077 de la classe 9 bénéficiant d'autorisati
 
 NOTA :
 
-Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), ces dispositions entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.
+Conformément à l’article 14 de l’arrêté du 3 décembre 2024 (NOR : TECP2431547A), les dispositions de l'arrêté précité entrent en vigueur le 1er janvier 2025. Toutefois, les dispositions du présent arrêté applicables avant cette date peuvent continuer d'être appliquées jusqu'au 30 juin 2025.
