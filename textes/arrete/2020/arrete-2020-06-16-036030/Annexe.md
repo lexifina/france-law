@@ -813,3 +813,49 @@ Agent en charge des contributions indirects au sein du bureau de Vallard Thonex
 |
 
 Du 1er février 2025 au 31 mars 2026 |
+
+Opération :
+
+Reconfiguration des bureaux de Colmar et Mulhouse
+
+Service concerné :
+
+Bureau de Mulhouse
+
+Emplois concernés :
+
+Agents du pôle fiscalité du bureau de Mulhouse
+
+|
+
+Du 1er juin 2025 au 31 août 2026 |
+
+Opération :
+
+Fermeture du bureau de Saint-Brieuc
+
+Service concerné :
+
+Bureau de Saint-Brieuc |
+
+Du 1er juillet 2025 au 30 septembre 2026 |
+
+Opération :
+
+Fermeture du bureau du Bourget
+
+Service concerné :
+
+Bureau du Bourget |
+
+Du 1er juin 2025 au 31 août 2026 |
+
+Opération :
+
+Déménagement de la Cellule d'intervention spécialisée (CIS) de Nice
+
+Service concerné :
+
+Cellule d'intervention spécialisée (CIS) de Nice |
+
+Du 1er mars 2025 au 31 août 2026 |
