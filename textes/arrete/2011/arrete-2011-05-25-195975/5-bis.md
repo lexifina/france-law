@@ -2,31 +2,19 @@
 
 Les travaux d'installation, de régulation ou de remplacement de systèmes de chauffage, de refroidissement ou de production d'eau chaude sanitaire performants sont réalisés à l'aide des solutions suivantes :
 
-1. Pose d'une chaudière à très haute performance énergétique, à l'exception de celle utilisant le fioul comme source d'énergie pour les immeubles non raccordés à un réseau de chaleur aidé par l'agence visée par la loi n° 90-1130 du 19 décembre 1990 portant création de l'Agence de l'environnement et de la maîtrise de l'énergie, et respectant les conditions suivantes :
-
-a. Lorsque la puissance est inférieure ou égale à 70 kW, une efficacité énergétique saisonnière pour le chauffage, définie selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/ CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage des locaux et aux dispositifs de chauffage mixtes, supérieure ou égale à 92 %,
-
-b. Lorsque la puissance est supérieure à 70 kW, chaudières à condensation présentant une efficacité utile pour le chauffage, définie selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013 précité, supérieure ou égale à :
-
--87 %, mesurée à 100 % de la puissance thermique nominale ; et
-
--95,5 %, mesurée à 30 % de la puissance thermique nominale ;
-
-La chaudière à très haute performance énergétique, à l'exception de celle utilisant le fioul comme source d'énergie, est accompagnée, sauf lorsque la chaudière assure uniquement la production d'eau chaude sanitaire, d'un dispositif de programmation du chauffage ;
-
-2. Pose d'une pompe à chaleur spécifiques, sous réserve qu'elles respectent une intensité maximale au démarrage de 45 A en monophasé ou de 60 A en triphasé lorsque leur puissance est inférieure à 25 kW, telles que :
+1. Pose d'une pompe à chaleur spécifiques, sous réserve qu'elles respectent une intensité maximale au démarrage de 45 A en monophasé ou de 60 A en triphasé lorsque leur puissance est inférieure à 25 kW, telles que :
 
 Les pompes à chaleur suivantes, y compris si elles intègrent un appoint, ayant une efficacité énergétique saisonnière pour le chauffage supérieure ou égale à 126 % pour celles à basse température ou à 111 % pour celles à moyenne et haute température ;
 
 a. Pompes à chaleur géothermiques eau/ eau et pompes à chaleur air/ eau, y compris solaire thermiques, pour lesquelles l'efficacité énergétique saisonnière pour le chauffage est calculée selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 précité ;
 
-b. Pompes à chaleur géothermiques sol/ eau, pour lesquelles l'efficacité énergétique saisonnière pour le chauffage est calculée selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 précité pour une température de 4° C du bain d'eau glycolée, conformément à la norme EN 15879-1 et une température de condensation de 35° C ;
+b. Pompes à chaleur géothermiques sol/ eau, pour lesquelles l'efficacité énergétique saisonnière pour le chauffage est calculée selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 précité pour une température de 4° C du bain d'eau glycolée, conformément à la norme NF EN 15879-1 ou toute autre méthode équivalente et une température de condensation de 35° C ;
 
 c. Pompes à chaleur géothermiques sol/ sol pour lesquelles l'efficacité énergétique saisonnière pour le chauffage est calculée selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 précité pour une température d'évaporation fixe de-5° C et une température de condensation de 35° C.
 
 Les pompes à chaleur sont accompagnées d'un dispositif de programmation du chauffage ;
 
-3. pose d'une chaudière bois ou autres biomasses, accompagnée d'un dispositif de programmation du chauffage, respectant les conditions suivantes :
+2. pose d'une chaudière bois ou autres biomasses, accompagnée d'un dispositif de programmation du chauffage, respectant les conditions suivantes :
 
 a) Chaudière à alimentation automatique fonctionnant au bois ou autre biomasse, de puissance inférieure à 300 kW, associée à un silo d'un volume minimal de 225 litres, neuf ou existant :
 
@@ -58,7 +46,7 @@ Une chaudière possédant le label Flamme verte 7*, ou un label équivalent, est
 
 Les chaudières mentionnées au a et au b sont équipées d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/ C 207/02 du 3 juillet 2014 dans le cadre du règlement (UE) n° 813/2013 de la Commission portant application de la directive 2009/125/ CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage des locaux et aux dispositifs de chauffage mixtes et du règlement délégué (UE) n° 811/2013 de la Commission complétant la directive 2010/30/ UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des dispositifs de chauffage des locaux, des dispositifs de chauffage mixtes, des produits combinés constitués d'un dispositif de chauffage des locaux, d'un régulateur de température et d'un dispositif solaire et des produits combinés constitués d'un dispositif de chauffage mixte, d'un régulateur de température et d'un dispositif solaire.
 
-4. pose d'un ou plusieurs poêles à bois, foyers fermés ou inserts de cheminée intérieurs ou cuisinières utilisées comme mode de chauffage conformes tels qu'ils respectent les exigences suivantes :
+3. pose d'un ou plusieurs poêles à bois, foyers fermés ou inserts de cheminée intérieurs ou cuisinières utilisées comme mode de chauffage conformes tels qu'ils respectent les exigences suivantes :
 
 a. Pour les appareils à granulés ou à plaquettes :
 
@@ -78,17 +66,17 @@ b. Pour les appareils à bûches ou autres biomasses :
 
 L'émission de monoxyde de carbone et le rendement énergétique sont mesurés selon les référentiels des normes en vigueur :
 
-Pour les poêles : norme NF EN 13240 ou NF EN 14785 ou NF EN 15250 ;
+Pour les poêles : norme NF EN 13240 + A2 ou NF EN 14785 ou NF EN 15250 ou NF EN 16510 ou toute autre méthode équivalente ;
 
-Pour les foyers fermés et les inserts de cheminées intérieures : norme NF EN 13229 ou NF EN 14785 ;
+Pour les foyers fermés et les inserts de cheminées intérieures : norme NF EN 13229 + A2 ou NF EN 14785 ou NF EN 16510 ou toute autre méthode équivalente ;
 
-Pour les cuisinières utilisées comme mode de chauffage : norme NF EN 12815.
+Pour les cuisinières utilisées comme mode de chauffage : norme NF EN 12815 + A1 ou NF EN 16510 ou toute autre méthode équivalente.
 
 L'émission de particules est exprimée en mg/ Nm ³ et mesurée selon la méthode A1 annexe A de la norme CEN/ TS 15883 ou une norme équivalente.
 
-Pour les appareils de masse artisanaux de conception unitaire, les valeurs d'émissions et de rendement sont exprimées selon le référentiel de la norme NF EN 15544. L'appareil (dont la chambre de combustion, l'accumulateur de chaleur et le conduit de fumée) est dimensionné sur le fondement d'une note de calcul détaillée, réalisée à l'aide d'un logiciel de dimensionnement dont les références sont rendues publiques sur le site internet du ministère chargé de l'énergie.
+Pour les appareils de masse artisanaux de conception unitaire, les valeurs d'émissions et de rendement sont exprimées selon le référentiel de la norme NF EN 15544 ou toute autre méthode équivalente. L'appareil (dont la chambre de combustion, l'accumulateur de chaleur et le conduit de fumée) est dimensionné sur le fondement d'une note de calcul détaillée, réalisée à l'aide d'un logiciel de dimensionnement dont les références sont rendues publiques sur le site internet du ministère chargé de l'énergie.
 
-5. pose d'un système utilisant l'énergie solaire pour la production de chauffage ou d'eau chaude sanitaire et dotés de capteurs solaires, installés avec appoint intégré, et dispositifs solaires installés sur appoint séparé, neuf ou existant. Les capteurs utilisés, qui disposent d'une certification CSTBat ou Solar Keymark ou équivalente, peuvent être thermiques à circulation de liquide ou d'air, ou hybrides thermiques et électriques à circulation de liquide. La surface hors tout de capteurs installés est supérieure ou égale à 1 m2.
+4. pose d'un système utilisant l'énergie solaire pour la production de chauffage ou d'eau chaude sanitaire et dotés de capteurs solaires, installés avec appoint intégré, et dispositifs solaires installés sur appoint séparé, neuf ou existant. Les capteurs utilisés, qui disposent d'une certification CSTBat ou Solar Keymark ou équivalente, peuvent être thermiques à circulation de liquide ou d'air, ou hybrides thermiques et électriques à circulation de liquide. La surface hors tout de capteurs installés est supérieure ou égale à 1 m2.
 
 a. Pour les équipements de production de chauffage fonctionnant à l'énergie solaire et les dispositifs solaires installés sur appoint séparé, neuf ou existant, pour la production de chauffage : une efficacité énergétique saisonnière, définie selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 portant application de la directive 2009/125/ CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage des locaux et aux dispositifs de chauffage mixtes, supérieure ou égale à :
 
@@ -240,23 +228,7 @@ Peuvent être associés à ces travaux :
 
 -l'acquisition d'appareils de régulation de chauffage permettant le réglage manuel ou automatique et la programmation des équipements de chauffage ou de production d'eau chaude sanitaire :
 
-1° Appareils installés dans une maison individuelle : systèmes permettant la régulation centrale des installations de chauffage prenant en compte l'évolution de la température d'ambiance de la pièce ou de la température extérieure, avec horloge de programmation ou programmateur mono ou multizone, systèmes permettant les régulations individuelles terminales des émetteurs de chaleur, systèmes de limitation de la puissance électrique du chauffage électrique en fonction de la température extérieure ; systèmes gestionnaires d'énergie ou de délestage de puissance du chauffage électrique lorsqu'ils permettent un arrêt temporaire des appareils concernés dans le cas où la puissance appelée est amenée à dépasser la puissance souscrite ; 2° Appareils installés dans un immeuble collectif : outre les systèmes énumérés au 1°, matériels nécessaires à l'équilibrage des installations de chauffage permettant une répartition correcte de la chaleur délivrée à chaque logement, matériels permettant la mise en cascade de chaudières, à l'exclusion de l'installation de nouvelles chaudières, systèmes de télégestion de chaufferie assurant les fonctions de régulation et de programmation du chauffage, systèmes permettant la régulation centrale des équipements de production d'eau chaude sanitaire dans le cas de production combinée d'eau chaude sanitaire et d'eau destinée au chauffage ;
-
--la dépose d'une cuve à fioul, d'un réservoir de fioul ou d'un stockage de fioul, au sens de l'arrêté du 1er juillet 2004 fixant les règles techniques et de sécurité applicables au stockage de produits pétroliers dans les lieux non visés par la législation des installations classées ni la réglementation des établissements recevant du public :
-
-a) Non enterré en plein air, mentionné au titre IV de l'arrêté du 1er juillet 2004 précité ;
-
-b) A rez-de-chaussée ou en sous-sol d'un bâtiment, mentionné au titre V du même arrêté ;
-
-c) Enterré, mentionné au titre VI du même arrêté ;
-
-d) Autre, mentionné au titre VII du même arrêté ;
-
-Les modalités d'abandon de la cuve à fioul, du réservoir ou du stockage de fioul respectent les exigences définies à l'article 28 du même arrêté.
-
-L'entreprise réalisant les travaux mentionnés au 1 du présent article est titulaire d'un signe de qualité correspondant à la catégorie 1 du I. de l'article 1er du décret n° 2014-812 du 16 juillet 2014 précité.
-
-L'entreprise réalisant les travaux mentionnés au 2 du présent article est titulaire d'un signe de qualité correspondant à la catégorie 5 du I. de l'article 1er du décret n° 2014-812 du 16 juillet 2014 précité, à l'exception de l'entreprise réalisant la pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques qui est titulaire d'un signe de qualité correspondant à la catégorie 16 du I. de l'article 1er du décret n° 2014-812 du 16 juillet 2014 précité.
+Les travaux nécessaires mentionnés à l'article D. 319-17, indissociablement liés aux travaux d'installation, de régulation ou de remplacement de systèmes de chauffage, de refroidissement ou de production d'eau chaude sanitaire, sont les dépenses induites mentionnées aux articles 6 et 7 de l'arrêté du 30 mars 2009 susvisé.
 
 L'entreprise réalisant les travaux mentionnés au 3 du présent article est titulaire d'un signe de qualité correspondant à la catégorie 3 du I. de l'article 1er du décret n° 2014-812 du 16 juillet 2014 précité.
 
@@ -282,4 +254,4 @@ Les travaux nécessaires, indissociablement liés aux travaux d'installation, de
 
 NOTA :
 
-Conformément à l'article 11 de l'arrêté du 30 décembre 2020, ces dispositions sont applicables aux offres de prêts émises à compter du 1er janvier 2021.
+Conformément à l'article 27 de l'arrêté du 27 mars 2025 (NOR : ATDL2434978A), ces dispositions s'appliquent aux offres de prêt émises à compter du 1er juillet 2025.
