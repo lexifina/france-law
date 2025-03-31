@@ -66,6 +66,40 @@ Encadrement des activités physiques ou sportives à destination de différents 
 
 |
 
+DEUST " manager de club sportif ", délivré jusqu'au 31 décembre 2024.
+
+|
+
+Encadrement des activités physiques ou sportives. |
+
+A l'exclusion des personnes ayant un handicap, une déficience intellectuelle ou un trouble psychique. |
+
+B.-Diplômes délivrés par le ministère chargé de l'éducation nationale
+
+Mention complémentaire " encadrement secteur sportif " option " activités physiques pour tous " délivrée jusqu'au 31 août 2027. |
+
+Encadrement et animation des activités physiques ou sportives. |
+
+A l'exclusion des pratiques compétitives. |
+
+Mention complémentaire " encadrement secteur sportif " option " activités aquatiques et de la natation " délivrée jusqu'au 31 août 2027. |
+
+Encadrement de séances en aqua fitness. Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages. Surveillance et sauvetage en milieu aquatique. |
+
+Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
+
+Mention complémentaire " encadrement secteur sportif " option " activités de la forme-haltérophilie, musculation " délivrée jusqu'au 31 août 2027. |
+
+Découverte d'activités de loisir et d'animation des activités de la forme. Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en cardio-training et en haltérophilie. |
+
+|
+
+Mention complémentaire " encadrement secteur sportif " option " activités de la forme-cours collectifs " délivrée jusqu'au 31 août 2027. |
+
+Découverte d'activités de loisir et d'animation des activités de la forme. Encadrement, initiation et conduite de cycles d'apprentissage des activités de la forme en cours collectifs. |
+
+|
+
 C.-Diplômes délivrés par le ministre chargé des sports
 
 C-1.-Brevet d'Etat d'éducateur sportif (BEES)
@@ -1160,6 +1194,180 @@ Conduite de séances et de cycles d'initiation, de découverte et d'animation sp
 
 |
 
+BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive jusqu'à la classe III, en eau calme et en mer jusqu'à 4 Beaufort ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement, animation et conduite de cycles d'apprentissage en eau vive jusqu'à la classe III incluse et en eau calme et en mer par vent de force 4 beaufort maximum sur le site d'évolution, des activités du canoë-kayak et disciplines associées, sur tout support ou embarcation propulsée à la pagaie ou à la nage.
+
+Encadrement du longe-côte.
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des activités dérivées du surf de mer. |
+
+BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en mer ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement, animation et conduite de cycles d'apprentissage en eau calme et en mer des activités du canoë-kayak et disciplines associées, sur tout support ou embarcation propulsée à la pagaie ou à la nage.
+
+Encadrement du longe-côte.
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des activités dérivées du surf de mer. |
+
+BP JEPS, spécialité " éducateur sportif ", mention " activités du canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement, animation et conduite de cycles d'apprentissage en eau calme et en eau vive, des activités du canoë-kayak et disciplines associées, sur tout support ou embarcation propulsée à la pagaie ou à la nage.
+
+Encadrement du canyonisme, jusqu'à la cotation V1, A 5 et E II incluse.
+
+Encadrement du longe-côte.
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des activités dérivées du surf de mer. |
+
+BP JEPS, spécialité " éducateur sportif " mention " glisse aérotractée et disciplines associées ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement, animation et enseignement :-des activités de glisses aérotractées nautiques et terrestres ;
+
+-des activités de découverte et d'initiation du cerf-volant ; Encadrement et animation des activités de découverte des engins tractés (bouées, ski-bus, fly fish).
+
+Encadrement du longe-côte.
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des activités dérivées du surf de mer. |
+
+BP JEPS, spécialité " éducateur sportif ", mention " activités du cyclisme ", délivré jusqu'au 1er janvier 2025
+
+|
+
+Encadrement et animation des activités du cyclisme. |
+
+A l'exclusion :
+
+-de toute pratique compétitive ;
+
+-du VTT de descente (VTT downhill) et des disciplines associées ;
+
+-du VTT pratiqué sur des parcours et pistes nécessitant des techniques de pilotage (sentiers monotraces comportant des obstacles nombreux, importants) ;
+
+-du BMX pratiqué au-delà d'un niveau initiation découverte. |
+
+BP JEPS, spécialité " éducateur sportif ", mention " activités équestres ", option : " initiation poney, cheval ", " approfondissement technique " ou " équitation extérieur ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Animation et enseignement des activités équestres. |
+
+|
+
+BP JEPS, spécialité " éducateur sportif ", mention " escrime ", option " fleuret/ épée ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement, initiation et conduite de cycles d'apprentissage dans les deux armes de l'option. |
+
+|
+
+BP JEPS, spécialité " éducateur sportif ", mention " escrime ", option " fleuret/ sabre ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement, initiation et conduite de cycles d'apprentissage dans les deux armes de l'option. |
+
+|
+
+BP JEPS, spécialité " éducateur sportif ", mention " escrime ", option " sabre/ épée ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement, initiation et conduite de cycles d'apprentissage dans les deux armes de l'option. |
+
+|
+
+BP JEPS, spécialité " éducateur sportif " mention " hockey ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement, initiation et conduite de cycle d'apprentissage et de séances d'entrainement en hockey. |
+
+|
+
+BP JEPS, spécialité " éducateur sportif " mention " karaté, wushu et disciplines associées ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement, animation initiation et préparation aux grades du 1er au 4e dan.
+
+Conduite de cycles d'apprentissage en karaté, wushu et disciplines associées |
+
+|
+
+BP JEPS, spécialité " éducateur sportif " mention " motonautisme et disciplines associées ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement et animation en motonautisme et disciplines associées des activités de véhicules nautiques à moteur à bras et à selle ; d'engins tractés et d'engins à sustentation hydro propulsés ; de bateau à moteur en initiation et découverte. |
+
+|
+
+BP JEPS, spécialité " éducateur sportif ", mention " activités de la savate " option " boxe française ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement des activités de découverte et d'initiation des activités de la savate. Encadrement, initiation et conduite de cycles d'apprentissage en savate, boxe française. |
+
+|
+
+BP JEPS, spécialité " éducateur sportif ", mention " activités de la savate " option " canne de combat et bâton ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement des activités de découverte et d'initiation des activités de la savate. Encadrement, initiation et conduite de cycles d'apprentissage en canne de combat et bâton. |
+
+|
+
+BP JEPS spécialité " éducateur sportif " mention " voile multi-supports jusqu'à 6 milles nautiques d'un abri ", jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement, animation d'activités de découverte et d'initiation de la voile et entraînement sur l'ensemble des supports.
+
+Encadrement du longe-côte.
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion de l'activité croisière.
+
+Dans la limite de 6 milles nautiques d'un abri.
+
+A l'exclusion des activités dérivées du surf de mer. |
+
+BP JEPS spécialité " éducateur sportif " mention " voile croisière jusqu'à 200 milles nautiques d'un abri ", jusqu'au 1er janvier 2025.
+
+|
+
+Encadrement, animation d'activités de découverte et d'initiation, entraînement en voile croisière.
+
+Encadrement du longe-côte.
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des embarcations légères.
+
+Dans la limite de 200 milles nautiques d'un abri.
+
+A l'exclusion des activités dérivées du surf de mer. |
+
 C-4.-Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport et diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (DE JEPS ET DES JEPS)
 
 INTITULÉ DU DIPLÔME |
@@ -1536,6 +1744,342 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
+DE JEPS, spécialité " perfectionnement sportif " mention " canoë-kayak et disciplines associées en eau vive ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
+
+Encadrement du longe-côte.
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des activités dérivées du surf de mer. |
+
+DE JEPS, spécialité " perfectionnement sportif " mention " BMX ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif " mention " cyclisme traditionnel ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif " mention " VTT ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS spécialité " perfectionnement sportif " mention " natation course ", jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
+
+Encadrement du longe-côte. |
+
+|
+
+DE JEPS spécialité " perfectionnement sportif " mention " plongeon ", jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
+
+Encadrement du longe-côte. |
+
+|
+
+DE JEPS spécialité " perfectionnement sportif " mention " water-polo ", jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
+
+Encadrement du longe-côte. |
+
+|
+
+DE JEPS spécialité " perfectionnement sportif " mention " natation synchronisée ", jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
+
+Encadrement du longe-côte. |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif " mention " pelote basque ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif " mention " vol ultra léger motorisé ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif " mention " sports boules ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif " mention " roller-skating ", jusqu'au 1er janvier 2025 (**).
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif " mention " skateboard ", jusqu'au 1er janvier 2025 (**).
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, " perfectionnement sportif " mention " voile au-delà de 200 milles nautiques d'un abri ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
+
+Encadrement du longe-côte.
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des activités dérivées du surf de mer. |
+
+DE JEPS, " perfectionnement sportif " mention " vol à moteur ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, " perfectionnement sportif " mention " vol à voile ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, " perfectionnement sportif " mention " deltaplane ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, " perfectionnement sportif " mention " parapente ", obtenu à partir du 1er janvier 2020 et délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, " performance sportive " mention " deltaplane ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, " performance sportive " mention " parapente ", obtenu à partir du 1er janvier 2020 et délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " roller-skating ", jusqu'au 1er janvier 2025 (**).
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " skateboard ", jusqu'au 1er janvier 2025 (**).
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS spécialité " performance sportive " mention " natation course ", jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.
+
+Encadrement du longe-côte. |
+
+|
+
+DES JEPS spécialité " performance sportive " mention " plongeon ", jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.
+
+Encadrement du longe-côte. |
+
+|
+
+DES JEPS spécialité " performance sportive " mention " water-polo ", jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.
+
+Encadrement du longe-côte. |
+
+|
+
+DES JEPS spécialité " performance sportive " mention " natation synchronisée ", jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.
+
+Encadrement du longe-côte |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " athlétisme : demi-fond, marche, hors stade ", jusqu'au 1er janvier 2025 (**).
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " athlétisme : épreuves combinées ", jusqu'au 1er janvier 2025 (**).
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " athlétisme : lancers ", jusqu'au 1er janvier 2025 (**).
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " athlétisme : sauts ", jusqu'au 1er janvier 2025 (**).
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " athlétisme : sprint, haies, relais ", jusqu'au 1er janvier 2025 (**).
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " sports équestres ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " gymnastique acrobatique ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " gymnastique artistique féminine ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " gymnastique aérobic ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " gymnastique artistique masculine ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " gymnastique rythmique ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " trampoline ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive " mention " tumbling ", délivré jusqu'au 1er janvier 2025.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
 C-5.-Diplôme d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
 
 INTITULÉ DU DIPLÔME |
@@ -1698,9 +2242,11 @@ Découverte et initiation des activités équestres |
 
 Sous l'autorité d'un titulaire d'une certification de niveau 4 ou supérieur dans le domaine des activités équestres |
 
-Accompagnateur de tourisme équestre, délivré jusqu'au 7 juin 2021 |
+Accompagnateur de tourisme équestre, délivré jusqu'au 7 juin 2021 puis du 26 janvier 2022 au 26 janvier 2025. |
 
-Accompagnement et conduite de randonnées équestres, dans le cadre de parcours identifiés. |
+Accompagnement et conduite de randonnées équestres, dans le cadre de parcours identifiés.
+
+|
 
 |
 
@@ -2637,5 +3183,13 @@ CQP " moniteur d'arts martiaux " option " arts énergétiques chinois ", du 31 m
 |
 
 Conduite de séances de découverte et d'initiation des activités d'arts énergétiques chinois. |
+
+|
+
+CQP " animateur d'escalade sur structure artificielle ", délivré du 26/01/22 au 26/01/25.
+
+|
+
+Encadrement des activités d'escalade sur structure artificielle d'escalade. |
 
 |
