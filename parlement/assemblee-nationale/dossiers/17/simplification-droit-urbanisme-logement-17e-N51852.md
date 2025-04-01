@@ -1,0 +1,52 @@
+# Simplification du droit de l'urbanisme et du logement
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N51852
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/simplification_droit_urbanisme_logement_17e
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl24-632.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2025-04-01 : 1er dépôt d'une initiative. (PIONANR5L17B1240)
+  - 2025-04-28 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-04-01 : Renvoi en commission au fond
+      - 2025-04-09 : Nomination de rapporteur
+      - 2025-04-09 : Réunion de commission
+      - 2025-05-07 : Réunion de commission
+      - 2025-05-07 : Réunion de commission
+      - 2025-05-14 : Réunion de commission
+      - 2025-05-07 : Dépôt de rapport (RAPPANR5L17B1378, PIONANR5L17BTC1378)
+  - Discussion en séance publique
+    - 2025-05-15 : Discussion en séance publique
+    - 2025-05-15 : Discussion en séance publique
+    - 2025-05-15 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2025-05-15 : Dépôt d'une initiative en navette (PIONSNR5S459B0632)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-05-15 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2025-06-04 : Dépôt de rapport (RAPPSNR5S459B0693, PIONSNR5S459BTC0694)
+  - Discussion en séance publique
+    - 2025-06-17 : Décision
+- Commission Mixte Paritaire
+  - 2025-06-18 : Dépôt d'un projet de loi (PIONANR5L17B1589)
+  - 2025-06-18 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2025-07-03 : Nomination de rapporteur
+    - 2025-07-03 : Dépôt du rapport d'une CMP (RAPPANR5L17B1672, PIONANR5L17BTC1672)
+    - 2025-07-03 : Dépôt du rapport d'une CMP (RAPPSNR5S459B0826, PIONSNR5S459BTC0827)
+  - Discussion en séance publique
+  - Discussion en séance publique
+    - 2025-10-15 : Discussion en séance publique
+    - 2025-10-15 : Décision
+  - 2025-07-07 : Décision de la CMP
+- Conseil constitutionnel
+  - 2025-10-21 : Saisine du conseil constitutionnel
+  - 2025-11-20 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2025-11-26 : Promulgation d'une loi
