@@ -1,0 +1,9 @@
+# Réponse à la question n° 4248
+
+- Question : [4248](4248.md) — Question n° 4248 — Patrimoine - Inclusion des chiens courants dans la liste des PCI de l'UNESCO
+
+## Réponse
+
+*JO du 2025-04-01, page 2250*
+
+Les chiens courants, classés dans le groupe 6 de la fédération cynologique internationale incluant aussi les chiens de recherche au sang et d'autres races apparentées, sont utilisés par les chasseurs pour la chasse à tir ou la chasse à courre du grand gibier. Si l'intention culturelle visée par la reconnaissance patrimoniale du dressage de chiens de chasse en tant que patrimoine culturel immatériel (PCI) au sens de l'Unesco est la « sensibilisation du public à l'importance de la relation entre l'homme et l'animal dans la société », il est à craindre au contraire qu'un projet d'inscription de cette pratique patrimoniale consistant à dresser certains animaux à poursuivre ou en attraper d'autres afin que l'homme en consomme la viande n'attise des différends existants au sein de la société civile sur les questions cynégétiques. L'Unesco n'inscrit sur ses listes que des pratiques culturelles conformes à certains principes et valeurs. La Convention de l'Unesco de 2003 pour la sauvegarde du patrimoine culturel immatériel promeut ainsi la diversité culturelle, mais aussi le rapprochement des êtres humains, impliquant de ne reconnaître que des pratiques culturelles ne heurtant pas la sensibilité des communautés dans leurs relations mutuelles et réciproques, et ne renforçant pas des tensions sociales existantes (article 2 de la Convention, 13e considérant, décision du 9e comité intergouvernemental, note d'orientation). Le service responsable de la mise en œuvre de la Convention de l'Unesco a fait connaître la position du ministère de la culture aux porteurs de ce projet de candidature.
