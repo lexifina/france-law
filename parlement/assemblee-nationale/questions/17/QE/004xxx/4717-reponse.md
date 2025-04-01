@@ -1,0 +1,9 @@
+# Réponse à la question n° 4717
+
+- Question : [4717](4717.md) — Question n° 4717 — Pérennisation des maisons des 1000 premiers jours
+
+## Réponse
+
+*JO du 2025-04-01, page 2331*
+
+Au second semestre 2024, la direction générale de la cohésion sociale a repris la direction de projet interministérielle de la politique des 1 000 premiers jours de l'enfant, permettant de réaliser un bilan de la première feuille de route 2021-2023 et préparer une nouvelle feuille de route 2025-2027. Dans le même temps, un appel à manifestation d'intérêt pour la création de "maisons des 1 000 premiers jours en Outre-mer" a été lancé fin 2024 dans cinq départements et régions d'Outre-mer dont la Guadeloupe, pour accompagner des projets déjà en cours de développement ou faire émerger ce type de structures dans les territoires concernés. Le suivi des projets est en cours, en lien avec les Agences régionales de santé (ARS) et services déconcentrés de l'Etat. La réalisation des projets passe par une contractualisation entre les ARS et le porteur de projet, qui peut être une collectivité territoriale - notamment de niveau départemental, le cahier des charges prévoyant obligatoirement l'implication des services de protection maternelle et infantile dans les projets - ou une association. A partir de 2025, la nouvelle feuille de route prévoit d'accompagner sur tout le territoire national le maillage en maisons des 1 000 premiers jours, regroupant ainsi dans un lieu unique des services de suivi périnatal, de soutien à la parentalité, des actions favorisant l'éveil et le développement de l'enfant et potentiellement de l'aide dans l'accès aux droits pour les parents. Des structures de ce type existent déjà, mobilisant des financements croisés au niveau local (caisses d'allocations familiales, départements, ARS). Un appel à projet national et des crédits dédiés pourront accompagner le démarrage de projets nouveaux.
