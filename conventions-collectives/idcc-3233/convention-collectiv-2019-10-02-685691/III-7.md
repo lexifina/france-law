@@ -19,3 +19,5 @@ De cette somme il sera déduit la valeur des capitaux décès auxquels ces ayant
 Toutefois, les majorations accordées pour charge de famille par les caisses de prévoyance ne seront pas comprises dans la valeur des capitaux décès à déduire.
 
 En cas de décès au cours d'un déplacement de service, les frais de retour du corps seront à la charge de l'employeur.
+
+Par ailleurs, en application de l'article 2.1 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres, sont considérés cadres l'ensemble des salariés relevant du présent titre III et définis à l'article III. 1 (positions I, II et III de la classification ingénieurs et cadres figurant au sous-titre III. A).
