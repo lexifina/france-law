@@ -36,7 +36,7 @@ III.-La taxe est assise sur la valeur d'acquisition du titre. En cas d'échange,
 
 IV.-La taxe est exigible le premier jour du mois suivant celui au cours duquel s'est produite l'acquisition du titre.
 
-V.-Le taux de la taxe est fixé à 0,3 %.
+V.-Le taux de la taxe est fixé à 0,4 %.
 
 VI.-La taxe est liquidée et due par l'opérateur fournissant des services d'investissement, au sens de l'article L. 321-1 du code monétaire et financier, ayant exécuté l'ordre d'achat du titre ou ayant négocié pour son compte propre, quel que soit son lieu d'établissement.
 
@@ -71,3 +71,7 @@ En cas de manquement du redevable ou de l'adhérent aux obligations déclarative
 XII.-La taxe est recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces mêmes taxes.
 
 XIII.-(Abrogé).
+
+NOTA :
+
+Conformément au II de l'article 98 de la loi n° 2025-127 du 14 février 2025, les modifications prévues par le I du même article s'appliquent aux acquisitions réalisées à compter du premier jour du deuxième mois suivant la promulgation de la présente loi, soit le premier avril 2025.
