@@ -1,150 +1,166 @@
 # Article Annexe 2
 
-AU 1ER AVRIL 2024
+AU 1ER AVRIL 2025
 
 Tableau 1.-Frais de scolarité
 
 Pays de résidence (rythme sud)
 
-frais de scolarité (montant annuel) |
+Frais de scolarité
 
-Enfants de moins
+(Montant annuel en euros) |
 
-de 10 ans |
+Enfants
 
-Enfants de 10 à 15 ans |
+de moins de 10 ans |
 
-Enfants de plus
+Enfants
 
-de 15 ans |
+de 10 à 15 ans |
+
+Enfants
+
+de plus de 15 ans |
 
 ARGENTINE |
 
-5 868 |
+8 721 |
 
-6 192 |
+9 228 |
 
-6 756 |
+10 088 |
 
 BOLIVIE |
 
-5 856 |
+6 238 |
 
-6 744 |
+7 155 |
 
-7 056 |
+7 477 |
 
-BRESIL (Rio) |
+BRÉSIL (Rio) |
 
-10 692 |
+9 787 |
 
-11 124 |
+10 183 |
 
-11 124 |
+10 183 |
 
-BRESIL (Sao Paulo) |
+BRÉSIL (Sao Paulo) |
 
-9 612 |
+9 036 |
 
-10 464 |
+9 830 |
 
-10 464 |
+9 830 |
 
 CHILI |
 
-6 684 |
+7 902 |
 
-6 684 |
+7 902 |
 
-6 684 |
+7 902 |
 
 COSTA RICA |
 
-5 724 |
+6 699 |
 
-5 724 |
+6 699 |
 
-5 724 |
+6 699 |
 
-PEROU |
+PÉROU |
 
-6 924 |
+8 069 |
 
-6 924 |
+8 069 |
 
-6 924 |
+8 069 |
 
 URUGUAY |
 
-9 384 |
+9 547 |
 
-10 176 |
+10 524 |
 
-10 644 |
+10 983 |
 
 VANUATU |
 
 4 800 |
 
-5 448 |
+5 446 |
 
-6 024 |
+6 020 |
 
 Tableau 2.-Droits de première inscription
 
 Pays de résidence (rythme sud)
 
-Droit de première inscription (montant annuel) |
+Droit de première inscription
 
-Enfants de moins
+(Montant annuel en euros) |
 
-de 10 ans |
+Enfants
 
-Enfants de 10 à 15 ans |
+de moins de 10 ans |
 
-Enfants de plus
+Enfants
 
-de 15 ans |
+de 10 à 15 ans |
+
+Enfants
+
+de plus de 15 ans |
 
 ARGENTINE |
 
-301 |
+640 |
 
-301 |
+640 |
 
-301 |
+640 |
 
 BOLIVIE |
 
-2 241 |
+2 302 |
 
-2 241 |
+2 302 |
 
-2 241 |
+1 740 |
 
-BRESIL (Rio) |
+BRÉSIL (Rio) |
 
-831 |
+756 |
 
-867 |
+789 |
 
-867 |
+789 |
+
+BRÉSIL (Sao Paulo) |
+
+693 |
+
+759 |
+
+759 |
 
 CHILI |
 
-3 477 |
+3 863 |
 
-3 477 |
+3 863 |
 
-3 477 |
+3 863 |
 
-PEROU |
+PÉROU |
 
-1 934 |
+977 |
 
-558 |
+586 |
 
-558 |
+586 |
 
 VANUATU |
 
@@ -156,4 +172,4 @@ VANUATU |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 13 mai 2024 (NOR : EAEA2410159A), ces dispositions prennent effet le 1er avril 2024.
+Conformément à l'article 2 de l'arrêté du 16 avril 2025 (NOR : EAEA2508648A), ces dispositions entrent en vigueur le 1er avril 2025.
