@@ -1752,17 +1752,13 @@ Evreux |
 
 Cantons de Breteuil, Conches-en-Ouche, Damville, Évreux-Est, Évreux-Nord, Évreux-Ouest, Évreux-Sud, Nonancourt, Pacy-sur-Eure, Rugles, Saint-André-de-l'Eure, Verneuil-sur-Avre, Vernon-Nord et Vernon-Sud. |
 
-|
-
 Bernay |
 
 Cantons de Beaumesnil, Beaumont-le-Roger, Bernay-Est, Bernay-Ouest, Beuzeville, Bourgtheroulde-Infreville, Brionne, Broglie, Cormeilles, Montfort-sur-Risle, Pont-Audemer, Quillebeuf-sur-Seine, Routot, Saint-Georges-du-Vièvre, Thiberville et commune des Monts du Roumois. |
 
-|
-
 Louviers |
 
-Cantons d'Amfreville-la-Campagne (à l'exception de la fraction de commune des Monts du Roumois), Écos, Étrépagny, Fleury-sur-Andelle, Gaillon, Gaillon-Campagne, Gisors, Le Neubourg, Les Andelys, Louviers-Nord, Louviers-Sud, Lyons-la-Forêt, Pont-de-l'Arche et Val-de-Rueil. |
+Cantons d'Amfreville-la-Campagne (à l'exception de la fraction de commune des Monts du Roumois), Écos, Étrépagny, Fleury-sur-Andelle, Gaillon, Gaillon-Campagne, Gisors, Le Neubourg, Les Andelys, Louviers-Nord, Louviers-Sud, Lyons-la-Forêt, Pont-de-l'Arche et Val-de-Reuil. |
 
 Seine-Maritime |
 
@@ -1770,7 +1766,7 @@ Dieppe |
 
 |
 
-Cantons d'Argueil, Aumale, Bacqueville-en-Caux, Bellencombre, Blangy-sur-Bresle, Dieppe-Est, Dieppe-Ouest, Envermeu, Eu, Forges-les-Eaux, Gournay-en-Bray, Londinières, Longueville-sur-Scie, Neufchâtel-en-Bray, Offranville, Saint-Saëns et Tôtes. |
+Cantons d'Argueil (à l'exception de la fraction de commune de Morville-le-Héron), Aumale, Bacqueville-en-Caux, Bellencombre, Blangy-sur-Bresle, Dieppe-Est, Dieppe-Ouest, Envermeu, Eu, Forges-les-Eaux, Gournay-en-Bray, Londinières, Longueville-sur-Scie, Neufchâtel-en-Bray, Offranville, Saint-Saëns et Tôtes. |
 
 Le Havre |
 
@@ -1782,7 +1778,7 @@ Rouen |
 
 |
 
-Cantons de Bois-Guillaume, Boos, Buchy, Cany-Barville, Caudebec-en-Caux (à l'exception de la fraction de commune de Port-Jérôme-sur-Seine), Caudebec-lès-Elbeuf, Clères, Darnétal, Doudeville, Duclair, Elbeuf, Fontaine-le-Dun, Grand-Couronne, Le Grand-Quevilly, Le Petit-Quevilly, Maromme, Mont-Saint-Aignan, Notre-Dame-de-Bondeville, Ourville-en-Caux, Pavilly, Rouen 1er Canton, Rouen 2e Canton, Rouen 3e Canton, Rouen 4e Canton, Rouen 5e Canton, Rouen 6e Canton, Rouen 7e Canton, Saint-Étienne-du-Rouvray, Saint-Valery-en-Caux, Sotteville-lès-Rouen-Est, Sotteville-lès-Rouen-Ouest, Yerville et Yvetot. |
+Cantons de Bois-Guillaume, Boos, Buchy, Cany-Barville, Caudebec-en-Caux (à l'exception de la fraction de commune de Port-Jérôme-sur-Seine), Caudebec-lès-Elbeuf, Clères, Darnétal, Doudeville, Duclair, Elbeuf, Fontaine-le-Dun, Grand-Couronne, Le Grand-Quevilly, Le Petit-Quevilly, Maromme, Mont-Saint-Aignan, Notre-Dame-de-Bondeville, Ourville-en-Caux, Pavilly, Rouen 1er Canton, Rouen 2e Canton, Rouen 3e Canton, Rouen 4e Canton, Rouen 5e Canton, Rouen 6e Canton, Rouen 7e Canton, Saint-Étienne-du-Rouvray, Saint-Valery-en-Caux, Sotteville-lès-Rouen-Est, Sotteville-lès-Rouen-Ouest, Yerville et Yvetot et commune de Morville-le-Héron. |
 
 Cour d'appel de Saint-Denis |
 
@@ -2090,6 +2086,4 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 NOTA :
 
-Conformément à l'article 2 du décret n° 2025-122 du 11 février 2025, les dispositions dudit décret entrent en vigueur le 1er mars 2025.
-
-Conformément à l'article 2 du décret n° 2025-145 du 18 février 2025, les dispositions dudit décret entrent en vigueur le 1er mars 2025.
+Conformément à l'article 2 du décret n° 2025-173 du 21 février 2025, ces dispositions entrent en vigueur le 1er avril 2025.
