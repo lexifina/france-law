@@ -1080,7 +1080,11 @@ Conformément au III de l'article 2 de l'arrêté du 19 décembre 2023 (NOR : EN
 
 - Dispositif solaire thermique (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-168
 
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° BAR-TH-168 est remplacée à compter du 1er avril 2025 par la fiche portant la même référence présente à l'annexe B de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+
 - Pompe à chaleur collective de type air/eau ou eau/eau pour l'eau chaude sanitaire / Fiche d'opération standardisée n° BAR-TH-169
+
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° BAR-TH-169 est remplacée à compter du 1er avril 2025 par la fiche portant la même référence présente à l'annexe B de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
 - Récupération de chaleur fatale issue de serveurs informatiques pour l'eau chaude sanitaire collective / Fiche d’opération standardisée n° BAR-TH-170
 
@@ -1308,7 +1312,11 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 - Désembouage d'un réseau hydraulique individuel de chauffage en France métropolitaine / Fiche d’opération standardisée n° BAR-SE-108
 
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° BAR-SE-108 est remplacée à compter du 1er avril 2025 par la fiche portant la même référence présente à l'annexe B de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+
 - Désembouage d'un réseau hydraulique de chauffage collectif en France métropolitaine / Fiche d’opération standardisée n° BAR-SE-109
+
+Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° BAR-SE-109 est remplacée à compter du 1er avril 2025 par la fiche portant la même référence présente à l'annexe B de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
 Opération n° BAR-TH-171
 
