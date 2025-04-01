@@ -1,0 +1,9 @@
+# Réponse à la question n° 637
+
+- Question : [637](637.md) — Question n° 637 — Obligation d'ouverture d'un PER
+
+## Réponse
+
+*JO du 2025-04-01, page 2266*
+
+La loi PACTE (plan d'action pour la croissance et la transformation des entreprises) du 22 mai 2019 a permis la création d'un produit d'épargne retraite unique et portable, le plan d'épargne retraite (PER). Cinq ans après la réforme, le déploiement du produit est un succès, avec plus de 11 millions de titulaires pour un total de 118,9 Mds € d'encours au 30 septembre 2024. La loi de finances pour 2024 a mis fin à la possibilité d'ouvrir un PER mineur pour deux raisons. Premièrement, car cette possibilité ne répond pas à l'esprit du produit PER. En effet, celui-ci permet, dans un cadre collectif ou individuel, de constituer une épargne retraite supplémentaire afin d'accroître le taux de remplacement au moment du départ à la retraite. Dans ce cadre, le PER a été pensé comme un outil d'épargne pour les actifs, alimenté par les revenus du travail. C'est à ce titre qu'une exonération d'impôts sur le revenu est possible dans le cadre du PER individuel, et que les PER collectifs et obligatoires sont alimentés par l'employeur et parfois le salarié. Deuxièmement, la loi de finances pour 2024 a permis de neutraliser une pratique d'optimisation fiscale via l'ouverture d'un PER pour enfant mineur, certes marginale, qui ouvrait la possibilité pour certains ménages d'augmenter le plafond maximal de déductibilité des versements volontaires sur le PER individuel à l'impôt sur le revenu. Ainsi, les PER individuels ouverts pour un enfant mineur avant le 1er janvier 2024 ne peuvent plus accueillir depuis cette date de versements volontaires, et ce jusqu'à la majorité de l'enfant. L'amendement a prévu par ailleurs que ces plans pourront être débloqués de manière anticipée avant la majorité de l'enfant.
