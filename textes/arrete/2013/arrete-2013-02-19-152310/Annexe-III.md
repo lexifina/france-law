@@ -196,45 +196,65 @@ Audit complémentaire : audit pouvant être réalisé à l'initiative de l'organ
 
 7-2. Contenu et durée de l'audit
 
-L'audit comprend l'examen du système d'organisation du prestataire, la vérification de son savoir-faire, de ses moyens techniques et de la compétence technique de son personnel, l'accompagnement du prestataire lors d'une prestation en localisation des réseaux en situation réelle ou sur une plateforme d'essai adaptée, et, sauf pour l'audit initial de certification, l'examen documentaire d'archives relatives au résultat de prestations réalisées au cours des trois dernières années.
+La durée d'audit inclut le temps de préparation de l'audit et la rédaction du rapport.
 
-La durée d'audit inclut le temps de préparation de l'audit et la rédaction du rapport. Elle est fonction de la nature de l'audit, et de l'option de certification retenue par le demandeur, selon le tableau ci-après.
+L'audit comprend :
 
-NATURE DE L'AUDIT
+-une partie documentaire comprenant l'examen du système d'organisation du prestataire, la vérification de son savoir-faire, de ses moyens techniques et de la compétence technique de son personnel et, sauf pour l'audit initial de certification, l'examen d'archives relatives aux résultats de prestations réalisées au cours des trois dernières années ;
 
-|
+-une partie technique basée sur l'accompagnement du prestataire lors d'une prestation en situation réelle, sur un chantier ou sur une plateforme d'essai adaptée et le traitement des mesures.
+
+La durée d'audit est définie en fonction de la nature de l'audit, et de l'option de certification retenue par le demandeur, selon le tableau ci-après. Elle ne tient pas compte de la durée de déplacement entre le site audité et le chantier :
+
+NATURE DE L'AUDIT |
 
 OPTIONS 1 OU 2
 
-"géoréférencement" ou "détection"
-
-|
+" géoréférencement " ou " détection " |
 
 OPTION 3
 
-"géoréférencement" et "détection"
+" géoréférencement " et " détection " |
 
-|
+Audit initial ou de renouvellement |
 
-Audit initial ou de renouvellement
+2 j répartis comme suit :
 
-|
+Préparation et rédaction : 0,5 j
 
-2 j |
+Partie documentaire : 1 j
 
-2,25 j |
+Partie technique : 0,5 j |
 
-Audit de surveillance
+2,25 j répartis comme suit :
 
-|
+Préparation et rédaction : 0,5 j
 
-1,25 j |
+Partie documentaire : 1,25 j
 
-1,5 j |
+Partie technique : 0,5 j |
+
+Audit de surveillance |
+
+1,25 j répartis comme suit :
+
+Préparation et rédaction : 0,25 j
+
+Partie documentaire : 0,5 j
+
+Partie technique : 0,5 j |
+
+1,5 j répartis comme suit :
+
+Préparation et rédaction : 0,25 j
+
+Partie documentaire : 0,75 j
+
+Partie technique : 0,5 j |
 
 La durée de l'audit relative à l'option 3 s'applique aussi bien au cas d'un prestataire non certifié qu'à celui d'un prestataire déjà bénéficiaire d'une certification pour l'option 1 ou l'option 2 et demandeur de l'extension de la certification pour l'option 3.
 
-Si un prestataire est déjà certifié ISO 9001, alors chacune des durées du tableau ci-dessus est réduite de 0,5 jour.
+Si un prestataire est déjà certifié ISO 9001, alors les durées du tableau ci-dessus sont réduites de 0,5 jour pour l'“ audit initial ou de renouvellement ” sur la partie documentaire.
 
 7-3. Nombre de sites audités dans le cas d'une même personne morale demandant la certification de plusieurs de ses établissements
 
@@ -424,4 +444,4 @@ Fait à..., le [jj/mm/aaaa]
 
 NOTA :
 
-Conformément à l’article 4 de l’arrêté du 23 décembre 2024 (NOR : TECP2429856A), ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l’article 4 de l’arrêté du 23 décembre 2024 (NOR : TECP2429856A), ces dispositions entrent en vigueur le 1er avril 2025.
