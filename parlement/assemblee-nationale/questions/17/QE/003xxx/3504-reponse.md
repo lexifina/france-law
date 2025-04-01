@@ -1,0 +1,9 @@
+# Réponse à la question n° 3504
+
+- Question : [3504](3504.md) — Question n° 3504 — Aliénation parentale
+
+## Réponse
+
+*JO du 2025-04-01, page 2304*
+
+Dans le cadre de procédures judiciaires, le « syndrome d'aliénation parentale » est régulièrement invoqué par l'une des parties, soit dans les situations de séparations conflictuelles impliquant des questions de garde d'enfant, soit dans les contextes de violences alléguées au sein du couple ou sur l'enfant. Ce syndrome ne fait toutefois pas l'objet de consensus médical et est particulièrement controversé. Ainsi, l'Organisation mondiale de la santé ne l'a pas retenu dans la Classification statistique internationale des maladies et des problèmes de santé connexes (CIM-11). En outre, une résolution du Parlement européen en date du 6 octobre 2021 exhorte les États de l'Union européenne « à ne pas reconnaître le syndrome d'aliénation parentale dans leur pratique judiciaire et leur droit ». Le ministère de la Justice a donc, par voie de dépêche en date de mars 2018, alerté les magistrats sur le caractère particulièrement débattu du concept du syndrome d'aliénation parentale afin de les inciter à ne pas l'utiliser et de leur rappeler la possibilité de recourir à des mesures d'investigation à même de garantir la protection et l'intérêt de l'enfant (par exemple, demander à un expert d'évaluer les éventuels mécanismes d'emprise que peut exercer le parent sur l'enfant et confronter les conclusions de l'expert à celles issues du rapport d'enquête sociale qui peut être ordonnée d'office (article 373-2-12 du code civil). L'examen de la jurisprudence montre ainsi que dans les situations particulièrement conflictuelles, les magistrats, lorsqu'ils statuent sur les modalités d'exercice de l'autorité parentale, motivent leur décision sur les concepts de « conflit de loyauté », de « conflit parental » ou d'« emprise » dont l'assise scientifique n'est pas discutée et qui préservent l'intérêt de l'enfant.
