@@ -1,0 +1,35 @@
+# Réponse à la question n° 291
+
+- Question : [291](291.md) — Question n° 291 — Révision du Fonds national de garantie individuelle des ressources (FNGIR)
+
+## Réponse
+
+*JO du 2025-04-02, page 3103*
+
+FONDS NATIONAL DE GARANTIE INDIVIDUELLE DES RESSOURCES
+
+M. le président . La parole est à M. Sylvain Berrios, pour exposer sa question, no 291, relative au fonds national de garantie individuelle des ressources.
+
+M. Sylvain Berrios . La ville de Saint-Maur-des-Fossés, située dans le Val-de-Marne, voit, tous les ans depuis 2010, son budget ponctionné de près de 15 millions d'euros au titre du fonds national de garantie individuelle des ressources (FNGIR).
+
+Créé pour compenser la réforme de la taxe professionnelle et pour garantir aux communes le maintien de leurs recettes de fonctionnement, le FNGIR n'est plus adapté aux récentes évolutions de la fiscalité locale. Ainsi, les changements institutionnels en Île-de-France ont conduit au transfert de la cotisation sur la valeur ajoutée des entreprises (CVAE) vers la métropole du Grand Paris (MGP) et à celui de la cotisation foncière des entreprises (CFE) vers les établissements publics territoriaux (EPT), au détriment des communes.
+
+À ces 15 millions d'euros de prélèvements dus au FNGIR s'ajoute la perte de près de 16 millions de dotation globale de fonctionnement (DGF), de 6 millions de taxe SRU, de 1,8 million versé au fonds national de péréquation des ressources intercommunales et communales (Fpic) et de 2 millions pour financer la brigade des sapeurs-pompiers installée sur un terrain communal. Si on tient compte de la perte de la compensation de la taxe d'habitation, exclue de toute mesure d'indexation, l'ensemble de ces prélèvements obligatoires représente plus de 40 millions d'euros annuels, soit 25 % des recettes réelles de fonctionnement de la commune.
+
+À titre de comparaison, cette somme serait suffisante pour financer la rénovation de 250 kilomètres de trottoirs sur les 360 kilomètres que comporte la ville et dépasse le budget total de ses crèches et de ses écoles.
+
+Saint-Maur est une des contributrices les plus importantes au dispositif du FNGIR, mais les communes, particulièrement en Île-de-France, n'ont aucune garantie concernant la redistribution de la fiscalité économique. De plus, l'environnement économique de la commune a changé : des entreprises importantes, ne pouvant étendre leur activité eu égard au prix élevé du foncier en zone dite tendue et de l'obligation faite par la loi SRU de consacrer les réserves foncières disponibles à la production de logements, ont dû quitter la commune.
+
+La contribution de certaines collectivités au FNGIR est déséquilibrée. Aucune mesure corrective n'est possible, car le mécanisme de calcul prend pour référence figée la situation de 2011. Dans ces conditions, monsieur le ministre de l'aménagement du territoire, envisagez-vous de faire évoluer le mécanisme obsolète du FNGIR ? À défaut, êtes-vous prêt à remettre en question, à l'occasion d'une rencontre ad hoc, le mécanisme de calcul du FNGIR pour le cas spécifique de la ville de Saint-Maur-des-Fossés, qui subit un prélèvement qu'on peut qualifier d'inéquitable ?
+
+M. le président . La parole est à M. le ministre de l'aménagement du territoire et de la décentralisation.
+
+M. François Rebsamen, ministre de l’aménagement du territoire et de la décentralisation . Vous connaissez aussi bien que moi tous les mécanismes en jeu. La loi de finances pour 2010 a supprimé la taxe professionnelle et a prévu, en contrepartie, deux dispositifs de compensation : la dotation de compensation de la réforme de la taxe professionnelle (DCRTP) et le FNGIR. Ce dernier mécanisme d'équilibrage, je tiens à le rappeler, permet normalement de maintenir les recettes fiscales de chaque collectivité au niveau qu'elles avaient avant la suppression de la taxe professionnelle. À vous entendre, ce n'est pas le cas de la commune de Saint-Maur-des-Fossés.
+
+Cette ville est par ailleurs affectée par la modification des équilibres financiers consécutive à la création de la métropole du Grand Paris et au remplacement des établissements publics de coopération intercommunale (EPCI) par des établissements publics territoriaux. Les communes de grande taille faisant partie d'un EPT sont particulièrement pénalisées.
+
+Je m'abstiendrai de développer tout ce que vous savez déjà au sujet du FNGIR et vous ferai plutôt une réponse simple : je suis prêt à examiner avec vous, au ministère, la situation particulière de cette commune et à rechercher des solutions.
+
+M. le président . La parole est à M. Sylvain Berrios.
+
+M. Sylvain Berrios . Je vous remercie de votre réponse et de votre ouverture. Effectivement, la situation des communes faisant partie de la métropole du Grand Paris est d'une rare complexité. Il convient de prendre les mesures correctrices nécessaires.
