@@ -1,0 +1,9 @@
+# CENTRE COMMUNAL D'ACTION SOCIALE : délibération 250402ANNUCET — COMPTE EPARGNE TEMPS ANNULE ET REMPLACE
+
+- Collectivité : CENTRE COMMUNAL D'ACTION SOCIALE
+- SIRET : 26290331300035
+- Date : 2025-04-02
+- Matière : 4.1 Fonction publique/Personnel titulaires et stagiaires de la F.P.T.
+- Objet : COMPTE EPARGNE TEMPS ANNULE ET REMPLACE
+- Transmis à la préfecture : 2025-04-07
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
