@@ -1,0 +1,41 @@
+# Réponse à la question n° 279
+
+- Question : [279](279.md) — Question n° 279 — Situation des services de psychiatrie de Saint-Quentin
+
+## Réponse
+
+*JO du 2025-04-02, page 3128*
+
+CENTRE HOSPITALIER DE SAINT QUENTIN
+
+M. le président . La parole est à M. Julien Dive, pour exposer sa question, no 279, relative au centre hospitalier de Saint Quentin.
+
+M. Julien Dive . Si, comme Michel Barnier avant lui, François Bayrou a désigné la santé mentale comme grande cause nationale pour l'année 2025, la psychiatrie demeure une grande oubliée en France, particulièrement dans mon département de l'Aisne ! Avec la neutralisation des lits d'hospitalisation du centre Hilaire Cordier de Saint-Quentin en 2023, toute l'organisation de la prise en charge psychiatrique du département a été déséquilibrée. Cette décision n'a pas été compensée : aucune alternative structurelle, aucun renforcement des autres établissements, aucun plan de soutien aux équipes médicales n'a été proposé. Les autres services psychiatriques du département, déjà sous tension, ont dû absorber en urgence un afflux massif de patients, sans moyens supplémentaires et sans renfort humain.
+
+Cette fermeture est intervenue dans un contexte déjà profondément dégradé. Les professionnels de la psychiatrie nous alertent en effet depuis des années sur la pénurie de psychiatres dans l'Aisne, l'épuisement des équipes et la désaffection des jeunes médecins pour la spécialité !
+
+Le service psychiatrique du Centre hospitalier de Saint-Quentin est aujourd'hui emblématique de cette crise. Les départs de praticiens se multiplient. Les équipes sont en sous-effectif permanent. La charge de travail est devenue ingérable, aggravée par une réforme de l'hospitalisation, qui a alourdi les procédures sans améliorer la prise en charge. En bout de chaîne, des patients en souffrance se retrouvent sans réponse. Le manque de moyens, tant humains que matériels, demeure un obstacle majeur au développement de projets pourtant indispensables, telle la création d'un service mère-enfant pour accompagner les patientes en souffrance ou la mise en œuvre d'une véritable politique d'attractivité pour faire venir des praticiens dans le département. Et les besoins ne faiblissent pas, surtout chez les jeunes : le suicide est la première cause de mortalité chez les 25-34 ans, la deuxième chez les 15-24 ans. À l'échelle nationale, une personne sur deux sera confrontée à un trouble psychiatrique au cours de sa vie.
+
+Ce sombre tableau ne doit pas conduire à un renoncement de la part des pouvoirs publics : il n'y a pas de fatalité à ce que la psychiatrie demeure le parent pauvre de la médecine ! C'est pour cette raison, madame la ministre, que je vous interroge sur les mesures concrètes que le gouvernement entend mettre en œuvre pour améliorer l'offre de soins en matière psychiatrique dans l'Aisne et soutenir le centre hospitalier de Saint-Quentin.
+
+M. le président . La parole est à Mme la ministre déléguée chargée de l'autonomie et du handicap.
+
+Mme Charlotte Parmentier-Lecocq, ministre déléguée chargée de l'autonomie et du handicap. Je me permets de vous transmettre la réponse de M. le ministre de la santé. Le centre hospitalier de Saint-Quentin a effectivement été mis en grande difficulté à la suite des départs simultanés et inopinés de plusieurs psychiatres en octobre 2023. Une réorganisation a été engagée afin de garantir la continuité des soins. L'hospitalisation conventionnelle a été désectorisée et les autres établissements du département ont été mobilisés, en particulier l'établissement public de santé mentale départemental de l'Aisne, situé à Prémontré, qui assure désormais les soins sans consentement du département.
+
+Le centre hospitalier de Saint-Quentin maintient toutefois son activité de prise en charge des urgences et l'hospitalisation de jour et en ambulatoire. Tout est donc fait pour assurer la continuité des soins et la qualité du parcours des patients.
+
+Cependant, consciente de la fragilité de la situation, la direction du centre hospitalier de Saint-Quentin, avec l'appui de l'agence régionale de santé (ARS) des Hauts-de-France, est à la recherche de toutes les solutions permettant de retrouver une dynamique de service. La priorité est donnée au maintien de l'équipe en place – qui doit être soutenue – et à la recherche de renforts médicaux. La liste des postes est bien entendu publiée et nous sommes en attente de candidats.
+
+Par ailleurs, l'aide d'autres établissements a été sollicitée, notamment celle du centre hospitalier universitaire Amiens-Picardie. Le travail est en cours. L'objectif est bien de reconstituer une capacité d'accueil en hospitalisation conventionnelle pour les soins psychiatriques à Saint-Quentin.
+
+M. le président . La parole est à M. Julien Dive.
+
+M. Julien Dive . Vous l'avez souligné, les professionnels ont une réelle volonté d'assurer la continuité des soins. C'est incontestable : la direction et les équipes du centre hospitalier de Saint-Quentin font leur travail, et l'ARS des Hauts-de-France est également mobilisée afin de faire face au manque de professionnels.
+
+Vous avez rappelé, à juste titre, que des postes avaient été ouverts et qu'ils n'étaient pas encore pourvus. La réponse se trouve bien sûr au niveau national. Il faut agir selon moi sur deux leviers.
+
+Je pense premièrement aux examens. On a en effet constaté cette année une sévérité peut-être plus forte qu'habituellement : peu de candidats ont passé les examens et, parmi eux, un grand nombre a été placé sur liste d'attente.
+
+Deuxièmement, pour que le service soit assuré, nous pourrions faire appel aux professionnels étrangers, les Padhue, les praticiens à diplôme hors Union européenne, une catégorie bien connue. Or nous n'avons pas mis les moyens nécessaires pour rendre les postes attractifs, en particulier en province, dans un territoire comme l'Aisne, considéré comme un département rural.
+
+Enfin, ayons une vision prospective. On a bien conscience sur le terrain que d'autres professionnels de la psychiatrie risquent de partir à leur tour, en raison de leur âge ou pour des motifs personnels. Il nous faut donc anticiper cette situation. J'invite le ministre de santé à se rendre dans l'Aisne pour apporter des éléments de réponse à la suite de mon interpellation.
