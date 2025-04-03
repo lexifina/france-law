@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001853
+
+- Question : [SEQ241001853](seq241001853.md) — Utilisation optimisée des emplacements dans les cimetières communaux
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-04-03, page 1556*
+
+L'article L. 2223-13 du Code général des collectivités territoriales (CGCT) dispose que : «Lorsque l'étendue des cimetières le permet, il peut être concédé des terrains aux personnes qui désirent y fonder leur sépulture et celle de leurs enfants ou successeurs.Les bénéficiaires de la concession peuvent construire sur ces terrains des caveaux, monuments et tombeaux [...]». Au décès du concessionnaire, celle-ci est transmise à ses héritiers par le biais d'une indivision perpétuelle, ainsi que l'a notamment rappelé la 1ère chambre de la Cour d'appel de Paris, dans un arrêt du 15 février 2000, indiquant qu'"entre les intéressés se crée une indivision perpétuelle de sorte que, conformément à l'article815-9 du code civil, chaque indivisaire peut user et jouir de biens indivis, dans une mesure compatible avec les droits des autres indivisaires et avec l'effet des actes régulièrement passés au cours de l'indivision". Dès lors, aucune disposition du droit en vigueur ne s'oppose à ce qu'un neveu ou arrière-petit-neveu du concessionnaire, ainsi que leur famille disposent d'un droit à inhumation dans une concession de famille, dans la mesure où aucun parent d'un degré de parenté plus proche ne subsiste. Par ailleurs, les articles L. 2223-17 et R. 2223-12 et suivants du CGCT prévoient le cadre juridique applicable à la procédure de reprise des concessions perpétuelles en état d'abandon, qui permet de satisfaire aux impératifs de bonne gestion du cimetière par la réattribution de ces emplacements, s'il ne demeure aucun ayant droit susceptible de les remettre en état.
