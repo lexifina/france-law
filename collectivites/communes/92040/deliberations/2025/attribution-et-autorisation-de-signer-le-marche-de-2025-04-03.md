@@ -1,0 +1,14 @@
+# Ville d'Issy-les-Moulineaux : délibération — Attribution et autorisation de signer le marché de travaux de réhabilitation énergétique de l’école Saint Germain.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-04-03
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Attribution et autorisation de signer le marché de travaux de réhabilitation énergétique de l’école Saint Germain.
+- Votants : 48
+- Pour : 48
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY4MzcsInB1ciI6ImJsb2JfaWQifX0=--d4929b8633004e1b91190c2e9e7aeab468e547fd/19%20-%20ARCHI%20-%20Travaux%20r%C3%A9habilitation%20St%20Germain.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
