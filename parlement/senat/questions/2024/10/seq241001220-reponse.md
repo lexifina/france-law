@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001220
+
+- Question : [SEQ241001220](seq241001220.md) — Aéroport d'affaires du Bourget, porte ouverte à tous les trafics
+
+## Réponse
+
+*Comptes publics, JO du 2025-04-03, page 1568*
+
+Le bureau du Bourget, service de la direction interrégionale de Paris-Aéroports, situé sur le site de l'aéroport de Paris-Le Bourget, gère un trafic constitué pour l'essentiel de pièces aéronautiques à l'importation et à l'exportation, ainsi que d'aéronefs placés sous un régime suspensif, notamment lors du salon international de l'aéronautique et de l'espace. Ce bureau a connu une baisse très importante de son activité de dédouanement à compter de 2019, de l'ordre de 80 %, dans la mesure où la gestion des flux d'opérateurs importants tels que Dassault Aviation et Dassault Falcon Service est désormais traitée par le service national des grands comptes (SGC). Corollaire de la baisse d'activité, la baisse de l'effectif de ce bureau, composé désormais de deux agents, ne permet plus de garantir une continuité du service satisfaisante et un fonctionnement optimal. Il est ainsi prévu que l'activité résiduelle de ce bureau soit à l'avenir gérée dans d'autres bureaux de la direction régionale de Roissy-Fret, situés sur la plateforme de l'aéroport de Roissy qui se situe à 15 km de l'aéroport de Paris-Le Bourget. Cela permettra une meilleure prise en charge de ces activités par des bureaux robustes en termes d'effectifs et d'expertise métier. Par ailleurs, la proximité de l'aéroport de Roissy permettra aux agents de se déplacer régulièrement sur le site du Bourget. Toutefois, restera basée à l'aéroport de Paris-Le Bourget la brigade de surveillance des douanes, dotée de 20 agents, qui permet notamment aux usagers arrivant à l'aéroport de Paris-Le Bourget d'y effectuer les formalités habituellement prises en charge par les brigades en frontière.
