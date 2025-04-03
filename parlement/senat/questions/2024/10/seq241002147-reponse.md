@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241002147
+
+- Question : [SEQ241002147](seq241002147.md) — Modalités de transfert des biens, droits et obligations des établissements publics de coopération intercommunale fusionnés
+
+## Réponse
+
+*Comptes publics, JO du 2025-04-03, page 1570*
+
+Le système de publicité foncière, issu des décrets n° 55-22 du 4 janvier 1955 et n° 55-1350 du 14 octobre 1955, ne permet pas au service de la publicité foncière (SPF) de porter de lui-même des opérations juridiques, telles des transferts d'immeuble, au fichier immobilier. Ce principe figure à l'article 1er du décret n° 55-22 du 4 janvier 1955, selon lequel « le fichier immobilier présente, telle qu'elle résulte des documents publiés, la situation juridique actuelle des immeubles» ; le SPF y répertorie les actes «au fur et à mesure des dépôts ». Le SPF est donc uniquement chargé de la transcription au fichier immobilier des actes qui lui sont présentés. La rédaction d'un acte (acte authentique notarié ou administratif) et son dépôt constituent donc des préalables nécessaires à la publication au fichier immobilier des transferts d'immeubles issus de la fusion d'établissements publics de coopération intercommunale (EPCI). Les EPCI concernés qui éprouvent des difficultés sont invités à se rapprocher du SPF ou de la direction régionale ou départementale des finances publiques du lieu de situation des immeubles transférés, lesquels pourront leur mettre à disposition de la documentation pour faciliter leurs démarches et notamment des modèles d'actes. S'agissant du coût de la publication au fichier immobilier, l'exemption de perception de taxe de publicité foncière et de contribution de sécurité immobilière est déjà prévue au 10ème alinéa du III de l'article L. 5211-41-3 du code général des collectivités territoriales et à l'article 1042 A du code général des impôts.
