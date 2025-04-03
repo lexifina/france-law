@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000823
+
+- Question : [SEQ241000823](seq241000823.md) — Accès pour un maire aux informations contenues dans le fichier d'immatriculation des véhicules
+
+## Réponse
+
+*Intérieur , JO du 2025-04-03, page 1589*
+
+Le Gouvernement a fait de la lutte contre l'abandon de déchets une priorité au travers de la loi anti-gaspillage pour une économie circulaire dite AGEC, et de la loi du 23 octobre 2023 relative à l'industrie verte qui en a renforcé les sanctions. Parmi l'ensemble des moyens pour lutter contre ce phénomène, les articles L. 330-2-16° et R. 330-2- 10° du code de la route permettent au maire, en sa qualité d'officier de police judiciaire, de recevoir communication au moyen d'un accès direct aux informations relatives à la circulation des véhicules. Ces données sont transmises, dans le cadre de ses attributions prévues aux articles L. 541-21-3 et L. 541-21-4 du code de l'environnement, aux seules fins d'identifier le titulaire du certificat d'immatriculation ; et ce, dès lors que ces données sont indispensables à la constatation d'une infraction pénale d'abandon de déchets. Le système d'information des véhicules (SIV) est actuellement en cours de refonte. Pour permettre aux maires d'accéder directement aux informations dont ils ont besoin en respectant les exigences législatives et réglementaires, s'agissant notamment du contrôle des accès et de la traçabilité des connexions, d'importants travaux techniques dédiés à la sécurité sont nécessaires. La refonte de ce traitement de données est reconnue comme grand projet numérique de l'État : il a pour objet de simplifier le recours au SIV. De la sorte, les accédants à ce fichier pourront plus aisément exercer leurs prérogatives au service du public. Dans l'attente de cette refonte, le recours à un accès indirect par l'intermédiaire des services de la police ou de la gendarmerie nationale territorialement compétents reste nécessaire.
