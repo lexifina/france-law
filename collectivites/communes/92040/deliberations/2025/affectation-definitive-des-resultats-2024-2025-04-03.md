@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Affectation définitive des résultats 2024.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-04-03
+- Matière : FINANCES
+- Objet : Affectation définitive des résultats 2024.
+- Transmis à la préfecture : 2025-04-14
+- Votants : 48
+- Pour : 39
+- Contre : 6
+- Abstentions : 3
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY4MTMsInB1ciI6ImJsb2JfaWQifX0=--6cc34ee49ba139e8dcafccae395519de244f423a/12%20-%20FIN%20-%20Affectation%20des%20r%C3%A9sultats.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
