@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-04-03
+- Matière : ESPACES PUBLICS
+- Objet : (non reproduit : désigne une personne ou une mesure individuelle / names a person or is an individual measure)
+- Transmis à la préfecture : 2025-04-22
+- Votants : 48
+- Pour : 42
+- Contre : 0
+- Abstentions : 6
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY5MDgsInB1ciI6ImJsb2JfaWQifX0=--b20f3b8e33a6c024b0a03b28adb5fc4e7b82b47f/37%20-%20ESP%20PUB%20-%20D%C3%A9nomination%20Pierre%20Bellon.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
