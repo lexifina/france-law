@@ -2,85 +2,97 @@
 
 ANNEXE III
 
-RÉFÉRENTIEL DE COMPÉTENCES
+Référentiel de compétences
 
-Spécialité « Echafaudeur » de mention complémentaire (niveau 3)
+Spécialité &laquo; Echafaudeur &raquo; de mention complémentaire (niveau 3)
 
-Définition des blocs de compétences.
+Définition des blocs de compétences
 
-I.1.5. Liste des compétences
+I.1.1. Liste des compétences
 
-C1 |
+C01 |
 
-PREPARER SON INTERVENTION |
+EXPLOITER DES DOCUMENTS |
 
-C1.1 : Exploiter des documents
+C02 |
 
-C1.2 : Définir une solution technique
+DEFINIR UNE SOLUTION TECHNIQUE |
 
-C1.3 : Déterminer les besoins |
+C03 |
 
-C2 |
+DETERMINER LES BESOINS |
 
-ORGANISER SON INTERVENTION |
+C04 |
 
-C2.1 : Organiser et sécuriser son intervention
+ORGANISER ET SECURISER SON INTERVENTION |
 
-C2.2 : Gérer le matériel |
+C05 |
 
-C3 |
+GERER LE MATERIEL |
 
-METTRE EN ŒUVRE UNE STRUCTURE |
+C06 |
 
-C3.1 : Monter une structure
+MONTER UNE STRUCTURE |
 
-C3.2 : Démonter une structure |
+C07 |
 
-C4 |
+DEMONTER UNE STRUCTURE |
 
-VERIFIER UNE STRUCTURE |
+C08 |
 
-C4.1 : Effectuer les vérifications réglementaires |
+EFFECTUER LES VERIFICATIONS REGLEMENTAIRES |
 
-C5 |
+C09 |
 
-COMMUNIQUER |
+COMPLETER ET TRANSMETTRE DES DOCUMENTS |
 
-C5.1 : Compléter et transmettre des documents
+C10 |
 
-C5.2 : Echanger et rendre compte oralement |
+ECHANGER ET RENDRE COMPTE ORALEMENT |
 
-I.1.6. Blocs de compétences
-
-|
+I.1.2. Blocs de compétences
 
 |
 
-C1
+C01
 
-Préparer
+Exploiter des documents |
 
-son intervention |
+C02
 
-C2
+Définir une solution technique |
 
-Organiser
+C03
 
-et sécuriser
+Déterminer les besoins |
 
-son intervention |
+C04
 
-C3
+Organiser et sécuriser son intervention |
 
-Mettre en œuvre une structure |
+C05
 
-C4
+Gérer le matériel |
 
-Vérifier une structure |
+C06
 
-C5
+Monter une structure |
 
-Communiquer |
+C07
+
+Démonter une structure |
+
+C08
+
+Effectuer les vérifications réglementaires |
+
+C09
+
+Compléter et transmettre des documents |
+
+C10
+
+Echanger et rendre compte oralement |
 
 Pôle 1
 
@@ -88,9 +100,19 @@ Préparation |
 
 A1.1
 
-Étude et exploitation du dossier |
+Étude et exploitation des données |
 
 X |
+
+X |
+
+X |
+
+|
+
+|
+
+|
 
 |
 
@@ -102,11 +124,19 @@ X |
 
 A1.2
 
-Préparation
-
-de l'intervention |
+Préparation de l'intervention |
 
 X |
+
+X |
+
+X |
+
+|
+
+|
+
+|
 
 |
 
@@ -122,13 +152,21 @@ Mise en œuvre |
 
 A2.1
 
-Organisation
+Organisation de l'intervention |
 
-de l'intervention |
+|
+
+|
+
+|
 
 X |
 
 X |
+
+|
+
+|
 
 |
 
@@ -138,15 +176,23 @@ X |
 
 A2.2
 
-Montage et démontage des structures
+Montage et démontage des structures d'échafaudage |
 
-d'échafaudage |
+|
+
+|
+
+|
 
 |
 
 |
 
 X |
+
+X |
+
+|
 
 |
 
@@ -166,15 +212,31 @@ Vérification d'une structure |
 
 |
 
+|
+
+|
+
+|
+
+|
+
 X |
+
+|
 
 |
 
 A3.2
 
-Relations avec
+Relations avec les intervenants |
 
-les intervenants |
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -186,21 +248,19 @@ les intervenants |
 
 X |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+X |
 
 Unités certificatives |
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -216,6 +276,16 @@ U1 |
 
 X |
 
+X |
+
+X |
+
+|
+
+|
+
+|
+
 |
 
 |
@@ -228,9 +298,19 @@ U2 |
 
 |
 
+|
+
+|
+
 X |
 
 X |
+
+X |
+
+X |
+
+|
 
 |
 
@@ -244,6 +324,16 @@ U3 |
 
 |
 
+|
+
+|
+
+|
+
+|
+
+X |
+
 X |
 
 X |
@@ -252,19 +342,17 @@ Définition des compétences et connaissances associées
 
 Chaque compétence mobilise des connaissances. Pour chaque connaissance, un niveau taxonomique est indiqué permettant de préciser les limites de connaissances attendues. Les niveaux taxonomiques utilisent une échelle à quatre niveaux :
 
-- niveau 1 : niveau d'information ;
+Niveau 1 : niveau d'information
 
-- niveau 2 : niveau d'expression ;
+Niveau 2 : niveau d'expression
 
-- niveau 3 : niveau de la maîtrise d'outils ;
+Niveau 3 : niveau de la maîtrise d'outils
 
-- niveau 4 : niveau de maîtrise méthodologique.
+Niveau 4 : niveau de maîtrise méthodologique
 
-C1 |
+C01 |
 
-PRÉPARER SON INTERVENTION |
-
-C1.1 : Exploiter des documents |
+Exploiter des documents |
 
 Principales activités ou tâches mettant en œuvre la compétence :
 
@@ -300,11 +388,9 @@ La collecte des informations nécessaires à l'intervention est complète et exp
 
 L'utilisation de l'outil numérique est maitrisée |
 
-C1 |
+C02 |
 
-PREPARER SON INTERVENTION |
-
-C1.2 : Définir une solution technique |
+Définir une solution technique |
 
 Principales activités ou tâches mettant en œuvre la compétence :
 
@@ -320,15 +406,15 @@ Les types d'échafaudage et leur domaine d'utilisation
 
 La nomenclature et les fonctions des éléments d'échafaudage
 
-Les dispositions constructives
+Les dispositions constructives |
+
+Niveau 3 |
 
 Les techniques de relevé d'ouvrages
 
 Les appareils de mesures
 
 Les techniques de représentation graphique et numérique d'une structure |
-
-Niveau 3 |
 
 Niveau 2 |
 
@@ -342,11 +428,9 @@ Les croquis sont exploitables par un tiers
 
 L'utilisation de l'outil numérique est maitrisée |
 
-C1 |
+C03 |
 
-PREPARER SON INTERVENTION |
-
-C1.3 : Déterminer les besoins |
+Déterminer les besoins |
 
 Principales activités ou tâches mettant en œuvre la compétence :
 
@@ -370,11 +454,9 @@ La liste des éléments et accessoires est exploitable
 
 Les quantités d'éléments et accessoires nécessaires sont adaptées à la situation |
 
-C2 |
+C04 |
 
-ORGANISER SON INTERVENTION |
-
-C2.1 : Organiser et sécuriser son intervention |
+Organiser et sécuriser son intervention |
 
 Principales activités ou tâches mettant en œuvre la compétence :
 
@@ -386,15 +468,15 @@ La prévention des risques et la protection de la santé est prise en compte dan
 
 Connaissances associées et niveaux taxonomiques |
 
-Les différents acteurs, leurs rôles et leurs responsabilités
+Les différents acteurs, leurs rôles et leurs responsabilités |
+
+Niveau 1 |
 
 Les risques professionnels liés aux activités
 
 Les équipements de protection collectifs et individuels
 
 Les principes et procédures d'alerte en cas de situation dangereuse |
-
-Niveau 1 |
 
 Niveau 3 |
 
@@ -410,11 +492,9 @@ Les mesures de prévention prévues ou nécessaires sont mises en œuvre
 
 Les équipements de protections individuels sont vérifiés, adaptés et utilisés |
 
-C2 |
+C05 |
 
-ORGANISER SON INTERVENTION |
-
-C2.2 : Gérer le matériel |
+Gérer le matériel |
 
 Principales activités ou tâches mettant en œuvre la compétence :
 
@@ -448,11 +528,11 @@ Les charges sont en adéquation avec la résistance du support
 
 L'outillage nécessaire est identifié et complet |
 
-C3 |
+C06 |
 
-METTRE EN ŒUVRE UNE STRUCTURE |
+Monter une structure |
 
-C3.1 : Monter une structure |
+|
 
 Principales activités ou tâches mettant en œuvre la compétence :
 
@@ -514,11 +594,11 @@ Les équipements de protection sont adaptés et utilisés
 
 Le port et l'utilisation d'un système d'arrêt de chute sont adaptés à la situation de travail |
 
-C3 |
+C07 |
 
-METTRE EN ŒUVRE UNE STRUCTURE |
+Démonter une structure |
 
-C3.2 : Démonter une structure |
+|
 
 Principales activités ou tâches mettant en œuvre la compétence :
 
@@ -552,11 +632,9 @@ Les éléments détériorés sont écartés
 
 Les équipements de protection sont adaptés et utilisés |
 
-C4 |
+C08 |
 
-VERIFIER UNE STRUCTURE |
-
-C4.1 : Effectuer les vérifications réglementaires |
+Effectuer les vérifications réglementaires |
 
 Principales activités ou tâches mettant en œuvre la compétence :
 
@@ -592,11 +670,9 @@ L'accès et la circulation sur l'échafaudage se font en sécurité
 
 L'affichage règlementaire est apposé |
 
-C5 |
+C09 |
 
-COMMUNIQUER |
-
-C5.1 : Compléter et transmettre des documents |
+Compléter et transmettre des documents |
 
 Principales activités ou tâches mettant en œuvre la compétence :
 
@@ -620,11 +696,9 @@ Les documents sont transmis à la hiérarchie
 
 L'utilisation d'un outil de communication numérique est maitrisée |
 
-C5 |
+C10 |
 
-COMMUNIQUER |
-
-C5.2 : Échanger et rendre compte oralement |
+Echanger et rendre compte oralement |
 
 Principales activités ou tâches mettant en œuvre la compétence :
 

@@ -2,11 +2,11 @@
 
 ANNEXE IV
 
-RÉFÉRENTIEL D'ÉVALUATION
+Référentiel d'évaluation
 
-IV.2. Règlement d'examen
+IV. 2.-Règlement d'examen
 
-Spécialité « Echafaudeur » de mention complémentaire (niveau 3)
+Spécialité &laquo; Echafaudeur &raquo; de mention complémentaire (niveau 3)
 
 Spécialité
 
@@ -22,7 +22,9 @@ Apprenti
 
 (CFA habilité au CCF ou en CFA porté par un EPLE, GRETA ou GIP-FCIP assurant toute la formation théorique)
 
-Formation professionnelle continue (établissement public) |
+Formation professionnelle continue
+
+(établissement public) public) |
 
 Scolaire
 
@@ -30,15 +32,17 @@ Scolaire
 
 Apprenti
 
-(CFA et section d'apprentissage non habilité au CCF)
+(CFA non habilité au CCF)
 
-Formation professionnelle continue (établissement privé)
+Formation professionnelle continue
+
+(établissement privé)
 
 Enseignement à distance
 
-Candidat individuel |
+Candidats justifiant de 3 années d'activités professionnelles |
 
-Épreuves |
+Epreuves |
 
 Unités |
 
@@ -82,8 +86,10 @@ U3 |
 
 CCF |
 
-Ponctuel oral |
+Ponctuel
+
+oral |
 
 2h (*) |
 
-(*) 60 minutes de vérification, 30 minutes de rédaction et 30 minutes d'oral (10 minutes de présentation devant un jury et 20 minutes d'entretien avec le jury).
+(*) 60 minutes de vérification, 30 minutes de rédaction et 30 minutes d'oral (10 minutes de présentation devant un jury et 20 minutes d'entretien avec le jury)

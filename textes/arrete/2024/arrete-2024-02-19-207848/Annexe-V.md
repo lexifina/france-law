@@ -2,23 +2,23 @@
 
 ANNEXE V
 
-PÉRIODES DE FORMATION EN MILIEU PROFESSIONNEL
+Périodes de formation en milieu professionnel
 
-Spécialité « Echafaudeur » de mention complémentaire (niveau 3)
+Spécialité &laquo; Echafaudeur &raquo; de mention complémentaire (niveau 3)
 
-V.1. Objectifs de la formation en milieu professionnel
+V. 1. Objectifs de la formation en milieu professionnel
 
 Les périodes de formation en milieu professionnel (PFMP) sont des phases déterminantes dans l'acquisition des compétences, connaissances et attitudes professionnelles de la spécialité du diplôme. Toutes les activités et les tâches associées, définies dans le référentiel d'activités professionnelles de la spécialité du diplôme peuvent être appréhendées lors des périodes de formation en milieu professionnel. Elles doivent être complémentaires à la formation dispensée en établissement de formation.
 
 Ces dernières doivent permettre au futur diplômé :
 
-- de participer aux activités de l'entreprise et d'utiliser l'outillage, les matériels et les équipements professionnels ;
+-de participer aux activités de l'entreprise et d'utiliser l'outillage, les matériels et les équipements professionnels ;
 
-- d'appréhender la réalité de l'environnement économique, technique et humain de l'entreprise ;
+-d'appréhender la réalité de l'environnement économique, technique et humain de l'entreprise ;
 
-- de prendre conscience du rôle de tous les acteurs et de tous les services de l'entreprise.
+-de prendre conscience du rôle de tous les acteurs et de tous les services de l'entreprise.
 
-V.2. Organisation de la formation en milieu professionnel
+V. 2. Organisation de la formation en milieu professionnel
 
 Les périodes de formation en milieu professionnel peuvent se dérouler dans plusieurs entreprises définies par le référentiel des activités professionnelles. La personne référente dans l'organisation d'accueil contribue à la formation du stagiaire en étroite collaboration avec l'équipe pédagogique de l'établissement de formation, qui veille à assurer la complémentarité des savoirs et des savoir-faire entre l'établissement de formation et la structure d'accueil.
 
@@ -40,11 +40,11 @@ Le rythme de l'alternance et le choix des dates des périodes de PFMP relèvent 
 
 La formation dispensée en milieu professionnel se déroule sous la responsabilité du chef d'établissement sur la base d'une convention, établie entre l'établissement d'enseignement et la structure d'accueil (convention-type, voir circulaire n° 2016-053).
 
-Une annexe pédagogique de la convention est établie conjointement par l'équipe pédagogique et le(s) tuteur(s) : modes de relations à établir, types d'activités, objectifs et contenus de formation.
+Une annexe pédagogique de la convention est établie conjointement par l'équipe pédagogique et le (s) tuteur (s) : modes de relations à établir, types d'activités, objectifs et contenus de formation.
 
 La recherche et le choix des entreprises d'accueil relèvent de la responsabilité de l'équipe pédagogique de l'établissement de formation. L'élève peut participer à cette recherche.
 
-Pendant toute la durée de la PFMP, la présence continue du stagiaire -qui conserve la qualité d'élève- est requise dans l'organisme d'accueil.
+Pendant toute la durée de la PFMP, la présence continue du stagiaire-qui conserve la qualité d'élève-est requise dans l'organisme d'accueil.
 
 Pour chaque PFMP, le tuteur de la structure d'accueil, accompagne le stagiaire pour appréhender, mettre en œuvre et analyser les situations de travail rencontrées. Afin d'en garantir le caractère formateur, la PFMP est placée sous la responsabilité de l'équipe pédagogique. Celle-ci définit les objectifs de la PFMP et sa mise en place, assure son suivi ainsi que l'exploitation qui en est faite et explicite aux responsables des structures d'accueil les objectifs, et plus particulièrement les compétences, que la PFMP vise à développer.
 
@@ -66,21 +66,11 @@ Pour les apprentis, les attestations de formation en milieu professionnel sont r
 
 Voie de la formation professionnelle continue
 
-Candidat en situation de première formation pour ce diplôme ou en reconversion :
+La formation se déroule en milieu professionnel et en centre de formation continue. Ces deux lieux assurent conjointement l'acquisition des compétences figurant dans le référentiel du diplôme.
 
-La durée de formation en milieu professionnel est de : 14 semaines.
+Lors de son inscription à l'examen, le candidat est tenu de présenter soit un certificat attestant qu'il a suivi la formation de 14 semaines en entreprise, requise pour se présenter à l'examen soit un ou plusieurs certificats de travail attestant que l'intéressé a participé à des activités visées par le diplôme en qualité de salarié à temps plein, pendant six mois au cours de l'année précédant l'examen, ou à temps partiel pendant un an au cours des deux années précédant l'examen.
 
-Elle s'ajoute aux durées de formation dispensées dans le cadre de la formation professionnelle continue par chaque organisme de formation.
-
-Le stagiaire peut effectuer sa préparation dans le cadre d'un contrat de travail de type particulier tel qu'un contrat de professionnalisation. Dans ce cas, la durée de formation en milieu professionnel est incluse dans la période de formation dispensée en milieu professionnel où s'effectue le contrat si les activités exercées sont en cohérence avec les exigences du référentiel et conformes aux objectifs.
-
-A l'issue de chaque période de formation en milieu professionnel, une attestation de présence doit être renseignée par l'organisme de formation et signée par son responsable. Elle précise la période, la structure d'accueil et le nombre de semaines effectuées.
-
-Candidat en situation de perfectionnement :
-
-Le candidat doit avoir exercé des activités relevant du secteur professionnel de la mention complémentaire, en tant que salarié à temps plein, pendant six mois au moins au cours de l'année précédant l'examen ou les a exercées à temps partiel pendant un an au cours des deux années précédant l'examen.
-
-L'attestation de formation en milieu professionnel est remplacée par un ou plusieurs certificats de travail.
+A l'issue de chaque période de formation, l'attestation de présence doit être renseignée et signée par le tuteur ou, le cas échéant, l'employeur. Elle précise la période, la structure et le nombre de semaines effectuées.
 
 Positionnement
 
@@ -88,8 +78,10 @@ Pour les candidats positionnés par décision du recteur la durée minimale de l
 
 Un candidat de la formation professionnelle continue peut être dispensé de PFMP s'il justifie d'au moins six mois d'activité professionnelle dans le secteur d'activité visé par le diplôme.
 
-Candidats se présentant au titre de trois années d'expérience professionnelle
+Candidat en formation à distance
 
-Le candidat n'effectue pas de stage, mais doit justifier de trois années d'expériences professionnelles dans un emploi qualifié correspondant à la finalité de la mention complémentaire à l'examen de laquelle il s'inscrit.
+Les candidats relèvent, selon leur statut (scolaire, apprenti, formation continue), de l'un des cas précédents.
 
-Le candidat produit ses certificats de travail pour l'inscription à l'examen.
+Candidat se présentant au titre de trois années d'expérience professionnelle
+
+Le candidat n'effectue pas de stage, mais doit justifier de trois années d'expériences professionnelles dans un emploi qualifié correspondant à la finalité de la mention complémentaire à l'examen de laquelle il s'inscrit. Le candidat produit ses certificats de travail pour l'inscription à l'examen.
