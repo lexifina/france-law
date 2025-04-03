@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention relative à la participation de la commune d’Issy-les-Moulineaux au fonctionnement de l’Inspection Générale des Carrières.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-04-03
+- Matière : HYGIENE ET SECURITE
+- Objet : Approbation d’une convention relative à la participation de la commune d’Issy-les-Moulineaux au fonctionnement de l’Inspection Générale des Carrières.
+- Transmis à la préfecture : 2025-05-02
+- Votants : 48
+- Pour : 48
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTcxMzIsInB1ciI6ImJsb2JfaWQifX0=--665b66c29f07ff807fbdb7a3c1c4c5305f5e17b8/36%20-%20HYG%20SEC%20-%20Convention%20IGC.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
