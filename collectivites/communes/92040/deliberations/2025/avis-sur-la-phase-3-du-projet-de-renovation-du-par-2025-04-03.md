@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Avis sur la phase 3 du projet de rénovation du Parc des Expositions de la Porte de Versailles et son étude d’impact, porté par la société VIPARIS.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-04-03
+- Matière : URBANISME
+- Objet : Avis sur la phase 3 du projet de rénovation du Parc des Expositions de la Porte de Versailles et son étude d’impact, porté par la société VIPARIS.
+- Transmis à la préfecture : 2025-04-22
+- Votants : 48
+- Pour : 45
+- Contre : 0
+- Abstentions : 3
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY5MTEsInB1ciI6ImJsb2JfaWQifX0=--d1fc0a9f84a8ff12a81775d75955e6cf6654a030/16%20-%20URBA%20-%20phase%203%20r%C3%A9novation%20parc%20Expo%20VIPARIS.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
