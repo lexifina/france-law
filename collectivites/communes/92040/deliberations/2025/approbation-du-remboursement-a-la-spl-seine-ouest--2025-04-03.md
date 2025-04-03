@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du remboursement à la SPL SEINE OUEST AMENAGEMENT de sa participation au financement des travaux supplémentaires de construction de la piscine du Fort consécutivement à la condamnation du groupement de maîtrise d’œuvre à indemniser la Commune à raison de ses fautes de conception.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-04-03
+- Matière : FINANCES
+- Objet : Approbation du remboursement à la SPL SEINE OUEST AMENAGEMENT de sa participation au financement des travaux supplémentaires de construction de la piscine du Fort consécutivement à la condamnation du groupement de maîtrise d’œuvre à indemniser la Commune à raison de ses fautes de conception.
+- Transmis à la préfecture : 2025-04-14
+- Votants : 48
+- Pour : 48
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY4MTYsInB1ciI6ImJsb2JfaWQifX0=--27ae7bc277339e9cde28597367466cb8335f75b0/15%20-%20FIN%20-%20Remboursement%20SPL%20Am%C3%A9nagement.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
