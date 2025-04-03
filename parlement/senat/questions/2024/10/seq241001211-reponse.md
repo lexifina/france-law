@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001211
+
+- Question : [SEQ241001211](seq241001211.md) — Suivi des déclarations d'achèvement et de conformité des travaux
+
+## Réponse
+
+*Ruralité, JO du 2025-04-03, page 1598*
+
+A l'issue des travaux ayant donné lieu à délivrance d'une autorisation d'urbanisme, le titulaire doit adresser à la mairie une déclaration d'achèvement et de conformité des travaux (DAACT) en vertu de l'article L. 462-1 du code de l'urbanisme. Il atteste ainsi que les travaux sont achevés et conformes à l'autorisation délivrée. Les services instructeurs peuvent vérifier et contester cette conformité dans un délai de trois mois ou cinq mois suivant sa réception (article R. 462-6 du code de l'urbanisme). Le défaut de conformité des travaux autorisés peut être sanctionné lorsqu'il est constaté lors du récolement effectué après le dépôt de la DAACT (article L. 462-2 du code de l'urbanisme). L'administration met alors le maître d'ouvrage en demeure de déposer un dossier modificatif ou de mettre les travaux en conformité. Les problématiques liées à l'absence de dépôt de la DAACT ou à leur dépôt tardif ont été entendues par le Gouvernement. Cependant, l'absence ou le dépôt tardif des DAACT reste sans effet sur la fiabilisation des bases de fiscalité directe locale des communes. Un dispositif de surveillance des propriétés bâties, intégrant automatiquement les autorisations d'urbanisme délivrées par les collectivités locales, permet à l'administration fiscale de relancer les propriétaires défaillants. En outre, si le défaut de DAACT n'est pas assorti de sanction, il est dans l'intérêt du bénéficiaire de déposer la DAACT le plus tôt possible eu égard à ses effets juridiques. Le dépôt de la DAACT permet de faire courir le délai de recours contentieux de six mois prévu par l'article R. 600-3 du code de l'urbanisme.
