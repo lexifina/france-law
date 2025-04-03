@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Participation financière de la Ville au titre des actions de prévention pour l’année 2025 dans le cadre de la Stratégie Territoriale de Sécurité et de Prévention de la Délinquance (STSPD).
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-04-03
+- Matière : FINANCES
+- Objet : Participation financière de la Ville au titre des actions de prévention pour l’année 2025 dans le cadre de la Stratégie Territoriale de Sécurité et de Prévention de la Délinquance (STSPD).
+- Transmis à la préfecture : 2025-04-14
+- Votants : 42
+- Pour : 42
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY4MTUsInB1ciI6ImJsb2JfaWQifX0=--e3983bdf2a3a7b154c098f3c45409c782cb42a22/14%20-%20PREV%20-%20Projet%20d%C3%A9lib%C3%A9ration%20avenant%20financier%202025.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
