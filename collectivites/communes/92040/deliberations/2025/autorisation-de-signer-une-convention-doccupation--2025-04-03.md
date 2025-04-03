@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de signer une convention d’occupation de locaux à usage de crèche parentale sise 3, allée des Ponts à Issy-les-Moulineaux avec l’association Grenadine.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-04-03
+- Matière : PETITE ENFANCE
+- Objet : Autorisation de signer une convention d’occupation de locaux à usage de crèche parentale sise 3, allée des Ponts à Issy-les-Moulineaux avec l’association Grenadine.
+- Transmis à la préfecture : 2025-05-05
+- Votants : 48
+- Pour : 48
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTcxNTcsInB1ciI6ImJsb2JfaWQifX0=--318ab7fc8c41a35a06b0217026a7c4d80eba6ab4/28%20-%20PET%20ENF%20-%20GRENADINE%20autorisation%20signer%20convention%20MAD%20locaux.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
