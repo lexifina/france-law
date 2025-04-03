@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Renouvellement de la convention de mutualisation partielle de la direction de la Commande publique et des Affaires juridiques de l’Établissement Public Territorial Grand Paris Seine Ouest auprès de la Commune d’Issy-les-Moulineaux.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-04-03
+- Matière : RESSOURCES HUMAINES
+- Objet : Renouvellement de la convention de mutualisation partielle de la direction de la Commande publique et des Affaires juridiques de l’Établissement Public Territorial Grand Paris Seine Ouest auprès de la Commune d’Issy-les-Moulineaux.
+- Transmis à la préfecture : 2025-04-18
+- Votants : 48
+- Pour : 42
+- Contre : 0
+- Abstentions : 6
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY4OTEsInB1ciI6ImJsb2JfaWQifX0=--de355a2537ed75e1fa90f6aaa34e99febdd53daf/35%20-%20RH%20-%20%20ILM%20Mutualisation%20CP.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
