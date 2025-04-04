@@ -24,49 +24,29 @@ OS1 |
 
 OS3 |
 
-Contrôle
-
-conception
+Contrôle conception
 
 (art. 37) |
 
-Attestation
+Attestation du fabricant |
 
-du fabricant |
+CT (1) ou OA (2) |
 
-CT (1)
+CT (1) ou OA (2) |
 
-ou OA (2) |
+CT (1) ou OA (2) |
 
-CT (1)
+Attestation du fabricant |
 
-ou OA (2) |
+CT (1) ou OA (2) |
 
-CT (1)
+CT (1) ou OA (2) |
 
-ou OA (2) |
-
-Attestation
-
-du fabricant |
-
-CT (1)
-
-ou OA (2) |
-
-CT (1)
-
-ou OA (2) |
-
-Vérification
-
-montage
+Vérification montage
 
 (art. 38) |
 
-Attestation
-
-de bon montage |
+Attestation de bon montage |
 
 TC (4) |
 
@@ -74,19 +54,15 @@ OA (3) |
 
 OA (3) |
 
-Attestation
-
-de bon montage |
+Attestation de bon montage |
 
 TC (4) |
 
 OA (3) |
 
-Inspection
+Inspection en exploitation
 
-en exploitation
-
-(art. 40 § 1) |
+(art. 40 §1) |
 
 TC (4) |
 
@@ -102,45 +78,27 @@ TC (4) |
 
 TC (4) |
 
-Réparation
+Réparation ou modification en exploitation
 
-ou modification
+(art. 40 §2) |
 
-en exploitation
+Attestation du fabricant |
 
-(art. 40 § 2) |
+OA (2) |
 
-Attestation
+OA (2) |
 
-du fabricant |
+OA (2) |
 
-CT (1)
+Attestation du fabricant |
 
-ou OA (2) |
+OA (2) |
 
-CT (1)
-
-ou OA (2) |
-
-CT (1)
-
-ou OA (2) |
-
-Attestation
-
-du fabricant |
-
-CT (1)
-
-ou OA (2) |
-
-CT (1)
-
-ou OA (2) |
+OA (2) |
 
 Inspection annuelle
 
-(art. 40 § 3) |
+(art. 40 §3) |
 
 TC (4) |
 
@@ -163,7 +121,3 @@ OA (3) |
 (3) Organisme accrédité pour la vérification du montage et l'inspection en exploitation des ensembles démontables.
 
 (4) Technicien compétent (cf. article 43, §2).
-
-NOTA :
-
-Par la décision n° 491870 du 4 avril 2025 du Conseil d’Etat statuant au contentieux ECLI:FR:CECHS:2025:491870.20250404, l'arrêté du 4 décembre 2023 modifiant l'arrêté du 25 juillet 2022 fixant les règles de sécurité et les dispositions techniques applicables aux structures provisoires et démontables (NOR: IOME2322756A) est annulé.

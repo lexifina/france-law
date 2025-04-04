@@ -40,8 +40,4 @@ Pour l'ensemble démontable existant, l'avis favorable sanctionne, d'une part, l
 
 La validité de l'avis sur modèle d'un ensemble démontable mis en service et non modifié n'est pas limitée dans le temps.
 
-L'avis sur dossier technique d'un ensemble démontable est valable pour toutes les dates d'une manifestation ou de la tournée qui y a recours, lorsque l'ensemble démontable reste inchangé.
-
-NOTA :
-
-Par la décision n° 491870 du 4 avril 2025 du Conseil d’Etat statuant au contentieux ECLI:FR:CECHS:2025:491870.20250404, l'arrêté du 4 décembre 2023 modifiant l'arrêté du 25 juillet 2022 fixant les règles de sécurité et les dispositions techniques applicables aux structures provisoires et démontables (NOR: IOME2322756A) est annulé.
+La durée de validité de l'avis sur dossier technique d'un ensemble démontable est limitée aux dates de la manifestation qui y a recours.

@@ -38,16 +38,10 @@ Elle contient au minimum les éléments suivants :
 
 - liées à l'usure normale acceptable ;
 
-13. La description des éléments de structure compatibles avec l'ensemble démontable. Pour chacun de ces éléments, les points 1 à 3 sont précisés ;
-
-14. Les spécifications d'entretien, de maintenances préventive et curative, et leurs périodicités ;
+13. Les spécifications d'entretien, de maintenances préventive et curative, et leurs périodicités ;
 
 S'il y a lieu :
 
-15. Les procès-verbaux de réaction au feu ;
+14. Les procès-verbaux de réaction au feu ;
 
-16. L'avis sur modèle.
-
-NOTA :
-
-Par la décision n° 491870 du 4 avril 2025 du Conseil d’Etat statuant au contentieux ECLI:FR:CECHS:2025:491870.20250404, l'arrêté du 4 décembre 2023 modifiant l'arrêté du 25 juillet 2022 fixant les règles de sécurité et les dispositions techniques applicables aux structures provisoires et démontables (NOR: IOME2322756A) est annulé.
+15. L'avis sur modèle.
