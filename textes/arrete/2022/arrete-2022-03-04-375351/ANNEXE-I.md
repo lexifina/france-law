@@ -12,9 +12,9 @@ Chaque fois que la sécurité l'exige, notamment en cas d'urgence liée à la ci
 
 Lorsqu'une partie ou la totalité des vols IFR sur un aérodrome ou aux abords d'un aérodrome est suspendue, la tour de contrôle d'aérodrome :
 
--applique, le cas échéant, les directives de la direction de la sécurité de l'aviation civile territorialement compétente ;
+- applique, le cas échéant, les directives de la direction de la sécurité de l'aviation civile territorialement compétente ;
 
--informe les aéronefs concernés par ces mesures et notifie à tous les exploitants, ou à leurs représentants désignés, les raisons pour lesquelles de telles mesures sont prises, si nécessaire ou sur demande.
+- informe les aéronefs concernés par ces mesures et notifie à tous les exploitants, ou à leurs représentants désignés, les raisons pour lesquelles de telles mesures sont prises, si nécessaire ou sur demande.
 
 2. Choix de pistes parallèles en service
 
@@ -46,7 +46,7 @@ Lorsqu'un prestataire de services de la circulation aérienne transmet par l'int
 
 a) Les dispositions du paragraphe 11.2.1 des PANS-ATM de l'OACI, document 4444 (seizième édition - 2016, intégrant tous les amendements jusqu'au n° 10) en ce qui concerne l'origine et la destination des messages des services de la circulation aérienne ;
 
-b) Les dispositions du paragraphe 11.4.2.2 des PANS-ATM de l'OACI, document 4444 (seizième édition - 2016, intégrant tous les amendements jusqu'au n° 10) en ce qui concerne la soumission, l'approbation et la diffusion de plans de vol VFR soumis à un bureau de piste des services de la circulation aérienne avant le départ conformément aux parties 4 du règlement d'exécution (UE) n° 923/2012 susvisé et de l'annexe I de l'arrêté du 11 décembre 2014 susvisé et à toute modification d'un élément essentiel d'un plan de vol pendant la phase préalable au vol au sens du règlement (CE) n° 1033/2006 susvisé ;
+b) Les dispositions du paragraphe 11.4.2.2 des PANS-ATM de l'OACI, document 4444 (seizième édition - 2016, intégrant tous les amendements jusqu'au n° 10) en ce qui concerne la soumission, l'approbation et la diffusion de plans de vol VFR soumis à un bureau de piste des services de la circulation aérienne avant le départ conformément aux parties 4 du règlement d'exécution (UE) n° 923/2012 susvisé et de l'annexe I de l'arrêté du 11 décembre 2014 susvisé et à toute modification d'un élément essentiel d'un plan de vol pendant la phase préalable au vol au sens du règlement d'exécution (UE) n° 923/2012 susvisé ;
 
 c) Les dispositions du paragraphe 11.4.1.2 et 11.4.2.4 des PANS-ATM de l'OACI, document 4444 (seizième édition - 2016, intégrant tous les amendements jusqu'au n° 10) en ce qui concerne, respectivement, les messages d'alerte et les messages complémentaires.
 
@@ -63,6 +63,10 @@ Note.-Des exigences supplémentaires relatives à la coordination entre les auto
 5) Diffusions du service automatique d'information de région terminale par liaison vocale (ATIS-voix)
 
 Le message ATIS-voix diffusé ne dépasse pas, si possible, 45 secondes, et l'on veille à ce que la lisibilité du message ATIS ne soit pas affectée par la rapidité de la transmission ou par le signal d'identification d'une aide à la navigation utilisée pour la transmission des messages ATIS. Le message ATIS diffusé tient compte des performances humaines.
+
+6. Gestion de la circulation des véhicules et des personnes sur l'aire de manœuvre par un organisme AFIS
+
+Un organisme AFIS peut gérer la circulation des véhicules et des personnes sur l'aire de manœuvre, telle que prévue par la règle ATS.TR.305 du règlement d'exécution (UE) 2017/373 susvisé, sous réserve de la réalisation d'une étude d'impact sur la sécurité et d'une autorisation formelle de l'autorité de l'aviation civile territorialement compétente pouvant être assortie de restrictions.
 
 Partie 2 : Service du contrôle de la circulation aérienne
 
@@ -429,302 +433,6 @@ Note. - Les facteurs que le contrôleur doit prendre en compte quand il détermi
 (3) Une séparation fondée sur l'ADS-C n'est pas appliquée entre des aéronefs en attente au-dessus du même repère. L'application d'une séparation horizontale entre des aéronefs en attente et d'autres aéronefs est soumise aux dispositions et procédures établies par l'autorité ATS compétente.
 
 (4) Le contrôleur n'utilise pas les renseignements fournis par un affichage de renseignements ADS-C pour guider un aéronef.
-
-5. Communications contrôleur-pilote par liaison de données
-
-a) Généralités
-
-i) Les CPDLC sont un moyen de communication entre le contrôleur et le pilote qui utilise l'ensemble de messages CPDLC pour les communications dans le cadre du contrôle de la circulation aérienne.
-
-ii) Pour cette application, il a été établi un ensemble d'éléments de messages d'autorisation, d'information et de demande qui correspondent aux expressions conventionnelles utilisées en radiotéléphonie.
-
-Note. - Une liste énumérant les messages de l'ensemble CPDLC et indiquant l'utilisation prévue de chacun se trouve à l'appendice 5 de la seizième édition des PANS-ATM de l'OACI, document 4444.
-
-iii) Le pilote et le contrôleur sont dotés des moyens leur permettant d'échanger des messages qui comprennent des éléments de message normalisés, des éléments de message en texte libre ou une combinaison des deux.
-
-iv) Les systèmes sol et bord permettent d'afficher les messages de façon appropriée, de les imprimer au besoin et de les stocker d'une manière qui permet de les retrouver facilement et en temps utile en cas de besoin.
-
-v) Chaque fois qu'une présentation sous forme de texte est nécessaire, ce texte est affiché au moins en langue anglaise.
-
-b) Etablissement des CPDLC
-
-i) Généralités
-
-Les CPDLC sont établies suffisamment tôt pour permettre de vérifier que l'aéronef est en communication avec l'organisme du contrôle de la circulation aérienne approprié. Des renseignements sur le moment et, le cas échéant, le lieu où les systèmes bord ou sol devraient établir des CPDLC sont publiés dans les publications d'information aéronautique (AIP).
-
-ii) CPDLC initialisées par l'aéronef
-
-(1) Lorsqu'un organisme du contrôle de la circulation aérienne reçoit une demande inattendue de CPDLC d'un aéronef, il obtient de ce dernier les motifs de la demande pour déterminer la suite à donner.
-
-(2) Lorsqu'un organisme du contrôle de la circulation aérienne rejette une demande de CPDLC, il motive ce rejet au pilote en utilisant le message CPDLC approprié.
-
-iii) CPDLC initialisées par l'organisme du contrôle de la circulation aérienne
-
-(1) Un organisme du contrôle de la circulation aérienne n'établit des CPDLC avec un aéronef que si celui-ci n'est pas déjà en liaison CPDLC ou s'il en a reçu l'autorisation de l'organisme du contrôle qui est en liaison CPDLC avec l'aéronef.
-
-(2) Lorsqu'un aéronef rejette une demande de CPDLC, le rejet est motivé au moyen de l'élément de message CPDLC descendant " NOT CURRENT DATA AUTHORITY " (pas le point de contact autorisé actif) ou " NOT AUTHORIZED NEXT DATA AUTHORITY (pas le prochain point de contact autorisé) ", selon le cas. Des procédures locales détermineront si le motif doit être indiqué au contrôleur. Il n'est pas permis d'utiliser d'autre motif pour expliquer un rejet par un aéronef d'une liaison CPDLC initialisée par un organisme du contrôle de la circulation aérienne.
-
-c) Echanges de messages CPDLC opérationnels
-
-i) Le contrôleur ou le pilote compose les messages CPDLC en utilisant des éléments de message normalisés, des éléments de message en texte libre ou une combinaison des deux.
-
-Note-Se référer à l'appendice 5 de la seizième édition des PANS-ATM de l'OACI, document 4444 pour trouver la liste énumérant les messages de l'ensemble CPDLC et indiquant l'objet ou l'utilisation de chacun.
-
-(1) Dans la mesure du possible, il faut éviter d'utiliser des messages longs, des messages comprenant plusieurs éléments d'autorisation, des messages comprenant plusieurs éléments de demande d'autorisation et des messages combinant des autorisations et de l'information.
-
-Note-Des éléments indicatifs sur la mise au point de procédures d'exploitation locales et d'une bonne technique d'utilisation des CPDLC figurent dans les " Lignes directrices sur les facteurs humains et les systèmes de gestion du trafic aérien (ATM) " (document 9758 de l'OACI).
-
-(2) Lorsque les CPDLC sont utilisées et que l'intention à exprimer correspond à l'objet d'un message de l'ensemble CPDLC défini dans l'appendice 5 ci-dessus, le contrôleur ou le pilote utilise les éléments de message normalisés correspondants.
-
-(3) Sous réserve des dispositions mentionnées à l'alinéa v) (1) ci-dessous, quand un contrôleur ou un pilote communique par liaison CPDLC, il lui est répondu par liaison CPDLC. Lorsqu'un contrôleur ou un pilote communique en phonie, il lui est répondu en phonie.
-
-(4) Lorsqu'une correction d'un message envoyé par CPDLC est jugée nécessaire ou qu'il faut clarifier la teneur d'un message, le contrôleur ou le pilote utilise le moyen le plus approprié à sa disposition pour communiquer les éléments appropriés ou fournir la clarification.
-
-(5) Lorsque des communications en phonie sont utilisées pour corriger un message CPDLC qui n'a pas encore fait l'objet d'une réponse opérationnelle, le message du contrôleur ou du pilote commence par les mots " DISREGARD CPDLC (type de message) MESSAGE, BREAK [ignorez message CPDLC (type du message), break] ", suivis par l'autorisation, l'instruction, les renseignements ou la demande appropriés.
-
-(6) Lorsqu'il est fait référence au message CPDLC à ignorer ou lorsqu'il est désigné comme tel, le contrôleur ou le pilote usent de prudence dans la formulation afin d'éviter toute ambiguïté avec l'autorisation, l'instruction, les renseignements ou la demande corrigés qui accompagnent la référence ou la désignation du message.
-
-Note.-Par exemple, si le vol SAS445, qui maintient le niveau de vol 290, a reçu par CPDLC l'instruction de monter au niveau de vol 350 et que le contrôleur doit corriger l'autorisation en phonie, le message vocal suivant peut être utilisé :
-
-" SAS445 DISREGARD CPDLC CLIMB CLEARANCE MESSAGE, BREAK, CLIMB TO FL310 (SAS445 ignorez message CPDLC autorisation de monter, break, montez au FL310) ".
-
-(7) Si un message CPDLC nécessitant une réponse opérationnelle fait par la suite l'objet d'une négociation en phonie, une réponse appropriée de clôture de message CPDLC est émise pour assurer la bonne synchronisation du dialogue CPDLC. Cela peut être fait en donnant au destinataire du message, en phonie, l'instruction expresse de clore le dialogue ou en laissant le système clore automatiquement le dialogue.
-
-ii) Les attributs de message indiquent certaines exigences de traitement des messages aux utilisateurs CPDLC qui en reçoivent. Il y a deux attributs pour chaque message CPDLC : alerte et réponse.
-
-(1) Alerte
-
-L'attribut d'alerte détermine le type d'alerte nécessaire au moment de la réception du message. Le tableau qui figure ci-dessous indique les types d'alerte :
-
-Type |
-
-Désignation |
-
-Priorité |
-
-H |
-
-Haute |
-
-1 |
-
-M |
-
-Moyenne |
-
-2 |
-
-L |
-
-Basse |
-
-3 |
-
-N |
-
-Pas d'alerte nécessaire |
-
-4 |
-
-Attribut d'alerte (liaisons montantes et descendantes)
-
-(2) Réponse
-
-(a) L'attribut de réponse détermine les réponses valides à envoyer pour un élément de message donné. Le premier tableau qui figure ci-dessous indique les types de réponse pour les messages transmis en liaison montante et le second tableau indique les types de réponse pour les messages transmis en liaison descendante.
-
-Type |
-
-Réponse requise |
-
-Réponses valides |
-
-Priorité |
-
-W/ U |
-
-Oui |
-
-WILCO, UNABLE, STANDBY, NOT CURRENT DATA AUTHORITY, NOT AUTHORIZED NEXT DATA AUTHORITY, LOGICAL ACKNOWLEDGEMENT (seulement s'il est requis), ERROR |
-
-1 |
-
-A/ N |
-
-Oui |
-
-AFFIRM, NEGATIVE, STANDBY, NOT CURRENT DATA AUTHORITY, NOT AUTHORIZED NEXT DATA AUTHORITY, LOGICAL ACKNOWLEDGEMENT (seulement s'il est requis), ERROR |
-
-2 |
-
-R |
-
-Oui |
-
-AFFIRM, NEGATIVE, STANDBY, NOT CURRENT DATA AUTHORITY, NOT AUTHORIZED NEXT DATA AUTHORITY, LOGICAL ACKNOWLEDGEMENT (seulement s'il est requis), ERROR |
-
-3 |
-
-Y |
-
-Oui |
-
-Tout message CPDLC descendant, LOGICAL ACKNOWLEDGEMENT (seulement s'il est requis) |
-
-4 |
-
-N |
-
-Non, à moins qu'un accusé de réception logique ne soit requis |
-
-LOGICAL ACKNOWLEDGEMENT (seulement s'il est requis), NOT CURRENT DATA AUTHORITY, NOT AUTHORIZED NEXT DATA AUTHORITY, ERROR |
-
-5 |
-
-Attribut de réponse (liaisons montantes)
-
-Type |
-
-Réponse requise |
-
-Réponses valides |
-
-Priorité |
-
-Y |
-
-Oui |
-
-Tout message CPDLC descendant, LOGICAL ACKNOWLEDGEMENT (seulement s'il est requis) |
-
-1 |
-
-N |
-
-Non, à moins qu'un accusé de réception logique ne soit requis |
-
-LOGICAL ACKNOWLEDGEMENT (seulement s'il est requis),
-
-MESSAGE NOT SUPPORTED BY THIS ATC UNIT, ERROR |
-
-2 |
-
-Attribut de réponse (liaisons descendantes)
-
-(b) Lorsqu'un message à plusieurs éléments nécessite une réponse, la réponse s'applique à tous les éléments du message.
-
-Note.-Par exemple, dans le cas d'un message à plusieurs éléments contenant les éléments " CLIMB TO FL310 MAINTAIN MACH. 84 (montez au FL310 maintenez Mach. 84) ", une réponse " WILCO (j'exécuterai) " s'applique aux deux éléments et indique qu'ils seront respectés.
-
-(c) Lorsque le pilote ne peut pas se conformer à un message d'autorisation contenant un seul élément ou à l'une partie quelconque d'un message d'autorisation qui en compte plusieurs, il envoie la réponse " UNABLE (impossible) " et, dans ce dernier cas, la réponse s'applique à l'ensemble du message.
-
-(d) Lorsque le contrôleur ne peut pas approuver une demande d'autorisation contenant un seul élément ou à aucun élément d'une demande d'autorisation qui en compte plusieurs, il envoie un message " UNABLE (impossible) " qui s'applique à tous les éléments de la demande. Les autorisations en vigueur ne sont pas répétées.
-
-(e) Lorsque le contrôleur ne peut approuver que partiellement une demande d'autorisation contenant plusieurs éléments, le contrôleur répond au moyen d'un message " UNABLE (impossible) " applicable à tous les éléments de la demande.
-
-(f) Lorsque le contrôleur approuve une demande d'autorisation à un seul élément ou à tous les éléments d'une demande d'autorisation qui en compte plusieurs, le contrôleur répond au moyen d'autorisations correspondant à chaque élément. La réponse prend la forme d'un message montant simple.
-
-Note.-Par exemple, bien qu'il faille éviter les messages de demande d'autorisation à plusieurs éléments, au message descendant contenant les éléments :
-
-REQUEST CLEARANCE YQM YYG YYT YQX TRACK X EINN EDDF REQUEST CLIMB TO FL350
-
-REQUEST MACH 0.84
-
-la réponse peut être :
-
-CLEARED YQM YYG YYT YQX TRACK X EINN EDDF
-
-CLIMB TO FL350
-
-REPORT MAINTAINING
-
-CROSS YYG AT OR AFTER 1150
-
-NO SPEED RESTRICTION
-
-(g) Lorsqu'un message CPDLC contient plus d'un élément et que l'attribut de réponse pour le message est Y, s'il est utilisé, le message de réponse simple contient le nombre correspondant de réponses présentées dans l'ordre approprié.
-
-Note. - Par exemple, au message montant contenant les éléments :
-
-CONFIRM SQUAWK
-
-WHEN CAN YOU ACCEPT FL410
-
-la réponse peut être :
-
-SQUAWKING 5525
-
-WE CAN ACCEPT FL410 AT 1636Z
-
-iii) Transfert des CPDLC
-
-(1) Lorsque des CPDLC sont transférées, le transfert des communications vocales commence en même temps.
-
-(2) Lorsqu'un aéronef est transféré d'un organisme du contrôle de la circulation aérienne avec lequel on peut communiquer par CPDLC à un organisme du contrôle avec lequel des CPDLC ne sont pas disponibles, la cessation des CPDLC débute en même temps que le transfert des communications vocales.
-
-(3) Lorsqu'un transfert de CPDLC donne lieu à un changement de point de contact autorisé et qu'il reste des messages pour lesquels il n'a pas encore été reçu de réponse de clôture (c'est-à-dire des messages en attente de réponse), le contrôleur qui transfère les CPDLC en est informé.
-
-(4) Si le contrôleur transfère l'aéronef sans répondre à aucun message descendant en attente de réponse, le système est capable d'envoyer automatiquement les réponses de clôture appropriées. En pareil cas, la teneur des réponses de clôture envoyées automatiquement est indiquée dans les instructions locales.
-
-(5) Si le contrôleur décide de transférer l'aéronef sans recevoir la réponse du pilote à aucun message montant en attente de réponse, il reprend la communication en phonie pour clarifier toute ambiguïté liée aux messages en attente de réponse.
-
-iv) Eléments de message en texte libre
-
-(1) Le contrôleur et le pilote évitent d'utiliser des éléments de message en texte libre.
-
-Note. - Il est reconnu que des messages en texte libre peuvent être nécessaires dans des situations d'exception ou d'urgence, en particulier en cas de panne des communications vocales, mais il faut éviter d'en utiliser, afin de réduire la possibilité d'erreurs d'interprétation et d'ambiguïté des messages.
-
-(2) Lorsque l'autorité ATS compétente juge acceptable d'utiliser des éléments de message en texte libre, ces éléments sont stockés dans le système de bord ou le système sol pour en faciliter l'utilisation.
-
-v) Procédures en cas d'urgence, de danger et de panne de l'équipement
-
-(1) Quand il reçoit un message CPDLC d'urgence, le contrôleur en accuse réception par le moyen le plus efficace disponible.
-
-(2) Pour répondre par CPDLC à tout autre message d'urgence absolue ou de situation urgente, on utilise le message montant " ROGER ".
-
-(3) Dans le cas d'un message CPDLC nécessitant un accusé de réception logique ou une réponse opérationnelle, s'il ne reçoit ni l'un ni l'autre, le pilote ou le contrôleur, selon le cas, est alerté.
-
-vi) Panne des CPDLC
-
-Note.-Les mesures à prendre en cas d'échec d'un message CPDLC figurent au paragraphe viii) ci-dessous.
-
-(1) Le contrôleur et le pilote sont alertés d'une panne des CPDLC dès que possible après sa détection.
-
-(2) Le contrôleur ou le pilote qui a été alerté d'une panne des CPDLC mais qui doit communiquer avant leur rétablissement, communique par phonie, si possible, en commençant l'information avec l'expression suivante : " CPDLC FAILURE (panne CPDLC) ".
-
-(3) Les contrôleurs qui communiquent des renseignements sur une panne totale du système sol CPDLC à toutes les stations susceptibles de capter leur message commencent celui-ci par la formule d'appel général : " ALL STATIONS CPDLC FAILURE (à toutes les stations : panne des CPDLC) " suivie de l'indicatif de la station appelante.
-
-Note.-Il n'est pas attendu de réponse à cet appel général, sauf des stations qui sont appelées individuellement par la suite pour qu'elles en accusent réception.
-
-(4) En cas de panne des CPDLC et de passage aux communications en phonie, tous les messages CPDLC en attente de réponse sont considérés comme n'ayant pas été délivrés et tout le dialogue est repris en phonie.
-
-(5) Les dispositions mentionnées à l'alinéa (4) ci-dessus s'appliquent si les CPDLC tombent en panne mais sont rétablies avant qu'il ne devienne nécessaire de reprendre la communication en phonie.
-
-vii) Arrêt intentionnel des CPDLC
-
-(1) Quand un arrêt du réseau de communications ou du système sol CPDLC est prévu, un NOTAM est publié pour informer tous les intéressés de la durée de l'arrêt ainsi que, s'il y a lieu, des fréquences à utiliser pour les communications vocales.
-
-(2) Les aéronefs en contact avec l'organisme du contrôle de la circulation aérienne sont informés en phonie ou par CPDLC de toute perte imminente du service CPDLC.
-
-(3) Le contrôleur et le pilote disposent d'un moyen d'abandonner les CPDLC.
-
-viii) Echec d'un message CPDLC
-
-Lorsqu'un contrôleur ou un pilote est alerté de l'échec d'un message CPDLC, il prend l'une des mesures suivantes, selon le cas :
-
--en phonie, il confirme les mesures qui seront prises quant au dialogue concerné, en utilisant comme préambule l'expression suivante : " CPDLC MESSAGE FAILURE (échec message CPDLC) " ;
-
--il envoie de nouveau par CPDLC le message CPDLC en question.
-
-ix) Arrêt de l'utilisation des demandes de pilotes faites par CPDLC
-
-(1) Pour donner à toutes les stations ou à un vol particulier l'instruction de s'abstenir d'envoyer des demandes par CPDLC pendant un certain temps, le contrôleur utilise l'expression conventionnelle suivante : " ((indicatif d'appel) ou ALL STATIONS) STOP SENDING CPDLC REQUESTS [UNTIL ADVISED] [(motif)] [((indicatif d'appel) ou toutes les stations) cessez envoi demandes CPDLC [jusqu'à nouvel avis] [(motif)]] ".
-
-Note.-Dans une telle situation, les CPDLC demeurent disponibles au pilote pour répondre, au besoin, aux messages, envoyer des renseignements et signaler ou annuler une urgence.
-
-(2) Le retour à l'emploi normal des CPDLC est notifié au moyen de l'expression conventionnelle suivante : " ((indicatif d'appel) ou ALL STATIONS) RESUME NORMAL CPDLC OPERATIONS [(indicatif d'appel) ou toutes les stations) reprenez CPDLC normales] ".
-
-x) Essai des CPDLC
-
-Dans le cas où des essais des CPDLC avec un aéronef risquent de perturber les services de la circulation aérienne fournis à cet aéronef, une coordination est assurée au préalable.
 
 Partie 3 : Service d'alerte Délais de déclenchement des phases d'urgence
 
