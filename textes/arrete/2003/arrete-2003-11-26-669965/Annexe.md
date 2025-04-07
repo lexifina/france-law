@@ -10,7 +10,7 @@ Direction générale |
 
 Astreinte de direction générale. |
 
-1 astreinte de semaine (1). |
+1 astreinte de semaine. (1) |
 
 Pôle de la communication |
 
@@ -32,12 +32,6 @@ Astreinte (chauffeur). |
 
 1 astreinte de jour férié isolé. |
 
-Cabinet |
-
-Astreinte de direction. |
-
-1 astreinte de fin de semaine (entre le 26/07 et le 11/08/2024 et entre le 28/08 et le 08/09/2024). |
-
 Secrétariat général |
 
 |
@@ -50,12 +44,6 @@ Astreinte technique. |
 
 1 astreinte de semaine. |
 
-Secrétariat interrégional Grand-Paris-Division informatique de gestion |
-
-Astreinte technique opérationnelle |
-
-3 astreintes de semaine du 15/07/2024 au 08/09/2024. |
-
 Secrétariat interrégional Nord |
 
 Astreinte d'exploitation viabilité hivernale. |
@@ -67,60 +55,6 @@ Secrétariat interrégional Nord |
 Astreinte technique. |
 
 1 astreinte de semaine. |
-
-Secrétariat interrégional Nord-Division informatique de gestion |
-
-Astreinte technique opérationnelle. |
-
-3 astreintes de semaine du 15/07/2024 au 08/09/2024. |
-
-Secrétariat interrégional Est-Division informatique de gestion |
-
-Astreinte technique opérationnelle. |
-
-3 astreintes de semaine du 15/07/2024 au 08/09/2024. |
-
-Secrétariat interrégional Centre-Est-Division informatique de gestion |
-
-Astreinte technique opérationnelle. |
-
-1 astreinte de semaine du 15/07/2024 au 08/09/2024. |
-
-Secrétariat interrégional Ouest-Division informatique de gestion |
-
-Astreinte technique opérationnelle. |
-
-3 astreintes de semaine du 15/07/2024 au 08/09/2024. |
-
-Secrétariat interrégional Sud-Division informatique de gestion |
-
-Astreinte technique opérationnelle. |
-
-1 astreinte de semaine du 15/07/2024 au 08/09/2024. |
-
-Secrétariat interrégional Sud-Est-Division informatique de gestion |
-
-Astreinte technique opérationnelle. |
-
-3 astreintes de semaine du 15/07/2024 au 08/09/2024. |
-
-Secrétariat interrégional Sud-Ouest-Division informatique de gestion |
-
-Astreinte technique opérationnelle. |
-
-1 astreinte de semaine du 15/07/2024 au 08/09/2024. |
-
-Secrétariat interrégional Océan Indien-Division informatique de gestion |
-
-Astreinte technique opérationnelle. |
-
-1 astreinte de semaine du 15/07/2024 au 08/09/2024. |
-
-Secrétariat interrégional Antilles-Guyane-Division informatique de gestion |
-
-Astreinte technique opérationnelle. |
-
-3 astreintes de semaine du 15/07/2024 au 08/09/2024. |
 
 Sous-direction des affaires financières et du contrôle de gestion |
 
@@ -192,17 +126,11 @@ Direction de la stratégie et des ressources de la direction des services de la 
 
 SDRH |
 
-Astreinte de continuité opérationnelle. |
+Astreinte de continuité opérationnelle |
 
 1 astreinte de semaine
 
 1 astreinte de fin de semaine et jours fériés |
-
-Direction de la sécurité de la direction des services de la navigation aérienne |
-
-Astreinte opérationnelle cyber. |
-
-1 astreinte de semaine (entre le 06/05 et le 13/05/2024, entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024). |
 
 Direction des opérations de la direction des services de la navigation aérienne |
 
@@ -218,29 +146,15 @@ Astreinte opérationnelle. |
 
 Echelon central (CDM) |
 
-Astreinte opérationnelle. |
+Astreinte opérationnelle |
 
-1 astreinte de semaine. |
-
-Echelon central (Cyber) |
-
-Astreinte opérationnelle cyber. |
-
-1 astreinte de semaine
-
-(entre le 06/05 et le 13/05/2024, entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024). |
+1 astreinte de semaine |
 
 CESNAC |
 
 Astreinte opérationnelle et technique. |
 
 1 astreinte de semaine. |
-
-Centre de coordination civil-militaire des opérations aériennes |
-
-Astreinte opérationnelle et technique. |
-
-5 astreintes de semaine entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024. |
 
 CRNA Est |
 
@@ -338,18 +252,6 @@ Astreinte opérationnelle et technique. |
 
 2 astreintes de semaine. |
 
-Service technique de CDG-Pôle communication navigation surveillance (CNS) |
-
-Astreinte technique (énergie-climatisation). |
-
-1 astreinte de semaine entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024. |
-
-Organisme Le Bourget |
-
-Astreinte opérationnelle et technique. |
-
-1 astreinte de semaine entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024. |
-
 Organisme d'Orly |
 
 Astreinte opérationnelle et technique. |
@@ -360,7 +262,7 @@ Organisme d'Orly |
 
 Astreinte technique (antennes avancées, Melun) |
 
-2 astreintes de fin de semaine et jours fériés |
+2 astreintes de fin de semaine et jours fériés. |
 
 Organisme d'Orly |
 
@@ -370,9 +272,9 @@ Astreinte opérationnelle (aviation générale). |
 
 Organisme d'Orly |
 
-Astreinte opérationnelle et technique. |
+Astreinte technique (pôles ATM et CNS) |
 
-1 astreinte de semaine entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024. |
+4 astreintes de fin de semaine et jours fériés. |
 
 SNA Nord |
 
@@ -390,7 +292,7 @@ Siège |
 
 Astreinte technique. |
 
-1 astreinte de fin de semaine. |
+1 astreinte de fin de semaine |
 
 Siège |
 
@@ -436,7 +338,7 @@ Astreinte opérationnelle. |
 
 Service technique-Section énergie/ climatisation |
 
-Astreinte technique (énergie-climatisation). |
+Astreinte technique (énergie-climatisation) |
 
 1 astreinte de fin de semaine. |
 
@@ -482,9 +384,9 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Astreinte technique (Bastia, Calvi, antennes avancées). |
+Astreinte technique (Bastia, Calvi, antennes avancées) |
 
-1 astreinte de semaine dans la limite de 12 semaines par an entre le 15 juin et le 15 septembre. |
+1 astreinte de semaine dans la limite de 12 semaines par an entre le 15 juin et le 15 septembre |
 
 SNA Sud |
 
@@ -527,12 +429,6 @@ Siège |
 Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
-
-Marseille |
-
-Astreinte opérationnelle. |
-
-1 astreinte de semaine entre le 22/07 et le 19/08/2024 et entre le 26/08 et le 09/09/2024. |
 
 Montpellier-Méditerranée |
 
@@ -584,9 +480,7 @@ Astreinte technique de maintenance. |
 
 1 astreinte de fin de semaine. |
 
-Service de l'aviation civile
-
-de Saint-Pierre-et-Miquelon |
+Service de l'aviation civile de Saint-Pierre-et-Miquelon |
 
 |
 
@@ -608,12 +502,6 @@ Direction de la sécurité de l'aviation civile |
 
 |
 
-DSAC |
-
-Astreinte de direction |
-
-8 astreintes de semaine entre le 15/07 et le 08/09/2024. |
-
 DSAC Nord |
 
 |
@@ -630,7 +518,7 @@ DSAC |
 
 Astreinte de direction. |
 
-1 astreinte de semaine. |
+1 astreinte de semaine |
 
 Région Hauts-de-France (Lille, Calais, Le Touquet et Merville) |
 
@@ -664,7 +552,7 @@ Astreinte de contrôle technique d'exploitation. |
 
 DSAC (Bordeaux) |
 
-Astreinte de direction. |
+Astreinte de direction |
 
 1 astreinte de semaine. |
 
@@ -752,7 +640,7 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Centre-Val de Loire (Tours) |
+Région Centre-Val-de-Loire (Tours) |
 
 Astreinte enquêtes-accidents. |
 
@@ -956,12 +844,6 @@ Astreinte de contrôle technique d'exploitation. |
 
 1 astreinte de semaine dans la limite de 18 semaines par an. |
 
-SEAC-Département des ressources et de l'ingénierie-Division informatique et modernisation numérique |
-
-Astreinte technique opérationnelle. |
-
-1 astreinte de semaine du 22/07/2024 au 05/08/2024. |
-
 Tahiti-Faaa |
 
 Astreinte de direction (SEAC). |
@@ -986,15 +868,13 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service mixte Direction de l'aviation civile
-
-en Nouvelle-Calédonie |
+Service mixte &laquo; Direction de l'aviation civile en Nouvelle-Calédonie &raquo; |
 
 |
 
 |
 
-Service mixte DAC/ NC |
+Service mixte &laquo; DAC/ NC &raquo; |
 
 Astreinte de contrôle technique d'exploitation. |
 
@@ -1002,7 +882,7 @@ Astreinte de contrôle technique d'exploitation. |
 
 Nouméa |
 
-Astreinte de direction (Service mixte DAC/ NC ). |
+Astreinte de direction (Service mixte &laquo; DAC/ NC &raquo;). |
 
 1 astreinte de semaine. |
 
@@ -1020,7 +900,7 @@ Astreinte opérationnelle. |
 
 Nouméa |
 
-Astreinte technique de centrale énergie. |
+Astreinte technique de centrale énergie |
 
 1 astreinte de semaine. |
 
@@ -1029,12 +909,6 @@ Nouméa-La Tontouta |
 Astreinte technique de maintenance. |
 
 1 astreinte de semaine. |
-
-DAC/ NC-Service administratif-Informatique et bureautique |
-
-Astreinte technique de maintenance. |
-
-1 astreinte de semaine du 15/07/2024 au 08/09/2024. |
 
 SEAC des îles Wallis-et-Futuna |
 
