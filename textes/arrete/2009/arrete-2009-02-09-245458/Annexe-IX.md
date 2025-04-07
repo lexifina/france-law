@@ -56,6 +56,8 @@ Il est interdit de faire circuler simultanément plusieurs véhicules sous le co
 
 Des dérogations sont admises dans les cas suivants :
 
+- lors du prêt pour essai, par un constructeur, à ses collaborateurs et à leur famille, d'un véhicule de catégorie M1 et de genre VP en phase finale d'homologation européenne grande série qui sera délivrée par l'autorité de réception française, et dont les essais d'homologation partielles réalisés par l'UTAC sont satisfaisants pour répondre aux exigences des réglementations partielles liées à la sécurité visées en annexe II partie 1 du Règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018. Pour cela, le constructeur devra être en possession d'une attestation visée par l'autorité de réception française ;
+
 - lors du prêt pour essai d'un véhicule à des directeurs de journaux, journalistes ou à toutes personnes dont la profession le justifie ;
 
 - lors du prêt pour essai d'un véhicule de plus de 3,5 tonnes à un client éventuel ;
@@ -98,6 +100,16 @@ c) Le véhicule a été confié à un garagiste pour réparations après avoir �
 
 Le véhicule porteur ou tracteur doit être en règle au regard des dispositions réglementant le transport routier de marchandises.
 
-NOTA :
+4.3 Par dérogation au point 4.1, les véhicules lourds neufs peuvent circuler en charge sous réserve de respecter les dispositions des points 4.3.1 et 4.3.2.
 
-Conformément à l’article 13 de l’arrêté du 21 juin 2024 (NOR : TRER2409842A), ces dispositions entrent en vigueur en vigueur le 1er janvier 2025.
+4.3.1 Dispositions communes pour les véhicules de transports de marchandises et de personnes :
+
+-disposer d'un certificat provisoire d'immatriculation en cours de validité ;
+
+-pour les véhicules prêts à l'emploi d'origine : disposer d'un justificatif technique de conformité au sens de l'article 1er. A. 2 du présent arrêté ;
+
+-pour les véhicules non prêts à l'emploi d'origine : disposer d'un justificatif technique de conformité au sens de l'article 1er. B. 2 du présent arrêté.
+
+4.3.2 Disposition supplémentaire spécifique aux véhicules de transports de personnes :
+
+-disposer d'une attestation d'aménagement conforme à l'article 85 de l'arrêté du 2 juillet 1982 relatif aux transports en commun de personnes.
