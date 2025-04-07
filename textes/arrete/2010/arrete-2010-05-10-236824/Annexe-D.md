@@ -6,11 +6,11 @@ LISTE DES ÉTRANGERS SOUMIS AU VISA DE TRANSIT AÉROPORTUAIRE PAR LA FRANCE
 
 2. Sont en outre soumis au visa de transit aéroportuaire :
 
--les titulaires d'un document de voyage délivré par les pays ou entités suivants :
+- les titulaires d'un document de voyage délivré par les pays ou entités suivants :
 
 PAYS OU ENTITÉ |
 
-CATEGORIES CONCERNEES |
+CATÉGORIES CONCERNÉES |
 
 Angola |
 
@@ -68,9 +68,13 @@ Népal |
 
 L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire |
 
+Ouzbékistan |
+
+L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire |
+
 Philippines |
 
-L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire, à l'exception des marins munis d'une pièce d'identité des gens de mer, délivrée conformément aux conventions de l'Organisation internationale du travail (OIT) sur les pièces d'identité des gens de mer no108 (de 1958) ou no185 (de 2003), à la convention visant à faciliter le trafic maritime international (convention FAL) ainsi qu'au droit national pertinent. |
+L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire, à l'exception des marins munis d'une pièce d'identité des gens de mer, délivrée conformément aux conventions de l'Organisation internationale du travail (OIT) sur les pièces d'identité des gens de mer n° 108 (de 1958) ou n° 185 (de 2003), à la convention visant à faciliter le trafic maritime international (convention FAL) ainsi qu'au droit national pertinent. |
 
 Russie |
 
@@ -100,10 +104,14 @@ Tchad |
 
 L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire. |
 
+Togo |
+
+L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire |
+
 Turquie |
 
 L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire |
 
--les titulaires d'un document de voyage pour réfugiés palestiniens.
+- les titulaires d'un document de voyage pour réfugiés palestiniens.
 
 3. Sont exemptés du visa de transit aéroportuaire les étrangers mentionnés aux paragraphes 1 et 2 de la présente annexe et entrant dans les dispositions de l'article 3.5 du règlement n° 810/2009 ci-dessus.
