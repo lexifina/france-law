@@ -1,0 +1,11 @@
+# COMMUNE DE MEDREAC : délibération CC — DEL2025_19 ASSAINISSEMENT  SUPPRESSION DU BUDGET AU 31 DECEMBRE 2024 ET TRANSFERT DES RESULTATS 2024
+
+- Collectivité : COMMUNE DE MEDREAC
+- SIRET : 21350171100013
+- Code INSEE : 35171
+- Date : 2025-04-07
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : DEL2025_19 ASSAINISSEMENT  SUPPRESSION DU BUDGET AU 31 DECEMBRE 2024 ET TRANSFERT DES RESULTATS 2024
+- Transmis à la préfecture : 2025-05-21
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213501711/Deliberation/2025/871688/d81d427b7ae2aa487305f60a77ce217d439f121801f923e15cb975a257a41354.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
