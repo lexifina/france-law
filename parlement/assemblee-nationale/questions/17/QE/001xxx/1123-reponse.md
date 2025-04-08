@@ -1,0 +1,9 @@
+# Réponse à la question n° 1123
+
+- Question : [1123](1123.md) — Question n° 1123 — Élargissement de la peine complémentaire de privation de la pension de réversion
+
+## Réponse
+
+*JO du 2025-04-08, page 2510*
+
+La peine complémentaire d'interdiction de percevoir la pension de réversion due au conjoint survivant ou divorcé, prévue par les articles 221-9-2 et 222-48-3 du code pénal, a été introduite par la loi n° 2020-1576 du 14 décembre 2020 de financement de la sécurité sociale pour 2021. En application des articles 221-9-2 et 222-48-2 du code pénal, la peine complémentaire d'interdiction de percevoir la pension due au conjoint survivant ou divorcé doit être obligatoirement prononcée, sauf décision spécialement motivée de la juridiction en considération des circonstances de l'infraction et de la personnalité de son auteur, à l'encontre des personnes physiques coupables d'atteinte volontaire à la vie de nature criminelle, de tortures et actes de barbarie, de violences, de viol ou d'autres agressions sexuelles, lorsque les faits ont été commis à l'encontre de leur époux assuré. Le Gouvernement, particulièrement mobilisé pour lutter contre les violences faites aux femmes, est favorable à un élargissement du champ d'application de cette peine complémentaire pour y intégrer les atteintes à la vie et à l'intégrité physique commises après intoxication volontaire, mais également les délits de harcèlement et de menaces de mort lorsque ces faits sont commis à l'encontre de l'époux. En revanche, s'agissant de la proposition visant à permettre au juge aux affaires familiales, lorsqu'il prononce le divorce pour faute aux torts exclusifs de l'un des époux de prononcer une même interdiction de percevoir la pension due au conjoint survivant ou divorcé, il convient de souligner que le juge aux affaires familiales est un juge civil qui n'a aucune compétence pour prononcer une peine complémentaire.
