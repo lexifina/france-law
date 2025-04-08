@@ -1,0 +1,10 @@
+# COMMUNE DE SAINT YVI : délibération CCAS_DEL_25_08 — CCAS DELIBERATION 2025-08 - ANNEXE 1_CFU CCAS 2024_PRESENTATION GALE ET RESULTATS D'EXECUTION
+
+- Collectivité : COMMUNE DE SAINT YVI
+- SIRET : 21290272000011
+- Code INSEE : 29272
+- Date : 2025-04-08
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : CCAS DELIBERATION 2025-08 - ANNEXE 1_CFU CCAS 2024_PRESENTATION GALE ET RESULTATS D'EXECUTION
+- Transmis à la préfecture : 2025-04-08
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
