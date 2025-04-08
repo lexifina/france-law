@@ -1,0 +1,9 @@
+# Réponse à la question n° 3849
+
+- Question : [3849](3849.md) — Question n° 3849 — Compensation du non-recouvrement des titres de perception
+
+## Réponse
+
+*JO du 2025-04-08, page 2483*
+
+Le relèvement du seuil de mise en recouvrement de 5 à 15 euros n'a pas pour obligation de conduire les collectivités à renoncer à la recette, mais à la reporter dans le temps. Ainsi, l'opération de facturation et donc de recouvrement sera lancée lorsque le débiteur aura accumulé une dette d'au moins 15 euros avant que la facture ne lui soit envoyée et la mise en recouvrement engagée par le comptable. Cette mesure encourage donc la mise en œuvre d'un dispositif de recouvrement efficient reposant sur trois leviers : 1) le recours à des régies pour les créances inférieures à 15 euros. En effet, grâce à ces régies, le paiement de la créance intervient au même moment que son fait générateur (souscription à la cantine, abonnement bibliothèque par exemple), assurant ainsi des encaissements effectifs de recettes pour des créances qui n'auraient pas pu faire l'objet de recouvrement forcé de la part du comptable du fait d'un montant trop faible ; 2) le regroupement des créances inférieures à 15 euros, notamment pour les créances répétitives et celles qui ne peuvent pas faire l'objet d'un encaissement en régie ; 3) l'émission de titres de recettes pris en charge et recouvrés par les comptables publics pour les titres supérieurs à 15 euros. Ce relèvement permet donc d'éviter le regroupement de créances de faibles montants, difficilement recouvrables et qui peuvent demeurer dans le temps au sein de la comptabilité budgétaire des collectivités. Il permet, enfin, au comptable public de recourir plus rapidement à des mesures d'exécution forcée dès lors qu'il dispose d'au moins deux créances pour un même usager.
