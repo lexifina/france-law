@@ -1,0 +1,9 @@
+# Réponse à la question n° 5109
+
+- Question : [5109](5109.md) — Question n° 5109 — Scission d'un nom composé
+
+## Réponse
+
+*JO du 2025-04-08, page 2557*
+
+L'article 61-3-1 alinéa 1er du code civil permet à toute personne majeure de demander à l'officier de l'état civil de son lieu de résidence ou dépositaire de son acte de naissance, son changement de nom en vue de porter l'un des noms prévus aux premier et dernier alinéas de l'article 311-21 du code civil. La circulaire du 15 juin 2023 de présentation des dispositions issues de la loi n° 2022-301 du 2 mars 2022, relative au choix du nom issu de la filiation précise que l'intéressé peut choisir de substituer ou d'adjoindre à son nom l'un des noms qui figurent sur son acte de naissance au titre de la filiation. Le nom composé étant composé de deux vocables insécables, l'intéressé ne peut pas, dans le cadre de la procédure simplifiée de changement de nom, choisir de porter un seul de ces vocables. En revanche, si l'un de ces vocables apparaît sur son acte de naissance au titre de la filiation, l'intéressé peut substituer son nom composé par celui-ci. Ainsi, en cas d'adoption simple, lorsque le nom de l'adoptant est ajouté à celui de l'adopté et forme à ce titre un nom composé insécable, l'adopté peut, sur le fondement de l'article 61-3-1 du code civil, demander à remplacer ce nom par celui de l'un ou de ses parents d'origine ou celui de l'un ou de ses parents adoptifs parent, dès lors que celui-ci figure sur son acte naissance au titre de sa filiation. En revanche, si l'un des vocables qui composent le nom composé de la personne ne figure pas sur son acte de naissance au titre de la filiation, celle-ci pourra uniquement, afin de pouvoir porter ce seul vocable, recourir à la procédure de changement de nom pour motif légitime prévue à l'article 61 du code civil.
