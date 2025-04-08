@@ -1,0 +1,9 @@
+# Réponse à la question n° 2810
+
+- Question : [2810](2810.md) — Question n° 2810 — Don du sang des personnes sous placées sous curatelle
+
+## Réponse
+
+*JO du 2025-04-08, page 2538*
+
+La loi n° 2021-1017 du 2 août 2021 relative à la bioéthique, entrée en vigueur le 4 août 2021, a modifié l'article L. 1221-5 du code de la santé publique fixant les règles en matière de don de sang des personnes protégées. Depuis cette date, l'interdiction du don de sang concerne uniquement les personnes « faisant l'objet d'une mesure de protection juridique avec représentation à la personne » et non plus toutes les personnes faisant l'objet d'une « mesure de protection légale », comme c'était le cas sous l'empire du droit antérieur. Une mesure de curatelle, y compris renforcée, ne pouvant pas comporter de représentation de la personne, une personne bénéficiant d'une telle mesure peut effectuer un don de sang. Par ailleurs, le don de sang étant un acte strictement personnel, en application de l'article 458 du code civil, l'assistance du curateur, dans le cas d'une curatelle (y compris renforcée), n'est pas nécessaire pour y procéder, ce qui signifie que même en cas de désaccord du curateur, l'intéressé peut procéder à un don de sang. Le consentement du donneur doit être recueilli conformément aux articles L. 1211-2, L. 1221-3, R. 1221-5 et R. 1222-17 du code de la santé publique. Le donneur remplit ainsi un questionnaire ; il est reçu par un professionnel de santé lors d'un entretien préalable au don, pendant lequel il reçoit des informations détaillées, peut poser des questions et donne son consentement éclairé à la poursuite du processus. Le droit positif permet donc déjà aux personnes bénéficiant d'une curatelle renforcée de procéder à un don de sang, dans le respect de leurs droits fondamentaux.
