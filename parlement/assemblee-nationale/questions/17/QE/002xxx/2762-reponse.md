@@ -1,0 +1,9 @@
+# Réponse à la question n° 2762
+
+- Question : [2762](2762.md) — Question n° 2762 — Difficultés rencontrées par les experts judiciaires
+
+## Réponse
+
+*JO du 2025-04-08, page 2536*
+
+Le ministère de la justice prête une attention soutenue aux moyens dont disposent les experts, désignés dans le cadre d'une procédure pénale, pour mener à bien les missions qui leur sont confiées par les magistrats, et notamment les magistrats instructeurs qui déterminent en toute indépendance les actes nécessaires à la manifestation de la vérité. Leur activité constitue en effet, en complément des actes réalisés par les forces de sécurité intérieure, un apport incontournable au bon déroulement des enquêtes. Les investigations numériques peuvent toutefois nécessiter le recours à des dispositifs techniques qui présentent des potentialités d'atteinte au droit au respect de la vie privée de nos concitoyens. C'est la raison pour laquelle la fabrication, l'importation, la détention, l'exposition, l'offre, la location ou la vente d'appareils ou de dispositifs techniques de nature à permettre la réalisation de certaines opérations, à l'instar de l'enregistrement de conversations à distance à l'insu des personnes concernées ou la captation de données informatique, est strictement encadrée et soumise à autorisation, sous peine des sanctions prévues à l'article 226-3 du code pénal. L'Agence nationale de la sécurité des systèmes d'information (ANSSI) assure un contrôle des demandes d'autorisation qui lui sont formulées et y fait droit le cas échéant, notamment en tenant compte de l'activité d'expertise judiciaire des demandeurs, et le ministère de la justice, représenté au sein de la commission conseillant le directeur de l'ANSSI instituée à l'article R. 226-2 du code pénal, est attentif à l'équilibre devant être trouvé dans ce cadre.
