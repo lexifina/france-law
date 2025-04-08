@@ -1,0 +1,9 @@
+# Réponse à la question n° 4001
+
+- Question : [4001](4001.md) — Question n° 4001 — Pénurie de médicaments
+
+## Réponse
+
+*JO du 2025-04-08, page 2586*
+
+La disponibilité des médicaments dans les pharmacies est un sujet de préoccupation majeur pour tous nos concitoyens et a un impact important sur leur vie quotidienne. Les causes de ces tensions sont multifactorielles : prévalence des épidémies hivernales, disponibilité des matières premières, tensions sur le marché mondial, problèmes dans les chaînes de fabrication… Face à ce constat, et à des pénuries qui se multiplient, le Gouvernement est actif : - identification à l'été 2023 d'une liste de 450 médicaments essentiels faisant l'objet d'un suivi renforcé ; - annonce, par le Président de la République en juin 2023, de la relocalisation sur sol français de la production de 25 médicaments stratégiques dans le cadre du plan France 2030. Le Gouvernement a annoncé en janvier 2025 le soutien de 8 projets industriels supplémentaires, soit 21 M€ injectés pour 160 M€ d'investissements industriels, l'Etat vient appuyer la production ou la relocalisation de médicaments essentiels ; - signature, par l'ensemble des acteurs de la chaîne du médicament, d'une charte d'engagement en novembre 2023, visant à mieux contrôler et réguler les approvisionnements, favoriser la transparence de l'information, et responsabiliser chacun dans l'intérêt premier du patient ; - vote, par le législateur dans le cadre de la LFSS 2024 et de la LFSS2025, de dispositions permettant d'accroître la capacité d'action des autorités sanitaires pour lutter contre les tensions d'approvisionnement ; - publication, en février 2024, d'un plan d'action volontariste pour trois années permettant de relever le défi des pénuries avec méthode, détermination et réalisme. Par ailleurs, la France est particulièrement proactive à l'échelle européenne, et participe activement aux travaux conjoints dans le cadre du Critical medicines act.
