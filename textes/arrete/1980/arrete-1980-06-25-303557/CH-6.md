@@ -22,17 +22,19 @@ b) Lorsque la puissance utile totale est supérieure à 30 kW, le local doit sat
 
 - être non accessible au public ;
 
+- ne pas servir au dépôt de matières combustibles ou de produits toxiques ou corrosifs ;
+
 - être ventilé dans les conditions du point a ci-dessus ;
 
-- comporter un plancher haut et des parois construites en matériau classé M 0 et coupe-feu de degré 1 heure ;
+- comporter un plancher haut et des parois construites en matériau classé M0 ou A2-s1, d0 et coupe-feu de degré 1 heure ou EI 60 (REI 60 en cas de fonction portante) ;
 
 - comporter une porte :
 
-- coupe-feu de degré 1/2 heure si elle ouvre sur un local ou une circulation accessible au public ;
+- coupe-feu de degré 1/2 heure équipée d'un ferme-porte ou EI 30-C si elle ouvre sur un local ou une circulation accessible au public ;
 
-- pare-flammes de degré 1/2 heure dans les autres cas ;
+- pare-flammes de degré 1/2 heure équipée d'un ferme-porte ou E 30-C dans les autres cas ;
 
-- équipée d'un ferme-porte, s'ouvrant dans le sens de la sortie et pouvant être ouverte, dans tous les cas, de l'intérieur.
+- s'ouvrant dans le sens de la sortie et pouvant être ouverte, dans tous les cas, de l'intérieur.
 
 § 2. Appareils installés à l'extérieur du bâtiment :
 
