@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241102265
+
+- Question : [SEQ241102265](seq241102265.md) — Économies demandées aux collectivités locales dans le projet de loi de finances pour 2025
+
+## Réponse
+
+*Comptes publics, JO du 2025-04-10, page 1758*
+
+Dans le contexte de maîtrise des finances publiques, la loi de finances initiale pour 2025 prévoyait initialement une contribution des collectivités locales à hauteur de 5 Mdseuros avant d'être ramenée à 2,2 Mdseuros. La loi de finances pour 2025 prévoit une stabilisation des fractions de la taxe sur la valeur ajoutée (TVA) pour l'année 2025 (article 109) et instaure, pour 2025, un dispositif de lissage conjoncturel de recettes des collectivités (article 186). À cet égard, les contributions dans le cadre de ce dispositif seront mises en réserve et reversées aux collectivités locales à partir de 2026. Par ailleurs, la loi de finances initiale pour 2025 prévoit de maintenir le soutien de l'État à l'investissement local (DSIL, DSID, DETR, DPV et fonds vert) à hauteur de près de 3 Mdseuros et plus particulièrement en faveur de la transition écologique d'une part, et, d'autre part, de renforcer les dotations destinées aux collectivités : +150 Meuros pour la dotation globale de fonctionnement et + 10 Meuros pour la dotation relative aux aménités rurales. Enfin, plusieurs mesures de cette loi de finances pour 2025 visent à accroître les ressources des collectivités territoriales, parmi lesquelles le réhaussement du taux plafond de 0,5 point des droits de mutation à titre onéreux, pour une période de 3 ans, tout en exonérant les primo-accédants, ou l'instauration d'un versement mobilité au profit des régions en tant qu'autorités organisatrices de mobilité. Le Gouvernement reste donc très attentif à la situation des collectivités locales dans un contexte de maîtrise des finances publiques.
