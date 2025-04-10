@@ -34,12 +34,6 @@ Les gestionnaires de réseaux sont chargés du calcul de cette valeur et de sa t
 
 b) Dans le cas où l'installation est soumise au régime générique de certification conformément à l'article 6.2.1 des règles du mécanisme de capacité approuvées par l'arrêté du 22 janvier 2015 susvisé, ce nombre est égal pour une année civile au produit de sa puissance installée, notée P max, et d'un coefficient kfilière égal à 0,7.
 
-- Prefcapa est le prix de marché de référence de la capacité, exprimé en €/MW et défini comme la moyenne arithmétique des prix observés lors des sessions d'enchères organisées pendant l'année civile précédant l'année de livraison.
-
-Pour la première année civile partielle du contrat de complément de rémunération, Pref
-
-capa est nul.
-
 Prefcapa est le prix de marché de référence de la capacité, exprimé en €/ MW et défini comme le prix observé à l'issue de la dernière session d'enchères organisée pendant l'année civile précédant l'année de livraison.
 
 II. Le coefficient α, prévu à l'article R. 314-36 du code de l'énergie, est égal à 1.
