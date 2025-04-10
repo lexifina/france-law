@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001479
+
+- Question : [SEQ241001479](seq241001479.md) — Contrôle budgétaire d'un syndicat scolaire
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-04-10, page 1726*
+
+Conformément aux articles L. 5212-1 et suivants du code général des collectivités territoriales (CGCT), un syndicat de communes constitue un établissement public de coopération intercommunale (EPCI) « associant des communes en vue d'oeuvres ou de services d'intérêt intercommunal ». Ces oeuvres ou services peuvent comprendre la compétence relative au fonctionnement des écoles. Le syndicat, constitué sur le fondement d'un objet scolaire, prend alors la dénomination de syndicat à vocation scolaire (SIVOS). En vertu du premier alinéa de l'article L. 5211-36 du CGCT, les EPCI, y compris les SIVOS, sont soumis, sous réserve des dispositions qui leurs sont propres, aux dispositions applicables aux communes. L'article L. 2312-1 du CGCT, applicable aux communes, prévoit que le budget est proposé par le maire et voté par le conseil municipal. Aussi, pour les SIVOS, le président du comité syndical propose le budget, qui est ensuite voté par le comité syndical. En conséquence du renvoi aux articles applicables aux communes et au regard de l'article L.1612-5 du CGCT, le budget du SIVOS doit être en équilibre. Il doit satisfaire aux conditions posées par l'article L.1612-4 du CGCT, à savoir la sincérité des inscriptions budgétaires, la couverture de l'annuité en capital de la dette par des ressources propres et l'équilibre par section. En outre, le dépôt du compte administratif constitue une obligation légale, conformément aux dispositions des articles L.1612-12 et suivants du CGCT. Cette exigence vise à garantir la transparence ainsi que le contrôle de la gestion financière des SIVOS.
