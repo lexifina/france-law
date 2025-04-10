@@ -89,3 +89,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=FBY7Nmi37pVDMqtPqk-BIIvKSk5AJ5_K4
 Les modèles des signaux nouveaux mentionnés à l'article 12 de l’arrêté du 15 mars 2024 figurent à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=oHBhbHXZXjqh5Sh0WSjAo_z8mzkP58YcL7EzGqCPuR4=
+
+Les modèles des signaux nouveaux mentionnés au III de l'article 1 de l’arrêté du 4 avril 2025 (NOR : INTS2510065A) figurent à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=6Y2osWlsboiNpgubsvGQvkmtqoLOiPab_gT-xvWbPuE=.
