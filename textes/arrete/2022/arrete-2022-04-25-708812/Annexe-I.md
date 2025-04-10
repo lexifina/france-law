@@ -344,6 +344,8 @@ E.-Emplois relevant du groupe 3 :
 
 109° Officier général en charge du contrôle et de l'emploi des moyens militaires du service action de la direction générale de la sécurité extérieure.
 
+110° Adjoint au chef de service des affaires de sécurité internationale de la direction générale des relations internationales et de la stratégie du ministère de la défense.
+
 F.-Emplois relevant du groupe 4 :
 
 1° Secrétaire général de la garde nationale ;
@@ -378,7 +380,7 @@ F.-Emplois relevant du groupe 4 :
 
 16° Adjoint au chef de l'état-major particulier du Président de la République ;
 
-17° Adjoint au chef de service des affaires de sécurité internationale de la direction générale des relations internationales et de la stratégie du ministère de la défense ;
+17° (Transféré) ;
 
 18° Officier général adjoint “ engagements opérationnels/ conduite ” au chef du centre de planification et de conduite des opérations de l'état-major des armées ;
 
@@ -851,3 +853,7 @@ G.-Emplois relevant du groupe 5 :
 (1) N'occupant pas les fonctions de commandant des écoles militaires de Bourges.
 
 (2) N'occupant pas les fonctions de général commandant des écoles militaires de Draguignan et commandant de la base de défense de Draguignan.
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 3 avril 2025 (NOR : ARMH2510790A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de février 2025.
