@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404089
+
+- Question : [SEQ250404089](seq250404089.md) — Glissières de sécurité
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-04-10, page 1728*
+
+Conformément à l'article L. 131-2 du code de la voirie routière, il incombe au département d'assurer l'aménagement et l'entretien des routes départementales. Il s'agit pour cette collectivité d'une dépense obligatoire en vertu du 16° de l'article L. 3321-1 du code général des collectivités territoriales (CGCT). Sur une route départementale traversant une commune, le département exerce la compétence voirie en tant que propriétaire et gestionnaire de la voie. A ce titre, les obligations du département sont les mêmes que sur l'ensemble de son domaine public routier. Le département est compétent pour opérer tous travaux d'aménagement ou d'entretien de son domaine public routier à l'intérieur des agglomérations, ce qui inclut au premier chef l'entretien de la chaussée, mais également, tous les accessoires indissociables de la voie dont les glissières de sécurité (Cour administrative d'appel de Versailles, 9 novembre 2023, n° 22VE00169). Au titre de l'article L. 2212-2 du CGCT, le maire peut, dans le cadre de son pouvoir de police de la circulation, décider de la mise en place de dispositifs de sécurité sur les routes départementales à l'intérieur de l'agglomération et sur le territoire de sa commune si ces dispositifs n'ont ni pour objet, ni pour effet, de modifier l'assiette de la route départementale (Cour administrative d'appel de Marseille, 14 décembre 2011, N°09MA01174). Par ailleurs, une collectivité locale ne saurait imposer une participation financière à dépense obligatoire à une autre collectivité locale. Toutefois, un département et une commune peuvent, par convention, répartir la charge de l'entretien d'une route départementale traversant une commune.
