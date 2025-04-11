@@ -1,14 +1,12 @@
 # Article Annexe 6-1
 
-MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES
-
-D'ÉNERGIE LORSQUE LES BÉNÉFICIAIRES SONT DES PERSONNES PHYSIQUES
-
 MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES D'ÉNERGIE LORSQUE LES BÉNÉFICIAIRES SONT DES PERSONNES PHYSIQUES
 
 RAISON
 
-sociale du demandeur |
+sociale
+
+du demandeur |
 
 SIREN
 
@@ -26,23 +24,17 @@ de l'opération |
 
 NOM
 
-du
-
-bénéficiaire
-
-de l'opération |
+du bénéficiaire de l'opération |
 
 PRÉNOM
 
 du bénéficiaire de l'opération |
 
-ADRESSE de l'opération |
+ADRESSE
 
-CODE
+de l'opération |
 
-postal
-
-sans Cedex |
+CODE postal sans Cedex |
 
 VILLE |
 
@@ -68,13 +60,17 @@ Suite du tableau
 
 VOLUME CEE
 
-hors précarité énergétique
+&laquo; hors précarité
+
+énergétique &raquo;
 
 (kWh cumac) |
 
 VOLUME CEE
 
-précarité énergétique
+&laquo; précarité
+
+énergétique &raquo;
 
 (kWh cumac) |
 
@@ -126,9 +122,9 @@ RAISON sociale
 
 du sous-traitant |
 
-NATURE
+NATURE du rôle actif
 
-du rôle actif et incitatif |
+et incitatif |
 
 |
 
@@ -146,9 +142,7 @@ SIREN de l'organisme
 
 de contrôle |
 
-RAISON sociale
-
-de l'organisme de contrôle |
+RAISON sociale de l'organisme de contrôle |
 
 SIRET de l'entreprise
 
@@ -174,9 +168,21 @@ du bénéficiaire |
 
 Suite et fin du tableau
 
-Montant du rôle actif et incitatif (€) |
+Montant du rôle actif
+
+et incitatif (€) |
 
 Commentaires |
+
+Raison sociale du mandataire assurant le rôle actif et incitatif |
+
+Numéro SIREN du mandataire assurant
+
+le rôle actif et incitatif |
+
+|
+
+|
 
 |
 
@@ -184,4 +190,4 @@ Commentaires |
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 28 septembre 2021, ces dispositions s'appliquent aux opérations engagées à compter du 1er avril 2022.
+Conformément à l'article 4 de l'arrêté du 7 avril 2025 (NOR : ECOR2506217A), les dispositions de l'article 1er de l'arrêté précité s'appliquent aux opérations engagées à compter du 1er juillet 2025.

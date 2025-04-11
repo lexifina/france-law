@@ -26,7 +26,9 @@ de l'opération |
 
 NOM
 
-du site bénéficiaire de l'opération |
+du site bénéficiaire
+
+de l'opération |
 
 ADRESSE
 
@@ -60,11 +62,17 @@ RAISON
 
 sociale
 
-du bénéficiaire de l'opération |
+du bénéficiaire
+
+de l'opération |
 
 SIREN |
 
-ADRESSE du siège social du bénéficiaire de l'opération |
+ADRESSE du siège social
+
+du bénéficiaire
+
+de l'opération |
 
 CODE
 
@@ -74,13 +82,17 @@ VILLE |
 
 VOLUME CEE
 
-hors précarité énergétique
+&laquo; hors précarité
+
+énergétique &raquo;
 
 (kWh cumac) |
 
 VOLUME CEE
 
-précarité énergétique
+&laquo; précarité
+
+énergétique &raquo;
 
 (kWh cumac) |
 
@@ -116,15 +128,21 @@ DATE
 
 d'achèvement
 
-de l'opération |
+de
+
+l'opération |
 
 NATURE
 
-de la bonification |
+de la
+
+bonification |
 
 SIREN
 
-du professionnel |
+du
+
+professionnel |
 
 RAISON sociale
 
@@ -134,7 +152,9 @@ SIREN
 
 du sous-traitant |
 
-RAISON sociale du sous-traitant |
+RAISON sociale
+
+du sous-traitant |
 
 |
 
@@ -158,17 +178,27 @@ NATURE du rôle actif
 
 et incitatif |
 
-SIREN de l'organisme de contrôle |
+SIREN de l'organisme
 
-RAISON sociale de l'organisme de contrôle |
+de contrôle |
+
+RAISON sociale
+
+de l'organisme
+
+de contrôle |
 
 SIRET de l'entreprise ayant réalisé l'opération |
 
-Numéro de téléphone
+Numéro
+
+de téléphone
 
 du bénéficiaire |
 
-Adresse de courriel du bénéficiaire |
+Adresse de courriel
+
+du bénéficiaire |
 
 |
 
@@ -184,9 +214,35 @@ Adresse de courriel du bénéficiaire |
 
 Suite et fin du tableau
 
-Montant du rôle actif et incitatif (€) |
+Montant du rôle actif
+
+et incitatif (€) |
 
 Commentaires |
+
+Le cas échéant, numéro d'immatriculation
+
+du syndicat de copropriétaires bénéficiaire
+
+de l'opération |
+
+Raison sociale du mandataire
+
+assurant le rôle actif
+
+et incitatif |
+
+Numéro SIREN du mandataire
+
+assurant le rôle actif
+
+et incitatif |
+
+|
+
+|
+
+|
 
 |
 
@@ -194,4 +250,4 @@ Commentaires |
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 28 septembre 2021, ces dispositions s'appliquent aux opérations engagées à compter du 1er avril 2022.
+Conformément à l'article 4 de l'arrêté du 7 avril 2025 (NOR : ECOR2506217A), les dispositions de l'article 1er de l'arrêté précité s'appliquent aux opérations engagées à compter du 1er juillet 2025.

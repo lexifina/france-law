@@ -236,7 +236,7 @@ L'engagement écrit du partenaire, la justification de la date de cet engagement
 
 Sauf dispositions particulières prévues par la fiche d'opération standardisée :
 
-– la date d'engagement de l'opération est la date d'acceptation du contrat de réalisation de l'opération par le bénéficiaire (par exemple : date d'acceptation du devis ou du bon de commande), matérialisée par la date de signature de ce contrat. Elle est justifiée par l'archivage par le demandeur du contrat de réalisation de l'opération accepté par le bénéficiaire, et attestée par le bénéficiaire et le professionnel sur l'attestation sur l'honneur définie à l'annexe 7 ;
+– la date d'engagement de l'opération est la date d'acceptation du contrat de réalisation de l'opération par le bénéficiaire (par exemple : date d'acceptation du devis ou du bon de commande), matérialisée par la date de signature de ce contrat apposée, par le bénéficiaire, de manière manuscrite ou au moyen d'une signature électronique horodatée. Elle est justifiée par l'archivage par le demandeur du contrat de réalisation de l'opération accepté par le bénéficiaire, et attestée par le bénéficiaire et le professionnel sur l'attestation sur l'honneur définie à l'annexe 7 ;
 
 – la date d'achèvement de l'opération est la date d'émission de la facture de l'opération par le professionnel ayant mis en œuvre l'opération. La date d'achèvement de l'opération est justifiée par l'archivage par le demandeur de la facture de l'opération.
 
@@ -467,3 +467,7 @@ f) La durée de la garantie ;
 g) Les pénalités en cas de non-atteinte de la performance garantie par le contrat.
 
 2° La liste des opérations standardisées ou spécifiques réalisées dans le cadre du CPE. Les opérations d'économies d'énergie pouvant être bonifiée dans le cadre du CPE sont engagées au plus tôt à la date de signature de ce contrat. Les travaux concernés sont achevés de manière à ce qu'ils produisent les économies d'énergie attendues a minima sur toute la période de garantie de la performance du contrat.
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 7 avril 2025 (NOR : ECOR2506217A), les dispositions de l'article 1er de l'arrêté précité s'appliquent aux opérations engagées à compter du 1er juillet 2025.

@@ -26,7 +26,7 @@ Les tableaux récapitulatifs sont complétés en respectant les règles suivante
 
 - pour le numéro SIREN : le numéro figurant dans les tableaux est l'identifiant à neuf chiffres attribué par l'INSEE à la personne morale concernée. Les personnes morales qui ne disposeraient pas de numéro SIREN sont identifiées dans le tableau par neuf étoiles successives (* ** ** ** **) ;
 
-- pour le cas des copropriétés : le nom de la copropriété est mentionné en lieu et place du nom du site de l'opération et le bénéficiaire identifié dans le tableau est le syndic représentant la copropriété lors de la réalisation de l'opération :
+- pour le cas des copropriétés : le nom de la copropriété est mentionné en lieu et place du nom du site de l'opération, le numéro d'immatriculation du syndicat de copropriétaires prévu par l'article R. 711-12 du code de la construction et de l'habitation est indiqué dans le champ correspondant et le bénéficiaire identifié dans le tableau est le syndic représentant la copropriété lors de la réalisation de l'opération :
 
 - soit en tant que personne morale : le numéro SIREN du bénéficiaire est alors celui du syndic ;
 
@@ -92,6 +92,8 @@ Lorsque plusieurs sigles concernent une même opération, ils sont concaténés 
 
 - pour le montant du rôle actif et incitatif : le montant, exprimé en euros, selon les cas, de la contribution financière, du bon d'achat, de la bonification du prêt, de l'audit, du conseil personnalisé ou du produit ou service offert, s'agissant des opérations engagées à compter du 1er avril 2022 ; il n'est rien indiqué si l'opération est réalisée sur patrimoine propre. Dans le cas des opérations relevant des fiches d'opérations standardisées BAR-TH-174 et BAR-TH-175 valorisées par l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation, le montant à renseigner correspond au montant de la prime MaPrimeRénov' ;
 
+- pour le mandataire assurant le rôle actif et incitatif : dans le cas où le demandeur de certificats d'économies d'énergie a confié à un mandataire le soin d'assurer le rôle actif et incitatif prévu à l'article R. 221-22 du code de l'énergie auprès du bénéficiaire de l'opération, sont indiqués la raison sociale et le numéro SIREN de ce mandataire ;
+
 - pour les commentaires : toute information nécessaire à la compréhension du dossier de demande par le Pôle national des certificats d'économies d'énergie (PNCEE), notamment concernant le respect des dispositions du troisième alinéa de l'article R. 221-15 du code de l'énergie. Dans le cas des opérations relevant des fiches d'opérations standardisées BAR-TH-174, BAR-TH-175 et BAR-TH-177 il s'agit d'indiquer la liste des références des fiches d'opérations standardisées correspondant aux différents postes de travaux. Dans le cas des opérations relevant de la fiche d'opération standardisée BAR-TH-164, il convient d'indiquer le numéro de la ligne correspondante du “ Tableau de recensement des engagements BAR-TH-164 ” selon les cas de l'onglet “ Personnes physiques ” ou de l'onglet “ Personnes morales ”. Dans le cas des opérations relevant de la fiche d'opération standardisée BAR-TH-145, il convient d'indiquer le numéro de l'opération correspondante du “ Tableau de recensement des engagements BAR-TH-145 ” ou du “ Tableau de recensement des engagements BAR-TH-145 Dérogations ” selon les cas de l'onglet “ Personnes physiques ” ou de l'onglet “ Personnes morales ”.
 
 Pour le cas d'un regroupement :
@@ -102,4 +104,4 @@ Pour le cas d'un regroupement :
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 28 septembre 2021, ces dispositions s'appliquent aux opérations engagées à compter du 1er avril 2022.
+Conformément à l'article 4 de l'arrêté du 7 avril 2025 (NOR : ECOR2506217A), les dispositions de l'article 1er de l'arrêté précité s'appliquent aux opérations engagées à compter du 1er juillet 2025.
