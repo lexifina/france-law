@@ -278,123 +278,127 @@ Elle précise qu'il est chargé de la succession ou qu'il est le notaire de la p
 
 |
 
-Dispositif législatif ad hoc ou article 40-III de la loi n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises ou article L. 518-24-1 du code monétaire et financier et leurs décrets d'application. |
+|
 
-1.2.1.5.1. Pièces générales |
+1.2.1.5.1. Paiement de la rémunération du mandataire |
+
+- Convention de mandat ;
+
+- Décompte.
+
+|
+
+Tous dispositifs |
+
+1.2.1.5.2. Financement des opérations |
+
+|
+
+Article 40-III de la loi n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises et son décret d'application ou dispositif législatif ad hoc |
+
+1.2.1.5.2.1. Financement des opérations effectuées par un mandataire non doté d'un comptable public |
 
 |
 
 |
 
-1.2.1.5.1.1. Paiement de la rémunération du mandataire |
-
--Convention de mandat ;
-
--Décompte.
-
-|
-
-|
-
-1.2.1.5.1.2. Financement des opérations effectuées par un mandataire non doté d'un comptable public |
-
-|
-
-|
-
-1.2.1.5.1.2.1. En cas de versement d'avances au mandataire |
+1.2.1.5.2.1.1. En cas de versement d'avances au mandataire |
 
 Premier paiement :
 
--Convention de mandat et, le cas échéant, avenant.
+- Convention de mandat et, le cas échéant, avenant.
 
 Autres paiements :
 
--Décompte des opérations et de leur montant justifiant l'utilisation de la précédente avance ;
+- Décompte des opérations et de leur montant justifiant l'utilisation de la précédente avance ;
 
--Pièces justificatives correspondantes prévues par la présente nomenclature selon la nature des dépenses afférentes à ces opérations.
-
-|
+- Pièces justificatives correspondantes prévues par la présente nomenclature selon la nature des dépenses afférentes à ces opérations.
 
 |
 
-1.2.1.5.1.2.2. En cas de remboursement des dépenses payées par le mandataire |
+|
+
+1.2.1.5.2.1.2. En cas de remboursement des dépenses payées par le mandataire |
 
 Premier paiement :
 
--Convention de mandat et, le cas échéant, avenant ;
+- Convention de mandat et, le cas échéant, avenant ;
 
--Décompte des opérations effectuées ;
+- Décompte des opérations effectuées ;
 
--Pièces justificatives correspondantes prévues par la présente nomenclature selon la nature des dépenses afférentes à ces opérations.
+- Pièces justificatives correspondantes prévues par la présente nomenclature selon la nature des dépenses afférentes à ces opérations.
 
 Autres paiements :
 
--Décompte des opérations effectuées ;
+- Décompte des opérations effectuées ;
 
--Pièces justificatives correspondantes prévues par la présente nomenclature selon la nature des dépenses afférentes à ces opérations.
-
-|
-
-|
-
-1.2.1.5.1.3. Financement des opérations effectuées par un mandataire doté d'un comptable public |
+- Pièces justificatives correspondantes prévues par la présente nomenclature selon la nature des dépenses afférentes à ces opérations.
 
 |
 
 |
 
-1.2.1.5.1.3.1. En cas de versement d'avances au mandataire |
+1.2.1.5.2.2. Financement des opérations effectuées par un mandataire doté d'un comptable public
+
+|
+
+|
+
+|
+
+1.2.1.5.2.2.1. En cas de versement d'avances au mandataire |
 
 Premier paiement :
 
--Convention de mandat et, le cas échéant, avenant.
+- Convention de mandat et, le cas échéant, avenant.
 
 Autres paiements :
 
--Décompte des opérations et de leur montant justifiant l'utilisation de la précédente avance ;
+- Décompte des opérations et de leur montant justifiant l'utilisation de la précédente avance ;
 
 et
 
--Attestation du comptable du mandataire certifiant que les paiements effectués par lui sont appuyés des pièces justificatives correspondantes prévues par la présente nomenclature, qu'il est en possession de toutes les pièces afférentes à ces opérations et qu'il a opéré ses contrôles conformément aux articles 19,20 et 42 du décret GBCP.
+- Attestation du comptable du mandataire certifiant que les paiements effectués par lui sont appuyés des pièces justificatives correspondantes prévues par la présente nomenclature, qu'il est en possession de toutes les pièces afférentes à ces opérations et qu'il a opéré ses contrôles conformément aux articles 19,20 et 42 du décret GBCP.
 
 |
 
 |
 
-1.2.1.5.1.3.2. En cas de remboursement des dépenses payées par le mandataire |
+1.2.1.5.2.2.2. En cas de remboursement des dépenses payées par le mandataire |
 
 Premier paiement :
 
--Convention de mandat et, le cas échéant, avenant ;
+- Convention de mandat et, le cas échéant, avenant ;
 
--Décompte des opérations et de leur montant ;
+- Décompte des opérations et de leur montant ;
 
--Attestation du comptable du mandataire certifiant que les paiements effectués par lui sont appuyés des pièces justificatives correspondantes prévues par la présente nomenclature, qu'il est en possession de toutes les pièces afférentes à ces opérations et qu'il a opéré ses contrôles conformément aux articles 19,20 et 42 du décret GBCP.
+- Attestation du comptable du mandataire certifiant que les paiements effectués par lui sont appuyés des pièces justificatives correspondantes prévues par la présente nomenclature, qu'il est en possession de toutes les pièces afférentes à ces opérations et qu'il a opéré ses contrôles conformément aux articles 19, 20 et 42 du décret GBCP.
 
 Autres paiements :
 
--Décompte des opérations et de leur montant ;
+- Décompte des opérations et de leur montant ;
 
 et
 
--Attestation du comptable du mandataire certifiant que les paiements effectués par lui sont appuyés des pièces justificatives correspondantes prévues par la présente nomenclature, qu'il est en possession de toutes les pièces afférentes à ces opérations et qu'il a opéré ses contrôles conformément aux articles 19,20 et 42 du décret GBCP.
+- Attestation du comptable du mandataire certifiant que les paiements effectués par lui sont appuyés des pièces justificatives correspondantes prévues par la présente nomenclature, qu'il est en possession de toutes les pièces afférentes à ces opérations et qu'il a opéré ses contrôles conformément aux articles 19, 20 et 42 du décret GBCP.
 
 |
 
 |
 
-1.2.1.5.2. Conventions de mandat conclues avec Bpifrance Financement SA pour la gestion de certains dispositifs de soutien à l'économie |
+1.2.1.5.3. Conventions de mandat conclues avec Bpifrance Financement SA pour la gestion de certains
+
+dispositifs de soutien à l'économie |
 
 |
 
 |
 
-1.2.1.5.2.1. Prêts participatifs FDES |
+1.2.1.5.3.1. Prêts participatifs FDES |
 
--Pièces énumérées aux points 1.2.1.5.1.3.1. ou 1.2.1.5.1.3.2. à l'exception de l'attestation du comptable du mandataire ;
+- Pièces énumérées aux points 1.2.1.5.2.2.1. ou 1.2.1.5.2.2.2. à l'exception de l'attestation du comptable du mandataire ;
 
--Attestation du mandataire certifiant que les paiements effectués par lui sont appuyés des pièces justificatives prévues par la convention et qu'il est en possession de toutes les pièces qui pourront être produites à la demande de l'administration.
+- Attestation du mandataire certifiant que les paiements effectués par lui sont appuyés des pièces justificatives prévues par la convention et qu'il est en possession de toutes les pièces qui pourront être produites à la demande de l'administration.
 
 |
 
@@ -406,11 +410,11 @@ Elle est transmise au comptable public à l'appui des états mensuels pour imput
 
 |
 
-1.2.1.5.2.2. Appels en garantie de prêts garantis par l'Etat |
+1.2.1.5.3.2. Appels en garantie de prêts garantis par l'Etat |
 
--Pièces énumérées aux points 1.2.1.5.1.3.1. ou 1.2.1.5.1.3.2. à l'exception de l'attestation du comptable du mandataire ;
+- Pièces énumérées aux points 1.2.1.5.2.2.1. ou 1.2.1.5.2.2.2. à l'exception de l'attestation du comptable du mandataire ;
 
--Attestation du mandataire certifiant que les demandes d'appels en garantie reçues sont appuyées des pièces justificatives prévues par la convention et qu'il est en possession de toutes les pièces qui pourront être produites à la demande de l'administration.
+- Attestation du mandataire certifiant que les demandes d'appels en garantie reçues sont appuyées des pièces justificatives prévues par la convention et qu'il est en possession de toutes les pièces qui pourront être produites à la demande de l'administration.
 
 |
 
@@ -419,6 +423,16 @@ Dispositif prévu par l'article 6 de la loi n° 2020-289 du 23 mars 2020 de fina
 Elle est transmise au comptable public à l'appui de chaque demande de paiement payée au mandataire, afin de lui permettre de décaisser les garanties au profit des banques.
 
 |
+
+1.2.1.5.4. Conventions de mandat conclues avec la Caisse des dépôts et consignations |
+
+- Pièces énumérées aux points 1.2.1.5.2.2.1. ou 1.2.1.5.2.2.2. à l'exception de l'attestation du comptable du mandataire ;
+
+- Attestation du mandataire certifiant que les paiements effectués par lui sont appuyés des pièces justificatives prévues par la convention et qu'il est en possession de toutes les pièces qui pourront être produites à la demande de l'administration.
+
+|
+
+Articles L. 518-24-1 et D. 518-43 à D. 518-50 du code monétaire et financier ou dispositif législatif ad hoc |
 
 1.2.2. Paiement de sommes dépendant de successions |
 
@@ -1754,135 +1768,109 @@ L'ordonnateur peut apporter au comptable, par certificat administratif, des pré
 
 3.1.1. Prise en charge du dossier |
 
-1) En cas de réorganisation administrative entraînant un changement de comptable assignataire et/ ou d'ordonnateur, sans mobilité de l'agent, et en l'absence de changement dans la situation de l'agent, aucune pièce justificative n'est à produire en cas de transmission automatique des données du dossier comptable par le précédent comptable. Les exceptions à ce dispositif sont signalées par le comptable.
+1) En vue de la prise en charge d'un agent auparavant rémunéré par un comptable de la DGFiP dans le cadre de la PSOP, l'ordonnateur employeur d'origine demande l'émission d'un certificat de cessation de paiement (CCP) au comptable qui assurait la paye.
 
-2) Les administrations autorisées à mettre en œuvre la dématérialisation des pièces justificatives en PSOP dans les conditions prévues par l'arrêté du 2 avril 2019 précité peuvent déposer sur le portail la fiche interministérielle de situation individuelle-volet comptable (FISI-volet comptable) se substituant à certaines pièces justificatives, dans le périmètre d'intervention défini ci-après :
+Lorsqu'il y a changement de ministère mais absence de changement de comptable assignataire, la dernière fiche de liaison est à produire.
 
--mutation/ affectation entraînant un changement de comptable/ SLR assignataire PAY/ PAYSAGE (ne concerne donc pas les échanges avec la FPH, FPT, les militaires et autres personnels non payés en PSOP) ;
+Ces documents permettent au comptable de s'assurer de la cohérence des informations figurant dans les dossiers de paye successifs de l'agent.
 
--ordonnateurs (de départ et d'arrivée) mettant en œuvre la dématérialisation portée par l'arrêté du 2 avril 2019 précité ;
+Pour les agents titulaires précédemment rémunérés par un comptable de la DGFiP dans le cadre de la PSOP et sous réserve d'absence de modification de la situation individuelle de l'agent, le CCP (ou la dernière fiche de liaison dans la situation évoquée ci-dessus) vaut pièce justificative pour justifier les coordonnées bancaires, le numéro d'immatriculation INSEE et le supplément familial de traitement.
 
-La FISI-volet comptable ne concerne pas les primo arrivants ou les agents pris en charge après une cessation de fonction ayant entraîné une interruption de la paye (congé parental, disponibilité …). Elle est conditionnée par le paiement en PSOP de l'agent le mois précédent celui du nouveau paiement en PSOP.
-
-La FISI-volet comptable ne concerne que les agents dont le numéro INSEE est définitif et sans changement en cours.
-
-Dans ces conditions, les informations relatives aux coordonnées bancaires et au supplément familial de traitement ne nécessiteront pas de justifications complémentaires, dès lors que l'agent n'a pas demandé une nouvelle domiciliation bancaire pour le mois de la nouvelle prise en charge (à charge pour l'ordonnateur de l'indiquer au comptable et de lui adresser le nouveau relevé de domiciliation bancaire) et que de nouveaux éléments ne s'appliquent pas pour le mois de la prise en charge : naissance, décès, arrivée à l'âge de 16 ans, rémunération d'un enfant et niveau par rapport au SMIC …).
-
-De même, la carte Vitale n'est pas à produire.
-
-Le cas des enfants ayant atteint 16 ans et dont le code enfant a été généré automatiquement par PAY/ PAYSAGE, et n'a pas été mis à jour par l'ordonnateur n'est pas couvert par la FISI-volet comptable et est subordonné à la production d'une justification auprès du nouveau comptable.
-
-De même, la FISI-volet comptable ne couvre pas les cas de cession de SFT en cours.
-
-La mention du montant de l'indemnité compensatrice de la CSG (2206-2209) est portée sur la FISI-volet comptable et l'ordonnateur doit préciser la quotité de rémunération correspondant à ce montant (celui-ci étant impacté par les congés maladie et les changements de quotité de temps de travail). En l'absence de la mention sur la FISI, le dernier bulletin de paye la mentionnant doit être produit.
+2) En cas de réorganisation administrative entraînant un changement de comptable assignataire et/ou d'ordonnateur, sans mobilité de l'agent, et en l'absence de changement dans la situation de l'agent, aucune pièce justificative n'est à produire en cas de transmission automatique des données du dossier comptable par le précédent comptable. Les exceptions à ce dispositif sont signalées par le comptable.
 
 3) Pour les prises en charge sans changement de comptable assignataire ni de ministère, liées à des contraintes techniques ou réglementaires, ne seront produites que les pièces justificatives afférentes aux changements impactant la situation de l'agent.
-
-4) Pour les agents titulaires précédemment rémunérés par un comptable de la DGFiP dans le cadre de la PSOP et sous réserve d'absence de modification de la situation individuelle de l'agent, le certificat de cessation de paiement vaut pièce justificative pour justifier les coordonnées bancaires, le numéro d'immatriculation INSEE et le supplément familial de traitement,
 
 |
 
 3.1.1.1. Prise en charge du dossier des titulaires et des non titulaires |
 
--Arrêté de nomination, de mise à disposition ou de mutation pour les fonctionnaires titulaires ou stagiaires ;
+- Arrêté de nomination, de mise à disposition ou de mutation pour les fonctionnaires titulaires ou stagiaires ;
 
 ou
 
-|
-
-Détachement : prise en charge au vu de l'arrêté de nomination ou du contrat de détachement précisant le régime de cotisation de l'agent à la pension civile et à la sécurité sociale. |
-
--Arrêté de nomination ou contrat pour les non-titulaires ; |
-
-Sauf intervenants extérieurs assurant un service ponctuel (3.1.1.2).
-
-L'arrêté de nomination contient tous les éléments utiles à la détermination de la liquidation
-
-Le contrat donne toutes les précisions sur les conditions de recrutement et de paiement.
-
-|
+- Arrêté de nomination ou contrat pour les non-titulaires ;
 
 et
 
--Certification de l'installation par l'ordonnateur ou, le cas échéant, via le listage des entrées mensuelles de la paye ;
-
-|
-
-Ressortissants étrangers : sur la décision de recrutement apparaît la mention de la vérification par le gestionnaire, soit du titre de séjour, soit de l'autorisation provisoire de travailler, soit du protocole d'accueil. |
+- Certification de l'installation par l'ordonnateur ou, le cas échéant, via le listage des entrées mensuelles de la paye ;
 
 et
 
--Certificat de cessation de paiement délivré par le comptable public assignataire de la rémunération publique antérieure ou par le précédent ordonnateur si la rémunération publique antérieure était payée après ordonnancement ;
+- Certificat de cessation de paiement délivré par le comptable public assignataire de la rémunération publique antérieure lorsque celle-ci était servie dans le cadre de la PSOP ;
+
+ou
+
+- Déclaration sur l'honneur de l'agent indiquant qu'il n'a jamais perçu de rémunération publique ;
+
+ou
+
+- Déclaration sur l'honneur de l'agent indiquant la date de cessation du versement de la rémunération publique antérieurement servie dans le cadre de la PSOP, lorsqu'il s'agissait d'un contrat conclu pour faire face à un accroissement temporaire ou saisonnier d'activité au sens de l'article 7 du décret n° 86-83 du 17 janvier 1986 ;
+
+ou
+
+- Déclaration sur l'honneur de l'agent indiquant la date de cessation du versement de la rémunération publique antérieurement servie dans le cadre de la PSOP, lorsque cette date est antérieure au 01/01/N-2 ;
+
+ou
+
+- Déclaration sur l'honneur de l'agent indiquant la date de cessation du versement de la précédente rémunération publique payée après ordonnancement ;
 
 et
 
--Décision d'attribution d'un indice spécial de pension civile faisant référence au texte applicable lorsque l'indice spécial ne figure pas dans l'arrêté de nomination ;
-
-|
-
-Rémunération servie par l'Etat ou une collectivité territoriale, ou par un établissement public de l'Etat ou un établissement public local (les organismes internationaux ne sont pas concernés).
-
-Le certificat de cessation n'est pas demandé si la dernière activité remplie avant l'entrée dans la fonction publique de l'Etat était un emploi public saisonnier.
-
-Le certificat de cessation de paiement issu de la PSOP est établi à partir de :
-
--la fiche de situation actuelle de l'agent (fiche SITAC) ;
-
--ou la dernière fiche de liaison afférente à la situation de l'agent (signée par le précédent comptable).
-
-|
+- Décision d'attribution d'un indice spécial de pension civile faisant référence au texte applicable lorsque l'indice spécial ne figure pas dans l'arrêté de nomination ;
 
 et
 
--Carte vitale ou autre document de la caisse d'assurance maladie ou de l'INSEE comportant le NIR de l'agent (sauf pour les ressortissants étrangers) ;
-
-|
-
-En cas de copie illisible de la carte vitale, l'attestation de droits de Sécurité sociale devra être produite.
-
-La FISI-comptable se substitue à la carte vitale si les conditions posées à la rubrique 3.1.1. sont remplies.
-
-Ressortissants étrangers : documents permettant de définir un numéro d'identification provisoire.
-
-|
+- Carte vitale ou autre document de la caisse d'assurance maladie ou de l'INSEE comportant le NIR de l'agent (sauf pour les ressortissants étrangers) ;
 
 et
 
--Relevé de domiciliation bancaire établi au nom de l'agent ;
-
-|
-
-La FISI-comptable se substitue au relevé de domiciliation bancaire si les conditions posées à la rubrique 3.1.1. sont remplies.
-
-Compte joint : le nom de l'agent doit figurer sur le relevé
-
-|
+- Relevé de domiciliation bancaire établi au nom de l'agent ;
 
 et
 
--Formulaire d'adhésion à une mutuelle de la Fonction publique ;
-
-|
-
-Ou listings transmis par les services de mutuelles. |
+- Formulaire d'adhésion à une mutuelle de la Fonction publique ;
 
 le cas échéant,
 
--Fiche de renseignements de l'ordonnateur en cas de cumul d'activités publiques ;
+- Fiche de renseignements de l'ordonnateur en cas de cumul d'activités publiques ;
+
+le cas échéant,
+
+- Tout document indiquant que l'agent est non-résident fiscal français.
 
 |
+
+Détachement : prise en charge au vu de l'arrêté de nomination ou du contrat de détachement précisant le régime de cotisation de l'agent à la pension civile et à la sécurité sociale.
+
+Sauf intervenants extérieurs assurant un service ponctuel (3.1.1.2).
+
+L'arrêté de nomination contient tous les éléments utiles à la détermination de la liquidation.
+
+Le contrat donne toutes les précisions sur les conditions de recrutement et de paiement.
+
+Ressortissants étrangers : sur la décision de recrutement apparaît la mention de la vérification par le gestionnaire, soit du titre de séjour, soit de l'autorisation provisoire de travailler, soit du protocole d'accueil.
+
+Le certificat de cessation de paiement issu de la PSOP est établi à partir de :
+
+- la fiche de situation actuelle de l'agent (fiche SITAC) ;
+
+- ou la dernière fiche de liaison afférente à la situation de l'agent (signée par le précédent comptable).
+
+La déclaration sur l'honneur de l'agent indique les nom et coordonnées du dernier employeur public, les dates de début et de fin du dernier emploi public et la date de cessation du versement de la rémunération publique.
+
+Rémunération servie hors PSOP par l'Etat ou une collectivité territoriale, ou par un établissement public de l'Etat ou un établissement public local (les organismes internationaux ne sont pas concernés).
+
+En cas de copie illisible de la carte vitale, l'attestation de droits de Sécurité sociale devra être produite.
+
+Ressortissants étrangers : documents permettant de définir un numéro d'identification provisoire.
+
+Compte joint : le nom de l'agent doit figurer sur le relevé.
+
+Ou listings transmis par les services de mutuelles.
 
 L'ordonnateur fait référence aux dispositions du décret n° 2020-69 du 30 janvier 2020 relatif aux contrôles déontologiques dans la fonction publique et précise le statut de l'agent dans son activité principale-fonctionnaire ou contractuel (définition du régime de cotisations au titre de l'activité secondaire ou complémentaire et respect des plafonds de cotisations).
 
 Si l'agent est par ailleurs contractuel, l'ordonnateur précise la quotité de service dans le ou les contrats et les bases de calcul des cotisations à la retraite du régime général et aux régimes complémentaires de retraite en application de ce ou ces contrats.
-
-|
-
-le cas échéant,
-
--Tout document indiquant que l'agent est non-résident fiscal français.
-
-|
 
 |
 
@@ -2032,33 +2020,71 @@ Le relevé n'est pas produit en cas de correction automatisée de la domiciliati
 
 3.1.2.3. Congés de maladie |
 
--Décision de mise en congé de maladie ordinaire à demi-traitement ou sans traitement ; |
-
-La décision indique les dates de début et de fin de congé. |
-
-le cas échéant,
-
--Décision de mise en congé de longue maladie ou de longue durée (ou de grave maladie) pris après avis du conseil médical ;
-
-le cas échéant,
-
--Décision de renouvellement du congé de longue maladie ou de longue durée (ou de grave maladie) ;
-
-|
-
-La décision indique les dates de début et de fin de congé. En cas de fractionnement, le calendrier détaillé des journées/ demi-journées d'absence est joint. |
+- Listage mensuel des entrées portant le congé de maladie ordinaire ;
 
 ou
 
--Dans l'attente de cette décision, attestation du gestionnaire de personnel par période de trois mois.
+- Certificat administratif attestant du congé de maladie ordinaire bénéficiant à l'agent et précisant le pourcentage de rémunération ;
+
+et
+
+- Etat liquidatif ;
+
+le cas échéant,
+
+- Décision de mise en congé de longue maladie ou de longue durée (ou de grave maladie) pris après avis du conseil médical ;
+
+et
+
+- Etat liquidatif ;
+
+le cas échéant,
+
+- Décision de renouvellement du congé de longue maladie ou de longue durée (ou de grave maladie) ;
+
+et
+
+- Etat liquidatif ;
+
+ou
+
+- Dans l'attente de cette décision, attestation du gestionnaire de personnel par période de trois mois ;
+
+et
+
+- Etat liquidatif ;
+
+ou
+
+- En cas de placement, à titre provisoire, en disponibilité pour raisons de santé, décision de placement ou certificat
+
+administratif attestant de la situation de fait ;
+
+et
+
+- Etat liquidatif.
 
 |
 
-Le comptable poursuit le paiement du traitement au vu de l'attestation du gestionnaire établie par période de trois mois en attendant la décision.
+Lorsque le congé pour maladie (quel qu'il soit) emporte un effet sur le niveau de la rémunération servie.
 
-Dans l'attestation, le gestionnaire précise la période théorique du congé de longue maladie ou de longue durée (ou de grave maladie) et les droits déjà utilisés à ce titre.
+Le certificat administratif, requis en cas d'ordonnancement, indique les dates de début et de fin du congé de maladie ordinaire et précise le pourcentage de rémunération afférent (le cas échéant, pour chaque période en cas d'évolution de pourcentage au cours du congé de maladie ordinaire).
 
-A l'expiration des droits, en cas de maintien du demi-traitement, dans l'attente d'une décision du conseil médical, prévu par l'article 47 du décret n° 86-442 du 14 mars 1986, l'ordonnateur fournit un certificat administratif attestant de la situation de fait justifiant le maintien.
+Lorsque le calcul n'est pas effectué par le calculateur de l'application DGFiP de la PSOP.
+
+La décision indique les dates de début et de fin de congé. En cas de fractionnement, le calendrier détaillé des journées/demi-journées d'absence est joint.
+
+Hors congé de longue durée et lorsque le calcul n'est pas effectué par le calculateur de l'application DGFiP de la PSOP.
+
+Hors congé de longue durée et lorsque le calcul n'est pas effectué par le calculateur de l'application DGFiP de la PSOP.
+
+Le comptable poursuit le paiement de la rémunération au vu de l'attestation du gestionnaire établie par période de trois mois en attendant la décision. Dans l'attestation, le gestionnaire précise la période théorique du congé de longue maladie ou de longue durée (ou de grave maladie) et les droits déjà utilisés à ce titre.
+
+Hors congé de longue durée et lorsque le calcul n'est pas effectué par le calculateur de l'application DGFiP de la PSOP.
+
+A l'expiration des droits, en cas de placement, à titre provisoire, en disponibilité pour raisons de santé, dans l'attente d'une décision du conseil médical, l'ordonnateur fournit la décision de placement ou un certificat administratif attestant de la situation de fait justifiant le versement de l'indemnité prévue par les articles 27 (congé de maladie ordinaire) et 47 (congé de longue maladie) du décret n° 86-442 du 14 mars 1986.
+
+Lorsque le calcul n'est pas effectué par le calculateur de l'application DGFiP de la PSOP.
 
 |
 
@@ -2770,99 +2796,19 @@ Des modèles d'états liquidatifs sont annexés à la circulaire n° B7/09/2184-
 
 3.3.2.5. Indemnité de départ volontaire (IDV) |
 
-Décret n° 2008-368 du 17 avril 2008 modifié en dernier lieu par le décret n° 2019-138 du 26 février 2019 relatif aux dispositifs indemnitaires d'accompagnement des agents dans leurs transitions professionnelles.
+- Décision d'attribution de l'indemnité visant l'article du décret du 17 avril 2008 dont il est fait application ;
+
+et
+
+- Etat liquidatif.
+
+|
+
+Décret n° 2008-368 du 17 avril 2008 modifié en dernier lieu par le décret n° 2019-1596 du 31 décembre 2019 relatif à l'indemnité spécifique de rupture conventionnelle dans la fonction publique et portant diverses dispositions relatives aux dispositifs indemnitaires d'accompagnement des agents dans leurs transitions professionnelles.
 
 Circulaire n° B7-2166-2BPSS-08-1667 du 21 juillet 2008.
 
-IDV pour restructuration (article 1er du décret) : versement de l'indemnité en une fois. Toutefois, le versement peut être effectué en deux fois sur demande de l'intéressé.
-
-IDV pour création d'entreprise (article 3 du décret dans sa rédaction antérieure au 1er janvier 2020) : 2 échéances, la moitié de l'indemnité versée au moment de la démission, le solde à l'issue du premier exercice. Les modalités de calcul du montant de l'indemnité peuvent être modulées à raison de l'ancienneté de l'agent dans l'administration et sont fixées par un arrêté du ministre intéressé.
-
-|
-
-3.3.2.5.1. Indemnité de départ volontaire attribuée suite à restructuration de service |
-
--Décision d'attribution de l'indemnité visant l'article du décret du 17 avril 2008 dont il est fait application ;
-
-et
-
--Etat liquidatif.
-
-|
-
-Article 1er du décret n° 2008-368 : démission suite à la restructuration de service.
-
-S'il s'agit du paiement d'une deuxième fraction, l'état liquidatif devra le mentionner et indiquer la date de paiement de la première fraction.
-
-|
-
-3.3.2.5.2. Indemnité de départ volontaire attribuée pour reprise ou création d'entreprise |
-
--Décision d'attribution de l'indemnité visant l'article du décret du 17 avril 2008 dont il est fait application ;
-
-et
-
--Etat liquidatif ;
-
-et
-
-Paiement de la première fraction :
-
--Extrait de l'état K Bis (personne morale) ;
-
-|
-
-Article 3 du décret n° 2008-368 du 17 avril 2008 : démission pour création ou reprise d'entreprise (cf articles 8 et 9 du décret n° 2019-1596 du 31 décembre 2019).
-
-Le Conseil d'Etat a indiqué que la création ou la reprise doit être postérieure à la demande de l'indemnité de départ volontaire. Par ailleurs, la création ou la reprise doit intervenir au plus tard dans les six mois suivant la démission.
-
-|
-
-|
-
-ou
-
--Extrait de l'état K (personne physique) ;
-
-ou
-
--Déclaration d'activité auprès du centre de formalités des entreprises ;
-
-ou
-
--Imprimé CERFA renseigné ;
-
-ou
-
--Attestation URSSAF (profession libérale).
-
-Paiement de la seconde fraction, à l'issue du premier exercice :
-
-|
-
-Ex. : auto-entrepreneur et autres statuts individuels de professions non salariées (artiste-auteur, agent commercial, etc.). |
-
-|
-
--Déclaration d'activité auprès du CFE en cas d'évolution de la forme de l'entreprise depuis le premier versement ;
-
-ou
-
--Attestation URSSAF de moins de 6 mois indiquant que le compte est toujours actif ;
-
-ou
-
--Bilan comptable du premier exercice.
-
-ou
-
--Attestation d'affiliation à la sécurité sociale des indépendants prouvant que l'entrepreneur est à jour de ses cotisations (charges fiscales et sociales).
-
-|
-
-La preuve de la réalité de l'activité de l'entreprise doit être apportée. Le premier bilan comptable ne porte pas obligatoirement sur une période de 12 mois (cette période peut varier de 6 à 18 mois). La 2e fraction d'IDV peut donc être payée avant que ne s'écoule une année.
-
-Pour les auto-entrepreneurs qui n'ont pas l'obligation de dégager un bilan comptable, un extrait de leur registre dépenses-recettes, daté très récemment, est suffisant.
+IDV pour restructuration (article 1er du décret n° 2008-368) : versement de l'indemnité en une fois. Toutefois, le versement peut être effectué en deux fois sur demande de l'intéressé. En ce cas, l'état liquidatif devra le mentionner et indiquer la date de paiement de la première fraction.
 
 |
 
@@ -3390,9 +3336,7 @@ et-état liquidatif des sommes à mettre en paiement hors rémunération.
 
 |
 
-Articles L. 822-18 et suivants du code général de la fonction publique
-
-Décret n° 86-442 du 14 mars 1986 (articles 47-1 et suivants du titre VI bis). Pour la prise en charge des prestations en nature (remboursement des honoraires médicaux et des frais directement entraînés par la maladie ou l'accident) les justifications doivent être apportées aux services gestionnaires par les intéressés.
+Articles L. 822-18 et suivants du code général de la fonction publique Décret n° 86-442 du 14 mars 1986 (articles 47-1 et suivants du titre VI bis). Pour la prise en charge des prestations en nature (remboursement des honoraires médicaux et des frais directement entraînés par la maladie ou l'accident) les justifications doivent être apportées aux services gestionnaires par les intéressés.
 
 Le certificat de prise en charge des frais médicaux est produit sous la responsabilité de l'ordonnateur. Si l'administration ne constate pas l'imputabilité au service, les sommes indûment payées font l'objet d'un titre de perception. Ce certificat de prise en charge n'engage pas l'administration quant à l'imputabilité de l'accident.
 
@@ -3426,29 +3370,29 @@ La décision précise :
 
 Paiement par ordonnance ou mandat.
 
-Articles D. 712-19 à D. 712-24 du code de la sécurité sociale.
+Articles D. 712-19 à D. 712-24-2 du code de la sécurité sociale. Instruction générale du 01/08/1956 relative au régime de sécurité sociale des fonctionnaires de l'Etat
 
 |
 
 3.4.5.1. Pièces communes à toutes les demandes de capital décès |
 
--Acte de décès du fonctionnaire ;
+- Acte de décès de l'agent public ;
 
 ou
 
--Livret de famille portant mention du décès du fonctionnaire ;
+- Livret de famille portant mention du décès de l'agent public ;
 
 et
 
--Dernier bulletin de salaire du fonctionnaire décédé en cas d'application des articles D. 712-23-1 ou D. 712-24 du code de la sécurité sociale ;
+- Dernier bulletin de salaire de l'agent public décédé en cas d'application des articles D. 712-23-1 ou D. 712-24 du code de la sécurité sociale ;
 
 et
 
--Etat liquidatif ;
+- Etat liquidatif ;
 
 et
 
--Relevé de domiciliation bancaire au nom du ou des créanciers.
+- Relevé de domiciliation bancaire au nom du ou des créancier·s.
 
 |
 
@@ -3462,15 +3406,15 @@ Dans le cas du paiement à un enfant mineur, le relevé est établi, soit au nom
 
 3.4.5.2.1. Capital décès demandé en totalité par le conjoint |
 
--Extraits de l'acte de mariage du fonctionnaire ;
+- Extraits de l'acte de mariage de l'agent public ;
 
 ou
 
--Livret de famille ;
+- Livret de famille ;
 
 et
 
--Déclaration sur l'honneur du conjoint attestant qu'aucune séparation de corps n'a été prononcée judiciairement.
+- Déclaration sur l'honneur du conjoint attestant qu'aucune séparation de corps n'a été prononcée judiciairement.
 
 |
 
@@ -3478,93 +3422,81 @@ et
 
 3.4.5.2.2. Capital décès demandé en totalité par le partenaire survivant d'un PACS |
 
--Avis délivré par le greffier du tribunal judiciaire attestant la dissolution automatique du pacte suite au décès du partenaire fonctionnaire ;
+- Avis délivré par le greffier du tribunal judiciaire attestant la dissolution automatique du pacte suite au décès du partenaire agent public ;
 
 ou
 
--Extrait d'acte de naissance du demandeur comportant la mention marginale de l'existence d'un pacte civil de solidarité au jour du décès du partenaire fonctionnaire ;
+- Extrait d'acte de naissance du demandeur comportant la mention marginale de l'existence d'un pacte civil de solidarité au jour du décès du partenaire agent public ;
 
 ou
 
--Tout autre document de même valeur probatoire ;
+- Tout autre document de même valeur probatoire ;
 
 et
 
--Attestation du gestionnaire indiquant qu'au vu des éléments relatifs à la situation du fonctionnaire décédé, présents dans le dossier de ce dernier, il ne connaît pas d'autre ayant droit au jour de la liquidation du capital.
+- Attestation du gestionnaire indiquant qu'au vu des éléments relatifs à la situation de l'agent public décédé, présents dans le dossier de ce dernier, il ne connaît pas d'autre ayant droit au jour de la liquidation du capital.
 
 |
 
-Document attestant l'existence d'un pacte civil de solidarité au jour du décès du fonctionnaire. |
+Document attestant l'existence d'un pacte civil de solidarité au jour du décès de l'agent public. Dans l'hypothèse d'un droit à capital décès suite au décès du fonctionnaire entre le 1er janvier 2005 et le 21 novembre 2009 : Cf.. lettre DGFIP-CE-2A n° 2010/02/6984 du 17 juin 2010. |
 
 3.4.5.2.3. Capital décès demandé en totalité par les enfants |
 
--Livret de famille établissant la filiation ;
+- Livret de famille établissant la filiation ;
 
 ou
 
--Actes de naissance des enfants ;
+- Actes de naissance des enfants ;
 
 et
 
--Acte de décès du conjoint du fonctionnaire décédé ;
+- Acte de décès du conjoint de l'agent public décédé ;
 
 ou
 
--Acte de mariage portant mention du jugement ou de l'arrêt prononçant le divorce, en cas de divorce du défunt et du conjoint survivant ;
+- Acte de mariage portant mention du jugement ou de l'arrêt prononçant le divorce, en cas de divorce du défunt et du conjoint survivant ;
 
 ou
 
--Livret (s) de famille, avec les mentions relatives au décès et au divorce du (des) parent (s) ;
+- Livret(s) de famille, avec les mentions relatives au décès et au divorce du (des) parent(s) ;
 
 ou
 
--Preuve de la dissolution d'un PACS ;
+- Preuve de la dissolution d'un PACS ;
 
 et, le cas échéant,
 
--Décision judiciaire de séparation de corps du fonctionnaire défunt et du conjoint survivant ;
+- Décision judiciaire de séparation de corps de l'agent public défunt et du conjoint survivant ;
 
 et, selon les cas,
 
-|
-
-|
-
--Avis ou certificat de non-imposition à l'impôt sur le revenu des personnes physiques établi au nom des enfants ;
+- Avis ou certificat de non-imposition à l'impôt sur le revenu des personnes physiques établi au nom des enfants ;
 
 ou
 
--Attestation sur l'honneur des enfants majeurs ou du représentant légal des enfants mineurs ;
+- Attestation sur l'honneur des enfants majeurs ou du représentant légal des enfants mineurs ;
+
+le cas échéant,
+
+- Preuve de la reconnaissance du handicap de l'enfant par une autorité administrative ou autre autorité habilitée.
 
 |
 
-Non-imposition sur patrimoine propre de l'enfant.
+Non-imposition sur patrimoine propre de l'enfant. Dans certains cas, production de la déclaration de revenus (Cf. instruction n° 85-111 B1 du 4 septembre 1985).
 
-Dans certains cas, production de la déclaration de revenus (cf instruction n° 85-111 B1 du 4 septembre 1985).
-
-Si les enfants sont rattachés au foyer fiscal du fonctionnaire décédé, production de l'avis d'imposition du fonctionnaire décédé ou du conjoint (de l'ex-conjoint) de ce dernier faisant apparaître le rattachement des enfants bénéficiaires de cette prestation.
-
-L'attestation sur l'honneur est produite si les enfants ou leur représentant légal n'ont pas fait de déclaration de revenus, ou si le comptable du Trésor compétent n'a pas pu établir le certificat de non-imposition. Elle précise d'une part la situation de l'enfant (par exemple : élève ou étudiant) et, d'autre part, que l'enfant n'est pas imposable du fait de ses revenus salariés ou de ses revenus mobiliers ou immobiliers.
+Si les enfants sont rattachés au foyer fiscal de l'agent public décédé, production de l'avis d'imposition de l'agent public décédé ou du conjoint (de l'ex-conjoint) de ce dernier faisant apparaître le rattachement des enfants bénéficiaires de cette prestation. L'attestation sur l'honneur est produite si les enfants ou leur représentant légal n'ont pas fait de déclaration de revenus, ou si le comptable du Trésor compétent n'a pas pu établir le certificat de non-imposition. Elle précise d'une part la situation de l'enfant (par exemple : élève ou étudiant) et, d'autre part, que l'enfant n'est pas imposable du fait de ses revenus salariés ou de ses revenus mobiliers ou immobiliers.
 
 Enfants âgés de plus de 21 ans.
 
 |
 
-le cas échéant,
-
--Preuve de la reconnaissance du handicap de l'enfant par une autorité administrative ou autre autorité habilitée.
-
-|
-
-|
-
 3.4.5.2.4. Capital-décès demandé par le conjoint, le partenaire survivant et par les enfants |
 
--Pièces identiques à celles prévues en cas de capital décès revendiqué par le seul conjoint, ou le seul partenaire survivant d'un PACS ;
+- Pièces identiques à celles prévues en cas de capital décès revendiqué par le seul conjoint, ou le seul partenaire survivant d'un PACS ;
 
 et
 
--Pièces identiques à celles prévues en cas de capital décès revendiqué par les enfants.
+- Pièces identiques à celles prévues en cas de capital décès revendiqué par les enfants.
 
 |
 
@@ -3578,53 +3510,75 @@ Pour ce qui concerne les enfants.
 
 3.4.5.2.5. Capital-décès demandé par les ascendants du premier degré |
 
--Déclaration sur l'honneur du ou des ascendants ; |
-
-Elle atteste que le défunt n'était pas marié ni partenaire d'un PACS ou qu'il était veuf, divorcé ou séparé de corps judiciairement et qu'il n'a pas laissé de descendant pouvant prétendre au capital décès. |
+- Déclaration sur l'honneur du ou des ascendants ;
 
 et
 
--Extrait de naissance du ou des ascendants ;
+- Extrait de naissance du ou des ascendants ;
 
 ou
 
--Livret de famille régulièrement tenu à jour ;
+- Livret de famille régulièrement tenu à jour ;
 
 et
 
-|
-
-|
-
--Avis ou certificat de non-imposition à l'impôt sur le revenu ; |
-
-Cf. instruction du 4 septembre 1985 précitée. |
+- Avis ou certificat de non-imposition à l'impôt sur le revenu ;
 
 ou
 
--Attestation sur l'honneur si aucune déclaration fiscale n'a été faite par le ou les ascendants à l'administration fiscale.
+- Attestation sur l'honneur si aucune déclaration fiscale n'a été faite par le ou les ascendants à l'administration fiscale.
 
 |
 
-Elle précise que les ascendants ne sont pas imposables du fait de leurs revenus salariés ou de son leurs revenus mobiliers ou immobiliers. |
+Elle atteste que le défunt n'était pas marié ni partenaire d'un PACS ou qu'il était veuf, divorcé ou séparé de corps judiciairement et qu'il n'a pas laissé de descendant pouvant prétendre au capital décès.
+
+Cf. instruction du 4 septembre 1985 précitée.
+
+Elle précise que les ascendants ne sont pas imposables du fait de leurs revenus salariés ou de son leurs revenus mobiliers ou immobiliers.
+
+|
 
 3.4.5.2.6. Capital-décès demandé par les ascendants du second degré |
 
--Production des pièces exigées pour les ascendants du 1er degré ;
+- Production des pièces exigées pour les ascendants du 1er degré ;
 
 et
 
--Extrait des actes de décès des deux ascendants du 1er degré.
+- Extrait des actes de décès des deux ascendants du 1er degré.
 
 |
 
 |
 
-3.4.5.2.7. Capital-décès demandé par les ayants droit d'un fonctionnaire présumé absent |
+3.4.5.2.7. Capital-décès demandé par les ayants droit d'un agent public présumé absent |
 
--Expédition du jugement rendu par le juge des tutelles constatant la présomption d'absence. |
+Expédition du jugement rendu par le juge des tutelles constatant la présomption d'absence. |
 
 Article 112 du code civil. |
+
+3.4.5.3. Pièces complémentaires à produire en fonction du statut de l'agent public décédé
+
+|
+
+|
+
+|
+
+3.4.5.3.1 Pour les agents contractuels
+
+|
+
+Contrat de l'agent public. |
+
+|
+
+3.4.5.3.2 Pour les ouvriers de l'Etat
+
+|
+
+Arrêté ou décision de nomination. |
+
+|
 
 3.5. PRESTATIONS D'ACTION SOCIALE DES ADMINISTRATIONS |
 
@@ -4888,7 +4842,9 @@ ou
 
 |
 
-4.2.2.2.3. Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un nantissement dans le cadre d'une cession de créance prévue aux articles L. 313-23 et suivants du code monétaire et financier |
+4.2.2.2.3. Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un nantissement dans le cadre d'une cession de créance prévue aux articles L. 313-23 et suivants du code monétaire et financier
+
+|
 
 -Notification de la cession (ou du nantissement) par lettre recommandée avec avis de réception, ou par tout autre moyen permettant de donner date certaine ;
 
@@ -5494,9 +5450,7 @@ ou
 
 |
 
-Article R. 221-8 du code de l'expropriation pour cause d'utilité publique
-
-|
+Article R. 221-8 du code de l'expropriation pour cause d'utilité publique |
 
 6.1.2.3.2. Indemnité réglée par décision de justice |
 
