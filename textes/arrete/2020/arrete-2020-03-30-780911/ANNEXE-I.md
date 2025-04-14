@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-POSTES OUVRANT AU DÉTACHEMENT DANS L'EMPLOI D'INGÉNIEUR EN CHEF DES PREMIER ET DEUXIÈME GROUPE EN ADMINISTRATION CENTRALE ET DANS LES SERVICES TECHNIQUES CENTRAUX
+POSTES OUVRANT AU DÉTACHEMENT DANS L'EMPLOI D'INGÉNIEUR EN CHEF DU PREMIER ET DEUXIÈME GROUPE EN ADMINISTRATION CENTRALE ET DANS LES SERVICES TECHNIQUES CENTRAUX
 
 Direction générale |
 
@@ -8,15 +8,15 @@ Direction ou service |
 
 Intitulé du poste |
 
-Nature
+Nature de
 
-de l'emploi |
+l'emploi |
 
 Direction générale de l'aménagement, du logement et de la nature |
 
 Direction de l'habitat, de l'urbanisme et des paysages |
 
-Chargé de mission Outre-Mer |
+Chargé de mission outre-mer |
 
 ICTPE 1 |
 
@@ -38,7 +38,7 @@ ICTPE 1 |
 
 Mission de coordination interministérielle du plan de rénovation énergétique des bâtiments |
 
-Chef de projet &laquo; rénover le parc locatif privé et les copropriétés &raquo; |
+Chef de projet " rénover le parc locatif privé et les copropriétés " |
 
 ICTPE 2 |
 
@@ -50,7 +50,7 @@ ICTPE 2 |
 
 Direction générale de l'aviation civile |
 
-Direction du transport aérien |
+Direction du Transport Aérien |
 
 Chargé de mission pour le renouvellement des concessions aéroportuaires auprès du sous-directeur des aéroports |
 
@@ -102,7 +102,7 @@ Adjoint au chef du département programmation, environnement, aménagement |
 
 ICTPE 2 |
 
-Service technique de l'aviation civile |
+Service Technique de l'Aviation Civile |
 
 Directeur de projet AMO et expertises auprès du chef du département structures et adhérences |
 
@@ -128,13 +128,13 @@ ICTPE 2 |
 
 Direction générale des affaires maritimes, de la pêche et de l'aquaculture |
 
-Sous-direction de la transformation numérique |
+Sous-direction de la Transformation numérique |
 
 Chef de bureau de l'Hébergement des systèmes et de l'assistance Informatique |
 
 ICTPE 2 |
 
-Mission vie des services et ressources humaines |
+Mission Vie des Services et Ressources Humaines |
 
 Adjoint au chef de mission MVSRH et chef de bureau RH et logistique |
 
@@ -256,7 +256,7 @@ ICTPE 2 |
 
 Inspection générale de l'Environnement et du Développement durable |
 
-Secrétariat général |
+Secrétariat Général |
 
 Chef du bureau des systèmes d'information |
 
