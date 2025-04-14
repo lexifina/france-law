@@ -34,7 +34,7 @@ A |
 
 30 |
 
-Responsable de l'unité rénovation qualité urbaine |
+Responsable de l'unité rénovation qualités urbaines |
 
 A |
 
@@ -50,7 +50,15 @@ B |
 
 20 |
 
-Adjoint au responsable de l'unité rénovation qualité urbaine-chargé du suivi opérationnel |
+Chargé d'instruction et de suivi financier |
+
+B |
+
+2 |
+
+20 |
+
+Chargé d'études suivi opérationnel |
 
 B |
 
@@ -58,15 +66,7 @@ B |
 
 20 |
 
-Chargé d'instruction et de suivi financier |
-
-B |
-
-3 |
-
-20 |
-
-Assistant (e) d'études habitat/ RU (Boulonnais) |
+Adjoint au responsable de l'unité rénovation qualité urbaine-chargé du suivi opérationnel |
 
 B |
 
