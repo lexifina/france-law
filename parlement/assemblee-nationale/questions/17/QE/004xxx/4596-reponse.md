@@ -1,0 +1,9 @@
+# Réponse à la question n° 4596
+
+- Question : [4596](4596.md) — Question n° 4596 — Garantie financière des agences de voyage
+
+## Réponse
+
+*JO du 2025-04-15, page 2784*
+
+En France, l'immatriculation des opérateurs de voyages et de séjours prévue à l'article L. 211-18 du code du tourisme, oblige les opérateurs qui souhaitent se lancer sur ce marché à être immatriculé auprès d'Atout France, et ce faisant, de justifier d'une attestation de garantie financière et d'assurance en responsabilité civile professionnelle. Les opérateurs de voyages et de séjours, peuvent, conformément à l'article L. 211-18, être garantis par « un organisme de garantie collective, un établissement de crédit ou une entreprise d'assurance établis sur le territoire d'un État membre de l'Union européenne ou d'un autre État partie à l'accord sur l'espace économique européen ou d'une société de financement ». Chaque garant financier est un acteur assurantiel privé qui applique sa propre politique commerciale concernant les contre-garanties que celui-ci décide d'appliquer ou pas. Certains garants financiers ne demandent aucune contre-garantie aux opérateurs de voyages et de séjours qu'ils garantissent. Comme il s'agit d'acteurs privés, les services de l'État ne peuvent donner aucune instruction à ces garants. À ce jour il existe plus de 30 garants financiers répertoriés au registre des opérateurs de voyages et de séjours et chaque opérateur peut aller démarcher sa banque, sa compagnie d'assurance ou encore un garant financier installé dans un autre pays de l'espace économique européen. L'obligation de garantie financière tourisme, qui garantit les fonds versés par les voyageurs contre l'insolvabilité et couvre les frais pour un rapatriement le cas échéant, résulte de la directive 2015/2302 du Parlement européen et du Conseil du 25 novembre 2015 relative aux voyages à forfait et aux prestations de voyages liées.
