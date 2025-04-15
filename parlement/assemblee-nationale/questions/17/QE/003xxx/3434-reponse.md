@@ -1,0 +1,9 @@
+# Réponse à la question n° 3434
+
+- Question : [3434](3434.md) — Question n° 3434 — Protocole relatif aux conseillers régionaux lors des cérémonies commémoratives
+
+## Réponse
+
+*JO du 2025-04-15, page 2742*
+
+Le décret n° 89-655 du 13 septembre 1989 relatif aux cérémonies publiques, préséances, honneurs civils et militaires détermine l'ordre de préséance dans lequel prennent rang les autorités et les membres des corps lorsqu'ils assistent à une cérémonie publique, qu'elle soit organisée sur ordre du Gouvernement ou à l'initiative d'une autorité publique. Son article 3 prévoit, en ce sens, que les membres du conseil régional occupent le quatorzième rang protocolaire. Aussi, lorsqu'un conseiller régional assiste à une cérémonie publique, ce rang lui revient de droit et ne saurait lui être refusé. L'article 13 du décret n° 89-655 du 13 septembre 1989 précise, toutefois, que "les rangs et préséances ne se délèguent pas. A l'exception des représentants du Président de la République, les représentants des autorités qui assistent à une cérémonie publique occupent, dans l'ordre des préséances, le rang correspondant à leur grade ou à leur fonction et non pas le rang de l'autorité qu'ils représentent. […] ". Le conseiller régional représentant le président du conseil régional occupe ainsi le rang correspondant à sa fonction de conseiller, et non celui lié à la fonction de président du conseil régional. Comme l'a rappelé le ministre de l'intérieur et des outre-mer dans sa réponse à la question écrite n° 10285 du député Julien Rancoule, publiée au Journal officiel de l'Assemblée nationale le 9 avril 2024, il revient à l'autorité organisatrice de fixer le déroulé de la cérémonie, concernant notamment les dépôts de gerbe et les prises de parole, en fonction des usages locaux, et dans le respect des règles précitées.
