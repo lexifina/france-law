@@ -1,0 +1,9 @@
+# Réponse à la question n° 1067
+
+- Question : [1067](1067.md) — Question n° 1067 — Sanctuarisation du dispositif TO-DE
+
+## Réponse
+
+*JO du 2025-04-15, page 2719*
+
+L'exonération de cotisations patronales pour l'emploi de travailleurs occasionnels et demandeurs d'emploi (TO-DE) constitue un élément déterminant de soutien aux entreprises agricoles employeuses de main-d'œuvre saisonnière qui sont particulièrement confrontées à des crises récurrentes, notamment climatiques, et à la concurrence internationale. Prolongé pour trois ans par la loi de financement de la sécurité sociale pour 2023 afin de soutenir les secteurs de la production agricole sévèrement affectés par les crises sanitaires et les épisodes de gels et sécheresses exceptionnels successifs, ce dispositif d'exonération devait prendre fin le 31 décembre 2025. À la suite de la mobilisation des agriculteurs du début de l'année 2024, le précédent Gouvernement s'est engagé à pérenniser le dispositif et à rehausser le plafond de rémunération donnant droit au niveau maximal d'exonération de 1,20 à 1,25 salaire minimum de croissance (SMIC). Dans un souci de soutien rapide aux agriculteurs, le relèvement du seuil d'exonération est effectif depuis le 1er mai 2024. Dans la continuité de cette mesure, le Gouvernement a proposé de pérenniser le dispositif TO-DE à l'article 4 du projet de loi de financement de la sécurité sociale pour 2025. Cette pérennisation favoriserait durablement la compétitivité des filières agricoles fortement utilisatrices de main-d'œuvre saisonnière, laquelle est indispensable à la garantie de la souveraineté agricole et alimentaire. Cet article prévoit également de neutraliser les effets d'une éventuelle réforme des allègements généraux de cotisations patronales sur le dispositif TO-DE. Cette proposition a été adoptée par le Parlement (article 8 de la loi n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025).
