@@ -1,0 +1,9 @@
+# Réponse à la question n° 4335
+
+- Question : [4335](4335.md) — Question n° 4335 — Désenclavement ferroviaire de la Haute-Saône : suite étude DGITM
+
+## Réponse
+
+*JO du 2025-04-15, page 2805*
+
+Conformément au rapport annexé à la loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités, l'État a étudié le développement de nouvelles lignes de trains d'équilibre du territoire (TET) qui sont de sa responsabilité, les trains express régionaux relevant de celle des régions. Cette étude a été transmise au Parlement en mai 2021. Parmi les dessertes envisageables figurait une liaison entre Nancy et Lyon via Neufchâteau et Dijon ; il s'agit de la seule desserte TET potentielle identifiée dans l'est du territoire. Après une période d'échanges avec les différentes collectivités, cette desserte Nancy-Lyon via Dijon a été ouverte en décembre 2024 à raison d'un aller-retour par jour. Un deuxième aller-retour sera mis en place à partir de décembre 2025. Pendant la période transitoire 2025 2028, les collectivités de la région Grand Est cofinancent cette desserte à 50 %, soit un montant total pour elles de 24 M€. Cet engagement des collectivités, le caractère de long parcours de la desserte et le potentiel de trafic ont permis de donner une issue favorable à l'instruction de ce projet. A contrario, la ligne Lure-Épinal ne figurait pas dans cette étude ; le lien entre ces deux villes relève essentiellement, malgré la localisation de ces deux villes dans deux régions distinctes (respectivement la Bourgogne Franche Comté et le Grand Est), des services régionaux. C'est logiquement que cette liaison est aujourd'hui assurée par des trains express régionaux, sous la responsabilité des régions. Quatre allers et retours sont proposés en semaine, pour une durée moyenne d'environ d'1h30 environ, desservant neuf gares dont la gare de Lure.
