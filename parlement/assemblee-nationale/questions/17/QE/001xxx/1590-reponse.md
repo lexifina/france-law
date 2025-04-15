@@ -1,0 +1,9 @@
+# Réponse à la question n° 1590
+
+- Question : [1590](1590.md) — Question n° 1590 — Dégradation des conditions de voyage des abonnés TGV
+
+## Réponse
+
+*JO du 2025-04-15, page 2794*
+
+Le Gouvernement est attentif à l'offre de transport ferroviaire, aux capacités de mobilités pour toutes et tous et à la disponibilité d'un service de qualité pour les usagers. En tant qu'opérateur d'un service librement organisé, SNCF Voyageurs est directement responsable de la définition de son offre et de sa politique commerciale, dans le cadre fixé par la loi et les textes européens, relatifs notamment aux droits des voyageurs. Dans ce cadre, SNCF Voyageurs adapte son offre de transport à grande vitesse en fonction des contraintes techniques et des évolutions économiques de son activité. La SNCF est tenue d'informer l'État et les collectivités territoriales des changements souhaités dans l'offre, y compris s'agissant des abonnements navetteurs, en application des articles L. 2121-2 et L. 2121-12 du code des transports, essentiellement afin de leur permettre de tenir compte, dans le schéma de desserte, de l'avis des régions, autorités organisatrices de transport, capables d'identifier finement les besoins des usagers. En l'espèce, l'évolution introduite par SNCF Voyageurs consiste à limiter l'accès à bord des trains complets à un nombre maximum de voyageurs sans place assise, autour de 10 % de la capacité assise du train, sans revenir sur le service permettant d'effectuer des changements de dernière minute pour se reporter sur les trains précédents ou suivants, même complets, qui est maintenu. Cet ajustement a été introduit afin de préserver des conditions de voyage assurant confort et sécurité pour les usagers : d'après la SNCF, seulement 2 % des TGV atteignent le plafond de + 10 % de la capacité assise. Enfin, la fiabilisation de l'application de réservation et d'échanges des billets est en cours.
