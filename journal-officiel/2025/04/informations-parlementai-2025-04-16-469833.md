@@ -1,0 +1,152 @@
+# Résolutions
+
+- Nature : Informations Parlementaires
+- Publication : 2025-04-16
+- JO n° : 0091
+- NOR : INPS2511802X
+- Origine : JORF n°0091 du 16 avril 2025
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051469833
+
+## Article
+
+Sénat
+
+Session ordinaire 2024-2025
+
+Proposition de Résolution européenne considérée comme adoptée par une Commission au fond
+
+(Application de l'article 73 quinquies, alinéas 2 et 3, du Règlement)
+
+Conformément à l'article 73 quinquies, alinéa 2, du Règlement, le texte de la commission des affaires européennes n° 445 (2024-2025) sur la proposition de résolution européenne n° 351 (2024-2025), présentée par M. Didier MARIE et plusieurs de ses collègues, en application de l'article 73 quinquies du Règlement, visant à l'application stricte du cadre réglementaire numérique de l'Union européenne et appelant au renforcement des conditions d'une réelle souveraineté numérique européenne, a été considéré comme adopté par la commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale le lundi 14 avril 2025.
+
+Cette adoption constitue, conformément à l'article 73 quinquies, alinéa 3, du Règlement, le point de départ du délai de trois jours francs pendant lequel il peut être demandé que cette proposition de résolution européenne soit examinée par le Sénat en séance publique.
+
+Résolution adoptée en application de l'article 88-4 de la Constitution
+
+Est devenue résolution du Sénat le 17 mars 2025, conformément à l'article 73 quinquies, alinéas 2 et 3, du Règlement du Sénat, la proposition de résolution européenne de la commission de l'aménagement du territoire et du développement durable dont la teneur suit :
+
+Résolution européenne sur la proposition de directive du Parlement européen et du Conseil modifiant la directive 96/53/CE du Conseil fixant, pour certains véhicules routiers circulant dans la Communauté, les dimensions maximales autorisées en trafic national et international et les poids maximaux autorisés en trafic international - COM(2023) 445 final
+
+Le Sénat,
+
+Vu l'article 88-4 de la Constitution,
+
+Vu l'article 192 du traité sur le fonctionnement de l'Union européenne,
+
+Vu la communication de la Commission au Parlement européen, au Conseil, au Comité économique et social européen et au Comité des régions du 11 décembre 2019 intitulée « Le pacte vert pour l'Europe », COM(2019) 640 final,
+
+Vu la directive 96/53/CE du Conseil du 25 juillet 1996 fixant, pour certains véhicules routiers circulant dans la Communauté, les dimensions maximales autorisées en trafic national et international et les poids maximaux autorisés en trafic international,
+
+Vu la directive 1999/62/CE du Parlement européen et du Conseil, du 17 juin 1999, relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures,
+
+Vu la communication de la Commission au Parlement européen, au Conseil, au Comité économique et social européen et au Comité des régions du 9 décembre 2020 intitulée « Stratégie de mobilité durable et intelligente - mettre les transports européens sur la voie de l'avenir », COM(2020) 789 final,
+
+Vu le règlement (UE) 2021/1119 du Parlement européen et du Conseil du 30 juin 2021 établissant le cadre requis pour parvenir à la neutralité climatique et modifiant les règlements (CE) n° 401/2009 et (UE) 2018/1999, dit « Loi européenne sur le climat »,
+
+Vu le règlement (UE) 2021/1153 du Parlement européen et du Conseil du 7 juillet 2021 établissant le mécanisme pour l'interconnexion en Europe et abrogeant les règlements (UE) n° 1316/2013 et (UE) n° 283/2014,
+
+Vu la communication de la Commission européenne du 14 juillet 2021 intitulée « Ajustement à l'objectif 55 : atteindre l'objectif climatique de l'UE à l'horizon 2030 sur la voie de la neutralité climatique », COM(2021) 550 final,
+
+Vu le règlement (UE) 2024/1610 du Parlement européen et du Conseil du 14 mai 2024 modifiant le règlement (UE) 2019/1242 en ce qui concerne le renforcement des normes de performance en matière d'émissions de CO2 pour les véhicules utilitaires lourds neufs et intégrant des obligations de déclaration, modifiant le règlement (UE) 2018/858 et abrogeant le règlement (UE) 2018/956,
+
+Vu le règlement (UE) 2024/1679 du Parlement européen et du Conseil du 13 juin 2024 sur les orientations de l'Union pour le développement du réseau transeuropéen de transport, modifiant les règlements (UE) 2021/1153 et (UE) n° 913/2010 et abrogeant le règlement (UE) n° 1315/2013,
+
+Vu la proposition de règlement du Parlement européen et du Conseil du 11 juillet 2023 sur la comptabilisation des émissions de gaz à effet de serre des services de transport, COM(2023) 441 final,
+
+Vu la proposition de règlement du Parlement européen et du Conseil du 11 juillet 2023 sur l'utilisation des capacités de l'infrastructure ferroviaire dans l'espace ferroviaire unique européen, modifiant la directive 2012/34/UE et abrogeant le règlement (UE) n° 913/2010, COM(2023) 443 final,
+
+Vu la proposition de directive du Parlement européen et du Conseil du 11 juillet 2023 modifiant la directive 96/53/CE du Conseil fixant, pour certains véhicules routiers circulant dans la Communauté, les dimensions maximales autorisées en trafic national et international et les poids maximaux autorisés en trafic international, COM(2023) 445 final,
+
+Vu la proposition de directive du Parlement européen et du Conseil du 7 novembre 2023 modifiant la directive 92/106/CEE du Conseil en ce qui concerne un cadre de soutien pour le transport intermodal de marchandises et le règlement (UE) 2020/1056 du Parlement européen et du Conseil en ce qui concerne le calcul des économies de coûts externes et la production de données agrégées, COM(2023) 702 final,
+
+Vu la résolution du Sénat n° 124 (2021-2022) du 5 avril 2022 sur le paquet « Ajustement à l'objectif 55 »,
+
+Vu le rapport du Sénat n° 604 (2020-2021) du 19 mai 2021 de Mme Nicole BONNEFOY et M. Rémy POINTEREAU, fait au nom de la commission de l'aménagement du territoire et du développement durable pour la mission d'information relative au transport de marchandises face aux impératifs environnementaux,
+
+Considérant que le transport routier est un maillon essentiel de la chaîne logistique européenne et que la place qu'il occupe dans le transport de marchandises, notamment à l'international, s'est fortement accrue au cours de ces dernières décennies, en raison de ses atouts en termes de flexibilité, d'adaptabilité et de proximité ;
+
+Considérant que le secteur des transports est le premier émetteur de gaz à effet de serre dans l'Union européenne et que ces émissions n'ont cessé d'augmenter en dépit des efforts réalisés par les différentes filières concernées ;
+
+Considérant que le transport routier de marchandises est responsable d'une part significative des émissions de CO2 en Europe et en France, à laquelle s'ajoutent d'autres externalités négatives ;
+
+Considérant l'ampleur des efforts nécessaires pour respecter les objectifs de décarbonation du secteur des transports fixés par l'UE et pour atteindre la neutralité climatique à l'horizon 2050 ;
+
+Considérant que le fret ferroviaire et fluvial est nettement moins émetteur de gaz à effet de serre et moins consommateur en énergie à la tonne transportée que la route et que ces modes de transport doivent être fortement encouragés ; que le mode combiné constitue un levier essentiel de la décarbonation du transport de marchandises ;
+
+Considérant que l'harmonisation des règles en matière de poids et de dimensions des véhicules utilitaires lourds dans l'Union européenne a pour objectifs la réduction de l'empreinte carbone du transport routier de marchandises et l'amélioration de son efficacité, tout en garantissant la sécurité routière ;
+
+Considérant que la Commission européenne propose principalement de modifier les conditions de circulation des véhicules utilitaires lourds de 44 tonnes et au-delà dans les opérations de transport transfrontières afin d'harmoniser leur application entre États membres ;
+
+Concernant l'objectif global de la proposition de directive :
+
+Renouvelle son soutien aux objectifs de réduction des émissions de gaz à effet de serre du secteur des transports et d'atteinte de la neutralité carbone à l'horizon 2050, ainsi qu'aux objectifs poursuivis par l'écologisation des modes de transport par le recours à des véhicules utilitaires lourds plus propres ;
+
+Estime que la priorité doit être donnée au développement du fret non routier au regard des objectifs de décarbonation du secteur des transports et de report modal, tout en reconnaissant la complémentarité des différents modes de transport de marchandises ; que l'affaiblissement du fret ferroviaire résulte de différents facteurs, liés à la désindustrialisation, à l'état du réseau ferré, à la fermeture de lignes secondaires, à l'absence de mise en œuvre de certaines technologies et aux conflits sociaux ;
+
+Souligne que la proposition ne doit pas compromettre les efforts demandés par l'Union européenne en faveur du report modal vers des modes de transport plus écologiques ;
+
+Note que de nombreux États membres, et en particulier la France, ont exprimé de fortes inquiétudes quant à l'impact des mesures proposées par la Commission européenne sur les infrastructures routières et la sécurité routière ;
+
+Fait valoir que les évolutions législatives proposées par la Commission européenne doivent prendre en compte la préservation de l'ensemble des infrastructures routières afin de prévenir toute dégradation et nécessitent de bien évaluer les enjeux de sécurité routière ;
+
+Émet donc des réserves quant à l'opportunité de la révision de la directive proposée par la Commission européenne ;
+
+Concernant l'autorisation de majoration de poids pour les véhicules à énergies alternatives :
+
+Souligne la nécessité d'encourager une transition vers des véhicules routiers plus écologiques et de promouvoir l'innovation technologique dans le transport routier de marchandises ;
+
+Se félicite des mesures proposées pour favoriser l'utilisation de véhicules routiers à émission nulle ou à carburant de synthèse, par l'octroi d'une masse forfaitaire complémentaire ;
+
+Fait observer que l'impact sur les infrastructures routières résultant du bonus de poids octroyé aux véhicules à émission nulle doit être évalué afin d'assurer la durabilité et l'efficacité des réseaux routiers ;
+
+Demande que les freins d'ordre règlementaire et opérationnel au développement du transport intermodal soient levés ;
+
+Concernant l'autorisation temporaire de majoration du poids maximal à 44 tonnes pour tous les types de véhicules utilitaires lourds, y compris thermiques, en trafic transfrontière exclusivement routier :
+
+Souligne que cette autorisation, même temporaire, apparaît contradictoire avec le bonus de poids octroyé aux véhicules à émission nulle et au transport combiné, compte tenu des objectifs de décarbonation du secteur des transports ;
+
+Estime qu'une telle autorisation pourrait ralentir le verdissement des flottes de poids lourds en réduisant l'attractivité des motorisations alternatives ;
+
+Observe qu'il existe un risque de report modal inversé du fait d'une attractivité et d'une compétitivité accrues du transport routier, résultant d'une réduction de ses coûts ;
+
+Attire l'attention sur le fait que cette mesure pourrait accroître de manière importante le nombre de poids lourds circulant sur le réseau routier national, accentuant ainsi la pression sur les infrastructures routières, en particulier les chaussées, et contribuant à leur dégradation, ainsi qu'à une augmentation des émissions de CO2 ;
+
+Fait valoir que les infrastructures routières nationales ne sont pas nécessairement adaptées à la circulation de véhicules plus lourds et plus nombreux ; que leur entretien et leur dégradation représentent un coût important pour l'État et les collectivités territoriales ;
+
+S'inquiète des investissements et des travaux d'adaptation des infrastructures qui seraient nécessaires pour faire face à une intensification du trafic afin de préserver les infrastructures routières et garantir la sécurité routière ;
+
+Considère que les États membres doivent conserver la totale maîtrise des conditions de circulation des véhicules utilitaires lourds sur leur territoire, que ce soit pour les opérations nationales ou transfrontières ;
+
+S'oppose dès lors à cette mesure et demande que l'autorisation en circulation transfrontière soit envisagée dans le cadre d'une coopération bilatérale entre pays voisins les autorisant sur leur territoire ;
+
+Concernant les conditions de circulation des systèmes modulaires européens pour les opérations transfrontières :
+
+Constate que la Commission européenne prévoit de faciliter la circulation des systèmes modulaires européens pour les opérations de transport transfrontières entre des pays voisins les autorisant sur leur territoire ;
+
+Considère que l'harmonisation des règles relatives aux poids et dimensions des véhicules utilitaires lourds doit permettre de garantir la sécurité routière, de protéger les infrastructures routières nationales et de favoriser une concurrence loyale entre les transporteurs routiers ;
+
+Estime que la protection des infrastructures routières et la sécurité de l'ensemble des usagers de la route doivent demeurer des priorités pour l'Union européenne et ses États membres ;
+
+Se félicite que la révision de la directive ne modifie pas le droit des États membres de conserver le pouvoir de décision d'autorisation de circulation des systèmes modulaires européens sur leur territoire ; demande que cette disposition ne soit pas assouplie lors des négociations au Conseil et lors des trilogues ;
+
+Fait valoir l'impact potentiel d'une utilisation accrue des systèmes modulaires européens sur l'équilibre entre les différents modes de transport de marchandises, en particulier le risque d'un report modal inversé, accentué par le différentiel de compétitivité entre le transport routier et ferroviaire ;
+
+Souligne que la circulation des systèmes modulaires européens ne peut s'effectuer que sur des itinéraires bien identifiés et nécessite des investissements pour adapter les infrastructures et les équipements routiers existants aux caractéristiques de ces véhicules ;
+
+S'inquiète des enjeux de sécurité routière posés par la circulation des systèmes modulaires européens, en raison de leurs caractéristiques propres, notamment en termes de manœuvrabilité, de distance de freinage et de risques pour les usagers vulnérables ;
+
+Estime qu'un État membre doit pouvoir conserver le pouvoir de décision concernant la circulation des systèmes modulaires européens en provenance d'un autre État, y compris s'il a autorisé leur circulation sur son réseau routier national ;
+
+Concernant l'harmonisation des procédures administratives relatives à la circulation des convois de transports exceptionnels et des systèmes modulaires européens :
+
+Fait observer que l'harmonisation des procédures administratives à l'échelle européenne nécessiterait une refonte de la plateforme en ligne mise en place par la France pour traiter les demandes de transports exceptionnels ;
+
+Estime qu'au regard des enjeux de sécurité des usagers et des particularités nationales des réseaux routiers et de leur gestion, les États membres doivent conserver le contrôle des modalités de traitement des demandes ;
+
+Demande que les exigences linguistiques pour les responsables des convois de transports exceptionnels soient maintenues ;
+
+Invite le Gouvernement à faire valoir cette position dans les négociations au Conseil.
+
+Travaux préparatoires :
+
+Sénat. - Proposition de résolution européenne n° 340 (2024-2025) - Est devenue résolution du Sénat le 17 mars 2025 - TA n° 79 (2024-2025).
