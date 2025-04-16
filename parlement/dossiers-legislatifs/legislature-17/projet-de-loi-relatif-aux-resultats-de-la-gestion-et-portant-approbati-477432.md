@@ -1,0 +1,68 @@
+# Projet de loi relatif aux résultats de la gestion et portant approbation des comptes de l’année 2024 (ECOX2508490L)
+
+- Type : projet loi
+- Législature : XVIIème législature
+- Ouvert le : 2025-04-16
+- Mis à jour le : 2025-06-25
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000051477432
+
+## Documents
+
+- [Projet de loi et exposé des motifs](https://legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/legislatif-et-reglementaire/actualite-legislative/2025/pjl_ecox2508490l_cm_16.04.2025.pdf) : (PDF, 3,5 Mo).
+- [Compte rendu du Conseil des ministres du 16 avril 2025](https://www.info.gouv.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-16-04-2025)
+- [Texte rejeté en 1ère lecture par l'Assemblée nationale le 10 juin 2025](https://www.assemblee-nationale.fr/dyn/17/textes/l17t0138_texte-adopte-seance#)
+- [Texte rejeté en 1ère lecture par le Sénat le 23 juin 2025](https://www.senat.fr/leg/tas24-156.html)
+- Dossiers législatifs
+  - Assemblée nationale
+    - [Dossier législatif de l'Assemblée nationale](https://www.assemblee-nationale.fr/dyn/17/dossiers/Projetdeloirelatifauxresultatsdelagestionetportantapprobationdescomptesdelannee2024)
+  - Sénat
+    - [Dossier législatif du Sénat](https://www.senat.fr/dossier-legislatif/pjl24-718.html)
+- Documents préparatoires
+  - Assemblée nationale (1ère lecture)
+    - [Rapport n° 1492 de M. Charles DE COURSON](https://www.assemblee-nationale.fr/dyn/17/rapports/cion_fin/l17b1492_rapport-fond)
+  - Sénat (1ère lecture)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 1 : Exposé général et examen des articles)](https://www.senat.fr/rap/l24-743-1/l24-743-1.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 1 – Contribution des rapporteurs spéciaux – Action extérieure de l’Etat)](https://www.senat.fr/rap/l24-743-21/l24-743-21.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 2 – Contribution des rapporteurs spéciaux – Administration générale et territoriale de l’État)](https://www.senat.fr/rap/l24-743-22/l24-743-22.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 - Annexe 3 – Contribution des rapporteurs spéciaux – Agriculture, alimentation, forêt et affaires rurales)](https://www.senat.fr/rap/l24-743-23/l24-743-23.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 4 – Contribution des rapporteurs spéciaux – Aide publique au développement)](https://www.senat.fr/rap/l24-743-24/l24-743-24.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 5 - Contribution des rapporteurs spéciaux – Anciens combattants, mémoire et liens avec la Nation)](https://www.senat.fr/rap/l24-743-25/l24-743-25.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 - Annexe 6 – Volume 1 - Contribution des rapporteurs spéciaux – Cohésion des territoires - Logement et ville)](https://www.senat.fr/rap/l24-743-26-1/l24-743-26-1.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 6 – Volume 2 - Contribution des rapporteurs spéciaux – Cohésion des territoires - Politique des territoires)](https://www.senat.fr/rap/l24-743-26-2/l24-743-26-2.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 7 – Contribution des rapporteurs spéciaux – Annexe 7 – Conseil et contrôle de l'État)](https://www.senat.fr/rap/l24-743-27/l24-743-27.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 8 - Contribution des rapporteurs spéciaux – Culture)](https://www.senat.fr/rap/l24-743-28/l24-743-28.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 9 – Contribution des rapporteurs spéciaux – Défense)](https://www.senat.fr/rap/l24-743-29/l24-743-29.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 10 – Contribution des rapporteurs spéciaux– Direction de l'action du Gouvernement)](https://www.senat.fr/rap/l24-743-210/l24-743-210.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 11 – Volume 1 - Contribution des rapporteurs spéciaux– Écologie, développement et mobilité durables)](https://www.senat.fr/rap/l24-743-211-1/l24-743-211-1.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 11 – Volume 2 - Contribution des rapporteurs spéciaux– Écologie, développement et mobilité durables)](https://www.senat.fr/rap/l24-743-211-2/l24-743-211-2.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 11 – Volume 3 - Contribution des rapporteurs spéciaux– Écologie, développement et mobilité durables)](https://www.senat.fr/rap/l24-743-211-3/l24-743-211-3.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 12 - Contribution des rapporteurs spéciaux– Économie)](https://www.senat.fr/rap/l24-743-212/l24-743-212.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 13 - Contribution des rapporteurs spéciaux– Engagements financiers de l'État)](https://www.senat.fr/rap/l24-743-213/l24-743-213.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 14 - Contribution des rapporteurs spéciaux– Enseignement scolaire)](https://www.senat.fr/rap/l24-743-214/l24-743-214.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 15 – Volume 1 - Contribution des rapporteurs spéciaux– Gestion des finances publiques - Crédits non répartis - Transformation et fonction publiques)](https://www.senat.fr/rap/l24-743-215-1/l24-743-215-1.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 15 – Volume 2 - Contribution des rapporteurs spéciaux– Compte d'affectation spéciale : gestion du patrimoine immobilier de l'État)](https://www.senat.fr/rap/l24-743-215-2/l24-743-215-2.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 16 – Contribution des rapporteurs spéciaux– Immigration, asile et intégration)](https://www.senat.fr/rap/l24-743-216/l24-743-216.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 17 – Contribution des rapporteurs spéciaux– Investir pour la France de 2030)](https://www.senat.fr/rap/l24-743-217/l24-743-217.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 18 – Contribution des rapporteurs spéciaux– Justice)](https://www.senat.fr/rap/l24-743-218/l24-743-218.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 19 – Contribution des rapporteurs spéciaux– Médias, livre et industries culturelles)](https://www.senat.fr/rap/l24-743-219/l24-743-219.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 20 – Contribution des rapporteurs spéciaux– Outre-mer)](https://www.senat.fr/rap/l24-743-220/l24-743-220.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 21 – Contribution des rapporteurs spéciaux– Compte d'affectation spéciale : participations financières de l'État)](https://www.senat.fr/rap/l24-743-221/l24-743-221.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 22 – Contribution des rapporteurs spéciaux– Plan de relance)](https://www.senat.fr/rap/l24-743-222/l24-743-222.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 23 – Contribution des rapporteurs spéciaux– Pouvoirs publics)](https://www.senat.fr/rap/l24-743-223/l24-743-223.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 24 – Contribution des rapporteurs spéciaux– Recherche et enseignement supérieur)](https://www.senat.fr/rap/l24-743-224/l24-743-224.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 25 – Contribution des rapporteurs spéciaux– Régimes sociaux et de retraite)](https://www.senat.fr/rap/l24-743-225/l24-743-225.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 26 – Contribution des rapporteurs spéciaux– Relations avec les collectivités territoriales)](https://www.senat.fr/rap/l24-743-226/l24-743-226.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 27 – Contribution des rapporteurs spéciaux– Remboursements et dégrèvements)](https://www.senat.fr/rap/l24-743-227/l24-743-227.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 28 – Contribution des rapporteurs spéciaux– Santé)](https://www.senat.fr/rap/l24-743-228/l24-743-228.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 29 – Volume 1 - Contribution des rapporteurs spéciaux– Sécurités)](https://www.senat.fr/rap/l24-743-229-1/l24-743-229-1.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 29 – Volume 2 - Contribution des rapporteurs spéciaux– Sécurités)](https://www.senat.fr/rap/l24-743-229-2/l24-743-229-2.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 30 - Contribution des rapporteurs spéciaux– Solidarité, insertion et égalité des chances)](https://www.senat.fr/rap/l24-743-230/l24-743-230.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 31 - Contribution des rapporteurs spéciaux– Sport, jeunesse et vie associative)](https://www.senat.fr/rap/l24-743-231/l24-743-231.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 32 - Contribution des rapporteurs spéciaux– Travail et emploi)](https://www.senat.fr/rap/l24-743-232/l24-743-232.html)
+    - [Rapport n° 743 de M. Jean-François Husson (Tome 2 – Annexe 33 - Contribution des rapporteurs spéciaux– Affaires européennes)](https://www.senat.fr/rap/l24-743-233/l24-743-233.html)
+- Débats parlementaires (Procédure accélérée)
+  - Assemblée nationale (1ère lecture)
+    - [Compte rendu intégral des débats en séance publique du 10 juin 2025](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-10-juin-2025#3785112) : Présentation ; Motion de rejet préalable.
+  - Sénat (1ère lecture)
+- Panorama des lois
+  - [Pour comprendre la loi, consulter le résumé explicatif sur le site Vie-Publique.fr : Résultats de la gestion et approbation des comptes de l'année 2024](https://www.vie-publique.fr/loi/298217-projet-de-loi-resultats-gestion-et-approbation-des-comptes-de-2024-plrg)
