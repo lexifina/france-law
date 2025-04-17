@@ -46,9 +46,11 @@ Adresse personnelle :
 
 Diplômes ou titres universitaires obtenus et évolution professionnelle depuis la précédente inscription au tableau (précisez les dates).
 
-Nombre d'expertises effectuées depuis cinq ans (y compris en qualité de sapiteur).
+Activité professionnelle, autre que l'expertise, actuellement exercée ou date de cessation d'activité.
 
-Nombre d'expertises en cours (y compris en qualité de sapiteur).
+Nombre d'expertises effectuées pour le compte des juridictions administratives et judiciaires depuis cinq ans (y compris en qualité de sapiteur).
+
+Nombre d'expertises en cours pour le compte des juridictions administratives et judiciaires (y compris en qualité de sapiteur).
 
 Rappel des missions remplies depuis la précédente inscription au tableau spécialement valorisantes en raison de leur ampleur, de leur difficulté, de leur retentissement ou de l'excellence des résultats obtenus.
 

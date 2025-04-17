@@ -20,6 +20,8 @@ Pour toute profession relevant d'un ordre professionnel, joindre l'attestation d
 
 Pour les fonctionnaires, les agents non titulaires de droit public et les ouvriers des établissements industriels de l'Etat : autorisation de cumul d'activité délivrée par l'autorité dont vous relevez.
 
+Justificatif de l'exercice d'une activité professionnelle, autre que l'expertise, moins de deux ans avant le 15 septembre de l'année au cours de laquelle est présentée la demande, dans le domaine de compétence au titre duquel la réinscription est demandée (sauf première réinscription).
+
 Copie des diplômes et titres universitaires obtenus depuis la précédente inscription au tableau, leur équivalence et, le cas échéant, leur traduction s'ils ont été délivrés par des institutions étrangères (le cas échéant).
 
 Copie des diplômes ou certificats de formation à l'expertise obtenus depuis la précédente inscription au tableau (le cas échéant).
