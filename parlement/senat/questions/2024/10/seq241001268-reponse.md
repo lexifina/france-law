@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001268
+
+- Question : [SEQ241001268](seq241001268.md) — Éligibilité à l'amortisseur électricité des collectivités ayant souscrit un contrat de performance énergétique
+
+## Réponse
+
+*Industrie et énergie, JO du 2025-04-17, page 1928*
+
+Le dispositif d'amortisseur électricité prévoit une aide sous la forme d'une réduction du montant de la facture d'électricité des bénéficiaires, par l'intermédiaire de leurs fournisseurs d'électricité qui sont ultérieurement compensés par l'État. Le dispositif a été notifié et approuvé par la Commission européenne au titre de l'encadrement temporaire de crise et de transition pour les mesures d'aide d'État visant à soutenir l'économie à la suite de l'agression menée par la Russie contre l'Ukraine. Le dispositif a été reconduit en 2024 dans des conditions revues par rapport à 2023 afin de mieux protéger les entités ayant signé des contrats à prix hauts avant le 30 juin 2023 et encore en vigueur en 2024. Ce dispositif a pris fin au 31 décembre 2024. Outil de la loi Grenelle I, le contrat de performance énergétique (CPE) permet d'améliorer l'efficacité énergétique d'un bâtiment ou d'un ensemble de bâtiments. Il a pour but d'améliorer la performance énergétique d'un bâtiment grâce à des investissements dans des travaux, des fournitures ou des services. Les consommateurs ayant signé un CPE achètent en général des prestations de services, de travaux et de fourniture de chaleur. Cependant, les CPE ne constituent pas des contrats de fourniture directe d'électricité entre un fournisseur et un consommateur d'électricité, ce qui explique que ces contrats n'étaient pas éligibles à l'amortisseur électricité. En tout état de cause, tant parce que le dispositif a pris fin que pour des raisons budgétaires, il n'est pas prévu de modifier les critères d'accès au dispositif de l'amortisseur électricité.
