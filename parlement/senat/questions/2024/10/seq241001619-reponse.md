@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001619
+
+- Question : [SEQ241001619](seq241001619.md) — Financement des autorités organisatrices régionales de mobilité
+
+## Réponse
+
+*Transports, JO du 2025-04-17, page 1948*
+
+Les régions en tant qu'autorités organisatrices de la mobilité (AOM) jouent un rôle essentiel dans l'organisation et le financement des transports collectifs notamment pour soutenir la transition écologique et la cohésion territoriale. Plus largement, les transports représentent le premier poste de dépense des régions : Chaque année, une région consacre en moyenne entre 100 et 200 euros par an et par habitant, selon les régions ; les transports représentent près d'un quart dans le budget des régions françaises, devant l'enseignement (18 %). Comme l'État, elles sont confrontées à des contraintes budgétaires fortes malgré la demande croissante de mobilités décarbonées. De ce fait, le Gouvernement a soutenu la possibilité pour les régions de définir et de percevoir un versement mobilité leur permettant de financer les dépenses d'investissement et de fonctionnement des services de transport public ; cela inclut le développement de solutions de mobilité du quotidien telles que les services express régionaux métropolitains. C'est le sens de l'article 118 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025, introduit au Sénat avec le soutien du Gouvernement. En contrepartie de ce prélèvement nouveau qui pèse sur la masse salariale des employeurs, publics comme privés, la loi de finances prévoit un renforcement du rôle des employeurs dans un comité des partenaires rénové. Plus largement, la conférence de financement des mobilités permettra de redéfinir le mode de financement des autorités organisatrices de la mobilité au premier rang desquelles figurent les régions.
