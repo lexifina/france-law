@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001108
+
+- Question : [SEQ241001108](seq241001108.md) — Vidéoverbalisation des infractions au passage des ponts
+
+## Réponse
+
+*Transports, JO du 2025-04-17, page 1946*
+
+L'élargissement du périmètre de l'article R. 121-6 du code de la route en 2024 permet effectivement de réaliser la vidéo-verbalisation aux infractions aux règles établie par le maire sur le passage des ponts prévues à l'article R. 422-4 du code de la route. Cependant, si la réglementation autorise les agents de polices judiciaire adjoint des polices municipales à consulter le système d'immatriculation des véhicules ou le système national du permis de conduire pour la recherche des auteurs des infractions, elle n'autorise pas la consultation des données techniques des véhicules et notamment le poids total autorisé en charge inscrit sur le certificat d'immatriculation du véhicule. La liste des informations consultables pour ces agents issues des applications dénommées système d'immatriculation des véhicules (SIV) et système national du permis de conduire (SNPC) est précisée en annexe 1 à l'instruction INTA1835557 du 3 janvier 2019, elle prévoit l'accès seulement au numéro d'immatriculation, à la couleur, à la marque, à la dénomination commerciale et au numéro VIN du véhicule La mise en oeuvre du contrôle par vidéo-verbalisation reste possible dans le cas d'une interdiction du passage du pont aux transports de marchandise ; il apparaît également que dans une grande majorité des cas, les véhicules et ensembles de véhicules les plus problématiques pour la sécurité des ouvrages sont aisément reconnaissables visuellement. Les mesures de contrôle peuvent être facilitées opérationnellement par des dispositifs de détection posés en amont pour alerter à temps les agents afin qu'ils constatent l'infraction à partir d'une caméra de contrôle au niveau de la signalisation d'interdiction, se basant par exemple sur la détection de silhouette par analyse vidéo.
