@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000496
+
+- Question : [SEQ241000496](seq241000496.md) — Délai d'obtention de subventions en période d'inflation
+
+## Réponse
+
+*Industrie et énergie, JO du 2025-04-17, page 1922*
+
+Dans le cadre des appels à projets de décarbonation de l'industrie (France 2030), les délais d'instruction s'étendent de 5 à 7 mois en moyenne, en incluant toutes les phases (éligibilité et sélection) et en tenant compte de la maturité des dossiers. Les projets dépassant les 9 mois d'instruction sont rares et visent généralement des dossiers plus « complexes », nécessitant alors un traitement approfondi. Par ailleurs, certains dossiers ont été percutés de plein fouet par la question de l'inflation et la hausse des prix de l'énergie en Europe, notamment liées au conflit russo-ukrainien. En ce qui concerne spécifiquement les projets de décarbonation de l'industrie, les facteurs permettant d'expliquer cette inflation n'ont pas pu être pleinement détaillés, mais les coûts de certains équipements nécessaires à la transition énergétique ont parfois connu des augmentations de près de 20 % - soit bien plus que pour les matériaux et l'énergie incorporée. Il est à noter que nombre de dossiers ayant été fragilisés par l'inflation étaient des bénéficiaires du plan France Relance (aides attribuées en 2021 et 2022 principalement) et ont pu soulever des demandes souvent plusieurs mois après l'attribution de leur aide. Dans ces cas, les délais sont également liés au temps pris par l'industriel, après attribution de l'aide, pour commander et contractualiser de façon effective les équipements nécessaires à la réalisation de son projet. L'administration met de façon générale tout en oeuvre pour minimiser le temps de traitement des demandes de subvention, afin d'accélerer son versement à l'industriel qui en fait la demande.
