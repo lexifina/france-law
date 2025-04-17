@@ -1,0 +1,51 @@
+# Améliorer l'accès au logement des travailleurs des services publics
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 17
+- Identifiant : DLR5L17N51968
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_logement_travailleurs_services_publics_17e
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl25-273.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2025-04-17 : 1er dépôt d'une initiative. (PIONANR5L17B1332)
+  - 2025-05-30 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-04-17 : Renvoi en commission au fond
+      - 2025-12-16 : Nomination de rapporteur
+      - 2025-05-14 : Réunion de commission
+      - 2025-05-21 : Réunion de commission
+      - 2025-06-02 : Réunion de commission
+      - 2025-12-16 : Réunion de commission
+      - 2025-05-22 : Dépôt de rapport (RAPPANR5L17B1449, PIONANR5L17BTC1449)
+  - Discussion en séance publique
+    - 2025-06-02 : Discussion en séance publique
+    - 2026-01-12 : Discussion en séance publique
+    - 2026-01-12 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2026-01-12 : Dépôt d'une initiative en navette (PIONSNR5S479B0273)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2026-01-12 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2026-02-11 : Dépôt de rapport (RAPPSNR5S479B0378, PIONSNR5S479BTC0379)
+  - Discussion en séance publique
+    - 2026-03-30 : Discussion en séance publique
+    - 2026-03-30 : Décision
+- Commission Mixte Paritaire
+  - 2026-03-30 : Dépôt d'un projet de loi (PIONANR5L17B2607)
+  - 2026-04-02 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2026-04-28 : Nomination de rapporteur
+    - 2026-04-28 : Dépôt du rapport d'une CMP (RAPPSNR5S479B0567, PIONSNR5S479BTC0568)
+    - 2026-04-28 : Dépôt du rapport d'une CMP (RAPPANR5L17B2700, PIONANR5L17BTC2700)
+  - Discussion en séance publique
+    - 2026-06-01 : Décision
+  - Discussion en séance publique
+    - 2026-06-17 : Discussion en séance publique
+    - 2026-06-17 : Décision
+  - 2026-04-29 : Décision de la CMP
+- Promulgation de la loi
+  - 2026-06-29 : Promulgation d'une loi
