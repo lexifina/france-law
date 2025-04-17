@@ -10,7 +10,7 @@ a) Extension hauturière
 
 - officier diplômé de l'école militaire de la flotte, option opérations-armes ;
 
-- certificat d'aptitude au quart passerelle ou certificat de quart de la marine nationale (officiers de marine, commissaires, officiers mariniers, personnel des autres armées, stagiaires étrangers) ;
+- certificat d'aptitude au quart passerelle ou certificat de quart de la marine nationale (officiers de marine, officiers de marine sous contrat, commissaires, officiers mariniers, personnel des autres armées, stagiaires étrangers) ;
 
 - unité de valeur marine nationale permis hauturier délivrée à partir du 1er janvier 2008 ;
 
@@ -24,13 +24,15 @@ a) Extension hauturière
 
 2. Personnels des corps et spécialités suivantes :
 
-- administrateurs des affaires maritimes ;
+- administrateurs des affaires maritimes à l'issue de leur formation ;
 
 - professeurs de l'enseignement maritime ;
 
 - officiers du corps technique et administratif des affaires maritimes ;
 
-- ingénieurs hydrographes.
+- ingénieurs des études et techniques de l'armement spécialité hydrographe ;
+
+- ingénieurs de l'armement spécialité hydrographe.
 
 3. Personnels des corps et spécialités éteintes ou en voie d'extinction suivants :
 
@@ -44,7 +46,9 @@ a) Extension hauturière
 
 - marins titulaires du brevet supérieur timonier de la marine nationale ;
 
-- marins titulaires du brevet d'aptitude technique de manœuvrier de direction de port de la marine nationale.
+- marins titulaires du brevet d'aptitude technique de manœuvrier de direction de port de la marine nationale ;
+
+- marins titulaires du brevet supérieur de navigateur de la marine nationale.
 
 b) Option côtière
 

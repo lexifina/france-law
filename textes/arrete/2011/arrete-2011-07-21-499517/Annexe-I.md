@@ -70,6 +70,8 @@ Certificat d'aptitude professionnelle maritime de marin-pêcheur.
 
 Certificat d'aptitude professionnelle maritime de marin-pêcheur, option pont.
 
+Certificat d'aptitude professionnelle maritime de marin-pêcheur, option machine ;
+
 Certificat d'admissibilité en deuxième année du cycle de formation des capitaines de 2e classe de la navigation maritime.
 
 Diplôme d'élève officier de 2e classe de la navigation maritime.
@@ -136,7 +138,11 @@ Diplôme de capitaine 3000 de la filière professionnelle pont de la marine marc
 
 Certificat d'aptitude professionnelle maritime de matelot.
 
+Certificat d'aptitude professionnelle maritime ;
+
 Baccalauréat professionnel spécialisé conduite et gestion des entreprises maritimes.
+
+Baccalauréat professionnel spécialité “polyvalent navigant pont/machine” ;
 
 Certificat de patron de navire aux cultures marines, niveau 1.
 
@@ -161,6 +167,10 @@ Brevet d'officier chef de quart de navire de mer ;
 Certificat d'aptitude au commandement à la petite pêche ;
 
 Brevet de capitaine 200 pêche.
+
+Diplôme d'ingénieur spécialité génie maritime délivré par l'école nationale supérieure maritime ;
+
+Attestation d'admissibilité en deuxième année du cycle Officier Chef de Quart Passerelle International (OCQPI) ;
 
 Lorsqu'ils ont été obtenus après le 1er mai 2011, les titres suivants doivent être accompagnés du certificat restreint de radiotéléphoniste ou d'un titre équivalent :
 
@@ -201,8 +211,6 @@ Certificat de motoriste à la pêche.
 Brevet d'études professionnelles maritimes de mécanicien.
 
 Certificat de mécanicien de quart à la machine ;
-
-Certificat d'aptitude professionnelle maritime marin-pêcheur (option machine).
 
 Certificat d'initiation nautique.
 
@@ -273,3 +281,7 @@ Brevet d'officier électronicien ;
 Brevet d'aptitude à la conduite de petits navires ;
 
 Brevet d'aptitude à la conduite de petits navires à voile.
+
+Brevet restreint d'aptitude à la conduite des petits navires ;
+
+Brevet de maître au petit cabotage d'outre-mer.
