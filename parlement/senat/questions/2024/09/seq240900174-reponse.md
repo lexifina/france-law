@@ -1,0 +1,9 @@
+# Réponse à la question SEQ240900174
+
+- Question : [SEQ240900174](seq240900174.md) — Prescription de fauteuil roulant électrique pour les personnes atteintes de sclérose latérale amyotrophique
+
+## Réponse
+
+*Santé et accès aux soins, JO du 2025-04-17, page 1935*
+
+La Sclérose latérale amyotrophique (SLA) (ou maladie de Charcot) est une maladie neurodégénérative considérée comme rare (incidence = 1,5-2,5/100 000 habitants, de l'ordre de 2500 nouveaux cas par an en France). La prise en charge thérapeutique est essentiellement symptomatique, ciblée sur le maintien de l'autonomie et la compensation de la dépendance, la prévention des complications et la compensation des déficiences vitales respiratoires et nutritionnelles. Elle est aussi en grande partie supportive et palliative. Allant de pair avec une dynamique associative présente depuis les années 90, la France a mis en place un dispositif de suivi de la SLA par des experts reconnus depuis 2002. Le déploiement ensuite de 3 plans nationaux maladies rares successifs, associant les ministères de la santé et de l'accès aux soins et de la recherche, continue de soutenir l'effort spécifique à apporter à cette pathologie. La rédaction de l'arrêté aides techniques prévoit que les ergothérapeutes peuvent déjà prescrire les fauteuils roulants électriques : Le point n° 10 « Véhicules pour personnes en situation de handicap, leurs éventuelles adjonctions, et les produits d'aides à la posture (définis au titre I, chapitre 2, section 2, sous-section 6 et au titre IV de la liste définie à l'article L. 165-1 du code de la sécurité sociale) ; » vise le titre IV de la LPP qui comprend les fauteuils roulants à propulsion par moteur électrique. Pour bénéficier d'une prise en charge pour ces fauteuils électriques, la prescription doit se faire dans le cadre d'une équipe pluridisciplinaire.
