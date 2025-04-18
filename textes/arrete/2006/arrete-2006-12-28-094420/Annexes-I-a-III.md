@@ -1,6 +1,6 @@
 # Article Annexes I à III
 
-A N N E X E I
+ANNEXE I
 
 SPÉCIFICATIONS
 
@@ -130,15 +130,19 @@ Intersaisons |
 
 Dates |
 
-16 novembre-15 mars |
+1er novembre-
 
-16 mars-30 Avril
+15 mars |
 
-1er octobre-15 novembre |
+16 mars-30 avril
 
-1er mai-30 septembre |
+1er octobre-31 octobre |
 
-classe |
+1er mai-
+
+30 septembre |
+
+Classe de volatilité |
 
 Classe c |
 
@@ -146,9 +150,11 @@ Classes a + c (*) |
 
 Classe a |
 
-Teneur en éthanol et en alcools supérieurs saturés % (V/ V) |
+Teneur en éthanol et en alcools supérieurs saturés
 
-Min |
+% (V/ V) |
+
+Min. |
 
 60 |
 
@@ -156,7 +162,7 @@ Min |
 
 70 |
 
-Max |
+Max. |
 
 85 |
 
@@ -164,9 +170,11 @@ Max |
 
 85 |
 
-Pression de vapeur kPa |
+Pression de vapeur
 
-Min |
+kPa |
+
+Min. |
 
 55,0 |
 
@@ -174,7 +182,7 @@ Min |
 
 35,0 |
 
-Max |
+Max. |
 
 80,0 |
 
