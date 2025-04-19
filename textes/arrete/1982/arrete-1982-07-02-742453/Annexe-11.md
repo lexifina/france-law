@@ -8,7 +8,7 @@ Indication de ligne et de destination :
 
 Une information sonore asservie au bruit ambiant (+ 5 dB) sur la ligne et la destination du véhicule doit être délivrée par un haut parleur situé près de la porte avant ou par un système équivalent.
 
-Pour les véhicules de classe A, s'il n'y a pas de dispositifs d'annonces, l'information doit être délivrée par le conducteur.
+Pour les véhicules de classe A, s'il n'y a pas de dispositifs d'annonces, l'information doit être délivrée par le conducteur. Pour les véhicules totalement automatisés en l'absence de conducteur à bord du véhicule, l'information sur la ligne et la destination du véhicule doit être délivrée sous forme sonore et visuelle par un équipement embarqué, perceptible par l'ensemble des passagers notamment les personnes à mobilité réduite.
 
 Sur la face avant, la ligne et la destination doivent être indiquées sur un panneau ou une girouette, le plus bas possible au-dessus du champ de vision du conducteur ou au-dessus du pare-brise.
 
@@ -26,7 +26,7 @@ En cas d'affichage électronique, la girouette est éclairée en permanence, son
 
 Nom des arrêts :
 
-A bord de l'autobus, le nom du prochain arrêt doit être fourni sous forme sonore et visuelle par un équipement embarqué ; l'information doit être perceptible par l'ensemble des passagers et notamment ceux qui occupent les sièges réservés aux personnes à mobilité réduite. Dans les véhicules de classe A, s'il n'y a pas de dispositifs d'annonces, l'information doit être délivrée par le conducteur.
+A bord de l'autobus, le nom du prochain arrêt doit être fourni sous forme sonore et visuelle par un équipement embarqué ; l'information doit être perceptible par l'ensemble des passagers et notamment ceux qui occupent les sièges réservés aux personnes à mobilité réduite. Dans les véhicules de classe A, s'il n'y a pas de dispositifs d'annonces, l'information doit être délivrée par le conducteur. Pour les véhicules totalement automatisés en l'absence de conducteur à bord du véhicule, le nom du prochain arrêt doit être fourni sous forme sonore et visuelle par un équipement embarqué, perceptible par l'ensemble des passagers notamment les personnes à mobilité réduite.
 
 Pour les annonces visuelles, les caractères doivent avoir une hauteur minimale de 3 cm pour les minuscules et 5 cm pour les majuscules. Sur les panneaux électroniques, le message doit rester fixe pendant au moins dix secondes. L'écriture doit être de couleur contrastée par rapport au fond.
 
@@ -76,7 +76,7 @@ Indications de ligne et de destination :
 
 Une information sonore asservie au bruit ambiant (+ 5 dB) sur la ligne et la destination du véhicule doit être délivrée par un haut-parleur situé près de la porte avant ou par un système équivalent.
 
-Pour les véhicules de classe B, s'il n'y a pas de dispositifs d'annonces, l'information doit être délivrée par le conducteur.
+Pour les véhicules de classe B, s'il n'y a pas de dispositifs d'annonces, l'information doit être délivrée par le conducteur. Pour les véhicules totalement automatisés en l'absence de conducteur à bord du véhicule, l'information sur la ligne et la destination du véhicule doit être délivrée sous forme sonore et visuelle par un équipement embarqué, perceptible par l'ensemble des passagers notamment les personnes à mobilité réduite.
 
 Sur la face avant, la ligne et la destination doivent être indiquées par un panneau ou une girouette situés au-dessus du pare-brise ou visibles à travers le pare-brise.
 
@@ -96,7 +96,7 @@ A bord de l'autocar, le nom du prochain arrêt doit être fourni sous forme sono
 
 Dans les véhicules de classe B, s'il n'y a pas de dispositifs d'annonces, l'information doit être délivrée par le conducteur.
 
-Pour les services de nuit, l'indication de l'arrêt doit être à la fois fournie sous forme visuelle et délivrée par le conducteur ou l'accompagnateur.
+Pour les services de nuit, l'indication de l'arrêt doit être à la fois fournie sous forme visuelle et délivrée par le conducteur ou l'accompagnateur. Pour les véhicules totalement automatisés en l'absence de conducteur à bord du véhicule, le nom du prochain arrêt doit être fourni sous forme sonore et visuelle par un équipement embarqué, perceptible par l'ensemble des passagers notamment les personnes à mobilité réduite.
 
 Les caractères doivent avoir une hauteur minimale de 3 cm pour les minuscules et de 5 cm pour les majuscules.
 

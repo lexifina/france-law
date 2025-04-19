@@ -8,7 +8,7 @@ De forme libre, cette liste doit comporter le nom et le prénom de chaque passag
 
 La liste doit indiquer également la date et les caractéristiques générales du transport ainsi que les coordonnées téléphoniques de l'organisateur.
 
-Elle doit être remise au représentant de l'organisateur du service à bord de l'autocar ou, en son absence, au conducteur et complétée du numéro d'immatriculation de l'autocar.
+Elle doit être remise au représentant de l'organisateur du service à bord de l'autocar ou, en son absence, au conducteur et complétée du numéro d'immatriculation de l'autocar. Pour les véhicules totalement automatisés en l'absence de conducteur à bord du véhicule, l'exploitant définit et met en œuvre une procédure de remise de la liste des passagers à bord. Cette procédure est décrite dans le système de gestion de la sécurité en exploitation.
 
 Toutefois, la liste nominative des passagers n'est pas exigée lorsque les services mentionnés au présent article sont réalisés dans la zone constituée par le département de prise en charge des passagers et les départements limitrophes.
 
