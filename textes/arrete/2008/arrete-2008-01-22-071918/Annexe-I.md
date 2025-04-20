@@ -2,7 +2,7 @@
 
 RÉFÉRENTIELS D'ACTIVITÉS, DE COMPÉTENCES ET D'ÉVALUATION DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ” MENTION “ TIR À L'ARC ”
 
-Le titulaire du DEJEPS mention “ tir à l'arc ” exerce principalement comme entraineur du niveau débutant jusqu'au niveau compétiteur. Ses missions incluent la formation des archers, la préparation aux compétitions et l'organisation d'événements sportifs. Il exerce également comme :
+Le titulaire du DEJEPS mention &laquo; tir à l'arc &raquo; exerce principalement comme entraineur du niveau débutant jusqu'au niveau compétiteur. Ses missions incluent la formation des archers, la préparation aux compétitions et l'organisation d'événements sportifs. Il exerce également comme :
 
 -formateur des entraineurs fédéraux ;
 
@@ -14,39 +14,29 @@ Il peut aussi participer à la promotion et au développement de ce sport à l'�
 
 Le DEJEPS donne la qualification pour enseigner et monter des projets de développement du tir à l'arc dans tout type d'établissement : des clubs, des associations sportives, des fédérations ou des centres de loisirs. |
 
-RÉFÉRENTIEL D'ACTIVITÉS
+REFERENTIEL D'ACTIVITES
 
 Décrit les situations de travail et les activités exercées, les métiers ou emplois visés. |
 
-RÉFÉRENTIEL DE COMPÉTENCES
+REFERENTIEL DE COMPETENCES
 
-Identifie les compétences
+Identifie les compétences et les connaissances, y compris transversales, qui découlent du référentiel d'activités. |
 
-et les connaissances,
-
-y compris transversales,
-
-qui découlent du référentiel d'activités. |
-
-RÉFÉRENTIEL D'ÉVALUATION
+REFERENTIEL D'EVALUATION
 
 Définit les critères et les modalités d'évaluation des acquis
 
-Les modalités d'évaluation des unités capitalisables (UC) 1 et 2
+Les modalités d'évaluation des unités capitalisables (UC) 1 et 2 sont définies à l'article A. 212-52 du code du sport.
 
-sont définies à l'article A. 212-52 du code du sport.
-
-Les modalités d'évaluation des unités capitalisables (UC) 3 et 4
-
-sont définies à l'annexe II du présent arrêté. |
+Les modalités d'évaluation des unités capitalisables (UC) 3 et 4 sont définies à l'annexe II du présent arrêté. |
 
 |
 
 |
 
-MODALITÉS D'ÉVALUATION |
+MODALITES D'EVALUATION |
 
-CRITÈRES D'ÉVALUATION |
+CRITERES D'EVALUATION |
 
 UC1-CONCEVOIR UN PROJET D'ACTION |
 
@@ -72,33 +62,33 @@ Une seule modalité certificative permet d'évaluer de façon distincte les UC 1
 
 Le candidat :
 
--inscrit son action dans le cadre des orientations et des valeurs de la structure de tir à l'arc, dans une perspective éducative et intégrative ;
+-Inscrit son action dans le cadre des orientations et des valeurs de la structure de tir à l'arc, dans une perspective éducative et intégrative
 
--participe à des diagnostics sur un territoire ;
+-Participe à des diagnostics sur un territoire
 
--inscrit son action dans le cadre des politiques publiques locales ;
+-Inscrit son action dans le cadre des politiques publiques locales
 
--prend en compte les réalités sociales, éducatives et culturelles des publics concernés et leurs caractéristiques spécifiques ;
+-Prend en compte les réalités sociales, éducatives et culturelles des publics concernés et leurs caractéristiques spécifiques
 
--agit dans le cadre des réseaux professionnels et institutionnels locaux ;
+-Agit dans le cadre des réseaux professionnels et institutionnels locaux
 
--implique les bénévoles dans la conception en prenant en compte les caractéristiques spécifiques de chacun afin de favoriser la dimension collective du travail en équipe et l'intégration de tous ;
+-Implique les bénévoles dans la conception en prenant en compte les caractéristiques spécifiques de chacun afin de favoriser la dimension collective du travail en équipe et l'intégration de tous
 
--définit les objectifs d'un projet d'action ;
+-Définit les objectifs d'un projet d'action
 
--propose les démarches pédagogiques adaptées aux objectifs et aux publics pour répondre aux objectifs et aux besoins particuliers des publics ;
+-Propose les démarches pédagogiques adaptées aux objectifs et aux publics pour répondre aux objectifs et aux besoins particuliers des publics.
 
--organise la mise en œuvre de démarches participatives ;
+-Organise la mise en œuvre de démarches participatives
 
--Conçoit des démarches d'évaluation ;
+-Conçoit des démarches d'évaluation
 
--compose une équipe d'intervenants en favorisant la dimension collective du travail en équipe et l'intégration de tous ;
+-Compose une équipe d'intervenants en favorisant la dimension collective du travail en équipe et l'intégration de tous
 
--élabore un budget prévisionnel ;
+-Élabore un budget prévisionnel
 
--négocie avec sa hiérarchie les financements du projet d'action ;
+-Négocie avec sa hiérarchie les financements du projet d'action
 
--prend en compte l'impact de son action sur l'environnement professionnel. |
+-Prend en compte l'impact de son action sur l'environnement professionnel |
 
 UC2 : COORDONNER LA MISE EN ŒUVRE D'UN PROJET D'ACTION |
 
@@ -126,41 +116,41 @@ Une seule modalité certificative permet d'évaluer de façon distincte les UC 1
 
 Le candidat :
 
-participe au recrutement en veillant à respecter l'intégration de tous ;
+-Participe au recrutement en veillant à respecter l'intégration de tous
 
--anime les réunions au sein de la structure de tir à l'arc en adaptant les objectifs, plan d'actions, démarches et outils aux particularités de chaque membre de l'équipe pour favoriser l'intégration de tous ;
+-Anime les réunions au sein de la structure de tir à l'arc en adaptant les objectifs, plan d'actions, démarches et outils aux particularités de chaque membre de l'équipe pour favoriser l'intégration de tous
 
--met en œuvre les procédures de travail adaptées aux caractéristiques spécifiques des acteurs ;
+-Met en œuvre les procédures de travail adaptées aux caractéristiques spécifiques des acteurs
 
--participe aux actions de tutorat dans la structure de tir à l'arc en prenant en compte les caractéristiques spécifiques du tutoré ;
+-Participe aux actions de tutorat dans la structure de tir à l'arc en prenant en compte les caractéristiques spécifiques du tutoré
 
--facilite les démarches participatives au sein de la structure de tir à l'arc afin de favoriser l'intégration de tous ;
+-Facilite les démarches participatives au sein de la structure de tir à l'arc afin de favoriser l'intégration de tous
 
--accompagne le développement des membres de l'équipe en prenant en compte les caractéristiques et besoins particuliers de manière à favoriser l'intégration ;
+-Accompagne le développement des membres de l'équipe en prenant en compte les caractéristiques et besoins particuliers de manière à favoriser l'intégration
 
--représente la structure de tir à l'arc ;
+-Représente la structure de tir à l'arc
 
--conçoit une démarche de communication ;
+-Conçoit une démarche de communication
 
--participe aux actions des réseaux partenaires ;
+-Participe aux actions des réseaux partenaires
 
--contrôle le budget des actions programmées ;
+-Contrôle le budget des actions programmées
 
--gère les partenariats financiers ;
+-Gère les partenariats financiers
 
--planifie l'utilisation des espaces de pratiques et des moyens matériels adaptés aux caractéristiques des publics ;
+-Planifie l'utilisation des espaces de pratiques et des moyens matériels adaptés aux caractéristiques des publics
 
--rend compte de l'utilisation des moyens financiers ;
+-Rend compte de l'utilisation des moyens financiers
 
--anticipe les besoins en termes logistique ;
+-Anticipe les besoins en termes logistique
 
--organise la maintenance technique ;
+-Organise la maintenance technique
 
--veille au respect des procédures de travail ;
+-Veille au respect des procédures de travail
 
--adapte le programme d'action en cas de nécessité ;
+-Adapte le programme d'action en cas de nécessité
 
--effectue le bilan des actions réalisées. |
+-Effectue le bilan des actions réalisées |
 
 UC3 : CONDUIRE UNE DÉMARCHE DE PERFECTIONNEMENT SPORTIF EN TIR À L'ARC |
 
@@ -192,39 +182,39 @@ C3. 3-Conduire des actions de formation en tir à l'arc en prenant en compte les
 
 La situation d'évaluation certificative est réalisée au moyen de :
 
-1) La conduite en sécurité d'une séance d'enseignement en tir à l'arc, suivie d'un exposé et d'un entretien
+1) la conduite en sécurité d'une séance d'enseignement en tir à l'arc, suivie d'un exposé et d'un entretien
 
-2) Une soutenance portant sur l'analyse d'une séquence vidéo d'un archer compétiteur, suivie d'un entretien
+2) Un entretien sur la base d'un dossier analysant une action d'entraînement.
 
-3) Une soutenance à partir d'un diaporama portant sur la mise en place d'une action de formation en tir à l'arc, suivie d'un entretien. |
+3) La conduite d'une action de formation suivie d'un entretien. |
 
 Le candidat :
 
--définit une progression pédagogique en tir à l'arc adaptée aux caractéristiques spécifiques des publics encadrés ;
+-Définit une progression pédagogique en tir à l'arc adaptée aux caractéristiques spécifiques des publics encadrés
 
--conduit un enseignement collectif en tir à l'arc adapté aux caractéristiques spécifiques des publics encadrés ;
+-Conduit un enseignement collectif en tir à l'arc adapté aux caractéristiques spécifiques des publics encadrés
 
--régule son intervention en fonction des réactions du public ;
+-Régule son intervention en fonction des réactions du public
 
--évalue un cycle d'enseignement en tir à l'arc notamment au regard de la prise en compte des caractéristiques et des besoins particuliers des pratiquants ;
+-Évalue un cycle d'enseignement en tir à l'arc notamment au regard de la prise en compte des caractéristiques et des besoins particuliers des pratiquants
 
--définit le plan d'entraînement en tir à l'arc adapté aux spécificités des publics encadrés ;
+-Définit le plan d'entraînement en tir à l'arc adapté aux spécificités des publics encadrés
 
--conduit l'entraînement en tir à l'arc en prenant en compte les caractéristiques physiques, motrices, sensorielles, cognitives et psychiques des pratiquants ;
+-Conduit l'entraînement en tir à l'arc en prenant en compte les caractéristiques physiques, motrices, sensorielles, cognitives et psychiques des pratiquants
 
--encadre un groupe dans le cadre de compétitions en tir à l'arc en prenant en compte la singularité de chaque pratiquant ;
+-Encadre un groupe dans le cadre de compétitions en tir à l'arc en prenant en compte la singularité de chaque pratiquant
 
--évalue le cycle d'entraînement en tir à l'arc ;
+-Évalue le cycle d'entraînement en tir à l'arc
 
--élabore des scénarios pédagogiques en tir à l'arc adapté au caractéristiques singulières de chaque stagiaire ;
+-Élabore des scénarios pédagogiques en tir à l'arc adapté au caractéristiques singulières de chaque stagiaire
 
--prépare les supports de ses interventions en tir à l'arc en adaptant les modalités de transmission de l'information aux singularités de son public afin de s'assurer de sa compréhension par tous ;
+-Prépare les supports de ses interventions en tir à l'arc en adaptant les modalités de transmission de l'information aux singularités de son public afin de s'assurer de sa compréhension par tous
 
--met en œuvre une situation formative en tir à l'arc en prenant en compte les singularités motrices, sensorielles, cognitives et psychiques des pratiquants et des stagiaires ;
+-Met en œuvre une situation formative en tir à l'arc en prenant en compte les singularités motrices, sensorielles, cognitives et psychiques des pratiquants et des stagiaires
 
--adapte son intervention aux réactions et aux caractéristiques spécifiques des stagiaires en tir à l'arc ;
+-Adapte son intervention aux réactions et aux caractéristiques spécifiques des stagiaires en tir à l'arc
 
--évalue des actions de formation en tir à l'arc au regard de la prise en compte des caractéristiques et des besoins particuliers des stagiaires. |
+-Évalue des actions de formation en tir à l'arc au regard de la prise en compte des caractéristiques et des besoins particuliers des stagiaires |
 
 UC 4 : ENCADRER LE TIR À L'ARC EN SÉCURITÉ |
 
@@ -248,28 +238,28 @@ La situation d'évaluation certificative est réalisée au moyen de la conduite 
 
 Le candidat :
 
--évalue ses propres capacités à effectuer une démonstration technique en tir à l'arc ;
+-Évalue ses propres capacités à effectuer une démonstration technique en tir à l'arc
 
--explicite les différents éléments de la démonstration technique en tir à l'arc en choisissant des moyens de transmission de l'information adaptés aux caractéristiques des pratiquants ;
+-Explicite les différents éléments de la démonstration technique en tir à l'arc en choisissant des moyens de transmission de l'information adaptés aux caractéristiques des pratiquants
 
--met en œuvre des démarches pédagogiques adaptées permettant au pratiquant d'expérimenter la discipline en sécurité ;
+-Met en œuvre des démarches pédagogiques adaptées permettant au pratiquant d'expérimenter la discipline en sécurité
 
--évalue et anticipe les risques objectifs et potentiels liés à la pratique du tir à l'arc pour le pratiquant ;
+-Evalue et anticipe les risques objectifs et potentiels liés à la pratique du tir à l'arc pour le pratiquant
 
--en accordant une vigilance particulière à ses caractéristiques singulières (physiques, motrices, sensorielles, cognitives et psychiques) ;
+en accordant une vigilance particulière à ses caractéristiques singulières (physiques, motrices, sensorielles, cognitives et psychiques)
 
--maîtrise le comportement et les gestes à réaliser en cas d'incident ou d'accident en tir à l'arc en prenant en compte les singularités du pratiquant ;
+-Maîtrise le comportement et les gestes à réaliser en cas d'incident ou d'accident en tir à l'arc en prenant en compte les singularités du pratiquant
 
--évalue les risques objectifs liés au contexte de pratique du tir à l'arc ;
+-Évalue les risques objectifs liés au contexte de pratique du tir à l'arc
 
--anticipe les risques juridiques liés à la pratique du tir à l'arc et au milieu dans lequel il se pratique ;
+-Anticipe les risques juridiques liés à la pratique du tir à l'arc et au milieu dans lequel il se pratique
 
--assure la sécurité passive des équipements de tir à l'arc ;
+-Assure la sécurité passive des équipements de tir à l'arc
 
--prévient les comportements à risque en tir à l'arc ;
+-Prévient les comportements à risque en tir à l'arc
 
--agit ou fait appel à un tiers lorsqu'il rencontre ses propres limites, pour préserver l'intégrité physique et psychique en cas de maltraitance des mineurs et des personnes vulnérables. |
+-Agit ou fait appel à un tiers lorsqu'il rencontre ses propres limites, pour préserver l'intégrité physique et psychique en cas de maltraitance des mineurs et des personnes vulnérables |
 
 NOTA :
 
-Conformément à l'article 10 de l'arrêté du 21 janvier 2025 (NOR : SPOV2433786A), ces dispositions s'appliquent aux sessions de formation ouvertes à compter de la publication de l'arrêté précité.
+Conformément à l'article 2 de l'arrêté du 3 avril (NOR : SPOV2510076A), ces dispositions s'appliquent aux sessions de formation ouvertes à compter de sa publication.
