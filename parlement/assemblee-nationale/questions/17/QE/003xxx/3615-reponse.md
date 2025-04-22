@@ -1,0 +1,9 @@
+# Réponse à la question n° 3615
+
+- Question : [3615](3615.md) — Question n° 3615 — Partage des hébergements par les salariés lors de déplacements professionnels
+
+## Réponse
+
+*JO du 2025-04-22, page 2942*
+
+Le droit au respect de l'intimité de la vie privée est un droit fondamental protégé par divers textes de portée nationale et internationale. L'article 9 du code civil dispose ainsi que : « Chacun a droit au respect de sa vie privée ». L'article 8 de la Convention européenne des droits de l'homme énonce quant à lui que : « Toute personne a droit au respect de sa vie privée et familiale, de son domicile et de sa correspondance ». L'article L. 1121-1 du code du travail interdit d'apporter aux droits des personnes et aux libertés individuelles et collectives de restrictions qui ne seraient pas justifiées par la nature de la tâche à accomplir ni proportionnées au but recherché et l'article L. 4121-1 de ce même code impose à l'employeur de prendre les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Il découle de ce qui précède que l'employeur ne peut imposer le partage de la chambre d'hôtel à ses salariés qu'à la condition de démontrer que cette contrainte est justifiée, proportionnée et qu'elle ne porte pas atteinte à la santé physique et mentale des personnes concernées. A défaut, un salarié est fondé à refuser que lui soit imposé ce mode d'hébergement. Il résulte aussi de ces textes qu'une sanction disciplinaire prise à l'encontre du salarié exprimant son refus de se voir imposer de partager sa chambre d'hôtel pour un motif légitime serait, sous le contrôle du juge, susceptible d'encourir la nullité. Le droit en vigueur répond donc déjà à l'enjeu présenté et l'arsenal juridique apparaît donc de ce fait complet et ne nécessitant pas de modifications.
