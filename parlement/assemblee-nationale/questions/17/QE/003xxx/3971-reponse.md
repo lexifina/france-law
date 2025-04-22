@@ -1,0 +1,9 @@
+# Réponse à la question n° 3971
+
+- Question : [3971](3971.md) — Question n° 3971 — Les défaillances en cybersécurité des entreprises françaises
+
+## Réponse
+
+*JO du 2025-04-22, page 2898*
+
+Face à une cybermenace devenue systémique, l'élévation du niveau général de sécurité du tissu économique et social français est une nécessité. La directive européenne NIS 2 contribue à répondre à ce besoin. La directive – dont les travaux de transposition en droit national par les assemblées parlementaires aboutiront en 2025 - impose un niveau de cybersécurité minimal de référence à des organisations dites critiques, à travers l'application de règles de sécurité informatique proportionnées au besoin et harmonisées. Dans le cadre de cette nouvelle réglementation, les entités assujetties auront notamment l'obligation de notifier les incidents importants dont elles seront victimes. Les entités assujetties auront également l'obligation de mettre en place des mesures techniques, opérationnelles et organisationnelles adéquates, adaptées aux risques qui pèsent sur leurs réseaux et systèmes d'information. Le Gouvernement prévoit une mise en œuvre progressive de ces différentes obligations, ainsi que du régime de supervision destiné à les contrôler. L'accompagnement des entités assujetties prendra plusieurs formes, dont l'accès à l'offre de services de l'ANSSI, via le portail Internet MesServicesCyber. Un service en ligne destiné aux entités assujetties, MonEspaceNIS2, la mise en place de relais dans les territoires, ainsi qu'un appui en termes d'expertise de l'administration aux programmes d'aide en cybersécurité portés par les secteurs sont aussi prévus. Au total, l'objectif est de créer un mouvement vertueux et d'irriguer au-delà des entités assujetties par la mise en place de mécanismes incitatifs.
