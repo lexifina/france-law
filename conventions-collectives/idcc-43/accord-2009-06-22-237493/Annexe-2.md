@@ -1,0 +1,9 @@
+# Article Annexe 2
+
+Gestion pilotée du PERECOI
+
+Grille de répartition des placements « Profil Équilibre »
+
+(Tableaux non reproduits, consultables en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, pages 63 à 65.)
+
+https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20250017 _ 0000 _ 0001. pdf/ BOCC
