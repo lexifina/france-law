@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203381
+
+- Question : [SEQ250203381](seq250203381.md) — Maintien de l'indemnité de difficulté administrative en Alsace-Moselle
+
+## Réponse
+
+*Action publique, fonction publique et simplification , JO du 2025-04-24, page 2037*
+
+Instituée par le décret n° 46-2020 du 17 septembre 1946, l'indemnité de difficultés administratives a été créée à titre temporaire, pour les personnels civils des départements du Haut-Rhin, du Bas-Rhin et de la Moselle, afin de pallier les difficultés éprouvées momentanément par les fonctionnaires chargés d'y introduire la législation et la réglementation française après quatre années d'occupation. Elle représente un montant compris entre 1,83 euros et 3,05 euros bruts mensuels. L'article 1er du décret n° 46-2020 prévoit que ce dispositif prendra fin lorsque sera terminée la fusion des réglementations applicables dans les trois départements recouvrés et dans les autres départements, et en tout état de cause à partir du 1er septembre 1949. Ce décret a fait l'objet de deux modifications : la première, le 27 septembre 1949, afin de proroger le dispositif initial de trois mois et la seconde, le 21 février 1950, afin de proroger le dispositif une nouvelle fois jusqu'à la « réalisation complète du reclassement de la fonction publique ». Ce reclassement est intervenu le 25 décembre 1950 en application de l'article 1er de la loi n° 50-922 du 9 août 1950 fixant les modalités de la réalisation complète du reclassement de la fonction publique et améliorant la situation de certaines catégories des personnels de l'État. La suppression de l'indemnité de difficultés administratives a été différée à plusieurs reprises par circulaire. Le Gouvernement a donc décidé de ne pas proroger ce dispositif devenu obsolète et de ne plus verser l'indemnité.
