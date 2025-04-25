@@ -748,93 +748,71 @@ C |
 
 15 points |
 
-Direction départementale de l'équipement et de l'agriculture (1) du Var
+Direction départementale des territoires de la mer du Var (10)
 
-FONCTIONS EXERCEES
+Fonction exercée |
 
-|
+Niveau de qualification de l'emploi |
 
-NIVEAU
+Nombre
 
-de qualification de l'emploi
+d'emplois |
 
-|
+Nombre de points (IM) par emploi |
 
-NOMBRE
+Responsable du bureau du renouvellement urbain logement social - Bureau renouvellement urbain logement social - Service habitat et rénovation urbaine |
 
-d'emplois
+A |
 
-|
+1 |
 
-NOMBRE DE POINTS (IM)
+25 |
 
-par emploi
+Chargé de suivi des opérations de rénovation urbaine - Bureau renouvellement urbain logement social - Service habitat et rénovation urbaine |
 
-|
+B |
 
-Chef du bureau ingénierie sociale
+1 |
 
-|
+15 |
 
-A
+Chargé des projets de renouvellement urbain et financement du logement social - Bureau renouvellement urbain logement social - Service habitat et rénovation urbaine |
 
-|
+B |
 
-1
+1 |
 
-|
+15 |
 
-25 points
+Direction départementale de l'emploi, du travail et des solidarités du Var (10)
 
-|
+Fonction exercée |
 
-Chef du bureau de la politique de la ville
+Niveau de qualification
 
-|
+de l'emploi |
 
-A
+Nombre
 
-|
+d'emplois |
 
-1
+Nombre de points (IM) par emploi |
 
-|
+Responsable de département insertion par le logement - Service &laquo; Accès au logement &raquo; |
 
-25 points
+A |
 
-|
+1 |
 
-Chargé d'études au sein du bureau de la politique de la ville
+25 |
 
-|
+Animation suivi PDALPD-secrétariat Commission départementale APL - Département &laquo; Insertion par le logement &raquo; - Service &laquo; Accès au logement &raquo; |
 
-B
+B |
 
-|
+1 |
 
-2
-
-|
-
-15 points
-
-|
-
-Responsable de la section des aides au logement du secteur public
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
+15 |
 
 Direction départementale des territoires de Vaucluse (6)
 
@@ -907,3 +885,5 @@ NOTA :
 (8) Conformément à l'article 1 de l'arrêté du 18 juillet 2023 (NOR : TREK2320135A), la présente annexe est remplacée à effet du 1er février 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Seine-et-Marne.
 
 (9) Conformément à l'article 1 de l'arrêté du 18 juillet 2023 (NOR : TREK2320115A), la présente annexe est remplacée à effet du 1er janvier 2023 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires des Yvelines.
+
+(10) Conformément à l'article 1 de l'arrêté du 16 avril 2025 (NOR : TECK2511881A), la présente annexe est remplacée pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer et de la direction départementale de l'emploi, du travail et des solidarités du Var, par les dispositions de l'annexe à l'arrêté précité, prenant effet à la date de signature dudit acte.
