@@ -74,7 +74,9 @@ h) "CRM" pour la bonification prévue à l'article 3-5-1 de l'arrêté du 29 dé
 
 i) "CTH" pour la bonification prévue à l'article 3-6-1 de l'arrêté du 29 décembre 2014 susvisé ;
 
-j) "CDP" pour les bonifications prévues aux articles 3-6, 3-7 et 3-7-1 de l'arrêté du 29 décembre 2014 susvisé.
+j) "CDP" pour les bonifications prévues aux articles 3-6, 3-7 et 3-7-1 de l'arrêté du 29 décembre 2014 susvisé ;
+
+k) “AUTRE” pour les autres bonifications prévues par l'arrêté du 29 décembre 2014 susvisé.
 
 Lorsque plusieurs sigles concernent une même opération, ils sont concaténés par ordre alphabétique en étant séparés par un espace.
 

@@ -72,6 +72,252 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° TRA-EQ-114 est remplacée à compter du 1er janvier 2025 par la fiche portant la même référence présente à l'annexe E de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
+ANNEXE 2 À LA FICHE D'OPÉRATION STANDARDISÉE TRA-EQ-114, DÉFINISSANT LE MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES D'ÉNERGIE
+
+Personnes morales
+
+RAISON sociale
+
+du demandeur |
+
+SIREN
+
+du demandeur |
+
+RÉFÉRENCE EMMY
+
+de la demande |
+
+RÉFÉRENCE
+
+interne
+
+de l'opération |
+
+Code NAF
+
+du bénéficiaire
+
+de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE postal
+
+sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RAISON sociale
+
+du bénéficiaire
+
+de l'opération |
+
+SIREN |
+
+ADRESSE
+
+du siège social
+
+du bénéficiaire
+
+de l'opération |
+
+CODE postal
+
+sans Cedex |
+
+VILLE |
+
+VOLUME CEE
+
+&laquo; hors précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+VOLUME CEE
+
+&laquo; précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RÉFÉRENCE
+
+de la fiche
+
+d'opération standardisée |
+
+DATE
+
+d'engagement de l'opération |
+
+DATE
+
+d'achèvement de l'opération |
+
+NATURE de
+
+la bonification |
+
+SIREN
+
+du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale du sous-traitant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+NATURE du rôle actif
+
+et incitatif |
+
+SIREN de l'organisme de contrôle |
+
+RAISON sociale
+
+de l'organisme
+
+de contrôle |
+
+SIRET de l'entreprise
+
+ayant réalisé
+
+l'opération |
+
+Numéro de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel
+
+du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif
+
+et incitatif (€) |
+
+Commentaires |
+
+Raison sociale
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro
+
+d'identification
+
+du véhicule |
+
+Numéro
+
+d'immatriculation
+
+du véhicule |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 -Véhicule de transport de marchandises optimisé/ Fiche d’opération n° TRA-EQ-115
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
@@ -81,6 +327,224 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 -Remplacement de véhicules par des véhicules neufs performants pour les particuliers ou les collectivités/ Fiche d’opération n° TRA-EQ-117
 
 Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° TRA-EQ-117 est remplacée à compter du 1er janvier 2025 par la fiche portant la même référence présente à l'annexe E de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+
+ANNEXE 2 À LA FICHE D'OPÉRATION STANDARDISÉE TRA-EQ-117 DÉFINISSANT LE MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES D'ÉNERGIE
+
+Personnes physiques
+
+RAISON sociale du
+
+demandeur |
+
+SIREN du
+
+demandeur |
+
+RÉFÉRENCE EMMY
+
+de la demande |
+
+RÉFÉRENCE interne de l'opération |
+
+NOM du
+
+bénéficiaire
+
+de l'opération |
+
+PRÉNOM du
+
+bénéficiaire
+
+de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE postal
+
+sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+VOLUME CEE
+
+&laquo; hors précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+VOLUME CEE
+
+&laquo; précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+RÉFÉRENCE
+
+de la fiche d'opération
+
+standardisée |
+
+DATE
+
+d'engagement de l'opération |
+
+DATE
+
+de la facture |
+
+NATURE
+
+de la bonification |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+NATURE du rôle actif
+
+et incitatif |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme
+
+de contrôle |
+
+SIRET de l'entreprise
+
+ayant réalisé l'opération |
+
+Numéro de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel
+
+du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif
+
+et incitatif (€) |
+
+Commentaires |
+
+Raison sociale
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro
+
+d'identification
+
+du véhicule |
+
+Numéro
+
+d'immatriculation
+
+du véhicule |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 -Lubrifiant économiseur d’énergie pour la pêche professionnelle/ Fiche d’opération n° TRA-EQ-118
 
@@ -100,9 +564,217 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER2303227A), la fiche d’opération n° TRA-EQ-120 remplace, à compter du 1 er avril 2023, la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https :// www. legifrance. gouv. fr/ jorf/ id/ JORFTEXT000047310913.
 
--Vélo à assistance électrique/ Fiche d’opération n° TRA-EQ-121
+- ANNEXE 2 À LA FICHE D'OPÉRATION STANDARDISÉE TRA-EQ-121 DÉFINISSANT LE MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES D'ÉNERGIE
 
-Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° TRA-EQ-121, figurant en annexe G dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 6 du présent arrêté.
+Personnes physiques
+
+RAISON sociale du demandeur |
+
+SIREN du
+
+demandeur |
+
+RÉFÉRENCE EMMY
+
+de la demande |
+
+RÉFÉRENCE interne
+
+de l'opération |
+
+NOM du
+
+bénéficiaire
+
+de l'opération |
+
+PRÉNOM du bénéficiaire
+
+de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE postal sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+VOLUME CEE
+
+&laquo; hors précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+VOLUME CEE
+
+&laquo; précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+RÉFÉRENCE
+
+de la fiche d'opération standardisée |
+
+DATE d'engagement
+
+de l'opération |
+
+DATE
+
+de la facture |
+
+NATURE
+
+de la bonification |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN
+
+du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+NATURE du rôle actif
+
+et incitatif |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme
+
+de contrôle |
+
+SIRET de l'entreprise
+
+ayant réalisé l'opération |
+
+Numéro de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel
+
+du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif
+
+et incitatif (€) |
+
+Commentaires |
+
+Raison sociale
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro
+
+d'enregistrement
+
+au fichier national unique
+
+des cycles identifiés (FNUCI) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 -Stop & Start pour engins automoteurs non routiers neufs/ Fiche d’opération n° TRA-EQ-122
 
@@ -130,13 +802,993 @@ Conformément à l’article 1 de l’arrêté du 18 février 2023 (NOR : ENER23
 
 Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° TRA-EQ-128 est remplacée à compter du 1er janvier 2025 par la fiche portant la même référence présente à l'annexe E de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
+ANNEXE 2 À LA FICHE D'OPÉRATION STANDARDISÉE TRA-EQ-128, DÉFINISSANT LE MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES D'ÉNERGIE
+
+Personnes morales
+
+RAISON sociale
+
+du demandeur |
+
+SIREN
+
+du demandeur |
+
+RÉFÉRENCE
+
+EMMY
+
+de la demande |
+
+RÉFÉRENCE
+
+interne
+
+de l'opération |
+
+NOM
+
+du site
+
+bénéficiaire
+
+de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE postal
+
+sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RAISON sociale
+
+du bénéficiaire
+
+de l'opération |
+
+SIREN |
+
+ADRESSE
+
+du siège social
+
+du bénéficiaire
+
+de l'opération |
+
+CODE postal
+
+sans Cedex |
+
+VILLE |
+
+VOLUME CEE
+
+&laquo; hors précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+VOLUME CEE
+
+&laquo; précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RÉFÉRENCE
+
+de la fiche d'opération
+
+standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+d'achèvement
+
+de l'opération |
+
+NATURE de
+
+la bonification |
+
+SIREN
+
+du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+NATURE du rôle actif
+
+et incitatif |
+
+SIREN de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme de contrôle |
+
+SIRET de l'entreprise
+
+ayant réalisé
+
+l'opération |
+
+Numéro de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel
+
+du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif
+
+et incitatif (€) |
+
+Commentaires |
+
+Raison sociale
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro
+
+d'identification
+
+du véhicule |
+
+Numéro
+
+d'immatriculation
+
+du véhicule |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 -Achat ou location d’un véhicule lourd électrique neuf de transport de marchandises ou issu d’une opération de rétrofit électrique / Fiche d'opération n° TRA-EQ-129
 
 Conformément à l'article 3 de l'arrêté du 30 décembre 2024 et à son annexe G (NOR : ECOR2435303A), la fiche d’opération n° TRA-EQ-129 est ajoutée à compter du 1er janvier 2025 à la présente annexe. remplacée par la fiche portant la même référence présente à l'annexe H de l'arrêté précité. Vous pouvez consulter la présente fiche au sein de l'annexe G disposnible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
+ANNEXE 2 À LA FICHE D'OPÉRATION STANDARDISÉE TRA-EQ-129, DÉFINISSANT LE MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES D'ÉNERGIE
+
+Personnes morales
+
+RAISON sociale
+
+du demandeur |
+
+SIREN
+
+du demandeur |
+
+RÉFÉRENCE EMMY
+
+de la demande |
+
+RÉFÉRENCE
+
+Interne
+
+de l'opération |
+
+NOM
+
+du site
+
+bénéficiaire
+
+de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE postal
+
+sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RAISON
+
+sociale
+
+du bénéficiaire
+
+de l'opération |
+
+SIREN |
+
+ADRESSE
+
+du siège social
+
+du bénéficiaire
+
+de l'opération |
+
+CODE postal
+
+sans Cedex |
+
+VILLE |
+
+VOLUME CEE
+
+&laquo; hors précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+VOLUME CEE
+
+&laquo; précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RÉFÉRENCE
+
+de la fiche d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+d'achèvement
+
+de l'opération |
+
+NATURE de
+
+la bonification |
+
+SIREN
+
+du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+NATURE du rôle actif
+
+et incitatif |
+
+SIREN de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme de contrôle |
+
+SIRET de l'entreprise
+
+ayant réalisé
+
+l'opération |
+
+Numéro de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel
+
+du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif
+
+et incitatif (€) |
+
+Commentaires |
+
+Raison sociale
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro
+
+d'identification
+
+du véhicule |
+
+Numéro
+
+d'immatriculation
+
+du véhicule |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 -Achat ou location d’un quadricycle électrique neuf / Fiche d'opération n° TRA-EQ-130
 
 Conformément à l'article 3 de l'arrêté du 30 décembre 2024 et à son annexe G (NOR : ECOR2435303A), la fiche d’opération n° TRA-EQ-130 est ajoutée à compter du 1er janvier 2025 à la présente annexe. remplacée par la fiche portant la même référence présente à l'annexe H de l'arrêté précité. Vous pouvez consulter la présente fiche au sein de l'annexe G disposnible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+
+ANNEXE 2 À LA FICHE D'OPÉRATION STANDARDISÉE TRA-EQ-130, DÉFINISSANT LE MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES D'ÉNERGIE
+
+Personnes morales
+
+RAISON sociale
+
+du demandeur |
+
+SIREN
+
+du demandeur |
+
+RÉFÉRENCE EMMY
+
+de la demande |
+
+RÉFÉRENCE
+
+Interne
+
+de l'opération |
+
+Code NAF
+
+du bénéficiaire
+
+de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE postal
+
+sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RAISON sociale
+
+du bénéficiaire
+
+de l'opération |
+
+SIREN |
+
+ADRESSE
+
+du siège social
+
+du bénéficiaire
+
+de l'opération |
+
+CODE postal
+
+sans Cedex |
+
+VILLE |
+
+VOLUME CEE
+
+&laquo; hors précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+VOLUME CEE
+
+&laquo; précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RÉFÉRENCE
+
+de la fiche d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+d'achèvement
+
+de l'opération |
+
+NATURE de
+
+la bonification |
+
+SIREN
+
+du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+NATURE du rôle actif
+
+et incitatif |
+
+SIREN de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme
+
+de contrôle |
+
+SIRET de l'entreprise
+
+ayant réalisé
+
+l'opération |
+
+Numéro de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel
+
+du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif
+
+et incitatif (€) |
+
+Commentaires |
+
+Raison sociale
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro
+
+d'identification
+
+du véhicule |
+
+Numéro
+
+d'immatriculation
+
+du véhicule |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Personnes physiques
+
+RAISON sociale du
+
+demandeur |
+
+SIREN du
+
+demandeur |
+
+RÉFÉRENCE EMMY
+
+de la demande |
+
+RÉFÉRENCE
+
+interne
+
+de l'opération |
+
+NOM du
+
+bénéficiaire
+
+de l'opération |
+
+PRÉNOM du
+
+bénéficiaire
+
+de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE postal
+
+sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+VOLUME CEE
+
+&laquo; hors précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+VOLUME CEE
+
+&laquo; précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+RÉFÉRENCE
+
+de la fiche d'opération
+
+standardisée |
+
+DATE d'engagement
+
+de l'opération |
+
+DATE
+
+de la facture |
+
+NATURE de
+
+la bonification |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+NATURE du rôle actif
+
+et incitatif |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+SIREN de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme de contrôle |
+
+SIRET de l'entreprise
+
+ayant réalisé l'opération |
+
+Numéro de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel
+
+du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif
+
+et incitatif (€) |
+
+Commentaires |
+
+Raison sociale
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro
+
+d'identification
+
+du véhicule |
+
+Numéro
+
+d'immatriculation
+
+du véhicule |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 -Achat ou location, par une personne morale, de vélos-cargos neufs ou reconditionnés / Fiche d'opération n° TRA-EQ-131
 
@@ -310,6 +1962,248 @@ Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR24353
 
 Conformément à l'article 3 de l'arrêté du 30 décembre 2024 et à son annexe G (NOR : ECOR2435303A), la fiche d’opération n° TRA-SE-117 est ajoutée à compter du 1er janvier 2025 à la présente annexe. remplacée par la fiche portant la même référence présente à l'annexe H de l'arrêté précité. Vous pouvez consulter la présente fiche au sein de l'annexe G disposnible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
 
+ANNEXE 2 À LA FICHE D'OPÉRATION STANDARDISÉE TRA-SE-117 DÉFINISSANT LE MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES D'ÉNERGIE
+
+Personnes morales
+
+RAISON sociale
+
+du demandeur |
+
+SIREN
+
+du demandeur |
+
+RÉFÉRENCE EMMY
+
+de la demande |
+
+RÉFÉRENCE
+
+interne
+
+de l'opération |
+
+NOM
+
+du site
+
+bénéficiaire
+
+de l'opération |
+
+ADRESSE
+
+de l'opération |
+
+CODE postal
+
+sans Cedex |
+
+VILLE |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RAISON sociale
+
+du bénéficiaire de l'opération |
+
+SIREN |
+
+ADRESSE
+
+du siège social
+
+du bénéficiaire de l'opération |
+
+CODE postal
+
+sans Cedex |
+
+VILLE |
+
+VOLUME CEE
+
+&laquo; hors précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+VOLUME CEE
+
+&laquo; précarité
+
+énergétique &raquo;
+
+(kWh cumac) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+RÉFÉRENCE de la fiche d'opération standardisée |
+
+DATE
+
+d'engagement
+
+de l'opération |
+
+DATE
+
+d'achèvement
+
+de l'opération |
+
+NATURE de
+
+la bonification |
+
+SIREN
+
+du professionnel |
+
+RAISON sociale
+
+du professionnel |
+
+SIREN
+
+du sous-traitant |
+
+RAISON sociale
+
+du sous-traitant |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite du tableau
+
+NATURE du rôle actif
+
+et incitatif |
+
+SIREN de l'organisme
+
+de contrôle |
+
+RAISON sociale
+
+de l'organisme
+
+de contrôle |
+
+SIRET de l'entreprise
+
+ayant réalisé
+
+l'opération |
+
+Numéro de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel
+
+du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif
+
+et incitatif (€) |
+
+Commentaires |
+
+Raison sociale
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro SIREN
+
+du mandataire
+
+assurant
+
+le rôle actif et incitatif |
+
+Numéro ENI
+
+du ou des bateaux |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Liens :
 
 Vous pouvez consulter l'intégralité de l’arrêté du 20 décembre 2023 (NOR : ENER2333440A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28 décembre 2023, texte 100, accessible à l’adresse suivante : https :// www. legifrance. gouv. fr/ download/ pdf ? id = QRgTaQfM0balM0WO-DVjXuRduuVQURzFXR8cwSfIBHg =
@@ -390,4 +2284,4 @@ https :// www. legifrance. gouv. fr/ download/ pdf ? id = FGBMw6bzzOGU6LHfYz6-OO
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 19 février 2025 (NOR : ECOR2505423A), les dispositions de la fiche d'opération standardisée TRA-EQ-131 s'appliquent aux opérations incluses dans une liste transmise, au plus tard le 28 février 2025, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé &laquo; Tableau de recensement des engagements TRA-EQ-131 &raquo; établi par la DGEC et mis à disposition sur le site internet du ministère.
+Conformément à l'article 4 de l'arrêté du 7 avril 2025 (NOR : ECOR2510035A), ces dispositions s'appliquent aux opérations d'économies d'énergie engagées, à compter du 1er juillet 2025.

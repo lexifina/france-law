@@ -352,7 +352,9 @@ Montant en kWh cumac par m2 d'isolant |
 
 Surface d'isolant
 
-en m2 |
+en m2
+
+|
 
 H1 |
 
@@ -432,7 +434,9 @@ Opération n° BAR-EN-106
 
 Isolation de combles ou de toitures
 
-(France d'outre-mer) |
+(France d'outre-mer)
+
+|
 
 1. Secteur d'application
 
@@ -580,7 +584,9 @@ Opération n° BAR-EN-10
 
 Isolation des murs
 
-(France d'outre-mer) |
+(France d'outre-mer)
+
+|
 
 1. Secteur d'application
 
@@ -630,13 +636,17 @@ Le document justificatif spécifique à l'opération est la décision de qualifi
 
 Montant en kWh cumac / m2 d'isolant posé
 
-en fonction de la résistance R de l'isolant (en m2.K/W) |
+en fonction de la résistance R de l'isolant (en m2.K/W)
+
+|
 
 |
 
 Surface d'isolant posé
 
-(m2) |
+(m2)
+
+|
 
 Type de logement |
 
@@ -968,7 +978,9 @@ Montant unitaire en kWh cumac par chaudière à raccorder au conduit d'évacuati
 
 Nombre de chaudières à raccorder
 
-au conduit |
+au conduit
+
+|
 
 H1 |
 
@@ -1078,9 +1090,311 @@ Conformément au III de l'article 2 de l'arrêté du 19 décembre 2023 (NOR : EN
 
 - Chauffe-bain individuel à haut rendement ou à condensation (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-167
 
-- Dispositif solaire thermique (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-168
+- CERTIFICATS D'ÉCONOMIES D'ÉNERGIE
 
-Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° BAR-TH-168 est remplacée à compter du 1er avril 2025 par la fiche portant la même référence présente à l'annexe B de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+Opération n° BAR-TH-168
+
+Dispositif solaire thermique (France métropolitaine) |
+
+1. Secteur d'application
+
+Bâtiment résidentiel : maisons individuelles existantes en France métropolitaine.
+
+2. Dénomination
+
+Mise en place d'un dispositif solaire thermique individuel installé sur appoint séparé, neuf ou existant, destiné à la production de chauffage et à la production d'eau chaude sanitaire ou à la production d'eau chaude sanitaire seulement.
+
+La présente fiche s'applique aux opérations engagées avant le 1er avril 2030.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+Le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 2° du I de l'article 1er du décret précité.
+
+Le dispositif solaire thermique est livré sans appoint et comprend des capteurs solaires thermiques, un ballon de stockage solaire et un régulateur de température qui pilote le circuit solaire et le groupe de sécurité avec le vase d'expansion.
+
+Les capteurs hybrides produisant à la fois électricité et chaleur sont exclus.
+
+Les capteurs solaires ont une puissance de sortie disponible supérieure ou égale à 450 W/m2 de surface hors tout du capteur, mesurée selon la norme ISO 9806 pour une différence entre la température moyenne du fluide caloporteur et la température de l'air ambiant ΔT = 50K.
+
+Les capteurs solaires installés sont des capteurs thermiques vitrés à circulation d'eau ou d'eau glycolée, dans les conditions de pose et d'utilisation de l'équipement, et ont :
+
+- une certification QB ou SolarKeymark fondée sur les normes ISO 9806 et NF EN 12975 ou toute autre méthode équivalente ;
+
+- ou des caractéristiques de performances et de qualité équivalentes, établies par un organisme établi dans l'Espace economique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, leur classe d'efficacité énergétique, déterminée conformément à l'annexe II, point 2 du règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est a minima la classe C.
+
+a) Si le dispositif solaire thermique est installé pour la production de chauffage et la production d'eau chaude sanitaire :
+
+Le dispositif solaire thermique n'est pas installé sur un appoint électrique.
+
+Le système est couplé à des émetteurs de chauffage central de type basse température permettant une optimisation
+
+de la valorisation de l'énergie solaire.
+
+La surface hors-tout totale de capteurs solaires thermiques vitrés installés est supérieure ou égale à 8 m2.
+
+L'efficacité énergétique saisonnière pour la production de chauffage, définie selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013, est supérieure ou égale à :
+
+- 82 % dans le cas où l'efficacité énergétique saisonnière de l'appoint séparé est inférieure à 82 % ;
+
+- 90 % dans le cas où l'efficacité énergétique saisonnière de l'appoint séparé est supérieure ou égale à 82 % et inférieure à 90 % ;
+
+- 98 % dans le cas où l'efficacité énergétique saisonnière de l'appoint séparé est supérieure ou égale à 90 % et inférieure à 98 % ;
+
+- supérieure d'au moins 5 points de pourcentage à l'efficacité énergétique saisonnière de l'appoint séparé dans les autres cas.
+
+Les capteurs installés sont associés à un ou plusieurs ballons d'eau chaude solaires. La capacité de stockage du ou des ballons d'eau chaude solaires est strictement supérieure à 400 litres.
+
+b) Si le dispositif solaire thermique est installé pour la production d'eau chaude sanitaire seule :
+
+La surface hors-tout totale de capteurs solaires thermiques vitrés installés est supérieure ou égale à 2 m2.
+
+L'efficacité énergétique pour le chauffage de l'eau, établie en fonction du profil de soutirage conformément au règlement (UE) n° 814/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux chauffe-eau et aux ballons d'eau chaude, correspond à un profil de soutirage déclaré M, L, XL ou XXL et est supérieure ou égale à :
+
+Energie de l'appoint |
+
+Profil de soutirage |
+
+M |
+
+L |
+
+XL |
+
+XXL |
+
+Electrique à effet Joule |
+
+36 % |
+
+37 % |
+
+38 % |
+
+60 % |
+
+Autre |
+
+95 % |
+
+100 % |
+
+110 % |
+
+120 % |
+
+Les capteurs solaires installés sont associés à un ou plusieurs ballons d'eau chaude solaires.
+
+Pour les dispositifs solaires thermiques mentionnés au a et au b, la preuve de réalisation de l'opération mentionne :
+
+- la mise en place d'un dispositif solaire thermique et les caractéristiques des capteurs associés ;
+
+- l'usage pour lequel le dispositif solaire thermique individuel est installé (production de chauffage et production d'eau chaude sanitaire ou production d'eau chaude sanitaire uniquement) ;
+
+- l'énergie du système d'appoint séparé, neuf ou existant, accompagnant le dispositif solaire ;
+
+- la nature du fluide circulant dans les capteurs solaires, dans les conditions de pose et d'utilisation de l'équipement (eau ou eau glycolée) ;
+
+- la surface hors-tout totale des capteurs solaires thermiques mis en place en m2 ;
+
+- la puissance de sortie disponible des capteurs solaires en W/m2 ;
+
+- le nombre de ballons d'eau chaude solaires installés ;
+
+- la capacité de stockage de chaque ballon d'eau chaude solaire installé (en litres) ;
+
+- la classe d'efficacité énergétique des ballons d'eau chaude solaires installés dont la capacité de stockage est inférieure ou égale à 500 litres, selon le règlement (UE) n° 812/2013 susmentionné ;
+
+- l'efficacité énergétique saisonnière pour la production de chauffage, définie selon le règlement (UE) n° 813/2013 susmentionné ou l'efficacité énergétique pour le chauffage de l'eau du chauffe-eau selon le règlement (UE) n° 814/2013 susmentionné pour le profil de soutirage déclaré.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place des éléments constitutifs du dispositif solaire thermique avec leurs marques et références, ainsi que les caractéristiques de l'installation (l'usage pour lequel le dispositif solaire thermique individuel est installé, l'énergie du système d'appoint séparé neuf ou existant accompagnant le dispositif solaire, la surface hors-tout totale des capteurs thermiques installés en m2, le nombre et la capacité en litres des ballons d'eau chaude solaires installés, la nature du fluide circulant dans les capteurs solaires) et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/IEC 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Ce document indique que les équipements de marques et références installés constituent un dispositif solaire thermique et précise les caractéristiques des capteurs associés, la puissance de sortie disponible des capteurs solaires installés en W/m2, l'efficacité énergétique pour la production de chauffage et la production d'eau chaude sanitaire selon le règlement (UE) n° 813/2013 susmentionné ou l'efficacité énergétique pour le chauffage de l'eau du chauffe-eau selon le règlement (UE) n° 814/2013 susmentionné pour le profil de soutirage déclaré, ainsi que la classe d'efficacité énergétique selon le règlement (UE) n° 812/2013 susmentionné des ballons d'eau chaude solaires dont la capacité de stockage est inférieure ou égale à 500 litres.
+
+Les documents justificatifs spécifiques à l'opération sont :
+
+- la certification QB ou Solar Keymark ou équivalente des capteurs solaires ;
+
+- la décision de qualification ou de certification du professionnel délivrée selon les mêmes exigences que celles prévues à l'article 2 du décret susvisé.
+
+4. Durée de vie conventionnelle
+
+25 ans.
+
+5. Montant de certificats en kWh cumac
+
+Zone géographique |
+
+Montant en kWh cumac par m2 de capteur |
+
+|
+
+Surface hors-tout de capteurs solaires mis en place (m2) |
+
+Usage ECS |
+
+Usage ECS
+
+et Chauffage
+
+|
+
+|
+
+S |
+
+H1 |
+
+6 000 |
+
+14 000 |
+
+|
+
+H2 |
+
+7 200 |
+
+12 700 |
+
+× |
+
+H3 |
+
+9 600 |
+
+10 300 |
+
+|
+
+&laquo; ECS &raquo; signifie : eau chaude sanitaire.
+
+ANNEXE 1 À LA FICHE D'OPÉRATION STANDARDISÉE BAR-TH-168, DÉFINISSANT LE CONTENU DE LA PARTIE A DE L'ATTESTATION SUR L'HONNEUR
+
+A/ BAR-TH-168 (v. A67.3) : Mise en place d'un dispositif solaire thermique individuel installé sur appoint séparé, neuf ou existant, destiné à la production de chauffage et à la production d'eau chaude sanitaire ou à la production d'eau chaude sanitaire seulement.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) : //
+
+Référence de la facture :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Maison individuelle existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+
+* Le dispositif solaire thermique est installé pour :
+
+□ la production de chauffage et d'eau chaude sanitaire □ la production d'eau chaude sanitaire seule
+
+* Le dispositif solaire thermique comprend des capteurs solaires thermiques, un ballon de stockage solaire et un régulateur de température qui pilote le circuit solaire et le groupe de sécurité avec le vase d'expansion : □ OUI □ NON
+
+* Le dispositif solaire thermique est livré sans appoint : □ OUI □ NON
+
+* Energie du système d'appoint séparé, neuf ou existant, accompagnant le dispositif solaire (électrique ou combustible) :
+
+NB1 : Le dispositif solaire thermique installé pour la production de chauffage et la production d'eau chaude sanitaire, n'est pas installé sur un appoint électrique.
+
+Caractéristiques des capteurs solaires :
+
+* Surface hors-tout totale de capteurs solaires mis en place (m2) :
+
+* La puissance de sortie disponible des capteurs, mesurée selon la norme ISO 9806, est égale à : W/m2
+
+* Les capteurs solaires sont des capteurs thermiques vitrés à circulation d'eau ou d'eau glycolée : □ OUI □ NON
+
+* Les capteurs solaires thermiques ont une certification QB ou Solarkeymark ou équivalente : □ OUI □ NON
+
+* Les capteurs solaires produisent à la fois électricité et chaleur (capteurs hybrides) : □ OUI □ NON
+
+NB2 : Les capteurs solaires ont une puissance de sortie disponible supérieure ou égale à 450 W/m2 de surface hors tout du capteur, mesurée selon la norme ISO 9806 pour une différence entre la température moyenne du fluide caloporteur et la température de l'air ambiant ΔT=50K.
+
+* Nombre de ballons d'eau chaude installés :
+
+Cartouche à dupliquer pour chaque ballon d'eau chaude solaire installé :
+
+* Capacité de stockage du ballon d'eau chaude solaire (litres) :
+
+* Si la capacité de stockage du ballon d'eau chaude solaire est inférieure ou égale à 500 litres, classe d'efficacité énergétique du ballon d'eau chaude solaire :
+
+|
+
+NB3 : Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, leur classe d'efficacité énergétique, déterminée conformément à l'annexe II, point 2 du règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est a minima la classe C.
+
+A remplir uniquement si le dispositif solaire est installé pour la production de chauffage et la production d'eau chaude sanitaire :
+
+* Efficacité énergétique de l'appoint (en %) :
+
+* Efficacité énergétique saisonnière pour la production de chauffage déclaré (en %) :
+
+NB4 : L'efficacité énergétique saisonnière pour la production de chauffage, définie selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013.
+
+A remplir uniquement si le dispositif solaire est installé pour la production d'eau chaude sanitaire seule :
+
+* L'efficacité énergétique pour le chauffage de l'eau, établie en fonction du profil de soutirage conformément au règlement (UE) n° 814/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux chauffe-eau et aux ballons d'eau chaude, correspond à un profil de soutirage déclaré M, L, XL ou XXL et est supérieure ou égale à :
+
+Energie de l'appoint |
+
+Profil de soutirage |
+
+M |
+
+L |
+
+XL |
+
+XXL |
+
+Electrique à effet Joule |
+
+36 % |
+
+37 % |
+
+38 % |
+
+60 % |
+
+Autre |
+
+95 % |
+
+100 % |
+
+110 % |
+
+120 % |
+
+* Profil de soutirage déclaré (M, L, XL, XXL) :
+
+A ne remplir que si les marques et référence de l'équipement ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque :
+
+* Référence :
+
+Le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 2° du I de l'article 1er du décret précité.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant, par exemple) :
+
+* Nom :
+
+* Prénom :
+
+* Raison sociale :
+
+* N° SIRET :
 
 - Pompe à chaleur collective de type air/eau ou eau/eau pour l'eau chaude sanitaire / Fiche d'opération standardisée n° BAR-TH-169
 
@@ -1110,9 +1424,9 @@ La présente fiche s'applique aux opérations engagées jusqu'au 31 octobre 2029
 
 3. Conditions pour la délivrance de certificats
 
-Pour chaque catégorie de travaux intégrée dans le projet de rénovation globale et mentionnée aux 1° à 16° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décret et dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1er du décret précité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décret correspondant aux travaux réalisés.
+Pour chaque catégorie de travaux intégrée dans le projet de rénovation globale et mentionnée aux 1° à 16° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôtset du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts, le professionnel réalisant l'opération est titulaire d'un signe de qualité conforme aux exigences prévues à l'article 2 du même décretet dans les textes pris pour son application. Ce signe de qualité correspond à des travaux relevant soit du 17° du I de l'article 1er du décretprécité, soit de l'une des catégories mentionnées aux 1° à 16° du I du même décretcorrespondant aux travaux réalisés.
 
-Un audit énergétique est réalisé préalablement aux travaux de rénovation globale du bâtiment. Cet audit énergétique respecte les dispositions de l'article 8 de l'arrêté du 17 novembre 2020 relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020 relatif à la prime de transition énergétique.
+Un audit énergétique est réalisé préalablement aux travaux de rénovation globale du bâtiment. Cet audit énergétique respecte les dispositions de l'article 8 de l'arrêté du 17 novembre 2020relatif aux caractéristiques techniques et modalités de réalisation des travaux et prestations dont les dépenses sont éligibles à la prime de transition énergétique. Il est établi par une personne répondant aux conditions mentionnées au VII de l'article 2 du décret du 14 janvier 2020relatif à la prime de transition énergétique.
 
 Les travaux permettent d'atteindre une performance énergétique globale minimale du bâtiment, déterminée par l'audit énergétique, qui satisfait aux deux critères suivants :
 
@@ -1142,7 +1456,7 @@ Les documents justificatifs spécifiques à l'opération sont :
 
 -les attestations déclarations préalables de travaux (DP) déposées par le propriétaire correspondant aux surfaces supplémentaires rendues habitables par un nouvel aménagement intérieur du bâtiment existant (aménagement de cave, de combles ou de tout autre espace, etc.) ou par une extension neuve ;
 
--dans le cas de bâtiments relèvant de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis, l'accord de la copropriété autorisant les travaux pour les logements de la copropriété.
+-dans le cas de bâtiments relèvant de la loi n° 65-557 du 10 juillet 1965modifiée fixant le statut de la copropriété des immeubles bâtis, l'accord de la copropriété autorisant les travaux pour les logements de la copropriété.
 
 Lorsque les travaux mis en œuvre diffèrent des travaux préconisés, l'audit énergétique est mis à jour sur la base des travaux effectivement réalisés.
 
@@ -1276,7 +1590,9 @@ Identification du professionnel ayant réalisé les travaux :
 
 *Domaine des travaux réalisés :
 
-*Référence de la qualification ou certification : Date :// |
+*Référence de la qualification ou certification : Date ://
+
+|
 
 La qualification ou certification de l'entreprise est mentionnée dans le cas où cette dernière a réalisé des travaux relevant de l'une au moins des catégories de travaux mentionnées aux 1° à 17° du I de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application.
 
@@ -1340,7 +1656,7 @@ La présente fiche s'applique aux opérations engagées jusqu'au 30 juin 2028.
 
 La mise en place est réalisée par un professionnel.
 
-Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôtset du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôtset des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décretprécité.
 
 L'efficacité énergétique saisonnière pour le chauffage des locaux (η s) de la PAC selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013, déterminée selon l'application de la PAC installée, est supérieure ou égale à :
 
@@ -1398,7 +1714,9 @@ Pour un appartement :
 
 Efficacité énergétique
 
-saisonnière (Etas) |
+saisonnière (Etas)
+
+|
 
 Usage |
 
@@ -1414,17 +1732,23 @@ Surface chauffée S en m2 |
 
 Facteur correctif selon la zone
 
-géographique |
+géographique
+
+|
 
 Zone
 
-géographique |
+géographique
+
+|
 
 111 % ≤ Etas < 140 % |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 26 000 |
 
@@ -1460,7 +1784,9 @@ H2 |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 42 000 |
 
@@ -1496,7 +1822,9 @@ X |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 52 700 |
 
@@ -1532,7 +1860,9 @@ Chauffage |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 57 600 |
 
@@ -1568,7 +1898,9 @@ Pour une maison individuelle :
 
 Efficacité énergétique
 
-saisonnière (Etas) |
+saisonnière (Etas)
+
+|
 
 Usage |
 
@@ -1586,17 +1918,23 @@ Facteur correctif
 
 selon la zone
 
-géographique |
+géographique
+
+|
 
 Zone
 
-géographique |
+géographique
+
+|
 
 111 % ≤ Etas < 140 % |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 47 800 |
 
@@ -1632,7 +1970,9 @@ H2 |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 77 300 |
 
@@ -1668,7 +2008,9 @@ X |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 97 100 |
 
@@ -1704,7 +2046,9 @@ Chauffage |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 106 000 |
 
@@ -1842,7 +2186,7 @@ La présente fiche s'applique aux opérations engagées jusqu'au 30 juin 2028.
 
 La mise en place est réalisée par un professionnel.
 
-Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts et des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décret précité.
+Le professionnel ayant réalisé l'opération est titulaire d'un signe de qualité répondant aux mêmes exigences que celles prévues à l'article 2 du décret n° 2014-812 du 16 juillet 2014pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôtset du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôtset des textes pris pour son application. Ce signe de qualité correspond à des travaux relevant du 5° (dans le cas d'une PAC assurant uniquement le chauffage du logement) ou du 5° et du 6° (dans le cas d'une PAC assurant le chauffage du logement et de l'eau chaude sanitaire) du I de l'article 1er du décretprécité.
 
 L'efficacité énergétique saisonnière pour le chauffage des locaux (η s) de la PAC selon le règlement (EU) n° 813/2013 de la Commission du 2 août 2013, déterminée selon l'application de la PAC installée, est supérieure ou égale à :
 
@@ -1902,7 +2246,9 @@ Usage |
 
 Montant pour une maison individuelle,
 
-en kWhc |
+en kWhc
+
+|
 
 |
 
@@ -1914,17 +2260,23 @@ Surface chauffée S en m2 |
 
 Facteur correctif selon la zone
 
-géographique |
+géographique
+
+|
 
 Zone
 
-géographique |
+géographique
+
+|
 
 111 % ≤ Etas < 140 % |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 53 400 |
 
@@ -1960,7 +2312,9 @@ H2 |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 86 400 |
 
@@ -1996,7 +2350,9 @@ X |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 108 400 |
 
@@ -2032,7 +2388,9 @@ Chauffage |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 124 200 |
 
@@ -2068,7 +2426,9 @@ Chauffage |
 
 Chauffage
 
-et ECS |
+et ECS
+
+|
 
 131 600 |
 
@@ -2200,6 +2560,16 @@ Conformément à l’article 1 de l’arrêté du 19 décembre 2023 (NOR : ENER2
 
 Conformément à l'article 3 de l'arrêté du 20 décembre 2023 (NOR : ENER2333440A), la fiche d'opération standardisée n° BAR-TH-176 est ajoutée par la fiche figurant en annexe E audit arrêté.
 
+Conformément à l'article 2 de l'arrêté du 7 avril 2025 (NOR : ECOR2510035A), à l'exception des fiches mentionnées à l'article 1er dudit arrêté, les colonnes suivantes sont ajoutées au tableau de l'annexe 2 figurant, le cas échéant, en annexe des fiches d'opérations standardisées annexées au présent arrêté :
+
+Raison sociale du mandataire assurant le rôle actif et incitatif |
+
+Numéro SIREN du mandataire assurant le rôle actif et incitatif |
+
+|
+
+|
+
 Liens :
 
 Vous pouvez consulter l'intégralité de l'arrêté du 6 septembre 2024 (NOR : ECOR2416035A) à partir de l'extrait du Journal officiel électronique authentifié n° 221 du 17 septembre 2024, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=vUKI-T4g1oWQ3tNHivMSv596WAkxk7JLKoUd3uP63A4=
@@ -2286,14 +2656,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-
 
 NOTA :
 
-Conformément à l’article 7 de l’arrêté du 18 novembre 2024 (NOR : TECR2428116A), les fiches remplacées conformément à l’article 1er dudit arrêté s'appliquent aux opérations engagées à compter du 1er janvier 2025.
-
-Conformément au I de l'article 4 de l'arrêté du 6 septembre 2024 (NOR : ECOR2416035A), ces dispositions s'appliquent aux opérations engagées à compter du 1er novembre 2024. Les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 31 octobre 2024, achevées au plus tard le 31 décembre 2026 et incluses dans une liste transmise, au plus tard le 30 novembre 2024, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
-
-Conformément au II dudit article, et par dérogation aux dispositions dudit I, s'agissant des bâtiments relevant de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis et pour lesquels une assemblée générale des copropriétaires réunie avant le 1er janvier 2025 a décidé de travaux relevant de la fiche BAR-TH-145 s'appliquent aux opérations engagées à compter du 1er mars 2025 et les dispositions du I de l'article 2 s'appliquent aux opérations engagées à compter du 1er mars 2025 ou achevées à compter du 1er mai 2027. Dans ces cas, le demandeur de certificats archive une copie du procès-verbal de cette assemblée générale des copropriétaires.
-
-Dans ces cas, les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 28 février 2025, achevées au plus tard le 30 avril 2027 et incluses dans une liste transmise, au plus tard le 31 mars 2025, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
-
-Conformément au III dudit article, et par dérogation aux dispositions dudit I, s'agissant des bâtiments autres que ceux mentionnés au II du présent article et pour lesquels une demande de permis de construire ou une déclaration préalable de travaux a été déposée avant le 1er novembre 2024, la date du récépissé mentionné à l'article R. 423-2 du code de la construction et de l'habitation faisant foi, relative à des travaux relevant de la fiche BAR-TH-145, les dispositions de l'article 1er, des II et III de l'article 2 et de l'article 3 s'appliquent aux opérations engagées à compter du 1er mars 2025 et les dispositions du I de l'article 2 s'appliquent aux opérations engagées à compter du 1er mars 2025 ou achevées à compter du 1er mai 2027. Dans ces cas, le demandeur de certificats archive une copie du récépissé susmentionné.
-
-Dans ces cas, les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 28 février 2025, achevées au plus tard le 30 avril 2027 et incluses dans une liste transmise, au plus tard le 31 mars 2025, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
+Conformément à l'article 4 de l'arrêté du 7 avril 2025 (NOR : ECOR2510035A), ces dispositions s'appliquent aux opérations d'économies d'énergie engagées, à compter du 1er juillet 2025.
