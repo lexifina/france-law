@@ -1,0 +1,11 @@
+# Issy-les-Moulineaux : arrêté ACP/2025/338 (ANNULE ET REMPLACE L' ACP/2025/276) — ARRETE PROVISOIRE DE RESTRICTION DE LA CIRCULATION
+
+- Collectivité : Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-04-28
+- Nature : Temporaire
+- Matière : LIBERTES PUBLIQUES et POUVOIRS DE POLICE
+- Objet : ARRETE PROVISOIRE DE RESTRICTION DE LA CIRCULATION
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTcyNTcsInB1ciI6ImJsb2JfaWQifX0=--eed42d60c7b349a72a928ace837f9e38e6c9cc08/ACP%202025%20338%20-%20%5BANNULE%20ET%20REMPLACE%20ACP%202025%20276%5D%20-%20GH2E%20pour%20ENEDIS%20-%20RACCORDEMENT%20ELECTRIQUE%20-%20113%20Avenue%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%20-%20Du%2012.05%20au%2006.06.2025.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/62a413ce49bd26e11c6c4029
