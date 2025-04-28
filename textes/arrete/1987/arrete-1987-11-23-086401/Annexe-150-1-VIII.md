@@ -4,7 +4,7 @@ CRITÈRES MINIMAUX POUR LES INSPECTEURS
 
 (visés à l'article 150-1.22, § 1)
 
-1. Tout officier ou inspecteur des affaires maritimes, tout autre agent de l'Etat affecté dans un centre de sécurité des navires exerçant les fonctions d'inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes ne peut être qualifié pour les visites au titre du contrôle par l'Etat du port que s'il justifie en outre d'une des formations préalables suivantes :
+I. -Tout inspecteur de la sécurité des navires et de la prévention des risques professionnels maritime affecté au sein d'une direction interrégionale de la mer ou de la sous-direction en charge du contrôle par l'Etat du port placée auprès du ministre chargé de la mer ne peut être habilité à réaliser des inspections au titre du contrôle par l'Etat du port que s'il justifie en outre d'une des conditions suivantes :Tout officier ou inspecteur des affaires maritimes, tout autre agent de l'Etat affecté dans un centre de sécurité des navires exerçant les fonctions d'inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes ne peut être qualifié pour les visites au titre du contrôle par l'Etat du port que s'il justifie en outre d'une des formations préalables suivantes :
 
 A. - Soit :
 
@@ -42,22 +42,8 @@ C. - Soit :
 
 Avoir été affecté dans un service de sécurité des navires avant le 19 juin 1995.
 
-2. L'inspecteur qualifié doit pouvoir communiquer oralement et par écrit avec les gens de mer dans la langue parlée le plus communément en mer.
+II.- L'inspecteur qualifié doit pouvoir communiquer oralement et par écrit avec les gens de mer dans la langue parlée le plus communément en mer.
 
-3. L'inspecteur qualifié doit posséder une connaissance appropriée des dispositions des conventions internationales et des procédures pertinentes relatives au contrôle exercé par l'Etat du port et avoir effectué dix inspections au cours des deux dernières années.
+III.- L'inspecteur qualifié doit posséder une connaissance appropriée des dispositions des conventions internationales et des procédures pertinentes relatives au contrôle exercé par l'Etat du port et avoir effectué dix inspections au cours des deux dernières années.
 
-4.1. L'inspecteur qualifié reçoit une "carte d'identité d'inspecteur agissant dans le cadre des contrôles par l'Etat du port" après instruction par le directeur interrégional de la mer dont dépend le lieu d'affectation de l'inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes au moment de la demande.
-
-4.2. La carte d'identité contient les informations suivantes :
-
-a) Le nom du titulaire de la carte ;
-
-b) Une photo d'identité récente du titulaire de la carte ;
-
-c) La signature du titulaire de la carte ;
-
-d) Un texte indiquant que le titulaire est autorisé à effectuer les inspections au titre du contrôle par l'Etat du port.
-
-Les mentions portées sur la carte figurent en français et en anglais.
-
-5. En outre, les inspecteurs exerçant des inspections des navires dans le cadre du mémorandum d'entente de Paris doivent être qualifiés et doivent maintenir leur qualification conformément aux dispositions du mémorandum d'entente de Paris.
+IV.- En outre, afin de conserver ou renouveler leur habilitation, les inspecteurs doivent respecter les dispositions relatives à la politique de formation du Mémorandum d'entente de Paris.
