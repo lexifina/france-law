@@ -1,0 +1,9 @@
+# Réponse à la question n° 474
+
+- Question : [474](474.md) — Question n° 474 — Définition de l'environnement montagnard
+
+## Réponse
+
+*JO du 2025-04-29, page 3133*
+
+La définition juridique de l'environnement montagnard et ses conséquences dans le cadre des formations d'animateurs de loisirs sportifs font l'objet de l'attention du ministère chargé des sports. Tout d'abord, il convient de rappeler que l'arrêté du 6 décembre 2016 portant définition de l'environnement montagnard a été annulé par le Conseil d'État en 2018 au motif que le ministère n'est pas habilité à édicter une telle mesure par la voie d'un arrêté. Si un décret pris en Conseil d'État reste envisageable pour le définir, la circonscription de la notion d'environnement montagnard suppose l'établissement de critères clairs et objectifs (altitude, météorologie, enneigement, accidentologie, etc.) à établir au regard de la sécurité juridique. Ensuite, plusieurs échanges ont eu lieu cet hiver 2024-2025 et se poursuivront cette année entre les services du ministère et les principales organisations représentatives des acteurs de la montagne pour échanger à ce sujet, comprendre les enjeux et attentes de chacun, et le cas échéant, recueillir leurs préconisations en matière d'évolutions qui pourraient être envisagées. Le ministère chargé des sports est en effet attaché à ce que les acteurs partagent une position qui assure la conciliation entre la protection des pratiquants, enjeu prioritaire des politiques publiques, et un encadrement qui ne soit pas un frein au développement économique de l'activité en cause. Il est par conséquent important que la réglementation (ce qui est le cas aujourd'hui des dispositions du code du sport) permette à la fois d'assurer la protection des pratiquants dans des terrains potentiellement à risques et de ne pas limiter la liberté de commerce et d'industrie.
