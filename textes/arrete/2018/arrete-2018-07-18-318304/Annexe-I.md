@@ -1,10 +1,12 @@
 # Article Annexe I
 
-LISTE DES ACTES TECHNIQUES QUE L'INFIRMIER EXERÇANT EN PRATIQUE AVANCÉE EST AUTORISÉ À EFFECTUER SANS PRESCRIPTION MÉDICALE ET, LE CAS ÉCHÉANT, À EN INTERPRÉTER LES RÉSULTATS POUR LES PATHOLOGIES DONT IL ASSURE LE SUIVI
+LISTE DES ACTES TECHNIQUES QUE L'INFIRMIER EXERÇANT EN PRATIQUE AVANCÉE EST AUTORISÉ À EFFECTUER SANS PRESCRIPTION MÉDICALE ET, LE CAS ÉCHÉANT, À EN INTERPRÉTER LES RÉSULTATS
 
 Réalisation d'un débitmètre de pointe.
 
-Holter tensionnel, prélèvements de sang par ponction veineuse ou capillaire ou par cathéter veineux.
+Holter tensionnel
+
+Prélèvements de sang par ponction veineuse ou capillaire ou par cathéter veineux.
 
 Prélèvements de sang par ponction artérielle pour gazométrie.
 
@@ -87,7 +89,3 @@ Décompression d'un pneumothorax suffocant.
 Pose d'attelle de traction.
 
 Aide à la réduction de fractures.
-
-NOTA :
-
-Au deuxième alinéa les mots "prélèvements de sang par ponction veineuse ou capillaire ou par cathéter veineux" doivent être lus comme débutant à la ligne

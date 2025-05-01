@@ -1,6 +1,6 @@
 # Article Annexe IV
 
-LISTE DES EXAMENS DE BIOLOGIE MÉDICALE QUE L'INFIRMIER EXERÇANT EN PRATIQUE AVANCÉE EST AUTORISÉ À PRESCRIRE POUR LES PATHOLOGIES DONT IL ASSURE LE SUIVI
+LISTE DES EXAMENS DE BIOLOGIE MÉDICALE QUE L'INFIRMIER EXERÇANT EN PRATIQUE AVANCÉE EST AUTORISÉ À PRESCRIRE
 
 I.-Examens sanguins
 
@@ -124,7 +124,7 @@ PROTEINES MARQUEURS TUMORAUX VITAMINES :
 
 BIOCHIMIE :
 
-- Glycémie ;
+- Glycémie à jeun ;
 
 - Acide urique ;
 
@@ -206,6 +206,8 @@ II.-Examens urinaires
 
 - Urée ;
 
-- Créatinine et calcul de la clairance de la créatine.
+- Créatinine et calcul de la clairance de la créatine ;
+
+- Rapport albumine sur créatine.
 
 Recherche de produits toxiques
