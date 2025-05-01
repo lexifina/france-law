@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404108
+
+- Question : [SEQ250404108](seq250404108.md) — Devenir des contrats de 2009 de production d'électricité photovoltaïque non reconduits par EDF en 2029
+
+## Réponse
+
+*Industrie et énergie, JO du 2025-05-01, page 2158*
+
+Les contrats entre les producteurs d'électricité par panneaux photovoltaïques et EDF-OA dépendent de plusieurs arrêtés. Les contrats les plus anciens ont principalement été conclus dans le cadre des arrêtés tarifaires du 10 juillet 2006, du 12 janvier 2010 et du 31 août 2010. Ces contrats sont conclus pour une durée de 20 ans, soit la durée de vie moyenne des installations leur permettant d'être rentabilisées. A partir de 2026 les premiers contrats vont donc arriver à terme. Les arrêtés définissant les modalités des contrats d'obligation d'achat entre EDF OA et des producteurs sont des mécanismes de soutien qui ne peuvent être distribués que dans un but incitatif. Ainsi, une installation ayant déjà bénéficié d'un soutien pendant vingt ans entre 2009 et 2029 ne pourrait pas signer un nouveau contrat d'obligation d'achat avec EDF OA. Cependant, il est tout à fait possible pour les centrales de production de poursuivre leur exploitation à l'échéance du contrat. Elles disposent ainsi de plusieurs moyens de valorisation de l'électricité qu'elles produisent, en l'autoconsommant ou en la revendant : - sur le marché de l'électricité, soit directement, soit par l'intermédiaire d'un agrégateur, - à leur fournisseur, au travers d'offres de type « batterie virtuelle » par exemple, - via la signature d'un PPA (power purchase agreement) prévu et encadré par l'article 86 de la loi relative à l'accélération de la production d'énergies renouvelables du 10 mars 2023. Un PPA est un contrat d'achat d'électricité à long terme conclu entre le producteur et un consommateur.
