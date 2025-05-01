@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001746
+
+- Question : [SEQ241001746](seq241001746.md) — Modalités de mise en oeuvre de la garantie communale dans le cadre du zéro artificialisation nette
+
+## Réponse
+
+*Transition écologique, biodiversité, forêt, mer et pêche, JO du 2025-05-01, page 2182*
+
+La France s'est fixée, dans le cadre de la loi n° 2021-1104 dite « Climat et résilience », l'objectif d'atteindre l'absence d'artificialisation nette des sols d'ici 2050. Cela implique une trajectoire progressive à intégrer dans les documents de planification et d'urbanisme. Afin de permettre aux communes notamment rurales de disposer néanmoins d'une garantie minimale de mobilisation de foncier, la loi n° 2023-630 du 20 juillet 2023 a créé un III, 3°bis à l'article 194 qui dispose notamment que toute commune répondant aux critères « ne peut être privée, par l'effet de la déclinaison territoriale des objectifs mentionnés au présent article »d'un potentiel d'au moins un hectare de consommation d'espaces naturels, agricoles et forestiers sur la période 2021-2031. Cependant, ce potentiel n'a vocation à être mobilisé qu'en tant que la commune concernée en a un réel besoin et qu'elle peut démontrer avoir déjà mobilisé ses espaces urbanisés, ses locaux vacants et ses friches. C'est la raison pour laquelle, notamment, l'article L. 151-5 du code de l'urbanisme, qui inclut l'obligation d'une étude de densification en préalable à l'ouverture à l'urbanisation d'espaces naturels, agricoles ou forestiers, reste bien sûr applicable. Les collectivités peuvent s'appuyer sur des outils gratuits mis à disposition par l'Etat, tels que « Zero Logement Vacant » (repérer les logements vacants et accompagner leurs propriétaires), « Cartofriches » (inventaire des friches), « UrbanSimul » (visualisation cartographique) et « UrbanVitaliz » (conseils personnalisés sur la réhabilitation de friches).
