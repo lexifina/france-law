@@ -302,7 +302,7 @@ Adjoint au chef d'atelier-responsable de la maintenance |
 
 Préfecture de l'Hérault |
 
-Intendant de la résidence du préfet |
+Chef de cuisine |
 
 1 |
 
@@ -438,7 +438,11 @@ Chef de cuisine |
 
 Secrétariat général commun du Maine-et-Loire |
 
-Adjoint au chef du bureau logistique et courrier |
+Responsable de la gestion des espaces de travail, de stockage et d'archivage
+
+Adjoint au responsable du pôle logistique
+
+|
 
 1 |
 
@@ -486,7 +490,7 @@ Maître d'hôtel de la résidence du préfet |
 
 Secrétariat général commun de la Meuse |
 
-Adjoint au chef de bureau de l'immobilier, de la logistique et de l'accueil |
+Référent en charge de la maintenance et de l'immobilier |
 
 1 |
 
@@ -510,7 +514,7 @@ Chef de garage |
 
 Secrétariat général commun de la Moselle |
 
-Assistant d'administration logistique |
+Chef du pôle logistique |
 
 1 |
 
@@ -992,9 +996,9 @@ Responsable du service rapide |
 
 33 |
 
-SGAMI de la zone de défense et de sécurité Sud-Ouest/Bordeaux/BMM |
+SGAMI de la zone de défense et de sécurité Sud-Ouest/ DEL/ Bordeaux |
 
-Chef du secteur roulage |
+Adjoint au responsable de la section roulage |
 
 1 |
 
@@ -1056,11 +1060,11 @@ Responsable réception à l'atelier auto |
 
 1 |
 
-21 |
+68 |
 
-SGAMI de la zone de défense et de sécurité Est/ Dijon |
+SGAMI de la zone de défense et de sécurité Est/ DEL/ DM/ Mulhouse |
 
-Chef de la station service rapide |
+Chargé de maintenance automobile-Adjoint au chef d'atelier |
 
 1 |
 
@@ -1106,9 +1110,9 @@ Adjoint au chef de l'atelier automobile avancé |
 
 69 |
 
-SGAMI de la zone de défense et de sécurité Sud-Est/ Saint-Fons |
+SGAMI de la zone de défense est de sécurité Sud-Est/ DEL/ BZMM/ Saint-Fons |
 
-Chef d'équipe mécanique moto de l'atelier |
+Adjoint au chef d'équipe Mécanique 1 de l'atelier automobile de Saint-Fons |
 
 1 |
 
@@ -1130,9 +1134,9 @@ Adjoint au responsable de la mécanique automobile |
 
 78 |
 
-Zone de défense et de sécurité IDF/atelier du Chesnay |
+Zone de défense et de sécurité IdF/ atelier du Chesnay |
 
-Adjoint au chef d'équipe mécanique carrosserie |
+Adjoint au chef d'équipe mécanique VL-VU spécialité électricité |
 
 1 |
 
@@ -1162,9 +1166,9 @@ Responsable du service mines-externalisations |
 
 75 |
 
-Zone de défense et de sécurité IDF/Préfecture de police/DOSTL/parc Sud (94) |
+Zone de défense et de sécurité DF/ préfecture de police/ DILT/ parc Sud (94) |
 
-Adjoint au chef de la cellule externalisation |
+Adjoint au chef d'équipe cellule carrosserie-peinture-sellerie-électricité |
 
 1 |
 
@@ -1234,7 +1238,7 @@ Adjoint au chef cuisinier |
 
 80 |
 
-RZG Picardie/cercle mixte/Amiens |
+Région Hauts-de-France/ CMGM de Calais |
 
 Chef de cuisine |
 
@@ -1284,9 +1288,9 @@ Adjoint gérant restauration |
 
 1 |
 
-36 |
+41 |
 
-Région Bretagne/ CMGM de Châteauroux
+Région Centre Val-de-Loire/ CMGM de Blois
 
 |
 
@@ -1320,7 +1324,7 @@ Région Grand-Est/ DAO/ BC/ Metz
 
 |
 
-Chef de la section de l'appui technique |
+Adjoint au chef de la section appui technique |
 
 1 |
 
@@ -1460,7 +1464,7 @@ Ile-de-France |
 
 Compagnies républicaines de sécurité |
 
-Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+Responsable (chef) de cuisine ou adjoint au responsable (chef) de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou du matériel/ Adjoint au responsable du garage |
 
 10 |
 
@@ -1468,7 +1472,7 @@ Zone Nord |
 
 Compagnies républicaines de sécurité |
 
-Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+Responsable (chef) de cuisine ou adjoint au responsable (chef) de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou du matériel/ Adjoint au responsable du garage |
 
 6 |
 
@@ -1476,7 +1480,7 @@ Zone Ouest |
 
 Compagnies républicaines de sécurité |
 
-Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+Responsable (chef) de cuisine ou adjoint au responsable (chef) de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou du matériel/ Adjoint au responsable du garage |
 
 11 |
 
@@ -1484,7 +1488,7 @@ Zone Sud-Ouest |
 
 Compagnies républicaines de sécurité |
 
-Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+Responsable (chef) de cuisine ou adjoint au responsable (chef) de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou du matériel/ Adjoint au responsable du garage |
 
 10 |
 
@@ -1492,7 +1496,7 @@ Zone Sud |
 
 Compagnies républicaines de sécurité |
 
-Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+Responsable (chef) de cuisine ou adjoint au responsable (chef) de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou du matériel/ Adjoint au responsable du garage |
 
 17 |
 
@@ -1502,7 +1506,7 @@ Zone Sud-Est |
 
 -Centre national d'entraînement à l'alpinisme et au ski/ Chamonix |
 
-Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+Responsable (chef) de cuisine ou adjoint au responsable (chef) de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou du matériel/ Adjoint au responsable du garage |
 
 13 |
 
@@ -1512,11 +1516,11 @@ Zone Est |
 
 -Détachement unité motocycliste zonale |
 
-Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+Responsable (chef) de cuisine ou adjoint au responsable (chef) de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou du matériel/ Adjoint au responsable du garage |
 
 13 |
 
-Direction centrale du recrutement et de la formation
+Académie de police
 
 LOCALISATION |
 
@@ -1538,7 +1542,7 @@ Zone Ouest |
 
 École Nationale de la Police |
 
-Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+Responsable de l'unité de l'entretien ou adjoint au responsable de l'unité entretien |
 
 2 |
 
@@ -1556,17 +1560,17 @@ Zone Sud |
 
 -Ecole Nationale Supérieure d'application de la Police |
 
-Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel/ Responsable unité transport |
 
-2 |
+1 |
 
 Zone Est |
 
 Ecoles Nationales de la Police |
 
-Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel/ Responsable unité transport/ Gérant (e) du service restauration |
 
-2 |
+3 |
 
 Ecole nationale supérieure de la police
 
@@ -1654,7 +1658,7 @@ Chauffeur du ministre |
 
 Direction générale de la police nationale/ECLPN/Limoges |
 
-Responsable des véhicules spéciaux |
+Responsable de l'unité production peinture à l'atelier central automobile |
 
 1 |
 
@@ -1665,3 +1669,7 @@ Direction de la transformation numérique/ SDENTAT/ CNSN Lognes |
 Responsable de la cellule fabrication CNI |
 
 1 |
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 7 avril 2025 (NOR : INTH2511116A), les dispositions dudit arrêté entrent en vigueur le premier jour du mois suivant celui de sa publication.

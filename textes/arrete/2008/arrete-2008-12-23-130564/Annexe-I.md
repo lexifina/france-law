@@ -126,7 +126,7 @@ Maître d'hôtel de la résidence du préfet |
 
 Secrétariat général commun du Tarn |
 
-Adjoint au chef de l'équipe du service intérieur |
+Adjoint au chef du pôle immobilier, responsable de la maintenance et de l'exploitation |
 
 1 |
 
@@ -236,9 +236,9 @@ Chef d'équipe réparateur "deux roues" au centre de soutien automobile |
 
 78 |
 
-Zone de défense et de sécurité IDF |
+Zone de défense et de sécurité IdF/ Préfecture de police/ DILT/ atelier du Chesnay |
 
-Adjoint au chef de l'équipe "mécanique générale" |
+Adjoint au chef d'équipe cellule carrosserie-peinture-sellerie-électricité |
 
 1 |
 
@@ -294,7 +294,7 @@ Adjoint au chef de cuisine |
 
 Ecole de gendarmerie de Châteaulin |
 
-Adjoint au chef de cuisine |
+Adjoint au gérant d'activité bar, comptoir des ventes et hôtellerie |
 
 1 |
 
@@ -372,9 +372,9 @@ Responsable de l'intendance des appartements de fonction |
 
 75 |
 
-Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier/ BGSAC/ Beauvau |
+Direction de l'évaluation de la performance de l'achat, des finances et de l'immobilier/ BGSAC/ Beauvau |
 
-Responsable de l'entretien et de la lingerie du site de Beauvau |
+Responsable de la section &laquo; transferts/ livraisons &raquo; |
 
 1 |
 
@@ -390,7 +390,7 @@ Chef des ateliers |
 
 Direction générale de la police nationale/ ECLPN/ Limoges |
 
-Responsable de la gestion des matériels |
+Technicien qualité en contrôle des aménagements et équipements des véhicules |
 
 1 |
 
@@ -401,3 +401,7 @@ Direction de la transformation numérique/ SDENTAT/ CNSN Limoges |
 Adjoint au responsable de la cellule exploitation |
 
 1 |
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 7 avril 2025 (NOR : INTH2511116A), les dispositions dudit arrêté entrent en vigueur le premier jour du mois suivant celui de sa publication.
