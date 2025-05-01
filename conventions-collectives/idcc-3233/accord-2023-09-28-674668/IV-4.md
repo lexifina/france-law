@@ -1,0 +1,9 @@
+# Article IV.4
+
+Conformément aux dispositions de l'article L. 2231-5 du code du travail, la partie la plus diligente des organisations signataires du présent accord notifie, par lettre recommandée avec accusé de réception, le texte à l'ensemble des organisations représentatives à l'issue de la procédure de signature.
+
+Le présent accord fera l'objet des formalités de dépôt et de demande d'extension par la partie la plus diligente conformément aux dispositions des articles L. 2231-6 et L. 2261-24 du code du travail.
+
+Par référence à l'article L. 2261-23-1 du code du travail, les parties conviennent que le présent accord, qui vise à accorder à tous les salariés un socle minimal de garanties en matière de prévoyance lourde, a vocation à s'appliquer à toutes les entreprises quelles que soient leur taille.
+
+Les modalités de publicité du présent accord sont soumises aux dispositions de l'article L. 2231-5-1 du code du travail.
