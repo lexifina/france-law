@@ -1,0 +1,31 @@
+# Article 1er
+
+L'article 3 de l'accord de branche du 12 décembre 2024 relatif à la participation financière des employeurs du notariat à la formation professionnelle est abrogé et remplacé par les dispositions suivantes :
+
+« Article 3
+
+Montant de la participation financière des employeurs à la formation professionnelle
+
+La participation financière des employeurs à la formation professionnelle est fixée aux taux globaux suivants :
+
+– offices de moins de 11 salariés : 0,70 % de la masse salariale annuelle brute ;
+
+– offices d'au moins 11 salariés : 1,30 % de la masse salariale annuelle brute.
+
+• Elle est répartie de la façon suivante :
+
+Une contribution légale fixée par le code du travail dont les taux sont, à la date de l'entrée en vigueur du présent accord, de :
+
+– pour les employeurs de moins de 11 salariés : 0,55 % du montant de la masse salariale annuelle brute (art. L. 6331-1 du code du travail) étant précisé que les rémunérations versées aux apprentis sont exonérées de cette contribution ;
+
+– pour les employeurs d'au moins 11 salariés : 1 % du montant de la masse salariale annuelle brute (art. L. 6331-3 du code du travail).
+
+Ces sommes sont collectées, ventilées et mutualisées conformément aux dispositions légales et réglementaires en vigueur.
+
+Une contribution supplémentaire ayant pour objet le développement de la formation professionnelle continue instituée conformément aux dispositions de l'article L. 6332-1-2 du code du travail et dont le taux est, compte tenu du taux de la contribution légale actuelle et du taux global ci-dessus déterminé, de :
+
+– pour les employeurs de moins de 11 salariés : 0,15 % de la masse salariale annuelle brute,
+
+– pour les employeurs d'au moins 11 salariés : 0,30 % de la masse salariale annuelle brute.
+
+Ces taux peuvent être amenés à fluctuer à la hausse ou à la baisse, en fonction des variations des taux de la contribution légale et dans la limite des taux globaux ci-dessus déterminés. »
