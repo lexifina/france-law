@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001266
+
+- Question : [SEQ241001266](seq241001266.md) — Règles d'autoconsommation collective d'électricité
+
+## Réponse
+
+*Industrie et énergie, JO du 2025-05-01, page 2157*
+
+L'arrêté du 21 novembre 2019 fixe une distance maximale de 2km entre les participants les plus éloignés d'une opération d'autoconsommation collective étendue (ACCE), mais prévoit la possibilité d'octroi de dérogations à ce critère de distance. A la suite des retours d'expérience de projets bloqués notamment en zone rurale car ne trouvant pas de consommateurs dans le périmètre autorisé et d'échanges avec de nombreux acteurs, deux arrêtés modificatifs, l'un en 2020 et l'autre en 2023, ont prévu des dérogations au critère de proximité géographique. Afin de permettre à de nouveaux projets d'ACCE inscrits dans une démarche de développement territorial de voir le jour, un nouvel arrêté modificatif de l'arrêté du 21 novembre 2019 a été publié le 21 février dernier. Il permet d'étendre le périmètre à la maille de l'EPCI dans le cas où les critères cumulatifs suivants sont réunis : - l'un des producteurs ou des consommateurs participants est une commune ou un EPCI à fiscalité propre ; - l'ensemble des producteurs et des consommateurs participants sont des organismes publics ou privés exerçant une mission de service public ou des sociétés d'économie mixtes locales mentionnées à l'article L. 1522-1 du CGCT et leurs filiales ; - les points de soutirage et d'injection sont situés exclusivement dans le ressort géographique de de l'établissement public de coopération intercommunale à fiscalité propre participant au projet ou auquel adhèrent la ou les communes participant au projet. Cet arrêté porte également à 5 MWc la puissance maximale des projets d'autoconsommation collective dans le cas général, et à 10 MWc pour les projets répondant aux critères susmentionnés.
