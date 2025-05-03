@@ -368,13 +368,33 @@ Arrêté du 30 mars 2012 |
 
 12 |
 
-CONDUCTEUR LIVREUR DE MARCHANDISES |
+CONDUCTEUR LIVREUR DE MARCHANDISES (dernière session 2026) |
 
 Arrêté du 18 juin 2010 modifié |
 
 12 |
 
-CONDUCTEUR ROUTIER " MARCHANDISES " |
+Conducteur routier de marchandises
+
+option Livraisons de proximité
+
+(première session 2027) |
+
+Arrêté du 26 mars 2025 |
+
+12 |
+
+Conducteur routier de marchandises
+
+option Livraisons longue distance
+
+(première session 2027) |
+
+|
+
+|
+
+CONDUCTEUR ROUTIER " MARCHANDISES " (dernière session 2026) |
 
 Arrêté du 21 juin 2007 |
 
@@ -672,21 +692,45 @@ Arrêté du 24 mars 2016 modifié |
 
 12 |
 
-MAINTENANCE DES VEHICULES-option a-voitures particulières |
+MAINTENANCE DES VEHICULES-option a-voitures particulières (dernière session 2026) |
 
 Arrêté du 22 avril 2014 |
 
 12 |
 
-MAINTENANCE DES VEHICULES-option b-véhicules de transport routier |
+Maintenance des véhicules-option : véhicules légers (première session 2027) |
+
+Arrêté du 26 mars 2025 |
+
+12 |
+
+MAINTENANCE DES VEHICULES-option b-véhicules de transport routier (dernière session 2026) |
 
 Arrêté du 22 avril 2014 |
 
 12 |
 
-MAINTENANCE DES VEHICULES-option c-motocycles |
+Maintenance des véhicules-option : véhicules de transport routier
+
+(première session 2027)
+
+|
+
+Arrêté du 26 mars 2025 |
+
+12 |
+
+MAINTENANCE DES VEHICULES-option c-motocycles (dernière session 2026) |
 
 Arrêté du 22 avril 2014 |
+
+12 |
+
+Maintenance des véhicules-option : motocycles
+
+(première session 2027) |
+
+Arrêté du 26 mars 2025 |
 
 12 |
 
