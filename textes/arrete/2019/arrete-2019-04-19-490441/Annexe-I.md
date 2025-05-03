@@ -210,7 +210,15 @@ PRODUCTION |
 
 Mercatique et gestion appliquée (3)/ Sciences appliquées (2) |
 
-CONDUCTEUR TRANSPORTEUR ROUTIER MARCHANDISES |
+Conducteur routier de marchandises (première session 2028) |
+
+Arrêté du 26 mars 2025 |
+
+PRODUCTION |
+
+Economie - gestion / Physique - chimie |
+
+CONDUCTEUR TRANSPORTEUR ROUTIER MARCHANDISES (dernière session 2027) |
 
 Arrêté du 3 juin 2010 modifié |
 
@@ -424,7 +432,7 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-MAINTENANCE DES VÉHICULES-option A : voitures particulières |
+MAINTENANCE DES VÉHICULES-option A : voitures particulières (dernière session 2027) |
 
 Arrêté du 19 mars 2014 modifié |
 
@@ -432,7 +440,15 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-MAINTENANCE DES VÉHICULES-option B : véhicules de transport routier |
+Maintenance des véhicules-option : véhicules légers (première session 2028) |
+
+Arrêté du 26 mars 2025 |
+
+PRODUCTION |
+
+Economie-gestion/ Physique-chimie |
+
+MAINTENANCE DES VÉHICULES-option B : véhicules de transport routier (dernière session 2027) |
 
 Arrêté du 19 mars 2014 modifié |
 
@@ -440,9 +456,25 @@ PRODUCTION |
 
 Economie-gestion/ Physique-chimie |
 
-MAINTENANCE DES VÉHICULES-option C : motocycles |
+Maintenance des véhicules-option : véhicules de transport routier (première session 2028) |
+
+Arrêté du 26 mars 2025 |
+
+PRODUCTION |
+
+Economie-gestion/ Physique-chimie |
+
+MAINTENANCE DES VÉHICULES-option C : motocycles (dernière session 2027) |
 
 Arrêté du 19 mars 2014 modifié |
+
+PRODUCTION |
+
+Economie-gestion/ Physique-chimie |
+
+Maintenance des véhicules-option : motocycles (première session 2028) |
+
+Arrêté du 26 mars 2025 |
 
 PRODUCTION |
 
