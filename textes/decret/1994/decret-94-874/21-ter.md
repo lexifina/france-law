@@ -1,6 +1,6 @@
 # Article 21 ter
 
-Le fonctionnaire stagiaire a droit au congé de proche aidant prévu au 9° bis de l'article 34 de la loi du 11 janvier 1984 susvisée dans les conditions fixées pour les fonctionnaires par cet article et les dispositions du chapitre Ier du décret n° 2020-1557 du 8 décembre 2020 relatif au congé de proche aidant dans la fonction publique.
+Le fonctionnaire stagiaire a droit au congé de proche aidant prévu au chapitre IV du titre III du livre VI du code général de la fonction publique dans les conditions fixées pour les fonctionnaires par ce chapitre et les dispositions du chapitre Ier du décret n° 2020-1557 du 8 décembre 2020 relatif au congé de proche aidant dans la fonction publique.
 
 Lorsqu'un fonctionnaire bénéficiant du congé de proche aidant est appelé à suivre un stage préalable à une titularisation dans un autre corps, sa nomination en qualité de stagiaire dans le nouveau corps est, s'il en fait la demande, reportée pour prendre effet à la date d'expiration de la période de bénéfice du droit au congé de proche aidant.
 
