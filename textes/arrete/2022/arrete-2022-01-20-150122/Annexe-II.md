@@ -88,15 +88,13 @@ A |
 
 Département des Hauts de Seine (92) |
 
-DNPJ/ OFFICE
+DNPJ/ Sous-direction de la lutte contre la criminalité financière |
 
-ANTI-CYBERCRIMINALITE |
-
-ADJOINT CHEF PLATEFORME PHAROS |
+Officier de liaison à la TRACFIN |
 
 A |
 
-3 ANS |
+3 ans |
 
 8000 |
 
@@ -252,13 +250,13 @@ A |
 
 1 |
 
-CPN FREYMING-MERLEBACH |
+CPN Hagondange |
 
-CHEF SLPJ |
+Chef SLSP |
 
 A |
 
-3 ANS |
+3 ans |
 
 8000 |
 
@@ -446,20 +444,6 @@ A |
 
 1 |
 
-CPN CREIL |
-
-CHEF SLSP/ ADJOINT
-
-AU CHEF SDSP |
-
-A |
-
-3 ANS |
-
-8000 |
-
-1 |
-
 DIPN80/ SOMME-SDN |
 
 CHEF SDN |
@@ -474,13 +458,13 @@ A |
 
 Sud : 1 poste |
 
-CPN NICE |
+CPN Avignon |
 
-ADJOINT AU CHEF DAJ |
+Chef de la division de l'enquête |
 
 A |
 
-3 ANS |
+3 ans |
 
 8000 |
 
@@ -610,9 +594,9 @@ A |
 
 1 |
 
-CPN SARCELLES |
+CPN Gonesse |
 
-CHEF UAO |
+Chef SLPJ |
 
 A |
 
@@ -957,3 +941,21 @@ A |
 Direction du renseignement de la Préfecture de Police : 1 poste |
 
 7) DIRECTION DE LA SECURITE INTERIEURE : 5 |
+
+8) Académie de police : 1 |
+
+Académie de police/ Centre national de formation motocyclistes de la police nationale |
+
+Adjoint chef de centre national |
+
+A |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+NOTA :
+
+Conformément à l'article 5 de l'arrêté du 30 juillet 2025 (NOR : INTC2522300A), ces dispositions, dans leur rédaction résultant de l'arrêté précité, entrent en vigueur le 5 mai 2025.
