@@ -1,0 +1,9 @@
+# Réponse à la question n° 1594
+
+- Question : [1594](1594.md) — Question n° 1594 — Mécanisme « d'écocontribution » ciblant les poids lourds
+
+## Réponse
+
+*JO du 2025-05-06, page 3298*
+
+Le cadre législatif applicable à l'écocontribution envisagée par la région Grand Est relève l'ordonnance n° 2023-661 du 26 juillet 2023 prise en application de l'article 137 de la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience. Ce dispositif complète la possibilité offerte aux régions qui le souhaitaient d'obtenir la mise à disposition d'une partie des routes nationales non concédées, telle que prévue par la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale. Elle traduit la volonté du Gouvernement d'accompagner les collectivités et notamment les régions dans la mise en œuvre de leurs compétences en termes d'organisation des mobilités à l'échelle régionale. Si l'Etat a fixé le cadre législatif, c'est aux collectivités intéressées que revient la décision de mettre en œuvre, ou non, le dispositif sur leur territoire, en appréciant, notamment, l'équilibre du financement des mobilités à l'échelle régionale, les spécificités des réseaux routiers concernés, la typologie des flux de trafic et l'environnement économique. Les textes laissent ainsi aux collectivités une importante marge de manœuvre dans les modalités d'application de l'écocontribution tant au niveau du périmètre assujetti, qu'au niveau des taux ou des exonérations applicables. La région Grand Est a par ailleurs l'obligation de mener les concertations nécessaires avec, notamment, les différents acteurs socio-économiques concernés pour évaluer les impacts de son projet, et, le cas échéant, mettre en œuvre les dispositifs d'accompagnement adaptés.
