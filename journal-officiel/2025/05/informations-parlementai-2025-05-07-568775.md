@@ -1,0 +1,44 @@
+# Ordre du jour
+
+- Nature : Informations Parlementaires
+- Publication : 2025-05-07
+- JO n° : 0107
+- NOR : INPA2513584X
+- Origine : JORF n°0107 du 7 mai 2025
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051568775
+
+## Article
+
+Assemblée nationale
+
+Session ordinaire 2024-2025
+
+Mercredi 7 mai 2025
+
+A 14 heures. - 1re séance publique :
+
+1. Questions au Gouvernement.
+
+2. Suite de la discussion de la proposition de loi, adoptée par le Sénat après engagement de la procédure accélérée, relative à la lutte contre l'antisémitisme dans l'enseignement supérieur (n° 1009 et n° 1357).
+
+Rapport de Mme Constance Le Grip et M. Pierre Henriet, au nom de la commission des affaires culturelles et de l'éducation.
+
+3. Suite de la discussion de la proposition de loi de M. Jiovanny William et plusieurs de ses collègues visant à préserver les droits des victimes dépositaires de plaintes classées sans suite (n° 1138 et n° 1353).
+
+Rapport de M. Jiovanny William, au nom de la commission des lois constitutionnelles, de la législation et de l'administration générale de la République.
+
+4. Suite de la discussion de la proposition de loi de M. Guillaume Garot et plusieurs de ses collègues visant à lutter contre les déserts médicaux, d'initiative transpartisane (n° 966 et n° 1180).
+
+Rapport de M. Guillaume Garot, au nom de la commission des affaires sociales.
+
+5. Suite de la discussion, en deuxième lecture, de la proposition de loi, modifiée par le Sénat, créant l'homicide routier et visant à lutter contre la violence routière (n° 157 et n° 1354).
+
+Rapport de MM. Éric Pauget et Éric Pauget, au nom de la commission des lois constitutionnelles, de la législation et de l'administration générale de la République.
+
+6. Suite de la discussion de la proposition de résolution européenne visant à étendre les compétences du Parquet européen aux infractions à l'environnement (n° 707 et n° 913).
+
+Rapport de Mme Naïma Moutchou, au nom de la commission des affaires européennes.
+
+A 21 h 30. - 2e séance publique :
+
+Suite de l'ordre du jour de la première séance.
