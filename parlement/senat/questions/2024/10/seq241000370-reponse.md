@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000370
+
+- Question : [SEQ241000370](seq241000370.md) — Fraude de la régie autonome des transports parisiens au contrôle technique de ses bus
+
+## Réponse
+
+*Transports, JO du 2025-05-08, page 2308*
+
+La RATP ayant sollicité le 30 août 2024 l'analyse de l'Etat sur sa procédure d'acquittement du voyant « moteur » du tableau de bord de ses bus préalablement à leur passage au contrôle technique, le ministre chargé des transports a saisi l'Inspection générale du développement durable (IGEDD). La mission de l'IGEDD a rendu son rapport, consultable via le lien suivant : https://www.igedd.developpement-durable.gouv.fr/la-procedure-d-acquittement-du-voyant-moteur-a4152.html La mission a conclu que la procédure d'acquittement ne présentait pas de risque pour la sécurité des autobus. Cette procédure porte sur le voyant on board diagnostic (OBD) dont l'allumage signale un dysfonctionnement du système de traitement des émissions polluantes. L'allumage de ce voyant « moteur » lors du trajet vers le centre de contrôle technique ne se produit que sur les véhicules de normes Euro IV, Euro V et EEV, âgés de plus de dix ans, qui devraient être progressivement retirés du service. Au cours de la mission menée par l'IGEDD il est apparu que les informations disponibles ne permettaient pas de trancher sur le caractère significatif du défaut résultant de l'allumage du voyant moteur. La RATP a proposé un plan d'action reposant sur trois points : renforcer la procédure de maintenance préventive, en procédant à une vérification du filtre à particules avant chaque contrôle technique, adapter la procédure d'acquittement, dans le but de recueillir des données pendant une phase d'observation de trois mois puis à l'issue de cette période, établir un bilan lequel l'entreprise exposera ses conclusions sur la maintenance du système antipollution et sur la procédure d'acquittement. L'IGEDD a émis un avis favorable sur ce plan d'action.
