@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001309
+
+- Question : [SEQ241001309](seq241001309.md) — Situation des centrales nucléaires françaises
+
+## Réponse
+
+*Industrie et énergie, JO du 2025-05-08, page 2303*
+
+Le Gouvernement accorde la plus grande importance à la sûreté nucléaire, sur laquelle repose la politique de relance du secteur nucléaire. L'Autorité de sûreté nucléaire et de radioprotection (ASNR), indépendante tant du Gouvernement que des exploitants nucléaires, réunit les fonctions d'expertise et de prise de décision en la matière. Elle est notamment chargée du contrôle de la sûreté des réacteurs nucléaires de production d'électricité et met en oeuvre ses missions en s'appuyant sur des inspections régulières et sur l'examen des dossiers de modification des installations soumis à déclaration ou à son autorisation préalable. Tous les dix ans, la loi impose également à l'exploitant, EDF, de procéder à un réexamen de la sûreté de chaque réacteur : à cette occasion, la conformité au référentiel d'autorisation initial est vérifiée et des améliorations de sûreté sont également mises en oeuvre pour atteindre un niveau d'exigence renforcé. Ce niveau d'exigence tient compte du retour d'expérience, des meilleures techniques disponibles et des travaux de l'Agence internationale de l'énergie atomique. L'ASNR se prononce à l'issue de chaque réexamen sur la poursuite du fonctionnement du réacteur concerné. Le Gouvernement conduit sa politique de relance du secteur nucléaire sous le contrôle de l'ASNR en matière de sûreté. En particulier, la stratégie énergétique française prévoit qu'EDF conduise des études pour poursuivre le fonctionnement des réacteurs électronucléaires après 50 ans puis 60 ans tant que toutes les exigences de sûreté applicables sont respectées. L'ASNR se prononcera le moment venu, au regard des justifications fournies par EDF, sur la capacité de chaque réacteur à poursuivre son fonctionnement.
