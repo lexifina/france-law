@@ -1,0 +1,9 @@
+# Réponse à la question n° 1110
+
+- Question : [1110](1110.md) — Question n° 1110 — Tribune départementalisée dans un magazine régional
+
+## Réponse
+
+*JO du 2025-05-13, page 3408*
+
+L'article L. 4132-23-1 du code général des collectivités territoriales (CGCT) dispose que « lorsque la région diffuse, sous quelque forme que ce soit, un bulletin d'information générale sur les réalisations et la gestion du conseil régional, un espace est réservé à l'expression des groupes d'élus. Les modalités d'application de cette disposition sont définies par le règlement intérieur. ». Les articles L. 2121-27-1 et L. 3121-24-1 du même code prévoient des dispositions similaires pour les conseillers municipaux et départementaux. Comme l'a rappelé le ministre de la cohésion des territoires et des relations avec les collectivités territoriales dans sa réponse à la question écrite n° 27196 publiée le 28 avril 2022, pour estimer si un bulletin d'information doit réserver un espace à l'expression des conseillers d'opposition, la jurisprudence ne s'attache pas à la périodicité ou à la fréquence de celui-ci mais plutôt à son caractère général. Il convient de s'assurer que la publication locale en question constitue bien un moyen « d'information générale sur les réalisations et la gestion de l'organe délibérant » afin de déterminer si les élus de l'opposition peuvent disposer d'un droit de réponse. Par conséquent, sous réserve de l'appréciation souveraine du juge administratif, lorsqu'un bulletin d'information générale sur les réalisations et la gestion du conseil régional comprend une ou plusieurs éditions distinctes selon les départements et pour lesquelles les informations sur les réalisations et la gestion du conseil régional sont adaptées au territoire, un espace doit être réservé à l'expression adaptée des groupes d'élus pour chacune d'entre elles.
