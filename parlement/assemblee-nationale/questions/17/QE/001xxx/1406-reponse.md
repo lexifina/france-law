@@ -1,0 +1,9 @@
+# Réponse à la question n° 1406
+
+- Question : [1406](1406.md) — Question n° 1406 — Modalités d'affectation du loyer de la chasse en Alsace et en Moselle
+
+## Réponse
+
+*JO du 2025-05-13, page 3412*
+
+Les articles L. 429-2 à L. 429-18 du code de l'environnement définissent les modalités d'administration de la chasse dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. L'article L. 429-2 du code de l'environnement rappelle que le droit de chasse est administré par la commune au nom et pour le compte des propriétaires. La chasse sur le territoire communal est louée pour une durée de neuf ans par adjudication publique (art. L. 429-7). Les revenus issus de cette location sont versés à la commune, puis répartis entre les propriétaires proportionnellement à la contenance cadastrale des fonds inclus dans le territoire de chasse (art. L. 429-11 et L. 429-12). Dans ce cadre, les propriétaires peuvent se réserver l'exercice du droit de chasse sous certaines conditions (art. L. 429-3 et L. 429-4). L'article L. 429-13 alinéa 1 du code de l'environnement dispose que « le produit de la chasse est abandonné à la commune lorsqu'il en a été expressément décidé ainsi par les deux tiers au moins des propriétaires représentant les deux tiers au moins des fonds situés sur le territoire communal ». Le législateur a donc souhaité renforcer le caractère express de l'accord préalable des propriétaires afin de faciliter les démarches pour les communes. La jurisprudence confirme cette exigence d'un accord explicite des propriétaires pour l'abandon des revenus de la chasse à la commune. La Cour de cassation a précisé que la décision relative à cet abandon ne peut être prise sans consulter l'ensemble des propriétaires. Afin d'alléger cette procédure, le Gouvernement souligne qu'il s'agirait d'adopter une modification législative, et non réglementaire, portant sur l'article L. 429-13 du code de l'environnement.
