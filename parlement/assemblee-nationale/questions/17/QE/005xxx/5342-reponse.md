@@ -1,0 +1,9 @@
+# Réponse à la question n° 5342
+
+- Question : [5342](5342.md) — Question n° 5342 — Accès des apprentis mineurs au covoiturage dans les territoires ruraux
+
+## Réponse
+
+*JO du 2025-05-13, page 3422*
+
+Aux termes de l'article L. 6222-1 du code du travail, l'apprenti doit être âgé d'au moins seize ans au début de l'apprentissage ou, par exception, d'au moins quinze ans au cours de l'année civile s'il justifie avoir accompli la scolarité du premier cycle de l'enseignement secondaire. En application de l'article 1146 du code civil, les mineurs non émancipés n'ont pas la capacité juridique de signer un contrat. Ainsi, tout mineur, apprenti ou non, qui souhaite contracter un abonnement à un service de mobilité doit obligatoirement faire appel à un majeur disposant de l'autorité parentale au sens des articles L. 371-1 du code civil et suivants. En revanche, aucune disposition légale ou réglementaire ne s'oppose à ce qu'un mineur âgé de seize ou dix-sept ans puisse payer directement un service de mobilité. Aux termes de l'article L. 1231-15 du code des transports, les collectivités territoriales qui ont la qualité d'autorité organisatrice des mobilités (AOM) peuvent concourir au développement du covoiturage en : - mettant en place un schéma d'aires de covoiturage ; - mettant à disposition du public des solutions de covoiturage pour faciliter la mise en relation de conducteurs et de passagers (plateforme) ; -mettant en place des allocations au conducteur et/ou aux passagers qui ont recours au covoiturage. Le Gouvernement confirme son attachement à l'équité entre les usagers du service public sur l'ensemble du territoire. Ainsi, les collectivités territoriales sont compétentes pour l'édiction des règles tarifaires et des modalités de prise en charge financière ou d'abonnement par l'usager, en les adaptant aux circonstances locales afin de les rendre attractives et accessibles à tous, dans les départements ruraux comme dans les grandes agglomérations.
