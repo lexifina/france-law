@@ -1,0 +1,3 @@
+# Article 12 bis
+
+En application de l'article 6 de l'arrêté du 20 novembre 2021 susvisé, les produits phytopharmaceutiques n'ayant pas fait l'objet d'une évaluation et d'une autorisation pour une utilisation sur une culture attractive en floraison en application de l'article 2 de ce même arrêté peuvent, en l'absence d'un autre produit ainsi autorisé disponible, être utilisés sur les vignes en floraison dans le cadre de la lutte obligatoire contre le vecteur de la flavescence dorée. Les produits sont appliqués dans les deux heures qui précèdent le coucher du soleil et dans les trois heures qui suivent le coucher du soleil, conformément aux dispositions du premier alinéa de l'article 3 du même arrêté.
