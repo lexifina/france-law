@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250102969
+
+- Question : [SEQ250102969](seq250102969.md) — Mise en oeuvre de l'avance immédiate de crédit d'impôt pour les structures publiques
+
+## Réponse
+
+*Comptes publics, JO du 2025-05-15, page 2438*
+
+Les centres communaux et intercommunaux d'action sociale (CCAS/CIAS) intervenant dans le secteur de l'aide à la personne peuvent d'ores et déjà proposer l'avance immédiate de crédit d'impôt à leurs bénéficiaires. Ainsi, si le CCAS/CIAS joue le rôle d'un organisme de service à la personne (OSP) auprès de particuliers, les règles d'utilisation du dispositif lui permettent de demander l'accès aux API (« interface de programmation d'application », interface logicielle qui permet de connecter un logiciel ou un service à un autre logiciel ou service afin d'échanger des données et des fonctionnalités) tierce déclaration Cesu (si la structure remplit le rôle d'un mandataire « simple ») ou à l'API tiers de prestation, qui permettent d'activer le service Cesu + et le service d'avance immediate de credit d'impôt des services à la personne. Afin d'être habilité à ces API, le CCAS/CIAS doit remplir les critères d'éligibilité suivants : - disposer d'un agrément, d'une autorisation ou être déclaré auprès de la direction générale des entreprises (DGE) ; - être à jour de ses obligations sociales, fiscales et ne pas avoir fait l'objet d'une infraction au travail dissimulé au cours des 5 dernières années ; - disposer d'un logiciel compatible avec le fonctionnement de l'API, le dispositif étant entièrement dématérialisé. Si le CCAS/CIAS passe par l'API Tiers de prestation, il doit de plus disposer d'un RIB permettant à l'Urssaf de procéder à des virements et des prélèvements bancaires. En effet, dans le dispositif prestataire, si le particulier est en situation d'impayé, l'Urssaf prélèvera automatiquement sur le compte bancaire de l'OSP les sommes avancées (correspondant au montant du reste à charge du particulier).
