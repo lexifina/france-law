@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001404
+
+- Question : [SEQ241001404](seq241001404.md) — Seuil des dotations de solidarité rurale et urbaine
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-05-15, page 2415*
+
+Il existe des garanties globales de perte d'éligibilité aux fractions « bourg-centre » et « cible » de la dotation de solidarité rurale (DSR), attribuées l'année de la perte d'éligibilité pour en atténuer les effets. Ces garanties non renouvelables correspondent à 50% des attributions de DSR « bourg-centre » et « cible » perçues l'année précédente. S'agissant de la mise en place d'un dispositif de garantie destiné spécifiquement aux communes qui connaitraient un passage de leur population au-dessus du seuil de 10 000 habitants, la population constitue un critère parmi d'autres du calcul de la DSR. Il n'est donc pas possible de protéger davantage les seules communes qui perdent leur éligibilité en raison de la hausse de leur population, par rapport aux communes qui la perdraient en raison d'un autre critère, au risque d'une rupture d'égalité. En effet, les communes qui dépassent le seuil des 10 000 habitants perdent effectivement leur éligibilité à la DSR, mais deviennent éligibles à la dotation de solidarité urbaine et de cohésion sociale (DSU). Aussi, à enveloppe constante, ce type de garantie est financé par une réduction des attributions des autres communes. Ainsi, la mise en place d'un mécanisme d'atténuation des effets de seuil reviendrait à diminuer les attributions de l'ensemble des communes rurales pour financer une garantie à destination de quelques-unes qui, en dépassant 10 000 habitants, sont potentiellement éligibles à la dotation de solidarité urbaine. Enfin, cela reviendrait à alourdir le calcul de la DSR jugé déjà très complexe compte tenu des critères législatifs et pourrait amener à en retarder la notification.
