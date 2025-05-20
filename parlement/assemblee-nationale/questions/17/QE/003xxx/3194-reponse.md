@@ -1,0 +1,9 @@
+# Réponse à la question n° 3194
+
+- Question : [3194](3194.md) — Question n° 3194 — SNCF-Ouigo
+
+## Réponse
+
+*JO du 2025-05-20, page 3725*
+
+Le Gouvernement est particulièrement attentif au maintien d'une offre ferroviaire de qualité et diversifiée, notamment vis-à-vis du service OUIGO de SNCF Voyageurs, qui assure une offre à bas coût importante au sein du marché ferroviaire français. Il rappelle que ce segment du marché, correspondant à une partie des services librement organisés, est totalement ouvert à la concurrence et ne relève pas de l'offre ferroviaire de service public constituée des services express régionaux, organisés par les régions, d'une part, et des lignes d'équilibre du territoire « Intercités », d'autre part, organisées par l'État. Pour autant, SNCF Voyageurs a assuré au Gouvernement que les rames immobilisées ces derniers mois ne sont pas le résultat d'une dégradation inhabituelle du matériel mais celui d'une série exceptionnelle de heurts dans un contexte de tempêtes survenues en novembre et décembre et qu'en aucun cas la sécurité ferroviaire n'a été compromise et aucun essieu en mauvais état n'a circulé. La maintenance des rames étant indexée sur les kilomètres parcourus, les rames OUIGO qui parcourent davantage de kilomètres sont plus souvent en maintenance, sans que cela signifie de dysfonctionnements. SNCF Voyageurs a initié un programme de rénovation et d'augmentation du parc des rames OUIGO, qui devrait se traduire par une augmentation du parc d'ici 2027 ; celui passerait de 38 à 50 rames. 40 rames seront entièrement réaménagées pour offrir un meilleur confort et 10 rames conserveront leur design actuel, mais seront tout de même rénovées. La première rame rénovée est en circulation depuis janvier 2025. Le Gouvernement est attentif à l'évolution de ce programme de rénovation, qui devrait permettre à l'offre ferroviaire à bas coût proposée par OUIGO de rester un service assurant une sécurité exemplaire.
