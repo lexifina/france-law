@@ -1,4 +1,4 @@
-# Article 18 bis
+# Article 18
 
 Les membres de la délégation du personnel au comité social et économique sont élus pour 4 ans maximum, sauf accord d'entreprise prévoyant une durée inférieure, ne pouvant être inférieure à 2 ans.
 

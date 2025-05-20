@@ -1,4 +1,4 @@
-# Article 24 bis
+# Article 24
 
 Le comité social et économique est présidé par le chef d'établissement ou son représentant dûment mandaté, assisté éventuellement de trois collaborateurs qui ont voix consultative.
 

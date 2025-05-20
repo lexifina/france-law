@@ -1,4 +1,4 @@
-# Article 27 bis
+# Article 27
 
 Le comité central comprend le chef d'entreprise ou son représentant dûment mandaté et les membres élus du ou des comité(s) d'établissement désignés par ces derniers conformément aux dispositions législatives et/ ou réglementaires.
 

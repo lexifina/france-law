@@ -1,3 +1,3 @@
-# Article 13 bis
+# Article 13
 
 Il sera fait application des dispositions législatives et réglementaires en vigueur.

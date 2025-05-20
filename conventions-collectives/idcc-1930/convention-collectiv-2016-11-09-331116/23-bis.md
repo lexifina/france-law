@@ -1,4 +1,4 @@
-# Article 23 bis
+# Article 23
 
 Le financement des comités sociaux et économiques est assuré conformément aux dispositions législatives et réglementaires en vigueur.
 

@@ -1,4 +1,4 @@
-# Article 21 bis
+# Article 21
 
 Le chef d'entreprise laissera aux membres du comité titulaires ou suppléants faisant fonction de titulaires le temps nécessaire à l'exercice de leurs fonctions selon les dispositions législatives en vigueur. Ce temps leur sera payé comme temps de travail.
 

@@ -1,4 +1,4 @@
-# Article 15 bis
+# Article 15
 
 Les modalités d'organisation et de déroulement des opérations électorales font l'objet d'un accord entre le chef d'entreprise et les organisations syndicales intéressées, après les avoir invités selon les dispositions législatives en vigueur.
 

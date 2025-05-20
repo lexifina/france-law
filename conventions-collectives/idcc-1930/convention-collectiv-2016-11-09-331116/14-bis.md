@@ -1,3 +1,3 @@
-# Article 14 bis
+# Article 14
 
 Il sera fait application des dispositions législatives et réglementaires en vigueur.

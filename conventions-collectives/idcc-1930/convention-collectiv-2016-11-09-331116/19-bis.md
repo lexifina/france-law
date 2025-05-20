@@ -1,3 +1,3 @@
-# Article 19 bis
+# Article 19
 
 Il sera fait application des dispositions légales et réglementaires en vigueur.
