@@ -1,0 +1,9 @@
+# Réponse à la question n° 4861
+
+- Question : [4861](4861.md) — Question n° 4861 — Financement public de maternités privées
+
+## Réponse
+
+*JO du 2025-05-20, page 3699*
+
+Le système de santé français repose sur une participation complémentaire et équilibrée entre établissements publics et établissements privés, à but lucratif et non lucratif. Depuis la mise en œuvre de la tarification à l'activité, ce mécanisme de financement assure un financement public à l'ensemble des établissements selon les mêmes règles. Les spécificités de chacun des statuts sont également prises en compte, notamment s'agissant de la rémunération des médecins dès lors que ceux-ci sont salariés. Tous les établissements, y compris les maternités, sont par ailleurs éligibles aux mêmes aides de l'Agence régionale de santé (ARS). L'enjeu est d'assurer l'équilibre et la pertinence de l'allocation des financements entre établissements, au vu des besoins de santé de nos concitoyens. Ce soutien exceptionnel de 300 000 euros par l'ARS Bretagne visait à répondre à une situation d'urgence : la démission de quatre pédiatres menaçait la continuité des soins et donc le maintien de la maternité. Ce soutien ciblé ne remet nullement en cause la priorité donnée au service public. En 2024, l'ARS a versé près de 29 millions d'euros d'aides de fin de campagne aux établissements du territoire, dont la très grande majorité au secteur public. L'Etat, par l'intermédiaire de l'ARS, est pleinement engagé pour le soutien de l'activité des maternités, dans les Côtes-d'Armor comme sur l'ensemble du territoire national, tout en assurant la meilleure sécurité et qualité des soins pour les parturientes. Les aides publiques octroyées aux établissements ayant une activité de maternité ne sont pas conditionnés au statut public ou privé, mais à l'objectif de garantir un accès sécurisé, équitable et continu aux soins sur l'ensemble du territoire.
