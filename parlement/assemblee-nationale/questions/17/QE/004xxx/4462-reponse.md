@@ -1,0 +1,9 @@
+# Réponse à la question n° 4462
+
+- Question : [4462](4462.md) — Question n° 4462 — Suppression des chèques-vacances pour les retraités de la fonction publique
+
+## Réponse
+
+*JO du 2025-05-20, page 3615*
+
+Au regard de la situation des finances publiques, la circulaire du 25 juillet 2023 a modifié le champ des bénéficiaires des chèques-vacances dans la fonction publique d'État en réservant, à compter du 1er octobre 2023, les demandes d'ouverture de dossiers pour l'attribution de chèques-vacances aux seuls agents publics civils et militaires, sous conditions de ressources, comme cela est déjà le cas. Le Gouvernement continue de porter une attention particulière aux conditions de vie des agents retraités de l'État. En effet, les agents qui ont ouvert un plan d'épargne chèques-vacances avant le 1er octobre 2023 continuent de bénéficier de leur épargne mensuelle pour la durée restant à courir. De plus, les agents retraités de l'État continuent de bénéficier des prestations sociales (notamment les sorties culturelles et de loisir) attribuées localement par les sections régionales interministérielles d'action sociale (SRIAS) et bénéficient également d'un accès aux restaurants inter-administratifs où ils peuvent bénéficier de subventions. Par ailleurs, l'accompagnement des agents pensionnés est maintenu par la voie de l'aide au maintien à domicile (AMD). L'État employeur participe en effet aux frais engagés par ses retraités (pensionnés civils et ouvriers de l'État de plus de 55 ans n'entrant pas dans le champ des allocataires de l'aide personnalisée à l'autonomie, APA) pour leur maintien à domicile et la prévention de leur perte d'autonomie. Enfin, les agents retraités de l'État bénéficieront du déploiement actuel du dispositif de protection sociale complémentaire cofinancé par l'État et qui offre une solution de couverture des frais de santé à un tarif plus avantageux.
