@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250303905
+
+- Question : [SEQ250303905](seq250303905.md) — Renforcement des sanctions contre la maraude illégale des voitures de transport avec chauffeur
+
+## Réponse
+
+*Transports, JO du 2025-05-22, page 2601*
+
+Le code des transports réglemente le transport public particulier de personnes qui comprend notamment les taxis et les voitures de transport avec chauffeur (VTC). Il pose un cadre différencié d'exercice de ces professions, soumises à des obligations et des droits en partie distincts. En particulier, les taxis ont l'exclusivité de la maraude (circulation ou stationnement sur la voie publique à la recherche de clientèle) dans le périmètre de leur autorisation de stationnement (ADS). Ils peuvent également opérer sur réservation préalable. Les VTC, eux, ne peuvent opérer que sur réservation préalable. Ainsi, l'article L. 3120-2-II-2° du code des transports prévoit qu'un conducteur n'exploitant pas une ADS ne peut « s'arrêter, stationner ou circuler sur une voie ouverte à la circulation en quête de client ». Cette pratique est sanctionnée par une contravention de 5ème classe sur le fondement de l'article R. 3124-11 du code des transports. Par ailleurs, si le conducteur prend alors en charge un client, il commet le délit prévu à l'article L. 3124-12 du code des transports, puni d'un an d'emprisonnement et de 15 000 euros d'amende. L'impossibilité pour les plateformes de mise en relation d'informer un client de la disponibilité et de la localisation d'un VTC non réservé (III. 1° du L. 3120-2 du code des transports) est sanctionnée d'une contravention de la 5ème classe prévue par l'article R. 3124-11 du code des transports. À la suite de son annulation en 2016 par le Conseil d'État, cette disposition a été rétablie par le décret n° 2017-483 du 6 avril 2017 relatif aux activités de transport public particulier de personnes et actualisant diverses dispositions du code des transports.
