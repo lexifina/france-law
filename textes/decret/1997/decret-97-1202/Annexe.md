@@ -44,11 +44,11 @@ III de l'article R. 214-94 du code rural et de la pêche maritime. |
 
 Expérimentation animale-utilisations de singes des genres Gorilla, Pan et Pongo. |
 
-IV de l'article R. 214-94 du code rural et de la pêche maritime. |
+IV de l'article R. 214-94 du code rural et de la pêche maritime . |
 
 Dérogations aux conditions d'hébergement et d'entretien des animaux utilisés à des fins scientifiques. |
 
-Article R. 214-95 du code rural et de la pêche maritime. |
+Article R. 214-95 du code rural et de la pêche maritime . |
 
 2. Décisions administratives individuelles prises par le ministre chargé de l'agriculture.
 
@@ -60,13 +60,13 @@ Article R. 153-23 du code forestier. |
 
 Interdiction de commercialisation de matériels forestiers de reproduction susceptibles d'avoir une influence défavorable sur la sylviculture française en raison de leurs caractères génétiques. |
 
-Article R. 153-22 du code forestier. |
+Article R. 153-22 du code forestier . |
 
 Qualité et sécurité des productions végétales et animales |
 
 Reconnaissance des organismes à vocation sanitaire ayant une aire d'intervention nationale. |
 
-Article R. 201-17 du code rural et de la pêche maritime. |
+Article R. 201-17 du code rural et de la pêche maritime . |
 
 Agrément des laboratoires d'analyse d'échantillons prélevés dans le cadre des contrôles officiels réalisés par les services de l'Etat compétents ou leurs délégataires, en vue d'assurer le respect des dispositions des titres II, III et V du livre II du code rural et de la pêche maritime et des textes pris pour leur application. |
 
@@ -82,7 +82,7 @@ Décret n° 80-478 du 16 juin 1980 portant règlement d'administration publique 
 
 Agrément des organismes religieux habilités à désigner des sacrificateurs autorisés à pratiquer l'abattage rituel. |
 
-Article R. 214-75 du code rural et de la pêche maritime. |
+Article R. 214-75 du code rural et de la pêche maritime . |
 
 Autorisation d'utilisation, de dissémination et de mise sur le marché des organismes génétiquement modifiés. |
 
@@ -94,15 +94,17 @@ Décret n° 94-510 du 23 juin 1994 relatif à la commercialisation des plantes o
 
 Décret n° 95-487 du 28 avril 1995 fixant les conditions de dissémination volontaire des animaux d'élevage génétiquement modifiés, art. 2 et 13.
 
-Article R. 533-23, R. 533-23-1 et R. 533-23-1 du code de l'environnement. |
+Article R. 533-23, R. 533-23-1 et R. 533-23-1 du code de l'environnement.
+
+|
 
 Reconnaissance des organismes certificateurs prévue au 2° de l'article L. 254-2 du code rural et de la pêche maritime. |
 
-Article R. 254-2 du code rural et de la pêche maritime. |
+Article R. 254-2 du code rural et de la pêche maritime . |
 
 Agrément des matériels d'identification des animaux des espèces bovine, ovine, caprine, porcine et équine et des carnivores domestiques. |
 
-Article R. 212-72 du code rural et de la pêche maritime. |
+Article R. 212-72 du code rural et de la pêche maritime . |
 
 Habilitation à procéder à l'identification de chiens et chats prévue à l'article L. 212-10 du code rural et de la pêche maritime. |
 
@@ -110,43 +112,59 @@ I de l'article R. 212-65 du code rural et de la pêche maritime. |
 
 Habilitation à procéder à l'examen des qualifications professionnelles des ressortissants d'Etats membres de l'Union européenne ou d'autres Etats partie à l'accord sur l'Espace économique européen pour la profession d'identificateur de chiens et chats dans le cadre de la libre prestation de service et de la liberté d'établissement. |
 
-V et VI de l'article R. 212-65 du code rural et de la pêche maritime. |
+V et VI de l'article R. 212-65 du code rural et de la pêche maritime . |
 
 Agrément pour la réalisation d'essais officiellement reconnus des produits phytopharmaceutiques. |
 
-Article R. 253-38 du code rural et de la pêche maritime. |
+Article R. 253-38 du code rural et de la pêche maritime . |
 
 Reconnaissance des organismes certificateurs des activités de vente, de distribution à titre gratuit, d'application et de conseil à l'utilisation de produits phytopharmaceutiques. |
 
-Article R. 254-2 du code rural et de la pêche maritime. |
+Article R. 254-2 du code rural et de la pêche maritime . |
+
+Agrément des organismes et des établissements de sélection |
+
+Article R. 653-3 du code rural et de la pêche maritime |
+
+Agrément des organismes tiers en charge des activités de contrôle des performances des équidés |
+
+Article R. 653-18 du code rural et de la pêche maritime |
+
+Autorisation délivrée à la fédération mentionnée à l'article R. 131-14 du code du sport pour la transmission de données à la base nationale des données zootechniques |
+
+Article R. 653-24 du code rural et de la pêche maritime |
+
+Décisions prises pour l'application de l'article L. 653-16 du code rural et de la pêche maritime |
+
+Article R. 653-98 |
 
 Agrément des producteurs de matériels de multiplication végétative de vigne. |
 
-Article R. 661-30 du code rural et de la pêche maritime. |
+Article R. 661-30 du code rural et de la pêche maritime . |
 
 Autorisation de mise sur le marché des produits phytopharmaceutiques en application de l'article 53 du règlement CE n° 1107/2009. |
 
-Article R. 253-6 du code rural et de la pêche maritime. |
+Article R. 253-6 du code rural et de la pêche maritime . |
 
 Organismes professionnels agricoles |
 
 Agrément des fonds de mutualisation. |
 
-Article R. 361-60 du code rural et de la pêche maritime. |
+Article R. 361-60 du code rural et de la pêche maritime . |
 
 Agrément des fédérations de sociétés coopératives agricoles. |
 
-Article R. 527-4 du code rural et de la pêche maritime. |
+Article R. 527-4 du code rural et de la pêche maritime . |
 
 Approbation du budget de l'association nationale de révision. |
 
-Article R. 527-8 du code rural et de la pêche maritime. |
+Article R. 527-8 du code rural et de la pêche maritime . |
 
 Pêches et cultures marines |
 
 Délivrance des permis de mise en exploitation des navires de pêche d'une longueur supérieure à 25 mètres. |
 
-Article R. 921-10 du code rural et de la pêche maritime. |
+Article R. 921-10 du code rural et de la pêche maritime . |
 
 Répartition des quotas de pêche. |
 
@@ -188,18 +206,18 @@ Décisions à caractère financier relatives à l'exécution des décisions de j
 
 Agrément des centres de formation des inspecteurs chargés de procéder au contrôle des matériels mentionnés à l'article L. 256-1 du code rural et de la pêche maritime. |
 
-Article R. 256-30 du code rural et de la pêche maritime. |
+Article R. 256-30 du code rural et de la pêche maritime . |
 
 Agrément des géomètres-experts en matière d'aménagement foncier. |
 
-Article R. 121-25-1 du code rural et de la pêche maritime. |
+Article R. 121-25-1 du code rural et de la pêche maritime . |
 
 Reconnaissance des accords collectifs sur la qualité nutritionnelle. |
 
-Article R. 230-36 du code rural et de la pêche maritime. |
+Article R. 230-36 du code rural et de la pêche maritime . |
 
 Certification environnementale des exploitations agricoles |
 
 Agrément des organismes chargés de la certification environnementale des exploitations agricoles prévue à l'article L. 611-6 du code rural et de la pêche maritime. |
 
-Article R. 617-28 du code rural et de la pêche maritime. |
+Article R. 617-28 du code rural et de la pêche maritime . |

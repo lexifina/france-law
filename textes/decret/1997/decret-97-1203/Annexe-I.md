@@ -44,18 +44,26 @@ Article R.* 141-12 du code rural et de la pêche maritime.
 
 Agrément prévu au I de l'article L. 254-1 du code rural et de la pêche maritime pour l'exercice des activités dans le domaine des produits phytopharmaceutiques listées au II de cet article |
 
-Article R. 254-15 du code rural et de la pêche maritime |
+Article R. 254-15 du code rural et de la pêche maritime
+
+|
 
 Décisions de suspension et de retrait prévues à l'article L. 254-9 du code rural et de la pêche maritime, de l'agrément prévu au I de l'article L. 254-1 pour l'exercice des activités dans le domaine des produits phytopharmaceutiques listées au II de cet article |
 
-Article R. 254-27 du code rural et de la pêche maritime |
+Article R. 254-27 du code rural et de la pêche maritime
 
-Licences de chef de centre d'insémination ou d'inséminateur équin délivrées aux ressortissants d'etats membres de l'union européenne ou d'autres etats partie à l'accord sur l'espace économique européen prévus à l'article L. 653-13 du code rural et de la pêche maritime |
+|
 
-I de l'article R. 653-96 du code rural et de la pêche maritime |
+Enregistrement pour l'exercice des activités de mise en place, de collecte et de conditionnement du sperme des équidés |
+
+Articles L. 653-11 et R. 653-57 du code rural et de la pêche maritime
+
+|
 
 Habilitation à procéder à l'examen des qualifications professionnelles des ressortissants d'Etats membres de l'Union européenne ou d'autres Etats partie à l'accord sur l'Espace économique européen pour la profession de chef de centre d'insémination ou d'inséminateur équins dans le cadre de la libre prestation de service et de la liberté d'établissement |
 
-IV et V de l'article R. 653-96 du code rural et de la pêche maritime |
+IV et V de l'article R. 653-96 du code rural et de la pêche maritime
+
+|
 
 Emission des titres de perception exécutoires correspondant à des créances relatives à des dossiers relevant de la compétence du niveau régional (reversement de fonds sur dépenses mandatées au niveau régional, fonds de concours, recettes des comptes spéciaux du Trésor).
