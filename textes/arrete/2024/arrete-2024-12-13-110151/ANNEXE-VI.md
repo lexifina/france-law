@@ -2,19 +2,19 @@
 
 TABLEAU DE CORRESPONDANCE ENTRE ÉPREUVES OU UNITÉS DE L'ANCIEN ET DU NOUVEAU DIPLÔME
 
-Baccalauréat professionnel spécialité &laquo; Maintenance environnementale et propreté des espaces urbains &raquo;
+Baccalauréat professionnel spécialité “ maintenance environnementale et propreté des espaces urbains ”
 
 Baccalauréat professionnel
 
-&laquo; Gestion des pollutions et protection de l'environnement &raquo;
+“ Gestion des pollutions et protection de l'environnement ”
 
-défini par l'arrêté du 8 juillet 2015
+défini par l'arrêté du 17 juillet 2012
 
 (Dernière session : 2027) |
 
 Baccalauréat professionnel
 
-&laquo; Maintenance environnementale et propreté des espaces urbains &raquo;
+“ Maintenance environnementale et propreté des espaces urbains ”
 
 défini par le présent arrêté
 
@@ -28,11 +28,11 @@ Epreuves ou sous-épreuves |
 
 Unités |
 
-E1 - Epreuve scientifique et technique |
+E1-Epreuve scientifique et technique |
 
 |
 
-E1 - Epreuve scientifique et technique |
+E1-Epreuve scientifique et technique |
 
 |
 
@@ -60,11 +60,11 @@ E2 : prestations de maintenance environnementale |
 
 U2 |
 
-E3 - Epreuve pratique prenant en compte la formation en milieu professionnel |
+E3-Epreuve pratique prenant en compte la formation en milieu professionnel |
 
 |
 
-E3 - Epreuve pratique prenant en compte la formation en milieu professionnel |
+E3-Epreuve pratique prenant en compte la formation en milieu professionnel |
 
 |
 
@@ -76,9 +76,7 @@ Sous-épreuve E31 : Gestion des activités de nettoiement et propreté des espac
 
 U31 |
 
-Sous-épreuve E32 : organisation prévisionnelle de
-
-chantier |
+Sous-épreuve E32 : organisation prévisionnelle de chantier |
 
 U32 |
 
@@ -94,15 +92,11 @@ Sous-épreuve E33 : économie-gestion |
 
 U33 |
 
-Sous-épreuve E34 : prévention-santé-
-
-environnement |
+Sous-épreuve E34 : prévention-santé-environnement |
 
 U34 |
 
-Sous-épreuve E34 : prévention-santé-
-
-environnement |
+Sous-épreuve E34 : prévention-santé-environnement |
 
 U34 |
 
@@ -114,11 +108,11 @@ E4 : Epreuve de langue vivante |
 
 U4 |
 
-E5 - Epreuve de français, histoire-géographie et enseignement moral et civique |
+E5-Epreuve de français, histoire-géographie et enseignement moral et civique |
 
 |
 
-E5 - Epreuve de français, histoire-géographie et enseignement moral et civique |
+E5-Epreuve de français, histoire-géographie et enseignement moral et civique |
 
 |
 
@@ -138,15 +132,11 @@ Sous-épreuve E52 : histoire-géographie et éducation civique |
 
 U52 |
 
-E6 : Epreuve d'arts appliqués et cultures
-
-artistiques |
+E6 : Epreuve d'arts appliqués et cultures artistiques |
 
 U6 |
 
-E6 : Epreuve d'arts appliqués et cultures
-
-artistiques |
+E6 : Epreuve d'arts appliqués et cultures artistiques |
 
 U6 |
 
