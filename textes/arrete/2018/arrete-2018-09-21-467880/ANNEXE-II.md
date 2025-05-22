@@ -4,7 +4,7 @@ SITUATION D'ÉVALUATION CERTIFICATIVE DES UNITÉS CAPITALISABLES 3 ET 4 DU DIPL�
 
 Situation d'évaluation certificative des unités capitalisables 3 et 4 :
 
-Le candidat choisit parmi la liste suivante une discipline qui servira de support commun aux épreuves certificatives des UC3 et UC4 :
+Le candidat choisit dans la liste suivante une discipline qui servira de support commun aux épreuves certificatives des UC3 et UC4 :
 
 -dressage ;
 
@@ -139,7 +139,3 @@ Montée |
 Modalité B.-Un entretien portant sur la capacité du candidat à encadrer les sports équestres en sécurité.
 
 Un entretien permettant aux évaluateurs de vérifier la capacité du candidat à encadrer les sports équestres en sécurité pendant dix ou quinze minutes maximum.
-
-NOTA :
-
-Conformément à l'article 8 de l'arrêté du 27 mai 2024 (NOR : SPOV2414673A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er septembre 2024.
