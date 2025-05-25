@@ -66,7 +66,7 @@ Chef du bureau planification |
 
 Chef de la cellule Galiléo à la Direction des affaires internationales stratégiques et technologiques |
 
-France Stratégie |
+Haut-Commissariat à la stratégie et au plan |
 
 Directeur de département |
 

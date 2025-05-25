@@ -100,4 +100,4 @@ Les centres régionaux pour l'enfance et l'adolescence inadaptées (CREAI).
 
 Les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE).
 
-Le Commissariat général à la stratégie et à la prospective.
+Le Haut-Commissariat à la stratégie et au plan.

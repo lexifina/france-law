@@ -6,7 +6,7 @@ Le secrétaire général du Gouvernement.
 
 Le secrétaire général de la défense et de la sécurité nationale.
 
-Le Commissaire général à la stratégie et à la prospective.
+Le haut-commissaire à la stratégie et au plan.
 
 Le commissaire général à l'égalité des territoires.
 

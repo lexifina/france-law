@@ -112,33 +112,33 @@ Expert de haut niveau ou directeur de projet |
 
 7 |
 
-80 |
+80Sous |
 
-Sous-directeur, chargé du service de la législation et de la qualité du droit au sein du secrétariat général du Gouvernement
-
-|
-
-1 |
-
-110 |
-
-Sous-directeur des systèmes d'information de la direction de l'information légale et administrative
+-directeur, chargé du service de la législation et de la qualité du droit au sein du secrétariat général du Gouvernement
 
 |
 
-1 |
-
-110 |
-
-Sous-directeur des sites historiques et des transports de la direction des services administratifs et financiers
+1110Sous |
 
 |
 
-1 |
+-directeur des systèmes d'information de la direction de l'information légale et administrative
 
-110 |
+|
 
-B. Fonctions exercées au Secrétariat général de la défense et de la sécurité nationale
+1110Sous |
+
+|
+
+-directeur des sites historiques et des transports de la direction des services administratifs et financiers
+
+|
+
+1110B |
+
+|
+
+Fonctions exercées au Secrétariat général de la défense et de la sécurité nationale
 
 DESIGNATION DE L'EMPLOI |
 
@@ -232,9 +232,9 @@ Expert de haut niveau ou directeur de projet |
 
 5 |
 
-80 |
+80C |
 
-C. Fonctions exercées au Commissariat général à la stratégie et à la prospective
+Fonctions exercées au Haut-Commissariat à la stratégie et au plan
 
 DESIGNATION DE L'EMPLOI |
 
@@ -246,13 +246,13 @@ NOMBRE
 
 de points par emploi |
 
-Commissaire général à la stratégie et à la prospective |
+Haut-commissaire à la stratégie et au plan |
 
 1 |
 
 180 |
 
-Chef de service, commissaire général adjoint à la stratégie et la prospective |
+Chef de service, haut-commissaire ajoint à la stratégie et au plan |
 
 1 |
 
