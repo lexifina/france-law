@@ -446,19 +446,13 @@ DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DU NORD
 
 Fonction exercée |
 
-Niveau
-
-de qualification
-
-de l'emploi |
+Niveau de qualification de l'emploi |
 
 Nombre
 
 d'emplois |
 
-Nombre de points
-
-(IM) par emploi |
+Nombre de points (IM) par emploi |
 
 Chef du service renouvellement urbain durable |
 
@@ -468,7 +462,7 @@ A |
 
 30 |
 
-Chef de projet référent habitat à la mission métropole |
+Chef d'unité habitat logement au service territorial Flandres littoral |
 
 A |
 
@@ -484,7 +478,7 @@ A |
 
 30 |
 
-Chargé de mission politiques locales habitat au sein du service habitat |
+Chargé de mission politiques locales habitat au service habitat |
 
 A |
 
@@ -668,7 +662,7 @@ B |
 
 15 |
 
-Chef de pôle projets MEL CUD au service renouvellement urbain durable |
+Adjoint chef d'unité projets de renouvellement urbain au service renouvellement urbain durable |
 
 B |
 
@@ -676,7 +670,7 @@ B |
 
 15 |
 
-Chef du pôle projets sud au service renouvellement urbain durable |
+Référent projet ANRU au service renouvellement urbain durable |
 
 B |
 
@@ -700,13 +694,13 @@ B |
 
 15 |
 
-Instructeur ANRU au service renouvellement durable |
+Instructeur CTT de Lille au service habitat |
 
 C |
 
 1 |
 
-15 |
+10 |
 
 Création d'emploi éligible à la nouvelle bonification indiciaire au titre de la politique de la ville au sein de la direction départementale des territoires et de la mer du Nord
 
@@ -1603,3 +1597,5 @@ Conformément à l'article 1 de l'arrêté du 27 avril 2022 (NOR : TERK2212913A)
 Conformément à l'article 1 de l'arrêté du 19 avril 2023 (NOR : TREK2311012A), la présente annexe est remplacée, à effet du 1er juin 2022, pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement du Nord.
 
 Conformément à l'article 1 de l'arrêté du 11 octobre 2023 (NOR : TREK2327373A) la présente annexe est remplacée, à effet du 1er juin 2022, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Morbihan.
+
+Conformément à l'article 1 de l'arrêté du 15 avril 2025 (NOR : ATDK2511781A), la présente annexe est remplacée, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Nord, par les dispositions de l'annexe à l'arrêté précité prenant effet à la date de signature dudit acte.
