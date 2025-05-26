@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_25_047 — DELIBERATION 2025-47 ADOPTION CONTRAT ALCOME REDUCTION DES MEGOTS DANS ESPACE PUBLIC
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2025-05-26
+- Matière : 8.8 Domaines de competences par themes/Environnement
+- Objet : DELIBERATION 2025-47 ADOPTION CONTRAT ALCOME REDUCTION DES MEGOTS DANS ESPACE PUBLIC
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2025/54425/d9d6c0fb707bc890733505c4434f5140a020c44fdcac27c2a53aec76ff44a8da.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
