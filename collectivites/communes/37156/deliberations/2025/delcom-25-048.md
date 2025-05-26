@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_25_048 — DELIBERATION 2025-48 ACHAT PARCELLE CADASTREE CC 550 AUX AUJOUX CONSORT BOURBON
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2025-05-26
+- Matière : 3.1 Domaine et patrimoine/Acquisitions
+- Objet : DELIBERATION 2025-48 ACHAT PARCELLE CADASTREE CC 550 AUX AUJOUX CONSORT BOURBON
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2025/54424/1d4cb986b36e9176cd0c990ee8a48036d4883ed4dd54783ba938c21d0ed6f259.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
