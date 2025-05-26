@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_25_039 — DELIBERATION 2025-39 TARIFICATION SOIREE OFFICIELLE JUMELAGE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2025-05-26
+- Matière : 7.10 Finances locales/Divers
+- Objet : DELIBERATION 2025-39 TARIFICATION SOIREE OFFICIELLE JUMELAGE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2025/54417/6f4c508f467f3e7f00a54b232ea1f3afe0039fae0882011ec08c7bee31c4ec54.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
