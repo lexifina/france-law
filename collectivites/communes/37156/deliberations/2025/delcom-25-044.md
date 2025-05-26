@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_25_044 — DELIBERATION 2025-44 ADOPTION AVENANT DES CHARGES FIXES DE LA RESTAURATION
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2025-05-26
+- Matière : 1.1.2 Commande Publique/Marches publics
+- Objet : DELIBERATION 2025-44 ADOPTION AVENANT DES CHARGES FIXES DE LA RESTAURATION
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2025/54423/3d2c5761a319db0160779932435fdcf2c2208bea8db3224bbe66e9b0b733cf1e.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
