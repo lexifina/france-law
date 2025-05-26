@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_25_029 — DELIBERATION 2025-29 APPROBATION CFU 2024 BUDGET ANNEXE REGIE TRANSPORTS MONTLOUISIENS
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2025-05-26
+- Matière : 7.1 Finances locales/Decisions budgetaires
+- Objet : DELIBERATION 2025-29 APPROBATION CFU 2024 BUDGET ANNEXE REGIE TRANSPORTS MONTLOUISIENS
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2025/54409/d9de20d3560d0b4829879bbb78bad6c1b07bede13b993e4faf307cd6eb5e5b0b.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
