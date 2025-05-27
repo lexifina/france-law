@@ -1,0 +1,9 @@
+# Réponse à la question n° 2420
+
+- Question : [2420](2420.md) — Question n° 2420 — Information des Français quant aux frais réels des soins
+
+## Réponse
+
+*JO du 2025-05-27, page 4024*
+
+La juste information des patients quant aux moyens mobilisés pour leurs prises en charge est un élément important de promotion du caractère universel, égalitaire et redistributif de notre système de santé. La complexité des règles présidant au financement des prestations de soins, en ville et à l'hôpital, rend de fait difficilement compréhensibles pour chaque assuré social les moyens mobilisés pour traiter ses problèmes de santé. Le manque d'information n'aide pas à la prise de conscience du coût des prises en charge, en particulier à l'hôpital. La nécessaire responsabilisation des Français passe ainsi par un renforcement de la mise à leur disposition des éléments de coût. Il est cependant difficilement envisageable de remettre au patient, lors de sa sortie, une note reprenant les coûts pour la sécurité sociale de son passage hospitalier. En ce qui concerne les hospitalisations, la détermination du montant du forfait attribué à l'hôpital nécessite un codage des diagnostics pris en charge, et des actes réalisés, qui n'est possible qu'a posteriori au vu de l'ensemble du dossier médical. Ce processus est donc engagé après la sortie du patient. Pour les consultations externes, et pour les urgences, les prestations facturées sont également, pour partie, transmises au service de facturation après que le patient a quitté l'établissement. Pour autant, chaque assuré social dispose sur son compte Ameli de l'ensemble des remboursements effectués pour les prises en charge en ville. Une extension aux prises en charge hospitalières permettrait de fournir à chacun une vision complète des sommes engagées pour les soins réalisés à son profit.
