@@ -1,0 +1,9 @@
+# Réponse à la question n° 6204
+
+- Question : [6204](6204.md) — Question n° 6204 — Moratoire sur le décret son
+
+## Réponse
+
+*JO du 2025-05-27, page 3906*
+
+Le Gouvernement est pleinement conscient des complexités qu'engendrent pour les festivals les dispositions du « décret son », codifiées aux codes de la santé publique et de l'environnement. Le ministère de la culture a fait part de ces difficultés aux ministères chargés de la santé et de l'environnement, afin que les travaux de l'association Agi-son, soutenus par le ministère, soient étudiés avec la plus grande attention lors des prochaines réunions de travail organisées entre les services des trois ministères concernés et les professionnels. Ce travail d'instruction interministérielle doit aboutir rapidement à une simplification de la réglementation applicable. Celle-ci doit en effet évoluer pour être techniquement et financièrement applicable par les professionnels, et qu'au regard des protections qu'elle préserve, elle puisse se substituer aux normes actuelles. En particulier, le ministère de la culture souhaite que soient examinées certaines mesures substitutives propices à atteindre l'objectif de respect du voisinage tout en étant réalistes pour les festivals. À titre d'exemple, il pourrait être notamment envisagé : de réglementer le recours aux basses fréquences, qui sont les plus gênantes pour le voisinage, voire dangereuses pour la santé ; d'alléger le recours aux études d'impacts des nuisances sonores (EINS), notamment en cas de production de spectacles répétée dans des lieux et configurations similaires. À l'initiative du ministère de la culture, un travail est désormais en cours avec les ministères de la santé et de l'environnement sur les simplifications envisageables. Le Gouvernement a très à cœur de simplifier cette réglementation, conformément aux orientations générales données par le Premier ministre.
