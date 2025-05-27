@@ -1,0 +1,9 @@
+# Réponse à la question n° 3070
+
+- Question : [3070](3070.md) — Question n° 3070 — Mettre fin à l'abomination de l'expérimentation animale
+
+## Réponse
+
+*JO du 2025-05-27, page 3947*
+
+Le Gouvernement partage ces préoccupations concernant l'utilisation d'animaux à des fins scientifiques. La réglementation française en vigeur, conforme à la directive européenne 2010/63/UE, impose des mesures strictes pour protéger les animaux. Tous les projets doivent obtenir une autorisation préalable après avis favorable d'un comité d'éthique agréé. Un projet n'est autorisé que s'il est démontré que les méthodes sans animaux ne permettent pas d'atteindre l'objet scientifique. Des inspections régulières garantissent le respect des normes de protection animale. Les élevages français sont soumis à ces normes, qui constituent le standard de protection animale le plus élevé au niveau mondial. Ils contribuent à la souveraineté nationale en matière de recherche et d'innovation, en évitant à la France de dépendre de pays tiers. Le nombre réel de chiens entrant dans les projets de recherche est de l'ordre 2 500 animaux par an. Une part importante de ces animaux est ensuite réutilisée ou adoptée. Certaines de ces utilisations ont pour objet l'étude des maladies animales et le développement des médicaments vétérinaires. Malgré le développement important des méthodes alternatives, l'utilisation de modèles animaux reste une nécessité pour protéger nos concitoyens, nos animaux de compagnie et l'environnement. Le Gouvernement soutient activement le principe des 3R (réduction, raffinement, remplacement) et encourage le développement de méthodes alternatives in vitro et in silico. Ce soutien concerne le centre français sur les 3R (FC3R), qui assure la promotion des méthodes alternatives, mais aussi de grands projets innovants comme le programme de recherche exploratoire « Organes et organoides sur puces », doté d'un budget de 48M€ sur 6 ans.
