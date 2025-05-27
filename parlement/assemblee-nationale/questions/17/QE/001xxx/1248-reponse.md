@@ -1,0 +1,9 @@
+# Réponse à la question n° 1248
+
+- Question : [1248](1248.md) — Question n° 1248 — Assouplissement des règles de la rénovation énergétique par geste
+
+## Réponse
+
+*JO du 2025-05-27, page 4048*
+
+La réforme de MaPrimeRénov' mise en œuvre au 1er janvier 2024 visait à renforcer la complémentarité entre des objectifs de massification et de performance des rénovations énergétiques. Néanmoins, le début de l'année 2024 a été marqué par une baisse très importante du nombre de dossiers déposés sur le parcours par geste. A l'issue d'échanges avec les fédérations des entreprises du bâtiment, le parcours par geste a été simplifié par rapport à la réforme mise en place au 1er janvier 2024. Ainsi, depuis le 15 mai 2024 : - Les ménages ne sont plus obligés de faire réaliser et fournir un DPE ou un audit pour déposer leur dossier ; - Les ménages peuvent accéder au parcours par geste quelle que soit l'étiquette DPE de leur logement ; - Les ménages peuvent solliciter la prime pour la réalisation d'un geste d'isolation alors qu'ils étaient contraints de l'associer à une demande de prime pour la réalisation d'un geste de chauffage éligible depuis le 1er janvier 2024. Ces mesures d'assouplissement ont eu un effet positif sur le nombre de dossiers déposés sur le parcours par geste. Afin de poursuivre cette dynamique, essentielle à la décarbonation du secteur du logement et à la maitrise des factures d'énergie des ménages, le Gouvernement a décidé de prolonger jusqu'au 1er janvier 2026 ces mesures d'assouplissement, grâce au décret n° 2024-1143 du 4 décembre 2024 et à l'arrêté du 4 décembre 2024 relatifs à la prime de transition énergétique. Ces mesures permettront d'assurer la stabilité du régime des aides MaPrimeRénov' autour d'un parcours de rénovation par geste et d'un parcours accompagné pour les rénovations d'ampleur accessible à tous.
