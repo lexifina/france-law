@@ -1,0 +1,9 @@
+# Réponse à la question n° 5335
+
+- Question : [5335](5335.md) — Question n° 5335 — Dégradation du système d'examen du permis de conduire
+
+## Réponse
+
+*JO du 2025-05-27, page 3993*
+
+Dans un contexte marqué par une hausse des inscriptions au permis liée notamment à la poussée démographique du début des années 2000 et à l'abaissement de l'âge du permis à 17 ans le 1er janvier 2024, l'adéquation entre l'offre et la demande de places d'examen au permis de conduire fait l'objet d'une attention particulière du Gouvernement. Au regard de cette hausse des candidats, les postes budgétaires d'inspecteurs du permis de conduire et de la sécurité routière (IPCSR) ont augmenté de 15 ETP en 2023 et de 38 en 2024, répartis dans les départements les plus concernés par des délais d'attente importants de passage des examens du permis de conduire. Le département de l'Hérault s'est vu affecter un de ces 38 IPCSR supplémentaires en 2024, augmentant ainsi sa cible d'emplois d'une unité pour atteindre 22 ETP. Par ailleurs, certains IPCSR retraités qui le souhaitent peuvent continuer à réaliser des examens sous couvert d'une convention. C'est le cas dans l'Hérault où une IPCSR retraitée continue à réaliser des examens. Les principaux indicateurs liés au permis de conduire sont plus favorables dans l'Hérault qu'au niveau national : le délai médian annualisé, délai de passage entre la première et la deuxième épreuve pratique du permis de conduire, s'élève actuellement à 74 jours contre 77 jours au niveau national. Le seuil formateur, à savoir le nombre d‘élèves qu'un formateur peut faire passer chaque mois, est quant à lui supérieur d'un point au seuil national, ce qui indique une bonne situation au regard des effectifs. Le Gouvernement demeure pleinement mobilisé pour améliorer l'accès à l'examen du permis de conduire et réduire les délais d'attente, en tenant compte des spécificités territoriales.
