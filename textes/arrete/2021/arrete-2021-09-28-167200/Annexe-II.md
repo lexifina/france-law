@@ -726,13 +726,51 @@ Sur le lieu des opérations |
 
 A compter du 01/01/2025 |
 
-BAR-TH-177 |
+BAR-TH-177
+
+|
 
 100 % |
 
 Sur le lieu des opérations |
 
 A compter du 01/11/2024 |
+
+TRA-EQ-114, TRA-EQ-128, TRA-EQ-129
+
+(pour les opérations bonifiées*)
+
+|
+
+100 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/06/2025 |
+
+TRA-EQ-117 (pour les opérations bonifiées*)
+
+|
+
+15 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/06/2025 |
+
+TRA-EQ-130 (pour les opérations bonifiées*)
+
+|
+
+15 % lorsque le bénéficiaire est une personne physique
+
+30 % lorsque le bénéficiaire est une collectivité locale, l'Etat ou une autre personne morale |
+
+Sur le lieu des opérations |
+
+A compter du 01/06/2025 |
+
+* Sont incluses les opérations bonifiées en application de l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
 NOTA :
 

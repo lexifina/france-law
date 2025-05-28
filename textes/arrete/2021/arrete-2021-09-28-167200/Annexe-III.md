@@ -1828,6 +1828,220 @@ Les critères suivants doivent conduire à un classement “ non satisfaisant �
 
 L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : η, le rendement du système de stockage (en %) ; C, la capacité maximale de stockage de chaleur du système (en kWh) ; Nc, le nombre annuel de cycles équivalents à 100 % de la capacité maximale du système de stockage, effectués sur une année représentative. Il s'agit des valeurs indiquées dans l'étude de dimensionnement.
 
+AT. Fiche d'opération standardisée TRA-EQ-114 &laquo; Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger, par une collectivité locale ou une autre personne morale &raquo; concernant les opérations bonifiées :
+
+AT. I Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
+
+2. La preuve de réalisation de l'opération ne comporte pas les informations prévues par la fiche TRA-EQ-114 (achat ou location de véhicules utilitaires légers électriques neufs et numéro d'immatriculation des véhicules concernés, identification des véhicules précédemment affectés à la démonstration le cas échéant) ;
+
+3. Le véhicule n'a pas été acheté ou loué neuf ;
+
+4. Dans le cas d'une location, la durée du contrat de location est inférieure à vingt-quatre mois, hors reconduction tacite ;
+
+5. Dans le cas d'un bénéficiaire, autre qu'une collectivité, gérant un parc total ou filiale d'un groupe qui gère un parc total supérieur à 100 véhicules automobiles, l'année de l'achat ou de la location ne correspond pas à celle fournie par le demandeur ;
+
+6. Dans le cas d'un achat, le bénéficiaire indiqué par le demandeur ne correspond pas au propriétaire mentionné sur le certificat d'immatriculation ;
+
+7. La qualité du bénéficiaire (loueur ou vendeur de véhicules ; collectivité locale ou groupement de collectivités locales gérant un parc supérieur à 20 véhicules automobiles ; personne morale autre que collectivité locale, gérant un parc total ou filiale d'un groupe gérant un parc total supérieur à 100 véhicules automobiles ; autre personne morale) vérifiée par l'organisme d'inspection au moyen de tout document ne correspond pas à celle fournie par le demandeur de certificats ;
+
+8. Au moins l'un des véhicules achetés ou loués par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : véhicule utilitaire léger neuf électrique) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation de chaque véhicule ;
+
+9. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et une copie du précédent certificat d'immatriculation ;
+
+10. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité.
+
+Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
+
+Aux fins du contrôle, le demandeur de certificats met à disposition de l'organisme d'inspection les documents justificatifs spécifiques relatifs à l'opération. L'absence d'un de ces documents justificatifs conduit à un résultat non satisfaisant du contrôle.
+
+L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
+
+AT. II Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+
+2. La masse en charge maximale techniquement admissible (indiquée sur la plaque réglementaire constructeur) est différente du champ afférent sur le certificat d'immatriculation ;
+
+3. Le numéro de réception du véhicule (indiquée sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+
+4. Le véhicule n'est pas électrique.
+
+Les contrôles par examen visuel du véhicule sont réalisés sur un site convenu entre le bénéficiaire et l'organisme d'inspection. Dans le cas où l'opération concerne l'achat ou la location d'au plus 5 véhicules, les contrôles par examen visuel sont effectués sur l'ensemble des véhicules. Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhicules, les contrôles par examen visuel sont effectués sur un échantillon égal au moins à la valeur la plus importante entre 5 véhicules et 10 % des véhicules achetés ou loués.
+
+Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhicules, en amont du contrôle, l'organisme d'inspection choisit de manière aléatoire les véhicules qui seront soumis à un contrôle par examen visuel sur site, puis informe le bénéficiaire des véhicules choisis pour le contrôle, afin de convenir d'une date de présence des véhicules sur un site pour la réalisation de ces contrôles.
+
+L'existence d'au moins un écart sur les véhicules contrôlés ou l'absence sur site du véhicule choisi pour être soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
+
+AU. Fiche d'opération standardisée TRA-EQ-117 &laquo; Achat ou location d'un véhicule léger électrique neuf ou opération de rétrofit électrique d'un véhicule léger par des particuliers &raquo; concernant les opérations bonifiées :
+
+AU. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
+
+2. La preuve de réalisation de l'opération ne comporte pas les informations prévues par la fiche TRA-EQ-117 (achat ou location de véhicules utilitaires légers électriques neufs et numéro d'immatriculation des véhicules concernés, identification des véhicules précédemment affectés à la démonstration le cas échéant) ;
+
+3. Le véhicule n'a pas été acheté ou loué neuf ;
+
+4. Dans le cas d'une location, la durée du contrat de location est inférieure à vingt-quatre mois, hors reconduction tacite ;
+
+5. Dans le cas d'un achat, le bénéficiaire indiqué par le demandeur ne correspond pas au propriétaire mentionné sur le certificat d'immatriculation ;
+
+6. Le véhicule acheté ou loué par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : véhicule utilitaire léger neuf électrique) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation du véhicule ;
+
+7. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et une copie du précédent certificat d'immatriculation ;
+
+8. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité.
+
+Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
+
+Aux fins du contrôle, le demandeur de certificats met à disposition de l'organisme d'inspection les documents justificatifs spécifiques relatifs à l'opération. L'absence d'un de ces documents justificatifs conduit à un résultat non satisfaisant du contrôle.
+
+L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
+
+AU. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+
+2. La masse en charge maximale techniquement admissible (indiquée sur la plaque réglementaire constructeur) est différente du champ afférent sur le certificat d'immatriculation ;
+
+3. Le numéro de réception du véhicule (indiquée sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+
+4. Le véhicule n'est pas électrique.
+
+Les contrôles par examen visuel du véhicule sont réalisés sur un site convenu entre le bénéficiaire et l'organisme d'inspection. Les contrôles par examen visuel du véhicule sont effectués sur 15 % des opérations et sur l'ensemble des véhicules de l'opération.
+
+L'existence d'au moins un écart sur le véhicule contrôlé ou l'absence sur site du véhicule soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
+
+AV. Fiche d'opération standardisée TRA-EQ-128 &laquo; Achat ou location d'un autocar ou d'un autobus électrique neuf ou réalisation d'une opération de rétrofit électrique d'autocar ou d'autobus &raquo; :
+
+AV. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
+
+2. La preuve de réalisation de l'opération ne comporte pas les informations prévues par la fiche TRA-EQ-128 (achat ou location d'un autocar ou d'un autobus électrique neuf ou réalisation d'une opération de rétrofit électrique d'autocar ou d'autobus, catégorie du véhicule : standard ou grande capacité, numéro d'immatriculation des véhicules concernés, identification des véhicules précédemment affectés à la démonstration le cas échéant) ;
+
+3. Le véhicule, hors opération de rétrofit électrique, n'a pas été acheté ou loué neuf ;
+
+4. Dans le cas d'un véhicule issu d'une opération de rétrofit, contrairement aux informations fournies par le demandeur, le véhicule n'est pas issu d'une opération de rétrofit ;
+
+5. Dans le cas d'une location, la durée du contrat de location est inférieure à soixante mois, hors reconduction tacite ;
+
+6. Dans le cas d'un achat, le bénéficiaire indiqué par le demandeur ne correspond pas au propriétaire mentionné sur le certificat d'immatriculation ;
+
+7. Au moins l'un des véhicules achetés ou loués par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : Autocar issu d'une opération de rétrofit, Autocar standard, Autocar grande capacité, Autobus issu d'une opération de rétrofit, Autobus standard, Autobus grande capacité) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation de chaque véhicule et, dans le cas d'une opération de rétrofit, de la facture relative à l'opération de rétrofit et une copie du précédent certificat d'immatriculation ;
+
+8. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et une copie du précédent certificat d'immatriculation.
+
+Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
+
+Aux fins du contrôle, le demandeur de certificats met à disposition de l'organisme d'inspection les documents justificatifs spécifiques relatifs à l'opération. L'absence d'un de ces documents justificatifs conduit à un résultat non satisfaisant du contrôle.
+
+L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
+
+AV. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+
+2. La masse en charge maximale techniquement admissible (indiquée sur la plaque réglementaire constructeur) est différente du champ afférent sur le certificat d'immatriculation ;
+
+3. Le numéro de réception du véhicule (indiquée sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+
+4. Le véhicule n'est pas électrique.
+
+Les contrôles par examen visuel du véhicule sont réalisés sur un site convenu entre le bénéficiaire et l'organisme d'inspection. Dans le cas où l'opération concerne l'achat ou la location d'au plus 5 véhicules, les contrôles par examen visuel sont effectués sur l'ensemble des véhicules. Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhicules, les contrôles par examen visuel sont effectués sur un échantillon égal au moins à la valeur la plus importante entre 5 véhicules et 10 % des véhicules achetés ou loués.
+
+Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhicules, en amont du contrôle, l'organisme d'inspection choisit de manière aléatoire les véhicules qui seront soumis à un contrôle par examen visuel sur site, puis informe le bénéficiaire des véhicules choisis pour le contrôle, afin de convenir d'une date de présence des véhicules sur un site pour la réalisation de ces contrôles.
+
+L'existence d'au moins un écart sur les véhicules contrôlés ou l'absence sur site du véhicule choisi pour être soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
+
+AW. Fiche d'opération standardisée TRA-EQ-129 &laquo; Achat ou location d'un véhicule lourd électrique neuf de transport de marchandises ou issu d'une opération de rétrofit électrique &raquo; :
+
+AW. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
+
+2. La preuve de réalisation de l'opération ne comporte pas les informations prévues par la fiche TRA-EQ-129 (Achat ou location d'un véhicule lourd électrique neuf de transport de marchandises ou issu d'une opération de rétrofit électrique, type de véhicule : Camion porteur > 3,5 tonnes et < 4,25 tonnes, Camion porteur ≥ 4,25 tonnes et < 7,5 tonnes, Camion porteur ≥ 7,5 tonnes et < 12 tonnes, Camion porteur ≥ 12 tonnes et < 19 tonnes, Camion porteur ≥ 19 tonnes et < 26 tonnes, Camion porteur ≥ 26 tonnes et tracteur routier, Benne à ordures ménagères, numéro d'immatriculation des véhicules concernés, identification des véhicules précédemment affectés à la démonstration le cas échéant) ;
+
+3. Le véhicule, hors opération de rétrofit électrique, n'a pas été acheté ou loué neuf ;
+
+4. Dans le cas d'un véhicule issu d'une opération de rétrofit, contrairement aux informations fournies par le demandeur, le véhicule n'est pas issu d'une opération de rétrofit ;
+
+5. Dans le cas d'une location, la durée du contrat de location est inférieure à soixante mois, hors reconduction tacite ;
+
+6. Dans le cas d'un achat, le bénéficiaire indiqué par le demandeur ne correspond pas au propriétaire mentionné sur le certificat d'immatriculation ;
+
+7. L'un au moins des véhicules achetés ou loués par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : Camion porteur > 3,5 tonnes et < 4,25 tonnes, Camion porteur ≥ 4,25 tonnes et < 7,5 tonnes, Camion porteur ≥ 7,5 tonnes et < 12 tonnes, Camion porteur ≥ 12 tonnes et < 19 tonnes, Camion porteur ≥ 19 tonnes et < 26 tonnes, Camion porteur ≥ 26 tonnes et tracteur routier, Benne à ordures ménagères) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation de chaque véhicule et, dans le cas d'une opération de rétrofit, de la facture relative à l'opération de rétrofit et une copie du précédent certificat d'immatriculation ;
+
+8. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et une copie du précédent certificat d'immatriculation.
+
+Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
+
+Aux fins du contrôle, le demandeur de certificats met à disposition de l'organisme d'inspection les documents justificatifs spécifiques relatifs à l'opération. L'absence d'un de ces documents justificatifs conduit à un résultat non satisfaisant du contrôle.
+
+L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
+
+AW. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+
+2. La masse en charge maximale techniquement admissible (indiquée sur la plaque réglementaire constructeur) est différente du champ afférent sur le certificat d'immatriculation ;
+
+3. Le numéro de réception du véhicule (indiquée sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+
+4. Le véhicule n'est pas électrique.
+
+Les contrôles par examen visuel du véhicule sont réalisés sur un site convenu entre le bénéficiaire et l'organisme d'inspection. Dans le cas où l'opération concerne l'achat ou la location d'au plus 5 véhicules, les contrôles par examen visuel sont effectués sur l'ensemble des véhicules. Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhicules, les contrôles par examen visuel sont effectués sur un échantillon égal au moins à la valeur la plus importante entre 5 véhicules et 10 % des véhicules achetés ou loués.
+
+Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhicules, en amont du contrôle, l'organisme d'inspection choisit de manière aléatoire les véhicules qui seront soumis à un contrôle par examen visuel sur site, puis informe le bénéficiaire des véhicules choisis pour le contrôle, afin de convenir d'une date de présence des véhicules sur un site pour la réalisation de ces contrôles.
+
+L'existence d'au moins un écart sur les véhicules contrôlés ou l'absence sur site du véhicule choisi pour être soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
+
+AX. Fiche d'opération standardisée TRA-EQ-130 &laquo; Achat ou location d'un quadricycle neuf &raquo; :
+
+AX. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de l'opération, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
+
+2. La preuve de réalisation de l'opération ne comporte pas les informations prévues par la fiche TRA-EQ-130 (Achat ou location d'un quadricycle neuf) ;
+
+3. Le véhicule n'a pas été acheté ou loué neuf ;
+
+4. Dans le cas d'une location, la durée du contrat de location est inférieure à vingt-quatre mois, hors reconduction tacite ;
+
+5. Dans le cas d'un achat, le bénéficiaire indiqué par le demandeur ne correspond pas au propriétaire mentionné sur le certificat d'immatriculation ;
+
+6. La qualité du bénéficiaire (particulier, loueur ou vendeur de véhicules, collectivité locale, Etat, autre personne morale) vérifiée par l'organisme d'inspection au moyen de tout document ne correspond pas à celle fournie par le demandeur de certificats ;
+
+7. L'un au moins des véhicules achetés ou loués par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : L6e, L7e) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation de chaque véhicule ;
+
+8. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et une copie du précédent certificat d'immatriculation.
+
+Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
+
+Aux fins du contrôle, le demandeur de certificats met à disposition de l'organisme d'inspection les documents justificatifs spécifiques relatifs à l'opération. L'absence d'un de ces documents justificatifs conduit à un résultat non satisfaisant du contrôle.
+
+L'existence d'au moins un écart concernant au moins un des véhicules conduit à un résultat non satisfaisant du contrôle.
+
+AX. II. Sur la base d'un contrôle par examen visuel des véhicules, les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le numéro d'identification du véhicule (VIN) (présent sur le châssis ou sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+
+2. La masse en charge maximale techniquement admissible (indiquée sur la plaque réglementaire constructeur) est différente du champ afférent sur le certificat d'immatriculation ;
+
+3. Le numéro de réception du véhicule (indiquée sur la plaque réglementaire constructeur) est différent du champ afférent sur le certificat d'immatriculation ;
+
+4. Le véhicule n'est pas électrique.
+
+Les contrôles par examen visuel du véhicule sont réalisés sur un site convenu entre le bénéficiaire et l'organisme d'inspection. Lorsque le bénéficiaire est une collectivité locale, l'Etat ou une autre personne morale, dans le cas où l'opération concerne l'achat ou la location d'au plus 5 véhicules, les contrôles sur pièce et par examen visuel sont effectués sur l'ensemble des véhicules. Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhicules, les contrôles par examen visuel sont effectués sur un échantillon égal au moins à la valeur la plus importante entre 5 véhicules et 10 % des véhicules achetés ou loués.
+
+Dans le cas où l'opération concerne l'achat ou la location de plus de 5 véhicules, en amont du contrôle, l'organisme d'inspection choisit de manière aléatoire les véhicules qui seront soumis à un contrôle par examen visuel sur site, puis informe le bénéficiaire des véhicules choisis pour le contrôle, afin de convenir d'une date de présence des véhicules sur un site pour la réalisation de ces contrôles.
+
+Lorsque le bénéficiaire est une personne physique, les contrôles sur pièce et par examen visuel du véhicule sont effectués sur 15 % des opérations et sur l'ensemble des véhicules de l'opération.
+
+L'existence d'au moins un écart sur les véhicules contrôlés ou l'absence sur site du véhicule choisi pour être soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
+
 NOTA :
 
 Conformément au I de l'article 4 de l'arrêté du 6 septembre 2024 (NOR : ECOR2416035A), ces dispositions s'appliquent aux opérations engagées à compter du 1er novembre 2024. Les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 31 octobre 2024, achevées au plus tard le 31 décembre 2026 et incluses dans une liste transmise, au plus tard le 30 novembre 2024, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
