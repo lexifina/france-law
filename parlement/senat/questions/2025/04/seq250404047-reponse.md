@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404047
+
+- Question : [SEQ250404047](seq250404047.md) — Sauvegarde et avenir de la mosaïque « La Flamme », oeuvre de Fernand et Nadia Leger (Alfortville, Val-de-Marne)
+
+## Réponse
+
+*Culture, JO du 2025-05-29, page 2737*
+
+Le ministère de la culture poursuit une politique volontariste de soutien en faveur de la conservation du patrimoine, qui passe à la fois par sa protection au titre des monuments historiques et par l'entretien et la restauration de ces monuments. Au sein de l'ancienne usine gazière d'Alfortville (Val-de-Marne), le bâtiment administratif, y compris l'oeuvre de Nadia et Fernand Léger, est inscrit au titre des monuments historiques par arrêté du 12 avril 2011. Cette protection implique, d'une part, un contrôle de l'État, au travers des services de la direction régionale des affaires culturelles (DRAC), et plus particulièrement de la conservation régionale des monuments historiques (CRMH) d'Île-de-France, sur tous les travaux susceptibles de porter atteinte aux immeubles protégés et, d'autre part, une obligation d'entretien pour le propriétaire. Elle rend indissociable l'oeuvre de son support : le bâtiment administratif, ses équipements et la mosaïque constituent un tout, dont le propriétaire a l'obligation d'assurer l'entretien en vue de sa bonne conservation. Le ministère de la culture, par l'intermédiaire de la DRAC, a conscience de la valeur de cette oeuvre et met tout en oeuvre pour la conserver, ainsi que l'ensemble des édifices subsistant de l'ancienne usine gazière après son démantèlement au début des années 1980. L'actuel propriétaire de l'immeuble a entamé en 2020 des démarches pour réhabiliter cet édifice inoccupé. Des échanges sont en cours entre le propriétaire et les services de l'État qui portent notamment sur le contenu du permis de construire, afin de garantir à la fois la réhabilitation de ce bâtiment pour un nouvel usage et la sauvegarde de l'oeuvre de Nadia et Fernand Léger.
