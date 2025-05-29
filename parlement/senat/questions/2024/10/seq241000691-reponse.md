@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000691
+
+- Question : [SEQ241000691](seq241000691.md) — Modalité de calcul du quota de logements sociaux
+
+## Réponse
+
+*Logement, JO du 2025-05-29, page 2827*
+
+Les dispositions issues de l'article 55 de la loi relative à la solidarité et au renouvellement urbains (SRU) visent à satisfaire les besoins en logement des ménages les plus modestes et leur permettre de se loger dans la commune de leur choix, tout en favorisant la mixité sociale par la constitution d'un parc social réparti de manière équilibrée sur le territoire. À cette fin, la loi impose aux communes de plus de 3 500 habitants (ou 1 500 habitants dans l'unité urbaine de Paris) de disposer de 20 % ou 25 % de logements sociaux dès lors qu'elles appartiennent à des agglomérations ou des établissements publics de coopération intercommunale de plus de 50 000 habitants comprenant une commune de plus de 15 000 habitants où les besoins sont avérés. Le décompte de la population s'entend comme la population municipale définie à l'article R. 2151-1 du code général des collectivités territoriales, établie chaque année par l'INSEE, qui inclue en effet les personnes détenues dans les établissements pénitentiaires. Il apparait que la population de la commune de Chauconin-Neufmontiers est passée de 3 449 habitants au 1er janvier 2021 (population légale 2018) à 3 554 habitants au 1er janvier 2022 (population légale 2019) : l'entrée de la commune dans le dispositif SRU découle uniquement de l'augmentation naturelle de sa population, et non d'une récente réforme de la législation ou de la réglementation. Néanmoins, le ministère chargé du logement et de la rénovation urbaine étudie les modalités d'une évolution de la règlementation tendant à la non prise en compte des détenus des centres pénitenciers dans le décompte de population retenue pour l'application du dispositif SRU.
