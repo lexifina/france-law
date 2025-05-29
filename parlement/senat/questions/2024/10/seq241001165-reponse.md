@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001165
+
+- Question : [SEQ241001165](seq241001165.md) — Mise en place d'un fichier national de traçabilité des cancers des sapeurs-pompiers
+
+## Réponse
+
+*Intérieur , JO du 2025-05-29, page 2795*
+
+A la suite des travaux de l'observatoire national de la santé des agents des services d'incendie et de secours, une instruction concernant la traçabilité des expositions professionnelles nocives à la santé des sapeurs-pompiers et des agents de ces services a été diffusée le 14 janvier 2025. Cette instruction précise les modalités d'organisation des activités potentiellement exposantes, explicite les activités ayant donné lieu à une exposition potentielle à une substance cancérogène, mutagène ou toxique pour la reproduction, ainsi que celles concernant certains facteurs de risques professionnels comme, par exemple, le travail de nuit ou l'implication dans un incident critique potentiellement psychotraumatisant, qu'il convient de tracer, puis définit les synthèses annuelles et les attestations à réaliser. Mobilisé pour la préservation de la santé des sapeurs-pompiers, le Gouvernement a ainsi répondu à la demande des sapeurs-pompiers et veillera, dans le cadre de l'observatoire national de la santé, à suivre la mise en oeuvre effective de cette traçabilité dans les services d'incendie et de secours. S'agissant plus précisément de la mise en place d'un fichier national centralisé, elle apparaît se heurter, à ce stade, à une gestion des ressources humaines décentralisée au niveau de chaque service d'incendie et de secours comme à la question du consentement de l'agent à la communication de données aussi sensibles. Il n'en demeure pas moins que les attestations à remettre aux agents seront de nature à leur permettre de disposer des informations nécessaires à leur suivi, notamment post-professionnel.
