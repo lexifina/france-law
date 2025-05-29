@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241102471
+
+- Question : [SEQ241102471](seq241102471.md) — Difficultés financières des universités
+
+## Réponse
+
+*Enseignement supérieur et recherche , JO du 2025-05-29, page 2757*
+
+Le ministère chargé de l'enseignement supérieur et de la recherche a veillé, au cours des dernières années, à compenser au mieux l'impact de certaines mesures auprès des établissements de l'enseignement supérieur. Ainsi, en 2023, même en l'absence de crédits budgétés à ce titre, les mesures indiciaires prises à l'occasion des « Rencontres salariales » de juin 2023 ont pu être financées aux établissements à hauteur de 75 % de leur coût. En fonction des moyens ouverts en loi de finances pour 2024, ces mesures indiciaires ont pu être compensées auprès des établissements à hauteur de 50 % de leur impact. Des soutiens plus ponctuels ont également pu être apportés en fin de gestion 2024 à quelques établissements en situation budgétaire difficile, afin de soutenir leur trajectoire financière et salariale. Par ailleurs, en 2023, le ministère a pu mobiliser une enveloppe de 200 Meuros afin de faire face à la hausse des coûts de l'énergie. De même, des soutiens ciblés ont pu être apportés à des établissements à la situation dégradée. Compte tenu de ces contraintes budgétaires et des difficultés auxquelles font face certains établissements, le ministère a maintenu en 2025 la compensation à hauteur de 50% des mesures indiciaires et la mise en place d'un suivi attentif des situations financières des établissements, afin de pouvoir, dans la limite de ses capacités budgétaires, soutenir la trajectoire financière de ceux les plus en difficulté. Le ministère a également obtenu en LFI 2025 la compensation intégrale de la hausse du taux du CAS pensions ce qui correspond à 200 Meuros supplémentaires pour les établissements de l'enseignement supérieur.
