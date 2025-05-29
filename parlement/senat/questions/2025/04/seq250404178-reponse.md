@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404178
+
+- Question : [SEQ250404178](seq250404178.md) — Poursuite et moyens du programme national de surveillance du mésothéliome
+
+## Réponse
+
+*Santé et accès aux soins, JO du 2025-05-29, page 2854*
+
+La surveillance nationale des mésothéliomes est une priorité de santé publique. En effet, l'incidence du mésothéliome pleural continue d'augmenter en France, avec un nombre estimé de 1100 nouveaux cas sur la période 2015-2016, dont 27% de femmes. Dans ce contexte, il n'est nullement envisagé de renoncer à cette surveillance qui apporte des éléments de connaissance et d'aide à la décision indispensables à la mise en oeuvre des politiques de santé publique en la matière. L'Agence nationale de santé publique (Santé publique France), chargée de cette surveillance, a rencontré des difficultés techniques pour mettre en oeuvre la stratégie de surveillance qu'elle avait élaborée avec ses partenaires dans le cadre du dispositif national de surveillance du mésothéliome. L'agence souhaite en conséquence ajuster les modalités opérationnelles de cette surveillance afin de résoudre les problèmes rencontrés, notamment en termes d'exigence de sécurisation des données de santé. Le nouveau protocole de surveillance sera disponible au 2ème semestre 2025. Santé publique France actualisera en 2025 les indicateurs de surveillance des données collectées entre 2018 et 2023 dans le cadre du programme national de surveillance des mésothéliomes. Elle poursuivra au-delà de 2025 l'actualisation régulière de ces indicateurs autant qu'elle continuera de fournir des éléments sur la caractérisation des expositions à l'amiante identifiées comme étant à l'origine des mésothéliomes. Elle veillera à maintenir et renforcer la prévention tertiaire (reconnaissance et prise en charge des travailleurs atteints d'un mésothéliome).
