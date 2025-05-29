@@ -2,24 +2,6 @@
 
 Le présent arrêté et ses annexes seront consultables au Bulletin officiel de l'éducation nationale en date du 9 juillet 2020 sur le site http://www.education.gouv.fr
 
-Conformément à l'article 6 de l'arrêté du 17 avril 2024 (NOR : MENE2412777A), la présente annexe est ainsi modifiée :
-
-" Les sept nouveaux baccalauréats professionnels mis en œuvre en classe de première pour la rentrée scolaire 2024 et en classe de terminale pour la rentrée scolaire 2025 ainsi que les compétences à évaluer figurant en annexe du présent arrêté sont ajoutées à l'annexe 2 de l'arrêté du 17 juin 2020 susvisé :
-
--carrossier peintre automobile ;
-
--cybersécurité, informatique et réseaux, électronique ;
-
--maintenance nautique ;
-
--optique photonique : technologies de la lumière ;
-
--production en industries pharmaceutiques, alimentaires et cosmétiques ;
-
--transports par câbles et remontées mécaniques ;
-
--travaux publics. "
-
 Conformément à l'arrêté du 1er juin 2021 (NOR : MENE2116917A), les compétences à évaluer figurant en annexe 2 dudit arrêté, pour chacun des baccalauréats suivants, sont ajoutées, pour chacun de ces diplômes, à l'annexe 2 du présente arrêté :
 
 - ANIMATION - ENFANCE ET PERSONNES ÂGÉES ;
@@ -2035,3 +2017,653 @@ Réaliser un prototype pour validation fonctionnelle et/ ou visuelle |
 11 |
 
 Produire les visuels permettant une exploitation des données par les parties prenantes du projet |
+
+Conformément à l'article 6 de l'arrêté du 17 avril 2024 (NOR : MENE2412777A), la présente annexe est ainsi modifiée :
+
+" Les sept nouveaux baccalauréats professionnels mis en œuvre en classe de première pour la rentrée scolaire 2024 et en classe de terminale pour la rentrée scolaire 2025 ainsi que les compétences à évaluer figurant en annexe du présent arrêté sont ajoutées à l'annexe 2 de l'arrêté du 17 juin 2020 susvisé :
+
+-carrossier peintre automobile ;
+
+-cybersécurité, informatique et réseaux, électronique ;
+
+-maintenance nautique ;
+
+-optique photonique : technologies de la lumière ;
+
+-production en industries pharmaceutiques, alimentaires et cosmétiques ;
+
+-transports par câbles et remontées mécaniques ;
+
+-travaux publics. "
+
+Définition par baccalauréat professionnel des compétences évaluées en enseignement de spécialité |
+
+Spécialités et options concernées par la mise en œuvre en cours : |
+
+Titre du bac
+
+professionnel |
+
+ordre |
+
+LIBELLE (150 caractères maximum) pour LSL |
+
+CARROSSIER PEINTRE AUTOMOBILE |
+
+1 |
+
+Collecter les informations nécessaires à l'intervention |
+
+2 |
+
+Appliquer la méthodologie de réparation |
+
+3 |
+
+Remettre en conformité |
+
+4 |
+
+Contrôler la qualité de son intervention |
+
+5 |
+
+Réaliser la préparation des fonds et des surfaces |
+
+6 |
+
+Appliquer les différents types de peinture |
+
+7 |
+
+Contrôler la conformité d'une application |
+
+8 |
+
+Remplacer un élément de structure |
+
+9 |
+
+Mettre en conformité un vitrage |
+
+10 |
+
+Analyser une estimation des travaux |
+
+11 |
+
+Communiquer à l'interne et à l'externe |
+
+12 |
+
+Interpréter des valeurs à la suite d'un contrôle de la structure et des trains roulants |
+
+CYBERSÉCURITÉ
+
+INFORMATIQUE ET RÉSEAUX ÉLECTRIQUE |
+
+1 |
+
+Communiquer en situation professionnelle (français/anglais) |
+
+2 |
+
+Participer à un projet |
+
+3 |
+
+Analyser une structure matérielle et logicielle |
+
+4 |
+
+Valider la conformité d'une installation |
+
+5 |
+
+Réaliser des maquettes et prototypes |
+
+6 |
+
+Coder |
+
+7 |
+
+Installer les éléments d'un système électronique ou informatique |
+
+8 |
+
+Exploiter un réseau informatique |
+
+9 |
+
+Maintenir un système électronique ou réseau informatique |
+
+MAINTENANCE
+
+NAUTIQUE |
+
+1 |
+
+Collecter les informations nécessaires à la prise en charge ou à la restitution |
+
+2 |
+
+Communiquer en français ou en anglais avec le client |
+
+3 |
+
+Utiliser les commandes d'une embarcation ou de ses équipements |
+
+4 |
+
+Organiser des opérations de maintenance |
+
+5 |
+
+Constater le dysfonctionnement |
+
+6 |
+
+Hiérarchiser les hypothèses en lien avec le dysfonctionnement |
+
+7 |
+
+Valider les hypothèses |
+
+8 |
+
+Identifier les éléments ou systèmes défectueux |
+
+9 |
+
+Préparer l'intervention |
+
+10 |
+
+Réparer les systèmes, les sous-ensembles, les éléments |
+
+11 |
+
+Réaliser les opérations d'entretien périodique |
+
+12 |
+
+Installer un équipement |
+
+OPTIQUE PHOTONIQUE
+
+-
+
+TECHNOLOGIES
+
+DE LA LUMIERE |
+
+1 |
+
+Mettre en œuvre des procédés de fabrication optique photonique de manière écoresponsable |
+
+2 |
+
+Gérer des flux de matières et de composants de manière écoresponsable |
+
+3 |
+
+Contrôler les composants optiques photoniques |
+
+4 |
+
+Identifier les composants et leurs caractéristiques |
+
+5 |
+
+Assembler des composants |
+
+6 |
+
+Régler, contrôler un système optique photonique |
+
+7 |
+
+Installer un système dans le respect des normes QHSE |
+
+8 |
+
+Mettre en service un système optique photonique |
+
+9 |
+
+Valider le fonctionnement d'un système |
+
+10 |
+
+Valider la recette d'installation avec le client |
+
+11 |
+
+Effectuer une maintenance préventive dans le respect des normes QHSE |
+
+12 |
+
+Effectuer une maintenance corrective dans le respect des normes QHSE |
+
+13 |
+
+Communiquer en situation professionnelle par oral et par écrit |
+
+PRODUCTION EN INDUSTRIES
+
+PHARMACEUTIQUES,
+
+ALIMENTAIRES
+
+ET COSMÉTIQUES |
+
+1 |
+
+Analyser l'information documentaire nécessaire à la conduite des opérations de production |
+
+2 |
+
+Organiser son activité dans le respect des procédures mises en place dans l'entreprise |
+
+3 |
+
+Gérer les flux de composants et les fluides de son segment de production |
+
+4 |
+
+Réaliser les opérations de maintenance de premier niveau ou de changement de format |
+
+5 |
+
+Conduire une installation dans le respect des procédures |
+
+6 |
+
+Analyser une situation professionnelle de bio production |
+
+7 |
+
+Adopter une attitude professionnelle en zone de production |
+
+8 |
+
+Contribuer à la mise en œuvre de la démarche qualité |
+
+9 |
+
+Contribuer au respect de l'environnement naturel |
+
+10 |
+
+Analyser les risques pour participer à la mise en œuvre de mesures de prévention |
+
+11 |
+
+Maîtriser les opérations de bionettoyage en fonction de la zone de production |
+
+12 |
+
+Communiquer à l'oral, à l'écrit, à l'aide d'un système numérique professionnel, rendre compte des actions menées |
+
+13 |
+
+Réaliser un prélèvement de matières premières, de produits finis ou d'environnement destiné au laboratoire de contrôle qualité |
+
+14 |
+
+Réaliser un auto-contrôle en cours de production |
+
+15 |
+
+Réaliser l'analyse de l'échantillon au laboratoire de contrôle qualité |
+
+16 |
+
+Exploiter et communiquer le résultat d'un contrôle de qualité effectué en laboratoire |
+
+TRANSPORTS PAR CABLES ET REMONTÉES MÉCANIQUES |
+
+1 |
+
+Identifier et maîtriser les risques pour l'installation, son environnement, les personnes et appliquer les mesure de prévention |
+
+2 |
+
+Identifier et maîtriser les procédures et les réglementations en vigueur |
+
+3 |
+
+Préparer l'installation et son environnement |
+
+4 |
+
+Conduire l'installation de manière écoresponsable |
+
+5 |
+
+Gérer la relation client |
+
+6 |
+
+Intervenir et réguler une installation |
+
+7 |
+
+Réaliser la maintenance préventive d'une installation |
+
+8 |
+
+Diagnostiquer et dépanner une installation |
+
+9 |
+
+Réparer une installation |
+
+10 |
+
+Participer à des travaux de montage-démontage-réglages |
+
+11 |
+
+Présenter un projet ou un plan d'actions |
+
+12 |
+
+Communiquer, rendre compte de son intervention à l'écrit et/ou à l'oral |
+
+13 |
+
+Animer une équipe |
+
+TRAVAUX PUBLICS |
+
+1 |
+
+Collecter les informations liées à son intervention |
+
+2 |
+
+Produire des documents graphiques |
+
+3 |
+
+Choisir les matériels et outillages |
+
+4 |
+
+Calculer les quantités de matériaux et matériels |
+
+5 |
+
+Evaluer les besoins en main d'œuvre |
+
+6 |
+
+Intégrer les enjeux du développement durable |
+
+7 |
+
+Organiser en sécurité son intervention |
+
+8 |
+
+Vérifier la confirmité des matériels et matériaux |
+
+9 |
+
+Réaliser une implantation |
+
+10 |
+
+Réaliser les travaux de voiries, de terrassements et de réseaux |
+
+11 |
+
+Animer une équipe |
+
+12 |
+
+Contrôler la conformité d'exécution des ouvrages |
+
+13 |
+
+Réaliser des essais de contrôle |
+
+14 |
+
+Compléter les documents de chantier |
+
+15 |
+
+Rendre compte oralement ou par écrit |
+
+Conformément à l'article 1er de l'arrêté du 29 avril 2025 (NOR : MENE2510855A), la présente annexe est ainsi modifiée :
+
+"Les quatre nouveaux baccalauréats professionnels mis en œuvre en classe de première à compter de l'année scolaire 2025-2026 ainsi que les compétences à évaluer figurant en annexe du présent arrêté sont ajoutées à l'annexe 2 de l'arrêté du 17 juin 2020 susvisé :
+
+- construction et aménagement de véhicules ;
+
+- géomètre ;
+
+- métiers de la couture et de la confection ;
+
+- transport fluvial."
+
+Définition par baccalauréat professionnel des compétences évaluées en enseignement de spécialité |
+
+Spécialités et options concernées par la mise en œuvre en cours : |
+
+Titre du bac professionnel |
+
+ordre |
+
+LIBELLE (150 caractères maximum) pour LSL |
+
+CONSTRUCTION ET AMÉNAGEMENT DE VÉHICULES |
+
+1 |
+
+Analyser un cahier des charges fonctionnel |
+
+2 |
+
+Décoder une conception préliminaire |
+
+3 |
+
+Réaliser une conception détaillée |
+
+4 |
+
+Réaliser des simulations numériques ou réelles |
+
+5 |
+
+Élaborer des processus prévisonnels de réalisation |
+
+6 |
+
+Configurer des équipements de production |
+
+7 |
+
+Réaliser une production |
+
+8 |
+
+Implanter des équipements et accessoires |
+
+9 |
+
+Mettre en conformité |
+
+10 |
+
+Communiquer à l'interne et à l'externe |
+
+GÉOMÈTRE |
+
+1 |
+
+Gérer les informations liées à son intervention au sein d'un collectif de travail |
+
+2 |
+
+Choisir le matériel |
+
+3 |
+
+Intégrer les enjeux de développement durable |
+
+4 |
+
+Participer à l'analyse foncière |
+
+5 |
+
+Produire des documents fonciers |
+
+6 |
+
+Sécuriser son intervention |
+
+7 |
+
+Réaliser un levé ou un récolement |
+
+8 |
+
+Réaliser une implantation |
+
+9 |
+
+Géoréférencer |
+
+10 |
+
+Traiter les données |
+
+11 |
+
+Produire des documents techniques |
+
+12 |
+
+Détecter les réseaux |
+
+13 |
+
+Matérialiser les réseaux |
+
+14 |
+
+Rendre compte oralement ou par écrit |
+
+MÉTIERS DE LA CONTURE ET DE LA CONFECTION |
+
+1 |
+
+Rechercher une information, en local ou à distance, pour agir |
+
+2 |
+
+Appréhender les solutions constructives en adéquation avec les matières d'œuvre, les matériels, les équipements et les fournitures |
+
+3 |
+
+Contribuer à l'adaptation de l'organisation de la production |
+
+4 |
+
+Appliquer les réglages et méthodes pour produire |
+
+5 |
+
+Réaliser les opérations de production en préparation, fabrication et finition |
+
+6 |
+
+Consigner les données de production |
+
+7 |
+
+Formuler des propositions et les communiquer sous forme écrite et orale |
+
+8 |
+
+Partager les expériences favorisant le développement professionnel et personnel |
+
+9 |
+
+Accroître son expertise en se professionnalisant |
+
+TRANSPORT FLUVIAL |
+
+1 |
+
+Analyser les éléments du voyage à effectuer, les risques et les documents techniques |
+
+2 |
+
+Organiser le voyage, l'avitaillement/ approvisionnement |
+
+3 |
+
+Organiser les interventions lors de situation d'urgence |
+
+4 |
+
+Organiser l'entretien, la maintenance, le dépannage et la réparation |
+
+5 |
+
+Organiser le chargement/ déchargement, embarquement/ débarquement |
+
+6 |
+
+Réaliser l'embarquement, le transport et le débarquement des passagers en sécurité |
+
+7 |
+
+Réaliser le chargement, le transport et le déchargement des marchandises |
+
+8 |
+
+Contrôler le bâtiment, son équipement, sa documentation et son équipage |
+
+9 |
+
+Contrôler les opérations d'entretien, de maintenance, de dépannage et de réparation |
+
+10 |
+
+Contrôler le chargement/ déchargement, embarquement/ débarquement |
+
+11 |
+
+Protéger les biens, les personnes et l'environnement |
+
+12 |
+
+Conduire de manière écoresponsable et savoir manœuvrer |
+
+13 |
+
+Entretenir, maintenir, dépanner, réparer |
+
+14 |
+
+Restituer le bâtiment, le matériel, les équipements en bon état en renseignant et en transmettant les documents |
+
+15 |
+
+Communiquer conformément à la réglementation avec son environnement en utilisant un vocabulaire adapté |
+
+16 |
+
+Participer à la gestion commerciale, financière et du personnel |
+
+NOTA :
+
+Conformément à l'article 1er de l'arrêté du 29 avril 2025 (NOR : MENE2510855A), les quatre nouveaux baccalauréats professionnels sont mis en œuvre en classe de première à compter de l'année scolaire 2025-2026.
