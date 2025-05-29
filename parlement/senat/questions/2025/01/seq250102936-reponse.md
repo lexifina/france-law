@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250102936
+
+- Question : [SEQ250102936](seq250102936.md) — Application par l'administration de l'arrêt de la Cour de cassation du 29 juin 2022 relatif à la détention de la nationalité française
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2025-05-29, page 2768*
+
+Le ministère de l'Europe et des affaires étrangères, interrogé sur l'application de l'arrêt de la Cour de cassation du 29 juin 2022 (Civ. 1ère, n° 21-50.032), relatif à la possibilité d'opposer la perte par désuétude à des enfants mineurs lorsque que la nationalité française de leur ascendant direct et représentant légal a été établie, a saisi le bureau de la nationalité de la direction des affaires civiles et du sceau (DACS) du ministère de la Justice, compétent en la matière. Les précisions suivantes ont été apportées. La Cour de cassation a continué à développer sa jurisprudence en la matière et a ainsi rendu le 27 novembre 2024 deux nouveaux arrêts (Civ. 1ère, n° 23-19.405 et 23-19.406). Les seules conclusions pouvant en être tirées sont les suivantes : - lorsqu'un parent qui transmet la nationalité française est titulaire d'un jugement qui le dit français, il n'est pas possible d'opposer la désuétude à son enfant, s'il était mineur au jour de l'introduction de l'instance ; - lorsqu'un parent assigne en son nom personnel et en qualité de représentant légal d'un enfant mineur pour voir juger qu'ils sont français, il n'est pas possible d'opposer la désuétude à un enfant si elle ne l'est pas également à son parent. Nonobstant, lors d'une démarche consulaire réservée aux Français, il demeure possible d'opposer la désuétude à un enfant mineur si la nationalité de son parent n'a jamais été constatée judiciairement (aucun jugement le disant français n'a été rendu, ou ne lui a été délivré qu'un simple certificat de nationalité française (CNF), surtout si ce CNF a été obtenu postérieurement à l'écoulement du délai de 50 ans).
