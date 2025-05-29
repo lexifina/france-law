@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001598
+
+- Question : [SEQ241001598](seq241001598.md) — Règlementation de la production d'électricité par les installations photovoltaïques
+
+## Réponse
+
+*Industrie et énergie, JO du 2025-05-29, page 2780*
+
+L'arrêté tarifaire « S21 » [1] définit les tarifs d'achat pour la vente en totalité ou la vente en surplus, ainsi que la prime à l'investissement en cas d'autoconsommation. Ces tarifs sont revus à chaque trimestre par la Commission de régulation de l'énergie selon des modalités prévues par l'arrêté tarifaire. Initialement, des coefficients de dégressivité étaient prévus pour les tranches 0-9 kWc, 9-100 kWc et 100-500 kWc. Ces coefficients permettaient de moduler le tarif offert aux installations en faisant le demande sur le trimestre concerné, afin que le niveau de tarif soit adapté à l'objectif trimestriel fixé de puissance fixé à ce segment. Les coefficients étaient ainsi construits de manière à ce que, si la puissance appelée était inférieure pour les deux trimestres précédents à la puissance nécessaire pour atteindre les objectifs de la programmation pluriannuelle de l'énergie (PPE), alors le tarif augmentait. En revanche, si l'objectif était dépassé, alors le tarif diminuait. Malgré les modifications mentionnées dans la question, le rythme de demande de contrat pour les installations chez les particuliers n'a pas évolué à la baisse, au contraire, les installations ont continué à se développer de manière dynamique. Les évolutions récentes de l'arrêté tarifaire ont désormais simplifié les modalités de rémunération pour ces petits projets. Ainsi, ces projets bénéficient désormais d'une prime à l'investissement et d'un tarif d'achat fixe, à 40 euros/MWh. Ces nouvelles modalités de soutien ont pour effet de favoriser l'autoconsommation chez les particuliers. [1] https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044173060/
