@@ -12,17 +12,25 @@ de l'avance
 
 (en euros) |
 
-Montant maximum
+Montant
 
-du fonds de caisse
+maximum
+
+du fonds
+
+de caisse
 
 (en euros) |
 
-Montant maximum de l'encaisse
+Montant
+
+maximum
+
+de l'encaisse
 
 (en euros) |
 
-Direction nationale de la police aux frontières |
+Direction nationale de la Police aux Frontières |
 
 DNPAF |
 
@@ -50,13 +58,13 @@ Direction de la police aux frontières de l'aéroport d'Orly |
 
 DPAF ORLY |
 
-1 000 |
+250 |
 
 0 |
 
 25 000 |
 
-Direction zonale de la police nationale Nord |
+Direction zonale de la Police nationale Nord |
 
 DZPN NORD |
 
@@ -66,7 +74,7 @@ DZPN NORD |
 
 60 000 |
 
-Direction interdépartementale de la police aux frontières aéroport Strasbourg Entzheim |
+Direction interdépartementale de la Police aux Frontières aéroport Strasbourg Entzheim |
 
 DIDPAF 57 |
 
@@ -76,7 +84,7 @@ DIDPAF 57 |
 
 1 000 |
 
-Direction zonale de la police aux frontières Sud-Est |
+Direction zonale de la Police aux Frontières Sud-Est |
 
 DZPAF SUD-EST |
 
@@ -96,7 +104,7 @@ SPAFA 13 |
 
 60 000 |
 
-Direction interdépartementale de la police aux frontières de Toulouse |
+Direction interdépartementale de la Police aux Frontières de Toulouse |
 
 DIDPAF 31 |
 
@@ -116,7 +124,7 @@ SPAFA 33 |
 
 1 000 |
 
-Direction zonale de la police aux frontières Ouest |
+Direction zonale de la Police aux Frontières Ouest |
 
 DZPAF OUEST |
 
