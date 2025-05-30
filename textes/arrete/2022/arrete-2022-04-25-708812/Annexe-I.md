@@ -78,7 +78,7 @@ D.-Emplois relevant du groupe 2 :
 
 1° Conseiller armement auprès du chef d'état-major des armées ;
 
-2° Chargé de mission auprès du major général des armées ;
+2° Inspecteur technique de l'infrastructure de la défense ;
 
 3° Officier général " commandant de la cyber défense " ;
 
@@ -268,7 +268,7 @@ E.-Emplois relevant du groupe 3 :
 
 71° Directeur central adjoint du service du commissariat des armées ;
 
-72° Officier général “ directeur des activités ” de la direction centrale du service du commissariat des armées ;
+72° Officier général “ directeur de l'emploi et des activités ” de la direction centrale du service du commissariat des armées ;
 
 73° Officier général “ directeur des métiers et des risques ” de la direction centrale du service du commissariat des armées ;
 
@@ -316,7 +316,7 @@ E.-Emplois relevant du groupe 3 :
 
 95° Commandant du centre interarmées de coordination du soutien ;
 
-96° Adjoint “ ressources humaines ” du directeur central du service du commissariat des armées ;
+96° Officier général “ directeur des ressources humaines ” de la direction centrale du service du commissariat des armées ;
 
 97° Commandant du centre du soutien des opérations et des acheminements ;
 
@@ -360,21 +360,21 @@ F.-Emplois relevant du groupe 4 :
 
 6° Chef de la mission des achats du ministère de la défense ;
 
-7° Directeur de l'établissement du service d'infrastructure de la défense de Toulon ;
+7° Directeur du service d'infrastructure de la défense Méditerranée ;
 
-8° Directeur de l'établissement du service d'infrastructure de la défense d'Ile-de-France ;
+8° Directeur du service d'infrastructure de la défense Ile-de-France ;
 
-9° Directeur de l'établissement du service d'infrastructure de la défense de Lyon ;
+9° Directeur du service d'infrastructure de la défense Sud-Est ;
 
-10° Directeur de l'établissement du service d'infrastructure de la défense de Metz ;
+10° Directeur du service d'infrastructure de la défense Nord-Est ;
 
 11° Directeur adjoint " opérations " du service d'infrastructure de la défense ;
 
-12° Directeur de l'établissement du service d'infrastructure de la défense de Bordeaux ;
+12° Directeur du service d'infrastructure de la défense Sud-Ouest ;
 
-13° Chargé de mission auprès du délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense ;
+13° Directeur du service d'infrastructure de la défense Nord-Ouest ;
 
-14° Directeur adjoint chargé de la transformation et de la maîtrise des risques du service d'infrastructure de la défense ;
+14° Chargé des fonctions de chef de service “ maintenance et patrimoine ” du service d'infrastructure de la défense ;
 
 15° Adjoint au directeur du renseignement et de la sécurité de défense ;
 
@@ -788,15 +788,15 @@ G.-Emplois relevant du groupe 5 :
 
 90° Général adjoint maintien en condition opérationnelle auprès du sous-chef d'état-major “ activité ” de l'état-major de l'armée de l'air et de l'espace ;
 
-91° Commissaire général délégué et directeur de la plate-forme commissariat Sud-Est ;
+91° Commissaire général délégué du service du commissariat des armées et directeur de la plateforme commissariat Sud-Est ;
 
-92° Chef du groupement de soutien de la base de défense de Brest-Lorient ;
+92° Chef du groupement de soutien commissariat de Brest ;
 
-93° Chef du groupement de soutien de la base de défense d'Ile-de-France ;
+93° Chef du groupement de soutien commissariat d'Ile-de-France ;
 
-94° Chef du groupement de soutien de la base de défense de Toulon ;
+94° Chef du groupement de soutien commissariat de Toulon ;
 
-95° Commissaire général délégué et directeur de la plate-forme commissariat Sud-Ouest ;
+95° Commissaire général délégué du service du commissariat des armées et directeur de la plateforme commissariat Sud-Ouest ;
 
 96° Chargé des fonctions de sous-directeur métiers au sein de la direction centrale du service du commissariat des armées ;
 
@@ -804,7 +804,7 @@ G.-Emplois relevant du groupe 5 :
 
 98° Directeur de l'Ecole des commissaires des armées ;
 
-99° Directeur de la plate-forme commissariat Est ;
+99° Commissaire général délégué du service du commissariat des armées et directeur de la plateforme commissariat Est ;
 
 100° Directeur du centre interarmées du soutien " juridique " ;
 
@@ -812,7 +812,7 @@ G.-Emplois relevant du groupe 5 :
 
 102° Chargé des fonctions de sous-directeur “ droits individuels et études juridiques ” de la direction centrale du service du commissariat des armées ;
 
-103° Commissaire général délégué et directeur de la plate-forme commissariat Ouest ;
+103° Commissaire général délégué du service du commissariat des armées et directeur de la plateforme commissariat Ouest ;
 
 104° Médecin-chef de l'hôpital d'instruction des armées Robert Picqué ;
 
@@ -856,4 +856,4 @@ G.-Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 3 avril 2025 (NOR : ARMH2510790A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de février 2025.
+Conformément à l'article 4 de l'arrêté du 27 mai 2025 (NOR : ARMH2515445A), ces dispositions sont applicables aux rémunérations versées à compter du mois de mai 2025.
