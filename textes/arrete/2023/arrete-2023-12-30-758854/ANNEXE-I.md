@@ -16,7 +16,7 @@ DGPN |
 
 DGPN |
 
-Directeur général adjoint de la police nationale |
+Directeur du cabinet |
 
 PARIS |
 
@@ -638,7 +638,7 @@ PARIS |
 
 PPPJ |
 
-Chef de la brigade de recherche et d'intervention |
+Chef d'état-major |
 
 PARIS |
 
@@ -646,7 +646,7 @@ PARIS |
 
 PPPJ |
 
-Chef d'état-major |
+Sous-directeur chargé du soutien à l'investigation |
 
 PARIS |
 
@@ -692,4 +692,4 @@ Les postes de la DGSI éligibles à l'indemnité compensatrice de logement font 
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 11 juin 2024 (NOR : IOMC2413927A), ces dispositions entrent en vigueur le 1er juillet 2024.
+Conformément à l'article 4 de l'arrêté du 18 mars 2025 (NOR : INTC2508155A), ces dispositions entrent en vigueur le premier jour du mois qui suit sa publication, soit le 1er juin 2025.
