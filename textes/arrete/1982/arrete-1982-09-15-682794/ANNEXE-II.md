@@ -300,95 +300,169 @@ C. — Conditions concernant la présence d organismes nuisibles.
 
 Les semences doivent répondre notamment aux conditions suivantes :
 
-ESPECES |
+|
 
 ORGANISMES NUISIBLES |
 
-Pourcentage maximal en nombre de graines contaminées
+ESPECES |
 
-par des organismes nuisibles
+Pourcentage maximal de graines contaminées par des organismes nuisibles |
 
-|
+Nombre maximal
 
-Nombre maximal de sclérotes
+de sclérotes ou de fragments
 
-ou de fragments de sclérotes
+de sclérotes dans le poids
 
-dans le poids
+soumis à dénombrement (1) |
 
-soumis à dénombrement (1).
+Diaporthe
 
-|
+phaseolorum |
 
-Botrytis sp. p.
+Botrytis spp. |
 
-|
+Alternaria spp.
 
-Alternaria sp. p., Ascochyta linicola
+, Ascochyta linicola
 
-(syn. Phoma linicola),
+(syn. Phoma linicola)
 
-Colletotrichum Uni, Fusarium sp. p.
+, Colletotrichum lini,
 
-|
+Fusarium spp. |
 
-Sclerotinia sclerotiorum.
+Platyedra
 
-|
+gossypiel-la |
 
-Navette |
+Tobacco ring spot virus [TRSV00] |
+
+Sclerotinia sclerotiorum |
+
+Navette
+
+Colza
+
+Coton
+
+Lin oléagineux
+
+Moutarde blanche
+
+Tournesol
+
+Chanvre
+
+Lin textile
+
+Soja |
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+15 |
+
+-
+
+-
+
+-
+
+5
+
+-
+
+5
+
+5
+
+5
 
 - |
 
-- |
+-
 
-5 |
+-
 
-Colza |
+-
 
-- |
+5
 
-- |
+-
 
-5 (a) |
+-
 
-Lin oléagineux |
+-
 
-5 |
-
-5 |
+5 (b)
 
 - |
 
-Moutarde blanche |
+-
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
 
 - |
 
-- |
+-
 
-5 |
+-
 
-Tournesol |
+-
 
-5 |
+-
 
-- |
+-
 
-10 |
+-
 
-Chanvre |
+-
 
-5 |
+-
 
-- |
+0 |
 
-- |
+5
 
-Lin textile |
+5 (a)
 
-5 |
+-
 
-5 (b) |
+-
+
+5
+
+10
+
+-
+
+-
 
 - |
 
@@ -401,3 +475,7 @@ b) dont, au maximum, 1 p. 100 de graines contaminées par Ascochyta linicola.
 II. - CONDITIONS AUXQUELLES DOIVENT REPONDRE LES SEMENCES COMMERCIALES DE PLANTES OLEAGINEUSES ET DE PLANTES A FIBRES
 
 Les semences commerciales doivent répondre aux conditions fixées au point I ci-dessus, à l'exception de celles se référant à la pureté minimale variétale.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 2 mai 2025 (NOR : AGRG2512689A), ces dispositions entrent en vigueur le 1er juin 2025.
