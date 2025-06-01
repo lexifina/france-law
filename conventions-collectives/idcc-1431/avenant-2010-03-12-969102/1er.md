@@ -1,6 +1,6 @@
 # Article 1er
 
-Les archives de la CPNE-FP sont domiciliées au 10, rue Audubon, 75012 Paris, à compter du 1er mars 2010, et librement consultables par tout membre de la CPNE-FP aux heures ouvrables des bureaux et sur demande formulée 48 heures à l'avance.
+Les archives de la CPNEFP sont domiciliées au 8, rue Chauveau-Lagarde, 75008 Paris, à compter du 1er juin 2025 et librement consultables par tout membre de la CPNE-FP aux heures ouvrables des bureaux sur demande formulées 48 heures à l'avance.
 
 La commission désigne l'organisation patronale qui assurera la tenue du secrétariat de la CPNE-FP.
 
@@ -12,7 +12,7 @@ En cas de révocation, la CPNE-FP devra alors procéder à une nouvelle désigna
 
 À la mise en œuvre du présent avenant, il devra être procédé à la désignation du secrétariat.
 
-L'adresse postale de la CPNE-FP est fixée au 10, rue Audubon, 75012 Paris à compter du 12 mars 2010.
+L'adresse postale de la CPNEFP est fixée au 8, rue Chauveau-Lagarde, 75008 Paris, à compter du 1er juin 2025.
 
 Le secrétariat de la commission assumera notamment les tâches suivantes :
 
