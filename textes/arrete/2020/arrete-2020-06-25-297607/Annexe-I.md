@@ -1035,3 +1035,17 @@ Capsicum annuum L.
 Solanum lycopersicum L. |
 
 0 % |
+
+Tomato brown rugose fruit virus [ToBRFV] |
+
+Capsicum annuum L., à l'exception des semences appartenant à une variété connue pour être résistante au ToBRFV
+
+Solanum lycopersicum L. et ses hybrides
+
+|
+
+0 % |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 2 mai 2025 (NOR : AGRG2512074A), les dispositions dudit arrêté entrent en vigueur le 1er juin 2025.
