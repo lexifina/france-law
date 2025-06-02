@@ -8,6 +8,8 @@ Lorsque les délibérations prises par le conseil d'administration en applicatio
 
 I. - Pièces à fournir dans tous les cas
 
+Pour les propriétaires en indivision, une attestation de l'indivisaire demandeur précisant qu'il est dûment mandaté par les autres indivisaires.
+
 La demande de subvention, formulée par voie électronique en utilisant les services de téléprocédures mis en place par l'ANAH ou présentée sur un formulaire spécifique adapté à la qualité du demandeur renseigné et comportant les principaux éléments nécessaires à l'instruction ainsi que la nature et l'étendue des engagements souscrits par celui-ci ou, le cas échéant, par son mandataire ou son représentant légal.
 
 Un dossier technique comprenant :
@@ -33,6 +35,8 @@ a) Pour les bénéficiaires visés à l'article R. 321-12 (I, 1°) du CCH : Lors
 - soit une copie de la fiche d'immeuble du bien subventionné délivrée par la conservation des hypothèques depuis moins de trois mois, ou une fiche individuelle de propriétaire ;
 
 - soit une attestation notariée justifiant, à la date du dépôt de la demande, de la propriété de l'immeuble objet des travaux de réhabilitation ;
+
+- soit la promesse synallagmatique de vente, uniquement dans le cas où le logement fait l'objet d'une acquisition en cours à la date du dépôt de la demande ;
 
 - soit une copie du titre de propriété pour les immeubles acquis depuis moins de trois mois ;
 
@@ -168,7 +172,9 @@ a) Pour les propriétaires occupants et assimilés :
 
 - un relevé d'identité bancaire (RIB) du compte bancaire sur lequel devra être effectué le virement correspondant ;
 
-- le cas échéant, si un mandataire est nécessaire ou désigné par le bénéficiaire pour percevoir les fonds, une procuration répondant aux règles exigées par l'agence, notamment par l'article 19 bis du présent RGA.
+- le cas échéant, si un mandataire est nécessaire ou désigné par le bénéficiaire pour percevoir les fonds, une procuration répondant aux règles exigées par l'agence, notamment par l'article 19 bis du présent RGA ;
+
+- le cas échéant, si le demandeur a fourni une promesse synallagmatique de vente lors du dépôt du dossier, le justificatif de propriété.
 
 b) Pour les syndicats de copropriétaires définis au 7° du I de l'article R. 321-12 du CCH :
 
@@ -198,7 +204,9 @@ La demande de versement d'acompte est appréciée par le délégué de l'agence 
 
 - le cas échéant, si un mandataire est nécessaire ou désigné par le bénéficiaire pour percevoir les fonds, une procuration répondant aux règles exigées par l'agence, notamment par l'article 19 bis du présent RGA ;
 
-- le cas échéant, tout document complémentaire qui serait demandé par la décision d'attribution de subvention, notamment lorsqu'une convention d'opération importante de réhabilitation a été signée avec le bénéficiaire.
+- le cas échéant, tout document complémentaire qui serait demandé par la décision d'attribution de subvention, notamment lorsqu'une convention d'opération importante de réhabilitation a été signée avec le bénéficiaire ;
+
+- le cas échéant, si le demandeur a fourni une promesse synallagmatique de vente lors du dépôt du dossier, le justificatif de propriété.
 
 Pour les syndicats de copropriétaires définis au 7° du I de l'article R. 321-12 du CCH, le RIB devra permettre de déterminer avec certitude que les obligations imposées par le présent règlement et le conseil d'administration en matière de mise en œuvre de moyens comptables et financiers permettant l'affectation des subventions au profit exclusif des travaux subventionnés sont respectées, c'est-à-dire, suivant le seuil fixé par le conseil d'administration, soit un compte bancaire spécifique travaux, soit un compte ouvert au nom du syndicat.
 
@@ -218,6 +226,8 @@ A. - Pièces à fournir dans tous les cas :
 
 - le plan de financement signé si celui-ci n'a pas été fourni dans le dossier de demande de subvention ou s'il a été modifié par rapport à celui présenté lors du dépôt de la demande.
 
+- le cas échéant, si le demandeur a fourni une promesse synallagmatique de vente lors du dépôt du dossier, le justificatif de propriété.
+
 B. - Pièces complémentaires particulières à fournir dans les cas suivants :
 
 a) Propriétaires bailleurs ou mettant gratuitement à disposition un logement (art. R. 321-12 [I, 1°]) ou organismes agréés visés au 6° de l'article R. 321-12 du CCH :
@@ -228,9 +238,9 @@ a) Propriétaires bailleurs ou mettant gratuitement à disposition un logement (
 
 - le cas échéant, la convention signée en application des articles L. 321-4 et L. 321-8 du CCH ;
 
-- les justificatifs de location (bail, contrat de location...) au nom du (des) locataire(s) du (des) logement(s) ;
+- le cas échéant, les justificatifs de location (bail, contrat de location...) au nom du (des) locataire(s) du (des) logement(s) ;
 
-- pour les logements mis à disposition d'autrui : le contrat écrit de prêt à usage ou commodat en cas de mise à disposition d'autrui du logement ayant bénéficié de la subvention ; la justification des ressources de l'occupant, dans les conditions prévues à l'article 15-C. I. 2 du présent règlement, ou de sa situation de personne handicapée ; ou, lorsque le logement est mis à disposition d'un organisme agréé au titre de l'article L. 365-4 du CCH pour l'exercice d'activités conduites en faveur du logement ou de l'hébergement des personnes défavorisées, une copie de son agrément.
+- pour les logements mis à disposition d'autrui : le contrat écrit de prêt à usage ou commodat en cas de mise à disposition d'autrui du logement ayant bénéficié de la subvention ; la justification de sa situation de personne handicapée le cas échéant ; ou, lorsque le logement est mis à disposition d'un organisme agréé au titre de l'article L. 365-4 du CCH pour l'exercice d'activités conduites en faveur du logement ou de l'hébergement des personnes défavorisées, une copie de son agrément.
 
 b) Pour les bénéficiaires visés au II de l'article R. 321-12 du CCH (travaux réalisés dans des locaux à usage d'habitation inclus dans un bail commercial) :
 
@@ -247,3 +257,7 @@ c) Pour les bénéficiaires visés au II de l'article R. 321-12 (travaux réalis
 - le cas échéant, les mêmes pièces exigées pour les bénéficiaires visés à l'article R. 321-12 (I) du CCH ;
 
 - lorsque le nantissement est prévu, l'acte de nantissement.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 28 mai 2025 (NOR : ATDL2509915A), ces dispositions s'appliquent aux dossiers déposés à compter du 2 juin 2025.
