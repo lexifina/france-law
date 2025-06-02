@@ -1,8 +1,8 @@
 # Article Annexe I
 
-RÉFÉRENTIEL D'ACTIVITÉS, DE COMPÉTENCES ET D'ÉVALUATION DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ " PERFECTIONNEMENT SPORTIF " MENTION " ACTIVITÉS DE CANOË-KAYAK ET DISCIPLINES ASSOCIÉES EN EAU VIVE "
+RÉFÉRENTIEL D'ACTIVITÉS, DE COMPÉTENCES ET D'ÉVALUATION DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ "PERFECTIONNEMENT SPORTIF" MENTION "ACTIVITÉS DE CANOË-KAYAK ET DISCIPLINES ASSOCIÉES EN EAU VIVE"
 
-Le titulaire du DEJEPS "activités de canoë-kayak et disciplines associées en eau vive" conçoit, organise, met en œuvre en sécurité et évalue des activités d'entrainement* notamment de compétiteurs à l'exclusion de la haute performance, au sein de structures** proposant des activités de canoë-kayak et de sports de pagaie. Il peut également encadrer des séances en environnement spécifique, c'est à dire en rivière de classe supérieure à III.
+Le titulaire du DEJEPS “ activités de canoë-kayak et disciplines associées en eau vive ” conçoit, organise, met en œuvre en sécurité et évalue des activités d'entrainement (*) notamment de compétiteurs, au sein de structures (**) proposant des activités de canoë-kayak et de sports de pagaie. Il peut également encadrer des séances en environnement spécifique, c'est à dire en rivière de classe supérieure à III.
 
 Il peut occuper des postes d'entraîneur ou de guide de canoë-kayak et sports de pagaie dans diverses structures telles que des clubs de canoë-kayak, des collectivités territoriales, des centres de vacances ou toutes autres structures proposant des activités de canoë kayak et de sports de pagaie en eau vive.
 
@@ -12,9 +12,11 @@ Il réalise une veille sur l'évolution technique et technologique des activité
 
 Il assure la conception, la mise en œuvre et l'évaluation d'actions de développement s'inscrivant au service du projet de développement de sa structure ou de son territoire, en lien avec les dirigeants de la structure. Il peut être en situation de management intermédiaire d'une équipe.
 
-* L'entrainement a comme objectif l'accompagnement des pratiquants d'une discipline par des actions de perfectionnement en vue de passer des paliers techniques avancés, de leur permettre de prendre part à des compétitions, ou de leur permettre d'appréhender en autonomie les environnements spécifiques ou les milieux naturels engagés dans une activité sportive donnée.
+(*) L'entrainement a comme objectif l'accompagnement des pratiquants d'une discipline par des actions de perfectionnement en vue de passer des paliers techniques avancés, de leur permettre de prendre part à des compétitions, ou de leur permettre d'appréhender en autonomie les environnements spécifiques ou les milieux naturels engagés dans une activité sportive donnée.
 
-** Structure : organisation / entité autonome ou non (par exemple association, service d'une collectivité territoriale, établissement ou secteur d'une association, structure commerciale, …). |
+(**) Structure : organisation/ entité autonome ou non (par exemple association, service d'une collectivité territoriale, établissement ou secteur d'une association, structure commerciale …).
+
+|
 
 REFERENTIEL D'ACTIVITES
 
@@ -405,3 +407,7 @@ Le candidat présente le bilan écrit d'un programme d'entrainement sportif en e
 - Il a sélectionné les destinataires du bilan du programme |
 
 (*) L'entrainement a comme objectif l'accompagnement des pratiquants d'une discipline par des actions de perfectionnement en vue de passer des paliers techniques avancés, de leur permettre de prendre part à des compétitions, ou de leur permettre d'appréhender en autonomie les environnements spécifiques ou les milieux naturels engagés dans une activité sportive donnée. |
+
+NOTA :
+
+Conformément à l’article 4 de l’arrêté du 24 avril 2025 (NOR : SPOV2513844A), ces dispositions s’appliquent aux sessions de formation ouvertes à compter du 1er juin 2026.
