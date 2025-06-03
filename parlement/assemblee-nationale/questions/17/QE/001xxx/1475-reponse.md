@@ -1,0 +1,9 @@
+# Réponse à la question n° 1475
+
+- Question : [1475](1475.md) — Question n° 1475 — UNPRG - Carte du retraité et de veuve de gendarmerie
+
+## Réponse
+
+*JO du 2025-06-03, page 4480*
+
+Les conditions de délivrance de la carte de retraité de la gendarmerie nationale sont définies par la circulaire n° 5000/DEF/GEND/OE/SDOE/REGL du 3 février 2005 relative aux cartes d'identité délivrées aux militaires de la gendarmerie. Cette circulaire dispose qu'une carte de retraité est attribuée aux gendarmes atteints par leur limite d'âge ou leur limite de durée des services. Ne constituant pas un document d'identité, la carte octroie de rares privilèges, tels que l'accès facilité aux mess militaires et la réduction ou la gratuité d'accès dans quelques musées militaires. Sa gestion et sa fabrication sont devenues obsolètes. Effectivement, il s'agit d'un document papier dont la confection, très chronophage, est assurée par les formations administratives lorsque les militaires décident de faire valoir leur droit à pension. Au regard, d'une part, du fort attachement des retraités de la gendarmerie à ce document qui marque leur lien avec l'Institution, et, d'autre part, du faible coût d'une telle mesure, la direction générale de la gendarmerie nationale étudie la possibilité d'automatiser la gestion et la confection d'une carte de format carte bancaire à la ligne totalement épurée afin d'éviter toute confusion avec une carte professionnelle des militaires d'active. Cette carte serait également attribuée aux réservistes honoraires et aux veuves et veufs de militaires de la gendarmerie, avec mentions spécifiques de leur état. Les associations d'anciens militaires de la gendarmerie se verront prochainement présenter les conditions d'attribution et le modèle de carte que la gendarmerie compte produire, à horizon 2025, sous réserve des conditions de développement technique.
