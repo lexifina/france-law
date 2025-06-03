@@ -1,0 +1,9 @@
+# Réponse à la question n° 4337
+
+- Question : [4337](4337.md) — Question n° 4337 — Reconnaissance des cancers comme maladie professionnelle des sapeurs-pompiers
+
+## Réponse
+
+*JO du 2025-06-03, page 4550*
+
+La prise en charge des risques liés à la toxicité des résidus d'incendie et à la pollution par les particules fines constitue une problématique majeure clairement identifiée et bien prise en compte par le Gouvernement. Tout d'abord, il peut être utile de rappeler qu'il est possible de bénéficier de la reconnaissance des maladies professionnelles lorsque l'affection résulte d'une maladie non inscrite au tableau des maladies professionnelles, conformément au dernier alinéa de l'article L. 822-20 du code général de la fonction publique. Pour autant, le Gouvernement a d'ores et déjà initié les travaux visant à modifier les tableaux des maladies professionnelles s'agissant des deux pathologies associées à des preuves scientifiques avérées concernant les sapeurs-pompiers. Les travaux scientifiques de nature à conforter le faisceau d'arguments internationaux des pathologies aux preuves scientifiques probables se poursuivent pour consolider ou infirmer le lien entre l'activité de sapeur-pompier et d'autres cancers. Ces travaux devraient permettre par la suite d'établir un consensus social sur les pathologies à inscrire au tableau des maladies professionnelles. Ces études contribueront également à ajuster les données nécessaires au suivi de l'exposition des sapeurs-pompiers aux risques inhérents aux différentes missions des services d'incendie et de secours, éléments qui pourront utilement éclairer le suivi médical des sapeurs-pompiers tout au long de la carrière ainsi que le suivi post-professionnel instauré dans la fonction publique territoriale par le décret n° 2015-1438 du 5 novembre 2015 et dont les éléments de traçabilité à prendre en compte actuellement ont été rappelés aux services d'incendie et de secours en début d'année.
