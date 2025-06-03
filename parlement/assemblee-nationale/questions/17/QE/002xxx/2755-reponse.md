@@ -1,0 +1,9 @@
+# Réponse à la question n° 2755
+
+- Question : [2755](2755.md) — Question n° 2755 — Suspicion de harcèlement au sein d'EDF
+
+## Réponse
+
+*JO du 2025-06-03, page 4407*
+
+Le député interroge le Ministre de l'industrie et de l'énergie sur les actions mises en place par l'Etat sur les différentes accusations d'harcèlement moral et de discrimination de salariés au sein d'EDF et sur le sujet de la santé mentale. L'Etat, actionnaire à 100% d'EDF et représenté au conseil d'administration de l'entreprise, veille au bon suivi des enjeux de sécurité-sûreté et de bien-être au travail au sein de la gouvernance du Groupe. En particulier, ces questions font l'objet d'un rapport annuel au Comité de responsabilité d'entreprise, où siègent deux administrateurs nommés sur proposition de l'Etat. La présence du représentant de l'Etat au Comité des nominations, des rémunérations et de la gouvernance permet également de s'assurer de la prise en compte de ces enjeux essentiels dans la rémunération des dirigeants du Groupe. EDF a ainsi rendu compte au sein de ces instances de multiples actions mises en place : Charte Ethique, Politique Prévention Santé Sécurité, formation des salariés à ces sujets, enquête annuelle, mise en place d'un numéro vert « Ecoute et Soutien », etc. L'Etat actionnaire, au-delà du seul cas EDF, est attaché à ce que les entreprises de son portefeuille apportent toute l'attention nécessaire sur les sujets de santé-sécurité au travail. L'Agence des Participations de l'Etat a notamment transmis à ses entreprises, dont EDF, une charte en matière de responsabilité sociale, sociétale et environnementale au sein de laquelle il leur est demandé d'établir et d'évaluer des systèmes de prévention du stress et des risques psycho-sociaux, et de déployer activement des politiques de prévention pour améliorer le bien-être au travail. Cet effort a vocation à continuer et à s'accentuer sur ces sujets particulièrement sensibles.
