@@ -1,0 +1,9 @@
+# Réponse à la question n° 5200
+
+- Question : [5200](5200.md) — Question n° 5200 — Le suicide chez les sapeurs pompiers
+
+## Réponse
+
+*JO du 2025-06-03, page 4562*
+
+Depuis plusieurs années, les suicides et tentatives de suicide des sapeurs-pompiers (professionnels et volontaires) et des militaires de la sécurité civile sont particulièrement suivis par les services d'incendie et secours, et ce sous la supervision directe de l'inspection générale de la sécurité civile, démontrant ainsi, s'il était nécessaire de le faire, toute l'attention portée par le Gouvernement à ces drames, et à leur prévention. Les causes en sont multiples, tant personnelles que professionnelles, et ne peuvent se résumer à quelques exemples, dès lors que chaque situation est différente. De même, le lieu de survenance ne peut être considéré à lui seul comme révélateur d'une cause plus que d'une autre. Quelles que soient les causes et les circonstances, un suicide est toujours un drame pour la communauté des sapeurs-pompiers. S'il n'appartient pas au pouvoir exécutif de commenter des décisions de justice, il convient de rappeler que les services d'incendie et de secours se mobilisent régulièrement et aussi efficacement que possible dans la prévention. Ainsi, les médecins-chefs des sous-directions santé ont récemment pu bénéficier d'une intervention lors de leur rencontre nationale annuelle précisant les modalités de recours au numéro 3114 de prévention du suicide et la mobilisation possible des psychologues et des psychothérapeutes des services d'incendie et de secours lors d'appels de sapeurs-pompiers ou de leur entourage. De plus, les travaux de l'observatoire national de la santé des agents des services d'incendie et de secours, créé à l'initiative du ministère en 2024, seront axés sur les risques psychologiques auxquels sont exposés les sapeurs-pompiers.
