@@ -1,0 +1,9 @@
+# Réponse à la question n° 2246
+
+- Question : [2246](2246.md) — Question n° 2246 — Autorisation des EDPM sur les voies vertes et VTT
+
+## Réponse
+
+*JO du 2025-06-03, page 4503*
+
+La catégorie des engins de déplacement personnel motorisés (EDPM) a été créée à l'article R. 311-1 du code de la route par le décret n° 2019-1082 du 23 octobre 2019 relatif à la réglementation des engins de déplacement personnel. La catégorie EDPM englobe tout « véhicule sans place assise, conçu et construit pour le déplacement d'une seule personne et dépourvu de tout aménagement destiné au transport de marchandises, équipé d'un moteur non thermique ou d'une assistance non thermique et dont la vitesse maximale par construction est supérieure à 6 km/ h et ne dépasse pas 25 km/ h. » Les trottinettes électriques qui répondent à ces critères doivent donc respecter les règles de circulation définies à l'article R. 412-43-1 du même code. Cet article prévoit que la circulation des EDPM est, par défaut, interdite hors agglomération, sauf sur les voies vertes et les pistes cyclables. La circulation sur ces espaces est donc déjà autorisée. De surcroit, par dérogation, l'autorité investie du pouvoir de police de la circulation peut, par décision motivée, autoriser la circulation sur les routes dont la vitesse maximale autorisée est inférieure ou égale à 80 km/ h, sous réserve que l'état et le profil de la chaussée, ainsi que les conditions de trafic le permettent. La réglementation, dans son état actuel, contient donc déjà des possibilités d'adaptation locale. Par conséquent, le Gouvernement n'envisage pas de la modifier. En dehors des routes ouvertes à la circulation publique, les règles locales de circulation qui s'appliquent aux EDPM peuvent dépendre d'autres réglementations telles celles définies par le code de l'environnement, le code rural ou le code forestier et nécessiter l'accord des propriétaires des domaines traversés.
