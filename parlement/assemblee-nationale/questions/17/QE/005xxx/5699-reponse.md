@@ -1,0 +1,9 @@
+# Réponse à la question n° 5699
+
+- Question : [5699](5699.md) — Question n° 5699 — Les communes lésées par des recensements partiels et des dotations faussées
+
+## Réponse
+
+*JO du 2025-06-03, page 4265*
+
+Conformément aux articles 156 à 158 de la loi 2002-276 du 27 février 2002, le recensement de population est conjointement réalisé par l'Insee et les communes, qui déploient de nombreux efforts afin de favoriser la participation de tous les habitants. Dans les communes de moins de 10 000 habitants, un recensement exhaustif est réalisé tous les cinq ans, même si les chiffres de population sont actualisés chaque année pour tenir compte des évolutions démographiques, et ajuster les dotations de l'Etat. Dans ces communes, la part des ménages n'ayant pu être contactés par un agent recenseur s'élève seulement à 3,2 % en 2025. Le nombre d'habitants de ces ménages est parfois connu à travers les renseignement pris auprès du voisinage ou de la commune elle-même. Dans le cas contraire, l'Insee procède à une estimation. Ainsi, tous les habitants, qu'ils aient ou non répondu au recensement, sont bien pris en compte pour le calcul des dotations de l'État, et notamment la dotation globale de fonctionnement (DGF). Dans les communes de plus de 10 000 habitants où la part des ménages n'ayant pu être contactés s'élève à 5,6 % en 2025, ces procédures d'estimation s'appliquent également. Le recensement de 40 % des logements sur 5 ans vise à fournir une estimation du nombre moyen d'habitants par logement, ce nombre moyen étant ensuite appliqué au nombre de logements exhaustif de la commune, connu notamment à partir des sources fiscales. Ainsi, les processus de contrôle et de calcul des populations de référence des communes qui servent de base aux dotations de l'Etat, prennent bien en compte l'ensemble des habitants, y compris ceux n'ayant pu être contactés par les agents recenseurs
