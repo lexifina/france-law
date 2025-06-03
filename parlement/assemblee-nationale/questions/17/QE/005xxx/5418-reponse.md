@@ -1,0 +1,9 @@
+# Réponse à la question n° 5418
+
+- Question : [5418](5418.md) — Question n° 5418 — Paiement Chorus aux professions libérales
+
+## Réponse
+
+*JO du 2025-06-03, page 4263*
+
+Les délais de traitement des factures destinées aux services de l'État sont globalement très satisfaisants. En 2024, le délai global de paiement des dépenses de l'État au titre des factures déposées par les fournisseurs sur Chorus Pro s'élevait à 16,5 jours en moyenne, très largement en dessous du délai réglementaire de 30 jours. Même si le taux de factures payées au-delà de 30 jours reste limité, de l'ordre de 10 %, sa réduction constitue un objectif prioritaire pour l'ensemble des acteurs de fonction financière de l'État. Le délai de traitement des factures destinées aux collectivités locales est également tout à fait satisfaisant puisque le délai de paiement était de 19,7 jours en 2024, bien en-dessous du délai réglementaire à 30 jours. Le taux de factures payées au-delà de 30 jours reste également limité, de l'ordre de 16,2 %. Pour les établissements publics de santé, qui connaissent davantage de difficultés de trésorerie que les collectivités locales, le délai de paiement moyen est de 63,4 jours et dépasse le délai réglementaire de 50 jours. Le taux de factures payées au-delà de 50 jours continue de progresser et s'élève à 44,8 %. Il est précisé que, via Chorus Pro, le fournisseur dispose à tout moment de la faculté de suivre la situation de sa facture. Ainsi, dès qu'une facture est déposée sur Chorus Pro, elle est immédiatement transmise aux services des acheteurs publics (État et ses organismes publics, collectivités locales, établissements publics de santé), et un fournisseur peut en suivre le traitement en se connectant au portail de facturation ou en interrogeant l'agent conversationnel (chatbot Claudia) de Chorus Pro, accédant ainsi au cycle de vie de sa facture.
