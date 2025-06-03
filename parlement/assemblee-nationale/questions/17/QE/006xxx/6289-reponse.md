@@ -1,0 +1,9 @@
+# Réponse à la question n° 6289
+
+- Question : [6289](6289.md) — Question n° 6289 — Taxe de séjour pour les campings
+
+## Réponse
+
+*JO du 2025-06-03, page 4266*
+
+La taxe de séjour peut être instituée « au réel » et être perçue par les hébergeurs pour chaque touriste logé, ou « au forfait » et être perçue par les collectivités et déclarée a priori à ces mêmes collectivités pour chaque hébergement en fonction de la capacité d'accueil de celui-ci. Conformément aux dispositions de l'article L. 2333-30 du code général des collectivités territoriales (CGCT), le tarif de la taxe de séjour est fixé, pour chaque nature et pour chaque catégorie d'hébergement, par personne et par nuitée de séjour. Les modalités de taxation sont identiques, quel que soit le type d'hébergement implanté sur un terrain de camping. Lorsque la taxe de séjour est instituée au réel, elle est établie sur les personnes qui ne sont pas domiciliées dans la commune. Il convient toutefois de rappeler qu'en application de l'article D. 331-1-1 du code du tourisme, il n'est pas possible d'élire domicile dans un camping. Les personnes qui séjournent sur une aire de camping sont donc assujetties à la taxe de séjour sauf si elles sont par ailleurs domiciliées sur le territoire de la commune. Ainsi, pour un mobil-home, la taxe de séjour est due sur toute la durée du contrat de location pendant laquelle la personne dispose du mobil-home et au tarif fixé par le camping. En l'état actuel des dispositions relatives à la taxe de séjour, il n'est pas prévu de régime particulier pour les locations d'emplacements à l'année ou pour tenir compte de l'effectivité du séjour. De la même manière qu'une personne qui louerait une chambre pour un séjour de longue durée dans un hôtel, le propriétaire d'un mobil-home est tenu de s'acquitter du paiement de la taxe de séjour pour toute la période où il dispose de l'hébergement.
