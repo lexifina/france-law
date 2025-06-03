@@ -1,0 +1,9 @@
+# Réponse à la question n° 1606
+
+- Question : [1606](1606.md) — Question n° 1606 — Remise de rapport
+
+## Réponse
+
+*JO du 2025-06-03, page 4591*
+
+Le décret n° 2022-128 du 4 février 2022 modifiant les modalités de fixation de la valeur du point de pension militaire d'invalidité (PMI) a instauré, selon une périodicité bisannuelle, l'établissement par le ministre chargé des anciens combattants et victimes de guerre et le ministre chargé du budget d'un rapport comparant l'évolution constatée de la valeur du point de PMI et de celle de l'indice des prix à la consommation hors tabac. Ce rapport a été précédé d'un cycle de réunions préparatoires avec les associations représentatives du monde combattant. Ces travaux, validés par le Gouvernement, ont été transmis au Parlement le 22 mai. En tout état de cause, le Gouvernement a veillé à une évolution favorable de la valeur du point de PMI dans le contexte inflationniste. La loi de finances initiale pour 2022 a porté la valeur du point de PMI à 15,05 euros à compter du 1er janvier 2022, dérogeant aux règles du dispositif d'indexation sur l'indice de traitement brut - grille indiciaire de la fonction publique d'État afin de rattraper le décrochage de la valeur du point de PMI par rapport à l'évolution de l'inflation au cours de la période 2018-2021. Par dérogation également, deux revalorisations sont intervenues au 1er janvier 2023, portant la valeur du point à 15,63 euros, et au 1er janvier 2024, portant la valeur du point à 15,90 euros, afin de prendre en compte les augmentations de la valeur du point d'indice de la fonction publique de 3,5 % et de 1,5 % intervenues respectivement au 1er juillet 2022 et au 1er juillet 2023. La valeur du point de PMI a été fixée à 16,07 euros à compter du 1er janvier 2025 par l'arrête du 23 décembre 2024.
