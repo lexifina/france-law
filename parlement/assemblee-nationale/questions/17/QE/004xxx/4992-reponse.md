@@ -1,0 +1,9 @@
+# Réponse à la question n° 4992
+
+- Question : [4992](4992.md) — Question n° 4992 — Indemnisation des familles de harkis
+
+## Réponse
+
+*JO du 2025-06-03, page 4593*
+
+En 2024, le nombre de demandes relevant de la loi n° 2022-229 du 23 février 2022, adressées par les services de l'Office national des anciens combattants et des victimes de guerre à la commission nationale indépendante de reconnaissance et de réparation, s'élève à 10 321. Parmi celles-ci, 7 388 ont reçu un avis favorable. Par un arrêt du 4 avril 2024, la Cour européenne des droits de l'homme a demandé à la France de revaloriser le montant de l'indemnisation pour les conditions de vie dans le camp d'accueil de Bias. A la suite de cette décision concernant le camp de Bias, le barème d'indemnisation a été modifié par le décret n° 2025-256 du 20 mars 2025. Ce décret modifie le barème fixé à l'article 9 du décret n° 2022-394 du 18 mars 2022 afin d'augmenter de 1 000 à 4 000 euros par année commencée le montant dû. Le Gouvernement a décidé d'étendre ce barème au camp de Saint-Maurice l'Ardoise, pour tenir compte des conditions de vie similaires. Seuls ces deux sites seront concernés par ce barème spécifique. Les premiers dossiers ont été traités. Par ailleurs, la Commission nationale indépendante pour les Harkis (CNIH) a rendu, le mardi 29 avril 2025, son deuxième rapport d'activité, couvrant les années 2023 à 2025. En 2023, ces recherches ont conduit la Commission à proposer au Gouvernement l'élargissement du nombre de sites d'accueil ouvrant droit à réparation au titre de la loi du 23 février 2022. Ce travail s'est poursuivi jusqu'en 2025, aboutissant à la proposition de 37 nouveaux sites. Le Premier ministre a accepté cet élargissement. Le ministère des armées est pleinement engagé pour que le travail indispensable de reconnaissance et de réparation envers les Harkis soit pleinement mis en oeuvre.
