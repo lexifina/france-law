@@ -1,0 +1,9 @@
+# Réponse à la question n° 5348
+
+- Question : [5348](5348.md) — Question n° 5348 — Crédit d'impôt pour la garde d'enfants hors domicile
+
+## Réponse
+
+*JO du 2025-06-03, page 4350*
+
+Aux termes de l'article 200 quater B du code général des impôts (CGI), les dépenses effectuées par un contribuable domicilié en France au titre de la garde des enfants âgés de moins de six ans qu'il a à sa charge ouvrent droit, sous certaines limites et conditions, à un crédit d'impôt sur le revenu. Le crédit d'impôt est réservé aux seules dépenses nécessitées par la garde des enfants à l'extérieur du domicile du contribuable (cf. BOI-IR-RICI-300 § 50). Afin de renforcer le soutien apporté aux familles, le plafond annuel du crédit d'impôt pour frais de garde des jeunes enfants a été substantiellement revalorisé par la loi n° 2022-1726 du 30 décembre 2022 de finances pour 2023, qui l'a porté de 2 300 € à 3 500 €. En outre, alors que cet avantage fiscal visait, lors de son instauration, à apporter un soutien financier aux contribuables dont les enfants ne sont pas intégrés dans le cycle de la scolarisation obligatoire, que la plupart des enfants débutaient auparavant à l'âge de six ans, les conditions d'application du crédit d'impôt sont restées inchangées en dépit de la baisse de l'âge de l'instruction obligatoire de six à trois ans depuis la rentrée 2019 (article 11 de la loi n° 2019-791 du 26 juillet 2019 pour une école de la confiance). Il en résulte que le dispositif est plus avantageux qu'auparavant, en ce qu'il permet aux contribuables de continuer de bénéficier du crédit d'impôt au titre des frais engagés pour la garde d'enfants âgés de trois à six ans, alors que ceux-ci sont scolarisés. Il n'est, dès lors, pas envisagé d'étendre cet avantage fiscal aux frais de garde des enfants âgés de plus de six ans, à plus forte raison dans le contexte budgétaire actuel.
