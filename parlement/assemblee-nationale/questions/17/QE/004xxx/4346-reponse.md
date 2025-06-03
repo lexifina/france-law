@@ -1,0 +1,9 @@
+# Réponse à la question n° 4346
+
+- Question : [4346](4346.md) — Question n° 4346 — Défiscalisation du pet sitting
+
+## Réponse
+
+*JO du 2025-06-03, page 4326*
+
+Aux termes de l'article 199 sexdecies du code général des impôts, les sommes versées par un contribuable domicilié en France au titre de l'emploi direct d'un salarié ou du recours à une association, une entreprise ou un organisme agréés pour les services à la personne définis aux articles L. 7231-1 et D. 7231-1 du code du travail et rendus à la résidence du contribuable ouvrent droit, sous certaines limites et conditions, à un crédit d'impôt sur le revenu. À ce titre, la garde d'animaux de compagnie à domicile pour le grand public ne constitue pas une activité de service à la personne définie par les dispositions précitées du code du travail, qui serait par elle-même éligible à cet avantage fiscal. Les dépenses engagées au titre de la garde d'animaux de compagnie à domicile pour le grand public n'ouvrent ainsi pas droit au crédit d'impôt pour l'emploi d'un salarié à domicile. Seule l'activité de soins et promenades d'animaux de compagnie pour les personnes dépendantes, à l'exception des soins vétérinaires et du toilettage, mentionnée au 12° du II de l'article D. 7231-1 du code du travail permet de bénéficier du crédit d'impôt au titre des services à la personne. Les bénéficiaires sont strictement limités aux personnes dépendantes, qui se définissent comme les personnes atteintes de pathologies chroniques invalidantes ou présentant momentanément une affection les empêchant d'accomplir les actes ordinaires de la vie quotidienne. Comme tout avantage fiscal, ce crédit d'impôt, qui a engendré une dépense fiscale de plus de 6 milliards d'euros en 2023, ne peut être préservé que si sa mise en œuvre est strictement limitée, ce qui fait obstacle à une extension de son champ d'application.
