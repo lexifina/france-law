@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404355
+
+- Question : [SEQ250404355](seq250404355.md) — Accès des gendarmes réservistes à la police municipale
+
+## Réponse
+
+*Intérieur , JO du 2025-06-05, page 3200*
+
+Les conditions et la détermination des viviers de recrutement dans les polices municipales relèvent des cadres d'emplois de la fonction publique territoriale, pilotés par la direction générale des collectivités locales (DGCL). La gendarmerie nationale souhaite valoriser les personnels et offrir les meilleures perspectives à ses réservistes. Les réservistes opérationnels de la gendarmerie nationale ne sont néanmoins pas éligibles aux dispositions des articles L.4139-1 à L.4139-3 du code de la défense, car ces dernières reposent sur la position statutaire du détachement, laquelle n'est applicable qu'aux militaires d'active. A ce stade, ces dispositions du statut militaire ne font pas l'objet de travaux de modification pour y intégrer les réservistes. Pour autant, à l'instar de ce qui a été mis en place pour le deuxième concours interne d'admission au cadre d'emplois des agents de police municipale, qui prévoit un recrutement possible de gendarmes adjoints volontaires à hauteur de 20% au plus du nombre des postes à pourvoir (en vertu du 3° de l'article 4 du décret n° 2006-1391 du 17 novembre 2006 portant statut particulier du cadre d'emplois des agents de police municipale), une facilité d'accès pourrait éventuellement être étudiée au profit des réservistes opérationnels. Elle semblerait devoir être conditionnée à une durée minimale d'engagement dans la réserve opérationnelle de la gendarmerie ainsi qu'à un nombre minimum de jours effectifs pour lesquels le réserviste fait l'objet d'une convocation au titre de son engagement à servir. A cette fin, la création d'un concours ad hoc ou un élargissement du périmètre du deuxième concours interne précité pourrait être utilement recherché par la DGCL.
