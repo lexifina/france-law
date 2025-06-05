@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250504786
+
+- Question : [SEQ250504786](seq250504786.md) — Adaptation des normes incendie aux réalités des territoires ruraux
+
+## Réponse
+
+*Intérieur , JO du 2025-06-05, page 3202*
+
+Avant la réforme de la défense extérieure contre l'incendie (DECI) instituée par la loi n° 2011-525 du 17 mai 2011 et la parution du décret n° 2015-235 du 27 février 2015, la circulaire interministérielle n° 465 du 10 décembre 1951, qui constituait la seule référence en la matière, prévoyait déjà la présence d'un point d'eau incendie à moins de 200 mètres de toute construction, voire 400 mètres en cas de risques isolés par exemple. L'article R. 2225-3 du code général des collectivités territoriales dispose désormais qu'un référentiel du règlement départemental DECI (RDDECI) fixe pour chaque département les règles, dispositifs et procédures de défense extérieure contre l'incendie et qu'il caractérise les différents risques présentés par l'incendie, en particulier des différents types de bâtiment, d'habitat, ou d'urbanisme. Élaboré par le service départemental d'incendie et de secours en application des dispositions de l'article L. 1424-2 du code général des collectivités territoriales, ce RDDECI pris par arrêté préfectoral, est établi en concertation avec les maires et l'ensemble des acteurs concourant à la défense extérieure contre l'incendie. C'est ce document qui permet de prendre en compte, localement ou à l'échelle du département, les risques particuliers, et d'adapter aux spécificités des territoires ruraux les modalités de sa mise en oeuvre. Sur sollicitation du préfet, le RDDECI peut donc être modifié et révisé en vue de prendre en compte l'ensemble de ces problématiques. Ce nouveau dispositif permet dorénavant une réelle adaptation de la DECI aux spécificités des territoires ruraux.
