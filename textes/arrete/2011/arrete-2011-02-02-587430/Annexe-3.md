@@ -8,9 +8,9 @@ SOCIÉTÉ |
 
 ADRESSE |
 
-APPAREILS AGRÉÉS
+APPAREILS AGRÉÉS POUR
 
-pour lesquels la société reçoit l'habilitation |
+lesquels la société reçoit l'habilitation |
 
 1 |
 
@@ -38,9 +38,11 @@ ALPHATRON MARINE FRANCE |
 
 Appareils radar :
 
-JRC JMA-610 6/7/9 (R-4-015)
+JRC JMA-610 6/7/9 (R-4-015) ;
 
-Tresco Radar Link (R-1-103)
+Tresco Radar Link (R-1-103) ;
+
+Furuno RHRS-2014 (R-4-021)
 
 Indicateurs de vitesse de giration :
 
@@ -54,7 +56,13 @@ Alphaturn 90° MC/ Alphaturn 300° MC (R-4-093) ;
 
 Alphaturn MF (R-4-092) ;
 
-AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) |
+AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) ;
+
+Titan 300 90°/ min 270°/ min + S300 (e-01-085) ;
+
+Titan 500 90°/ min 270°/ min + S300 (e-01-084) ;
+
+Titan 1000 90°/ min 300°/ min + S300 (e-01-083) |
 
 3 |
 
@@ -118,7 +126,7 @@ AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) |
 
 HEXA MARINE |
 
-46 Kerolivier
+46, Kerolivier
 
 44410 Saint-Lyphard |
 
@@ -140,7 +148,9 @@ AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) |
 
 MAP Marine |
 
-1, quai de la Grande Bigue-bât. B-13002 Marseille |
+1, quai de la Grande-Bigue, bât. B
+
+13002 Marseille |
 
 Appareils radar :
 
@@ -234,9 +244,9 @@ Radio Holland ; Radio Zeeland ; Alphatron |
 
 THEMYS |
 
-Quartier de la chaume
+Quartier de la Chaume
 
-CD 45-pont de l'Etoile
+CD 45, pont de l'Etoile
 
 13360 Roquevaire |
 
