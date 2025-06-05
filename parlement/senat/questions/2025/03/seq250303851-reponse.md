@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250303851
+
+- Question : [SEQ250303851](seq250303851.md) — Application des tarifs sur la taxe de publicité extérieure
+
+## Réponse
+
+*Comptes publics, JO du 2025-06-05, page 3017*
+
+L'ordonnance n° 2023-1210 du 20 décembre 2023 portant création du titre V du livre IV du code des impositions sur les biens et services et portant diverses autres mesures de recodification de mesures non fiscales recodifie effectivement les dispositions fiscales de la taxe sur la publicité extérieure initialement prévues aux articles L. 2333-6 et suivants du code général des collectivités territoriales dans le code des impositions sur les biens et les services (CIBS). Les tarifs normaux de taxe sur la publicité extérieure sont définis aux articles L. 454-60 à L. 454-62 du CIBS. Certaines communes peuvent majorer leurs tarifs lorsqu'elles appartiennent à un EPCI dont la population relève d'une strate supérieure en termes de tarifs. La majoration est limitée aux tarifs normaux de la strate de population immédiatement supérieure. Ainsi, une commune de moins de 50 000 habitants appartenant à un EPCI de plus de 200 000 habitants peut majorer ses tarifs dans la limite des tarifs normaux prévus pour les collectivités dont la population est comprise entre 50 000 et moins de 200 000 habitants. Les dispositions prévoyant ces majorations figuraient initialement aux articles L. 2333-9 et L. 2333-10 du CGCT. Elles n'ont été que partiellement intégrées au CIBS. C'est la raison pour laquelle l'article 75 de la LFI 2025 consolide le régime juridique des majorations existant avant la recodification, avec un effet rétroactif au 1er janvier 2024, dans le nouvel article L. 454-62-1 du CIBS. Par conséquent, la difficulté que vous avez soulevée et que rencontrent certaines communes a été résolue.
