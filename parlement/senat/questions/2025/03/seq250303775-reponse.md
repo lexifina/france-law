@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250303775
+
+- Question : [SEQ250303775](seq250303775.md) — Absence de publication des décrets relatifs à la réserve opérationnelle douanière
+
+## Réponse
+
+*Comptes publics, JO du 2025-06-05, page 3016*
+
+Le Gouvernement partage le constat fait sur le décalage pris entre la publication de l'article 8 de la loi n° 2023-610 du 18 juillet 2023 créant la réserve opérationnelle douanière et celle des mesures règlementaires. De nombreux volontaires douaniers retraités et personnels issus de la société civile et militaire souhaitent apporter leur contribution à la douane afin de faire face aux nouvelles menaces. Ce contretemps trouve son origine dans plusieurs facteurs. Effectivement, la délicate rédaction des projets de textes, qui impliquent la coordination de nombreux acteurs, les contraintes d'organisation de la fonction réserve opérationnelle au sein de la douane et le parangonnage à assurer avec d'autres administrations disposant d'une réserve opérationnelle ont pris un temps important. Toutefois, le décret en conseil d'État concernant « les modalités de mise en oeuvre de la réserve opérationnelle des douanes », accompagné du décret relatif « aux conditions d'indemnisation des périodes d'emploi et de formation continue des réservistes opérationnels des douanes », ainsi que l'arrêté relatif aux « taux d'indemnités journalières des réservistes opérationnels des douanes » ont été remis au secrétaire général des ministères économiques et financiers, pour transmission au guichet unique fin octobre. Ces textes seront ensuite présentés pour avis auprès des organisations représentatives puis au conseil d'État. Nonobstant les délais additionnels souhaités au niveau du guichet unique, de la consultation des instances du dialogue social ou du conseil d'État, les premiers recrutements de réservistes opérationnels douaniers pourraient intervenir début 2026.
