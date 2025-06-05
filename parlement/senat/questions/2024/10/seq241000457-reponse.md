@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000457
+
+- Question : [SEQ241000457](seq241000457.md) — Modification du périmètre d'une circonscription législative
+
+## Réponse
+
+*Intérieur , JO du 2025-06-05, page 3111*
+
+La délimitation des circonscriptions pour l'élection des députés repose sur les limites des cantons tels que définis à la date d'entrée en vigueur de l'ordonnance n° 2009-935 du 29 juillet 2009 portant répartition des sièges et délimitation des circonscriptions pour l'élection des députés. A cette date, la commune d'Alès était divisée entre les cantons Alès-Ouest, Alès-Nord-Est et Alès Sud-Est, répartis respectivement sur la cinquième circonscription législative du Gard pour Alès-Ouest et sur la quatrième circonscription législative du Gard pour Alès-Nord-Est et Alès Sud-Est. Par décret n° 2014-232 du 24 février 2014 portant délimitation des cantons dans le département du Gard, la commune d'Alès a fait l'objet d'un redécoupage de ses limites cantonales. Ce redécoupage cantonal postérieur à l'ordonnance du 29 juillet 2009 est cependant sans incidence sur le découpage des circonscriptions législatives qui ne peuvent être modifiées que par la loi. Dès lors, c'est le découpage cantonal en vigueur lors de la promulgation de l'ordonnance en 2009 qui prévaut pour la définition des circonscriptions législatives. Si la mise en cohérence des circonscriptions législatives avec les limites cantonales et communales apparaît comme une mesure de simplification administrative, elle implique néanmoins l'adoption d'un texte de niveau législatif, après avis de la commission indépendante dont l'institution est prévue à l'article 25 de la Constitution. En effet, un redécoupage de circonscription législative ne saurait être réalisé sans l'application de l'ensemble du processus prévu par la Constitution. Aucun redécoupage des circonscriptions législatives n'est actuellement envisagé.
