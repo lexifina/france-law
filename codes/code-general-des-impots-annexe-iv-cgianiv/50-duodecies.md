@@ -1492,13 +1492,13 @@ Biscuits additionnés d'édulcorants, même contenant du cacao, d'une teneur en 
 
 Biscottes |
 
-20-02-10-90 |
-
-Tomates, entières ou en morceaux, préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique (à l'exclusion des tomates pelées) |
-
 20-02-90-20 |
 
-Tomates préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique d'une teneur en poids de matière sèche égale ou supérieure à 12 % mais inférieur ou égale à 34 % en emballages immédiats d'un contenu net n'excédant pas 1kg |
+Tomates préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique-autres-d'une teneur en poids de matière sèche égale ou supérieure à 12 % mais inférieure ou égale à 20 % |
+
+20-02-90-49 |
+
+Tomates préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique-autres-d'une teneur en poids de matière sèche supérieure à 20 % mais inférieure ou égale à 34 % en emballages immédiats d'un contenu net n'excédant pas 1 kg |
 
 20-04-10-99 |
 
