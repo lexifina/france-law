@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404026
+
+- Question : [SEQ250404026](seq250404026.md) — Situation financière de la Fédération française de cyclisme
+
+## Réponse
+
+*Sports, jeunesse et vie associative, JO du 2025-06-05, page 3218*
+
+Le ministère des sports, de la jeunesse et de la vie associative rappelle que les observations du rapport de la Cour des comptes sont utiles afin d'améliorer la promotion du sport cycliste sous toutes ses formes actuelles et à venir. Dans sa réponse adressée à la Cour des comptes, le président fédéral a par ailleurs rappelé qu'il veillera à mettre en oeuvre les recommandations formulées dans les plus brefs délais et à prendre en compte les observations et suggestions. S'agissant de la situation financière fédérale, celle-ci avait déjà fait l'objet d'échanges entre le ministère et la fédération au cours du rendez-vous de suivi de l'exécution du contrat de délégation, en novembre 2023. Les services de la direction des sports ont planifié des réunions annuelles avec la fédération française de cyclisme (bilan annuel de la mise en oeuvre du contrat de délégation, échanges bilatéraux avec le président fédéral, collaboration direction des sports/agence nationale du sport) pour assurer un suivi de ses projets stratégiques et de sa gestion. Ces réunions seront l'occasion d'assurer un suivi des recommandations issues du rapport de la Cour des comptes. Enfin, dans le cadre du projet annuel de performances, le ministère est mobilisé pour la promotion de la rigueur financière et de l'efficacité des fédérations sportives. Aussi, la direction des sports assure un suivi annuel de la situation financière des fédérations sportives afin d'anticiper d'éventuels risques pouvant nuire à l'exercice de missions de service public, et plus largement, consciente des enjeux relatifs à ce sujet, elle est en train de s'organiser pour renforcer ce contrôle de façon plus régulière.
