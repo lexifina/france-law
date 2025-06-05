@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404270
+
+- Question : [SEQ250404270](seq250404270.md) — Situation fiscale des travailleurs espagnols de l'hôpital transfrontalier de Cerdagne
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2025-06-05, page 3090*
+
+La situation de double imposition que subissent des travailleurs transfrontaliers de l'Hôpital Transfrontalier de Cerdagne fait suite à des opérations de contrôle fiscal menées par les autorités fiscales du Royaume d'Espagne. L'administration fiscale espagnole réclame aux salariés le paiement de l'impôt sur le revenu des personnes physiques en Espagne et considère qu'ils ne peuvent pas bénéficier du régime fiscal des travailleurs transfrontaliers qui confère dans cette situation le droit d'imposition à la France. Elle étaye sa position par l'article 19 de la convention fiscale franco-espagnole, qui stipule que les rémunérations versées par un État, une collectivité territoriale ou une de ses personnes morales de droit public ne sont imposables que par l'Etat qui les verse. Saisi de la situation par les intéressés et en lien avec la direction de l'Hôpital, le bureau compétent de la Direction générale des finances publiques a pris l'attache de son homologue espagnol afin de trouver au plus vite une solution à cette situation qui n'est pas acceptable. Mes services estiment que cet article n'est pas applicable s'agissant d'une personne morale des deux Etats telle que l'Hôpital de Cerdagne, constituée sous la forme d'un Groupement Européen de Coopération Territoriale et que, par suite, le régime fiscal appliqué jusqu'à présent est conforme aux termes de la convention fiscale. Néanmoins, à ce jour, en dépit d'échanges nourris entre les deux administrations, le dossier reste en discussion. Cette affaire demeure traitée avec le plus haut niveau de priorité par mes services, en lien constant avec l'ambassade à Madrid et le Consulat Général à Barcelone.
