@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241102334
+
+- Question : [SEQ241102334](seq241102334.md) — Mineurs placés en centres de rétention administrative ou en zones d'attente sur notre territoire
+
+## Réponse
+
+*Intérieur , JO du 2025-06-05, page 3158*
+
+Il convient de distinguer, d'une part, le régime de la rétention administrative applicable aux étrangers entrés sur le territoire national et, d'autre part, le régime de la zone d'attente applicable aux frontières. La rétention administrative des étrangers mineurs accompagnant des adultes n'est plus possible depuis l'entrée en vigueur de la loi « contrôler l'immigration, améliorer l'intégration » n° 2024-42 du 26 janvier 2024. Cette disposition doit entrer en vigueur à Mayotte, au 1er janvier 2027, compte tenu de la situation spécifique de ce département sur le plan migratoire. Concernant les zones d'attente, il serait contraire à l'intérêt supérieur de l'enfant de le séparer des adultes qu'il accompagne, lorsque ces derniers font l'objet d'un refus d'entrée sur le territoire national. Cette procédure de placement en zone d'attente est prévue par les textes européens qui régissent la frontière extérieure de l'Union. Par ailleurs, lorsque le mineur est non accompagné d'un représentant légal et se voit opposer son entrée en France, l'article L.343-2 du CESEDA dispose que « le procureur de la République, immédiatement avisé par l'autorité administrative, lui désigne sans délai un administrateur ad hoc. Celui-ci assiste le mineur durant son maintien en zone d'attente et assure sa représentation dans le cadre des procédures administratives et juridictionnelles relatives à son maintien. Il assure également sa représentation dans toutes les procédures administratives et juridictionnelles afférentes à son entrée en France ». Les conditions de maintien en zone d'attente et le respect effectif des droits, dont dispose le maintenu, par l'administration s'exercent sous le contrôle permanent de l'autorité judiciaire.
