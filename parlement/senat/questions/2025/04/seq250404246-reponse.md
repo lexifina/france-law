@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404246
+
+- Question : [SEQ250404246](seq250404246.md) — Dégradation à l'intérieur et aux abords des boites de nuit
+
+## Réponse
+
+*Intérieur (MD), JO du 2025-06-05, page 3207*
+
+Certaines sociétés, dont l'activité principale n'est pas l'exercice d'une activité privée de sécurité, peuvent posséder un service, qualifié de service interne de sécurité (SIS), au sein duquel sont affectés les salariés que cette entreprise a chargés, pour son propre compte, de l'une des activités mentionnées au 1° à 3° de l'article L. 611-1 du code de la sécurité intérieure (CSI). Les SIS sont soumis, au même titre que les entreprises de sécurité privée, aux dispositions du livre VI du CSI dans les conditions prévues à l'article L. 612-25 du même code. L'article 25 de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés est venu préciser le cadre applicable à ces dirigeants, pour leur imposer des garanties de moralité et d'aptitude professionnelle équivalentes à celles des dirigeants d'entreprises privées de sécurité. Ces obligations sont de portée générale. Compte tenu du caractère sensible de ces missions, le législateur n'a pas souhaité prévoir de mesures particulières excluant certaines catégories de sociétés de ces obligations, dont les établissements de nuit. En outre, dans le cadre de sa mission de police administrative, le conseil national des activités privées de sécurité (CNAPS) est amené à diligenter des contrôles sur pièces et sur place dans ces établissements, qui figuraient en 2024, au nombre des quatre orientations générales de contrôles. Sur cette base, 200 contrôles, portant à la fois sur les aspects de réglementation et de déontologie, ont été réalisés dans des établissements de nuit au cours de l'année 2024. Ces opérations ont vocation à se poursuivre pour garantir un haut niveau de professionnalisme dans le domaine de la sécurité privée, au bénéfice de la sécurité des usagers.
