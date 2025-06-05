@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001156
+
+- Question : [SEQ241001156](seq241001156.md) — Compensation de l'exonération de taxe foncière sur les propriétés bâties et de contribution foncière des entreprises pour tous les mâts d'éoliennes
+
+## Réponse
+
+*Comptes publics, JO du 2025-06-05, page 3015*
+
+Avant 2024, certains mâts d'éoliennes bénéficiaient déjà d'une exonération de taxe foncière sur les propriétés bâties (TFPB) applicable de droit et sans compensation pour les collectivités, lorsqu'ils étaient spécifiquement adaptés aux activités susceptibles d'être exercées dans un établissement qualifié d'industriel et qu'ils n'étaient pas assimilables à de véritables constructions, sur le fondement du 11° de l'article 1382 du code général des impôts (CGI). Par conséquent, ces mâts d'éoliennes étaient également exonérés de cotisation foncière des entreprises (CFE) sur le fondement de l'article 1467 du CGI. Pour remédier aux disparités de traitement fiscal observées entre les mâts métalliques et ceux en béton, l'article 142 de la loi n° 2023-1322 du 29 décembre 2023 de finances pour 2024, issu d'une initiative parlementaire, a étendu l'exonération de TFPB et de CFE à l'ensemble des mâts, quelle que soit leur conception et selon les mêmes modalités que celles qui s'appliquaient auparavant pour les mâts métalliques, c'est-à-dire une exonération de droit non compensée. Par ailleurs, il est rappelé que les communes et leur intercommunalité à fiscalité propre sont affectataires de 70 % de la composante éolienne de l'imposition forfaitaire sur les entreprises de réseaux (IFER), à l'exception des communes isolées qui n'en perçoivent que 20 %. Les recettes de l'IFER sur les éoliennes et les hydroliennes (162 Meuros en 2023) sont dynamiques. Elles connaissent ainsi en moyenne une augmentation de 12 % par an entre 2021 et 2023.
