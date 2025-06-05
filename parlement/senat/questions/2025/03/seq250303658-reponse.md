@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250303658
+
+- Question : [SEQ250303658](seq250303658.md) — Pénurie de places à l'examen du permis de conduire
+
+## Réponse
+
+*Intérieur , JO du 2025-06-05, page 3178*
+
+La mise en place en 2022 de la plateforme numérique RdvPermis s'est inscrite dans une démarche de modernisation du processus d'inscription à l'épreuve pratique, visant à simplifier la réservation des créneaux d'examen pour les professionnels de l'apprentissage de la conduite. Cet outil, co-construit avec les professionnels du secteur, a permis d'apporter transparence, équité et fluidité dans la répartition des places d'examen, et est soutenue par l'ensemble des organisations professionnelles du secteur. Par ailleurs, afin de protéger les établissements départementaux, un système de priorité territoriale a été mis en place. Cependant, dans un souci d'optimisation et pour éviter toute perte de places, ce qui serait contreproductif pour l'ensemble du système, les places non réservées par les auto-écoles locales après un certain délai sont ouvertes aux établissements d'autres départements, dans la limite de trois places par établissement. Il convient de souligner que, sur le premier trimestre 2025, dans le département de la Marne, cette ouverture a concerné seulement 47 places sur un total de 3 746 réservées, soit moins de 1,3 % des places. Ce chiffre ne saurait donc être considéré comme un facteur de déstabilisation des examens dans la Marne. Le Gouvernement met en place plusieurs mesures pour réduire les délais d'attente des passages de l'épreuve pratique du permis de conduire. Ces mesures comprennent notamment le recrutement de nouveaux inspecteurs, la mise en place d'examens supplémentaires, réalisés par des inspecteurs volontaires, et le recours à des inspecteurs retraités pour renforcer les départements en tension. Le ministère de l'Intérieur est pleinement mobilisé pour améliorer la célérité du passage du permis de conduire.
