@@ -1,3 +1,3 @@
 # Article 1er
 
-En référence à l'article 2 « Cotisations » de l'accord du 20 juin 2012, AG2R-ISICA effectuera les appels de cotisations pour le financement du paritarisme départemental à compter du premier trimestre 2013 et tous les trimestres suivants.
+En référence à l'article 2 “ Cotisations ” de l'accord du 20 juin 2012, la collecte de la contribution conventionnelle au dialogue social départemental des Bouches-du-Rhône sera confiée, aux Unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales (Urssaf) mentionnées à l'article L. 213-1 du code de la sécurité sociale, à compter du 1er janvier 2026.
