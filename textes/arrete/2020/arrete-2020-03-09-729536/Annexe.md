@@ -2080,6 +2080,12 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
+DE JEPS spécialité perfectionnement sportif mention canoë-kayak et disciplines associées en eau vive , jusqu'au 1er janvier 2025. |
+
+Encadrement du longe-côte. |
+
+|
+
 C-5.-Diplôme d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
 
 INTITULÉ DU DIPLÔME |
@@ -2293,6 +2299,18 @@ LIMITES DES CONDITIONS D'EXERCICE |
 Moniteur de football, délivré jusqu'au 19 mai 2023. |
 
 Conduite de cycles d'apprentissage et entraînement de la pratique du football. |
+
+|
+
+Entraîneur formateur de football, délivré du 27 mars 2023 au 27 mars 2025. |
+
+Encadrement et entraînement en football dans une structure de préformation ou de formation. |
+
+|
+
+Entraîneur professionnel de football, délivré du 27 mars 2023 au 27 mars 2025. |
+
+Encadrement et entraînement en football, dans un club professionnel. |
 
 |
 
@@ -3191,5 +3209,33 @@ CQP " animateur d'escalade sur structure artificielle ", délivré du 26/01/22 a
 |
 
 Encadrement des activités d'escalade sur structure artificielle d'escalade. |
+
+|
+
+CQP éducateur de grimpe d'arbres , délivré du 30 mars 2020 au 30 mars 2025. |
+
+Animation et encadrement de la grimpe dans les arbres. |
+
+|
+
+CQP " animateur de patinoire ", option " hockey sur glace ", délivré du 30 mars 2020 au 30 mars 2025. |
+
+Encadrement de séances d'initiation et de découverte des activités en patinoire.
+
+Entrainement en hockey sur glace pour un public de moins de treize ans.
+
+|
+
+|
+
+CQP " technicien sportif de vol en soufflerie " délivré jusqu'au 25 mars 2025. |
+
+Encadrement et conduite de séances d'entraînement d'activités de vol en soufflerie dans le domaine du vol 3D. |
+
+|
+
+CQP " animateur de badminton ", délivré du 25 avril 2022 jusqu'au 25 avril 2025. |
+
+Encadrement de séances collectives en badminton. |
 
 |
