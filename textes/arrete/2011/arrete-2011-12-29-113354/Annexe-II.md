@@ -96,14 +96,6 @@ Bénin |
 
 Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique sécurisé. |
 
-Biélorussie |
-
-Dispense s'appliquant seulement :
-
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
-
--aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
-
 Bolivie |
 
 Dispense s'étendant à tout type de passeport. |
@@ -419,16 +411,6 @@ Dispense de visa s'appliquant seulement :
 Royaume-Uni de Grande Bretagne et d'Irlande du Nord |
 
 Dispense s'étendant à tout type de passeport. |
-
-Russie |
-
-Dispense de visa s'appliquant seulement :
-
--aux titulaires d'un passeport diplomatique ;
-
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
-
--aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
 
 Saint-Christophe-et-Niévès |
 
