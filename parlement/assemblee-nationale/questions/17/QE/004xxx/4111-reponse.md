@@ -1,0 +1,9 @@
+# Réponse à la question n° 4111
+
+- Question : [4111](4111.md) — Question n° 4111 — Lutte contre les groupuscules incitant à la haine et la violence
+
+## Réponse
+
+*JO du 2025-06-10, page 4916*
+
+Le Gouvernement accorde une vigilance particulière aux provocations publiques à la haine et à la violence prévues par l'article 24 de la loi du 29 juillet 1881, qui font, chaque fois que les faits sont établis, l'objet de signalements au procureur de la République territorialement compétent. Des procédures de dissolution d'associations ou de groupements de fait sont également engagées dès lors que les critères définis par la loi sont réunis. Ainsi, les associations ou groupements de fait, quelle que soit leur mouvance, qui provoquent à la haine, à la discrimination ou à la violence font l'objet d'une attention constante de la part du ministère de l'intérieur. Dans ce cadre une action volontariste est menée pour lutter contre toute atteinte à l'ordre public. Outre l'enquête judiciaire en cours sur les faits relatés, les services du ministère de l'intérieur examinent l'activité de ce groupuscule afin de mettre en lumière d'éventuels motifs de dissolution. Cet examen est nécessairement long et minutieux et doit tenir compte des éléments couverts par le secret de l'instruction en cours. L'action du Gouvernement est résolue en la matière, et s'est traduite par des mesures très fermes. Au total, depuis 2017, 44 associations ou groupements de fait ont été dissous. En 2024 et 2025, cinq associations (La Citadelle, Les Remparts, La Traboule et Top Sport Rhône) ou groupements de fait (GUD Paris) d'ultra-droite ont fait l'objet d'une dissolution eu égard à leurs agissements violents à l'encontre des personnes ou des biens, à leur exaltation de la collaboration ou, enfin, du fait de provocations.
