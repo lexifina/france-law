@@ -1,0 +1,9 @@
+# Réponse à la question n° 1460
+
+- Question : [1460](1460.md) — Question n° 1460 — Allongement de la durée de validité des tests d'évaluation de français
+
+## Réponse
+
+*JO du 2025-06-10, page 4867*
+
+La maîtrise de la langue française est un facteur clé de l'intégration et de l'insertion sociale et professionnelle des étrangers en France. C'est pourquoi, dans le cadre du parcours d'intégration républicaine, les étrangers primo-arrivants ayant vocation à se maintenir sur le territoire français, bénéficient d'une formation linguistique visant à l'acquisition de la langue française (article L413.3 du code de l'entrée et du séjour des étrangers et du droit d'asile). La maitrise d'une langue nécessite d'être pratiquée pour maintenir à niveau ses connaissances. L'exigence d'une certification du niveau de langue récente permet de garantir une mobilisation continue et sur le long terme pour l'apprentissage et la pratique de la langue française. La durée de validité des tests d'évaluation du niveau de français pour les étrangers demandant la nationalité française ou demandant une carte de résident a été portée à deux ans. Les certifications aujourd'hui reconnues, le TCF IRN et TEF IRN, disposent chacun d'un grand nombre de centres d'examen. Ainsi, ce sont près de 400 centres qui couvrent les départements français, que ce soit en métropole comme dans les départements d'outre-mer. En Ile-de-France, 60 centres sont habilités. Enfin, dans le cadre de la mise en œuvre de la loi « pour contrôler l'immigration, améliorer l'intégration » du 26 janvier 2024, le ministère de l'intérieur a demandé aux organismes certificateurs de veiller à renforcer la couverture géographique des centres d'examen compte tenu de l'obligation qui sera faite au plus tard le 1er janvier 2026 aux étrangers demandant un titre de séjour pluriannuel d'attester d'un niveau de langue.
