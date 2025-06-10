@@ -1,0 +1,9 @@
+# Réponse à la question n° 3685
+
+- Question : [3685](3685.md) — Question n° 3685 — Interprétation pour les compagnons d'Emmaüs de la circulaire du 23 janvier 2025
+
+## Réponse
+
+*JO du 2025-06-10, page 4892*
+
+La circulaire du 23 janvier 2025 fixe des nouvelles orientations générales relatives à l'admission exceptionnelle au séjour. Elle vise ainsi, dans son intitulé, l'ensemble des articles du code de l'entrée et du séjour des étrangers et du droit d'asile (CESEDA) qui y sont relatifs, à savoir les articles L. 435-1 et suivants, en miroir de la circulaire du 28 novembre 2012 qu'elle abroge. Certaines dispositions de la circulaire, notamment la possibilité de refuser la délivrance d'un titre de séjour à une personne n'ayant pas satisfait à l'obligation qui lui a été faite de quitter le territoire français ainsi que la réserve d'ordre public ou de polygamie, sont issues de la loi et sont applicables à tous les titres de séjour sans distinction de leur fondement juridique. Toutefois, les orientations relatives au caractère exceptionnel ou à la durée de présence constituant un des indices pertinents d'intégration ne visent, comme mentionné dans le corps de la circulaire, que les demandes fondées sur l'article L. 435-1 du CESEDA. En conséquence, l'article L. 435-2 du CESEDA fixant les modalités selon lesquelles un étranger participant aux activités d'économie solidaire portées par un organisme agréé au niveau national par l'État n'est concerné que par les orientations communes à l'ensemble des titres. Les critères de régularisation établis dans l'article L. 435-2 (durée d'activité et perspectives d'intégration), garantis par la loi, n'évoluent pas dans le cadre de la mise en œuvre des orientations générales du 23 janvier 2025. Il est néanmoins nécessaire de rappeler que malgré la précision des critères mentionnés dans l'article L. 435-2 du CESEDA, la délivrance du titre de séjour reste soumise à l'appréciation du préfet.
