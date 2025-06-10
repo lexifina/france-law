@@ -1,0 +1,9 @@
+# Réponse à la question n° 288
+
+- Question : [288](288.md) — Question n° 288 — Cantines scolaires face à l'inflation
+
+## Réponse
+
+*JO du 2025-06-10, page 4771*
+
+Après un taux d'inflation de +5,2% en 2022 et +4,9% en 2023, l'année 2024 devrait connaître un retour à taux proche de 2%. Le Gouvernement est conscient des effets de l'inflation sur le coût du service public de restauration scolaire, qui garantit un accès à un repas équilibré aux élèves, en particulier les plus fragiles d'entre eux. Pour tous les établissements publics, les tarifs de la restauration scolaire sont déterminés par la collectivité dont dépend l'établissement (article R. 531 52 du code de l'éducation). Celle-ci peut choisir d'appliquer le quotient familial au tarif du repas. Elle peut également verser des aides aux familles pour payer les frais de cantine. Afin d'inciter à une tarification sociale de la restauration scolaire dans les écoles, le Gouvernement a mis en place une aide financière pour les communes rurales de moins de 10 000 habitants et leurs établissements publics de coopération intercommunale à fiscalité propre, afin que les enfants en situation de pauvreté qui y résident puissent manger à la cantine pour 1 € maximum. Le soutien de l'Etat est désormais de 3 euros pour chaque repas servi au tarif d'un euro. Il peut être porté à 4 euros par repas pour les communes ayant souscrit un engagement de respecter les critères de la loi Egalim. Pour les élèves de collège et de lycée, l'Etat finance également un fonds social pour la cantine permettant la prise en charge de façon partielle ou totale des frais de cantine pour les familles les plus modestes. Les dispositifs ainsi mis en place par le Gouvernement s'inscrivent dans le cadre du pacte des solidarités qui vise notamment à prévenir la pauvreté à travers une politique de lutte contre les inégalités dès la petite enfance.
