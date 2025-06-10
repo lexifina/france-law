@@ -1,0 +1,9 @@
+# Réponse à la question n° 4164
+
+- Question : [4164](4164.md) — Question n° 4164 — Néonatologie et mortalité infantile
+
+## Réponse
+
+*JO du 2025-06-10, page 4966*
+
+Dans la continuité du rapport des assises de la pédiatrie et de la santé de l'enfant présenté le 23 avril 2024 par le Professeur Christèle Gras Le Guen et Adrien Taquet, la feuille de route 2024-2030 « pédiatrie et santé de l'enfant » a été publiée le 24 mai 2024. Dans ce cadre, la cible d'un taux d'équipement de 1 lit de réanimation néonatale pour 1 000 naissances dans chaque région à l'horizon 2027 a été fixée, ce qui doit permettre à terme de répondre à l'actuel constat de taux d'occupation élevés dans les services néonataux. En outre, sous réserve des résultats de l'évaluation, il y est proposé d'inscrire dans le droit commun l'expérimentation prévue par le décret du 11 avril 2022 qui permet la création d'équipes mobiles de néonatologie autorisées à intervenir en dehors des établissements de santé. L'objectif est de sécuriser le retour au domicile des enfants prématurés et d'assurer la continuité des soins néonataux. La feuille de route souligne enfin l'importance d'enrichir les registres de naissances et de décès et de déployer, au niveau local, des revues de morbi-mortalité concernant les décès de nouveau-nés à terme, permettant d'identifier les causes des décès observés et d'améliorer les pratiques de prise en charge locales. Par ailleurs, les missions des réseaux de suivi des nouveau-nés vulnérables ont été précisées par l'instruction du 3 août 2023 et leurs moyens ont été récemment renforcés pour assurer leur couverture complète du territoire. Le Gouvernement poursuit donc son engagement en faveur du renforcement des capacités en néonatologie afin de réduire la mortalité infantile et d'assurer une prise en charge de qualité pour tous les nouveaux-nés.
