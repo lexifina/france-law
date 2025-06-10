@@ -1,0 +1,9 @@
+# Réponse à la question n° 2274
+
+- Question : [2274](2274.md) — Question n° 2274 — Fabrication des uniformes pour les écoles
+
+## Réponse
+
+*JO du 2025-06-10, page 4833*
+
+Dans la perspective d'améliorer le climat scolaire et la réussite éducative, le Gouvernement a souhaité lancer, au titre des années scolaires 2024-2025 et 2025-2026, une expérimentation du port de la tenue commune par les élèves des écoles et des établissements scolaires sur l'ensemble du territoire national. Cette expérimentation repose sur l'engagement volontaire et concerté d'une centaine d'établissements et de leurs collectivités territoriales de rattachement. La mise à disposition des trousseaux relève de la compétence des collectivités territoriales à qui il appartient de passer leur propre marché et de veiller, à l'instar de ce qui est prévu par l'article L. 216-10 du code de l'éducation pour les fournitures destinées aux établissements scolaires, à ce que leur fabrication n'ait pas requis l'emploi d'une main-d'œuvre enfantine dans des conditions contraires aux conventions internationales reconnues. Par ailleurs, les collectivités territoriales qui en ont fait la demande, ont pu bénéficier, dans le cadre du conseil national de la refondation, d'un cofinancement des tenues par l'État à hauteur de 50 % de leur coût dans la limite d'un montant maximum de 100 euros par élève et par année scolaire. Cette expérimentation est prévue pour une durée maximale de deux années scolaires. À ce jour, il n'est pas envisagé d'y mettre fin. Afin de mesurer les effets de cette première année d'expérimentation, une mission d'évaluation pilotée par la direction de l'évaluation, de la prospective et de la performance (DEPP) est en cours, en lien avec les équipes des établissements. Objective et multifocale, cette évaluation permettra de mesurer les effets de cette expérimentation sur le bien-être des élèves et l'amélioriation du climat scolaire.
