@@ -1,0 +1,9 @@
+# Réponse à la question n° 2984
+
+- Question : [2984](2984.md) — Question n° 2984 — Pénurie de places à l'épreuve pratique du permis de conduire
+
+## Réponse
+
+*JO du 2025-06-10, page 4881*
+
+L'adéquation entre l'offre et la demande de places d'examen au permis de conduire fait l'objet d'une attention particulière du Gouvernement. Lors des deux années précédentes, les effectifs d'inspecteurs du permis de conduire et de la sécurité routière (IPCSR) ont augmenté de 15 ETP en 2023 et de 38 en 2024, répartis dans les départements les plus concernés par des délais d'attente importants de passage des examens du permis de conduire. En 2024, pour tenir compte au mieux des mobilités professionnelles et des départs en retraite, 88 IPCSR ont été recrutés par voie de concours externe et interne. Leur répartition dans les régions et les départements est établie, afin d'être la plus efficace, en fonction notamment du nombre de formateurs déclaré dans le département, du seuil formateur (nombre d'élèves qu'un formateur peut former par mois), du nombre moyen d'examens dans le département par mois et par IPCSR et du taux de réussite à l'examen dans le département. Par ailleurs, un dispositif permet la mise à disposition pour 2 ans d'employés de la Poste qui souhaitent faire une mobilité externe, qui ont été sélectionnés en ce sens pour renforcer les départements en tension. Ils ont suivi la même formation que les IPCSR pour les examens du permis de conduire de la catégorie B exclusivement. En outre, certains IPCSR retraités qui le souhaitent, peuvent continuer à réaliser des examens sous couvert d'une convention conclue avec l'administration. Enfin, l'administration centrale porte une attention toute particulière pour appuyer les départements les plus en tension et définir avec eux des plans particuliers de remédiation. Ce soutien a déjà porté ses fruits dans plusieurs départements.
