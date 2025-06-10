@@ -1,0 +1,9 @@
+# Réponse à la question n° 6670
+
+- Question : [6670](6670.md) — Question n° 6670 — Sous-financement entretien des infrastructures routières locales et des ponts
+
+## Réponse
+
+*JO du 2025-06-10, page 4988*
+
+A la demande du Parlement, l'Etat met en œuvre le programme national ponts pour aider les communes à faire face à l'érosion des ouvrages d'art, mise en avant dans un rapport sénatorial de 2019. Le programme est doté au total de 110 M€, dont la gestion a été confiée au Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (Cerema). Une large partie des dépenses a été consacrée au recensement et à l'évaluation de l'état de près de 64 000 ouvrages d'art. C'est sur cette base que sont ensuite menées les études préalables aux travaux dont le besoin a été identifié. 55 M€ sur les 110 M€ sont consacrés à des subventions pour travaux de réparation. Le montant des subventions accordées est à ce jour de 26,8 M€. Un comité d'attribution des subventions instruit tous les dossiers qui lui sont transmis. La montée en puissance du dispositif s'effectue ainsi sans limitation par les moyens : à ce jour, aucun dossier n'est bloqué par insuffisance du budget de subventions. La question de la suite de ce dispositif, et plus largement celle du financement des infrastructures de transport, est posée dans le cadre de la conférence Ambition France Transports actuellement en cours. Il convient cependant de rappeler que l'entretien des ouvrages communaux reste de la responsabilité des communes. En matière d'ingénierie publique, le Cerema est un établissement public commun de l'Etat et des collectivités à leur disposition pour leur apporter méthodologie et appui opérationnel. Dans le domaine des ponts en particulier, il a déployé le dispositif SOS ponts, un service public gratuit pour guider la commune face à un ouvrage dégradé.
