@@ -1,0 +1,9 @@
+# Réponse à la question n° 4341
+
+- Question : [4341](4341.md) — Question n° 4341 — Fusion des groupements de défense sanitaire et des chambres d'agriculture
+
+## Réponse
+
+*JO du 2025-06-10, page 4763*
+
+La ministre de l'agriculture et de la souveraineté alimentaire est particulièrement attentive aux préoccupations exprimées concernant la rationalisation territoriale intégrant les groupements de défense sanitaire (GDS) aux chambres d'agriculture. En 2013, les états généraux du sanitaire ont créé, au sein de l'article L. 201-9 du code rural et de la pêche maritime (CRPM), le statut d'organisme à vocation sanitaire (OVS). À cet effet, le ministère chargé de l'agriculture a délégué des missions sanitaires officielles aux fédérations régionales des groupements de défense sanitaire (FRGDS) dans le domaine animal. Ces partenaires sont des associations de droit privé qui disposent de compétences particulières et reconnues, ainsi que du personnel idoine. En particulier, la reconnaissance d'un OVS est subordonnée au respect des conditions listées à l'article R. 201-13 du CRPM, notamment des garanties d'indépendance et d'impartialité vis-à-vis des intérêts économiques particuliers des adhérents. Il est en effet primordial que la gestion des sujets de santé animale demeure impartiale. C'est un impératif pour le traitement efficace des multiples enjeux sanitaires, au service des éleveurs et des filières. L'indépendance politique des actions sanitaires doit rester un principe fondamental, permettant aux fédérations régionales des GDS (FRGDS) de conserver leur liberté d'action. Dans ce contexte, si des mutualisations sont envisageables entre chambres d'agriculture et FRGDS, elles doivent être cependant évaluées au cas par cas à l'échelle locale et confrontées à la réalité de terrain. Il en va du bien-fondé des politiques publiques sanitaires et de l'égalité de traitement des usagers.
