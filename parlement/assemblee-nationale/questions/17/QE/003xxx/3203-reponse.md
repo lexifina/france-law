@@ -1,0 +1,9 @@
+# Réponse à la question n° 3203
+
+- Question : [3203](3203.md) — Question n° 3203 — Référentiel appliqué à la haute certification environnementale (HVE)
+
+## Réponse
+
+*JO du 2025-06-10, page 4758*
+
+L'article D. 617-4 du code rural et de la pêche maritime indique que les seuils et indicateurs de la certification haute valeur environnementale (HVE) « sont révisés au regard de l'évolution des connaissances techniques et scientifiques ainsi que de la réglementation en vigueur ». Conformément à cet article, le référentiel de la certification HVE a fait l'objet d'une révision majeure en 2022, soit dix ans après sa création, pour se conformer à la réglementation de la politique agricole commune (PAC) 2023-2027 et aux exigences environnementales actuelles. La révision du référentiel HVE a été menée en concertation avec l'ensemble des parties prenantes siégeant en commission nationale de la certification environnementale ; l'enjeu ayant été d'atteindre un niveau d'exigence suffisamment élevé sur le plan environnemental et accessible aux agriculteurs selon les spécificités des filières. Comme elle soutient des bonnes pratiques renforcées en faveur de l'environnement, cette révision a permis à la version 4 du référentiel HVE d'être validée par la Commission européenne comme voie d'accès à l'écorégime supérieur de la PAC. Ainsi, pour obtenir la certification HVE, une exploitation doit attester d'un minimum de dix points sur chacun des quatre indicateurs du référentiel : la biodiversité, la stratégie phytosanitaire, la gestion de la fertilisation et l'irrigation. La combinaison des items composant les indicateurs doit permettre l'obtention des dix points requis. Les données de suivi des exploitations certifiées HVE selon la version 4 du référentiel démontre que ce référentiel est utilisé : au 1er juillet 2024, 20 798 exploitations agricoles étaient déjà certifiées HVE sur la version 4 du référentiel.
