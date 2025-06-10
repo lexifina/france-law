@@ -1,0 +1,9 @@
+# Réponse à la question n° 4458
+
+- Question : [4458](4458.md) — Question n° 4458 — Statistique du nombre de personnes en attente d'expulsion logés en hôtels
+
+## Réponse
+
+*JO du 2025-06-10, page 4917*
+
+Le coût relatif aux assignations à résidence, payé par le Programme budgétaire 303 (action 3), s'est élevé en 2024 à 347 740 €, toutes dépenses confondues, sur un montant total de dépenses exécutées de 166 719 424 €, consacrées essentiellement aux centres de rétention administrative et à la billetterie aérienne pour l'éloignement effectif des étrangers. L'assignation à résidence dans une structure hôtelière d'un étranger faisant l'objet d'un arrêté d'expulsion constitue une mesure exceptionnelle. Les étrangers en instance d'expulsion sont, en effet, placés prioritairement dans un centre de rétention administrative. Lorsque l'éloignement n'a pu être mené à bien, dans le cadre de la rétention administrative, une mesure d'assignation à résidence est prononcée. L'assignation à résidence au domicile est privilégiée. Elle est assortie d'une obligation de présentation auprès d'un commissariat de police ou d'une unité de gendarmerie (qui peut être portée à quatre pointages par jour), d'une obligation de présence au domicile (qui peut aller jusqu'à dix heures consécutives par périodes de vingt-quatre heures), ainsi que d'une limitation des déplacements (en dehors des heures de présence obligatoire au domicile) à un périmètre géographique réduit, fixé par l'administration. En cas de non-respect de ses obligations, l'étranger peut faire l'objet de poursuites judiciaires ou, le cas échéant, être placé à nouveau en rétention administrative. Concernant la situation individuelle dont vous faites état, je vous informe que l'intéressé est incarcéré à la maison d'arrêt de Strasbourg depuis le 9 avril 2025.
