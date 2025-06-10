@@ -1,0 +1,9 @@
+# Réponse à la question n° 3793
+
+- Question : [3793](3793.md) — Question n° 3793 — Modification du certificat médical pour la surveillance de baignade
+
+## Réponse
+
+*JO du 2025-06-10, page 4974*
+
+La problématique relative au certificat médical exigé pour exercer les activités de surveillant de baignade ont bien été identifiées par les services de la direction des sports. En effet, certaines dispositions issues d'arrêtés relatifs à la délivrance des diplômes du sport subordonnent ces derniers à la présentation d'un certificat médical. Toutefois, il est apparu que les textes relatifs au certificat médical dans le code du sport présentent un manque d'harmonisation, notamment dans les différents libellés et dans la durée de validité desdits certificats, ainsi qu'une inadéquation de certains libellés avec les dispositions auxquelles ils sont associés. Ces libellés inadaptés et non harmonisés peuvent être source de difficulté pour les éducateurs sportifs, pour les médecins qui délivrent ces certificats et pour les services déconcentrés, notamment lors de la délivrance de la carte professionnelle. Un travail a été initié afin de réviser, dans un but d'harmonisation et de lisibilité, les dispositions relatives aux demandes de certificat médical pour l'ensemble des métiers du domaine de la formation et de l'exercice des activités professionnelles dans le champ du sport. Dans ce cadre, les dispositions relatives aux métiers et fonctions de la filière aquatique font l'objet d'une réflexion spécifique en raison de leur complexité due au nombre de textes existants et à leur articulation. Il est également nécessaire de conduire un travail en concertation avec les partenaires du ministère, ce qui justifie ce travail à deux vitesses sur la modification des dispositions relatives au certificat médical dans la délivrance des diplômes.
