@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203431
+
+- Question : [SEQ250203431](seq250203431.md) — Enjeux du nouveau contrat de présence territoriale de la poste
+
+## Réponse
+
+*Premier ministre, JO du 2025-06-12, page 3314*
+
+Dans un contexte de baisse de la fréquentation de ses bureaux, qui s'est encore accentuée pendant la crise sanitaire, La Poste doit en permanence adapter les modalités de sa présence. Toutes les transformations et les adaptations horaires sont réalisées dans le respect du contrat de présence postale signé par la Poste, l'association des maires de France (AMF) et l'État. Les indemnités versées aux bureaux de poste et agences postales communales concernent les points éligibles aux crédits du fonds de péréquation. Néanmoins, aucune indemnité particulière n'a été décidée par l'observatoire national de la présence postale (ONPP) en cas d'élargissement des horaires. Dans l'actuel contrat de présence postale, La Poste, comme les représentants des élus, avaient pris l'engagement d'améliorer la qualité de service en échange d'un maintien de la compensation versée par l'État. Pour les agences postales communales (APC), il s'agit de respecter le seuil minimal d'ouverture des points de présence postaux, à savoir 12h par semaine. Pour les bureaux de poste, l'engagement qui a été pris est de renforcer notamment les ouvertures le samedi matin. En outre, aucune incitation financière n'a été votée afin de ne pas discriminer entre APC. Enfin, les indemnités prévues par le contrat de présence postale et révisées chaque année en fonction du taux d'inflation ne sont pas proratisées en fonction de l'amplitude horaire d'ouverture des différents points de contact. Quoi qu'il en soit, le Gouvernement demeure très vigilant quant au bon accomplissement par La Poste de ses missions de service public.
