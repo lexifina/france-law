@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404359
+
+- Question : [SEQ250404359](seq250404359.md) — Établissements recevant du public
+
+## Réponse
+
+*Intérieur , JO du 2025-06-12, page 3343*
+
+Les exploitants des établissements à usage d'hébergement qui accueillent plus de quinze personnes au titre du public sont redevables des règles de sécurité contre les risques d'incendie et de panique définies au sein du règlement de sécurité du 22 juin 1990. Ce seuil d'assujettissement, précisé dans le b) du § 2 de l'article PE2 de ce règlement, s'applique à tous les établissements d'hébergement marchand, dont les meublés de tourisme. Tout établissement dépassant ce seuil doit obtenir, avant d'accueillir du public, une autorisation d'ouverture délivrée par le maire, après avis de la commission de sécurité compétente. Le décret n° 95-260 du 8 mars 1995 relatif à la commission consultative départementale de sécurité et d'accessibilité (CCDSA) définit les missions des différentes commissions de sécurité. Le maire, constatant qu'un établissement dépasse intentionnellement ou par ignorance le seuil d'assujettissement, peut demander à la commission d'organiser une visite inopinée, comme précisé au paragraphe 3 de l'article R. 143-26 du code de la construction et de l'habitation (CCH), qui le conseillera sur le niveau de sécurité de l'établissement. En fonction du degré de dangerosité pour le public, l'établissement pourra, soit être mis en demeure de se conformer aux normes de sécurité, soit faire l'objet d'une procédure de fermeture jusqu'à la réalisation des travaux de mise en conformité (art. L. 143-3 et R. 143-45 du CCH). Les maires peuvent également bénéficier d'un accompagnement et de conseils concernant les démarches à suivre auprès du service interministériel de défense et de protection civiles (SIDPC) de la préfecture de leur département.
