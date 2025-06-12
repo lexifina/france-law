@@ -1,10 +1,10 @@
 # Article Annexe IV
 
-CONTENU DU DOSSIER DE SÉCURITÉ DE L'ORGANISATEUR
+DOSSIER ET NOTICE DE SECURITÉ
 
-(Article 39)
+I. - Contenu du dossier de sécurité de l'organisateur (article 39)
 
-Préalablement à l'utilisation d'un ou plusieurs ensembles démontables, un dossier de sécurité est établi par l'organisateur. Il comporte les éléments suivants :
+Préalablement à l'utilisation d'un ou plusieurs ensembles démontables, un dossier de sécurité est établi par l'organisateur. Selon l'importance de la manifestation et des structures installées, il comporte les éléments suivants :
 
 1. Les renseignements administratifs :
 
@@ -58,15 +58,13 @@ Préalablement à l'utilisation d'un ou plusieurs ensembles démontables, un dos
 
 3.1. La description des ensembles démontables mis en œuvre ;
 
-3.2. Les notices techniques des fabricants (article 36) ;
+3.2. La capacité d'accueil de chaque ensemble démontable (article 5) ;
 
-3.3. La capacité d'accueil de chaque ensemble démontable (article 5) ;
+3.3. Le mode d'occupation (sièges fixes et/ou mobiles, places en station debout) ;
 
-3.4. Le mode d'occupation (sièges fixes et/ou mobiles, places en station debout) ;
+3.4. Les dispositions prises concernant l'accessibilité et l'évacuation des personnes en situation de handicap ;
 
-3.5. Les dispositions prises concernant l'accessibilité et l'évacuation des personnes en situation de handicap ;
-
-3.6. Les informations relatives à la nature du sol (article 7). Dans le cadre des installations de catégories OP 2, OP 3, OS 2 et OS 3, les informations suivantes sont transmises aux vérificateurs définis à l'article 38 :
+3.5. Les informations relatives à la nature du sol (article 7). Dans le cadre des installations de catégories OP 2, OP 3, OS 2 et OS 3, les informations suivantes sont transmises aux vérificateurs définis à l'article 38 :
 
 - les descentes de charges ;
 
@@ -74,9 +72,11 @@ Préalablement à l'utilisation d'un ou plusieurs ensembles démontables, un dos
 
 - les moyens de répartition des charges (matériaux, épaisseur et surface) ;
 
-3.7. La justification des adaptations des charges d'exploitation (article 10) ;
+3.6. La justification des adaptations des charges d'exploitation (article 10) ;
 
-3.8. L'adéquation des dégagements et des unités de passages des ensembles démontables au regard des effectifs reçus (article 16) ;
+3.7. L'adéquation des dégagements et des unités de passages des ensembles démontables au regard des effectifs reçus (article 16) ;
+
+3.8. Les notices techniques des fabricants (article 36) ;
 
 3.9. La note de calcul spécifique relative aux points de fixation des dispositifs d'accroche des équipements de levage ou des équipements techniques pris sur la charpente ou la structure d'un bâtiment et les examens d'adéquation associés (articles 11 et 26) ;
 
@@ -135,3 +135,15 @@ Les plans permettent de localiser :
 5.7. Les rapports de vérifications après montage (article 38) ;
 
 5.8. Tous les 12 mois, les rapports d'inspection de l'organisme accrédité ou du technicien compétent (article 40).
+
+II. - Contenu de la notice de sécurité à transmettre le cas échéant à l'autorité de police pour avis :
+
+Elle comporte au minimum les documents suivants du dossier de sécurité de l'organisateur :
+
+- les renseignements administratifs : pièces 1.1 à 1.5 ;
+
+- les conditions d'exploitation : pièces 2.1 à 2.5 ;
+
+- les renseignements concernant les ensembles démontables : pièces 3.1 à 3.7 ;
+
+- les pièces graphiques : pièces 4.1 et 4.2.

@@ -24,29 +24,49 @@ OS1 |
 
 OS3 |
 
-Contrôle conception
+Contrôle
+
+conception
 
 (art. 37) |
 
-Attestation du fabricant |
+Attestation
 
-CT (1) ou OA (2) |
+du fabricant |
 
-CT (1) ou OA (2) |
+CT (1)
 
-CT (1) ou OA (2) |
+ou OA (2) |
 
-Attestation du fabricant |
+CT (1)
 
-CT (1) ou OA (2) |
+ou OA (2) |
 
-CT (1) ou OA (2) |
+CT (1)
 
-Vérification montage
+ou OA (2) |
+
+Attestation
+
+du fabricant |
+
+CT (1)
+
+ou OA (2) |
+
+CT (1)
+
+ou OA (2) |
+
+Vérification
+
+montage
 
 (art. 38) |
 
-Attestation de bon montage |
+Attestation
+
+de bon montage |
 
 TC (4) |
 
@@ -54,19 +74,19 @@ OA (3) |
 
 OA (3) |
 
-Attestation de bon montage |
+Attestation
+
+de bon montage |
 
 TC (4) |
 
 OA (3) |
 
-Inspection en exploitation
+Inspection
 
-(art. 40 §1) |
+en exploitation
 
-TC (4) |
-
-TC (4) |
+(art. 40 § 1) |
 
 TC (4) |
 
@@ -78,27 +98,49 @@ TC (4) |
 
 TC (4) |
 
-Réparation ou modification en exploitation
+TC (4) |
 
-(art. 40 §2) |
+TC (4) |
 
-Attestation du fabricant |
+Réparation
 
-OA (2) |
+ou modification
 
-OA (2) |
+en exploitation
 
-OA (2) |
+(art. 40 § 2) |
 
-Attestation du fabricant |
+Attestation
 
-OA (2) |
+du fabricant |
 
-OA (2) |
+CT (1)
+
+ou OA (2) |
+
+CT (1)
+
+ou OA (2) |
+
+CT (1)
+
+ou OA (2) |
+
+Attestation
+
+du fabricant |
+
+CT (1)
+
+ou OA (2) |
+
+CT (1)
+
+ou OA (2) |
 
 Inspection annuelle
 
-(art. 40 §3) |
+(art. 40 § 3) |
 
 TC (4) |
 

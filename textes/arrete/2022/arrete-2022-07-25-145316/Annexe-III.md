@@ -40,4 +40,4 @@ Pour l'ensemble démontable existant, l'avis favorable sanctionne, d'une part, l
 
 La validité de l'avis sur modèle d'un ensemble démontable mis en service et non modifié n'est pas limitée dans le temps.
 
-La durée de validité de l'avis sur dossier technique d'un ensemble démontable est limitée aux dates de la manifestation qui y a recours.
+L'avis sur dossier technique d'un ensemble démontable est valable pour toutes les dates d'une manifestation ou de la tournée qui y a recours, lorsque l'ensemble démontable reste inchangé.

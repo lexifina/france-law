@@ -4,7 +4,7 @@ MODÈLE D'ATTESTATION DE BON MONTAGE
 
 (Article 38)
 
-Une attestation par ensemble démontable identique
+Une attestation pour plusieurs ensembles démontables identiques
 
 ÉVÉNEMENT
 
@@ -34,7 +34,7 @@ CARACTÉRISTIQUES DE L'ENSEMBLE DÉMONTABLE
 
 Fabriqué par :
 
-Descriptif sommaire :
+Descriptif sommaire et marquage(s) :
 
 Documents et plans utilisés pour l'installation : références, dates, indices, etc. :
 

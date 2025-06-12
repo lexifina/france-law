@@ -38,10 +38,12 @@ Elle contient au minimum les éléments suivants :
 
 - liées à l'usure normale acceptable ;
 
-13. Les spécifications d'entretien, de maintenances préventive et curative, et leurs périodicités ;
+13. La description des éléments de structure compatibles avec l'ensemble démontable. Pour chacun de ces éléments, les points 1 à 3 sont précisés ;
+
+14. Les spécifications d'entretien, de maintenances préventive et curative, et leurs périodicités ;
 
 S'il y a lieu :
 
-14. Les procès-verbaux de réaction au feu ;
+15. Les procès-verbaux de réaction au feu ;
 
-15. L'avis sur modèle.
+16. L'avis sur modèle.

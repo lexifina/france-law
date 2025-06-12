@@ -38,7 +38,7 @@ Les vérifications exhaustives sont réalisées par un organisme accrédité ou 
 
 4.1. Catégories ;
 
-4.2. Identification des ensembles démontables (marque, modèle, marquage (s)) ;
+4.2. Identification des ensembles démontables (marque, modèle, marquage(s)) ;
 
 4.3. Pour les tribunes :
 
@@ -653,7 +653,3 @@ Ensemble démontable existant : Marquage |
 |
 
 |
-
-NOTA :
-
-Par la décision n° 491870 du 4 avril 2025 du Conseil d’Etat statuant au contentieux ECLI:FR:CECHS:2025:491870.20250404, l'arrêté du 4 décembre 2023 modifiant l'arrêté du 25 juillet 2022 fixant les règles de sécurité et les dispositions techniques applicables aux structures provisoires et démontables (NOR: IOME2322756A) est annulé.

@@ -20,12 +20,10 @@ Annexe II : Contenu du dossier nécessaire au contrôle de la solidité et de la
 
 Annexe III : Contenu du rapport de contrôle de la solidité et de la stabilité de l'ensemble démontable à la conception ;
 
-Annexe IV : Contenu du dossier de sécurité de l'organisateur ;
+Annexe IV : Dossier et notice de sécurité ;
 
 Annexe V : Modèle d'attestation de bon montage ;
 
 Annexe VI : Contenu du rapport de vérifications après montage ;
 
 Annexe VII : Synthèse des obligations de contrôle, de vérification et d'inspection ;
-
-Annexe VIII : Cellule de veille du ministère chargé de la sécurité civile.
