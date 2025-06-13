@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SACOGIVA - OPÉRATION LA TORSE - ACQUISITION D'UN LOGEMENT LOCATIF SOCIAL DE TYPE PRÊT LOCATIF SOCIAL - EMPRUNT TOTAL DE 261 912 EUROS SOUSCRIT AUPRÈS DE LA CAISSE DES DÉPÔTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 100 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2025-06-13
+- Séance : Conseil Municipal 1CA
+- Objet : SACOGIVA - OPÉRATION LA TORSE - ACQUISITION D'UN LOGEMENT LOCATIF SOCIAL DE TYPE PRÊT LOCATIF SOCIAL - EMPRUNT TOTAL DE 261 912 EUROS SOUSCRIT AUPRÈS DE LA CAISSE DES DÉPÔTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 100 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-20890-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
