@@ -270,6 +270,8 @@ Au sens du présent arrêté, on désigne par :
 
 15. “ événement intéressant la sûreté ” : la mise en évidence, soit du fait de la survenance d'un incident, soit grâce à une observation faite par une partie prenante, d'une vulnérabilité de la protection de l'aviation civile contre les actes d'intervention illicite.
 
+16. “ enregistrement déporté ” : l'enregistrement d'un bagage de soute effectué hors de l'emprise d'un aérodrome.
+
 Article A-3 I-T - Mesures complémentaires des opérateurs
 
 Les dispositions de la présente annexe ne font pas obstacle à l'établissement de mesures complémentaires à l'initiative des organismes, personnes ou entreprises mentionnées au L. 6341-2 du code des transports dès lors que leur mise en œuvre ne se fait pas au détriment desdites dispositions.
@@ -282,7 +284,9 @@ Ces mesures portent notamment sur la fouille et la protection des aéronefs, les
 
 Article A-5 I-T - Mise à disposition des documents
 
-Tous les documents établis en application de la législation nationale et de la réglementation européenne et nationale en matière de sûreté de l'aviation civile sont tenus à la disposition des services compétents de l'Etat.
+1. Tous les documents établis en application de la législation nationale et de la réglementation européenne et nationale en matière de sûreté de l'aviation civile sont tenus à la disposition des services compétents de l'Etat.
+
+2. Les organismes de formation tiennent à disposition de l'autorité compétente les programmes des formations dispensées au sein de leur structure. Doivent y être mentionnés les éléments suivants : date, horaires et lieu des formations.
 
 Article A-6 I-T - Personnes morales autorisées à occuper ou utiliser le côté piste
 
@@ -628,7 +632,7 @@ Article 1-2-4-1 I-T - O Entités délivrant des cartes d'identification de membr
 
 Les entités suivantes délivrent la carte d'identification de membre d'équipage mentionnée au b du 1.2.2.2 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile :
 
-1. Les entreprises de transport aérien titulaires d'une licence d'exploitation délivrée par la France ou disposant d'une base d'exploitation située sur le territoire national, au sens de l'article R. 330-2-1 du code de l'aviation civile, pour chaque membre d'équipage rattaché à l'une de ses bases d'exploitation ;
+1. Les entreprises de transport aérien titulaires d'une licence d'exploitation délivrée par la France ou disposant d'une base d'exploitation située sur le territoire national, au sens de l'article R. 330-2-1 du code de l'aviation civile , pour chaque membre d'équipage rattaché à l'une de ses bases d'exploitation ;
 
 2. Les entreprises de travail aérien pour leurs employés effectuant des opérations de travail aérien ;
 
@@ -636,7 +640,7 @@ Les entités suivantes délivrent la carte d'identification de membre d'équipag
 
 Article 1-2-4-2 I-T - Obligations supplémentaires des entités délivrant des cartes d'identification de membre d'équipage.
 
-Les entités établissant des cartes d'identification de membre d'équipage mentionnées à l'article 1-2-4-1 T de la présente annexe s'assurent que la personne qui demande à en bénéficier possède l'habilitation prévue à l'article L. 6342-3 du code des transports. La durée de validité de la carte d'identification de membre d'équipage ne peut dépasser celle de cette habilitation.
+Les entités établissant des cartes d'identification de membre d'équipage mentionnées à l'article 1-2-4-1 T de la présente annexe s'assurent que la personne qui demande à en bénéficier possède l'habilitation prévue à l'article L. 6342-3 du code des transports . La durée de validité de la carte d'identification de membre d'équipage ne peut dépasser celle de cette habilitation.
 
 Elles ne remettent la carte d'identification de membre d'équipage que sur présentation d'un document attestant l'identité de son bénéficiaire.
 
@@ -646,7 +650,7 @@ Elles retirent leur carte aux personnes concernées et procèdent à leur destru
 
 2. A l'échéance de leur contrat de travail pour les personnes mentionnées aux 1 et 2 de l'article 1-2-4-1 T ; par dérogation, et lorsqu'il s'agit d'un certificat de membre d'équipage sécurisé biométrique, la carte retirée peut ne pas être détruite s'il est démontré que la conclusion ultérieure d'un nouveau contrat de travail est prévue ;
 
-3. En cas de retrait de l'habilitation mentionnée à l'article L. 6342-3 du code des transports, la destruction de la carte intervenant au terme de l'exercice des voies de recours ;
+3. En cas de retrait de l'habilitation mentionnée à l'article L. 6342-3 du code des transports , la destruction de la carte intervenant au terme de l'exercice des voies de recours ;
 
 4. En cas de suspension de l'habilitation mentionnée à l'article L. 6342-3 du code des transports ; la carte n'est toutefois pas détruite si la période de suspension n'excède pas la durée de validité de la carte ou l'échéance du contrat de travail mentionnée au 2 du présent article.
 
@@ -1154,7 +1158,7 @@ II. - L'entreprise de transport aérien :
 
 Article 4-1-3 I-T - Comptes rendus d'exploitation
 
-L'entité responsable de la mise en œuvre de l'inspection/filtrage des passagers et des bagages de cabine établit des comptes rendus mensuels d'exploitation du service d'inspection/filtrage des passagers et des bagages de cabine qui précisent :
+Sur demande du directeur général de l'aviation civile, l'entité responsable de la mise en œuvre de l'inspection/filtrage des passagers et des bagages de cabine établit et met à sa disposition des comptes rendus mensuels d'exploitation du service d'inspection/filtrage des passagers et des bagages de cabine qui précisent :
 
 - les résultats des tests de performance ;
 
@@ -1346,6 +1350,110 @@ Si les 1,2 et 3 ne sont pas respectés, l'entreprise de transport aérien refuse
 
 L'entreprise de transport aérien met à disposition du passager une déclaration sur l'honneur qu'il devra compléter et présenter.
 
+Article 5-4-3-I-T Autorisation de transport de munitions en bagages de soute.
+
+Les entreprises de transport aérien peuvent autoriser les passagers à transporter, en tant que bagage de soute, les munitions classées par la nomenclature ONU aux références n° 0012 (cartouches à projectile inerte pour armes) ou n° 0014 (cartouches à blanc pour armes), à l'exclusion des munitions contenant des projectiles explosifs ou incendiaires.
+
+La masse brute totale des munitions transportées par le passager ne doit pas excéder 5 kg.
+
+Les munitions sont présentées à l'enregistrement dans un colis solidement emballé.
+
+Article 5-4-4 I-T Limite d'emport de munitions en bagages de soute.
+
+Chaque passager n'est autorisé à transporter, en tant que bagage de soute, qu'un seul colis de munitions.
+
+Section 5 : Enregistrement déporté des bagages de soute
+
+Article 5-5-1 I-T Conditions d'enregistrement déporté des bagages de soute.
+
+Toute entreprise de transport aérien qui met en œuvre un enregistrement déporté des bagages de soute le fait conformément à la procédure inscrite dans son programme de sûreté. Elle en informe le ministre chargé de l'aviation civile.
+
+Cette procédure comprend :
+
+-les lieux envisagés d'enregistrement ;
+
+-les conditions de protection des bagages ;
+
+-les procédures de contrôle de concordance mises en œuvre ;
+
+-les éventuelles modalités de recours à la sous-traitance ;
+
+-les modalités de formation et de recrutement des personnes chargées de mettre en œuvre les mesures de sûreté.
+
+Article 5-5-2 I-T Procédure de suivi des bagages de soute soumis à l'enregistrement déporté.
+
+Sans préjudice des dispositions de l'article 5-3-1, l'entreprise de transport aérien consigne, pour chaque bagage enregistré, les informations suivantes :
+
+1. Le numéro d'enregistrement inscrit sur l'étiquette du bagage ;
+
+2. La date et le numéro du vol sur lequel le bagage est embarqué ;
+
+3. La date et l'heure de remise par le passager du bagage enregistré.
+
+Article 5-5-3 I-T Protection des bagages de soute soumis à l'enregistrement déporté.
+
+I.-Dès la remise des bagages de soute par le passager et jusqu'à leur remise à l'exploitant d'aérodrome, l'entreprise de transport aérien s'assure :
+
+1. Qu'aucune personne non autorisée n'a accès aux bagages de soute dont elle a la charge ;
+
+2. Qu'aucun article n'est introduit ou retiré des bagages de soute par une autre personne que leur propriétaire ;
+
+3. Que les bagages de soute sont scellés ;
+
+4. Que les bagages de soute sont chargés dans des véhicules dotés d'espaces de chargement sécurisés par l'apposition de scellés.
+
+II.-A l'issue des opérations mentionnées au I du présent article, l'entreprise de transport aérien consigne les informations suivantes :
+
+1. Le jour et l'heure du départ du véhicule ;
+
+2. L'immatriculation du véhicule ;
+
+3. L'identité du chauffeur conduisant le véhicule ;
+
+4. Les numéros d'identification des scellés apposés conformément aux 3° et 4° du I du présent article ;
+
+5. Le cas échéant, le nom et la signature de la personne qui a effectué le chargement des bagages de soute dans le véhicule.
+
+Article 5-5-4 I-T Remise des bagages de soute à l'exploitant d'aérodrome.
+
+A l'issue du transport des bagages de soute entre le lieu de leur enregistrement et le lieu de leur remise à l'exploitant d'aérodrome, l'entreprise de transport aérien :
+
+1. Vérifie la concordance entre la livraison et les informations mentionnées à l'article 5-5-2 et au II de l'article 5-5-3 ;
+
+2. Procède à la levée des scellés mentionnés au 4° du I de l'article 5-5-3 après vérification de leur intégrité ;
+
+3. Présente les bagages de soute à l'inspection-filtrage.
+
+Article 5-5-5 I-T Altération des scellés.
+
+En cas d'altération ou de suspicion d'altération d'un scellé apposé conformément aux 3° et 4° du I de l'article 5-5-3, les bagages de soute soumis à l'enregistrement déporté ne sont pas inspectés-filtrés.
+
+Dans ce cas, l‘entreprise de transport aérien :
+
+1. Est responsable de la remise de ces bagages à leurs propriétaires selon une procédure prévue dans son programme de sûreté ;
+
+2. Informe immédiatement les services de l'Etat chargés de la surveillance et du contrôle de la mise en œuvre des mesures de sûreté sur l'aérodrome ;
+
+3. Conserve les informations relatives à cette altération ou suspicion d'altération pendant une durée d'un an minimum.
+
+Article 5-5-6 I-T-Recrutement et formation des personnels chargés de la procédure d'enregistrement déporté des bagages de soute.
+
+L'entreprise de transport aérien s'assure que :
+
+1. Le personnel chargé de la vérification de concordance entre le passager et les bagages de soute est formé conformément au point 11.2.3.8. de l'annexe au règlement d'exécution (UE) 2015/1998 du 5 novembre 2015 susvisé ;
+
+2. Le personnel chargé de :
+
+a. La manutention des bagages de soute ; ou
+
+b. De leur transport entre le lieu de leur enregistrement et le lieu de leur remise à l'exploitant d'aérodrome ; ou
+
+c. De l'apposition des scellés,
+
+est formé conformément au point 11.2.7. de l'annexe au règlement d'exécution (UE) 2015/1998 du 5 novembre 2015 susvisé ;
+
+3. Le personnel mentionné aux 1° et 2° du présent article font l'objet d'une vérification ordinaire des antécédents conformément aux articles R. 6342-37 et R. 6342-41 du code des transports.
+
 Chapitre 6 : Fret et courrier
 
 Section 1 : Contrôles de sûreté du fret et du courrier
@@ -1368,9 +1476,9 @@ Les dossiers de renouvellement de demande d'agrément en qualité d'agent habili
 
 Section 4 : Chargeurs connus
 
-Article 6-4-1 - Obligation de visite annuelle pour les chargeurs connus
+Article 6-4-1 Obligation de visite pour les chargeurs connus.
 
-En application du point 6.4.1.4 de l'annexe du règlement (UE) 2015/1998 susvisé, le maintien de l'agrément d'un chargeur connu est conditionné à la réalisation annuelle par un validateur indépendant, certifié par le ministre chargé des transports, d'une vérification sur place des sites spécifiés dans l'agrément.
+En application du point 6.4.1.4 de l'annexe du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 mentionné ci-dessus, le maintien de l'agrément d'un chargeur connu est conditionné à la réalisation, par un validateur de sûreté aérienne de l'Union européenne mentionné à l'article R. 6341-13 du code des transports, d'une vérification sur place des sites spécifiés dans l'agrément. Cette visite est additionnelle aux visites liées à la délivrance et au renouvellement de l'agrément du chargeur connu.
 
 Article 6-4-2 - Renouvellement des dossiers de demande d'agrément des chargeurs connus
 
@@ -1612,37 +1720,21 @@ Article 11-3-1 - Organisation de la certification des agents relevant des points
 
 La certification et le renouvellement de la certification des compétences théoriques et pratiques des agents qui effectuent les tâches mentionnées aux points 11.2.3.1 à 11.2.3.5 ou relèvent du point 12.9 de l'annexe du règlement (UE) 2015/1998 susvisé sont organisés selon les typologies suivantes, liées aux missions exercées par ces agents.
 
-Typologie
+Typologie |
 
-|
+Code |
 
-Code
+Tâches |
 
-|
+Typologie n° 1 |
 
-Tâches
+T1 |
 
-|
+11.2.3.2. : inspection/filtrage du fret et du courrier |
 
-Typologie n° 1
+Typologie n° 2 |
 
-|
-
-T1
-
-|
-
-11.2.3.2. : inspection/filtrage du fret et du courrier
-
-|
-
-Typologie n° 2
-
-|
-
-T2
-
-|
+T2 |
 
 11.2.3.1. (IFPBC) : inspection/filtrage des personnes, des bagages de cabine, des articles transportés, et
 
@@ -1650,59 +1742,35 @@ T2
 
 11.2.3.3. : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
 
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
 
-|
+Typologie n° 3 |
 
-Typologie n° 3
-
-|
-
-T3
-
-|
+T3 |
 
 11.2.3.1. (IFPBC) : inspection/filtrage des personnes, des bagages de cabine, des articles transportés, et
 
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
 
-|
+Typologie n° 4 |
 
-Typologie n° 4
+T4 |
 
-|
+11.2.3.1. (IFBS) : inspection/filtrage des bagages de soute |
 
-T4
+Typologie n° 5 |
 
-|
-
-11.2.3.1. (IFBS) : inspection/filtrage des bagages de soute
-
-|
-
-Typologie n° 5
-
-|
-
-T5
-
-|
+T5 |
 
 11.2.3.1. (IFPBC) : inspection/filtrage des personnes, des bagages de cabine, des articles transportés, et
 
 11.2.3.3. : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
 
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
 
-|
+Typologie n° 6 |
 
-Typologie n° 6
-
-|
-
-T6
-
-|
+T6 |
 
 11.2.3.1. (IFPBC) : inspection/filtrage des personnes, des bagages de cabine, des articles transportés, et
 
@@ -1710,17 +1778,11 @@ T6
 
 11.2.3.4. : inspections des véhicules, et
 
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
 
-|
+Typologie n° 7 |
 
-Typologie n° 7
-
-|
-
-T7
-
-|
+T7 |
 
 11.2.3.1. : inspection/filtrage des personnes, des bagages de cabine, des articles transportés et des bagages de soute, et
 
@@ -1728,41 +1790,23 @@ T7
 
 11.2.3.4. : inspections des véhicules, et
 
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
 
-|
+Typologie n° 8 |
 
-Typologie n° 8
+T8 |
 
-|
+11.2.3.3. : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport. |
 
-T8
+Typologie n° 9 |
 
-|
+T9 |
 
-11.2.3.3. : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport.
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
 
-|
+Typologie n° 10 |
 
-Typologie n° 9
-
-|
-
-T9
-
-|
-
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
-
-|
-
-Typologie n° 10
-
-|
-
-T10
-
-|
+T10 |
 
 11.2.3.1. : inspection/filtrage des personnes, des bagages de cabine, des articles transportés et des bagages de soute, et
 
@@ -1772,9 +1816,7 @@ T10
 
 11.2.3.4. : inspections des véhicules, et
 
-11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
-
-|
+11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille. |
 
 Sans préjudice des conditions de certification initiale, fixées par l'article 14 de l'arrêté du 27 juin 2017 portant cahier des charges applicable à la formation initiale aux activités privées de sécurité, en vue de l'obtention d'une carte professionnelle autorisant l'exercice d'une activité " sûreté de l'aviation civile ", chaque typologie, à l'exception de la T8 et de la T9, se décline au choix du candidat avec ou sans analyse d'images, pour l'obtention ou le renouvellement d'une certification.
 
@@ -1862,7 +1904,7 @@ Section 4 : Formation périodique
 
 Article 11-4-1 - Dispositions générales
 
-L'employeur des agents qui effectuent les tâches énumérées au point 11.2 de l'annexe du règlement (UE) 2015/1998 susvisé met en œuvre la formation périodique et les examens correspondants, tels que définis au point 11.4.3 et le cas échéant au points 11.4.1 et 11.4.2 de cette même annexe et s'assure qu'elle est suivie avec succès. Les durées et périodicités minimales de formation périodique sont précisées à l'appendice 11B. La vérification des compétences n'est pas incluse dans ces durées minimales.
+L'employeur des agents qui effectuent les tâches énumérées au point 11.2 de l'annexe du règlement (UE) 2015/1998 susvisé met en œuvre la formation périodique et les examens correspondants, tels que définis au point 11.4.3 et le cas échéant au points 11.4.1 et 11.4.2 de cette même annexe et s'assure qu'elle est suivie avec succès. Les durées et périodicités minimales de formation périodique sont précisées à l'appendice 11B.
 
 L'employeur des agents mentionnés à l'alinéa précédent s'assure qu'ils ont suivi avec succès une formation conforme aux exigences des articles 11-4-2 et 11-4-3 de la présente annexe.
 
@@ -1870,7 +1912,7 @@ Lorsque leurs compétences n'ont pas été exercées pendant plus de 6 mois, ces
 
 Article 11-4-2 - Formation périodique des agents relevant des points 11.4.1 et 11.4.2 de l'annexe du règlement (UE) 2015/1998 susvisé
 
-Article laissé intentionnellement vide.
+La vérification des compétences peut être incluse dans les durées minimales de formation périodique telles que précisées à l'appendice 11B.
 
 Article 11-4-3 - Formation périodique des agents relevant du a du point 11.4.3 de l'annexe du règlement (UE) 2015/1998 susvisé
 
@@ -1881,6 +1923,8 @@ La formation périodique des agents qui exécutent les tâches énumérées au p
 - un enseignement pratique s'appuyant sur les savoir-faire de l'agent et intégrant les retours d'expérience. S'agissant de la sensibilisation à la détection du comportement atypique, cet enseignement s'applique aux seuls agents relevant des points 11.2.3.1 à 11.2.3.5 à l'exclusion des agents effectuant des opérations de surveillance et de patrouille, de l'annexe du règlement (UE) 2015/1998 de la Commission du 5 novembre 2015 mentionné ci-dessus.
 
 L'employeur communique à l'instructeur les informations nécessaires à la préparation des cours et à la réalisation de la formation relatives à chacune de ces parties.
+
+La vérification des compétences n'est pas incluse dans les durées minimales de formation périodique telles que précisées à l'appendice 11B.
 
 Article 11-4-4 - Formation périodique des agents relevant du b du point 11.4.3 de l'annexe du règlement (UE) 2015/1998 susvisé
 
@@ -2038,6 +2082,14 @@ Article 11-7 T - Modalités de reconnaissance de certification étrangère europ
 
 Une personne désirant faire reconnaître une certification acquise dans un autre Etat membre de l'Union européenne doit en faire la demande auprès du ministre chargé des transports.
 
+Section 8 : Port de l'uniforme
+
+Article 11-8 T Conditions du port de l'uniforme.
+
+Les personnes mentionnées à l'article R. 6341-32 du code des transports revêtent l'uniforme dont les caractéristiques figurent à l'appendice 11F.
+
+Cet appendice est publié au Bulletin officiel du ministère chargé de l'aviation civile.
+
 Appendice 11A
 
 Déclaration relative à l'indépendance du validateur UE de sûreté aérienne
@@ -2058,181 +2110,95 @@ Les durées présentées dans le tableau ci-dessous incluent, pour les typologie
 
 Théorie et pratique
 
-hors équipements
-
-|
+hors équipements |
 
 Connaissance
 
-des équipements (théorie)
-
-|
+des équipements (théorie) |
 
 Analyse d'images
 
-sur simulateur
+sur simulateur |
 
-|
+Typologie 1 |
 
-Typologie 1
+21h00 |
 
-|
+12h00 |
 
-21h00
+14h00 |
 
-|
+Typologie 2 |
 
-12h00
+59h30 |
 
-|
+12h00 |
 
-14h00
+38h00 |
 
-|
+Typologie 3 |
 
-Typologie 2
+32h45 |
 
-|
+12h00 |
 
-59h30
+20h00 |
 
-|
+Typologie 4 |
 
-12h00
+19h10 |
 
-|
+12h00 |
 
-38h00
+24h00 |
 
-|
+Typologie 5 |
 
-Typologie 3
+43h30 |
 
-|
+12h00 |
 
-32h45
+20h00 |
 
-|
+Typologie 6 |
 
-12h00
+51h30 |
 
-|
+12h00 |
 
-20h00
+20h00 |
 
-|
+Typologie 7 |
 
-Typologie 4
+59h30 |
 
-|
+12h00 |
 
-19h10
+38h00 |
 
-|
+Typologie 8 |
 
-12h00
+14h45 |
 
-|
+12h00 |
 
-24h00
+Sans objet |
 
-|
+Typologie 9 |
 
-Typologie 5
+14h45 |
 
-|
+Sans objet |
 
-43h30
+Sans objet |
 
-|
+Typologie 10 |
 
-12h00
+74h00 |
 
-|
+12h00 |
 
-20h00
-
-|
-
-Typologie 6
-
-|
-
-51h30
-
-|
-
-12h00
-
-|
-
-20h00
-
-|
-
-Typologie 7
-
-|
-
-59h30
-
-|
-
-12h00
-
-|
-
-38h00
-
-|
-
-Typologie 8
-
-|
-
-14h45
-
-|
-
-12h00
-
-|
-
-Sans objet
-
-|
-
-Typologie 9
-
-|
-
-14h45
-
-|
-
-Sans objet
-
-|
-
-Sans objet
-
-|
-
-Typologie 10
-
-|
-
-74h00
-
-|
-
-12h00
-
-|
-
-50h00
-
-|
+50h00 |
 
 Partie 2 : Durées minimales de formation initiale non certifiante par point de l'annexe du règlement (UE) 2015/1998 susvisé, théorique et pratique hors équipement
 
@@ -2298,285 +2264,153 @@ Partie 3 : Durées minimales de formation sur le tas relative à l'utilisation d
 
 Les équipements listés ci-dessous sont définis à l'article 12-0-1-2.
 
-WTMD
+WTMD |
 
-|
+0h15 |
 
-0h15
+HHMD |
 
-|
+0h15 |
 
-HHMD
+RX simple vue/ multi vues |
 
-|
+3h30 |
 
-0h15
+EDS cabines de normes C1 ou C2 simple vue / multi vues |
 
-|
+3h30 plus 2h00 par équipements différents |
 
-RX
+EDS vues en coupe et 3D cabines répondant au moins à la norme C3 et EDS soute de norme 3 répondant au moins à la norme 3.0 |
 
-|
+7h00 plus 2h00 par équipements différents |
 
-3h30
+ETD |
 
-|
+0h15 |
 
-EDS simple vue / multi vues
+LEDS |
 
-|
+0h20 |
 
-3h30 plus 2h00 par équipements différents
+MDE |
 
-|
+0h15 |
 
-EDS vues en coupe et 3D
+SSC |
 
-|
+0h15 |
 
-7h00 plus 2h00 par équipements différents
+SMD |
 
-|
-
-ETD
-
-|
-
-0h15
-
-|
-
-LEDS
-
-|
-
-0h20
-
-|
-
-MDE
-
-|
-
-0h15
-
-|
-
-SSC
-
-|
-
-0h15
-
-|
-
-SMD
-
-|
-
-0h15
-
-|
+0h15 |
 
 Sans préjudice des dispositions concernant les EDS, pour tout nouvel équipement au concept d'opération différent, une nouvelle formation sur le tas d'une durée minimale de 0 h 10 est suivie.
 
 Partie 4 : Durées et périodicité minimale des formations périodiques imagerie (point 11.4.1 de l'annexe du règlement (UE) 2015/1998 susvisé)
 
-Familles d'équipements
+Typologie pour laquelle l'agent est certifié |
 
-|
+Durée |
 
-Durée
+Périodicité |
 
-|
+Typologies 1 à 7 |
 
-Périodicité
+6 heures |
 
-|
+Par période de 6 mois |
 
-RX et EDS simple vue multi vues
+Typologie 10 |
 
-|
+9 heures |
 
-6h00
-
-|
-
-par période de six mois |
-
-EDS simple vue multi vues coupes et 3D
-
-|
-
-6h00
-
-|
-
-par période de six mois |
-
-RX et EDS simple vue multi vues coupes et 3 D
-
-|
-
-9h00
-
-|
-
-par période de six mois |
-
-Les durées d'entrainement périodique mentionnées ci-dessus sont à répartir sur l'ensemble des familles d'équipements utilisés par l'agent en formation périodique imagerie.
+Par période de 6 mois |
 
 Partie 5 : Durées et périodicités minimales des formations périodiques hors imagerie (g)
 
 |
 
-Durée
+Durée |
 
-|
+Périodicité |
 
-périodicité
+Formations délivrées par un instructeur certifié |
 
-|
+Typologie 1 |
 
-Formations délivrées par un instructeur certifié
+7 heures |
 
-|
+annuelle |
 
-Typologie 1
+Typologie 2 |
 
-|
+14 heures |
 
-07h00
+annuelle |
 
-|
+Typologie 3 |
 
-annuelle
+07 heures |
 
-|
+annuelle |
 
-Typologie 2
+Typologie 4 |
 
-|
+7 heures |
 
-14h00
+annuelle |
 
-|
+Typologie 5 |
 
-annuelle
+7 heures |
 
-|
+annuelle |
 
-Typologie 3
+Typologie 6 |
 
-|
+14 heures |
 
-07h00
+annuelle |
 
-|
+Typologie 7 |
 
-annuelle
+14 heures |
 
-|
+annuelle |
 
-Typologie 4
+Typologie 8 |
 
-|
+7 heures |
 
-07h00
+annuelle |
 
-|
+Typologie 9 |
 
-annuelle
+14 heures |
 
-|
+5 ans |
 
-Typologie 5
+Typologie 10 |
 
-|
+21 heures |
 
-07h00
-
-|
-
-annuelle
-
-|
-
-Typologie 6
-
-|
-
-14h00
-
-|
-
-annuelle
-
-|
-
-Typologie 7
-
-|
-
-14h00
-
-|
-
-annuelle
-
-|
-
-Typologie 8
-
-|
-
-07h00
-
-|
-
-annuelle
-
-|
-
-Typologie 9
-
-|
-
-14h00
-
-|
-
-5 ans
-
-|
-
-Typologie 10
-
-|
-
-21h00
-
-|
-
-annuelle
-
-|
+annuelle |
 
 11.2.4 : formation spécifique des personnes supervisant directement des personnes effectuant les contrôles de sûreté 11.2.3.1 à 11.2.3.5, à l'exception des contrôles de sûreté 11.2.3.3 contrôle visuel et fouille manuelle |
 
-21h00 |
+21 heures |
 
 5 ans |
 
 11.2.4. : formation spécifique des personnes supervisant directement des personnes effectuant les contrôles de sûreté 11.2.3.3. contrôle visuel et fouille manuelle |
 
-10h30 |
+10 h 30 |
 
 5 ans |
 
-11.2.3.3 contrôle visuel et fouille manuelle : inspection/ filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, limitée au contrôle visuel et à la fouille manuelle. |
+11.2.3.3 contrôle visuel et fouille manuelle : inspection/ filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, limitée au contrôle visuel et à la fouille manuelle |
 
-5h00 |
+5 heures |
 
 5 ans |
 
@@ -2584,93 +2418,57 @@ Formations délivrées par un instructeur certifié ou qualifié |
 
 11.2.3.6 : fouille de sûreté des aéronefs |
 
-03h30
+2 heures |
 
-|
-
-5 ans
-
-|
+3 ans |
 
 11.2.3.7 : protection des aéronefs |
 
-03h30
+2 heures |
 
-|
-
-5 ans
-
-|
+3 ans |
 
 11.2.3.8 : vérification de concordance entre passagers et bagages |
 
-03h30
+2 heures |
 
-|
+3 ans |
 
-5 ans
+11.2.3.9 : contrôles de sûreté sur le fret et le courrier autre que l'inspection/ le filtrage ou accès à du fret ou du courrier aérien identifiable et sécurisé |
 
-|
+2 heures |
 
-11.2.3.9 : contrôles de sûreté sur le fret et le courrier autre que l'inspection/le filtrage ou accès à du fret ou du courrier aérien identifiable et sécurisé |
+3 ans |
 
-03h30 |
+11.2.3.10. : contrôles de sûreté sur le courrier et le matériel des transporteurs aériens, les approvisionnements de bord et les fournitures d'aéroport autre que l'inspection/ le filtrage |
 
-5 ans |
+2 heures |
 
-11.2.3.10. : contrôles de sûreté sur le courrier et le matériel des transporteurs aériens, les approvisionnements de bord et les fournitures d'aéroport autre que l'inspection/le filtrage |
-
-03h30
-
-|
-
-5 ans
-
-|
+3 ans |
 
 11.2.3.11. : mesures de sûreté en vol mises en œuvre par les membres d'équipage commerciaux et techniques |
 
-03h30 |
+2 heures |
 
-5 ans
+3 ans |
 
-|
+11.2.4 : formation spécifique des personnes supervisant directement des personnes effectuant les contrôles de sûreté 11.2.3.6. à 11.2.3.11. |
 
-11.2.4 : formation spécifique des personnes supervisant directement des personnes effectuant les contrôles de sûreté 11.2.3.6. à 11.2.3.11.
+10 h 30 |
 
-|
+5 ans |
 
-10h30
+11.2.6.2 : accès sans escorte aux zones de sûreté à accès réglementé |
 
-|
+2 heures |
 
-5 ans
+3 ans |
 
-|
+11.2.7 : sensibilisation à la sûreté générale |
 
-11.2.6.2 : accès sans escorte aux zones de sûreté à accès réglementé
+01 h 30 |
 
-|
-
-02h00
-
-|
-
-3 ans
-
-|
-
-11.2.7 : sensibilisation à la sûreté générale
-
-|
-
-01h30
-
-|
-
-5 ans
-
-|
+3 ans |
 
 (g) Depuis le 1er janvier 2020.
 
@@ -2682,329 +2480,27 @@ La grille mentionnée à l'article 11-2-1-2 comprend notamment les dates et hora
 
 Elle permet d'assurer le suivi de la mise en œuvre de la formation sur le tas. A cette fin, y figurent notamment les éléments suivants :
 
-Date
+Nom et prénom de l'agent : |
 
-et horaires
+Date |
 
-|
-
-Poste
-
-de travail
-
-|
-
-Tuteur
-
-et assistant
-
-|
-
-Thème
-
-|
-
-Item
-
-|
-
-Compréhension
-
-|
-
-Emargements stagiaire
-
-et tuteurs
-
-|
-
-|
-
-IFPBC
-
-|
-
-|
-
-Procédures
-
-|
-
-Pp 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Pp 2
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-…
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Procédure humaine de levée de doute (LAF)
-
-|
-
-Plaf
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Portique
-
-|
-
-Fp 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-…
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Magnétomètre portatif
-
-|
-
-Fm 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-…
-
-|
-
-|
-
-|
-
-|
-
-|
-
-détecteur de traces d'explosif
+Heure de début |
 
-|
-
-Fd 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-…
-
-|
-
-|
-
-|
-
-|
-
-|
-
-RX 1
-
-|
-
-Fr 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-LEDS1
-
-|
-
-Fl 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-…
-
-|
+Heure de fin |
 
-|
-
-|
-
-|
-
-|
-
-Equipement 1
-
-|
-
-Fe 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-IFBS
-
-|
-
-|
-
-Procédures
+Thème |
 
-|
-
-Pp1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-…
-
-|
-
-|
-
-|
-
-|
-
-|
+Descriptif |
 
-Equipement 2
+Poste |
 
-|
+Compréhension (vu et compris) |
 
-Fe 2
+Nom des tuteurs/ assistants |
 
-|
+Visa des tuteurs/ assistants |
 
-|
+Visa de l'agent |
 
 |
 
@@ -3012,16 +2508,14 @@ Fe 2
 
 |
 
-|
+Equipement |
 
-|
+Nouvel équipement : EDS cabine |
 
-|
+PIF n° 2 |
 
 |
 
-PIF personnel
-
 |
 
 |
@@ -3033,20 +2527,18 @@ PIF personnel
 |
 
 |
-
-PARIF
 
-|
+Procédures |
 
-|
+Mise à jour de la procédure n° 2 |
 
-|
+PARIF |
 
 |
 
 |
 
-Signature de l'employeur du stagiaire :
+Signature de l'employeur de l'agent :
 
 Appendice 11D
 
@@ -3066,13 +2558,9 @@ le ../../.... sur le système avec pour résultat (**) :
 
 REUSSITE ECHEC
 
-Fait à , le ../../....
+Fait à , le ../../.... |
 
-|
-
-Pour l'employeur de l'agent formé (nom, signature et cachet)
-
-|
+Pour l'employeur de l'agent formé (nom, signature et cachet) |
 
 (*) Entourer la catégorie correspondant à un des modèles figurant en appendice 12A de l'annexe à l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté sensibles de l'aviation civile.
 
@@ -3084,179 +2572,99 @@ Notes minimales pour l'obtention et le renouvellement de la certification pour u
 
 I - Un candidat obtient sa certification après une formation initiale pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 s'il obtient les notes minimales suivantes :
 
-Date de l'examen de certification
+Date de l'examen de certification |
 
-|
-
-Note minimale au QCM
-
-|
+Note minimale au QCM |
 
 Note minimale à chaque épreuve d'analyse d'images
 
-(le cas échéant)
-
-|
+(le cas échéant) |
 
 Note minimale moyenne
 
-à l'examen de certification
+à l'examen de certification |
 
-|
+Antérieure au 1er juillet 2022 |
 
-Antérieure au 1er juillet 2022
+10/20 |
 
-|
+10/20 |
 
-10/20
-
-|
-
-10/20
-
-|
-
-12/20
-
-|
+12/20 |
 
 Comprise entre le 1er juillet 2022
 
-et le 31 décembre 2022
+et le 31 décembre 2022 |
 
-|
+10/20 |
 
-10/20
+12/20 |
 
-|
+12/20 |
 
-12/20
+Comprise entre le 1er janvier 2023 et le 30 juin 2023 |
 
-|
+10/20 |
 
-12/20
+12/20 |
 
-|
+13/20 |
 
-Comprise entre le 1er janvier 2023 et le 30 juin 2023
+Postérieure au 30 juin 2023 |
 
-|
+10/20 |
 
-10/20
+12/20 |
 
-|
-
-12/20
-
-|
-
-13/20
-
-|
-
-Postérieure au 30 juin 2023
-
-|
-
-10/20
-
-|
-
-12/20
-
-|
-
-14/20
-
-|
+14/20 |
 
 II - Un candidat obtient le renouvellement de sa certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 s'il obtient les notes minimales suivantes :
 
-Date de l'examen de certification
+Date de l'examen de certification |
 
-|
-
-Note minimale au QCM
-
-|
+Note minimale au QCM |
 
 Note minimale à chaque épreuve d'analyse d'images
 
-(le cas échéant)
-
-|
+(le cas échéant) |
 
 Note minimale moyenne
 
-à l'examen de certification
+à l'examen de certification |
 
-|
+Antérieure au 1er janvier 2023 |
 
-Antérieure au 1er janvier 2023
+10/20 |
 
-|
+10/20 |
 
-10/20
+12/20 |
 
-|
+Comprise entre le 1er janvier 2023 et le 30 juin 2023 |
 
-10/20
+10/20 |
 
-|
+12/20 |
 
-12/20
-
-|
-
-Comprise entre le 1er janvier 2023 et le 30 juin 2023
-
-|
-
-10/20
-
-|
-
-12/20
-
-|
-
-12/20
-
-|
+12/20 |
 
 Comprise entre le 1er juillet 2023
 
-et le 31 décembre 2023
+et le 31 décembre 2023 |
 
-|
+10/20 |
 
-10/20
+12/20 |
 
-|
+13/20 |
 
-12/20
+Postérieure au 31 décembre 2023 |
 
-|
+10/20 |
 
-13/20
+12/20 |
 
-|
-
-Postérieure au 31 décembre 2023
-
-|
-
-10/20
-
-|
-
-12/20
-
-|
-
-14/20
-
-|
+14/20 |
 
 Chapitre 12 : Equipements de sûreté
 
@@ -3272,169 +2680,93 @@ Article 12-0-1-2 T - Liste des équipements de sûreté
 
 Sont considérés comme équipements de sûreté soumis aux régimes de certification au sens de la présente annexe les équipements et logiciels de sûreté suivants :
 
-Types d'équipement de sûreté
-
-|
+Types d'équipement de sûreté |
 
 Soumis à certification
 
-de type
-
-|
+de type |
 
 Soumis à certification
 
-individuelle
+individuelle |
 
-|
+Portique de détection de métaux (WTMD) |
 
-Portique de détection de métaux (WTMD)
+OUI |
 
-|
+OUI |
 
-OUI
+Détecteur de métaux portatif (HHMD) |
 
-|
+OUI |
 
-OUI
-
-|
-
-Détecteur de métaux portatif (HHMD)
-
-|
-
-OUI
-
-|
-
-NON
-
-|
+NON |
 
 Equipement d'imagerie radioscopique (RX) |
 
-OUI
+OUI |
 
-|
+OUI |
 
-OUI
+Équipement de détection d'explosifs (EDS) |
 
-|
+OUI |
 
-Équipement de détection d'explosifs (EDS)
+OUI |
 
-|
+Bibliothèque d'images fictives ou d'images de menaces (TIP) |
 
-OUI
+OUI |
 
-|
+NON |
 
-OUI
+Equipement de détection de traces d'explosifs (ETD) |
 
-|
+OUI |
 
-Bibliothèque d'images fictives ou d'images de menaces (TIP)
+OUI |
 
-|
+Equipement d'inspection/filtrage des liquides, aérosols et gels (LEDS) |
 
-OUI
+OUI |
 
-|
+OUI |
 
-NON
+Détecteur de métaux (MDE) |
 
-|
+OUI |
 
-Equipement de détection de traces d'explosifs (ETD)
+OUI |
 
-|
+Scanner de sûreté (SSc) |
 
-OUI
+OUI |
 
-|
+OUI |
 
-OUI
+Détecteur de métaux pour chaussures (SMD) |
 
-|
+OUI |
 
-Equipement d'inspection/filtrage des liquides, aérosols et gels (LEDS)
-
-|
-
-OUI
-
-|
-
-OUI
-
-|
-
-Détecteur de métaux (MDE)
-
-|
-
-OUI
-
-|
-
-OUI
-
-|
-
-Scanner de sûreté (SSc)
-
-|
-
-OUI
-
-|
-
-OUI
-
-|
-
-Détecteur de métaux pour chaussures (SMD)
-
-|
-
-OUI
-
-|
-
-OUI
-
-|
+OUI |
 
 Scanner de chaussures (ShSc) |
 
-OUI
+OUI |
 
-|
-
-OUI
-
-|
+OUI |
 
 Logiciel de détection automatique d'articles prohibés (APID) |
 
-OUI
+OUI |
 
-|
-
-NON
-
-|
+NON |
 
 Equipement de détection de vapeurs d'explosifs (EVD) |
 
-OUI
+OUI |
 
-|
-
-OUI
-
-|
+OUI |
 
 Article 12-0-1-3 T - Obligations des constructeurs d'équipements de sûreté ou de leurs distributeurs
 
@@ -3580,7 +2912,7 @@ Les bibliothèques d'images fictives ou d'images de menaces utilisées par les �
 
 Article 12-5-4 T - Cas particulier des bibliothèques dédiées pour l'inspection/filtrage des objets transportés par des personnes autres que les passagers
 
-L'entité utilisant des bibliothèques d'images fictives ou d'images de menaces utilisées par les équipements d'imagerie radioscopique, pour l'inspection/filtrage exclusive des objets transportés par des personnes autres que les passagers, peut choisir une bibliothèque de même composition que celles utilisées par les équipements radioscopiques ou par les équipements de détection d'explosifs, pour l'inspection/filtrage des bagages de soute ou pour l'inspection/filtrage des bagages de cabine.
+L'entité utilisant TIP, pour l'inspection/filtrage exclusive des objets transportés par des personnes autres que les passagers, peut choisir une bibliothèque de même composition que celles utilisées par les équipements radioscopiques ou par les équipements de détection d'explosifs, pour l'inspection/filtrage des bagages de soute ou pour l'inspection/filtrage des bagages de cabine.
 
 Section 6 : Détecteurs de traces d'explosifs
 
@@ -3614,83 +2946,47 @@ Article 12-9-1-2 T - Liste des environnements de travail pour les équipes cynot
 
 I. - Pour qu'une équipe cynotechnique exerce dans l'un des environnements de travail listés ci-après, le conducteur de chiens doit acquérir les compétences associées :
 
-Environnement de travail
-
-|
+Environnement de travail |
 
 Compétences requises
 
 du conducteur de chiens
 
-pour l'environnement de travail
+pour l'environnement de travail |
 
-|
+1. Inspection/filtrage du fret et courrier |
 
-1. Inspection/filtrage du fret et courrier
+11.2.3.2. |
 
-|
+2. Inspection/filtrage des bagages de soute |
 
-11.2.3.2.
+11.2.3.1. |
 
-|
+3. Fouille de sûreté des locaux de la zone de sureté à accès réglementé |
 
-2. Inspection/filtrage des bagages de soute
+11.2.3.1. |
 
-|
+4. Contrôle des véhicules |
 
-11.2.3.1.
+11.2.3.4. |
 
-|
+5. Inspection/filtrage du fret en méthode de détection à distance d'odeurs d'explosifs |
 
-3. Fouille de sûreté des locaux de la zone de sureté à accès réglementé
+11.2.3.2. |
 
-|
+6. Inspection/filtrage des approvisionnements de bord et des fournitures destinées aux aéroports |
 
-11.2.3.1.
+11.2.3.3. |
 
-|
-
-4. Contrôle des véhicules
-
-|
-
-11.2.3.4.
-
-|
-
-5. Inspection/filtrage du fret en méthode de détection à distance d'odeurs d'explosifs
-
-|
-
-11.2.3.2.
-
-|
-
-6. Inspection/filtrage des approvisionnements de bord et des fournitures destinées aux aéroports
-
-|
-
-11.2.3.3.
-
-|
-
-7. Contrôle des aéronefs
-
-|
+7. Contrôle des aéronefs |
 
 11.2.3.1.
 
-11.2.3.6.
+11.2.3.6. |
 
-|
+8. Inspection/filtrage des personnes, des bagages de cabine et des objets transportés |
 
-8. Inspection/filtrage des personnes, des bagages de cabine et des objets transportés
-
-|
-
-11.2.3.1.
-
-|
+11.2.3.1. |
 
 II. - L'acquisition des compétences 11.2.3.1 à 11.2.3.4 est attestée par la possession d'une certification pour une typologie, avec ou sans analyse d'images, couvrant les tâches correspondantes listées à l'article 11-3-1 de la présente annexe.
 
@@ -3770,119 +3066,63 @@ Article 12-9-3-2 T - Objectifs pédagogiques et durées minimales de la formatio
 
 I. - La formation initiale délivrée par l'instructeur qualifié dans le domaine de la cynotechnie doit permettre d'acquérir les compétences suivantes :
 
-Objectifs pédagogiques généraux
+Objectifs pédagogiques généraux |
 
-|
-
-Objectifs pédagogiques spécifiques
-
-|
+Objectifs pédagogiques spécifiques |
 
 Durée minimale
 
-de formation
+de formation |
 
-|
+Acquérir les connaissances théoriques, pratiques et environnementales en matière de cynotechnie. |
 
-Acquérir les connaissances théoriques, pratiques et environnementales en matière de cynotechnie.
+Mettre en œuvre les exercices liés à la motivation de l'animal et obtenir le réflexe approprié à l'action à entreprendre. |
 
-|
+40 H |
 
-Mettre en œuvre les exercices liés à la motivation de l'animal et obtenir le réflexe approprié à l'action à entreprendre.
+Enumérer et mettre en œuvre les trois techniques (en liberté, en semi-dirigé et en systématique) de recherche d'explosif pour les chiens en déambulation libre / Mettre en œuvre la technique de recherche d'explosif à distance et savoir corriger les dérives du système en liberté par un entraînement en laisse pour les CDE de détection à distance. |
 
-|
+Choisir la technique de recherche la plus adaptée à l'animal et la lui faire exécuter de manière rigoureuse. |
 
-40 H
+Acquérir les connaissances théoriques en matière de pyrotechnie. |
 
-|
+Connaître les procédures pour éviter les contaminations par molécules d'explosifs. |
 
-Enumérer et mettre en œuvre les trois techniques (en liberté, en semi-dirigé et en systématique) de recherche d'explosif pour les chiens en déambulation libre / Mettre en œuvre la technique de recherche d'explosif à distance et savoir corriger les dérives du système en liberté par un entraînement en laisse pour les CDE de détection à distance.
+7 H |
 
-|
+Connaître la nature des explosifs. |
 
-Choisir la technique de recherche la plus adaptée à l'animal et la lui faire exécuter de manière rigoureuse.
+Connaître les procédures opérationnelles applicables à la détection des explosifs. |
 
-|
+Acquérir les connaissances théoriques sur les conditions des contrôles qualité. |
 
-Acquérir les connaissances théoriques en matière de pyrotechnie.
+Comprendre les principes et citer les contrôles applicables aux équipes cynotechniques et aux personnes chargées de leur mise en œuvre. |
 
-|
+3 H |
 
-Connaître les procédures pour éviter les contaminations par molécules d'explosifs.
+Savoir rechercher méthodiquement les explosifs. |
 
-|
+Déceler chacune des familles d'explosifs avec un échantillonnage varié des masses prévues par les dispositions réglementaires. |
 
-7 H
+100 H |
 
-|
+Exécuter méthodiquement une procédure opérationnelle de recherche permettant de déceler un explosif tout en provoquant un nombre de fausse alarme minimum. |
 
-Connaître la nature des explosifs.
+35 H |
 
-|
+Exécuter des recherches avec des explosifs cachés, masqués, dans les différents environnements de travail avec des délais de confinement variés. |
 
-Connaître les procédures opérationnelles applicables à la détection des explosifs.
+35 H |
 
-|
+Interpréter chaque attitude de l'animal pour déterminer son incidence sur le processus de recherche d'explosif. |
 
-Acquérir les connaissances théoriques sur les conditions des contrôles qualité.
+30 H |
 
-|
+Maintenir les performances de l'animal. |
 
-Comprendre les principes et citer les contrôles applicables aux équipes cynotechniques et aux personnes chargées de leur mise en œuvre.
+Mettre en œuvre régulièrement des séances de mémorisation ainsi que des tests périodiques. |
 
-|
-
-3 H
-
-|
-
-Savoir rechercher méthodiquement les explosifs.
-
-|
-
-Déceler chacune des familles d'explosifs avec un échantillonnage varié des masses prévues par les dispositions réglementaires.
-
-|
-
-100 H
-
-|
-
-Exécuter méthodiquement une procédure opérationnelle de recherche permettant de déceler un explosif tout en provoquant un nombre de fausse alarme minimum.
-
-|
-
-35 H
-
-|
-
-Exécuter des recherches avec des explosifs cachés, masqués, dans les différents environnements de travail avec des délais de confinement variés.
-
-|
-
-35 H
-
-|
-
-Interpréter chaque attitude de l'animal pour déterminer son incidence sur le processus de recherche d'explosif.
-
-|
-
-30 H
-
-|
-
-Maintenir les performances de l'animal.
-
-|
-
-Mettre en œuvre régulièrement des séances de mémorisation ainsi que des tests périodiques.
-
-|
-
-30 H
-
-|
+30 H |
 
 La durée totale minimale de la formation initiale est donc de deux cent quatre-vingt heures pour un environnement de travail. Elle est augmentée d'une durée minimale de trente-cinq heures par environnement de travail supplémentaire.
 
@@ -3925,6 +3165,12 @@ b) Justifier d'une pratique de l'enseignement d'au moins un an, datant de moins 
 Article 12-9-3-5 T - Manipulation de matières explosives
 
 Sans préjudice des règles applicables en matière de produits explosifs qu'il lui appartient de respecter, toute personne manipulant des matières explosives détient, conformément au point 12.9.3.6 de l'annexe du règlement (UE) 2015/1998 susvisé, les compétences liées à l'objectif pédagogique général : " Acquérir les connaissances théoriques en matière de pyrotechnie. " au sens de l'article 12-9-3-2 de la présente annexe.
+
+Article 12-9-3-6 Validité des cours et visite sur site.
+
+L'approbation des cours de formation des conducteurs de chiens doit être renouvelée à intervalles réguliers ne dépassant pas 5 ans. La procédure comporte une vérification sur place afin de s'assurer que le centre de formation satisfait aux exigences et aux conditions de maintien de cette approbation.
+
+La vérification comporte notamment les locaux dans lesquels sont dispensés des formations théoriques et pratiques, le matériel à disposition des instructeurs y compris le matériel requis en fonction des environnements de travail sollicités, la gestion et le stockage des explosifs, le lieu de vie des chiens tel que chenil et infirmerie.
 
 Sous-section 4 : Dispositions applicables à l'environnement de travail " Inspection/filtrage du fret et du courrier " en déambulation libre
 
@@ -3978,7 +3224,7 @@ Section 11 : Scanners de sûreté (dispositifs d'imagerie utilisant des ondes mi
 
 Article 12-11-2-I-T. - Aéroports dans lesquels le recours au contrôle par des scanners de sûreté est autorisé.
 
-Le recours aux contrôles par des scanners de sûreté est autorisé sur les aérodromes de Lyon-Saint-Exupéry, de Nice-Côte-d'Azur, de Paris-Charles-de-Gaulle, de Paris-Orly, de Toulouse-Blagnac et de Cayenne-Félix Eboué.
+Le recours aux contrôles par des scanners de sûreté est autorisé sur les aérodromes où sont mises en œuvre les normes de base communes en matière de sûreté de l'aviation civile mentionnées au 1 de l'article 4 du règlement n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 susvisé.
 
 Section 12 : Détecteur de métaux pour chaussures
 
@@ -3996,1613 +3242,165 @@ Date des modifications
 
 Numéro
 
-de la révision
+de la révision |
 
-|
+Référence de l'arrêté de révision |
 
-Référence de l'arrêté de révision
+Date de signature de l'arrêté |
 
-|
+1 |
 
-Date de signature de l'arrêté
+Arrêté DEVA 1412744A portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile |
 
-|
+08 Août 2014 |
 
-1
+2 |
 
-|
+Arrêté DEVA 1505744A portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile |
 
-Arrêté DEVA 1412744A portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile
+02 Avril 2015 |
 
-|
+3 |
 
-08 Août 2014
+Arrêté DEVA 1615021A portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile |
 
-|
+24 juin 2016 |
 
-2
+4 |
 
-|
+Arrêté DEVA 1622894A portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile |
 
-Arrêté DEVA 1505744A portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile
+22 septembre 2016 |
 
-|
+5 |
 
-02 Avril 2015
+Arrêté TRAA 1813364A portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile |
 
-|
+14 mai 2018 |
 
-3
+6 |
 
-|
+Arrêté TREA 1908897A portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile |
 
-Arrêté DEVA 1615021A portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile
+26 août 2019 |
 
-|
+7 |
 
-24 juin 2016
+Arrêté TRAA2122955A modifiant l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile |
 
-|
+8 juillet 2021 |
 
-4
+8 |
 
-|
-
-Arrêté DEVA 1622894A portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile
-
-|
-
-22 septembre 2016
-
-|
-
-5
-
-|
-
-Arrêté TRAA 1813364A portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile
-
-|
-
-14 mai 2018
-
-|
-
-6
-
-|
-
-Arrêté TREA 1908897A portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile
-
-|
-
-26 août 2019
-
-|
-
-7
-
-|
-
-Arrêté TRAA2122955A modifiant l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile
-
-|
-
-8 juillet 2021
-
-|
-
-8
-
-|
-
-Arrêté TRAA2210114A modifiant l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile
-
-|
+Arrêté TRAA2210114A modifiant l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile |
 
 |
 
 Teneur des modifications
 
-N°
+N° |
 
-|
+Articles modifiés |
 
-Articles modifiés
+Nature de la modification |
 
-|
+Objectifs |
 
-Nature de la modification
+1 |
 
-|
-
-Objectifs
-
-|
-
-1
-
-|
-
-A-2
-
-|
+A-2 |
 
 Introduction de nouvelles définitions en lien avec le chapitre 12
 
-Modification de la définition de trafic annuel commercial
+Modification de la définition de trafic annuel commercial |
 
 |
 
-|
+4 |
 
-4
+A-2 |
 
-|
+Suppression de la définition Analyseur de chaussures |
 
-A-2
+Le règlement européen a séparé les détecteurs de métaux des détecteurs d'explosifs. Suppression d'une définition inutile. |
 
-|
+5 |
 
-Suppression de la définition Analyseur de chaussures
-
-|
-
-Le règlement européen a séparé les détecteurs de métaux des détecteurs d'explosifs. Suppression d'une définition inutile.
-
-|
-
-5
-
-|
-
-A-2
-
-|
+A-2 |
 
 Suppression de la définition de ACEDS
 
-Ajout de la définition de " mode dégradé "
-
-|
+Ajout de la définition de " mode dégradé " |
 
 Mise en cohérence avec réglementation UE
 
-Harmonisation de la terminologie utilisée
+Harmonisation de la terminologie utilisée |
 
-|
+5 |
 
-5
+A-8 |
 
-|
+Création de l'article |
 
-A-8
+Intégration de la mesure générale au sein du chapitre A pour suppression mesures particulières dans les chapitres techniques |
 
-|
+4 |
 
-Création de l'article
+B-1 |
 
-|
+Modification de l'article |
 
-Intégration de la mesure générale au sein du chapitre A pour suppression mesures particulières dans les chapitres techniques
+Ajout des fournisseurs connus dans la liste des entités ayant l'obligation d'établir et de maintenir un programme de sûreté. |
 
-|
+4 |
 
-4
+B-3 |
 
-|
+Modification de l'article |
 
-B-1
+Précisions apportées concernant le programme d'assurance qualité. |
 
-|
+4 |
 
-Modification de l'article
+B-4 |
 
-|
+Modification de l'article |
 
-Ajout des fournisseurs connus dans la liste des entités ayant l'obligation d'établir et de maintenir un programme de sûreté.
+Clarification des obligations liées à la sous-traitance. |
 
-|
+1 |
 
-4
+C-1 |
 
-|
+Modification du seuil de trafic aérien commercial pour l'application des tests en situation opérationnelle |
 
-B-3
+Mise en cohérence de l'article C-1 et de la définition de trafic annuel commercial de l'article A-2 |
 
-|
+4 |
 
-Modification de l'article
+C-1 |
 
-|
+Modification de l'article |
 
-Précisions apportées concernant le programme d'assurance qualité.
+Précisions relatives à la mise en œuvre des TPSO |
 
-|
+1 |
 
-4
+D |
 
-|
-
-B-4
-
-|
-
-Modification de l'article
-
-|
-
-Clarification des obligations liées à la sous-traitance.
-
-|
-
-1
-
-|
-
-C-1
-
-|
-
-Modification du seuil de trafic aérien commercial pour l'application des tests en situation opérationnelle
-
-|
-
-Mise en cohérence de l'article C-1 et de la définition de trafic annuel commercial de l'article A-2
-
-|
-
-4
-
-|
-
-C-1
-
-|
-
-Modification de l'article
-
-|
-
-Précisions relatives à la mise en œuvre des TPSO
-
-|
-
-1
-
-|
-
-D
-
-|
-
-Création des articles D-1 et D-2
-
-|
+Création des articles D-1 et D-2 |
 
 Limitation des durées de toutes les habilitations à 3 ans.
 
-Relation habilitation et alinéa b) du point 11.1.3. de l'annexe du règlement (UE) 185/2010
+Relation habilitation et alinéa b) du point 11.1.3. de l'annexe du règlement (UE) 185/2010 |
 
-|
-
-4
-
-|
-
-D-3
-
-|
-
-Création de l'article
-
-|
-
-Modalités particulières pour l'application du L.6342-3 du
-
-code des transports
-
-pour les ressortissants étrangers résidant depuis moins de 5 ans en France.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-code de l'aviation civile
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+4 |
 
-|
-
-code de l'aviation civile
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+D-3 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-ancien article 12-11-2
-
-)
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+Création de l'article |
 
-|
+Modalités particulières pour l'application du L.6342-3 du code des transports pour les ressortissants étrangers résidant depuis moins de 5 ans en France. |
 
 |
 
@@ -5610,7 +3408,7 @@ ancien article 12-11-2
 
 |
 
-|
+code de l'aviation civile |
 
 |
 
@@ -5618,14 +3416,12 @@ ancien article 12-11-2
 
 |
 
-|
+code de l'aviation civile |
 
 |
 
 |
 
 |
-
-NOTA :
 
-Conformément au troisième alinéa de l’article 4 de l’arrêté du 8 décembre 2023 (NOR : TREA2322766A), ces dispositions entrent en vigueur le 1er janvier 2025.
+ancien article 12-11-2) |
