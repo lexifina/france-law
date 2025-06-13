@@ -10,25 +10,23 @@ IP : installation progressive.
 
 PE : Plan d'entreprise.
 
-Tableau 1.-Déchéances encourues en cas de non-respect des engagements prévus à l'article D. 343-5
+Tableau 1. - Déchéances encourues en cas de non-respect des engagements prévus à l'article D. 343-5
 
-Non-respect
-
-de l'engagement
+Non-respect de l'engagement
 
 prévu à l'article : |
 
 Déchéances applicables à la dotation jeunes agriculteurs |
 
-Déchéances applicables
-
-aux prêts bonifiés |
+Déchéances applicables aux prêts bonifiés |
 
 FORMES D'INSTALLATION |
 
 TOUTES FORMES
 
-D'INSTALLATION CONFONDUES |
+D'INSTALLATION
+
+CONFONDUES |
 
 ITP |
 
@@ -100,25 +98,35 @@ D. 343-5 7° |
 
 Refus de contrôle |
 
-Déchéance totale + Sanction 10 % |
+Déchéance totale +
 
-Déchéance totale + Sanction 10 % |
+Sanction 10 % |
 
-Déchéance totale + Sanction 10 % |
+Déchéance totale +
 
-Déclassement total + Sanction 10 % |
+Sanction 10 % |
 
-Non envoi des pièces justifi-catives dans les délais fixés |
+Déchéance totale +
 
-Déchéance totale ou Déchéance partielle de 10 % (si réception effective des pièces relevant du suivi à mi-parcours après les délais fixés mais avant la fin du PE) |
+Sanction 10 % |
 
-Déchéance totale ou
+Déclassement total +
 
-Déchéance partielle de 10 % (si réception effective des pièces relevant du suivi à mi-parcours après les délais fixés mais avant la fin du PE) |
+Sanction 10 % |
 
-Déchéance totale ou
+Défaut d'envoi des pièces justificatives à la fin du plan d'entreprise |
 
-Déchéance partielle de 10 % (si réception effective des pièces relevant du suivi à mi-parcours après les délais fixés mais avant la fin du PE) |
+Déchéance partielle de 10 % en cas d'envoi des pièces justificatives après la fin de la cinquième année mais avant la fin de la sixième année suivant la date d'installation.
+
+Déchéance totale à défaut d'envoi des pièces justificatives avant la fin de la sixième année suivant la date d'installation. |
+
+Déchéance partielle de 10 % en cas d'envoi des pièces justificatives après la fin de la cinquième année mais avant la fin de la sixième année suivant la date d'installation.
+
+Déchéance totale à défaut d'envoi des pièces justificatives avant la fin de la sixième année suivant la date d'installation. |
+
+Déchéance partielle de 10 % en cas d'envoi des pièces justificatives après la fin de la cinquième année mais avant la fin de la sixième année suivant la date d'installation.
+
+Déchéance totale à défaut d'envoi des pièces justificatives avant la fin de la sixième année suivant la date d'installation. |
 
 Déclassement total
 
@@ -128,21 +136,23 @@ Suspension de la mise en place de nouveaux prêts jusqu'à fourniture des pièce
 
 D. 343-5 8° |
 
-Déchéance totale |
+Déchéance partielle de 20 % |
 
-Déchéance totale |
+Déchéance partielle de 20 % |
 
-Déchéance totale |
+Déchéance partielle de 20 % |
 
-Déchéance totale |
+Déchéance partielle
+
+(déclassement des prêts bonifiés et remboursement des bonifications en date de l'anomalie) si prêts bonifiés seuls |
 
 D. 343-5 9° |
 
-Cf tableau 2 |
+Cf. tableau 2 |
 
-Cf tableau 2 |
+Cf. tableau 2 |
 
-Cf tableau 2 |
+Cf. tableau 2 |
 
 Cf tableau 2 |
 
@@ -152,9 +162,13 @@ Déchéance partielle
 
 (à hauteur des modulations sollicitées et non mises en œuvre) |
 
-Déchéance partielle (à hauteur des modulations sollicitées et non mises en œuvre |
+Déchéance partielle
 
-Déchéance partielle (à hauteur des modulations sollicitées et non mises en œuvre) |
+(à hauteur des modulations sollicitées et non mises en œuvre) |
+
+Déchéance partielle
+
+(à hauteur des modulations sollicitées et non mises en œuvre) |
 
 Sans objet |
 
@@ -180,7 +194,7 @@ Déchéance partielle
 
 (déclassement du ou des prêts concernés et remboursement des bonifications perçues) |
 
-Tableau 2.-Déchéances encourues en cas de non-respect de l'engagement prévu au 9° de l'article D. 343-5
+Tableau 2. - Déchéances encourues en cas de non-respect de l'engagement prévu au 9° de l'article D. 343-5
 
 Le non-respect de la situation initiale prévue au plan d'entreprise conduit à une déchéance totale des aides. Les autres manquements font l'objet des déchéances partielles précisées ci-dessous.
 
@@ -192,15 +206,15 @@ de l'engagement prévu
 
 Déchéances applicables à la dotation jeunes agriculteurs |
 
-Déchéances applicables
-
-aux prêts bonifiés |
+Déchéances applicables aux prêts bonifiés |
 
 FORMES D'INSTALLATION |
 
 TOUTES FORMES
 
-D'INSTALLATION CONFONDUES |
+D'INSTALLATION
+
+CONFONDUES |
 
 ITP |
 
@@ -218,19 +232,7 @@ Déchéance partielle de 20 % |
 
 Déchéance partielle
 
-(déclassement des prêts bonifiés et remboursement des bonifications en date de l'anomalie) si prêts bonifiés seuls |
-
--respect du nombre d'actifs permanents non-salariés sur l'exploitation |
-
-Déchéance partielle de 20 % |
-
-Déchéance partielle de 20 % |
-
-Déchéance partielle de 20 % |
-
-Déchéance partielle
-
-(déclassement des prêts bonifiés et remboursement des bonifications en date de l'anomalie) si prêts bonifiés seuls |
+(déclassement des prêts bonifiés et remboursement des bonifications en date de l'anomalie) si prêts bonifiés seuls. |
 
 -respect du programme d'investissement |
 
@@ -242,7 +244,7 @@ Déchéance partielle de 20 % |
 
 Déchéance partielle
 
-(déclassement des prêts bonifiés et remboursement des bonifications en date de l'anomalie) si prêts bonifiés seuls |
+(déclassement des prêts bonifiés et remboursement des bonifications en date de l'anomalie) si prêts bonifiés seuls. |
 
 -respect du statut juridique de l'exploitation |
 
@@ -254,22 +256,28 @@ Déchéance partielle de 20 % |
 
 Déchéance partielle
 
-(déclassement des prêts bonifiés et remboursement des bonifications en date de l'anomalie) si prêts bonifiés seuls |
+(déclassement des prêts bonifiés et remboursement des bonifications en date de l'anomalie) si prêts bonifiés seuls. |
 
 -respect de la zone d'installation |
 
 Déchéance partielle
 
-de 20 % appliquée sur le montant recalculé de la dotation jeunes agriculteurs. |
+(à hauteur du montant de la DJA indûment perçu).
+
+Aucune revalorisation à la hausse du montant initialement accordé ne peut être effectuée. |
 
 Déchéance partielle
 
-de 20 % appliquée sur le montant recalculé de la dotation jeunes agriculteurs. |
+(à hauteur du montant de la DJA indûment perçu).
+
+Aucune revalorisation à la hausse du montant initialement accordé ne peut être effectuée. |
 
 Déchéance partielle
 
-de 20 % appliquée sur le montant recalculé de la dotation jeunes agriculteurs. |
+(à hauteur du montant de la DJA indûment perçu).
+
+Aucune revalorisation à la hausse du montant initialement accordé ne peut être effectuée. |
 
 Déchéance partielle
 
-(déclassement des prêts bonifiés et remboursement du montant de la subvention équivalente trop perçue) |
+(déclassement des prêts bonifiés et remboursement du montant de la subvention équivalente trop perçue). |
