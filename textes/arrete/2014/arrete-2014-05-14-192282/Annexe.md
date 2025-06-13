@@ -1,397 +1,199 @@
 # Article Annexe
 
-INTITULÉS DES POSTES DE LA DIRECTION GÉNÉRALE DES ÉTRANGERS EN FRANCE
+INTITULÉS DES POSTES DE DE LA DIRECTION GÉNÉRALE
 
-|
+DES ÉTRANGERS EN FRANCE |
 
-GRADE
-
-|
+GRADE |
 
 NOMBRE
 
-d'emplois
-
-|
+D'EMPLOIS |
 
 NOMBRE
 
-de points
+DE POINTS
 
-par emploi
+par emploi |
 
-|
+Emplois de secrétariat auprès des directeurs et cadres dirigeants assujettis à des obligations spéciales d'horaires |
 
-Emplois de secrétariat auprès des directeurs et cadres dirigeants assujettis à des obligations spéciales d'horaires
+Secrétaire (assistant) au cabinet du directeur général des étrangers en France |
 
-|
+B ou C |
 
-Secrétaire du chef du service du pilotage et des systèmes d'information
+1 |
 
-|
+20 |
 
-B ou C
+Secrétaire (assistant) du directeur de l'asile |
 
-|
+B ou C |
 
-1
+1 |
 
-|
+20 |
 
-20
+Secrétaire (assistant) du directeur de l'immigration |
 
-|
+B ou C |
 
-Secrétaire du directeur de l'asile
+2 |
 
-|
+20 |
 
-B ou C
+Secrétaire (assistant) du directeur de l'intégration et de l'accès à la nationalité |
 
-|
+B ou C |
 
-1
+3 |
 
-|
+20 |
 
-20
+Secrétaire (assistant) du chef du service de la performance et des ressources |
 
-|
+B ou C |
 
-Secrétaire du directeur de l'immigration
+1 |
 
-|
+20 |
 
-B ou C
+Secrétaire (assistant) du sous-directeur des visas |
 
-|
+B ou C |
 
-2
+1 |
 
-|
+15 |
 
-20
+Secrétaire (assistant) du sous-directeur du séjour et du travail |
 
-|
+B ou C |
 
-Secrétaire du directeur de l'accueil, de l'accompagnement des étrangers et de la nationalité
+1 |
 
-|
+15 |
 
-B ou C
+Secrétaire (assistant) du sous-directeur de la lutte contre l'immigration irrégulière |
 
-|
+B ou C |
 
-2
+1 |
 
-|
+15 |
 
-20
+Secrétaire (assistant) du sous-directeur de l'accès à la nationalité française |
 
-|
+B ou C |
 
-Secrétaire du sous-directeur à la sous-direction des visas
+1 |
 
-|
+15 |
 
-B ou C
+Fonctions impliquant une technicité particulière (informatique) |
 
-|
+Adjoint au directeur du programme &laquo; administration numérique pour les étrangers en France &raquo; |
 
-1
+A |
 
-|
+1 |
 
-15
+20 |
 
-|
+Agent spécialisé à la cellule France-visas |
 
-Secrétaire du sous-directeur de l'accès à la nationalité française
+C |
 
-|
+3 |
 
-B ou C
+15 |
 
-|
+Emplois afférents au calcul de délégations de crédits, à la mise à jour des fichiers importants et au suivi de la consommation des crédits
 
-1
+(fonctions impliquant une technicité particulière au titre des attributions financières, comptables et juridiques) |
 
-|
+Chef de la section pilotage et exécution budgétaire au service de la performance et des ressources |
 
-15
+A |
 
-|
+1 |
 
-Secrétaire du sous-directeur du séjour et du travail
+10 |
 
-|
+Emplois de responsable de l'établissement des documents budgétaires |
 
-B ou C
+Régisseur d'avances au service de la performance et des ressources |
 
-|
+B ou C |
 
-1
+1 |
 
-|
+20 |
 
-15
+Régisseur d'avances à la sous-direction de l'accès à la nationalité française |
 
-|
+B ou C |
 
-Secrétaire du sous-directeur de la lutte contre l'immigration irrégulière
+1 |
 
-|
+20 |
 
-B ou C
+Emplois spécialisés impliquant l'utilisation de matériels ou de documentations techniques très particulières |
 
-|
+Coordonnateur, chargé de fonction d'encadrements à la sous-direction des visas |
 
-1
+C |
 
-|
+1 |
 
-15
+15 |
 
-|
+Agents affectés à la cellule organisation du bureau de l'organisation, du pilotage et du système d'information visas de la sous-direction des visas |
 
-Secrétaire du chef du département du pilotage et de la gestion des systèmes d'information
+C |
 
-|
+5 |
 
-B ou C
+15 |
 
-|
+Agent mettant en œuvre des compétences particulières au greffe de la commission de recours contre les décisions de refus de visa (CRRV) |
 
-1
+C |
 
-|
+2 |
 
-15
+15 |
 
-|
+Adjoint au chef du secteur 2 du bureau de l'instruction des demandes et courrier réservé (BIDCR) de la sous-direction des visas |
 
-Fonctions impliquant une technicité particulière (informatique)
+C |
 
-|
+1 |
 
-Directeur (trice) de l'application AGDREF 1, chef du pôle métier AGDREF 2
+15 |
 
-|
+Agent chargé d'analyse réglementaire ou juridique à la sous-direction des visas |
 
-A
+C |
 
-|
+1 |
 
-1
+15 |
 
-|
+Agent chargé de fonctions documentaire à la sous-direction des visas |
 
-20
+C |
 
-|
+1 |
 
-Agents spécialisés à la cellule France-Visas
+15 |
 
-|
+Archiviste à la sous-direction de l'accès à la nationalité française |
 
-C
+C |
 
-|
+1 |
 
-3
+15 |
 
-|
-
-15
-
-|
-
-Emploi de responsable de l'établissement des documents budgétaires
-
-|
-
-Régisseur (euse) d'avances au service du pilotage et des systèmes d'information
-
-|
-
-B ou C
-
-|
-
-1
-
-|
-
-20
-
-|
-
-Régisseur (euse) d'avances à la sous-direction de l'accès à la nationalité française
-
-|
-
-B ou C
-
-|
-
-1
-
-|
-
-20
-
-|
-
-Emplois spécialisés impliquant l'utilisation de matériels ou de documentations techniques très particulières
-
-|
-
-Coordonnateur (trice), chargé (e) de fonctions d'encadrement à la sous-direction des visas
-
-|
-
-C
-
-|
-
-1
-
-|
-
-15
-
-|
-
-Agents affectés à la cellule ORG du bureau de l'organisation, du pilotage et du système d'information visas de la sous-direction des visas
-
-|
-
-C
-
-|
-
-5
-
-|
-
-15
-
-|
-
-Agents mettant en œuvre des compétences particulières au greffe de la commission de recours contre les décisions de refus de visa d'entrées en France (CRRV)
-
-|
-
-C
-
-|
-
-2
-
-|
-
-15
-
-|
-
-Adjoint (e) au chef du secteur 2 du bureau de l'instruction des demandes et du courrier réservé (BIDCR) de la sous-direction des visas
-
-|
-
-C
-
-|
-
-1
-
-|
-
-15
-
-|
-
-Agent chargé d'analyse réglementaire ou juridique à la sous-direction des visas
-
-|
-
-C
-
-|
-
-1
-
-|
-
-15
-
-|
-
-Agent chargé de fonctions documentaire à la sous-direction des visas
-
-|
-
-C
-
-|
-
-1
-
-|
-
-15
-
-|
-
-Agent chargé de la maintenance immobilière à la sous-direction de l'accès à la nationalité française
-
-|
-
-C
-
-|
-
-2
-
-|
-
-10
-
-|
-
-Archiviste à la sous-direction de l'accès à la nationalité française
-
-|
-
-C
-
-|
-
-1
-
-|
-
-15
-
-|
-
-Adjoint (e) au chef de la section archives à la sous-direction de l'accès à la nationalité française
-
-|
-
-C
-
-|
-
-1
-
-|
-
-15
-
-|
-
-Total des points de NBI = 515
-
-|
-
-|
+Total des points de NBI = 515 |
