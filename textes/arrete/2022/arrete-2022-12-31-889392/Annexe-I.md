@@ -46,10 +46,6 @@ Coefficient prudentiel CP |
 
 CP |
 
-Coefficient relatif aux allègements de charges CAC |
-
-CAC |
-
 Coefficient relatif aux dispositifs de revalorisation salariale des personnels médicaux et non médicaux (coefficient Ségur) |
 
 CS |
@@ -72,11 +68,11 @@ Montant payé par l'assurance maladie AMO : |
 
 -si M _ TM < M _ FJH |
 
-M _ AMO = (GHS × CG x CP x CAC x CS) × TR-(M _ FJ-M _ TM) |
+M _ AMO = (GHS × CG x CP x CS) × TR-(M _ FJ-M _ TM) |
 
 -si M _ TM > M _ FJH |
 
-M _ AMO = (GHS × CG × x CP x CAC x CS) × TR |
+M _ AMO = (GHS × CG × x CP x CS) × TR |
 
 (1) Le patient acquitte le forfait journalier le jour de sortie. |
 
@@ -94,7 +90,7 @@ M _ FJH = (FJ × DS) + FJ |
 
 Montant payé par l'assurance maladie AMO |
 
-M _ AMO = (GHS × CG x CP x CAC x CS)-((FJ × DS) + FJ) |
+M _ AMO = (GHS × CG x CP x CS)-((FJ × DS) + FJ) |
 
 CAS DE PATIENT EXONÉRÉ DU TM ET DU FORFAIT JOURNALIER |
 
@@ -108,7 +104,7 @@ Forfait journalier hospitalier M _ FJH |
 
 Montant payé par l'assurance maladie AMO |
 
-M _ AMO = GHS × CG x CP x CAC x CS |
+M _ AMO = GHS × CG x CP x CS |
 
 CAS DE PATIENT PRIS EN CHARGE À 100 %
 
@@ -124,7 +120,7 @@ M _ FJ = (FJ × DS) + FJ |
 
 Montant payé par l'assurance maladie AMO |
 
-M _ AMO = (GHS × CG x CP x CAC x CS)-((FJ × DS) + FJ)-24 |
+M _ AMO = (GHS × CG x CP x CS)-((FJ × DS) + FJ)-24 |
 
 CAS DE PATIENT PRIS EN CHARGE À 100 %
 
@@ -140,4 +136,4 @@ Forfait journalier hospitalier M _ FJH |
 
 Montant payé par l'assurance maladie AMO |
 
-M _ AMO = (GHS × CG x CP x CAC x CS)-24 |
+M _ AMO = (GHS × CG x CP x CS)-24 |
