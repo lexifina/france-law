@@ -136,6 +136,14 @@ agents : 18
 
 |
 
+20-1. Médecin-chef de la sous-direction santé |
+
+Dans un service d'incendie et de secours classé en catégorie A : 30
+
+Dans un service d'incendie et de secours classé en catégorie B : 25
+
+Dans un service d'incendie et de secours classé en catégorie C : 20 |
+
 2. FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
 DESIGNATION DES FONCTIONS ELIGIBLES |
