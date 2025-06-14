@@ -218,7 +218,7 @@ Chef de groupement (départements de catégorie C dont l'effectif de référence
 
 |
 
-Commandant |
+|
 
 Chef de colonne
 
@@ -232,7 +232,15 @@ Adjoint au chef de centre d'incendie et de secours
 
 |
 
+Adjoint au chef de service
+
+|
+
 Chef de centre d'incendie et de secours (effectif de sapeurs-pompiers professionnels supérieur à 50)
+
+|
+
+Chef de service (effectif d'agents supérieur à 30)
 
 |
 
@@ -244,35 +252,35 @@ Chef de groupement
 
 |
 
-Adjoint au chef de service
-
-|
-
-Chef de service (effectif d'agents supérieur à 30)
-
-|
-
 Lieutenant-colonel |
 
 Chef de site
 
 |
 
-Chef de centre d'incendie et de secours (effectif de sapeurs-pompiers professionnels supérieur à 100) |
+Chef de centre d'incendie et de secours (effectif de sapeurs-pompiers professionnels supérieur à 100)
+
+|
 
 Chef de service (effectif d'agents supérieur à 50)
 
 |
 
-Chef de groupement |
-
-Colonel, colonel hors classe, contrôleur général |
-
-Chef de site
+Adjoint au chef de groupement
 
 |
 
 Chef de groupement
+
+|
+
+Sous-directeur
+
+|
+
+Colonel |
+
+Sous-directeur
 
 |
 
@@ -284,33 +292,71 @@ Directeur départemental
 
 |
 
+Colonel hors classe |
+
+Directeur départemental adjoint
+
+|
+
+Directeur départemental
+
+|
+
+Contrôleur général |
+
+Directeur départemental
+
+|
+
 Infirmier, infirmier hors classe, cadre de santé et cadre supérieur de santé |
 
-Infirmier |
+Infirmier
 
-Infirmier de groupement |
+|
 
-Infirmier de chefferie |
+Infirmier de groupement
 
-Infirmier-chef |
+|
+
+Infirmier de chefferie
+
+|
+
+Infirmier-chef
+
+|
 
 Pharmacien de classe normale, hors classe et de classe exceptionnelle |
 
-Pharmacien |
+Pharmacien
 
-Pharmacien gérant de PUI |
+|
 
-Pharmacien-chef |
+Pharmacien gérant de PUI
+
+|
+
+Pharmacien-chef
+
+|
 
 Médecin de classe normale, hors classe et de classe exceptionnelle |
 
-Médecin |
+Médecin
 
-Médecin de groupement |
+|
 
-Médecin-chef adjoint |
+Médecin de groupement
 
-Médecin-chef |
+|
+
+Médecin-chef adjoint
+
+|
+
+Médecin-chef
+
+|
 
 Tableau I. - Indemnité de responsabilité prévue à l'article 6-4
 
@@ -416,11 +462,15 @@ Adjudant |
 
 12 |
 
-Chef d'agrès tout engin |
+Chef d'agrès tout engin
+
+|
 
 13 |
 
-Sous-officier expert |
+Sous-officier expert
+
+|
 
 14,5 |
 
@@ -480,23 +530,33 @@ Lieutenant de 1re classe |
 
 13 |
 
-Officier de garde |
+Officier de garde
+
+|
 
 16 |
 
-Chef de bureau en centre d'incendie et de secours |
+Chef de bureau en centre d'incendie et de secours
+
+|
 
 16 |
 
-Chef de groupe |
+Chef de groupe
+
+|
 
 19 |
 
-Chef de salle opérationnelle |
+Chef de salle opérationnelle
+
+|
 
 19 |
 
-Officier d'encadrement en centre d'incendie et de secours |
+Officier d'encadrement en centre d'incendie et de secours
+
+|
 
 19 |
 
@@ -504,7 +564,9 @@ Adjoint au chef de centre d'incendie et de secours |
 
 20 |
 
-Officier expert |
+Officier expert
+
+|
 
 20 |
 
@@ -512,11 +574,15 @@ Adjoint au chef de service |
 
 20 |
 
-Chef de centre d'incendie et de secours |
+Chef de centre d'incendie et de secours
+
+|
 
 22 |
 
-Chef de service |
+Chef de service
+
+|
 
 22 |
 
@@ -628,67 +694,145 @@ Commandant |
 
 15 |
 
-Chef de site |
+Chef de site
+
+|
 
 15 |
 
-Adjoint au chef de centre d'incendie et de secours |
+Adjoint au chef de centre d'incendie et de secours
+
+|
 
 18 |
 
-Adjoint au chef de service |
+Adjoint au chef de service
+
+|
 
 22 |
 
-Chef de centre d'incendie et de secours |
+Chef de centre d'incendie et de secours
+
+|
 
 30 |
 
-Chef de service |
+Chef de service
+
+|
 
 30 |
 
-Adjoint au chef de groupement |
+Adjoint au chef de groupement
+
+|
 
 33 |
 
-Chef de groupement |
+Chef de groupement
+
+|
 
 35 |
 
 Lieutenant-colonel |
 
-- |
+-
+
+|
 
 15 |
 
-Chef de centre d'incendie et de secours |
+Chef de centre d'incendie et de secours
+
+|
 
 30 |
 
-Chef de service |
+Chef de service
+
+|
 
 30 |
 
-Chef de groupement |
+Adjoint au chef de groupement
+
+|
+
+31 |
+
+Chef de groupement
+
+|
 
 33 |
 
-Colonel, colonel hors classe, contrôleur général |
+Sous-directeur
+
+|
+
+34 |
+
+Colonel |
 
 - |
 
 15 |
 
-Chef de groupement |
+Sous-directeur
+
+|
 
 32 |
 
-Directeur départemental adjoint |
+Directeur départemental adjoint
+
+|
 
 33 |
 
-Directeur départemental |
+Directeur départemental
+
+|
+
+34 |
+
+Colonel hors classe
+
+|
+
+-
+
+|
+
+15 |
+
+Directeur départemental adjoint
+
+|
+
+33 |
+
+Directeur départemental
+
+|
+
+34 |
+
+Contrôleur général
+
+|
+
+-
+
+|
+
+15 |
+
+Directeur départemental
+
+|
 
 34 |
 
@@ -702,13 +846,17 @@ Infirmier et infirmier hors classe
 
 |
 
-Groupement |
+Groupement
+
+|
 
 20 |
 
 |
 
-Chefferie |
+Chefferie
+
+|
 
 22 |
 
@@ -732,7 +880,9 @@ Infirmier de groupement
 
 |
 
-Infirmier de chefferie |
+Infirmier de chefferie
+
+|
 
 28 |
 
@@ -750,11 +900,15 @@ Cadre supérieur de santé de sapeurs-pompiers professionnels |
 
 16 |
 
-Infirmier de chefferie |
+Infirmier de chefferie
+
+|
 
 28 |
 
-Infirmier-chef |
+Infirmier-chef
+
+|
 
 31 |
 
@@ -891,7 +1045,3 @@ Spécialités professionnelles |
 3e niveau et plus |
 
 10 |
-
-NOTA :
-
-Conformément à l’article 84 du décret n° 2021-1879 du 28 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
