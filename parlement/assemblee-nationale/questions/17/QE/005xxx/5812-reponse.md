@@ -1,0 +1,9 @@
+# Réponse à la question n° 5812
+
+- Question : [5812](5812.md) — Question n° 5812 — Groenland
+
+## Réponse
+
+*JO du 2025-06-17, page 5202*
+
+Face aux déclarations répétées, agressives et provocatrices de l'administration Trump, la France a réagi avec fermeté et solidarité. Comme le ministre de l'Europe et des Affaires étrangères l'a rappelé à plusieurs reprises, les frontières de l'Europe sont souveraines. Elles ne sont pas négociables. C'est un principe sur lequel nous ne transigerons pas. Par ailleurs, les déclarations de l'administration américaine nous rappellent la nécessité d'avancer sur l'agenda de souveraineté européenne et de compétitivité afin de réduire nos dépendances et de renforcer notre autonomie stratégique. En effet, dans le contexte actuel, l'Union européenne doit défendre ses droits et s'affirmer face à toute tentative de menace, de coercition ou de provocation. Notre unité, notre détermination et notre fermeté doivent être au fondement de notre action. Enfin, le renforcement de la coopération bilatérale entre les partenaires européens contribue également à l'Europe de la défense et à la consolidation de la base industrielle et technologique de défense européenne. Face aux nombreux défis actuels, nous pouvons nous appuyer sur l'amitié et les liens économiques et culturels qui lient le Danemark et la France. La visite d'Etat historique de sa Majesté le Roi Frédéric X de Danemark, du 31 mars au 2 avril 2025, illustre ainsi l'excellente dynamique de notre relation bilatérale et a été aussi l'occasion d'approfondir notre relation avec ce pays ami, membre de l'Union européenne et allié exemplaire dans l'OTAN. A cette occasion, le ministre a signé avec son homologue danois, Monsieur Lars Løkke Rasmussen, un Partenariat stratégique réaffirmant nos ambitions communes en matière de défense européenne, de transition énergétique et d'innovation.
