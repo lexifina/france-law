@@ -1,0 +1,9 @@
+# Réponse à la question n° 5742
+
+- Question : [5742](5742.md) — Question n° 5742 — Nombre de mineurs non accompagnés pris en charge par l'ASE de la Gironde
+
+## Réponse
+
+*JO du 2025-06-17, page 5323*
+
+La loi n° 2016-297 du 14 mars 2016 relative à la protection de l'enfant, renforcée par les dispositions de la loi du 7 février 2022, consacre une protection spécifique permettant à toute personne se déclarant Mineur non accompagné (MNA) d'être mise à l'abri dans le cadre d'un accueil provisoire d'urgence jusqu'à ce que sa situation soit évaluée. En application de l'article L. 221-2-4 du code de l'action sociale et des familles, issu de la loi du 7 février 2022 relative à la protection des enfants, l'évaluation de la minorité et de l'isolement, ainsi que la mise à l'abri, relèvent de la responsabilité du conseil départemental au regard de ses compétences en matière de protection de l'enfance. Au sein de la sous-direction des missions de protec­tion judiciaire et d'éducation de la direction de la protection judiciaire de la jeunesse, la Mis­sion nationale mineurs non accompagnés (MMNA) coordonne le dispositif national d'orientation des mineurs non accompagnés. La MMNA enregistre quotidiennement les personnes reconnues mineurs non accompagnés par l'autorité judiciaire et confiées aux départements métropo­litains. Cette information fait l'ob­jet d'une communication hebdomadaire sur le site du ministère de la Justice. Il ressort du suivi assuré par la MMNA les données suivantes concernant le département de la Gironde : entre le 1er janvier et le 31 décembre 2020, 224 MNA ont été confiés au département de la Gironde par l'autorité judicaire ; 303 entre le 1er janvier et le 31 décembre 2021 ; 366 entre le 1er janvier et le 31 décembre 2022 ; 483 entre le 1er janvier et le 31 décembre 2023 ; 344 entre le 1er janvier et le 31 décembre 2024 et 66 entre le 1er janvier et le 31 mars 2025.
