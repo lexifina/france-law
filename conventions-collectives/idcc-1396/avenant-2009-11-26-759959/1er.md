@@ -4,113 +4,91 @@ Le tableau ci-après reprend la liste des CQP délivrés par la branche pour les
 
 Postes repères
 
-CQP créés par la branche |
-
-Correspondance
-
-avec les appellations des CQP des industries alimentaires |
+Postes repères
 
 Fourchette de coefficients |
 
-Conducteur de machine |
+Fourchette de coefficients |
 
-Conducteur de machine |
+Opérateur de production |
 
-150-170 |
-
-Ouvrier qualifié de nettoyage
-
-industriel |
-
-Ouvrier qualifié de nettoyage
-
-industriel |
-
-145-170 |
+120-155 |
 
 Préparateur |
 
-Préparateur |
+155-175 |
 
-150-170 |
+Conducteur de machines |
 
-Agent de maintenance |
+155-175 |
 
-Agent de maintenance |
+Conducteur de process |
 
-170-195 |
-
-Conducteur de ligne |
+155-175 |
 
 Conducteur de ligne |
 
-165-190 |
-
-Technicien qualité |
-
-Technicien qualité |
-
-200-220 |
-
-Agent de maîtrise de production niveau A |
+175-195 |
 
 Responsable d'équipe |
 
-210-260 |
+215-285 |
 
-Agent de maîtrise de production niveau B |
+Responsable d'unité de production |
 
-Responsable de secteur |
+275-335 |
 
-265-305 |
+Ouvrier qualifié de nettoyage industriel |
 
-Agent de maîtrise de maintenance niveau A |
+145-175 |
+
+Agent de maintenance |
+
+175-205 |
+
+Technicien de maintenance |
+
+215-275 |
 
 Agent de maîtrise de maintenance de niveau A |
 
-240-265 |
-
-Agent de maîtrise de maintenance niveau B |
+225-265 |
 
 Agent de maîtrise de maintenance de niveau B |
 
 275-315 |
 
-|
-
-Technicien de maintenance |
-
-200-235 |
-
-|
-
 Agent logistique |
 
 145-185 |
 
-|
+Technicien logistique |
 
-Responsable logistique |
+235-275 |
 
-200-265 |
-
-|
-
-Télévente (télévendeur) |
-
-160-190 |
-
-|
-
-Attaché commercial |
+Technicien qualité |
 
 205-225 |
 
-|
+Télévendeur |
 
-Administration paie |
+165-195 |
 
-200-290 |
+Commercial sédentaire |
+
+185-225 |
+
+Attaché commercial |
+
+235-305 |
+
+Promoteur des ventes/ marchandiseur |
+
+185-215 |
+
+Administration du personnel et de la paie |
+
+205-295 |
 
 Dans les entreprises, le coefficient minimum applicable à un poste dont les activités et compétences correspondent à l'ensemble de celles décrites dans le référentiel CQP relatif à ce poste ne peut être inférieur au minimum de la fourchette de coefficients prévu pour ce poste dans le tableau ci-dessus.
 
