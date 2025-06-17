@@ -1,0 +1,9 @@
+# Réponse à la question n° 3427
+
+- Question : [3427](3427.md) — Question n° 3427 — Inscription d'un gage automobile
+
+## Réponse
+
+*JO du 2025-06-17, page 5234*
+
+Le décret n° 2023-97 du 14 février 2023 relatif à la publicité du gage portant sur un véhicule terrestre à moteur ou une remorque immatriculés fixe les conditions et la procédure pour l'inscription des gages sur les véhicules immatriculés. La demande peut en effet être réalisée par voie électronique qui se traduit concrètement par l'utilisation d'une téléprocédure accessible sur le site de France Titres (ex agence nationale des titres sécurisés). L'accès au site internet est le suivant : https://ants.gouv.fr/ Une démarche dédiée et intitulée « faire une opération liée aux gages et saisies » existe à cet effet. La demande peut également être réalisée directement par l'établissement de crédit ou la société de financement dans le cadre d'une habilitation, délivrée par le ministère de l'intérieur, l'autorisant à télétransmettre dans le système d'immatriculation des véhicules (SIV) par un accès informatique propre. Les informations et documents à produire pour l'inscription, précisés par le décret mentionné ci-dessus, concernent la désignation du constituant et du créancier, la date de l'acte constitutif du gage et le véhicule. A réception de l'ensemble des informations, il est procédé à l'enregistrement du gage dans le registre dématérialisé que constitue le SIV. Un délai maximum de 7 jours d'instruction s'applique à compter de la réception de la demande complète par télé procédure. Les gages inscrits ont une durée de validité de 5 ans. Les demandes de prorogation, de cession et de radiation du gage s'effectuent par les mêmes canaux : soit par la télé procédure dédiée, soit via l'habilitation accordée par le ministère de l'intérieur.
