@@ -30,9 +30,9 @@ Chef du bureau des affaires disciplinaires au sein de la sous-direction de la st
 
 Direction générale des étrangers en France |
 
-Adjoint au sous-directeur de l'accès à la nationalité française, chef du département ressources et modernisation au sein de la direction de l'intégration et de l'accès à la nationalité |
+Chef du département ressources et modernisation au sein de la direction de l'intégration et de l'accès à la nationalité française |
 
-Chef du bureau du pilotage et des processus au sein de la direction de l'immigration |
+Chef du bureau du droit européen et des accords internationaux au sein de la direction de l'immigration |
 
 Préfecture de police et secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris : |
 
@@ -68,7 +68,7 @@ Directeur des ressources humaines |
 
 Zone de défense et de sécurité Ouest |
 
-|
+Directeur de la stratégie et du pilotage |
 
 Zone de défense et de sécurité Sud-Est |
 
@@ -130,7 +130,7 @@ Val-d'Oise |
 
 Directeur des migrations et de l'intégration |
 
-Secrétariat général commun départemental |
+Secrétariat général commun départemental : |
 
 |
 
