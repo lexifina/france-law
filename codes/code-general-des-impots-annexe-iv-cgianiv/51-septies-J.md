@@ -1,6 +1,6 @@
 # Article 51 septies J
 
-Le registre mis à la disposition de l'exploitant pour l'enregistrement des déclarations des mises en distillation de matières à traiter suivies en compte des repassages de produits imparfaits des rectifications de flegmes ou de produits défectueux et des déshydratations d'alcool achevé prévues à l'article 75 de l'annexe I du code général des impôts doit indiquer au fur et à mesure de leur déroulement :
+Le registre mis à la disposition de l'exploitant pour l'enregistrement des déclarations des mises en distillation de matières à traiter suivies en compte des repassages de produits imparfaits des rectifications de flegmes ou de produits défectueux et des déshydratations d'alcool achevé prévues à l'article 75 de l'annexe I au code général des impôts doit indiquer au fur et à mesure de leur déroulement :
 
 La nature de l'opération ;
 

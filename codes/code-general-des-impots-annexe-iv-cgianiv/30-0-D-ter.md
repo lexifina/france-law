@@ -96,7 +96,7 @@ PAC sur eaux grises |
 
 45 |
 
-Pour les pompes à chaleur caractérisées en mode chauffage pour des températures à la sortie de l'échangeur thermique intérieur de 35 degrés Celsius et 55 degrés Celsius selon la norme NF EN 14511, le COP à 45 degrés Celsius peut être déterminé par interpolation linéaire entre ces deux valeurs.
+Pour les pompes à chaleur caractérisées en mode chauffage pour des températures à la sortie de l'échangeur thermique intérieur de 35 degrés Celsius et 55 degrés Celsius selon la norme NF EN 14511, le COP à 45 degrés Celsius peut être déterminé par interpolation linéaire entre ces deux valeurs ;
 
 2° Les équipements de raccordement à un réseau de chaleur ou de froid alimenté majoritairement par des énergies renouvelables ou de récupération ou par une installation de cogénération suivants :
 
@@ -186,7 +186,7 @@ Inférieures ou égales à 200 |
 
 Les émissions de monoxyde de carbone, de particules, de composés organiques gazeux et d'oxydes d'azote sont calculées ou mesurées à 10 % O2 et conformément aux dispositions du règlement (UE) 2015/1189 de la Commission du 24 avril 2015 portant application de la directive 2009/125/ CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage décentralisés à combustible solide.
 
-Les chaudières mentionnées au présent 3° sont équipées d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII définies au paragraphe 6.1 de la communication de la Commission du 3 juillet 20142014 dans le cadre du règlement (UE) n° 813/2013 de la Commission portant application de la directive 2009/125/ CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage des locaux et aux dispositifs de chauffage mixtes et du règlement délégué (UE) n° 811/2013 de la Commission complétant la directive 2010/30/ UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des dispositifs de chauffage des locaux, des dispositifs de chauffage mixtes, des produits combinés constitués d'un dispositif de chauffage des locaux, d'un régulateur de température et d'un dispositif solaire et des produits combinés constitués d'un dispositif de chauffage mixte, d'un régulateur de température et d'un dispositif solaire (2014/ C 207/02).
+Les chaudières mentionnées au présent 3° sont équipées d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII définies au paragraphe 6.1 de la communication de la Commission du 3 juillet 2014-2014 dans le cadre du règlement (UE) n° 813/2013 de la Commission portant application de la directive 2009/125/ CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage des locaux et aux dispositifs de chauffage mixtes et du règlement délégué (UE) n° 811/2013 de la Commission complétant la directive 2010/30/ UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des dispositifs de chauffage des locaux, des dispositifs de chauffage mixtes, des produits combinés constitués d'un dispositif de chauffage des locaux, d'un régulateur de température et d'un dispositif solaire et des produits combinés constitués d'un dispositif de chauffage mixte, d'un régulateur de température et d'un dispositif solaire (2014/ C 207/02).
 
 4° Les équipements de chauffage ou de production d'eau chaude indépendants à bois ou autres biomasses respectant les exigences suivantes, au sens du règlement (UE) 2015/1185 de la Commission du 24 avril 2015 portant application de la directive 2009/125/ CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage décentralisés à combustible solide :
 
@@ -252,7 +252,7 @@ b) Pour les foyers fermés et les inserts de cheminées intérieures : norme NF 
 
 c) Pour les cuisinières utilisées comme mode de chauffage : norme NF EN 12815 + A1 ou NF EN 16510 ou toute autre méthode équivalente.
 
-Pour les appareils de masse artisanaux de conception unitaire, les valeurs d'émissions et de rendement sont exprimées selon le référentiel de la norme NF EN 15544 ou toute autre méthode équivalente. L'appareil, intégrant la chambre de combustion, l'accumulateur de chaleur et le conduit de fumée, est dimensionné sur le fondement d'une note de calcul détaillée, réalisée à l'aide d'un logiciel de dimensionnement dont les références sont rendues publiques sur le site internet du ministère chargé de l'énergie.
+Pour les appareils de masse artisanaux de conception unitaire, les valeurs d'émissions et de rendement sont exprimées selon le référentiel de la norme NF EN 15544 ou toute autre méthode équivalente. L'appareil, intégrant la chambre de combustion, l'accumulateur de chaleur et le conduit de fumée, est dimensionné sur le fondement d'une note de calcul détaillée, réalisée à l'aide d'un logiciel de dimensionnement dont les références sont rendues publiques sur le site internet du ministère chargé de l'énergie ;
 
 5° Les équipements de production de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire et dotés de capteurs solaires, installés avec appoint intégré et les dispositifs solaires installés sur appoint séparé, neuf ou existant, pour la production de chauffage ou d'eau chaude sanitaire, respectant les exigences suivantes :
 
@@ -268,13 +268,13 @@ i) L'efficacité énergétique saisonnière établie conformément au règlement
 
 -supérieure ou égale à 98 % dans le cas où l'efficacité énergétique saisonnière de l'appoint est supérieure ou égale à 90 % et inférieure à 98 % ;
 
--supérieure d'au moins 5 points de pourcentage à l'efficacité énergétique saisonnière de l'appoint dans les autres cas.
+-supérieure d'au moins 5 points de pourcentage à l'efficacité énergétique saisonnière de l'appoint dans les autres cas ;
 
 ii) La surface hors tout de capteurs installés est supérieure ou égale à 8 mètres carrés ;
 
 iii) Les capteurs installés sont associés à un ou plusieurs ballons d'eau chaude solaires. La capacité de stockage du ou des ballons d'eau chaude solaires est strictement supérieure à 400 litres ;
 
-iv) Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, leur classe d'efficacité énergétique, déterminée conformément à l'annexe II, point 2 du règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/ UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est au moins la classe C.
+iv) Si la capacité de stockage du ou des ballons d'eau chaude solaires est inférieure ou égale à 500 litres, leur classe d'efficacité énergétique, déterminée conformément à l'annexe II, point 2 du règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/ UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est au moins la classe C ;
 
 c) Pour les équipements de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire et les dispositifs solaires installés sur appoint séparé, neuf ou existant, pour la production d'eau chaude sanitaire :
 
