@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250504798
+
+- Question : [SEQ250504798](seq250504798.md) — Renforcement des sanctions en cas de non réalisation des travaux d'assainissement non collectif
+
+## Réponse
+
+*Transition écologique, biodiversité, forêt, mer et pêche, JO du 2025-06-19, page 3502*
+
+Lors de la vente d'un bien immobilier équipé d'un système d'assainissement non collectif (ANC), un diagnostic de conformité daté de moins de trois ans doit être fourni, conformément au Code de la santé publique. Ce diagnostic est établi par le service public d'assainissement non collectif (SPANC). En cas de non-conformité, deux options sont possibles : soit le vendeur réalise les travaux de mise en conformité avant la vente ; soit l'acquéreur les réalise dans l'année qui suit l'acte de vente, comme prévu à l'article L. 271-4 du Code de la construction et de l'habitation. Le notaire a l'obligation d'informer les deux parties de ces exigences dès les négociations. Après la vente, il transmet au SPANC une attestation contenant les informations sur la transaction et l'acquéreur, permettant au service de vérifier que les travaux sont bien réalisés dans les délais. Concernant la proposition d'instaurer un mécanisme de séquestre pour garantir la réalisation des travaux : cette solution n'est pas possible aujourd'hui en l'absence de litige. En effet, seul un tribunal peut ordonner un séquestre de fonds. Le notaire ne peut pas, de sa propre initiative, bloquer une somme pour les travaux. Toutefois, cette idée présente un intérêt et pourrait faire l'objet d'une évolution législative. Une telle réforme permettrait d'assurer plus efficacement la mise en conformité des installations, ce qui serait cohérent avec les exigences renforcées de la directive européenne révisée sur les eaux résiduaires urbaines (DERU), notamment pour les ANC.
