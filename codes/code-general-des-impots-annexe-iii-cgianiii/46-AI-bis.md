@@ -44,7 +44,7 @@ Le contribuable justifie de l'éligibilité de son investissement à la réducti
 
 III. – 1. Le contribuable produit, à la demande de l'administration fiscale, tout document de nature à justifier :
 
-a) La durée de détention des titres reçus en contrepartie des souscriptions dont les versements ont ouvert droit à l'avantage fiscal prévu au A et B du I de l'article 199 terdecies-0 A du code général des impôts ;
+a) La durée de détention des titres reçus en contrepartie des souscriptions dont les versements ont ouvert droit à l'avantage fiscal prévu aux A et B du I de l'article 199 terdecies-0 A du code général des impôts ;
 
 b) La durée de détention par la société mentionnée au premier alinéa du D du I de l'article 199 terdecies-0 A précité des titres reçus en contrepartie des souscriptions qu'elle a effectuées au capital de sociétés vérifiant l'ensemble des conditions prévues au C du I du même article 199 terdecies-0 A et dont les versements ont ouvert droit à l'avantage fiscal prévu au D du I de ce même article.
 

@@ -18,6 +18,10 @@ Lorsque, après examen, le service des impôts estime que les justifications de 
 
 5° Le nom ou la dénomination sociale de l'assujetti représenté, l'adresse de son domicile ou de son siège social, le lieu de ses activités, son adresse électronique et une description des activités au titre desquelles il réalise en France des opérations justifiant la désignation d'un représentant fiscal ;
 
-6° Un document par lequel le demandeur s'engage à remplir les formalités et obligations fiscales incombant à la personne représentée ainsi qu'à acquitter la taxe due par cette dernière conformément aux dispositions des I à III de l'article 289 A du code général des impôts ;
+6° Un document par lequel le demandeur s'engage à remplir les formalités et obligations fiscales incombant à la personne représentée ainsi qu'à acquitter la taxe due par cette dernière conformément aux dispositions du I de l'article 289 A du code général des impôts ;
 
 7° Un document par lequel la personne représentée désigne le demandeur en tant que représentant fiscal au sens de l'article 289 A du code général des impôts.
+
+NOTA :
+
+Modification effectuée en conséquence de l'article 112-I E 1° de la loi n° 2023-1322 du 29 décembre 2023.

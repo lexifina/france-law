@@ -10,21 +10,21 @@ CATÉGORIE DE MATÉRIELS ROULANTS |
 
 TARIFS (en euros) |
 
-Métro Motrice et remorque |
+Métro
 
-14 643 |
+Motrice et remorque |
 
-Autre matériel |
+14 907 |
 
-|
+Autre matériel
 
-Automotrice et motrice |
-
-27 471 |
+Automotrice et motrice
 
 Remorque |
 
-5 734 |
+27 965
+
+5 837 |
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des ministres chargés du transport et du budget en fonction de leur capacité de traction, de captation de l'électricité, d'accueil de voyageurs et de leur performance.
 

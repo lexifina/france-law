@@ -4,11 +4,11 @@ Pour l'application du o du 1° du I de l'article 31 du code général des impôt
 
 1° Les plafonds de loyer sont les suivants :
 
-a) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l' article L. 321-4 du code de la construction et de l'habitation , les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont égaux à ceux fixés au 1 du I de l'article 2 terdecies D, ou, pour les logements situés en Guadeloupe, en Guyane, en Martinique, à La Réunion ou à Mayotte, à ceux fixés au 1 du I de l'article 2 terdecies F pour ces mêmes collectivités.
+a) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-4 du code de la construction et de l'habitation, les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont égaux à ceux fixés au 1 du I de l'article 2 terdecies D, ou, pour les logements situés en Guadeloupe, en Guyane, en Martinique, à La Réunion ou à Mayotte, à ceux fixés au 1 du I de l'article 2 terdecies F pour ces mêmes collectivités.
 
 Pour l'application du premier alinéa, les plafonds de loyer applicables pour les logements situés dans la zone C sont égaux à ceux fixés au premier alinéa pour les logements situés dans la zone B2 du 1 du I de l'article 2 terdecies D. La zone C mentionnée au présent alinéa est celle définie à l'article D. 304-1 du code de la construction et de l'habitation ;
 
-b) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la construction et de l'habitation, les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2024, à :
+b) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la construction et de l'habitation, les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2025, à :
 
 |
 
@@ -34,27 +34,27 @@ Zone C
 
 Loyer social |
 
-13,21 |
+13,64 |
 
-10,16 |
+10,49 |
 
-8,75 |
+9,04 |
 
-8,40 |
+8,67 |
 
-7,80 |
+8,05 |
 
 Loyer très social |
 
-10,29 |
+10,63 |
 
-7,92 |
+8,18 |
 
-6,82 |
+7,04 |
 
-6,53 |
+6,74 |
 
-6,05 |
+6,25 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 

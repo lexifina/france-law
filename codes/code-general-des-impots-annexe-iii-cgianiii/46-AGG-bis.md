@@ -1,6 +1,6 @@
 # Article 46 AGG bis
 
-I. – Pour l'application des sixième et septième phrases du cinquième alinéa de l'article 199 decies E et du dernier alinéa du 4 de l'article 199 decies F du code général des impôts, les copropriétaires détenant au moins 50 % des appartements de la résidence peuvent faire réaliser par une ou plusieurs entreprises l'ensemble des prestations additionnelles à l'hébergement mentionnées au b du 4° de l'article 261 D du code général des impôts :
+I. – Pour l'application des sixième et septième phrases du cinquième alinéa de l'article 199 decies Edu code général des impôts, les copropriétaires détenant au moins 50 % des appartements de la résidence peuvent faire réaliser par une ou plusieurs entreprises l'ensemble des prestations additionnelles à l'hébergement mentionnées au b du 4° de l'article 261 D du code général des impôts :
 
 1° Soit en contractant chacun directement avec celles qu'ils ont choisies conjointement ;
 

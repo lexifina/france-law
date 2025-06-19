@@ -22,7 +22,7 @@ a) Son nom, son prénom et son nom commercial, tels qu'ils figurent dans les reg
 
 b) S'il est disponible, son numéro d'identification à la taxe sur la valeur ajoutée ainsi que tout autre numéro fiscal le concernant ;
 
-c) Son numéro IBAN (International Bank Account Number) ou, s'il n'est pas disponible, tout autre identifiant qui l'identifie sans équivoque ainsi que le lieu où il se trouve ;
+c) Son numéro IBAN ou, s'il n'est pas disponible, tout autre identifiant qui l'identifie sans équivoque ainsi que le lieu où il se trouve ;
 
 d) Si elles sont disponibles, son adresse, son adresse de courriel et l'adresse de son site internet, telles qu'elles figurent dans les registres du prestataire de services de paiement ;
 
@@ -41,7 +41,3 @@ iii) Toute autre référence qui identifie sans équivoque le paiement ;
 iv) S'il y a lieu, les informations indiquant que le paiement est initié dans les locaux du commerçant ;
 
 b) L'Etat membre d'origine du paiement reçu par le bénéficiaire ou en son nom, l'Etat membre de destination du remboursement, selon le cas, et les informations utilisées pour déterminer l'origine ou la destination du paiement ou du remboursement de paiement, conformément aux 5° et 6° du B du I de l'article 286 sexies du code général des impôts.
-
-NOTA :
-
-Conformément à l'article 2 du décret n° 2023-1149 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
