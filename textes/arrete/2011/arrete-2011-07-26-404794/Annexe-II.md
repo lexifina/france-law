@@ -244,10 +244,6 @@ Gabon |
 
 Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
-Géorgie |
-
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
-
 Grenade |
 
 Dispense s'étendant à tout type de passeport. |
