@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250504453
+
+- Question : [SEQ250504453](seq250504453.md) — Conséquences de l'expulsion de la Croix-Rouge Internationale du territoire azerbaïdjanais
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2025-06-19, page 3486*
+
+Le ministère de l'Europe et des affaires étrangères suit attentivement les procès d'Arméniens du Haut-Karabagh qui ont débuté le 17 janvier 2025 au tribunal militaire de Bakou et prête une attention toute particulière aux inquiétudes exprimées par les organisations de défense des droits de l'Homme quant à l'équité des procès et au traitement des accusés. Face à cette situation alarmante, nous avons rappelé à plusieurs reprises le gouvernement azerbaïdjanais à ses obligations internationales, en particulier en matière de respect des droits fondamentaux, du droit à un procès équitable et à des conditions de détention dignes et sûres. Nous avons également demandé que les signalements de torture et de mauvais traitements fassent l'objet d'une enquête rapide et impartiale. Les procès du tribunal militaire de Bakou touchent à la question bien plus vaste de l'instauration d'une paix juste et durable entre l'Arménie et l'Azerbaïdjan. À cet égard, la France a salué l'annonce de l'aboutissement des négociations en vue d'un traité de paix entre l'Arménie et l'Azerbaïdjan et appelle les parties à procéder sans délai à sa signature et sa ratification, auxquelles rien ne s'oppose désormais. Nous formons le voeu que le processus de normalisation des relations entre les deux pays permette de régler la question des prisonniers et des détenus. Cette normalisation, dans le respect de l'intégrité territoriale et de la souveraineté des deux États, doit également permettre au Sud-Caucase de devenir un espace de paix, d'intégration et de coopération, avec des frontières ouvertes, au bénéficie des populations de la région.
