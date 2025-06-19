@@ -222,10 +222,6 @@ Gabon |
 
 Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
-Géorgie |
-
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
-
 Grenade |
 
 Dispense s'étendant à tout type de passeport |
@@ -547,7 +543,3 @@ e) Les passagers des navires de croisière pour entrer et y séjourner pour une 
 f) Les passagers se trouvant dans un port de Polynésie française à bord d'un navire y faisant escale, en provenance ou à destination de l'étranger, dès lors qu'ils ne quittent pas le navire ;
 
 g) Les passagers des navires de croisière pour entrer et y séjourner pendant la durée de l'escale s'ils sont titulaires d'un passeport en cours de validité délivré par certains Etats, dans les conditions définies au 1 de l'annexe II du présent arrêté.
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 28 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
