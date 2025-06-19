@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250504702
+
+- Question : [SEQ250504702](seq250504702.md) — Traitement des déchets automobiles
+
+## Réponse
+
+*Transition écologique, biodiversité, forêt, mer et pêche, JO du 2025-06-19, page 3502*
+
+La question de la collecte, du tri des pièces détachées d'automobiles est aujourd'hui partiellement traitée par le droit national et européen. En effet, le code de l'environnement prévoit la possibilité pour les opérateurs, à savoir les constructeurs automobiles, les équipementiers, les assureurs, les centres de véhicules hors d'usage, les professionnels de la réparation de récupérer les pièces détachées issues des opérations de réparation ou d'entretien des véhicules. Le code de l'environnement a ainsi transposé une disposition prévue par la directive de 2020 relative aux véhicules hors d'usage. Il s'agit donc là d'un acte volontaire, qui dépend de l'intérêt que peuvent avoir les acteurs économiques à récupérer certaines pièces, en vue de leur réemploi ultérieur après vérification ou réparation. Le projet de règlement européen sur les exigences de circularité applicables à la conception des véhicules et au traitement des véhicules hors d'usage (VHU), en cours de négociation au sein des instances européennes, prévoit dans sa dernière version que les producteurs devront assurer "la collecte des pièces détachées usagées provenant des réparations des véhicules". La mise en place d'un système obligatoire de collecte de ces pièces par les constructeurs pourrait donc être rendue obligatoire dans les prochaines années. Dans une telle hypothèse, les éco-organismes et les systèmes individuels de la filière des véhicules hors d'usage pourraient se voir imposer des objectifs de collecte de pièces détachées à travers les exigences du cahier des charges de la filière.
