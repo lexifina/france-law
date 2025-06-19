@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241000404
+
+- Question : [SEQ241000404](seq241000404.md) — Règlementation applicable aux entreprises adaptées
+
+## Réponse
+
+*Travail et emploi, JO du 2025-06-19, page 3506*
+
+L'instruction N° DGEFP/METH/2025/31 du 21 mars 2025 vise à actualiser le cadre de référence des interventions des entreprises adaptées afin de tenir compte des modifications introduites par la loi n° 2023-1196 pour le plein emploi. Ce cadre d'intervention des entreprises adaptées intègre désormais les Entreprises adaptées de travail temporaire (EATT) et le contrat à durée déterminée tremplin CDD « Tremplin » (CDDT) pérennisés à compter du 1er janvier 2024. Cette nouvelle instruction remplace l'instruction DGEFP/METH/2019/42 du 21 février 2019. L'élaboration de cette nouvelle instruction a reposé sur une démarche de co-construction avec l'ensemble des parties prenantes. La délégation générale à l'emploi et à la formation professionnelle, interlocuteur privilégié des grandes associations de l'inclusion, dispose à cette fin de canaux réguliers d'échanges. Ainsi, comme dans le cadre de l'élaboration de la réforme des entreprises adaptées, elle a initié une concertation associant à la fois les représentants des entreprises adaptées à travers l'Union nationale des entreprises adaptées (UNEA), qui réunit 70 % des entreprises adaptées, soit 80 % des salariés et des services de l'Etat. Compte tenu des préoccupations exprimées par l'UNEA, il a été tenu compte du souhait d'un statu quo sur les critères de recrutement en CDD tremplin et en EATT dans l'arrêté du 12 mars 2025 relatif aux critères des recrutements opérés par les entreprises adaptées et les entreprises adaptées de travail temporaire, susceptibles d'ouvrir droit aux aides financières de l'État et acté une clause de revoyure pour une nouvelle discussion à la fin de l'année 2025.
