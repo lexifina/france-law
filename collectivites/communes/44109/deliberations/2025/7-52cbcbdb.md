@@ -1,0 +1,16 @@
+# VILLE DE NANTES : délibération 7 — Nouveau modèle de restauration scolaire - Construction d'une Base logistique de Traitement Primaire et d'une Unité Centrale de Production - Approbation du programme et de l'enveloppe financière prévisionnelle - Lancement du concours de maîtrise d'œuvre - Approbation.
+
+- Collectivité : VILLE DE NANTES
+- SIREN : 214401093
+- Code INSEE : 44109
+- Date : 2025-06-20
+- Séance : Conseil Municipal
+- Matière : 1.6 Commande publique / Actes relatifs à la maîtrise d’oeuvre
+- Objet : Nouveau modèle de restauration scolaire - Construction d'une Base logistique de Traitement Primaire et d'une Unité Centrale de Production - Approbation du programme et de l'enveloppe financière prévisionnelle - Lancement du concours de maîtrise d'œuvre - Approbation.
+- Transmis à la préfecture : 2025-07-02
+- Votants : 64
+- Pour : 58
+- Contre : 0
+- Abstentions : 6
+- Acte publié : https://leaa-citoyens.nantesmetropole.fr/
+- Jeu de données : https://www.data.gouv.fr/datasets/626888d1dba5144fb3f11a3b
