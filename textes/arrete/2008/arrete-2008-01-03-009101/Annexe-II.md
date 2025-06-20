@@ -96,6 +96,10 @@ Santé, sécurité routière et sécurité environnementale :
 
 - le franchissement des passages à niveau
 
+- les risques et comportements préventifs à l'abord des zones de chantiers et d'intervention des personnels travaillant sur les réseaux routiers ;
+
+- les effets de la consommation d'alcool et de produits stupéfiants
+
 - la criminalité et le trafic des clandestins
 
 |
