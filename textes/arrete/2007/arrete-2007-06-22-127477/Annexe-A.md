@@ -192,33 +192,53 @@ Directeur de l'agence de l'innovation de défense |
 
 MAPA x 25 |
 
-Direction des opérations |
+Direction des opérations, du maintien en condition opérationnelle et du numérique |
 
 Directeur de l'agence du numérique de défense |
 
+Sans limitation
+
+|
+
+Chef du service des achats d'armement
+
+|
+
 Sans limitation |
 
-Chef du service des achats d'armement |
+Adjoints du chef du service des achats d'armement
+
+|
 
 Sans limitation |
 
-Adjoints du chef du service des achats d'armement |
+Chefs de division achat
 
-Sans limitation |
-
-Chefs de division achat |
+|
 
 MAPA × 1 |
 
-Autorités signataires de marchés |
+Autorités signataires de marchés
 
-MAPA × 50 |
+|
+
+MAPA × 50
+
+|
 
 Direction de l'industrie de défense |
 
-Directeur de DGA Intelligence technique et économique |
+Directeur de DGA Information stratégique
+
+|
 
 Sans limitation |
+
+Directeur du campus OSINT
+
+|
+
+MAPA × 10 |
 
 Secrétariat général pour l'administration |
 
@@ -258,7 +278,7 @@ Commandant du service militaire volontaire |
 
 MAPA × 10 (10) |
 
-(1) L'expression “ MAPA × ” s'entend comme suit : montant égal à “ n ” fois le seuil européen de procédure formalisée applicable aux marchés de fournitures et services, qui ne sont pas des marchés de défense ou de sécurité, mentionné dans l'avis prévu par l'article L. 2123-1 du code de la commande publique (annexe 2, I, POUVOIRS ADJUDICATEURS, Fournitures et services, a du code de la commande publique) et en dessous duquel les marchés publics et les accords-cadres peuvent être passés selon la procédure adaptée.
+(1) L'expression " MAPA × n " s'entend comme suit : montant égal à “ n ” fois le seuil européen de procédure formalisée applicable aux marchés de fournitures et services, qui ne sont pas des marchés de défense ou de sécurité, mentionné dans l'avis prévu par l'article L. 2123-1 du code de la commande publique (annexe 2, I, POUVOIRS ADJUDICATEURS, Fournitures et services, a du code de la commande publique) et en dessous duquel les marchés publics et les accords-cadres peuvent être passés selon la procédure adaptée.
 
 (2) Les chefs des groupements de soutien de base de défense, commandants de formation administrative, reçoivent délégation pour passer les marchés publics et accords-cadres nécessaires au soutien commun ou spécifique des formations de la base de défense, lorsque les besoins ne sont pas satisfaits par un marché public, un accord-cadre ou une convention passés par un autre pouvoir adjudicateur du ministère ou interministériel.
 

@@ -24,7 +24,17 @@ Service de la performance et de la qualité industrielles |
 
 MAPA × 10 |
 
-DGA Intelligence technique et économique |
+DGA Information stratégique
+
+|
+
+MAPA × 10
+
+|
+
+Campus OSINT
+
+|
 
 MAPA × 10 |
 
@@ -64,7 +74,7 @@ VI. - Agence de l'innovation de défense |
 
 MAPA × 25 |
 
-(1) L'expression "MAPA × n" s'entend comme suit : montant égal à n fois le seuil européen de procédure formalisée applicable aux marchés de fournitures et de services, qui ne sont pas des marchés de défense ou de sécurité, mentionné dans l'avis prévu par l'article L. 2123-1 du code de la commande publique (annexe 2, I, POUVOIRS ADJUDICATEURS, Fournitures et services, a du code de la commande publique) et en dessous duquel les marchés publics et les accords-cadres peuvent être passés selon la procédure adaptée. |
+(1) L'expression " MAPA × n " s'entend comme suit : montant égal à n fois le seuil européen de procédure formalisée applicable aux marchés de fournitures et de services, qui ne sont pas des marchés de défense ou de sécurité, mentionné dans l'avis prévu par l'article L. 2123-1 du code de la commande publique (annexe 2, I, POUVOIRS ADJUDICATEURS, Fournitures et services, a du code de la commande publique) et en dessous duquel les marchés publics et les accords-cadres peuvent être passés selon la procédure adaptée. |
 
 NOTA :
 
