@@ -1,26 +1,34 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES ET FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE No 2791
+PRESCRIPTIONS GÉNÉRALES ET FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 2791
 
 Définitions :
 
-" Déchets combustibles " : déchets, qui ne sont pas qualifiés d'incombustibles ; au sens de cette définition, les contenants, emballages et palettes sont comptabilisés en tant que matières combustibles.
+Bâtiment ouvert : bâtiment muni d'une toiture qui n'est pas fermé sur au moins 70 % de son périmètre.
 
-" Déchets incombustibles " : déchets qui ne sont pas susceptibles de brûler. Sont qualifiés d'incombustibles des déchets constitués uniquement de matériaux classés A1 ou A2-s1-d0 au sens de l'arrêté ministériel du 21 novembre 2002 ou des déchets qualifiés comme incombustibles suite à la mise en œuvre d'essais réalisés selon un protocole reconnu par le ministère chargé de l'environnement.
+Bâtiment fermé : bâtiment muni d'une toiture qui n'est pas un bâtiment ouvert.
 
-" Déchets inflammables " : déchets catégorisés HP3 au sens de la directive cadre déchets susvisée. Un déchet n'est pas considéré comme inflammable au sens de ce présent arrêté lorsque les mentions de danger attribuées aux constituants de ce déchet ne sont pas mentionnées au tableau 3 de l'annexe III de la directive cadre déchets susvisée.
+Batterie : tout dispositif fournissant de l'énergie électrique obtenue par transformation directe d'énergie chimique, à stockage interne ou externe, et constituée d'un ou plusieurs éléments de batterie rechargeables ou non rechargeables, de modules de batterie ou d'assemblages-batteries, et comprend une batterie qui a fait l'objet d'une préparation en vue d'un réemploi, d'une préparation en vue d'une réaffectation, d'une réaffectation ou d'un remanufacturage.
 
-" Petit îlot " : zone contenant des déchets combustibles ou inflammables qui remplit les conditions cumulatives suivantes :
+Déchets combustibles : déchets, qui ne sont pas qualifiés d'incombustibles.
 
--le volume de déchets contenu dans la zone est inférieur à dix m3 si elle est couverte, et à 30 m3 sinon ;
+Déchets incombustibles : déchets qui ne sont pas susceptibles de brûler. Sont qualifiés d'incombustibles des déchets constitués uniquement de matériaux classés A1 ou A2-s1-d0 au sens de l'arrêté ministériel du 21 novembre 2002 ou des déchets qualifiés comme incombustibles suite à la mise en œuvre d'essais réalisés selon un protocole reconnu par le ministère chargé de l'environnement.
+
+Déchets inflammables : déchets catégorisés HP3 au sens de la directive cadre déchets susvisée. Un déchet n'est pas considéré comme inflammable au sens de ce présent arrêté lorsque les mentions de danger attribuées aux constituants de ce déchet ne sont pas mentionnées au tableau 3 de l'annexe III de la directive cadre déchets susvisée.
+
+Entreposage extérieur : ensemble des zones non situées à l'intérieur d'un bâtiment, dans lesquelles sont présents des déchets entreposés quel que soit leur mode de stockage ou de conditionnement : en silos ou en cuves fixes, conditionnés ou en vrac, etc. Ces zones peuvent être composées d'un ou plusieurs îlots.
+
+Petit îlot : zone susceptible de contenir des déchets combustibles ou inflammables qui remplit les conditions cumulatives suivantes :
+
+-le volume de déchets contenu dans la zone est inférieur à dix m3 si elle est située dans un bâtiment ouvert ou fermé, et à 30 m3 sinon ;
 
 -les limites en longueur, largeur et hauteur de la zone sont matérialisées en permanence (benne, peinture, piquet, mur …) ;
 
 -la zone est séparée des autres zones, bâtiments, îlots, locaux, parking ou tiers par une distance d'au moins cinq mètres ou par un mur coupe-feu de caractéristiques minimales REI 120.
 
-" Zone de réception de déchets " : zone dans laquelle les déchets sont réceptionnés par l'installation en vue d'une gestion ultérieure. Ces zones sont vidées au moins quotidiennement et sont vides en dehors des heures d'exploitation de l'installation.
+Zone de réception de déchets : zone dans laquelle les déchets sont réceptionnés par l'installation en vue d'une gestion ultérieure. Les zones qui ne sont pas vidées au moins quotidiennement et qui ne sont pas vides en dehors des heures d'exploitation de l'installation ne sont pas des zones de réception de déchets, mais sont des zones susceptibles de contenir des déchets.
 
-" Zone susceptible de contenir des déchets " : à l'exception des zones d'entreposage en cuve ou en silo fixe et des zones de réception de déchets définies ci-dessus, les zones susceptibles de contenir des déchets sont :
+Zone susceptible de contenir des déchets : à l'exception des zones d'entreposage en silo ou cuve fermés et fixes et des zones de réception de déchets définies ci-dessus, les zones susceptibles de contenir des déchets sont :
 
 -les zones de dépôt de déchets conditionnés ou en vrac ;
 
@@ -122,7 +130,7 @@ L'installation ne surmonte pas et n'est pas surmontée de locaux occupés par de
 
 Les parois extérieures des locaux abritant l'installation sont construites en matériaux A2 s1 d0.
 
-Le sol des aires et locaux de stockage est incombustible (de classe A1fl).
+Le sol des aires et locaux de stockage est incombustible (de classe A1 fl ).
 
 Objet du contrôle :
 
@@ -146,7 +154,7 @@ Objet du contrôle :
 
 2.4.3. Toitures et couvertures de toiture
 
-Les toitures et couvertures de toiture répondent à la classe BROOF (t3), pour un temps de passage du feu au travers de la toiture supérieure à trente minutes (classe T 30) et pour une durée de la propagation du feu à la surface de la toiture supérieure à trente minutes (indice 1).
+Les toitures et couvertures de toiture répondent à la classe B ROOF (t3), pour un temps de passage du feu au travers de la toiture supérieure à trente minutes (classe T 30) et pour une durée de la propagation du feu à la surface de la toiture supérieure à trente minutes (indice 1).
 
 2.4.4. Désenfumage
 
@@ -154,9 +162,9 @@ Les bâtiments abritant les installations doivent être équipés en partie haut
 
 Ces dispositifs doivent être à commandes automatique et manuelle. Leur surface utile d'ouverture ne doit pas être inférieure à :
 
-- 2 % si la superficie à désenfumer est inférieure à 1 600 m2 ;
+- 2 % si la superficie à désenfumer est inférieure à 1 600 m 2 ;
 
-- à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1 600 m2 sans pouvoir être inférieure à 2 % de la superficie des locaux.
+- à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1 600 m 2 sans pouvoir être inférieure à 2 % de la superficie des locaux.
 
 En exploitation normale, le réarmement (fermeture) doit être possible depuis le sol du local ou depuis la zone de désenfumage ou la cellule à désenfumer dans le cas de local divisé en plusieurs cantons ou cellule.
 
@@ -168,7 +176,7 @@ Tous les dispositifs doivent en référence à la norme NF EN 12 101-2 présente
 
 - fiabilité : classe RE 300 (300 cycles de mise en sécurité). Les exutoires bifonctions sont soumis à 10 000 cycles d'ouverture en position d'aération ;
 
-- la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/m2) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN/m2) pour des altitudes supérieures à 400 mètres et inférieures ou égales à 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige;
+- la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/m 2 ) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN/m 2 ) pour des altitudes supérieures à 400 mètres et inférieures ou égales à 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige;
 
 - classe de température ambiante T0 (0 °C) ;
 
@@ -294,13 +302,19 @@ Les locaux, voies de circulation et aires de stationnement sont maintenus propre
 
 L'exploitant doit tenir à jour un registre indiquant la nature et la quantité des produits dangereux détenus, auquel est annexé un plan général des stockages. Ce registre est tenu à la disposition des services d'incendie et de secours et consigné dans le dossier "installations classées" prévu au point 1.4.
 
-En complément de ce registre, l'exploitant tient la comptabilité des stocks présents sur l'exploitation par différence à partir des bons de pesée établis. L'état des déchets stockés est mis à jour au moins de manière hebdomadaire et accessible à tout moment, y compris en cas d'incident, accident, pertes d'utilité ou tout autre événement susceptible d'affecter l'installation. Pour les déchets dangereux, cet état est mis à jour au moins de manière quotidienne. Un bilan annuel tenu à disposition à l'inspection des installations classées indique nominativement la liste des sites destinataires des déchets.
-
 La présence dans l'installation de matières dangereuses ou combustibles est limitée au plus juste des besoins de l'exploitation.
 
 Objet du contrôle :
 
 - présence de l'état des stocks (nature et quantité) de produits dangereux à jour.
+
+3.5.1. Traçabilité
+
+En complément du registre prévu à l'article R. 541-43 du code de l'environnement, l'exploitant tient la comptabilité des stocks présents sur l'exploitation. Cette comptabilité des stocks peut être réalisée par différence à partir des bons de pesée établis en entrée et en sortie du site ou par tout autre moyen équivalent défini par l'exploitant. L'état des déchets stockés est mis à jour au moins de manière hebdomadaire et accessible à tout moment, y compris en cas d'incident, accident, pertes d'utilité ou tout autre événement susceptible d'affecter l'installation. Pour les déchets dangereux, cet état est mis à jour au moins de manière quotidienne. Un bilan annuel tenu à disposition à l'inspection des installations classées indique nominativement la liste des sites destinataires des déchets.
+
+Objet du contrôle :
+
+- présence de la comptabilité des stocks à jour.
 
 3.6. Consignes d'exploitation
 
@@ -372,7 +386,7 @@ Objet du contrôle :
 
 4.3. Matériels utilisables en atmosphères explosibles
 
-Dans les parties de l'installation visées au point 4.1 et recensées "atmosphères explosibles", les installations électriques, mécaniques, hydrauliques et pneumatiques doivent être conformes aux dispositions du décret no 96-1010 du 19 novembre 1996 relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosible. Elles sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation et sont entièrement constituées de matériels utilisables dans les atmosphères explosives.
+Dans les parties de l'installation visées au point 4.1 et recensées "atmosphères explosibles", les installations électriques, mécaniques, hydrauliques et pneumatiques doivent être conformes aux dispositions du décret n o 96-1010 du 19 novembre 1996 relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosible. Elles sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation et sont entièrement constituées de matériels utilisables dans les atmosphères explosives.
 
 Les canalisations électriques ne doivent pas être une cause possible d'inflammation et doivent être convenablement protégées contre les chocs, contre la propagation des flammes et contre l'action des produits présents dans la partie de l'installation en cause.
 
@@ -454,7 +468,7 @@ Il comprend au minimum :
 
 -les modalités selon lesquelles les fiches de données de sécurité et l'état des matières stockées prévu au point 3.5 de l'annexe I sont tenus à disposition du service d'incendie et de secours et de l'inspection des installations classées, et, le cas échéant, les précautions de sécurité qui sont susceptibles d'en découler ;
 
--le cas échéant, la localisation des petits îlots et les déchets qu'ils sont susceptibles de contenir ;
+-les plans de l'installation précisant l'emplacement des bâtiments, des entreposages extérieurs, des îlots et petits îlots, des zones de réception de déchets, des zones susceptibles de contenir des déchets, des silos et cuves fermés et fixes ;
 
 -la justification des compétences du personnel susceptible, en cas d'alerte, d'intervenir avant l'arrivée des secours, notamment en matière de formation, de qualification et d'entraînement.
 
@@ -542,7 +556,7 @@ b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une st
 
 - DCO : 2 000 mg/l ;
 
-- DBO5 : 800 mg/l
+- DBO 5 : 800 mg/l
 
 Ces valeurs limites ne sont pas applicables lorsque l'autorisation de déversement dans le réseau public prévoit une valeur supérieure.
 
@@ -552,7 +566,7 @@ c) Dans le cas de rejet dans le milieu naturel (ou dans un réseau d'assainissem
 
 - DCO : 300 mg/l ;
 
-- DBO5 : 100 mg/l.
+- DBO 5 : 100 mg/l.
 
 d) Polluants spécifiques : avant rejet dans le milieu naturel ou dans un réseau d'assainissement collectif urbain :
 
@@ -562,7 +576,7 @@ d) Polluants spécifiques : avant rejet dans le milieu naturel ou dans un résea
 
 - cyanures totaux : 0,1 mg/l ;
 
-- AOx : 5 mg/l ;
+- AO x : 5 mg/l ;
 
 - arsenic : 0,1 mg/l ;
 
@@ -572,7 +586,7 @@ d) Polluants spécifiques : avant rejet dans le milieu naturel ou dans un résea
 
 Ces valeurs limites doivent être respectées en moyenne quotidienne. Aucune valeur instantanée ne doit dépasser le double des valeurs limites de concentration.
 
-Une mesure des concentrations des différents polluants susvisés doit être effectuée au moins tous les ans par un organisme agréé par le ministre chargé de l'environnement selon les méthodes de référence précisées dansun avis publié au Journal officiel. Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué, soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée ou estimée à partir des consommations, si celui-ci est supérieur à 10 m3/j.
+Une mesure des concentrations des différents polluants susvisés doit être effectuée au moins tous les ans par un organisme agréé par le ministre chargé de l'environnement selon les méthodes de référence précisées dansun avis publié au Journal officiel. Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué, soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée ou estimée à partir des consommations, si celui-ci est supérieur à 10 m 3 /j.
 
 Les polluants visés au point présent qui ne sont pas susceptibles d'être émis par l'installation, ne font pas l'objet des mesures périodiques prévues au présent point. Dans ce cas, l'exploitant tient à la disposition de l'inspection des installations classées les éléments techniques permettant d'attester l'absence d'émission de ces produits par l'installation.
 
@@ -624,15 +638,15 @@ Les valeurs ne dépassent pas les limites suivantes :
 
 a) Poussières :
 
-- si le flux horaire est inférieur à 1 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 100 mg/Nm3 de poussières ;
+- si le flux horaire est inférieur à 1 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 100 mg/Nm 3 de poussières ;
 
-- si le fluxhoraire est supérieur à 1 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 40 mg/Nm3 de poussières.
+- si le fluxhoraire est supérieur à 1 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 40 mg/Nm 3 de poussières.
 
 b) Composés organiques volatils :
 
-- si le flux horaire est supérieur à 2 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 110 mg/Nm3.
+- si le flux horaire est supérieur à 2 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 110 mg/Nm 3 .
 
-Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination des COV, la valeur limite d'émission en COV exprimée en carbone total est de 50 mg par m3 si le rendement d'épuration est supérieur à 98 %.
+Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination des COV, la valeur limite d'émission en COV exprimée en carbone total est de 50 mg par m 3 si le rendement d'épuration est supérieur à 98 %.
 
 Objet du contrôle :
 
@@ -818,8 +832,6 @@ ambiant existant dans les zones
 
 (incluant le bruit de l'installation)
 
-|
-
 ÉMERGENCE ADMISSIBLE
 
 pour la période
@@ -827,8 +839,6 @@ pour la période
 allant de 7 heures à 22 heures,
 
 sauf dimanches et jours fériés
-
-|
 
 ÉMERGENCE ADMISSIBLE
 
@@ -840,33 +850,19 @@ ainsi que les dimanches
 
 et jours fériés
 
-|
-
 Supérieur à 35 et inférieur ou égal à
 
 45 dB (A)
 
-|
-
 6 dB (A)
-
-|
 
 4 dB (A)
 
-|
-
 Supérieur à 45 dB (A)
-
-|
 
 5 dB (A)
 
-|
-
 3 dB (A)
-
-|
 
 De plus, le niveau de bruit en limite de propriété de l'installation ne doit pas dépasser, lorsqu'elle est en fonctionnement, 70 dB (A) pour la période de jour et 60 dB (A) pour la période de nuit, sauf si le bruit résiduel pour la période considérée est supérieur à cette limite.
 

@@ -6,27 +6,35 @@ Définitions
 
 Au sens du présent arrêté, on entend par :
 
-" Composé organique volatil (COV) " : tout composé organique, à l'exclusion du méthane, ainsi que la fraction de créosote, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 Kelvin ou ayant une volatilité correspondante dans des conditions d'utilisation particulières.
+Bâtiment ouvert : bâtiment muni d'une toiture qui n'est pas fermé sur au moins 70 % de son périmètre.
 
-" Déchets combustibles " : déchets, qui ne sont pas qualifiés d'incombustibles ; au sens de cette définition, les contenants, emballages et palettes sont comptabilisés en tant que matières combustibles.
+Bâtiment fermé : bâtiment muni d'une toiture qui n'est pas un bâtiment ouvert.
 
-" Déchets incombustibles " : déchets qui ne sont pas susceptibles de brûler. Sont qualifiés d'incombustibles des déchets constitués uniquement de matériaux classés A1 ou A2-s1-d0 au sens de l'arrêté ministériel du 21 novembre 2002 ou des déchets qualifiés comme incombustibles suite à la mise en œuvre d'essais réalisés selon un protocole reconnu par le ministère chargé de l'environnement.
+Batterie : tout dispositif fournissant de l'énergie électrique obtenue par transformation directe d'énergie chimique, à stockage interne ou externe, et constituée d'un ou plusieurs éléments de batterie rechargeables ou non rechargeables, de modules de batterie ou d'assemblages-batteries, et comprend une batterie qui a fait l'objet d'une préparation en vue d'un réemploi, d'une préparation en vue d'une réaffectation, d'une réaffectation ou d'un remanufacturage. ;
 
-" Déchets inflammables " : déchets catégorisés HP3 au sens de la directive cadre déchets susvisée. Un déchet n'est pas considéré comme inflammable au sens de ce présent arrêté lorsque les mentions de danger attribuées aux constituants de ce déchet ne sont pas mentionnées au tableau 3 de l'annexe III de la directive cadre déchets susvisée.
+Composé organique volatil (COV) : tout composé organique, à l'exclusion du méthane, ainsi que la fraction de créosote, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 Kelvin ou ayant une volatilité correspondante dans des conditions d'utilisation particulières.
 
-" Petit îlot " : zone contenant des déchets combustibles ou inflammables qui remplit les conditions cumulatives suivantes :
+Déchets combustibles : déchets, qui ne sont pas qualifiés d'incombustibles.
 
--le volume de déchets contenu dans la zone est inférieur à dix m3 si elle est couverte, et à 30 m3 sinon ;
+Déchets incombustibles : déchets qui ne sont pas susceptibles de brûler. Sont qualifiés d'incombustibles des déchets constitués uniquement de matériaux classés A1 ou A2-s1-d0 au sens de l'arrêté ministériel du 21 novembre 2002 ou des déchets qualifiés comme incombustibles suite à la mise en œuvre d'essais réalisés selon un protocole reconnu par le ministère chargé de l'environnement.
+
+Déchets inflammables : déchets catégorisés HP3 au sens de la directive cadre déchets susvisée. Un déchet n'est pas considéré comme inflammable au sens de ce présent arrêté lorsque les mentions de danger attribuées aux constituants de ce déchet ne sont pas mentionnées au tableau 3 de l'annexe III de la directive cadre déchets susvisée.
+
+Entreposage extérieur : ensemble des zones non situées à l'intérieur d'un bâtiment, dans lesquelles sont présents des déchets entreposés quel que soit leur mode de stockage ou de conditionnement : en silos ou en cuves fixes, conditionnés ou en vrac, etc. Ces zones peuvent être composées d'un ou plusieurs îlots.
+
+Petit îlot : zone susceptible de contenir des déchets combustibles ou inflammables qui remplit les conditions cumulatives suivantes :
+
+-le volume de déchets contenu dans la zone est inférieur à dix m3 si elle est située dans un bâtiment ouvert ou fermé, et à 30 m3 sinon ;
 
 -les limites en longueur, largeur et hauteur de la zone sont matérialisées en permanence (benne, peinture, piquet, mur …) ;
 
 -la zone est séparée des autres zones, bâtiments, îlots, locaux, parking ou tiers par une distance d'au moins cinq mètres ou par un mur coupe-feu de caractéristiques minimales REI 120.
 
-" Produits dangereux et matières dangereuses " : substance ou mélange classé suivant les " classes et catégories de danger définies à l'annexe I, parties 2, 3 et 4 du règlement (CE) n° 1272/2008 relatif à la classification, l'étiquetage et l'emballage des substances et des mélanges " dit CLP. Ce règlement a pour objectif de classer les substances et mélanges dangereux et de communiquer sur ces dangers via l'étiquetage et les fiches de données de sécurité.
+Produits dangereux et matières dangereuses : substance ou mélange classé suivant les " classes et catégories de danger définies à l'annexe I, parties 2, 3 et 4 du règlement (CE) n° 1272/2008 relatif à la classification, l'étiquetage et l'emballage des substances et des mélanges " dit CLP. Ce règlement a pour objectif de classer les substances et mélanges dangereux et de communiquer sur ces dangers via l'étiquetage et les fiches de données de sécurité.
 
-" Emergence " : la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
+Emergence : la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
 
-" Zones à émergence réglementée " :
+Zones à émergence réglementée :
 
 - l'intérieur des immeubles habités ou occupés par des tiers, existant à la date du dépôt de dossier de déclaration, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse) à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles,
 
@@ -34,9 +42,9 @@ Au sens du présent arrêté, on entend par :
 
 - l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date du dépôt de dossier de déclaration dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles.
 
-" Zone de réception de déchets " : zone dans laquelle les déchets sont réceptionnés par l'installation en vue d'une gestion ultérieure. Ces zones sont vidées au moins quotidiennement et sont vides en dehors des heures d'exploitation de l'installation.
+Zone de réception de déchets : zone dans laquelle les déchets sont réceptionnés par l'installation en vue d'une gestion ultérieure. Les zones qui ne sont pas vidées au moins quotidiennement et qui ne sont pas vides en dehors des heures d'exploitation de l'installation ne sont pas des zones de réception de déchets, mais sont des zones susceptibles de contenir des déchets.
 
-" Zone susceptible de contenir des déchets " : à l'exception des zones d'entreposage en cuve ou en silo fixe et des zones de réception de déchets définies ci-dessus, les zones susceptibles de contenir des déchets sont :
+Zone susceptible de contenir des déchets : à l'exception des zones d'entreposage en silo ou cuve fermés et fixes et des zones de réception de déchets définies ci-dessus, les zones susceptibles de contenir des déchets sont :
 
 -les zones de dépôt de déchets conditionnés ou en vrac ;
 
@@ -348,7 +356,7 @@ Objet du contrôle :
 
 Les aires de réception, de transit, regroupement et tri des déchets sont distinctes et clairement repérées. Les zones d'entreposage sont distinguées en fonction du type de déchet, de l'opération réalisée (tri effectué ou non par exemple) et du débouché si pertinent (élimination, recyclage par exemple).
 
-En compléments du registre prévu l'article R. 541-43 du code de l'environnement, l'exploitant tient la comptabilité des stocks présents sur l'exploitation par différence à partir des bons de pesée établis. L'état des déchets stockés est mis à jour au moins de manière hebdomadaire et accessible à tout moment, y compris en cas d'incident, accident, pertes d'utilité ou tout autre événement susceptible d'affecter l'installation. Pour les déchets dangereux, cet état est mis à jour, au moins, de manière quotidienne. Un bilan annuel tenu à disposition de l'inspection des installations classées indique nominativement la liste des sites destinataires des déchets.
+En compléments du registre prévu l'article R. 541-43 du code de l'environnement, l'exploitant tient la comptabilité des stocks présents sur l'exploitation. Cette comptabilité des stocks peut être réalisée par différence à partir des bons de pesée établis en entrée et en sortie du site ou par tout autre moyen équivalent défini par l'exploitant. L'état des déchets stockés est mis à jour au moins de manière hebdomadaire et accessible à tout moment, y compris en cas d'incident, accident, pertes d'utilité ou tout autre événement susceptible d'affecter l'installation. Pour les déchets dangereux, cet état est mis à jour, au moins, de manière quotidienne. Un bilan annuel tenu à disposition de l'inspection des installations classées indique nominativement la liste des sites destinataires des déchets.
 
 La hauteur des déchets entreposés n'excède pas trois mètres si le dépôt est à moins de 100 mètres d'un bâtiment à usage d'habitation. Dans tous les cas, la hauteur n'excède pas six mètres.
 
@@ -466,7 +474,7 @@ Il comprend au minimum :
 
 -le plan d'implantation des moyens automatiques de protection contre l'incendie avec une description sommaire de leur fonctionnement opérationnel et leur attestation de conformité ;
 
--les modalités selon lesquelles les fiches de données de sécurité et l'état des matières stockées prévu à au point 3.5 de l'annexe I sont tenus à disposition du service d'incendie et de secours et de l'inspection des installations classées, et, le cas échéant, les précautions de sécurité qui sont susceptibles d'en découler ;
+-les plans de l'installation précisant l'emplacement des bâtiments, des entreposages extérieurs, des îlots et petits îlots, des zones de réception de déchets, des zones d'entreposage tampon, des zones susceptibles de contenir des déchets, des silos et cuves fermés et fixes ;
 
 -la justification des compétences du personnel susceptible, en cas d'alerte, d'intervenir avant l'arrivée des secours, notamment en matière de formation, de qualification et d'entraînement.
 

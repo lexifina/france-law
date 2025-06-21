@@ -180,7 +180,7 @@ Objet du contrôle :
 
 2.8. Stockage des déchets d'équipements électriques et électroniques
 
-Les déchets d'équipements électriques et électroniques susceptibles de contenir des batteries au lithium sont séparés des autres déchets d'équipements électriques et électroniques lors de leur réception dans l'installation. Ils sont entreposés dans des conditions garantissant l'absence d'endommagement par des opérations de manutentions.
+Les déchets d'équipements électriques et électroniques susceptibles de contenir des batteries sont séparés des autres déchets d'équipements électriques et électroniques lors de leur réception dans l'installation. Ils sont entreposés dans des conditions garantissant l'absence d'endommagement par des opérations de manutentions.
 
 Le respect de la disposition spéciale 670 de l'accord européen relatif au transport international des marchandises dangereuses par route (ADR) est réputé satisfaire à l'obligation mentionnée au premier alinéa de cet article.
 

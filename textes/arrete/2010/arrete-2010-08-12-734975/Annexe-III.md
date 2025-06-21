@@ -2,7 +2,7 @@
 
 CONDITIONS D'APPLICATION
 
-I.-Pour les installations autorisées ou enregistrées avant le 1er juillet 2021 ou dont le dossier complet de demande d'enregistrement a été déposé avant le 1er juillet 2021, Les dispositions introduites par l'arrêté du 17 juin 2021 modifiant l'arrêté du 12 août 2010 relatif aux prescriptions générales applicables aux installations classées de méthanisation relevant du régime de l'enregistrement au titre de la rubrique n° 2781 de la nomenclature des installations classées pour la protection de l'environnement, sont applicables dans les délais suivants :
+I.-Pour les installations existantes définies à l'article 1, les dispositions introduites par l'arrêté du 17 juin 2021 modifiant l'arrêté du 12 août 2010 relatif aux prescriptions générales applicables aux installations classées de méthanisation relevant du régime de l'enregistrement au titre de la rubrique n° 2781 de la nomenclature des installations classées pour la protection de l'environnement, sont applicables dans les délais suivants :
 
 Au 1er juillet 2021 |
 
@@ -68,7 +68,7 @@ Article 21 alinéa 4 phrase 1
 
 Article 22 sauf alinéa 4
 
-Article 30 point I alinéas 5 (sauf dernière phrase) et 6
+Article 30 point I alinéas 5 (sauf dernière phrase) et 6 (sauf dernière phrase)
 
 Article 30 point II alinéa 4
 
