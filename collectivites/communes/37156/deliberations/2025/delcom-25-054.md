@@ -1,0 +1,10 @@
+# COMMUNE DE MONTLOUIS SUR LOIRE : délibération DELCOM_25_054 — DELIBERATION 2025-54 FONDS DE CONCOURS A LA CCTEV CONSTRUCTION SALLE INTERCOMMUNALE
+
+- Collectivité : COMMUNE DE MONTLOUIS SUR LOIRE
+- SIREN : 213701568
+- Code INSEE : 37156
+- Date : 2025-06-23
+- Matière : 7.8 Finances locales/Fonds de concours
+- Objet : DELIBERATION 2025-54 FONDS DE CONCOURS A LA CCTEV CONSTRUCTION SALLE INTERCOMMUNALE
+- Acte publié : https://publication-actes.fr/OpenData/213701568/Deliberation/2025/56384/5d0054769a4d57edaba520eb5be4d1fea5af4afc6731f6f542f3b4a84ef633a6.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6613f3093bc928f205e87a83
