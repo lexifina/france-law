@@ -1,0 +1,10 @@
+# COMMUNE DE SAINT YVI : délibération CCAS_DEL_25_15 — CCAS DELIBERATION 2025-15 - POINTS DIVERS
+
+- Collectivité : COMMUNE DE SAINT YVI
+- SIRET : 21290272000011
+- Code INSEE : 29272
+- Date : 2025-06-23
+- Matière : 8.2 Domaines de competences par themes/Aide sociale
+- Objet : CCAS DELIBERATION 2025-15 - POINTS DIVERS
+- Transmis à la préfecture : 2025-06-23
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
