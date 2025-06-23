@@ -12,13 +12,13 @@ Tout rapport de sécurité établi par un OQA respecte le plan ci-après ; les d
 
 1.2.2 Liste des personnes ayant participé à l'évaluation et description de leur rôle.
 
-1.2.3 Attestation signée de chacune des personnes ayant participé à la mission d'évaluation de leur non-participation à la conception ou à la réalisation du système sur lequel porte l'évaluation au cours des cinq dernières années.
+1.2.3 Attestation signée de chacune des personnes ayant participé à la mission d'évaluation de leur non-participation à la conception, à la réalisation ou à l'exploitation du système sur lequel porte l'évaluation au cours des cinq dernières années.
 
 2. Champ de l'évaluation de l'OQA.
 
 2.1. Identification de la phase (conception du projet, réalisation du projet, évaluation d'un système de transport en service).
 
-2.2. Identification de la partie concernée du projet ou du système de transport réalisé (projet ou système de transport dans son ensemble, innovation, sous-système, interface).
+2.2. Identification de la partie concernée du projet ou du système de transport réalisé (projet ou système de transport dans son ensemble, évolution technologique, sous-système, interface).
 
 2.3. Description de la nature de l'intervention de l'OQA, de son champ et de ses modalités techniques :
 
@@ -34,7 +34,7 @@ Tout rapport de sécurité établi par un OQA respecte le plan ci-après ; les d
 
 3.2. Evaluation des risques.
 
-3.3. Evaluation de la conception du projet au regard des objectifs de sécurité portant sur l'ensemble du projet ou sur une innovation ou sur un sous-système ou sur une interface.
+3.3. Evaluation de la conception du projet au regard des objectifs de sécurité portant sur l'ensemble du projet ou sur une évolution technologique ou sur un sous-système ou sur une interface.
 
 3.3.1. Evaluation de la validité et exhaustivité du référentiel proposé par le demandeur et visé au 7 de l'annexe 2 du présent arrêté.
 
@@ -54,7 +54,7 @@ Tout rapport de sécurité établi par un OQA respecte le plan ci-après ; les d
 
 4.1. Avis final sur la conception définitive.
 
-4.2. Attestation de conformité du système de transport réalisé ou d'une innovation ou d'un sous-système, par rapport au dossier préliminaire de sécurité ou au dossier de conception de la sécurité, le cas échéant, complété par les prescriptions énoncées dans la décision d'approbation dudit dossier.
+4.2. Attestation de conformité du système de transport réalisé ou d'une évolution technologique ou d'un sous-système, par rapport au dossier préliminaire de sécurité ou au dossier de conception de la sécurité, le cas échéant, complété par les prescriptions énoncées dans la décision d'approbation dudit dossier.
 
 4.3. Evaluation des règles d'exploitation et de maintenance au regard des objectifs de sécurité et de leur maintien dans le temps.
 
@@ -66,7 +66,7 @@ Tout rapport de sécurité établi par un OQA respecte le plan ci-après ; les d
 
 4.5.2. Déroulement et résultats du programme des tests et essais.
 
-4.6. Evaluation du système de transport réalisé au regard des objectifs de sécurité portant sur l'ensemble du système ou sur une innovation ou sur un sous-système ou sur une interface-Avis final de l'OQA sur la phase de réalisation.
+4.6. Evaluation du système de transport réalisé au regard des objectifs de sécurité portant sur l'ensemble du système ou sur une évolution technologique ou sur un sous-système ou sur une interface-Avis final de l'OQA sur la phase de réalisation.
 
 5. Conclusions de l'OQA lorsque son intervention porte sur un système de transport en service en application de l'article 105 du décret n° n° 2017-440 du 30 mars 2017.
 
@@ -128,7 +128,7 @@ X |
 
 |
 
-|
+X |
 
 |
 

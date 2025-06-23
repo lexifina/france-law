@@ -22,7 +22,7 @@
 
 2.6. Conditions d'exploitation envisagées (fréquence, parc et capacité des rames, vitesse commerciale).
 
-2.7. Mention des innovations.
+2.7. Mention des évolutions technologiques.
 
 2.8. Notice descriptive sur les singularités.
 

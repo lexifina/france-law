@@ -1,0 +1,25 @@
+# Article Annexe 9
+
+1. Intitulés et descriptions des tests ou des essais.
+
+2. Lieux concernés et présentation des différents intervenants et de leurs rôles respectifs, y compris l'autorité organisatrice de transport, le ou les exploitants, et le cas échéant, le gestionnaire d'infrastructure et le chef de file.
+
+3. Dates ou périodes programmées.
+
+4. Identification et description technique et fonctionnelle de l'innovation concernée.
+
+5. Identification des risques pour les tiers et le cas échéant les usagers du système.
+
+6. Description et justification des précautions prises pour couvrir les risques identifiés.
+
+7. Présentation de l'organisation des essais.
+
+8. Conditions de gestion des situations d'urgence.
+
+9. Avis du ou des exploitants (s'il n'est pas le pétitionnaire).
+
+10. Avis de l'AOT (si elle n'est pas le pétitionnaire).
+
+11. Evaluation, par l'OQA, des précautions prises.
+
+12. Nom, qualité et signature du pétitionnaire.

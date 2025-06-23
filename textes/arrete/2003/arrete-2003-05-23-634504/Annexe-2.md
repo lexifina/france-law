@@ -18,17 +18,15 @@
 
 2.3. Document descriptif des ouvrages d'art, existants, à créer ou devant subir des travaux.
 
-2.4. Document descriptif du matériel roulant y compris des véhicules de service.
+2.4. Document descriptif des véhicules.
 
 2.5. Document descriptif sur les installations techniques et de sécurité (systèmes d'aide à l'exploitation, signalisation en partie courante et aux points d'intersection avec la voirie routière, installations électriques de traction, de commande, de contrôle et de communication).
 
-2.6. Document descriptif des innovations.
+2.6. Document descriptif des évolutions technologiques.
 
 2.7. Document descriptif des conditions de circulation, de partage de la voirie et de fonctionnement des carrefours.
 
 2.8. Document descriptif des autres conditions d'exploitation envisagées.
-
-2.9. Principes de maintenance du véhicule.
 
 3. Risques naturels et technologiques.
 
@@ -40,15 +38,15 @@
 
 4.1. Identification du ou des système (s) de transport servant de référence, le cas échéant pour démontrer que le projet satisfera à ses objectifs de sécurité et justification du choix.
 
-4.2. Présentation qualitative ou quantitative des objectifs de sécurité retenus pour le projet dans son ensemble ainsi que pour les innovations, les sous-systèmes et les interfaces.
+4.2. Présentation qualitative ou quantitative des objectifs de sécurité retenus pour le projet dans son ensemble ainsi que pour les évolutions technologiques, les sous-systèmes et les interfaces.
 
 4.3. Analyse des risques selon la norme européenne EN 50126-1 ou selon toute autre méthode reconnue.
 
-4.3.1. Démonstration, après analyse du projet dans son ensemble, des innovations, des sous-systèmes et des interfaces, que l'ensemble des évènements redoutés ont été identifiés ainsi que leurs causes et que les principes appropriés ont été prévus pour prévenir ces évènements et en limiter les conséquences.
+4.3.1. Démonstration, après analyse du projet dans son ensemble, des évolutions technologiques, des sous-systèmes et des interfaces, que l'ensemble des évènements redoutés ont été identifiés ainsi que leurs causes et que les principes appropriés ont été prévus pour prévenir ces évènements et en limiter les conséquences.
 
-4.3.2. Identification des éléments de sécurité des innovations dès lors qu'elles affectent significativement les travaux de voirie ou de génie civil.
+4.3.2. Identification des éléments de sécurité des évolutions technologiques dès lors qu'elles affectent significativement les travaux de voirie ou de génie civil.
 
-4.3.3. Dans le cas particulier où le système de transport en projet est soumis aux dispositions du décret relatif à la mise sur le marché des constituants et sous-systèmes assurant la sécurité des remontées mécaniques susvisé, identification des sous-systèmes relevant de la classification prévue à l'annexe I de ce texte.
+4.3.3. Dans le cas particulier où le système de transport en projet est soumis aux dispositions du règlement (UE) 2016/424 susmentionné, identification des sous-systèmes relevant de la classification prévue à l'annexe I de ce texte.
 
 4.4. Dans le cas d'une modification substantielle sur un système de transport en exploitation, dispositions prises et leur justification pour permettre la poursuite de l'exploitation conformément aux objectifs de sécurité pendant la durée des travaux.
 
@@ -56,7 +54,7 @@
 
 4.4.2 Présentation de l'identification des risques créés par les travaux de modification envisagés sur le système déjà exploité, ainsi que le processus de maîtrise des risques associés.
 
-4.5 Modalités de mise en service anticipée (le cas échéant).
+4.5 Modalités de mise en service anticipée et provisoire (le cas échéant).
 
 4.5.1 Justification du recours à la mise en service anticipée.
 
@@ -76,7 +74,7 @@
 
 5.6. Intervention des OQA.
 
-5.6.1. Répartition des OQA intervenant lors des phases de conception et de réalisation du projet, pour évaluer sous angle de la sécurité, en tenant compte des risques naturels et technologiques, l'ensemble du projet dans son environnement futur, les innovations, les sous-systèmes et les interfaces.
+5.6.1. Répartition des OQA intervenant lors des phases de conception et de réalisation du projet, pour évaluer sous angle de la sécurité, en tenant compte des risques naturels et technologiques, l'ensemble du projet dans son environnement futur, les évolutions technologiques, les sous-systèmes et les interfaces.
 
 5.6.2. Liste des OQA.
 
@@ -92,11 +90,11 @@
 
 7.1. Référentiels législatif et réglementaire.
 
-7.2. Liste des normes techniques en matière de sécurité et de qualité prises en compte pour la conception du projet.
+7.2. Liste des normes techniques en matière de sécurité et de qualité prises en compte pour la conception et la réalisation du projet.
 
-7.3. Liste prévisionnelle des normes techniques en matière de sécurité et de qualité prises en compte pour la réalisation du projet.
+7.3. Dérogations demandées à la réglementation applicable ainsi que leurs justificatifs.
 
-7.4. Dérogations demandées à la réglementation applicable ainsi que leurs justificatifs.
+7.4. Ecarts aux référentiels techniques de sécurité.
 
 8. Tests et essais.
 

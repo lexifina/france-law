@@ -1,6 +1,6 @@
 # Article Annexe 3
 
-Partie I.-Cas d'une demande concernant la mise en service d'un véhicule nouveau ou substantiellement modifié
+Partie I.-Cas d'une demande concernant la mise en service de tout véhicule
 
 0. Suivi des prescriptions éventuelles émises au stade du DCS ou stade DS dans le cas d'un dossier de récolement.
 
@@ -26,7 +26,7 @@ Partie I.-Cas d'une demande concernant la mise en service d'un véhicule nouveau
 
 2.4 Dispositions prévues pour la gestion des interfaces.
 
-2.5 Documents descriptifs des innovations.
+2.5 Documents descriptifs des évolutions technologiques.
 
 2.6. Document descriptif sur les conditions d'exploitation, y compris en situations particulières ou dégradées.
 
@@ -36,7 +36,9 @@ Partie I.-Cas d'une demande concernant la mise en service d'un véhicule nouveau
 
 3.1. Description des risques naturels et technologiques pouvant affecter la sécurité du véhicule ou que le véhicule peut aggraver, induire ou comporter.
 
-3.2. Dispositions prévues pour la prise en compte des risques identifiés.
+3.2. Liste des documents et des avis pris en compte sur les risques naturels et technologiques pouvant affecter la sécurité du véhicule ou que le véhicule peut aggraver, induire ou comporter.
+
+3.3. Dispositions prévues pour la prise en compte des risques identifiés.
 
 4. Sécurité du projet.
 
@@ -64,9 +66,15 @@ Partie I.-Cas d'une demande concernant la mise en service d'un véhicule nouveau
 
 5.2. Responsabilités des intervenants avec les modalités de coordination et de contrôle.
 
-5.3. Intervention des OQA (notamment les plans d'évaluation).
+5.3. Intervention des OQA.
 
-6. Dispositions prévues destinées à assurer la sécurité des personnes à mobilité réduite.
+5.3.1. Liste des OQA.
+
+5.3.2. Démonstration des critères d'indépendance des OQA fixés à l'article 16 du décret n° 2017-440 du 30 mars 2017 susmentionné.
+
+5.3.3. Plan d'évaluation des OQA.
+
+6. Description des dispositions prises destinées à assurer la sécurité des personnes à mobilité réduite.
 
 7. Référentiels.
 
@@ -88,7 +96,7 @@ Partie I.-Cas d'une demande concernant la mise en service d'un véhicule nouveau
 
 9. Fourniture des rapports de sécurité des OQA.
 
-9.1. Fourniture du rapport de sécurité des OQA comportant notamment les conclusions mentionnées au 4 de l'annexe 6 du présent arrêté portant sur le système de transport réalisé, les innovations, les sous-systèmes et les interfaces.
+9.1. Fourniture du rapport de sécurité des OQA comportant notamment les conclusions mentionnées au 4 de l'annexe 6 du présent arrêté portant sur le système de transport réalisé, les évolutions technologiques, les sous-systèmes et les interfaces.
 
 Dans le cas d'un dossier de récolement, fourniture du rapport des OQA consolidé.
 
@@ -114,11 +122,11 @@ Partie II.-Cas des systèmes de transport en attente de leur première mise en e
 
 2.3. Documents descriptifs des ouvrages d'art.
 
-2.4. Documents descriptifs du matériel roulant, y compris les véhicules de service.
+2.4. Documents descriptifs des véhicules.
 
 2.5. Documents descriptifs des installations techniques et de sécurité (systèmes d'aide à l'exploitation, signalisation en partie courante et aux points d'intersection avec la voirie routière, installations électriques de traction, de commande, de contrôle et de communication).
 
-2.6. Documents descriptifs des innovations.
+2.6. Documents descriptifs des évolutions technologiques.
 
 2.7. Documents descriptifs des éléments de sécurité.
 
@@ -146,7 +154,7 @@ Partie II.-Cas des systèmes de transport en attente de leur première mise en e
 
 4.3.2. Identification de tous les éléments de sécurité du système de transport.
 
-4.3.3. Dans le cas particulier où le système de transport est soumis aux dispositions du décret relatif à la mise sur le marché des constituants et sous-systèmes assurant la sécurité des remontées mécaniques susvisé, rappel des sous-systèmes identifiés comme relevant de la classification prévue à l'annexe I de ce texte.
+4.3.3. Dans le cas particulier où le système de transport est soumis aux dispositions du règlement (UE) 2016/424 susmentionné, rappel des sous-systèmes identifiés comme relevant de la classification prévue à l'annexe I de ce texte.
 
 4.3.4. Identification et fourniture des dispositions d'exploitation et de maintenance destinées à assurer la satisfaction des objectifs de sécurité et leur maintien dans le temps.
 
@@ -156,7 +164,7 @@ Partie II.-Cas des systèmes de transport en attente de leur première mise en e
 
 5.2. Identification et attribution des entrepreneurs, ensembliers et fournisseurs des principaux sous-ensembles.
 
-5.3. Identification et attribution de l'exploitant ou, le cas échéant, des exploitants et du chef de file.
+5.3. Identification et attribution de l'exploitant ou, le cas échéant, des exploitants, du gestionnaire d'infrastructure et du chef de file.
 
 5.4. Intervention des OQA :
 
@@ -174,11 +182,11 @@ Partie II.-Cas des systèmes de transport en attente de leur première mise en e
 
 7.1. Référentiels législatif et réglementaire.
 
-7.2. Liste des normes techniques en matière de sécurité et de qualité prises en compte pour la conception du projet.
+7.2. Liste des normes techniques en matière de sécurité et de qualité prises en compte pour la réalisation du projet.
 
-7.3. Liste des normes techniques en matière de sécurité et de qualité prises en compte pour la réalisation du projet.
+7.3. Dérogations obtenues à la réglementation applicable.
 
-7.4. Dérogations obtenues à la réglementation applicable.
+7.4. Ecarts aux référentiels techniques de sécurité.
 
 8. Tests et essais.
 
@@ -186,11 +194,11 @@ Partie II.-Cas des systèmes de transport en attente de leur première mise en e
 
 9. Fourniture du rapport de sécurité des OQA et, le cas échéant, des organismes notifiés.
 
-9.1. Fourniture du rapport de sécurité des OQA comportant notamment les conclusions mentionnées au 4 de l'annexe 6 du présent arrêté portant sur le système de transport réalisé, les innovations, les sous-systèmes et les interfaces.
+9.1. Fourniture du rapport de sécurité des OQA comportant notamment les conclusions mentionnées au 4 de l'annexe 6 du présent arrêté portant sur le système de transport réalisé, les évolutions technologiques, les sous-systèmes et les interfaces.
 
 Dans le cas d'un dossier de récolement, fourniture du rapport des OQA consolidé.
 
-9.2. Dans le cas particulier où le système de transport est soumis aux dispositions du décret relatif à la mise sur le marché des constituants et sous-systèmes assurant la sécurité des remontées mécaniques susvisé, fourniture des attestations de conformité prévues par ce texte.
+9.2. Dans le cas particulier où le système de transport est soumis aux dispositions du règlement (UE) 2016/424 susmentionné, fourniture des déclarations UE de conformité prévues par ce texte.
 
 10. Fourniture des pièces nécessaires aux services de secours.
 
@@ -198,7 +206,7 @@ Partie III.-Cas des systèmes de transport en service à la date du 1er avril 20
 
 1. Renseignements généraux.
 
-1.1. Identification de l'autorité organisatrice et de l'exploitant ou, le cas échéant, des exploitants et du chef de file.
+1.1. Identification et attribution de l'autorité organisatrice et de l'exploitant ou, le cas échéant, des exploitants, du gestionnaire d'infrastructure et du chef de file.
 
 1.2. Description synthétique du système de transport ou de la ligne.
 
@@ -210,13 +218,13 @@ Partie III.-Cas des systèmes de transport en service à la date du 1er avril 20
 
 2.3. Description synthétique des ouvrages d'art.
 
-2.4. Description synthétique du matériel roulant, y compris les véhicules de service.
+2.4. Description synthétique des véhicules.
 
 2.5. Description synthétique des installations techniques et de sécurité (systèmes d'aide à l'exploitation, signalisation en partie courante et aux points d'intersection avec la voirie routière, installations électriques de traction, de commande, de contrôle et de communication).
 
 2.6. Réservé.
 
-2.7. Dans le cas particulier où le système de transport ou une de ses parties constitutives est soumis aux dispositions du décret du 9 mai 2003 susvisé relatif à la mise sur le marché des constituants et sous-systèmes assurant la sécurité des remontées mécaniques, identification des constituants et des sous-systèmes relevant de la classification prévue à l'annexe I de ce décret.
+2.7. Dans le cas particulier où le système de transport ou une de ses parties constitutives est soumis aux dispositions du règlement (UE) 2016/424 susmentionné, identification des composants et des sous-systèmes relevant de la classification prévue à l'annexe I de ce décret.
 
 2.8. Nomenclature détaillée de la documentation technique et de sécurité.
 
@@ -312,7 +320,7 @@ Les événements et enseignements visés aux 8.1 à 8.4 couvrent a minima la pé
 
 9.1. Fourniture du rapport de sécurité des OQA comportant les conclusions mentionnées au 5 de l'annexe 6 du présent arrêté.
 
-9.2. Dans le cas particulier où le système de transport ou une de ses parties constitutives est soumise aux dispositions du décret susvisé relatif à la mise sur le marché des constituants et sous-systèmes assurant la sécurité des remontées mécaniques, fourniture des attestations de conformité prévues par ce texte.
+9.2. Dans le cas particulier où le système de transport ou une de ses parties constitutives est soumise aux dispositions du règlement (UE) 2016/424 susmentionné, fourniture des déclarations UE de conformité prévues par ce texte.
 
 10. Fourniture des pièces nécessaires aux services de secours.
 

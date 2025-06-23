@@ -22,7 +22,7 @@
 
 2.4 Dispositions prévues pour la gestion des interfaces.
 
-2.5 Documents descriptifs des innovations.
+2.5 Documents descriptifs des évolutions technologiques.
 
 2.6. Document descriptif sur les conditions d'exploitation envisagées, y compris en situations particulières ou dégradées.
 
@@ -54,11 +54,17 @@
 
 5.2. Responsabilités des intervenants avec les modalités de coordination et de contrôle.
 
-5.3. Intervention des OQA (notamment les plans d'évaluation).
+5.3. Intervention des OQA.
 
-6. Dispositions prévues destinées à assurer la sécurité des personnes à mobilité réduite.
+5.3.1. Liste des OQA.
 
-7. Référentiels.
+5.3.2. Démonstration des critères d'indépendance des OQA fixés à l'article 16 du décret n° 2017-440 du 30 mars 2017 susmentionné.
+
+5.3.3. Plan d'évaluation des OQA.
+
+6. Description des dispositions prévues destinées à assurer la sécurité des personnes à mobilité réduite.
+
+7. Référentiels concernés par la modification.
 
 7.1. Référentiels législatif et réglementaire.
 
