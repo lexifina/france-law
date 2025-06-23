@@ -1,0 +1,3 @@
+# Article 1 bis
+
+Toute personne souhaitant obtenir la délivrance d'un agrément au titre de l'article 8 ou de l'article 11 du décret n° 2017-440 du 30 mars 2017 relatif à la sécurité des transports publics guidés adresse au directeur du service technique des remontées mécaniques et des transports guidés, ci-après dénommé " STRMTG ", un dossier rédigé en français composé dans les conditions prévues à l'article 2 soit sous forme électronique à l'adresse suivante : agrement. rmtg @ developpement-durable. gouv. fr, soit sous pli recommandé avec accusé de réception à l'adresse suivante : 1461, rue de la Piscine, 38400 Saint-Martin-d'Hères.
