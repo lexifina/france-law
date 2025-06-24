@@ -1,0 +1,9 @@
+# Réponse à la question n° 6854
+
+- Question : [6854](6854.md) — Question n° 6854 — Accès des députés aux informations locales en matière de sécurité publique
+
+## Réponse
+
+*JO du 2025-06-24, page 5521*
+
+Le service statistique du ministère de l'intérieur publie un très grand nombre de données territorialisées librement accessibles, ainsi qu'un atlas faisant le bilan annuel par département des principales données en matière de crimes et délits. En outre, une application en ligne et accessible à tous permet de visualiser les principaux indicateurs des crimes et délits enregistrés par la police et la gendarmerie nationales, depuis 2016 : l'une à l'échelle communale et l'autre à l'échelle départementale. Par ailleurs, et s'il n'existe pas de cadre formalisé définissant les modalités de communication entre préfets et parlementaires, les préfets savent qu'il fait partie de leur mission d'entretenir un dialogue fluide et efficace avec les parlementaires et tous les élus locaux, ces derniers étant fondés à disposer d'informations relatives à la sécurité de leur territoire. Les préfets doivent donc veiller à assurer une bonne information des parlementaires en matière de sécurité et de les tenir informés des événements particulièrement significatifs intervenant sur le territoire. Dans ce cadre, le préfet dispose de toute latitude pour définir la nature et la fréquence des informations et données à transmettre aux élus soit de son initiative soit sur sollicitation, en respectant les dispositions législatives et réglementaires applicables ainsi que les impératifs de confidentialité que les opérations d'ordre public et de sécurité peuvent exiger. Par ailleurs, s'agissant des faits divers et autres événements donnant lieu à une enquête, toute communication relève de la responsabilité du procureur de la République.
