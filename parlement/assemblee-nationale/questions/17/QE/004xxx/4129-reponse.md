@@ -1,0 +1,9 @@
+# Réponse à la question n° 4129
+
+- Question : [4129](4129.md) — Question n° 4129 — Déficit d'ingénierie territoriale des collectivités
+
+## Réponse
+
+*JO du 2025-06-24, page 5547*
+
+Le Fonds d'accélération de la transition écologique dans les territoires, dit « Fonds vert », a pour objectif d'accompagner l'investissement des collectivités territoriales dans la mise en œuvre de projets à forte valeur environnementale. En 2025, il reste structuré autour de trois axes et soutient le déploiement d'actions concrètes dans l'ensemble des territoires. L'appui en ingénierie constitue également un champ d'intervention essentiel du Fonds vert, en permettant aux collectivités de s'appuyer sur les expertises utiles pour concevoir et mener à bien leurs projets. Ce dispositif s'adresse à l'ensemble des territoires, en tenant compte de leurs spécificités locales et en les aidant à s'adapter au changement climatique. Afin de faciliter l'accessibilité à ce fonds, une page dédiée est disponible sur le portail Aides Territoires (https://aides-territoires.beta.gouv.fr/programmes/fonds-vert/), et un cahier d'accompagnement est mis à disposition des préfets et des collectivités. En matière d'ingénierie, les financements du Fonds vert restent complémentaires de ceux apportés par d'autres dispositifs de l'État en faveur de la transition écologique, mis en œuvre notamment par l'Agence nationale de la cohésion des territoires (ANCT) et les différents opérateurs de l'État tels que le CEREMA, l'ADEME et les agences de l'eau, coordonnés au sein de la Mission adaptation. Enfin, le Plan France Ruralités vient renforcer l'accompagnement de l'État dans les territoires ruraux. À travers le programme Villages d'Avenir, ce sont 120 chefs de projets qui accompagnent les collectivités rurales concernées et contribuent à faire connaître les outils disponibles pour réussir leur transition écologique.
