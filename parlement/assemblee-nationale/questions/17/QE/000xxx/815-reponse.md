@@ -1,0 +1,9 @@
+# Réponse à la question n° 815
+
+- Question : [815](815.md) — Question n° 815 — Défense extérieure contre l'incendie : responsabilités et moyens
+
+## Réponse
+
+*JO du 2025-06-24, page 5507*
+
+Avant la réforme de la défense extérieure contre l'incendie (DECI) portée par la loi n° 2011-525 du 17 mai 2011 et la parution du décret n° 2015-235 du 27 février 2015, la circulaire interministérielle n° 465 du 10 décembre 1951 constituait la seule référence en la matière. Abrogée par l'arrêté du 15 décembre 2015 fixant le référentiel national du règlement départemental DECI (RDDECI), elle prévoyait la présence d'un point d'eau incendie à moins de 200 mètres de toute construction, voire 400 mètres dans des cas particuliers. Aussi, les constructions antérieures à la date d'entrée en vigueur du RDDECI sont concernées par une couverture en matière de défense extérieure contre l'incendie. L'article R. 2225-3 du code général des collectivités territoriales (CGCT) dispose désormais qu'un RDDECI fixe pour chaque département les règles, dispositifs et procédures de défense extérieure contre l'incendie et qu'il caractérise les différents risques présentés par l'incendie, en particulier des différents types de bâtiment, d'habitat, ou d'urbanisme. Elaboré par le service départemental d'incendie et de secours en application des dispositions de l'article L. 1424-2 du CGCT, ce RDDECI, pris par arrêté préfectoral, est établi en concertation avec les maires et l'ensemble des acteurs concourant à la défense extérieure contre l'incendie. C'est ce document qui permet de prendre en compte, localement ou à l'échelle du département, les risques particuliers, les systèmes de protection spécifiques, les règles dérogatoires ou les procédures d'agrément évoqués. Sur sollicitation du préfet, le RDDECI peut donc être modifié et révisé en vue de prendre en compte l'ensemble de ces problématiques.
