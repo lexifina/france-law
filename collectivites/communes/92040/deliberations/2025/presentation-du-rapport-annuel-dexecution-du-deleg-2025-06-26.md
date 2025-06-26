@@ -1,0 +1,13 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d’exécution du délégataire du service municipal de la restauration scolaire SCOLAREST sur l’exercice 2024.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-06-26
+- Matière : EDUCATION
+- Objet : Présentation du rapport annuel d’exécution du délégataire du service municipal de la restauration scolaire SCOLAREST sur l’exercice 2024.
+- Transmis à la préfecture : 2025-07-03
+- Votants : 45
+- Pour : Prise d'acte
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc3MzQsInB1ciI6ImJsb2JfaWQifX0=--840b36d86ccfa1a1f58d47cc4531137cb6e3bd0f/24%20-%20EDUC%20-%20Restauration%20scolaire%20Rapport%202024%20Scolarest%20(1).pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
