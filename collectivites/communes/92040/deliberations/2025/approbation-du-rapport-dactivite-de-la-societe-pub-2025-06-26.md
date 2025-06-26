@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du rapport d’activité de la Société Publique Locale Seine Ouest Aménagement. Exercice 2024
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-06-26
+- Matière : URBANISME
+- Objet : Approbation du rapport d’activité de la Société Publique Locale Seine Ouest Aménagement. Exercice 2024
+- Transmis à la préfecture : 2025-07-03
+- Votants : 35
+- Pour : 29
+- Contre : 3
+- Abstentions : 3
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc4ODMsInB1ciI6ImJsb2JfaWQifX0=--1df4d2234b1ef01e52f93711700ad9772511f741/8%20-%20URBA%20-%20RAPPORT%20SPL%20SOA%202024.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
