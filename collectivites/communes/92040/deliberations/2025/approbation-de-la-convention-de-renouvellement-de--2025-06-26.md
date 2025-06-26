@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la convention de renouvellement de l’appellation « Ville en poésie » entre l’association « Le Printemps des poètes », le CLAVIM et la Ville.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-06-26
+- Matière : JEUNESSE ET FAMILLE
+- Objet : Approbation de la convention de renouvellement de l’appellation « Ville en poésie » entre l’association « Le Printemps des poètes », le CLAVIM et la Ville.
+- Transmis à la préfecture : 2025-07-03
+- Votants : 45
+- Pour : 42
+- Contre : 3
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc3NTAsInB1ciI6ImJsb2JfaWQifX0=--11da5411a519261edf570eab0e40c7d7f66e4170/27%20-%20JEUN%20-%20DCM%20Renouvellement%20label%20Ville%20en%20Po%C3%A9sie.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
