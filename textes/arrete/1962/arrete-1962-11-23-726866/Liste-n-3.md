@@ -588,6 +588,20 @@ L'activité des aérodynes ultralégers motorisés et des hélicoptères est aut
 
 |
 
+La Tranche-sur-Mer |
+
+Vendée |
+
+Cet aérodrome est réservé aux aéronefs qui remplissent les conditions cumulatives suivantes :
+
+1. Opérant en vol à vue de jour ;
+
+2. Dont la masse maximale au décollage est de 2,3 tonnes ;
+
+3. Qui sont basés sur l'aérodrome.
+
+Les aéronefs ne répondant pas au point 3 pourront bénéficier d'une autorisation exceptionnelle d'utilisation délivrée sur la base d'un protocole établi entre le gestionnaire de l'aérodrome et la DSAC Ouest, à la condition que le pilote justifie d'un nombre total d'heures de vol supérieur ou égal à 200 h. |
+
 Le Mazet-de-Romanin |
 
 Bouches-du-Rhône |
