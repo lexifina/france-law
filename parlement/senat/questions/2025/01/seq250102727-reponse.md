@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250102727
+
+- Question : [SEQ250102727](seq250102727.md) — Offre de soins en chirurgie pédiatrique d'otorhinolaryngologie
+
+## Réponse
+
+*Santé et accès aux soins, JO du 2025-06-26, page 3680*
+
+La chirurgie pédiatrique fait l'objet d'une autorisation spécifique délivrée par les Agences régionales de santé (ARS) aux établissements de santé depuis l'entrée en vigueur fin 2023 des nouveaux schémas régionaux de santé. Ces autorisations sont délivrées, jusqu'en 2026, à l'aune de nouvelles conditions d'implantation et de conditions techniques de fonctionnement visant à sécuriser davantage les prises en charge pédiatriques dans tous les établissements publics et privés. Le ministère de la santé et les ARS veillent à la bonne couverture du territoire en termes de prise en charge chirurgicale des enfants afin de garantir l'accès aux soins de tous les jeunes patients le nécessitant. Au-delà du nouveau régime d'autorisation, la Société française d'anesthésie-réanimation (SFAR) a publié en avril 2023 de nouvelles Recommandations pour la pratique professionnelle (RPP) « organisation structurelle, matérielle et fonctionnelle des centres effectuant de l'anesthésie pédiatrique ». Ces recommandations ont fait l'objet d'un moratoire jusqu'en décembre 2024 pour permettre aux établissements de se mettre en conformité. En parallèle, la SFAR a mis en place une plateforme d'accompagnement « AVIPEDIA » afin d'appuyer les directions d'établissements et les équipes médicales dans les changements organisationnels qu'elle recommande. Le ministère chargé de la santé continue d'entretenir un dialogue régulier avec la SFAR, les conseils nationaux professionnels et les fédérations pour veiller à la bonne réponse au besoin de chirurgie pédiatrique dans l'ensemble des territoires.
