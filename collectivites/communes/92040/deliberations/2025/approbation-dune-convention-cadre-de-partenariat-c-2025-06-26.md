@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention-cadre de partenariat culturel et scientifique avec l’Institut national de recherches archéologiques préventives (Inrap).
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-06-26
+- Matière : JEUNESSE ET FAMILLE
+- Objet : Approbation d’une convention-cadre de partenariat culturel et scientifique avec l’Institut national de recherches archéologiques préventives (Inrap).
+- Transmis à la préfecture : 2025-07-03
+- Votants : 45
+- Pour : 45
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc3NTIsInB1ciI6ImJsb2JfaWQifX0=--32c096db2bb6d3fe9174807ff6b83a7f1f450c76/28%20-%20JEUN%20FAM%20-%20DCM%20Convention%20cadre%20avec%20INRAP.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
