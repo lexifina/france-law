@@ -1,0 +1,14 @@
+# Ville d'Issy-les-Moulineaux : délibération — Communication du rapport d’observations définitives de la Chambre régionale des comptes d’Ile-de-France sur les exercices 2019 et suivants.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-06-26
+- Matière : ADMINISTRATION GENERALE
+- Objet : Communication du rapport d’observations définitives de la Chambre régionale des comptes d’Ile-de-France sur les exercices 2019 et suivants.
+- Transmis à la préfecture : 2025-07-03
+- Votants : 45
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc3MTQsInB1ciI6ImJsb2JfaWQifX0=--37eec1ce24baf2096cff5ccee73058dadb1a7a4e/1%20-%20ADM%20-%20pr%C3%A9sentation%20du%20rapport%20d'observations%20d%C3%A9finitives%20de%20la%20CRC.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
