@@ -1,0 +1,15 @@
+# Ville d'Issy-les-Moulineaux : délibération — Participation financière de la commune aux frais de scolarité intercommunaux.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2025-06-26
+- Matière : EDUCATION
+- Objet : Participation financière de la commune aux frais de scolarité intercommunaux.
+- Transmis à la préfecture : 2025-07-03
+- Votants : 45
+- Pour : 45
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc3MzYsInB1ciI6ImJsb2JfaWQifX0=--f1c6bf1aa7ee0e79941444059b5bf5636528bd68/26%20-%20EDUC%20-%20Participation%20financi%C3%A8re%20de%20la%20commune%20aux%20frais%20de%20scolarit%C3%A9%20intercommunaux_.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
