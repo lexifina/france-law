@@ -10,27 +10,31 @@ Il y a deux catégories de candidats : opérateur et responsable protection anim
 
 Catégories d'animaux
 
-Les huit catégories d'animaux sont classées en deux groupes :
+Les dix catégories d'animaux sont classées en deux groupes :
 
 Les catégories majeures d'animaux :
 
-1. Bovins, équidés.
+1. Bovins.
 
-2. Ovins, caprins.
+2. Equidés.
 
-3. Porcins.
+3. Ovins.
 
-4. Volailles.
+4. Caprins.
 
-5. Lagomorphes, rongeurs.
+5. Porcins.
 
-6. Animaux à fourrure.
+6. Volailles.
+
+7. Lagomorphes, rongeurs.
+
+8. Animaux à fourrure.
 
 Les catégories mineures d'animaux :
 
-7. Ratites.
+1. Ratites.
 
-8. Cervidés, bisons.
+2. Cervidés, bisons.
 
 Catégories d'opérations
 
@@ -78,19 +82,21 @@ CATÉGORIES D'ANIMAUX |
 
 NOMBRE DE MODULES
 
-opération-animaux demandés |
+par opération-animaux demandés |
 
-NOMBRE STANDARD DE QUESTIONS
+NOMBRE STANDARD
+
+DE QUESTIONS
 
 par candidat opérateur |
 
 NOMBRE STANDARD
 
-de questions
+DE QUESTIONS
 
 par candidat RPA |
 
-Nos 1,2,3,4,5,7,8 |
+N os 1,2,3,4,5,6,7,9,10 |
 
 1 |
 
@@ -110,7 +116,7 @@ Sans objet |
 
 55, dont 15 portant sur des thèmes spécifiques RPA |
 
-N° 6 Animaux à fourrure |
+N° 8 Animaux à fourrure |
 
 1 |
 
@@ -118,13 +124,153 @@ N° 6 Animaux à fourrure |
 
 Sans objet |
 
-Tableau n° 2 : modules d'évaluation pour les catégories d'animaux 1, 2, 3, 4, 5, 7 et 8
+Tableau n° 2 : modules d'évaluation pour les catégories d'animaux 1, 2, 3, 4, 5, 6, 7, 9 et 10.
 
-Vous pouvez consulter le tableau dans le JO
+|
 
-n° 193 du 21/08/2012 texte numéro 19
+1
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120821&numTexte=19&pageDebut=13627&pageFin=13630
+Bovins |
+
+2
+
+Equidés |
+
+3
+
+Ovins |
+
+4
+
+Caprins |
+
+5
+
+Porcins |
+
+6
+
+Volailles |
+
+7
+
+Lagomorphes
+
+Rongeurs |
+
+9
+
+Ratites |
+
+10
+
+Cervidés
+
+Bisons |
+
+Manipulation et soins |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Mise à mort |
+
+Etourdissement mécanique |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Etourdissement électrique |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Etourdissement au gaz |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Complément abattage
+
+sans étourdissement |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 Phase de correction
 
