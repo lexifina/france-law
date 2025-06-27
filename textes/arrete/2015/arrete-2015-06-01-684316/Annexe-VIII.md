@@ -408,7 +408,7 @@ Ces dispositions s'appliquent au 1er janvier 2022. |
 
 Ces dispositions ne s'appliquent pas.
 
-Néanmoins, cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, ces dispositions sont applicables à l'extension. |
+Néanmoins, en cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, ces dispositions sont applicables à l'extension. |
 
 11.1. VI |
 
@@ -440,11 +440,11 @@ Sans objet |
 
 11.3. IV |
 
-Les dispositions des points A et D sont applicables.
+Les dispositions des points A et C sont applicables.
 
-Les dispositions du point F sont applicables au 1er janvier 2027.
+Les dispositions du point F sont applicables au 1 er janvier 2027.
 
-Les dispositions du point C sont remplacées par les dispositions suivantes :
+Les dispositions du point D sont remplacées par les dispositions suivantes :
 
 " Les produits stockés en masse (notamment en sac, récipient ou palette) forment des îlots limités selon les dimensions suivantes :
 

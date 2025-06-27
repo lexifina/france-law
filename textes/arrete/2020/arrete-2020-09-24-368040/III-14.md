@@ -22,7 +22,7 @@ IV. - La zone de collecte, le drainage, le dispositif d'extinction et la rétent
 
 - éviter le colmatage du réseau d'évacuation par toute matière solide ou susceptible de se solidifier ;
 
-- éviter tout débordement de la rétention déportée. Une rétention déportée peut être commune a plusieurs stockages, le volume minimal de la rétention déportée est au moins égal au plus grand volume calculé en application des dispositions des articles III-11, III-12 et III-13 du présent arrêté pour chaque stockage associé ;
+- éviter tout débordement de la rétention déportée. Une rétention déportée peut être commune a plusieurs stockages, le volume minimal de la rétention déportée est au moins égal au plus grand volume calculé en application des dispositions des articles III-12 et III-13 du présent arrêté pour chaque stockage associé ;
 
 - éviter toute surverse de liquide inflammable lors de son arrivée éventuelle dans la rétention déportée ;
 

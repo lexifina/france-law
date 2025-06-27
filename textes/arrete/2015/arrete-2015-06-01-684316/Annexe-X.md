@@ -4,7 +4,7 @@ DISPOSITIONS APPLICABLES AUX INSTALLATIONS EXISTANTES SOUMISES À L'ARRÊTÉ DU 
 
 La présente annexe définit les dispositions applicables aux stockages de liquides inflammables au sein d'installations soumises aux dispositions techniques de l'arrêté du 22 décembre 2008 susvisé en vertu des points III. A et III. D de l'article 1 du présent arrêté.
 
-Les dispositions du point 1.10 de l'annexe I de l'arrêté du 22 décembre 2008 sont remplacées par les dispositions suivantes :
+Les dispositions du point 1.9 de l'annexe I de l'arrêté du 22 décembre 2008 sont remplacées par les dispositions suivantes :
 
 " Dans le cas particulier d'un stockage en bâtiment, dont les caractéristiques répondent à la définition de bâtiment ouvert , l'exploitant peut opter pour le respect de l'ensemble des dispositions du point A. ci-dessous, en lieu et place de l'ensemble des dispositions définies au point B ci-dessous :
 
@@ -62,7 +62,7 @@ Les autres dispositions du point 14. II. A s'appliquent. |
 
 14. II. B |
 
-Les dispositions du 14. II. B ne sont pas applicables. Néanmoins, cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, les dispositions du point 14. II. B s'appliquent à l'extension. |
+Les dispositions du 14. II. B ne sont pas applicables. Néanmoins, en cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, les dispositions du point 14. II. B s'appliquent à l'extension. |
 
 14. II. C |
 

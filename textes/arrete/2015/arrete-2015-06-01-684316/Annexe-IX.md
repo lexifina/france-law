@@ -6,6 +6,8 @@ La présente annexe définit les dispositions applicables aux stockages de liqui
 
 I.-Pour les installations ayant fait l'objet d'une demande d'autorisation après le 16 mai 2011 :
 
+-les dispositions de l'article 18 du présent arrêté s'appliquent ;
+
 -les articles 19,20,21 et 43 de l'arrêté du 3 octobre 2010 modifié susvisé s'appliquent selon les modalités particulières précisées dans le tableau ci-dessous pour les installations ayant fait le choix de respecter intégralement les dispositions de l'arrêté du 3 octobre 2010 susvisé.
 
 -les autres articles de l'arrêté du 3 octobre susvisé s'appliquent selon les modalités particulières définies au point I. A de l'annexe 7 de l'arrêté du 3 octobre 2010 modifié susvisé.
@@ -136,7 +138,7 @@ Les dispositions du deuxième alinéa du 22. II. B s'appliquent au 1er janvier 2
 
 Les dispositions du 22. III sont sans objet.
 
-Les dispositions du C du 22. IV sont remplacées par les dispositions suivantes : " Le volume de rétention permet également de contenir le volume des eaux d'extinction déterminé au vu de la stratégie incendie définie à l'article 14 ou une hauteur supplémentaire des parois de rétention de 0,15 mètre en vue de contenir ces eaux d'extinction. "
+Les dispositions du C du 22. IV sont remplacées par les dispositions suivantes : " Le volume de rétention permet également de contenir le volume des eaux d'extinction déterminé au vu de la stratégie incendie ou une hauteur supplémentaire des parois de rétention de 0,15 mètre en vue de contenir ces eaux d'extinction. "
 
 Les travaux nécessaires pour se conformer aux dispositions du 22. IV sont réalisés avant le 1er janvier 2027.
 
@@ -157,6 +159,8 @@ Les dispositions du 23. II. A s'appliquent.
 Les dispositions des points 23. II. D et E sont sans objet. |
 
 II.-Pour les installations ayant fait l'objet d'une demande d'autorisation avant le 16 mai 2011 ou régulièrement mise en service avant le 16 mai 2011, et sans préjudice des dispositions déjà applicables :
+
+-les dispositions de l'article 18 du présent arrêté s'appliquent ;
 
 -les articles 19,20,21 et 43 de l'arrêté du 3 octobre 2010 modifié susvisé s'appliquent dans les modalités particulières précisées dans le tableau ci-dessous pour les installations ayant fait le choix de respecter intégralement les dispositions de l'arrêté du 3 octobre 2010 modifié susvisé.
 
@@ -294,7 +298,7 @@ Les dispositions du deuxième alinéa du 22. II. B s'appliquent au 1er janvier 2
 
 Les dispositions du 22. III sont sans objet.
 
-Les dispositions du C du 22. IV sont remplacées par les dispositions suivantes : " Le volume de rétention permet également de contenir le volume des eaux d'extinction déterminé au vu de la stratégie incendie définie à l'article 14 ou une hauteur supplémentaire des parois de rétention de 0,15 mètre en vue de contenir ces eaux d'extinction. "
+Les dispositions du C du 22. IV sont remplacées par les dispositions suivantes : " Le volume de rétention permet également de contenir le volume des eaux d'extinction déterminé au vu de la stratégie incendie ou une hauteur supplémentaire des parois de rétention de 0,15 mètre en vue de contenir ces eaux d'extinction. "
 
 Les dispositions du D du 22. IV sont remplacées par les dispositions suivantes : " Les parois des rétentions sont incombustibles. "
 

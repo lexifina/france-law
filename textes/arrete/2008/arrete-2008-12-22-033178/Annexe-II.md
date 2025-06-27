@@ -30,7 +30,7 @@ Les dispositions des points 2.2.2 et 2.2.3 ne sont pas applicables. |
 
 Les dispositions du point 2.3 ne sont pas applicables.
 
-Néanmoins, cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, les dispositions du point 2.3 s'appliquent à l'extension. |
+Néanmoins, en cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, les dispositions du point 2.3 s'appliquent à l'extension. |
 
 2.4,2.5 et 2.6 |
 
@@ -42,13 +42,13 @@ Les dispositions du point 2.7.1 sont applicables. |
 
 2.7.2 à 2.7.5 |
 
-Les dispositions des points 2.7.2 à 2.7.5 remplacées par les dispositions suivantes :
+Les dispositions des points 2.7.2 à 2.7.5 sont remplacées par les dispositions suivantes :
 
-" Tout réservoir aérien de produits liquides susceptibles de créer une pollution de l'eau ou du sol est associé à une capacité de rétention dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
+“ Tout stockage de produits liquides susceptibles de créer une pollution de l'eau ou du sol est associé à une capacité de rétention dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
 
--100 % de la capacité du plus grand réservoir ;
+“-100 % de la capacité du plus grand réservoir ou récipient mobile associé ;
 
--50 % de la capacité globale des réservoirs associés.
+“-50 % de la capacité globale des réservoirs ou récipients mobiles associés. ”
 
 La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour son dispositif d'obturation qui est manœuvrable depuis l'extérieur et maintenu fermé.
 
@@ -62,7 +62,7 @@ Néanmoins, les dispositions des points 2.7.2 à 2.7.5 sont applicables aux nouv
 
 2.7.6 |
 
-Les dispositions du point 2.7.6 ne sont pas applicables. Néanmoins, cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, ces dispositions sont applicables à l'extension. |
+Les dispositions du point 2.7.6 ne sont pas applicables. Néanmoins, en cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, ces dispositions sont applicables à l'extension. |
 
 2.7.7 |
 
@@ -94,7 +94,7 @@ En cas d'installation de systèmes d'extinction automatique d'incendie, ceux-ci 
 
 Les dispositions des points 4.3.3. A et B sont remplacées par les dispositions suivantes :
 
-" Les cellules où est stocké au moins un liquide inflammable de catégorie B sont équipées d'un système de détection automatique d'incendie approprié au produit.". Cette disposition est applicable au 1er janvier 2027. Néanmoins, cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, les dispositions des points 4.3.3. A et B s'appliquent à l'extension.
+" Les cellules où est stocké au moins un liquide inflammable de catégorie B sont équipées d'un système de détection automatique d'incendie approprié au produit.". Cette disposition est applicable au 1er janvier 2027. Néanmoins, en cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, les dispositions des points 4.3.3. A et B s'appliquent à l'extension.
 
 Les dispositions du 4.3.3. C sont applicables.
 
@@ -160,7 +160,7 @@ Les dispositions des points 2.2.1 et 2.2.2 sont applicables sous réserves des m
 
 Le premier tiret du point 2.2.2.1 est remplacé par le tiret suivant :
 
--la largeur utile est au minimum de 3 mètres, la hauteur libre au minimum de 4,5 mètres et la pente inférieure à 15 % ; "
+-la largeur utile est au minimum de 3 mètres, la hauteur libre au minimum de 3,5 mètres et la pente inférieure à 15 % ; "
 
 Le troisième tiret du point 2.2.2.1 est remplacé par le tiret suivant :
 
@@ -176,7 +176,7 @@ Les dispositions du 2.3.1 sont applicables. Ces dispositions sont complétées p
 
 " Les locaux sont équipés en partie haute de dispositifs permettant l'évacuation des fumées et gaz de combustion dégagés en cas d'incendie (lanterneaux en toiture, ouvrants en façade ou tout autre dispositif équivalent). Les commandes d'ouverture manuelle sont placées à proximité des accès. Le système de désenfumage est adapté aux risques particuliers de l'installation. "
 
-Les autres dispositions du point 2.3 ne sont pas applicables. Néanmoins, cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, ces dispositions sont applicables à l'extension. |
+Les autres dispositions du point 2.3 ne sont pas applicables. Néanmoins, en cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, ces dispositions sont applicables à l'extension. |
 
 2.4,2.5 et 2.6 |
 
@@ -188,13 +188,13 @@ Les dispositions du point 2.7.1 sont applicables. |
 
 2.7.2 à 2.7.5 |
 
-Les dispositions des points 2.7.2 à 2.7.5 remplacées par les dispositions suivantes :
+Les dispositions des points 2.7.2 à 2.7.5 sont remplacées par les dispositions suivantes :
 
-" Tout réservoir aérien de produits liquides susceptibles de créer une pollution de l'eau ou du sol est associé à une capacité de rétention dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
+“ Tout stockage de produits liquides susceptibles de créer une pollution de l'eau ou du sol est associé à une capacité de rétention dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
 
--100 % de la capacité du plus grand réservoir ;
+“-100 % de la capacité du plus grand réservoir ou récipient mobile associé ;
 
--50 % de la capacité globale des réservoirs associés.
+“-50 % de la capacité globale des réservoirs ou récipients mobiles associés. ”
 
 La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour son dispositif d'obturation qui est manœuvrable depuis l'extérieur et maintenu fermé.
 
@@ -208,7 +208,7 @@ Néanmoins, les dispositions des points 2.7.2 à 2.7.5 sont applicables aux nouv
 
 2.7.6 |
 
-Les dispositions du point 2.7.6 ne sont pas applicables. Néanmoins, cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, ces dispositions sont applicables à l'extension. |
+Les dispositions du point 2.7.6 ne sont pas applicables. Néanmoins, en cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, ces dispositions sont applicables à l'extension. |
 
 2.7.7 |
 
@@ -240,7 +240,7 @@ En cas d'installation de systèmes d'extinction automatique d'incendie, ceux-ci 
 
 Les dispositions des points 4.3.3. A et B sont remplacées par les dispositions suivantes :
 
-" Les cellules où est stocké au moins un liquide inflammable de catégorie B sont équipées d'un système de détection automatique d'incendie approprié au produit. " Cette disposition est applicable au 1er janvier 2027. Néanmoins, cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, les dispositions des points 4.3.3. A et B s'appliquent à l'extension.
+" Les cellules où est stocké au moins un liquide inflammable de catégorie B sont équipées d'un système de détection automatique d'incendie approprié au produit. " Cette disposition est applicable au 1er janvier 2027. Néanmoins, en cas de modification ou extension de ces installations comprenant une nouvelle cellule ou un nouveau stockage couvert portée à la connaissance du préfet à compter du 1er janvier 2022, les dispositions des points 4.3.3. A et B s'appliquent à l'extension.
 
 Les dispositions du 4.3.3. C sont applicables.
 
