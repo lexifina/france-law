@@ -1,0 +1,81 @@
+# Article Annexe III
+
+ANNEXE III
+
+FORMULAIRE D'ACCÈS À LA VOIE INTERNE DES ÉPREUVES DE VÉRIFICATION DES CONNAISSANCES
+
+Profession :
+
+Spécialité :
+
+Etat civil du candidat :
+
+M. Mme.
+
+Nom de naissance :
+
+Nom d'usage :
+
+Prénom :
+
+Date et lieu de naissance :
+
+Exercice professionnel (fonctions actuellement exercées) :
+
+Libellé de l'établissement :
+
+Commune de l'établissement :
+
+Libellé du pôle :
+
+Libellé du service :
+
+Poste occupé :
+
+Quotité de temps de travail :
+
+Durée d'exercice dans l'établissement :
+
+Eligibilité à la voie interne des épreuves :
+
+M. Mme.
+
+Nom d'usage :
+
+Fonction :
+
+Nom de l'établissement :
+
+I. - Compétences médicales
+
+Le candidat justifie de l'acquisition des compétences médicales correspondant, pour les études de médecine, pharmacie et odontologie à celles exigées à l'issue de la phase d'approfondissement du troisième cycle, et, pour les études de maïeutique, à celles attendues à l'issue du deuxième cycle.
+
+Commentaire (commentaires libres non obligatoires) : |
+
+II. - Capacités relationnelles avec les patients, les familles et leurs proches
+
+Le candidat démontre des aptitudes relationnelles conformes aux exigences de la profession, lui permettant d'instaurer une relation de confiance et de respect avec les patients, leurs familles et leurs proches.
+
+Commentaire (commentaires libres non obligatoires) : |
+
+III. - Capacités relationnelles avec l'équipe médicale et paramédicale du service et intégration dans l'établissement
+
+Le candidat s'est pleinement intégré au sein de l'équipe médicale et paramédicale, et participe activement à la dynamique collective et à la mise en œuvre de la politique institutionnelle de l'établissement.
+
+Commentaire (commentaires libres non obligatoires) : |
+
+Nous soussigné(e)s :
+
+(Nom, prénom), chef(fe) de service de XX
+
+(Nom, prénom), président(e) de la Commission Médicale d'Etablissement
+
+à (établissement)
+
+attestons sur l'honneur l'exactitude des informations susmentionnées, et certifions que le candidat dispose des compétences médicales et des capacités relationnelles requises pour bénéficier de la voie interne des épreuves de vérification des connaissances, conformément aux dispositions réglementaires en vigueur.
+
+Fait à :
+
+Signature du chef de service :
+
+Signature du président de la commission médicale de l'établissement :
