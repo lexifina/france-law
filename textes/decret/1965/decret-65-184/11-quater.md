@@ -12,13 +12,9 @@ du corps ou du cadre d'emplois de catégorie B
 
 |
 
-SITUATION DANS LE GRADE D'INGÉNIEUR DES TRAVAUX DE LA MÉTÉOROLOGIE
+SITUATION DANS LE GRADE D'INGÉNIEUR DES TRAVAUX DE LA MÉTÉOROLOGIE |
 
-|
-
-Echelons
-
-|
+Echelons |
 
 Grade d'ingénieur
 
@@ -32,137 +28,71 @@ de la durée de l'échelon
 
 |
 
-11e échelon
+11e échelon |
 
-|
+9e échelon |
 
-9e échelon
+Sans ancienneté |
 
-|
+10e échelon |
 
-Sans ancienneté
+9e échelon |
 
-|
+Sans ancienneté |
 
-10e échelon
+9e échelon |
 
-|
+8e échelon |
 
-9e échelon
+Ancienneté acquise |
 
-|
+8e échelon |
 
-Sans ancienneté
+7e échelon |
 
-|
+Ancienneté acquise |
 
-9e échelon
+7e échelon |
 
-|
+7e échelon |
 
-8e échelon
+Sans ancienneté |
 
-|
+6e échelon |
 
-Ancienneté acquise
+6e échelon |
 
-|
+Sans ancienneté |
 
-8e échelon
+5e échelon |
 
-|
+5e échelon |
 
-7e échelon
+Sans ancienneté |
 
-|
+4e échelon |
 
-Ancienneté acquise
+4e échelon |
 
-|
+Ancienneté acquise |
 
-7e échelon
+3e échelon |
 
-|
+4e échelon |
 
-7e échelon
+Sans ancienneté |
 
-|
+2e échelon |
 
-Sans ancienneté
+4e échelon |
 
-|
+Sans ancienneté |
 
-6e échelon
+1er échelon |
 
-|
+3e échelon |
 
-6e échelon
-
-|
-
-Sans ancienneté
-
-|
-
-5e échelon
-
-|
-
-5e échelon
-
-|
-
-Sans ancienneté
-
-|
-
-4e échelon
-
-|
-
-4e échelon
-
-|
-
-Ancienneté acquise
-
-|
-
-3e échelon
-
-|
-
-4e échelon
-
-|
-
-Sans ancienneté
-
-|
-
-2e échelon
-
-|
-
-4e échelon
-
-|
-
-Sans ancienneté
-
-|
-
-1er échelon
-
-|
-
-3e échelon
-
-|
-
-Sans ancienneté
-
-|
+Sans ancienneté |
 
 SITUATION DANS LE DEUXIÈME GRADE
 
@@ -170,165 +100,79 @@ du corps ou du cadre d'emplois de catégorie B
 
 |
 
-SITUATION DANS LE GRADE D'INGÉNIEUR DES TRAVAUX DE LA MÉTÉOROLOGIE
+SITUATION DANS LE GRADE D'INGÉNIEUR DES TRAVAUX DE LA MÉTÉOROLOGIE |
 
-|
+12e échelon |
 
-13e échelon
+7e échelon |
 
-|
+Ancienneté acquise |
 
-7e échelon
+11e échelon |
 
-|
+7e échelon |
 
-Ancienneté acquise
+Sans ancienneté |
 
-|
+10e échelon |
 
-12e échelon
+6e échelon |
 
-|
+Sans ancienneté |
 
-6e échelon
+9e échelon |
 
-|
+5e échelon |
 
-Ancienneté acquise
+Sans ancienneté |
 
-|
+8e échelon |
 
-11e échelon
+5e échelon |
 
-|
+Sans ancienneté |
 
-6e échelon
+7e échelon |
 
-|
+4e échelon |
 
-Sans ancienneté
+Ancienneté acquise |
 
-|
+6e échelon |
 
-10e échelon
+4e échelon |
 
-|
+Sans ancienneté |
 
-5e échelon
+5e échelon |
 
-|
+3e échelon |
 
-Ancienneté acquise
+Ancienneté acquise |
 
-|
+4e échelon |
 
-9e échelon
+3e échelon |
 
-|
+Sans ancienneté |
 
-5e échelon
+3e échelon |
 
-|
+2e échelon |
 
-Sans ancienneté
+Ancienneté acquise |
 
-|
+2e échelon |
 
-8e échelon
+2e échelon |
 
-|
+Sans ancienneté |
 
-4e échelon
+1er échelon |
 
-|
+1er échelon |
 
-Ancienneté acquise
-
-|
-
-7e échelon
-
-|
-
-4e échelon
-
-|
-
-Sans ancienneté
-
-|
-
-6e échelon
-
-|
-
-3e échelon
-
-|
-
-Ancienneté acquise
-
-|
-
-5e échelon
-
-|
-
-3e échelon
-
-|
-
-Sans ancienneté
-
-|
-
-4e échelon
-
-|
-
-2e échelon
-
-|
-
-Ancienneté acquise
-
-|
-
-3e échelon
-
-|
-
-2e échelon
-
-|
-
-Sans ancienneté
-
-|
-
-2e échelon
-
-|
-
-2e échelon
-
-|
-
-Sans ancienneté
-
-|
-
-1er échelon
-
-|
-
-1er échelon
-
-|
-
-Sans ancienneté
-
-|
+Ancienneté acquise |
 
 SITUATION DANS LE PREMIER GRADE
 
@@ -336,164 +180,84 @@ du corps ou du cadre d'emplois de catégorie B
 
 |
 
-SITUATION DANS LE GRADE D'INGÉNIEUR DES TRAVAUX DE LA MÉTÉOROLOGIE
+SITUATION DANS LE GRADE D'INGÉNIEUR DES TRAVAUX DE LA MÉTÉOROLOGIE |
 
-|
+13e échelon |
 
-13e échelon
+6e échelon |
 
-|
+Ancienneté acquise |
 
-6e échelon
+12e échelon |
 
-|
+6e échelon |
 
-Ancienneté acquise
+Sans ancienneté |
 
-|
+11e échelon |
 
-12e échelon
+5e échelon |
 
-|
+Sans ancienneté |
 
-6e échelon
+10e échelon |
 
-|
+4e échelon |
 
-Sans ancienneté
+Ancienneté acquise |
 
-|
+9e échelon |
 
-11e échelon
+4e échelon |
 
-|
+Sans ancienneté |
 
-5e échelon
+8e échelon |
 
-|
+4e échelon |
 
-Sans ancienneté
+Sans ancienneté |
 
-|
+7e échelon |
 
-10e échelon
+3e échelon |
 
-|
+Ancienneté acquise |
 
-4e échelon
+6e échelon |
 
-|
+3e échelon |
 
-Ancienneté acquise
+Sans ancienneté |
 
-|
+5e échelon |
 
-9e échelon
+2e échelon |
 
-|
+Ancienneté acquise |
 
-4e échelon
+4e échelon |
 
-|
+2e échelon |
 
-Sans ancienneté
+Sans ancienneté |
 
-|
+3e échelon |
 
-8e échelon
+2e échelon |
 
-|
+Sans ancienneté |
 
-4e échelon
+2e échelon |
 
-|
+1er échelon |
 
-Sans ancienneté
+Ancienneté acquise |
 
-|
+1er échelon |
 
-7e échelon
+1er échelon |
 
-|
-
-3e échelon
-
-|
-
-Ancienneté acquise
-
-|
-
-6e échelon
-
-|
-
-3e échelon
-
-|
-
-Sans ancienneté
-
-|
-
-5e échelon
-
-|
-
-2e échelon
-
-|
-
-Ancienneté acquise
-
-|
-
-4e échelon
-
-|
-
-2e échelon
-
-|
-
-Sans ancienneté
-
-|
-
-3e échelon
-
-|
-
-2e échelon
-
-|
-
-Sans ancienneté
-
-|
-
-2e échelon
-
-|
-
-1er échelon
-
-|
-
-Ancienneté acquise
-
-|
-
-1er échelon
-
-|
-
-1er échelon
-
-|
-
-Sans ancienneté
-
-|
+Sans ancienneté |
 
 IV.-Les fonctionnaires appartenant à un corps ou un cadre d'emplois de catégorie C ou de même niveau sont classés en appliquant les dispositions du III à la situation qui serait la leur si, préalablement à leur nomination dans le corps des ingénieurs des travaux de la météorologie, ils avaient été nommés dans un corps régi par le décret du 11 novembre 2009 précité, et classés en application des dispositions de la section 1 du chapitre III de ce même décret qui leur sont applicables.
