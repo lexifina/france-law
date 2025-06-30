@@ -1080,12 +1080,6 @@ Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aé
 
 Utilisable par les hélicoptères. |
 
-Serres-Labatie-Montsaléon |
-
-Hautes-Alpes |
-
-Réservé aux besoins du centre de réparation et d'entretien MTA Aviation, réservé au vol à voile et aux avions de servitude. |
-
 Sisteron-Vaumeilh |
 
 Alpes-de-Haute-Provence |
