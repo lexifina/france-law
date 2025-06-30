@@ -18,7 +18,7 @@ Les pièces justificatives relatives aux opérations d'économies d'énergie con
 
 – le non-cumul avec d'autres dispositifs ; et
 
-– le respect des conditions définies à l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
+– le respect, selon les cas, des conditions définies aux articles 3-1 et 3-1 bis de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
 Lorsqu'une pièce justificative est signée au nom d'une personne morale, elle comporte les nom, prénom et qualité du signataire.
 
@@ -98,7 +98,7 @@ Si la contribution est un audit ou conseil personnalisé, celui-ci prend la form
 
 entre le bénéficiaire et le demandeur ou un partenaire du demandeur
 
-La contractualisation de l'opération d'économies d'énergie comporte la mention dactylographiée, dans le corps du contrat, de la nature précise de cette contribution (prime, bon d'achat, prêt bonifié, audit ou conseil personnalisé, produit ou service offert) et sa valeur financière et le cas échéant les modalités de son calcul en cas de révision au regard d'une modification du volume de certificats d'économies d'énergie attaché à l'opération ou de la situation de précarité énergétique, de l'identification du demandeur via sa raison sociale et du fait que le demandeur est à l'origine de la contribution dans le cadre du dispositif des certificats d'économies d'énergie.
+La contractualisation de l'opération d'économies d'énergie comporte la mention dactylographiée, dans le corps du contrat, de la nature précise de cette contribution (prime, bon d'achat, prêt bonifié, audit ou conseil personnalisé, produit ou service offert) et sa valeur financière et le cas échéant les modalités de son calcul en cas de révision au regard d'une modification du volume de certificats d'économies d'énergie attaché à l'opération ou de la situation de précarité énergétique ou de ménage modeste, de l'identification du demandeur via sa raison sociale et du fait que le demandeur est à l'origine de la contribution dans le cadre du dispositif des certificats d'économies d'énergie.
 
 Le contrat de réalisation de l'opération est accepté et signé par le bénéficiaire au plus tard à la date d'engagement de l'opération. Il est daté par le bénéficiaire du jour de son acceptation.
 
@@ -140,7 +140,7 @@ L'engagement écrit du demandeur, le cas échéant représenté par un mandatair
 
 – l'identification des opérations d'économies d'énergie pour laquelle la contribution serait apportée ;
 
-– la mention de la nature précise de cette contribution (prime, bon d'achat, prêt bonifié, audit ou conseil personnalisé, produit ou service offert) et sa valeur financière et le cas échéant les modalités de son calcul en cas de révision au regard d'une modification du volume de certificats d'économies d'énergie attaché à l'opération ou de la situation de précarité énergétique ;
+– la mention de la nature précise de cette contribution (prime, bon d'achat, prêt bonifié, audit ou conseil personnalisé, produit ou service offert) et sa valeur financière et le cas échéant les modalités de son calcul en cas de révision au regard d'une modification du volume de certificats d'économies d'énergie attaché à l'opération ou de la situation de précarité énergétique ou de ménage modeste ;
 
 – l'identification du demandeur à l'origine de la contribution, via sa raison sociale ; et
 
@@ -164,7 +164,7 @@ Un contrat établi entre le demandeur et le bénéficiaire, le cas échéant rep
 
 – une référence au dispositif des certificats d'économies d'énergie ;
 
-– l'engagement du demandeur à apporter sa contribution dont il précise la nature (prime, bon d'achat, prêt bonifié, audit ou conseil personnalisé, produit ou service offert) et sa valeur financière et le cas échéant les modalités de son calcul en cas de révision au regard d'une modification du volume de certificats d'économies d'énergie attaché à l'opération ou de la situation de précarité énergétique. Le contrat peut prévoir des clauses de révision du montant de la contribution ;
+– l'engagement du demandeur à apporter sa contribution dont il précise la nature (prime, bon d'achat, prêt bonifié, audit ou conseil personnalisé, produit ou service offert) et sa valeur financière et le cas échéant les modalités de son calcul en cas de révision au regard d'une modification du volume de certificats d'économies d'énergie attaché à l'opération ou de la situation de précarité énergétique ou de ménage modeste. Le contrat peut prévoir des clauses de révision du montant de la contribution ;
 
 – la description des opérations d'économies d'énergie qui entrent dans le champ du contrat ; et
 
@@ -198,7 +198,7 @@ L'engagement écrit d'un partenaire du demandeur à avoir incité directement le
 
 – l'identification des opérations d'économies d'énergie pour laquelle la contribution est apportée, et notamment le lieu de réalisation et la nature de l'opération ;
 
-– la mention de la nature de cette contribution (prime, bon d'achat, prêt bonifié, audit ou conseil personnalisé, produit ou service offert), sa valeur financière et le cas échéant les modalités de son calcul en cas de révision au regard d'une modification du volume de certificats d'économies d'énergie attaché à l'opération ou de la situation de précarité énergétique, et le fait que le partenaire a incité le bénéficiaire à la réalisation de l'opération d'économies d'énergie au moyen de cette contribution apportée au nom du demandeur et au titre du dispositif des certificats d'économies d'énergie ;
+– la mention de la nature de cette contribution (prime, bon d'achat, prêt bonifié, audit ou conseil personnalisé, produit ou service offert), sa valeur financière et le cas échéant les modalités de son calcul en cas de révision au regard d'une modification du volume de certificats d'économies d'énergie attaché à l'opération ou de la situation de précarité énergétique ou de ménage modeste, et le fait que le partenaire a incité le bénéficiaire à la réalisation de l'opération d'économies d'énergie au moyen de cette contribution apportée au nom du demandeur et au titre du dispositif des certificats d'économies d'énergie ;
 
 – l'identification du demandeur à l'origine de la contribution, via sa raison sociale ;
 
@@ -352,19 +352,13 @@ La date de référence est, au choix :
 
 8.1 bis. Cas où le bénéficiaire de l'opération, au sens de l'article 3 du présent arrêté, est le ménage en situation de précarité énergétique, s'agissant des opérations engagées à compter du 1er avril 2021 ou achevées à compter du 1er octobre 2021
 
-La situation de précarité énergétique du ménage selon le II bis de l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie et la situation de grande précarité énergétique du ménage selon le II du même article sont justifiées par :
+La situation de précarité énergétique du ménage selon le II bis de l'article 3-1 ou le I de l'article 3-1 bis de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie est justifiée par :
 
 -l'avis d'imposition ou de non-imposition de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
 
 -le justificatif d'impôt sur le revenu délivré par l'administration fiscale de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
 
--une facture d'électricité justifiant du bénéfice de la tarification de l'électricité comme produit de première nécessité prévue par l'article L. 337-3 du code de l'énergie. La facture date de moins d'un an à la date de référence ; ou
-
--une facture de gaz naturel justifiant du bénéfice du tarif spécial de solidarité applicable à la fourniture de gaz naturel prévu par l'article L. 445-5 du code de l'énergie. La facture date de moins d'un an à la date de référence ; ou
-
 -l'attestation du droit à la protection complémentaire en matière de santé prévue par l'article R. 861-16 du code de la sécurité sociale valide à la date de référence ; ou
-
--une copie de l'attestation de droit à l'aide au paiement d'une assurance complémentaire de santé prévue par l'article L. 863-3 du code de la sécurité sociale, datée de moins d'un an à la date de référence ; ou
 
 -l'attestation accompagnant le chèque énergie prévu à l'article L. 124-1 du code de l'énergie, dont l'échéance d'utilisation est postérieure à la date de référence ; ou
 
@@ -378,9 +372,9 @@ La date de référence est, au choix :
 
 -la date de la demande de certificats d'économies d'énergie auprès du ministre chargé de l'énergie.
 
-8.1 ter. Cas où le bénéficiaire de l'opération, au sens de l'article 3 du présent arrêté, est le ménage modeste, s'agissant d'une opération faisant l'objet d'une bonification au titre des articles 3-5-1,3-6 ou 3-7-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie
+8.1 ter. Cas où le bénéficiaire de l'opération, au sens de l'article 3 du présent arrêté, est le ménage modeste, s'agissant d'une opération faisant l'objet d'une bonification au titre des articles 3-5-1,3-6 ou 3-7-1 ou du VIII de l'article 3-7-3 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie
 
-La situation de ménage modeste du ménage, selon le II ter de l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, est justifiée par :
+La situation de ménage modeste du ménage, selon le II ter de l'article 3-1 ou le II de l'article 3-1 bis de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, est justifiée par :
 
 -le ou les avis d'imposition ou de non-imposition de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
 
@@ -470,4 +464,4 @@ g) Les pénalités en cas de non-atteinte de la performance garantie par le cont
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 7 avril 2025 (NOR : ECOR2506217A), les dispositions de l'article 1er de l'arrêté précité s'appliquent aux opérations engagées à compter du 1er juillet 2025.
+Se reporter aux conditions d'application prévues à l'article 6 de l'arrêté du 27 juin 2025 (NOR : ECOR2518213A ).

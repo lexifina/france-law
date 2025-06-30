@@ -72,7 +72,9 @@ Le contenu de ces parties R1, BS, CD, QPV et R2 est défini à l'annexe 7-1. Une
 
 - une unique partie CD ; ou
 
-- une unique partie QPV.
+- une unique partie QPV ; ou
+
+- une unique partie R3.
 
 La partie R1 est utilisée lorsque l'opération entre dans le cadre des paragraphes 8.1,8.1 bis ou 8.1 ter de l'annexe 5.
 
@@ -84,10 +86,12 @@ La partie QPV correspond à l'attestation prévue par le paragraphe 8.4 de l'ann
 
 La partie R2 correspond à l'attestation prévue au point II du paragraphe 8.2 de l'annexe 5 et à l'attestation prévue par le paragraphe 8.5.
 
+La partie R3 est utilisée lorsque le ménage est bénéficiaire d'une opération standardisée du secteur des transports.
+
 8. Partie finale
 
 Le contenu de cette partie est défini à l'annexe 7-1. Elle comporte notamment la mention CNIL relative au ministère chargé de l'énergie et la mention CNIL du demandeur.
 
 NOTA :
 
-Conformément à l’article 5 de l’arrêté du 25 mars 2021, ces dispositions entrent en vigueur à compter du 1er avril 2021 .
+Se reporter aux conditions d'application prévues à l'article 6 de l'arrêté du 27 juin 2025 (NOR : ECOR2518213A ).

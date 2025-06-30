@@ -156,7 +156,7 @@ Fait à.
 
 (*) Cachet et signature du professionnel
 
-R1. Revenus du ménage bénéficiaire de l'opération
+R1. Revenus du ménage bénéficiaire de l'opération hors opérations standardisées du secteur des transports
 
 (*) Nom du signataire : Prénom du signataire :
 
@@ -720,6 +720,116 @@ De plus, il est rappelé aux signataires de la présente attestation sur l'honne
 
 Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'établir une attestation ou un certificat faisant état de faits matériellement inexacts ; 2° De falsifier une attestation ou un certificat originairement sincère ; 3° De faire usage d'une attestation ou d'un certificat inexact ou falsifié.
 
+R3. Revenus du ménage bénéficiaire d'une opération standardisée du secteur des transports
+
+(*) Nom du signataire : Prénom du signataire :
+
+(*) Adresse :
+
+Complément d'adresse :
+
+(*) Code postal :
+
+(*) Ville :
+
+Pays :
+
+(*) Téléphone : _ _ _ _ _ _ _ _ _ _
+
+(indiquer un numéro de téléphone fixe ou de téléphone portable)
+
+(*) Courriel :
+
+(indiquer : “ néant ” si le bénéficiaire ne dispose pas d'une adresse de courriel)
+
+(*) Cocher l'une des deux cases suivantes : en tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste que :
+
+□ Les revenus de mon ménage sont inférieurs aux plafonds du tableau B et supérieurs ou égaux aux plafonds du tableau A ci-dessous, et mon ménage comporte :
+
+(*) Nombre de personnes :
+
+Si mon ménage comporte plusieurs foyers fiscaux et que les pièces justificatives des revenus sont les avis d'imposition :
+
+(*) Nombre de foyers fiscaux :
+
+(*) Nom (s) et prénom (s) du (des) premier (s) déclarant (s) des autres foyers fiscaux :
+
+□ Les revenus de mon ménage sont inférieurs aux plafonds du tableau A ci-dessous, et mon ménage comporte :
+
+(*) Nombre de personnes :
+
+Si mon ménage comporte plusieurs foyers fiscaux et que les pièces justificatives des revenus sont les avis d'imposition :
+
+(*) Nombre de foyers fiscaux :
+
+(*) Nom (s) et prénom (s) du (des) premier (s) déclarant (s) des autres foyers fiscaux :
+
+Tableau A
+
+Nombre de personnes composant le ménage |
+
+Plafonds de revenus du ménage (€) |
+
+1 |
+
+23 768 |
+
+2 |
+
+34 884 |
+
+3 |
+
+41 893 |
+
+4 |
+
+48 914 |
+
+5 |
+
+55 961 |
+
+Par personne supplémentaire |
+
+7 038 |
+
+Tableau B
+
+Nombre de personnes composant le ménage |
+
+Plafonds de revenus du ménage (€) |
+
+1 |
+
+28 933 |
+
+2 |
+
+42 463 |
+
+3 |
+
+51 000 |
+
+4 |
+
+59 549 |
+
+5 |
+
+68 123 |
+
+Par personne supplémentaire |
+
+8 568 |
+
+Fait à.
+
+(*) Le _ _/ _ _/ _ _ _ _
+
+(*) Signature du bénéficiaire.
+
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 20 décembre 2024 (NOR : TECR2432997A), ces dispositions s'appliquent aux opérations engagées à compter du 1er janvier 2025. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant le 1er janvier 2025 peuvent être utilisées pour les opérations engagées avant le 1er juillet 2025.
+Se reporter aux conditions d'application prévues à l'article 6 de l'arrêté du 27 juin 2025 (NOR : ECOR2518213A ).

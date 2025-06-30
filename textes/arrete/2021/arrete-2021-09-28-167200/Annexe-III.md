@@ -1340,15 +1340,65 @@ Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-AJ. Fiche d'opération standardisée BAR-TH-173 “Système de régulation par programmation horaire pièce par pièce” :
+AJ.-Fiche d'opération standardisée BAR-TH-173 &laquo; Système de régulation par programmation horaire pièce par pièce &raquo;
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. En l'absence d'éléments visibles, les vérifications sont faites au moyen de toute pièce disponible. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant.
+
+AJ. I.-Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ou le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
+
+2. Le délai minimal de sept jours francs entre la date d'acceptation du devis et la date de début des travaux (pose du système de régulation par programmation horaire pièce par pièce) n'est pas respecté d'après le devis et la facture et/ ou d'après la déclaration écrite du bénéficiaire ;
+
+3. Le système installé ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération ou, à défaut, aux mentions indiquées sur le document issu du professionnel réalisant l'opération, concernant en particulier la classe du système installé au sens de la norme NF EN ISO 52120-1 ;
+
+4. Le système installé ne comprend pas d'appareil central ;
+
+5. L'opération concerne la mise en place de têtes thermostatiques seules ;
+
+6. Lors du contrôle sur le lieu de l'opération, un ou plusieurs émetteurs disposent d'équipements de régulation installés préalablement à la date de réalisation de l'opération ;
+
+7. Dans le cas d'un chauffage à émetteurs électriques, un ou plusieurs émetteurs ne disposent pas d'un dispositif de régulation. Dans le cas d'un chauffage à boucle d'eau chaude, 2 émetteurs ou plus ne disposent pas d'un dispositif de régulation ;
+
+8. Le nombre d'émetteurs de chaleur équipés donnant lieu à CEE, ne correspond pas au nombre mentionné sur la preuve de réalisation de l'opération (si le nombre d'émetteurs équipés donnant lieu à CEE déclaré (N) est égal à 9, l'installation du dispositif de régulation sur plus de 9 émetteurs ne constitue pas un écart) ;
+
+NB1 : Chaque boucle pilotable du plancher chauffant est considérée comme un émetteur de chaleur et est équipée d'un dispositif régulant l'émission de chaleur selon la consigne émise par l'appareil central.
+
+NB2 : Les dispositifs de type sèche-serviette ne faisant pas partie du système de chauffage principal ou les dispositifs de type sèche-serviette électrique déjà régulés peuvent ne pas disposer d'un dispositif de régulation, sans que cela ne constitue un écart.
+
+NB3 : Pour les installations de chauffage à boucle à eau chaude, un émetteur au plus peut ne pas être équipé d'un dispositif régulant l'émission de chaleur selon la consigne émise par l'appareil central, sans que cela ne constitue un écart.
+
+NB4 : Dans le cas d'une installation de chauffage à émetteurs électriques, les émetteurs à effet Joule direct peuvent ne pas être inclus parmi les équipements à équiper au titre de la présente fiche, s'ils possèdent déjà un dispositif embarqué de régulation conforme aux exigences du règlement (EU) n° 2015/1188 de la commission du 28 avril 2015 et de la certification NF performance catégories 3 étoiles œil ;
+
+9. Le système installé ou remplacé n'est pas un système de régulation de classe A ou B au sens de la norme NF EN ISO 52120-1 ;
+
+10. Pour les installations de chauffage à boucle à eau chaude, le remplacement du régulateur de température du générateur dégrade la classe du régulateur de température du générateur entre l'état existant et l'état rénové (définis conformément aux exigences du règlement (UE) n° 811/2013 de la Commission du 18 février 2013) ou ne respecte pas la classe du régulateur de température du dispositif de chauffage indiquée.
 
 Doivent être vérifiés lors des contrôles par contact :
 
-- l'existence d'un système de régulation par programmation horaire pièce par pièce installé ;
+1. L'existence d'un système de régulation par programmation horaire pièce par pièce installé ;
 
-- la réception par la totalité des émetteurs de chaleur des consignes émises par l'appareil central pour atteindre la température de consigne ;
+2. Le type de système de chauffage concerné (hydraulique, électrique ou mixte) ;
 
-- l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
+3. La présence d'au moins un plancher ou plafond chauffant ;
+
+4. Le nombre d'émetteurs de chaleur ayant été équipés d'un système de régulation dans le cadre de l'opération (si le nombre d'émetteurs équipés donnant lieu à CEE déclaré (N) est égal à 9, l'installation du dispositif de régulation sur plus de 9 émetteurs ne constitue pas un écart) ;
+
+5. L'absence d'émetteurs de chaleur (ou boucle pour un plancher chauffant) n'ayant pas été équipé d'un dispositif de régulation ;
+
+NB1 : Chaque boucle pilotable du plancher chauffant est considérée comme un émetteur de chaleur et est équipée d'un dispositif régulant l'émission de chaleur selon la consigne émise par l'appareil central.
+
+NB2 : Les dispositifs de type sèche-serviette ne faisant pas partie du système de chauffage principal ou les dispositifs de type sèche-serviette électrique déjà régulés peuvent ne pas disposer d'un dispositif de régulation, sans que cela ne constitue un écart.
+
+NB3 : Pour les installations de chauffage à boucle à eau chaude, un émetteur au plus peut ne pas être équipé d'un dispositif régulant l'émission de chaleur selon la consigne émise par l'appareil central, sans que cela ne constitue un écart.
+
+NB4 : Dans le cas d'une installation de chauffage à émetteurs électriques, les émetteurs à effet Joule direct peuvent ne pas être inclus parmi les équipements à équiper au titre de la présente fiche, s'ils possèdent déjà un dispositif embarqué de régulation conforme aux exigences du règlement (EU) n° 2015/1188 de la commission du 28 avril 2015 et de la certification NF performance catégories 3 étoiles œil ;
+
+6. La réception par la totalité des émetteurs de chaleur équipés des consignes émises par l'appareil central pour atteindre la température de consigne ;
+
+7. La confirmation par le bénéficiaire de la présence d'un appareil central et d'une interface (intégrée à l'appareil central ou sur un terminal fixe ou mobile) permettant une régulation horaire et par pièce ;
+
+8. L'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués, notamment le dysfonctionnement du générateur suite à l'installation des équipements de régulation (mise en sécurité, en défaut …).
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
@@ -1880,7 +1930,7 @@ AU. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de
 
 1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
-2. La preuve de réalisation de l'opération ne comporte pas les informations prévues par la fiche TRA-EQ-117 (achat ou location de véhicules utilitaires légers électriques neufs et numéro d'immatriculation des véhicules concernés, identification des véhicules précédemment affectés à la démonstration le cas échéant) ;
+2. La preuve de réalisation de l'opération ne comporte pas les informations prévues par la fiche TRA-EQ-117 (achat ou location de véhicules légers électriques neufs et numéro d'immatriculation des véhicules concernés, identification des véhicules précédemment affectés à la démonstration le cas échéant) ;
 
 3. Le véhicule n'a pas été acheté ou loué neuf ;
 
@@ -1888,11 +1938,13 @@ AU. I. Sur la base d'un contrôle réalisé sur pièce de tous les véhicules de
 
 5. Dans le cas d'un achat, le bénéficiaire indiqué par le demandeur ne correspond pas au propriétaire mentionné sur le certificat d'immatriculation ;
 
-6. Le véhicule acheté ou loué par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : véhicule utilitaire léger neuf électrique) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation du véhicule ;
+6. Le véhicule acheté ou loué par le bénéficiaire ne correspond pas aux informations fournies par le demandeur de certificats (numéro d'immatriculation ; numéro d'identification ; type variante version ; type d'acquisition : achat ou location ; type de véhicule : véhicule léger neuf électrique de catégorie M1 ou N1) ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation du véhicule ;
 
 7. Dans le cas d'un véhicule précédemment affecté à la démonstration, la cession ou la prise en location n'intervient pas dans un délai compris entre trois et douze mois suivant sa première immatriculation ; à cette fin, le bénéficiaire met à disposition de l'organisme d'inspection une copie du certificat d'immatriculation actuel et une copie du précédent certificat d'immatriculation ;
 
 8. Dans le cas d'une bonification prévue par l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, l'adresse de livraison du véhicule ne correspond pas à une zone non interconnectée au réseau métropolitain continental de transport d'électricité.
+
+9. Dans le cas d'une bonification prévue par le VIII de l'article 3-7-3, de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, le véhicule ne vérifie pas, au moment de l'achèvement de l'opération, la condition mentionnée au 3° de l'article D. 251-1 du code de l'énergie, un coût d'acquisition inférieur ou égal à 47 000 euros toutes taxes comprises (incluant le cas échéant le coût d'acquisition ou de location de la batterie) et une masse en ordre de marche inférieure à 2 400 kg.
 
 Les vérifications sont effectuées au lieu, désigné par le bénéficiaire, de disponibilité des pièces nécessaires au contrôle.
 
@@ -2044,12 +2096,4 @@ L'existence d'au moins un écart sur les véhicules contrôlés ou l'absence sur
 
 NOTA :
 
-Conformément au I de l'article 4 de l'arrêté du 6 septembre 2024 (NOR : ECOR2416035A), ces dispositions s'appliquent aux opérations engagées à compter du 1er novembre 2024. Les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 31 octobre 2024, achevées au plus tard le 31 décembre 2026 et incluses dans une liste transmise, au plus tard le 30 novembre 2024, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
-
-Conformément au II dudit article, et par dérogation aux dispositions dudit I, s'agissant des bâtiments relevant de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis et pour lesquels une assemblée générale des copropriétaires réunie avant le 1er janvier 2025 a décidé de travaux relevant de la fiche BAR-TH-145 s'appliquent aux opérations engagées à compter du 1er mars 2025. Dans ces cas, le demandeur de certificats archive une copie du procès-verbal de cette assemblée générale des copropriétaires.
-
-Dans ces cas, les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 28 février 2025, achevées au plus tard le 30 avril 2027 et incluses dans une liste transmise, au plus tard le 31 mars 2025, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
-
-Conformément au III dudit article, et par dérogation aux dispositions dudit I, s'agissant des bâtiments autres que ceux mentionnés au II du présent article et pour lesquels une demande de permis de construire ou une déclaration préalable de travaux a été déposée avant le 1er novembre 2024, la date du récépissé mentionné à l'article R. 423-2 du code de la construction et de l'habitation faisant foi, relative à des travaux relevant de la fiche BAR-TH-145, les dispositions de l'article 1er, des II et III de l'article 2 et de l'article 3 s'appliquent aux opérations engagées à compter du 1er mars 2025. Dans ces cas, le demandeur de certificats archive une copie du récépissé susmentionné.
-
-Dans ces cas, les dispositions de la fiche d'opération standardisée BAR-TH-145 s'appliquent aux opérations engagées jusqu'au 28 février 2025, achevées au plus tard le 30 avril 2027 et incluses dans une liste transmise, au plus tard le 31 mars 2025, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-145 " établi par la DGEC et mis à disposition sur le site Internet du ministère.
+Conformément à l'article 6 de l'arrêté du 27 juin 2025 (NOR : ECOR2518213A), ces dispositions sont applicables aux opérations engagées à compter du 1er juillet 2025.

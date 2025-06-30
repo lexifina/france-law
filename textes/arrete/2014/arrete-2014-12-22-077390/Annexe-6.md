@@ -86,6 +86,8 @@ Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR24353
 
 Conformément à l'article 1er de l'arrêté du 19 mai 2025 (NOR : ECOR2511968A), la fiche d'opération n° TRA-EQ-117 figurant en annexe A audit arrêté remplace la fiche portant la même référence. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=hcis8G3q3U3HS93S8_fGg50MAYBpOrokJOp3oZQzPBE=.
 
+Conformément à l'article 5 de l'arrêté du 27 juin 2025 (NOR : ECOR2518213A), la fiche d'opération n° TRA-EQ-117 figurant en annexe B audit arrêté remplace la fiche portant la même référence. Vous pouvez consulter la fiche à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=sH2XRqqlpQD3zstgDsxWJfpkgvuqALFfA-uBENCC3pA=.
+
 -Lubrifiant économiseur d’énergie pour la pêche professionnelle/ Fiche d’opération n° TRA-EQ-118
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
@@ -560,9 +562,9 @@ du ou des bateaux |
 
 Liens :
 
-Vous pouvez consulter l'intégralité de l’arrêté du 19 mai 2025 (NOR : ECOR2511968A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0123 du 27 mai 2025, texte 10, accessible à l’adresse suivante :
+Vous pouvez consulter l'intégralité de l'arrêté du 27 juin 2025 (NOR : ECOR2518213A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 150 du 29 juin 2025, texte n° 27, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=sH2XRqqlpQD3zstgDsxWJfpkgvuqALFfA-uBENCC3pA=.
 
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051661770?init=true&page=1&query=ECOR2511968A&searchField=ALL&tab_selection=all
+Vous pouvez consulter l'intégralité de l’arrêté du 19 mai 2025 (NOR : ECOR2511968A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0123 du 27 mai 2025, texte 10, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051661770?init=true&page=1&query=ECOR2511968A&searchField=ALL&tab_selection=all
 
 Vous pouvez consulter l'intégralité de l’arrêté du 20 décembre 2023 (NOR : ENER2333440A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28 décembre 2023, texte 100, accessible à l’adresse suivante : https :// www. legifrance. gouv. fr/ download/ pdf ? id = QRgTaQfM0balM0WO-DVjXuRduuVQURzFXR8cwSfIBHg =
 
@@ -642,4 +644,4 @@ https :// www. legifrance. gouv. fr/ download/ pdf ? id = FGBMw6bzzOGU6LHfYz6-OO
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 7 avril 2025 (NOR : ECOR2510035A), ces dispositions s'appliquent aux opérations d'économies d'énergie engagées, à compter du 1er juillet 2025.
+Conformément à l'article 6 de l'arrêté du 27 juin 2025 (NOR : ECOR2518213A), ces dispositions sont applicables aux opérations engagées à compter du 1er juillet 2025.
