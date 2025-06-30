@@ -2,7 +2,7 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 30 juin 2025 :
+Jusqu'au 31 octobre 2025 :
 
 Paris-Abidjan (Côte d'Ivoire).
 
@@ -60,9 +60,9 @@ Fort-de-France-Phillipsburg (Etat de Saint-Martin), y compris en continuation de
 
 Fort-de-France-Saint John's (Antigue et Barbude), y compris en continuation depuis Paris.
 
-Fort-de-France-Douglas Charles (La Dominique), y compris en continuation depuis Paris ;
+Fort-de-France-Douglas Charles (La Dominique), y compris en continuation depuis Paris.
 
-Fort-de-France-Castries (Sainte-Lucie), y compris en continuation depuis Paris ;
+Fort-de-France-Castries (Sainte-Lucie), y compris en continuation depuis Paris.
 
 Fort-de-France-Bridgetown (La Barbade), y compris en continuation depuis Paris.
 
