@@ -48,7 +48,7 @@ Moyens techniques
 
 3.1. Classification des aéronefs utilisés
 
-Composition de l'ensemble de la flotte dans ses diverses activités (types ou classes d'aéronef, immatriculation ou identification).
+Composition de l'ensemble de la flotte dans ses diverses activités (types ou classes d'aéronef, immatriculation).
 
 Pour chaque aéronef ayant un titre de navigabilité, nature du titre, durée de la validité de ce titre ou du document de navigabilité équivalent.
 
@@ -195,3 +195,7 @@ Elles ne concernent que les équipements installés pour répondre aux nécessit
 Elles ne concernent pas les équipements exigés pour l'attribution du document de navigabilité.
 
 Dans tous les cas, ces tolérances devront respecter les tolérances techniques définies par le constructeur.
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 17 février 2025, ces dispositions entrent en vigueur le 1er juillet 2025.

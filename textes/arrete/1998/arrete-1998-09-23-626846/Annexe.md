@@ -1,12 +1,12 @@
 # Article Annexe
 
-EXIGENCES ET COMPOSITION DU MANUEL POUR EFFECTUER DU REMORQUAGE DE PLANEUR EN ULM
+EXIGENCES PARTICULIÈRES POUR EFFECTUER DU REMORQUAGE DE PLANEUR EN ULM
 
-Pour obtenir une autorisation par le ministre chargé de l'aviation civile, l'organisme répond aux exigences suivantes :
+L'exploitant répond aux exigences suivantes :
 
 A.-Sélection des ULM remorqueurs
 
-L'organisme vérifie que les ULM qu'il a retenus pour effectuer les opérations de remorquage répondent aux conditions suivantes :
+L'exploitant vérifie que les ULM qu'il a retenus pour effectuer les opérations de remorquage répondent aux conditions suivantes :
 
 -le dossier d'utilisation de l'ULM prévoit l'activité de remorquage, avec les limitations associées (masse maximale des planeurs remorqués en particulier) ;
 
@@ -22,7 +22,7 @@ L'entretien des aéronefs doit être effectué conformément à un programme d'e
 
 -toute préconisation sur l'entretien du moteur, des éléments spécifiques liés au remorquage (crochets, enrouleur, câble...).
 
-Ce programme est établi sous l'entière responsabilité de l'organisme. Il n'est pas soumis à l'acceptation de l'autorité.
+Ce programme est établi sous la responsabilité de l'organisme effectuant l'entretien. Toutefois, le titulaire de la carte d'identification de l'ULM reste responsable de la conformité de l'entretien au dossier d'utilisation. Il n'est pas soumis à l'acceptation de l'autorité.
 
 C.-Pilotes remorqueurs
 
@@ -32,13 +32,13 @@ Les pilotes remorqueurs doivent répondre aux conditions suivantes :
 
 -être titulaire du brevet de pilote de planeur ;
 
--avoir effectué en qualité de pilote commandant de bord au minimum 50 heures en planeur et satisfaire à un contrôle en vol sur ULM, préalablement à l'entrée en formation remorquage planeur, effectué par un instructeur désigné par l'organisme ;
+-avoir effectué en qualité de pilote commandant de bord au minimum 50 heures en planeur et satisfaire à un contrôle en vol sur ULM, préalablement à l'entrée en formation remorquage planeur, effectué par un instructeur désigné par l'exploitant ;
 
--avoir suivi une formation minimale conforme au programme décrit dans le paragraphe D de la présente annexe. Le programme de formation fixe notamment les objectifs de compétence correspondant aux particularités du remorquage de planeur en ULM. La formation en vol est dispensée par un pilote détenant à la fois une qualification d'instructeur de pilote d'ULM de la classe multiaxe, la mention de l'aptitude au remorquage planeur sur la licence de pilote d'ULM et une qualification d'instructeur de pilote de planeur. Les pilotes ayant suivi une formation particulière au remorquage de planeur conformément au paragraphe 2.7.3 de l'arrêté du 31 juillet 1981 visé suivent une formation adaptée aux spécificités du remorquage en ULM dont les modalités sont fixées par l'organisme. A l'issue de la formation, l'instructeur habilité délivre une attestation d'aptitude au remorquage de planeurs qui sera reportée sur la licence de pilote d'ULM sous la forme d'une autorisation additionnelle, dans les conditions prévues au 4.5.2.4 de l'arrêté du 31 juillet 1981 visé ;
+-avoir suivi une formation minimale conforme au programme décrit dans le paragraphe D de la présente annexe. Le programme de formation fixe notamment les objectifs de compétence correspondant aux particularités du remorquage de planeur en ULM. La formation en vol est dispensée par un pilote détenant à la fois une qualification d'instructeur de pilote d'ULM de la classe multiaxe, la mention de l'aptitude au remorquage planeur sur la licence de pilote d'ULM et une qualification d'instructeur de pilote de planeur. Les pilotes ayant suivi une formation particulière au remorquage de planeur conformément au paragraphe 2.7.3 de l'arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants non professionnels de l'aéronautique civile (personnel de conduite des aéronefs) suivent une formation adaptée aux spécificités du remorquage en ULM dont les modalités sont fixées par l'exploitant. A l'issue de la formation, l'instructeur habilité délivre une attestation d'aptitude au remorquage de planeurs qui sera reportée sur la licence de pilote d'ULM sous la forme d'une autorisation additionnelle, dans les conditions prévues au 4.5.2.4 de l'arrêté du 31 juillet 1981 précité ;
 
--suivre un maintien des compétences décrit et mis en place par l'organisme.
+-suivre un maintien des compétences décrit et mis en place par l'exploitant.
 
-L'organisme met en place un dispositif interne lui permettant d'effectuer le suivi des heures de vol pour la formation initiale et le maintien des compétences.
+L'exploitant met en place un dispositif interne lui permettant d'effectuer le suivi des heures de vol pour la formation initiale et le maintien des compétences.
 
 D.-Formation au remorquage de planeur
 
@@ -158,17 +158,17 @@ Vol de convoyage.
 
 E.-Procédures d'utilisation
 
-L'organisme fournit au personnel concerné l'ensemble des instructions, consignes et informations nécessaires à la conduite de l'activité de remorquage en toute sécurité.
+L'exploitant fournit au personnel concerné l'ensemble des instructions, consignes et informations nécessaires à la conduite de l'activité de remorquage en toute sécurité.
 
-En particulier, l'organisme s'assure que les ULM sont aptes au vol, qu'ils ont une carte d'identification en état de validité, et qu'ils sont utilisés conformément aux procédures normales, aux procédures d'urgence et aux limitations de leur dossier d'utilisation.
+En particulier, l'exploitant s'assure que les ULM sont aptes au vol, qu'ils ont une carte d'identification en état de validité, et qu'ils sont utilisés conformément aux procédures normales, aux procédures d'urgence et aux limitations de leur dossier d'utilisation.
 
 F.-Manuel pour effectuer du remorquage de planeurs par des ULM
 
-L'organisme fournit à la DSAC un manuel comprenant au minimum les informations suivantes :
+Le manuel d'activité établi par l'exploitant contient en particulier les informations suivantes :
 
-1. Description de l'organisme
+1. Description de l'exploitant
 
-Organisation interne (structure de l'organisme, organisation s'il existe plusieurs bases d'utilisation, dirigeant et délégation de responsabilité).
+Organisation interne (structure de l'exploitant, organisation s'il existe plusieurs bases d'utilisation, dirigeant et délégation de responsabilité).
 
 Moyens humains (fonctions nécessaires au niveau des personnels administratifs, des pilotes et des personnels chargés de l'entretien).
 
@@ -184,9 +184,9 @@ Une copie de l'attestation de conformité aux conditions techniques complémenta
 
 3. Pilotes remorqueurs
 
-Compétences minimales exigées pour les pilotes remorqueurs par l'organisme.
+Compétences minimales exigées pour les pilotes remorqueurs par l'exploitant.
 
-Compétences minimales exigées pour les pilotes formateurs au remorquage de planeurs par l'organisme.
+Compétences minimales exigées pour les pilotes formateurs au remorquage de planeurs par l'exploitant.
 
 Programme de formation au remorquage.
 
@@ -197,3 +197,7 @@ Programme de maintien des compétences.
 Ensemble des instructions, consignes et informations nécessaires à la conduite de l'activité de remorquage en toute sécurité.
 
 Toute limitation locale (aérologie par exemple).
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 17 février 2025, ces dispositions entrent en vigueur le 1er juillet 2025.

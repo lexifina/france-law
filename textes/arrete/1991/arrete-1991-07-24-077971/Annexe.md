@@ -34,7 +34,7 @@ Ballon captif. Aérostat, non entraîné par un organe moteur dont la hauteur d'
 
 Dirigeable. Aérostat entraîné par un ou plusieurs organes moteurs.
 
-Aéronefs français : Aéronefs inscrits au registre d'immatriculation français, aéronefs portant les marques provisoires prévues par l'article D. 6111-13 du code des transports, et U.L.M. identifiés en France au sens de la convention internationale susvisée.
+Aéronefs français : Aéronefs inscrits au registre d'immatriculation français, aéronefs portant les marques provisoires prévues par l'article D. 6111-13 du code des transports.
 
 Aéronef léger : Avion ou giravion ne répondant pas à la définition des aéronefs lourds.
 
@@ -216,7 +216,7 @@ Cette disposition ne s'applique pas aux cas de la montre et de la balise de loca
 
 2.1.4.
 
-Les aéronefs pour lesquels aucun document de navigabilité n'est exigé, notamment les U.L.M., peuvent être utilisés sans autre équipement que :
+Les aéronefs pour lesquels aucun document de navigabilité n'est exigé peuvent être utilisés sans autre équipement que :
 
 - ceux qui sont nécessaires à leur conduite en sécurité, en particulier ceux exigés conformément aux paragraphes 2.4, 2.7.1, 2.8 et 2.10,
 
@@ -628,7 +628,7 @@ Tout avion atterrissant ou décollant sur une altisurface doit contenir le maté
 
 2.11.1. Généralités
 
-L'emport d'une balise de détresse (ELT ou PLB) est obligatoire dans les conditions prévues aux paragraphes 2.11.2 et suivants, pour tout avion et tout hélicoptère, à l'exception des CNRA, CDNR, CNRAC, CNSK et ULM, des aéronefs évoluant dans la circulation d'aérodrome, ainsi que des aéronefs utilisés pour la voltige aérienne lors des trajets entre un aérodrome et un axe de voltige porté à la connaissance des usagers aériens par la voie de l'information aéronautique et situé à moins de 25 NM de l'aérodrome, en vue d'y pratiquer la voltige aérienne, et lors des évolutions de voltige sur cet axe.
+L'emport d'une balise de détresse (ELT ou PLB) est obligatoire dans les conditions prévues aux paragraphes 2.11.2 et suivants, pour tout avion et tout hélicoptère, à l'exception des CNRA, CDNR, CNRAC et CNSK, des aéronefs évoluant dans la circulation d'aérodrome, ainsi que des aéronefs utilisés pour la voltige aérienne lors des trajets entre un aérodrome et un axe de voltige porté à la connaissance des usagers aériens par la voie de l'information aéronautique et situé à moins de 25 NM de l'aérodrome, en vue d'y pratiquer la voltige aérienne, et lors des évolutions de voltige sur cet axe.
 
 2.11.2. Avions et hélicoptères autres que ceux visés au 2.11.3.
 
@@ -775,8 +775,6 @@ Lorsque les navigants auxquels s'adresse cette formation n'ont pas subi lors de 
 a) Les organismes assurant la formation aux activités particulières doivent déposer un dossier de référence conforme à l'annexe II du présent arrêté. Ce dépôt vaut agrément pour assurer la formation qui y est décrite.
 
 b) Les instructeurs chargés de la formation en vol des personnels navigants aux activités particulières doivent être titulaires des qualifications requises pour dispenser l'instruction en vol relative à la licence exigée du personnel navigant en formation.
-
-Dans le cas des U.L.M., ils doivent de plus avoir été habilités à dispenser ces formations par un organisme reconnu compétent en matière de formation d'instructeurs de pilote d'U.L.M., et doivent se conformer aux dispositions arrêtées par ces organismes pour dispenser et sanctionner ces formations.
 
 c) Le ministre chargé de l'aviation civile peut notifier à l'organisme le retrait de l'agrément obtenu au titre du présent paragraphe, notamment s'il constate :
 
@@ -1108,7 +1106,7 @@ En aucun cas ces quantités ne doivent être inférieures à celles nécessaires
 
 - et poursuivre le vol au régime de croisière économique :
 
-- en vol V.F.R. de jour pendant vingt minutes, excepté les U.L.M. et les aérostats ;
+- en vol V.F.R. de jour pendant vingt minutes, excepté les aérostats ;
 
 - en vol I.F.R. et V.F.R. de nuit, pendant quarante-cinq minutes, quel que soit le type d'aéronef.
 
@@ -1208,17 +1206,11 @@ Pour l'application de ce paragraphe, tous les aéronefs autres que les avions so
 
 Les aéronefs exemptés de l'obligation de posséder un certificat ou un laissez-passer de limitation de nuisances en raison de leur utilisation pour les activités de voltige aérienne, de travail agricole, de lutte contre l'incendie ou de transport de charge à l'élingue ne peuvent être utilisés que pour ces activités ou pour l'entraînement à ces activités.
 
-5.10.6. Parachutes de sauvetage à bord des aéronefs
+5.10.6. Parachutes de sauvetage à bord des aéronefs.
 
 Lors d'un vol de planeur non équipé d'un dispositif motopropulseur, d'un vol acrobatique, ou d'un vol de largage de fret ou de parachutistes depuis un aérodyne, tout occupant de l'aéronef doit être équipé d'un parachute de sauvetage de type approuvé.
 
-Cette disposition ne s'applique pas :
-
-- aux aéronefs ultra-légers motorisés (U.L.M.) équipés d'un parachute ;
-
-- aux parachutes motorisés ;
-
-- aux vols de largage de fret à basse hauteur, dans le cas où l'arrimeur-largueur est équipé d'une sangle de retenue en lieu et place du parachute.
+Cette disposition ne s'applique pas aux vols de largage de fret à basse hauteur, dans le cas où l'arrimeur-largueur est équipé d'une sangle de retenue en lieu et place du parachute.
 
 Toutefois, à bord des hélicoptères, lors d'un vol de largage de parachutistes ou de fret, si le pilote est installé sur un siège où la place du parachute n'est pas prévue, que ce siège est équipé d'une ceinture de sécurité et éventuellement d'un harnais, conformément au paragraphe 2.4 du présent arrêté, le pilote peut ne pas être équipé d'un parachute de sauvetage. Dans ce cas, il doit conserver la ceinture de sécurité et le harnais attachés pendant toute la durée du vol.
 
@@ -1254,7 +1246,7 @@ Chapitre VI - DOCUMENTATION
 
 6.1.1.1. Pour tout vol :
 
-a) hormis le cas des planeurs et des U.L.M., la documentation à jour fixant les conditions et limites d'utilisation de l'aéronef, notamment le manuel de vol ou le document équivalent et la fiche de pesée ;
+a) hormis le cas des planeurs, la documentation à jour fixant les conditions et limites d'utilisation de l'aéronef, notamment le manuel de vol ou le document équivalent et la fiche de pesée ;
 
 b) les consignes relatives aux éventuelles utilisations particulières, aux opérations de secours et à l'utilisation des équipements de secours ;
 
@@ -1262,7 +1254,7 @@ c) le plan de vol de circulation aérienne, lorsqu'il est établi ;
 
 d) sauf pour les vols restant dans la circulation d'aérodrome, les cartes appropriées à la route envisagée et à toute autre route de déroutement.
 
-6.1.1.2. Pour tout vol autre qu'en U.L.M., pour lequel l'aérodrome de décollage et d'atterrissage sont différents :
+6.1.1.2. Pour tout vol pour lequel l'aérodrome de décollage et d'atterrissage sont différents :
 
 a) le certificat d'immatriculation ou le document équivalent ;
 
@@ -1276,13 +1268,7 @@ e) les licences, qualifications, autorisations techniques et carnets de vol (si 
 
 f) le carnet de route. Toutefois l'emport de ce document n'est pas obligatoire sous réserve du respect des dispositions prévues au paragraphe 6.2.
 
-6.1.1.3. Pour tout vol en U.L.M., pour lequel les terrains de décollage et d'atterrissage sont différents :
-
-a) La carte d'identification portant une date de validité ou la carte d'identification accompagnée de l'accusé réception de la déclaration du postulant indiquant que son ULM est apte au vol ;
-
-b) la licence du pilote et si nécessaire la déclaration de niveau de compétence pour la pratique des activités particulières ;
-
-c) la licence de station d'aéronef exigée.
+6.1.1.3. (Abrogé).
 
 6.1.1.4. Pour tout vol d'un aéronef français dans un pays étranger :
 
@@ -1304,7 +1290,7 @@ Les dérogations accordées à cet effet ou leurs copies.
 
 6.2.1. Carnet de route
 
-6.2.1.1. Les exigences du paragraphe 6.2.1 ne concernent pas les U.L.M.
+6.2.1.1. (Abrogé).
 
 6.2.1.2. Tout aéronef doit être doté d'un carnet de route dont la forme est acceptée par les services compétents de l'Etat d'immatriculation de l'aéronef.
 
@@ -1350,7 +1336,7 @@ La forme et le contenu de ces documents, ainsi que les méthodes pour les tenir 
 
 CHAPITRE VII - Entretien
 
-Les exigences de ce chapitre VII ne s'appliquent ni aux ULM. ni aux aéronefs redevables de l'annexe I (partie M-FR) de l'arrêté du 8 juillet 2024 relatif au maintien de la navigabilité des aéronefs civils immatriculés en France, exclus du champ de compétence de l'Agence de l'Union européenne pour la sécurité aérienne, et des produits, pièces et équipements aéronautiques destinés à y être installés, et relatif à l'agrément des organismes et des personnels participant à ces tâches.
+Les exigences de ce chapitre VII ne s'appliquent pas aux aéronefs redevables de l'annexe I (partie M-FR) de l'arrêté du 8 juillet 2024 relatif au maintien de la navigabilité des aéronefs civils immatriculés en France, exclus du champ de compétence de l'Agence de l'Union européenne pour la sécurité aérienne, et des produits, pièces et équipements aéronautiques destinés à y être installés, et relatif à l'agrément des organismes et des personnels participant à ces tâches.
 
 7.1. Responsabilités
 
@@ -1642,4 +1628,4 @@ c) Le ministre chargé de l'aviation civile peut notifier à l'organisme le retr
 
 NOTA :
 
-Conformément à l’article 15 de l’arrêté du 8 juillet 2024 (NOR : TREA2417554A), ces dispositions entrent en vigueur le 1er octobre 2024.
+Conformément à l'article 9 de l'arrêté du 17 février 2025, ces dispositions entrent en vigueur le 1er juillet 2025.
