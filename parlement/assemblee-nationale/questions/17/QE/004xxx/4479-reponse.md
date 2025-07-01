@@ -1,0 +1,9 @@
+# Réponse à la question n° 4479
+
+- Question : [4479](4479.md) — Question n° 4479 — Régime dérogatoire - Suisse
+
+## Réponse
+
+*JO du 2025-07-01, page 5913*
+
+L'arrangement administratif signé en 2009 entre la France et la Suisse, qui permettait aux groupes internationaux ayant leur siège dans l'Union européenne ou en Suisse d'exempter d'affiliation à la sécurité sociale française, pour une durée de six ans, les salariés ayant une carrière internationale employés par une filiale suisse et envoyés travailler en France, a été dénoncé par les autorités françaises. Cet accord dérogeait aux principes européens de coordination des systèmes de sécurité sociale, notamment le principe de la lex loci laboris, qui impose l'application de la législation de sécurité sociale de l'Etat d'activité, ainsi qu'aux règles du détachement, lesquelles autorisent l'envoi d'un salarié en mission dans un autre Etat membre de l'UE/EEE/Suisse en maintenant son affiliation au système de sécurité sociale de l'Etat d'origine dans une limite de deux ans. La dénonciation est intervenue en fin d'année 2024 à la suite des recommandations du haut conseil de la protection sociale de réévaluer les régimes dérogatoires relatifs aux mobilités internationales intragroupes, formulées dans son rapport sur l'avenir du recouvrement social de février 2023, conformément au rapport conjoint de l'Inspection générale des affaires sociales et de l'Inspection générale des finances d'octobre 2024, dont la nature est confidentielle. Cette dénonciation a pris effet au 1er janvier 2025, date à partir de laquelle le dispositif ne peut plus être utilisé. Les salariés doivent désormais soit être détachés conformément aux règlements européens de coordination des systèmes de sécurité sociale, soit être affiliés à la sécurité sociale française.
