@@ -272,9 +272,9 @@ Cet écrit est le résultat d'une demande éclairée du salarié, qui doit avoir
 
 XII. 2.1.8. Cotisations
 
-Pour les salariés relevant du régime général de la sécurité sociale, les cotisations frais de santé s'élèvent à 0,62 % du plafond mensuel de la sécurité sociale au titre de la couverture du seul salarié.
+Pour les salariés relevant du régime général de la sécurité sociale, les cotisations frais de santé s'élèvent à 0,74 % du plafond mensuel de la sécurité sociale au titre de la couverture du seul salarié.
 
-Pour les salariés relevant du régime local d'Alsace-Moselle, le montant de la cotisation frais de santé est fixé à 0,44 % du plafond mensuel de la sécurité sociale au titre de la couverture du seul salarié.
+Pour les salariés relevant du régime local d'Alsace-Moselle, le montant de la cotisation frais de santé est fixé à 0,53 % du plafond mensuel de la sécurité sociale au titre de la couverture du seul salarié.
 
 Cette cotisation est répartie à raison de 50 % à la charge de l'employeur et 50 % à la charge du salarié.
 
