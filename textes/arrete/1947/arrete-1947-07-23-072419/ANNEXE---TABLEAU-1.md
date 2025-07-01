@@ -81,3 +81,9 @@ Travaux exécutés dans les laboratoires où sont utilisés des animaux d'expér
 Les travaux d'usinage comportant un contact permanent avec des fluides de coupe.
 
 Les travaux effectués dans les égouts.
+
+Travaux nécessaires à l'exploitation des mines, des carrières et de leurs dépendances au cours desquels les travailleurs sont en contact avec des matières et produits salissants ou exposés à des poussières ou des boues.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 21 novembre 2024 (NOR : TEMT2224663A), ces dispositions entrent en vigueur le 1er juillet 2025.
