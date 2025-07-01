@@ -1,0 +1,9 @@
+# Réponse à la question n° 5785
+
+- Question : [5785](5785.md) — Question n° 5785 — Financement des Transitions pro dans les outre-mer et en Corse
+
+## Réponse
+
+*JO du 2025-07-01, page 5915*
+
+Le modèle de financement des associations Transitions Pro, tel qu'encadré par le code du travail, repose sur une clé de répartition nationale établie par France Compétences. Celle-ci est principalement fondée sur la masse salariale régionale, évaluée à partir des données issues de la Déclaration sociale nominative (DSN). Ce mode de calcul, homogène à l'échelle nationale, permet d'assurer une équité globale dans la répartition des ressources. Toutefois, le Gouvernement est conscient que ce mécanisme peut, dans certains cas, ne pas refléter avec suffisamment de précision les réalités économiques et sociales propres aux territoires d'outre-mer et à la Corse. Afin de mieux prendre en compte ces spécificités, des ajustements méthodologiques peuvent être mis en œuvre, notamment dans les territoires ultramarins où les données issues de la DSN sont parfois partielles ou incomplètes. Par exemple, pour Mayotte, il est tenu compte des données de la caisse de sécurité sociale de Mayotte, plus complètes que celles de la DSN. Dans un contexte budgétaire particulièrement contraint, la dotation globale allouée aux associations Transitions Pro a été maintenue en 2025 à un niveau équivalent à celui de l'année précédente. Le Gouvernement reste pleinement mobilisé pour répondre aux enjeux spécifiques des zones non interconnectées, des départements et régions d'outre-mer et de la Corse en matière de formation et de reconversion professionnelle. Il poursuivra, en lien avec France Compétences et les acteurs territoriaux, les travaux visant à adapter les dispositifs existants aux particularités de ces territoires, dans une logique d'équité territoriale, de développement des compétences locales et de soutien à l'emploi durable.
