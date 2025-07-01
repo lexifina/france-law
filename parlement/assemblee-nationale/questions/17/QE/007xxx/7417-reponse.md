@@ -1,0 +1,9 @@
+# Réponse à la question n° 7417
+
+- Question : [7417](7417.md) — Question n° 7417 — Construction d'un nouveau commissariat à Calais
+
+## Réponse
+
+*JO du 2025-07-01, page 5826*
+
+Les attentes des policiers en matière de conditions de travail et de qualité de leur cadre de travail sont fortes et légitimes. Le ministre d'État, ministre de l'intérieur, en a fait une priorité. Le parc immobilier de la police nationale en particulier constitue un sujet de préoccupation important. Les efforts engagés de longue date pour améliorer les conditions de travail et d'accueil du public se sont poursuivis en 2024 en matière de construction ou de rénovation, de maintenance lourde ou d'aménagement et d'entretien. Les crédits adoptés par le Parlement dans la loi de finances pour 2025 permettent de poursuivre les principales opérations d'investissement immobilier engagées par le ministère de l'intérieur en faveur de la police nationale et de lancer certaines grandes opérations. La situation budgétaire contrainte ne permet toutefois pas de répondre dans l'immédiat à tous les besoins. S'agissant de la construction d'un nouveau commissariat de police à Calais, les contraintes financières qui pèsent sur le budget de la police nationale n'ont pas permis de retenir, au titre de l'année 2025, cette nouvelle opération, estimée à plus de 31 millions d'euros (hors foncier, marché de maîtrise d'œuvre et études préalables). Cette question sera de nouveau examinée avec la plus grande attention à l'occasion de la programmation 2026 des investissements immobiliers de la police nationale. Quant aux forces mobiles, qui jouent un rôle effectivement essentiel dans la lutte contre l'immigration clandestine dans le Calaisis, il convient de souligner que la construction à Calais d'un cantonnement pour les compagnies républicaines de sécurité (CRS), qui permettrait d'accueillir 330 agents, est à l'étude dans le cadre des discussions franco-britanniques dites « Sandhurst 2 ».
