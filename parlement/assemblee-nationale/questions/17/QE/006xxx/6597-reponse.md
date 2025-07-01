@@ -1,0 +1,9 @@
+# Réponse à la question n° 6597
+
+- Question : [6597](6597.md) — Question n° 6597 — Application de la loi PFAS aux membranes textiles techniques industrielles
+
+## Réponse
+
+*JO du 2025-07-01, page 5895*
+
+L'article 1er de la loi du 27 février 2025 relative à l'interdiction progressive des substances per- et polyfluoroalkylées (PFAS), prévoit l'interdiction de ces substances dans les textiles selon deux échéances. La première échéance, fixée au 1er janvier 2026 interdit la fabrication, l'importation, l'exportation et la mise sur le marché à titre onéreux ou gratuit de tout produit textile d'habillement, toute chaussure et tous agents imperméabilisants de produits textiles d'habillement et de chaussures destinés aux consommateurs contenant des substances PFAS.Cette échéance ne concerne donc pas les textiles techniques à usage industriel. La deuxième échéance, fixée au 1er janvier 2030 interdit la fabrication, l'importation, l'exportation et la mise sur le marché à titre onéreux ou gratuit de tout produit textile contenant des substances PFAS. A chacune de ces interdictions sont associées des exemptions. Ainsi, au 1er janvier 2026, seront exemptés les textiles d'habillement et les chaussures qui sont conçus pour la protection et la sécurité des personnes. Et au 1er janvier 2030, seront exemptés les produits textiles nécessaires à des utilisations essentielles, les produits textilescontribuant à l'exercice de la souveraineté nationale et pour lesquels il n'existe pas de solution de substitution, ainsi que les textiles techniques à usage industriel. Un décret d'application est en cours d'élaboration qui définira la notion de « textile » et précisera la liste des exemptions prévues. Ce décret fera l'objet d'une consultation des parties prenantes qui pourront faire des propositions sur le contenu du décret liées aux spécificités de leurs secteurs d'activités.
