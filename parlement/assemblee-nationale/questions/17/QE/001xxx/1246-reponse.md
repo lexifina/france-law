@@ -1,0 +1,9 @@
+# Réponse à la question n° 1246
+
+- Question : [1246](1246.md) — Question n° 1246 — Quotas de logements sociaux dans les logements saisonniers
+
+## Réponse
+
+*JO du 2025-07-01, page 5833*
+
+La servitude de mixité sociale est un outil prévu par le Code de la construction et de l'habitation, notamment à son article L. 302-9-1-2, dans le cadre de la politique de mixité sociale en matière de logement. Elle vise principalement à favoriser la production de logements sociaux dans certaines communes où un déficit important a été constaté, notamment celles déclarées en état de carence au regard des objectifs de la loi SRU (Solidarité et Renouvellement Urbains). Concrètement, cette servitude impose que, dans les communes concernées, toute opération de construction d'immeubles collectifs comportant plus de 12 logements ou plus de 800 m2 de surface de plancher inclue au moins 30 % de logements locatifs sociaux, tels que définis à l'article L. 302-5 du Code de la construction et de l'habitation. Cependant, il est important de souligner une distinction essentielle : cette servitude s'applique uniquement aux logements familiaux, c'est-à-dire aux logements destinés à l'habitation durable de ménages. Elle n'inclut pas les produits d'hébergement ni les logements-foyers. Par conséquent, dans le cas précis évoqué – à savoir la construction d'immeubles destinés à loger des saisonniers par des entreprises du secteur touristique – la servitude de mixité sociale ne trouve pas à s'appliquer, dès lors que les logements ne sont pas destinés à un usage d'habitation principale au sens de la réglementation. Cela étant, une vigilance particulière doit être portée sur le cadre local : certaines communes ou EPCI peuvent avoir adopté, dans leur plan local d'urbanisme, des règles plus exigeantes en matière de production de logements sociaux. Dans ce cas, ces règles locales prévalent sur les dispositions générales du Code de la construction et de l'habitation.
