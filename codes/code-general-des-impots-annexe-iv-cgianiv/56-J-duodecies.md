@@ -42,8 +42,4 @@ b) En cas de marquage au laser, la description du dessin de l'empreinte du poin�
 
 c) Le respect des règles de marque ;
 
-d) La tenue d'une comptabilité matières mentionnant le nombre et le poids des ouvrages essayés, détaillant les ouvrages marqués par type de métal, précisant la modalité d'attestation de la garantie du titre parmi celles prévues à l'article 523 du code général des impôts et recensant les ouvrages reconnus aux titres non légaux.
-
-NOTA :
-
-Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures applicables à la date de leur présentation.
+d) La tenue d'une comptabilité matières mentionnant le nombre et le poids des ouvrages essayés, détaillant les ouvrages marqués par type de métal, précisant la modalité d'attestation de la garantie du titre parmi celles prévues à l'article L. 833-3 du code de commerce et recensant les ouvrages reconnus aux titres non légaux.
