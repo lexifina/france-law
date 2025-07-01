@@ -1,12 +1,6 @@
 # Article Annexe 1
 
-ANNEXES
-
-ANNEXE I
-
 EXIGENCES APPLICABLES AUX ORGANISMES DE CERTIFICATION DES DIAGNOSTIQUEURS ET PROCESSUS DE CERTIFICATION
-
-Les organismes de certification ainsi que leur personnel procédant à la certification des diagnostiqueurs doivent agir avec impartialité et n'avoir aucun lien de nature à porter atteinte à leur indépendance avec les organismes de formations dispensant les formations initiales mentionnés à l'article 5 du présent arrêté.
 
 1. Exigences applicables aux organismes de certification des diagnostiqueurs
 
@@ -50,7 +44,7 @@ Les exigences relatives aux examinateurs sont réputées acquises pour les exami
 
 1.3. Suspension ou retrait de l'accréditation des organismes de certification
 
-L'organisme certificateur tient informées, sur demande, les personnes physiques qu'il a certifiées du statut de son accréditation. En cas de suspension de son accréditation, il doit informer les personnes physiques pour lesquelles sa suspension peut remettre en cause la délivrance de leur prochaine certification, dans un délai maximal de quinze jours suivant la notification de sa suspension.
+L'organisme certificateur est contrôlé au minimum une fois tous les dix mois par l'instance d'accréditation. L'organisme certificateur tient informées, sur demande, les personnes physiques qu'il a certifiées du statut de son accréditation. En cas de suspension de son accréditation, il doit informer les personnes physiques pour lesquelles sa suspension peut remettre en cause la délivrance de leur prochaine certification, dans un délai maximal de quinze jours suivant la notification de sa suspension.
 
 Lorsque l'accréditation d'un organisme certificateur est suspendue, les certifications émises jusqu'à la date de suspension restent valides. L'organisme certificateur ne peut émettre de nouveaux certificats durant cette période.
 
@@ -61,6 +55,18 @@ Si, dans un délai de six mois, la suspension de l'accréditation n'est pas lev�
 Dans un délai maximal de deux ans, après nouvelle évaluation par l'instance nationale d'accréditation pour rétablir l'accréditation à la suite de la suspension, en cas d'avis défavorable, l'accréditation pourra être retirée.
 
 En cas de retrait d'accréditation, l'organisme certificateur le notifie aux services du ministre chargé de la construction dans un délai de trente jours.
+
+1.4. Indépendance et impartialité
+
+Les organismes de certification ainsi que leur personnel procédant à la certification des diagnostiqueurs doivent agir avec impartialité et n'avoir aucun lien de nature à porter atteinte à leur indépendance avec les organismes de formations dispensant les formations initiales mentionnés à l'article 5 du présent arrêté.
+
+Les organismes de certification des diagnostiqueurs transmettent en tant que de besoin à la demande des services du ministre chargé de la construction et de l'instance d'accréditation pour mener à bien ses contrôles, les informations suivantes, sur une période minimale de vingt-quatre mois :
+
+-les taux de réussite par session d'examen, par année et par organisme de formation ;
+
+-les sujets d'examen théorique par session et par organisme de formation ;
+
+-les résultats obtenus par les candidats, par session d'examen.
 
 2. Processus de certification des diagnostiqueurs
 
@@ -84,9 +90,13 @@ Dans le cadre d'une certification initiale, l'organisme de certification juge de
 
 2.2.2. Formation initiale
 
-Les personnes candidates à la certification lors d'une première demande de certification apportent la preuve qu'elles ont suivi avec succès une formation initiale d'une durée de 56 heures au minimum, adaptée au domaine du diagnostic de performance énergétique.
+Les personnes candidates à la certification apportent la preuve qu'elles ont suivi avec succès une formation initiale d'une durée de 56 heures au minimum, adaptée au domaine du diagnostic de performance énergétique au cours des dix-huit derniers mois.
 
 Pour les candidats à la certification avec mention, la formation est complétée d'un module d'une durée de 21 heures au minimum portant spécifiquement sur le niveau de certification avec mention.
+
+La preuve du suivi de la formation initiale est apportée par une attestation délivrée conformément au 2.4 de l'annexe II du présent arrêté, à l'issue de la formation, par un organisme de formation certifié en application de l'article 5 du présent arrêté.
+
+Un candidat à la certification sur le périmètre de la mention, disposant d'une certification sans mention valide, suit a minima la formation initiale portant sur le programme de cette mention.
 
 La formation initiale comprend :
 
@@ -136,6 +146,198 @@ L'examen théorique pour la certification avec mention nécessite la réalisatio
 
 Les deux modules sont composés d'un questionnaire à choix multiples permettant d'évaluer le candidat sur les connaissances définies au 2 de l'annexe III du présent arrêté. Le questionnaire est élaboré à partir d'un référentiel national de questions géré et maintenu par les services du ministre chargé de la construction.
 
+L'examen est constitué d'une sélection de questions vérifiant les exigences cumulatives suivantes :
+
+-les questions sont issues du référentiel national ;
+
+-la sélection de questions respecte la répartition du tableau suivant ;
+
+-les questions sont générées de manière aléatoire, au moment de l'examen, pour chaque candidat.
+
+|
+
+Nombre de questions pour l'examen
+
+sans mention |
+
+Nombre de questions pour l'examen
+
+avec mention |
+
+Facile |
+
+Moyenne |
+
+Difficile |
+
+Facile |
+
+Moyenne |
+
+Difficile |
+
+Les généralités sur le bâtiment |
+
+3 |
+
+7 |
+
+5 |
+
+1 |
+
+4 |
+
+2 |
+
+dont bâti ancien |
+
+0 |
+
+2 |
+
+1 |
+
+0 |
+
+1 |
+
+1 |
+
+La thermique du bâtiment |
+
+3 |
+
+7 |
+
+5 |
+
+1 |
+
+2 |
+
+2 |
+
+dont bâti ancien |
+
+0 |
+
+2 |
+
+1 |
+
+0 |
+
+1 |
+
+0 |
+
+L'enveloppe du bâtiment |
+
+3 |
+
+7 |
+
+5 |
+
+1 |
+
+4 |
+
+3 |
+
+dont bâti ancien |
+
+0 |
+
+2 |
+
+1 |
+
+0 |
+
+1 |
+
+1 |
+
+Les systèmes |
+
+4 |
+
+10 |
+
+6 |
+
+2 |
+
+5 |
+
+3 |
+
+dont bâti ancien |
+
+0 |
+
+3 |
+
+2 |
+
+0 |
+
+2 |
+
+0 |
+
+Les textes réglementaires |
+
+2 |
+
+5 |
+
+3 |
+
+1 |
+
+2 |
+
+2 |
+
+dont bâti ancien |
+
+0 |
+
+1 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+Total |
+
+15 |
+
+36 |
+
+24 |
+
+6 |
+
+17 |
+
+12 |
+
+|
+
+75 |
+
+35 |
+
+Après notification de la décision de recevabilité favorable de la demande d'accréditation par l'instance d'accréditation, l'organisme certificateur candidat à l'accréditation peut accéder aux questions du référentiel national.
+
 Le module relatif à la certification sans mention dure 90 minutes en continu. Il est composé de 75 questions avec 4 choix par question et aborde tous les sujets concernés au 2 de l'annexe III. S'il répond correctement à plus de 75 % des questions, l'examen est validé.
 
 Le module relatif à l'extension de périmètre à la certification avec mention dure 45 minutes en continu. Il est composé de 35 questions avec 4 choix par question et aborde tous les sujets concernés au 2 de l'annexe III dans le périmètre de la mention. S'il répond correctement à plus de 75 % des questions, l'examen est validé.
@@ -156,6 +358,8 @@ Dans le cas de l'extension de périmètre à la certification avec mention, cett
 
 La décision en matière de certification est notifiée au candidat dans un délai maximum de deux mois après son évaluation, accompagnée, lorsqu'il a été constaté des écarts entre les compétences observées et les compétences attendues, d'un rapport écrit décrivant ces écarts.
 
+Le certificat ainsi délivré comporte, en première page un lien, au format QR code, permettant de vérifier la validité de la certification sur le site de l'annuaire des diagnostiqueurs constitué en vertu du 7° de l'article 4 du présent arrêté. Ce lien, au format QR code, est transmis par les services du ministre chargé de la construction.
+
 2.4. Formation continue
 
 2.4.1. Formation continue en milieu professionnel-tutorat
@@ -164,11 +368,11 @@ Le diagnostiqueur doit apporter la preuve à son organisme de certification qu'i
 
 La formation se déroule sur des missions identifiées par le diagnostiqueur.
 
-Cette formation en milieu professionnel est encadrée par un organisme de formation certifié qui organise le tutorat du diagnostiqueur par un tuteur certifié et expérimenté. L'organisme de formation s'assure que ce tuteur dispose d'une expérience de 5 ans en tant que diagnostiqueur dans le domaine du diagnostic de performance énergétique ou d'une expérience de 5 ans en tant que formateur professionnel dans le domaine du diagnostic énergétique. A l'issue de la formation, le tuteur rédige un bilan circonstancié des missions réalisées par le diagnostiqueur et l'organisme de formation certifié délivre l'attestation de suivi de formation en milieu professionnel au diagnostiqueur.
+Cette formation en milieu professionnel est encadrée par un organisme de formation certifié qui organise le tutorat du diagnostiqueur par un tuteur certifié et expérimenté. L'organisme de formation s'assure que ce tuteur dispose d'une expérience de 5 ans en tant que diagnostiqueur dans le domaine du diagnostic de performance énergétique sur la mention qu'il encadre ou d'une expérience de 5 ans en tant que formateur professionnel dans le domaine du diagnostic énergétique sur la mention qu'il encadre. A l'issue de la formation, le tuteur rédige un bilan circonstancié des missions réalisées par le diagnostiqueur et l'organisme de formation certifié délivre l'attestation de suivi de formation en milieu professionnel au diagnostiqueur conformément au 2.4 de l'annexe II du présent arrêté.
 
 2.4.2. Formation continue au cours du cycle
 
-Au cours du cycle de certification, le diagnostiqueur doit apporter la preuve qu'il a suivi une formation continue, incluant la réalisation d'un cas test de formation organisé par l'organisme de formation certifié. Ce cas test de formation consiste en la mise en situation d'un cas pratique permettant la réalisation d'un diagnostic, sur la base d'informations fournies par le biais de descriptifs, de documents justificatifs, de photographies, d'un dispositif de simulation d'un bâtiment ou de tout autre biais permettant d'avoir accès aux caractéristiques du logement.
+Au cours du cycle de certification, le diagnostiqueur doit apporter la preuve qu'il a suivi une formation continue, conformément au 2.4 de l'annexe II du présent arrêté, incluant la réalisation d'un cas test de formation organisé par l'organisme de formation certifié. Ce cas test de formation consiste en la mise en situation d'un cas pratique permettant la réalisation d'un diagnostic, sur la base d'informations fournies par le biais de descriptifs, de documents justificatifs, de photographies, d'un dispositif de simulation d'un bâtiment ou de tout autre biais permettant d'avoir accès aux caractéristiques du logement.
 
 Cette formation continue dure 7 heures par an lors de la deuxième, la troisième, la quatrième et la sixième année du cycle pour la certification sans mention et 7 heures supplémentaires par an lors de la deuxième et la cinquième année du cycle pour la certification avec mention.
 
@@ -186,6 +390,8 @@ Pendant le cycle de certification, l'organisme de certification procède :
 
 - à deux contrôles sur ouvrage après élaboration du diagnostic réalisés respectivement au cours de la troisième et la cinquième année du cycle de certification.
 
+Chaque contrôle sur ouvrage fait l'objet d'un récépissé de visite de contrôle signé par l'examinateur et le commanditaire du diagnostic concerné ou son représentant.
+
 Les organismes de certification peuvent déclencher tout type de contrôle en cas de résultats potentiellement anormaux dans les DPE réalisés par un diagnostiqueur.
 
 A chaque contrôle, l'organisme de certification vérifie que la personne certifiée se tient à jour des évolutions techniques, législatives et réglementaires, notamment en s'assurant qu'elle a suivi la formation continue et les modules de formation ou d'information supplémentaires imposés le cas échéant par les services du ministre chargé de la construction et que la personne certifiée est dûment assurée au sens du deuxième alinéa de l'article L. 271-6 du code de la construction et de l'habitation. En cas de non-respect de ces exigences, le certifié est suspendu jusqu'à régularisation.
@@ -202,7 +408,7 @@ Le contrôle documentaire est composé des opérations suivantes :
 
 - vérifier que la personne certifiée exerce réellement l'activité pour laquelle elle a obtenu la certification, au moyen de la fourniture par cette personne d'au moins cinq rapports de diagnostic sur les douze derniers mois ;
 
-- contrôler un échantillon d'au moins cinq rapports de diagnostic établis par la personne certifiée sur les douze derniers mois ; cet échantillon est sélectionné par l'organisme de certification parmi l'intégralité des rapports de diagnostic établis par le certifié sur la durée considérée et comporte au moins un rapport pour chacun des types de missions, quand ce type de mission a été réalisé. La conformité des rapports aux dispositions législatives, réglementaires et normatives est évaluée au regard de la grille de contrôle présente en annexe IV. En cas de non-conformité constatée sur la base de l'échantillon de diagnostics, les suites à donner sont déterminées au 2.5.5 de la présente annexe ;
+- contrôler un échantillon d'au moins cinq rapports de diagnostic établis par la personne certifiée sur les douze derniers mois ; cet échantillon est sélectionné par l'organisme de certification parmi l'intégralité des rapports de diagnostic établis par le certifié sur la durée considérée, en s'appuyant le cas échéant sur une analyse statistique, telle que mentionnée à l'article 4 du présent arrêté. Il comporte au moins un rapport pour chacun des types de missions, quand ce type de mission a été réalisé. La conformité des rapports aux dispositions législatives, réglementaires et normatives est évaluée au regard de la grille de contrôle présente en annexe IV. En cas de non-conformité constatée sur la base de l'échantillon de diagnostics, les suites à donner sont déterminées au 2.5.5 de la présente annexe ;
 
 - examiner l'état de suivi des réclamations et plaintes concernant la personne certifiée dans l'usage de sa certification, ainsi que, le cas échéant, les suites données aux résultats du contrôle précédent.
 
@@ -220,7 +426,7 @@ Le contrôle sur ouvrage après élaboration du diagnostic est réalisé en pré
 
 Ce contrôle doit permettre à l'organisme de certification de vérifier sur site, à la suite de la réalisation du diagnostic, la capacité du diagnostiqueur à réaliser un diagnostic. Pour ce faire et par le biais d'une comparaison entre le diagnostic réalisé par le diagnostiqueur et les observations faites lors du contrôle sur ouvrage, l'organisme de certification vérifie la conformité du diagnostic et de sa réalisation au regard de la grille de contrôle présente en annexe IV. En cas de non-conformité constatée, les suites à donner sont déterminées au 2.5.5 de la présente annexe.
 
-Le choix de la mission contrôlée est réalisé par l'organisme de certification parmi la liste de tous les rapports établis par le diagnostiqueur dans le mois précédant le contrôle et mentionnée à l'article 4 du présent arrêté. Dans le cas d'une certification avec mention, les organismes de certification procèdent, parmi les contrôles sur ouvrage après élaboration du diagnostic prévus au cours du cycle de certification, à un contrôle sur ouvrage dans le périmètre de la certification avec mention en priorisant les diagnostics sur les bâtiments d'habitation collectifs.
+Le choix de la mission contrôlée est réalisé par l'organisme de certification parmi la liste de tous les rapports établis par le diagnostiqueur dans le mois précédant le contrôle et mentionnée à l'article 4 du présent arrêté en s'appuyant le cas échéant sur une analyse statistique, telle que mentionnée à l'article 4 du présent arrêté. Dans le cas d'une certification avec mention, les organismes de certification procèdent, parmi les contrôles sur ouvrage après élaboration du diagnostic prévus au cours du cycle de certification, à un contrôle sur ouvrage dans le périmètre de la certification avec mention en priorisant les diagnostics sur les bâtiments d'habitation collectifs.
 
 L'organisme de certification contacte le client du diagnostiqueur concerné par le contrôle afin de l'organiser. En l'absence de réponse du client, l'organisme de certification choisit une autre mission jusqu'à réalisation du contrôle ; dans ces conditions les délais de réalisation du contrôle peuvent exceptionnellement être étendus.
 
@@ -240,7 +446,7 @@ Pour chaque type de contrôle (contrôle documentaire, contrôle sur ouvrage en 
 
 - écarts critiques.
 
-La catégorie d'écart est précisée pour chaque point à auditer dans les grilles de contrôles présentes en annexe IV. Si plusieurs écarts sont constatés par point audité, un seul écart est comptabilisé ; si un de ces écarts est un écart critique, c'est un écart critique qui sera reporté. Tous les écarts sont néanmoins reportés au diagnostiqueur. Pour le contrôle documentaire, dans le cas du contrôle de plusieurs rapports relevant d'un même type de mission, un écart critique sera reporté s'il est récurrent, dans le cas contraire un écart non-critique sera reporté.
+La catégorie d'écart est précisée pour chaque point à auditer dans les grilles de contrôles présentes en annexe IV. Si plusieurs écarts sont constatés par point audité, un seul écart est comptabilisé ; si un de ces écarts est un écart critique, c'est un écart critique qui sera reporté. Tous les écarts sont néanmoins reportés au diagnostiqueur. Pour le contrôle documentaire, dans le cas du contrôle de plusieurs rapports relevant d'un même type de mission, un écart critique sera reporté s'il est relevé au moins deux fois parmi les rapports audités. Dans le cas contraire un écart non-critique sera reporté.
 
 Les erreurs constatées dans le contrôle sont communiquées à la personne certifiée, sans que l'organisme de certification ait à engager sa responsabilité quant au contenu des rapports de diagnostic ayant fait l'objet du contrôle. L'intervention des contrôles ne modifie ni la nature ni l'étendue des responsabilités qui incombent à la personne certifiée quant au contenu des rapports de diagnostic qu'elle établit.
 
@@ -322,13 +528,13 @@ Niveau 1 |
 
 Maintien de la certification sous condition que, sous un mois suivant la notification des suites du contrôle, le diagnostiqueur justifie les écarts qu'il a commis lors du contrôle et soumette à l'organisme de certification les actions qu'il mettra en place à l'avenir pour éviter de répéter ces mêmes erreurs. |
 
-Suspension de la certification jusqu'à ce que le diagnostiqueur réalise 7 heures de formation. Il valide ensuite la réussite d'un examen « cas test » tel que défini au 2.5.4 de la présente annexe. Dans le cas où l'examen « cas test » n'est pas validé, il est appliqué des suites de niveau 3. |
+Suspension de la certification jusqu'à ce que le diagnostiqueur réalise 7 heures de formation. Il valide ensuite la réussite d'un examen cas test tel que défini au 2.5.4 de la présente annexe. Dans le cas où l'examen cas test n'est pas validé, il est appliqué des suites de niveau 3. |
 
 Niveau 2 |
 
-Maintien de la certification sous condition que, sous un mois suivant la notification des suites du contrôle, le diagnostiqueur réalise 3,5 heures de formation. Il valide ensuite la réussite d'un examen « cas test » tel que défini au 2.5.4. Dans le cas où l'examen « cas test » n'est pas validé, il est appliqué des suites de niveau 3. |
+Maintien de la certification sous condition que, sous un mois suivant la notification des suites du contrôle, le diagnostiqueur réalise 3,5 heures de formation. Il valide ensuite la réussite d'un examen cas test tel que défini au 2.5.4. Dans le cas où l'examen cas test n'est pas validé, il est appliqué des suites de niveau 3. |
 
-Suspension de la certification jusqu'à ce que le diagnostiqueur réalise 7 heures de formation. Il valide ensuite la réussite de deux examens « cas test » tel que définis au 2.5.4 de la présente annexe. Dans le cas où les deux examens « cas test » ne sont pas validés, il est appliqué des suites de niveau 3. |
+Suspension de la certification jusqu'à ce que le diagnostiqueur réalise 7 heures de formation. Il valide ensuite la réussite de deux examens cas test tel que définis au 2.5.4 de la présente annexe. Dans le cas où les deux examens cas test ne sont pas validés, il est appliqué des suites de niveau 3. |
 
 Niveau 3 |
 
@@ -360,11 +566,13 @@ La décision en matière de renouvellement de la certification est notifiée au 
 
 Dans le cadre de la gestion et du traitement d'une plainte reçue par l'organisme de certification, l'organisme de certification peut déclencher, selon son appréciation, un contrôle documentaire ou un contrôle sur ouvrage sur le site objet de la plainte.
 
+En fonction de la gravité du signalement, l'organisme de certification peut décider de suspendre la certification du diagnostiqueur dans l'attente de la réalisation d'un contrôle.
+
 3. Suspension ou retrait de certification des personnes certifiées
 
 Lorsqu'une décision de suspension est notifiée à une personne certifiée, les mesures correctrices décidées doivent être réalisées dans le délai de la suspension établi. Si elles ne sont pas réalisées dans ce délai ou si elles sont jugées insuffisantes, la suspension est prolongée ou une décision de retrait est notifiée, selon l'appréciation de l'organisme de certification. Les diagnostiqueurs faisant l'objet d'une suspension de leur certificat ne peuvent demander leur transfert vers un autre organisme de certification.
 
-Lorsqu'une décision de retrait est notifiée à une personne certifiée, la personne certifiée ne peut demander de nouvelle certification, auprès de l'organisme de certification ayant notifié le retrait ni auprès d'un autre organisme de certification, dans un délai de six mois. Les diagnostiqueurs faisant l'objet d'un retrait de leur certificat ne peuvent demander leur transfert vers un autre organisme de certification.
+Lorsqu'une décision de retrait est notifiée à une personne certifiée, la personne certifiée ne peut demander de nouvelle certification, auprès de l'organisme de certification ayant notifié le retrait ni auprès d'un autre organisme de certification, dans un délai de dix-huit mois. Si une nouvelle décision de retrait de certification intervient dans un délai inférieur à dix ans suivant la précédente décision de retrait, la personne certifiée ne peut demander une nouvelle certification durant vingt-quatre mois. Les diagnostiqueurs faisant l'objet d'un retrait de leur certificat ne peuvent demander leur transfert vers un autre organisme de certification.
 
 4. Transfert de certifications
 
@@ -431,3 +639,7 @@ En cas de différence substantielle entre la formation exigée par l'annexe III 
 Avant de demander une telle mesure, l'organisme de certification vérifie si les connaissances, aptitudes et compétences acquises par la personne physique au cours de son expérience professionnelle ou de l'apprentissage tout au long de la vie ayant fait l'objet, à cette fin, d'une validation en bonne et due forme par un organisme compétent dans un Etat membre, sont de nature à couvrir, totalement ou partiellement, les différences substantielles en termes de contenu.
 
 La décision d'imposer une mesure de compensation est dument justifiée par l'organisme de certification.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 16 juin 2025 (NOR : ATDL2513472A), ces dispositions entrent en vigueur à compter du 1er juillet 2025.

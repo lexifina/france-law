@@ -20,7 +20,7 @@ Sous réserve du respect des exigences du présent paragraphe, une structure app
 
 1.1.2. Rapport annuel d'activité
 
-L'organisme de certification communique aux services du ministre chargé de la construction avant le 31 mars de chaque année un rapport d'activité portant sur la période du 1er janvier au 31 décembre de l'année précédente. Ce rapport comporte la liste des organismes de formations certifiés par l'organisme, les flux et effectifs cumulés des organismes de formation concernés par les opérations de surveillance, par les décisions de certification, de renouvellement, de suspension et de retrait, ainsi qu'un bilan des réclamations et plaintes dont l'organisme certificateur a eu connaissance sur les organismes certifiés.
+L'organisme de certification communique aux services du ministre chargé de la construction avant le 31 mars de chaque année un rapport d'activité portant sur la période du 1er janvier au 31 décembre de l'année précédente. Ce rapport comporte la liste des organismes de formations certifiés par l'organisme, les flux et effectifs cumulés des organismes de formation concernés par les opérations de surveillance, par les décisions de certification, de renouvellement, de suspension et de retrait, ainsi qu'un bilan des réclamations et plaintes dont l'organisme certificateur a eu connaissance sur les organismes certifiés. Son format est communiqué par les services du ministre chargé de la construction.
 
 1.2. Indépendance et impartialité
 
@@ -37,6 +37,8 @@ Après recevabilité de la demande d'accréditation par l'instance nationale d'a
 L'organisme certificateur candidat à l'accréditation dispose d'un processus de sélection et de désignation des personnes réalisant les audits en tenant compte des exigences en matière d'indépendance et d'impartialité ainsi que de leurs compétences. L'organisme s'assure que ces personnes réalisant les audits ont les mêmes prérequis que ceux exigés en annexe III pour les candidats à la certification avec mention et sans mention pour le domaine du diagnostic de performance énergétique.
 
 1.5. Suspension ou retrait de l'accréditation des organismes de certification
+
+L'organisme certificateur est contrôlé au minimum une fois tous les dix mois par l'instance nationale d'accréditation.
 
 L'organisme certificateur tient informées, sur demande, ses entreprises clientes du statut de son accréditation. En cas de suspension de son accréditation, il doit informer les entreprises pour lesquelles sa suspension peut remettre en cause la délivrance de leur prochaine certification, dans un délai maximal de quinze jours suivant la notification de sa suspension. Lorsque l'accréditation d'un organisme certificateur est suspendue, les certifications émises jusqu'à la date de suspension restent valides. L'organisme certificateur ne peut émettre de nouveaux certificats durant cette période.
 
@@ -121,6 +123,12 @@ L'organisme de formation candidat à la certification dispose d'un processus de 
 2.4. Validation de la formation
 
 L'organisme de formation fournit, à l'issue de chacune des formations définies aux 2.2.2, 2.4.1 et 2.4.2 de l'annexe I, une attestation de formation établissant le suivi de la formation. A l'exception du module de formation initiale, cette attestation est délivrée suite à la vérification des acquis du stagiaire par le biais d'une évaluation proportionnée à la durée du module concluant l'action de formation. Cette attestation comprend notamment le logo de l'organisme de formation, son numéro de certification et le contenu de la formation.
+
+Dans le cas d'une formation continue en milieu professionnel-tutorat définie au 2.4.1 de l'annexe I, l'attestation inclut également :
+
+-l'identité du tuteur et le cas échéant son numéro de certificat ainsi que la portée de son certificat pour chaque mission encadrée ;
+
+-pour chacune des missions suivies par le diagnostiqueur stagiaire : la date, la mention éventuelle et le numéro d'identification du diagnostic.
 
 2.5. Définition des étapes du processus
 
@@ -217,3 +225,7 @@ L'organisme d'accueil examine les pièces à demander à l'organisme d'origine q
 L'organisme de certification d'origine dispose d'un mois maximum pour fournir ces pièces à l'organisme d'accueil. Si le contrat est passé, l'organisme d'accueil prévient l'organisme d'origine, qui procède aussitôt à la résiliation de son certificat.
 
 Dans le cas d'une cessation d'activité de l'organisme de certification d'origine, les certificats émis avant la cessation sont réputés valides pendant 6 mois.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 16 juin 2025 (NOR : ATDL2513472A), ces dispositions entrent en vigueur à compter du 1er juillet 2025.

@@ -154,6 +154,20 @@ La personne certifiée titulaire de la mention diagnostic de performance énerg�
 
 - dans le cas d'un bâtiment d'habitation collectif, l'analyse des caractéristiques du bâtiment et l'identification de la possibilité de réaliser des diagnostics des lots présents en son sein à partir des données issues du diagnostic du bâtiment d'habitation collectif.
 
+L'enveloppe du bâtiment :
+
+- les matériaux de construction, leurs propriétés thermiques et patrimoniales, notamment pour des matériaux locaux ou présentant un faible impact environnemental et leur évolution historique ;
+
+- les défauts d'étanchéité à l'air et de mise en œuvre des isolants ainsi que les sources d'infiltrations d'air parasites ;
+
+- les ponts thermiques associés aux différentes parois selon leur inertie thermique (caractérisation, mesure) ;
+
+- les masques solaires associés aux parois vitrées (caractérisation, mesure) ;
+
+- les procédés permettant de déterminer les caractéristiques de l'enveloppe d'un bâtiment, notamment la composition d'une paroi, y compris la présence et la caractérisation de l'isolation, la surface d'un mur, d'un plancher, d'un plafond, les caractéristiques d'une menuiserie, y compris sa surface et la présence d'un pont thermique ;
+
+- les possibilités d'amélioration énergétique et de réhabilitation thermique de l'enveloppe du bâtiment, y compris les différences entre bâtiment individuel et bâtiment collectif, et leurs impacts potentiels, notamment sur les besoins en énergie du bâtiment, ses émissions de gaz à effet de serre et sur les changements hygrothermiques des ambiances du bâtiment.
+
 - La thermique du bâtiment :
 
 - dans le cas d'un bâtiment d'habitation collectif, les principes de calcul d'une méthode de calcul réglementaire, les différences pouvant apparaître entre les consommations estimées et les consommations réelles ainsi que leurs sources, notamment la présence de scenarii conventionnels, l'échantillonnage des lots visités ainsi que la possibilité de réalisation d'un diagnostic des lots présents au sein d'un bâtiment d'habitation collectif à partir des données issues du diagnostic de ce dernier.
@@ -175,3 +189,7 @@ La personne certifiée titulaire de la mention diagnostic de performance énerg�
 - les textes législatifs et réglementaires faisant référence au diagnostic de performance énergétique, notamment les obligations de réalisation de diagnostic de performance énergétique pour les bâtiments d'habitation collectif, les obligations d'affichage des diagnostics dans certains bâtiments ;
 
 - les dispositions de sécurité et de santé applicables aux lieux de travail liées au sujet de la performance énergétique.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 16 juin 2025 (NOR : ATDL2513472A), ces dispositions entrent en vigueur à compter du 1er juillet 2025.
