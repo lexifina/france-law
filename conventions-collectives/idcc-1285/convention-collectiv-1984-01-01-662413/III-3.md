@@ -1,72 +1,74 @@
 # Article III.3
 
-III. 3.1. Financement et gestion des oeuvres sociales
+III. 3.1.   Financement et gestion des œuvres sociales
 
-La diversité des entreprises du champ de la convention collective, leur taille souvent réduite, leur hétérogénéité (création, diffusion..), l'éparpillement des salariés, leurs statuts différents (CDD, CDI) ont conduit les signataires à rechercher les formes de mutualisation des financements les plus propices à assurer l'égalité des professionnels, qu'ils soient techniques, administratifs ou artistiques, pour l'accès aux activités sociales et culturelles auxquelles ils peuvent prétendre.
+La diversité des entreprises du champ de la convention collective, leur taille souvent réduite, leur hétérogénéité (création, diffusion …), l'éparpillement des salariés, leurs statuts différents (CDD, CDI) ont conduit les signataires à rechercher les formes de mutualisation des financements les plus propices à assurer l'égalité des professionnels, qu'ils soient techniques, administratifs ou artistiques, pour l'accès aux activités sociales et culturelles auxquelles ils peuvent prétendre.
 
-Les entreprises sont tenues de contribuer au financement des institutions chargées de la gestion des oeuvres sociales au profit des salariés des entreprises de la manière suivante :
+Les entreprises et les employeurs relevant des articles L. 7122-22 du code du travail et suivants relatifs au GUSO, lorsqu'ils choisissent de faire bénéficier les artistes et techniciens qu'ils emploient des dispositions de la présente convention collective nationale en application de l'article L. 7121-7-1 sont tenus de contribuer au financement des institutions chargées de la gestion des œuvres sociales au profit des salariés des entreprises de la manière suivante.
 
-La contribution de chaque entreprise est basée sur la totalité des salaires bruts avant abattement versés par l'entreprise à ses salariés (et ce quel que soit le type de contrat la liant à ces salariés).
+La contribution est basée sur la totalité des salaires bruts avant abattement versés par l'entreprise à ses salariés (et ce quel que soit le type de contrat la liant à ces salariés).
 
-III. 3.1. a. Entreprises de la branche d'au moins 11 salariés et de moins de 50 salariés
+Tous les salariés ouvrant des droits bénéficient des activités du FNAS, selon les modalités prévues dans les statuts et le règlement général du FNAS.
+
+III. 3.1. a.   Entreprises de la branche d'au moins 11 salariés et de moins de 50 salariés
 
 Dans les entreprises au sein desquelles a été créé un comité social et économique conventionnel (tel que défini à l'article III. 2.1), l'entreprise verse au moins les contributions suivantes :
 
-– 0,825 % des salaires bruts versés aux salariés autres que les intermittents du spectacle au FNAS ;
+–   0,825 % des salaires bruts versés aux salariés autres que les intermittents du spectacle au FNAS ;
 
-– 0,625 % des salaires bruts versés aux salariés autres que les intermittents du spectacle au comité social et économique conventionnel ;
+–   0,625 % des salaires bruts versés aux salariés autres que les intermittents du spectacle au comité social et économique conventionnel ;
 
-– 0,125 % des salaires bruts versés aux salariés intermittents du spectacle au comité social et économique conventionnel ;
+–   0,125 % des salaires bruts versés aux salariés intermittents du spectacle au comité social et économique conventionnel ;
 
-– 1,325 % des salaires bruts versés aux salariés intermittents du spectacle au FNAS.
+–   1,325 % des salaires bruts versés aux salariés intermittents du spectacle au FNAS. Ceux-ci bénéficient des activités du FNAS selon les modalités prévues dans les statuts et le règlement général du FNAS.
 
-L'ensemble de ces contributions constitue une garantie des salaires minima hiérarchiques en application de l'article L. 2253-1 du code du travail.
-
-(1)
-
-III. 3.1. b. Entreprises de la branche de moins de 11 salariés
+III. 3.1. b.   Entreprises de la branche de moins de 11 salariés
 
 Dans les entreprises de moins de 11 salariés, l'entreprise verse au FNAS une contribution égale à 1,45 % de la totalité des salaires bruts.
 
 Dans ces entreprises, lorsqu'il n'y a pas de représentants élus du personnel, il n'est pas constitué de comité social et économique conventionnel. Lorsqu'un comité social et économique est créé, ses attributions seront celles définies à l'article III. 1.4.
 
-Les salariés de ces entreprises bénéficient des activités du FNAS, selon les modalités prévues dans les statuts du FNAS.
+Les salariés de ces entreprises bénéficient des activités du FNAS, selon les modalités prévues dans les statuts et le règlement général du FNAS.
 
-Cette contribution constitue une garantie des salaires minima hiérarchiques en application de l'article L. 2253-1 du code du travail.
+III. 3.1. c.   Entreprises de la branche au sein desquelles n'existe pas de représentation du personnel
 
-(2)
+Les entreprises sont tenues de verser au FNAS une cotisation égale à 1,45 % de la totalité des salaires bruts.
 
-III. 3.1. c. Entreprises de la branche au sein desquelles n'existe pas de représentation du personnel
+Tous les salariés ouvrant des droits dans ces entreprises bénéficient des activités du FNAS, selon les modalités prévues dans les statuts et le règlement général du FNAS dès lors que l'entreprise a procédé à l'organisation des élections et produit un procès-verbal de carence.
 
-Les entreprises sont tenues de verser au FNAS une cotisation égale à 1,25 % de la totalité des salaires bruts.
-
-Les salariés de ces entreprises bénéficient des activités du FNAS, selon les modalités prévues dans les statuts du FNAS.
-
-III. 3.1. d. Employeurs quel que soit le nombre de salariés et faisant une application de la présente convention collective en application de l'article L. 7121-7-1 du code du travail.
+III. 3.1. d.   Employeurs quel que soit le nombre de salariés et faisant une application de la présente convention collective en application de l'article L. 7121-7-1 du code du travail
 
 Les employeurs sont tenus de verser au FNAS une cotisation égale à 1,45 % de la totalité des salaires bruts.
 
 Les salariés dont l'activité a généré ces cotisations bénéficient des activités du FNAS, selon les modalités prévues dans les statuts du FNAS.
 
-III. 3.1. e. Indemnités de retard
+III. 3.1. e.   Périodicité
+
+La contribution revenant au FNAS est versée mensuellement au plus tard le 15 du mois suivant à l'organisme collecteur désigné par le conseil de gestion du FNAS.
+
+La contribution revenant au CSEC est versée selon une périodicité à définir dans l'accord d'entreprise fondant le CSEC. À défaut d'une mention sur la périodicité dans l'accord, le versement de la contribution revenant au CSEC est mensualisé.
+
+Les employeurs relevant des articles L. 7122-22 du code du travail et suivants relatifs au GUSO, lorsqu'ils choisissent de faire bénéficier les artistes et techniciens qu'ils emploient des dispositions de la présente convention collective nationale en application de l'article L. 7121-7-1 s'acquittent de leurs contributions à l'issue de chaque contrat de travail auprès des services du GUSO.
+
+III. 3.1. f.   Indemnités de retard
 
 En cas d'absence de règlement à l'échéance, les cotisations dues au FNAS sont majorées d'intérêts de retard. La majoration s'élève à 10 % du montant des cotisations qui n'ont pas été versées à la date d'échéance. Cette majoration est augmentée de 3 % du montant des cotisations dues, par trimestre ou fraction de trimestre écoulé après l'expiration d'un délai de 3 mois à compter de la date limite d'exigibilité des cotisations. Ces majorations s'appliquent également lorsque les bordereaux de renseignements que doit fournir l'entreprise ne parviennent pas au FNAS, ou lorsque les bordereaux parvenus au FNAS sont inexploitables (soit par défaut de renseignements, soit par inexactitude).
 
 Toutefois, en cas de difficulté de trésorerie, une entreprise, à condition d'avoir adressé ses bordereaux de renseignements en temps voulu, pourra demander la remise gracieuse des intérêts de retard auprès du bureau exécutif, ce que ce dernier ne sera tenu d'accepter qu'en contrepartie de l'établissement d'un plan de versement auquel il aura donné son aval.
 
-III. 3.2. Fonds national d'activités sociales des entreprises artistiques et culturelles (FNAS)
+III. 3.2.   Fonds national d'activités sociales des entreprises artistiques et culturelles (FNAS)
 
-Ce fonds est créé pour permettre la gestion mutualisée d'oeuvres sociales à caractère national au profit du personnel des entreprises contribuant à son financement.
+Ce fonds est créé pour permettre la gestion mutualisée d'ouvres sociales à caractère national au profit du personnel des entreprises contribuant à son financement.
 
 Les parties signataires de la présente convention sont convenues de donner à ce fonds la forme juridique d'une association régie par la loi du 1er juillet 1901, et d'organiser le fonctionnement des instances de gestion de celles-ci en se référant autant que cela est possible aux règles et aux usages de fonctionnement qui sont ceux d'un comité d'entreprise.
 
 Les statuts du fonds figurent dans l'article qui suit.
 
-III. 3.3. Statuts du fonds national d'activités sociales des entreprises artistiques et culturelles
+III. 3.3.   Statuts du fonds national d'activités sociales des entreprises artistiques et culturelles
 
 Article 1er
 
-Il est créé, conformément à la loi du 1er juillet 1901 et aux présents statuts, une association dite Fonds national d'activités sociales des entreprises artistiques et culturelles.
+Il est créé, conformément à la loi du 1er juillet 1901 et aux présents statuts, une association dite fonds national d'activités sociales des entreprises artistiques et culturelles.
 
 Article 2
 
@@ -82,51 +84,57 @@ L'association s'interdit d'adopter des positions politiques ou confessionnelles 
 
 Article 5
 
-L'association est créée pour impulser, coordonner, fournir des activités sociales aux salariés des entreprises entrant dans le champ d'application de la convention collective nationale des entreprises artistiques et culturelles, ou dont les employeurs font une application de la présente convention collective en application de l'article L. 7121-7-1 du code du travail, quelle que soit la nature de leur contrat de travail et même lorsqu'ils ne sont plus sous contrat de travail, sous réserve qu'ils aient ouvert des droits tels que définis dans le règlement intérieur du FNAS.
+L'association est créée pour impulser, coordonner, fournir des activités sociales aux salariés des entreprises entrant dans le champ d'application de la convention collective nationale des entreprises artistiques et culturelles, ou dont les employeurs font une application de la présente convention collective en application de l'article L. 7121-7-1 du code du travail, quelle que soit la nature de leur contrat de travail et même lorsqu'ils ne sont plus sous contrat de travail, sous réserve qu'ils aient ouvert des droits tels que définis dans le règlement général du FNAS.
 
-TITRE Ier COMPOSITION DE L'ASSOCIATION
+Titre Ier
+
+Composition de l'association
 
 Article 6
 
 L'association se compose :
 
-De tous les salariés auxquels il est fait référence à l'article 5 ci-dessus ;
+–   de tous les salariés auxquels il est fait référence à l'article 5 ci-dessus ;
 
-De tous les syndicats professionnels de salariés représentatifs au niveau national dans le champ d'application de la convention collective des entreprises artistiques et culturelles ;
+–   de tous les syndicats professionnels de salariés représentatifs au niveau national dans le champ d'application de la convention collective des entreprises artistiques et culturelles ;
 
-De la commission de suivi, composée de représentants des organisations d'employeurs signataires de la présente convention, telle que décrite à l'article 22 ci-dessous.
+–   de la commission de suivi, composée de représentants des organisations d'employeurs signataires de la présente convention, telle que décrite à l'article 22 ci-dessous.
 
-TITRE II ADMINISTRATION DE L'ASSOCIATION
+Titre II
+
+Administration de l'association
 
 Toutes les instances de gestion de l'association figurent dans le présent titre.
 
 Toute création d'instance décisionnaire nouvelle nécessite une modification des présents statuts.
 
-ASSEMBLÉE GÉNÉRALE
+Assemblée générale
 
 Article 7
 
 L'assemblée générale se compose de :
 
-– vingt représentants du personnel élus des entreprises de moins de 11 salariés ainsi qu'il est dit à l'article 8. En cas de carence aux élections des représentants du personnel, des salariés non élus peuvent être présentés ;
+– vingt représentants du personnel élus des entreprises de moins de 11 salariés ainsi qu'il est dit à l'article 8.
 
-– quarante représentants des salariés intermittents du spectacle tels que définis par l'article III. 1.2 de la présente convention élus ainsi qu'il est dit à l'article 8 ;
+En cas de carence aux élections des représentants du personnel, des salariés non élus peuvent être présentés ;
 
-– un représentant de chaque comité d'entreprise conventionnel ou comité social et économique des structures employant de 11 à moins de 50 salariés définis par l'article III. 2.2 de la présente convention ;
+–   quarante représentants des salariés intermittents du spectacle tels que définis par l'article III. 1.2 de la présente convention élus ainsi qu'il est dit à l'article 8 ;
 
-– un représentant de chaque comité d'entreprise ou comité social et économique des structures, entrant dans le champ d'application de la présente convention collective, employant au moins 50 salariés lorsque celui-ci a décidé de cotiser au FNAS dans les conditions prévues à l'article III. 2.1.
+–   un représentant de chaque comité d'entreprise conventionnel ou comité social et économique des structures employant de 11 à moins de 50 salariés définis par l'article III. 2.2 de la présente convention ;
+
+–   un représentant de chaque comité d'entreprise ou comité social et économique des structures, entrant dans le champ d'application de la présente convention collective, employant au moins 50 salariés lorsque celui-ci a décidé de cotiser au FNAS dans les conditions prévues à l'article III. 2.1.
 
 Participent également aux travaux de l'assemblée générale avec voix consultative :
 
-– deux représentants, un titulaire et un suppléant, de chaque syndicat professionnel de salariés désignés à l'article 6. Ce sont les “ membres de droit ” de l'association :
+–   deux représentants, un titulaire et un suppléant, de chaque syndicat professionnel de salariés désignés à l'article 6. Ce sont les “ membres de droit ” de l'association :
 
-– deux représentants, un titulaire et un suppléant, de chaque syndicat professionnel de salariés non représentatif dans le champ de la présente convention collective ayant présenté au moins une liste aux dernières élections du FNAS. Ce sont des “ membres invités ” de l'association ;
+–   deux représentants, un titulaire et un suppléant, de chaque syndicat professionnel de salariés non représentatif dans le champ de la présente convention collective ayant présenté au moins une liste aux dernières élections du FNAS. Ce sont des “ membres invités ” de l'association ;
 
-– quatre représentants, deux titulaires et deux suppléants dûment mandatés par les syndicats professionnels d'employeurs représentatifs dans le champ de la présente convention collective. Ils font partie des “ membres invités ” de l'association.
+–   quatre représentants, deux titulaires et deux suppléants dûment mandatés par les syndicats professionnels d'employeurs représentatifs dans le champ de la présente convention collective. Ils font partie des “ membres invités ” de l'association.
 
-– la commission de suivi, qui mandate son président aux fins de communication de son rapport, ainsi que pour débattre avec l'assemblée générale des questions qu'elle aurait fait porter à l'ordre du jour.
+–   la commission de suivi, qui mandate la présidence aux fins de communication de son rapport, ainsi que pour débattre avec l'assemblée générale des questions qu'elle aurait fait porter à l'ordre du jour.
 
-Les modalités de désignation des membres de droit et membres invités sont précisées dans le règlement intérieur du FNAS.
+Les modalités de désignation des membres de droit et membres invités sont précisées dans le règlement général du FNAS.
 
 Article 8
 
@@ -134,21 +142,21 @@ La désignation des représentants à l'assemblée générale s'effectue de la m
 
 – les 20 représentants des entreprises de moins de 11 salariés sont élus par tous les salariés de ces entreprises.
 
-Cette élection a lieu par correspondance sur listes syndicales à la proportionnelle à un tour. Les listes sont établies par les organisations de salariés ayant au moins un représentant du personnel élu au premier tour dans au moins une des entreprises affiliées au FNAS. Le scrutin se déroule selon les modalités des élections professionnelles prévues au code du travail à la représentation proportionnelle sur la base du quotient électoral et à la plus forte moyenne et selon les dispositions du règlement intérieur. Au cours de ce même scrutin, et selon les mêmes modalités de calcul, seront élus les 3 représentants de ce collège au conseil de gestion ;
+Cette élection a lieu par correspondance sur listes syndicales à la proportionnelle à un tour. Les listes sont établies par les organisations de salariés ayant au moins un représentant du personnel élu au premier tour dans au moins une des entreprises affiliées au FNAS. Le scrutin se déroule selon les modalités des élections professionnelles prévues au code du travail à la représentation proportionnelle sur la base du quotient électoral et à la plus forte moyenne et selon les dispositions du règlement général. Au cours de ce même scrutin, et selon les mêmes modalités de calcul, seront élus les 3 représentants de ce collège au conseil de gestion ;
 
-– les 40 représentants des salariés intermittents du spectacle sont élus par l'ensemble des salariés intermittents ayant eu leurs droits ouverts au cours des 3 dernières années, selon les modalités fixées par le règlement intérieur. Cette élection a lieu par correspondance sur listes syndicales à la proportionnelle à un tour. Les listes sont établies par les organisations de salariés ayant au moins un représentant du personnel élu au premier tour dans au moins une des entreprises affiliées au FNAS.
+–   les 40 représentants des salariés intermittents du spectacle sont élus par l'ensemble des salariés intermittents ayant eu leurs droits ouverts au cours des 3 dernières années, selon les modalités fixées par le règlement général. Cette élection a lieu par correspondance sur listes syndicales à la proportionnelle à un tour. Les listes sont établies par les organisations de salariés ayant au moins un représentant du personnel élu au premier tour dans au moins une des entreprises affiliées au FNAS.
 
-Le scrutin se déroule selon les modalités des élections professionnelles prévues au code du travail sur la base du quotient électoral et à la plus forte moyenne et selon les dispositions du règlement intérieur. Au cours de ce même scrutin, et selon les mêmes modalités de calcul, seront élus les 7 représentants de ce collège au conseil de gestion ;
+Le scrutin se déroule selon les modalités des élections professionnelles prévues au code du travail sur la base du quotient électoral et à la plus forte moyenne et selon les dispositions du règlement général. Au cours de ce même scrutin, et selon les mêmes modalités de calcul, seront élus les 7 représentants de ce collège au conseil de gestion ;
 
-– les représentants des comités d'entreprises conventionnels ou comité sociaux et économiques dotées des prérogatives des CEC (ceux des structures employant de 11 à moins de 50 salariés), ceux des comités sociaux et économiques et comité d'entreprise des structures d'au moins 50 salariés ayant décidé d'adhérer volontairement au FNAS sont désignés par leur propre comité d'entreprise ou comité social et économique.
+–   les représentants des comités d'entreprises conventionnels ou comité sociaux et économiques dotées des prérogatives des CEC (ceux des structures employant de 11 à moins de 50 salariés), ceux des comités sociaux et économiques et comité d'entreprise des structures d'au moins 50 salariés ayant décidé d'adhérer volontairement au FNAS sont désignés par leur propre comité d'entreprise ou comité social et économique.
 
 Article 9
 
 L'assemblée générale se réunit :
 
-– ordinairement, une fois l'an entre le 15 mai et le 30 juin, sur convocation du conseil de gestion ;
+–   ordinairement, une fois l'an entre le 15 mai et le 30 juin, sur convocation du conseil de gestion ;
 
-– extraordinairement, sur décision du conseil ou sur la demande de la moitié au moins de ses membres.
+–   extraordinairement, sur décision du conseil ou sur la demande de la moitié au moins de ses membres.
 
 Son ordre du jour est fixé par le conseil de gestion. Nulle autre question ne peut être abordée, sauf demande présentée par la moitié de ses membres au moins, ou par la commission de suivi dans un délai de 3 semaines avant l'assemblée générale afin de permettre de l'inscrire dans la convocation.
 
@@ -164,7 +172,7 @@ Chaque membre présent ne pourra disposer de plus de 5 pouvoirs.
 
 Article 10
 
-L'assemblée générale approuve le règlement intérieur proposé par le conseil de gestion.
+L'assemblée générale approuve le règlement général proposé par le conseil de gestion.
 
 L'assemblée générale entend les rapports annuels sur la situation financière et morale présentés par le conseil de gestion ainsi que le rapport annuel de la commission de suivi.
 
@@ -176,21 +184,21 @@ Elle désigne le commissaire aux comptes.
 
 Article 11
 
-Règlement intérieur
+Règlement général
 
-Le règlement intérieur comporte exclusivement des dispositions concernant :
+Le règlement général comporte exclusivement des dispositions concernant :
 
-– les modalités d'élection aux différentes instances de gestion de l'association ;
+–   les modalités d'élection aux différentes instances de gestion de l'association ;
 
-– les règles définissant les conditions d'accès des bénéficiaires aux activités proposées par l'association ;
+–   les règles définissant les conditions d'accès des bénéficiaires aux activités proposées par l'association ;
 
-– les conditions d'adhésion volontaire pour les comités d'entreprise d'ordre public ;
+–   les conditions d'adhésion volontaire pour les comités sociaux et économiques d'ordre public ;
 
-– la définition des prestations ;
+–   la définition des prestations ;
 
-– la définition des bénéficiaires ;
+–   la définition des bénéficiaires ;
 
-– le fonctionnement des commissions et groupes de travail créés selon l'article 19 des statuts.
+–   le fonctionnement des commissions et groupes de travail créés selon l'article 19 des statuts.
 
 Article 12
 
@@ -200,37 +208,37 @@ L'association est administrée par un conseil de gestion. Le conseil de gestion 
 
 Le conseil de gestion :
 
-– élabore les orientations et projets d'activités de l'association et le projet de budget correspondant, qui sont soumis à l'approbation de l'assemblée générale ;
+–   élabore les orientations et projets d'activités de l'association et le projet de budget correspondant, qui sont soumis à l'approbation de l'assemblée générale ;
 
-– assure la gestion des activités et du budget approuvés par l'assemblée générale ;
+–   assure la gestion des activités et du budget approuvés par l'assemblée générale ;
 
-– approuve les rapports moral et financier soumis à l'approbation de l'assemblée générale ;
+–   approuve les rapports moral et financier soumis à l'approbation de l'assemblée générale ;
 
-– est chargé, en collaboration avec la commission de suivi, d'établir la nature et de rédiger la forme des renseignements que les entreprises cotisantes doivent fournir à l'association pour remplir ses missions ;
+–   est chargé, en collaboration avec la commission de suivi, d'établir la nature et de rédiger la forme des renseignements que les entreprises cotisantes doivent fournir à l'association pour remplir ses missions ;
 
-– est doté, entre les sessions de l'assemblée générale, des plus larges pouvoirs pour assurer la gestion des activités de l'association.
+–   est doté, entre les sessions de l'assemblée générale, des plus larges pouvoirs pour assurer la gestion des activités de l'association.
 
 Le conseil de gestion est composé de 17 représentants, à savoir :
 
-– 3 représentants pour les structures employant moins de 10 salariés ;
+–   3 représentants pour les structures employant moins de 11 salariés ;
 
-– 7 représentants pour les salariés intermittents ;
+–   7 représentants pour les salariés intermittents ;
 
-– 7 représentants pour les salariés des structures employant entre 10 et 50 salariés constitués en comité d'entreprise, dont 1 représentant des plus de 50 autant que possible.
+–   7 représentants pour les salariés des structures employant entre 11 et 50 salariés constitués en comité d'entreprise, dont 1 représentant des plus de 50 autant que possible.
 
 Les représentants sont désignés comme suit :
 
-– ceux représentant des structures de moins de 10 salariés sont élus lors de leur élection à l'assemblée générale (cf. art. 8) ;
+–   ceux représentant des structures de moins de 11 salariés sont élus lors de leur élection à l'assemblée générale (cf. art. 8) ;
 
-– ceux représentant les salariés intermittents sont élus lors de leur élection à l'assemblée générale (cf. art. 8) ;
+–   ceux représentant les salariés intermittents sont élus lors de leur élection à l'assemblée générale (cf. art. 8) ;
 
-– ceux représentant des structures ayant constitué un comité d'entreprise sont élus lors de l'assemblée générale par leur collège, sur listes syndicales établies par les organisations de salariés représentatives au plan national selon les modalités des élections professionnelles prévues au code du travail à la représentation proportionnelle sur la base du quotient électoral et à la plus forte moyenne et selon les dispositions du règlement intérieur.
+–   ceux représentant des structures ayant constitué un comité social et économique sont élus lors de l'assemblée générale par leur collège, sur listes syndicales établies par les organisations de salariés représentatives au plan national selon les modalités des élections professionnelles prévues au code du travail à la représentation proportionnelle sur la base du quotient électoral et à la plus forte moyenne et selon les dispositions du règlement général.
 
 La durée du mandat des membres élus du conseil de gestion est fixée à 3 ans.
 
 Article 13
 
-Le conseil de gestion se réunit (selon un calendrier à établir) au moins une fois par trimestre, et chaque fois qu'il est convoqué par son président, ou sur demande écrite du tiers de ses membres, au moins.
+Le conseil de gestion se réunit (selon un calendrier à établir) au moins une fois par trimestre, et chaque fois qu'il est convoqué par la présidence, ou sur demande écrite du tiers de ses membres, au moins.
 
 L'ordre du jour des réunions est établi par le secrétaire. Il comporte obligatoirement les questions particulières dont la discussion est souhaitée par six membres du conseil de gestion, au moins. Les délibérations sont prises à la majorité des membres présents ou représentés : majorité absolue au premier tour, majorité simple au 2e tour.
 
@@ -248,7 +256,7 @@ Le conseil de gestion peut inviter à tout ou partie de ses réunions telle ou t
 
 Article 14
 
-Il est tenu procès-verbal de toutes les séances du conseil de gestion, qui après approbation lors de la séance suivante est inséré dans le registre, coté et paraphé, les procès-verbaux étant signés du président et du secrétaire.
+Il est tenu un procès-verbal de toutes les séances du conseil de gestion, qui après approbation lors de la séance suivante est inséré dans le registre, coté et paraphé, les procès-verbaux étant signés du président et du secrétaire.
 
 Article 15
 
@@ -266,13 +274,13 @@ Bureau exécutif
 
 Le conseil de gestion élit à bulletin secret en son sein un bureau exécutif qui comprend, outre le président :
 
-– 1 secrétaire ;
+–   1 secrétaire ;
 
-– 1 secrétaire adjoint ;
+–   1 secrétaire adjoint ;
 
-– 1 trésorier ;
+–   1 trésorier ;
 
-– 1 trésorier adjoint.
+–   1 trésorier adjoint.
 
 Les représentants des syndicats professionnels, membres de droits, désignés à l'article 7, participent au bureau exécutif, avec voix consultative.
 
@@ -288,13 +296,13 @@ Article 19
 
 Entre les réunions de l'assemblée générale et dans le cadre du schéma général d'activité défini par celle-ci, le conseil de gestion est investi des pouvoirs les plus étendus pour gérer l'association. Le conseil de gestion peut déléguer certains de ses pouvoirs d'exécution au bureau, voire à certains de ses membres.
 
-Des commissions ou groupes de travail, consultatifs, permanents ou temporaires, peuvent être créés sur décision de l'assemblée générale, et leurs modalités de fonctionnement précisées dans le règlement intérieur.
+Des commissions ou groupes de travail, consultatifs, permanents ou temporaires, peuvent être créés sur décision de l'assemblée générale, et leurs modalités de fonctionnement précisées dans le règlement général.
 
 Article 20
 
 Le conseil de gestion embauche le personnel sous contrat à durée indéterminée qui est nécessaire au bon fonctionnement de l'association. La convention collective citée à l'article 5 ci-dessus est applicable au personnel du FNAS.
 
-Le délégué général embauché par le conseil de gestion est placé sous l'autorité du bureau exécutif. Il assure la gestion courante de l'association ainsi que les fonctions de chef de personnel. Il est chargé par délégation du président de la délivrance des attestations du FNAS destinées aux commissions consultatives d'attribution des licences d'entrepreneurs de spectacles.
+Le délégué général embauché par le conseil de gestion est placé sous l'autorité du bureau exécutif. Il assure la gestion courante de l'association ainsi que les fonctions de chef de personnel. Il est chargé par délégation du président de la délivrance des attestations du FNAS destinées aux services en charge de l'attribution des licences d'entrepreneurs de spectacles.
 
 Article 21
 
@@ -302,7 +310,7 @@ Information
 
 Les supports d'information élaborés ou édités par le FNAS sont destinés à informer les salariés visés à l'article 5 des présents statuts de la vie de l'association.
 
-L'association organisera également des journées d'études dans le but de compléter l'information de ses adhérents. Seront invités à ces réunions suivant les modalités définies dans le règlement intérieur du FNAS, les représentants des syndicats de salariés participant au conseil de gestion du FNAS.
+L'association organisera également des journées d'études dans le but de compléter l'information de ses adhérents. Seront invités à ces réunions suivant les modalités définies dans le règlement général du FNAS, les représentants des syndicats de salariés participant au conseil de gestion du FNAS.
 
 Article 22
 
@@ -316,7 +324,7 @@ Un président est élu en son sein, il est chargé d'assurer la convocation des 
 
 La commission de suivi se réunit au minimum 2 fois par an et dans un délai de 1 mois avant toute assemblée générale extraordinaire.
 
-La commission de suivi est informée de manière continue des actes de gestion de l'association. A cet effet, un double de tous les documents de gestion ou d'information remis au conseil de gestion ainsi que les procès-verbaux du conseil de gestion lui sont systématiquement transmis.
+La commission de suivi est informée de manière continue des actes de gestion de l'association. À cet effet, un double de tous les documents de gestion ou d'information remis au conseil de gestion ainsi que les procès-verbaux du conseil de gestion lui sont systématiquement transmis.
 
 Sur invitation, le délégué général (directeur) du FNAS assiste en tout ou partie aux réunions de la commission de suivi. La commission de suivi (ou une délégation de celle-ci) peut, lorsqu'elle le demande, être reçue par le conseil de gestion du FNAS.
 
@@ -326,7 +334,9 @@ Pour établir son rapport pour l'assemblée générale annuelle, elle pourra dem
 
 Le président du conseil de gestion, le délégué général et le commissaire aux comptes de l'association seront invités à participer à la réunion de la commission de suivi précédant la tenue de l'assemblée générale annuelle de l'association, afin d'éclairer la commission sur la gestion de l'association et de répondre à ses éventuelles questions.
 
-TITRE III DISPOSITIONS FINANCIÈRES
+Titre III
+
+Dispositions financières
 
 Article 23
 
@@ -336,13 +346,13 @@ Article 24
 
 Les recettes de l'association se composent :
 
-– des cotisations des entreprises dont l'activité principale relève de la branche des entreprises artistiques et culturelles versées à chaque trimestre échu, au plus tard 1 mois après l'échéance de celui-ci, par les entreprises visées par la convention collective citée à l'article 5 ci-dessus ;
+–   des cotisations des entreprises dont l'activité principale relève de la branche des entreprises artistiques et culturelles ;
 
-– des cotisations des employeurs qui optent pour l'application de la convention collective des entreprises artistiques et culturelles en application des dispositions de l'article L. 7121-7-1 du code du travail et versées à l'organisme collecteur désigné par le conseil de gestion du FNAS à l'issue de chaque contrat de travail ;
+–   des cotisations des employeurs qui appliquent la convention collective des entreprises artistiques et culturelles en application des dispositions de l'article L. 7121-7-1 du code du travail ;
 
-– des ressources résultant de l'exercice de ses activités ;
+–   des ressources résultant de l'exercice de ses activités ;
 
-– des subventions diverses ou dons qu'elle serait amenée à percevoir.
+–   des subventions diverses ou dons qu'elle serait amenée à percevoir.
 
 Article 25
 
@@ -350,15 +360,17 @@ Les charges de l'association sont les dépenses découlant de son objet social d
 
 Les charges de l'association comprennent également :
 
-– le remboursement des frais de déplacement et de séjour des personnes participant aux réunions des instances de l'association : assemblée générale, conseil de gestion et bureau exécutif ;
+–   le remboursement des frais de déplacement et de séjour des personnes participant aux réunions des instances de l'association : assemblée générale, conseil de gestion et bureau exécutif ;
 
-– le remboursement des frais de déplacement et de séjour des membres du bureau exécutif, pour leur permettre d'assurer leurs fonctions, en dehors du temps consacré aux réunions des instances de l'association.
+–   le remboursement des frais de déplacement et de séjour des membres du bureau exécutif, pour leur permettre d'assurer leurs fonctions, en dehors du temps consacré aux réunions des instances de l'association.
 
 Article 26
 
 Il est tenu à jour une comptabilité contrôlée par un commissaire aux comptes désigné pour 6 exercices par l'assemblée générale.
 
-TITRE IV MODIFICATION DES STATUTS ET DISSOLUTION
+Titre IV
+
+Modification des statuts et dissolution
 
 Article 27
 
@@ -379,11 +391,3 @@ La dissolution de l'association ne peut, en aucun cas, porter préjudice à des 
 Article 30
 
 Le président est tenu de notifier, dans les 3 mois à la préfecture du siège de l'association, tout changement survenu dans l'administration de l'association.
-
-(1) Phrase exclue de l'extension comme étant contraire aux dispositions de l'article L. 2253-1 du code du travail.
-
-(Arrêté du 18 décembre 2020-art. 1)
-
-(2) Phrase exclue de l'extension comme étant contraire aux dispositions de l'article L. 2253-1 du code du travail.
-
-(Arrêté du 18 décembre 2020-art. 1)
