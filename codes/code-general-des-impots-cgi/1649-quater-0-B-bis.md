@@ -20,8 +20,12 @@ b. crimes en matière de fausse monnaie prévus par les articles 442-1 à 442-7 
 
 c. crimes et délits en matière de législation sur les armes prévus par les articles L. 2339-2 à L. 2339-11 du code de la défense et portant sur des armes de la première à la cinquième catégorie au sens de l'article L. 2331-1 du même code ;
 
-d. délits à la réglementation sur les alcools et le tabac prévus à l'article 1810 du présent code ;
+d) Délits prévus, en matière de tabacs, à l'article L. 3515-6-12 du code de la santé publique et, en matière d'alcools, aux articles L. 3351-12 et L. 3351-13 du même code, à l'article 1810 du code général des impôts et aux articles L. 664-26 et L. 664-31 du code rural et de la pêche maritime.
 
 e. délit de contrefaçon prévu à l'article L. 716-9 du code de la propriété intellectuelle.
 
 3. Les trois derniers alinéas du 1 s'appliquent également aux délits en matière d'habitat indigne prévus à l'article L. 1337-4 du code de la santé publique, aux IV et VI de l'article L. 123-3 du code de la construction et de l'habitation, aux I et II de l'article L. 511-6 du même code et au I de l'article L. 521-4 dudit code.
+
+NOTA :
+
+Conformément à l’article 43 de l’ordonnance n° 2023-1210 du 20 décembre 2023, ces dispositions entrent en vigueur le 1er juillet 2025 et sont applicables aux impositions pour lesquelles le fait générateur intervient à compter de cette date.
