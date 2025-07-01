@@ -1,0 +1,9 @@
+# Réponse à la question n° 4573
+
+- Question : [4573](4573.md) — Question n° 4573 — Menace sur l'emploi dans l'Hérault et sur la souveraineté sanitaire française
+
+## Réponse
+
+*JO du 2025-07-01, page 5869*
+
+Un appel d'offres lancé par Santé publique France (SpF) en 2024 visant à acquérir, notamment, des masques de type FFP2 pour les intégrer dans le stock stratégique national, conformément aux objectifs fixés par le ministère chargé de la santé, a conduit à l'attribution de plusieurs lots à des producteurs français à l'issue d'une procédure compétitive. Le lot n° 3, concernant la fourniture de 60 millions de masques FFP2, a fait l'objet d'un recours en référé précontractuel de la part d'un soumissionnaire évincé. Par une décision du 10 décembre 2024, le juge des référés a annulé la procédure d'attribution de ce lot. En application de la décision du juge, dans un souci de sécurité juridique, de bonne gestion des deniers publics et au regard des volumes déjà couverts par les autres lots attribués, SpF a décidé de déclarer ce lot sans suite. Ce lot représentait environ 10 % de la cible en masques de type FFP2 du stock stratégique, et non 20 % comme cela a pu être avancé. La couverture de cette part résiduelle est assurée par la souplesse contractuelle prévue avec les autres fournisseurs retenus, tous français. Il n'est donc pas nécessaire de relancer un marché spécifique à ce stade. Il convient de souligner que l'ensemble des marchés attribués dans le cadre de cette procédure a été notifié à des entreprises françaises. L'augmentation de la cible de masques tant chirurgicaux que de type FFP2 dans le stock État contribue à sécuriser la filière nationale, qui compte aujourd'hui un nombre de producteurs significativement supérieur à celui observé avant la crise sanitaire. L'engagement de l'État en faveur de la souveraineté sanitaire demeure entier.
