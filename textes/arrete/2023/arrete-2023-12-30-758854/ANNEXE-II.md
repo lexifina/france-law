@@ -32,7 +32,7 @@ DNPJ |
 
 DNPJ |
 
-Chef état-major |
+Chef état-major, préfigurateur chef de l'unité nationale de lutte contre la criminalité organisée (UNALCO) |
 
 NANTERRE |
 
@@ -388,4 +388,4 @@ Les postes de la DGSI éligibles à l'indemnité compensatrice de logement font 
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 11 juin 2024 (NOR : IOMC2413927A), ces dispositions entrent en vigueur le 1er juillet 2024.
+Conformément à l’article 5 de l’arrêté du 16 juin 2025 (NOR : INTC2517161A), ces dispositions entrent en vigueur le 1er juillet 2025.

@@ -234,6 +234,14 @@ PARIS |
 
 1 |
 
+DCCRS |
+
+Directeur central adjoint des compagnies républicaines de sécurité |
+
+PARIS |
+
+1 |
+
 Services territoriaux |
 
 ILE DE FRANCE HORS PP |
@@ -353,12 +361,6 @@ BESANCON |
 Chef de la circonscription de police nationale de Forbach |
 
 FORBACH |
-
-1 |
-
-Chef de la circonscription de police nationale de Colmar |
-
-COLMAR |
 
 1 |
 
@@ -692,4 +694,4 @@ Les postes de la DGSI éligibles à l'indemnité compensatrice de logement font 
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 18 mars 2025 (NOR : INTC2508155A), ces dispositions entrent en vigueur le premier jour du mois qui suit sa publication, soit le 1er juin 2025.
+Conformément à l’article 5 de l’arrêté du 16 juin 2025 (NOR : INTC2517161A), ces dispositions entrent en vigueur le 1er juillet 2025.
