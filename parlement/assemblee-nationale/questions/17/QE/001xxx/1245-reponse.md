@@ -1,0 +1,9 @@
+# Réponse à la question n° 1245
+
+- Question : [1245](1245.md) — Question n° 1245 — Opposition à la hausse des loyers de Maisons et Cités dans le bassin minier
+
+## Réponse
+
+*JO du 2025-07-01, page 5832*
+
+L'engagement du Gouvernement en faveur du bassin minier, en particulier de la rénovation des logements sociaux qui s'y trouvent, est constant. Depuis 2017, plus de 125 M€ de subventions ont été allouées pour rénover à terme près de 40 000 logements sociaux, soit un investissement total final de 3 Md€. La loi de finances pour 2025 a prolongé ce soutien, avec 8 M€ alloués pour rénover plusieurs centaines de nouveaux logements sociaux. En parallèle, le soutien aux aménagements publics se poursuit, avec près de 50 M€ qui auront été dépensés entre 2017 et 2025. Dans ce contexte, la hausse des loyers des logements sociaux du territoire, si elle est possible légalement - y compris, contrairement au parc privé, pour les passoires énergétiques (moins nombreuses dans le parc social que dans le parc privé et, à ce titre, non concernées par l'interdiction de hausse des loyers votée dans la loi Climat et Résilience) - doit prendre en considération les efforts publics importants. La gestion du parc locatif doit aussi accompagner les dynamiques d'investissement lourd sur le territoire, pour achever rapidement la rénovation de l'ensemble du parc social. La Ministre chargée du logement souhaite ainsi mettre en place une contractualisation pluriannuelle qui permettra d'établir des engagements, notamment en matière de loyers des logements sociaux non rénovés et demeurant passoires thermiques. Cette contractualisation a vocation à être établie dans les prochains mois par le préfet de région. Elle doit s'inscrire dans la préoccupation constante du Gouvernement de la qualité de vie et du pouvoir d'achat des habitants du bassin minier.
