@@ -1,0 +1,29 @@
+# Article 1er
+
+Les dispositions de l'article 3 « Participants » sont remplacées par les dispositions suivantes :
+
+« Article 3
+
+Bénéficiaires
+
+Bénéficiaires dont le contrat de travail est en vigueur
+
+Les dispositions du régime prévoyance de l'accord collectif prévoyance s'appliquent sans condition d'ancienneté à tous les salariés cadres et non-cadres, y compris les apprentis, des entreprises relevant du champ d'application de l'accord (dénommés ci-après “ les salariés ”).
+
+Bénéficiaires dont le contrat de travail est suspendu
+
+L'adhésion desdits salariés est maintenue obligatoirement en cas de suspension de leur contrat de travail, quelle qu'en soit la cause, dès lors qu'ils bénéficient, pendant cette période :
+
+– d'un maintien de salaire, total ou partiel ;
+
+– d'indemnités journalières complémentaires financées au moins en partie par l'employeur qu'elles soient versées directement par l'employeur ou pour son compte par l'intermédiaire d'un tiers ;
+
+– d'un revenu de remplacement versé par l'employeur. Ce cas concerne notamment les salariés placés en activité partielle ou en activité partielle de longue durée, dont l'activité est totalement suspendue ou dont les horaires sont réduits, ainsi que toute période de congé rémunéré par l'employeur (reclassement, mobilité …).
+
+Dans cette hypothèse, l'employeur versera une contribution calculée selon les règles applicables à la catégorie de personnes dont relève le salarié, pendant toute la période de suspension du contrat de travail indemnisée. Parallèlement, le salarié continuera à s'acquitter de sa propre part de cotisations.
+
+En cas de suspension du contrat de travail non indemnisée supérieure à un mois, les garanties sont suspendues de plein droit.
+
+Pendant la période de suspension des garanties, aucune cotisation n'est due au titre de l'intéressé et les arrêts de travail ou les décès survenant durant cette période ne peuvent donner lieu à prise en charge au titre du contrat.
+
+Toutefois, l'adhésion des salariés en congé parental d'éducation peut être maintenue à leur demande au titre des garanties décès et IAD. Ce maintien est possible sous réserve que le salarié s'acquitte seul de l'intégralité de la cotisation calculée selon les règles applicables, sans pouvoir prétendre à une participation de l'employeur. »
