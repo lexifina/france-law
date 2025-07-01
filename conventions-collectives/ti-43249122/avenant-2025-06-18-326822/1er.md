@@ -1,0 +1,15 @@
+# Article 1er
+
+La rédaction de l'article 4 relatif aux moyens attribués est remplacée comme suit :
+
+« Le temps passé en réunion est considéré comme du temps de travail effectif. Ce temps passé en réunion ne sera alors pas imputé sur le crédit d'heures de délégation au cas où le salarié en bénéficierait dans l'accomplissement de ses missions au sein de son entreprise.
+
+Il est retenu un forfait d'heures par mandaté de chaque organisation syndicale représentative selon les modalités suivantes : une journée de réunion (CPPNI, CPNEFP, SPP, ADPPS ou autres) représente un forfait de 10 heures et une demi-journée, un forfait de 5 heures, suivant la convocation initiale et cela même en cas d'annulation de la réunion au dernier moment. Dès lors, l'autorisation d'absence et le maintien de la rémunération du mandaté sont à valoriser à hauteur de 10 heures par journée complète de réunion et de 5 heures par demi-journée de réunion.
+
+Est également valorisé à hauteur de 5 heures d'autorisation d'absence et de maintien de salaire, le temps consacré à une réunion préparatoire avant chaque séance pour chaque mandaté d'organisation syndicale.
+
+Les frais de transport et de séjour des représentants sont pris en charge par le fonds du paritarisme de la convention collective, remboursés par l'association pour le développement du paritarisme de la parfumerie sélective (ADPPS), sur la part de la collecte affectée aux frais de fonctionnement de l'association conformément à l'accord relatif au développement du dialogue social et à l'organisation du paritarisme en vigueur.
+
+Les montants ainsi que les modalités de ces indemnités remboursements de frais sont définis dans le cadre de l'ADPPS par les membres du conseil d'administration.
+
+La participation et la prise en charge des frais des négociateurs sont limitées à 2 personnes par organisation syndicale de salariés aussi bien pour le temps consacré à la réunion préparatoire que la tenue des réunions visées au présent article. »
