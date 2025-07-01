@@ -1,0 +1,9 @@
+# Réponse à la question n° 5590
+
+- Question : [5590](5590.md) — Question n° 5590 — Modernisation des alertes DGS-Urgent pour les rendre plus opérationnelles
+
+## Réponse
+
+*JO du 2025-07-01, page 5875*
+
+Le ministère chargé de la santé accorde une attention particulière à la qualité et à l'efficacité de la diffusion des messages d'alerte sanitaire émis par le centre de crises sanitaires, opéré notamment par le biais de son centre opérationnel. Créé pour répondre aux situations d'urgence sanitaire, ce dispositif d'alerte DGS-urgent vise à assurer une information rapide, fiable et cohérente à l'attention des professionnels de santé ayant transmis une adresse électronique à leur ordre professionnel. Ces messages contiennent les éléments de contexte, les signaux épidémiologiques observés, les recommandations de prise en charge ainsi que les messages de prévention destinés à protéger la santé des populations. Chaque message repose sur une validation scientifique et opérationnelle rigoureuse. En cas de crise, l'outil DGS-Urgent est un atout précieux car il permet de s'adresser à environ 1,7 million de professionnels de santé en un clic. Conscient des contraintes de temps et de charge pesant sur les professionnels de santé et au regard des différents retours d'expérience, notamment le rapport « Créa-Diff » de Julien Delpech et Eric Vibert d'octobre 2021, le ministère a engagé depuis plusieurs mois des travaux visant à assurer l'évolution du format de ces messages mais également des outils de diffusion. Ce travail, mené en lien étroit avec les parties prenantes, notamment par les professionnels de santé, vise à faire évoluer les modalités de communication opérationnelle. Il porte notamment sur le contenu, les supports utilisés et les canaux de diffusion de ces messages, afin de garantir que chaque information parvienne aux professionnels de santé par le vecteur le plus pertinent.
