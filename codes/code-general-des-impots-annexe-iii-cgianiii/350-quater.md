@@ -24,12 +24,10 @@ II. – La direction générale des douanes et droits indirects exerce :
 
 III. – La direction générale des douanes et droits indirects est compétente :
 
-1° Pour consulter le registre spécial dont la présentation peut être exigée en application de l'article 304 du code général des impôts ;
-
-2° Pour requérir la représentation du registre mentionné à l'article 330 du code général des impôts ;
+1° Pour consulter le registre spécial dont la présentation peut être exigée en application de l'article L. 664-6 du code rural et de la pêche maritime ;
 
 3° (Sans objet)
 
 NOTA :
 
-En conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015, au 1°, les références : " 426,427," deviennent sans objet.
+Conformément à l'article 4 du décret n° 2025-591 du 26 juin 2025, ces dispositions entrent en vigueur le 1er juillet 2025.
