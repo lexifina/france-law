@@ -1270,7 +1270,7 @@ H3 |
 
 |
 
-&laquo; ECS &raquo; signifie : eau chaude sanitaire.
+ECS signifie : eau chaude sanitaire.
 
 ANNEXE 1 À LA FICHE D'OPÉRATION STANDARDISÉE BAR-TH-168, DÉFINISSANT LE CONTENU DE LA PARTIE A DE L'ATTESTATION SUR L'HONNEUR
 
@@ -3372,4 +3372,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 7 avril 2025 (NOR : ECOR2510035A), ces dispositions s'appliquent aux opérations d'économies d'énergie engagées, à compter du 1er juillet 2025.
+Conformément à l'article 5 de l'arrêté du 10 juin 2025 (NOR : ECOR2513165A), ces dispositions entrent en vigueur le 1er juillet 2025.
