@@ -6,10 +6,8 @@ Est joint à la demande d'agrément un cahier des charges décrivant l'organisat
 
 La demande doit en outre être accompagnée des documents suivants : numéro unique d'identification, organigramme faisant apparaître les responsabilités et les structures de décision de l'organisme, ses deux derniers comptes annuels si l'antériorité de l'organisme le permet.
 
-L'autorisation d'attester la garantie du titre par le marquage au laser d'un poinçon mentionnée au b de l'article 523 du code général des impôts est accordée par le directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, le directeur régional des douanes et droits indirects.
+L'autorisation d'attester la garantie du titre par le marquage au laser d'un poinçon mentionnée au 2° de l'article L. 833-3 du code de commerce est accordée par le directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, le directeur régional des douanes et droits indirects.
 
 NOTA :
 
-Conformément à l'article 22 du décret n° 2021-631 du 21 mai 2021, ces dispositions entrent en vigueur le premier jour du sixième mois suivant celui de sa publication au Journal officiel de la République française.
-
-Un décret peut prévoir une date d'entrée en vigueur ultérieure, au plus tard douze mois après les dates prévues aux premier et deuxième alinéas du présent article.
+Conformément à l'article 3 du décret n° 2025-583 du 26 juin 2025, ces dispositions entrent en vigueur le 1er juillet 2025.
