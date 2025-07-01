@@ -30,7 +30,7 @@ des travaux
 
 syndic professionnel) |
 
-Personnes morales-Acteurs publics,
+Personnes morales contractualisant avec les pouvoirs publics -Acteurs publics,
 
 parapublics
 
@@ -38,7 +38,7 @@ ou conventionnés
 
 -Je suis membre
 
-du réseau Faire
+du réseau France Rénov'
 
 -Je suis un Opérateur habitat
 
@@ -53,10 +53,6 @@ du réseau Faire
 -je suis un organisme de Maitrise d'Ouvrage d'Insertion |
 
 Personnes physiques-non professionnelles |
-
-Syndic
-
-non-professionnel |
 
 Personnes physiques-professionnelles
 
@@ -86,8 +82,6 @@ X |
 
 X |
 
-X |
-
 i |
 
 Fonction |
@@ -100,13 +94,9 @@ X (de la personne agissant pour le compte de la personne morale) |
 
 |
 
-|
-
 i |
 
 Lien avec le demandeur |
-
-X |
 
 X |
 
@@ -128,13 +118,9 @@ X |
 
 X |
 
-X |
-
 i |
 
 Identifiant |
-
-X |
 
 X |
 
@@ -156,13 +142,9 @@ X |
 
 X |
 
-X |
-
 i |
 
 Adresse sur le territoire national |
-
-X |
 
 X |
 
@@ -184,8 +166,6 @@ X |
 
 X |
 
-X |
-
 i |
 
 Raison sociale ou dénomination |
@@ -196,8 +176,6 @@ X |
 
 |
 
-X |
-
 |
 
 i |
@@ -207,8 +185,6 @@ SiREN/ SiRET |
 X |
 
 X (optionnel) |
-
-|
 
 |
 
@@ -224,15 +200,11 @@ X |
 
 |
 
-X |
-
 |
 
 PJ |
 
 RIB (si mandat de perception des fonds) |
-
-X |
 
 X |
 
@@ -254,8 +226,6 @@ X |
 
 |
 
-|
-
 PJ |
 
 Pièce d'identité du représentant légal |
@@ -266,15 +236,11 @@ X |
 
 |
 
-X |
-
 |
 
 PJ |
 
-Inscription au RCS (si auto-entrepreneur) |
-
-|
+Inscription au RCS (si micro-entrepreneur) |
 
 |
 
@@ -296,29 +262,27 @@ X |
 
 |
 
-|
-
 PJ |
 
-Extrait de casier judiciaire du représentant légal [B3] |
+Extrait de casier judiciaire du mandataire, ou de son représentant légal pour les personnes morales [B3] |
 
 X |
 
 |
 
-|
+X
+
+Si plus de trois mandats perception de fonds reçus
 
 |
 
-|
+X |
 
 PJ |
 
 Attestation de Responsabilité Civile et/ ou professionnelle |
 
 X |
-
-|
 
 |
 
@@ -338,22 +302,94 @@ X |
 
 |
 
-|
+Pour les mandataires " perception de fonds "
+
+(en application de l'article 5 bis du décret n° 2020-26 du 14 janvier 2020) |
 
 PJ |
 
-Procès-verbal d'Assemblée Générale de copropriété (désignant le gestionnaire) ou document désignant le syndic non-professionnel |
+Attestation sur l'honneur
+
+(modèle en annexe 4 bis du présent arrêté)
 
 |
 
+X
+
+(de la personne agissant pour le compte de la personne morale)
+
 |
+
+X
+
+(de la personne agissant pour le compte de la personne morale)
 
 |
 
 X |
 
+X |
+
+PJ |
+
+Justificatif de capacité financière au sens de l'annexe 4 bis du présent arrêté attestée par un expert-comptable, un commissaire aux comptes, un centre de gestion agréé ou une association de gestion et de comptabilité
+
+(transmission sur demande de l'Agence nationale de l'habitat)
+
 |
+
+X |
+
+X |
+
+Si plus de trois mandats perception de fonds reçus
+
+X
+
+|
+
+X |
+
+PJ |
+
+Plan de contrôle de l'activité du mandataire (annexe 4 ter du présent arrêté)
+
+(transmission sur demande de l'Agence nationale de l'habitat)
+
+|
+
+X |
+
+X |
+
+Si plus de trois mandats perception de fonds reçus
+
+X
+
+|
+
+X |
+
+PJ |
+
+Bilan annuel de mise en œuvre du plan de contrôle de l'activité du mandataire (annexe 4 ter du présent arrêté)
+
+(transmission sur demande de l'Agence nationale de l'habitat)
+
+|
+
+X |
+
+X |
+
+Si plus de trois mandats perception de fonds reçus
+
+X
+
+|
+
+X |
 
 NOTA :
 
-Conformément à l'article 7 de l'arrêté du 30 décembre 2021 (NOR : LOGL2135153A), ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2022.
+Conformément à l’article 6 de l’arrêté du 16 juin 2025 (NOR : ATDL2514285A), ces dispositions entrent en vigueur le 1er juillet 2025 et s'appliquent à tous les mandats signés à compter de cette date. Elles sont sans incidence sur les mandats signés avant cette date.

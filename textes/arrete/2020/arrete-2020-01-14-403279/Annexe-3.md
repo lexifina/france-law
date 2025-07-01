@@ -30,7 +30,7 @@ Pour les propriétaires bailleurs :
 
 Devis détaillé des travaux |
 
-Formulaire CERFA de désignation d'un mandataire de gestion |
+Formulaire CERFA de désignation d'un mandataire de gestion administrative |
 
 A compter du 1er janvier 2026, uniquement pour les travaux et prestations visés du 2 au 12 de l'annexe 1 du décret du 14 janvier 2020 susvisé, hors logements situés en Guadeloupe, en Martinique, à La Réunion ou à Mayotte et hors travaux ou prestations visés aux troisième et quatrième alinéas du V de l'article 1 du décret du 14 janvier 2020 susvisé : diagnostic de performance énergétique ou audit énergétique visés au 3° du I de l'article 4 du présent arrêté |
 
@@ -52,9 +52,9 @@ Formulaire de demande d'avance |
 
 Devis détaillé des travaux daté et signé par le demandeur et le cas échéant son mandataire et l'entreprise avec mention de demande d'acompte de l'entreprise |
 
-Formulaire CERFA de désignation d'un mandataire de gestion |
+Formulaire CERFA de désignation d'un mandataire de gestion administrative |
 
-Formulaire CERFA de désignation d'un mandataire de perception |
+Formulaire CERFA de désignation d'un mandataire de perception des fonds |
 
 RIB au nom du demandeur |
 
@@ -66,7 +66,7 @@ Factures |
 
 Certificat de qualification ou certification RGE |
 
-Formulaire CERFA de désignation d'un mandataire de gestion |
+Formulaire CERFA de désignation d'un mandataire de gestion administrative |
 
 Formulaire CERFA de désignation d'un mandataire de perception des fonds signé par le mandant et le mandataire |
 
@@ -88,4 +88,4 @@ Uniquement pour l'ensemble de travaux visé au 15 de l'annexe 1 du décret du 14
 
 NOTA :
 
-Conformément à l’article 6 de l’arrêté du 4 décembre 2024 (NOR : LRUL2427040A), ces dispositions entrent en vigueur le 1er janvier 2025 et s'appliquent aux demandes de primes déposées à compter de cette même date.
+Conformément à l’article 6 de l’arrêté du 16 juin 2025 (NOR : ATDL2514285A), ces dispositions entrent en vigueur le 1er juillet 2025 et s'appliquent à tous les mandats signés à compter de cette date. Elles sont sans incidence sur les mandats signés avant cette date..
