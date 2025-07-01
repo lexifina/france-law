@@ -1,0 +1,9 @@
+# Réponse à la question n° 4771
+
+- Question : [4771](4771.md) — Question n° 4771 — Fermeture petites lignes SNCF dans l'Yonne et Bourgogne-Franche-Comté
+
+## Réponse
+
+*JO du 2025-07-01, page 5901*
+
+L'organisation des services ferroviaires régionaux relèvent de la seule compétence de la Région, en qualité d'autorité organisatrice des mobilités. Les petites lignes, en Bourgogne – Franche-Comté, sont situées en premier lieu dans des zones rurales ou de montagne et l'État a démontré son engagement en faveur de ces territoires. En effet, en mars 2021, il a signé avec la Région un protocole d'accord prévoyant des investissements à hauteur d'environ 450 M€ sur dix ans, dont plus de 65 % financés par l'État et SNCF Réseau. Dans ce cadre, il est prévu que la régénération de la ligne Clamecy-Corbigny soit cofinancée par l'État et par la région. Cette ligne ne fait ainsi, en aucun cas, l'objet d'un « déclassement ». Cette ligne a subi le déraillement d'un TER en août 2024. Des mesures correctives d'urgence ont été mises en œuvre par SNCF Réseau et ont permis de rétablir rapidement la circulation des trains. Des investissements complémentaires sont nécessaires à court et moyen termes pour assurer la pérennité de la ligne. Dans ce contexte, la présidente de la Région Bourgogne-Franche-Comté a sollicité l'appui du ministre chargé des transports, via une mission de l'Inspection générale de l'environnement et du développement durable, pour analyser la situation de plusieurs petites lignes ferroviaires de la région, dont Clamecy-Corbigny. La lettre de mission a été signée le 20 février 2025 par le ministre et ses conclusions doivent être partagées d'ici l'été 2025 avec la Région. Elles permettront de mieux appréhender les perspectives de cette liaison pour répondre de la façon la plus efficiente possible à la demande de mobilité des territoires concernés.
