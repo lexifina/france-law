@@ -74,6 +74,8 @@ Ecole nationale supérieure d'architecture de Paris-Malaquais.
 
 Ecole nationale supérieure d'architecture de Paris-Val de Seine.
 
+Ecole nationale supérieure d'architecture de La Réunion.
+
 Ecole nationale supérieure d'architecture de Saint-Etienne.
 
 Ecole nationale supérieure d'architecture de Strasbourg.
