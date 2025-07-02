@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SACOGIVA - OPÉRATION LES FACULTÉS - ACQUISITION/AMÉLIORATION DE 130 LOGEMENTS LOCATIFS SOCIAUX PLS - EMPRUNT TOTAL DE 10 569 078 EUROS SOUSCRIT AUPRÈS DE LA CAISSE DES DÉPÔTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 100 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2025-07-02
+- Séance : Conseil Municipal 1CA
+- Objet : SACOGIVA - OPÉRATION LES FACULTÉS - ACQUISITION/AMÉLIORATION DE 130 LOGEMENTS LOCATIFS SOCIAUX PLS - EMPRUNT TOTAL DE 10 569 078 EUROS SOUSCRIT AUPRÈS DE LA CAISSE DES DÉPÔTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 100 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-20029-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
