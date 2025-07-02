@@ -2,7 +2,7 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 30 juin 2025 :
+Jusqu'au 15 septembre 2025 :
 
 Dzaoudzi-Moroni (Comores) exploitée exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires ;
 
