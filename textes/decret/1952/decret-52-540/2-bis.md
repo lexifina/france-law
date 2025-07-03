@@ -1,72 +1,68 @@
 # Article 2 bis
 
-I - Les marins exerçant dans les ports français, à titre d'activité principale, le pilotage des navires sont classés selon les équivalences de fonctions ci-après :
+I. - Les marins exerçant dans les ports français, à titre d'activité principale, le pilotage des navires sont classés selon les équivalences de fonctions ci-après :
 
-En 19ème catégorie lorsqu'ils relèvent des stations de :
+En 19e catégorie lorsqu'ils relèvent des stations de :
 
-Dunkerque.
-
-Calais.
-
-Le Havre.
-
-La Seine.
-
-Cherbourg.
+Boulogne - Calais.
 
 Brest.
 
-La Loire.
+Cherbourg.
+
+Corse du Sud.
+
+Dunkerque.
+
+Haute-Corse.
 
 La Gironde.
 
-Sète.
+La Guadeloupe.
 
-Marseille - Golfe de Fos.
+La Loire.
 
-Fort-de-France.
+La Martinique.
 
-Nouméa.
+La Nouvelle Calédonie.
 
-En 18ème catégorie lorsqu'ils relèvent des stations de :
-
-Boulogne.
-
-Dieppe.
-
-Caen-Ouistreham.
-
-Baie de Saint-Brieuc.
-
-Saint-Malo.
-
-Lorient.
-
-La Rochelle-Pallice.
-
-L'Adour.
-
-Port-La-Nouvelle.
-
-Toulon.
-
-Nice-Villefranche.
-
-Bastia.
-
-Ajaccio.
-
-Pointe-à-Pitre.
+La Polynésie française.
 
 La Réunion.
 
-La Guyane.
+La Rochelle.
 
-Papeete.
+La Seine.
+
+Le Havre.
+
+Marseille - Fos.
+
+Sète.
+
+Toulon.
+
+En 18e catégorie lorsqu'ils relèvent des stations de :
+
+L'Adour.
+
+La Guyane française.
+
+Les Côtes d'Armor.
+
+Lorient.
+
+Nice - Cannes - Villefranche.
+
+Mayotte.
+
+Port La Nouvelle - Port Vendres.
+
+Saint-Malo.
 
 Saint-Pierre-et-Miquelon.
 
-En 15ème s'ils relèvent de stations autres que celles qui sont mentionnées ci-dessus.
+En 15e catégorie s'ils relèvent de stations autres que celles qui sont mentionnées ci-dessus.
 
 II - Les fonctions de pilote exercées dans un port français à titre accessoire par un marin en activité n'ouvrent pas droit à classement particulier.
 
