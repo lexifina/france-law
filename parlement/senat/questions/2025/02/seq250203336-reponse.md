@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203336
+
+- Question : [SEQ250203336](seq250203336.md) — Financement de la recherche
+
+## Réponse
+
+*Enseignement supérieur et recherche , JO du 2025-07-03, page 3831*
+
+La mobilisation des entreprises à l'effort de recherche national est une des fortes préoccupations du ministère chargé de l'enseignement supérieur et de la recherche. En effet, le niveau actuel d'investissement des entreprises françaises dans la recherche et développement (R&D) est depuis de nombreuses années en retrait par rapport aux niveaux atteints dans les grandes économies industrielles. Pour rattraper ce retard et rester dans la course, plusieurs initiatives sont en cours de déploiement. Tout d'abord, la recherche partenariale est l'un des trois chantiers ouverts dans le cadre de la revoyure de la loi de programmation de la recherche. Ce chantier doit permettre le développement de l'intensité de la recherche privée grâce au levier de la recherche publique. Les services du ministère sont actuellement mobilisés pour proposer des mesures permettant de renforcer les partenariats public-privé, mesures qui feront l'objet d'arbitrage dans le prochain projet de loi de finances 2026. En parallèle, le ministre chargé de la recherche a missionné, conjointement avec le ministre chargé de l'industrie, deux personnalités qualifiées (une de la sphère académique, une autre du monde industriel) pour prioriser des actions concrètes à mettre en oeuvre rapidement afin que la recherche publique puisse avoir un véritable effet de levier sur l'investissement en R&D des entreprises. Enfin, dans le cadre de France 2030, le ministère porte le développement d'actions de transfert de technologies et de valorisation au sein des programmes et équipements prioritaires de recherche (dirigés et exploratoires), afin que la recherche de pointe puisse rapidement se transformer en innovations portées par les entreprises.
