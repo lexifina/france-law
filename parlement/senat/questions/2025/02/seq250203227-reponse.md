@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203227
+
+- Question : [SEQ250203227](seq250203227.md) — Responsabilité de l'Etat sur l'entretien et  la pérennisation des lignes ferroviaires de desserte fine du territoire opérées par la SNCF
+
+## Réponse
+
+*Transports, JO du 2025-07-03, page 3844*
+
+L'organisation des services ferroviaires régionaux relèvent de la seule compétence de la Région, en qualité d'autorité organisatrice des mobilités. Les petites lignes qui, en Bourgogne - Franche-Comté, sont situées en premier lieu dans des zones rurales ou de montagne et l'État a démontré son engagement en faveur de ces territoires. En effet, en mars 2021, il a signé avec la région un protocole d'accord prévoyant des investissements à hauteur d'environ 450 Meuros sur dix ans, dont plus de 65 % financés par l'État et SNCF Réseau. Dans ce cadre, il est prévu que la régénération de la ligne Clamecy-Corbigny soit cofinancée par l'État et par la Région. Cette ligne ne fait ainsi, en aucun cas, l'objet d'un « déclassement ». Cette ligne a subi le déraillement d'un TER en août 2024. Des mesures correctives d'urgence ont été mises en oeuvre par SNCF Réseau et ont permis de rétablir rapidement la circulation des trains. Des investissements complémentaires sont nécessaires à court et moyen termes pour assurer la pérennité de la ligne. Dans ce contexte, la présidente de la région Bourgogne-Franche-Comté a sollicité l'appui du ministre chargé des transports, via une mission de l'Inspection générale de l'environnement et du développement durable, pour analyser la situation de plusieurs petites lignes ferroviaires de la Région, dont Clamecy-Corbigny. La lettre de mission a été signée le 20 février 2025 par le ministre et ses conclusions doivent être partagées d'ici l'été 2025 avec la région. Elles permettront de mieux appréhender les perspectives de cette liaison pour répondre de la façon la plus efficiente possible à la demande de mobilité des territoires concernés.
