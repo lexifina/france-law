@@ -8,23 +8,23 @@ Le cluster de Paris-Saclay représente une concentration unique en France d'éta
 
 Ces écoles sont au service de l'intérêt général et ont la fierté de contribuer à des formations et des recherches de haut niveau ainsi qu'à la prospérité et au rayonnement de la France. Elles partagent des valeurs, des missions et des objectifs :
 
-- conduire, en propre ou en cotutelle avec les organismes nationaux de recherche, en coopération avec des universités, des écoles partenaires ou des partenaires industriels, une recherche au meilleur niveau mondial. Cette recherche, dont la transdisciplinarité est encouragée, vise une double ambition d'excellence académique et de réponse aux besoins de l'économie et de la société et, plus généralement, de réponse aux défis auxquels la France et le monde sont confrontés ;
+-conduire, en propre ou en cotutelle avec les organismes nationaux de recherche, en coopération avec des universités, des écoles partenaires ou des partenaires industriels, une recherche au meilleur niveau mondial. Cette recherche, dont la transdisciplinarité est encouragée, vise une double ambition d'excellence académique et de réponse aux besoins de l'économie et de la société et, plus généralement, de réponse aux défis auxquels la France et le monde sont confrontés ;
 
-- recruter et former des étudiants français et internationaux au meilleur niveau mondial dans le domaine des sciences et des techniques, de leurs applications et du management, utilisant une pédagogie associant enseignement et recherche, s'appuyant sur le potentiel de recherche des écoles, avec un accent fort mis sur l'entreprenariat et la formation humaine ;
+-recruter et former des étudiants français et internationaux au meilleur niveau mondial dans le domaine des sciences et des techniques, de leurs applications et du management, utilisant une pédagogie associant enseignement et recherche, s'appuyant sur le potentiel de recherche des écoles, avec un accent fort mis sur l'entreprenariat et la formation humaine ;
 
-- mener des actions de valorisation des recherches conduites au sein des laboratoires ainsi que soutenir des projets proposés par des étudiants ou par des candidats entrepreneurs sélectionnés susceptibles de bénéficier de l'apport de l'écosystème constitué par ces écoles. De telles actions pourront correspondre à la fois à des actions de transfert de technologie vers des partenaires industriels existants tout autant que des actions de maturation, d'accélération, d'incubation ou de financement de start-ups ;
+-mener des actions de valorisation des recherches conduites au sein des laboratoires ainsi que soutenir des projets proposés par des étudiants ou par des candidats entrepreneurs sélectionnés susceptibles de bénéficier de l'apport de l'écosystème constitué par ces écoles. De telles actions pourront correspondre à la fois à des actions de transfert de technologie vers des partenaires industriels existants tout autant que des actions de maturation, d'accélération, d'incubation ou de financement de start-ups ;
 
-- entretenir des liens étroits avec le monde de l'entreprise, qui se traduisent par des partenariats de recherche et de formation ainsi que par la présence significative d'entreprises dans la gouvernance des écoles, par un financement contractuel ou philanthropique de leurs activités, et par un soutien à l'entrepreneuriat ;
+-entretenir des liens étroits avec le monde de l'entreprise, qui se traduisent par des partenariats de recherche et de formation ainsi que par la présence significative d'entreprises dans la gouvernance des écoles, par un financement contractuel ou philanthropique de leurs activités, et par un soutien à l'entrepreneuriat ;
 
-- contribuer au rayonnement de la recherche et des formations françaises, permettre d'attirer des talents et participer à la formation des chercheurs, cadres à haut potentiel et décideurs capables de relever les défis du développement économique et social ainsi que des transitions écologique, énergétique et numérique ;
+-contribuer au rayonnement de la recherche et des formations françaises, permettre d'attirer des talents et participer à la formation des chercheurs, cadres à haut potentiel et décideurs capables de relever les défis du développement économique et social ainsi que des transitions écologique, énergétique et numérique ;
 
-- contribuer à faire du site de Palaiseau une destination reconnue internationalement pour ses talents, ses découvertes et inventions, ainsi que pour la création de valeur économique, intellectuelle et scientifique qui en résulte.
+-contribuer à faire du site de Palaiseau une destination reconnue internationalement pour ses talents, ses découvertes et inventions, ainsi que pour la création de valeur économique, intellectuelle et scientifique qui en résulte.
 
-Titre Ier
+Titre I er
 
 DISPOSITIONS GÉNÉRALES
 
-Article 1er
+Article 1 er
 
 Nature juridique et périmètre d'action
 
@@ -38,9 +38,9 @@ Article 2
 
 Composition
 
-L'Institut polytechnique de Paris regroupe l'Ecole polytechnique, l'Ecole nationale supérieure de techniques avancées (ENSTA), l'Ecole nationale des ponts et chaussées (ENPC), le Groupe des écoles nationales d'économie et statistique (GENES), au périmètre de l'Ecole nationale de la statistique et de l'administration économique (ENSAE Paris), ainsi que l'Institut Mines-Télécom, au périmètre de Télécom Paris et Télécom SudParis.
+L'Institut polytechnique de Paris regroupe l'Ecole polytechnique, l'Ecole nationale supérieure de techniques avancées (ENSTA), l'Ecole nationale des ponts et chaussées (ENPC), le Groupe des écoles nationales d'économie et statistique (Groupe ENSAE-ENSAI), au périmètre de l'Ecole nationale de la statistique et de l'administration économique (ENSAE Paris), ainsi que l'Institut Mines-Télécom, au périmètre de Télécom Paris et Télécom SudParis.
 
-Les établissements-composantes de l'Institut polytechnique de Paris sont l'Ecole polytechnique, l'ENSTA, l'ENPC, le GENES et l'Institut Mines-Télécom. Ils conservent leur personnalité morale.
+Les établissements-composantes de l'Institut polytechnique de Paris sont l'Ecole polytechnique, l'ENSTA, l'ENPC, le Groupe ENSAE-ENSAI et l'Institut Mines-Télécom. Ils conservent leur personnalité morale.
 
 Les écoles-membres de l'Institut polytechnique de Paris relevant du projet partagé sont l'Ecole polytechnique, l'ENSTA, l'ENPC, l'ENSAE Paris, Télécom Paris et Télécom SudParis.
 
@@ -154,7 +154,7 @@ Article 5
 
 Moyens d'action
 
-I. - Aux fins d'exercer ses compétences, l'Institut polytechnique de Paris mène les actions suivantes :
+I.-Aux fins d'exercer ses compétences, l'Institut polytechnique de Paris mène les actions suivantes :
 
 1° Dans le cadre de la mise en place et de la gestion de l'établissement public, il alloue des financements ou des équipements, tels que des plates-formes technologiques, espaces d'accueil et d'hébergement, services support et facilités logistiques ;
 
@@ -196,7 +196,7 @@ Pour l'assister dans l'exercice de ses missions, le président du directoire dé
 
 L'Institut polytechnique de Paris est doté d'un comité d'orientation scientifique international.
 
-Chapitre Ier
+Chapitre I er
 
 Le conseil d'administration
 
@@ -222,43 +222,43 @@ Outre son président, le conseil d'administration comprend trente membres :
 
 1° Huit représentants de l'Etat ainsi désignés :
 
-- deux par le ministre de la défense ;
+-deux par le ministre de la défense ;
 
-- deux par le ministre chargé de l'économie ;
+-deux par le ministre chargé de l'économie ;
 
-- un par le ministre chargé de l'enseignement supérieur ;
+-un par le ministre chargé de l'enseignement supérieur ;
 
-- un par le ministre chargé de la recherche ;
+-un par le ministre chargé de la recherche ;
 
-- un par le ministre chargé du budget ;
+-un par le ministre chargé du budget ;
 
-- un par le ministre chargé du développement durable ;
+-un par le ministre chargé du développement durable ;
 
 2° Deux représentants des collectivités territoriales :
 
-- un représentant de la région Ile-de-France, désigné par le président du conseil régional ;
+-un représentant de la région Ile-de-France, désigné par le président du conseil régional ;
 
-- un représentant de la commune de Palaiseau, désigné par le maire ;
+-un représentant de la commune de Palaiseau, désigné par le maire ;
 
 3° Dix personnalités qualifiées choisies pour leurs compétences en matière scientifique, technologique, économique ou industrielle, nommées par arrêtés conjoints du ministre chargé de l'économie et du ministre de la défense, dont :
 
-- cinq personnalités proposées par chacun des établissements-composantes, issues de leur conseil d'administration respectif ;
+-cinq personnalités proposées par chacun des établissements-composantes, issues de leur conseil d'administration respectif ;
 
-- un diplômé de l'Institut polytechnique de Paris ou de l'une de ses écoles-membres ;
+-un diplômé de l'Institut polytechnique de Paris ou de l'une de ses écoles-membres ;
 
 4° Dix représentants élus des personnels et usagers de l'Institut polytechnique de Paris et des écoles-membres ainsi que de leurs laboratoires, dont :
 
-- trois représentants des personnels d'enseignement et de recherche de l'Institut polytechnique de Paris et des écoles-membres, parmi lesquels :
+-trois représentants des personnels d'enseignement et de recherche de l'Institut polytechnique de Paris et des écoles-membres, parmi lesquels :
 
 a) un représentant des professeurs et assimilés, ou deux représentants de ces personnels si leur nombre est supérieur à celui des autres personnels d'enseignement et de recherche visés au b ci-dessous ;
 
 b) un représentant des autres personnels d'enseignement et de recherche, ou deux représentants de ces personnels si leur nombre est supérieur à celui des professeurs et assimilés visés au a ci-dessus ;
 
-- un représentant des personnels de recherche affectés dans les laboratoires de l'Institut polytechnique de Paris ou des écoles-membres, et dont ils ne sont pas employeurs ;
+-un représentant des personnels de recherche affectés dans les laboratoires de l'Institut polytechnique de Paris ou des écoles-membres, et dont ils ne sont pas employeurs ;
 
-- deux représentants des autres personnels de l'Institut polytechnique de Paris et des écoles-membres ;
+-deux représentants des autres personnels de l'Institut polytechnique de Paris et des écoles-membres ;
 
-- quatre représentants des usagers, parmi lesquels :
+-quatre représentants des usagers, parmi lesquels :
 
 a) deux représentants des étudiants en formation d'ingénieurs issus d'écoles-membres différentes ;
 
@@ -434,7 +434,7 @@ Le conseil académique comprend cinquante et un membres répartis de la manière
 
 3° Trente-deux représentants-élus des personnels et des usagers de l'Institut polytechnique de Paris et de ses écoles-membres, dont :
 
-- dix-neuf représentants élus parmi les personnels d'enseignement et de recherche de l'Institut polytechnique de Paris et des écoles-membres, parmi lesquels :
+-dix-neuf représentants élus parmi les personnels d'enseignement et de recherche de l'Institut polytechnique de Paris et des écoles-membres, parmi lesquels :
 
 a) sept représentants des professeurs et assimilés ;
 
@@ -442,9 +442,9 @@ b) sept représentants des autres personnels d'enseignement et de recherche ;
 
 c) cinq représentants des personnels des organismes de recherche dont ni l'Institut polytechnique de Paris ni les établissements-composantes ne sont employeurs ;
 
-- cinq représentants élus parmi les autres personnels ;
+-cinq représentants élus parmi les autres personnels ;
 
-- huit représentants élus des usagers, parmi lesquels :
+-huit représentants élus des usagers, parmi lesquels :
 
 a) cinq étudiants en formation d'ingénieur, issus chacun d'une école-membre différente ;
 
@@ -512,13 +512,13 @@ Article 10
 
 Présidence du directoire
 
-I. - Le président du directoire est nommé par décret pris sur le rapport des ministres de tutelle pour une durée de cinq ans.
+I.-Le président du directoire est nommé par décret pris sur le rapport des ministres de tutelle pour une durée de cinq ans.
 
 Cette fonction est incompatible avec toute autre fonction exécutive au sein des établissements-composantes.
 
 Par dérogation aux dispositions de l'article L. 711-10 du code de l'éducation en application de l'article 6 de l'ordonnance n° 2018-1131 du 12 décembre 2018, l'âge limite du président du directoire est fixé à soixante-dix ans. Le président du directoire peut rester en fonction jusqu'au 31 août suivant la date à laquelle il a atteint cet âge.
 
-II. - Il assure la direction de l'Institut polytechnique de Paris dans le cadre des orientations définies par le conseil d'administration.
+II.-Il assure la direction de l'Institut polytechnique de Paris dans le cadre des orientations définies par le conseil d'administration.
 
 A ce titre, outre celles qui lui ont été déléguées par le conseil d'administration, le président du directoire exerce, notamment, les responsabilités suivantes :
 
@@ -556,7 +556,7 @@ A ce titre, outre celles qui lui ont été déléguées par le conseil d'adminis
 
 Il peut déléguer sa signature aux personnes placées sous son autorité hiérarchique ainsi qu'aux membres du directoire.
 
-III. - Le président du directoire, pour s'assurer de la conformité de l'action des écoles-membres aux statuts de l'Institut et à la politique générale qu'il conduit :
+III.-Le président du directoire, pour s'assurer de la conformité de l'action des écoles-membres aux statuts de l'Institut et à la politique générale qu'il conduit :
 
 1° Est invité permanent des conseils d'administration ou, le cas échéant, des conseils d'école des écoles-membres ;
 
@@ -572,7 +572,7 @@ Composition du directoire
 
 Le directoire prépare les délibérations stratégiques du conseil d'administration. Il est consulté sur les projets de délibérations qui sont soumis au conseil d'administration et rend un avis dans les cas requis par les présents statuts.
 
-Il est composé, outre son président, des directeurs de l'Ecole polytechnique, de l'ENSTA, de l'ENPC, de Télécom Paris et de Télécom SudParis, l'ENSAE Paris étant représentée par le directeur général du GENES.
+Il est composé, outre son président, des directeurs de l'Ecole polytechnique, de l'ENSTA, de l'ENPC, de Télécom Paris et de Télécom SudParis, l'ENSAE Paris étant représentée par le directeur général du Groupe ENSAE-ENSAI.
 
 Le directeur de l'ENSAE Paris est invité permanent.
 
@@ -602,31 +602,31 @@ Article 11
 
 Dispositions communes aux élections et au mandat du conseil d'administration et du conseil académique de l'Institut polytechnique de Paris
 
-I. - Les membres du conseil d'administration et du conseil académique de l'Institut polytechnique de Paris, en dehors des représentants de l'Etat et des collectivités territoriales, des personnalités qualifiées et du président, sont élus au suffrage direct et conformément aux dispositions des articles L. 719-1 et L. 719-2 du code de l'éducation, sous réserve des dispositions particulières prévues aux présents statuts, dans des collèges distincts par un vote qui peut être effectué par voie électronique, au scrutin secret de liste à un tour par collège, avec représentation proportionnelle au plus fort reste, possibilité de listes incomplètes et sans panachage. Lorsqu'un seul siège est à pourvoir pour un collège déterminé, le scrutin a lieu au scrutin majoritaire à un tour. Le vote électronique par internet est autorisé dans les conditions fixées par les articles 2 à 17 du décret n° 2011-595 du 26 mai 2011 relatif aux conditions et modalités de mise en œuvre du vote électronique par internet pour l'élection des représentants du personnel au sein des instances de représentation du personnel de la fonction publique de l'Etat.
+I.-Les membres du conseil d'administration et du conseil académique de l'Institut polytechnique de Paris, en dehors des représentants de l'Etat et des collectivités territoriales, des personnalités qualifiées et du président, sont élus au suffrage direct et conformément aux dispositions des articles L. 719-1 et L. 719-2 du code de l'éducation, sous réserve des dispositions particulières prévues aux présents statuts, dans des collèges distincts par un vote qui peut être effectué par voie électronique, au scrutin secret de liste à un tour par collège, avec représentation proportionnelle au plus fort reste, possibilité de listes incomplètes et sans panachage. Lorsqu'un seul siège est à pourvoir pour un collège déterminé, le scrutin a lieu au scrutin majoritaire à un tour. Le vote électronique par internet est autorisé dans les conditions fixées par les articles 2 à 17 du décret n° 2011-595 du 26 mai 2011 relatif aux conditions et modalités de mise en œuvre du vote électronique par internet pour l'élection des représentants du personnel au sein des instances de représentation du personnel de la fonction publique de l'Etat.
 
 Le président du directoire assure l'organisation des opérations électorales. Il est assisté à cet effet d'une commission électorale dont la composition et les compétences sont définies dans le règlement intérieur. Tout recours juridictionnel contre les élections doit être précédé d'un recours déposé auprès du président du directoire dans un délai de cinq jours à compter de l'affichage des résultats. Le président du directoire statue sur ce recours dans les huit jours de son dépôt. A défaut, le recours est réputé rejeté.
 
 Participent aux élections du conseil d'administration et au conseil académique de l'Institut polytechnique de Paris l'ensemble des personnels et des usagers de l'établissement et des écoles-membres. Les conditions pour être électeur ou éligible sont définies par le règlement intérieur. Afin que le président du conseil d'administration puisse arrêter les listes des électeurs pour les différentes élections, celui-ci et les directeurs des écoles-membres établissent les listes de leurs personnels et des usagers inscrits dans leurs formations, ainsi que des personnels de recherche en fonction dans des unités associées à l'Institut polytechnique de Paris ou à l'une de ses écoles-membres mais non employés par eux. Toute réclamation sur les listes établies est adressée au président du conseil d'administration, qui statue sur celle-ci dans les conditions définies par le règlement intérieur.
 
-II. - Le mandat des membres du conseil d'administration et du conseil académique court à compter de la première réunion du conseil d'administration convoquée après l'élection des représentants des personnels.
+II.-Le mandat des membres du conseil d'administration et du conseil académique court à compter de la première réunion du conseil d'administration convoquée après l'élection des représentants des personnels.
 
 Le mandat des représentants élus des usagers qui siègent à l'un des conseils, d'administration ou académique, pendant la seconde partie du mandat des représentants élus des personnels prend effet à compter de l'expiration du mandat de leurs prédécesseurs et expire à l'échéance du mandat des représentants élus des personnels.
 
-III. - Les membres du conseil d'administration et du conseil académique siègent valablement jusqu'au début du mandat de leurs successeurs.
+III.-Les membres du conseil d'administration et du conseil académique siègent valablement jusqu'au début du mandat de leurs successeurs.
 
 Article 11.1
 
 Dispositions communes au fonctionnement des conseils
 
-I. - Les présidents des conseils peuvent inviter à assister, avec voix consultative, à tout ou partie des séances de leur conseil, ou faire entendre par le conseil, toute personne dont la présence leur paraît susceptible de l'éclairer sur l'une des questions inscrites à l'ordre du jour ou de contribuer aux travaux du conseil.
+I.-Les présidents des conseils peuvent inviter à assister, avec voix consultative, à tout ou partie des séances de leur conseil, ou faire entendre par le conseil, toute personne dont la présence leur paraît susceptible de l'éclairer sur l'une des questions inscrites à l'ordre du jour ou de contribuer aux travaux du conseil.
 
-II. - Les modalités d'organisation et de fonctionnement des conseils mentionnés aux chapitres Ier et II sont précisées par le règlement intérieur de l'Institut polytechnique de Paris.
+II.-Les modalités d'organisation et de fonctionnement des conseils mentionnés aux chapitres Ier et II sont précisées par le règlement intérieur de l'Institut polytechnique de Paris.
 
-III. - Les membres des conseils peuvent assister à la réunion du conseil concerné par des moyens de visioconférence ou de télécommunication permettant leur identification et leur participation effective à une délibération collégiale, et satisfaisant à des caractéristiques techniques garantissant la transmission continue et simultanée des débats.
+III.-Les membres des conseils peuvent assister à la réunion du conseil concerné par des moyens de visioconférence ou de télécommunication permettant leur identification et leur participation effective à une délibération collégiale, et satisfaisant à des caractéristiques techniques garantissant la transmission continue et simultanée des débats.
 
-IV. - Les membres des conseils peuvent être consultés par le président du conseil concerné, par voie électronique entre deux réunions programmées du conseil, pour toute question urgente. Les décisions sont prises dans les mêmes conditions de quorum et de majorité que celles prévues pour les délibérations habituelles. Il est rendu compte aux membres de la décision prise dès la réunion suivante du conseil.
+IV.-Les membres des conseils peuvent être consultés par le président du conseil concerné, par voie électronique entre deux réunions programmées du conseil, pour toute question urgente. Les décisions sont prises dans les mêmes conditions de quorum et de majorité que celles prévues pour les délibérations habituelles. Il est rendu compte aux membres de la décision prise dès la réunion suivante du conseil.
 
-V. - Les fonctions de membre des conseils prévus aux chapitres Ier et II sont exercées à titre gratuit. Toutefois, les frais de déplacement et de séjour peuvent leur être remboursés dans les conditions fixées par la réglementation applicable en matière de déplacements temporaires du personnel civil et militaire de l'Etat.
+V.-Les fonctions de membre des conseils prévus aux chapitres Ier et II sont exercées à titre gratuit. Toutefois, les frais de déplacement et de séjour peuvent leur être remboursés dans les conditions fixées par la réglementation applicable en matière de déplacements temporaires du personnel civil et militaire de l'Etat.
 
 Titre IV
 
