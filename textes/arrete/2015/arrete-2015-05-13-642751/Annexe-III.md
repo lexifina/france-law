@@ -2,7 +2,7 @@
 
 PROGRAMME D'ÉCONOMIE ET DE SCIENCES SOCIALES DES CONCOURS D'ADMINISTRATEUR DE L'INSEE
 
-I. - Microéconomie (épreuves écrite et orale du concours externe, épreuve orale du concours interne)
+I. - Microéconomie (épreuves écrite et orale du concours externe, épreuve écrite du concours interne)
 
 A. - La théorie du consommateur
 

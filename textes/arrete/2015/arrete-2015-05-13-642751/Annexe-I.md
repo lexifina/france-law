@@ -95,3 +95,17 @@ Motivations pour la carrière d'administrateur de l'INSEE (1 page maximum) :
 Pour les candidats titulaires d'un doctorat (domaine de la thèse présentée, résumé de la thèse et listes des articles publiés pendant la thèse ou postérieurement en lien avec la thèse)
 
 (2 pages maximum)
+
+CONCOURS INTERNE D'ADMINISTRATEUR DE L'INSTITUT NATIONAL DE LA STATISTIQUE ET DES ÉTUDES ÉCONOMIQUES
+
+Epreuve d'entretien d'admission :
+
+Dossier individuel (destiné aux membres du jury) :
+
+-identité ;
+
+-parcours d'études et formations suivies ;
+
+-expériences professionnelles ;
+
+-acquis de l'expérience professionnelle.
