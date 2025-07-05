@@ -1,8 +1,8 @@
 # Article ANNEXE I
 
-LISTE DES CYCLES DE FORMATION DÉNOMMÉS "PRÉPAS TALENTS" PRÉPARANT AUX CONCOURS D'ACCÈS À CERTAINS ÉTABLISSEMENTS ASSURANT LA FORMATION DE FONCTIONNAIRES OUVRANT DROIT À L'INSCRIPTION AUX CONCOURS EXTERNES SPÉCIAUX PRÉVUS PAR LE DÉCRET N° 2021-239 DU 3 MARS 2021
+LISTE DES CYCLES DE FORMATION DÉNOMMÉS " PRÉPAS TALENTS " PRÉPARANT AUX CONCOURS D'ACCÈS À CERTAINS ÉTABLISSEMENTS ASSURANT LA FORMATION DE FONCTIONNAIRES OUVRANT DROIT À L'INSCRIPTION AUX CONCOURS EXTERNES SPÉCIAUX PRÉVUS PAR LE DÉCRET N° 2021-239 DU 3 MARS 2021
 
-La liste des cycles de formation dénommés "Prépas Talents" mentionnés à l'article 3 du décret du 3 mars 2021 susvisé, ouvrant droit à l'inscription aux concours externes spéciaux prévus par le titre III du même décret dans les conditions prévues par l'article 4 du même décret, notamment celle d'avoir bénéficié durant ce cycle d'une préparation à l'un des concours mentionnés au 2° du même article 4, est la suivante :
+La liste des cycles de formation dénommés " Prépas Talents " mentionnés à l'article 3 du décret du 3 mars 2021 susvisé, ouvrant droit à l'inscription aux concours externes spéciaux prévus par le titre III du même décret dans les conditions prévues par l'article 4 du même décret, notamment celle d'avoir bénéficié durant ce cycle d'une préparation à l'un des concours mentionnés au 2° du même article 4, est la suivante :
 
 - Prépa Talents de l'Ecole des hautes études en santé publique
 
@@ -32,13 +32,13 @@ La liste des cycles de formation dénommés "Prépas Talents" mentionnés à l'a
 
 - Prépa Talents Métiers de l'administration pénitentiaire Hauts-de-France de l'université de Lille
 
-- Prépa Talents du service public “ Direction de l'Action Publique ” de l'université d'Orléans
+- Prépa Talents du service public " Direction de l'Action Publique " de l'université d'Orléans
 
 - Prépa MotivTalents de l'Institut d'études politiques de Paris
 
 - Prépa Talents tout au long de la vie du Centre national des arts et métiers
 
-- Prépa Talents M2 de “ Concours A + ” de l'université Paris-Panthéon-Assas
+- Prépa Talents M2 de " Concours A + " de l'université Paris-Panthéon-Assas
 
 - Prépa Talents de l'ENSP de l'université Paris-Panthéon-Assas
 
@@ -76,4 +76,6 @@ La liste des cycles de formation dénommés "Prépas Talents" mentionnés à l'a
 
 - Prépa Talents de l'université Paris Dauphine-PSL ;
 
-- Prépa Talents “ métiers de l'administration et de la justice ” de l'université d'Aix-Marseille.
+- Prépa Talents " métiers de l'administration et de la justice " de l'université d'Aix-Marseille ;
+
+- Prépa Talents " Politiques publiques Sociales, Sanitaires, Médico-sociales et de l'Emploi " de l'université d'Orléans (Bourges).

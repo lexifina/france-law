@@ -60,9 +60,7 @@ La liste des cycles de formation dénommés " Prépas Talents " mentionnés à l
 
 -Prépa Talents de l'Institut de préparation à l'administration générale de Rennes ;
 
--Prépa Talents “ culture juridique pour ingénieur ” de l'université d'Orléans (Bourges) ;
-
--Prépa Talents “ collectivités territoriales ” de l'université d'Orléans (Châteauroux) ;
+-Prépa Talents "collectivités territoriales " de l'université d'Orléans (Châteauroux) ;
 
 -Prépa Talents gendarmerie de Montpellier ;
 
