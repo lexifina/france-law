@@ -2028,7 +2028,7 @@ A |
 
 |
 
-Incinération de cadavres d'animaux.
+Incinération de cadavres d'animaux, à l'exclusion des installations classées au titre de la rubrique 3650.
 
 |
 
@@ -4570,7 +4570,7 @@ A
 
 3650 |
 
-Elimination ou recyclage de carcasses ou de déchets animaux, avec une capacité de traitement supérieure à 10 tonnes par jour
+Elimination ou recyclage de carcasses ou de sous-produits animaux, avec une capacité de traitement supérieure à 10 tonnes par jour.
 
 |
 
@@ -4578,7 +4578,7 @@ A
 
 |
 
-5
+3
 
 |
 
