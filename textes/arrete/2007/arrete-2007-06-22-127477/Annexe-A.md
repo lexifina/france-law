@@ -256,6 +256,14 @@ Directeur de l'académie ministérielle de l'infrastructure |
 
 Sans limitation |
 
+Organismes rattachés au ministre de la défense |
+
+Ministre de la défense |
+
+Délégué à l'expertise nucléaire de défense et de sécurité |
+
+Sans limitation (11) |
+
 Divers |
 
 Ministère de la transition écologique et solidaire |
@@ -296,4 +304,8 @@ MAPA × 10 (10) |
 
 (9) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
-(10) Délégation limitée aux marchés de prestations intellectuelles et de fournitures courantes dans le domaine de l'insertion et de la formation professionnelle. |
+(10) Délégation limitée aux marchés de prestations intellectuelles et de fournitures courantes dans le domaine de l'insertion et de la formation professionnelle.
+
+(11) Délégation limitée aux marchés prévus par la convention de mandat entre le ministre de la défense et le commissariat à l'énergie atomique et aux énergies alternatives.
+
+|
