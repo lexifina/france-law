@@ -1,0 +1,9 @@
+# Réponse à la question n° 3862
+
+- Question : [3862](3862.md) — Question n° 3862 — Délai de communication des documents budgétaires pour les communes rurales
+
+## Réponse
+
+*JO du 2025-07-08, page 6137*
+
+Si elles le souhaitent, les collectivités pour lesquelles il ne s'agit pas d'une obligation légale peuvent choisir le régime budgétaire et comptable des métropoles, comme le leur permettent les dispositions du III de l'article 106 modifié de la loi NOTRé du 7 août 2015. Dans cette hypothèse, elles font application des articles L. 5217-10-1 à L. 5217-10-15 et L. 5217-12-2 à L. 5217-12-5 du code général des collectivités territoriales (CGCT). Elles sont dès lors soumises aux dispositions de l'article L. 5217-10-4 du CGCT, qui prévoit que le projet de budget est transmis par le président de l'assemblée délibérante, avec les rapports correspondants, douze jours calendaires au moins avant l'ouverture de la première réunion consacrée à l'examen dudit budget. Ce délai est distinct du délai de convocation du conseil municipal de cinq jours francs, prévu à l'article L2121-12 du CGCT pour les communes de 3 500 habitants et plus, qui reste en vigueur. Pour les collectivités, le délai de transmission de douze jours ne modifie pas la liste des informations que doit comporter le projet de budget, mais il conduit uniquement, pour les communes concernées, à anticiper cet envoi afin de garantir la bonne information des élus locaux. En effet, ce délai, qui ne trouve à s'appliquer qu'au budget primitif, s'explique par la nécessité de laisser un temps suffisant aux membres des assemblées délibérantes, qu'ils soient ou non d'opposition, pour appréhender l'ensemble des informations composant le projet de budget, compte tenu du caractère structurant de la délibération associée. Il faut rappeler en effet que celle-ci détermine et autorise toutes les recettes et les dépenses de l'année.
