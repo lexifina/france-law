@@ -2094,6 +2094,172 @@ Lorsque le bénéficiaire est une personne physique, les contrôles sur pièce e
 
 L'existence d'au moins un écart sur les véhicules contrôlés ou l'absence sur site du véhicule choisi pour être soumis à contrôle conduit à un résultat non satisfaisant du contrôle.
 
-NOTA :
+AY : Fiche d'opération standardisée IND-BA-110 &laquo; Système de déstratification d'air (France métropolitaine) &raquo;
 
-Conformément à l'article 6 de l'arrêté du 27 juin 2025 (NOR : ECOR2518213A), ces dispositions sont applicables aux opérations engagées à compter du 1er juillet 2025.
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en &laquo; non satisfaisant &raquo;.
+
+Les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, la note de dimensionnement, le calepinage ;
+
+2. La hauteur minimale du bâtiment sous plafond ou sous faîtage n'est pas supérieure ou égale à 5 mètres ;
+
+3. Le local n'est pas complètement clos ;
+
+4. Le système de déstratification d'air installé permet de chauffer l'air ou est alimenté par un système de chauffage ou par récupération de chaleur fatale ;
+
+5. La note de dimensionnement n'a pas été établie par un professionnel ou un bureau d'études ayant une qualification OPQIBI 1327 intitulée &laquo; Ingénierie de la performance énergétique dans le traitement climatique des bâtiments &raquo; ou 1717 &laquo; Audit énergétiques dans l'industrie &raquo; ou réalisant des études conformément aux référentiels définis par les normes NF X 50-091, NF EN 16247 ou équivalentes ;
+
+6. La note de dimensionnement ne comporte pas de référence ;
+
+7. La note de dimensionnement n'est pas datée et signée par le professionnel l'ayant rédigée, ainsi que par le bénéficiaire de l'opération ;
+
+8. Les coordonnées du professionnel ou du bureau d'étude ne sont pas indiquées dans la note de dimensionnement ;
+
+9. L'adresse du chantier indiquée dans la note de dimensionnement ne correspond pas à celle indiquée pour le contrôle ;
+
+10. La note de dimensionnement ne précise pas l'un des éléments suivants :
+
+-la hauteur du local sous plafond ou sous faîtage ;
+
+-le volume et la surface du local à déstratifier ;
+
+-le descriptif des moyens de chauffage du local à déstratifier avec leurs puissances nominales ;
+
+-la consigne de température de chauffage lorsque le local est occupé ;
+
+-le besoin minimal de brassage d'air par heure nécessaire pour être efficace ;
+
+-les préconisations d'installation des systèmes de déstratification d'air en précisant en particulier leur marque, référence et la nature de l'écoulement fourni par le système de déstratification considéré ainsi que leur nombre et le calepinage.
+
+La note de dimensionnement ne comporte pas également pour ce qui concerne les appareils installés :
+
+-le volume minimal d'air brassé par heure ou le taux de brassage (en m 3/ h) et la surface déstratifiée (en m 2) ainsi que la hauteur à laquelle ils sont installés avec la vitesse d'air au sol à un mètre de hauteur ;
+
+-le ratio du nombre de systèmes de déstratification d'air par rapport au volume d'air total brassé ;
+
+-les modalités de dimensionnement tenant compte des caractéristiques du local et du matériel installé ;
+
+-l'asservissement à une mesure de température de l'air prise dans la zone située entre le système de déstratification d'air et le plafond ou le faîtage ;
+
+11. La preuve de la réalisation de l'opération ne comporte pas les mentions prévues par la fiche d'opération standardisée ou, le cas échéant, n'est pas accompagnée du document issu du fabricant indiquant les caractéristiques de l'équipement ;
+
+12. Le professionnel ne dispose pas d'une couverture d'assurance responsabilité décennale appliquée aux travaux d'électricité ;
+
+13. Le dimensionnement des équipements installés et leur nombre n'est pas cohérent avec la note de dimensionnement ;
+
+14. Le système n'est pas asservi à au moins une mesure de température de l'air dans la zone située entre le système de déstratification d'air inclus et le plafond ;
+
+15. La preuve de la réalisation des travaux ne précise pas le nombre d'équipements installés, l'orientation du flux d'air ainsi que la vitesse de l'air au sol ;
+
+16. La preuve de la réalisation de l'opération n'est pas complétée le cas échéant par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ CEI 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation ;
+
+17. La consigne de chauffage, lorsque que le local est occupé, est strictement inférieure à 15° C ;
+
+18. Le positionnement des systèmes de déstratification d'air n'est pas cohérent avec le calepinage ;
+
+19. L'équipement installé n'est pas fixe ;
+
+20. La puissance nominale du système de chauffage prise pour calculer le montant de CEE ne correspond pas à celle mentionnée sur la fiche technique du fabricant de l'équipement/ plaque (s) signalétique (s) de chauffage ou des équipements de chauffage ;
+
+21. La puissance nominale du système de chauffage déclarée par le bénéficiaire n'est pas conforme aux équipements réellement installés.
+
+Les critères complémentaires suivants pour la déstratification verticale en industrie doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. L'aspiration de l'air ne s'effectue pas à au plus un cinquième de la hauteur en partant du plafond ou du faîtage ;
+
+2. La documentation technique ne mentionne pas que le flux d'air est orienté vers le sol a une vitesse supérieure à 0,2 m/ s à un mètre du sol.
+
+Les critères complémentaires suivants pour la déstratification horizontale en industrie doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Les différentes couches d'air ne sont pas aspirées sur toute la hauteur du local ;
+
+2. La documentation technique ne mentionne pas que le flux d'air entre le diffuseur et le collecteur est horizontal et a une vitesse supérieure à 0,2 m/ s, à au moins un mètre du sol.
+
+AZ : Fiche d'opération standardisée BAT-TH-142 &laquo; Système de déstratification d'air (France métropolitaine) &raquo;
+
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en &laquo; non satisfaisant &raquo;.
+
+Les critères suivants doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, la note de dimensionnement, le calepinage ;
+
+2. La hauteur minimale du bâtiment sous plafond ou sous faîtage n'est pas supérieure ou égale à 5 mètres ;
+
+3. Le local n'est pas complètement clos ;
+
+4. Le système de déstratification d'air installé permet de chauffer l'air ou est alimenté par un système de chauffage ou par récupération de chaleur fatale ;
+
+5. La note de dimensionnement n'a pas été établie par un professionnel ou un bureau d'études ayant une qualification OPQIBI 1327 intitulée &laquo; Ingénierie de la performance énergétique dans le traitement climatique des bâtiments &raquo; ou 1905 &laquo; Audit énergétique des bâtiments (tertiaires et/ ou habitations collectives) &raquo; ou réalisant des études conformément aux référentiels définis par les normes NF X 50-091, NF EN 16247 ou équivalentes ;
+
+6. La note de dimensionnement ne comporte pas de référence ;
+
+7. La note de dimensionnement n'est pas datée et signée par le professionnel l'ayant rédigée, ainsi que par le bénéficiaire de l'opération ;
+
+8. Les coordonnées du professionnel ou du bureau d'étude ne sont pas indiquées dans la note de dimensionnement ;
+
+9. L'adresse du chantier indiquée dans la note de dimensionnement ne correspond pas à celle indiquée pour le contrôle ;
+
+10. La note de dimensionnement ne précise pas l'un des éléments suivants :
+
+-la hauteur du local sous plafond ou sous faîtage ;
+
+-le volume et la surface du local à déstratifier,
+
+-le descriptif des moyens de chauffage du local à déstratifier avec leurs puissances nominales ;
+
+-le descriptif exhaustif du système de ventilation mécanique, notamment ses caractéristiques en débit et en pression en fonction de l'occupation du local ;
+
+-la consigne de température de chauffage lorsque le local est occupé ;
+
+-le besoin minimal de brassage d'air par heure nécessaire pour être efficace ;
+
+-les préconisations d'installation des systèmes de déstratification d'air en précisant en particulier leur marque, référence et la nature de l'écoulement fourni par le système de déstratification considéré ainsi que leur nombre et le calepinage.
+
+La note de dimensionnement ne comporte pas également pour ce qui concerne les appareils installés :
+
+-le volume minimal d'air brassé par heure ou le taux de brassage (en m 3/ h) et la surface déstratifiée (en m 2) ainsi que la hauteur à laquelle ils sont installés avec la vitesse d'air au sol à un mètre de hauteur ;
+
+-le ratio du nombre de systèmes de déstratification d'air par rapport au volume d'air total brassé ;
+
+-les modalités de dimensionnement tenant compte des caractéristiques du local et du matériel installé ;
+
+-l'asservissement à une mesure de température de l'air prise dans la zone située entre le système de déstratification d'air et le plafond ou le faîtage ;
+
+11. La preuve de la réalisation de l'opération ne comporte pas les mentions prévues par la fiche d'opération standardisée ou, le cas échéant, n'est pas accompagnée du document issu du fabricant indiquant les caractéristiques de l'équipement ;
+
+12. Le professionnel ne dispose pas d'une couverture d'assurance responsabilité décennale appliquée aux travaux d'électricité ;
+
+13. Le dimensionnement des équipements installés et leur nombre n'est pas cohérent avec la note de dimensionnement ;
+
+14. Le système n'est pas asservi à au moins une mesure de température de l'air dans la zone située entre le système de déstratification d'air inclus et le plafond ;
+
+15. La preuve de la réalisation des travaux ne précise pas le nombre d'équipements installés, l'orientation du flux d'air, la vitesse de l'air au sol ainsi que le niveau de bruit au sol ;
+
+16. Les flux d'air des systèmes de déstratification sont orientés vers les bouches de soufflage de la ventilation mécanique ;
+
+17. La preuve de la réalisation de l'opération n'est pas complétée le cas échéant par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ CEI 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation ;
+
+18. Le document technique n'indique pas le niveau de bruit au sol ou le niveau de bruit au sol est au moins égal à 45 dB ou 45 dB (A) ;
+
+19. La consigne de chauffage, lorsque que le local est occupé, est strictement inférieure à 15° C ;
+
+20. Le positionnement des systèmes de déstratification d'air n'est pas cohérent avec le calepinage ;
+
+21. L'équipement installé n'est pas fixe ;
+
+22. La puissance nominale du système de chauffage prise pour calculer le montant de CEE ne correspond pas à celle mentionnée sur la fiche technique du fabricant de l'équipement/ plaque (s) signalétique (s) de chauffage ou des équipements de chauffage ;
+
+23. La puissance nominale du système de chauffage déclarée par le bénéficiaire n'est pas conforme aux équipements réellement installés.
+
+Les critères complémentaires suivants pour la déstratification verticale en tertiaire doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. L'aspiration de l'air ne s'effectue pas à au plus un cinquième de la hauteur en partant du plafond ou du faîtage ;
+
+2. La documentation technique ne mentionne pas que le flux d'air est orienté vers le sol a une vitesse supérieure à 0,2 m/ s à un mètre du sol.
+
+Les critères complémentaires suivants pour la déstratification horizontale en tertiaire doivent conduire à un classement &laquo; non satisfaisant &raquo; de l'opération pour les contrôles sur le lieu des opérations :
+
+1. Les différentes couches d'air ne sont pas aspirées sur toute la hauteur du local ;
+
+2. La documentation technique ne mentionne pas que le flux d'air entre le diffuseur et le collecteur est horizontal et a une vitesse supérieure à 0,2 m/ s, à au moins un mètre du sol.

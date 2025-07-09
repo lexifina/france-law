@@ -782,8 +782,20 @@ Sur le lieu des opérations |
 
 A compter du 01/06/2025 |
 
+IND-BA-110 |
+
+100 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/08/2025 |
+
+BAT-TH-142 |
+
+100 % |
+
+Sur le lieu des opérations |
+
+A compter du 01/08/2025 |
+
 * Sont incluses les opérations bonifiées en application de l'article 4 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
-
-NOTA :
-
-Conformément à l'article 5 de l'arrêté du 10 juin 2025 (NOR : ECOR2513165A), ces dispositions entrent en vigueur le 1er juillet 2025.
