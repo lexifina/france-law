@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241002177
+
+- Question : [SEQ241002177](seq241002177.md) — Caractère aléatoire des visites médicales pour les personnels de l'éducation nationale
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2025-07-10, page 4010*
+
+Afin de mettre en place la surveillance de la santé au travail prévue par le décret n° 82-453 du 28 mai 1982 qui confie sa réalisation à une équipe pluridisciplinaire de professionnels de la santé au travail animée par le médecin du travail, le ministère chargé de l'éducation nationale poursuit ses efforts en termes de recrutement de professionnels de la santé au travail et d'attention à leurs conditions d'exercice, dans un contexte de pénurie sur la durée de ces professionnels. Le suivi médical comprend : - une visite d'information et de prévention tous les cinq ans qui est réalisée par le médecin du travail, un collaborateur médecin du travail ou un infirmier. Cette visite a pour but d'informer les agents sur les risques éventuels auxquels ils sont exposés et sur les moyens de prévention à mettre en oeuvre ; - une surveillance médicale particulière pour les personnels en situation de handicap, les femmes enceintes, venant d'accoucher ou allaitantes, les agents réintégrés après un congé de longue maladie ou de longue durée, les agents occupant des postes présentant des risques professionnels, les agents souffrant de pathologies particulières déterminées par le médecin du travail. Pour ces personnels, le médecin du travail définit la fréquence et la nature du suivi que comporte cette surveillance médicale dont la périodicité ne peut être supérieure à quatre ans. Dans le cadre de ces visites, le médecin du travail peut proposer des aménagements du poste de travail ou des conditions d'exercice des fonctions. En outre, les agents peuvent demander à bénéficier à tout moment d'une visite avec un médecin du travail ou un membre du service de médecine de prévention.
