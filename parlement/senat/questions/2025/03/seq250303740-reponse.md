@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250303740
+
+- Question : [SEQ250303740](seq250303740.md) — Soutien des centres de santé infirmiers
+
+## Réponse
+
+*Santé et accès aux soins, JO du 2025-07-10, page 4027*
+
+Le ministère chargé de la santé est particulièrement mobilisé sur le sujet de la situation financière des centres de santé et dans la réflexion sur les solutions permettant de soutenir ces structures et lever les freins pesant sur leur fonctionnement pour assurer leur pérennité et leur développement. Les centres de santé jouent un rôle majeur dans l'accès aux soins et la lutte contre les inégalités sociales et territoriales, en offrant des conditions de prise en charge financière favorables par l'obligation de tiers payant et l'interdiction des dépassements d'honoraires. Ils sont reconnus comme des acteurs clés des soins de ville et notamment dans le secteur du soin à domicile concernant les centres de soins infirmiers. Les centres de santé peuvent bénéficier de financements pérennes de l'Assurance maladie, dans le cadre de l'accord national. Cet accord a pour but d'assurer la stabilité financière des centres de santé et de leur permettre de se développer et de s'ancrer sur les territoires. Dans ce cadre, les centres de santé infirmiers perçoivent près de 14 millions d'euros par an. Afin de mieux répondre aux enjeux spécifiques de ces structures, des négociations sont actuellement ouvertes avec l'Assurance maladie, qui réaffirme son engagement dans ce type d'exercice. Pour répondre aux difficultés financières générées par l'augmentation des charges des centres liées aux revalorisations de la branche de l'aide à domicile, une première aide est versée via le fonds d'intervention régionale depuis 2022. Cette aide s'élevait à 4 millions d'euros en 2022, puis à 11 millions d'euros en 2023, ce dernier montant ayant été reconduit en 2024.
