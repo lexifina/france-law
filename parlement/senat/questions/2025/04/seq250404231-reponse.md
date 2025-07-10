@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404231
+
+- Question : [SEQ250404231](seq250404231.md) — Devenir des subventions publiques accordées aux organismes locaux d'entraide et de solidarité en cas de cessation d'activité
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2025-07-10, page 4020*
+
+Les subventions octroyées aux organismes locaux d'entraide et de solidarité (OLES) sont versées sous couvert d'une décision de subvention, lorsque le montant est inférieur ou égal à 23 000 euros, ou d'une convention de subvention, lorsque le montant est supérieur à 23 000 euros. Dans les deux cas, l'association bénéficiaire de la subvention est tenue de fournir un compte rendu technique et financier justifiant l'emploi des fonds reçus, conformément au décret n° 2001-495 du 6 juin 2001 portant application de la loi n° 2000-321 du 12 avril 2000 relative à la transparence des aides financières octroyées par les personnes publiques. Après examen de ce compte rendu et à l'issue des contrôles complémentaires effectués le cas échéant, l'administration se réserve la possibilité de demander le reversement de tout ou une partie des sommes versées (art. 5 de la décision de subvention et art. 9 de la convention de subvention), notamment en cas de cessation d'activités. Les crédits non utilisés par une association ayant cessé ses activités sont restitués au ministère qui décide ensuite de leur utilisation. Ils peuvent soit être réaffectés à une autre association dans le besoin, notamment en cas de crise (conflit, catastrophe naturelle, etc.), soit redéployés vers une autre ligne budgétaire (aides sociales directes, contribution à la catégorie aidée de la Caisse des Français de l'étranger (CFE) par exemple). Une association ne peut décider seule de reverser des crédits non utilisés à une autre association, l'utilisation de fonds publics devant nécessairement être encadrée par un document contractuel.
