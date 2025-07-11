@@ -22,9 +22,7 @@ en application de son article
 
 Liste des maisons centrales et des quartiers maison centrale |
 
-Art. 2 de l'arrêté du 23 janvier 2023 fixant les listes des établissements pénitentiaires et des quartiers des centres pénitentiaires
-
-|
+Art. 2 de l'arrêté du 23 janvier 2023 fixant les listes des établissements pénitentiaires et des quartiers des centres pénitentiaires |
 
 Article D. 112-18
 
@@ -34,9 +32,7 @@ Article D. 112-18
 
 Liste des centres et des quartiers centre de détention |
 
-Art. 2 de l'arrêté du 23 janvier 2023 fixant les listes des établissements pénitentiaires et des quartiers des centres pénitentiaires
-
-|
+Art. 2 de l'arrêté du 23 janvier 2023 fixant les listes des établissements pénitentiaires et des quartiers des centres pénitentiaires |
 
 Article D. 112-19
 
@@ -46,9 +42,7 @@ Article D. 112-19
 
 Liste des centres de semi-liberté et des quartiers de semi-liberté |
 
-Art. 2 de l'arrêté du 23 janvier 2023 fixant les listes des établissements pénitentiaires et des quartiers des centres pénitentiaires
-
-|
+Art. 2 de l'arrêté du 23 janvier 2023 fixant les listes des établissements pénitentiaires et des quartiers des centres pénitentiaires |
 
 Article D. 112-20
 
@@ -70,9 +64,7 @@ Article D. 112-21
 
 Liste des maisons d'arrêt et des quartiers maison d'arrêt |
 
-Art. 2 de l'arrêté du 23 janvier 2023 fixant les listes des établissements pénitentiaires et des quartiers des centres pénitentiaires
-
-|
+Art. 2 de l'arrêté du 23 janvier 2023 fixant les listes des établissements pénitentiaires et des quartiers des centres pénitentiaires |
 
 Article D. 112-27
 
@@ -98,9 +90,7 @@ Arrêté du 29 décembre 2016 relatif à l'accessibilité des établissements p�
 
 |
 
-Article D. 112-34
-
-|
+Article D. 112-34 |
 
 8 |
 
@@ -190,10 +180,24 @@ Article R. 332-42
 
 Homologation du procédé permettant la détention à domicile sous surveillance électronique |
 
-Arrêté du 1 juillet 2002 portant homologation du procédé de surveillance électronique pris pour l'application de l'article R. 622-2 du code pénitentiaire
+Arrêté du 1 juillet 2002 portant homologation du procédé de surveillance électronique pris pour l'application de l'article R. 622-2 du code pénitentiaire |
+
+Article R. 622-2
 
 |
 
-Article R. 622-2
+16
+
+|
+
+Numéro d'immatriculation administrative des agents de l'administration pénitentiaire
+
+|
+
+Art. 1 er de l'arrêté du 9 juillet 2025 relatif au numéro d'immatriculation administrative des agents de l'administration pénitentiaire
+
+|
+
+Article R. 113-9-2
 
 |
