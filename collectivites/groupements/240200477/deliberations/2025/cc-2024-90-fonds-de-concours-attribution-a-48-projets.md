@@ -1,0 +1,10 @@
+# GrandSoissons Agglomération : délibération CC.2024.90 - FONDS DE CONCOURS - ATTRIBUTION A 48 PROJETS — CC.2024.90 - FONDS DE CONCOURS - ATTRIBUTION A 48 PROJETS.PDF
+
+- Collectivité : GrandSoissons Agglomération
+- SIREN : 240200477
+- Date : 2025-07-11 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : CC.2024.90 - FONDS DE CONCOURS - ATTRIBUTION A 48 PROJETS.PDF
+- Pages : 6
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-communautaire-grandsoissons-agglomeration-2024/20250711-065103/cc.2024.90-fonds-de-concours-attribution-a-48-projets.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/686e112b9c8f9805aea2e6f4
+- Texte : document numérisé sans couche texte (non reproduit ; voir l'acte publié)
