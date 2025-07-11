@@ -278,9 +278,9 @@ MANTES LA JOLIE |
 
 1 |
 
-Chef de la circonscription de police nationale d'Elancourt |
+Chef de la circonscription de police nationale Saint-Quentin-en-Yvelines |
 
-ELANCOURT |
+SAINT-QUENTIN-EN-YVELINES |
 
 1 |
 

@@ -1796,7 +1796,7 @@ Adjoint au chef SLSP |
 
 13 |
 
-DIPN13/ CSP Marseille Div Nord |
+DIPN13/ CPN Marseille Div Nord |
 
 Adjoint au chef SLSP |
 
@@ -2390,7 +2390,7 @@ DDPN Adjoint |
 
 79 |
 
-DDPN79/ CSP Thouars |
+DDPN79/ CPN Thouars |
 
 Chef CPN |
 
@@ -2520,7 +2520,7 @@ Adjoint au chef SLSP |
 
 78 |
 
-DIPN78/ CPN Elancourt |
+DIPN78/ CPN Saint-Quentin-en-Yvelines |
 
 Adjoint au chef SLSP |
 
