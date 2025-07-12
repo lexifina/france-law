@@ -30,7 +30,7 @@ En vue de sa qualification, le vérificateur qualifié doit établir un manuel d
 
 ― aux exigences du fabricant de l'EAD.
 
-Les opérations de vérifications ne pourront être réalisées que dans les installations visées sur l'attestation de qualification.
+Les opérations de vérifications ne pourront être réalisées que dans les installations visées sur l'attestation de qualification délivrée selon le modèle défini au paragraphe 4 de la présente annexe.
 
 Outre la qualification d'un vérificateur, l'organisme visé à l'article 18 ter du présent arrêté ou le Laboratoire national de métrologie et d'essais (LNE) assure la surveillance du système d'assurance de la qualité du vérificateur.
 
@@ -54,7 +54,7 @@ L'impartialité du vérificateur qualifié doit être garantie. Sa rémunératio
 
 Attestation de vérification périodique
 
-Je soussigné (nom et prénom) ............................................ vérificateur qualifié
+Je soussigné (nom et prénom) ............................................ personnel du vérificateur qualifié
 
 sous le numéro : ..........................................................................................
 
@@ -76,6 +76,54 @@ Mois ...................................................... Année : ...........
 
 Fait à : ........................................................ le : ..................................
 
-Adresse du vérificateur : .......................................................................
+Adresse du vérificateur qualifié : .......................................................................
 
-Signature et cachet du vérificateur
+Signature et cachet du vérificateur qualifié
+
+4. Modèle d'attestation de qualification
+
+Logo de l'organisme délivrant l'attestation
+
+ATTESTATION DE QUALIFICATION
+
+N°
+
+[Nom de l'organisme délivrant l'attestation] certifie que :
+
+[Sté x ou nom prénom si personne physique]
+
+[Adresse du demandeur de la qualification]
+
+Est qualifié (e) pour l'activité :
+
+[Installation (et) vérification périodique] de dispositifs éthylotest antidémarrage
+
+Réalisées sur les sites de :
+
+Voir liste en annexe
+
+En application des dispositions de :
+
+L'arrêté du 2 juillet 1982 modifié relatif aux transports en commun de personnes
+
+L'arrêté du 13 juillet 2012 modifié relatif aux dispositifs d'antidémarrage par éthylotest électronique.
+
+Date de début de validité :
+
+Date de fin de validité :
+
+Signature de l'organisme délivrant l'attestation
+
+Annexe à l'attestation de qualification n°
+
+SITE (S) |
+
+ADRESSE |
+
+|
+
+|
+
+‍ |
+
+|

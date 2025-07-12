@@ -92,7 +92,9 @@ Installation après mise sur le marché : toute installation d'un éthylotest an
 
 2e monte : dispositif conçu pour être installé non d'origine sur un véhicule.
 
-Installateur qualifié : personne ou organisation responsable de l'installation des éthylotests antidémarrage.
+Installateur qualifié : personne ou organisation responsable de l'installation des éthylotests antidémarrage et détenteur de la qualification d'installateur qualifié.
+
+Vérificateur qualifié : personne ou organisation responsable de la vérification des éthylotests antidémarrage et détenteur de la qualification de vérificateur qualifié.
 
 3. Prescriptions générales
 
@@ -816,7 +818,7 @@ Le dispositif doit porter de façon lisible et indélébile les éléments suiva
 
 6.4 Qualification des installateurs
 
-L'éthylotest antidémarrage doit être installé dans le réseau du constructeur du véhicule ou par un installateur désigné par le constructeur ou par un installateur indépendant qualifié.
+L'éthylotest antidémarrage doit être installé dans le réseau du constructeur du véhicule ou par un installateur désigné par le constructeur ou par un installateur qualifié qualifié.
 
 Le constructeur doit transmettre au ministère en charge des transports la liste des installateurs qu'il aura désignés.
 
@@ -826,9 +828,11 @@ Pour accorder la qualification, l'organisme désigné par le ministère en charg
 
 Cette qualification s'appuie sur une évaluation initiale et sur le respect des dispositions relatives à la conformité des produits.
 
+Une attestation de qualification d'installateur est délivrée selon le modèle au point 4 de l'annexe 12 du présent arrêté.
+
 6.4.1 Evaluation initiale :
 
-6.4.1.1 L'organisme visé au point 1.2 de la présente annexe vérifie si les dispositions du point 6.4 sont respectées. Celui-ci doit être satisfait par l'évaluation initiale et les dispositions initiales en matière de conformité de la production visées au point 6.4.2, compte tenu, le cas échéant, de l'une des dispositions visées aux points ou 6.4.1.1.2 ou, s'il y a lieu, d'une combinaison de tout ou partie de ces dispositions.
+6.4.1.1 L'organisme visé au point 1.2 de la présente annexe vérifie si les dispositions du point 6.4 sont respectées. Celui-ci doit être satisfait par l'évaluation initiale et les dispositions initiales en matière de conformité de la production visées au point 6.4.2, compte tenu, le cas échéant, de l'une des dispositions visées aux points 6.4.1.1.1 ou 6.4.1.1.2 ou, s'il y a lieu, d'une combinaison de tout ou partie de ces dispositions.
 
 6.4.1.1.1 L'évaluation initiale est effectuée par l'organisme désigné précédemment. Cet organisme vérifiera notamment la présence d'un système qualité basé sur les principes définis dans les normes ISO pertinentes.
 
@@ -842,9 +846,15 @@ On entend par “ certification adéquate ” une certification accordée par un
 
 6.4.2.2 L'organisme visé au point 1.2 de la présente annexe doit s'assurer de l'existence de dispositions adéquates et de plans de contrôle documentés, à convenir avec le demandeur pour chaque opération donnant lieu à l'établissement d'un certificat d'installation, en vue de l'exécution des essais ou des contrôles connexes permettant de vérifier la conformité du véhicule équipé du dispositif antidémarrage.
 
-6.4.2.3 Le détenteur d'une qualification doit notamment remplir les conditions suivantes :
+6.4.2.3 L'installateur qualifié doit notamment remplir les conditions suivantes :
 
-6.4.2.3.1 Il doit avoir suivi la formation adaptée aux installations qu'il réalise, dispensée par les fabricants des dispositifs, et pouvoir produire un certificat attestant le suivi de cette formation.
+6.4.2.3.1. Il doit avoir suivi la formation adaptée aux installations qu'il réalise et pouvoir produire un certificat attestant le suivi de cette formation.
+
+Il doit s'assurer que son personnel chargé de procéder à des installations a suivi une formation adaptée aux installations qu'il réalise.
+
+La formation porte sur les modalités techniques d'installation, la sécurité de l'installation et la réglementation applicable aux usagers à des fins d'informations de ces derniers.
+
+La formation est dispensée soit directement par les fabricants soit par des formateurs relais formés auprès de différents fabricants et disposant d'un certificat attestant le suivi de la formation.
 
 6.4.2.3.2 Il doit s'assurer de l'existence et de l'application de procédures permettant un contrôle effectif de la conformité des produits (véhicules ou composants) aux exigences réglementaires.
 
@@ -852,9 +862,9 @@ On entend par “ certification adéquate ” une certification accordée par un
 
 6.4.2.3.4 Il doit émettre pour chaque véhicule équipé du dispositif antidémarrage, un document de contrôle assurant la traçabilité des opérations effectuées sur le véhicule.
 
-6.4.2.3.5 Il doit montrer qu'il a accès aux informations du constructeur du véhicule de base nécessaires au montage du dispositif.
+6.4.2.3.5 Il doit montrer qu'il a accès aux informations du constructeur du véhicule de base nécessaires au montage du dispositif au travers d'un document stipulant l'accès aux informations du constructeur de base et/ ou un accès aux informations de l'équipementier et/ ou des revues spécialisées et/ ou expériences professionnelles.
 
-6.4.2.3.6 Il doit s'assurer que les résultats des essais ou des contrôles sont enregistrés Les documents archivés doivent, notamment, être :
+6.4.2.3.6 Il doit s'assurer que les résultats des essais ou des contrôles sont enregistrés Les documents archivés pendant cinq ans doivent, notamment, être :
 
 -une copie du certificat d'installation ;
 
@@ -870,7 +880,7 @@ MODÈLE DE CERTIFICAT D'INSTALLATION
 
 Je, soussigné (nom et prénom)
 
-□ constructeur □ installateur désigné par le constructeur □ installateur qualifié certifie que l'installation de l'éthylotest antidémarrage décrit ci-après a été effectuée par moi-même
+□ constructeur □ installateur désigné par le constructeur □ personnel de l'installateur qualifié certifie que l'installation de l'éthylotest antidémarrage décrit ci-après a été effectuée par moi-même
 
 Conformément aux instructions de montage fournies par le fabricant du système.
 

@@ -51,3 +51,53 @@ L'impartialité du vérificateur qualifié doit être garantie. Sa rémunératio
 Vous pouvez consulter le modèle dans le JO n° 173 du 27/07/2012 texte numéro 11 à l'adresse suivante :
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120727&numTexte=11&pageDebut=12285&pageFin=12295
+
+4. Modèle d'attestation de qualification
+
+Logo de l'organisme délivrant l'attestation
+
+ATTESTATION DE QUALIFICATION
+
+N°
+
+[Nom de l'organisme délivrant l'attestation] certifie que :
+
+[Sté x ou nom prénom si personne physique]
+
+[Adresse du demandeur de la qualification]
+
+Est qualifié (e) pour l'activité :
+
+[Installation (et) vérification périodique] de dispositifs éthylotest antidémarrage
+
+Réalisées sur les sites de :
+
+Voir liste en annexe
+
+En application des dispositions de :
+
+L'arrêté du 2 juillet 1982 modifié relatif aux transports en commun de personnes
+
+L'arrêté du 13 juillet 2012 modifié relatif aux dispositifs d'antidémarrage par éthylotest électronique.
+
+Date de début de validité :
+
+Date de fin de validité :
+
+Signature de l'organisme délivrant l'attestation
+
+Annexe à l'attestation de qualification n°
+
+SITE (S) |
+
+ADRESSE |
+
+|
+
+|
+
+‍ |
+
+|
+
+.

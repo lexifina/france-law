@@ -86,7 +86,7 @@ Etat débloqué : état dans lequel l'éthylotest antidémarrage permet le déma
 
 Fabricant : personne ou organisation responsable de la conception, de la construction et/ou de la production des EAD.
 
-Installateur qualifié : personne ou organisation responsable de l'installation des éthylotests antidémarrage.
+Installateur qualifié : personne ou organisation responsable de l'installation des éthylotests antidémarrage et détenteur de la qualification installateur qualifié.
 
 Limite de concentration d'alcool dans l'haleine : valeur prédéfinie de la concentration d'alcool dans l'haleine en dessous de laquelle le véhicule à moteur peut être démarré. Un résultat d'essai supérieur ou égal à cette valeur limite empêchera le démarrage du véhicule à moteur.
 
@@ -100,7 +100,7 @@ Période de démarrage : période de temps pendant lequel le véhicule à moteur
 
 Période de redémarrage : période de temps pendant lequel le véhicule à moteur peut être redémarré sans devoir présenter un autre échantillon d'haleine après coupure de l'allumage.
 
-Vérificateur qualifié : personne ou organisation responsable de la vérification périodique des éthylotests antidémarrage.
+Vérificateur qualifié : personne ou organisation responsable de la vérification périodique des éthylotests antidémarrage et détenteur de la qualification vérificateur qualifié..
 
 Mémoire de données : enregistrement des résultats d'essai de l'analyse d'haleine et d'autres événements avec horodatage stocké dans la mémoire interne de l'éthylotest antidémarrage.
 
@@ -472,6 +472,8 @@ Pour accorder la qualification, l'organisme désigné par le ministre chargé de
 
 L'installateur indépendant ou le constructeur doit délivrer un certificat de montage selon le modèle fourni à l'appendice 1.
 
+Une attestation de qualification d'installateur est délivrée selon le point 4 de l'annexe 2 du présent arrêté.
+
 5.4.2. Système qualité.
 
 L'organisme désigné par le ministre chargé des transports vérifie le respect des dispositions figurant au 5.4.2.1 ou au 5.4.2.2.
@@ -488,7 +490,13 @@ L'organisme désigné par le ministre chargé des transports vérifie le respect
 
 5.4.3.3. Le détenteur d'une qualification doit notamment remplir les conditions suivantes :
 
-5.4.3.3.1. Il doit avoir suivi la formation adaptée aux installations qu'il réalise et pouvoir produire un certificat attestant du suivi de cette formation.
+5.4.3.3.1. Il doit avoir suivi la formation adaptée aux installations qu'il réalise et pouvoir produire un certificat attestant le suivi de cette formation.
+
+Il doit s'assurer que son personnel chargé de procéder à des installations a suivi une formation adaptée aux installations qu'il réalise.
+
+La formation porte sur les modalités techniques d'installation, la sécurité de l'installation et la réglementation applicable aux usagers à des fins d'informations de ces derniers.
+
+La formation est dispensée soit directement par les fabricants soit par des formateurs relais formés auprès de différents fabricants et disposant d'un certificat attestant le suivi de la formation.
 
 5.4.3.3.2. Il doit s'assurer de l'existence et de l'application de procédures permettant un contrôle effectif de la conformité des produits (véhicules ou composants) aux exigences réglementaires.
 
