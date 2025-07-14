@@ -40,31 +40,39 @@ II.-Edition d'un programme d'œuvres :
 
 4° La liste des œuvres précédemment éditées et aidées.
 
-VI-3. Aides financières automatiques à la diffusion en ligne des œuvres cinématographiques et audiovisuelles
+VI-3. Aides financières automatiques à la diffusion en ligne.
 
-V-3.1. Documents justificatifs à joindre à l'appui d'une demande d'allocation d'investissement
+VI-3.1. Documents justificatifs à joindre à l'appui d'une demande d'allocation d'investissement
 
 (Articles 612-10 et suivants)
 
 Autorisation d'investissement :
 
-1° Les factures et/ ou extraits du Grand Livre relatifs à chacune des œuvres cinématographiques datés, signés et revêtus du cachet de l'entreprise, ou relatifs aux dépenses liées à l'amélioration de la qualité éditoriale et de l'ergonomie de l'offre proposée et des modalités d'accès aux œuvres ;
+1° Une présentation détaillée du projet éditorial ;
 
-2° En cas de coûts internes, un relevé détaillé de ces coûts, soit certifié par un expert-comptable ou un commissaire aux comptes lorsque le montant des sommes investies est supérieur ou égal à 100 000 €, soit certifié par le responsable financier de l'entreprise lorsque ce montant est inférieur à 100 000 € ;
+2° Un devis détaillé des dépenses liées à la mise en œuvre du projet éditorial ;
 
-3° Une copie des contrats d'acquisition des droits de mise à disposition de l'œuvre sur les services de médias audiovisuels à la demande, accompagné de la justification de l'inscription au registre public du cinéma et de l'audiovisuel ;
+3° Pour les dépenses d'acquisition de droits de mise à disposition, une copie des contrats d'acquisition des droits de mise à disposition de l'œuvre sur les services de médias audiovisuels à la demande, accompagnée, pour les œuvres cinématographiques, de la justification de l'inscription au registre public du cinéma et de l'audiovisuel ;
 
 4° Pour les dépenses d'éditorialisation, de promotion et de commercialisation des œuvres, la liste des œuvres mises en ligne par l'éditeur sur la période concernée par la demande d'autorisation d'investissement.
 
-VI-4. Aides financières sélectives à la diffusion en ligne des œuvres cinématographiques et audiovisuelles
+Le cas échéant :
 
-VI-4.1. Documents justificatifs à joindre à l'appui d'une demande d'aide sélective à la diffusion en ligne d'un programme d'œuvres cinématographiques ou audiovisuelles
+5° Les factures et/ ou extraits du Grand Livre correspondant aux dépenses concernées relatifs à chacune des œuvres, datés, signés et revêtus du cachet de l'entreprise, ou relatifs aux dépenses liées à l'amélioration de la qualité éditoriale et de l'ergonomie de l'offre proposée et des modalités d'accès aux œuvres, dont le règlement est intervenu il y a au maximum quinze mois ;
+
+6° En cas de coûts internes, dont le règlement est intervenu il y a au maximum quinze mois, un relevé détaillé de ces coûts, soit certifié par un expert-comptable ou un commissaire aux comptes lorsque le montant des sommes investies est supérieur ou égal à 100 000 €, soit certifié par le responsable financier de l'entreprise lorsque ce montant est inférieur à 100 000 €.
+
+VI-4. Aides financières sélectives à la diffusion en ligne
+
+VI-4.1. Documents justificatifs à joindre à l'appui d'une demande d'aide sélective à la diffusion en ligne
 
 (Articles 612-22 et suivants)
 
-1° Un budget détaillé ;
+1° Un budget détaillé et une présentation détaillée du projet éditorial ;
 
-2° Le cas échéant, un moyen de visionnage des œuvres et des éventuels compléments de programme, ainsi qu'un moyen d'accès au service.
+2° Pour les dépenses d'acquisition de droits de mise à disposition, une copie des contrats d'acquisition des droits de mise à disposition de l'œuvre sur les services en ligne, accompagnée, pour les œuvres cinématographiques, de la justification de l'inscription au registre public du cinéma et de l'audiovisuel ;
+
+3° Le cas échéant, un moyen de visionnage des œuvres et des éventuels contenus additionnels, ainsi qu'un moyen d'accès au service.
 
 VI-5. Aides financières automatiques à la production d'œuvres cinématographiques ou audiovisuelles ayant recours à des effets visuels numériques
 
@@ -193,3 +201,7 @@ II. - Dossier de présentation de l'opération :
 1° La présentation détaillée de l'opération selon le modèle fourni ;
 
 2° Un devis détaillé de l'opération et son plan de financement, accompagné de toute pièce justificative d'un financement public ou privé.
+
+NOTA :
+
+Conformément à l’article 34 de la délibération n° 2025/CA/16 du 26 juin 2025, les dispositions de la délibération précitée s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter du 1er janvier 2026.
