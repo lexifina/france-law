@@ -726,125 +726,165 @@ II.-Dossier artistique :
 
 5° Le support (DVD et lien VIMEO ou équivalent avec son code d'accès).
 
-IV-6. Aides financières sélectives à la création d'œuvres destinées aux plateformes numériques
+IV-6. Aides financières à la création et à la promotion d'œuvres pour les plateformes sociales
 
-IV-6.1. Documents justificatifs à joindre à l'appui d'une demande d'aide à la création
+IV-6.1. Documents justificatifs à joindre à l'appui d'une demande d'aide aux auteurs émergents d'œuvres audiovisuelles destinées aux plateformes sociales
 
-(Articles 432-1 et suivants)
+(articles 432-1 et suivants)
 
 I.-Au moment de la demande :
 
-1° Une présentation vidéo de trois minutes maximum du ou des projets ;
+A.-Un dossier administratif :
 
-2° Le ou les liens hypertextes vers la ou les œuvres déjà réalisées ;
+1° La copie d'une pièce d'identité du demandeur ;
 
-3° Le cas échéant, le justificatif de l'obtention d'un prix dans un festival ;
+2° Une présentation écrite du parcours de l'auteur accompagné de son curriculum vitae ;
 
-4° Une présentation écrite du parcours de l'auteur accompagné de son curriculum vitae ;
+3° Le cas échéant, les contrats de diffusion ;
 
-5° La copie d'une pièce d'identité du demandeur lorsqu'il s'agit d'une personne physique ;
+4° Le cas échéant, le justificatif de l'obtention d'un prix dans un festival ;
 
-6° Le budget prévisionnel détaillé du ou des projets.
+5° Le budget prévisionnel détaillé du projet ;
 
-II.-Dans un délai de dix-huit mois à compter de la décision d'attribution de l'aide :
+6° Le planning de création de l'œuvre ;
 
-1° Le ou les liens hypertextes vers la ou les œuvres réalisées ;
+7° Le plan de financement prévisionnel de l'œuvre ;
+
+8° Un relevé d'identité bancaire (RIB).
+
+B.-Un dossier artistique :
+
+1° Le ou les liens hypertextes vers la ou les œuvres déjà réalisées ;
+
+2° Une note d'intention artistique ;
+
+3° Une présentation vidéo de trois minutes maximum du projet ;
+
+4° Le scénario du projet, lorsque la demande est présentée pour une œuvre de fiction.
+
+II.-Dans un délai de dix-huit mois à compter de la décision d'attribution d'aide :
+
+1° Le ou les liens hypertextes vers l'œuvre réalisée ;
 
 2° Un document comptable indiquant le coût définitif détaillé du projet ainsi que les moyens de son financement.
 
-IV-6.2. Liste des festivals pris en compte pour l'attribution des aides à la création
+IV-6.2. Documents justificatifs à joindre à l'appui d'une demande d'aide au développement et à la production d'œuvres audiovisuelles destinées aux plateformes sociales
 
-(Article 432-3)
+(articles 433-1 et suivants)
 
--Festival Tout Courts (Aix-en-Provence) ;
+I.-Au moment de la demande :
 
--Festival Itinérances (Alès) ;
+A.-Un dossier administratif :
 
--Festival International du Film de Comédie (Alpe D'Huez) ;
+1° La copie des contrats de cession de droits d'auteur ;
 
--Festival Premiers Plans (Angers) ;
+2° Le cas échéant, tout contrat conclu, au titre du projet d'œuvre faisant l'objet de la demande, avec une personne physique ou morale (coproducteur, éditeur, distributeur, diffuseur, prestataire, etc.) ;
 
--Festival International du Film d'animation (Annecy) ;
+3° Budget et plan de financement prévisionnels ;
 
--Festival International du Film (Aubagne) ;
+4° La liste prévisionnelle de l'équipe de création de l'œuvre et des sociétés de prestation, ainsi que, le cas échéant, les contrats de sous-traitance et les contrats de cession de droits d'exploitation ;
 
--Festival Entrevues (Belfort) ;
+5° Les contrats afférents aux financements publics ou privés du projet ;
 
--Festival Européen du Film Court (Brest) ;
+6° Le planning de création de l'œuvre ;
 
--Festival du moyen métrage de Brive (Brive) ;
+7° Un relevé d'identité bancaire (RIB) ;
 
--5 jours Tout Court (Caen) ;
+8° Un extrait K bis de moins de 3 mois ;
 
--Festival International du Film (Cannes) ;
+9° Les statuts de la personne morale ;
 
--Quinzaine des Réalisateurs (Cannes) ;
+10° L'avis de situation INSEE de moins de 3 mois pour les associations, ainsi qu'un document mentionnant l'adresse, la date et le lieu de naissance du représentant de l'association.
 
--Semaine Internationale de la Critique (Cannes) ;
+B.-Un dossier artistique :
 
--Festival International du Court Métrage (Clermont-Ferrand) ;
+1° Une note de synthèse, d'une longueur maximale de deux pages, présentant :
 
--Festival International de Films de Femmes (Créteil) ;
+-les principaux éléments artistiques du projet (concept, synopsis, pertinence du projet au regard des plateformes de diffusion envisagées) ;
 
--Festival de Cinéma (Douarnenez) ;
+-la liste des principaux partenaires financiers et éditoriaux participant à l'élaboration de la stratégie de diffusion ;
 
--Festival Cinématographique d'Automne (Gardanne) ;
+2° Une note d'intention des auteurs exposant les choix artistiques et les enjeux créatifs propres aux plateformes sociales concernées ;
 
--Festival international du film fantastique (Gérardmer) ;
+3° Un dossier littéraire et graphique comprenant :
 
--Rencontres Cinématographiques (Gindou) ;
+-la présentation du concept ;
 
--Festival du Court Métrage en plein air (Grenoble) ;
+-le traitement littéraire ;
 
--Plein la Bobine (La Bourboule) ;
+-la description de l'univers visuel et/ ou graphique ;
 
--Rencontres audiovisuelles (Lille) ;
+-les intentions de réalisation adaptées à la ou aux plateformes retenues ;
 
--Etats généraux du documentaire (Lussas) ;
+-le scénario dans le cas d'une œuvre de fiction ;
 
--Festival International du documentaire (Marseille) ;
+4° Une note d'intention du producteur détaillant la stratégie de diffusion et la recherche de financements ;
 
--Rencontres Européennes de Court Métrage (Metz) ;
+5° Un calendrier prévisionnel de réalisation ;
 
--Festival du Court Métrage d'Humour (Meudon) ;
+6° Une présentation vidéo d'une durée maximale de trois minutes ;
 
--Festival International du Film Méditerranéen (Montpellier) ;
+7° Les liens URL renvoyant aux comptes de la ou des plateformes sociales concernées ;
 
--Un festival c'est trop court (Nice) ;
+8° Le ou les liens hypertextes vers la ou les œuvres déjà réalisées et diffusées sur les plateformes sociales.
 
--Festival international du Film Court (Pantin) ;
+II.-Dans les dix-huit mois à compter de la décision d'attribution de l'aide :
 
--Festival de films documentaires-Cinéma du réel (Paris) ;
+1° Les comptes définitifs détaillés correspondant à la réalisation de l'œuvre, certifiés par un expert-comptable ou un commissaire aux comptes ;
 
--Festival Paris Court Devant (Paris) ;
+2° La copie des bulletins de paie des principaux postes affectés à la création de l'œuvre ;
 
--Festival Silhouette (Paris) ;
+3° Une copie des factures des prestataires techniques et des loueurs de matériel ;
 
--Festival Hors Pistes (Paris) ;
+4° Toute pièce justificative d'un financement public ou privé ;
 
--Paris tout court (Paris) ;
+5° Tout nouveau contrat conclu, au titre du projet d'œuvre faisant l'objet de la demande, avec une personne physique ou morale (coproducteur, éditeur, distributeur, diffuseur, prestataire, etc.) ;
 
--Festival européen du film fantastique (Strasbourg) ;
+6° Dans le cadre de l'aide au développement, un dossier complet permettant d'attester de l'avancée du projet (pilote, éléments scénaristiques, rétroplanning de production, stratégie de diffusion, nombre de vues, évolution du nombre d'abonnés, etc.) ;
 
--Court Métrange (Rennes) ;
+7° Dans le cadre de l'aide à la production, un lien URL vers l'œuvre diffusée.
 
--Festival Off-courts (Trouville) ;
+IV-6.3. Documents justificatifs à joindre à l'appui d'une demande d'aide aux opérations à caractère collectif
 
--Festival du Film Court (Villeurbanne) ;
+(articles 434-1 et suivants)
 
--Mobile Film Festival ;
+I.-Au moment de la demande :
 
--Nikon Film Festival ;
+A.-Un dossier administratif :
 
--48 Hour Film Project-Faire un film en 48H ;
+1° Un devis détaillé de l'opération ;
 
--I Love Transmedia/ Cross Video Days ;
+2° Le plan de financement prévisionnel ;
 
--Paris Virtual Film Festival ;
+3° Un relevé d'identité bancaire (RIB) ;
 
--Marseille Web Fest ;
+4° Les statuts de la personne morale ;
 
--Web program Festival.
+5° L'avis de situation INSEE de moins de 3 mois pour les associations, ainsi qu'un document mentionnant l'adresse, la date et le lieu de naissance du représentant de l'association.
+
+B.-Un dossier de présentation de l'opération :
+
+1° Une présentation détaillée de l'opération ;
+
+2° Le cas échéant, le programme détaillé ainsi que la liste des intervenants ;
+
+3° Le positionnement par rapport aux opérations existantes ;
+
+4° Le planning de l'opération et le plan de communication ;
+
+5° Le curriculum vitae de la personne morale (rappel historique de son développement, moyens humains, principaux clients).
+
+II.-Dans les dix-huit mois à compter de la décision d'attribution de l'aide :
+
+1° Les comptes définitifs détaillés correspondant à la réalisation de l'opération, certifiés par un expert-comptable ou un commissaire aux comptes ;
+
+2° Une copie des factures des prestataires techniques et des loueurs de matériel ;
+
+3° Toute pièce justificative d'un financement public ou privé ;
+
+4° Tout contrat conclu, au titre du projet d'opération faisant l'objet de la demande, avec une autre entreprise (partenaire, prestataire, etc.) ;
+
+5° Un bilan complet de l'opération, comportant des indicateurs qualitatifs et quantitatifs permettant d'en apprécier la tenue et la portée.
 
 IV-7. Aides financières sélectives à l'enrichissement et à l'éditorialisation des programmes des chaines numériques
 
@@ -889,3 +929,9 @@ IV-8.1. Documents justificatifs à joindre à l'appui d'une demande d'aide au pa
 5° Le cas échéant, des compléments visuels (cinq pages d'illustrations et trois minutes de vidéo maximum) ;
 
 6° Une déclaration sur l'honneur des aides de minimis perçues au cours des trois années précédentes.
+
+NOTA :
+
+Conformément à l'article 5 de la délibération n° 2025/CA/15 du 26 juin 2025 (MICK2520159X), ces dispositions s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter de 1er janvier 2026.
+
+Il est mis fin, à compter du 31 décembre 2025, au mandat en cours des membres de la commission des aides à la création et à la diffusion sur les plateformes numériques prévue à l'article 434-1 du règlement général des aides financières susvisé dans sa rédaction antérieure à la présente délibération.
