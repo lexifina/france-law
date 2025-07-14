@@ -22,7 +22,7 @@ A.-Régime général :
 
 B.-Lorsque le financement des œuvres cinématographiques donne lieu à l'investissement des sommes inscrites sur le compte automatique de la ou des entreprises de production :
 
-1° Une déclaration de la ou des entreprises de production attestant que les créances privilégiées énumérées à l' article L. 312-2 du code du cinéma et de l'image animée et nées à l'occasion de la production d'œuvres cinématographiques antérieures ont été intégralement réglées ;
+1° Une déclaration de la ou des entreprises de production attestant que les créances privilégiées énumérées à l'article L. 312-2 du code du cinéma et de l'image animée et nées à l'occasion de la production d'œuvres cinématographiques antérieures ont été intégralement réglées ;
 
 2° Une demande d'investissement de la ou des entreprises de production indiquant le montant des sommes investies ainsi que les éventuelles majorations.
 
@@ -56,7 +56,9 @@ Lorsque l'agrément des investissements a été délivré :
 
 8° bis L'attestation nominative établie par l'opérateur de compétences AFDAS ou toute personne mandatée par lui certifiant que les salariés concernés ont suivi la formation prévue à l'article 122-17-1 ;
 
-8° ter Le contrat de travail et les bulletins de salaire du responsable des enfants lorsqu'au moins un enfant de moins de seize ans a été engagé pour la production de l'œuvre.
+8° ter Le contrat de travail et les bulletins de salaire du responsable des enfants lorsqu'au moins un enfant de moins de seize ans a été engagé pour la production de l'œuvre ;
+
+8 quater. Lorsque l'allocation directe prévue à l'article 211-93-1 est demandée, l'attestation certifiant que l'œuvre cinématographique est produite dans des conditions permettant d'atteindre le niveau 2 du référentiel “AFNOR SPEC 2308-Production cinématographique, audiovisuelle et publicitaire responsable”.
 
 Lorsque l'agrément des investissements n'a pas été demandé, outre les documents précités :
 
@@ -142,7 +144,7 @@ II.-Décision d'attribution à titre définitif :
 
 7° Une fiche " techniciens collaborateurs de création " énonçant la liste des principaux techniciens ;
 
-8° Une fiche de qualification " œuvre européenne " établie en regard des dispositions de l' arrêté du 21 mai 1992 pris pour l'application de l' article 6 du décret n° 90-66 du 17 janvier 1990 fixant les principes généraux concernant la diffusion des œuvres cinématographiques et audiovisuelles.
+8° Une fiche de qualification " œuvre européenne " établie en regard des dispositions de l'arrêté du 21 mai 1992 pris pour l'application de l'article 6 du décret n° 90-66 du 17 janvier 1990 fixant les principes généraux concernant la diffusion des œuvres cinématographiques et audiovisuelles.
 
 II-2.2. Documents justificatifs à joindre à l'appui d'une demande d'aide après réalisation
 
@@ -686,59 +688,51 @@ II-6.1. Documents justificatifs à fournir à l'appui d'une demande d'aide à la
 
 (Articles 223-1 et suivants)
 
-I.-Demande au titre d'une œuvre inédite déterminée :
+I.-Demande au titre d'une sortie déterminée :
 
-1° Une lettre présentant l'entreprise de distribution et exposant la stratégie de distribution sur l'œuvre cinématographique concernée ;
+1° Une lettre présentant l'entreprise de distribution et exposant la stratégie de distribution sur la sortie concernée et, le cas échéant, pour chaque œuvre concernée ;
 
 2° Tout document présentant le matériel publicitaire et promotionnel prévu ;
 
 3° Un exemplaire du dernier état des statuts de l'entreprise de distribution et un exemplaire de l'extrait K bis du registre du commerce et des sociétés datant de moins de trois mois (pour la première demande seulement sauf en cas de modifications) ;
 
-4° Une copie du mandat de distribution de l'œuvre concernée ;
+4° Une copie du mandat de distribution de l'œuvre ou des œuvres concernées par la sortie ;
 
 5° Le certificat d'inscription du mandat de distribution au registre public du cinéma et de l'audiovisuel ;
 
-6° Les dates des projections de presse ;
-
 7° Un ou plusieurs supports de visionnage sous-titrés en français.
 
-II.-Demande au titre d'un programme d'œuvres inédites :
+II.-Demande au titre d'un programme annuel de distribution :
 
-A.-Pour le programme :
+A.- 1° Le bilan du programme de distribution de l'année précédente lorsque celui-ci a donné lieu à l'attribution d'une aide, accompagné :
 
-1° Le bilan du programme de distribution de l'année précédente lorsque celui-ci a donné lieu à l'attribution d'une aide ;
+a) D'une copie du mandat de distribution des œuvres composant le programme, inscrit au registre public du cinéma et de l'audiovisuel ;
+
+b) D'un plan et d'un budget détaillés pour chaque sortie ;
+
+c) De tout document présentant le matériel publicitaire et promotionnel pour chaque sortie ;
+
+d) D'un ou plusieurs supports de visionnage des œuvres composant le programme, le cas échéant sous-titrés en français ;
+
+e) De toute pièce financière justifiant des dépenses déjà effectuées pour chaque sortie ;
 
 2° Une liste des œuvres composant le programme indiquant leurs caractéristiques principales et le budget prévisionnel de sortie ;
 
 3° Une note exposant les grandes lignes de la politique de distribution de l'entreprise ;
 
-4° Une note contenant des informations d'ordre juridique et financier permettant d'apprécier la situation de l'entreprise.
-
-B.-Pour chaque œuvre composant le programme :
-
-1° Une copie du mandat de distribution de l'œuvre concernée inscrit au registre public du cinéma et de l'audiovisuel ;
-
-2° Un plan et un budget détaillés de sortie ;
-
-3° Tout document présentant le matériel publicitaire et promotionnel ;
-
-4° Un ou plusieurs supports de visionnage de l'œuvre sous-titrés en français.
+4° Une note contenant des informations d'ordre juridique et financier permettant d'apprécier la situation de l'entreprise et sa stratégie d'investissement au regard des minima garantis et des frais de sortie, accompagnée de tout document justificatif (notamment les statuts de la société, les procès-verbaux des deux derniers exercices, les comptes annuels, la balance générale et analytique, le détail des effectifs, les contrats d'emprunt).
 
 II-6.2. Documents justificatifs à joindre l'appui d'une demande d'aide à la distribution d'œuvres de répertoire
 
 (Articles 223-9 et suivants)
 
-I.-Demande au titre d'une œuvre de répertoire déterminée ou d'une rétrospective :
+I.-Demande au titre d'une sortie déterminée :
 
-1° Une lettre présentant la société de distribution et exposant la stratégie de distribution sur l'œuvre cinématographique concernée ;
-
-2° Les dates des projections de presse ;
+1° Une lettre présentant la société de distribution et exposant la stratégie de distribution sur la sortie concernée et, le cas échéant, pour chaque œuvre concernée ;
 
 3° Tout document présentant le matériel publicitaire et promotionnel prévu ;
 
-4° Un ou plusieurs supports de visionnage, sous-titré en français (pour chacune des œuvres dans le cas d'une rétrospective) ;
-
-5° Les lettres d'engagement d'au moins dix salles ;
+4° Un ou plusieurs supports de visionnage, sous-titré en français ;
 
 6° Un exemplaire du dernier état des statuts de l'entreprise de distribution et un exemplaire de l'extrait K bis du registre du commerce et des sociétés datant de moins de trois mois (pour la première demande seulement sauf en cas de modifications) ;
 
@@ -746,35 +740,33 @@ I.-Demande au titre d'une œuvre de répertoire déterminée ou d'une rétrospec
 
 8° Le certificat d'inscription du mandat de distribution au registre public du cinéma et de l'audiovisuel.
 
-II.-Demande au titre d'un programme annuel de distribution d'œuvres de répertoire :
+II.-Demande au titre d'un programme annuel de distribution :
 
-A.-Pour le programme :
+A.- 1° Le bilan du programme de distribution de l'année précédente lorsque celui-ci a donné lieu à l'attribution d'une aide, accompagné :
 
-1° Le bilan du programme de distribution de l'année précédente lorsque celui-ci a donné lieu à l'attribution d'une aide ;
+a) D'une copie du mandat de distribution des œuvres composant le programme, inscrit au registre public du cinéma et de l'audiovisuel ;
+
+b) D'un plan et d'un budget détaillés pour chaque sortie ;
+
+c) De tout document présentant le matériel publicitaire et promotionnel pour chaque sortie ;
+
+d) D'un ou plusieurs supports de visionnage des œuvres composant le programme, le cas échéant sous-titrés en français ;
+
+e) De toute pièce financière justifiant des dépenses déjà effectuées pour chaque sortie ;
 
 2° Une liste des œuvres composant le programme indiquant leurs caractéristiques principales et le budget prévisionnel de sortie ;
 
 3° Une note exposant les grandes lignes de la politique de distribution de l'entreprise ;
 
-4° Une note contenant des informations d'ordre juridique et financier permettant d'apprécier la situation de l'entreprise.
-
-B.-Pour chaque œuvre composant le programme :
-
-1° Une copie du mandat de distribution de l'œuvre concernée inscrit au registre public du cinéma et de l'audiovisuel ;
-
-2° Un plan et un budget détaillés de sortie ;
-
-3° Tout document présentant le matériel publicitaire et promotionnel ;
-
-4° Un ou plusieurs supports de visionnage de l'œuvre sous-titrés en français.
+4° Une note contenant des informations d'ordre juridique et financier permettant d'apprécier la situation de l'entreprise et sa stratégie d'investissement au regard des minima garantis et des frais de sortie, accompagnée de tout document justificatif (notamment les statuts de la société, les procès-verbaux des deux derniers exercices, les comptes annuels, la balance générale et analytique, le détail des effectifs, les contrats d'emprunt).
 
 II-6.3. Documents justificatifs à joindre l'appui d'une demande d'aide à la distribution d'œuvres destinées au jeune public
 
 (Articles 223-15 et suivants)
 
-1° Une lettre présentant la société de distribution et exposant la stratégie de distribution sur l'œuvre cinématographique concernée ;
+I. - Demande au titre d'une sortie déterminée
 
-2° Les dates de projection de presse ;
+1° Une lettre présentant la société de distribution et exposant la stratégie de distribution sur la sortie concernée concernée ;
 
 3° Tout document présentant le matériel publicitaire et promotionnel prévu ;
 
@@ -785,6 +777,28 @@ II-6.3. Documents justificatifs à joindre l'appui d'une demande d'aide à la di
 6° Une copie du mandat de distribution de l'œuvre ou des œuvres concernées ;
 
 7° Le certificat d'inscription du mandat de distribution au registre public du cinéma et de l'audiovisuel.
+
+II. - Demande au titre d'un programme annuel de distribution :
+
+A. - Pour le programme :
+
+1° Le bilan du programme de distribution de l'année précédente lorsque celui-ci a donné lieu à l'attribution d'une aide, accompagné :
+
+a) D'une copie du mandat de distribution des œuvres composant le programme, inscrit au registre public du cinéma et de l'audiovisuel ;
+
+b) D'un plan et d'un budget détaillés pour chaque sortie ;
+
+c) De tout document présentant le matériel publicitaire et promotionnel pour chaque sortie ;
+
+d) D'un ou plusieurs supports de visionnage des œuvres composant le programme, le cas échéant sous-titrés en français ;
+
+e) De toute pièce financière justifiant des dépenses déjà effectuées pour chaque sortie ;
+
+2° Une liste des œuvres composant le programme indiquant leurs caractéristiques principales et le budget prévisionnel de sortie ;
+
+3° Une note exposant les grandes lignes de la politique de distribution de l'entreprise ;
+
+4° Une note contenant des informations d'ordre juridique et financier permettant d'apprécier la situation de l'entreprise et sa stratégie d'investissement au regard des minima garantis et des frais de sortie, accompagnée de tout document justificatif (notamment les statuts de la société, les procès-verbaux des deux derniers exercices, les comptes annuels, la balance générale et analytique, le détail des effectifs, les contrats d'emprunt).
 
 II-7. Aides sélectives à la structure de certaines entreprises de distribution
 
@@ -798,19 +812,7 @@ II-7.1. Documents justificatifs à fournir à l'appui d'une demande d'aide à la
 
 3° Une note exposant les grandes lignes de la politique de distribution de l'entreprise ;
 
-4° Une note contenant des informations détaillées d'ordre juridique, financier et comptable permettant d'apprécier la situation de l'entreprise.
-
-II-7.2. Documents justificatifs à joindre l'appui d'une demande d'aide complémentaire à la structure des entreprises bénéficiaires des allocations directes en fonction des conditions de diffusion des œuvres cinématographiques
-
-(Articles 223-33 et suivants)
-
-1° Un bilan de l'activité de distribution de l'année précédente ;
-
-2° Une présentation de l'activité prévisionnelle de distribution pour l'année en cours et un budget prévisionnel correspondant ;
-
-3° Une note exposant les grandes lignes de la politique de distribution de l'entreprise ;
-
-4° Une note contenant des informations détaillées d'ordre juridique, financier et comptable permettant d'apprécier la situation de l'entreprise.
+4° Une note contenant des informations détaillées d'ordre juridique, financier et comptable permettant d'apprécier la situation de l'entreprise, accompagnée de tout document justificatif (notamment les statuts de la société, les procès-verbaux des deux derniers exercices, les comptes annuels, la balance générale et analytique, le détail des effectifs, les contrats d'emprunt).
 
 II-8. Aides financières sélectives à la programmation et aux actions d'animation dans les établissements de spectacles cinématographiques
 
@@ -918,4 +920,6 @@ II-11.1. Documents justificatifs à joindre à l'appui d'une demande d'aide
 
 NOTA :
 
-Conformément à l'article 3 de la délibération n° 2024/CA/16 du 27 juin 2024, ces dispositions s'appliquent aux œuvres cinématographiques dont les prises de vues débutent à compter du 1er décembre 2024.
+Conformément à l'article 5 de la délibération n° 2025/CA/13 du 26 juin 2025 (NOR : MICK2520150X), ces dispositions s'appliquent aux œuvres cinématographiques ou audiovisuelles dont les prises de vues débutent à compter du 1er septembre 2025.
+
+Conformément à l'article 33 de la délibération n° 2025/CA/14 du 26 juin 2025 (NOR : MICK2520155X), ces dispositions s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter du 1er janvier 2026.
