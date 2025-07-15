@@ -1,0 +1,9 @@
+# Réponse à la question n° 3456
+
+- Question : [3456](3456.md) — Question n° 3456 — Disposition du code électoral
+
+## Réponse
+
+*JO du 2025-07-15, page 6415*
+
+Le droit actuellement en vigueur prévoit, à l'article L.O. 141 du code électoral, que le mandat de député est incompatible avec l'exercice de plus d'un des mandats énumérés ci-après : conseiller régional, conseiller à l'Assemblée de Corse, conseiller départemental, conseiller de Paris, conseiller à l'assemblée de Guyane, conseiller à l'assemblée de Martinique, et conseiller municipal d'une commune soumise au mode de scrutin prévu au chapitre III du titre IV du présent livre, soit d'une commune de 1 000 habitants et plus. L'article L.O. 141 du code électoral est donc une liste exhaustive et limitative des mandats qui ne peuvent être cumulés entre eux par un député. Les mandats n'y figurant pas, tels que le mandat de conseiller municipal d'une commune de moins de 1 000 habitants ou le mandat de conseiller d'arrondissement, ne sont pas concernés. Il ressort de ces dispositions qu'un député, par ailleurs investi de l'un des mandats énumérés à l'article L.O. 141 du code électoral, peut également exercer un mandat de conseiller municipal d'une commune de moins de 1000 habitants sans se trouver en situation d'incompatibilité. Ces dispositions s'appliquent également aux sénateurs, en application de l'article L.O. 297 du même code, ainsi qu'aux représentants de la France au Parlement européen, en application de l'article 6-3 de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen. La loi n° 2025-444 du 21 mai 2025 visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité, qui étend le mode de scrutin de liste paritaire aux communes de moins de 1 000 habitants, n'a pas modifié ces dispositions.
