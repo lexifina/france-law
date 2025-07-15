@@ -1,0 +1,9 @@
+# Réponse à la question n° 3845
+
+- Question : [3845](3845.md) — Question n° 3845 — Habilitation des agents de l'ONF
+
+## Réponse
+
+*JO du 2025-07-15, page 6493*
+
+Conformément aux dispositions du code général des collectivités territoriales, il appartient au maire, au titre de ses pouvoirs de police (articles L. 2212-1 et L. 2212-2), de prendre les mesures nécessaires à la sécurité publique, notamment en restreignant temporairement l'accès à certaines voiries ou parcelles forestières en cours d'exploitation. Ces mesures peuvent prendre la forme d'arrêtés municipaux temporaires. Or en application du 2° de l'article L. 161-1 du code forestier constituent des infractions forestières, que les agents de l'office national des forêts (ONF) sont habilités à constater voire à rechercher, les manquements aux arrêtés municipaux uniquement lorsqu'ils sont pris « en vue de prévenir ou de faire cesser les incendies, les éboulements de terre ou de rochers ainsi que les avalanches ». Les agents de l'ONF ne sont ainsi effectivement pas habilités à verbaliser les infractions liées à la contravention aux arrêtés municipaux comme préfectoraux pris au titre de la sécurité publique. Toute extension des compétences judiciaires des agents de l'ONF, notamment en matière de verbalisation des infractions liées à une méconnaissance des arrêtés municipaux et préfectoraux fondés sur des considérations de sécurité, nécessiterait une évolution législative. Pour renforcer la sécurité juridique et opérationnelle des chantiers forestiers, il convient donc en priorité de renforcer au niveau local la coordination entre les communes, l'ONF et les forces de sécurité intérieure (gendarmerie, police municipale), tout en poursuivant les actions de sensibilisation auprès du public sur les risques liés à l'accès aux massifs forestiers en période d'exploitation.
