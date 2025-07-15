@@ -1,0 +1,9 @@
+# Réponse à la question n° 2658
+
+- Question : [2658](2658.md) — Question n° 2658 — Financement de la sécurité dans le sport
+
+## Réponse
+
+*JO du 2025-07-15, page 6411*
+
+Le dispositif prévu par le décret n° 97-199 du 5 mars 1997 relatif au remboursement de certaines dépenses supportées par les forces de police et de gendarmerie et son arrêté du 28 octobre 2010 d'application prévoit que les services d'ordre mis en place spécifiquement par les forces de sécurité intérieure sont facturés aux organisateurs de manifestations, notamment sportives, dès lors que cela excède les obligations normales incombant à la puissance publique. En 2024, en application de cette réglementation relative aux services d'ordre indemnisés (SOI), la gendarmerie nationale a facturé aux organisateurs de manifestations sportives un montant total de 9,2 millions d'euros. Les événements sportifs de football entre Ligue 1 et Ligue 2 totalisent 1,6 millions d'euros, dont 1,5 millions d'euros encaissés à date. Et ce sont les évènements sportifs cyclistes qui représentent la plus grande part avec 6,5 millions d'euros facturés. En principe, chaque militaire, peu importe son grade, mis à disposition sur le dispositif est facturé 20 euros/heure. Néanmoins, les textes ont prévu l'affectation d'un coefficient multiplicateur à ce taux horaire, lorsque l'évènement sportif est à but lucratif. Celui-ci prend en compte l'importance du dispositif mobilisé puisqu'il varie de 1,2 à 1,7 proportionnellement au nombre de militaires mis à disposition. La sécurisation des matchs de football entre dans ce cadre et fait déjà l'objet d'une facturation spécifique, dès lors que plus de 50 policiers ou gendarmes sont mobilisés dans le cadre d'un même SOI. Néanmoins, les matchs de football ne peuvent pas, en tant que tel, faire l'objet d'un traitement différencié, eu égard aux autres manifestations sportives, sans une refonte en profondeur du dispositif réglementaire actuel.
