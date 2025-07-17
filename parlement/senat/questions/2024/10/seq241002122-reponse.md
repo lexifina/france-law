@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241002122
+
+- Question : [SEQ241002122](seq241002122.md) — Réglementation des séjours collectifs de mineurs
+
+## Réponse
+
+*Sports, jeunesse et vie associative, JO du 2025-07-17, page 4174*
+
+Le code de l'action sociale et des familles prévoit un régime juridique spécifique aux accueils collecifs de mineurs (ACM) organisés en dehors du cadre scolaire, dont l'objet principal est de garantir la protection des mineurs ainsi que leur santé et leur sécurité physique ou morale. Il fixe notamment les catégories d'accueils collectifs de mineurs ainsi que leurs caractéristiques, les dispositions relatives à l'hygiène et à la sécurité au sein de ces accueils, l'existence d'un projet éducatif, la qualification des personnes encadrant les mineurs et les taux d'encadrement en fonction de l'âge des mineurs et des caractéristiques des accueils. Dans tous les cas, les organisateurs d'ACM qui ne sont pas des établissements scolaires, doivent, par des modalités d'organisation adaptées, assurer la sécurité physique et morale des mineurs qui leur sont confiés. Par ailleurs, le cadre d'organisation des voyages scolaires est fixé par la circulaire du 16 juillet 2024 relative à l'organisation des sorties et voyages scolaires dans les écoles, les collèges et les lycées publics, publiée au BOENJS du 25 juillet 2024, et ses ressources associées. À la différence des ACM, ces déplacements sont toujours organisés en présence et sous la responsabilité pédagogique d'au moins un enseignant avec les élèves de l'établissement. Conscients que des interférences peuvent se faire jour entre les deux champs, les ministères chargés de l'éducation nationale et de la jeunesse et de la vie associative mènent actuellement des réflexions pour harmoniser les réglementations applicables aux ACM d'une part, et aux voyages scolaires d'autre part. À ce jour, les modalités de cette possible harmonisation ne sont toutefois pas arrêtées.
