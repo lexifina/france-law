@@ -2196,19 +2196,21 @@ Etat |
 
 14° Domaine national de Meudon (Hauts-de-Seine) :
 
-- carte :
+-carte :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 141 du 19 juin 2022, texte 35, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=I03KL9wbYj098bb2q4NL35iYQCaxiZkrV5CsQk9PRVk=
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0163 du 16 juillet 1015, texte n° 21, accessible à l'adresse suivante :
 
-- liste des parcelles et espaces non cadastrés :
+https://www.legifrance.gouv.fr/download/pdf?id=TYau16CGr1vBDcVGEbDtoTzrWXQM5y4NfCScG3tMRLU=
 
-NB : en cas d'intégration dans le domaine national d'un espace non cadastré ou d'une partie de parcelle cadastrale, la désignation de l'espace intégré au domaine national est indiquée dans le tableau ci-après par une ligne de précision dans la partie “ contenance ”.
+-liste des parcelles et espaces non cadastrés :
 
-DÉSIGNATION : DOMAINE NATIONAL DE MEUDON.
+Nota.-En cas d'intégration dans le domaine national d'un espace non cadastré ou d'une partie de parcelle cadastrale, la désignation de l'espace intégré au domaine national est indiquée dans le tableau ci-après par une ligne de précision dans la partie " contenance ".
 
-COMMUNE : CLAMART.
+DÉSIGNATION : DOMAINE NATIONAL DE MEUDON
 
-CODE INSEE : 92023.
+COMMUNE : CLAMART
+
+CODE INSEE : 92023
 
 LIEU-DIT |
 
@@ -2242,11 +2244,11 @@ Etat |
 
 Intégration de la frange ouest de la parcelle portant le Tapis Vert, sur une largeur de 80 mètres définie à partir de la limite ouest de la parcelle qui correspond à la limite communale entre Clamart et Meudon. Sont donc intégrés dans le domaine national 60 806 m2 sur 1 015 159 m2 pour la parcelle entière. |
 
-DÉSIGNATION : DOMAINE NATIONAL DE MEUDON.
+DÉSIGNATION : DOMAINE NATIONAL DE MEUDON
 
-COMMUNE : MEUDON.
+COMMUNE : MEUDON
 
-CODE INSEE : 92048.
+CODE INSEE : 92048
 
 LIEU-DIT |
 
@@ -2356,13 +2358,11 @@ AO |
 
 3 |
 
-16 |
+21 |
 
-3 |
+52 |
 
 Etat |
-
-Parcelle intégrée en totalité à l'exclusion d'une enclave trapézoïdale de 4 874 m2 située sur le côté nord-ouest de l'étang de Chalais, à cheval sur les parcelles AO 1 et AO 25, définie par les limites suivantes : côté sud-ouest, par une ligne parallèle à la limite parcellaire en retrait de 9,50 mètres dans la parcelle ; côté nord-ouest par une ligne parallèle à la façade latérale sud du Hangar Y en retrait de 6,50 mètres par rapport au bâtiment ; sur le côté nord par une ligne parallèle à la berge nord de l'étang de Chalais en retrait de 6 mètres au nord ; sur le côté est par une ligne parallèle à la berge orientale de l'étang de Chalais en empiètement de 5 mètres sur l'étang. La surface retranchée à la parcelle AO 1 est donc de 549 m2 sur 32 152 m2 pour la parcelle entière. |
 
 RUE DES VERTUGADINS |
 
@@ -2376,7 +2376,9 @@ AO |
 
 78 |
 
-Département des Hauts-de-Seine |
+Département
+
+des Hauts-de-Seine |
 
 Intégration au domaine national de la partie sud-ouest de la parcelle, la partie intégrée étant limitée au nord-est par une ligne joignant l'angle sud de la parcelle AP 451 et l'extrémité nord de la limite de division définie par le protocole de 1952 sur la mitoyenneté des parcelle AO 13 et AO 18 (point de bornage défini le 21 janvier 2022 dans le cadre de la division de la parcelle AO 18). L'aire intégrée est de 278 m2 sur 503 m2 pour la parcelle entière. |
 
@@ -2404,13 +2406,11 @@ AO |
 
 6 |
 
-27 |
+70 |
 
-33 |
+58 |
 
 Etat |
-
-Parcelle intégrée en totalité à l'exclusion d'une enclave trapézoïdale de 4 874 m2 située sur le côté nord-ouest de l'étang de Chalais, à cheval sur les parcelles AO 1 et AO 25, définie par les limites suivantes : côté sud-ouest, par une ligne parallèle à la limite parcellaire en retrait de 9,50 mètres dans la parcelle ; côté nord-ouest par une ligne parallèle à la façade latérale sud du Hangar Y en retrait de 6,50 mètres par rapport au bâtiment ; sur le côté nord par une ligne parallèle à la berge nord de l'étang de Chalais en retrait de 6 mètres au nord ; sur le côté est par une ligne parallèle à la berge orientale de l'étang de Chalais en empiètement de 5 mètres sur l'étang. La surface retranchée à la parcelle AO 25 est donc de 4 325 m2 sur 67 058 m2 pour la parcelle entière. |
 
 AVENUE DE TRIVAUX |
 
@@ -2444,7 +2444,9 @@ AVENUE DE TRIVAUX |
 
 AO |
 
-Non cadastré |
+Non
+
+cadastré |
 
 |
 
@@ -2452,7 +2454,9 @@ Non cadastré |
 
 77 |
 
-Département des Hauts-de-Seine |
+Département
+
+des Hauts-de-Seine |
 
 Intégration de l'avenue de Trivaux (route départementale n° 406) limitée au nord par une ligne joignant l'angle sud de la parcelle AP 451 et l'extrémité nord de la limite de division définie par le protocole de 1952 sur la mitoyenneté des parcelle AO 13 et AO 18 (point de bornage défini le 21 janvier 2022 dans le cadre de la division de la parcelle AO 18), et au sud par le débouché de l'avenue de Trivaux sur le carrefour d'Aubervilliers (croisement de l'avenue de Trivaux avec la route d'Aubervilliers et la route cavalière de La Tour), le carrefour étant laissé en dehors du domaine national. |
 
@@ -2620,7 +2624,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 - liste des parcelles et espaces non cadastrés :
 
-NB : en cas d'intégration dans le domaine national d'un espace non cadastré ou d'une partie de parcelle cadastrale, la désignation de l'espace intégré au domaine national est indiquée dans le tableau ci-après par une ligne de précision dans la partie “ contenance ”.
+NB : en cas d'intégration dans le domaine national d'un espace non cadastré ou d'une partie de parcelle cadastrale, la désignation de l'espace intégré au domaine national est indiquée dans le tableau ci-après par une ligne de précision dans la partie " contenance ".
 
 DÉSIGNATION : DOMAINE NATIONAL DU CHATEAU DE MALMAISON.
 
@@ -3000,19 +3004,21 @@ Commune de Rueil-Malmaison |
 
 16° Domaine national de Saint-Cloud (Hauts-de-Seine) :
 
-- carte :
+-carte :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 141 du 19 juin 2022, texte 35, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=I03KL9wbYj098bb2q4NL35iYQCaxiZkrV5CsQk9PRVk=
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0163 du 16 juillet 1015, texte n° 21, accessible à l'adresse suivante :
 
-- liste des parcelles et espaces non cadastrés :
+https://www.legifrance.gouv.fr/download/pdf?id=TYau16CGr1vBDcVGEbDtoTzrWXQM5y4NfCScG3tMRLU=
 
-NB : en cas d'intégration dans le domaine national d'un espace non cadastré ou d'une partie de parcelle cadastrale, la désignation de l'espace intégré au domaine national est indiquée dans le tableau ci-après par une ligne de précision dans la partie “ contenance ”.
+-liste des parcelles et espaces non cadastrés :
 
-DÉSIGNATION : DOMAINE NATIONAL DE SAINT-CLOUD.
+Nota.-En cas d'intégration dans le domaine national d'un espace non cadastré ou d'une partie de parcelle cadastrale, la désignation de l'espace intégré au domaine national est indiquée dans le tableau ci-après par une ligne de précision dans la partie " contenance ".
 
-COMMUNE : MARNES-LA-COQUETTE.
+DÉSIGNATION : DOMAINE NATIONAL DE SAINT-CLOUD
 
-CODE INSEE : 92047.
+COMMUNE : MARNES-LA-COQUETTE
+
+CODE INSEE : 92047
 
 LIEU-DIT |
 
@@ -3386,7 +3392,9 @@ PARC DE VILLENEUVE L'ÉTANG |
 
 AC |
 
-Non cadastré |
+Non
+
+cadastré |
 
 |
 
@@ -3440,11 +3448,11 @@ AD |
 
 Etat |
 
-DÉSIGNATION : DOMAINE NATIONAL DE SAINT-CLOUD.
+DÉSIGNATION : DOMAINE NATIONAL DE SAINT-CLOUD
 
-COMMUNE : SAINT-CLOUD.
+COMMUNE : SAINT-CLOUD
 
-CODE INSEE : 92064.
+CODE INSEE : 92064
 
 LIEU-DIT |
 
@@ -4026,7 +4034,7 @@ E |
 
 Etat |
 
-Intégration des parties nord et sud de la parcelle à l'exclusion de la partie centrale. La partie exclue comprend la moitié orientale d'un carré de 60 mètres de côté situé à cheval sur les parcelles E 34 et E 36 correspondant à l'emprise en tréfonds et en surface d'une sortie technique de réseaux souterrains de transports en commun. Cette enclave exclue du domaine national est positionnée, pour sa limite ouest, à un recul de 51 mètres parallèle à la limite cadastrale ouest de la parcelle E 34 et, pour sa limite sud, à une distance de 65,70 mètres de la limite sud de la parcelle E 36. Elle comprend aussi, sur le côté sud-est, l'intégralité de l'ouvrage formant l'entrée du tunnel autoroutier et de la passerelle menant au bosquet du bassin d'Apollon, en s'appuyant sur la limite ouest en élévation de l'ouvrage de front du tunnel et sur la limite ouest de la parcelle AH 1. Les parties intégrées au domaine national couvrent 5 651 m2 sur 8 921 m2 pour la parcelle entière. |
+Intégration des parties nord et sud de la parcelle à l'exclusion de la partie centrale. La partie exclue comprend la moitié orientale d'un carré de 60 mètres de côté situé à cheval sur les parcelles E 34 et E 36 correspondant à l'emprise en tréfonds et en surface d'une sortie technique de réseaux souterrains de transports en commun. Cette enclave exclue du domaine national est positionnée, pour sa limite ouest, à un recul de 51 mètres parallèle à la limite cadastrale ouest de la parcelle E 34 et, pour sa limite sud, à une distance de 65,70 mètres de la limite sud de la parcelle E 36. Elle comprend aussi, sur le côté sud-est, l'intégralité de l'ouvrage formant l'entrée du tunnel autoroutier et de la passerelle menant au bosquet du bassin d'Apollon, en s'appuyant sur la limite ouest en élévation de l'ouvrage de front du tunnel et sur la limite ouest de la parcelle AH 1. Les parties intégrées au domaine national couvrent 5 651 m 2 sur 8 921 m2 pour la parcelle entière. |
 
 ALLÉE DE LA CARRIÈRE |
 
@@ -4332,6 +4340,20 @@ GRANDE RUE |
 
 E |
 
+62 |
+
+|
+
+53 |
+
+53 |
+
+Etat |
+
+GRANDE RUE |
+
+E |
+
 63 |
 
 |
@@ -4339,6 +4361,20 @@ E |
 53 |
 
 53 |
+
+Etat |
+
+GRANDE RUE |
+
+E |
+
+64 |
+
+3 |
+
+73 |
+
+58 |
 
 Etat |
 
@@ -5786,11 +5822,11 @@ E |
 
 Etat |
 
-DÉSIGNATION : DOMAINE NATIONAL DE SAINT-CLOUD.
+DÉSIGNATION : DOMAINE NATIONAL DE SAINT-CLOUD
 
-COMMUNE : SEVRES.
+COMMUNE : SÈVRES
 
-CODE INSEE : 92072.
+CODE INSEE : 92072
 
 LIEU-DIT |
 
@@ -5894,11 +5930,11 @@ AD |
 
 Etat |
 
-DÉSIGNATION : DOMAINE NATIONAL DE SAINT-CLOUD.
+DÉSIGNATION : DOMAINE NATIONAL DE SAINT-CLOUD
 
-COMMUNE : VILLE-D'AVRAY.
+COMMUNE : VILLE-D'AVRAY
 
-CODE INSEE : 92077.
+CODE INSEE : 92077
 
 LIEU-DIT |
 
@@ -5955,6 +5991,302 @@ AC |
 10 |
 
 87 |
+
+Etat |
+
+LA RONCE |
+
+AE |
+
+524 |
+
+|
+
+11 |
+
+98 |
+
+Etat |
+
+LA RONCE |
+
+AE |
+
+525 |
+
+|
+
+8 |
+
+51 |
+
+Etat |
+
+LA RONCE |
+
+AE |
+
+531 |
+
+|
+
+5 |
+
+2 |
+
+Etat |
+
+LES ETANGS |
+
+AK |
+
+16 |
+
+|
+
+1 |
+
+11 |
+
+Etat |
+
+Intégration de la totalité de la parcelle, délimitée au droit de la parcelle AK 93 entre les points de coordonnées (X : 1639647.30 ; Y : 8180448.89) et (X : 1639653.12 ; Y : 8180401.90) ; au droit de la parcelle AK 97 entre les points de coordonnées (X : 1639649.60 ; Y : 8180449.21) et (X : 1639655.47 ; Y 8180401.82) selon le système Lambert CC zone 49. |
+
+LES ETANGS |
+
+AK |
+
+62 |
+
+|
+
+44 |
+
+28 |
+
+Etat |
+
+LES ETANGS |
+
+AK |
+
+63 |
+
+3 |
+
+3 |
+
+58 |
+
+Etat |
+
+LES ETANGS |
+
+AK |
+
+64 |
+
+|
+
+56 |
+
+5 |
+
+Etat |
+
+LES ETANGS |
+
+AK |
+
+66 |
+
+|
+
+6 |
+
+53 |
+
+Etat |
+
+LES ETANGS |
+
+AK |
+
+67 |
+
+2 |
+
+19 |
+
+5 |
+
+Etat |
+
+LES ETANGS |
+
+AK |
+
+68 |
+
+|
+
+56 |
+
+38 |
+
+Etat |
+
+LES ETANGS |
+
+AK |
+
+79 |
+
+|
+
+11 |
+
+3 |
+
+Etat |
+
+LES ETANGS |
+
+AK |
+
+110 |
+
+|
+
+|
+
+42 |
+
+Etat |
+
+LES ETANGS |
+
+AK |
+
+112 |
+
+|
+
+5 |
+
+52 |
+
+Etat |
+
+LES ETANGS |
+
+AK |
+
+113 |
+
+|
+
+64 |
+
+16 |
+
+Etat |
+
+LES ETANGS |
+
+AK |
+
+129 |
+
+|
+
+8 |
+
+43 |
+
+Etat |
+
+LES FAUSSES-REPOSES |
+
+AL |
+
+75 |
+
+|
+
+11 |
+
+30 |
+
+Etat |
+
+LES FAUSSES-REPOSES |
+
+AL |
+
+167 |
+
+|
+
+9 |
+
+47 |
+
+Etat |
+
+LES FAUSSES-REPOSES |
+
+AL |
+
+168 |
+
+|
+
+|
+
+1 |
+
+Etat |
+
+LES FAUSSES-REPOSES |
+
+AL |
+
+170 |
+
+|
+
+|
+
+17 |
+
+Etat |
+
+LES FAUSSES-REPOSES |
+
+AL |
+
+171 |
+
+|
+
+|
+
+53 |
+
+Etat |
+
+LES FAUSSES-REPOSES |
+
+AL |
+
+225 |
+
+|
+
+|
+
+30 |
 
 Etat |
 
