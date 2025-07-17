@@ -4,7 +4,7 @@ ANNEXE I
 
 PRÉSENTATION SYNTHÉTIQUE DU RÉFÉRENTIEL DU DIPLÔME
 
-Brevet de technicien supérieur « Bioanalyses en laboratoire de contrôle »
+Brevet de technicien supérieur &laquo; Bioanalyses en laboratoire de contrôle &raquo;
 
 Pôles d'activités professionnelles |
 
@@ -14,222 +14,214 @@ Unités |
 
 Pôle 1
 
-Gestion opérationnelle
+Gestion opérationnelle et documentaire
 
-et documentaire du laboratoire |
+du laboratoire |
 
 Bloc 1
 
-Gestion opérationnelle et documentaire du laboratoire |
+Gestion opérationnelle et documentaire
 
-Unité U3
-
-Gestion opérationnelle
-
-et documentaire du laboratoire |
-
-C1.1 Assurer le bon fonctionnement du laboratoire
-
-C1.2 Garantir la performance des installations pour les analyses et contrôles
-
-C1.3 Participer à la démarche de prévention des risques
-
-C1.4 Analyser des pratiques en vue d'un projet d'amélioration du fonctionnement du laboratoire |
-
-Pôle 2
-
-Réalisation des analyses au laboratoire
-
-dans le cadre d'un contrôle qualité |
-
-Bloc 2
-
-Réalisation des analyses au laboratoire
-
-dans le cadre d'un contrôle qualité |
-
-Unité U4
-
-Réalisation des analyses au laboratoire
-
-dans le cadre d'un contrôle qualité |
-
-C2.1 S'approprier une situation relative à la réalisation d'une bioanalyse en contrôle
-
-C2.2. Organiser les analyses selon le plan de charge du laboratoire
-
-C2.3. Réaliser des analyses au laboratoire de biochimie analytique
-
-C2.4. Réaliser des analyses au laboratoire microbiologie
-
-C2.5. Réaliser des analyses au laboratoire de biologie moléculaire
-
-C2.6. Réaliser des analyses au laboratoire de biologie cellulaire
-
-C2.7. Valider la conformité des analyses
-
-C2.8. Rendre compte des résultats |
-
-Pôle 3
-
-Expertise au laboratoire
-
-pour l'optimisation
-
-de méthodes de bioanalyse |
-
-Bloc 3
-
-Expertise au laboratoire
-
-pour l'optimisation de méthodes de bioanalyse |
+du laboratoire |
 
 Unité U5
 
-Expertise au laboratoire
+Gestion opérationnelle et documentaire
 
-pour l'optimisation
+du laboratoire |
 
-de méthodes de bioanalyse |
+C1. 1 Assurer le bon fonctionnement du laboratoire
 
-C3.1 S'approprier une situation relative à l'amélioration d'une bioanalyse
+C1. 2 Garantir la performance des installations pour les analyses et contrôles
 
-C3.2 Analyser une procédure en mobilisant des ressources internes et externes
+C1. 3 Participer à la démarche de prévention des risques
 
-C3.3 Installer une nouvelle méthode
+C1. 4 Analyser des pratiques en vue d'un projet d'amélioration du fonctionnement du laboratoire |
 
-C3.4 Concevoir une démarche expérimentale pour adapter une méthode |
+Pôle 2
+
+Réalisation des analyses au laboratoire dans le cadre d'un contrôle qualité |
+
+Bloc 2
+
+Réalisation des analyses au laboratoire dans le cadre d'un contrôle qualité |
+
+Unité U6
+
+Réalisation des analyses au laboratoire dans le cadre d'un contrôle qualité |
+
+C2. 1 S'approprier une situation relative à la réalisation d'une bioanalyse en contrôle
+
+C2. 2. Organiser les analyses selon le plan de charge du laboratoire
+
+C2. 3. Réaliser des analyses au laboratoire de biochimie analytique
+
+C2. 4. Réaliser des analyses au laboratoire microbiologie
+
+C2. 5. Réaliser des analyses au laboratoire de biologie moléculaire
+
+C2. 6. Réaliser des analyses au laboratoire de biologie cellulaire
+
+C2. 7. Valider la conformité des analyses
+
+C2. 8. Rendre compte des résultats |
+
+Pôle 3
+
+Expertise au laboratoire pour l'optimisation de méthodes de bioanalyse |
+
+Bloc 3
+
+Expertise au laboratoire pour l'optimisation de méthodes de bioanalyse |
+
+Unité U7
+
+Expertise au laboratoire pour l'optimisation de méthodes de bioanalyse |
+
+C3. 1 S'approprier une situation relative à l'amélioration d'une bioanalyse
+
+C3. 2 Analyser une procédure en mobilisant des ressources internes et externes
+
+C3. 3 Installer une nouvelle méthode
+
+C3. 4 Concevoir une démarche expérimentale pour adapter une méthode |
 
 Pôle 4
 
-Relations professionnelles
-
-au laboratoire |
+Relations professionnelles au laboratoire |
 
 Bloc 4
 
 Relations professionnelles au laboratoire |
 
-Unité U6
+Unité U8
 
-Relations professionnelles
+Relations professionnelles au laboratoire |
 
-au laboratoire |
+C4. 1. S'intégrer dans une équipe ou un réseau professionnel
 
-C4.1. S'intégrer dans une équipe ou un réseau professionnel
+C4. 2. Exploiter des informations liées aux techniques, à la qualité et au développement professionnel
 
-C4.2. Exploiter des informations liées aux techniques, à la qualité et au développement professionnel
+C4. 3. Produire une information professionnelle écrite ou orale
 
-C4.3. Produire une information professionnelle écrite ou orale
-
-C4.4. Interagir avec des professionnels extérieurs au laboratoire |
+C4. 4. Interagir avec des professionnels extérieurs au laboratoire |
 
 |
 
 Bloc Culture générale et expression |
 
-Unité U11
+Unité U1
 
-Culture générale
+Culture générale et expression |
 
-et expression |
+|
 
-- S'exprimer à l'oral en interaction en s'adaptant au contexte
+-S'exprimer à l'oral en interaction en s'adaptant au contexte
 
-- S'exprimer à l'oral en continu en s'adaptant au contexte
+-S'exprimer à l'oral en continu en s'adaptant au contexte
 
-- Argumenter à l'écrit
+-Argumenter à l'écrit
 
-- Recourir efficacement aux écrits de travail
+-Recourir efficacement aux écrits de travail
 
-- Comprendre et interpréter un texte
+-Comprendre et interpréter un texte
 
-- Tisser des liens entre des textes
+-Tisser des liens entre des textes
 
-- Développer une réflexion sur la langue pour améliorer et réviser ses productions écrites et orales
+-Développer une réflexion sur la langue pour améliorer et réviser ses productions écrites et orales
 
-- Mobiliser de manière personnelle une culture commune |
+-Mobiliser de manière personnelle une culture commune |
 
 |
 
 Bloc Anglais |
 
-Unité U12
+Unité U2
 
 Anglais |
 
-Compréhension et expression orales au niveau B2
+|
 
-Comprendre des productions orales ou des documents enregistrés
+-Compréhension et expression orales au niveau B2
 
-S'exprimer à l'oral en continu et en interaction
+-Comprendre des productions orales ou des documents enregistrés
 
-Compréhension de l'écrit au niveau B2 |
+-S'exprimer à l'oral en continu et en interaction
+
+-Compréhension de l'écrit au niveau B2 |
 
 |
 
 Bloc Mathématiques |
 
-Unité U21
+Unité U3
 
 Mathématiques |
 
-S'informer : savoir utiliser une documentation
+|
 
-Chercher : identifier des données et élaborer des stratégies
+-S'informer : savoir utiliser une documentation
 
-Modéliser : représenter des objets du monde réel en utilisant le langage mathématique
+-Chercher : identifier des données et élaborer des stratégies
 
-Raisonner, argumenter
+-Modéliser : représenter des objets du monde réel en utilisant le langage mathématique
 
-Calculer, illustrer, mettre en œuvre une stratégie : mener efficacement un calcul simple, manipuler des expressions symboliques et pouvoir s'appuyer sur les outils numériques
+-Raisonner, argumenter
 
-Communiquer |
+-Calculer, illustrer, mettre en œuvre une stratégie : mener efficacement un calcul simple, manipuler des expressions symboliques et pouvoir s'appuyer sur les outils numériques
+
+-Communiquer |
 
 |
 
 Bloc Physique-chimie |
 
-Unité U22
+Unité U4
 
 Physique-chimie |
 
-- Confronter ses représentations avec la réalité
+|
 
-- Observer en faisant preuve de curiosité
+-Confronter ses représentations avec la réalité
 
-- Mobiliser ses connaissances, rechercher, extraire et organiser l'information utile fournie par une situation, une expérience ou un document
+-Observer en faisant preuve de curiosité
 
-- Raisonner, démontrer, argumenter, exercer son esprit d'analyse. |
+-Mobiliser ses connaissances, rechercher, extraire et organiser l'information utile fournie par une situation, une expérience ou un document
+
+-Raisonner, démontrer, argumenter, exercer son esprit d'analyse. |
 
 |
 
-Bloc facultatif
-
-langue vivante étrangère 2 |
+Bloc facultatif langue vivante étrangère 2 |
 
 Unité UF1
 
 Langue vivante étrangère 2 |
 
+|
+
 Compétences de niveau B1 du CECRL :
 
-- S'exprimer oralement en continu
+-S'exprimer oralement en continu
 
-- Interagir en langue étrangère
+-Interagir en langue étrangère
 
-- Comprendre un document écrit rédigé en langue étrangère |
+-Comprendre un document écrit rédige ́ en langue étrangère |
 
 |
 
-Bloc facultatif
-
-Engagement étudiant |
+Bloc facultatif Engagement étudiant |
 
 UF2
 
 Engagement étudiant |
 
-Approfondissement des compétences évaluées à l'épreuve E6 (unité U6).
+|
 
-Développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du diplôme et plus particulièrement s'agissant des compétences évaluées dans l'épreuve E6 (unité U6). |
+Approfondissement des compétences évaluées à l'épreuve E8 (unité U8).
+
+Développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du diplôme et plus particulièrement s'agissant des compétences évaluées dans l'épreuve E8 (unité U8). |
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 24 juin 2025 (NOR : MENS2514032A), ces dispositions s'appliquent à compter de la session d'examen 2026.
