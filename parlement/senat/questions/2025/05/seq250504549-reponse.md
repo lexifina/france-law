@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250504549
+
+- Question : [SEQ250504549](seq250504549.md) — Présence de trottinettes électriques sur les routes de campagne
+
+## Réponse
+
+*Transports, JO du 2025-07-17, page 4190*
+
+Le développement des engins de déplacement personnel motorisés (EDPM) a conduit le Gouvernement à adapter la réglementation afin d'assurer la sécurité de leurs utilisateurs et des autres usagers de la route. En ce sens, le décret n° 2023-848 du 31 août 2023 met en oeuvre deux mesures associées à l'objectif « Protéger, dissuader et éviter les comportements dangereux » du plan national pour mieux réguler les trottinettes électriques. D'une part, l'âge minimum de la conduite des EDPM est relevé de 12 à 14 ans afin d'éviter les accidents qui peuvent intervenir pour les plus jeunes utilisateurs en raison de leur jeune âge et de leur faible expérience. D'autre part, afin de limiter les comportements les plus dangereux, le décret renforce certaines sanctions prévues par le code de la route. Jusque-là classées en deuxième classe (amende forfaitaire de 35 euros), les infractions suivantes relèvent désormais de la quatrième classe (amende forfaitaire de 135 euros) : le transport de passager sur un EDPM ou un cyclomobile léger et la circulation sur une voie interdite (voies express et autoroutes, ainsi que la circulation sur la chaussée alors qu'il existe une piste cyclable). De plus, le décret n° 2024-1074 du 27 novembre 2024 a introduit dans le code de la route plusieurs mesures visant à renforcer la visibilité des cyclistes et des conducteurs d'EDPM en leur offrant la possibilité d'équiper vélos ou trottinettes électriques d'éclairages, de feux et de dispositifs rétro-réfléchissants complémentaires à ceux déjà obligatoires. Les cyclistes et conducteurs d'EDPM peuvent à présent aussi porter ces éclairages facultatifs supplémentaires sur eux.
