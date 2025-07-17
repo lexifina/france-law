@@ -316,11 +316,11 @@ Dans ce cadre, il est conduit à appréhender le fonctionnement de l'entreprise 
 
 Au cours de ce stage l'étudiant doit exercer plusieurs activités définies dans les pôles " Prototypage et industrialisation durable d'un système optique photonique ", " Contrôle et métrologie d'un système optique photonique " et " Assistance technique et maintenance d'un système optique photonique " du référentiel des activités professionnelles du BTS " Photonique : Technologies et Sciences de la Lumière ".
 
-Pour l'évaluation du stage métier, le choix de l'unité certificative (Partie 1 de l'U5 ou U61 ou U62) est arrêté par l'équipe pédagogique en charge des enseignements professionnels et le tuteur (ou le maître d'apprentissage) lors de la préparation du stage (ou de l'alternance) en fonction des activités confiées au stagiaire (ou apprenti). Ce choix est noté dans l'annexe pédagogique de la convention (ou dans le tableau de stratégie de l'apprenti).
+Pour l'évaluation du stage métier, le choix de l'unité certificative (Partie 1 de l'U5 ou U6 ou U7) est arrêté par l'équipe pédagogique en charge des enseignements professionnels et le tuteur (ou le maître d'apprentissage) lors de la préparation du stage (ou de l'alternance) en fonction des activités confiées au stagiaire (ou apprenti). Ce choix est noté dans l'annexe pédagogique de la convention (ou dans le tableau de stratégie de l'apprenti).
 
 Le rapport de stage sera constitué d'environ vingt pages (hors annexes), présentant l'entreprise, son organisation et les travaux conduits et résultats obtenus.
 
-Cette évaluation est consignée dans la grille nationale, fournie par l'inspection générale, de l'unité retenue (la partie 1 de U5 ou U61 ou U62).
+Cette évaluation est consignée dans la grille nationale, fournie par l'inspection générale, de l'unité retenue (la partie 1 de U5 ou U6 ou U7).
 
 2. Organisation du stage " métier "
 
@@ -401,3 +401,7 @@ Les candidats apprentis redoublants peuvent présenter à la session suivant cel
 -soit leur contrat d'apprentissage initial prorogé d'un an ;
 
 -soit un nouveau contrat conclu avec un autre employeur (en application des dispositions de l'article L. 6222-11 du code du travail).
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 24 juin 2025 (NOR : MENS2514040A), ces dispositions s'appliquent à compter de la session d'examen 2026.

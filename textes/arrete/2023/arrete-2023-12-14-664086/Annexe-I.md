@@ -2,17 +2,19 @@
 
 PRÉSENTATION DU DIPLÔME
 
-I. 1.-Présentation
+Brevet de technicien supérieur &laquo; Photonique : Technologies et Sciences de la Lumière &raquo;
 
-Le titulaire du BTS " Photonique : Technologies et Sciences de la Lumière " peut exercer les métiers de technicien supérieur photonique généraliste ou spécialisé en optique, imagerie, fibre optique, laser, etc.
+I. 1. Présentation
+
+Le titulaire du BTS &laquo; Photonique : Technologies et Sciences de la Lumière &raquo; peut exercer les métiers de technicien supérieur photonique généraliste ou spécialisé en optique, imagerie, fibre optique, laser, etc.
 
 Il a principalement pour missions l'étude, la conception, le prototypage, l'industrialisation, la réalisation, l'utilisation et la maintenance de systèmes ou de procédés à dominante optique photonique.
 
 Le contexte professionnel des activités du futur technicien supérieur peut relever de :
 
--l'optique photonique " structurante " qui correspond à l'ensemble des établissements producteurs de biens intermédiaires optiques (sources de lumière ou composants) ;
+-l'optique photonique &laquo; structurante &raquo; qui correspond à l'ensemble des établissements producteurs de biens intermédiaires optiques (sources de lumière ou composants) ;
 
--l'optique photonique " diffusante " qui correspond à l'ensemble des établissements consommateurs de biens intermédiaires optiques (équipementiers, systémiers qui intègrent les sources ou composants optiques dans leurs produits).
+-l'optique photonique &laquo; diffusante &raquo; qui correspond à l'ensemble des établissements consommateurs de biens intermédiaires optiques (équipementiers, systémiers qui intègrent les sources ou composants optiques dans leurs produits).
 
 Avec l'évolution des techniques et des nouvelles technologies du domaine de l'optique photonique, mais aussi de l'électronique et de l'informatique, il intervient sur des produits ou des procédés pluritechnologiques de plus en plus sophistiqués.
 
@@ -22,7 +24,7 @@ Lors de ses activités, il doit assurer pleinement ses responsabilités au nivea
 
 L'ensemble de ses compétences lui permet de travailler en relative autonomie (suivant la taille de l'entreprise) et de conduire éventuellement une équipe en tant que leader rattaché à un responsable hiérarchique plus qualifié ou expérimenté.
 
-I. 2.-Tableau de synthèse
+I. 2. Tableau de synthèse
 
 Pôle d'activités |
 
@@ -30,11 +32,7 @@ Blocs de compétences |
 
 Unités |
 
-CONCEPTION DURABLE
-
-D'UN SYSTÈME OPTIQUE
-
-PHOTONIQUE |
+CONCEPTION DURABLE D'UN SYSTÈME OPTIQUE PHOTONIQUE |
 
 Bloc n° 1-Conception durable d'un système optique photonique
 
@@ -50,19 +48,9 @@ Bloc n° 1-Conception durable d'un système optique photonique
 
 U4
 
-CONCEPTION DURABLE
+CONCEPTION DURABLE D'UN SYSTÈME OPTIQUE PHOTONIQUE |
 
-D'UN SYSTÈME OPTIQUE
-
-PHOTONIQUE |
-
-PROTOTYPAGE
-
-ET INDUSTRIALISATION DURABLE
-
-D'UN SYSTÈME OPTIQUE
-
-PHOTONIQUE |
+PROTOTYPAGE ET INDUSTRIALISATION DURABLE D'UN SYSTÈME OPTIQUE PHOTONIQUE |
 
 Bloc n° 2-Prototypage et industrialisation durable d'un système optique photonique
 
@@ -78,19 +66,9 @@ Bloc n° 2-Prototypage et industrialisation durable d'un système optique photon
 
 U5
 
-PROTOTYPAGE
+PROTOTYPAGE ET INDUSTRIALISATION DURABLE D'UN SYSTÈME OPTIQUE PHOTONIQUE |
 
-ET INDUSTRIALISATION DURABLE
-
-D'UN SYSTÈME OPTIQUE
-
-PHOTONIQUE |
-
-CONTRÔLE ET MÉTROLOGIE
-
-D'UN SYSTÈME OPTIQUE
-
-PHOTONIQUE |
+CONTRÔLE ET MÉTROLOGIE D'UN SYSTÈME OPTIQUE PHOTONIQUE |
 
 Bloc n° 3-Contrôle et métrologie d'un système optique photonique
 
@@ -100,19 +78,11 @@ Bloc n° 3-Contrôle et métrologie d'un système optique photonique
 
 -Assurer une démarche qualité |
 
-U61
+U6
 
-CONTRÔLE ET MÉTROLOGIE
+CONTRÔLE ET MÉTROLOGIE D'UN SYSTÈME OPTIQUE PHOTONIQUE |
 
-D'UN SYSTÈME OPTIQUE
-
-PHOTONIQUE |
-
-ASSISTANCE TECHNIQUE
-
-ET MAINTENANCE D'UN SYSTÈME
-
-OPTIQUE PHOTONIQUE |
+ASSISTANCE TECHNIQUE ET MAINTENANCE D'UN SYSTÈME OPTIQUE PHOTONIQUE |
 
 Bloc n° 4-Assistance technique et maintenance d'un système optique photonique
 
@@ -122,19 +92,11 @@ Bloc n° 4-Assistance technique et maintenance d'un système optique photonique
 
 -Définir et assurer une maintenance |
 
-U62
+U7
 
-ASSISTANCE TECHNIQUE
-
-ET MAINTENANCE D'UN SYSTÈME
-
-OPTIQUE PHOTONIQUE |
+ASSISTANCE TECHNIQUE ET MAINTENANCE D'UN SYSTÈME OPTIQUE PHOTONIQUE |
 
 |
-
-Blocs de compétences |
-
-Unités |
 
 Bloc n° 5-Culture générale et expression
 
@@ -154,9 +116,7 @@ Bloc n° 5-Culture générale et expression
 
 U1
 
-CULTURE GÉNÉRALE
-
-ET EXPRESSION |
+CULTURE GÉNÉRALE ET EXPRESSION |
 
 |
 
@@ -196,10 +156,6 @@ MATHÉMATIQUES |
 
 |
 
-Blocs de compétences |
-
-Unités |
-
 Bloc facultatif-Langue vivante facultative
 
 Compétences de niveau B1 du CECRL :
@@ -225,3 +181,7 @@ Bloc facultatif-Engagement étudiant
 UF2
 
 ENGAGEMENT ÉTUDIANT |
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 24 juin 2025 (NOR : MENS2514040A), ces dispositions s'appliquent à compter de la session d'examen 2026.

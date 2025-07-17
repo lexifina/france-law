@@ -622,7 +622,7 @@ X |
 
 |
 
-U61 |
+U6 |
 
 |
 
@@ -656,7 +656,7 @@ X |
 
 |
 
-U62 |
+U7 |
 
 |
 
@@ -1483,3 +1483,7 @@ Les connaissances relevant de la physique-chimie sont identifiées dans les tabl
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=N-0WZto4Cz_ux0auCUAmCVyoGGU2F9H_r9t1F_IoQ-g=
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 24 juin 2025 (NOR : MENS2514040A), ces dispositions s'appliquent à compter de la session d'examen 2026.
