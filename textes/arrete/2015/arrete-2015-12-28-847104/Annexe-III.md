@@ -634,7 +634,7 @@ Commandant du centre national d'instruction :
 
 -officier de liaison auprès du secrétariat général de la mer (1 emploi) ;
 
--officier de liaison auprès du préfet de police des Bouches-du-Rhône (1 emploi) ;
+-officier de liaison auprès du préfet de police délégué des Bouches-du-Rhône (1 emploi) ;
 
 -officier de liaison au détachement de liaison d'un état-major de défense (8 emplois dont 1 emploi par zone de défense et de sécurité) ;
 

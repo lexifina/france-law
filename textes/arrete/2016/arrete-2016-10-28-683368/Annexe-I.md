@@ -350,7 +350,7 @@ Porte-parole du ministère de l'intérieur, délégué adjoint à l'information 
 
 Chargé de mission police nationale à la Direction Générale des Outre-Mer |
 
-Conseiller auprès du préfet de police à Marseille |
+Conseiller auprès du préfet de police délégué des Bouches-du-Rhône |
 
 Directeur d'un cabinet d'un préfet délégué pour la sécurité et la défense |
 
