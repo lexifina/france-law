@@ -222,9 +222,9 @@ A noter : un stage à l'étranger d'une durée maximum de 8 semaines est possibl
 
 Le stage en milieu professionnel repose sur une relation à caractère pédagogique entre trois partenaires :
 
-- l'organisation, par un tuteur identifié, confie à l'étudiant des activités professionnelles correspondant au référentiel et au niveau d'exigence du diplôme, et participe à l'évaluation de certaines compétences au travers d'échanges de documents écrits avec l'équipe pédagogique (grille d'évaluation du tuteur/maître de stage fournie dans la circulaire d'organisation des examens et intégrée dans l'évaluation de l'épreuve E6.2) ;
+- l'organisation, par un tuteur identifié, confie à l'étudiant des activités professionnelles correspondant au référentiel et au niveau d'exigence du diplôme, et participe à l'évaluation de certaines compétences au travers d'échanges de documents écrits avec l'équipe pédagogique (grille d'évaluation du tuteur/maître de stage fournie dans la circulaire d'organisation des examens et intégrée dans l'évaluation de l'épreuve E8) ;
 
-- l'étudiant définit, avec l'établissement et l'équipe pédagogique, les objectifs de son immersion et de son activité, rend compte de ses observations et de ses activités au travers de différents documents (voir définition de l'épreuve E6.2) ;
+- l'étudiant définit, avec l'établissement et l'équipe pédagogique, les objectifs de son immersion et de son activité, rend compte de ses observations et de ses activités au travers de différents documents (voir définition de l'épreuve E8) ;
 
 - l'équipe pédagogique encadre, conseille, met en cohérence et articule les différentes modalités d'appropriation des compétences. Chaque stagiaire a un enseignant référent pour l'accompagnement de son stage.
 

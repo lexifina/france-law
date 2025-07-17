@@ -16,27 +16,37 @@ U1 |
 
 Culture générale et expression |
 
-U2.1 et U2.2 |
+U2 |
 
-Langue vivante étrangère anglais |
+Langue vivante étrangère anglaise : Compréhension de l'écrit et expression écrite |
 
 U3 |
 
-Environnement juridique et économique des activités immobilières |
+Langue vivante étrangère
+
+anglaise : Production orale en
+
+continu et en interaction |
 
 U4 |
 
-Conduite du projet immobilier du client en vente et/ou location |
+Environnement juridique et économique des activités immobilières |
 
 U5 |
 
+Conduite du projet immobilier du client en vente et/ou location |
+
+U6 |
+
 Administration des copropriétés et de l'habitat social |
 
-U6.1 et U6.2 |
+U7 |
 
-Construction d'une professionnalité immobilière
+Conseil en gestion du bâti dans le contexte de changement climatique |
 
-dans le contexte de changement climatique |
+U8 |
+
+Construction d'une professionnalité dans l'immobilier |
 
 UF1 |
 
@@ -50,39 +60,37 @@ ANNEXE IV b
 
 DISPENSES D'UNITÉS
 
-Les candidats au BTS &laquo; professions immobilières &raquo; déjà titulaires d'un BTS d'une autre spécialité, ou d'un diplôme national de niveau 5 ou supérieur seront, à leur demande, dispensés de subir :
+Les candidats au BTS &laquo; Professions immobilières &raquo; déjà titulaires d'un BTS d'une autre spécialité, ou d'un diplôme national de niveau 5 ou supérieur seront, à leur demande, dispensés de subir :
 
 - l'unité U1 de culture générale et expression ;
 
-- les unités U21 et U22 de langue vivante étrangère anglais.
+- les unités U2 : Langue vivante étrangère anglaise : Compréhension de l'écrit et expression écrite et U3 : Langue vivante étrangère anglaise : Production orale en continu et interaction.
 
 ANNEXE IV c
 
 RÈGLEMENT D'EXAMEN
 
-BTS &laquo; professions immobilières &raquo; |
+BTS Professions immobilières |
 
-Voie scolaire dans
-
-un établissement public
-
-ou privé sous contrat,
-
-CFA ou section d'apprentissage habilité, formation professionnelle continue dans les établissements publics habilités |
+Voie scolaire dans un établissement public ou privé sous contrat, CFA ou section d'apprentissage habilité, formation professionnelle continue dans les établissements publics habilités |
 
 Formation professionnelle continue dans les établissements publics habilités à pratiquer intégralement le CCF |
 
-Voie scolaire dans un
+Voie scolaire dans un établissement privé, CFA ou section d'apprentissage non habilité,
 
-établissement privé, CFA
+formation professionnelle continue dans les établissements publics non habilités ou en établissement privé, enseignement
 
-ou section d'apprentissage non habilité, formation professionnelle continue dans les établissements publics non habilités ou en établissement privé, enseignement à distance, candidats justifiant de 3 ans d'expérience professionnelle |
+à distance, candidats au titre de leur expérience
+
+professionnelle |
 
 Epreuves |
 
-Unité |
+Unités |
 
 Coef |
+
+Crédits européens |
 
 Forme |
 
@@ -102,43 +110,29 @@ U1 |
 
 4 |
 
+16 |
+
 Ponctuelle écrite |
 
 3h |
 
 CCF
 
-2 situations d'évaluation |
+2 situations
 
-|
+d'évaluation |
 
 Ponctuelle écrite |
 
 3h |
 
-Epreuve générale E2 - Langue vivante étrangère anglaise |
+Epreuve générale E2- Langue vivante étrangère anglaise : Compréhension de l'écrit et expression écrite |
 
-|
+U2 |
 
-4 |
+2 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Sous-épreuve E2.1 - Compréhension de l'écrit et expression écrite |
-
-U2.1 |
-
-|
+8 |
 
 Ponctuelle écrite |
 
@@ -146,139 +140,135 @@ Ponctuelle écrite |
 
 CCF
 
-2 situations d'évaluation |
+2 situations
+
+d'évaluation |
 
 Ponctuelle écrite |
 
 2h |
 
-Sous-épreuve E2.2 - Production orale en continu et en interaction |
-
-U2.2 |
-
-|
-
-Ponctuelle
-
-orale |
-
-20 mn
-
-(1) |
-
-CCF |
-
-Ponctuelle
-
-orale |
-
-20 mn
-
-(1) |
-
-Epreuve générale E3 - Environnement juridique et économique des activités immobilières |
+Epreuve générale E3 - Langue vivante étrangère anglaise : Production orale en continu et en interaction |
 
 U3 |
 
-4 |
+2 |
 
-CCF |
-
-|
-
-CCF |
-
-|
-
-Ponctuelle écrite |
-
-3h |
-
-Epreuve professionnelle E4 - Conduite du projet immobilier du client en vente et/ou location |
-
-U4 |
-
-6 |
-
-Ponctuelle écrite |
-
-3h |
+8 |
 
 Ponctuelle
 
-écrite |
+orale |
 
-3h |
+20 mn
+
+(1) |
+
+CCF |
+
+Ponctuelle
+
+orale |
+
+20 mn
+
+(1) |
+
+Epreuve générale E4 - Environnement juridique et économique des activités immobilières |
+
+U4 |
+
+4 |
+
+16 |
+
+CCF |
+
+CCF |
 
 Ponctuelle écrite |
 
 3h |
 
-Epreuve professionnelle E5 - Administration des copropriétés et de l'habitat social |
+Epreuve professionnelle E5 - Conduite du projet immobilier du client en vente et/ou location |
 
 U5 |
 
 6 |
 
-Ponctuelle écrite |
-
-3h |
-
-Ponctuelle
-
-écrite |
-
-3h |
+24 |
 
 Ponctuelle écrite |
 
 3h |
 
-Epreuve professionnelle E6 - Construction d'une professionnalité immobilière dans le contexte de changement climatique |
+Ponctuelle écrite |
 
-|
+3h |
+
+Ponctuelle écrite |
+
+3h |
+
+Epreuve professionnelle E6 - Administration des copropriétés et de l'habitat social |
+
+U6 |
 
 6 |
 
-|
+24 |
 
-|
+Ponctuelle écrite |
 
-|
+3h |
 
-|
+Ponctuelle écrite |
 
-|
+3h |
 
-|
+Ponctuelle écrite |
 
-Sous-épreuve E6.1 - Conseil en gestion du bâti dans le contexte de changement climatique |
+3h |
 
-U6.1 |
+Epreuve professionnelle E7 -Conseil en gestion du bâti dans le contexte de changement climatique |
 
-|
+U7 |
+
+3 |
+
+12 |
 
 CCF
 
-3 situations d'évaluation |
+3 situations
+
+d'évaluation |
 
 CCF
 
-3 situations d'évaluation |
+3 situations
+
+d'évaluation |
 
 Ponctuelle écrite |
 
 2h |
 
-Sous-épreuve E6.2 - Construction d'une professionnalité dans l'immobilier |
+Epreuve professionnelle E8 - Construction d'une professionnalité dans
 
-U6.2 |
+l'immobilier |
 
-|
+U8 |
+
+3 |
+
+12 |
 
 CCF
 
-2 situations d'évaluation |
+2 situations
+
+d'évaluation |
 
 CCF
 
@@ -290,11 +280,15 @@ Ponctuelle orale |
 
 30 mn |
 
-Epreuve facultative EF1 (*) - Communication en langue vivante étrangère 2 (**) |
+Epreuve facultative EF1 (*) - Communication en langue
+
+vivante étrangère 2 (**) |
 
 UF1 |
 
-1 |
+|
+
+|
 
 Ponctuelle orale |
 
@@ -302,9 +296,7 @@ Ponctuelle orale |
 
 (1) |
 
-Ponctuelle
-
-orale |
+Ponctuelle orale |
 
 20 mn
 
@@ -316,55 +308,53 @@ Ponctuelle orale |
 
 (1) |
 
-Epreuve facultative EF2 (*) - Engagement étudiant |
+Epreuve facultative EF2 (*)
+
+- Engagement étudiant |
 
 UF2 |
 
-1 |
-
-CCF
-
-1 situation d'évaluation |
+|
 
 |
 
 CCF
 
-1 situation d'évaluation |
+1 situation
 
-|
+d'évaluation |
+
+CCF
+
+1 situation
+
+d'évaluation |
 
 Ponctuelle orale |
 
-20 mn |
+20mn |
+
+(1) : non compris le temps de préparation de 20 minutes.
 
 (*) Seuls les points au-dessus de 10 sont pris en compte.
 
-(**) Les langues vivantes pour cette épreuve sont : allemand, espagnol, italien et portugais (1) : non compris le temps de préparation de 20 minutes.
+(**) Les langues vivantes pour cette épreuve sont : allemand, espagnol, italien et portugais.
 
 ANNEXE IV d
 
 DÉFINITION DES ÉPREUVES
 
-Epreuve E1. - Culture générale et expression
+EPREUVE E1
+
+Culture générale et expression
 
 Coefficient 4
 
 L'unité U1 culture générale et expression valide les compétences établies par l'arrêté du 13 juillet 2023 relatif aux objectifs et contenus de l'enseignement de culture générale et expression, aux compétences travaillées et à la définition de l'épreuve de culture générale et expression du brevet de technicien supérieur (publié au JORF n° 0177 du 2 août 2023).
 
-Epreuve E2. - Langue vivante étrangère anglaise
+EPREUVE E2
 
-Coefficient 4
-
-L'épreuve E2, langue vivante étrangère anglaise, est composée de deux sous-épreuves :
-
-- E2.1 - Compréhension de l'écrit et expression écrite ;
-
-- E2.2. - Production orale en continu et interaction.
-
-Chacune de ces sous-épreuves donne lieu à une note sur 20 points. La note de l'épreuve E2 est obtenue par la moyenne des sous-épreuves E2.1 et E2.2.
-
-Sous-épreuve E2.1. - Compréhension de l'écrit et expression écrite
+Langue vivante étrangère anglaise : Compréhension de l'écrit et expression écrite
 
 Coefficient 2
 
@@ -380,7 +370,7 @@ L'étude de l'anglais contribue à la formation intellectuelle et à l'enrichiss
 
 - donner confiance pour s'exprimer ;
 
-- former le titulaire du diplôme à identifier les situations de communication, les genres de discours auxquels ils sont exposés et qu'ils doivent apprendre à maîtriser ;
+- former le titulaire du diplôme à identifier les situations de communication, les genres de discours auxquels ils sont exposés et qu'ils doivent apprendre à maîtrise r ;
 
 - favoriser le développement d'une capacité réflexive ;
 
@@ -390,7 +380,7 @@ L'étude de l'anglais contribue à la formation intellectuelle et à l'enrichiss
 
 L'évaluation est adossée au Cadre européen commun de référence pour les langues (CECRL). Le niveau attendu est B2. Le niveau B2 est défini de la façon suivante : &laquo; Une élève ou un élève peut comprendre le contenu essentiel de sujets concrets ou abstraits dans un texte complexe, y compris une discussion technique dans sa spécialité. Elle ou il peut communiquer avec un degré de spontanéité et d'aisance tel qu'une conversation avec un locuteur natif ne comporte de tension ni pour l'un ni pour l'autre. Elle ou il peut s'exprimer de façon claire et détaillée sur une grande gamme de sujets, émettre un avis sur un sujet d'actualité et exposer les avantages et les inconvénients de différentes possibilités &raquo;.
 
-Compréhension de l'écrit et expression écrite :
+Compréhension de l'écrit et expression écrite
 
 L'objectif visé est d'évaluer l'aptitude du candidat à :
 
@@ -400,23 +390,29 @@ L'objectif visé est d'évaluer l'aptitude du candidat à :
 
 2. Modalités d'évaluation - Forme ponctuelle
 
-Epreuve écrite - Durée : 2 heures :
+Epreuve écrite - durée : 2 heures
 
 Une procédure d'harmonisation des corrections sera mise en place dans chaque académie.
 
 Support(s) pour l'écrit : un ou plusieurs documents en langue vivante étrangère dont le contenu est ancré dans des situations relatives à l'entreprise et au monde du travail ainsi que dans l'aire culturelle et linguistique de référence. L'ensemble n'excèdera pas 50 lignes (soit environ 4 300 signes, blancs compris).
 
-2.1. Compréhension de l'écrit (durée : 1 heure) : rédaction en français d'un compte rendu faisant apparaître les idées essentielles du ou des documents supports ;
+2.1. Compréhension de l'écrit (durée 1 heure)
 
-2.2. Expression écrite (durée : 1 heure) : production écrite en langue vivante anglaise (courrier, courriel, bref compte rendu, etc.) à partir d'éléments de contexte ou de consignes.
+Rédaction en français d'un compte rendu faisant apparaître les idées essentielles du ou des documents supports.
 
-3. Modalités d'évaluation - Contrôle en cours de formation
+2.2. Expression écrite (durée 1 heure)
+
+Production écrite en langue vivante anglaise (courrier, courriel, bref compte rendu, etc.) à partir d'éléments de contexte ou de consignes.
+
+Modalités d'évaluation - Contrôle en cours de formation
+
+Modalités d'évaluation - Contrôle en cours de formation
 
 Il est constitué de deux situations d'évaluation de même poids se déroulant au cours de la deuxième année et correspondant aux deux activités langagières évaluées en épreuve ponctuelle : compréhension de l'écrit (1 heure), expression écrite (1 heure). Les modalités de l'épreuve sont identiques à celles de l'épreuve ponctuelle (1).
 
-(1) Arrêté du 3 novembre 2021 modifiant les arrêtés portant définition et fixant les conditions de délivrance de certaines spécialités du brevet de technicien supérieur.
+EPREUVE E3
 
-Sous-épreuve E2.2. - Production orale en continu et en interaction
+Langue vivante étrangère anglaise : Production orale en continu et en interaction
 
 Coefficient 2
 
@@ -442,39 +438,49 @@ L'étude de l'anglais contribue à la formation intellectuelle et à l'enrichiss
 
 L'évaluation est adossée au Cadre européen commun de référence pour les langues (CECRL). Le niveau attendu est B2. Le niveau B2 est défini de la façon suivante : &laquo; Une élève ou un élève peut comprendre le contenu essentiel de sujets concrets ou abstraits dans un texte complexe, y compris une discussion technique dans sa spécialité. Elle ou il peut communiquer avec un degré de spontanéité et d'aisance tel qu'une conversation avec un locuteur natif ne comporte de tension ni pour l'un ni pour l'autre. Elle ou il peut s'exprimer de façon claire et détaillée sur une grande gamme de sujets, émettre un avis sur un sujet d'actualité et exposer les avantages et les inconvénients de différentes possibilités &raquo;.
 
-Production orale en continu et en interaction :
+Production orale en continu et en interaction
 
 Elle est évaluée sous forme ponctuelle.
 
-2. Modalités d'évaluation - Forme ponctuelle (durée : 20 minutes et 20 minutes de préparation)
+2. Modalités d'évaluation - Forme ponctuelle (durée 20 minutes et 20 minutes de préparation)
 
-2.1. L'épreuve prend appui sur un ou deux documents écrits à caractère professionnel (prise de connaissance du ou des documents, restitution et analyse en présentation orale et dialogue avec l'examinateur).
+2.1. L'épreuve prend appui sur un ou deux documents écrits à caractère professionnel (prise de connaissance du ou des documents, restitution et analyse en présentation orale et dialogue avec l'examinateur)
 
-Nature des documents : les documents supports présentent des situations en lien avec le domaine de l'immobilier et de ses différents types d'activité, sans toutefois présenter une technicité excessive. Il pourra s'agir d'articles de presse, de commentaires écrits de situations professionnelles, ou de documents issus de sites internet spécialisés. Il ne s'agira en aucune façon de documents authentiques didactisés ou de documents issus de manuels. On évitera les documents qui présentent une trop grande complexité ou spécificité, ou encore tout autre ancrage dans une situation professionnelle particulière. En effet, le fait qu'ils soient rédigés dans une langue étrangère écrite assez technique ou dans un cadre culturel spécifique (pays étranger, législation différente) complique la tâche du candidat, et ce également en termes de maîtrise du lexique spécifique. Le ou les documents seront accompagnés d'une question de problématisation visant à orienter le candidat et rédigée en anglais ou en français.
+Nature des documents
 
-Longueur du ou des documents : la longueur du dossier (un ou deux documents) n'excèdera pas 25 lignes (environ 200 mots), le ou les documents pouvant comporter une partie iconographique (photo, illustration). Dans le cas d'un dossier comportant deux documents, on veillera à ce qu'ils soient, dans la toute mesure du possible, de nature différente : article de presse et document tiré d'un site internet en lien avec le domaine, par exemple.
+Les documents supports présentent des situations en lien avec le domaine de l'immobilier et de ses différents types d'activité, sans toutefois présenter une technicité excessive. Il pourra s'agir d'articles de presse, de commentaires écrits de situations professionnelles, ou de documents issus de sites internet spécialisés. Il ne s'agira en aucune façon de documents authentiques didactisés ou de documents issus de manuels. On évitera les documents qui présentent une trop grande complexité ou spécificité, ou encore tout autre ancrage dans une situation professionnelle particulière. En effet, le fait qu'ils soient rédigés dans une langue étrangère écrite assez technique ou dans un cadre culturel spécifique (pays étranger, législation différente) complique la tâche du candidat, et ce également en termes de maîtrise du lexique spécifique. Le ou les documents seront accompagnés d'une question de problématisation visant à orienter le candidat et rédigée en anglais ou en français.
+
+Longueur du ou des documents
+
+La longueur du dossier (un ou deux documents) n'excèdera pas 25 lignes (environ 200 mots), le ou les documents pouvant comporter une partie iconographique (photo, illustration). Dans le cas d'un dossier comportant deux documents, on veillera à ce qu'ils soient, dans la toute mesure du possible, de nature différente : article de presse et document tiré d'un site internet en lien avec le domaine, par exemple.
 
 2.2. Déroulement de l'épreuve
 
-Préparation (compréhension de l'écrit ; durée : 20 minutes) :
+Préparation (compréhension de l'écrit - durée 20 minutes)
 
 La candidate ou le candidat prend connaissance du ou des documents fournis, en tenant compte de la consigne fournie (question de problématisation rédigée en anglais ou en français).
 
-Restitution orale et entretien (restitution en prise de parole en continue puis prise de parole en interaction ; durée : 20 minutes) :
+Restitution orale et entretien (restitution en prise de parole en continue puis prise de parole en interaction - durée 20 minutes)
 
 Dans un premier temps, la candidate ou le candidat rend compte de façon autonome de ce qu'elle ou il a compris (5 à 10 minutes). Puis suit un entretien destiné à l'amener à reformuler ou préciser certains points, à s'assurer de la compréhension des éléments essentiels et/ou de certains détails, voire à faire part de ses réactions ou propositions, si la compréhension est satisfaisante. L'examinateur peut également en s'appuyant sur la consigne, proposer, au besoin, des pistes de relance et élargir le spectre des échanges.
 
 3. Modalités d'évaluation - Contrôle en cours de formation
 
+Modalités d'évaluation - Contrôle en cours de formation
+
 Il est constitué de deux situations d'évaluation de même poids se déroulant au cours de la deuxième année et correspondant aux activités langagières évaluées en épreuve ponctuelle : restitution orale et entretien. Les modalités de l'épreuve sont identiques à celles de l'épreuve ponctuelle.
 
-Epreuve E3. - Environnement juridique et économique des activités immobilières
+(1) Arrêté du 3 novembre 2021 modifiant les arrêtés portant définition et fixant les conditions de délivrance de certaines spécialités du brevet de technicien supérieur.
+
+EPREUVE E4
+
+Environnement juridique et économique des activités immobilières
 
 Coefficient 4
 
 1. Objectifs
 
-L'épreuve E3 &laquo; Environnement juridique et économique des activités immobilières &raquo; valide la capacité à mobiliser de manière rigoureuse et méthodique des savoirs juridiques et économiques fondamentaux inscrits dans le bloc &laquo; Environnement juridique et économique des activités immobilières &raquo;, qui sont nécessaires au collaborateur dans le traitement de dossiers immobiliers.
+L'épreuve E4 &laquo; Environnement juridique et économique des activités immobilières &raquo; valide la capacité à mobiliser de manière rigoureuse et méthodique des savoirs juridiques et économiques fondamentaux inscrits dans le bloc &laquo; Environnement juridique et économique des activités immobilières &raquo;, qui sont nécessaires au collaborateur dans le traitement de dossiers immobiliers.
 
 L'objectif de l'épreuve est de vérifier la capacité du candidat à :
 
@@ -510,7 +516,7 @@ Pour justifier de la maîtrise des compétences attendues, le candidat devra fai
 
 3.1. Contrôle en cours de formation
 
-Cette épreuve E3 prend appui sur plusieurs situations d'évaluation conduites en cours de formation lors de l'enseignement du bloc &laquo; Environnement juridique et économique des activités immobilières &raquo;, situations d'évaluation que le candidat aura pu référencer au long de sa formation.
+Cette épreuve E4 prend appui sur plusieurs situations d'évaluation conduites en cours de formation lors de l'enseignement du bloc &laquo; Environnement juridique et économique des activités immobilières &raquo;, situations d'évaluation que le candidat aura pu référencer au long de sa formation.
 
 Le candidat doit attester de sa maîtrise des différentes méthodologies propres au droit et à l'économie et ainsi être impérativement évalué sur les activités suivantes (au moins deux fois pour chacune d'elles) :
 
@@ -518,9 +524,9 @@ Le candidat doit attester de sa maîtrise des différentes méthodologies propre
 
 - la résolution de cas ou de situation auxquels peuvent être confrontés des acteurs du secteur de l'immobilier ;
 
-- La résolution de cas pratique nécessitant l'analyse d'une documentation juridique (décision de justice, acte juridique, texte de loi, réglementation, etc.).
+- La résolution de cas pratique nécessitant l'analyse d'une documentation juridique (décision de justice, acte juridique, texte de loi, réglementation, etc…).
 
-L'épreuve E3 repose sur un dossier numérique personnel rédigé et constitué par le candidat et rendant compte pour chacune des activités précitées des éléments suivants :
+L'épreuve E4 repose sur un dossier numérique personnel rédigé et constitué par le candidat et rendant compte pour chacune des activités précitées des éléments suivants :
 
 - la nature de l'activité réalisée ;
 
@@ -530,9 +536,13 @@ L'épreuve E3 repose sur un dossier numérique personnel rédigé et constitué 
 
 - la méthodologie et les moyens mis en œuvre.
 
-Chaque compte-rendu d'activité est accompagné des productions réalisées par le candidat et de l'évaluation qui a été faite par le ou les professeurs. Un tableau de synthèse (dont le format sera précisé dans la circulaire d'organisation) rendra compte de la totalité des activités réalisées par le candidat et sera inclus dans le dossier numérique.
+Chaque compte-rendu d'activité est accompagné des productions réalisées par le candidat et de l'évaluation qui a été faite par le ou les professeurs. Un tableau de synthèse (dont le format sera précisé dans la circulaire
 
-L'évaluation est chargée d'apprécier le degré de maîtrise des compétences relevant du bloc portant sur &laquo; l'environnement juridique et économique des activités immobilières &raquo;. A l'issue de l'évaluation, dont le degré d'exigence est équivalent aux attendus du diplôme, l'évaluateur complète une fiche de positionnement des compétences acquises par le candidat (un modèle de cette fiche est proposé dans la circulaire d'organisation de l'examen). L'évaluation est conduite par un enseignant d'économie-gestion, prioritairement en charge de l'enseignement de l'environnement juridique et économique des activités immobilières.
+d'organisation) rendra compte de la totalité des activités réalisées par le candidat et sera inclus dans le dossier numérique.
+
+L'évaluation est chargée d'apprécier le degré de maîtrise des compétences relevant du bloc portant sur
+
+&laquo; l'environnement juridique et économique des activités immobilières &raquo;. A l'issue de l'évaluation, dont le degré d'exigence est équivalent aux attendus du diplôme, l'évaluateur complète une fiche de positionnement des compétences acquises par le candidat (un modèle de cette fiche est proposé dans la circulaire d'organisation de l'examen). L'évaluation est conduite par un enseignant d'économie-gestion, prioritairement en charge de l'enseignement de l'environnement juridique et économique des activités immobilières.
 
 Le contrôle de conformité du dossier est effectué par l'évaluateur.
 
@@ -552,19 +562,21 @@ Avant le jury final, une procédure d'harmonisation est mise en place par les au
 
 3.2. Forme ponctuelle
 
-L'épreuve E3 se déroule sous la forme d'une épreuve ponctuelle écrite d'une durée de 3 heures.
+L'épreuve E4 se déroule sous la forme d'une épreuve ponctuelle écrite d'une durée de 3 heures.
 
 Elle prend appui sur un sujet qui invite le candidat à traiter plusieurs activités ou dossiers, mobilisant des méthodologies spécifiques, parmi les activités suivantes :
 
-- l'analyse d'une documentation économique relative au secteur de l'immobilier ;
+- l'analyse d'une documentation économique relative au secteur de l'immobilier,
 
-- la résolution de cas ou de situation auxquels peuvent être confrontés des acteurs du secteur de l'immobilier ;
+- la résolution de cas ou de situation auxquels peuvent être confrontés des acteurs du secteur de l'immobilier,
 
-- la résolution de cas pratique nécessitant l'analyse d'une documentation juridique (décision de justice, acte juridique, texte de loi, réglementation, etc.).
+- la résolution de cas pratique nécessitant l'analyse d'une documentation juridique (décision de justice, acte juridique, texte de loi, réglementation, etc…)
 
 La correction de chaque copie est assurée par un professeur d'économie-gestion, prioritairement en charge de l'enseignement de l'environnement juridique et économique des activités immobilières.
 
-Epreuve E4. - Conduite du projet immobilier du client en vente et/ou location
+EPREUVE E5
+
+Conduite du projet immobilier du client en vente et/ou location
 
 Coefficient 6
 
@@ -618,13 +630,17 @@ Pour justifier de la maitrise des compétences attendues, le candidat devra éga
 
 L'épreuve, d'une durée de 3 heures, se déroule sous forme ponctuelle écrite pour tous les candidats.
 
-Elle prend appui sur l'étude de situations professionnelles comportant un contexte détaillé, un corpus documentaire et une série de questions invitant le candidat à traiter plusieurs opérations emblématiques du bloc &laquo; Conduite du projet immobilier du client en vente et/ou location &raquo;.
+Elle prend appui sur l'étude de situations professionnelles comportant un contexte détaillé, un corpus documentaire et une série de questions invitant le candidat à traiter plusieurs opérations emblématiques du bloc
+
+&laquo; Conduite du projet immobilier du client en vente et/ou location &raquo;.
 
 Positionné en tant que collaborateur au sein d'une agence immobilière, le candidat devra traiter les différentes missions qui lui seront confiées en faisant preuve de rigueur et de cohérence dans les propositions réalisées.
 
 La correction de cette épreuve est assurée par des professeurs d'économie - gestion prioritairement en charge l'enseignement du bloc de compétences &laquo; Conduite du projet immobilier du client en vente et/ou en location &raquo;.
 
-Epreuve E5. - Administration des copropriétés et de l'habitat social
+EPREUVE E6
+
+Administration des copropriétés et de l'habitat social
 
 Coefficient 6
 
@@ -692,27 +708,17 @@ L'épreuve prend appui sur un dossier qui comprend :
 
 - une série de questions permettant de structurer et d'orienter le travail à réaliser par le candidat. Chaque question amène le candidat à répondre de manière structurée et argumentée aux problématiques soulevées.
 
-L'épreuve est corrigée par un professeur d'économie-gestion prioritairement en charge du bloc 2 en BTS &laquo; professions immobilières &raquo;.
+L'épreuve est corrigée par un professeur d'économie-gestion prioritairement en charge du bloc 2 en BTS Professions immobilières.
 
-Epreuve E6. - Construction d'une professionnalité immobilière dans le contexte de changement climatique
+EPREUVE E7
 
-Coefficient 6
-
-L'épreuve E6, construction d'une professionnalité immobilière dans le contexte de changement climatique est composée de deux sous-épreuves :
-
-- E6.1 - Conseil en gestion du bâti dans le contexte de changement climatique ;
-
-- E6.2 - Construction d'une professionnalité dans l'immobilier.
-
-Chacune de ces sous-épreuves donne lieu à une note sur 20 points. La note de l'épreuve E6 est obtenue par la moyenne des sous-épreuves E6.1 et E6.2.
-
-Sous-épreuve E6.1. - Conseil en gestion du bâti dans le contexte de changement climatique
+Conseil en gestion du bâti dans le contexte de changement climatique
 
 Coefficient 3
 
 1. Objectif
 
-L'objectif de l'épreuve E6.1 est de valider les compétences du candidat correspondant au bloc 3 &laquo; Conseil en gestion du bâti dans le contexte de changement climatique &raquo; :
+L'objectif de l'épreuve E7 est de valider les compétences du candidat correspondant au bloc 3 &laquo; Conseil en gestion du bâti dans le contexte de changement climatique &raquo; :
 
 - repérer les interactions entre les déséquilibres liés au réchauffement climatique et le secteur de l'immobilier ;
 
@@ -736,15 +742,15 @@ L'objectif de l'épreuve E6.1 est de valider les compétences du candidat corres
 
 2. Contenu
 
-L'épreuve E6.1 évalue les compétences et savoirs associés décrits dans le bloc de compétences 3 &laquo; Conseil en gestion du bâti dans le contexte de changement climatique &raquo;.
+L'épreuve E7 évalue les compétences et savoirs associés décrits dans le bloc de compétences 3 &laquo; Conseil en gestion du bâti dans le contexte de changement climatique &raquo;.
 
 3. Critères d'évaluation
 
 Les critères d'évaluation correspondent aux indicateurs d'évaluation des compétences exprimés pour chaque compétence du bloc 3 &laquo; Conseil en gestion du bâti dans le contexte de changement climatique &raquo;.
 
-A. - Contrôle en cours de formation
+A. Contrôle en cours de formation
 
-Première situation :
+- Première situation
 
 Période : de préférence au 1er trimestre de l'année 2.
 
@@ -758,19 +764,19 @@ Forme : note de deux pages basée sur des observations et expériences vécues e
 
 La note sera conclue par une réflexion prospective (sur le territoire ou l'organisation) en lien avec la thématique traitée.
 
-Deuxième et troisième situation :
+- Deuxième et troisième situation
 
 Période : à partir de décembre de l'année 2.
 
-Chacune des deux situations (situations 2 et 3) s'appuie sur un contexte immobilier diffusé par l'académie au mois de novembre de l'année 2 du BTS, soit novembre (n - 1) pour la session de l'année n.
+Chacune des deux situations (situations 2 et 3) s'appuie sur un contexte immobilier diffusé par l'académie au mois de novembre de l'année 2 du BTS, soit novembre (N - 1) pour la session de l'année n.
 
 Le contexte d'organisation est complété localement par des questions et/ou des problèmes à résoudre et/ou des missions à réaliser. Il sert de support d'évaluation pour évaluer les compétences du bloc 3.
 
 L'évaluation donne lieu à une note sur 20 points.
 
-B. - Forme ponctuelle
+B. Forme ponctuelle
 
-Epreuve écrite - Durée : 2 heures :
+Epreuve écrite, durée : 2 heures.
 
 L'épreuve prend appui sur le contexte d'organisation figurant dans la circulaire nationale d'organisation de l'examen et comporte une série de questions et/ou des problèmes à résoudre relatifs aux compétences du bloc 3.
 
@@ -782,13 +788,15 @@ L'évaluation donne lieu à une note sur 20 points.
 
 Remarque : le contexte est identique pour tous les candidats qu'ils soient évalués en CCF ou sous forme ponctuelle.
 
-Sous-épreuve E6.2. - Construction d'une professionnalité dans l'immobilier
+EPREUVE E8
+
+Construction d'une professionnalité dans l'immobilier
 
 Coefficient 3
 
 1. Finalité et objectifs
 
-L'épreuve E6.2 a pour finalité de valoriser l'expérience professionnelle du candidat et d'attester de son implication dans les activités professionnelles menées. Elle vise à évaluer chez le candidat l'acquisition des compétences décrites dans le bloc de compétences &laquo; Construction d'une professionnalité dans l'immobilier &raquo;.
+L'épreuve E8 a pour finalité de valoriser l'expérience professionnelle du candidat et d'attester de son implication dans les activités professionnelles menées. Elle vise à évaluer chez le candidat l'acquisition des compétences décrites dans le bloc de compétences &laquo; Construction d'une professionnalité dans l'immobilier &raquo;.
 
 Ainsi, le candidat doit être capable de :
 
@@ -802,7 +810,7 @@ Ainsi, le candidat doit être capable de :
 
 2. Contenu
 
-L'épreuve E6.2 permet d'évaluer les compétences ci-dessous associées au bloc de compétences &laquo; Construction d'une professionnalité dans l'immobilier &raquo; du référentiel de certification :
+L'épreuve E8 permet d'évaluer les compétences ci-dessous associées au bloc de compétences &laquo; Construction d'une professionnalité dans l'immobilier &raquo; du référentiel de certification :
 
 - identifier les acteurs ;
 
@@ -846,11 +854,11 @@ Les critères d'évaluation correspondent aux indicateurs d'évaluation des comp
 
 4.1. Constitution du dossier support de l'épreuve valable pour l'ensemble des modalités d'évaluation
 
-Contenu du dossier :
+Contenu du dossier
 
 Le dossier support de l'épreuve, présenté sous forme professionnelle et revêtant un caractère personnel et authentique, comprend 3 éléments :
 
-a) Les attestations de stage (et le cas échéant les attestations d'activités réalisées hors stage) ou les certificats de travail attestant de la réalité de la ou des activités professionnelles décrites dans les fiches ou dans le dossier professionnel ;
+a) Les attestations de stage (et le cas échéant les attestations d'activités réalisées hors stage) ou les certificats de travail attestant de la réalité de la ou des activités professionnelles décrites dans les fiches ou dans le dossier professionnel.
 
 b) 4 fiches descriptives d'activités professionnelles (une par axe de professionnalisation du bloc 4) :
 
@@ -858,17 +866,17 @@ b) 4 fiches descriptives d'activités professionnelles (une par axe de professio
 
 - le candidat utilise obligatoirement le modèle de fiche présenté dans la circulaire nationale d'organisation en renseignant impérativement chaque rubrique ;
 
-- un candidat qui se présente au titre de son expérience professionnelle peut choisir de remplacer ces fiches descriptives par un dossier professionnel qui présente en une dizaine de pages au maximum ses activités en lien avec le bloc 4 &laquo; Construction d'une professionnalité dans l'immobilier &raquo; ;
+- un candidat qui se présente au titre de son expérience professionnelle peut choisir de remplacer ces fiches descriptives par un dossier professionnel qui présente en une dizaine de pages au maximum ses activités en lien avec le bloc 4 &laquo; Construction d'une professionnalité dans l'immobilier &raquo;.
 
 c) Une étude réflexive permettant au candidat de réinvestir l'ensemble de ses expériences dans l'analyse d'un thème ou d'une problématique de son choix, de nature transversale au sein du bloc 4 &laquo; Construction d'une professionnalité dans l'immobilier &raquo;.
 
-Le candidat est conduit ainsi à développer une réflexion structurée, argumentée, illustrée par les activités qu'il a menées, et enrichie par la prise en compte des dimensions juridique, économique et managériale du développement de la relation client dans le secteur immobilier.
+- le candidat est conduit ainsi à développer une réflexion structurée, argumentée, illustrée par les activités qu'il a menées, et enrichie par la prise en compte des dimensions juridique, économique et managériale du développement de la relation client dans le secteur immobilier ;
 
-Cette étude réflexive se présente sous une forme rédigée de 4 à 6 pages.
+- cette étude réflexive se présente sous une forme rédigée de 4 à 6 pages.
 
 Le dossier support de l'épreuve est mis à la disposition du jury dans des conditions définies par la circulaire nationale d'organisation et les autorités académiques. Lors de l'interrogation, le candidat pourra apporter tous les documents complémentaires qu'il jugera pertinents pour illustrer sa présentation.
 
-Contrôle de conformité du dossier support de l'épreuve :
+Contrôle de conformité du dossier support de l'épreuve
 
 Le contrôle de conformité du dossier est effectué avant l'interrogation selon les modalités fixées par les autorités académiques. La constatation de non-conformité du dossier entraîne l'attribution de la mention NV (non valide) à l'épreuve correspondante. Le candidat, même présent à la date de l'épreuve, ne peut être interrogé. En conséquence, le diplôme ne peut lui être délivré.
 
@@ -918,13 +926,13 @@ Les situations d'évaluation se déroulent durant l'année terminale de la forma
 
 Remarque : la situation A peut se dérouler dès que le candidat est en mesure de présenter 4 fiches d'analyse d'activités professionnelles. En conséquence, seule la situation B nécessite la remise effective du dossier du candidat.
 
-Situation A. - Exposé et entretien relatifs à une expérience réelle vécue (10 minutes maximum) :
+Situation A - Exposé et entretien relatifs à une expérience réelle vécue (10 minutes maximum)
 
 Cette situation débute par la présentation en 5 minutes maximum par le candidat d'une expérience réelle vécue en entreprise, choisie par le jury (issue d'une fiche du dossier support). Cette présentation est suivie d'un entretien de 5 minutes maximum avec la commission. Au cours de cet entretien, la commission peut proposer des changements par rapport à l'activité initiale et attendre de la part du candidat une capacité d'adaptation et de nouvelles propositions.
 
 Cette situation d'évaluation sera évaluée par un professeur ou un formateur, en économie et gestion, si possible intervenant sur le bloc de compétences &laquo; construction d'une professionnalité dans l'immobilier &raquo;.
 
-Situation B. - Exposé et entretien relatifs aux autres expériences et à l'étude réflexive (20 minutes maximum) :
+Situation B - Exposé et entretien relatifs aux autres expériences et à l'étude réflexive (20 minutes maximum)
 
 Au cours de cette seconde situation, le candidat est invité par la commission :
 
@@ -932,7 +940,7 @@ Au cours de cette seconde situation, le candidat est invité par la commission :
 
 - la seconde partie de l'entretien est consacrée à l'étude réflexive que le candidat développe pendant 5 minutes avant de répondre aux questions de la commission. Cette seconde partie durera au minimum 10 minutes.
 
-Composition de la commission d'évaluation pour la situation B :
+Composition de la commission d'évaluation pour la situation B
 
 La commission d'évaluation comprend un professeur ou un formateur, en économie et gestion si possible en charge du bloc de compétences &laquo; Construction d'une professionnalité dans l'immobilier &raquo; et un professionnel. A défaut de professionnel, celui-ci est remplacé par un professeur d'économie et gestion, prioritairement chargé des enseignements professionnels en section de technicien supérieur Professions Immobilières.
 
@@ -942,21 +950,21 @@ L'évaluation donne lieu à une note sur vingt points.
 
 Avant le jury final, une procédure d'harmonisation est mise en place par les autorités académiques selon des modalités fixées par la circulaire nationale d'organisation.
 
-4.2.2. Forme ponctuelle - épreuve orale - durée : 30 minutes
+4.2.2. Forme ponctuelle - épreuve orale - durée 30 minutes
 
 Les candidats passent cette épreuve dans les centres d'examen désignés par les autorités académiques. Ils doivent se munir des ressources et des supports nécessaires au déroulement de l'épreuve, notamment ceux qui sont référencés dans le dossier support d'épreuve. Pour ses présentations, le candidat peut utiliser tout moyen à sa convenance. La circulaire nationale d'organisation précise les conditions matérielles de déroulement des interrogations.
 
 L'épreuve d'une durée de 30 minutes se déroule en deux phases successives :
 
-1. Exposé et entretien relatif à une expérience réelle vécue (durée : 10 minutes) :
+1. Exposé et entretien relatif à une expérience réelle vécue (durée : 10 minutes)
 
-Cette phase débute par la présentation en 5 minutes maximum par le candidat d'une expérience réelle vécue en entreprise, choisie par le jury (issue d'une fiche du dossier support). Cette présentation est suivie d'un entretien de 5 minutes maximum avec la commission. Au cours de cet entretien, la commission peut proposer des changements par rapport à l'activité initiale et attendre de la part du candidat une capacité d'adaptation et de nouvelles propositions.
+Cette phase débute par la présentation en 5 minutes maximum par le candidat d'une expérience réelle vécue en entreprise, choisie par le jury (issue d'une fiche du dossier support). Cette présentation est suivie d'un entretien de 5 minutes maximum avec la commission. Au cours de cet entretien, la commission peut proposer des changements par rapport à l'activité initiale et attendre de la part du candidat une capacité d'adaptation et de nouvelles propositions ;
 
-2. Exposé et entretien relatif aux autres expériences et à l'étude réflexive (durée : 20 minutes) :
+2. Exposé et entretien relatif aux autres expériences et à l'étude réflexive (durée : 20 minutes)
 
 Au cours de cette seconde phase, le candidat est invité par la commission à présenter en 5 minutes maximum d'autres expériences figurant dans le dossier support de l'épreuve (sous forme de fiches ou incluses dans le dossier professionnel) et à répondre aux approfondissements demandés par la commission. La fin de l'épreuve est consacrée à l'étude réflexive que le candidat développe pendant 5 minutes avant de répondre aux questions de la commission.
 
-Evaluation :
+Evaluation
 
 L'évaluation est réalisée à l'aide de la grille d'évaluation figurant en annexe de la circulaire nationale d'organisation. L'évaluation porte exclusivement sur la prestation du candidat, à l'exclusion de toute autre considération, notamment celle relative aux conditions de recevabilité de la candidature. En aucun cas le dossier support de l'épreuve n'est évalué.
 
@@ -964,17 +972,17 @@ Une harmonisation entre les différentes commissions d'interrogation est prévue
 
 L'évaluation donne lieu à une note sur vingt points.
 
-Composition de la commission d'interrogation :
+Composition de la commission d'interrogation
 
-La commission d'interrogation est composée de deux membres : un professeur d'économie et gestion enseignant en BTS &laquo; professions immobilières &raquo; ayant si possible en charge le bloc de compétences 4 et un professionnel. A défaut de professionnel, celui-ci est remplacé par un professeur d'économie et gestion, prioritairement chargé des enseignements professionnels en section de technicien supérieur Professions Immobilières.
+La commission d'interrogation est composée de deux membres : un professeur d'économie et gestion enseignant en BTS Professions immobilières ayant si possible en charge le bloc de compétences 4 et un professionnel. A défaut de professionnel, celui-ci est remplacé par un professeur d'économie et gestion, prioritairement chargé des enseignements professionnels en section de technicien supérieur Professions Immobilières.
 
-Epreuve facultative EF1. - Communication en langue vivante étrangère 2
+EPREUVE facultative EF1
 
-Coefficient 1
+Communication en Langue vivante étrangère 2
 
 La langue vivante étrangère choisie au titre de l'épreuve facultative est obligatoirement soit l'allemand, soit l'espagnol, soit l'italien soit le portugais.
 
-Durée : 20 minutes, préparation : 20 minutes.
+Durée 20 minutes, préparation 20 minutes.
 
 1. Objectifs
 
@@ -994,21 +1002,21 @@ L'épreuve prend appui sur un bref support fourni au candidat. Ce support s'insc
 
 Au fil des échanges, le candidat est invité à réagir, décrire, reformuler, développer une argumentation, justifier son propos ou encore apporter des explications.
 
-Epreuve facultative EF2. - Engagement étudiant
+EPREUVE facultative EF2
 
-Coefficient 1
+Engagement étudiant
 
-Epreuve orale : 20 minutes, sans préparation.
+Epreuve orale, 20 minutes sans préparation.
 
 1. Objectifs
 
 Cette épreuve facultative vise à identifier les compétences, connaissances et aptitudes acquises par le candidat
 
-dans l'exercice des activités mentionnées à l'article L.611-9 du code de l'éducation et qui relèvent de celles prévues par le référentiel d'évaluation de la spécialité du diplôme de brevet de technicien supérieur pour laquelle le candidat demande sa reconnaissance &laquo; engagement étudiant &raquo;.
+dans l'exercice des activités mentionnées à l'article L. 611-9 du code de l'éducation et qui relèvent de celles prévues par le référentiel d'évaluation de la spécialité du diplôme de brevet de technicien supérieur pour laquelle le candidat demande sa reconnaissance &laquo; engagement étudiant &raquo;.
 
 Cela peut concerner :
 
-- l'approfondissement des compétences évaluées à l'épreuve obligatoire E6.2 &laquo; Construction d'une professionnalité dans l'immobilier &raquo; ;
+- l'approfondissement des compétences évaluées à l'épreuve obligatoire E8 &laquo; Construction d'une professionnalité dans l'immobilier &raquo; ;
 
 - le développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du diplôme.
 
@@ -1044,11 +1052,11 @@ L'exposé doit intégrer :
 
 - le bilan des compétences acquises.
 
-La composition de la commission d'évaluation est la même que celle de l'épreuve E6.2 &laquo; Construction d'une professionnalité dans l'immobilier &raquo;.
+La composition de la commission d'évaluation est la même que celle de l'épreuve E8 &laquo; Construction d'une professionnalité dans l'immobilier &raquo;.
 
 3.2. Forme ponctuelle
 
-Il s'agit d'une situation d'évaluation orale d'une durée de 20 minutes qui prend la forme d'un exposé (10 minutes) puis d'un entretien avec la commission d'évaluation (10 minutes). Elle se situe dans la continuité de l'épreuve ponctuelle 6.2.
+Il s'agit d'une situation d'évaluation orale d'une durée de 20 minutes qui prend la forme d'un exposé (10 minutes) puis d'un entretien avec la commission d'évaluation (10 minutes). Elle se situe dans la continuité de l'épreuve ponctuelle 8.
 
 Cette épreuve prend appui sur une fiche d'engagement étudiant, servant de support d'évaluation au jury, présentant une ou plusieurs activité(s) conduite(s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (procédure, calendrier…) seront précisées dans la circulaire nationale d'organisation du BTS.
 
@@ -1064,4 +1072,8 @@ L'exposé doit intégrer :
 
 - le bilan des compétences acquises.
 
-La composition de la commission d'évaluation est la même que celle de l'épreuve ponctuelle E6.2 &laquo; Construction d'une professionnalité dans l'immobilier &raquo;.
+La composition de la commission d'évaluation est la même que celle de l'épreuve ponctuelle E8 &laquo; Construction d'une professionnalité dans l'immobilier &raquo;.
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 24 juin 2025 (NOR : MENS2514041A), ces dispositions s'appliquent à compter de la session d'examen 2026.
