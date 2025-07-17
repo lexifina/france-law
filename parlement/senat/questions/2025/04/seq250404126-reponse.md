@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250404126
+
+- Question : [SEQ250404126](seq250404126.md) — Loi Didier et ponts sous convention
+
+## Réponse
+
+*Transports, JO du 2025-07-17, page 4189*
+
+La loi Didier concerne à titre principal les ouvrages de rétablissement des voies de communication des collectivités territoriales rendus nécessaires par la réalisation d'une infrastructure de transport de l'Etat ou de ses opérateurs. Afin de faciliter la gestion de ces ouvrages et de prévenir leur détérioration, elle prévoit que ces ouvrages feront l'objet de conventions entre les propriétaires ou gestionnaires des voies portées et franchies. Elle prévoit également que les conventions conclues antérieurement à la promulgation de la Loi Didier continuent à s'appliquer. De ce fait, tout ouvrage de rétablissement disposant déjà d'une convention de gestion n'est pas à intégrer dans la liste des ouvrages de rétablissement prévue par la loi Didier. Par ailleurs c'est à la collectivité concernée, lorsqu'elle ne dispose pas de convention, de faire la demande de conventionnement. Ainsi, au regard des demandes des collectivités, l'arrêté du 22 juillet 2020, listant les ouvrages concernés par la loi Didier, continuera d'être régulièrement actualisé. Pour un ouvrage qui fait déjà l'objet d'une convention et qui serait en mauvais état, un appui complémentaire pourrait être apporté par le programme national ponts, mis en oeuvre par le Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (Cerema) et financé par le ministère chargé des transports. Il permet, sous conditions, aux collectivités d'être accompagnées financièrement pour la réalisation de travaux de réparation de leurs ouvrages les plus dégradés et notamment ceux présentant un enjeu majeur vis-à-vis de la sécurité des usagers et de la continuité des dessertes locales.
