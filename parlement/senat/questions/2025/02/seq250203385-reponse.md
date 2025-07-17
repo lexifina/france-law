@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203385
+
+- Question : [SEQ250203385](seq250203385.md) — Mise en place d'un guichet unique en préfecture pour faciliter les démarches des élus
+
+## Réponse
+
+*Intérieur , JO du 2025-07-17, page 4147*
+
+Le ministre d'État, ministre de l'Intérieur, est particulièrement attentif à la qualité et à la fluidité des échanges entre les élus et le préfet et ses services afin d'assurer une mise en oeuvre efficace et concertée de l'action publique. Ainsi, dans la gestion territoriale des dossiers particulièrement suivis par les élus locaux, notamment les maires, il apparaît indispensable que ces derniers puissent échanger avec les autorités préfectorales afin d'obtenir des réponses concrètes à leurs questions et ce, dans des délais raisonnables. L'interlocuteur direct et naturel des élus doit être, non pas un guichet unique, mais le préfet ou les autres autorités préfectorales. Les élus sont donc invités à adresser leurs demandes de façon écrite, sous format électronique ou papier. Ces demandes font l'objet d'un examen attentif de la part des services de l'État et il appartient au préfet et à son équipe de veiller à la qualité des réponses apportées, dans un délai adapté. S'agissant de demandes urgentes ou nécessitant un échange oral, les élus sont invités à contacter les autorités préfectorales par téléphone, notamment le sous-préfet d'arrondissement ou le directeur de cabinet du préfet. Leurs coordonnées téléphoniques peuvent leur être transmises par les secrétariats concernés, de même que celles des secrétaires généraux de sous-préfecture. Si tel n'est pas le cas, les élus sont fondés à solliciter un entretien auprès du préfet pour fixer les modalités pratiques des échanges entre élus et autorités préfectorales. Enfin, la simplification est un objectif phare de l'action du ministre d'Etat.
