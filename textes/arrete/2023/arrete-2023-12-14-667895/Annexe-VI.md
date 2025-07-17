@@ -8,7 +8,7 @@ créé par l'arrêté du 9 avril 2009 |
 
 BTS AÉRONAUTIQUE
 
-créé par le présent arrêté |
+créé par l'arrêté du 14 décembre 2023 modifié par le présent arrêté |
 
 Epreuves |
 
@@ -40,7 +40,7 @@ U31 |
 
 E3. Mathématiques |
 
-U31 |
+U3 |
 
 E3. Sciences physiques et chimiques appliquées (*) |
 
@@ -48,9 +48,9 @@ U32
 
 U33 |
 
-E3. Physique-chimie |
+E4. Physique-chimie |
 
-U32 |
+U4 |
 
 E4. Ingénierie d'assemblage et de maintenance (**) |
 
@@ -58,15 +58,7 @@ U41
 
 U42 |
 
-E4. Industrialisation de la production ou de la maintenance des aéronefs |
-
-U41 |
-
-E6. Suivi de production en milieu professionnel |
-
-U61 |
-
-E5. Organisation d'une activité de production ou de maintenance des aéronefs |
+E5. Industrialisation de la production ou de la maintenance des aéronefs |
 
 U5 |
 
@@ -74,36 +66,46 @@ E5. Contrôle et essais |
 
 U5 |
 
-E4. Contrôle, essai, mise ou remise en service |
+E7. Contrôle, essai, mise ou remise en service |
 
-U42 |
+U7 |
+
+E6. Suivi de production en milieu professionnel |
+
+U61 |
+
+E6. Organisation d'une activité de production ou de maintenance des aéronefs |
+
+U6 |
 
 E6. Maintien de navigabilité et documentation technique réalisés en entreprise |
 
 U62 |
 
-E6. Navigabilité des aéronefs |
+E8. Navigabilité des aéronefs |
 
-U6 |
+U8 |
 
-EF1 - Epreuve facultative de langue vivante |
-
-UF1 |
-
-EF1 - Langue vivante facultative |
+EF1-Epreuve facultative de langue vivante |
 
 UF1 |
 
-EF2 - Engagement étudiant |
+EF1-Langue vivante facultative |
+
+UF1 |
+
+EF2-Engagement étudiant |
 
 UF2 |
 
-EF2 - Engagement étudiant |
+EF2-Engagement étudiant |
 
 UF2 |
 
-(*) Pour faire valoir un bénéfice sur l'unité U32 du BTS Aéronautique créé par le présent arrêté, le candidat doit avoir obtenu une note supérieure ou égale à 10/20 sur l'unité U32 et sur l'unité U33 du BTS aéronautique créé par l'arrêté du 9 avril 2009.
+(*) Pour faire valoir un bénéfice sur l'unité U4 du BTS Aéronautique créé par l'arrêté du 14 décembre 2023 modifié par le présent arrêté, le candidat doit avoir obtenu une note supérieure ou égale à 10/20 sur l'unité U32 et sur l'unité U33 du BTS aéronautique créé par l'arrêté du 9 avril 2009.
 
-(**) Pour faire valoir un bénéfice sur l'unité U41 du BTS Aéronautique créé par le présent arrêté, le candidat doit avoir obtenu une note supérieure ou égale à 10/20 sur l'unité U41 et sur l'unité U42 du BTS aéronautique créé par l'arrêté du 9 avril 2009.
+(**) Pour faire valoir un bénéfice sur l'unité U5 du BTS Aéronautique créé par l'arrêté du 14 décembre 2023 et modifié par le présent arrêté, le candidat doit avoir obtenu une note supérieure ou égale à 10/20 sur l'unité U41 et sur l'unité U42 du BTS aéronautique créé par l'arrêté du 9 avril 2009.
 
-Ce tableau n'a de valeur qu'en termes d'équivalence d'épreuves entre l'ancien diplôme et le nouveau, pendant la phase transitoire où certains candidats peuvent garder le bénéfice de dispense de certaines épreuves. En aucun cas il ne signifie une correspondance point par point entre les contenus d'épreuves.
+NOTA :
+
+Conformément à l’article 6 de l’arrêté du 24 juin 2026, les dispositions du présent arrêté s'appliquent à compter de la session d'examen 2026.

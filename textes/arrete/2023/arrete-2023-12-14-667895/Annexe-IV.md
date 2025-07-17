@@ -2,57 +2,57 @@
 
 RÉFÉRENTIEL D'ÉVALUATION
 
-IV. 1. Unités constitutives du diplôme
+II. 1. Unités constitutives du diplôme
 
-IV. 1.1. Définition des unités d'enseignement général
+II. 1.1. Définition des unités d'enseignement général
 
 Unité U1-Culture générale et expression
 
-Le contenu de cette unité est défini par l'arrêté du 13 juillet 2023 (publié au JORF n° 0177 du 2 août 2023) relatif aux objectifs et contenus de l'enseignement de culture générale et expression, aux compétences travaillées et à la définition de l'épreuve de culture générale et expression du brevet de technicien supérieur.
+Le contenu de cette unité est défini par l'arrêté du 13 juillet 2023 (publié au JORF n° 177 du 2 août 2023) relatif aux objectifs et contenus de l'enseignement de culture générale et expression, aux compétences travaillées et à la définition de l'épreuve de culture générale et expression du brevet de technicien supérieur.
 
 Unité U2-Langue vivante étrangère 1 : Anglais
 
-Le contenu de cette unité est défini par l'arrêté du 22 juillet 2008 modifiant les arrêtés portant définition et fixant les conditions de délivrance de certaines spécialités de brevet de technicien supérieur
+Le contenu de cette unité est défini par l'arrêté du 22 juillet 2008 modifié modifiant les arrêtés portant définition et fixant les conditions de délivrance de certaines spécialités de brevet de technicien supérieur
 
-Unité U31-Mathématiques
+Unité U3-Mathématiques
 
 Le contenu de cette unité est défini par l'arrêté du 4 juin 2013 fixant les objectifs, les contenus de l'enseignement et le référentiel des capacités du domaine des mathématiques pour le brevet de technicien supérieur.
 
-Unité U32-Physique-chimie
+Unité U4-Physique-chimie
 
 Le contenu sur lequel repose l'unité correspond aux compétences du bloc n° 8-Physique-chimie.
 
 Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
 
-IV. 1.2. Définition des unités professionnelles
+II. 1.2. Définition des unités professionnelles
 
 La définition des unités professionnelles constitutives du diplôme a pour but de préciser, pour chacune d'elles, quelles compétences sont concernées et dans quel contexte. Il s'agit d'établir la liaison entre les unités correspondant aux épreuves et le référentiel d'activités professionnelles, afin de préciser le cadre de l'évaluation.
 
-Unité U41
+Unité U5
 
 Le contenu sur lequel repose l'unité correspond aux compétences du bloc n° 1-Industrialisation de la production ou de la maintenance des aéronefs.
 
 Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
 
-Unité U42
-
-Le contenu sur lequel repose l'unité correspond aux compétences du bloc n° 3-Contrôle, essai, mise ou remise en service.
-
-Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
-
-Unité U5
+Unité U6
 
 Le contenu sur lequel repose l'unité correspond aux compétences du bloc n° 2-Organisation d'une activité de production ou de maintenance des aéronefs.
 
 Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
 
-Unité U6
+Unité U7
+
+Le contenu sur lequel repose l'unité correspond aux compétences du bloc n° 3-Contrôle, essai, mise ou remise en service.
+
+Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
+
+Unité U8
 
 Le contenu sur lequel repose l'unité correspond aux compétences du bloc n° 4-Navigabilité des aéronefs.
 
 Cette unité certificative est attribuée selon le référentiel de compétences figurant en annexe III.
 
-IV. 1.3. Définition des unités facultatives
+II. 1.3. Définition des unités facultatives
 
 Unité facultative UF1 : langue vivante facultative
 
@@ -62,63 +62,87 @@ Unité facultative UF2 : engagement étudiant
 
 Le contenu de cette unité est défini en annexe IV. 4-Définition des épreuves.
 
-IV. 2. Dispenses d'unités
+II. 2. Dispenses d'unités
 
 U1-Culture générale et expression
 
-Les candidats à l'examen d'une spécialité de brevet de technicien supérieur, titulaires d'un brevet de technicien supérieur d'une autre spécialité, d'un diplôme universitaire de technologie ou d'un diplôme national de niveau 5 ou supérieur sont, à leur demande, dispensés de subir l'unité de " Culture générale et expression ".
+Les candidats à l'examen d'une spécialité de brevet de technicien supérieur, titulaires d'un brevet de technicien supérieur d'une autre spécialité, d'un diplôme universitaire de technologie ou d'un diplôme national de niveau 5 ou supérieur sont, à leur demande, dispensés de subir l'unité de &laquo; Culture générale et expression &raquo;.
 
-Les bénéficiaires de l'unité de " Français ", " Expression française " ou de " Culture générale et expression " au titre d'une autre spécialité de BTS sont, à leur demande, pendant la durée de validité du bénéfice, dispensés des épreuves correspondant à l'unité U1 " Culture générale et expression ".
+Les bénéficiaires de l'unité de &laquo; Français &raquo;, &laquo; Expression française &raquo; ou de &laquo; Culture générale et expression &raquo; au titre d'une autre spécialité de BTS sont, à leur demande, pendant la durée de validité du bénéfice, dispensés des épreuves correspondant à l'unité U1 &laquo; Culture générale et expression &raquo;.
 
 U2-Langue vivante étrangère 1 : Anglais
 
-L'unité U2 " Langue vivante étrangère 1 : Anglais " du brevet de technicien supérieur Aéronautique et l'unité de " Langue vivante étrangère 1 " des brevets de technicien supérieur relevant de l'arrêté du 22 juillet 2008 (BOESR n° 32 du 28 août 2008) sont communes.
+L'unité U2 &laquo; Langue vivante étrangère 1 : Anglais &raquo; du brevet de technicien supérieur Aéronautique et l'unité de &laquo; Langue vivante étrangère 1 &raquo; des brevets de technicien supérieur relevant de l'arrêté du 22 juillet 2008 (BOESR n° 32 du 28 août 2008) modifié sont communes.
 
-Les bénéficiaires de l'unité " Langue vivante étrangère 1 " au titre de l'une des spécialités susmentionnées sont, à leur demande, dispensés de l'unité U2 " Langue vivante étrangère 1 : Anglais " sous réserve que les candidats aient choisi l'anglais.
+Les bénéficiaires de l'unité &laquo; Langue vivante étrangère 1 &raquo; au titre de l'une des spécialités susmentionnées sont, à leur demande, dispensés de l'unité U2 &laquo; Langue vivante étrangère 1 : Anglais &raquo; sous réserve que les candidats aient choisi l'anglais.
 
-D'autre part, les titulaires d'un diplôme national de niveau 5 ou supérieur, ayant été évalués en Anglais pour obtenir ce diplôme, sont, à leur demande, dispensés de subir l'unité U2 : " Langue vivante étrangère 1 : Anglais " du brevet de technicien supérieur Aéronautique.
+D'autre part, les titulaires d'un diplôme national de niveau 5 ou supérieur, ayant été évalués en Anglais pour obtenir ce diplôme, sont, à leur demande, dispensés de subir l'unité U2 : &laquo; Langue vivante étrangère 1 : Anglais &raquo; du brevet de technicien supérieur Aéronautique.
 
-U31-Mathématiques
+U3-Mathématiques
 
-L'unité U3 " Mathématiques " du brevet de technicien supérieur Aéronautique peut être commune à l'unité de mathématiques d'autres spécialités du brevet de technicien supérieur.
+L'unité U3 &laquo; Mathématiques &raquo; du brevet de technicien supérieur Aéronautique peut être commune à l'unité de mathématiques d'autres spécialités du brevet de technicien supérieur.
 
 Les bénéficiaires de l'unité de mathématiques au titre de l'une des spécialités susmentionnées qui souhaitent faire acte de candidature à une autre de ces spécialités sont, à leur demande, pendant la durée de validité du bénéfice, dispensés de subir l'unité de mathématiques.
 
-D'autre part, les titulaires d'un diplôme national scientifique ou technologique de niveau 5 ou supérieur, ayant été évalués en mathématiques pour obtenir ce diplôme, sont, à leur demande, dispensés de subir l'unité U3 " Mathématiques " du brevet de technicien supérieur Aéronautique.
+D'autre part, les titulaires d'un diplôme national scientifique ou technologique de niveau 5 ou supérieur, ayant été évalués en mathématiques pour obtenir ce diplôme, sont, à leur demande, dispensés de subir l'unité U3 &laquo; Mathématiques &raquo; du brevet de technicien supérieur Aéronautique.
 
-IV. 3. Règlement d'examen
+II. 3. Règlement d'examen
 
 BTS
 
-AÉRONAUTIQUE |
-
-Candidats |
+AÉRONAUTIQUE
 
 ÉPREUVES |
 
+Candidats |
+
 Scolaires
 
-(Etablissements publics ou privés sous contrat)
+(Etablissements publics
+
+ou privés sous contrat)
 
 Apprentis
 
-(CFA ou sections d'apprentissage, habilités)
+(CFA ou sections
 
-Formation professionnelle continue
+d'apprentissage,
+
+habilités)
+
+Formation
+
+professionnelle continue
 
 (Etablissements publics habilités) |
 
-Formation professionnelle continue
+Formation
 
-(Etablissements publics habilités à pratiquer intégralement le CCF pour ce BTS) |
+professionnelle
+
+continue
+
+(Etablissements publics habilités
+
+à pratiquer
+
+intégralement
+
+le CCF pour ce BTS) |
 
 Scolaires
 
-(Etablissements privés hors contrat)
+(Etablissements privés
+
+hors contrat)
 
 Apprentis
 
-(CFA ou sections d'apprentissage, non habilités)
+(CFA ou sections
+
+d'apprentissage,
+
+non habilités)
 
 Formation professionnelle continue
 
@@ -133,6 +157,8 @@ Nature des épreuves |
 Unités |
 
 Coef. |
+
+Crédits européens |
 
 Forme |
 
@@ -152,11 +178,15 @@ U1 |
 
 3 |
 
+11 |
+
 Ponctuelle écrite |
 
 3 h |
 
-CCF 2 situations |
+CCF 2
+
+situations |
 
 Ponctuelle écrite |
 
@@ -170,59 +200,57 @@ U2 |
 
 4 |
 
+15 |
+
 CCF
 
 2 situations |
 
-CCF 2 situations |
+CCF 2
+
+situations |
 
 Ponctuelle orale |
 
 Compréhension :
 
-30 min
+30 minutes
 
 Expression :
 
-15 min |
+15 minutes |
 
 Epreuve générale
 
-E3-Mathématiques et physique-chimie |
+E3-Mathématiques |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Unité 31-Mathématiques |
-
-U31 |
+U3 |
 
 2 |
+
+7 |
 
 CCF
 
 2 situations |
 
-CCF 2 situations |
+CCF 2
+
+situations |
 
 Ponctuelle orale |
 
-1h de préparation + 35 min |
+1h de préparation + 35 minutes |
 
-Unité 32-Physique Chimie |
+Epreuve générale
 
-U32 |
+E4-Physique Chimie |
+
+U4 |
 
 3 |
+
+11 |
 
 CCF
 
@@ -238,25 +266,13 @@ Ponctuelle pratique |
 
 Epreuve professionnelle
 
-E4-Industrialisation et contrôle |
+E5-Industrialisation de la production ou de la maintenance des aéronefs |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Unité 41-Industrialisation de la production ou de la maintenance des aéronefs |
-
-U41 |
+U5 |
 
 5 |
+
+19 |
 
 CCF |
 
@@ -264,13 +280,39 @@ CCF |
 
 Ponctuelle orale |
 
-40 min |
+40 minutes |
 
-Unité 42-Contrôle, essai, mise ou remise en service |
+Epreuve professionnelle
 
-U42 |
+E6-Organisation d'une activité de production ou de maintenance des aéronefs |
+
+U6 |
 
 5 |
+
+19 |
+
+Ponctuelle orale |
+
+45
+
+minutes |
+
+CCF |
+
+Ponctuelle orale |
+
+45 minutes |
+
+Epreuve professionnelle
+
+E7-Contrôle, essai, mise ou remise en service |
+
+U7 |
+
+5 |
+
+19 |
 
 CCF |
 
@@ -282,29 +324,13 @@ Ponctuelle pratique |
 
 Epreuve professionnelle
 
-E5-Organisation d'une activité de production ou de maintenance des aéronefs |
+E8-Navigabilité des aéronefs |
 
-U5 |
-
-5 |
-
-Ponctuelle orale |
-
-45 min |
-
-CCF |
-
-Ponctuelle orale |
-
-45 min |
-
-Epreuve professionnelle
-
-E6-Navigabilité des aéronefs |
-
-U6 |
+U8 |
 
 5 |
+
+19 |
 
 Ponctuelle écrite |
 
@@ -322,73 +348,83 @@ Epreuve facultative
 
 EF1-Langue vivante facultative (1) |
 
-UF1 |
+UF1 (2) |
 
-1 (2) |
+|
 
-Ponctuelle orale |
-
-15 min (3) |
+|
 
 Ponctuelle orale |
 
-15 min (3) |
+15
+
+minutes
+
+(3) |
 
 Ponctuelle orale |
 
-15 min (3) |
+15
+
+minutes
+
+(3) |
+
+Ponctuelle orale |
+
+15 minutes
+
+(3) |
 
 Epreuve facultative
 
 EF2-Engagement étudiant |
 
-UF2 |
-
-1 (2) |
-
-Ponctuelle orale
+UF2 (2) |
 
 |
 
-20 min |
+|
+
+CCF |
 
 CCF |
 
 Ponctuelle orale |
 
-20 min |
+20 minutes |
 
 (1) La langue vivante choisie au titre de l'épreuve facultative ne peut pas être l'anglais, langue de l'épreuve obligatoire E2.
 
 (2) Seuls les points au-dessus de 10 sont pris en compte.
 
-(3) Précédées de 15 min de préparation
+(3) Précédées de 15 minutes de préparation
 
-IV. 4. Définition des épreuves
+II.4. Définition des épreuves
 
 ÉPREUVE E1
 
 Culture générale et expression
 
-Unité U1-Coefficient 3
+Unité U1 - Coefficient 3
 
-1.-Objectifs
+1. Objectifs
 
 L'objectif visé est de certifier l'acquisition de compétences de lecture et d'expression qui permettent au candidat de communiquer avec efficacité dans la vie courante et dans la vie professionnelle et d'adopter une posture critique, propice à la nuance et à la réflexion, face aux textes et aux discours.
 
 L'évaluation sert donc à vérifier les capacités du candidat à :
 
--comprendre, interpréter et apprécier des textes de nature variée ;
+- comprendre, interpréter et apprécier des textes de nature variée ;
 
--tisser des liens entre des connaissances acquises en cours de formation et un texte nouveau ;
+- tisser des liens entre des connaissances acquises en cours de formation et un texte nouveau ;
 
--rendre compte d'une culture acquise en cours de formation ;
+- rendre compte d'une culture acquise en cours de formation ;
 
--raisonner, argumenter, faire part d'une opinion nuancée ;
+- raisonner, argumenter, faire part d'une opinion nuancée ;
 
--formuler ses idées avec clarté et précision.
+- formuler ses idées avec clarté et précision.
 
-2.-Formes de l'évaluation
+2. Formes de l'évaluation
 
 Ponctuelle (écrite, durée : 3 heures)
 
@@ -402,15 +438,15 @@ Le candidat répond de manière nuancée et argumentée à des questions (entre 
 
 Deuxième partie : essai (partie notée sur 10 points)
 
-Deux sujets d'essai sont proposés aux candidats. Ces sujets sont en rapport avec le thème inscrit au programme de la deuxième année de STS. Les candidats choisissent l'un des deux et le traitent de manière argumentée et nuancée, en s'appuyant notamment sur leurs connaissances personnelles, sur le corpus proposé dans le sujet ainsi que sur les lectures effectuées et les contenus d'enseignement découverts en cours de " culture générale et expression ".
+Deux sujets d'essai sont proposés aux candidats. Ces sujets sont en rapport avec le thème inscrit au programme de la deuxième année de STS. Les candidats choisissent l'un des deux et le traitent de manière argumentée et nuancée, en s'appuyant notamment sur leurs connaissances personnelles, sur le corpus proposé dans le sujet ainsi que sur les lectures effectuées et les contenus d'enseignement découverts en cours de &laquo; culture générale et expression &raquo;.
 
 Contrôle en cours de formation
 
 L'unité de français est constituée de deux situations d'évaluation de poids identique qui sont en relation avec le thème inscrit au programme de la deuxième année de STS :
 
--en lien avec l'argumentation à l'écrit ;
+- en lien avec l'argumentation à l'écrit ;
 
--en lien avec la lecture et l'interprétation et avec la production orale en interaction.
+- en lien avec la lecture et l'interprétation et avec la production orale en interaction.
 
 Première situation d'évaluation (durée indicative : 2 heures)
 
@@ -432,7 +468,7 @@ Exemple de situation : des candidats découvrent un texte en même temps, choisi
 
 Langue vivante étrangère 1 : Anglais
 
-Unité U2-Coefficient 4
+Unité U2 - Coefficient 4
 
 1. Finalités et objectifs
 
@@ -446,7 +482,7 @@ b) Production et interaction orales.
 
 2.1. Contrôle en cours de formation : deux situations d'évaluation de poids équivalent
 
-2.1.1. Première situation d'évaluation : évaluation de la compréhension de l'oral-durée 30 minutes maximum sans temps de préparation, au cours du deuxième trimestre (ou avant la fin du premier semestre) de la deuxième année.
+2.1.1. Première situation d'évaluation : évaluation de la compréhension de l'oral - durée 30 minutes maximum sans temps de préparation, au cours du deuxième trimestre (ou avant la fin du premier semestre) de la deuxième année.
 
 Organisation de l'épreuve
 
@@ -464,7 +500,7 @@ Nature des supports
 
 Les documents enregistrés, audio ou vidéo, seront de nature à intéresser un étudiant en STS sans toutefois présenter une technicité excessive. On peut citer, à titre d'exemple, les documents relatifs à l'emploi (recherche, recrutement, relations professionnelles, etc.), à la sécurité et à la santé au travail, à la vie en entreprise ; à la formation professionnelle, à la prise en compte par l'industrie des questions relatives à l'environnement, au développement durable etc. Il pourra s'agir de monologues, dialogues, discours, discussions, émissions de radio, extraits de documentaires, de films, de journaux télévisés. Il ne s'agira en aucune façon d'écrit oralisé ni d'enregistrements issus de manuels. On évitera les articles de presse ou tout autre document conçu pour être lu. En effet, ces derniers, parce qu'ils sont rédigés dans une langue écrite, compliquent considérablement la tâche de l'auditeur. De plus, la compréhension d'un article enregistré ne correspond à aucune situation dans la vie professionnelle.
 
-2.1.2. Deuxième situation d'évaluation : évaluation de la production orale en continu et en interaction-durée 15 minutes maximum sans temps de préparation au cours du deuxième et du troisième trimestre (ou du second semestre) de la deuxième année.
+2.1.2. Deuxième situation d'évaluation : évaluation de la production orale en continu et en interaction - durée 15 minutes maximum sans temps de préparation au cours du deuxième et du troisième trimestre (ou du second semestre) de la deuxième année.
 
 Expression orale en continu (5 minutes environ)
 
@@ -492,23 +528,21 @@ Modalités : cf. Deuxième situation d'évaluation du CCF ci-dessus.
 
 ÉPREUVE E3
 
-Mathématiques et Physique-chimie
-
 Mathématiques
 
-Unité U31-Coefficient 2
+Unité U3 - Coefficient 2
 
 1. Finalités et objectifs
 
 L'épreuve de mathématiques a pour objectif d'évaluer :
 
--la solidité des connaissances et des compétences des étudiants et leur capacité à les mobiliser dans des situations variées ;
+- la solidité des connaissances et des compétences des étudiants et leur capacité à les mobiliser dans des situations variées ;
 
--leurs capacités d'investigation ou de prise d'initiative, s'appuyant notamment sur l'utilisation des outils numériques ;
+- leurs capacités d'investigation ou de prise d'initiative, s'appuyant notamment sur l'utilisation des outils numériques ;
 
--leur aptitude au raisonnement et leur capacité à analyser correctement un problème, à justifier les résultats obtenus et à apprécier leur portée ;
+- leur aptitude au raisonnement et leur capacité à analyser correctement un problème, à justifier les résultats obtenus et à apprécier leur portée ;
 
--leurs qualités d'expression écrite et/ ou orale.
+- leurs qualités d'expression écrite et/ou orale.
 
 2. Contenu de l'évaluation
 
@@ -526,77 +560,79 @@ Elle se déroule lorsque le candidat est considéré comme prêt à être évalu
 
 Chaque situation d'évaluation comporte un ou deux exercices avec des questions de difficulté progressive. Il s'agit d'évaluer les aptitudes à mobiliser les connaissances et compétences pour résoudre des problèmes, en particulier :
 
--s'informer ;
+- s'informer ;
 
--chercher ;
+- chercher ;
 
--modéliser ;
+- modéliser ;
 
--raisonner, argumenter ;
+- raisonner, argumenter ;
 
--calculer, illustrer, mettre en œuvre une stratégie ;
+- calculer, illustrer, mettre en œuvre une stratégie ;
 
--communiquer.
+- communiquer.
 
-L'un au moins des exercices de chaque situation comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels (implantés sur ordinateur ou calculatrice). La présentation de la résolution de la (les) question (s) utilisant les outils numériques se fait en présence de l'examinateur. Ce type de question permet d'évaluer les capacités à illustrer, calculer, expérimenter, simuler, programmer, émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
+L'un au moins des exercices de chaque situation comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels (implantés sur ordinateur ou calculatrice). La présentation de la résolution de la (les) question(s) utilisant les outils numériques se fait en présence de l'examinateur. Ce type de question permet d'évaluer les capacités à illustrer, calculer, expérimenter, simuler, programmer, émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
 
 A l'issue de chaque situation d'évaluation, l'équipe pédagogique de l'établissement de formation constitue, pour chaque candidat, un dossier comprenant :
 
--la situation d'évaluation ;
+- la situation d'évaluation ;
 
--les copies rédigées par le candidat à cette occasion ;
+- les copies rédigées par le candidat à cette occasion ;
 
--la grille d'évaluation de la situation, avec une proposition de note sur 10 points.
+- la grille d'évaluation de la situation, avec une proposition de note sur 10 points.
 
 Première situation d'évaluation
 
 Elle permet l'évaluation, par sondage, des contenus et des capacités associés aux modules du programme de mathématiques suivants :
 
--calcul et numération ;
+- calcul et numération ;
 
--fonction d'une variable réelle ;
+- fonction d'une variable réelle ;
 
--statistique descriptive ;
+- statistique descriptive ;
 
--probabilités 1 ;
+- probabilités 1 ;
 
--configurations géométriques ;
+- configurations géométriques ;
 
--calcul vectoriel.
+- calcul vectoriel.
 
 Deuxième situation d'évaluation
 
 Elle permet l'évaluation, par sondage, des contenus et des capacités associés aux modules du programme de mathématiques suivants :
 
--fonction d'une variable réelle ;
+- fonction d'une variable réelle ;
 
--calcul intégral ;
+- calcul intégral ;
 
--équations différentielles ;
+- équations différentielles ;
 
--probabilités 2 ;
+- probabilités 2 ;
 
--statistique inférentielle.
+- statistique inférentielle.
 
 A l'issue de la seconde situation d'évaluation, l'équipe pédagogique adresse au jury la proposition de note sur 20 points, élevée au bon coefficient et accompagnée des deux grilles d'évaluation. Les dossiers décrits ci-dessus, relatifs aux situations d'évaluation, sont tenus à la disposition du jury et des autorités académiques jusqu'à la session suivante. Le jury peut en exiger la communication et, à la suite d'un examen approfondi, peut formuler toutes remarques et observations qu'il juge utile pour arrêter la note.
 
 3.2. Epreuve ponctuelle
 
-Epreuve orale d'une durée de 1 h 35 minutes :
+Epreuve orale d'une durée de 1 heure et 35 minutes :
 
--préparation : 1 heure ;
+- préparation : 1 heure ;
 
--présentation du sujet au jury par le candidat : 15 minutes maximum ;
+- présentation du sujet au jury par le candidat : 15 minutes maximum ;
 
--entretien du candidat avec le jury : 20 minutes maximum.
+- entretien du candidat avec le jury : 20 minutes maximum.
 
-La commission d'évaluation est composée d'un professeur de mathématiques enseignant de préférence en section de techniciens supérieurs " Aéronautique ".
+La commission d'évaluation est composée d'un professeur de mathématiques enseignant de préférence en section de techniciens supérieurs &laquo; Aéronautique &raquo;.
 
 Les sujets proposés aux candidats doivent être élaborés en amont par les professeurs interrogateurs, sous le contrôle des IA-IPR de mathématiques. Leur résolution peut, sur une ou deux questions, nécessiter ou évoquer une utilisation de logiciels (implantés sur ordinateur ou calculatrice).
 
+ÉPREUVE E4
+
 Physique-chimie
 
-Unité U32-Coefficient 3
+Unité U4 - Coefficient 3
 
 1. Finalités et objectifs
 
@@ -608,71 +644,71 @@ Capacités (liste non exhaustive) |
 
 S'approprier |
 
--Comprendre la problématique du travail à réaliser.
+- Comprendre la problématique du travail à réaliser.
 
--Adopter une attitude critique vis-à-vis de l'information.
+- Adopter une attitude critique vis-à-vis de l'information.
 
--Rechercher, extraire et organiser l'information en lien avec la problématique.
+- Rechercher, extraire et organiser l'information en lien avec la problématique.
 
--Énoncer la ou les questions scientifiques permettant de répondre à la problématique.
+- Enoncer la ou les questions scientifiques permettant de répondre à la problématique.
 
--Connaître le vocabulaire, les symboles et les unités mises en œuvre. |
+- Connaître le vocabulaire, les symboles et les unités mises en œuvre. |
 
 Analyser |
 
--Formuler une hypothèse.
+- Formuler une hypothèse.
 
--Proposer une stratégie de résolution pour répondre à la problématique.
+- Proposer une stratégie de résolution pour répondre à la problématique.
 
--Choisir, concevoir ou justifier un protocole ou un dispositif expérimental. |
+- Choisir, concevoir ou justifier un protocole ou un dispositif expérimental. |
 
 Réaliser |
 
--Organiser le poste de travail.
+- Organiser le poste de travail.
 
--Mobiliser les outils mathématiques nécessaires.
+- Mobiliser les outils mathématiques nécessaires.
 
--Mettre en œuvre un protocole expérimental.
+- Mettre en œuvre un protocole expérimental.
 
--Effectuer des relevés expérimentaux.
+- Effectuer des relevés expérimentaux.
 
--Réaliser des mesures et des calculs et évaluer les incertitudes associées.
+- Réaliser des mesures et des calculs et évaluer les incertitudes associées.
 
--Manipuler avec assurance dans le respect des règles de sécurité. |
+- Manipuler avec assurance dans le respect des règles de sécurité. |
 
 Valider |
 
--Analyser de façon critique un résultat, un protocole ou une mesure.
+- Analyser de façon critique un résultat, un protocole ou une mesure.
 
--Exploiter et interpréter de manière critique des observations, des mesures.
+- Exploiter et interpréter de manière critique des observations, des mesures.
 
--Valider ou infirmer une information, une hypothèse, une propriété, une loi …
+- Valider ou infirmer une information, une hypothèse, une propriété, une loi…
 
--Critiquer la stratégie et proposer des améliorations. |
+- Critiquer la stratégie et proposer des améliorations. |
 
 Communiquer |
 
--Présenter la stratégie mise en œuvre.
+- Présenter la stratégie mise en œuvre.
 
--Présenter les mesures de manière adaptée (courbe, tableau, etc.).
+- Présenter les mesures de manière adaptée (courbe, tableau, etc.).
 
--Utiliser les notions et le vocabulaire scientifique et technologique adaptés.
+- Utiliser les notions et le vocabulaire scientifique et technologique adaptés.
 
--Utiliser les symboles et unités adéquats.
+- Utiliser les symboles et unités adéquats.
 
--Présenter, formuler une proposition, une argumentation, une synthèse ou une conclusion de manière cohérente, complète et compréhensible, à l'écrit et à l'oral. |
+- Présenter, formuler une proposition, une argumentation, une synthèse ou une conclusion de manière cohérente, complète et compréhensible, à l'écrit et à l'oral. |
 
-Être autonome, faire preuve d'initiative |
+Etre autonome, faire preuve d'initiative |
 
--Élaborer une démarche et faire des choix.
+- Elaborer une démarche et faire des choix.
 
--Organiser son travail.
+- Organiser son travail.
 
--Traiter les éventuels incidents rencontrés
+- Traiter les éventuels incidents rencontrés
 
--Demander une aide de manière pertinente.
+- Demander une aide de manière pertinente.
 
--Prendre des initiatives. |
+- Prendre des initiatives. |
 
 2. Formes de l'évaluation
 
@@ -694,13 +730,13 @@ Il n'est pas nécessaire d'organiser cette situation d'évaluation dans un labor
 
 Seconde situation d'évaluation : durée 1 h 50
 
-Cette situation d'évaluation est organisée en fin de deuxième semestre de la deuxième année de formation. Elle se déroule dans un laboratoire de physique-chimie. Pour cette situation, la compétence " Réaliser " est évaluée dans toutes ses dimensions, y compris dans la dimension expérimentale.
+Cette situation d'évaluation est organisée en fin de deuxième semestre de la deuxième année de formation. Elle se déroule dans un laboratoire de physique-chimie. Pour cette situation, la compétence &laquo; Réaliser &raquo; est évaluée dans toutes ses dimensions, y compris dans la dimension expérimentale.
 
 La situation d'évaluation s'appuie sur une ou deux thématiques en lien avec le contexte professionnel du BTS Aéronautique. Le sujet teste notamment la capacité du candidat à élaborer un protocole expérimental approprié à la résolution des questions posées. En cours d'épreuve, des échanges sont prévus avec l'examinateur.
 
 La notation tient compte à la fois des productions écrites du candidat, de la démarche suivie et de la qualité de ses échanges avec l'examinateur. Elle s'appuie sur une fiche d'évaluation adaptée à partir d'un modèle national.
 
-2.2. Épreuve ponctuelle pratique : 2 heures
+2.2. Epreuve ponctuelle pratique : 2 heures
 
 L'épreuve, d'une durée de 2 heures, se déroule dans un établissement désigné par le service des examens et concours. Les sujets proposés sont réalisés par les formateurs ou professeurs du centre de formation désigné.
 
@@ -716,25 +752,23 @@ La fiche d'évaluation du travail réalisé est adaptée d'un modèle national. 
 
 Le centre organisateur tient à disposition du jury et des autorités académiques, jusqu'à la session suivante, les situations d'évaluation proposées aux candidats, accompagnées des grilles d'évaluation.
 
-ÉPREUVE E4
-
-Industrialisation et contrôle
+ÉPREUVE E5
 
 Industrialisation de la production ou de la maintenance des aéronefs
 
-Unité U41-Coefficient 5
+Unité U5 - Coefficient 5
 
 Objectif de l'épreuve
 
 L'épreuve a pour objectif l'évaluation des compétences suivantes :
 
--C11-Analyser un dossier de conception, une demande de travaux ou une non-conformité/ un aléa ;
+- C11 - Analyser un dossier de conception, une demande de travaux ou une non-conformité/un aléa ;
 
--C12-Définir un processus d'assemblage ou de maintenance ;
+- C12 - Définir un processus d'assemblage ou de maintenance ;
 
--C13-Évaluer les performances d'un processus de fabrication ou de maintenance ;
+- C13 - Evaluer les performances d'un processus de fabrication ou de maintenance ;
 
--C14-Concevoir et organiser une action d'amélioration.
+- C14 - Concevoir et organiser une action d'amélioration.
 
 Les critères d'évaluation sont ceux définis dans le référentiel de compétences. L'évaluation des candidats sur ces critères s'appuie sur toutes les dimensions (savoirs, savoir-faire, savoir-être) de la compétence.
 
@@ -750,13 +784,13 @@ Modalités d'évaluation
 
 Contrôle en cours de formation
 
-L'évaluation s'appuie sur plusieurs activités permettant d'établir un suivi et un bilan des compétences visées par l'épreuve. Les activités sont menées en entreprise et/ ou en centre de formation.
+L'évaluation s'appuie sur plusieurs activités permettant d'établir un suivi et un bilan des compétences visées par l'épreuve. Les activités sont menées en entreprise et/ou en centre de formation.
 
 Le suivi de l'acquisition des compétences, les bilans intermédiaires et le bilan final sont établis :
 
--par l'équipe pédagogique du domaine professionnel, le tuteur ou maître d'apprentissage et le candidat dans le cas où l'activité est menée conjointement avec une entreprise ;
+- par l'équipe pédagogique du domaine professionnel, le tuteur ou maître d'apprentissage et le candidat dans le cas où l'activité est menée conjointement avec une entreprise ;
 
--par l'équipe pédagogique du domaine professionnel dans le cas où l'activité est menée en centre de formation.
+- par l'équipe pédagogique du domaine professionnel dans le cas où l'activité est menée en centre de formation.
 
 Le suivi d'acquisition des compétences requiert l'utilisation d'un livret de suivi individualisé exploité par l'équipe pédagogique assurant l'encadrement des candidats au cours de la formation. La fréquence des bilans intermédiaires est à l'initiative de l'équipe pédagogique.
 
@@ -764,9 +798,9 @@ Au cours du dernier trimestre de la formation, une commission d'évaluation est 
 
 A l'issue du positionnement, l'équipe pédagogique de l'établissement de formation constitue, pour chaque candidat, un dossier comprenant :
 
--le livret de suivi des compétences avec les bilans intermédiaires ;
+- le livret de suivi des compétences avec les bilans intermédiaires ;
 
--la grille nationale d'évaluation renseignée ayant conduit à la proposition de note.
+- la grille nationale d'évaluation renseignée ayant conduit à la proposition de note.
 
 Forme ponctuelle
 
@@ -780,97 +814,21 @@ La commission d'examen chargée de l'évaluation est constituée d'un professeur
 
 La commission d'examen évalue le travail réalisé par le candidat à partir de la grille nationale d'évaluation, fournie par l'inspection générale de l'éducation, du sport et de la recherche, et diffusée par les services rectoraux des examens et concours.
 
-Contrôle, essai, mise ou remise en service
-
-Unité U42-Coefficient 5
-
-Objectif de l'épreuve
-
-L'épreuve a pour objectif l'évaluation des compétences suivantes :
-
--C31-Conduire un contrôle, un essai ;
-
--C32-Diagnostiquer les causes d'une non-conformité, d'un aléa ;
-
--C33-Assurer la conformité et la traçabilité des contrôles et des essais.
-
-Les critères d'évaluation sont ceux définis dans le référentiel de compétences. L'évaluation des candidats sur ces critères s'appuie sur toutes les dimensions (savoirs, savoir-faire, savoir-être) de la compétence.
-
-Certaines compétences autres que celles relevant de l'épreuve peuvent être mobilisées dans la réalisation des activités support de l'épreuve. Ces compétences ne sont pas évaluées dans le cadre de cette épreuve.
-
-Contenu de l'épreuve
-
-Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle associé à l'unité certificative et sont décrites dans le référentiel des activités professionnelles.
-
-Les moyens et ressources associés aux activités professionnelles sont mises à disposition des candidats. Ils peuvent être constitués notamment de tout ou partie des éléments ci-dessous :
-
--un aéronef, une partie d'aéronef ou un système, présentant une ou des non-conformités ;
-
--la documentation technique correspondante et l'historique des incidents techniques relatifs au type d'aéronef étudié ou à ses sous-ensembles ;
-
--les procédures et processus liés à l'intervention ;
-
--l'ensemble des appareils de mesure, contrôle, test, et simulation nécessaire à l'intervention ;
-
--les équipements de servitude et de sécurité ;
-
--la règlementation ;
-
--les formulaires de procès-verbaux de contrôle et d'essais ;
-
--un document définissant le cadre de l'intervention ;
-
--un ordre de travail relatif à un essai ou un contrôle de validation ou de réception ;
-
--un compte rendu d'après vol.
-
-Modalités d'évaluation
-
-Contrôle en cours de formation
-
-L'évaluation s'appuie sur plusieurs activités permettant d'établir un suivi et un bilan des compétences visées par l'épreuve. Les activités sont menées en entreprise et/ ou en centre de formation.
-
-Le suivi de l'acquisition des compétences, les bilans intermédiaires et le bilan final sont établis :
-
--par l'équipe pédagogique du domaine professionnel, le tuteur ou maître d'apprentissage et le candidat dans le cas où l'activité est menée conjointement avec une entreprise ;
-
--par l'équipe pédagogique du domaine professionnel dans le cas où l'activité est menée en centre de formation.
-
-Le suivi d'acquisition des compétences requiert l'utilisation d'un livret de suivi individualisé exploité par l'équipe pédagogique assurant l'encadrement des candidats au cours de la formation. La fréquence des bilans intermédiaires est à l'initiative de l'équipe pédagogique.
-
-Au cours du dernier trimestre de la formation, une commission d'évaluation est réunie sous l'autorité du chef d'établissement. La commission d'évaluation arrête le positionnement de chaque candidat à son niveau de maîtrise des compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen.
-
-À l'issue du positionnement, l'équipe pédagogique de l'établissement de formation constitue, pour chaque candidat, un dossier comprenant :
-
--le livret de suivi des compétences avec les bilans intermédiaires ;
-
--la grille nationale d'évaluation renseignée ayant conduit à la proposition de note.
-
-Forme ponctuelle
-
-L'épreuve prend la forme d'une épreuve ponctuelle pratique d'une durée de 4 heures. L'organisation de l'épreuve est définie dans la circulaire nationale d'organisation d'examen.
-
-L'épreuve pratique se déroule dans un centre désigné par le service des examens et concours. Les sujets proposés sont réalisés par les formateurs ou professeurs du centre de formation désigné, prennent appuis sur l'environnement technique et matériel du centre désigné, et sont validés par l'autorité académique en charge du BTS Aéronautique.
-
-La commission d'examen chargée de l'évaluation des candidats est constituée d'un professeur chargé de l'enseignement de spécialité et d'un professionnel du secteur de la production ou de la maintenance des aéronefs. En cas d'absence du professionnel, le candidat peut tout de même être interrogé.
-
-La commission d'examen évalue le travail réalisé par le candidat à partir de la grille nationale d'évaluation, fournie par l'inspection générale de l'éducation, du sport et de la recherche, et diffusée par les services rectoraux des examens et concours.
-
-ÉPREUVE E5
+ÉPREUVE E6
 
 Organisation d'une activité de production ou de maintenance des aéronefs
 
-Unité U5-Coefficient 5
+Unité U6 - Coefficient 5
 
 Objectif de l'épreuve
 
 L'épreuve a pour objectif l'évaluation des compétences suivantes :
 
--C21-Organiser le planning des travaux ;
+- C21 - Organiser le planning des travaux ;
 
--C22-Assurer le lancement et le suivi des travaux ;
+- C22 - Assurer le lancement et le suivi des travaux ;
 
--C23-Communiquer en situation professionnelle (français/ anglais).
+- C23 - Communiquer en situation professionnelle (français/anglais).
 
 Les critères d'évaluation sont ceux définis dans le référentiel de compétences. L'évaluation des candidats sur ces critères s'appuie sur toutes les dimensions (savoirs, savoir-faire, savoir-être) de la compétence.
 
@@ -886,13 +844,13 @@ Modalités d'évaluation
 
 Contrôle en cours de formation
 
-L'évaluation s'appuie sur plusieurs activités permettant d'établir un suivi et un bilan des compétences visées par l'épreuve. Les activités sont menées en entreprise et/ ou en centre de formation.
+L'évaluation s'appuie sur plusieurs activités permettant d'établir un suivi et un bilan des compétences visées par l'épreuve. Les activités sont menées en entreprise et/ou en centre de formation.
 
 Le suivi de l'acquisition des compétences, les bilans intermédiaires et le bilan final sont établis :
 
--par l'équipe pédagogique du domaine professionnel, le tuteur ou maître d'apprentissage et le candidat dans le cas où l'activité est menée conjointement avec une entreprise ;
+- par l'équipe pédagogique du domaine professionnel, le tuteur ou maître d'apprentissage et le candidat dans le cas où l'activité est menée conjointement avec une entreprise ;
 
--par l'équipe pédagogique du domaine professionnel dans le cas où l'activité est menée en centre de formation.
+- par l'équipe pédagogique du domaine professionnel dans le cas où l'activité est menée en centre de formation.
 
 Le suivi d'acquisition des compétences requiert l'utilisation d'un livret de suivi individualisé exploité par l'équipe pédagogique assurant l'encadrement des candidats au cours de la formation. La fréquence des bilans intermédiaires est à l'initiative de l'équipe pédagogique.
 
@@ -900,9 +858,9 @@ Au cours du dernier trimestre de la formation, une commission d'évaluation est 
 
 A l'issue du positionnement, l'équipe pédagogique de l'établissement de formation constitue, pour chaque candidat, un dossier comprenant :
 
--le livret de suivi des compétences avec les bilans intermédiaires ;
+- le livret de suivi des compétences avec les bilans intermédiaires ;
 
--la grille nationale d'évaluation renseignée ayant conduit à la proposition de note.
+- la grille nationale d'évaluation renseignée ayant conduit à la proposition de note.
 
 Forme ponctuelle
 
@@ -912,17 +870,17 @@ L'épreuve s'appuie sur un projet de 70 heures encadré par l'équipe pédagogiq
 
 Le projet doit se référer à un support technologique industriel caractéristique de l'environnement propre au BTS Aéronautique. Il est défini par un dossier numérique qui doit comporter :
 
--la situation du projet dans son contexte ;
+- la situation du projet dans son contexte ;
 
--le cahier des charges comportant une formulation suffisante et précise des besoins du demandeur ;
+- le cahier des charges comportant une formulation suffisante et précise des besoins du demandeur ;
 
--les contraintes techniques et économiques ;
+- les contraintes techniques et économiques ;
 
--les ressources mises à disposition ;
+- les ressources mises à disposition ;
 
--les délais.
+- les délais.
 
-Le projet est mené en entreprise et/ ou en centre de formation. Il peut être conduit de façon individuelle ou en groupe, mais l'évaluation porte sur la maîtrise individuelle des compétences.
+Le projet est mené en entreprise et/ou en centre de formation. Il peut être conduit de façon individuelle ou en groupe, mais l'évaluation porte sur la maîtrise individuelle des compétences.
 
 Chaque candidat organise une activité de production ou de maintenance d'aéronef. Il planifie les travaux et participe au pilotage des opérations.
 
@@ -932,9 +890,9 @@ Pour chaque établissement préparant à l'examen, les professeurs de spécialit
 
 Dans le premier trimestre de la seconde année, les dossiers de projet sont proposés à la commission de validation mise en place par l'autorité rectorale pour :
 
--examiner et valider les propositions des équipes enseignantes pour les candidats en formation (scolaires, apprentis,...) ;
+- examiner et valider les propositions des équipes enseignantes pour les candidats en formation (scolaires, apprentis, …) ;
 
--estimer la difficulté du travail demandé en fonction de la répartition des tâches.
+- estimer la difficulté du travail demandé en fonction de la répartition des tâches.
 
 Les documents validés lors de cette commission sont communiqués aux candidats et définissent de façon contractuelle le travail à réaliser pour l'examen. Ces documents sont à joindre au dossier de l'étudiant afin qu'ils puissent être consultés par la commission d'interrogation qui est ainsi renseignée des limites et des conditions du travail qu'il avait à réaliser.
 
@@ -944,9 +902,9 @@ A l'issue du projet, le candidat remet au centre d'examen un dossier technique r
 
 La note est obtenue par combinaison de :
 
--une note proposée par l'équipe pédagogique prenant appui sur les compétences développées lors de la réalisation du projet ;
+- une note proposée par l'équipe pédagogique prenant appui sur les compétences développées lors de la réalisation du projet ;
 
--une note établie par la commission d'interrogation lors de la soutenance orale du projet.
+- une note établie par la commission d'interrogation lors de la soutenance orale du projet.
 
 La commission d'interrogation est constituée de deux professeurs chargés de l'enseignement de spécialité et d'un professionnel du secteur de la production ou de la maintenance des aéronefs. En cas d'absence du professionnel, le candidat peut tout de même être interrogé.
 
@@ -958,21 +916,99 @@ Au cours de l'épreuve orale, le candidat expose durant vingt minutes maximum la
 
 Pour les candidats individuels ou issus d'établissements privés hors contrat ou non habilités, l'épreuve a les mêmes objectifs d'évaluation des compétences C21, C22 et C23. Elle s'appuie sur un dossier numérique fourni au candidat huit semaines avant l'épreuve ; cette date est fixée par la circulaire d'organisation de l'examen. L'épreuve se déroule dans un centre d'examen désigné par l'autorité académique.
 
-ÉPREUVE E6
+ÉPREUVE E7
 
-Navigabilité des aéronefs
+Contrôle, essai, mise ou remise en service
 
-Unité U6-Coefficient 5
+Unité U7 - Coefficient 5
 
 Objectif de l'épreuve
 
 L'épreuve a pour objectif l'évaluation des compétences suivantes :
 
--C41-Exploiter des données ;
+- C31 - Conduire un contrôle, un essai ;
 
--C42-Rédiger de la documentation ;
+- C32 - Diagnostiquer les causes d'une non-conformité, d'un aléa ;
 
--C43-Garantir la conformité avec les exigences de navigabilité.
+- C33 - Assurer la conformité et la traçabilité des contrôles et des essais.
+
+Les critères d'évaluation sont ceux définis dans le référentiel de compétences. L'évaluation des candidats sur ces critères s'appuie sur toutes les dimensions (savoirs, savoir-faire, savoir-être) de la compétence.
+
+Certaines compétences autres que celles relevant de l'épreuve peuvent être mobilisées dans la réalisation des activités support de l'épreuve. Ces compétences ne sont pas évaluées dans le cadre de cette épreuve.
+
+Contenu de l'épreuve
+
+Les compétences sont évaluées dans un contexte professionnel conforme aux activités et tâches du pôle associé à l'unité certificative et sont décrites dans le référentiel des activités professionnelles.
+
+Les moyens et ressources associés aux activités professionnelles sont mises à disposition des candidats. Ils peuvent être constitués notamment de tout ou partie des éléments ci-dessous :
+
+- un aéronef, une partie d'aéronef ou un système, présentant une ou des non-conformités ;
+
+- la documentation technique correspondante et l'historique des incidents techniques relatifs au type d'aéronef étudié ou à ses sous-ensembles ;
+
+- les procédures et processus liés à l'intervention ;
+
+- l'ensemble des appareils de mesure, contrôle, test, et simulation nécessaire à l'intervention ;
+
+- les équipements de servitude et de sécurité ;
+
+- la règlementation ;
+
+- les formulaires de procès-verbaux de contrôle et d'essais ;
+
+- un document définissant le cadre de l'intervention ;
+
+- un ordre de travail relatif à un essai ou un contrôle de validation ou de réception ;
+
+- un compte rendu d'après vol.
+
+Modalités d'évaluation
+
+Contrôle en cours de formation
+
+L'évaluation s'appuie sur plusieurs activités permettant d'établir un suivi et un bilan des compétences visées par l'épreuve. Les activités sont menées en entreprise et/ou en centre de formation.
+
+Le suivi de l'acquisition des compétences, les bilans intermédiaires et le bilan final sont établis :
+
+- par l'équipe pédagogique du domaine professionnel, le tuteur ou maître d'apprentissage et le candidat dans le cas où l'activité est menée conjointement avec une entreprise ;
+
+- par l'équipe pédagogique du domaine professionnel dans le cas où l'activité est menée en centre de formation.
+
+Le suivi d'acquisition des compétences requiert l'utilisation d'un livret de suivi individualisé exploité par l'équipe pédagogique assurant l'encadrement des candidats au cours de la formation. La fréquence des bilans intermédiaires est à l'initiative de l'équipe pédagogique.
+
+Au cours du dernier trimestre de la formation, une commission d'évaluation est réunie sous l'autorité du chef d'établissement. La commission d'évaluation arrête le positionnement de chaque candidat à son niveau de maîtrise des compétences sur la grille nationale d'évaluation de l'épreuve publiée dans la circulaire nationale d'organisation de l'examen.
+
+A l'issue du positionnement, l'équipe pédagogique de l'établissement de formation constitue, pour chaque candidat, un dossier comprenant :
+
+- le livret de suivi des compétences avec les bilans intermédiaires ;
+
+- la grille nationale d'évaluation renseignée ayant conduit à la proposition de note.
+
+Forme ponctuelle
+
+L'épreuve prend la forme d'une épreuve ponctuelle pratique d'une durée de 4 heures. L'organisation de l'épreuve est définie dans la circulaire nationale d'organisation d'examen.
+
+L'épreuve pratique se déroule dans un centre désigné par le service des examens et concours. Les sujets proposés sont réalisés par les formateurs ou professeurs du centre de formation désigné, prennent appuis sur l'environnement technique et matériel du centre désigné, et sont validés par l'autorité académique en charge du BTS Aéronautique.
+
+La commission d'examen chargée de l'évaluation des candidats est constituée d'un professeur chargé de l'enseignement de spécialité et d'un professionnel du secteur de la production ou de la maintenance des aéronefs. En cas d'absence du professionnel, le candidat peut tout de même être interrogé.
+
+La commission d'examen évalue le travail réalisé par le candidat à partir de la grille nationale d'évaluation, fournie par l'inspection générale de l'éducation, du sport et de la recherche, et diffusée par les services rectoraux des examens et concours.
+
+ÉPREUVE E8
+
+Navigabilité des aéronefs
+
+Unité U8 - Coefficient 5
+
+Objectif de l'épreuve
+
+L'épreuve a pour objectif l'évaluation des compétences suivantes :
+
+- C41 - Exploiter des données ;
+
+- C42 - Rédiger de la documentation ;
+
+- C43 - Garantir la conformité avec les exigences de navigabilité.
 
 Les critères d'évaluation sont ceux définis dans le référentiel de compétences. L'évaluation des candidats sur ces critères s'appuie sur toutes les dimensions (savoirs, savoir-faire, savoir-être) de la compétence.
 
@@ -986,15 +1022,15 @@ Modalités d'évaluation
 
 Forme ponctuelle
 
-L'épreuve écrite d'une durée de quatre heures traite une problématique de navigabilité inscrite dans un contexte industriel réel. La documentation technique nécessaire au traitement de la problématique est constituée de documents, y compris en langue anglaise, issus de l'exploitation ou de la certification d'un aéronef ou de ses équipements. Le questionnement porte sur les aspects techniques et/ ou documentaires en lien avec la problématique.
+L'épreuve écrite d'une durée de quatre heures traite une problématique de navigabilité inscrite dans un contexte industriel réel. La documentation technique nécessaire au traitement de la problématique est constituée de documents, y compris en langue anglaise, issus de l'exploitation ou de la certification d'un aéronef ou de ses équipements. Le questionnement porte sur les aspects techniques et/ou documentaires en lien avec la problématique.
 
 L'organisation de l'épreuve est définie dans la circulaire nationale d'organisation d'examen.
 
-ÉPREUVE EF 1
+ÉPREUVE EF1
 
 Langue vivante facultative
 
-Coefficient 1-Seuls les points au-dessus de 10 sont pris en compte
+Seuls les points au-dessus de 10 sont pris en compte
 
 1. Finalités et objectifs
 
@@ -1010,25 +1046,25 @@ L'épreuve consiste en un oral d'une durée maximale de 15 minutes, précédé d
 
 L'épreuve s'appuie sur un ou plusieurs documents (texte, document iconographique, document audio ou vidéo) dans la langue vivante étrangère choisie, en relation avec le domaine professionnel.
 
-Dans un premier temps le candidat rend compte du ou des documents et réagit au (x) thèmes abordé (s). S'ensuit un échange avec l'examinateur, qui prend appui sur les propos du candidat en élargissant à des questions plus générales ou relevant du domaine professionnel. Au fil de cet échange, le candidat est invité à réagir, décrire, reformuler, justifier son propos ou encore apporter des explications.
+Dans un premier temps le candidat rend compte du ou des documents et réagit au(x) thèmes abordé(s). S'ensuit un échange avec l'examinateur, qui prend appui sur les propos du candidat en élargissant à des questions plus générales ou relevant du domaine professionnel. Au fil de cet échange, le candidat est invité à réagir, décrire, reformuler, justifier son propos ou encore apporter des explications.
 
 ÉPREUVE EF2
 
 Engagement étudiant
 
-Coefficient : 1
+Seuls les points au-dessus de 10 sont pris en compte
 
-Epreuve orale, 20 minutes sans préparation
+Epreuve orale, 20 minutes sans préparation.
 
 Objectifs
 
-Cette épreuve vise à identifier les compétences, connaissances et aptitudes acquises par le candidat dans l'exercice des activités mentionnées à l'article L. 611-9 du code de l'éducation et qui relèvent de celles prévues par le référentiel d'évaluation de la spécialité du diplôme de brevet de technicien supérieur pour laquelle le candidat demande sa reconnaissance " engagement étudiant ".
+Cette épreuve vise à identifier les compétences, connaissances et aptitudes acquises par le candidat dans l'exercice des activités mentionnées à l'article L. 611-9 du code de l'éducation et qui relèvent de celles prévues par le référentiel d'évaluation de la spécialité du diplôme de brevet de technicien supérieur pour laquelle le candidat demande sa reconnaissance &laquo; engagement étudiant &raquo;.
 
 Cela peut concerner :
 
--l'approfondissement des compétences évaluées à l'épreuve obligatoire E5 " Industrialisation de la production ou de la maintenance des aéronefs " ;
+- l'approfondissement des compétences évaluées à l'épreuve obligatoire E5 &laquo; Industrialisation de la production ou de la maintenance des aéronefs &raquo; ;
 
--le développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du diplôme et plus particulièrement s'agissant des compétences évaluées dans l'épreuve obligatoire E5 " Industrialisation de la production ou de la maintenance des aéronefs ".
+- le développement de compétences spécifiques à un domaine ou à une activité professionnelle particulière en lien avec le référentiel du diplôme et plus particulièrement s'agissant des compétences évaluées dans l'épreuve obligatoire E5 &laquo; Industrialisation de la production ou de la maintenance des aéronefs &raquo;.
 
 Cette épreuve est rattachée à l'unité U5 de l'épreuve E5.
 
@@ -1036,13 +1072,13 @@ Critères d'évaluation
 
 Les critères d'évaluation sont :
 
--l'appropriation des compétences liées au domaine professionnel ;
+- l'appropriation des compétences liées au domaine professionnel ;
 
--la capacité à mettre en œuvre les méthodes et outils ;
+- la capacité à mettre en œuvre les méthodes et outils ;
 
--la qualité de l'analyse ;
+- la qualité de l'analyse ;
 
--la qualité de la communication.
+- la qualité de la communication.
 
 Modalités d'évaluation
 
@@ -1050,19 +1086,19 @@ Contrôle en cours de formation
 
 Il s'agit d'une situation d'évaluation orale d'une durée de 20 minutes qui prend la forme d'un exposé (10 minutes) puis d'un entretien avec la commission d'évaluation (10 minutes).
 
-Cette épreuve prend appui sur une fiche d'engagement étudiant, servant de support d'évaluation au jury, présentant une ou plusieurs activité (s) conduite (s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (procédure, calendrier, …) seront précisées dans les circulaires nationales d'organisation des spécialités de BTS.
+Cette épreuve prend appui sur une fiche d'engagement étudiant, servant de support d'évaluation au jury, présentant une ou plusieurs activité(s) conduite(s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (procédure, calendrier, …) seront précisées dans les circulaires nationales d'organisation des spécialités de BTS.
 
 L'exposé doit intégrer :
 
--la présentation du contexte ;
+- la présentation du contexte ;
 
--la description et l'analyse de la ou des activité (s) ;
+- la description et l'analyse de la ou des activité(s) ;
 
--la présentation des démarches et des outils ;
+- la présentation des démarches et des outils ;
 
--le bilan d'activité (s) ;
+- le bilan d'activité(s) ;
 
--le bilan des compétences acquises.
+- le bilan des compétences acquises.
 
 La composition de la commission d'évaluation est la même que celle de l'épreuve E5.
 
@@ -1070,18 +1106,22 @@ Forme ponctuelle
 
 Il s'agit d'une situation d'évaluation orale d'une durée de 20 minutes qui prend la forme d'un exposé (10 minutes) puis d'un entretien avec la commission d'évaluation (10 minutes).
 
-Cette épreuve prend appui sur une fiche d'engagement étudiant servant de support d'évaluation au jury, présentant une ou plusieurs activité (s) conduite (s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (renseignement de la fiche, grille d'évaluation du jury, …) seront précisées dans les circulaires nationales d'organisation.
+Cette épreuve prend appui sur une fiche d'engagement étudiant servant de support d'évaluation au jury, présentant une ou plusieurs activité(s) conduite(s) par le candidat. En l'absence de cette fiche, l'épreuve ne peut pas se dérouler. Les modalités de mise en œuvre (renseignement de la fiche, grille d'évaluation du jury, …) seront précisées dans les circulaires nationales d'organisation.
 
 L'exposé doit intégrer :
 
--la présentation du contexte ;
+- la présentation du contexte ;
 
--la description et l'analyse de (s) activité (s) ;
+- la description et l'analyse de(s) activité(s) ;
 
--la présentation des démarches et des outils ;
+- la présentation des démarches et des outils ;
 
--le bilan de (s) activité (s) ;
+- le bilan de(s) activité(s) ;
 
--le bilan des compétences acquises.
+- le bilan des compétences acquises.
 
 La composition de la commission d'évaluation est la même que celle de l'épreuve E5.
+
+NOTA :
+
+Conformément à l’article 6 de l’arrêté du 24 juin 2026, les dispositions du présent arrêté s'appliquent à compter de la session d'examen 2026.

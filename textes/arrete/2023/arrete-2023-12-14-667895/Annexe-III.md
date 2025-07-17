@@ -406,64 +406,42 @@ X |
 
 Unités certificatives :
 
-U41 |
-
-X |
-
-X |
-
-X |
-
-X |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-U42 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X |
-
-X |
-
-X |
-
-|
-
-|
-
-|
-
 U5 |
 
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+U7 |
+
+|
+
+|
+
+|
+
 |
 
 |
@@ -477,12 +455,6 @@ X |
 X |
 
 X |
-
-|
-
-|
-
-|
 
 |
 
@@ -491,6 +463,34 @@ X |
 |
 
 U6 |
+
+|
+
+|
+
+|
+
+|
+
+X |
+
+X |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+U8 |
 
 |
 
@@ -2865,3 +2865,7 @@ Capteurs utilisés en avionique.
 Utilisations d'instruments de mesure et d'acquisition de données.
 
 Essais dans des opérations de maintenance, de contrôle de conformité.
+
+NOTA :
+
+Conformément à l’article 6 de l’arrêté du 24 juin 2026, les dispositions du présent arrêté s'appliquent à compter de la session d'examen 2026.
