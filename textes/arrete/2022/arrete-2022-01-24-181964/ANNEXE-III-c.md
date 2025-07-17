@@ -2,51 +2,45 @@
 
 RÈGLEMENT D'EXAMEN
 
+Brevet de technicien supérieur &laquo; maintenance des systèmes &raquo;
+
 BTS
 
-Maintenance des Systèmes |
-
-Candidats |
+Maintenance des Systèmes
 
 ÉPREUVES |
 
+Candidats |
+
 Scolaires
 
-(Établissements publics ou privés sous contrat)
+(Etablissements publics ou privés sous contrat)
 
 Apprentis
 
-(CFA ou sections
-
-d'apprentissage, habilités)
+(CFA ou sections d'apprentissage, habilités)
 
 Formation professionnelle continue
 
 (Etablissements publics habilités) |
 
-Formation
+Formation professionnelle continue
 
-professionnelle continue
-
-(Établissements publics habilités à pratiquer le CCF pour ce BTS) |
+(Etablissements publics habilités à pratiquer le CCF pour ce BTS) |
 
 Scolaires
 
-(Établissements privés hors contrat)
+(Etablissements privés hors contrat)
 
 Apprentis
 
 (CFA ou sections d'apprentissage, non habilités)
 
-Formation professionnelle
+Formation professionnelle continue
 
-continue
+(Etablissement privé)
 
-(Établissement privé)
-
-Au titre de leur expérience
-
-professionnelle
+Au titre de leur expérience professionnelle
 
 Enseignement à distance |
 
@@ -56,43 +50,47 @@ Unité |
 
 Coef. |
 
-Forme |
-
-Durée |
-
-Forme |
+Crédits européens |
 
 Forme |
 
 Durée |
 
-E1-Culture générale et expression |
+Forme |
+
+Forme |
+
+Durée |
+
+Epreuve générale E1 : Culture générale et expression |
 
 U1 |
 
 3 |
 
-Ponctuelle écrite |
-
-4 h |
-
-CCF 3 situations |
+14 |
 
 Ponctuelle écrite |
 
-4 h |
+3 h |
 
-E2-Langue vivante étrangère 1 : Anglais (1) |
+CCF 2 situations |
+
+Ponctuelle écrite |
+
+3 h |
+
+Epreuve générale E2 : Langue vivante étrangère 1 : Anglais (1) |
 
 U2 |
 
 2 |
 
+8 |
+
 CCF
 
 2 situations |
-
-|
 
 CCF 2 situations |
 
@@ -106,37 +104,23 @@ Expression :
 
 15 min
 
-sans préparation |
+sans
 
-E3-Mathématiques-Physique et chimie |
+préparation |
 
-|
-
-4 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Sous-épreuve E31 :
+Epreuve générale E3 :
 
 Mathématiques |
 
-U31 |
+U3 |
 
 2 |
+
+8 |
 
 CCF
 
 2 situations |
-
-|
 
 CCF 2 situations |
 
@@ -144,19 +128,19 @@ Ponctuelle écrite |
 
 2 h |
 
-Sous-épreuve E32 :
+Epreuve générale E4 :
 
 Physique et chimie |
 
-U32 |
+U4 |
 
 2 |
+
+8 |
 
 CCF
 
 2 situations |
-
-|
 
 CCF 2 situations |
 
@@ -164,49 +148,17 @@ Ponctuelle pratique |
 
 2 h |
 
-E4-Intégration d'un bien |
-
-U4 |
-
-5 |
-
-Ponctuelle écrite |
-
-4 h |
-
-CCF |
-
-Ponctuelle écrite |
-
-4 h |
-
-E5-Activités de maintenance et organisation |
-
-|
-
-9 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Sous-épreuve E51 :
+Epreuve professionnelle E5 :
 
 Maintenance corrective |
 
-U51 |
+U5 |
 
 3 |
 
-CCF |
+14 |
 
-|
+CCF |
 
 CCF |
 
@@ -216,17 +168,17 @@ pratique |
 
 6 h |
 
-Sous-épreuve E52 :
+Epreuve professionnelle E6 :
 
 Maintenance préventive |
 
-U52 |
+U6 |
 
 3 |
 
-CCF |
+14 |
 
-|
+CCF |
 
 CCF |
 
@@ -236,17 +188,55 @@ pratique |
 
 3 h |
 
-Sous-épreuve E53 :
+Epreuve professionnelle E7 : Maintenance améliorative |
 
-Organisation de la maintenance |
+U7 |
 
-U53 |
+4 |
 
-3 |
+18 |
+
+Ponctuelle orale |
+
+30 mn |
+
+Ponctuelle orale |
+
+30 mn |
+
+Ponctuelle orale |
+
+30 mn |
+
+Epreuve professionnelle E8 : Intégration d'un bien |
+
+U8 |
+
+5 |
+
+22 |
+
+Ponctuelle écrite |
+
+4 h |
 
 CCF |
 
-|
+Ponctuelle écrite |
+
+4 h |
+
+Epreuve professionnelle E9 :
+
+Organisation de la maintenance |
+
+U9 |
+
+3 |
+
+14 |
+
+CCF |
 
 CCF |
 
@@ -256,27 +246,11 @@ pratique |
 
 2 h |
 
-E6-Maintenance améliorative |
-
-U6 |
-
-4 |
-
-Ponctuelle orale |
-
-30 mn |
-
-Ponctuelle orale |
-
-30 mn |
-
-Ponctuelle orale |
-
-30 mn |
-
-EF1-Langue vivante facultative (2) |
+EF1 - Langue vivante facultative (2) (3) |
 
 UF1 |
+
+|
 
 |
 
@@ -296,52 +270,56 @@ Ponctuelle orale |
 
 (1) |
 
-EF2-Engagement étudiant |
+EF2 - Engagement étudiant (3) |
 
 UF2 |
 
 |
 
-CCF |
-
 |
-
-CCF |
 
 Ponctuelle orale |
 
-20 min
+20 min |
 
-(1) |
+Ponctuelle orale |
 
-(1) + 20 min de préparation.
+20 min |
 
-(2) La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de l'anglais. Seuls, les points au-dessus de la moyenne, sont pris en compte.
+Ponctuelle orale |
 
-Nota.-Au moment de leur inscription à l'examen du BTS " Maintenance des systèmes ", les candidats doivent fournir les attestations suivantes, selon les options de la spécialité :
+20 min |
 
--pour l'option A Systèmes de production :
+(1) + 20min de préparation.
 
--attestation de formation à la prévention des risques d'origine électrique ;
+(2) La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de l'anglais.
 
--attestation de formation à la protection et le secours aux personnes en cas d'urgence ;
+(3) Seuls les points au-dessus de la moyenne sont pris en compte.
 
--pour l'option B Systèmes énergétiques et fluidiques :
+Nota. - Au moment de leur inscription à l'examen du BTS &laquo; Maintenance des systèmes &raquo;, les candidats doivent fournir les attestations suivantes, selon les options de la spécialité :
 
--attestation de formation à la prévention des risques d'origine électrique ;
+- pour l'option A Systèmes de production :
 
--attestation de formation à la manipulation des fluides frigorigènes ;
+* attestation de formation à la prévention des risques d'origine électrique ;
 
--attestation de formation à la protection et le secours aux personnes en cas d'urgence ;
+* attestation de formation à la protection et le secours aux personnes en cas d'urgence ;
 
--pour les options C Systèmes éoliens et D Systèmes ascenseurs et élévateurs :
+- pour l'option B Systèmes énergétiques et fluidiques :
 
--attestation de formation aux travaux en hauteur ;
+* attestation de formation à la prévention des risques d'origine électrique ;
 
--attestation de formation à la prévention des risques d'origine électrique ;
+* attestation de formation à la manipulation des fluides frigorigènes ;
 
--attestation de formation à la protection et le secours aux personnes en cas d'urgence.
+* attestation de formation à la protection et le secours aux personnes en cas d'urgence ;
+
+- pour les options C Systèmes éoliens et D Systèmes ascenseurs et élévateurs :
+
+* attestation de formation aux travaux en hauteur ;
+
+* attestation de formation à la prévention des risques d'origine électrique ;
+
+* attestation de formation à la protection et le secours aux personnes en cas d'urgence.
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 19 mars 2024 (NOR : ESRS2332647A), ces dispositions s'appliquent à compter de la session d'examen 2024.
+Conformément à l'article 6 de l'arrêté du 24 juin 2025 (NOR : MENS2514038A), ces dispositions s'appliquent à compter de la session d'examen 2026.
