@@ -286,6 +286,8 @@ Ce stage est accompli au cours d'un des deux premiers semestres de la phase d'ap
 
 Lors de ce stage, des demi-journées en consultation en santé mentale maternelle, en consultation maïeutique, en consultation en service de protection maternelle et infantile, et dans des lieux de stages extra-hospitaliers agréés seront intégrées aux obligations de service si ces consultations sont accessibles.
 
+En cas de capacités de formation insuffisantes, le directeur général de l'agence régionale de santé, peut, conjointement avec le directeur de l'unité de formation et de recherche de médecine et après avis du coordonnateur local du diplôme d'études spécialisées de médecine générale, remplacer, pour tout ou partie des étudiants, à l'exception des internes des hôpitaux des armées, ce stage couplé par un stage en pédiatrie auprès d'au minimum deux praticiens agréés maîtres de stages des universités et/ou dans un lieu hospitalier agréé à titre principal en pédiatrie et à titre complémentaire en médecine générale.
+
 c) 1 stage ambulatoire en soins primaires en autonomie supervisée (SASPAS ou niveau 2), accompli auprès de minimum deux praticiens maîtres de stage des universités agréés à titre principal en médecine générale. Ce stage est accompli au cours d'un des deux derniers semestres de la phase d'approfondissement.
 
 d) 1 stage libre accompli de préférence dans un lieu agréé en gériatrie, pédiatrie, psychiatrie, psychiatrie de l'enfant et de l'adolescent, gynécologie médicale ou gynécologie obstétrique :
@@ -297,6 +299,8 @@ d) 1 stage libre accompli de préférence dans un lieu agréé en gériatrie, p�
 - soit dans un à plusieurs lieu(x) hospitalier(s) agréé(s) à titre principal en médecine générale.
 
 Lors de ce stage, des demi-journées en consultation d'addictologie, en Centre médico-psychologique (CMP) et dans des lieux de stage extra-hospitaliers agréés seront incluses si elles sont disponibles au cours du stage. Les services agréés pour ce stage libre devront être adaptés à l'exercice ultérieur de la médecine générale notamment concernant la santé de l'enfant et de l'adolescent, la santé de la femme, la santé mentale et la santé du sujet âgé. Selon le projet professionnel de l'interne un stage en dehors de ces thématiques prioritaires sera possible.
+
+Pour les étudiants n'ayant pas pu réaliser le stage couplé mentionné au b, ce stage libre est de préférence couplé pour moitié avec un stage dans un lieu de stage agréé à titre principal en gynécologie médicale ou gynécologie-obstétrique et à titre complémentaire en médecine générale.
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
@@ -514,4 +518,4 @@ Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisatio
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 3 août 2023 (NOR : SPRH2317786A), la maquette modifiée du diplôme d'études spécialisées de médecine générale est applicable à l'ensemble des étudiants débutant la première année de la phase socle de ce diplôme d'études spécialisées à compter de la rentrée universitaire 2023.
+Conformément à l’article 2 de l’arrêté du 10 juillet 2025 (NOR : TSSH2431886A), ces dispositions s'appliquent aux étudiants débutant la première année de la phase d'approfondissement du diplôme d'études spécialisées de médecine générale au cours des années universitaires 2025-2026 et 2026-2027
