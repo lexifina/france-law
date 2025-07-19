@@ -116,6 +116,26 @@ Ponctuelle |
 
 INSEE |
 
+Enquête &laquo; Voyages professionnels et personnels &raquo; (VPP) |
+
+Mensuelle |
+
+INSEE |
+
+Enquête mensuelle de conjoncture auprès des ménages (CAMME) pour les plateformes :
+
+- Compléments sur la conjoncture
+
+- Sensibilité et pratiques écologiques |
+
+Trimestrielle
+
+Trimestrielle |
+
+INSEE
+
+INSEE |
+
 (*) Voir liste des producteurs.
 
 Emploi, qualification et revenus du travail |
@@ -223,6 +243,20 @@ Enquête &laquo; Vécu et ressenti en matière de sécurité &raquo; (VRS) |
 Annuelle |
 
 SSMSI |
+
+(*) Voir liste des producteurs.
+
+Territoires |
+
+Périodicité |
+
+Producteur (*) |
+
+Enquête &laquo; Action sociale des collectivités locales &raquo; (ASCO 2025) |
+
+Ponctuelle |
+
+DREES |
 
 (*) Voir liste des producteurs.
 
