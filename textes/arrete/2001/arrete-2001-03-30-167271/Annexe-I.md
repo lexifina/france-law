@@ -26,6 +26,8 @@ A. - Animaux de l'espèce bovine.
 
 - pour les élevages allaitants de production de viande, ce déficit sera évalué par différence entre la valeur bouchère attendue au terme de l'engraissement des animaux entretenus pour être abattus pour la boucherie dans un délai maximum d'un an et leur valeur marchande objective à la date de l'expertise, après déduction du coût de leur alimentation.
 
+Pour tout type d'élevage, en cas d'interdiction de remise en place des animaux, la période indemnisée est augmentée de la durée d'interdiction de remise en place des animaux.
+
 B. - Animaux des espèces ovine et caprine.
 
 1. Frais sanitaires d'introduction :
@@ -53,3 +55,5 @@ B. - Animaux des espèces ovine et caprine.
 - pour les élevages allaitants de production de viande, ce déficit sera évalué par différence entre la valeur bouchère attendue au terme de l'engraissement des animaux entretenus pour être abattus pour la boucherie dans un délai maximum de six mois et leur valeur marchande objective à la date de l'expertise, après déduction du coût de leur alimentation.
 
 En ce qui concerne la tremblante ovine, l'Etat ne prend pas en charge les frais correspondant aux points 1, 2, 4 et 5 ci-dessus pour le renouvellement des animaux sensibles bénéficiant d'un délai supplémentaire d'abattage à titre dérogatoire dans les conditions définies par arrêté conjoint des ministres chargés de l'agriculture et du budget.
+
+Pour tout type d'élevage, en cas d'interdiction de remise en place des animaux, la période indemnisée est augmentée de la durée d'interdiction de remise en place des animaux.
