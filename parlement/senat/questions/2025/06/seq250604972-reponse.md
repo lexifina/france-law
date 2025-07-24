@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250604972
+
+- Question : [SEQ250604972](seq250604972.md) — Situation des sapeurs pompiers blessés
+
+## Réponse
+
+*Intérieur , JO du 2025-07-24, page 4291*
+
+Le ministre d'Etat, ministre de l'intérieur, salue tout particulièrement l'engagement et le professionnalisme des sapeurs-pompiers qui, chaque jour, interviennent au service de nos concitoyens, y compris dans des conditions particulièrement difficiles pouvant menacer leur intégrité physique et psychique. Certains d'entre eux, gravement blessés en opération, peuvent effectivement être confrontés à des séquelles durables, tant physiques que psychologiques. Plusieurs dispositifs existent aujourd'hui pour accompagner les sapeurs-pompiers aussi bien blessés que traumatisés. Tout d'abord, par le déploiement possible, en opération, d'un soutien opérationnel prodigué par les professionnels de santé au bénéfice des sapeurs-pompiers engagés sur des interventions sensibles, mais également par les psychothérapeutes et psychologues des services d'incendie et de secours. En cas d'atteinte physique ou psychologique, la prise en charge au titre des accidents ou des maladies contractés en service intervient. Ainsi, par exemple, le congé pour invalidité temporaire imputable au service garantit une prise en charge intégrale des frais liés aux soins, mais également une rémunération à 100 % aux agents blessés dans le cadre de leur mission, durant toute la durée de leur incapacité. Enfin, plusieurs dispositifs existent aujourd hui pour accompagner les sapeurs-pompiers professionnels qui deviendraient inaptes, tels que le reclassement pour raison opérationnelle prévu aux articles L. 826-16 à L. 826-19 du code général de la fonction publique ou encore le congé pour raison opérationnelle. L'accompagnement est un devoir moral, qui implique en premier lieu les services d'incendie et de secours, qui sont d'ailleurs très investis dans ce domaine.
