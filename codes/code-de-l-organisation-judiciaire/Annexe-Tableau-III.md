@@ -340,7 +340,7 @@ Meurthe-et-Moselle |
 
 Nancy |
 
-Nancy, Tomblaine, Vandœuvre-lès-Nancy, Toul. |
+Nancy, Vandœuvre-lès-Nancy, Toul. |
 
 Cour d'appel de Nîmes |
 
