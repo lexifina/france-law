@@ -30,11 +30,11 @@ Après deux années consécutives sans sinistre, le coefficient applicable ne pe
 
 Art. 6.-Ne sont pas à prendre en considération pour l'application d'une majoration les sinistres devant donner lieu ou non à une indemnisation, lorsque :
 
-1 o l'auteur de l'accident conduit le véhicule à l'insu du propriétaire ou de l'un des conducteurs désignés, sauf s'il vit habituellement au foyer de l'un de ceux-ci ;
+1° l'auteur de l'accident conduit le véhicule à l'insu du propriétaire ou de l'un des conducteurs désignés, sauf s'il vit habituellement au foyer de l'un de ceux-ci ;
 
-2 o la cause de l'accident est un événement, non imputable à l'assuré, ayant les caractéristiques de la force majeure ;
+2° la cause de l'accident est un événement, non imputable à l'assuré, ayant les caractéristiques de la force majeure ;
 
-3 o la cause de l'accident est entièrement imputable à la victime ou à un tiers.
+3° la cause de l'accident est entièrement imputable à la victime ou à un tiers.
 
 Art. 7.-Le sinistre survenu à un véhicule en stationnement par le fait d'un tiers non identifié alors que la responsabilité de l'assuré n'est engagée à aucun titre, ou lorsque le sinistre mettant en jeu uniquement l'une des garanties suivantes : vol, incendie, bris de glace, n'entraîne pas l'application de la majoration prévue à l'article 5 et ne fait pas obstacle à la réduction visée à l'article 4.
 
@@ -54,32 +54,30 @@ Toutefois, le transfert de la réduction n'est applicable que si le ou les condu
 
 Art. 11.-Si le contrat concerne un véhicule précédemment garanti par un autre assureur, le coefficient de réduction-majoration applicable à la première prime est calculé en tenant compte des indications qui figurent sur le relevé d'informations mentionné à l'article 12 ci-dessous, et des déclarations complémentaires de l'assuré.
 
-Art. 12.-L'assureur fournit au souscripteur un relevé d'informations lors de la résiliation du contrat par l'une des parties et dans les quinze jours à compter d'une demande expresse du souscripteur.
+Art. 12.-L'assureur fournit au souscripteur un relevé d'informations conforme au modèle défini par le règlement d'exécution (UE) 2024/1855 de la Commission du 3 juillet 2024 portant modalités d'application de la directive 2009/103/ CE du Parlement européen et du Conseil, lors de la résiliation du contrat par l'une des parties et dans les quinze jours à compter de la demande expresse du souscripteur.
 
-Ce relevé comporte notamment les indications suivantes :
+Outre les informations requises par le modèle mentionné à l'alinéa précédent, le relevé comporte notamment les indications suivantes :
 
--date de souscription du contrat ;
+- le coefficient de réduction-majoration, la période d'échéance à laquelle ce coefficient est applicable, le nombre d'années au coefficient 0,50 et l'usage du véhicule ;
 
--numéro d'immatriculation du véhicule ;
+- la date, la nature de sinistre, la part de responsabilité retenue ainsi que le conducteur responsable pour les sinistres survenus au cours des cinq périodes annuelles précédant l'établissement du relevé d'informations ;
 
--nom, prénom, date de naissance, numéro et date de délivrance du permis de conduire du souscripteur et de chacun des conducteurs désignés au contrat ;
-
--nombre, nature, date de survenance et conducteur responsable des sinistres survenus au cours des cinq périodes annuelles précédant l'établissement du relevé d'informations, ainsi que la part de responsabilité retenue ;
-
--le coefficient de réduction-majoration appliqué à la dernière échéance annuelle ;
-
--la date à laquelle les informations ci-dessus ont été arrêtées.
+- les noms, prénoms, date de naissance, numéro et date de délivrance d'obtention du permis des conducteurs désignés au contrat.
 
 Art. 13.-Le conducteur qui désire être assuré auprès d'un nouvel assureur s'engage à fournir à celui-ci le relevé d'informations délivré par l'assureur du contrat qui le garantissait précédemment, au souscripteur de ce contrat.
 
 Art. 14.-L'assureur doit indiquer sur l'avis d'échéance ou la quittance de prime remis à l'assuré :
 
--le montant de la prime de référence ;
+- le montant de la prime de référence ;
 
--le coefficient de réduction-majoration prévu à l'article A. 121-1 du Code des assurances ;
+- le coefficient de réduction-majoration prévu à l'article A. 121-1 du Code des assurances ;
 
--la prime nette après application de ce coefficient ;
+- la prime nette après application de ce coefficient ;
 
--la ou les majorations éventuellement appliquées conformément à l'article A335-9-2 du Code des assurances ;
+- la ou les majorations éventuellement appliquées conformément à l'article A335-9-2 du Code des assurances ;
 
--la ou les réductions éventuellement appliquées conformément à l'article A. 335-9-3 du Code des assurances.
+- la ou les réductions éventuellement appliquées conformément à l'article A. 335-9-3 du Code des assurances.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 13 janvier 2025 (NOR : ECOT2429912A), les dispositions dudit arrêté entrent en vigueur à compter du 24 juillet 2025.
