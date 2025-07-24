@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705622
+
+- Question : [SEQ250705622](seq250705622.md) — Fixation du montant d'une amende administrative
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-07-24, page 4283*
+
+La distinction entre les attributions du conseil municipal et du maire, concernant les pouvoirs de police de ce dernier, est précisée particulièrement à l'article L. 2122-24 du code général des collectivités territoriales (CGCT), selon lequel « le maire est chargé, sous le contrôle administratif du représentant de l'Etat dans le département, de l'exercice des pouvoirs de police, dans les conditions prévues aux articles L. 2212-1 et suivants ». L'article L. 2212-2 du même code précise ainsi l'objet des pouvoirs de police générale du maire, qui vise à assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques, sans préjudice des pouvoirs de police spéciale. La méconnaissance des arrêtés adoptés par le maire au titre de ses pouvoirs de police générale, lorsqu'elle présente un risque pour la sécurité des personnes et a un caractère répétitif ou continu, peut être sanctionnée, conformément à l'article L. 2212-2-1 du CGCT, d'une amende administrative d'un montant maximal de 500 euros. A ce sujet, l'étude d'impact du projet de loi, qui a abouti à la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique, à l'origine de cet article, précise que cette amende « se limite aux cas et situations facilement identifiables, et facilement résorbables ». De plus, « le système d'amende administrative (...) permet en outre au maire de moduler le montant en fonction de l'étendue des désordres constatés, de la gravité du risque pour la sécurité des personnes, ainsi que de leur caractère répétitif ou de leur durée ». Le pouvoir de sanction mentionné à l'article L. 2212-2-1 du CGCT relève donc bien du seul maire, tant dans sa détermination que sa modulation.
