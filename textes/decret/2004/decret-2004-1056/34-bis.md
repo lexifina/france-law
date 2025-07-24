@@ -2,7 +2,7 @@
 
 I. - L'ouvrier qui en fait la demande à son employeur bénéficie d'une pension partielle, dès lors que :
 
-1° Il a atteint l'âge mentionné au premier alinéa du 1° du I de l'article 21 diminué de deux années ;
+1° Il a atteint l'âge mentionné au 1° de l'article L. 89 bis du code des pensions civiles et militaires de retraite ;
 
 2° Il justifie d'une durée d'assurance de cent cinquante trimestres ;
 
@@ -14,4 +14,4 @@ Le bénéfice de la retraite progressive entraîne la liquidation provisoire et 
 
 NOTA :
 
-Conformément au I de l'article 9 du décret n° 2023-751 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023. Se reporter aux conditions d'application prévues au IV de l'article 9 dudit décret.
+Conformément à l'article 3 du décret n° 2025-680 du 15 juillet 2025, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2025.
