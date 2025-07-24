@@ -1,0 +1,66 @@
+# RES - Revenus et profits du patrimoine mobilier - Revenus de capitaux mobiliers, gains et profits assimilés - Modalités d’application de la retenue à la source sur les produits distribués par des sociétés françaises à des personnes dont le domicile ou le siège est situé hors de France prévue au 2 de l’article 119 bis et à l’article 119 bis A du CGI (loi n° 2025-127 du 14 février 2025 de finances pour 2025, art. 96)
+
+- Identifiant : BOI-RES-RPPM-000203-20250724
+- Publié le : 2025-07-24
+- Type : Commentaire
+- Série : RES, RPPM
+- Bureau : B1
+- Page officielle : https://bofip.impots.gouv.fr/bofip/14655-PGP.html/identifiant=BOI-RES-RPPM-000203-20250724
+- Directeur de publication : Amélie Verdier, directrice générale des finances publiques
+
+## Texte
+
+RES - Revenus et profits du patrimoine mobilier - Revenus de capitaux mobiliers, gains et profits assimilés - Modalités d’application de la retenue à la source sur les produits distribués par des sociétés françaises à des personnes dont le domicile ou le siège est situé hors de France prévue au 2 de l’article 119 bis et à l’article 119 bis A du CGI (loi n° 2025-127 du 14 février 2025 de finances pour 2025, art. 96)
+
+### Question :
+L’article 96 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025 a modifié les dispositions de l’article 119 bis du code général des impôts (CGI) et de l’article 119 bis A du CGI. Les questions posées sur les modalités d’application de ces nouvelles dispositions, notamment, sur leur champ d’application, sur l’assiette de la retenue à la source et sur leur entrée en vigueur, appellent les précisions suivantes.
+
+### Réponse :
+
+#### 1/ Articulation entre les dispositions prévues au 2 de l’article 119 bis du CGI et à l’article 119 bis A du CGI
+Le 2 de l’article 119 bis du CGI, dans sa rédaction issue de l’article 96 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025, intègre la notion de bénéficiaire effectif.
+Le I de l’article 119 bis A du CGI, dans sa rédaction issue de l’article 96 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025, prévoit que le transfert de valeur est réputé constituer un revenu distribué soumis à la retenue à la source prévue au 2 de l’article 119 bis du CGI, lorsque ce transfert est subordonné à la distribution de dividendes par la société française émettrice des titres et qu’il est opéré dans le cadre de certains montages financiers d’arbitrage de dividendes dits « CumCum ».
+À ce titre, le Conseil d’État a estimé que la soumission à la retenue à la source d’opérations dites de « CumCum » devrait se fonder, selon les cas, soit sur les seules dispositions de l’article 119 bis du CGI, soit, le plus souvent, sur la combinaison de l’article 119 bis du CGI et de l’article 119 bis A du CGI (CE, avis du 27 janvier 2025, n° 409218, point 5).
+
+#### 2/ Application des dispositions de l’article 119 bis A du CGI en l’absence de distribution de dividendes pendant la période au cours de laquelle interviennent les opérations
+Le I de l’article 119 bis A du CGI prévoit que le transfert de valeur est réputé constituer un revenu distribué soumis à la retenue à la source prévue au 2 de l’article 119 bis du CGI. Eu égard à la définition du transfert de valeur posée par le 1 bis du I de l’article 119 bis A du CGI, aux termes duquel ce transfert « s’entend de la part du produit d’actions ou du revenu assimilé effectivement appréhendée » par le bénéficiaire non résident, l’existence de ce transfert est conditionnée à une distribution effective de dividendes par la société française émettrice des titres, au sens de l’article L. 232-11 du code de commerce.
+De même, en l’absence d’une telle distribution, aucun versement ne peut être imposé sur le fondement de l’article 119 bis A du CGI.
+
+#### 3/ Application du I de l’article 119 bis A du CGI aux produits financiers non linéaires
+Le dispositif du I de l’article 119 bis A du CGI permet de soumettre à la retenue à la source les transferts de valeur qui résultent d’un accord ou instrument financier ayant, directement ou indirectement, pour la personne qui n’est pas établie ou n’a pas sa résidence en France, un effet économique similaire à la possession desdites actions ou parts. Pour ce qui concerne les instruments financiers, cet article vise donc les instruments ou combinaisons d’instruments linéaires appelés « delta one », dont le prix varie selon la même amplitude que celle du prix du sous-jacent ou selon une amplitude très proche.
+Par conséquent, les instruments financiers non linéaires pour lesquels il n’existe pas une telle corrélation entre, d’une part, la valeur de l’instrument ou d’une combinaison d’instruments et, d’autre part, la variation de l’actif sous-jacent, sont exclus du champ d’application de l’article 119 bis A du CGI.
+
+#### 4/ Maintien des exonérations de retenue à la source au profit des organismes de placement collectif et des fonds souverains
+Les organismes de placement collectif (OPC) sont exclus du champ d’application de la retenue à la source en application du 2 de l’article 119 bis du CGI, sous réserve du respect des conditions mentionnées au même article. L’une de ces conditions impose que les OPC étrangers présentent des caractéristiques similaires à celles des OPC français. Ainsi, le versement ou le transfert de valeur au profit d’un OPC étranger qui résulte d’une opération visée au I de l’article 119 bis A du CGI est soumis à la retenue à la source uniquement lorsque les conditions prévues au 2 de l’article 119 bis du CGI ne sont pas réunies.
+S’agissant des fonds souverains, les dispositions de l’article 131 sexies du CGI prévoient que les produits d’actions, de parts sociales ou de parts bénéficiaires distribués par des sociétés françaises et qui bénéficient à des organisations internationales, à des États souverains étrangers, aux banques centrales de ces États, sont exonérés de la retenue à la source prévue au 2 de l’article 119 bis du CGI. Dès lors, il apparaîtrait contraire à l’objet du dispositif de soumettre à retenue à la source ces mêmes produits lorsqu’ils sont perçus suite à une cession temporaire ou au moyen d’instruments dérivés.
+
+#### 5/ Application du I de l’article 119 bis A du CGI aux opérations sur indices financiers reconnus ou qui ne sont pas composés majoritairement d’actions françaises
+Les opérations d’arbitrage de dividendes sur des indices qui reflètent la performance générale d’un marché des actions relèvent du champ d’application de l’article 119 bis A du CGI dès lors que les opérateurs de marché sont en mesure de les structurer de telle sorte à ce qu’elles produisent, pour le bénéficiaire non résident, un effet économique similaire à la possession des actions. En effet, l’indice financier mesure, d’une manière pertinente et appropriée, la performance d’un ensemble représentatif des actions sous-jacentes.
+La clause de sauvegarde prévue au 3 du I de l’article 119 bis A du CGI trouve à s’appliquer si l’opération a principalement un objet et un effet autres que d’éviter l’application d’une retenue à la source ou d’obtenir l’octroi d’un avantage fiscal, notamment eu égard à la diversification de l’indice concernant, notamment, le nombre d’émetteurs pris en compte dans le panier ou encore la variété de leurs origines géographiques. À titre d’illustration, il en va ainsi du CAC 40 et de l’Euro Stoxx 50 sauf si ces indices sont utilisés dans le cadre d’une combinaison d’opérations produisant pour un non-résident un effet économique similaire à la détention des titres composant l’indice.
+
+#### 6/ Application du I de l’article 119 bis A du CGI aux opérations effectuées dans un but de couverture des ventes à découvert
+Par principe, le transfert de valeur issu d’une opération effectuée dans un but de couverture des ventes à découvert relève des dispositions du I de l’article 119 bis A du CGI. Il en est ainsi, notamment, dès lors que l’effet économique de cette opération est similaire à la possession des actions, quand bien même l’opération aurait aussi pour effet de couvrir des ventes à découvert.
+L’établissement payeur peut toutefois appliquer ab initio la clause de sauvegarde et apporter la preuve que ce transfert de valeur correspond à une opération qui a principalement un objet et un effet autres que fiscal, notamment dans le cas d’une opération visant des besoins réels de couverture.
+
+#### 7/ Assiette de la retenue à la source en cas d’application des nouvelles dispositions de l’article 119 bis A du CGI
+En application du 1 bis du I de l’article 119 bis A du CGI, le transfert de valeur s’entend de la « part du produit d’actions ou du revenu assimilé effectivement appréhendée » par la personne établie hors de France. Par conséquent, le dispositif anti-abus du I de l’article 119 bis A du CGI n’a pas pour objet de soumettre à la retenue à la source des montants supérieurs à ceux des dividendes que le détenteur des titres aurait dû percevoir directement.
+En cas de prêt de titres, si la rémunération n’est pas établie au regard du montant du dividende rétrocédé, elle n’a pas vocation à supporter la retenue à la source. Dans le cas contraire, il n’est pas exclu que tout ou partie de cette rémunération puisse être considéré comme un transfert de valeur au sens du I du 119 bis A du CGI.
+
+#### 8/ Portée des dispositions du II de l’article 119 bis A du CGI, dont l’entrée en vigueur est prévue au 1er janvier 2026
+Ces dispositions doivent être entendues comme applicables aux dividendes ou produits assimilés de source française à la double condition :
+qu’ils soient versés à des personnes résidentes d’un État ayant signé avec la France une convention d’élimination des doubles impositions en application de laquelle ces produits ne sont pas soumis à une retenue à la source ou sont totalement exonérés de retenue à la source ;
+et que ces personnes ne bénéficient pas, en raison de leur statut ou du seuil de la participation détenue dans l’entité distributrice, d’une exonération de retenue à la source en application du droit interne français.
+En pratique, ces dispositions visent à date les conventions fiscales signées entre la France et les neuf États suivants : Arabie Saoudite, Bahreïn, Égypte, Émirats arabes unis, Finlande, Koweït, Liban, Oman et Qatar.
+En tout état de cause, ces dispositions ne s’appliquent pas lorsque qu’un taux nul s’applique aux produits de source française en vertu du régime fiscal des sociétés mères et filiales, prévu par une convention fiscale ou par la directive 2011/96/UE du Conseil du 30 novembre 2011 modifiée concernant le régime fiscal commun applicable aux sociétés mères et filiales d’États membres différents (dite « directive mère-fille »).
+
+#### 9/ Entrée en vigueur des nouvelles dispositions du I de l’article 119 bis A du CGI
+Conformément au 2 du I de l’article 119 bis A du CGI, la retenue à la source est due lors de la mise en paiement du versement en cas de versement unique ou lorsque l’accord sur la chose et le prix de l’ensemble des opérations composant le transfert de valeur est acquis. Ainsi, la règle d’entrée en vigueur des dispositions du I de l’article 119 bis A du CGI est entendue différemment selon qu’il s’agisse d’un versement ou d’un transfert de valeur.
+Pour ce qui concerne le versement, ces nouvelles dispositions s’appliquent à ceux effectués à compter du 16 février 2025, date d’entrée en vigueur des nouvelles dispositions. En revanche, s’agissant des opérations concourant à un transfert de valeur, ces nouvelles dispositions s’appliquent aux seules opérations pour lesquelles un accord sur la chose et le prix intervient à compter du 16 février 2025.
+
+#### 10/ Autres précisions
+Les précisions apportées par le présent rescrit concernent exclusivement les dispositions de l’article 119 bis du CGI et de l’article 119 bis A du CGI dans leur rédaction issue de l’article 96 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025, sans préjudice de l’application des dispositions dans leur rédaction antérieure aux opérations réalisées dans ce cadre.
+Par ailleurs, il est rappelé que la procédure de l’abus de droit fiscal prévue à l’article L. 64 du livre des procédures fiscales s’applique, en tout état de cause, à toutes les situations constitutives d’un abus, indépendamment de la possibilité ou non d’appliquer directement les dispositions prévues au 2 de l’article 119 bis du CGI et à l’article 119 bis A du CGI dans les différentes situations exposées dans le présent rescrit.
+
+### Documents liés :
+BOI-RPPM-RCM-30-30-10-10 : RPPM - Revenus et profits du patrimoine mobilier, gains et profits assimilés - Modalités particulières d’imposition - Régime fiscal des revenus distribués par les sociétés françaises à des non-résidents - Retenue à la source applicable aux produits distribués par des sociétés françaises à des personnes dont le domicile ou le siège est situé hors de France - Champ d’application et nature des revenus soumis à la retenue à la source
+BOI-RPPM-RCM-30-30-20-70 : RPPM - Revenus et profits du patrimoine mobilier, gains et profits assimilés - Régime fiscal des revenus distribués par les sociétés françaises à des non-résidents - Exonérations totales ou partielles de retenue à la source sur les revenus distribués versés à certains organismes de placement collectif étrangers (CGI, art. 119 bis, 2)
