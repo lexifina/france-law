@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250504545
+
+- Question : [SEQ250504545](seq250504545.md) — Publication du décret d'application relatif à l'installation de pharmacies dans les communes de moins de 2 500 habitants
+
+## Réponse
+
+*Santé et accès aux soins, JO du 2025-07-24, page 4297*
+
+Le Gouvernement est pleinement conscient de l'enjeu que représente l'accès aux officines dans les zones rurales et est engagé à garantir un maillage officinal adapté aux besoins de la population. À cet égard, le décret d'application ainsi que l'arrêté permettant l'identification des zones fragiles et l'assouplissement des conditions d'ouverture de pharmacies ont été publiés au Journal officiel le 4 juillet 2024. En outre, le ministère accompagne la mise en place d'expérimentations innovantes, telles que les « antennes » de pharmacie, dans les communes de moins de 2 500 habitants. Ces antennes, rattachées à une officine principale, permettent d'assurer une présence pharmaceutique de proximité, tout en garantissant la sécurité et la qualité de la dispensation des médicaments. Par ailleurs, s'il est exact que la densité officinale a connu une baisse au cours de la dernière décennie, en particulier dans certains territoires ruraux, il convient de rappeler que la France bénéficie encore d'un maillage officinal parmi les plus denses d'Europe, avec 30 officines pour 100 000 habitants en moyenne. La baisse observée, bien que réelle, doit donc être relativisée au regard de cette densité globale. Le Gouvernement reste ainsi vigilant quant à l'évolution de la situation dans les zones les plus fragiles et entend poursuivre ses efforts pour garantir un accès équitable aux médicaments sur l'ensemble du territoire, comme en témoigne le Pacte de lutte contre les déserts médicaux annoncé par le Premier ministre le 25 avril 2025.
