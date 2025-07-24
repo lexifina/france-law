@@ -1,6 +1,6 @@
 # Article 33 bis
 
-I. - Les ayants droit de tout ouvrier de l'Etat décédé ont droit, au moment du décès et quels que soient l'origine, le moment ou le lieu de celui-ci, au paiement d'un capital décès.
+I. - Les ayants droit de tout ouvrier de l'Etat décédé alors qu'il se trouvait, au jour du décès, dans l'une des situations mentionnées à l'article 27 bis, ont droit, quels que soient l'origine, le moment ou le lieu de celui-ci, au paiement d'un capital décès.
 
 Le capital décès est versé par l'employeur qui emploie l'ouvrier de l'Etat le jour de son décès.
 
@@ -35,7 +35,3 @@ En cas d'absence d'enfant pouvant prétendre à l'attribution du capital décès
 En cas d'absence de conjoint non divorcé ni séparé de corps ou de partenaire d'un pacte civil de solidarité non dissous, le capital décès est attribué en totalité aux enfants attributaires et réparti entre eux et par parts égales.
 
 En cas d'absence de conjoint ou de partenaire d'un pacte civil de solidarité et d'absence d'enfants pouvant prétendre à l'attribution du capital décès, ce dernier est versé à celui ou à ceux des ascendants de l'ouvrier de l'Etat qui étaient à sa charge au sens de l'article 193 ter du code général des impôts au moment du décès.
-
-NOTA :
-
-Conformément à l'article 24 du décret n° 2024-555 du 17 juin 2024, ces dispositions sont applicables aux décès survenus à compter du 1er janvier 2024.
