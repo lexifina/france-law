@@ -2,7 +2,7 @@
 
 I. ― Pour le transport de marchandises :
 
-- baccalauréat professionnel (bac pro) spécialité "conducteur transport routier de marchandises" (CTRM), ainsi que l'attestation de réussite intermédiaire de ce baccalauréat prévue par l'article D. 337-59 du code de l'éducation, délivrée par le recteur aux élèves à compter du 1er juin 2021 ou, pour les apprentis, l'attestation prévue par l'annexe II de l'arrêté du 17 janvier 2013 portant application de l'article D. 222-8 du code de la route et fixant les conditions et modalités d'obtention du permis de conduire au vu des diplômes, certificats ou titres professionnels de conducteur routier, délivrée par le responsable de leur organisme de formation à compter de cette même date ;
+- baccalauréat professionnel (bac pro) spécialité " conducteur routier de marchandises " ou " conducteur transport routier de marchandises ", ainsi que, pour les élèves sous statut scolaire, l'attestation prévue par l'annexe I de l'arrêté du 17 janvier 2013 portant application de l'article D. 222-8 du code de la route et fixant les conditions et modalités d'obtention du permis de conduire au vu des diplômes, certificats ou titres professionnels de conducteur routier, ou, pour les apprentis, l'attestation prévue par l'annexe II du même arrêté ;
 
 - certificat d'aptitude professionnelle (CAP) conducteur routier marchandises ;
 
