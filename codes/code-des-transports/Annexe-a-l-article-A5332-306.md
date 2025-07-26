@@ -70,9 +70,9 @@ Page de garde
 
 Avertissement
 
-Sauf si l'ESP est classifiée au niveau &laquo; SECRET &raquo; au titre de la protection du secret de la défense nationale, chacune de ses pages comporte, centrée en gras et rouge, en haut et pas de page, la mention &laquo; CONFIDENTIEL SÛRETÉ PORTUAIRE &raquo;.
+Sauf si l'ESP est classifiée au niveau SECRET au titre de la protection du secret de la défense nationale, chacune de ses pages comporte, centrée en gras et rouge, en haut et pas de page, la mention CONFIDENTIEL SÛRETÉ PORTUAIRE .
 
-Le présent plan type fait l'objet de commentaires et de compléments méthodologiques dans un guide établi par l'autorité nationale de sûreté maritime et portuaire compétente pour la sûreté des ports et des installations portuaires sous le régime de confidentialité &laquo; CONFIDENTIEL SÛRETÉ PORTUAIRE &raquo;.
+Le présent plan type fait l'objet de commentaires et de compléments méthodologiques dans un guide établi par l'autorité nationale de sûreté maritime et portuaire compétente pour la sûreté des ports et des installations portuaires sous le régime de confidentialité CONFIDENTIEL SÛRETÉ PORTUAIRE .
 
 Page de garde
 
@@ -80,9 +80,9 @@ Est inséré en partie haute, justifié à gauche conformément à la charte gra
 
 Sont précisées, en partie centrale, centrées, les mentions suivantes :
 
-- l'intitulé &laquo; Évaluation de sûreté du port &raquo; ;
+- l'intitulé Évaluation de sûreté du port ;
 
-- la dénomination sociale du port &laquo; [Grand port fluvio-maritime de XXX / Grand port maritime de XXX / Port autonome de XXX / Port d'intérêt national de XXX / Port de XXX] &raquo;, complétée le cas échéant par sa dénomination commerciale ;
+- la dénomination sociale du port [Grand port fluvio-maritime de XXX / Grand port maritime de XXX / Port autonome de XXX / Port d'intérêt national de XXX / Port de XXX] , complétée le cas échéant par sa dénomination commerciale ;
 
 - l'indicatif international du port composé des cinq lettres [XXXXX] du code LOCODE/ONU de la commune où se situe le siège social du port ;
 
@@ -90,7 +90,7 @@ Sont précisées, en partie centrale, centrées, les mentions suivantes :
 
 Peuvent être reproduits, le cas échéant, une photo et/ou le logo de l'autorité portuaire.
 
-Est précisée, en partie basse, la mention &laquo; Version approuvée par l'arrêté préfectoral du [JOUR MOIS ANNÉE] &raquo;.
+Est précisée, en partie basse, la mention Version approuvée par l'arrêté inter-préfectoral ou préfectoral du [JOUR MOIS ANNÉE] .
 
 1. Description du port
 
@@ -108,7 +108,7 @@ Toute zone d'attente pour les navires de commerce via l'insertion d'une carte, a
 
 Conditions d'accès nautique (conditions de marée, passages d'écluses, etc.).
 
-Toute zone maritime et fluviale de régulation (&laquo; ZMFR &raquo;), le cas échéant, via l'insertion d'une carte.
+Toute zone maritime et fluviale de régulation ( ZMFR ), le cas échéant, via l'insertion d'une carte.
 
 1.1.3. Desserte terrestre du port
 
@@ -134,13 +134,13 @@ Volumes annuels |
 
 Escales annuelles |
 
-&laquo; Croisière &raquo; |
+Croisière |
 
 Nombre de passagers |
 
 |
 
-&laquo; ROPAX &raquo; - transbordeurs à passagers ou mixtes |
+ROPAX - transbordeurs à passagers ou mixtes |
 
 Nombre de passagers
 
@@ -150,61 +150,61 @@ Nombre de véhicules
 
 |
 
-&laquo; Gaz &raquo; |
+Gaz |
 
 Tonnage |
 
 |
 
-&laquo; Pétrole brut &raquo; |
+Pétrole brut |
 
 Tonnage |
 
 |
 
-&laquo; Produits pétroliers raffinés gazeux, liquéfiés ou comprimés &raquo; |
+Produits pétroliers raffinés gazeux, liquéfiés ou comprimés |
 
 Tonnage |
 
 |
 
-&laquo; Conteneurs &raquo; |
+Conteneurs |
 
-Nombre en équivalent vingt pieds &laquo; EVP &raquo; |
+Nombre en équivalent vingt pieds EVP |
 
 |
 
-&laquo; Colis lourds / industriels &raquo; |
+Colis lourds / industriels |
 
 Tonnage |
 
 |
 
-&laquo; Produits métallurgiques &raquo; |
+Produits métallurgiques |
 
 Tonnage |
 
 |
 
-&laquo; RO-RO &raquo; |
+RO-RO |
 
 Nombre de véhicules |
 
 |
 
-&laquo; Vracs liquides non dangereux &raquo; |
+Vracs liquides non dangereux |
 
 Tonnage |
 
 |
 
-&laquo; Vracs solides non dangereux &raquo; |
+Vracs solides non dangereux |
 
 Tonnage |
 
 |
 
-&laquo; Barges, péniches et autres navires non ISPS &raquo; |
+Barges, péniches et autres navires non ISPS |
 
 - - - |
 
@@ -236,7 +236,7 @@ Mesures applicables en cas de sinistre, notamment le schéma d'alerte et les moy
 
 2.1. Identification des menaces
 
-Identification des menaces, incluant celles provenant de la mer fournies par le préfet maritime, se fondant sur une aire d'attractivité du port (aspects terrestres et maritimes) et à partir d'une liste des principales menaces pesant sur la sûreté des ports et installations portuaires, établie par l'autorité nationale de sûreté maritime et portuaire compétente pour la sûreté des ports et des installations portuaires sous le régime de confidentialité &laquo; CONFIDENTIEL SÛRETÉ PORTUAIRE &raquo;.
+Identification des menaces, incluant celles provenant de la mer fournies par le préfet maritime, se fondant sur une aire d'attractivité du port (aspects terrestres et maritimes) et à partir d'une liste des principales menaces pesant sur la sûreté des ports et installations portuaires, établie par l'autorité nationale de sûreté maritime et portuaire compétente pour la sûreté des ports et des installations portuaires sous le régime de confidentialité CONFIDENTIEL SÛRETÉ PORTUAIRE .
 
 Types de menaces |
 
@@ -268,7 +268,7 @@ Identification des points sensibles du port qui :
 
 - est réalisée au terme d'une analyse prenant en compte les principales caractéristiques et les enjeux du port qu'ils représentent en termes de sûreté. Ces points sensibles peuvent être constitués par des sous-parties du port. Celles-ci devront alors disposer de spécificités identiques, notamment en matière de localisation, d'accès, d'approvisionnement en énergie, de communications, de propriété, d'utilisation et autres éléments considérés comme importants pour la sûreté ;
 
-- précise ceux d'entre eux qui correspondent à un point d'importance vitale au sens de l'instruction générale interministérielle relative à la sécurité des activités d'importance vitale, auquel cas l'ESP est classifié &laquo; SECRET &raquo;.
+- précise ceux d'entre eux qui correspondent à un point d'importance vitale au sens de l'instruction générale interministérielle relative à la sécurité des activités d'importance vitale, auquel cas l'ESP est classifié SECRET .
 
 2.2.1. Identification des points sensibles physiques
 
@@ -298,7 +298,7 @@ Régime applicable
 
 (Déclaration de sûreté
 
-&laquo; DoS &raquo; ou PSIP)
+DoS ou PSIP)
 
 |
 
@@ -378,7 +378,7 @@ Vulnérabilités identifiées (physique, organisationnelle, saisonnalité, etc.)
 
 2.4. Calcul des risques
 
-Calcul des risques réalisé sur la base de trois grilles de cotation et d'une typologie des risques établies par l'autorité nationale de sûreté maritime et portuaire compétente pour la sûreté des ports et des installations portuaires sous le régime de confidentialité &laquo; CONFIDENTIEL SÛRETÉ PORTUAIRE &raquo;.
+Calcul des risques réalisé sur la base de trois grilles de cotation et d'une typologie des risques établies par l'autorité nationale de sûreté maritime et portuaire compétente pour la sûreté des ports et des installations portuaires sous le régime de confidentialité CONFIDENTIEL SÛRETÉ PORTUAIRE .
 
 2.4.1. Cotations
 
@@ -396,7 +396,7 @@ Résultats du calcul des risques, présentés sous la forme d'un tableau, permet
 
 Tableau de synthèse du calcul des risques d'un point sensible |
 
-&laquo; Dénomination du point sensible &raquo; |
+Dénomination du point sensible |
 
 Rappel
 
@@ -524,7 +524,7 @@ Numéro d'ordre et libellé |
 
 5. Régime de confidentialité
 
-Régime de confidentialité de l'ESP précisant ses modalités de protection, de diffusion et de destruction, permettant d'assurer le respect de sa confidentialité, le cas échéant au titre de la protection du secret de la défense nationale si elle fait l'objet d'un niveau de protection &laquo; SECRET &raquo; au titre de la protection du secret de la défense nationale.
+Régime de confidentialité de l'ESP précisant ses modalités de protection, de diffusion et de destruction, permettant d'assurer le respect de sa confidentialité, le cas échéant au titre de la protection du secret de la défense nationale si elle fait l'objet d'un niveau de protection SECRET au titre de la protection du secret de la défense nationale.
 
 Liste des services à qui l'évaluation de sûreté du port est notifiée, avec mention du numéro de l'exemplaire ; l'exemplaire détenu par le préfet de département correspondant à l'exemplaire n° 1.
 

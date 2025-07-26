@@ -24,7 +24,7 @@ Le plan de sûreté de l'installation portuaire (PSIP) comprend les parties suiv
 
 10. Annexe(s)
 
-Sauf si le PSIP est classifié &laquo; SECRET &raquo; au titre de la protection du secret de la défense nationale, chacune de ses pages comporte, centrée en gras et rouge, en haut et pas de page, la mention &laquo; CONFIDENTIEL SÛRETÉ PORTUAIRE &raquo;.
+Sauf si le PSIP est classifié SECRET au titre de la protection du secret de la défense nationale, chacune de ses pages comporte, centrée en gras et rouge, en haut et pas de page, la mention CONFIDENTIEL SÛRETÉ PORTUAIRE .
 
 1. Identification de l'installation portuaire
 
@@ -34,9 +34,9 @@ Cette partie correspond à la page de garde et comporte les éléments suivants 
 
 2° En partie centrale, les mentions suivantes :
 
-- l'intitulé &laquo; Plan de sûreté de l'installation portuaire &raquo; ;
+- l'intitulé Plan de sûreté de l'installation portuaire ;
 
-- la dénomination sociale de l'installation portuaire &laquo; [EN MAJUSCULES ] &raquo; ;
+- la dénomination sociale de l'installation portuaire [EN MAJUSCULES ] ;
 
 - l'indicatif international composé des cinq lettres [XXXXX] du code UN/LOCODE et des quatre chiffres [-0000] générés par la base GISIS de l'Organisation maritime internationale ;
 
@@ -44,7 +44,7 @@ Cette partie correspond à la page de garde et comporte les éléments suivants 
 
 Une photo peut, le cas échéant, être reproduite ;
 
-3° En partie basse, la mention &laquo; Version du [date du denier réexamen intégral] &raquo;.
+3° En partie basse, la mention Version du [date du denier réexamen intégral] .
 
 2. Eléments administratifs
 
@@ -52,7 +52,7 @@ Une photo peut, le cas échéant, être reproduite ;
 
 - date de l'avis du CLSP sur l'ESIP ;
 
-- date d'approbation de l'ESP (annexer une copie de l'arrêté préfectoral publié au recueil des actes administratifs du département) ;
+- date d'approbation de l'ESIP (annexer une copie de l'arrêté préfectoral publié au recueil des actes administratifs du département) ;
 
 - rédacteur du PSIP. Si un OSH a contribué à l'établissement du PSIP, il est fait mention de l'arrêté ministériel portant le reconnaissant comme OSH, avec possibilité d'insertion de son logo à ce niveau, ainsi que du ou des arrêtés portant agrément des personnes travaillant pour le compte de l'OSH qui ont contribué à l'établissement du PSIP ;
 
@@ -272,7 +272,7 @@ Régime de confidentialité du PSIP précisant ses modalités de protection, de 
 
 9.1.1. Niveaux de protection
 
-Précision si le PSIP fait l'objet d'un niveau de protection &laquo; SECRET &raquo; au titre de la protection du secret de la défense nationale. Si tel est le cas, mention de la partie du PSIP, en dehors de l'annexe 10.5, qui fait l'objet de ce niveau de protection si seules quelques informations sont classifiées au titre de la protection du secret de la défense nationale.
+Précision si le PSIP fait l'objet d'un niveau de protection SECRET au titre de la protection du secret de la défense nationale. Si tel est le cas, mention de la partie du PSIP, en dehors de l'annexe 10.5, qui fait l'objet de ce niveau de protection si seules quelques informations sont classifiées au titre de la protection du secret de la défense nationale.
 
 9.1.2. Moyens de protection
 
@@ -292,11 +292,11 @@ Service |
 
 Exemplaire |
 
-Autorité portuaire |
+Exploitant de l'installation portuaire |
 
 1 sur … |
 
-Préfecture maritime |
+Autorité portuaire |
 
 2 sur … |
 
@@ -310,7 +310,7 @@ Service territorial des forces de sécurité intérieure |
 
 9.2.2. Liste de diffusion du volume 2
 
-Liste des personnes à qui des extraits du PSIP sont communiqués, avec mention de la référence aux paragraphes 2.3 (premier et deuxième tableaux), 5.3 (c et i) et ou 10.3 desdits extraits.
+Liste des personnes à qui des extraits du PSIP sont communiqués, avec mention de la référence aux paragraphes 5.1.2 (c et i), 6.2.2,10.3.1 et 10.3.2 desdits extraits.
 
 Personne |
 
@@ -338,7 +338,7 @@ Précision de celles des informations que le PSIP contient qui, le cas échéant
 
 9.3. Destruction du PSIP
 
-Précision de la procédure de destruction du PSIP si celui-ci fait l'objet d'un niveau de protection &laquo; SECRET &raquo; au titre de la protection du secret de la défense nationale.
+Précision de la procédure de destruction du PSIP si celui-ci fait l'objet d'un niveau de protection SECRET au titre de la protection du secret de la défense nationale.
 
 10. Annexe(s)
 
@@ -605,3 +605,47 @@ approbation
 |
 
 10.6. Annexe n° 6 - Informations classifiées au titre de la protection du secret de la défense nationale
+
+ANNEXE À RENSEIGNER SI L'INSTALLATION PORTUAIRE EST DÉSIGNÉE POINT D'IMPORTANCE VITALE AU TITRE DU CODE DE LA DÉFENSE ET DE LA RÉGLEMENTATION RELATIVE AUX SECTEURS D'ACTIVITÉ D'IMPORTANCE VITALE
+
+- désignation du point d'importance vitale (dénomination et numéro triplet) ;
+
+- coordonnées (adresse, numéro de téléphone) et caractéristiques locales (plan d'accès, voisinage) du point d'importance vitale ;
+
+- nature des activités du point d'importance vitale ;
+
+- classement éventuel du site dans lequel est implanté le point d'importance vitale selon les réglementations concernant la protection.
+
+4.1. Organisation de l'exploitant de l'installation portuaire en matière de sûreté
+
+- organisation hiérarchique (autorité, responsables, permanence de direction) ;
+
+- identité du délégué pour la défense et la sécurité (titulaire, suppléant) et fonctions qu'il occupe au sein de l'installation portuaire ;
+
+- fonctionnement de l'installation portuaire et son environnement ;
+
+- effectif des personnels (employés et des sous-traitants) travaillant dans le point d'importance vitale (personnel d'exécution, cadres, nombre d'étrangers de l'Union européenne et hors Union européenne).
+
+4.3 Coordination avec les autres installations portuaires & 4.4 Articulation avec le PSIP de toute installation portuaire adjacente
+
+Attention particulière à porter, au titre de la coordination avec les autres installations portuaires, à l'articulation du PSIP avec le PSIP de toute installation portuaire adjacente.
+
+5.1. Dispositions communes aux ZAR et aux ZNLAP dans une installation portuaire comprenant un ou des points d'importance vitale
+
+- équipes de protection et de gardiennage (effectif et formation des personnels, organisation du gardiennage et des rondes, postes tenus et moyens complémentaires (dénomination sociale du prestataire en cas de sous-traitance) ;
+
+- systèmes d'astreinte et de permanence ;
+
+- dispositif de sûreté : PC sûreté, énergie, système d'informations, dont de télécommunications ;
+
+- protection des systèmes de sûreté.
+
+8. Conduite à tenir en cas d'alerte de sûreté ou d'incident avéré ou de sinistre
+
+- organisation et moyens mis en œuvre en cas d'alerte ;
+
+- organisation et moyens mis en œuvre en cas d'incident avéré ou de sinistre ;
+
+- modalités d'assistance à l'intervention éventuelle de la force publique.
+
+- dispositions permettant de maintenir les opérations portuaires essentielles dans le cas d'activités d'importance vitale.
