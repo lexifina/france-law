@@ -4,10 +4,12 @@ Annexe non publiée.
 
 NOTA :
 
-(1) Ce plan peut être consulté:
+Conformément à l'article 3 du décret n° 2025-691 du 24 juillet 2025, le périmètre de l'installation est délimité par le plan annexé au décret précité (1), qui se substitue au plan annexé.
 
-- à la direction de la sûreté des installations nucléaires, 99, rue de Grenelle, 75353 Paris 07 SP;
+(1) Ce plan peut être consulté :
 
-- à la direction régionale de l'industrie, de la recherche et de l'environnement de la région Rhône-Alpes, 146, rue Pierre-Corneille, 69003 Lyon;
+− au siège de l'Autorité de sûreté nucléaire et de radioprotection (ASNR), 15, rue Louis-Lejeune, 92120 Montrouge ;
 
-- à la préfecture de la Drôme, 3, boulevard Vauban, 26030 Valence Cedex 9.
+− à la division territoriale de l'Autorité de sûreté nucléaire et de radioprotection (ASNR), 5, place Jules-Ferry, 69006 Lyon ;
+
+− à la préfecture de la Drôme, 3, boulevard Vauban, 26000 Valence.
