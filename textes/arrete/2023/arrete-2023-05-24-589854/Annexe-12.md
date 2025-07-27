@@ -44,9 +44,11 @@ Postes exigeant la mise en œuvre et la maintenance des aéronefs ou la certific
 
 - état-major de l'école de l'aviation légère de l'armée de terre (EALAT) ;
 
-- base école de l'aviation légère de l'armée de terre - 2e régiment d'hélicoptères de combat ;
+- base école-Général Lejay ;
 
-- base école - 2e régiment d'hélicoptères de combat (centre de formation interarmées nh90) ;
+- base école-Général Navelet ;
+
+- centre de formation interarmées-NH90 ;
 
 - base école de l'aviation légère de l'armée de terre (EALAT), 6e régiment d'hélicoptères de combat ;
 
@@ -114,11 +116,17 @@ Postes exigeant la mise en œuvre et la maintenance des aéronefs ou la certific
 
 - antennes de ravitaillement technique aéronautique ;
 
-- bureaux d'interface des soutiens/maîtrise de l'activité (BIS/MA) ;
+- pôle opérations base des bases aériennes ;
+
+- pôle soutien base des bases aériennes ;
+
+- unités de commandement des bases aériennes ;
 
 - bureaux sécurité nucléaire ;
 
 - centre d'expertise armements embarqués (CEAE) ;
+
+- centre d'expertise aérienne militaire (CEAM) ;
 
 - centre d'expertise et d'instruction liaison données tactiques (CEILDT) de Mont de Marsan ;
 
@@ -176,8 +184,6 @@ Postes exigeant la mise en œuvre et la maintenance des aéronefs ou la certific
 
 - état-major de l'armée de l'air et de l'espace ;
 
-- groupements d'appui à l'activité (GAA).
-
 - groupe des ateliers techniques de Bordeaux-Mérignac et Romorantin ;
 
 - groupe entrepôt des matériels en approvisionnement de Romorantin ;
@@ -232,7 +238,11 @@ c) Service interarmées des munitions (SIMu) :
 
 - section munitions de Solenzara et section munitions de Fontvieille de l'établissement principal munitions (EPMu) Provence Méditerranée.
 
-d) DGA Essais en vol : sites d'Istres et de Cazaux.
+d) Direction générale de l'armement :
+
+- DGA Essais en vol : sites d'Istres et de Cazaux ;
+
+- DGA Ingénierie et projets.
 
 e) Direction de la sécurité aéronautique d'Etat (DSAE) :
 

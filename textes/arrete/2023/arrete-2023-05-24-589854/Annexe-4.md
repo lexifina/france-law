@@ -96,9 +96,13 @@ Postes désignés sur proposition du directeur ou le chef du service gestionnair
 
 - commandos parachutistes de l'air ;
 
-- 25e régiment du génie de l'air ;
+- 25e régiment du génie de l'air
 
-- groupements d'appui à l'activité des bases aériennes de Djibouti et outre-mer.
+-pôle opérations base des bases aériennes de Djibouti et outre-mer ;
+
+-pôle soutien base des bases aériennes de Djibouti et outre-mer ;
+
+-pôle défense sécurité base de la base aérienne de Djibouti.
 
 4° Autres unités :
 

@@ -76,7 +76,9 @@ Postes désignés sur proposition du directeur des ressources humaines de l'arm�
 
 -service logistique de la marine de Toulon ;
 
--commission permanente des programmes et des essais des bâtiments de la flotte.
+-commission permanente des programmes et des essais des bâtiments de la flotte ;
+
+-centre d'expertise des programmes navals (CEPN).
 
 2° Au titre de la mise en œuvre des armements nucléaires :
 
@@ -134,7 +136,7 @@ Postes désignés sur proposition du directeur des ressources humaines de l'arm�
 
 -état-major de la force d'action navale (ALFAN) ;
 
--porte-avions " Charles de Gaulle " ;
+-porte-avions Charles de Gaulle ;
 
 -service de soutien de la flotte (SSF) ;
 

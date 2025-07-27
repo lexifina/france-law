@@ -26,9 +26,9 @@ Postes exigeant la mise en œuvre de la compétence spécifique d'électronicien
 
 - état-major de l'école de l'aviation légère de l'armée de terre ;
 
-- base école de l'aviation légère de l'armée de terre, 2e régiment d'hélicoptères de combat ;
+- base école-Général Lejay ;
 
-- base école de l'aviation légère de l'armée de terre, 6e régiment d'hélicoptères de combat ;
+- base école-Général Navelet ;
 
 - école franco-allemande du Tigre ;
 

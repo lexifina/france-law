@@ -70,9 +70,9 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 
 - état-major de la 3e division ;
 
-- base école du 6e régiment d'hélicoptères de combat ;
+- base école-Général Navelet ;
 
-- base école du 2e régiment d'hélicoptères de combat ;
+- base école-Général Lejay ;
 
 - corps de réaction rapide - France (CRR-Fr) ;
 
@@ -146,7 +146,9 @@ Postes exigeant la mise en œuvre de la compétence spécifique de sécurité a�
 
 - centre d'expérimentations pratiques de l'aéronautique navale (CEPA/10S) et ses détachements ;
 
-- flottilles et escadrilles d'aéronefs et leurs détachements en métropole et outre-mer.
+- flottilles et escadrilles d'aéronefs et leurs détachements en métropole et outre-mer ;
+
+- centre d'expertise hélicoptères (CENTEX HELICO).
 
 3.1.3. Force d'action navale
 
