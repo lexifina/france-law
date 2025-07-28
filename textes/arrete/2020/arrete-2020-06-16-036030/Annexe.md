@@ -784,7 +784,7 @@ Du 1er septembre 2024 au 31 août 2025 |
 
 Opération :
 
-Fermeture du bureau de Rouen-Energies dans le cadre de la création d'une cellule &laquo; Energies &raquo; au bureau de Rouen port
+Fermeture du bureau de Rouen-Energies dans le cadre de la création d'une cellule Energies au bureau de Rouen port
 
 Service concerné :
 
@@ -859,3 +859,15 @@ Service concerné :
 Cellule d'intervention spécialisée (CIS) de Nice |
 
 Du 1er mars 2025 au 31 août 2026 |
+
+Opération :
+
+Déménagement de la direction régionale de Mayotte
+
+Services concernés :
+
+Services de la direction régionale de Mayotte
+
+|
+
+Du 1er août 2025 au 28 février 2027 |
