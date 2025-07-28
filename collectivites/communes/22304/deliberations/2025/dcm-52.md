@@ -1,0 +1,11 @@
+# COMMUNE DE SAINT JEAN KERDANIEL : délibération DCM_52 — TARIFICATION FORFAITAIRE POUR LA LOCATION DE LA SALLE DES FETE 2025-2026  ASSOCIATION LOISIR DETENTE DE GOUDELIN
+
+- Collectivité : COMMUNE DE SAINT JEAN KERDANIEL
+- SIRET : 21220304600017
+- Code INSEE : 22304
+- Date : 2025-07-28
+- Matière : 3.3 Domaine et patrimoine/Locations
+- Objet : TARIFICATION FORFAITAIRE POUR LA LOCATION DE LA SALLE DES FETE 2025-2026  ASSOCIATION LOISIR DETENTE DE GOUDELIN
+- Transmis à la préfecture : 2025-07-29
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212203046/Deliberation/2025/916569/75482b2fa97ea4525b02ec33c8add9b7fb29dd7aabb3e6b8d2a9068d00d62643.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
