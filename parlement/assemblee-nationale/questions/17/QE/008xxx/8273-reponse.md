@@ -1,0 +1,9 @@
+# Réponse à la question n° 8273
+
+- Question : [8273](8273.md) — Question n° 8273 — Retrait de la Légion d'honneur à un soutien affiché du terrorisme islamiste
+
+## Réponse
+
+*JO du 2025-07-29, page 6812*
+
+À la différence des Français, les étrangers distingués dans la Légion d'honneur ou l'ordre national du Mérite ne sont jamais membres de l'Ordre. En matière disciplinaire, la seule sanction qui leur est applicable est le retrait de la distinction. Le retrait est de droit en cas de condamnation définitive par une juridiction française pour crime ou à une peine d'au moins une année d'emprisonnement sans sursis. Dans les autres cas, un acte ou un comportement contraire à l'honneur ou de nature à nuire aux intérêts de la France à l'étranger ou aux causes qu'elle soutient dans le monde peut justifier une procédure disciplinaire. Cette procédure est instruite par la grande chancellerie de la Légion d'honneur, qui doit obligatoirement recueillir l'avis du ministre des affaires étrangères, autorité à l'origine de la proposition de nomination d'un étranger, la décision finale de retrait ou de maintien de la décoration revenant au seul président de la République, grand maître des ordres nationaux. Il convient de distinguer le cas particulier des décorations accordées aux chefs d'État et de gouvernement, ainsi qu'à leurs collaborateurs, qui relèvent d'une décision directe du grand maître pour l'attribution comme pour le retrait, et qui sont généralement accordées à l'occasion de visites d'État. Instrument puissant à la main de la diplomatie française depuis la création de la Légion d'honneur, la distinction dans les ordres nationaux et son retrait servent avant tout des objectifs politiques de long terme, qui sont pris en compte dans la décision de sanctionner ou non un étranger ou de ne pas rendre immédiatement publique la sanction. Ainsi, toute décision en la matière fait l'objet d'une étude précise et d'un examen attentif au plus haut niveau.
