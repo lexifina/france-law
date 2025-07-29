@@ -1,0 +1,9 @@
+# Réponse à la question n° 5601
+
+- Question : [5601](5601.md) — Question n° 5601 — Restauration du château Desandrouin et du Temple de l'amour à Fresnes-sur-Escaut
+
+## Réponse
+
+*JO du 2025-07-29, page 6827*
+
+Le ministère de la culture poursuit une politique volontariste de soutien en faveur de la conservation du patrimoine, qui passe à la fois par sa protection au titre des monuments historiques et par l'entretien et la restauration des monuments protégés, auxquels il consacre en 2025 près de 300 millions d'euros. Au sein de la direction régionale des affaires culturelles des Hauts-de-France, la conservation régionale des monuments historiques est mobilisée depuis des années sur les dossiers patrimoniaux de la commune de Fresnes-sur-Escaut et entretient des relations constructives avec l'équipe municipale. Concernant le château Desandrouin et le temple de l'Amour, une étude de potentiel a été commandée en 2020 pour identifier les besoins de la commune et du territoire, accompagnée d'une mission d'assistance à maître d'ouvrage pour proposer des scenarii de réhabilitation du château et de son parc. Les services de l'État se sont par ailleurs mobilisés pour faire aboutir une inscription au titre des monuments historiques des façades et des toitures du château ainsi que de la totalité du parc avec ses fabriques, par arrêté du 29 avril 2024. Cette protection au titre des monuments historiques permet, sous certaines conditions, aux propriétaires de ces biens de bénéficier de subventions du ministère de la culture pour leur conservation. Les crédits consacrés par le ministère à l'entretien et à la restauration des seuls monuments historiques appartenant à des collectivités locales ou à des propriétaires privés, en augmentation depuis 3 ans, ont représenté, en 2024, 190 millions d'euros en autorisations d'engagement (AE) et 176 millions d'euros en crédits de paiement (CP).
