@@ -1,0 +1,9 @@
+# Réponse à la question n° 4418
+
+- Question : [4418](4418.md) — Question n° 4418 — Aides à la garde d'enfants de plus de six ans
+
+## Réponse
+
+*JO du 2025-07-29, page 6903*
+
+Afin de réduire les dépenses des ménages liées aux frais de garde notamment pour leurs enfants de plus de six ans, plusieurs dispositifs d'aides versées par les caisses d'allocations familiales existent. Le premier dispositif est relatif au co-financement par la branche famille des accueils de loisirs sans hébergement pendant l'année scolaire, avant ou après les heures de classe, pendant la pause du déjeuner, le mercredi ou encore le samedi, pendant les congés des petites et grandes vacances scolaires. Ce sont ainsi 1,4 Md d'euros qui sont financés en 2024 par la branche famille pour permettre à ces services essentiels de fonctionner. Le second dispositif relatif à l'extension du Complément de libre choix du mode de garde (CMG) jusqu'aux 12 ans de l'enfant pour les familles monoparentales qui emploient directement un assistant maternel ou une garde d'enfant à domicile entrera en vigueur au 1er septembre 2025 afin d'apporter un soutien décisif à ces dernières où les enjeux de garde peuvent être un obstacle à l'activité professionnelle quel que soit l'âge de l'enfant. Par ailleurs, la réforme du calcul du CMG permettra à partir de la même date de prendre en compte chaque heure de garde nécessaire (l'ancien système étant quant à lui forfaitaire). Elle supprime ainsi le besoin d'un bonus pour les enfants âgés de 0 à 3 ans par rapport à ceux âgés de 3 à 6 ans. En effet, le fait qu'un enfant de plus de 3 ans soit le plus souvent à l'école maternelle et avec moins d'heure de garde en journée sera désormais automatiquement pris en compte par le nouveau mode de calcul en s'adaptant mieux aux besoins de chaque famille.
