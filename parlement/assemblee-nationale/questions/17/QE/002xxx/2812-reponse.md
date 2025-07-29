@@ -1,0 +1,9 @@
+# Réponse à la question n° 2812
+
+- Question : [2812](2812.md) — Question n° 2812 — Avenir incertain de l'hospitalisation à domicile (HAD)
+
+## Réponse
+
+*JO du 2025-07-29, page 6855*
+
+L'Hospitalisation à domicile (HAD) est une activité qui bénéficie d'un soutien fort, y compris du point de vue financier, de la part des pouvoirs publics. Elle est devenue une activité de soin à part entière depuis 2023, marquant ainsi l'importance que l'on accorde à cette modalité de prise en charge en pleine expansion (+ 20 % en quatre ans), qui permet de proposer au patient des soins de qualité à domicile. Elle est au cœur d'expérimentations notamment pour soutenir le développement des chimiothérapies à domicile. La reconnaissance de l'HAD en tant qu'activité de soins a impliqué une refonte des conditions techniques de fonctionnement ainsi que des conditions d'implantation que les structures doivent respecter pour exercer une activité d'HAD. Cette révision a été conduite en lien avec tous les acteurs de la démocratie sanitaire : les fédérations hospitalières et notamment la fédération nationale des établissements d'HAD, les Agences régionales de santé (ARS), les professionnels de santé… La mise en œuvre de la réforme des autorisations est attentivement accompagnée par le ministère et les ARS partout en France. Pour l'HAD comme pour toutes les activités de soins, lorsqu'une structure, au regard des besoins de son territoire d'implantation et des dossiers des différents candidats, n'obtient pas le renouvellement de l'autorisation dont elle disposait, l'ARS veille à assurer une continuité des prises en charge des patients et un accompagnement des professionnels de la structure le cas échéant. Il faut souligner que les demandes d'autorisation font l'objet d'un avis de la commission spécialisée de l'offre de soins, qui réunit les différentes parties prenantes à l'échelle régionale.
