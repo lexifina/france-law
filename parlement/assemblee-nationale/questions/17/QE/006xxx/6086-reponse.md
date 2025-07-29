@@ -1,0 +1,9 @@
+# Réponse à la question n° 6086
+
+- Question : [6086](6086.md) — Question n° 6086 — Réduction des crédits alloués au dispositif Pass Culture
+
+## Réponse
+
+*JO du 2025-07-29, page 6830*
+
+Le ministère de la culture mène de nombreuses actions visant à soutenir la pratique culturelle et notamment l'accès de toutes et tous, sur tous les territoires, à des événements culturels tels que les festivals. La réforme de la part individuelle du pass Culture vise à son appropriation réelle par tous, pour accéder à la diversité des propositions culturelles. Avec 200 à 250 euros, le pass Culture français est, parmi les dix pass Culture existant en Europe, le seul à ce niveau de crédit tout en étant universel. Il faut rappeler que les crédits alloués avant 17 ans étaient peu utilisés et encore moins sur le spectacle vivant : la disparition d'un crédit individuel à 15 ans ou 16 ans ne peut affecter significativement la fréquentation des festivals. En revanche, l'évolution de l'éditorialisation, la valorisation des démarches de médiation, l'encouragement de l'implication des jeunes et de la recommandation entre pairs, et la coopération renforcée avec les acteurs culturels et les acteurs de l'éducation populaire et de la solidarité, doivent dynamiser la capacité du dispositif à générer des découvertes culturelles pour les jeunes, au-delà de leurs pratiques habituelles. De même, l'accessibilité à toutes et tous de certaines fonctionnalités liées à la géolocalisation de l'application, expérimentée en région Grand Est, est de nature à renouveler les publics, et notamment des festivals. La réforme du pass Culture, engagée le 1er mars de cette année, est encore trop récente pour pouvoir mesurer l'effet de cet ensemble de mesures. Le ministère de la culture suivra avec attention les effets de cette réforme sur les comportements des jeunes dans l'utilisation de leur crédit, ainsi que ses incidences sur l'économie des acteurs culturels.
