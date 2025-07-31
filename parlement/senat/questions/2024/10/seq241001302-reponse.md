@@ -1,0 +1,9 @@
+# Réponse à la question SEQ241001302
+
+- Question : [SEQ241001302](seq241001302.md) — Report de l'âge de la retraite des médecins territoriaux
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-07-31, page 4362*
+
+L'article L. 556-1 du code général de la fonction publique (CGFP) prévoit que le fonctionnaire ne relevant pas de la catégorie active est soumis à une limite d'âge fixée à soixante-sept ans. Par exception à cette limite d'âge, ces fonctionnaires peuvent sur autorisation être maintenus en fonction jusqu'à l'âge de soixante-dix ans. Les médecins territoriaux, qui relèvent de la catégorie sédentaire, sont donc soumis à ce titre aux dispositions de cet article. Dès lors, conformément aux dispositions des articles L. 556-1, L. 556-2, L. 556-3 et L. 556-5 du code général de la fonction publique, les médecins territoriaux peuvent poursuivre leur activité au-delà de soixante-sept ans s'ils remplissent les conditions relatives soit au recul de la limite d'âge au titre d'un enfant à charge (dans la limite de trois ans), soit pour les parents d'au moins trois enfants ou si la durée des services est inférieure à celle définie à l'article L. 13 du code des pensions civiles et militaires de retraite. Afin de répondre à la situation de désertification médicale croissante, l'article 138 modifié de la loi n° 2004-806 du 9 août 2004 relative à la politique de santé publique prévoit que les médecins en retraite peuvent demander, dans le cadre du dispositif du cumul emploi retraite, à effectuer des vacations au sein des centres de santé gérés par les collectivités territoriales ou leurs groupements. Dans cette hypothèse, la limite d'âge est fixée à titre transitoire à soixante-quinze ans jusqu'au 31 décembre 2035. Ces dispositions sont de nature à répondre à la volonté des médecins en retraite de continuer l'exercice de leurs fonctions et ainsi à la situation de pénurie des médecins, notamment dans les EHPAD.
