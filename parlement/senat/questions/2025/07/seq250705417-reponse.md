@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705417
+
+- Question : [SEQ250705417](seq250705417.md) — Prise en charge des pièces automobiles usagées
+
+## Réponse
+
+*Transition écologique, biodiversité, forêt, mer et pêche, JO du 2025-07-31, page 4387*
+
+La collecte des pièces détachées des véhicules est encadrée par le droit de l'Union européenne. L'article R. 543-156-1 du code de l'environnement, issu de la transposition de l'article 5 de la directive du 18 septembre 2020 relative aux véhicules hors d'usage, prévoit la possibilité pour les opérateurs concernés (producteurs de véhicules, équipementiers, assureurs, centres de véhicules hors d'usage, professionnels de la réparation et d'entretien automobiles) de mettre en place un système de collecte des déchets de pièces issus des opérations de réparation ou d'entretien de ces véhicules. Les opérateurs n'ont pas mis en place un dispositif de collecte organisé au niveau national. Mais des initiatives locales sont possibles. Il n'existe pas à ce jour de registre national sur la récupération des pièces automobiles auprès des garagistes. Les acteurs, éco-organisme et systèmes individuels, qui ont été agréés dans le cadre de la filière à responsabilité élargie des producteurs des véhicules n'ont pas proposé de dispositif de ce type dans le cadre de leurs dossiers d'agrément. Le projet de règlement européen sur les exigences de circularité applicables à la conception des véhicules et au traitement des véhicules hors d'usage, en cours de négociation à Bruxelles, prévoit dans sa dernière version que les producteurs devront assurer "la collecte des pièces détachées usagées provenant des réparations des véhicules". Les obligations des producteurs seront renforcées dans le cadre de la future législation européenne. La question de la mise en place d'un système obligatoire de collecte de ces pièces par les producteurs sera examinée dans le cadre de la transposition du règlement, envisagée à ce stade à l'horizon 2026.
