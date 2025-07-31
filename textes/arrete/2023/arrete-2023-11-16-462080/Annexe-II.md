@@ -1,589 +1,117 @@
 # Article Annexe II
 
-ANNEXE II
+FORMATION DE SPÉCIALITÉ
 
-BARÈME DES ÉPREUVES SPORTIVES
+I.-PROGRAMME ET ÉPREUVES PAR SPÉCIALITÉ
 
-NOTE |
+1. Spécialité " appui opérationnel transverse "
 
-3 000 MÈTRES COURSE |
+1.1. Le programme
 
-APPUIS FACIAUX |
+-les fonctions opérationnelles et de soutien ;
 
-TRACTIONS |
+-la chancellerie ;
 
-ABDOMINAUX |
+-la gestion des ressources humaines ;
 
-Masculin |
+-la solde ;
 
-Féminin |
+-les pensions ;
 
-Masculin |
+-la commande publique ;
 
-Féminin |
+-les finances publiques ;
 
-Masculin |
+-la gestion du matériel ;
 
-Féminin |
+-bureautique et logiciels ;
 
-Masculin |
+-les affaires immobilières ;
 
-Féminin |
+-les progiciels de la gendarmerie départementale.
 
-20 |
+1.2. Les épreuves
 
-< 11'00 |
+Les épreuves de la formation de spécialité " appui opérationnel transverse " peuvent couvrir la totalité du programme et comprennent un ensemble d'épreuves de contrôle continu (coefficient 54).
 
-< 15'00 |
+2. Spécialité " auto-engins blindés "
 
-40 |
+2.1. Le programme
 
-25 |
+-la technique automobile ;
 
-14 |
+-l'environnement administratif et réglementaire.
 
-13 |
+2.2. Les épreuves
 
-50 |
+Les épreuves de la formation de spécialité " auto-engins blindés " peuvent couvrir la totalité du programme et comprennent un ensemble d'épreuves de contrôle continu (coefficient 54).
 
-40 |
+3. Spécialité " affaires immobilières "
 
-19,5 |
+3.1. Le programme
 
-11'15 |
+-la maîtrise d'ouvrage ;
 
-15'04 |
+-l'administration et les finances ;
 
-39 |
+-la maîtrise d'œuvre ;
 
-|
+-l'ingénierie et le dimensionnement des ouvrages ;
 
-|
+-la sécurité et santé au travail ;
 
-|
+-la politique immobilière, G2GAI ;
 
-49 |
+-les projets et synthèses.
 
-35 |
+3.2. Les épreuves
 
-19 |
+Les épreuves de la formation de spécialité " affaires immobilières " peuvent couvrir la totalité du programme et comprennent un ensemble d'épreuves de contrôle continu (coefficient 54).
 
-11'30 |
+4. Spécialité " restauration hôtellerie loisirs "
 
-15'12 |
+4.1. Le programme
 
-38 |
+-budget ;
 
-24 |
+-réglementation restauration hôtellerie loisirs ;
 
-13 |
+-méthode HACCP ;
 
-12 |
+-sécurité santé au travail.
 
-48 |
+4.2. Les épreuves
 
-34 |
+Les épreuves de la formation de spécialité " restauration hôtellerie loisirs " peuvent couvrir la totalité du programme et comprennent des évaluations certificatives et des contrôles continus (coefficient 54).
 
-18,5 |
+L'obtention d'une note inférieure à 8 sur 20 aux épreuves de budget et de méthode HACCP est éliminatoire.
 
-11'45 |
+5. Spécialité " armurerie pyrotechnie "
 
-15'20 |
+5.1. Le programme
 
-37 |
+-domaine commun armement-pyrotechnie ;
 
-|
+-domaine armement-balistique-NRBC-optique ;
 
-|
+-domaine pyrotechnie ;
 
-|
+-domaine gestion et comptabilité des matériels ;
 
-47 |
+-domaine activités professionnelles bureautique et informatique.
 
-33 |
+5.2. Les épreuves
 
-18 |
+Les épreuves de la formation de spécialité " armurerie pyrotechnie " peuvent couvrir la totalité du programme et comprennent un ensemble d'épreuves de contrôle continu (coefficient 54).
 
-12'00 |
+II.-NOTE MOYENNE DE FIN DE FORMATION DE SPÉCIALITÉ
 
-15'28 |
+A l'issue de la formation de spécialité, les élèves font l'objet d'une note moyenne comprenant :
 
-36 |
+-la moyenne de l'ensemble des notes obtenues aux épreuves de la formation de spécialité (coefficient 54) ;
 
-23 |
+-la note d'aptitude arrêtée à l'issue de la formation de spécialité (coefficient 6).
 
-12 |
+NOTA :
 
-11 |
-
-46 |
-
-32 |
-
-17,5 |
-
-12'20 |
-
-15'36 |
-
-35 |
-
-|
-
-|
-
-|
-
-45 |
-
-31 |
-
-17 |
-
-12'40 |
-
-15'44 |
-
-34 |
-
-22 |
-
-11 |
-
-10 |
-
-44 |
-
-30 |
-
-16,5 |
-
-13'00 |
-
-15'52 |
-
-33 |
-
-|
-
-|
-
-|
-
-43 |
-
-29 |
-
-16 |
-
-13'20 |
-
-16'00 |
-
-32 |
-
-21 |
-
-10 |
-
-09 |
-
-42 |
-
-28 |
-
-15,5 |
-
-13'40 |
-
-16'10 |
-
-31 |
-
-|
-
-|
-
-|
-
-41 |
-
-27 |
-
-15 |
-
-14'00 |
-
-16'20 |
-
-30 |
-
-20 |
-
-09 |
-
-08 |
-
-40 |
-
-26 |
-
-14,5 |
-
-14'06 |
-
-16'30 |
-
-29 |
-
-|
-
-|
-
-|
-
-39 |
-
-25 |
-
-14 |
-
-14'12 |
-
-16'40 |
-
-28 |
-
-19 |
-
-08 |
-
-07 |
-
-38 |
-
-24 |
-
-13,5 |
-
-14'18 |
-
-16'50 |
-
-27 |
-
-|
-
-|
-
-|
-
-37 |
-
-23 |
-
-13 |
-
-14'24 |
-
-17'00 |
-
-26 |
-
-18 |
-
-07 |
-
-06 |
-
-36 |
-
-22 |
-
-12,5 |
-
-14'30 |
-
-17'10 |
-
-25 |
-
-|
-
-|
-
-|
-
-35 |
-
-21 |
-
-12 |
-
-14'36 |
-
-17'20 |
-
-24 |
-
-17 |
-
-06 |
-
-05 |
-
-34 |
-
-20 |
-
-11,5 |
-
-14'42 |
-
-17'30 |
-
-23 |
-
-|
-
-|
-
-|
-
-33 |
-
-19 |
-
-11 |
-
-14'48 |
-
-17'40 |
-
-22 |
-
-16 |
-
-05 |
-
-04 |
-
-32 |
-
-18 |
-
-10,5 |
-
-14'54 |
-
-17'50 |
-
-21 |
-
-|
-
-|
-
-|
-
-31 |
-
-16 |
-
-10 |
-
-15'00 |
-
-18'00 |
-
-20 |
-
-15 |
-
-04 |
-
-03 |
-
-30 |
-
-15 |
-
-9 |
-
-15'30 |
-
-18'30 |
-
-19 |
-
-14 |
-
-|
-
-|
-
-29 |
-
-14 |
-
-8 |
-
-16'00 |
-
-19'00 |
-
-18 |
-
-12 |
-
-03 |
-
-- |
-
-28 |
-
-12 |
-
-7 |
-
-16'30 |
-
-19'30 |
-
-17 |
-
-10 |
-
-|
-
-|
-
-27 |
-
-11 |
-
-6 |
-
-17'00 |
-
-20'00 |
-
-16 |
-
-09 |
-
-02 |
-
-02 |
-
-26 |
-
-10 |
-
-5 |
-
-17'30 |
-
-20'30 |
-
-15 |
-
-08 |
-
-|
-
-|
-
-25 |
-
-8 |
-
-4 |
-
-18'00 |
-
-21'00 |
-
-13 |
-
-07 |
-
-01 |
-
-01 |
-
-23 |
-
-6 |
-
-3 |
-
-18'30 |
-
-21'30 |
-
-11 |
-
-06 |
-
-00 |
-
-00 |
-
-21 |
-
-5 |
-
-2 |
-
-19'00 |
-
-22'00 |
-
-9 |
-
-05 |
-
-00 |
-
-00 |
-
-19 |
-
-4 |
-
-1 |
-
-19'30 |
-
-23'00 |
-
-7 |
-
-04 |
-
-00 |
-
-00 |
-
-17 |
-
-3 |
-
-0 |
-
-> 19'30 |
-
-> 23'00 |
-
-< 7 |
-
-< 04 |
-
-00 |
-
-00 |
-
-< 17 |
-
-< 3 |
+Conformément à l'article 17 de l'arrêté du 24 juillet 2025 (NOR : INTJ2519595A), ces dispositions, dans leur rédaction résultant dudit arrêté, sont applicables aux candidats admis en formation postérieurement à la date de son entrée en vigueur.
