@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250605256
+
+- Question : [SEQ250605256](seq250605256.md) — Arrêt du procès-verbal des séances du conseil municipal
+
+## Réponse
+
+*Aménagement du territoire et décentralisation , JO du 2025-07-31, page 4365*
+
+Le procès-verbal a pour objet d'établir et de conserver la mémoire du déroulement (par exemple : discussions, débats, interruption de séance…) et des décisions des séances des assemblées délibérantes des collectivités territoriales et de leurs groupements. L'ordonnance n° 2021-1310 du 7 octobre 2021, entrée en vigueur le 1er juillet 2022, précise le contenu et les modalités de publicité et de conservation du procès-verbal. Ainsi, le troisième alinéa de l'article L. 2121-15 du code général des collectivités territoriales prévoit que « Le procès-verbal de chaque séance, rédigé par le ou les secrétaires, est arrêté au commencement de la séance suivante, et signé par le maire et le ou les secrétaires. » Comme précisé dans la fiche « Le procès-verbal des assemblées délibérantes » mise en ligne sur le site internet de la direction générale des collectivités locales afin d'accompagner les collectivités territoriales et leurs groupements dans la mise en oeuvre de l'ordonnance précitée, le procès-verbal doit être arrêté ce qui signifie qu'il doit être validé, la réforme ne prévoyant aucun formalisme particulier à cet arrêt. La foire aux questions « Réforme des règles de publicité, d'entrée en vigueur et de conservation des actes pris par les collectivités territoriales et leurs groupements » publiée, mise à jour en novembre 2024, indique ainsi qu'« Arrêter un procès-verbal signifie qu'il est soumis à l'approbation des élus présents au commencement de la séance suivante, après prise en compte éventuelle de leurs remarques. Aucun formalisme particulier n'est prévu en la matière par le CGCT. Un vote n'est pas obligatoire. »
