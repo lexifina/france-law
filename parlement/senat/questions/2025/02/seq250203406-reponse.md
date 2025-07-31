@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250203406
+
+- Question : [SEQ250203406](seq250203406.md) — Développement des xénogreffes en France
+
+## Réponse
+
+*Santé et accès aux soins, JO du 2025-07-31, page 4382*
+
+La xénogreffe, ou xénotransplantation, consiste à greffer chez l'être humain un organe en provenance d'une autre espèce animale, le plus fréquemment de porcs, avec lesquels nous partageons de nombreuses similarités morphologiques et physiologiques. Le développement des techniques d'édition du génome permet de rendre des porcs immunologiquement compatibles avec l'être humain et de prévenir les rejets hyperaigus des greffons. Entre 2021 et 2024, neuf xénogreffes de coeur, rein et foie ont été réalisées sur des patients décédés, essentiellement aux Etats-Unis, et cinq xénotransplantations ont été réalisées sur des patients vivants à travers le monde. Ce type de greffes suscite des espoirs en France, au sein des associations de patients spécialisées notamment, du fait de l'insuffisance du nombre de greffons disponibles. La xénogreffe pose néanmoins d'importantes questions d'ordre juridique et éthique, qui expliquent qu'elle n'ait pas encore atteint le stade de la recherche clinique dans notre pays. Le sujet avait été abordé lors des états généraux de la bioéthique ayant préfiguré la loi éponyme du 2 août 2021. Il le sera très probablement à nouveau dans la perspective de la prochaine révision des lois de bioéthique françaises à horizon 2028. L'ensemble des acteurs de la chaîne du prélèvement et de la greffe est mobilisé, dans le cadre de la mise en oeuvre du plan ministériel ad hoc adopté pour la période 2022-2026, pour augmenter le nombre de donneurs et donc de greffons disponibles, au bénéfice des patients receveurs. Ainsi, en 2024, l'activité de greffe a augmenté plus vite (+7,1 %) que le nombre d'inscrits actifs sur la liste nationale d'attente (+5,5 %). Le nombre de décès de personnes inscrites en liste d'attente a par ailleurs baissé de 9,8 %.
