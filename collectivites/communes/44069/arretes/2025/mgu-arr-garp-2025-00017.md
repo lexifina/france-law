@@ -1,0 +1,12 @@
+# GUERANDE : arrêté MGU_arr_GARP_2025_00017 — Permanent - Intersection Stop RUE DES PETITS TOITS ...
+
+- Collectivité : GUERANDE
+- SIREN : 214400699
+- Code INSEE : 44069
+- Date : 2025-08-01
+- Nature : Temporaire
+- Matière : Libertés publiques et Pouvoirs de police
+- Objet : Permanent - Intersection Stop RUE DES PETITS TOITS ...
+- Publié / affiché : 2025-08-01
+- Acte publié : https://opendata.cap-atlantique.fr:4333/diffusion/arrete/fichier/MGU_arr_GARP_2025_00017-sign.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/62ba458f12b851ef86a1f848
