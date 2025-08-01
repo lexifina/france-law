@@ -198,8 +198,6 @@ UNITÉS, ORGANISMES ET EMPLOIS OUVRANT DROIT À LA PRIME DE COMPÉTENCES SPÉCIF
 
 - 41e régiment de transmissions ;
 
-- 807e compagnie de transmissions ;
-
 - 18e régiment de transmissions ;
 
 - 28e groupe géographique ;
