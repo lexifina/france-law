@@ -2,7 +2,7 @@
 
 ANNEXE I
 
-NOMBRE MAXIMAL D'EMPLOIS OUVRANT DROIT, PAR CATÉGORIE, À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE
+OMBRE MAXIMAL D'EMPLOIS OUVRANT DROIT, PAR CATÉGORIE, À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE
 
 CATÉGORIE |
 
@@ -10,32 +10,32 @@ NOMBRE MAXIMAL D'EMPLOI |
 
 Catégorie I |
 
-105 |
+108 |
 
 Catégorie II |
 
-290 |
+286 |
 
 Catégorie III |
 
-522 |
+490 |
 
 Catégorie IV |
 
-590 |
+593 |
 
 Catégorie V |
 
-631 |
+641 |
 
 Catégorie VI |
 
-691 |
+696 |
 
 Catégorie VII |
 
-3931 |
+3997 |
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 6 décembre 2023 (NOR : IOMJ2325366A), ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l’article 2 de l’arrêté du 27 juin 2025 (NOR : INTJ2518633A), ces dispositions entrent en vigueur le 1er août 2025.
