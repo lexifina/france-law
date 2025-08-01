@@ -10,7 +10,7 @@ A. Epreuves d'admissibilité
 
 2° Composition française sur un sujet se rapportant à une question de littérature générale et comparée au programme. Le corpus d'œuvres lié à cette question peut comporter une œuvre cinématographique (durée : sept heures ; coefficient 4).
 
-3° Etude grammaticale d'un texte de langue française antérieur à 1500 et d'un texte de langue française postérieur à 1500, extraits des œuvres inscrites au programme (durée : quatre heures ; coefficient 3).
+3° Etude grammaticale d'un texte de langue française antérieur à 1500 et d'un texte de langue française postérieur à 1500, extraits des œuvres inscrites au programme. Chaque étude grammaticale compte pour moitié de la notation. (durée : quatre heures ; coefficient 3).
 
 B. Epreuves d'admission
 
@@ -300,7 +300,7 @@ L'épreuve doit permettre au jury d'apprécier l'aptitude du candidat à :
 
 Le programme des épreuves d'admissibilité et d'admission fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
-Section biochimie-génie biologique
+Section biochimie-biologie-biotechnologie
 
 A. Epreuves d'admissibilité
 

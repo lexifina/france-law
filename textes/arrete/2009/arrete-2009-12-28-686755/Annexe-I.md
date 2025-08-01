@@ -560,17 +560,17 @@ Les textes à traduire sont distribués simultanément aux candidats au début d
 
 B. - Epreuves orales d'admission
 
-1° Leçon en langue italienne sur une question se rapportant au programme, suivie d'un entretien en langue italienne avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante-cinq minutes [leçon : quarante minutes ; entretien : quinze minutes] ; coefficient 6).
+1° Leçon en langue italienne sur une question se rapportant au programme, suivie d'un entretien en langue française avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante-cinq minutes [leçon : quarante minutes ; entretien : quinze minutes] ; coefficient 6).
 
 Un dictionnaire en langue italienne, indiqué par le jury, est mis à la disposition du candidat.
 
-2° Leçon en langue française sur une question se rapportant au programme, suivie d'un entretien en langue française avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante-cinq minutes [leçon : quarante minutes ; entretien : quinze minutes] ; coefficient 6).
+2° Leçon en langue française sur une question se rapportant au programme, suivie d'un entretien en langue italienne avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante-cinq minutes [leçon : quarante minutes ; entretien : quinze minutes] ; coefficient 6).
 
 3° Explication en langue française d'un texte italien du Moyen Age ou de la Renaissance, inscrit au programme, complétée par :
 
 -la traduction de tout ou partie du texte et une interrogation de linguistique historique sur ce même texte ;
 
--la traduction en français d'un texte latin inscrit au programme, suivie d'un bref commentaire d'un point de grammaire choisi par le jury et portant sur ce même texte (durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
+-une question de grammaire historique en latin, en français et en italien (durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
 
 Un dictionnaire en langue italienne et un dictionnaire latin-français, indiqués par le jury, sont mis à la disposition du candidat.
 
@@ -852,7 +852,7 @@ B. - Epreuves orales et pratiques d'admission
 
 3° Montage de physique composé d'expériences illustrant l'enseignement donné à tous les niveaux dans les lycées d'enseignement général et technologique (coefficient 3).
 
-Le candidat doit choisir l'un des deux montages qui lui sont proposés. A l'issue de cette épreuve, le jury peut interroger le candidat sur le sujet qu'il a choisi.
+A l'issue de cette épreuve, le jury peut interroger le candidat sur le sujet qu'il a choisi.
 
 Chacune des épreuves orales et pratiques d'admission a lieu après quatre heures de préparation surveillée.
 
@@ -1302,21 +1302,67 @@ Les dossiers doivent être déposés au secrétariat du jury cinq jours francs a
 
 Préparation des moyens de l'exposé : trente minutes. Durée de l'épreuve : une heure (présentation n'excédant pas trente minutes ; entretien avec le jury : trente minutes) ; coefficient 2.
 
-Section biochimie - génie biologique
+Section biochimie-biologie-biotechnologie
 
 A. - Epreuves écrites d'admissibilité
 
-1° Composition de biochimie (durée : six heures ; coefficient 2).
+1° Epreuve écrite de biochimie et biologie des micro-organismes
 
-2° Composition de microbiologie (durée : six heures ; coefficient 2).
+L'épreuve prend la forme d'une composition écrite. Le sujet propose une problématique portant sur une ou plusieurs thématiques de biochimie et biologie des microorganismes.
 
-3° Composition de biologie cellulaire et physiologie (durée : six heures ; coefficient 2).
+Le sujet fait appel à des savoirs scientifiques, fondamentaux et technologiques, figurant dans le programme en vigueur aux chapitres suivants : chimie, biochimie structurale et métabolique, biologie moléculaire, immunologie, microbiologie générale et appliquée.
+
+L'épreuve a pour but d'évaluer la capacité du candidat ou de la candidate à répondre à la problématique posée en mobilisant et en synthétisant ses connaissances, en rédigeant un propos structuré et en argumentant de façon logique, claire et pertinente. Le propos est étayé par des exemples concrets décrits précisément et par des illustrations scientifiques, telles que des schémas, des représentations moléculaires, des équations chimiques, des tableaux.
+
+Durée : six heures.
+
+Coefficient 2 ;
+
+2° Epreuve écrite de biochimie et biologie des organismes pluricellulaires
+
+L'épreuve prend la forme d'une composition écrite. Le sujet propose une problématique portant sur une ou plusieurs thématiques de biochimie et biologie des organismes pluricellulaires et en particulier l'organisme humain.
+
+Le sujet fait appel à des savoirs scientifiques, fondamentaux et technologiques, figurant dans le programme en vigueur aux chapitres suivants : chimie, biochimie structurale et métabolique, biologie moléculaire, biologie cellulaire, physiologie et immunologie.
+
+L'épreuve a pour but d'évaluer la capacité du candidat ou de la candidate à répondre à la problématique posée en mobilisant et en synthétisant ses connaissances, en rédigeant un propos structuré et en argumentant de façon logique, claire et pertinente. Le propos est étayé par des exemples concrets décrits précisément et par des illustrations scientifiques, telles que des schémas, des représentations moléculaires, des équations chimiques, des tableaux.
+
+Durée : six heures.
+
+Coefficient 2 ;
+
+3° Epreuve écrite de biotechnologie
+
+L'épreuve écrite consiste à répondre, de manière argumentée à un questionnement scientifique, en particulier en biotechnologie. Ce questionnement prend appui sur un corpus composé notamment d'extraits de publications scientifiques et de documents techniques rédigés en langue française ou en langue anglaise.
+
+Le candidat est amené à expliquer les principes des méthodes et technologies mises en œuvre ainsi que leurs applications, à analyser des données expérimentales ou techniques. Le questionnement conduit à mettre en perspective les liens entre science, innovation et évolution biotechnologique. Enfin le candidat est amené à discuter l'apport des biotechnologies présentées au regard des préoccupations éthiques et des besoins sociétaux.
+
+L'épreuve a pour but d'évaluer les capacités du candidat à mobiliser ses connaissances et à s'approprier un corpus documentaire pour :
+
+-analyser et interpréter de manière critique des données ;
+
+-caractériser et évaluer une technologie ;
+
+-identifier la dimension d'innovation d'une technologie actuelle ;
+
+-discuter des enjeux sociétaux des biotechnologies.
+
+Durée : six heures.
+
+Coefficient 2.
 
 B. - Epreuves pratiques et orales d'admission
 
 1° Travaux pratiques de biochimie et/ou de physiologie (durée : quatre heures ; coefficient 2).
 
-2° Travaux pratiques de microbiologie (durée : quatre heures ; coefficient 2).
+2° Travaux pratiques de microbiologie. L'épreuve de travaux pratiques de microbiologie comporte deux parties réparties sur deux jours :
+
+-mise en œuvre d'expériences (durée : quatre heures) ;
+
+-analyse et interprétation des résultats (durée : deux heures).
+
+Durée totale : six heures.
+
+Coefficient 2.
 
 3° Travaux pratiques de chimie générale et analytique (durée : quatre heures ; coefficient 2).
 
@@ -1372,21 +1418,17 @@ L'épreuve consiste à répondre de façon structurée au sujet posé en se fond
 
 Durée : cinq heures ; coefficient 1.
 
-3° Etude de cas sur la gestion des entreprises et des organisations.¶
+3° Etude de cas sur la gestion des entreprises et des organisations.
 
-¶
+Cette épreuve consiste en l'étude d'une situation pratique relative au domaine de l'option choisie par le candidat.
 
-Cette épreuve consiste en l'étude d'une situation pratique relative au domaine de l'option choisie par le candidat.¶
-
-¶
-
-Durée : cinq heures ; coefficient 1.¶
+Durée : cinq heures ; coefficient 1.
 
 B. - Epreuves d'admission
 
 1° Leçon portant sur le management.
 
-Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : quarante minutes maximum ; entretien : vingt minutes maximum), coefficient 1.
+Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : trente minutes maximum ; entretien : trente minutes maximum), coefficient 1.
 
 L'épreuve consiste en la présentation d'une leçon en relation avec les programmes de management des lycées et des classes postbaccalauréat. Dans un cadre pédagogique et un contexte d'enseignement donnés, le candidat présente un projet de séquence pédagogique, intégrée dans une progression (leçon, séance de travaux dirigés, etc.). La présentation est suivie d'un entretien avec le jury au cours duquel le candidat est invité à justifier ses choix d'ordre didactique et pédagogique.
 
@@ -1396,11 +1438,11 @@ L'épreuve consiste en la présentation d'une leçon en relation avec les progra
 
 - soit sur l'économie.
 
-Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; coefficient 1.
+Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 1.
 
 3° Epreuve de cas pratique dans la spécialité correspondant à l'option choisie par le candidat.
 
-Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; coefficient 1.
+Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 1.
 
 Le programme des épreuves est publié sur le site internet du ministère chargé de l'éducation nationale.
 
@@ -1482,7 +1524,7 @@ B. - Epreuves d'admission
 
 A partir d'une situation relative au fonctionnement d'une organisation de santé, médico-sociale ou sociale, le candidat est conduit à analyser et à mettre en œuvre des méthodes caractérisant les démarches en santé et action sociale.
 
-L'épreuve se déroule sur poste informatique muni des logiciels indiqués au programme du concours.
+L'épreuve se déroule sur poste informatique muni des logiciels indiqués dans la bibliothèque du concours.
 
 Durée : cinq heures ; coefficient 3.
 
@@ -1522,21 +1564,7 @@ Durée : six heures ; coefficient 1.
 
 3° Epreuve spécifique.
 
-L'épreuve vise à permettre au candidat de faire la preuve de compétences et connaissances de niveau master dans l'un des grands champs de l'informatique que sont le développement d'une application à partir d'un cahier des charges et les fondements de l'informatique.
-
-Le candidat a le choix entre un sujet proposant une étude de cas informatique ou un sujet portant sur les fondements de l'informatique. Le choix est formulé au moment de l'inscription au concours.
-
-a) Etude de cas informatique : à partir d'un dossier présentant le cahier des charges de développement d'une application, le traitement du sujet doit permettre de vérifier la capacité du candidat à maîtriser l'ensemble des problématiques associées à l'application pouvant aller de l'analyse à la conception, du traitement des données et l'étude des infrastructures attenantes.
-
-b) Fondements de l'informatique : le traitement du sujet doit permettre de vérifier, au travers de la résolution d'un problème et/ou de questions spécifiques, la maîtrise de concepts avancés d'informatique fondamentale et la capacité à les manipuler rigoureusement, à les relier entre eux et connaître leurs applications à des problématiques concrètes.
-
-Durée : six heures ; coefficient 1.
-
-Les épreuves 1° et 2° d'admissibilité portent sur les programmes d'enseignement de la spécialité numérique et sciences informatiques (NSI) du cycle terminal de la voie générale du lycée, ceux des classes préparatoires scientifiques aux grandes écoles mathématiques, physique, ingénierie et informatique (MP2I) et mathématiques, physique, informatique (MPI), auxquels s'ajoute un programme complémentaire publié sur le site internet du ministère chargé de l'éducation nationale.
-
 L'épreuve 3° d'admissibilité porte sur les programmes mentionnés ci-dessus auxquels s'ajoute un programme complémentaire spécifique à chacun des sujets au choix (étude de cas informatique ou fondements de l'informatique). Ce programme complémentaire fait également l'objet d'une publication sur le site internet précité.
-
-Pour l'ensemble du programme, il est attendu du candidat un recul correspondant au niveau master.
 
 B. - Epreuves d'admission
 
@@ -1571,7 +1599,3 @@ L'épreuve consiste en la présentation par le candidat d'une modélisation info
 Préparation : quatre heures ; durée de l'épreuve : une heure ; coefficient 1.
 
 Les programmes des épreuves 2° et 3° d'admission sont ceux des épreuves 1° et 2° d'admissibilité.
-
-NOTA :
-
-Conformément à l’article 10 de l’arrêté du 10 août 2022 (MENH2217762A), ces dispositions prennent effet le 1er septembre 2022.

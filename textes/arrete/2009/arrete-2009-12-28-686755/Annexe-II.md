@@ -74,7 +74,7 @@ Durée de l'épreuve : sept heures.
 
 Coefficient 8.
 
-2° Composition française portant sur un programme publié sur le site internet du ministère chargé de l'éducation nationale d'œuvres d'auteurs de langue française et postérieures à 1500.
+2° Composition française portant sur un programme publié sur le site internet du ministère chargé de l'éducation nationale d'œuvres d'auteurs de langue française.
 
 Durée de l'épreuve : sept heures.
 
@@ -640,7 +640,7 @@ Les éléments constitutifs du dossier sont précisés par note publiée sur le 
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs avant le début des épreuves d'admission.
 
-Section biochimie-génie biologique
+Section biochimie-biologie-biotechnologie
 
 A.-Epreuves écrites d'admissibilité
 
@@ -762,13 +762,13 @@ Section éducation physique et sportive
 
 A. - Epreuves écrites d'admissibilité
 
-1° Dissertation ou commentaire d'un document écrit portant sur l'éducation physique et sportive comme discipline d'enseignement, sur ses références culturelles et sur les déterminants historiques, économiques et sociaux des activités physiques et sportives.
+1° Dissertation ou commentaire d'un document écrit portant sur l'éducation physique et sportive comme discipline d'enseignement, sur ses références culturelles et sur les déterminants historiques, économiques et sociaux des activités physiques et sportives et artistiques.
 
 Durée : six heures.
 
 Coefficient 2.
 
-2° Composition portant sur les données scientifiques des activités physiques et sportives : aspects biologiques, psychologiques et sociologiques des pratiques corporelles - en relation avec les mises en œuvre didactiques.
+2° Composition portant sur les dimensions institutionnelles, professionnelles et scientifiques de l'enseignement de l'EPS dans le second degré.
 
 Durée : six heures.
 
@@ -780,11 +780,11 @@ B. - Epreuves orales d'admission
 
 Exposé suivi d'un entretien.
 
-Exposé : présentation d'une leçon ou d'une ou de plusieurs séquences d'enseignement s'adressant à une classe du second degré. La leçon ou les séquences d'enseignement portent sur une activité physique et sportive inscrite dans un programme limitatif d'activités physiques et sportives. Ce programme est publié sur le site internet du ministère chargé de l'éducation nationale.
+Exposé : présentation d'une leçon ou d'une ou de plusieurs séquences d'enseignement s'adressant à une classe du second degré. La leçon ou les séquences d'enseignement portent sur une activité physique et sportive inscrite dans un programme limitatif d'activités physiques, sportives et artistiques. Ce programme est publié sur le site internet du ministère chargé de l'éducation nationale.
 
-Le candidat disposera d'un dossier fourni par le jury comprenant un ensemble de données relatives à l'enseignement de l'éducation physique et sportive dans un établissement du second degré.
+Le candidat disposera d'un dossier fourni par le jury comprenant un ensemble de données relatives à l'enseignement de l'éducation physique, sportive et artistique dans un établissement du second degré.
 
-Entretien : le candidat, au cours de l'entretien, sera invité à justifier ses choix pédagogiques et didactiques et à manifester sa connaissance des textes relatifs à l'enseignement de l'éducation physique et sportive dans les établissements du second degré.
+Entretien : le candidat, au cours de l'entretien, sera invité à justifier ses choix pédagogiques et didactiques et à manifester sa connaissance des textes relatifs à l'enseignement de l'éducation physique, sportive et artistique dans les établissements du second degré.
 
 Durée de préparation : cinq heures.
 
@@ -796,7 +796,7 @@ Coefficient 4.
 
 2° Seconde épreuve : prestation physique et entretien.
 
-Réalisation par le candidat d'une prestation physique dans une activité physique et sportive choisie, au moment de l'inscription, parmi celles inscrites dans un programme défini chaque année et publié sur le site internet du ministère chargé de l'éducation nationale.
+Réalisation par le candidat d'une prestation physique dans une activité physique, sportive et artistique choisie, au moment de l'inscription, parmi celles inscrites dans un programme défini chaque année et publié sur le site internet du ministère chargé de l'éducation nationale. Le choix de l'activité physique sportive et artistique de l'épreuve de la prestation physique peut être différent du choix de l'activité physique sportive et artistique de l'épreuve d'entretien.
 
 Cette prestation est suivie d'un entretien avec le jury. L'entretien porte sur les aspects techniques et didactiques de l'activité choisie par le candidat et peut être étendu à des activités permettant de répondre à des objectifs éducatifs d'un même type.
 
@@ -808,15 +808,15 @@ A. - Epreuves écrites d'admissibilité
 
 1° Exploitation pédagogique d'un dossier scientifique et technique :
 
-L'épreuve, qui prend appui sur un dossier scientifique et technique relatif à un problème concernant les mises en œuvre des politiques sociales et de santé, s'organise en deux parties :
+L'épreuve consiste à exploiter des documents techniques et pédagogiques relatifs à une séquence de travaux pratiques ou à une séquence d'activités technologiques, éléments d'un processus d'apprentissage.
 
-La première partie permet d'évaluer les capacités du candidat à utiliser ses connaissances scientifiques et techniques pour expliciter ou valider les solutions retenues.
+Elle permet d'évaluer les capacités du candidat à proposer et justifier les principes, méthodes et modes opératoires à mettre en œuvre et à dégager les concepts auxquels ils se rattachent ainsi qu'à réaliser, pour tout ou partie, selon la durée impartie, l'activité prévue.
 
-La seconde partie permet d'évaluer les capacités du candidat à utiliser le support proposé pour élaborer un exercice permettant l'évaluation des connaissances et méthodes acquises par les élèves à un niveau de formation déterminé.
+L'épreuve se déroule sur poste informatique muni des logiciels indiqués dans la bibliothèque du concours.
 
-Le candidat doit situer l'exercice dans un processus d'apprentissage et par rapport aux autres enseignements scientifiques ou techniques qui lui sont associés.
+Durée : six heures.
 
-Durée : six heures ; coefficient 1.
+Coefficient 1.
 
 2° Composition portant sur les politiques sociales et de santé :
 
@@ -885,7 +885,3 @@ Durée : six heures ; coefficient 1.
 Le programme des épreuves est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Pour les épreuves d'admissibilité et d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
-
-NOTA :
-
-Conformément à l’article 10 de l’arrêté du 10 août 2022 (MENH2217762A), ces dispositions prennent effet le 1er septembre 2022.
