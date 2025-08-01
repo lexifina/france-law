@@ -6,33 +6,77 @@ Secteur industrie
 
 Opération n° IND-BA-110
 
-Système de déstratification d'air |
+Système de déstratification d'air (France métropolitaine) |
 
 1. Secteur d'application
 
-Industrie.
+Bâtiment industriel existant.
 
 2. Dénomination
 
-Mise en place d'un système de déstratification d'air pour l'homogénéisation de la température de l'air d'un local industriel de grande hauteur chauffé par un système convectif et/ou radiatif.
+Mise en place d'un système de déstratification d'air pour l'homogénéisation de la température de l'air d'un local industriel de grande hauteur complètement clos et chauffé par un système convectif et/ ou radiatif.
 
-Un système de déstratification d'air est un système permettant d'homogénéiser la température d'un local en redistribuant la chaleur située à proximité du plafond vers le sol, sans apport de chaleur propre au système de déstratification. Il est indépendant du système de chauffage.
+Les entrepôts logistiques, les réserves, les entrepôts et les locaux de stockage sont exclus. Les locaux ayant une température de consigne de chauffage lorsque le local est occupé strictement inférieure à 15° C sont également exclus.
 
-Les systèmes radiatifs de chauffage de &laquo; zone &raquo; ou de &laquo; poste &raquo; ne sont pas éligibles à l'opération.
+Un système de déstratification d'air est un système permettant d'homogénéiser la température d'un local en redistribuant la chaleur située à proximité du plafond ou du faîtage vers le sol, sans apport de chaleur propre au système de déstratification ni d'alimentation par un système de chauffage ou par récupération de chaleur fatale. Il est indépendant du système de chauffage. Les brasseurs d'air plafonniers ne sont pas éligibles à la présente fiche.
+
+La présente fiche s'applique aux opérations engagées avant le 1 er août 2030.
 
 3. Conditions pour la délivrance de certificats
 
-La mise en place est réalisée par un professionnel.
+La mise en place est réalisée par un professionnel. Celui-ci doit disposer d'une couverture d'assurance responsabilité décennale appliquée aux travaux d'électricité.
 
-Les besoins en déstratification d'air sont déterminés par une note de dimensionnement établie par un professionnel ou un bureau d'études précisant au minimum la hauteur du local, le descriptif des moyens de chauffage avec leurs puissances ainsi que les préconisations d'installation d'un système de déstratification d'air précisant en particulier leur nombre.
+Le local équipé d'un système de déstratification d'air a une hauteur sous plafond ou sous faîtage supérieure ou égale à cinq mètres.
 
-Le local industriel équipé d'un système de déstratification d'air a une hauteur sous plafond ou sous faîtage d'au moins 5 mètres.
+3.1. Dans le cas d'une déstratification par écoulement d'air vertical :
 
-Le système de déstratification d'air est équipé d'un thermostat.
+L'aspiration de l'air s'effectue à au plus un cinquième de la hauteur en partant du plafond ou du faîtage. Il génère un flux d'air orienté vers le sol ayant une vitesse maximale de 0,2 m/ s à un mètre sol. Le système est asservi à au moins une mesure de température de l'air dans la zone située entre le système de déstratification d'air inclus et le plafond ou le faîtage.
 
-La preuve de la réalisation de l'opération mentionne la mise en place d'un système de déstratification d'air équipés d'un thermostat, ainsi que leur nombre.
+3.2. Dans le cas d'une déstratification par écoulement d'air horizontal :
 
-A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'équipements avec leurs marques, références et nombre et elle est complétée par un document issu du fabricant indiquant que les équipements de marques et références installés sont des systèmes de déstratification d'air équipés d'un thermostat.
+Les différentes couches d'air sont aspirées sur toute la hauteur du local. Le point le plus bas de l'aspiration se situe à au plus un mètre du sol et le point le plus haut de l'aspiration se situe à au plus un mètre du plafond ou du faîtage. Le flux d'air entre le diffuseur et le collecteur est horizontal et a une vitesse maximale de 0,2 m/ s à un mètre du sol.
+
+Le système est asservi à au moins une mesure de température de l'air dans la zone située entre le système de déstratification d'air inclus et le plafond ou le faîtage. Le système de déstratification contient un dispositif permettant le mélange de l'air aspiré.
+
+3.3. Quel que soit le système de déstratification d'air :
+
+Les besoins en déstratification d'air sont déterminés par une note de dimensionnement et un calepinage, établis par un professionnel ou un bureau d'études ayant une qualification OPQIBI 1327 intitulée Ingénierie de la performance énergétique dans le traitement climatique des bâtiments ou 1717 Audit énergétiques dans l'industrie ou réalisant des études conformément aux référentiels définis par les normes NF X 50-091, NF EN 16247 ou équivalentes.
+
+La note de dimensionnement fait apparaitre au minimum :
+
+-la hauteur du local sous plafond ou sous faîtage ;
+
+-le volume et la surface du local à déstratifier ;
+
+-le descriptif des moyens de chauffage du local à déstratifier avec leurs puissances nominales ;
+
+-la consigne de température de chauffage lorsque le local est occupé ;
+
+-le besoin minimal de brassage d'air par heure nécessaire pour respecter la consigne de température ; et
+
+-les préconisations d'installation du système de déstratification d'air adapté en fonction de la hauteur et de la surface en précisant en particulier (i) pour chaque équipement à installer, les marque et référence ; (ii) la nature de l'écoulement fourni par le système de déstratification d'air considéré ; et (iii) le calepinage (i. e plan présentant la disposition précises des équipements installés).
+
+Elle doit également comporter, pour ce qui concerne les appareils installés :
+
+-le volume minimal d'air brassé par heure ou taux de brassage (en m 3/ h) ;
+
+-la surface déstratifiée en m 2 ;
+
+-la hauteur à laquelle les appareils sont installés ;
+
+-la vitesse d'air au sol à un mètre de hauteur ;
+
+-le ratio du nombre de système de déstratification par rapport au volume d'air total brassé ; et
+
+-les modalités de dimensionnement, tenant compte des caractéristiques du local et du matériel installé, ainsi que l'asservissement à une mesure de température de l'air prise dans la zone située entre le système de déstratification d'air inclus et le plafond ou le faîtage.
+
+Cette note de dimensionnement comporte une référence et les informations précises relatives à l'adresse des travaux du bénéficiaire. Elle est datée et signée par le professionnel ou le bureau d'études l'ayant rédigée, ainsi que par le bénéficiaire de l'opération, qui valide ainsi les hypothèses retenues. Les coordonnées du professionnel ou du bureau d'études seront également indiquées.
+
+La preuve de la réalisation de l'opération mentionne la mise en place d'un système de déstratification d'air asservi à une mesure de température de l'air prise dans la zone située entre le système de déstratification d'air inclus et le plafond ou le faîtage et leur nombre. Elle mentionne également l'orientation du flux d'air, la vitesse de l'air au sol à un mètre de hauteur ainsi que la somme des puissances nominales des équipements qui composent le système de chauffage en précisant leur nature radiative ou convective.
+
+A défaut des dispositions de l'alinéa précédent, la preuve de la réalisation de l'opération mentionne la mise en place d'équipements en précisant, pour chacun d'entre eux, la marque et la référence. Elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ CEI 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Ce document indique que les équipements de marque et référence installés sont des systèmes de déstratification d'air et précise l'orientation du flux d'air et la vitesse de l'air au sol à un mètre de hauteur ainsi que la somme des puissances nominales des équipements qui composent le système de chauffage en précisant leur nature radiative ou convective.
 
 Le document justificatif spécifique à l'opération est la note de dimensionnement. Le nombre d'équipements installés doit être cohérent avec les préconisations de la note de dimensionnement.
 
@@ -42,221 +86,147 @@ Le document justificatif spécifique à l'opération est la note de dimensionnem
 
 5. Montant de certificats en kWh cumac
 
-Le montant de certificats d'économies d'énergie est déterminé pour l'ensemble du local chauffé.
-
-Installation d'un système de déstratification d'air dans un local chauffé par un système convectif :
+Le montant de certificats d'économies d'énergie est déterminé pour l'ensemble du local complètement clos chauffé concerné par la déstratification.
 
 Zone climatique |
 
-Coefficient tenant compte de la
-
-hauteur du local
-
-(h en mètre) |
+Montant en kWhc par kW |
 
 |
 
-Mode de fonctionnement du site |
+Puissance nominale du système de chauffage du local déstratifié (en kW) |
 
-Montant en kWh cumac par kW |
+Système convectif |
 
-|
-
-Puissance nominale totale du système convectif de chauffage en kW |
-
-5 ≤ h < 10 |
-
-10 ≤ h |
+Système radiatif |
 
 H1 |
 
-1,0 |
+7   200 |
 
-2,7 |
+2   500 |
 
-|
-
-1x8h |
-
-1 300 |
-
-X |
+x |
 
 P |
 
-H1 |
+H2 |
 
-1,1 |
+8   000 |
 
-3,1 |
-
-X |
-
-2x8h |
-
-2 700 |
+2   800 |
 
 H3 |
 
-1,4 |
+8   500 |
 
-3,7 |
+3   000 |
 
-|
+Dans le cadre d'un chauffage centralisé, convectif ou radiatif, la puissance nominale du système de chauffage du local est la somme des puissances nominales des équipements qui le composent en vue d'assurer le chauffage du local, cette puissance étant inférieure ou égale à la puissance nominale de la chaudière.
 
-3x8h avec arrêt le week-end |
+Dans le cadre d'un chauffage décentralisé, convectif ou radiatif, la puissance nominale du système de chauffage est la somme des puissances nominales des équipements qui le compose.
 
-2 900 |
+Par exemple sont considérés comme faisant partie d'un système convectif de chauffage : centrale de traitement d'air, unité de toiture ou rooftop , aérotherme électrique ou à combustible ou à fluide caloporteur, générateur d'air chaud, générateur de ventilation tempérée ou make-up , ventilo-convecteur. Si une chaudière chauffe plusieurs locaux à la fois, la part de la puissance nominale de la chaudière à considérer pour le local à déstratifier sera au prorata des volumes totaux chauffés.
 
-|
+Par exemple sont considérés comme faisant partie d'un système radiatif de chauffage : cassettes, tubes et panneaux radiants électriques, à combustible ou à fluide caloporteur, planchers chauffants. Si une chaudière chauffe plusieurs locaux à la fois, la part de la puissance nominale de la chaudière à considérer pour le local à déstratifier sera au prorata des volumes totaux chauffés.
 
-|
-
-|
-
-|
-
-3x8h sans arrêt le week-end |
-
-4 000 |
-
-Installation d'un système de déstratification d'air dans un local chauffé par un système radiatif :
-
-Zone climatique |
-
-Coefficient tenant compte de la
-
-hauteur du local
-
-(h en mètre) |
-
-|
-
-Mode de fonctionnement du site |
-
-Montant en kWh cumac par kW |
-
-|
-
-Puissance nominale totale du système convectif de chauffage en kW |
-
-5 ≤ h < 10 |
-
-10 ≤ h |
-
-H1 |
-
-1,0 |
-
-2,7 |
-
-|
-
-1x8h |
-
-470 |
-
-X |
-
-P |
-
-H1 |
-
-1,1 |
-
-3,1 |
-
-X |
-
-2x8h |
-
-940 |
-
-H3 |
-
-1,4 |
-
-3,7 |
-
-|
-
-3x8h avec arrêt le week-end |
-
-1 000 |
-
-|
-
-|
-
-|
-
-|
-
-3x8h sans arrêt le week-end |
-
-1 400 |
-
-Lorsqu'un local industriel est chauffé par un système convectif et un système radiatif, les montants en certificats peuvent être cumulés.
-
-La puissance nominale totale du système de chauffage est la somme des puissances nominales des équipements qui composent ce système de chauffage.
+Lorsqu'un local est chauffé par un système convectif et un système radiatif, les montants en certificats peuvent être cumulés.
 
 Annexe 1 à la fiche d'opération standardisée IND-BA-110, définissant le contenu de la partie A de l'attestation sur l'honneur
 
-A/ IND-BA-110 (v. A69.3) : Mise en place d'un système de déstratification d'air pour l'homogénéisation de la température de l'air d'un local industriel de grande hauteur chauffé par un système convectif et/ou radiatif
+A/ IND-BA-110 (v. A71.4) : Mise en place d'un système de déstratification d'air pour l'homogénéisation de la température de l'air d'un local industriel de grande hauteur complètement clos et chauffé par un système convectif et/ou radiatif
 
-* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+*Date d'engagement de l'opération (ex : date d'acceptation du devis) :
 
 Date de preuve de réalisation de l'opération (ex : date de la facture) :
 
 Référence de la facture :
 
-* Nom du site des travaux :
+*Nom du site des travaux :
 
-* Adresse des travaux :
+*Adresse des travaux :
 
 Complément d'adresse :
 
-* Code postal :
+*Code postal :
 
-* Ville :
+*Ville :
 
-* Hauteur sous-plafond ou sous-faîtage du local industriel : h (m) =
+*Le local est complètement clos
 
-NB : h est supérieure ou égale à 5 mètres.
+□ Oui □ Non
 
-* Le local industriel est équipé d'un chauffage de &laquo; zone &raquo; ou &laquo; de poste &raquo; : □ OUI □ NON
+*La température de consigne du chauffage lorsque le local est occupé est supérieure ou égale à 15 °C
 
-* Le(s) système(s) de déstratification d'air installé(s) est (sont) équipé(s) d'un thermostat.
+□ Oui □ Non
 
-A remplir si le local industriel est chauffé par un système convectif de chauffage :
+*Hauteur sous-plafond ou sous-faîtage du local industriel : h (en m) =
 
-* Puissance nominale totale du système convectif de chauffage : P (kW) =
+Nota. - h est supérieure ou égale à 5 mètres.
 
-NB : Par exemple sont considérés comme faisant partie d'un système convectif de chauffage : centrale de traitement d'air, unité de toiture ou &laquo; rooftop &raquo;, aérotherme électrique ou à combustible ou à fluide caloporteur, générateur de ventilation tempérée ou &laquo; make-up &raquo;, générateur d'air chaud. La puissance nominale totale du système de chauffage est la somme des puissances nominales des équipements qui le composent en vue d'assurer le chauffage du local.
+*Le système de déstratification d'air est à écoulement (cocher une seule case) :
 
-A remplir si le local industriel est chauffé par un système radiatif de chauffage :
+□ vertical : l'écoulement a une vitesse maximale de 0,2 m/s à un mètre du sol : □ Oui □ Non
 
-*Puissance nominale totale du système radiatif de chauffage : P (kW) =
+□ horizontal : l'écoulement a une vitesse maximale de 0,2 m/s à un mètre du sol : □ Oui □ Non
 
-NB : Par exemple sont considérés comme faisant partie d'un système radiatif de chauffage : cassettes, tubes et panneaux radiants électriques, à combustible ou à fluide caloporteur. La puissance nominale totale du système de chauffage est la somme des puissances nominales des équipements qui le composent en vue d'assurer le chauffage du local.
+A remplir uniquement dans le cas d'un système de déstratification d'air à écoulement vertical :
+
+*L'aspiration de l'air s'effectue à au plus un cinquième de la hauteur en partant du plafond ou du faîtage : □ Oui □ Non
+
+A remplir uniquement dans le cas d'un système de déstratification d'air à écoulement horizontal :
+
+*Le point le plus haut de l'aspiration se situe à au plus un mètre du plafond ou du faîtage : □ Oui □ Non
+
+*Le point le plus bas de l'aspiration se situe à au plus un mètre du sol : □ Oui □ Non
+
+*Le système de déstratification d'air est asservi à au moins une mesure de température de l'air dans la zone située entre le système de déstratification d'air inclus et le plafond ou le faîtage : □ Oui □ Non
+
+*Le système de déstratification d'air installé ne permet pas de chauffer l'air et il n'est pas alimenté par un système de chauffage ou par récupération de chaleur fatale : □ Oui □ Non
+
+A remplir si le local est chauffé par un système convectif de chauffage :
+
+*Puissance nominale du système de chauffage convectif du local : P (en kW) :
+
+Nota. - Par exemple sont considérés comme faisant partie d'un système convectif de chauffage : centrale de traitement d'air, unité de toiture ou rooftop , aérotherme électrique ou à combustible ou à fluide caloporteur, générateur de ventilation tempérée ou make-up , générateur d'air chaud. La puissance nominale du système de chauffage est la somme des puissances nominales des équipements qui le composent en vue d'assurer le chauffage du local, à défaut, la part de la puissance nominale de la chaudière qui chauffe le local à déstratifier au prorata du volume du local à déstratifier.
+
+A remplir si le local est chauffé par un système radiatif de chauffage :
+
+*Puissance nominale du système de chauffage radiatif du local P (en kW) :
+
+Nota. - Par exemple sont considérés comme faisant partie d'un système radiatif de chauffage : cassettes, tubes et panneaux radiants électriques, à combustible ou à fluide caloporteur. La puissance nominale du système de chauffage est la somme des puissances nominales des équipements qui le composent en vue d'assurer le chauffage du local à défaut, la part de la puissance nominale de la chaudière qui chauffe le local à déstratifier au prorata du volume du local à déstratifier.
 
 *Nombre de systèmes de déstratification d'air installés :
 
-NB : le nombre de systèmes de déstratification d'air installés est cohérent avec les besoins définis par la note de dimensionnement.
+Nota. - le nombre de systèmes de déstratification d'air installés est cohérent avec les besoins définis par la note de dimensionnement et le calepinage.
 
-A ne remplir que si les marque et référence de l'équipement installé ne sont pas mentionnées sur la preuve de réalisation :
+A ne remplir que si les marque et référence des équipements installés ne sont pas mentionnées sur la preuve de réalisation :
 
 *Marque(s) :
 
 *Référence(s) :
 
-*Mode de fonctionnement du site :
+Coordonnées du professionnel ou du bureau d'études ayant établi l'étude de dimensionnement :
 
-□ 1×8h □ 2×8h □ 3×8h avec arrêt le week-end □ 3×8h sans arrêt le week-end
+*Raison sociale :
 
-- Système de récupération de chaleur sur une tour aéroréfrigérante / Fiche d’opération standardisée n° IND-BA-112
+*Numéro SIREN :
 
-Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
+*Référence de l'étude de dimensionnement :
+
+*Date de l'étude de dimensionnement : //
+
+Identité du professionnel ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation
+
+(sous traitant par exemple) :
+
+*Nom
+
+*Prénom
+
+*Raison sociale :
+
+*N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _
 
 - Lanterneaux d’éclairage zénithal (France métropolitaine) / Fiche d’opération standardisée n° IND-BA-113
 
@@ -410,25 +380,9 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 - Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante / Fiche d’opération standardisée n° IND-UT-116
 
-- Système de récupération de chaleur sur un groupe de production de froid / Fiche d’opération standardisée n° IND-UT-117
-
-Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
-
-Conformément à l’article 5 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.
-
-Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.
-
 - Brûleur avec dispositif de récupération de chaleur sur four industriel / Fiche d’opération standardisée n° IND-UT-118
 
 - Compresseur d’air basse pression à vis ou centrifuge / Fiche d’opération standardisée n° IND-UT-120
-
-- Matelas pour l’isolation de points singuliers / Fiche d’opération standardisée n° IND-UT-121
-
-Conformément à l’article 4 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 7 dudit arrêté.
-
-Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe D dudit arrêté, à compter du 1er avril 2022.
-
-Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° IND-UT-121, figurant en annexe F dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 4 du présent arrêté.
 
 - Sécheur d’air comprimé à adsorption utilisant un apport calorifique pour sa régénération / Fiche d’opération standardisée n° IND-UT-122
 
@@ -520,4 +474,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Conformément à l’article 7 de l’arrêté du 18 novembre 2024 (NOR : TECR2428116A), les fiches remplacées conformément à l’article 1er dudit arrêté s'appliquent aux opérations engagées à compter du 1er janvier 2025.
+Conformément à l’article 1 de l’arrêté du 27 juin 2025 (NOR : ECOR2517481A), les fiches d'opérations standardisées portant les références IND-BA-112, IND-UT-117, IND-UT-121 sont supprimées des annexes de l'arrêté du 22 décembre 2014 précité, à compter du 1 er août 2025.

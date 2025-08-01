@@ -872,7 +872,161 @@ Conformément à l’article 3 de l’arrêté du 12 juillet 2022 (NOR : ENER221
 
 Conformément à l’article 5 de du 20 octobre 2016 (NOR : DEVR1627593A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.
 
-- Climatiseur performant (France d’outre-mer) / Fiche d’opération standardisée n°BAR-TH-141
+Opération n° BAR-TH-141
+
+Climatiseur performant (France d'outre-mer) |
+
+1. Secteur d'application
+
+Bâtiments résidentiels existants en France d'outre-mer.
+
+2. Dénomination
+
+Remplacement d'un climatiseur existant par un climatiseur fixe, de classe d'efficacité énergétique supérieure ou égale à A.
+
+Les climatiseurs à simple ou à double conduit ne sont pas éligibles.
+
+La présente fiche s'applique aux opérations engagées avant le 1er août 2030.
+
+3. Conditions pour la délivrance de certificats
+
+Le climatiseur est de classe A à A+++, selon la classification définie dans le règlement délégué (UE) n° 626/2011 de la Commission Européenne du 4 mai 2011, individuel (monosplit) ou regroupé (multisplit).
+
+La puissance frigorifique installée est limitée à 2,64 kW (9 000 BTU/h).
+
+Le logement où a lieu l'opération est un appartement.
+
+La mise en place est réalisée par un professionnel.
+
+La preuve de réalisation de l'opération mentionne :
+
+1. La dépose de l'ancien climatiseur ;
+
+2. La mise en place d'un climatiseur ;
+
+3. Sa puissance frigorifique et sa classe d'efficacité énergétique ou le SEER (*).
+
+Par dérogation aux points 2 et 3 ci-dessus, la preuve de réalisation de l'opération mentionne la mise en place d'un équipement avec ses marque et référence et elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Ce document indique que l'équipement de marque et référence mis en place est un climatiseur et précise sa puissance frigorifique et sa classe d'efficacité énergétique ou à défaut le coefficient d'efficacité énergétique saisonnier (SEER) permettant de déterminer la classe d'efficacité énergétique du climatiseur installé.
+
+4. Durée de vie conventionnelle
+
+9 ans.
+
+5. Montant de certificats en kWh cumac
+
+|
+
+|
+
+Montant en kWh cumac |
+
+Type de logement |
+
+Puissance frigorifique
+
+de l'appareil en kW
+
+(ou BTU/h) |
+
+Classe A
+
+(5,1 ≤ SEER < 5,6) |
+
+Classe A+
+
+(5,6 ≤ SEER < 6,1) |
+
+Classe A++
+
+(6,1 ≤ SEER < 8,5) |
+
+Classe A+++
+
+SEER ≥ 8,5 |
+
+Appartement |
+
+2,05 (7000) |
+
+1 300 |
+
+2 500 |
+
+3 400 |
+
+6 300 |
+
+2,64 (9000) |
+
+1 600 |
+
+2 900 |
+
+4 000 |
+
+7 400 |
+
+Dans le cas où le bénéficiaire remplace dans un logement des climatiseurs existants par plusieurs climatiseurs de caractéristiques et classe d'efficacité identiques, le montant des certificats d'économies d'énergie, calculé par climatiseur, est multiplié par le nombre de climatiseurs.
+
+(*) SEER : Seasonal Energy Efficiency Ratio ou coefficient d'efficacité énergétique saisonnier.
+
+Annexe 1 à la fiche d'opération standardisée BAR-TH-141, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-TH-141 (v. A71.2) : Remplacement d'un climatiseur existant par un climatiseur fixe, de classe d'efficacité énergétique supérieure ou égale à A
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment résidentiel en France d'outre-mer, existant depuis plus de deux ans à la date d'engagement de l'opération :
+
+□ OUI □ NON
+
+* Le logement est un appartement : □ OUI □ NON
+
+Le matériel existant a été déposé préalablement à l'installation du nouveau climatiseur.
+
+Caractéristiques du climatiseur installé :
+
+* L'appareil installé est un climatiseur fixe : □ OUI □ NON
+
+* Classe d'efficacité énergétique du climatiseur :
+
+□ A
+
+□ A+
+
+□ A++
+
+□ A+++
+
+* Puissance frigorifique du climatiseur :
+
+□ 2,05 kW (7 000 BTU/h)
+
+□ 2,64 kW (9 000 BTU/h)
+
+Nombre de climatiseurs de caractéristiques et de classe d'efficacité énergétique identiques installés :
+
+A ne remplir que si les marque et référence du climatiseur ne sont pas mentionnées sur la preuve de réalisation de l'opération :
+
+* Marque :
+
+* Référence :
 
 - Système solaire combiné (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-143
 
@@ -912,19 +1066,255 @@ Conformément à l’article 2 de l’arrêté du 20 juillet 2022 (NOR : ENER221
 
 Conformément à l'article 1 de l'arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2023.
 
-- Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire / Fiche d’opération standardisée n°BAR-TH-160
+Opération n° BAR-TH-161
 
-Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
+Isolation de points singuliers d'un réseau |
 
-Conformément à l'article 1 de l'arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2023.
+1. Secteur d'application
 
-Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-TH-160, figurant en annexe C dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.
+Bâtiment résidentiel existant.
 
-- Isolation des points singuliers d’un réseau / Fiche d’opération standardisée n°BAR-TH-161
+Cette opération ne s'applique pas à l'isolation des points singuliers d'une sous-station d'un réseau de chaleur ou d'une chaufferie dès lors qu'elle réduit les émissions de gaz à effet de serre d'une installation classée visée à l'article L. 229-5 du code de l'environnement exploitée par le bénéficiaire.
+
+Cette opération n'est pas cumulable avec les opérations relevant de la fiche RES-CH-104 Réhabilitation d'un poste de livraison de chaleur d'un bâtiment résidentiel .
+
+La présente fiche s'applique aux opérations engagées avant le 1er août 2030.
+
+2. Dénomination
+
+Mise en place de housses pour l'isolation de points singuliers sur un réseau hydraulique isolé de chauffage et/ou d'eau chaude sanitaire, situé dans une sous-station ou dans une chaufferie pour un système collectif.
+
+Une housse isolante est constituée d'une enveloppe souple garnie d'une âme isolante qui est maintenue en place par un système de fermeture intégré à la housse (sangles, bandes auto-agrippantes, crochets…) afin d'isoler complètement le ou les points singuliers. Les manchons isolants ne sont pas éligibles.
+
+Une chaufferie est un local abritant des appareils de production de chaleur par combustion. Une sous-station est un local abritant les appareils qui assurent, soit par mélange, soit par échange, le transfert de chaleur d'un réseau de distribution dit réseau primaire à un réseau d'utilisation dit réseau secondaire.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+Un point singulier est une pièce de type vanne, réducteur, robinet, clapet, filtre, séparateur, compteur, détendeur, manchette, purgeur, pompe. Un échangeur à plaques n'est pas considéré comme un point singulier. Une pièce et son jeu de bride sont comptabilisés comme un seul point singulier. Un jeu de bride permettant le raccordement de deux réseaux est comptabilisé comme un seul point singulier. Un arrêt de tuyauterie équipé d'une bride est comptabilisé comme un seul point singulier. Sont exclus les coudes, soudures et tuyauteries ainsi que tous les points singuliers sur un circuit de condensats ouverts.
+
+Un même point singulier ne peut pas faire l'objet d'une demande de certificats d'économies d'énergie pour cette opération plus d'une fois durant la durée de vie conventionnelle mentionnée au 4.
+
+La housse est souple, démontable et équipée d'un système de fermeture.
+
+La housse est constituée d'un isolant à base de laine minérale et répond aux exigences de la norme NF EN 14303 définissant les spécifications des produits isolants thermiques pour l'équipement du bâtiment et les installations industrielles pour les produits manufacturés à base de laines minérales. Sa température maximale de service est supérieure à 200 °C.
+
+La résistance thermique de l'isolant (rapport entre l'épaisseur et la conductivité thermique déclarées) est supérieure ou égale à :
+
+- 1,5 m2 K/W à une température moyenne de 50 °C ;
+
+- 1,0 m2 K/W à une température moyenne de 100 °C.
+
+La conductivité thermique et l'épaisseur déclarées de l'âme isolante ainsi que la température maximale de service sont mesurées dans les conditions définies par la norme NF EN 14303.
+
+La preuve de la réalisation de l'opération mentionne la mise en place de housses souples, démontables et équipées d'un système de fermeture pour l'isolation de points singuliers en chaufferie ou en sous-station, le nombre de housses installées selon la température correspondant au fluide utilisé, leur résistance thermique à la température exigée ainsi que le diamètre nominal des points singuliers isolés. La preuve de réalisation de l'opération précise la marque et le modèle de la housse isolante ainsi que la nature de l'isolant constitutif et sa température maximale de service.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'équipements d'isolation de points singuliers en chaufferie ou en sous-station avec leurs marques et références, le nombre d'équipements installés selon la température correspondant au fluide utilisé et indique le diamètre nominal des points singuliers isolés. Elle est complétée par un document issu du fabricant indiquant que les équipements de marques et références installés sont des housses souples, démontables et équipées d'un système de fermeture pour l'isolation de points singuliers. Ce document précise la résistance thermique de l'isolant à la température exigée (ou à défaut sa conductivité thermique et son épaisseur déclarées), la nature de l'isolant constitutif et sa température maximale de service. Il précise les références des normes utilisées pour déterminer les différentes caractéristiques de l'isolant.
+
+Un état récapitulatif des housses isolantes mises en place et des points singuliers isolés est établi par le professionnel à l'issue des travaux. Cet état récapitulatif est daté et signé par le professionnel et le bénéficiaire de l'opération. Il comporte :
+
+- le lieu d'implantation des matelas en chaufferie ou sous-station ;
+
+- les marques, références ou numéros de repérage internes des points singuliers isolés par les housses ainsi que le diamètre nominal des canalisations auxquelles sont raccordés les points singuliers ;
+
+- les marques et références des housses installées, la résistance thermique de l'âme isolante à la température exigée, la température maximale de service de leur âme isolante et, le cas échéant, les numéros de repérage internes des housses isolantes ;
+
+- la température du fluide caloporteur.
+
+Les travaux d'isolation des points singuliers font l'objet, après réalisation, d'un contrôle sur site par un organisme d'inspection. Un rapport de contrôle, établi par cet organisme, atteste :
+
+- de la mise en place de housses isolantes sur des points singuliers d'un réseau d'une sous-station ou d'une chaufferie, le nombre de housses mises en place (housses souples, démontables et équipées d'un système de fermeture) et le diamètre nominal des canalisations auxquelles sont raccordés les points singuliers ;
+
+- des marques et références et, le cas échéant, des numéros de repérage internes des housses installées ;
+
+- du récolement avec l'état récapitulatif établi, signé et daté par le professionnel à l'issue des travaux et des différences constatées.
+
+L'organisme d'inspection procède à la vérification aléatoire d'au moins 10 % des points singuliers isolés (nombre arrondi à l'unité supérieure) par démontage des housses puis remise en place (type de point singulier, diamètre des canalisations, température du fluide caloporteur, marques et références des housses, nature de l'isolant, résistance thermique de l'âme isolante à la température exigée, température maximale de service de l'âme isolante), complétée au besoin par un examen documentaire. Cette vérification ne doit révéler aucun écart avec l'état récapitulatif établi, signé et daté par le professionnel à l'issue des travaux.
+
+Le rapport mentionne la date de la visite sur site de l'organisme et identifie l'opération réalisée par la référence de la preuve de réalisation de l'opération, la raison sociale et le numéro SIREN du professionnel, l'identité du bénéficiaire et le lieu de réalisation de l'opération.
+
+L'organisme d'inspection est accrédité selon la norme NF EN ISO/CEI 17020 ou toute version ultérieure, en tant qu'organisme d'inspection de type A pour le domaine 15.1.5 Inspection d'opérations standardisées d'économies d'énergie dans le cadre du dispositif de délivrance des certificats d'économies d'énergie par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Les documents justificatifs spécifiques à l'opération sont l'état récapitulatif établi, signé et daté par le professionnel et le bénéficiaire à l'issue des travaux et la justification de l'accréditation de l'organisme d'inspection.
+
+4. Durée de vie conventionnelle
+
+- 10 ans pour une température du fluide comprise entre 50 °C et 120 °C inclus ;
+
+- 5 ans pour une température du fluide supérieure à 120 °C.
+
+5. Montant de certificats en kWh cumac
+
+Diamètre
+
+nominal (DN)
+
+de la canalisation
+
+(mm) |
+
+Zone
+
+climatique |
+
+Montant en kWhcumac
+
+par housse isolante
+
+mise en place
+
+50°C ≤ Tfluide ≤ 120°C |
+
+Montant en kWhcumac
+
+par housse isolante
+
+mise en place
+
+Tfluide > 120°C |
+
+|
+
+Nombre
+
+de housses isolantes
+
+mises en place |
+
+20 ≤ DN ≤ 65 |
+
+H1 |
+
+11 700 |
+
+12 900 |
+
+X |
+
+N |
+
+H2 |
+
+10 500 |
+
+11 600 |
+
+H3 |
+
+8 800 |
+
+9 700 |
+
+65 < DN ≤ 100 |
+
+H1 |
+
+25 100 |
+
+27 800 |
+
+H2 |
+
+22 700 |
+
+25 100 |
+
+H3 |
+
+18 900 |
+
+20 900 |
+
+100 < DN |
+
+H1 |
+
+40 900 |
+
+45 400 |
+
+H2 |
+
+37 000 |
+
+41 000 |
+
+H3 |
+
+30 800 |
+
+34 100 |
+
+Tfluide est la température du fluide caloporteur.
+
+Annexe 1 à la fiche d'opération standardisée BAR-TH-161, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-TH-161 (v. A71.3) : Mise en place de housses pour l'isolation de points singuliers sur un réseau hydraulique isolé de chauffage et/ou d'eau chaude sanitaire, situé dans une sous-station ou dans une chaufferie pour un système collectif.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Pour les personnes morales, nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment résidentiel existant depuis plus de 2 ans à la date d'engagement de l'opération : □ OUI □ NON
+
+Rappel : Un point singulier est une pièce de type vanne, réducteur, robinet, clapet, filtre, séparateur, compteur, détendeur, manchette, purgeur, pompe. Un échangeur à plaques n'est pas considéré comme un point singulier. Une pièce et son jeu de bride sont comptabilisés comme un seul point singulier. Un jeu de bride permettant le raccordement de deux réseaux est comptabilisé comme un seul point singulier. Un arrêt de tuyauterie équipé d'une bride est comptabilisé comme un seul point singulier. Sont exclus les coudes, soudures et tuyauteries ainsi que tous les points singuliers sur un circuit de condensats ouverts.
+
+* N, le nombre de housses d'isolation pour points singuliers mises en place selon le diamètre nominal (DN) de la canalisation de raccordement du point singulier :
+
+Température du fluide caloporteur Tfluide telle que 50 °C ≤ Tfluide ≤ 120 °C :
+
+20 ≤ DN ≤ 65 : * N =
+
+65 < DN ≤ 100 : * N =
+
+100 < DN : * N =
+
+Température du fluide caloporteur Tfluide telle que 120° < Tfluide :
+
+20 ≤ DN ≤ 65 : * N =
+
+65 < DN ≤ 100 : * N =
+
+100 < DN : * N =
+
+* Caractéristiques des housses isolantes installées (paragraphe à dupliquer si les housses sont de marques et références différentes) :
+
+* Marque :* Référence :
+
+* La housse est souple, démontable et équipée d'un système de fermeture : □ Oui □ Non
+
+* La housse est constituée d'un isolant à base de laine minérale : □ Oui □ Non
+
+* Température maximale de service : °C
+
+* Résistance thermique de l'isolant R (m2 K/W) à une température moyenne de 50 °C : (m2 K/W)
+
+* Résistance thermique de l'isolant R (m2 K/W) à une température moyenne de 100 °C : (m2 K/W)
+
+Nota. - Les manchons isolants ne sont pas éligibles.
+
+Nota. - La conductivité thermique et l'épaisseur déclarées de l'âme isolante pour la détermination de la résistance thermique ainsi que la température maximale de service sont mesurées dans les conditions définies par la norme NF EN 14303.
+
+* Date de l'état récapitulatif, établi par le professionnel à l'issue de travaux, mentionnant les housses isolantes mises en place et les points singuliers isolés :
+
+Nota. - Cette opération ne s'applique pas à l'isolation des points singuliers d'une sous-station d'un réseau de chaleur ou d'une chaufferie dès lors qu'elle réduit les émissions de gaz à effet de serre d'une installation classée visée à l'article L. 229-5 du code de l'environnement exploitée par le bénéficiaire.
+
+Nota. - Cette opération n'est pas cumulable avec les opérations relevant de la fiche RES-CH-104 Réhabilitation d'un poste de livraison de chaleur d'un bâtiment résidentiel .
 
 - Système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d’eau (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-162
-
-Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-TH-161, figurant en annexe C dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.
 
 CERTIFICATS D'ÉCONOMIES D'ÉNERGIE OPÉRATION NO BAR-TH-163
 
@@ -2342,9 +2732,161 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 - Abaissement de la température de retour vers un réseau de chaleur / Fiche d’opération standardisée n° BAR-SE-107
 
-- Désembouage d'un réseau hydraulique individuel de chauffage en France métropolitaine / Fiche d’opération standardisée n° BAR-SE-108
+Opération n° BAR-SE-108
 
-Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : ECOR2435303A), la fiche d’opération n° BAR-SE-108 est remplacée à compter du 1er avril 2025 par la fiche portant la même référence présente à l'annexe B de l'arrêté précité. Vous pouvez consulter les modifications à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Jo1UJTY9SbF2fbpIwW8qSVmdwg5k-UdZn955Kn6O8OI=
+Désembouage d'un réseau hydraulique individuel de chauffage en France métropolitaine |
+
+1. Secteur d'application
+
+Bâtiments résidentiels existants en France métropolitaine.
+
+2. Dénomination
+
+Désembouage de l'ensemble du système de distribution par boucle d'eau d'une installation individuelle de chauffage dont la puissance thermique nominale est inférieure ou égale à 70 kW.
+
+Les boucles d'eau chauffées, en tout ou partie, par une pompe à chaleur de type air/ eau, eau/ eau ou sol/ eau ou une pompe à chaleur hybride sont exclues.
+
+La présente fiche s'applique aux opérations engagées avant le 1 er août 2030.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+Le professionnel ayant réalisé l'opération est titulaire d'une qualification ou d'une certification couvrant l'entretien, la maintenance ou l'exploitation d'installations de chauffage hydrauliques ou de réseaux de chaleur délivrée par un organisme accrédité par le Comité français d'accréditation ou disposant d'un agrément tel que défini à l'article R. 125-40 du code de la construction et de l'habitation, ou d'un signe de qualité équivalent. La liste exhaustive des qualifications ou certifications répondant à ces exigences est publiée sur le site du ministère chargé de l'énergie.
+
+Le désembouage comporte les étapes successives suivantes :
+
+a) Rinçage à l'eau du système de distribution par boucle d'eau (général puis réseau par réseau) ;
+
+b) Injection d'un réactif désembouant et circulation selon le dosage et le temps de contact préconisés, avec l'utilisation d'une pompe de désembouage (général puis réseau par réseau ; dans les deux sens de circulation) ;
+
+c) Rinçage des circuits à l'eau claire (général puis réseau par réseau) ;
+
+d) Vérification du filtre (ou pot à boues) existant et/ ou installation d'un ou plusieurs filtre (s) sur le ou les circuits de retour au générateur, ainsi que l'injection d'un réactif inhibiteur au dosage préconisé.
+
+La preuve de la réalisation de l'opération mentionne le désembouage d'un réseau hydraulique de chauffage et, le cas échéant, le nombre et l'emplacement de filtres.
+
+Les documents justificatifs spécifiques à l'opération sont les suivants :
+
+a) Un document établi, daté et signé par le professionnel réalisant l'opération, mentionnant :
+
+-l'adresse du bâtiment concerné par l'opération ;
+
+-le fait que l'opération concerne le désembouage du système de distribution par boucle d'eau d'une installation individuelle de chauffage ;
+
+-le descriptif des étapes de l'opération de désembouage, conformément à la présente fiche ;
+
+-le type de générateur (chaudière, chaudière biomasse, équipement solaire thermique) et sa puissance nominale ;
+
+-le nombre d'émetteurs désemboués ;
+
+-la nature du réseau (cuivre, acier, multicouche, matériaux de synthèse) ;
+
+-le volume d'eau total du circuit ;
+
+-le réactif désembouant et le réactif inhibiteur utilisés.
+
+b) La décision de qualification ou de certification du professionnel.
+
+4. Durée de vie conventionnelle
+
+12 ans.
+
+5. Montant de certificats en kWh cumac
+
+En maison individuelle :
+
+Zone climatique |
+
+Montant en kWh cumac par maison |
+
+H1 |
+
+23 600 |
+
+H2 |
+
+19 700 |
+
+H3 |
+
+14 100 |
+
+En appartement :
+
+Zone climatique |
+
+Montant en kWh cumac par appartement |
+
+H1 |
+
+12 200 |
+
+H2 |
+
+10 200 |
+
+H3 |
+
+7 300 |
+
+Annexe 1 à la fiche d'opération standardisée BAR-SE-108, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAR-SE-108 (v. A71.3) : Désembouage de l'ensemble du système de distribution par boucle d'eau d'une installation individuelle de chauffage dont la puissance thermique nominale est inférieure ou égale à 70 kW.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) : //
+
+Référence de la facture :
+
+* Pour les personnes morales : nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment existant depuis plus de deux ans à la date d'engagement de l'opération : □ OUI □ NON
+
+* L'opération concerne (cocher une seule case) :
+
+□ une maison individuelle
+
+□ un appartement
+
+* L'opération concerne une installation individuelle de chauffage : □ OUI □ NON
+
+* La ou les boucles d'eau chauffées, en tout ou partie, par une pompe à chaleur de type air/eau, eau/eau ou sol/eau ou par une pompe à chaleur hybride sont exclues : □ OUI □ NON
+
+* Puissance thermique nominale de l'installation de chauffage (kW) :
+
+Nota. - La puissance thermique nominale est inférieure ou égale à 70 kW.
+
+* Les étapes suivantes ont été réalisées (cocher les cases concernées) :
+
+□ Rinçage à l'eau du système de distribution par boucle d'eau (général puis réseau par réseau)
+
+□ Injection d'un réactif désembouant et circulation selon le dosage et le temps de contact préconisés, avec l'utilisation d'une pompe de désembouage (général puis réseau par réseau ; dans les deux sens de circulation)
+
+□ Rinçage des circuits à l'eau claire (général puis réseau par réseau)
+
+□ Vérification du filtre (ou pot à boues) existant et/ou installation d'un filtre sur le ou les circuits de retour au générateur, ainsi que l'injection d'un réactif inhibiteur au dosage préconisé
+
+Le professionnel ayant réalisé l'opération est titulaire d'une qualification ou d'une certification couvrant l'entretien, la maintenance ou l'exploitation d'installations de chauffage hydrauliques ou de réseaux de chaleur délivrée par un organisme accrédité par le Comité français d'accréditation ou disposant d'un agrément tel que défini à l'article R. 125-40 du code de la construction et de l'habitation, ou d'un signe de qualité équivalent. La liste exhaustive des qualifications ou certifications répondant à ces exigences est publiée sur le site du ministère chargé de l'énergie.
+
+Identité du professionnel titulaire du signe de qualité ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation (sous-traitant par exemple) :
+
+* Nom :
+
+* Prénom :
+
+* Raison sociale :
+
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 - Désembouage d'un réseau hydraulique de chauffage collectif en France métropolitaine / Fiche d’opération standardisée n° BAR-SE-109
 
@@ -3372,4 +3914,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-
 
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 10 juin 2025 (NOR : ECOR2513165A), ces dispositions entrent en vigueur le 1er juillet 2025.
+Conformément à l’article 1 de l’arrêté du 27 juin 2025 (NOR : ECOR2517481A), la fiche d'opération standardisée portant la référence BAR-TH-160 est supprimée des annexes de l'arrêté du 22 décembre 2014 précité, à compter du 1 er août 2025.

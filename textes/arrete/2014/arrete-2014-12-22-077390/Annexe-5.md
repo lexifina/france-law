@@ -30,10 +30,6 @@ Conformément à l’article 1er de l’arrêté du 20 décembre 2022 (NOR : ENE
 
 Conformément à l’article 1er de l’arrêté du 22 février 2024 (NOR : ECOR2405028A), la fiche d'opération standardisée d'économies d'énergie est remplacée à compter du 1er mars 2024 par la version portant les mêmes références en annexe A dudit arrêté.
 
-- Isolation de points singuliers sur un réseau de chaleur / Fiche d’opération n° RES-CH-107
-
-Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la version portant les mêmes références en annexe 5 dudit arrêté.
-
 - Récupération de chaleur fatale pour valorisation sur un réseau de chaleur ou vers un tiers (France métropolitaine) / Fiche d’opération n° RES-CH-108
 
 Conformément au I de l’article 1er de l’arrêté du 4 mai 2020 (NOR : TRER2011628A), la fiche d’opération standardisée est remplacée par la version en annexe I dudit arrêté.
@@ -111,3 +107,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=iVuAD5uJii2qhcSZRN7xvb1VcLEUO_fLc
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 0049 du 28/02/2024, texte nº 2, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=evfsKDPjPOgD6eM4SrAPUuZ-PkK9A6thiDb3sgQcNsM=
+
+NOTA :
+
+Conformément à l’article 1 de l’arrêté du 27 juin 2025 (NOR : ECOR2517481A), la fiche d'opération standardisée portant la référence RES-CH-107 est supprimée des annexes de l'arrêté du 22 décembre 2014 précité, à compter du 1 er août 2025.

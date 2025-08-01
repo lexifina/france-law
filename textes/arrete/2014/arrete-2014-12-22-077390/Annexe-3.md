@@ -850,10 +850,6 @@ Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER23252
 
 Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER1923457A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
 
--Robinet thermostatique / Fiche d’opération standardisée n° BAT-TH-104
-
-Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté, à compter du 1er avril 2020.
-
 -Radiateur basse température pour un chauffage central/ / Fiche d’opération standardisée n° BAT-TH-105
 
 Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté, à compter du 1er avril 2020.
@@ -944,33 +940,241 @@ Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRE
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
--Déstratificateur ou brasseur d’air / Fiche d’opération standardisée n° BAT-TH-142
+Opération n° BAT-TH-142
 
-Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : TRER2121430A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er novembre 2021.
+Système de déstratification d'air (France métropolitaine) |
 
-Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-EN-142, figurant en annexe E dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
+1. Secteur d'application
+
+Bâtiment tertiaire existant.
+
+2. Dénomination
+
+Mise en place d'un système de déstratification d'air pour l'homogénéisation de la température de l'air d'un local de grande hauteur complètement clos et chauffé par un système convectif et/ou radiatif.
+
+Les entrepôts logistiques, les réserves, les entrepôts et les locaux de stockage sont exclus. Les locaux ayant une température de consigne de chauffage lorsque le local est occupé strictement inférieure à 15 °C sont également exclus.
+
+Un système de déstratification d'air est un système permettant d'homogénéiser la température d'un local en redistribuant la chaleur située à proximité du plafond ou du faîtage vers le sol, sans apport de chaleur propre au système de déstratification ni d'alimentation par un système de chauffage ou par récupération de chaleur fatale. Il est indépendant du système de chauffage. Les brasseurs d'air plafonniers ne sont pas éligibles à la présente fiche.
+
+La présente fiche s'applique aux opérations engagées avant le 1er août 2030.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel. Celui-ci doit disposer d'une couverture d'assurance responsabilité décennale appliquée aux travaux d'électricité.
+
+Le local équipé d'un système de déstratification d'air a une hauteur sous plafond ou sous faîtage d'au moins cinq mètres.
+
+3.1. Dans le cas d'une déstratification par écoulement d'air vertical :
+
+L'aspiration de l'air s'effectue à au plus un cinquième de la hauteur en partant du plafond ou du faîtage. Il génère un flux d'air orienté vers le sol ayant une vitesse maximale de 0,2 m/s à un mètre du sol. Le système est asservi à au moins une mesure de température de l'air dans la zone située entre le système de déstratification d'air inclus et le plafond ou le faîtage. Le niveau du bruit au sol du fait du seul fonctionnement du système est strictement inférieur à 45 dB ou 45 dB(A).
+
+3.2. Dans le cas d'une déstratification par écoulement d'air horizontal :
+
+Les différentes couches d'air sont aspirées sur toute la hauteur du local. Le point le plus bas de l'aspiration se situe à au plus un mètre du sol et le point le plus haut de l'aspiration se situe à au plus un mètre du plafond ou du faîtage. Le flux d'air entre le diffuseur et le collecteur est horizontal et a une vitesse maximale de 0,2 m/s à un mètre du sol. Le système est asservi à au moins une mesure de température de l'air dans la zone située entre le système de déstratification d'air inclus et le plafond ou le faîtage. Le niveau du bruit du fait du seul fonctionnement du système est strictement inférieur à 45 dB ou 45 dB(A). Le système de déstratification contient un dispositif permettant le mélange de l'air aspiré.
+
+3.3. Quel que soit le système de déstratification d'air :
+
+Les besoins en déstratification d'air sont déterminés par une note de dimensionnement et un calepinage, établis par un professionnel ou un bureau d'études ayant une qualification OPQIBI 1327 intitulée Ingénierie de la performance énergétique dans le traitement climatique des bâtiments ou 1905 Audit énergétique des bâtiments (tertiaires et/ou habitations collectives) ou réalisant des études conformément aux référentiels définis par les normes NF X 50-091, NF EN 16247 ou équivalentes.
+
+La note de dimensionnement fait apparaitre au minimum :
+
+- la hauteur du local sous plafond ou sous faîtage ;
+
+- le volume et la surface du local à déstratifier ;
+
+- le descriptif des moyens de chauffage du local à déstratifier avec leurs puissances nominales ;
+
+- le cas échéant, le descriptif exhaustif du système de ventilation mécanique, notamment ses caractéristiques en débit et en pression en fonction de l'occupation du local, les flux d'air des systèmes de déstratification ne devant en aucun cas être orientés vers les bouches de soufflage de la ventilation mécanique ;
+
+- la consigne de température de chauffage lorsque le local est occupé ;
+
+- le besoin minimal de brassage d'air par heure necessaire pour respecter la consigne de température ; et
+
+- les préconisations d'installation du système de déstratification d'air adapté en fonction de la hauteur et de la surface en précisant en particulier (i) pour chaque équipement à installer, les marque et référence ; (ii) la nature de l'écoulement fourni par le système de déstratification considéré ; et (iii) le calepinage (i.e plan présentant la disposition précise des équipements installés).
+
+La note de dimensionnement doit également comporter pour ce qui concerne les appareils installés :
+
+- le volume minimal d'air brassé par heure ou taux de brassage (en m3/h) ;
+
+- la surface déstratifiée en m2 ;
+
+- la hauteur à laquelle les appareils sont installés ;
+
+- la vitesse d'air au sol à un mètre de hauteur ;
+
+- le ratio du nombre de systèmes de déstratification par rapport au volume d'air total brassé ; et
+
+- les modalités de dimensionnement tenant compte des caractéristiques du local et du matériel installé, notamment le système de ventilation mécanique, ainsi que l'asservissement à une mesure de température de l'air prise dans la zone située entre le système de déstratification d'air inclus et le plafond ou le faîtage.
+
+Cette note de dimensionnement comporte une référence et les informations précises relatives à l'adresse des travaux du bénéficiaire. Elle est datée et signée par le professionnel ou le bureau d'études l'ayant rédigée, ainsi que par le bénéficiaire de l'opération, qui valide ainsi les hypothèses retenues. Les coordonnées du professionnel ou du bureau d'études sont également indiquées.
+
+La preuve de la réalisation de l'opération mentionne la mise en place d'un système de déstratification d'air asservis à une mesure de température de l'air prise dans la zone située entre le système de déstratification d'air inclus et le plafond ou le faîtage et leur nombre. Elle mentionne également l'orientation du flux d'air, la vitesse de l'air au sol à un mètre de hauteur et le niveau de bruit au sol ainsi que la somme des puissances nominales des équipements qui composent le système de chauffage en précisant leur nature radiative ou convective et le cas échéant, la présence d'un système de ventilation mécanique.
+
+A défaut des dispositions de l'alinéa précédent, la preuve de la réalisation de l'opération mentionne la mise en place d'équipements en précisant, pour chacun d'entre eux, la marque et la référence. Elle est complétée par un document issu du fabricant ou d'un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/CEI 17065 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
+
+Ce document indique que les équipements de marque et référence installés sont des systèmes de déstratification d'air et précise l'orientation du flux d'air, la vitesse de l'air au sol à un mètre de hauteur et le niveau de bruit au sol ainsi que la somme des puissances nominales des équipements qui composent le système de chauffage en précisant leur nature radiatif vs convectif et le cas échéant, la présence d'un système de ventilation mécanique.
+
+Le document justificatif spécifique à l'opération est la note de dimensionnement. Le nombre d'équipements installés doit être cohérent avec les préconisations de la note de dimensionnement.
+
+4. Durée de vie conventionnelle
+
+15 ans.
+
+5. Montant de certificats en kWh cumac
+
+Le montant de certificats d'économies d'énergie est déterminé pour l'ensemble du local complètement clos chauffé concerné par la déstratification.
+
+Zone climatique |
+
+Montant en kWhc par kW |
+
+|
+
+Puissance nominale du système de chauffage du local déstratifié (en kW) |
+
+Système convectif |
+
+Système radiatif |
+
+H1 |
+
+3 900 |
+
+1 400 |
+
+x |
+
+P |
+
+H2 |
+
+4 500 |
+
+1 600 |
+
+H3 |
+
+4 600 |
+
+1 600 |
+
+Dans le cadre d'un chauffage centralisé, convectif ou radiatif, la puissance nominale du système de chauffage du local est la somme des puissances nominales des équipements qui le composent en vue d'assurer le chauffage du local, cette puissance étant inférieure ou égale à la puissance nominale de la chaudière.
+
+Dans le cadre d'un chauffage décentralisé, convectif ou radiatif, la puissance nominale du système de chauffage est la somme des puissances nominales des équipements qui le compose.
+
+Par exemple sont considérés comme faisant partie d'un système convectif de chauffage : centrale de traitement d'air, unité de toiture ou rooftop , aérotherme électrique ou à combustible ou à fluide caloporteur, générateur d'air chaud, générateur de ventilation tempérée ou make-up , ventilo-convecteur. Si une chaudière chauffe plusieurs locaux à la fois, la part de la puissance nominale de la chaudière à considérer pour le local à déstratifier sera au prorata des volumes totaux chauffés.
+
+Par exemple sont considérés comme faisant partie d'un système radiatif de chauffage : cassettes, tubes et panneaux radiants électriques, à combustible ou à fluide caloporteur, les planchers chauffants. Si une chaudière chauffe plusieurs locaux à la fois, la part de la puissance nominale de la chaudière à considérer pour le local à déstratifier sera au prorata des volumes totaux chauffés.
+
+Lorsqu'un local est chauffé par un système convectif et un système radiatif, les montants en certificats peuvent être cumulés.
+
+Annexe 1 à la fiche d'opération standardisée BAT-TH-142, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAT-TH-142 (v. A71.4) : Mise en place d'un système de déstratification d'air pour l'homogénéisation de la température de l'air d'un local de grande hauteur complètement clos et chauffé par un système convectif et/ou radiatif.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) :
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) :
+
+Référence de la facture :
+
+* Nom du site des travaux :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Le local est complètement clos
+
+□ Oui □ Non
+
+* La température de consigne du chauffage lorsque le local est occupé est supérieure ou égale à 15 °C
+
+□ Oui □ Non
+
+* Hauteur sous plafond ou sous faîtage du local : h (en m) :
+
+Nota. - h est supérieure ou égale à 5 mètres.
+
+* Le système de déstratification d'air est à écoulement (cocher une seule case) :
+
+□ vertical : l'écoulement a une vitesse maximale de 0,2 m/s à un mètre du sol : □ Oui □ Non
+
+□ horizontal : l'écoulement a une vitesse maximale de 0,2 m/s à un mètre du sol : □ Oui □ Non
+
+A remplir uniquement dans le cas d'un système de déstratification d'air à écoulement vertical :
+
+* L'aspiration de l'air s'effectue à au plus un cinquième de la hauteur en partant du plafond ou du faîtage : □ Oui □ Non
+
+A remplir uniquement dans le cas d'un système de déstratification d'air à écoulement horizontal :
+
+* Le point le plus haut de l'aspiration se situe à au plus un mètre du plafond ou du faîtage : □ Oui □ Non
+
+* Le point le plus bas de l'aspiration se situe à au plus un mètre du sol : □ Oui □ Non
+
+* Le système de déstratification d'air est asservi à au moins une mesure de température de l'air dans la zone située entre le système de déstratification d'air et le plafond ou le faîtage : □ Oui □ Non
+
+* Le niveau du bruit au sol du fait du fonctionnement du système est strictement inférieur à 45 dB ou 45 dB(A) : □ Oui □ Non
+
+* Les flux d'air des systèmes de déstratification ne sont pas orientés vers les bouches de soufflage de la ventilation mécanique s'il y en a une : □ Oui □ Non
+
+* Le système de déstratification d'air installé ne permet pas de chauffer l'air et il n'est pas alimenté par un système de chauffage ou par récupération de chaleur fatale : □ Oui □ Non
+
+A remplir si le local est chauffé par un système convectif de chauffage :
+
+* Puissance nominale du système de chauffage convectif du local : P (en kW) :
+
+Nota. - Par exemple sont considérés comme faisant partie d'un système convectif de chauffage : centrale de traitement d'air, unité de toiture ou rooftop , aérotherme électrique ou à combustible ou à fluide caloporteur, générateur de ventilation tempérée ou make-up , générateur d'air chaud. La puissance nominale du système de chauffage est la somme des puissances nominales des équipements qui le composent en vue d'assurer le chauffage du local, à défaut, la part de la puissance nominale de la chaudière qui chauffe le local à déstratifier au prorata du volume du local à déstratifier.
+
+A remplir si le local est chauffé par un système radiatif de chauffage :
+
+* Puissance nominale du système de chauffage radiatif du local P (en kW) :
+
+Nota. - Par exemple sont considérés comme faisant partie d'un système radiatif de chauffage : cassettes, tubes et panneaux radiants électriques, à combustible ou à fluide caloporteur. La puissance nominale du système de chauffage est la somme des puissances nominales des équipements qui le composent en vue d'assurer le chauffage du local à défaut, la part de la puissance nominale de la chaudière qui chauffe le local à déstratifier au prorata du volume du local à déstratifier.
+
+* Nombre de systèmes de déstratification d'air installés :
+
+Nota. - le nombre de systèmes de déstratification d'air installés est cohérent avec les besoins définis par la note de dimensionnement et le calepinage.
+
+A ne remplir que si les marque et référence des équipements installés ne sont pas mentionnées sur la preuve de réalisation :
+
+* Marque(s) :
+
+* Référence(s) :
+
+Coordonnées du professionnel ou du bureau d'études ayant établi l'étude de dimensionnement :
+
+* Raison sociale :
+
+* Numéro SIREN :
+
+* Référence de l'étude de dimensionnement :
+
+* Date de l'étude de dimensionnement : //
+
+Identité du professionnel ayant réalisé l'opération, s'il n'est pas le signataire de cette attestation
+
+(sous traitant par exemple) :
+
+* Nom
+
+* Prénom
+
+* Raison sociale :
+
+* N° SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _
 
 -Ventilo-convecteurs haute performance / Fiche d’opération standardisée n° BAT-TH-143
 
 -Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante ‘France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-145
 
--Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-146
-
-Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER1923457A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
-
-Conformément à l’article 1 de de l’arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté.
-
-Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-TH-146, figurant en annexe E dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
-
 -Système de confinement des allées froides et allées chaudes dans un Data center / Fiche d’opération standardisée n° BAT-TH-153
 
 -Récupération instantanée de chaleur sur eaux grises / Fiche d’opération standardisée n° BAT-TH-154
-
--Isolation de points singuliers d’un réseau / Fiche d’opération standardisée n° BAT-TH-155
-
-Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-TH-155, figurant en annexe E dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
-
-Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAT-TH-155, figurant en annexe D dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 3 du présent arrêté.
 
 -Freecooling par eau de refroidissement en substitution d’un groupe froid pour la climatisation / Fiche d’opération standardisée n° BAT-TH-156
 
@@ -1014,11 +1218,423 @@ Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2
 
 -Luminaire d’éclairage général à modules LED / Fiche d’opération standardisée n° BAT-EQ-127
 
-Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
+Opération n° BAT-EQ-127
 
-Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe C dudit arrêté, à compter du 1er avril 2022.
+Luminaire à modules LED |
 
-Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
+1. Secteur d'application
+
+Bâtiments tertiaires existants.
+
+2. Dénomination
+
+Mise en place d'un luminaire à modules LED.
+
+Le remplacement de luminaires à halogènes est exclu.
+
+La présente fiche s'applique aux opérations engagées avant le 1 er août 2030.
+
+3. Conditions pour la délivrance de certificats
+
+La mise en place est réalisée par un professionnel.
+
+Les luminaires à modules LED mis en place respectent les critères suivants :
+
+-durée de vie calculée à 25° C supérieure ou égale à 50 000 heures pour une chute de flux lumineux inférieure ou égal à 20 % conformément à la norme EN 62722-2-1 et à la méthode d'extrapolation TM21 ;
+
+-efficacité lumineuse (flux lumineux total sortant du luminaire divisé par la puissance totale du luminaire auxiliaire d'alimentation compris) :
+
+-supérieure ou égale à 120 lumens par watt pour les luminaires ayant un indice de protection aux chocs (IK) supérieur ou égal à 10 selon la norme NF EN 62262 ;
+
+-supérieure ou égale à 140 lumens par watt pour les autres luminaires ;
+
+-toutefois, dans le cas où l'indice de rendu des couleurs (IRC) est supérieur ou égal à 90 selon la norme NF EN 62717, avec R9 > 0, l'efficacité lumineuse est supérieure ou égale à :
+
+-108 lumens par watt pour les luminaires ayant un indice de protection aux chocs (IK) supérieur ou égal à 10 selon la norme NF EN 62262 ;
+
+-126 lumens par watt pour les autres luminaires ;
+
+-facteur de déphasage supérieur ou égal à 0,9 quelle que soit la puissance selon la norme EN 61000-3-2 ;
+
+-taux de distorsion harmonique sur le courant inférieur à 25 % selon la norme EN 61000-3-2 ;
+
+-groupe de risque photobiologique strictement inférieur à 2 selon la norme NF EN 60598-1 Luminaires-Partie 1 : exigences générales et essais ;
+
+-le luminaire est adapté pour la régulation automatique par gradation de puissance en fonction de l'éclairage naturel du local dès lors que cet éclairage est possible ;
+
+-le ou les modules LED et leurs appareillages d'alimentation associés sont remplaçables.
+
+La mise en place des luminaires à modules LED fait l'objet d'une étude préalable de dimensionnement de l'éclairage effectuée, datée et signée par un professionnel ou un bureau d'études, et datée et signée par le bénéficiaire.
+
+Cette étude dresse l'état des lieux des équipements en place avant rénovation, identifie les besoins afin de garantir le bon éclairage général des locaux et la maîtrise des consommations d'énergie dans le respect des exigences réglementaires, indique les caractéristiques, le nombre et l'implantation des nouveaux luminaires, indique la puissance installée par m 2 de surface utile éclairée et dimensionne les économies d'énergie attendues. Le professionnel ou le bureau d'études dispose d'une qualification RGE étude dans le domaine de l'éclairage.
+
+La preuve de réalisation de l'opération mentionne la mise en place de luminaires à modules LED, la quantité d'équipements installés, leur puissance, leur durée de vie calculée à 25° C, leur chute de flux lumineux à l'issue de leur durée de vie, leur efficacité lumineuse (auxiliaire d'alimentation compris), leur indice de rendu des couleurs (IRC) et leur R9, leur indice de protection aux chocs (IK) si l'efficacité lumineuse est inférieure à 140 lm/ W, leur facteur de déphasage, leur taux de distorsion harmonique, le groupe de risque photobiologique et le fait que le luminaire est adapté pour la régulation automatique par gradation de puissance en fonction de l'éclairage naturel du local dès lors que cet éclairage est possible.
+
+A défaut, la preuve de réalisation de l'opération mentionne la mise en place d'un nombre donné de luminaires identifiés par leur marque et référence ainsi que la puissance de ces luminaires. Elle est complétée dans ce cas par un document issu du fabricant indiquant que les équipements de marque et référence mis en place sont des luminaires à modules LED. Ce document précise la durée de vie des luminaires calculée à 25° C, leur chute de flux lumineux à l'issue de leur durée de vie, leur efficacité lumineuse (auxiliaire d'alimentation compris), leur indice de protection aux chocs (IK), ou leur IRC, si l'efficacité lumineuse est inférieure à 140 lm/ W, leur facteur de déphasage, leur taux de distorsion harmonique, le groupe de risque photobiologique et le fait que le luminaire est adapté pour la régulation automatique par gradation de puissance en fonction de l'éclairage naturel du local dès lors que cet éclairage est possible.
+
+Les documents justificatifs spécifiques à l'opération sont l'étude de dimensionnement de l'éclairage préalable à la mise en place des luminaires à modules LED et le justificatif de la qualification du professionnel ou du bureau d'études ayant effectué cette étude.
+
+La déclaration de conformité UE des luminaires est archivée par le demandeur, ainsi que les rapports d'essais relatifs à l'efficacité lumineuse (auxiliaire d'alimentation compris) et à la chute de flux lumineux à l'issue de la durée de vie annoncée des luminaires. Les rapports d'essais justifiant les autres performances requises sont communiqués par le fabricant ou le metteur sur le marché, à la demande des agents chargés des contrôles, dans un délai de quinze jours. Ces rapports d'essais portent sur toutes les exigences de la présente fiche ; ils indiquent la référence précise des normes européennes prises en compte pour réaliser les essais, et comportent une photographie des luminaires testés ainsi que les marque et référence des luminaires.
+
+Les rapports d'essais sont établis par des laboratoires accrédités pour les essais prescrits. Cette accréditation est délivrée par des organismes faisant partie du réseau d'accréditation international ILAC (International Laboratory Accreditation Cooperation) dont fait partie l'organisme français COFRAC et l'organisme européen EA (European accreditation). Les rapports d'essais sont, le cas échéant, traduits en français à la demande des agents chargés des contrôles.
+
+4. Durée de vie conventionnelle
+
+Secteurs |
+
+Durée de vie conventionnelle
+
+(en années) |
+
+Hôtellerie |
+
+17 |
+
+Restauration |
+
+33 |
+
+Commerces < 400 m 2
+
+|
+
+17 |
+
+Bureaux |
+
+33 |
+
+Santé |
+
+17 |
+
+Enseignement |
+
+42 |
+
+Entrepôts/ Plateformes logistiques |
+
+17 |
+
+Commerces > 400 m 2
+
+|
+
+17 |
+
+5. Montant de certificats en kWh cumac
+
+Dans le cas où l'IRC est inférieur à 90 :
+
+|
+
+Montant en kWh cumac par watt installé |
+
+|
+
+|
+
+Secteurs |
+
+Efficacité lumineuse entre 120 et 139 lm/ W |
+
+Efficacité lumineuse entre 140 et 159 lm/ W |
+
+Efficacité lumineuse entre 160 et 184 lm/ W |
+
+Efficacité lumineuse supérieure ou égale à 185 lm/ W |
+
+X |
+
+Puissance totale
+
+des luminaires à modules
+
+LED installés
+
+(en watt) |
+
+Hôtellerie |
+
+41 |
+
+42 |
+
+53 |
+
+67 |
+
+P |
+
+Santé/ entrepôts/ Commerce ≥ 400 m 2
+
+|
+
+37 |
+
+38 |
+
+49 |
+
+62 |
+
+Enseignement |
+
+24 |
+
+24 |
+
+31 |
+
+39 |
+
+Commerce < 400 m 2
+
+|
+
+38 |
+
+39 |
+
+50 |
+
+63 |
+
+Bureaux-restauration |
+
+29 |
+
+29 |
+
+37 |
+
+47 |
+
+Autres |
+
+24 |
+
+24 |
+
+31 |
+
+39 |
+
+|
+
+|
+
+Dans le cas où l'IRC est supérieur ou égal à 90 avec R9 > 0 :
+
+|
+
+Montant en kWh cumac par watt installé |
+
+|
+
+|
+
+Secteurs |
+
+Efficacité lumineuse entre 108 et 125 lm/ W |
+
+Efficacité lumineuse entre 126 et 143 lm/ W |
+
+Efficacité lumineuse entre 144 et 166 lm/ W |
+
+Efficacité lumineuse supérieure ou égale à 167 lm/ W |
+
+X |
+
+Puissance totale
+
+des luminaires à modules
+
+LED installés
+
+(en watt) |
+
+Hôtellerie |
+
+33 |
+
+34 |
+
+44 |
+
+56 |
+
+P |
+
+Santé/ entrepôts/ Commerce ≥ 400 m 2
+
+|
+
+30 |
+
+31 |
+
+40 |
+
+52 |
+
+Enseignement |
+
+19 |
+
+19 |
+
+26 |
+
+33 |
+
+Commerce < 400 m 2
+
+|
+
+31 |
+
+32 |
+
+41 |
+
+53 |
+
+Bureaux-restauration |
+
+23 |
+
+24 |
+
+31 |
+
+40 |
+
+Autres |
+
+19 |
+
+19 |
+
+26 |
+
+|
+
+|
+
+|
+
+Annexe 1 à la fiche d'opération standardisée BAT-EQ-127, définissant le contenu de la partie A de l'attestation sur l'honneur
+
+A/ BAT-EQ-127 (v. A71.5) : Mise en place d'un luminaire à modules LED.
+
+* Date d'engagement de l'opération (ex : date d'acceptation du devis) : //
+
+Date de preuve de réalisation de l'opération (ex : date de la facture) : //
+
+Référence de la facture :
+
+* Nom du site des travaux ou nom de la copropriété :
+
+* Adresse des travaux :
+
+Complément d'adresse :
+
+* Code postal :
+
+* Ville :
+
+* Bâtiment tertiaire existant depuis plus de deux ans à la date d'engagement de l'opération : □ OUI □ NON
+
+* Secteurs (une seule case à cocher) :
+
+□ Hôtellerie
+
+□ Santé/Entrepôts/Commerce > 400 m2
+
+□ Enseignement
+
+□ Commerce < 400 m2
+
+□ Bureaux/Restauration
+
+□ Autres
+
+* L'opération a consisté dans le remplacement de luminaires hors halogènes : □ OUI □ NON
+
+* Puissance des luminaires à modules LED installés :
+
+* Puissance des luminaires à modules LED installés :
+
+* Marque et référence du
+
+luminaire |
+
+* Puissance unitaire (en W) du luminaire à modules LED |
+
+* Nombre
+
+de luminaires à modules LED |
+
+* Puissance totale (W) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+* Caractéristiques des luminaires à modules LED installés (paragraphe à dupliquer si les luminaires sont de marques et références différentes) :
+
+* Marque : * Référence :
+
+* Durée de vie des luminaires à modules LED avec une chute de flux lumineux ≤ 20 % : heures
+
+* Efficacité lumineuse (lm/W) :
+
+* Facteur de déphasage :
+
+* Indice de rendu des couleurs (IRC) s'il est supérieur ou égal à 90 (avec R9 >0) :
+
+* Indice de protection aux chocs (IK) si l'efficacité lumineuse est < 120 lm/W :
+
+* Taux de distorsion harmonique sur le courant (en %) :
+
+* L'éclairage à module LED est de groupe de risque photobiologique 0 ou 1 : □ OUI □ NON
+
+* Le ou les modules LED et leurs appareillages d'alimentation sont remplaçables : □ OUI □ NON
+
+* Le luminaire est adapté pour la régulation automatique par gradation de puissance en fonction de l'éclairage naturel du local : □ OUI □ NON
+
+Nota 1. - L'efficacité lumineuse est égale au flux lumineux total sortant du luminaire divisé par sa puissance totale, y compris les auxiliaires d'alimentation.
+
+Nota 2. - Le taux de distorsion harmonique sur le courant est déterminé conformément à la norme EN 61000-3-2.
+
+Nota 3. - La durée de vie est déterminée à 25 °C.
+
+Nota 4. - Le groupe de risque du luminaire est déterminé selon la norme NF EN 60598-1.
+
+Nota 5. - La puissance totale à prendre en compte pour le calcul du volume de certificats d'économies d'énergie de l'opération est égale à la somme des puissances totales des luminaires à modules LED mis en place, indiquées dans le tableau ci-dessus, correspondant au même groupe d'efficacité lumineuse mentionné dans la fiche d'opération standardisée.
+
+Le professionnel ou le bureau d'études réalisant l'étude préalable de dimensionnement de l'éclairage dispose d'une qualification RGE étude dans le domaine de l'éclairage.
 
 -Lanterneaux d’éclairage zénithal (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-129
 
@@ -1029,8 +1645,6 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 -Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° BAT-EQ-132 (abrogée à compter du 1er avril 2019)
 
 Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
-
--Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
 
 -Meuble frigorifique de vente performant avec groupe de production de froid intégré / Fiche d’opération standardisée n° BAT-EQ-134
 
@@ -1094,4 +1708,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Conformément à l’article 7 de l’arrêté du 18 novembre 2024 (NOR : TECR2428116A), les fiches remplacées conformément à l’article 1er dudit arrêté s'appliquent aux opérations engagées à compter du 1er janvier 2025.
+Conformément à l’article 1 de l’arrêté du 27 juin 2025 (NOR : ECOR2517481A), les fiches d'opérations standardisées portant les références BAT-EQ-133, BAT-TH-104, BAT-TH-146, BAT-TH-155 sont supprimées des annexes de l'arrêté du 22 décembre 2014 précité, à compter du 1 er août 2025.
