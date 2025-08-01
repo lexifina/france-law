@@ -8,11 +8,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -officier au pôle études enquêtes auprès de l'inspecteur général des armées-gendarmerie (1 emploi) ;
 
--chargé de mission au cabinet du directeur général de la gendarmerie nationale (4 emplois) ;
+-chargé de mission au cabinet du directeur général de la gendarmerie nationale (2 emplois) ;
 
 -chargé de mission auprès du directeur des soutiens et des finances (1 emploi) ;
 
--chargé de mission auprès du directeur des ressources humaines (1 emploi) ;
+-chargé de mission auprès du directeur des ressources humaines-directeur de programme Agorh @ 4.0 (1 emploi) ;
 
 -chargé de mission auprès du chef du service de la transformation (1 emploi) ;
 
@@ -22,27 +22,35 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de projets au sein de la sous-direction de la police judiciaire (2 emplois) ;
 
--chargé de projets au pôle stratégie capacitaire (1 emploi) ;
+-jusqu'au 31 août 2025, chargé de projets au pôle stratégie capacitaire (1 emploi) ;
+
+-à compter du 1 er septembre 2025, chargé de projets au service du pilotage et de la cohérence capacitaire (1 emploi) ;
 
 -commandant militaire du site de la direction générale de la gendarmerie nationale ;
 
+-chargé de mission au pôle des affaires réservées (1 emploi) ;
+
+-référent officier au sein du cabinet de la direction générale de la gendarmerie nationale (1 emploi).
+
 -porte-parole du directeur général de la gendarmerie nationale (1 emploi) ;
 
--chef d'une division au sein de l'unité nationale cyber (3 emplois) ;
+-jusqu'au 31 août 2025, chef d'une division au sein de l'unité nationale cyber (3 emplois) ;
+
+-jusqu'au 31 août 2025, chef de département au pôle stratégie capacitaire (2 emplois) ;
+
+-à compter du 1 er septembre 2025, chef de département au service du pilotage et de la cohérence capacitaire (5 emplois) ;
 
 -adjoint au chef du centre d'analyse et d'exploitation de la direction des opérations et de l'emploi (1 emploi) ;
 
 -secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie ;
 
--chef du pôle appui au commandement du cabinet du directeur général de la gendarmerie nationale ;
+-jusqu'au 31 août 2025, chef de division au service central de renseignement criminel de la gendarmerie nationale (4 emplois) ;
 
--chef de division au service central de renseignement criminel de la gendarmerie nationale (4 emplois) ;
-
--chef de division à l'institut de recherches criminelles de la gendarmerie nationale (4 emplois) ;
-
--référent officier au sein du cabinet de la direction générale de la gendarmerie nationale (1 emploi).
+-jusqu'au 31 août 2025, chef de division à l'institut de recherches criminelles de la gendarmerie nationale (4 emplois) ;
 
 A la direction générale de la gendarmerie nationale, le chef du bureau :
+
+-des actes de gestion et des études ;
 
 -de l'action sociale, des blessés et du handicap ;
 
@@ -106,15 +114,15 @@ A la direction générale de la gendarmerie nationale, le chef du bureau :
 
 -de la santé et de la sécurité au travail ;
 
--de la sécurité des mobilités ;
+-de la sécurité des mobilités jusqu'au 31 août 2025 ;
 
--de la sécurité et de l'ordre publics ;
+-contrôle des flux, à compter du 1 er septembre 2025 ;
 
 -du suivi de la synthèse et de la veille opérationnelle ;
 
 -de la stratégie des compétences ;
 
---stratégie innovation ;
+-stratégie innovation ;
 
 -de la synthèse budgétaire.
 
@@ -134,8 +142,6 @@ Au centre national des opérations, le chef du bureau :
 
 -chef du pôle des perspectives professionnelles à la sous-direction du personnel officier ;
 
--chef de département au pôle stratégie capacitaire (2 emplois).
-
 Au service de la transformation, le chef du département :
 
 -de l'administration de la donnée ;
@@ -146,13 +152,17 @@ Au service de la transformation, le chef du département :
 
 -chef du bureau de l'emploi, des soutiens et des finances au sein du commandement de la gendarmerie pour les réserves et la jeunesse ;
 
--directeur de projet Maintenance-MI au sein du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi) ;
+Au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur :
 
--chef du bureau logistique des équipements du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur ;
+-directeur de projet Maintenance-MI (1 emploi) ;
 
--chef du bureau logistique de la mobilité du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur ;
+-chef du bureau logistique des équipements ;
 
--chef du bureau de l'habillement du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur ;
+-chef du bureau logistique de la mobilité ;
+
+-chef du bureau de l'habillement ;
+
+-chef du bureau des achats métiers ;
 
 2° Inspection générale de la gendarmerie nationale :
 
@@ -176,7 +186,7 @@ Chef du bureau :
 
 -chargé de mission, au sein de la région Occitanie (1 emploi) ;
 
--officier adjoint commandement d'une région de gendarmerie à l'exception des régions de gendarmerie de Bretagne et des Hauts-de-France ;
+-officier adjoint commandement d'une région de gendarmerie à l'exception des régions de gendarmerie de Nouvelle-Aquitaine ;
 
 -officier adjoint en charge de la police judiciaire au sein d'une région de gendarmerie non zonale (6 emplois) ;
 
@@ -184,15 +194,15 @@ Chef du bureau :
 
 -chef d'une division de l'appui opérationnel d'une région de gendarmerie non zonale (6 emplois) ;
 
--adjoint au chef de la division de l'appui opérationnel de la région de gendarmerie de Provence-Alpes-Côte d'Azur (1 emploi) ;
+-adjoint au chef de la division de l'appui opérationnel des régions de gendarmerie de Provence-Alpes-Côte d'Azur et Bretagne (2 emplois) ;
 
 -adjoint au chef de la division zonale opérations emploi (6 emplois) ;
 
 -chargé de projets à la division de l'immobilier et du logement (1 emploi) ;
 
--officier adjoint soutien finances d'une région de gendarmerie zonale à l'exception de la région de gendarmerie de Provence-Alpes Côte d'Azur (6 emplois) ;
+-officier adjoint soutien finances d'une région de gendarmerie zonale à l'exception des régions de gendarmerie de Provence-Alpes-Côte d'Azur et Bretagne (5 emplois) ;
 
--officier adjoint ressources humaines d'une région de gendarmerie zonale à l'exception de la région de gendarmerie de Provence-Alpes Côte d'Azur (6 emplois) ;
+-officier adjoint ressources humaines d'une région de gendarmerie zonale à l'exception des régions de gendarmerie de Provence-Alpes-Côte d'Azur et Bretagne (5 emplois) ;
 
 -chef d'un centre zonal des opérations (7 emplois) ;
 
@@ -374,6 +384,8 @@ Officier adjoint commandement du groupement de gendarmerie départementale (1 em
 
 -de l'Hérault ;
 
+-de l'Ille-et-Vilaine ;
+
 -de l'Isère ;
 
 -de la Moselle ;
@@ -390,7 +402,7 @@ Officier adjoint commandement du groupement de gendarmerie départementale (1 em
 
 -du Var.
 
-Officier adjoint police judiciaire du groupement de gendarmerie départementale (1 emploi) :
+Officier adjoint de police judiciaire et renseignement 1 du groupement de gendarmerie départementale (1 emploi) :
 
 -de l'Ain ;
 
@@ -398,17 +410,17 @@ Officier adjoint police judiciaire du groupement de gendarmerie départementale 
 
 -des Bouches-du-Rhône ;
 
+-du Finistère ;
+
 -de la Gironde ;
 
--de la Haute-Garonne ;
+-de l'Ille-et-Vilaine ;
 
 -de la Haute-Savoie ;
 
 -de l'Hérault ;
 
 -de l'Isère ;
-
--de la Loire-Atlantique ;
 
 -de la Moselle ;
 
@@ -420,7 +432,17 @@ Officier adjoint police judiciaire du groupement de gendarmerie départementale 
 
 -du Rhône ;
 
--de la Seine-Maritime.
+-de la Seine et Marne ;
+
+-du Var.
+
+Officier adjoint de police judiciaire du groupement de gendarmerie départementale (1 emploi) :
+
+-de la Haute-Garonne ;
+
+-de la Loire-Atlantique ;
+
+-de la Seine-Maritime ;
 
 Commandant de la section de recherches :
 
@@ -474,9 +496,9 @@ Coordonnateur d'un centre de coopération policière et douanière (4 emplois) ;
 
 4° Gendarmerie mobile-Garde républicaine :
 
--chef de la division de l'appui opérationnel de la Garde républicaine ;
+-chef de la division de l'appui opérationnel de la garde républicaine ;
 
--chef de la division de l'emploi de la Garde républicaine ;
+-chef de la division de l'emploi de la garde républicaine ;
 
 -chef d'état-major groupement de gendarmerie mobile de Maisons-Alfort ;
 
@@ -572,13 +594,13 @@ Commandant de la section de recherches de :
 
 -Papeete ;
 
--Pointe-à-Pitre ;
+-Pointe à-Pitre ;
 
 -Saint-Denis ;
 
 7° Ecoles :
 
--chargé de projet auprès du commandement des écoles de la gendarmerie nationale (2 emplois) ;
+-chargé de projets auprès du commandement des écoles de la gendarmerie nationale (2 emplois) ;
 
 -commandant de groupement à l'Académie militaire de la gendarmerie nationale (3 emplois) ;
 
@@ -586,9 +608,9 @@ Commandant de la section de recherches de :
 
 Commandant du centre national de formation :
 
--à la police judiciaire ;
+-à la police judiciaire jusqu'au 31 août 2025 ;
 
--au renseignement opérationnel ;
+-au renseignement et à l'investigation à compter du 1 er septembre 2025 ;
 
 -aux systèmes d'information et de communication de la gendarmerie.
 
@@ -606,13 +628,15 @@ Commandant du centre national d'instruction :
 
 -chef de la division de la formation de l'école de gendarmerie de Dijon ;
 
+-chef de la division de la formation au commandement du centre national d'entraînement des forces de gendarmerie ;
+
 -adjoint au chef d'une division du CEGN (2 emplois) ;
 
 8° Autres emplois :
 
 -commandant de la gendarmerie des voies navigables ;
 
--officier adjoint commandement au commandement des maisons militaires ;
+-commandant des maisons militaires en second ;
 
 -commandant militaire de l'hôtel des Invalides ;
 
@@ -620,7 +644,7 @@ Commandant du centre national d'instruction :
 
 -chef d'une division au sein du commandement pour l'environnement et la santé (3 emplois) ;
 
--chargé de mission auprès du chef du pôle judiciaire de la gendarmerie nationale (1 emploi) ;
+-jusqu'au 31 août 2025, chargé de mission auprès du chef du pôle judiciaire de la gendarmerie nationale (1 emploi) ;
 
 -chargé de mission à la direction de la coopération internationale de sécurité (1 emploi) ;
 
@@ -628,13 +652,15 @@ Commandant du centre national d'instruction :
 
 -commandant du centre national de soutien logistique ;
 
+-chef d'état-major auprès du commandement du ministère de l'intérieur dans le cyberespace ;
+
 -adjoint au chef de l'état-major opérationnel du groupe d'intervention de la gendarmerie nationale ;
 
 -chef de l'unité de coordination des groupes d'intervention régionaux ;
 
 -officier de liaison auprès du secrétariat général de la mer (1 emploi) ;
 
--officier de liaison auprès du préfet de police délégué des Bouches-du-Rhône (1 emploi) ;
+-officier de liaison auprès du préfet de police des Bouches-du-Rhône (1 emploi) ;
 
 -officier de liaison au détachement de liaison d'un état-major de défense (8 emplois dont 1 emploi par zone de défense et de sécurité) ;
 
@@ -648,8 +674,6 @@ Commandant du centre national d'instruction :
 
 -officier de liaison au commandement des opérations spéciales (1 emploi) ;
 
--conseiller gendarmerie auprès du coordinateur national pour pour la sécurité des jeux Olympiques et Paralympiques 2024 et des grands évènements sportifs internationaux (1 emploi) ;
-
 -officier de liaison auprès de l'association des maires de France (1 emploi) ;
 
 -officier de liaison, conseiller technique à la direction de la sécurité du groupe Électricité de France ;
@@ -657,6 +681,10 @@ Commandant du centre national d'instruction :
 -officier de liaison au bureau réservé au sein du cabinet du ministère des armées (2 emplois) ;
 
 -officier de liaison, chef du secteur sécurité de l'espace européen du secrétariat général des affaires européennes (1 emploi) ;
+
+-officier de liaison à l'état-major de la criminalité organisée (1 emploi) ;
+
+-officier de liaison à la direction générale des étrangers en France (1 emploi) ;
 
 -chargé de mission auprès de la direction interministérielle de la transformation publique (1 emploi) ;
 
@@ -670,13 +698,15 @@ Commandant du centre national d'instruction :
 
 -chargé de mission, directement rattaché à un secrétaire général pour l'administration du ministère de l'intérieur ;
 
+-chargé de mission continuité d'activité et de l'action gouvernementale auprès du secrétaire général de la défense et de la sécurité nationale (2 emplois) ;
+
 -chargé de mission à l'institut des hautes études de la défense nationale (1 emploi) ;
 
 -chargé de projets au commandement spécialisé pour la sécurité nucléaire (1 emploi) ;
 
 -officier instructeur à l'institut des hautes études du ministère de l'intérieur (2 emplois) ;
 
--directeur adjoint au sein de la direction déléguée au contrôle gouvernemental au Haut commissariat à l'énergie atomique ;
+-directeur adjoint au sein de la direction déléguée au contrôle gouvernemental au Haut-Commissariat à l'énergie atomique ;
 
 -chef du bureau transmission et stockage à la direction de programme de la procédure pénale numérique ;
 
@@ -688,9 +718,9 @@ Commandant du centre national d'instruction :
 
 -chef de la division technique du groupe d'intervention de la gendarmerie nationale ;
 
--sous directeur adjoint à la direction nationale du renseignement territorial (2 emplois) ;
+-sous-directeur adjoint à la direction nationale du renseignement territorial (2 emplois) ;
 
--commandant du groupe de sécurité de la présidence de la République ;
+-chef du détachement gendarmerie du groupe de sécurité de la présidence de la République ;
 
 -commandant du groupement de sécurité et d'appui d'Issy-les-Moulineaux ;
 
@@ -714,13 +744,25 @@ Au sein du commandement des forces aériennes de la gendarmerie nationale :
 
 -de la division des opérations ;
 
+-de la division capacitaire ;
+
 -commandant du centre national d'instruction des forces aériennes de la gendarmerie ;
 
 -commandant du centre national de maintenance aéronautique de la gendarmerie.
 
-Au sein du commandement du ministère de l'intérieur dans le cyberespace :
+A compter du 1 er septembre 2025, à l'unité nationale de police judiciaire :
 
--chef d'état-major auprès du commandement du ministère de l'intérieur dans le cyberespace.
+-chef de la division de l'appui opérationnel ;
+
+-officier adjoint commandement à l'office central de lutte contre la délinquance itinérante ;
+
+-chef de division au service central de renseignement criminel de la gendarmerie nationale (4 emplois) ;
+
+-chef de division à l'institut de recherches criminelles de la gendarmerie nationale (3 emplois) ;
+
+-chef du centre national d'expertise numérique auprès de l'institut de recherches criminelles de la gendarmerie nationale ;
+
+-chef d'une division au sein de l'unité nationale cyber (3 emplois).
 
 A l'agence du numérique des forces de sécurité intérieure :
 
@@ -734,4 +776,4 @@ A l'agence du numérique des forces de sécurité intérieure :
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : INTJ2433487A), ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 2 de l'arrêté du 29 juillet 2025 (NOR : INTJ2521615A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er août 2025.

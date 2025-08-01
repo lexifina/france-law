@@ -10,27 +10,23 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 Chef du pôle :
 
--des techniques spéciales d'enquêtes ;
+-des techniques spéciales d'enquêtes, jusqu'au 31 août 2025 ;
 
 -coopération judiciaire internationale ;
 
 -prospective pénale et pratiques judiciaires ;
 
--adjoint d'une division au service central de renseignement criminel de la gendarmerie nationale (3 emplois) ;
+-jusqu'au 31 août 2025, adjoint d'une division au service central de renseignement criminel de la gendarmerie nationale (3 emplois) ;
 
--adjoint d'une division à l'institut de recherches criminelles de la gendarmerie nationale (4 emplois).
+-jusqu'au 31 août 2025, adjoint d'une division à l'institut de recherches criminelles de la gendarmerie nationale (4 emplois).
 
 Au sein du commandement de la gendarmerie pour les réserves et la jeunesse :
 
 -chef du bureau de l'accompagnement et de la conformité ;
 
--chargé de mission au commandement de la gendarmerie pour les réserves et la jeunesse (2 emplois).
+-chargé de mission au commandement de la gendarmerie pour les réserves et la jeunesse (2 emplois) ;
 
-Au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, le chef du :
-
--bureau des achats métiers ;
-
--bureau des achats immobiliers et prestations ;
+-chef du bureau des achats immobiliers et prestations au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, jusqu'au 1 er octobre 2025 ;
 
 -officier au pôle audiences recours médiations auprès de l'inspecteur général des armées-gendarmerie (1 emploi) ;
 
@@ -56,73 +52,25 @@ Officier adjoint commandement du groupement de gendarmerie départementale (1 em
 
 -des Alpes-Maritimes ;
 
--du Cantal ;
-
--de la Creuse ;
-
 -de la Drôme ;
 
 -de l'Eure ;
 
 -du Gard ;
 
--de la Haute-Loire ;
-
--de la Haute-Marne ;
-
 -du Haut-Rhin ;
 
--de l'Ille-et-Vilaine ;
+Officier adjoint de police judiciaire et renseignement 2 du groupement de gendarmerie départementale (1 emploi)
 
--de l'Indre ;
-
--de la Mayenne ;
-
--de la Meuse ;
-
--du Territoire de Belfort.
-
-Officier adjoint de police judiciaire du groupement de gendarmerie départementale (1 emploi) :
-
--de l'Ariège ;
-
--du Cantal ;
-
--de la Corse-du-Sud ;
-
--de la Creuse ;
-
--du Gers ;
-
--de la Haute-Loire ;
-
--de la Haute-Marne ;
-
--des Hautes-Alpes ;
-
--des Hautes-Pyrénées ;
-
--de l'Indre ;
-
--du Lot ;
-
--de la Lozère ;
-
--de la Mayenne ;
-
--de la Meuse ;
-
--de Tarn-et-Garonne ;
-
--du Territoire de Belfort ;
-
--du Var.
-
-Officier adjoint renseignement du groupement de gendarmerie départementale (1 emploi) :
+-de l'Aisne ;
 
 -de l'Allier ;
 
 -des Alpes-de-Haute-Provence ;
+
+-des Alpes-Maritimes ;
+
+-de l'Ardèche ;
 
 -des Ardennes ;
 
@@ -130,11 +78,17 @@ Officier adjoint renseignement du groupement de gendarmerie départementale (1 e
 
 -de l'Aube ;
 
+-de l'Aude ;
+
 -de l'Aveyron ;
 
 -du Cantal ;
 
+-du Calvados ;
+
 -de la Charente ;
+
+-de la Charente-Maritime ;
 
 -du Cher ;
 
@@ -142,9 +96,25 @@ Officier adjoint renseignement du groupement de gendarmerie départementale (1 e
 
 -de la Corse-du-Sud ;
 
+-des Côtes-d'Armor ;
+
 -de la Creuse ;
 
 -des Deux-Sèvres ;
+
+-de Dordogne ;
+
+-du Doubs ;
+
+-de la Drôme ;
+
+-de l'Essonne ;
+
+-de l'Eure ;
+
+-d'Eure-et-Loir ;
+
+-du Gard ;
 
 -du Gers ;
 
@@ -153,6 +123,8 @@ Officier adjoint renseignement du groupement de gendarmerie départementale (1 e
 -de la Haute-Loire ;
 
 -de la Haute-Marne ;
+
+-du Haut-Rhin ;
 
 -de la Haute-Saône ;
 
@@ -166,9 +138,15 @@ Officier adjoint renseignement du groupement de gendarmerie départementale (1 e
 
 -de l'Indre ;
 
+-d'Indre-et-Loire ;
+
 -de l'Isère ;
 
 -du Jura ;
+
+-des Landes ;
+
+-de la Loire ;
 
 -de Loir-et-Cher ;
 
@@ -178,17 +156,41 @@ Officier adjoint renseignement du groupement de gendarmerie départementale (1 e
 
 -de la Lozère ;
 
+-du Maine-et-Loire ;
+
+-de la Manche ;
+
+-de la Marne ;
+
 -de la Mayenne ;
 
+-de Meurthe-et-Moselle ;
+
 -de la Meuse ;
+
+-du Morbihan ;
 
 -de la Nièvre ;
 
 -de l'Orne ;
 
+-du Puy-de-Dôme ;
+
+-des Pyrénées-Atlantiques ;
+
+-des Pyrénées-Orientales ;
+
 -du Rhône ;
 
 -de la Seine-et-Marne ;
+
+-de la Saône-et-Loire ;
+
+-de la Sarthe ;
+
+-de la Savoie ;
+
+-de la Somme ;
 
 -du Tarn ;
 
@@ -196,9 +198,21 @@ Officier adjoint renseignement du groupement de gendarmerie départementale (1 e
 
 -du Territoire de Belfort ;
 
--du Var ;
+-du Val-d'Oise ;
 
--des Vosges.
+-du Var (2 emplois) ;
+
+-du Vaucluse ;
+
+-de la Vendée ;
+
+-de la Vienne ;
+
+-des Vosges ;
+
+-de l'Yonne ;
+
+-des Yvelines.
 
 Chef du groupe de soutien ressources humaines du groupement de gendarmerie départementale :
 
@@ -209,8 +223,6 @@ Chef du groupe de soutien ressources humaines du groupement de gendarmerie dépa
 -du Bas-Rhin ;
 
 -des Bouches-du-Rhône ;
-
--du Calvados ;
 
 -de l'Eure ;
 
@@ -240,7 +252,7 @@ Chef du groupe de soutien ressources humaines du groupement de gendarmerie dépa
 
 -du Rhône ;
 
--de la Seine-et-Marne ;
+-de la Seine et-Marne ;
 
 -du Var.
 
@@ -442,7 +454,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de Limoux ;
 
--de Lisieux
+-de Lisieux ;
 
 -de Loches ;
 
@@ -492,7 +504,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de Nogent-le-Rotrou ;
 
--de Nogent-sur-Seine ;
+-de Nogent-sur-eine ;
 
 -de Nontron ;
 
@@ -654,7 +666,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -d'Yvetot.
 
-Commandant de l'escadron départemental de sécurité routière :
+Commandant d'escadron départemental de sécurité routière jusqu'au 31 août 2025 et commandant d'escadron départemental de contrôle des flux à compter du 1 er septembre 2025 :
 
 -de l'Ain ;
 
@@ -976,23 +988,7 @@ Commandant de la section de recherches en second de :
 
 -Saint-Barthélemy et Saint-Martin.
 
-Officier adjoint en charge de la police judiciaire au sein du commandement la gendarmerie de :
-
--la Guadeloupe ;
-
--la Guyane ;
-
--la Martinique ;
-
--Mayotte ;
-
--la Nouvelle-Calédonie ;
-
--la Polynésie française ;
-
--La Réunion.
-
-Officier adjoint renseignement au sein du commandement de la gendarmerie de :
+Officier adjoint de police judiciaire et renseignement 2 au sein du commandement de la gendarmerie de :
 
 -la Guadeloupe ;
 
@@ -1050,13 +1046,19 @@ Commandant de la compagnie de gendarmerie départementale :
 
 8° Autres emplois :
 
--chef de l'unité d'investigations et d'identification à l'institut de recherche criminelle de la gendarmerie nationale ;
+-jusqu'au 31 août 2025, chef de l'unité d'investigations et d'identification à l'institut de recherche criminelle de la gendarmerie nationale ;
 
 -chef du bureau emploi au sein du commandement spécialisé pour la sécurité nucléaire ;
 
 -chef du bureau opérations au sein du commandement spécialisé pour la sécurité nucléaire ;
 
--chef de bureau au service du traitement de l'information de la gendarmerie (5 emplois) ;
+-chef de bureau au service du traitement de l'information de la gendarmerie (4 emplois) ;
+
+-chef de bureau d'infrastructure et des services d'hébergement au service d'infrastructure et d'hébergement (1 emploi) ;
+
+-chef du bureau du maintien en condition opérationnelle du commandement du soutien opérationnel de la gendarmerie ;
+
+-chef du bureau de l'organisation de la performance et du conseil budgétaire du commandement du soutien opérationnel de la gendarmerie ;
 
 -directeur au sein d'un secrétariat général pour l'administration du ministère de l'intérieur ;
 
@@ -1082,8 +1084,6 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -officier de liaison à la sous-direction défense technologie prolifération de la direction générale des relations internationales et de la stratégie (1 emploi) ;
 
--officier de liaison auprès du haut fonctionnaire de défense et de sécurité du ministère de l'éducation nationale et de la jeunesse (1 emploi) ;
-
 -chargé de mission sécurité au cabinet de la direction générale des outre-mer (1 emploi) ;
 
 -chef de service de permanence au sein du cabinet du Premier ministre ;
@@ -1092,7 +1092,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -chef de cabinet au secrétariat général de la défense et de la sécurité nationale (1 emploi).
 
-Au sein du du commandement des forces aériennes de la gendarmerie nationale :
+Au sein du commandement des forces aériennes de la gendarmerie nationale :
 
 -commandant de la force aérienne gendarmerie :
 
@@ -1106,13 +1106,23 @@ Au sein du du commandement des forces aériennes de la gendarmerie nationale :
 
 -chargé de projets auprès du commandement des forces aériennes de la gendarmerie nationale (1 emploi).
 
+A compter du 1 er septembre 2025, à l'unité nationale de police judiciaire :
+
+-chef de groupe au sein de l'unité nationale d'investigation (4 emplois) ;
+
+-adjoint d'une division au service central de renseignement criminel de la gendarmerie nationale (4 emplois) ;
+
+-adjoint d'une division à l'institut de recherches criminelles de la gendarmerie nationale (3 emplois) ;
+
+-chef de l'unité d'investigations et d'identification à l'institut de recherche criminelle de la gendarmerie nationale ;
+
+-chargé de projets auprès du commandant de l'unité nationale de police judiciaire.
+
 A l'agence du numérique des forces de sécurité intérieure :
 
 -chargé de projets à la direction des communications tactiques (1 emploi) ;
 
--chargé de projets à la direction des supports opérationnels (1 emploi) ;
-
--chargé de projets au sein à la direction de la sécurité et de l'architecture (1 emploi) ;
+-chargé de projets au sein à la direction de la sécurité et de l'architecture (2 emplois) ;
 
 -chargé de projets à la direction des applications d'appui au commandement (1 emploi) ;
 
@@ -1136,4 +1146,4 @@ A l'agence du numérique des forces de sécurité intérieure :
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : INTJ2433487A), ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 2 de l'arrêté du 29 juillet 2025 (NOR : INTJ2521615A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er août 2025.

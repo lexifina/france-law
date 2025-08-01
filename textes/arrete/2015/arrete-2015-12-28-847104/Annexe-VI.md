@@ -14,9 +14,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de projets au service de la transformation (1 emploi) ;
 
--chef de section au sein d'une direction de la direction générale de la gendarmerie nationale ;
+-à compter du 1 er septembre 2025, chef du centre national de sécurité des mobilités ;
 
--commandant de compagnie numérique au sein de la division de la proximité numérique ;
+-chef de section au sein d'une direction de la direction générale de la gendarmerie nationale, à l'exception de l'unité nationale cyber ;
+
+-jusqu'au 31 août 2025, commandant de compagnie numérique au sein de la division de la proximité numérique ;
 
 2° Inspection générale de la gendarmerie nationale :
 
@@ -42,7 +44,7 @@ Chef du bureau de la dépense militaire :
 
 -de l'Ile-de-France ;
 
--de la Nouvelle-Aquitaine.
+-de la Nouvelle-Aquitaine ;
 
 -adjoint commandant du groupement de sécurité et d'appui de Beynes ;
 
@@ -93,6 +95,8 @@ Chef du groupe de soutien ressources humaines du groupement de gendarmerie dépa
 -de l'Aude ;
 
 -de l'Aveyron ;
+
+-du Calvados ;
 
 -du Cantal ;
 
@@ -504,7 +508,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de Vichy.
 
-Commandant d'peloton de gendarmerie de haute montagne :
+Commandant d'un peloton de gendarmerie de haute montagne ;
 
 -chef d'un service départemental du renseignement territorial.
 
@@ -536,15 +540,15 @@ Chef de détachement territorial au sein d'une section de recherche :
 
 -commandant d'un escadron de gendarmerie mobile ;
 
+-commandant de la force nationale nucléaire radiologique biologique chimique du groupement blindé de gendarmerie mobile ;
+
 -adjoint au commandant d'un régiment de la garde républicaine.
 
-Commandant de la compagnie de sécurité et d'honneur :
+Commandant de la compagnie d'infanterie :
 
 -1/1 du premier régiment d'infanterie ;
 
 -2/1 du premier régiment d'infanterie ;
-
--3/1 du premier régiment d'infanterie ;
 
 -1/2 du deuxième régiment d'infanterie ;
 
@@ -552,11 +556,9 @@ Commandant de la compagnie de sécurité et d'honneur :
 
 -3/2 du deuxième régiment d'infanterie ;
 
--4/2 du deuxième régiment d'infanterie ;
+-4/2 du deuxième régiment d'infanterie.
 
--5/2 du deuxième régiment d'infanterie ;
-
--6/2 du deuxième régiment d'infanterie ;
+Commandant d'une compagnie d'infanterie d'appui et d'intervention (2 emplois) ;
 
 -commandant de l'escadron motocycliste de la garde républicaine ;
 
@@ -566,9 +568,9 @@ Commandant de la compagnie de sécurité et d'honneur :
 
 -commandant du troisième escadron du régiment de cavalerie de la garde républicaine ;
 
--commandant du quatrième escadron du régiment de cavalerie de la garde républicaine ;
+-commandant de l'escadron de coordination des forces équestres gendarmerie ;
 
--commandant du centre d'instruction de cavalerie de la garde républicaine ;
+-commandant du centre nationale d'instruction des forces équestres gendarmerie ;
 
 -commandant de l'escadron de sécurité et d'appui du groupement de gendarmerie mobile de Maisons-Alfort ;
 
@@ -580,7 +582,7 @@ Commandant de la compagnie de sécurité et d'honneur :
 
 -chef du bureau de la gestion du personnel et des compétences de la gendarmerie maritime ;
 
--chef du bureau du personnel de la gendarmerie des transport aérien ;
+-chef du bureau du personnel de la gendarmerie des transports aérien ;
 
 -commandant d'un patrouilleur de la gendarmerie maritime ;
 
@@ -608,7 +610,7 @@ Commandant en second de compagnie de la gendarmerie des transports aériens :
 
 6° Outre-mer :
 
--commandant en second de la gendarmerie de Wallis-et Futuna ;
+-commandant en second de la gendarmerie de Wallis-et-Futuna ;
 
 -commandant en second de la gendarmerie de Saint-Pierre-et-Miquelon ;
 
@@ -620,6 +622,8 @@ Commandant en second de compagnie de la gendarmerie des transports aériens :
 
 -chef du service départemental de renseignement territorial de Cayenne ;
 
+-chef du service départemental de renseignement territorial de Mayotte ;
+
 -officier adjoint commandement du commandement de la gendarmerie de Saint-Barthélemy et Saint-Martin ;
 
 -officier adjoint en charge de la police judiciaire au sein du commandement de la gendarmerie de Saint-Barthélemy et Saint-Martin.
@@ -630,7 +634,7 @@ Officier adjoint sécurité routière au sein du commandement de la gendarmerie 
 
 -la Polynésie française.
 
-Commandant de l'escadron départemental de sécurité routière :
+Commandant de l'escadron départemental de sécurité routière jusqu'au 31 août 2025 et commandant d'escadron départemental de contrôle des flux à compter du 1 er septembre 2025 :
 
 -de la Guadeloupe ;
 
@@ -668,7 +672,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -commandant d'une compagnie d'instruction au sein d'une école de gendarmerie (51 emplois) ;
 
--commandant de peloton à l'Académie militaire de la gendarmerie nationale (11 emplois) ;
+-commandant de peloton à l'Académie militaire de la gendarmerie nationale (13 emplois) ;
 
 -commandant de la compagnie de sécurité et d'appui de l'Académie militaire de la gendarmerie nationale ;
 
@@ -684,7 +688,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc ;
 
--commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-sous-Bois ;
+-commandant de la compagnie de sécurité du service d'infrastructure et d'hébergement ;
 
 -commandant de la compagnie de soutien opérationnel du groupement de sécurité et d'appui d'Issy-les-Moulineaux ;
 
@@ -692,13 +696,13 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -chef de la section nationale d'appui à la mobilité de Satory ;
 
--chef d'un détachement de l'office central de lutte contre la délinquance itinérante (5 emplois) ;
+-jusqu'au 31 août 2025, chef d'un détachement de l'office central de lutte contre la délinquance itinérante (5 emplois) ;
 
--chef d'un détachement de l'office central de lutte contre les atteintes à l'environnement et à la santé publique (10 emplois) ;
+-jusqu'au 31 août 2025, chef d'un détachement de l'office central de lutte contre les atteintes à l'environnement et à la santé publique (10 emplois) ;
 
 -chef d'un détachement ou d'une antenne de l'office anti-stupéfiants (5 emplois) ;
 
--chef du bureau des ressources humaines du pôle judiciaire de la gendarmerie nationale ;
+-jusqu'au 31 août 2025, chef du bureau des ressources humaines du pôle judiciaire de la gendarmerie nationale ;
 
 -chef du bureau des ressources humaines du groupe d'intervention de la gendarmerie nationale ;
 
@@ -706,15 +710,27 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -chef du bureau des ressources humaines du commandement du soutien opérationnel de la gendarmerie nationale ;
 
--chef du bureau ressources humaines au commandement du ministère de l'intérieur dans le cyberespace ;
+-jusqu'au 31 août 2025, chef du bureau ressources humaines au commandement du ministère de l'intérieur dans le cyberespace ;
+
+-à compter du 1 er septembre 2025, chef de la section ressources humaines au commandement du ministère de l'intérieur dans le cyberespace ;
 
 -chef du bureau des soutiens et des finances du commandement du soutien opérationnel de la gendarmerie nationale ;
 
--chef du bureau soutien finances au commandement du ministère de l'intérieur dans le cyberespace ;
+-jusqu'au 31 août 2025, chef du bureau soutien finances au commandement du ministère de l'intérieur dans le cyberespace ;
+
+-à compter du 1 er septembre 2025, chef de la section soutien finances au commandement du ministère de l'intérieur dans le cyberespace ;
 
 -chef du bureau soutiens finances au commandement des forces aériennes de la gendarmerie nationale ;
 
--adjoint commandant du groupement de sécurité et d'appui de Rosny-sous-Bois ;
+A compter du 1 er septembre 2025, à l'unité nationale de police judiciaire :
+
+-chef d'un détachement de l'office central de lutte contre la délinquance itinérante (5 emplois) ;
+
+-chef d'un détachement de l'office central de lutte contre les atteintes à l'environnement et à la santé publique (10 emplois) ;
+
+-chef du bureau des ressources humaines de l'unité nationale police judiciaire ;
+
+-adjoint au chef du service d'infrastructure et d'hébergement ;
 
 -chef de département à l'école spéciale militaire de Saint-Cyr-Coëtquidan (1 emploi) ;
 
@@ -730,8 +746,6 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -officier de liaison à la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur (2 emplois) ;
 
--officier de liaison à la direction de la protection des installations, moyens et activités de la défense (1 emploi) ;
-
 -officier de liaison, chef de section au sein de l'unité de coordination de lutte anti-terroriste (1 emploi) ;
 
 -officier de liaison auprès d'une préfecture maritime (3 emplois) ;
@@ -742,4 +756,4 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : INTJ2433487A), ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 2 de l'arrêté du 29 juillet 2025 (NOR : INTJ2521615A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er août 2025.

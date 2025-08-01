@@ -16,7 +16,7 @@ Commandant de la section d'appui judiciaire :
 
 -commandant en second de la section d'appui judiciaire de la région de gendarmerie d'Ile-de-France.
 
-Commandant en second ou adjoint de l'escadron départemental de sécurité routière (1 emploi) :
+Commandant en second ou adjoint de l'escadron départemental de sécurité routière jusqu'au 31 août 2025 et commandant en second ou adjoint de l'escadron départemental de contrôle des flux à compter du 1 er septembre 2025 (1 emploi) :
 
 -de l'Ain ;
 
@@ -488,7 +488,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -commandant d'une brigade territoriale autonome ;
 
--commandant d'une brigade territoriale mobile rattachée à une compagnie ou un escadron départemental de sécurité routière ;
+-commandant d'une brigade territoriale mobile rattachée à une compagnie ou un escadron départemental de sécurité routière jusqu'au 31 août 2025 et escadron départemental de contrôle des flux à compter du 1 er septembre 2025 ;
 
 -commandant d'un peloton d'autoroute ;
 
@@ -509,8 +509,6 @@ Commandant en second de la compagnie de gendarmerie départementale :
 -commandant d'un peloton de véhicules blindés ;
 
 3° Gendarmeries spécialisées :
-
--commandant de la section section d'appui judiciaire de la gendarmerie maritime ;
 
 -commandant en second de la section de recherches de la gendarmerie de l'armement.
 
@@ -540,7 +538,7 @@ Commandant en second d'une compagnie de la gendarmerie des transports aériens :
 
 -commandant en second d'une compagnie de la gendarmerie de l'air et de l'espace.
 
-Commandant de la brigade de gendarmerie des transports aériens de :
+-Commandant de la brigade de gendarmerie des transports aériens de :
 
 -Lyon-Saint-Exupéry ;
 
@@ -558,7 +556,7 @@ Commandant de la brigade de gendarmerie des transports aériens de :
 
 -commandant de la communauté de brigades gendarmerie des transports aériens de Bordeaux.
 
-Commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
+-Commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
 
 -Paris-Charles-de-Gaulle ;
 
@@ -580,7 +578,9 @@ Commandant de la section d'appui judiciaire de :
 
 -la Polynésie française ;
 
--La Réunion.
+-La Réunion ;
+
+-Saint-Barthélémy et Saint-Martin.
 
 Commandant en second de la compagnie de gendarmerie départementale :
 
@@ -596,6 +596,8 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de La-Foa ;
 
+-de Poindimié ;
+
 -de Saint-Benoît ;
 
 -de Saint-Claude (Guadeloupe) ;
@@ -604,9 +606,11 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 5° Autres emplois :
 
-Commandant de la section aérienne au commandement des forces aériennes de la gendarmerie (22 emplois) :
+Commandant de la section aérienne au commandement des forces aériennes de la gendarmerie (23 emplois) :
 
 -d'Ajaccio ;
+
+-d'Amiens-Glisy ;
 
 -de Bayonne ;
 
@@ -628,7 +632,7 @@ Commandant de la section aérienne au commandement des forces aériennes de la g
 
 -de Limoges ;
 
--de Mayotte ;
+-de Pamandzi ;
 
 -de Modane ;
 
@@ -674,6 +678,8 @@ Commandant de la section aérienne au commandement des forces aériennes de la g
 
 -Fontainebleau ;
 
+-à compter du 1 er septembre 2025, la garde républicaine de Paris ;
+
 -Issy-Les-Moulineaux ;
 
 -Le Blanc ;
@@ -704,10 +710,10 @@ Commandant de la section aérienne au commandement des forces aériennes de la g
 
 -Satory ;
 
--Tournon ;
+-jusqu'au 31 août 2025, Tournon ;
 
 -Tulle.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : INTJ2433487A), ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 2 de l'arrêté du 29 juillet 2025 (NOR : INTJ2521615A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er août 2025.

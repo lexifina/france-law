@@ -16,17 +16,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef du centre d'analyse et d'exploitation de la direction des opérations et de l'emploi ;
 
--chargé de mission auprès du directeur général de la gendarmerie nationale (7 emplois) ;
+-chargé de mission auprès du directeur général de la gendarmerie nationale (5 emplois) ;
 
 -chargé de mission auprès du directeur des ressources humaines de la gendarmerie nationale (5 emplois) ;
 
--chargé de mission auprès du directeur des opérations et de l'emploi (9 emplois) ;
+-chargé de mission auprès du directeur des opérations et de l'emploi (10 emplois) ;
 
 -chargé de mission responsable du pôle international auprès du directeur des opérations et de l'emploi (1 emploi) ;
 
 -chargé de mission auprès du directeur des soutiens et des finances (6 emplois) ;
-
--chargé de mission auprès du chef du service de la transformation (2 emplois) ;
 
 -chargé de mission à la mission des hauts potentiels (2 emplois) ;
 
@@ -34,11 +32,21 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chargé de la fonction ressources humaines, cabinet du directeur général de la gendarmerie nationale (1 emploi) ;
 
--commandant de l'unité nationale cyber en second ;
+-chargé de la fonction soutiens finances, cabinet du directeur général de la gendarmerie nationale (1 emploi) ;
+
+-chef de l'unité de coordination pour la lutte contre l'insécurité routière ;
+
+-jusqu'au 31 août 2025, commandant de l'unité nationale cyber en second ;
+
+-chef de division au service de pilotage et de la cohérence capacitaire (2 emplois) ;
+
+-chef de division au pôle de la stratégie générale (1 emploi) ;
 
 -directeur de projet à la mission LOG-MI du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi) ;
 
 -chef d'état-major du centre national des opérations au sein de la direction générale de la gendarmerie nationale ;
+
+-adjoint au sous-directeur de l'emploi des forces, chef du bureau de la sécurité et de l'ordre publics (1emploi) ;
 
 -adjoint au chef de la fonction opérations emploi, cabinet du directeur général de la gendarmerie nationale (1 emploi) ;
 
@@ -90,9 +98,7 @@ Chef de l'antenne déconcentrée de l'inspection générale de la gendarmerie na
 
 Officier adjoint commandement de la région zonale de gendarmerie :
 
--de Bretagne ;
-
--des Hauts-de-France ;
+-de Nouvelle Aquitaine ;
 
 -chef d'une division zonale opérations emploi (7 emplois) ;
 
@@ -324,7 +330,7 @@ Commandant en second de groupement de gendarmerie mobile de :
 
 -Sathonay-Camp ;
 
--groupement blindé de gendarmerie mobile.
+-commandant en second du groupement blindé de gendarmerie mobile ;
 
 Commandant de groupement de gendarmerie mobile de :
 
@@ -364,8 +370,6 @@ Commandant de groupement de gendarmerie mobile de :
 
 -commandant en second de la gendarmerie pour les missions extérieures ;
 
--chef d'état-major du commandement de la gendarmerie d'outre-mer.
-
 Commandant en second de la gendarmerie :
 
 -de la Guadeloupe ;
@@ -392,13 +396,17 @@ Commandant en second de la gendarmerie :
 
 -commandant de groupement de l'école de guerre ;
 
+-chargé de mission au centre d'enseignement militaire supérieur de la gendarmerie ;
+
 -chargé de projet auprès du commandement des écoles de la gendarmerie nationale (1 emploi) ;
 
 -commandant en second de l'école de gendarmerie de Dijon ;
 
+-commandant en second du centre national d'entraînement des forces de gendarmerie ;
+
 -commandant du centre de production multimédia de la gendarmerie nationale ;
 
--commandant la division des enseignements militaires et académiques ;
+-commandant de la division des enseignements militaires et académiques ;
 
 -commandant de la division des compétences au commandement des écoles de la gendarmerie nationale ;
 
@@ -410,13 +418,11 @@ Commandant en second de la gendarmerie :
 
 -chef de la division de la formation, commandant en second d'une école de gendarmerie à l'exception de Dijon (6 emplois) ;
 
--chef de la division de la formation, adjoint au commandant du centre national d'entraînement des forces de gendarmerie ;
-
 -chef de la division de l'appui à la formation de l'Académie militaire de la gendarmerie nationale ;
 
 8° Autres emplois :
 
-Commandant en second de l'office central de lutte contre :
+Jusqu'au 31 août 2025, commandant en second de l'office central de lutte contre :
 
 -la délinquance itinérante ;
 
@@ -426,15 +432,11 @@ Commandant en second de l'office central de lutte contre :
 
 -les crimes contre l'humanité et les crimes de haine ;
 
--chef de l'unité de coordination des forces d'intervention ;
-
--chef de l'unité de coordination pour la lutte contre l'insécurité routière ;
-
 -chef de l'état-major opérationnel du groupe d'intervention de la gendarmerie nationale ;
 
 -chef d'état-major du commandement du soutien opérationnel de la gendarmerie nationale ;
 
--directeur de l'enseignement et de recherche au pôle de judiciaire de la gendarmerie nationale ;
+-jusqu'au 31 août 2025, directeur de l'enseignement et de recherche au pôle de judiciaire de la gendarmerie nationale ;
 
 -commandant du centre national d'administration de la solde gendarmerie ;
 
@@ -448,11 +450,9 @@ Commandant en second de l'office central de lutte contre :
 
 -représentant gendarmerie auprès de l'unité de coordination des forces mobiles (1 emploi) ;
 
--secrétaire général adjoint de la garde nationale ;
-
 -secrétaire général adjoint d'un secrétariat général pour l'administration du ministère de l'intérieur ;
 
--sous-directeur à la directions des entreprises et partenariats de sécurité et des armes ;
+-sous-directeur à la direction des entreprises et partenariats de sécurité et des armes ;
 
 -chef du département des opérations et de l'emploi au commandement spécialisé pour la sécurité nucléaire ;
 
@@ -470,15 +470,15 @@ Commandant en second de l'office central de lutte contre :
 
 -directeur de la stratégie des risques et des relations internationales de l'institut des hautes études du ministère de l'intérieur ;
 
--chargé de mission jeux Olympiques 2024 affecté à la région de gendarmerie d'Ile-de-France (1 emploi) ;
-
 -chargé de mission au commandement des forces aériennes de la gendarmerie nationale (1 emploi).
 
 Au commandement du ministère de l'intérieur dans le cyberespace :
 
 -chargé de mission auprès du commandement du ministère de l'intérieur dans le cyberespace (1 emploi) ;
 
--chef d'une division du commandement du ministère de l'intérieur dans le cyberespace (3 emplois) ;
+-chef d'une division du commandement du ministère de l'intérieur dans le cyberespace (2 emplois) ;
+
+-jusqu'au 31 août 2025, le chef de la division des enquêtes spécialisées, de la donnée et des investigations techniques du commandement du ministère de l'intérieur dans le cyberespace ;
 
 -chef du centre de formation à la cybersécurité au commandement du ministère de l'intérieur dans le cyberespace.
 
@@ -486,12 +486,24 @@ A l'agence du numérique des forces de sécurité intérieure :
 
 -adjoint au chef de la direction des supports opérationnels ;
 
--chargé de mission (2 emplois) ;
+-chargé de mission (3 emplois) ;
 
 -chef de pôle pilotage projet-appui méthode ;
 
 -chargé de mission au pôle pilotage projet-appui méthode.
 
+A compter du 1 er septembre 2025, à l'unité nationale de police judiciaire :
+
+-officier adjoint commandement ;
+
+-chargé de mission directement rattaché au commandant de l'UNPJ ;
+
+-chef de la division de l'innovation technique ;
+
+-adjoint au chef de la division des opérations ;
+
+-commandant en second de l'unité nationale d'investigation.
+
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 30 décembre 2024 (NOR : INTJ2433487A), ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 2 de l'arrêté du 29 juillet 2025 (NOR : INTJ2521615A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er août 2025.
