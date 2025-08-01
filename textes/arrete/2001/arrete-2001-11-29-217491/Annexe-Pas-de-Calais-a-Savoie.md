@@ -4,11 +4,15 @@ Direction départementale des territoires et de la mer du Pas-de-Calais
 
 Fonctions exercées |
 
-Niveau de qualification de l'emploi |
+Niveau de qualification
+
+de l'emploi |
 
 Nombre d'emplois |
 
-Nombre de points (IM) par emploi |
+Nombre de points (IM)
+
+par emploi |
 
 Adjoint au chef de service habitat renouvellement urbain |
 
@@ -67,6 +71,14 @@ B |
 20 |
 
 Adjoint au responsable de l'unité rénovation qualité urbaine-chargé du suivi opérationnel |
+
+B |
+
+1 |
+
+20 |
+
+Adjoint au responsable d'unité RU (Boulonnais |
 
 B |
 
@@ -570,4 +582,4 @@ B
 
 NOTA :
 
-Conformément à l'article 1er de l'arrêté du 29 juin 2023 (NOR : TREK2318026A), la présente annexe est modifiée, à effet du 1er janvier 2023, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la la Haute-Saône.
+Conformément à l'article 1er de l'arrêté du 24 juillet 2025 (NOR : TREK2318026A), la présente annexe est modifiée, à effet du 1er août 2025, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Pas-de-Calais.
