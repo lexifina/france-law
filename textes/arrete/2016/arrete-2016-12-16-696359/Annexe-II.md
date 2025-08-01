@@ -142,7 +142,11 @@ Virus du bois strié du pommier [ASPV00]
 
 Candidatus Phytoplasma mali Seemüller & Schneider [PHYPMA]
 
-Altérations sur fruits : fruit atrophié du pommier [APCF00], fruits bosselés [APGC00], fruits cabossés de Ben Davis, maladie des taches liégeuses [APRSK0], craquelure étoilée, roussissement annulaire [APLP00], fruits verruqueux |
+Altérations sur fruits : fruit atrophié du pommier [APCF00], fruits bosselés [APGC00], fruits cabossés de Ben Davis, maladie des taches liégeuses [APRSK0], craquelure étoilée, roussissement annulaire [APLP00], fruits verruqueux
+
+Tomato ringspot virus [ToRSV0]
+
+|
 
 Olea europaea L. |
 
@@ -176,7 +180,11 @@ Virus de la sharka [PPV000]
 
 Virus du rabougrissement du prunier [PDV000]
 
-Virus des taches annulaires nécrotiques des Prunus [PNRSV0] |
+Virus des taches annulaires nécrotiques des Prunus [PNRSV0]
+
+Tomato ringspot virus [ToRSV0]
+
+|
 
 Prunus armeniaca L. |
 
@@ -198,7 +206,11 @@ Virus de la sharka [PPV000]
 
 Virus du rabougrissement du prunier [PDV000]
 
-Virus des taches annulaires nécrotiques des Prunus [PNRSV0] |
+Virus des taches annulaires nécrotiques des Prunus [PNRSV0]
+
+Tomato ringspot virus [ToRSV0]
+
+|
 
 Prunus avium L. et Prunus cerasus L. |
 
@@ -236,7 +248,11 @@ Virus des taches annulaires du framboisier [RPRSV0]
 
 Virus des taches annulaires latentes du fraisier [SLRSV0]
 
-Virus des anneaux noirs de la tomate [TBRV00] |
+Virus des anneaux noirs de la tomate [TBRV00]
+
+Tomato ringspot virus [ToRSV0]
+
+|
 
 Prunus domestica L., Prunus salicina Lindley et autres espèces de Prunus L. sensibles au virus de la sharka dans le cas des hybrides de Prunus L. |
 
@@ -258,7 +274,11 @@ Virus de la sharka [PPV000]
 
 Virus du rabougrissement du prunier [PDV000]
 
-Virus des taches annulaires nécrotiques des Prunus [PNRSV0] |
+Virus des taches annulaires nécrotiques des Prunus [PNRSV0]
+
+Tomato ringspot virus [ToRSV0]
+
+|
 
 Prunus persica (L.) Batsch |
 
@@ -284,7 +304,11 @@ Virus du rabougrissement du prunier [PDV000]
 
 Virus des taches annulaires nécrotiques des Prunus [PNRSV0]
 
-Virus des taches annulaires latentes du fraisier [SLRSV0] |
+Virus des taches annulaires latentes du fraisier [SLRSV0]
+
+Tomato ringspot virus [ToRSV0]
+
+|
 
 Pyrus L. |
 
@@ -358,7 +382,11 @@ Virus du réseau jaune du Rubus [RYNV00]
 
 Virus des taches annulaires latentes du fraisier [SLRSV0]
 
-Virus des anneaux noirs de la tomate [TBRV00] |
+Virus des anneaux noirs de la tomate [TBRV00]
+
+Tomato ringspot virus [ToRSV0]
+
+|
 
 Vaccinium L. |
 
@@ -386,8 +414,12 @@ Candidatus Phytoplasma solani Quaglino et al. [PHYPSO]
 
 Cranberry false blossom phytoplasma [PHYPFB]
 
+Tobacco ringspot virus [TRSV00]
+
+Tomato ringspot virus [ToRSV0]
+
 |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 9 juin 2023 (NOR : AGRG2311142A), ces dispositions entrent en vigueur le 1er juillet 2023.
+Conformément à l'article 2 de l'arrêté du 9 juillet 2025 (NOR : AGRG2518656A), ces dispositions entrent en vigueur le 1er août 2025.

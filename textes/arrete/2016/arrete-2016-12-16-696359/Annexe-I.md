@@ -64,9 +64,7 @@ Insectes et acariens
 
 Phytoptus avellanae Nalepa [ERPHAV] |
 
-Cydonia oblonga Mill. et Pyrus L.
-
-|
+Cydonia oblonga Mill. et Pyrus L. |
 
 Bactéries
 
@@ -140,15 +138,9 @@ Meloidogyne javanica Chitwood [MELGJA]
 
 Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE]
 
-Pratylenchus vulnus Allen & Jensen [PRATVU]
+Pratylenchus vulnus Allen & Jensen [PRATVU] |
 
-Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
-
-Agent de la mosaïque du figuier [FGM000] |
-
-Fragaria L.
-
-|
+Fragaria L. |
 
 Bactéries
 
@@ -268,9 +260,7 @@ Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE]
 
 Pratylenchus vulnus Allen & Jensen [PRATVU] |
 
-Olea europaea L.
-
-|
+Olea europaea L. |
 
 Bactéries
 
@@ -344,9 +334,7 @@ Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE]
 
 Pratylenchus vulnus Allen & Jensen [PRATVU] |
 
-Prunus armeniaca L.
-
-|
+Prunus armeniaca L. |
 
 Bactéries
 
@@ -508,10 +496,12 @@ Diaporthe vaccinii Shear [DIAPVA]
 
 Exobasidium vaccinii (Fuckel) Woronin [EXOBVA]
 
-Godronia cassandrae (forme anamorphe Topospora myrtilli) Peck
+Godronia cassandrae (forme anamorphe Topospora myrtilli) Peck [GODRCA]
 
-[GODRCA] |
+Pucciniastrum minimum Sydow & P. Sydow [THEKMI]
+
+|
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 9 juin 2023 (NOR : AGRG2311142A), ces dispositions entrent en vigueur le 1er juillet 2023.
+Conformément à l'article 2 de l'arrêté du 9 juillet 2025 (NOR : AGRG2518656A), ces dispositions entrent en vigueur le 1er août 2025.

@@ -6,7 +6,7 @@ Les matériels de multiplication satisfont aux prescriptions concernant les orga
 
 De plus, ils satisfont aux prescriptions suivantes par genre ou par espèce concernée :
 
-Castanea sativa Mill.
+1. Castanea sativa Mill.
 
 Inspections visuelles
 
@@ -18,43 +18,41 @@ En cas de doutes quant à la présence d'ORNQ figurant à l'annexe I, il est pro
 
 Prescriptions relatives au site de production, au lieu de production ou à la zone
 
-I. Cryphonectria parasitica (Murrill) Barr :
+i) Cryphonectria parasitica (Murrill) Barr :
 
-i) Les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes de Cryphonectria parasitica (Murrill) Barr ; ou
+-les matériels de multiplication et les plantes fruitières sont produits dans des zones déclarées exemptes de Cryphonectria parasitica (Murrill) Barr par l'autorité compétente, conformément aux normes internationales pour les mesures phytosanitaires pertinentes ; ou
 
-ii) Aucun symptôme de Cryphonectria parasitica (Murrill) Barr n'a été observé, sur le site de production, sur les matériels de multiplication et les plantes fruitières depuis le début du dernier cycle complet de végétation ; ou
+-aucun symptôme de Cryphonectria parasitica (Murrill) Barr n'a été observé, sur le site de production, sur les matériels de multiplication et les plantes fruitières au cours du dernier cycle complet de végétation ; ou
 
-iii) Les matériels de multiplication et les plantes fruitières présentant des symptômes de Cryphonectria parasitica (Murrill) Barr ont été arrachés, et les matériels de multiplication et les plantes fruitières restants sont inspectés chaque semaine et aucun symptôme n'a été observé sur le site de production au cours des trois dernières semaines au moins avant l'expédition.
+-les matériels de multiplication et les plantes fruitières présentant des symptômes de Cryphonectria parasitica (Murrill) Barr sont arrachés, les matériels de multiplication et les plantes fruitières restants sont inspectés chaque semaine et aucun symptôme n'a été observé sur le site de production au cours des trois dernières semaines au moins avant l'expédition ;
 
-II. Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld :
+ii) Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld :
 
-i) Les matériels de multiplication et les plantes fruitières sont produits dans des zones déclarées exemptes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld ; ou
+a) Les matériels de multiplication et les plantes fruitières sont produits dans des zones déclarées exemptes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld par l'autorité compétente, conformément aux normes internationales pour les mesures phytosanitaires pertinentes ; ou
 
-ii) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'a été observé, sur le site de production, sur les matériels de multiplication et les plantes fruitières au cours du dernier cycle complet de végétation ; ou
+b) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld n'a été observé, sur le site de production, sur les matériels de multiplication et les plantes fruitières au cours du dernier cycle complet de végétation ; ou
 
-iii) Les matériels de multiplication et les plantes fruitières présentant des symptômes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld sur le site de production et tous les végétaux situés dans un rayon de 2 m des matériels de multiplication et des plantes fruitières symptomatiques sont arrachés et détruits, y compris la terre adhérente,
+c) Les conditions suivantes sont respectées :
 
-et
+-les matériels de multiplication et les plantes fruitières présentant des symptômes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld sur le site de production et tous les végétaux situés dans un rayon de 2 mètres des matériels de multiplication et des plantes fruitières symptomatiques sont arrachés et détruits, y compris la terre adhérente ; et
 
-pour tous les végétaux situés dans un rayon de 10 m des matériels de multiplication et des plantes fruitières symptomatiques et pour tous les matériels de multiplication et plantes fruitières restants du lot contaminé :
+-pour tous les végétaux situés dans un rayon de 10 m des matériels de multiplication et des plantes fruitières symptomatiques et pour tous les matériels de multiplication et plantes fruitières restants du lot contaminé :
 
--dans les trois mois suivant la détection de matériels de multiplication et de plantes fruitières symptomatiques, aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est observé sur ces matériels de multiplication et plantes fruitières au cours d'au moins deux inspections effectuées à des moments opportuns pour détecter l'organisme nuisible et, au cours de ces trois mois, aucun traitement visant à supprimer les symptômes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est appliqué ; et
+-dans les trois mois suivant la détection de matériels de multiplication et de plantes fruitières symptomatiques, aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld n'est observé sur ces matériels de multiplication et plantes fruitières au cours d'au moins deux inspections effectuées à des moments opportuns pour détecter l'organisme nuisible et, au cours de ces trois mois, aucun traitement visant à supprimer les symptômes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld n'est appliqué ;
 
--après ces trois mois :
+-et après ces trois mois :
 
-(i) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est observé sur ces matériels de multiplication et plantes fruitières sur le site de production ; ou
+-aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld n'est observé sur ces matériels de multiplication et plantes fruitières sur le site de production ; ou
 
-(ii) Un échantillon représentatif de ces matériels de multiplication et plantes fruitières à déplacer est analysé et déclaré exempt de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld,
+-un échantillon représentatif de ces matériels de multiplication et plantes fruitières à déplacer est analysé et déclaré exempt de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld ;
 
-et
+-et pour tous les autres matériels de multiplication et plantes fruitières sur le site de production :
 
-pour tous les autres matériels de multiplication et plantes fruitières sur le site de production :
+-aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld n'est observé, sur le site de production, sur ces matériels de multiplication et plantes fruitières ; ou
 
-(i) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est observé, sur le site de production, sur ces matériels de multiplication et plantes fruitières ; ou
+-un échantillon représentatif de ces matériels de multiplication et plantes fruitières à déplacer a été analysé et déclaré exempt de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld.
 
-(ii) Un échantillon représentatif de ces matériels de multiplication et plantes fruitières à déplacer a été analysé et déclaré exempt de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld.
-
-Citrus L., Fortunella Swingle et Poncirus Raf.
+2. Citrus L., Fortunella Swingle et Poncirus Raf.
 
 Inspections visuelles
 
@@ -82,7 +80,7 @@ iv) Dans le cas de matériels de multiplication et de plantes fruitières qui n'
 
 -une partie représentative de matériels de multiplication et de plantes fruitières a été échantillonnée et analysée avant commercialisation en vue de la recherche du virus de la tristeza des agrumes (isolats de l'Union européenne), et 2 % au maximum des matériels de multiplication et des plantes fruitières du site de production ont été déclarés positifs au cours de la dernière saison végétative complète. Les matériels de multiplication et les plantes fruitières concernés ont été arrachés et immédiatement détruits. Les matériels de multiplication et les plantes fruitières situés à proximité immédiate ont fait l'objet d'échantillonnages et d'analyses aléatoires, et tous les matériels de multiplication et les plantes fruitières qui ont été déclarés positifs ont été arrachés et immédiatement détruits.
 
-Corylus avellana L.
+3. Corylus avellana L.
 
 Inspections visuelles
 
@@ -92,7 +90,7 @@ Echantillonnages et analyses
 
 En cas de doutes quant à la présence des ORNQ figurant aux annexes I et II, il est procédé à des échantillonnages et à des analyses.
 
-Cydonia oblonga Mill.
+4. Cydonia oblonga Mill.
 
 Inspections visuelles
 
@@ -108,7 +106,7 @@ i) Les matériels de multiplication et les plantes fruitières sont produits dan
 
 ii) Les matériels de multiplication et les plantes fruitières du site de production ont été inspectés au cours de la dernière saison végétative complète, et tous les matériels de multiplication et les plantes fruitières présentant des symptômes d'Erwinia amylovora (Burrill) Winslow et al., ainsi que toutes les plantes hôtes environnantes, ont été immédiatement arrachés et détruits.
 
-Ficus carica L.
+5. Ficus carica L.
 
 Inspections visuelles
 
@@ -118,7 +116,7 @@ Echantillonnages et analyses
 
 En cas de doutes quant à la présence des ORNQ figurant à l'annexe I, il est procédé à des échantillonnages et à des analyses.
 
-Fragaria L.
+6. Fragaria L.
 
 Inspections visuelles
 
@@ -132,25 +130,27 @@ Un échantillon représentatif de racines est prélevé et analysé en cas de sy
 
 Prescriptions relatives au site de production, au lieu de production ou à la zone
 
-i) Phytophthora fragariae C. J. Hickman
+i) Prescriptions pour les maladies fongiques et bactériennes :
+
+-Phytophthora fragariae C. J. Hickman :
 
 -les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes de Phytophthora fragariae C. J. Hickman ; ou
 
 -aucun symptôme de Phytophthora fragariae C. J. Hickman n'a été observé sur le feuillage des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, et tous les matériels de multiplication ainsi que toutes les plantes fruitières et plantes infectés situés dans un rayon d'au moins 5 m ont été marqués, exclus de l'enlèvement et de la commercialisation et détruits après que les matériels de multiplication et les plantes fruitières non infectés ont été enlevés ;
 
--Xanthomonas fragariae Kennedy & King
+-Xanthomonas fragariae Kennedy & King :
 
 -les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes de Xanthomonas fragariae Kennedy & King ; ou
 
 -aucun symptôme de Xanthomonas fragariae Kennedy & King n'a été observé sur les matériels de multiplication et les plantes fruitières du site de production au cours de la dernière saison végétative complète, et toutes les plantes symptomatiques situées à proximité immédiate ont été arrachées ; ou
 
--des symptômes de Xanthomonas fragariae Kennedy & King ont été observés sur 5 % au maximum des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, et ces matériels de multiplication et ces plantes fruitières, ainsi que toutes les plantes symptomatiques situées à proximité immédiate, ont été arrachés et immédiatement détruits.
+-des symptômes de Xanthomonas fragariae Kennedy & King ont été observés sur 5 % au maximum des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, et ces matériels de multiplication et ces plantes fruitières, ainsi que toutes les plantes symptomatiques situées à proximité immédiate, ont été arrachés et immédiatement détruits ;
 
 ii) Prescriptions pour les virus :
 
 En cas de résultat d'analyse positif pour les matériels de multiplication et les plantes fruitières présentant des symptômes du virus de la mosaïque de l'arabette, du virus des taches annulaires du framboisier, du virus de la frisolée du fraisier, du virus des taches annulaires latentes du fraisier, du virus du bord jaune du fraisier, du virus du liséré des nervures du fraisier et du virus des anneaux noirs de la tomate, les matériels de multiplication et les plantes fruitières concernés sont arrachés et immédiatement détruits.
 
-Juglans regia L.
+7. Juglans regia L.
 
 Inspections visuelles
 
@@ -160,7 +160,7 @@ Echantillonnages et analyses
 
 En cas de doutes quant à la présence des ORNQ figurant aux annexes I et II, il est procédé à des échantillonnages et à des analyses.
 
-Malus Mill.
+8. Malus Mill.
 
 Inspections visuelles
 
@@ -168,25 +168,33 @@ Des inspections visuelles sont effectuées une fois par an.
 
 Echantillonnages et analyses
 
-En cas de doutes quant à la présence des ORNQ figurant aux annexes I et II, il est procédé à des échantillonnages et à des analyses.
+En cas de doutes quant à la présence d'ORNQ figurant aux annexes I et II, il est procédé à des échantillonnages et à des analyses.
 
 Prescriptions relatives au site de production, au lieu de production ou à la zone
 
-i) Candidatus Phytoplasma mali Seemüller & Schneider
+i) Candidatus Phytoplasma mali Seemüller & Schneider :
 
--les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes de Candidatus Phytoplasma mali Seemüller & Schneider ou
+-les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes de Candidatus Phytoplasma mali Seemüller & Schneider ; ou
 
 -aucun symptôme de Candidatus Phytoplasma mali Seemüller & Schneider n'a été observé sur les matériels de multiplication et les plantes fruitières du site de production au cours de la dernière saison végétative complète, et toutes les plantes symptomatiques situées à proximité immédiate ont été arrachées et immédiatement détruites ; ou
 
 -des symptômes de Candidatus Phytoplasma mali Seemüller & Schneider ont été observés sur 2 % au maximum des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, toutes les plantes symptomatiques situées à proximité immédiate ont été arrachées et immédiatement détruites et un échantillon représentatif de matériels de multiplication et de plantes fruitières asymptomatiques restants dans les lots dans lesquels des matériels de multiplication et des plantes fruitières symptomatiques ont été trouvés a été analysé et déclaré exempt de Candidatus Phytoplasma mali Seemüller & Schneider ;
 
-ii) Erwinia amylovora (Burrill) Winslow et al.
+ii) Erwinia amylovora (Burrill) Winslow et al. :
 
 -les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes d'Erwinia amylovora (Burrill) Winslow et al. ; ou
 
--les matériels de multiplication et les plantes fruitières du site de production ont été inspectés au cours de la dernière saison végétative complète, et tous les matériels de multiplication et les plantes fruitières présentant des symptômes d'Erwinia amylovora (Burrill) Winslow et al., ainsi que toutes les plantes hôtes environnantes, ont été immédiatement arrachés et détruits
+-les matériels de multiplication et les plantes fruitières du site de production ont été inspectés au cours de la dernière saison végétative complète, et tous les matériels de multiplication et les plantes fruitières présentant des symptômes d'Erwinia amylovora (Burrill) Winslow et al., ainsi que toutes les plantes hôtes environnantes, ont été immédiatement arrachés et détruits ;
 
-Olea europaea L.
+iii) Tomato ringspot virus [ToRSV0] :
+
+-les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes du ToRSV ; ou
+
+-aucun symptôme du ToRSV n'a été observé sur les matériels de multiplication et les plantes fruitières du site de production au cours de la dernière saison végétative complète, et toutes les plantes symptomatiques situées à proximité immédiate ont été immédiatement arrachées et détruites ; ou
+
+-des symptômes du ToRSV ont été observés sur 2 % au maximum des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, et ces plantes symptomatiques ont été immédiatement arrachées et détruites.
+
+9. Olea europaea L.
 
 Inspections visuelles
 
@@ -196,7 +204,7 @@ Echantillonnages et analyses
 
 En cas de doutes quant à la présence des ORNQ figurant aux annexes I et II, il est procédé à des échantillonnages et à des analyses.
 
-Pistacia vera L.
+10. Pistacia vera L.
 
 Inspections visuelles
 
@@ -206,7 +214,7 @@ Echantillonnages et analyses
 
 En cas de doutes quant à la présence des ORNQ figurant à l'annexe I, il est procédé à des échantillonnages et à des analyses.
 
-Prunus armeniaca L., Prunus avium L., Prunus cerasifera Ehrh., Prunus cerasus L., Prunus domestica L., Prunus dulcis (Miller) Webb, Prunus persica (L.) Batsch et Prunus salicina Lindley
+11. Prunus armeniaca L., Prunus avium L., Prunus cerasifera Ehrh., Prunus cerasus L., Prunus domestica L., Prunus dulcis (Miller) Webb, Prunus persica (L.) Batsch et Prunus salicina Lindley
 
 Inspections visuelles
 
@@ -228,7 +236,7 @@ L'échantillonnage et l'analyse sont effectués en cas de doutes quant à la pr�
 
 Prescriptions relatives au site de production, au lieu de production ou à la zone
 
-i) Candidatus Phytoplasma prunorum Seemüller & Schneider
+i) Candidatus Phytoplasma prunorum Seemüller & Schneider :
 
 -les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes de Candidatus Phytoplasma prunorum Seemüller & Schneider ; ou
 
@@ -236,7 +244,7 @@ i) Candidatus Phytoplasma prunorum Seemüller & Schneider
 
 -des symptômes de Candidatus Phytoplasma prunorum Seemüller & Schneider ont été observés sur 1 % au maximum des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, ces matériels de multiplication et ces plantes fruitières, de même que toutes les plantes symptomatiques situées à proximité immédiate, ont été arrachés et immédiatement détruits, et un échantillon représentatif de matériels de multiplication et de plantes fruitières asymptomatiques restants dans les lots dans lesquels des matériels de multiplication et des plantes fruitières symptomatiques ont été trouvés a été analysé et déclaré exempt de Candidatus Phytoplasma prunorum Seemüller & Schneider ;
 
-ii) Virus de la sharka
+ii) Virus de la sharka :
 
 -les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes du virus de la sharka ; ou
 
@@ -244,7 +252,7 @@ ii) Virus de la sharka
 
 -des symptômes du virus de la sharka ont été observés sur 1 % au maximum des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, ces matériels de multiplication et ces plantes fruitières, de même que toutes les plantes symptomatiques situées à proximité immédiate, ont été arrachés et immédiatement détruits, et un échantillon représentatif de matériels de multiplication et de plantes fruitières asymptomatiques restants dans les lots dans lesquels des matériels de multiplication et des plantes fruitières symptomatiques ont été trouvés a été analysé et déclaré exempt du virus de la sharka ;
 
-iii) Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie
+iii) Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie :
 
 -les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie ; ou
 
@@ -252,7 +260,15 @@ iii) Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye 
 
 -des symptômes de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie ont été observés sur 2 % au maximum des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, et ces matériels de multiplication et ces plantes fruitières, ainsi que toutes les plantes symptomatiques situées à proximité immédiate, ont été arrachés et immédiatement détruits ;
 
-iv) Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+iv) Tomato ringspot virus [ToRSV0] :
+
+-les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes du ToRSV ; ou
+
+-aucun symptôme du ToRSV n'a été observé sur le site de production au cours de la dernière saison végétative complète, et toutes les plantes symptomatiques situées à proximité immédiate ont été arrachées et immédiatement détruites ; ou
+
+-des symptômes du ToRSV ont été observés sur 2 % au maximum des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, et ces plantes symptomatiques ont été immédiatement arrachées et détruites ;
+
+v) Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. :
 
 -les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. ; ou
 
@@ -260,7 +276,7 @@ iv) Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
 
 -des symptômes de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. ont été observés sur 2 % au maximum des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, et ces matériels de multiplication et ces plantes fruitières, ainsi que toutes les plantes symptomatiques situées à proximité immédiate, ont été arrachés et immédiatement détruits.
 
-Pyrus L.
+12. Pyrus L.
 
 Inspections visuelles
 
@@ -272,21 +288,53 @@ En cas de doutes quant à la présence d'ORNQ figurant aux annexes I et II, il e
 
 Prescriptions relatives au site de production, au lieu de production ou à la zone
 
-i) Candidatus Phytoplasma pyri Seemüller & Schneider
+i) Candidatus Phytoplasma pyri Seemüller & Schneider :
 
--les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes de Candidatus Phytoplasma pyri Seemüller & Schneider ; ou
+-les matériels de multiplication et les plantes fruitières sont produits dans des zones déclarées exemptes de Candidatus Phytoplasma pyri Seemüller & Schneider par l'autorité compétente, conformément aux normes internationales pour les mesures phytosanitaires pertinentes ; ou
 
--aucun symptôme de Candidatus Phytoplasma pyri Seemüller & Schneider n'a été observé sur le site de production au cours de la dernière saison végétative complète, et toutes les plantes symptomatiques situées à proximité immédiate ont été arrachées et immédiatement détruites ; ou
+-aucun symptôme de Candidatus Phytoplasma pyri Seemüller & Schneider n'a été observé, sur le site de production, sur les matériels de multiplication et les plantes fruitières au cours de la dernière saison végétative complète, et toutes les plantes symptomatiques situées à proximité immédiate sont arrachées et immédiatement détruites ; ou
 
 -les matériels de multiplication et les plantes fruitières sur le site de production ainsi que tout végétal situé à proximité immédiate qui ont présenté des symptômes de Candidatus Phytoplasma pyri Seemüller & Schneider lors d'inspections visuelles effectuées au cours des trois dernières saisons végétatives sont arrachés et immédiatement détruits.
 
-ii) Erwinia amylovora (Burrill) Winslow et al.
+ii) Erwinia amylovora (Burrill) Winslow et al. :
 
 -les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes d'Erwinia amylovora (Burrill) Winslow et al. ; ou
 
 -les matériels de multiplication et les plantes fruitières du site de production ont été inspectés au cours de la dernière saison végétative complète, et tous les matériels de multiplication et les plantes fruitières présentant des symptômes d'Erwinia amylovora (Burrill) Winslow et al., ainsi que toutes les plantes hôtes environnantes, ont été immédiatement arrachés et détruits.
 
-Ribes L.
+13. Ribes L.
+
+Inspections visuelles
+
+Des inspections visuelles sont effectuées une fois par an.
+
+Echantillonnages et analyses
+
+En cas de doutes quant à la présence des ORNQ figurant aux annexes I et II, il est procédé à des échantillonnages et à des analyses.
+
+14. Rubus L.
+
+Inspections visuelles
+
+Des inspections visuelles sont effectuées une fois par an.
+
+Echantillonnages et analyses
+
+L'échantillonnage et l'analyse sont effectués si, lors d'une inspection visuelle, les symptômes du virus de la mosaïque de l'arabette, du virus des taches annulaires du framboisier, du virus des taches annulaires latentes du fraisier, du virus des anneaux noirs de la tomate et de Tomato ringspot virus ne sont pas clairs. L'échantillonnage et l'analyse sont effectués en cas de doutes quant à la présence d'ORNQ figurant aux annexes I et II, autres que le virus de la mosaïque de l'arabette, le virus des taches annulaires du framboisier, le virus des taches annulaires latentes du fraisier, le virus des anneaux noirs de la tomate et Tomato ringspot virus.
+
+Prescriptions relatives au site de production, au lieu de production ou à la zone
+
+a) Les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes des ORNQ figurant aux annexes I et II pour Rubus L. ; ou
+
+b) Les dispositions suivantes sont respectées :
+
+-aucun symptôme des ORNQ figurant aux annexes I et II pour Rubus L. n'a été observé sur les matériels de multiplication et les plantes fruitières du site de production au cours de la dernière saison végétative complète ; et
+
+-en cas de symptômes du ToRSV, ceux-ci ont été observés sur 2 % au maximum des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, et ces plantes symptomatiques ont été immédiatement arrachées et détruites ; et
+
+-en cas de résultat d'analyse positif pour les matériels de multiplication et les plantes fruitières présentant des symptômes du virus de la mosaïque de l'arabette, du virus des taches annulaires du framboisier, du virus des taches annulaires latentes du fraisier, du virus des anneaux noirs de la tomate et de Tomato ringspot virus, les matériels de multiplication et les plantes fruitières concernés sont immédiatement arrachés et détruits.
+
+15. Vaccinium L.
 
 Inspections visuelles
 
@@ -296,60 +344,42 @@ Echantillonnages et analyses
 
 En cas de doutes quant à la présence d'ORNQ figurant aux annexes I et II, il est procédé à des échantillonnages et à des analyses.
 
-Rubus L.
-
-Inspections visuelles
-
-Des inspections visuelles sont effectuées une fois par an.
-
-Echantillonnages et analyses
-
-L'échantillonnage et l'analyse sont effectués si, lors d'une inspection visuelle, les symptômes du virus de la mosaïque de l'arabette, du virus des taches annulaires du framboisier, du virus des taches annulaires latentes du fraisier et du virus des anneaux noirs de la tomate ne sont pas clairs. L'échantillonnage et l'analyse sont effectués en cas de doutes quant à la présence d'ORNQ figurant aux annexes I et II, autres que le virus de la mosaïque de l'arabette, le virus des taches annulaires du framboisier, le virus des taches annulaires latentes du fraisier et le virus des anneaux noirs de la tomate.
-
 Prescriptions relatives au site de production, au lieu de production ou à la zone
 
-En cas de résultat d'analyse positif pour les matériels de multiplication et les plantes fruitières présentant des symptômes du virus de la mosaïque de l'arabette, du virus des taches annulaires du framboisier, du virus des taches annulaires latentes du fraisier et du virus des anneaux noirs de la tomate, les matériels de multiplication et les plantes fruitières concernés sont arrachés et immédiatement détruits.
+i) Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld :
 
-Vaccinium L.
+a) Les matériels de multiplication et les plantes fruitières sont produits dans des zones déclarées exemptes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld par l'autorité compétente, conformément aux normes internationales pour les mesures phytosanitaires pertinentes ; ou
 
-Inspections visuelles
+b) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld n'a été observé, sur le site de production, sur les matériels de multiplication et les plantes fruitières au cours du dernier cycle complet de végétation ; ou
 
-Des inspections visuelles sont effectuées une fois par an.
+c) Les conditions suivantes sont respectées :
 
-Echantillonnages et analyses
+-les matériels de multiplication et les plantes fruitières présentant des symptômes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld sur le site de production et tous les végétaux situés dans un rayon de 2 m des matériels de multiplication et des plantes fruitières symptomatiques sont arrachés et détruits, y compris la terre adhérente ; et
 
-En cas de doutes quant à la présence d'ORNQ figurant aux annexes I et II, il est procédé à des échantillonnages et à des analyses.
+-pour tous les végétaux situés dans un rayon de 10 m des matériels de multiplication et des plantes fruitières symptomatiques et pour tous les matériels de multiplication et plantes fruitières restants du lot contaminé :
 
-Prescriptions relatives au site de production, au lieu de production ou à la zone
+-dans les trois mois suivant la détection de matériels de multiplication et de plantes fruitières symptomatiques, aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld n'est observé sur ces matériels de multiplication et plantes fruitières au cours d'au moins deux inspections effectuées à des moments opportuns pour détecter l'organisme nuisible et, au cours de ces trois mois, aucun traitement visant à supprimer les symptômes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld n'est appliqué ;
 
-Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld :
+-et après ces trois mois :
 
-i) Les matériels de multiplication et les plantes fruitières sont produits dans des zones déclarées exemptes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld ; ou
+-aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld n'est observé sur ces matériels de multiplication et plantes fruitières sur le site de production ; ou
 
-ii) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'a été observé, sur le site de production, sur les matériels de multiplication et les plantes fruitières au cours du dernier cycle complet de végétation ; ou
+-un échantillon représentatif de ces matériels de multiplication et plantes fruitières à déplacer est analysé et déclaré exempt de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld ;
 
-iii) Les matériels de multiplication et les plantes fruitières présentant des symptômes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld sur le site de production et tous les végétaux situés dans un rayon de 2 m des matériels de multiplication et des plantes fruitières symptomatiques sont arrachés et détruits, y compris la terre adhérente,
+-et pour tous les autres matériels de multiplication et plantes fruitières sur le site de production :
 
-et
+-aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld n'est observé, sur le site de production, sur ces matériels de multiplication et plantes fruitières ; ou
 
-pour tous les végétaux situés dans un rayon de 10 m des matériels de multiplication et des plantes fruitières symptomatiques et pour tous les matériels de multiplication et plantes fruitières restants du lot contaminé :
+-un échantillon représentatif de ces matériels de multiplication et plantes fruitières à déplacer a été analysé et déclaré exempt de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in't Veld.
 
--dans les trois mois suivant la détection de matériels de multiplication et de plantes fruitières symptomatiques, aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est observé sur ces matériels de multiplication et plantes fruitières au cours d'au moins deux inspections effectuées à des moments opportuns pour détecter l'organisme nuisible et, au cours de ces trois mois, aucun traitement visant à supprimer les symptômes de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est appliqué ; et
+ii) Tobacco ringspot virus [TRSV00] et Tomato ringspot virus [ToRSV0] :
 
--après ces trois mois :
+-les matériels de multiplication et les plantes fruitières sont produits dans des zones reconnues exemptes du TRSV et du ToRSV ; ou
 
-(i) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est observé sur ces matériels de multiplication et plantes fruitières sur le site de production ; ou
+-aucun symptôme du TRSV et du ToRSV n'a été observé sur le site de production au cours de la dernière saison végétative complète et toutes les plantes symptomatiques situées à proximité immédiate ont été immédiatement arrachées et détruites ; ou
 
-(ii) Un échantillon représentatif de ces matériels de multiplication et plantes fruitières à déplacer est analysé et déclaré exempt de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld,
-
-et
-
-pour tous les autres matériels de multiplication et plantes fruitières sur le site de production :
-
-(i) Aucun symptôme de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld n'est observé, sur le site de production, sur ces matériels de multiplication et plantes fruitières ; ou
-
-(ii) Un échantillon représentatif de ces matériels de multiplication et plantes fruitières à déplacer a été analysé et déclaré exempt de Phytophthora ramorum (isolats de l'UE) Werres, De Cock & Man in ‘ t Veld.
+-des symptômes du TRSV et du ToRSV ont été observés sur 2 % au maximum des matériels de multiplication et des plantes fruitières du site de production au cours de la dernière saison végétative complète, et ces plantes symptomatiques ont été arrachées immédiatement et détruites.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 9 juin 2023 (NOR : AGRG2311142A), ces dispositions entrent en vigueur le 1er juillet 2023.
+Conformément à l'article 2 de l'arrêté du 9 juillet 2025 (NOR : AGRG2518656A), ces dispositions entrent en vigueur le 1er août 2025.
