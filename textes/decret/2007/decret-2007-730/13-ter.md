@@ -1,6 +1,8 @@
 # Article 13 ter
 
-I. - Une commission médicale est instituée au sein de la caisse. Cette commission est saisie à réception par la caisse de toute demande de bénéfice d'une pension de retraite de réforme prévue à l'article 2 bis du décret du 30 juin 2008 par un salarié mentionné à l'article L. 2102-22 du code des transports.
+I. - Une commission médicale est instituée au sein de la caisse de prévoyance et de retraite du personnel ferroviaire. Cette commission est saisie à réception par la caisse de toute demande de bénéfice d'une pension de retraite de réforme prévue à l'article 2 bis du décret du 30 juin 2008 susmentionné par un salarié mentionné à l'article L. 2102-22 du code des transports.
+
+Cette commission peut en outre être saisie à réception par la caisse de retraites du personnel de la Régie autonome des transports parisiens des demandes de bénéfice d'une pension de retraite de réforme prévue à l'article 14 du décret n° 2008-637 du 30 juin 2008 portant règlement des retraites du personnel de la Régie autonome des transports parisiens, dans les conditions prévues au VI de l'article 13-1 du décret n° 2005-1635 du 26 décembre 2005 relatif à la caisse de retraites du personnel de la Régie autonome des transports parisiens.
 
 Le secrétariat de la commission accuse réception de la saisine.
 

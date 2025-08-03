@@ -4,13 +4,13 @@ RÈGLEMENT DE PRÉVOYANCE DU PERSONNEL DE LA SOCIETE NATIONALE SNCF ET SES FILIA
 
 Chapitre 1er
 
-Ouvrant droit. - Ayant droit
+Ouvrant droit - Autres bénéficiaires
 
 Article 1er-1
 
 Ouvrant droit
 
-Ont droit et ouvrent droit, sous réserve de l'application des règles de maintien des droits et de coordination prévues à la sous-section 2 de la section 1 du chapitre Ier du titre VI du livre Ier du code de la sécurité sociale et au chapitre II du titre VII du livre Ier du même code :
+Ont droit et ouvrent droit, sous réserve de l'application des règles de coordination prévues au chapitre II du titre VII du livre Ier du code de la sécurité sociale :
 
 I.-Aux prestations de prévoyance prévues au 2° du III de l'article 1er du décret n° 2007-730 du 7 mai 2007 relatif à la caisse de prévoyance et de retraite du personnel ferroviaire :
 
@@ -22,15 +22,15 @@ I.-Aux prestations de prévoyance prévues au 2° du III de l'article 1er du dé
 
 4. Les agents bénéficiant d'une cessation anticipée d'activité visé au IV bis de l'article 7 du décret du 30 juin 2008 susvisé, pendant les périodes durant lesquelles ils perçoivent une allocation.
 
-II.-Aux prestations en nature des assurances maladie et maternité les agents en congé de disponibilité dont la liste figure à l'article 12 du chapitre 10 du statut mentionné à l' article L. 2101-2 du code des transports, sans versement des cotisations ouvrières et patronales. Leur droit à l'allocation de fin de carrière et aux allocations décès n'est maintenu que moyennant le versement des cotisations ouvrières et patronales, selon les modalités prévues à l'article 7 du décret n° 2007-1056 du 28 juin 2007 relatif aux ressources de la caisse de prévoyance et de retraite du personnel ferroviaire.
+II.-Aux frais de santé des assurances maladie et maternité les agents en congé de disponibilité dont la liste figure à l'article 12 du chapitre 10 du statut mentionné à l' article L. 2101-2 du code des transports, sans versement des cotisations ouvrières et patronales. Leur droit à l'allocation de fin de carrière et aux allocations décès n'est maintenu que moyennant le versement des cotisations ouvrières et patronales, selon les modalités prévues à l'article 7 du décret n° 2007-1056 du 28 juin 2007 relatif aux ressources de la caisse de prévoyance et de retraite du personnel ferroviaire.
 
-III.-Aux seules prestations en nature des assurances maladie et maternité dans les conditions applicables aux retraités les anciens agents ayant cessé leurs fonctions à la société nationale SNCF ou ses filiales ou groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports par départ volontaire qui reçoivent des indemnités de chômage versées par la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports sans interruption jusqu'à la date d'entrée en jouissance de leur pension du régime spécial de retraite du personnel de la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports.
+III.-Aux seuls frais de santé des assurances maladie et maternité dans les conditions applicables aux retraités les anciens agents ayant cessé leurs fonctions à la société nationale SNCF ou ses filiales ou groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports par départ volontaire qui reçoivent des indemnités de chômage versées par la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports sans interruption jusqu'à la date d'entrée en jouissance de leur pension du régime spécial de retraite du personnel de la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports.
 
 Article 1er-2
 
 Autres bénéficiaires
 
-Ont droit, sous réserve de l'application des règles de maintien des droits et de coordination prévues à la sous-section 2 de la section I du chapitre Ier du titre VI du livre Ier du code de la sécurité sociale et au chapitre II du titre VII du livre Ier du même code :
+Ont droit, sous réserve de l'application des règles de coordination prévues au chapitre II du titre VII du livre Ier du code de la sécurité sociale :
 
 I.-Au titre des prestations de l'assurance maladie :
 
@@ -38,19 +38,9 @@ I.-Au titre des prestations de l'assurance maladie :
 
 a) Les enfants mentionnés au 5° de l'article D. 160-14 du code de la sécurité sociale dans les conditions prévues à l'article L. 160-2 du même code ;
 
-b) Les enfants affiliés au régime spécial qui dépassent au 1er septembre 2018 l'âge mentionné au 5° de l'article D. 160-14, lorsqu'ils poursuivent leurs études dans un établissement d'enseignement supérieur dans les conditions définies à l'article L. 351-14-1 du code de la sécurité sociale, jusqu'à qu'ils aient atteint l'âge de vingt-huit ans ;
-
-c) à f) (Abrogés)
-
-g) Les enfants célibataires âgés de plus de 24 ans de l'affilié ou de son conjoint, habitant chez l'agent ou chez l'ancien agent retraité, et à la charge de celui-ci, qui sont atteints d'une affection grave nécessitant un traitement de longue durée en cours au moment où ils atteignent leur 24e anniversaire et qui les met dans l'incapacité temporaire de travailler, dans la mesure où ils ne sont pas susceptibles d'être couverts par un régime de sécurité sociale ;
-
-h) Les enfants âgés de plus de 24 ans de l'affilié ou de son conjoint, atteints, au moment de leur 24e anniversaire, d'une incapacité permanente de travailler médicalement attestée et à la charge de l'agent ou de l'ancien agent retraité, dans la mesure où ils ne sont pas susceptibles d'être couverts par un régime de sécurité sociale ;
-
-i) (Abrogé)
+b) Les enfants affiliés au régime spécial qui dépassent au 1er septembre 2018 l'âge mentionné au 5° de l'article D. 160-14, lorsqu'ils poursuivent leurs études dans un établissement d'enseignement supérieur dans les conditions définies à l'article L. 351-14-1 du code de la sécurité sociale, jusqu'à ce qu'ils aient atteint l'âge de vingt-huit ans ;
 
 2° Peuvent également être admis en qualité d'ayant droit dans les conditions prévues aux articles L. 161-14 et R. 161-8-1 du code de la sécurité sociale :
-
-j) à l) (Abrogés)
 
 II.-Au titre des prestations de l'assurance maternité :
 
@@ -62,11 +52,11 @@ Les ayants droit à l'assurance décès et à la prestation spéciale d'accompag
 
 IV.-Définition des enfants à charge :
 
-Pour l'application des 1° et 2° du présent article, sont considérés comme étant à charge les enfants dont la rémunération n'excède pas le plafond mentionné au deuxième alinéa de l'article R. 512-2 du code de la sécurité sociale.
+Pour l'application des 1° et 2° du I du présent article, sont considérés comme étant à charge les enfants dont la rémunération n'excède pas le plafond mentionné au deuxième alinéa de l'article R. 512-2 du code de la sécurité sociale.
 
 V.-Dispositions diverses :
 
-Les dispositions du présent article ne s'appliquent qu'aux enfants mentionnés au a du 1° du I et à ceux mentionnés aux b, g et h du 1° du I lorsque l'affilié l'est au titre d'un droit à pension de vieillesse dérivé.
+Les dispositions du présent article ne s'appliquent qu'aux enfants mentionnés au a du 1° du I et à ceux mentionnés au b du 1° du I lorsque l'affilié l'est au titre d'un droit à pension de vieillesse dérivé.
 
 Les personnes de nationalité étrangère ne peuvent être admises en qualité d'ayant droit que si elles répondent aux dispositions des articles L. 161-25-2 et R. 115-6 du code de la sécurité sociale.
 
@@ -82,23 +72,17 @@ Conformément aux dispositions de l'article R. 711-17 du code de la sécurité s
 
 Pour le service de ces prestations, les dispositions contenues dans les livres, titres ou articles suivants du code de la sécurité sociale sont applicables :
 
-1. Titre VI du livre Ier relatif aux prestations et aux soins, à l'exception du deuxième alinéa de l'article L. 161-14-1.
+1. Titre VI du livre Ier relatif aux prestations et aux soins, à l'exception de l'article R. 160-16.
 
 2. Article L. 314-1 relatif aux soins pris en charge par l'assurance maladie.
 
-3. Article L. 321-1,5° excepté, relatif aux prestations en nature.
-
-4. Chapitre II du titre II du livre III relatif aux prestations en nature, à l'exception de l'article R. 160-16.
+4. Chapitre II du titre II du livre III relatif aux prestations en nature.
 
 5. Chapitre IV du titre II du livre III relatif à la qualité et à la coordination des soins des patients atteints d'une affection de longue durée.
 
 6. Chapitre VI du titre VII du livre III relatif aux recours des caisses contre les tiers.
 
 7. Titre VI du livre VIII relatif à la protection complémentaire en matière de santé.
-
-8. Article L. 322-3 relatif à la suppression de la participation de l'assuré, 1° et 2° exceptés.
-
-9. Article L. 331-2 relatif aux prestations en natures servies dans le cadre de l'assurance maternité.
 
 10. Articles R. 331-4 et D. 532-1 relatifs aux dispositions générales propres à l'assurance maternité.
 
@@ -110,11 +94,9 @@ Sont également applicables les dispositions suivantes du code de la sécurité 
 
 13. Chapitre III du titre III du livre Ier relatif au recouvrement des cotisations et versement de prestations.
 
-14. Chapitre Ier du titre IV du livre Ier relatif à l'expertise médicale.
+14. Articles R. 711-20 et R. 711-21 relatifs aux contestations d'ordre médical.
 
 15. Chapitre V du titre Ier du livre III relatif au contrôle médical.
-
-16. Article L. 332-1 relatif au délai de prescription pour le paiement des prestations de l'assurance maladie et maternité, en vertu de l'article L. 711-4.
 
 17. Article L. 375-1 relatif à la faute intentionnelle de l'affilié.
 
@@ -138,9 +120,9 @@ Lorsque la caisse prend en charge une partie des prestations pour le compte de l
 
 Pour les personnes qui n'ont pas consulté dans le cadre de l'organisation médicale mise en place par la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports en application statut mentionné à l'article L. 2101-2 du code des transports, les actes, soins, prestations, cures thermales et fournitures délivrés ou prescrits, leur sont remboursés selon les dispositions des articles L. 160-13 et suivants du code de la sécurité sociale, à l'exception des actes et prestations suivants, pour lesquels le taux de prise en charge est de 100 % des tarifs :
 
-- les actes de chirurgie, radiologie et gynécologie inscrits à la liste prévue à l'article L. 162-1-7 du code de la sécurité sociale ou inscrits dans l'arrêté du 27 mars 1972 modifié fixant la nomenclature générale des actes professionnels des médecins, chirurgiens dentistes, sages femmes et auxiliaires médicaux ;
+- les actes de chirurgie, radiologie et gynécologie inscrits à la liste prévue à l'article L. 162-1-7 du code de la sécurité sociale ou inscrits dans l'arrêté du 27 mars 1972 modifié fixant la nomenclature générale des actes professionnels des médecins, chirurgiens dentistes, sages femmes et auxiliaires médicaux ainsi que les actes ou fournitures prescrits par les spécialistes dispensant ces actes;
 
-- les soins et prothèses dentaires inscrits dans l'arrêté du 27 mars 1972 modifié fixant la nomenclature générale des actes professionnels des médecins, chirurgiens dentistes, sages femmes et auxiliaires médicaux, ainsi que les suppléments dentaires prévus au IV de l'article 3-2 de la présente annexe ;
+- les soins et prothèses dentaires inscrits dans l'arrêté du 27 mars 1972 modifié fixant la nomenclature générale des actes professionnels des médecins, chirurgiens dentistes, sages femmes et auxiliaires médicaux, ainsi que les suppléments dentaires prévus au IV de l'article 3-2 de la présente annexe ainsi que les actes ou fournitures prescrits par les spécialistes dispensant ces actes;
 
 - les frais de transports prévus à la section II du chapitre II du livre III du code de la sécurité sociale ; le tarif applicable pour le remboursement des frais de transports réalisés en voiture particulière, est fixé par arrêté interministériel ;
 
@@ -168,9 +150,11 @@ Par exception, sont remboursés au taux de 100 % :
 
 - les soins dispensés aux anciens agents de l'ancien réseau Alsace-Lorraine et à leurs conjoints ou ex-conjoints mentionnés à l'article 1er-1 de la présente annexe ainsi qu'à leurs ayants droit mentionnés à l'article 1er-2 de la même annexe ;
 
-- les soins dispensés aux titulaires de l'allocation supplémentaire du fonds de solidarité vieillesse, de l'allocation supplémentaire du fonds spécial d'invalidité, de l'allocation de solidarité aux personnes âgées prévue à l'article L. 815-2 du code de la sécurité sociale et de l'allocation supplémentaire d'invalidité prévue à l'article L. 815-24 du même code ainsi qu'aux bénéficiaires des dispositions de l'article 23 du décret du 30 juin 2008 ;
+- les soins dispensés aux titulaires de l'allocation supplémentaire du fonds de solidarité vieillesse, de l'allocation supplémentaire du fonds spécial d'invalidité, de l'allocation de solidarité aux personnes âgées prévue à l'article L. 815-2 du code de la sécurité sociale, de l'allocation supplémentaire vieillesse prévue à l'article L. 815-5 du même code, dans sa rédaction antérieure à l'entrée en vigueur de l'ordonnance n° 2004-605 du 24 juin 2004 simplifiant le minimum vieillesse, et de l'allocation supplémentaire d'invalidité prévue à l'article L. 815-24 du même code ainsi qu'aux bénéficiaires des dispositions de l'article 23 du décret du 30 juin 2008 ;
 
 - les soins dispensés aux anciens agents retraités qui, atteints d'une invalidité au moins égale au 2/3 non imputable à un accident du travail ou à une maladie professionnelle, ont quitté la société nationale SNCF ou ses filiales ou groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports avec le bénéfice d'une pension du régime spécial de retraite du personnel de la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports et auxquels se trouve garantie une pension d'invalidité déterminée selon les dispositions du titre IV du livre III du code de la sécurité sociale.
+
+-les soins dispensés aux enfants âgés de moins d'un an, domiciliés dans les départements où le taux moyen de mortalité infantile a été, pendant l'année précédente, supérieure de 10 % au taux moyen national.
 
 Article 3-2
 
@@ -192,17 +176,15 @@ Indépendamment des règles de prise en charge prévues au chapitre II du titre 
 
 IV.-Suppléments dentaires :
 
-Sont pris en charge, sur la base des tarifs prévus dans la nomenclature générale des actes professionnels, les actes suivants :
+Des suppléments dentaires aux tarifs fixés dans la Classification Commune des Actes Médicaux peuvent être attribués pour les actes suivants et après avis du contrôle médical :
 
-- les couronnes sur implants, sur la base du tarif d'une prothèse dentaire adjointe ou, après avis du contrôle médical, de celui d'une prothèse dentaire conjointe (couronne dentaire et inlay-core) ;
+-pour les couronnes sur implants, sur la base du tarif d'un inlay-core ;
 
-- les implants dentaires pour stabilisation de prothèses complètes mandibulaires, sur la base du tarif d'une prothèse dentaire conjointe (couronne dentaire et inlay-core), dans la limite de deux implants et après avis du contrôle médical ;
+-pour les implants dentaires pour stabilisation de prothèses complètes mandibulaires, sur la base du tarif de la pose d'une couronne dentaire implantoportée et d'un inlay-core dans la limite de deux implants ;
 
-- les intermédiaires de bridge, sur la base du tarif d'une prothèse dentaire adjointe ou, après avis du contrôle médical, de celui d'une prothèse dentaire conjointe (couronne dentaire par intermédiaire de bridge) ;
+-pour les éléments intermédiaires de bridge : le premier élément sur la base de la différence entre le tarif de trois couronnes dentaires dentoportées et le tarif d'une prothèse dentaire plurale ; pour les éléments intermédiaires suivants, à hauteur du tarif d'une couronne dentaire dentoportée ;
 
-- les rebasages des prothèses adjointes, sur la base du tarif d'une réparation de prothèse dentaire adjointe ;
-
-- les bridges collés, sur la base du tarif applicable à une attelle métallique et à une prothèse dentaire adjointe prévue pour le remplacement d'une à trois dents.
+-pour les rebasages de prothèses dentaires amovibles, sur la base du tarif de la réparation d'une prothèse dentaire amovible en résine et d'une fracture de châssis métallique de prothèse dentaire amovible.
 
 V.-Cures :
 
@@ -342,11 +324,13 @@ relevant d'un autre régime de sécurité sociale
 
 I.-a) Les anciens agents titulaires d'une pension définie aux articles 1er, 2, 2 bis, 3 (II), 4 et 5 du décret du 30 juin 2008 qui seraient ouvrant droits au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports s'ils ne relevaient pas en priorité d'un autre régime de sécurité sociale du fait de l'exercice d'une activité professionnelle ou par application des règles de coordination en matière d'assurance maladie, bénéficient de l'allocation au décès prévue aux articles 4-3 et 4-4 de la présente annexe sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont relève le conjoint, la personne ayant conclu un pacte civil de solidarité avec l'affilié ou l'enfant ;
 
-b) Les conjoints titulaires de la réversion d'une des pensions définie aux articles 1er, 2, 2 bis, 3 (II), 4 et 5 du décret du 30 juin 2008 et n'ouvrant pas droit au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports, bénéficient de l'allocation au décès prévue à l'article 4-4 de la présente annexe, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont relève l'enfant.
+b) Les conjoints titulaires de la réversion d'une des pensions définie aux articles 1er, 2, 2 bis, 3 (II), 4 et 5 du décret du 30 juin 2008 affiliés ou n'ouvrant pas droit au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports, bénéficient de l'allocation au décès prévue à l'article 4-4 de la présente annexe, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont relève l'enfant.
 
-II.-a) Au décès des personnes mentionnées au I a du présent article, leurs ayant droits mentionnés à l'article 4-2 de la présente annexe bénéficient de l'allocation au décès prévue au même article, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont elles relèvent.
+c) Les assurés visés aux a à b, d et d bis de l'article 2 du décret du 7 mai 2007 susvisé et ouvrant droit au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales et groupements d'intérêt économique et groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports bénéficient de l'allocation au décès prévue aux articles 4-3 et 4-4 de la présente annexe, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont relève le conjoint, la personne ayant conclu un pacte civil de solidarité avec l'affilié, ou l'enfant.
 
-b) Au décès des personnes mentionnées au I b du présent article, leurs ayant droits à charge mentionnés à l'article 4.5 de la présente annexe bénéficient de l'allocation au décès prévue au même article, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont elles relèvent.
+II.-a) Au décès des personnes mentionnées au I a du présent article, qui ouvriraient leurs droits au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du champ du I de l'article L. 2101-2 du code des transports s'ils ne relevaient pas en priorité d'un autre régime de sécurité sociale du fait de l'exercice d'une activité professionnelle ou par application des règles de coordination en matière d'assurance maladie, leurs ayants droit à charge mentionnés à l'article 4-2 de la présente annexe bénéficient de l'allocation au décès prévue au même article, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont elles relèvent.
+
+b) Au décès des personnes mentionnées au I b du présent article, n'ouvrant pas droit au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du I de l'article L. 2101-2 du code des transports, leurs ayant droits à charge mentionnés à l'article 4.5 de la présente annexe bénéficient de l'allocation au décès prévue au même article, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont elles relèvent.
 
 Chapitre 5
 
@@ -425,7 +409,3 @@ Article 6-2
 Anciens agents retraités domiciliés à l'étranger
 
 Lorsque des soins sont donnés aux anciens agents retraités domiciliés à l'étranger ou à leurs ayant droits, les prestations sont calculées dans les mêmes conditions que pour les anciens agents retraités ou leurs ayants droit résidant en France.
-
-NOTA :
-
-Conformément à l'article 8 du décret n° 2020-1489 du 1er décembre 2020, ces dispositions sont applicables au titre des périodes courant à compter du 1er mars 2020 pour les prestations prenant effet à compter du 12 mars 2020.
