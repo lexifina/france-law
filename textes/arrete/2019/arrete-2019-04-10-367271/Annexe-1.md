@@ -1,47 +1,49 @@
 # Article Annexe 1
 
-LISTE DES CATÉGORIES D'ÉTABLISSEMENTS ET SERVICES CONCERNÉS PAR LE TABLEAU DE BORD DE LA PERFORMANCE DANS LE SECTEUR MÉDICO-SOCIAL
+LISTE DES CATÉGORIES D'ÉTABLISSEMENTS ET SERVICES CONCERNÉS PAR LA PLATEFORME GÉNÉRIQUE DU TABLEAU DE BORD DE LA PERFORMANCE DANS LE SECTEUR MÉDICO-SOCIAL
 
--Centre d'action médico-sociale précoce (C. A. M. S. P.) ;
+1° Etablissements et services pour l'enfance et la jeunesse handicapée :
 
--Centre médico-psycho-pédagogique (C. M. P. P.) ;
+-Centre d'action médico-sociale précoce (CAMSP) ;
 
--Centre de rééducation professionnelle (C. R. P.) ;
+-Centre médico-psycho-pédagogique (CMPP) ;
 
--Etablissement d'hébergement pour personnes âgées dépendantes (E. H. P. A. D.) ;
+-Etablissement pour enfants ou adolescents polyhandicapés (EEAP) ;
 
--Etablissement et service d'aide par le travail (E. S. A. T.) ;
+-Institut médico-éducatif (IME) ;
 
--Etablissement pour déficient moteur ou Institut d'éducation motrice (I. E. M.) ;
+-Institut thérapeutique, éducatif et pédagogique (ITEP) ;
 
--Etablissement pour enfants ou adolescents polyhandicapés ;
+-Institut d'éducation motrice (IEM) ;
 
--Foyer d'accueil médicalisé pour adultes handicapés (F. A. M.) ou établissement d'accueil médicalisé (EAM) ;
+-Institut pour déficients auditifs (IDA) ;
 
--Foyer de vie (F. D. V.) ;
+-Institut pour déficients visuels (IDV) ;
 
--Foyer d'hébergement (F. H.) ;
+-Institut d'éducation sensorielle sourd/ aveugle (IES) ;
+
+-Service d'éducation spéciale et de soins à domicile (SESSAD) ;
+
+2° Etablissements et services pour adultes handicapés :
+
+-Centre de réadaptation professionnelle (CRP), nouvellement établissement et service de réadaptation professionnelle (ESRP) et établissement et service de préorientation (ESP) ;
 
 -Etablissements d'accueil non médicalisé (EANM) ;
 
--Institut médico-éducatif (I. M. E.) ;
+-Etablissement d'accueil médicalisé (EAM), anciennement :
 
--Institut pour déficients auditifs (I. D. A.) ;
+-Foyer d'accueil médicalisé pour adultes handicapés (FAM) ;
 
--Institut pour déficients visuels (I. D. V.) ;
+-Maison d'accueil spécialisée (MAS) ;
 
--Institut d'éducation sensorielle (IES) ;
+-Etablissement et service d'aide par le travail (ESAT) ;
 
--Institut thérapeutique, éducatif et pédagogique (I. T. E. P.) ;
+-Service d'accompagnement médico-social pour adultes handicapés (SAMSAH) ;
 
--Maison d'accueil spécialisée (M. A. S.) ;
+-Service d'accompagnement à la vie sociale (SAVS) ;
 
--Service d'accompagnement à la vie sociale (S. A. V. S.) ;
+3° Etablissements et services pour personnes âgées :
 
--Service d'accompagnement médico-social pour adultes handicapés (S. A. M. S. A. H.) ;
+-Etablissement d'hébergement pour personnes âgées dépendantes (EHPAD) ;
 
--Service de soins infirmiers à domicile (S. S. I. A. D.) ;
-
--Service d'éducation spéciale et de soins à domicile (S. E. S. S. A. D.) ;
-
--Service autonomie à domicile (S. A. D.) ;
+-Service de soins infirmiers à domicile (SSIAD).
