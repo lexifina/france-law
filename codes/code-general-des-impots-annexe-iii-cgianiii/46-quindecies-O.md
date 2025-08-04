@@ -8,7 +8,7 @@ Un organisme mentionné au 4 de l'article 238 bis du code général des impôts 
 
 La décision par laquelle l'organisme notifie l'octroi d'une aide à une entreprise précise que l'aide accordée doit être conforme à l'un des règlements suivants :
 
-a) règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis ;
+a) règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis ;
 
 b) règlement (UE) n° 717/2014 de la Commission du 27 juin 2014 concernant l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de la pêche et de l'aquaculture ;
 
