@@ -1,0 +1,9 @@
+# Réponse à la question n° 3827
+
+- Question : [3827](3827.md) — Question n° 3827 — Face aux monarchistes, la République doit riposter
+
+## Réponse
+
+*JO du 2025-08-05, page 7054*
+
+Le Conseil constitutionnel a érigé la liberté d'association au rang des principes fondamentaux reconnus par les lois de la République (décision n° 71-44 DC du 16 juillet 1971), tandis que la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales garantit les libertés d'expression (article 10) et de réunion (article 11). Ce n'est donc qu'à titre exceptionnel que le Président de la République peut procéder, par décret en conseil des ministres, à la dissolution administrative d'une association ou d'un groupement de fait sur le fondement de l'article L. 212-1 du code précité. Une telle atteinte aux libertés d'association, de réunion et d'expression doit s'inscrire dans les cas limitativement énumérés par la loi et être strictement proportionnée à la menace pour l'ordre public que représente l'association ou le groupement de fait en cause. Le gouvernement accorde une vigilance particulière aux provocations publiques à la haine et à la violences prévues par l'article 24 de la loi du 29 juillet 1881 qui font, chaque fois que c'est possible, l'objet de signalements au procureur de la République territorialement compétent. Des procédures de dissolution d'associations ou de groupements de fait sont également engagées dès lors que les critères définis par la loi sont réunis. Ainsi, les associations ou groupements de fait, quelle que soit leur mouvance, qui provoquent à la haine, à la discrimination ou à la violence font l'objet d'une attention constante de la part du ministère de l'intérieur et des outre-mer et une action volontariste est menée pour lutter contre toute atteinte à l'ordre public. Au total, depuis 2017, 46 associations ou groupements de fait ont été dissous.
