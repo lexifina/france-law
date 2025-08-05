@@ -1,0 +1,9 @@
+# Réponse à la question n° 8415
+
+- Question : [8415](8415.md) — Question n° 8415 — Missions des médecins coordonnateurs en EHPAD
+
+## Réponse
+
+*JO du 2025-08-05, page 7019*
+
+Concernant le rôle des médecins coordonnateurs en Etablissements d'hébergement pour personnes âgées dépendantes (EHPAD), l'article 12 de la loi du n° 2023-1268 du 27 décembre 2023 visant à améliorer l'accès aux soins par l'engagement territorial des professionnels prévoit que le médecin coordonnateur peut, pour les résidents qui le souhaitent, assurer le suivi médical des résidents de l'établissement, pour lesquels il peut réaliser des prescriptions médicales. Ce rôle ne peut cependant pas être systématisé car il est conditionné à un accord conjoint du praticien comme des résidents, afin notamment de conserver pour ces derniers le libre choix de leur médecin. Concernant les infirmiers en pratique avancée, ceux-ci peuvent en effet apporter des réponses concrètes néanmoins, la démographie actuelle de ces professionnels et leur répartition inégale sur le territoire national ne permettent pas de renforcer ou de systématiser leur intervention en EHPAD, en collaboration avec les médecins coordonnateurs. Le Gouvernement espère à travers les différentes réformes apportées dans le champ de l'activité des infirmiers en pratique avancée pouvoir renforcer leur démographie et intervention dans le secteur de l'autonomie et du handicap. Par ailleurs, les EHPAD disposent déjà généralement dans leur équipe pluridisciplinaire d'un infirmier de coordination. C'est cette collaboration entre infirmiers et médecins coordonnateurs que le Gouvernement souhaite renforcer, notamment par la publication prochaine d'un décret relatif aux missions des infirmiers coordonnateurs et médecins coordonnateurs en EHPAD.
