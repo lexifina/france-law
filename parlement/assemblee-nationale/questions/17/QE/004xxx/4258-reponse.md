@@ -1,0 +1,9 @@
+# Réponse à la question n° 4258
+
+- Question : [4258](4258.md) — Question n° 4258 — Maintien de la PCH pendant 3 mois pour les parents endeuillés
+
+## Réponse
+
+*JO du 2025-08-05, page 7023*
+
+La perte d'un enfant bouleverse profondément l'équilibre familial. Certains parents ont pu par ailleurs avoir durablement réduit ou cessé leur activité professionnelle, afin de l'accompagner. Le Gouvernement a souhaité, par les décrets n° 2022-85 et 2022-86 du 30 janvier 2022, permettre la prolongation de certaines prestations familiales pendant une période de trois mois, suivant le décès de l'enfant. Cette mesure vise à éviter qu'une baisse brutale des revenus ne s'ajoute à la difficulté de l'évènement et à permettre aux familles de mieux faire face aux conséquences immédiates du décès. La Prestation de compensation du handicap (PCH), créée par la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées et mise en place depuis le 1er janvier 2006, n'a pas été incluse dans ces décrets car elle n'a pas la nature d'un complément de revenus, à la différence des prestations familiales. Elle constitue une aide en nature, spécifiquement destinée à compenser les surcoûts liés aux conséquences directes du handicap. Elle couvre notamment les charges relatives aux besoins d'aides humaines. Elle n'a donc pas vocation à être maintenue. Toutefois, il convient de préciser que la PCH est attribuée pour un volume d'heures d'aide correspondant à l'intégralité du mois du décès, sans vérification de l'effectivité de l'aide apportée pendant ce mois. Ainsi, une part de l'aide versée couvre des heures non réellement effectuées, contribuant de facto au financement du préavis et des indemnités liées à la rupture du contrat de l'aide à domicile.
