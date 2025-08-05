@@ -1,0 +1,7 @@
+# Article 5 bis
+
+L'ingénieur ou le cadre prenant sa retraite de son initiative ou du fait de l'employeur à un âge égal ou supérieur à 60 ans, recevra une indemnité de départ à la retraite égale à un cinquième de mois par année de présence, calculée sur les salaires moyens des douze derniers mois, sans pouvoir dépasser six mois du salaire moyen de la dernière année de travail.
+
+(1) Article étendu sous réserve du respect des dispositions des articles D. 1237-1 et D. 1237-2 du code du travail lesquelles définissent respectivement le taux de l'indemnité de départ en retraite et le salaire à prendre en considération pour le calcul de l'indemnité de départ en retraite.
+
+(Arrêté du 7 novembre 2025 - art. 1)
