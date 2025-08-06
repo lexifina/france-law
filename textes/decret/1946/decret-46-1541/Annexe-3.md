@@ -6,7 +6,7 @@ Bénéficiaires, durée minimale d'affiliation, durée minimale de services
 
 Sont affiliés au régime spécial des industries électriques et gazières au titre des prestations d'invalidité, de décès et d'accidents du travail et maladies professionnelles les agents bénéficiant du statut national du personnel de ces industries.
 
-Sont affiliés à ce régime spécial au titre des prestations de vieillesse ceux de ces agents qui sont recrutés avant le 1er septembre 2023, et qui remplissent, sans aucune interruption à compter de cette date, les conditions d'affiliation à ce régime.
+Sont affiliés à ce régime spécial au titre des prestations de vieillesse ceux de ces agents qui sont recrutés avant le 1er septembre 2023, et qui remplissent, à compter de cette date, les conditions d'affiliation à ce régime prévues au I de l'article 16 de la loi du 9 août 2004 relative au service public de l'électricité et du gaz et aux entreprises électriques et gazières.
 
 Le droit aux prestations de vieillesse du régime spécial des industries électriques et gazières est subordonné à une durée minimale d'affiliation d'un an. La durée minimale d'affiliation comprend l'ensemble des périodes cotisées et effectivement travaillées ainsi que les arrêts de travail visés au a du paragraphe 1er et aux paragraphes 2, 3 et 4 de l'article 22 du statut national et les périodes mentionnées au III de l'article 5. Lorsque la cessation d'affiliation est antérieure au 1er juillet 2008, le droit aux prestations vieillesse du régime spécial est subordonné au remboursement par l'affilié à la Caisse nationale des industries électriques et gazières du reliquat de cotisations éventuellement perçu par celui-ci au moment où il a cessé d'être affilié audit régime.
 
