@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250605251
+
+- Question : [SEQ250605251](seq250605251.md) — Tarifs préférentiels pour les déplacements des enfants organisés par les communes
+
+## Réponse
+
+*Transports, JO du 2025-08-07, page 4487*
+
+Le Gouvernement propose l'utilisation d'un tarif social national ferroviaire dit « promenade d'enfants », offrant des réductions aux groupe d'au moins 10 personnes et jusqu'à 99 personnes, composé de personnes de moins de 15 ans et de leurs accompagnateurs éventuels, à raison d'un au maximum pour 10 enfants, effectuant ensemble un voyage scolaire ou parascolaire ou un déplacement aux frais de municipalités ou d'oeuvres philanthropiques. Les réductions appliquées sont de 75 % sur un tarif de référence homologué auprès du ministère des Transports. Ce tarif est accordé dans tous les trains nationaux dans la limite des places disponibles pour ce tarif dans les trains TGV et INTERCITÉS. S'agissant du dispositif proposé, il convient de souligner qu'il relève, par nature, de l'initiative des collectivités. Il leur appartient donc, si elles le souhaitent, de conclure des conventions avec les entreprises ferroviaires, notamment la SNCF, afin d'aménager une offre tarifaire adaptée aux besoins identifiés. Une telle démarche suppose que la collectivité concernée prenne en charge la compensation financière correspondant au différentiel de recette induit. Ce mécanisme présente l'avantage de faire coïncider, en une seule entité, le décideur de la politique publique et son financeur. Cette démarche peut être élargie à l'ensemble des opérateurs ferroviaires concernés, afin de garantir l'équité territoriale. Le Gouvernement reste attentif aux initiatives en ce sens et partage pleinement l'objectif de favoriser l'accès des enfants aux centres de vacances municipaux. Le transport ferroviaire, en particulier, constitue un mode de déplacement durable, sécurisé et adapté à ces mobilités collectives.
