@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250605262
+
+- Question : [SEQ250605262](seq250605262.md) — Vacance des sièges au sein de la commission de contrôle prévue à l'article 25 de la Constitution
+
+## Réponse
+
+*Intérieur , JO du 2025-08-07, page 4475*
+
+Le décret du 30 juin 2025 portant nomination du président de la commission prévue au dernier alinéa de l'article 25 de la Constitution, publié au Journal officiel du 1er juillet 2025, présente la composition de cette commission. Celle-ci est donc désormais complète. Conformément à l'article L. 567-1 du code électoral, elle se compose de six membres, à savoir une personnalité qualifiée nommée par le Président de la République qui préside la commission, une personnalité qualifiée nommée par la présidente de l'Assemblée nationale, une personnalité qualifiée nommée par le président du Sénat, un membre du Conseil d'État, élu par l'assemblée générale du Conseil d'État, un membre de la Cour de cassation, élu par l'assemblée générale de la Cour de cassation, et un membre de la Cour des comptes, élu par la chambre du conseil de la Cour des comptes. Les personnalités désignées par les présidents des assemblées le sont après avis de la commission permanente chargée des lois électorales de l'assemblée concernée. La désignation ne peut pas intervenir lorsque les votes négatifs représentent au moins 3/5e des suffrages exprimés au sein de la commission. La personnalité désignée par le Président de la République est quant à elle désignée conformément aux dispositions de la loi organique n° 2010-837 relative à l'application du cinquième alinéa de l'article 13 de la Constitution. Les personnalités qualifiées membres de cette commission « ont vocation à être choisies pour leur expérience ou leur expertise juridique ou scientifique en matière électorale », ainsi que l'a rappelé la décision n° 2008-573 DC du 8 janvier 2009 du Conseil constitutionnel.
