@@ -1,77 +1,65 @@
 # Article Annexe
 
-ANNEXE
-
 Force armée
 
 ou formation rattachée |
 
 Type d'engagement |
 
-Nombre
-
-maximum
+Nombre maximum
 
 de primes |
 
-Montant
-
-minimum
+Montant minimum
 
 de la prime (€) |
 
-Montant
-
-maximum
+Montant maximum
 
 de la prime (€) |
 
-Montant
+Montant maximum
 
-maximum
+de primes attribuables
 
-de primes
+en 2025 |
 
-attribuables
+Montant maximum
 
-en 2024 |
+de primes payables
 
-Montant
+en 2025 |
 
-maximum
+Familles professionnelles/ filières
 
-de primes
+professionnelles |
 
-payables en 2024 |
-
-Familles professionnelles/filières professionnelles |
-
-Armée de terre / Brigade de sapeurs-pompiers de Paris |
+Armée de terre/ Brigade de sapeurs-pompiers de Paris |
 
 Engagement à servir général (ESG) |
 
-482 |
+500 |
 
 4 000 |
 
 4 000 |
 
-1 928 000 € |
+2 000 000 € |
 
-1 928 000 € |
+2 000 000 € |
 
 Toutes. |
 
 Engagement à servir spécifique (ESS) |
 
-142 |
+259 |
 
-4 000 |
+3 000 |
 
-15 000 |
+18 000 |
 
-850 300 € |
+778 300 € |
 
-850 300 € |
+778 300 € |
 
-Achats ; finances ; infrastructure et politique immobilière ; logistique et chaîne logistique ; maintenance des matériels terrestres ; opérations en milieu terrestre ; gestion des ressources humaines ; santé ; sécurité secours incendie ; systèmes d'information et de communication ; santé, sécurité au travail, environnement et développement durable. |
+Achats ; finances ; infrastructure et politique immobilière ; logistique et chaîne logistique ; maintenance des matériels terrestres ; opérations en milieu terrestre ; gestion des ressources humaines ; santé ; sécurité, secours incendie ; numérique ; santé, sécurité au travail, environnement et développement durable. |
