@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250705468
+
+- Question : [SEQ250705468](seq250705468.md) — Mise en place de « zones blanches » pour la géolocalisation des voitures de transport avec chauffeur autour des pôles de transport
+
+## Réponse
+
+*Transports, JO du 2025-08-07, page 4484*
+
+Le Code des transports réglemente le transport public particulier de personnes (T3P) et pose un cadre différencié d'exercice de la profession d'exploitant taxi de celui d'exploitant de Voiture de Transport avec Chauffeur (VTC). Chacune de ces professions réglementées est soumise à des obligations particulières et le monopole de la maraude est effectivement réservé aux taxis exploitant une Autorisation de stationnement (ADS), sur le périmètre de celle-ci. L'impossibilité pour les plateformes de mise en relation d'informer un client de la disponibilité et de la localisation d'un VTC disponible (III. 1° du L. 3120-2 du code des transports), est sanctionnée par une contravention de 5ème classe prévue par l'article L. 3124-11 de ce même code. Dans les faits, certaines plateformes ont déjà été condamnées sur ce motif et utilisent des animations qui ne correspondent pas à ces données dans la réalité. D'une façon générale, le Gouvernement est particulièrement attaché à la lutte contre les fraudes et a donné aux préfets, des instructions de renforcement des contrôles du secteur du T3P. Ces consignes s'accompagnent de la mise en oeuvre d'Amendes forfaitaires délictuelles (AFD) permettant de sanctionner plus rapidement et plus efficacement l'exercice illégal des professions de taxis ou de VTC ainsi que la maraude illégale. Par ailleurs, la mise en place de « zones blanches » autour des aéroports ou des gares constitue une mesure qui doit faire l'objet d'approfondissements, notamment sur le plan juridique, parmi d'autres moyens de lutte contre le racolage et les pratiques irrégulières aux abords de ces équipements.
