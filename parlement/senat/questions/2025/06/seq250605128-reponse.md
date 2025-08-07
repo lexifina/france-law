@@ -1,0 +1,9 @@
+# Réponse à la question SEQ250605128
+
+- Question : [SEQ250605128](seq250605128.md) — Effectifs réels des sapeurs-pompiers volontaires
+
+## Réponse
+
+*Intérieur (MD), JO du 2025-08-07, page 4478*
+
+Le ministère de l'intérieur, dans les données qu'il communique chaque année, met à disposition différents effectifs selon les niveaux d'agrégation qui peuvent être utilisés. Ainsi, l'effectif total de sapeurs-pompiers volontaires se compose, tout d'abord, des sapeurs-pompiers volontaires intégrés aux corps départementaux de sapeurs-pompiers ainsi que des effectifs des services locaux d'incendie et de secours. Dans ces effectifs au sein des différents corps, sont également communiqués les effectifs de sapeurs-pompiers, hors professionnels de santé et ceux des sapeurs-pompiers volontaires. C'est pourquoi, selon les données retenues par les utilisateurs, des différences peuvent apparaître. Ainsi, les données reprises par le Sénat correspondent aux seuls sapeurs-pompiers volontaires des services départementaux et territoriaux d'incendie et de secours. S'agissant d'apprécier les personnes pouvant être mobilisables simultanément, les chiffres communiqués chaque année par le ministère de l'Intérieur, soit 200 046 sapeurs-pompiers volontaires dans l'édition 2024 des statistiques des services d'incendie et de secours, prennent bien en compte l'ensemble des services d'incendie et de secours mais n'intègrent pas les sapeurs-pompiers volontaires par ailleurs sapeurs-pompiers professionnels. Enfin, les sapeurs-pompiers volontaires dont les engagements sont suspendus restent parmi les effectifs dès lors qu'il n'est pas mis fin à leur engagement. En l'absence de système d'information unifié, compte tenu des diversités et durées variables de ces suspensions, ces données ne sont pas suivies au niveau national.
