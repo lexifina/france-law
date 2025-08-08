@@ -22,7 +22,7 @@ Etablissement public d'aménagement de Paris-Saclay ;
 
 Les établissements publics fonciers définis à l'article L. 321-1 du code de l'urbanisme ;
 
-Les établissements publics fonciers et d'aménagement définis à l'article L. 321-36-1 du code de l'urbanisme ;
+Les établissements publics fonciers et d'aménagement définis aux articles L. 321-36-1 et L. 321-36-8 du code de l'urbanisme ;
 
 Institut d'émission d'outre-mer ;
 
@@ -44,4 +44,4 @@ Théâtre national de Strasbourg.
 
 NOTA :
 
-Conformément à l'article 34 I de l'ordonnance n° 2014-948 du 20 août 2014, le conseil d'administration, le conseil de surveillance ou l'organe délibérant en tenant lieu des sociétés mentionnées à l'article 1er fixe la date d'application des dispositions du titre II de la présente ordonnance, à l'exception de celles des articles 17 et 21. Cette date ne peut être postérieure au lendemain de la première assemblée générale ordinaire qui suit le 1er janvier 2017. Jusqu'à cette date, les présentes dispositions restent applicables dans leur rédaction antérieure à l'entrée en vigueur de la présente ordonnance.
+Conformément à l'article 4 de l'ordonnance n° 2025-453 du 23 mai 2025, les dispositions de ladite ordonnance entrent en vigueur à la date de publication du décret en Conseil d'Etat mentionné à l'article L. 321-36-16 du code de l'urbanisme créé par l'article 2 de cette même ordonnance, soit le 8 août 2025 (décret n° 2025-786 du 7 août 2025).
