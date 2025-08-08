@@ -1,155 +1,65 @@
-# Article Annexe
+# Article Annexe I
 
-PROGRAMME DE FORMATION
+COMPÉTENCES À ACQUÉRIR, OBJECTIFS PÉDAGOGIQUES ET CRITÈRES D'ÉVALUATION DES FORMATIONS POUR L'OBTENTION DU CERTIFICAT DE CAPACITÉ POUR EFFECTUER DES PRÉLÈVEMENTS SANGUINS ET DE L'ATTESTATION DE FORMATION AUX PRÉLÈVEMENTS NASOPHARYNGÉS, OROPHARYNGÉS, SALIVAIRES ET NASAUX
 
-La préparation pour l'obtention du certificat de capacité pour effectuer des prélèvements sanguins en vue d'examens de biologie médicale comprend une formation théorique et un stage pratique.
+Compétences à acquérir
 
-Au terme de cette préparation, le candidat devra être capable de :
+1. Réaliser les prélèvements dans le respect des bonnes pratiques professionnelles.
 
--reconnaître le type de prélèvement qu'il doit faire, suivant les indications du prescripteur ;
+2. Appliquer les règles d'hygiène, de sécurité et les exigences prévues dans la norme d'accréditation en vigueur et respecter les procédures mises en place au sein du laboratoire, en adaptant et renforçant les mesures selon le contexte de pandémie ou d'émergence de maladie infectieuse pour garantir la sécurité de la personne prise en soins et du technicien de laboratoire médical.
 
--choisir le matériel et la méthode qui y correspondent ;
+3. Communiquer efficacement avec la personne prise en soins pour expliquer la procédure de prélèvement, recueillir les informations cliniques pertinentes et répondre à ses questions tout en garantissant son confort et sa sécurité.
 
--effectuer l'étiquetage du récipient pour échantillons permettant l'identification du patient et de l'examen ;
+4. Appliquer les procédures de conservation et, le cas échéant, de conditionnement et de transport des échantillons en respectant les normes spécifiques à chaque type de prélèvement, en tenant compte des exigences renforcées liées à une situation de pandémie ou d'émergence de maladie infectieuse.
 
--préparer le patient pour prévenir toutes les complications ;
+5. Prendre les mesures adaptées aux situations particulières (prélèvements chez les populations vulnérables, gestion du stress, de la douleur et de l'inconfort) et lors d'incident de prélèvement.
 
--exécuter un prélèvement de sang veineux ou capillaire en vue d'examens biologiques sans risque pour le patient ;
+6. Respecter les normes de traçabilité des prélèvements en identifiant correctement la personne, en enregistrant les informations liées à l'échantillon, et en veillant à l'intégrité des données tout au long du processus.
 
--choisir, en cas de nécessité, les modalités de transmission à un autre laboratoire du prélèvement, en fonction de sa nature et de son but ;
+7. Assurer la qualité et la fiabilité des échantillons prélevés en vérifiant leur conformité par rapport aux critères de quantité, qualité et adéquation au type d'analyse prévue, analyser et résoudre les anomalies de prélèvement en proposant des solutions appropriées pour garantir la validité des résultats.
 
--assurer la maintenance du matériel ;
+8. Adopter une approche éthique et légale dans la gestion des prélèvements, en garantissant le respect de la confidentialité, du consentement éclairé et des droits des patients. |
 
--appliquer les règles d'hygiène et de sécurité et les dispositions prévues par le guide de bonne exécution des examens.
+Objectifs pédagogiques
 
-I.-Programme-Formation théorique
+1. Connaître les indications, les principes, les contre-indications et les risques spécifiques des prélèvements.
 
-1. Notions générales sur les prélèvements sanguins
+2. Maîtriser et appliquer les règles d'hygiène, de sécurité et les exigences prévues dans la norme d'accréditation, en adaptant les mesures de prévention et de protection en fonction des situations de pandémie ou d'émergence de maladie infectieuse.
 
-1.1. Les différents prélèvements sanguins : protocole à respecter pour chaque type d'analyse.
+3. Assurer la préparation de la personne avant le prélèvement, en expliquant la procédure, en garantissant son confort et sa coopération, et en recueillant les informations cliniques nécessaires.
 
-1.2. Les règles d'étiquetage.
+4. Maîtriser les conditions de réalisation des prélèvements, de préservation et de conditionnement des échantillons pour le transport, en adaptant les protocoles selon les situations de pandémie ou d'émergence de maladie infectieuse.
 
-2. Notions techniques générales
+5. Connaître la conduite à tenir en cas d'incident de prélèvement.
 
-2.1. Les différents matériels utilisés.
+6. Assurer la traçabilité des prélèvements.
 
-2.2. Entretien des matériels.
+7. Identifier et résoudre les anomalies de prélèvement : gestion des échantillons inappropriés ou des problèmes de qualité pouvant affecter l'analyse.
 
-3. Méthodes de prélèvement
+8. Comprendre les enjeux éthiques et légaux associés aux prélèvements biologiques. |
 
-3.1. Données anatomo-physio-pathologiques.
+Critères d'évaluation
 
-3.2. Information et installation du patient.
+-Conformité de la réalisation de l'acte de prélèvement aux règles de bonnes pratiques professionnelles ;
 
-3.3. Techniques de prélèvement :
+-Pertinence du choix des matériels pour le prélèvement et le conditionnement ;
 
--points de ponction ;
+-Respect des règles d'hygiène et de sécurité ;
 
--méthodes ;
+-Mode de communication adapté à la situation ;
 
--prévention des complications ;
+-Pertinence des informations cliniques recueillies et identification des risques ;
 
--précautions indispensables pour la protection du patient, du préleveur et du produit à analyser, notamment l'hygiène des mains ;
+-Conformité aux règles d'identitovigilance ;
 
-3.4. Conduite à tenir en cas d'incident ou d'accident.
+-Respect de la confidentialité, du consentement éclairé et des droits des patients ;
 
-4. Modalités de transport et de transmission des échantillons
+-Conformité des opérations de conditionnement et d'acheminement des échantillons ;
 
-4.1. Différentes voies d'acheminement.
+-Pertinence des actions mises en œuvre dans une situation particulière ou en cas d'incident ;
 
-4.2. Conditionnements et emballages.
+-Respect des normes de traçabilité et de gestion documentaire ;
 
-5. Elimination des déchets
+-Analyse de la qualité du prélèvement réalisé ;
 
-II.-Le stage pratique
-
-Au terme du stage prévu à l'article 5 du présent arrêté, le candidat doit être capable de pratiquer, sans risque pour le patient, un prélèvement de sang veineux ou capillaire destiné à un examen de biologie médicale.
-
-Certificat de capacité
-
-autorisant les techniciens des laboratoires d'examens
-
-de biologie médicale à effectuer
-
-les prélèvements sanguins
-
-(art. R. 4352-13 du code de la santé publique)
-
-PHOTO
-
-Carnet individuel
-
-Nom :
-
-Epouse :
-
-Prénoms :
-
-Date et lieu de naissance :
-
-Adresse personnelle :
-
-Diplômes :
-
-Agence régionale de santé (cachet) :
-
-Epreuve théorique
-
-Note sur 20 :
-
-Attestation de formation
-
-aux gestes et soins d'urgence de niveau 2
-
-Délivrée par :
-
-Date :
-
-Stage
-
-Type d'établissement et raison sociale :
-
-(Préciser le service.)
-
-Adresse :
-
-Nom et fonction du maître de stage :
-
-Numéro de téléphone :
-
-Courriel :
-
-Stage effectué du au
-
-Stage
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 93 du 20/04/2006 texte numéro 18
-
-Appréciation générale :
-
-Note sur 20 :
-
-Visa et cachet du maître de stage :
-
-Epreuve pratique
-
-Date :
-
-Lieu :
-
-Composition du jury :
-
-Types de prélèvements (dont deux au pli du coude) : préciser la localisation :
-
--prélèvement 1 :
-
--prélèvement 2 :
-
--prélèvement 3 :
-
-Appréciation générale :
-
-Note sur 20 :
+-Pertinence de l'analyse des non-conformités et des évènements indésirables. |
