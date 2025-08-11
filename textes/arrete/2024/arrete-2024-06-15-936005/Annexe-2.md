@@ -32,7 +32,7 @@ Chapitre 2 : Référentiel national de formation
 
 2.1. Organismes de formation
 
-Seuls les organismes disposant d'une habilitation pour les unités d'enseignement "premiers secours en équipe de niveau 1" et "premiers secours en équipe de niveau 2" peuvent être autorisés à dispenser la présente unité d'enseignement, sous réserve de répondre aux dispositions du présent arrêté.
+Seuls les organismes disposant d'une habilitation pour les unités d'enseignement "premiers secours en équipe de niveau 1" et "premiers secours en équipe de niveau 2"peuvent être autorisés à dispenser la présente unité d'enseignement, sous réserve de répondre aux dispositions du présent arrêté.
 
 2.2. Durée de la formation
 
@@ -41,6 +41,8 @@ La durée de la formation initiale "surveillant sauveteur aquatique sur littoral
 Cette unité d'enseignement peut faire appel à des outils de formation ouverte accessible à distance en complément de la formation en présentiel.
 
 Un référentiel interne de formation validé peut prévoir des allégements de formation pour les apprenants déjà titulaires du certificat de compétences de surveillant-sauveteur aquatique en eaux intérieures. Quel que soit le processus pédagogique mis en œuvre, les modalités de certification restent identiques aux dispositions du chapitre 3 de la présente annexe.
+
+La durée de la formation continue est fonction du contenu fixé par le ministre en charge de la sécurité civile et peut être concomitante à la formation continue d'équipier secouriste-premiers secours en équipe de niveau 2. Dans ce cas, les minimas horaires de ces deux formations continues s'additionnent.
 
 2.3. Qualification des formateurs
 
@@ -104,9 +106,9 @@ La présente unité d'enseignement est ouverte, parmi le public cible fixé par 
 
 - présentant un certificat médical en cours de validité et délivré dans les conditions fixées par l'arrêté du 26 juin 1991 susvisé ;
 
-- titulaire d'un certificat de compétences d'équipier secouriste, ou équivalent, et satisfaisant aux dispositions de formation continue s'y rapportant ;
+- titulaire d'un certificat de compétences d'équipier secouriste, ou équivalent, et satisfaisant aux dispositions de formation continue s'y rapportant ou justifiant d'une formation en cours pour cette qualification ou équivalente ;
 
-- titulaire de l'un des diplômes prévus à l'article D. 322-11 du code du sport et satisfaisant aux dispositions de formation continue ou de vérification de maintien des acquis s'y rapportant.
+- titulaire de l'un des diplômes prévus à l'article D. 322-11 du code du sport et satisfaisant aux dispositions de formation continue ou de vérification de maintien des acquis s'y rapportant ou justifiant d'une formation en cours à l'un de ces diplômes.
 
 2.6. Contenu de la formation
 
@@ -137,3 +139,5 @@ L'évaluation sommative porte sur une évaluation continue des compétences de l
 - appliquer, lors des séquences d'apprentissage, les techniques et connaître les procédures abordées ;
 
 - démontrer, lors des séquences de mises en situation, l'atteinte de l'ensemble des objectifs de la formation, en termes de capacités théoriques, pratiques et comportementales.
+
+Le certificat de compétences n'est attribué qu'aux personnes titulaires de l'un des diplômes prévus à l'article D. 322-11 du code du sport et d'un certificat de compétences d'équipier secouriste, ou équivalent, à jour de formation continue.

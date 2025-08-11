@@ -110,9 +110,9 @@ La présente unité d'enseignement est ouverte, parmi le public cible fixé par 
 
 - présentant un certificat médical en cours de validité et délivré dans les conditions fixées par l'arrêté du 26 juin 1991 susvisé ;
 
-- titulaire d'un certificat de compétences d'équipier secouriste ou équivalent et satisfaisant aux dispositions de formation continue s'y rapportant ;
+- titulaire d'un certificat de compétences d'équipier secouriste ou équivalent et satisfaisant aux dispositions de formation continue s'y rapportant ou justifiant d'une formation en cours pour cette qualification ou équivalente ;
 
-- titulaire de l'un des diplômes prévus à l'article D. 322-11 du code du sport et satisfaisant aux dispositions de formation continue ou de vérification de maintien des acquis s'y rapportant.
+- titulaire de l'un des diplômes prévus à l'article D. 322-11 du code du sport et satisfaisant aux dispositions de formation continue ou de vérification de maintien des acquis s'y rapportant ou justifiant d'une formation en cours à l'un de ces diplômes.
 
 2.6. Contenu de la formation
 
@@ -143,3 +143,5 @@ L'évaluation sommative porte sur une évaluation continue des compétences de l
 - appliquer, lors des séquences d'apprentissage, les techniques et connaître les procédures abordées ;
 
 - démontrer, lors des séquences de mises en situation, l'atteinte de l'ensemble des objectifs de la formation, en termes de capacités théoriques, pratiques et comportementales.
+
+Le certificat de compétences n'est attribué qu'aux personnes titulaires de l'un des diplômes prévus à l'article D. 322-11 du code du sport et d'un certificat de compétences d'équipier secouriste, ou équivalent, à jour de formation continue.

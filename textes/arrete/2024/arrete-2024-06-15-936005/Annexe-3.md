@@ -86,9 +86,9 @@ Les formateurs désignés pour encadrer la formation sont exclusivement dédiés
 
 La présente unité d'enseignement est ouverte, parmi le public cible fixé par l'habilitation de l'organisme de formation, à toute personne remplissant les conditions suivantes :
 
-- titulaire d'un certificat de compétences d'équipier secouriste ou équivalent et satisfaisant aux dispositions de formation continue s'y rapportant ;
+- titulaire d'un certificat de compétences d'équipier secouriste ou équivalent et satisfaisant aux dispositions de formation continue s'y rapportant ou justifiant d'une formation en cours pour cette qualification ou équivalente ;
 
-- titulaire de l'un des diplômes prévus à l'article D. 322-11 du code du sport et satisfaisant aux dispositions de formation continue ou de vérification de maintien des acquis s'y rapportant ;
+- titulaire de l'un des diplômes prévus à l'article D. 322-11 du code du sport et satisfaisant aux dispositions de formation continue ou de vérification de maintien des acquis s'y rapportant ou justifiant d'une formation en cours à l'un de ces diplômes ;
 
 - titulaire du certificat de compétences "surveillant sauveteur aquatique sur littoral" ou "surveillant sauveteur aquatique en eaux intérieurs", sauf dans le cas de formations concomitantes ;
 
@@ -123,3 +123,5 @@ L'évaluation sommative porte sur une évaluation continue des compétences de l
 - lors des séquences d'apprentissage, appliquer les techniques et connaître les procédures abordées ;
 
 - démontrer, lors des séquences de mises en situation, l'atteinte de l'ensemble des objectifs de la formation, en termes de capacités théoriques, pratiques et comportementales.
+
+Le certificat de compétences n'est attribué qu'aux personnes titulaires de l'un des diplômes prévus à l'article D. 322-11 du code du sport et d'un certificat de compétences d'équipier secouriste, ou équivalent, à jour de formation continue.
