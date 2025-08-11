@@ -606,21 +606,11 @@ Lorsque cette activité ou la formation y conduisant ne sont pas réglementées 
 
 La personne physique adresse à un organisme de certification une déclaration préalable rédigée en français comprenant une attestation certifiant que le détenteur est légalement établi dans un Etat membre pour y exercer l'activité en question, une preuve de ses qualifications professionnelles et une déclaration concernant sa connaissance de la langue française.
 
-L'organisme de certification délivre une attestation d'équivalence de certification après vérification des qualifications professionnelles au regard des informations fournies par la personne physique.
-
-L'organisme de certification informe les services du ministre chargé de la construction à réception d'une demande de reconnaissance.
-
-Dans un délai d'un mois à compter de la réception de la déclaration et, le cas échéant, des documents joints, l'organisme de certification informe le prestataire de sa décision :
-
-a) De permettre la prestation de services en lui accordant une certification sans vérification complémentaire ;
-
-b) De soumettre le prestataire aux examens, ou parties d'examen, nécessaires définis à la présente annexe, en cas de différence substantielle entre la formation exigée par l'annexe III du présent arrêté et la qualification professionnelle du prestataire.
-
-En cas de difficulté dans l'analyse des pièces fournies par la personne physique pour justifier sa compétence technique, susceptible de provoquer un retard dans la prise de décision, la personne physique est informée dans le même délai des raisons du retard et de la nature des éléments complémentaires nécessaires à cette analyse. La personne physique candidate fournit les éléments permettant de résoudre la difficulté dans le mois qui suit cette information et la décision est prise dans un délai de deux mois suivant la résolution de la difficulté.
-
 La compétence technique du déclarant est appréciée par référence aux exigences fixées dans l'annexe III du présent arrêté. Notamment, l'organisme de certification vérifie l'adéquation des formations suivies par la personne candidate avec les obligations du présent arrêté, en tenant compte des formations suivies dans son pays d'origine.
 
-Lorsque l'organisme de certification a autorisé l'exercice de la profession de diagnostiqueur, la personne physique est soumise, la première année, au contrôle sur ouvrage en cours de diagnostic défini à la présente annexe.
+L'organisme délivre une attestation de certification après vérification de l'équivalence des qualifications professionnelles au regard des informations fournies par la personne physique.
+
+La personne physique est soumise, la première année, au contrôle sur ouvrage en cours de diagnostic défini à la présente annexe.
 
 5.2. Liberté d'établissement du ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
 
