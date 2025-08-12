@@ -1,0 +1,9 @@
+# Réponse à la question n° 7280
+
+- Question : [7280](7280.md) — Question n° 7280 — Situation préoccupante TER reliant Perpignan à Villefranche-de-Conflent
+
+## Réponse
+
+*JO du 2025-08-12, page 7165*
+
+La ligne ferroviaire entre Villefranche-de-Conflent et Perpignan est fermée à la circulation ferroviaire depuis qu'à la suite d'une coulée de boue, le train express régional assurant la liaison entre Villefranche-de-Conflent et Perpignan a heurté un pont sur le territoire de la commune d'Eus le 24 juillet 2024. La démolition du pont, pour assurer la sécurité sur la voie ferrée, est un préalable à la reprise des circulations ferroviaires. Dès le mois de juillet, à la suite de l'accident, SNCF Réseau a proposé d'assurer la démolition de cet ouvrage, dont la prise en charge financière de cette intervention, dans l'attente des résultats d'expertise des assurances. Toutefois, cet ouvrage appartient à la commune d'Eus. Ainsi, le 5 décembre 2024, le conseil municipal de la commune a voté une délibération autorisant cette démolition par SNCF Réseau, sous réserve que la commune puisse valider le protocole de démolition pour rendre possible une reconstruction ultérieure du pont. La commune a réaffirmé son intention dans une nouvelle délibération du 30 juin dernier. A la suite de cette délibération, la commune a signé avec SNCF Réseau une convention de maîtrise d'ouvrage unique relative à la démolition du pont routier d'Eus. Les travaux de démolition devraient donc pouvoir être réalisés prochainement. Les circulations ferroviaires pourront reprendre après les travaux et la vérification de la voie par SNCF Réseau. Le sous-préfet de Prades a mis en place un comité de pilotage réunissant des représentants des collectivités, des associations, de SNCF Réseau, de la SNCF et des riverains. Les services de l'Etat sont mobilisés pour veiller à une reprise dans les meilleurs délais des circulations de cette ligne.
