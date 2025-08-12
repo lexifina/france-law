@@ -1,0 +1,9 @@
+# Réponse à la question n° 1151
+
+- Question : [1151](1151.md) — Question n° 1151 — Future école nationale de l'hydrogène
+
+## Réponse
+
+*JO du 2025-08-12, page 7127*
+
+Le projet d'école de l'hydrogène a fait l'objet d'une récente annonce par M. le ministre chargé de l'industrie et de l'énergie, le 17 avril dernier, à Allenjoie, sur le site de la future usine de Gen-Hy, dans le Doubs. Le ministre a, en effet non seulement annoncé une aide exceptionnelle de près de 100 millions d'euros pour l'équipementier Gen-Hy, qui va pouvoir industrialiser sa production d'électrolyseurs et de membranes pour l'hydrogène vert, mais a également confirmé une subvention de France 2030 de 6 millions d'euros pour le projet d'école de l'hydrogène, porté par la région Bourgogne-Franche-Comté. Ce projet, en partenariat avec 18 structures publiques et privées, dont le rectorat de région académique, France Travail et l'université Marie et Louis Pasteur, permettra de garantir la formation des compétences nécessaires à la filière. Comme cela a été rappelé, « ces deux projets sont de nature à renforcer la filière nationale et particulièrement l'écosystème régional, désormais présent sur toute la chaîne de valeur, de la pile à combustible jusqu'aux réservoirs en passant par les électrolyseurs ». Le financement de l'école de l'hydrogène s'inscrit dans le cadre de l'appel à manifestation d'intérêt « compétences et métiers d'avenir » de France 2030, dont les modalités de sélection sont particulièrement compétitives. La lettre d'intention du projet a fait ainsi l'objet d'un premier dépôt le 2 février 2024 et a été validée par un comité ad hoc le 29 février, en vue du dépôt d'un dossier complet dans les trois mois. Les porteurs ont ensuite été auditionnés par un jury de personnalités qualifiées en novembre, qui a émis un avis favorable présenté au comité de décision de France 2030 en février 2025.
