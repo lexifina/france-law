@@ -1,0 +1,9 @@
+# Réponse à la question n° 5152
+
+- Question : [5152](5152.md) — Question n° 5152 — Avenir de « Transitions Pro Mayotte »
+
+## Réponse
+
+*JO du 2025-08-12, page 7184*
+
+Les services de la Direction générale de l'emploi et de la formation professionnelle (DGEFP) sont pleinement engagés dans la préservation de la continuité des activités de l'Association transitions pro (AT-Pro) Mayotte. Depuis la création de cette dernière en 2021, de nombreux échanges ont été régulièrement menés entre la DGEFP, France Compétences et l'AT-Pro Mayotte, dans le but d'assurer le bon fonctionnement de la structure. Afin de garantir un suivi rigoureux, la DGEFP a initié depuis le début de l'année 2025 des rencontres mensuelles avec l'association, permettant ainsi un suivi détaillé de l'évolution de la situation. En ce qui concerne la situation financière de l'AT-Pro Mayotte, des ajustements et suivis sont continus. Dans le cadre de la définition des montants de la dotation allouée à l'association, les données relatives à la masse salariale, transmises par la caisse de sécurité sociale de Mayotte, sont prises en compte, en complément des informations issues des déclarations sociales nominatives. Ces éléments sont intégrés dans le calcul des dotations, qui sont régulièrement réajustées par France Compétences. Par ailleurs, une convention de partenariat a été conclue entre AT-Pro Mayotte et AT-Pro Île-de-France, afin de garantir l'instruction et le règlement des dossiers. Enfin, consciente des difficultés de l'AT-Pro Mayotte, la ministre du travail et de l'emploi a exceptionnellement autorisé l'AT-Pro Mayotte à conserver ses disponibilités de trésorerie en 2024. Le Gouvernement reste pleinement engagé pour trouver des solutions adaptées aux spécificités de Mayotte et garantir ainsi la pérennité de cette structure essentielle.
