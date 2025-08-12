@@ -1,0 +1,9 @@
+# Réponse à la question n° 2545
+
+- Question : [2545](2545.md) — Question n° 2545 — Centres de formation d'apprentis et aménagement pour les apprentis sportifs
+
+## Réponse
+
+*JO du 2025-08-12, page 7177*
+
+La loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel a permis le développement de l'apprentissage dans tous les niveaux de formation et pour tous les secteurs d'activité. Le sport a également bénéficié de cet essor. Le Gouvernement souhaite que cette voie de formation d'excellence se développe pour les publics qui en auraient le plus besoin, notamment les personnes en situation de handicap, les résidents des quartiers prioritaires de la politique de la ville ou des zones de revitalisation rurale ou encore les sportifs de haut niveau. Ces derniers peuvent bénéficier d'un contrat d'apprentissage aménagé, qui permet à l'apprenti sportif de haut niveau d'aménager sa formation en apprentissage afin de tenir compte des spécificités de son statut, notamment en allongeant d'un an le contrat lorsque cela est nécessaire. Les contrats conclus avec les sportifs de haut niveau bénéficient de l'aide aux employeurs d'apprentis, dans les mêmes conditions que les autres contrats. Ainsi, depuis début 2023, l'aide unique aux employeurs d'apprentis et l'aide exceptionnelle ont convergé vers un dispositif unique : l'aide est versée à l'employeur pour la seule première année de contrat afin de maximiser l'effet levier sur les entrées en apprentissage. L'aide prévue pour les contrats conclus en 2025 suit la même logique : aucun contrat d'apprentissage ne bénéficie d'une aide à l'employeur à l'issue de la première année de contrat. En revanche, concernant le paiement des frais de formation par les opérateurs de compétences aux centres de formation des apprentis, ceux-ci sont dus pour toute la durée du contrat, c'est-à-dire également la quatrième année dans le cas des sportifs de haut niveau.
