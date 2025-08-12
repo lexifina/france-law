@@ -1,0 +1,9 @@
+# Réponse à la question n° 8710
+
+- Question : [8710](8710.md) — Question n° 8710 — Dégradation du RER C
+
+## Réponse
+
+*JO du 2025-08-12, page 7175*
+
+L'organisation des transports publics de personnes en Île-de-France relève de la compétence de l'autorité organisatrice des mobilités Île-de-France Mobilités (IDFM). Au regard du principe de libre administration des collectivités territoriales, l'État n'intervient pas dans les choix opérés en lien avec les exploitants des lignes relatifs au niveau d'offre, aux choix de desserte et aux mesures d'exploitation. La qualité de service de la ligne RER C exploitée par SNCF-Transilien fait l'objet de dispositions et d'engagements précis encadrés par le contrat entre IDFM et SNCF Voyageurs pour la période 2020-2023 (prolongé jusqu'à fin 2025) qui prévoit notamment un dispositif d'incitation financière à la qualité de service basé sur des bonus/malus et des pénalités relatives aux indicateurs de qualité de service ainsi qu'à l'enquête mesurant l'évolution de la perception voyageurs. L'État est également attentif à la qualité de service de mobilités offert aux citoyennes et aux citoyens. Il accompagne les collectivités pour le développement et la modernisation des infrastructures de transport collectifs en Île de France via les contrats de plan État-régions (CPER). L'État a ainsi investi 2,3 Md€ pour le volet Mobilités 2015-2022 du CPER Île de France, dont 21,8 M€ pour le RER C. L'État s'engage à nouveau pour les transports du quotidien franciliens en investissant 2,6 Md€ sur le volet « Mobilités » 2023-2027 du CPER Île de France au titre duquel l'État a déjà investi 9,3 M€ pour la ligne RER C. Ces investissements ont permis l'engagement d'études et travaux de modernisation de la ligne, dont notamment les études d'adaptation des infrastructures de la ligne en vue du déploiement de son futur matériel roulant.
