@@ -1,0 +1,9 @@
+# Réponse à la question n° 6508
+
+- Question : [6508](6508.md) — Question n° 6508 — Pass Rail 2025
+
+## Réponse
+
+*JO du 2025-08-12, page 7159*
+
+La volonté de faire bénéficier aux jeunes d'une tarification favorable dans les transports publics ferroviaires a conduit le Gouvernement à mettre en place avec les régions, à titre expérimental pour l'été 2024, le Pass Rail. En juillet et en août, 200 000 jeunes de 16 à 27 ans ont ainsi pu bénéficier de 235 000 Pass Rail. Si le dispositif s'est révélé populaire auprès de ses utilisateurs, il a pesé sur les finances de l'État et des régions et il a engendré un report modal, c'est-à-dire des décisions de renoncer à des parcours en véhicule thermique par des parcours en train, très faible au regard des objectifs fixés. Il apparaît que le dispositif a très majoritairement (9 acheteurs sur 10) été utilisé par des jeunes déjà utilisateurs occasionnels ou réguliers du train. Le report modal issu du dispositif est toujours en cours d'évaluation, mais d'après les premières estimations, seuls 13 % des trajets du Pass Rail correspondraient à un report depuis la voiture individuelle vers le train.Enfin, les estimations relatives au coût net du dispositif pour l'État en 2024 s'établissent à 8,3 M€, que l'on peut décomposer de la manière suivante : 8,7 M€ de pertes d'exploitation pour les trains d'équilibre du territoire, 1,2 M€ de coûts de développements informatiques et de communication auxquels il faut retrancher 1,6 M€ de recettes, correspondant à 15 % des recettes totales issues de la vente des Pass. En tant qu'autorités organisatrices, et comme il avait été convenu au préalable avec l'État, les régions se sont partagées 85 % des recettes, soit environ 9 M€, pour compenser les pertes d'exploitation des trains express régionaux (TER). Dans le contexte de rétablissement des finances publiques, il n'a pas été possible de prévoir un financement pour le Pass Rail pour l'été 2025.
