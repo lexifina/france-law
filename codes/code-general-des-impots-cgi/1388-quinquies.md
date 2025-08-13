@@ -20,7 +20,7 @@ III. – Le montant de l'abattement mentionné au II est majoré :
 
 4° Pour les immeubles situés en Guadeloupe, en Martinique ou à La Réunion et rattachés à un établissement d'une entreprise mentionnée au b du 4° du III de l'article 44 quaterdecies.
 
-Le taux de cet abattement est fixé à 80 % de la base d'imposition à la taxe foncière sur les propriétés bâties.
+Le taux de cet abattement est fixé à 80 % de la base d'imposition à la taxe foncière sur les propriétés bâties. Par exception, pour les exploitations situées à Mayotte, le taux de l'abattement est fixé à 100 % de la base d'imposition à la taxe foncière sur les propriétés bâties.
 
 IV. – (abrogé)
 

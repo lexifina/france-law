@@ -4,13 +4,13 @@ I. – Les bénéfices des entreprises provenant d'exploitations situées en Gua
 
 1° Elles emploient moins de deux cent cinquante salariés et ont réalisé un chiffre d'affaires annuel inférieur à 50 millions d'euros ;
 
-2° L'activité principale de l'exploitation relève de l'un des secteurs d'activité éligibles à la réduction d'impôt prévue à l'article 199 undecies B ;
+2° L'activité principale de l'exploitation relève de l'un des secteurs d'activité éligibles à la réduction d'impôt prévue à l'article 199 undecies B ou, pour les exploitations situées à Mayotte, d'une activité industrielle, commerciale ou artisanale au sens des articles 34 et 35, d'une activité professionnelle au sens du 1 de l'article 92 ou d'une activité agricole ;
 
-3° Elles sont soumises soit à un régime réel d'imposition, soit à l'un des régimes définis aux articles 50-0 , 64 bis et 102 ter ;
+3° Elles sont soumises soit à un régime réel d'imposition, soit à l'un des régimes définis aux articles 50-0, 64 bis et 102 ter ;
 
-Les conditions prévues aux 1° et 2° s'apprécient à la clôture de chaque exercice au titre duquel l'abattement prévu au premier alinéa est pratiqué. La condition prévue au 3° doit être satisfaite pour chaque exercice au titre duquel cet abattement est pratiqué.
+Les conditions prévues aux 1° et 2° s'apprécient à la clôture de chaque exercice au titre duquel l'abattement prévu au premier alinéa est pratiqué. Pour l'impôt sur le revenu et l'impôt sur les sociétés, les dispositions du 2° élargissant le champ des activités éligibles à Mayotte s'appliquent aux impositions dues au titre des années 2025 à 2029, au titre des exercices clos à compter du 31 décembre 2025 et jusqu'aux exercices ouverts à compter du 31 décembre 2029. La condition prévue au 3° doit être satisfaite pour chaque exercice au titre duquel cet abattement est pratiqué.
 
-II. – Les bénéfices mentionnés au I, réalisés et déclarés selon les modalités prévues aux articles 50-0,53 A, 64 bis, 72,74 à 74 B, 96 à 100,102 ter et 103 par les entreprises répondant aux conditions prévues au I, à l'exception des plus-values constatées lors de la réévaluation des éléments d'actifs, font l'objet, dans la limite de 150 000 €, d'un abattement au titre de chaque exercice ouvert à compter du 1er janvier 2008.
+II. – Les bénéfices mentionnés au I, réalisés et déclarés selon les modalités prévues aux articles 50-0, 53 A, 64 bis, 72, 74 à 74 B, 96 à 100, 102 ter et 103 par les entreprises répondant aux conditions prévues au I, à l'exception des plus-values constatées lors de la réévaluation des éléments d'actifs, font l'objet, dans la limite de 150 000 €, d'un abattement au titre de chaque exercice ouvert à compter du 1er janvier 2008.
 
 Le taux de l'abattement est fixé à 50 %.
 
@@ -50,7 +50,7 @@ a) (abrogé)
 
 b) Bénéficient du régime de perfectionnement actif défini à l'article 256 du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l'Union, à la condition qu'au moins un tiers du chiffre d'affaires de l'exploitation, au titre de l'exercice au cours duquel l'abattement est pratiqué, résulte d'opérations mettant en œuvre des marchandises ayant bénéficié de ce régime
 
-La limite de l'abattement est fixée à 300 000 €. Le taux de l'abattement est fixé à 80 %.
+La limite de l'abattement est fixée à 300 000 €. Le taux de l'abattement est fixé à 80 %. Par exception, pour les exploitations situées à Mayotte, le taux de l'abattement est fixé à 100 % pour l'impôt sur le revenu dû au titre des années 2025 à 2029 et pour l'impôt sur les sociétés dû au titre des exercices clos à compter du 31 décembre 2025 et jusqu'aux exercices ouverts à compter du 31 décembre 2029.
 
 IV. (abrogé)
 
@@ -71,7 +71,3 @@ VII. – Lorsqu'elle répond aux conditions requises pour bénéficier du régim
 VIII. – Les obligations déclaratives des entreprises sont fixées par décret.
 
 IX. – Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
-
-NOTA :
-
-Conformément au II de l'article 74 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2024.
