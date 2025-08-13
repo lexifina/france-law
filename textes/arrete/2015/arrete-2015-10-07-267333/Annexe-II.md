@@ -1,18 +1,28 @@
 # Article Annexe II
 
-CHAPITRE I " ÉLÉMENTS GÉNÉRAUX " DU TITRE IV " DOCUMENTS ANNUELS " DE L'INSTRUCTION COMPTABLE APPLICABLE AUX ORGANISMES D'HLM (CHAPITRE ÉGALEMENT APPLICABLE AUX SEM AGRÉÉES EN APPLICATION DE L'ARTICLE L. 481-1 DU CCH
+Chapitre Ier
 
-Conformément au 1° de l'article 2 de l'arrêté du 8 décembre 2023 (NOR : TREL2323399A), l'annexe 1 dudit arrêté remplace la présente annexe II.
+&laquo; Eléments généraux &raquo; du titre IV &laquo; Documents annuels &raquo; de l'instruction comptable applicable aux organismes d'HLM (chapitre également applicable aux SEM agréées en application de l'article L. 481-1 du CCH)
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à cette adresse : https://www.legifrance.gouv.fr/download/pdf?id=BwSrDM6H3Wbj0DnGjiOd1vBRCjaPW6crBC8MFFe44Fc=
+TITRE IV
 
-► Documents annuels et états financiers transmis de façon dématérialisée au ministère chargé du logement
+DOCUMENTS ANNUELS
+
+Chapitre Ier
+
+Eléments généraux
+
+- Propos généraux
+
+Le règlement ANC n° 2022-06 constitue un changement de méthode comptable, assorti de dispositions spécifiques pour sa première application. Ce changement devra être mentionné dans l'annexe aux comptes, accompagnée d'informations pertinentes permettant de comprendre les évolutions de présentation. Les commissaires aux comptes devront également en faire état dans leur rapport.
+
+Les organismes devront présenter dans l'annexe littéraire des informations claires et détaillées sur l'impact du changement de méthode comptable, notamment à travers des notes explicatives et, le cas échéant, des tableaux dédiés.
+
+- Documents annuels et états financiers transmis de façon dématérialisée au ministère chargé du logement
 
 Les documents annuels et états financiers relatifs aux comptes sociaux sont communs aux OPH, aux sociétés d'HLM et aux SEM agréées en application de l'article L. 481-1 du CCH et sont reproduits en annexe 3 de l'arrêté du 7 octobre 2015.
 
-Les documents annuels et états financiers relatifs aux comptes combinés des sociétés de coordination et aux comptes consolidés des structures faîtières des groupes d'organismes de logement social sont reproduits en annexe 4 de l'arrêté précité.
-
-► Périmètre de certification des comptes annuels
+- Périmètre de certification des comptes annuels
 
 En application des articles L. 823-9 et R. 823-7 du code de commerce, les éléments suivants des comptes annuels font l'objet d'une certification par le(s) commissaire(s) aux comptes :
 
@@ -24,7 +34,7 @@ En application des articles L. 823-9 et R. 823-7 du code de commerce, les élém
 
 L'annexe aux comptes annuels forme avec le bilan et le compte de résultat un tout indissociable dont l'objectif est de donner une image fidèle du patrimoine, de la situation financière et du résultat de l'organisme. Elle doit comporter toutes les explications nécessaires pour appréhender correctement les documents chiffrés que sont le bilan et le compte de résultat.
 
-► Autres documents transmis de façon dématérialisée au ministère chargé du logement
+- Autres documents transmis de façon dématérialisée au ministère chargé du logement
 
 Conformément aux articles R. 423-28, R. 423-78 et D. 481-14 du code de la construction et de l'habitation, les documents suivants sont obligatoirement transmis de façon dématérialisée et au format PDF au ministère chargé du logement par le biais de l'espace d'échange au sein de la plate-forme Harmonia désignée par arrêté du 8 mars 2010 (NOR : DEVU1003486A) :
 
@@ -34,14 +44,16 @@ Conformément aux articles R. 423-28, R. 423-78 et D. 481-14 du code de la const
 
 - annexe littéraire ;
 
-- rapport(s) du (des) commissaire(s) aux comptes ;
+- rapport sur les comptes annuels du commissaire aux comptes, dans son intégralité ;
 
-- procès-verbal d'approbation des comptes de l'exercice ;
+- rapport spécial du(des) commissaire(s) aux comptes ;
 
-- en cas d'opération de fusion-absorption, le traité de fusion, l'arrêté préfectoral et le procès-verbal ou la délibération de l'assemblée ayant validé la fusion ;
+- procès-verbal de l'instance délibérante appelée à se prononcer sur les comptes annuels ;
 
-- en cas de report de la réunion de l'organe délibérant devant approuver les comptes (assemblée générale ou conseil d'administration), la décision du Tribunal de commerce ou l'accord du préfet de prorogation du délai de réunion de l'organe délibérant chargé d'approuver les comptes de l'exercice.
+- en cas d'opération de fusion-absorption, le traité de fusion, l'arrêté préfectoral et le procès-verbal ou la délibération de l'organe délibérant ayant validé la fusion ;
+
+- en cas de report de la réunion de l'organe délibérant devant approuver les comptes (assemblée générale ou conseil d'administration), la décision du tribunal de commerce ou l'accord du préfet de prorogation du délai de réunion de l'organe délibérant chargé d'approuver les comptes de l'exercice.
 
 NOTA :
 
-Conformément à l'article 6 de l'arrêté du 8 décembre 2023 (NOR : TREL2323399A), ces dispositions s'appliquent à compter de l'exercice comptable ouvert le 1er janvier 2023.
+Conformément à l’article 4 de l’arrêté du 5 août 2025 (NOR : ATDL2519386A), les dispositions issues de la rédaction de l’arrêté précité s'appliquent à compter de l'exercice comptable ouvert le 1er janvier 2026.
