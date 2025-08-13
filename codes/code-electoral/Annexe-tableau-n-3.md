@@ -1,133 +1,85 @@
 # Article Annexe tableau n° 3
 
-DESIGNATION DES SECTEURS
+Tableau des secteurs pour l'élection des membres des conseils d'arrondissement de Lyon |
 
-|
+Désignation des secteurs |
 
-ARRONDISSEMENT
+Arrondissements constituant les secteurs |
 
-constituant les secteurs
+Nombre de sièges |
 
-|
-
-NOMBRE DE SIEGES
-
-|
-
-1er secteur
-
-|
+1er secteur |
 
 1er
 
 |
 
-4
+12 |
 
-|
-
-2e secteur
-
-|
+2e secteur |
 
 2e
 
 |
 
-5
+12 |
 
-|
-
-3e secteur
-
-|
+3e secteur |
 
 3e
 
 |
 
-12
+44 |
 
-|
-
-4e secteur
-
-|
+4e secteur |
 
 4e
 
 |
 
-5
+15 |
 
-|
-
-5e secteur
-
-|
+5e secteur |
 
 5e
 
 |
 
-8
+20 |
 
-|
-
-6e secteur
-
-|
+6e secteur |
 
 6e
 
 |
 
-9
+22 |
 
-|
-
-7e secteur
-
-|
+7e secteur |
 
 7e
 
 |
 
-9
+37 |
 
-|
-
-8e secteur
-
-|
+8e secteur |
 
 8e
 
 |
 
-12
+36 |
 
-|
-
-9e secteur
-
-|
+9e secteur |
 
 9e
 
 |
 
-9
+23 |
 
-|
+NOTA :
 
-Total
-
-|
-
-|
-
-73
-
-|
+Conformément à l'article 6 de la loi n° 2025-795 du 11 août 2025, ces dispositions, dans leur rédaction issue de l'article 4 de la loi précitée, s'appliquent à compter du premier renouvellement général des conseils municipaux qui suit la promulgation de ladite loi.

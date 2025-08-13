@@ -1,121 +1,77 @@
 # Article Annexe tableau n° 4
 
-DESIGNATION DES SECTEURS
+Tableau des secteurs pour l'élection des membres des conseils d'arrondissement de Marseille |
+
+Désignation des secteurs |
+
+Arrondissements constituant les secteurs |
+
+Nombre de sièges |
+
+1er secteur |
+
+1er et 7e
 
 |
 
-ARRONDISSEMENT
+25 |
 
-constituant les secteurs
+2e secteur |
 
-|
-
-NOMBRE DE SIEGES
+2e et 3e
 
 |
 
-1er secteur
+27 |
+
+3e secteur |
+
+4e et 5e
 
 |
 
-1er, 7e
+33 |
+
+4e secteur |
+
+6e et 8e
 
 |
 
-11
+42 |
+
+5e secteur |
+
+9e et 10e
 
 |
 
-2e secteur
+47 |
+
+6e secteur |
+
+11e et 12e
 
 |
 
-2e, 3e
+43 |
+
+7e secteur |
+
+13e et 14e
 
 |
 
-8
+53 |
+
+8e secteur |
+
+15e et 16e
 
 |
 
-3e secteur
+33 |
 
-|
+NOTA :
 
-4e, 5e
-
-|
-
-11
-
-|
-
-4e secteur
-
-|
-
-6e, 8e
-
-|
-
-15
-
-|
-
-5e secteur
-
-|
-
-9e, 10e
-
-|
-
-15
-
-|
-
-6e secteur
-
-|
-
-11e, 12e
-
-|
-
-13
-
-|
-
-7e secteur
-
-|
-
-13e, 14e
-
-|
-
-16
-
-|
-
-8e secteur
-
-|
-
-15e, 16e
-
-|
-
-12
-
-|
-
-Total
-
-|
-
-|
-
-101
-
-|
+Conformément à l'article 6 de la loi n° 2025-795 du 11 août 2025, ces dispositions, dans leur rédaction issue de l'article 4 de la loi précitée, s'appliquent à compter du premier renouvellement général des conseils municipaux qui suit la promulgation de ladite loi.
