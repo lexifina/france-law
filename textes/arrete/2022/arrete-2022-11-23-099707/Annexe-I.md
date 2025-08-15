@@ -316,6 +316,54 @@ Lorsque l'augmentation de capacité est accompagnée d'un plan d'investissement,
 
 Conformément à l'article R. 541-218, ce soutien au développement est modulé en fonction du respect d'un objectif d'insertion par l'activité économique des personnes sans emploi, rencontrant des difficultés sociales et professionnelles particulières au sens de l'article L. 5132-1 du code du travail. Cet objectif est fixé à 15 % au moins des heures de travail ou de formation nécessaires au tri d'un tonnage supplémentaire de déchets triés l'année n devant être réalisées par ces personnes.
 
+3.4.2.4. Soutien exceptionnel au tri en 2025
+
+I.-L'éco-organisme soutient les opérateurs du tri en 2025 à hauteur de 49 millions euros au minimum.
+
+Ce soutien se substitue, pour l'année 2025, au soutien usuel prévu par l'application du présent cahier des charges.
+
+II.-Ce soutien exceptionnel aux opérateurs du tri est versé selon le calendrier suivant :
+
+-le premier versement a lieu au plus tard une semaine après la publication de l'arrêté du 13 août 2025 modifiant l'arrêté du 23 novembre 2022 portant cahiers des charges des éco-organismes et des systèmes individuels de la filière à responsabilité élargie du producteur des textiles, chaussures et linge de maison (TLC) pour les tonnages triés aux premier et deuxième trimestres 2025 ;
+
+-le deuxième versement a lieu en octobre 2025 pour les tonnages triés au troisième trimestre 2025 ;
+
+-le troisième versement a lieu en janvier 2026 pour les tonnages triés au quatrième trimestre 2025.
+
+Ces versements tiennent compte des soutiens usuels versés en 2025 en application du cahier des charges en vigueur au 13 août 2025.
+
+III.-Les modalités des premiers versements du soutien exceptionnel prévus au II sont calculées sur la base de 220 kt triées en 2025.
+
+IV.-Pour chaque opérateur le soutien prévu au II est calculé à partir de la déclaration du tonnage trié en 2025, plafonnée à hauteur du tonnage trié en 2024 augmenté de 5,5 %.
+
+Par exception à l'alinéa précédent, pour les opérateurs qui ont fait connaitre un investissement à l'éco-organisme en 2024, permettant d'augmenter la capacité de tri, la déclaration 2025 est plafonnée à hauteur de la somme du tonnage trié en 2024 auquel on ajoute une hausse de 5,5 % avec l'augmentation de capacité annoncée en 2024 (pour l'année 2025).
+
+V.-Le versement prévu en janvier 2026 est conditionné à la production d'un audit financier sur les coûts associés au tri effectué en 2025.
+
+3.4.2.5. Soutien exceptionnel au tri en 2026
+
+I.-L'éco-organisme soutient les opérateurs du tri en 2026 à hauteur de 57 millions euros au minimum.
+
+Ce soutien se substitue, pour l'année 2026, au soutien usuel prévu par l'application du présent cahier des charges.
+
+II.-Ce soutien exceptionnel aux opérateurs du tri est versé selon le calendrier suivant :
+
+-le premier versement a lieu en avril 2026 pour les tonnages triés au premier trimestre 2026 ;
+
+-le deuxième versement a lieu en juillet 2026 pour le tonnages triés au deuxième trimestre 2026 ;
+
+-le troisième versement a lieu en octobre 2026 pour le tonnages triés au troisième trimestre 2026 ;
+
+-le quatrième versement a lieu en janvier 2027 pour les tonnages triés au quatrième trimestre 2026.
+
+III.-Les modalités des premiers versements du soutien exceptionnel prévus au II sont calculées sur la base de 250 kt triées en 2026.
+
+IV.-Pour chaque opérateur le soutien prévu au II est calculé à partir de la déclaration du tonnage trié en 2026, plafonnée à hauteur du tonnage trié en 2024 augmenté de 16,5 %.
+
+Par exception à l'alinéa précédent, pour les opérateurs qui ont fait connaitre un investissement à l'éco-organisme en 2024, permettant d'augmenter la capacité de tri, la déclaration 2026 est plafonnée à hauteur de la somme du tonnage trié en 2024 auquel on ajoute une hausse de 16,5 % avec l'augmentation de capacité annoncée en 2024 (pour l'année 2026).
+
+V.-Le versement prévu en janvier 2027 est conditionné à la production d'un audit financier sur les coûts associés au tri effectués en 2026.
+
 3.5. Pourvoi à la collecte et au traitement des TLC usagés par l'éco-organisme
 
 3.5.1. Pourvoi à la collecte et au traitement des TLC usagés
